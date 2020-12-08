@@ -1,0 +1,69 @@
+---
+unique-page-id: 2359746
+description: 使用CNAME - Marketo Docs —— 产品文档自定义登陆页URL
+title: 使用CNAME自定义登陆页URL
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '273'
+ht-degree: 0%
+
+---
+
+
+# 使用CNAME自定义登陆页URL {#customize-your-landing-page-urls-with-a-cname}
+
+即使Marketo托管您的登陆页,URL也可以完全自定义。 没有CNAME时的外观：`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` 它的外观：
+`<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
+
+## 选择CNAME {#choose-a-cname}
+
+为登陆页选择URL开头的词。 只是一个词，应该比较短。 示例：
+
+* 走。 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
+* 信息。 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
+* 页面。 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
+
+一个词(加 [上YourCompany.com](http://YourCompany.com))称为CNAME。 你以后需要这个，记下来。
+
+## 查找帐户字符串 {#find-your-account-string}
+
+1. 转到“管 **理** ”区域并单击 **登陆页。**
+
+   ![](assets/image2014-9-18-16-3a2-3a45.png)
+
+   >[!NOTE]
+   >
+   >**需要管理员权限**
+
+1. 在登录页 **面** 选项卡 **** 下 **，从设** 置区复 **制帐户** 字符串 **** “”部分。
+
+   ![](assets/image2014-9-18-16-3a44-3a12.png)
+
+1. 您以后还需要，请记一下。
+
+## 向IT部门发送请求 {#send-request-to-it}
+
+请让您的IT员工设置以下CNAME:(将CNAME和 [ACCOUNT] STRING [替换为上] 一步中的文本。)
+
+[CNAME]。 [YourCompany.com](http://yourcompany.com/) > [ACCOUNT STRING]。 [mktoweb.com](http://mktoweb.com/)
+
+## 完成CNAME设置 {#complete-cname-setup}
+
+1. IT人员创建CNAME后，请转至“管 **理** ”并单 **击** “登 **陆**&#x200B;页面”。
+
+   ![](assets/image2014-9-18-17-3a15-3a11.png)
+
+1. 在“设 **置** ”部分下，单击“ **编辑”**。
+
+   ![](assets/image2014-9-18-17-3a15-3a18.png)
+
+1. 在DomainDomainPages中输 **入您的NAME** , **在LandingDomainPages中输** 入 **LandingLandingPage的名称，** InterYourLig回退， ************************&#x200B;输入您的NAME。
+
+   ![](assets/image2014-9-18-17-3a15-3a25.png)
+
+>[!NOTE]
+>
+>您的后退页面将是页面潜在客户在您的Marketo登陆页不可用时被重定向到的页面。
+
+干得好！ 您的登陆页现在与您的公司域一起添加品牌。
