@@ -1,0 +1,32 @@
+---
+unique-page-id: 14352525
+description: 标记为垃圾邮件的电子邮件——营销文档——产品文档
+title: 标记为垃圾邮件的电子邮件
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '241'
+ht-degree: 0%
+
+---
+
+
+# 标记为垃圾邮件的电子邮件 {#email-marked-as-spam}
+
+作为公司，我们努力确保我们的可交付率保持高。 但是，某些用户行为和设置会触发您发送的电子邮件被发送到垃圾邮件文件夹。
+
+**`Check Your Settings`**
+
+* [自定义域跟踪](http://docs.marketo.com/x/4oPS):这样，您就可以随时随地显示所有跟踪链接。”yourdomain”而不是go.toutapp。 某些电子邮件安全性会发现该电子邮件来自“您的域”，但链接正被重新路由到go.toutapp。 通过实施自定义域链接跟踪电子邮件将看起来合法，并且点击收件人收件箱的可能性更高。
+* [电子邮件投放渠道](http://docs.marketo.com/x/y4TS):默认情况下，您的电子邮件通过ToutApp服务器发送。 通过设置您自己的Gmail或自定义SMTP，您可以为电子邮件提供最好的登录收件人收件箱的机会。 [单击此处](https://nation.marketo.com/docs/DOC-5080) ，了解有关根据需要选择正确的投放渠道的更多信息。
+
+**检查电子邮件行为**
+
+* 保持电子邮件简短和非正式，并将模板粘贴为您之前编写的电子邮件。
+
+* 避免格式过度的电子邮件或使用跨国词的邮件。 更多信 [息](http://www1.toutapp.com/blog/how-to-keep-your-sales-emails-out-of-the-spam-filter/)。
+
+* 确保您有一个完整的电子邮件签名，并带有实际地址。
+
+* 阅读并确保您遵守CAN- [SPAM法律](http://docs.marketo.com/display/docs/assets/external-link.jspa)。
+
