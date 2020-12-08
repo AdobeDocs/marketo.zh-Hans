@@ -1,0 +1,51 @@
+---
+unique-page-id: 2359584
+description: 冠军／挑战者——声明冠军——营销文档——产品文档
+title: 冠军／挑战者——宣布冠军
+translation-type: tm+mt
+source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+workflow-type: tm+mt
+source-wordcount: '124'
+ht-degree: 0%
+
+---
+
+
+# 冠军／挑战者：宣布冠军 {#champion-challenger-declare-a-champion}
+
+准备就绪后，您可以声明为电子邮件测试提供支持。
+
+>[!MORELIKETHIS]
+>
+>* [冠军／挑战者：批准电子邮件测试](champion-challenger-approve-your-email-test.md)
+
+
+1. 转到营 **销活动**。
+
+   ![](assets/login-marketing-activities-2.png)
+
+1. 查找并右键单击电子邮件测试，然后单击“声 **明冠军”**。
+
+   ![](assets/champion4.jpg)
+
+1. 选择 **的** “入选方”。
+
+   ![](assets/image2014-9-15-13-3a33-3a33.png)
+
+1. 设置“ **声明日期**”。
+
+   >[!NOTE]
+   >
+   >在宣 **布日期**,Marketo将继续派老冠军和挑战者。 一旦到达日期／时间，将只发送新的冠军。
+
+   ![](assets/image2014-9-15-13-3a33-3a47.png)
+
+   >[!CAUTION]
+   >
+   >请注意，默认的 **声明日期** 是明天，而不是今天。
+
+   选择时间，然后单击“ **保存**”。
+
+   ![](assets/image2014-9-15-13-3a33-3a56.png)
+
+   Rad! 现在，您了解如何轻松运行电子邮件测试，以在不中断活动的情况下改进内容。
