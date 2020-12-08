@@ -1,0 +1,92 @@
+---
+unique-page-id: 10100642
+description: 创建应用程序内消息文本- Marketo Docs —— 产品文档
+title: 创建应用程序内消息文本
+translation-type: tm+mt
+source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 0%
+
+---
+
+
+# 创建应用程序内消息文本 {#create-in-app-message-text}
+
+单击文本区域以处理文本样式和内容。
+
+1. 单击“主文本”以随文编辑。
+
+   ![](assets/image2016-5-6-9-3a56-3a56.png)
+
+1. 通过单击文本颜色或在拾色器上输入十六进制或RGB数字来选择文本颜色。
+
+   ![](assets/image2016-5-6-9-3a59-3a1.png)
+
+1. 单击箭头以选择文本大小。
+
+   ![](assets/image2016-5-6-10-3a6-3a51.png)
+
+   >[!CAUTION]
+   >
+   >文本大小过大可能会将内容推送超过最多三行可见文本。
+
+1. 选择可选类型样式，以强调： **粗体**、 *斜体*&#x200B;或下划线。
+
+   ![](assets/image2016-5-6-10-3a15-3a32.png)
+
+1. 选择文本对齐方式：左，居中，右。 “居中”是默认设置。
+
+   ![](assets/image2016-5-6-10-3a18-3a45.png)
+
+   >[!NOTE]
+   >
+   >广告中呈现的文本字体是每个平台的标准字体：适用于Apple的Helvetica和适用于Android的Roboto
+
+1. 选中该框以选择文本点按操作。
+
+   ![](assets/image2016-5-6-10-3a20-3a41.png)
+
+1. 为每个平台选择点按操作：Apple或Android。
+
+   ![](assets/image2016-5-6-10-3a22-3a12.png)
+
+   >[!NOTE]
+   >
+   >对于点按操作，您可以为Apple和Android平台设置不同的操作。 例如，对于Apple和Android，深层链接的处理方式不同。 如果消息仅传送到一个平台或另一个平台，则可以将另一个平台保留在默认设置中，或选择“无”。
+
+1. 单击支持文本以随文编辑它。 它的工作方式与编辑主文本相同，但默认文本大小较小。
+
+   ![](assets/image2016-5-6-10-3a26-3a27.png)
+
+1. 对于主文本或支持文本，单击令牌图标以添加令牌。
+
+   ![](assets/image2016-5-6-10-3a29-3a2.png)
+
+1. 从下拉菜单中选择一个我的令牌，添加默认值，然后单击 **插入**。
+
+   ![](assets/mytoken.png)
+
+   >[!NOTE]
+   >
+   >只有“我的令牌”选项可用。 如果项目中未设置我的令牌，则令牌下拉框将为空。
+
+   >[!TIP]
+   >
+   >请务必考虑令牌在受众查看时解析到的字符长度。 留出足够的空间来解释可能更长的值，以防止它们被截断。
+
+   您对在已批准的应用程序内消息项目中使用的令牌所做的任何更改将在应用程序内消息中生效，直到项目暂停并恢复。
+
+你是金子。 接下来，您需 [要设置应用程序内消息按钮](set-up-the-in-app-message-button.md)。
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [了解应用程序内消息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [为应用程序内消息选择布局](choose-a-layout-for-your-in-app-message.md)
+
+>
+
+
+
