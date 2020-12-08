@@ -1,0 +1,55 @@
+---
+unique-page-id: 5472314
+description: 在自由表单登陆页- Marketo Docs —— 产品文档中添加指向图像的链接
+title: 在自由表单登陆页中添加指向图像的链接
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '121'
+ht-degree: 0%
+
+---
+
+
+# 在自由表单登陆页中添加指向图像的链接 {#add-a-link-to-an-image-in-a-free-form-landing-page}
+
+想让登陆页上的图像成为指向其他页面／站点的链接吗？ 这是方法。
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>* [将图像添加到自由格式登陆页](add-an-image-to-a-free-form-landing-page.md)
+
+>
+
+
+
+1. 单击要添加链接的图像。
+
+   ![](assets/click-on-image.png)
+
+1. 展开“属 **性表”**。
+
+   ![](assets/image2015-5-21-15-3a42-3a27.png)
+
+1. 将链接复制或键入到**linkUrl **框中。
+
+   ![](assets/add-link.png)
+
+   恭喜！ 您现在已成功地在登陆页上添加了指向图像的链接。 您现在可 [以预览页](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) 面以查看其实际操作情况。
+
+>[!TIP]
+>
+>始终测试页面！
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [预览登陆页](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
+
+>
+
+
+
