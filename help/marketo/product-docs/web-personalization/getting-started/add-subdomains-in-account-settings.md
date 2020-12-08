@@ -1,0 +1,41 @@
+---
+unique-page-id: 17727870
+description: 在“帐户设置”-“营销文档”-“产品文档”中添加子域
+title: 在帐户设置中添加子域
+translation-type: tm+mt
+source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+workflow-type: tm+mt
+source-wordcount: '163'
+ht-degree: 0%
+
+---
+
+
+# 在帐户设置中添加子域 {#add-subdomains-in-account-settings}
+
+下面将介绍如何在帐户设置中向主域添加子域。 这将允许您管理与主域的特定RTP Javascript相关的子域。 建议将Javascript标记部署到任何添加的子域。
+
+1. 在“Web个性化”中，转到“帐 **户设置”**。
+
+   ![](assets/image2014-12-1-23-3-12.png)
+
+1. 在“域配置”页上，您将看到与您的帐户关联的所有主域的列表。 每个部分首先列表主域（在下面突出显示），然后是任何子域。 单击 **添加子域**。
+
+   ![](assets/highlightprimary2.png)
+
+1. 单击 **添加**。
+
+   ![](assets/add.png)
+
+1. 输入子域URL。 单 **击** “添 **加”或“删除** ”以管理子域的列表, **完成后单击** “确定”。
+
+   ![](assets/newsubdomain.png)
+
+1. 现在将列出您新添加的子域。
+
+   ![](assets/finalnew.png)
+
+   >[!NOTE]
+   >
+   >如果要向帐户 *添加* 主域，请与Marketto支 [持联系](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133)。
+
