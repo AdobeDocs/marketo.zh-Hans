@@ -1,0 +1,94 @@
+---
+unique-page-id: 42762794
+description: 在Salesforce Classic - Marketo Docs —— 产品文档中使用批量操作
+title: 在Salesforce Classic中使用批量操作
+translation-type: tm+mt
+source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+workflow-type: tm+mt
+source-wordcount: '393'
+ht-degree: 0%
+
+---
+
+
+# 在Salesforce Classic中使用批量操作 {#using-bulk-actions-in-salesforce-classic}
+
+了解如何执行批量操作，如向活动添加潜在客户、发送批量电子邮件或将潜在客户从Salesforce推送到Sales Connect。
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>更新至Sales Connect包的最新版本，并在潜在客户／联系视图中安装批量操作按钮。 [单击此处以获取说明](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)。
+
+>[!NOTE]
+>
+>在执行上述步骤之前，请确保您已登录到Marketo Sales Connect帐户。
+
+## 批量电子邮件 {#bulk-email}
+
+1. 在Salesforce中，单击“潜 **在客户** ”选项卡，然 **后单击** “转到”。
+
+   ![](assets/one-5.png)
+
+1. 选择所需的潜在客户，然后单 **击“通过MSC（经典）发送电子邮件** ”按钮。
+
+   ![](assets/two-5.png)
+
+1. 将弹出MSC电子邮件。 它包括以下功能：
+
+   a.“收件人”字段显示“所有收款”-此字段与您在“潜在客户列表”视图中选择的潜在客户的列表相对应\
+   b.此列表显示在名为“批量合成”的左面板上——您可以在此处添加／删除收件人\
+   c.您可以选择模板或创建自己的电子邮件\
+   d.您可以预览将在电子邮件中填充的动态字段\
+   e.您可以立即发送电子邮件或计划稍后发送该电子邮件
+
+   ![](assets/three-4.png)
+
+## 添加到活动 {#add-to-campaign}
+
+1. 在Salesforce中，单击“潜 **在客户** ”选项卡，然 **后单击** “转到”。
+
+   ![](assets/four-3.png)
+
+1. 选择所需的潜在客户，然后单 **击添加到MSC活动（经典）按** 钮。
+
+   ![](assets/five-3.png)
+
+1. 将出现“将人员添加到您的活动”弹出窗口。 单 **击** “下一步”并浏览典型活动流以触发MSC活动。
+
+   ![](assets/six.png)
+
+## 推向Marketo Sales Connect {#push-to-marketo-sales-connect}
+
+1. 在Salesforce中，单击“潜 **在客户** ”选项卡，然 **后单击** “转到”。
+
+   ![](assets/seven-1.png)
+
+1. 选择所需的潜在客户，然后单 **击“推送到MSC（经典）** ”按钮。
+
+   ![](assets/eight-1.png)
+
+1. 将打开一个名为“Salesforce Bridge”的新选项卡。 单击“ **继续到组→** ”按钮。
+
+   ![](assets/nine-1.png)
+
+1. 您将被发送到MSC帐户，在该帐户中，您将看到使用日期／时间戳创建的组。 同步完成后，您将收到通知，并且组将包含从Salesforce同步的潜在客户。
+
+   ![](assets/ten.png)
+
+>[!NOTE]
+>
+>您也可以按照相同的步骤在“联系列表”视图中使用批量操作。
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [通过组电子邮件发送电子邮件](http://docs.marketo.com/x/KAQ6Ag)
+>* [使用“选择并发送”编写批量电子邮件](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+
+>
+
+
+
