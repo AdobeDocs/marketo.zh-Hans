@@ -1,0 +1,79 @@
+---
+unique-page-id: 2359685
+description: 参与仪表板-营销文档——产品文档
+title: 参与仪表板
+translation-type: tm+mt
+source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+workflow-type: tm+mt
+source-wordcount: '271'
+ht-degree: 0%
+
+---
+
+
+# 参与仪表板 {#the-engagement-dashboard}
+
+参与仪表板是查看您的参与项目中内容的效果 [的最简](http://docs.marketo.com/display/docs/drip+nurturing) 单方法。
+
+>[!NOTE]
+>
+>每次演出后72小时计算参与得分。 进一步了解参 [与情况](understanding-the-engagement-score.md)。
+
+## 视图参与仪表板 {#view-the-engagement-dashboard}
+
+选择您的参与项目，然后单击 **视图>仪表板**。
+
+![](assets/image2014-9-15-16-3a42-3a41.png)
+
+>[!TIP]
+>
+>查看参与流 [绩效报告](engagement-stream-performance-report.md) ，获得更详细的统计信息。
+
+## 了解耗尽构件 {#understand-the-exhaustion-widget}
+
+此构件可帮助您预测潜在客户何时耗尽所有内容。 在每次投出后立即计算耗尽分数。 以下示例显示，在1个转换中，195个潜在客户将耗尽所有内容。
+
+![](assets/image2014-9-15-16-3a45-3a10.png)
+
+>[!NOTE]
+>
+>您必须进入“设置”选项卡，确保“已用尽的内容通 **知** ”已打开，才能看到上图。 如果它们关闭，则图表看起来会有所不同。
+
+>[!CAUTION]
+>
+>“精疲力尽”的人在下一场中不会收到任何通信。
+
+## 了解随时间推移的参与度构件 {#understand-the-engagement-over-time-widget}
+
+显示一段时间内的平均参与度得分以及内容编辑的影响。
+
+>[!NOTE]
+>
+>**可用性**
+>
+>此功能是利用Marketo的Revenue Cycle Explorer的客户的附加功能。 有关更多详细信息，请联系您的客户成功经理。
+
+![](assets/image2014-9-15-16-3a45-3a50.png)
+
+要显示单条内容而非平均内容，请单击齿轮图标，然后选择该条内容。
+
+![](assets/image2014-9-15-16-3a46-3a45.png)
+
+## 了解最高参与度构件 {#understand-the-highest-engagement-widget}
+
+所有内容的列表，按最高参与度得分排序。
+
+![](assets/image2014-9-15-16-3a46-3a54.png)
+
+要更改排序，请单击齿轮图标，然后选择排序顺序。
+
+![](assets/image2014-9-15-16-3a46-3a58.png)
+
+*“最新* ”和“ *最旧* ”基于上次审批的时间。
+
+>[!NOTE]
+>
+>**深潜**
+>
+>深入了解 [创建参与项目](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 。
+
