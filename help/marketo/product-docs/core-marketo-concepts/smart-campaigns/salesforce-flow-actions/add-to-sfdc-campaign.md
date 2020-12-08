@@ -1,0 +1,59 @@
+---
+unique-page-id: 1147034
+description: 添加到SFDC活动- Marketo Docs —— 产品文档
+title: 添加到SFDC活动
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '227'
+ht-degree: 0%
+
+---
+
+
+# 添加到SFDC活动 {#add-to-sfdc-campaign}
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
+
+>[!NOTE]
+>
+>仅当与Salesforce集成时可用。
+
+## 概述 {#overview}
+
+此流步骤可用于Marketo活动，或作为单个流步骤将人员添加为Salesforce活动中的潜在客户。 如果Salesforce中尚不存在该潜在客户，它将自动同步并添加到具有指定状态的活动。
+
+![](assets/image2014-9-22-15-3a43-3a36.png)
+
+## 使用情况 {#usage}
+
+1. 查找并选择要将潜在客户添加到的Salesforce活动。
+
+   ![](assets/image2014-9-22-15-3a43-3a45.png)
+
+   >[!TIP]
+   >
+   >如果您在活动列表中看不到Salesforce活动:
+   >
+   >    
+   >    
+   >    1. 确保已启 [用活动同步](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)。
+   >    1. 确认您的Marketo [Sync用户](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 是Salesforce [中的Marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) 用户。
+
+
+   >[!TIP]
+   >
+   >您可以使用Salesforce活动 [我的令牌](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) ，更轻松地克隆项目。
+
+1. 选择要在添加潜在客户时分配给潜在客户的Salesforce活动成员状态。
+
+   ![](assets/image2014-9-22-15-3a45-3a2.png)
+
+   >[!CAUTION]
+   >
+   >如果某人已经是Salesforce活动的潜在客户成员，则将跳过他们，并且不会更新他们的状态。 您可以改 [用在SFDC活动中更改其状态](change-status-in-sfdc-campaign.md) 。
+
