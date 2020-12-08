@@ -1,0 +1,96 @@
+---
+unique-page-id: 11385020
+description: 在电子邮件- Marketo Docs —— 产品文档中启用预测性内容
+title: 在电子邮件中启用预测性内容
+translation-type: tm+mt
+source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+workflow-type: tm+mt
+source-wordcount: '367'
+ht-degree: 0%
+
+---
+
+
+# 在电子邮件中启用预测性内容 {#enable-predictive-content-in-emails}
+
+在您的电子邮件中制作一个或多个图像，为每个收件人定制体验。
+
+>[!NOTE]
+>
+>建议您在测试和使用预测内容之前，针对每个类别和每个源（电子邮件、富媒体、条）启用五种以上的内容。 更多内容可为您带来更好的预测效果。
+
+>[!PREREQUISITES]
+>
+>在启用预测内容之前。 您必须：
+>
+>* [准备您的预测性内容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* [批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+
+
+## 使用Email 2.0 Editor添加预测性内容 {#adding-predictive-content-using-the-email-editor}
+
+1. 单击 **营销活动**。
+
+   ![](assets/one.png)
+
+1. 选择您的电子邮件，然后单 **击“编辑草稿**”。
+
+   ![](assets/two.png)
+
+1. 单击要进行预测的图像。 出现齿轮图标时，单击该图标并选 **择“启用内容`AI`** ”(“内容`AI` ”是“预测内容”的前一个名称)。
+
+   ![](assets/three.png)
+
+1. 要选择一个或多个类别，请单 **击** “类别”下拉框 **，进行选择，然后单击“应**&#x200B;用”。
+
+   ![](assets/four.png)
+
+   >[!NOTE]
+   >
+   >选择特定类别或更改预测布局是可选的。
+
+1. 您的图像现在具有预测性。 对其他图像重复步骤3和4（如果需要）。
+
+   ![](assets/five.png)
+
+1. 要预览电子邮件，请 **单击** 右上角的“预览”。
+
+   ![](assets/six.png)
+
+1. 要视图不同的可能图像，请单击“ **刷新**”。
+
+   ![](assets/seven.png)
+
+   >[!NOTE]
+   >
+   >在收件人打开电子 **_邮件之前，不会选择图像_**。 所以你在预览中看到的只是一个例子，它不一定是收件人看到的图像。
+
+1. 预览完电子邮件后，单击“预览操 **作** ”下拉框，然 **后选择批准并关闭**。 或者，如果您仍需要编辑，请单击右 **侧的“编辑** 草稿”。
+
+   ![](assets/eight.png)
+
+   >[!NOTE]
+   >
+   >发送样本时，将选择随机图像。
+
+在您批准电子邮件后，它将配备预测内容并准备好发送！
+
+>[!CAUTION]
+>
+>收件人打开电子邮件后，预测图像即被锁定。 如果稍后删除内容，收件人将看到内容所在的损坏图像。
+
+## 不使用Email 2.0编辑器时添加预测内容 {#adding-predictive-content-when-not-using-the-email-editor}
+
+如果您没有使用Email 2. [0模板](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) ，则只需将模板中的图像标记为Marketo可编辑的图像元素，即可在电子邮件中添加预测内容。
+
+单击此处了 [解特定于Marketo的语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements)。
+
+以下是代码的外观示例（这只是一个示例，不要完全复制下面的代码）。
+
+**示例**
+
+```example
+<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com">  
+<a><img style="border:10px solid red;"></a>  
+</div>
+```
