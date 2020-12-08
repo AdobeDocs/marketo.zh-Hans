@@ -1,0 +1,67 @@
+---
+unique-page-id: 2359491
+description: 添加A/B测试- Marketo文档——产品文档
+title: 添加A/B测试
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 0%
+
+---
+
+
+# 添加A/B测试 {#add-an-a-b-test}
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>* [创建电子邮件项目](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [使用智能受众定义列表](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ，或 [通过导入列表定义受众](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+
+   >
+   >
+* [选择现有电子邮件](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) , [或为电子邮件项目创建电子邮件](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+
+>
+
+
+
+测试是优化电子邮件以提高参与度的绝佳方式。 下面介绍如何开始。
+
+1. 转到营 **销活动**。
+
+   ![](assets/login-marketing-activities.png)
+
+1. 选择您的电子邮件项目。
+
+   ![](assets/selectemailprogram.jpg)
+
+1. 在“电 **子邮件** ”拼贴下， **单击“添加A/B测试”**。
+
+   ![](assets/image2014-9-12-14-3a39-3a29.png)
+
+   >[!NOTE]
+   >
+   >添加A/B测试时，所选电子邮件将不再可用于任何其他项目。
+
+1. 将打开一个新窗口，其中有不 **同的测试类** 型可供选择。 浏览以下相关文章之一以继续。
+
+   >[!CAUTION]
+   >
+   >如果您的重复库中有记录，这些记录将收 **到测** 试和入选电子邮件。 要防止这种情况发生，请确保在 [重复库中找到并合并](http://docs.marketo.com/x/G4EI) 人。
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [使用“主题行”A/B测试](use-subject-line-a-b-testing.md)
+>* [使用“整封电子邮件”A/B测试](use-whole-email-a-b-testing.md)
+>* [使用“发件人地址”A/B测试](use-from-address-a-b-testing.md)
+>* [使用“日期／时间”A/B测试](use-date-time-a-b-testing.md)
+
+>
+
+
+
