@@ -1,0 +1,30 @@
+---
+unique-page-id: 14352473
+description: 如何在Salesforce中安装Sales Connect按钮- Marketo Docs —— 产品文档
+title: 如何在Salesforce中安装Sales Connect按钮
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '118'
+ht-degree: 0%
+
+---
+
+
+# 如何在Salesforce中安装Sales Connect按钮 {#how-to-install-sales-connect-buttons-in-salesforce}
+
+使用Marketo Sales Connect轻松安装电话、发送Marketo Sales电子邮件和添加到活动。 您需要在Salesforce中具有管理员权限才能安装这些字段。
+
+1. 登录 [Salesforce.com。](http://Salesforce.com)
+1. 单击“ **自定义**”。
+1. 单击 **潜在客户**。
+1. 单击“ **页面布局**”。
+1. 单击要添加按钮的“潜在客户布局”旁边的**编辑**。
+1. 单击“ **按钮**”。
+1. 将Sales Connect按钮拖放到“Lead Details”部分。
+1. 单击 **保存**。
+
+   >[!NOTE]
+   >
+   >您可以重复这些步骤，将它们安装到“联系人布局”。 确保为步骤3 **选择** “联系人”。
+
