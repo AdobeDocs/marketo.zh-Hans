@@ -1,0 +1,48 @@
+---
+unique-page-id: 1147060
+description: 取消计划的重复批活动运行- Marketo Docs —— 产品文档
+title: 取消计划的重复批活动运行
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '121'
+ht-degree: 0%
+
+---
+
+
+# 取消计划的重复批活动运行 {#cancel-a-scheduled-recurring-batch-campaign-run}
+
+如果您有不再需要的重复批活动，可以取消将来的运行。 这是方法。
+
+1. 单击智能活动，然后单击 **计划** 选项卡。
+
+   ![](assets/image2014-9-22-16-3a44-3a51.png)
+
+1. 单击“ **计划****重复**”。
+
+   ![](assets/image2014-9-22-16-3a44-3a55.png)
+
+   >[!TIP]
+   >
+   >单击它旁边的单次运行 ![可](assets/image2014-9-22-16-3a45-3a42.png) 以取消它。 了解如何取 [消计划的批处理活动运行](cancel-a-scheduled-batch-campaign-run.md)。
+
+1. 将计划设 **置为** “无”, **然后保存**。
+
+   ![](assets/image2014-9-22-16-3a45-3a56.png)
+
+   瞧！ 您的智能活动将不再运行。
+
+   >[!CAUTION]
+   >
+   >这会取消将来的运行，但如果智能活动正在运行，则无法取消它。
+
+   >[!NOTE]
+   >
+   >**相关文章**
+   >
+   >    
+   >    
+   >    * [取消计划的批处理活动运行](cancel-a-scheduled-batch-campaign-run.md)
+
+
