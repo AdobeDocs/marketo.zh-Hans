@@ -1,0 +1,60 @@
+---
+unique-page-id: 2359540
+description: 在登陆页- Marketo Docs —— 产品文档中包含日历事件ICS文件
+title: 在事件中包含日历登陆页ICS文件
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '121'
+ht-degree: 0%
+
+---
+
+
+# 在事件中包含日历登陆页ICS文件 {#include-a-calendar-event-ics-file-in-a-landing-page}
+
+日 **历文件事件** ，允许您向Marketo登陆页添加日历(.ics)链接。
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>* [创建日历事件(.ics)文件](../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
+
+>
+
+
+
+1. 在登陆页编辑器中， **单击{..** }以插入令牌。
+
+   ![](assets/image2015-7-8-17-3a51-3a29.png)
+
+1. 选择日历 **文件令牌** ，然后单 **击插入**。
+
+   >[!CAUTION]
+   >
+   >登陆页不支持以下令牌：
+   >
+   >    
+   >    
+   >    * member.webinar URL
+
+
+   ![](assets/image2015-1-6-16-3a31-3a28.png)
+
+1. 单击 **保存**。
+
+   人们将看到一个类似的登陆页:   ![](assets/image2015-1-6-16-3a42-3a51.png)
+
+真贴心！ 现在一切都应该很好。 确保进行测试。
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [在电子邮件中包含日历事件(.ics)](../../../../product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+
+>
+
+
+
