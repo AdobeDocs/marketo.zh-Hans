@@ -1,0 +1,78 @@
+---
+unique-page-id: 2953352
+description: 直接在营销日历- Marketo Docs —— 产品文档中编辑条目
+title: 直接在营销日历中编辑条目
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 0%
+
+---
+
+
+# 直接在营销日历中编辑条目 {#edit-entries-directly-in-the-marketing-calendar}
+
+进入项目焦点模式后，您可以快速更改日历条目。 这是方法。
+
+## 启用项目焦点 {#enable-program-focus}
+
+1. 转到日 **历**。
+
+   ![](assets/2017-05-10-15-30-47-3.png)
+
+1. 选择属于要聚焦的项目的条目，然后单击“显示 **项目焦点”**。
+
+   ![](assets/image2014-10-20-13-3a16-3a7.png)
+
+## 重新计划录入 {#reschedule-entry}
+
+1. 只需拖放一个条目即可重新计划它。
+
+   ![](assets/image2014-10-20-13-3a16-3a18.png)
+
+## 编辑条目名称 {#edit-entry-name}
+
+1. 选择要重命名的条目。
+
+   ![](assets/image2014-10-20-13-3a16-3a31.png)
+
+1. 编辑条目名称。
+
+   ![](assets/image2014-10-20-13-3a16-3a42.png)
+
+   >[!TIP]
+   >
+   >您还可以编辑描述。
+   >
+   >
+   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
+
+## 转换输入类型 {#convert-entry-type}
+
+在基本条目中快速进行了铅笔注释后，可以将它们转换为最终形式。
+
+1. 查找并选择要转换和更改其类型的基本条目。
+
+   ![](assets/image2014-10-20-13-3a18-3a38.png)
+
+## 编辑条目详细信息 {#edit-entry-details}
+
+您可以快速访问条目的不同区域进行编辑。
+
+1. 右键单击某个条目，然后选择要编辑的区域。
+
+   ![](assets/image2014-10-20-13-3a18-3a48.png)
+
+就这样！ 正如您所看到的，您可以直接从营销日历中执行许多操作。
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [直接在营销日历中删除条目](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
+
+>
+
+
+
