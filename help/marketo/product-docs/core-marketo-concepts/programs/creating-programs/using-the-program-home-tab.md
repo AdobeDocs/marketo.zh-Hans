@@ -1,0 +1,80 @@
+---
+unique-page-id: 1147126
+description: 使用项目主页选项卡- Marketo Docs —— 产品文档
+title: 使用项目主页选项卡
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 0%
+
+---
+
+
+# 使用项目主页选项卡 {#using-the-program-home-tab}
+
+项目主页选项卡为您提供了项目中发生情况的高级视图。
+
+## 摘要视图 {#summary-view}
+
+1. 转到营 **销活动**。
+
+   ![](assets/login-marketing-activities-1.png)
+
+1. 选择项目。
+
+   ![](assets/image2014-9-18-17-3a1-3a55.png)
+
+   >[!NOTE]
+   >
+   >这是您的默认视图。 它提供有关设置、计划、结果和成员项目状态的信息。
+
+   单击带下划线的元素以进行更改或视图更多信息。
+
+   ![](assets/image2014-9-18-17-3a2-3a53.png)
+
+   单击“摘要”底部的“导出”以下载报告。
+
+   ![](assets/image2014-9-18-17-3a3-3a47.png)
+
+## 由视图使用 {#used-by-view}
+
+1. 在营销活动中，选择一个项目。
+
+   ![](assets/image2014-9-18-17-3a4-3a24.png)
+
+1. 单击 **视图** 下拉框。 选择 **使用者**。
+
+   ![](assets/image2014-9-18-17-3a5-3a2.png)
+
+   此视图显示了智能活动的使用情况。
+
+   ![](assets/image2014-9-18-17-3a6-3a4.png)
+
+## 会员资格视图 {#membership-view}
+
+1. 在营销活动中，选择一个项目。
+
+   ![](assets/image2014-9-18-17-3a7-3a25.png)
+
+1. 单击 **视图** 下拉框。 选择 **会员资格**。
+
+   ![](assets/image2014-9-18-17-3a7-3a49.png)
+
+   此图显示了成员在项目状态中移动时所在的位置。
+
+   ![](assets/image2014-9-18-17-3a8-3a1.png)
+
+   >[!NOTE]
+   >
+   >**Historical****表示曾经访问过项目的任何人，而** Current仅包括当前项目中的人。
+
+   >[!NOTE]
+   >
+   >**相关文章**
+   >
+   >    
+   >    
+   >    * [了解项目会员资格](understanding-program-membership.md)
+
+
