@@ -1,0 +1,66 @@
+---
+unique-page-id: 2359671
+description: 向表单字段添加提示文本- Marketo Docs —— 产品文档
+title: 向表单字段添加提示文本
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 0%
+
+---
+
+
+# 向表单字段添加提示文本 {#add-hint-text-to-a-form-field}
+
+提示和 [说明](add-tooltip-instructions-to-a-form-field.md) ，帮助用户填写表单。 下面介绍如何添加提示。
+
+>[!NOTE]
+>
+>**定义**
+>
+>表单 **提示** 是字段内的文本，当访客开始在字段中键入时，该文本会消失。
+>
+>表单 **说明** 是一些小工具提示，当访客悬停在字段上时显示。
+
+1. 转到营 **销****活动**。
+
+   ![](assets/login-marketing-activities-5.png)
+
+1. 选择表单，然后单击 **编辑****表单**。
+
+   ![](assets/image2014-9-15-13-3a54-3a6.png)
+
+1. 选择该字段并输入 **提示****文本**。
+
+   ![](assets/image2014-9-15-13-3a53-3a58.png)
+
+1. 单击 **完成**。
+
+   ![](assets/image2014-9-15-13-3a53-3a36.png)
+
+1. 单击 **批准并关闭**。
+
+   ![](assets/image2014-9-15-13-3a53-3a29.png)
+
+   >[!NOTE]
+   >
+   >**提醒**
+   >
+   >
+   >不要忘记批准 [由表单更改](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 创建的登陆页草稿。
+
+   ![](assets/image2014-9-15-13-3a53-3a23.png)
+
+看看！ 现在，让我们继续添加 [说明](add-tooltip-instructions-to-a-form-field.md) 。
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [向表单字段添加工具提示说明](add-tooltip-instructions-to-a-form-field.md)
+
+>
+
+
+
