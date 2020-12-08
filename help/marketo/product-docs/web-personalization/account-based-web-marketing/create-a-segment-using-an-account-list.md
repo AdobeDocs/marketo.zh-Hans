@@ -1,0 +1,51 @@
+---
+unique-page-id: 4720236
+description: 使用帐户列表- Marketo Docs —— 产品文档创建区段
+title: 使用帐户创建列表
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 0%
+
+---
+
+
+# 使用帐户创建列表 {#create-a-segment-using-an-account-list}
+
+下面介绍如何使用帐户列表创建区段。
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>* [创建新帐户列表](../../../product-docs/account-based-marketing/target/account-lists.md)
+
+>
+
+
+
+1. 转至 **区段**。
+
+   ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
+
+1. 单击 **新建**。
+
+   ![](assets/image2014-11-19-19-3a33-3a47.png)
+
+1. 输入区段的名称。 从Firmographics部分 **拖放** “帐 **户列表** ”。
+
+   ![](assets/set-segment-hands.jpg)
+
+1. 从您上传的已命名帐户的列表中选择帐户列表。 帐户列表名称旁方括号中的数字是列表的ID，以供API参考。
+
+   ![](assets/select-list-for-segment-hands.jpg)
+
+   >[!NOTE]
+   >
+   >帐户列表从ABM同步到Web个性化，以用于分段。 从下拉列表中选择它们。 同步最多可能需要五分钟。 仅当帐户列表中有一个或多个指定帐户时，才会同步。
+
+1. 单击 **保存**，或单击 **保存并定义活动** ，以转到活动页面。\
+   ![](assets/image2014-11-19-19-3a48-3a20.png)
+
+恭喜！ 您现在已设置针对帐户列表的区段。
