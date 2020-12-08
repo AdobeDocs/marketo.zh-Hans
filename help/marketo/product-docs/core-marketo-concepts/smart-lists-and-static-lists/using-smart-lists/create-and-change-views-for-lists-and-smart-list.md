@@ -1,0 +1,83 @@
+---
+unique-page-id: 557337
+description: 为列表和智能列表创建和更改视图- Marketo Docs —— 产品文档
+title: 为列表和智能列表创建和更改视图
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '226'
+ht-degree: 0%
+
+---
+
+
+# 为列表和智能列表创建和更改视图 {#create-and-change-views-for-lists-and-smart-list}
+
+智能列表显示默认的列集。 您知道可以根据您心中的内容编辑这些列吗？ 这是方法。
+
+## 创建视图 {#create-a-view}
+
+1. 转到列表或智能列表，单击“人 **员** ”选项卡，然后单 **击“** 创建 **** 视图 **”(** RegationDrop-down)下方的“视图”。
+1. ![](assets/smartlist-createview.png)
+
+1. 命名视图并查找要添加或删除的列。
+
+   ![](assets/image2014-9-12-11-3a23-3a53.png)
+
+   添加／删除所需的列，然后单击创建。
+
+   ![](assets/image2014-9-12-11-3a24-3a7.png)
+
+>[!TIP]
+>
+>要快速搜索，请使用“查 **找** ”框。
+
+## 切换视图 {#switch-views}
+
+1. 单击 **视图** 下拉框，然后选择所需的视图。 根据需要在视图之间来回切换。
+
+   ![](assets/smartlist-customviewchoose.png)
+
+>[!NOTE]
+>
+> 除默认视图外，您必须先创建第二个视图，才能切换视图。
+
+## 编辑视图 {#edit-a-view}
+
+1. 确保在“视图”下拉框中选 **择** 要编辑的视图。
+
+   ![](assets/smartlist-customviewchoose.png)
+
+1. 单击“编 **辑** ”选项。
+
+   ![](assets/smartlist-editcustomview.png)
+
+1. 进行所需的更改，然后单击“ **保存**”。
+
+   ![](assets/image2014-9-12-11-3a27-3a19.png)
+
+
+
+## 删除视图 {#delete-a-view}
+
+1. 从“ **视图** ”下拉菜单中选择要删除的 **视图的** “编辑”选项。
+
+   ![](assets/smartlist-editcustomview.png)
+
+1. 单击 **删除**。
+
+   ![](assets/image2014-9-12-11-3a27-3a39.png)
+
+只有您能够在“视图”下拉框中查看您创建的自定义视图，因此告诉您的朋友他们需要自己创建！
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [使用内置／系统智能列表](use-built-in-system-smart-lists.md)
+>* [创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+
+>
+
+
+
