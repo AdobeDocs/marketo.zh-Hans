@@ -1,0 +1,45 @@
+---
+unique-page-id: 2360052
+description: 已查看的网页、网页活动报告- Marketo Docs —— 产品文档
+title: 已查看的网页、网页活动报告
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 0%
+
+---
+
+
+# 已查看的网页、网页活动报告 {#web-pages-viewed-web-page-activity-report}
+
+从网 [页活动报表](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，您可以看到报表中的人员查看的特定页面。
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>要在Marketo中从您的网站捕获活动，您首先需要 [在您的网站上设置Munchkin](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
+
+1. 在网 [页活动报表中](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，单击“页面视图”列中的数字。
+
+   ![](assets/image2014-9-16-14-3a54-3a8.png)
+
+1. 你在那！ 此时会打开一个新窗口，显示访客访问过的网站页面的列表以及访问时间。
+
+   ![](assets/image2014-9-16-14-3a54-3a12.png)
+
+   >[!NOTE]
+   >
+   >**相关文章**
+   >
+   >
+   >创建 [公司Web活动报](../../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) 告，查看哪些公司正在访问您的网站。
+
+   >[!NOTE]
+   >
+   >**深潜**
+   >
+   >
+   >利用报告完成更多工作！ 了解基 [本报告](http://docs.marketo.com/display/docs/basic+reporting) ，深入了解。
+
