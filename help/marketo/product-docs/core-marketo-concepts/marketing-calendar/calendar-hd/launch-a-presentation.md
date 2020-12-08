@@ -1,0 +1,50 @@
+---
+unique-page-id: 7504120
+description: 启动演示文稿- Marketo Docs —— 产品文档
+title: 启动演示文稿
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '116'
+ht-degree: 0%
+
+---
+
+
+# 启动演示文稿 {#launch-a-presentation}
+
+设置演示文稿的视图和旋转频率后，就该闪电了！
+
+>[!NOTE]
+>
+>**可用性**
+>
+>并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>* [创建演示文稿](create-a-presentation.md)
+>* [自定义演示文稿](customize-a-presentation.md)
+
+>
+
+
+
+>[!TIP]
+>
+>在启动之前 **确保预览** “演示文稿”。
+
+1. 单击 **启动**。
+
+   ![](assets/image2015-3-20-14-3a4-3a18.png)
+
+1. 再 **单击** “启动”。 这将使您从Marketo中注销，以便能够安全地显示演示文稿。
+
+   ![](assets/image2015-3-20-14-3a5-3a34.png)
+
+   >[!TIP]
+   >
+   >您的演示文稿将在新选项卡中启动。 如果需要，将选项卡移到外部显示器或电视进行显 **示** ，然后单击“全屏”（如果使用的是Internet Explorer，则按键盘上的**F11 **）。
+
