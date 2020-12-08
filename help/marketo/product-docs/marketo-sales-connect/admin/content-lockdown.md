@@ -1,0 +1,33 @@
+---
+unique-page-id: 37355755
+description: 内容锁定——营销文档——产品文档
+title: 内容锁定
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 0%
+
+---
+
+
+# 内容锁定 {#content-lockdown}
+
+通过启用内容锁定，限制非管理员用户编辑模板和／或活动。 用户将无法：共享、克隆、编辑或删除内容。 他们也无法存档模板。
+
+>[!NOTE]
+>
+>在 **发送** 或启动活动时，用户仍可编辑电子邮件的内容。
+
+1. 在Sales Connect中，单击设置图标，然后选择 **设置**。
+
+   ![](assets/one-4.png)
+
+1. 在“管理员设置”下，单击“ **常规**”。
+
+   ![](assets/two-4.png)
+
+1. 向下滚动到内容锁定。 打开任一滑块 *将禁* 止团队成员创建／编辑模板和／或活动。
+
+   ![](assets/three-4.png)
+
