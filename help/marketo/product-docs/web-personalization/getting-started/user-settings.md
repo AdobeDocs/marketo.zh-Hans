@@ -1,0 +1,65 @@
+---
+unique-page-id: 4719336
+description: 用户设置- Marketo Docs —— 产品文档
+title: 用户设置
+translation-type: tm+mt
+source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+workflow-type: tm+mt
+source-wordcount: '206'
+ht-degree: 0%
+
+---
+
+
+# 用户设置 {#user-settings}
+
+更改时区或Web个性化电子邮件报表等设置。
+
+## 用户用户档案/密码／时区 {#user-profile-passwords-time-zones}
+
+1. 单击您的姓名，然后选择“ **用户设置”。**
+
+   ![](assets/one.png)
+
+1. 此时将显示“用户设置”页。
+
+   ![](assets/two.png)
+
+   在“用户设置”页面上，您可以：
+
+   * 
+
+      * 更改您的电子邮件地址
+      * 添加个人详细信息（名和姓、手机号码和时区）
+      * 选择在平台中导出表时要导出的行数。 请参阅字段：&quot;Excel导出中的最大行数（限制为10,000行）&quot;
+      * 为新人选择移动通知或观看与移动应用程序相关的列表
+      * 通过单击“编辑区域”调整“个人 **区域”设置**。
+      * 更改密码
+      * 为有关组织、人员、活动和资产性能的电子邮件报告选择电子邮件报告通知设置
+
+   进行 **任何更改** 后，单击“保存”。
+
+   >[!NOTE]
+   >
+   >选择您的区域将仅显示与定义区域中的组织和人员相关的数据并发送电子邮件报告。
+
+## 选择电子邮件报告 {#select-email-reports}
+
+选择要 [与用户关联](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) 的电子邮件报告，以及发送报告的频率（每日、每周或每季）。
+
+![](assets/three.png)
+
+>[!NOTE]
+>
+>单 **击** “保存”不会退出用户设置。 要退出，请单击左上角的Marketo徽标，然后选择您的目标。
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [编辑区域](edit-regions.md)
+
+>
+
+
+
