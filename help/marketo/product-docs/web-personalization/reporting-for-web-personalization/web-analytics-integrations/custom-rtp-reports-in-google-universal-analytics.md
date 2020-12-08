@@ -1,0 +1,232 @@
+---
+unique-page-id: 7504218
+description: Google Universal Analytics中的自定义RTP报告- Marketo Docs —— 产品文档
+title: Google Universal Analytics中的自定义RTP报告
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '390'
+ht-degree: 0%
+
+---
+
+
+# Google Universal Analytics中的自定义RTP报告 {#custom-rtp-reports-in-google-universal-analytics}
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>[将RTP与Google Universal Analytics集成](integrate-rtp-with-google-universal-analytics.md)
+
+本文介绍如何为Google Universal Analytics(GUA)设置RTP自定义报告。  从RTP发送到GUA的数据可以设置为两个单独的自定义报告：
+
+* RTP B2B
+* RTP参与
+
+## 设置自定义报告 {#setting-up-a-custom-report}
+
+1. 登录Google Analytics。
+1. 单击顶部菜单中的**自定义**。
+1. 单击 **+新建自定义报告。**
+
+** ![](assets/image2015-3-22-16-3a10-3a48.png)
+
+**
+
+## RTP B2B报告 {#rtp-b-b-report}
+
+1. 命名报 **告RTP B2B报告**。
+1. 命名第一个选项卡**行业**
+
+   1. (注：您将重复 **此选项卡** ，并创建其他类似选项卡——步骤5)
+
+1. 选择** Explorer**报告类型。\
+   ** ![](assets/image2015-3-22-16-3a15-3a25.png)
+
+   **
+
+1. 在“ **度量组** ”部分，选择与业务相关的度量。
+
+   1. 我们建议：\
+      ** ![](assets/image2015-3-22-16-3a16-3a40.png)
+
+      **
+
+1. 重复此选项卡4次，并命名它们：
+
+   1. **行业**
+   1. **组**
+   1. **类别**
+   1. **ABM**
+   1. **组织**
+
+   ![](assets/image2015-3-22-16-3a17-3a41.png)
+
+1. 在“Dimension **追溯** ”部分中，按如下方式设置每个选项卡的相关维。
+
+<table> 
+ <thead> 
+  <tr> 
+   <th> 
+    <div>
+      选项卡名称 
+    </div></th> 
+   <th> 
+    <div>
+      Dimension追溯 
+    </div></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td>行业</td> 
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
+  </tr> 
+  <tr> 
+   <td>组</td> 
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
+  </tr> 
+  <tr> 
+   <td>类别</td> 
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
+  </tr> 
+  <tr> 
+   <td>ABM</td> 
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
+  </tr> 
+  <tr> 
+   <td>组织</td> 
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+1. 请勿设置任何过滤器并将此报告设置为可用于**所有网站数据**（如果与特定Analytics帐户相关，请进行更改）。
+1. 单击 **保存**。\
+   ![](assets/image2015-3-22-16-3a21-3a23.png)
+
+## RTP参与报告 {#rtp-engagement-report}
+
+1. 命名报告 **RTP参与报告。**
+1. 将第1个选项卡名称设置为“所 **有参与”**
+
+   1. (注：您将重复此选项卡并创建其他类似选项卡——步骤5)
+
+1. 选择“资 **源管理器** ”报告类型。\
+   ![](assets/image2015-3-22-16-3a23-3a36.png)
+
+1. 在“度量组”部分，选择与您的业务相关的度量。 以下是建议：\
+   ![](assets/image2015-3-22-16-3a24-3a57.png)
+
+1. 重复此选项卡4次，并命名它们：
+
+   1. **所有参与**
+   1. **行业参与度**
+   1. **按组划分的参与**
+   1. **按类别参与**
+   1. **通过反弹道导弹接触**
+
+   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
+
+1. 在“Dimension **追溯** ”部分中，将每个选项卡的相关维设置如下：
+
+<table> 
+ <thead> 
+  <tr> 
+   <th> 
+    <div>
+      选项卡名称 
+    </div></th> 
+   <th> 
+    <div>
+      Dimension追溯 
+    </div></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td>所有参与</td> 
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
+  </tr> 
+  <tr> 
+   <td>通过反弹道导弹接触</td> 
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
+  </tr> 
+  <tr> 
+   <td>按类别参与</td> 
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
+  </tr> 
+  <tr> 
+   <td>按组划分的参与</td> 
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
+  </tr> 
+  <tr> 
+   <td>行业参与度</td> 
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+1. 设置以下过滤器:
+1. 
+
+<table> 
+ <thead> 
+  <tr> 
+   <th> 
+    <div>
+      Inc/Exc 
+    </div></th> 
+   <th> 
+    <div>
+      字段 
+    </div></th> 
+   <th> 
+    <div>
+      匹配类型 
+    </div></th> 
+   <th> 
+    <div>
+      值 
+    </div></th> 
+   <th colspan="1"> 
+    <div>
+      注释 
+    </div></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td><p>包括</p></td> 
+   <td><p>事件类别</p></td> 
+   <td>正则表达式</td> 
+   <td>RTP活动|RTP-Recommendations|RTP-段</td> 
+   <td colspan="1">将过滤所有与RTP无关的其他自定义事件</td> 
+  </tr> 
+  <tr> 
+   <td>排除</td> 
+   <td>事件标签</td> 
+   <td>正则表达式</td> 
+   <td>#</td> 
+   <td colspan="1">允许您使用活动名称中的#从报告活动中过滤</td> 
+  </tr> 
+ </tbody> 
+</table>
+
+1. 将此报告设置为可用于**所有网站数据**（或根据需要进行更改）
+
+   ![](assets/image2015-3-22-16-3a29-3a5.png)
+
+1. 单击 **保存**。
+
+![](assets/image2015-3-22-16-3a30-3a0.png)
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>[将RTP与Google Universal Analytics集成](integrate-rtp-with-google-universal-analytics.md)
+>
+>[Google Universal Analytics中的自定义RTP仪表板](custom-rtp-dashboards-in-google-universal-analytics.md)
+
