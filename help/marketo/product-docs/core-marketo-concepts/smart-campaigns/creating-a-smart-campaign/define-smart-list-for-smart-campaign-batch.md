@@ -1,0 +1,64 @@
+---
+unique-page-id: 1146940
+description: 为智能列表定义智能活动 |批处理——营销文档——产品文档
+title: 为智能列表定义智能活动 |批处理
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '254'
+ht-degree: 0%
+
+---
+
+
+# 为智能列表定义智能活动 |批处理 {#define-smart-list-for-smart-campaign-batch}
+
+智能列表是整个市场中定义“谁”（哪些人）的机制，包括报告、列表或智能活动。 下面介绍如何为批处理列表定义智能活动。
+
+1. 选择智能活动，然后单击“智 **能列表”**。
+
+   ![](assets/campaignchoose-hand.png)
+
+1. 键入以搜索筛选器，然后将其拖放到画布中。 对多个过滤器重复上述步骤。
+
+   ![](assets/dragin.png)
+
+   >[!NOTE]
+   >
+   >仅具有过滤器的智能活动在“批 **处理** ”模式下。 它会根据过滤器在数据库中查找符合条件的人员，并同时在流中运行所有这些人员。
+
+   >[!NOTE]
+   >
+   >**提醒**
+   >
+   >
+   >您可以通过添加触发器使智能活动在触发器模式下，根据实时事件一次在一个人上运 **行** 。
+
+1. 单击下拉列表，然后为您选择的筛选器选择筛选器运算符。
+
+   ![](assets/programdropdown-hands.png)
+
+   >[!CAUTION]
+   >
+   >红色波浪线表示错误或缺少信息。 如果未更正，活动将无效且无法运行。
+
+1. 输入筛选值。
+
+   ![](assets/chooseprogram.png)
+
+   >[!NOTE]
+   >
+   >默认情况下，符合所有智能列表规则的人员均符合条件。 可以修改此项以满足您的活动需求。 了解复 [杂逻辑的智能列表规则](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) ，了解更多信息。
+
+   要一次触发实时事件，请学习如何为智能活动定 [义智能列表 |触发器](define-smart-list-for-smart-campaign-trigger.md)。
+
+   >[!NOTE]
+   >
+   >**相关文章**
+   >
+   >    
+   >    
+   >    * [为智能列表定义智能活动 |触发器](define-smart-list-for-smart-campaign-trigger.md)
+   >    * [向智能活动添加流步骤](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+
+
