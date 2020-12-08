@@ -1,0 +1,51 @@
+---
+unique-page-id: 2359999
+description: 重新排序报告列- Marketo Docs —— 产品文档
+title: 重新排序报表列
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 0%
+
+---
+
+
+# 重新排序报表列 {#reorder-report-columns}
+
+您可以更改报表中列的顺序。
+
+1. 转到“营 **销活动** ”(或 **“分析**”)区域。
+
+   ![](assets/image2014-9-16-10-3a50-3a27.png)
+
+1. 从导航树中选择您的报表，然后单击“报 **表** ”选项卡。
+
+   ![](assets/image2014-9-16-10-3a50-3a31.png)
+
+1. 单击并按住列将其拖到新位置，然后释放鼠标按钮。
+
+   ![](assets/image2014-9-16-10-3a50-3a34.png)
+
+1. 就这样！ 列现在按新顺序显示。
+
+   ![](assets/image2014-9-16-10-3a50-3a37.png)
+
+   您可以重复这些步骤，直到列以最适合您的顺序显示。
+
+   >[!NOTE]
+   >
+   >**相关文章**
+   >
+   >    
+   >    
+   >    * [选择报表列](select-report-columns.md)
+
+
+   >[!NOTE]
+   >
+   >**深潜**
+   >
+   >
+   >了解在基本报告中处理报表的 [全部功能](http://docs.marketo.com/display/docs/basic+reporting)。
+
