@@ -1,0 +1,75 @@
+---
+unique-page-id: 2359428
+description: 重定向登陆页- Marketo文档——产品文档
+title: 重定向登陆页
+translation-type: tm+mt
+source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+workflow-type: tm+mt
+source-wordcount: '148'
+ht-degree: 0%
+
+---
+
+
+# 重定向登陆页 {#redirect-a-landing-page}
+
+## 任务：将登陆页重定向到其他网页 {#mission-redirect-a-landing-page-to-a-different-web-page}
+
+>[!NOTE]
+>
+>**需要管理员权限**
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>* [设置并添加人物](get-set-up-and-add-a-person.md)
+>* [登陆页表单](landing-page-with-a-form.md)
+>* [使用CNAME自定义登陆页URL](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
+
+>
+
+
+
+## 第1步：开始新的重定向规则 {#step-start-a-new-redirect-rule}
+
+1. 转到“管 **理** ”区域。
+
+   ![](assets/admin.png)
+
+1. 转到**登陆页**。
+
+   ![](assets/image2014-9-24-13-3a28-3a43.png)
+
+1. 单击“ **规则** ”选项卡，然后单 **击“新建** ”和“ **新建重定向规则”**。
+
+   ![](assets/image2014-9-24-13-3a28-3a59.png)
+
+## 第2步：定义重定向规则 {#step-define-the-redirect-rule}
+
+1. 单击第一个**原始URL **下拉框，选择您的Marketo CNAME。
+
+   ![](assets/image2014-9-24-13-3a30-3a33.png)
+
+   >[!NOTE]
+   >
+   >**提醒**
+   >
+   >
+   >请记住，您只能将登陆页重定向到您的Marketo [CNAME](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
+
+1. 单击第二个**原始URL **下拉框，然后选择要重定向的登陆页。
+
+   ![](assets/image2014-9-24-13-3a30-3a50.png)
+
+1. 对 **于重定向** URL **，请选择要重定向到的页面，然后单击**&#x200B;创建。
+
+   ![](assets/image2014-9-24-13-3a31-3a10.png)
+
+## 任务完成 {#mission-complete}
+
+恭喜！ 您已成功重定向登陆页。
+
+<br> 
+
+[÷¿î:更新潜在客户数据](update-person-data.md)
