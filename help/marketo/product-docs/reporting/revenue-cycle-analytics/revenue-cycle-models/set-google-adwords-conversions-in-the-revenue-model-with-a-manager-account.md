@@ -1,0 +1,111 @@
+---
+unique-page-id: 7504923
+description: 在收入模型中使用经理帐户——营销文档——产品文档设置Google AdWords转换
+title: 在收入模型中使用Manager帐户设置Google AdWords转换
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '449'
+ht-degree: 0%
+
+---
+
+
+# 在收入模型中使用Manager帐户设置Google AdWords转换 {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
+
+将您的Google AdWords帐户关联到Marketo，以自动将线下转换数据从Market上传到Google AdWords。 然后，在AdWords中添加自定义列后，您将能够从AdWords UI中轻松查看哪些点击产生了合格的潜在客户、机会和新客户(或要跟踪的 [任何收入阶段](https://support.google.com/adwords/answer/3073556) )。
+
+如果您有多个Google Adwords帐户，则可以使 [用Google AdWords Manager帐户](https://www.google.com/adwords/manager-accounts/) （以前称为My Client Center）将其与Marketo集成。
+
+您可以在收入模型中将AdWords脱机转化映射到一个或多个阶段。 有两种方法：
+
+* 舞台操作
+* AdWords映射
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>* [使用Manager帐户将Google AdWords添加为Launchpoint服务](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
+
+>
+
+
+
+## 使用阶段操作 {#use-stage-action}
+
+在“阶段操作”下映射AdWords转换。
+
+1. 选择要映射到AdWords转换的步骤。
+
+   ![](assets/image2015-2-26-16-3a40-3a2.png)
+
+1. 在“阶 **段操作** ”下拉框中，选 **择“设置AdWords转换**”。
+
+   ![](assets/image2015-2-26-16-3a52-3a24.png)
+
+1. 设置 **AdWords转换**。
+
+   >[!NOTE]
+   >
+   >可以为每个子帐户选择不同的AdWord转换。
+
+   ![](assets/image2015-3-27-17-3a16-3a37.png)
+
+   提示：如果您没有任何AdWords转换，请单击+新建转换 **来创建一个转换**。
+
+   ![](assets/image2015-3-27-17-3a18-3a58.png)
+
+1. 单击 **保存**。
+
+   ![](assets/image2015-3-27-17-3a21-3a15.png)
+
+1. 完成所有AdWords转换到收入阶段的映射后，返回摘要页。 选择 **模型操作** ，然后选择 **批准阶段**。
+
+   ![](assets/image2015-2-27-12-3a20-3a20.png)
+
+## 专业提示：添加新转换 {#pro-tip-add-a-new-conversion}
+
+专业提示！ 可从Marketo创建新的AdWords脱机转换。
+
+>[!CAUTION]
+>
+>通过Market创建的新转换启用“优化”设置。 这意味着允许AdWords竞价策略优化您对这些转化的竞价。 您可以从AdWords帐户更改此设置。
+
+1. 在“阶 **段操作** ”下拉框中，选 **择“设置AdWords转换**”。
+
+   ![](assets/image2015-2-26-16-3a52-3a24.png)
+
+1. 选择 **新转换**。
+
+   ** ![](assets/image2015-3-27-17-3a23-3a13.png)
+
+   **
+
+1. 输入转 **换名称**。 单击 **保存**。
+
+   ![](assets/image2015-3-27-17-3a24-3a49.png)
+
+   太棒了！ 此新转换将显示在您的AdWords帐户中。
+
+## 使用AdWords映射 {#use-adwords-mapping}
+
+您可以使用AdWords映射将所有模型阶段与AdWords转换关联到一个位置。
+
+1. 选择 **编辑AdWords映射**。
+
+   ![](assets/image2015-2-26-17-3a3-3a29.png)
+
+1. 为要跟踪 **的每个阶段** ，选 **择所需的AdWords帐** 户和所需的AdWords转换。
+
+   ![](assets/image2015-3-27-17-3a30-3a15.png)
+
+1. 映射舞台后，单击“保 **存”**。
+
+   ![](assets/image2015-3-27-17-3a30-3a48.png)
+
+1. 完成所有AdWords转换到收入阶段的映射后，返回摘要页。 选择 **模型操作** ，然后选择 **批准阶段**。
+
+   ![](assets/image2015-2-27-12-3a20-3a20.png)
+
+要视图脱机转换数据，您需要登录AdWords帐户。 我们建议您使用其自 [定义列功能](https://support.google.com/adwords/answer/3073556) ，为您从Market导入的每个脱机转换创建转换计数列。
