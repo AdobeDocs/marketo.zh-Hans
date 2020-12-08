@@ -1,0 +1,31 @@
+---
+unique-page-id: 14352504
+description: 模板参与——营销文档——产品文档
+title: 模板参与
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '166'
+ht-degree: 0%
+
+---
+
+
+# 模板参与 {#template-engagement}
+
+请按照以下步骤视图您的模板参与度。
+
+1. 导航到**Analytics **页面。
+1. 单击“**内容**”按钮并按所需日期范围进行筛选。
+1. 根据选定的日期范围，您可以在页面顶部查看整个团队使用的电子邮件和模板总数。
+
+   下面，您的视图分为三部分：
+
+   **秘密武器** -团队 `not yet shared` 中一个正在获取大量参与的模板
+
+   **最高参与** -整个团 `already shared` 队中一个模板，它正在扼杀参与
+
+   **最低参与** -需要对其参与率进行一些重新调整的模板(整个团队 `can either be shared or unshared` 中的此模板)
+
+   从此处，向下滚动并查看在您的团队中创建的所有模板，这些模板基于其在该选定日期范围内的视图率。 在单个模板级别上，您可以看到：创建者、共享与否、与它一起使用的电子邮件数以及跟踪数据(视图、点击、回复)。
+
