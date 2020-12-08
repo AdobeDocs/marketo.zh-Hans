@@ -2,9 +2,9 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: 我的令牌操作编辑、删除、克隆和复制令牌名称
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,6 @@ ht-degree: 0%
 
 ## 复制令牌名称
 
-要将令牌的名称复制到剪贴板(即{{my.事件日历文件}})，请右键单击该令牌，然后选择“复制 [!UICONTROL **令牌名称”**]。
+要将令牌的名称复制到剪贴板（即），请右键单 `{{my.Event Calendar File}}`击该令牌，然后选择“复 **制令牌名称”**。
 
 ![图像七](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
