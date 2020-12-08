@@ -1,0 +1,51 @@
+---
+unique-page-id: 2360341
+description: 将自定义字段同步到收入浏览器- Marketo Docs —— 产品文档
+title: 将自定义字段同步到收入浏览器
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 0%
+
+---
+
+
+# 将自定义字段同步到收入浏览器 {#sync-custom-fields-to-the-revenue-explorer}
+
+收入周期分析可以报告自定义营销人员字段，为此，您需要设置要同步的自定义字段。
+
+>[!NOTE]
+>
+>**需要管理员权限**
+
+1. 转到“管理 **员** ”部分。
+
+   ![](assets/image2014-9-19-9-3a51-3a11.png)
+
+1. 选择 **收入周期分析**。
+
+   ![](assets/image2014-9-19-9-3a51-3a19.png)
+
+1. 单击“自定 **义字段同步** ”选项卡，然后选择您选择的分析区域。
+
+   ![](assets/image2014-9-19-9-3a51-3a26.png)
+
+1. 选择要为其启用同步的字段，然后单击“编 **辑同步选项”**。
+
+   ![](assets/image2014-9-19-9-3a51-3a36.png)
+
+1. 将“同步 **状态** ”更改 **为“启用**”。
+
+   ![](assets/image2014-9-19-9-3a51-3a45.png)
+
+1. 选择 **RCA类型** ，然后单击 **保存**。
+
+   ![](assets/image2014-9-19-9-3a51-3a52.png)
+
+   >[!TIP]
+   >
+   >启用后，数据将在第二天在收入周期分析中可用。
+
+   干得好！ 现在您知道如何向RCA添加自定义字段。
+
