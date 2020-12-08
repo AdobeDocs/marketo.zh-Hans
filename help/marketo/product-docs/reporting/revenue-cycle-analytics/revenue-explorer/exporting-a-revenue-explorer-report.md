@@ -1,0 +1,48 @@
+---
+unique-page-id: 7504749
+description: 导出收入浏览器报表- Marketo文档——产品文档
+title: 导出收入浏览器报表
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 0%
+
+---
+
+
+# 导出收入浏览器报表 {#exporting-a-revenue-explorer-report}
+
+您可以导出任何收入浏览器报表并将其与任何人共享。
+
+1. 单击“齿轮”图标，选 **择“导** 出”并选择文件格式。
+
+   ![](assets/image2015-3-26-14-3a2-3a19.png)
+
+   >[!NOTE]
+   >
+   >可以将报告导出为以下三种格式：
+   >
+   >    
+   >    
+   >    * PDF
+   >    * Excel
+   >    * CSV
+
+
+1. 选择所需的 **页面格式** 和 **方向**，然后单 **击导出**。
+
+   ![](assets/image2015-3-27-16-3a18-3a34.png)
+
+   真贴心！ 用您像忍者一样的营销技能发送此文件并给同行留下深刻印象。
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [订阅收入浏览器报表](subscribe-to-a-revenue-explorer-report.md)
+
+>
+
+
+
