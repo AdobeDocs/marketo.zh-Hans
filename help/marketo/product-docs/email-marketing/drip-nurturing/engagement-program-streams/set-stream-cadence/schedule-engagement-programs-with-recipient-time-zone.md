@@ -1,0 +1,40 @@
+---
+unique-page-id: 12982909
+description: 计划参与项目与收件人时区- Marketo Docs —— 产品文档
+title: 计划项目与收件人时区
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '205'
+ht-degree: 0%
+
+---
+
+
+# 计划项目与收件人时区 {#schedule-engagement-programs-with-recipient-time-zone}
+
+当您 [计划参与项目流](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) ，并且收件人时区处于活动状态时，项目播放将在第一个时区的午夜(UTC +14:00)运行。 我们要求您在将来至少 **计划25小时** ，因为在全球的每个时区，都可能有人有资格参加。 在第一个时区开始处理时，我们将确保在每个收件人的预定日期和时间发送电子邮件。
+
+1. 在参与项目中，导航到“流 **”选项卡** ，然后单击流的节奏计划进行编辑。
+
+   ![](assets/image2017-12-5-13-3a36-3a21.png)
+
+1. [按正常方式](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) 设置节奏设置，然后选中“**收件人时区”**框。 请记住，您的首场演出将至少需要25小时。 单击 **保存**。
+
+   ![](assets/image2017-12-5-13-3a50-3a32.png)
+
+1. 请注意，在收件人时区处于活动状态时，节奏计划将不显示特定时区，因为可能有多个时区。 它只显示小时。
+
+   ![](assets/image2017-12-5-13-3a56-3a21.png)
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [了解收件人时区](../../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [设置流节奏](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+
+>
+
+
+
