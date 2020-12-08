@@ -1,0 +1,65 @@
+---
+unique-page-id: 1147239
+description: 将项目状态列添加到项目报告- Marketo Docs —— 产品文档
+title: 将项目状态列添加到项目报表
+translation-type: tm+mt
+source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 0%
+
+---
+
+
+# 将项目状态列添加到项目报表 {#add-program-status-columns-to-a-program-report}
+
+将项目状态统计信息添加到 [项目性能报告](create-a-program-performance-report.md)。
+
+1. 转到营销活动（或Analytics）。
+
+   ![](assets/login-marketing-activities-2.png)
+
+1. 选择您的报表。
+
+   ![](assets/emailperformance.jpg)
+
+1. 单击“设置”选项卡，并将其拖动到渠道标签上。
+
+   ![](assets/image2014-9-23-16-3a26-3a38.png)
+
+1. 选择要筛选的渠道。
+
+   ![](assets/image2014-9-23-16-3a26-3a48.png)
+
+   >[!TIP]
+   >
+   >要显示项目状态列，只能按一个渠道 *筛选报表* 。
+
+1. 选中“显示项目状态列”选项。 单击“应用”。
+
+   ![](assets/image2014-9-23-16-3a26-3a53.png)
+
+1. 你成功了！ 单击“报告”选项卡，查看包含项目状态列的报告。
+
+   ![](assets/programreport.jpg)
+
+>[!NOTE]
+>
+>如果项目中未显示每个状态的列，请确保已选 [择要在报表中显示的列](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 。
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [按标记筛选项目报告](filter-a-program-report-by-tag.md)
+
+>
+
+
+
+>[!NOTE]
+>
+>**深潜**
+>
+>在基本报告 [中了解更多](http://docs.marketo.com/display/docs/basic+reporting)。
+
