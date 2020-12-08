@@ -1,0 +1,77 @@
+---
+unique-page-id: 2359457
+description: 批准分段- Marketo Docs —— 产品文档
+title: 批准分段
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '291'
+ht-degree: 0%
+
+---
+
+
+# 批准分段 {#approve-a-segmentation}
+
+分段需要获得批准才能使用。
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
+
+>[!NOTE]
+>
+>**先决条件**
+>
+>* [创建分段](create-a-segmentation.md)
+>* [定义区段规则](define-segment-rules.md)
+
+>
+
+
+
+1. 转到数 **据库**。
+
+   ![](assets/image2017-3-28-14-3a25-3a49.png)
+
+1. 在分段中，单击 **分段操作**，然后 **单击批准**。
+
+   ![](assets/image2017-3-28-14-3a46-3a22.png)
+
+   >[!NOTE]
+   >
+   >在审批过程中，状态将变 ![](assets/image2014-9-15-15-3a31-3a43.png)为使用旋转轮()批准。
+
+   >[!CAUTION]
+   >
+   >完成批准可能需要几分钟到一天以上的时间，具体取决于数据库的大小。
+
+   批准后，状态将从批准更改为批准。
+   ![](assets/image2017-3-28-14-3a46-3a44.png)
+
+   >[!TIP]
+   >
+   >每个区段中的人数显示在区段名称旁边的括号中。
+
+1. 区 **段中** 的“人 **员”选** 项卡现在显示该区段的最终人员列表。
+
+   ![](assets/image2017-3-28-14-3a47-3a10.png)
+
+>[!CAUTION]
+>
+>在细分中可以创建的细分总数取决于所使用的过滤器数和类型，也取决于细分逻辑的复杂程度。 虽然您可以使用标准字段创建多达100个过滤器段，但使用其他类型的细分会增加复杂性，并且您的细分可能无法批准。 例如：自定义字段、列表成员、潜在客户所有者字段和收入阶段。
+>
+>如果您在审批过程中收到错误消息并需要帮助降低分段的复杂性，请与Marketo支持 [部门联系](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)。
+
+>[!NOTE]
+>
+>**相关文章**
+>
+>* [在智能过滤器中使用细分列表](use-segment-filters-in-a-smart-list.md)
+
+>
+
+
+
