@@ -3,9 +3,9 @@ unique-page-id: 2953469
 description: SFDC Sync -活动同步- Marketo Docs —— 产品文档
 title: SFDC同步-活动同步
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Marketo **项目** 成员及其** [进度状态](../../../../product-docs/core-m
 >
 >如果您的Salesforce活动和映射的Marketo项目具有不兼容的项目状态，您可能会收到错误消息。 我们建议您在 [同步之前匹配项目状态](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [将SFDC活动与项目同步](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
 >* [了解项目会员资格](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
