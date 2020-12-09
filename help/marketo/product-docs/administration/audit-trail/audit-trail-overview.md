@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: 审计线索概述- Marketo Docs —— 产品文档
 title: 审计线索概述
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Marketo将审核以下 [项的创建、编辑](http://docs.marketo.com/display/D
 >
 >**未知：** 在审核跟踪中，您可能会看到用户的姓名和电子邮件列为“未知”。 当您在CRM中更改选择列表值时，会发生这种情况。 这些值显示在Marketo表单和登陆页中。 在CRM端执行此更新将自动起草引用表单的登陆页。 在审核跟踪中，我们将捕获登陆页已起草，但用户的姓名和电子邮件将显示为“未知”，因为我们无法从CRM端捕获用户信息。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [启用审核跟踪](enable-audit-trail.md)
 
