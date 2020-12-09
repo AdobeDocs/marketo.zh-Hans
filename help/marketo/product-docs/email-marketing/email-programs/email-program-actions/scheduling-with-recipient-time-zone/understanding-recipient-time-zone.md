@@ -3,9 +3,9 @@ unique-page-id: 12983291
 description: 了解收件人时区- Marketo Docs —— 产品文档
 title: 了解收件人时区
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Marketo根据个人的城市、州、国家或邮政编码计算时区。 如果
 >
 >Marketo在以上任何输入字段发生变化时自动重新计算人员的时区。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [计划电子邮件项目(带收件人时区)](schedule-email-programs-with-recipient-time-zone.md)
 >* [电子邮件开始主管](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
