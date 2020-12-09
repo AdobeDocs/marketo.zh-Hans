@@ -3,9 +3,9 @@ unique-page-id: 7505310
 description: 订阅智能列表- Marketo Docs —— 产品文档
 title: 订阅智能列表
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -108,9 +108,7 @@ ht-degree: 0%
 
 ![](assets/twelve.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [编辑智能列表订阅](edit-a-smart-list-subscription.md)
 >* [保护订阅管理设置](secure-the-subscription-admin-setting.md)
