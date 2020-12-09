@@ -3,9 +3,9 @@ unique-page-id: 2360350
 description: 创建用于ReST API - Marketo Docs —— 产品文档的自定义服务
 title: 创建与ReST API一起使用的自定义服务
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 如果要通过ReST API与Marketo集成，您将需要创建自定义服务。 这是方法。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建仅API用户角色](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [创建仅API用户](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
