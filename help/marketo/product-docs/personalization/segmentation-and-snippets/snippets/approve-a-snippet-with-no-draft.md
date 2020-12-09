@@ -3,9 +3,9 @@ unique-page-id: 10095644
 description: 批准包含无草稿的代码片段- Marketo Docs —— 产品文档
 title: 批准非草稿代码片段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ ht-degree: 0%
 >
 >此功能旨在通过代码片段审批工作流程节省时间。 但是，还有一些限制需要注意。 请参阅 [此文档](https://nation.marketo.com/docs/DOC-4415) ，了解详细信息。 该文档还包含错误处理和疑难解答信息。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[为片段启用无草稿](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
 
