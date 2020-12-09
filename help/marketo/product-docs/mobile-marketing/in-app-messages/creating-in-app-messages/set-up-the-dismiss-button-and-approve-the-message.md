@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: 设置“取消”按钮并批准消息- Marketo Docs —— 产品文档
 title: 设置“取消”按钮并批准消息
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 现在是时候发 [送消息了](http://docs.marketo.com/display/docs/send+your+in-app+message)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解应用程序内消息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [发送应用程序内消息](http://docs.marketo.com/display/docs/send+your+in-app+message)
