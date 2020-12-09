@@ -3,9 +3,9 @@ unique-page-id: 7512292
 description: 将3级Web会议添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将第3级Web会议添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Market To管理您的第3级Web会议注册和出席。
 
    ![](assets/level-3-web-meeting.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >了解如 [何创建具有3级Web会议的事件](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)。
 
