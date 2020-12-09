@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: 添加移动应用程序- Marketo Docs —— 产品文档
 title: 添加移动应用程序
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
    不错！ 现在，让我们将您的应用程序配置为与Android和iOS设备一起使用。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [配置移动应用程序Android推送访问](configure-mobile-app-android-push-access.md)
 >* [配置移动应用程序iOS推送访问](configure-mobile-app-ios-push-access.md)
