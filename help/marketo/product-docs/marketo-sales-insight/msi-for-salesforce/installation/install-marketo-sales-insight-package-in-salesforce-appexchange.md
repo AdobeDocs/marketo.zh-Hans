@@ -3,9 +3,9 @@ unique-page-id: 7516390
 description: 在SalesforceAppExchange中安装Marketo Sales Insight包- Marketo文档——产品文档
 title: 在SalesforceAppExchange中安装Marketo Sales Insight包
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -74,9 +74,7 @@ ht-degree: 0%
 
 干得好！ 现在，您已安装并部署Marketo Sales Insight。 继续为您的销售团队配置它并观看销售飞涨。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[在Salesforce专业版中配置Marketo Sales Insight](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
