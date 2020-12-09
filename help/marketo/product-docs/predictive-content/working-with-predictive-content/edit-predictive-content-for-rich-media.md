@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: 编辑富媒体的预测内容——营销文档——产品文档
 title: 编辑富媒体的预测内容
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 下面介绍如何为富媒体设置预测内容。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >必须批准所 [有内容页面上的](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) “预测性内容”。
 
