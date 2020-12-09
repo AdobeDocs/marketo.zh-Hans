@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: 了解收入模型- Marketo Docs —— 产品文档
 title: 了解收入模型
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ ht-degree: 0%
 
 以下是一些可能充满希望的链接。 (或者希望有帮助——选吧！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[创建新的收入模型](create-a-new-revenue-model.md)
 >
@@ -105,9 +103,7 @@ ht-degree: 0%
 
 “丢失”是一个不错的添加方式，但请注意，它不在绿色路径中。 这是因为它不是“成功”。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[收入模型报告](report-on-your-revenue-model.md)
 >
