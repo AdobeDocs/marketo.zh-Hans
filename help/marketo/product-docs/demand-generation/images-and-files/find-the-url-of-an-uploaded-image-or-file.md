@@ -3,9 +3,9 @@ unique-page-id: 2359870
 description: 查找已上传图像或文件的URL - Marketo Docs —— 产品文档
 title: 查找已上载图像或文件的URL
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 为了一份出色的工作，请亲自拍一下！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [替换已上传的图像或文件](replace-an-uploaded-image-or-file.md)
 
