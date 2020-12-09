@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: 设置订阅的默认位置设置- Marketo Docs —— 产品文档
 title: 为订阅设置默认位置设置
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 
    恭喜！ 您已更改订阅的位置设置。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [选择您的语言、区域设置和时区](select-your-language-locale-and-time-zone.md)
 
