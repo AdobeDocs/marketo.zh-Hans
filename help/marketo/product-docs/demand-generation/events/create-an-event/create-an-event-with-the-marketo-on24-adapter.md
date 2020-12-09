@@ -3,9 +3,9 @@ unique-page-id: 10096656
 description: 使用Marketo ON24适配器创建事件- Marketo文档——产品文档
 title: 使用Marketo ON24适配器创建事件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
 1. [了解网络研讨会项目状态](create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 1. [ON24事件注册更新](create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解ON24适配器的营销事件](create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
