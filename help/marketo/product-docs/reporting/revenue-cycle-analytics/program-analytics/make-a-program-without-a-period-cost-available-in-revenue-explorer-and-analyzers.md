@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: 在收入浏览器和分析器- Marketo Docs —— 产品文档中提供不含期间成本的项目
 title: 在收入浏览器和分析器中提供不含期间成本的项目
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
 干得好！ 现在，使用修改后的项目的任何渠道都将包括在收入浏览器和分析器中，而无需支付期间成本。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在项目级别覆盖分析行为](override-analytics-behavior-at-the-program-level.md)
 
