@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: 设置Facebook潜在客户广告——营销文档——产品文档
 title: 设置Facebook潜在客户广告
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在智能活动中使用潜在客户广告过滤器和触发器](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [将自定义字段映射到Marketo](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
