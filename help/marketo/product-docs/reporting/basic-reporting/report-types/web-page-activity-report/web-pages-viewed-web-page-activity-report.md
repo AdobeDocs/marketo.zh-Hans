@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: 已查看的网页、网页活动报告- Marketo Docs —— 产品文档
 title: 已查看的网页、网页活动报告
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 从网 [页活动报表](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，您可以看到报表中的人员查看的特定页面。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >要在Marketo中从您的网站捕获活动，您首先需要 [在您的网站上设置Munchkin](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
