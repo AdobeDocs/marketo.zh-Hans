@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: 用户登录历史记录- Marketo Docs —— 产品文档
 title: 用户登录历史记录
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 用户登录历史记录通过向您显示哪些用户登录了您的订阅（包括失败的登录尝试）来帮助维护责任和安全性。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >您必须具有启用“访问登录历史记录”权限的角色，才能视图用户登录历史记录。
 
