@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: 使用智能受众定义列表- Marketo Docs —— 产品文档
 title: 使用智能受众定义列表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 创建电 [子邮件项目](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)后，您会希望告诉电子邮件的收件人。 您可以通过导 [入人员列表或使用](define-an-audience-by-importing-a-list.md) 智能列表执行此操作。 下面介绍如何通过智能列表实现此目标。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
