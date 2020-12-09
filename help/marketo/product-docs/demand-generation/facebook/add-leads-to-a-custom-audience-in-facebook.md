@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: 在Facebook - Marketo Docs —— 产品文档中向自定义受众添加潜在客户
 title: 在Facebook中向自定义受众添加潜在客户
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 已在Facebook中拥有自定义受众并想向其添加更多潜在客户？ 这是方法。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [在Facebook中创建自定义受众](create-a-custom-audience-in-facebook.md)
 >* [在您的Facebook帐户中接受Facebook的](https://www.facebook.com/ads/manage/customaudiences/tos.php) “自定义受众”条款。
