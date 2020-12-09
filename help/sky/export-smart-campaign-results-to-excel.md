@@ -2,9 +2,9 @@
 title: 导出——智能活动-结果——至excel
 description: 将智能活动结果导出到Excel
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 将智能活动结果导出至Excel以在外部使用 [!DNL Marketo]。
 
-1. 在智能 [!UICONTROL Overview] 活动的选项卡中，单击“报告 [!UICONTROL **”选**] 项卡。
+1. 在智能 [!UICONTROL Overview] 活动的选项卡中，单击该选 **[!UICONTROL Reports]** 项卡。
 
    ![图像1](/help/sky/assets/smart-campaigns/export-smart-campaign-results-to-excel/export-smart-campaign-results-to-excel-1.png)
 
