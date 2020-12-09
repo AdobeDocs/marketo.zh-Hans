@@ -3,9 +3,9 @@ unique-page-id: 2359876
 description: 替换已上传的图像或文件- Marketo Docs —— 产品文档
 title: 替换已上传的图像或文件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 你成功了！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [搜索上传的图像和文件](search-uploaded-images-and-files.md)
 >* [查找已上载图像或文件的URL](find-the-url-of-an-uploaded-image-or-file.md)
