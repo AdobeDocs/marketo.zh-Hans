@@ -2,9 +2,9 @@
 title: 活动文件夹活动选项卡
 description: '活动文件夹活动选项卡 '
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # 活动文件夹：活动选项卡
 
-在“活动”选项卡中查找有关活动 [!UICONTROL **的关键**] 信息。
+在选项卡中查找有关活动的关 **[!UICONTROL Activities]** 键信息。
 
 ![图像1](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
-使用 [!UICONTROL **按活动**] ，按活动类型筛选。 您还可以按活动、活动类型等进行搜索。
+使用下 **[!UICONTROL Filter by]** 拉框按活动类型筛选活动。 您还可以按活动、活动类型等进行搜索。
 
 ![图像2](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
 
