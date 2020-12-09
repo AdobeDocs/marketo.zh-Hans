@@ -2,9 +2,9 @@
 title: local-assets-expiration
 description: 本地资产到期
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-设置过期日期／时间以取消发布登陆页、取消激活触发活动或停止重复的批活动。 您可以在资产选项卡的 [!UICONTROL **到期**] 部分找到 [!UICONTROL **此功能**] 。
+设置过期日期／时间以取消发布登陆页、取消激活触发活动或停止重复的批活动。 您可以在选项卡下的部 **[!UICONTROL Expiration]** 分中找到此 **[!UICONTROL Assets]** 功能。
 
 ![图像1](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
 ## 设置到期日期
 
-1. 检查要设置过期日期的资产，然后单击设 [!UICONTROL **置过期**]。
+1. 选中要设置过期日期的资产，然后单击 **[!UICONTROL Set Expiration]**。
 
    ![图像2](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-2.png)
 
@@ -28,13 +28,13 @@ ht-degree: 0%
 
    ![图3](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-3.png)
 
-1. 查看受影响的资产，然后单击 [!UICONTROL **确认**]。
+1. 查看受影响的资产，然后单击 **[!UICONTROL Confirm]**。
 
    ![图像4](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-4.png)
 
 >[!NOTE]
 >
->要编辑现有的到期日，只需检查资产并单击设置 [!UICONTROL **到期日**]。
+>要编辑现有的到期日期，只需选中资产并单击 **[!UICONTROL Set Expiration]**。
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 ## 删除过期日期
 
-1. 要删除到期日，请选中资产，然后单击删除 [!UICONTROL **到期**]。
+1. 要删除到期日，请检查资产并单击 **[!UICONTROL Remove Expiration]**。
 
    ![图像5](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
-1. 查看受影响的资产，然后单击 [!UICONTROL **确认**]。
+1. 查看受影响的资产，然后单击 **[!UICONTROL Confirm]**。
 
    ![图6](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-6.png)
 
