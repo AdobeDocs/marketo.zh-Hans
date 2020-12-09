@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: 了解Marketo自定义对象- Marketo文档——产品文档
 title: 了解Marketo自定义对象
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ ht-degree: 0%
 
 有关详 [细信息，请参阅](import-custom-object-data.md) “导入自定义对象数据”。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建Marketo自定义对象](create-marketo-custom-objects.md)
 >* [批准自定义对象](approve-a-custom-object.md)
