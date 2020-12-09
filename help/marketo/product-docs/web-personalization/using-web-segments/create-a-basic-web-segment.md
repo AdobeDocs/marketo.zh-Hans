@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: 创建基本Web区段- Marketo Docs —— 产品文档
 title: 创建基本Web区段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 
 现在您已将访客从美国分割开来，继续加入金融服务业。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [网络细分](http://docs.marketo.com/x/9QFI)
 
