@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: 测试Facebook潜在客户广告以与Marketo集成的桌面产品- Marketo文档——产品文档
 title: 测试Facebook潜在客户广告以与Marketo进行桌面集成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在创建Lead Ad之后，您应该测试它！ 下面介绍如何在桌面上完成此操作。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >您必须 [设置Facebook潜在客户广告集成](set-up-facebook-lead-ads.md)。
 
