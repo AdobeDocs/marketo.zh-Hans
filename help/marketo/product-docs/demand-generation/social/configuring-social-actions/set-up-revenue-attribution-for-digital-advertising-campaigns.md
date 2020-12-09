@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: 为数字广告活动设置收入归因- Marketo Docs —— 产品文档
 title: 为数字广告活动设置收入归因
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 
 通过单独的项目，您可以跟踪每个客户的转化次数，并在项目分析器、机会影响分析器和其他营销分析功能中查看项目。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* 设置具有状态值和项目成功率的渠道标签（例如，数字广告或社交付费和PPC）
 >* 创建或编辑表单以将查询字符串传递给人员
