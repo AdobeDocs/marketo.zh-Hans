@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: 批准阶段并将潜在客户分配到收入模型- Marketo Docs —— 产品文档
 title: 批准阶段并将潜在客户分配给收入模型
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >要批准您的模型，请阅读我们的帮助页面** [批准和取消批准收入模型](approve-unapprove-a-revenue-model.md)**。
 
