@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: 在创建推送通知和应用程序内消息- Marketo Docs —— 产品文档之前
 title: 在创建推送通知和应用程序内消息之前
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ ht-degree: 0%
 
 完成所有应用程序内消息和推送通知准备工作后，该开始了！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建应用程序内消息](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
