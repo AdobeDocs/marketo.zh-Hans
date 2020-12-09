@@ -2,9 +2,9 @@
 title: 理解——我——令牌
 description: 了解我的令牌
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 * **[被覆盖的令牌：](/help/sky/override-an-inherited-my-token.md)** 该令牌已继承，但在此项目或文件夹中出现异常。
 * **继承的令牌：** 标记是在树中某个较高级别的项目或文件夹中创建的。
 
-您可以在项目或活动文件夹 [!UICONTROL **的“我的令牌**] ”选项卡下找到这三种类型。
+您可以在项目或活动文件夹 **[!UICONTROL My Tokens]** 的选项卡下找到这三种类型。
 
 ![图像2](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
