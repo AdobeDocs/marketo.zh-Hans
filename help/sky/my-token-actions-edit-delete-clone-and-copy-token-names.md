@@ -2,9 +2,9 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: 我的令牌操作编辑、删除、克隆和复制令牌名称
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ## 编辑令牌
 
-在活动 [!UICONTROL My Tokens] 文件夹或项目的选项卡中，单 [!UICONTROL **击要编**] 辑的令牌的值。 这将打开编辑器窗口。
+在活动 [!UICONTROL My Tokens] 文件夹或项目的选项卡中，单 **[!UICONTROL Value]** 击要编辑的令牌。 这将打开编辑器窗口。
 
 ![图像1](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->文本令牌没有单独的编辑器窗口。 单击 [!UICONTROL **值**] ，进行联机编辑。
+>文本令牌没有单独的编辑器窗口。 单击 **[!UICONTROL Value]** 进行联机编辑。
 
 ![图像2](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## 删除令牌
 
-1. 右键单击令牌，然后选择 [!UICONTROL **删除**]。
+1. 右键单击令牌，然后选择 **[!UICONTROL Delete]**。
 
    ![图3](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. 单击 [!UICONTROL **确认**]。
+1. 单击 **[!UICONTROL Confirm]**。
 
    ![图像4](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
 ## 克隆令牌
 
-1. 要克隆我的令牌，请右键单击它并选择 [!UICONTROL **克隆**]。
+1. 要克隆我的令牌，请右键单击它并选择 **[!UICONTROL Clone]**。
 
    ![图像5](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-5.png)
 
-1. 为克隆令牌输入新名称，根据需要进行编辑，然后单击“保 [!UICONTROL **存”**]。
+1. 为克隆令牌输入新名称，根据需要进行编辑，然后单击 **[!UICONTROL Save]**。
 
    ![图6](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-6.png)
 
