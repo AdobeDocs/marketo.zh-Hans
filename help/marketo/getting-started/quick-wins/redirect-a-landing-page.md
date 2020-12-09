@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: 重定向登陆页- Marketo文档——产品文档
 title: 重定向登陆页
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [设置并添加人物](get-set-up-and-add-a-person.md)
 >* [登陆页表单](landing-page-with-a-form.md)
