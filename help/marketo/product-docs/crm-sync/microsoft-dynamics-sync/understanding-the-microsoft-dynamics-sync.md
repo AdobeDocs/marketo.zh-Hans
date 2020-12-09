@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: 了解Microsoft Dynamics Sync - Marketo Docs —— 产品文档
 title: 了解Microsoft Dynamics同步
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Dynamics同步有许多细微差别和功能。 查看Microsoft Dynamics同步�
 >
 >目前不支持Marketo Dynamics Sync的沙箱刷新。 如果需要刷新Dynamics CRM沙箱，将需要新的Marketo沙箱。 有关更多详细信息，请联系您的客户成功经理。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [同步设置](http://docs.marketo.com/display/docs/sync+setup)
    >
