@@ -3,9 +3,9 @@ unique-page-id: 4720856
 description: 为自由表单登陆页添加移动视图- Marketo文档——产品文档
 title: 为自由表单视图添加移动登陆页
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [为自由形式视图自定义移动登陆页](customize-mobile-view-for-your-free-form-landing-page.md)
 
