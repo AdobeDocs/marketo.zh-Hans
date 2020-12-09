@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: 发送警报- Marketo Docs —— 产品文档
 title: 发送警报
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Marketo可以向任何人（销售所有者、合作伙伴或其他人）发送�
 
 就这样！ 现在您知道如何使用“发送 **警报流** ”步骤。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[创建电子邮件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
