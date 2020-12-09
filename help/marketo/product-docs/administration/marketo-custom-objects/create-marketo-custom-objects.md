@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: 创建Marketo自定义对象- Marketo文档——产品文档
 title: 创建Marketo自定义对象
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -133,9 +133,7 @@ ht-degree: 0%
 
    下一步是添加链 [接字段](add-marketo-custom-object-link-fields.md) ，将中间对象连接到人/公司和自定义对象。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [添加Marketto自定义对象字段](add-marketo-custom-object-fields.md)
 >* [添加Marketto自定义对象链接字段](add-marketo-custom-object-link-fields.md)
