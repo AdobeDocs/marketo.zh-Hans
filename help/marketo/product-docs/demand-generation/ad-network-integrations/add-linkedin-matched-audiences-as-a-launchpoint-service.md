@@ -3,9 +3,9 @@ unique-page-id: 7504163
 description: 将LinkedIn匹配受众添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将匹配受众的LinkedIn添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 
    ![](assets/bartholomew2.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [将营销人员列表或智能列表用作LinkedIn受众细分](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
