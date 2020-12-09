@@ -3,9 +3,9 @@ unique-page-id: 10093159
 description: 了解内容分析——营销文档——产品文档
 title: 了解内容分析
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -98,9 +98,7 @@ ht-degree: 0%
 
 在“内容分析”页面中，单击要删除的内容的删除图标。 此时会显示一条消息，确认您要删除内容。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [启用内容推荐栏](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 >* [为Web富媒体启用预测内容](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
