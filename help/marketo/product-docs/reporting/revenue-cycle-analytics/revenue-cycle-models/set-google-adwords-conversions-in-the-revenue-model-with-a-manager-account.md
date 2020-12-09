@@ -3,9 +3,9 @@ unique-page-id: 7504923
 description: 在收入模型中使用经理帐户——营销文档——产品文档设置Google AdWords转换
 title: 在收入模型中使用Manager帐户设置Google AdWords转换
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ ht-degree: 0%
 * 舞台操作
 * AdWords映射
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [使用Manager帐户将Google AdWords添加为Launchpoint服务](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
