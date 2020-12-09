@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: 公司Web活动报告- Marketo Docs —— 产品文档
 title: 公司Web活动报告
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 
 创建网 [页活动报告](web-page-activity-report.md) ，查看访问您网站的个人。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >要在Marketo中从您的网站捕获活动，您首先需要在 [您的网站上设置Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
