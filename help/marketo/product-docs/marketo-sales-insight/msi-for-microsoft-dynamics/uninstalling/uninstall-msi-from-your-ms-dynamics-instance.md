@@ -3,9 +3,9 @@ unique-page-id: 37355600
 description: 从MS Dynamics实例- Marketo Docs —— 产品文档中卸载MSI
 title: 从MS Dynamics实例中卸载MSI
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 要从MS Dynamics实例卸载MSI，您需要在Marketo和MS Dynamics中执行步骤。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[禁用全局MS Dynamics同步](http://docs.marketo.com/x/TAA6Ag)
 
