@@ -3,9 +3,9 @@ unique-page-id: 4718670
 description: 使用收入模型登台阶段- Marketo文档——产品文档
 title: 使用收入模型登记阶段
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 
 恭喜！ 现在你了解了门舞台的美妙世界。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用收入模型库存阶段](using-revenue-model-inventory-stages.md)
 >* [使用收入模型SLA阶段](using-revenue-model-sla-stages.md)
