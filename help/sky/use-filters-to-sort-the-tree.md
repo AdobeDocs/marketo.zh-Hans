@@ -2,9 +2,9 @@
 title: use-过滤器-to-sort-the-tree
 description: 使用过滤器对树进行排序
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 您可以使用此功能查找在特定日期范围内创建或修改的资产；例如，上周，过去3个月，等等。
 
-默认情况下，Marketo会加载过去六个月内的所有内容。 要更改此设置，请从选择日 [!UICONTROL **期范围下拉框**] 中选择一个范围。 这些设置很粘滞，下次登录Market时也会应用这些设置。
+默认情况下，Marketo会加载过去六个月内的所有内容。 要更改此设置，请从下拉框中 **[!UICONTROL Choose Date Range]** 选择一个范围。 这些设置很粘滞，下次登录Market时也会应用这些设置。
 
 ![图像2](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
