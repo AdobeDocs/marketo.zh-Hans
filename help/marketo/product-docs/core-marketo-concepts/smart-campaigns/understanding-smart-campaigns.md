@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: 了解智能活动-营销文档——产品文档
 title: 了解智能活动
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 聪明的活动可以做很多事情。 了解详情后，您会发现Marketo中的一切变得简单易懂。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建新的智能活动](creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
