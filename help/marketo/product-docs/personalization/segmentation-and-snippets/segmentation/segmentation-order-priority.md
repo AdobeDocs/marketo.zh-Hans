@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: 分段订单优先级- Marketo Docs —— 产品文档
 title: 分段顺序优先级
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 了解在细分中如何 **设置** “评估人员”的优先级非常重要。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建分段](create-a-segmentation.md)
 >* [定义区段规则](define-segment-rules.md)
