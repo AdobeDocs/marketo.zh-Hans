@@ -2,9 +2,9 @@
 title: 存档-项目
 description: 存档项目
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 要存档项目，您需要将其移动到单独的存档文件夹。
 
-1. 通过右键单击Worksplace Globe并选择“新建营销活动文件夹”，创建新 [!UICONTROL **的活动文件夹**]。
+1. 通过右键单击Worksplace Globe并选择，新建一个活动文件夹 **[!UICONTROL New Campaign Folder]**。
 
    ![图像1](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. 输入新文件夹的名称，然后添加可选说明。 单击 [!UICONTROL **创建**]。
+1. 输入新文件夹的名称，然后添加可选说明。 单击 **[!UICONTROL Create]**。
 
    ![图像2](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. 要存档项目，请首先将其添加到新创建的文件夹，方法是在树中右键单击该文件夹，然后选择“移 [!UICONTROL **动”**]。
+1. 要存档项目，请首先将其添加到新创建的文件夹，方法是在树中右键单击该文件夹，然后选择 **[!UICONTROL Move]**。
 
    ![图3](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. 键入以搜索新文件夹，然后从下拉菜单中选择它。 单击 [!UICONTROL **移动**]。
+1. 键入以搜索新文件夹，然后从下拉菜单中选择它。 单击 **[!UICONTROL Move]**。
 
    ![图像4](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. 右键单击文件夹，然后选择“转 [!UICONTROL **换到存档文件夹”**]。
+1. 右键单击文件夹并选择 **[!UICONTROL Convert To Archive Folder]**。
 
    ![图像5](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
