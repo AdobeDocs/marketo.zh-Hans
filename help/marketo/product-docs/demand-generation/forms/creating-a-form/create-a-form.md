@@ -3,9 +3,9 @@ unique-page-id: 2359398
 description: 创建表单- Marketo Docs —— 产品文档
 title: 创建表单
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
 真贴心！ 现在表单已创建，让我们继续修改它。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [选择表单主题](select-a-form-theme.md)
 >* [将字段集添加到表单](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
