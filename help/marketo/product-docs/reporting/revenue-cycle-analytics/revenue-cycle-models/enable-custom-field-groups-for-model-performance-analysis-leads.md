@@ -3,9 +3,9 @@ unique-page-id: 3571890
 description: 为模型性能分析（潜在客户）- Marketo文档——产品文档启用自定义字段组
 title: 为模型性能分析启用自定义字段组（潜在客户）
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 为模型性能分析启用自定义字段组（潜在客户） {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >将标准或自定义字段分为组，以便通过Marketo中的字段管理器进行报告。 有关详细信息，请 [参阅通过字段管理器创建自定义字段组](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)。
 
