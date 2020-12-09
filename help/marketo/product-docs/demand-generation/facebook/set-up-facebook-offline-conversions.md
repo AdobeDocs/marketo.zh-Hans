@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: 设置Facebook脱机转换- Marketo Docs —— 产品文档
 title: 设置Facebook脱机转换
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 通过向Facebook发送线下转化数据，让通过Lead Ads创建的人群使用，您的广告团队可以比以往更好地优化其广告支出。 下面介绍如何设置。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* 必须设 [置Facebook潜在客户广告](set-up-facebook-lead-ads.md)。
 >* 您必须在收入周期建模器中具 [有已批准的模型](http://docs.marketo.com/display/docs/revenue+cycle+models)。
