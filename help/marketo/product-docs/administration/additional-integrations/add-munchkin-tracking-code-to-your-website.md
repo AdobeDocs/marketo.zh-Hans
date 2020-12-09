@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: 将Munchkin跟踪代码添加到您的网站- Marketo Docs —— 产品文档
 title: 将Munchkin跟踪代码添加到您的网站
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo的自定义JavaScript跟踪代码称为Munchkin，它跟踪访问您网站的所有个人，以便您能够通过自动化营销活动对其访问做出响应。 即使是匿名访客也会跟踪其IP地址和其他信息。 **如果没有此跟踪代码，您将无法跟踪您网站上的访问或其他活动!**
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >请确保您有权访问经验丰富的JavaScript开发人员。 Marketo技术支持未设置为有助于对自定义JavaScript进行故障诊断。
 
