@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: 在智能列表- Marketo Docs —— 产品文档中使用数据值更改筛选器
 title: 在智能列表中使用数据值更改筛选器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 值在Marketo数据库中不断变化和更新。 有时，您不想寻找特定的价值，而是想寻找价值发生变化的人。 这是方法。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
