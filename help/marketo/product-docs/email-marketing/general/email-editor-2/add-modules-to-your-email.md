@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: 将模块添加到您的电子邮件- Marketo Docs —— 产品文档
 title: 向电子邮件中添加模块
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
 
 这就是一切。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[电子邮件模板语法](email-template-syntax.md)
 
