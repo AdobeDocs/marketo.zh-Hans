@@ -3,9 +3,9 @@ unique-page-id: 10092730
 description: 预览推送通知- Marketo Docs —— 产品文档
 title: 预览推送通知
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
 
 因此，通过推送通知预览，您始终能够了解客户将看到的内容！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建推送通知](create-a-push-notification.md)
 >* [配置移动推送通知](configure-mobile-push-notification.md)
