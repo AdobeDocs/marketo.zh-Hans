@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: 在Salesforce Classic - Marketo Docs —— 产品文档中使用批量操作
 title: 在Salesforce Classic中使用批量操作
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 了解如何执行批量操作，如向活动添加潜在客户、发送批量电子邮件或将潜在客户从Salesforce推送到Sales Connect。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >更新至Sales Connect包的最新版本，并在潜在客户／联系视图中安装批量操作按钮。 [单击此处以获取说明](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)。
 
