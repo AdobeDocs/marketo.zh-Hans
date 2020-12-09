@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: 批量发送选项- Marketo Docs —— 产品文档
 title: 批量发送选项
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 
 默认情况下，您将编辑所有收件人。 但是，您也可以选择每封单独的电子邮件，以对其进行自定义编辑。 这对于向您想采用更个性化方法的收件人添加一行或多行唯一的自定义产品非常有用。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用“选择并发送”编写批量电子邮件](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [通过组电子邮件发送电子邮件](http://docs.marketo.com/x/KAQ6Ag)
