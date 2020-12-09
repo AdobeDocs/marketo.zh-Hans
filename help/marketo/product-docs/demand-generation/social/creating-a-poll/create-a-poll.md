@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: 创建投票- Marketo Docs —— 产品文档
 title: 创建投票
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >如果要在投票中使用图像，请在开始之前将它们添加到Marketo图像和文件库。 为每个投票条目添加一个60x60px图像。 请参 [阅将图像和文件添加到Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
 
