@@ -2,9 +2,9 @@
 title: using-the-项目-setup-tab
 description: 使用“项目设置”选项卡
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## 添加标记
 
-1. 在部 [!UICONTROL Tags] 分下，单击“属 [!UICONTROL **性**] ”下拉框，并从可用选项中选择标记属性。
+1. 在部 [!UICONTROL Tags] 分下，单击下 **[!UICONTROL Attribute]** 拉框，并从可用选项中选择标记属性。
 
    ![图3](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. 单击 [!UICONTROL **值**] (Value)下拉框，并从可用选项中选择标记值。 单击 [!UICONTROL **添加**]。
+1. 单击下 **[!UICONTROL Value]** 拉框，并从可用选项中选择一个标记值。 单击 **[!UICONTROL Add]**。
 
    ![图像4](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 添加期间成本
 
-1. 在部 [!UICONTROL Period Costs] 分下，选择月份，输入成本，然后添加简短名称或说明。 单击 [!UICONTROL **添加**]。
+1. 在部 [!UICONTROL Period Costs] 分下，选择月份，输入成本，然后添加简短名称或说明。 单击 **[!UICONTROL Add]**。
 
    ![图6](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
