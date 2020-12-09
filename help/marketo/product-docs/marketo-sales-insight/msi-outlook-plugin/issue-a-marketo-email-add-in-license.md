@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: 发出Marketo Email Add-in许可证- Marketo Docs —— 产品文档
 title: 发出营销人员电子邮件插件许可证
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
    >
    >如果您的销售代表有权访问他们的计算机，请选中此复选框，您就完成了！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用企业密钥安装Outlook的Marketo Add-in](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [使用注册代码安装Outlook的Marketo Email Add-in](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
