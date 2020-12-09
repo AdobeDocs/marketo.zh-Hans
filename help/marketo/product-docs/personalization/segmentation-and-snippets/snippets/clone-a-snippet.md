@@ -3,9 +3,9 @@ unique-page-id: 2359514
 description: 克隆代码片断- Marketo Docs —— 产品文档
 title: 克隆片段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 太棒了！ 现在，您可以修改克隆的片段以满足您的需求。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用动态内容编辑片段](edit-snippets-with-dynamic-content.md)
 
