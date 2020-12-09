@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: 定义A/B测试优胜者标准- Marketo Docs —— 产品文档
 title: 定义A/B测试入选方标准
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在 [将A/B测试添加到电子邮件项目](add-an-a-b-test.md) ，您需要选择测试类型， [计划A/B测试](schedule-the-a-b-test.md)，然后定义入选方标准。 下面将介绍如何确定哪封电子邮件最终胜出。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [添加A/B测试](add-an-a-b-test.md)
 
