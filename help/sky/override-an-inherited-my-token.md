@@ -2,9 +2,9 @@
 title: override-an-inherited-my-token
 description: 覆盖继承的我的令牌
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. 单击令牌 [!UICONTROL **值**] ，并更改它。 更改此令牌的值将自动将其移至 [!UICONTROL Overridden Tokens] 部分。
+1. 单击令牌 **[!UICONTROL Value]** 并更改它。 更改此令牌的值将自动将其移至 [!UICONTROL Overridden Tokens] 部分。
 
    ![图像2](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 
