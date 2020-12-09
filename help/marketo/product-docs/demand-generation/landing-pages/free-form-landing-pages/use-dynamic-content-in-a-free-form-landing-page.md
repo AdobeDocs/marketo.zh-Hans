@@ -3,9 +3,9 @@ unique-page-id: 2359732
 description: 在自由形式登陆页中使用动态内容- Marketo Docs —— 产品文档
 title: 在自由形式登陆页中使用动态内容
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在登陆页中使用动态内容可让受众获得目标信息。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建分段](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [创建自由格式登陆页](create-a-free-form-landing-page.md)
