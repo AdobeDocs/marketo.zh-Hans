@@ -3,9 +3,9 @@ unique-page-id: 3571816
 description: 步骤2（共3步）-为Marketo配置同步用户（2013本地版）- Marketo文档——产品文档
 title: 步骤2（共3步）-为Marketo配置同步用户（2013年内部部署）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 完成前几步的工作非常出色，让我们继续完成这一步。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [第1步，共3步：在Dynamics（2013内部部署）中安装Marketo解决方案](step-1-of-3-install.md)
 
