@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: 创建仅限API用户- Marketo Docs —— 产品文档
 title: 创建仅API用户
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 如果要通过REST API与Marketo [集成](http://developers.marketo.com/documentation/rest/)，您将需要创建仅API用户。 这是方法。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建仅API用户角色](create-an-api-only-user-role.md)
 
