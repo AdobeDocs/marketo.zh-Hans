@@ -3,9 +3,9 @@ unique-page-id: 11383945
 description: 了解Facebook脱机转换——营销文档——产品文档
 title: 了解Facebook脱机转换
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Facebook潜在客户广告活动生成潜在客户并将其发送到Marketo以�
 1. 将收入周期模型中的阶段映射到Facebook上的脱机转化阶段。
 1. 当Facebook潜在客户从Facebook潜在客户广告生成并到达映射阶段时，Marketo每天通过安全、自动的API将线下转化数据发回Facebook多次。 数据会显示在Facebook广告管理器报告中。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [设置Facebook脱机转换](set-up-facebook-offline-conversions.md)
 
