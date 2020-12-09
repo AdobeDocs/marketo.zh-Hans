@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: 电子邮件中的硬弹回和软弹回- Marketo Docs —— 产品文档
 title: 电子邮件中的硬边界和软边界
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Marketo中有5个与问题电子邮件投放相关的人字符串。
 >
 >当某人被标记为电子邮 **件无效**，则只能通过取消选中其记录的“人员信息”选项卡中的“电子邮件无效”框来手动重置他们（我们建议您仅在您知道其电子邮件有效时重置）。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >按照 [以下步骤](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ，创建将生成弹回数据的电子邮件性能报告。
 
