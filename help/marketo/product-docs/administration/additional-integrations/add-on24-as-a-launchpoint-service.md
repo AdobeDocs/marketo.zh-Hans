@@ -3,9 +3,9 @@ unique-page-id: 7512276
 description: 将ON24添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将ON24添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ ht-degree: 0%
 
    ![](assets/on24.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >了解如何在 [ON24中创建网络研讨会事件](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)。
 
