@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Sales Connect概述- Marketo Docs —— 产品文档
 title: 销售连接概述
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,7 @@ Marketo Sales Connect是一款具有多种功能的全方位销售支持解决�
 
 准备开始？ 有关设置说明，请单击下面的链接。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [销售连接入门](http://docs.marketo.com/x/coTS)
 
