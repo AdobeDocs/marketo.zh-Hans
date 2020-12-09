@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: 为电子邮件发送功能设置SPF和DKIM - Marketo文档——产品文档
 title: 设置SPF和DKIM以便您的电子邮件发送
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ DKIM是如何工作的？
 
 请参阅 [设置自定义DKIM签名](set-up-a-custom-dkim-signature.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [进一步了解SPF及其工作方式](http://www.open-spf.org/Introduction/)
 >* [Marketo的电子邮件发送工具](https://www.marketo.com/software/email-marketing/email-deliverability/)
