@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: 创建新帐户列表- Marketo Docs —— 产品文档
 title: 创建新帐户列表
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ CSV文件将替换现有文件。 现有列表将保持活动状态，直到新�
 
    ![](assets/delete-notification-hand.jpg)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用帐户创建列表](create-a-segment-using-an-account-list.md)
 >* [视图指定帐户列表](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
