@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: 配置移动推送通知- Marketo Docs —— 产品文档
 title: 配置移动推送通知
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -101,9 +101,7 @@ ht-degree: 0%
 
 也就是说，您的应用程序的深层链接结构可能与上述示例不同。 开发人员在定义深层链接URI时有许多选项，因此请要求开发人员为您希望使用的页面发送URI（链接）。 这将确保您在推送消息中输入的URI指向正确的位置。 您的开发人员可 [以在此处找到更多信息](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [发送移动推送通知](send-a-mobile-push-notification.md)
 
