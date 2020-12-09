@@ -2,9 +2,9 @@
 title: activate-deactivate-a-trigger-smart-活动
 description: 激活／取消激活触发器智能活动
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 激活触发活动
 
-1. 在智能活动中，单击“ [!UICONTROL **计划**] ”选项卡。
+1. 在智能活动中，单击选 **[!UICONTROL Schedule]** 项卡。
 
    ![图像1](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
    >
    >激活前请查看智能活动。
 
-1. 单击 [!UICONTROL **激活**]。
+1. 单击 **[!UICONTROL Activate]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,11 +36,11 @@ ht-degree: 0%
 
 ## 取消激活触发器活动
 
-1. 在智能活动中，单击“ [!UICONTROL **计划**] ”选项卡。
+1. 在智能活动中，单击选 **[!UICONTROL Schedule]** 项卡。
 
    ![图3](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. 单击 [!UICONTROL **取消激活**]。
+1. 单击 **[!UICONTROL Deactivate]**。
 
    ![图像4](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
