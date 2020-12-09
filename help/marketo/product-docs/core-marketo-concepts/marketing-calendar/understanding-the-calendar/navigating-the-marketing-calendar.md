@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: 导航营销日历- Marketo文档——产品文档
 title: 导航营销日历
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在营销日历中导航非常简单，一、二、三！
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >确保您有营销日 [历许可证](issue-revoke-a-marketing-calendar-license.md) -否则，“营销日历”拼贴不会显示在我的营销人员中。
 
