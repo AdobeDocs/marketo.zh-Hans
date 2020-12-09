@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: 升级Marketo Email Add-In for Outlook - Marketo Docs —— 产品文档
 title: 升级Marketto Email Add-In for Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -154,9 +154,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用Outlook的Marketo电子邮件插件发送和跟踪电子邮件](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [使用Marketo模板从Outlook发送和跟踪](send-and-track-from-outlook-using-a-marketo-template.md)
