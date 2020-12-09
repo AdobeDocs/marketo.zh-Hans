@@ -3,9 +3,9 @@ unique-page-id: 7504051
 description: 管理人员数据- Marketo Docs —— 产品文档
 title: 管理人员数据
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ ht-degree: 0%
 
 新的Web个性化帐户现成可提供以下潜在客户字段：
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用已知人员数据创建细分](create-a-segment-using-known-person-data.md)
 
