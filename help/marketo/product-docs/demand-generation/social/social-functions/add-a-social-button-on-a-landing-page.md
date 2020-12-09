@@ -3,9 +3,9 @@ unique-page-id: 2359757
 description: 在登陆页- Marketo Docs —— 产品文档上添加社交按钮
 title: 在登陆页上添加社交按钮
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ ht-degree: 0%
 >
 >要节省时间，您可以使用“克隆 **自”选项** ，从现有社交按钮复制所有设置。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >您已完成，但可以根据需要更改社交按钮的设置。 开始 [自定义按钮样式](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) , [并编辑它显示的共享消息](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 。
