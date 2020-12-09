@@ -3,9 +3,9 @@ unique-page-id: 7515107
 description: 向引导式登陆页添加表单- Marketo Docs —— 产品文档
 title: 将表单添加到向导式登陆页
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 表单，认识登陆页。 登陆页，见面。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建引导登陆页](create-a-guided-landing-page.md)
 
