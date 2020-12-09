@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: 了解网络研讨会项目状态——营销文档——产品文档
 title: 了解网络研讨会项目状态
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >要使Marketo取消“无显示”状态，人员必须已在Marketo *中注册*。 我们无法从On24数据源捕获“无显示”。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解ON24适配器的营销事件](understanding-marketo-on24-adapter-events.md)
 
