@@ -3,9 +3,9 @@ unique-page-id: 2359734
 description: 预览包含动态内容的登陆页- Marketo Docs —— 产品文档
 title: 预览具有动态内容的登陆页
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在添加动态内容后预览登陆页，确保一切都按它应有的方式显示。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [在登陆页中使用动态内容](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [预览登陆页](preview-a-landing-page.md)
