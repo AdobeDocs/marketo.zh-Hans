@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Google中的个性化再营销- Marketo Docs —— 产品文档
 title: Google中的个性化再营销
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 个性化的再营销使您能够借助RTP数据和Google Analytics的强大功能与用户重新互动，触及Google Display Network的触及范围。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* 使用Web个 [性化数据配置完成重定位](retargeting-with-web-personalization-data.md) 。
 >* 查看 [再营销Google Analytics帮助](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) 文档
