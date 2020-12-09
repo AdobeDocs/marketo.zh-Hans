@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 添加电子邮件冠军／挑战者——营销文档——产品文档
 title: 添加电子邮件冠军／挑战者
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 您正在测试的现有电子邮件被视为冠军。 您在测试中创建的任何变体都被视为挑战者。 您确定接收冠军内容或挑战者内容的人所占的百分比。 如果你定义了多个挑战者，他们将在挑战者小组中平等分配。\
 下面介绍如何开始。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建项目](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [创建电子邮件](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
