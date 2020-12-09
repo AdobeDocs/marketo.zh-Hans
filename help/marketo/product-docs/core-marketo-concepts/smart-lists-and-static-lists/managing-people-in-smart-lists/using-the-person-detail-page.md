@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 使用人员详细信息页面- Marketo Docs —— 产品文档
 title: 使用人员详细信息页面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -115,9 +115,7 @@ ht-degree: 0%
 >
 进一步了解 [系统管理字段](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [为“人员详细信息”页面创建自定义选项卡](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
 
