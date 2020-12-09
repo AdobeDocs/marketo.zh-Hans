@@ -3,9 +3,9 @@ unique-page-id: 2359469
 description: 视图电子邮件项目仪表板- Marketo Docs —— 产品文档
 title: 视图电子邮件项目仪表板
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 >
 >将光标悬停在图表构件上即可进行试验。 它将向您显示其他信息。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用电子邮件项目仪表板- A/B测试视图](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [使用电子邮件项目仪表板](use-the-email-program-dashboard.md)
