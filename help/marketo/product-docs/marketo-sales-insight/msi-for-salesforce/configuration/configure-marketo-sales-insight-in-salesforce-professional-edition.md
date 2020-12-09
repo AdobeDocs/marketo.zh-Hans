@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: 在Salesforce专业版中配置Marketo Sales Insight - Marketo文档——产品文档
 title: 在Salesforce专业版中配置Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '921'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 以下是在Salesforce Professional Edition中配置Marketo Sales Insight时需要执行的步骤。 我们开始吧。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[在Salesforce Professional Edition中安装Marketo](http://docs.marketo.com/display/docs/professional+edition)
 >
