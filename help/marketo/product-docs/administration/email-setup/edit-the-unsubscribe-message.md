@@ -3,9 +3,9 @@ unique-page-id: 2360251
 description: 编辑取消订阅消息- Marketo Docs —— 产品文档
 title: 编辑取消订阅消息
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 取消订阅HTML:`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` 取消订阅文本：
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [编辑“视图为网页”消息](edit-the-view-as-web-page-message.md)
 
