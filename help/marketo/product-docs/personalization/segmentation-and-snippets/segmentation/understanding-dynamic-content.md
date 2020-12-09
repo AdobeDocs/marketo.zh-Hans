@@ -3,9 +3,9 @@ unique-page-id: 2953417
 description: 了解动态内容——营销文档——产品文档
 title: 了解动态内容
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
 
 试一试，告诉我们您的成功案例！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建分段](create-a-segmentation.md)
 >* [创建代码片断](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
