@@ -3,9 +3,9 @@ unique-page-id: 2360274
 description: 管理标记值- Marketo Docs —— 产品文档
 title: 管理标记值
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[创建新项目标记和标记值](create-a-new-program-tag-and-tag-values.md)
 
