@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: 在社交促销- Marketo Docs —— 产品文档中使用电子邮件
 title: 在社交促销中使用电子邮件
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 
 * **履行电子邮件**:使 **`{{social.Promo Code}}`** 用向每个入选方发送 [促销代码](use-promo-codes-for-offer-fulfillment.md)。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >在向社交应用程序添加电子邮件之前，电子邮件必须 *可操作* 并 *获得批准*。 请参 [阅编辑电子邮件的设置](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。
 
