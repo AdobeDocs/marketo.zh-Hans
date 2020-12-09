@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: 将人员分区分配给工作区- Marketo文档——产品文档
 title: 将人员分区分配给工作区
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[创建新工作区](create-a-new-workspace.md)
 
