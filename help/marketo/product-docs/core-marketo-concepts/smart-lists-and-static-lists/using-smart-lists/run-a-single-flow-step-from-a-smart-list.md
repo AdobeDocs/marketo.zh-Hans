@@ -3,9 +3,9 @@ unique-page-id: 557322
 description: 从智能列表- Marketo Docs —— 产品文档运行单流程步骤
 title: 从智能列表运行单流程步骤
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 如果要运行一次性流步骤，您可以在智能列表中使用单个流步骤，而不是创建整个智能活动。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
