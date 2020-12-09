@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: 有趣时刻的令牌——营销文档——产品文档
 title: 有趣时刻的令牌
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 有趣时刻的令牌 {#tokens-for-interesting-moments}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* 学习如何使用 [有趣的时刻流步骤](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
 >* 进一步了 [解令牌](http://docs.marketo.com/display/docs/tokens)。
