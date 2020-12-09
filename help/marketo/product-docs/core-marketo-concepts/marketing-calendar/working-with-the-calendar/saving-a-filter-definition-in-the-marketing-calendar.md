@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: 在营销日历- Marketo Docs —— 产品文档中保存过滤器定义
 title: 在营销日历中保存筛选器定义
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 保存过滤器允许您在不同的过滤器定义之间来回切换。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [筛选营销日历](filtering-the-marketing-calendar.md)
 
