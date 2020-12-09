@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: 创建演示文稿- Marketo Docs —— 产品文档
 title: 创建演示文稿
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
    干得好！ 现在，您已准备好自定义您的演示文稿。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [自定义演示文稿](customize-a-presentation.md)
 
