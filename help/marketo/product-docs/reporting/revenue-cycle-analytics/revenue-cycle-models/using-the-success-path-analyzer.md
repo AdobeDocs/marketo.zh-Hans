@@ -3,9 +3,9 @@ unique-page-id: 3571886
 description: 使用成功路径分析器- Marketo Docs —— 产品文档
 title: 使用成功路径分析器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用成功路径分析器探索反映收入周期模型各个阶段人员的流量（数量）和速度（速度，以天为单位）的特 [定详细信息](understanding-revenue-models.md)。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[创建成功路径分析器](create-a-success-path-analyzer.md)
 
