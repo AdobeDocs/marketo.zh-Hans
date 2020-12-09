@@ -3,9 +3,9 @@ unique-page-id: 4719410
 description: 删除Web活动- Marketo Docs —— 产品文档
 title: 删除Web活动
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ ht-degree: 0%
 
 1. 将显示一条确认消息，确认是否要删除Web活动。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [编辑Web活动](edit-an-existing-web-campaign.md)
 >* [启动／暂停Web活动](launch-pause-a-web-campaign.md)
