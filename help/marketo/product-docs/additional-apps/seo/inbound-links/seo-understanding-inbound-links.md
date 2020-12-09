@@ -3,9 +3,9 @@ unique-page-id: 2949226
 description: SEO —— 了解入站链接- Marketo Docs —— 产品文档
 title: SEO —— 了解入站链接
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,7 @@ ht-degree: 0%
 
 真贴心！ 了解入站链接后，我们可为您的站点建议更多入站链接机会。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [获取入站链接建议](seo-get-inbound-link-suggestions.md)
 
