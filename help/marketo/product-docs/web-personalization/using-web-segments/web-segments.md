@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: 网站区段——营销文档——产品文档
 title: 网络细分
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ ht-degree: 0%
 
 定义区段的常规参数：
 
-1. &#x200B;
+1. 
 
    * **名称：** 命名您的区段。
    * **描述：** 提供更详细的细分标准说明。
@@ -109,22 +109,24 @@ ht-degree: 0%
 >
 >1. 使用所有过滤器（1和2和3...）
 >1. 使用任何过滤器（1或2或3...）
->1. 高级过滤器(使用和／或表达式)
->    1. &#x200B;
->
->       高级过滤器允许您控制段条件。 输入以“和”和“或”分隔的筛选器编号。
->       * 1和2和3
->       * 1或2或3
->
->       混合“和”和“或”需要括号来阐明逻辑意图。 例如，“1或2”和“3”必须作为以下内容之一写成：
->       * 1和（2或3）
->       * （1和2）或3
->
->       对于更复杂的逻辑，如
->       * （1和2）或（3和4）
->       * 1和(2或（3和4）)
->
->       在插入、删除或重新排序后检查逻辑。
+>1. 高级过滤器(使用和／或表达式)>
+   >    1. >    
+   >       
+
+      >高级过滤器允许您控制段条件。 输入以“和”和“或”分隔的筛选器编号。  >
+      >        * 1和2和3
+      >        * 1或2或3
+
+      >
+      混合“和”和“或”需要括号来阐明逻辑意图。 例如，“1或2”和“3”必须作为以下内容之一写成： >
+      * 1和（2或3）
+      * （1和2）或3
+
+      对于更复杂的逻辑，如 >
+      * （1和2）或（3和4）
+      * 1和(2或（3和4）)
+
+      在插入、删除或重新排序后检查逻辑。
 
 
 
@@ -340,8 +342,7 @@ Web个性化API调用 [在此处了解详情。](http://developers.marketo.com/d
 
 太好了！ 现在，您已了解“区段”部分，让我们了解一下活动。
 
->[!NOTE]
-**相关文章**
+>[!MORELIKETHIS]
 * [创建基本Web区段](create-a-basic-web-segment.md)
 * [创建新对话框Web活动](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [在Zone Web中新建活动](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
