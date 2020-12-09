@@ -3,9 +3,9 @@ unique-page-id: 2950547
 description: 为社交应用程序配置人员捕获- Marketo文档——产品文档
 title: 为社交应用程序配置人员捕获
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >现在，您 [可以配置社交注册流](configure-social-sign-up-share-flow.md) ，并编辑将发布到每个社交网络的共享消息。
 
