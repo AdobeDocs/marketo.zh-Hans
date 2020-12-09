@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: 使用模板创建Web活动- Marketo Docs —— 产品文档
 title: 使用模板创建Web活动
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ ht-degree: 0%
 
 干得好！ 您看到使用模板节省了多少时间吗？
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [将活动另存为模板](save-your-campaign-as-a-template.md)
 
