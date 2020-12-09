@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: 配置事件设置并与网络研讨会——营销文档——产品文档同步营销
 title: 配置事件设置并将营销人员同步到网络研讨会
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 现在，您可以继续执行下一步：.
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解Marketo On24适配器事件](understanding-marketo-on24-adapter-events.md)
 >* [创建子活动和本地资产](create-child-campaigns-and-local-assets.md)
