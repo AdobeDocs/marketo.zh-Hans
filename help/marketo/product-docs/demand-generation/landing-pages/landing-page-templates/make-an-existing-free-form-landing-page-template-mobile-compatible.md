@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: 使现有的自由格式登陆页模板与移动设备兼容- Marketo Docs —— 产品文档
 title: 使现有自由格式登陆页模板与移动设备兼容
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ ht-degree: 0%
 
 太棒了！ 您现在可 [以自定义所有使用](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) 此模板的登陆页的移动视图。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [为自由形式视图自定义移动登陆页](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
