@@ -3,9 +3,9 @@ unique-page-id: 2359400
 description: 选择表单主题- Marketo Docs —— 产品文档
 title: 选择表单主题
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
 
 那有多简单？!现在，您可以让HTML/CSS书籍收集一些灰尘。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [编辑表单主题的CSS](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [向表单添加字段](add-a-field-to-a-form.md)
