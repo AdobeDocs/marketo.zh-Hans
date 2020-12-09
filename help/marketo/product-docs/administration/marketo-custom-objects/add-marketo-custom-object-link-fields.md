@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: 添加Marketo自定义对象链接字段- Marketo文档——产品文档
 title: 添加Marketto自定义对象链接字段
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 下面介绍如何在中间对象中创建链接字段以用于多对多结构。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >您必须已创建中间对象以及要将其链接到的任何自定义对象。
 
