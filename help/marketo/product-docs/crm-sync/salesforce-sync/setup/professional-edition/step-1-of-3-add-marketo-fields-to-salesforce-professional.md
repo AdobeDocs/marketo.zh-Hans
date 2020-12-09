@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: 步骤1（共3步）-将Marketo字段添加到Salesforce（专业）- Marketo文档——产品文档
 title: 第1步（共3步）-将“营销人员”字段添加到Salesforce（专业）
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 第1步，共3步：将Marketo字段添加到Salesforce(Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >您的Salesforce实例必须有权访问Salesforce API，以在Marketo和Salesforce之间同步数据。
 
