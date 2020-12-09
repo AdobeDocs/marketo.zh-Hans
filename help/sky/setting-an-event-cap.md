@@ -2,9 +2,9 @@
 title: setting-an-事件-cap
 description: 如何设置事件帽
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. 在“概述”中，查找并 [!UICONTROL Event Cap] 单击“ [!UICONTROL **未设置”**]。
+1. 在概述中，查找并 [!UICONTROL Event Cap] 单击 **[!UICONTROL Not Set]**。
 
    ![图像2](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. 输入您希望能够注册事件的最大人数，然后单击“下 [!UICONTROL **一步”**]。
+1. 输入您希望能够注册事件的最大人数并单击 **[!UICONTROL Next]**。
 
    ![图3](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![图像4](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. 单击“ [!UICONTROL **注册全页**] ”下拉框，然后选择将充当注册全页的登陆页。 完成 [!UICONTROL **后，单击“设置**] ”和“启用”。
+1. 单击下 **[!UICONTROL Registration Full Page]** 拉框并选择将充当注册完整页面的登陆页。 完成 **[!UICONTROL Set and Enable]** 后单击。
 
    ![图像5](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
