@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: 使用企业密钥——营销文档——产品文档安装Marketo Add-in for Outlook
 title: 使用企业密钥安装Outlook的Marketo Add-in
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 很多时候，销售代表在笔记本电脑上没有管理权限，他们的IT团队负责远程安装所有软件。 Outlook的Marketo Add-in可以使用您的企业密钥以这种方式安装，该密钥位于管理员的“销售分析”部分。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >管理员必须已 [颁发Marketo Email Add-In许可证](issue-a-marketo-email-add-in-license.md)。
 
