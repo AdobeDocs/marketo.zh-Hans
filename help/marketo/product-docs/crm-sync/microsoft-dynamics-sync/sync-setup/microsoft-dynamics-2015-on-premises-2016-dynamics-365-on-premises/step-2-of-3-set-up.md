@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: 安装Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步骤2（共3步）- Marketo Docs —— 产品文档
 title: 为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤2（共3步）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 完成前几步的工作做得不错。 让我们继续过去。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤1（共3步）](step-1-of-3-install.md)
 
