@@ -2,9 +2,9 @@
 title: 克隆——智能活动
 description: 克隆智能活动
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -20,14 +20,14 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-1.png)
 
-1. 在智能活动操作下拉框下，选择 [!UICONTROL **克隆**]。
+1. 在智能活动操作下拉菜单中选择 **[!UICONTROL Clone]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
 
-1. 单击“ [!UICONTROL **目标**] ”下拉框，然后选择目标项目或文件夹。
+1. 单击下 **[!UICONTROL Destination]** 拉框并选择目标项目或文件夹。
 
    ![图3](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-3.png)
 
-1. 输入活动名称（和可选的描述／标签），然后单击 [!UICONTROL **克隆**]。
+1. 输入活动名称（和可选的说明／标签），然后单击 **[!UICONTROL Clone]**。
 
    ![图像4](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-4.png)
