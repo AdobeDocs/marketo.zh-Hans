@@ -2,9 +2,9 @@
 title: using-the-项目-overview-tab
 description: 使用项目概述选项卡
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-选项卡下有三个 [!UICONTROL Program Overview] 部分： [!UICONTROL **详细信息**][!UICONTROL **、**]&#x200B;计划 [!UICONTROL **和报**]&#x200B;告。 下面是每一个。
+选项卡下有三个 [!UICONTROL Program Overview] 部分： **[!UICONTROL Details]**、 **[!UICONTROL Schedule]**&#x200B;和 **[!UICONTROL Reports]**。 下面是每一个。
 
 ## 详细信息
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![图像1](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-页面底部有两个部分： [!UICONTROL **项目统计**][!UICONTROL **和使用者**]。 [!UICONTROL **项目统计**] ”可显示有关项目性能的关键指标 [!UICONTROL **,“使用者**] ”是一种轻松的方法，可以查看项目在Marketo中的使用情况。
+页面底部有两个部分： **[!UICONTROL Program Stats]** 和 **[!UICONTROL Used By]**。 **[!UICONTROL Program Stats]** 向您展示有关项目性能的关 **[!UICONTROL Used By]** 键指标，并且是一种轻松的方法，用于了解项目在Marketo中的使用情况。
 
 ![图像2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
