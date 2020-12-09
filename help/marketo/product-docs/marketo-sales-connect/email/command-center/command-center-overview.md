@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: 命令中心概述- Marketo Docs —— 产品文档
 title: 命令中心概述
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ ht-degree: 0%
 
 奖励：如果保存高级搜索，则在收件人视图或单击电子邮件后，该搜索将作为动态列表工作，并添加符合参与标准的电子邮件。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [任务](http://docs.marketo.com/x/qwDb)
 >* [高级搜索概述](http://docs.marketo.com/x/KQM6Ag)
