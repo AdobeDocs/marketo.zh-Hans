@@ -3,9 +3,9 @@ unique-page-id: 2360008
 description: 在Web报告- Marketo Docs —— 产品文档中显示人员或匿名访客
 title: 在Web报告中显示人物或匿名访客
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 在Web报告中显示人物或匿名访客 {#display-people-or-anonymous-visitors-in-web-reports}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[将Munchkin跟踪代码添加到您的网站](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
