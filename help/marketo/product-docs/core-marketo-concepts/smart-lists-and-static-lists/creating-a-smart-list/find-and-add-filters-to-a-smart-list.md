@@ -3,9 +3,9 @@ unique-page-id: 557273
 description: 查找过滤器并将其添加到智能列表- Marketo Docs —— 产品文档
 title: 查找过滤器并将其添加到智能列表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
 完美！ 让我们来定义这些过滤器。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建智能列表](create-a-smart-list.md)
 >* [定义智能列表过滤器](define-smart-list-filters.md)
