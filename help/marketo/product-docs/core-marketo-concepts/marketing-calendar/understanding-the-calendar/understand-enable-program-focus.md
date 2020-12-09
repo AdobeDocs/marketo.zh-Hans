@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: 了解／启用项目重点- Marketo Docs —— 产品文档
 title: 了解／启用项目重点
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
 
 太棒了！ 现在，继续学习与参赛作品进行交互。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [直接在营销日历中创建条目](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
 >* [直接在营销日历中编辑条目](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
