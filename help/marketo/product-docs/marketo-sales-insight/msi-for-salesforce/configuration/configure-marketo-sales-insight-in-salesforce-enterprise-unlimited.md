@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce Enterprise/Unlimited - Marketo Docs —— 产品文档中配置Marketo Sales Insight
 title: 在Salesforce Enterprise中配置Marketo Sales Insight/Unlimited
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 以下是在Salesforce Enterprise/Unlimited Editions中配置Marketo Sales Insight时需要执行的步骤。 我们开始吧。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [在Salesforce Enterprise/Unlimited Edition中配置Marketo字段同步](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
 >* [在SalesforceAppExchange中安装Marketo Sales Insight包](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
