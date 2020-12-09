@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: 将登陆页发布到Facebook - Marketo Docs —— 产品文档
 title: 将登陆页发布到Facebook
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >SMB Spark、Standard和Select。 具有单独许可功能的企业。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >在发布到Facebook之前，您的页面必须至少有2000个点赞项。
 
