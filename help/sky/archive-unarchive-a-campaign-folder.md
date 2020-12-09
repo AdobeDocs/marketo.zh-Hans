@@ -2,9 +2,9 @@
 title: archive-unarchive-a-活动文件夹
 description: '存档／取消存档活动文件夹 '
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## 转换为存档文件夹
 
-右键单击任意文件夹，然后选择“转 [!UICONTROL **换到存档文件夹”**]。
+右键单击任意文件夹，然后选择 **[!UICONTROL Convert To Archive Folder]**。
 
 ![图像1](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
