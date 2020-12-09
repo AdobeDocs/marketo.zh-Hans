@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: 冠军／挑战者——批准您的电子邮件测试——营销文档——产品文档
 title: 冠军／挑战者——批准电子邮件测试
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 设置电子邮件测试以批准该测试的最后一步。 这是方法。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [冠军／挑战者：配置报告警报](champion-challenger-configure-report-alerts.md)
 
