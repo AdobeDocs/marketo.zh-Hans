@@ -3,9 +3,9 @@ unique-page-id: 2953338
 description: 从Microsoft Dynamics - Marketo Docs —— 产品文档发送营销人员销售电子邮件
 title: 从Microsoft Dynamics发送营销人员电子邮件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ ht-degree: 0%
 
 干得好！ 现在您了解如何从Microsoft Dynamics中直接发送Market以跟踪电子邮件。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [从Microsoft Dynamics向营销活动添加潜在客户／联系人](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
 
