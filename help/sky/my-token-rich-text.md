@@ -2,9 +2,9 @@
 title: my-token-rich-text
 description: 我的令牌富文本
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-1.png)
 
-1. 输入新令牌的名称，然后在编辑器中添加所需的任何文本。 单击 [!UICONTROL **保存**]。
+1. 输入新令牌的名称，然后在编辑器中添加所需的任何文本。 单击 **[!UICONTROL Save]**。
 
    ![图像2](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-2.png)
