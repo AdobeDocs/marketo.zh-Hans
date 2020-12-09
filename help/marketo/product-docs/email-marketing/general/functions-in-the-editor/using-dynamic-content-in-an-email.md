@@ -3,9 +3,9 @@ unique-page-id: 2950617
 description: 在电子邮件中使用动态内容- Marketo Docs —— 产品文档
 title: 在电子邮件中使用动态内容
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 在电子邮件中使用动态内容 {#using-dynamic-content-in-an-email}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建分段](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
