@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: 为Professional Edition客户安装Salesforce自定义- Marketo文档——产品文档
 title: 为Professional Edition客户安装Salesforce自定义
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用Salesforce Professional Edition的客户必须按照以下步骤安装自定义。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* 销售连接管理员需要连接其Salesforce和销售连接帐户。
 >* 使用的Salesforce实例需要有空间来安装十三个自定义活动字段。
