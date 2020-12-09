@@ -2,9 +2,9 @@
 title: 模型健康与数据有效性
 description: 模型健康与数据有效性
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 模型的性能取决于输入数据的质量和完整性。 下面介绍如何评估模型健康。
 
-导航至Marketo [!UICONTROL **Classic管理区**] 域 [!UICONTROL **的“预测受众**] ”下 [!UICONTROL **的“模**] 型和数据健康状况”部分。 在这里，您将看到您的所有模型及其状态。
+导航到Marketo **[!UICONTROL Models and Data Health]** Classic区 **[!UICONTROL Predictive Audiences]** 域 **[!UICONTROL Admin]** 下的部分。 在这里，您将看到您的所有模型及其状态。
 
 ![图像1](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
