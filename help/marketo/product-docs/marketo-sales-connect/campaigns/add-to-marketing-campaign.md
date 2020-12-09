@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: 添加到营销活动- Marketo Docs —— 产品文档
 title: 添加到营销活动
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 添加到营销活动 {#add-to-marketing-campaign}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[使活动对销售用户可见](http://docs.marketo.com/x/NwDh)
 
