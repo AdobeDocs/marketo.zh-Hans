@@ -3,9 +3,9 @@ unique-page-id: 10096677
 description: 测试ON24事件集成- Marketo Docs —— 产品文档
 title: 测试ON24事件集成
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 * Marketo每晚从ON24检索与会者数据。
 * 在Marketo和ON24之间同步与会者数据后，Marketo会将会员资格状态更新为“已出席”、“已出席点播”或“无显示”。 在事件的“摘 **要** ”选项卡中，事件状态将更新为 **“事件完成”**。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [示例ON24事件集成](example-on24-event-integration.md)
 >* [了解ON24适配器的营销事件](understanding-marketo-on24-adapter-events.md)
