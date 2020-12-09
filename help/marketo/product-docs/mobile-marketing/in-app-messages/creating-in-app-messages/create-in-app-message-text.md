@@ -3,9 +3,9 @@ unique-page-id: 10100642
 description: 创建应用程序内消息文本- Marketo Docs —— 产品文档
 title: 创建应用程序内消息文本
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ ht-degree: 0%
 
 你是金子。 接下来，您需 [要设置应用程序内消息按钮](set-up-the-in-app-message-button.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解应用程序内消息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [为应用程序内消息选择布局](choose-a-layout-for-your-in-app-message.md)
