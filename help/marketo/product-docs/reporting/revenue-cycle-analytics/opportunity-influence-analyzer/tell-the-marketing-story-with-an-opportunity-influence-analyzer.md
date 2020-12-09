@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: 使用机会影响分析器- Marketo Docs —— 产品文档讲述营销案例
 title: 用机会影响分析器讲述营销故事
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用Opportunity Influction Analyzer说明营销在重要机会中的作用。 展示营销如何影响机会，从初次接触到机会的创造和赢取，等等。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建机会影响分析器](create-an-opportunity-influence-analyzer.md)
 
