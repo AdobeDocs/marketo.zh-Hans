@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: 验证推送配置- Marketo Docs —— 产品文档
 title: 验证推送配置
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 验证推送配置 {#verify-push-configuration}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >您的移动开发人员必须已将Marketo的SDK代码添加到您的移动应用程序。
 
