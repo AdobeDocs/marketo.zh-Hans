@@ -2,9 +2,9 @@
 title: delete-a-项目
 description: 删除项目
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 下面介绍如何删除项目。
 
-1. 找到要删除的项目，然后从下 [!UICONTROL **拉**][!UICONTROL Program Actions] 菜单中选择删除。
+1. 找到要删除的项目，然后 **[!UICONTROL Delete]** 从下 [!UICONTROL Program Actions] 拉菜单中选择。
 
    ![图像1](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. 查看删除项目的副作用，然后选中删 [!UICONTROL **除上面列出的所有项目**]。 单击 [!UICONTROL **提交**]。
+1. 检查删除项目的副作用，然后检查 **[!UICONTROL Delete all the items listed above]**。 单击 **[!UICONTROL Submit]**。
 
    ![图像2](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
