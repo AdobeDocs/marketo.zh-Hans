@@ -3,9 +3,9 @@ unique-page-id: 4719289
 description: 启用／禁用活动同步- Marketo Docs —— 产品文档
 title: 启用／禁用活动同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 给你。 只需给同步一段时间，即可从Salesforce提取数据，并且您可以开始使用。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [SFDC同步：活动同步](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [设置默认潜在客户姓氏和公司值](set-default-person-last-name-and-company-name.md)
