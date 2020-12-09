@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO —— 搜索引擎的选取地区／国家／地区——市场文档——产品文档
 title: SEO —— 搜索引擎的选取区域／国家／地区
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ SEO管理员将能够选择您要获取关键字排名信息的搜索引擎的�
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解仪表板:SEO快照](understanding-the-seo-dashboard-seo-snapshot.md)
 >* [了解仪表板:徐Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
