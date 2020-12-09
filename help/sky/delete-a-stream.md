@@ -2,9 +2,9 @@
 title: delete-a-stream
 description: 删除流
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. 单击“流 [!UICONTROL **”**] 选项卡。
+1. 单击选 **[!UICONTROL Streams]** 项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >删除流将导致丢失
    >流中的内容。
 
-1. 单击齿轮图标，然后选择“ [!UICONTROL **删除**]”。
+1. 单击齿轮图标，然后选择 **[!UICONTROL Delete]**。
 
    ![图3](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
