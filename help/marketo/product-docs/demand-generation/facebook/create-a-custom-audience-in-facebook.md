@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: 在Facebook - Marketo Docs —— 产品文档中创建自定义受众
 title: 在Facebook中创建自定义受众
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 在Facebook中创建自定义受众 {#create-a-custom-audience-in-facebook}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [在“管理员”部分将Facebook自定义受众添](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 加为LaunchPoint服务。
 >* [在您的Facebook帐户中接受Facebook的](https://www.facebook.com/ads/manage/customaudiences/tos.php) “自定义受众条款”。
