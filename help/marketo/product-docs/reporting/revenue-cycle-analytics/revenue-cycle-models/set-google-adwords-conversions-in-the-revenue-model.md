@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: 在收入模型- Marketo Docs —— 产品文档中设置Google AdWords转换
 title: 在收入模型中设置Google AdWords转换
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ ht-degree: 0%
 
 如果您使用Stage Action，则可以从Marketo创建新的AdWords脱机转换。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [将Google AdWords添加为LaunchPoint服务](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
