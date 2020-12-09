@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 项目成员自定义字段- Marketo Docs —— 产品文档
 title: 项目成员自定义字段
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,7 @@ ht-degree: 0%
 * 支持通过列表 [](http://docs.marketo.com/x/egAk)API [](http://developers.marketo.com/)导入和导出。
 * 合并两个人时，将使用入选方的项目会员自定义字段数据。 但如果赢家没有，那么输家的价值将被利用。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[在Marketo中创建自定义字段](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
