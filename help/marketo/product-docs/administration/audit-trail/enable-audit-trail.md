@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: 启用审核跟踪- Marketo Docs —— 产品文档
 title: 启用审核跟踪
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 
 ## 为用户分配审核跟踪角色 {#assign-audit-trail-role-to-a-user}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[创建](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) 或启 [用现有](#Enable) 角色，为其授予“审核跟踪”权限。
 
