@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: 添加Marketo自定义对象字段- Marketo文档——产品文档
 title: 添加Marketto自定义对象字段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
    >
    >如果要构建一对多结构，您需要向自定义对象添加一个“链接”字段。 对于多对多结构，您不需要自定义对象中的链接字段，但必须在中间对象中添加两个链接字段。 有关 [自定义对象类型的详细信息，请参](add-marketo-custom-object-link-fields.md) 阅添加Marketto自定义对象链接字段 [，以创建链接字段，](understanding-marketo-custom-objects.md) 以及了解Marketto自定义对象。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [添加Marketto自定义对象链接字段](add-marketo-custom-object-link-fields.md)
 >* [编辑和删除Marketo自定义对象](edit-and-delete-a-marketo-custom-object.md)
