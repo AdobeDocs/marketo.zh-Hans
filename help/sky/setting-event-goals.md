@@ -2,9 +2,9 @@
 title: 设置事件目标
 description: 如何设置事件目标
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![图像2](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. 输入目标， [!UICONTROL Registered] 然 [!UICONTROL Attended]后单击创 [!UICONTROL **建**] ([!UICONTROL Description] 并 [!UICONTROL Labels] 为可选)。
+1. 输入目标， [!UICONTROL Registered] 然 [!UICONTROL Attended]后单击 **[!UICONTROL Create]** ([!UICONTROL Description] 并 [!UICONTROL Labels] 为可选)。
 
    ![图像1](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
