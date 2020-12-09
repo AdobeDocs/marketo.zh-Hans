@@ -2,9 +2,9 @@
 title: 计划-a-batch-smart-活动-to-run-later
 description: 计划批处理智能活动以稍后运行
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. 转到“计划 [!UICONTROL **”选**] 项卡并单 [!UICONTROL **击“添加运行”**]。
+1. 转到选项卡 **[!UICONTROL Schedule]** 并单击 **[!UICONTROL Add Run]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. 选 [!UICONTROL **择设置运行日期／时间**]，然后单击日历图标并选择您希望智能活动运行的日期。
+1. 选 **[!UICONTROL Set Run Date/Time]**&#x200B;择，然后单击日历图标，并选择要运行智能活动的日期。
 
    ![图3](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -36,6 +36,6 @@ ht-degree: 0%
 
    ![图像4](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. 单击 [!UICONTROL **确认**]。
+1. 单击 **[!UICONTROL Confirm]**。
 
    ![图像5](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-5.png)
