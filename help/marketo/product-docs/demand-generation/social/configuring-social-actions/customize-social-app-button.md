@@ -3,9 +3,9 @@ unique-page-id: 2359759
 description: 自定义社交应用程序按钮- Marketo Docs —— 产品文档
 title: 自定义社交应用程序按钮
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 >
 >在引用优惠中，您还可以自定义“跟 **踪进度** ”按钮。 转至“应 **用程序设** 置” **>“跟踪进度样式** ”，然后按照上述步骤操作。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >对于社交按钮， [请配置其打开时间](configure-when-social-button-opens.md)。 对于引用优惠, [指定优惠目标](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)。
 
