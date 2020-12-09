@@ -3,9 +3,9 @@ unique-page-id: 4719297
 description: 启用／禁用自定义对象同步- Marketo文档——产品文档
 title: 启用／禁用自定义对象同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 
    太棒了！ 您现在可以在智能活动和智能列表中使用此自定义对象的数据。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [添加／删除自定义对象字段作为智能列表/触发器约束](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
