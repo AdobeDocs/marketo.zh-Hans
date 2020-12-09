@@ -2,9 +2,9 @@
 title: delete-a-smart-活动
 description: 删除智能活动
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-1.png)
 
-1. 在下拉 [!UICONTROL Campaign Actions] 菜单中，选择 [!UICONTROL **删除**]。
+1. 在下 [!UICONTROL Campaign Actions] 拉选择下 **[!UICONTROL Delete]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-2.png)
 
@@ -32,6 +32,6 @@ ht-degree: 0%
    >
    >要取消处理活动智能活动而不删除它，请了解如何 [中止智能活动](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)。
 
-1. 单击 [!UICONTROL **确认**]。
+1. 单击 **[!UICONTROL Confirm]**。
 
    ![图3](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-3.png)
