@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: 克隆Web活动- Marketo Docs —— 产品文档
 title: 克隆Web活动
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
    >
    >Web活动中的所有内容都被复制到克隆活动中，除拆分测试外，因此，如果要针对其他人测试克隆活动，请不要忘记将拆分测试组添加到克隆中。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在Zone Web中新建活动](create-a-new-in-zone-web-campaign.md)
 >* [创建新的构件Web活动](create-a-new-widget-web-campaign.md)
