@@ -3,9 +3,9 @@ unique-page-id: 2949182
 description: SEO —— 了解关键字- Marketo Docs —— 产品文档
 title: SEO —— 了解关键字
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ ht-degree: 0%
 
 太好了！ 现在您了解了关键字部分，让我们了解页面和入站链接。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解页面](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
 >* [了解入站链接](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
