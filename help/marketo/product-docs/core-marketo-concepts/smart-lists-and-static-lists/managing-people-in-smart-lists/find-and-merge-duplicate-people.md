@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: 查找并合并重复-营销人员文档——产品文档
 title: 查找并合并重复
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Market在新人进入系统时自动解除重复。 但是，您的CRM最初可�
 >
 >Marketo不会针对Salesforce或Microsoft Dynamics同步自动消除重复数据，也不会在您手动输入人员时自动消除重复数据。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >查找和合并重复将涉及使 [用内置／系统智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)。
 
