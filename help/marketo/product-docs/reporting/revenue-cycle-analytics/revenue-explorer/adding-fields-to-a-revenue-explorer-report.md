@@ -3,9 +3,9 @@ unique-page-id: 7504383
 description: 将字段添加到收入浏览器报表- Marketo Docs —— 产品文档
 title: 将字段添加到收入浏览器报表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [删除收入浏览器报表中的字段](deleting-a-field-in-a-revenue-explorer-report.md)
 
