@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: 为代码片段启用无草稿- Marketo文档——产品文档
 title: 为片段启用无草稿
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 >
 >要禁用“无草稿”，请按照上面的步骤1-4操作，清除“无草稿”复选框，然后单击“ **保存**”。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[批准非草稿代码片段](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
 
