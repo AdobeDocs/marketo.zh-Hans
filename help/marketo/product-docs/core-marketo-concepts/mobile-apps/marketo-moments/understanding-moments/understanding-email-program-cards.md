@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: 了解电子邮件项目卡——营销文档——产品文档
 title: 了解电子邮件项目卡
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -112,9 +112,7 @@ ht-degree: 0%
 
 这就是查看电子邮件活动的独家新闻。 现在，你是专业人士！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [理解营销时刻](understanding-marketo-moments.md)
 >* [了解事件卡](understanding-event-cards.md)
