@@ -2,9 +2,9 @@
 title: my-token-email-script
 description: 我的令牌电子邮件脚本
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 对于高级开发人员，您可 [以通过设置](http://velocity.apache.org/engine/1.7/user-guide.html) “电子邮件脚本”令牌，在电子邮件中使用Velocity脚本。 下面介绍如何实现。
 
-1. 在项目 [!UICONTROL My Tokens] 或文件夹的选项卡中，将电子邮件 [!UICONTROL **脚本令牌**] 拖到画布 [!UICONTROL Local Tokens] 上。
+1. 在项目 [!UICONTROL My Tokens] 或文件夹的选项卡中，将标记 **[!UICONTROL Email Script]** 拖动到画布 [!UICONTROL Local Tokens] 上。
 
    ![图像1](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
@@ -39,6 +39,6 @@ ht-degree: 0%
    * [速度参考指南](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0文档](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. 脚本完成后，单击“保 [!UICONTROL **存”**]。
+1. 脚本完成后，单击 **[!UICONTROL Save]**。
 
    ![图像4](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-4.png)
