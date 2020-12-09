@@ -3,9 +3,9 @@ unique-page-id: 2359512
 description: 在智能列表中使用细分过滤器- Marketo Docs —— 产品文档
 title: 在智能过滤器中使用细分列表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 在智能过滤器中使用细分列表 {#use-segment-filters-in-a-smart-list}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [创建分段](create-a-segmentation.md)
