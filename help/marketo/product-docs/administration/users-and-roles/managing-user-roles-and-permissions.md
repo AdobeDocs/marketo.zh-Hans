@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: 管理用户角色和权限- Marketo Docs —— 产品文档
 title: 管理用户角色和权限
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -115,9 +115,7 @@ Marketo提供多个内置角色，具有不同级别的访问权限：
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >在Marketo入门中进一步了解如何创建更多用户并 [为其分配角色](../../../getting-started.md)。
 
