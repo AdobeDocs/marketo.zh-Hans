@@ -3,9 +3,9 @@ unique-page-id: 7513141
 description: 导航分析主页- Marketo Docs —— 产品文档
 title: 导航分析主页
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 
    太好了！ 您知道如何在Analytics主页中导航！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[了解我的报告和组报告](understanding-my-reports-and-group-reports.md)
 
