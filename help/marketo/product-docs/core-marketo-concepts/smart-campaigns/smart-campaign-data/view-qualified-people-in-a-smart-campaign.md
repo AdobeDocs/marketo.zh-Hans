@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: 视图智能活动中的合格人员- Marketo Docs —— 产品文档
 title: 视图智能活动中的合格人员
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
 
 真贴心！ 您可以使用此列表检查哪些人在运行智能活动之前可能会流程。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [视图智能活动成员](view-smart-campaign-members.md)
 >* [视图在智能活动中被阻止](view-blocked-people-in-a-smart-campaign.md)
