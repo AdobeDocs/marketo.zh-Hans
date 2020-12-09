@@ -3,9 +3,9 @@ unique-page-id: 7504437
 description: 向演示文稿添加背景图像- Marketo Docs —— 产品文档
 title: 向演示文稿添加背景图像
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 通过选择背景图像自定义演示文稿。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建演示文稿](create-a-presentation.md)
 
