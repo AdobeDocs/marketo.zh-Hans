@@ -2,9 +2,9 @@
 title: define-a-smart-列表-for-a-batch-活动
 description: 为批列表定义智能活动
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 智能列表是整个市场中定义“谁”（哪些人）的机制，包括报告、列表或智能活动。 下面介绍如何为批处理列表定义智能活动。
 
-1. 选择智能活动，然后单击 [!UICONTROL **智能列表**]。
+1. 选择智能活动，然后单击 **[!UICONTROL Smart List]**。
 
    ![图像1](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >
    >您可以通过添加触发器使智能活动在实时事件的基础上一次在一个人上运行，这会将智能活动置于触发器模式。
 
-1. 单击下拉列表并为您选择的筛选器选 [!UICONTROL **择筛选**][!UICONTROL **运算符(**]&#x200B;如is、is not等)。
+1. 单击下拉框并选择过滤器运算符(例如， **[!UICONTROL is]**、 **[!UICONTROL is not]**&#x200B;等)。
 
    ![图3](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
