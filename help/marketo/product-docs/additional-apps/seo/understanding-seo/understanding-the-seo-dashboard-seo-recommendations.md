@@ -3,9 +3,9 @@ unique-page-id: 2949180
 description: 了解SEO仪表板-SEORecommendations- Marketo Docs —— 产品文档
 title: 了解SEO仪表板-SEORecommendations
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 就这样！ 深入此处。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [页面详细信息向下钻取](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
 
