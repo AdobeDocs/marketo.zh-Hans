@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: 使用Web个性化数据重新定位- Marketo Docs —— 产品文档
 title: 使用Web个性化数据重新定位
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ Web个性化会将以下数据发送到再营销平台，以创建受众并运�
 
    您现在已完成Web个性化中的重新定位设置、登录重新定位平台并基于此数据创建受众并设置重新定位广告活动。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [Google中的个性化再营销](personalized-remarketing-in-google.md)
 >* [Facebook中的个性化再营销](personalized-remarketing-in-facebook.md)
