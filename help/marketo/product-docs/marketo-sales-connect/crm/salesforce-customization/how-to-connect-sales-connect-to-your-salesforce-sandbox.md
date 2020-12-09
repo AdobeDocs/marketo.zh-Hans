@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: 如何将Sales Connect连接到您的Salesforce沙箱- Marketo文档——产品文档
 title: 如何将Sales Connect连接到Salesforce沙箱
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 如何将Sales Connect连接到Salesforce沙箱 {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >在建立与沙箱的连接时，您的Sales Connect帐户无法已连接到Salesforce。 如果是， [请确保在执行本文](http://docs.marketo.com/x/FoDq) 中的步骤之前断开连接。
 
