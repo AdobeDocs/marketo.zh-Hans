@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: 如何在Salesforce沙箱中安装自定义- Marketo Docs —— 产品文档
 title: 如何在Salesforce沙箱中安装自定义
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[将销售连接连接到您的Salesforce沙箱](http://docs.marketo.com/x/DYDq)
 
