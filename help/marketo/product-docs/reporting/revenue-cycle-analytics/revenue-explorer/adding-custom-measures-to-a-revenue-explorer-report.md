@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: 将自定义度量添加到收入浏览器报表- Marketo Docs —— 产品文档
 title: 将自定义度量添加到收入浏览器报表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 在以下示例中，您将为软弹回次数创建一个计算度量，该度量采用报表中已有的度量并使用基本数学创建新度量。 您也可以创建其他类型的度量。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >您的报表中至少需要一个度量，但它不一定是用于定义自定义度量的度量之一。
 
