@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: 了解Opportunity Imflance Analyzer - Marketo Docs —— 产品文档
 title: 了解机会影响分析器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketo使用CRM ID唯一标识帐户。
 >
 >每次达成交易，第二天在此分析器中找到它。 与销售代表分享。 他们将意识到您所做的所有努力——此外，您还可以问，为什么某些人“看上去”很有影响力，但在CRM中没有分配角色。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [用机会影响分析器讲述营销故事](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [创建机会影响分析器](create-an-opportunity-influence-analyzer.md)
