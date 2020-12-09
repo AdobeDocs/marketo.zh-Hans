@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: 发送跟踪的电子邮件——营销人员文档——产品文档
 title: 发送跟踪的电子邮件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用Marketo Sales Connect发送电子邮件时，将跟踪视图（打开电子邮件）和单击（单击链接）。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >在发送跟踪的电子邮件之前，您需要验证身份并设置电子邮件投放渠道。
 >
