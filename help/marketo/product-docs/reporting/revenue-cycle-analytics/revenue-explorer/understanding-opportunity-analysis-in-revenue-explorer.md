@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: 了解Revenue Explorer - Marketo Docs —— 产品文档中的Opportunity分析
 title: 了解Revenue Explorer中的Opportunity分析
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ ht-degree: 0%
    | 机会金额（未结） | 未结机会的总金额。 如果多个潜在客户与一个机会关联，则分配金额将基于潜在客户得分。 |
    | 机会金额（韩元） | 赢得的机会的总金额。 如果多个潜在客户与一个机会关联，则分配金额将基于潜在客户得分。 |
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建收入浏览器报表](create-a-revenue-explorer-report.md)
 >* [将字段添加到收入浏览器报表](adding-fields-to-a-revenue-explorer-report.md)
