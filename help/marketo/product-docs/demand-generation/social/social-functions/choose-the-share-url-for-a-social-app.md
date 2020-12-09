@@ -3,9 +3,9 @@ unique-page-id: 2359811
 description: 选择社交应用程序- Marketo Docs —— 产品文档的共享URL
 title: 选择社交应用程序的共享URL
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
    >    * **外部URL**:非市场登陆页。
 
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [将隐私政策添加到社交应用程序](add-your-privacy-policy-to-a-social-app.md)
 
