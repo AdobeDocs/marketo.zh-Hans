@@ -3,9 +3,9 @@ unique-page-id: 2950530
 description: 配置社交注册／共享流- Marketo Docs —— 产品文档
 title: 配置社交注册／共享流
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,7 @@ ht-degree: 0%
 >
 >如果上传图像，则在关闭并重新打开社交应用程序编辑器之前，您不会在此处看到它。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >然后，单击“完 **成”>“批准并关闭** ”，将您的社交应用程序放入登陆页。 您还可以配 [置人员](configure-person-capture-for-a-social-app.md) 捕获 [或重新共享提示](configure-re-share-email-and-prompt-for-a-social-app.md)。
 
