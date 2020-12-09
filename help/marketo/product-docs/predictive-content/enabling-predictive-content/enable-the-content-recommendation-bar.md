@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: 启用内容推荐栏- Marketo Docs —— 产品文档
 title: 启用内容推荐栏
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 内容推荐引擎使用预测分析和机器学习算法向每个Web访客提供相关内容。 推荐引擎可预测哪些内容在每个访客下效果最佳。 引擎的内容在Recommendations页面下进行监控，帮助您优化内容ROI。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >在启用预测性内容之前，您必须：
 >
