@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: 将目标URL添加到Web活动- Marketo Docs —— 产品文档
 title: 将目标URL添加到Web活动
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,7 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
->[!NOTE]
-**相关文章**
+>[!MORELIKETHIS]
 * [创建新对话框Web活动](create-a-new-dialog-web-campaign.md)
 * [在Zone Web中新建活动](create-a-new-in-zone-web-campaign.md)
 * [创建新的构件Web活动](create-a-new-widget-web-campaign.md)
