@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: 自定义演示文稿- Marketo Docs —— 产品文档
 title: 自定义演示文稿
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建自定义目标](create-a-custom-goal.md) 或智 [能列表目标](create-a-smart-list-goal.md)
    >
