@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: 计划您的电子邮件项目-营销文档——产品文档
 title: 计划电子邮件项目
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 计划电子邮件项目 {#schedule-your-email-program}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [使用智能受众定义列表](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) , [或通过导入列表定义受众](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
