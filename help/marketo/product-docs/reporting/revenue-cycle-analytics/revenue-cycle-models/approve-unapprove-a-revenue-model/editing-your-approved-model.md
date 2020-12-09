@@ -3,9 +3,9 @@ unique-page-id: 5472402
 description: 编辑您的已批准模型——营销文档——产品文档
 title: 编辑您的已批准模型
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 一次只能有一个经过批准的模型。 如果要批准某个模型，但已经批准了一个模型，您首先需要取消批准当前模型。 如果可能，请尝试编辑模型，而不是创建新模型。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[创建新的收入模型](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
