@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: 步骤1（共3步）-将Marketo字段添加到Salesforce(Enterprise/Unlimited)- Marketo文档——产品文档
 title: 第1步（共3步）-将Marketo字段添加到Salesforce(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 第1步，共3步：将Marketo字段添加到Salesforce(Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >您必须具有访问Salesforce API的权限，才能在Marketo和Salesforce之间同步。
 
