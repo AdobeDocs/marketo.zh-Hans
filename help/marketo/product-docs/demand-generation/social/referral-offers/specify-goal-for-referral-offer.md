@@ -3,9 +3,9 @@ unique-page-id: 2359791
 description: 指定推荐优惠的目标- Marketo Docs —— 产品文档
 title: 指定引用优惠的目标
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 >
 >智能活动中提供了新的过滤器和触发器，可用于监控社交活动。 请参 [阅将触发器和过滤器用于社交活动](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >接下来，您可 [以选择要从您的推荐优惠发送的注册](send-referral-offer-fulfillment-email.md) 和实施电子邮件。
 
