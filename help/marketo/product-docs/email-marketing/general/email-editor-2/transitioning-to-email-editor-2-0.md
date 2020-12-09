@@ -3,9 +3,9 @@ unique-page-id: 11373011
 description: 转换到电子邮件编辑器2.0 - Marketo文档——产品文档
 title: 转换到电子邮件编辑器2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ ht-degree: 0%
 
 * 在少数 **情况下** ,v1.0电子邮件无法在电子邮件编辑器2.0中打开。如果出现这种情况，请放弃草稿并与营销人员支持联系。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [电子邮件编辑器2.0概述](email-editor-v2-0-overview.md)
 >* [电子邮件模板语法](email-template-syntax.md)
