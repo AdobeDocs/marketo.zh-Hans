@@ -3,9 +3,9 @@ unique-page-id: 2359559
 description: 冠军／挑战者——发件人地址- Marketo文档——产品文档
 title: 冠军／挑战者——发件人地址
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 想不费吹灰之力尝试不同的地址吗？ 这是方法。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [添加电子邮件冠军／挑战者](add-an-email-champion-challenger.md)
 
