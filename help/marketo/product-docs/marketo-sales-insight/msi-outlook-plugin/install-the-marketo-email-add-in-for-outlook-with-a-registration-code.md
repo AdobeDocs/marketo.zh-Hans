@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 使用注册代码- Marketo Docs —— 产品文档安装Outlook的Marketo Email Add-in
 title: 使用注册代码安装Outlook的Marketo Email Add-in
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 如果您尚未收到邀请电子邮件，请让您的Marketo管理员邀请您。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* 您必须获 [得Marketo Email Add-in许可](issue-a-marketo-email-add-in-license.md)。
 
