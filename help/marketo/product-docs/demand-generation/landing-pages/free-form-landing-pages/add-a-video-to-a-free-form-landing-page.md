@@ -3,9 +3,9 @@ unique-page-id: 2359722
 description: 将视频添加到自由格式登陆页- Marketo Docs —— 产品文档
 title: 将视频添加到自由格式登陆页
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 恭喜！ 您已将视频共享添加到自由格式登陆页。 批准登陆页并实时共享视频。 您还可以 [将登陆页发布到Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) , [或将视频共享放在您的网站上](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >已完成，但您可以根据需要更改视频共享的设置。 开始 [自定义共享流](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) （共享提示打开的时间和位置）。
 
