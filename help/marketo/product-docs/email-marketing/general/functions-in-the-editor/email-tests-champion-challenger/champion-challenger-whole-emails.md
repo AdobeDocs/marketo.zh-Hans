@@ -3,9 +3,9 @@ unique-page-id: 2359555
 description: 冠军／挑战者——完整电子邮件——营销文档——产品文档
 title: 冠军／挑战者——完整电子邮件
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 测试整个电子邮件。 测试结束后，发出最佳执行者。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [添加电子邮件冠军／挑战者](add-an-email-champion-challenger.md)
 
