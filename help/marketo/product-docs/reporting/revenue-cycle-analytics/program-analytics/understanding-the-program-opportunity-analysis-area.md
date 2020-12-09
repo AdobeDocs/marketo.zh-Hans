@@ -3,9 +3,9 @@ unique-page-id: 2951877
 description: 了解项目机会分析区- Marketo Docs —— 产品文档
 title: 了解项目机会分析区
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -188,8 +188,6 @@ Marketo在不计多次的情况下为项目提供适当的信用机会。 因此
 
 **为项目提供任何类型归因的所有Opportunity。 机会可能受到一个或多个线索以及一个或多个项目的影响。*
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[创建收入浏览器报表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
