@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: 管理社交用户档案数据——营销文档——产品文档
 title: 管理社交用户档案数据
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ ht-degree: 0%
 >
 >社交表单填写功能仅在 *人员* 在表单中输入时捕获电子邮件地址。 如果需要电子邮件地址，您应 [将其作为表单中的必填字段](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >要从表单中捕获此信息，请启用社 [交表单填写](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)。
 
