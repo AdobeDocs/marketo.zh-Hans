@@ -2,9 +2,9 @@
 title: 理解批触发智能活动
 description: 了解批处理和触发智能活动
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ![图像1](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-单击 [!UICONTROL **计划**] 选项卡将确认智能活动设置为“批处理”。
+单击选 **[!UICONTROL Schedule]** 项卡将确认智能活动设置为“批”。
 
 ![图像2](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ![图3](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-单击 [!UICONTROL **计划**] 选项卡将确认智能活动设置为“触发器”。
+单击选 **[!UICONTROL Schedule]** 项卡将确认智能活动设置为“触发器”。
 
 ![图像4](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
