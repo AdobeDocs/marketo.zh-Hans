@@ -3,9 +3,9 @@ unique-page-id: 10093690
 description: 编辑和删除Marketo自定义对象- Marketo文档——产品文档
 title: 编辑和删除Marketo自定义对象
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ ht-degree: 0%
    >
    >如果自定义对象链接到中间对象，则必须先删除中间对象。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[批准自定义对象](approve-a-custom-object.md)
 
