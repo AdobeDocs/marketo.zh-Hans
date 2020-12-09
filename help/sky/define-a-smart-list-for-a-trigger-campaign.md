@@ -2,9 +2,9 @@
 title: define-a-smart-列表-for-a-trigger-活动
 description: 为触发器列表定义智能活动
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 通过添加触发器，根据实时活动，一次在一个人上智能运行事件。
 
-1. 选择智能活动，然后单击 [!UICONTROL **智能列表**]。
+1. 选择智能活动，然后单击 **[!UICONTROL Smart List]**。
 
    ![图像1](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >具有触发器的智能活动在触发器模式下运行。 它根据触发的事件和任何其他过滤器，一次只运行一个人。
 
-1. 单击下拉框并选择一个运算符( [!UICONTROL **例如**][!UICONTROL **is**]、is not等)。 你选择的触发器。
+1. 单击下拉框并选择运算符(例如， **[!UICONTROL is]**、 **[!UICONTROL is not]**&#x200B;等) 你选择的触发器。
 
    ![图3](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
