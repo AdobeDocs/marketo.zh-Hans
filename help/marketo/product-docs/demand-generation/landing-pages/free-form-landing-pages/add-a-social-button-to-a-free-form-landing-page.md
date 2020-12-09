@@ -3,9 +3,9 @@ unique-page-id: 2359718
 description: 将社交按钮添加到自由格式登陆页- Marketo Docs —— 产品文档
 title: 将社交按钮添加到自由表单登陆页
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -55,8 +55,6 @@ ht-degree: 0%
 
 恭喜！ 您已向登陆页添加社交按钮。 请务必批准登陆页。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >您已完成，但可以根据需要更改社交按钮的设置。 开始 [自定义按钮样式](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) , [或编辑它显示的共享消息](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 。
