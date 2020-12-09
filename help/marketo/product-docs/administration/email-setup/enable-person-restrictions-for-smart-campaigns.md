@@ -3,9 +3,9 @@ unique-page-id: 2360243
 description: 为智能活动启用人员限制- Marketo Docs —— 产品文档
 title: 为智能活动启用人员限制
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Market中有一项功能可限制***最大****有资格获得智能活动的人�
 
 对了！ 你刚打开安全开关。 好主意，对吧？
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在智能活动中覆盖人员限制](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
