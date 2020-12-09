@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI功能概述- Marketo Docs —— 产品文档
 title: MSI功能概述
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Salesforce经典：添加到“观察列表”、“添加到营销人员”和�
 * MSI配置：包括配置Marketo选项卡和MSI Visualforce面板
 * 重置Marketto Sales Insight:包括清除所有配置的功能
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[Salesforce中的“Marketo Sales Insight配置”选项卡](http://docs.marketo.com/x/UoCMAg)
 
