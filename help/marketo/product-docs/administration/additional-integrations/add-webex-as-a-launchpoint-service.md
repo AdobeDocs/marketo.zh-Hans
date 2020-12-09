@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: 将WebEx添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将WebEx添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
    ![](assets/webex.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >了解如何 [使用WebEx创建事件](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)。
 
