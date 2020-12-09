@@ -3,9 +3,9 @@ unique-page-id: 1146901
 description: 使用高级智能列表规则逻辑- Marketo Docs —— 产品文档
 title: 使用高级智能列表规则逻辑
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 通过将智能列表规则逻辑应用于智能列表中的多个过滤器，您可以找到所需的准确人员。 这是方法。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [查找过滤器并将其添加到智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 >* [定义智能列表过滤器](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
