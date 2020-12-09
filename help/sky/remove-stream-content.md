@@ -2,9 +2,9 @@
 title: remove-stream-content
 description: 删除流内容
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. 单击“流 [!UICONTROL **”**] 选项卡。
+1. 单击选 **[!UICONTROL Streams]** 项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![图3](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-3.png)
 
-1. 选择 [!UICONTROL **删除**]。
+1. 选择 **[!UICONTROL Remove]**。
 
    ![图像4](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-4.png)
 
