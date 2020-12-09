@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: 将Facebook自定义受众添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将Facebook自定义受众添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
    >
    >哦，在您离开之前，请务必在 [您的Facebook帐户中接受Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) 的自定义受众条款！ 否则，受众更新将失败。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在Facebook中创建自定义受众](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
