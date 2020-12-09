@@ -2,9 +2,9 @@
 title: 了解目标跟踪和预测注册
 description: 了解目标跟踪和预计注册
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '969'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 ## 目标跟踪和预计注册
 
-1. 您可以在事件项目的“报告” [!UICONTROL **选项卡**] ，找到目标跟踪详细信息。 在这一具体例子中，到目前为止有150名注册成员，而目标是200(75%)。
+1. 您可以在事件项目的选项卡 **[!UICONTROL Reports]** 中找到目标跟踪详细信息。 在这一具体例子中，到目前为止有150名注册成员，而目标是200(75%)。
 
    ![图像1](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-您还将看到您的预 [!UICONTROL **计注册**] 。 将指针悬停在信息图标上，可按似然区段查看此数字的细分。
+您还会看到您的注 **[!UICONTROL Projected]** 册。 将指针悬停在信息图标上，可按似然区段查看此数字的细分。
 
 ![图像2](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 人员级预测
 
-单击“[!UICONTROL **成员**] ”选项卡以视图您的所有项目成员。 将指针悬停在“注 [!UICONTROL **册可能性**] ”或“ [!UICONTROL **出席可能性**] ”栏上，可查看确切百分比和分类。 然后，您可以对特定类别中的成员(例如，“不太可能”中的每个成员注册类别)采取操作，并特别是目标他们以潜在地增加您的注册号码。
+单击选&#x200B;**[!UICONTROL Members]** 项卡以视图您的所有项目成员。 将鼠标悬停在 **[!UICONTROL Registration Likelihood]** 或栏 **[!UICONTROL Attendance Likelihood]** 上可查看确切的百分比和分类。 然后，您可以对特定类别中的成员(例如，“不太可能”中的每个成员注册类别)采取操作，并特别是目标他们以潜在地增加您的注册号码。
 
 ![图像七](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
