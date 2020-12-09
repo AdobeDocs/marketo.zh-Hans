@@ -3,9 +3,9 @@ unique-page-id: 2949844
 description: 创建新的事件项目- Marketo Docs —— 产品文档
 title: 创建新事件项目
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
 太！ 您的新事件现在将显示在树中。 创建事件后，创建 [登陆页](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、 [表](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)单 [和电](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 子邮件，邀请客人！ 您还希望熟悉项目计划 [视图](http://docs.marketo.com/display/docs/program+schedule+view)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [营销日历](http://docs.marketo.com/display/docs/marketing+calendar)
 >* [在项目中使用期间成本](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
