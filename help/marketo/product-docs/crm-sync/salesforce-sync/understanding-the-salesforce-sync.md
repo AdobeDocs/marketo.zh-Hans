@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: 了解Salesforce同步- Marketo文档——产品文档
 title: 了解Salesforce同步
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,7 @@ Salesforce和Marketo之间的同步仅针对潜在客户、联系人和Salesforc
 
 Salesforce同步有许多细微差别和功能。 查看SFDC同步详细信 [息部分的详细信息](http://docs.marketo.com/display/docs/sfdc+sync+details)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [Salesforce同步设置](http://docs.marketo.com/display/docs/setup)
 >* [SFDC同步详细信息](http://docs.marketo.com/display/docs/sfdc+sync+details)
