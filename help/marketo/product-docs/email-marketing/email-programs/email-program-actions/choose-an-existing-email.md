@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: 选择现有电子邮件——营销文档——产品文档
 title: 选择现有电子邮件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 选择现有电子邮件 {#choose-an-existing-email}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [使用智能受众定义列表](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) , [或通过导入列表定义受众](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
