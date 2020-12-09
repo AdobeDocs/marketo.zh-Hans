@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: 从参与项目-营销文档——产品文档中删除会员
 title: 从参与项目中删除会员
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 有时，您只希望在参与项目中暂停人员，而不要删除他们。 这是通过“更改参 **与项目节奏”完成的**。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在参与项目中暂停人员](pause-people-in-an-engagement-program.md)
 
