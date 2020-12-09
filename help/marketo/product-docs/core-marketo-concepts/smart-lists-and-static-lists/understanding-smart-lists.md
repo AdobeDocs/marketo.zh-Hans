@@ -3,9 +3,9 @@ unique-page-id: 557130
 description: 了解智能列表-营销文档——产品文档
 title: 了解智能列表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 好，开始吧！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用内置／系统智能列表](using-smart-lists/use-built-in-system-smart-lists.md)
 >* [创建智能列表](creating-a-smart-list/create-a-smart-list.md)
