@@ -3,9 +3,9 @@ unique-page-id: 11377392
 description: 编辑您的默认品牌域- Marketo Docs —— 产品文档
 title: 编辑默认品牌域
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 编辑默认品牌域是使用品牌域的第一步。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >在Marketo中添 [加品牌域之前](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) ，请确保已在DNS中设置CNAME。
 
