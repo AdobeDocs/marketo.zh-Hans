@@ -3,9 +3,9 @@ unique-page-id: 557318
 description: 刷新列表或智能列表- Marketo Docs —— 产品文档
 title: 刷新列表或智能列表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 >
 >有时，当您运行一个智能列表并稍后返回时，您可能会在右下角的人数前看到“关于”一词。 这表示该数字是近似的——单击计数本身可刷新它并获得更新的、准确的计数。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [将人员从列表或智能列表导出到Excel](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
 
