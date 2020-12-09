@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: 发送推荐优惠履行电子邮件- Marketo文档——产品文档
 title: 发送推荐优惠履行电子邮件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用优惠履行电子邮件向客户提供优惠券和折扣代码。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [在社交促销中使用电子邮件](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [创建推荐优惠](create-a-referral-offer.md)
