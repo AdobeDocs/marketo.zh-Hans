@@ -3,9 +3,9 @@ unique-page-id: 2359540
 description: 在登陆页- Marketo Docs —— 产品文档中包含日历事件ICS文件
 title: 在事件中包含日历登陆页ICS文件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 日 **历文件事件** ，允许您向Marketo登陆页添加日历(.ics)链接。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建日历事件(.ics)文件](../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
