@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: SFDC Sync —— 自定义对象同步- Marketo Docs —— 产品文档
 title: SFDC同步——自定义对象同步
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >要使用自定义对象，它必须与Salesforce中的潜在客户 [、联系](sfdc-sync-lead-sync.md)[](sfdc-sync-contact-sync.md)人 [](sfdc-sync-account-sync.md)帐户对象关联。
 
