@@ -3,9 +3,9 @@ unique-page-id: 2953207
 description: 创建新营销活动文件夹- Marketo Docs —— 产品文档
 title: 创建新营销活动文件夹
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
    现在， [在创建新项目](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)时，您将看到此活动文件夹作为一个选项。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建项目](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [创建新的智能活动](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
