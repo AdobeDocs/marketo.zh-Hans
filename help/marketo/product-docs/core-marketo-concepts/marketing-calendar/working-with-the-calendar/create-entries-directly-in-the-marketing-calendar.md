@@ -3,9 +3,9 @@ unique-page-id: 2953348
 description: 直接在营销日历——营销文档——产品文档中创建条目
 title: 直接在营销日历中创建条目
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Marketo允许您使用项目焦点模式直接在营销日历中创建条目。 
 
    ![](assets/image2014-10-20-13-3a8-3a29.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [直接在营销日历中编辑条目](edit-entries-directly-in-the-marketing-calendar.md)
 
