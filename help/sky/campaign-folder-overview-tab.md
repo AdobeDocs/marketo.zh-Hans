@@ -2,9 +2,9 @@
 title: 活动文件夹概述选项卡
 description: 活动文件夹概述选项卡
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 活动文件夹：概述选项卡
 
-“活动文件夹”选项卡下有两个 [!UICONTROL Overview] 部分： [!UICONTROL **详细信息**] 和 [!UICONTROL **报告**]。
+“活动文件夹”选项卡下有两个 [!UICONTROL Overview] 部分： **[!UICONTROL Details]** 和 **[!UICONTROL Reports]**。
 
 ![图像1](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![图像1](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
-[!UICONTROL **文件夹操作**]
+**[!UICONTROL Folder Actions]**
 
 单击右上角的“文件夹操作”下拉框，快速访问基本功能。
 
