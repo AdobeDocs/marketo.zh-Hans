@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: 发送示例电子邮件- Marketo Docs —— 产品文档
 title: 发送示例电子邮件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 ## 根据区段发送示例电子邮件 {#send-a-sample-email-based-on-a-segment}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[将分段应用于电子邮件](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email)。
 
