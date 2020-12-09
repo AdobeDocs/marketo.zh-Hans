@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: 创建自定义Dynamics同步筛选器- Marketo Docs —— 产品文档
 title: 创建自定义Dynamics同步筛选器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketo在自动后台同步过程中查找此字段，并根据此逻辑确定�
 >
 >告诉Market跳过记录的唯一方法是将字段值显式设置为 **否**。 即使字段值为空，Marketo仍会同步记录。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >安装最新版Marketo插件（3.0.0.1或更高版本）。 转到Marketo >管理> Microsoft Dynamics >下载Marketo Solution。
 
