@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: 跨工作区和分区共享分段- Marketo Docs —— 产品文档
 title: 跨工作区和分区共享分段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 跨工作区和分区共享分段 {#share-segmentations-across-workspaces-and-partitions}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >本文仅针对具有工作区和分区的客户
 
