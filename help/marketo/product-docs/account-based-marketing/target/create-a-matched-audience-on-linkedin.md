@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: 在LinkedIn - Marketo Docs —— 产品文档上创建匹配受众
 title: 在LinkedIn上创建匹配受众
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 从您的ABM帐户受众创建匹配的LinkedIn广告定位列表。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[将匹配受众的LinkedIn添加为LaunchPoint服务](http://docs.marketo.com/x/I4Fy)
 
