@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: 设置LinkedIn潜在客户代Forms- Marketo文档——产品文档
 title: 设置LinkedIn领头将Forms
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,7 @@ ht-degree: 0%
 >
 >您只能对单个LinkedIn用户帐户授权。 如果您有多个要链接到Marketo的业务帐户，请确保正在授权的用户的LinkedIn帐户对LinkedIn中的业务帐户具有潜在客户生成表单管理者权限。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在智能过滤器中使用LinkedIn潜在客户生成表单活动和触发器](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 
