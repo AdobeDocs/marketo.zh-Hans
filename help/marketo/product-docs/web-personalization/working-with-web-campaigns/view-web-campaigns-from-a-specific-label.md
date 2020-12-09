@@ -3,9 +3,9 @@ unique-page-id: 4720075
 description: 视图特定标签中的Web活动- Marketo Docs —— 产品文档
 title: 视图特定标签中的Web活动
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [标记Web活动](label-your-web-campaigns.md)
 >* [视图特定标签中的区段](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
