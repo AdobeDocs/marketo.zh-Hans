@@ -2,9 +2,9 @@
 title: disable-or-enable-extend-content-notifications
 description: 禁用或启用已用尽的内容通知
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. 单击“设 [!UICONTROL **置**] ”选项卡。
+1. 单击选 **[!UICONTROL Setup]** 项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. 向下滚动到 [!UICONTROL Settings] 并选择 [!UICONTROL **关闭**] (或 [!UICONTROL On])。
+1. 向下滚动 [!UICONTROL Settings] 并选择 **[!UICONTROL Off]** (或 [!UICONTROL On])。
 
    ![图3](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
