@@ -3,9 +3,9 @@ unique-page-id: 2359862
 description: 搜索上传的图像和文件- Marketo文档——产品文档
 title: 搜索上传的图像和文件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 把脚踢开——你完蛋了！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [替换已上传的图像或文件](replace-an-uploaded-image-or-file.md)
 >* [使用文件夹组织图像和文件](organize-your-images-and-files-using-folders.md)
