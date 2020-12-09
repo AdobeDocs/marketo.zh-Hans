@@ -3,9 +3,9 @@ unique-page-id: 3571800
 description: 第3步，共3步-Connect Marketo和Salesforce(Professional)- Marketo文档——产品文档
 title: 第3步（共3步）-连接Marketo和Salesforce（专业版）
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在本文中，您将配置Market以与配置的Salesforce实例同步。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [第1步，共3步：将Marketo字段添加到Salesforce(Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [第2步，共3步：为Marketo创建Salesforce用户(Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
