@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: 添加其他品牌域- Marketo Docs —— 产品文档
 title: 添加其他品牌域
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在单个Marketo实例中运行多个品牌时添加一个额外的品牌域，并希望它们各自具有自己的品牌跟踪链接。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >在添加其 [他品牌域之前](edit-your-default-branding-domain.md) ，必须用品牌域替换通用跟踪链接。
 
