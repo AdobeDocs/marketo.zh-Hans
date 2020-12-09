@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: 电子邮件模板选取器概述- Marketo Docs —— 产品文档
 title: 电子邮件模板选取器概述
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Design Studio树中“电子邮件”>“模板”下显示的所有文件夹都
 
 很整齐！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [电子邮件模板语法](email-template-syntax.md)
 >* [创建电子邮件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
