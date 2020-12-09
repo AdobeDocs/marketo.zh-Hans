@@ -2,9 +2,9 @@
 title: activate-and-deactivate-stream-content
 description: 激活和取消激活流内容
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. 单击“流 [!UICONTROL **”**] 选项卡。
+1. 单击选 **[!UICONTROL Streams]** 项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![图3](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-3.png)
 
-1. 选择 [!UICONTROL **激活**]。
+1. 选择 **[!UICONTROL Activate]**。
 
    ![图像4](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-4.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您还可以通过单击顶部的齿轮图标并选择“全部激活”来激活流中 [!UICONTROL **的所有内容**]。
+>您还可以通过单击顶部的齿轮图标并选择来激活流中的所有内容 **[!UICONTROL Activate All]**。
 
 ## 取消激活流内容
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![图像5](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. 单击“流 [!UICONTROL **”**] 选项卡。
+1. 单击选 **[!UICONTROL Streams]** 项卡。
 
    ![图6](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
@@ -54,6 +54,6 @@ ht-degree: 0%
 
    ![图像七](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-7.png)
 
-1. 选择 [!UICONTROL **取消激活**]。
+1. 选择 **[!UICONTROL Deactivate]**。
 
    ![图像8](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-8.png)
