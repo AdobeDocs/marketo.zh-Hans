@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: 更改审核跟踪中的详细信息- Marketo Docs —— 产品文档
 title: 更改审核跟踪中的详细信息
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1901'
 ht-degree: 0%
 
 ---
@@ -799,9 +799,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
  </tbody> 
 </table>
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在审核跟踪中筛选](filtering-in-audit-trail.md)
 
