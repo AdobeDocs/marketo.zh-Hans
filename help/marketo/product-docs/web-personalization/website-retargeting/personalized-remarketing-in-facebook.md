@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Facebook中的个性化再营销——营销文档——产品文档
 title: Facebook中的个性化再营销
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 个性化再营销使您能够使用RTP数据和Facebook再营销的强大功能与用户重新互动。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* 通过Web个 [性化数据设置完成重定向](retargeting-with-web-personalization-data.md)
 >* 查看自定 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 义受 [众和再营销的Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)文档
