@@ -3,9 +3,9 @@ unique-page-id: 7504520
 description: 删除收入浏览器报表中的字段- Marketo Docs —— 产品文档
 title: 删除收入浏览器报表中的字段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
    >
    >在您开始拖动字段之前，垃圾桶是隐藏的。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [保存收入浏览器报表](saving-a-revenue-explorer-report.md)
 
