@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: 将Marketo与Dynamics同步的必填字段- Marketo Docs —— 产品文档
 title: 将Marketo与Dynamics同步的必填字段
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 >
 >请务必等待至少10分钟以运行同步，然后确认您已修复问题。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[为潜在客户／联系人记录设置星星和火焰](http://docs.marketo.com/x/BICMAg)
 
