@@ -2,9 +2,9 @@
 title: priority-override-for-trigger-活动
 description: 触发器活动的优先级覆盖
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 ## 覆盖优先级
 
-1. 在触发器活动中，单击 [!UICONTROL **计划**] 选项卡，然后单 [!UICONTROL **击覆盖优先级**]。
+1. 在触发器活动下，单击 **[!UICONTROL Schedule]** 选项卡，然后单击 **[!UICONTROL Override Priority]**。
 
    ![图像1](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. 从下拉菜单中选择新的优先级。 单击 [!UICONTROL **确认**]。
+1. 从下拉菜单中选择新的优先级。 单击 **[!UICONTROL Confirm]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 ## 重置优先级
 
-1. 要将活动优先级重置回系统默认值，请转到触 [!UICONTROL **发活动**] 中的计划选项卡，然后单 [!UICONTROL **击重置优先级**]。
+1. 要将活动优先级重置回系统默认值，请转到触 **[!UICONTROL Schedule]** 发活动中的选项卡并单击 **[!UICONTROL Reset Priority]**。
 
    ![图像4](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. 单击 [!UICONTROL **重置**] ，以进行确认。
+1. 单击 **[!UICONTROL Reset]** 以确认。
 
    ![图像5](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
@@ -62,21 +62,21 @@ ht-degree: 0%
 >
 >只有具有管理员职责的管理员或用户才应具有活动优先权覆盖访问权限。
 
-1. 在区域 [!UICONTROL Admin] 中，单击“用 [!UICONTROL **户和角色”**]。
+1. 在区域 [!UICONTROL Admin] 中，单击 **[!UICONTROL Users & Roles]**。
 
    ![图6](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. 单击“ [!UICONTROL **角色**] ”选项卡，选择要授予访问权限的用户，然后单击“编 [!UICONTROL **辑角色”**]。
+1. 单击选 **[!UICONTROL Roles]** 项卡，选择要授予访问权限的用户，然后单击 **[!UICONTROL Edit Role]**。
 
    ![图像七](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. 在“编 [!UICONTROL Access Marketing Activities]辑触发 [!UICONTROL **器优先级”下选中**]。 单击 [!UICONTROL **保存**]。
+1. 在 [!UICONTROL Access Marketing Activities]下面，查 **[!UICONTROL Edit Trigger Campaign Priority]**。 单击 **[!UICONTROL Save]**。
 
    ![图像8](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## 视图活动在营销中的优先地位
 
-您可以通过单击触发视图中 [!DNL Classic] 的计划选项卡 [!UICONTROL **来活动**] 体验中的活动优先级。
+您可以通过单击触发器视图 [!DNL Classic] 中的选项卡来活动 **[!UICONTROL Schedule]** 体验中的活动优先级。
 
 ![图像9](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
