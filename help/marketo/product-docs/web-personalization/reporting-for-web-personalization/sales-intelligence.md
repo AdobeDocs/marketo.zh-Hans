@@ -3,9 +3,9 @@ unique-page-id: 10096420
 description: 销售智能——营销文档——产品文档
 title: 销售智能
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Marketo Web Personalization提供有关访问您网站的匿名和已知Web访�
 >
 >我们建议您在Marketo Web Personalization中设置具有仅视图权限的销售主管。 这意味着他们可以视图所有页面，但不能创建、编辑或删除任何功能。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [电子邮件报告](email-reports.md)
 
