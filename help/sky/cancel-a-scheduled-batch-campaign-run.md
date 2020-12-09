@@ -2,9 +2,9 @@
 title: cancel-a-scheduled-batch-活动-run
 description: 取消计划的批处理活动运行
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 如果您已为某个批活动安排了运行并要取消它，下面将介绍如何取消。
 
-1. 选择活动并转至“ [!UICONTROL **计划**] ”选项卡。
+1. 选择活动并转到选 **[!UICONTROL Schedule]** 项卡。
 
    ![图像1](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. 单击“ [!UICONTROL **计划运行**]”。
+1. 单击 **[!UICONTROL Scheduled Runs]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. 找到要取消的计划运行，并单 [!UICONTROL **击最右**] 侧的X。
+1. 找到要取消的计划运行，并单 **[!UICONTROL X]** 击最右边的。
 
    ![图3](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-3.png)
 
