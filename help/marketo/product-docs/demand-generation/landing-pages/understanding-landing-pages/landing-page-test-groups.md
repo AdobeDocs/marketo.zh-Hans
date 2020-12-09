@@ -3,9 +3,9 @@ unique-page-id: 2949904
 description: 登陆页测试组- Marketo Docs —— 产品文档
 title: 登陆页测试组
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Market以跟踪测试组中每个测试页面上的页面视图和表单完成次数。 您可以使用测试组结果确定最吸引人的登陆页。 下面介绍如何创建测试组。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[构建两个或多个登陆页](../../../../getting-started/quick-wins/landing-page-with-a-form.md)，最好使用表单。
 
