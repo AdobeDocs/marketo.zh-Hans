@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: 电子邮件洞察概述——营销文档——产品文档
 title: 电子邮件洞察概述
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 
 包含所有标准Marketo维，但您可以选择最多添加10个自定义维。 [自定义维](custom-dimensions-for-email-insights.md) ，由细分和项目标签组成。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [电子邮件洞察分析概述](email-insights-analytics-overview.md)
 >* [电子邮件分析发送概述](email-insights-sends-overview.md)
