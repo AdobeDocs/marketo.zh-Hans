@@ -2,9 +2,9 @@
 title: my-token-link
 description: 我的令牌链接
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,6 @@ ht-degree: 0%
    >
    >如果选中“包括mkt_tok”，则Marketo将显示品牌跟踪域(例如http://mkto-sjqe3355.com/mn/...)的链接预览。 如果清除此复选框，则链接会更改。 如果关闭电子邮件或登陆页的链接跟踪，>URL将缩短为其基本长度(例如，www.examplepage.com)。
 
-1. 或者，在下 [!UICONTROL Advanced]面，您可以使用CSS自定义链接。 单击 [!UICONTROL **保存**]。
+1. 或者，在下 [!UICONTROL Advanced]面，您可以使用CSS自定义链接。 单击 **[!UICONTROL Save]**。
 
    ![图像4](/help/sky/assets/my-tokens/my-token-link/my-token-link-4.png)
