@@ -3,9 +3,9 @@ unique-page-id: 2360399
 description: 创建项目分析器——营销文档——产品文档
 title: 创建项目分析器
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
 
 ![](assets/november-custom-report.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [将渠道有效性与项目分析器进行比较](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [将项目有效性与项目分析器进行比较](compare-program-effectiveness-with-the-program-analyzer.md)
