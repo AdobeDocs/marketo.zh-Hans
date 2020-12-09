@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: 了解Marketo Moments - Marketo Docs —— 产品文档
 title: 理解营销时刻
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -153,9 +153,7 @@ Marketo Moments为您提供了三张不同的卡片，用于跟踪电子邮件�
 
 准备好了解更多信息？
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解电子邮件项目卡](understanding-email-program-cards.md)
 >* [了解事件卡](understanding-event-cards.md)
