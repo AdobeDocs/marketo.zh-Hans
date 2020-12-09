@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: 启用通信限制- Marketo Docs —— 产品文档
 title: 启用通信限制
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ ht-degree: 0%
    >
    >通信限制自动适用于所有电子邮件和互动项目。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[将通信限制应用于智能活动](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
