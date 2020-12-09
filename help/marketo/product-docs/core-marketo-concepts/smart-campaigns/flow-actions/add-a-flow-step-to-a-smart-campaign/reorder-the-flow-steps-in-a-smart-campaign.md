@@ -3,9 +3,9 @@ unique-page-id: 1146985
 description: 在智能活动中重新排序流步骤- Marketo Docs —— 产品文档
 title: 在智能活动中重新排序流步骤
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 流步骤从上到下执行。 下面介绍如何重新排序流程步骤以满足您的需求。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [向智能活动添加流步骤](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
