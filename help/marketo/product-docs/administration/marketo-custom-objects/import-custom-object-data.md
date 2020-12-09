@@ -3,9 +3,9 @@ unique-page-id: 10099680
 description: 导入自定义对象数据- Marketo文档——产品文档
 title: 导入自定义对象数据
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
    耶！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解Marketo自定义对象](understanding-marketo-custom-objects.md)
 
