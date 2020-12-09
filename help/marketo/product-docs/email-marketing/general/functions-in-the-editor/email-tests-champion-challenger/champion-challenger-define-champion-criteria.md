@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: 冠军／挑战者——定义冠军标准- Marketo文档——产品文档
 title: 冠军／挑战者——定义冠军标准
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 设置测试类型后，您需要定义冠军标准。 这是方法。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [添加电子邮件冠军／挑战者](add-an-email-champion-challenger.md)
 
