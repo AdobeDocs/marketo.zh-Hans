@@ -3,9 +3,9 @@ unique-page-id: 2950559
 description: 配置重新共享电子邮件并提示使用社交应用程序- Marketo Docs —— 产品文档
 title: 配置重新共享电子邮件并提示使用社交应用程序
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >接下来，您可以在推荐优惠 [中配置跟踪进度流](configure-track-progress-flow-for-a-referral-offer.md)，或单击 **完成>批准并关闭** , [以发布推荐优惠或](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 抽奖 [](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)。
 
