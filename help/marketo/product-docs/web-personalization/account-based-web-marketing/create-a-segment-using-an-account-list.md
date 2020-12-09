@@ -3,9 +3,9 @@ unique-page-id: 4720236
 description: 使用帐户列表- Marketo Docs —— 产品文档创建区段
 title: 使用帐户创建列表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 下面介绍如何使用帐户列表创建区段。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建新帐户列表](../../../product-docs/account-based-marketing/target/account-lists.md)
 
