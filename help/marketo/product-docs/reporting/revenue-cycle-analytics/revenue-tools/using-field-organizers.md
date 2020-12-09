@@ -3,9 +3,9 @@ unique-page-id: 3571892
 description: 使用现场组织者- Marketo Docs —— 产品文档
 title: 使用现场组织者
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,6 @@ ht-degree: 0%
 
 如果需要，可以以相同方式创建更多现场组织者。 你在这。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[使用字段管理器创建自定义字段组](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
