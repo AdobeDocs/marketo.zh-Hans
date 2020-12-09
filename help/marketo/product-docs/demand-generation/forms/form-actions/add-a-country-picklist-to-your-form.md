@@ -3,9 +3,9 @@ unique-page-id: 2949966
 description: 将国家／地区选择列表添加到表单——营销文档——产品文档
 title: 将国家／地区选择列表添加到表单
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 既然那太容易了，何不多做点？ 当用户选择美国作为列表中的国家时，如何动态显示“状态”字段？ 查看下面的相关文章，了解如何进行此操作。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [动态切换表单字段的可见性](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
 
