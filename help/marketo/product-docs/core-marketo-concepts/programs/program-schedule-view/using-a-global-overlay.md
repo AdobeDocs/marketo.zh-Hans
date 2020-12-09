@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: 使用全局叠加- Marketo Docs —— 产品文档
 title: 使用全局叠加
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 项目计划视图中的全局叠加可让您查看与其他计划资产相关的项目。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >您必须拥有营 [销日历许可](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) ，才能利用此功能。
 
