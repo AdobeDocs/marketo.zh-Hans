@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: 为Web富媒体启用预测内容- Marketo Docs —— 产品文档
 title: 为Web富媒体启用预测内容
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 预测性内容以机器学习和预测性分析为后盾，以最相关的内容吸引Web访客。 借助Web富媒体，您可以通过文本描述和图像增强您的内容，并在您的网站上嵌入多个预测性内容推荐。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >在启用预测内容之前，您必须：
 >
