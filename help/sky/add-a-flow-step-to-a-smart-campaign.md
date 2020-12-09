@@ -2,9 +2,9 @@
 title: add-a-flow-step-to-a-smart-活动
 description: 向智能活动添加流步骤
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 添加流步骤
 
-1. 在中 [!UICONTROL Marketing Activities]，选择您的智能活动，然后单 [!UICONTROL **击流**]。
+1. 在中 [!UICONTROL Marketing Activities]，选择您的智能活动并单击 **[!UICONTROL Flow]**。
 
    ![图像1](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
