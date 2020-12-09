@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: 直接在营销日历- Marketo Docs —— 产品文档中删除条目
 title: 直接在营销日历中删除条目
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 根据条目，您可能必须确认删除。 但就这样！ 轻松。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [直接在营销日历中确认条目](confirm-entries-directly-in-the-marketing-calendar.md)
 
