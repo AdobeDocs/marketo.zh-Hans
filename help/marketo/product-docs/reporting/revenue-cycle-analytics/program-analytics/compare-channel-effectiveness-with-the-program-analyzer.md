@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: 将渠道有效性与项目分析器— Marketo Docs —产品文档进行比较
 title: 将渠道有效性与项目分析器进行比较
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用项目分析器比较渠道成本、成员获取、渠道、收入等，以确定最有效、最不有效的渠道。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建项目分析器](create-a-program-analyzer.md)
 
