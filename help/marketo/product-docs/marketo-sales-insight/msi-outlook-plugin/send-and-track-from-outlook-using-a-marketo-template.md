@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: 使用Marketo模板从Outlook发送和跟踪- Marketo文档——产品文档
 title: 使用Marketo模板从Outlook发送和跟踪
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ ht-degree: 0%
 
    就这样！ 您使用了您超棒的营销团队为您打造的模板，从而节省了大量时间。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在Marketo中记录来自Lead的入站邮件](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
