@@ -2,9 +2,9 @@
 title: 创建智能活动
 description: 创建智能活动
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
-1. 右键单击您的选择，然后选择“ [!UICONTROL **创建智能活动**]”。
+1. 右键单击您的选择并选择 **[!UICONTROL Create Smart Campaign]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 >
 >您可以创建智能活动作为任何项目的本地资产。
 
-1. 命名智能活动（并添加可选描述／标签），然后单击 [!UICONTROL **创建**]。
+1. 命名智能活动（并添加可选描述／标签）并单击 **[!UICONTROL Create]**。
 
    ![图3](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-3.png)
