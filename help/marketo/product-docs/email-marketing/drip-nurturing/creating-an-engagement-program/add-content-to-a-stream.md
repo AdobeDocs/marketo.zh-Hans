@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: 将内容添加到流- Marketo Docs —— 产品文档
 title: 向流中添加内容
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -116,9 +116,7 @@ ht-degree: 0%
 
 干得好！ 您现在了解向项目流添加内容的不同方法。 添加您所需的数量来培养您。 有关更多详细信息，请参阅下面的相关文章。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [将项目添加到参与项目流](adding-a-program-to-an-engagement-program-stream.md)
 
