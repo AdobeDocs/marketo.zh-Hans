@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: 在Marketo - Marketo Docs —— 产品文档中创建事件
 title: 在Marketo中创建事件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 
 下一步是配置 [事件设置，并将Market同步到网络研讨会](https://docs.marketo.com/x/IRCa)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解ON24适配器的营销事件](understanding-marketo-on24-adapter-events.md)
 
