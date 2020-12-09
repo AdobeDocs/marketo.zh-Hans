@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: 双方同意设置- Marketo Docs —— 产品文档
 title: 双方同意设置
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 为了确保在录制呼叫时遵守美国双方同意法，作为管理员，您可以启用预先录制的您选择的消息在录制呼叫开始时播放。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >在执行以下步骤之前，必须先启用 [呼叫录制。](http://docs.marketo.com/x/dAC1Ag)
 
