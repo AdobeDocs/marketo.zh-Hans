@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: 提醒销售代表- Marketo Docs —— 产品文档
 title: 提醒销售代表
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 >
 >Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [登陆页表单](landing-page-with-a-form.md)
 
