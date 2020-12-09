@@ -3,9 +3,9 @@ unique-page-id: 2359459
 description: 创建代码片断- Marketo Docs —— 产品文档
 title: 创建代码片断
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 干得好！ 为动态内容创建片段，简化您的工作。 现在，您可以继续向 [新片段添加内容](add-content-to-a-snippet.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [向代码片断添加内容](add-content-to-a-snippet.md)
 >* [了解动态内容](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
