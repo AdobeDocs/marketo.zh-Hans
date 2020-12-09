@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: 创建仅API用户角色- Marketo Docs —— 产品文档
 title: 创建仅API用户角色
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 >
 >只授予所需的最低权限总是一个好主意。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >好，干得好！ 现在，让我们 [创建一个仅API用户](create-an-api-only-user.md)。
 
