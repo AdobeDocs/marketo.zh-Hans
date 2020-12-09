@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: 计划电子邮件项目,收件人时区——营销文档——产品文档
 title: 计划电子邮件项目(带收件人时区)
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ ht-degree: 0%
 >
 >在您开始电子邮件发送时间和实际发送时间之间取消订阅的任何人仍会收到该电子邮件。 我们建议调整您的取消订阅通知，以反映可能需要1-2个工作日才能处理取消订阅。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解收件人时区](understanding-recipient-time-zone.md)
 >* [电子邮件开始主管](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
