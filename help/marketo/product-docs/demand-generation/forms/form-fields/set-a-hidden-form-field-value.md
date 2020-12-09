@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: 设置隐藏的表单字段值- Marketo Docs —— 产品文档
 title: 设置隐藏表单字段值
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 隐藏字段通常动态填充。 不会向填写表单的人显示。 下面介绍如何设置值。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[将表单字段设置为隐藏](set-a-form-field-as-hidden.md)
 
