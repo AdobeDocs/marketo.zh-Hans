@@ -3,9 +3,9 @@ unique-page-id: 557275
 description: 使用内置／系统智能列表- Marketo Docs —— 产品文档
 title: 使用内置／系统智能列表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketo有一些非常有用的内置智能列表。 我们去看看！
 >
 >无法删除系统智能列表。 除“可能的重复”列表外，也无法编辑这些内容。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
