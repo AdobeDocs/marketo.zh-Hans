@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: 导航项目计划视图- Marketo Docs —— 产品文档
 title: 导航项目计划视图
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ ht-degree: 0%
 
 太好了！ 现在，您知道如何视图项目，让我们学习它可以做的其他很酷的事情。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在项目计划视图中创建条目](creating-an-entry-in-the-program-schedule-view.md)
 
