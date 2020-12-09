@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: IT的Marketo Outlook插件安装- Marketo Docs —— 产品文档
 title: IT人员安装Marketo Outlook插件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 有时，公司策略要求其IT团队在其员工的计算机上安装所有软件。 在这些情况下，IT经常使用自己的部署软件远程完成此操作。 本文档提供了在部署过程中用作输入以远程安装Outlook插件的命令行。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[设置](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) “企业密钥”。
 
