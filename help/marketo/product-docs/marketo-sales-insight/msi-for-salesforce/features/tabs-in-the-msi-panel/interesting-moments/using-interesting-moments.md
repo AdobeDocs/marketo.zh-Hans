@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 使用有趣的时刻——营销文档——产品文档
 title: 使用有趣的时刻
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 有趣的时刻是通过Marketo Sales Insight应用程序与销售团队进行沟通的关键。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >这些内容仅适用于Marketo Sales Insight和 [Marketo Sales Connect客户](http://docs.marketo.com/x/fgTLAQ) 。
 
@@ -31,7 +29,7 @@ ht-degree: 0%
 
 ## 如何创造有趣的时刻？  {#how-do-i-create-an-interesting-moment}
 
-1. 选择一 [个](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)[智能活动](http://docs.marketo.com/display/docs/smart+campaigns)，最好选择一个销售团队在触发后会发现有趣的。
+1. 选择智 [能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的销售团队在触发时会发现有趣的。
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -76,4 +74,3 @@ ht-degree: 0%
 安装或更新了Salesforce1的Marketo Sales Insight后，潜在客户的相关链接下会显示有趣的时刻。
 
 ![](assets/seven.png)
-
