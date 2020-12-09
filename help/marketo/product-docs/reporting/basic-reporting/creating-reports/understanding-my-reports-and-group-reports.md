@@ -3,9 +3,9 @@ unique-page-id: 7511725
 description: 了解我的报告和组报告- Marketo Docs —— 产品文档
 title: 了解我的报告和组报告
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [保存报告](save-a-report.md)
 >* [将报告克隆到组报告](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
