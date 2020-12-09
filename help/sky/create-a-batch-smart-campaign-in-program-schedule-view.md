@@ -2,9 +2,9 @@
 title: 创建-a批智能活动-项目-计划-视图
 description: 在项目计划活动下创建批智能视图
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 >
 >只能在活动视图中创建批量智能项目计划。 不支持触发活动。
 
-1. 在树中选择项目，然后转到“概 [!UICONTROL **述**] ”下的 [!UICONTROL **计划选项卡**]。
+1. 在树中选择项目，然后转到下 **[!UICONTROL Schedule]** 面的选项卡 **[!UICONTROL Overview]**。
 
    ![图像1](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-1.png)
 
-1. 将指针悬停在要添加条目的日期上，然后单击“添 [!UICONTROL **加”**]。
+1. 将指针悬停在要添加条目的日期上，然后单击 **[!UICONTROL Add]**。
 
    ![图像2](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >
    >您还可以按照类似步骤从“日”、“周”或“议程”活动创建批量智能视图。
 
-1. 输入新智能活动的名称，然后将“类 [!UICONTROL **型**] ”更 [!UICONTROL Smart Campaign]改。 如果要在创建条目 [!UICONTROL **后保留在日历中**]，还可以修改 [!UICONTROL **开始日期**] ，并取消选中“在议程中打开”视图。 单击 [!UICONTROL **保存**]。
+1. 输入新智能活动的名称，然后更 **[!UICONTROL Type]** 改为 [!UICONTROL Smart Campaign]。 如果要在创建条 **[!UICONTROL Start Date]**&#x200B;目后保 **[!UICONTROL Open In Agenda View]** 留在日历中，您还可以修改并取消选中。 单击 **[!UICONTROL Save]**。
 
    ![图3](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-3.png)
 
