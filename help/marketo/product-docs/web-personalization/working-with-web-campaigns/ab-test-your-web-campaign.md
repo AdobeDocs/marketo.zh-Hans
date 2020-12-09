@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: AB测试您的Web活动- Marketo Docs —— 产品文档
 title: AB测试Web活动
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,7 @@ ht-degree: 0%
 
 
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建对话框活动](create-a-new-dialog-web-campaign.md)
 >* [在区域中创建RTP活动](create-a-new-in-zone-web-campaign.md)
