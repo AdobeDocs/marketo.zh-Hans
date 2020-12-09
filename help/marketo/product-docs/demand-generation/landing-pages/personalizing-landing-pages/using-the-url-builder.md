@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: 使用URL Builder - Marketo Docs —— 产品文档
 title: 使用URL Builder
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ URL生成器可帮助您构建可填充Market至隐藏表单字段的URL。
 >
 >Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >了解如何在表单中创建隐藏字段，以及在将表单字段 [设置为隐藏中编辑其设置](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)。
 
