@@ -3,9 +3,9 @@ unique-page-id: 11384634
 description: 预测内容摘要——营销文档——产品文档
 title: 预测性内容摘要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->根据购买日期，您的营销订阅可能包括Marketo Predictive Content或Content`<sup>AI</sup>`。 对于使用预测内容的用户，Marketo在2018年4月`<sup>AI</sup>` 30日之前一直支持内容分析功能。 要使这些功能在该日期之后保持不变，请联系您的营销人员客户成功经理以升级到营销人员内容`<sup>AI</sup>`。
+>根据购买日期，您的营销人员订阅可能包括Marketo Predictive Content或Content`<sup>AI</sup>`。 对于使用预测内容的用户，Marketo在2018年4月`<sup>AI</sup>` 30日之前一直支持内容分析功能。 要使这些功能在该日期之后保持不变，请联系您的营销人员客户成功经理以升级到营销人员内容`<sup>AI</sup>`。
 
 “预测内容摘要”用表格、图形和当前数字一览表显示您需要的有关预测内容的信息。
 
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >如果单击类别链接(上图中的示例：leadgen、email等。) 它打开“所有内容”页面，其中您单击的类别已添加到筛选器，显示该类别中的内容分析。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用所有内容](http://docs.marketo.com/display/docs/working+with+all+content)
 >* [使用预测内容](http://docs.marketo.com/display/docs/working+with+predictive+content)
