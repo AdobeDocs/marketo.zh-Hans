@@ -3,9 +3,9 @@ unique-page-id: 5472314
 description: 在自由表单登陆页- Marketo Docs —— 产品文档中添加指向图像的链接
 title: 在自由表单登陆页中添加指向图像的链接
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 想让登陆页上的图像成为指向其他页面／站点的链接吗？ 这是方法。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [将图像添加到自由格式登陆页](add-an-image-to-a-free-form-landing-page.md)
 
