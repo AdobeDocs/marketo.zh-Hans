@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Account Insight插件概述- Marketo Docs —— 产品文档
 title: Account Insight插件概述
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Account Insight是Chrome插件，可为您的销售团队提供可操作的ABM�
 
 挺酷的！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [设置帐户分析](set-up-account-insight.md)
 
