@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: 使用“日期／时间” A/B测试- Marketo Docs —— 产品文档
 title: 使用“日期／时间”A/B测试
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以轻松地对电子邮件进行A/B测试。 一个测试是**日期／时间**测试。 这会测试每天或每周的哪个时间最适合发送电子邮件。 下面介绍如何设置。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [添加A/B测试](add-an-a-b-test.md)
 
