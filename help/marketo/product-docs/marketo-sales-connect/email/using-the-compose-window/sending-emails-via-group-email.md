@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: 通过组电子邮件发送电子邮件- Marketo Docs —— 产品文档
 title: 通过组电子邮件发送电子邮件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ ht-degree: 0%
    >
    >在发出组电子邮件时，您可以对电子邮件／模板进行批量编辑，但您不能对列表中的特定收件人进行唯一编辑。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [批量发送选项](http://docs.marketo.com/x/HwQ6Ag)
 >* [在合成窗口中使用模板](http://docs.marketo.com/x/MQQ6Ag)
