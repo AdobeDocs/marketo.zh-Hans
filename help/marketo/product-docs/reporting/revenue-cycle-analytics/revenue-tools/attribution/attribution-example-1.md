@@ -3,9 +3,9 @@ unique-page-id: 7514126
 description: 归因示例1 - Marketo Docs —— 产品文档
 title: 归因示例1
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,7 @@ ht-degree: 0%
 
 尝试所有示例，您将成为归因专家！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [归因示例2](attribution-example-2.md)
 >* [归因示例3](attribution-example-3.md)
