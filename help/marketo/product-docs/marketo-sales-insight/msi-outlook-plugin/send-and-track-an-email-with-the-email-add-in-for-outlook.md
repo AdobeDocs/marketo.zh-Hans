@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: 使用Outlook的电子邮件插件- Marketo Docs —— 产品文档发送和跟踪电子邮件
 title: 使用Outlook的电子邮件插件发送和跟踪电子邮件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以直接从Outlook使用Market发送和跟踪电子邮件。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >如果您还未安装Outlook的 [Marketo电子邮件插件](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
 
