@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: 冠军／挑战者——主题行- Marketo Docs —— 产品文档
 title: 冠军／挑战者——主题线
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以轻松测试多个主题行。 测试结束后，使用最有效的电子邮件发送。 下面介绍如何实现。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [添加电子邮件冠军／挑战者](add-an-email-champion-challenger.md)
 
