@@ -3,9 +3,9 @@ unique-page-id: 1147001
 description: 使用标准智能列表规则逻辑- Marketo Docs —— 产品文档
 title: 使用标准智能列表规则逻辑
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 以上智能列表的含义是：`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` 因此，如果某人填写表 **单** 或访问页面，活动会根据后续过滤器的**all **或**any **评估该人，具体取决于所使用的设置。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用高级智能列表规则逻辑](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
