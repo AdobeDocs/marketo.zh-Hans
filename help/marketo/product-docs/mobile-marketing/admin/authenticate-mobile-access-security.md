@@ -3,9 +3,9 @@ unique-page-id: 10096158
 description: 验证移动访问安全性- Marketo Docs —— 产品文档
 title: 验证移动访问安全性
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 要启用ID，您需要获取代码并将其提供给您的IT部门，以便他们设置安全匹配。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >要启用此功能，请与支持部门联系并请求“Vespa安全模式”。
 
