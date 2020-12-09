@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: 直接在营销日历- Marketo Docs —— 产品文档中编辑条目
 title: 直接在营销日历中编辑条目
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ ht-degree: 0%
 
 就这样！ 正如您所看到的，您可以直接从营销日历中执行许多操作。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [直接在营销日历中删除条目](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
 
