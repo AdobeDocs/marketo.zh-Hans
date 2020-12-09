@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: 冠军／挑战者——配置报告警报——营销文档——产品文档
 title: 冠军／挑战者——配置报告警报
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo将向您发送有关电子邮件测试进展情况的报告。 下面介绍如何计划它。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [冠军／挑战者：定义冠军标准](champion-challenger-define-champion-criteria.md)
 
