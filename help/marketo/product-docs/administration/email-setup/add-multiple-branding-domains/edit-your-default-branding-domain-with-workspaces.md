@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: 使用Workspaces - Marketo Docs —— 产品文档编辑默认品牌域
 title: 使用工作区编辑默认品牌域
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 现在，您可以 [添加工作区](add-an-additional-branding-domain-with-workspaces.md) 所需的其他品牌域。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [添加带工作区的其他品牌域](add-an-additional-branding-domain-with-workspaces.md)
 
