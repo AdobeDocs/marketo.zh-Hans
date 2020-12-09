@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: 将代码片断添加到登陆页- Marketo Docs —— 产品文档
 title: 向登陆页添加代码片断
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 代码片段是少量HTML，可遵循规则并包含个性化内容。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建代码片断](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
