@@ -3,9 +3,9 @@ unique-page-id: 10096400
 description: 创建电子邮件模板- Marketo Docs —— 产品文档
 title: 创建电子邮件模板
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 要自定义您的电子邮件模板，请查看以下文章。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[电子邮件模板语法](email-template-syntax.md)
 
