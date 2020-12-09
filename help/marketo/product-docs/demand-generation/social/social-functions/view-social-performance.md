@@ -3,9 +3,9 @@ unique-page-id: 2359763
 description: 视图社交绩效——营销文档——产品文档
 title: 视图社交绩效
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >您还可以使用触发器和过滤器来查看谁正在共享您的内容并与您的社交应用程序进行交互，以便您可以对这些交互采取行动。 请参 [阅将触发器和过滤器用于社交活动](triggers-and-filters-for-social-activities.md)。
 
