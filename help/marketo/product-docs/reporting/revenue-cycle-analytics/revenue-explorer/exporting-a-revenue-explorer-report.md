@@ -3,9 +3,9 @@ unique-page-id: 7504749
 description: 导出收入浏览器报表- Marketo文档——产品文档
 title: 导出收入浏览器报表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,7 @@ ht-degree: 0%
 
    真贴心！ 用您像忍者一样的营销技能发送此文件并给同行留下深刻印象。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [订阅收入浏览器报表](subscribe-to-a-revenue-explorer-report.md)
 
