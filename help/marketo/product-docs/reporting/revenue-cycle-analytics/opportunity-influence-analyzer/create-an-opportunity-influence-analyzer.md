@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: 创建Opportunity Inffuct Analyzer - Marketo Docs —— 产品文档
 title: 创建机会影响分析器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 >
 >您还可以观看有关Marketo University中的Opportunity Inffuct Analyzer的 [视频](https://learn.marketo.com)。 （现在看起来有些不同，但还有很多东西要学！）
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [用机会影响分析器讲述营销故事](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [配置机会影响分析器](configure-an-opportunity-influence-analyzer.md)
