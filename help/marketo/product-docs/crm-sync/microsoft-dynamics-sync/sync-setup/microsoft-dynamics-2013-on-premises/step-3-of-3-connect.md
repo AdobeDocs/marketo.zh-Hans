@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: 第3步，共3步-Connect Marketo和Dynamics（2013年内部部署）- Marketo文档——产品文档
 title: 第3步（共3步）- Connect Marketo和Dynamics（2013年内部部署）
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 好吧！ 我们已安装解决方案并配置了同步用户。 接下来，我们需要将Marketo和Dynamics联系起来。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [第1步，共3步：在Dynamics（2013内部部署）中安装Marketo解决方案](step-1-of-3-install.md)
 >* [第2步，共3步：为Marketo配置同步用户（2013年本地版）](step-2-of-3-configure.md)
