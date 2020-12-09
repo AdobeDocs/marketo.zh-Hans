@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: 将静态列表导出到Adobe Experience Cloud- Marketo Docs —— 产品文档
 title: 将静态列表导出到Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >Marketo实例的HIPAA就绪部署无法使用此功能。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[设置Adobe Experience Cloud受众共享](http://docs.marketo.com/x/D4GMAg)
 
