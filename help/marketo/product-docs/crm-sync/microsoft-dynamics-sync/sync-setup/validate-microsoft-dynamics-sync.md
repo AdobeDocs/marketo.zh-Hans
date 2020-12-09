@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: 验证Microsoft Dynamics同步- Marketo Docs —— 产品文档
 title: 验证Microsoft Dynamics同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
    >
    >目前不支持Marketo Dynamics Sync的沙箱刷新。 如果需要刷新Dynamics CRM沙箱，将需要新的Marketo沙箱。 有关更多详细信息，请联系您的客户成功经理。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[修复Dynamics验证同步问题](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
 
