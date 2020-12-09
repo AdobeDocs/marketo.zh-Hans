@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: 自定义字段类型术语表- Marketo Docs —— 产品文档
 title: 自定义字段类型术语表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 在Marketo中创建自定义字段时，您有列表类型可供选择。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [在Marketo中创建自定义字段](create-a-custom-field-in-marketo.md)
 
