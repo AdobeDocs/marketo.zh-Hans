@@ -3,9 +3,9 @@ unique-page-id: 7504120
 description: 启动演示文稿- Marketo Docs —— 产品文档
 title: 启动演示文稿
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [创建演示文稿](create-a-presentation.md)
 >* [自定义演示文稿](customize-a-presentation.md)
