@@ -2,9 +2,9 @@
 title: 预测过滤器
 description: 预测过滤器
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 这两个过滤器通过定位与其他受众或智能列表的成员相似的其他潜在客户，帮助您扩展当前项目。 相似过滤器考虑50多个因素，包括潜在客户属性、电子邮件活动、Web活动和参与度。
 
-单&#x200B;[!UICONTROL **击“添加约**] 束”(Add Constraint)为所选项目的成员选择成功标准。
+单&#x200B;**[!UICONTROL Add Constraint]** 击以为所选项目的成员选择成功标准。
 
 单击项目下拉框旁边的+图标，轻松将多个项目/智能列表添加到一个滤镜。
 
