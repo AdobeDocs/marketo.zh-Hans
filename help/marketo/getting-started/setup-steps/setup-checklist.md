@@ -3,9 +3,9 @@ unique-page-id: 2949471
 description: 设置核对清单——营销文档——产品文档
 title: 设置核对清单
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
 1. 与Web开发人员合作，将跟踪代码添加到您的网站
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[设置步骤](../../getting-started/setup-steps.md)
 
