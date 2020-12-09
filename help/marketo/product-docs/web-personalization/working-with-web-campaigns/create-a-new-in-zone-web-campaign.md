@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: 在Zone Web活动- Marketo Docs —— 产品文档中新建
 title: 在Zone Web中新建活动
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -119,9 +119,7 @@ Web活动是与特定区段关联的自定义反应，可以是 [您网站上](c
 
 1. 此时会显示一条确认消息，确认是否要删除活动。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建新的构件Web活动](create-a-new-widget-web-campaign.md)
 >* [创建新对话框Web活动](create-a-new-dialog-web-campaign.md)
