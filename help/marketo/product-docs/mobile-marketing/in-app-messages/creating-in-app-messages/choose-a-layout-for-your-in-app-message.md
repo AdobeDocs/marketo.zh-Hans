@@ -3,9 +3,9 @@ unique-page-id: 10100434
 description: 为应用程序内消息- Marketo Docs —— 产品文档选择布局
 title: 为应用程序内消息选择布局
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ Marketo提供六种布局，用于构建应用程序内消息。
 
 现在您已了解模板，现在，您应该在创建应用程序内 [消息图像时选择模板](add-in-app-message-images.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建应用程序内消息](http://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [了解应用程序内消息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
