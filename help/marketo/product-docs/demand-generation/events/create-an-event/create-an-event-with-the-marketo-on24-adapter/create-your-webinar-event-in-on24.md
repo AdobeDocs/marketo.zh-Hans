@@ -3,9 +3,9 @@ unique-page-id: 10096712
 description: 在ON24 - Marketo Docs —— 产品文档中创建网络研讨会事件
 title: 在ON24中创建网络研讨会事件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 下一步是在 [Marketo中创建事件](create-an-event-in-marketo.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解ON24适配器的营销事件](understanding-marketo-on24-adapter-events.md)
 
