@@ -2,9 +2,9 @@
 title: 存档和取消存档流内容
 description: 存档和取消存档流内容
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. 单击“流 [!UICONTROL **”选**] 项卡
+1. 单击选项 **[!UICONTROL Streams]** 卡
 
    ![图像2](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![图3](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. 选择 [!UICONTROL **存档**]。
+1. 选择 **[!UICONTROL Archive]**。
 
    ![图像4](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
    ![图像5](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. 单击“流 [!UICONTROL **”**] 选项卡。
+1. 单击选 **[!UICONTROL Streams]** 项卡。
 
    ![图6](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. 单击流的齿轮图标，然后单击“显示存 [!UICONTROL **档内容”**]。
+1. 单击流的齿轮图标，然后单击 **[!UICONTROL Show Archived Content]**。
 
    ![图像七](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![图像8](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. 选择 [!UICONTROL **取消存档**]。
+1. 选择 **[!UICONTROL Unarchive]**。
 
    ![图像9](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
