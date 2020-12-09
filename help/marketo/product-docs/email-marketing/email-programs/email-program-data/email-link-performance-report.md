@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: 电子邮件链接性能报告- Marketo Docs —— 产品文档
 title: 电子邮件链接性能报告
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ ht-degree: 0%
 >
 >如果要准确了解个人的操作，可以从活动的“成员” [选项卡](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) , [在“人员详细信](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 息”页面中打开“项目日志”。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [电子邮件性能报告](email-performance-report.md)
 >* [筛选电子邮件报告中的资产](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
