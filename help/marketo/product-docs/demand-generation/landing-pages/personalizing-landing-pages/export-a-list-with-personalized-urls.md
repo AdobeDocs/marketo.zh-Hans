@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: 导出包含个性化URL的列表- Marketo Docs —— 产品文档
 title: 导出包含个性化URL的列表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 导出包含个性化URL的列表 {#export-a-list-with-personalized-urls}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [为您的帐户启用个性化URL](enable-personalized-urls-for-your-account.md)
 >* [为登陆页启用个性化URL](enable-personalized-urls-for-a-landing-page.md)
