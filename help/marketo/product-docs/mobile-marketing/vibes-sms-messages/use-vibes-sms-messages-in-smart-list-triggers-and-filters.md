@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: 在智能列表触发器和过滤器中使用查看SMS消息- Marketo Docs —— 产品文档
 title: 在智能列表触发器和过滤器中使用浏览SMS消息
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ SMS消息弹回触发启动流，如在SMS消息弹回时发送电子邮件。
 
 在智能列表中设置Vibes触发器和过滤器后，您可 [以定义流](add-a-flow-step-for-sms.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [为智能列表定义智能活动 |触发器](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [查找过滤器并将其添加到智能列表](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
