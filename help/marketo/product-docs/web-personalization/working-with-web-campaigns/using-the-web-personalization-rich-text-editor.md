@@ -3,9 +3,9 @@ unique-page-id: 4719179
 description: 使用Web个性化富文本编辑器- Marketo Docs —— 产品文档
 title: 使用Web个性化富文本编辑器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >Web令牌使用 [Marketo Database](http://docs.marketo.com/display/DOCS/Manage+Person+Data) （Marketo数据库）中的人员数据，该数据在Web Personalization中的“帐户设置”>“数据库”下进行管理。 如果Web令牌是尚未在“帐户设置”>“数据库”中添加的新数据库字段，则会自动添加该令牌，并且激活时间最长可能需要24小时。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[使用富文本编辑器](http://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
 
