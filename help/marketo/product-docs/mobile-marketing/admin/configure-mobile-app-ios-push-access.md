@@ -3,9 +3,9 @@ unique-page-id: 7512434
 description: 配置移动应用程序iOS推送访问- Marketo Docs —— 产品文档
 title: 配置移动应用程序iOS推送访问
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 干得好！ 确保还使用Android配置应用程序。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [配置移动应用程序Android推送访问](configure-mobile-app-android-push-access.md)
 
