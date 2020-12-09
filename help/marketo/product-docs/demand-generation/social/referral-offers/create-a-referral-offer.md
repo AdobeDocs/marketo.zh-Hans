@@ -3,9 +3,9 @@ unique-page-id: 2359781
 description: 创建推荐优惠- Marketo Docs —— 产品文档
 title: 创建推荐优惠
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ ht-degree: 0%
 
 恭喜！ 您已创建了推荐优惠。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >下一步是在 [登陆页、网站](publish-a-referral-offer.md) 或Facebook上发布您的推荐优惠。
 
