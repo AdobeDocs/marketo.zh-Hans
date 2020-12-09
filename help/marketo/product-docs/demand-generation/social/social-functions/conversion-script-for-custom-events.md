@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: 自定义事件的转换脚本- Marketo Docs —— 产品文档
 title: 自定义事件的转换脚本
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
 
 太棒了！ 您的网站现在正在使用Marketo获取自定义社交促销目标。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [指定引用优惠的目标](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [创建推荐优惠](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
