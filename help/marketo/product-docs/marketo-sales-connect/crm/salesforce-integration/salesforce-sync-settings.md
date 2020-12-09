@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce同步设置- Marketo Docs —— 产品文档
 title: Salesforce同步设置
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 此功能要求您使用Enterprise/Unlimited版本的Salesforce或Professional版本（如果您已通过Web服务API购买集成）。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >必须连接Salesforce和Sales Engage。
 
@@ -47,9 +45,7 @@ ht-degree: 0%
 
 激活“向Salesforce发送电子邮件（密送）”后，您将收到销售电子邮件的密送，并且您的电子邮件将作为活动记录在机会、潜在客户和联系人中。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >必须连接Salesforce和Sales Engage。
 
