@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: 针对非本机Salesforce集成的销售分析- Marketo Docs —— 产品文档
 title: 针对非本机Salesforce集成的销售分析
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 如果您的Marketo帐户通过自定义或非本机集成连接到Salesforce，请使用此文档配置Sales Insight。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* 联系您的客户成功经理，为您的Marketo实例启用“MSI非本机”功能。
 >* 已设置MSI包的Salesforce帐户。
