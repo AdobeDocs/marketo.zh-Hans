@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: 动态切换表单字段的可见性- Marketo Docs —— 产品文档
 title: 动态切换表单字段的可见性
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 动态切换表单字段的可见性 {#dynamically-toggle-visibility-of-a-form-field}
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [将国家／地区选择列表添加到表单](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
