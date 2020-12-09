@@ -2,9 +2,9 @@
 title: set-stream-cadence
 description: 设置流节奏
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. 单击“流 [!UICONTROL **”**] 选项卡，然后单击“ [!UICONTROL **设置节奏”**]。
+1. 单击选 **[!UICONTROL Streams]** 项卡，然后单击 **[!UICONTROL Set Cadence]**。
 
    ![图像2](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. 选择希望节奏重复的频率。 您可以选择 [!UICONTROL **“每周**]”、“ [!UICONTROL **每月**]”或“ [!UICONTROL **无”**]。
+1. 选择希望节奏重复的频率。 您可以选 **[!UICONTROL Weekly]**&#x200B;择 **[!UICONTROL Monthly]**、或 **[!UICONTROL None]**。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 每周
 
-1. 选择 [!UICONTROL **每周**]。
+1. 选择 **[!UICONTROL Weekly]**。
 
    ![图3](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-3.png)
 
@@ -52,9 +52,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以通过选择“重复”来设置节奏以每天 [!UICONTROL **运行：每周**] / [!UICONTROL **每：1周**] / [!UICONTROL **开始：**] 所有日子。
+   >您可以通过选择/ / **[!UICONTROL Repeats: Weekly]****[!UICONTROL Every: 1 Week]** All Days设置 **[!UICONTROL On:]** 节奏。
 
-1. 现在选择时间。 如果要使用收件人时 [区](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) （即根据本地时区传送），请选中此框，然后单击 [!UICONTROL **保存**]。
+1. 现在选择时间。 如果要使用收件人时 [区](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) （即根据当地时区传送），请选中此框，然后单击 **[!UICONTROL Save]**。
 
    ![图像七](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## 每月
 
-1. 选择“ [!UICONTROL **每月**] ”，以确定重复频率。
+1. 选 **[!UICONTROL Monthly]** 择重复频率。
 
    ![图像9](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ ht-degree: 0%
    >
    >或者，您也可以选择一周中的某一天。
 
-1. 选择并单 [!UICONTROL Time] 击“保 [!UICONTROL **存”**]。
+1. 选择并 [!UICONTROL Time] 单击 **[!UICONTROL Save]**。
 
    ![图像十三](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
