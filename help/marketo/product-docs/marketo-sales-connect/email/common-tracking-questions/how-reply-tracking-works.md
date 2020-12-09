@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: 回复跟踪的工作原理- Marketo Docs —— 产品文档
 title: 回复跟踪的工作方式
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 回复跟踪是通过查看您发送的每封电子邮件中的邮件ID来完成的。 每封电子邮件都包含一个唯一的邮件ID，它允许我们进行一些最佳回复跟踪。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >**与电子邮件服务器的连接：** Sales Connect必须与您的收件箱连接，以便我们知道何时收到新的回复。 您需要将Sales Connect帐户连 [接到Gmail](http://docs.marketo.com/x/kYMOAQ)。 如果您使用Outlook，我们需要与您的exchange服务器 [集成](http://toutapp.com/next#settings/exchange_settings)。
 
