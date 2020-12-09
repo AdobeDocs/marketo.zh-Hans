@@ -2,9 +2,9 @@
 title: create-my-token-folders
 description: 创建我的令牌文件夹
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. 输入新文件夹的名称，然后从目 [!UICONTROL **标下拉框**][!UICONTROL **中选择“本地令牌**] ”或“被覆盖令牌”。 单击 [!UICONTROL **保存**]。
+1. 输入新文件夹的名称，然后从目 **[!UICONTROL Local Tokens]** 标 **[!UICONTROL Overridden Tokens]** 下拉菜单中选择或选择。 单击 **[!UICONTROL Save]**。
 
    ![图像2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要重命名文件夹，请右键单击该文件夹，然后单击“重 [!UICONTROL **命名”**]。
+>要重命名文件夹，请右键单击它，然后单击 **[!UICONTROL Rename]**。
