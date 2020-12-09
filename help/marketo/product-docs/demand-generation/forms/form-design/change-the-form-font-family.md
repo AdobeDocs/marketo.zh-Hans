@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: 更改表单字体系列- Marketo文档——产品文档
 title: 更改表单字体系列
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Google Fonts非常棒，我们将它们直接构建到表单编辑器中。 看�
 
 了解在表单上更改字体系列有多轻松？ 好，现在已完成，让我们学习如何更改表单字体大小。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [更改表单字体大小](change-the-form-font-size.md)
 
