@@ -3,9 +3,9 @@ unique-page-id: 8782024
 description: 下载Marketo Moments - Marketo Docs —— 产品文档
 title: 下载Marketo时刻
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 >
 >Marketo Moments不支持使用安全断言标记语言(SAML)进行单一登录。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[理解营销时刻](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 
