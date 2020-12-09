@@ -3,9 +3,9 @@ unique-page-id: 7504736
 description: 安装Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步骤1（共3步）- Marketo Docs —— 产品文档
 title: 为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤1（共3步）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >将Market同步到CRM后，将无法将新CRM同步到现有Marketo实例。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >如果您使用的是Microsoft Dynamics内部部署，则必须配置 [了Active Directory Federation](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) Services [2.0+(ADFS)的Internet Packed Deployment](https://msdn.microsoft.com/en-us/library/bb897402.aspx) (IFD)。 注意：IFD文档在您单击链接时自动下载。
 >
