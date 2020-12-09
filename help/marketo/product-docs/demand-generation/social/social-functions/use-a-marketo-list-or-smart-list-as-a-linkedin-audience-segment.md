@@ -3,9 +3,9 @@ unique-page-id: 7504180
 description: 将Marketo列表或智能列表用作LinkedIn受众区段- Marketo文档——产品文档
 title: 将营销人员列表或智能列表用作LinkedIn受众细分
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 将您的营销人员与LinkedIn受众集成。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [将匹配受众的LinkedIn添加为LaunchPoint服务](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
