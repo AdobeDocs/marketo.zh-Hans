@@ -3,9 +3,9 @@ unique-page-id: 8783141
 description: 发送推送通知示例- Marketo Docs —— 产品文档
 title: 发送推送通知示例
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以发送示例以验证您的推送通知是否工作正常！
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >确保将示例发送到的设备上已安装该应用程序。
 
