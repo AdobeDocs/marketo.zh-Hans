@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: 管理和视图成员- Marketo Docs —— 产品文档
 title: 管理和视图成员
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -93,9 +93,7 @@ ht-degree: 0%
 
 功能多，但它们都很简单。 享受！
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建项目性能报告](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
 
