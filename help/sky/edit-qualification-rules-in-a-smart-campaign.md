@@ -2,9 +2,9 @@
 title: edit-acquiliation-rules-in-a-smart-活动
 description: 在智能活动中编辑资格规则
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 资格规则控制某人在智能活动中流程的次数。 默认情况下，即使某人多次触发智能活动，它们也只会通过流发送一次。 下面介绍如何修改这些设置。
 
-1. 选择活动并转至“ [!UICONTROL **计划**] ”选项卡。
+1. 选择活动并转到选 **[!UICONTROL Schedule]** 项卡。
 
    ![图像1](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
-1. 单击“ [!UICONTROL **编辑重复**]”。
+1. 单击 **[!UICONTROL Edit Recurrence]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
-1. 选择引导您的员工通过智能活动流的频率： [!UICONTROL **每日**]、 [!UICONTROL **每周**]、每 [!UICONTROL **月**]，或 [!UICONTROL **每#天一次**]。
+1. 选择引导您的员工通过智能活动流的频率： **[!UICONTROL daily]**、 **[!UICONTROL weekly]**、 **[!UICONTROL monthly]**&#x200B;或 **[!UICONTROL once every # days]**。
 
    ![图3](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-3.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >使用周或月时，此逻辑也适用。 一个月总计30天。
 
-1. 完成后 [!UICONTROL **单击**] “确认”。
+1. 完成 **[!UICONTROL Confirm]** 后单击。
 
    ![图像4](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-4.png)
 
