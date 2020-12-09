@@ -3,9 +3,9 @@ unique-page-id: 1147304
 description: 在营销日历——营销文档——产品文档中共享筛选器定义
 title: 在营销日历中共享筛选器定义
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 过滤器可以在不同用户之间共享。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >* [在营销日历中创建筛选器](filtering-the-marketing-calendar.md)
 >* [在营销日历中保存筛选器定义](saving-a-filter-definition-in-the-marketing-calendar.md)
