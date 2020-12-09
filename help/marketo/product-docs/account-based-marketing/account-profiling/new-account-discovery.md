@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 新帐户发现- Marketo Docs —— 产品文档
 title: 新帐户发现
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 新帐户发现可以使用理想客户用户档案中由人工智能提供的推荐，帮助您找到新的目标。
 
->[!NOTE]
->
->**先决条件**
+>[!PREREQUISITES]
 >
 >[设置帐户分析](http://docs.marketo.com/x/FgAKAQ)
 
