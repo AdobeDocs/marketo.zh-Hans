@@ -3,9 +3,9 @@ unique-page-id: 1147226
 description: 快速入门- Marketo Docs —— 产品文档
 title: 入门
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 7%
 
 ---
@@ -17,37 +17,37 @@ ht-degree: 7%
 
 Marketo你问什么？ 问得好！
 
-[了解Marketo](getting-started/what-is-marketo.md)
+[了解Marketo](/help/marketo/getting-started/what-is-marketo.md)
 
 ## 步骤2设置 {#get-set-up}
 
 在IT团队的帮助下，您可以立即完成它。
 
-[开始设置](getting-started/setup-steps.md)
+[开始设置](/help/marketo/getting-started/setup-steps.md)
 
 ## 步骤3获得一些快速成功 {#get-some-quick-wins}
 
 完成这些任务，了解Marketo的核心功能。
 
-[![](assets/education-science-12.png)  1. 设置并添加人物](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
+[![](/help/marketo/getting-started/assets/getting-started-1.png) 1. 设置并添加人物](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
 
-[![](assets/valentine-day-10.png)  2. 发送电子邮件](getting-started/quick-wins/send-an-email.md)
+[![](/help/marketo/getting-started/assets/getting-started-2.png) 2. 发送电子邮件](getting-started/quick-wins/send-an-email.md)
 
-[![](assets/graphic-design-tools-19.png)  3. 登陆页表单](getting-started/quick-wins/landing-page-with-a-form.md)
+[![](/help/marketo/getting-started/assets/getting-started-3.png) 3. 登陆页表单](getting-started/quick-wins/landing-page-with-a-form.md)
 
-[![](assets/office-31.png)  4. 简单评分](getting-started/quick-wins/simple-scoring.md)
+[![](/help/marketo/getting-started/assets/getting-started-4.png) 4. 简单评分](getting-started/quick-wins/simple-scoring.md)
 
-[![](assets/technology-08.png)  5. 电子邮件自动响应](getting-started/quick-wins/email-auto-response.md)
+[![](/help/marketo/getting-started/assets/getting-started-5.png) 5. 电子邮件自动响应](getting-started/quick-wins/email-auto-response.md)
 
-[![](assets/shopping-27.png)  6. 导入人员列表](getting-started/quick-wins/import-a-list-of-people.md)
+[![](/help/marketo/getting-started/assets/getting-started-6.png) 6. 导入人员列表](getting-started/quick-wins/import-a-list-of-people.md)
 
-[![](assets/ecology-14.png)  7. 滴滴培养](getting-started/quick-wins/drip-drip-nurture.md)
+[![](/help/marketo/getting-started/assets/getting-started-7.png) 7. 滴滴培养](getting-started/quick-wins/drip-drip-nurture.md)
 
-[![](assets/seo-44.png)  8. 个性化电子邮件](getting-started/quick-wins/personalize-an-email.md)
+[![](/help/marketo/getting-started/assets/getting-started-8.png) 8. 个性化电子邮件](getting-started/quick-wins/personalize-an-email.md)
 
-[![](assets/medical-16.png)  9. 提醒销售代表](getting-started/quick-wins/alert-the-sales-rep.md)
+[![](/help/marketo/getting-started/assets/getting-started-9.png) 9. 提醒销售代表](getting-started/quick-wins/alert-the-sales-rep.md)
 
-[![](assets/office-23.png)  10. 更新人员数据](getting-started/quick-wins/update-person-data.md)
+[![](/help/marketo/getting-started/assets/getting-started-10.png) 10. 更新人员数据](getting-started/quick-wins/update-person-data.md)
 
 ## 步骤4祝贺！ 你已经准备好迎接国家  {#congrats-youre-ready-for-the-nation}
 
