@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: 在Marketo - Marketo Docs —— 产品文档中输入您的ON24凭据
 title: 在Marketo中输入您的ON24凭据
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 下一步是在ON24 [中创建网络研讨会事件](create-your-webinar-event-in-on24.md)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [了解ON24适配器的营销事件](understanding-marketo-on24-adapter-events.md)
 
