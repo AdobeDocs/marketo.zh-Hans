@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: 设置核对清单——营销文档——产品文档
 title: 设置核对清单
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 设置核对清单 {#setup-checklist}
 
-马克托欢迎你！ 您可以随意使用下面的清单作为可视的待办列表，开始工作。 详细信息可在设置 [步骤中找到](../../getting-started/setup-steps.md)。
+马克托欢迎你！ 您可以随意使用下面的清单作为可视的待办列表，开始工作。 详细信息可在设置 [步骤中找到](/help/marketo/getting-started/setup-steps.md)。
 
 ## 登录Marketo并创建其他用户 {#log-in-to-marketo-and-create-additional-users}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 1. 要求IT为您的电子邮件CNAME设置DNS记录
 1. 要求IT部门允许列表Marketo
 1. 在管理区域中设置DKIM和SPF
-1. 为FromDomain1设 [置MX]
+1. 为 `[FromDomain1]`
 1. 完成电子邮件CNAME的操作后，在Marketo中设置您的电子邮件CNAME
 
 ## 提交登陆页和电子邮件模板的URL {#submit-a-url-for-landing-page-and-email-templates}
@@ -51,5 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[设置步骤](../../getting-started/setup-steps.md)
-
+>[设置步骤](/help/marketo/getting-started/setup-steps.md)
