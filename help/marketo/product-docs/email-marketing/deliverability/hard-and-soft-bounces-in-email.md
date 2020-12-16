@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: 电子邮件中的硬弹回和软弹回- Marketo Docs —— 产品文档
 title: 电子邮件中的硬边界和软边界
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 电子邮件中的硬边界和软边界 {#hard-and-soft-bounces-in-email}
 
 当邮件服务器告知Market该人的电子邮件无法送达时，硬弹回会导致该人的电子邮件地址无效。 软弹跳意味着将电子邮件发送给人时出现问题；这会自动得到解决，有时可能需要数天时间。 硬边界和软边界都由多个 [类别组成](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 跳出分类 {#bounce-classification}
 
