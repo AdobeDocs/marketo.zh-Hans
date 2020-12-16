@@ -3,21 +3,15 @@ unique-page-id: 6848782
 description: 使您的取消订阅消息在语言- Marketo Docs —— 产品文档中保持动态
 title: 使取消订阅消息在语言中具有动态性
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
 
 
 # 使取消订阅消息在语言中具有动态性 {#make-your-unsubscribe-message-dynamic-for-languages}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 默认的取消订阅消息和链接为英语。 您可以使用动态内容以不同语言显示它。
 
