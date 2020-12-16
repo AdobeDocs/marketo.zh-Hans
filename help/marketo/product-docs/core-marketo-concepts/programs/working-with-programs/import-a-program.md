@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 导入项目- Marketo Docs —— 产品文档
 title: 导入项目
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '912'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 导入项目 {#import-a-program}
 
 项目可以从一个Market导入到另一个Market。 例如，您可以在沙箱中创建项目，然后将其导入到实时订阅中。 此外，还可以从Marketo项目库导入预建项目。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 导入项目 {#import-a-program-1}
 
