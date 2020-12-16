@@ -3,9 +3,9 @@ unique-page-id: 1147051
 description: 智能活动清单——营销文档——产品文档
 title: 智能活动清单
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 智能活动清单 {#smart-campaign-checklist}
 
 请按照以下步骤确保智能活动的顺畅运行，并尽可能防止错误。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 消除智能列表错误
 
