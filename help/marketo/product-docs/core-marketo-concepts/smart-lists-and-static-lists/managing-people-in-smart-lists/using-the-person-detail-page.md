@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 使用人员详细信息页面- Marketo Docs —— 产品文档
 title: 使用人员详细信息页面
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '532'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 使用人员详细信息页面 {#using-the-person-detail-page}
 
 人员详细信息页面包含Marketto了解的有关人员的所有信息。 您可以直接从此页编辑数据。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## “人员详细信息”页 {#getting-to-person-detail-page}
 
