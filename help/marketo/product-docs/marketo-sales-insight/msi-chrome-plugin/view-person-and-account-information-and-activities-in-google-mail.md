@@ -3,21 +3,15 @@ unique-page-id: 10095358
 description: 视图人和帐户信息以及Google邮件中的活动- Marketo Docs —— 产品文档
 title: 视图人和帐户信息及Google邮件中的活动
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
 
 # 视图人和帐户信息及Google邮件中的活动 {#view-person-and-account-information-and-activities-in-google-mail}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 视图活动 {#view-activities-in-google-mail}
 
