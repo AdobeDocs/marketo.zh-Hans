@@ -3,21 +3,15 @@ unique-page-id: 1146950
 description: 等待- Marketo Docs —— 产品文档
 title: 等待
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # 等待 {#wait}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](/help/marketo/getting-started/updates-to-marketo-terminology.md)。
 
 ## 概述 {#overview}
 
