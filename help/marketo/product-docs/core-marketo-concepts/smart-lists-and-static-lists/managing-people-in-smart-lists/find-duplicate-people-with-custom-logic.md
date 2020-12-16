@@ -3,9 +3,9 @@ unique-page-id: 2952636
 description: 查找具有自定义逻辑的重复- Marketo Docs —— 产品文档
 title: 使用自定义逻辑查找重复
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 使用自定义逻辑查找重复 {#find-duplicate-people-with-custom-logic}
 
 Marketo有一个系统智能列表，通过匹配重复的电子邮件地址来查找客户。 如果要使用其他字段查找重复，请按照以下方式操作。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!PREREQUISITES]
 >
