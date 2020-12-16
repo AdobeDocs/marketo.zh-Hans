@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: 滴滴、滴滴、培养——营销文档——产品文档
 title: 滴水，滴水，培养
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,10 @@ ht-degree: 0%
 
 您可以在Marketo中轻松创建高级、复杂的培养系统。 这就是方法！
 
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [设置并添加人物](get-set-up-and-add-a-person.md)
->* [导入人员列表](import-a-list-of-people.md)
-
->
-
+>* [设置并添加人物](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 ## 第1步：创建参与项目 {#step-create-an-engagement-program}
@@ -68,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >看不到电子邮件编辑？ 您的浏览器可能已阻止该窗口。 在浏览器中启 [用app.marketo.com中的弹出](http://app.marketo.com) ，然后单击顶 **部菜单栏中** 的“编辑草稿”。
+   >看不到电子邮件编辑？ 您的浏览器可能已阻止该窗口。 在浏览器中启 [用app.marketo.com中的弹出](https://app.marketo.com) ，然后单击顶 **部菜单栏中** 的“编辑草稿”。
 
 1. 输入主题。
 
@@ -92,9 +83,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >不要忘记批准您的电子邮件，否则您以后将无法激活它们。
 
 1. 现在，通过重复步骤2操作创建另一封电子邮件。
@@ -104,6 +92,7 @@ ht-degree: 0%
 ## 第3步：向流中添加内容 {#step-add-content-to-your-stream}
 
 1. 现在，是时候使用您创建的电子邮件为您的参与项目创建一系列内容了。
+
 1. 选择您的参与项目，然后单击“流 **”选** 项卡。
 
    ![](assets/fourteen-2.png)
@@ -114,11 +103,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您还可以使用 **“添加内容** ”按钮或流**+ **图标。
+   >您还可以使用“ **添加内容** ”按钮或 **流+** 图标。
 
 ## 第4步：激活流内容 {#step-activate-stream-content}
 
-1. 通过单击流齿轮图标一次激活所有内容，然后单击“激 **活所有内容”** 。
+1. 通过单击流齿轮图标一次激活所有内容，然后单击“激 **活所有内容”**。
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -134,7 +123,7 @@ ht-degree: 0%
 
    ![](assets/seventeen.png)
 
-1. 编辑与所需计划匹配的设置，然后单击“保 **存”**。
+1. 编辑与所需计划匹配的设置，然后单击“保 **存**”。
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -167,15 +156,15 @@ ht-degree: 0%
    ![](assets/twenty-two.png)
 
 1. 任务完成！
+
 1. 您应在指定的时间和节奏时收到电子邮件。
 
    >[!NOTE]
    >
-   >**深潜**
-   >
-   >
-   >进一步了解 [参与项目](http://docs.marketo.com/display/docs/drip+nurturing)。
+   >进一步了解 [参与项目](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)。
 
 <br> 
 
-[◄任务5:导入列表Lead](import-a-list-of-people.md) [Mission 7:个性化电子邮件►](personalize-an-email.md)
+[◄任务5:导入潜在客户列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+
+[任务7:个性化电子邮件►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
