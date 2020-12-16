@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: 设置并添加人员- Marketo Docs —— 产品文档
 title: 设置并添加人物
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 在开始任务之前，有些事情要做。
 
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 ## 第1步：登录到Marketo {#step-log-in-to-marketo}
 
-1. [使用您通过电子邮件收](http://app.marketo.com) 到的凭据登录到Marketo。
+1. [使用您通过电子邮件收](https://app.marketo.com) 到的凭据登录到Marketo。
 
    ![](assets/one.png)
 
@@ -59,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 键入您的名字和姓氏、电子邮件地址和公司名，然后单击**创建**以将自己添加为人。
+1. 键入您的名字和姓氏、电子邮件地址和公司名，然 **后单击** “创建”以将自己添加为人。
 
    ![](assets/eight.png)
 
@@ -67,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 单击“**人员**”选项卡。 你应该在数据库中看到自己。
+1. 单击“人 **员** ”选项卡。 你应该在数据库中看到自己。
 
    ![](assets/ten.png)
 
@@ -77,4 +71,4 @@ ht-degree: 0%
 
 <br> 
 
-[任务1:发送电子邮件爆炸式►](send-an-email.md)
+[任务1:发送电子邮件爆炸式►](/help/marketo/getting-started/quick-wins/send-an-email.md)
