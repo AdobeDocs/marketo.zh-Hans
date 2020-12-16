@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: 令牌概述- Marketo Docs —— 产品文档
 title: 令牌概述
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 令牌概述 {#tokens-overview}
 
 令牌是一个变量，可用于Market以智能 [活动](http://docs.marketo.com/display/DOCS/Smart+Campaigns) 流步骤、电子邮 [件、](http://docs.marketo.com/display/DOCS/General)[、登陆页](http://docs.marketo.com/display/DOCS/Landing+Pages)、代码 [、](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)[](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)和Web活动。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 了解默认值 {#understanding-default-values}
 
