@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: 创建分段- Marketo Docs —— 产品文档
 title: 创建分段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 创建分段 {#create-a-segmentation}
 
 细分允许您将人员分组到不同的用户档案中，以便报告和动态内容。 下面介绍如何创建它们。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 转到数 **据库**。
 
