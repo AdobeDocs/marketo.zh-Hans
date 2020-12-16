@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: 登陆页表单——营销文档——产品文档
 title: 登陆页表单
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,9 @@ ht-degree: 0%
 
 ## 任务：用表单创建登陆页以赢取新人。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [设置并添加人物](get-set-up-and-add-a-person.md)
-
+>[设置并添加人物](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## 第1步：创建项目 {#step-create-a-program}
 
@@ -32,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. 选择在上一个快速赢取中创建的** [学习**文件夹](send-an-email.md)。
+1. 选择在上 **一个** quick win中创建 [的“学习”文件夹](/help/marketo/getting-started/quick-wins/send-an-email.md)。
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -40,12 +33,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. 输入项目 **名称**，选择一个**渠道**，然后单击**创建**。
+1. 输入项目 **名称**，选择一 **个渠道** ，然 **后单击创**&#x200B;建。
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >在项目名称的末尾添加您的姓名首字母，使其唯一。
 
@@ -53,10 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定义**
-   >
-   >
-   >项目是一个特定的营销计划。 渠道 **旨在** 成为投放机制，如网络研讨会、赞助或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉菜单中看到不同的渠道选项。 您还可以 [创建自己的渠道。](../../product-docs/administration/tags/create-a-program-channel.md)
+   >项目是一个特定的营销计划。 渠道 **旨在** 成为投放机制，如网络研讨会、赞助或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉菜单中看到不同的渠道选项。 您还可以 [创建自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -64,7 +51,7 @@ ht-degree: 0%
 
 ## 第2步：创建表单 {#step-create-a-form}
 
-1. 选择项目后，单击 **新建** ，然后**新建本地资产**。
+1. 选择项目后，依次单击 **新建****和新建本地资产**。
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -78,13 +65,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >确保选中“ **在编辑器中打** 开”框。 否则，您需要单击“编辑表单”选 **项**&#x200B;卡&#x200B;**。**
+   >确保选中“ **在编辑器中打** 开”框。 否则，您需要单击“编辑表单” **选项卡** 。
 
    >[!TIP]
    >
-   >看不到表单编辑器？ 您的浏览器可能已阻止该窗口。 在您的浏览器中 [启用app.marketo](http://app.marketo.com/) .com中的弹出窗口，然后单击顶部菜单栏中的“编辑草稿”。
+   >看不到表单编辑器？ 您的浏览器可能已阻止该窗口。 在您的浏览器中 [启用app.marketo](https://app.marketo.com/) .com中的弹出窗口，然后单击顶部菜单栏中的“编辑草稿”。
 
-1. 选择**电子邮件地址**字段并选中“必 **需”**。
+1. 选择“电 **子邮件地** 址”字段， **然后选中“必填”**。
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
@@ -96,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. 单击**下一步**。
+1. 单击“ **下一步**”。
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
@@ -110,9 +97,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定义**
-   >
-   >随访页面是填写表单后访客被重定向的位置。 外部URL是一个选项，但有更多选项。 请参 [阅设置表单感谢页面](../../product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)。
+   >随访页面是填写表单后访客被重定向的位置。 外部URL是一个选项，但有更多选项。 请参 [阅设置表单感谢页面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)。
 
 1. 单击 **完成**。
 
@@ -136,7 +121,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. 输入页面**名称**，选择一个模板，然后单击“ **创建**”。
+1. 输入页面 **名称**，选择模板，然后单 **击创建**。
 
    >[!NOTE]
    >
@@ -168,9 +153,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定义**
-   >
-   >
    >批准登陆页将使其实时并可在Internet上访问。
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
@@ -181,7 +163,7 @@ ht-degree: 0%
 
 ## 第5步：测试表单 {#step-test-your-form}
 
-1. 选择您的登陆页并单击**视图批准页面**。
+1. 选择您的登陆页，然后单击 **视图批准页面**。
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -205,4 +187,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄发送电子邮件，爆炸](send-an-email.md) , [简单评分►](simple-scoring.md)
+[◄发送电子邮件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md)
+
+[简单的评分►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
