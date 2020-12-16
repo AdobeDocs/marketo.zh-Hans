@@ -3,21 +3,15 @@ unique-page-id: 3571809
 description: 步骤3（共3步）-将Microsoft Dynamics与Marketo（2011年内部部署）连接- Marketo文档——产品文档
 title: 第3步（共3步）-将Microsoft Dynamics与Marketo连接（2011年内部部署）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
 
 # 第3步，共3步：将Microsoft Dynamics与Marketo连接（2011年内部部署） {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 好吧！ 我们已安装解决方案并配置了同步用户。 接下来，我们需要将Marketo和Dynamics联系起来。
 
