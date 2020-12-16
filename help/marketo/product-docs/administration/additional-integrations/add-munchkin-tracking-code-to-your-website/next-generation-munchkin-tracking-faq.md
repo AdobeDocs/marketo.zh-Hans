@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: 下一代Munchkin跟踪常见问题解答- Marketo Docs —— 产品文档
 title: 下一代Munchkin跟踪常见问题解答
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 下一代Munchkin跟踪常见问题解答 {#next-generation-munchkin-tracking-faq}
 
 我们很高兴地宣布，我们将很快开始分阶段推出我们的下一代网络跟踪技术。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 以下是最重要的信息：
 
