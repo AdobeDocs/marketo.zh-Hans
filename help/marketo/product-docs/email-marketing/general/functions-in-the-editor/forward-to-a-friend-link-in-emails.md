@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: 转发到电子邮件- Marketo Docs —— 产品文档中的好友链接
 title: 转发到电子邮件中的朋友链接
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 在您的电子邮件中添加“转发到朋友”链接，可跟踪通过此链接收到转发电子邮件的用户，如果他们不在数据库中，还可自动将他们添加为新用户。
 
 例如，假设Keith使用“转发给朋友”链接将电子邮件转发给未知人物Mark。 Mark会自动添加为新人，并被分配自己的Cookie，并且他的任何电子邮件和Web活动都与他关联。 但是，如果Keith使用其电子邮件客户端中的前进按钮，Mark会被错误地调用Keith语音，而他的活动则被记录为Keith&#39;s。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 添加指向电子邮件模板的链接 {#add-the-link-to-an-email-template}
 
