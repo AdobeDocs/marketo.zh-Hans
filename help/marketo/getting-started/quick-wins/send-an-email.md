@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: 发送电子邮件- Marketo Docs —— 产品文档
 title: 发送电子邮件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,9 @@ ht-degree: 0%
 
 这是每个人都想做的第一件事。 让我们从Marketo发送电子邮件！
 
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [设置并添加人物](get-set-up-and-add-a-person.md)
-
->
-
-
+>[设置并添加人物](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## 创建电子邮件项目 {#create-an-email-program}
 
@@ -39,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 输入**名称**，然后选择“ **电子邮件** ”作 **为项目类型。**
+1. 输入名 **称** ，然后选 **择“电** 子邮件 **”作为项目类型。**
 
    >[!TIP]
    >
@@ -47,11 +37,9 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在**渠道下，选 **择“**&#x200B;电子邮件发送&#x200B;**”，然**&#x200B;后单击&#x200B;**“创建”。** **
+1. 在“ **渠道**”下，选 **择“电子邮件发送** ”，然 **后单击“**&#x200B;创建”。
 
-   ** ![](assets/image2015-3-2-16-3a25-3a18.png)
-
-   **
+   ![](assets/image2015-3-2-16-3a25-3a18.png)
 
 ## 定义受众 {#define-your-audience}
 
@@ -73,10 +61,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >如果电子邮件未自动填充，您可能忘记了“设 [置并添加潜在客户”。](get-set-up-and-add-a-person.md)
+   >如果电子邮件未自动填充，您可能忘记了“设 [置并添加潜在客户”。](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
@@ -94,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. 输入 **名称**，选择 **模板**，然后单击**创建**。
+1. 输入名 **称**，选择模 **板**，然后单 **击创建**。
 
    ![](assets/ten-1.png)
 
@@ -106,7 +91,7 @@ ht-degree: 0%
    >
    >如果您有弹出窗口阻止程序，请单击“ **编辑草稿** ”以输入电子邮件编辑器。
 
-1. 选择要编辑的区域，单击右侧的齿轮图标，然后选择**编辑**(您也可以多次单击要编辑的部分)。
+1. 选择要编辑的区域，单击右侧的齿轮图标，然后选择“编 **辑** ”(也可以多次单击要编辑的可编辑部分)。
 
    ![](assets/twelve.png)
 
@@ -124,7 +109,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >想给自己发送一个快速示例，了解您的电子邮件在启动前的外观？ 在上 **面的菜单中** ，选择“发送示例”，或依次单 **击“电子邮件操作** ”和“ [**发送示例”**](../../product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)。
+   >想给自己发送一个快速示例，了解您的电子邮件在启动前的外观？ 在上 **面的菜单中** ，选择“发送示例”，或依次单 **击“电子邮件操作** ”和“ [**发送示例”**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)。
 
 1. 在左树中选择电子邮件项目。
 
@@ -140,7 +125,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >默认时区不是您的吗？ 单击此处了 [解如何更新它](https://docs.marketo.com/display/DOCS/Select+Your+Language,+Locale+and+Time+Zone#SelectYourLanguage,LocaleandTimeZone-ChangeUserLanguage,Locale&amp;Timezone)。
+   >默认时区不是您的吗？ 单击此处了 [解如何更新它](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)。
 
 1. 单击 **“批准** ”拼贴下的“批准项目”，您就完成了！
 
@@ -150,4 +135,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄设置并添加带有表单](get-set-up-and-add-a-person.md)[的潜在客户登陆页](landing-page-with-a-form.md)
+[◄设置和添加线索](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+
+[登陆页表单►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
