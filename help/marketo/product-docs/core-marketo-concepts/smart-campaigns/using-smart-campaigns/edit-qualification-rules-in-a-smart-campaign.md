@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: 在智能活动中编辑资格规则- Marketo Docs —— 产品文档
 title: 在智能活动中编辑资格规则
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 在智能活动中编辑资格规则 {#edit-qualification-rules-in-a-smart-campaign}
 
 资格规则控制某人在智能活动中流程的次数。 默认情况下，即使某人多次触发智能活动，它们也只会通过流发送一次。 下面介绍如何修改这些设置。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 在智能活动中，单击“ **计划** ”选项卡， **然后单击“编辑设置”**。
 
