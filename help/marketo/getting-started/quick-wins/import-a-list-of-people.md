@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: 导入人员列表- Marketo Docs —— 产品文档
 title: 导入人员列表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,21 @@ ht-degree: 0%
 
 ## 任务：将贸易展会与会者的电子表格列表导入您的数据库 {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [设置并添加人物](get-set-up-and-add-a-person.md)
+>[设置并添加人物](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
->
-
-
-
-`   
-`  在本教程中，您将学习如何将人员从电子表格文件导入Marketo。
+在本教程中，您将学习如何将人员从电子表格文件导入Marketo。
 
 ## 第1步：下载和编辑电子表格 {#step-download-and-edit-a-spreadsheet}
 
-1. 要进行开始，请将我们的练习电子表格文 [件(** tradeshow-retades](http://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv).csv**)下载到您的计算机。
+1. 要进行开始，请将我们的练习电子表格&#x200B;[**文件(tradeshow-retades**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv).csv)下载到您的计算机。
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >导入日期时，请使用以下格式： **9/21/15** （月／日/年）。
+   >导入日期时，请使用以下格式： **9/21/20** （月／日/年）。
 
    >[!NOTE]
    >
@@ -67,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **将项目命** 名为“我的贸易展项目”，然后为“事件”类型选 **择“项目”。**
+1. **将项目命** 名为“我的贸易展项目”，然后为“事件”选择“ **项目”**。
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -77,9 +63,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
->事件项目在特定日期发生。 进一步了解 [**事件**](http://docs.marketo.com/display/docs/events)。
+>事件项目在特定日期发生。 进一步了解 [**事件**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)。
 
 ## 第3步：将电子表格导入Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -115,11 +99,9 @@ ht-degree: 0%
    >
    >在列表导入模式下，选 **择跳过新人和更新** ，意味着您不会影响现有人员记录或记录任何活动。 如果您希望对现有人员进行快速、预过滤的静态列表，以便在营销活动中使用，请使用此模式。 选择此模式将：
    >
-   >    
-   >    
-   >    * 跳过新人创建
-   >    * 跳过人员字段更新
-   >    * 跳过活动记录
+   > * 跳过新人创建
+   > * 跳过人员字段更新
+   > * 跳过活动记录
 
 
 1. 将您的列表列字段映射到相应的营销人员字段，然后单 **击下一步**。
@@ -128,7 +110,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >列标题应始终与字段完全匹配（区分大小写），以获得最佳自动映射结果。 如果您使用的是自定义字段，但在下拉列表中看不到这些字段，请返回并创 [建它们](http://docs.marketo.com/display/DOCS/Create+a+Custom+Field+in+Marketo) ，以便它们成为选项。
+   >列标题应始终与字段完全匹配（区分大小写），以获得最佳自动映射结果。 如果您使用的是自定义字段，但在下拉列表中看不到这些字段，请返回并创 [建它们](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) ，以便它们成为选项。
 
    >[!NOTE]
    >
@@ -148,9 +130,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
->您可以通过跟踪项目成员身份来分析项目的成功。 进一步了解 [**项目**](http://docs.marketo.com/display/docs/programs)。
+>您可以通过跟踪项目成员身份来分析项目的成功。 进一步了解 [**项目**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)。
 
 ## 任务完成 {#mission-complete}
 
@@ -158,4 +138,6 @@ ht-degree: 0%
 
 <br> 
 
-[÷¿î:电子邮件自动响](email-auto-response.md)[应任务6:滴水，滴水，培养](drip-drip-nurture.md)
+[÷¿î:电子邮件自动响应](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+
+[任务6:滴水，滴水，培养](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
