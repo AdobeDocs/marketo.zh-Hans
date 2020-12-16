@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: 简单评分——营销文档——产品文档
 title: 简单评分
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,10 @@ ht-degree: 0%
 
 # 简单评分 {#simple-scoring}
 
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
 >* [设置并添加人物](get-set-up-and-add-a-person.md)
 >* [登陆页表单](landing-page-with-a-form.md)
-
->
-
 
 
 ## 第1步：创建评分活动 {#step-create-a-scoring-campaign}
@@ -68,11 +59,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您通过快速 [赢取表单完成登陆页](landing-page-with-a-form.md) ，您应该有该表单。 如果您为表单使用了其他名称，请选择该名称。
+   >如果您通过快速 [赢取表单完成登陆页](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) ，您应该有该表单。 如果您为表单使用了其他名称，请选择该名称。
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. 单击**流**选项卡。
+1. 单击“流 **”** (Flow)选项卡。
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -86,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >良好的评分活动是为销售人员提供高质量人员的关键。 阅 [**读潜在客户评分的最终指南**](http://www.marketo.com/definitive-guides/lead-scoring/)。
+   >良好的评分活动是为销售人员提供高质量人员的关键。 阅 [**读潜在客户评分的最终指南**](https://www.marketo.com/definitive-guides/lead-scoring/)。
 
 1. 单击 **计划** 选项卡和 **激活** 按钮。
 
@@ -102,7 +93,7 @@ ht-degree: 0%
 
 ## 第2步：填写表单 {#step-fill-out-the-form}
 
-1. 通过快速赢取表单选择 [您在登陆页中创](landing-page-with-a-form.md) 建的登陆页。
+1. 通过快速赢取表单选择 [您在登陆页中创](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) 建的登陆页。
 
    ![](assets/fourteen-1.png)
 
@@ -110,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. 用您的名字、姓氏和电子邮件地址填写表单，然后单击“提 **交”** 。
+1. 用您的名字、姓氏和电子邮件地址填写表单，然后单击“提 **交”**。
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -137,4 +128,6 @@ ht-degree: 0%
 ![](assets/twenty.png)
 
 **恭喜！** 您创建了评分活动。
-[÷¿î:登陆页，表](landing-page-with-a-form.md)[单任务4:电子邮件自动响应►](email-auto-response.md)
+[÷¿î:登陆页表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+
+[任务4:电子邮件自动响应►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
