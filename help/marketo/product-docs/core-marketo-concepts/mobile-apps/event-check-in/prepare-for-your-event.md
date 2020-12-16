@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: 准备事件-营销文档——产品文档
 title: 准备事件
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # 准备事件 {#prepare-for-your-event}
 
 要准备事件，您必须做几件事。
-
->[!NOTE]
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](/help/marketo/getting-started/updates-to-marketo-terminology.md)。
 
 ## 创建新的营销人员角色 {#create-a-new-marketo-role}
 
