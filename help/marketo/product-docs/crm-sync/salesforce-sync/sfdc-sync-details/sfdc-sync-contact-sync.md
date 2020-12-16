@@ -3,21 +3,15 @@ unique-page-id: 2953457
 description: SFDC Sync —— 联系人同步- Marketo Docs —— 产品文档
 title: SFDC同步——联系同步
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
 
 # SFDC同步：联系同步 {#sfdc-sync-contact-sync}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 您知道Marketo会将您的整个数据库与Salesforce同步吗？ 它会同步，然后等待5分钟，然后每天再次同步。 以下是有关Marketo如何具体处理Salesforce联系人的一些详细信息。
 
