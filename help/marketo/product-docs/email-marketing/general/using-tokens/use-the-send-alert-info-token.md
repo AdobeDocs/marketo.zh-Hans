@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: 使用发送警报信息令牌{{SP_Send_Alert_Info}} - Marketo文档——产品文档
 title: 使用发送警报信息令牌
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 使用发送警报信息令牌 {#use-the-send-alert-info-token-sp-send-alert-info}
 
 该 `{{SP_Send_Alert_Info}}` 令牌是为销售团队创建警报电子邮件时使用的特殊令牌。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!TIP]
 >
