@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: 自动触发活动清理- Marketo Docs —— 产品文档
 title: 自动触发活动清除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 自动触发活动清除 {#automatic-trigger-campaign-cleanup}
 
 Marketo有一项不错／免费的服务，可以取消激活触发式智能活动，不再获得活动。 这加快了系统的整体性能并节省了时间。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 会发生什么？ {#what-happens}
 
