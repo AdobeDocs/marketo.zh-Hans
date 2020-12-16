@@ -3,9 +3,9 @@ unique-page-id: 2360014
 description: People Performance Report - Marketo Docs —— 产品文档
 title: 人员绩效报告
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 人员绩效报告 {#people-performance-report}
 
 使用人员绩效报告衡量数据库随时间增长。 您可以查看添加的人数以及时间。 进一步了解人员并评估项目。 按任何人或公司属性或细分对结果进 [行分组](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. [创建报告](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，然后选择“ **人员**[性能”报告类型](report-type-overview.md)。
 1. [设置报告的时间范围](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然后单击“报 **告** ”选项卡。
