@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: 向潜在客户报告添加业务机会列- Marketo Docs —— 产品文档
 title: 向潜在客户报表添加业务机会列
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 向潜在客户报表添加业务机会列 {#add-opportunity-columns-to-a-lead-report}
 
 要查看人员报告中有关机会的 [统计信息](http://docs.marketo.com/display/docs/basic+reporting)，您可以添加机会列。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 转到“营销 **活动** ”区域。
 
