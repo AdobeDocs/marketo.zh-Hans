@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: 了解批处理和触发智能活动- Marketo Docs —— 产品文档
 title: 了解批处理和触发智能活动
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 了解批处理和触发智能活动 {#understanding-batch-and-trigger-smart-campaigns}
 
 智能活动有两种类型：批处理和触发器。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 批智能活动 {#batch-smart-campaign}
 
