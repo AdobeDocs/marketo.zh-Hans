@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: 个性化电子邮件——营销文档——产品文档
 title: 个性化电子邮件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,16 @@ ht-degree: 0%
 
 ## 任务：通过添加数据令牌，使您的电子邮件个性化 {#mission-make-your-emails-personal-by-adding-data-tokens}
 
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [设置并添加人物](get-set-up-and-add-a-person.md)
->* [发送电子邮件爆炸](send-an-email.md)
->* [滴水，滴水，培养](drip-drip-nurture.md)
+>* [设置并添加人物](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [发送电子邮件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [滴水，滴水，培养](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## 第1步：选择要个性化的电子邮件 {#step-select-an-email-to-personalize}
 
-1. 选择在上一个快速赢取中创建的培养电 [子邮件之一](drip-drip-nurture.md) ，然后单 **击“编辑草稿”**。
+1. 选择在上一个快速赢取中创建的培养电 [子邮件之一](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) ，然后单 **击“编辑草稿”**。
 
    ![](assets/one-4.png)
 
@@ -38,9 +32,7 @@ ht-degree: 0%
    >
    >这将创建电子邮件副本作为草稿。 您必须批准草稿，更改才能生效。
 
-   **编辑草稿**
-
-如果尚未启用弹出窗口阻止程序，则电子邮件编辑器将在新的选项卡／窗口中打开。 否则，单击两次。
+如果尚未启用弹出窗口阻止程序，则电子邮件编辑器将在新的选项卡／窗口中打开。 否则，单击“编 **辑草稿** ”两次。
 
 ## 第2步：让销售人员成为发件人 {#step-make-the-salesperson-the-sender}
 
@@ -108,11 +100,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->需要快速复习一下如何给自己发送电子邮件的方法？ 请参 [阅发送电子邮件爆炸](send-an-email.md)。
-
-### 观看视频 {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>需要快速复习一下如何给自己发送电子邮件的方法？ 请参 [阅发送电子邮件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md)。
 
 ### 任务完成 {#mission-complete}
 
@@ -120,4 +108,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄任务6:滴滴，滴滴，培养](drip-drip-nurture.md)[使命8:提醒销售代表►](alert-the-sales-rep.md)
+[◄任务6:滴水，滴水，培养](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+
+[任务8:提醒销售代表►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
