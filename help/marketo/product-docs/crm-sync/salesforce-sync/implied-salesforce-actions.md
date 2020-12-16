@@ -3,21 +3,15 @@ unique-page-id: 4719304
 description: 默示的Salesforce操作- Marketo文档——产品文档
 title: 隐含的Salesforce操作
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 
 # 隐含的Salesforce操作 {#implied-salesforce-actions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 运行特定于Salesforce的流步骤时，有时会自动执行额外步骤。 以下是规则，您知道：
 
