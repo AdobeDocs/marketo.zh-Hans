@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: 提醒销售代表- Marketo Docs —— 产品文档
 title: 提醒销售代表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,9 @@ ht-degree: 0%
 
 要自动向销售代表发送提醒电子邮件，您只需要一封提醒电子邮件和一封电子邮件活动。 下面介绍如何实现。
 
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [登陆页表单](landing-page-with-a-form.md)
-
->
-
-
+>[登陆页表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## 第1步：创建警报电子邮件 {#step-create-an-alert-email}
 
@@ -37,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/one-5.png)
 
-1. 选 **择您** 在登陆页中用Form [quick win创建的My Asset](landing-page-with-a-form.md) ，然后在New（新建）下 **单** 击New **Local Asset**。
+1. 选 **择您** 在登陆页中用Form [quick win创建的My Asset](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) ，然后在New（新建）下 **单** 击New **Local Asset**。
 
    ![](assets/two-6.png)
 
@@ -71,7 +61,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}}是警报电子邮件的特殊令牌。 请参 [阅使用发送警报信息令牌](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) ，了解更多信息。
+   >{{SP_Send_Alert_Info}}是警报电子邮件的特殊令牌。 请参 [阅使用发送警报信息令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) ，了解更多信息。
 
 1. 单击 **保存**。
 
@@ -87,7 +77,7 @@ ht-degree: 0%
 
 ## 第2步：创建警报触发器活动 {#step-create-an-alert-trigger-campaign}
 
-1. 选择 **之前创建** 的“我的项目 **”，然后在“**新建”**下单击“**&#x200B;新建智能活动”。
+1. 选择 **之前创建** 的我的项目 **，然后在“新建”** 下 **单击**“新建智能活动”。
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -115,12 +105,11 @@ ht-degree: 0%
 
    ![](assets/nineteen-2.png)
 
-1. 转到“ **计划** ”选项卡，单击“**激活**”按钮。
+1. 转到“ **计划** ”选项卡，单 **击“激活** ”按钮。
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >将“资 **格规** 则 **”设置为** 每次(通过编辑智能活动)，以允许同一人多次触发警报。
 
@@ -135,9 +124,6 @@ ht-degree: 0%
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >别忘了批准登陆页;他们直到获得批准才上线。
 
@@ -155,4 +141,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄任务7:个性化电子邮件](personalize-an-email.md)[任务9:更新潜在客户数据►](update-person-data.md)
+[◄任务7:个性化电子邮件](personalize-an-email.md)
+
+[任务9:更新潜在客户数据►](update-person-data.md)
