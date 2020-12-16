@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: 活动活动报告- Marketo Docs —— 产品文档
 title: 活动活动报告
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 活动活动报告 {#campaign-activity-report}
 
 了解您的智 [能活动](http://docs.marketo.com/display/docs/smart+campaigns) 的表现。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. [创建报告](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，然后选择 **活动** 活动 [](report-type-overview.md)报告类型。
 1. [设置报告的时间范围](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然后单击“报 **告** ”选项卡。
