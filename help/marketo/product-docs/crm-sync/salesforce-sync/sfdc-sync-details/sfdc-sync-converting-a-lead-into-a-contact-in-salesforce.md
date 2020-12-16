@@ -3,21 +3,15 @@ unique-page-id: 2953465
 description: SFDC同步——在Salesforce中将潜在客户转换为联系人- Marketo文档——产品文档
 title: SFDC同步——在Salesforce中将潜在客户转换为联系人
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 
 # SFDC同步：在Salesforce中将潜在客户转换为联系人 {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 想象Salesforce中的三种不同情况：(不使用Marketo [中的“转换人员流](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) ”步骤)
 
