@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Marketo术语的更新- Marketo Docs —— 产品文档
 title: Marketo术语更新
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -150,4 +150,3 @@ ht-degree: 0%
 >主屏幕上显示的拼贴将反映所购买的模块。
 
 感谢您在此更新期间耐心等待。
-
