@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: 将自定义列添加到人员报告- Marketo Docs —— 产品文档
 title: 向人员报表添加自定义列
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 向人员报表添加自定义列 {#add-custom-columns-to-a-person-report}
 
 您可以将智能列表用作自 [定义列](http://docs.marketo.com/display/docs/basic+reporting) ，进一 [步筛选人员报](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) 表中的指标。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 转到“营 **销活动** ”(或 **“分析**”)区域。
 
