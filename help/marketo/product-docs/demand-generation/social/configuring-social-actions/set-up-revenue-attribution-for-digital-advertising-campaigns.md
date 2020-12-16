@@ -3,21 +3,15 @@ unique-page-id: 10098812
 description: 为数字广告活动设置收入归因- Marketo Docs —— 产品文档
 title: 为数字广告活动设置收入归因
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
 
 
 # 为数字广告活动设置收入归因 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 下面介绍如何为数字广告渠道和活动设置收入归因。 设置后，您可以像其他营销项目一样对数字广告进行首次接触和多次接触收入归因。
 
