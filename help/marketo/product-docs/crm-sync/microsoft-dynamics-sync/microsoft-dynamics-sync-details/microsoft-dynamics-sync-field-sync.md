@@ -3,21 +3,15 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs —— 产品文档
 title: Microsoft Dynamics Sync —— 字段同步
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
 
 
 # Microsoft Dynamics同步：字段同步 {#microsoft-dynamics-sync-field-sync}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 Marketo到Dynamics同步功能非常强大。 下面是详细信息。
 
