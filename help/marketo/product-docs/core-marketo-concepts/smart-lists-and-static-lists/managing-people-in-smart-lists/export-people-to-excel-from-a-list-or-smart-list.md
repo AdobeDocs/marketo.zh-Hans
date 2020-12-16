@@ -3,9 +3,9 @@ unique-page-id: 557329
 description: 将人员从列表或智能列表导出到Excel - Marketo Docs —— 产品文档
 title: 将人员从列表或智能列表导出到Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 将人员从列表或智能列表导出到Excel {#export-people-to-excel-from-a-list-or-smart-list}
 
 如果您在Marketo之外需要列表或智能列表结果，可轻松导出到Excel。 这是方法。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 转到营 **销活动**。
 
