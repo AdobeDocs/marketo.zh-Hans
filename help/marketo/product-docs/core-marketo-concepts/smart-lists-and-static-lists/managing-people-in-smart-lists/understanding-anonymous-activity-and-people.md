@@ -3,9 +3,9 @@ unique-page-id: 1147322
 description: 了解匿名活动和人员——营销文档——产品文档
 title: 了解匿名活动和人员
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 了解匿名活动和人员 {#understanding-anonymous-activity-and-people}
 
 第一次有人访问Marketo [l( `anding page`](http://docs.marketo.com/display/DOCS/Personalizing+Landing+Pages) 或您网站上包含Munchkin跟踪代码的页面 [)时，Marketo会创建一个*匿名的*](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)** 活动，并使用浏览器Cookie跟踪它。 一旦识别出来，它就变成人，与其浏览器cookie关联的历史记录将被合并。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 **当某人** :
 
