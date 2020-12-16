@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo术语表- Marketo Docs —— 产品文档
 title: Marketo术语表
 translation-type: tm+mt
-source-git-commit: ca1f8ba28b3e3c096a86fe4c1ba8c96529b97b84
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -482,7 +482,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>潜在客户</strong></td> 
-   <td>在 <strong>Marketo Engage</strong>，潜在客户是之前的术语(<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">由人 <strong>员替换</strong></a>)，用于描述您通过营销活动与Marketo数 <strong></strong> 据库中的个人。 在您的 <strong>CRM</strong>中，潜在客户可能代表与Marketo的功能无关的不同概念(即与 <strong>机会</strong>关联的个人)。</td> 
+   <td>在 <strong>Marketo Engage</strong>，潜在客户是之前的术语(由人 <strong>替换</strong>)，用于描述您通过营销活动参与的Marketo数 <strong>据库中</strong> 的个人。 在您的 <strong>CRM</strong>中，潜在客户可能代表与Marketo的功能无关的不同概念(即与 <strong>机会</strong>关联的个人)。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>潜在客户数据库</strong></td> 
