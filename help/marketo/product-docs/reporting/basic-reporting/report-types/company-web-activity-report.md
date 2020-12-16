@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: 公司Web活动报告- Marketo Docs —— 产品文档
 title: 公司Web活动报告
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 公司Web活动报告 {#company-web-activity-report}
 
 查看哪些公司正在访问您的网站。 您可以选择显示已知或匿名访客，但不能同时显示同一报告中的两者。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 创建网 [页活动报告](web-page-activity-report.md) ，查看访问您网站的个人。
 
