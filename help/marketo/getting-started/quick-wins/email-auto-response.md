@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: 电子邮件自动响应——营销文档——产品文档
 title: 电子邮件自动响应
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## 任务：在用户填写表单时发送感谢电子邮件 {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [设置并添加人物](get-set-up-and-add-a-person.md)
->* [登陆页表单](landing-page-with-a-form.md)
-
->
-
+>* [设置并添加人物](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [登陆页表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
 ## 第1步：创建电子邮件 {#step-create-an-email}
@@ -48,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   将在新窗口或选项卡中打开电子邮件编辑器。 如果弹出窗口被阻止，请单击资产摘要页面上的“编辑草稿”**，以访问电子邮件。
+   将在新窗口或选项卡中打开电子邮件编辑器。 如果弹出窗口被阻止，请单 **击资产摘要页** 上的“编辑草稿”以访问电子邮件。
 
 1. 输入主题行，然后多次单击电子邮件的可编辑区域。
 
    ![](assets/five-2.png)
 
-   将在电子邮件编辑器顶部打开富文本编辑器。
+   _将在电子邮件编辑器顶部打开富文本编辑器。_
 
 1. 突出显示现有电子邮件内容。
 
@@ -82,39 +73,41 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. 转到**智能列表**选项卡。
+1. 转至“智能 **列表** ”选项卡。
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   我们将设置此活动，以便用户在用表单填写您在登陆页中创建 [**的表单时运行**](landing-page-with-a-form.md)。
+   我们将设置此活动，以便用户在用表单填写您在登陆页中创建 [**的表单时运行**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)。
 
 1. 查找并将“填 **充表单”触发** 器拖动到左侧画布。
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. 在下 **拉框中** ，选择“我的表单”。 单击**流**选项卡。
+1. 在下 **拉框中** ，选择“我的表单”。 单击“流 **”** (Flow)选项卡。
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. 将**“发送电子邮件”**“流”操作拖至左侧画布。
+1. 将“发送 **电子邮件** ”流动操作拖至左侧画布。
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. 选择 **自动回复** “电子邮件”并转至**计划**选项卡。
+1. 选择“自 **动响应电子邮件** ”，然后转 **至“计划** ”选项卡。
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
 1. 单击 **编辑**。
 
    ![](assets/8.png)
-每次选择，然后单击“保存”。
+
+1. 每次 **选择** ，然后单击 **保存**。
+
    ![](assets/9.png)
 
 1. 单击 **激活**。
 
    ![](assets/10.png)
 
-1. 单击确认屏幕上的**激活**。
+1. 单击 **确认屏** 上的激活。
 
    ![](assets/11.png)
 
@@ -124,7 +117,7 @@ ht-degree: 0%
 
 ## 第3步：填写表单 {#step-fill-out-the-form}
 
-1. 选择 **我的页面**。 这是在登陆页 [中通过快速赢取表单](landing-page-with-a-form.md) 创建的。
+1. 选择 **我的页面**。 这是在登陆页 [中通过快速赢取表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) 创建的。
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -148,4 +141,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄任务3:简单评分](simple-scoring.md)[任务5:导入列表Lead](import-a-list-of-people.md)
+[◄任务3:简单评分](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+
+[任务5:导入列表Lead](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
