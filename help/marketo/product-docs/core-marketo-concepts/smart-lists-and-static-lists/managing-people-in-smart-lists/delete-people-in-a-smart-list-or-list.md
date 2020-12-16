@@ -3,9 +3,9 @@ unique-page-id: 1146897
 description: 删除智能列表或列表中的人员- Marketo Docs —— 产品文档
 title: 在智能列表或列表中删除人员
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 在智能列表或列表中删除人员 {#delete-people-in-a-smart-list-or-list}
 
 您可以快速轻松地删除列表或智能列表中的某些人／所有人。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!PREREQUISITES]
 >
