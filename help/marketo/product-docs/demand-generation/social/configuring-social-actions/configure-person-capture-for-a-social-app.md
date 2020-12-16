@@ -3,9 +3,9 @@ unique-page-id: 2950547
 description: 为社交应用程序配置人员捕获- Marketo文档——产品文档
 title: 为社交应用程序配置人员捕获
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 为社交应用程序配置人员捕获 {#configure-person-capture-for-a-social-app}
 
 在创建推荐 [优惠](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或抽奖 [时](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以配置您请求的信息以及您要求人员提供的信息，以便参与。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
