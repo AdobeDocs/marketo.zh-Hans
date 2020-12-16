@@ -3,21 +3,15 @@ unique-page-id: 2359953
 description: 内容已用尽的人员- Marketo Docs —— 产品文档
 title: 已累积内容的人
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # 已累积内容的人 {#people-who-have-exhausted-content}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 当用户收到流中的每一条内容时，它已用尽了所有可能性，并将等待空闲，直到添加更多内容。 你可以从几种方式找到“精疲力尽”的人。
 
