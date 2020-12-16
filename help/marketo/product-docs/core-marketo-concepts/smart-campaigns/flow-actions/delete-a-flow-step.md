@@ -3,21 +3,15 @@ unique-page-id: 1146987
 description: 删除流程步骤- Marketo Docs —— 产品文档
 title: 删除流步骤
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
 
 # 删除流步骤 {#delete-a-flow-step}
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!CAUTION]
 >
