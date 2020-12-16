@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: 管理社交用户档案数据——营销文档——产品文档
 title: 管理社交用户档案数据
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 管理社交用户档案数据 {#manage-social-profile-data}
 
 当某人与Marketo社交应用 [程序交互](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)，或授权其社交网络用社交表单填写Marketo表单时， [Marketo将捕获其社交用户档案中提供的所有数据](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)。 您可以在“人员详细信 [息”页面上视图](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)，或将其添加为智能列表 [的自定义视图中的列](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 社交表单填写和社交应用程序捕获的字段集略有不同；请参阅以下各节。
 
