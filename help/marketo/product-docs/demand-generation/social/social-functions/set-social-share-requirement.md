@@ -3,9 +3,9 @@ unique-page-id: 2359821
 description: 设置社交共享要求- Marketo Docs —— 产品文档
 title: 设置社交共享要求
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 设置社交共享要求 {#set-social-share-requirement}
 
 创建 [推荐优惠时](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以要求人员共享优惠以便注册，或将其设为可选。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 转到营 **销活动**。
 
