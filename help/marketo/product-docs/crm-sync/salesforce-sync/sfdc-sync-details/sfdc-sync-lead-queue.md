@@ -3,9 +3,9 @@ unique-page-id: 7516241
 description: SFDC同步——潜在客户队列- Marketo文档——产品文档
 title: SFDC同步——潜在客户队列
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # SFDC同步：潜在客户队列 {#sfdc-sync-lead-queue}
 
 Marketo允许您向Salesforce潜在客户队 [列添加人员](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) ，以帮助进行潜在客户分发。 下面是详细信息。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 如何在Marketo中将人员分配到队列？ {#how-to-assign-a-person-to-a-queue-in-marketo}
 
