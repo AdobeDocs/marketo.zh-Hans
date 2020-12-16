@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: 使用“请求活动”设置销售的触发器智能活动- Marketo文档——产品文档
 title: 使用“请求活动”设置销售的触发器智能活动
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 使用“请求活动”设置销售的触发器智能活动 {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Marketo最酷的功能之一是让销售人员参与营销工作。 他们在前线与人互动。 销售代表应能够引导营销向正确的方向发展。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
