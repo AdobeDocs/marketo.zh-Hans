@@ -3,9 +3,9 @@ unique-page-id: 2949413
 description: 向智能列表过滤器- Marketo Docs —— 产品文档添加约束
 title: 向智能列表滤镜添加约束
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 创建智能列表时，某些过滤器具有名为*constraints的高级选项。 *您可以向过滤器和触发器添加这些附加条件，以帮助进一步缩小搜索范围。
 
 在此示例中，让我们向**数据值已更 [改*](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)*过滤器添加一些约束，以查找状态从MQL更改为SQL的人员。
-
->[!NOTE]
->
->**FYI**
->
->Marketo现在正在所有订阅实现语言标准化，因此您可能会在订阅和docs.marketo.com中看到潜在客户／潜在客户。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他变化。 [了解更多](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!PREREQUISITES]
 >
