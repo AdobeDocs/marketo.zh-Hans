@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: 重定向登陆页- Marketo文档——产品文档
 title: 重定向登陆页
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,12 +21,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [设置并添加人物](get-set-up-and-add-a-person.md)
->* [登陆页表单](landing-page-with-a-form.md)
->* [使用CNAME自定义登陆页URL](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
-
->
-
+>* [设置并添加人物](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [登陆页表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [使用CNAME自定义登陆页URL](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
 
 ## 第1步：开始新的重定向规则 {#step-start-a-new-redirect-rule}
@@ -35,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/admin.png)
 
-1. 转到**登陆页**。
+1. 转到 **登陆页**。
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
@@ -45,18 +42,15 @@ ht-degree: 0%
 
 ## 第2步：定义重定向规则 {#step-define-the-redirect-rule}
 
-1. 单击第一个**原始URL **下拉框，选择您的Marketo CNAME。
+1. 单击第一个 **原始URL** 下拉框，然后选择您的Marketo CNAME。
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >请记住，您只能将登陆页重定向到您的Marketo [CNAME](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
+   >请记住，您只能将登陆页重定向到您的Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
 
-1. 单击第二个**原始URL **下拉框，然后选择要重定向的登陆页。
+1. 单击第二个 **“原始** URL”下拉框，然后选择要重定向的登陆页。
 
    ![](assets/image2014-9-24-13-3a30-3a50.png)
 
@@ -70,4 +64,4 @@ ht-degree: 0%
 
 <br> 
 
-[÷¿î:更新潜在客户数据](update-person-data.md)
+[÷¿î:更新潜在客户数据](/help/marketo/getting-started/quick-wins/update-person-data.md)
