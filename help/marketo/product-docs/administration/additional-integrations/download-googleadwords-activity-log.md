@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 下载GoogleAdwords活动日志 {#download-googleadwords-activity-log}
+# 下载GoogleAdwords活动日志{#download-googleadwords-activity-log}
 
 事情发生了。 有时，您需要下载活动日志来解决问题。
 
-1. 转到“管 **理员** ”并单 **击LaunchPoint**。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**LaunchPoint**。
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. 查找您的Google AdWords服务，然后单击“ **下载活动日志**”。
+1. 找到您的Google AdWords服务，然后单击&#x200B;**下载活动日志**。
 
    ![](assets/image2015-4-22-17-3a49-3a49.png)
 
