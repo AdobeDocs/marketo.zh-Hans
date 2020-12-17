@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# CRM同步 {#crm-sync}
+# CRM同步{#crm-sync}
 
-** ![SFDC](assets/sfdc.png)SyncSFDC同步** [SFDC同步世界上最酷的Salesforce同步。 说真的，太棒了。](https://docs.marketo.com/display/DOCS/Salesforce+Sync)     ** ![Microsoft Dynamic](assets/dynamics.png)SyncMicrosoft Dynamic Sync** [Microsoft Dynamic Sync Microsoft正在通过其CRM展示一些有趣的新技巧。](https://docs.marketo.com/display/DOCS/Microsoft+Dynamics+Sync)
+** ![SFDC Sync](assets/sfdc.png)SFDC Sync** [SFDC同步世界上最酷的Salesforce同步。 说真的，太棒了。](https://docs.marketo.com/display/DOCS/Salesforce+Sync)     **  ![Microsoft Dynamic ](assets/dynamics.png)SyncMicrosoft Dynamic Sync**  [Microsoft Dynamic Sync Microsoft正在通过其CRM展示一些有趣的新技巧。](https://docs.marketo.com/display/DOCS/Microsoft+Dynamics+Sync)
