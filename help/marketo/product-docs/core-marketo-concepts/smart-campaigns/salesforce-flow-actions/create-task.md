@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 创建任务 {#create-task}
+# 创建任务{#create-task}
 
 作为营销人员，您可以获得有助于销售完成交易的信息。 您可以创建任务，让他们知道他们应该做什么以及何时应该做。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->当Marketo Sync用户正在创建任务时，“ **到期** ”是要在Salesforce中创建任务的必填字段。 如果没有值，Marketo将默认输入五天。
+>当Marketo Sync用户正在创建任务时，**Due In**&#x200B;是要在Salesforce中创建任务的必填字段。 如果没有值，Marketo将默认输入五天。
 
 默认情况下，流步骤将如下所示：   ![](assets/image2014-9-22-14-3a54-3a49.png)
 
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以在主 `{{lead.tokens}}`题和 `{{company.tokens}}`说明 `{{campaign.tokens}}` 中使 `{{system.tokens}}` 用、以 **及** 在中 ****&#x200B;使用。 有关更 [多详细信息，请参](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) 阅流步骤令牌。
+>可在&#x200B;**Subject**&#x200B;和&#x200B;**Description**&#x200B;中使用`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`和`{{system.tokens}}`。 有关详细信息，请参阅[流步骤令牌](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
 
