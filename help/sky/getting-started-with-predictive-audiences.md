@@ -29,8 +29,8 @@ AI/ML模型的性能取决于订阅中的数据。 模型使用频率越高，�
 
 预测受众会自动包含并激活，以用于使用Prime或Ultimate定价捆绑的实例。 要了解有关访问此功能的更多信息，请联系您的客户成功经理。
 
-1. 将该功能添加到实例后，请导 **[!UICONTROL Predictive Audiences]** 航到的 **[!UICONTROL Admin]** 页面 [!DNL Marketo Classic]。
+1. 将该功能添加到实例后，请导航到[!DNL Marketo Classic]**[!UICONTROL Admin]**&#x200B;区域的&#x200B;**[!UICONTROL Predictive Audiences]**&#x200B;页面。
 
-1. 选中&#x200B;**[!UICONTROL Enable Predictive Audiences]** 以激活该功能。 请注意，完成设置可能需要24小时的所有进程。
+1. 检查&#x200B;**[!UICONTROL Enable Predictive Audiences]**&#x200B;以激活该功能。 请注意，完成设置可能需要24小时的所有进程。
 
    ![图像1](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
