@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-对于高级开发人员，您可 [以通过设置](http://velocity.apache.org/engine/1.7/user-guide.html) “电子邮件脚本”令牌，在电子邮件中使用Velocity脚本。 下面介绍如何实现。
+对于高级开发人员，您可以通过设置电子邮件脚本令牌在电子邮件中使用[Velocity脚本](http://velocity.apache.org/engine/1.7/user-guide.html)。 下面介绍如何实现。
 
-1. 在项目 [!UICONTROL My Tokens] 或文件夹的选项卡中，将标记 **[!UICONTROL Email Script]** 拖动到画布 [!UICONTROL Local Tokens] 上。
+1. 在您的项目或文件夹的[!UICONTROL My Tokens]选项卡中，将&#x200B;**[!UICONTROL Email Script]**&#x200B;标记拖至[!UICONTROL Local Tokens]画布。
 
    ![图像1](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
@@ -39,6 +39,6 @@ ht-degree: 0%
    * [速度参考指南](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0文档](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. 脚本完成后，单击 **[!UICONTROL Save]**。
+1. 脚本完成后，单击&#x200B;**[!UICONTROL Save]**。
 
    ![图像4](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-4.png)
