@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 参与仪表板 {#the-engagement-dashboard}
+# 参与仪表板{#the-engagement-dashboard}
 
-参与仪表板是查看您的参与项目中内容的效果 [的最简](http://docs.marketo.com/display/docs/drip+nurturing) 单方法。
+参与仪表板是查看[参与项目](http://docs.marketo.com/display/docs/drip+nurturing)中的内容表现的最简单方法。
 
 >[!NOTE]
 >
->每次演出后72小时计算参与得分。 进一步了解参 [与情况](understanding-the-engagement-score.md)。
+>每次演出后72小时计算参与得分。 进一步了解[参与情况得分](understanding-the-engagement-score.md)。
 
-## 视图参与仪表板 {#view-the-engagement-dashboard}
+## 视图参与仪表板{#view-the-engagement-dashboard}
 
-选择您的参与项目，然后单击 **视图>仪表板**。
+选择您的参与项目，然后单击&#x200B;**视图>仪表板**。
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->查看参与流 [绩效报告](engagement-stream-performance-report.md) ，获得更详细的统计信息。
+>有关更详细的统计信息，请查看[参与流性能报告](engagement-stream-performance-report.md)。
 
-## 了解耗尽构件 {#understand-the-exhaustion-widget}
+## 了解耗尽小部件{#understand-the-exhaustion-widget}
 
 此构件可帮助您预测潜在客户何时耗尽所有内容。 在每次投出后立即计算耗尽分数。 以下示例显示，在1个转换中，195个潜在客户将耗尽所有内容。
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您必须进入“设置”选项卡，确保“已用尽的内容通 **知** ”已打开，才能看到上图。 如果它们关闭，则图表看起来会有所不同。
+>您必须进入“设置”选项卡，确保“已用尽的内容通知”为&#x200B;**“开启”**，才能看到上图。 如果它们关闭，则图表看起来会有所不同。
 
 >[!CAUTION]
 >
 >“精疲力尽”的人在下一场中不会收到任何通信。
 
-## 了解随时间推移的参与度构件 {#understand-the-engagement-over-time-widget}
+## 了解一段时间内的互动构件{#understand-the-engagement-over-time-widget}
 
 显示一段时间内的平均参与度得分以及内容编辑的影响。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## 了解最高参与度构件 {#understand-the-highest-engagement-widget}
+## 了解最高参与度构件{#understand-the-highest-engagement-widget}
 
 所有内容的列表，按最高参与度得分排序。
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*“最新* ”和“ *最旧* ”基于上次审批的时间。
+*Newestand* Oldestare基 ** 于上次批准的时间。
 
 >[!NOTE]
 >
 >**深潜**
 >
->深入了解 [创建参与项目](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 。
+>请阅读[创建参与项目](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)深入了解更多信息。
 
