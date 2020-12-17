@@ -16,10 +16,10 @@ ht-degree: 0%
 
 下面介绍如何设置用于项目和活动文件夹的文本令牌。
 
-1. 在项目 [!UICONTROL My Tokens] 或文件夹的选项卡中，将文本 **标记** 拖动到画 [!UICONTROL Local Tokens] 布。
+1. 在您的项目或文件夹的[!UICONTROL My Tokens]选项卡中，将&#x200B;**Text**&#x200B;标记拖动到[!UICONTROL Local Tokens]画布。
 
    ![图像1](/help/sky/assets/my-tokens/my-token-text/my-token-text-1.png)
 
-1. 输入新令牌的名称，然后添加您想要的任何文本。 单击 **[!UICONTROL Save]**。
+1. 输入新令牌的名称，然后添加您想要的任何文本。 单击&#x200B;**[!UICONTROL Save]**。
 
    ![图像2](/help/sky/assets/my-tokens/my-token-text/my-token-text-2.png)
