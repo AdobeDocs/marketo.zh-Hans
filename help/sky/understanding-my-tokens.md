@@ -14,14 +14,14 @@ ht-degree: 0%
 
 <br> 
 
-我的令牌是自定义变量，您可以在项目或活动文件夹中创建和使用。 它们的外观如下： `{{_my.Name of Token_}}`
+我的令牌是自定义变量，您可以在项目或活动文件夹中创建和使用。 它们的外观如下：`{{_my.Name of Token_}}`
 
 ## 示例
 
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-要访问和创建我的令牌，请选择您的项目或活动文件夹，然后转到选 [!UICONTROL My Tokens] 项卡。 将任何令牌拖放到画布 [!UICONTROL Local Tokens] 上。
+要访问和创建我的令牌，请选择您的项目或活动文件夹，然后转到[!UICONTROL My Tokens]选项卡。 将任何令牌拖放到[!UICONTROL Local Tokens]画布上。
 
 ![图像1](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 当您创建新令牌时，树中的其他对象可以引用该令牌。 可以在树的较低级别覆盖全局变量。 为便于管理创建令牌的位置提供了命名结构。
 
-* **本地令牌：** 标记直接在该项目或文件夹中创建。
-* **[被覆盖的令牌：](/help/sky/override-an-inherited-my-token.md)** 该令牌已继承，但在此项目或文件夹中出现异常。
-* **继承的令牌：** 标记是在树中某个较高级别的项目或文件夹中创建的。
+* **本地令牌：** 该令牌是直接在该项目或文件夹中创建的。
+* **[被覆盖的](/help/sky/override-an-inherited-my-token.md)** 令牌：该令牌已继承，但在此项目或文件夹中出现异常。
+* **继承的** 令牌：令牌是在较高级别项目或文件夹中的某个位置创建的。
 
-您可以在项目或活动文件夹 **[!UICONTROL My Tokens]** 的选项卡下找到这三种类型。
+您可以在项目或活动文件夹的&#x200B;**[!UICONTROL My Tokens]**&#x200B;选项卡下找到这三种类型。
 
 ![图像2](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
