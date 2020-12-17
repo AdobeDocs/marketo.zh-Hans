@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 重命名字段 {#rename-a-field}
+# 重命名字段{#rename-a-field}
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >单击使 **用者链接** ，以查找引用此字段的资产。
+   >单击&#x200B;**使用者**&#x200B;链接以查找引用此字段的资产。
 
    ![](assets/changefieldname.png)
 
