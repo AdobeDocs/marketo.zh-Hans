@@ -20,14 +20,14 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-1.png)
 
-1. 在智能活动操作下拉菜单中选择 **[!UICONTROL Clone]**。
+1. 在“智能活动操作”下拉框中，选择&#x200B;**[!UICONTROL Clone]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
 
-1. 单击下 **[!UICONTROL Destination]** 拉框并选择目标项目或文件夹。
+1. 单击&#x200B;**[!UICONTROL Destination]**&#x200B;下拉框并选择目标项目或文件夹。
 
    ![图3](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-3.png)
 
-1. 输入活动名称（和可选的说明／标签），然后单击 **[!UICONTROL Clone]**。
+1. 输入活动名称（和可选的说明／标签），然后单击&#x200B;**[!UICONTROL Clone]**。
 
    ![图像4](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-4.png)
