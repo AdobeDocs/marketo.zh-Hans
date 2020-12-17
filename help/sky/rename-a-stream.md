@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-1.png)
 
-1. 单击选 **[!UICONTROL Streams]** 项卡。
+1. 单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-2.png)
 
