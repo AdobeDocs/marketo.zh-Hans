@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 发行说明：16年冬季 {#release-notes-winter}
+# 发行说明：Winter &#39;16 {#release-notes-winter}
 
 Winter &#39;16版包含以下功能。 请单击标题链接，以视图每个功能的详细文章。
 
 ## [是匿名过滤器](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-智能列表的“匿名”过滤器已被删除。 有关详细信息， [请参阅下一代Munchkin跟踪常见问题](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) 文档。 此更改不会影响Web个性化(RTP)，它继续识别匿名和已知的Web访客，并实时为这些访客个性化内容。
+智能列表的“匿名”过滤器已被删除。 有关详细信息，请参阅[下一代Munchkin跟踪常见问题解答](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)文档。 此更改不会影响Web个性化(RTP)，它继续识别匿名和已知的Web访客，并实时为这些访客个性化内容。
 
 ## [数据库仪表板](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -27,11 +27,11 @@ Winter &#39;16版包含以下功能。 请单击标题链接，以视图每个�
 
 ## [Microsoft Edge Browser](../../product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-我们已将Microsoft Edge添加到Marketo支 [持的浏览器](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) 列表中。
+我们已将Microsoft Edge添加到Marketo支持的浏览器](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)的[列表中。
 
 ## [Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[现在支持Microsoft](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) Outlook 2016。
+[现在支持](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) Microsoft Outlook 2016。
 
 ## [电子邮件项目头开始](../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -49,7 +49,7 @@ Winter &#39;16版包含以下功能。 请单击标题链接，以视图每个�
 
 ## [移动营销增强功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap支持：** 我们现在将PhoneGap支持优惠到您的移动应用程序。 [了解更多](http://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
+**PhoneGap支持：我** 们现在优惠对您的移动应用程序的PhoneGap支持。[了解更多](http://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
 
 **支持沙箱应用程序**:
 
@@ -61,7 +61,7 @@ Winter &#39;16版包含以下功能。 请单击标题链接，以视图每个�
 
 ## [Microsoft Dynamics增强功能](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**同 [步状态](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):**保持制表符，关注同步过程的当前吞吐量和积压情况。 按对象插入和更新的次数细分它。
+** [同步状态](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):**请制表同步进程的当前吞吐量和积压情况。 按对象插入和更新的次数细分它。
 
 ![](assets/pending-backog-cropped.png)
 
@@ -77,7 +77,7 @@ Winter &#39;16版包含以下功能。 请单击标题链接，以视图每个�
 
 ## [Facebook潜在客户广告](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook潜在客户](https://www.facebook.com/business/a/lead-ads) 广告是企业在Facebook上运行潜在客户生成活动的更直接方式。 人们填写表单来表达对产品或服务的兴趣，这样企业就可以跟进。 与Facebook潜在客户广告集成的营销人员会自动捕获潜在客户在潜在客户广告表单中提供的信息。 随后，可以使用新的“填写Facebook潜在客户广告”触发器自动执行后续操作和通知。
+[Facebook潜在](https://www.facebook.com/business/a/lead-ads) 客户广告是企业在Facebook上运行潜在客户生成活动的更直接方式。人们填写表单来表达对产品或服务的兴趣，这样企业就可以跟进。 与Facebook潜在客户广告集成的营销人员会自动捕获潜在客户在潜在客户广告表单中提供的信息。 随后，可以使用新的“填写Facebook潜在客户广告”触发器自动执行后续操作和通知。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
