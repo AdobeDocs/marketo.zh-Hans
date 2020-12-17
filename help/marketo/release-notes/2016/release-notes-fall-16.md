@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 发行说明：1916年秋 {#release-notes-fall}
+# 发行说明：秋16 {#release-notes-fall}
 
 1916年秋季版本包含以下功能。 检查您的Marketo版本以了解功能可用性。 请单击标题链接，以视图每个功能的详细文章。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 **REST API**
 
-此版本还允许您使用Marketo REST API在ABM中管理命名帐户属性和帐户得分。 有关API操作的更多详细信息，请访 [问Marketo开发人员网站](http://developers.marketo.com/rest-api/lead-database/named-accounts)。
+此版本还允许您使用Marketo REST API在ABM中管理命名帐户属性和帐户得分。 有关API操作的详细信息，请访问[Marketto Developers网站](http://developers.marketo.com/rest-api/lead-database/named-accounts)。
 
 ## [审核跟踪增强功能](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 **编辑活动限制**
 
-如果无 [法实施活动](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) ，为何要设置这些限制？ 当您设置活动限制设置以限制数据库中可以通过单个活动定位的人员数时，您现在可以限制哪些用户在计划活动时可以覆盖这些设置。
+如果您无法强制实施[活动限制](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns)，为何要设置这些限制？ 当您设置活动限制设置以限制数据库中可以通过单个活动定位的人员数时，您现在可以限制哪些用户在计划活动时可以覆盖这些设置。
 
 ## [移动推送通知声音](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 ## [与Salesforce加密兼容的Sales Insight](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight现在与Salesforce Shield Encryption兼容。 所有Sales Insight客户应升级到最新的托管包（版本1.4359.2），该包可 [在Appexchange上获得](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)。
+Market Sales Insight现在与Salesforce Shield Encryption兼容。 所有Sales Insight客户应升级到此最新的受管软件包（版本1.4359.2），该软件包[可在Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上找到。
 
 ## [指定帐户API](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
@@ -98,5 +98,5 @@ Market Sales Insight现在与Salesforce Shield Encryption兼容。 所有Sales I
 
 ## [对Marketo Salesforce同步的更改](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo的Salesforce集成正在不断改进，以改进Marketo字段与Salesforce同步的方式。 现在，您无需同步可能需要或可能不需要的大量字段，即可选择要包含的字段。 有关更多信息，请单击此处查阅我们的文档： [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
+Marketo的Salesforce集成正在不断改进，以改进Marketo字段与Salesforce同步的方式。 现在，您无需同步可能需要或可能不需要的大量字段，即可选择要包含的字段。 有关更多信息，请单击此处查阅我们的文档：[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
 
