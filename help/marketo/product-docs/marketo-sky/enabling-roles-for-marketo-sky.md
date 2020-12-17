@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 为Marketo Sky启用角色 {#enabling-roles-for-marketo-sky}
+# 为Marketo Sky{#enabling-roles-for-marketo-sky}启用角色
 
 要利用Marketo Sky，必须启用所需用户的角色。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在Marketo Classic中，单击“管 **理员**”。
+1. 在Marketo Classic中，单击&#x200B;**管理**。
 
    ![](assets/enabling-roles-for-marketo-sky-1.png)
 
-1. 在树中，选择 **Marketo Sky**。
+1. 在树中，选择&#x200B;**Marketo Sky**。
 
    ![](assets/enabling-roles-for-marketo-sky-2.png)
 
