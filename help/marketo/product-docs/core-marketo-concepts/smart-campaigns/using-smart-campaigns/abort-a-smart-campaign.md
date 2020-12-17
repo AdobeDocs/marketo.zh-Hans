@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 中止智能活动 {#abort-a-smart-campaign}
+# 中止智能活动{#abort-a-smart-campaign}
 
 >[!CAUTION]
 >
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 有时，你启动一个智能活动，并立即意识到这是个错误。 下面介绍如何在中途拉紧紧急刹车并停止智能活动。
 
-1. 在“ **营销活动**”下，选择您的智能活动并转 **至“计划** ”选项卡。
+1. 在&#x200B;**营销活动**&#x200B;下，选择您的智能活动并转到&#x200B;**计划**&#x200B;选项卡。
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. 单击**活动操作**下拉列表。 选择 **中止活动**。
+1. 单击**活动操作**下拉列表。 选择&#x200B;**中止活动**。
 
    ![](assets/image2014-9-22-16-19-48.png)
 
-1. 单击 **中止** ，以进行确认。
+1. 单击&#x200B;**中止**&#x200B;进行确认。
 
    ![](assets/image2014-9-22-16-3a19-3a57.png)
 
@@ -42,10 +42,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >查看智能活动 **的** “结果”选项卡，了解中止操作前发生了哪些操作。 您还会找到包含其 [他详细](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 信息的通知。
+   >查看智能活动的&#x200B;**结果**&#x200B;选项卡，了解中止操作之前所执行的操作。 您还将找到[通知](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)，其中包含其他详细信息。
 
    >[!TIP]
    >
-   >想在触发活动中从流中删除人吗？ 选中从 [流中删除](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)。
+   >想在触发活动中从流中删除人吗？ 查看[从流](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)中删除。
 
 总是多次检查您的工作，但此紧急制动器将来可能会派上用场。
