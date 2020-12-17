@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 添加／删除选择列表值 {#add-remove-picklist-values}
+# 添加／删除选择列表值{#add-remove-picklist-values}
 
 以下是有关在Salesforce中添加和删除选择列表值的一些信息。
 
-## 添加选择列表值 {#adding-picklist-values}
+## 添加Picklist值{#adding-picklist-values}
 
-1. 如果在Salesforce中向选择列表字段类型添加了额外值，您将收到一 [则通知](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) ，指明此操作将影响哪些表单。
+1. 如果在Salesforce中向选择列表字段类型添加了额外值，您将收到[通知](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)，其中标识将影响哪些表单。
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. 转到表单编辑器， [为建议列表](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) 添加附加值。
+1. 转到表单编辑器并[将附加值](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)添加到建议列表。
 
-## 删除选择列表值 {#remove-picklist-values}
+## 删除Picklist值{#remove-picklist-values}
 
 从Salesforce中的字段删除选择列表值后，您必须从承载此字段的所有表单中手动删除此值。
 
