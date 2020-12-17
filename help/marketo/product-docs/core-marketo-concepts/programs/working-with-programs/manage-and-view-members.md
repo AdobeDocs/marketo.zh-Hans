@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 管理和视图成员 {#manage-and-view-members}
+# 管理和视图成员{#manage-and-view-members}
 
 您可以使用成员选项卡管理和视图项目中的成员。
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**深潜**
 >
-> 更深入地了 [解项目会员](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
+> 深入了解[项目成员资格](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
 
-## 搜索成员 {#search-for-a-member}
+## 搜索成员{#search-for-a-member}
 
 在“成员”部分的底部，使用搜索字段按姓名、电子邮件、职务或项目搜索公司成员。
 
-1. 单击 **项目** 的“成员”选项卡。
+1. 单击项目的&#x200B;**成员**&#x200B;选项卡。
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## 导出成员网格 {#export-the-members-grid}
+## 导出成员网格{#export-the-members-grid}
 
 您可以单击搜索字段旁的Excel图标，导出成员列表。
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
-## 管理成员网格中的列 {#manage-columns-in-the-members-grid}
+## 管理成员网格{#manage-columns-in-the-members-grid}中的列
 
 * 拖放列以更改其顺序。 蓝色箭头对指示列将转到的位置。
 
@@ -49,35 +49,35 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## 选择网格中可见的列 {#choose-which-columns-are-visible-in-the-grid}
+## 选择网格{#choose-which-columns-are-visible-in-the-grid}中可见的列
 
-1. 单击**视图**下拉框并选择创建 **视图**。
+1. 单击**视图**下拉框并选择&#x200B;**创建视图**。
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 命名自定义视图。 选择列标题。 单击**添 **加和** 删除**以移动列并创建视图。
+1. 命名自定义视图。 选择列标题。 单击**添加&#x200B;**和**&#x200B;删除**以移动列并创建视图。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. 单击 **创建**。
+1. 单击&#x200B;**创建**。
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## 筛选成员网格  {#filter-the-members-grid}
+## 筛选成员网格{#filter-the-members-grid}
 
-1. 单击“ **筛选** ”下拉框，并选择要排序的进度步骤。
+1. 单击&#x200B;**筛选器**&#x200B;下拉框并选择要排序的进度步骤。
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## 在成员网格中管理人员状态 {#manage-person-status-in-the-members-grid}
+## 管理成员网格{#manage-person-status-in-the-members-grid}中的人员状态
 
 您可以在成员网格中更改人员的状态。
 
-1. 按住Ctrl/ **Cmd键** ，然后选择人物。
+1. 按住&#x200B;**Ctrl/Cmd**&#x200B;并选择人物。
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. 单击“ **更改状态** ”下拉框并选择状态。
+1. 单击&#x200B;**更改状态**&#x200B;下拉框并选择状态。
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
