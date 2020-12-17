@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# 第1步，共3步：安装Marketo Solution（在线） {#step-of-install-the-marketo-solution-online}
+# 第1步，共3步：安装Marketo Solution(Online){#step-of-install-the-marketo-solution-online}
 
 在同步Microsoft Dynamics 365和Marketo之前，您首先需要在Dynamics中安装Marketo解决方案。 **需要动态管理员权限。**
 
 >[!CAUTION]
 >
 >* `Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.`
->* 如果您为Dynamics同步启用了多因素身份验证(MFA)，则必须禁用它，Dynamics才能与Marketo正确同步。 如需其他信息，请与Marketo [支持部门联系](http://nation.marketo.com/community/support_solutions)。
+>* 如果您为Dynamics同步启用了多因素身份验证(MFA)，则必须禁用它，Dynamics才能与Marketo正确同步。 如需其他信息，请联系[Marketo支持部门](http://nation.marketo.com/community/support_solutions)。
 
 >
 
@@ -36,37 +36,37 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. 单击 ![](assets/image2015-3-16-16-3a1-3a13.png)菜单并选 **择CRM**。
+1. 单击![](assets/image2015-3-16-16-3a1-3a13.png)菜单，然后选择&#x200B;**CRM**。
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. 单击 ![](assets/image2015-5-13-10-3a5-3a8.png) 菜单。 在下拉菜单中，选择**设置**，然后选择解 **决方案**。
+1. 单击![](assets/image2015-5-13-10-3a5-3a8.png)菜单。 在下拉菜单中，选择**设置**，然后选择&#x200B;**解决方案**。
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
-1. 单击“ **导入”。**
+1. 单击&#x200B;**导入。**
 
    ** ![](assets/image2015-3-19-8-3a34-3a8.png)
 
    **
 
-1. 单击“ **选择文件”。** 选择您下载的Marketo Lead Management解决 [方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击“ **下一步**”。
+1. 单击&#x200B;**选择文件。** 选择您下载的Marketo Lead Management解决 [方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。单击&#x200B;**下一步**。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. 视图解决方案信息，然后单击 **视图解决方案包详细信息**。
+1. 视图解决方案信息，然后单击&#x200B;**视图解决方案包详细信息**。
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
-1. 检查完所有详细信息后，单击“关闭 **”**。
+1. 检查完所有详细信息后，单击&#x200B;**关闭**。
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. 现在，返回“解决方案信息”页面，单击“下 **一步**”。
+1. 现在，返回“解决方案信息”页，单击&#x200B;**下一步**。
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. 确保选中“SDK选项”复选框。 单击“ **导入**”。
+1. 确保选中“SDK选项”复选框。 单击&#x200B;**导入**。
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -78,7 +78,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
-1. 单击 **关闭。**
+1. 单击&#x200B;**关闭。**
 
    >[!NOTE]
    >
@@ -90,7 +90,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. 选择“ **Marketto Lead Management** ”，然后单 **击“Publish All Customizations”。**
+1. 选择&#x200B;**Marketto Lead Management**，然后单击&#x200B;**发布所有自定义。**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
