@@ -24,6 +24,6 @@ ht-degree: 0%
 
    ![图像2](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. 单击 **[!UICONTROL Confirm]** 可删除该条目。
+1. 单击&#x200B;**[!UICONTROL Confirm]**&#x200B;以删除该条目。
 
    ![图3](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
