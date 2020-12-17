@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 启用／禁用活动同步 {#enable-disable-campaign-sync}
+# 启用／禁用活动同步{#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 此选项允许Market将其项目会员资格和状态与Salesforce活动同步，反之亦然。
 
-1. 转至**管理员，**单击“销 **售人员”。**
+1. 转至**管理员，**单击&#x200B;**Salesforce。**
 
    ** ![](assets/image2014-12-9-13-3a36-3a49.png)
 
    **
 
-1. 单击“ **编辑同步设置**”。
+1. 单击&#x200B;**编辑同步设置**。
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. 选中 **启用Salesforce活动同步** ，然后单 **击保存**。
+1. 选中&#x200B;**启用Salesforce活动同步**&#x200B;并单击&#x200B;**SAVE**。
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
