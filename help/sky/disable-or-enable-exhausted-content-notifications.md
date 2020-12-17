@@ -14,17 +14,17 @@ ht-degree: 0%
 
 <br> 
 
-当用户耗尽流中的所有内容时， [!DNL Marketo] 可以向您发送通知。 您可以根据需要禁用／启用通知。
+当用户耗尽流中的所有内容时，[!DNL Marketo]可以向您发送通知。 您可以根据需要禁用／启用通知。
 
 1. 选择您的参与项目。
 
    ![图像1](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. 单击选 **[!UICONTROL Setup]** 项卡。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. 向下滚动 [!UICONTROL Settings] 并选择 **[!UICONTROL Off]** (或 [!UICONTROL On])。
+1. 向下滚动到[!UICONTROL Settings]并选择&#x200B;**[!UICONTROL Off]**（或[!UICONTROL On]）。
 
    ![图3](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
