@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 共享和专用IP地址 {#shared-and-dedicated-ip-addresses}
+# 共享和专用IP地址{#shared-and-dedicated-ip-addresses}
 
-## 什么是IP地址？ {#what-is-an-ip-address}
+## 什么是IP地址？{#what-is-an-ip-address}
 
 一个数字标签，用于表示连接到因特网的计算机的地址。
 
-## 什么是共享IP地址？ {#what-are-shared-ip-addresses}
+## 什么是共享IP地址？{#what-are-shared-ip-addresses}
 
 这指的是当多个发件人使用相同的IP地址启动电子邮件活动时。 他们共享相同的发送IP。
 
-## 专用IP地址是什么？ {#what-is-a-dedicated-ip-address}
+## 专用IP地址是什么？{#what-is-a-dedicated-ip-address}
 
 只有一个发送方从发送的用户特定IP地址。
 
-## 哪个更好——共享还是专用？ {#which-is-better-shared-or-dedicated}
+## 哪个更好——共享还是专用？{#which-is-better-shared-or-dedicated}
 
 和往常一样，这两个选项都有利有弊。
 
@@ -40,8 +40,8 @@ ht-degree: 0%
 *图标*
 
 **数量变化** -数量激增可能会对您的声誉造成负面影响，需要加以管理。\
-**IP热身过程** -声誉是随着时间的推移而建立的。 某些Internet服务提供商(ISP)限制没有卷历史记录的IP地址，因此您必须在最初几周内建立声誉（Marketo可以帮助您）。\
-**成本** -通常，从专用IP向任何提供商发送时，都需要额外付费。
+**IP热身过程** -声誉是随着时间的推移而建立的。某些Internet服务提供商(ISP)限制没有卷历史记录的IP地址，因此您必须在最初几周内建立声誉（Marketo可以帮助您）。\
+**成本** -通常，从专用IP向任何提供商发送时都需要额外付费。
 
 **共享IP的利弊**
 
