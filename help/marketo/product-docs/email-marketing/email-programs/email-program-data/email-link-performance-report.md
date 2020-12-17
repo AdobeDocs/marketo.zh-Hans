@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件链接性能报告 {#email-link-performance-report}
+# 电子邮件链接性能报告{#email-link-performance-report}
 
 创建“电子邮件链接性能”报告，查看电子邮件中的链接的性能。
 
-1. [在项目中创建报告](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，并选 **择“电子邮件链接** 性能”作为报告类型。
+1. [在程序中创建报告，](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 然后选择“ **电子邮件链** 接性能”作为报告类型。
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. 单击“ **设置**”。
+1. 单击&#x200B;**安装程序**。
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. 多次-单击“ **设置”下的** “活动 **日期**”。
+1. 多次-单击&#x200B;**设置**&#x200B;下的&#x200B;**活动日期**。
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. 单击 **报告**。
+1. 单击&#x200B;**报告**。
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[“电子邮件](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) ”链接性能报告的可用列包括：
+[“电](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 子邮件链接性能”报告的列包括：
 
 <table> 
  <thead> 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果要准确了解个人的操作，可以从活动的“成员” [选项卡](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) , [在“人员详细信](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 息”页面中打开“项目日志”。
+>如果您想要确切了解个人的操作，可以从项目的“成员”选项卡打开[“人员详细信息”](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中的[活动日志](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)页。
 
 >[!MORELIKETHIS]
 >
@@ -89,5 +89,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->进一步了解基 [本报告](http://docs.marketo.com/display/docs/basic+reporting)。
+>进一步了解[基本报告](http://docs.marketo.com/display/docs/basic+reporting)。
 
