@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 停用触发器智能活动 |计划选项卡 {#deactivate-a-trigger-smart-campaign-schedule-tab}
+# 停用触发器智能活动 |计划选项卡{#deactivate-a-trigger-smart-campaign-schedule-tab}
 
 如果您有需要取消激活的旧触发活动，请执行以下步骤：
 
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这将阻 *止新* 人进入流，但处于等待步骤或任何其他流步骤的人将继续移动流，直到完成。
+>这将阻止&#x200B;*new*&#x200B;的人员进入流，但处于等待步骤或任何其他流步骤的人员将继续移动流，直到完成。
 
