@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. 单击选 **[!UICONTROL Streams]** 项卡。
+1. 单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
-1. 单击流的齿轮图标并选择 **[!UICONTROL Clone]**。
+1. 单击流的齿轮图标，然后选择&#x200B;**[!UICONTROL Clone]**。
 
    ![图3](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-3.png)
 
