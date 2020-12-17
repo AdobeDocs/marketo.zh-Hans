@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 更改人员分区 {#change-person-partition}
+# 更改人员分区{#change-person-partition}
 
-## 概述 {#overview}
+## 概述{#overview}
 
-如果您使用工 [作区和分区](http://docs.marketo.com/x/9QMk)，您将需要构建智能活动，将人员从一个分区移动到另一个分区。
+如果您使用[工作区和分区](http://docs.marketo.com/x/9QMk)，您将要构建智能活动，将人员从一个分区移动到另一个分区。
 
 ![](assets/one-3.png)
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
 1. 选择要将人员移至的分区。
 
