@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将WebEx添加为LaunchPoint服务 {#add-webex-as-a-launchpoint-service}
+# 将WebEx添加为LaunchPoint服务{#add-webex-as-a-launchpoint-service}
 
 营销人员，管理您的WebEx网络研讨会注册和出席情况。
 
@@ -33,31 +33,31 @@ ht-degree: 0%
 >
 >注意：请勿在此字段中输入整个URL;仅输入站点名称！
 
-1. 转到“管 **理员** ”并单 **击LaunchPoint**。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**LaunchPoint**。
 
    ![](assets/image2015-4-23-11-3a20-3a43.png)
 
-1. 选择 **新建** ，然后选择 **新建服务**。
+1. 选择&#x200B;**新建**，然后选择&#x200B;**新建服务**。
 
    ![](assets/webex-new-service.png)
 
-1. 输入显 **示名称**。 在“ **服务**”下， **选择WebEx**。
+1. 输入&#x200B;**显示名称**。 在&#x200B;**服务**&#x200B;下，选择&#x200B;**WebEx**。
 
    ![](assets/new-service-webex.png)
 
-1. 输入您的 **用户名** 和 **密码**。
+1. 输入&#x200B;**用户名**&#x200B;和&#x200B;**密码**。
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. 输入**站点名称**，然后单击创建，完成该 **过程**。
+1. 输入**站点名称**完成该过程，然后单击&#x200B;**创建**。
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
-1. 太棒了！ 您的 **WebEx** 现已与Marketo同步。
+1. 太棒了！ 您的&#x200B;**WebEx**&#x200B;现在与Marketo同步。
 
    ![](assets/webex.png)
 
 >[!MORELIKETHIS]
 >
->了解如何 [使用WebEx创建事件](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)。
+>了解如何使用WebEx[创建事件。](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 
