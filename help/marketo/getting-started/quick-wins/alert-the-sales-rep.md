@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 提醒销售代表 {#alert-the-sales-rep}
+# 提醒销售代表{#alert-the-sales-rep}
 
-## 任务：当某人填写您网站上的表单时，提醒销售代表 {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
+## 任务：当某人填写您网站上的表单{#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}时，提醒销售代表
 
 要自动向销售代表发送提醒电子邮件，您只需要一封提醒电子邮件和一封电子邮件活动。 下面介绍如何实现。
 
@@ -21,25 +21,25 @@ ht-degree: 0%
 >
 >[登陆页表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-## 第1步：创建警报电子邮件 {#step-create-an-alert-email}
+## 第1步：创建警报电子邮件{#step-create-an-alert-email}
 
-1. 转到“营销 **活动** ”区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/one-5.png)
 
-1. 选 **择您** 在登陆页中用Form [quick win创建的My Asset](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) ，然后在New（新建）下 **单** 击New **Local Asset**。
+1. 选择您在[项目中以Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)快速赢取创建的&#x200B;**我的登陆页**，然后在&#x200B;**新建**&#x200B;下单击&#x200B;**新建本地资产**。
 
    ![](assets/two-6.png)
 
-1. 单击“ **电子邮件**”。
+1. 单击&#x200B;**电子邮件**。
 
    ![](assets/three-5.png)
 
-1. **将电子邮件命** 名为“我的电子邮件警报”，选择一个模板，然后单击“ **创建**”。
+1. **将电** 子邮件命名为“我的电子邮件警报”，选择一个模板，然后单击 **创建**。
 
    ![](assets/four-4.png)
 
-1. 输入您 **希望销售团**&#x200B;队查看 **的“发件人名**&#x200B;称”、“ **发件人电子邮件”、“回复至**” **** 和“主题”。
+1. 输入您希望销售团队看到的&#x200B;**From Name**、**From Email**、**Reply-to**&#x200B;和&#x200B;**Subject**。
 
    ![](assets/five-5.png)
 
@@ -51,19 +51,19 @@ ht-degree: 0%
 
    ![](assets/seven-6.png)
 
-1. 将光标放在要插入人员联系信息的位置，然后单击“插入 **令牌** ”图标。
+1. 将光标放在要插入人员联系信息的位置，然后单击&#x200B;**插入令牌**&#x200B;图标。
 
    ![](assets/eight-4.png)
 
-1. 查找并选择令牌 `{{SP_Send_Alert_Info}}` , **然后** 单击 **插入**。
+1. 查找并选择`{{SP_Send_Alert_Info}}` **令牌**，然后单击&#x200B;**插入**。
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}}是警报电子邮件的特殊令牌。 请参 [阅使用发送警报信息令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) ，了解更多信息。
+   >{{SP_Send_Alert_Info}}是警报电子邮件的特殊令牌。 请参阅[使用发送警报信息令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)了解更多信息。
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/ten-5.png)
 
@@ -71,21 +71,21 @@ ht-degree: 0%
 
    ![](assets/eleven-5.png)
 
-1. 在“电 **子邮件操作** ”下 **单击“批准**”。
+1. 在&#x200B;**电子邮件操作**&#x200B;下，单击&#x200B;**批准**。
 
    ![](assets/twelve-4.png)
 
-## 第2步：创建警报触发器活动 {#step-create-an-alert-trigger-campaign}
+## 第2步：创建警报触发器活动{#step-create-an-alert-trigger-campaign}
 
-1. 选择 **之前创建** 的我的项目 **，然后在“新建”** 下 **单击**“新建智能活动”。
+1. 选择“以前创建的&#x200B;**我的项目**”，然后在“新建”下单击“新建智能活动&#x200B;**”。******
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **将活动** 命名为“我的警报活动”，然后单击“ **创建**”。
+1. **将活动** 命名为“我的警报活动”，然后单击“ **创建”**。
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. 在“智 **能列表** ”选项卡下，查找并 **将“填充表单”触发** 器拖动到画布上。
+1. 在&#x200B;**智能列表**&#x200B;选项卡下，找到并将&#x200B;**填充表单**&#x200B;触发器拖动到画布。
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,33 +93,33 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. 在“ **流** ”选项卡下，查找并 **将“发送警报** ”流动操作拖至画布。
+1. 在&#x200B;**Flow**&#x200B;选项卡下，找到并将&#x200B;**发送警报**&#x200B;流动操作拖动到画布。
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. 选择 **之前创建的** “我的警报电子邮件”, **并保留“发送至****”作**&#x200B;为销售所有者。
+1. 选择之前创建的&#x200B;**我的警报电子邮件**，将&#x200B;**发送到**&#x200B;保留为&#x200B;**销售所有者**。
 
    ![](assets/eighteen-1.png)
 
-1. 在“收件人其他电子邮件”字 **段中键入您的电子邮件** 地址。
+1. 在&#x200B;**收件人其他电子邮件**&#x200B;字段中键入您的电子邮件地址。
 
    ![](assets/nineteen-2.png)
 
-1. 转到“ **计划** ”选项卡，单 **击“激活** ”按钮。
+1. 转到&#x200B;**计划**&#x200B;选项卡并单击&#x200B;**激活**&#x200B;按钮。
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >将“资 **格规** 则 **”设置为** 每次(通过编辑智能活动)，以允许同一人多次触发警报。
+   >每次&#x200B;**(通过编辑智能活动)将**&#x200B;资格规则&#x200B;**设置为**（通过编辑智能），允许同一人多次触发警报。
 
-1. 单击 **确认屏** 上的激活。
+1. 单击确认屏幕上的&#x200B;**激活**。
 
    ![](assets/twenty-one-1.png)
 
-## 第3步：测试！ {#step-test-it-out}
+## 第3步：测试！{#step-test-it-out}
 
-1. 选择您的登陆页，然后单击 **视图批准页面**。
+1. 选择您的登陆页并单击&#x200B;**视图批准页面**。
 
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
    >
    >别忘了批准登陆页;他们直到获得批准才上线。
 
-1. 填写表单，然后单击“ **提交**”。
+1. 填写表单，然后单击&#x200B;**提交**。
 
    ![](assets/image2014-9-24-13-3a17-3a41.png)
 
@@ -135,9 +135,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >单击Market **中的** “人员信息”选项卡以查看联系信息。
+   >单击Market中的&#x200B;**人员信息**&#x200B;选项卡以查看联系信息。
 
-## 任务完成！ {#mission-complete}
+## 任务完成！{#mission-complete}
 
 <br> 
 
