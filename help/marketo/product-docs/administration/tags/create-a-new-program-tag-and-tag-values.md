@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 创建新项目标记和标记值 {#create-a-new-program-tag-and-tag-values}
+# 新建项目标记和标记值{#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-您可以为项目 [创建](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 自定义标记，并为标记指定值。
+您可以为项目创建自定义[标记](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)，并为标记指定值。
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ ht-degree: 0%
 >
 >项目标记值：中小型企业、企业、中端市场
 
-1. 在“管 **理员**”下，单 **击“标记**”。
+1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**标记**。
 
    ![](assets/image2014-9-24-12-3a10-3a32.png)
 
-1. 单击 **新建** ，然后选择 **新建标记类型**。
+1. 单击&#x200B;**新建**&#x200B;并选择&#x200B;**新建标记类型**。
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. 输入标 **记类型** 和标记 **值**。 然后单击“ **添加其他**”。
+1. 输入&#x200B;**标记类型**&#x200B;和标记&#x200B;**值**。 然后，单击&#x200B;**添加其他**。
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
@@ -47,13 +47,13 @@ ht-degree: 0%
    >
    >您可以选择多个项目类型。 创建新项目后，此标记类型将可用。
 
-1. 选中“ **必需** ”，然后单 **击“创建**”。
+1. 选中&#x200B;**必需**&#x200B;并单击&#x200B;**创建**。
 
    ![](assets/image2014-9-24-12-3a18-3a33.png)
 
    >[!NOTE]
    >
-   >如果标记类型为“ **必需**”，则用户在创建新项目时需要输入标记值。
+   >如果标记类型为&#x200B;**Required**，则用户在创建新项目时需要输入标记值。
 
    ![](assets/image2014-9-24-12-3a19-3a17.png)
 
