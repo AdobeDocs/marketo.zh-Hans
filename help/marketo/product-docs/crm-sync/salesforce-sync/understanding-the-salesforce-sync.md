@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解Salesforce同步 {#understanding-the-salesforce-sync}
+# 了解Salesforce同步{#understanding-the-salesforce-sync}
 
 Marketo和Salesforce一起吃豆子和胡萝卜。 我们可同步您的销售和营销数据。
 
-## 同步的工作方式 {#how-sync-works}
+## 同步如何工作{#how-sync-works}
 
 Marketo每天都与Salesforce同步。 每次同步都需要一些时间，然后暂停5分钟，然后再次开始。
 
@@ -27,7 +27,7 @@ Marketo每天都与Salesforce同步。 每次同步都需要一些时间，然�
 
 Salesforce和Marketo之间的同步仅针对潜在客户、联系人和Salesforce活动是双向的。 在这些情况下，只要您在Salesforce或Marketo中进行更改，您的更新就会反映在这两个系统中。 所有其他同步仅从Salesforce到Marketo。 单击以下链接可了解每个链接的详细信息。
 
-## Marketo和Salesforce之间同步了什么？ {#what-is-synced-between-marketo-and-salesforce}
+## Marketo和Salesforce之间同步了什么？{#what-is-synced-between-marketo-and-salesforce}
 
 * [潜在客户](sfdc-sync-details/sfdc-sync-lead-sync.md)
 * [联系人](sfdc-sync-details/sfdc-sync-contact-sync.md)
@@ -40,9 +40,9 @@ Salesforce和Marketo之间的同步仅针对潜在客户、联系人和Salesforc
 
 >[!NOTE]
 >
->您 [在Marketo中为Salesforce输入的凭据](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) ，用于同步数据。 将仅包含这些凭据有权访问的数据。
+>您在Marketo中为Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)输入的[凭据用于同步数据。 将仅包含这些凭据有权访问的数据。
 
-Salesforce同步有许多细微差别和功能。 查看SFDC同步详细信 [息部分的详细信息](http://docs.marketo.com/display/docs/sfdc+sync+details)。
+Salesforce同步有许多细微差别和功能。 查看[SFDC同步详细信息部分](http://docs.marketo.com/display/docs/sfdc+sync+details)中的详细信息。
 
 >[!MORELIKETHIS]
 >
