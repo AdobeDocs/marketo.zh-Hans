@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 默认Salesforce字段映射 {#default-salesforce-field-mapping}
+# 默认Salesforce字段映射{#default-salesforce-field-mapping}
 
 当您最初将Marketo帐户与Salesforce同步时，Marketo会自动在您的内置Salesforce和Marketo字段之间建立这些关联。 Marketo还将同步您的Lead、Accounts、Opportunity和Contacts上的自定义字段。
 
-## 潜在客户字段 {#lead-fields}
+## 潜在客户字段{#lead-fields}
 
 | SFDC字段 | Marketo字段 |
 |---|---|
@@ -48,7 +48,7 @@ ht-degree: 0%
 | 标题 | 职务 |
 | 网站 | 网站 |
 
-## 联系人字段 {#contact-fields}
+## 联系人字段{#contact-fields}
 
 | SFDC字段 | Marketo字段 |
 |---|---|
@@ -73,7 +73,7 @@ ht-degree: 0%
 | 问候 | 问候 |
 | 标题 | 职务 |
 
-## 帐户字段 {#account-fields}
+## 帐户字段{#account-fields}
 
 | SFDC字段 | Marketo字段 |
 |---|---|
@@ -94,7 +94,7 @@ ht-degree: 0%
 | 帐户类型 | SFDC类型 |
 | 网站 | 网站 |
 
-## Marketo中的Salesforce相关系统字段（只读） {#salesforce-related-system-fields-in-marketo-read-only}
+## Marketo中的Salesforce相关系统字段（只读）{#salesforce-related-system-fields-in-marketo-read-only}
 
 这些字段在Marketo中创建，但客户无法调整。
 
