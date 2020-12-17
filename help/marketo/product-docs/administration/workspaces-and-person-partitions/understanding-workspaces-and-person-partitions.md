@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 了解工作区和人员分区 {#understanding-workspaces-and-person-partitions}
+# 了解工作区和人员分区{#understanding-workspaces-and-person-partitions}
 
-## 工作区 {#workspaces}
+## 工作区{#workspaces}
 
 >[!CAUTION]
 >
->工作区设置可能比较复杂。  联 [系Market](http://support.marketo.com/) Support，了解他们是否适合您。
+>工作区设置可能比较复杂。  联系[Marketo Support](http://support.marketo.com/)，了解他们是否适合您。
 
 工作区是Marketo中单独的区域，它们存放项目、登陆页、电子邮件等营销资产。 它们可供多人使用。 每个用户都有权访问一个或多个工作区。
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 >
 >**深潜**
 >
->了解如何创 [建新工作区](create-a-new-workspace.md)。
+>了解如何创建[新建工作区](create-a-new-workspace.md)。
 
-## 跨工作区共享 {#sharing-across-workspaces}
+## 跨工作区共享{#sharing-across-workspaces}
 
 下面介绍如何在工作区之间共享资源。 它适用于您想要分享的任何内容；此示例显示分段。
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 右键单击文件夹，然后选择“共 **享文件夹”**。
+1. 右键单击文件夹，然后选择&#x200B;**共享文件夹**。
 
    ![](assets/four.png)
 
-1. 选择要与其共享文件夹的工作区，然后单击“保 **存”**。 “共享文件夹”对话框将仅显示您具有视图权限的工作区。
+1. 选择要与其共享文件夹的工作区，然后单击&#x200B;**保存**。 “共享文件夹”对话框将仅显示您具有视图权限的工作区。
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 * [细分](share-segmentations-across-workspaces-and-partitions.md)
 * 代码片段
 
-## 跨工作区克隆 {#cloning-across-workspaces}
+## 跨工作区克隆{#cloning-across-workspaces}
 
 对于非模板的资源，最好将它们克隆为项目内的本地资源。  通过适当的访问级别，您可以将这些资产拖放到另一个工作区中：
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 >
 >克隆具有模板的资源时，这些模板必须与目标工作区共享。
 
-## 将资产移至其他工作区 {#moving-assets-to-other-workspaces}
+## 将资产移至其他工作区{#moving-assets-to-other-workspaces}
 
 要将资产移到新工作区，请将其放入文件夹，然后将该文件夹拖动到另一个工作区。
 
@@ -103,11 +103,11 @@ ht-degree: 0%
 >
 >无法将包含成员的项目从一个工作区移动到另一个工作区。
 
-## 人员分区 {#person-partitions}
+## 人员分区{#person-partitions}
 
-人员分区的操作方式与单独的数据库类似。 每个分区都有自己的人员，他们不会与其他分区进行重复数据消除或混合。 如果您认为您有业务使用案例，可能需要拥有具有相同电子邮件地址的重复记录，请与营销人员 [支持部门联系](http://support.marketo.com)。
+人员分区的操作方式与单独的数据库类似。 每个分区都有自己的人员，他们不会与其他分区进行重复数据消除或混合。 如果您认为您有业务使用案例，可能需要具有具有相同电子邮件地址的重复记录，请与[营销人员支持](http://support.marketo.com)联系。
 
-您可以按照以下配置将人员 [分区](create-a-new-workspace.md) 分配到工作区：
+您可以按照以下配置将人员分区分配给[工作区](create-a-new-workspace.md):
 
 * 一个工作区到一个人分区(1:1)
 * 一个工作区到多个人员分区(1:x)
@@ -134,5 +134,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
-> 了解如何 [创建人员分区](create-a-person-partition.md)。
+> 了解如何[创建人员分区](create-a-person-partition.md)。
 
