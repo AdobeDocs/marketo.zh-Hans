@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# 在列表或智能列表中使用快速查找 {#use-quick-find-in-a-list-or-smart-list}
+# 在列表或智能列表中使用快速查找{#use-quick-find-in-a-list-or-smart-list}
 
 使用快速查找功能，根据列表或智能列表的结果查找人员。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择要搜索的智能列表，然后单击“人 **员** ”选项卡。
+1. 选择要搜索的智能列表，然后单击&#x200B;**People**&#x200B;选项卡。
 
    ![](assets/smartlistpeople.png)
 
-## 使用个人信息查找人物 {#find-people-using-personal-info}
+## 使用个人信息{#find-people-using-personal-info}查找人员
 
-1. 在屏 **幕底部的** “快速查找”框中，键入关键字(**个人姓名**、电 **子邮件地**&#x200B;址 **或职**&#x200B;务标题)。
+1. 在屏幕底部的“快速查找&#x200B;****”框中，键入关键字（**个人姓名**、**电子邮件地址**&#x200B;或&#x200B;**职务**）。
 
    ![](assets/searchpeople.png)
 
 1. 按Enter或单击搜索图标，您就完成了！
 
-## 使用公司名查找人员 {#find-people-using-a-company-name}
+## 使用公司名{#find-people-using-a-company-name}查找人员
 
-1. 要查找公司 [**，请在“快**] 速查找”框 **中键入** “公司”，然后键入要查找的公司名称的任何部分。
+1. 要查找公司，请在&#x200B;**快速查找**&#x200B;框中键入&#x200B;[**公司**]，然后键入要查找的公司名称的任何部分。
 
    ![](assets/supersmartlistsearch.jpg)
 
