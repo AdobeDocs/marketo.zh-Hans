@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将通信限制应用于智能活动 {#apply-communication-limits-to-smart-campaign}
+# 将通信限制应用于智能活动{#apply-communication-limits-to-smart-campaign}
 
 >[!PREREQUISITES]
 >
@@ -41,6 +41,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要将其设为默认值，请在“管 [理员](../../../../product-docs/administration/email-setup/enable-communication-limits.md) ”部分编辑通信限制。
+>要将其设为默认值，请在“管理员”部分编辑[通信限制](../../../../product-docs/administration/email-setup/enable-communication-limits.md)。
 
 真贴心。 现在，您可以确保不会意外向受众发送过多电子邮件。
