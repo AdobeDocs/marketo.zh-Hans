@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 创建静态列表 {#create-a-static-list}
+# 创建静态列表{#create-a-static-list}
 
 静态列表是数据库中已有的一组人员。 下面介绍如何创建一个。
 
-1. 转到数 **据库**。
+1. 转至&#x200B;**Database**。
 
    ![](assets/db.png)
 
-1. 单击“ **新建** ”下拉框，然后选 **择“新建”**。
+1. 单击&#x200B;**新建**&#x200B;下拉框，然后选择&#x200B;**新建列表**。
 
    ![](assets/two.png)
 
-1. 选择目标文件夹，为新列表命名，然后单击“创 **建”**。
+1. 选择目标文件夹，为新列表命名，然后单击&#x200B;**创建**。
 
    ![](assets/three.png)
 
-   您现在有空列表可以填写。 了解如何在此处添加 [人员](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)。
+   您现在有空列表可以填写。 了解如何在此处添加人员[](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)。
 
    >[!NOTE]
    >
