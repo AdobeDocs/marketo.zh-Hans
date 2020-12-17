@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在收入阶段查找所有人员 {#find-all-people-in-a-revenue-stage}
+# 查找收入阶段中的所有人员{#find-all-people-in-a-revenue-stage}
 
 >[!PREREQUISITES]
 >
@@ -21,25 +21,25 @@ ht-degree: 0%
 
 
 
-## 查找特定收入阶段的所有成员 {#find-all-members-of-a-specific-revenue-stage}
+## 查找特定收入阶段{#find-all-members-of-a-specific-revenue-stage}的所有成员
 
-1. 在智能列表中，单击**智能列表**选项卡，找到“收 **入阶段** ”过滤器，并将其拖入画布。
+1. 在智能列表中，单击**智能列表**选项卡，找到&#x200B;**收入阶段**&#x200B;过滤器，然后将其拖入画布。
 
    ![](assets/draginrevenuefilter.png)
 
-1. 选择收 **入阶段**。
+1. 选择&#x200B;**收入阶段**。
 
    ![](assets/two.jpg)
 
-1. 转到“人 **员** ”选项卡以视图结果。
+1. 转到&#x200B;**People**&#x200B;选项卡以视图结果。
 
    ![](assets/peopleresults.jpg)
 
-## 对收入阶段的成员运行流步骤 {#run-a-flow-step-on-the-members-of-a-revenue-stage}
+## 在收入阶段{#run-a-flow-step-on-the-members-of-a-revenue-stage}的成员上运行流步骤
 
-现在，您了解哪些人处于收入阶段，可以直接向他们营销。 除了选 **择收入阶段** (作为智能列表过滤器)之外，您还可以在流中选择它作为“if”过滤器。
+现在，您了解哪些人处于收入阶段，可以直接向他们营销。 除了选择&#x200B;**收入阶段**&#x200B;作为智能列表过滤器外，您还可以选择它作为流中的“if”过滤器。
 
-1. 在所需的流步骤中，单 **击添加** 选择， **然后从下拉** 菜单中选择收入阶段。
+1. 在所需的流步骤中，单击&#x200B;**添加选择**&#x200B;并从下拉菜单中选择&#x200B;**收入阶段**。
 
    ![](assets/six.png)
 
