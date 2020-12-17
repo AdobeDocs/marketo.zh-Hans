@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 创建仅API用户 {#create-an-api-only-user}
+# 创建仅API用户{#create-an-api-only-user}
 
-如果要通过REST API与Marketo [集成](http://developers.marketo.com/documentation/rest/)，您将需要创建仅API用户。 这是方法。
+如果要通过[REST API](http://developers.marketo.com/documentation/rest/)与Marketo集成，您将需要创建仅用于API的用户。 这是方法。
 
 >[!PREREQUISITES]
 >
@@ -27,15 +27,15 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在“管 **理员**”下，单 **击“用户和角色”。**
+1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**“用户和角色”。**
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
-1. 单击“ **邀请新用户**”。
+1. 单击&#x200B;**邀请新用户**。
 
    ![](assets/image2014-9-17-9-3a32-3a3.png)
 
-1. 为仅API用户输入电子邮件、名字和姓氏。 单击“ **下一步**”。
+1. 为仅API用户输入电子邮件、名字和姓氏。 单击&#x200B;**下一步**。
 
    ![](assets/image2016-5-24-10-3a53-3a7.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
    >
    >添加可选原因或访问到期日期。 短期员工可轻松使用访问过期日期。
 
-1. 选择“ **仅API** ”角色并选 **中“仅API** ”复选框。 单击“ **下一步**”。
+1. 选择&#x200B;**API Only**&#x200B;角色并选中&#x200B;**API Only**&#x200B;复选框。 单击&#x200B;**下一步**。
 
    ![](assets/four.png)
 
-1. 单击“ **发送**”。
+1. 单击&#x200B;**发送**。
 
    ![](assets/image2016-5-24-11-3a8-3a20.png)
 
