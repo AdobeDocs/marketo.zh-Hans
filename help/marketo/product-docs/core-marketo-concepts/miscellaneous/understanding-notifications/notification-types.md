@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 通知类型 {#notification-types}
+# 通知类型{#notification-types}
 
 有几种通知类型。
 
-## 活动故障  {#campaign-failure}
+## 活动故障{#campaign-failure}
 
 活动失败会通知您智能活动中的错误。
 
-## CRM同步 {#crm-sync}
+## CRM同步{#crm-sync}
 
 CRM同步通知会提醒您CRM同步发现的关键问题，如权限不正确或同步断开。
 
@@ -47,7 +47,7 @@ Facebook
 
 空闲触发器活动清除
 
-取消激活已触发的智能活动，不再获得任何活动。 进一步了解 [自动触发活动清理](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
+取消激活已触发的智能活动，不再获得任何活动。 了解有关[自动触发活动清除的更多信息](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 
 LinkedIn
 
@@ -61,5 +61,5 @@ Web服务
 
 >[!NOTE]
 >
->我们的开发人员文档中概述了您可能收到的一些 [错误代码](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)。
+>我们的[开发人员文档](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)中概述了您可能收到的一些错误代码。
 
