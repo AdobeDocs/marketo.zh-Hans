@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 隐含的Salesforce操作 {#implied-salesforce-actions}
+# 默示的Salesforce操作{#implied-salesforce-actions}
 
 运行特定于Salesforce的流步骤时，有时会自动执行额外步骤。 以下是规则，您知道：
 
-当人员当前 *不在Salesforce.com中 [作为联系人](http://Salesforce.com)* 或潜在客户时，这些规则将适用。
+当人员当前不在[Salesforce.com](http://Salesforce.com)*中时，这些规则将应用*&#x200B;作为联系人或潜在客户。
 
 <table> 
  <thead> 
@@ -31,7 +31,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>在SFDC活动中更改状态</td> 
-   <td>将人员同步<br>到SFDC Dd到SFDC活动</td> 
+   <td>将人员同步到SFDC<br>添加到SFDC活动</td> 
   </tr> 
   <tr> 
    <td>更改所有者</td> 
@@ -48,8 +48,8 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-您可以使用SFDC类型过滤器在智能列表中过滤 **掉SFDC记录** ，并将运算符设置为“不为空”。 所有SFDC记录在此字段中都有值。
+您可以使用&#x200B;**SFDC类型**&#x200B;过滤器过滤智能列表中的SFDC记录，并将运算符设置为“不为空”。 所有SFDC记录在此字段中都有值。
 
-请记住，仅当潜在客户当前不在Salesforce.com中时，才会执 [行这些自动操作](http://Salesforce.com)
+请记住，仅当潜在客户当前不在[Salesforce.com](http://Salesforce.com)中时，才会执行这些自动操作
 
 Salesforce同步很酷，对吧？
