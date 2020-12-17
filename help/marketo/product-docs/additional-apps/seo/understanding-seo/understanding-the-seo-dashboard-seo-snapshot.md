@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 了解SEO仪表板:SEO快照 {#understanding-the-seo-dashboard-seo-snapshot}
+# 了解SEO仪表板:SEO快照{#understanding-the-seo-dashboard-seo-snapshot}
 
 使用该仪表板可以高级视图关键字排名的趋势以及针对SEO优化网站的效果。
 
-要了解要重点改进SEO工作的方法，请使用本 [仪表板的](understanding-the-seo-dashboard-seo-recommendations.md) “Recommendations”部分。
+要了解要重点改进SEO工作的方法，请使用本仪表板的[Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)部分。
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## 关键字排名摘要 {#keyword-rank-summary}
+## 关键字排名摘要{#keyword-rank-summary}
 
-此部分显示您对所定位的关键字 [对网站的排名](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)。
+此部分显示您所定位的[关键字对网站的排名。](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您还可以视图特定 [列表的关](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) 键字的执行情况。 单击下拉列表，然后选择您感兴趣的对象。
+>您还可以视图关键字的[特定列表](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)的执行情况。 单击下拉列表，然后选择您感兴趣的对象。
 
 滚开！ 我们继续前进。
 
-## 平均页面优化得分 {#average-page-optimization-score}
+## 平均页面优化得分{#average-page-optimization-score}
 
 “平均页面优化分数”是专有的Marketo分数，它以1到100的比例衡量您网站上的所有页面。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 >
 >您还可以查看特定列表页面的优化分数。 使用下拉列表，选择您感兴趣的选项。
 
-## 关键字排名趋势 {#keyword-rank-trends}
+## 关键字排名趋势{#keyword-rank-trends}
 
 “关键字排名趋势”图用每月最多的5个搜索量拉取您的关键字，并绘制它们随时间的排名。
 
