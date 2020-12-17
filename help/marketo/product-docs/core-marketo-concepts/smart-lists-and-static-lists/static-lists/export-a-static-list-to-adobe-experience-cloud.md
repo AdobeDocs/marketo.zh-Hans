@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将静态列表导出到Adobe Experience Cloud {#export-a-static-list-to-adobe-experience-cloud}
+# 将静态列表导出到Adobe Experience Cloud{#export-a-static-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
@@ -21,34 +21,34 @@ ht-degree: 0%
 >
 >[设置Adobe Experience Cloud受众共享](http://docs.marketo.com/x/D4GMAg)
 
-## 支持的目标应用程序 {#supported-destination-applications}
+## 支持的目标应用程序{#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics **(仅** 有Adobe Audience Manager牌照)
+* Adobe Analytics(**仅**(如果您拥有Adobe Audience Manager许可证)
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Adobe实时客户数据平台
 * Adobe Target
 
-## 如何导出列表 {#how-to-export-a-list}
+## 如何导出列表{#how-to-export-a-list}
 
 1. 在Marketo中，查找并选择要导出的列表。
 
    ![](assets/one.png)
 
-1. 单击 **列表操作** 下拉框，然后选 **择发送到Experience Cloud**。
+1. 单击&#x200B;**列表操作**&#x200B;下拉框并选择&#x200B;**发送到Experience Cloud**。
 
    ![](assets/two-1.png)
 
-1. 单击 **Audience Manager文件** “Experience Cloud文件夹”下拉框，并在中选择所需的目标文件夹。
+1. 单击&#x200B;**Audience Manager文件夹**&#x200B;下拉框，并在Experience Cloud中选择所需的目标文件夹。
 
    ![](assets/three-1.png)
 
-1. 选择是创建新受众还是覆盖现有（在此示例中，我们将创建新的数据）。 输入新受众名称，然后单击“ **发送**”。
+1. 选择是创建新受众还是覆盖现有（在此示例中，我们将创建新的数据）。 输入新的受众名称，然后单击&#x200B;**发送**。
 
    ![](assets/four.png)
 
-1. 单击 **确定**。
+1. 单击&#x200B;**确定**。
 
    ![](assets/five.png)
 
@@ -56,11 +56,11 @@ ht-degree: 0%
    >
    >受众会员资格最长可能需要6-8小时，才能完全填入Adobe。
 
-## 注意事项 {#things-to-note}
+## 注意事项{#things-to-note}
 
 **共享到Adobe Analytics**
 
-对于同时拥有Adobe Audience Manager和Adobe Analytics的客户，此集成将允许受众从Market共享到您的Adobe Analytics报告套件，但是，在Adobe Audience Manager还需要执行一些其他配置步骤来实现这一点。 请查阅Adobe Audience Manager的文档，了解有关如何设置此设置的更多信息： [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html)。
+对于同时拥有Adobe Audience Manager和Adobe Analytics的客户，此集成将允许受众从Market共享到您的Adobe Analytics报告套件，但是，在Adobe Audience Manager还需要执行一些其他配置步骤来实现这一点。 请查阅Adobe Audience Manager的文档，了解有关如何设置此设置的更多信息：[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html)。
 
 **Adobe Audience Manager客户的特征使用**
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 * 对于Marketo已管理的所有ECID与导出列表中的Lead匹配，Marketo将使用ECID设备标识符编写一个特征。 该特征的名称将与您在导出过程中指定的目标受众名称匹配。
 * Marketo还将使用ECID特征作为唯一分段标准，在Audience Manager实例中创建区段。 区段的名称将与您在导出过程中指定的目标受众名称匹配。
 
-## 常见问题解答 {#faq}
+## 常见问题解答{#faq}
 
 **为什么Marketo的列表大小与Adobe的大小不同？**
 
@@ -80,4 +80,4 @@ ht-degree: 0%
 
 当您的Marketo订阅启用Cookie同步时，Marketo的munchkin.js将尝试为您在集成设置过程中指定的AdobeIMS组织捕获和存储AdobeECID，并将这些ECID与相应的Marketo Cookie标识符匹配。 这使得Marketo的匿名用户用户档案能够丰富AdobeECID。
 
-还需要进一步步骤来将匿名用户用户档案关联到潜在客户用户档案，潜在客户使用纯文本电子邮件进行标识。 具体如下所述： [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People)。
+还需要进一步步骤来将匿名用户用户档案关联到潜在客户用户档案，潜在客户使用纯文本电子邮件进行标识。 具体如下所述：[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People)。
