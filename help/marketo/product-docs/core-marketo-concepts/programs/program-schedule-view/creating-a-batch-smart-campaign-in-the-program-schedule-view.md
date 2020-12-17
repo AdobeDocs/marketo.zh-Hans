@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在项目计划活动中创建批智能视图 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
+# 在项目计划视图{#creating-a-batch-smart-campaign-in-the-program-schedule-view}中创建批智能活动
 
-您可以创建新的智能活动, [并从项目计划](rerun-a-smart-campaign-in-the-program-schedule-view.md) 中重新运行项目中的现有智能视图。
+您可以创建新的智能活动，并从项目计划视图重新运行项目中的现有智能[。](rerun-a-smart-campaign-in-the-program-schedule-view.md)
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. 为条目选择名称，该名称将成为您的新智能活动。 按Enter/ **Return键** ，确认名称。
+1. 为条目选择名称，该名称将成为您的新智能活动。 按&#x200B;**Enter/Return**&#x200B;键确认名称。
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. 单击“ **类型** ”下拉框并选 **择****智能**&#x200B;活动
+1. 单击&#x200B;**类型**&#x200B;下拉框，然后选择&#x200B;**智能** **活动**。
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 选择您的 [智能活动](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) 规则。
+1. 选择[智能活动](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)规则。
 
    ![](assets/changeprogramstatus-hands.png)
 
