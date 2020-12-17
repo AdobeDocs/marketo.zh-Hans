@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 设置电子邮件警报首选项 {#seo-set-your-email-alert-preferences}
+# SEO —— 设置电子邮件警报首选项{#seo-set-your-email-alert-preferences}
 
 您可以自定义电子邮件首选项，以确定何时更新您的SEO工作。
 
-1. 在顶部导航栏中，单击您的用户名。 单击“电 **子邮件首选项**”。
+1. 在顶部导航栏中，单击您的用户名。 单击&#x200B;**电子邮件首选项**。
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
