@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 删除品牌域 {#delete-a-branding-domain}
+# 删除品牌域{#delete-a-branding-domain}
 
 1. 在“我的营销人员”中，单击**管理员**，然后单击**电子邮件**链接。
 
