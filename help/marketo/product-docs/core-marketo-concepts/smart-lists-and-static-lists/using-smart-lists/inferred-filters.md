@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 推断过滤器 {#inferred-filters}
+# 推断过滤器{#inferred-filters}
 
-当某人访问您的网站时， [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 会将其添加到系统中。 我们在一个特殊的数据库中查找它们的IP，并推断出各种好信息。 看看。
+当某人访问您的网站时，[Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)会将其cookies并放入系统。 我们在一个特殊的数据库中查找它们的IP，并推断出各种好信息。 看看。
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 >在Web过滤器报告中使用这些活动。 使用销售代表的地盘，并在过去24小时内通过网站访客订阅自定义每日报告。 他们会喜欢的！
 >
 >* 已访问网页——最近24小时
->* 推断出的国家 [选择其领土]
+>* 推断的状态为[选择其地区]
 
 >
 
@@ -46,5 +46,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->进一步了解 [匿名活动和潜在客户](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)。
+>了解有关[匿名活动和潜在客户](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)的更多信息。
 
