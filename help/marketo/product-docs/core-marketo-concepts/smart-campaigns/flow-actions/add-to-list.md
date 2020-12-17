@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 添加到列表 {#add-to-list}
+# 添加到列表{#add-to-list}
 
-## 概述 {#overview}
+## 概述{#overview}
 
 此流步骤用于向列表添加人员。
 
 ![](assets/image2014-9-22-10-3a41-3a33.png)
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
 查找并选择要将人员添加到的列表。
 
