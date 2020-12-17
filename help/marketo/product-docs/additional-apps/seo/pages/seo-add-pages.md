@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 添加页面 {#seo-add-pages}
+# SEO —— 添加页面{#seo-add-pages}
 
 你有页！ Marketo SEO将自动爬网并跟踪您的网站。 如果我们错过了几个，请将它们添加到SEO应用程序，如下所示：
 
-1. 转到“页 **面** ”部分。
+1. 转到&#x200B;**页**&#x200B;部分。
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. 单击 **添加页面**。
+1. 单击&#x200B;**添加页面**。
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. 键入要添加的URL。 单击 **添加**。
+1. 键入要添加的URL。 单击&#x200B;**ADD**。
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >您是否知道可 [以将页面添加到新列表或现有](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? 看看！
+   >您是否知道可以[将页面添加到新列表或现有客户](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? 看看！
 
    加载页面数据可能需要一些时间。 等待绿色警报消息并刷新页面以更新显示屏。
    ![](assets/image2014-9-18-12-3a57-3a10.png)
