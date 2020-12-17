@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 在项目计划视图中创建条目 {#creating-an-entry-in-the-program-schedule-view}
+# 在项目计划视图{#creating-an-entry-in-the-program-schedule-view}中创建条目
 
 您可以从项目计划视图中创建条目以补充现有项目。
 
-## 创建基本条目 {#create-a-basic-entry}
+## 创建基本条目{#create-a-basic-entry}
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择项目。 单击 **视图** 下拉框。 选择 **计划**。
+1. 选择项目。 单击&#x200B;**视图**&#x200B;下拉列表。 选择&#x200B;**计划**。
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. 输入您的说明，然后单 **击保存**。
+1. 输入说明，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
-## 更改条目类型 {#change-entry-type}
+## 更改条目类型{#change-entry-type}
 
-1. 从“议程”视图中选择一 **个基本** 条目。
+1. 从&#x200B;**议程**&#x200B;视图中选择一个基本条目。
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. 选择 **类型** 下拉框。 选择新的输入类型。
+1. 选择&#x200B;**类型**&#x200B;下拉列表。 选择新的输入类型。
 
    >[!NOTE]
    >
-   >待办事项是自定 [义条目](create-custom-entry-types.md)。 您可以创建待办事项和其他自定义条目，以帮助跟踪非营销人员的议程项目。
+   >待办事项是[自定义条目](create-custom-entry-types.md)。 您可以创建待办事项和其他自定义条目，以帮助跟踪非营销人员的议程项目。
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 您还可以从活动 [创建](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) 智 [能](creating-a-new-email-program-in-the-schedule-view.md) ，或通过计划视图创建电子邮件项目。
+> 您还可以从活动视图创建[智能项目](creating-a-batch-smart-campaign-in-the-program-schedule-view.md)或[电子邮件计划](creating-a-new-email-program-in-the-schedule-view.md)。
 
