@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 在智能活动中编辑资格规则 {#edit-qualification-rules-in-a-smart-campaign}
+# 在智能活动{#edit-qualification-rules-in-a-smart-campaign}中编辑资格规则
 
 资格规则控制某人在智能活动中流程的次数。 默认情况下，即使某人多次触发智能活动，它们也只会通过流发送一次。 下面介绍如何修改这些设置。
 
-1. 在智能活动中，单击“ **计划** ”选项卡， **然后单击“编辑设置”**。
+1. 在智能活动中，单击&#x200B;**计划**&#x200B;选项卡，然后单击&#x200B;**编辑设置**。
 
    ![](assets/programeditsettings-hands.png)
 
    >[!TIP]
    >
-   >您还可以单击 **“智能** 活动设置”右侧的“编辑”。
+   >您还可以单击“智能活动设置”右侧的&#x200B;**编辑**。
 
-1. 选择引导您的员工通过智能活动流的频率： **每次**, **或每#天**/周 **/月****一次******。
+1. 选择引导您的员工通过智能活动流的频率：**每次**、**或**&#x200B;每#天&#x200B;**/**&#x200B;周&#x200B;**/**&#x200B;月&#x200B;**一次。**
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >默认情况下，通信限制不应用于智能活动。 了解如何 [将通信限制应用于智能活动](apply-communication-limits-to-smart-campaign.md)。
+   >默认情况下，通信限制不应用于智能活动。 了解如何[将通信限制应用于智能活动](apply-communication-limits-to-smart-campaign.md)。
 
    >[!NOTE]
    >
