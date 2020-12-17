@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在电子邮件中使用动态内容 {#using-dynamic-content-in-an-email}
+# 在电子邮件{#using-dynamic-content-in-an-email}中使用动态内容
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 在电子邮件中使用动态内容发送您的潜在客户目标信息。
 
-## 添加分段 {#add-segmentation}
+## 添加分段{#add-segmentation}
 
 1. 转到营销活动。
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    ![](assets/1.2.png)
 
-1. 在本例中，我们使“主题行”变为动态。 在“主题”字段中单击，然后单击“制 **作动态** ”按钮。
+1. 在本例中，我们使“主题行”变为动态。 单击“主题”字段，然后单击&#x200B;**Make Dynamic**&#x200B;按钮。
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >您还可以使电子邮件中的元素变为动态元素。 为此，请选择区域，单击齿轮图标，然后选 **择“动态** ”( [或根据所做操作](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，选择“替换为代码片断”)。
+   >您还可以使电子邮件中的元素变为动态元素。 为此，请选择区域，单击齿轮图标，然后选择&#x200B;**Make Dynamic**（或[ Replace with Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，具体取决于您正在执行的操作）。
 
    输入分段名称，将其选中，然后单击保存。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/1.5.png)
 
-## 应用动态内容 {#apply-dynamic-content}
+## 应用动态内容{#apply-dynamic-content}
 
 >[!CAUTION]
 >
