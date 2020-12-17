@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 存档和取消存档流内容
 
-如果您不再希望在流中使用某段内容，可以删除该内容 [或将](/help/sky/remove-stream-content.md) 其存档。
+如果您不再想在流中使用某段内容，可以[删除](/help/sky/remove-stream-content.md)它或将其存档。
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. 单击选项 **[!UICONTROL Streams]** 卡
+1. 单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡
 
    ![图像2](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![图3](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. 选择 **[!UICONTROL Archive]**。
+1. 选择&#x200B;**[!UICONTROL Archive]**。
 
    ![图像4](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
    ![图像5](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. 单击选 **[!UICONTROL Streams]** 项卡。
+1. 单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![图6](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. 单击流的齿轮图标，然后单击 **[!UICONTROL Show Archived Content]**。
+1. 单击流的齿轮图标，然后单击&#x200B;**[!UICONTROL Show Archived Content]**。
 
    ![图像七](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![图像8](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. 选择 **[!UICONTROL Unarchive]**。
+1. 选择&#x200B;**[!UICONTROL Unarchive]**。
 
    ![图像9](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
