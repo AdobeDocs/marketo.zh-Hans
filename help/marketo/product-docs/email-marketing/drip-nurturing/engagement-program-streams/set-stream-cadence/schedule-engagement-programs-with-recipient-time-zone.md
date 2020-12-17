@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 计划项目与收件人时区 {#schedule-engagement-programs-with-recipient-time-zone}
+# 计划项目与收件人时区{#schedule-engagement-programs-with-recipient-time-zone}
 
-当您 [计划参与项目流](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) ，并且收件人时区处于活动状态时，项目播放将在第一个时区的午夜(UTC +14:00)运行。 我们要求您在将来至少 **计划25小时** ，因为在全球的每个时区，都可能有人有资格参加。 在第一个时区开始处理时，我们将确保在每个收件人的预定日期和时间发送电子邮件。
+当您[计划参与项目流](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones)且收件人时区处于活动状态时，项目播放将在第一个时区的午夜(UTC +14:00)运行。 我们要求您在将来至少计划第一次演出&#x200B;**25小时**，因为可能有人有资格在全球每个时区进行该演出。 在第一个时区开始处理时，我们将确保在每个收件人的预定日期和时间发送电子邮件。
 
-1. 在参与项目中，导航到“流 **”选项卡** ，然后单击流的节奏计划进行编辑。
+1. 在参与项目中，导航到&#x200B;**流**&#x200B;选项卡，然后单击流的节奏计划以编辑它。
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [按正常方式](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) 设置节奏设置，然后选中“**收件人时区”**框。 请记住，您的首场演出将至少需要25小时。 单击 **保存**。
+1. [根据正常情](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) 况设置节奏设置，然后选中“**收件人时区**”框。请记住，您的首场演出将至少需要25小时。 单击&#x200B;**保存**。
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
