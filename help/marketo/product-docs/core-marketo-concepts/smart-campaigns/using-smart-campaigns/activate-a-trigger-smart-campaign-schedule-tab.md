@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 激活触发器智能活动 |计划选项卡 {#activate-a-trigger-smart-campaign-schedule-tab}
+# 激活触发器智能活动 |计划选项卡{#activate-a-trigger-smart-campaign-schedule-tab}
 
 激活触发器智能活动就像将其打开一样。 这是该做什么。
 
-1. 在智能活动的 **计划** 选项卡中， **单击激活**。
+1. 在智能活动的&#x200B;**计划**&#x200B;选项卡中，单击&#x200B;**激活**。
 
    ![](assets/activateprogram-hands.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >激活前请查看智能活动。
 
-1. 再次 **单击** “激活”。
+1. 再次单击&#x200B;**激活**。
 
    ![](assets/activatecampaign-hand.png)
 
