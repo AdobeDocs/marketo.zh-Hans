@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 为“人员详细信息”页面创建自定义选项卡 {#creating-a-custom-tab-for-the-person-detail-page}
+# 为“人员详细信息”页面{#creating-a-custom-tab-for-the-person-detail-page}创建自定义选项卡
 
 如果您发现自己反复在人员详细信息中查找特定的字段集，请考虑创建自定义布局以简化操作。
 
-1. 转到“管 **理员** ”并单 **击“字段管理**”。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**字段管理**。
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. 单击“自定 **义布局设计器** ”选项卡。
+1. 单击&#x200B;**自定义布局设计器**&#x200B;选项卡。
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
