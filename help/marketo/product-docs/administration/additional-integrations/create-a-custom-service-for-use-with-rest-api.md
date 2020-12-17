@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 创建与ReST API一起使用的自定义服务 {#create-a-custom-service-for-use-with-rest-api}
+# 创建用于ReST API {#create-a-custom-service-for-use-with-rest-api}的自定义服务
 
 如果要通过ReST API与Marketo集成，您将需要创建自定义服务。 这是方法。
 
@@ -32,23 +32,23 @@ ht-degree: 0%
 >
 >**深潜**
 >
->有关ReST API的详细信息，请查阅我们的 [开发人员文档](http://developers.marketo.com/documentation/rest/)。 如果您需 [要SOAP](http://developers.marketo.com/documentation/soap/) API，我们也有它。
+>请查看我们的开发人员文档，了解有关[ReST API](http://developers.marketo.com/documentation/rest/)的详细信息。 如果您需要[SOAP API](http://developers.marketo.com/documentation/soap/)，我们还有&lt;a0/>SOAP API&lt;a1/>。
 
 >[!NOTE]
 >
 >如果您拥有Spark级别的Marketo，则无法创建自定义服务。
 
-## 创建自定义服务 {#create-custom-service}
+## 创建自定义服务{#create-custom-service}
 
-1. 转到“管 **理员** ”并单 **击LaunchPoint**。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**LaunchPoint**。
 
    ![](assets/image2014-9-19-10-3a38-3a15.png)
 
-1. 在“ **新建**”下，单 **击“新建服务**”。
+1. 在&#x200B;**新建**&#x200B;下，单击&#x200B;**新建服务**。
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. 输入服 **务的显** 示名称。 选择以 **前创建的仅**[限API用户](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)。
+1. 输入服务的&#x200B;**显示名称**。 选择“仅API用户&#x200B;****”。[](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
 
    >[!NOTE]
    >
@@ -58,27 +58,27 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-10-3a38-3a32.png)
 
-1. 单击 **创建**。
+1. 单击&#x200B;**创建**。
 
    ![](assets/image2014-9-19-10-3a39-3a28.png)
 
    哦，耶！ 该服务现已创建，我们继续获取要提供访问的所有凭据。
 
-## API访问凭据 {#credentials-for-api-access}
+## API访问{#credentials-for-api-access}的凭据
 
-1. 转到“管 **理员** ”并单 **击LaunchPoint**。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**LaunchPoint**。
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. 单击 **视图** “详细信息”，查看上面创建的自定义LaunchPoint服务。
+1. 单击&#x200B;**视图详细信息**，查看上面创建的自定义LaunchPoint服务。
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
-1. 单击 **获取令牌**。
+1. 单击&#x200B;**获取令牌**。
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. 为负责建立连接的人员提 **供**客**&#x200B;户端 **ID****、 **客户端机密** 、授权用户和令牌。
+1. 向负责建立连接的人员提供**客户端Id**、**客户端机密**、**授权用户**&#x200B;和&#x200B;**令牌**。
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
