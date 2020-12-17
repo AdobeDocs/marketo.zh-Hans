@@ -15,21 +15,21 @@ ht-degree: 0%
 
 您可以手动添加入站链接。 下面介绍如何：
 
-1. 转到“入站 **链接** ”部分。
+1. 转至&#x200B;**入站链接**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. 单击 **添加URL**。
+1. 单击&#x200B;**添加URL**。
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. 键入URL。 单击 **添加**。
+1. 键入URL。 单击&#x200B;**ADD**。
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >您是否知道可 [以将入站链接添加到新列表或现有](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? 看看！
+   >您知道可以[将入站链接添加到新列表或现有客户](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)吗？ 看看！
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
