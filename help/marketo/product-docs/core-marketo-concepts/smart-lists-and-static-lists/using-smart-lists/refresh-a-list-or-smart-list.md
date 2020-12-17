@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 刷新列表或智能列表 {#refresh-a-list-or-smart-list}
+# 刷新列表或智能列表{#refresh-a-list-or-smart-list}
 
 如果您运行了智能列表并且几分钟过去了，结果现在可能会有所不同——请刷新以了解。
 
-## 刷新结果 {#refresh-results}
+## 刷新结果{#refresh-results}
 
-1. 要更新智能列表 **的** “人员”选项卡中的数据，请单击刷新图标。
+1. 要更新智能列表的&#x200B;**People**&#x200B;选项卡中的数据，请单击刷新图标。
 
    ![](assets/refreshbutton.png)
 
