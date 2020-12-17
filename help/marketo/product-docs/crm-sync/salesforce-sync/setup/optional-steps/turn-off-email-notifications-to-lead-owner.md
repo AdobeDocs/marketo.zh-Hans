@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 关闭潜在客户所有者的电子邮件通知 {#turn-off-email-notifications-to-lead-owner}
+# 关闭向潜在客户所有者发送电子邮件通知{#turn-off-email-notifications-to-lead-owner}
 
 您可以禁用在潜在客户分配时在Salesforce中发送给潜在客户所有者的自动电子邮件通知。 这是方法。
 
-1. 转至管 **理**。
+1. 转至&#x200B;**Admin**。
 
    ![](assets/admin-1.png)
 
-1. 单击 **Salesforce**。
+1. 单击&#x200B;**Salesforce**。
 
    ![](assets/adminsalesforce.png)
 
-1. 在“同 **步选项**”下，单 **击“编辑**”。
+1. 在&#x200B;**同步选项**&#x200B;下，单击&#x200B;**编辑**。
 
    ![](assets/salesforcesummary2.jpg)
 
-1. 取消选中“ **在潜在客户分配时向Salesforce中的所有者发送电子邮件通知** ”框。 单击 **保存**。
+1. 取消选中&#x200B;**在潜在客户分配**&#x200B;时向Salesforce中的所有者发送电子邮件通知框。 单击&#x200B;**保存**。
 
    ![](assets/new-screen.png)
 
