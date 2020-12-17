@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 清除字段值 {#clear-field-values}
+# 清除字段值{#clear-field-values}
 
-**更 [改数据值](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**很棒，但如何完 *全删除* 该值？ 问得好！
+** [更改数据值](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**很棒，但如何&#x200B;*删除*&#x200B;该值？ 问得好！
 
-1. 在流步骤中，选择要清除的字段，并键入**NULL **（全部大写）作为 **新值**。
+1. 在流步骤中，选择要清除的字段，并键入**NULL **（所有大写）作为&#x200B;**新值**。
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
