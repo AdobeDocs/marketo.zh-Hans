@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将现有Salesforce字段添加到Marketo同步 {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# 向Marketo同步{#add-an-existing-salesforce-field-to-the-marketo-sync}添加现有Salesforce字段
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 通常，Salesforce中的新自定义字段会自动同步到Marketo。 否则，Marketo Sync用户可能无法看到这些字段。 这是你如何解决的。
 
-1. 单击您的姓名，然后选择“ **设置**”。
+1. 单击您的姓名，然后选择&#x200B;**Setup**。
 
    ![](assets/image2015-6-30-14-3a20-3a6.png)
 
-1. 在左 **侧搜** 索栏中输入用户档案 **，然后单击“管理用** 户 **”**&#x200B;下的用户档案。
+1. 在左搜索栏中输入&#x200B;**用户档案**，然后单击&#x200B;**管理用户**&#x200B;下的&#x200B;**用户档案**。
 
    ![](assets/image2015-6-30-14-3a20-3a52.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/image2015-6-30-14-3a23-3a41.png)
 
-1. 在“字 **段级安全** ”部分下，单 **击包含字段的** 对象旁边的“视图”。
+1. 在&#x200B;**字段级安全**&#x200B;部分下，单击包含字段的对象旁边的&#x200B;**视图**。
 
    ![](assets/image2015-6-30-14-3a23-3a59.png)
 
-1. 单击 **编辑**。
+1. 单击&#x200B;**编辑**。
 
    ![](assets/image2015-6-30-14-3a24-3a28.png)
 
-1. 选中要 **添加到** “同步”的字段的“可见”复选框，然后单击“保 **存”**。
+1. 选中要添加到同步的字段的&#x200B;**Visible**&#x200B;复选框，然后单击&#x200B;**Save**。
 
    ![](assets/image2015-6-30-14-3a24-3a49.png)
 
