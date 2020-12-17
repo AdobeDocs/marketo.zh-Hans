@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 什么是Marketo? {#what-is-marketo}
+# 什么是Marketo?{#what-is-marketo}
 
 这是营销软件，有时称为营销自动化。 很酷。
 
-## 这是邮件爆炸工具吗？ {#is-it-a-mail-blast-tool}
+## 这是邮件爆炸工具吗？{#is-it-a-mail-blast-tool}
 
 在Marketo，你能做的一件事。 但还有更多。
 
-## 好，说到重点，有什么发现？ {#ok-get-to-the-point-whats-it-got}
+## 好，说到重点，有什么发现？{#ok-get-to-the-point-whats-it-got}
 
 * 表单编辑器
 * 登陆页编辑器
@@ -37,18 +37,18 @@ ht-degree: 0%
 * 项目分析
 * 没错，《邮件爆炸》
 
-## 我的母牛！ 我需要学习吗？ {#holy-cow-do-i-need-to-learn-all-that}
+## 我的母牛！ 我需要学习吗？{#holy-cow-do-i-need-to-learn-all-that}
 
 不，一点也不。 Marketo易于入门，并将随您而发展。 您可以随时间添加片段。
 
-## 我需要进行任何设置吗？ {#do-i-need-to-do-any-setup}
+## 我需要进行任何设置吗？{#do-i-need-to-do-any-setup}
 
-是的，我们制 [作了清单](/help/marketo/getting-started/setup-steps/setup-checklist.md)。
+是的，我们制作了[要执行的任务清单](/help/marketo/getting-started/setup-steps/setup-checklist.md)。
 
-## 我是否必须等到安装完成后才能学习？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
+## 我是否必须等到安装完成后才能学习？{#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-不！ 我们制作了大量简单的教程。 [从这里开始](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)。 他们应该花一个小时。 您可以随时开始。
+不！ 我们制作了大量简单的教程。 [从这里开始](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)。他们应该花一个小时。 您可以随时开始。
 
-## 我为什么还问问题？ {#why-am-i-still-asking-questions}
+## 我为什么还问问题？{#why-am-i-still-asking-questions}
 
 我不知道，但我们总是乐于助人。 我们在一起！
