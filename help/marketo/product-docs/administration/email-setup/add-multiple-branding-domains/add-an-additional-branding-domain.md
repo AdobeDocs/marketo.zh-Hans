@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 添加其他品牌域 {#add-an-additional-branding-domain}
+# 添加附加品牌域{#add-an-additional-branding-domain}
 
 在单个Marketo实例中运行多个品牌时添加一个额外的品牌域，并希望它们各自具有自己的品牌跟踪链接。
 
 >[!PREREQUISITES]
 >
->在添加其 [他品牌域之前](edit-your-default-branding-domain.md) ，必须用品牌域替换通用跟踪链接。
+>在添加其他品牌域之前，必须[用品牌域替换通用跟踪链接](edit-your-default-branding-domain.md)。
 
-1. 在“我的营销人员”中，单击**管理员**，然后单击“电子邮 **件** ”链接。
+1. 在“我的营销人员”中，单击**管理员**，然后单击&#x200B;**电子邮件**&#x200B;链接。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 输入新品牌域的名称，然后单击“保 **存”**。
+1. 输入新品牌域的名称，然后单击“保存&#x200B;**”。**
 
    ![](assets/three.png)
 
 >[!NOTE]
 >
->您可以选择将其设为主域，所有现有未发送的电子邮件均设置为“默认”，所有新创建的电子邮件都将默认设置为主域。 您将能够按 [电子邮件覆盖此内容](overwrite-primary-domain-for-emails.md)。
+>您可以选择将其设为主域，所有现有未发送的电子邮件均设置为“默认”，所有新创建的电子邮件都将默认设置为主域。 您将能够[根据每封电子邮件](overwrite-primary-domain-for-emails.md)覆盖此项。
 
 >[!NOTE]
 >
