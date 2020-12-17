@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 创建新工作区 {#create-a-new-workspace}
+# 新建工作区{#create-a-new-workspace}
 
 工作区对于细分公司很有用。 设置工作区的原因包括：
 
@@ -28,34 +28,34 @@ ht-degree: 0%
 >
 >**深潜**
 >
->首先了解工 [作区和人员分区](understanding-workspaces-and-person-partitions.md)。
+>首先，请阅读[了解工作区和人员分区](understanding-workspaces-and-person-partitions.md)。
 
 >[!NOTE]
 >
->要了解有关Workspace最佳实践的更多信息，请与Marketo [Professional Services联系](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)。
+>要了解有关Workspace最佳实践的更多信息，请联系[Marketo Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)。
 
-1. 在“管 **理**”下，单击“工 **作区和分区”**。
+1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**Workspaces &amp; Partitions**。
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
-1. 单击“新 **建工作区**”。
+1. 单击&#x200B;**新建工作区**。
 
    ![](assets/two-1.png)
 
-1. 输入**名称**，然后选 **择要使用的** “人员分区”。 选择主 **要人员分区**。
+1. 输入a** Name**，然后选择要使用的&#x200B;**人员分区**。 选择&#x200B;**主要人员分区**。
 
    >[!NOTE]
    >
    >**提醒**
    >
    >
-   >如果尚未 [创建](create-a-person-partition.md) ，请确保创建人员分区。
+   >如果尚未创建，请确保[创建人员分区](create-a-person-partition.md)。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >“所 **有人员分区**”** **复选框表示此工作区可以使用系统中的所有人员分区。
+   >**所有人员分区**** **复选框表示此工作区可以使用系统中的所有人员分区。
 
    >[!NOTE]
    >
@@ -76,7 +76,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 单击 **创建**。
+1. 单击&#x200B;**创建**。
 
    ![](assets/six.png)
 
