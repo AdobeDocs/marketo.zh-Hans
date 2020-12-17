@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SFDC同步：合并潜在客户／联系人／人员 {#sfdc-sync-merging-a-lead-contact-person}
+# SFDC同步：合并潜在客户／联系人／人员{#sfdc-sync-merging-a-lead-contact-person}
 
 有时最好只是列表规则。 下面介绍：
 
-* 在Salesforce中合并两个潜 **在客户**&#x200B;时，正常同步会告知Marketo，并且潜在客户会自动合并为Marketo中的人员。
-* 在Marketo中合并两 **个人** ，实际上与在Salesforce中合并他们作为潜在客户的过程相同。 它仍可自动工作。
-* 将潜在 **客户（人员）合并为联系人** ，工作方式相同。 最后，双方只有一个联系人。
+* 在&#x200B;**Salesforce**&#x200B;中合并两个潜在客户时，正常同步会告知Marketo，并且潜在客户会自动合并为Marketo中的人员。
+* 在&#x200B;**Marketo**&#x200B;中合并两个人实际调用的过程与在Salesforce中将他们合并为潜在客户的过程相同。 它仍可自动工作。
+* 将&#x200B;**潜在客户（人）合并到联系人**&#x200B;中的方式相同。 最后，双方只有一个联系人。
 * 合并时，将对默认得分进行总和。
 
 >[!NOTE]
@@ -34,5 +34,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->深入了解有关在Marketo中 [合并人员的更多信息](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)。
+>深入了解有关[在Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中合并人员的更多信息。
 
