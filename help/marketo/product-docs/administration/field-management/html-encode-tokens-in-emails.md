@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件中的HTML编码令牌 {#html-encode-tokens-in-emails}
+# 电子邮件{#html-encode-tokens-in-emails}中的HTML编码令牌
 
 启用／禁用电子邮件中使用的人物和公司令牌。
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >编码将字符转换为其HTML代码版本，以防止在传输时产生混淆(即“&amp;”已更改为“&amp;”)。 有关详细信息，请咨询您的Web开发人员。
 
-1. 转至管 **理**。
+1. 转至&#x200B;**Admin**。
 
    ![](assets/admin.png)
 
-1. 选择 **字段管理**。
+1. 选择&#x200B;**字段管理**。
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 选中“电 **子邮件中的HTML编码令牌** ”框以启用，取消选中以禁用。
+1. 选中“电子邮件&#x200B;**中的** HTML编码令牌”框以启用，取消选中以禁用。
 
    ![](assets/six.png)
 
