@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 冠军／挑战者：配置报告警报 {#champion-challenger-configure-report-alerts}
+# 冠军／挑战者：配置报告警报{#champion-challenger-configure-report-alerts}
 
 Marketo将向您发送有关电子邮件测试进展情况的报告。 下面介绍如何计划它。
 
@@ -35,11 +35,11 @@ Marketo将向您发送有关电子邮件测试进展情况的报告。 下面介
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. 单击“ **下一步**”。
+1. 单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. 验证所有信息是否正确，然后单击“关 **闭”**。
+1. 验证所有信息是否正确，然后单击&#x200B;**关闭**。
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
