@@ -16,11 +16,11 @@ ht-degree: 0%
 
 下面介绍如何将“我的令牌”分类到文件夹。
 
-1. 在活动 [!UICONTROL My Tokens] 文件夹或项目的选项卡中，单击右 [!UICONTROL Create Folder] 上方的图标。
+1. 在活动文件夹或项目的[!UICONTROL My Tokens]选项卡中，单击右上方的[!UICONTROL Create Folder]图标。
 
    ![图像1](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. 输入新文件夹的名称，然后从目 **[!UICONTROL Local Tokens]** 标 **[!UICONTROL Overridden Tokens]** 下拉菜单中选择或选择。 单击 **[!UICONTROL Save]**。
+1. 输入新文件夹的名称，然后从目标下拉列表中选择&#x200B;**[!UICONTROL Local Tokens]**&#x200B;或&#x200B;**[!UICONTROL Overridden Tokens]**。 单击&#x200B;**[!UICONTROL Save]**。
 
    ![图像2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要重命名文件夹，请右键单击它，然后单击 **[!UICONTROL Rename]**。
+>要重命名文件夹，请右键单击它，然后单击&#x200B;**[!UICONTROL Rename]**。
