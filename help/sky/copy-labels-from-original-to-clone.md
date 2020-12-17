@@ -16,18 +16,18 @@ ht-degree: 0%
 
 克隆资产时，您可以复制原始资产中的所有标签。 这是方法。
 
-1. 在树中右键单击要克隆的资产，然后 **[!UICONTROL Clone]** 在下拉列表中单击。
+1. 右键单击要在树中克隆的资产，然后单击下拉列表中的&#x200B;**[!UICONTROL Clone]**。
 
    ![图像1](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-1.jpg)
 
-1. 输入新克隆资产的信息。 然后，在 [!UICONTROL Labels]下面单击 **[!UICONTROL Copy Labels From Original]**。
+1. 输入新克隆资产的信息。 然后在[!UICONTROL Labels]下，单击&#x200B;**[!UICONTROL Copy Labels From Original]**。
 
    ![图像2](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-2.jpg)
 
-1. 复制的标签会自动填充。 单击 **[!UICONTROL Clone]** 以完成资产的创建。
+1. 复制的标签会自动填充。 单击&#x200B;**[!UICONTROL Clone]**&#x200B;以完成资产的创建。
 
    ![图3](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-3.jpg)
 
 >[!NOTE]
 >
->这是您可以将原始标签复制到克隆资产的唯一位置。 创建克隆资产后，您将只能从父 [资产复制标签](/help/sky/copy-labels-from-parent-to-child.md)。
+>这是您可以将原始标签复制到克隆资产的唯一位置。 创建克隆资产后，您将只能从父资产[复制标签。](/help/sky/copy-labels-from-parent-to-child.md)
