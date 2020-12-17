@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 禁用和启用已用尽的内容通知 {#disable-and-enable-exhausted-content-notifications}
+# 禁用和启用已用尽的内容通知{#disable-and-enable-exhausted-content-notifications}
 
 当用户耗尽流中的所有内容时，Marketo可以向您发送通知。 您可以根据需要禁用／启用通知。 这是方法。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择参与项目，然后单击“设 **置** ”选项卡。
+1. 选择参与项目，然后单击&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/setuptab.jpg)
 
-1. 多次-单击“用 **尽的内容通知”**。
+1. 多次-单击&#x200B;**已用尽的内容通知**。
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. 选择**关闭**(或 **打开**)并单击 **保存**。
+1. 选择**关闭**（或&#x200B;**打开**），然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
