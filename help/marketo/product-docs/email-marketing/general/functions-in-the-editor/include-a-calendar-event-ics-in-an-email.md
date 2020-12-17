@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在电子邮件中包含日历事件(.ics) {#include-a-calendar-event-ics-in-an-email}
+# 在电子邮件{#include-a-calendar-event-ics-in-an-email}中包含日历事件(.ics)
 
 日历文件令牌允许您向Marketo电子邮件添加日历事件(.ics)链接。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/one-6.png)
 
-1. 选择日历文件令牌，然后单击 **插入**。
+1. 选择日历文件令牌，然后单击&#x200B;**插入**。
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
