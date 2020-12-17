@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 允许用户访问工作区 {#allow-user-access-to-a-workspace}
+# 允许用户访问工作区{#allow-user-access-to-a-workspace}
 
 工作区可以是出于任何原因（如业务单位或地理区分）。 它们将资产(智能列表、项目等)分开 每个团队的成员。 下面介绍如何让用户访问一个或多个工作区。
 
@@ -23,17 +23,17 @@ ht-degree: 0%
 >
 >**深潜**
 >
->进一步了解工 [作区](understanding-workspaces-and-person-partitions.md)。
+>了解有关[workspaces](understanding-workspaces-and-person-partitions.md)的更多信息。
 
 1. 在“管理员”下，单击“用户和角色”。
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. 在“**用户**”选项卡下，选择用户，然后单击“编 **辑用户”**。
+1. 在**Users **选项卡下，选择用户并单击&#x200B;**编辑用户**。
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. 选择 **您希望用户** 有权访问的角色和工作区。
+1. 选择您希望用户能够访问的&#x200B;**角色和工作区**。
 
    >[!NOTE]
    >
