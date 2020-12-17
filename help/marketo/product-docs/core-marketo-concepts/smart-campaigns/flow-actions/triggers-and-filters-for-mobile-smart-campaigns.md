@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 针对移动智能活动的触发器和过滤器 {#triggers-and-filters-for-mobile-smart-campaigns}
+# 移动智能活动{#triggers-and-filters-for-mobile-smart-campaigns}的触发器和过滤器
 
 您可以为移动应用程序智能活动设置触发器和过滤器。
 
-对于大多数活动，都有触发器、过滤器和不活动过滤器。 使用不活动过滤器跟踪未发生的操作，如点击 *推送通知* 。
+对于大多数活动，都有触发器、过滤器和不活动过滤器。 使用不活动过滤器跟踪&#x200B;*未发生*&#x200B;的操作，如点击推送通知。
 
 * 已安装移动应用程序
 * 已打开移动应用程序
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 * 已发送推送通知——过滤器和不活动过滤器
 
-在右侧 **面板中** ，搜索移动应用程序以列表所有移动应用程序触发器和过滤器。
+在右面板中搜索&#x200B;**移动应用程序**&#x200B;以列表所有移动应用程序触发器和过滤器。
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
-## 约束 {#constraints}
+## 约束{#constraints}
 
 对触发器和过滤器使用约束进一步对数据进行排序。
 
@@ -57,9 +57,9 @@ ht-degree: 0%
 
 * 会话长度（秒）-应用程序处于前台时的会话时间
 
-* 是否启用推 **送** -如果为True，则表示可以发送推送通知。 **假** ，意味着他们不能；例如，此人可能已选择不接收推送通知
+* 是否启用推送- **True**&#x200B;表示可以发送推送通知。 **谎** 言意味着他们不能；例如，此人可能已选择不接收推送通知
 
-## 触发器和过滤器 {#triggers-and-filters}
+## 触发器和过滤器{#triggers-and-filters}
 
 **具有移动应用程序**
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 Has/Had移动应用程序活动
 
-这为跟踪自定义移动活动提供了一种强大的方法。 您需要与开发人员合作，为Android和iOS [设置](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android)[跟踪](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)。
+这为跟踪自定义移动活动提供了一种强大的方法。 您需要与开发人员合作，为Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android)设置跟踪[，为iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)设置跟踪[。
 
 * 具有移动应用活动-触发器
 
@@ -129,7 +129,7 @@ Has/Had移动应用程序活动
 >
 >**示例**
 >
->在“购物”的操作 *类型*&#x200B;下，有一个非常具体的操作，其他约束对其进行了定义：
+>在操作类型&#x200B;*Shopping*&#x200B;下，有一个非常具体的操作，其他约束定义它：
 >
 >* 买了一件衬衫
 >  * 是红色的
@@ -180,7 +180,7 @@ Has/Had移动应用程序活动
 >
 >使用“未点击推送通知”不活动过滤器查找最近未点击发送给他们的推送通知的用户，以便您可以通过电子邮件跟进。
 
-**已发送推送通知** 此活动仅可用作过滤器。
+**已发送推送** 通知此活动仅可用作过滤器。
 
 * 已发送推送通知——过滤器
 
