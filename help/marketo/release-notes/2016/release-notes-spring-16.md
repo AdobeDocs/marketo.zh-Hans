@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 发行说明：16年春 {#release-notes-spring}
+# 发行说明：Spring &#39;16 {#release-notes-spring}
 
 Spring &#39;16版包含以下功能。 请单击标题链接，以视图每个功能的详细文章。
 
@@ -31,7 +31,7 @@ Email Insights是一种全新的历史聚合数据电子邮件分析体验，作
 
 >[!NOTE]
 >
->电子邮件编辑器2.0（带有模板选取器）将从6月3日开始逐步推出。 我们将在6月30日前完成推广。 与电子邮件洞察不同，您在有权访问时不会收到通知。 要查看是否这样做，请按照本文中的 [步骤操作](https://docs.marketo.com/pages/viewpage.action?pageId=11373011)。
+>电子邮件编辑器2.0（带有模板选取器）将从6月3日开始逐步推出。 我们将在6月30日前完成推广。 与电子邮件洞察不同，您在有权访问时不会收到通知。 要查看是否这样做，请按照[本文](https://docs.marketo.com/pages/viewpage.action?pageId=11373011)中的步骤操作。
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -55,7 +55,7 @@ Email Insights是一种全新的历史聚合数据电子邮件分析体验，作
 
 ## [自定义活动](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
-Marketo管理员现在可以通过Marketo自定义活动定义建模器定义和管理其自定义活动类型。 与Marketo自定义对象建模器相似（并与之一起），管理员现在可以扩展数据模型以满足其确切的业务需求。 有关如何使用此功能的详细信息，请访问Marketo [文档站点](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)。
+Marketo管理员现在可以通过Marketo自定义活动定义建模器定义和管理其自定义活动类型。 与Marketo自定义对象建模器相似（并与之一起），管理员现在可以扩展数据模型以满足其确切的业务需求。 有关如何使用此功能的详细信息，请访问[Marketo文档站点](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)。
 
 ## [登陆页、登陆页模板和表单API](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
@@ -63,25 +63,25 @@ Marketo REST API现在支持对Marketo登陆页、登陆页模板和表单的控
 
 ## [IP列入允许列表以访问API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-与Marketo用户登列入允许列表录的IP功能相似，Marketo管理员现在可以设置一允许列表个IP地址，以访问Marketo SOAP和REST API，从而阻止从未授权的IP地址访问。 这为Marketo实例增加了一个安全层，并确保API访问只能从组织的网络中进行。 有关如何设置此设置的详细信息，请参阅Marketo [文档站点](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access)。
+与Marketo用户登列入允许列表录的IP功能相似，Marketo管理员现在可以设置一允许列表个IP地址，以访问Marketo SOAP和REST API，从而阻止从未授权的IP地址访问。 这为Marketo实例增加了一个安全层，并确保API访问只能从组织的网络中进行。 有关如何设置此设置的详细信息，请访问[Marketo文档站点](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access)。
 
 ## [全新高速Microsoft Dynamics同步连接器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 新的高速动态连接器以Orion架构为构建基础，在初始同步时速度提高20倍，在增量同步时速度提高5倍。 所有新客户将在发布日期加入此连接器，我们将在夏季发布时间范围内逐步向现有客户推出此连接器。
 
-**刷新新字段的数据**:现在，您可以在任何时间点启用新的同步字段，该字段的所有数据值都将从Dynamics CRM刷新到Marketo。 不必再担心在初始设置过程中必须选择所有字段。 如果禁用现有同步字段并稍后重新启用它，则该字段的所有数据值都将从Dynamics CRM刷新到Marketo。
+**刷新新字段的数据**:现在，您可以在任何时间点启用新的同步字段，该字段的所有数据值都将从Dynamics CRM刷新到Marketo。不必再担心在初始设置过程中必须选择所有字段。 如果禁用现有同步字段并稍后重新启用它，则该字段的所有数据值都将从Dynamics CRM刷新到Marketo。
 
 **将潜在客户同步为联系人**:“将潜在客户同步到Microsoft流”操作具有新选项，可以作为潜在客户或联系人进行同步。
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**同步错误管理选项卡**: 浏览、搜索或导出未能与操作、方向、错误代码和错误消息等详细信息同步的潜在客户（和其他对象）。
+**同步错误管理选项卡**:浏览、搜索或导出未能与操作、方向、错误代码和错误消息等详细信息同步的潜在客户（和其他对象）。
 
 ![](assets/sync-errors.png)
 
 **Microsoft Dynamics 2016**:Connector经过Dynamics 2016在线和内部部署版本的完全认证。
 
-**插件更新现在有文档记录：** 请参阅 [插件更新文档文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+**插件更新现在有文档说明：** 请参 [阅插件更新文档文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
 
 ## [友好实例名称](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
