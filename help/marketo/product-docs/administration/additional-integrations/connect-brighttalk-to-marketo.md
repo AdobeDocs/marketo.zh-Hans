@@ -19,33 +19,33 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-## BrightTALK中的步骤 {#steps-in-brighttalk}
+## BrightTALK {#steps-in-brighttalk}中的步骤
 
-1. 登录到business.brighttalk.com/demandcentral, [然后](http://business.brighttalk.com/demandcentral/login) 单击“ **立即连接”**。
-1. 在“Advanced Marketo Connector（高级营销工具连接器）”下，单 **击“Connect**（连接）”。
+1. 登录到[business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login)，然后单击&#x200B;**立即连接**。
+1. 在“Advanced Marketo Connector（高级营销连接器）”下，单击&#x200B;**Connect**。
 1. 您将进入凭据屏幕，询问：客户端ID、客户端机密、标识服务URL和休息服务URL。 要获取此信息，请登录Marketo。
 
-## 营销中的步骤 {#steps-in-marketo}
+## Marketo {#steps-in-marketo}中的步骤
 
 >[!NOTE]
 >
 >此时，您将需要设置“仅API用户角色”和“API用户”，以限制BrightTALK在您的Marketo实例中将具有的权限。 因为我们已经有这些步骤的文章，我们会将您链接到这些步骤。
 
-1. 创建仅 [限API的用户角色](http://docs.marketo.com/x/iwMk)。
+1. 创建[仅API用户角色](http://docs.marketo.com/x/iwMk)。
 1. [使用您在步骤](http://docs.marketo.com/x/jwMk)4中创建的BrightTALK API角色创建API用户。
 1. 返回“管理员”区域。
 
    ![](assets/one.png)
 
-1. 在“集成”下，单 **击LaunchPoint**。
+1. 在“集成”下，单击&#x200B;**LaunchPoint**。
 
    ![](assets/two.png)
 
-1. 单击“ **新建** ”下拉框，然后选 **择“新建服务**”。
+1. 单击&#x200B;**新建**&#x200B;下拉框并选择&#x200B;**新建服务**。
 
    ![](assets/three.png)
 
-1. 输入您选择的显示名称。 单击“服务”下拉框并选 **择“自定** ”( **不选** 择BrightTALK)。
+1. 输入您选择的显示名称。 单击“服务”下拉框并选择&#x200B;**Custom**（请选择&#x200B;**not** BrightTALK）。
 
    ![](assets/four.png)
 
@@ -53,29 +53,29 @@ ht-degree: 0%
    >
    >切记不要在下拉框中选择BrightTALK。 我们正在删除这一领域，选择它可能会在您的Marketo/BrightTALK集成中造成严重问题。
 
-1. 输入您选择的描述。 单击“仅API用户”下拉框，选择您在步骤5中创建的BrightTALK API用户。 单击 **创建**。
+1. 输入您选择的描述。 单击“仅API用户”下拉框，选择您在步骤5中创建的BrightTALK API用户。 单击&#x200B;**创建**。
 
    ![](assets/five.png)
 
-1. 单击 **视图** “详细信息”，查看您刚刚创建的自定义服务。
+1. 单击&#x200B;**视图详细信息**&#x200B;以获取您刚刚创建的自定义服务。
 
    ![](assets/six.png)
 
-1. 复制（并保存）客 **户端ID** 和客 **户端机密**。 单击 **关闭**。
+1. 复制（并保存）**客户端ID**&#x200B;和&#x200B;**客户端机密**。 单击&#x200B;**关闭**。
 
    ![](assets/eight-1.png)
 
-1. 在“集成”下，选 **择“Web服务**”。
+1. 在“集成”下，选择&#x200B;**Web服务**。
 
    ![](assets/nine-1.png)
 
-1. 在Rest API下，复制（并保存）终 **点** 和 **标识**。
+1. 在Rest API下，复制（并保存）**Endpoint**&#x200B;和&#x200B;**Identity**。
 
    ![](assets/ten.png)
 
-## BrightTALK中的步骤 {#steps-in-brighttalk-1}
+## BrightTALK {#steps-in-brighttalk-1}中的步骤
 
 1. 从步骤3返回至BrightTALK连接器设置屏幕，并输入您从步骤12和14保存的凭据。
 
-   验证凭据后，您已正式将BrightTALK连接到Marketo。 下一步是确 [定要同步的数据字段](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)。
+   验证凭据后，您已正式将BrightTALK连接到Marketo。 下一步是确定要同步的[数据字段。](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)
 
