@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 滴水，滴水，培养 {#drip-drip-nurture}
+# 滴滴，滴滴，培养{#drip-drip-nurture}
 
-## 任务：培养最近参加您展会的人 {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## 任务：培养最近参加您的展会的人{#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 您可以在Marketo中轻松创建高级、复杂的培养系统。 这就是方法！
 
@@ -23,53 +23,53 @@ ht-degree: 0%
 >* [导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
-## 第1步：创建参与项目 {#step-create-an-engagement-program}
+## 第1步：创建参与项目{#step-create-an-engagement-program}
 
-1. 转到“营销 **活动** ”区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/one-3.png)
 
-1. 选择“ **学习** ”文件夹，单 **击“新建** ”下拉框，然后选 **择“新建**”。
+1. 选择&#x200B;**Learning**&#x200B;文件夹，单击&#x200B;**New**&#x200B;下拉框，然后选择&#x200B;**New项目**。
 
    ![](assets/two-4.png)
 
-1. 输入名 **称** ，然后选 **择“参与** ”作 **为项目类型**。
+1. 输入&#x200B;**名称**，并为&#x200B;**项目类型**&#x200B;选择&#x200B;**参与**。
 
    ![](assets/three-3.png)
 
-1. 确保渠道 **字段** 为“ **Nurture** ”，然后单击 **“**&#x200B;创建”。
+1. 确保&#x200B;**渠道**&#x200B;字段为&#x200B;**Nurture**&#x200B;并单击&#x200B;**创建**。
 
    ![](assets/four-2.png)
 
    您现在已创建了参与项目。
 
-## 第2步：创建电子邮件 {#step-create-an-email}
+## 第2步：创建电子邮件{#step-create-an-email}
 
-1. 选择您的参与项目，然后单 **击新建** ，然 **后选择新建本地资产**。
+1. 选择您的参与项目，然后单击&#x200B;**新建**，然后选择&#x200B;**新建本地资产**。
 
    ![](assets/five-3.png)
 
-1. 单击“ **电子邮件**”。
+1. 单击&#x200B;**电子邮件**。
 
    ![](assets/six-3.png)
 
-1. 输入 **名称**，选择要 **使用的** 模板 **，然后单击创**&#x200B;建。
+1. 输入&#x200B;**名称**，选择要使用的&#x200B;**模板**，然后单击&#x200B;**创建**。
 
    ![](assets/seven-4.png)
 
    >[!NOTE]
    >
-   >看不到电子邮件编辑？ 您的浏览器可能已阻止该窗口。 在浏览器中启 [用app.marketo.com中的弹出](https://app.marketo.com) ，然后单击顶 **部菜单栏中** 的“编辑草稿”。
+   >看不到电子邮件编辑？ 您的浏览器可能已阻止该窗口。 在您的浏览器中启用[app.marketo.com](https://app.marketo.com)的弹出窗口，然后单击顶部菜单栏中的&#x200B;**编辑草稿**。
 
 1. 输入主题。
 
    ![](assets/eight-2.png)
 
-1. 选择要编辑的电子邮件区域，单击齿轮图标，然后选择“编 **辑”**。
+1. 选择要编辑的电子邮件区域，单击齿轮图标，然后选择&#x200B;**编辑**。
 
    ![](assets/nine-1.png)
 
-1. 编辑电子邮件，然后单 **击保存**。
+1. 编辑电子邮件，然后单击&#x200B;**保存**。
 
    ![](assets/ten-3.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/eleven-3.png)
 
-1. 在“电 **子邮件操作**”下，单 **击“批准**”。
+1. 在&#x200B;**电子邮件操作**&#x200B;下，单击&#x200B;**批准**。
 
    ![](assets/twelve-2.png)
 
@@ -89,11 +89,11 @@ ht-degree: 0%
 
    ![](assets/thirteen-2.png)
 
-## 第3步：向流中添加内容 {#step-add-content-to-your-stream}
+## 第3步：向流{#step-add-content-to-your-stream}添加内容
 
 1. 现在，是时候使用您创建的电子邮件为您的参与项目创建一系列内容了。
 
-1. 选择您的参与项目，然后单击“流 **”选** 项卡。
+1. 选择您的参与项目，然后单击&#x200B;**流**&#x200B;选项卡。
 
    ![](assets/fourteen-2.png)
 
@@ -103,11 +103,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您还可以使用“ **添加内容** ”按钮或 **流+** 图标。
+   >您还可以使用&#x200B;**添加内容**&#x200B;按钮或流&#x200B;**+**&#x200B;图标。
 
-## 第4步：激活流内容 {#step-activate-stream-content}
+## 第4步：激活流内容{#step-activate-stream-content}
 
-1. 通过单击流齿轮图标一次激活所有内容，然后单击“激 **活所有内容”**。
+1. 通过单击流齿轮图标一次激活所有内容，然后单击&#x200B;**激活所有内容**。
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -117,13 +117,13 @@ ht-degree: 0%
 
    干得好！ 再执行一步，就可以进行参与项目。
 
-## 第5步：设置流节奏 {#step-set-the-stream-cadence}
+## 第5步：设置流节奏{#step-set-the-stream-cadence}
 
-1. 单击“ **设置流节奏**”。
+1. 单击&#x200B;**设置流节奏**。
 
    ![](assets/seventeen.png)
 
-1. 编辑与所需计划匹配的设置，然后单击“保 **存**”。
+1. 编辑设置以匹配所需的计划，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -133,9 +133,9 @@ ht-degree: 0%
    >
    >测试人员是检查您的参与项目，以在发送给客户之前测试其正确性的人员。
 
-## 第6步：将测试人员添加到您的参与项目 {#step-add-a-test-person-to-your-engagement-program}
+## 第6步：将测试人员添加到您的参与项目{#step-add-a-test-person-to-your-engagement-program}
 
-1. 转到“数 **据库** ”区域。
+1. 转到&#x200B;**Database**&#x200B;区域。
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +151,7 @@ ht-degree: 0%
 
    ![](assets/twenty-one.png)
 
-1. 选择您的 **项目** 和流 **，然后**&#x200B;单击“立 **即运行**”。
+1. 选择&#x200B;**项目**&#x200B;和&#x200B;**流**，然后单击&#x200B;**立即运行**。
 
    ![](assets/twenty-two.png)
 
@@ -161,7 +161,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >进一步了解 [参与项目](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)。
+   >了解有关[参与项目](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)的更多信息。
 
 <br> 
 
