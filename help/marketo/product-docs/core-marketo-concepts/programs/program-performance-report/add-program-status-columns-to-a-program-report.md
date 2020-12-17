@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 将项目状态列添加到项目报表 {#add-program-status-columns-to-a-program-report}
+# 将项目状态列添加到项目报告{#add-program-status-columns-to-a-program-report}
 
-将项目状态统计信息添加到 [项目性能报告](create-a-program-performance-report.md)。
+向[项目性能报告](create-a-program-performance-report.md)添加项目状态统计信息。
 
 1. 转到营销活动（或Analytics）。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要显示项目状态列，只能按一个渠道 *筛选报表* 。
+   >要显示项目状态列，必须仅按&#x200B;*一个*&#x200B;渠道筛选报表。
 
 1. 选中“显示项目状态列”选项。 单击“应用”。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果项目中未显示每个状态的列，请确保已选 [择要在报表中显示的列](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 。
+>如果在项目中未看到每个状态的列，请确保已[选择要在报告中显示的列。](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 
 >[!MORELIKETHIS]
 >
@@ -59,5 +59,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->在基本报告 [中了解更多](http://docs.marketo.com/display/docs/basic+reporting)。
+>在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中了解更多信息。
 
