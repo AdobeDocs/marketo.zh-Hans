@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 搜索引擎中的视图关键字结果 {#seo-view-keyword-results-in-search-engine}
+# SEO —— 搜索引擎{#seo-view-keyword-results-in-search-engine}中的视图关键字结果
 
 如果您想要查看您的内容在搜索引擎中的显示效果，我们添加了一个方便的简短部分。
 
-1. 转到“关键 **字** ”部分。
+1. 转到&#x200B;**关键字**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. 将鼠标悬停在关键字上。 单击 **视图结果**。
+1. 将鼠标悬停在关键字上。 单击&#x200B;**视图结果**。
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
