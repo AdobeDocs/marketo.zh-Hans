@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 活动文件夹：“我的令牌”选项卡
 
-该选 [!UICONTROL My Tokens] 项卡列表活动文件夹中的所有“我的令牌”。
+[!UICONTROL My Tokens]选项卡列表活动文件夹中的所有“我的令牌”。
 
 ![图像1](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-1.png)
 
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 **深潜**
 
-了解有关使用我的 [令牌的更多信息](/help/sky/understanding-my-tokens.md)。
+了解有关使用[我的令牌](/help/sky/understanding-my-tokens.md)的更多信息。
