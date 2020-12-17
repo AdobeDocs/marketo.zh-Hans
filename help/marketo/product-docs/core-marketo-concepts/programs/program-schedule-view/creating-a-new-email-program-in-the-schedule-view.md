@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在计划项目中创建新电子邮件视图 {#creating-a-new-email-program-in-the-schedule-view}
+# 在计划视图{#creating-a-new-email-program-in-the-schedule-view}中创建新电子邮件项目
 
 您可以在项目视图内构建电子邮件项目计划。 这是方法。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. 输入名称。 选择 **电子邮件****项目**。
+1. 输入名称。 选择&#x200B;**电子邮件** **项目**。
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [设置电子邮件项目](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) ，然后单 **击批准项目**。
+1. [设置电子邮件程](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 序，然后单 **击批准项目**。
 
    ![](assets/learnaboutthespeaker.png)
 
-   除了详细的仪表板，使用电子邮件 [项目](http://docs.marketo.com/display/docs/email+programs) (而不是智能活动)的优势在于能够轻松 [地实施A/B测试](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。 享受！
+   除了详细仪表板，使用[电子邮件项目](http://docs.marketo.com/display/docs/email+programs)代替智能活动的优势在于能够容易地实现[A/B测试](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。 享受！
 
