@@ -16,11 +16,11 @@ ht-degree: 0%
 
 模型的性能取决于输入数据的质量和完整性。 下面介绍如何评估模型健康。
 
-导航到Marketo **[!UICONTROL Models and Data Health]** Classic区 **[!UICONTROL Predictive Audiences]** 域 **[!UICONTROL Admin]** 下的部分。 在这里，您将看到您的所有模型及其状态。
+导航到Marketo Classic **[!UICONTROL Admin]**&#x200B;区域&#x200B;**[!UICONTROL Predictive Audiences]**&#x200B;下的&#x200B;**[!UICONTROL Models and Data Health]**&#x200B;部分。 在这里，您将看到您的所有模型及其状态。
 
 ![图像1](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
-* **培训状态**:指示您的模型是否在积极培训（改进预测）。 每2周自动进行一次培训。 任何处理型&#x200B;_号_ ，最终都可能需要24小时。 对于任何&#x200B;_失败_ 的型号，请与Marketo [支持部门联系](https://nation.marketo.com/t5/Support/ct-p/Support)。
+* **培训状态**:指示您的模型是否在积极培训（改进预测）。每2周自动进行一次培训。 任何&#x200B;_Processing_&#x200B;型号的最终完成时间可能长达24小时。 对于任何&#x200B;_Failed_&#x200B;型号，请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)。
 * **评分状态**:指示您的模型是否正在积极计算项目成员的预测（似然百分比）。
 * **性能**：根据数据完整性和数据质量对模型运行状况进行分类（见下文）。
 * **数据完整性**:存在／完成的数据属性百分比。
