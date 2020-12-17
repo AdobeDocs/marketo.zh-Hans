@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 更改工作区的名称 {#change-the-name-of-a-workspace}
+# 更改工作区{#change-the-name-of-a-workspace}的名称
 
 >[!NOTE]
 >
@@ -27,17 +27,17 @@ ht-degree: 0%
 >
 >**深潜**
 >
->首先了解工 [作区和人员分区](understanding-workspaces-and-person-partitions.md)。
+>首先，请阅读[了解工作区和人员分区](understanding-workspaces-and-person-partitions.md)。
 
-1. 在“管 **理**”下，单击“工 **作区和分区”。**
+1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**工作区和分区。**
 
    ![](assets/image2014-9-17-11-3a8-3a28.png)
 
-1. 选择工作区，然后单击“ **编辑工作区”**。
+1. 选择工作区，然后单击&#x200B;**编辑工作区**。
 
    ![](assets/two-4.png)
 
-1. 为工作区输 **入新** “名称”，然后单击 **保存。**
+1. 为您的工作区输入新的&#x200B;**名称**，然后单击“保存”。****
 
    ![](assets/three-4.png)
 
