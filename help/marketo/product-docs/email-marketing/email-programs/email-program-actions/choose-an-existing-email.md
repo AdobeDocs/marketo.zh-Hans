@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# 选择现有电子邮件 {#choose-an-existing-email}
+# 选择现有电子邮件{#choose-an-existing-email}
 
 >[!PREREQUISITES]
 >
 >* [创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智能受众定义列表](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) , [或通过导入列表定义受众](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [用智能存储器定义受众](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 通 [过导入列表来定义受众](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-创建电子邮件 [项目并定义受众](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 后，您需要决定要发送的电子邮件。 您可以 [从头开始为电子邮件项目创建电子邮件](create-an-email-for-an-email-program.md) ，也可以选择已存在的电子邮件。 下面介绍如何选择已存在的。
+[创建了电子邮件项目](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)并定义了受众后，您需要决定要发送的电子邮件。 您可以从头开始[为电子邮件项目](create-an-email-for-an-email-program.md)创建电子邮件，或选择已存在的电子邮件。 下面介绍如何选择已存在的。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram.jpg)
 
-1. 在“电 **子邮件** ”拼贴下，选择要发送的拼贴。
+1. 在&#x200B;**电子邮件**&#x200B;拼贴下，选择要发送的拼贴。
 
-   ` ![](assets/image2014-9-12-11-3a28-3a10.png)
+   “ ![](assets/image2014-9-12-11-3a28-3a10.png)
 
-   `
+   “
 
    >[!NOTE]
    >
