@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 在项目计划视图中编辑条目 {#editing-entries-in-the-program-schedule-view}
+# 在项目计划视图{#editing-entries-in-the-program-schedule-view}中编辑条目
 
 您可以在项目视图中对计划的不同元素进行编辑。
 
-## 编辑条目的名称 {#edit-an-entrys-name}
+## 编辑条目名称{#edit-an-entrys-name}
 
 1. 选择要编辑的条目。
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. 键入新名称并按键 **盘上的Enter** /Return键确认更改。
+1. 键入新名称并按键盘上的&#x200B;**Enter/Return**&#x200B;以确认更改。
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 >
 >这只会更改计划视图中的显示名称。 您所在项目的资产名称将保持不变。
 
-## 编辑条目的说明 {#edit-an-entrys-description}
+## 编辑条目的说明{#edit-an-entrys-description}
 
 1. 单击描述图标。
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. 编辑您的描述。 单击 **保存**。
+1. 编辑您的描述。 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
-## 编辑条目的日期 {#edit-an-entrys-date}
+## 编辑条目的日期{#edit-an-entrys-date}
 
 1. 选择新日期。
 
