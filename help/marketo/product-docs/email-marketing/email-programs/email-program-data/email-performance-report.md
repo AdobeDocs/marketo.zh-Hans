@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件性能报告 {#email-performance-report}
+# 电子邮件性能报告{#email-performance-report}
 
 要了解您的电子邮件对已发送、打开、点击等统计信息的效果，请创建电子邮件性能报告。
 
-1. [在项目中创建报告](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，然后选择 **电子邮件**[性能报告类型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
-1. [更改报告时间范围](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然后单 **击报** 告选项卡。
+1. [在程序中创建报](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 告，然后选择 **电子邮件** [性能报告类型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [更改报告时间](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 框架，然后单击报 **** 告选项卡。
 1. 你在那！ 现在浏览报告，了解电子邮件的执行方式。
 
    >[!NOTE]
@@ -32,9 +32,9 @@ ht-degree: 0%
    >[!NOTE]
    >
    >
-   >电子邮件绩效报告包含所有人员的活动，包括自电子邮件发送后已删除的人员。 有时，您只希望看到活跃人员的活动。 在这种情况下，您需要从报表中筛选已删除的人员。 使用 **智能列表** 选项 [卡为报表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 创建智能列表。 如果您未对任何特定字段进行过滤，请将“电子邮件地址”过滤器设置为： **不是空的**。
+   >电子邮件绩效报告包含所有人员的活动，包括自电子邮件发送后已删除的人员。 有时，您只希望看到活跃人员的活动。 在这种情况下，您需要从报表中筛选已删除的人员。 使用&#x200B;**智能列表**&#x200B;选项卡[为报告创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 如果您未对任何特定字段进行过滤，请将“电子邮件地址”过滤器设置为：**不为空**。
 
-   [为“电子邮件](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) ”性能报告选择报告列包括：
+   [为电子邮件](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 性能报告选择报告列包括：
 
    | 列 | 说明 |
    |---|---|
@@ -42,7 +42,7 @@ ht-degree: 0%
    | 软退回 | 由于临时情况（如服务器关闭或收件箱已满），电子邮件被拒绝。 |
    | 待定 | 此数字通过从“已发送”总数中减去“已传送”、“退回”和“软退回”电子邮件数来计算。 |
    | 已点击链接 | 单击电子邮件中链接的电子邮件收件人数。 |
-   | 取消订阅 | 单击电子邮件中的“取消订 **阅** ”链接并填写表单的电子邮件收件人数。 |
+   | 取消订阅 | 单击电子邮件中的&#x200B;**取消订阅**&#x200B;链接并填写表单的电子邮件收件人数。 |
 
    >[!NOTE]
    >
@@ -50,13 +50,13 @@ ht-degree: 0%
 
 一般来说，我们试图用常识来记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，则显然他们首先打开了电子邮件。 我们遵循电子邮件性能报告的以下特定规则：
 
-* **规则1**:每个电子邮件活动记录均设置为以下一项，且仅设置为一项： *已交付**、*&#x200B;硬退回 *、*&#x200B;软退回 *或*&#x200B;待定。
+* **规则1**:每个电子邮件活动记录均设置为以下一项，且仅设置为一项： *已交付* *、*&#x200B;硬退回 *、*&#x200B;软退回 *或*&#x200B;待定。
 
 * **规则2**:如果电子邮件记录显 *示已*&#x200B;打开，则计为已 *送达*。
 
-* **规则3**:如果电子邮件记录显 *示“已点击* ”或“ *未订阅*”，则计为“已 *送达* ”和“已 **&#x200B;打开”。
+* **规则3**:如果电子邮件记录显 *示“* 已点击 *电子邮*&#x200B;件”或“未订 ** 阅 *”，则计为“已*&#x200B;交付和已打开”。
 
-* **规则4**:如果电子邮件已打 *开*，则会忽略弹回。 如果电子邮件尚未打开，则“硬 *退回* ”优先于“软退 *回”和“已* 送达” **。
+* **规则4**:如果电子邮件已打 *开*，则会忽略弹回。如果电子邮件尚未打开，则&#x200B;*硬退回*&#x200B;优先于&#x200B;*软退回*&#x200B;和&#x200B;*已送达*。
 
 >[!NOTE]
 >
@@ -75,5 +75,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->在基本报告 [中了解更多](http://docs.marketo.com/display/docs/basic+reporting)。
+>在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中了解更多信息。
 
