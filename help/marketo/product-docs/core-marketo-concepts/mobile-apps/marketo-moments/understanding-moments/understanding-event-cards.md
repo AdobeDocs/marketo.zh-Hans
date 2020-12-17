@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解事件卡 {#understanding-event-cards}
+# 了解事件卡{#understanding-event-cards}
 
 使用Marketo Moments在手机或iPad上视图事件项目。
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/ecuf3hS3r3I" frameborder="0" allowfullscreen></iframe>` 点按任何电子邮件项目卡时，您可以：
