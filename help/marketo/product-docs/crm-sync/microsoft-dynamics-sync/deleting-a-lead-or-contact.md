@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 删除潜在客户或联系人 {#deleting-a-lead-or-contact}
+# 删除潜在客户或联系人{#deleting-a-lead-or-contact}
 
 在Microsoft Dynamics中删除潜在客户／联系人时，需要了解一些事情。
 
