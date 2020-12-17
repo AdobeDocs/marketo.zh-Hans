@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 添加／编辑／删除Market至自定义活动字段 {#add-edit-delete-marketo-custom-activity-fields}
+# 添加／编辑／删除Marketto自定义活动字段{#add-edit-delete-marketo-custom-activity-fields}
 
 您可能需要添加、更改甚至删除自定义活动字段。 这是方法。
 
-## 添加自定义活动字段 {#add-a-custom-activity-field}
+## 添加自定义活动字段{#add-a-custom-activity-field}
 
-1. 在Marketo自定义活动中，单击 **字段**。
+1. 在Marketo自定义活动中，单击&#x200B;**字段**。
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 单击 **新建字段**。
+1. 单击&#x200B;**新建字段**。
 
    ![](assets/three-3.png)
 
@@ -35,17 +35,17 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >不确定要选择什么？ 我们掩护你！ 本文中定义了所有可用的数 [据类型](../../../product-docs/administration/field-management/custom-field-type-glossary.md)。
+   >不确定要选择什么？ 我们掩护你！ 本文[定义了所有可用的数据类型。](../../../product-docs/administration/field-management/custom-field-type-glossary.md)
 
-1. 命名字段。 自动填充Api名称。 完成后，单击“保 **存”**。
+1. 命名字段。 自动填充Api名称。 完成后，单击&#x200B;**保存**。
 
    ![](assets/five-3.png)
 
    就这样！ 您的新字段已添加。
 
-## 编辑自定义活动字段 {#edit-a-custom-activity-field}
+## 编辑自定义活动字段{#edit-a-custom-activity-field}
 
-1. 在Marketo自定义活动中，单击 **字段**。
+1. 在Marketo自定义活动中，单击&#x200B;**字段**。
 
    ![](assets/one-3.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 选择要编辑的字段，单击“字 **段操作** ”下拉框，然后选择 **编辑字段**。
+1. 选择要编辑的字段，单击&#x200B;**字段操作**&#x200B;下拉框，然后选择&#x200B;**编辑字段**。
 
    ![](assets/eight.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 输入新的名称和Api名称，然后单击 **保存**。
+1. 输入新的名称和Api名称，然后单击&#x200B;**保存**。
 
    ![](assets/ten.png)
 
@@ -79,9 +79,9 @@ ht-degree: 0%
 
 您的字段现已编辑！
 
-## 删除自定义活动字段 {#delete-a-custom-activity-field}
+## 删除自定义活动字段{#delete-a-custom-activity-field}
 
-1. 在Marketo自定义活动中，单击 **字段**。
+1. 在Marketo自定义活动中，单击&#x200B;**字段**。
 
    ![](assets/one-3.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-1. 选择要删除的字段，单击“字 **段操作** ”下拉框，然后选择 **删除字段**。
+1. 选择要删除的字段，单击&#x200B;**字段操作**&#x200B;下拉框，然后选择&#x200B;**删除字段**。
 
    ![](assets/thirteen.png)
 
