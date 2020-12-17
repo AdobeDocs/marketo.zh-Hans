@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 创建新营销活动文件夹 {#create-new-campaign-folder}
+# 新建营销活动文件夹{#create-new-campaign-folder}
 
 活动文件夹可帮助您保持整洁的工作区。 按照这些简单的步骤操作，您即将实现自动化魔术。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择 **新建**。
+1. 选择&#x200B;**新建**。
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. 选择 **新建营销活动文件夹**。
+1. 选择&#x200B;**新建营销活动文件夹**。
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. 输入 **活动** 文件夹的名称。
+1. 输入&#x200B;**名称**&#x200B;作为活动文件夹。
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. 可选：输入说 **明** ，然后单击**创建。**
+1. 可选：输入&#x200B;**Description**，然后单击**创建。**
 
    >[!TIP]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   现在， [在创建新项目](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)时，您将看到此活动文件夹作为一个选项。
+   现在，当[创建新项目](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)时，您将看到此活动文件夹作为选项。
 
 >[!MORELIKETHIS]
 >
