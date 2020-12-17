@@ -20,6 +20,6 @@ ht-degree: 0%
 
 ## 按需加载
 
-空文件夹图标表示文件夹包含的资产在选定日期范围内未 [被修改](/help/sky/configuring-the-tree.md) ，因此处于隐藏状态。 要视图这些资产，请将鼠标悬停在文件夹图标上，该图标将变为下面显示的刷新图标。 单击以刷新并加载所有资产。
+空文件夹图标表示文件夹包含的资产在[选定日期范围](/help/sky/configuring-the-tree.md)内未修改，因此处于隐藏状态。 要视图这些资产，请将鼠标悬停在文件夹图标上，该图标将变为下面显示的刷新图标。 单击以刷新并加载所有资产。
 
 ![图像2](/help/sky/assets/tree/understanding-icons-in-the-tree/understanding-icons-in-the-tree-2.png)
