@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 启用／禁用Salesforce同步 {#enable-disable-the-salesforce-sync}
+# 启用／禁用Salesforce同步{#enable-disable-the-salesforce-sync}
 
 在对同步或字段设置进行重大更改时，应在配置时禁用同步。 下面是具体方法：
 
-1. 转到“管理 **员** ”部分。
+1. 转至&#x200B;**Admin**&#x200B;部分。
 
    ** ![](assets/image2014-12-10-13-3a24-3a35.png)
 
    **
 
-1. 在Salesforce **下**，单击 **禁用同步**。
+1. 在&#x200B;**Salesforce**&#x200B;下，单击&#x200B;**禁用同步**。
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
