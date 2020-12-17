@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 智能列表过滤器操作符术语表 {#smart-list-filter-operators-glossary}
+# 智能列表过滤器操作符术语表{#smart-list-filter-operators-glossary}
 
-运算符是智能列表的一 [部分](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) ，可帮助您实现特定。 它允许您用直接的语言描述过滤器或触发器。 可用运算符对于每种类型的字段都不同。\
+运算符是[智能列表](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)的一部分，可帮助您获得特定。 它允许您用直接的语言描述过滤器或触发器。 可用运算符对于每种类型的字段都不同。\
 下面是一个词汇表，描述每组运算符。
 
-## 日期字段 {#date-fields}
+## 日期字段{#date-fields}
 
 ![](assets/image2014-9-10-17-3a15-3a47.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->过去 **的** ，您会创建智能列表（直到时间，而不是之后）。
+>在过去&#x200B;**中，**&#x200B;包含您创建智能列表的日期（直到时间，而非之后）。
 
 >[!CAUTION]
 >
->当您使用日期字段过滤器（如出生日期、SFDC创建日期）创建智能列表并在约束 **前****或前后使用时** ，智能列表还将包括在该日期字段中没有值的人员。
+>当您使用日期字段过滤器（如出生日期、SFDC创建日期）创建智能列表并在约束&#x200B;**或**&#x200B;之前使用&#x200B;**，智能列表还将包括那些在该日期字段中没有值的人员。**
 
 请使用下图了解日期运算符之间的差异。
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 >
 >如果您希望查看90天后即将续订的客户。 您需要使用两个单独的过滤器。 首先使用“90天后在将来”，然后使用“91天后在将来”。 那会捕捉到90天后有约会的人。
 
-## 字符串字段 {#string-fields}
+## 字符串字段{#string-fields}
 
 ![](assets/image2014-9-10-17-3a16-3a6.png)
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 >
 >使用正运算符而不是负运算符。 “不是”过滤器必须搜索实例中的整个数据集，这可能非常耗时。 积极的“is”过滤器可以利用更有效的搜索算法。
 
-## 整数字段 {#integer-fields}
+## 整数字段{#integer-fields}
 
 ![](assets/image2014-9-10-17-3a16-3a14.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">is</td> 
-   <td colspan="1" rowspan="1">精确数字匹配(= 0将返回两个具有0和 <em>NULL</em> 的潜在客户)</td> 
+   <td colspan="1" rowspan="1">精确数字匹配（= 0将返回两个具有0 <em>和</em> NULL的潜在客户）</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">不是</td> 
@@ -136,7 +136,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">空</td> 
-   <td colspan="1" rowspan="1">没有值(NULL)-零是数字，不是 <em>NULL</em></td> 
+   <td colspan="1" rowspan="1">无值(NULL)-零是数字，<em>不</em>为NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">不为空</td> 
