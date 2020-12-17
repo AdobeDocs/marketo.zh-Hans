@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 直接在营销日历中删除条目 {#delete-entries-directly-in-the-marketing-calendar}
+# 直接在营销日历{#delete-entries-directly-in-the-marketing-calendar}中删除条目
 
-除了创建 [和编](create-entries-directly-in-the-marketing-calendar.md) 辑条目 [，您](edit-entries-directly-in-the-marketing-calendar.md) 还可以直接在“营销日历”中删除这些条目。 这是方法。
+除了创建[](create-entries-directly-in-the-marketing-calendar.md)和[编辑](edit-entries-directly-in-the-marketing-calendar.md)条目外，您还可以在营销日历中直接删除它们。 这是方法。
 
-1. 转到日 **历**。
+1. 转到&#x200B;**日历**。
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. 选择要删除的条目，然后单击“显示 **项目焦点”**。
+1. 选择要删除的条目，然后单击&#x200B;**显示项目焦点**。
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
