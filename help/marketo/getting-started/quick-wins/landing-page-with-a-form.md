@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# 登陆页表单 {#landing-page-with-a-form}
+# 登陆页形式为{#landing-page-with-a-form}
 
-## 任务：用表单创建登陆页以赢取新人。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
+## 任务：用表单创建登陆页以赢取新人。{#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
 >[设置并添加人物](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-## 第1步：创建项目 {#step-create-a-program}
+## 第1步：创建项目{#step-create-a-program}
 
-1. 转到“营销 **活动** ”区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/ma.png)
 
-1. 选择在上 **一个** quick win中创建 [的“学习”文件夹](/help/marketo/getting-started/quick-wins/send-an-email.md)。
+1. 选择在[上一个快速Win](/help/marketo/getting-started/quick-wins/send-an-email.md)中创建的&#x200B;**Learning**&#x200B;文件夹。
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
-1. 在“ **新建**”下，单 **击“新建项目**”。
+1. 在&#x200B;**新建**&#x200B;下，单击&#x200B;**新建项目**。
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. 输入项目 **名称**，选择一 **个渠道** ，然 **后单击创**&#x200B;建。
+1. 输入项目&#x200B;**名称**，选择&#x200B;**渠道**&#x200B;并单击&#x200B;**创建**。
 
    >[!NOTE]
    >
@@ -43,39 +43,39 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >项目是一个特定的营销计划。 渠道 **旨在** 成为投放机制，如网络研讨会、赞助或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉菜单中看到不同的渠道选项。 您还可以 [创建自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
+   >项目是一个特定的营销计划。 **渠道**&#x200B;旨在成为投放机制，如网络研讨会、赞助或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉菜单中看到不同的渠道选项。 您还可以[创建您自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
 干得好！ 既然我们已经创建了项目，让我们继续创建一些内容。
 
-## 第2步：创建表单 {#step-create-a-form}
+## 第2步：创建表单{#step-create-a-form}
 
-1. 选择项目后，依次单击 **新建****和新建本地资产**。
+1. 选择项目后，单击&#x200B;**新建**，然后单击&#x200B;**新建本地资产**。
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
-1. 选择 **表单**。
+1. 选择&#x200B;**表单**。
 
    ![](assets/image2014-9-24-11-3a4-3a42.png)
 
-1. 输入表单 **名称** ，然后单 **击创建**。
+1. 输入格式&#x200B;**名称**&#x200B;并单击&#x200B;**创建**。
 
    ![](assets/image2014-9-24-11-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >确保选中“ **在编辑器中打** 开”框。 否则，您需要单击“编辑表单” **选项卡** 。
+   >确保选中&#x200B;**在编辑器中打开**&#x200B;框。 如果不是，您需要单击&#x200B;**编辑表单**&#x200B;选项卡。
 
    >[!TIP]
    >
-   >看不到表单编辑器？ 您的浏览器可能已阻止该窗口。 在您的浏览器中 [启用app.marketo](https://app.marketo.com/) .com中的弹出窗口，然后单击顶部菜单栏中的“编辑草稿”。
+   >看不到表单编辑器？ 您的浏览器可能已阻止该窗口。 在浏览器中启用[app.marketo.com](https://app.marketo.com/)的弹出窗口，然后单击顶部菜单栏中的“编辑草稿”。
 
-1. 选择“电 **子邮件地** 址”字段， **然后选中“必填”**。
+1. 选择&#x200B;**电子邮件地址**&#x200B;字段并检查&#x200B;**是必需的**。
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
-1. 单击“ **下一步**”。
+1. 单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-24-11-3a5-3a44.png)
 
@@ -83,11 +83,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. 单击“ **下一步**”。
+1. 单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
-1. 在感谢页面部分下，选 **择外部****URL进行跟进**。
+1. 在感谢页面部分下，为&#x200B;**跟进**&#x200B;选择&#x200B;**外部URL**。
 
    ![](assets/image2014-9-24-11-3a6-3a35.png)
 
@@ -97,13 +97,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >随访页面是填写表单后访客被重定向的位置。 外部URL是一个选项，但有更多选项。 请参 [阅设置表单感谢页面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)。
+   >随访页面是填写表单后访客被重定向的位置。 外部URL是一个选项，但有更多选项。 请参阅[设置表单感谢页面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)。
 
-1. 单击 **完成**。
+1. 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-24-11-3a7-3a3.png)
 
-1. 单击 **批准并关闭**。
+1. 单击&#x200B;**批准并关闭**。
 
    ![](assets/image2014-9-24-11-3a7-3a15.png)
 
@@ -111,17 +111,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a7-3a32.png)
 
-## 第3步：创建登陆页并添加表单 {#step-create-a-landing-page-and-add-your-form}
+## 第3步：创建登陆页并添加表单{#step-create-a-landing-page-and-add-your-form}
 
-1. 选择项目后，单击 **新建** ，然 **后单击新建本地资产**。
+1. 选择项目后，单击&#x200B;**新建**，然后单击&#x200B;**新建本地资产**。
 
    ![](assets/image2014-9-24-11-3a7-3a51.png)
 
-1. 选择 **登陆页**。
+1. 选择&#x200B;**登陆页**。
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. 输入页面 **名称**，选择模板，然后单 **击创建**。
+1. 输入页面&#x200B;**名称**，选择模板并单击&#x200B;**创建**。
 
    >[!NOTE]
    >
@@ -133,7 +133,7 @@ ht-degree: 0%
 
    ![](assets/twentyone.png)
 
-1. 查找并选择表单，然后单击“ **插入**”。
+1. 查找并选择表单，然后单击&#x200B;**插入**。
 
    ![](assets/image2014-9-24-11-3a8-3a53.png)
 
@@ -147,9 +147,9 @@ ht-degree: 0%
 
    干得好！ 您现在有一个登陆页，上面有表单。 让我们批准您的页面使其生效。
 
-## 第4步：批准登陆页 {#step-approve-your-landing-page}
+## 第4步：批准您的登陆页{#step-approve-your-landing-page}
 
-1. 选择登陆页，在“登陆页操 **作”下** ，单 **击批准**。
+1. 选择您的登陆页，在&#x200B;**登陆页操作**&#x200B;下单击&#x200B;**批准**。
 
    >[!NOTE]
    >
@@ -161,17 +161,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a9-3a53.png)
 
-## 第5步：测试表单 {#step-test-your-form}
+## 第5步：测试表单{#step-test-your-form}
 
-1. 选择您的登陆页，然后单击 **视图批准页面**。
+1. 选择您的登陆页并单击&#x200B;**视图批准页面**。
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
-1. 使用您知道的独特信息填写表单，然后单击“提 **交”**。
+1. 使用您知道的唯一信息填写表单，然后单击&#x200B;**提交**。
 
    ![](assets/image2014-9-24-11-3a10-3a23.png)
 
-1. 转到“数 **据库** ”区域。
+1. 转到&#x200B;**Database**&#x200B;区域。
 
    ![](assets/db-1.png)
 
@@ -183,7 +183,7 @@ ht-degree: 0%
 
    ![](assets/thirty-one.png)
 
-## 任务完成！ {#mission-complete}
+## 任务完成！{#mission-complete}
 
 <br> 
 
