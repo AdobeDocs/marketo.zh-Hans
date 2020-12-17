@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在Marketo中创建自定义字段 {#create-a-custom-field-in-marketo}
+# 在Marketo {#create-a-custom-field-in-marketo}中创建自定义字段
 
 如果您需要Market中的新自定义字段来存储／捕获数据，下面将介绍如何创建一个。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >查看自定义 [字段类型术语表](custom-field-type-glossary.md)。
+   >查看[自定义字段类型术语表](custom-field-type-glossary.md)。
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->字段名称不能开始以下字符： **. &amp; +[]**
+>字段名称不能开始以下字符：**&amp; +[]**
 
 ![](assets/image2014-9-24-13-3a48-3a26.png)
 
