@@ -10,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# 事件登记概述 {#event-check-in-overview}
+# 事件登记概述{#event-check-in-overview}
 
 适用于iPad或Android平板电脑的Marketo事件应用程序使用户在到达事件时可以轻松立即进入。
 
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 事件前：
 
-* [为iPad或Android用户](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ，为事件创建新的Marketo角色
-* [邀请新的平板电脑用户加入事件](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ，并为他们分配新角色
+* [为iPad或Android用](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 户创建新的Marketo角色，以便事件
+* [邀请新的平板电脑用户](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 参加活动并为他们分配新角色
 * [创建新的营销事件项目](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 * 指定事件日期
 * 将人添加到事件
