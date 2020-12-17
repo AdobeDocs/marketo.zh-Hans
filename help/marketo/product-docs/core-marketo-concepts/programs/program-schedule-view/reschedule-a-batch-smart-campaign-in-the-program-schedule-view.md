@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在活动视图中重新计划批智能项目计划 {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# 在项目计划视图{#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}中重新计划批智能活动
 
 要重新计划批智能活动运行吗？ 在项目计划视图将它们拖放到未来。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-12-3a8-3a28.png)
 
-1. 拖放到要运行活动的新日期。 ![](assets/image2015-5-19-12-3a12-3a1.png)
+1. 拖放到要运行活动的新日期。![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. 太好了！ 聪明的活动被重新安排了。 时间也可从条目详细信息 **中的** “日期”下拉菜单进行更改。
+1. 太好了！ 聪明的活动被重新安排了。 时间也可以从条目详细信息的&#x200B;**Date**&#x200B;下拉列表中进行更改。
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
