@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # 活动文件夹：概述选项卡
 
-“活动文件夹”选项卡下有两个 [!UICONTROL Overview] 部分： **[!UICONTROL Details]** 和 **[!UICONTROL Reports]**。
+活动文件夹[!UICONTROL Overview]选项卡下有两个部分：**[!UICONTROL Details]**&#x200B;和&#x200B;**[!UICONTROL Reports]**。
 
 ![图像1](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
 [!UICONTROL ## Details]
 
-主页显 [!UICONTROL Details] 示有关活动文件夹的一般信息。
+主[!UICONTROL Details]页显示有关活动文件夹的一般信息。
 
 ![图像1](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 [!UICONTROL ## Reports]
 
-在部分 [!UICONTROL Reports] 中，您可以找到有关文件夹中不同活动的关键信息。
+在[!UICONTROL Reports]部分，您可以找到文件夹中不同活动的关键信息。
 
 ![图像1](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
