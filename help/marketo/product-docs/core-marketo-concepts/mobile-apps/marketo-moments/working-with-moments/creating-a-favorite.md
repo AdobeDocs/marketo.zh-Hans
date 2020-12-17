@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 创建收藏夹 {#creating-a-favorite}
+# 创建收藏夹{#creating-a-favorite}
 
 收藏卡以方便将来参考。
 
