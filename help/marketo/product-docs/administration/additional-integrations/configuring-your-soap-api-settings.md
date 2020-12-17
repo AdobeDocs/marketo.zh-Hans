@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 配置SOAP API设置 {#configuring-your-soap-api-settings}
+# 配置SOAP API设置{#configuring-your-soap-api-settings}
 
 >[!NOTE]
 >
->我们建议使用REST API。 通过dev. [marketo.com了解更多信息](http://developers.marketo.com/documentation/rest/)。
+>我们建议使用REST API。 了解有关[dev.marketo.com](http://developers.marketo.com/documentation/rest/)的更多信息。
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 转到“管 **理员** ”并单 **击“Web服务**”。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**Web服务**。
 
    ![](assets/image2014-9-19-10-3a58-3a11.png)
 
-1. 设置适当的 **加密密钥**，单 **击“保存更改**”，然后将所有信息传递给您的开发人员。
+1. 设置适当的&#x200B;**加密密钥**，单击&#x200B;**保存更改**，并将所有信息传递给您的开发人员。
 
    ![](assets/image2014-9-19-11-3a0-3a46.png)
 
