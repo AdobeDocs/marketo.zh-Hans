@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## 转换为存档文件夹
 
-右键单击任意文件夹，然后选择 **[!UICONTROL Convert To Archive Folder]**。
+右键单击任意文件夹，然后选择&#x200B;**[!UICONTROL Convert To Archive Folder]**。
 
 ![图像1](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >文件夹。
 >* 文件夹中的资产不再显示在自动建议中。
 >* 创建电子邮件时，存档的模板不可用
-   >或登陆页 [!UICONTROL Design Studio]。
+   >或[!UICONTROL Design Studio]中的登陆页。
 >* 存档的页面不能用于登陆页测试组。
 
 >
