@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解Marketo自定义对象 {#understanding-marketo-custom-objects}
+# 了解Marketo自定义对象{#understanding-marketo-custom-objects}
 
 使用自定义对象跟踪特定于您企业的指标。
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 >
 >无法恢复自定义对象，因此，在删除这些对象之前，请确保不再需要它们。
 
-## 访问Marketo自定义对象 {#accessing-marketo-custom-objects}
+## 访问Marketo自定义对象{#accessing-marketo-custom-objects}
 
-1. 要创建或编辑Marketo自定义对象，请单击**Admin **，然后单击“Marketo自 **定义对象”**&#x200B;链接。
+1. 要创建或编辑Marketo自定义对象，请单击**Admin **，然后单击&#x200B;**Marketo自定义对象**&#x200B;链接。
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -63,19 +63,19 @@ ht-degree: 0%
 
    ![](assets/image2016-6-10-15-3a15-3a29.png)
 
-## 视图与人员关联的自定义对象 {#view-custom-objects-associated-to-a-person}
+## 视图与人员{#view-custom-objects-associated-to-a-person}关联的自定义对象
 
 在创建自定义对象结构后，当您上传特定的自定义对象数据时，自定义对象将使用自定义对象中的链接字段自动与数据库中的人员相关联。 您可以从人员详细信息页面的“自定义对象”选项卡中视图信息。
 
-1. 转到数 **据库**。
+1. 转至&#x200B;**Database**。
 
    ![](assets/db.png)
 
-1. 打开数据库，然后单击“ **人员** ”选项卡。 多次-单击您与自定义对象关联的人的记录。
+1. 打开数据库，然后单击&#x200B;**People**&#x200B;选项卡。 多次-单击您与自定义对象关联的人的记录。
 
    ![](assets/five.png)
 
-1. 在人员详细信息页面上，单击“自定 **义对象** ”选项卡。 从下拉列表中选择对象。
+1. 在人员详细信息页面上，单击&#x200B;**自定义对象**&#x200B;选项卡。 从下拉列表中选择对象。
 
    ![](assets/six.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-## 将自定义对象与公司 {#using-custom-objects-with-companies}
+## 将自定义对象与公司{#using-custom-objects-with-companies}一起使用
 
 如果您从CRM同步公司，或者使用API显式创建公司，则链接到该公司的自定义对象最有效。 我们还建议您使用公司ID作为链接字段。
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 自定义对象只能直接链接到单个记录。 这意味着，当自定义对象类型通过公司字段链接时，如果您使用Marketo的REST API管理公司，则应确保您的个人记录与公司关联，或者在CRM中使用联系人转换，或者使用externalCompanyId字段。 对于未明确链接到公司记录的个人记录，使用公司链接的自定义对象将随机链接到单个记录，即使公司字段的值在许多人之间共享也是如此。
 
-有关详 [细信息，请参阅](import-custom-object-data.md) “导入自定义对象数据”。
+有关详细信息，请参阅[导入自定义对象数据](import-custom-object-data.md)。
 
 >[!MORELIKETHIS]
 >
