@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# 从参与项目中删除会员 {#remove-a-member-from-an-engagement-program}
+# 从参与项目{#remove-a-member-from-an-engagement-program}中删除成员
 
-哎呀！ 那些人是怎么进来的？ 您可以通过“更改项目状态”流步骤从 **参与项目中** 删除成员。
+哎呀！ 那些人是怎么进来的？ 您可以使用&#x200B;**更改项目状态**&#x200B;流步骤从参与项目中删除成员。
 
 >[!TIP]
 >
->请勿使用此选项暂停个人内容。 这将消除分析中的所有归因。  进一步了解如何在 [参与项目中暂停人员](pause-people-in-an-engagement-program.md)。
+>请勿使用此选项暂停个人内容。 这将消除分析中的所有归因。  进一步了解如何[在参与项目中暂停人员](pause-people-in-an-engagement-program.md)。
 
-## 流程步骤 {#flow-step}
+## 流步骤{#flow-step}
 
-1. 拖入更改 **项目状态** 流步骤。
+1. 拖入&#x200B;**更改项目状态**&#x200B;流步骤。
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   选择状态， **不项目**。
+   选择状态&#x200B;**不在项目**&#x200B;中。
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   真棒。 您在智能列表中定义的所 [有成员](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ，将不再处于此参与项目。
+   真棒。 您在[智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中定义的所有成员将不再处于此参与项目。
 
-## 暂停人员  {#pause-people}
+## 暂停人员{#pause-people}
 
-有时，您只希望在参与项目中暂停人员，而不要删除他们。 这是通过“更改参 **与项目节奏”完成的**。
+有时，您只希望在参与项目中暂停人员，而不要删除他们。 这是通过&#x200B;**更改参与项目节奏**&#x200B;完成的。
 
 >[!MORELIKETHIS]
 >
