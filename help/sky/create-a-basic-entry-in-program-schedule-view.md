@@ -16,11 +16,11 @@ ht-degree: 0%
 
 您可以直接从项目计划视图创建新的基本条目。
 
-1. 在树中选择项目，然后转到下 **[!UICONTROL Schedule]** 面的选项卡 **[!UICONTROL Overview]**。
+1. 在树中选择项目，然后转到&#x200B;**[!UICONTROL Overview]**&#x200B;下的&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡。
 
    ![图像1](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-1.png)
 
-1. 将指针悬停在要添加条目的日期上，然后单击 **[!UICONTROL Add]**。
+1. 将指针悬停在要添加条目的日期上，然后单击&#x200B;**[!UICONTROL Add]**。
 
    ![图像2](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >您还可以按照类似步骤从“日”、“周”或“议程”视图创建基本条目。
 
-1. 为新的基本条目输入名称，然后根据需要 **[!UICONTROL Type]** 更 [!UICONTROL Basic Entry] 改为。 如果要在创建条 **[!UICONTROL Start & End Date]**&#x200B;目后保 **[!UICONTROL Open In Agenda View]** 留在日历中，您还可以修改并取消选中。 单击 **[!UICONTROL Save]**。
+1. 输入新基本条目的名称，然后根据需要将&#x200B;**[!UICONTROL Type]**&#x200B;更改为[!UICONTROL Basic Entry]。 如果要在创建条目后保留在日历中，还可以修改&#x200B;**[!UICONTROL Start & End Date]**&#x200B;并取消选中&#x200B;**[!UICONTROL Open In Agenda View]**。 单击&#x200B;**[!UICONTROL Save]**。
 
    ![图3](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 
 **相关文章**
 
-您还可以从活动 [创建批](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) 智 [能](/help/sky/create-an-email-program-in-program-schedule-view.md) ，或通过计划视图创建电子邮件项目。
+您还可以从活动视图创建[批量智能项目](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md)或[电子邮件计划](/help/sky/create-an-email-program-in-program-schedule-view.md)。
