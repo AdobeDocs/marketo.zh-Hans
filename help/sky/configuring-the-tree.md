@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-下面快速查看中的树可用的配置选项 [!DNL Marketo]。
+下面快速查看[!DNL Marketo]中树的可用配置选项。
 
 ## 更改工作区
 
