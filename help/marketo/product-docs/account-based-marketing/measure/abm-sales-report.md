@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# ABM销售报告 {#abm-sales-report}
+# ABM销售报告{#abm-sales-report}
 
 每周收到一封电子邮件，其中包含您的热门帐户及其每周趋势。
 
 >[!NOTE]
 >
->了解如何在此处设置此 [报告](https://docs.marketo.com/x/drat)。
+>了解如何在[此处设置此报告](https://docs.marketo.com/x/drat)。
 
 报告分享：
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ![](assets/one-4.png)
 
-## 销售报告密钥 {#sales-report-key}
+## 销售报告密钥{#sales-report-key}
 
 | **帐户得分** | 按帐户分数（在设置中选择）排列的每周趋势，然后是当前帐户分数 |
 |---|---|
