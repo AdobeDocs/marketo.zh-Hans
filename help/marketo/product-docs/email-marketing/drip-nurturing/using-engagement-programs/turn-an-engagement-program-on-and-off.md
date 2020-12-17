@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 打开和关闭参与项目 {#turn-an-engagement-program-on-and-off}
+# 打开和关闭参与项目{#turn-an-engagement-program-on-and-off}
 
 只需轻击开关，即可关闭参与项目。 这将阻止发出任何内容。 这是方法。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择参与项目，然后单击“ **设置**”。
+1. 选择参与项目并单击&#x200B;**设置**。
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. 多次-单击 **项目状态**。
+1. 多次-单击&#x200B;**项目状态**。
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. 选择 **关闭** ，然后单 **击保存**。
+1. 选择&#x200B;**关闭**&#x200B;并单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
