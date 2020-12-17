@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 克隆项目 {#clone-a-program}
+# 克隆项目{#clone-a-program}
 
 您可以快速、轻松地克隆整个项目及其所有资源，而不是手动重建所有内容。 这是方法。
 
-1. 查找并选择要克隆的项目，然后在“项目操作” **下单击** “克隆 **”。**
+1. 查找并选择要克隆的项目，然后在&#x200B;**项目操作**&#x200B;下单击&#x200B;**克隆。**
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >项目可以克隆到 [活动](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) 文件 [](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) 夹 [或工](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)作区中。 确保共享所有基础相关资产(电子邮件、片段、登陆页模板等) 在克隆之前与目标工作区一起使用。
+   >项目可以克隆到[活动](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)[文件夹](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)或[工作区](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)中。 确保共享所有基础相关资产(电子邮件、片段、登陆页模板等) 在克隆之前与目标工作区一起使用。
 
    ![](assets/cloneto.png)
 
@@ -41,13 +41,13 @@ ht-degree: 0%
    选择要克隆项目的文件夹。
    ![](assets/choosefolderclone.png)
 
-1. 添加可选描述，然后单击 **创建**。 了解创建新项目的速度有多快，其所有资源都准备就绪！
+1. 添加可选描述，然后单击&#x200B;**创建**。 了解创建新项目的速度有多快，其所有资源都准备就绪！
 
    ![](assets/createclone.png)
 
    >[!TIP]
    >
-   >将此技术与令牌一起 [使用](http://docs.marketo.com/display/docs/using+tokens) ，让新项目创建变得轻而易举。
+   >将此技术与[令牌](http://docs.marketo.com/display/docs/using+tokens)结合使用，使新项目创建快速启动。
 
    >[!CAUTION]
    >
