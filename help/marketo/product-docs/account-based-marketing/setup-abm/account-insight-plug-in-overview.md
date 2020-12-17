@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Account Insight插件概述 {#account-insight-plug-in-overview}
+# Account Insight Plug-in概述{#account-insight-plug-in-overview}
 
 Account Insight是Chrome插件，可为您的销售团队提供可操作的ABM和客户洞察，使他们能够更有效地与客户互动。
 
@@ -23,11 +23,11 @@ Account Insight是Chrome插件，可为您的销售团队提供可操作的ABM�
 
 >[!CAUTION]
 >
->Account Insight插件在启用了SSO(单 [点登录)的订阅](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) 中不起作用。
+>在启用了[SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only)（单点登录）的订阅中，Account Insight插件将无法工作。
 >
 >从帐户、潜在客户或联系人启动插件时，CRM上下文适用于Salesforce。 从“帐户”、“潜在客户”或“联系人”启动插件时，CRM上下文对Dynamics无效。 对于Dynamics用户，我们建议使用Account Insight插件。
 
-## 指定帐户 {#named-accounts}
+## 指定帐户{#named-accounts}
 
 按帐户之间的等级顺序查看指定帐户。 此列表仅适用于帐户所有者。 客户团队支持即将推出。
 
@@ -65,13 +65,13 @@ Account Insight是Chrome插件，可为您的销售团队提供可操作的ABM�
 
 ![](assets/na10.png)
 
-## 活动源 {#activity-feed}
+## 活动源{#activity-feed}
 
 活动源显示最近的活动，可以追溯到七天前。
 
 ![](assets/af1.png)
 
-单击“ **筛选** ”下拉框，按不同的活动类型进行筛选。\
+单击&#x200B;**筛选器**&#x200B;下拉框，按不同的活动类型进行筛选。\
 ![](assets/af2.png)
 
 可单击多个项目。 单击指定帐户以查看其详细信息。 单击用户的名称以查看其活动。 单击“更多活动”可查看更多活动。
