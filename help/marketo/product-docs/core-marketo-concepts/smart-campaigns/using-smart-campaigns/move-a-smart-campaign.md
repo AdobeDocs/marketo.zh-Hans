@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 移动智能活动 {#move-a-smart-campaign}
+# 移动智能活动{#move-a-smart-campaign}
 
 使用拖放或树中的移动功能在不同项目或文件夹之间移动智能活动。
 
-## 使用拖放 {#use-drag-and-drop}
+## 使用拖放{#use-drag-and-drop}
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
    >
    >智能活动的规则不会更改——它将仅嵌套在其他位置。
 
-## 使用移动功能 {#use-the-move-feature}
+## 使用移动功能{#use-the-move-feature}
 
 智能活动也可以使用树中的移动功能进行移动。
 
-1. 右键单击智能活动。 选择 **移动**。
+1. 右键单击智能活动。 选择&#x200B;**移动**。
 
    ![](assets/rockclimbing2.jpg)
 
-1. 选择移到项目 **或文** 件夹 **之间**。
+1. 选择是移至&#x200B;**项目**&#x200B;还是&#x200B;**文件夹**。
 
    ![](assets/image2015-2-25-13-3a34-3a20.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-13-3a36-3a4.png)
 
-1. 单击 **移动**。
+1. 单击&#x200B;**移动**。
 
    ![](assets/image2015-2-25-13-3a37-3a44.png)
 
