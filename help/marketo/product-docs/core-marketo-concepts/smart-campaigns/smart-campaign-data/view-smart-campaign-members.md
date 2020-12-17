@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 视图智能活动成员 {#view-smart-campaign-members}
+# 视图智能活动成员{#view-smart-campaign-members}
 
 视图人已经经历了智能活动流；即，聪明的活动成员。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >您可以从智能视图中的任意位置活动活动成员。
 
-1. “ **活动** ”成员选项卡显示已通过智能活动流运行的人员。
+1. **活动成员**&#x200B;选项卡显示已经通过智能活动流运行的人员。
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >进一步了解您可以使用 [列表](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
+   >进一步了解可以使用[列表](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)做什么。
 
    >[!NOTE]
    >
