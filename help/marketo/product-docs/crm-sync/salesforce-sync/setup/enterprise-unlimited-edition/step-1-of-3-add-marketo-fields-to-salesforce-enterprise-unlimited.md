@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 第1步，共3步：将Marketo字段添加到Salesforce(Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# 第1步，共3步：将Marketo字段添加到Salesforce(Enterprise/Unlimited){#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 所有这些自定义字段都是可选字段，不必同步Marketo和Salesforce。 作为最佳实践，我们建议您确实为得分、客户赢取项目和客户赢取日期创建字段。
 
-## 将营销人员字段添加到Salesforce {#add-marketo-fields-to-salesforce}
+## 将Marketo字段添加到Salesforce {#add-marketo-fields-to-salesforce}
 
 在以上列出的Salesforce中的潜在客户和联系人对象上添加三个自定义字段。 如果要添加更多，请参阅本节末尾的可用字段表。
 
@@ -112,12 +112,12 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 1. 指定访问设置，然后单击“下一步”:
 
-   * 将所有角色设置为**可见** **和只读**
+   * 将所有角色设置为**Visible **和&#x200B;**只读**
 
-   * 清除 **同步用户用户档案** “只读”复选框：
+   * 清除同步用户用户档案的&#x200B;**只读**&#x200B;复选框：
 
-      * 如果您有用户档案为系统管理员的 *用户* ，请清除“系统管 **理员”用户档案的“只** 读”复选框（如下所示）
-      * 如果为同步 *用户创建* 了自定义用户档案 **，请清除该** 自定义用户档案的“只读”复选框
+      * 如果您有用户档案为&#x200B;*系统管理员*&#x200B;的用户作为同步用户，请清除“系统管理员”用户档案的&#x200B;**只读**&#x200B;复选框（如下所示）
+      * 如果为同步用户创建了&#x200B;*自定义用户档案*，请清除该自定义用户档案的&#x200B;**只读**&#x200B;复选框
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -236,19 +236,19 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
  </tbody> 
 </table>
 
-## 映射自定义字段以进行转换 {#map-custom-fields-for-conversions}
+## 映射转换的自定义字段{#map-custom-fields-for-conversions}
 
 Salesforce中潜在客户对象上的自定义字段应映射到联系人对象上的联系人字段，以便在发生转换时传递数据。
 
-1. 在右上角，单击“设 **置”**。
+1. 在右上角，单击&#x200B;**Setup**。
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. 在Nav Search中键入“Fields”，无需按Enter。 字段显示在不同对象下；单击 **潜在客户** 下的字段。
+1. 在Nav Search中键入“Fields”，无需按Enter。 字段显示在不同对象下；单击“Lead”下的&#x200B;**字段**。
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. 转至“潜在客户自定义字段和关系”部分，然后单击“映 **射潜在客户字段”**。
+1. 转至“潜在客户自定义字段和关系”部分，然后单击&#x200B;**映射潜在客户字段**。
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -261,7 +261,7 @@ Salesforce中潜在客户对象上的自定义字段应映射到联系人对象�
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. 对于您创建的任何其他字段，重复上述步骤。
-1. 完成 **后** ，单击“保存”。
+1. 完成后，单击&#x200B;**保存**。
 
    够轻松了，对吧？
 
@@ -269,7 +269,7 @@ Salesforce中潜在客户对象上的自定义字段应映射到联系人对象�
 >
 >**深潜**
 >
->这里有一段视频， [讲述整个过程](https://nation.marketo.com/videos/1475) ，应该很清楚！
+>这是指向整个过程](https://nation.marketo.com/videos/1475)的[视频的链接，它应该清晰可见！
 
 >[!NOTE]
 >
