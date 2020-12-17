@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用CNAME自定义登陆页URL（管理） {#customize-your-landing-page-urls-with-a-cname-administration}
+# 使用CNAME（管理）{#customize-your-landing-page-urls-with-a-cname-administration}自定义登陆页URL
 
 即使Marketo托管您的登陆页，也应为您的公司自定义URL。
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
 1. 查找帐户字符串。
 
-1. 转到“管 **理** ”区域并单击 **登陆页**。
+1. 转到&#x200B;**Admin**&#x200B;区域并单击&#x200B;**登陆页**。
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. 在登陆页 **选项卡** 下，从设置部分复制帐户字符串。
+1. 在&#x200B;**登陆页**&#x200B;选项卡下，从“设置”部分复制“帐户字符串”。
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,21 +55,21 @@ ht-degree: 0%
 
 1. 向IT部门发送请求。
 
-1. 请您的IT员工设置以下CNAME(将CNAME [和][ACCOUNT STRING替换为上一步] 中的文本):
+1. 请您的IT员工设置以下CNAME（将单词[CNAME]和[ACCOUNT STRING]替换为上一步中的文本）:
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 1. 完成CNAME设置。
 
-1. IT人员创建CNAME后，请转至“管 **理员** ”并单击 **登陆页**。
+1. IT人员创建CNAME后，请转至&#x200B;**Admin**&#x200B;并单击&#x200B;**登陆页**。
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. 在“设置 **”部** 分下，单击“ **编辑”**。
+1. 在&#x200B;**设置**&#x200B;部分下，单击&#x200B;**编辑**。
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. 在域名中输 **入登陆页的CNAME**，输 **入回退页面**，输入主 **页**，然后单 ****&#x200B;击保存。
+1. 在&#x200B;**登陆页的域名**&#x200B;中输入您的CNAME，输入您的&#x200B;**备用页**，输入您的&#x200B;**主页**，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
