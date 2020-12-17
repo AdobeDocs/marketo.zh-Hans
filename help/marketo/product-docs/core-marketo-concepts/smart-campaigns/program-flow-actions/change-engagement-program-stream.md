@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 更改参与项目流 {#change-engagement-program-stream}
+# 更改参与项目流{#change-engagement-program-stream}
 
-## 概述 {#overview}
+## 概述{#overview}
 
-通常，您会 [使用流过渡](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) 规则来实现此目的，但如果您想手动将人员从一个流移动到另一个流，这就是要使用的流步骤。
+通常，您会使用[流过渡规则](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)来实现此目的，但如果要将人员从一个流手动移动到另一个流，则这是要使用的流步骤。
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
 1. 选择要将人员移至的参与项目。
 
