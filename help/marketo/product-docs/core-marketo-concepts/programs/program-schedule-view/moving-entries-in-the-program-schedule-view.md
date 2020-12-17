@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在项目计划视图中移动条目 {#moving-entries-in-the-program-schedule-view}
+# 在项目计划视图{#moving-entries-in-the-program-schedule-view}中移动条目
 
 在计划视图中移动条目将自动重新计划它们。
 
