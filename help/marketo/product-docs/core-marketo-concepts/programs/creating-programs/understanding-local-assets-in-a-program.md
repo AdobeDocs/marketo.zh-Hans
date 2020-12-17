@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解项目中的本地资产 {#understanding-local-assets-in-a-program}
+# 了解项目{#understanding-local-assets-in-a-program}中的本地资产
 
 本地资产是组成您的项目的内容。 资产可自定义，使您能够构建自动化的营销计划。 以下是您可以在项目中创建的大多数本地资源：
 
