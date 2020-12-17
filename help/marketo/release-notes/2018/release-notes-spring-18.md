@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 发行说明：18年春 {#release-notes-spring}
+# 发行说明：Spring &#39;18 {#release-notes-spring}
 
 “18春季版”包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
 请单击标题链接，以视图每个功能的详细文章。 注意：此版本中包含的某些功能没有相关文章。 如果一个主题有多个子标题，则链接会放在该位置。
 
-## 营销人员参与、启动和输出App更新 {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo销售参与、启动和ToutApp更新{#marketo-sales-engage-launch-and-toutapp-updates}
 
 * [营销人员参与销售](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [启动](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -35,7 +35,7 @@ ht-degree: 0%
 * **密码策略更新**:通过对密码创建、重置和过期的更严格要求（符合Soc II - Type 1规范要求），使数据更安全。
 * **简化的帐户设置体验**:更快地设置您的帐户并将其连接到Gmail、Outlook和其他系统。
 
-## Marketo Sky开放式测试版 {#marketo-sky-open-beta}
+## Marketo Sky打开测试版{#marketo-sky-open-beta}
 
 [Marketo Sky开放式测试版](https://help.marketo.com/hc/en-us)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 * 应用程序内指南和上下文帮助
 * 资产标签和更灵活的日历视图
 
-## 性能洞察 {#performance-insights}
+## 性能分析{#performance-insights}
 
 [性能洞察](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 优化的导航和改进的工作流使您能够查看项目成功标准并访问项目详细信息。
 
-## 内<sup>容AI</sup>  {#contentai}
+## 内容<sup>AI</sup> {#contentai}
 
 [目标设置](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-设置ContentAI优化算<sup>法的目标</sup> ，以推动更多视图、点击或转换。
+设置内容<sup>AI</sup>优化算法的目标，以推动更多视图、点击或转换。
 
 ## 集成和API {#integration-and-apis}
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 使用新的双向API更轻松地管理Marketo与其他系统之间的列表，它们用于远程创建、读取、更新和删除静态列表，而无需在Marketo UI中采取任何操作。
 
-## 隐私增强 {#privacy-enhancements}
+## 隐私增强{#privacy-enhancements}
 
 [Web 跟踪隐私](http://developers.marketo.com/javascript-api/lead-tracking/)
 
