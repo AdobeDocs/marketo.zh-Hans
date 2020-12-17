@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解分析卡 {#understanding-analytics-cards}
+# 了解分析卡{#understanding-analytics-cards}
 
 在每个月的开始，Marketo Moments提供三个不同的报表卡：已获取潜在客户、新潜在客户和取消订阅。 每张照片均显示您的月度表现以及6个月内的趋势。
 
-## 分析卡 {#analytics-cards}
+## 分析卡{#analytics-cards}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` 点击Analytics卡时，您可以：
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 在本例中，红色表示值在所选日期范围（嗯！）内已减少。 绿色表示值已增加(yay!)。
 
-## 获得的潜在客户 {#acquired-leads}
+## 获取的潜在客户{#acquired-leads}
 
 **已获取的潜在客户**卡显示新潜在客户数量的逐月趋势报告。
 
@@ -45,15 +45,15 @@ ht-degree: 0%
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## 新潜在客户 {#new-leads}
+## 新潜在客户{#new-leads}
 
-New Leads **** （新潜在客户）卡显示您实例中最近六个月内新潜在客户总数的逐月趋势报告。
+**New Leads**&#x200B;卡显示最近六个月实例中新Lead总数的逐月趋势报告。
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## 取消订阅 {#unsubscribes}
+## 取消订阅{#unsubscribes}
 
-取消 **订阅** 卡会向您显示过去六个月中取消订阅率的月度趋势报告。
+**取消订阅**&#x200B;卡显示您过去六个月中取消订阅率的月度趋势报告。
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
