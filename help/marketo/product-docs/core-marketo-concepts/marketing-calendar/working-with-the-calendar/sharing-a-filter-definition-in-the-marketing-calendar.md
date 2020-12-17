@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在营销日历中共享筛选器定义 {#sharing-a-filter-definition-in-the-marketing-calendar}
+# 在营销日历{#sharing-a-filter-definition-in-the-marketing-calendar}中共享筛选器定义
 
 过滤器可以在不同用户之间共享。
 
