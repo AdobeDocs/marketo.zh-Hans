@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 指定帐户概述 {#named-account-overview}
+# 命名帐户概述{#named-account-overview}
 
 指定帐户会保存您所定位公司的人员。 该仪表板为您的所有指定帐户提供每个属性的当前数据。
 
-## 指定帐户仪表板 {#named-accounts-dashboard}
+## 指定帐户仪表板{#named-accounts-dashboard}
 
 ![](assets/one.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >Marketo将同步到Marketo的所有CRM用户显示为“帐户所有者”或“帐户团队成员”的筛选值。
 
-## 命名帐户属性 {#named-account-attributes}
+## 命名帐户属性{#named-account-attributes}
 
 <table> 
  <tbody> 
