@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解项目会员资格 {#understanding-program-membership}
+# 了解项目成员资格{#understanding-program-membership}
 
 >[!NOTE]
 >
@@ -19,30 +19,30 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**定义：** 成员是具有项目状态的人。
+>**定义：** 成员是具有项目状态的人员。
 
-## 人如何成为项目成员 {#how-people-become-members-of-a-program}
+## 人员如何成为项目成员{#how-people-become-members-of-a-program}
 
-1. 人员在登陆页 [上填写表](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) 单。
-
-   1. 人员将自动拥有晋升中的第一个状态。
-
-1. 您可 [以通过CSV文件将成员](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) 导入项目中。
+1. 人在登陆页](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)上填写[表单。
 
    1. 人员将自动拥有晋升中的第一个状态。
 
-1. 使用更改 [项目状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 流步骤。
-1. 人员注册或参加与事件 [项目同步的网络研讨会](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)。
-1. 人员是使 [用Marketo iPad登记应用程序创建的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)。
-1. 将人员添加到SFDC活动，该 [与项目同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)。
+1. 您可以从CSV文件将[成员导入项目](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)。
+
+   1. 人员将自动拥有晋升中的第一个状态。
+
+1. 使用[更改项目状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)流步骤。
+1. 某人注册或参加与事件项目](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)同步的[网络研讨会。
+1. 人是使用Marketo iPad登记应用程序[创建的。](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
+1. 将人员添加到SFDC活动，该项目与该同步[。](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 
 >[!NOTE]
 >
 >对于电子邮件项目，仅当发送电子邮件时，才会将人员添加到会员资格中。
 
-## 项目状态 {#program-statuses}
+## 项目状态{#program-statuses}
 
-项目状态是项目中用户完成的步骤（例如，已邀请、RSVPd、已出席、无显示）。 这些步骤由渠道定 [义](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
+项目状态是项目中用户完成的步骤（例如，已邀请、RSVPd、已出席、无显示）。 这些步骤由[渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)定义。
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 >
 >人员不能后退到以前的项目状态。 状态晋升只是一种方式。
 
-## 成功状态 {#success-statuses}
+## 成功状态{#success-statuses}
 
 项目的目的是与个人或潜在客户进行有意义的交互。 当个人达到达到该目标的状态时，会标记成功。
 
@@ -58,9 +58,9 @@ ht-degree: 0%
 >
 >对于网络研讨会，如果注册并不真正观看网络研讨会，则不是有意义的交互。 在这种情况下，参加是成功的。
 
-## 赢取项目  {#acquisition-program}
+## 客户获取项目{#acquisition-program}
 
-当新名称以项目成员身份进入系统时，Marketo会自动将该项目设置为“客户获取”。 这为首次接触 [归因确立了信誉](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
+当新名称以项目成员身份进入系统时，Marketo会自动将该项目设置为“客户获取”。 这为[First-Touch归因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)建立了信誉。
 
 >[!MORELIKETHIS]
 >
