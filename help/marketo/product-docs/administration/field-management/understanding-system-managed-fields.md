@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解系统管理字段 {#understanding-system-managed-fields}
+# 了解系统管理字段{#understanding-system-managed-fields}
 
-您可能已经注意到人 [员详细信息页](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 面包含由Marketo创建的一系列不可编辑的字段。 这些数据来自不同的来源，有无数的价值可以展示。
+您可能已经注意到[人员详细信息页面](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)包含由Marketo创建的一系列不可编辑字段。 这些数据来自不同的来源，有无数的价值可以展示。
 
-## 字段类型 {#field-types}
+## 字段类型{#field-types}
 
 | **字段名称** | **定义** |
 |---|---|
@@ -35,7 +35,7 @@ ht-degree: 0%
 | 推断的都市区 | Marketo对人口大都市区的最佳猜测（基于IP） |
 | 推断电话区号 | Marketo对个人区号的最佳猜测（基于IP） |
 
-## 原始和注册源类型的可能值 {#possible-values-for-original-and-registration-source-type}
+## 原始和注册源类型{#possible-values-for-original-and-registration-source-type}的可能值
 
 以下是一些可能的价值及其含义。
 
