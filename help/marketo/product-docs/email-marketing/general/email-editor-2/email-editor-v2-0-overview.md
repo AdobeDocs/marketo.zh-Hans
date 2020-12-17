@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件编辑器v2.0概述 {#email-editor-v-overview}
+# 电子邮件编辑器v2.0概述{#email-editor-v-overview}
 
 当您决定激活电子邮件编辑器v2.0时，您会注意到几个新增功能。
 
 **电子邮件模板选取器**
 
-创建新电子邮件时，将转到“电子邮件模板选 [取器”](email-template-picker-overview.md)。
+创建新电子邮件时，将转到[电子邮件模板选取器](email-template-picker-overview.md)。
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 **模块**
 
-编辑器右侧的这些内容称为模块。 了解如何向 [电子邮件中添加模块](add-modules-to-your-email.md)。
+编辑器右侧的这些内容称为模块。 了解如何[向电子邮件](add-modules-to-your-email.md)添加模块。
 
 ![](assets/three-4.png)
 
 **文本版本**
 
-现在，在电子邮件的HTML版本和文本版本之间切换位于底部的方便选项卡中。 了解如何 [编辑电子邮件的文本版本](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)。
+现在，在电子邮件的HTML版本和文本版本之间切换位于底部的方便选项卡中。 了解如何[编辑电子邮件的文本版本](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)。
 
 ![](assets/four-3.png)
 
 **电子邮件标题**
 
-想要更多设计空间？ 编辑完电子邮件标题后，可以隐 [藏它](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)。 只需单击此图标……
+想要更多设计空间？ 完成[编辑后，可以隐藏电子邮件标题](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)。 只需单击此图标……
 
 ![](assets/five-4.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/eight-3.png)
 
-要获得更大的预览, **请单击** 电子邮件右上角的“预览”。
+对于较大的预览，请单击电子邮件右上角的&#x200B;**预览**。
 
 ![](assets/preview1.png)
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
 ![](assets/preview2.png)
 
-...但您还可以看到移动设备的显示效果。 您也可以预览文本版本！ 只需单 **击右上** 角的“编辑草稿”，即可继续编辑。
+...但您还可以看到移动设备的显示效果。 您也可以预览文本版本！ 只需单击右上角的&#x200B;**编辑草稿**&#x200B;即可继续编辑。
 
 [![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
 
 **电子邮件操作**
 
-在“ **电子邮件**”操作下，您会注意到一些新增功能。 **上传图像或文件**，并 **从Web获取图像**。 您还可以将电子邮件本身另存为新的电子邮件模板。 你只需给它一个名字和一个目标。
+在&#x200B;**电子邮件操作**&#x200B;下，您会注意到一些新增功能。 **上传图像或文件**，并 **从Web获取图像**。您还可以将电子邮件本身另存为新的电子邮件模板。 你只需给它一个名字和一个目标。
 
 ![](assets/nine-3.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 >
 >** [从Web抓取图像](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**工作方式与Design Studio中相同。
 
-**在“电子邮件设置** ”下 **禁用“打开跟踪**”，如有必要，您可以禁用打开跟踪。
+**禁用“电子** 邮件 **设置”下的**“打开跟踪”，您可以根据需要禁用打开跟踪。
 
 ![](assets/thirteen-1.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 >
 >**深潜**
 >
->如果您想深入研究，请查看此有帮助 [的视频](https://nation.marketo.com/videos/1463)。
+>如果您想深入研究，请查看此[实用视频](https://nation.marketo.com/videos/1463)。
 
 >[!MORELIKETHIS]
 >
