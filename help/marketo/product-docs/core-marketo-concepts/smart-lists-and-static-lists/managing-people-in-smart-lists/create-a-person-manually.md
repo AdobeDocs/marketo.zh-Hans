@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 手动创建人员 {#create-a-person-manually}
+# 手动创建人员{#create-a-person-manually}
 
 有很多方法可以让一个人进入Marketo。 如果您需要手动创建，请看如何操作。
 
-1. 转到数 **据库**。
+1. 转到&#x200B;**Database**。
 
    ![](assets/db-1.png)
 
-1. 在“ **新建**”下，单 **击“新建人员**”。
+1. 在&#x200B;**New**&#x200B;下，单击&#x200B;**New Person**。
 
    ![](assets/two-2.png)
 
-1. 输入人员信息，然后单击“ **创建**”。
+1. 输入人员信息，然后单击&#x200B;**创建**。
 
    ![](assets/three-2.png)
 
