@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 在Microsoft中更改所有者 {#change-owner-in-microsoft}
+# 在Microsoft {#change-owner-in-microsoft}中更改所有者
 
 如果已有人员已分配给某个所有者，您可以使用此流步骤将他们重新分配给另一个所有者。
 
 >[!NOTE]
 >
->仅当在智能 **活动中与触发器一起使用**，而非与过滤器一起使用时，此流步骤才有效。
+>仅当在智能活动中与触发器&#x200B;**一起使用时，此流步骤**&#x200B;才能工作，而不是过滤器。
 
 ![](assets/one-1.png)
 
