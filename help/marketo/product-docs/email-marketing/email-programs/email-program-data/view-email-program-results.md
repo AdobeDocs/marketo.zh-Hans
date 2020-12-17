@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 视图电子邮件项目结果 {#view-email-program-results}
+# 视图电子邮件项目结果{#view-email-program-results}
 
 就像智能活动中的“结果”选项卡一样，您可以在电子邮件项目中看到相同的信息。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >如果电子邮件项目已运行，您将直接转到电子邮件项目仪表板。
 
-1. 在 **视图**&#x200B;下，选 **择控制面板**。
+1. 在&#x200B;**视图**&#x200B;下，选择&#x200B;**控制面板**。
 
    ![](assets/controlpanelview.jpg)
 
-1. 在受众 **拼贴** 下，单击“ **视图结果”**。
+1. 在&#x200B;**受众**&#x200B;拼贴下，单击&#x200B;**视图结果**。
 
    ![](assets/audiencetile.jpg)
 
@@ -43,5 +43,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->想了解有关电子邮件项目 [的更多信息](http://docs.marketo.com/display/docs/email+program+actions)?
+>想了解有关[电子邮件项目](http://docs.marketo.com/display/docs/email+program+actions)的更多信息吗？
 
