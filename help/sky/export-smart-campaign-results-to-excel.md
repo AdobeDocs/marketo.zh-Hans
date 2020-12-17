@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-将智能活动结果导出至Excel以在外部使用 [!DNL Marketo]。
+将智能活动结果导出到Excel以在[!DNL Marketo]之外使用。
 
-1. 在智能 [!UICONTROL Overview] 活动的选项卡中，单击该选 **[!UICONTROL Reports]** 项卡。
+1. 在智能活动的[!UICONTROL Overview]选项卡中，单击&#x200B;**[!UICONTROL Reports]**&#x200B;选项卡。
 
    ![图像1](/help/sky/assets/smart-campaigns/export-smart-campaign-results-to-excel/export-smart-campaign-results-to-excel-1.png)
 
