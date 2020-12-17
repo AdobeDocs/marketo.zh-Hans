@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 在智能列表中使用列表成员 {#use-members-of-list-in-a-smart-list}
+# 在智能列表{#use-members-of-list-in-a-smart-list}中使用列表成员
 
 >[!TIP]
 >
->您可以使用导入或添加到列表 [流步](../../../../getting-started/quick-wins/import-a-list-of-people.md) 骤将 [人员添加到列表](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)。
+>可以使用[导入](../../../../getting-started/quick-wins/import-a-list-of-people.md)或[添加到列表流步骤](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)将人员添加到列表。
 
 通过此过滤器，您可以通过在智能列表规则中引用该过滤器，从其他列表拉取成员。 这是方法。
 
-1. 选择智能列表，然后单击“智 **能列表** ”选项卡。
+1. 选择智能列表并单击&#x200B;**智能列表**&#x200B;选项卡。
 
    ![](assets/smartlist-sltab.png)
 
-1. 在右侧的过滤器面板上，搜索并将 **筛选器的“列表成** 员”拖动到画布上。
+1. 在右侧过滤器面板上，搜索并将列表&#x200B;**的**&#x200B;成员筛选器拖动到画布上。
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
