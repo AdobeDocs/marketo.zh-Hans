@@ -12,18 +12,18 @@ ht-degree: 0%
 
 # 添加和删除标签
 
-您可以在中为任何资产分配标 [!UICONTROL Marketing Activities]签，从而轻松组织和查找资产。
+您可以在[!UICONTROL Marketing Activities]中为任何资产分配标签，从而轻松组织和查找资产。
 
 ## 添加标签
 
-要向资产添加新标签，请导航至该资产的 [!UICONTROL Details] 选项卡下的页 [!UICONTROL Overview] 面。
+要向资产添加新标签，请导航到资产[!UICONTROL Details]页面的[!UICONTROL Overview]选项卡下。
 <br> 
 
-在部分 [!UICONTROL Labels] 下，单击 **[!UICONTROL Add New Labels]**。
+在[!UICONTROL Labels]部分下，单击&#x200B;**[!UICONTROL Add New Labels]**。
 
 ![图像1](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-如果要添加以前未使用的标签，请输入标签名称并单击 **[!UICONTROL Create New ____]**。
+如果要添加以前未使用过的标签，请输入标签名称并单击&#x200B;**[!UICONTROL Create New ____]**。
 
 ![图像2](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
 ## 删除标签
 
-您可以通过单击来删除任何标签 **[!UICONTROL X]**。
+单击&#x200B;**[!UICONTROL X]**&#x200B;可删除任何标签。
 
 ![图像4](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
