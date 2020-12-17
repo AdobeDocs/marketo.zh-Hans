@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 从列表中删除 {#remove-from-list}
+# 从列表{#remove-from-list}中删除
 
-## 概述 {#overview}
+## 概述{#overview}
 
-由于您能够**添 [加到列表](add-to-list.md)**，您还需要一种从列表中删除人员的方法。
+由于您能够** [添加到列表](add-to-list.md)**，您还需要一种从列表中删除人员的方法。
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
-1. 查找并选 **择** 要删除人员的列表。
+1. 查找并选择&#x200B;**列表**，您希望从中删除人员。
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
