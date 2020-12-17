@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 立即运行批智能活动 |计划选项卡 {#run-a-batch-smart-campaign-now-schedule-tab}
+# 立即运行批智能活动 |计划选项卡{#run-a-batch-smart-campaign-now-schedule-tab}
 
 构建完批活动后，可以选择立即或稍后运行它。 下面介绍如何立即运行它。
 
-1. 选择批智能活动，转到“计划” **选项卡** ，然后单击“ **运行一次”**。
+1. 选择批智能活动，转至&#x200B;**计划**&#x200B;选项卡，然后单击&#x200B;**运行一次**。
 
    ![](assets/runcampaignnow-hands.png)
 
-1. 确保已选择“**立即运行”**，然后单击“ **运行**”。
+1. 确保已选择“**立即运行**”，然后单击“**运行**”。
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
-1. 再次单击“ **运行** ”进行确认。
+1. 再单击一次&#x200B;**运行**&#x200B;进行确认。
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   小菜一碟！ 您还可以 [计划以后运行](schedule-a-batch-smart-campaign-to-run-later.md) （如果愿意）。
+   小菜一碟！ 您还可以[计划运行以后的](schedule-a-batch-smart-campaign-to-run-later.md)。
 
    >[!NOTE]
    >
