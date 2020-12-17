@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 导航营销日历 {#navigating-the-marketing-calendar}
+# 导航营销日历{#navigating-the-marketing-calendar}
 
 在营销日历中导航非常简单，一、二、三！
 
 >[!PREREQUISITES]
 >
->确保您有营销日 [历许可证](issue-revoke-a-marketing-calendar-license.md) -否则，“营销日历”拼贴不会显示在我的营销人员中。
+>确保您有[营销日历许可证](issue-revoke-a-marketing-calendar-license.md) —— 否则，营销日历拼贴不会显示在我的营销人员中。
 
-1. 转到“营销 **日历”**。
+1. 转至&#x200B;**营销日历**。
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -27,23 +27,23 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
-## 模式之间的更改 {#change-between-modes}
+## 模式之间的更改{#change-between-modes}
 
-1. 单击3 **周或****“月** ”选项卡，在模式之间切换。
+1. 单击&#x200B;**3周**&#x200B;或&#x200B;**月**&#x200B;选项卡，在各种模式之间切换。
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## 使用议程视图 {#use-the-agenda-view}
+## 使用议程视图{#use-the-agenda-view}
 
 “议程”视图将您的所有条目显示为列表。
 
-1. 单击“ **筛选器”下拉框**。
+1. 单击&#x200B;**过滤器下拉列表**。
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
+   “ ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-   `
+   “
 
-1. 选择“ **议程** ”视图。
+1. 选择&#x200B;**议程**&#x200B;视图。
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## 浏览时间 {#navigate-through-time}
+## 浏览时间{#navigate-through-time}
 
 没有德罗林车！ 只需单击导航按钮。
 
