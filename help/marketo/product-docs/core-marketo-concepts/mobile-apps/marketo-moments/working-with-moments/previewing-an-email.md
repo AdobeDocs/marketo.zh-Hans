@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 预览电子邮件 {#previewing-an-email}
+# 预览电子邮件{#previewing-an-email}
 
 在扣动扳机之前，右键单击电子邮件卡以预览它。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. 点按 **预览电子邮件**。
+1. 点按&#x200B;**预览电子邮件**。
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
