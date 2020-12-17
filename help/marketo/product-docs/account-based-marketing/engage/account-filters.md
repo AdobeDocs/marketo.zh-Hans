@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 帐户过滤器 {#account-filters}
+# 帐户过滤器{#account-filters}
 
 使用以帐户为中心的新过滤器识别并吸引指定帐户及其中的角色。
 
-## 反导过滤器 {#abm-filters}
+## ABM过滤器{#abm-filters}
 
-1. 选择您的智能活动，然后单 **击智能列表**。
+1. 选择您的智能活动，然后单击&#x200B;**智能列表**。
 
    ![](assets/one.png)
 
-1. 单击+ **以展** 开“帐户 **过滤器”文件夹** 。
+1. 单击&#x200B;**+**&#x200B;以展开&#x200B;**帐户过滤器**&#x200B;文件夹。
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-## 帐户成员列表 {#member-of-account-list}
+## 帐户列表{#member-of-account-list}的成员
 
 要使用此筛选器，请单击帐户列表下拉列表……
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 >
 >对于“帐户成员列表”筛选器，只有一个限定符：“is”-不提供其他限定符（如“is not”和“is any”）。
 
-## 指定帐户的成员 {#member-of-named-account}
+## 指定帐户{#member-of-named-account}的成员
 
 1. 选择限定符。 适用于特定的指定帐户，或任何指定帐户。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 如果使用“is any”限定符，则可能需要利用约 [束](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) 来缩小搜索结果范围。 添加任意所需数量的内容！
+1. 如果使用“is any”限定符，您可能希望利用[约束](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter)来缩小搜索结果范围。 添加任意所需数量的内容！
 
    ![](assets/nine.png)
 
