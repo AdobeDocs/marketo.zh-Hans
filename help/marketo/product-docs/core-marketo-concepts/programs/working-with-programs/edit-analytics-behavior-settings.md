@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 编辑分析行为设置 {#edit-analytics-behavior-settings}
+# 编辑分析行为设置{#edit-analytics-behavior-settings}
 
-您可以在渠道 [的管理员级别设置分析行为](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)，但也可以在项目级别编辑该行为。 这是方法。
+您可以在渠道](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)的管理级别设置[分析行为，但也可以在项目级别编辑它。 这是方法。
 
 1. 转到营销活动。
 
