@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 发出／撤销营销日历许可证 {#issue-revoke-a-marketing-calendar-license}
+# 发出／撤销营销日历许可证{#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-要利用您的营销 [日历席位](http://docs.marketo.com/display/docs/marketing+calendar) ，您需要向需要访问的用户颁发许可证。 这是方法。
+要利用您的[营销日历](http://docs.marketo.com/display/docs/marketing+calendar)席位，您需要向需要访问的用户颁发许可证。 这是方法。
 
-1. 转到“管理 **员** ”部分。
+1. 转至&#x200B;**Admin**&#x200B;部分。
 
    ![](assets/adminhand.png)
 
-1. 单击“用 **户和角色”**。
+1. 单击&#x200B;**用户和角色**。
 
    ![](assets/2.png)
 
-1. 选择用户，然后单击“发 **行许可证”。**
+1. 选择用户，然后单击“颁发许可证”。****
 
    >[!TIP]
    >
-   >使 **用Ctrl/Cmd并单击** ，一次选择多个用户。
+   >使用&#x200B;**Ctrl/Cmd+单击**&#x200B;一次选择多个用户。
 
    ![](assets/3.png)
 
-1. 选中“ **启用许可证** ”，然后单击 **“保存”。**
+1. 选中&#x200B;**启用许可证**&#x200B;并单击&#x200B;**保存。**
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-   干得好！ 是否在日历下看到绿色 **复选标记**?
+   干得好！ 请参见&#x200B;**日历**&#x200B;下的绿色复选标记？
 
    ![](assets/5.png)
 
