@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 从列表添加／删除入站链接URL {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO —— 从列表{#seo-add-remove-an-inbound-link-url-from-a-list}添加／删除入站链接URL
 
 您可以组织指向您心中内容的入站链接URL。
 
-## 向列表添加入站链接URL {#add-an-inbound-link-url-to-a-list}
+## 向列表{#add-an-inbound-link-url-to-a-list}添加入站链接URL
 
 1. 转到“入站链接”部分。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >您还可以为要转到的关键字建立新的列表。 只需在“创建新列表”中键入所需名称。
 
-## 从列表中删除入站链接URL {#remove-an-inbound-link-url-from-a-list}
+## 从列表{#remove-an-inbound-link-url-from-a-list}中删除入站链接URL
 
 1. 有时，您会希望从列表中删除入站链接URL。
 
