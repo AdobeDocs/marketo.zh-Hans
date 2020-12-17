@@ -18,13 +18,13 @@ Marketo允许您设置可以获得智能活动的最大人数；这有助于您�
 
 >[!IMPORTANT]
 >
->请务必在Marketo [中为智能活动启用](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) “人员限制 [!UICONTROL Admin]”。
+>请务必[在Marketo [!UICONTROL Admin]中为智能活动](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns)启用人员限制。
 
-1. 找到您的智能活动并单击 **[!UICONTROL Schedule]**。
+1. 找到您的智能活动并单击&#x200B;**[!UICONTROL Schedule]**。
 
    ![图像1](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. 单击 **[!UICONTROL Qualification Rules]**。
+1. 单击&#x200B;**[!UICONTROL Qualification Rules]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -32,7 +32,7 @@ Marketo允许您设置可以获得智能活动的最大人数；这有助于您�
    >
    >默认限制是管理员中设置的限制。
 
-1. 在旁 **[!UICONTROL Abort campaign if qualified leads exceed]**&#x200B;边，输入新限制。
+1. 在&#x200B;**[!UICONTROL Abort campaign if qualified leads exceed]**&#x200B;旁，输入新限制。
 
    ![图3](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
