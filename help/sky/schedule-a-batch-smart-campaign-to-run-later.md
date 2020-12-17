@@ -18,17 +18,17 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您还可以重 [新计划项目计划视图中的批智能活动](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)。
+>您还可以[在项目计划视图](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)中重新计划批智能活动。
 
 1. 选择要运行的批智能活动。
 
    ![图像1](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. 转到选项卡 **[!UICONTROL Schedule]** 并单击 **[!UICONTROL Add Run]**。
+1. 转到&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡并单击&#x200B;**[!UICONTROL Add Run]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. 选 **[!UICONTROL Set Run Date/Time]**&#x200B;择，然后单击日历图标，并选择要运行智能活动的日期。
+1. 选择&#x200B;**[!UICONTROL Set Run Date/Time]**，然后单击日历图标并选择要运行智能活动的日期。
 
    ![图3](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -36,6 +36,6 @@ ht-degree: 0%
 
    ![图像4](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. 单击 **[!UICONTROL Confirm]**。
+1. 单击&#x200B;**[!UICONTROL Confirm]**。
 
    ![图像5](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-5.png)
