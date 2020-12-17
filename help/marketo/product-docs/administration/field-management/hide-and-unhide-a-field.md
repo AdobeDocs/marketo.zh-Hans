@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 隐藏和取消隐藏字段 {#hide-and-unhide-a-field}
+# 隐藏和取消隐藏字段{#hide-and-unhide-a-field}
 
 如果您不再在Marketo中使用字段，则可以在UI中隐藏它，使其不再显示在应用程序中。
 
-## 隐藏字段 {#hide-a-field}
+## 隐藏字段{#hide-a-field}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 转到“管 **理员** ”并单 **击“字段管理**”。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**字段管理**。
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. 找到该字段，选择它，然后在“字段操作” **下单击** “隐 **藏字段”**。
+1. 找到字段，选择它，然后在&#x200B;**字段操作**&#x200B;下单击&#x200B;**隐藏字段**。
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
-## 取消隐藏字段 {#unhide-a-field}
+## 取消隐藏字段{#unhide-a-field}
 
-1. 转到“管 **理员** ”并单 **击“字段管理**”。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**字段管理**。
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. 查找并选择字段，然后在“字段操 **作”下** 单击 **`Unhide Field`**。
+1. 查找并选择字段，然后在&#x200B;**字段操作**&#x200B;下单击&#x200B;**`Unhide Field`**。
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
@@ -56,5 +56,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >需要执行大规模隐藏／取消隐藏？ 联系Marketo Professional Services: [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4d3e283f3b242e283e0d202c3f26283922632e222063)
+   >需要执行大规模隐藏／取消隐藏？ 联系Marketo Professional Services:[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4d3e283f3b242e283e0d202c3f26283922632e222063)
 
