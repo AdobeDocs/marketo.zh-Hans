@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件发送工具 {#email-deliverability-tool}
+# 电子邮件发送工具{#email-deliverability-tool}
 
 Marketo的电子邮件交付性工具提供了单个应用程序，用于在您发送电子邮件之前对其进行评估。
 
@@ -21,11 +21,11 @@ Marketo的电子邮件交付性工具提供了单个应用程序，用于在您�
 >
 >并非所有客户都有电子邮件交付工具。 有关详细信息，请与销售代表联系。
 
-有关此功能的详细信息，请查 [看Marketo.com上的Email Deliverability PowerPack](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/)。
+有关此功能的详细信息，请查看Marketo.com](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/)上的[电子邮件可交付性PowerPack。
 
 >[!NOTE]
 >
 >**深潜**
 >
->有关具体说明，请参阅《Marketo Deliverability User Guide》(Marketo Deliverability用 [户指南)](https://250ok.com/guides/marketo/)。
+>有关具体说明，请参阅《Marketo Deliverability [用户指南》](https://250ok.com/guides/marketo/)。
 
