@@ -16,11 +16,11 @@ ht-degree: 0%
 
 您可以直接在项目视图中创建新的电子邮件项目计划。
 
-1. 在树中选择项目，然后转到下 **[!UICONTROL Schedule]** 面的选项卡 **[!UICONTROL Overview]**。
+1. 在树中选择项目，然后转到&#x200B;**[!UICONTROL Overview]**&#x200B;下的&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡。
 
    ![图像1](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-1.png)
 
-1. 将指针悬停在要添加条目的日期上，然后单击 **[!UICONTROL Add]**。
+1. 将指针悬停在要添加条目的日期上，然后单击&#x200B;**[!UICONTROL Add]**。
 
    ![图像2](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >您还可以按照类似步骤从“日”、“周”或“议程”项目中创建电子邮件视图。
 
-1. 输入新智能活动的名称，然后更 **[!UICONTROL Type]** 改为 [!UICONTROL Email Program]。 如果要在创建条 **[!UICONTROL Start Date]**&#x200B;目后保 **[!UICONTROL Open In Agenda View]** 留在日历中，您还可以修改并取消选中。 单击 **[!UICONTROL Save]**。
+1. 输入新智能活动的名称，然后将&#x200B;**[!UICONTROL Type]**&#x200B;更改为[!UICONTROL Email Program]。 如果要在创建条目后保留在日历中，还可以修改&#x200B;**[!UICONTROL Start Date]**&#x200B;并取消选中&#x200B;**[!UICONTROL Open In Agenda View]**。 单击&#x200B;**[!UICONTROL Save]**。
 
    ![图3](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您可以在中的项目计划项目内创 [!DNL Marketo Sky]建电子邮件视图，但实际项目设置将处于 [!DNL Marketo Classic]中。
+>您可以在[!DNL Marketo Sky]的项目计划视图内创建电子邮件项目，但实际项目设置将位于[!DNL Marketo Classic]中。
