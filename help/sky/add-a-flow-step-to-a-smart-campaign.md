@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 添加流步骤
 
-1. 在中 [!UICONTROL Marketing Activities]，选择您的智能活动并单击 **[!UICONTROL Flow]**。
+1. 在[!UICONTROL Marketing Activities]中，选择您的智能活动并单击&#x200B;**[!UICONTROL Flow]**。
 
    ![图像1](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **深潜**
 
-进一步了解不同 [的流程步骤](http://docs.marketo.com/display/DOCS/Flow+Actions)。
+进一步了解不同的[流步骤](http://docs.marketo.com/display/DOCS/Flow+Actions)。
 
 1. 单击下拉列表并选择相应的选项。
 
@@ -38,13 +38,13 @@ ht-degree: 0%
 
 **提醒**
 
-流步骤按其列出顺序执行。 [对流步骤重新排序](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) ，以确保它们按正确的顺序排列。
+流步骤按其列出顺序执行。 [对流步](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) 骤重新排序，确保它们按正确的顺序排列。
 
 >[!TIP]
 >
 >如果条目无效，将显示红线。 将鼠标悬停在线上，查看如何更正它。
 >
->在计划或 [激活智能活动之前](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) ，请务必查看并验证它。
+>在计划或激活智能活动之前，请务必[检查并验证智能](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist)。
 
 ## 重新排序流步骤
 
