@@ -24,14 +24,14 @@ ht-degree: 0%
 
 ![图像1](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-单击选 **[!UICONTROL Schedule]** 项卡将确认智能活动设置为“批”。
+单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡将确认智能活动设置为“批”。
 
 ![图像2](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **批智能活动**
 
 * 可以安排重复，如每日、每周和每月。 你也可以让他们只跑一次。
-* 在项目计划 [视图上可见](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)。
+* 在[项目计划视图](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)上可见。
 * 智能活动中“等待”步骤后的任何内容都不会包括在视图中。
 
 ## 触发智能活动
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 ![图3](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-单击选 **[!UICONTROL Schedule]** 项卡将确认智能活动设置为“触发器”。
+单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡将确认智能活动设置为“触发器”。
 
 ![图像4](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **触发智能活动**
 
 * 无法安排重复。 只能将它们设置为活动或非活动状态。
-* 您可以设置多个触发器。 但是，如 _果触发_ 了任何触发器，将运行活动操作。
+* 您可以设置多个触发器。 但是，如果触发&#x200B;_任何_&#x200B;触发器，则将运行活动操作。
 
 >[!TIP]
 >
->使用 [活动日志](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) ，查看智能活动中的分步操作。 您可以在人员详细信息页面的最后一个选项卡中找到活动日志。
+>使用[活动日志](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person)查看智能活动中发生的分步操作。 您可以在人员详细信息页面的最后一个选项卡中找到活动日志。
