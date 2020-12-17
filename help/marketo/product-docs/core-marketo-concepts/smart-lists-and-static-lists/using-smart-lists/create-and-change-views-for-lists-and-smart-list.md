@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 为列表和智能列表创建和更改视图 {#create-and-change-views-for-lists-and-smart-list}
+# 为列表和智能列表创建和更改视图{#create-and-change-views-for-lists-and-smart-list}
 
 智能列表显示默认的列集。 您知道可以根据您心中的内容编辑这些列吗？ 这是方法。
 
-## 创建视图 {#create-a-view}
+## 创建视图{#create-a-view}
 
-1. 转到列表或智能列表，单击“人 **员** ”选项卡，然后单 **击“** 创建 **** 视图 **”(** RegationDrop-down)下方的“视图”。
+1. 转至列表或智能列表，单击&#x200B;**People**&#x200B;选项卡，然后单击&#x200B;**视图**&#x200B;下拉菜单下的&#x200B;**创建****视图**。
 1. ![](assets/smartlist-createview.png)
 
 1. 命名视图并查找要添加或删除的列。
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要快速搜索，请使用“查 **找** ”框。
+>要快速搜索，请使用&#x200B;**查找**&#x200B;框。
 
-## 切换视图 {#switch-views}
+## 交换机视图{#switch-views}
 
-1. 单击 **视图** 下拉框，然后选择所需的视图。 根据需要在视图之间来回切换。
+1. 单击&#x200B;**视图**&#x200B;下拉框，然后选择所需的视图。 根据需要在视图之间来回切换。
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -42,29 +42,29 @@ ht-degree: 0%
 >
 > 除默认视图外，您必须先创建第二个视图，才能切换视图。
 
-## 编辑视图 {#edit-a-view}
+## 编辑视图{#edit-a-view}
 
-1. 确保在“视图”下拉框中选 **择** 要编辑的视图。
+1. 确保在&#x200B;**视图**&#x200B;下拉框中选择了要编辑的视图。
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. 单击“编 **辑** ”选项。
+1. 单击&#x200B;**编辑**&#x200B;选项。
 
    ![](assets/smartlist-editcustomview.png)
 
-1. 进行所需的更改，然后单击“ **保存**”。
+1. 进行所需的更改，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
 
 
-## 删除视图 {#delete-a-view}
+## 删除视图{#delete-a-view}
 
-1. 从“ **视图** ”下拉菜单中选择要删除的 **视图的** “编辑”选项。
+1. 从&#x200B;**视图**&#x200B;下拉菜单中选择要删除的视图的&#x200B;**编辑**&#x200B;选项。
 
    ![](assets/smartlist-editcustomview.png)
 
-1. 单击 **删除**。
+1. 单击&#x200B;**删除**。
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
