@@ -16,11 +16,11 @@ ht-degree: 0%
 
 下面介绍如何在子项目或活动文件夹中覆盖继承的令牌。
 
-1. 在选 [!UICONTROL My Tokens] 项卡中，在部分中找到要覆盖的标 [!UICONTROL Inherited Tokens] 记。
+1. 在[!UICONTROL My Tokens]选项卡中，在[!UICONTROL Inherited Tokens]部分找到要覆盖的令牌。
 
    ![图像1](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. 单击令牌 **[!UICONTROL Value]** 并更改它。 更改此令牌的值将自动将其移至 [!UICONTROL Overridden Tokens] 部分。
+1. 单击令牌&#x200B;**[!UICONTROL Value]**&#x200B;并更改它。 更改此令牌的值将自动将其移至[!UICONTROL Overridden Tokens]部分。
 
    ![图像2](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 
