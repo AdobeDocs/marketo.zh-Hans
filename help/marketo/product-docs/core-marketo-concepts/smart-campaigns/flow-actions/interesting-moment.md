@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 有趣的时刻 {#interesting-moment}
+# 有趣的时刻{#interesting-moment}
 
-## 概述 {#overview}
+## 概述{#overview}
 
-如果您有 [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php)，则可以使用Interest Moment **** Flow步骤，让您的销售团队了解您的员工正在做的最酷的事情。
+如果您有[Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php)，则可以使用&#x200B;**有趣时刻**&#x200B;流程步骤，让您的销售团队了解您的员工正在做的事情。
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
-1. 选择要使 **用** 的有趣时刻类型。
+1. 选择您要使用的有趣时刻&#x200B;**类型**。
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. 创建描述 **** ，以向您的销售团队解释有趣的时刻。
+1. 创建&#x200B;**description**，以说明您的销售团队感兴趣的时刻。
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
    >[!TIP]
    >
-   >**少就是多**。 与您的销售团队合作，确保有趣的时刻真正有趣。
+   >**少就是多**。与您的销售团队合作，确保有趣的时刻真正有趣。
 
    [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
