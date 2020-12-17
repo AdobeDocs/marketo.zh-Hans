@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在智能活动中重新排序流步骤 {#reorder-the-flow-steps-in-a-smart-campaign}
+# 在智能活动{#reorder-the-flow-steps-in-a-smart-campaign}中重新排序流步骤
 
 流步骤从上到下执行。 下面介绍如何重新排序流程步骤以满足您的需求。
 
