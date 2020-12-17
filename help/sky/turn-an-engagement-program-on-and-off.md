@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. 单击选 **[!UICONTROL Setup]** 项卡。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >除非您超出项目限制，否则默认情况下，参与订阅处于开启状态。
 
-1. 右边有 [!UICONTROL Program] 个按钮。 选择 **[!UICONTROL On]** 或 **[!UICONTROL Off]**。
+1. 右边有[!UICONTROL Program]按钮。 选择&#x200B;**[!UICONTROL On]**&#x200B;或&#x200B;**[!UICONTROL Off]**。
 
    ![图3](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
