@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ## 保存流动操作
 
-1. 在中 [!UICONTROL Marketing Activities]，选择您的智能活动（或创建新的智能）。
+1. 在[!UICONTROL Marketing Activities]中，选择您的智能活动（或创建新的智能）。
 
    ![图像1](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. 设置智能列表后，单击 **[!UICONTROL Flow]**。
+1. 设置智能列表后，单击&#x200B;**[!UICONTROL Flow]**。
 
    ![图像2](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![图像4](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. 添加过滤器/触发器后，单击下 **[!UICONTROL Smart Campaign Actions]** 拉框并选择 **[!UICONTROL Save New Flow]**。
+1. 添加完过滤器/触发器后，单击&#x200B;**[!UICONTROL Smart Campaign Actions]**&#x200B;下拉框并选择&#x200B;**[!UICONTROL Save New Flow]**。
 
    ![图像5](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. 命名您的流并单击 **[!UICONTROL Save]**。
+1. 命名您的流并单击&#x200B;**[!UICONTROL Save]**。
 
    ![图6](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## 使用保存的流动操作
 
-1. 在中 [!UICONTROL Marketing Activities]，选择您的智能活动（或创建新的智能）。
+1. 在[!UICONTROL Marketing Activities]中，选择您的智能活动（或创建新的智能）。
 
    ![图像七](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. 单击 **[!UICONTROL Flow]**。
+1. 单击&#x200B;**[!UICONTROL Flow]**。
 
    ![图像8](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. 单击下 **[!UICONTROL Saved Flows]** 拉框。
+1. 单击&#x200B;**[!UICONTROL Saved Flows]**&#x200B;下拉框。
 
    ![图像9](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
