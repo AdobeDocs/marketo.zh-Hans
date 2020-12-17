@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 计划循环批活动 {#schedule-a-recurring-batch-campaign}
+# 计划循环批活动{#schedule-a-recurring-batch-campaign}
 
 循环允许您在常规活动上运行批量智能计划。 例如，每周一次，周一中午12:00。
 
