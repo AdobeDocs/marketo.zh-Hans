@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 存档和取消存档流内容 {#archive-and-unarchive-stream-content}
+# 存档和取消存档流内容{#archive-and-unarchive-stream-content}
 
-如果您不再希望在流中使用某段内容，可以删除该内容 [或将](remove-stream-content.md) 其存档。 下面介绍如何存档内容。
+如果您不再想在流中使用某段内容，可以[删除](remove-stream-content.md)它或将其存档。 下面介绍如何存档内容。
 
 >[!TIP]
 >
 >删除操作会销毁所有与之相关的历史记录；归档可保留它。
 
-## 存档流内容 {#archive-stream-content}
+## 存档流内容{#archive-stream-content}
 
-1. 选择您的参与项目并转至“ **流** ”选项卡。
+1. 选择您的参与项目并转到&#x200B;**流**&#x200B;选项卡。
 
    ![](assets/cloneasteam-4.jpg)
 
-1. 将指针悬停在要存档的电子邮件上，然后单击齿轮图标 **下方**。
+1. 将指针悬停在要存档的电子邮件上方，然后在齿轮图标下单击&#x200B;**存档**。
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
    就这样！ 记住，如果要保留历史，请存档。
 
-## 取消存档流内容 {#unarchive-stream-content}
+## 取消存档流内容{#unarchive-stream-content}
 
 1. 选择您的参与项目，然后转到“流”选项卡。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. 现在，您可以看到已存档的内容，单击要取消存档的内容的齿轮图标，然后单击取消存 **档**。
+1. 现在，您可以看到存档的内容，单击要取消存档的内容的齿轮图标，然后单击&#x200B;**取消存档**。
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
