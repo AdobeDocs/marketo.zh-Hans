@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# RCA中的指定帐户Dimension {#named-account-dimension-in-rca}
+# RCA {#named-account-dimension-in-rca}中的指定帐户Dimension
 
 使用收入周期分析中特定于ABM的指定帐户维度构建基于收入的报告。
 
