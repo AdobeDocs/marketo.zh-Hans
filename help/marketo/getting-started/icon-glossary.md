@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 图标词汇表 {#icon-glossary}
+# 图标术语表{#icon-glossary}
 
 **常规图标**
 
@@ -28,7 +28,7 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>文件夹</span></td> 
   </tr> 
@@ -56,16 +56,16 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">您与其他工作区共享的源文件夹</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" width="25" src="assets/share-from.png"> 
+     <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">从其他工作区共享的目标文 <br>件夹（挂锁指示无法进行编辑）</td> 
+   <td colspan="1">从其他工作区<br>共享的目标文件夹（挂锁指示无法进行编辑）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
+     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
    <td colspan="1">触发器</td> 
   </tr> 
@@ -140,7 +140,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 管理员图标 {#admin-icons}
+## 管理员图标{#admin-icons}
 
 <table> 
  <tbody> 
@@ -312,7 +312,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### 营销活动图标 {#marketing-activities-icons}
+### 营销活动图标{#marketing-activities-icons}
 
 <table> 
  <tbody> 
@@ -409,12 +409,12 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>电子邮 <br>件项目符（红旗关闭=尚未发送电子邮件）</td> 
+   <td>电子邮件项目<br>（Red flag down =尚未发送电子邮件）</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" title="--"> 
+     <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
    <td colspan="1">使用头项目计划电子邮件开始</td> 
   </tr> 
@@ -680,7 +680,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Design Studio图标 {#design-studio-icons}
+### Design Studio图标{#design-studio-icons}
 
 <table> 
  <tbody> 
@@ -866,7 +866,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### 分析图标 {#analytics-icons}
+### 分析图标{#analytics-icons}
 
 <table> 
  <tbody> 
@@ -975,7 +975,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### 我的令牌图标 {#my-tokens-icons}
+### 我的令牌图标{#my-tokens-icons}
 
 <table> 
  <tbody> 
@@ -1042,7 +1042,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### 活动菜单 {#campaign-menus}
+### 活动菜单{#campaign-menus}
 
 <table> 
  <tbody> 
@@ -1116,7 +1116,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### 数据库图标 {#database-icons}
+### 数据库图标{#database-icons}
 
 <table> 
  <tbody> 
