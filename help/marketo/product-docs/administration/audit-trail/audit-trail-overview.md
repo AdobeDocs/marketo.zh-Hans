@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 审计线索概述 {#audit-trail-overview}
+# 审计线索概述{#audit-trail-overview}
 
 审核跟踪使您能够获得在Marketo实例中所做更改的完整历史记录（6个月）。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/one.png)
 
-## 什么是审核跟踪 {#what-is-audit-trail}
+## 什么是审核跟踪{#what-is-audit-trail}
 
 审核跟踪可实时捕获市场订阅中发生的操作和事件的全面列表。 它包括一种自助方式，可访问为期6个月的数据历史，以帮助回答以下问题：
 
@@ -31,9 +31,9 @@ X用户进行了哪些操作？
 
 谁正在登录我们的帐户？
 
-## 我们审计的内容 {#what-we-audit}
+## 我们审计什么{#what-we-audit}
 
-Marketo将审核以下 [项的创建、编辑](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail) 和删除操作：
+Marketo将审核[创建、编辑和删除](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail)操作，用于：
 
 * Design Studio资源
 * 所有营销项目
@@ -46,9 +46,9 @@ Marketo将审核以下 [项的创建、编辑](http://docs.marketo.com/display/D
 
 >[!NOTE]
 >
->Marketo目前 **不** 会审核在Web Personalization、Predictive Content或Sales Insight中所做的更改。
+>Marketo目前&#x200B;**不**&#x200B;审核在Web个性化、预测内容或销售分析中所做的更改。
 
-## 审核跟踪组件 {#audit-trail-components}
+## 审核跟踪组件{#audit-trail-components}
 
 审核跟踪包括三个组件。
 
@@ -66,9 +66,9 @@ Marketo将审核以下 [项的创建、编辑](http://docs.marketo.com/display/D
 
 >[!TIP]
 >
->您可以使用审核跟踪进行审核，请务必利用筛选 [](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>您可以使用审核跟踪进行审核，请务必使用[筛选](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
 
-## 导出数据 {#exporting-data}
+## 导出数据{#exporting-data}
 
 您只能视图实例中价值30天的数据。 要获得（最多）六个月的价值，请使用导出选项。
 
@@ -78,7 +78,7 @@ Marketo将审核以下 [项的创建、编辑](http://docs.marketo.com/display/D
 >
 >**定义**
 >
->**未知：** 在审核跟踪中，您可能会看到用户的姓名和电子邮件列为“未知”。 当您在CRM中更改选择列表值时，会发生这种情况。 这些值显示在Marketo表单和登陆页中。 在CRM端执行此更新将自动起草引用表单的登陆页。 在审核跟踪中，我们将捕获登陆页已起草，但用户的姓名和电子邮件将显示为“未知”，因为我们无法从CRM端捕获用户信息。
+>**未知：** 在审计追踪中，您可能会看到用户名和电子邮件列为“未知”。当您在CRM中更改选择列表值时，会发生这种情况。 这些值显示在Marketo表单和登陆页中。 在CRM端执行此更新将自动起草引用表单的登陆页。 在审核跟踪中，我们将捕获登陆页已起草，但用户的姓名和电子邮件将显示为“未知”，因为我们无法从CRM端捕获用户信息。
 
 >[!MORELIKETHIS]
 >
