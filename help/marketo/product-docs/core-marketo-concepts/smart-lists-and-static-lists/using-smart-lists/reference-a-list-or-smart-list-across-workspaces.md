@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 跨工作区引用列表或智能列表 {#reference-a-list-or-smart-list-across-workspaces}
+# 跨工作区引用列表或智能列表{#reference-a-list-or-smart-list-across-workspaces}
 
 列表和智能列表可以跨工作区进行共享和引用，以便从数据库中轻松重复使用。
 
 >[!NOTE]
 >
->人员分区规则适用(工作区中的智能列表和静态列表仅显示既是列表成员又是当前工 *作区* 成员的人员)。
+>人员分区规则适用(工作区中的智能列表和静态列表仅显示同时是当前工作区&#x200B;*和*&#x200B;成员的列表的成员的人员)。
 
-## 共享列表或智能列表  {#share-a-list-or-smart-list}
+## 共享列表或智能列表{#share-a-list-or-smart-list}
 
-1. 转到数 **据库**。
+1. 转到&#x200B;**Database**。
 
    ![](assets/db-1.png)
 
-1. 右键单击活动文件夹。 选择 **新建文件夹**。
+1. 右键单击活动文件夹。 选择&#x200B;**新建文件夹**。
 
    >[!NOTE]
    >
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/three-4.png)
 
-1. 右键单击“新 **建文件夹** ”，然 **后选择“共享文件夹**”。
+1. 右键单击&#x200B;**新建文件夹**&#x200B;并选择&#x200B;**共享文件夹**。
 
    ![](assets/four-3.png)
 
-1. 选择要共享的**Workspace **。 选择 **保存**。
+1. 选择要共享的**Workspace **。 选择&#x200B;**保存**。
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
