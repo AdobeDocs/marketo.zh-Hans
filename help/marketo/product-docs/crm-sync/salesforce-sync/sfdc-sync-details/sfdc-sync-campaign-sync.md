@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# SFDC同步：活动同步 {#sfdc-sync-campaign-sync}
+# SFDC同步：活动同步{#sfdc-sync-campaign-sync}
 
 营销人员项目可以与Salesforce活动同步。 以下是工作原理的概述。
 
-## 为何应将Marketo项目与Salesforce活动同步？ {#why-should-i-sync-marketo-programs-with-salesforce-campaigns}
+## 为何应将Marketo项目与Salesforce活动同步？{#why-should-i-sync-marketo-programs-with-salesforce-campaigns}
 
 * 使用Marketo项目的强大功能。
 * 使成员及其状态在Marketo项目和Salesforce活动之间保持同步。
 * 利用Marketo和Salesforce中的报告功能。
 
-## 营销人员项目和销售人员活动如何同步？ {#how-is-a-marketo-program-and-a-salesforce-campaign-synced}
+## 营销人员项目和销售人员活动如何同步？{#how-is-a-marketo-program-and-a-salesforce-campaign-synced}
 
 在Marketo中，您可以选择在项目和Salesforce活动之间创建一对一映射。
 
 ![](assets/image2015-7-8-9-3a43-3a8.png)
 
-**渠道 [和](../../../../product-docs/administration/tags/create-a-program-channel.md) ** Marketo中 **的 [、期间成本与Salesforce同步](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** ，作为类型 **和活动实际成本******。 此同步是 **从Market**&#x200B;到Salesforce的一种方式。
+Marketo中的** [渠道](../../../../product-docs/administration/tags/create-a-program-channel.md) **和** [期间成本](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)**&#x200B;作为&#x200B;**活动类型**&#x200B;和&#x200B;**实际成本**&#x200B;同步到Salesforce。 此同步是从Market到Salesforce的&#x200B;**单向**。
 
-Marketo **项目** 成员及其** [进度状态](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)**与Salesforce活动成员和 ********&#x200B;活动成员保持同步。 这是双向 **同** 步 ****，因此在Marketo或Salesforce中所做的任何更改都会反映在这两个系统中。
+标记&#x200B;**项目成员**&#x200B;及其** [进度状态](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)**与&#x200B;**Salesforce活动成员**&#x200B;和&#x200B;**活动成员状态**&#x200B;保持同步。 这是&#x200B;**双向** **sync**，因此在Marketo或Salesforce中所做的任何更改都会反映在这两个系统中。
 
 >[!NOTE]
 >
 >如果Salesforce中不存在Marketo项目中的成员，Marketo会将这些成员创建为Salesforce中的Lead。
 
-## 触发器/过滤器与活动有哪些关系？ {#what-are-the-triggers-filters-related-to-campaigns}
+## 触发器/过滤器与活动有哪些关系？{#what-are-the-triggers-filters-related-to-campaigns}
 
 触发器：
 
@@ -47,28 +47,28 @@ Marketo **项目** 成员及其** [进度状态](../../../../product-docs/core-m
 
 * SFDC活动成员
 
-## 能否将Marketto People添加到我的SFDC活动? {#can-i-add-marketo-people-to-my-sfdc-campaign}
+## 能否将Marketto People添加到我的SFDC活动?{#can-i-add-marketo-people-to-my-sfdc-campaign}
 
-是，请使 [用添加到SFDC活动流动操作](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)。 如果此人员在Salesforce中不存在，Marketo将在Salesforce中创建此人员，然后将其添加到活动。
+是，请使用[添加到SFDC活动流操作](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)。 如果此人员在Salesforce中不存在，Marketo将在Salesforce中创建此人员，然后将其添加到活动。
 
-## 我是否可以使用Marketo从我的SFDC活动中删除成员？ {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
+## 我是否可以使用Marketo从我的SFDC活动中删除成员？{#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-是，使用从SFDC [活动流中删除操作](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)。
+是，请使用[从SFDC活动流中删除操作](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)。
 
-## 我是否可以使用Marketo更改活动成员状态？ {#can-i-change-campaign-member-status-using-marketo}
+## 我是否可以使用Marketo更改活动成员状态？{#can-i-change-campaign-member-status-using-marketo}
 
-是，使用SFDC [活动流中的更改状态操作](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)。
+是，请使用SFDC活动流操作中的[更改状态](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)。
 
-## 为什么我看不到任何Salesforce活动? {#why-cant-i-see-any-of-my-salesforce-campaigns}
+## 为什么我看不到任何Salesforce活动?{#why-cant-i-see-any-of-my-salesforce-campaigns}
 
 您可以检查以下内容：
 
-1. 确保已启 [用活动同步](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)。
-1. 确认您的Marketo [Sync用户](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 是Salesforce [中的Marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) 用户。
+1. 确保[活动同步已启用](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)。
+1. 确认您的[Marketo Sync User](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)是Salesforce中的[Marketing User](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)。
 
 >[!NOTE]
 >
->如果您的Salesforce活动和映射的Marketo项目具有不兼容的项目状态，您可能会收到错误消息。 我们建议您在 [同步之前匹配项目状态](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)。
+>如果您的Salesforce活动和映射的Marketo项目具有不兼容的项目状态，您可能会收到错误消息。 我们建议您[在同步](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)之前匹配项目状态。
 
 >[!MORELIKETHIS]
 >
