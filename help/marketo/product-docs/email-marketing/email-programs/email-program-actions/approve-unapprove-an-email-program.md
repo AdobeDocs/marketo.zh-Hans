@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# 批准／取消批准电子邮件项目 {#approve-unapprove-an-email-program}
+# 批准／取消批准电子邮件项目{#approve-unapprove-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智能受众定义列表](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ，或 [通过导入列表定义受众](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [通过导入受众来定](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 义受众 [来使用智能列表](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [选择现有电子邮件](choose-an-existing-email.md) , [或为电子邮件项目创建电子邮件](create-an-email-for-an-email-program.md)
+* [选择现有电](choose-an-existing-email.md) 子邮 [件或为电子邮件项目创建电子邮件](create-an-email-for-an-email-program.md)
    >
    >
 * [计划电子邮件项目](schedule-your-email-program.md)
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 
 
-## 批准电子邮件项目 {#approve-your-email-program}
+## 批准电子邮件项目{#approve-your-email-program}
 
 现在您的项目已准备就绪，最后一步是批准它。 下面是具体方法：
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
    >
    >如果您不批准您的电子邮件项目，则该电子邮件将不会发出。
 
-1. 在“批 **准** ”拼贴下，单击“批准 **”项目**。
+1. 在&#x200B;**批准**&#x200B;拼贴下，单击&#x200B;**批准项目**。
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -56,11 +56,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
-## 取消批准电子邮件项目 {#unapprove-your-email-program}
+## 取消批准电子邮件项目{#unapprove-your-email-program}
 
 如果您改变了主意，并决定不希望将其发出，则可以取消批准电子邮件项目。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. 在“批准 **”拼贴** 下，只需单击“取消 **批准”项目**。
+1. 在&#x200B;**批准**&#x200B;拼贴下，只需单击&#x200B;**取消批准项目**。
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
