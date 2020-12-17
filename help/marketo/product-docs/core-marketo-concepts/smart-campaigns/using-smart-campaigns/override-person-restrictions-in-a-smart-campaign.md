@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 在智能活动中覆盖人员限制 {#override-person-restrictions-in-a-smart-campaign}
+# 在智能活动{#override-person-restrictions-in-a-smart-campaign}中覆盖人员限制
 
-Marketo允许您设置最大* *可以获得智能活动的人数；这有助于您避免意外发送整个数据库的电子邮件。 如果要覆 *盖* 此限制，请按如下方式。
+Marketo允许您设置最大* *可以获得智能活动的人数；这有助于您避免意外发送整个数据库的电子邮件。 如果要&#x200B;*覆盖*&#x200B;此限制，请看如何。
 
 >[!PREREQUISITES]
 >
->请务必在Marketo [Admin中为智能活动启](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) 用人员限制。
+>确保在Marketo Admin中为智能活动[启用人员限制。](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
 
-1. 在营销活动中，转到** **智能活动并单击 **计划**。
+1. 在营销活动中，转到您的** **smart活动并单击&#x200B;**计划**。
 
    ![](assets/one.png)
 
@@ -30,7 +30,7 @@ Marketo允许您设置最大* *可以获得智能活动的人数；这有助于�
    >
    >默认限制是管理员中设置的限制。
 
-1. 输入新限制，然后单击“保 **存”。**
+1. 输入新限制，然后单击“保存”。****
 
    ![](assets/three.png)
 
