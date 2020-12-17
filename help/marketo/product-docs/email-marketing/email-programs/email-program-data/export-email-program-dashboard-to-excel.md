@@ -15,7 +15,7 @@ ht-degree: 0%
 
 运行电子邮件项目并在仪表板中包含一些数据后，您可以将该原始数据导出到excel以进一步分析。 这是方法。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->想进一步了解电子邮 [件项目](http://docs.marketo.com/display/docs/email+programs)?
+>想了解有关[电子邮件项目](http://docs.marketo.com/display/docs/email+programs)的更多信息吗？
 
