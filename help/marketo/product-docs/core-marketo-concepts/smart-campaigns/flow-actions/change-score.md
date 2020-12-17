@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 更改得分 {#change-score}
+# 更改得分{#change-score}
 
-## 概述 {#overview}
+## 概述{#overview}
 
 评分人员简单、强大，可帮助您的销售团队优先考虑。
 
 ![](assets/flowstep-changescore.png)
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
 1. 选择要更改的得分字段。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以创建多个得分字段。 有关 [详细信息，请参阅在Marketo中创建](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 自定义字段。
+   >您可以创建多个得分字段。 有关详细信息，请参阅[在Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)中创建自定义字段。
 
 1. 输入所需的得分更改。
 
@@ -35,10 +35,10 @@ ht-degree: 0%
 
    更改：
 
-   * **+5** to increment
-   * **-5将减** 量（允许使用负数）
-   * **=5** ，将使得得分与
-   * **=-5** 将使得分数与负数完全相同
+   * **+5** 至增量
+   * **-5** 将减量（允许使用负数）
+   * **=5** 将使得分与
+   * **=-5** 将使得得分与
 
    快速获得基本评分，然后随时间调整结果。 我们就是这么做的！
 
