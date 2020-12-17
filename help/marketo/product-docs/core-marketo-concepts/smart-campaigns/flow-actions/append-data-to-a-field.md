@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将数据追加到字段 {#append-data-to-a-field}
+# 在字段{#append-data-to-a-field}后附加数据
 
 有一种将数据追加到字段的简单方法。 这是方法。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 
 
-1. 在“流 **”** (Flow)选项卡下，拖 **入“更改数据值** ”(Change Data Value)流步骤。
+1. 在&#x200B;**Flow**&#x200B;选项卡下，拖入&#x200B;**更改数据值**&#x200B;流步骤。
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
