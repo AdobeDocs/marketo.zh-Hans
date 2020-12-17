@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 使用人员详细信息页面 {#using-the-person-detail-page}
+# 使用人员详细信息页{#using-the-person-detail-page}
 
 人员详细信息页面包含Marketto了解的有关人员的所有信息。 您可以直接从此页编辑数据。
 
-## “人员详细信息”页 {#getting-to-person-detail-page}
+## “Getting to Person Detail”页{#getting-to-person-detail-page}
 
 有很多方法可以打开特定的人。 下面列出了一些示例。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >**示例**
 >
->* 从数 **据库**，可以在快速查找中搜索
->* 任何智能 **列表** 或列表
->* **项目** “成员”选项卡
->* **视图活动** ，智能活动中的成员
->* 某些报 **告**
+>* 在&#x200B;**Database**&#x200B;中，可以在快速查找中搜索
+>* 任何智能&#x200B;**列表**&#x200B;或列表
+>* **** 项目
+>* **视图** 活动智能活动的会员资格
+>* 某些&#x200B;**报告**
 
 >
 
@@ -65,13 +65,13 @@ ht-degree: 0%
 | Microsoft潜在客户字段 | 内置的Microsoft字段。 |
 | 活动日志 | 与该人相关的所有活动。 |
 
-## 编辑字段 {#editing-a-field}
+## 编辑字段{#editing-a-field}
 
 许多字段都可编辑。 要更新人员的信息，请键入新值，然后在字段外单击以保存。
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## CRM同步之前的Marketo默认字段 {#marketo-default-fields-prior-to-crm-sync}
+## CRM同步{#marketo-default-fields-prior-to-crm-sync}之前的Marketo默认字段
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ ht-degree: 0%
 >
 >**深潜**
 >
->某些字段 *不可* 编辑：
+>某些字段&#x200B;*不可编辑：*
 >
 >* 公司信息
 >* SFDC联系人的机会
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 >
 >
-进一步了解 [系统管理字段](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)。
+了解有关[系统管理字段](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)的更多信息。
 
 >[!MORELIKETHIS]
 >
