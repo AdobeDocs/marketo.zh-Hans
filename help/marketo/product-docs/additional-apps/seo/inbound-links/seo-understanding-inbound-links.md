@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 了解入站链接 {#seo-understanding-inbound-links}
+# SEO —— 了解入站链接{#seo-understanding-inbound-links}
 
 入站链接指示搜索引擎您的站点值得引用。 很好！
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
-## 列的定义 {#definition-of-columns}
+## 列{#definition-of-columns}的定义
 
 | 列标题 | 说明 |
 |---|---|
