@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 了解参与项目 {#understanding-engagement-programs}
+# 了解参与项目{#understanding-engagement-programs}
 
 参与项目设计为通过系统地向新用户展示内容来向他们进行营销。
 
 >[!NOTE]
 >
->每个订阅限制100 **个活动** 项目。
+>每个订阅限制为100 **活动**&#x200B;参与项目。
 
-## 参与项目 {#engagement-program}
+## 参与项目{#engagement-program}
 
-参 **与度pr****ogram是一种项目** ，可轻松实现复杂的培养。
+**参与度pr****ogram**&#x200B;是一种可轻松实现复杂培养的项目。
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 * [创建参与项目](create-an-engagement-program.md)
 
-## 流 {#stream}
+## 流{#stream}
 
-流 **是一** 组优先级内容，参与项目将用它们培养人。
+**stream**&#x200B;是一个优先级内容池，参与项目将使用它来培养人。
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -40,9 +40,9 @@ ht-degree: 0%
 * [添加流](add-a-stream.md)
 * [克隆流](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-## 内容 {#content}
+## 内容{#content}
 
-您可以向参与项目 **流** (电子邮件和项目)添加两种类型的内容。 电子邮件将在播放时发送给人。
+您可以向参与项目流添加两种类型的&#x200B;**内容**：电子邮件和项目。 电子邮件将在播放时发送给人。
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -54,37 +54,37 @@ ht-degree: 0%
 * [删除流内容](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 * [存档和取消存档流内容](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## Cast {#cast}
+## 转换{#cast}
 
-演 **播** 是从参与项目发送电子邮件的事件。
+**cast**&#x200B;是从“参与”项目发送电子邮件的事件。
 
 >[!NOTE]
 >
 >参与项目并非设计用于运营电子邮件。
 
-## 流节奏 {#stream-cadence}
+## 流节奏{#stream-cadence}
 
-通过设置流节奏，可决定何时 **进行播放**。 这是您定期计划内容的方式。
+通过设置&#x200B;**流节奏**，可决定何时进行转换。 这是您定期计划内容的方式。
 
-` ![](assets/image2014-9-15-15-3a25-3a27.png)
+“ ![](assets/image2014-9-15-15-3a25-3a27.png)
 
-`
+“
 
 相关文章：
 
 * [设置流节奏](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
-## 人物节奏 {#person-cadence}
+## 人物节奏{#person-cadence}
 
-人 **际节** (person cadence)是一种状态，它定义了从参与项目接收内容的能力。 您可以使用“更 **改参与项目节奏** ”流步骤将其更改为“暂停”或“正常”。
+**个人节奏**&#x200B;是一种状态，它定义了从参与项目接收内容的能力。 您可以使用&#x200B;**更改参与项目节奏**&#x200B;流步骤将其更改为“暂停”或“正常”。
 
-` ![](assets/image2014-9-15-15-3a25-3a55.png)
+“ ![](assets/image2014-9-15-15-3a25-3a55.png)
 
-`
+“
 
-## 精疲力尽 {#exhausted}
+## 精疲力尽{#exhausted}
 
-一旦人收到了流中的每一条内容，我们就称其为“精疲力 **竭”**。
+一旦用户收到流中的每条内容，我们就称该用户&#x200B;**已精疲力竭**。
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 
 
-## 内容参与程度 {#content-engagement-level}
+## 内容参与级别{#content-engagement-level}
 
 内容参与级别是Marketo将给您的内容提供的0到100分。 此数量由使用打开、点击、取消订阅、项目成功和其他因素的复杂公式确定。
 
