@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-从项目 [!UICONTROL Setup] 的选项卡中，您可以选择渠道、添加标记和期间成本以及更改设置。
+从项目的[!UICONTROL Setup]选项卡中，您可以选择渠道、添加标记和期间成本并更改设置。
 
 ![图像1](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## 添加标记
 
-1. 在部 [!UICONTROL Tags] 分下，单击下 **[!UICONTROL Attribute]** 拉框，并从可用选项中选择标记属性。
+1. 在[!UICONTROL Tags]部分下，单击&#x200B;**[!UICONTROL Attribute]**&#x200B;下拉框，并从可用选项中选择标记属性。
 
    ![图3](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. 单击下 **[!UICONTROL Value]** 拉框，并从可用选项中选择一个标记值。 单击 **[!UICONTROL Add]**。
+1. 单击&#x200B;**[!UICONTROL Value]**&#x200B;下拉框，并从可用选项中选择一个标记值。 单击&#x200B;**[!UICONTROL Add]**。
 
    ![图像4](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->了解如何 [在Marketo Classic中创建项目标记](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) ，并在下拉菜单中提供这些标记选项。
+>了解如何在Marketo Classic[中创建项目标记，并在下拉列表中提供这些标记选项。](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)
 
 ## 添加期间成本
 
-1. 在部 [!UICONTROL Period Costs] 分下，选择月份，输入成本，然后添加简短名称或说明。 单击 **[!UICONTROL Add]**。
+1. 在[!UICONTROL Period Costs]部分下，选择月份，输入费用，然后添加简短的名称或说明。 单击&#x200B;**[!UICONTROL Add]**。
 
    ![图6](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ ht-degree: 0%
 
 ## 更改设置
 
-在部 [!UICONTROL Settings] 分下，您可以选择要同步到的CRM活动(如果订阅已集成CRM)，和／或更改项目的分析行为。
+在[!UICONTROL Settings]部分下，您可以选择要同步到的CRM活动(如果订阅已集成CRM)，和／或更改项目的分析行为。
 
 ![图像8](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
