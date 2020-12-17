@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 设置流节奏 {#set-stream-cadence}
+# 设置流节奏{#set-stream-cadence}
 
 您可以按任意时间间隔发送参与内容。 例如：每周一次，或每三个星期二一次。
 
-## 设置节奏 {#set-cadence}
+## 设置节奏{#set-cadence}
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 查找并选择您的参与项目，单击**流**选项卡，然后单击“设置流 **节奏”**。
+1. 查找并选择您的参与项目，单击**流**选项卡，然后单击&#x200B;**设置流节奏**。
 
    ![](assets/selectstreamcadence.jpg)
 
-1. 选择希望节奏重复的频率。 您可以选择**每周**或每 **月**。
+1. 选择希望节奏重复的频率。 您可以选择**每周**或&#x200B;**每月**。
 
-## 每周 {#weekly}
+## 每周{#weekly}
 
-1. 选择 **每周**。
+1. 选择&#x200B;**每周**。
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以通过选择“重复”来设置节奏以每天 **运行：每周** /**每：1周**/***开&#x200B;**始**:所有日子。
+   >您可以通过选择&#x200B;**重复：每周** /**每：1周** /** ****开启**:所有日子。
 
-   现在选择时间。 如果要使用收件人时 [区](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（即根据本地时区传送），请选中此框，然后单击保存。
+   现在选择时间。 如果要使用[收件人时区](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（即，根据本地时区传送），请选中此框，然后单击保存。
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 就这样！ 如果要设置月度节奏，请继续阅读。
 
-## 每月 {#monthly}
+## 每月{#monthly}
 
 1. 选择“**每月**”以确定重复频率。
 
@@ -92,7 +92,7 @@ ht-degree: 0%
    >
    >或者，您也可以选择一周中的某一天。
 
-1. 选择一个 **时间** ，然后单 **击保存**。
+1. 选择&#x200B;**Time**&#x200B;并单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
