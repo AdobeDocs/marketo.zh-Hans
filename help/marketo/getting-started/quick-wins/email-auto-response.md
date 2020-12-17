@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件自动响应 {#email-auto-response}
+# 电子邮件自动响应{#email-auto-response}
 
-## 任务：在用户填写表单时发送感谢电子邮件 {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## 任务：当用户填写表单{#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}时，发送感谢电子邮件
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 >* [登陆页表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
-## 第1步：创建电子邮件 {#step-create-an-email}
+## 第1步：创建电子邮件{#step-create-an-email}
 
 1. 转到“营销活动”区域。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   将在新窗口或选项卡中打开电子邮件编辑器。 如果弹出窗口被阻止，请单 **击资产摘要页** 上的“编辑草稿”以访问电子邮件。
+   将在新窗口或选项卡中打开电子邮件编辑器。 如果弹出窗口被阻止，请单击资产摘要页面上的&#x200B;**编辑草稿**&#x200B;以访问电子邮件。
 
 1. 输入主题行，然后多次单击电子邮件的可编辑区域。
 
@@ -63,51 +63,51 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a55-3a16.png)
 
-## 第2步：创建智能活动 {#step-create-a-smart-campaign}
+## 第2步：创建智能活动{#step-create-a-smart-campaign}
 
-1. 右键单击“ **我的项目** ”，然 **后单击“新建智能活动**”。
+1. 右键单击&#x200B;**我的项目**，然后单击&#x200B;**新建智能活动**。
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **将智能活动** 命名为“自动响应活动”，然后单击“创 **建”**。
+1. **将您** 的智能活动命名为“自动响应活动”，然后单击“ **创建”**。
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. 转至“智能 **列表** ”选项卡。
+1. 转到&#x200B;**智能列表**&#x200B;选项卡。
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   我们将设置此活动，以便用户在用表单填写您在登陆页中创建 [**的表单时运行**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)。
+   我们将设置此活动，以便用户在填写您在&#x200B;[**登陆页中创建的表单时使用表单**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)&#x200B;运行。
 
-1. 查找并将“填 **充表单”触发** 器拖动到左侧画布。
+1. 找到&#x200B;**填充表单**&#x200B;触发器并将其拖动到左画布。
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. 在下 **拉框中** ，选择“我的表单”。 单击“流 **”** (Flow)选项卡。
+1. 在下拉框中选择&#x200B;**我的表单**。 单击&#x200B;**Flow**&#x200B;选项卡。
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. 将“发送 **电子邮件** ”流动操作拖至左侧画布。
+1. 将&#x200B;**“发送电子邮件**”流动操作拖到左画布。
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. 选择“自 **动响应电子邮件** ”，然后转 **至“计划** ”选项卡。
+1. 选择&#x200B;**自动响应电子邮件**&#x200B;并转到&#x200B;**计划**&#x200B;选项卡。
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
-1. 单击 **编辑**。
+1. 单击&#x200B;**编辑**。
 
    ![](assets/8.png)
 
-1. 每次 **选择** ，然后单击 **保存**。
+1. 每次&#x200B;**选择**&#x200B;并单击&#x200B;**保存**。
 
    ![](assets/9.png)
 
-1. 单击 **激活**。
+1. 单击&#x200B;**激活**。
 
    ![](assets/10.png)
 
-1. 单击 **确认屏** 上的激活。
+1. 单击确认屏幕上的&#x200B;**激活**。
 
    ![](assets/11.png)
 
@@ -115,19 +115,19 @@ ht-degree: 0%
 >
 >激活后，此活动将在用户每次填写指定表单时运行。 活动将一直运行，直到停用。
 
-## 第3步：填写表单 {#step-fill-out-the-form}
+## 第3步：填写表单{#step-fill-out-the-form}
 
-1. 选择 **我的页面**。 这是在登陆页 [中通过快速赢取表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) 创建的。
+1. 选择&#x200B;**我的页面**。 这是在[登陆页中创建的，并且Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)快速获胜。
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. 单击 **视图批准页面**。
+1. 单击&#x200B;**视图批准页面**。
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
    您的“免费试用”登陆页将在新选项卡中打开。
 
-1. 用您的名字、姓氏和电子邮件地址填写表单，然后单击“提 **交”**。
+1. 用您的名字、姓氏和电子邮件地址填写表单，然后单击&#x200B;**提交**。
 
    ![](assets/image2014-9-24-12-3a0-3a28.png)
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 >
 >确保使用实际的电子邮件地址，以便获得电子邮件。
 
-## 任务完成 {#mission-complete}
+## 任务完成{#mission-complete}
 
 在几分钟内，您会在收件箱中看到自动响应电子邮件。 干得好！
 
