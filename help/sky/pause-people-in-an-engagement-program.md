@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-当某人是参与项目的成员时，他们将收到内容，直到他们用尽 [所有内容](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content)。 您可以使用“ [更改参与项目](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) ”流程步骤来阻止用户接收内容，即使他们尚未用尽内容。
+当某人是参与项目的成员时，他们将收到内容，直到他们[用尽了所有内容](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content)。 您可以使用[更改参与项目节奏](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence)流程步骤来阻止用户接收内容，即使他们尚未用尽内容。
 
-1. 在智能活动中，选择要在智能列表中暂停的人／人。 然后在流中，查找并拖动流动 **[!UICONTROL Change Engagement Program Cadence]** 操作。
+1. 在智能活动中，选择要在智能列表中暂停的人／人。 然后在流中，查找并拖动&#x200B;**[!UICONTROL Change Engagement Program Cadence]**&#x200B;流动操作。
 
    ![图像1](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-1.png)
 
@@ -24,11 +24,11 @@ ht-degree: 0%
 
    ![图像2](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-2.png)
 
-1. 选择 **[!UICONTROL Paused]** 作为新值，以阻止人员接收内容。
+1. 选择&#x200B;**[!UICONTROL Paused]**&#x200B;作为新值，以阻止人员接收内容。
 
    ![图3](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-3.png)
 
-如果您希望人员再次 **[!UICONTROL Normal]** 开始接收内容，可将其设置回。 他们会从上次中断的地方恢复。
+如果您希望人员再次开始接收内容，可将其设置回&#x200B;**[!UICONTROL Normal]**。 他们会从上次中断的地方恢复。
 
 >[!NOTE]
 >
