@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解和使用Launch Pack {#understanding-and-using-the-launch-pack}
+# 了解和使用启动包{#understanding-and-using-the-launch-pack}
 
 ![](assets/coming-soon.png)
 
