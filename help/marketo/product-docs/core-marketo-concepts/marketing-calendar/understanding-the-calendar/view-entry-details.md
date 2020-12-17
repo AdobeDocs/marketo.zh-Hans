@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 视图条目详细信息 {#view-entry-details}
+# 视图条目详细信息{#view-entry-details}
 
 在“营销日历”中视图条目详细信息时，您可以看到有关某个条目的各种很酷的内容。
 
