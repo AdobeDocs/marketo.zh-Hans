@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 仅限用户登录到SSO {#restrict-user-login-to-sso-only}
+# 仅限用户登录SSO {#restrict-user-login-to-sso-only}
 
-如果您使用 [SSO](add-single-sign-on-to-a-portal.md) ，并且希望确保用户无法绕过SSO安全，请按照以下说明操作。
+如果您[使用SSO](add-single-sign-on-to-a-portal.md)，并且希望确保用户无法绕过SSO安全，请按照以下说明操作。
 
 >[!NOTE]
 >
@@ -33,10 +33,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果选 **择Require SSO**，则可以在设置角色时选中Byass [Single Sign-On(绕过单](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) 一登录)选项，从此限制中排除用户角色 **** 。 这将允许用户正常登录。 例如，管理员用户可能仍需要通过登录屏幕登录到Marketo。
+>如果选择“**要求SSO**”，则可以在设置角色时选中“绕过单一登录&#x200B;**”选项，从此限制中排除[用户角色](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)。**&#x200B;这将允许用户正常登录。 例如，管理员用户可能仍需要通过登录屏幕登录到Marketo。
 
 >[!CAUTION]
 >
->当新用户被邀请时，他们会收到邀请电子邮件。 但是，如 **果选择** “需要SSO”，则他们将不会收到这些电子邮件，除非他们被分配到设置为“跳过单 **一登录”的角色**。
+>当新用户被邀请时，他们会收到邀请电子邮件。 但是，如果选择&#x200B;**要求SSO**，则他们将不会收到这些电子邮件，除非他们被分配到设置为&#x200B;**绕过单一登录**&#x200B;的角色。
 
 就这样！ 现在，所有用户（具有绕过单一登录权限的用户除外）将仅限使用SSO登录。
