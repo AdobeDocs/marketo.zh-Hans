@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-参与度得分可让您轻松了解内容在您的参与项目的有效性。 得分范围从0到100。 查看 [参与仪表板](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) ，了解如何跟踪内容的效果。
+参与度得分可让您轻松了解内容在您的参与项目的有效性。 得分范围从0到100。 查看[参与仪表板](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard)，了解如何跟踪内容的性能。
 
 ![图像1](/help/sky/assets/engagement-programs/understanding-the-engagement-score/understanding-the-engagement-score-1.png)
 
