@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 在关键字视图中添加／删除列 {#seo-add-remove-columns-from-your-keywords-view}
+# SEO —— 添加／删除关键字视图{#seo-add-remove-columns-from-your-keywords-view}中的列
 
 您可以调整关键字视图以显示您最感兴趣的数据。
 
-1. 转到“关键 **字** ”部分。
+1. 转到&#x200B;**关键字**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. 选择或取消选择要查看的列。 单击 **保存**。
+1. 选择或取消选择要查看的列。 单击&#x200B;**SAVE**。
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
