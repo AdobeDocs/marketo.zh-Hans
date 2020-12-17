@@ -14,16 +14,16 @@ ht-degree: 0%
 ---
 
 
-# Marketo Sky文档 {#sky}
+# Marketo Sky文档{#sky}
 
 + [主页](home.md)
-+ 入门 {#getting-started}
++ 入门{#getting-started}
    + [Marketo Sky功能](marketo-sky-features.md)
    + [如何入门](how-to-enable-roles-for-marketo-sky.md)
-+ 事件项目 {#event-programs}
++ 事件项目{#event-programs}
    + [设置事件上限](setting-an-event-cap.md)
    + [设置事件目标](setting-event-goals.md)
-+ 活动文件夹 {#campaign-folders}
++ 活动文件夹{#campaign-folders}
    + [存档／取消存档活动文件夹](archive-unarchive-a-campaign-folder.md)
    + [活动文件夹：活动选项卡](campaign-folder-activities-tab.md)
    + [活动文件夹：“我的令牌”选项卡](campaign-folder-my-tokens-tab.md)
@@ -32,7 +32,7 @@ ht-degree: 0%
 + Design Studio {#design-studio}
    + [使用Adobe Experience Manager导入资源](importing-assets-with-adobe-experience-manager.md)
    + [Marketo图像编辑器](marketo-image-editor.md)
-+ 参与项目 {#engagement-programs}
++ 参与项目{#engagement-programs}
    + [激活和取消激活流内容](activate-and-deactivate-stream-content.md)
    + [向参与项目添加流](add-a-stream-to-an-engagement-program.md)
    + [将内容添加到参与流](add-content-to-an-engagement-stream.md)
@@ -53,11 +53,11 @@ ht-degree: 0%
    + [了解参与项目](understanding-engagement-programs.md)
    + [了解参与情况得分](understanding-the-engagement-score.md)
    + [在参与项目流中使用项目](using-a-program-in-an-engagement-program-stream.md)
-+ 标签 {#labels}
++ 标签{#labels}
    + [添加和删除标签](add-and-remove-labels.md)
    + [将标签从原始复制到克隆](copy-labels-from-original-to-clone.md)
    + [将标签从父项复制到子项](copy-labels-from-parent-to-child.md)
-+ 我的令牌 {#my-tokens}
++ 我的令牌{#my-tokens}
    + [创建我的令牌文件夹](create-my-token-folders.md)
    + [我的令牌操作：编辑、删除、克隆和复制令牌名称](my-token-actions-edit-delete-clone-and-copy-token-names.md)
    + [我的令牌：日历文件](my-token-calendar-file.md)
@@ -72,13 +72,13 @@ ht-degree: 0%
    + [我的令牌：文本](my-token-text.md)
    + [覆盖继承的我的令牌](override-an-inherited-my-token.md)
    + [了解我的令牌](understanding-my-tokens.md)
-+ 预测受众 {#predictive-audiences}
++ 预测受众{#predictive-audiences}
    + [预测受众入门](getting-started-with-predictive-audiences.md)
    + [预测过滤器](predictive-filters.md)
    + [预期行为](expected-behavior.md)
    + [模型健康与数据有效性](model-health-and-data-validity.md)
    + [了解目标跟踪和预计注册](understanding-goal-tracking-and-projected-registrations.md)
-+ 项目 {#programs}
++ 项目{#programs}
    + [存档项目](archive-a-program.md)
    + [创建新项目](create-a-new-program.md)
    + [删除项目](delete-a-program.md)
@@ -87,14 +87,14 @@ ht-degree: 0%
    + [本地资产：成批操作](local-assets-mass-actions.md)
    + [使用项目概述选项卡](using-the-program-overview-tab.md)
    + [使用“项目设置”选项卡](using-the-program-setup-tab.md)
-+ 项目计划视图 {#program-schedule-view}
++ 项目计划视图{#program-schedule-view}
    + [在项目计划视图中创建基本条目](create-a-basic-entry-in-program-schedule-view.md)
    + [在项目计划活动下创建批智能视图](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [在项目计划项目中创建电子邮件视图](create-an-email-program-in-program-schedule-view.md)
    + [在项目计划视图中删除条目](delete-an-entry-in-program-schedule-view.md)
    + [在项目计划视图中编辑条目](edit-an-entry-in-program-schedule-view.md)
    + [导航项目计划视图](navigating-program-schedule-view.md)
-+ 智能活动 {#smart-campaigns}
++ 智能活动{#smart-campaigns}
    + [激活／取消激活触发器智能活动](activate-deactivate-a-trigger-smart-campaign.md)
    + [向智能活动添加流步骤](add-a-flow-step-to-a-smart-campaign.md)
    + [将通信限制应用于智能活动](apply-communication-limits-to-a-smart-campaign.md)
@@ -115,10 +115,10 @@ ht-degree: 0%
    + [计划批处理智能活动以稍后运行](schedule-a-batch-smart-campaign-to-run-later.md)
    + [计划循环批活动](schedule-a-recurring-batch-campaign.md)
    + [了解批处理和触发智能活动](understanding-batch-and-trigger-smart-campaigns.md)
-+ 智能列表和静态列表 {#smart-lists-and-static-lists}
++ 智能列表和静态列表{#smart-lists-and-static-lists}
    + [保存流动操作](save-flow-actions.md)
    + [保存智能列表规则](save-smart-list-rules.md)
-+ 树 {#tree}
++ 树{#tree}
    + [配置树](configuring-the-tree.md)
    + [了解树中的图标](understanding-icons-in-the-tree.md)
    + [使用过滤器对树进行排序](use-filters-to-sort-the-tree.md)
