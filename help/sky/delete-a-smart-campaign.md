@@ -24,14 +24,14 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-1.png)
 
-1. 在下 [!UICONTROL Campaign Actions] 拉选择下 **[!UICONTROL Delete]**。
+1. 在[!UICONTROL Campaign Actions]下拉列表下，选择&#x200B;**[!UICONTROL Delete]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >要取消处理活动智能活动而不删除它，请了解如何 [中止智能活动](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)。
+   >要取消处理活动智能活动而不删除该智能活动，请了解如何[中止智能](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)。
 
-1. 单击 **[!UICONTROL Confirm]**。
+1. 单击&#x200B;**[!UICONTROL Confirm]**。
 
    ![图3](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-3.png)
