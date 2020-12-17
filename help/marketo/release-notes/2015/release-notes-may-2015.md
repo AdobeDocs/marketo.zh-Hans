@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 发行说明：2015年5月 {#release-notes-may}
+# 发行说明：2015年5月{#release-notes-may}
 
 2015年5月版本包含以下功能。 请查看您的Marketo Edition以了解功能可用性。 发布后，请务必回来查找每个功能的详细文章的链接！
 
@@ -29,21 +29,21 @@ ht-degree: 0%
 
 您在电子邮件项目准备出门之前点击了发送吗？ 使用新的中止电子邮件项目按钮刹住车。 这将阻止飞行中的电子邮件项目直接跟踪。
 
-## 电子邮件发送功能  {#email-deliverability}
+## 电子邮件可发送性{#email-deliverability}
 
 Marketo现在将在您添加的域上每周运行自动化SPF和DKIM检查。 检查通知，保持最新状态。
 
-## 电子邮件模板行为更改 {#email-template-behavior-change}
+## 电子邮件模板行为更改{#email-template-behavior-change}
 
 从此版本开始，现在在创建新电子邮件时允许并不删除有效的HTML注释。
 
-## RTP:拖放区段编辑器 {#rtp-drag-and-drop-segment-editor}
+## RTP:拖放段编辑器{#rtp-drag-and-drop-segment-editor}
 
-RTP: [拖放区段编辑器](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
+RTP:[拖放段编辑器](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
 
 将条件拖放到区段生成器中，定义值，即可创建实时区段。
 
-## RTP:预测性内容Recommendations {#rtp-predictive-content-recommendations}
+## RTP:预测内容Recommendations{#rtp-predictive-content-recommendations}
 
 [预测性内容Recommendations](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)
 
