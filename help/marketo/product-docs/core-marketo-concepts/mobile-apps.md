@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# 移动应用程序 {#mobile-apps}
+# 移动应用程序{#mobile-apps}
 
-** ![事件活](assets/mobile-checkin-icon.png)动登记**登 [记事件登记客户通过平板电脑与事件联系。](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Marketo](assets/moments-icon.png)MomentsMarketo Moments** [Marketo Moments了解重要时刻。](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+** ![事件登记](assets/mobile-checkin-icon.png)事件登记** [事件登记客户从平板电脑登记到您的事件。](https://docs.marketo.com/display/DOCS/Event+Check-in)     **  ![Marketo ](assets/moments-icon.png)MomentsMarketo Moments**  [Marketo Moments了解重要时刻。](https://docs.marketo.com/display/DOCS/Marketo+Moments)
