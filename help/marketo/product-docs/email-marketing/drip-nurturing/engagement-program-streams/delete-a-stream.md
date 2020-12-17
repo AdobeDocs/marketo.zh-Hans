@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 删除流 {#delete-a-stream}
+# 删除流{#delete-a-stream}
 
 如果您曾经需要从参与项目删除流，请按照以下快速简单的步骤操作。
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. 单击删除以确认 **删除**。
+1. 单击&#x200B;**删除**&#x200B;确认删除。
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 
    >[!NOTE]
    >
-   >如果溪流中有人，您将被要求先 [移](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 出来。
+   >如果流中包含人，则会要求您先[移动](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)。
 
