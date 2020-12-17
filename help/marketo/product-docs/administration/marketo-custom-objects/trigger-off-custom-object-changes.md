@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 触发自定义对象更改 {#trigger-off-custom-object-changes}
+# 触发自定义对象更改{#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 >
 >
-请联系Market [支持](http://support.marketo.com) ，启用自定义对象更改触发器。
+请联系[Marketo Support](http://support.marketo.com)以启用自定义对象更改触发器。
 
-在智能活动的智能列表中，当将自定义对象添加到人或公司时，您可以触发流动操作。 您还可以创建智能列表，该将自 *定义对象* 中的更改用作触发器。 例如，在课程名称更新时使用它发送电子邮件。
+在智能活动的智能列表中，当将自定义对象添加到人或公司时，您可以触发流动操作。 您还可以创建一个智能列表，它使用自定义对象中的&#x200B;*change*&#x200B;作为触发器。 例如，在课程名称更新时使用它发送电子邮件。
 
 >[!NOTE]
 >
 >在更改自定义对象记录时不会创建活动日志条目。
 
-1. 在Marketo中，转到营销 **活动。**
+1. 在Marketo中，转到&#x200B;**营销活动。**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
