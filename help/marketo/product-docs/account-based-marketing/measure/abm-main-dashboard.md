@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ABM主要仪表板 {#abm-main-dashboard}
+# ABM主仪表板{#abm-main-dashboard}
 
 主仪表板概述了您的基于帐户的营销工作。 您可以看到成功的目标帐户或帐户列表，以及需要更多关注的客户。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-要视图帐 [户列表仪表板](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)，请单击您选择的帐户列表的名称……
+要视图[帐户列表仪表板](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)，请单击您选择的帐户列表的名称……
 
 ![](assets/four.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ![](assets/five.png)
 
-如果您不想查看要向下钻取到指定帐户的“帐户列表”仪表板，请单 **击其名称** ...下的“更多详细信息”。
+如果您不想查看要向下钻取到指定帐户的“帐户列表”仪表板，请单击其名称下的&#x200B;**更多详细信息**...
 
 ![](assets/six.png)
 
-...视图指 [定帐户的洞察](http://docs.marketo.com/display/DOCS/Named+Account+Insights)。
+...和视图[命名帐户的洞察](http://docs.marketo.com/display/DOCS/Named+Account+Insights)。
 
 ![](assets/seven.png)
 
