@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 通过导入受众定义列表 {#define-an-audience-by-importing-a-list}
+# 通过导入受众{#define-an-audience-by-importing-a-list}定义列表
 
 >[!PREREQUISITES]
 >
 >[创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-创建电子邮件项目后，您会希望告诉它要将电子邮件发送给谁。 您可以通过创建智 [能列表或通过](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 导入列表执行此操作。 下面介绍如何通过导入列表来完成此操作。
+创建电子邮件项目后，您会希望告诉它要将电子邮件发送给谁。 可通过[创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)或导入列表来执行此操作。 下面介绍如何通过导入列表来完成此操作。
 
 >[!NOTE]
 >
@@ -25,14 +25,14 @@ ht-degree: 0%
 >
 >导入的任何日期／时间字段均视为中央时间。 如果日期／时间字段位于其他时区，则可使用Excel公式将其转换为中时（美国／芝加哥）。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
    选择您的电子邮件项目，然后单击受众拼贴下的“导入列表”。
    ![](assets/importlist.png)
 
-1. 列表导入窗口将打开，单 **击浏** 览并选择要导入的文件。 选择人员列表后，单击“下一步”。
+1. 列表导入窗口将打开，单击&#x200B;**浏览**&#x200B;并选择要导入的文件。 选择人员列表后，单击“下一步”。
 1. ![](assets/importlist1.png)
 
    >[!CAUTION]
@@ -46,7 +46,7 @@ ht-degree: 0%
    >
    >Marketo将记住将来导入的映射！
 
-1. 为列表 **输入** “名称”，然后单击“ **导入”**。
+1. 为您的列表输入&#x200B;**名称**&#x200B;并单击&#x200B;**导入**。
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 >
 单击号码，详细列表邮件中阻止的人员。
 >
->使用 ![受众](assets/image2014-10-23-16-3a32-3a36-1.png) 拼贴上的- **按钮** ，查看有多少人有资格根据智能列表条件接收电子邮件。 从“人员”号中减去“被阻止”号以获得接收电子邮件的总人数。
+>使用&#x200B;**受众**&#x200B;拼贴上的![—](assets/image2014-10-23-16-3a32-3a36-1.png)按钮，查看有多少人有资格根据智能列表条件接收电子邮件。 从“人员”号中减去“被阻止”号以获得接收电子邮件的总人数。
 
 >[!TIP]
 >
