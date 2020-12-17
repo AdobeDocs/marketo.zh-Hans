@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 使用页面详细信息向下钻取 {#seo-using-the-page-detail-drill-down}
+# SEO —— 使用页面详细信息向下钻取{#seo-using-the-page-detail-drill-down}
 
 您可以使用页面详细信息向下展开来查看有关页面的大量信息。
 
-## 查找页面向下钻取 {#find-page-drill-down}
+## 查找页面向下钻取{#find-page-drill-down}
 
 1. 转到“页面”部分。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## 页面详细信息部分 {#page-detail-section}
+## 页面详细信息部分{#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
@@ -44,9 +44,9 @@ ht-degree: 0%
 | Facebook点赞 | 此页面分享在Facebook上被点赞的次数。 |
 | Facebook点击量 | Facebook共享的点击次数。 |
 
-## 页面的关键字已针对  {#keyword-s-that-page-is-optimized-for}
+## 已针对{#keyword-s-that-page-is-optimized-for}优化页面的关键字
 
-在这里，您 [可以选择要优化页面的关键字](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)。
+在此，您[选择您要为](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)优化页面的关键字。
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a56-3a35.png)
 
-## 页面优化结果 {#page-optimization-results}
+## 页面优化结果{#page-optimization-results}
 
 页面优化结果将告诉您您需要采取哪些准确步骤来提高优化分数／在搜索此页面时执行更好。
 
