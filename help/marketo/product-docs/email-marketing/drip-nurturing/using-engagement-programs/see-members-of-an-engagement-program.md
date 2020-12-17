@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 查看参与项目的成员 {#see-members-of-an-engagement-program}
+# 请参阅参与项目{#see-members-of-an-engagement-program}的成员
 
 您可以快速查看参与项目的成员。 这是方法。
 
-1. 在您的参与项目中，右键单击并选择“ **视图成员”。**
+1. 在参与项目中，右键单击并选择&#x200B;**视图成员。**
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >每次 [转换后](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) ,“已用尽的内容”列值会更新。
+   >每次转换后，将更新[已用尽的内容](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)列值。
 
 1. 您现在可以看到项目的所有成员。
 
