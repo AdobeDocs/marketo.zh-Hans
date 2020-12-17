@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## 查找计划视图
 
-从树中选择项目。 在选项卡 [!UICONTROL Details] 下，单击 [!UICONTROL Schedule]。
+从树中选择项目。 在[!UICONTROL Details]选项卡下，单击[!UICONTROL Schedule]。
 
 ![图像1](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
@@ -34,6 +34,6 @@ ht-degree: 0%
 
 ## 视图设置
 
-在项目计划视图的右上角，单击 [!UICONTROL View Settings] 按、和／或 [!UICONTROL Tentative]筛选 [!UICONTROL Confirmed]条目 [!UICONTROL Finished]。
+在项目计划视图的右上角，单击[!UICONTROL View Settings]按[!UICONTROL Tentative]、[!UICONTROL Confirmed]和／或[!UICONTROL Finished]筛选条目。
 
 ![图像4](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
