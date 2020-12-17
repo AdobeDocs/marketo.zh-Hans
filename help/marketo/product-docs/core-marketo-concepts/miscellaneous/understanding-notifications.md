@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解通知 {#understanding-notifications}
+# 了解通知{#understanding-notifications}
 
 通知可让您及时了解Marketo事件中发生的系统订阅。 例如，活动失败通知会通知您智能活动中的错误，CRM同步通知会提醒您CRM同步发现的严重问题，如权限不正确或同步断开。
 
-## 概述 {#overview}
+## 概述{#overview}
 
 1. Marketo的右上方显示新通知。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-10-11-3a55-3a44.png)
 
-## 订阅通知 {#subscribe-to-notifications}
+## 订阅通知{#subscribe-to-notifications}
 
 您可以订阅通知，在电子邮件中接收这些通知。
 
@@ -43,5 +43,5 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要取消订阅通知电子邮件？ 没问题。 只需单击 **电子邮件底部的** “取消订阅通知”链接。
+>要取消订阅通知电子邮件？ 没问题。 只需单击电子邮件底部的&#x200B;**取消订阅通知**&#x200B;链接。
 
