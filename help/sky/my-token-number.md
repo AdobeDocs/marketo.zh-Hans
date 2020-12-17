@@ -16,10 +16,10 @@ ht-degree: 0%
 
 下面介绍如何设置数字令牌以用于项目和活动文件夹。
 
-1. 在项目 [!UICONTROL My Tokens] 或文件夹的选项卡中，将数字 **令牌** 拖到画 [!UICONTROL Local Tokens] 布中。
+1. 在您的项目或文件夹的[!UICONTROL My Tokens]选项卡中，将&#x200B;**Number**&#x200B;令牌拖到[!UICONTROL Local Tokens]画布。
 
    ![图像1](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
-1. 输入新令牌的名称和编号。 单击 **[!UICONTROL Save]**。
+1. 输入新令牌的名称和编号。 单击&#x200B;**[!UICONTROL Save]**。
 
    ![图像2](/help/sky/assets/my-tokens/my-token-number/my-token-number-2.png)
