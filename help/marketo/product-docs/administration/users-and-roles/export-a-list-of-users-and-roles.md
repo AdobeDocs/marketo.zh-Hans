@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 导出用户和角色列表 {#export-a-list-of-users-and-roles}
+# 导出用户和角色列表{#export-a-list-of-users-and-roles}
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 导出完整的用户和用户角色列表非常简单。 这是方法。
 
-1. 转至管 **理**。
+1. 转至&#x200B;**Admin**。
 
    ![](assets/adminhand.png)
 
-1. 单击“ **用户和角色”**。
+1. 单击&#x200B;**用户和角色**。
 
    ![](assets/image2014-9-10-9-3a25-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要导出角色，请先转 **到**“角色”** **选项卡，然后导出。
+   >要导出角色，请先转到&#x200B;**角色**** **选项卡，然后导出。
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
