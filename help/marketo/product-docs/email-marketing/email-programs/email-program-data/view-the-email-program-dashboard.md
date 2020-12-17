@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 视图电子邮件项目仪表板 {#view-the-email-program-dashboard}
+# 视图电子邮件项目仪表板{#view-the-email-program-dashboard}
 
 了解您的电子邮件项目（无论是否有A/B测试）如何使用此仪表板执行。
 
-## 选择您的电子邮件项目 {#select-your-email-program}
+## 选择电子邮件项目{#select-your-email-program}
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,15 +29,15 @@ ht-degree: 0%
    >
    >如果您的A/B测试或电子邮件项目尚未开始，您将看不到仪表板。
 
-## 电子邮件项目A/B测试视图 {#email-program-a-b-test-view}
+## 电子邮件项目A/B测试视图{#email-program-a-b-test-view}
 
 如果向电子邮件项目添加了A/B测试，且该测试当前正在运行，您将看到以下内容：
 
 ![](assets/image2014-9-12-14-3a2-3a25.png)
 
-## 电子邮件项目视图 {#email-program-view}
+## 电子邮件项目视图{#email-program-view}
 
-或者，如果您没有添加A/B测 *试* ，或者测试结束，应显示以下内容：
+或者，如果测试结束时未添加A/B测试&#x200B;*或*，则应显示以下内容：
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
