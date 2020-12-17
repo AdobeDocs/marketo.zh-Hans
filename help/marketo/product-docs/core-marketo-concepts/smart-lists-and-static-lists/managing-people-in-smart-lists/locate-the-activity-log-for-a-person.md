@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 查找人员的活动日志 {#locate-the-activity-log-for-a-person}
+# 找到人{#locate-the-activity-log-for-a-person}的活动日志
 
 活动日志是最终的真相。 这是一个人在Marketo旅程的完整故事。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
    ![](assets/db-2.png)
 
-1. 选择 **所有人**。
+1. 选择&#x200B;**所有人员**。
 
    ![](assets/two-6.png)
 
-1. 单击“人 **员** ”选项卡。 选择人员 **Id** 编号。
+1. 单击&#x200B;**People**&#x200B;选项卡。 选择人数&#x200B;**Id**。
 
    ![](assets/three-5.png)
 
-1. 单击 **活动日志**。
+1. 单击&#x200B;**活动日志**。
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
    >**相关文章**
    >
    >
-   >了解有关筛选 [活动日志的](filter-activity-types-in-the-activity-log-of-a-person.md)更多信息，以查看特定人员活动。
+   >了解有关[筛选活动日志](filter-activity-types-in-the-activity-log-of-a-person.md)的更多信息，以查看特定人员活动。
 
