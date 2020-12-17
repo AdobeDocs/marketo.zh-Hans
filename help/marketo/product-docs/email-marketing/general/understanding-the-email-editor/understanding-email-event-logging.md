@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解电子邮件事件记录 {#understanding-email-event-logging}
+# 了解电子邮件事件记录{#understanding-email-event-logging}
 
 发送电子邮件时，Marketo会记录指向该人员的活动日志的不同数据点。 下面是基本的。
 
@@ -27,5 +27,5 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果同一活动向同一人发送了两次同一电子邮件，则“已打 **开** ”事件最多将记录1次。
+>如果同一活动向同一人发送了两次同一电子邮件，则&#x200B;**已打开**&#x200B;事件最多将记录1次。
 
