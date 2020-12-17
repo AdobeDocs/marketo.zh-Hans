@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 发行说明：16年夏季 {#release-notes-summer}
+# 发行说明：16年夏季{#release-notes-summer}
 
 1916年夏季版包含以下功能。 检查您的Marketo版本以了解功能可用性。 请单击标题链接，以视图每个功能的详细文章。
 
@@ -60,7 +60,7 @@ Marketo Account Based Marketing通过一个统一的平台提供所有必备工�
 **语法更新**
 
 * 您现在可以对“电子邮件2.0模板”中指定的模块使用“mktoAddByDefault”，以指示默认情况下哪些模块应显示在新电子邮件中。 如果您要构建包含大量模块的电子邮件模板，则这种操作会方便得多。
-* 在图像元素上，您现在可以指 `<img>` 定底层HTML元素的“高度”和“宽度”属性应被锁定还是对最终用户可编辑。 mktoLockImgSize=&quot;true&quot;将导致高度／宽度被锁定（即使图像已更改）。 同样，mktoLockImgStyle=&quot;true&quot;将导致“style”属性被锁定。
+* 在图像元素上，您现在可以指定基础`<img>` HTML元素的“height”和“width”属性应被锁定，还是对最终用户可编辑。 mktoLockImgSize=&quot;true&quot;将导致高度／宽度被锁定（即使图像已更改）。 同样，mktoLockImgStyle=&quot;true&quot;将导致“style”属性被锁定。
 
 **代码搜索**
 
@@ -70,7 +70,7 @@ Marketo Account Based Marketing通过一个统一的平台提供所有必备工�
 
 **图像元素中的令牌支持**
 
-现在可在插入图像体验的“外部URL”区域使用令牌！ 如果您已使用指定的图 `{{my.tokens}}`像，您现在可以在电子邮件编辑器2.0中引用这些令牌。请注意，图像仍将在电子邮件编辑器2.0画布中显示为损坏。 但是，在发出电子邮件之前，您会看到这些内容呈现在预览和发送示例中。
+现在可在插入图像体验的“外部URL”区域使用令牌！ 如果您已使用`{{my.tokens}}`指定图像，您现在可以在电子邮件编辑器2.0中引用这些令牌。请注意，该图像仍会在电子邮件编辑器2.0画布中显示为损坏。 但是，在发出电子邮件之前，您会看到这些内容呈现在预览和发送示例中。
 
 ## [多个品牌域](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
