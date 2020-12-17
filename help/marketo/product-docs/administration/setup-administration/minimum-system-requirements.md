@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 最低系统要求 {#minimum-system-requirements}
+# 最低系统要求{#minimum-system-requirements}
 
 如果您想知道登录和使用Marketo需要什么，请查找以下信息。
 
@@ -22,6 +22,6 @@ ht-degree: 0%
 * 运行Windows、OS X或Linux的计算机或笔记本电脑
 * 键盘和鼠标
 * 显示器，最低分辨率为1280 x 768
-* 最新浏览器，有关详细信息，请参 [阅支持的浏](supported-browsers.md) 览器
+* 最新浏览器，有关详细信息，请参阅[支持的浏览器](supported-browsers.md)
 * Internet连接
 
