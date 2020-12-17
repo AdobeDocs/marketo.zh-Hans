@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 编辑电子邮件中的元素 {#edit-elements-in-an-email}
+# 编辑电子邮件{#edit-elements-in-an-email}中的元素
 
 电子邮件可包含四个不同元素：富文本、图像、片段和视频。 下面介绍如何编辑每个组件。
 
-## 如何编辑富文本元素 {#how-to-edit-the-rich-text-element}
+## 如何编辑富文本元素{#how-to-edit-the-rich-text-element}
 
-1. 找到您的电子邮件，选择它，然后单击“ **编辑草稿”**。
+1. 找到您的电子邮件，选择它并单击&#x200B;**编辑草稿**。
 
    ![](assets/one-edited.png)
 
-1. 将打开电子邮件编辑器。 选择富文本，单击齿轮图标，然后选择 **编辑**。
+1. 将打开电子邮件编辑器。 选择富文本，单击齿轮图标，然后选择&#x200B;**编辑**。
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 添加／编辑文本，然后按 **保存**。
+1. 添加／编辑文本并按&#x200B;**保存**。
 
    ![](assets/four.png)
 
@@ -38,19 +38,19 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >您还可以添加图像、令牌、表格和其他元素。 请参 [阅使用富文本编辑器](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
+   >您还可以添加图像、令牌、表格和其他元素。 请参阅[使用富文本编辑器](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
 
    >[!CAUTION]
    >
    >避免从富文本源(如网站或Word文档)复制和粘贴文本。 而是先将富文本粘贴到纯文本编辑器中，如记事本(Windows)或TextEdit(Mac)。 一旦“干净”，您就可以从纯文本编辑器复制它并粘贴到电子邮件中。
 
-## 如何编辑图像元素 {#how-to-edit-the-image-element}
+## 如何编辑图像元素{#how-to-edit-the-image-element}
 
 1. 在包含图像元素的模块中单击以选择它。
 
    ![](assets/five.png)
 
-1. 单击要编辑的图像元素，然后单击齿轮图标，然后选择“编 **辑”**。
+1. 单击要编辑的图像元素，然后单击齿轮图标并选择&#x200B;**编辑**。
 
    ![](assets/six.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    **我的电脑**
 
-   要从计算机上传图像，请单击“浏 **览”**。
+   要从计算机上传图像，请单击&#x200B;**浏览**。
 
    ![](assets/nine.png)
 
@@ -82,13 +82,13 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-   根据需要更改尺寸，更改替代文本（可选），然后按 **交换**。
+   根据需要更改尺寸，更改替代文本（可选），然后按&#x200B;**Swap**。
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >如果要替换图像，则需要选中“图像URL/名 **称”下方显** 示的“覆盖现有图像”框。
+   >如果要替换图像，则需要选中图像URL/名称下方显示的&#x200B;**覆盖现有图像**&#x200B;框。
 
    **Design** Studio要从Design Studio中插入图像，只需找到它……
 
@@ -97,19 +97,19 @@ ht-degree: 0%
    **交换**
    ![](assets/thirteen.png)
 
-要使用外部URL，请先粘贴到图像的URL中。 根据需要更改尺寸，并添加一些替代文本（可选）。 然后按。              ...并插入。 根据需要更改尺寸，更改替代文本（可选），然后按。
+要使用外部URL，请先粘贴到图像的URL中。 根据需要更改尺寸，并添加一些替代文本（可选）。 然后按。               ...并插入。 根据需要更改尺寸，更改替代文本（可选），然后按。
 
-## 如何编辑代码片断元素 {#how-to-edit-the-snippet-element}
+## 如何编辑代码片断元素{#how-to-edit-the-snippet-element}
 
 1. 在模块内单击“代码片断”元素。
 
    ![](assets/fourteen.png)
 
-1. 单击“代码片断”元素，然后单击齿轮图标并选择“ **编辑**”。
+1. 单击“代码片断”元素，然后单击齿轮图标并选择&#x200B;**编辑**。
 
    ![](assets/fifteen.png)
 
-1. 找到您的代码片断，选择它，然后单击“ **保存**”。
+1. 找到您的代码片断，选择它，然后单击&#x200B;**保存**。
 
    ![](assets/sixteen.png)
 
@@ -117,17 +117,17 @@ ht-degree: 0%
 
    ![](assets/eighteen.png)
 
-## 如何编辑视频元素 {#how-to-edit-the-video-element}
+## 如何编辑视频元素{#how-to-edit-the-video-element}
 
 1. 在包含“视频”元素的模块内单击。
 
    ![](assets/nineteen.png)
 
-1. 单击“视频”元素，然后单击齿轮图标，然后选择“ **编辑**”。
+1. 单击“视频”元素，然后单击齿轮图标，然后选择“编辑”**。**
 
    ![](assets/twenty.png)
 
-1. 从Vimeo或YouTube粘贴到视频URL中。 然后，在要加载的预览的URL框中单击。 根据需要更改尺寸，添加替代文本（可选），然后按 **插入**。
+1. 从Vimeo或YouTube粘贴到视频URL中。 然后，在要加载的预览的URL框中单击。 根据需要更改尺寸，添加替代文本（可选），然后按&#x200B;**插入**。
 
    ![](assets/twentyone.png)
 
