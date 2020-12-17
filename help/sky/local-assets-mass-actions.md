@@ -14,15 +14,15 @@ ht-degree: 0%
 
 <br> 
 
-您可以直接从选项卡下的部分对多个资 **[!UICONTROL Actions]** 产执行批量 **[!UICONTROL Assets]** 操作。 下面介绍如何找到您需要的资产并对其应用成批操作。
+您可以直接从&#x200B;**[!UICONTROL Assets]**&#x200B;选项卡下的&#x200B;**[!UICONTROL Actions]**&#x200B;部分对多个资产执行批量操作。 下面介绍如何找到您需要的资产并对其应用成批操作。
 
 ## 按资产类型和／或条件进行筛选
 
-要查找要对其执行操作的特定资产，您可以从下拉 **[!UICONTROL asset type]** 菜单中选择一个或多个类型进行筛选。
+要查找要对其执行操作的特定资产，您可以通过从下拉列表中选择一个或多个类型来按&#x200B;**[!UICONTROL asset type]**&#x200B;进行筛选。
 
 ![图像1](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-1.png)
 
-此外，您还可以通过 **[!UICONTROL asset condition]** 从下拉列表中选择一个或多个条件进行筛选。 您可以单独执行此操作，也可以与资产类型筛选结合使用。
+此外，还可以通过从下拉列表中选择一个或多个条件来按&#x200B;**[!UICONTROL asset condition]**&#x200B;进行筛选。 您可以单独执行此操作，也可以与资产类型筛选结合使用。
 
 ![图像2](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 应用成批活动
 
-选择一组资产，然后从下拉菜单中选择 **[!UICONTROL Select Action]** 一个操作。 无法应用于任何选定资 _产的_ 操作会自动灰显。
+选择一组资产，然后从&#x200B;**[!UICONTROL Select Action]**&#x200B;下拉列表中选择一个操作。 无法应用于您所选资产的&#x200B;_任何_&#x200B;的操作会自动灰显。
 
 ![图3](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-3.png)
 
@@ -46,13 +46,13 @@ ht-degree: 0%
 
 ## 状态通知
 
-您可以在托盘中找到成批操作的 **[!UICONTROL Recent Notifications]** 状态。
+您可以在&#x200B;**[!UICONTROL Recent Notifications]**&#x200B;托盘中找到成批操作的状态。
 
 ![图像5](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-5.png)
 
 ## 成批操作失败
 
-如果由于资产需要修复而无法应用您选择的操作，您将收到部分故障通知（带有黄色警告符号）。 如果操作无法应用于您 _的所_ 有选定资产，则通知将带有红色警告符号。 单击以 **[!UICONTROL View Failures]** 了解详细信息。
+如果由于资产需要修复而无法应用您选择的操作，您将收到部分故障通知（带有黄色警告符号）。 如果操作未能应用于您所选资产的&#x200B;_all_，则通知将带有红色警告符号。 单击&#x200B;**[!UICONTROL View Failures]**&#x200B;获取详细信息。
 
 ![图6](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-6.png)
 
