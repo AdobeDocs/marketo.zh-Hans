@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 激活触发活动
 
-1. 在智能活动中，单击选 **[!UICONTROL Schedule]** 项卡。
+1. 在智能活动中，单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡。
 
    ![图像1](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
    >
    >激活前请查看智能活动。
 
-1. 单击 **[!UICONTROL Activate]**。
+1. 单击&#x200B;**[!UICONTROL Activate]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,14 +36,14 @@ ht-degree: 0%
 
 ## 取消激活触发器活动
 
-1. 在智能活动中，单击选 **[!UICONTROL Schedule]** 项卡。
+1. 在智能活动中，单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡。
 
    ![图3](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. 单击 **[!UICONTROL Deactivate]**。
+1. 单击&#x200B;**[!UICONTROL Deactivate]**。
 
    ![图像4](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
 >[!NOTE]
 >
->这将阻 _止新_ 人进入流，但处于等待步骤或任何其他流步骤的人将继续移动流，直到完成。
+>这将阻止&#x200B;_new_&#x200B;的人员进入流，但处于等待步骤或任何其他流步骤的人员将继续移动流，直到完成。
