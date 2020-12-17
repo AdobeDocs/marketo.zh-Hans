@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解电子邮件项目卡 {#understanding-email-program-cards}
+# 了解电子邮件项目卡{#understanding-email-program-cards}
 
 使用Marketo Moments从手机或iPad视图电子邮件项目。
 
-## 电子邮件项目卡 {#email-program-cards}
+## 电子邮件项目卡{#email-program-cards}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` 点按任何电子邮件项目卡时，您可以：
 
@@ -31,17 +31,17 @@ ht-degree: 0%
 
 ![](assets/image2015-9-25-10-3a5-3a29.png)
 
-## 确认电子邮件卡 {#confirming-an-email-card}
+## 确认电子邮件卡{#confirming-an-email-card}
 
 1. 要确认未确认的电子邮件卡，请点击“三点”菜单。
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. 点按 **确认**。
+1. 点按&#x200B;**确认**。
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. 点按**确认**以完成工作，或 **者** “不介意”。
+1. 点按**确认**以完成工作，如果您有其他想法，请点按&#x200B;**不要介意**。
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
    >
    >现在你的卡片会变成橙色！
 
-## 取消电子邮件卡发送 {#canceling-an-email-card-send}
+## 取消电子邮件卡发送{#canceling-an-email-card-send}
 
 1. 如果您决定不发送已确认的电子邮件，请点击“三点”菜单。
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. 点按 **取消发送**。
+1. 点按&#x200B;**取消发送**。
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
-## 重新计划电子邮件卡 {#rescheduling-an-email-card}
+## 重新计划电子邮件卡{#rescheduling-an-email-card}
 
 您可以重新计划已确认或未确认的电子邮件卡。
 
@@ -71,17 +71,17 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. 点按重 **新计划**。
+1. 点按&#x200B;**重新计划**。
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. 在日历上选择一个日期，然后点按重 **新计划**。
+1. 在日历上选择一个日期，然后点按&#x200B;**重新计划**。
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
    只要您有无线服务，您可以随时随地重新安排！
 
-## 发送示例 {#sending-a-sample}
+## 发送示例{#sending-a-sample}
 
 您可以直接与他人共享电子邮件时刻的示例。
 
@@ -89,19 +89,19 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. 点按 **发送示例**。
+1. 点按&#x200B;**发送示例**。
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. 输入电子邮件地址，然后单 **击“发送示例**”。
+1. 输入电子邮件地址，然后单击“发送示例”**。**
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## 预览电子邮件 {#previewing-an-email}
+## 预览电子邮件{#previewing-an-email}
 
 右键单击电子邮件卡以预览它。
 
-1. 点按 **预览电子邮件**。
+1. 点按&#x200B;**预览电子邮件**。
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
