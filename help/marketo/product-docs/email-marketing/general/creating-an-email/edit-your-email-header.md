@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 编辑电子邮件标题 {#edit-your-email-header}
+# 编辑电子邮件标题{#edit-your-email-header}
 
 Marketo中的电子邮件标题可完全自定义。 它包含四个字段：
 
-* **发件人** -您希望其显示的发件人名称
+* **发件人** -您希望显示的发件人姓名
 * **发件人地址** -您希望发件人显示的电子邮件地址
 * **回复** -您希望将人员回复发送到的电子邮件地址（可以不同于发件人地址）
 * **主题** -电子邮件的主题行
@@ -26,7 +26,7 @@ Marketo中的电子邮件标题可完全自定义。 它包含四个字段：
 
 >[!TIP]
 >
->要设置默认的“发件人姓名”和“发件人电子邮件”，请 [参阅“从电子邮件和收件人标签更改默认设置](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)”。
+>要设置默认的“发件人姓名”和“发件人电子邮件”，请参阅[更改“从电子邮件和发件人标签](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)”默认设置。
 
 如果要使用令牌，请先在所需字段中单击，然后单击令牌图标。
 
