@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 创建项目性能报告 {#create-a-program-performance-report}
+# 创建项目性能报告{#create-a-program-performance-report}
 
 通过此报告了解项目的出色统计数据。
 
-1. [在项目中创建报告](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，然后选择 **项目**[性能报告类型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
-1. 单击“报 **告** ”选项卡。
+1. [在程序中创建报](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 告，然后选择 **项目** [性能报告类型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. 单击&#x200B;**报告**&#x200B;选项卡。
 1. 你在那！ 浏览您的报告，了解项目的表现。
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->例如，要查找每次成功 *成本最低的项目*，请对该 [列的报表排序](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) ，然后选择“升 **序排序”**。
+>例如，要查找&#x200B;*每成功成本*&#x200B;最低的项目，请对该列的报表](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)排序，然后选择&#x200B;**升序排序**。[
 
 项目性能报告中的列包括：
 
@@ -58,5 +58,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->在基本报告 [中了解更多](http://docs.marketo.com/display/docs/basic+reporting)。
+>在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中了解更多信息。
 
