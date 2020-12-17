@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 机会过滤器和触发器 {#opportunity-filters-and-triggers}
+# 机会过滤器和触发器{#opportunity-filters-and-triggers}
 
 业务机会过滤器和触发器允许您从Salesforce跟踪业务机会事件。 与其他过滤器和触发器相比，它们有些不同。
 
-## 机会过滤器 {#opportunity-filters}
+## 机会过滤器{#opportunity-filters}
 
 业务机会过滤器允许您深入了解拥有业务机会的Salesforce潜在客户。 编辑智能列表时，您可以在Palette的Opportunity文件夹中找到它们。 它们有几种味道。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 * 已删除机会
 * 已更新业务机会
 
-如果您正在查找Opportunity字段（自定义或标准），请使用Has Opportunity **过滤器** ，或 **Opportunity是`[Added/Removed/Updated]`** 过滤器或触发器。
+如果要查找Opportunity字段（自定义或标准），请使用&#x200B;**Has Opportunity**&#x200B;过滤器或&#x200B;**Opportunity是`[Added/Removed/Updated]`**&#x200B;过滤器或触发器。
 
 **Optys数量、 Opty Amount 、 Opty Preset Revenue**
 
@@ -37,19 +37,19 @@ ht-degree: 0%
 
 **Has Opportunity（已添加到Opportunity）已从Opportunity中删除**
 
-如果您正在寻找基于条件组合而拥有机会的潜在客户，请使用 **Has Opportunity****、Basded to Opportunity**，或Bas **Lemoved from Opportunity** filter。 他们告诉你：
+如果您正在寻找基于条件组合而拥有机会的潜在客户，请使用&#x200B;**Has Opportunity**、**Was Added to Opportunity**&#x200B;或&#x200B;**Was Removed from Opportunity**&#x200B;过滤器。 他们告诉你：
 
 * **有机会**:如果此潜在客户当前具有任何匹配的机会
 * **已添加到Opportunity**:如果此潜在客户曾被添加到匹配的机会中
 * **已从Opportunity中删除**:如果此潜在客户从匹配的机会中删除
 
-在筛选器中将搜索条 **件添加** 为“约束”。 约束包括您的机会标准和自定义字段：
+在筛选器上将搜索条件添加为&#x200B;**Constraints**。 约束包括您的机会标准和自定义字段：
 
 ![](assets/image2015-6-11-12-3a31-3a0.png)
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-例如，假设您要查找具有至少5,000美元的潜在客户。 拖入Has Opportunity **筛选器** ，并使用 **Is Closed和Amount** 约 **束** :
+例如，假设您要查找具有至少5,000美元的潜在客户。 在&#x200B;**Has Opportunity**&#x200B;过滤器中拖动并使用&#x200B;**Is Closed**&#x200B;和&#x200B;**Amount**&#x200B;约束：
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 
@@ -59,13 +59,13 @@ ht-degree: 0%
 
 **已更新业务机会**
 
-Opportunity **was Updated** filter在更新特定机会字段时查找任何机会。 选取要检查的“触发器属性”(Trigger Attribute)下拉框，然后使用约束来缩小更改集。
+**Opportunity was Updated**&#x200B;过滤器在更新特定机会字段时查找任何机会。 选取要检查的“触发器属性”(Trigger Attribute)下拉框，然后使用约束来缩小更改集。
 
 例如，此过滤器将向您显示过去30天内完成结束日期更改的所有潜在客户：
 
 ![](assets/image2015-6-11-12-3a33-3a7.png)
 
-## 机会触发器 {#opportunity-triggers}
+## Opportunity Triggers {#opportunity-triggers}
 
 可以使用以下机会触发器。 它们的工作方式与其相应过滤器（如前所述）相同，只是当事件发生时，它们可以直接触发活动:
 
@@ -77,7 +77,7 @@ Opportunity **was Updated** filter在更新特定机会字段时查找任何机�
 
 ![](assets/image2015-6-11-12-3a33-3a48.png)
 
-要触发业务机会自定义字段，请使 **用Opportunity is Updated** trigger并在下拉菜单中选择该字段：
+要触发业务机会自定义字段，请使用&#x200B;**Opportunity is Updated**&#x200B;触发器，并在下拉列表中选择字段：
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
 
