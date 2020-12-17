@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 按期间成本筛选项目报表 {#filter-a-program-report-by-period-cost}
+# 按期间成本{#filter-a-program-report-by-period-cost}筛选项目报告
 
-将您的 [项目绩效报告](create-a-program-performance-report.md) （针对特定期间成本时间段）。
+将[项目性能报告](create-a-program-performance-report.md)集中在特定的期间成本时间范围。
 
-1. 转至 **营销****活动****(**&#x200B;或Analytics)。
+1. 转至&#x200B;**Marketing** **活动**（或&#x200B;**Analytics**）。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. 单击“设 **置** ”选项卡，然后拖 **动到“期间成本**”。
+1. 单击&#x200B;**设置**&#x200B;选项卡，然后拖动到&#x200B;**期间费用**&#x200B;上。
 
    ![](assets/lm-86194-1.png)
 
-1. 输入已 **发生成** 本的起 **始和** 终止日 **期，然后单击**&#x200B;应用。
+1. 输入已发生成本的&#x200B;**From**&#x200B;和&#x200B;**To**&#x200B;日期，然后单击&#x200B;**Apply**。
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. 你完了！ 单击“ **报告** ”选项卡，只查看在指定期间成本时间范围内的项目。
+1. 你完了！ 单击&#x200B;**报告**&#x200B;选项卡，只查看在指定期间成本时间范围内的项目。
 
    ![](assets/lm-86194-report-tab.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >了解有关基本报告中 [的报告](http://docs.marketo.com/display/docs/basic+reporting)。
+   >了解[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中的所有报告。
 
