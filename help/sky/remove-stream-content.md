@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-您可以删除或存档某个内容。 与删除流内容不同， [归档](/help/sky/archive-and-unarchive-stream-content.md) 可保留与内容相关的所有历史记录。 如果您不介意丢失某些内容的历史统计数据并只想删除它，下面将介绍如何实现。
+您可以删除或存档某个内容。 与删除流内容不同，[归档](/help/sky/archive-and-unarchive-stream-content.md)保留与内容相关的所有历史记录。 如果您不介意丢失某些内容的历史统计数据并只想删除它，下面将介绍如何实现。
 
 1. 选择您的参与项目。
 
    ![图像1](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. 单击选 **[!UICONTROL Streams]** 项卡。
+1. 单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![图3](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-3.png)
 
-1. 选择 **[!UICONTROL Remove]**。
+1. 选择&#x200B;**[!UICONTROL Remove]**。
 
    ![图像4](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-4.png)
 
