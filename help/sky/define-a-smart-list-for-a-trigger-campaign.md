@@ -16,7 +16,7 @@ ht-degree: 0%
 
 通过添加触发器，根据实时活动，一次在一个人上智能运行事件。
 
-1. 选择智能活动，然后单击 **[!UICONTROL Smart List]**。
+1. 选择智能活动，然后单击&#x200B;**[!UICONTROL Smart List]**。
 
    ![图像1](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >具有触发器的智能活动在触发器模式下运行。 它根据触发的事件和任何其他过滤器，一次只运行一个人。
 
-1. 单击下拉框并选择运算符(例如， **[!UICONTROL is]**、 **[!UICONTROL is not]**&#x200B;等) 你选择的触发器。
+1. 单击下拉框并选择运算符(例如，**[!UICONTROL is]**、**[!UICONTROL is not]**&#x200B;等。) 你选择的触发器。
 
    ![图3](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 >
 >如果激活了任何触发器，则人员会通过多个触发器。
 >
->要同时在一组人员上运行活动，请了解如何为智 [能活动定义智能列表 |批](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch)。
+>要同时对一组人员运行活动，请了解如何[为智能活动定义智能列表 | Batch](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch)。
