@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 等待 {#wait}
+# 等待{#wait}
 
-## 概述 {#overview}
+## 概述{#overview}
 
-通过方便的等待步骤，在智能活动流中暂 **停人员**。
+使用方便的&#x200B;**等待步骤**&#x200B;暂停智能活动流中的人员。
 
 ![](assets/wait-overview.png)
 
-注意如何输入自然语言，如“4小时”。 但 **是**，请勿将这些单词缩写（即4小时）。 智能活动仍会运行，但等待步骤将被忽略。
+注意如何输入自然语言，如“4小时”。 但是，请&#x200B;**不要**&#x200B;缩写单词（即4小时）。 智能活动仍会运行，但等待步骤将被忽略。
 
 >[!CAUTION]
 >
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果有人已经在等待步骤中，而不希望他们在等待期结束后继续，请在等待 [步骤后](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) ，直接插入“从流中删除”。 使用“添加选择”选项指定 [要删除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 的人。
+>如果有人已经在等待步骤中，而不希望他们在等待期结束后继续，请在等待步骤后插入[从流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)中删除。 使用[添加选择](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)选项指定要删除的人。
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
 使用等待流步骤有三种主要方式：
 
