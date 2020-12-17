@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 搜索引擎的选取区域／国家／地区 {#seo-pick-region-country-for-your-search-engine}
+# SEO —— 搜索引擎的选取区域／国家／地区{#seo-pick-region-country-for-your-search-engine}
 
 SEO管理员将能够选择您要获取关键字排名信息的搜索引擎的区域。
 
