@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-要将标签从父资产复制到子资产，请导航至该资产的 [!UICONTROL Details] 选项卡下的页 [!UICONTROL Overview] 面。
+要将标签从父资产复制到子资产，请导航到资产[!UICONTROL Details]页面（位于[!UICONTROL Overview]选项卡下）。
 
-在部分 [!UICONTROL Labels] 下，单击 **[!UICONTROL Copy Labels From Parent]**。
+在[!UICONTROL Labels]部分下，单击&#x200B;**[!UICONTROL Copy Labels From Parent]**。
 
 ![图像1](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 
