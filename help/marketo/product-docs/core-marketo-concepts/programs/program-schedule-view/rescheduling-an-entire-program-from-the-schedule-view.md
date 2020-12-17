@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 从项目视图重新计划整个计划 {#rescheduling-an-entire-program-from-the-schedule-view}
+# 重新计划整个项目，从计划视图{#rescheduling-an-entire-program-from-the-schedule-view}
 
 当您克隆具有日期的项目或事件时，您可能希望一次重新计划所有日期。 这是方法。
 
