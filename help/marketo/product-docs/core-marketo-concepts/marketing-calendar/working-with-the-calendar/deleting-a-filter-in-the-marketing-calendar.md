@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在营销日历中删除筛选器 {#deleting-a-filter-in-the-marketing-calendar}
+# 删除营销日历{#deleting-a-filter-in-the-marketing-calendar}中的筛选器
 
 如果您希望删除营销日历中的筛选器，您已到达正确的位置。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 
-1. 单击红色 **x**。
+1. 单击红色&#x200B;**x**。
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
-1. 单击 **删除** ，以进行确认。
+1. 单击&#x200B;**删除**&#x200B;进行确认。
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)
 
