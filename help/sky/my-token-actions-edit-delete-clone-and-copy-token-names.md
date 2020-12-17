@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ## 编辑令牌
 
-在活动 [!UICONTROL My Tokens] 文件夹或项目的选项卡中，单 **[!UICONTROL Value]** 击要编辑的令牌。 这将打开编辑器窗口。
+在活动文件夹或项目的[!UICONTROL My Tokens]选项卡中，单击要编辑的令牌的&#x200B;**[!UICONTROL Value]**。 这将打开编辑器窗口。
 
 ![图像1](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->文本令牌没有单独的编辑器窗口。 单击 **[!UICONTROL Value]** 进行联机编辑。
+>文本令牌没有单独的编辑器窗口。 单击&#x200B;**[!UICONTROL Value]**&#x200B;进行联机编辑。
 
 ![图像2](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## 删除令牌
 
-1. 右键单击令牌，然后选择 **[!UICONTROL Delete]**。
+1. 右键单击令牌，然后选择&#x200B;**[!UICONTROL Delete]**。
 
    ![图3](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. 单击 **[!UICONTROL Confirm]**。
+1. 单击&#x200B;**[!UICONTROL Confirm]**。
 
    ![图像4](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
@@ -40,16 +40,16 @@ ht-degree: 0%
 
 ## 克隆令牌
 
-1. 要克隆我的令牌，请右键单击它并选择 **[!UICONTROL Clone]**。
+1. 要克隆我的令牌，请右键单击它并选择&#x200B;**[!UICONTROL Clone]**。
 
    ![图像5](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-5.png)
 
-1. 为克隆令牌输入新名称，根据需要进行编辑，然后单击 **[!UICONTROL Save]**。
+1. 为克隆令牌输入新名称，根据需要进行编辑，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![图6](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-6.png)
 
 ## 复制令牌名称
 
-要将令牌的名称复制到剪贴板（即），请右键单 `{{my.Event Calendar File}}`击该令牌，然后选择“复 **制令牌名称”**。
+要将令牌的名称复制到剪贴板（即`{{my.Event Calendar File}}`），请右键单击该令牌，然后选择&#x200B;**复制令牌名称**。
 
 ![图像七](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
