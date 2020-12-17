@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 取消计划的批处理活动运行 {#cancel-a-scheduled-batch-campaign-run}
+# 取消计划的批处理活动运行{#cancel-a-scheduled-batch-campaign-run}
 
 如果您已为某个批活动安排了运行并要取消它，下面将介绍如何取消。
 
