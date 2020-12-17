@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 了解页面 {#seo-understanding-pages}
+# SEO —— 了解页面{#seo-understanding-pages}
 
-## 页面优化得分／待处理构件 {#page-optimization-score-to-do-widget}
+## 页面优化得分／待处理构件{#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >单击“待办事项”框中的“影响力大”链接，此链接会将您重定向到“问题”选项卡，并向您显示要解决的高优先级问题。
 
-## 页面选项卡 {#pages-tab}
+## 页面选项卡{#pages-tab}
 
 “页面”选项卡会显示网站上各个页面的搜索优化程度。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 | 链接 | 至少1个站点入站链接的不同域数。 |
 | 目标关键字 | 您决定为每个页面优化的关键字。 [这需要您的意见](seo-using-the-page-detail-drill-down.md)。 |
 
-## “问题”选项卡 {#issues-tab}
+## 问题选项卡{#issues-tab}
 
 “问题”选项卡将确定您可以进行哪些改进以提高优化得分和排名。
 
