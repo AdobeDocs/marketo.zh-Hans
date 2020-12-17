@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 克隆列表或智能列表 {#clone-a-list-or-smart-list}
+# 克隆列表或智能列表{#clone-a-list-or-smart-list}
 
 与其从头开始创建智能列表，不如通过仿制类似的并进行更改来节省一些时间。 这是方法。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/smartlist-find.png)
 
-1. 在“ **列表操作**”下，单 **击“克隆智能列表**”。
+1. 在&#x200B;**列表操作**&#x200B;下，单击&#x200B;**克隆智能列表**。
 
    ![](assets/clonesmartlist-hands.png)
 
-1. 输入名 **称** ，然后单 **击克隆**。
+1. 输入&#x200B;**名称**&#x200B;并单击&#x200B;**克隆**。
 
    ![](assets/supersmartlist-clonewindow.png)
 
