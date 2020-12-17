@@ -16,22 +16,22 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->请记住启 [用通信限制](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
+>请记住[启用通信限制](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
 
 >[!NOTE]
 >
 >当任何人超出设置的通信限制时，Market会阻止非操作电子邮件（操作电子邮件始终发送）。
 
-1. 选择您的智能活动并单击选 **[!UICONTROL Schedule]** 项卡。
+1. 选择您的智能活动并单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡。
 
    ![图像1](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. 打开 [!UICONTROL Qualification Rules] 并选中复 **[!UICONTROL Block non-operational emails]** 选框。
+1. 打开[!UICONTROL Qualification Rules]并选中&#x200B;**[!UICONTROL Block non-operational emails]**&#x200B;复选框。
 
    ![图像2](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
 >[!TIP]
 >
->要将其设为默认值，请在“管 [理员](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits) ”部分编辑通信限制。
+>要将其设为默认值，请在“管理员”部分编辑[通信限制](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)。
 
 现在，您可以确保不会意外向受众发送过多电子邮件。
