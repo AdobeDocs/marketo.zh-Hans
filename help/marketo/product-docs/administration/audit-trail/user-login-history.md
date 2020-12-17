@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 用户登录历史记录 {#user-login-history}
+# 用户登录历史记录{#user-login-history}
 
 用户登录历史记录通过向您显示哪些用户登录了您的订阅（包括失败的登录尝试）来帮助维护责任和安全性。
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 要视图用户登录历史记录：
 
-1. 单击“管 **理员** ”选项卡，在“安全性”下，单 **击“用户和角色”**。
+1. 单击&#x200B;**Admin**&#x200B;选项卡，在“Security”（安全）下，单击“Users &amp; Roles”（用户和角色）**。**
 
    ![](assets/image2016-7-12-9-3a2-3a31.png)
 
-1. 单击“登 **录历史记录** ”选项卡。 列表显示最近登录的信息。
+1. 单击&#x200B;**登录历史记录**&#x200B;选项卡。 列表显示最近登录的信息。
 
    ![](assets/login-history-tab.jpg)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. 从“用户 **”下拉** 菜单中选择用户。** **
+1. 从&#x200B;**Users**&#x200B;下拉菜单中选择用户。** **
 
    ** ![](assets/user-dropdown.jpg)
 
    **
 
-1. 选中“ **仅失败登录** ”框，在搜索中仅显示失败登录。
+1. 选中&#x200B;**仅失败登录**&#x200B;框，在搜索中仅显示失败登录。
 
    ![](assets/only-failed-logins.jpg)
 
-1. 单击“ **应用**”。
+1. 单击&#x200B;**应用**。
 
    ![](assets/click-apply-real.jpg)
 
