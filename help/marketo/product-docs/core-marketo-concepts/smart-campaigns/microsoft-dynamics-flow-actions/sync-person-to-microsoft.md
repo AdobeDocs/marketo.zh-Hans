@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 将人与Microsoft同步 {#sync-person-to-microsoft}
+# 将人与Microsoft {#sync-person-to-microsoft}同步
 
 此功能仅适用于将Marketo与Microsoft Dynamics集成的用户。
 
-## 概述 {#overview}
+## 概述{#overview}
 
 此流程步骤将将Marketto创建的人员插入您的Dynamics CRM。
 
 ![](assets/one.png)
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
 您可以将Dynamics用户设置为人员所有者。
 
