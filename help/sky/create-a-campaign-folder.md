@@ -16,7 +16,7 @@ ht-degree: 0%
 
 活动文件夹可帮助您保持整洁的工作区。 按照这些简单的步骤操作，您即将实现自动化魔术。
 
-1. 右键单击工作区地球或现有文件夹，然后选择 **[!UICONTROL New Campaign Folder]**。
+1. 右键单击工作区地球仪或现有文件夹，然后选择&#x200B;**[!UICONTROL New Campaign Folder]**。
 
    ![图像1](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. 或者，您也可以添加描述和／或向活动文件夹添加标签。 如果您是在现有文件夹中创建活动文件夹，则还可以从父资产复制标签。 单击 **[!UICONTROL Create]**。
+1. 或者，您也可以添加描述和／或向活动文件夹添加标签。 如果您是在现有文件夹中创建活动文件夹，则还可以从父资产复制标签。 单击&#x200B;**[!UICONTROL Create]**。
 
    ![图像1](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 
