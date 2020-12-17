@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 跨工作区和分区共享分段 {#share-segmentations-across-workspaces-and-partitions}
+# 跨工作区和分区共享分段{#share-segmentations-across-workspaces-and-partitions}
 
 >[!PREREQUISITES]
 >
 >本文仅针对具有工作区和分区的客户
 
-## 什么是细分？ {#whats-a-segmentation}
+## 什么是细分？{#whats-a-segmentation}
 
 Marketo擅长为项目或智能活动挑选合适的人。 但是，对于更永久的角色，您应使用细分。 他们需要在Marketo中使用高级动态内容。
 
@@ -25,15 +25,15 @@ Marketo擅长为项目或智能活动挑选合适的人。 但是，对于更永
 >
 >**深潜**
 >
->了 [解如何创建细分](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
+>了解[如何创建区段](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
 
-设置这些角色(**并使** 用工作区)后，您将希望在工作区中共享它们。 以下是一些值得了解的好事：
+设置这些角色（**和**&#x200B;您使用工作区）后，您将希望在工作区之间共享这些角色。 以下是一些值得了解的好事：
 
-## 规则和提示 {#rules-tips}
+## 规则和提示{#rules-tips}
 
-* 每个营销订阅在多个工作区（不是每个工作区20个）中最多可包含20个“**总分段”**。
+* 每个营销订阅可以在多个工作区中最多包含20个“总计”细分（**不是每个工作区20个**）。
 * 您只能与您有权访问的工作区共享分段。
-* 确保创建并利用可见 **到所有分区的默认工作区**。
+* 请确保创建并利用&#x200B;**默认工作区，该工作区可以查看所有分区**。
 
 * 分段处理仅在创建分段的工作区中的人员上运行。
 
@@ -52,7 +52,7 @@ Marketo擅长为项目或智能活动挑选合适的人。 但是，对于更永
 >
 >这些规则中有些有些复杂。 最简单的入门方法是测试特定人员。 您始终可以进行新细分并删除旧细分。
 
-## 示例方案 {#example-scenarios}
+## 示例方案{#example-scenarios}
 
 ![](assets/image2015-5-27-16-3a26-3a25.png)
 
@@ -60,7 +60,7 @@ Marketo擅长为项目或智能活动挑选合适的人。 但是，对于更永
 
 **
 
-## 共享分段 {#share-a-segmentation}
+## 共享分段{#share-a-segmentation}
 
 1. 转到数据库。
 
