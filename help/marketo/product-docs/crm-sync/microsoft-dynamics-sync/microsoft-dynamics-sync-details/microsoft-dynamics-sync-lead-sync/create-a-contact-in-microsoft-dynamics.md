@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 在Microsoft Dynamics中创建联系人 {#create-a-contact-in-microsoft-dynamics}
+# 在Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}中创建联系人
 
 1. 在Dynamics中选择要创建为联系人的仅限Marketo人员（Microsoft类型为空）。
 
    ![](assets/one.png)
 
-1. 单击 **“Person Actions** and **Microsoft”，然后** 选择“Sync **Person to Microsoft”**。
+1. 单击“**人员操作**&#x200B;和&#x200B;**Microsoft,**”，然后选择“将人员同步到Microsoft **”。**
 
    ![](assets/two.png)
 
-1. 单击 **同步** ，然后选 **择联系**。 单击“ **立即运行**”。
+1. 单击&#x200B;**同步为**&#x200B;并选择&#x200B;**联系**。 单击&#x200B;**立即运行**。
 
    ![](assets/three.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. 现在，在智能活动 **过滤器** 中使用“同步为”约束时，您可以选择“联系人”。
+1. 现在，在智能活动过滤器中使用“同步为”约束时，您可以选择&#x200B;**联系人**。
 
    ![](assets/five.png)
 
