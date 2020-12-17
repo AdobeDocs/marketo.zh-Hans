@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 在项目中使用期间成本 {#using-period-costs-in-a-program}
+# 在{#using-period-costs-in-a-program}项目中使用期间成本
 
-期 [间成本](understanding-period-costs.md) ，是您在项目上花费的金额。 它可以持续一个或多个月，并用于报告ROI。
+[期间成本](understanding-period-costs.md)是您在项目上花费的金额。 它可以持续一个或多个月，并用于报告ROI。
 
 >[!NOTE]
 >
 >**深潜**
 >
-> 进一步了 [解收入周期分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+> 了解有关[收入周期分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)的更多信息。
 
-## 添加期间成本  {#add-a-period-cost}
+## 添加期间成本{#add-a-period-cost}
 
-1. 转到项目 **的** “设置”选项卡。
+1. 转到项目的&#x200B;**Setup**&#x200B;选项卡。
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. 将期间成 **本拖放** 到画布中。
+1. 将&#x200B;**期间费用**&#x200B;拖放到画布中。
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. 单击日历图标。 选择月份。 单击 **确定**。
+1. 单击日历图标。 选择月份。 单击&#x200B;**确定**。
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. 输入期 **间成本** （不含小数或逗号）。 单击 **保存**。
+1. 输入&#x200B;**期间费用**（不含小数或逗号）。 单击&#x200B;**保存**。
 
    >[!NOTE]
    >
@@ -51,28 +51,28 @@ ht-degree: 0%
    >
    >您可以将多个期间成本拖放到画布中。 这样，您可以将具有不同期间成本的多个月归因于项目。
 
-## 编辑期间成本 {#edit-a-period-cost}
+## 编辑期间成本{#edit-a-period-cost}
 
 1. 如果支出的金额大于或小于最初预计的金额，则可以编辑期间成本。
 1. 转到项目的**设置**选项卡。
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. 右键单击“期间 **成本”**。 选择 **编辑**。
+1. 右键单击&#x200B;**期间费用**。 选择&#x200B;**编辑**。
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
-1. 进行编辑。 单击 **保存**。
+1. 进行编辑。 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
-## 删除期间成本 {#delete-a-period-cost}
+## 删除期间成本{#delete-a-period-cost}
 
-1. 转到项目 **的** “设置”选项卡。
+1. 转到项目的&#x200B;**Setup**&#x200B;选项卡。
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. 右键单击“期间 **成本”**。 选择 **删除**。
+1. 右键单击&#x200B;**期间费用**。 选择&#x200B;**删除**。
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
