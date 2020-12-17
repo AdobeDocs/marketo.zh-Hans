@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 更改Marketo自定义字段的类型 {#change-the-type-of-a-marketo-custom-field}
+# 更改Marketo自定义字段的类型{#change-the-type-of-a-marketo-custom-field}
 
 下面介绍如何更改自定义字段的字段类型。
 
-1. 转到**管理员**并单击“字段 **管理”**。
+1. 转至**Admin **并单击&#x200B;**字段管理**。
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a4-3a48.png)
 
-1. 在“字 **段操作** ”下拉框中，单 **击更改类型**。
+1. 在&#x200B;**字段操作**&#x200B;下拉框中，单击&#x200B;**更改类型**。
 
    ![](assets/image2014-9-18-13-3a4-3a57.png)
 
