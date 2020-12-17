@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 添加到参与项目 {#add-to-engagement-program}
+# 添加到“参与”项目{#add-to-engagement-program}
 
-## 概述 {#overview}
+## 概述{#overview}
 
 使用此流程步骤构建的智能活动将成为您的参与项目的门户。
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
 1. 选择要将人员添加到的参与项目。
 
