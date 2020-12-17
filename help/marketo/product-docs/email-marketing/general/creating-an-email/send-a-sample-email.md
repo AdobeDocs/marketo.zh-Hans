@@ -11,24 +11,24 @@ ht-degree: 0%
 ---
 
 
-# 发送示例电子邮件 {#send-a-sample-email}
+# 发送示例电子邮件{#send-a-sample-email}
 
-发送电子邮件样本快速而简单。 要发送动态内容电子邮件，请参 [阅将电子邮件预览为动态内容](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)。
+发送电子邮件样本快速而简单。 要发送动态内容电子邮件，请参阅[用动态内容预览电子邮件](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)。
 
 >[!NOTE]
 >
->您必须拥有“访 **问数据库——运行单个流操作** ”权限才能发送示例电子邮件。
+>您必须具有&#x200B;**访问数据库——运行单个流操作**&#x200B;权限才能发送示例电子邮件。
 
-## 发送示例电子邮件 {#send-a-sample-email-1}
+## 发送示例电子邮件{#send-a-sample-email-1}
 
-1. 查找并选择您的电子邮件。 单击“电 **子邮件操** 作”下拉框，然后选择 **“发送示例”**。\
+1. 查找并选择您的电子邮件。 单击&#x200B;**电子邮件操作**&#x200B;下拉框并选择&#x200B;**发送示例**。\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
    >我的令牌解析为适合电子邮件项目的值。
 
-1. 输入投放的电子邮件地址，然后单击“ **发送**”。
+1. 输入投放的电子邮件地址，然后单击&#x200B;**发送**。
 
    ![](assets/two.png)
 
@@ -41,41 +41,41 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果要将令牌解析为特定人员，请在步骤2的“人员” **下拉菜单中选择** “此人”。
+   >如果要将令牌解析为特定人员，请在步骤2的&#x200B;**person下拉框**&#x200B;中选择此人员。
 
-## 在编辑时发送示例电子邮件 {#send-a-sample-email-while-editing}
+## 在编辑{#send-a-sample-email-while-editing}时发送示例电子邮件
 
-1. 找到您的电子邮件，选择它并单击“编 **辑草稿** ”选项卡。
+1. 找到您的电子邮件，选择它并单击&#x200B;**编辑草稿**&#x200B;选项卡。
 
    ![](assets/three-281-29.jpg)
 
-1. 单击“ **电子邮件**”，选择 **“发送示例”**。
+1. 单击&#x200B;**电子邮件操作**，选择&#x200B;**发送示例**。
 
    ![](assets/four.png)
 
-1. 输入投放的电子邮件地址，然后单击“ **发送**”。
+1. 输入投放的电子邮件地址，然后单击&#x200B;**发送**。
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >触发器字段仅适用于使用电子邮件脚本 [的用户](http://developers.marketo.com/documentation/velocity-script/)。
+   >触发字段仅适用于使用[电子邮件脚本](http://developers.marketo.com/documentation/velocity-script/)的用户。
 
-## 根据区段发送示例电子邮件 {#send-a-sample-email-based-on-a-segment}
+## 根据区段{#send-a-sample-email-based-on-a-segment}发送示例电子邮件
 
 >[!PREREQUISITES]
 >
 >[将分段应用于电子邮件](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email)。
 
-1. 找到您的电子邮件，选择它并单击“编 **辑草稿** ”选项卡。
+1. 找到您的电子邮件，选择它并单击&#x200B;**编辑草稿**&#x200B;选项卡。
 
    ![](assets/three-281-29.jpg)
 
-1. 单击 **预览**。
+1. 单击&#x200B;**预览**。
 
    ![](assets/1.png)
 
-1. 单击 **视图** By下拉框并选择 **分段**。
+1. 单击&#x200B;**视图By**&#x200B;下拉框并选择&#x200B;**分段**。
 
    ![](assets/2.png)
 
@@ -87,12 +87,12 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. 单击 **发送示例** ，以接收您所在区段的测试电子邮件。
+1. 单击&#x200B;**发送示例**&#x200B;以接收您所在区段的测试电子邮件。
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >您还可以在电子邮件的编辑模式下根据区段发送示例电子邮件。 单击“ **电子邮件** ”下拉框，选 **择“发送示例**”，然后选择您的区段。
+   >您还可以在电子邮件的编辑模式下根据区段发送示例电子邮件。 单击&#x200B;**电子邮件操作**&#x200B;下拉框，选择&#x200B;**发送示例**，然后选择您的区段。
 
 在启动活动前对内容进行采样非常重要。 测量两次，剪一次！
