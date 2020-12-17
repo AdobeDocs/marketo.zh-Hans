@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-选项卡下有三个 [!UICONTROL Program Overview] 部分： **[!UICONTROL Details]**、 **[!UICONTROL Schedule]**&#x200B;和 **[!UICONTROL Reports]**。 下面是每一个。
+[!UICONTROL Program Overview]选项卡下有三个部分：**[!UICONTROL Details]**、**[!UICONTROL Schedule]**&#x200B;和&#x200B;**[!UICONTROL Reports]**。 下面是每一个。
 
 ## 详细信息
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![图像1](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-页面底部有两个部分： **[!UICONTROL Program Stats]** 和 **[!UICONTROL Used By]**。 **[!UICONTROL Program Stats]** 向您展示有关项目性能的关 **[!UICONTROL Used By]** 键指标，并且是一种轻松的方法，用于了解项目在Marketo中的使用情况。
+页面底部有两个部分：**[!UICONTROL Program Stats]**&#x200B;和&#x200B;**[!UICONTROL Used By]**。 **[!UICONTROL Program Stats]** 向您展示有关项目性能的关 **[!UICONTROL Used By]** 键指标，并且是一种轻松的方法，可以查看项目在Marketo中的使用情况。
 
 ![图像2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 
 **深潜**
 
-* 了解如何 [使用项目计划视图](/help/sky/navigating-program-schedule-view.md)。
+* 了解如何使用项目计划视图[。](/help/sky/navigating-program-schedule-view.md)
 
 ## 报告
 
-该选 [!UICONTROL Reports] 项卡会向您显示有关项目性能的关键指标，包括趋势和会员资格统计。
+[!UICONTROL Reports]选项卡显示有关项目性能的关键指标，包括趋势和会员资格统计数据。
 
 ![图像4](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-4.png)
