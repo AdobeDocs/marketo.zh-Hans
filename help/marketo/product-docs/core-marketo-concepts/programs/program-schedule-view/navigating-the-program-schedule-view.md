@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 导航项目计划视图 {#navigating-the-program-schedule-view}
+# 导航项目计划视图{#navigating-the-program-schedule-view}
 
 以下是帮助您导航项目计划视图的基础知识。
 
-## 查找计划视图 {#find-the-schedule-view}
+## 查找计划视图{#find-the-schedule-view}
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择项目。 单击 **视图** 下拉框。 选择 **计划**。
+1. 选择项目。 单击&#x200B;**视图**&#x200B;下拉列表。 选择&#x200B;**计划**。
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
 
-## 在模式之间更改 {#changing-between-modes}
+## 在模式之间更改{#changing-between-modes}
 
-1. 单击“ **3周** ”或“ **月** ”将更改显示屏上的可见日期。
+1. 单击&#x200B;**3周**&#x200B;或&#x200B;**月**&#x200B;将更改显示屏上的可见日期。
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
-## 全屏视图 {#full-screen-view}
+## 全屏视图{#full-screen-view}
 
 1. 您可以单击右上角的屏幕图标以全屏模式视图项目计划。
 
