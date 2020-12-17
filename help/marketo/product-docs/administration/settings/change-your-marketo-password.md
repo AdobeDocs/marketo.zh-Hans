@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 更改营销人员密码 {#change-your-marketo-password}
+# 更改您的营销人员密码{#change-your-marketo-password}
 
 通过这些简单的步骤更改Marketo密码。
 
-1. 任何Marketo用户都可以单击其姓名和 **我的帐户**。
+1. 任何Marketo用户都可以单击其名称和&#x200B;**我的帐户**。
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
-1. 管理员还可以单 **击** “管理员”, **然后单击“** 更改口令”以更改其管理员口令。
+1. 管理员还可以单击&#x200B;**管理员**，然后单击&#x200B;**更改口令**&#x200B;以更改其管理员口令。
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
@@ -31,5 +31,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >什么是好密码？ 包含大量字母、数字和符号的长 [篇文章，如](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[电子邮件保护]](http://docs.marketo.com/cdn-cgi/l/email-protection)”。 只是，不是那个。 发挥创意，打造自己的作品。
+   >什么是好密码？ 包含大量字母、数字和符号的长项，如&quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;。 只是，不是那个。 发挥创意，打造自己的作品。
 
