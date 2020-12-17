@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使取消订阅消息在语言中具有动态性 {#make-your-unsubscribe-message-dynamic-for-languages}
+# 使取消订阅消息对语言{#make-your-unsubscribe-message-dynamic-for-languages}具有动态性
 
 默认的取消订阅消息和链接为英语。 您可以使用动态内容以不同语言显示它。
 
@@ -20,22 +20,23 @@ ht-degree: 0%
 >下面我们为您设置了这个不错的教程。 它代表了一种最佳实践，但可以通过其他方式实现。
 
 1. 准备数据
-1. [创建名为“](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)首选语言”的自定义字段。 （如果希望此字段同步，请在CRM中设置它）。
+1. [创建名为“](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)首选语言”的自定义字段。（如果希望此字段同步，请在CRM中设置它）。
 
    >[!TIP]
    >
-   >将来，在创建表单时使 [用此字段](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) ，以捕获语言首选项。
+   >以后，当您[创建表单](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)以捕获语言首选项时，请使用此字段。
 
 1. 创建分段
-1. 转到数 **据库**。** ![](assets/db.png)
+1. 转到&#x200B;**Database**。
+** ![](assets/db.png)
 
    **
 
-1. 在“新 **建** ”下拉框中，单 **击“新建分段**”。
+1. 在&#x200B;**新建**&#x200B;下拉框中，单击&#x200B;**新建分段**。
 
    ![](assets/two.png)
 
-1. 将分段命名为“首 **选语言”**。 单击 **添加区段**。 键入语言。
+1. 命名分段&#x200B;**首选语言**。 单击&#x200B;**添加区段**。 键入语言。
 
    ![](assets/image2015-3-9-8-3a33-3a44.png)
 
@@ -43,7 +44,7 @@ ht-degree: 0%
    >
    >默认区段为英语。
 
-1. 继续添加区段，直到您的所有语言都显示出来。 单击 **创建**。
+1. 继续添加区段，直到您的所有语言都显示出来。 单击&#x200B;**创建**。
 
    ![](assets/image2015-3-9-8-3a38-3a5.png)
 
@@ -51,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-9-8-3a38-3a17.png)
 
-1. 转至“智能 **列表** ”选项卡。 在搜 **索字段中输入** “首选语言”。 将滤镜拖放到画布上。
+1. 转到&#x200B;**智能列表**&#x200B;选项卡。 在搜索字段中输入&#x200B;**首选语言**。 将滤镜拖放到画布上。
 
    ![](assets/six.png)
 
@@ -59,22 +60,22 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 对所有不同语言重复上述步骤。 然后，选择“ **分段操作** ”下拉框并单击 **批准**。
+1. 对所有不同语言重复上述步骤。 然后，选择&#x200B;**分段操作**&#x200B;下拉框并单击&#x200B;**批准**。
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
 1. 创建代码片断
-1. 转到Design **Studio**。
+1. 转到&#x200B;**Design Studio**。
 
    ![](assets/ds.png)
 
-1. 在“新建 **”下拉** 菜单中，单 **击“新建代码片段**”。
+1. 在&#x200B;**New**&#x200B;下拉列表中，单击&#x200B;**New Dispet**。
 
    ** ![](assets/ten.png)
 
    **
 
-1. 将代码片段命 **名为取消订阅消息**。 单击 **创建**。
+1. 将代码片段命名为&#x200B;**取消订阅消息**。 单击&#x200B;**创建**。
 
    ![](assets/image2015-3-9-8-3a40-3a54.png)
 
@@ -82,15 +83,15 @@ ht-degree: 0%
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. 复制并粘贴此令牌： **`{{system.unsubscribeLink}}`** 链接 **URL字段** 。 单击 **插入**。
+1. 复制并粘贴此令牌：**`{{system.unsubscribeLink}}`**&#x200B;进入&#x200B;**链接URL**&#x200B;字段。 单击&#x200B;**插入**。
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
-1. 在“ **分段** ”部分中选择“分段依据”。
+1. 在“分段”部分选择&#x200B;**“分段依据”**。
 
    ![](assets/image2015-3-9-8-3a44-3a16.png)
 
-1. 从“分段”下拉框中，键入“首选 **语言** ”并选 **择“首选语言”**。 单击 **保存**。
+1. 在“分段”下拉框中，键入&#x200B;**Preferred**&#x200B;并选择&#x200B;**Preferred Language**。 单击&#x200B;**保存**。
 
    ![](assets/image2015-3-9-8-3a44-3a32.png)
 
@@ -98,30 +99,30 @@ ht-degree: 0%
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. 复制并粘贴同一令牌： **`{{system.unsubscribeLink}}`** 链接 **URL字段** 。 单击 **插入**。
+1. 复制并粘贴同一令牌：**`{{system.unsubscribeLink}}`**&#x200B;进入&#x200B;**链接URL**&#x200B;字段。 单击&#x200B;**插入**。
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
-1. 对所有细分重复上述步骤。 然后，返回Design Studio，单击“代码片断 **操作** ”下拉框，然后单 **击“批准**”。
+1. 对所有细分重复上述步骤。 然后，返回Design Studio，单击&#x200B;**代码片断操作**&#x200B;下拉框，然后单击&#x200B;**批准**。
 
    ![](assets/image2015-3-9-8-3a47-3a34.png)
 
    太棒了。 快到了。
 
 1. 在电子邮件中使用代码片断
-1. 在电子邮件编辑器中，单击可编辑的元素。 然后，单击齿轮图标，并选择“ **替换为代码片断”**。 如果要选择可编辑的片段元素，请单击齿轮图标，然后选择“编 **辑”**。
+1. 在电子邮件编辑器中，单击可编辑的元素。 然后，单击齿轮图标并选择&#x200B;**替换为代码片断**。 如果要选择可编辑的片段元素，请单击齿轮图标，然后选择&#x200B;**编辑**。
 
    ![](assets/4.1.png)
 
-1. 从下拉列表中选择查找并选择您的代码片段，然后单击“ **保存**”。
+1. 从下拉列表中查找并选择您的代码片断，然后单击&#x200B;**保存**。
 
    ![](assets/image2015-3-9-8-3a50-3a16.png)
 
-1. 要测试它，请单击“ **上**&#x200B;一步……”
+1. 要测试，请单击&#x200B;**返回**...
 
    ![](assets/4.3.png)
 
-1. ...然后，选择 **“动态** ”选项卡。
+1. ...然后，选择&#x200B;**Dynamic**&#x200B;选项卡。
 
    ![](assets/4.4.png)
 
@@ -164,5 +165,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >进一步了 [解动态内](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) 容和您可以做的所有最酷的事情。
+   >进一步了解[动态内容](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)以及您可以做的所有最酷的事情。
 
