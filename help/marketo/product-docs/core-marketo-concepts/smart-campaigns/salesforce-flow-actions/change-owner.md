@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 更改所有者 {#change-owner}
+# 更改所有者{#change-owner}
 
 如果已有人员已分配给某个所有者，您可以使用此流步骤将他们重新分配给另一个所有者。
 
@@ -27,10 +27,10 @@ ht-degree: 0%
    >
    >Salesforce不允许将联系人分配到潜在客户队列。 对于SFDC联系人的记录：
    >
-   >1. Marketo将仅在联系人同 **步到** Salesforce时创建重复潜在客户。 换言之，如果您使用“将人 **[员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** ”流步骤 `AssignTo=<a lead queue>`,Marketo将在Salesforce中创建重复潜在客户，并将其分配到潜在客户队列。
+   >1. 当联系人同步到Salesforce时，Marketo将仅创建&#x200B;****&#x200B;的重复潜在客户。 换言之，如果您将&#x200B;**[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;流步骤与`AssignTo=<a lead queue>`一起使用，Marketo将在Salesforce中创建一个重复潜在客户，并将其分配到潜在客户队列。
       >
       >
-   2. 如果尝试在联系人 **上使用** “更改所有者流”步骤，则不会在Salesforce中创建重复。
+   2. 如果尝试在联系人上使用&#x200B;**更改所有者**&#x200B;流步骤，则Salesforce中不会创建重复。
 
 
    >[!NOTE]
