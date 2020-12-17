@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 更改数据值 {#change-data-value}
+# 更改数据值{#change-data-value}
 
-## 概述 {#overview}
+## 概述{#overview}
 
 您可以使用Market来更新字段的值。 对于此，您将使用**更改数据值**流操作。
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您还可以阻止更新字段。 有关详 [细信息，请参阅阻止对字段](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) 的更新。
+>您还可以阻止更新字段。 有关详细信息，请参阅[阻止对字段](../../../../product-docs/administration/field-management/block-updates-to-a-field.md)的更新。
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
 1. 查找并选择要更改值的字段。
 
@@ -38,11 +38,11 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >您还可以在新值中 **使用令牌**。
+   >您还可以在&#x200B;**新值**&#x200B;中使用令牌。
 
    >[!TIP]
    >
-   >您可以在“新值”中输入“NULL”(无引号， **全部大写** )以清除字段。 有关详 [细信息，请参阅](change-data-value/clear-field-values.md) “清除字段值”。
+   >您可以在&#x200B;**New Value**&#x200B;中输入“NULL”（无引号，全部大写）以清除字段。 有关详细信息，请参阅[清除字段值](change-data-value/clear-field-values.md)。
 
    >[!NOTE]
    >
