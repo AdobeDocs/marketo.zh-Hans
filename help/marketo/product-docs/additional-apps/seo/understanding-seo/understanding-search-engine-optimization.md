@@ -11,25 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 了解搜索引擎优化 {#understanding-search-engine-optimization}
+# 了解搜索引擎优化{#understanding-search-engine-optimization}
 
 搜索引擎优化(SEO)是一组最佳实践，可帮助您使用搜索引擎将页面呈现在用户面前。 Marketo的SEO应用程序将帮助您改进。
 
 首先，您应该通过这个方便的词汇表学习基础知识。
 
-## SEO术语表 {#seo-glossary}
+## SEO术语表{#seo-glossary}
 
-**搜索引擎优化(SEO)**&#x200B;通过在搜索引擎结果页面(SERP)中获得高排名位置来增加网站流量的策略和技术的组合。
+**搜索引擎优化(SEO)**
+通过在搜索引擎结果页面(SERP)中获得高排名位置来增加网站流量的策略和技术的组合。
 
-**关键**&#x200B;字关键字是人们在搜索引擎（如Google、Yahoo或Bing）中键入的单词或短语。
+**关**
+键字关键字是人们在搜索引擎（如Google、Yahoo或Bing）中键入的字词或短语。
 
-**入站链**&#x200B;接将流量引导到您站点的其他站点上的链接。 链接站点的信誉越高，此入站链接的价值就越高。
+**入站**
+链接将流量引导到您站点的其他站点上的链接。链接站点的信誉越高，此入站链接的价值就越高。
 
-**SERP排名**&#x200B;代表搜索引擎结果页。 搜索引擎返回多页结果。 SERP排名是您的链接所显示的页面。 通常每页有10个结果。
+**SERP排**
+名代表搜索引擎结果页。搜索引擎返回多页结果。 SERP排名是您的链接所显示的页面。 通常每页有10个结果。
 
-**搜索引擎视图**&#x200B;搜索引擎计算机感知网站的方式与人类感知网站的方式不同。
+**搜索引**
+擎视图搜索引擎计算机感知网站的方式与人类感知网站的方式不同。
 
-**胖头搜索词**&#x200B;投放超大网的通用关键字。 它们约占所用搜索词的19%。
+**胖头搜索**
+词转换超大网的通用关键字。它们约占所用搜索词的19%。
 
 >[!NOTE]
 >
@@ -61,7 +67,8 @@ ht-degree: 0%
 
 优化得分是专有的Marketo得分，它以1到100的分数衡量您网站上的所有页面。 它基于大量最佳实践的汇编。 70分或更高分表示站点已经过良好优化。
 
-**页面优化**&#x200B;措施，可直接在网站内进行，以改进其在搜索引擎结果页面中的位置。
+**页面优**
+化可直接在网站内采取的措施，以改善其在搜索引擎结果页面中的位置。
 
 >[!NOTE]
 >
@@ -81,10 +88,10 @@ ht-degree: 0%
 
 看，没那么糟。
 
-## 如何开始？ {#how-do-i-get-started}
+## 如何开始？{#how-do-i-get-started}
 
-1. 利用了解关键字制 [定战略](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-1. 修复了“了解页面”中 [的现有问题](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-1. 通过了解入站链接 [扩大受众范围](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+1. 使用[了解关键字](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)制定您的战略
+1. 修复[了解页面](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)中的现有问题
+1. 通过[了解入站链接](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)扩大您的访问范围
 
 您的目标是，对于对您的业务至关重要的关键字，与第一页（以及第一个结果）一样接近。
