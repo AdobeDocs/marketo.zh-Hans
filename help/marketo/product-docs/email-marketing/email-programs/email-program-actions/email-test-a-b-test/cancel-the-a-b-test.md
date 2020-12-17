@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# 取消A/B测试 {#cancel-the-a-b-test}
+# 取消A/B测试{#cancel-the-a-b-test}
 
-如果您已将 [A/B测试添加到电子邮件项目](add-an-a-b-test.md) ，并且已决定不再需要它，则此操作将很容易撤消。 这是方法。
+如果您已将[测试](add-an-a-b-test.md)添加到电子邮件项目，并且已决定不再需要它，则此操作很容易撤消。 这是方法。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
 1. 选择您的电子邮件项目。
 1. ![](assets/selectemailprogram-1.jpg)
 
-1. 在“电 **子邮件** ”拼贴下， **单击“删除A/B测试”**。
+1. 在&#x200B;**电子邮件**&#x200B;拼贴下，单击&#x200B;**删除A/B测试**。
 
    ![](assets/image2015-5-6-14-3a27-3a58.png)
 
@@ -31,6 +31,6 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >您的电子邮件项目必须未经批准，才能删除A/B测试。 有关详 [细信息，请参阅批准／取消批准电子邮件项目](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) 。
+   >您的电子邮件项目必须未经批准，才能删除A/B测试。 有关详细信息，请参阅[批准／取消批准电子邮件项目](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)。
 
 看？ 小菜一碟！
