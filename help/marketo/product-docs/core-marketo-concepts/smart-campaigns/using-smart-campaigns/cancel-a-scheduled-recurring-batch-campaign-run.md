@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 取消计划的重复批活动运行 {#cancel-a-scheduled-recurring-batch-campaign-run}
+# 取消计划的重复批活动运行{#cancel-a-scheduled-recurring-batch-campaign-run}
 
 如果您有不再需要的重复批活动，可以取消将来的运行。 这是方法。
 
-1. 单击智能活动，然后单击 **计划** 选项卡。
+1. 单击智能活动，然后单击&#x200B;**计划**&#x200B;选项卡。
 
    ![](assets/image2014-9-22-16-3a44-3a51.png)
 
-1. 单击“ **计划****重复**”。
+1. 单击&#x200B;**计划** **重复**。
 
    ![](assets/image2014-9-22-16-3a44-3a55.png)
 
    >[!TIP]
    >
-   >单击它旁边的单次运行 ![可](assets/image2014-9-22-16-3a45-3a42.png) 以取消它。 了解如何取 [消计划的批处理活动运行](cancel-a-scheduled-batch-campaign-run.md)。
+   >单击运行旁的![—](assets/image2014-9-22-16-3a45-3a42.png)可取消单个运行。 了解如何[取消计划的批处理活动运行](cancel-a-scheduled-batch-campaign-run.md)。
 
-1. 将计划设 **置为** “无”, **然后保存**。
+1. 将计划设置为&#x200B;**无**，然后设置为&#x200B;**保存**。
 
    ![](assets/image2014-9-22-16-3a45-3a56.png)
 
