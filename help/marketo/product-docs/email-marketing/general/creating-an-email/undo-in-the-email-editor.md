@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在电子邮件编辑器中撤消 {#undo-in-the-email-editor}
+# 在电子邮件编辑器{#undo-in-the-email-editor}中撤消
 
 1. 要撤消更改，请单击向左箭头。
 
