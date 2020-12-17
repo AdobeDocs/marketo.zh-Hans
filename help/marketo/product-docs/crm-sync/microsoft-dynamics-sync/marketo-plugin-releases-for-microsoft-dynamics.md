@@ -11,11 +11,11 @@ ht-degree: 7%
 ---
 
 
-# Microsoft Dynamics的Marketo插件版本 {#marketo-plugin-releases-for-microsoft-dynamics}
+# Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}的Marketo插件版本
 
 首次同步到Microsoft Dynamics时，请下载适用于Marketo的插件的最新版本。 Market会定期更新这些插件，因此您可以返回同一位置下载新版本。
 
-[下载与Dynamics版本](sync-setup/download-the-marketo-lead-management-solution.md) 对应的最新插件。
+[下载与Dynamics版](sync-setup/download-the-marketo-lead-management-solution.md) 本相对应的最新插件。
 
 ![](assets/lead-management-solution.png)
 
