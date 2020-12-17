@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 转换人员 {#convert-person}
+# 转换人员{#convert-person}
 
 >[!NOTE]
 >
 >仅当与Salesforce集成时可用。
 
-## 概述 {#overview}
+## 概述{#overview}
 
 使用此流程步骤将人员转换为Salesforce中的联系人。 您可以决定将联系人分配到谁、向所有者发送通知以及设置转换状态。
 
 ![](assets/one-2.png)
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
-1. 选择要将结果联 **系人** 、帐户和业务机会分配给谁。
+1. 选择要&#x200B;**将结果联系人、帐户和机会分配给谁。**
 
    ![](assets/two-2.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
    >
    >在Market中将人员转换为Salesforce中将生成新帐户和机会。 如果您不想要重复帐户，请使用Salesforce进行转换。
 
-1. 选择是否要向 **所有者** 发送通知。
+1. 选择是否希望将&#x200B;**通知**&#x200B;发送给所有者。
 
    ![](assets/three-2.png)
 
-1. 选择转 **换状态**。
+1. 选择&#x200B;**转换状态**。
 
    ![](assets/four-3.png)
 
