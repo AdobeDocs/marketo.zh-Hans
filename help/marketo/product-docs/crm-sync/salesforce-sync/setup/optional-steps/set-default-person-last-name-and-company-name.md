@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 设置默认人员姓氏和公司名 {#set-default-person-last-name-and-company-name}
+# 设置默认人员姓氏和公司名{#set-default-person-last-name-and-company-name}
 
 Salesforce需要（最小）Lead和Contacts的姓氏和公司名。 未完成的记录将不会同步到Salesforce。 如果要同步部分记录，则必须设置Market才能与Salesforce一起使用的默认值。
 
-1. 转到“管 **理员** ”，单 **击“Salesforce**”。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**Salesforce**。
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. 单击“ **编辑同步选项**”。
+1. 单击&#x200B;**编辑同步选项**。
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. 输入默 **认人员姓** 、**默认**人员&#x200B;**公司，然后** 单击 **保存**。
+1. 输入&#x200B;**默认人员姓氏**&#x200B;和**默认****人员公司**，然后单击&#x200B;**保存**。
 
    ![](assets/sync-options-hands.png)
 
