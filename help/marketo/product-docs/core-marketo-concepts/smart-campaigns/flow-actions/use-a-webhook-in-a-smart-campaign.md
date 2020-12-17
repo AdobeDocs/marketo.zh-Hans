@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在智能活动中使用Webhook {#use-a-webhook-in-a-smart-campaign}
+# 在智能活动{#use-a-webhook-in-a-smart-campaign}中使用Webhook
 
-要使用网 [页挂接](http://developers.marketo.com/documentation/webhooks/)，请将其作为流 [动操作](add-a-flow-step-to-a-smart-campaign.md) 添加到智能活动中。
+要使用[webhook](http://developers.marketo.com/documentation/webhooks/)，请将其作为流动操作添加到[智能活动](add-a-flow-step-to-a-smart-campaign.md)。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >Webhooks只能用于触发活动。
 
-1. 转到“流 **”选** 项卡并拖入“调 **用Webhook流** ”操作。
+1. 转到&#x200B;**Flow**&#x200B;选项卡并拖入&#x200B;**调用Webhook**&#x200B;流动操作。
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. 最后，您可以在流步骤中 **使用Add** Choice中的Webhooks。
+1. 最后，您可以在流步骤中使用&#x200B;**添加选择**&#x200B;中的Webhook。
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)
 
