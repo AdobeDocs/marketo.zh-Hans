@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 升级Microsoft Dynamics的Marketo解决方案 {#upgrade-the-marketo-solution-for-microsoft-dynamics}
+# 升级Microsoft Dynamics的Marketo解决方案{#upgrade-the-marketo-solution-for-microsoft-dynamics}
 
 发布新的Microsoft Dynamics解决方案后，您可以从帐户的管理区下载升级。
 
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->执行任何升级之前，您必须先下载最 *新的* Marketo解决方案。
+>执行任何升级之前，必须先下载最新的Marketo Solution *。*
 
 1. 转到**管理员**区域。
 
    ![](assets/admin.png)
 
-1. 单击 **Microsoft Dynamics**。
+1. 单击&#x200B;**Microsoft Dynamics**。
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 选择 **下载Marketo解决方案**。
+1. 选择&#x200B;**下载Marketo Solution**。
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
