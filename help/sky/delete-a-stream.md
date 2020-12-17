@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. 单击选 **[!UICONTROL Streams]** 项卡。
+1. 单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >删除流将导致丢失
    >流中的内容。
 
-1. 单击齿轮图标，然后选择 **[!UICONTROL Delete]**。
+1. 单击齿轮图标，然后选择&#x200B;**[!UICONTROL Delete]**。
 
    ![图3](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
