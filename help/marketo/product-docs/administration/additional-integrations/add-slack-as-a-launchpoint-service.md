@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 将Slack添加为LaunchPoint服务 {#add-slack-as-a-launchpoint-service}
+# 将Slack添加为LaunchPoint服务{#add-slack-as-a-launchpoint-service}
 
 Slack集成包含两种通知类型：
 
 * **系统通知**:获取有关Marketo实例中重要事件的Slack通知，如有关当前活动状态和任何需要立即注意的问题（CRM错误和API限制）的警报。
-* **有趣的时刻**:当Marketo Insight由销售帐户中的已知个人触发时，可通过Slack通知潜在客户所有者。 通知包括潜在客户信息以及有关销售帐户的详细信息。
+* **有趣的时刻**:当Marketo Insight由销售帐户中的已知个人触发时，可通过Slack通知潜在客户所有者。通知包括潜在客户信息以及有关销售帐户的详细信息。
 
 >[!NOTE]
 >
@@ -24,29 +24,29 @@ Slack集成包含两种通知类型：
 
 >[!PREREQUISITES]
 >
->如果您尚未启用Slack系统通知，请与支持 [部门联系](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270)。
+>如果尚未启用Slack系统通知，请[与支持部门](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270)联系。
 
-1. 转到 **LaunchPoint**，然后在“新建” **下** 单击 **“新**&#x200B;建服务”。
+1. 转至&#x200B;**LaunchPoint**，然后在&#x200B;**New**&#x200B;下单击&#x200B;**New Service**。
 
    ![](assets/image2017-11-27-14-3a13-3a18.png)
 
-1. 为Slack集成输入显示名称。 在“服 **务** ”下拉框中，选择 **Slack**。 单击 **创建**。
+1. 为Slack集成输入显示名称。 在&#x200B;**服务**&#x200B;下拉框中，选择&#x200B;**Slack**。 单击&#x200B;**创建**。
 
    ![](assets/image2017-11-27-15-3a54-3a11.png)
 
-1. 单击 **授权**。 这将在新选项卡中打开Slack，您将在该选项卡中完成授权并授予Marketo从Slack中提取信息的权限。
+1. 单击&#x200B;**授权**。 这将在新选项卡中打开Slack，您将在该选项卡中完成授权并授予Marketo从Slack中提取信息的权限。
 
    ![](assets/image2017-11-27-14-3a16-3a6.png)
 
-1. 在新的Slack选项卡中，输入工作区的URL，然后单击继 **续**。
+1. 在新的Slack选项卡中，输入工作区的URL，然后单击&#x200B;**继续**。
 
    ![](assets/image2017-11-27-15-3a1-3a29.png)
 
-1. 输入Slack凭据，然后单 **击登录**。
+1. 输入您的Slack凭据，然后单击&#x200B;**登录**。
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. 在发 **布到下** 拉框中，选择您希望将Market通知发布到的渠道。 查看请求的权限，然后单击“ **授权**”。
+1. 在&#x200B;**发布到**&#x200B;下拉框中，选择您希望将Market通知发布到的渠道。 查看请求的权限，然后单击&#x200B;**授权**。
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
