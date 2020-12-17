@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 发行说明：1918年秋季 {#release-notes-fall}
+# 发行说明：秋季&#39;18 {#release-notes-fall}
 
 1918年秋季版本包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
 请单击标题链接，以视图每个功能的详细文章（如果有）。
 
-## 核心平台增强功能 {#core-platform-enhancements}
+## 核心平台增强功能{#core-platform-enhancements}
 
 **[Web个性化](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 Web个性化现在支持多个工作区。
 
-## 营销人员参与销售 {#marketo-sales-engage}
+## Marketo Sales Engage {#marketo-sales-engage}
 
 * **SFDC闪电支持**:迁移到或当前使用Lightning的用户可以利用MSE在整个购买者旅程中实现更智能的参与。
 
@@ -36,9 +36,9 @@ Web个性化现在支持多个工作区。
 
    * 改进了管理工作流:管理员将在通过“一般管理员设置”启用团队功能时找到一个更高效的工作流程。
 
-## Marketo Sky {#marketo-sky}
+## Marketo Sky{#marketo-sky}
 
-有关更多详细信息和更新，请查 [看我们的Sky发行说明](https://help.marketo.com)。
+有关更多详细信息和更新，请查看我们的[Sky发行说明](https://help.marketo.com)。
 
 * **设计系统更新**
 
@@ -56,9 +56,9 @@ Web个性化现在支持多个工作区。
 * Design Studio列表视图:用户现在能够以视图-视图格式列表登陆页模板和电子邮件模板，从而能够对单个资产类型进行快速导航和批量操作。
 * Design Studio资产详细信息页面：通过在一个位置查看、组织和对所有资产执行批量操作，节省时间并减轻麻烦。
 * **默认项目现在在Marketo Sky中可用**:Marketo Sky现在支持默认项目，这种通用项目样式允许您创建您能想象到的任何活动。
-* **电子邮件项目-阶段1**:您现在可以在Sky中视图电子邮件项目。 了解新设计并告 [诉我们您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)。
+* **电子邮件项目-阶段1**:您现在可以在Sky中视图电子邮件项目。了解新设计并[让我们了解您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)。
 
-## 分析 {#analytics}
+## 分析{#analytics}
 
 **Bizbile**
 
@@ -86,7 +86,7 @@ Web个性化现在支持多个工作区。
 * **按活动日期进行参与**:用户可以按视图日期或费用期选择活动参与度指标。
 * **ABM指定帐户过滤器**:按特定指定帐户过滤渠道和收入仪表板。
 
-## 广告网络 {#ad-networks}
+## 广告网络{#ad-networks}
 
 **[刷新令牌](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
