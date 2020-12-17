@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 直接在营销日历中编辑条目 {#edit-entries-directly-in-the-marketing-calendar}
+# 直接在营销日历{#edit-entries-directly-in-the-marketing-calendar}中编辑条目
 
 进入项目焦点模式后，您可以快速更改日历条目。 这是方法。
 
-## 启用项目焦点 {#enable-program-focus}
+## 启用项目焦点{#enable-program-focus}
 
-1. 转到日 **历**。
+1. 转到&#x200B;**日历**。
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. 选择属于要聚焦的项目的条目，然后单击“显示 **项目焦点”**。
+1. 选择属于要聚焦的项目的条目，然后单击&#x200B;**显示项目焦点**。
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
-## 重新计划录入 {#reschedule-entry}
+## 重新计划条目{#reschedule-entry}
 
 1. 只需拖放一个条目即可重新计划它。
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
-## 编辑条目名称 {#edit-entry-name}
+## 编辑条目名称{#edit-entry-name}
 
 1. 选择要重命名的条目。
 
@@ -46,9 +46,9 @@ ht-degree: 0%
    >您还可以编辑描述。
    >
    >
-   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
 
-## 转换输入类型 {#convert-entry-type}
+## 转换条目类型{#convert-entry-type}
 
 在基本条目中快速进行了铅笔注释后，可以将它们转换为最终形式。
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
-## 编辑条目详细信息 {#edit-entry-details}
+## 编辑条目详细信息{#edit-entry-details}
 
 您可以快速访问条目的不同区域进行编辑。
 
