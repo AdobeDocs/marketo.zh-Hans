@@ -20,11 +20,11 @@ ht-degree: 0%
 >
 >CRM活动我的令牌仅可用于Salesforce集成。
 
-1. 在项目或文件夹的“我的令牌”选项卡中，将一个令牌 **[!UICONTROL CRM Campaign]** 拖动到“本地令牌”画布。
+1. 在您的项目或文件夹的“我的令牌”选项卡中，将&#x200B;**[!UICONTROL CRM Campaign]**&#x200B;令牌拖到“本地令牌”画布。
 
    ![图像1](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. 输入新令牌的名称，然后从下拉列表中选择CRM活动。 单击 **[!UICONTROL Save]**。
+2. 输入新令牌的名称，然后从下拉列表中选择CRM活动。 单击&#x200B;**[!UICONTROL Save]**。
 
    ![图像2](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 
