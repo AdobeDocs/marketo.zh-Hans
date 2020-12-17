@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 向电子邮件中添加模块 {#add-modules-to-your-email}
+# 将模块添加到电子邮件{#add-modules-to-your-email}
 
 在电子邮件编辑器2.0中，模块是电子邮件中在模板中定义的一部分。 模块可能包含元素、变量和其他HTML内容的任意组合。 将它们添加到电子邮件很简单。
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >大多数Marketo Starter模板都包含模块。 您也可以创 [建自己的作品](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)。
+   >大多数Marketo Starter模板都包含模块。 您还可以[创建您自己的](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)。
 
-1. 在电子邮件的最右侧，单击“模 **块”**。
+1. 在电子邮件的最右侧，单击&#x200B;**模块**。
 
    ![](assets/two-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-## 在电子邮件中移动模块 {#moving-a-module-within-an-email}
+## 在电子邮件{#moving-a-module-within-an-email}中移动模块
 
 移动模块有两种方法。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/nine-2.png)
 
-1. 单击齿轮图标，然 **后选择** “上 **移”或“下**&#x200B;移”，具体取决于您希望模块放置的位置。
+1. 单击齿轮图标，然后根据您希望模块转到的位置选择&#x200B;**上移**&#x200B;或&#x200B;**下移**。
 
    ![](assets/ten-2.png)
 
