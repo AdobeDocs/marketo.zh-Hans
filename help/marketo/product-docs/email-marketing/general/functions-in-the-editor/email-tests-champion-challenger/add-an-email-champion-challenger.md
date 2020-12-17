@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 添加电子邮件冠军／挑战者 {#add-an-email-champion-challenger}
+# 添加电子邮件冠军／挑战者{#add-an-email-champion-challenger}
 
 最好测试您经常使用的电子邮件，以确保它们正常工作。 一种方法是将电子邮件的有效性与其他版本或挑战者进行比较。 在冠军／挑战者测试中，您可以测试整个电子邮件、主题行或发件人地址。\
 您正在测试的现有电子邮件被视为冠军。 您在测试中创建的任何变体都被视为挑战者。 您确定接收冠军内容或挑战者内容的人所占的百分比。 如果你定义了多个挑战者，他们将在挑战者小组中平等分配。\
@@ -28,9 +28,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->冠军／挑战者电子邮件只能与触发活动和互动项目流配合使用。 对于批量邮件，请使用电子邮件项目 [的A/B测试功能](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。
+>冠军／挑战者电子邮件只能与触发活动和互动项目流配合使用。 对于批量邮件，请使用电子邮件项目的[A/B测试功能](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >对于一次性邮件爆炸，了解有关电子邮件 [项目的更多信息](http://docs.marketo.com/display/docs/email+programs)。
+   >对于一次性邮件爆炸，了解有关[电子邮件项目](http://docs.marketo.com/display/docs/email+programs)的更多信息。
 
-1. 在“电 **子邮件操作**”下，单 **击“新建测试**”。
+1. 在&#x200B;**电子邮件操作**&#x200B;下，单击&#x200B;**新建测试**。
 
    ![](assets/chmapion2.jpg)
 
