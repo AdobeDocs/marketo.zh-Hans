@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 筛选关键字结果 {#seo-filter-keyword-results}
+# SEO —— 筛选关键字结果{#seo-filter-keyword-results}
 
-您可能有很多关 [键字](seo-understanding-keywords.md)。 以下是筛选它们的不同方法：
+您可能有很多[关键字](seo-understanding-keywords.md)。 以下是筛选它们的不同方法：
 
-## 按列表筛选 {#filter-by-list}
+## 按列表{#filter-by-list}过滤
 
-1. 转到“关键 **字** ”部分。
+1. 转到&#x200B;**关键字**&#x200B;部分。
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,27 +27,27 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您看不到任何列表, [我](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)[将学会如何制作关键字列表](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)。
+   >如果看不到任何列表,[l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [将学习如何制作关键字列表](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)。
 
 真贴心！ 您现在只查看该列表的关键字。
 
-## 按SERP排名过滤 {#filter-by-serp-rank}
+## 按SERP排名筛选{#filter-by-serp-rank}
 
 1. 转至关键字部分。
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   橙色正方形定义了上限（左）和下限（右）。 过滤器对关键字的SERP排 [名起作用](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)。
+   橙色正方形定义了上限（左）和下限（右）。 过滤器对关键字的[SERP排名](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)起作用。
 
 1. 左／右滑动橙色方块以筛选结果。
 
    ![](assets/image2014-9-18-12-3a0-3a15.png)
 
-## 按搜索筛选 {#filter-by-search}
+## 按搜索筛选{#filter-by-search}
 
 您还可以使用右上角的搜索字段找到要查找的关键字。
 
-1. 转到“关键 **字** ”部分。
+1. 转到&#x200B;**关键字**&#x200B;部分。
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
