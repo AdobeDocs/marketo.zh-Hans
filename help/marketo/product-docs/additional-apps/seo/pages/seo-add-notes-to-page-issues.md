@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 向页面问题添加注释 {#seo-add-notes-to-page-issues}
+# SEO —— 向页面问题添加注释{#seo-add-notes-to-page-issues}
 
 您是否知道可以将注释作为个人提醒或团队消息添加到页面问题？
 
-## 在“页面问题”部分添加备注 {#adding-notes-in-page-issues-section}
+## 在“页面期刊”部分{#adding-notes-in-page-issues-section}中添加备注
 
 1. 转到“页面”部分。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 >
 >单击左上角的小x可删除注释。
 
-## 在页面详细信息展开中添加附注 {#add-notes-in-page-detail-drill-down}
+## 在页面详细信息向下钻取{#add-notes-in-page-detail-drill-down}中添加注释
 
 1. 转到“页面”部分。
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. 将指针悬停在要添加备注的页面问题上并单击“添 **加备注”**。
+1. 将指针悬停在要添加备注的页面问题上并单击&#x200B;**添加备注**。
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. 输入您的备注。 单击 **保存**。
+1. 输入您的备注。 单击&#x200B;**SAVE**。
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
