@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 删除人员 {#delete-person}
+# 删除人员{#delete-person}
 
 有时，错误的人会进入您的数据库。 删除人员流步骤可以删除它们。
 
-## 概述 {#overview}
+## 概述{#overview}
 
 在智能活动中使用流步骤。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >删除人员时，其所有历史RCE数据也将被删除。 无法撤消。
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
 当您拖入流步骤时，也会自动将其设置为从您的CRM中删除。
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->从CRM中删除人员仅 **适用于Salesforce**。 如果您从Marketo中删除某人并选择将其保留在Salesforce中，则如果其Salesforce记录有更新，则将在Marketo中重新创建他们。
+>从CRM **中删除人员仅适用于Salesforce**。 如果您从Marketo中删除某人并选择将其保留在Salesforce中，则如果其Salesforce记录有更新，则将在Marketo中重新创建他们。
 
