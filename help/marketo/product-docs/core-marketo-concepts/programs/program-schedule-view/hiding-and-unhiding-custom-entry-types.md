@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 隐藏和取消隐藏自定义条目类型 {#hiding-and-unhiding-custom-entry-types}
+# 隐藏和取消隐藏自定义条目类型{#hiding-and-unhiding-custom-entry-types}
 
 自定义条目类型可隐藏在“管理员”部分。 隐藏后，条目类型将不再显示为选项。
 
-## 隐藏自定义条目类型 {#hide-a-custom-entry-type}
+## 隐藏自定义条目类型{#hide-a-custom-entry-type}
 
-1. 转至“管理员 **”部分** ，单 **击** “日历 **条** 目 **类**&#x200B;型”。
+1. 转至&#x200B;**Admin**&#x200B;部分，然后单击&#x200B;**Calendar** **Entry** **Types**。
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. 右键单击自定义条目，然后单击“ **隐藏**”。
+1. 右键单击自定义条目，然后单击&#x200B;**隐藏**。
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
    太棒了。 此条目类型将不再可用。
 
-## 取消隐藏自定义条目类型 {#unhide-a-custom-entry-type}
+## 取消隐藏自定义条目类型{#unhide-a-custom-entry-type}
 
 如果要取消隐藏自定义条目类型，也很容易。
 
-1. 右键单击您的条目，然后选择“ **取消隐藏**”。
+1. 右键单击您的条目，然后选择&#x200B;**取消隐藏**。
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 
