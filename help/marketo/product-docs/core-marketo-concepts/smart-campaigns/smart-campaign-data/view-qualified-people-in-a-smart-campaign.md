@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 视图智能活动中的合格人员 {#view-qualified-people-in-a-smart-campaign}
+# 视图智能活动中的合格人员{#view-qualified-people-in-a-smart-campaign}
 
 视图在您运行智能活动时有资格体验流程的人员。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >触发智能活动不会显示合格人员，因为他们基于实时事件运行。
 
-1. “合 **格人员** ”选项卡列表在活动运行时有资格通过流程的人员。
+1. **合格人员**&#x200B;选项卡列表在活动运行时有资格通过流程的人员。
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >合格人数还取决于聪明的活动资格规则。 了解如何编 [辑资格规则](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)。
+   >合格人数还取决于聪明的活动资格规则。 了解如何[编辑资格规则](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)。
 
 真贴心！ 您可以使用此列表检查哪些人在运行智能活动之前可能会流程。
 
