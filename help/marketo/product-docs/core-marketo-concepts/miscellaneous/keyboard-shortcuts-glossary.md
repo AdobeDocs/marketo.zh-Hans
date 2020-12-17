@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 键盘快捷键词汇表 {#keyboard-shortcuts-glossary}
+# 键盘快捷键词汇表{#keyboard-shortcuts-glossary}
 
 您是键盘快捷键吗？ 我们掩护你！
 
-## 区域导航： {#area-navigation}
+## 区域导航：{#area-navigation}
 
 | 键盘快捷键 | 区域 |
 |---|---|
@@ -29,7 +29,7 @@ ht-degree: 0%
 | 选择+ O | 我的营销人员 |
 | Alt/Opt + S | 下拉菜单 |
 
-## 日历/计划视图导航：  {#calendar-schedule-view-navigation}
+## 日历/计划视图导航： {#calendar-schedule-view-navigation}
 
 | 键盘快捷键 | 操作 |
 |---|---|
@@ -37,7 +37,7 @@ ht-degree: 0%
 | Alt/Opt +向下箭头键 | 及时前进 |
 | Alt/Opt + T | 转到“今天” |
 
-## 杂项： {#miscellaneous}
+## 杂项：{#miscellaneous}
 
 | 键盘快捷键 | 操作 |
 |---|---|
