@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 编辑“不跟踪”浏览器支持设置 {#edit-do-not-track-browser-support-settings}
+# 编辑“不跟踪”浏览器支持设置{#edit-do-not-track-browser-support-settings}
 
 “Do Not Track”是一个浏览器请求，不能在Marketo等系统中跟踪。 您可以按照以下步骤执行该请求。
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 单击 **Munchkin**。
+1. 单击&#x200B;**Munchkin**。
 
    ![](assets/two.png)
 
-1. 在“人 **员跟踪**”下，单 **击编辑**。
+1. 在&#x200B;**人员跟踪**&#x200B;下，单击&#x200B;**编辑**。
 
    ![](assets/three-2.png)
 
-1. 选择 **支持** ，然后单 **击保存**。
+1. 选择&#x200B;**支持**&#x200B;并单击&#x200B;**保存**。
 1. ![](assets/four-1.png)
 
    保存更改后，您将看到更新。
@@ -48,5 +48,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要进一步了解“不跟踪”及其工作方式，请访 [问此页](https://en.wikipedia.org/wiki/Do_Not_Track)。
+   >要进一步了解“Do Not Track”及其工作方式，请访问[此页](https://en.wikipedia.org/wiki/Do_Not_Track)。
 
