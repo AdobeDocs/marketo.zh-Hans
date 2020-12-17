@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-1.png)
 
-1. 右键单击并选择 **[!UICONTROL Move]**。
+1. 右键单击并选择&#x200B;**[!UICONTROL Move]**。
 
    ![图像2](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![图3](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
-1. 单击 **[!UICONTROL Move]**。
+1. 单击&#x200B;**[!UICONTROL Move]**。
 
    ![图像4](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-4.png)
