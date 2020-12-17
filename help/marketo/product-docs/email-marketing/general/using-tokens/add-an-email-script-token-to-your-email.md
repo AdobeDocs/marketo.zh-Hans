@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 向电子邮件中添加电子邮件脚本令牌 {#add-an-email-script-token-to-your-email}
+# 将电子邮件脚本令牌添加到电子邮件{#add-an-email-script-token-to-your-email}
 
-创建电子 [邮件脚本后，](create-an-email-script-token.md)您需要将其添加到电子邮件中，以查看其实际操作情况。 这是方法。
+创建[电子邮件脚本后，您需要将其添加到电子邮件中，以查看其实际操作情况。 ](create-an-email-script-token.md)这是方法。
 
 >[!NOTE]
 >
@@ -55,6 +55,6 @@ ht-degree: 0%
 >
 >**提醒**
 >
->别忘了批准 [电子邮件](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
+>别忘了[批准电子邮件](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
 
 就这样！ 发送此电子邮件时，令牌后面的脚本将运行并填充内容。
