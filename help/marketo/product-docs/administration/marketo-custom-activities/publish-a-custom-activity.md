@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 发布自定义活动 {#publish-a-custom-activity}
+# 发布自定义活动{#publish-a-custom-activity}
 
 您的自定义活动完全符合您的需要。 现在，该发布了！
 
-1. 单击 **管理**。
+1. 单击&#x200B;**管理员**。
 
    ![](assets/one-2.png)
 
-1. 在“数 **据库管理** ”中， **单击“Marketto Custom活动**”。
+1. 在&#x200B;**活动库管理**&#x200B;中，单击&#x200B;**Marketto Custom Sates**。
 
    ![](assets/two-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. 单击“ **自定义活动** ”下拉框，然后选 **择“发布活动”**。
+1. 单击&#x200B;**自定义活动操作**&#x200B;下拉框，然后选择&#x200B;**发布活动**。
 
    ![](assets/four-2.png)
 
