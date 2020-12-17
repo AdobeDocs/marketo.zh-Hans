@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 重命名智能活动 {#rename-a-smart-campaign}
+# 重命名智能活动{#rename-a-smart-campaign}
 
 您可以更改现有智能活动的名称。 这是方法。
 
