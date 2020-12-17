@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 测试参与流 {#test-an-engagement-stream}
+# 测试参与流{#test-an-engagement-stream}
 
 将所有内容添加到流后，您可以一次测试它们一个部分。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 单击**项目操作**并选择测 **试流**。
+1. 单击**项目操作**并选择&#x200B;**测试流**。
 
    ![](assets/three.png)
 
@@ -37,12 +37,12 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果要查找的测试人员不存在，请使用“创 **建人员** ”选项即时创建。
+   >如果要查找的测试人员不存在，请使用&#x200B;**创建人员**&#x200B;选项即时创建一个。
 
    单击“初始流”，选择要测试的流，然后单击“运行转换”。
    ![](assets/five-rubiks.png)
 
-1. 在人员完成之前设置 [的过渡](transition-people-between-engagement-streams.md) 规则后，单击“刷新”图标。
+1. 在人员完成之前设置的[过渡规则](transition-people-between-engagement-streams.md)后，单击“刷新”图标。
 
    ![](assets/six-rubiks.png)
 
