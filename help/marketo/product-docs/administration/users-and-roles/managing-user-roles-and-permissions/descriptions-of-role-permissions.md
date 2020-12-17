@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 角色权限描述 {#descriptions-of-role-permissions}
+# 角色权限描述{#descriptions-of-role-permissions}
 
 以下是可分配给角色的所有可用权限的列表。 权限通常与Marketo中的特定功能区域相关联，并可以帮助您控制不同用户有权访问的区域和功能。
 
@@ -21,13 +21,13 @@ ht-degree: 0%
 * 要使角色能够访问子权限（“创建”、“删除”等），该角色必须对应用程序的该部分具有“访问”权限。 例如，如果要为某人授予“编辑活动”权限，则他们必须具有访问营销活动的整体权限。
 * 您可能能够看到您没有权限使用的操作或资产。 但是，如果尝试访问它们，您会看到一条消息，警告您有关有限访问的信息。
 
-## 可用权限 {#available-permissions}
+## 可用权限{#available-permissions}
 
-创建或 [编辑角色时](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)，可以通过选中相应的框来选择允许该角色的下列权限之一。
+在[创建或编辑角色](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)时，您可以选中相应的框，从以下权限中选择允许该角色的权限。
 
 ![](assets/createnewrole.png)
 
-## 访问管理员  {#access-admin}
+## 访问管理员{#access-admin}
 
 视图并更改管理员的“我的帐户”部分中的设置。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 * 访问渠道-允许用户只能修改渠道标记，而不能修改其他自定义标记
 * 访问通信限制——授予用户在管理员中启用通信限制的权限
 * 访问CRM —— 让用户在管理员中访问CRM，如Salesforce或Microsoft Dynamics
-* 访 [问Data.com](http://Data.com) —— 为用户提供对Data.com流动操作的访问权
+* 访问[Data.com](http://Data.com) —— 为用户提供对Data.com流动操作的访问权限
 * 访问电子邮件管理员——向用户提供电子邮件管理员以更改默认设置，如取消订阅和品牌域
 * 访问事件合作伙伴——允许用户在管理员中访问LaunchPoint
 * 访问字段管理——向用户授予在管理员中访问字段管理的权限
@@ -59,9 +59,9 @@ ht-degree: 0%
 * 访问Webhooks —— 向用户提供管理员中的Webhooks，以设置详细信息和响应映射
 * 访问工作区和分区——允许用户在管理员中创建、编辑和删除工作区和分区
 
-## 访问API  {#access-api}
+## 访问API {#access-api}
 
-为具有“仅 **API****角色** ”(Only API Role)的用户提供对下面列出的单个API的访问权限。
+向具有&#x200B;**API Only** **Role**&#x200B;的用户授予对下面列出的单个API的访问权限。
 
 * 批准资产
 * 执行活动
@@ -94,7 +94,7 @@ ht-degree: 0%
 * 删除报表——取消检查删除用户删除报表的能力
 * 导出分析数据——取消检查会删除用户导出Analytics数据的能力
 
-## 访问日历Presentations {#access-calendar-presentations}
+## 访问日历Presentations{#access-calendar-presentations}
 
 允许用户访问日历演示文稿？-允许在底部显示Presentations按钮？
 
@@ -108,10 +108,10 @@ ht-degree: 0%
 
    * 编辑电子邮件——向用户授予编辑、创建和克隆电子邮件的权限
 
-      * 使电子邮件可操作——向用户授予使电子邮件可操作的权限。 请参阅： [使电子邮件可操作](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * 使电子邮件可操作——向用户授予使电子邮件可操作的权限。 请参阅：[使电子邮件可操作](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
    * 批准电子邮件——允许用户批准电子邮件。
    * 删除电子邮件——允许用户删除电子邮件。
-   * 设置品牌域——使用户能使用品牌域。 请参阅： [添加多个品牌域](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
+   * 设置品牌域——使用户能使用品牌域。 请参阅：[添加多个品牌域](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
 
 
 * 访问电子邮件模板
@@ -154,7 +154,7 @@ ht-degree: 0%
    * 删除社交应用程序
    * 编辑社交应用程序
 
-## 访问数据库 {#access-database}
+## 访问数据库{#access-database}
 
 视图视图库以及和编辑智能／静态列表。
 
@@ -172,11 +172,11 @@ ht-degree: 0%
 * 导入自定义对象
 * 导入列表
 * 合并人员
-* 运行单一流动操作——使用户能够对 **数据库中的人员** 运行更改数据值流步骤
+* 运行单个流动操作——使用户能够对数据库中的人员运行&#x200B;**更改数据值**&#x200B;流步骤
 
 * 视图业务机会数据——隐藏人员详细信息页面上的业务机会信息
 
-## 访问营销活动 {#access-marketing-activities}
+## 访问营销活动{#access-marketing-activities}
 
 视图营销活动选项卡、活动和活动文件夹。
 
@@ -208,7 +208,7 @@ ht-degree: 0%
 * 管理SEO
 * 标准SEO
 
-## 定位和个性化 {#targeting-and-personalization}
+## 定位和个性化{#targeting-and-personalization}
 
 * 管理Web个性化
 * CRE活动编辑器
