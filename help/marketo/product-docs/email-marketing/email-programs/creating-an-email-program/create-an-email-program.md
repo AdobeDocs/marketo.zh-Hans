@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 创建电子邮件项目 {#create-an-email-program}
+# 创建电子邮件项目{#create-an-email-program}
 
 使用电子邮件项目快速轻松地向一组人员发送电子邮件。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/one.png)
 
-1. 选择要在中创建项目的文件夹，单击 **新建** 下拉框，然后选 **择新项目**。
+1. 选择要在中创建项目的文件夹，单击&#x200B;**新建**&#x200B;下拉框，然后选择&#x200B;**新建项目**。
 
    ![](assets/two.png)
 
-1. 输入名称，选择 **电子邮件** 作为项目类型，然后单击 **创建**。
+1. 输入名称，选择&#x200B;**电子邮件**&#x200B;作为项目类型，然后单击&#x200B;**创建**。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >选择“ **电子邮件** ”作为项目类型时，渠道将自动设置为“电子邮 **件发送”**。 您可以根据需要更改它。
+   >选择&#x200B;**Email**&#x200B;作为项目类型时，渠道将自动设置为&#x200B;**Email Send**。 您可以根据需要更改它。
 
    ![](assets/four.png)
 
 不错！ 注意，项目现在在树中，可供使用。 下一步是定义您的受众。 请参阅下面的营销人员相关文章。
 
-## 观看视频 {#watch-a-video}
+## 观看视频{#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
