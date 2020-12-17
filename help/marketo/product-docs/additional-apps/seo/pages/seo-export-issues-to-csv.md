@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # SEO —— 将问题导出到CSV {#seo-export-issues-to-csv}
 
-1. 如果您希望与 [市场营销人员](seo-understanding-pages.md) （Marketo之外的人员）共享页面期刊数据，可以将该数据导出到CSV文件。 这是方法。
-1. 转到“页 **面** ”部分。
+1. 如果您希望与市场以外的人员共享您的[页面问题](seo-understanding-pages.md)数据，可以将该数据导出到CSV文件。 这是方法。
+1. 转到&#x200B;**页**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   这是页面详 [细信息向下钻取](seo-using-the-page-detail-drill-down.md)。 **页面优化结果** 是该特定页面所有问题的列表。
+   这是[页面详细信息向下钻取](seo-using-the-page-detail-drill-down.md)。 **页面优** 化结果是该特定页面所有问题的列表。
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
-1. 单击“ **导出**”。
+1. 单击&#x200B;**导出**。
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 
