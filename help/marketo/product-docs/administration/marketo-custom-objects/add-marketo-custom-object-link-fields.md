@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# 添加Marketto自定义对象链接字段 {#add-marketo-custom-object-link-fields}
+# 添加Marketto自定义对象链接字段{#add-marketo-custom-object-link-fields}
 
 创建自定义对象时，必须提供链接字段，以便将自定义对象记录连接到正确的父记录。
 
 * 对于一对多自定义结构，请使用自定义对象中的链接字段将其连接到个人或公司。
 * 对于多对多结构，您使用两个链接字段，它们与单独创建的中间对象（也是一种自定义对象）连接。 一个链接连接到数据库中的人员或公司，另一个链接连接到自定义对象。 在这种情况下，链接字段不位于自定义对象本身中。
 
-## 为一对多结构创建链接字段 {#create-a-link-field-for-a-one-to-many-structure}
+## 为一对多结构{#create-a-link-field-for-a-one-to-many-structure}创建链接字段
 
 下面介绍如何为一对多结构在自定义对象中创建链接字段。
 
-1. 单击 **管理**，在“数据库 **管理”中**，选择 **“Marketo** Custom Objects”。
+1. 单击&#x200B;**Admin**，在&#x200B;**数据库管理**&#x200B;中，选择&#x200B;**Marketto Custom Objects**。
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. 在“字 **段** ”选项卡中，单 **击“新建字段**”。
+1. 在&#x200B;**字段**&#x200B;选项卡中，单击&#x200B;**新建字段**。
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
    >
    >链接字段中仅支持字符串字段类型。
 
-1. 单击“ **保存”。**
+1. 单击&#x200B;**保存。**
 
    ![](assets/image2015-10-5-13-3a34-3a0.png)
 
-## 为多对多结构创建链接字段 {#create-a-link-field-for-a-many-to-many-structure}
+## 为多对多结构{#create-a-link-field-for-a-many-to-many-structure}创建链接字段
 
 下面介绍如何在中间对象中创建链接字段以用于多对多结构。
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 >
 >您必须已创建中间对象以及要将其链接到的任何自定义对象。
 
-1. 单击 **管理**，在“数据库 **管理”中**，选择 **“Marketo** Custom Objects”。
+1. 单击&#x200B;**Admin**，在&#x200B;**数据库管理**&#x200B;中，选择&#x200B;**Marketto Custom Objects**。
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. 在**字段**选项卡中，单击“新建 **字段”**。
+1. 在**字段**选项卡中，单击&#x200B;**新建字段**。
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
    >
    >链接字段中仅支持字符串字段类型。
 
-1. 单击“ **保存”。**
+1. 单击&#x200B;**保存。**
 
    ![](assets/image2016-1-18-9-3a55-3a18.png)
 
@@ -115,7 +115,7 @@ ht-degree: 0%
 
 1. 创建要在中间对象中使用的任何其他字段，如engrolmentID或grade。
 
-## 使用自定义对象 {#using-custom-objects}
+## 使用自定义对象{#using-custom-objects}
 
 下一步是在智能活动的过滤器中使用这些自定义对象。 通过多对多关系，您可以选择多个人/公司和多个自定义对象。 在以下示例中，将列出数据库中符合这些条件的任何人。 coursename字段来自课程自定义对象，而注册级别来自中间对象。
 
