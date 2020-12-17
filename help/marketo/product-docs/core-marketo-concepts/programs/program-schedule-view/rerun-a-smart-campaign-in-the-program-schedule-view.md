@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在活动视图中重新运行智能项目计划 {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# 在项目计划视图{#rerun-a-smart-campaign-in-the-program-schedule-view}中重新运行智能活动
 
 您可以直接从活动视图轻松创建新运行的现有智能项目计划。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以从项目焦点进 [行此操作](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)。
+   >您也可以从[项目焦点](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)执行此操作。
 
 砰！ 就这样，你又安排了一次运行，去那个智能活动。 如果该智能活动包含发送电子邮件的步骤，您也会看到这些步骤！
