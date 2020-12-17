@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 更改审核跟踪中的详细信息 {#change-details-in-audit-trail}
+# 更改审核跟踪{#change-details-in-audit-trail}中的详细信息
 
 Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息。
 
-## 资产审核跟踪 {#asset-audit-trail}
+## 资产审核跟踪{#asset-audit-trail}
 
 <table> 
  <colgroup> 
@@ -32,7 +32,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   <tr> 
    <td rowspan="15">默认项目<br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>创建</td> 
-   <td>渠道类型“渠道类<br><br>型”或从“项目名称”克隆</td> 
+   <td>渠道类型“渠道类型”<br>或<br>从“项目名称”克隆</td> 
   </tr> 
   <tr> 
    <td>重命名</td> 
@@ -40,7 +40,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到工作区“工作区名称” <br>位置“活动文件夹”或“参与项目”克隆 <br>到项目名称“新名称”</td> 
+   <td>克隆到工作区“工作区名称” <br>位置“活动文件夹”或“参与项目” <br>克隆项目名称“new name”</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -93,7 +93,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   <tr> 
    <td rowspan="18">电子邮件<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>创建</td> 
-   <td>使用模板“模板名称”或从“ <br>资 <br>产名称”克隆创建</td> 
+   <td>使用模板“template name”<br>或<br>从“asset name”克隆</td> 
   </tr> 
   <tr> 
    <td>编辑</td> 
@@ -101,11 +101,11 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>编辑</td> 
-   <td>已将“从电子邮件”更<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">新为“[电子邮件保护</a>]”</td> 
+   <td>已将“从电子邮件”更新为“<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>”</td> 
   </tr> 
   <tr> 
    <td>编辑</td> 
-   <td>已将“回复到”更<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">新为“[电子邮件保护</a>]”</td> 
+   <td>已将“回复到”更新为“<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>”</td> 
   </tr> 
   <tr> 
    <td>编辑</td> 
@@ -145,11 +145,11 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到“Design Studio”文件夹“文件夹名称” <br>将资产名称“名称”或克隆<br><br>到“营销活动”项目“项目名称”克隆<br>的资产名称“名称”</td> 
+   <td>克隆到“Design Studio”文件夹“文件夹名称” <br>克隆的资产名称“name”<br>或<br>克隆到“营销活动”项目“项目名称”<br>克隆的资产名称“name”</td> 
   </tr> 
   <tr> 
    <td>移动</td> 
-   <td>已移至“Design Studio”文件夹“文件夹名称”<br><br>或已移至“营销活动”项目“项目名称”</td> 
+   <td>已移至“Design Studio”文件夹“文件夹名称”<br>或<br>已移至“营销活动”项目“项目名称”</td> 
   </tr> 
   <tr> 
    <td>批准</td> 
@@ -161,12 +161,12 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>草稿</td> 
-   <td>起草电子邮件是因为批准了片段“片段名称”,<br><br>而起草电子邮件是因为批准了模板“模板名称”</td> 
+   <td>起草电子邮件是因为已批准片段“片段名称”<br>或<br>起草电子邮件是因为已批准模板“模板名称”</td> 
   </tr> 
   <tr> 
    <td rowspan="17">电子邮件项目</td> 
    <td>创建</td> 
-   <td>渠道类型“渠道类<br><br>型”或从“项目名称”克隆</td> 
+   <td>渠道类型“渠道类型”<br>或<br>从“项目名称”克隆</td> 
   </tr> 
   <tr> 
    <td colspan="1">重命名</td> 
@@ -174,7 +174,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到工作区“工作区名称” <br>位置“活动文件夹或参与项目”克隆 <br>到项目名称“新名称”</td> 
+   <td>克隆到工作区“工作区名称” <br>位置“活动文件夹或参与项目” <br>克隆的项目名称“new name”</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -255,7 +255,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到“文件夹名称” <br> 克隆的资产名称“名称”</td> 
+   <td>克隆到“文件夹名称” <br>克隆的资产名称“名称”</td> 
   </tr> 
   <tr> 
    <td>批准</td> 
@@ -268,7 +268,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   <tr> 
    <td rowspan="23">参与项目</td> 
    <td>创建</td> 
-   <td>渠道类型“渠道类型<br> ”或从<br> “项目名称”克隆</td> 
+   <td>渠道类型“渠道类型”<br>或<br>从“项目名称”克隆</td> 
   </tr> 
   <tr> 
    <td>重命名</td> 
@@ -276,7 +276,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到工作区“工作区名称” <br>位置“活动文件夹或参与项目”克隆 <br>到项目名称“新名称”</td> 
+   <td>克隆到工作区“工作区名称” <br>位置“活动文件夹或参与项目” <br>克隆的项目名称“new name”</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -300,19 +300,19 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>修改项目流</td> 
-   <td>添加<br>contentSteam名称“stream name”<br>键入“Email”或“项目”<br>名称“email name”或“项目名称”智<br>能活动“智能活动名称”</td> 
+   <td>添加内容<br>流名称“stream name”<br>键入“Email”或“项目”<br>名称“email name”或“项目名称”<br>智能活动“智能活动名称”</td> 
   </tr> 
   <tr> 
    <td>修改项目流</td> 
-   <td>激活<br>内容流名称“流名<br>称”内容名称“电子邮件名称”或“项目名称”</td> 
+   <td>激活内容<br>流名称“stream name”<br>内容名称“email name”或“项目名称”</td> 
   </tr> 
   <tr> 
    <td>修改项目流</td> 
-   <td>取消<br>激活内容流名称“<br>流名称”内容名称“电子邮件名称”或“项目名称”</td> 
+   <td>取消激活内容<br>流名称“流名称”<br>内容名称“电子邮件名称”或“项目名称”</td> 
   </tr> 
   <tr> 
    <td>修改项目流</td> 
-   <td>删<br>除内容流名称“stream name”<br>内容名称“email name”或“项目名”</td> 
+   <td>删除内容<br>流名称“流名称”<br>内容名称“电子邮件名称”或“项目名称”</td> 
   </tr> 
   <tr> 
    <td>修改项目令牌</td> 
@@ -361,7 +361,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   <tr> 
    <td rowspan="18">事件项目</td> 
    <td>创建</td> 
-   <td>渠道类型“渠道类<br><br>型”或从“项目名称”克隆</td> 
+   <td>渠道类型“渠道类型”<br>或<br>从“项目名称”克隆</td> 
   </tr> 
   <tr> 
    <td>重命名</td> 
@@ -373,7 +373,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到工作区“工作区名称” <br>位置“活动文件夹”或“参与项目”克隆 <br>到项目名称“新名称”</td> 
+   <td>克隆到工作区“工作区名称” <br>位置“活动文件夹”或“参与项目” <br>克隆项目名称“new name”</td> 
   </tr> 
   <tr> 
    <td>编辑渠道</td> 
@@ -479,11 +479,11 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到“Design Studio”文件夹“文件夹名称” <br>将资产名称“名称”或克隆<br><br>到“营销活动”项目“项目名称”克隆<br>的资产名称“名称”</td> 
+   <td>克隆到“Design Studio”文件夹“文件夹名称” <br>克隆的资产名称“name”<br>或<br>克隆到“营销活动”项目“项目名称”<br>克隆的资产名称“name”</td> 
   </tr> 
   <tr> 
    <td>移动</td> 
-   <td>已移至“Design Studio”文件夹“文件夹名称”<br><br>或已移至“营销活动”项目“项目名称”</td> 
+   <td>已移至“Design Studio”文件夹“文件夹名称”<br>或<br>已移至“营销活动”项目“项目名称”</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -493,7 +493,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   <tr> 
    <td rowspan="9">登陆页</td> 
    <td>创建</td> 
-   <td>使用模板“模板名称”或从“ <br>资 <br>产名称”克隆创建</td> 
+   <td>使用模板“template name”<br>或<br>从“asset name”克隆</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -509,11 +509,11 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到“Design Studio”文件夹“<br>文件夹名称”克隆资<br>产名称“名称”克隆资产URL“www.url.com”<br><br>或克隆到“营销活动”项目“项目名称”克隆 <br>资产名称“名称”克隆<br>资产URL“www.url.com”</td> 
+   <td>克隆到“Design Studio”文件夹“文件夹名称”<br>克隆的资产名称“name”<br>克隆的资产URL“www.url.com”<br>或<br>克隆到“营销活动”项目“项目名称”<br>克隆的资产名称“name”<br>克隆的资产URL“www.url.com”</td> 
   </tr> 
   <tr> 
    <td>移动</td> 
-   <td>已移至“Design Studio”文件夹“文件夹名称”<br> 或<br> “营销活动”项目“项目名称”</td> 
+   <td>已移至“Design Studio”文件夹“文件夹名称”<br>或<br>已移至“营销活动”项目“项目名称”</td> 
   </tr> 
   <tr> 
    <td>批准</td> 
@@ -530,7 +530,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   <tr> 
    <td rowspan="8">登陆页模板</td> 
    <td>创建</td> 
-   <td><p>从“<br><br>资源名称”克隆Blankor</p></td> 
+   <td><p>空白<br>或<br>从“资产名称”克隆</p></td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -571,7 +571,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到“Person Database”文件夹“Foldername” <br>将资产名称“name”或克隆<br><br>到“Marketing活动”项目“项目名称”克隆<br>的资产名称“name”</td> 
+   <td>克隆到文件夹“文件夹名称”<br>中的“人员活动库”，克隆资产名称“name”<br>或<br>克隆到“营销”，克隆到项目“项目名称”<br>克隆资产名称“name”</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -600,7 +600,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>移动</td> 
-   <td>已移至“项目”项目“项目名”<br><br>或已移至“文件夹”文件夹“文件夹名称”</td> 
+   <td>已移至“项目”项目“项目名称”<br>或<br>，已移至“文件夹”文件夹“文件夹名称”</td> 
   </tr> 
   <tr> 
    <td>重命名</td> 
@@ -616,7 +616,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到“项目”到项目“项目名” <br>将资产名称“名<br><br>称”或克隆到“文件夹”到文件夹“文件夹名称”克隆<br>的资产名称“名称”</td> 
+   <td>克隆到“项目”到项目“项目名称” <br>克隆的资产名称“name”<br>或<br>克隆到“文件夹”到文件夹“文件夹名称”<br>克隆的资产名称“name”</td> 
   </tr> 
   <tr> 
    <td>修改智能列表设置</td> 
@@ -653,7 +653,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到“人员活动库”文件夹“文件夹名称” <br>将资产名称“名称”或克隆<br><br>到“营销”项目“项目名称”克隆 <br>资产名称“名称”</td> 
+   <td>克隆到文件夹“文件夹名称”<br>中的“人员活动库”，克隆资产名称“name”<br>或<br>克隆到“营销”，克隆到项目“项目名称”<br>克隆资产名称“name”</td> 
   </tr> 
   <tr> 
    <td>修改智能列表设置</td> 
@@ -662,7 +662,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   <tr> 
    <td rowspan="11">片段</td> 
    <td>创建</td> 
-   <td><p>从“<br><br>片段名称”克隆Blankor</p></td> 
+   <td><p>空白<br>或<br>从“片段名称”克隆</p></td> 
   </tr> 
   <tr> 
    <td>编辑</td> 
@@ -707,7 +707,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
  </tbody> 
 </table>
 
-## 管理员审核跟踪 {#admin-audit-trail}
+## 管理员审核跟踪{#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -743,7 +743,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   <tr> 
    <td rowspan="3">角色<br><br></td> 
    <td>创建</td> 
-   <td>使用“角色名称”创建的角色(注意：如果您需要有关已添加权限的详细信息，请与支持部门联 <br>系)-显示分配给角色的权限快照</td> 
+   <td>使用“角色名称”创建的角色(注意：如果您需要有关已添加权限的详细信息，请与支持部门联系)- <br>显示分配给角色的权限快照</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -751,7 +751,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   </tr> 
   <tr> 
    <td>编辑</td> 
-   <td>角色已从“以前的名称”编辑为“新名称”(注意：如果您需要有关已编辑权限的详细信息，请与支持部门联 <br>系)-显示分配给角色的权限快照<br></td> 
+   <td>角色已从“以前的名称”编辑为“新名称”(注意：如果您需要有关已编辑权限的详细信息，请与支持部门联系)- <br>显示分配给角色的权限快照<br></td> 
   </tr> 
   <tr> 
    <td>智能列表报表</td> 
@@ -761,7 +761,7 @@ Audit Trail优惠了解Marketo订阅中谁在做什么。 下面是详细信息�
   <tr> 
    <td rowspan="7">用户<br><br><br><br></td> 
    <td>创建（邀请）</td> 
-   <td>受邀用户：电子邮件“电子邮件地址”、名称“名字和姓氏”、访问过期时间“空白或带有日期”、API用户“真或假”-显 <br>示分配给用户的角色和工作区快照</td> 
+   <td>受邀用户：电子邮件“电子邮件地址”、名称“名字和姓氏”、访问过期时间“空白或带有日期”、API用户“true或false”- <br>显示分配给用户的角色和工作区的快照</td> 
   </tr> 
   <tr> 
    <td colspan="1">删除</td> 
