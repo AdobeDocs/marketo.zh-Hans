@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 基于帐户的营销概述 {#account-based-marketing-overview}
+# 基于帐户的营销概述{#account-based-marketing-overview}
 
 营销人员，满足基于帐户的营销。 基于帐户的营销，满足营销人员的需求。
 
@@ -47,18 +47,18 @@ Marketo ABM包括三个部分：
 
 Marketo Account Based Marketing还优惠各种工具，在渠道中个性化指定的帐户体验。
 
-* 电子邮件和登陆页 [个性化](http://docs.marketo.com/display/DOCS/Personalization)
-* Web个性 [化](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* URL个性 [化](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* 广告个 [性化](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [个性化再营销](http://docs.marketo.com/display/DOCS/Website+Retargeting) (Personalized Remarketing)
+* 电子邮件和登陆页[个性化](http://docs.marketo.com/display/DOCS/Personalization)
+* Web [个性化](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
+* URL [个性化](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
+* 广告[个性化](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
+* [个性化再](http://docs.marketo.com/display/DOCS/Website+Retargeting) 营销
 
 我进去了！ 如何开始？
 
-我们以为你永远不会问！ ABM可作为您的营销订阅的附加组件提供，因此请联系您的销售代表以实施它。 获得后，请查看本文： [ABM入门](getting-started-with-abm.md)。
+我们以为你永远不会问！ ABM可作为您的营销订阅的附加组件提供，因此请联系您的销售代表以实施它。 获得后，请查看本文：[ABM入门](getting-started-with-abm.md)。
 
 >[!NOTE]
 >
->Marketo ABM中管理的指定帐户可以直接从Web ABM访问，以满足Web个性化需求。 在此处了解 [更多](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM)。
+>Marketo ABM中管理的指定帐户可以直接从Web ABM访问，以满足Web个性化需求。 了解更多[此处](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM)。
 
 欢迎使用Marketo ABM，并享受有针对性的营销！
