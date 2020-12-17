@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在Microsoft中创建任务 {#create-task-in-microsoft}
+# 在Microsoft {#create-task-in-microsoft}中创建任务
 
 作为营销人员，您可以获得有助于销售完成交易的信息。 您可以创建任务，让他们知道他们应该做什么以及何时应该做。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->仅当在智能 **活动中与触发器一起使用**，而非与过滤器一起使用时，此流步骤才有效。
+>仅当在智能活动中与触发器&#x200B;**一起使用时，此流步骤**&#x200B;才能工作，而不是过滤器。
 
 默认情况下，流步骤将如下所示：   ![](assets/msd1.png)
 
@@ -35,5 +35,5 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以在主 `{{lead.tokens}}`题和 `{{company.tokens}}`说明 `{{campaign.tokens}}` 中使 `{{system.tokens}}` 用、以 **及** 在中 ****&#x200B;使用。 有关更 [多详细信息，请参](http://docs.marketo.com/x/c4AR) 阅流步骤令牌。
+>可在&#x200B;**Subject**&#x200B;和&#x200B;**Description**&#x200B;中使用`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`和`{{system.tokens}}`。 有关详细信息，请参阅[流步骤令牌](http://docs.marketo.com/x/c4AR)。
 
