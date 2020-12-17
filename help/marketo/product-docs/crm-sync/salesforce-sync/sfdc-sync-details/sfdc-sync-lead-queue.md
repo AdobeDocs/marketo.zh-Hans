@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SFDC同步：潜在客户队列 {#sfdc-sync-lead-queue}
+# SFDC同步：潜在客户队列{#sfdc-sync-lead-queue}
 
-Marketo允许您向Salesforce潜在客户队 [列添加人员](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) ，以帮助进行潜在客户分发。 下面是详细信息。
+Marketo允许您向[Salesforce潜在客户队列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)添加人员，以帮助进行潜在客户分发。 下面是详细信息。
 
-## 如何在Marketo中将人员分配到队列？ {#how-to-assign-a-person-to-a-queue-in-marketo}
+## 如何在Marketo中将人员分配到队列？{#how-to-assign-a-person-to-a-queue-in-marketo}
 
 您可以使用以下任一流式操作将人员分配到Salesforce潜在客户队列：
 
@@ -26,7 +26,7 @@ Marketo允许您向Salesforce潜在客户队 [列添加人员](https://help.sale
 >
 >不能在Marketo中创建或更改队列。
 
-## 如果潜在客户所有者信息属于队列，如何存储该信息？ {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
+## 如果潜在客户所有者信息属于队列，如何存储该信息？{#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
 
 如果Salesforce中的队列拥有潜在客户，则这些销售所有者字段将保持为空，直到将潜在客户分配给所有者。
 
