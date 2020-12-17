@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 设置默认自定义字段前缀 {#set-a-default-custom-field-prefix}
+# 设置默认自定义字段前缀{#set-a-default-custom-field-prefix}
 
-自定义字段的默认Microsoft Dynamics前缀必须是 **新的** ,Marketo专有字段才能正确同步。 下面介绍如何更改默认前缀。
+自定义字段的默认Microsoft Dynamics前缀必须为&#x200B;**new**，这样Marketo专有字段才能正确同步。 下面介绍如何更改默认前缀。
 
-1. 转到“设置”并选择“ **自定义”。**
+1. 转到“设置”，然后选择“自定义”。****
 
    ** ![](assets/image2015-10-9-11-3a18-3a8.png)
 
    **
 
-1. 单击“ **发布者**”。
+1. 单击&#x200B;**发布者**。
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. 将前缀更改为 **新**。 单击 **保存并关闭**。
+1. 将前缀更改为&#x200B;**new**。 单击&#x200B;**保存并关闭**。
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. 单击“ **发布所有自定义**”。
+1. 单击&#x200B;**发布所有自定义**。
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 
