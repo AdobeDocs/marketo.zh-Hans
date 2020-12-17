@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 向智能活动添加流步骤 {#add-a-flow-step-to-a-smart-campaign}
+# 向智能活动{#add-a-flow-step-to-a-smart-campaign}添加流步骤
 
 流程步骤告诉Market您希望对符合资格的人员进行的操作。 它们是您的指示，聪明的活动会按您的要求竞价！
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择您的智能活动，然后单 **击流**。
+1. 选择您的智能活动并单击&#x200B;**流**。
 
 ![](assets/image2014-9-19-16-3a27-3a1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 >**深潜**
 >
 >
->进一步了解不同 [的流程步骤](http://docs.marketo.com/display/DOCS/Flow+Actions)。
+>进一步了解不同的[流步骤](http://docs.marketo.com/display/DOCS/Flow+Actions)。
 
 1. 单击下拉列表并选择相应的选项。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >流步骤按其列出顺序执行。  [对流步骤重新排序](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) ，以确保它们按正确的顺序排列。
+   >流步骤按其列出顺序执行。  [对流步](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) 骤重新排序，确保它们按正确的顺序排列。
 
    >[!TIP]
    >
