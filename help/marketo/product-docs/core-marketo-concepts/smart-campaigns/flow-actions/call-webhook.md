@@ -21,7 +21,7 @@ ht-degree: 0%
 
 
 
-## 概述 {#overview}
+## 概述{#overview}
 
 Webhooks允许您与第三方服务交互。 通过在智能活动流中调用Webhook来发送／接收信息。
 
@@ -31,11 +31,11 @@ Webhooks允许您与第三方服务交互。 通过在智能活动流中调用We
 >
 >**深潜**
 >
->了解Webhooks可以为您做 [的很](http://developers.marketo.com/documentation/webhooks/) 多有趣的事情。
+>了解[Webhooks](http://developers.marketo.com/documentation/webhooks/)可以为您做的许多有趣的事情。
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
-从下 **拉菜单中选择** “Webhook”。
+从下拉菜单中选择&#x200B;**Webhook**。
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
