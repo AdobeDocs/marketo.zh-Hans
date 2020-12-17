@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 设置帐户分析 {#setting-up-account-profiling}
+# 设置帐户概要分析{#setting-up-account-profiling}
 
 请按照以下步骤使用帐户分析进行开始。
 
-1. 在我的市场中，基于 **帐户的开放营销**。
+1. 在“我的营销人员”中，打开&#x200B;**基于帐户的营销**。
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. “模型”(Model)选项卡默认处于打开状态。 单击 **开始**。
+1. “模型”(Model)选项卡默认处于打开状态。 单击&#x200B;**开始**。
 
    ![](assets/three.png)
 
-1. 为您的模型命名，选择结果中包含的对象，以及作为理想客户用户档案(ICP)基础的对象。 完成 **后，单击** “创建模型”(Create Model)。
+1. 为您的模型命名，选择结果中包含的对象，以及作为理想客户用户档案(ICP)基础的对象。 完成后，单击&#x200B;**创建模型**。
 
    ![](assets/four.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 要查看模型的结果，请单击“查看模 **型结果”(See Model Result**)。
+1. 要查看模型的结果，请单击&#x200B;**参见模型结果**。
 
    ![](assets/six.png)
 
@@ -45,5 +45,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >现在，您已创建了模型，在“帐户分析概述”中了 [解如何调整它](http://docs.marketo.com/x/NIDv)。
+   >创建模型后，请在[帐户分析概述](http://docs.marketo.com/x/NIDv)中学习如何调整它。
 
