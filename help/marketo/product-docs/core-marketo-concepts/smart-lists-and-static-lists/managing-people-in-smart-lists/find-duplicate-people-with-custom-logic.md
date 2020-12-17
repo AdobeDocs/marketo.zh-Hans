@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用自定义逻辑查找重复 {#find-duplicate-people-with-custom-logic}
+# 查找具有自定义逻辑{#find-duplicate-people-with-custom-logic}的重复
 
 Marketo有一个系统智能列表，通过匹配重复的电子邮件地址来查找客户。 如果要使用其他字段查找重复，请按照以下方式操作。
 
