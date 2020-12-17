@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![横幅](/help/sky/assets/images/alt-sky-banner.png)
 
-该界 [!DNL Marketo Sky] 面利用新的设计、工作流和功能，帮助您获得更多的发 [!DNL Marketo]展。
+[!DNL Marketo Sky]接口利用新的设计、工作流和功能帮助您充分利用[!DNL Marketo]。
 
 ## 入门
 
