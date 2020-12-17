@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在平板电脑上将人物检入事件 {#check-people-into-your-event-from-your-tablet}
+# 将人员从平板电脑{#check-people-into-your-event-from-your-tablet}检入事件
 
 当人们出现在您的事件时，您可以在应用程序中找到他们的信息。 登记后，当您同步到Marketo时，它们将提升为“已出席”状态。
 
@@ -20,26 +20,26 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* 在Marketo中创建事件，并用“已邀请”和“已注册”人员填充它。
->* 下载Android或iOS的平板电 [脑应](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) 用程 [序](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
+>* 下载用于[Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)或[iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)的平板电脑应用程序
 
 >
 
 
 
-## 登记客人 {#check-in-registered-guests}
+## 登记注册客人{#check-in-registered-guests}
 
 1. 点击iPad或Android平板电脑上的应用程序图标。
-1. 点按 **登录** ，启动Marketo事件应用程序。
+1. 点按&#x200B;**登录**&#x200B;以启动Marketo事件应用程序。
 
    ![](assets/1.jpg)
 
-1. 输入您的Marketo用户名和密码，然后单 **击登录**。
+1. 输入您的Marketo用户名和密码，然后单击&#x200B;**登录**。
 
    >[!NOTE]
    >
    >您必须具有对数据库具有访问权限的角色才能查看应用程序中的人员。
 
-1. 选择 **事件**。
+1. 选择&#x200B;**事件**。
 
    ![](assets/2.jpg)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. 点按所选名称，然后在人员记录上点 **按登记**。
+1. 点按所选名称，然后在人员记录上点按&#x200B;**签入**。
 
    ![](assets/img-0068-35-hands.png)
 
@@ -79,13 +79,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果某人受邀但未注册，则可以单击“搜索”框下方的“在服 **务器上搜索**”来搜索该姓名。 事件的“已邀请”状 **态** 更改为“已出席”。
+>如果某人受邀但未注册，则可以单击“搜索”框下的“在服务器上搜索”**来搜索该姓名。**&#x200B;对于事件,“已邀请”状态将更改为&#x200B;**已出席**。
 
-## 在平板电脑上创建新人物 {#create-a-new-person-on-the-tablet}
+## 在平板电脑上创建新人物{#create-a-new-person-on-the-tablet}
 
 您可以在Marketo数据库中手动添加不是现有人员的客人。 它们将在您与Marketo同步时自动签入并添加到您的数据库。
 
-1. 单击 **添加**。
+1. 单击&#x200B;**添加**。
 
    **iPad**
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. 填写尽可能多的基本信息字段并点按完 **成**。
+1. 填写尽可能多的基本信息字段，然后点按&#x200B;**完成**。
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -109,35 +109,35 @@ ht-degree: 0%
 
 新人员已注册为已签入您的事件，并将在您同步到Marketo时添加到具有“已出席”状态的Marketo数据库。
 
-## 撤消登记 {#reverse-a-check-in}
+## 反转签入{#reverse-a-check-in}
 
-如果您在与Marketo同步之前误 *签了某人*，则可以撤消“已出席”状态。
+如果您在与Marketo *同步之前误登记了某人，则可以颠倒“已出席”状态。*
 
-1. 在列表中点按名称，在人员记录中点按撤 **消**。
+1. 点按列表中的名称，然后点按人员记录中的&#x200B;**撤消**。
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
    全部修复！
 
-## 在登记时编辑人员记录 {#edit-a-person-record-at-check-in}
+## 在签入{#edit-a-person-record-at-check-in}时编辑人员记录
 
 您可以直接在事件添加和修改客人信息！
 
-1. 点按人物列表卡中的名称，然后点 **按编辑**。
+1. 点按人物列表卡中的名称，然后点按&#x200B;**编辑**。
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. 编辑信息并将其添加到字段，然后点按 **完成**。
+1. 编辑信息并添加到字段，然后点按&#x200B;**完成**。
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >在Android中，“完 **成** ”按钮可能处于隐藏状态。 向下滚动以找到它。
+   >在Android中，**Done**&#x200B;按钮可能是隐藏的。 向下滚动以找到它。
 
 当您将应用程序与Marketo同步时，信息将会更新。
 
-## 将应用程序与Marketo同步 {#sync-the-app-with-marketo}
+## 将应用程序与Marketo同步{#sync-the-app-with-marketo}
 
 Marketo事件应用程序独立工作，直到您将活动同步回Marketo数据库。 最好在上次登记后尽快同步。 平板电脑必须连接到Internet。
 
@@ -146,13 +146,13 @@ Marketo事件应用程序独立工作，直到您将活动同步回Marketo数据
 >同步后，无法从应用程序撤消登记。
 
 1. 在平板电脑上，打开应用程序并导航到事件。
-1. 点按 **同步**。
+1. 点按&#x200B;**同步**。
 
    您的事件将使用Marketo数据库中的新签入进行更新。 “同步”按钮上的红色计数器将清除，直到您签入其他人。
 
    出于安全原因，您应在同步完成后退出Marketo事件应用程序。
 
-## 使用有限Internet访问 {#working-with-limited-internet-access}
+## 使用受限Internet访问{#working-with-limited-internet-access}
 
 有些地方的互联网接入很差。 您需要与以下对象建立良好的连接：
 
