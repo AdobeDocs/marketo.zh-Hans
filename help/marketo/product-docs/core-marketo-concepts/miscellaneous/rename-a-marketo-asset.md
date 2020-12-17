@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 重命名Marketo资产 {#rename-a-marketo-asset}
+# 将营销人员重命名为资产{#rename-a-marketo-asset}
 
 文件夹、项目和本地资产均可轻松重命名。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-10-17-19-48.png)
 
-1. 在文本字段中键入新名称。 单击 **保存**。
+1. 在文本字段中键入新名称。 单击&#x200B;**保存**。
 
    ![](assets/image2015-4-10-17-3a19-3a33.png)
 
