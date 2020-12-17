@@ -24,7 +24,7 @@ ht-degree: 0%
 
 您可以使用此功能查找在特定日期范围内创建或修改的资产；例如，上周，过去3个月，等等。
 
-默认情况下，Marketo会加载过去六个月内的所有内容。 要更改此设置，请从下拉框中 **[!UICONTROL Choose Date Range]** 选择一个范围。 这些设置很粘滞，下次登录Market时也会应用这些设置。
+默认情况下，Marketo会加载过去六个月内的所有内容。 要更改此设置，请从&#x200B;**[!UICONTROL Choose Date Range]**&#x200B;下拉列表中选择一个范围。 这些设置很粘滞，下次登录Market时也会应用这些设置。
 
 ![图像2](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ![图3](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-3.png)
 
-单击 **X** ，从筛选的搜索中删除标签。
+单击&#x200B;**X**&#x200B;可从筛选的搜索中删除标签。
 
 ![图像4](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-4.png)
 
