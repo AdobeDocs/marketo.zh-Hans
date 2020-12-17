@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 向智能列表过滤器添加多个值 {#add-multiple-values-to-a-smart-list-filter}
+# 向智能列表过滤器{#add-multiple-values-to-a-smart-list-filter}添加多个值
 
 >[!PREREQUISITES]
 >
@@ -22,21 +22,21 @@ ht-degree: 0%
 
 
 
-假设您想要在加利福尼亚找到每个人，但您可能将California和 **CA** 存 **储在数** 据库中。 要包含所有适用人员，您可以使 **用两** 个州过滤器，但一个更简单。
+假设您想要找到加利福尼亚的所有人，但您可能同时将&#x200B;**California**&#x200B;和&#x200B;**CA**&#x200B;存储在您的数据库中。 要包含所有适用人员，您可以使用两个&#x200B;**状态**&#x200B;过滤器，但使用一个更简单。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 查找并选择智能列表，然后单击“智 **能列表** ”选项卡。
+1. 查找并选择智能列表，然后单击&#x200B;**智能列表**&#x200B;选项卡。
 
    ![](assets/smarlist-choosefilters.png)
 
-1. 单击筛 **选器** 上的加号。
+1. 单击滤镜上的&#x200B;**加号**。
 
    ![](assets/smartlist-plussignhand-.png)
 
-1. 您可以从左侧选择值，或只在右侧键入值，然后单击“确 **定”**。
+1. 您可以从左侧选择值，或只在右侧键入值，然后单击&#x200B;**确定**。
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
