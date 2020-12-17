@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # 活动文件夹：活动选项卡
 
-在选项卡中查找有关活动的关 **[!UICONTROL Activities]** 键信息。
+在&#x200B;**[!UICONTROL Activities]**&#x200B;选项卡中查找有关活动的关键信息。
 
 ![图像1](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
-使用下 **[!UICONTROL Filter by]** 拉框按活动类型筛选活动。 您还可以按活动、活动类型等进行搜索。
+使用&#x200B;**[!UICONTROL Filter by]**&#x200B;下拉列表按活动类型筛选活动。 您还可以按活动、活动类型等进行搜索。
 
 ![图像2](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
 
