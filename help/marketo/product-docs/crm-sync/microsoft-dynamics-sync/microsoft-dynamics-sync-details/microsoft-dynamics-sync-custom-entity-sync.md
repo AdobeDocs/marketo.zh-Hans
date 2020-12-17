@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics同步：自定义实体同步 {#microsoft-dynamics-sync-custom-entity-sync}
+# Microsoft Dynamics同步：自定义实体同步{#microsoft-dynamics-sync-custom-entity-sync}
 
 如果您需要启用初始自定义实体同步，以使Dynamics中的数据在Marketo中可用，下面将介绍如何实现。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->要使用自定义对象，它必须与Dynamics中的潜在客 [户](microsoft-dynamics-sync-lead-sync.md)、 [联系人](microsoft-dynamics-sync-contact-sync.md)或帐 [](microsoft-dynamics-sync-account-sync.md)户对象关联。
+>要使用自定义对象，它必须与Dynamics中的[潜在客户](microsoft-dynamics-sync-lead-sync.md)、[联系人](microsoft-dynamics-sync-contact-sync.md)或[帐户](microsoft-dynamics-sync-account-sync.md)对象相关联。
 
 >[!CAUTION]
 >
@@ -31,21 +31,21 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. 单击 **“禁用同步** ”可临时禁用标准全局同步。
+1. 单击&#x200B;**禁用同步**&#x200B;可暂时禁用标准全局同步。
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. 安装支持自定义实体同步的Microsoft Dynamics版本（在2_0_0_2之后）。 请参 [阅Marketo Dynamics插件发行版](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+1. 安装支持自定义实体同步的Microsoft Dynamics版本（在2_0_0_2之后）。 请参阅[Marketo Plugin Releases for MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
 1. 为Marketo Sync用户授予对您计划同步的任何实体的读取权限。
 1. 在“数据库管理”下，单击** Dynamics实体同步**链接。
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. 单击“ **同步模式** ”链接可转换可用自定义实体的列表。
+1. 单击&#x200B;**同步模式**&#x200B;链接，以启用可用自定义实体的列表。
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. 在列表同步后，选择要同步的字段和要在智能列表中用作 [约束](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 和／或触发器的字段。 完成后，单击“启 **用同步**”。
+1. 在列表同步后，选择要同步的字段和要用作智能列表中[约束](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或触发器的字段。 完成后，单击&#x200B;**启用同步**。
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
