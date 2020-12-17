@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 冠军／挑战者：定义冠军标准 {#champion-challenger-define-champion-criteria}
+# 冠军／挑战者：定义冠军标准{#champion-challenger-define-champion-criteria}
 
 设置测试类型后，您需要定义冠军标准。 这是方法。
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 
 
-## 标准冠军标准 {#standard-champion-criteria}
+## 标准冠军标准{#standard-champion-criteria}
 
-1. 选择可用的“冠军 **标准”**。
+1. 选择可用的&#x200B;**冠军标准**&#x200B;之一。
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
    >
    >我们将跟踪此指标并通过电子邮件向您发送包含数据的报告。
 
-1. 如果您选择了默认的“ **冠军标准**”，请继续选择“ [冠军／挑战者”:配置报告警报](champion-challenger-configure-report-alerts.md)!
+1. 如果您选择了默认的&#x200B;**Champion Criteria**&#x200B;之一，请继续前进到[Champion/Challenger:配置报告警报](champion-challenger-configure-report-alerts.md)!
 
-## 自定义冠军标准 {#custom-champion-criteria}
+## 自定义冠军标准{#custom-champion-criteria}
 
-1. 如果您想炫耀，可以选择“自定义转换”并单 **击“编辑** ”进行自 **定义**。
+1. 如果您想要炫富，可以选择&#x200B;**自定义转换**&#x200B;并单击&#x200B;**编辑**&#x200B;进行自定义。
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    Marketo仅允许从此电子邮件项目发送电子邮件的人员使用触发器。 无需添加“已发送电子邮件”过滤器。
 
-1. 单击 **关闭**。
+1. 单击&#x200B;**关闭**。
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
