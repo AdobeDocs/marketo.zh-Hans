@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics同步筛选器：资格 {#microsoft-dynamics-sync-filter-qualify}
+# Microsoft Dynamics同步筛选器：确定{#microsoft-dynamics-sync-filter-qualify}
 
 在Microsoft Dynamics中，如果要将潜在客户转换为联系人，请务必使用此默认的Qualify流程。 然后，将其同步到Marketo。
 
-## 转换过程 {#the-conversion-process}
+## 转换进程{#the-conversion-process}
 
 下面介绍过滤器在转化过程中的工作方式。
 
