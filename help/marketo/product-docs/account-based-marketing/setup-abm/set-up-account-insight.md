@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 设置帐户分析 {#set-up-account-insight}
+# 设置帐户分析{#set-up-account-insight}
 
 下面介绍如何设置帐户分析。
 
 >[!PREREQUISITES]
 >
->必须先配 [置ABM帐户得分](http://docs.marketo.com/display/DOCS/Account+Score) 。
+>必须先配置](http://docs.marketo.com/display/DOCS/Account+Score)ABM帐户得分[。
 
-1. 单击 **管理**。
+1. 单击&#x200B;**管理员**。
 
    ![](assets/admin-1.png)
 
-1. 单击 **树中** 的ABM，然后单击 **ABM销售** 选项卡。
+1. 单击树中的&#x200B;**ABM**，然后单击&#x200B;**ABM销售**&#x200B;选项卡。
 
    ![](assets/two-5.png)
 
-1. 单击 **编辑**。
+1. 单击&#x200B;**编辑**。
 
    ![](assets/three-4.png)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果“ [帐户得分](http://docs.marketo.com/display/DOCS/Account+Score) ”设置在任何时间更新，则管理员需要更新“ABM销售”下的配置，以确保得分准确反映用户的偏好。 用户需要注销并重新登录才能看到更改。
+   >如果[帐户得分设置](http://docs.marketo.com/display/DOCS/Account+Score)在任何时间更新，则管理员需要更新“ABM销售”下的配置，以确保得分准确反映用户的偏好。 用户需要注销并重新登录才能看到更改。
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/five-4.png)
 
