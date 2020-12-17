@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 覆盖电子邮件的主域 {#overwrite-primary-domain-for-emails}
+# 覆盖电子邮件{#overwrite-primary-domain-for-emails}的主域
 
 您可以根据电子邮件覆盖主品牌域。 这将更改发送电子邮件时链接的标记方式。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择电子邮件，然后单击“ **编辑草稿”**。
+1. 选择电子邮件，然后单击“编辑草稿&#x200B;**”。**
 
    ![](assets/image2016-8-26-11-3a48-3a7.png)
 
