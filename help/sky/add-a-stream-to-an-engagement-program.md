@@ -18,11 +18,11 @@ ht-degree: 0%
 
    ![图像1](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-1.png)
 
-1. 单击选 **[!UICONTROL Streams]** 项卡。
+1. 单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![图像2](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-2.png)
 
-1. 单击 **[!UICONTROL Add Stream]**。
+1. 单击&#x200B;**[!UICONTROL Add Stream]**。
 
    ![图3](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-3.png)
 
