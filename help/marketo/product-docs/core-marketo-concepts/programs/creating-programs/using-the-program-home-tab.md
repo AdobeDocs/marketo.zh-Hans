@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 使用项目主页选项卡 {#using-the-program-home-tab}
+# 使用项目主页选项卡{#using-the-program-home-tab}
 
 项目主页选项卡为您提供了项目中发生情况的高级视图。
 
-## 摘要视图 {#summary-view}
+## 摘要视图{#summary-view}
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## 由视图使用 {#used-by-view}
+## 由视图{#used-by-view}使用
 
 1. 在营销活动中，选择一个项目。
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. 单击 **视图** 下拉框。 选择 **使用者**。
+1. 单击&#x200B;**视图**&#x200B;下拉列表。 选择&#x200B;**使用者**。
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -51,13 +51,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
-## 会员资格视图 {#membership-view}
+## 会员视图{#membership-view}
 
 1. 在营销活动中，选择一个项目。
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. 单击 **视图** 下拉框。 选择 **会员资格**。
+1. 单击&#x200B;**视图**&#x200B;下拉列表。 选择&#x200B;**成员**。
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Historical****表示曾经访问过项目的任何人，而** Current仅包括当前项目中的人。
+   >**Historical** 表示曾经访问过项目的任何人，而 **** Currentonly只包括当前在项目中的人。
 
    >[!NOTE]
    >
