@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC同步：自定义对象同步 {#sfdc-sync-custom-object-sync}
+# SFDC同步：自定义对象同步{#sfdc-sync-custom-object-sync}
 
 在Salesforce实例中创建的自定义对象也可以是Marketo的一部分。  下面介绍如何设置。
 
@@ -21,19 +21,19 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->要使用自定义对象，它必须与Salesforce中的潜在客户 [、联系](sfdc-sync-lead-sync.md)[](sfdc-sync-contact-sync.md)人 [](sfdc-sync-account-sync.md)帐户对象关联。
+>要使用自定义对象，它必须与Salesforce中的[潜在客户](sfdc-sync-lead-sync.md)、[联系人](sfdc-sync-contact-sync.md)或[帐户](sfdc-sync-account-sync.md)对象相关联。
 
-## 启用自定义对象  {#enable-custom-object}
+## 启用自定义对象{#enable-custom-object}
 
-1. 单 **击** “管理员”和** Salesforce对象同步 **链接**。**
+1. 单击&#x200B;**管理员**&#x200B;和** Salesforce对象同步&#x200B;**链接**。**
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. 如果这是您的第一个自定义对象，请单击“同 **步”模式。**
+1. 如果这是您的第一个自定义对象，请单击&#x200B;**同步模式。**
 
    ![](assets/rtaimage-2.png)
 
-1. 单击“ **禁用全局同步”。**
+1. 单击&#x200B;**禁用全局同步。**
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
    >
    >自定义对象必须具有唯一名称。 Marketo不支持两个名称相同的不同自定义对象。
 
-1. 单击 **启用同步。**
+1. 单击&#x200B;**启用同步。**
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. 再次单 **击“启用同** 步”。
+1. 再次单击&#x200B;**启用同步**。
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -70,11 +70,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. 单击 **启用同步。**
+1. 单击&#x200B;**启用同步。**
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. 要视图所有Salesforce自定义对象，请单 **击** “管理员”和** Salesforce对象同步**链接（与上面的步骤1相同）。
+1. 要视图所有Salesforce自定义对象，请单击&#x200B;**管理员**&#x200B;和** Salesforce对象同步**链接（与上面的步骤1相同）。
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
    >
    >Marketo仅支持链接到标准实体（深度为一或两级）的自定义实体。
 
-### 下一步： {#whats-next}
+### 下一步：{#whats-next}
 
 [添加／删除自定义对象字段作为智能列表/触发器约束](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
