@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 向文本电子邮件添加跟踪链接 {#add-tracked-links-to-a-text-email}
+# 向文本电子邮件{#add-tracked-links-to-a-text-email}添加跟踪链接
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two-8.png)
 
-1. 输入带有多次括号的URL，如下所示： `[[www.domain.com/path/page.html]]`.
+1. 输入带有多次括号的URL，如下所示：`[[www.domain.com/path/page.html]]`。
 
    ![](assets/three-8.png)
 
