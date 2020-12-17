@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-本地资产是组成您的项目的内容。 资产可自定义，使您能够构建自动化的营销计划。 以下是您可以在中创建的大多数本地资源 [!DNL Marketo Sky]。
+本地资产是组成您的项目的内容。 资产可自定义，使您能够构建自动化的营销计划。 以下是您可以在[!DNL Marketo Sky]中创建的大多数本地资源。
 
 ![图像1](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 
