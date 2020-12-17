@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 在SFDC活动中更改状态 {#change-status-in-sfdc-campaign}
+# 更改SFDC活动{#change-status-in-sfdc-campaign}中的状态
 
 >[!NOTE]
 >
 >仅当与Salesforce集成时可用。
 
-## 概述 {#overview}
+## 概述{#overview}
 
 此流步骤允许您更改潜在客户的Salesforce活动成员状态。
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-15-3a13-3a54.png)
 
-## 使用情况 {#usage}
+## 用法{#usage}
 
-1. 首先查找并选择记录 **所在** 的Salesforce活动。
+1. 首先查找并选择记录所在的Salesforce **活动**。
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. 然后，选 **择** 要设 **置的** “新建状态”，您就完成了！
+1. 然后，选择要设置的&#x200B;**新建** **状态**，您已完成！
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
