@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 添加Marketto自定义对象字段 {#add-marketo-custom-object-fields}
+# 添加Marketto自定义对象字段{#add-marketo-custom-object-fields}
 
 创建自定义对象后，您需要向其添加字段以满足您的业务需求。
 
-字段定义自定义对象使用的特定信息。 链接字段具有连接自定义对象的特殊作业，并在单独的文章中 [加以介绍](add-marketo-custom-object-link-fields.md)。
+字段定义自定义对象使用的特定信息。 链接字段具有连接自定义对象的特殊作业，并在[单独的文章](add-marketo-custom-object-link-fields.md)中介绍。
 
-1. 单击 **管理**，在“数据库 **管理”中**，选择 **“Marketo** Custom Objects”。
+1. 单击&#x200B;**Admin**，在&#x200B;**数据库管理**&#x200B;中，选择&#x200B;**Marketto Custom Objects**。
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. 在**字段**选项卡中，单击“新建 **字段”**。
+1. 在**字段**选项卡中，单击&#x200B;**新建字段**。
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >如果要构建一对多结构，您需要向自定义对象添加一个“链接”字段。 对于多对多结构，您不需要自定义对象中的链接字段，但必须在中间对象中添加两个链接字段。 有关 [自定义对象类型的详细信息，请参](add-marketo-custom-object-link-fields.md) 阅添加Marketto自定义对象链接字段 [，以创建链接字段，](understanding-marketo-custom-objects.md) 以及了解Marketto自定义对象。
+   >如果要构建一对多结构，您需要向自定义对象添加一个“链接”字段。 对于多对多结构，您不需要自定义对象中的链接字段，但必须在中间对象中添加两个链接字段。 有关自定义对象类型的详细信息，请参见[添加Marketto自定义对象链接字段](add-marketo-custom-object-link-fields.md)以创建链接字段，以及[了解Marketto自定义对象](understanding-marketo-custom-objects.md)。
 
 >[!MORELIKETHIS]
 >
