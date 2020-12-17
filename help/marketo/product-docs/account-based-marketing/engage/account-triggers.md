@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 帐户触发器 {#account-triggers}
+# 帐户触发器{#account-triggers}
 
 使用帐户级触发器，跨不同渠道（如电子邮件、Web、广告）倾听重要的帐户级行为活动并采取相应行动。
 
-选择您的智能活动并单击 **[!UICONTROL Smart List]**。
+选择您的智能活动并单击&#x200B;**[!UICONTROL Smart List]**。
 
 ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-将所需的触发器拖到画布上。 在此示例中，我们使用“已添 _加到指定帐户”_。
+将所需的触发器拖到画布上。 在此示例中，我们使用&#x200B;_添加到命名帐户_。
 
 ![](assets/three-1.png)
 
