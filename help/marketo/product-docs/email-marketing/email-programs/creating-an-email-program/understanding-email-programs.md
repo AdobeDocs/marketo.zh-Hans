@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 了解电子邮件项目 {#understanding-email-programs}
+# 了解电子邮件项目{#understanding-email-programs}
 
 向Marketo的新朋友打招呼，电子邮件项目。 发送电子邮件，创建A/B测试，并跟踪所有结果。
 
-## 控制面板 {#control-panel}
+## 控制面板{#control-panel}
 
-四个方框让您专注。 **受众** 定义“谁 **”，电子邮件提** 供“什么 **”,** 计划定义 **“何时** ”,Approval使其准备就绪。
+四个方框让您专注。 **受** 众定义“谁”, **** 电子邮件提供“什么”, **** Schedule定义“何时”, **** Approval使其准备就绪。
 
 ![](assets/emailprogram.png)
 
-## A/B测试 {#a-b-testing}
+## A/B测试{#a-b-testing}
 
 A/B测试使您能够证明哪种电子邮件最合适。
 
@@ -34,7 +34,7 @@ A/B测试使您能够证明哪种电子邮件最合适。
 
 ![](assets/abtesthighlight.png)
 
-## 仪表板 {#dashboards}
+## 仪表板{#dashboards}
 
 >[!TIP]
 >
@@ -44,7 +44,7 @@ A/B测试使您能够证明哪种电子邮件最合适。
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
-## 嵌套 {#nesting}
+## 嵌套{#nesting}
 
 电子邮件项目可以与其他项目很好地协作。
 
@@ -62,9 +62,9 @@ A/B测试使您能够证明哪种电子邮件最合适。
 
 >[!NOTE]
 >
->电子邮件项目不能嵌套在 [参与项目中](../../../../getting-started/quick-wins/drip-drip-nurture.md)。 也无法重新发送，一次只能运行一个测试。
+>电子邮件项目不能嵌套在[参与项目](../../../../getting-started/quick-wins/drip-drip-nurture.md)中。 也无法重新发送，一次只能运行一个测试。
 
-## 计划设置 {#schedule-settings}
+## 计划设置{#schedule-settings}
 
 了解电子邮件项目后，即可开始阅读以下相关文章之一！
 
