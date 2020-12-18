@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 设置隐藏表单字段值 {#set-a-hidden-form-field-value}
+# 设置隐藏表单字段值{#set-a-hidden-form-field-value}
 
 隐藏字段通常动态填充。 不会向填写表单的人显示。 下面介绍如何设置值。
 
@@ -19,31 +19,31 @@ ht-degree: 0%
 >
 >[将表单字段设置为隐藏](set-a-form-field-as-hidden.md)
 
-## 选择字段 {#select-the-field}
+## 选择字段{#select-the-field}
 
-1. 在表单中，选择隐藏字段，然后单击“ **编辑** ”以 **自动填写**。
+1. 在表单中，选择隐藏字段，然后单击&#x200B;**编辑**（对于&#x200B;**自动填写**）。
 
    ![](assets/autofill.png)
 
-## 使用默认值 {#use-default-value}
+## 使用默认值{#use-default-value}
 
 通过选择使用默认值，您可以硬编码在提交此表单时始终使用的特定值。 输入默认值，然后单击保存。
 
 ![](assets/image2014-9-15-13-3a5-3a27.png)
 
-## URL参数 {#url-parameter}
+## URL参数{#url-parameter}
 
-如果要在填写表单时从人员所在的页面捕获URL参数(查询字符串)，可以使用 **URL****参** 数来填充隐藏字段。
+如果要在填写表单时从人员所在的页面捕获URL参数(查询字符串)，可以使用&#x200B;**URL** **参数**&#x200B;填充隐藏字段。
 
 >[!NOTE]
 >
->参数有点技术，不是吗？ 但一旦你得到了它们，它们就会变得强大。 查询 [字符串上的这个维基百科页面](http://en.wikipedia.org/wiki/Query_string) ，有些帮助。
+>参数有点技术，不是吗？ 但一旦你得到了它们，它们就会变得强大。 查询字符串](http://en.wikipedia.org/wiki/Query_string)上的[Wikipedia页面有些帮助。
 
-1. 为“ **获取值** ”类 **型选择URL参数**。
+1. 为&#x200B;**获取值类型**&#x200B;选择&#x200B;**URL参数**。
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
-1. 输入参 **数名称** ，然后单击 **保存**。
+1. 输入&#x200B;**参数名称**&#x200B;并单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
@@ -51,15 +51,15 @@ ht-degree: 0%
 >
 >如果找不到URL参数，可以输入默认值。
 
-## Cookie值 {#cookie-value}
+## Cookie值{#cookie-value}
 
-如果您将数据存储在cookie中，则可以在提 **交表单****时使用Cookie** Value来获取数据。
+如果您正在cookies中存储数据，则可以在提交表单时使用&#x200B;**Cookie** **Value**&#x200B;获取数据。
 
-1. 选择 **Cookie** **Value****Get** Value ******** From Jat.
+1. 为&#x200B;**Get** **Value** From **选择** Cookie **** Value **。**
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
-1. 输入所需的Cookie参数名称，然后单击 **保存**。
+1. 输入所需的Cookie参数名称，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-13-3a8-3a43.png)
 
@@ -67,28 +67,28 @@ ht-degree: 0%
    >
    >如果找不到参数/cookie，可以输入默认值。
 
-## 推荐人参数 {#referrer-parameter}
+## 推荐人参数{#referrer-parameter}
 
-如果要在填写表单之前从访客来自的页面捕获数据，可以使用 **推荐人** 参数 ****。
+如果要在填写表单之前从访客来自的页面捕获数据，可以使用&#x200B;**推荐人** **参数**。
 
-1. 设 **置Get** **Value** From **Adobe Adobe Prameter** Amperater从 **推荐人******&#x200B;到参数。
+1. 将&#x200B;**Get****Value****从**&#x200B;设置为&#x200B;**推荐人****参数**。
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. 输入 **要从推荐人** URL捕获的参数名称，然后单击 **保存**。
+1. 输入要从推荐人URL抢取的&#x200B;**参数名称**，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >如果找不到 **推荐人****参数，** 则可以输入默认值。
+   >如果找不到推荐人参数，可输入&#x200B;**Default** **Value**。
 
-1. 单击 **完成**。
+1. 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-15-13-3a10-3a26.png)
 
-1. 单击 **批准并关闭**。
+1. 单击&#x200B;**批准并关闭**。
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
 
-真贴心！ 你表现不错。 有更多关于表单的 [信息](http://docs.marketo.com/display/docs/forms)。
+真贴心！ 你表现不错。 有关[表单的详细信息，请参阅](http://docs.marketo.com/display/docs/forms)。
