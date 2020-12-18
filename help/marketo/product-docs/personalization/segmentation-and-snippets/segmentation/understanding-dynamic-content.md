@@ -11,33 +11,33 @@ ht-degree: 0%
 ---
 
 
-# 了解动态内容 {#understanding-dynamic-content}
+# 了解动态内容{#understanding-dynamic-content}
 
-个性化的意义远不止“嗨” `{{First Name}}`而已。 利用Marketo动态内容，您可以自定义不同人员查看登陆页或电子邮件的方式。
+个性化的意义远不止“您好`{{First Name}}`”。 利用Marketo动态内容，您可以自定义不同人员查看登陆页或电子邮件的方式。
 
 ![](assets/artboard-1.png)
 
-## 细分 {#segmentation}
+## 分段{#segmentation}
 
-首先，你需要把你的人分成几个小组。 这称为 [分段](create-a-segmentation.md)。
+首先，你需要把你的人分成几个小组。 这称为[segmentation](create-a-segmentation.md)。
 
 >[!NOTE]
 >
 >**定义**
 >
->分段根据智能列表将受众分类到不 [同的](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)子组。 这些组称为区段。
+>分段根据[智能受众](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)规则将列表分类到不同的子组。 这些组称为区段。
 
 例如，如果我们有一个名为Industry的细分，则其中一些细分可能是：医疗保健、技术、金融、消费品等   ![](assets/artboard-2.png)
 
-## 动态内容 {#dynamic-content}
+## 动态内容{#dynamic-content}
 
 创建不同的区段后，您可以在登陆页或电子邮件中添加动态内容块。 这告诉Marketo，您希望该内容因视图者而异。
 
 ![](assets/artboard-3.png)
 
-## 代码片段 {#snippets}
+## 代码片段{#snippets}
 
-[代码片段](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) 是Marketo中的一种实用工具。 只需创建一次，即可在多个位置使用！ 如果您更新代码片段，则使用该代码片段的所有资产(登陆页或电子邮件)都将自动更新。
+[片](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) 段是Marketo中的一个有用工具。只需创建一次，即可在多个位置使用！ 如果您更新代码片段，则使用该代码片段的所有资产(登陆页或电子邮件)都将自动更新。
 
 >[!NOTE]
 >
