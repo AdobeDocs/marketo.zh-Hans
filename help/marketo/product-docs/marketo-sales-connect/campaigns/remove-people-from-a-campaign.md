@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 从活动中删除人员 {#remove-people-from-a-campaign}
+# 从活动{#remove-people-from-a-campaign}中删除人员
 
 您可以在活动回复时自动结束收件人。 而且，您可以选择将活动标记为该收件人的“成功”。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 此外，您还可以从活动本身中删除人员，从“人员”页面的活动中删除人员，以及删除整组人员。 下面，我们来看一下以下三种方法。
 
-## 直接从活动中删除人员 {#remove-a-person-directly-from-a-campaign}
+## 直接从活动{#remove-a-person-directly-from-a-campaign}中删除人员
 
-1. 在Sales Connect中，单击“ **活动** ”选项卡。
+1. 在Sales Connect中，单击&#x200B;**活动**&#x200B;选项卡。
 
    ![](assets/one.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 找到要删除的人，然后单击“删 **除”**。
+1. 查找要删除的人，然后单击&#x200B;**删除**。
 
    ![](assets/four.png)
 
-1. （可选步骤）您也可以同时删除多个人，方法是单击其姓名旁边的复选框，然后单击顶 **部的** “删除”按钮。
+1. （可选步骤）您也可以同时删除多个人，方法是单击其姓名旁边的复选框，然后单击顶部的&#x200B;**删除**&#x200B;按钮。
 
    ![](assets/five.png)
 
-## 从“人员”页面的活动中删除人员 {#remove-a-person-from-a-campaign-within-the-people-page}
+## 从“人员”页{#remove-a-person-from-a-campaign-within-the-people-page}中的活动中删除人员
 
-1. 在Sales Connect中，单击“人 **员** ”选项卡。
+1. 在Sales Connect中，单击&#x200B;**People**&#x200B;选项卡。
 
    ![](assets/one-a.png)
 
@@ -51,17 +51,17 @@ ht-degree: 0%
 
    ![](assets/two-a.png)
 
-1. 其“人员详细信息”视图面板在右侧打开。 单击“历 **史** ”选项卡，后 **面是“删** 除”按钮。
+1. 其“人员详细信息”视图面板在右侧打开。 单击&#x200B;**History**&#x200B;选项卡，后跟&#x200B;**Remove**&#x200B;按钮。
 
    ![](assets/three-a.png)
 
-## 从活动中删除一组人员 {#remove-a-group-of-people-from-a-campaign}
+## 从活动{#remove-a-group-of-people-from-a-campaign}中删除一组人员
 
-1. 在Sales Connect中，单击“人 **员** ”选项卡。
+1. 在Sales Connect中，单击&#x200B;**People**&#x200B;选项卡。
 
    ![](assets/one-b.png)
 
-1. 在“我的组”下查找并 **选择您的组**。
+1. 在&#x200B;**我的组**&#x200B;下查找并选择您的组。
 
    ![](assets/two-b.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/three-b.png)
 
-1. 单击“ **操作** ”，然后选 **择“从活动中删除选定项”**。
+1. 单击&#x200B;**操作**&#x200B;并选择&#x200B;**从活动**&#x200B;中删除选定内容。
 
    ![](assets/four-b.png)
 
