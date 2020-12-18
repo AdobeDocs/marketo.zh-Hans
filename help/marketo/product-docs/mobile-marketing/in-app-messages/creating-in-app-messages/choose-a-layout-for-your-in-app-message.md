@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# 为应用程序内消息选择布局 {#choose-a-layout-for-your-in-app-message}
+# 为应用程序内消息{#choose-a-layout-for-your-in-app-message}选择布局
 
 Marketo提供六种布局，用于构建应用程序内消息。
 
 * 弹出式布局更传统，如果您没有提供内容的创意团队并且不需要特定的外观，则是理想的。 您可以在Marketo中轻松创建和编辑您自己的应用程序内消息
 * “全屏”布局允许您导入自己的已完成设计，从而具有完整的图形灵活性
 
-## 弹出布局 {#pop-up-layouts}
+## 弹出布局{#pop-up-layouts}
 
 这三个弹出窗口布局了所有优惠预设设计元素，包括图像、文本、按钮和背景。
 
@@ -34,7 +34,7 @@ Marketo提供六种布局，用于构建应用程序内消息。
 
 ![](assets/image2016-5-9-13-3a7-3a33.png)
 
-## 全屏布局 {#full-screen-layouts}
+## 全屏布局{#full-screen-layouts}
 
 三种“全屏”样式布局专为您设计，可用于导入完成的图形图稿。 选择您自己的字体并将其嵌入图形中，以匹配任何网页或促销。
 
@@ -58,7 +58,7 @@ Marketo提供六种布局，用于构建应用程序内消息。
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-现在您已了解模板，现在，您应该在创建应用程序内 [消息图像时选择模板](add-in-app-message-images.md)。
+现在您已经了解了模板，您应该在[创建应用程序内消息图像](add-in-app-message-images.md)时选择模板。
 
 >[!MORELIKETHIS]
 >
