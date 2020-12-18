@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 使用Outlook的电子邮件插件发送和跟踪电子邮件 {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# 使用Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}的电子邮件插件发送和跟踪电子邮件
 
 您可以直接从Outlook使用Market发送和跟踪电子邮件。
 
 >[!PREREQUISITES]
 >
->如果您还未安装Outlook的 [Marketo电子邮件插件](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
+>如果尚未安装Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)的[Marketo电子邮件插件。
 
 1. 打开Microsoft Outlook并创建新电子邮件。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >如果您在电子邮件中包含多个收件人，则将在第一个收件人下跟踪所有活动。
 
-1. 按照您通常的方式撰写电子邮件，然后单击“ **发送并跟踪”**。
+1. 按照您通常的方式撰写电子邮件，然后单击&#x200B;**发送和跟踪**。
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果要使用Marketo模板，请参阅从Outlook [中使用模板发送和跟踪](send-and-track-from-outlook-using-a-marketo-template.md)。
+   >如果要使用Marketo模板，请参阅[从Outlook使用模板发送和跟踪](send-and-track-from-outlook-using-a-marketo-template.md)。
 
-1. 查看预览并单击“发 **送**”。
+1. 查看预览并单击&#x200B;**发送**。
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
