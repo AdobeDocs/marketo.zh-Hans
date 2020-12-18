@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将自定义HTML添加到自由格式登陆页 {#adding-custom-html-to-a-free-form-landing-page}
+# 将自定义HTML添加到自由格式登陆页{#adding-custom-html-to-a-free-form-landing-page}
 
 可以向登陆页添加自定义脚本、CSS或其他HTML。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >Marketo Support未设置为有助于对自定义HTML进行故障诊断。 要获得HTML帮助，请咨询Web开发人员。
 
-1. 选择登陆页，然后单击“ **编辑草稿”。**
+1. 选择您的登陆页，然后单击“编辑草稿”。****
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. 在登陆页编辑器中，拖入 **HTML** 元素。
+1. 在登陆页编辑器中，拖动&#x200B;**HTML**&#x200B;元素。
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. 输入自定义HTML代码，然后单击“ **保存”。**
+1. 输入您的自定义HTML代码，然后单击“保存”。****
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
