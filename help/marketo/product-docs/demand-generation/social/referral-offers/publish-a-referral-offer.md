@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 发布推荐优惠 {#publish-a-referral-offer}
+# 发布引用优惠{#publish-a-referral-offer}
 
-创建 [推荐优惠后](create-a-referral-offer.md)，您可以在Marketo登陆页、Facebook和您的网站上发布该。
+在[创建推荐优惠](create-a-referral-offer.md)后，您可以在Marketo登陆页、Facebook和您的网站上发布该引用数据。
 
 1. 导航到您的登陆页并打开它进行编辑。
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. 从右侧 **的调色板中** ，将“Referral”优惠拖动到上方。
+1. 从右侧的调色板拖动到&#x200B;**引用优惠**。
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
-1. 选择您的推荐优惠，然后单 **击插入**。
+1. 选择您的推荐优惠，然后单击&#x200B;**插入**。
 
    ![](assets/image2014-9-19-11-3a15-3a52.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >您需要批准您的推荐优惠，才能在此处提供。
 
-恭喜！ 批准登陆页，您的推荐优惠将处于实时状态。 您还可以 [将登陆页发布到Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) , [或将优惠放在您的网站上](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
+恭喜！ 批准登陆页，您的推荐优惠将处于实时状态。 您还可以[将登陆页发布到Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或[将优惠放到您的网站](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
 
 >[!TIP]
 >
