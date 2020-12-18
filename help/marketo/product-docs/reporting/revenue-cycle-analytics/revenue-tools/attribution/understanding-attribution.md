@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 了解归因 {#understanding-attribution}
+# 了解归因{#understanding-attribution}
 
-## 归因是什么？ {#what-is-attribution}
+## 归因是什么？{#what-is-attribution}
 
 Attribution是Marketo如何为项目提供信用，帮助他们影响销售和机遇。 如果您使用Marketo建模器，归因也可以归功于将某人推向您的业务模式。
 
-## 为什么要跟踪？ {#why-keep-track-of-this}
+## 为什么要跟踪？{#why-keep-track-of-this}
 
 归因可帮助您衡量项目成功。 一些项目打算生成新的名称，而另一些则打算推动销售。 通过建立归因系统，您可以就项目的投资做出明智的决策。
 
-## 首次接触(FT)归因 {#first-touch-ft-attribution}
+## 首次触控(FT)归因{#first-touch-ft-attribution}
 
-First-Touch(FT)归因回答了一个简 **单的商业问题**,“哪些项目擅长获得可盈利的新品牌？”
+First-Touch(FT)归因回答了一个&#x200B;**简单的业务问题**,“哪些项目擅长获得可盈利的新品牌？”
 
-## 多触归因 {#multi-touch-attribution}
+## 多触归因{#multi-touch-attribution}
 
-多触解决了一个复 **杂的业务问题**,“随着时间的推移，哪些项目在推动销售周期中的人员前进方面最具影响力？”
+多触解决了&#x200B;**复杂的业务问题**,“随着时间的推移，哪些项目在推动销售周期中的人员前进方面最具影响力？”
 
-## 归因规则 {#rules-of-attribution}
+## 归因规则{#rules-of-attribution}
 
 归因有三条规则：
 
