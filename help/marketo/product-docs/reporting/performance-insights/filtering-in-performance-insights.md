@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在性能洞察中筛选 {#filtering-in-performance-insights}
+# 在性能分析中筛选{#filtering-in-performance-insights}
 
 轻松筛选数据以查询特定信息。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->目前，“自定义属性”仅对启用RCA的客户提供过滤器 [版](http://docs.marketo.com/x/lwIk) 。
+>目前，“自定义属性”仅对启用了[RCA](http://docs.marketo.com/x/lwIk)的过滤器提供。
 
 单击类别可显示多个子类别。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ![](assets/6-2.png)
 
-## 可用过滤器 {#available-filters}
+## 可用过滤器{#available-filters}
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>自定义属性</strong></td> 
-   <td colspan="1"><p>这些由您决定。 您为业务机 <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">会分析</a> 启用的所有字段都可在性能分析中筛选。</p></td> 
+   <td colspan="1"><p>这些由您决定。 您为机会分析启用<a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">的所有字段均可在性能分析中筛选。</a></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>投资期</strong></p></td> 
