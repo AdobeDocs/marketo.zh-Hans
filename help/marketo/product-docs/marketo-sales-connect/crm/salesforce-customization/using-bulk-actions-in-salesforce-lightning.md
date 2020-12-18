@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在Salesforce闪电中使用批量操作 {#using-bulk-actions-in-salesforce-lightning}
+# 在Salesforce中使用批量操作{#using-bulk-actions-in-salesforce-lightning}
 
 了解如何执行批量操作，如向活动添加潜在客户、发送批量电子邮件或将潜在客户从Salesforce推送到Sales Connect。
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >在执行以下步骤之前，请确保您已登录到Marketo Sales Connect帐户。
 
-## 批量电子邮件 {#bulk-email}
+## 批量电子邮件{#bulk-email}
 
-1. 在Salesforce中，单击潜 **在客户** 选项卡，然后选择所需潜在客户的列表。
+1. 在Salesforce中，单击&#x200B;**Lead**&#x200B;选项卡，然后选择所需Lead的列表。
 
    ![](assets/one-6.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >如果您已使用列表，则必须从下拉列表中选择该按钮，以确保显示MSC批量操作按钮。 这是无法更改的Salesforce行为。
 
-1. 单击箭头下拉框（在屏幕最右侧），然后选择“用MSC **发送电子邮件”**。
+1. 单击箭头下拉框（位于屏幕最右侧）并选择&#x200B;**“用MSC**&#x200B;发送电子邮件”。
 
    ![](assets/two-6.png)
 
@@ -46,31 +46,31 @@ ht-degree: 0%
 
    ![](assets/three-5.png)
 
-## 添加到活动 {#add-to-campaign}
+## 添加到活动{#add-to-campaign}
 
-1. 在Salesforce中，单击潜 **在客户** 选项卡，然后选择所需潜在客户的列表。
+1. 在Salesforce中，单击&#x200B;**Lead**&#x200B;选项卡，然后选择所需Lead的列表。
 
    ![](assets/four-4.png)
 
-1. 单击箭头下拉框（在屏幕最右侧），然后选择“ **Add to MSC活动**”。
+1. 单击箭头下拉框（位于屏幕最右侧），然后选择&#x200B;**添加到MSC活动**。
 
    ![](assets/five-4.png)
 
-1. 将出现“将人员添加到您的活动”弹出窗口。 单 **击** “下一步”并浏览典型活动流以触发MSC活动。
+1. 将出现“将人员添加到您的活动”弹出窗口。 单击&#x200B;**Next**&#x200B;并浏览典型活动流以触发MSC活动。
 
    ![](assets/six-1.png)
 
-## 推向Marketo Sales Connect {#push-to-marketo-sales-connect}
+## 推送到Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. 在Salesforce中，单击潜 **在客户** 选项卡，然后选择所需潜在客户的列表。
+1. 在Salesforce中，单击&#x200B;**Lead**&#x200B;选项卡，然后选择所需Lead的列表。
 
    ![](assets/seven-2.png)
 
-1. 单击箭头下拉框（位于屏幕最右侧），然后选择“ **Push to MSC（推送至MSC）**”。
+1. 单击箭头下拉框（位于屏幕最右侧），然后选择&#x200B;**推送至MSC**。
 
    ![](assets/eight-2.png)
 
-1. 将打开一个名为“Salesforce Bridge”的新选项卡。 单击“ **继续到组→** ”按钮。
+1. 将打开一个名为“Salesforce Bridge”的新选项卡。 单击&#x200B;**继续到组→**&#x200B;按钮。
 
    ![](assets/nine-2.png)
 
