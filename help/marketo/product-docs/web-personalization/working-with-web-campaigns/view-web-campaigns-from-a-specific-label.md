@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 视图特定标签中的Web活动 {#view-web-campaigns-from-a-specific-label}
+# 视图特定标签{#view-web-campaigns-from-a-specific-label}中的Web活动
 
 是否希望根据特定标签视图和筛选活动?
 
-## 按现有标签过滤 {#filter-by-existing-labels}
+## 按现有标签{#filter-by-existing-labels}过滤
 
-1. 转到 **Web****活动**。
+1. 转至&#x200B;**Web** **活动**。
 
    ![](assets/web-campaigns-hand-4.jpg)
 
