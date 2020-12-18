@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解我选项卡 {#understanding-the-me-tab}
+# 了解“我”选项卡{#understanding-the-me-tab}
 
 在“我”选项卡中，我们向您显示已发送的电子邮件数量，以及使用带有电子邮件发送活动的模板发送的电子邮件数量。
 
