@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 为数字广告活动设置收入归因 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# 设置数字广告活动的收入归因{#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 下面介绍如何为数字广告渠道和活动设置收入归因。 设置后，您可以像其他营销项目一样对数字广告进行首次接触和多次接触收入归因。
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 
 
-## 创建默认项目 {#create-a-default-program}
+## 创建默认项目{#create-a-default-program}
 
 与某些项目（如电子邮件）不同，默认项目始终处于打开状态，这些可能会在特定时间段内定期运行。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 单击 **新建** ，然后选 **择新建项目**。
+1. 单击&#x200B;**新建**&#x200B;并选择&#x200B;**新建项目**。
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. 如果您已有项目，可以克隆 [它](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)。
+1. 如果已经有项目，可以[克隆它](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)。
 
    >[!TIP]
    >
@@ -65,7 +65,7 @@ ht-degree: 0%
    >
    >或者，将其设置为渠道_Adsource_AssetName_Region_UniqueIdNumber。 这可能是：Social-Paid_Facebook_NewGuide_NA_123。
 
-## 为新名称创建智能活动 {#create-a-smart-campaign-for-new-names}
+## 为新名称创建智能活动{#create-a-smart-campaign-for-new-names}
 
 1. 在智能活动中，创建一个包含两个触发器和两个过滤器的智能列表，如图所示。
 
@@ -73,19 +73,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在两个触发器中使用的查询字符串和“捕获 **的名称的项目** ”过滤器是您特有的。 此处显示的查询字符串只是示例。 如果克隆了该字段，只需替换这些字段。
+   >这两个触发器中使用的查询字符串和&#x200B;**捕获的名称**&#x200B;过滤器的项目是您特有的。 此处显示的查询字符串只是示例。 如果克隆了该字段，只需替换这些字段。
 
-1. 创建流步骤，将属性更改为“ **客户赢取项目** ”，并将“新值”设置为您为付费社交活动定义的值。
+1. 创建流步骤，将属性更改为&#x200B;**客户获取项目**，并将“新值”设置为您为付费社交活动定义的值。
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
 1. 计划并激活活动。
 
-## 为状态/活动成功创建智能项目 {#create-a-smart-campaign-for-status-program-success}
+## 为状态/项目成功创建智能活动{#create-a-smart-campaign-for-status-program-success}
 
 您需要第二个智能活动来更改人员状态，以便他们获得项目成功并纳入收入归因计算。
 
-1. 在“填 **出表单** ”触发器中，在查询字符串中输入项目名称。 如果要仿制项目，只需将旧查询字符串名称替换为新名称。
+1. 在&#x200B;**填写表单**&#x200B;触发器中，在项目字符串中输入查询名称。 如果要仿制项目，只需将旧查询字符串名称替换为新名称。
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
 1. 计划并激活活动。
 
-## 创建广告 {#create-your-ad}
+## 创建您的广告{#create-your-ad}
 
 设置项目和活动后，请创建新广告。
 
@@ -120,16 +120,16 @@ ht-degree: 0%
    >
    >    
    >    
-   >    * **source** 是用作渠道标识符的人员来源
-   >    * **comment** 是为每个项目创建的唯一标识符
-   >    * **camp是** Facebook、LinkedIn或Google中的活动
-   >    * **kk** 是您要捕获的关键字或资产名称
+   >    * **来** 源是用作渠道标识符的人员来源
+   >    * **注** 释为每个项目创建的唯一标识符
+   >    * **** Facebook、LinkedIn或Google中的活动
+   >    * **** kkis您要捕获的关键字或资产名称
 
    >    
    >    
    >**这四个术语必须全为小写，并且URL中不能有任何空格来捕获此信息。**
 
-## 最佳实践 {#best-practices}
+## 最佳实践{#best-practices}
 
 使用单个渠道标签来表示所有数字广告，或者，如果您希望与其他营销渠道（例如，社交付费、搜索付费、展示广告、重定位）进行更精细的比较，则使用多个渠道标签。
 
