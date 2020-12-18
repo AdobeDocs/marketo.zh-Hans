@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 筛选活动电子邮件报告中的资产 {#filter-assets-in-a-campaign-email-reports}
+# 筛选活动电子邮件报告中的资产{#filter-assets-in-a-campaign-email-reports}
 
-将您的 [活动电子邮件](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) “性能”报告重 [点放在项目](http://docs.marketo.com/display/docs/smart+campaigns) （“本地资产”）中的特定智能活动上，或放在已存档的智能上。
+将您的[活动电子邮件性能](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)报告集中在项目（“本地资产”）中的特定[智能活动](http://docs.marketo.com/display/docs/smart+campaigns)上，或集中在已存档的客户上。
 
-1. 转至**Analytics **(或营销 **活动**)区域。
+1. 转至**Analytics **(或&#x200B;**营销活动**)区域。
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. 单击“设 **置** ”选项卡，然后拖动到过滤器上。
+1. 单击&#x200B;**设置**&#x200B;选项卡并拖动到过滤器上。
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
    >
    >如果选择文件夹，则报表将包含运行报表时该文件夹包含的所有内容。
 
-1. 你完了！ 单击报 **告** 选项卡以查看筛选的报告。
+1. 你完了！ 单击&#x200B;**Report**&#x200B;选项卡以查看已过滤的报告。
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
@@ -57,5 +57,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >了解有关基本报告中 [的报告](http://docs.marketo.com/display/docs/basic+reporting)。
+   >了解[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中的所有报告。
 
