@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 为登陆页启用个性化URL {#enable-personalized-urls-for-a-landing-page}
+# 为登陆页{#enable-personalized-urls-for-a-landing-page}启用个性化URL
 
 个性化URL非常适合印刷邮件活动。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 
 
-1. 选择登陆页，然后单击个性化URL **的设置**。
+1. 选择登陆页，然后单击“个性化URL **”的设置。**
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. 现在，您可以选 **中“启用个性化URL** ”并单 **击“保存**”。
+1. 现在，您可以选中&#x200B;**启用个性化URL**&#x200B;并单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
