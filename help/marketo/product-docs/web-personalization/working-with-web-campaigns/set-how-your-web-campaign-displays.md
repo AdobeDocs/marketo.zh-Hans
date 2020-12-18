@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# 设置Web活动的显示方式 {#set-how-your-web-campaign-displays}
+# 设置Web活动显示方式{#set-how-your-web-campaign-displays}
 
 在何时／如何显示Web活动方面，有几种方法可供使用。
 
-## 页面加载 {#page-load}
+## 页面加载{#page-load}
 
 默认情况下，此选项仅在载入页面时显示活动。
 
 ![](assets/pl1.png)
 
-## 延迟 {#delay}
+## 延迟{#delay}
 
 指定时间延迟（以总秒为单位），让Web活动在您的网站上做出响应。
 
-1. 单击“ **显示** -开始”下拉框，然后选 **择“延迟**”。
+1. 单击&#x200B;**显示在**&#x200B;下拉框，然后选择&#x200B;**延迟**。
 
    ![](assets/d1.png)
 
-1. 单击 **等待** 下拉框，然后选择所需的时间量。
+1. 单击&#x200B;**等待**&#x200B;下拉框并选择所需的时间。
 
    ![](assets/d2.png)
 
-## 滚动 {#scroll}
+## 滚动{#scroll}
 
-1. 单击“ **显示** -开始”下拉框，然后选 **择“Scroll**”。
+1. 单击&#x200B;**显示在**&#x200B;下拉框中，然后选择&#x200B;**滚动**。
 
    ![](assets/s1.png)
 
-1. 单击 **When** （时间）下拉框，选择要显示Web活动的时间。
+1. 单击&#x200B;**When**&#x200B;下拉框，选择您希望何时显示Web活动。
 
    ![](assets/s2.png)
 
@@ -60,11 +60,11 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 退出意图 {#exit-intent}
+## 退出意图{#exit-intent}
 
 退出意图将在鼠标光标退出浏览器时显示Web活动。
 
-1. 单击“ **显示方式** ”下拉框，然后选 **择“退出方法”**。
+1. 单击&#x200B;**显示于**&#x200B;下拉框，然后选择&#x200B;**退出意图**。
 
    ![](assets/ei1.png)
 
@@ -74,5 +74,5 @@ ht-degree: 0%
 
 >[!TIP]
 >
->想了解您选择的效果将如何提前呈现？ 通过Web活动 [预览查看](preview-and-test-a-web-campaign.md)。
+>想了解您选择的效果将如何提前呈现？ 通过[Web活动预览](preview-and-test-a-web-campaign.md)查看它们。
 
