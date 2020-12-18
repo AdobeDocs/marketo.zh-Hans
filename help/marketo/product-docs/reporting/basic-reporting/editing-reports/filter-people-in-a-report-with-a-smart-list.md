@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用智能列表筛选报表中的人员 {#filter-people-in-a-report-with-a-smart-list}
+# 使用智能列表{#filter-people-in-a-report-with-a-smart-list}过滤报告中的人员
 
 使用智能列表按特定人员属性筛选报表。
 
@@ -28,11 +28,11 @@ ht-degree: 0%
 * [公司Web活动](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [网页活动](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. 转到“营销 **活动** ”区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. 从导航树中选择您的报表，然后单击智 **能列表** 选项卡。
+1. 从导航树中选择您的报告，然后单击&#x200B;**智能列表**&#x200B;选项卡。
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. 单击报 **告** 选项卡以查看筛选的报告。
+1. 单击&#x200B;**Report**&#x200B;选项卡以查看已过滤的报告。
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
@@ -55,5 +55,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >有关报表的更多使用方式，请参 [阅基本报告](http://docs.marketo.com/display/docs/basic+reporting) 。
+   >有关使用报告的更多方法，请参阅[基本报告](http://docs.marketo.com/display/docs/basic+reporting)深入介绍。
 
