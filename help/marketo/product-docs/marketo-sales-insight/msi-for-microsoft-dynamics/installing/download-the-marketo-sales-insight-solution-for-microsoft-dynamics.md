@@ -19,19 +19,19 @@ ht-degree: 0%
 
 您需要将Marketo Solution for Sales Insight下载并安装到您的Microsoft Dynamics帐户中，才能开始同步。
 
-1. 转到“管 **理** ”区域。
+1. 转至&#x200B;**Admin**&#x200B;区域。
 
    ![](assets/mainnavhand.png)
 
-1. 单击 **CRM**。
+1. 单击&#x200B;**CRM**。
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
-1. 选择 **Microsoft**。
+1. 选择&#x200B;**Microsoft**。
 
    ![](assets/image2016-5-3.png)
 
-1. 选择 **下载Marketo解决方案**。
+1. 选择&#x200B;**下载Marketo Solution**。
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
