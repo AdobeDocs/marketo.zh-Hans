@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 第2步，共3步：在Dynamics中设置Marketo同步用户 {#step-of-set-up-marketo-sync-user-in-dynamics}
+# 第2步，共3步：在Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}中设置Marketo同步用户
 
 让我们通过创建用户帐户开始。
 
@@ -19,37 +19,37 @@ ht-degree: 0%
 >
 >[第1步，共3步：安装Marketo Solution（在线）](step-1-of-3-install.md)
 
-## 创建新用户 {#create-a-new-user}
+## 创建新用户{#create-a-new-user}
 
-1. 登录Dynamics。 单击“设置”图标，然后选择“ **高级设置”**。
+1. 登录Dynamics。 单击“设置”图标，然后选择“高级设置”**。**
 
    ![](assets/one.png)
 
-1. 单击**设置**并选择“安 **全性**”。
+1. 单击**设置**并选择&#x200B;**安全**。
 
    ![](assets/two.png)
 
-1. 单击“ **用户**”。
+1. 单击&#x200B;**用户**。
 
    ![](assets/three.png)
 
-1. 单击 **新建。**
+1. 单击&#x200B;**新建。**
 
    ![](assets/four.png)
 
-1. 在新 **窗口中单击** “添加和授权用户”。
+1. 在新窗口中单击&#x200B;**添加和许可用户**。
 
    ![](assets/five.png)
 
-1. 此时将打开一个新选项卡。 单 **击页** 面顶部的“管理员”。
+1. 此时将打开一个新选项卡。 单击页面顶部的&#x200B;**管理员**。
 
    ![](assets/six.png)
 
-1. 将打开另一个新选项卡。 单击 **添加用户**。
+1. 将打开另一个新选项卡。 单击&#x200B;**添加用户**。
 
    ![](assets/seven.png)
 
-1. 输入您的所有信息。 完成后，单击“添 **加”**。
+1. 输入您的所有信息。 完成后，单击&#x200B;**添加**。
 
    ![](assets/eight.png)
 
@@ -57,17 +57,17 @@ ht-degree: 0%
    >
    >此名称必须是专用的同步用户，而不是现有CRM用户的帐户。 它不必是实际的电子邮件地址。
 
-1. 输入要接收新用户凭据的电子邮件，然后单击“发 **送电子邮件并关闭**”。
+1. 输入要接收新用户凭据的电子邮件，然后单击&#x200B;**发送电子邮件并关闭**。
 
    ![](assets/nine.png)
 
-## 分配同步用户角色 {#assign-sync-user-role}
+## 分配同步用户角色{#assign-sync-user-role}
 
 将Marketo Sync用户角色仅分配给Marketo Sync用户。 您无需将其分配给任何其他用户。
 
 >[!NOTE]
 >
->这适用于Marketo版本4.0.0.14及更高版本。 对于早期版本，所有用户必须具有同步用户角色。 要升级Marketo，请参 [阅Microsoft Dynamics的Upgrade Marketo解决方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
+>这适用于Marketo版本4.0.0.14及更高版本。 对于早期版本，所有用户必须具有同步用户角色。 要升级Marketo，请参阅[Upgrade Marketo Solution for Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
 
 1. 返回“已启用的用户”选项卡并刷新用户列表。
 
@@ -77,58 +77,58 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. 单击 **管理角色**。
+1. 单击&#x200B;**管理角色**。
 
    ![](assets/twelve.png)
 
-1. 选中 **Marketto Sync User** ，然后单 **击确定**。
+1. 选中&#x200B;**Marketto Sync User**&#x200B;并单击&#x200B;**确定**。
 
    ![](assets/thirteen.png)
 
    >[!NOTE]
    >
-   >同步用户在CRM中所做的任何更新都 **不会** 同步回Marketo。
+   >同步用户在CRM中所做的任何更新都将&#x200B;**不**&#x200B;同步回Marketo。
 
-## 配置Marketo解决方案 {#configure-marketo-solution}
+## 配置Marketo解决方案{#configure-marketo-solution}
 
 快到了！ 我们只剩下向Marketo Solution通知所创建的新用户。
 
-1. 返回“高级设置”部分，单击“设 ![](assets/image2015-5-13-15-3a49-3a19.png)置”旁边的图标，然后选择“ **Marketto配置”**。
+1. 返回“高级设置”部分，单击“设置”旁的![](assets/image2015-5-13-15-3a49-3a19.png)图标，然后选择“Marketto Config”**。**
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >如果“设置”菜单中 **未显示Marketo** Config，请刷新页面。 如果这不起作用，请尝试再次 [发布Marketo Solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations)[](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) ，或注销并重新登录。
+   >如果“设置”菜单中未显示&#x200B;**Marketo Config**，请刷新页面。 如果这不起作用，请尝试再次发布Marketo Solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations)或注销并重新登录。[
 
-1. 单击 **默认**。
+1. 单击&#x200B;**默认**。
 
    ![](assets/fifteen.png)
 
-1. 单击Marketo用户字段上 **的搜索按钮** ，然后选择您创建的同步用户。
+1. 单击&#x200B;**Marketo User**&#x200B;字段上的搜索按钮，然后选择您创建的同步用户。
 
    ![](assets/sixteen.png)
 
-1. 单击 ![](assets/image2015-3-13-15-3a10-3a11.png)右下角的图标以保存更改。
+1. 单击右下角的![](assets/image2015-3-13-15-3a10-3a11.png)图标以保存更改。
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
-1. 单击 **右上** 方的X以关闭屏幕。
+1. 单击右上角的&#x200B;**X**&#x200B;以关闭屏幕。
 
    ![](assets/seventeen.png)
 
-1. 单击“设 ![](assets/image2015-5-13-15-3a49-3a19-1.png)置”旁的图标，然后选择“解决 **方案”**。
+1. 单击“设置”旁边的![](assets/image2015-5-13-15-3a49-3a19-1.png)图标，然后选择“**解决方案**”。
 
    ![](assets/eighteen.png)
 
-1. 单击“发 **布所有自定义** ”按钮。
+1. 单击&#x200B;**发布所有自定义**&#x200B;按钮。
 
    ![](assets/nineteen.png)
 
-## 在继续执行步骤3之前 {#before-proceeding-to-step}
+## 继续执行步骤3 {#before-proceeding-to-step}之前
 
     *如果要限制同步的记录数，请立即[设置自定义同步过滤器](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
-    *运行[验证Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)进程。 它验证初始设置是否正确完成。
+    *运行[验证Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)进程。它验证初始设置是否正确完成。
     *在Microsoft Dynamics CRM中登录Marketo Sync用户。
 
 >[!NOTE]
