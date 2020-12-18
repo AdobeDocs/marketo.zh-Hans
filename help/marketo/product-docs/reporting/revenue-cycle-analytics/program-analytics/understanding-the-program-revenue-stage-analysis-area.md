@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解项目收入阶段分析区 {#understanding-the-program-revenue-stage-analysis-area}
+# 了解项目收入阶段分析区域{#understanding-the-program-revenue-stage-analysis-area}
 
 此分析区域允许您分析单个项目的有效性或按渠道查看汇总结果。 它提供洞察，了解生成的新名称中有多少已在收入周期模型中达到特定成功路径阶段。
 
