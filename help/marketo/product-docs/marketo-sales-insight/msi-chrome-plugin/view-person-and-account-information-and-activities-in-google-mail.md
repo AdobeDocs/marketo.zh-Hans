@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 视图人和帐户信息及Google邮件中的活动 {#view-person-and-account-information-and-activities-in-google-mail}
+# 视图人和帐户信息以及Google邮件中的活动{#view-person-and-account-information-and-activities-in-google-mail}
 
-## 视图活动 {#view-activities-in-google-mail}
+## Google邮件中的视图活动{#view-activities-in-google-mail}
 
 使用上下文营销工具的“洞察”窗格查看帐户信息和最近的活动。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## 视图活动在Google Chrome中 {#view-activities-in-google-chrome}
+## Google Chrome中的视图活动{#view-activities-in-google-chrome}
 
 您还可以使用Google Chrome中的“全局活动”窗格来查看最近与您通信的所有人所发生的最新活动的完整列表。 这是实时更新的源，它会持续显示图标上未读活动的数量。
 
