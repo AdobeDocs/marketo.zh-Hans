@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# “管理员设置”选项卡 {#admin-settings-tab}
+# 管理设置选项卡{#admin-settings-tab}
 
 “管理员设置”选项卡将允许任何帐户的管理员查看其团队的设置（与计划限制相关），以及成批控制其团队电子邮件登录Salesforce的方式。
 
-如果选中“覆 **盖我的团队的所有Salesforce同步设置** ”复选框，您将看到选项，该选项仅允许通过密送或仅通过API进行记录。
+如果选中&#x200B;**覆盖我的团队**&#x200B;的所有Salesforce同步设置复选框，您将看到选项，该选项将仅允许通过BCC进行记录，或仅允许通过API进行记录。
 
-如果选择 **API记录**，则为Opportunity、Lead和Contacts选择的所有设置 `will be set for the entire team after you click **Save Changes**.`
+如果选择&#x200B;**API日志**，则为Opportunity、Lead和Contacts `will be set for the entire team after you click **Save Changes**.`选择的所有设置
 
 从此处，您还可以在整个团队中大量启用Opportunity和任务同步。
 
