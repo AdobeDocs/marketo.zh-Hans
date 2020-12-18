@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用动态内容编辑片段 {#edit-snippets-with-dynamic-content}
+# 使用动态内容{#edit-snippets-with-dynamic-content}编辑代码片段
 
 >[!PREREQUISITES]
 >
@@ -24,25 +24,25 @@ ht-degree: 0%
 
 使用代码片段中的细分功能轻松管理电子邮件和登陆页上的动态内容。
 
-## 添加分段 {#add-segmentation}
+## 添加分段{#add-segmentation}
 
-1. 转到Design **Studio**。
+1. 转到&#x200B;**Design Studio**。
 
    ![](assets/designstudio-1.png)
 
-1. 单击您的**代码片断**，然后单击“编 **辑草稿”**。
+1. 单击您的**代码片断**，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. 单击“ **区段依据**”。
+1. 单击&#x200B;**区段依据**。
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. 输入**分段**并单击“保 **存**”。
+1. 输入**分段**并单击&#x200B;**保存**。
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
-## 应用动态内容 {#apply-dynamic-content}
+## 应用动态内容{#apply-dynamic-content}
 
 1. 单击**区段**，然后编辑内容。 对每个区段重复
 
