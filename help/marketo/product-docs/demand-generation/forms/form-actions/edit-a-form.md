@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 编辑表单 {#edit-a-form}
+# 编辑表单{#edit-a-form}
 
 如果要对现有表单进行任何更改，下面将介绍如何开始该过程。
 
-1. 转到营 **销****活动**。
+1. 转至&#x200B;**Marketing** **活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择表单，然后单击 **编辑****表单**。
+1. 选择表单，然后单击&#x200B;**编辑** **表单**。
 
    ![](assets/editform.png)
 
@@ -27,5 +27,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->单击此处了解有关编辑和自定义表 [单的更](http://docs.marketo.com/display/docs/forms) 多信息。
+>单击此处，进一步了解编辑和自定义[表单。](http://docs.marketo.com/display/docs/forms)
 
