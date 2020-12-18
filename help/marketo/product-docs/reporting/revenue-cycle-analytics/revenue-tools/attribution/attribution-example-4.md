@@ -19,8 +19,8 @@ ht-degree: 0%
 * 4月15日 | John参加（网络研讨会）-成功
 * 4月22日 |(Opportunity 1)创建价格为3,000美元
 * 4月24日 |(Opportunity 2)创建价格为5,000美元
-* 4月25日 | John和Michelle都与Optys **相关**
-* 4月29日 | [Opty] 1是闭门币
+* 4月25日 | John和Michelle与&#x200B;**两个** Optys关联
+* 4月29日 | [ Opty 1]为Closed-Won
 
 | 项目名称 | （内容） | （网络研讨会） |
 |---|---|---|
