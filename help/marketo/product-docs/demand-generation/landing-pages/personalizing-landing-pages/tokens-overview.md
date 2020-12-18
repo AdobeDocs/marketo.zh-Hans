@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 令牌概述 {#tokens-overview}
+# 令牌概述{#tokens-overview}
 
-令牌是一个变量，可用于Market以智能 [活动](http://docs.marketo.com/display/DOCS/Smart+Campaigns) 流步骤、电子邮 [件、](http://docs.marketo.com/display/DOCS/General)[、登陆页](http://docs.marketo.com/display/DOCS/Landing+Pages)、代码 [、](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)[](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)和Web活动。
+令牌是可用于Marketo [智能活动](http://docs.marketo.com/display/DOCS/Smart+Campaigns)流步骤、[电子邮件](http://docs.marketo.com/display/DOCS/General)、[登陆页](http://docs.marketo.com/display/DOCS/Landing+Pages)、[代码片段](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)和[网络活动](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)的变量。
 
-## 了解默认值 {#understanding-default-values}
+## 了解默认值{#understanding-default-values}
 
 使用令牌时，您还希望提供默认值。 这是显示人员是否没有您引用的字段的值的文本。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >此列表并非完全。 还会为Marketo中的每个自定义字段创建令牌。
 
-## 人物令牌 {#person-tokens}
+## 人员令牌{#person-tokens}
 
 * `{{lead.Acquisition Date}}`
 * `{{lead.Acquisition Program Name}}`
@@ -87,9 +87,9 @@ ht-degree: 0%
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* 如果您使用自定义人员字段的显示名称，则自定义人员字段也会起作用，例如， `{{lead.Custom Field Name}}`
+* 如果您使用人员的显示名称（例如`{{lead.Custom Field Name}}`），则自定义人员字段也会起作用
 
-## 公司令牌 {#company-tokens}
+## 公司令牌{#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -110,19 +110,19 @@ ht-degree: 0%
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* 如果您使用自定义公司字段的显示名称（例如），则该字段也有效。 `{{Company.Custom Field Name}}`
+* 如果您使用自定义公司字段的显示名称（例如），则该字段也有效。`{{Company.Custom Field Name}}`
 
-## 活动令牌 {#campaign-tokens}
+## 活动令牌{#campaign-tokens}
 
 * `{{campaign.name}}`
 * `{{campaign.id}}`
 * `{{campaign.description}}`
 
-## 系统令牌 {#system-tokens}
+## 系统令牌{#system-tokens}
 
 >[!NOTE]
 >
->在“系统令牌词汇表”中了 [解有关这些令牌的更多信息](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)。
+>在[系统令牌术语表](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)中进一步了解这些令牌。
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -131,7 +131,7 @@ ht-degree: 0%
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## 触发令牌 {#trigger-tokens}
+## 触发令牌{#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,9 +149,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->根据智能活动中 [使用的触发器](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) ，查找有关有趣时刻的令牌的更多详细信息。
+>根据智能活动中使用的触发器，查找有关[令牌的更多详细信息，以获得有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)。
 
-## 项目令牌 {#program-tokens}
+## 项目令牌{#program-tokens}
 
 * `{{program.Name}}`
 
@@ -159,16 +159,16 @@ ht-degree: 0%
 
 * `{{program.id}}`
 
-## 我的令牌 {#my-tokens}
+## 我的令牌{#my-tokens}
 
-我的令牌是在项目中定义的， `{{my.` 以您为令牌创建的名称开头。 进一步了 [解我的令牌项目](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)。
+我的令牌在项目中定义，以`{{my.`开头，后跟您为令牌创建的名称。 进一步了解[项目中的我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)。
 
-## 成员令牌 {#member-token}
+## 成员令牌{#member-token}
 
-会员令牌用于插入集成服务合作伙伴的唯一值。 会员令牌的常见用途是网络研讨会与会者使用的唯一URL。 每个人都有一个唯一的URL来访问可以使用令牌插入的网络研 `{{member.webinar url}}` 讨会。 令牌 `{{member.webinar url}}` 会自动解析由服务提供商生成的人员的唯一确认URL。
+会员令牌用于插入集成服务合作伙伴的唯一值。 会员令牌的常见用途是网络研讨会与会者使用的唯一URL。 每个人都有一个唯一的URL来访问可使用`{{member.webinar url}}`令牌插入的网络研讨会。 `{{member.webinar url}}`令牌会自动解析由服务提供商生成的人员的唯一确认URL。
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->仅当 `{{member.webinar url}}` 发送电子邮件的智能活动是事件项目的子资产时，该令牌才会填充。
+>仅当发送电子邮件的智能活动是事件项目的子资产时，`{{member.webinar url}}`令牌才会填充。
