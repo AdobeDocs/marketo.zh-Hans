@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 删除报告 {#delete-a-report}
+# 删除报告{#delete-a-report}
 
-开始创 [建报表](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)，您很快就会得到大量报表。 切记删除不再需要的报告。
+开始[创建报告](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)后，您很快就会发现大量报告。 切记删除不再需要的报告。
 
-1. 右键单击树中不需要的报告，然后选择“删 **除报告”**。
+1. 右键单击树中不需要的报告，然后选择&#x200B;**删除报告**。
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 
@@ -30,5 +30,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >在“基本”报告深入了解报表的所 [有其他](http://docs.marketo.com/display/docs/basic+reporting) 功能。
+   >在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)深入了解报表的其他功能。
 
