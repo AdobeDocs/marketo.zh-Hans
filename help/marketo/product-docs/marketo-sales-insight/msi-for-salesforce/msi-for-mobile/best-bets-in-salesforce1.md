@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Salesforce的最佳下注1 {#best-bets-in-salesforce}
+# Salesforce1中的最佳下注{#best-bets-in-salesforce}
 
-您的 [最佳下注](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) ，是您具有最高紧急程度和相对得分的潜在客户和联系人。 只有您拥有的潜在客户才会显示在该列表中，并且列表会随着潜在客户分数的变化而更新。
+您的[最佳下注](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)是您的潜在客户和联系人，具有最高的紧急程度和相对得分。 只有您拥有的潜在客户才会显示在该列表中，并且列表会随着潜在客户分数的变化而更新。
 
 1. 转到Salesforce应用程序中的Marketo区域。
 
