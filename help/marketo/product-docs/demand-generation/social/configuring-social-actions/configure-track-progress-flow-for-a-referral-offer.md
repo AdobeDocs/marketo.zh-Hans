@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# 为引用优惠配置跟踪进度流 {#configure-track-progress-flow-for-a-referral-offer}
+# 为引用优惠{#configure-track-progress-flow-for-a-referral-offer}配置跟踪进度流
 
-创建引 [用优惠时](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，可以配置提示，向参加者显示其在奖励方面的进展。
+当[创建推荐优惠](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，您可以配置提示，向参加者显示他们在奖励方面的进展。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 选择参照优惠，然后单击“编 **辑草稿”**。
+1. 选择引用优惠，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. 在推荐优惠编辑器中，转 **到“跟踪进度流** ”> **“社交网络**”。
+1. 在引用优惠编辑器中，转至&#x200B;**跟踪进度流** > **社交网络**。
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. 在“ **视图** 和编 **辑****** ”窗口中，编辑提醒参加者登录到其用于注册优惠的同一社交网络的提示。
+1. 在&#x200B;**视图** **&amp;** **编辑**&#x200B;窗口中，编辑提示，提醒参加者登录到他们用于注册优惠的同一社交网络。
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >要高亮显示可编辑的文本， **请选择** 右上角的“显示编辑”。
+   >要高亮显示可编辑的文本，请选择右上角的&#x200B;**显示编辑**。
 
 1. 编辑鼓励参加者与更多朋友共享链接的提示。
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->然后，单击 **完成>批准并关闭** , [然后发布您的推荐优惠](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。
+>接下来，单击&#x200B;**完成>批准并关闭**&#x200B;和[发布您的推荐优惠](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。
 
