@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 批量发送选项 {#bulk-sending-options}
+# 批量发送选项{#bulk-sending-options}
 
-批量发送电子邮件是加快潜在客户互动的绝佳方式。 Sales Connect优惠了两种批量发送电子邮件的方式： **分组电子邮件** 、 **选择并发送**。 分组电子邮件是快速将数百封电子邮件发送给目标组的极好方法。 使用“选择并发送”意味着电子邮件的限度较低，但会为用户优惠更多自定义机会。
+批量发送电子邮件是加快潜在客户互动的绝佳方式。 Sales Connect优惠了两种批量发送电子邮件的方式：**分组电子邮件**&#x200B;和&#x200B;**选择并发送**。 分组电子邮件是快速将数百封电子邮件发送给目标组的极好方法。 使用“选择并发送”意味着电子邮件的限度较低，但会为用户优惠更多自定义机会。
 
 分组电子邮件与选择和发送
 
@@ -28,17 +28,17 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th><p><span>发送类型</span><span></span> </p></th> 
+   <th><p><span>SendType</span><span> </span> </p></th> 
    <th><p><span>最大电子邮件 </span><span></span><span>数</span> </p></th> 
    <th><p><span>发 </span><span>送方</span></p></th> 
    <th><p><span>批量编 </span><span>辑电子邮件</span> </p></th> 
-   <th><p><span>唯一编辑</span><span> 每封电子 </span><span>邮件</span> </p></th> 
+   <th><p><span>编辑每</span><span> 封电子邮件 </span><span>唯一</span> </p></th> 
    <th><p><span>模板和动 </span><span>态字段支持</span> </p></th> 
   </tr> 
   <tr> 
    <td><p><span>组电子邮件</span> </p></td> 
    <td><p><span>1,000</span> </p></td> 
-   <td><p><span>选择组并单击</span><span> “ </span><span>组操作”按钮</span><span>，或在“至”字段中键入组名称。 </span> </p></td> 
+   <td><p><span>选择组并单</span><span> 击“ </span><span>组操作”按钮</span><span>，或在“至”字段中键入组名称。  </span> </p></td> 
    <td><p><span>是</span> </p></td> 
    <td><p><span>否</span> </p></td> 
    <td><p><span>是</span> </p></td> 
