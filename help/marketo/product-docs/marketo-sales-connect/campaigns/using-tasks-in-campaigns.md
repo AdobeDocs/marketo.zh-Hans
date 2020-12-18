@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在活动中使用任务 {#using-tasks-in-campaigns}
+# 在活动{#using-tasks-in-campaigns}中使用任务
 
 任务是向联系人发送活动时的强大工具，尤其是当您的销售流程是多渠道/触摸时。
 
