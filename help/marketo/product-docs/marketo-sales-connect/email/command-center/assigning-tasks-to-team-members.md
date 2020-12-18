@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 为团队成员分配任务 {#assigning-tasks-to-team-members}
+# 将任务分配给团队成员{#assigning-tasks-to-team-members}
 
 如果要与其他团队成员协作，分配任务可以很好地协调潜在客户工作。
 
 >[!NOTE]
 >
->您只能为共享联系人分配任务。 在与共享任务协 [作之前，您需要与团队成员](http://docs.marketo.com/x/fwDb) 共享一组联系人。
+>您只能为共享联系人分配任务。 在与共享任务协作之前，您将希望与团队成员[共享一组联系人](http://docs.marketo.com/x/fwDb)。
 
-1. 单击“命 **令中心**”。
+1. 单击&#x200B;**命令中心**。
 
    ![](assets/one-1.png)
 
-1. 单击 **添加任务**。
+1. 单击&#x200B;**添加任务**。
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 添加与团队成员相关的任何重要详细信息（可选），然后单击“ **创建**”。
+1. 添加与团队成员相关的任何重要详细信息（可选），然后单击&#x200B;**创建**。
 
    ![](assets/nine.png)
 
