@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 删除移动推送通知 {#delete-mobile-push-notification}
+# 删除移动推送通知{#delete-mobile-push-notification}
 
 1. 转到“营销活动”区域。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. 在“ **推送通知操作**”下，单 **击删除**。
+1. 在&#x200B;**推送通知操作**&#x200B;下，单击&#x200B;**删除**。
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
