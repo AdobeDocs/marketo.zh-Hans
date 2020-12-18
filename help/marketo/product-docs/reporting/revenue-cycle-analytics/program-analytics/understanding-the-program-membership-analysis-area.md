@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解项目会员资格分析区 {#understanding-the-program-membership-analysis-area}
+# 了解项目会员分析区域{#understanding-the-program-membership-analysis-area}
 
 项目会员资格分析区域允许您分析单个项目的有效性，或查看特定时间段内按渠道列出的汇总结果。
 
-## 业务问题示例 {#example-business-questions}
+## 业务问题示例{#example-business-questions}
 
 在一个指定月中有多少人按渠道参加项目?
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 
 ![](assets/three-2.png)
 
-## 项目会员分析Dimension与措施 {#program-membership-analysis-dimensions-and-measures}
+## 项目会员分析Dimension和措施{#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >黄点是尺寸，蓝点是度量。
 
-### 会员资格 {#membership}
+### 成员资格{#membership}
 
 | 度量 | 说明 |
 |---|---|
@@ -43,14 +43,14 @@ ht-degree: 0%
 | 成员 | 项目中的潜在客户总数 |
 | 新名称 | 项目获取的新名称总数 |
 
-### 项目属性 {#program-attributes}
+### 项目属性{#program-attributes}
 
 | Dimension | 说明 |
 |---|---|
 | 项目渠道 | 项目渠道 |
 | 项目名称 | 项目名称 |
 
-### 项目会员资格期限 {#program-membership-timeframe}
+### 项目会员资格期限{#program-membership-timeframe}
 
 | Dimension | 说明 |
 |---|---|
@@ -60,7 +60,7 @@ ht-degree: 0%
 | 周 | 项目会员资格期限 |
 | 日期 | 项目会员资格期限 |
 
-### 成功 {#success}
+### 成功{#success}
 
 | 度量 | 说明 |
 |---|---|
