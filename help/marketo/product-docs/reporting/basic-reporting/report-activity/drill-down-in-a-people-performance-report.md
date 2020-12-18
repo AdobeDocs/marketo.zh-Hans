@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 深入人员绩效报告 {#drill-down-in-a-people-performance-report}
+# 深入查看人员性能报告{#drill-down-in-a-people-performance-report}
 
 展开人员绩效报告以查看其他人员信息。
 
-1. 单击“报 **告** ”选项卡以视图任何现有报告。
+1. 单击&#x200B;**报告**&#x200B;选项卡以视图任何现有报告。
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 单击 **向下钻取**。
+1. 单击&#x200B;**向下钻取**。
 
    ![](assets/three.png)
 
-1. 在“ **向下钻取** ”弹出窗口中，选择要向下钻取的属性。 然后单击**向下钻取**。
+1. 在&#x200B;**向下钻取**&#x200B;弹出窗口中，选择要向下钻取的属性。 然后单击**向下钻取**。
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 要保存结果（可选），请单 **击左** 下角的“导出”图标。
+1. 要保存结果（可选），请单击左下角的&#x200B;**导出**&#x200B;图标。
 
    ![](assets/six.png)
 
