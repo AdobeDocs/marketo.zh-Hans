@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解推送通知 {#understanding-push-notifications}
+# 了解推送通知{#understanding-push-notifications}
 
 >[!NOTE]
 >
@@ -23,17 +23,17 @@ Marketo移动互动允许您创建、配置和发送通知，就像创建电子�
 >
 >推送通知是一个加载项，在您开始之前，必须由营销人员管理员打开。
 
-## 第1步：管理员和开发人员执行初始设置 {#step-admin-and-developer-perform-initial-setups}
+## 第1步：管理员和开发人员执行初始设置{#step-admin-and-developer-perform-initial-setups}
 
-营销人员管理员和移动应用程序开发人员携手为您进行设置。 有关 [详细信息，请参阅创建推送通知和应用程序内消息](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) 。
+营销人员管理员和移动应用程序开发人员携手为您进行设置。 有关详细信息，请参阅[创建推送通知和应用程序内消息](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)之前。
 
-## 第2步：创建推送通知 {#step-create-a-push-notification}
+## 第2步：创建推送通知{#step-create-a-push-notification}
 
-[制作消息](create-a-push-notification.md) ，并预览消息在Android和iOS设备上的显示方式。
+[创作](create-a-push-notification.md) 消息并预览消息在Android和iOS设备上的显示方式。
 
-## 第3步：发送！ {#step-send}
+## 第3步：发送！{#step-send}
 
-[推送通知可使用触发器](send-a-mobile-push-notification.md) 和批量智能活动发送。 很酷吧？
+[推送通知可以使](send-a-mobile-push-notification.md) 用触发器和批量智能活动发送。很酷吧？
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
