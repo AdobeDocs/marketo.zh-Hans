@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将营销人员列表或智能列表用作LinkedIn受众细分 {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# 将营销列表或智能列表用作LinkedIn受众段{#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 将您的营销人员与LinkedIn受众集成。
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 单击“人 **员** ”选项卡。
+1. 单击&#x200B;**People**&#x200B;选项卡。
 
    ![](assets/three-1.png)
 
-1. 单击列表底部的** ![通过](assets/image2015-4-20-18-3a18-3a41.png) 广告桥**图标。
+1. 单击列表底部的**通过广告桥接器发送**图标![—](assets/image2015-4-20-18-3a18-3a41.png)。
 
    ![](assets/four-1.png)
 
@@ -43,15 +43,15 @@ ht-degree: 0%
    >
    >当使用广告网络集成将受众发送到LinkedIn时，Marketo只发送电子邮件地址。
 
-1. 选择** LinkedIn**，然后单击“下 **一步**”。
+1. 选择** LinkedIn**，然后单击&#x200B;**下一步**。
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. 选择一个 **LinkedIn受众**。
+1. 选择&#x200B;**LinkedIn受众**。
 
    >[!NOTE]
    >
-   >单击 **+新受众** ，将在LinkedIn活动管理器中创建受众。
+   >单击&#x200B;**+New受众**&#x200B;将在LinkedIn活动管理器中创建受众。
 
    ![](assets/6.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >LinkedIn于2018年3月弃用了用于“清除受众并添加潜在客户”推送类型的API。 自Marketo的2018年第1季度版本起，此选项不再可用。
 
-1. 选择一 **个推送类型**。 单击 **更新**。
+1. 选择&#x200B;**推送类型**。 单击&#x200B;**更新**。
 
    ![](assets/7.png)
 
