@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 选择表单主题 {#select-a-form-theme}
+# 选择表单主题{#select-a-form-theme}
 
 我们为你的表格做了许多好主题。 你最喜欢哪个？
 
-1. 转到营 **销****活动**。
+1. 转至&#x200B;**Marketing** **活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择表单，然后单击 **编辑****表单**。
+1. 选择表单，然后单击&#x200B;**编辑** **表单**。
 
    ![](assets/editform.png)
 
-1. 转到“ **表单****设置”**。
+1. 转至&#x200B;**Form** **Settings**。
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. 来回切换以选择您喜 **欢的****表** 单主题。
+1. 来回切换以选择您喜欢的&#x200B;**表单** **主题**。
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您还可以 [编辑表单主题的CSS](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)。
+   >您还可以[编辑表单主题的CSS](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)。
 
-1. 单击 **下一** 步以配置其他表单选项，如果您只想更改表 **单** 主题，则单击“完成”。
+1. 单击&#x200B;**Next**&#x200B;以配置其他表单选项，或单击&#x200B;**Finish**（如果只想更改表单主题）。
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
