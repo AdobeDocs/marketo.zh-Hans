@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 对人员进行批量操作 {#bulk-actions-on-people}
+# 对人员执行批量操作{#bulk-actions-on-people}
 
 您可以批量处理联系人以节省时间。
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 ![](assets/one-3.png)
 
-## 将人员添加到组 {#add-people-to-group}
+## 将人员添加到组{#add-people-to-group}
 
 同时向组添加多个人。
 
 ![](assets/add-to-group.png)
 
-## 源 {#source}
+## 源{#source}
 
 我们会自动为进入数据库的每个联系人分配一个源。 使用此步骤更新该源。
 
@@ -35,21 +35,21 @@ ht-degree: 0%
 >
 >源不可自定义。
 
-## 授权 {#authorization}
+## 授权{#authorization}
 
-为遵守 [GDPR](http://eugdpr.org/)，请使用授权来指示您如何获得与这些联系人互动的许可。
+遵循[GDPR](http://eugdpr.org/)，使用授权来指示您如何获得与这些联系人进行接洽的权限。
 
 ![](assets/authorization.png)
 
-## 取消订阅 {#unsubscribe}
+## 取消订阅{#unsubscribe}
 
 对不再希望收到您通信的联系人执行批量取消订阅。
 
 ![](assets/unsubscribe.png)
 
-## 删除 {#delete}
+## 删除{#delete}
 
-批量删除联系人。 此处可找到完整 [步骤](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)。
+批量删除联系人。 可以在[此处](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)找到完整步骤。
 
 ![](assets/delete.png)
 
