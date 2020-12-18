@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >安装该扩展时，您不必是营销人员管理员。
 
-1. 从Chrome [Web Store安装Google Chrome Add的Marketo](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) Insights扩展。
+1. 从Chrome Web商店安装扩展](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb)中的Google Chrome Add的[ Marketo Insights。
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -27,17 +27,17 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 输入您 **的注册**&#x200B;代码 **、电子邮**&#x200B;件地址 **、**&#x200B;名字 **和姓氏**。 单击 **验证并保存**。
+1. 输入&#x200B;**注册代码**、**电子邮件地址**、**名字**&#x200B;和&#x200B;**姓氏**。 单击&#x200B;**验证并保存**。
 
    ![](assets/three.png)
 
    >[!CAUTION]
    >
-   >注册时请务必使 **用您的主电子邮件** ，因为我们不支持使用此插件的别名。
+   >注册时，请务必使用&#x200B;**主电子邮件帐户**，因为我们不支持使用此插件的别名。
 
    >[!NOTE]
    >
-   >注册代码将在Marketo Admin向您发出Marketo Email Add-in许 [可](http://docs.marketo.com/pages/viewpage.action?pageid=7510848)[证后，在发送的电子邮件中](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)[。](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14天后过期。**
+   >注册代码将在Marketo管理员[i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [向您提交Marketo电子邮件插件许可证](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [后发送的电子邮件中。](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14天后过期。**
 
 1. 单击**允许**允许脱机访问。
 
