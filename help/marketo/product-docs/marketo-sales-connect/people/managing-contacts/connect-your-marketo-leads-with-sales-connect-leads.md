@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将您的营销人员与销售人员联系在一起 {#connect-your-marketo-leads-with-sales-connect-leads}
+# 将您的营销人员与销售人员连接潜在客户{#connect-your-marketo-leads-with-sales-connect-leads}
 
 为了最准确地将数据同步回Marketo,MSC要求人员记录保存了Marketo ID。 要将Marketo ID同步到MSC中，您可以单击有趣时刻旁边的V形标记。 当您在实时源中看到有趣的时刻到来时，单击下拉箭头，人物记录将添加到MSC数据库中并带有Marketo ID。
 
