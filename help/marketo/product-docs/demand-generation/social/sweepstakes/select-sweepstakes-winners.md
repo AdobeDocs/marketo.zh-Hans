@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 选择抽奖获奖者 {#select-sweepstakes-winners}
+# 选择抽奖得主{#select-sweepstakes-winners}
 
-发布抽 [奖时](publish-a-sweepstakes.md)，您需要为每张抽奖作品选择入选者。 执行此操作时，您 [的履行电子邮](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) 件会自动发送给他们。
+当您[发布抽奖](publish-a-sweepstakes.md)时，您需要为每个绘图选择入选方。 执行此操作时，您的[履行电子邮件](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)将自动发送给他们。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. 单击“ **挑选****入选方”**。
+1. 单击&#x200B;**Pick** **Winners**。
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
@@ -37,15 +37,15 @@ ht-degree: 0%
    >
    >要查看注册参加您的抽奖的列表人，请单击“**参加者**”选项卡。
 
-1. 选择入选者数量，选 **择“我已准备好选择**”，然后单 **击“Next**”。
+1. 选择入选方数，选择&#x200B;**我已准备好选择**，然后单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >如果为某个特定绘图选择0个入选方，该信息不会显示在“入选方”选 **项卡** 中。
+   >如果为特定绘图选择0个入选方，则该信息不会显示在&#x200B;**Winners**&#x200B;选项卡上。
 
-1. 单击 **“完成** ”，将履行电 [子邮件发送](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) 给列出的入选方。
+1. 单击&#x200B;**Finalize**&#x200B;将[实施电子邮件](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6)发送给列出的入选方。
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
