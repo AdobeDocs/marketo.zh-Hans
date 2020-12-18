@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# 我被锁在账户外。 我该怎么办？ {#i-got-locked-out-of-my-account-what-do-i-do}
+# 我被锁在账户外。 我该怎么办？{#i-got-locked-out-of-my-account-what-do-i-do}
 
-如果超过登录尝试次数，则帐户将被锁定。 请联系支 [](http://nation.marketo.com/community/support_solutions)持以获得解锁帮助。
+如果超过登录尝试次数，则帐户将被锁定。 请联系[支持](http://nation.marketo.com/community/support_solutions)以获得解锁帮助。
