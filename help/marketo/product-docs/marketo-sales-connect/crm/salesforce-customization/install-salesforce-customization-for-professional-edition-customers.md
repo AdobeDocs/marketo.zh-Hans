@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 为Professional Edition客户安装Salesforce自定义 {#install-salesforce-customization-for-professional-edition-customers}
+# 为Professional Edition客户安装Salesforce自定义{#install-salesforce-customization-for-professional-edition-customers}
 
 使用Salesforce Professional Edition的客户必须按照以下步骤安装自定义。
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 
 
-## 安装 {#installation}
+## 安装{#installation}
 
-1. 在Sales Connect中，单击右上角的齿轮图标，然后选择“设 **置”**。
+1. 在Sales Connect中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/one-4.png)
 
-1. 在“管理员设置”下，单 **击Salesforce**。
+1. 在“管理员设置”下，单击&#x200B;**Salesforce**。
 
    ![](assets/two-4.png)
 
@@ -38,17 +38,17 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果已连接，您将看到绿色的“安装”按钮。 **请勿单击** 此按钮，请改为继续执行步骤4。
+   >如果已连接，您将看到绿色的“安装”按钮。 **请勿** 单击此按钮，请改为继续执行步骤4。
 
-1. 登录到您所连接的Salesforce帐户，然后单击 [此链接](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)。
+1. 登录到您所连接的Salesforce帐户，然后单击[此链接](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)。
 1. 您将被发送到Sales Connect安装页面。
 
    ![](assets/install-package.png)
 
 1. 选择要为以下用户安装自定义项的用户：仅限管理员、所有用户或特定用户档案。
-1. 单击“安装 **”按** 钮以安装自定义。
+1. 单击&#x200B;**安装**&#x200B;按钮以安装自定义。
 1. 要确认安装成功，请登录您的Salesforce帐户。
-1. 单击 **“安装**”，在搜索栏中搜索“已安装的包”，然后单击“已 **安装包”**。
+1. 单击“**安装程序**”，在搜索栏中搜索“已安装的包”，然后单击“已安装的包”。****
 
    您将在此处看到Marketo Sales Connect自定义。
 
