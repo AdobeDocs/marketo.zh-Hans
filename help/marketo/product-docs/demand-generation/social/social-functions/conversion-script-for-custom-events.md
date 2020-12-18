@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 自定义事件的转换脚本 {#conversion-script-for-custom-events}
+# 自定义事件的转换脚本{#conversion-script-for-custom-events}
 
 在创建推荐优惠时，您可以定义实施目标。 如果目标操作是您自己网页上的特定事件，则可以使用转换脚本调用我们的JavaScript API。
 
-## 检索转换脚本 {#retrieve-the-conversion-script}
+## 检索转换脚本{#retrieve-the-conversion-script}
 
-1. 在引用优惠编辑器中，单 **击优惠详** 细信息，然后从 **实现目标下拉框中** 选择客户JavaScript事件。
+1. 在引用优惠编辑器中，单击&#x200B;**优惠详细信息**，然后从实现目标下拉列表中选择&#x200B;**客户JavaScript事件**。
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. 复制灰色框中的顶部脚本，并将其放在标记内的网页 `<body>` 上。 底部脚本放在标记 `<header>` 中。
+1. 复制灰色框中的顶部脚本，并将其放在您的网页上的`<body>`标记中。 底部脚本位于`<header>`标记中。
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -32,23 +32,23 @@ ht-degree: 0%
    >
    >如果两个脚本正在非Marketo网站上，请记住复制和粘贴它们。
 
-## 检索加载器脚本 {#retrieve-the-loader-script}
+## 检索Loader脚本{#retrieve-the-loader-script}
 
-1. 从树中选择引用优惠，然后单击 **引用优惠操作****和嵌入代码**。
+1. 从树中选择引用优惠，然后单击&#x200B;**引用优惠操作**&#x200B;和&#x200B;**嵌入代码**。
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. 右键单击标 **题代码** ，将其插入网页标题。 然后，对正文代码执 **行相同操作**。
+1. 右键单击&#x200B;**标题代码**&#x200B;并将其插入您的网页标题中。 然后，对&#x200B;**正文代码**&#x200B;执行同样的操作。
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
-## 将脚本粘贴到您的网页上 {#pasting-the-scripts-onto-your-webpage}
+## 将脚本粘贴到您的网页{#pasting-the-scripts-onto-your-webpage}
 
 将转换脚本粘贴到正文和标题的HTML中。 接下来，将加载器脚本放入HTML中作为正文和标题。
 
 ![](assets/image2015-4-20-21-3a0-3a16.png)
 
-## 连接转换脚本 {#connecting-the-conversion-script}
+## 连接转换脚本{#connecting-the-conversion-script}
 
 这里您将编写一个JavaScript函数，该函数使用任何要触发目标完成的页面元素的特定HTML ID。 例如：
 
