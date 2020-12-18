@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 与Adobe Connect建立事件 {#create-an-event-with-adobe-connect}
+# 创建与Adobe Connect{#create-an-event-with-adobe-connect}的事件
 
 与Adobe Connect同步使您能够管理Marketo内的网络研讨会注册和出席情况，确保不会失去参与。
 
@@ -21,29 +21,29 @@ ht-degree: 0%
 >* [创建新事件项目](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-首先，确保已在Adobe Connect创建会议或研讨会。 如果您需要帮助，请查阅《Adobe Connect [用户指南》](http://help.adobe.com/en_US/connect/9.0/using/index.html)。 您在Adobe Connect创建的会议和研讨会必须在您在Marketo中输入凭据时指定的文件夹下创建。 在创建会议或研讨会后，记下要在确认电子邮件和ICS文件中使用的任何相关后勤信息（如电话号码）。
+首先，确保已在Adobe Connect创建会议或研讨会。 如果您需要帮助，请查阅[《Adobe Connect用户指南》](http://help.adobe.com/en_US/connect/9.0/using/index.html)。 您在Adobe Connect创建的会议和研讨会必须在您在Marketo中输入凭据时指定的文件夹下创建。 在创建会议或研讨会后，记下要在确认电子邮件和ICS文件中使用的任何相关后勤信息（如电话号码）。
 
 >[!NOTE]
 >
->我 **们目前不** 支持Adobe Connect现场。
+>目前，我们&#x200B;**不**&#x200B;支持Adobe Connect现场。
 
-1. 在新事件的主页上，选择 **事件操作**，然后 **选择事件设置**。
+1. 在新事件的主页上，选择&#x200B;**事件操作**，然后选择&#x200B;**事件设置**。
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >如果在下拉框中未 **看到事件设** 置，请确保事件的渠道已与在“应用到”下选 **择的网络研讨** 会进行事件。
+   >如果下拉框中未显示&#x200B;**事件设置**，请确保事件的渠道具有&#x200B;**事件，在“应用到”下选择了网络研讨会**。
 
-1. 在“ **事件伙伴**”下，选 **择Adobe Connect**。
+1. 在&#x200B;**事件合作伙伴**&#x200B;下，选择&#x200B;**Adobe Connect**。
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. 选择 **登录** ID，然后选择 **事件**。
+1. 选择&#x200B;**登录** ID，然后选择&#x200B;**事件**。
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/event-settings-overview.png)
 
@@ -55,9 +55,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要在电子邮件中插入人员的唯一URL，请使用以下令牌： `{{member.webinar url}}`. 发送电子邮件时，此令牌会自动解析该人员来自Adobe Connect的唯一确认URL。
+   >要在电子邮件中插入人员的唯一URL，请使用以下令牌：`{{member.webinar url}}`。 发送电子邮件时，此令牌会自动解析该人员来自Adobe Connect的唯一确认URL。
    >
-   >将您的确认电子邮件设 **置为** “操作”，以确保注册或可能取消订阅的人员仍会收到其确认信息。
+   >将您的确认电子邮件设置为&#x200B;**Operational**，以确保注册并可能取消订阅的用户仍会收到其确认信息。
 
    ![](assets/adobe.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >数据在Marketo中显示可能需要48小时。 如果等待了那么久，您仍然看不到任何内容，请从事件的“摘要” **选项卡的“事件操作** ”菜单中选择“从网络研讨会提供者刷新”。
+   >数据在Marketo中显示可能需要48小时。 如果等待那么长时间后仍看不到任何内容，请从事件的“摘要”选项卡的“事件操作”菜单中选择“从网络研讨会提供者刷新”**。**
 
    >[!MORELIKETHIS]
    >
