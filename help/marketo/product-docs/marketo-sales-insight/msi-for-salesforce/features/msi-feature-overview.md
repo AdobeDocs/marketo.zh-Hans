@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# MSI功能概述 {#msi-feature-overview}
+# MSI功能概述{#msi-feature-overview}
 
 MSI在Salesforce Lightning和Classic中提供以下功能。
 
-## Visualforce面板 {#visualforce-panel}
+## Visualforce面板{#visualforce-panel}
 
 MSI Visualforce面板包含以下功能：
 
@@ -35,7 +35,7 @@ MSI Visualforce面板包含以下功能：
 
 * 星与火焰
 
-## 潜在客户布局 {#lead-layout}
+## 潜在客户布局{#lead-layout}
 
 Visualforce页面：
 
@@ -60,7 +60,7 @@ Visualforce页面：
 * 视图在Marketo中——单击此字段可打开Marketo中不可编辑的潜在客户视图。 包括：潜在客户信息、公司信息、SFDC潜在客户信息、SFDC自定义字段、活动日志
 * MSI联系人ID —— 将Salesforce联系人添加到此字段，并在潜在客户布局中加入“潜在客户联系人桥接器”面板，以查看联系人的MSI面板
 
-## 联系人布局 {#contact-layout}
+## 联系人布局{#contact-layout}
 
 Visualforce页面：
 
@@ -85,7 +85,7 @@ Visualforce页面：
 * Mkto潜在客户得分
 * 销售分析——打开联系人完整列表页
 
-## 帐户布局 {#account-layout}
+## 帐户布局{#account-layout}
 
 Visualforce页面：
 
@@ -97,12 +97,12 @@ Visualforce页面：
 
 * 销售分析——打开联系人完整列表页
 
-“帐户布局” **页面中** 不提供以下功能：
+以下功能&#x200B;**在“帐户布局”页面中不可用**:
 
 * 操作：添加到Marketo活动、发送Marketo电子邮件、添加／从观察列表
 * 星与火焰
 
-## 机会布局 {#opportunity-layout}
+## 机会布局{#opportunity-layout}
 
 Visualforce页面：
 
@@ -115,18 +115,18 @@ Visualforce页面：
 * 销售分析——打开联系人完整列表页
 * Marketo机会分析-在Marketo中打开机会影响分析器
 
-以下功能 **在Opportunity** Layout页面中不可用：
+以下功能&#x200B;**在“业务机会布局”页面中不可用**:
 
 * 操作：添加到Marketo活动、发送Marketo电子邮件、添加／从观察列表
 * 星与火焰
 
-## 潜在客户和联系人列表视图（批量操作） {#lead-and-contact-list-view-bulk-actions}
+## 潜在客户和联系列表视图（批量操作）{#lead-and-contact-list-view-bulk-actions}
 
 Salesforce闪电：添加到观察列表、添加到营销活动和发送Marketo电子邮件批量操作按钮，在潜在客户和联系列表视图中。
 
 Salesforce经典：添加到“观察列表”、“添加到营销人员”和“发送Marketo电子邮件”批量操作按钮，并在“潜在客户”和“联系人”活动视图中执行列表操作。
 
-## Marketo选项卡 {#marketo-tab}
+## 标记选项卡{#marketo-tab}
 
 * 最佳赌注
 
@@ -162,7 +162,7 @@ Salesforce经典：添加到“观察列表”、“添加到营销人员”和�
    * 用于接收此类事件的电子邮件通知的“订阅”选项
    * 显示此人的高优先级图标是最佳选择
 
-## Marketo Sales Insight配置选项卡 {#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight配置选项卡{#marketo-sales-insight-configuration-tab}
 
 * 操作设置：包括在SFDC中设置MSI所需的Soap和Rest API凭据
 * MSI配置：包括配置Marketo选项卡和MSI Visualforce面板
@@ -180,6 +180,6 @@ Salesforce经典：添加到“观察列表”、“添加到营销人员”和�
 
 Salesforce移动应用程序支持MSI功能
 
-## 语言支持 {#language-support}
+## 语言支持{#language-support}
 
 Marketo Sales Insight按语言存储。 因此，如果希望它适用于多种语言，您必须分别为每种语言输入凭据。
