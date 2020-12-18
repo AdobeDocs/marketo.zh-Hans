@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 用户访问详细信息 {#user-access-details}
+# 用户访问详细信息{#user-access-details}
 
 管理员和非管理员有权访问哪些内容？
 
-## 管理员用户权限 {#admin-user-permissions}
+## 管理员用户权限{#admin-user-permissions}
 
-管理员可 [以视图所有模板](http://docs.marketo.com/x/OYAXAQ)。
+管理员可以[视图所有模板](http://docs.marketo.com/x/OYAXAQ)。
 
 ![](assets/templates.jpg)
 
-管理员可 [以视图所有活动](http://docs.marketo.com/x/N4AXAQ)。
+管理员可以[视图所有活动](http://docs.marketo.com/x/N4AXAQ)。
 
 ![](assets/campaigns.jpg)
 
-管理员可 [以视图所有电子邮件活动](http://docs.marketo.com/x/SYAXAQ)。
+管理员可以[视图所有电子邮件活动](http://docs.marketo.com/x/SYAXAQ)。
 
 ![](assets/email-activity.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 管理员可以代表用户停止活动。
 
-## 非管理员用户权限 {#non-admin-user-permissions}
+## 非管理员用户权限{#non-admin-user-permissions}
 
 * 分析：
 
