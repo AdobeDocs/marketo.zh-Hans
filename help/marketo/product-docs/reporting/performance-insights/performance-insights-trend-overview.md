@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 性能分析趋势概述 {#performance-insights-trend-overview}
+# 性能分析趋势概述{#performance-insights-trend-overview}
 
 趋势显示渠道在一段时间内的性能。
 
-单击“ **趋势** ”选项卡以访问此视图。
+单击&#x200B;**趋势**&#x200B;选项卡以访问此视图。
 
 ![](assets/1.png)
 
-## 趋势 {#trend}
+## 趋势{#trend}
 
 ![](assets/2-1.png)
 
-选择要视图性能的度量。 在此示例中，我们将看看通过首次触 [碰赢得的机会](http://docs.marketo.com/display/DOCS/Understanding+Attribution)。
+选择要视图性能的度量。 在本例中，我们将通过[First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution)来查看所赢得的机会。
 
 ![](assets/3-2.png)
 
