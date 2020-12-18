@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 从Salesforce向营销人员添加潜在客户／联系人活动 {#add-a-lead-contact-to-a-marketo-campaign-from-salesforce}
+# 将潜在客户／联系人添加到Salesforce中的营销活动{#add-a-lead-contact-to-a-marketo-campaign-from-salesforce}
 
 您可以轻松地从Salesforce中将潜在客户或联系人添加到Market以智能活动。 下面介绍如何使用潜在客户。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
-1. 从下拉菜单中选择要视图的人的列表，然后单击“开 **始”**。
+1. 从下拉菜单中选择要视图的人的列表，然后单击&#x200B;**转至**。
 
    ![](assets/image2016-3-22-9-3a24-3a6.png)
 
@@ -31,16 +31,16 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在记录中，向下滚动到Marketo Sales Insight区域，单击 **操作** 下拉框，选择 **添加到Marketo活动,**&#x200B;然后单击&#x200B;**Go。**
+1. 在记录中，向下滚动到Marketo Sales Insight区域，单击&#x200B;**操作**&#x200B;下拉框，选择&#x200B;**添加到Marketo活动**，然后单击&#x200B;**转到。**
 
    ![](assets/four.png)
 
-1. 单击 **活动名** ，选择所需的Marketo活动，然后单 **击添加到Marketo活动**。
+1. 单击&#x200B;**活动名称**&#x200B;下拉框，选择所需的营销活动，然后单击&#x200B;**添加到营销活动**。
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >要使活动显示在下拉框中，请在设 [**置活动时使用** “请求](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)活动”触 **发器，将Sales Insight** 作为源。
+   >要使活动显示在下拉列表中，请在设置活动时使用&#x200B;[**活动为Requested**&#x200B;触发器](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)，其中&#x200B;**Sales Insight**&#x200B;为源。
 
 就这样！ 该人员已添加到您的营销活动。
