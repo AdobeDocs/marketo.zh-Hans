@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 了解内容选项卡 {#understanding-the-content-tab}
+# 了解内容选项卡{#understanding-the-content-tab}
 
 “内容”选项卡是关于团队在使用模板时的电子邮件参与度。 我们自动将三个我们认为重要的指标泡泡起来。
 
-## 秘密武器 {#secret-weapon}
+## 秘密武器{#secret-weapon}
 
 这是尚未与团队共享但正在获得高度参与的电子邮件模板。 我们会向您显示模板主题行和模板的创建者。 这是一个与销售代表联系并建议他／她共享模板的绝佳机会！
 
-## 最高参与度 {#highest-engagement}
+## 最高参与{#highest-engagement}
 
 这是共享模板，它正在获得全局最高参与度。
 
-## 参与度最低 {#lowest-engagement}
+## 参与度最低{#lowest-engagement}
 
 可以共享或不共享，这是参与量最小的模板。
 
