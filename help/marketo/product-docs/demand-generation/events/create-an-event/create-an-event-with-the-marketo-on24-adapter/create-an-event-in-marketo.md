@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在Marketo中创建事件 {#create-an-event-in-marketo}
+# 在Marketo {#create-an-event-in-marketo}中创建事件
 
 营销人员事件通过项目来跟踪您的人员的进步。 它使用ON24适配器推送注册信息并提取出席信息。 该事件可捕获您的人员在他们完成过程中的状态。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-在创建营销人员事件时，选 **择网络研讨** 会作为渠道类型。 您可以在“管理员”中编辑此渠道，也可以创建新渠道。 如果您创建新渠道，则它必须为与网络研讨会 **事件类型** ，以便进行集成。 请参 [阅创建项目渠道](../../../../../product-docs/administration/tags/create-a-program-channel.md) ，以了解更多信息。
+创建营销人员事件时，选择&#x200B;**网络研讨会**&#x200B;作为渠道类型。 您可以在“管理员”中编辑此渠道，也可以创建新渠道。 如果创建新渠道，则必须为类型&#x200B;**的事件，网络研讨会**&#x200B;才能使集成正常工作。 有关详细信息，请参阅[创建项目渠道](../../../../../product-docs/administration/tags/create-a-program-channel.md)。
 
-下一步是配置 [事件设置，并将Market同步到网络研讨会](https://docs.marketo.com/x/IRCa)。
+下一步是[配置事件设置，并将Market同步到网络研讨会](https://docs.marketo.com/x/IRCa)。
 
 >[!MORELIKETHIS]
 >
