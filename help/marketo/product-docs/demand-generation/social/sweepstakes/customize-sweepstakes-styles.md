@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 自定义抽奖样式 {#customize-sweepstakes-styles}
+# 自定义抽奖样式{#customize-sweepstakes-styles}
 
-创建抽 [奖时](create-sweepstakes.md)，您可以自定义其在登陆页上的外观。
+当您[创建抽奖](create-sweepstakes.md)时，您可以自定义抽奖在登陆页上的显示方式。
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ![](assets/login-marketing-activities-1.png)
 
-1. 选择抽奖，然后单击“编 **辑****草稿**”。
+1. 选择抽奖，然后单击&#x200B;**编辑** **草稿**。
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. 在抽奖编辑器中，转到“App **Settings** **>** Appearance ******** Peaperance Project”。
+1. 在抽奖编辑器中，转至&#x200B;**App** **Settings** **>** **Appearance**。
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -40,13 +40,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   输入按钮 **的CSS示例**:
+   **输入按钮**的CSS示例：
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` 输入按钮 **的示例图像**:
    `<pre>background:url(http://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >如果您使用的图像上带有文本，请记住从上面“文本”下 **的** “输入**按钮*”字段中删除文本。
+   >如果使用图像上带有文本，请记住从上面“文本”下的&#x200B;**Enter** **Button **字段中删除文本。
 
 1. 每次更改时，结果会显示在“视图和编辑”预览中。
 
@@ -64,5 +64,5 @@ ht-degree: 0%
    >**相关文章**
    >
    >
-   >下一步是向抽奖 [中添加注册和履行电子邮件](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)。
+   >下一步是向抽奖活动](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)添加[注册和实施电子邮件。
 
