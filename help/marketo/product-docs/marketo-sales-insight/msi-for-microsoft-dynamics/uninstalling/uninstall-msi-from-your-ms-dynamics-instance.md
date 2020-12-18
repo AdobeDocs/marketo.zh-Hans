@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 从MS Dynamics实例中卸载MSI {#uninstall-msi-from-your-ms-dynamics-instance}
+# 从MS Dynamics实例{#uninstall-msi-from-your-ms-dynamics-instance}中卸载MSI
 
 要从MS Dynamics实例卸载MSI，您需要在Marketo和MS Dynamics中执行步骤。
 
@@ -19,35 +19,35 @@ ht-degree: 0%
 >
 >[禁用全局MS Dynamics同步](http://docs.marketo.com/x/TAA6Ag)
 
-1. 在Marketo中，单击“管 **理员**”。
+1. 在Marketo中，单击&#x200B;**管理**。
 
    ![](assets/one-1.png)
 
-1. 单击 **销售分析**。
+1. 单击&#x200B;**Sales Insight**。
 
    ![](assets/six.png)
 
-1. 单击 **编辑字段同步**。
+1. 单击&#x200B;**编辑字段同步**。
 
    ![](assets/seven.png)
 
-1. 选中“禁 **用同步** ”复选框，然 **后单击保存**。
+1. 选中&#x200B;**禁用同步**&#x200B;复选框，然后单击&#x200B;**保存**。
 
    >[!NOTE]
    >
    >**提醒**
    >
    >
-   >请确保在 [禁用字段同步之前禁用](http://docs.marketo.com/x/TAA6Ag) “全局MS Dynamics Sync”。
+   >在禁用字段同步之前，请确保[禁用全局MS Dynamics同步](http://docs.marketo.com/x/TAA6Ag)。
 
    ![](assets/eight.png)
 
-## 在MS Dynamics实例中执行以下步骤： {#the-following-steps-take-place-in-your-ms-dynamics-instance}
+## 在MS Dynamics实例中执行以下步骤：{#the-following-steps-take-place-in-your-ms-dynamics-instance}
 
-1. 单击“ **高级设置**”。
-1. 单击“ **解决方案**”。
-1. 选择 **Marketo Sales Insight** ，然后单击删除图标。
-1. 弹出“卸载解决方案”模式时，单击“确 **定”**。
+1. 单击&#x200B;**高级设置**。
+1. 单击&#x200B;**解决方案**。
+1. 选择&#x200B;**Marketo Sales Insight**&#x200B;并单击删除图标。
+1. 弹出“卸载解决方案”模式时，单击&#x200B;**确定**。
 
    MS Dynamics解决方案通常需要大约20分钟才能完全卸载。 但是，如果您有一个大型MS Dynamics实例，则可能需要稍长一些。
 
