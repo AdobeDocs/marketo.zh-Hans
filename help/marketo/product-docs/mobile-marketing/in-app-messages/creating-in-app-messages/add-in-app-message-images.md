@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 添加应用程序内消息图像 {#add-in-app-message-images}
+# 添加应用程序内消息图像{#add-in-app-message-images}
 
 此处是您选择和自定义应用程序内消息图像的位置。
 
-1. 选择应用程序内消息，然后单击“ **编辑草稿”**。
+1. 选择应用程序内消息，然后单击“编辑草稿&#x200B;**”。**
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >模板之间有何差异？ 开始 [之前，请参阅为应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) 选择布局。
+   >模板之间有何差异？ 开始之前，请参阅[为应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)选择布局。
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. 单击“ **样式** ”选项卡，然后单击模板的图像区域。
+1. 单击&#x200B;**样式**&#x200B;选项卡，然后单击模板的图像区域。
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. 单击 **选择图像**。
+1. 单击&#x200B;**选择图像**。
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. 从Design Studio中选择您的图像，然后单击“选 **择”**。
+1. 从Design Studio中选择您的图像，然后单击&#x200B;**选择**。
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
    >
    >图像大小限制为1440 x 2560 px和5MB。
 
-1. 改变主意，想使用不同的图像吗？ 没问题。 单击图 **像文** 件名旁边的X。
+1. 改变主意，想使用不同的图像吗？ 没问题。 单击图像文件名旁边的&#x200B;**X**。
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. 单击 **删除**。 现在，你可以再选一个。
+1. 单击&#x200B;**删除**。 现在，你可以再选一个。
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. （可选）应用图像边框。 默认设置为 **Off**。 首先，通过单击颜色或在拾色器上输入十六进制或RGB数字来选择颜色。
+1. （可选）应用图像边框。 默认设置为&#x200B;**Off**。 首先，通过单击颜色或在拾色器上输入十六进制或RGB数字来选择颜色。
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. 选择边距（开或关）。 **On** 是默认设置。
+1. 选择边距（开或关）。 **** Onis是默认设置。
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -85,9 +85,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要点按图像、按钮或背景的动作，可以为Apple和Android平台设置不同的动作。 例如，对于Apple和Android，深层链接的处理方式不同。 如果消息仅传送到一个平台或另一个平台，请将另一个平台保留在默认设置中，或选择“无 **”**。
+   >要点按图像、按钮或背景的动作，可以为Apple和Android平台设置不同的动作。 例如，对于Apple和Android，深层链接的处理方式不同。 如果消息仅传送到一个平台或另一个平台，请将另一个平台保留在默认设置中，或选择&#x200B;**无**。
 
-干得好！ 现在，是时候为您 [的应用程序内消息创建文本了](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)。
+干得好！ 现在，是时候为应用程序内消息[创建文本了。](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)
 
 >[!MORELIKETHIS]
 >
