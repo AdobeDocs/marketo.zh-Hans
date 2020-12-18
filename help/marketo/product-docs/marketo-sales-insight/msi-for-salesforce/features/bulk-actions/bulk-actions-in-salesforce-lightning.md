@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# Salesforce闪电中的批量操作 {#bulk-actions-in-salesforce-lightning}
+# Salesforce闪电中的批量操作{#bulk-actions-in-salesforce-lightning}
 
 下面介绍如何在Salesforce Lightning中设置批量操作。
 
-1. 在Salesforce中，单击设置图标，然后选择 **设置**。
+1. 在Salesforce中，单击设置图标，然后选择&#x200B;**设置**。
 
    ![](assets/one.png)
 
-1. 单击“对 **象管理器** ”选项卡。
+1. 单击&#x200B;**对象管理器**&#x200B;选项卡。
 
    ![](assets/two.png)
 
-1. 查找并选择潜 **在客** 户标签。
+1. 查找并选择&#x200B;**潜在客户**&#x200B;标签。
 
    ![](assets/three-2.png)
 
-1. 单击“ **搜索Salesforce经典版布局”**。
+1. 单击&#x200B;**搜索Salesforce Classic**&#x200B;的布局。
 
    ![](assets/four-1.png)
 
-   查找列表视图布局。 单击右侧的下拉框，然后选择“编 **辑”**。
+   查找列表视图布局。 单击右侧的下拉框并选择&#x200B;**编辑**。
 
    ![](assets/five.png)
 
-1. 在“自定义按钮”下，查找并 **选择“添加到营销活动”（闪电）****和“发送营销程序电子邮件”（闪电）**。 单击“添 **加** ”按钮。
+1. 在“自定义按钮”下，找到并选择&#x200B;**添加到营销活动（闪电）**&#x200B;和&#x200B;**发送营销电子邮件（闪电）**。 单击&#x200B;**添加**&#x200B;按钮。
 
    ![](assets/six.png)
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/seven.png)
 
