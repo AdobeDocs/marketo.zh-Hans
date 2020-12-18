@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 编辑Facebook富帖子设置 {#edit-facebook-rich-post-settings}
+# 编辑Facebook富帖子设置{#edit-facebook-rich-post-settings}
 
-在用户在Facebook上共 [享您时](http://docs.marketo.com/display/docs/social) ，自定义帖子。
+当用户[在Facebook上共享您](http://docs.marketo.com/display/docs/social)时自定义帖子。
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ ht-degree: 0%
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
-Marketo社 [交应用](http://docs.marketo.com/display/docs/social) 程序允许您的潜在客户在Facebook、Twitter等社交网络上与其联系人共享登陆页。 Facebook OpenGraph标记（OG标记）允许您指定Facebook帖子中包含来自登陆页的信息。
+Marketo [社交应用程序](http://docs.marketo.com/display/docs/social)允许您的潜在客户在Facebook、Twitter等社交网络上与其连接共享登陆页。 Facebook OpenGraph标记（OG标记）允许您指定Facebook帖子中包含来自登陆页的信息。
 
-## 选择富发布选项 {#select-rich-post-options}
+## 选择富发布选项{#select-rich-post-options}
 
 您可以指定要在Facebook富帖子中使用的页面信息类型，这些帖子由您的登陆页共享生成。
 
-1. 在 **YouTube视频** 或社交按钮的编 **辑器中选** 择“Facebook消息”。
+1. 在编辑器中选择&#x200B;**YouTube**&#x200B;视频或社交按钮的&#x200B;**Facebook消息**。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -37,12 +37,12 @@ Marketo社 [交应用](http://docs.marketo.com/display/docs/social) 程序允许
 
       ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * 添加动态内容：您的社交应用程序可以使 `<TITLE>`用登陆页 `<CAPTION>`的标记 `<DESCRIPTION>` 来填充您的丰富帖子。
+   * 添加动态内容：您的社交应用程序可以使用登陆页的`<TITLE>`、`<CAPTION>`和`<DESCRIPTION>`标记填充您的丰富帖子。
 
       ![](assets/image2014-9-22-16-3a48-3a9.png)
    >[!NOTE]
    >
-   >页面源中应已存在这些标记，但要获得更多控制，您可 [以向登陆页添加特定Facebook OG标记](edit-facebook-rich-post-settings.md)。
+   >页面源中应已存在这些标记，但要获得更多控制，您可以[向登陆页添加特定Facebook OG标记](edit-facebook-rich-post-settings.md)。
 
    * 不添加丰富内容：将Facebook帖子从您的登陆页限制为仅主要消息和链接。
 
@@ -50,17 +50,17 @@ Marketo社 [交应用](http://docs.marketo.com/display/docs/social) 程序允许
 
 
 
-## 将Facebook OG标记添加到登陆页 {#add-facebook-og-tags-to-a-landing-page}
+## 向登陆页{#add-facebook-og-tags-to-a-landing-page}添加Facebook OG标记
 
 要控制将包含在您的登陆页的Facebook共享中的页面元素，可以向登陆页添加标题、题注和说明的Facebook OG(Open Graph)标记。
 
-1. 打开包含YouTube视频或 **社交按钮** 的登陆页。
+1. 打开包含&#x200B;**YouTube视频**&#x200B;或社交按钮的登陆页。
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   登陆页 **设计器** （在新窗口中）打开。
+   **登陆页设计器**&#x200B;在新窗口中打开。
 
-1. 选择 **“登陆页** ”>“ **编辑页面元标记**”**.**
+1. 选择&#x200B;**登陆页操作** > **编辑页面元标记****.**
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
