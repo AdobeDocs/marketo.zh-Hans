@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 指定Marketo Sales Insight插件管理员 {#specify-marketo-sales-insight-plugin-admins}
+# 指定Marketo Sales Insight插件管理员{#specify-marketo-sales-insight-plugin-admins}
 
 在您邀请用户在Outlook上设置MSI时，您可以指定您希望在发送给用户的电子邮件通知中显示哪些联系人。
 
-1. 在“我的营销人员”中，单 **击管**&#x200B;理员，然&#x200B;**后单击Sales Insight。**
+1. 在My Marketo中，单击&#x200B;**管理员**，然后单击&#x200B;**销售分析。**
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. 单击“电 **子邮件插件** ”选项卡。
+1. 单击&#x200B;**电子邮件插件**&#x200B;选项卡。
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. 单击“ **指定插件联系人**”。
+1. 单击&#x200B;**指定插件联系人**。
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 
