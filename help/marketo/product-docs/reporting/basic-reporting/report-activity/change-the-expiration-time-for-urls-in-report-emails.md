@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 更改报告电子邮件中URL的过期时间 {#change-the-expiration-time-for-urls-in-report-emails}
+# 更改报告电子邮件中URL的过期时间{#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 报告订阅电子邮件中的链接将在三天后过期。 要更改这些链接的过期时间，请执行以下步骤。
 
-1. 在“管 **理**”下，单击“登 **录设置”**。
+1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**登录设置**。
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. 从下拉菜单中选择链接过期的天数。 单击 **保存**。
+1. 从下拉菜单中选择链接过期的天数。 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
