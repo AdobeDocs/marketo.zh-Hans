@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# LaunchPoint事件合作伙伴 {#launchpoint-event-partners}
+# LaunchPoint事件合作伙伴{#launchpoint-event-partners}
 
 将Market连接到LaunchPoint事件合作伙伴，实现在线事件自动化。 当您连接它们时，您可以：
 
