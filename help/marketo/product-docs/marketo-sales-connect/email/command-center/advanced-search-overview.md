@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 高级搜索概述 {#advanced-search-overview}
+# 高级搜索概述{#advanced-search-overview}
 
 通过利用高级搜索功能，向已查看、单击或回复电子邮件的目标潜在客户，您可以为参与度最高的潜在客户创建目标列表。
 
-## 如何访问高级搜索 {#how-to-access-advanced-search}
+## 如何访问高级搜索{#how-to-access-advanced-search}
 
-1. 单击“ **命令中心**”。
+1. 单击&#x200B;**命令中心**。
 
    ![](assets/one.png)
 
-1. 单击“ **电子邮件**”。
+1. 单击&#x200B;**电子邮件**。
 
    ![](assets/two.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 单击 **高级搜索**。
+1. 单击&#x200B;**高级搜索**。
 
    ![](assets/four.png)
 
-## 过滤器 {#filters}
+## 过滤器{#filters}
 
 **日期**
 
@@ -98,15 +98,15 @@ ht-degree: 0%
 | **退回** | 当电子邮件被收件人的服务器拒绝时，该电子邮件会标记为退回。 此处只显示通过Sales Connect服务器发送的电子邮件。 |
 | **垃圾邮件** | 当收件人将电子邮件标记为垃圾邮件（主动提供电子邮件的常用术语）时。 此处只显示通过Sales Connect服务器发送的电子邮件。 |
 
-## 保存的搜索 {#saved-searches}
+## 保存的搜索{#saved-searches}
 
 下面介绍如何创建保存的搜索。
 
-1. 所有过滤器都到位后，单击“将 **过滤器另存为”**。
+1. 所有过滤器都到位后，单击&#x200B;**将过滤器另存为**。
 
    ![](assets/save-search-1.png)
 
-1. 为搜索指定名称，然后单击“ **保存**”。
+1. 为搜索指定名称，然后单击“保存&#x200B;**”。**
 
    ![](assets/save-search-2.png)
 
