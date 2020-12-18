@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 为Web富媒体启用预测内容 {#enable-predictive-content-for-web-rich-media}
+# 为Web富媒体启用预测内容{#enable-predictive-content-for-web-rich-media}
 
 预测性内容以机器学习和预测性分析为后盾，以最相关的内容吸引Web访客。 借助Web富媒体，您可以通过文本描述和图像增强您的内容，并在您的网站上嵌入多个预测性内容推荐。
 
@@ -28,21 +28,21 @@ ht-degree: 0%
 
 为富媒体准备内容标题、描述和图像后，您可以启用单个或多个内容片段。
 
-1. 要启用单个标题，请单击标题以打开编辑器。 单击“富媒体”，然后选中“ **在富媒体中启用预测内容** ”框，并单 **击“保存**”。
+1. 要启用单个标题，请单击标题以打开编辑器。 单击“富媒体”，然后选中“在富媒体中启用预测内容”**框，然后单击“保存”****。**
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. 对于多个内容，在“预 **测内容** ”页面上，选中标题旁的复选框。
+1. 对于多个内容，在&#x200B;**预测内容**&#x200B;页面上，选中标题旁的复选框。
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. 单击“ **内容操作** ”下拉框，然 **后选择“为Web富媒体启用”**。
+1. 单击&#x200B;**内容操作**&#x200B;下拉框，然后选择&#x200B;**启用Web富媒体**。
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
-## 自定义Javascript代码并将其嵌入到您的网站中  {#customize-the-javascript-code-and-embed-it-into-your-website}
+## 自定义Javascript代码并将其嵌入到您的网站{#customize-the-javascript-code-and-embed-it-into-your-website}
 
-请参阅Marketo开发人员站点上的富媒 [体推荐模板文档。](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)这将说明如何为网站自定义模板。
+请参阅Marketo开发人员站点上的富媒体推荐模板[的相关文档。](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)这将说明如何为网站自定义模板。
 
 将JavaScript代码粘贴到您希望模板出现的位置中的网站中。
 
