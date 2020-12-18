@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 在表单中调整标签／字段宽度 {#resize-label-field-width-in-a-form}
+# 在{#resize-label-field-width-in-a-form}表单中调整标签／字段宽度
 
 有两种方法可以调整字段标签宽度和字段宽度本身的大小。
 
-## 拖放宽度 {#drag-and-drop-the-width}
+## 拖放宽度{#drag-and-drop-the-width}
 
-1. 在表 [单编辑器](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)，选择要调整大小的字段。
+1. 在[表单编辑器](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)中，选择要调整大小的字段。
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a24-3a14.png)
 
-## 手动输入宽度 {#enter-the-width-manually}
+## 手动输入宽度{#enter-the-width-manually}
 
 1. 选择要调整大小的字段。
 
