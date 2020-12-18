@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 设置LinkedIn领头将Forms {#set-up-linkedin-lead-gen-forms}
+# 设置LinkedIn潜在客户代Forms{#set-up-linkedin-lead-gen-forms}
 
 使用LinkedIn潜在客户代Forms在LinkedIn中运行广告活动，并为Marketo生成潜在客户。
 
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到Marketto **Admin**。
+1. 转到Marketo **Admin**。
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. 转到 **LaunchPoint**，单击“新 **建”** ，然后选 **择“新建服务**”。
+1. 转至&#x200B;**LaunchPoint**，单击&#x200B;**新建**&#x200B;并选择&#x200B;**新建服务**。
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 为您的 **服务输入** “显示名称”，从下拉列表中选择“**LinkedIn潜在客户代”**服务，然后单击“下 **一步”**。
+1. 为您的服务输入&#x200B;**显示名称**，从下拉列表中选择**LinkedIn潜在客户代**服务，然后单击&#x200B;**下一个**。
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo在同一浏览器中打开一个新选项卡，该选项 [卡指向www.linkedin.com](http://www.linkedin.com)。 使用要用于集成的帐户登录LinkedIn。
+1. Marketo在同一浏览器中打开一个指向[www.linkedin.com](http://www.linkedin.com)的新选项卡。 使用要用于集成的帐户登录LinkedIn。
 
    >[!NOTE]
    >
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/linkedin-login.png)
 
-1. 登录LinkedIn后，返回Marketo并单击“授 **权”**。
+1. 登录LinkedIn后，返回Marketo并单击&#x200B;**授权**。
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. 您会注意到您现在已获得授权。 单击“ **下一步**”。
+1. 您会注意到您现在已获得授权。 单击&#x200B;**下一步**。
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
    >[!CAUTION]
    >
-   >该服务在授权后一年自动过期。 要重新获得访问权，只需单 **击“重新授权”**。 您可能必须重新输入LinkedIn密码，具体取决于您的浏览器设置。
+   >该服务在授权后一年自动过期。 要重新获得访问权，只需单击&#x200B;**重新授权**。 您可能必须重新输入LinkedIn密码，具体取决于您的浏览器设置。
 
-1. 选择您希望LinkedIn潜在客户代潜在客户进入营销人员的帐户，然后单击“下 **一步”**。
+1. 选择您希望LinkedIn潜在客户代从中进入Marketo的帐户，然后单击&#x200B;**下一步**。
 
    >[!TIP]
    >
@@ -63,17 +63,17 @@ ht-degree: 0%
 
    ![](assets/linkedin-pages-to-capture.png)
 
-1. 要接受默认的LinkedIn到Marketo字段映射，只需单击“创 **建”**。 如果要更改默认字段映射、删除字段映射或添加新字段映射，您可以通过下面的模式逐字段执行此操作。
+1. 要接受默认的LinkedIn到Marketo字段映射，只需单击&#x200B;**创建**。 如果要更改默认字段映射、删除字段映射或添加新字段映射，您可以通过下面的模式逐字段执行此操作。
 
    >[!CAUTION]
    >
-   >Marketo支持将两个LinkedIn字段映射到单个Marketo **字段，但仅当** 两个LinkedIn字段不在同一表单上时。 如果将同一LinkedIn表单中的两个字段映射到单个Marketo字段，则用户可能无法输入您的Marketo数据库。
+   >Marketo支持将两个LinkedIn字段映射到单个Marketo字段，**但仅当**&#x200B;两个LinkedIn字段不在同一表单时。 如果将同一LinkedIn表单中的两个字段映射到单个Marketo字段，则用户可能无法输入您的Marketo数据库。
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
    >[!NOTE]
    >
-   >只有已保存到LinkedIn活动管理器中 [的表单模板](https://www.linkedin.com/help/lms/answer/79634) 的LinkedIn字段才会显示为可映射到Marketo字段的LinkedIn字段。
+   >只有已保存到LinkedIn活动管理器中[表单模板](https://www.linkedin.com/help/lms/answer/79634)的LinkedIn字段才会显示为可映射到Marketo字段的LinkedIn字段。
 
    ![](assets/linkedin-installed-services.png)
 
