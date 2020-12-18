@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 如何在Sales Connect中创建优先呼叫列表 {#how-to-create-your-priority-call-list-in-sales-connect}
+# 如何在Sales Connect {#how-to-create-your-priority-call-list-in-sales-connect}中创建优先呼叫列表
 
 了解如何使用ToutApp电子邮件互动数据创建优先报告／呼叫列表，将您的时间集中在积极关注的人或机会上。
 
-1. 在Web应用程序中转 [到您的帐户](http://toutapp.com/login)。 完成以下步骤后，Sales Connect中将保存一个“优先呼叫列表”，以优先处理最热的潜在客户／帐户，重新激活已变暗的潜在客户／帐户，捕获垂直的果实，缩短活动接触之间的连接时间。
+1. 转到[Web应用程序](http://toutapp.com/login)中的帐户。 完成以下步骤后，Sales Connect中将保存一个“优先呼叫列表”，以优先处理最热的潜在客户／帐户，重新激活已变暗的潜在客户／帐户，捕获垂直的果实，缩短活动接触之间的连接时间。
 1. 完成以下步骤。
 
    * 单击“视图选项”
