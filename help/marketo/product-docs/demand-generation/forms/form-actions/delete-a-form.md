@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 删除表单 {#delete-a-form}
+# 删除表单{#delete-a-form}
 
 如果您有不需要并且未使用的表单，则可以删除它。 这是方法。
 
-1. 转到营 **销****活动**。
+1. 转至&#x200B;**Marketing** **活动**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. 在“表 **单操****作”下**，单 **击“删** 除表 ****&#x200B;单”。
+1. 在&#x200B;**Form** **Actions**&#x200B;下，单击&#x200B;**Delete** **Form**。
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >切记从使用表单的任何／所有登陆页中删除表单。 另外，确认表单未在公共网站上使用。
 
-1. 单击删除 **进行确认**。
+1. 单击&#x200B;**删除**&#x200B;进行确认。
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -44,5 +44,5 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果删除公共网站正在使用的表单，您将不会看到警告，并且表单将被破坏。 请考 [虑改为存档](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 。
+>如果删除公共网站正在使用的表单，您将不会看到警告，并且表单将被破坏。 请改为考虑[将其存档](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)。
 
