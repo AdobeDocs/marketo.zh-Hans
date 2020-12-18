@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 导出包含个性化URL的列表 {#export-a-list-with-personalized-urls}
+# 使用个性化URL导出列表{#export-a-list-with-personalized-urls}
 
 >[!PREREQUISITES]
 >
@@ -22,15 +22,15 @@ ht-degree: 0%
 
 
 
-1. 选择列表或智能列表，单击潜 **在客** 户选项卡以获取结果，然后单击excel图标。 行中确保您有**标记到唯一代码**和标记 **到唯一名称**[列可见](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
+1. 选择列表或智能列表，单击&#x200B;**潜在客户**&#x200B;选项卡以获取结果，然后单击excel图标。 行内确保您有**Marketo唯一代码**和&#x200B;**标记到唯一名称** [列可见](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. 选 **中“包括个性化** URL”，查找并选择要为其生成PURL的登陆页。
+1. 选中&#x200B;**包含个性化URL**，找到并选择要为其生成PURL的登陆页。
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. 选择 **URL**。
+1. 选择&#x200B;**URL**。
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
    >
    >如果您看到同一登陆页的多个URL，可能是因为您在过去的某个时间更改了页面URL并创建了重定向。
 
-1. 选择一种 **样式** ，然后单 **击“导出**”。
+1. 选择&#x200B;**样式**&#x200B;并单击&#x200B;**导出**。
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. 导出完成后，单击“立 **即下载** ”链接以保存文件。
+1. 导出完成后，单击&#x200B;**立即下载**&#x200B;链接以保存文件。
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
