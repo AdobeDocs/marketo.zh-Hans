@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 收藏模板 {#favorite-a-template}
+# Favorite a Template {#favorite-a-template}
 
 您可以从任何类别添加模板到收藏夹列表。 这会自动在列表顶部生成新类别，以便您快速访问最常用的模板。
 
