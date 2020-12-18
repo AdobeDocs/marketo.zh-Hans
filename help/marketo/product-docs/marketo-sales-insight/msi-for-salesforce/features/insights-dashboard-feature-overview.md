@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 洞察仪表板功能概述 {#insights-dashboard-feature-overview}
+# 洞察仪表板功能概述{#insights-dashboard-feature-overview}
 
 进一步了解销售洞察仪表板中的可用功能。
 
 >[!PREREQUISITES]
 >
->您必须拥有最新的MSI SFDC包和 [配置](http://docs.marketo.com/x/F4GMAg)。
+>您必须拥有最新的MSI SFDC包和[配置](http://docs.marketo.com/x/F4GMAg)。
 
 ![](assets/one.png)
 
-## 联系人布局 {#contact-layout}
+## 联系人布局{#contact-layout}
 
 **啮合速度网格**
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ![](assets/two.png)
 
-## 潜在客户布局 {#lead-layout}
+## 潜在客户布局{#lead-layout}
 
 **啮合速度网格**
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 ![](assets/four.png)
 
-## 帐户布局 {#account-layout}
+## 帐户布局{#account-layout}
 
 **啮合速度网格**
 
@@ -139,7 +139,7 @@ ht-degree: 0%
 * 活动详细信息卡在此部分中具有预览选项
 * 筛选器包括“搜索”、“仅显示受邀事件”和“日期范围”
 
-## 机会布局 {#opportunity-layout}
+## 机会布局{#opportunity-layout}
 
 **啮合速度网格**
 
@@ -156,7 +156,7 @@ ht-degree: 0%
 * 每周摘要栏将显示该周的有趣时刻、电子邮件和Web活动。 每个图标都可单击，并可用作过滤器以显示特定活动
 * 默认视图:这是一列表活动的当前视图
 
-**即将推出的电子邮件活动和事件电** 子邮件活动选项卡：
+**即将推出的电子邮件活动** 和活动电子邮件活动选项卡：
 
 * 包括属于未来90天内计划的电子邮件项目或默认项目的活动
 * 非特定于联系人／潜在客户(即，活动列表是在Marketo实例中计划的所有电子邮件活动的通用列表)。 所有潜在客户、联系人、帐户和机会面板中的活动列表将相同
