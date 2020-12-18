@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 自定义星光和火焰 {#customize-stars-and-flames}
+# 自定义星形和火焰{#customize-stars-and-flames}
 
 Marketo Sales Insight使用星星和火焰来优先确定销售线索。 Marketo自动决定谁得到1-2-3星／火焰。 但是，您可以修改公式。 下面介绍如何：
 
@@ -29,25 +29,25 @@ Marketo Sales Insight使用星星和火焰来优先确定销售线索。 Marketo
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. 在“潜在客 **户评分设置”部分** ，单击 **编辑**。
+1. 在&#x200B;**潜在客户评分设置**&#x200B;部分下，单击&#x200B;**编辑**。
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. 选择您 **选择的** “评分方法”。
+1. 选择您选择的&#x200B;**评分方法**。
 
    >[!NOTE]
    >
    >**定义**
    >
    >
-   >**动态** -是从相对数据派生的百 [分比值](priority-urgency-relative-score-and-best-bets.md)。 棒极了。 建议使用此方法。
+   >**动态** -是从相对数据派生的百分 [比值](priority-urgency-relative-score-and-best-bets.md)。棒极了。 建议使用此方法。
    >
    >
    >**静态** -允许您定义精确的得分数——不再有百分比，不再有机密酱汁。
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. 根据您的喜好编辑百分比括号并 **保存**。
+1. 根据您的喜好编辑百分比括号和&#x200B;**保存**。
 
    >[!TIP]
    >
