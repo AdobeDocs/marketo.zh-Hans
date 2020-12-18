@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 了解收入模型成功途径 {#understanding-revenue-model-success-path}
+# 了解收入模型成功路径{#understanding-revenue-model-success-path}
 
-## 成功路径 {#success-path}
+## 成功路径{#success-path}
 
-在模型中，绿色路径又称成 **功路径** ，是潜在客户线性过渡到封闭／成功业务的最佳路径。
+在模型中，绿色路径（亦称&#x200B;**成功路径**）是潜在客户线性过渡到封闭／成功业务的最佳路径。
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 成功路径上的阶段示例：
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->绿色是为了钱。 绿色道路上的一切都在通往成功的道路上！ 因此，成功路径分析器中只 [有绿色箭头](using-the-success-path-analyzer.md)。
+>绿色是为了钱。 绿色道路上的一切都在通往成功的道路上！ 因此，[成功路径分析器](using-the-success-path-analyzer.md)中只有绿色箭头。
 
-## 德图尔 {#detours}
+## 绕行{#detours}
 
 认识到并非所有潜在客户都遵循线性“成功路径”，您还应定义“绕行阶段”，以捕获不合格的或需要几轮培养才能准备就绪的潜在客户。 例如：
 
