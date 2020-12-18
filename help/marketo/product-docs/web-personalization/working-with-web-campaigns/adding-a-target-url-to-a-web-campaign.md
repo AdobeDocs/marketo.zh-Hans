@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 将目标URL添加到Web活动 {#adding-a-target-url-to-a-web-campaign}
+# 将目标URL添加到Web活动{#adding-a-target-url-to-a-web-campaign}
 
 目标URL位于“设置活动”页面下，并定义Web活动将显示的特定URL或URL。
 
 ## 为对话框或构件Web目标添加活动URL {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. 转到 **Web活动**。
+1. 转至&#x200B;**Web活动**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 选 **择“新建Web活动**”。
+1. 选择&#x200B;**新建Web活动**。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 添加 **活动**。 选择 **目标段**。 添加 **目标URL**。
+1. 添加&#x200B;**活动名称**。 选择&#x200B;**目标段**。 添加&#x200B;**目标URL**。
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -58,24 +58,24 @@ ht-degree: 0%
 >
 >
 >* 对话框和构件Web活动可以使用“任何页面”和“通配符(*)”选项。
-* 在高级用例中，In Zone Web活动可以在URL路径末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* 在高级用例中，In Zone Web活动可以在URL路径末尾使用通配符。 示例：[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
 * URL区分大小写
 
 
-## 为区域Web目标添加活动URL {#adding-a-target-url-for-in-zone-web-campaigns}
+## 添加目标URL用于区域Web活动{#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. 转到 **Web****活动**。
+1. 转至&#x200B;**Web** **活动**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 选 **择“新建Web活动**”。
+1. 选择&#x200B;**新建Web活动**。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 添加活动名**。 选择 **目标段**。 添加 **目标URL**。
+1. 添加活动名**。 选择&#x200B;**目标段**。 添加&#x200B;**目标URL**。
 
    >[!NOTE]
-   目标URL（在区域中）必须定义特定URL或URL。 在高级用例中，In Zone Web活动可以在URL路径末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   目标URL（在区域中）必须定义特定URL或URL。 在高级用例中，In Zone Web活动可以在URL路径末尾使用通配符。 示例：[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
