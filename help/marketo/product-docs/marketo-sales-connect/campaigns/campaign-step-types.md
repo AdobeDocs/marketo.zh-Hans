@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 活动步骤类型 {#campaign-step-types}
+# 活动步骤类型{#campaign-step-types}
 
 向活动添加步骤时，有四个选项。
 
 ![](assets/one-4.png)
 
-## 电子邮件 {#email}
+## 电子邮件{#email}
 
 起草新电子邮件，或使用预先存在的模板。
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->了解有关发送选项 [的详细信息](http://docs.marketo.com/x/7QDb)。
+>了解有关[发送选项](http://docs.marketo.com/x/7QDb)的详细信息。
 
-## 呼叫 {#call}
+## 调用{#call}
 
 设置提醒以通过电话跟进联系人。 您还可以保存备注，以在呼叫期间用作通话轨道。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ![](assets/inmail.png)
 
-## 自定义任务 {#custom-task}
+## 自定义任务{#custom-task}
 
 如果上述选项不适用，则使用自定义任务。 例如，您可以邀请同事通过电子邮件跟进潜在客户。
 
