@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 性能分析概述 {#performance-insights-overview}
+# 性能分析概述{#performance-insights-overview}
 
 营销绩效洞察可帮助您优化渠道组合，以获得最佳效果，并揭示长期趋势，找出一致的赢取策略。
 
@@ -27,9 +27,9 @@ Performance Insights可加载前24个月的数据。 这包括当前年初至今
 
 ![](assets/one.png)
 
-## 贡献 {#contribution}
+## 贡献{#contribution}
 
-评估营销对营 [销收](http://docs.marketo.com/x/QAvG)入的贡献，这取决于客户赢取率、影响力、转化率，甚至是安装基础增长。
+评估营销对收入[的贡献，这取决于客户赢取、影响、转化，甚至安装基础的增长。](http://docs.marketo.com/x/QAvG)
 
 ![](assets/two.png)
 
@@ -37,21 +37,21 @@ Performance Insights可加载前24个月的数据。 这包括当前年初至今
 
 ![](assets/3.png)
 
-## 趋势 {#trend}
+## 趋势{#trend}
 
-发 [现长期趋势](http://docs.marketo.com/x/QgvG) ，找出一致的赢取策略。
+发现[长期趋势](http://docs.marketo.com/x/QgvG)以发现一致的获胜战略。
 
 ![](assets/4.png)
 
-## 设置 {#settings}
+## 设置{#settings}
 
-在“收入和管道”仪表板中，单击“ [设置](http://docs.marketo.com/x/pIDS) ”图标以设置其他参数。
+在收入和管道仪表板中，单击[设置](http://docs.marketo.com/x/pIDS)图标以设置其他参数。
 
 ![](assets/5.png)
 
-## 导出数据 {#export-data}
+## 导出数据{#export-data}
 
-您可以在PowerPoint或Excel中导出数据和图表。 您还可以将它们另存为 [快速图表](https://docs.marketo.com/x/iRLG)。
+您可以在PowerPoint或Excel中导出数据和图表。 您还可以将它们另存为[快速图表](https://docs.marketo.com/x/iRLG)。
 
 ![](assets/6.png)
 
