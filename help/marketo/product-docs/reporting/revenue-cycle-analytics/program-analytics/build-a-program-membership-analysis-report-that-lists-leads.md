@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 构建项目会员资格分析报告，让列表主导 {#build-a-program-membership-analysis-report-that-lists-leads}
+# 生成项目成员分析报告，列表潜在客户{#build-a-program-membership-analysis-report-that-lists-leads}
 
 请按照以下步骤创建项目会员分析报告，该报告将显示所有项目会员姓名。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ![](assets/seven.png)
 
-您可以快速添加潜在客户属性 **(如“全名** ”)，以查看成员。
+您可以快速添加潜在客户属性，如&#x200B;**全名**，以查看成员。
 
 >[!TIP]
 >
