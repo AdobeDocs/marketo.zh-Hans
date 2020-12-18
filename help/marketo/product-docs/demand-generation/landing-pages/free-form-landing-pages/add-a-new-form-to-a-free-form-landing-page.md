@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将新表单添加到自由表单登陆页 {#add-a-new-form-to-a-free-form-landing-page}
+# 将新表单添加到自由表单登陆页{#add-a-new-form-to-a-free-form-landing-page}
 
 表单，认识登陆页。 登陆页，见面。
 
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 
 
-1. 转到营 **销****活动**。
+1. 转至&#x200B;**Marketing** **活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 找到您的登陆页，然后单 **击“编****辑草稿**”。
+1. 找到您的登陆页并单击&#x200B;**编辑** **草稿**。
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. 将表单元素 **拖放** 到页面上。
+1. 将&#x200B;**Form**&#x200B;元素拖放到页面上。
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -53,10 +53,10 @@ ht-degree: 0%
    >
    >后续页面是用户提交表单后将看到的页面。
 
-1. 单击 **插入**。
+1. 单击&#x200B;**插入**。
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
    干得好！
 
-只需关闭登陆页编辑器 [并批准登陆页草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+只需关闭登陆页编辑器并[批准登陆页草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
