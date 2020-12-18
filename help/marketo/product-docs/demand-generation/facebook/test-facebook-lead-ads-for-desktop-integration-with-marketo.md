@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# 测试Facebook潜在客户广告以与Marketo进行桌面集成 {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
+# 测试Facebook潜在客户广告以与Marketo{#test-facebook-lead-ads-for-desktop-integration-with-marketo}桌面集成
 
 在创建Lead Ad之后，您应该测试它！ 下面介绍如何在桌面上完成此操作。
 
 >[!PREREQUISITES]
 >
->您必须 [设置Facebook潜在客户广告集成](set-up-facebook-lead-ads.md)。
+>您必须[设置Facebook潜在客户广告集成](set-up-facebook-lead-ads.md)。
 
-1. 在Facebook Power Editor中，选择活动、广告，然后单击“编 **辑**”。
-1. 在“ **链接**”下，单 **击“新闻源”链接中的** 视图。
+1. 在Facebook Power Editor中，选择活动、广告，然后单击&#x200B;**编辑**。
+1. 在&#x200B;**链接**&#x200B;下，单击新闻源&#x200B;**中的**&#x200B;视图。
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >
    >这只是一个使用“了解更多行动动员”的示例。 您的潜在客户广告单元行动号召可能有所不同。
 
-1. 在桌面上填写表单，提交测试潜在客户广告单元。 单击 **提交**。
+1. 在桌面上填写表单，提交测试潜在客户广告单元。 单击&#x200B;**提交**。
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. 魔法就在这里发生！ 提交表单后，在Marketo中 [构建智能列表](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ，作为项目的一部分，或在使用“已填写Facebook潜在客户广告表单”过滤器的数据库中构建智能。 插入您刚提交的表单的潜在客户广告表单名称。
+1. 魔法就在这里发生！ 提交表单后，[在Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中构建智能列表，作为项目的一部分，或在使用“已填写Facebook潜在客户广告表单”过滤器的数据库中构建智能。 插入您刚提交的表单的潜在客户广告表单名称。
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. 现在，单击 **“人员** ”选项卡以验证同步是否正常工作。
+1. 现在，单击&#x200B;**People**&#x200B;选项卡以验证同步是否正常工作。
 
    ![](assets/people.png)
 
