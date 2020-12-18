@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 性能分析设置 {#performance-insights-settings}
+# 性能分析设置{#performance-insights-settings}
 
 了解MPI中的不同设置选项。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >根据您所在的仪表板，您将看到不同的设置选项。
 
-## 视图项目成功依据 {#view-program-success-by}
+## 视图项目成功者{#view-program-success-by}
 
 **参与仪表板-贡献和趋势**
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 |---|---|
 | **活动期** | 检查此项后，绩效分析将按活动日期聚合所有新名称、成功案例和会员资格，而不管项目成本期。 |
 
-## 上一期间配置 {#previous-period-configuration}
+## 上一期间配置{#previous-period-configuration}
 
 **参与、管道、收入仪表板-仅贡献**
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 |---|---|
 | **YOY期间** | 将上一期间设置为上一年的同一月或季度。 |
 
-## 受营销影响的机会 {#marketing-influenced-opportunities}
+## 受营销影响的机会{#marketing-influenced-opportunities}
 
 **管道仪表板-贡献和趋势**
 
@@ -69,7 +69,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 成本计算 {#cost-calculation}
+## 成本计算{#cost-calculation}
 
 **管道和收入仪表板-贡献和趋势**
 
