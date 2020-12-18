@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 删除模板类别 {#delete-a-template-category}
+# 删除模板类别{#delete-a-template-category}
 
-1. 单击类别旁的菜单图标，然后单击“删 **除”**。
+1. 单击类别旁的菜单图标，然后单击&#x200B;**删除**。
 1. 单击**删除**以确认。
 
 >[!NOTE]
