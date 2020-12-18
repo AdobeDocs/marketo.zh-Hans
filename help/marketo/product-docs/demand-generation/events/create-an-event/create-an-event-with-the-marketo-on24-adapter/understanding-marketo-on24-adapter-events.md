@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解Marketo On24适配器事件 {#understanding-marketo-on-adapter-events}
+# 了解Marketo On24适配器事件{#understanding-marketo-on-adapter-events}
 
 如果您的ON24网络研讨会未连接到Marketo，您必须获取Marketo中已有的与会者信息并将其输入ON24。 网络研讨会结束后，您必须获取ON24中已有的出席信息，并将其重新输入Marketo。
 
@@ -23,7 +23,7 @@ ON24适配器会为您传输所有信息。 它将在Marketo登陆页上捕获�
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-准备开始？ 开始 [使用ON24适配器创建事件](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)。
+准备开始？ 开始[使用ON24适配器](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)创建事件。
 
 >[!MORELIKETHIS]
 >
