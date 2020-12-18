@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Sales Connect如何处理电子邮件消除重复 {#how-sales-connect-handles-email-de-duping}
+# Sales Connect如何处理电子邮件去重复{#how-sales-connect-handles-email-de-duping}
 
-将CSV文件上 [传到Sales](http://docs.marketo.com/x/VADb) Connect中时，在导入开始之前，我们会在CSV中合并所有类似的联系人。
+当您[将CSV](http://docs.marketo.com/x/VADb)文件上传到Sales Connect中时，在导入开始之前，我们会在CSV中合并所有类似的联系人。
 
 我们根据类似的电子邮件地址执行此操作。 因此，如果有两个相同的电子邮件地址，我们会将它们合并为一个联系人。
 
