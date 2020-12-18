@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 如何共享组 {#how-to-share-a-group}
+# 如何共享组{#how-to-share-a-group}
 
 在Sales Connect中，与团队共享一组潜在客户或联系人非常简单。
 
-1. 转到“人 **员** ”选项卡。
+1. 转到&#x200B;**People**&#x200B;选项卡。
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 单击**组操作**按钮并选择共享 **组**。
+1. 单击** “组操作”**按钮并选择&#x200B;**“共享组”**。
 
    ![](assets/three-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 单击 **共享**。
+1. 单击&#x200B;**共享**。
 
    ![](assets/five-1.png)
 
