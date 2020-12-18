@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 人员页面列 {#people-page-columns}
+# 人员页列{#people-page-columns}
 
 您可以通过选择显示哪些列来自定义您看到的联系信息。
 
-## 如何选择列 {#how-to-select-columns}
+## 如何选择列{#how-to-select-columns}
 
 1. 在“人员”页面中，单击“列表设置”图标。
 
    ![](assets/one-5.png)
 
-1. 滚动并选择所需的列(如果需要每 **列** ，也可单击全选)。 完成后，单击退出列表。
+1. 滚动并选择所需的列（如果希望每列都选择&#x200B;**全选**）。 完成后，单击退出列表。
 
    ![](assets/two-4.png)
 
-## 列说明 {#column-descriptions}
+## 列描述{#column-descriptions}
 
 <table> 
  <colgroup> 
