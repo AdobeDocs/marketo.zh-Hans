@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 配置重新共享电子邮件并提示使用社交应用程序 {#configure-re-share-email-and-prompt-for-a-social-app}
+# 配置重新共享电子邮件并提示社交应用程序{#configure-re-share-email-and-prompt-for-a-social-app}
 
-当您创建 [推荐优惠](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或抽奖时 [](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以邀请参加者在注册过程中与更多朋友共享优惠，并为共享电子邮件提供默认文本。
+当您创建[推荐优惠](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)或[抽奖](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)时，您可以邀请参加者在注册过程中与更多朋友共享您的优惠，并为共享电子邮件提供默认文本。
 
 >[!NOTE]
 >
->在推荐优惠中，您还可以 [将共享优惠作为注](../../../../product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) 册的一个要求。
+>在引用优惠中，您还可以[使共享优惠成为注册要求](../../../../product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 选择参照优惠，然后单击“编 **辑草稿”。**
+1. 选择引用优惠，然后单击“编辑草稿”。****
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. 在引用优惠编辑器中，转 **到“注册流程** ”> **“重新共享”提示。**
+1. 在引用优惠编辑器中，转到&#x200B;**注册流** > **重新共享提示。**
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
    >
    >电子邮件会自动包括参加者的唯一共享URL。
 
-1. 在“ **视图** 和编 **辑”窗口中** ，单击“ **显示编辑”** ，并编辑要共享的邀请以及跟踪进度说明。
+1. 在&#x200B;**视图**&#x200B;和&#x200B;**编辑**&#x200B;窗口中，单击&#x200B;**显示编辑**&#x200B;并编辑要共享的邀请以及跟踪进度说明。
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
 >[!MORELIKETHIS]
 >
->接下来，您可以在推荐优惠 [中配置跟踪进度流](configure-track-progress-flow-for-a-referral-offer.md)，或单击 **完成>批准并关闭** , [以发布推荐优惠或](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 抽奖 [](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)。
+>接下来，您可以在引用优惠](configure-track-progress-flow-for-a-referral-offer.md)中配置[跟踪进度流，或者单击&#x200B;**完成>批准并关闭**&#x200B;以[发布您的引用优惠](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)或[抽奖](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)。
 
