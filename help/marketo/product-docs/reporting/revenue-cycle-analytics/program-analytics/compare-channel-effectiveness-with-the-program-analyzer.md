@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将渠道有效性与项目分析器进行比较 {#compare-channel-effectiveness-with-the-program-analyzer}
+# 将渠道有效性与项目分析器{#compare-channel-effectiveness-with-the-program-analyzer}进行比较
 
 使用项目分析器比较渠道成本、成员获取、渠道、收入等，以确定最有效、最不有效的渠道。
 
@@ -20,31 +20,31 @@ ht-degree: 0%
 >* [创建项目分析器](create-a-program-analyzer.md)
 
 
-1. 单击“ **My** Marketo **”中的Analytics。**
+1. 单击&#x200B;**My Marketo中的** Analytics **。**
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. 选择您的 **项目分析器。**
+1. 选择&#x200B;**项目分析器。**
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. 将视图更改为 **按****渠道**。
+1. 将视图更改为&#x200B;**By** **渠道**。
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. 使用 **X轴** （X轴）下拉框选择水平轴的度量。 让我们用开始成 **本项目**。
+1. 使用&#x200B;**X轴**&#x200B;下拉列表选择水平轴的度量。 让我们用&#x200B;**开始成本**&#x200B;进行项目。
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. 使用Y轴下拉列表为垂直轴选择度量。 这里，我们将介绍(FT) **创建的管道**。
+1. 使用Y轴下拉列表为垂直轴选择度量。 这里，我们将使用&#x200B;**(FT)Pipeline Created**。
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >在项目分析器中可以选择的许多指标可通过首次触控(FT)和多触(MT)计算获得。 了解FT与MT归因 [的区别很重要](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
+   >在项目分析器中可以选择的许多指标可通过首次触控(FT)和多触(MT)计算获得。 了解FT和MT归因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之间的[差异非常重要。
 
-1. 使用 **Y轴下拉** ，选择“( **MT)已创建管线”**。
+1. 使用&#x200B;**Y轴**&#x200B;下拉框选择&#x200B;**(MT)已创建的管道**。
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
    现在，我们再添加两个维度！
 
-1. 使用“ **气泡大小** ”下拉框选择其他度量，如“ **新名称”**。
+1. 使用&#x200B;**气泡大小**&#x200B;下拉框选择其他度量，如&#x200B;**新名称**。
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -60,9 +60,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   我们看到网络研讨会渠道会缩小，用新名称 **来衡量**。 我们可以得出这样的结论：尽管它拥有许多成员，但它在创造新线索方面不如贸易展渠道有效。
+   我们看到网络研讨会渠道缩小，由&#x200B;**新名称**&#x200B;来衡量。 我们可以得出这样的结论：尽管它拥有许多成员，但它在创造新线索方面不如贸易展渠道有效。
 
-1. 最后，使用“颜色”(Color)下拉框添加第四个维度。 让我们选 **择(FT)收入****赢**。
+1. 最后，使用“颜色”(Color)下拉框添加第四个维度。 让我们选择&#x200B;**(FT)收入** **韩元**。
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    从色彩上，我们了解到，作为最绿色的泡沫，展会渠道影响了最大的收益，这是通过首次接触归因衡量的。
 
-1. 现在，如果我们将颜色指标更改为( **MT)收入赢得**，我们会发现，与网络研讨会和贸易展渠道相比，在线广告渠道（现在是最环保的）影响了更多的收入。
+1. 现在，如果我们将颜色指标更改为&#x200B;**(MT)收入赢得**，我们会发现，现在最环保的在线广告渠道随着时间的推移对收入的影响超过网络研讨会和贸易展渠道。
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -95,4 +95,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->了解有关收入周期浏览器中高级 [分析的更多信息](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+>了解有关[收入周期浏览器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)中的高级分析的更多信息。
