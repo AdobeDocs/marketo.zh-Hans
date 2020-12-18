@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 设置社交共享要求 {#set-social-share-requirement}
+# 设置社交共享要求{#set-social-share-requirement}
 
-创建 [推荐优惠时](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以要求人员共享优惠以便注册，或将其设为可选。
+当您[创建推荐优惠](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，您可以要求人员共享优惠以便注册，或将其设为可选。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/ma-1.png)
 
-1. 选择参照优惠，然后单击“编 **辑草稿”**。
+1. 选择引用优惠，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. 在引用优惠编辑器中，转 **到“应用程** 序设置” **，然后转到“注册流程步骤”**。
+1. 在引用优惠编辑器中，转至&#x200B;**应用程序设置**，然后转至&#x200B;**注册流步骤**。
 
    ![](assets/three.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    * **“人物捕获”>“共享**”:人员可以跳过共享，只需注册。
    * **“共享”>“人物捕获**”:要注册，人员必须共享。
 
-1. 对于每个选项，请参阅“预览和编 **辑”窗口中的** 视图。
+1. 对于每个选项，请参阅&#x200B;**“视图和编辑”**&#x200B;窗口中的预览。
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
 
