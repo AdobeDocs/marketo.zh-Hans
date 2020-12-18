@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sales Connect插件未在Gmail中显示 {#sales-connect-plugin-not-showing-up-in-gmail}
+# Sales Connect插件未在Gmail中显示{#sales-connect-plugin-not-showing-up-in-gmail}
 
 根据我们的经验，如果工具栏未显示，请尝试以下操作。
 
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 - 这可能显而易见，但请尝试从浏览器中退出并打开一个全新的窗口。
 
-- 转到Web应 [用程序](http://toutapp.com/login) ，确保您已登录到该应用程序。
+- 转到[Web应用程序](http://toutapp.com/login)并确保已登录。
 
 - 确保已启用Cookie。 如果您使用的是Chrome，请转至“设置”>“显示高级设置”>“内容设置”>“取消选中“阻止第三方Cookie和站点数据”。
 
 - 尝试断开连接，然后重新连接Sales Connect浏览器扩展。
 
-如果上述提示都不起作用，请向 [支持部门提交](http://nation.marketo.com/community/support_solutions) 案例。
+如果上述提示都不起作用，请[将案例](http://nation.marketo.com/community/support_solutions)提交给支持。
