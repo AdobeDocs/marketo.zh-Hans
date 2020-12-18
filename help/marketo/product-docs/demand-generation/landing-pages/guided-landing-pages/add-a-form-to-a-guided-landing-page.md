@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将表单添加到向导式登陆页 {#add-a-form-to-a-guided-landing-page}
+# 将表单添加到向导式登陆页{#add-a-form-to-a-guided-landing-page}
 
 表单，认识登陆页。 登陆页，见面。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 
 
-1. 转到“营销 **活动** ”区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/one.png)
 
-1. 查找并选择登陆页，然后单击“编 **辑草稿”**。
+1. 查找并选择您的登陆页，然后单击“编辑草稿&#x200B;**”。**
 
    ![](assets/two.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >向导式登陆页中的可用元素由模板定义。 如果在元素面板中看不到表单，请选择新模板或与模板创建者交谈。
 
-1. 多次单击 **元素** 面板中的表单。
+1. 多次-单击元素面板中的&#x200B;**Form**。
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
    >
    >后续页面是用户提交表单后将看到的页面。
 
-1. 在本例中，我们将使用表单定义。 单击 **插入**。
+1. 在本例中，我们将使用表单定义。 单击&#x200B;**插入**。
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -61,4 +61,4 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-现在只需关闭登陆页编辑器 [并批准登陆页草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+现在只需关闭登陆页编辑器并[批准登陆页草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)即可。
