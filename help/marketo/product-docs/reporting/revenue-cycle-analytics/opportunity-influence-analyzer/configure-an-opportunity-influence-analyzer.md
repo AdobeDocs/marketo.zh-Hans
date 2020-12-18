@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 配置机会影响分析器 {#configure-an-opportunity-influence-analyzer}
+# 配置机会影响分析器{#configure-an-opportunity-influence-analyzer}
 
-创建机 [会影响分析器后](create-an-opportunity-influence-analyzer.md)，您可以配置所包 [含的有趣](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 时刻的类型。
+在[创建机会影响分析器](create-an-opportunity-influence-analyzer.md)后，您可以配置所包含的[有趣时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)的类型。
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   如果分析器图形中有太多有趣的时刻，您可以通过在“设置”面板中取消选择人 **员** ，或减少有趣时刻的类型来减少这些时刻。
+   如果分析器图形中有太多有趣的时刻，您可以通过在&#x200B;**设置**&#x200B;面板中取消选择人物或减少有趣时刻的类型来减少这些时刻。
 
 1. 要配置要包括的有趣时刻类型，请转到“设置”选项卡，并在“有趣时刻”过滤器中拖动。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->有关其他分析器，请参 [阅基本报告](http://docs.marketo.com/display/docs/basic+reporting)。
+>有关其他分析器，请参阅[基本报告](http://docs.marketo.com/display/docs/basic+reporting)。
 
 >[!MORELIKETHIS]
 >
