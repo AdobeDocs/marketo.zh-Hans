@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使活动对Sales Connect用户可见 {#make-a-campaign-visible-to-sales-connect-users}
+# 使活动对Sales Connect用户可见{#make-a-campaign-visible-to-sales-connect-users}
 
 活动只有在可见时才能共享。 这是如何做到的。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 单击“智 **能列表** ”选项卡。
+1. 单击&#x200B;**智能列表**&#x200B;选项卡。
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 对于源，选择“is” **Web服务API**。
+1. 对于源，选择“is”**Web服务API**。
 
    ![](assets/4.png)
 
-1. 单击“流 **”** (Flow)选项卡。
+1. 单击&#x200B;**Flow**&#x200B;选项卡。
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 对于“类型”，选 **择“Web**”。
+1. 对于“类型”，选择&#x200B;**Web**。
 
    ![](assets/seven.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 单击 **计划** 选项卡 **并激** 活活动。
+1. 单击&#x200B;**计划**&#x200B;选项卡和&#x200B;**激活**&#x200B;活动。
 
    ![](assets/nine.png)
 
