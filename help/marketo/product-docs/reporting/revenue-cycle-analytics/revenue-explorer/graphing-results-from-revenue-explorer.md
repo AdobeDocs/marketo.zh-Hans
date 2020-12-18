@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 从收入浏览器绘制结果 {#graphing-results-from-revenue-explorer}
+# 从收入浏览器绘制结果图{#graphing-results-from-revenue-explorer}
 
 默认情况下，收入浏览器中的报表显示为表。 您还可以选择以各种格式的图形形式显示结果。
 
-1. 单击报表的 **视图** “为”下拉菜单中的箭头。 将显示不同的图形选项。
+1. 单击报告的&#x200B;**视图As**&#x200B;下拉菜单中的箭头。 将显示不同的图形选项。
 
    ![](assets/one-1.png)
 
-## 图形示例 {#graph-examples}
+## 图形示例{#graph-examples}
 
 **列**:表中的每行和每列都显示为垂直列。
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ![](assets/sunburst.png)
 
-**散点**:泡泡（基于使用的属性）。 使用测量对气泡进行颜色编码和／或确定其大小。
+**散点**:泡泡（基于使用的属性）。使用测量对气泡进行颜色编码和／或确定其大小。
 
 ![](assets/scatter.png)
 
