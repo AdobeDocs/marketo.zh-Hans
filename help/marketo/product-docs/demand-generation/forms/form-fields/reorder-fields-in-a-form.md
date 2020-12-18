@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 对表单中的字段重新排序 {#reorder-fields-in-a-form}
+# 对表单{#reorder-fields-in-a-form}中的字段重新排序
 
 在Marketo表单上重新排序字段很容易。 这是方法。
 
-1. 转到营 **销****活动**。
+1. 转至&#x200B;**Marketing** **活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择表单，然后单击 **编辑****表单**。
+1. 选择表单，然后单击&#x200B;**编辑** **表单**。
 
    ![](assets/editform.png)
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->想了解有关表单的更 [多信息](http://docs.marketo.com/display/docs/forms)?
+>想了解有关[表单的更多信息吗？](http://docs.marketo.com/display/docs/forms)
 
