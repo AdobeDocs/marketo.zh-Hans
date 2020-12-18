@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将活动另存为模板 {#save-your-campaign-as-a-template}
+# 将活动另存为模板{#save-your-campaign-as-a-template}
 
 您是否曾花时间创建完美的Web活动? 您现在可以将其另存为模板，以便将来轻松重复使用。
 
