@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 从网页中捕获图像 {#grab-the-images-from-a-web-page}
+# 从网页{#grab-the-images-from-a-web-page}获取图像
 
 要从网页添加图像，请复制包含所需图像的页面的Web地址(URL)，然后执行以下简单步骤。
 
-1. 转到 **Design** **Studio**。
+1. 转至&#x200B;**Design** **Studio**。
 
    ![](assets/designstudio-2.png)
 
-1. 单击“ **新建** ” **并从Web抓取图像**。
+1. 单击&#x200B;**新建**&#x200B;和&#x200B;**从Web抓取图像**。
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. 选择“ **图像和文件** ”文件夹，将Web地址(URL)粘贴到URL文本框中，然后单击“下 **一步”。**
+1. 选择&#x200B;**Images and Files**&#x200B;文件夹，将Web地址(URL)粘贴到URL文本框中，然后单击&#x200B;**Next。**
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >此功能不适用于直接指向图像的URL。 使用包含图像的网页的URL。
 
-1. 选择要添加的图像，然后单击“导 **入”。**
+1. 选择要添加的图像，然后单击“导入”。****
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. 您可以在图像和文件中查看所 **有可用图像**。
+1. 您可以在&#x200B;**图像和文件**&#x200B;中查看所有可用的图像。
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
