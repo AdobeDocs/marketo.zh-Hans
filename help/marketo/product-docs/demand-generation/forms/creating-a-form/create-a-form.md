@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 创建表单 {#create-a-form}
+# 创建表单{#create-a-form}
 
 在登陆页上创建并使用表单以生成新名称。 这真的很简单——下面介绍如何开始。
 
 >[!NOTE]
 >
->了解Marketo如何保 [护表单安全](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
+>了解Marketo在[保护表单安全方面所做的工作](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
 
-1. 转到营 **销****活动**。
+1. 转至&#x200B;**Marketing** **活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 查找并选择您的 **项目**。
+1. 查找并选择&#x200B;**项目**。
 
    ![](assets/programseelct.png)
 
-1. 在“ **新建**”下，单 **击“新建****本** 地资 **产**”。
+1. 在&#x200B;**New**&#x200B;下，单击&#x200B;**New** **Local** **Asset**。
 
    ![](assets/newlocalasset.png)
 
-1. 选择 **表单**。
+1. 选择&#x200B;**表单**。
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. 输入表单 **名称** ，然后单 **击创建**。
+1. 输入格式&#x200B;**名称**&#x200B;并单击&#x200B;**创建**。
 
    ![](assets/newformwithhands.png)
 
