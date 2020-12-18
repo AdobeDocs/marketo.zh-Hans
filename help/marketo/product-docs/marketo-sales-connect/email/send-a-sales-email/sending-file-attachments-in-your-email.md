@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在电子邮件中发送文件附件 {#sending-file-attachments-in-your-email}
+# 在电子邮件{#sending-file-attachments-in-your-email}中发送文件附件
 
 发送附件是保持电子邮件简短并让营销团队进行交谈的绝佳方式。 但是，发送包含大文件的电子邮件可能会阻止您的收件人。
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 >
 >使用Tout作为您的电子邮件投放渠道时，我们建议在发送电子邮件时使用19MB或更少的文件。
 
-如果绝对需要发送大文件，请先尝试将其压缩或作为Web应用程 [序中可跟踪](http://docs.marketo.com/x/3oPS) 的附 [件上传](http://toutapp.com/login)。
+如果绝对需要发送大文件，请先尝试将其压缩，或在[Web应用程序](http://toutapp.com/login)中将其作为[可跟踪附件](http://docs.marketo.com/x/3oPS)上传。
