@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 按收入阶段划分的人员报表 {#people-by-revenue-stage-report}
+# 按收入阶段列出的人员报表{#people-by-revenue-stage-report}
 
-您可以创建一个报告，显示您的人员所处 [的收入周期模](http://docs.marketo.com/display/docs/revenue+cycle+models) 型的哪个阶段。 只要报表的给定日期范围存在人员余额，报表就包括指定模型中的任何阶段。
+您可以创建报告，显示您的[收入周期模型](http://docs.marketo.com/display/docs/revenue+cycle+models)的哪个阶段是您的人员所在的。 只要报表的给定日期范围存在人员余额，报表就包括指定模型中的任何阶段。
 
 >[!NOTE]
 >
@@ -21,27 +21,27 @@ ht-degree: 0%
 >
 >并非所有Marketo版本都包含此功能。 有关更多详细信息，请与客户经理联系。
 
-1. 转到 **Analytics。**
+1. 转至&#x200B;**分析。**
 
    ** ![](assets/image2017-3-27-15-3a43-3a55.png)
 
    **
 
-1. 单击按收入阶 **段列出的人员报告**。
+1. 单击&#x200B;**People by Revenue Stage**&#x200B;的报告。
 
    ** ![](assets/image2017-3-27-15-3a46-3a27.png)
 
    **
 
-1. 单击“设 **置** ”选项卡。 多次-单击“ **创建人员** ”字段以设置要报告的所需时间范围。
+1. 单击&#x200B;**Setup**&#x200B;选项卡。 多次-单击&#x200B;**Person Created At**&#x200B;字段，以设置要报告的所需时间范围。
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 
-1. 编辑时间范围，然后单击“ **保存**”。
+1. 编辑时间帧，然后单击&#x200B;**保存**。
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. 单击“报 **告** ”选项卡。 现在，您可以了解您的员工处于收入模型的哪个阶段，并关注任何瓶颈。
+1. 单击&#x200B;**报告**&#x200B;选项卡。 现在，您可以了解您的员工处于收入模型的哪个阶段，并关注任何瓶颈。
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)
 
@@ -50,5 +50,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >了解如何在基本报告中添加列 [等内容](http://docs.marketo.com/display/docs/basic+reporting)。
+   >了解如何在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中添加列等。
 
