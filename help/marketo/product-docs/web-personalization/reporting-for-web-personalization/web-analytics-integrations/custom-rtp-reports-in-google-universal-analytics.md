@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Google Universal Analytics中的自定义RTP报告 {#custom-rtp-reports-in-google-universal-analytics}
+# Google Universal Analytics中的自定义RTP报告{#custom-rtp-reports-in-google-universal-analytics}
 
 >[!PREREQUISITES]
 >
@@ -22,29 +22,29 @@ ht-degree: 0%
 * RTP B2B
 * RTP参与
 
-## 设置自定义报告 {#setting-up-a-custom-report}
+## 设置自定义报告{#setting-up-a-custom-report}
 
 1. 登录Google Analytics。
 1. 单击顶部菜单中的**自定义**。
-1. 单击 **+新建自定义报告。**
+1. 单击&#x200B;**+New Custom Report。**
 
 ** ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 **
 
-## RTP B2B报告 {#rtp-b-b-report}
+## RTP B2B报告{#rtp-b-b-report}
 
-1. 命名报 **告RTP B2B报告**。
+1. 将报告命名为&#x200B;**RTP B2B报告**。
 1. 命名第一个选项卡**行业**
 
-   1. (注：您将重复 **此选项卡** ，并创建其他类似选项卡——步骤5)
+   1. (注：您将&#x200B;**重复此选项卡**&#x200B;并创建其他类似选项——步骤5
 
 1. 选择** Explorer**报告类型。\
    ** ![](assets/image2015-3-22-16-3a15-3a25.png)
 
    **
 
-1. 在“ **度量组** ”部分，选择与业务相关的度量。
+1. 在&#x200B;**度量组**&#x200B;部分，选择与您的业务相关的度量。
 
    1. 我们建议：\
       ** ![](assets/image2015-3-22-16-3a16-3a40.png)
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. 在“Dimension **追溯** ”部分中，按如下方式设置每个选项卡的相关维。
+1. 在&#x200B;**Dimension展开**&#x200B;部分中，按如下方式设置每个选项卡的相关尺寸。
 
 <table> 
  <thead> 
@@ -101,17 +101,17 @@ ht-degree: 0%
 </table>
 
 1. 请勿设置任何过滤器并将此报告设置为可用于**所有网站数据**（如果与特定Analytics帐户相关，请进行更改）。
-1. 单击 **保存**。\
+1. 单击&#x200B;**保存**。\
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
-## RTP参与报告 {#rtp-engagement-report}
+## RTP参与报告{#rtp-engagement-report}
 
-1. 命名报告 **RTP参与报告。**
-1. 将第1个选项卡名称设置为“所 **有参与”**
+1. 将报告命名为&#x200B;**RTP参与报告。**
+1. 将第1个选项卡名称设置为&#x200B;**所有参与**
 
    1. (注：您将重复此选项卡并创建其他类似选项卡——步骤5)
 
-1. 选择“资 **源管理器** ”报告类型。\
+1. 选择&#x200B;**Explorer**&#x200B;报告类型。\
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
 1. 在“度量组”部分，选择与您的业务相关的度量。 以下是建议：\
@@ -127,7 +127,7 @@ ht-degree: 0%
 
    ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
 
-1. 在“Dimension **追溯** ”部分中，将每个选项卡的相关维设置如下：
+1. 在&#x200B;**Dimension展开**&#x200B;部分中，将每个选项卡的相关尺寸设置如下：
 
 <table> 
  <thead> 
@@ -216,7 +216,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
