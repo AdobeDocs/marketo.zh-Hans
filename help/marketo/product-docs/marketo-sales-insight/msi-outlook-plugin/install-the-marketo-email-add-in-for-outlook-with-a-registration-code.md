@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用注册代码安装Outlook的Marketo Email Add-in {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# 使用注册代码{#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}安装Outlook的Marketo Email Add-in
 
 如果用户可以访问其笔记本电脑上的管理员设置，则可以直接向他们发送注册代码。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 您必须获 [得Marketo Email Add-in许可](issue-a-marketo-email-add-in-license.md)。
+>* 您必须[已颁发Marketo Email Add-in许可证](issue-a-marketo-email-add-in-license.md)。
 
 >
 
 
 
-## 下载安装程序 {#download-installer}
+## 下载安装程序{#download-installer}
 
-1. 识别您 [的Microsoft Outlook版本](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. 识别[Microsoft Outlook版本](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. 单击该链接以下载适合您的Microsoft Outlook版本的安装程序。
 
    >[!NOTE]
@@ -47,7 +47,7 @@ ht-degree: 0%
    | Outlook for Mac | 不支持 | 不支持 |
    | Outlook Web应用程序 | 不支持 | 不支持 |
 
-## 复制注册代码 {#copy-your-registration-code}
+## 复制注册代码{#copy-your-registration-code}
 
 1. 从您收到的邀请电子邮件中复制注册代码。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-## 安装 {#install}
+## 安装{#install}
 
 1. 运行安装程序。
 
@@ -65,13 +65,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果收到安全警告，别担心！ 只需单击“ **运行**”。
+   >如果收到安全警告，别担心！ 只需单击&#x200B;**运行**。
 
-1. 单击“ **下一步**”。
+1. 单击&#x200B;**下一步**。
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. 填写名 **字**、 **姓氏、电**&#x200B;子邮件地址 **，然后将**注册代码**从电子邮件复制并粘贴到表单中，然后单击******&#x200B;下一步。
+1. 填写&#x200B;**名字**、**姓氏**、**电子邮件地址**，然后将电子邮件中的**注册代码**复制并粘贴到表单中，然后单击&#x200B;**下一页**。
 
    ![](assets/enter-your-information-hands.png)
 
@@ -83,15 +83,15 @@ ht-degree: 0%
 
    ![](assets/select-installation-folder-hand.png)
 
-1. 单击“ **下一步**”。
+1. 单击&#x200B;**下一步**。
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >如果收到有关未知发布者的安全提示，请单击“ **是”**。
+   >如果收到有关未知发布者的安全提示，请单击&#x200B;**是**。
 
-1. 安装现已完成，请单击“ **关闭**”。
+1. 安装现已完成，请单击&#x200B;**关闭**。
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
