@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解所有内容 {#understanding-all-content}
+# 了解所有内容{#understanding-all-content}
 
 >[!NOTE]
 >
->根据购买日期，您的营销订阅可能包括Marketo Predictive Content或Content`<sup>AI</sup>`。 对于使用预测内容的用户，Marketo在2018年4月`<sup>AI</sup>` 30日之前一直支持内容分析功能。 要使这些功能在该日期之后保持不变，请联系您的营销人员客户成功经理以升级到营销人员内容`<sup>AI</sup>`。
+>根据购买日期，您的营销订阅可能包括Marketo Predictive Content或Content`<sup>AI</sup>`。 对于使用预测内容的用户，Marketo在2018年4月30日之前将启用“内容`<sup>AI</sup>`分析”功能。 要使这些功能在该日期之后保持不变，请联系您的Marketo Customer Success Manager以升级到Marketo Content`<sup>AI</sup>`。
 
 “所有内容”页面显示已手动搜索或添加的所有内容。   ![](assets/image2017-10-3-9-3a4-3a56.png)
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 您可以添加新内容并跟踪它、删除某个内容或批准某个内容。 批准内容后，可以在“预测内容”页面上编辑它。
 
-## 按类别筛选内容  {#filter-content-by-categories}
+## 按类别{#filter-content-by-categories}筛选内容
 
 通过选择一个或多个类别筛选内容。 然后，使用标准或自定义设置设置内容分析的日期或日期范围。
 
-1. 在“所 **有内容** ”页面上，单击筛选器图标，然后 **在“类别**”下选择一个或多个内容类别。
+1. 在&#x200B;**所有内容**&#x200B;页面上，单击过滤器图标，在&#x200B;**类别**&#x200B;下，选择一个或多个内容类别。
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a6-3a23.png)
 
-## 显示日期或日期范围的分析 {#display-analytics-for-a-date-or-date-range}
+## 显示日期或日期范围{#display-analytics-for-a-date-or-date-range}的分析
 
-1. 要显示特定日期或日期范围的数据，请单击日历图标，然后从左面板中进行选择。 对于自定义日期范围，单击日历上日期范围的第一天和最后一天（如所示）。 单击“ **应用**”。
+1. 要显示特定日期或日期范围的数据，请单击日历图标，然后从左面板中进行选择。 对于自定义日期范围，单击日历上日期范围的第一天和最后一天（如所示）。 单击&#x200B;**应用**。
 
    ![](assets/all-content-calendar-filter-hands.png)
 
