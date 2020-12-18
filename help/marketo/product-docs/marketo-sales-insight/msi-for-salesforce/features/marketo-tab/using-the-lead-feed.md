@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用潜在客户源 {#using-the-lead-feed}
+# 使用潜在客户源{#using-the-lead-feed}
 
 潜在客户源是由您的潜在客户完成的最新列表，包含有趣的事件。 单击“营销工具”选项卡时，您将在右侧找到它。 它就像RSS或Twitter源——最新更新位于列表顶部。 在您还清醒的时候，使用此工具跳转到潜在客户。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >潜在客户源包括您拥有的潜在客户和您的手表列表中的潜在客户。
 
-## 潜在客户信息中包含哪些内容？ {#whats-in-the-lead-feed}
+## 潜在客户信息中包含哪些内容？{#whats-in-the-lead-feed}
 
 ![](assets/one.png)\
 潜在客户馈送中的每个项目都是一个有趣的时刻——该潜在客户营销历史中值得注意的活动或事件。
@@ -69,7 +69,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 获取RSS更新 {#getting-rss-updates}
+## 获取RSS更新{#getting-rss-updates}
 
 您还可以通过RSS源获取潜在客户源更新。  RSS源允许您接收潜在客户的更新，即使您未连接到Salesforce。 该源与Salesforce中的Lead Feed以及以下信息（如果有）相同：
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->公司的Marketo管理员必 [须启用RSS](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) feed才能正常使用。
+>您的公司的Marketo管理员必须[启用RSS服务](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)才能使其正常工作。
 
 要获取RSS更新，您需要两件事：RSS链接和RSS源阅读器。 单击潜在客户源中的RSS图标可获取RSS链接：   ![](assets/three.png)
 
