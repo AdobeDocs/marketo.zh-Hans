@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在智能活动中使用潜在客户广告过滤器和触发器 {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
+# 在智能活动{#use-lead-ads-filters-and-triggers-in-a-smart-campaign}中使用潜在客户广告过滤器和触发器
 
 启用Facebook潜在客户广告后，您可以在智能活动中使用这些广告来看到项目成功。 当用户以Facebook潜在客户广告单元提交其信息时，该信息会立即推送到Marketo。
 
-1. 使用“填 **写潜在客户广告表单** ”过滤器或触发器。
+1. 使用&#x200B;**填写潜在客户广告表单**&#x200B;过滤器或触发器。
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 
