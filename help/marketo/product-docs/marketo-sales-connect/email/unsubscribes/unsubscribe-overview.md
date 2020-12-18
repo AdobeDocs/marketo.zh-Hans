@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 取消订阅概述 {#unsubscribe-overview}
+# 取消订阅概述{#unsubscribe-overview}
 
 对组织来说，遵守电子邮件隐私法变得越来越重要。 为此，我们对取消订阅体验进行了一些增强。
 
