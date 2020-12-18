@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 批准片段 {#approve-a-snippet}
+# 批准代码片断{#approve-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. 单击您的代 **码片**&#x200B;段，然后在代码片段操作&#x200B;**下** ，单 **击批准**。
+1. 单击&#x200B;**代码片断**，然后在&#x200B;**代码片断操作**&#x200B;下单击&#x200B;**批准**。
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
