@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件洞察分析概述 {#email-insights-analytics-overview}
+# 电子邮件分析概述{#email-insights-analytics-overview}
 
 在Analytics中，探索电子邮件聚合投放和参与度数据。 使用左侧的图表浏览数据、右侧的洞察，获得更为引导式的体验。
 
 ![](assets/emailanalytics-1.jpg)
 
-[筛选](filtering-in-email-insights.md) ，可帮助您细化特定指标。
+[可](filtering-in-email-insights.md) 以使用Filtering来帮您细化特定指标。
 
 ![](assets/filter-field.png)
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 ...或者，无需悬停鼠标即可查看详细信息，方法是展开浏览器窗口（在大屏幕上）。
 
-` ![](assets/kpi-wide.png)
+“ ![](assets/kpi-wide.png)
 
-`
+“
 
 >[!TIP]
 >
@@ -50,7 +50,7 @@ ht-degree: 0%
 ` ![](assets/chart2.png)  
 `
 
-如果您创建了要再次使用的图表，请将它制作为快速 [图表](email-insights-quick-charts.md)。
+如果创建要再次使用的图表，请将其设为[快速图表](email-insights-quick-charts.md)。
 
 ` ![](assets/quick-chart.png)  
 `
