@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 按状态列出的人员报告 {#people-by-status-report}
+# 按状态列出的人员报告{#people-by-status-report}
 
-检查每月每个“人员状态”值中显示的人员数量，检查您在整个流程中 *调动人* 员的效果。
+检查每个&#x200B;*人员状态*&#x200B;值每月显示多少人，了解您在整个流程中移动人员的效果。
 
-1. [创建报告](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，然后选择 **“按状态** ”报 [告类型](report-type-overview.md)。
-1. [设置报告的时间范围](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然后单击“报 **告** ”选项卡。
+1. [创建报](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 表，然后选择按 **状态** [报表类型的人员](report-type-overview.md)。
+1. [设置报告的时间范](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 围，然后单击报 **** 告选项卡。
 1. 太好了！ 现在，您可以逐月查看每个人员状态中的人数。
 
-   ` ![](assets/image2017-3-27-11-3a17-3a4.png)
+   “ ![](assets/image2017-3-27-11-3a17-3a4.png)
 
-   `
+   “
 
    >[!TIP]
    >
@@ -32,12 +32,12 @@ ht-degree: 0%
    >**相关文章**
    >
    >
-   >[使用智能列表向特定人员过滤](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) 您的报表。
+   >[使用智能列表过滤您针对特](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) 定人员的报告。
 
    >[!NOTE]
    >
    >**深潜**
    >
    >
-   >了解如何在基本报告中添加列 [等内容](http://docs.marketo.com/display/docs/basic+reporting) 。
+   >了解如何在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)深入学习中添加列等。
 
