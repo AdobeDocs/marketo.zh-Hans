@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 将Marketo与Dynamics同步的必填字段 {#required-fields-for-syncing-marketo-with-dynamics}
+# 将Market同步到Dynamics的必填字段{#required-fields-for-syncing-marketo-with-dynamics}
 
-要使Lead *和Contact* for Sales Insight正常工作，这些字段必须与Marketo同步：
+以下字段&#x200B;*必须*&#x200B;与Marketo同步，以使潜在客户和销售分析联系人都能工作：
 
 * 优先级
 * 紧急
 * 相对得分
 
-如果这些字段中有任何一个缺失，您将在Marketo中看到一条错误消息，其中包含缺失字段的名称。 要解决此问题，请检查您的实例，以确保潜在客户和联系人的字 **段都** 已同 **步**。 否则，添加它们。
+如果这些字段中有任何一个缺失，您将在Marketo中看到一条错误消息，其中包含缺失字段的名称。 要解决此问题，请检查您的实例，确保&#x200B;**Lead**&#x200B;和&#x200B;**Contact**&#x200B;的字段都同步。 否则，添加它们。
 
 下面介绍如何验证和添加同步字段。
 
