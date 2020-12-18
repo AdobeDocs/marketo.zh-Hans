@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 替换已上传的图像或文件 {#replace-an-uploaded-image-or-file}
+# 替换已上载的图像或文件{#replace-an-uploaded-image-or-file}
 
-1. 转到 **Design** **Studio**。
+1. 转到&#x200B;**Design** **Studio**。
 
    ![](assets/designstudio-6.png)
 
-1. 单击 **“图** 像和 **** 文件 ****”，然后选择要替换的文件。
+1. 单击&#x200B;**图像** **和** **文件**，然后选择要替换的文件。
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >您还可以搜 [索上传的图像或文件](search-uploaded-images-and-files.md)。
+   >您还可以[搜索已上载的图像或文件](search-uploaded-images-and-files.md)。
 
-1. 单击“ **文件操作** ”，然后 **选择“替换图像”或“文件”**。
+1. 单击&#x200B;**文件操作**&#x200B;并选择&#x200B;**替换图像或文件**。
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >如果无法从共享文件夹中选择文件，请将该文件保存到硬盘上，并从中进行选择。
 
-1. 验证“Choose File（选择文件）”旁 **边显示的文** 件是否正确，然后单 **击“Replace**（替换）”。
+1. 验证在&#x200B;**选择文件**&#x200B;旁边显示的文件是否正确，然后单击&#x200B;**替换**。
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 
