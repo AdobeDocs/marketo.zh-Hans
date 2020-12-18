@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 编辑模板类别 {#edit-a-template-category}
+# 编辑模板类别{#edit-a-template-category}
 
 此时无法删除整个类别或将模板批量移动到新类别。
 
