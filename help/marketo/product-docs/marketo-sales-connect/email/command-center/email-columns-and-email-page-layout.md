@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件列和电子邮件页面布局 {#email-columns-and-email-page-layout}
+# 电子邮件列和电子邮件页面布局{#email-columns-and-email-page-layout}
 
 您可以配置任何可用列，使其显示在命令中心的电子邮件部分。 将保存每个电子邮件子文件夹的配置设置（例如，已传送、失败、已计划等）。
 
-## 电子邮件列 {#email-columns}
+## 电子邮件列{#email-columns}
 
 <table> 
  <colgroup> 
@@ -114,7 +114,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 电子邮件页面布局设置 {#email-page-layout-settings}
+## 电子邮件页面布局设置{#email-page-layout-settings}
 
 您可以按照以下步骤配置布局。
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. 选择“电 **子邮件** ”部分。
+1. 选择&#x200B;**电子邮件**&#x200B;部分。
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
