@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 对列排序报告 {#sort-report-on-columns}
+# 对列{#sort-report-on-columns}的报告进行排序
 
 使用列对报表中的数据进行排序，使最重要的数字易于查找。
 
-1. 转到 **Analytics** (或 **营销活动**)。
+1. 转至&#x200B;**Analytics**(或&#x200B;**营销活动**)。
 
    ![](assets/login-marketing-activities.png)
 
-1. 从导航树中选择您的报表，然后单击“报 **表** ”选项卡。
+1. 从导航树中选择您的报告，然后单击&#x200B;**报告**&#x200B;选项卡。
 
    ![](assets/reports2.jpg)
 
@@ -45,5 +45,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >了解在基本报告中处理报表的 [全部功能](http://docs.marketo.com/display/docs/basic+reporting)。
+   >了解在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中处理报告的全部功能。
 
