@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 收件人位置不正确 {#incorrect-recipient-location}
+# 收件人位置{#incorrect-recipient-location}不正确
 
 如果我们对您的收件人的位置有误，那么可能发生的事情有三种可能：
 
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 -如果您的电子邮件是由抄送或密送字段中的某个人转发或打开，我们会尝试准确显示这些人的位置。
 
-总的来说，我们将根据IP跟踪尽可能准确地确定位置，但不幸的是 `isn't an exact science`。
+总的来说，我们将根据IP跟踪尽可能准确地确定位置，但不幸的是，它`isn't an exact science`。
