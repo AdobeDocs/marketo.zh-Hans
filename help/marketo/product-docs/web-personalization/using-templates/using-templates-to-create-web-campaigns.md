@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 使用模板创建Web活动 {#using-templates-to-create-web-campaigns}
+# 使用模板创建Web活动{#using-templates-to-create-web-campaigns}
 
-通过使用我们内建的模板或保存您自己的模板，加快和简化您的Web活动 [创建流程](save-your-campaign-as-a-template.md)。
+通过使用我们内置的模板或通过保存您自己的[来加快和简化Web活动创建过程。](save-your-campaign-as-a-template.md)
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >对于移动活动，从移动区域 **选择** 模板。
+   >对于移动活动，请从&#x200B;**mobile**&#x200B;部分选择模板。
 
 1. 自定义模板。
 
