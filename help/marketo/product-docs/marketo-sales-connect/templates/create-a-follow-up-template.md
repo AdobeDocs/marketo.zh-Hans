@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# 创建跟进模板 {#create-a-follow-up-template}
+# 创建跟进模板{#create-a-follow-up-template}
 
 利用我们的活动功能，在创建新模板时，只需将“last_email_body”动态字段添加到模板底部即可。 这会自动在活动中将电子邮件串接在一起。
