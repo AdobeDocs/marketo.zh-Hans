@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 将RTP与Google Universal Analytics集成 {#integrate-rtp-with-google-universal-analytics}
+# 将RTP与Google Universal Analytics{#integrate-rtp-with-google-universal-analytics}集成
 
-## 简介 {#intro}
+## 简介{#intro}
 
 将Google Universal Analytics(GUA)与Marketo Real-Time Personalization&#39;s(RTP)的云图和个性化数据结合使用，以更好地衡量和分析您的在线营销工作。
 
@@ -39,22 +39,22 @@ ht-degree: 0%
 
 
 
-## 在GUA中设置自定义Dimension {#set-up-custom-dimensions-in-gua}
+## 在GUA {#set-up-custom-dimensions-in-gua}中设置自定义Dimension
 
 1. 在Google Analytics,
 
-   1. 转到管 **理**
-   1. 选择帐 **户。**
-   1. 选择属 **性。**
-   1. 选择**自定义定义**和自 **定义Dimension。**
+   1. 转至&#x200B;**Admin**
+   1. 选择&#x200B;**帐户。**
+   1. 选择&#x200B;**属性。**
+   1. 选择**自定义定义**和&#x200B;**自定义Dimension。**
 
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
-1. 添加新的自定义维。 单击 **+新建自定义Dimension**
+1. 添加新的自定义维。 单击&#x200B;**+新建自定义Dimension**
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. 添加以下自 **定义Dimension:**
+1. 添加以下&#x200B;**自定义Dimension:**
 
 <table> 
  <tbody> 
@@ -66,31 +66,31 @@ ht-degree: 0%
   <tr> 
    <td><p><strong>RTP组织</strong></p></td> 
    <td><p>会话</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">选定</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP行业</strong></p></td> 
    <td><p>会话</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">选定</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP类别</strong></p></td> 
    <td><p>会话</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">选定</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP组</strong></p></td> 
    <td><p>会话</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">选定</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->**自定义Dimension** 名称必须与上表中定义的完全相同(否则GUA中的自定义RTP仪表板和报告将无法正确显示)
+>**自定** 义Dimension名称必须与上表中的定义完全相同(否则GUA中的自定义RTP仪表板和报表将无法正确显示)
 
-1. 添加**名称。 **选择作为会话的 **范围。** 单击 **创建。**
+1. 添加**名称。 **将范围选为&#x200B;**会话。** 单击 **创建。**
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -100,17 +100,17 @@ ht-degree: 0%
 
 在GUA中激活自定义Dimension后，转到RTP平台以在RTP中启用这些维。
 
-## 在RTP帐户中激活GUA集成 {#activate-the-gua-integration-in-your-rtp-account}
+## 在RTP帐户{#activate-the-gua-integration-in-your-rtp-account}中激活GUA集成
 
-1. 在RTP平台中，转到“帐户 **设置”。**
+1. 在RTP平台中，转到&#x200B;**帐户设置。**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. 在“帐 **户设置**”下，单 **击“域”。**
-1. 在“**分析”下，**单击“ **Google Universal Analytics”**。
-1. 打 **开相关** “自定义”Dimension和事件，将此数据从RTP附加到Google Universal Analytics。
-1. 在GUA **中输入** 与索引编号对齐的维的索引编号。
-1. 单击 **保存**。
+1. 在&#x200B;**帐户设置**&#x200B;下，单击&#x200B;**域。**
+1. 在**Analytics下，**单击&#x200B;**Google Universal Analytics**。
+1. 打开&#x200B;****&#x200B;相关自定义Dimension和事件，将此数据从RTP附加到Google Universal Analytics。
+1. 在GUA中输入与索引编号对齐的维的&#x200B;**索引编号**。
+1. 单击&#x200B;**保存**。
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
 
@@ -120,12 +120,12 @@ ht-degree: 0%
 >
 >示例：RTP行业索引编号等于1,RTP组织索引编号等于2。
 
-## 删除Google Analytics中的旧仪表板 {#remove-old-dashboards-in-google-analytics}
+## 删除Google Analytics{#remove-old-dashboards-in-google-analytics}中的旧仪表板
 
-1. Google Analytics。 去 **报告。**
-1. 单击 **仪表板。**
+1. Google Analytics。 转至&#x200B;**报告。**
+1. 单击&#x200B;**仪表板。**
 1. 选择**仪表板**（RTP B2B或RTP性能）
-1. 单击 **删除仪表板**。
+1. 单击&#x200B;**删除仪表板**。
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)
 
