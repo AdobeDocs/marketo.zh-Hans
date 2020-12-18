@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 导出Web活动数据 {#export-web-campaign-data}
+# 导出Web活动数据{#export-web-campaign-data}
 
 按照以下简单步骤导出Web活动数据。
 
-1. 转到 **Web活动**。
+1. 转至&#x200B;**Web活动**。
 
    ![](assets/one-2.png)
 
