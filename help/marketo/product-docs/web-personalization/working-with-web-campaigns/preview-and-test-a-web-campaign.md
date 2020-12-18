@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 预览和测试Web活动 {#preview-and-test-a-web-campaign}
+# 预览和测试Web活动{#preview-and-test-a-web-campaign}
 
 本文向您展示了预览Web活动的不同方法，以及如何使用网站上实时的沙箱段测试它。
 
-## 预览创建页面上的Web活动 {#preview-a-web-campaign-on-the-creation-page}
+## 预览创建页面{#preview-a-web-campaign-on-the-creation-page}上的Web活动
 
-1. 转到 **Web****活动**。
+1. 转至&#x200B;**Web** **活动**。
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -25,34 +25,34 @@ ht-degree: 0%
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. 在站点预览中，添加页面URL并单击 **预览**。 将打开一个新窗口／选项卡，显示活动预览。
+1. 在站点预览中，添加页面URL并单击&#x200B;**预览**。 将打开一个新窗口／选项卡，显示活动预览。
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >单 **击** “共享”以打开包含活动预览固定URL的电子邮件。
+   >单击&#x200B;**共享**&#x200B;以打开包含活动预览固定URL的电子邮件。
 
    >[!NOTE]
    >
-   >您还可以选择安装浏览器插件(Chrome [或Firefox](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)[](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi))，以获得最佳的预览活动体验。 请参阅以下部分。
+   >您还可以选择安装浏览器插件（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)或[Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)），以获得最佳活动预览体验。 请参阅以下部分。
 
-## 使用预览器插件在创建页面上活动Web {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
+## 使用预览器插件{#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}在创建页面上活动Web
 
-1. 按照中的步骤1和步骤2操 `section above`作。
+1. 按照`section above`中的步骤1和步骤2操作。
 1. 单击指向浏览器插件的链接（在本例中，我们使用的是Chrome）。
 
    ![](assets/4-1.png)
 
-1. 将打开新窗口／选项卡。 单击 **添加到Chrome**。
+1. 将打开新窗口／选项卡。 单击&#x200B;**添加到Chrome**。
 
    ![](assets/five.png)
 
-1. 单击“ **添加扩展**”。
+1. 单击&#x200B;**添加扩展**。
 
    ![](assets/six.png)
 
-1. 回马克托。 添加页面URL并单击 **预览**。
+1. 回马克托。 添加页面URL并单击&#x200B;**预览**。
 
    ![](assets/seven.png)
 
@@ -60,23 +60,23 @@ ht-degree: 0%
 
    ![](assets/campaign-preview.png)
 
-## 预览Web活动网页 {#preview-a-web-campaign-on-the-web-campaigns-page}
+## 预览Web活动页{#preview-a-web-campaign-on-the-web-campaigns-page}上的Web活动
 
-1. 查看Web活动列表时，只需选择一个活动并单击 **预览** 图标。
+1. 查看Web活动列表时，只需选择一个活动并单击&#x200B;**预览**&#x200B;图标。
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
    放松！
 
-## 预览网站上的Web活动 {#preview-a-web-campaign-on-your-website}
+## 预览网站上的Web活动{#preview-a-web-campaign-on-your-website}
 
 创建沙箱段和活动。
 
-1. 转至 **区段**。
+1. 转至&#x200B;**区段**。
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. 单击 **新建**。
+1. 单击&#x200B;**新建**。
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
@@ -89,10 +89,10 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. 完成活动创意并单击 **启动**。\
+1. 完成活动创意并单击&#x200B;**启动**。\
    ![](assets/click-launch.jpg)
 
-1. 转到您的网站，在URL末尾添加URL参数“?sandbox=1”。 示例： [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. 转到您的网站，在URL末尾添加URL参数“?sandbox=1”。 示例：[www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
 1. 查看活动在您的网站上的反应。
 
 >[!NOTE]
