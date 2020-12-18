@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 显示已知用户的自定义HTML表单 {#show-custom-html-form-for-known-people}
+# 显示已知用户的自定义HTML表单{#show-custom-html-form-for-known-people}
 
 如果访客使用cookie（过去提供电子邮件地址的已知人员），那么为什么要费心使用表单？ 只需给他们下载按钮。 这是方法。
 
-1. 转到营 **销****活动**。
+1. 转至&#x200B;**Marketing** **活动**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 在“营 **销******&#x200B;活动 **”** 下，选择表单，然后单 **击“编**&#x200B;辑表单”。
+1. 在&#x200B;**Marketing** **活动**&#x200B;下，选择表单并单击&#x200B;**编辑** **表单**。
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. 在“ **表单****设置**”下，单 **击设置**。
+1. 在&#x200B;**Form** **Settings**&#x200B;下，单击&#x200B;**Settings**。
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. 如果已知 **访客** , **则设置“显示**:到 **自定****义HTML**。
+1. 如果&#x200B;**Known** **访客，则设置Show**:至&#x200B;**自定义** **HTML**。
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. 单击 ![-](assets/image2014-9-25-14-3a1-3a26.png) 以编辑将显 **示** 给已知人 **** 员的自定义HTML。
+1. 单击![—](assets/image2014-9-25-14-3a1-3a26.png)可编辑将向已知用户显示的&#x200B;**Custom** **HTML**。
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,18 +45,18 @@ ht-degree: 0%
    |---|---|
    | `{{lead.FirstName}}` | 将显示该人的名字。 |
    | `{{lead.LastName}}` | 将显示该人的姓。 |
-   | `{{form.Button:default=Download}}` | 此时将显示表单按钮。 替换按钮文 `=` 本后的区域。 |
-   | `{{form.NotYou:default=Not you?}}` | 这将显示一个链接，以防此人是其他人。 替换链接文本 `=` 后的区域。 |
+   | `{{form.Button:default=Download}}` | 此时将显示表单按钮。 替换`=`后面的区域以更改按钮文本。 |
+   | `{{form.NotYou:default=Not you?}}` | 这将显示一个链接，以防此人是其他人。 替换`=`后面的区域以更改链接文本。 |
 
    >[!CAUTION]
    >
    >只能使用上述四个令牌。 此处不能使用任何其他令牌。
 
-1. 单击 **完成**。
+1. 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. 单击 **批准并关闭**。
+1. 单击&#x200B;**批准并关闭**。
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >请记住 [批准由表单更改](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 创建的登陆页草稿。
+   >请记住[批准由表单更改创建的登陆页草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
