@@ -11,37 +11,37 @@ ht-degree: 0%
 ---
 
 
-# 使现有自由格式登陆页模板与移动设备兼容 {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# 使现有的自由格式登陆页模板与移动设备兼容{#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 >[!NOTE]
 >
->登陆页模板在2015年1月版 [本之](../../../../release-notes/2015/release-notes-january-2015.md)前创建，需要升级为与移动设备兼容。
+>在[2015年1月版本](../../../../release-notes/2015/release-notes-january-2015.md)之前创建的登陆页模板需要升级为与移动兼容。
 
 此操作可在两个位置完成，即模板编辑器和登陆页编辑器。
 
-## 从模板编辑器升级 {#upgrade-from-the-template-editor}
+## 从模板编辑器{#upgrade-from-the-template-editor}升级
 
-1. 转到Design **Studio**。
+1. 转到&#x200B;**Design Studio**。
 
    ![](assets/designstudio-1.png)
 
-1. 选择 **模板**。
+1. 选择&#x200B;**模板**。
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. 选择Mobile Compatible为 **No的** 模 **板**。
+1. 选择&#x200B;**Mobile Compatible**&#x200B;为&#x200B;**No**&#x200B;的模板。
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. 单击“ **编辑草稿**”。
+1. 单击&#x200B;**编辑草稿**。
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. 单击“ **使移动设备兼容**”。
+1. 单击&#x200B;**使移动设备兼容**。
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. 单击 **升级**。
+1. 单击&#x200B;**升级**。
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## 什么使模板移动兼容？ {#what-makes-a-template-mobile-compatible}
+## 什么使模板移动兼容？{#what-makes-a-template-mobile-compatible}
 
 问得好！ 模板必须具有以下标记：
 
@@ -67,15 +67,15 @@ ht-degree: 0%
 
 如果对模板进行了任何更改，请单击“模板操作”，然后选择“验证移动兼容性”。
 
-## 从自由形式登陆页编辑器升级模板 {#upgrading-a-template-from-the-free-form-landing-page-editor}
+## 从自由形式登陆页编辑器{#upgrading-a-template-from-the-free-form-landing-page-editor}升级模板
 
 当您编辑登陆页并单击移动选项卡时，有时会注意到该模板尚未升级。 不要害怕！ 您可以立即升级。
 
-1. 单击“移 **动** ”选项卡。
+1. 单击&#x200B;**Mobile**&#x200B;选项卡。
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. 单击复选框，然后单击“ **激活**”。
+1. 单击复选框，然后单击&#x200B;**激活**。
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
    >
    >激活模板的移动版本将创建使用该模板的任何登陆页的草稿。
 
-太棒了！ 您现在可 [以自定义所有使用](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) 此模板的登陆页的移动视图。
+太棒了！ 您现在可以[自定义使用此模板的所有登陆页的移动视图](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)。
 
 >[!MORELIKETHIS]
 >
