@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 设置要用于Sales Insight中的星星和火焰的分数字段 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# 设置要用于销售分析中的星星和火焰的分数字段{#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-默认情况下，Marketo Sales Insight使用“潜在客 **户得分** ”字段来计算星形和火焰。 但是，如果您想要选择其他领域，下面介绍如何：
+默认情况下，Marketo Sales Insight使用&#x200B;**Lead Score**&#x200B;字段计算星形和火焰。 但是，如果您想要选择其他领域，下面介绍如何：
 
 >[!TIP]
 >
->如果您还没有自定义得分字段，下面将介绍如何创 [](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)建它们。
+>如果您还没有自定义得分字段，下面介绍如何[创建](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)它们。
 
 >[!NOTE]
 >
@@ -34,19 +34,19 @@ ht-degree: 0%
 
 
 
-1. 在“管 **理员**”下，单 **击“销售分析”**。
+1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**Sales Insight**。
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. 在“潜 **在客户评分设置**”下，单 **击编辑**。
+1. 在&#x200B;**潜在客户评分设置**&#x200B;下，单击&#x200B;**编辑**。
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. 选择要用于星形的 **字段**。
+1. 选择要用于&#x200B;**星**&#x200B;的字段。
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. 选择要用于火焰的 **字段**。
+1. 选择要用于&#x200B;**火焰**&#x200B;的字段。
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
