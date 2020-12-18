@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 选择社交应用程序的共享URL {#choose-the-share-url-for-a-social-app}
+# 选择社交应用程序{#choose-the-share-url-for-a-social-app}的共享URL
 
 创建社交应用程序时，您可以选择在参加者的帖子中共享的URL。
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择应用程序，然后单击“ **编辑草稿”**。
+1. 选择应用程序，然后单击“编辑草稿&#x200B;**”。**
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. 在社交应用程序编辑器中，转到“应用 **程序设置** ”，然后 **转到“高级选项”**。
+1. 在社交应用程序编辑器中，转至&#x200B;**App Settings**，然后转至&#x200B;**Advanced Options**。
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
