@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在SalesforceAppExchange中安装Marketo Sales Insight包 {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# 在SalesforceAppExchange{#install-marketo-sales-insight-package-in-salesforce-appexchange}中安装Marketo Sales Insight包
 
 您需要先在Salesforce订阅中安装Marketo Sales Insight应用程序，然后才能享受Sales Insight提供的所有优势。 这是方法。
 
@@ -23,18 +23,18 @@ ht-degree: 0%
 >
 >Marketo Sales Insight与Salesforce Platform(Shield)Encryption兼容。
 
-1. 转到Marketo Sales [Insight的AppExchange页面](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) ，然 **后单击立即获取**。
+1. 转至Marketo Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)的[AppExchange页面，然后单击&#x200B;**立即获取**。
 
    ![](assets/one.png)
 
-1. 单 **击登录AppExchange按钮** ，然后使用Salesforce凭据登录。
-1. 输入已连接的Salesforce帐户登录，然后单击“在 **生产中安装”**。
+1. 单击&#x200B;**登录AppExchange**&#x200B;按钮，然后使用您的Salesforce凭据登录。
+1. 输入已连接的Salesforce帐户登录，然后单击&#x200B;**在Production**&#x200B;中安装。
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >如果要先在沙箱中测试它，请选择“在沙 **箱中安装”**。
+   >如果要先在沙箱中测试它，请选择&#x200B;**在沙箱中安装**。
 
 1. 阅读并接受条款和条件，然后单击**确认并安装**。
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 开始安装过程后，您可能会看到以下消息。 安装完成后，您将收到一封电子邮件。 单击 **完成** ，取消。
+1. 开始安装过程后，您可能会看到以下消息。 安装完成后，您将收到一封电子邮件。 单击&#x200B;**完成**&#x200B;取消。
 
    ![](assets/six.png)
 
@@ -52,15 +52,15 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 单击 **您的姓** 名旁边的“设置”。
+1. 单击您的姓名旁边的&#x200B;**安装程序**。
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. 搜索“对象”，然后单击“ **创建** ”下 **的“对象**”。
+1. 搜索“objects”，然后单击&#x200B;**创建**&#x200B;下的&#x200B;**对象**。
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. 多次检查是否 **已部** 署已检查所有Marketo Sales Insight项。
+1. 多次-检查是否已检查&#x200B;**已部署**&#x200B;是否已检查所有Marketo Sales Insight项目。
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
-1. 在“部 **署状态** ”部分下，选 **择“已部**&#x200B;署 **”**，然后单击“保存”。
+1. 在&#x200B;**部署状态**&#x200B;部分下，选择&#x200B;**已部署**，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
