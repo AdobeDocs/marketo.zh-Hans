@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 一次批准多个登陆页 {#approve-multiple-landing-pages-at-once}
+# 一次批准多个登陆页{#approve-multiple-landing-pages-at-once}
 
-1. 转到 **Design Studio。**
+1. 转至&#x200B;**Design Studio.**
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. 单击 **登陆页。**
+1. 单击&#x200B;**登陆页。**
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >请勿单击实际的登陆页名称，这些名称是链接，将带您进入页面本身。
 
-1. 选择登陆页后，转到 **登陆页操作** ，然后单 **击批准。**
+1. 选择登陆页后，转到&#x200B;**登陆页操作**&#x200B;并单击&#x200B;**批准。**
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
