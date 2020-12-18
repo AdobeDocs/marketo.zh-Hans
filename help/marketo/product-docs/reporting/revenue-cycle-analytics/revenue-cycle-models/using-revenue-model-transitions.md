@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用收入模型过渡 {#using-revenue-model-transitions}
+# 使用收入模型过渡{#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/one-2.png)
 
-1. 右键单击(也可以按住多次单击)其中一个箭头开始，然后选择“编辑 **过渡”**。
+1. 右键单击(也可以按住多次单击)其中一个箭头以开始，然后选择&#x200B;**编辑过渡**。
 
    ![](assets/two-2.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-1. 要返回模型，请单击“建模 **器”**。
+1. 要返回您的型号，请单击&#x200B;**Modeler**。
 
    ![](assets/six.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 为所有过渡配置规则后，单击验 **证** 以验证。
+1. 为所有过渡配置规则后，单击&#x200B;**验证**&#x200B;进行验证。
 
    ![](assets/eight.png)
 
