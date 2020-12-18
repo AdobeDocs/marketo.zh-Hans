@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解引导模板中的元素和变量 {#understanding-elements-and-variables-in-guided-templates}
+# 了解引导模板中的元素和变量{#understanding-elements-and-variables-in-guided-templates}
 
 向导式登陆页模板有两种类型的可编辑部分：元素和变量。
 
-## Elements  {#elements}
+## 元素{#elements}
 
 元素是组成登陆页的不同内容。 它们可以是图像、文本或Marketo资产。
 
@@ -49,11 +49,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>颜色</td> 
-   <td><p>可编辑的颜色十六进制代码</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>示例：背景颜色、字体颜色、边框颜色</p></td> 
+   <td><p>可编辑的颜色十六进制代码</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>示例：背景颜色、字体颜色、边框颜色</p></td> 
   </tr> 
   <tr> 
    <td>布尔值</td> 
-   <td><p>控制登陆页上对象或格式的开／关状态的拉杆</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>示例：显示页脚（是／否）、列计数(1/2)、嵌入Google Analytics（真／假）</p></td> 
+   <td><p>控制登陆页上对象或格式的开／关状态的拉杆</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>示例：显示页脚（是／否）、列计数(1/2)、嵌入Google Analytics（真／假）</p></td> 
   </tr> 
  </tbody> 
 </table>
