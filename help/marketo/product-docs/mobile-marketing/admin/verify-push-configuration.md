@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 验证推送配置 {#verify-push-configuration}
+# 验证推送配置{#verify-push-configuration}
 
 >[!PREREQUISITES]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 验证推送配置，确保所有内容同步良好。
 
-1. 单击“管 **理员**”。
+1. 单击&#x200B;**管理员**。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 选择“ **移动应用程序**”。
+1. 选择&#x200B;**移动应用程序**。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    确认所需的平台已读取验证，然后单击“关闭”。
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   一切就绪！ 现在，您可以开始发送推 ![送通知(smile)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)   一切就绪！现在，您可以开始发送推送通知![(smile)](assets/smile.svg)
 
 >[!NOTE]
 >
