@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解Revenue Explorer中的Opportunity分析 {#understanding-opportunity-analysis-in-revenue-explorer}
+# 了解Revenue Explorer {#understanding-opportunity-analysis-in-revenue-explorer}中的Opportunity分析
 
 收入浏览器中的机会分析允许您更深入地检查您的机会。 根据任何潜在客户/公司属性（如潜在客户来源、行业或地理位置）切割数据。 根据名称、阶段或概率分析机会的创建和关闭。 了解营销对渠道的贡献。
 
-## 示例分析 {#example-analysis}
+## 示例分析{#example-analysis}
 
 以下是您可以在“业务机会”分析区域创建的一些报告。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## 机会分析Dimension和措施 {#opportunity-analysis-dimensions-and-measures}
+## 机会分析Dimension和措施{#opportunity-analysis-dimensions-and-measures}
 
 机会分析允许您访问所有与潜在客户、公司和机会相关的维度以及与机会相关的衡量。 使用这些机会分析维度和度量来回答报告中的特定问题。
 
