@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在电子邮件洞察中过滤 {#filtering-in-email-insights}
+# 在电子邮件分析中筛选{#filtering-in-email-insights}
 
 在电子邮件洞察中，有多种方法可以过滤数据。
 
-## 电子邮件洞察 {#email-insights}
+## 电子邮件洞察{#email-insights}
 
 单击+以开始添加过滤器。 添加任意所需数量的内容。
 
@@ -59,11 +59,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->日期范围适用于“分析”页面和“发送”页面。 但 **是** ,“比较”选项仅适用于“分析”页面。
+>日期范围适用于“分析”页面和“发送”页面。 但是，**比较**&#x200B;选项仅适用于“分析”页面。
 
-## 基于帐户的营销 {#account-based-marketing}
+## 基于帐户的营销{#account-based-marketing}
 
-如果您使用 [基于帐户的营销](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，则会有专门针对您的过滤器。
+如果您使用[基于帐户的营销](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，则会有专门针对您的过滤器。
 
 ![](assets/abm.png)
 
