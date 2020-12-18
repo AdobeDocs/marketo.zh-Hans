@@ -17,21 +17,21 @@ Marketo Sales Insight是您的销售团队的绝佳工具。 以下是如何在M
 
 >[!PREREQUISITES]
 >
->完成 [Marketo-Microsoft集成](http://docs.marketo.com/x/DoA2)。
+>完成[Marketo-Microsoft集成](http://docs.marketo.com/x/DoA2)。
 >
->[下载适用于您的](http://docs.marketo.com/x/LoJo) Microsoft Dynamics CRM版本的正确解决方案。
+>[下载适用于](http://docs.marketo.com/x/LoJo) 您版本的Microsoft Dynamics CRM的正确解决方案。
 
-## 导入解决方案 {#import-solution}
+## 导入解决方案{#import-solution}
 
-1. 登录Microsoft Dynamics CRM。 单击 **左下** 方菜单中的“设置”。
+1. 登录Microsoft Dynamics CRM。 单击左下方菜单中的&#x200B;**设置**。
 
    ![](assets/image2015-5-4-10-3a39-3a44.png)
 
-1. 在树 **中选** 择解决方案。
+1. 在树中选择&#x200B;**解决方案**。
 
    ![](assets/image2015-5-4-10-3a41-3a56.png)
 
-1. 单击 **导入** ( ![](assets/image2015-5-4-10-3a45-3a44.png))。
+1. 单击&#x200B;**导入**(![](assets/image2015-5-4-10-3a45-3a44.png))。
 
    ![](assets/image2015-5-4-10-3a42-3a38.png)
 
@@ -40,17 +40,17 @@ Marketo Sales Insight是您的销售团队的绝佳工具。 以下是如何在M
    >**提醒**
    >
    >
-   >在前进之前， [您应已安装](install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) 并配置Marketo解决方案。
+   >在前进之前，您应已安装[并配置](install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) Marketo解决方案。
 
-1. 单击“ **浏览**”。 选择您下载的Marketo Sales Insight解决 [方案](download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。 单击“ **下一步**”。
+1. 单击&#x200B;**浏览**。 选择您[downloaded](download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)的Marketo Sales Insight解决方案。 单击&#x200B;**下一步**。
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
-1. 验证解决方案的详细信息，然后单击“下 **一步”**。
+1. 验证解决方案的详细信息，然后单击&#x200B;**下一步**。
 
    ![](assets/image2015-5-4-10-3a57-3a31.png)
 
-1. 确保选中SDK消息选项。 单击“ **下一步**”。
+1. 确保选中SDK消息选项。 单击&#x200B;**下一步**。
 
    ![](assets/image2015-5-4-11-3a43-3a37.png)
 
@@ -58,7 +58,7 @@ Marketo Sales Insight是您的销售团队的绝佳工具。 以下是如何在M
 
    ![](assets/image2015-5-4-11-3a0-3a58.png)
 
-1. 单击 **关闭**。
+1. 单击&#x200B;**关闭**。
 
    ![](assets/crmhand.png)
 
@@ -66,25 +66,25 @@ Marketo Sales Insight是您的销售团队的绝佳工具。 以下是如何在M
 
    ![](assets/image2015-5-4-11-3a2-3a37.png)
 
-1. 选择Marketo Sales Insight，然后单击 **发布所有自定义** ( ![](assets/image2015-5-4-11-3a7-3a8.png))。
+1. 选择Marketo Sales Insight，然后单击&#x200B;**发布所有自定义项**(![](assets/image2015-5-4-11-3a7-3a8.png))。
 
    ![](assets/image2015-5-4-11-3a8-3a27.png)
 
-## Connect Marketo和Sales Insight  {#connect-marketo-and-sales-insight}
+## Connect Marketo和Sales Insight {#connect-marketo-and-sales-insight}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 登录到Marketo并单击“管 **理员**”。
+1. 登录到Marketo并单击&#x200B;**管理**。
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. 在**Sales Insight **部分下，单击“编 **辑API配置”**。
+1. 在**Sales Insight **部分下，单击&#x200B;**编辑API配置**。
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. 复制 **Marketto主机**、 **API URL**&#x200B;和API **用户Id** ，以便在以后的步骤中使用。 输入您 **选择的API密钥** ，然后单击 **保存**。
+1. 复制&#x200B;**Marketo主机**、**API URL**&#x200B;和&#x200B;**API用户Id**，以在后续步骤中使用。 输入您选择的&#x200B;**API密钥**，然后单击&#x200B;**SAVE**。
 
    >[!CAUTION]
    >
@@ -94,7 +94,7 @@ Marketo Sales Insight是您的销售团队的绝佳工具。 以下是如何在M
 
    >[!NOTE]
    >
-   >以下字段必须与Marketo同步，以 *便潜在客户和销售分析联* 系人都能正常工作：
+   >*Lead和Contact*&#x200B;的以下字段必须与Marketo同步，才能使Sales Insight正常工作：
    >
    >    
    >    
@@ -104,17 +104,17 @@ Marketo Sales Insight是您的销售团队的绝佳工具。 以下是如何在M
 
    >    
    >    
-   >如果这些字段中有任何一个缺失，您将在Marketo中看到一条错误消息，其中包含缺失字段的名称。 要解决此问题，请执 [行此过程](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)。
+   >如果这些字段中有任何一个缺失，您将在Marketo中看到一条错误消息，其中包含缺失字段的名称。 要解决此问题，请执行[此过程](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)。
 
-1. 返回动态，选择 **设置**。
+1. 返回动态，选择&#x200B;**设置**。
 
    ![](assets/image2015-5-4-10-3a39-3a44.png)
 
-1. 在 **树中选择** Marketto API Config。
+1. 在树中选择&#x200B;**Marketo API Config**。
 
    ![](assets/image2015-5-4-11-3a22-3a41.png)
 
-1. 单击 **默认配置**。
+1. 单击&#x200B;**默认配置**。
 
    ![](assets/image2015-5-4-11-3a26-3a10.png)
 
@@ -122,33 +122,33 @@ Marketo Sales Insight是您的销售团队的绝佳工具。 以下是如何在M
 
    ![](assets/image2015-5-4-11-3a27-3a16.png)
 
-1. 单击“ **保存”。**
+1. 单击&#x200B;**保存。**
 
    ** ![](assets/image2015-5-4-11-3a28-3a13.png)
 
    **
 
-## 设置用户访问权限 {#set-user-access}
+## 设置用户访问权限{#set-user-access}
 
 设置用户角色，以授予特定用户对Sales Insight的访问权限。
 
-1. 选择 **设置**。
+1. 选择&#x200B;**设置**。
 
    ![](assets/image2015-5-4-11-3a30-3a54.png)
 
-1. 在 **树中** ，选择“管理”。
+1. 在树中选择&#x200B;**管理**。
 
    ![](assets/image2015-5-4-11-3a31-3a39.png)
 
-1. 单击“ **用户**”。
+1. 单击&#x200B;**用户**。
 
    ![](assets/image2015-5-4-11-3a32-3a25.png)
 
-1. 选择要授予访问权限的用户，然后单击“管 **理角色”**。
+1. 选择要授予访问权限的用户，然后单击&#x200B;**管理角色**。
 
    ![](assets/image2015-5-4-11-3a35-3a8.png)
 
-1. 选择Marketo **Sales Insight角色** ，然后单击 **确定**。
+1. 选择&#x200B;**Marketo Sales Insight**&#x200B;角色，然后单击&#x200B;**确定**。
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
