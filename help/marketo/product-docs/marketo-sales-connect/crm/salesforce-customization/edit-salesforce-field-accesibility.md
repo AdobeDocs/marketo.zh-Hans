@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 编辑Salesforce字段辅助功能 {#edit-salesforce-field-accesibility}
+# 编辑Salesforce字段辅助功能{#edit-salesforce-field-accesibility}
 
 如果您没有看到电子邮件活动日志到Salesforce，则可能是由于团队的字段可访问性受到限制。
 
