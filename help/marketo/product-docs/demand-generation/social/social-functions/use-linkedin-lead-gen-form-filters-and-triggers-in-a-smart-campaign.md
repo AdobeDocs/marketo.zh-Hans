@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在智能过滤器中使用LinkedIn潜在客户生成表单活动和触发器 {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
+# 在智能活动{#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}中使用LinkedIn潜在客户生成表单过滤器和触发器
 
 启用LinkedIn潜在客户代Forms后，您可以在智能活动中将其用作过滤器和触发器。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >当用户在LinkedIn潜在客户生成表单中提交其信息时，该信息将立即推送到Market，使表单显示在潜在客户生成表单名称下拉列表中。 至少有一个人提交了表单后，表单名称才可见。
 
-1. 使用“填 **写LinkedIn潜在客户代表** ”表单触发器立即采取操作，或使用“填 **写LinkedIn潜在客户代表”表单筛选器来** 进行计划的批活动或标准智能列表筛选。
+1. 使用&#x200B;**填写LinkedIn潜在客户生成表单**&#x200B;触发器立即采取操作，或使用&#x200B;**填写LinkedIn潜在客户生成表单**&#x200B;过滤器进行计划批处理活动或标准智能列表过滤。
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 
