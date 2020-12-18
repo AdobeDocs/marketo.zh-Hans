@@ -23,7 +23,7 @@ ht-degree: 0%
 
 
 
-## 使用Marketo Insights发送电子邮件 {#send-an-email-with-marketo-insights}
+## 使用Marketo Insights发送电子邮件{#send-an-email-with-marketo-insights}
 
 1. 在合成窗口中，单击营销人员图标。
 
@@ -41,31 +41,31 @@ ht-degree: 0%
    >
    >（可选）单击多次箭头可展开到全屏视图。
 
-1. 如果要用已发布的Marketo模板预填电子邮件，请单击“更多选 **项”，然**&#x200B;后选择&#x200B;**“加载Marketo模板”。**
+1. 如果要用已发布的Marketo模板预填电子邮件，请单击&#x200B;**更多选项**&#x200B;并选择&#x200B;**加载Marketo模板。**
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. 选择可用 **模板** ，然后单 **击确定。**
+1. 选择&#x200B;**可用模板**，然后单击&#x200B;**确定。**
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. 输入您的内容和电子邮件地址，然后单击“ **发送**”。
+1. 输入您的内容和电子邮件地址，然后单击&#x200B;**发送**。
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >仅当“发送”按钮为 **紫色** 时，才跟踪消息。
+   >仅当&#x200B;**发送**&#x200B;按钮为紫色时，才跟踪消息。
 
 1. 该电子邮件很快将显示在您的Marketo Sales Insight中，并跟踪任何打开和点击。
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
-## 使用Marketo记录电子邮件回复 {#log-email-replies-with-marketo}
+## 使用Marketo {#log-email-replies-with-marketo}记录电子邮件回复
 
 您可以在潜在客户的活动历史记录中记录回复和旧活动。
 
-1. 在Google Mail的预览窗格中，单击“ **Log with Marketo”**。
+1. 在Google Mail的预览窗格中，单击&#x200B;**使用Marketo**&#x200B;登录。
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
