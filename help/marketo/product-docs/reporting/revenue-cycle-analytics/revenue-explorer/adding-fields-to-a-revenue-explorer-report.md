@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将字段添加到收入浏览器报表 {#adding-fields-to-a-revenue-explorer-report}
+# 将字段添加到收入浏览器报表{#adding-fields-to-a-revenue-explorer-report}
 
 通过将维和度量字段拖放到画布中，自定义收入浏览器报表。
 
