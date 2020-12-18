@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件中的抄送或密送 {#cc-or-bcc-in-emails}
+# 电子邮件中的抄送或密送{#cc-or-bcc-in-emails}
 
 您可以像在电子邮件中那样通过抄送和密件抄送接收个人。
 
