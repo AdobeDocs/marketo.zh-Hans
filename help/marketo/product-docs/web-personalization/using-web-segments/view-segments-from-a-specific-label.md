@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 视图特定标签中的区段 {#view-segments-from-a-specific-label}
+# 视图特定标签{#view-segments-from-a-specific-label}中的区段
 
 是否希望根据特定标签视图和筛选您的细分？
 
-## 按现有标签过滤 {#filter-by-existing-labels}
+## 按现有标签{#filter-by-existing-labels}过滤
 
 在“标签”下拉框中，选择您选择的标签。
 
