@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将匹配受众的LinkedIn添加为LaunchPoint服务 {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+# 将LinkedIn匹配受众添加为LaunchPoint服务{#add-linkedin-matched-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
@@ -19,39 +19,39 @@ ht-degree: 0%
 
 将您的Marketo帐户与LinkedIn匹配受众连接，以将Marketo静态列表或智能列表用作LinkedIn受众区段。
 
-1. 转到“管理 **员** ”部分。
+1. 转至&#x200B;**Admin**&#x200B;部分。
 
    ![](assets/admin.png)
 
-1. 选择 **启动点**。
+1. 选择&#x200B;**启动点**。
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 选择 **新建** 和 **新建服务**。
+1. 选择&#x200B;**新建**&#x200B;和&#x200B;**新建服务**。
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 输入显示 **名称，**&#x200B;然后选择&#x200B;**“在匹配的受众中链接**”。 单击 **创建**。
+1. 输入&#x200B;**显示名称**，然后选择&#x200B;**“链接的匹配受众**”。 单击&#x200B;**创建**。
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. 要连接LinkedIn帐户，请单击“授 **权”**。
+1. 要连接LinkedIn帐户，请单击&#x200B;**授权**。
 
    ![](assets/authorizeaccount.png)
 
    >[!CAUTION]
    >
-   >为了使Market能够跨多个LinkedIn广告帐户发送受众，您通过以下步骤授权的LinkedIn用户需要在其活动管理器中 *访问* 所有这些广告帐户。
+   >为了使Market能够跨多个LinkedIn广告帐户发送受众，您通过以下步骤授权的LinkedIn用户需要在其活动管理器中访问这些Ad帐户的&#x200B;*all*。
 
 1. LinkedIn在新选项卡中打开。 从此处登录您的LinkedIn帐户。
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. 查看请求的权限，然后单击“ **允许**”。
+1. 查看请求的权限，然后单击“允许”。****
 
    ![](assets/li-permissions.png)
 
-1. 您的LinkedIn帐户现已连接到Marketo。 单击 **创建**。
+1. 您的LinkedIn帐户现已连接到Marketo。 单击&#x200B;**创建**。
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
