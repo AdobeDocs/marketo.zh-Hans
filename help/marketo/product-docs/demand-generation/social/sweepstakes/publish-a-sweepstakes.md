@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 发布抽奖 {#publish-a-sweepstakes}
+# 发布抽奖{#publish-a-sweepstakes}
 
-在创 [建抽奖后](create-sweepstakes.md)，您可以在Marketo登陆页、网站和Facebook上发布抽奖。
+在[创建抽奖](create-sweepstakes.md)后，您可以在Marketo登陆页、网站和Facebook上发布抽奖。
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ ht-degree: 0%
 >
 >在发布优惠之前，请确认其符合所有适用法律、法规和规章。
 
-1. 找到您的登陆页，然后单击“ **编辑草稿”**。
+1. 找到您的登陆页，然后单击“编辑草稿&#x200B;**”。**
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. 在页面右侧找到“插入元素”部分。 拖过抽 **奖赛**。
+1. 在页面右侧找到“插入元素”部分。 拖动到&#x200B;**抽奖**&#x200B;上。
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
-1. 选择抽奖，然后单击“ **插入**”。
+1. 选择您的抽奖，然后单击&#x200B;**插入**。
 
    ![](assets/image2014-9-25-17-3a41-3a35.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
    >
    >您需要批准抽奖，才能在此处提供抽奖。
 
-   [将登陆页发布到](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)[Facebook，将抽奖权放在您的网站上](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [将登陆页发布](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [到网站上的Facebookput抽奖](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
    >[!TIP]
    >
@@ -54,6 +54,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >开始注册后，请记住返回应用程序 [选择抽奖者](select-sweepstakes-winners.md)!
+   >开始注册后，请记住返回应用程序至[选择抽奖得主](select-sweepstakes-winners.md)!
 
 恭喜！ 批准登陆页，您的抽奖即刻开始。 您也可以或。
