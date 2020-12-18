@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在Salesforce中发送Marketo电子邮件、活动和观察列表操作1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# 在Salesforce1中发送Marketo电子邮件和活动及监视列表操作{#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. 转到Salesforce1中的“潜在客户详细信息”区域，然后单击“相 **关** ”选项卡。
+1. 转到Salesforce1中的“潜在客户详细信息”区域，然后单击&#x200B;**相关**&#x200B;选项卡。
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >哪些智能活动出现？ “请求活动”触发器。 了解如何使用“请 [求活动”设置触发活动](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)。
+   >哪些智能活动出现？ “请求活动”触发器。 了解如何使用“请求活动”设置[触发活动。](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
 
 好，现在您的销售人员可以积极参与营销工作。
 
