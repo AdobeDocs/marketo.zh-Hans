@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在收入浏览器和分析器中提供不含期间成本的项目 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# 在收入浏览器和分析器中提供不含期间成本的项目{#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-项目期间成本允许您为项目定义“金额”和“时间”。 这显示在收入 [周期浏览器](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 和分 [析器中](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)。
+项目期间成本允许您为项目定义“金额”和“时间”。 这显示在[收入周期浏览器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)和[分析器](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)中。
 
 >[!NOTE]
 >
