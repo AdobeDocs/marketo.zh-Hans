@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 生成分析主持的电子邮件列表报告 {#build-an-email-analysis-report-that-lists-leads}
+# 生成列表潜在的电子邮件分析报告{#build-an-email-analysis-report-that-lists-leads}
 
 >[!NOTE]
 >
