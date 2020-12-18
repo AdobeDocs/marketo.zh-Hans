@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用已知人员数据创建细分 {#create-a-segment-using-known-person-data}
+# 使用已知人员数据{#create-a-segment-using-known-person-data}创建区段
 
 下面介绍如何使用“已知人员数据”值创建区段。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[管理人员数据](manage-person-data.md)
 
-1. 转至 **区段**。
+1. 转至&#x200B;**区段**。
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. 单击 **新建**。
+1. 单击&#x200B;**新建**。
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -47,9 +47,9 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-## 选择多人数据字段 {#selecting-multiple-person-data-fields}
+## 选择多人数据字段{#selecting-multiple-person-data-fields}
 
-1. 单击 **+** 可添加其他人员数据字段。
+1. 单击&#x200B;**+**&#x200B;可添加另一个人数据字段。
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 单击 **保存** 以保存区段，或单击**保存并定义活动**以保存并转到活动页面。
+1. 单击&#x200B;**保存**&#x200B;以保存区段，或单击**保存并定义活动**以保存并转到活动页面。
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
