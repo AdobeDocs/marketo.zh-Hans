@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 有趣时刻的令牌 {#tokens-for-interesting-moments}
+# 有趣时刻的令牌{#tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->* 学习如何使用 [有趣的时刻流步骤](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
->* 进一步了 [解令牌](http://docs.marketo.com/display/docs/tokens)。
+>* 了解如何使用[有趣的时刻流步骤](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
+>* 了解有关[令牌](http://docs.marketo.com/display/docs/tokens)的更多信息。
 
 >
 
 
 
-## 可用令牌 {#available-tokens}
+## 可用令牌{#available-tokens}
 
-查看 [令牌概述](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) ，查看您可以放入一个有趣时刻的所有令牌。
+查看[令牌概述](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)，了解您可以放入一个有趣时刻的所有令牌。
 
-## 触发令牌 {#trigger-tokens}
+## 触发令牌{#trigger-tokens}
 
 根据在智能活动中使用的触发器，还提供其他触发令牌。
 
-* `{{trigger.Trigger Name}}` 这总是实际的触发。 例如：单击电子邮件中的链接。
-* `{{trigger.Name}}` 是触发活动的资产的名称。 例如：网页上的“点击链接”是URL本身、Salesforce触发器的主题等。
+* `{{trigger.Trigger Name}}` 这总是实际的触发。例如：单击电子邮件中的链接。
+* `{{trigger.Name}}` 是触发活动的资产的名称。例如：网页上的“点击链接”是URL本身、Salesforce触发器的主题等。
 * 其他触发器基于约束可用，如下所示：
 
 <table> 
@@ -236,9 +236,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果它没有勾号（勾号） ![](assets/check.svg) ，它会在有趣的时刻返回一个空字符串（无）。
+>如果它没有检查![(tick)](assets/check.svg)，那么它会在有趣的时刻返回一个空字符串（无）。
 
-*触发访 **问网页中** ，还有几个令牌：
+*触发器&#x200B;**访问网页**&#x200B;还有一些额外的令牌：
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
