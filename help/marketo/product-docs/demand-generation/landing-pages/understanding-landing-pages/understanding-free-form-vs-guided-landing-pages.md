@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解自由形式与引导登陆页 {#understanding-free-form-vs-guided-landing-pages}
+# 理解自由形式与引导登陆页{#understanding-free-form-vs-guided-landing-pages}
 
-您选择的模板决定您将使用的登陆页编辑模式。 有两种可能的路径： [自由格式](http://docs.marketo.com/display/docs/free-form+landing+pages)[和引导](http://docs.marketo.com/display/docs/guided+landing+pages)。 在下面，您将找到重要差异的快速摘要。
+您选择的模板决定您将使用的登陆页编辑模式。 有两种可能的路径：[自由形式](http://docs.marketo.com/display/docs/free-form+landing+pages)和[被引导的](http://docs.marketo.com/display/docs/guided+landing+pages)。 在下面，您将找到重要差异的快速摘要。
 
-## 自由格式页面 {#free-form-pages}
+## 自由格式页面{#free-form-pages}
 
 * 随时随地拖放所需内容。
 * 该模板就像PowerPoint中的SlideMaster，只是一个背景。
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ![](assets/image2015-5-20-17-3a50-3a53.png)
 
-## 向导式页面 {#guided-pages}
+## 向导式页面{#guided-pages}
 
 * 模板驱动的预定义布局／结构。
 * 只有在编辑器中自定义在模板中定义为可编辑的区域或变量。
