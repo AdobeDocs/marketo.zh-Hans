@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 编辑事件渠道 {#edit-an-event-channel}
+# 编辑事件渠道{#edit-an-event-channel}
 
-您可以从渠道的“摘要”选项卡或 **其** “设置”选 **项卡中编** 辑事件。
+您可以从渠道的&#x200B;**摘要**&#x200B;选项卡或其&#x200B;**设置**&#x200B;选项卡编辑事件类型。
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->项目是一个特定的营销计划。 渠道 **旨在** 成为投放机制，如网络研讨会、贸易展或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉菜单中看到不同的渠道选项。 您还可以 [创建自己的渠道。](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>项目是一个特定的营销计划。 **渠道**&#x200B;旨在成为投放机制，如网络研讨会、贸易展或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉菜单中看到不同的渠道选项。 您还可以[创建自己的渠道。](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
 
-## 从摘要选项卡 {#from-the-summary-tab}
+## 摘要选项卡{#from-the-summary-tab}
 
-1. 从营 **销活动**，从树中选择您的事件。
+1. 从&#x200B;**营销活动**&#x200B;中，从树中选择您的事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 导航到“摘 **要** ”视图。
+1. 导航到&#x200B;**摘要**&#x200B;视图。
 
    ![](assets/eventprogramsummary.png)
 
-1. 在“设 **置** ”类别下，选择当 **前** 渠道显示为超链接。
+1. 在&#x200B;**设置**&#x200B;类别下，选择当前显示为超链接的&#x200B;**渠道**。
 
    ![](assets/channeltypeevent.png)
 
@@ -41,27 +41,27 @@ ht-degree: 0%
 
    ![](assets/tradeshowchange.png)
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/2017-06-13-09-35-53.png)
 
-## 从设置选项卡 {#from-the-setup-tab}
+## 从设置选项卡{#from-the-setup-tab}
 
-还可以从渠道的“设置”选项卡中分配新的 **事件** 类型。
+还可以从渠道的&#x200B;**设置**&#x200B;选项卡中分配新的事件类型。
 
 1. 从树中选择事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 导航到“设 **置** ”选项卡。 多次-单击当前 **渠道**。
+1. 导航到&#x200B;**Setup**&#x200B;选项卡。 多次-单击当前&#x200B;**渠道**。
 
    ![](assets/setuptabchangechannel.png)
 
-1. 选择新 **渠道**。
+1. 选择新&#x200B;**渠道**。
 
    ![](assets/tradeshowchange.png)
 
-1. 单击“ **保存”。**
+1. 单击&#x200B;**保存。**
 
    ![](assets/2017-06-13-09-35-53.png)
 
