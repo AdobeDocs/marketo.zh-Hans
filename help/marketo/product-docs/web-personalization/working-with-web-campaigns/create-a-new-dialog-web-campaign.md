@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 创建新对话框Web活动 {#create-a-new-dialog-web-campaign}
+# 新建对话框Web活动{#create-a-new-dialog-web-campaign}
 
-## 创建对话框Web活动 {#create-a-dialog-web-campaign}
+## 创建对话框Web活动{#create-a-dialog-web-campaign}
 
 创建Web活动，实时个性化您的Web内容，并在适当的时间向适当的用户提供适当的信息。
 
-Web活动是与特定段关联的自定义反应。 该反应可以是您网站上的对话框、 [区域替换](create-a-new-in-zone-web-campaign.md)、构 [件](create-a-new-widget-web-campaign.md)功能或电子邮件警报。
+Web活动是与特定段关联的自定义反应。 该反应可以是您网站上的对话框、区域替换](create-a-new-in-zone-web-campaign.md)中的[、[构件功能](create-a-new-widget-web-campaign.md)或电子邮件警报。
 
-1. 转到 **Web活动**。
+1. 转至&#x200B;**Web活动**。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. 选 **择“新建Web活动**”。
+1. 选择&#x200B;**新建Web活动**。
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. 选择“ **对话框** ”Web活动类型。 在编辑器中设计和添加您的创意。 单 **击预览** ，了解网站活动在您的网站上会如何反应。
+1. 选择&#x200B;**Dialog** Web活动类型。 在编辑器中设计和添加您的创意。 单击&#x200B;**预览**&#x200B;查看Web活动在您的站点上的反应。
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Web活动是与特定段关联的自定义反应。 该反应可以是您网站�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>显示于</strong></td> 
-   <td colspan="1">允许您自 <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">定义Web活动的显</a> 示时间和显示方式。</td> 
+   <td colspan="1">允许您<a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">自定义何时以及如何</a>显示您的Web活动。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>对话框样式</strong></td> 
@@ -115,11 +115,11 @@ Web活动是与特定段关联的自定义反应。 该反应可以是您网站�
   </tr> 
   <tr> 
    <td colspan="1"><strong>预览现场</strong></td> 
-   <td colspan="1">预览活动在启动之前。<br> 
+   <td colspan="1">预览活动启动之前。<br> 
     <ul> 
      <li>URL —— 输入活动将运行的示例URL，查看预览的实时外观示例。</li> 
      <li>设备-预览活动按设备的显示方式：桌面、移动纵向、移动横向、平板电脑纵向、纵向横向。<br></li> 
-     <li>预览-单 <strong>击 </strong>预览以打开示例URL的新窗口，查看活动的反应。 </li> 
+     <li>预览-单击<strong>预览</strong>打开示例URL的新窗口，了解活动的反应。 </li> 
      <li>共享——使用“共享”按钮向同事发送电子邮件，并提供链接以查看代理活动。</li> 
     </ul></td> 
   </tr> 
@@ -128,31 +128,31 @@ Web活动是与特定段关联的自定义反应。 该反应可以是您网站�
 
 >[!TIP]
 >
->通过使用我们内置的模板或将您的现有活动 [另存为模板](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ，以便 [重复使用，从而加快和简化活动创建流程](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 。
+>使用我们的[内置模板](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)或[将现有活动](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)保存为模板以供重用，从而加快和简化活动创建过程。
 
-## 编辑Web活动 {#edit-a-web-campaign}
+## 编辑Web活动{#edit-a-web-campaign}
 
-1. 在Web **活动****页面** 中 **，单** 击Web活动上的“编辑”。
+1. 在&#x200B;**Web** **活动**&#x200B;页面中，单击Web活动上的&#x200B;**编辑**。
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->要更轻松地找到所需的Web活动，请使用筛 [选功能](filter-web-campaigns.md)。
+>要更轻松地找到所需的Web活动，请使用[过滤器功能](filter-web-campaigns.md)。
 
-## 预览Web活动 {#preview-a-web-campaign}
+## 预览Web活动{#preview-a-web-campaign}
 
-1. 从Web **活动** 页面，单 **击要** 视图的Web活动上的预览。
+1. 从&#x200B;**Web活动**&#x200B;页面，单击要视图的Web活动上的&#x200B;**预览**。
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
-## 克隆Web活动 {#clone-a-web-campaign}
+## 克隆Web活动{#clone-a-web-campaign}
 
-请参 [阅克隆Web活动](clone-a-web-campaign.md)。
+请参阅[克隆Web活动](clone-a-web-campaign.md)。
 
-## 删除Web活动 {#delete-a-web-campaign}
+## 删除Web活动{#delete-a-web-campaign}
 
-1. 在Web **活动页** ，单击要删除的Web活动上的**删除**。
+1. 在&#x200B;**Web活动**&#x200B;页面中，单击要删除的Web活动上的**删除**。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
