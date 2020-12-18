@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 发布投票 {#publish-a-poll}
+# 发布投票{#publish-a-poll}
 
-创建投 [票后](create-a-poll.md)，您可以在Marketo登陆页、Facebook和您的网站上发布投票。
+在[创建投票](create-a-poll.md)后，您可以在Marketo登陆页、Facebook和您的网站上发布投票。
 
 1. 导航到您的登陆页并打开它进行编辑。
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. 从右侧 **的调** 色板中拖过“投票”。
+1. 从右侧的调色板拖动到&#x200B;**投票**&#x200B;上。
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
-1. 选择投票，然后单击“ **插入”。**
+1. 选择投票，然后单击&#x200B;**插入。**
 
    ![](assets/image2014-9-19-10-3a45-3a58.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >您需要批准投票才能在此处显示投票。
 
-恭喜！ 批准登陆页，您的投票将处于实时状态。 您还可以 [将登陆页发布到Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) , [或将投票放在您的网站上](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
+恭喜！ 批准登陆页，您的投票将处于实时状态。 您还可以[将登陆页发布到Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或[将投票放在您的网站](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)上。
 
 >[!TIP]
 >
