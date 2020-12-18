@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件分析发送概述 {#email-insights-sends-overview}
+# 电子邮件分析发送概述{#email-insights-sends-overview}
 
 在“发送”页面上，检查最近电子邮件通信的特性。
 
 ![](assets/one.png)
 
-使 [用筛选](filtering-in-email-insights.md) ，指定您要查看的电子邮件。
+使用[过滤](filtering-in-email-insights.md)指定要查看的电子邮件。
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-**类型** 指示所使用的资产类型。\
-**收件人** 号是发送电子邮件的人数。\
-**投放量** 度可让您快速视图已发送、待处理或退回的电子邮件数量。\
-**参与度** 指标可让您快速视图已打开、点击和取消订阅电子邮件的收件人数。\
-**得分** ，即您电子邮件的 [参与得分](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
+**类** 型指示所使用的资产类型。\
+**收** 件人编号是发送电子邮件的人数。\
+**投放** Metrics可快速视图已发送、待处理或退回的电子邮件数量。\
+**参与** 度量功能可让您快速视图已打开、单击和取消订阅电子邮件的收件人数。\
+**计** 分您电子邮件的 [参与度分数](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 默认情况下，您的电子邮件按最近的时间排序，但您可以按任何可用的度量来排序。
 
