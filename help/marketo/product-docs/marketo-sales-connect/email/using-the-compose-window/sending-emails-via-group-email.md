@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 通过组电子邮件发送电子邮件 {#sending-emails-via-group-email}
+# 通过组电子邮件发送电子邮件{#sending-emails-via-group-email}
 
 下面介绍如何使用“组电子邮件”选项发送／编辑电子邮件。
 
-## 发送组电子邮件 {#sending-a-group-email}
+## 发送组电子邮件{#sending-a-group-email}
 
-1. 单击“人 **员** ”选项卡。
+1. 单击&#x200B;**People**&#x200B;选项卡。
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 单击“组操作”按钮，然后选择“电 **子邮件组**”。
+1. 单击“组操作”按钮，然后选择&#x200B;**电子邮件组**。
 
    ![](assets/three-3.png)
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-## 编辑组电子邮件 {#editing-a-group-email}
+## 编辑组电子邮件{#editing-a-group-email}
 
-1. 使用上面的步骤1- [3创建组电子邮件](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail)。
+1. 使用上面的[步骤1-3创建组电子邮件。](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail)
 1. 选择模板，或填写您的电子邮件。
 
    ![](assets/edit-two.png)
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/edit-four.png)
 
-1. 单 **击预览动态**&#x200B;字段，然后视图右侧的预览。
+1. 单击&#x200B;**预览动态字段**，然后视图右侧的预览。
 
    ![](assets/edit-five.png)
 
