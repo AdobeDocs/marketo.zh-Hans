@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 了解收入模型阶段 {#understanding-revenue-model-phases}
+# 了解收入模型阶段{#understanding-revenue-model-phases}
 
 阶段是将多个阶段分组的一种方式。 有时，模型中的多个阶段反映漏斗的一个阶段。
 
-![--](assets/image2015-6-12-16-3a56-3a40.png)
+![—](assets/image2015-6-12-16-3a56-3a40.png)
 
-## 定义模型的阶段 {#define-the-phases-of-the-model}
+## 定义模型{#define-the-phases-of-the-model}的阶段
 
-1. 单击 **阶段。**
+1. 单击&#x200B;**阶段。**
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 
