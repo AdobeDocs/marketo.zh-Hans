@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在WordPress Enterprise上实现RTP {#implementing-rtp-on-wordpress-enterprise}
+# 在Wordpress Enterprise{#implementing-rtp-on-wordpress-enterprise}上实现RTP
 
 要实施RTP标签，请按照以下安装说明操作：
 
@@ -20,14 +20,14 @@ ht-degree: 0%
    1. 如果您已从支持部门收到JavaScript标记，请继续执行步骤3。\
       ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. 在“域”下，找到相关域，然后单击“ **生成标记**”。
+1. 在“域”下，找到相关域，然后单击“生成标记”**。**
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
 1. 复制RTP JavaScript标签。
 1. 以管理员用户身份登录到您的WordPress帐户
 
-   1. 在“ **外观**”下，转 **到“自定义JavaScript**”。
+   1. 在“**外观**”下，转至“**自定义JavaScript**”。
    1. 将RTP Javascript标签粘贴到现有代码之后。
 
       ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -43,4 +43,4 @@ ht-degree: 0%
    >    
    >仅插入脚本本身。
 
-1. 单击 **更新**。
+1. 单击&#x200B;**更新**。
