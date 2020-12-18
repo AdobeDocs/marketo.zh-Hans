@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 绩效洞察贡献概述 {#performance-insights-contribution-overview}
+# 绩效分析贡献概述{#performance-insights-contribution-overview}
 
 在Marketo Performance Insights中，默认情况下会显示贡献视图。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->了解 [首次触控和多次触控](http://docs.marketo.com/display/DOCS/Understanding+Attribution)。
+>了解[首次触控和多次触控](http://docs.marketo.com/display/DOCS/Understanding+Attribution)。
 
 选择要查看指标的期间。 在此示例中，我们将查看当前年份（年初至今）。   ![](assets/3-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果希望在滚动组时图形中的条向上缩放，请选中“缩放Y轴 **以适合”复选框** 。
+>如果希望图形中的条在滚动组时向上缩放，请选中&#x200B;**缩放Y轴以适合**&#x200B;复选框。
 
 将鼠标悬停在栏上可查看其他详细信息。   ![](assets/seven.png)
 
