@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 销售分析电子邮件绩效报表 {#sales-insight-email-performance-report}
+# Sales Insight电子邮件绩效报告{#sales-insight-email-performance-report}
 
 视图通过Salesforce、Microsoft Dynamics或Gmail或Outlook插件发送的电子邮件的性能。
 
-## 生成报告 {#generate-a-report}
+## 生成报告{#generate-a-report}
 
-1. 单击 **分析**。
+1. 单击&#x200B;**分析**。
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. 单击“ **销售分析电子邮件性能**”。
+1. 单击&#x200B;**Sales Insight Email Performance**。
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. 单击“设 **置** ”选项卡并选择所需的值。
+1. 单击&#x200B;**设置**&#x200B;选项卡并选择所需的值。
 
    ![](assets/three.png)
 
-1. 单击“报 **告** ”选项卡。
+1. 单击&#x200B;**报告**&#x200B;选项卡。
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -43,23 +43,23 @@ ht-degree: 0%
 >
 >单击电子邮件的名称以在电子邮件预览器中将其打开。
 
-## 按销售代表分组 {#group-by-sales-rep}
+## 按销售代表分组{#group-by-sales-rep}
 
 您可以通过更改设置来视图此按销售代表分组的报表。
 
-1. 单击“ **设置**”。 多次-单击“ **电子邮件**”。
+1. 单击&#x200B;**安装程序**。 多次-单击&#x200B;**电子邮件**。
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. 选择按销售代表分组 **电子邮件**。
+1. 选择“按&#x200B;**销售代表**&#x200B;分组电子邮件”。
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. 单击“报 **告** ”选项卡。
+1. 单击&#x200B;**报告**&#x200B;选项卡。
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
