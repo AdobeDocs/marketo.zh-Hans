@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将项目有效性与项目分析器进行比较 {#compare-program-effectiveness-with-the-program-analyzer}
+# 将项目有效性与项目分析器{#compare-program-effectiveness-with-the-program-analyzer}进行比较
 
 通过比较项目成本、成员赢取、渠道和收入，使用项目分析器来识别最有效、最低效的项目。
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >将项目筛选为仅一个渠道的快速方法是选择 **视图>按渠道**，单击该渠道的气泡，然后在弹出对话框中单击渠道名称。
+   >将项目筛选为仅一个渠道的快速方法是选择&#x200B;**视图>按渠道**，单击该渠道的气泡，然后在弹出对话框中单击渠道名称。
 
 1. 使用X轴下拉列表为水平轴选择度量。 我们用项目成本开始。
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您还可以尝试通过从线性比例更改为对数比例来改善视图，反之亦然。 使用顶 **部的** “缩放”菜单。
+   >您还可以尝试通过从线性比例更改为对数比例来改善视图，反之亦然。 使用顶部的&#x200B;**缩放**&#x200B;菜单。
 
 1. 浏览结果图。
 
@@ -68,13 +68,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在项目分析器中可以选择的许多指标可通过首次触控(FT)和多触(MT)计算获得。 了解FT与MT归因 [的区别很重要](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
+   >在项目分析器中可以选择的许多指标可通过首次触控(FT)和多触(MT)计算获得。 了解FT和MT归因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之间的[差异非常重要。
 
 1. 观察图中气泡的大小变化。
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   通过加 **入(FT)Revenue Won**，我们很快发现，虽然“折纸展”获得了许多新的品牌，但它带来的收入相对较少。 此外，我们还看到，Paper Fest 12项目的名声越来越少，但越来越好，因为它影响了赢取的更多收入（更大的泡沫）。
+   通过增加&#x200B;**(FT)收入赢**，我们很快看到，虽然Origami Expo获得了许多新名称，但收入相对较少。 此外，我们还看到，Paper Fest 12项目的名声越来越少，但越来越好，因为它影响了赢取的更多收入（更大的泡沫）。
 
 1. 使用颜色下拉列表添加第四个度量。 我们来看(FT)投资收益。
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以快速比较一个渠道中的项目与另一个中的数据。 只需使用 **窗口顶部的渠道** “过滤器”，即可添加更多渠道。
+>您可以快速比较一个渠道中的项目与另一个中的数据。 只需使用窗口顶部的&#x200B;**渠道过滤器**&#x200B;添加更多渠道。
 
 >[!NOTE]
 >
@@ -100,4 +100,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->了解有关收入周期浏览器中高级 [分析的更多信息](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+>了解有关[收入周期浏览器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)中的高级分析的更多信息。
