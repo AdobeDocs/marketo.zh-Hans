@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 管理人员数据 {#manage-person-data}
+# 管理人员数据{#manage-person-data}
 
 通过选择要在细分中使用的人员字段，将人员数据用于Web个性化。
 
-1. 转到“帐 **户设置**”。\
+1. 转到&#x200B;**帐户设置**。\
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. 转到数 **据库**。\
+1. 转至&#x200B;**Database**。\
    ![](assets/account-settings-dropdown-database.jpg)
 
-## 添加新人员字段 {#adding-a-new-person-field}
+## 添加新人员字段{#adding-a-new-person-field}
 
-1. 从下 **拉菜单中选择** “要添加的字段”，以向列表添加人员数据字段。
+1. 从下拉列表中选择&#x200B;**要添加**&#x200B;的字段，以向列表添加人员数据字段。
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
    >    * 新字段将添加到挂起状态中，激活时间最长为24小时。
 
 
-## 删除人员字段 {#deleting-a-person-field}
+## 删除人员字段{#deleting-a-person-field}
 
-1. 单击删除图标( ![—](assets/image2015-3-24-13-3a45-3a56.png))以从列表中删除字段。 单 **击** “是”以确认要删除该字段。
+1. 单击删除图标(![—](assets/image2015-3-24-13-3a45-3a56.png))以从列表中删除字段。 单击&#x200B;**是**&#x200B;以确认要删除该字段。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
