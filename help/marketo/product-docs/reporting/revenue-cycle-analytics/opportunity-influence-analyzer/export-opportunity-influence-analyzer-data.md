@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 导出机会影响分析器数据 {#export-opportunity-influence-analyzer-data}
+# 导出机会影响分析器数据{#export-opportunity-influence-analyzer-data}
 
-要从Revenue Cycle Explorer报 [表接收更新](http://docs.marketo.com/display/docs/revenue+cycle+analytics) ，并共享这些更新，您可以订阅现有报表的任何电子邮件地址。
+要从您的[收入周期浏览器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)报表接收更新并共享这些更新，您可以将任何电子邮件地址订阅到现有报表。
 
-1. 转到Analytics **并选择** New ******>New** **Report** Analytics **Report******&#x200B;订阅。
+1. 转至&#x200B;**Analytics**&#x200B;并选择&#x200B;**New********New** **Report** **订阅**。
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >要订阅在项目中创建的基本报告，请参 [阅订阅基本报告](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) 。
+   >要订阅在项目中创建的基本报告，请参阅[订阅基本报告](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)。
 
-1. 对于“报表源”，选择“收 **入浏览器”。**
+1. 对于“报表源”，选择&#x200B;**收入浏览器。**
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->了解如何 [在一个位置管理所](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 有报告订阅。
+>了解如何[在一个位置管理所有报告订阅](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。
 
 >[!NOTE]
 >
 >**深潜**
 >
->深入了解Marketo的高级分析工具，了解您可以做 [的更多事情](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 。
+>在[收入周期浏览器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)深入探索中，了解Marketo的高级分析的更多功能。
 
