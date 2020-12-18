@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 创建可见SMS消息 {#create-a-vibes-sms-message}
+# 创建查看器SMS消息{#create-a-vibes-sms-message}
 
 下面介绍如何创建Vibes SMS消息。
 
@@ -19,23 +19,23 @@ ht-degree: 0%
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. 单击 **新建本地资产**。
+1. 单击&#x200B;**新建本地资产**。
 
    ![](assets/new-local-asset-hand.jpg)
 
    >[!TIP]
    >
-   >或者，也可以单击 **新** “新建”下拉框。
+   >或者，也可以单击&#x200B;**New**&#x200B;下拉列表。
 
-1. 单击 **SMS消息**。
+1. 单击&#x200B;**SMS消息**。
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
-1. 输入新SMS消息的名称和可选说明，然后单击“创 **建”**。
+1. 输入新SMS消息的名称和可选说明，然后单击&#x200B;**创建**。
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
-1. 单击“ **编辑草稿**”。
+1. 单击&#x200B;**编辑草稿**。
 
    ![](assets/edit-draft-hand.jpg)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >美国和加拿大的限制不同，分别为160和130个字符。 如果超过这些字符限制，则可能会拆分您的消息。 当我们显示您超过加拿大限制时，该编辑器已针对美国进行优化，并根据美国限制拆分消息。
 
-1. 单击 **插入** (Insert)菜单中的Token（令牌），向消息中添加令牌。
+1. 单击“插入”菜单中的&#x200B;**令牌**，向消息中添加令牌。
 
    ![](assets/add-token-real-hand.jpg)
 
@@ -55,11 +55,11 @@ ht-degree: 0%
    >
    >添加令牌可能导致消息超出字符限制。 然后，消息将被拆分，导致额外费用。
 
-1. 单击 **“插入** ”菜单中的“链接”，添加指向消息的链接。
+1. 单击“插入”菜单中的&#x200B;**链接**，添加一条消息链接。
 
    ![](assets/full-message-link-hand.jpg)
 
-1. 选择链接类型。 Marketo登陆页是默认值。 如果继续，您需要从下拉列表中选择登陆页并单击“插 **入**”。
+1. 选择链接类型。 Marketo登陆页是默认值。 如果继续，您需要从下拉菜单中选择登陆页，然后单击&#x200B;**插入**。
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
    >
    >默认情况下，将选择两个跟踪链接。
 
-1. 如果要改用外部URL，请单击“外 **部URL** ”按钮，并在URL字段中输入URL。 单击 **插入**。
+1. 如果要改用外部URL，请单击&#x200B;**外部URL**&#x200B;按钮，并在URL字段中输入URL。 单击&#x200B;**插入**。
 
    ![](assets/insert-link-url-hands.jpg)
 
