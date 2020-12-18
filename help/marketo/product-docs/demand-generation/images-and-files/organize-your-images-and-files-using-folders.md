@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 使用文件夹组织图像和文件 {#organize-your-images-and-files-using-folders}
+# 使用文件夹{#organize-your-images-and-files-using-folders}组织图像和文件
 
 通过创建文件夹，您可以移动图像和文件，只查看所需的图像集，并直接上传到特定文件夹。
 
-1. 转到 **Design** **Studio**。
+1. 转到&#x200B;**Design** **Studio**。
 
    ![](assets/designstudio-7.png)
 
-1. 右键单击左菜单中的**图像和文件**，然后选择“新建 **文件夹”**。
+1. 右键单击左菜单中的**图像和文件**，然后选择&#x200B;**新建文件夹**。
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. 现在， **您可以**“转到图像和文件”，并拖放到所需的文件夹中。
+1. 现在，您可以将图像和文件拖放到所需的文件夹中。****
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
