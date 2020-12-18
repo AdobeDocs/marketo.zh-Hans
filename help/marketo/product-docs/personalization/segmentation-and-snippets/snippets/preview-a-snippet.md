@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 预览片段 {#preview-a-snippet}
+# 预览代码片断{#preview-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 代码片段是根据分段规则更改的动态内容块。
 
-1. 转到Design **Studio。**
+1. 转至&#x200B;**Design Studio.**
 
    ![](assets/designstudio-3.png)
 
-1. 单击您的片段，然后 **预览片段**。
+1. 单击您的代码片断，然后&#x200B;**预览片断**。
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
