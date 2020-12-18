@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 活动已结束 {#campaign-has-ended}
+# 活动已结束{#campaign-has-ended}
 
 如果您在“失败的投放”文件夹中看到一封电子邮件说“活动已结束”，则表示此特定电子邮件是活动中的一封计划电子邮件。
 
-## 失败的可能原因 {#possible-reasons-it-failed}
+## 失败{#possible-reasons-it-failed}的可能原因
 
 * 退回前的电子邮件
 * 联系人已回复并结束活动
