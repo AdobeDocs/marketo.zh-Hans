@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 添加指向自由格式登陆页图像的链接 {#add-a-link-to-a-free-form-landing-page-image}
+# 添加指向自由格式登陆页映像的链接{#add-a-link-to-a-free-form-landing-page-image}
 
 >[!PREREQUISITES]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >这仅适用于自由形式登陆页。
 
-1. 选择您添加到登陆页的图像并展开 **属性表。**
+1. 选择您添加到登陆页的图像并展开&#x200B;**属性表。**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. 在链接URL中键入您 **的mailto链接。**
+1. 在&#x200B;**链接URL中键入mailto链接。**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
