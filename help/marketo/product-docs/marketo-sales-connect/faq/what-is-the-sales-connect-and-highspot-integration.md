@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 什么是Sales Connect和Highspot集成？ {#what-is-the-sales-connect-and-highspot-integration}
+# 什么是Sales Connect和Highspot集成？{#what-is-the-sales-connect-and-highspot-integration}
 
-Sales Connect支持与内容管理 [系统](https://www.highspot.com/)Highspot集成。 也是Highspot客户的Sales Connect客户可以从Web应用程序中访问其Highspot内容。
+Sales Connect支持与[Highspot](https://www.highspot.com/)(内容管理系统)集成。 也是Highspot客户的Sales Connect客户可以从Web应用程序中访问其Highspot内容。
 
-## 要求 {#requirements}
+## 要求{#requirements}
 
 要使用Sales Connect与Highspot的集成，您将需要以下各项：
 
@@ -29,11 +29,11 @@ Sales Connect支持与内容管理 [系统](https://www.highspot.com/)Highspot�
 >
 >Sales Connect Gmail扩展当前不支持Highspot集成
 
-## 启用Sales Connect和Highspot集成 {#enabling-the-sales-connect-and-highspot-integration}
+## 启用Sales Connect和Highspot集成{#enabling-the-sales-connect-and-highspot-integration}
 
-如果您有兴趣为您的团队启用Highspot集成，请与Marketo支 [持部门联系](http://support.marketo.com)。
+如果您有兴趣为您的团队启用Highspot集成，请联系[Marketo支持](http://support.marketo.com)。
 
-## 如何使用集成 {#how-to-use-the-integration}
+## 如何使用集成{#how-to-use-the-integration}
 
 启用后，将介绍如何在Sales Connect中访问Highspot内容。
 
