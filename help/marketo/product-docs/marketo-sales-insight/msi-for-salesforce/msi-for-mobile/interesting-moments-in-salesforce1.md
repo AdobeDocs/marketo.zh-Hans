@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Salesforce中的有趣时刻1 {#interesting-moments-in-salesforce}
+# Salesforce1中的有趣时刻{#interesting-moments-in-salesforce}
 
-[使用Interest](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) Moments是通过Marketo Sales Insight应用程序与销售团队进行沟通的关键。 现在，借助Salesforce1的Marketo Sales Insight，您也可以使用智能手机完成同样的操作！
+[使用“](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 有趣的时刻”是通过Marketo Sales Insight应用程序与销售团队进行沟通的关键。现在，借助Salesforce1的Marketo Sales Insight，您也可以使用智能手机完成同样的操作！
 
 >[!AVAILABILITY]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 单击“相 **关** ”选项卡以查看“有趣的时刻”、“Web活动”、“电子邮件”和“得分”。
+1. 单击&#x200B;**相关**&#x200B;选项卡，查看有趣的时刻、Web活动、电子邮件和得分。
 
    ![](assets/two.png)
 
