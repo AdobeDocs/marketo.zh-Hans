@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 如何将Sales Connect连接到Salesforce沙箱 {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
+# 如何将Sales Connect连接到Salesforce沙箱{#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
 >[!PREREQUISITES]
 >
->在建立与沙箱的连接时，您的Sales Connect帐户无法已连接到Salesforce。 如果是， [请确保在执行本文](http://docs.marketo.com/x/FoDq) 中的步骤之前断开连接。
+>在建立与沙箱的连接时，您的Sales Connect帐户无法已连接到Salesforce。 如果是，请确保在执行本文中的步骤之前断开连接。[](http://docs.marketo.com/x/FoDq)
 
-1. 在Sales Connect中，单击右上角的齿轮图标，然后选择“设 **置”**。
+1. 在Sales Connect中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/one-2.png)
 
-1. 在“集成”下，单 **击CRM**。
+1. 在“集成”下，单击&#x200B;**CRM**。
 
    ![](assets/two-2.png)
 
-1. 在Salesforce卡片中，单击“更 **多信息”**。
+1. 在Salesforce卡中，单击&#x200B;**更多信息**。
 
    ![](assets/three-2.png)
 
-1. 在页面底部，单击“连 **接到沙箱”**。
+1. 在页面底部，单击&#x200B;**连接到沙箱**。
 
    ![](assets/four-2.png)
 
