@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 向导式登陆页模板 {#guided-landing-page-templates}
+# 向导式登陆页模板{#guided-landing-page-templates}
 
-浏览我们的示例模板集合，以便与向导式 [登陆页编辑器一起使用](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)。 每个模板都完全响应式，并且基于Bootstrap框架。
+浏览我们的示例模板集合，以与[向导式登陆页编辑器](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)一起使用。 每个模板都完全响应式，并且基于Bootstrap框架。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 1. 单击模板的名称以放大视图。
 1. 下载所选模板。
-1. 在Marketo中，导航到 **Design Studio。**
-1. 单 **击左** 侧树中的登陆页，然后选择 **模板。**
+1. 在Marketo中，导航到&#x200B;**Design Studio。**
+1. 单击左侧树中的&#x200B;**登陆页**，然后选择&#x200B;**模板。**
 
-1. 在菜单栏中，单击 **导入模板。**
-1. 选择下载的文件，输入模板名称，然后单 **击** “导入”(确保选取一个描述性名称并指示编辑模式为“ **引导**”)。
+1. 在菜单栏中，单击&#x200B;**导入模板。**
+1. 选择下载的文件，输入模板名称，然后单击&#x200B;**导入**（确保选取描述性名称并指示编辑模式为&#x200B;**引导**）。
 
 |  |  |  |
 |---|---|---|
@@ -73,9 +73,9 @@ ht-degree: 0%
 | ![](assets/11f.jpg) | ![](assets/12a.jpg) | ![](assets/12b.jpg) |
 | [模板12-C](guided-landing-page-templates/template-12-c.md) | [模板12-D](guided-landing-page-templates/template-12-d.md) | [模板12-E](guided-landing-page-templates/template-12-e.md) |
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
-| [模板12-F](guided-landing-page-templates/template-12-f.md) | [模板13-A](guided-landing-page-templates/template-13-a.md) | [模板13-B](guided-landing-page-templates/template-13-b.md) |
+| [模板12-F](guided-landing-page-templates/template-12-f.md) | [模板13-C](guided-landing-page-templates/template-13-a.md) | [模板13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [模板13-C](guided-landing-page-templates/template-13-c.md) | [模板13-D](guided-landing-page-templates/template-13-d.md) | [模板13-E](guided-landing-page-templates/template-13-e.md) |
+| [模板13-A](guided-landing-page-templates/template-13-c.md) | [模板13-D](guided-landing-page-templates/template-13-d.md) | [模板13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [模板14-A](guided-landing-page-templates/template-14-a.md) | [模板14-B](guided-landing-page-templates/template-14-b.md) | [模板14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
