@@ -15,7 +15,7 @@ ht-degree: 0%
 
 我们创建了与Outlook Web应用程序的集成。 Outlook Web Apps是随Office 365订阅提供的Outlook版本。 由于它基于浏览器，因此集成在Mac和Windows上都能正常工作。 [单击此处查看完整的安装指南](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
 
-作为管理员，您可 [以代表整个团队安装此组件](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)。
+作为管理员，您可以[代表整个团队安装此组件](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >我。转到“帮助”按钮（在最顶部的导航中，“Outlook”的右侧）
 >
->ii. 在 **下拉菜单中** ，选择检查更新
+>ii. 在下拉菜单中选择&#x200B;**检查更新**
 >
 >iii. 更新到Outlook的最新版本，完成操作后返回到这些步骤
 
