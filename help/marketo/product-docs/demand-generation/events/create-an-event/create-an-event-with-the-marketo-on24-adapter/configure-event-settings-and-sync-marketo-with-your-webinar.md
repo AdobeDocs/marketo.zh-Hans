@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 配置事件设置并将营销人员同步到网络研讨会 {#configure-event-settings-and-sync-marketo-with-your-webinar}
+# 配置事件设置并将营销者与网络研讨会{#configure-event-settings-and-sync-marketo-with-your-webinar}同步
 
 按照以下步骤配置Marketo事件设置并连接Marketo和ON24。
 
-## 设置事件 {#set-the-event}
+## 设置事件{#set-the-event}
 
-1. 选择要与ON24网络研讨会关联的事件，然后单击“ **事件操作** ”下拉框并选 **择事件设置**。
+1. 选择要与ON24网络研讨会关联的事件，然后单击&#x200B;**事件操作**&#x200B;下拉框并选择&#x200B;**事件设置**。
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 输入事件ID（从ON24获取此ID）。 单击 **保存**。
+1. 输入事件ID（从ON24获取此ID）。 单击&#x200B;**保存**。
 
    ![](assets/four.png)
 
@@ -37,21 +37,21 @@ ht-degree: 0%
    >
    >在高峰期，ON24可能需要15到20分钟才能向Marketo提供事件信息。 如果收到“Invalid Session Id”（会话ID无效）消息，请稍后重试。
 
-## 设置计划 {#set-the-schedule}
+## 设置计划{#set-the-schedule}
 
 当您设置与ON24网络研讨会关联的事件时，事件计划将使用ON24中的数据进行填充。 要访问“事件计划”对话框，请按照以下步骤操作。
 
-1. 选择事件。 单击 **事件操作** 下拉框，然后选择 **计划。**
+1. 选择事件。 单击&#x200B;**事件操作**&#x200B;下拉框并选择&#x200B;**计划。**
 
    ![](assets/five.png)
 
-1. 选择 **开始日期、结束日期**&#x200B;和 **时区**。 单击 **保存**。
+1. 选择&#x200B;**开始日期、结束日期**&#x200B;和&#x200B;**时区**。 单击&#x200B;**保存**。
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >如果更新ON24中的任何事件信息，则必须单击“事件操 **作”菜单中的** “从网络研讨会提供者刷新”，以查看新数据的填充情况。
+   >如果更新ON24中的任何事件信息，则必须单击“事件操作”菜单中的“从网络研讨会提供者刷新”**，以查看新数据的填充情况。**
 
    [创建子活动和本地资产](create-child-campaigns-and-local-assets.md)
 
