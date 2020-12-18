@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 在帐户设置中添加子域 {#add-subdomains-in-account-settings}
+# 在帐户设置{#add-subdomains-in-account-settings}中添加子域
 
 下面将介绍如何在帐户设置中向主域添加子域。 这将允许您管理与主域的特定RTP Javascript相关的子域。 建议将Javascript标记部署到任何添加的子域。
 
-1. 在“Web个性化”中，转到“帐 **户设置”**。
+1. 在Web个性化中，转到&#x200B;**帐户设置**。
 
    ![](assets/image2014-12-1-23-3-12.png)
 
-1. 在“域配置”页上，您将看到与您的帐户关联的所有主域的列表。 每个部分首先列表主域（在下面突出显示），然后是任何子域。 单击 **添加子域**。
+1. 在“域配置”页上，您将看到与您的帐户关联的所有主域的列表。 每个部分首先列表主域（在下面突出显示），然后是任何子域。 单击&#x200B;**添加子域**。
 
    ![](assets/highlightprimary2.png)
 
-1. 单击 **添加**。
+1. 单击&#x200B;**添加**。
 
    ![](assets/add.png)
 
-1. 输入子域URL。 单 **击** “添 **加”或“删除** ”以管理子域的列表, **完成后单击** “确定”。
+1. 输入子域URL。 单击&#x200B;**添加**&#x200B;或&#x200B;**删除**&#x200B;以管理子域的列表，然后在完成后单击&#x200B;**确定**。
 
    ![](assets/newsubdomain.png)
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果要向帐户 *添加* 主域，请与Marketto支 [持联系](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133)。
+   >如果要向您的帐户添加&#x200B;*主*&#x200B;域，请与[营销人员支持](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133)联系。
 
