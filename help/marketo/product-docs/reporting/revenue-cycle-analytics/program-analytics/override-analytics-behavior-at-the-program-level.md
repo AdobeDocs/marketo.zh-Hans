@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在项目级别覆盖分析行为 {#override-analytics-behavior-at-the-program-level}
+# 在项目级别{#override-analytics-behavior-at-the-program-level}覆盖分析行为
 
-您可以在渠道 [的管理员级别设置分析行为](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) ，也可以在项目级别覆盖它。 下面是具体方法：
+您可以在渠道](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)的管理级别设置[分析行为，但也可以在项目级别覆盖它。 下面是具体方法：
 
 1. 转到“营销活动”区域。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >默认行为（如果未应用此设置）是仅当至少存在一个期间成本( **即使是分配了零美元的项目**)时，才会包含在Analytics中。
+   >默认行为（如果未应用此设置）是仅当至少存在一个期间成本&#x200B;**时，项目才会包含在Analytics**&#x200B;中，即使分配了零美元。
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
