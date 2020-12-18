@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 实时源概述 {#live-feed-overview}
+# 实时源概述{#live-feed-overview}
 
 实时信息源是一个浮动窗口，可从Web应用程序或Gmail插件启动，优惠实时查看潜在客户互动情况。
 
-## “参与”选项卡 {#engagement-tab}
+## “参与”选项卡{#engagement-tab}
 
 ![](assets/engagement.jpg)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 
 
-## 任务选项卡 {#tasks-tab}
+## 任务选项卡{#tasks-tab}
 
 ![](assets/task.jpg)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 新建或管理打开的任务。
 
-过滤掉今天、明天、 *今天* 、明天或后7天。
+过滤今天、明天、今天&#x200B;*和明天或之后7天。*
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 使用快速操作按钮快速拨打电话、发送电子邮件或导航至个人的Linkedin用户档案。
 
-## 目标选项卡 {#target-tab}
+## 目标选项卡{#target-tab}
 
 ![](assets/target.jpg)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 * 我们给前50个领先者看。
 * 您只会在Salesforce中看到已分配给您的人员。
 
-## 图标词汇表 {#icon-glossary}
+## 图标术语表{#icon-glossary}
 
 <table> 
  <colgroup> 
@@ -75,28 +75,28 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>有人查看了您的电子邮件</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>有人点击了您电子邮件中的链接</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>有人回复了您的电子邮件</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td colspan="1">在有趣时刻下列出的任何通知，包括电子邮件、Web和里程碑</td> 
   </tr> 
