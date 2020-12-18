@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 设置投放渠道 {#setting-up-your-delivery-channel}
+# 设置投放渠道{#setting-up-your-delivery-channel}
 
 使用Marketo Sales Connect进行开始时，您需要设置SMTP服务器才能发出电子邮件。
 
 >[!NOTE]
 >
->除了设置SMTP服务器外，还必须先验 [证您的电子邮件身份](http://docs.marketo.com/x/ewPh) ，然后才能发送电子邮件。
+>除了设置SMTP服务器，还必须验证[电子邮件标识，然后才能发送电子邮件。](http://docs.marketo.com/x/ewPh)
 
 您可以选择使用自定义SMTP服务器、团队SMTP服务器或Gmail作为投放渠道发送电子邮件。 让我们看一下每个选项。
 
 ## 自定义SMTP {#custom-smtp}
 
-1. 登录到Web应 [用程序](http://toutapp.com/login)，单击右上角的齿轮图标，然后选择“ **设置”**。
+1. 登录到[Web应用程序](http://toutapp.com/login)，单击右上方的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/one.png)
 
-1. 在“我的帐户”下，单击“电 **子邮件设置**”。
+1. 在“我的帐户”下，单击“电子邮件设置”**。**
 
    ![](assets/two.png)
 
-1. 选择“ **SMTP服务器**”。
+1. 选择&#x200B;**SMTP服务器**。
 
    ![](assets/three.png)
 
-1. 输入SMTP服务器凭据，然后单 **击Connect**。
+1. 输入SMTP服务器凭据，然后单击&#x200B;**Connect**。
 
    ![](assets/four.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
    >
    >如果这是您唯一的投放渠道，它会自动分配给您的所有电子邮件身份，您就完成了。 如果这不是您唯一的投放渠道，请继续执行步骤5。
 
-1. 仍在“电子邮件设置”中，单击“ **地址和签名”**。
+1. 仍在“电子邮件设置”中，单击&#x200B;**地址和签名**。
 
    ![](assets/five.png)
 
-1. 查找要为其选择投放渠道的电子邮件标识，然后单击“选 **择投放渠道”**。
+1. 查找要为其选择投放渠道的电子邮件标识，然后单击&#x200B;**选择投放渠道**。
 
    ![](assets/six.png)
 
-1. 在“可交付性卡”中，单击“ **编辑**”。
+1. 在“可交付性卡”中，单击&#x200B;**编辑**。
 
    ![](assets/seven-new.png)
 
-1. 单击渠道下拉列表，然后选择您刚添加的自定义投放渠道。 单击 **保存**。
+1. 单击渠道下拉列表，然后选择您刚添加的自定义投放渠道。 单击&#x200B;**保存**。
 
    ![](assets/eight-new.png)
 
@@ -65,21 +65,21 @@ ht-degree: 0%
 
    **观看视频**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
-## 团队SMTP服务器 {#team-smtp-server}
+## 团队SMTP服务器{#team-smtp-server}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 登录到Web应 [用程序](http://toutapp.com/login)，单击右上角的齿轮图标，然后选择“ **设置”**。
+1. 登录到[Web应用程序](http://toutapp.com/login)，单击右上方的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/nine.png)
 
-1. 在“管理员设置”下，单 **击“团队SMTP服务器**”。
+1. 在“管理设置”下，单击&#x200B;**团队SMTP服务器**。
 
    ![](assets/ten.png)
 
-1. 输入SMTP服务器凭据，然后单 **击Connect**。
+1. 输入SMTP服务器凭据，然后单击&#x200B;**Connect**。
 
    ![](assets/eleven.png)
 
@@ -91,24 +91,24 @@ ht-degree: 0%
 
 ## Gmail {#gmail}
 
-1. 登录到Web应 [用程序](http://toutapp.com/login)，单击右上角的齿轮图标，然后选择“ **设置”**。
+1. 登录到[Web应用程序](http://toutapp.com/login)，单击右上方的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/twelve.png)
 
-1. 在“我的帐户”下，单击“电 **子邮件设置**”。
+1. 在“我的帐户”下，单击“电子邮件设置”**。**
 
    ![](assets/thirteen.png)
 
-1. 单击“ **电子邮件同步**”。
+1. 单击&#x200B;**电子邮件同步**。
 
    ![](assets/fourteen.png)
 
-1. 单击 **“连接到Google**”。
+1. 单击&#x200B;**连接到Google**。
 
    ![](assets/fifteen.png)
 
 1. 使用Google凭据登录。
-1. 进入此屏幕时，单击“允 **许”**。
+1. 进入此屏幕时，单击&#x200B;**允许**。
 
    ![](assets/sixteen.png)
 
@@ -116,7 +116,7 @@ ht-degree: 0%
    >
    >如果这是您唯一的投放渠道，它会自动分配给您的所有电子邮件身份，您就完成了。 如果Gmail不是您唯一的投放渠道，请继续执行步骤7。
 
-1. 单击 **地址和签名**。
+1. 单击&#x200B;**地址和签名**。
 
    ![](assets/seventeen.png)
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 
    ![](assets/nineteen.png)
 
-1. 单击“渠道”下拉框，然后选择您刚添加的Gmail投放渠道。 单击 **保存**。
+1. 单击“渠道”下拉框，然后选择您刚添加的Gmail投放渠道。 单击&#x200B;**保存**。
 
    ![](assets/twenty.png)
 
