@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 定义单选按钮或表单中选定字段的值 {#define-values-in-a-radio-or-selected-field-in-a-form}
+# 在表单{#define-values-in-a-radio-or-selected-field-in-a-form}中定义单选按钮或选定字段的值
 
-将字段类 [型设置为单选按钮](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) 或选择类型后，您将需要定义用户可以从中选择的值。 这是方法。
+[将字段类型](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)设置为单选按钮或选择类型后，您将需要定义用户可从中选取的值。 这是方法。
 
-1. 转到营 **销****活动**。
+1. 转至&#x200B;**Marketing** **活动**。
 
    ![](assets/ma.png)
 
-1. 选择表单，然后单击 **编辑****表单**。
+1. 选择表单，然后单击&#x200B;**编辑** **表单**。
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. 选择字段，然后单击“ **编辑**”。
+1. 选择该字段，然后单击&#x200B;**编辑**。
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
@@ -40,12 +40,12 @@ ht-degree: 0%
    >**定义**
    >
    >
-   >**显示值：** 向访客显示的内容。
+   >**显示值：** 显示给访客的内容。
    >
    >
    >**存储值：** Marketo中记录的内容。
 
-1. 添加所需数量的值，然后单击“保 **存”**。
+1. 根据需要添加任意数量的值，然后单击“保存”**。**
 
    >[!NOTE]
    >
@@ -55,14 +55,14 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果 **需要** ，请单击“高级编辑器”复制／粘贴值列表。 它可以实时节省时间。
+   >如果需要，单击&#x200B;**高级编辑器**&#x200B;复制／粘贴值列表。 它可以实时节省时间。
 
-1. 单击 **完成**。
+1. 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. 单击 **批准并关闭**。
+1. 单击&#x200B;**批准并关闭**。
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-超级工作！ 你做得真好。 进一步了解 [表单](http://docs.marketo.com/display/docs/forms)。
+超级工作！ 你做得真好。 了解有关[表单的更多信息](http://docs.marketo.com/display/docs/forms)。
