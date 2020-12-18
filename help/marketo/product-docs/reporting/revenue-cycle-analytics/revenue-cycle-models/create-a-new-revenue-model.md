@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 创建新的收入模型 {#create-a-new-revenue-model}
+# 新建收入模型{#create-a-new-revenue-model}
 
-1. 要创建新的收入周期模型，请单击“我 **的Market** ”主屏幕中的“分析”按钮。
+1. 要创建新的收入周期模型，请单击“我的营销人员”主屏幕中的&#x200B;**Analytics**&#x200B;按钮。
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. 在“Analytics” **(分析** )选项卡中， **单击“** 新建 **”，然后选**&#x200B;择“新建收入周期模型”。
+1. 在&#x200B;**Analytics**&#x200B;选项卡中，单击&#x200B;**新建**，然后选择&#x200B;**新建收入周期模型**。
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. 此时 **会出现“新建收入周期模型** ”(New Revenue Cycle Model)窗口。 输入名称，然后单击“ **创建**”。
+1. 出现&#x200B;**“New Revenue Cycle Model**”模态窗口。 输入名称并单击&#x200B;**创建**。
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
-1. 在模 **型的主视图** ，单击“编辑草稿”(Edit Draft)。
+1. 单击模型主视图中的&#x200B;**编辑草稿**。
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->进一步了 [解使用收入模型库存阶段](using-revenue-model-inventory-stages.md)。
+>了解有关[使用收入模型库存阶段](using-revenue-model-inventory-stages.md)的更多信息。
 
