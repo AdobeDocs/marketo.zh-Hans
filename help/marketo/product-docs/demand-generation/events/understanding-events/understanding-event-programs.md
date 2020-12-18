@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解事件项目 {#understanding-event-programs}
+# 了解事件项目{#understanding-event-programs}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
-## 概述 {#overview}
+## 概述{#overview}
 
 事件项目是一种项目类型，可用于实现线下或在线事件自动化。 将事件项目想象为在特定日期和时间有与会者的任何内容。
 
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 
 
-事件可以自动连接到 [网络研讨会提供](launchpoint-event-partners.md) ，并与iPad登 [记应用程序同步](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)。
+事件可以自动连接到您的[网络研讨会提供者](launchpoint-event-partners.md)，并与[iPad登记应用程序](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)同步。
 
-## 观看视频 {#watch-a-video}
+## 观看视频{#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
