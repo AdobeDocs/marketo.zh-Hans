@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 删除Web活动 {#delete-a-web-campaign}
+# 删除Web活动{#delete-a-web-campaign}
 
-1. 转到 **Web活动**。
+1. 转至&#x200B;**Web活动**。
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >要更轻松地找到所需的Web活动，请使用筛 [选功能](filter-web-campaigns.md)。
+   >要更轻松地找到所需的Web活动，请使用[过滤器功能](filter-web-campaigns.md)。
 
 1. 在Web活动页上，单击要删除的活动上的**删除**。
 
