@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 为自由形式视图自定义移动登陆页 {#customize-mobile-view-for-your-free-form-landing-page}
+# 为自由格式视图{#customize-mobile-view-for-your-free-form-landing-page}自定义移动登陆页
 
 >[!PREREQUISITES]
 >
@@ -27,17 +27,17 @@ ht-degree: 0%
 
    ![](assets/selectlandingapge.jpg)
 
-1. 单击“ **编辑草稿**”。
+1. 单击&#x200B;**编辑草稿**。
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. 单击“移 **动** ”选项卡。
+1. 单击&#x200B;**Mobile**&#x200B;选项卡。
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## 移动与桌面视图 {#mobile-vs-desktop-view}
+## 移动与桌面视图{#mobile-vs-desktop-view}
 
-在“页面元素”下，您将看 ![](assets/image2015-1-22-18-3a39-3a53.png) 到（桌面）图标和 ![](assets/image2015-1-22-18-3a40-3a31.png) （移动）图标。 这允许您动态显示／隐藏不同的元素。
+在“页面元素”下，您将看到![](assets/image2015-1-22-18-3a39-3a53.png)（桌面）图标和![](assets/image2015-1-22-18-3a40-3a31.png)（移动）图标。 这允许您动态显示／隐藏不同的元素。
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -49,14 +49,14 @@ ht-degree: 0%
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## 重要注意事项：  {#important-things-to-know}
+## 重要注意事项： {#important-things-to-know}
 
 * 图像将扩展到移动设备的宽度。 如果您想要更小的图像，请拉入富文本元素，然后从那里添加图像。
 * 只使用Forms2.0表单。 它们是响应式的，将自动进行调整。
 * 只有一个模板元素可编辑，即BODY#bodyid(Mobile)。 您可以使用它更改背景颜色。\
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
-## 从移动视图中隐藏元素 {#hide-an-element-from-the-mobile-view}
+## 从移动视图{#hide-an-element-from-the-mobile-view}中隐藏元素
 
 >[!TIP]
 >
@@ -70,7 +70,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
-## 向移动视图添加元素 {#add-an-element-to-the-mobile-view}
+## 将元素添加到移动视图{#add-an-element-to-the-mobile-view}
 
 >[!TIP]
 >
@@ -86,15 +86,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->移动视图还可以具有不同的页面元素排列。 在自由格式登陆页中移动内容，或使用拖放对页面元素下列 **出的对象** 进行重新排序。
+>移动视图还可以具有不同的页面元素排列。 在自由格式登陆页中移动内容，或使用拖放对&#x200B;**页面元素**&#x200B;下列出的对象重新排序。
 
-## 预览移动视图 {#preview-mobile-view}
+## 预览移动视图{#preview-mobile-view}
 
-1. 单击“ **预览草稿**”。
+1. 单击&#x200B;**预览草稿**。
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. 想看点很酷的吗？ 选 **择并排**。
+1. 想看点很酷的吗？ 选择&#x200B;**并排**。
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -102,7 +102,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. 如果您喜欢它，请单击“ **批准并关闭”**。
+1. 如果您喜欢它，请单击&#x200B;**批准并关闭**。
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
