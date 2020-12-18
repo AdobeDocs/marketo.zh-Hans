@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 确定Web活动的优先级 {#prioritizing-web-campaigns}
+# 确定Web活动的优先级{#prioritizing-web-campaigns}
 
 通过设置优先级得分，在两个或多个Web活动重叠时对Web活动进行优先级排序。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要更轻松地找到所需的Web活动，请使用筛 [选功能](filter-web-campaigns.md)。
+   >要更轻松地找到所需的Web活动，请使用[过滤器功能](filter-web-campaigns.md)。
 
 1. 在“编辑活动”页中，设置优先级得分（9999 =最高优先级1 =最低优先级）。
 
