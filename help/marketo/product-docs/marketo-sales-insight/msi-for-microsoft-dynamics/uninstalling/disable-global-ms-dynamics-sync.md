@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 禁用全局MS Dynamics同步 {#disable-global-ms-dynamics-sync}
+# 禁用全局MS Dynamics同步{#disable-global-ms-dynamics-sync}
 
 按照以下简单步骤禁用MS Dynamics同步。
 
-1. 在Marketo中，单击“管 **理员**”。
+1. 在Marketo中，单击&#x200B;**管理**。
 
    ![](assets/one.png)
 
-1. 在“集成”下，单 **击“Microsoft Dynamics**”。
+1. 在“集成”下，单击&#x200B;**Microsoft Dynamics**。
 
    ![](assets/two.png)
 
-1. 单击 **禁用同步**。
+1. 单击&#x200B;**禁用同步**。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >如果实例中未显示“禁用同步”按钮，请与Marketto [支持联系](http://nation.marketo.com/community/support_solutions)。
+   >如果实例中未显示“禁用同步”按钮，请与[Marketo Support](http://nation.marketo.com/community/support_solutions)联系。
 
