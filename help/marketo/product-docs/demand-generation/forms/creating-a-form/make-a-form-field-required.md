@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 需要填写表单字段 {#make-a-form-field-required}
+# 需要填写表单字段{#make-a-form-field-required}
 
-在 [向表单中添加字段](add-a-field-to-a-form.md) 时，您可能希望为填写字段的人员提供其中的一些必需字段。 这是方法。
+当[将字段添加到表单](add-a-field-to-a-form.md)时，您可能希望填写这些字段的人员需要填写其中的一些字段。 这是方法。
 
-1. 转到营 **销****活动**。
+1. 转至&#x200B;**Marketing** **活动**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 选择表单，然后单击 **编辑****表单**。
+1. 选择表单，然后单击&#x200B;**编辑** **表单**。
 
    ![](assets/editform-2.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. 干得好！ 单击 **完成**。
+1. 干得好！ 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. 单击 **批准并关闭**。
+1. 单击&#x200B;**批准并关闭**。
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 >
 >**提醒**
 >
->不要忘记批准此 [表单继续](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ，以使更改生效。
+>不要忘记[批准任何登陆页](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)此表单继续运行，以使更改生效。
 
-是否需要对 [添加到表单的字段重新排序](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+您是否需要[重新排序添加到表单的字段](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
