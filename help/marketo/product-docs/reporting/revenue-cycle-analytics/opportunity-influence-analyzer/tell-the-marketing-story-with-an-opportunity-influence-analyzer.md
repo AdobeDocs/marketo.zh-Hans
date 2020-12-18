@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 用机会影响分析器讲述营销故事 {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# 使用机会影响分析器讲述营销故事{#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 使用Opportunity Influction Analyzer说明营销在重要机会中的作用。 展示营销如何影响机会，从初次接触到机会的创造和赢取，等等。
 
@@ -23,27 +23,27 @@ ht-degree: 0%
 
 
 
-1. 转到Analytics **** ，选择 **Opportunity Imflance Analyzer**。
+1. 转至&#x200B;**Analytics**&#x200B;并选择&#x200B;**Opportunity Imflence Analyzer**。
 
    ![](assets/analytics-opportunityhand.png)
 
    机会影响分析器直观地显示了该机会中所涉及的交互、项目和事件成功。 让我们浏览一下图表：
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Orange dots代** 表机会中的 [有趣时刻](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) （打开的电子邮件、展会展位访问、白皮书下载等）。 点越大，表明交互越多。
+   * ![-](assets/image2014-10-3-13-3a43-3a21.png)**Orange**  Dots代 [表](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) 机会中的有趣动机（打开的电子邮件、展会展位访问、白皮书下载等）。点越大，表明交互越多。
 
-   * ` ![--](assets/image2014-10-3-13-3a44-3a9.png)
+   * “ ![ —](assets/image2014-10-3-13-3a44-3a9.png)
 
-      “装订 **夹图标** ，指示 [项目成](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) 功。
+      “**装订器图标**&#x200B;表示[项目](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM)成功。
 
-   * ** - ![日历](assets/image2014-10-3-13-3a44-3a40.png) 图标**表示成功 [事件](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) 。
+   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png)日历图标**表示[事件](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM)成功。
 
-   * **机会期**。 绿色区域代表了从机会创造到机会结束（赢得或失去）的机会本身。
-   * **机会生命周期**。 绿色机会期前后的灰色区域显示了导致和跟踪机会的交互。
+   * **机会期**。绿色区域代表了从机会创造到机会结束（赢得或失去）的机会本身。
+   * **机会生命周期**。绿色机会期前后的灰色区域显示了导致和跟踪机会的交互。
 
-   “设 **置** ”面板列表帐户中的人员：
+   **设置**&#x200B;面板列表帐户中的人员：
 
-   * 括号 **中的数字** ，是与该联系人的交互次数。
-   * ![-](assets/image2014-10-3-13-3a45-3a9.png)黄色 **星形** 表示主联系人。
+   * 括号&#x200B;**中的**&#x200B;数字是与该联系人的交互次数。
+   * ![-](assets/image2014-10-3-13-3a45-3a9.png)黄色 **的** 开始表示主联系人。
 
 
 1. 将指针悬停在某个姓名上，即可查看该人的职位以及参与该机会的来源。
