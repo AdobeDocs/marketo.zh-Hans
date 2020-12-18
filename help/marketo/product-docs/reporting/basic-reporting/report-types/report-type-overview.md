@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 报告类型概述 {#report-type-overview}
+# 报告类型概述{#report-type-overview}
 
-在项目 [中创建报表时](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)，请选择所需的报表类型。
+当[在项目](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)中创建报告时，请选择所需的报告类型。
 
-## 最常用的报告 {#most-used-reports}
+## 使用次数最多的报告{#most-used-reports}
 
 <table> 
  <thead> 
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">按收入阶段划分的人员报表</a>  </strong></td> 
-   <td>收入模型的 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">基本报告</a>。 请参 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">阅收入周期分析</a> ，以获得更深入的报告。</td> 
+   <td><a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">收入模型</a>的基本报告。 请参阅<a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">收入周期分析</a>以获得更深入的报告。</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">登陆页性能</a>  </strong></td> 
@@ -55,7 +55,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">项目性能</a>  </strong></td> 
-   <td>基本项目指标，如成员和成功。 请参 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">阅收入周期分析</a> ，以获得更深入的报告。</td> 
+   <td>基本项目指标，如成员和成功。 请参阅<a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">收入周期分析</a>以获得更深入的报告。</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">公司Web活动</a>  </strong></td> 
@@ -71,23 +71,23 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">参与流绩效报告</a> </strong></td> 
-   <td><p>了解您的参与 <a href="http://docs.marketo.com/display/docs/drip+nurturing">项目</a> 的效果。</p></td> 
+   <td><p>了解您的<a href="http://docs.marketo.com/display/docs/drip+nurturing">参与项目</a>工作情况。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## 杂项报表 {#miscellaneous-reports}
+## 杂项报告{#miscellaneous-reports}
 
 与上述报表类型不同，但仍可用。
 
 | 报告 | 说明 |
 |---|---|
 | ** [活动活动](campaign-activity-report.md) ** | 智能活动处理统计数据。 |
-| **活动 [电子邮件性能](campaign-email-performance-report.md) ** | 电子邮件性能，按智能活动分组。 |
+| ** [活动电子邮件性能](campaign-email-performance-report.md) ** | 电子邮件性能，按智能活动分组。 |
 
 >[!NOTE]
 >
 >**深潜**
 >
->要了解这些报告可以做的所有事情，请深入 [了解基本](http://docs.marketo.com/display/docs/basic+reporting) 报告。
+>要了解这些报告可以执行的所有操作，请参见[基本报告](http://docs.marketo.com/display/docs/basic+reporting)深入探讨。
 
