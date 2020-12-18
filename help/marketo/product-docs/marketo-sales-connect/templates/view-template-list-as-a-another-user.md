@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 视图模板列表为其他用户 {#view-template-list-as-a-another-user}
+# 视图模板列表作为另一个用户{#view-template-list-as-a-another-user}
 
 作为管理员，您可以像任何用户一样视图模板。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 单击“ **模板**”。
+1. 单击&#x200B;**模板**。
 
    ![](assets/one.png)
 
-1. 单击 **视图** “为”下拉框，然后选择所需用户。
+1. 单击&#x200B;**视图As**&#x200B;下拉框并选择所需用户。
 
    ![](assets/two.png)
 
