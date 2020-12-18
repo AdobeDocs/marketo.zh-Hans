@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解应用程序内消息 {#understanding-in-app-messages}
+# 了解应用程序内消息{#understanding-in-app-messages}
 
 >[!NOTE]
 >
@@ -27,17 +27,17 @@ ht-degree: 0%
 
 在为移动应用程序创建和发送应用程序内消息之前，您需要Marketo Admin和移动应用程序开发人员执行一些设置。  生成应用程序内消息的过程有三个步骤：
 
-## 第1步：管理员和开发人员执行初始设置 {#step-admin-and-developer-perform-initial-setups}
+## 第1步：管理员和开发人员执行初始设置{#step-admin-and-developer-perform-initial-setups}
 
-营销人员管理员和移动应用程序开发人员携手为您进行设置。 有关 [详细信息，请参阅创建推送通知和应用程序内消息](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) 。
+营销人员管理员和移动应用程序开发人员携手为您进行设置。 有关详细信息，请参阅[创建推送通知和应用程序内消息](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)之前。
 
-## 第2步：创建应用程序内消息 {#step-create-an-in-app-message}
+## 第2步：创建应用程序内消息{#step-create-an-in-app-message}
 
-您 [可以使用联机编辑器创建应用](http://docs.marketo.com/display/docs/create+an+in-app+message) 程序内消息。
+您使用联机编辑器[创建应用程序内消息](http://docs.marketo.com/display/docs/create+an+in-app+message)。
 
-## 第3步：发送！ {#step-send}
+## 第3步：发送！{#step-send}
 
-您将创建一个项目 [来发送消息](http://docs.marketo.com/display/docs/send+your+in-app+message)。
+创建项目以[发送消息](http://docs.marketo.com/display/docs/send+your+in-app+message)。
 
 你在路上。
 
