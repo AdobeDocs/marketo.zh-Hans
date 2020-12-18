@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 设置“取消”按钮并批准消息 {#set-up-the-dismiss-button-and-approve-the-message}
+# 设置“取消”按钮并批准消息{#set-up-the-dismiss-button-and-approve-the-message}
 
-## 配置“取消”按钮属性  {#configure-dismiss-button-properties}
+## 配置“关闭”按钮属性{#configure-dismiss-button-properties}
 
 “取消”按钮有许多选项，允许您按所需方式配置它。
 
@@ -45,11 +45,11 @@ ht-degree: 0%
    >
    >您必须为“取消”按钮设置点击操作，因此没有复选框可启用它。 “取消消息”是默认（且显然）选项。
 
-## 总结 {#wrap-it-up}
+## 将其打包{#wrap-it-up}
 
 您为图形、文本和按钮所做的所有选择已自动保存。 现在，你已经准备好完成工作了。
 
-1. 要预览应用程序内消息，请单击“消 **息操作** ”下拉框，然后选 **择预览**。
+1. 要预览应用程序内消息，请单击&#x200B;**消息操作**&#x200B;下拉框，然后选择&#x200B;**预览**。
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. 如果您对应用程序内消息感到满意，请单击“批准并 **关闭”**。
+1. 如果您对应用程序内消息感到满意，请单击&#x200B;**批准并关闭**。
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >您也可以从“ **消息操作** ”下拉菜单中选择“批准并关闭”（请参阅步骤1），但为何不首先预览消息，以确保安全？
+   >您还可以直接从“消息操作”下拉框中选择&#x200B;**批准并关闭**（请参阅步骤1），但为什么不先预览消息，以确保安全？
 
 1. 要关闭编辑器而不进行批准，只需关闭选项卡。 它已自动保存，因此您可以稍后返回并批准它。
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 有这么多选择，但现在您有一条精美的应用程序内消息，随时可用！
 
-现在是时候发 [送消息了](http://docs.marketo.com/display/docs/send+your+in-app+message)。
+现在是时候[发送消息](http://docs.marketo.com/display/docs/send+your+in-app+message)了。
 
 >[!MORELIKETHIS]
 >
