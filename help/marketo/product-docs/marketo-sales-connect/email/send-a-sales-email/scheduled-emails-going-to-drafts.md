@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# 转至草稿的计划电子邮件 {#scheduled-emails-going-to-drafts}
+# 转至草稿的预定电子邮件{#scheduled-emails-going-to-drafts}
 
 当您在Gmail中计划电子邮件时，它应将您的电子邮件保存到“草稿”文件夹，直到它发送。 没有什么问题，但由于我们如何与Gmail集成，这是对定时电子邮件的限制。
 
-在预定时间后，电子邮件会从草稿移至已发送。 您可以看到电子邮件已在Web应用程 [序中排](http://toutapp.com/login)定，并且它还应该有标签“输出已排定的电子邮件”。
+在预定时间后，电子邮件会从草稿移至已发送。 您可以看到电子邮件已在[Web应用程序](http://toutapp.com/login)中计划，并且它还应该有标签“输出计划电子邮件”。
 
-或者，您始终可以从Web应 [用程序计划](http://toutapp.com/login)，而且电子邮件不会显示在您的Gmail草稿文件夹中。
+或者，您始终可以从[web应用程序](http://toutapp.com/login)进行计划，而且电子邮件不会显示在您的Gmail草稿文件夹中。
