@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 了解项目机会分析区 {#understanding-the-program-opportunity-analysis-area}
+# 了解项目机会分析区域{#understanding-the-program-opportunity-analysis-area}
 
-## 概述 {#overview}
+## 概述{#overview}
 
 项目机会分析区域允许您分析各个项目的有效性或按项目渠道查看汇总结果。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/four-1.png)
 
-## 项目机会分析归因度量（蓝点） {#program-opportunity-analysis-attribution-measures-blue-dots}
+## 项目机会分析归因度量（蓝点）{#program-opportunity-analysis-attribution-measures-blue-dots}
 
 分析中可用的度量通常是数字，用蓝点表示。 Dimension是给出不同视图度量的属性，由黄色圆点表示。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 * 成功相关指标，可接收多触归因(MT)。
 * 与项目相关的其他衡量指标，包括创建或关闭Opportunity之前的平均营销接触次数。
 
-## 赢取与成功相关的措施 {#acquisition-and-success-related-measures}
+## 赢取和成功相关指标{#acquisition-and-success-related-measures}
 
 与收购相关的措施会归功于首次获得潜在客户联系信息的项目。 潜在客户不必在要授予收购信用的项目取得成功。
 
@@ -120,7 +120,7 @@ ht-degree: 0%
 
 Marketo在不计多次的情况下为项目提供适当的信用机会。 因此，在本例中，每个项目都收到0.5个机会单位。 也就是说，每个项目都会收到生成的Opportunity的一半信用。 此外，与Opportunity关联的收入的一半分配给每个项目。
 
-## 与项目有关的杂项措施 {#miscellaneous-program-related-measures}
+## 杂项项目相关措施{#miscellaneous-program-related-measures}
 
 现有的其他衡量标准反映了项目的总体业绩。
 
@@ -157,7 +157,7 @@ Marketo在不计多次的情况下为项目提供适当的信用机会。 因此
  </tbody> 
 </table>
 
-## 项目机会分析Dimension（黄点） {#program-opportunity-analysis-dimensions-yellow-dots}
+## 项目机会分析Dimension（黄点）{#program-opportunity-analysis-dimensions-yellow-dots}
 
 度量（蓝点）是计算的，需要一些思考和解释才能使用，而维（黄点）是描述性的。 以下是可用尺寸。
 
@@ -169,15 +169,15 @@ Marketo在不计多次的情况下为项目提供适当的信用机会。 因此
   </tr> 
   <tr> 
    <td>机会属性</td> 
-   <td><p>Opportunity<br>ClosedOpportunity Name*<br>Opportunity Owner<br>NameOpportunity<br>StageOpportunity类型</p></td> 
+   <td><p>Opportunity Closed<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</p></td> 
   </tr> 
   <tr> 
    <td>机会时间范围</td> 
-   <td><p>Opportunity Closed Year/Quarter/<br>MonthOpportunity Created Year/Quarter/Month</p></td> 
+   <td><p>Opportunity Closed Year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</p></td> 
   </tr> 
   <tr> 
    <td>项目属性</td> 
-   <td><p>项目<br>渠道计划名称</p></td> 
+   <td><p>项目渠道<br>项目名称</p></td> 
   </tr> 
   <tr> 
    <td>项目成本时间范围</td> 
@@ -186,7 +186,7 @@ Marketo在不计多次的情况下为项目提供适当的信用机会。 因此
  </tbody> 
 </table>
 
-**为项目提供任何类型归因的所有Opportunity。 机会可能受到一个或多个线索以及一个或多个项目的影响。*
+**为项目提供任何类型归因的所有Opportunity。机会可能受到一个或多个线索和一个或多个项目的影响。*
 
 >[!MORELIKETHIS]
 >
