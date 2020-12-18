@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 双方同意设置 {#two-party-consent-settings}
+# 双方同意设置{#two-party-consent-settings}
 
 为了确保在录制呼叫时遵守美国双方同意法，作为管理员，您可以启用预先录制的您选择的消息在录制呼叫开始时播放。
 
 >[!PREREQUISITES]
 >
->在执行以下步骤之前，必须先启用 [呼叫录制。](http://docs.marketo.com/x/dAC1Ag)
+>在执行以下步骤之前，必须先[启用呼叫记录。](http://docs.marketo.com/x/dAC1Ag)
 
-1. 单击“设置”图标，然后选择“ **设置**”。
+1. 单击“设置”图标，然后选择“设置”**。**
 
    ![](assets/one-1.png)
 
-1. 在“管理员设置”下，单击“ **常规**”。
+1. 在“管理员设置”下，单击&#x200B;**“常规”**。
 
    ![](assets/two-1.png)
 
-1. 向下滚动到“Sales Connect Phone Settings（销售连接电话设置）”并单击“ **Manage recording notice（管理录制声明）**”。
+1. 向下滚动到“Sales Connect Phone Settings（销售连接电话设置）”并单击“Manage recording notice（管理录制声明）”**。**
 
    ![](assets/three-1.png)
 
-1. 单击“ **导入录制内容**”。
+1. 单击&#x200B;**导入录制**。
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 上传完成后，在文件管理器中选择数据（三个点），然后单击“选 **择为同意声明”**。 完成后 **单击** “确定”。
+1. 上传完成后，在文件管理器中选择数据（三个点），然后单击&#x200B;**选择作为同意声明**。 完成后，单击&#x200B;**确定**。
 
    ![](assets/six.png)
 
