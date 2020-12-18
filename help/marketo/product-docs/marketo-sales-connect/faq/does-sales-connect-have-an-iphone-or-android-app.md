@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sales Connect是否具有iPhone或Android应用程序？ {#does-sales-connect-have-an-iphone-or-android-app}
+# Sales Connect是否具有iPhone或Android应用程序？{#does-sales-connect-have-an-iphone-or-android-app}
 
 目前，Sales Connect没有iPhone或Android应用程序。 这是我们希望在未来增加的。
 
