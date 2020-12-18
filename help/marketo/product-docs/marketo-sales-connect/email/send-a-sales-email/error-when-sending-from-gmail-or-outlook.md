@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 从Gmail或Outlook发送时出错 {#error-when-sending-from-gmail-or-outlook}
+# 从Gmail或Outlook {#error-when-sending-from-gmail-or-outlook}发送时出错
 
 从Outlook或Gmail发送时，接收错误的最常见原因不在于Add-In/Extension的最新版本。
 
