@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将Google客户匹配添加为LaunchPoint服务 {#add-google-customer-match-as-a-launchpoint-service}
+# 将Google客户匹配添加为LaunchPoint服务{#add-google-customer-match-as-a-launchpoint-service}
 
 通过此集成，您可以将Marketo受众发送到Google，以便使用Google AdWords进行定位，以及在YouTube、Search和Gmail中重新目标受众。
 
@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转至管 **理**。
+1. 转至&#x200B;**Admin**。
 
    ![](assets/admin.png)
 
-1. 单击 **LaunchPoint**。
+1. 单击&#x200B;**LaunchPoint**。
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 选 **择** “新建”，然后**“新建服务”**。
+1. 选择&#x200B;**新建**，然后选择**新建服务**。
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 输入**显示名称 **，并从** “服务”下拉框中选 **择** “Google客户匹配”**。 单击 **创建**。
+1. 输入**显示名称&#x200B;**，并从**&#x200B;服务&#x200B;**下拉列表中选择** Google客户匹配**。 单击&#x200B;**创建**。
 
    ![](assets/chooseservice.png)
 
-1. 要连接Google AdWords帐户，请单击“授 **权”**。
+1. 要连接Google AdWords帐户，请单击&#x200B;**授权**。
 
    ![](assets/authorizeaccount-1.png)
 
@@ -43,15 +43,15 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >为了Market能够在多个AdWords帐户中发送受众，您通过以下步骤授权的Google用户需要有权访问 *所有* 这些帐户。
+   >为了Market能够跨多个AdWords帐户发送受众，您在以下步骤授权的Google用户需要有权访问这些帐户的&#x200B;*all*。
 
    ![](assets/chooseaccount.png)
 
-1. 查看请求的权限，然后单击“ **允许**”。
+1. 查看请求的权限，然后单击“允许”。****
 
    ![](assets/reviewpermissions.png)
 
-1. 您的Google AdWords帐户现已连接到Marketo。 单击 **创建**。
+1. 您的Google AdWords帐户现已连接到Marketo。 单击&#x200B;**创建**。
 
    ![](assets/authorizesuccess.png)
 
