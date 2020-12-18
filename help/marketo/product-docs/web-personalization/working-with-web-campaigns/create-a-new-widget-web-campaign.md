@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 创建新的构件Web活动 {#create-a-new-widget-web-campaign}
+# 创建新的构件Web活动{#create-a-new-widget-web-campaign}
 
-Web活动是与特定区段关联的自定义反应，可以是 [您网站](create-a-new-dialog-web-campaign.md) 、区域 [替换、构件功](create-a-new-in-zone-web-campaign.md)能或电子邮件警报。 构件Web活动是在网页的垂直侧显示的文本或横幅，能够扩展和收缩，而在整个访问过程中，该文本或横幅在网页上保持不变。
+Web活动是与特定段关联的自定义反应，可以是网站上的[对话框](create-a-new-dialog-web-campaign.md)、区域替换](create-a-new-in-zone-web-campaign.md)中的[、构件功能或电子邮件警报。 构件Web活动是在网页的垂直侧显示的文本或横幅，能够扩展和收缩，而在整个访问过程中，该文本或横幅在网页上保持不变。
 
-## 创建构件Web活动 {#create-a-widget-web-campaign}
+## 创建构件Web活动{#create-a-widget-web-campaign}
 
-1. 转到 **Web活动**。
+1. 转至&#x200B;**Web活动**。
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. 选 **择“新建Web活动**”。
+1. 选择&#x200B;**新建Web活动**。
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. 选择构 **件** 活动类型。
+1. 选择&#x200B;**构件**&#x200B;活动类型。
 
    ![](assets/3.png)
 
@@ -51,7 +51,7 @@ Web活动是与特定区段关联的自定义反应，可以是 [您网站](crea
   </tr> 
   <tr> 
    <td colspan="1"><strong>显示于</strong></td> 
-   <td colspan="1">允许您自 <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">定义Web活动的显</a> 示时间和显示方式。</td> 
+   <td colspan="1">允许您<a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">自定义何时以及如何</a>显示您的Web活动。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>将输入／输出动画</strong></td> 
@@ -67,7 +67,7 @@ Web活动是与特定区段关联的自定义反应，可以是 [您网站](crea
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>构件按钮</strong><br></p></td> 
-   <td colspan="1" rowspan="1">自定义构件按钮本身。<br>箭头：允许您从右下拉菜单中的多个不同图标中进行选择。 左下拉框决定其颜色。<br>自定义：插入任何托管图像的URL。 接受的文件类型- .JPEG、 .GIF（包括动画）、 .PNG、 .APNG、 .SVG、 .BMP。<br>文本：构件可以是文本——自定义其颜色、大小和字体。</td> 
+   <td colspan="1" rowspan="1">自定义构件按钮本身。<br>箭头：允许您从右下拉菜单中的多个不同图标中进行选择。左下拉框决定其颜色。<br>自定义：插入任何托管图像的URL。接受的文件类型- .JPEG、 .GIF（包括动画）、 .PNG、 .APNG、 .SVG、 .BMP。<br>文本：构件可以是文本——自定义其颜色、大小和字体。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>粘贴</strong></td> 
@@ -83,10 +83,10 @@ Web活动是与特定区段关联的自定义反应，可以是 [您网站](crea
   </tr> 
   <tr> 
    <td colspan="1"><strong>预览现场 </strong></td> 
-   <td colspan="1">预览活动在启动之前。<br> 
+   <td colspan="1">预览活动启动之前。<br> 
     <ul> 
      <li>URL —— 输入活动将运行的示例URL，查看预览的实时外观示例。</li> 
-     <li>预览- <strong>单 </strong>击预览以打开示例URL的新窗口，查看活动的反应(添加Chrome扩 <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">展</a> ，以获得最佳Web活动预览体验。) </li> 
+     <li>预览-单击<strong>预览</strong>以打开示例URL的新窗口，了解活动的反应(添加<a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome扩展</a>以获得最佳Web活动预览体验。) </li> 
      <li>共享——使用“共享”按钮向同事发送电子邮件，并提供链接以查看代理活动。</li> 
     </ul></td> 
   </tr> 
@@ -95,29 +95,29 @@ Web活动是与特定区段关联的自定义反应，可以是 [您网站](crea
 
 >[!NOTE]
 >
->**要A/B测试您的Web活动?** 可以对一个或多个Web活动 [进行A/B测试以获得最佳结果](ab-test-your-web-campaign.md)。 利用自动调整功能，平台可自动识别性能更好的活动，继续保持转换率最高的活动，并暂停其他。
+>**要A/B测试您的Web活动?** 可以对一个或多个Web活动 [进行A/B测试以获得最佳结果](ab-test-your-web-campaign.md)。利用自动调整功能，平台可自动识别性能更好的活动，继续保持转换率最高的活动，并暂停其他。
 
-## 编辑Web活动 {#edit-a-web-campaign}
+## 编辑Web活动{#edit-a-web-campaign}
 
-在Web活动页面中，单 **击** 活动上的编辑。
+在“Web活动”页中，单击活动上的&#x200B;**编辑**。
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->要更轻松地找到所需的活动，请使用筛 [选功能](filter-web-campaigns.md)。
+>要更轻松地找到所需活动，请使用[过滤器功能](filter-web-campaigns.md)。
 
-## 克隆Web活动 {#clone-a-web-campaign}
+## 克隆Web活动{#clone-a-web-campaign}
 
-请参 [阅克隆Web活动](clone-a-web-campaign.md)。
+请参阅[克隆Web活动](clone-a-web-campaign.md)。
 
-## 预览Web活动 {#preview-a-web-campaign}
+## 预览Web活动{#preview-a-web-campaign}
 
-从Web活动页面，单 **击** Web预览上要预览的活动
+在“Web活动”页面中，单击要预览的Web活动上的&#x200B;**预览**
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## 删除Web活动 {#delete-a-web-campaign}
+## 删除Web活动{#delete-a-web-campaign}
 
 1. 在网页活动页中，单击要删除的网页活动上的**删除**。
 
