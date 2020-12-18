@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 为什么我的所有联系人都没有被推送到Sales Connect? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
+# 为什么我的所有联系人都没有被推送到Sales Connect?{#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
 
 如果只有某些联系人在推送，则您的公司的Salesforce实例中可能未标记为“选择退出email”的联系人。
 
