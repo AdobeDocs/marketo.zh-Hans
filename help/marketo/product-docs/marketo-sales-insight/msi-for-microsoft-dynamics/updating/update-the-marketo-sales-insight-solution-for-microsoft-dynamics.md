@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到“管 **理** ”区域。
+1. 转至&#x200B;**Admin**&#x200B;区域。
 
    ![](assets/mainnavhand.png)
 
-1. 单击 **Microsoft Dynamics**。
+1. 单击&#x200B;**Microsoft Dynamics**。
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 选择 **下载Marketo解决方案**。
+1. 选择&#x200B;**下载Marketo Solution**。
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
