@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 按区段分组电子邮件报告 {#group-email-reports-by-segmentations}
+# 按区段分组电子邮件报告{#group-email-reports-by-segmentations}
 
-分段不仅适用于动态内容。 您还可以按 [细分对电子邮件](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)[性能报](http://docs.marketo.com/display/docs/segmentation+and+snippets)告进行分组。
+分段不仅适用于动态内容。 您也可以将[电子邮件性能报告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)按[分段](http://docs.marketo.com/display/docs/segmentation+and+snippets)进行分组。
 
 >[!PREREQUISITES]
 >
@@ -23,27 +23,27 @@ ht-degree: 0%
 
 
 
-1. 转到“营 **销活动** ”(或 **“分析**”)区域。
+1. 转至&#x200B;**营销活动**（或&#x200B;**分析**）区域。
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. 选择您的“电 **子邮件性能** ”报告。
+1. 选择&#x200B;**电子邮件性能**&#x200B;报告。
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. 单击“设 **置** ”选项卡，并拖 **动到“按细分组”上**。
+1. 单击&#x200B;**Setup**&#x200B;选项卡，并将其拖至&#x200B;**Group by Segmentations**&#x200B;上。
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. 选择一个或两个分段，用于对报表进行分组。 单击 **应用**。
+1. 选择一个或两个分段，用于对报表进行分组。 单击&#x200B;**APPLY**。
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. 就这样！ 单击“报 **告** ”选项卡。 如果您使用一个细分，则报表会为每个细分显示一行。
+1. 就这样！ 单击&#x200B;**报告**&#x200B;选项卡。 如果您使用一个细分，则报表会为每个细分显示一行。
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. 如果您使用两个区段，它会为每个区段组合显示 *一行* 。
+1. 如果您使用两个区段，它会为每个&#x200B;*组合*&#x200B;区段显示一行。
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
