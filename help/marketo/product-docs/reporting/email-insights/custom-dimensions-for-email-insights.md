@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 电子邮件洞察的自定义Dimension {#custom-dimensions-for-email-insights}
+# 电子邮件洞察的自定义Dimension{#custom-dimensions-for-email-insights}
 
 包含所有标准Marketo维，但您可以选择最多添加10个自定义维。 自定义维由细分和项目标签组成。 下面将介绍如何添加它们。
 
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->无法删 **除或替** 换自定义尺寸，请谨慎选择10。
+>自定义尺寸&#x200B;**不能**&#x200B;被删除或替换，请谨慎选择10。
 
 1. 在电子邮件分析中，单击页面右上角的齿轮图标。
 
    ![](assets/cd1.png)
 
-1. 单击 **系统**。
+1. 单击&#x200B;**系统**。
 
    ![](assets/cd2.png)
 
-1. 单击“ **添加** ”维 **旁边的+**。
+1. 单击&#x200B;**添加维度**&#x200B;旁边的&#x200B;**+**。
 
    ![](assets/cd3.png)
 
