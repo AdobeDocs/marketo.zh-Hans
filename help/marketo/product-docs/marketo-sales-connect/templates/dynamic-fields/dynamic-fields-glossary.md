@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 动态字段词汇表 {#dynamic-fields-glossary}
+# 动态字段术语表{#dynamic-fields-glossary}
 
-在Sales Connect中创建模板时，我们始终建议使用“MSE动态字段”按 **钮集成动态字段** 。
+在Sales Connect中创建模板时，我们始终建议使用&#x200B;**MSE Dynamic Fields**&#x200B;按钮集成动态字段。
 
-此工具可 `auto-personalize your email` 以帮您节省大量时间 `pulling information from the People page`。
+此工具用于`auto-personalize your email`并通过`pulling information from the People page`节省大量时间。
 
 | 动态字段 | 电子邮件中显示的示例 |
 |---|---|
@@ -30,12 +30,12 @@ ht-degree: 0%
 
 **注意事项**:
 
-* 如果联系人的 `information is entered incorrectly` 或在“人员”页面中缺失，则该联系人 `will not pull over correctly` 会进入模板。
+* 如果联系人的`information is entered incorrectly`或“人员”页面中缺少联系人，则该联系人`will not pull over correctly`将进入您的模板。
 
-* 不同之 `{{company}}` 处 `{{company_friendly}}` 在于， `{{company_friendly}}``remove any formal title`将（如Inc.、 LLC等）从您联系人的公司名称中删除。
-* 使用时， `{{company_friendly}}`请确保在联系人详细信息中以逗号分隔Inc.或Co.。 这就是Sales Connect在提取值时如何删除的方法。
+* `{{company}}`和`{{company_friendly}}`之间的区别在于，`{{company_friendly}}`将从联系人的公司名称中`remove any formal title`（如Inc.、LLC等）。
+* 使用`{{company_friendly}}`时，请确保在联系人详细信息中以逗号分隔Inc.或Co.。 这就是Sales Connect在提取值时如何删除的方法。
 
 >[!TIP]
 >
->您可以为想要自动 [加入电子邮件](http://docs.marketo.com/x/fADb) ，创建您自己的自定义动态字段
+>您可以为想要自动添加到电子邮件中的任何内容创建自己的[自定义动态字段](http://docs.marketo.com/x/fADb)
 
