@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 分段顺序优先级 {#segmentation-order-priority}
+# 分段顺序优先级{#segmentation-order-priority}
 
-了解在细分中如何 **设置** “评估人员”的优先级非常重要。
+了解&#x200B;**order**&#x200B;如何设置细分中人员评估的优先级非常重要。
 
 >[!PREREQUISITES]
 >
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 
 
-1. 转到数 **据库**。
+1. 转到&#x200B;**Database**。
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. 选择您的 **分段**。 在分 **段操作中**，单击 **编辑区段**。
+1. 选择&#x200B;**分段**。 在&#x200B;**分段操作**&#x200B;中，单击&#x200B;**编辑区段**。
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 
 
-很酷吧？ 您可以将区段用于动态内容 [、报告](http://docs.marketo.com/display/docs/basic+reporting) ，甚至 [智能列表](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
+很酷吧？ 您可以将区段用于动态内容，[报告](http://docs.marketo.com/display/docs/basic+reporting)，甚至在[智能列表](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)中。
 
