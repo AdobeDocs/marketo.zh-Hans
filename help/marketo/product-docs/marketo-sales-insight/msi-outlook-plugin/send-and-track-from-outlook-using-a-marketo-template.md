@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 使用Marketo模板从Outlook发送和跟踪 {#send-and-track-from-outlook-using-a-marketo-template}
+# 使用Marketo模板{#send-and-track-from-outlook-using-a-marketo-template}从Outlook发送和跟踪
 
 如果您的营销团队已经向您提供模板，那么您可以在编写电子邮件时使用模板来节省时间。
 
-1. 打开Microsoft Outlook并单击“Marketo **Message”（营销消息）**。
+1. 打开Microsoft Outlook，然后单击&#x200B;**Marketo Message**。
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. 选择所需的模板，预览它，然后单击“确 **定”**。
+1. 选择所需的模板，预览它，然后单击&#x200B;**确定**。
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. 进行所有编辑，然后单击“ **发送并跟踪”**。
+1. 进行所有编辑，然后单击&#x200B;**发送并跟踪**。
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >插件不支持令牌。 删除模板中可能包含的所有内容。
 
-1. 查看预览，确保其显示良好，然后单击“发 **送”**。
+1. 查看预览，确保其显示良好，然后单击&#x200B;**发送**。
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
