@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 取消订阅历史记录卡 {#unsubscribe-history-card}
+# 取消订阅历史卡{#unsubscribe-history-card}
 
 取消订阅历史记录卡可帮助管理员和用户获取有关其联系人取消订阅历史记录的上下文信息。
 
