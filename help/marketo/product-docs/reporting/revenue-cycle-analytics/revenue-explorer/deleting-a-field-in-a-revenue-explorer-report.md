@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 删除收入浏览器报表中的字段 {#deleting-a-field-in-a-revenue-explorer-report}
+# 删除收入浏览器报表{#deleting-a-field-in-a-revenue-explorer-report}中的字段
 
 有时，您可能会将错误的字段拖入报表。 下面是如何删除它：
 
-1. 将要删除的字段拖至报 **表右** 下方的垃圾桶图标。
+1. 将要删除的字段拖到报表右下方的&#x200B;**垃圾桶**&#x200B;图标。
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
