@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在Salesforce中查看潜在客户源1 {#seeing-lead-feed-in-salesforce}
+# 查看Salesforce1中的潜在客户源{#seeing-lead-feed-in-salesforce}
 
 潜在客户源是由您的潜在客户完成的最新列表，包含有趣的事件。
 
-1. 转到Salesforce1 **中的** Marketo区域。
+1. 转到Salesforce1中的&#x200B;**Marketo**&#x200B;区域。
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. 点按 **潜在客户源**。
+1. 点按&#x200B;**潜在客户源**。
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
