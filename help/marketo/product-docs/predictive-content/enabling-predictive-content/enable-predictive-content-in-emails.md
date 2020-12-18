@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在电子邮件中启用预测性内容 {#enable-predictive-content-in-emails}
+# 在电子邮件{#enable-predictive-content-in-emails}中启用预测性内容
 
 在您的电子邮件中制作一个或多个图像，为每个收件人定制体验。
 
@@ -27,21 +27,21 @@ ht-degree: 0%
 >* [批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-## 使用Email 2.0 Editor添加预测性内容 {#adding-predictive-content-using-the-email-editor}
+## 使用Email 2.0 Editor {#adding-predictive-content-using-the-email-editor}添加预测内容
 
-1. 单击 **营销活动**。
+1. 单击&#x200B;**营销活动**。
 
    ![](assets/one.png)
 
-1. 选择您的电子邮件，然后单 **击“编辑草稿**”。
+1. 选择您的电子邮件，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/two.png)
 
-1. 单击要进行预测的图像。 出现齿轮图标时，单击该图标并选 **择“启用内容`AI`** ”(“内容`AI` ”是“预测内容”的前一个名称)。
+1. 单击要进行预测的图像。 出现齿轮图标时，单击它并选择&#x200B;**启用内容`AI`**（内容`AI`是前面的预测内容名称）。
 
    ![](assets/three.png)
 
-1. 要选择一个或多个类别，请单 **击** “类别”下拉框 **，进行选择，然后单击“应**&#x200B;用”。
+1. 要选择一个或多个类别，请单击&#x200B;**类别**&#x200B;下拉框，进行选择，然后单击&#x200B;**应用**。
 
    ![](assets/four.png)
 
@@ -53,19 +53,19 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 要预览电子邮件，请 **单击** 右上角的“预览”。
+1. 要预览电子邮件，请单击右上角的&#x200B;**预览**。
 
    ![](assets/six.png)
 
-1. 要视图不同的可能图像，请单击“ **刷新**”。
+1. 要视图不同的可能图像，请单击&#x200B;**刷新**。
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >在收件人打开电子 **_邮件之前，不会选择图像_**。 所以你在预览中看到的只是一个例子，它不一定是收件人看到的图像。
+   >直到收件人打开电子邮件&#x200B;_**后，才会选择**_&#x200B;图像。 所以你在预览中看到的只是一个例子，它不一定是收件人看到的图像。
 
-1. 预览完电子邮件后，单击“预览操 **作** ”下拉框，然 **后选择批准并关闭**。 或者，如果您仍需要编辑，请单击右 **侧的“编辑** 草稿”。
+1. 预览完电子邮件后，单击&#x200B;**预览操作**&#x200B;下拉框，然后选择&#x200B;**批准并关闭**。 或者，如果您还需要编辑，请单击右侧的&#x200B;**编辑草稿**。
 
    ![](assets/eight.png)
 
@@ -79,11 +79,11 @@ ht-degree: 0%
 >
 >收件人打开电子邮件后，预测图像即被锁定。 如果稍后删除内容，收件人将看到内容所在的损坏图像。
 
-## 不使用Email 2.0编辑器时添加预测内容 {#adding-predictive-content-when-not-using-the-email-editor}
+## 在不使用Email 2.0编辑器{#adding-predictive-content-when-not-using-the-email-editor}时添加预测内容
 
-如果您没有使用Email 2. [0模板](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) ，则只需将模板中的图像标记为Marketo可编辑的图像元素，即可在电子邮件中添加预测内容。
+如果您没有使用[电子邮件2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)模板，则只需将模板中的图像标记为Marketo可编辑的图像元素，即可向电子邮件中添加预测内容。
 
-单击此处了 [解特定于Marketo的语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements)。
+单击此处了解[特定于Marketo的语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements)。
 
 以下是代码的外观示例（这只是一个示例，不要完全复制下面的代码）。
 
