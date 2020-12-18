@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 筛选电子邮件报告中的资产 {#filter-assets-in-an-email-report}
+# 过滤电子邮件报告中的资产{#filter-assets-in-an-email-report}
 
-将“电 [子邮件性](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 能 [](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) ”或“电子邮件链接性能”报告重点放在项目（“本地资产”）、Design Studio（“全局资产”）或已存档的电子邮件上。
+将[电子邮件性能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)或[电子邮件链接性能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)报告集中在项目（“本地资产”）、Design Studio（“全局资产”）或已存档的电子邮件上。
 
-1. 转到 **Analytics** (或营 **销活动**)区域。
+1. 转至&#x200B;**Analytics**(或&#x200B;**营销活动**)区域。
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. 单击“设 **置** ”选项卡，然后拖动到过滤器上。
+1. 单击&#x200B;**设置**&#x200B;选项卡并拖动到过滤器上。
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >如果选择文件夹，则报表将包含运行报表时该文件夹包含的所有内容。
 
-1. 你完了！ 单击报 **告** 选项卡以查看筛选的报告。
+1. 你完了！ 单击&#x200B;**Report**&#x200B;选项卡以查看已过滤的报告。
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 
@@ -55,5 +55,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->了解有关基本报告中 [的报告](http://docs.marketo.com/display/docs/basic+reporting)。
+>了解[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中的所有报告。
 
