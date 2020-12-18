@@ -11,28 +11,28 @@ ht-degree: 0%
 ---
 
 
-# 公司Web活动报告 {#company-web-activity-report}
+# 公司Web活动报告{#company-web-activity-report}
 
 查看哪些公司正在访问您的网站。 您可以选择显示已知或匿名访客，但不能同时显示同一报告中的两者。
 
-创建网 [页活动报告](web-page-activity-report.md) ，查看访问您网站的个人。
+创建[网页活动报告](web-page-activity-report.md)以查看正在访问您网站的个人。
 
 >[!PREREQUISITES]
 >
->要在Marketo中从您的网站捕获活动，您首先需要在 [您的网站上设置Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
+>要在Marketo中从您的网站捕获活动，您首先需要在您的网站](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)上设置[ Munchkin。
 
-1. [创建报告](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，然后选择公司Web活动报告 [类型](report-type-overview.md)。
-1. 选择在报 [告中显示已知或匿名](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) 人员。
-1. [设置报告的时间范围](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然后单击“报 **告** ”选项卡。
+1. [创建报](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 告，然后选择公司Web活动报  [告类型](report-type-overview.md)。
+1. 选择[在报告中显示已知或匿名人员](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports)。
+1. [设置报告的时间范](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 围，然后单击报 **** 告选项卡。
 1. 就这样！ 查看您的报告，了解哪些公司正在访问您的网站。
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >要查找访问您网站的公司，请对页面 [视图列中的报](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 表排 *序，然后选* 择降序排序 ****。
+   >要查找访问您网站的公司，请对](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)页面视图&#x200B;*列上的报表[进行排序，然后选择*&#x200B;降序排序&#x200B;**。**
 
-   [可以为公司Web活动报](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 告选择的列包括：
+   [可为公司Web](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 活动报告选择的列包括：
 
 <table> 
  <thead> 
@@ -44,11 +44,11 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>公司</td> 
-   <td>访客的公司。<br> <strong>以粗体显示</strong> 的姓名至少由一人确认为公司姓名。</td> 
+   <td>访客的公司。<br> <strong>至少</strong> 有一人确认公司姓名。</td> 
   </tr> 
   <tr> 
    <td>推断公司或ISP</td> 
-   <td>公司，根据访客的IP地址推断。 <br> <strong>以粗体表示</strong> ，这是公司，而非ISP。 </td> 
+   <td>公司，根据访客的IP地址推断。 <br> <strong>署名</strong> 为公司，而非ISP。 </td> 
   </tr> 
   <tr> 
    <td>页面视图</td> 
@@ -80,4 +80,4 @@ ht-degree: 0%
 >
 >**深潜**
 >
->深入了解基本报告中的其 [他有趣报](http://docs.marketo.com/display/docs/basic+reporting) 告。
+>在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)深入篇中了解其他有趣的报告。
