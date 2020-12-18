@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在智能过滤器中使用细分列表 {#use-segment-filters-in-a-smart-list}
+# 在智能过滤器{#use-segment-filters-in-a-smart-list}中使用列表
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 使用细分列表优化智能过滤器性能。
 
-1. 在您创建的智能列表中，搜索单 **词**“区段”，拖放过滤器。
+1. 在您创建的智能列表中，搜索单词&#x200B;**区段**，拖放过滤器。
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 
