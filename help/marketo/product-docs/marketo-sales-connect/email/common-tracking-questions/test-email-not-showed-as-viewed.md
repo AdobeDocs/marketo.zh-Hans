@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 测试电子邮件未显示为已查看 {#test-email-not-showed-as-viewed}
+# 测试电子邮件未显示为已查看{#test-email-not-showed-as-viewed}
 
 即使您将消息发送到其他电子邮件地址，我们也不会记录您查看您在实时源中发送给自己的任何电子邮件。 我们的跟踪基于设备；只要您使用已登录Sales Connect的计算机，我们就会过滤掉该活动。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 下面介绍如何到达我们唯一展示自我追踪的地方。
 
-1. 去指挥 [中心](http://toutapp.com/next#emails/command_center)。
+1. 转到[命令中心](http://toutapp.com/next#emails/command_center)。
 1. 在“已发送”文件夹中查找您自己发送的电子邮件并将其选中。
-1. 单击“详细 **信息** ”按钮。 你应该看到自己的视图出现在那里。
+1. 单击&#x200B;**详细信息**&#x200B;按钮。 你应该看到自己的视图出现在那里。
 
