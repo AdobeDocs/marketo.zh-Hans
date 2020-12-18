@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 向潜在客户报表添加业务机会列 {#add-opportunity-columns-to-a-lead-report}
+# 向潜在客户报告{#add-opportunity-columns-to-a-lead-report}添加业务机会列
 
-要查看人员报告中有关机会的 [统计信息](http://docs.marketo.com/display/docs/basic+reporting)，您可以添加机会列。
+要查看[人员报告](http://docs.marketo.com/display/docs/basic+reporting)中有关机会的统计信息，可添加机会列。
 
-1. 转到“营销 **活动** ”区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/ma.png)
 
-1. 从导航树中选择您的报告，然后单击“设 **置”** 选项卡。
+1. 从导航树中选择您的报告，然后单击&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/two.png)
 
-1. 多次单击 **Opportunity列**。
+1. 多次-单击&#x200B;**Opportunity Columns**。
 
    ![](assets/three.png)
 
-1. 从 **下拉菜单** 中选择“显示”。
+1. 从下拉菜单中选择&#x200B;**显示**。
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. 单击“报 **告** ”选项卡，查看包含机会指标的报告。
+1. 单击&#x200B;**Report**&#x200B;选项卡，查看包含机会指标的报表。
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >向右滚动可查看更多列。
 
-1. 要 [在报表中添加或删除列](select-report-columns.md)，请单击任意列标题并选择 **列**。
+1. 要[添加或删除报表](select-report-columns.md)中的列，请单击任意列标题，然后选择&#x200B;**列**。
 
    ![](assets/six.png)
 
@@ -51,8 +51,8 @@ ht-degree: 0%
 
    | 列 | 说明 |
    |---|---|
-   | 无机会 | 不是主要机会 *联系* 的人数。 |
-   | 无机会天数 | 非主要联系人的平均年 *龄* （以天为单位）。 |
+   | 无机会 | *不是*&#x200B;主要机会联系人的人数。 |
+   | 无机会天数 | *不是*&#x200B;主要联系人的平均年龄（以天为单位）。 |
    | 有机会 | 主要机会联系人的人数。 |
    | 拥有机会% | 主要机会联系人的百分比。 |
    | 销售机会前的天数 | 从个人到主要机会联系人转换的平均天数。 |
@@ -71,12 +71,12 @@ ht-degree: 0%
    >**相关文章**
    >
    >
-   >了解如 [何管理报表大小](configure-report-size.md)。
+   >了解如何[管理报表的大小](configure-report-size.md)。
 
    >[!NOTE]
    >
    >**深潜**
    >
    >
-   >在“基本”报告深入了解报表的 [其他功能](http://docs.marketo.com/display/docs/basic+reporting) 。
+   >在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)深入了解报表的其他功能。
 
