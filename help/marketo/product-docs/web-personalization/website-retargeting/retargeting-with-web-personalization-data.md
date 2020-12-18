@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 使用Web个性化数据重新定位 {#retargeting-with-web-personalization-data}
+# 使用Web个性化数据重新定位{#retargeting-with-web-personalization-data}
 
 >[!NOTE]
 >
 >**可用性**
 >
->网站重新定位现在属于Web个性化拼贴。 如果您只购买了“重新定位”，您将看到此拼贴并在仅启用“重新定位”功 **能的情况下** 访问Web个性化产品。 这使您能够访问帐户设置、重新定位页面、区段和其他跟踪页面。
+>网站重新定位现在属于Web个性化拼贴。 如果您只购买了“重新定位”，您将看到此拼贴并访问启用了&#x200B;**仅**“重新定位”功能的Web个性化产品。 这使您能够访问帐户设置、重新定位页面、区段和其他跟踪页面。
 
 过去访问过您网站的目标潜在客户根据他们的身份和行为进行展示广告再营销。 通过基于行业、指定帐户和已知人数数据的相关广告，个性化地重新定位目标特定受众。
 
@@ -54,9 +54,9 @@ Web个性化会将以下数据发送到再营销平台，以创建受众并运�
  </tbody> 
 </table>
 
-## 再营销配置 {#remarketing-configuration}
+## 再营销配置{#remarketing-configuration}
 
-1. 转至“重 **新定位**”。
+1. 转至&#x200B;**重定位**。
 
    ![](assets/one.png)
 
@@ -75,15 +75,15 @@ Web个性化会将以下数据发送到再营销平台，以创建受众并运�
 
    ![](assets/two.png)
 
-1. 激活Facebook的配置。 单击并展开Facebook折叠面板，单击**On **以将各个事件和数据发送到FacebookAudience Manager。 单击 **保存**。
+1. 激活Facebook的配置。 单击并展开Facebook折叠面板，单击**On **以将各个事件和数据发送到FacebookAudience Manager。 单击&#x200B;**保存**。
 
    >[!NOTE]
    >
-   >您需要安装 [Facebook自定义受众](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)像素，才能使用此功能。
+   >您需要安装[Facebook自定义受众像素](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)您的网站，才能使用此功能。
 
    ![](assets/three.png)
 
-## 创建分段受众 {#creating-segmented-audience}
+## 创建分段受众{#creating-segmented-audience}
 
 分段受众允许您选择现有的区段作为受众，以用于重新定位活动。 例如，选择您的“已知人员”区段。
 
@@ -91,7 +91,7 @@ Web个性化会将以下数据发送到再营销平台，以创建受众并运�
 >
 >无需为已通过域配置发送的行业或其他数据创建分段受众。 最好根据已知人数受众对细分使用细分。
 
-1. 单击 **创建分段受众**。
+1. 单击&#x200B;**创建分段受众**。
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -99,7 +99,7 @@ Web个性化会将以下数据发送到再营销平台，以创建受众并运�
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. 单击 **保存**。
+1. 单击&#x200B;**SAVE**。
 
    您现在已完成Web个性化中的重新定位设置、登录重新定位平台并基于此数据创建受众并设置重新定位广告活动。
 
