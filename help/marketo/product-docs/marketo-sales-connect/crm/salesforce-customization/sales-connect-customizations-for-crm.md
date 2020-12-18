@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# CRM的Sales Connect自定义 {#sales-connect-customizations-for-crm}
+# CRM {#sales-connect-customizations-for-crm}的Sales Connect自定义
 
-以下字段和按钮由Salesforce CRM中的元数据API创建。 创建字段后，管理员必须在其CRM中配置页面布局才能显示它们。 此处可找到说 [明](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)。
+以下字段和按钮由Salesforce CRM中的元数据API创建。 创建字段后，管理员必须在其CRM中配置页面布局才能显示它们。 此处[可找到说明。](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)
 
 >[!NOTE]
 >
 >这会影响ToutApp和Sales Connect客户。
 
-## 如何在Salesforce中安装自定义 {#how-to-install-customizations-in-salesforce}
+## 如何在Salesforce {#how-to-install-customizations-in-salesforce}中安装自定义
 
-1. 在Sales Connect中，单击齿轮图标，然后选择“ **设置**”。
+1. 在Sales Connect中，单击齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/one.png)
 
-1. 在“管理员设置”下，选 **择Salesforce**。
+1. 在“管理员设置”下，选择&#x200B;**Salesforce**。
 
    ![](assets/two.png)
 
-1. 单击“ **Marketto Sales Connect自定义”**。
+1. 单击&#x200B;**Marketo Sales Connect自定义**。
 
    ![](assets/three.png)
 
-1. 单击 **连接到Salesforce**。
+1. 单击&#x200B;**连接到Salesforce**。
 
    ![](assets/four.png)
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-## 自定义活动字段 {#custom-activity-fields}
+## 自定义活动字段{#custom-activity-fields}
 
-Marketo将检测新字段的创建，然后执行一次性数据回填、重新映射以及将值持续同步到新字 **段** 。 旧字段将不会更新。
+Marketo将检测新字段的创建，然后执行一次性数据回填、重新映射以及持续将值同步到&#x200B;**new**&#x200B;字段。 旧字段将不会更新。
 
 | **字段名称** | **说明** |
 |---|---|
@@ -61,7 +61,7 @@ Marketo将检测新字段的创建，然后执行一次性数据回填、重新�
 | MSE电子邮件URL | 单击此URL将打开MSE中的命令中心，并拉出“人员详细信息视图历史记录”选项卡，在该选项卡中可以看到已发送的电子邮件。 |
 | 已查看MSE电子邮件 | 当收件人视图电子邮件时，记录一个复选标记。 |
 
-## 汇总日志记录字段 {#roll-up-logging-fields}
+## 汇总日志记录字段{#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
@@ -116,7 +116,7 @@ Marketo将检测新字段的创建，然后执行一次性数据回填、重新�
  </tbody> 
 </table>
 
-## 按钮 {#buttons}
+## 按钮{#buttons}
 
 | **按钮名称** | **说明** |
 |---|---|
@@ -125,14 +125,14 @@ Marketo将检测新字段的创建，然后执行一次性数据回填、重新�
 | 推送到MSE | 将联系人从Salesforce推送到MSE。 |
 | 通过MSE呼叫 | 从Salesforce拨打销售电话。 |
 
-## 批量操作按钮 {#bulk-action-buttons}
+## 批量操作按钮{#bulk-action-buttons}
 
 | **按钮名称** | **说明** |
 |---|---|
 | 添加到MSE活动 | 从Salesforce添加到MSE活动。 |
 | 推送到MSE | 将联系人从Salesforce推送到MSE。 |
 
-## 用户指南 {#user-guides}
+## 用户指南{#user-guides}
 
 [Salesforce中的MSE自定义报表](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
@@ -140,7 +140,8 @@ Marketo将检测新字段的创建，然后执行一次性数据回填、重新�
 
 [Salesforce闪电的MSE](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
 
-## 相关视频 {#related-videos}
+## 相关视频{#related-videos}
 
-**如何在Salesforce中安装自定义**`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` * *在Salesforce中使用自定义的优势**
+**如何在Salesforce中安装自定义**
+`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` **在Salesforce中使用自定义的优势** 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
