@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# 将SDK代码发送给开发人员 {#send-sdk-code-to-a-developer}
+# 将SDK代码发送给开发人员{#send-sdk-code-to-a-developer}
 
 在创建应用程序内消息或推送通知之前，您必须先让开发人员为Android和iOS平台设置并初始化移动应用程序SDK。
 
 * [Android说明](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
 * [iOS说明](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
-## 将SDK代码发送给开发人员 {#send-sdk-code-to-a-developer-1}
+## 将SDK代码发送给开发人员{#send-sdk-code-to-a-developer-1}
 
 有时，管理员需要向开发人员发送一些SDK代码。
 
@@ -38,11 +38,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 单击“ **移动应用程序操作** ”，然 **后选择“发送到开发人员**”。
+1. 单击“**移动应用程序操作**”，然后选择“发送到开发人员&#x200B;**”。**
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. 输入电子邮件地址，然后单 **击“发送**”。
+1. 输入电子邮件地址，然后单击&#x200B;**SEND**。
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
