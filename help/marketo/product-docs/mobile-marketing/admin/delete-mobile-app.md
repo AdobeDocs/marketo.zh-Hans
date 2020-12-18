@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 删除移动应用程序 {#delete-mobile-app}
+# 删除移动应用程序{#delete-mobile-app}
 
 1. 单击“管理员”。
 
