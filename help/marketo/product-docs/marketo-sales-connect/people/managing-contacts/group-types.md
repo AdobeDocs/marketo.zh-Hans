@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 组类型 {#group-types}
+# 组类型{#group-types}
 
 了解Sales Connect中的不同用户组类型。
 
