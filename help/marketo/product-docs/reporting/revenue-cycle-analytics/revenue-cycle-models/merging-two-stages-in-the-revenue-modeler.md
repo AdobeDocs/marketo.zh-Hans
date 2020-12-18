@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在收入建模器中合并两个阶段 {#merging-two-stages-in-the-revenue-modeler}
+# 合并收入建模器中的两个阶段{#merging-two-stages-in-the-revenue-modeler}
 
 批准模型后，在编辑草稿时不能删除舞台。 相反，您可以将该舞台与另一个舞台合并。
 
-1. 单击 **Marketto Home** ，然后选择 **Analytics**。
+1. 单击&#x200B;**Marketo Home**&#x200B;并选择&#x200B;**Analytics**。
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-15-3a3-3a15.png)
 
-1. 单击“ **编辑草稿”。**
+1. 单击&#x200B;**编辑草稿。**
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
 1. `You can re-approve the model by selecting`**`Approve Model Draft`**` in the **Model Actions** menu.`
 
-   ` ![](assets/image2015-4-29-16-3a5-3a53.png)
+   “ ![](assets/image2015-4-29-16-3a5-3a53.png)
 
-   `
+   “
 
 >[!NOTE]
 >
->在合 **并** “阶段”下拉框中选择“无”，以从模型中删除Lead
+>在“合并阶段”下拉框中选择&#x200B;**无**&#x200B;以从模型中删除Lead
 
