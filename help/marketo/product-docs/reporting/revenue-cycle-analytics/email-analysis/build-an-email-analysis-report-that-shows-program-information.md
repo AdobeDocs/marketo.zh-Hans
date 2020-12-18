@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 生成显示分析信息的电子邮件项目报告 {#build-an-email-analysis-report-that-shows-program-information}
+# 生成显示分析信息的电子邮件项目报告{#build-an-email-analysis-report-that-shows-program-information}
 
 按照以下步骤创建电子邮件分析报告，其中将显示按项目渠道分组的电子邮件信息。
 
@@ -21,19 +21,19 @@ ht-degree: 0%
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
-1. 启动 **收入浏览器**。
+1. 启动&#x200B;**收入浏览器**。
 
    ![](assets/image2014-9-17-19-3a42-3a26.png)
 
-1. 单击“ **新建报告**”。
+1. 单击&#x200B;**新建报告**。
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
-1. 选择**电子邮件分析**区域，然后单击“确 **定”**。
+1. 选择**电子邮件分析**区域，然后单击&#x200B;**确定**。
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. 找到“已 **发送（周）** ”黄点并右键单击它。 单击 **筛选**。
+1. 找到&#x200B;**已发送（周）**&#x200B;黄点并右键单击它。 单击&#x200B;**过滤器**。
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. 选中“ **当前发送周** ”，然后 **单击“确定”**。
+1. 选中&#x200B;**当前发送周**&#x200B;并单击&#x200B;**确定**。
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. 查找并多次单击“电 **子邮件名** 称”黄点。
+1. 查找并多次单击&#x200B;**电子邮件名称**&#x200B;黄点。
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. 查找并多次单 **击“已发**&#x200B;送” **、“已打开****”** 和“已单击”蓝点。
+1. 查找并多次单击&#x200B;**Sent**、**Opened**&#x200B;和&#x200B;**Clicked**&#x200B;蓝点。
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
@@ -66,5 +66,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >想了解有关收入周期浏 [览器的更多信息](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
+   >想了解有关[收入周期浏览器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)的更多信息吗？
 
