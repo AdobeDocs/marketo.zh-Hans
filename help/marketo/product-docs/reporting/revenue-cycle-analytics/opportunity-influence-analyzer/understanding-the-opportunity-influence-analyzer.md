@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解机会影响分析器 {#understanding-the-opportunity-influence-analyzer}
+# 了解机会影响分析器{#understanding-the-opportunity-influence-analyzer}
 
 每个机会都是一个故事。 你在哪里遇到的线索？ 在营销／销售过程中，哪些营销机会会影响他们？
 
@@ -19,7 +19,7 @@ Opportunity Influce Analyzer让您了解整个故事。 它甚至在Sales Insigh
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**注意绿色的检查。** 它们表示项目在右侧选中的某个名称时成功。 绿色区域指示业务机会的开始和结束。
+**注意绿色的检查。** 它们表示项目在右侧选中的某个名称时成功。绿色区域指示业务机会的开始和结束。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Opportunity Influce Analyzer让您了解整个故事。 它甚至在Sales Insigh
 
 使用右侧的控件在图表中添加／删除人员或切换到不同的帐户或业务机会。
 
-## 识别唯一帐户 {#identifying-unique-accounts}
+## 标识唯一帐户{#identifying-unique-accounts}
 
 Marketo使用CRM ID唯一标识帐户。
 
