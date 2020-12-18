@@ -11,7 +11,7 @@ ht-degree: 5%
 ---
 
 
-# 什么是最新客户端版本？ {#what-are-the-latest-client-versions}
+# 什么是最新客户端版本？{#what-are-the-latest-client-versions}
 
 以下是所有Sales Connect客户端的最新版本。
 
