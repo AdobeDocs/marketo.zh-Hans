@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在自由表单登陆页中添加指向图像的链接 {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# 在自由格式登陆页{#add-a-link-to-an-image-in-a-free-form-landing-page}中添加指向图像的链接
 
 想让登陆页上的图像成为指向其他页面／站点的链接吗？ 这是方法。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/click-on-image.png)
 
-1. 展开“属 **性表”**。
+1. 展开&#x200B;**属性表**。
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/add-link.png)
 
-   恭喜！ 您现在已成功地在登陆页上添加了指向图像的链接。 您现在可 [以预览页](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) 面以查看其实际操作情况。
+   恭喜！ 您现在已成功地在登陆页上添加了指向图像的链接。 您现在可以[预览页面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)，以查看其实际操作情况。
 
 >[!TIP]
 >
