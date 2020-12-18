@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 创建和删除联系人 {#creating-and-deleting-contacts}
+# 创建和删除联系人{#creating-and-deleting-contacts}
 
-## 创建联系人 {#creating-contacts}
+## 创建联系人{#creating-contacts}
 
-1. 在“人员”页面中，单击“ **组操作** ”按钮并选 **择“创建联系人**”。
+1. 在“人员”页面中，单击&#x200B;**“组操作”**&#x200B;按钮，然后选择&#x200B;**创建联系人**。
 
    ![](assets/one-2.png)
 
-1. 输入名字／姓氏和电子邮件地址，以及您想要的任何其他信息。 完成 **后单击** “创建”，或 **单击“创建并添加新** ”以添加更多联系人。
+1. 输入名字／姓氏和电子邮件地址，以及您想要的任何其他信息。 完成后，单击&#x200B;**创建**&#x200B;或&#x200B;**创建并添加新**&#x200B;以添加更多联系人。
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >要同时添加多个联系人？ [单击此处](http://docs.marketo.com/x/VADb) ，了解如何通过CSV导入联系人。
+   >要同时添加多个联系人？ [单击](http://docs.marketo.com/x/VADb) 此处了解如何通过CSV导入联系人。
 
-## 删除联系人 {#deleting-contacts}
+## 删除联系人{#deleting-contacts}
 
 1. 在“人员”页面中，选中要删除的联系人的框。
 
