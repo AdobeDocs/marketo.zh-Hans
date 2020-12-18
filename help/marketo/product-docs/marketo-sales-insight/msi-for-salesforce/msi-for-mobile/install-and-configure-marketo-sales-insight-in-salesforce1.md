@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 在Salesforce1中安装和配置Marketo Sales Insight {#install-and-configure-marketo-sales-insight-in-salesforce}
+# 在Salesforce1 {#install-and-configure-marketo-sales-insight-in-salesforce}中安装和配置Marketo Sales Insight
 
 >[!NOTE]
 >
 >**提醒**
 >
->现有客户，请 [升级您的MSI包](http://docs.marketo.com/x/_gU6Ag) ，然后继续！
+>现有客户，请[升级您的MSI包](http://docs.marketo.com/x/_gU6Ag)，然后继续！
 
 >[!PREREQUISITES]
 >
@@ -43,31 +43,31 @@ ht-degree: 0%
 >Salesforce1中的Marketo Sales Insight包括：最佳赌注、潜在客户反馈、有趣时刻以及为营销增添活动。
 
 1. 启用Salesforce1移动应用程序
-1. 单击 **设置** ，然后单击 **移动管理**。
+1. 单击&#x200B;**设置**，然后单击&#x200B;**移动管理**。
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
-1. 单击“ **Salesforce1”**。
+1. 单击&#x200B;**Salesforce1**。
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. 单击“ **Salesforce1设置”**。
+1. 单击&#x200B;**Salesforce1设置**。
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. 单击启 **用Salesforce1移动浏览器应用程序**。
+1. 单击&#x200B;**启用Salesforce1移动浏览器应用程序**。
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
-1. 选择“ **移动管理**”。
+1. 选择&#x200B;**移动管理**。
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
-1. 单击“ **管理移动导航菜单”**。
+1. 单击&#x200B;**管理移动导航菜单**。
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
@@ -75,20 +75,20 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. 选 **择Market**，将其**向上**移到所需区域，然后单击 **保存**。
+1. 选择&#x200B;**Marketo**，将其移动到所需区域**向上**，然后单击&#x200B;**保存**。
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
 1. 隐藏过时的Marketto自定义对象
-1. 单击“ **设置**”。
+1. 单击&#x200B;**安装程序**。
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
-1. 选择 **管理用户**。
+1. 选择&#x200B;**管理用户**。
 
    ![](assets/image2015-5-5-11-3a13-3a45.png)
 
-1. 选择 **用户档案**。
+1. 选择&#x200B;**用户档案**。
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
@@ -96,13 +96,13 @@ ht-degree: 0%
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. 在选 **项卡设置**&#x200B;下，选择第 *一个***营销者**。
+1. 在&#x200B;**选项卡设置**&#x200B;下，选择&#x200B;*first* **Marketo**。
 
    ** ![](assets/image2015-5-5-13-3a55-3a36.png)
 
    **
 
-1. 选择 **选项卡隐藏**。
+1. 选择&#x200B;**选项卡隐藏**。
 
    ** ![](assets/image2015-5-5-14-3a2-3a29.png)
 
@@ -117,24 +117,24 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
-1. 单击“ **自定义我的选项卡**”。
+1. 单击&#x200B;**自定义我的选项卡**。
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. 选 **择Market** ，然后**将其添加到选定选项卡。
+1. 选择&#x200B;**Marketo**&#x200B;和**将***它添加到选定选项卡。
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. 选 **择Market**，将其**向上**移到所需区域，然后单击 **保存**。
+1. 选择&#x200B;**Marketo**，将其移动到所需区域**向上**，然后单击&#x200B;**保存**。
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
 1. 自定义页面布局
-1. 单击“ **设置**”。
+1. 单击&#x200B;**安装程序**。
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. 单击 **设置**，键入 **页面布局**，然后单击“潜 **在客户** ”下的页面布局。
+1. 单击“**设置**”，键入&#x200B;**页面布局**，然后单击“Lead”下的“**页面布局**”。
 
    >[!NOTE]
    >
@@ -142,19 +142,19 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
-1. 单击 **编辑** ，以更改潜在客户布局。
+1. 单击&#x200B;**编辑**&#x200B;以更改潜在客户布局。
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. 单击“**Visualforce页面 **”，然后将** “潜在客户移动**”拖动到“移动卡”部分。
+1. 单击**Visualforce页面&#x200B;**，然后将** Lead Mobile **拖动到“移动卡”部分。
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
-1. 将“高度”更改为66，然后单 **击“确定**”。
+1. 将“高度”更改为66，然后单击&#x200B;**确定**。
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. 单 **击** “字段”，将“**添加到Marketo活动” **拖动到** Marketo Sales Insight **部分。
+1. 单击&#x200B;**字段**，将**添加到Marketo活动&#x200B;**拖动到** Marketo Sales Insight **部分。
 
    ![](assets/configure-step-6.png)
 
@@ -162,7 +162,7 @@ ht-degree: 0%
    >
    >在“快速查找”中键入“添加到”，使“添加到营销活动”易于查找。
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
