@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 创建收入浏览器报表 {#create-a-revenue-explorer-report}
+# 创建收入浏览器报表{#create-a-revenue-explorer-report}
 
 收入浏览器报表允许您跟踪营销活动的ROI。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. 单击“ **新建** ”，然后选择 **报告**。
+1. 单击&#x200B;**新建**，然后选择&#x200B;**报告**。
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
