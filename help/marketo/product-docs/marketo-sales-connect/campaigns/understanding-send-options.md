@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 了解发送选项 {#understanding-send-options}
+# 了解发送选项{#understanding-send-options}
 
 在创建活动时，您有几个选项可用于在Sales Connect中创建电子邮件步骤。 此外，根据您的电子邮件在活动中的位置，您的选择也会有所不同。
 
