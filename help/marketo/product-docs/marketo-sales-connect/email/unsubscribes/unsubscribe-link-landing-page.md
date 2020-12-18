@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 取消订阅链接登陆页 {#unsubscribe-link-landing-page}
+# 取消订阅链接登陆页{#unsubscribe-link-landing-page}
 
 当用户单击您的取消订阅链接时，他们将被转至取消订阅登陆页，在该链接中，他们可以选择要取消订阅的内容以及取消订阅的原因。
 
