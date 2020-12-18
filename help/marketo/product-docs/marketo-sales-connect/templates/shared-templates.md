@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 共享模板 {#shared-templates}
+# 共享模板{#shared-templates}
 
-## 如何共享模板 {#how-to-share-a-template}
+## 如何共享模板{#how-to-share-a-template}
 
-如果您使用的是我们的团队帐户之一，则默认情况下，您的所有模板仍为私有模板。 单击模 **板顶部** 的绿色“共享”按钮，将其与团队的其他成员共享。
+如果您使用的是我们的团队帐户之一，则默认情况下，您的所有模板仍为私有模板。 单击模板顶部的绿色&#x200B;**共享**&#x200B;按钮，将其与团队的其他成员共享。
 
-## 如何查找共享模板  {#how-to-find-shared-templates}
+## 如何查找共享模板{#how-to-find-shared-templates}
 
 已与您共享的模板将显示在“模板”页面左侧的**团队模板**标题下。
 
