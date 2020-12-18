@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 授权Marketo Outlook插件 {#authorize-the-marketo-outlook-plugin}
+# 对Marketo Outlook插件授权{#authorize-the-marketo-outlook-plugin}
 
 要在Outlook中使用Marketo MSI插件，您需要对其进行授权。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. 当显示“授权Marketo插件”对话框时，单击“请 **求代码”**。
+1. 当出现“授权Marketo插件”对话框时，单击&#x200B;**请求代码**。
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. 如果您的默认Outlook帐户电子邮件地址已注销，您将收到注册密钥。 在弹出窗口中输入它，然后单击“ **提交**”。
+1. 如果您的默认Outlook帐户电子邮件地址已注销，您将收到注册密钥。 在弹出窗口中输入它，然后单击&#x200B;**提交**。
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 
    >[!NOTE]
    >
-   >注册代码 **在14天后过期。**
+   >注册代码&#x200B;**在14天后过期。**
 
 1. 如果电子邮件地址未授权，您会收到这封不太开心的电子邮件。 联系您的营销人员管理员以解决问题。
 
