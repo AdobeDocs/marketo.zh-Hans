@@ -11,33 +11,33 @@ ht-degree: 0%
 ---
 
 
-# 使用Marketo ON24适配器创建事件 {#create-an-event-with-the-marketo-on-adapter}
+# 使用Marketo ON24适配器{#create-an-event-with-the-marketo-on-adapter}创建事件
 
-## 开始前 {#before-you-begin}
+## 开始前{#before-you-begin}
 
 您应该熟悉构建基块以及在Marketo中创建事件的推荐顺序。 您还应具备以下Marketo概念的工作知识：
 
-* [营销项目](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) 、事件及其差异
+* [Marketo Programs](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) 和事件，以及它们之间的区别
 * [渠道](../../../../product-docs/administration/tags/create-a-program-channel.md)
 * [本地资产](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [子活动](https://docs.marketo.com/x/IRCa) 和 [项目状态](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [子营销](https://docs.marketo.com/x/IRCa) 活动和 [项目状态](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 
 >[!NOTE]
 >
->有关Marketo API的 [更多信息](http://developers.marketo.com/documentation/rest/) ，请参阅Marketo API文档。
+>有关Marketo API的详细信息，请参阅[Marketo API文档](http://developers.marketo.com/documentation/rest/)。
 
-## 先决条件 {#prerequisites}
+## 先决条件{#prerequisites}
 
 使用Marketo ON24集成需要以下各项：
 
-* **订阅到ON24 Webcast** —— 如果您没有当前订阅，请直接与ON24联系。 **注意**:需要ON24 Hosted Edition。 无需ON24事件管理。
+* **订阅到ON24 Webcast**  —— 如果您没有当前订阅，请直接与ON24联系。**注意**:需要ON24 Hosted Edition。无需ON24事件管理。
 
 * **对ON24的管理员权** 限——您需要此权限才能使用此连接器并在ON24系统中创建客人。
-* **ON24连接凭据** -您需要在Market中输入此信息才能启用集成：用户名、密码、客户端ID和客户端密钥。 如果您需要有关凭据的帮助，请与您的ON24客户经理或ON24支持联系。
+* **ON24连接凭据** -您需要在Market中输入此信息才能启用集成：用户名、密码、客户端ID和客户端密钥。如果您需要有关凭据的帮助，请与您的ON24客户经理或ON24支持联系。
 * **注册表单** -使用Marketo表单或非Marketo表单以及正确的API，确保注册数据和注册者信息被传递到Marketo。
 * **注册子活动- **必须正确创建和配置Marketo事件中的注册子活动，以使事件合作伙伴集成正常工作。
 
-## 流程 {#process-flow}
+## 进程流{#process-flow}
 
 按照以下步骤使用Marketo On24适配器创建事件:
 
