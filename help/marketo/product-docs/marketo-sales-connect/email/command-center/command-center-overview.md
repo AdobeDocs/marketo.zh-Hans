@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 命令中心概述 {#command-center-overview}
+# 命令中心概述{#command-center-overview}
 
 推荐中心是单一、统一的视图，可帮助您确定下一步，同时确保不漏水。
 
-## 管理电子邮件 {#manage-emails}
+## 管理电子邮件{#manage-emails}
 
 在指挥中心的电子邮件部分可以管理所有电子邮件活动。 将其视为您的电子邮件发件箱，以查看从Sales Connect发送的电子邮件。 管理您的计划电子邮件、查看谁在处理您的电子邮件、检查所发送的电子邮件是否存在问题等。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
   <tr> 
    <td title="背景颜色：灰色"><br></td> 
    <td title="背景颜色：灰色">草稿</td> 
-   <td title="背景颜色：灰色"><p>已保存为草稿的电子邮件。<br><strong>注意：</strong> 只能将单个电子邮件保存为草稿。 批量电子邮件（选择并发送电子邮件和组电子邮件）将不会保存为草稿。</p></td> 
+   <td title="背景颜色：灰色"><p>已保存为草稿的电子邮件。<br><strong>注意：</strong> 只能将单个电子邮件保存为草稿。批量电子邮件（选择并发送电子邮件和组电子邮件）将不会保存为草稿。</p></td> 
   </tr> 
   <tr> 
    <td title="背景颜色：灰色"><br></td> 
@@ -68,23 +68,23 @@ ht-degree: 0%
   <tr> 
    <td title="背景颜色：蓝色"><br></td> 
    <td title="背景颜色：蓝色">退回</td> 
-   <td title="背景颜色：蓝色"><p>已从收件人电子邮件服务器拒绝的电子邮件。 <br><strong>注意：</strong> 仅当您是传统ToutApp用户并且作为投放渠道有权访问MSC Server时，才会检测到此问题。</p></td> 
+   <td title="背景颜色：蓝色"><p>已从收件人电子邮件服务器拒绝的电子邮件。 <br><strong>注意：</strong> 仅当您是传统ToutApp用户并且作为投放渠道有权访问MSC Servers时，才会检测到此问题。</p></td> 
   </tr> 
   <tr> 
    <td title="背景颜色：蓝色"><br></td> 
    <td title="背景颜色：蓝色">垃圾邮件</td> 
-   <td title="背景颜色：蓝色"><p>收件人已手动标记为垃圾邮件的电子邮件。<br><strong>注意：</strong> 仅当您是传统ToutApp用户并且作为投放渠道有权访问MSC Server时，才会检测到此问题。</p></td> 
+   <td title="背景颜色：蓝色"><p>收件人已手动标记为垃圾邮件的电子邮件。<br><strong>注意：</strong> 仅当您是传统ToutApp用户并且作为投放渠道有权访问MSC Servers时，才会检测到此问题。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## 管理任务 {#manage-tasks}
+## 管理任务{#manage-tasks}
 
 任务部分是您管理和完成任务的一站式商店。 您可以在此无缝管理任务，以提高工作效率并专注于最相关的项目。
 
 ![](assets/command-center-overview-2.png)
 
-## 与参与的潜在客户的跟进 {#follow-up-with-engaged-prospects}
+## 与参与潜在客户的后续工作{#follow-up-with-engaged-prospects}
 
 在您通过合成窗口或潜在客户开始与活动互动后，您可以开始，利用高级搜索功能重新目标参与度最高的潜在客户。
 
