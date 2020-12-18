@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 预览表单 {#preview-a-form}
+# 预览表单{#preview-a-form}
 
 在发布之前，您可以在这个简单快捷的表单预览器中查看表单。
 
-1. 转到营 **销****活动**。
+1. 转至&#x200B;**Marketing** **活动**。
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. 在“表 **单****操作**”下 **，单**&#x200B;击预览。
+1. 在&#x200B;**Form** **Actions**&#x200B;下，单击&#x200B;**预览**。
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. 表单编辑器将以预览 **模式** 打开。
+1. 表单编辑器将以&#x200B;**预览**&#x200B;模式打开。
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. 单击 **“编** 辑 **** 草稿 **”** ，返回编辑模式。
+1. 单击&#x200B;**编辑** **草稿**&#x200B;可返回至&#x200B;**编辑**&#x200B;模式。
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
@@ -40,9 +40,9 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >进一步了解 [表单](http://docs.marketo.com/display/docs/forms)。
+   >了解有关[表单的更多信息](http://docs.marketo.com/display/docs/forms)。
 
-1. 单击“预览”(Draft)，轻 **松切****换回来**。
+1. 单击&#x200B;**预览** **草稿**&#x200B;轻松切换回。
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
