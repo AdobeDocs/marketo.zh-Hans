@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Facebook中的个性化再营销 {#personalized-remarketing-in-facebook}
+# Facebook中的个性化再营销{#personalized-remarketing-in-facebook}
 
 个性化再营销使您能够使用RTP数据和Facebook再营销的强大功能与用户重新互动。
 
 >[!PREREQUISITES]
 >
->* 通过Web个 [性化数据设置完成重定向](retargeting-with-web-personalization-data.md)
->* 查看自定 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 义受 [众和再营销的Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)文档
+>* 完成[使用Web个性化数据重新定位](retargeting-with-web-personalization-data.md)设置
+>* 查看有关自定义受众](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)和再营销的[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook文档
 
 >
 
 
 
-## 在Facebook中创建受众 {#creating-an-audience-in-facebook}
+## 在Facebook{#creating-an-audience-in-facebook}中创建受众
 
-1. 在Facebook中，转到“广告管 [理器](https://www.facebook.com/ads/audience_manager) ”中的“受众”选项卡。
-1. 单击 **工具** ，然后选 **择受众**。
+1. 在Facebook中，转到广告管理器中的[受众选项卡](https://www.facebook.com/ads/audience_manager)。
+1. 单击&#x200B;**工具**&#x200B;并选择&#x200B;**受众**。
 
    ![](assets/one-1.png)
 
-1. 单击 **“创建自定义受众**”。
+1. 单击&#x200B;**创建自定义受众**。
 
    ![](assets/two-1.png)
 
-1. 选择 **网站流量**。
+1. 选择&#x200B;**网站流量**。
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. 在包括列表中，选择 **事件**。
+1. 在“包括”列表中，选择&#x200B;**事件**。
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. 在此示例中，选择“行业”以包含 **教育**。 输 **入**“教育”，并 **在“最近** ”(In the Last)中编辑180天。 输入受众名称： **教育行业**。 单击 **创建受众**。
+1. 对于此示例，选择“行业”以包含&#x200B;**Education**。 输入&#x200B;**教育**，并编辑&#x200B;**在最近**&#x200B;中为180天。 输入受众名称：**教育行业**。 单击&#x200B;**创建受众**。
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## Facebook中的RTP数据点 {#rtp-data-points-in-facebook}
+## Facebook中的RTP数据点{#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
@@ -104,15 +104,15 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 用广告目标受众 {#target-your-audience-with-an-ad}
+## 用广告{#target-your-audience-with-an-ad}目标受众
 
-有关其他详细信息， [请参阅Facebook的文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)。
+有关其他详细信息，请参阅[Facebook的文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)。
 
-1. 转至广告管理器，单击 **创建广告**。
+1. 转至广告管理器，单击&#x200B;**创建广告**。
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. 选 **择将人员发送到您** 的网站，作为活动的目标。
+1. 选择&#x200B;**将人员发送到您的网站**&#x200B;作为活动的目标。
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
