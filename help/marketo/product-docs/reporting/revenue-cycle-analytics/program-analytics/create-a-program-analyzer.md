@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 创建项目分析器 {#create-a-program-analyzer}
+# 创建项目分析器{#create-a-program-analyzer}
 
 了解哪些项目和渠道为您提供了最大的营销价值。 使用项目分析器详细检查和比较每项成本和回报，按项目或渠道。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**提醒**
 >
->要从项目分析器获得良好数据，请确保您的CRM联系人在机会中具有角色，并确保已完全设置营销项目，并 [定义期](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)间成本、项目状态和成功。
+>要从项目分析器获得良好数据，请确保您的CRM联系人在销售机会中具有角色，并确保您的营销项目已完全设置，[期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、项目状态和成功已定义。
 
 >[!TIP]
 >
->要使项目在项目分析器中显示时间不成本， [请将其期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) 设置为$0。
+>要使项目在项目分析器中不显示任何成本，[将其期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)设置为$0。
 
 1. 单击“Analytics”拼贴。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要选择特定范围，请选 **择** “自定义”, **然后使** 用“自 **”和“** 至”字段。
+   >要选择特定范围，请选择&#x200B;**Custom**&#x200B;并使用&#x200B;**From**&#x200B;和&#x200B;**To**&#x200B;字段。
 
 1. 如果要保存新的自定义分析器，请在Analyzer操作下拉框中，选择另存为。
 
@@ -75,8 +75,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在项目分析器中可以选择的许多指标可通过首次触控(FT)和多触(MT)计算获得。 了解FT与MT归因 [的区别很重要](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
+>在项目分析器中可以选择的许多指标可通过首次触控(FT)和多触(MT)计算获得。 了解FT和MT归因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之间的[差异非常重要。
 
 >[!NOTE]
 >
->在基本报告 [和收入周期](http://docs.marketo.com/display/docs/basic+reporting) 浏 [览器中了解更多信息](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+>在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)和[收入周期浏览器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)中了解更多信息。
