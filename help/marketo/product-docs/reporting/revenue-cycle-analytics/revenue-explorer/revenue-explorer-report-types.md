@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 收入浏览器报表类型 {#revenue-explorer-report-types}
+# 收入浏览器报告类型{#revenue-explorer-report-types}
 
 以下是使用收入周期分析时将遇到的报告类型。
 
