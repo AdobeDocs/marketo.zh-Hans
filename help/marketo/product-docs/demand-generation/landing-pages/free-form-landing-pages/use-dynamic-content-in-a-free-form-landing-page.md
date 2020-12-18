@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在自由形式登陆页中使用动态内容 {#use-dynamic-content-in-a-free-form-landing-page}
+# 以自由形式登陆页{#use-dynamic-content-in-a-free-form-landing-page}使用动态内容
 
 在登陆页中使用动态内容可让受众获得目标信息。
 
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 
 
-## 添加分段 {#add-segmentation}
+## 添加分段{#add-segmentation}
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -51,19 +51,19 @@ ht-degree: 0%
 >
 >默认情况下，所有登陆页元素均为静态。
 
-## 使元素动态 {#make-element-dynamic}
+## 使元素变为动态{#make-element-dynamic}
 
-1. 将动态内容元素从“静态”下拖 **放** 到“动 **态”。**
+1. 将动态内容元素从&#x200B;**Static**&#x200B;下拖放到&#x200B;**Dynamic.**
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. 您还可以从元素设 **置中** ，将元 **素设** 置设 **置为“静态”或“动态”。**
+1. 您还可以从元素&#x200B;**设置中制作元素** Static **或** Dynamic **。**
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
-## 应用动态内容 {#apply-dynamic-content}
+## 应用动态内容{#apply-dynamic-content}
 
-1. 选择区段下的元素，单击设置图标，然后单击编 **辑**。 对每个区段重复上述步骤。
+1. 选择区段下的元素，单击设置图标，然后单击&#x200B;**编辑**。 对每个区段重复上述步骤。
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
