@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 了解项目成本分析区 {#understanding-the-program-cost-analysis-area}
+# 了解项目成本分析区域{#understanding-the-program-cost-analysis-area}
 
 项目成本分析区域允许您分析单个项目的有效性，或查看指定时间段内按渠道列出的汇总结果。
 
-## 业务问题示例 {#example-business-questions}
+## 业务问题示例{#example-business-questions}
 
 每个渠道每月生成多少个新名称？
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## 项目成本分析Dimension和措施 {#program-cost-analysis-dimensions-and-measures}
+## 项目成本分析Dimension和措施{#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >黄点是尺寸，蓝点是度量。
 
-## 投资 {#investment}
+## 投资{#investment}
 
 | 度量 | 说明 |
 |---|---|
@@ -49,7 +49,7 @@ ht-degree: 0%
 | 每次成功的成本（新名称） | 项目AND在项目发展中成功获得的每个潜在客户平均成本 |
 | 项目成本 | 项目的总期间成本 |
 
-## 会员资格 {#membership}
+## 成员资格{#membership}
 
 <table> 
  <tbody> 
@@ -72,14 +72,14 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 项目属性 {#program-attributes}
+## 项目属性{#program-attributes}
 
 | Dimension | 说明 |
 |---|---|
 | 项目渠道 | 项目渠道 |
 | 项目名称 | 项目名称 |
 
-## 项目成本时间范围 {#program-cost-timeframe}
+## 项目成本时间范围{#program-cost-timeframe}
 
 | Dimension | 说明 |
 |---|---|
@@ -87,7 +87,7 @@ ht-degree: 0%
 | 季度 | 项目成本时间范围 |
 | 月 | 项目成本时间范围 |
 
-## 项目标记 {#program-tags}
+## 项目标记{#program-tags}
 
 | 度量 | 说明 |
 |---|---|
@@ -96,7 +96,7 @@ ht-degree: 0%
 | 项目所有者 | 项目标签 |
 | 地区 | 项目标签 |
 
-## 成功 {#success}
+## 成功{#success}
 
 | 度量 | 说明 |
 |---|---|
