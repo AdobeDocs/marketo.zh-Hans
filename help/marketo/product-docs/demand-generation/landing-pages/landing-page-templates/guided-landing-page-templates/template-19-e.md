@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092902
-description: 模板19-A - Marketo Docs —— 产品文档
+description: 模板19-E - Marketo Docs —— 产品文档
 title: 模板19-E
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
