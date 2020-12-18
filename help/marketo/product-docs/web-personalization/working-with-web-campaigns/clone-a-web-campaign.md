@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 克隆Web活动 {#clone-a-web-campaign}
+# 克隆Web活动{#clone-a-web-campaign}
 
 使用Web活动页上的克隆功能复制活动设置并更改内容以进行拆分测试优化，或克隆内容相同的活动并将其目标到其他区段。 在数秒内创建Web活动!
 
-## 创建克隆活动 {#create-a-clone-campaign}
+## 创建克隆活动{#create-a-clone-campaign}
 
-1. 转到 **Web活动**。
+1. 转至&#x200B;**Web活动**。
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >要更轻松地找到所需的Web活动，请使用筛 [选功能](filter-web-campaigns.md)。
+   >要更轻松地找到所需的Web活动，请使用[过滤器功能](filter-web-campaigns.md)。
 
-1. 对于Web活动，单击“ **克隆**”。
+1. 对于Web活动，单击&#x200B;**克隆**。
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. 活动克隆过程将现有Web活动中的所有内容复制到新的克隆活动中。 新克隆的Web活动的名称为“[活动名称] 副本”。
+1. 活动克隆过程将现有Web活动中的所有内容复制到新的克隆活动中。 新克隆的Web活动已授权为“[活动名称]复制”。
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
