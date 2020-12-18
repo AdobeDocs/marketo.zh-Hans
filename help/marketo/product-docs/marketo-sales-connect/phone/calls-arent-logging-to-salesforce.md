@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 呼叫未登录Salesforce {#calls-arent-logging-to-salesforce}
+# 调用未记录到Salesforce {#calls-arent-logging-to-salesforce}
 
 如果您希望将来自销售电话的呼叫自动记录到Salesforce，请确保已准备好以下内容。
 
-您需要通过API连接将Sales Connect帐 [户连接到](http://docs.marketo.com/x/q4LS) Salesforce帐户。
+您需要通过API连接将Sales Connect帐户连接到[Salesforce帐户](http://docs.marketo.com/x/q4LS)。
 
-如果您从Web应用程 [序调用](http://toutapp.com/login)，则需要将Salesforce ID保存到该联系人。 [单击此处](http://docs.marketo.com/x/G4PS) ，了解如何确保您的所有Sales Connect联系人都具有与其关联的Salesforce ID。
+如果您从[Web应用程序](http://toutapp.com/login)调用，则需要将Salesforce ID保存到该联系人。 [单](http://docs.marketo.com/x/G4PS) 击此处查看如何确保您的所有Sales Connect联系人都具有与其关联的Salesforce ID。
 
 >[!NOTE]
 >
