@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 如何从Gmail卸载Sales Connect {#how-to-uninstall-sales-connect-from-gmail}
+# 如何从Gmail {#how-to-uninstall-sales-connect-from-gmail}卸载Sales Connect
 
 用于Gmail的Sales Connect插件通过浏览器扩展运行。 您需要删除它，才能删除Gmail中的Sales Connect。
 
-1. 在 **Chrome**&#x200B;中，单击浏览器窗口右上角的三行。
-1. 单击“ **更多工具**”。
-1. 单击“ **扩展**”。
-1. 单击ToutApp for Chrome旁 **边的垃圾桶图标**。
+1. 在&#x200B;**Chrome**&#x200B;中，单击浏览器窗口右上角的三行。
+1. 单击&#x200B;**更多工具**。
+1. 单击&#x200B;**扩展**。
+1. 单击&#x200B;**ToutApp for Chrome**&#x200B;旁边的垃圾桶图标。
 
