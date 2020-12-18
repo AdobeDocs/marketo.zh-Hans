@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 设置应用程序内消息受众 {#set-your-in-app-message-audience}
+# 设置应用程序内消息受众{#set-your-in-app-message-audience}
 
 第一步是决定谁应接收您的应用程序内消息。 您需要设置智能列表。
 
-1. 单击 **编辑智能列表**。
+1. 单击&#x200B;**编辑智能列表**。
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 
@@ -27,19 +27,19 @@ ht-degree: 0%
    >
    >当前不支持应用程序内消息项目的“移动应用程序”字段的多个值。
 
-1. **App Open** 是默认的“操作”设置，但您可以选择已设置的任何自定义事件。
+1. **App** Open是默认的“操作”设置，但您可以选择已设置的任何自定义事件。
 
    ![](assets/image2016-5-9-15-3a20-3a23.png)
 
    >[!NOTE]
    >
-   >默认触发器（应用程序打开）和开发人员添加到代码的任何自定义触发器将自动显示在“操作”选择器中。 如果缺少自定义事件，请咨询您的开发人员，确保他们已将自定义事件添加到应用程序。 请注意，自定义事件编码和批准过程可能需要一些时间才能完成。 请参 [阅本文](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) ，了解详细信息。
+   >默认触发器（应用程序打开）和开发人员添加到代码的任何自定义触发器将自动显示在“操作”选择器中。 如果缺少自定义事件，请咨询您的开发人员，确保他们已将自定义事件添加到应用程序。 请注意，自定义事件编码和批准过程可能需要一些时间才能完成。 有关详细信息，请参阅[本文](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)。
 
-1. 约束可用于“具有 **移动应用程序活动** ”触发器（如果需要）。
+1. 如果需要，可对&#x200B;**“具有移动应用程序活动”**&#x200B;触发器使用约束。
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
-1. 您可以向智能列表添加过滤器，以限制接收您的应用程序内消息的用户。 在此示例中，使用“ **客户获取日期** ”过滤器，将只发送2016年6月9日获取的人员应用程序内消息。
+1. 您可以向智能列表添加过滤器，以限制接收您的应用程序内消息的用户。 在此示例中，使用&#x200B;**客户获取日期**&#x200B;过滤器，将只发送2016年6月9日获取的人员应用程序内消息。
 
    ![](assets/image2016-5-9-15-3a26-3a2.png)
 
@@ -49,10 +49,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >默认显示限制为“每 **个会话一次”**。 如果希望消息在收件人响应后停止显示，请选择“ **每次直到点击**”。 如果它应该每次显示，无论收件人做什么，请 **每次选择**。
+   >默认显示限制为&#x200B;**每个会话一次**。 如果希望消息在收件人响应后停止显示，请选择&#x200B;**每次直到点击**。 如果它应每次显示，无论收件人做什么，请选择&#x200B;**每次**。
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
 干得好！ 你有受众套。 你赢得了蓝条和绿勾号。
 
-选择应 [用程序内消息的时间](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+选择应用程序内消息[的时间！](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)
