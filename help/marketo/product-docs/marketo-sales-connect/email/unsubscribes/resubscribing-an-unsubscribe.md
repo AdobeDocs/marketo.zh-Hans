@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 重新订阅取消订阅 {#resubscribing-an-unsubscribe}
+# 重新订阅取消订阅{#resubscribing-an-unsubscribe}
 
 有时，人们希望选择回收电子邮件。 下面介绍如何使取消订阅再次可发送。
 
@@ -27,16 +27,16 @@ ht-degree: 0%
 >
 >如果已打开取消订阅同步，则必须从ToutApp中删除取消订阅，并取消选选择退出中Salesforce中的人员记录，才能再次不同步。
 
-1. 转到Web应 [用程序](http://toutapp.com/login) ，单击 **“人员”**。
+1. 转到[Web应用程序](http://toutapp.com/login)并单击&#x200B;**People**。
 1. 选择人员以打开人员详细信息视图。
 
    ![](assets/two.png)
 
-1. 单击人物详细信息视图中的三个圆点，然后选择“ **删除取消订阅**”。
+1. 单击人物详细信息视图中的三个圆点，然后选择&#x200B;**删除取消订阅**。
 
    ![](assets/three.png)
 
-1. 选择选择回访者接收电子邮件的原因，然后单击“删除取消 **订阅”**。
+1. 选择选择返回接收电子邮件的原因，然后单击&#x200B;**删除取消订阅**。
 
    ![](assets/four.png)
 
