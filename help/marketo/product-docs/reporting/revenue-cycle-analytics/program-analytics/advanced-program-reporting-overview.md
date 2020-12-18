@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 高级项目报告概述 {#advanced-program-reporting-overview}
+# 高级项目报告概述{#advanced-program-reporting-overview}
 
-**Revenue Cycle Explorer** 包括多个分析领域和一系列新指标，使您能够衡量项目的有效性。
+**收入周** 期分析工具包括多个分析领域和各种新指标，使您能够衡量项目有效性。
 
 ![](assets/rev.png)
 
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 ![](assets/image2015-4-30-10-3a15-3a17.png)
 
-## 什么是分析区？ {#whats-an-analysis-area}
+## 什么是分析区？{#whats-an-analysis-area}
 
 分析区域在收入浏览器中分别包含不同的数据集和指标。 每个区域都与您选择的报告主题相关。
 
-## 项目分析区 {#program-analysis-areas}
+## 项目分析区域{#program-analysis-areas}
 
 * ** [项目成本分析](understanding-the-program-cost-analysis-area.md) **-了解所有项目的ROI。
 
-* **项目 [会员分析](understanding-the-program-membership-analysis-area.md) **-按渠道、参与、成功标准等查看结果。
+* ** [项目会员分析](understanding-the-program-membership-analysis-area.md) **-按渠道、参与、成功标准等查看结果。
 
-* **项目 [机会分析](understanding-the-program-opportunity-analysis-area.md) **-基于分发、收入和ROI生成的机会。
+* ** [项目机会分析](understanding-the-program-opportunity-analysis-area.md) **-根据分发、收入和ROI生成的机会。
 
-* **项目 [收入阶段分析](understanding-the-program-revenue-stage-analysis-area.md) **-在收入周期模型中已进入特定成功阶段的新名称。
+* ** [项目收入阶段分析](understanding-the-program-revenue-stage-analysis-area.md) **-在收入周期模型中已到达特定成功阶段的新名称。
 
-## 项目分析器 {#program-analyzers}
+## 项目分析器{#program-analyzers}
 
 * **项目分析** 器——快速识别成功与否的项目，并适当地集中您的资源。
 
-* **机会影响分析器** -通过衡量项目和关键业务对产生机会的影响来证明营销的贡献。
+* **机会影响分析** 器——通过衡量项目和产生机会的关键参与的影响来证明营销的贡献。
 
-## 报告选项 {#report-options}
+## 报告选项{#report-options}
 
 在每个报告中，都有几个选项可帮助您自定义体验。
 
