@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. 从 **社交应** 用程 **序**&#x200B;操作中选择嵌入代码** **。
+1. 从社交应用程序操作中选择&#x200B;**嵌入** **代码**** **。
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. 复制站点页眉()和正文(`<head>`)的代`<body>`码。
+1. 复制站点页眉(`<head>`)和正文(`<body>`)的代码。
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. 如果您需要将社交应用程序的大小设置为页面上的特定尺寸，请向第 **二个代码片** 段添加 **outerHeight** 和outerWidth选项。 例如，可以添加选项=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;，如下所示：
+1. 如果您需要将社交应用程序的大小设置为页面上的特定尺寸，请将&#x200B;**outerHeight**&#x200B;和&#x200B;**outerWidth**&#x200B;选项添加到第二个代码片断中。 例如，可以添加选项=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;，如下所示：
 
    ![](assets/socialonsite-resizewidget2.png)
 
