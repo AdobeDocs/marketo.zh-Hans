@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 从未收到验证电子邮件 {#never-received-a-verification-email}
+# 从未收到验证电子邮件{#never-received-a-verification-email}
 
 没有收到我们发来的验证电子邮件？
 
