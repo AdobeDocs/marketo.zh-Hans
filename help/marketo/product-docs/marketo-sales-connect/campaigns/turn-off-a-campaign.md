@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 关闭活动 {#turn-off-a-campaign}
+# 关闭活动{#turn-off-a-campaign}
 
 需要在活动回复时自动结束收件人? 这是方法。
 
 >[!NOTE]
 >
->这仅适用于已与Gmail或Exchange集成并 [启用回复](https://toutapp.com/next#settings/email-tracking) 跟踪的客户。
+>这仅适用于已与[Gmail或Exchange](https://toutapp.com/next#settings/email-tracking)集成并启用回复跟踪的客户。
 
-## 关闭一人活动 {#turn-off-a-campaign-for-one-person}
+## 关闭一人活动{#turn-off-a-campaign-for-one-person}
 
-创建活动后，只需转到“设 **置** ”选项卡，并在有人回复时选择活动的行为方式。
+创建活动后，只需转到&#x200B;**设置**&#x200B;选项卡，并在有人回复时选择希望活动的行为方式。
 
 这两个选项都将结束活动,收件人将不会再收到您发送的任何电子邮件。
 
-## 关闭多人活动 {#turn-off-a-campaign-for-multiple-people}
+## 关闭多人活动{#turn-off-a-campaign-for-multiple-people}
 
 在已发送的文件夹中，选择联系人以从活动中删除这些联系人，并将筛选器设置为“全部”以捕获已收到活动的任何人。
 
