@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 视图活动列表作为其他用户 {#view-campaigns-list-as-another-user}
+# 视图活动列表作为其他用户{#view-campaigns-list-as-another-user}
 
 作为管理员，您可以像任何用户一样视图活动。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在Web应用程序中，单击 **活动**。
+1. 在Web应用程序中，单击&#x200B;**活动**。
 
    ![](assets/one-5.png)
 
-1. 单击 **视图** “为”下拉框，然后选择所需用户。
+1. 单击&#x200B;**视图As**&#x200B;下拉框并选择所需用户。
 
    ![](assets/two-4.png)
 
