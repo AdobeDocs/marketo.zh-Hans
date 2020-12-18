@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# 向Salesforce添加Sales Connect按钮 {#add-sales-connect-buttons-to-salesforce}
+# 将Sales Connect按钮添加到Salesforce {#add-sales-connect-buttons-to-salesforce}
 
-## 推向Marketo Sales Connect {#push-to-marketo-sales-connect}
+## 推送到Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. 依次转 **到安**&#x200B;装&#x200B;**、自定义**。
-1. 在“联系人／潜在客户／帐户”下，打开“搜 **索布局”**。
+1. 转至&#x200B;**设置**，然后&#x200B;**自定义**。
+1. 在“联系人／潜在客户／帐户”下，打开&#x200B;**搜索布局**。
 1. 编辑潜在客户列表视图，并将**推送至MSC **拖入选定按钮。
 
-## 发送营销人员销售电子邮件 {#send-marketo-sales-email}
+## 向营销人员发送电子邮件{#send-marketo-sales-email}
 
 1. 编辑潜在客户／联系人／帐户的页面布局。
 1. 选择“按钮”部分。
-1. 抓住“ **发送MSC电子邮件** ”按钮并将其拖 **入“详细信息** ”的“自定义按钮”部分。
+1. 抓住&#x200B;**“发送MSC电子邮件**”按钮，将其拖入“详细信息”的&#x200B;**“自定义按钮**”部分。
 
-## 通过Marketo Sales Connect致电 {#call-with-marketo-sales-connect}
-
-1. 编辑潜在客户／联系人／帐户的页面布局。
-1. 选择“按钮”部分。
-1. 用MSC **按钮抓取**Call并将其拖入“详细信 **息”的** “自定义按钮”部分。
-
-## 添加到活动 {#add-to-campaign}
+## 致电Marketo Sales Connect {#call-with-marketo-sales-connect}
 
 1. 编辑潜在客户／联系人／帐户的页面布局。
 1. 选择“按钮”部分。
-1. 抓取“ **添加到MSC活动** ”按钮并将其拖 **入“详细信息** ”的“自定义按钮”部分。
+1. 用MSC **按钮抓取**Call并将其拖入“详细信息”的&#x200B;**“自定义按钮”**&#x200B;部分。
+
+## 添加到活动{#add-to-campaign}
+
+1. 编辑潜在客户／联系人／帐户的页面布局。
+1. 选择“按钮”部分。
+1. 抓住&#x200B;**添加到MSC活动**&#x200B;按钮并将其拖入“详细信息”的&#x200B;**自定义按钮**&#x200B;部分。
 
