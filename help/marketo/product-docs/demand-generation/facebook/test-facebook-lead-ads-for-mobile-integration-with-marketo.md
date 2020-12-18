@@ -11,28 +11,28 @@ ht-degree: 0%
 ---
 
 
-# 测试Facebook潜在客户广告以与Marketo进行移动集成 {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
+# 测试Facebook潜在客户广告以与Marketo{#test-facebook-lead-ads-for-mobile-integration-with-marketo}进行移动集成
 
 在创建Lead Ad之后，您应该测试它！
 
 >[!PREREQUISITES]
 >
->您必须 [设置Facebook潜在客户广告集成](set-up-facebook-lead-ads.md)。
+>您必须[设置Facebook潜在客户广告集成](set-up-facebook-lead-ads.md)。
 
-1. 在Facebook Power Editor中，选择活动、广告，然后单击“编 **辑**”。
-1. 在“ **链接**”下，单击 **移动应用程序链接上的** 视图。
+1. 在Facebook Power Editor中，选择活动、广告，然后单击&#x200B;**编辑**。
+1. 在&#x200B;**链接**&#x200B;下，单击移动应用程序&#x200B;**上的**&#x200B;视图链接。
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
-1. 将向Facebook帐户发送新通知，您可以通过授权帐户在移动设备上访问该帐户。 单击 **确定**。
+1. 将向Facebook帐户发送新通知，您可以通过授权帐户在移动设备上访问该帐户。 单击&#x200B;**确定**。
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. 在您的移动设备上，点 **击Facebook** 移动应用程序中的“通知”。
+1. 在您的移动设备上，点按Facebook移动应用程序中的&#x200B;**通知**。
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
-1. 在通知中，点 **击您的广告可以预览**。
+1. 在通知中，点按&#x200B;**您的广告已准备好预览**。
 
    ![](assets/image2016-3-11-8-3a41-3a59.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
    >
    >这只是一个使用“了解更多行动动员”的示例。 您的潜在客户广告单元行动号召可能有所不同。
 
-1. 魔法就在这里发生！ 提交表单后，在Marketo [中构建智能列表](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ，作为项目的一部分，或在使用Flied Out Facebook潜在客户广告表 **单筛选器的潜在客户数据库中构建** 。 插入您刚提交的表单的潜在客户广告表单名称。
+1. 魔法就在这里发生！ 提交表单后，[在Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中构建智能列表，作为项目的一部分，或在使用&#x200B;**Filled Out Facebook Lead Ads Form**&#x200B;过滤器的潜在客户数据库中构建智能。 插入您刚提交的表单的潜在客户广告表单名称。
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
