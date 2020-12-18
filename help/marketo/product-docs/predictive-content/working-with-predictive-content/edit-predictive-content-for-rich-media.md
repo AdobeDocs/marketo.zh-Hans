@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 编辑富媒体的预测内容 {#edit-predictive-content-for-rich-media}
+# 编辑富媒体的预测内容{#edit-predictive-content-for-rich-media}
 
 >[!NOTE]
 >
->根据购买日期，您的营销订阅可能包括Marketo Predictive Content或<sup>ContentAI</sup>。 对于使用预测内容的用户，Marketo在2018<sup>年4月</sup> 30日之前将启用ContentAI Analytics功能。 要在该日期之后保持这些功能，请与您的Marketo客户成功经理联系以升级到Marketo<sup>ContentAI</sup>。
+>根据购买日期，您的营销订阅可能包括Marketo Predictive Content或Content<sup>AI</sup>。 对于使用预测内容的用户，Marketo在2018年4月30日之前将启用内容<sup>AI</sup>分析功能。 要使这些功能在该日期之后保持不变，请联系您的Marketo Customer Success Manager以升级到Marketo Content<sup>AI</sup>。
 
 下面介绍如何为富媒体设置预测内容。
 
 >[!PREREQUISITES]
 >
->必须批准所 [有内容页面上的](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) “预测性内容”。
+>对于“所有内容”页面上的预测性内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)，必须批准[内容。
 
-1. 在“预 **测内容** ”页面上，单击标题以打开编辑器。
+1. 在&#x200B;**预测内容**&#x200B;页面上，单击标题以打开编辑器。
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. 单击 **富媒体**。
+1. 单击&#x200B;**富媒体**。
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. 键入说 **明**。
+1. 键入&#x200B;**Description**。
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. 单击 **类别** 框以选择／添 [加已设置的类别](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) （可选）。
+1. 单击&#x200B;**类别**&#x200B;框以选择／添加已设置的[类别（可选）。](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 单击 **保存**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/save.png)
