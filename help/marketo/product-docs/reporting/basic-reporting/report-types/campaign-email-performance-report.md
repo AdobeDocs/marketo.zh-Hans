@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 活动电子邮件性能报告 {#campaign-email-performance-report}
+# 活动电子邮件性能报告{#campaign-email-performance-report}
 
-要查看按智能活动分组的电子邮件 [性能统计](http://docs.marketo.com/display/docs/smart+campaigns)，请运行“活动电子邮件性能”报告。
+要查看按[智能活动](http://docs.marketo.com/display/docs/smart+campaigns)分组的电子邮件性能统计数据，请运行活动电子邮件性能报告。
 
-1. [创建报告](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，然后选择 **活动电子邮件**[性能报告类型](report-type-overview.md)。
-1. [设置报告的时间范围](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然后单击“报 **告** ”选项卡。
+1. [创建报](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 表并选择活动 **电子邮件** [性能报表类型](report-type-overview.md)。
+1. [设置报告的时间范](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 围，然后单击报 **** 告选项卡。
 1. 现在浏览报告，了解活动中每封电子邮件的执行情况。
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
@@ -33,11 +33,11 @@ ht-degree: 0%
    | 软退回 | 由于临时情况（如服务器关闭或收件箱已满），电子邮件被拒绝。 |
    | 待定 | 电子邮件仍在发送过程中。 |
    | 已点击链接 | 单击电子邮件中链接的电子邮件收件人数。 |
-   | 取消订阅 | 单击电子邮件中的“取消订 **阅** ”链接并填写表单的电子邮件收件人数。 |
+   | 取消订阅 | 单击电子邮件中的&#x200B;**取消订阅**&#x200B;链接并填写表单的电子邮件收件人数。 |
 
    >[!NOTE]
    >
-   >一般来说，我们试图用常识来记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，他们显然会先打开它。 有关我们遵循的特定规则，请参阅电子邮 [件性能报告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
+   >一般来说，我们试图用常识来记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，他们显然会先打开它。 有关我们遵循的特定规则，请参阅[电子邮件性能报告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
 
    >[!NOTE]
    >
@@ -54,5 +54,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >通过基本报告了 [解更多信息。](http://docs.marketo.com/display/docs/basic+reporting)
+   >在[基本报告中了解更多信息。](http://docs.marketo.com/display/docs/basic+reporting)
 
