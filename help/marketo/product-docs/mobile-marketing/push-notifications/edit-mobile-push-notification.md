@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 编辑移动推送通知 {#edit-mobile-push-notification}
+# 编辑移动推送通知{#edit-mobile-push-notification}
 
 1. 转到“营销活动”区域。
 
@@ -25,5 +25,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->单击此处了解有 [关配置推送通知](configure-mobile-push-notification.md) 的更多信息。
+>单击此处，进一步了解[配置推送通知](configure-mobile-push-notification.md)。
 
