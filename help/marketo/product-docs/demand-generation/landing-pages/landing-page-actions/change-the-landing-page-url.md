@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可以修改登陆页的URL**。**这有助于使URL更易于记住，并改进SEO。
 
-1. 选择登陆页。 单击 **登陆页** 操作下拉框，滚动到 **URL工具** ，然后选 **择编辑URL设置。**
+1. 选择登陆页。 单击&#x200B;**登陆页操作**&#x200B;下拉框，滚动到&#x200B;**URL工具**&#x200B;并选择&#x200B;**编辑URL设置。**
 
    ![](assets/one.png)
 
-1. 输入 **新URL**，选择放弃或重定向旧URL，然后单击“保 **存”。**
+1. 输入&#x200B;**新URL**，选择放弃或重定向旧URL，然后单击“保存”。****
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >如果您决定保留这两个URL，将自动创建重定向规则。 进一步了 [解URL重定向](http://docs.marketo.com/display/public/DOCS/Redirect+a+URL+Path)。
+   >如果您决定保留这两个URL，将自动创建重定向规则。 了解有关[URL重定向](http://docs.marketo.com/display/public/DOCS/Redirect+a+URL+Path)的更多信息。
 
