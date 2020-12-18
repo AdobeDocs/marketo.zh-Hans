@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 升级Marketto Email Add-In for Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
+# 升级Outlook {#upgrade-your-marketo-email-add-in-for-outlook}的Marketo电子邮件插件
 
 当有新版Outlook的Marketo Email Add-in可用时，请按照以下说明进行升级。
 
-## 下载安装程序 {#download-installer}
+## 下载安装程序{#download-installer}
 
 下载适合您的Microsoft Outlook版本的安装程序。
 
@@ -113,7 +113,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 升级 {#upgrade}
+## 升级{#upgrade}
 
 1. 运行安装程序。
 
@@ -130,7 +130,7 @@ ht-degree: 0%
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. 您会注意到您的所有信息都已预填。 只需单击“下 **一步**”。
+1. 您会注意到您的所有信息都已预填。 只需单击&#x200B;**Next**。
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -142,11 +142,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. 单击“ **下一步**”。
+1. 单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. 安装现已完成。 单击 **关闭**。
+1. 安装现已完成。 单击&#x200B;**关闭**。
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
