@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# 为您的帐户启用个性化URL {#enable-personalized-urls-for-your-account}
+# 为您的帐户{#enable-personalized-urls-for-your-account}启用个性化URL
 
 个性化URL非常适合印刷邮件活动。
 
@@ -19,15 +19,15 @@ ht-degree: 1%
 >
 >**需要管理员权限**
 
-1. 转到“管理 **员** ”部分并单 **击登陆页**。
+1. 转到&#x200B;**Admin**&#x200B;部分，然后单击&#x200B;**登陆页**。
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. 单击 **编辑**。
+1. 单击&#x200B;**编辑**。
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. 选中“启 **用个性化URL** ”框，然 **后单击**“Save”。
+1. 选中&#x200B;**启用个性化URL**&#x200B;框，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
