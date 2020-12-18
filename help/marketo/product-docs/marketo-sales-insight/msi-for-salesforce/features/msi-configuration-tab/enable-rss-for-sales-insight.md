@@ -19,19 +19,19 @@ ht-degree: 0%
 
 如果Marketo用户不仅希望在Salesforce中视图其潜在客户源，还希望在RSS源中其潜在客户源，则Marketo管理员必须先启用它。 很简单。
 
-1. 在“我的营销人员”中，单 **击管** 理员，然 **后单击Sales Insight**。
+1. 在My Marketo中，单击&#x200B;**管理员**，然后单击&#x200B;**销售分析**。
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. 在“设置”上，单击“ **编辑**”。 请注意，RSS源显示为已 **禁用**。
+1. 在设置中，单击&#x200B;**编辑**。 请注意，RSS源显示为&#x200B;**Disabled**。
 
    ![](assets/rss-settings-tab.png)
 
-   在“编辑设置”对话框中，选中“RSS **源”复选框** ，然后单击“ **保存**”。
+   在“编辑设置”对话框中，选中&#x200B;**RSS feed**&#x200B;复选框，然后单击&#x200B;**保存**。
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   RSS源现在显示为已 **启用**。
+   RSS源现在显示为&#x200B;**Enabled**。
 
    ![](assets/rss-final-box.png)
 
