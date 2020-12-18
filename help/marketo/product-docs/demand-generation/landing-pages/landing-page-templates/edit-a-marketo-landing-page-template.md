@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 编辑营销人员登陆页模板 {#edit-a-marketo-landing-page-template}
+# 编辑营销登陆页模板{#edit-a-marketo-landing-page-template}
 
 您可以在Marketo中编辑任何登陆页模板。
 
-1. 转到 **Design Studio**。
+1. 转至&#x200B;**Design Studio**。
 
    ![](assets/designstudio.png)
 
-1. 展 **开登陆页** ，以显示模板。
+1. 展开&#x200B;**登陆页**&#x200B;以显示模板。
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. 选择 **要编** 辑的模板。 单击**编辑草稿**。
+1. 选择要编辑的&#x200B;**模板**。 单击**编辑草稿**。
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
