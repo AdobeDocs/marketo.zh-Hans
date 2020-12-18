@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 使用快速操作加快您的工作流程 {#using-quick-actions-to-speed-up-your-workflow}
+# 使用快速操作加快工作流{#using-quick-actions-to-speed-up-your-workflow}
 
 电子邮件网格中存在两种类型的快速操作列。 “电子邮件操作”（允许您对电子邮件执行操作）和“跟进操作”（允许您通过几次快速单击来执行参与操作）。
 
-## 电子邮件操作 {#email-actions}
+## 电子邮件操作{#email-actions}
 
 电子邮件快速操作是动态的，并根据您所查看电子邮件状态的相关操作进行更新。 每个电子邮件状态最多可显示两个电子邮件快速操作。 您可以看到以下每种状态都提供哪些电子邮件快速操作。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>删除</td> 
-   <td><p>将删除电子邮件。<br><strong>注意：</strong> 无法删除作为活动的一部分发送的电子邮件。</p></td> 
+   <td><p>将删除电子邮件。<br><strong>注意：</strong> 作为活动的一部分发送的电子邮件无法删除。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -58,7 +58,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>删除</td> 
-   <td><p>将删除电子邮件。<br><strong>注意：</strong> 无法删除作为活动的一部分发送的电子邮件。</p></td> 
+   <td><p>将删除电子邮件。<br><strong>注意：</strong> 作为活动的一部分发送的电子邮件无法删除。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -77,7 +77,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>删除</td> 
-   <td><p>将删除电子邮件。<br><strong>注意：</strong> 无法删除作为活动的一部分发送的电子邮件。</p></td> 
+   <td><p>将删除电子邮件。<br><strong>注意：</strong> 作为活动的一部分发送的电子邮件无法删除。</p></td> 
   </tr> 
  </tbody> 
 </table>
