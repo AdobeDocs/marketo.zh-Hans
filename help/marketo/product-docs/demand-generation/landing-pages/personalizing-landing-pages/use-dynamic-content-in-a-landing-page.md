@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在登陆页中使用动态内容 {#use-dynamic-content-in-a-landing-page}
+# 在登陆页{#use-dynamic-content-in-a-landing-page}中使用动态内容
 
 >[!PREREQUISITES]
 >
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 在登陆页中使用动态内容可让用户获得有针对性的信息。
 
-## 添加分段 {#add-segmentation}
+## 添加分段{#add-segmentation}
 
-1. 转到营 **销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -51,19 +51,19 @@ ht-degree: 0%
    >
    >默认情况下，所有登陆页元素均为静态。
 
-## 使元素动态 {#make-element-dynamic}
+## 使元素变为动态{#make-element-dynamic}
 
-1. 将元素从“静态”拖放到“动 **态”**。
+1. 将元素从Static拖放到&#x200B;**Dynamic**。
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. 您还可以从元素设置中将元素设置为“静态”或“动 **态”**。
+1. 您还可以从元素&#x200B;**设置**&#x200B;中将元素设置为静态或动态。
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
-## 应用动态内容 {#apply-dynamic-content}
+## 应用动态内容{#apply-dynamic-content}
 
-1. 选择段下的元素，然后单击“编 **辑”**。 对每个区段重复上述步骤。
+1. 选择段下的元素，然后单击&#x200B;**编辑**。 对每个区段重复上述步骤。
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
