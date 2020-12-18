@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 选择应用程序内消息 {#select-your-in-app-message}
+# 选择您的应用程序内消息{#select-your-in-app-message}
 
 此处是您选择要在项目中使用的消息的位置。
 
@@ -31,4 +31,4 @@ ht-degree: 0%
    >
    >要选择其他消息，请在“应用程序内消息”字段中将其删除。 然后，“新建应用程序内消息”链接会重新出现。 单击它并选择其他消息。
 
-你正在追踪。 计划发 [送的时间](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)。
+你正在追踪。 计划send[的时间。](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)
