@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 预测内容分析概述 {#predictive-content-analytics-overview}
+# 预测内容分析概述{#predictive-content-analytics-overview}
 
 使用内容分析进一步洞察您的现有内容，了解（基于AI和预测算法）哪些内容对您的受众有效，并从营销工作中提高ROI。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >“分析”选项卡和内容分析功能仅适用于Marketo Predictive Content。
 
-## 概述 {#overview}
+## 概述{#overview}
 
 在“摘要”页面上，单击分析。
 
@@ -45,13 +45,13 @@ ht-degree: 0%
 
 ![](assets/dates.png)
 
-## 按视图列出的热门内容 {#top-content-by-views}
+## 按视图排列的热门内容{#top-content-by-views}
 
 按所选日期范围内的视图数显示顶级内容片段。
 
 ![](assets/new-6.png)
 
-## 按转化率列出的热门内容 {#top-content-by-conversion-rate}
+## 按转化率{#top-content-by-conversion-rate}列出的热门内容
 
 按选定日期范围的转化率显示顶部转换内容。
 
@@ -63,13 +63,13 @@ ht-degree: 0%
 >
 >**转化率**:由直接转化除以点击量计算的百分比。
 
-## 趋势内容 {#trending-content}
+## 趋势内容{#trending-content}
 
 通过观察最近两周的视图量与上一时段的相比增加，显示内容文章的受欢迎程度激增。
 
 ![](assets/new-8.png)
 
-## 建议内容 {#suggested-content}
+## 建议内容{#suggested-content}
 
 根据您定义的筛选器显示我们建议您在营销活动中提升的内容。
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 >
 >看到底部的图标了吗？ 从左到右是：视图内容、导出到CSV、批准内容。
 
-## 内容 {#content}
+## 内容{#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
