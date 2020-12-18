@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Gmail未加入Sales Connect签名 {#gmail-not-pulling-in-sales-connect-signature}
+# Gmail未插入Sales Connect签名{#gmail-not-pulling-in-sales-connect-signature}
 
-我们实际上在Gmail中使用您的Gmail签名，而不是插入您 [的Sales Connect签名](http://toutapp.com/next#settings)。
+我们实际上在Gmail中使用您的Gmail签名，而不是插入您的[Sales Connect签名](http://toutapp.com/next#settings)。
 
-您可以在此处编辑您的 [签名](http://mail.google.com/mail/u/0/#settings/general)。
+您可以在Gmail [此处](http://mail.google.com/mail/u/0/#settings/general)编辑签名。
