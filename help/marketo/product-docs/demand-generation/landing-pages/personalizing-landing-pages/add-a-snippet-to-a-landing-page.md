@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 向登陆页添加代码片断 {#add-a-snippet-to-a-landing-page}
+# 将代码片断添加到登陆页{#add-a-snippet-to-a-landing-page}
 
 代码片段是少量HTML，可遵循规则并包含个性化内容。
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 
 
-1. 选择登陆页，然后单击“ **编辑草稿”**。
+1. 选择您的登陆页，然后单击“编辑草稿&#x200B;**”。**
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. 在登陆页编辑器中，拖动到“代码片断” **元素上** 。
+1. 在登陆页编辑器中，拖动到&#x200B;**Snippet**&#x200B;元素上。
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. 找到您的代码片断，选择它，然后单击“ **保存**”。
+1. 找到您的代码片断，选择它，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
@@ -41,6 +41,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您要向引导式登陆页添加片段，请参阅 [本文](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template)。
+   >如果要向引导式登陆页添加片段，请参阅[本文](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template)。
 
 太棒了！ 现在您了解如何向登陆页添加片段。
