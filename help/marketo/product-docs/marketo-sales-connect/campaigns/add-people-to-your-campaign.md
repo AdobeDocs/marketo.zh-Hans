@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 将人员添加到活动 {#add-people-to-your-campaign}
+# 将人员添加到活动{#add-people-to-your-campaign}
 
 向活动添加人有多种方法。
 
