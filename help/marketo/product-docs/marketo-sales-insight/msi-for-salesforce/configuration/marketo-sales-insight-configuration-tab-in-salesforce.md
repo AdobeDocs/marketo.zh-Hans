@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Salesforce中的Marketo Sales Insight配置选项卡 {#marketo-sales-insight-configuration-tab-in-salesforce}
+# Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}中的Marketo Sales Insight配置选项卡
 
-## 操作设置 {#operational-settings}
+## 操作设置{#operational-settings}
 
 您需要设置此设置，才能在SFDC中使用Sales Insight进行开始。
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 * Soap和Rest API有单独的超时时间，您可以根据组织的需求设置这些超时时间。 允许的最大时间为120秒
 * 禁用洞察仪表板:您可以删除Rest API凭据，并且只使用Soap API。 这样做将禁用所有MSI视觉强制面板中的“分析仪表板”选项卡
 
-## MSI配置 {#msi-configuration}
+## MSI配置{#msi-configuration}
 
 配置适用于所有MSI用户，并非特定于用户档案。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 * 活动(有趣的时刻、Web活动、电子邮件)默认设置为1000。 电子邮件活动和事件默认设置为200
 * 如果您注意到组织上的超时问题，您可以降低
 
-## 重置Marketto Sales Insight {#reset-marketo-sales-insight}
+## 重置Marketo Sales Insight {#reset-marketo-sales-insight}
 
 选择此操作将擦除SFDC中的所有配置，并且无法恢复这些配置。 您必须重新配置所有内容。
 
