@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 添加您的电子邮件签名 {#add-your-email-signature}
+# 添加您的电子邮件签名{#add-your-email-signature}
 
 我们希望从Sales Connect发送电子邮件，以便在从您自己的电子邮件客户端发送时感觉像一种无缝的体验。 这样做的一个好方法是添加电子邮件签名。
 
-1. 单击齿轮图标，然后选择“ **设置**”。
+1. 单击齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/add-your-email-signature-1.png)
 
-1. 在“我的帐户”下，选择“电 **子邮件设置**”。
+1. 在“我的帐户”下，选择&#x200B;**电子邮件设置**。
 
    ![](assets/add-your-email-signature-2.png)
 
-1. 单 **击“地址和签名** ”，然后选择要为其创建签名的电子邮件标识。
+1. 单击&#x200B;**地址和签名**，然后选择要为其创建签名的电子邮件标识。
 
    ![](assets/add-your-email-signature-3.png)
 
-1. 在签名卡中，单击“ **编辑**”。
+1. 在签名卡中，单击&#x200B;**编辑**。
 
    ![](assets/add-your-email-signature-4.png)
 
-1. 输入所需文本（或图像），然后单击“ **保存**”。
+1. 输入所需文本（或图像），然后单击“保存”**。**
 
    ![](assets/add-your-email-signature-5.png)
 
