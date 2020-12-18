@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 排除要跟踪的特定IP {#exclude-specific-ips-from-being-tracked}
+# 排除跟踪的特定IP {#exclude-specific-ips-from-being-tracked}
 
 是否曾希望从Web个性化中的跟踪和报告中排除您自己的员工和组织名称？
 
@@ -21,15 +21,15 @@ ht-degree: 0%
 >
 >完成此过程最多可能需要五分钟。
 
-1. 登录Web个性化并在登录下单击“帐 **户设置”**。
+1. 登录Web个性化并在登录下单击&#x200B;**帐户设置**。
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. 向下滚动到 **IP排除** 区域。 如果您是第一次排除IP地址，请单击空的“排除IP地 **址”字段** 。
+1. 向下滚动到&#x200B;**IP排除**&#x200B;区域。 如果您是第一次排除IP地址，请单击空的&#x200B;**排除IP地址**&#x200B;字段。
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. 输入要从跟踪和报告中排除的单个IP或IP范围，然后单击保 **存**。
+1. 输入要从跟踪和报告中排除的单个IP或IP范围，然后单击&#x200B;**保存**。
 
    ![](assets/exclude-ips-form-hands.png)
 
