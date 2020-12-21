@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: 指定帐户洞察——营销文档——产品文档
 title: 指定客户洞察
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 仪表板{#dashboard}
 
-仪表板聚合指定帐户内所有人员在帐户级别的重要洞察，从而避免了前往每个人评估其进度的需要。 您可以使用[电子邮件分析](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing)深入钻研电子邮件活动。
+仪表板聚合指定帐户内所有人员在帐户级别的重要洞察，从而避免了前往每个人评估其进度的需要。 您可以使用[电子邮件分析](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)深入钻研电子邮件活动。
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ ht-degree: 0%
 
 **有趣的时刻**
 
-[Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)的用户可查看帐户级别汇总的有趣时刻。
+Marketo Sales Insight的用户可查看帐户级别汇总的有趣时刻。
 
 ![](assets/int-mom.png)
 
 **顶级人物**
 
-这些人员根据根据指定帐户人员显示的近期情况或紧急情况（与销售分析中的[最佳下注](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets)相同）或用户定义的得分来计算优先级。 **Priority** 仅对Marketo Sales Insight的用户可用。
+这些人员根据根据指定帐户人员显示的近期情况或紧急情况（与销售分析中的[最佳下注](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)相同）或用户定义的得分来计算优先级。 **Priority** 仅对Marketo Sales Insight的用户可用。
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ ht-degree: 0%
 
 ## ICP指标{#icp-indicators}
 
-视图您在[调整模型](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning)时要导出的ICP指示器。
+视图您在[调整模型](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)时要导出的ICP指示器。
 
 ![](assets/eight.png)
-
