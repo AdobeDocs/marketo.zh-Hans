@@ -3,9 +3,9 @@ unique-page-id: 15695924
 description: 帐户分析排名和优化- Marketo Docs —— 产品文档
 title: 帐户分析排名和调整
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/results.png)
 
-虽然可选，但我们建议选中“自动提升”复选框，因为这将为您节省大量时间。 但是，如果您要浏览每个帐户，并且[手动添加它们](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)，只需取消选中该框。
+虽然可选，但我们建议选中“自动提升”复选框，因为这将为您节省大量时间。 但是，如果您要浏览每个帐户，并且[手动添加它们](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-crm-accounts)，只需取消选中该框。
 
 <table> 
  <tbody> 
@@ -66,20 +66,89 @@ ht-degree: 0%
 
 ![](assets/tuning-page.png)
 
-指标类别
+**指标类别**
 
-| **法规遵从性** | 认证、合规相关职位／招聘。 |
-|---|---|
-| **操作** | 与运营相关的职位／聘用。 |
-| **HR** | HR或工资单软件，与HR相关的职位／聘用。 |
-| **工程** | 技术、框架、工程相关职位／聘用。 |
-| **销售** | 用于销售、销售相关职位／招聘的解决方案和软件。 |
-| **用途** | 意图指示器。 |
-| **IT** | 硬件和软件解决方案、技术、IT相关职位／招聘。 |
-| **金融** | 财务软件、财务相关职位／聘用。 |
-| **营销** | 营销技术和软件、与营销相关的职位／聘用。 |
-| **商业** | 福布斯或Inc上市或建立商业伙伴关系。 |
-| **客户体验与关系** | 客户成功和客户关系职位／聘用。 |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>法规遵从性</strong></td> 
+   <td> 
+    <div>
+      认证、合规相关职位／招聘。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>操作</strong></td> 
+   <td> 
+    <div>
+      与运营相关的职位／聘用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>HR</strong></td> 
+   <td> 
+    <div>
+      HR或工资单软件，与HR相关的职位／聘用。
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>工程</strong></td> 
+   <td> 
+    <div>
+      技术、框架、工程相关职位／聘用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>销售</strong></td> 
+   <td> 
+    <div>
+      用于销售、销售相关职位／招聘的解决方案和软件。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>用途</strong></td> 
+   <td> 
+    <div>
+      意图指示器。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>IT</strong></td> 
+   <td> 
+    <div>
+      硬件和软件解决方案、技术、IT相关职位／招聘。
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>金融</strong></td> 
+   <td> 
+    <div>
+      财务软件、财务相关职位／聘用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>营销</strong></td> 
+   <td> 
+    <div>
+      营销技术和软件、与营销相关的职位／聘用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>商业</strong></td> 
+   <td> 
+    <div>
+      福布斯或Inc上市或建立商业伙伴关系。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>客户体验与关系</strong></td> 
+   <td> 
+    <div>
+      客户成功和客户关系职位／聘用。
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
 
 将鼠标悬停在工具提示上，可获得每列的说明。
 
@@ -89,7 +158,7 @@ ht-degree: 0%
 
 ![](assets/add-icp.png)
 
-选中“导出”框允许您在“指定帐户详细信息”页上查看ICP指示符，并将所选ICP指示符用作[指定帐户过滤器](http://docs.marketo.com/display/DOCS/Account+Filters)中的约束。
+选中“导出”框允许您在“指定帐户详细信息”页上查看ICP指示符，并将所选ICP指示符用作[指定帐户过滤器](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md)中的约束。
 
 ![](assets/export.png)
 
@@ -108,4 +177,3 @@ ht-degree: 0%
 模型调整完毕（刷新后）后，返回“模型结果”选项卡，单击&#x200B;**保存并应用排名**。
 
 ![](assets/ranks.png)
-
