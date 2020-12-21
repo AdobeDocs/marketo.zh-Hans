@@ -3,7 +3,7 @@ unique-page-id: 11381156
 description: Lead to Account Matching - Marketo Docs - Product Documentation
 title: 客户匹配潜在客户
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -25,17 +25,17 @@ Marketo Lead-to-Account Matching遵循4个步骤流程：
 
 * 电子邮件域（例如acme.com）
 * 从IP地址推断公司名
-* 公司名称——这可以是CRM帐户名称或潜在客户公司名称属性，例如来自表单填写
+* 公司名称——这可以是CRM帐户名称或潜在客户公司名称属性（例如，来自表单填写）
 
-**第2步——我** 们根据各种潜在客户属性（例如，Acme Inc.和Acme Corp自动标准化为Acme）标准化我们查找的公司名称。此步骤确保我们在Marketo中具有指定帐户的单一表示形式，并可以查看单个指定帐户中的所有潜在客户。
+**第2步-** 我们根据各种潜在客户属性（例如，Acme Inc.和Acme Corp自动标准化为Acme）标准化我们查找的公司名称。此步骤确保我们在Marketo中具有指定帐户的单一表示形式，并可以查看单个指定帐户中的所有潜在客户。
 
 **第3步——我** 们将匹配的Lead分为2个存储段：强与弱。
 
 * 弱匹配的潜在客户显示在指定的帐户上，然后可以手动解析这些帐户。
 
-**第4步——我** 们给出了一个强弱匹配的公司列表。当根据某个建议的公司创建指定帐户时，我们会创建匹配规则，以自动将新潜在客户（例如填写表单的潜在客户）转发到正确的指定帐户。 这样，您就不必再为匹配潜在客户而担心更多地为获得收入！
+**第4步——我** 们给出了一个强弱匹配的公司列表。当根据某个建议的公司创建指定帐户时，我们会创建匹配规则，以自动将新潜在客户（例如，已填写表单的潜在客户）转发到正确的指定帐户。 这样，您就不必再为匹配潜在客户而担心更多地为获得收入！
 
-由于“营销人员潜在客户到帐户”匹配是“基于营销人员帐户的营销”的内置功能，因此，匹配销售线索到帐户的操作几乎实时进行（例如，当潜在客户填写营销人员表单时，我们会将所述销售线索与正确的指定帐户相关联）。 此事件可用于触发警报并通知帐户所有者新潜在客户从其指定帐户中传入。
+由于“营销人员潜在客户到帐户”匹配是“基于营销人员帐户的营销”的内置功能，因此，匹配销售线索到帐户的操作几乎实时进行（例如，当潜在客户填写营销人员表单时，我们会将所述销售线索与正确的指定帐户关联）。 此事件可用于触发警报并通知帐户所有者新潜在客户从其指定帐户中传入。
 
 >[!NOTE]
 >
@@ -43,5 +43,4 @@ Marketo Lead-to-Account Matching遵循4个步骤流程：
 
 >[!MORELIKETHIS]
 >
->* [发现帐户](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-
+>[发现帐户](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
