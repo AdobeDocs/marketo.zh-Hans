@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: 市场指南
 user-guide-description: 营销产品文档
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -71,21 +71,21 @@ ht-degree: 0%
             + [创建层次](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
          + [帐户列表](product-docs/account-based-marketing/target/account-lists.md)
          + [在LinkedIn上创建匹配受众](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+      + 参与{#engage}
+         + [帐户过滤器](product-docs/account-based-marketing/engage/account-filters.md)
+         + [帐户触发器](product-docs/account-based-marketing/engage/account-triggers.md)
+      + 度量{#measure}
+         + [ABM主要仪表板](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
+         + [ABM报告设置](product-docs/account-based-marketing/measure/abm-report-setup.md)
+         + [ABM销售报告](product-docs/account-based-marketing/measure/abm-sales-report.md)
+         + [客户列表洞察](product-docs/account-based-marketing/measure/account-list-insights.md)
+         + [RCA中的指定帐户Dimension](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
+         + [指定客户洞察](product-docs/account-based-marketing/measure/named-account-insights.md)
+         + [使用角色](product-docs/account-based-marketing/using-personas.md)
    + 帐户分析{#account-profiling}
       + [设置帐户分析](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
       + [帐户分析排名和调整](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
       + [新帐户发现](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
-   + 参与{#engage}
-      + [帐户过滤器](product-docs/account-based-marketing/engage/account-filters.md)
-      + [帐户触发器](product-docs/account-based-marketing/engage/account-triggers.md)
-   + 度量{#measure}
-      + [ABM主要仪表板](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-      + [ABM报告设置](product-docs/account-based-marketing/measure/abm-report-setup.md)
-      + [ABM销售报告](product-docs/account-based-marketing/measure/abm-sales-report.md)
-      + [客户列表洞察](product-docs/account-based-marketing/measure/account-list-insights.md)
-      + [RCA中的指定帐户Dimension](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-      + [指定客户洞察](product-docs/account-based-marketing/measure/named-account-insights.md)
-      + [使用角色](product-docs/account-based-marketing/using-personas.md)
    + 其他应用程序{#additional-apps}
       + SEO {#seo}
          + 了解SEO {#understanding-seo}
@@ -783,7 +783,7 @@ ht-degree: 0%
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
