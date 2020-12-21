@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Account Insight插件概述- Marketo Docs —— 产品文档
 title: Account Insight插件概述
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 Account Insight是Chrome插件，可为您的销售团队提供可操作的ABM和客户洞察，使他们能够更有效地与客户互动。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >Account Insight包含于所有同时具有ABM和Marketo Sales Insight的客户。 对于只具有ABM的客户，可以通过购买的附加组件获得Account Insight。 每个客户仅限250个Account Insight席位。 有关详细信息，请与销售代表联系。 没有ABM的客户不能使用它。
 
 >[!CAUTION]
 >
->在启用了[SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only)（单点登录）的订阅中，Account Insight插件将无法工作。
+>在启用了[SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)（单点登录）的订阅中，Account Insight插件将无法工作。
 >
 >从帐户、潜在客户或联系人启动插件时，CRM上下文适用于Salesforce。 从“帐户”、“潜在客户”或“联系人”启动插件时，CRM上下文对Dynamics无效。 对于Dynamics用户，我们建议使用Account Insight插件。
 
@@ -71,7 +69,8 @@ Account Insight是Chrome插件，可为您的销售团队提供可操作的ABM�
 
 ![](assets/af1.png)
 
-单击&#x200B;**筛选器**&#x200B;下拉框，按不同的活动类型进行筛选。\
+单击&#x200B;**筛选器**&#x200B;下拉框，按不同的活动类型进行筛选。
+
 ![](assets/af2.png)
 
 可单击多个项目。 单击指定帐户以查看其详细信息。 单击用户的名称以查看其活动。 单击“更多活动”可查看更多活动。
@@ -82,9 +81,4 @@ Account Insight是Chrome插件，可为您的销售团队提供可操作的ABM�
 
 >[!MORELIKETHIS]
 >
->* [设置帐户分析](set-up-account-insight.md)
-
->
-
-
-
+>[设置帐户分析](/help/marketo/product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
