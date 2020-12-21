@@ -3,9 +3,9 @@ unique-page-id: 11380771
 description: 发布许可证- Marketo Docs —— 产品文档
 title: 颁发许可证
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要删除用户的许可证，请按照步骤1，然后&#x200B;*un*&#x200B;选中该复选框，并单击&#x200B;**保存**。
-
+   >要删除用户的许可证，请按照步骤1，取消选中该复选框，然后单击&#x200B;**保存**。
