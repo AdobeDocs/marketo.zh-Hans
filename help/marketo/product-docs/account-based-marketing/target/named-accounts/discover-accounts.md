@@ -3,9 +3,9 @@ unique-page-id: 11378812
 description: 发现帐户——营销文档——产品文档
 title: 发现帐户
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,11 @@ ht-degree: 0%
 >
 >将CRM连接到Marketo ABM后，**发现CRM帐户**&#x200B;将显示所有CRM帐户和相关信息，以帮助您选择正确的指定帐户。 Marketo在从CRM收到的内容的基础上添加其他信息。
 
-**People** (在Discover CRM帐户和Discover市场公司中):包括联系人和潜在客户。Lead可以使用Marketo的[潜在客户到帐户匹配](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching)来发现。 **潜在人员** （在Discover CRM帐户和Discover营销人员中）:显示Marketo找到的可能属于CRM帐户的潜在客户数。
+**People** (在Discover CRM帐户和Discover市场公司中):包括联系人和潜在客户。Lead可以使用Marketo的[潜在客户到帐户匹配](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)来发现。
 
-**自定义CRM字段** （仅在Discover CRM帐户中）:这将帮助您调整销售和营销组织，以选择正确的目标帐户。在您[将自定义CRM字段](http://docs.marketo.com/x/1wnG)与Marketo ABM映射后，我们将向您显示映射的数据，以帮助您识别目标帐户。
+**潜在人员** （在Discover CRM帐户和Discover营销人员中）:显示Marketo找到的可能属于CRM帐户的潜在客户数。
+
+**自定义CRM字段** （仅在Discover CRM帐户中）:这将帮助您调整销售和营销组织，以选择正确的目标帐户。在您[将自定义CRM字段](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)与Marketo ABM映射后，我们将向您显示映射的数据，以帮助您识别目标帐户。
 
 1. 在指定帐户中，单击&#x200B;**新建**&#x200B;下拉框，然后选择&#x200B;**发现CRM帐户**。
 
@@ -63,17 +65,17 @@ ht-degree: 0%
    >
    >在Discover Marketo公司和Discover CRM中， Marketo自动：
    >
-   > * 从Marketo公司库中查找记录了该数据的人员。 如果您看到某些属性（如Industry）的多个值，那是因为Marketo找到为这些个人列出的不同值。 命中率最高的属性获胜
+   >* 从Marketo公司库中查找记录了该数据的人员。 如果您看到某些属性（如行业）的多个值，那是因为Marketo找到为这些个人列出的不同值。 命中率最高的属性获胜
    >
    >仅在&#x200B;**发现CRM**&#x200B;中，Marketo自动：
    >
-   > * 将CRM联系人与指定帐户同步并关联
+   >* 将CRM联系人与指定帐户同步并关联
    >
    >仅在&#x200B;**发现营销公司**&#x200B;中，Marketo自动：
    >
-   > * 过滤器访问大多数Internet服务提供商和公共域(例如，[Yahoo.com](https://yahoo.com)、[Gmail.com](https://gmail.com))作为公司名
+   >* 过滤器以公司名的形式分发大多数互联网服务提供商和公共域（例如，yahoo.com、gmail.com）
       >
-      > 
+      >
    * 删除CRM帐户。 如果您在一条记录中有“Acme”和“Acme Inc”(或以下任何后缀：Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, Ltd, PA, PC, PLC, PLLC)，我们将把它们合并到ABM中，就像“Acme”
    >
    >如果您希望Marketo通过CRM ID或帐户所有者而不是公司名称来消除重复数据帐户，请与[Marketo支持部门](https://nation.marketo.com/t5/Support/ct-p/Support)联系。
@@ -116,5 +118,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [客户匹配潜在客户](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-
+>[客户匹配潜在客户](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
