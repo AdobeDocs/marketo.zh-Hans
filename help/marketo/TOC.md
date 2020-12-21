@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: 市场指南
 user-guide-description: 营销产品文档
 translation-type: tm+mt
-source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
+source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -68,7 +68,7 @@ ht-degree: 0%
             + [在指定帐户中筛选](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
             + [删除指定帐户](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
             + [ABM等级](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [创建层次](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
+            + [创建层次](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
          + [帐户列表](product-docs/account-based-marketing/target/account-lists.md)
          + [在LinkedIn上创建匹配受众](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
       + 参与{#engage}
@@ -783,7 +783,7 @@ ht-degree: 0%
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
