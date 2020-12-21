@@ -3,9 +3,9 @@ unique-page-id: 11380783
 description: ABM主要仪表板- Marketo Docs —— 产品文档
 title: ABM主要仪表板
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-要视图[帐户列表仪表板](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)，请单击您选择的帐户列表的名称……
+要视图[帐户列表仪表板](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md#account-list-dashboard)，请单击您选择的帐户列表的名称……
 
 ![](assets/four.png)
 
@@ -37,7 +37,6 @@ ht-degree: 0%
 
 ![](assets/six.png)
 
-...和视图[命名帐户的洞察](http://docs.marketo.com/display/DOCS/Named+Account+Insights)。
+...和视图[命名帐户的洞察](/help/marketo/product-docs/account-based-marketing/measure/named-account-insights.md)。
 
 ![](assets/seven.png)
-
