@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: 设置帐户分析- Marketo Docs —— 产品文档
 title: 设置帐户分析
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->必须先配置](http://docs.marketo.com/display/DOCS/Account+Score)ABM帐户得分[。
+>必须先配置](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md)ABM帐户得分[。
 
 1. 单击&#x200B;**管理员**。
 
@@ -37,9 +37,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果[帐户得分设置](http://docs.marketo.com/display/DOCS/Account+Score)在任何时间更新，则管理员需要更新“ABM销售”下的配置，以确保得分准确反映用户的偏好。 用户需要注销并重新登录才能看到更改。
+   >如果[帐户得分设置](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md)在任何时间更新，则管理员需要更新“ABM销售”下的配置，以确保得分准确反映用户的偏好。 用户需要注销并重新登录才能看到更改。
 
 1. 单击&#x200B;**保存**。
 
    ![](assets/five-4.png)
-
