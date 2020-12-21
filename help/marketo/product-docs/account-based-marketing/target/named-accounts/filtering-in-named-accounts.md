@@ -3,7 +3,7 @@ unique-page-id: 12615804
 description: 在指定帐户中筛选- Marketo Docs —— 产品文档
 title: 在指定帐户中筛选
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >有几个搜索参数组合。 在此示例中，我们找到：*行业=银行业，国家=美国，最大员工= 10000*。
+   >有几个搜索参数组合。 在此示例中，我们找到：_行业=银行业，国家=美国，最大员工= 10000_。
 
 1. 单击&#x200B;**Industry**&#x200B;下拉框并选择&#x200B;**Banking**。
 
@@ -44,4 +44,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >要添加更多可供选择的过滤器，请单击表单左下方的&#x200B;**添加过滤器**。
-
