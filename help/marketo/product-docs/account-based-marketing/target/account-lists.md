@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: 帐户列表- Marketo Docs —— 产品文档
 title: 帐户列表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Web Personalization](http://docs.marketo.com/display/DOCS/RTP+Segments)中构建智能列表和Web活动时，在Marketo Account Based Marketing中创建的帐户列表会自动可用。
+>在[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中构建智能列表和Web活动时，在Marketo Account Based Marketing中创建的帐户列表会自动可用。
 
 ## 创建新帐户列表{#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/three-0.png)
 
-1. 创建帐户列表后，开始在[中添加指定帐户！](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)
+1. 创建帐户列表后，开始在[中添加指定帐户！](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这些步骤仅适用于帐户列表。 ** Dynamicaccount列表使用其关联的CRM帐户视图的名称。
+>这些步骤仅适用于帐户列表。 __ Dynamicaccount列表使用其关联的CRM帐户视图的名称。
 
 1. 选择要重命名的帐户，单击&#x200B;**帐户列表操作**&#x200B;下拉框，然后选择&#x200B;**重命名帐户列表**。
 
@@ -91,10 +91,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [将现有指定帐户添加到帐户列表](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [客户列表洞察](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
-
->
-
-
+>* [将现有指定帐户添加到帐户列表](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [客户列表洞察](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)
 
