@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: 帐户过滤器- Marketo Docs —— 产品文档
 title: 帐户过滤器
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 如果使用“is any”限定符，您可能希望利用[约束](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter)来缩小搜索结果范围。 添加任意所需数量的内容！
+1. 如果使用“is any”限定符，您可能希望利用[约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)来缩小搜索结果范围。 添加任意所需数量的内容！
 
    ![](assets/nine.png)
 
@@ -67,5 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [帐户触发器](account-triggers.md)
-
+>[帐户触发器](/help/marketo/product-docs/account-based-marketing/engage/account-triggers.md)
