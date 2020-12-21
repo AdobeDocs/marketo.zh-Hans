@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: 帐户列表洞察——营销文档——产品文档
 title: 客户列表洞察
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -57,4 +57,3 @@ ht-degree: 0%
 单击&#x200B;**使用者**&#x200B;选项卡，查看哪些资产引用该帐户列表。
 
 ![](assets/four-2.png)
-
