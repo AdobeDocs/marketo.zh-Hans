@@ -3,7 +3,7 @@ unique-page-id: 12980105
 description: 邀请用户访问帐户分析- Marketo文档——产品文档
 title: 邀请用户访问帐户分析
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -52,4 +52,3 @@ ht-degree: 0%
 1. 查看发送消息，进行任何所需的更改（可选），然后单击&#x200B;**发送**。
 
    ![](assets/seven-2.png)
-
