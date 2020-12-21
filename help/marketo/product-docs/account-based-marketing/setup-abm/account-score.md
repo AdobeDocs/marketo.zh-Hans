@@ -3,9 +3,9 @@ unique-page-id: 11380774
 description: 帐户得分——营销文档——产品文档
 title: 帐户得分
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**说明**
->
->要计算帐户分数，您首先需要创建潜在客户分数。 Marketo ABM自动聚合将分数推向帐户分数。 作为示例，我们将举两个以上示例（*帐户**产品兴趣得分*&#x200B;和&#x200B;*帐户Web参与得分*）。
+>要计算帐户分数，您首先需要创建潜在客户分数。 Marketo ABM自动聚合将分数推向帐户分数。 作为示例，我们将举两个以上示例（_帐户产品兴趣得分_&#x200B;和&#x200B;_帐户Web参与得分_）。
 >
 >首先，创建从目标帐户的每个潜在客户中捕获相关详细信息的潜在客户得分字段。\
 >然后，将这些潜在客户分数分配给相应的帐户分数：\
@@ -61,17 +59,16 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您最多可以选择**5个**字段来计算帐户得分。
+   >您最多可以选择&#x200B;**五个**&#x200B;字段来计算帐户得分。
 
 1. 输入帐户得分名称，单击&#x200B;**选择人员得分**&#x200B;下拉框，然后选择相应的得分。
 
    ![](assets/four.png)
 
-1. 单击**+添加**可添加更多分数。
+1. 单击&#x200B;**+Add**&#x200B;可添加更多得分。
 
    ![](assets/five.png)
 
 1. 添加所有所需的分数。 完成后，单击&#x200B;**保存**。
 
    ![](assets/six.png)
-
