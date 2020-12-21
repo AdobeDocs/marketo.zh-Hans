@@ -3,7 +3,7 @@ unique-page-id: 11384438
 description: ABM报告设置- Marketo Docs —— 产品文档
 title: ABM报告设置
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -78,4 +78,3 @@ ABM销售报告是每周发送给客户团队的个性化电子邮件。
 1. 选择要再次接收电子邮件的用户，然后单击&#x200B;**重新订阅**。
 
    ![](assets/eleven.png)
-
