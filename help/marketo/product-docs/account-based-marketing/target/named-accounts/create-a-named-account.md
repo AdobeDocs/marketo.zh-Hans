@@ -3,7 +3,7 @@ unique-page-id: 12615781
 description: 创建指定帐户- Marketo Docs —— 产品文档
 title: 创建指定帐户
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -29,9 +29,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [将人员添加到指定帐户](add-people-to-a-named-account.md)
-
->
-
-
-
+>[将人员添加到指定帐户](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
