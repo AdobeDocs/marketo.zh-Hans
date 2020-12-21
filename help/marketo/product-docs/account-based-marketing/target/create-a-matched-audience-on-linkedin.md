@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: 在LinkedIn - Marketo Docs —— 产品文档上创建匹配受众
 title: 在LinkedIn上创建匹配受众
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[将匹配受众的LinkedIn添加为LaunchPoint服务](http://docs.marketo.com/x/I4Fy)
+>[将匹配受众的LinkedIn添加为LaunchPoint服务](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. 在ABM中，单击&#x200B;**帐户列表**&#x200B;选项卡。
 
@@ -49,13 +49,6 @@ ht-degree: 0%
 
    就这样。 您的受众已推送到LinkedIn。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [将营销人员列表或智能列表用作LinkedIn受众细分](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[将营销人员列表或智能列表用作LinkedIn受众细分](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
