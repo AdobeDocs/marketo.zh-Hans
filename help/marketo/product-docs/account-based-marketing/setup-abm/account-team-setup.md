@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: 帐户团队设置——营销文档——产品文档
 title: 帐户团队设置
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**说明**
+   >当具有不同帐户所有者的多个CRM帐户合并到指定帐户时，Marketo将选择一个“帐户所有者”，并将其他帐户所有者添加为“帐户共同所有者”
    >
-   >    
-   >    
-   >    * 当具有不同帐户所有者的多个CRM帐户合并到指定帐户时，Marketo将选择一个“帐户所有者”，并将其他帐户所有者添加为“帐户共同所有者”
-   >    * 如果CRM的“角色”字段稍后被重命名或删除，Marketo ABM将停止同步更新的值，直到用户手动更新ABM中的设置
-
-
+   >如果CRM的“角色”字段稍后被重命名或删除，Marketo ABM将停止同步更新的值，直到用户手动更新ABM中的设置
