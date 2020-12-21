@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: RCA中的指定帐户Dimension- Marketo Docs —— 产品文档
 title: RCA中的指定帐户Dimension
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**定义**
->
->**Dimension**-属性（用黄色圆点表示），它们给出不同视图的度量。
+>**Dimension** -给出不同视图度量的属性（由黄点表示）。
 
 ![](assets/one-2.png)
 
@@ -35,8 +33,6 @@ ht-degree: 0%
 * 项目会员资格分析
 
 >[!NOTE]
->
->**示例**
 >
 >以下是收入周期分析中Marketo ABM的一些示例。
 
@@ -55,12 +51,3 @@ ht-degree: 0%
 对指定帐户中的优质潜在客户和参与的覆盖
 
 ![](assets/five-2.png)
-
->[!MORELIKETHIS]
->
->* [收入周期分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
-
->
-
-
-
