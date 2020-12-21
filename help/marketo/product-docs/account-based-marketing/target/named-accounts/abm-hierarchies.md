@@ -3,9 +3,9 @@ unique-page-id: 13795510
 description: ABM层次结构- Marketo文档——产品文档
 title: ABM等级
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 0%
 >
 >Marketo界面最多只显示10个级别（父帐户的子帐户和孙帐户），但您可以创建的子帐户数没有限制。
 
-目标并报告整个层次，单击[一下。](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount)
+目标并报告整个层次，单击[一下。](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account)
 
 ![](assets/member.png)
-
