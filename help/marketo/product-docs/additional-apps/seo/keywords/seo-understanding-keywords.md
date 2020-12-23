@@ -3,7 +3,7 @@ unique-page-id: 2949182
 description: SEO —— 了解关键字- Marketo Docs —— 产品文档
 title: SEO —— 了解关键字
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 关键字是您的SEO战略的支柱。 您的目标是在第一页，尽可能靠近#1，以获得与您的业务相关的关键字。
 
-关键字部分将向您显示您的站点在实现此功能方面有多成功，以及您如何进行[竞争。](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+关键字部分将向您显示您的站点在实现此功能方面有多成功，以及您如何进行[竞争](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)的总结。
 
 ## 关键字——摘要视图{#keywords-summary-view}
 
@@ -62,10 +62,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [了解页面](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [了解入站链接](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-
->
-
-
+>* [了解页面](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [了解入站链接](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
