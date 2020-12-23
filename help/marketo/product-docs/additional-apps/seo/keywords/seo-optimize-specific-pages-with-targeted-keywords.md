@@ -3,7 +3,7 @@ unique-page-id: 2949212
 description: SEO —— 使用目标关键字优化特定页面- Marketo Docs —— 产品文档
 title: SEO —— 使用目标关键字优化特定页面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. 选择要优化页面的关键字。 单击&#x200B;**UPDATE**。
+1. 选择要优化页面的关键字。 单击&#x200B;**更新**。
 
    >[!TIP]
    >
@@ -32,4 +32,3 @@ ht-degree: 0%
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
    就这样！ 对尽可能多的页面和关键字执行此操作。
-
