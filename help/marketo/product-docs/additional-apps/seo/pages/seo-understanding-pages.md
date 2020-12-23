@@ -3,9 +3,9 @@ unique-page-id: 2949184
 description: SEO —— 了解页面——营销文档——产品文档
 title: SEO —— 了解页面
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 页面优化得分是对页面在搜索方面的优化程度（1到100）的总体排名。 它基于SEO的许多最佳实践。
 
-* ~ 00 - 35 =未优化
-* ~ 35 - 70 =在正确的轨道上
-* ~ 70 - 100 =做得好！
+* 0 - 35 =未优化
+* 35 - 70 =在正确的轨道上
+* 70 - 100 =做得好！
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ ht-degree: 0%
 | 标题 | 域中所有页面的标题和URL。 验证您的域。 |
 | 优化得分 | 用于向您展示针对1到100范围的搜索优化了页面的效果的秘密酱汁。 |
 | 链接 | 至少1个站点入站链接的不同域数。 |
-| 目标关键字 | 您决定为每个页面优化的关键字。 [这需要您的意见](seo-using-the-page-detail-drill-down.md)。 |
+| 目标关键字 | 您决定为每个页面优化的关键字。 [这需要您的意见](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)。 |
 
 ## 问题选项卡{#issues-tab}
 
@@ -53,7 +53,4 @@ ht-degree: 0%
 | 类别 | 报告的问题类型。 |
 | 状态 | 是任务完成还是仍然打开。 在您和您的Web站点管理员修复站点上的问题后，状态将更改为已解决（绿色检查）。 |
 
-太棒了，既然您已经了解了页面的基础知识，请查阅页面详细信息展开文章以了解您可以做的更酷的事情。
-
-* [使用页面详细信息向下钻取](seo-using-the-page-detail-drill-down.md)
-
+太棒了，既然您了解了页面的基础知识，请查阅[页面详细信息向下钻取文章](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)以了解您可以做的更多很酷的事情。
