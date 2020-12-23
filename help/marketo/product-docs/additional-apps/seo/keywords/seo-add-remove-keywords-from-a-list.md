@@ -3,9 +3,9 @@ unique-page-id: 2949678
 description: SEO —— 从列表添加／删除关键字- Marketo Docs —— 产品文档
 title: SEO —— 添加／删除列表中的关键字
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
-哇！ 选择列表以查看新关键字。
+哇喔！ 选择列表以查看新关键字。
 
 ## 从列表{#remove-keyword-from-list}删除关键字
 
@@ -53,15 +53,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >关键字当前所属的所有列表都将带有复选标记。 从列表删除后，该复选将消失。 魔法！
+   >关键字当前所属的所有列表都将带有复选标记。 从列表删除后，该复选将消失。
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
    完美，该列表中不再包含关键字。 刷新页面以更新显示屏。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >    
-   >* [了解关键字(摘要视图)](seo-understanding-keywords.md)
-
+   >[了解关键字(摘要视图)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
