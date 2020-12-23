@@ -3,9 +3,9 @@ unique-page-id: 2949220
 description: SEO —— 向页面问题添加注释- Marketo Docs —— 产品文档
 title: SEO —— 向页面问题添加注释
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. 在页面选项卡上，单击问题。
+1. 在“页面”选项卡上，单击“问题”**。**
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. 将指针悬停在要添加备注的问题上。 单击“添加便签”。
+1. 将指针悬停在要添加备注的问题上。 单击&#x200B;**添加附注**。
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->单击左上角的小x可删除注释。
+>单击左上角的小&#x200B;**x**&#x200B;可删除注释。
 
 ## 在页面详细信息向下钻取{#add-notes-in-page-detail-drill-down}中添加注释
 
@@ -51,11 +51,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. 输入您的备注。 单击&#x200B;**SAVE**。
+1. 输入您的备注。 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   真棒。 您的备注已添加。
+   您的备注已添加！
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)
-
