@@ -3,9 +3,9 @@ unique-page-id: 2949194
 description: SEO —— 添加站点／删除站点- Marketo Docs —— 产品文档
 title: SEO —— 添加站点／删除站点
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 为了使Market能够拉取与网站页面相关的数据（入站链接和推荐），您必须在此处定义网站的URL。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
@@ -39,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您有博客URL **，还可以添加一个** ****&#x200B;博客URL。
+   >如果您有&#x200B;**博客URL**，则还可以添加一个。
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -62,10 +60,11 @@ ht-degree: 0%
 1. 单击&#x200B;**删除**。
 
    ![](assets/seven.png)
-确认要删除。
+
+1. 确认要&#x200B;**删除**。
+
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >您只能删除多个站点。 如果您只有一个，则可以通过选择站点并单击&#x200B;**重置**&#x200B;执行重置。 重置站点将&#x200B;*删除所有站点数据*&#x200B;并重新创建该站点。
-
+   >您只能删除多个站点。 如果您只有一个，则可以通过选择站点并单击&#x200B;**重置**&#x200B;执行重置。 重置站点将&#x200B;_删除所有站点数据_&#x200B;并重新创建该站点。
