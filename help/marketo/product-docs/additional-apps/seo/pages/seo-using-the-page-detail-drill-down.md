@@ -3,7 +3,7 @@ unique-page-id: 2949186
 description: SEO —— 使用页面详细信息向下钻取- Marketo Docs —— 产品文档
 title: SEO —— 使用页面详细信息向下钻取
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ## 已针对{#keyword-s-that-page-is-optimized-for}优化页面的关键字
 
-在此，您[选择您要为](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)优化页面的关键字。
+在此，您[选择您要为](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)优化页面的关键字。
 
 >[!NOTE]
 >
@@ -64,9 +64,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用目标关键字优化特定页面](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-
->
-
-
-
+>[使用目标关键字优化特定页面](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
