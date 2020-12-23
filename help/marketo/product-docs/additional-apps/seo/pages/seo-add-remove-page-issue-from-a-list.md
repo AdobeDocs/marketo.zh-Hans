@@ -3,9 +3,9 @@ unique-page-id: 2949266
 description: SEO —— 从列表添加／删除页面问题- Marketo Docs —— 产品文档
 title: SEO —— 在列表中添加／删除页面问题
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. 在“页面”选项卡上，单击“问题”**。**
-1. ![](assets/image2014-9-18-14-3a3-3a18.png)
+1. 在“页面”选项卡上，单击&#x200B;**问题**。
+
+   ![](assets/image2014-9-18-14-3a3-3a18.png)
 
 1. 将指针悬停在要添加的页面问题上。 单击&#x200B;**从列表**&#x200B;添加／删除。
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
    单击要将页面期刊添加到的列表。
+
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
