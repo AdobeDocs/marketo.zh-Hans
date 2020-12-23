@@ -3,9 +3,9 @@ unique-page-id: 2949204
 description: SEO —— 添加关键字- Marketo Docs —— 产品文档
 title: SEO —— 添加关键字
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您有许多关键字，则可以[使用CSV文件](seo-importing-keywords-with-a-csv.md)导入这些关键字。
+>如果您有许多关键字，则可以[使用CSV文件](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)导入这些关键字。
 
 1. 转到&#x200B;**关键字**&#x200B;部分。
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. 输入要目标的关键字，然后单击&#x200B;**SAVE**。
+1. 输入要目标的关键字，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
@@ -33,13 +33,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [了解关键字(摘要视图)](seo-understanding-keywords.md)
-
+   >[了解关键字(摘要视图)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
 干得好！ 您现在应看到关键字列表的新增内容。
