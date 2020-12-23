@@ -3,9 +3,9 @@ unique-page-id: 2949273
 description: SEO —— 使用关键字趋势报表- Marketo文档——产品文档
 title: SEO —— 使用关键字趋势报表
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -62,10 +62,5 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [利用竞争KW排名趋势报告](seo-use-the-competitor-kw-trends-report.md)
-
+   >[利用竞争KW排名趋势报告](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
 
