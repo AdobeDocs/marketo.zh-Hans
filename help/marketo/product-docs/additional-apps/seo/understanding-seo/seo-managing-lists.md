@@ -3,7 +3,7 @@ unique-page-id: 2949232
 description: SEO —— 管理列表- Marketo Docs —— 产品文档
 title: SEO —— 管理列表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -29,11 +29,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以在下拉框中创建新列表。 输入标题，按回车键。 ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
+   >您可以在下拉框中创建新列表。 输入标题，按回车键。
 
-1. 单击&#x200B;**SAVE**。
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
    组织愉快！
-
