@@ -3,9 +3,9 @@ unique-page-id: 2949218
 description: SEO —— 从列表添加／删除页面- Marketo Docs —— 产品文档
 title: SEO —— 添加／删除页面至列表
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
-1. 耶！ 您现在应该可以看到您的页面已添加到列表。
+耶！ 您现在应该可以看到您的页面已添加到列表。
 
 ## 从列表{#remove-page-from-a-list}中删除页面
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. 在页面选项卡上，单击要清理的列表。
+1. 在“页面”选项卡上，单击要清理的列表。
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
@@ -61,5 +61,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-1. 砰。 完成。 您的页面会从列表中删除。
-
+完成。 您的页面会从列表中删除。
