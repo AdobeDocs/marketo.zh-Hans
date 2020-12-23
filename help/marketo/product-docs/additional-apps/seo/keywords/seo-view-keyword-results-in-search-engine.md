@@ -3,7 +3,7 @@ unique-page-id: 2949238
 description: SEO —— 搜索引擎中的视图关键字结果- Marketo Docs —— 产品文档
 title: SEO —— 搜索引擎中的视图关键字结果
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 1. 太棒了！ 现在，您应该会在新窗口中看到关键字的搜索结果。
 
    ![](assets/image2014-9-18-13-3a34-3a24.png)
-
