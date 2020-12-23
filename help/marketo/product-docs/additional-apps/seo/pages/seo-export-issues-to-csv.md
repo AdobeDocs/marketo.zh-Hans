@@ -3,7 +3,7 @@ unique-page-id: 2949222
 description: SEO —— 将问题导出到CSV - Marketo Docs —— 产品文档
 title: SEO —— 将问题导出到CSV
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # SEO —— 将问题导出到CSV {#seo-export-issues-to-csv}
 
-1. 如果您希望与市场以外的人员共享您的[页面问题](seo-understanding-pages.md)数据，可以将该数据导出到CSV文件。 这是方法。
+如果您希望与市场以外的人员共享您的[页面问题](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)数据，可以将该数据导出到CSV文件。 这是方法。
+
 1. 转到&#x200B;**页**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
@@ -22,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   这是[页面详细信息向下钻取](seo-using-the-page-detail-drill-down.md)。 **页面优** 化结果是该特定页面所有问题的列表。
+   这是[页面详细信息向下钻取](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)。 **页面优** 化结果是该特定页面所有问题的列表。
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
@@ -31,4 +32,3 @@ ht-degree: 0%
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 
 1. 完美！ 您现在已将此页面的所有期刊下载到CSV文件中。 很酷吧？
-
