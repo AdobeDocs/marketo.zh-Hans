@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: 网站区段——营销文档——产品文档
 title: 网络细分
 translation-type: tm+mt
-source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
+source-git-commit: f1fb2de271660904b8504e929f1428831e7188c1
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2024'
 ht-degree: 0%
 
 ---
@@ -101,38 +101,32 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**细分规则逻辑**
+>**Segmentregellogik**
 >
->有三个筛选选项：
+>这是吉布特德雷·菲尔特罗普蒂宁：
 >
->1. 使用所有过滤器（1和2和3...）
->1. 使用任何过滤器（1或2或3...）
->1. 高级过滤器(使用和／或表达式)
+>1. Alle Filter verwenden(1, 2 und 3...)
+>1. Alle Filter verwenden（1顺序2,3...）
+>1. 埃尔韦闹滤器（麻省理工／奥斯德吕克恩教授）
 
    >
    >    
-   高级过滤器允许您控制段条件。 输入以“和”和“或”分隔的筛选器编号。
-   >
-   >    
-   * 1和2和3
-   >    * 1或2或3
+   Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrent durch &quot;und&quot; and &quot;oder&quot; ein.
 
-   >
-   混合“和”和“或”需要括号来阐明逻辑意图。 例如，“1或2”和“3”必须作为以下内容之一写成：
+   * 1 und 2 und 3
+   * 1个2个3
 
-   * 1和（2或3）
-   * （1和2）或3
+   Das Mischen von &quot;and&quot; und &quot;or&quot; refordert Klammern, um die Logikabsicht zu verdeutlichen. z.B. &quot;1分2秒3&quot;的文章：
 
-   对于更复杂的逻辑，如
+   * 1个UND（2个3）
+   * （1和2）
 
-   * （1和2）或（3和4）
-   * 1和(2或（3和4）)
+   Verschachtelte Klammern werden für eine kompliziertere Logik, z.
 
-   在插入、删除或重新排序后检查逻辑。
+   * (1 und 2 oder(3 und 4)
+   * 1和2的3和4
 
-
-
-
+   Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanorden.
 
 
 将右侧列中的区段属性拖放到左侧的区段编辑器中：
@@ -157,8 +151,7 @@ ht-degree: 0%
 * **城市** -进入您希望包括的城市。在城市之间使用分号。
 
 >[!TIP]
->
->**我选择哪些细分条件？“AND”或“OR”?** OR在每个字段中用作附加选项。潜在客户只需满足每个字段中选定的多个标准中的一个标准，即可获得区段资格。 (例如，潜在客户可以来自U,S. *或来自国防工业的*)。 AND函数作为此段必须满足的附加必需参数。 (例如，潜在客户必须来自美国和国防工业)。 在每个分段用户档案中，每个单独的字段都可以同时使用“AND”或“OR”，具体取决于所选的“段条件”。
+**我选择哪些细分条件？“AND”或“OR”?** OR在每个字段中用作附加选项。潜在客户只需满足每个字段中选定的多个标准中的一个标准，即可获得区段资格。 (例如，潜在客户可以来自U,S. *或来自国防工业的*)。 AND函数作为此段必须满足的附加必需参数。 (例如，潜在客户必须来自美国和国防工业)。 在每个分段用户档案中，每个单独的字段都可以同时使用“AND”或“OR”，具体取决于所选的“段条件”。
 
 **行** 业在“ **用户档案** 细分”部分，选中“行业”旁 **边的框**。
 
@@ -195,8 +188,7 @@ ht-degree: 0%
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
->
->指定帐户列表名称旁方括号中的数字用作Web个性化[读取API](http://developers.marketo.com/documentation/websites/rtp-js-api/)列表的索引引用。
+指定帐户列表名称旁方括号中的数字用作Web个性化[读取API](http://developers.marketo.com/documentation/websites/rtp-js-api/)列表的索引引用。
 
 **排除ISP**
 
@@ -215,10 +207,8 @@ Web个性化与您的Marketo活动库集成，使您能够根据已知人物属�
 您可以从“帐户设置”>“数据库”中添加或删除人员数据字段
 
 >[!TIP]
->
->根据从Market到Job Title等人员的所有人员数据字段创建您的细分标准；得分；角色；等等。.
->
->例如 “职位等于CMO”和“得分小于或等于50”
+根据从Market到Job Title等人员的所有人员数据字段创建您的细分标准；得分；角色；等等。.
+例如 “职位等于CMO”和“得分小于或等于50”
 
 **营销人员电** 子邮件营销活动通过访客点击营销人员电子邮件并到达网站，通过电子邮件推荐，对活动进行个性化设置。按营销人员项目名称或活动名称进行细分，并继续通过电子邮件与Web进行对话。 从下拉列表中选择+以添加字段。
 
@@ -299,8 +289,7 @@ Web个性化与您的Marketo活动库集成，使您能够根据已知人物属�
 Web个性化API调用[在此处了解有关它的更多信息。](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
->
->**使用通配符** -当您希望包含任何搜索词或URL，其中包含某些内容，例如，“[google.com](http://google.com)”或“搜索词产品”，我们称其为通配符，应在两端输入星号。因此，来自[google.com](http://google.com)的任何内容都应作为* [google.com](http://google.com)输入*
+**使用通配符** -当您希望包含任何搜索词或URL，其中包含某些内容，例如，“[google.com](http://google.com)”或“搜索词产品”，我们称其为通配符，应在两端输入星号。因此，来自[google.com](http://google.com)的任何内容都应作为* [google.com](http://google.com)输入*
 
 ## 编辑区段{#edit-segments}
 
