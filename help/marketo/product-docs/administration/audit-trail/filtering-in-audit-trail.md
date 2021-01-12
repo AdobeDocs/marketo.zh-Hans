@@ -3,9 +3,9 @@ unique-page-id: 11378468
 description: 在审核跟踪中筛选- Marketo Docs —— 产品文档
 title: 在审核跟踪中筛选
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >可能有多种搜索参数组合。 在此示例中，我们找到：*所有电子邮件——由任何人编辑——在前七天*&#x200B;中。
+   >可能有多种搜索参数组合。 在此示例中，我们找到：_所有电子邮件——由任何人编辑——在前七天_&#x200B;中。
 
 1. 单击“**Period**”下拉框并选择“**最近7天**”。
 
@@ -57,12 +57,6 @@ ht-degree: 0%
    >
    >如果启用了工作区，您将看到所有工作区的审核数据。 如果您应用了工作区过滤器，Marketo会在您每次使用审核跟踪时记住以前的工作区值。 在资产级别上强制使用工作区权限。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [更改审核跟踪中的详细信息](change-details-in-audit-trail.md)
-
-
+   >[更改审核跟踪中的详细信息](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
