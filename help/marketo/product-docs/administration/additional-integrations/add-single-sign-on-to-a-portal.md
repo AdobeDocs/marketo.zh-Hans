@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: 将单一登录添加到门户- Marketo Docs —— 产品文档
 title: 将单一登录添加到门户
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,13 @@ Marketo用作SAML服务提供商(SP)，并依赖外部标识提供者(IdP)来验
 
 默认情况下，SSO处于禁用状态。 按照以下步骤启用SAML并进行配置。
 
-1. 转至**Admin **并单击&#x200B;**单点登录**。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**单点登录**。
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >如果在&#x200B;**Admin**&#x200B;下未看到&#x200B;**单点登录**，请与[`[email protected]`](http://mailto:support@marketo.com)联系。
+   >如果您在&#x200B;**Admin**&#x200B;下未看到&#x200B;**单点登录**，请与[[Marketo支持]](https://nation.marketo.com/t5/Support/ct-p/Support)联系。
 
 1. 在&#x200B;**SAML设置**&#x200B;部分下，单击&#x200B;**编辑**。
 
@@ -102,4 +102,3 @@ Marketo用作SAML服务提供商(SP)，并依赖外部标识提供者(IdP)来验
    >[!NOTE]
    >
    >这两个页面都必须公开可用。
-
