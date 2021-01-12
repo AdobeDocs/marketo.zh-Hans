@@ -3,7 +3,7 @@ unique-page-id: 10098433
 description: 创建基允许列表于IP的API访问- Marketo Docs —— 产品文档
 title: 创建基允许列表于IP的API访问
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. 在“IP限制”区域，单击左上角的“**编辑”、“**”或“**&#x200B;编辑IP限制”**。
+1. 在“IP限制”区域，单击左上角的&#x200B;**编辑，**&#x200B;或单击&#x200B;**编辑IP限制**。
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 1. 单击&#x200B;**保存**。
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
-
