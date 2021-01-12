@@ -3,9 +3,9 @@ unique-page-id: 17728028
 description: 将缩放添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将缩放添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,17 @@ Market，管理您的缩放注册和出席情况。
 
 >[!NOTE]
 >
->**提醒**
->
 >此步骤需要现有的缩放和管理订阅。 拥有您用于登录的电子邮件和密码以手动缩放。
 
 1. 转到&#x200B;**Admin**&#x200B;区域并单击&#x200B;**LaunchPoint**。
 
    ![](assets/launchpoint.png)
 
-1. 单击“**新建**”下拉框并选择“**新建服务**”。
+1. 单击&#x200B;**新建**&#x200B;下拉框并选择&#x200B;**新建服务**。
 
    ![](assets/newservicelp.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**缩放**。
+1. 输入&#x200B;**显示名称**。 在&#x200B;**服务**&#x200B;下，选择&#x200B;**缩放**。
 
    ![](assets/newservice-1.png)
 
@@ -57,5 +55,4 @@ Market，管理您的缩放注册和出席情况。
 
 >[!MORELIKETHIS]
 >
->了解如何使用Zoom[创建事件。](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
-
+>了解如何使用Zoom[创建事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
