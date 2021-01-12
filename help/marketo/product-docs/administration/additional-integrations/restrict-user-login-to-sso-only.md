@@ -3,7 +3,7 @@ unique-page-id: 2360358
 description: 仅限用户登录到SSO - Marketo Docs —— 产品文档
 title: 仅限用户登录到SSO
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -19,21 +19,21 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到“管理员”并单击“登录设置”。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**登录设置**。
 
 ![](assets/image2014-9-24-14-3a44-3a40.png)
 
-1. 单击“编辑安全设置”。
+1. 单击&#x200B;**编辑安全设置**。
 
    ![](assets/image2014-9-24-14-3a44-3a53.png)
 
-1. 展开高级设置，选中“需要SSO”，然后单击“保存”。
+1. 展开“高级”设置，选中&#x200B;**需要SSO**，然后单击&#x200B;**保存**。
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
 
 >[!TIP]
 >
->如果选择“**要求SSO**”，则可以在设置角色时选中“绕过单一登录&#x200B;**”选项，从此限制中排除[用户角色](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)。**&#x200B;这将允许用户正常登录。 例如，管理员用户可能仍需要通过登录屏幕登录到Marketo。
+>如果选择“**要求SSO**”，则可以在设置角色时选中“绕过单一登录&#x200B;**”选项，从此限制中排除[用户角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)。**&#x200B;这将允许用户正常登录。 例如，管理员用户可能仍需要通过登录屏幕登录到Marketo。
 
 >[!CAUTION]
 >
