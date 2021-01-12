@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: 将Workplace By Facebook添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将Workplace By Facebook添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->如果尚未启用工作区通知，请[与支持部门](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436)联系。
+>如果尚未启用工作区通知，请与[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)联系。
 
 1. 转至&#x200B;**LaunchPoint**，然后在&#x200B;**New**&#x200B;下单击&#x200B;**New Service**。
 
@@ -65,4 +65,3 @@ ht-degree: 0%
    通知现在将开始发布到您在步骤7中选择的Facebook组。 它们会像这样：
 
    ![](assets/example.png)
-
