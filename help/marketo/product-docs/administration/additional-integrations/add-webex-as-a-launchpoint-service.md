@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: 将WebEx添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将WebEx添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >此步骤需要现有WebEx订阅和管理权限。 现在有以下设置：用户名、密码和站点名称。
 
 >[!NOTE]
 >
 >站点名称位于用于登录WebEx的URL末尾。 例如：
 >
->`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=**mycompa**`**ny**
+>`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
 >注意：请勿在此字段中输入整个URL;仅输入站点名称！
 
@@ -49,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. 输入**站点名称**完成该过程，然后单击&#x200B;**创建**。
+1. 输入&#x200B;**站点名称**，然后单击&#x200B;**创建**，完成该过程。
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
@@ -59,5 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->了解如何使用WebEx[创建事件。](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-
+>了解如何使用WebEx[创建事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
