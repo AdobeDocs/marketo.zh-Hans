@@ -3,9 +3,9 @@ unique-page-id: 7512289
 description: 将GoToWebinar添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将GoToWebinar添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >此步骤需要现有的GoToWebinar订阅和管理权限。 手边有用于登录GoToWebinar的电子邮件和密码。
 
 >[!NOTE]
@@ -37,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/new-service-gotowebinar.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**转到网络研讨会**。
+1. 输入&#x200B;**显示名称**。 在&#x200B;**服务**&#x200B;下，选择&#x200B;**GoToWebinar**。
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. 接下来，单击&#x200B;**登录** **GoToWebinar**。
+1. 接下来，单击&#x200B;**登录GoToWebinar**。
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
@@ -67,5 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->了解如何[使用GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)创建事件。
-
+>了解如何[使用GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)创建事件。
