@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: 审计线索概述- Marketo Docs —— 产品文档
 title: 审计线索概述
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ X用户进行了哪些操作？
 
 ## 我们审计什么{#what-we-audit}
 
-Marketo将审核[创建、编辑和删除](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail)操作，用于：
+Marketo将审核[创建、编辑和删除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)操作，用于：
 
 * Design Studio资源
 * 所有营销项目
@@ -46,27 +46,27 @@ Marketo将审核[创建、编辑和删除](http://docs.marketo.com/display/DOCS/
 
 >[!NOTE]
 >
->Marketo目前&#x200B;**不**&#x200B;审核在Web个性化、预测内容或销售分析中所做的更改。
+>Marketo目前&#x200B;_不_&#x200B;审核在Web个性化、预测内容或销售分析中所做的更改。
 
 ## 审核跟踪组件{#audit-trail-components}
 
 审核跟踪包括三个组件。
 
-**1)资 [产审核跟踪](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**1)资 [产审核跟踪](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 查看对特定资产的活动。
 
-**2)管 [理审计线索](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2)管 [理审计线索](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 监视基于用户的详细信息。
 
-**3)用 [户登录历史](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3)用 [户登录历史](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 查看哪些人登录了您的订阅，以及登录时间。 还包括失败的登录尝试。
 
 >[!TIP]
 >
->您可以使用审核跟踪进行审核，请务必使用[筛选](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>您可以使用审核跟踪进行审核，请务必使用[筛选](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
 ## 导出数据{#exporting-data}
 
@@ -82,9 +82,4 @@ Marketo将审核[创建、编辑和删除](http://docs.marketo.com/display/DOCS/
 
 >[!MORELIKETHIS]
 >
->* [启用审核跟踪](enable-audit-trail.md)
-
->
-
-
-
+>[启用审核跟踪](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
