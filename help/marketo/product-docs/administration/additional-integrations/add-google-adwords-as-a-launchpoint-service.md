@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: 将Google AdWords添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将Google AdWords添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您还可以将[Google AdWords作为Launchpoint服务与管理者帐户](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)集成。
+>您还可以将[Google AdWords作为Launchpoint服务与管理者帐户](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)集成。
 
 1. 转至&#x200B;**Admin**&#x200B;部分。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. 将您的线下转换从Market上传到Google AdWords **Weekly **或&#x200B;**Daily**。
+1. 将您的脱机转换从Market上传到Google AdWords **Weekly**&#x200B;或&#x200B;**Daily**。
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ ht-degree: 0%
    >
    >[必须选](https://support.google.com/adwords/answer/1752125?hl=en) 择自动标记才能使用此功能。必须在AdWords内完成取消激活。
 
-   >[!NOTE]
-   >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [在收入模型中设置Google AdWords转换](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 太好了！ 现在，请参阅以下相关文章，了解如何在您的收入模型中映射AdWords脱机转化。
+
+>[!MORELIKETHIS]
+>
+>[在收入模型中设置Google AdWords转换](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
