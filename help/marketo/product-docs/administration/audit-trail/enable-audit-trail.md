@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: 启用审核跟踪- Marketo Docs —— 产品文档
 title: 启用审核跟踪
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -45,17 +45,15 @@ ht-degree: 0%
    >
    >**定义**
    >
-   >
    >**访问审核跟踪：** 为用户提供对资产审核跟踪和管理员审核跟踪的访问权限。
    >
-   >
-   >**访问登录历史记录：** 向用户授予对用户登 [录历史记录的访问](user-login-history.md)。
+   >**访问登录历史记录：** 向用户授予对用户登 [录历史记录的访问](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)。
 
 ## 为用户{#assign-audit-trail-role-to-a-user}分配审核跟踪角色
 
 >[!PREREQUISITES]
 >
->[创](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) 建或启 [](#Enable) 用现有角色，为其授予“审核跟踪”权限。
+>[创](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) 建或启 [](#enable-audit-trail) 用现有角色，为其授予“审核跟踪”权限。
 
 1. 在&#x200B;**“用户和角色”**&#x200B;中，单击&#x200B;**“用户”**。
 
@@ -75,9 +73,8 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果已启用工作区，请确保选中角色的复选框，该复选框将选择所有工作区。 取消选择单个工作区将隐藏审核跟踪。 这意味着您将看到每个工作区的审核跟踪数据。 当[筛选](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)时，您确实可以选择隐藏工作区。
+   >如果已启用工作区，请确保选中角色的复选框，该复选框将选择所有工作区。 取消选择单个工作区将隐藏审核跟踪。 这意味着您将看到每个工作区的审核跟踪数据。 当[筛选](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)时，您确实可以选择隐藏工作区。
 
 1. 单击&#x200B;**保存**。
 
    ![](assets/eight-1.png)
-
