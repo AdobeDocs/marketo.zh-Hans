@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: 将Munchkin跟踪代码添加到您的网站- Marketo Docs —— 产品文档
 title: 将Munchkin跟踪代码添加到您的网站
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 将Munchkin跟踪代码添加到您的网站{#add-munchkin-tracking-code-to-your-website}
 
-Marketo的自定义JavaScript跟踪代码称为Munchkin，它跟踪访问您网站的所有个人，以便您能够通过自动化营销活动对其访问做出响应。 即使是匿名访客也会跟踪其IP地址和其他信息。 **如果没有此跟踪代码，您将无法跟踪您网站上的访问或其他活动!**
+Marketo的自定义JavaScript跟踪代码称为Munchkin，它跟踪访问您网站的所有个人，以便您能够通过自动化营销活动对其访问做出响应。 即使是匿名访客也会跟踪其IP地址和其他信息。 **如果没有此跟踪代码，您将无法跟踪网站上的访问或其他活动**!
 
 >[!PREREQUISITES]
 >
@@ -54,39 +54,39 @@ Marketo的自定义JavaScript跟踪代码称为Munchkin，它跟踪访问您网�
 
 >[!TIP]
 >
->对于流量大（即每月数十万次访问）的站点，我们建议您选择不跟踪匿名人员。 [了解更多信息。](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
+>对于流量大（即每月数十万次访问）的站点，我们建议您选择不跟踪匿名人员。 [了解更多](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)。
 
 ## 使用多个工作区{#add-tracking-code-when-using-multiple-workspaces}时添加跟踪代码
 
 如果您在Marketo帐户中使用工作区，您可能还有与工作区对应的单独Web演示。 在这种情况下，您可以使用Munchkin跟踪Javascript将匿名人员分配到正确的工作区和分区。
 
-1. 转至“管理员”，然后单击左侧树中的“Munchkin”。
+1. 转至&#x200B;**Admin**&#x200B;并单击左侧树中的&#x200B;**Munchkin**。
 
 ![](assets/image2015-8-25-16-3a28-3a41.png)
 
 1. 为要跟踪的网页选择适当的工作区。
 
-![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/image2015-8-25-16-3a30-3a32.png)
 
 >[!NOTE]
 >
 >如果您不使用特殊工作区Munchkin代码，则人员将分配到设置帐户时创建的默认分区。 它最初被命名为“默认”，但您可能已在自己的Marketo帐户中更改了它。
 
-1. 为“跟踪代码类型”选择“异步”。
+1. 选择&#x200B;**异步**&#x200B;作为跟踪代码类型。
 
    ![](assets/image2015-8-25-16-3a32-3a42.png)
 
 1. 单击并复制要放在您网站上的JavaScript跟踪代码。
 
-![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/image2015-8-25-16-3a34-3a7.png)
 
->[!CAUTION]
->
->不要使用此屏幕截图中显示的代码——必须使用帐户中显示的唯一代码！
+   >[!CAUTION]
+   >
+   >不要使用此屏幕截图中显示的代码——必须使用帐户中显示的唯一代码！
 
 1. 将跟踪代码放在网页的`<head>`元素中。 将为访问此页面的新人员分配到此分区。
 
-![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!CAUTION]
 >
@@ -98,7 +98,7 @@ Marketo的自定义JavaScript跟踪代码称为Munchkin，它跟踪访问您网�
 
 ## Munchkin跟踪代码类型{#types-of-munchkin-tracking-codes}
 
-您可以选择3种类型的Munchkin跟踪代码。 每个因素对网页加载次数的影响都各不相同。
+您可以选择三种类型的Munchkin跟踪代码。 每个因素对网页加载次数的影响都各不相同。
 
 1. **简单**:代码行最少，但不针对网页加载时间进行优化。每次加载网页时，此代码加载jQuery库。
 1. **异步**:缩短网页加载时间。
@@ -109,6 +109,7 @@ Marketo的自定义JavaScript跟踪代码称为Munchkin，它跟踪访问您网�
 在添加Munchkin代码后，检查该代码是否正常工作：
 
 1. 访问网页。
+
 1. 转至&#x200B;**Analytics**。
 
    ![](assets/mainnav-analytics-hand.png)
@@ -124,4 +125,3 @@ Marketo的自定义JavaScript跟踪代码称为Munchkin，它跟踪访问您网�
    ![](assets/activitysource.png)
 
 1. 单击&#x200B;**报告**&#x200B;选项卡。 如果看不到任何数据，请等待几分钟，然后单击底部的刷新图标。
-
