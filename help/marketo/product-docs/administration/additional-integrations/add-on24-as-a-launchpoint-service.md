@@ -3,7 +3,7 @@ unique-page-id: 7512276
 description: 将ON24添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将ON24添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. 选择&#x200B;**新建**，然后选择&#x200B;**新建** **服务**。
+1. 选择&#x200B;**新建**，然后选择&#x200B;**新建服务**。
 
    ![](assets/on24-new-service.png)
 
-1. 输入&#x200B;**Display** **Name**。 在&#x200B;**服务**&#x200B;下，选择&#x200B;**ON24**。
+1. 输入&#x200B;**显示名称**。 在&#x200B;**服务**&#x200B;下，选择&#x200B;**ON24**。
 
    ![](assets/new-service-on24.png)
 
-1. 在&#x200B;**设置**&#x200B;中输入&#x200B;**Client****键**&#x200B;和&#x200B;**Client****ID**，然后单击&#x200B;**创建**，完成该过程。
+1. 在&#x200B;**设置**&#x200B;中输入&#x200B;**客户端密钥**&#x200B;和&#x200B;**客户端ID**，然后单击&#x200B;**创建**，完成该过程。
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
@@ -45,5 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->了解如何在ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)中[创建网络研讨会事件。
-
+>了解如何在ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)中[创建网络研讨会事件。
