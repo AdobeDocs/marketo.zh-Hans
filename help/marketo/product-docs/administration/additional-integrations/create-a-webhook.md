@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: 创建Webhook - Marketo Docs —— 产品文档
 title: 创建Webhook
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 使用webhooks利用第三方Web服务发送文本消息、扩展人员数据等。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
-1. 转至**Admin **并单击&#x200B;**Webhooks**。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**Webhooks**。
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
@@ -51,7 +49,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
 >在[webhooks](http://developers.marketo.com/documentation/webhooks/)深入了解更多信息。
-
