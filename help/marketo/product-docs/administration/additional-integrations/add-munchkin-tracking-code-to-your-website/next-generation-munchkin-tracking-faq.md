@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: 下一代Munchkin跟踪常见问题解答- Marketo Docs —— 产品文档
 title: 下一代Munchkin跟踪常见问题解答
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**示例**
->
 >**触发器**:访问网页，网页是定价页\
->**流程**:Change Score +10和有趣时刻， **Web**:查看的定价页面
+>**流程**:更改得分+10和有趣时刻
+>**Web**:查看的定价页面
 >
 >对于Munchkin V2，如果匿名人士访问定价页面，她不会立即进入活动。 当匿名者被曝光时，我们会对她进行活动。 她会：
 >
@@ -60,9 +59,6 @@ ht-degree: 0%
    >
    >
 * 记录“新人”活动，就像今天一样
-
->
-
 
 
 ## 我的智能列表已经具有“匿名”过滤器，会发生什么情况？{#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -98,4 +94,4 @@ ht-degree: 0%
 
 ## 我有更多问题！ 我如何获得答案？{#i-have-more-questions-how-do-i-get-them-answered}
 
-请访问[社区](https://nation.marketo.com/welcome)。 您还可以向[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162)发送电子邮件。他们将乐于回答您的问题。
+请访问[社区](https://nation.marketo.com/welcome)。 您也可以联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)。 他们会乐意回答你的问题。
