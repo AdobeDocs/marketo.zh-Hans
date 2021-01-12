@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: 用户登录历史记录- Marketo Docs —— 产品文档
 title: 用户登录历史记录
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,9 @@ ht-degree: 0%
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. 从&#x200B;**Users**&#x200B;下拉菜单中选择用户。** **
+1. 从&#x200B;**Users**&#x200B;下拉菜单中选择用户。
 
-   ** ![](assets/user-dropdown.jpg)
-
-   **
+   ![](assets/user-dropdown.jpg)
 
 1. 选中&#x200B;**仅失败登录**&#x200B;框，在搜索中仅显示失败登录。
 
@@ -69,10 +67,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [审计线索概述](audit-trail-overview.md)
-
-
+   >[审计线索概述](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
