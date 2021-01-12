@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: 将Adobe Connect添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将Adobe Connect添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -20,8 +20,6 @@ ht-degree: 0%
 >**需要管理员权限**
 
 >[!NOTE]
->
->**提醒**
 >
 >此步骤需要现有的Adobe Connect订阅和行政权。 现在有以下设置：用户名、密码、参加者密码和会议文件夹URL。
 
@@ -45,11 +43,9 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. 输入&#x200B;**会议文件夹URL**&#x200B;和&#x200B;**参加者** **密码**,** **，然后单击**&#x200B;创建。**
+1. 输入&#x200B;**会议文件夹URL**&#x200B;和&#x200B;**参加者密码**，然后单击&#x200B;**创建**，完成该过程。
 
-   ** ![](assets/image2015-4-22-11-3a55-3a36.png)
-
-   **
+   ![](assets/image2015-4-22-11-3a55-3a36.png)
 
    >[!TIP]
    >
@@ -57,16 +53,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**示例**
-   >
-   >
-   >登录Adobe Connect帐户后，选择&#x200B;**Seminars**&#x200B;选项卡。 在不深入任何特定研讨会的情况下，将浏览器栏中的URL复制到&#x200B;**会议文件夹URL**&#x200B;设置&#x200B;**中。**
+   >登录Adobe Connect帐户后，选择&#x200B;**Seminars**&#x200B;选项卡。 无需进入任何特定研讨会，请将浏览器栏中的URL复制到&#x200B;**会议文件夹URL**&#x200B;设置中。
 
-1. 太棒了！ 您的&#x200B;**Adobe Connect服务**&#x200B;现在与Marketo同步。
+您的Adobe Connect服务现已与Marketo同步！
 
-   ![](assets/adobe-connect-service.png)
+![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->了解如何使用Adobe Connect[创建事件。](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
-
+>了解如何使用Adobe Connect[创建事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
