@@ -3,7 +3,7 @@ unique-page-id: 2360251
 description: 编辑取消订阅消息- Marketo Docs —— 产品文档
 title: 编辑取消订阅消息
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-当您发送营销电子邮件（非[operational](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)）时，取消订阅文本和链接会附加到底部。 您可以更改默认值。 这是方法。
+当您发送营销电子邮件（非[operational](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)）时，取消订阅文本和链接会附加到底部。 您可以更改默认值。 这是方法。
 
 ## 编辑取消订阅消息{#edit-the-unsubscribe-message-1}
 
@@ -27,24 +27,21 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >
    >以下变量至关重要。 不要删除它们！
    >
-   >    
-   >    
-   >    * **%mkt_opt_out_prefix%**
-   >    * **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK##**
+   >* **%mkt_opt_out_prefix%**
+   >* **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK##**
 
 
 1. 编辑&#x200B;**取消订阅HTML**&#x200B;和&#x200B;**取消订阅文本**&#x200B;版本，然后单击&#x200B;**保存更改**。
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
-   给你。 **确保测试！** 您不希望营销电子邮件中断取消订阅链接。
+   给你。 _确保测试！_ 您不希望营销电子邮件中断取消订阅链接。
 
 >[!TIP]
 >
->您可以使用[令牌](../../../product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)自定义取消订阅HTML在电子邮件中的位置。
+>您可以使用[令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)自定义取消订阅HTML在电子邮件中的位置。
 
 ## 默认取消订阅文本{#default-unsubscribe-text}
 
@@ -56,9 +53,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [编辑“视图为网页”消息](edit-the-view-as-web-page-message.md)
-
->
-
-
-
+>[编辑“视图为网页”消息](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
