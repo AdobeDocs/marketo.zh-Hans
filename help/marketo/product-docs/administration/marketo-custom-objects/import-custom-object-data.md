@@ -3,9 +3,9 @@ unique-page-id: 10099680
 description: 导入自定义对象数据- Marketo文档——产品文档
 title: 导入自定义对象数据
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 导入自定义对象数据{#import-custom-object-data}
 
-将自定义对象数据导入数据库很容易。 如果您正在使用带公司的自定义对象，请参阅[使用带公司的自定义对象](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies)以了解详细信息。
+将自定义对象数据导入数据库很容易。 如果您正在使用带公司的自定义对象，请参阅[使用带公司的自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies)以了解详细信息。
 
 1. 在My Marketo中，转至&#x200B;**Database**。
 
@@ -71,9 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [了解Marketo自定义对象](understanding-marketo-custom-objects.md)
-
->
-
-
-
+>[了解Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
