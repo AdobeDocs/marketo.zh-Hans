@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: 触发自定义对象更改- Marketo Docs —— 产品文档
 title: 触发自定义对象更改
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >
 >
-请联系[Marketo Support](http://support.marketo.com)以启用自定义对象更改触发器。
+请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)以启用自定义对象更改触发器。
 
 在智能活动的智能列表中，当将自定义对象添加到人或公司时，您可以触发流动操作。 您还可以创建一个智能列表，它使用自定义对象中的&#x200B;*change*&#x200B;作为触发器。 例如，在课程名称更新时使用它发送电子邮件。
 
@@ -57,11 +57,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [创建智能列表](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >    * [了解Marketo自定义对象](understanding-marketo-custom-objects.md)
-
+   >* [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [了解Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
