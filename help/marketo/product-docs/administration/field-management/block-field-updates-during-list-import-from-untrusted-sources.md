@@ -3,7 +3,7 @@ unique-page-id: 2360335
 description: 列表从不受信任的源导入过程中块字段更新- Marketo文档——产品文档
 title: 从不受信任的源导入列表期间块字段更新
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -41,10 +41,10 @@ ht-degree: 0%
 
 ## 运行不受信任的列表导入{#running-an-untrusted-list-import}
 
-1. 运行列表导入时，如果希望在上一步中设置的所有字段都安全，请务必选择**不受信任**。
+1. 运行列表导入时，如果希望在上一步中设置的所有字段都安全，请务必选择&#x200B;**不受信任的**。
 
    ![](assets/importpersondetails.jpg)
 
-有关导入列表的详细说明，请参阅[导入People](../../../getting-started/quick-wins/import-a-list-of-people.md)的列表。
+有关导入列表的详细说明，请参阅[导入People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)的列表。
 
 干得好！ 现在您知道如何保护密钥字段免受不可信列表的侵害。
