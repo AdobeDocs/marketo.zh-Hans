@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: 创建并使用连接字符串（公式）字段- Marketo Docs —— 产品文档
 title: 创建并使用连接字符串（公式）字段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   了解有关流步骤[令牌的更多信息](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
+   了解有关流步骤[令牌的更多信息](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
 
 1. 现在，您可以在电子邮件中将公式字段添加为令牌。
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >公式字段可用于登陆页、电子邮件和智能列表列；它们不会导出。 具有公式字段的电子邮件无法通过批活动发送
-
