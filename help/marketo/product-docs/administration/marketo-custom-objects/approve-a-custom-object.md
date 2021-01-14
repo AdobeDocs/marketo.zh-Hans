@@ -3,7 +3,7 @@ unique-page-id: 10094188
 description: 批准自定义对象- Marketo Docs —— 产品文档
 title: 批准自定义对象
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -33,16 +33,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在&#x200B;*一对多结构*&#x200B;中使用的自定义对象必须至少具有一个重复数据消除字段、链接字段、链接对象名称和要批准的链接字段名称。
+   >在&#x200B;_一对多结构_&#x200B;中使用的自定义对象必须至少具有一个重复数据消除字段、链接字段、链接对象名称和要批准的链接字段名称。
    >
+   >在批准&#x200B;_多对多结构_ **中使用的自定义对象时，不**&#x200B;需要链接字段、链接对象名称或链接字段名称（因为它们位于中间对象中）。
    >
-   >在批准&#x200B;*多对多结构* **中使用的自定义对象时，不**&#x200B;需要链接字段、链接对象名称或链接字段名称（因为它们位于中间对象中）。
+   >用作&#x200B;_中间对象_&#x200B;的自定义对象需要链接字段、链接对象名称和链接字段名称，但&#x200B;**不**&#x200B;需要重复数据消除字段。
    >
-   >
-   >用作&#x200B;*中间对象*&#x200B;的自定义对象需要链接字段、链接对象名称和链接字段名称，但&#x200B;**不**&#x200B;需要重复数据消除字段。
-   >
-   >
-   >有关详细信息，请参阅[了解Marketo Custom Objects](understanding-marketo-custom-objects.md)。
+   >有关详细信息，请参阅[了解Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
 就这样！ 现在，您可以在过滤器和触发器的约束中选择要在活动中使用的自定义对象。
 
@@ -61,4 +58,3 @@ ht-degree: 0%
 1. 预览显示草稿中更改的项目。 单击&#x200B;**批准**。
 
    ![](assets/six-1.png)
-
