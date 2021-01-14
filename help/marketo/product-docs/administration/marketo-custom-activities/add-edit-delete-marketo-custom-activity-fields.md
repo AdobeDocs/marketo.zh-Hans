@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: 添加／编辑／删除Marketo自定义活动字段- Marketo文档——产品文档
 title: 添加／编辑／删除Market至自定义活动字段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >不确定要选择什么？ 我们掩护你！ 本文[定义了所有可用的数据类型。](../../../product-docs/administration/field-management/custom-field-type-glossary.md)
+   >不确定要选择什么？ 我们掩护你！ 本文[定义了所有可用的数据类型。](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)
 
 1. 命名字段。 自动填充Api名称。 完成后，单击&#x200B;**保存**。
 
@@ -94,4 +94,3 @@ ht-degree: 0%
    ![](assets/thirteen.png)
 
    就这么简单！
-
