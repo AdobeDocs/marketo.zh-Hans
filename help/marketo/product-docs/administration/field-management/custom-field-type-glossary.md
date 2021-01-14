@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: 自定义字段类型术语表- Marketo Docs —— 产品文档
 title: 自定义字段类型术语表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在Marketo中创建自定义字段](create-a-custom-field-in-marketo.md)
-
->
-
-
+>[在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->根据字段类型，过滤器／触发器[运算符](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary)将不同。
+>根据字段类型，过滤器／触发器[运算符](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)将不同。
 
 >[!NOTE]
 >
@@ -67,7 +63,7 @@ ht-degree: 0%
 
 **示例名称：** 替代电子邮件——为您的人员保留替代电子邮件地址（实际上无法向此字段发送电子邮件，如默认电子邮件地址字段，该字段是特殊的）
 
-**示例值：** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+**示例值：** name@company.com
 
 **运营商**:is、is not、具有开始、不具有开始、包含、不包含、为空、不为空
 
@@ -81,7 +77,7 @@ ht-degree: 0%
 
 ## 公式{#formula}
 
-**示例名称：** 问候语——在解决方案中使 [用此特殊字段，根据性](create-and-use-a-concatenated-string-formula-field.md) 别获得正确的问候
+**示例名称：** 问候语——在解决方案中使 [用此特殊字段，根据性](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) 别获得正确的问候
 
 **示例值：检** 查链接的解决方案
 
