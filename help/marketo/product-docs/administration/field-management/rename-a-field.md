@@ -3,7 +3,7 @@ unique-page-id: 2360293
 description: 重命名字段- Marketo Docs —— 产品文档
 title: 重命名字段
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到“管理员”并单击“字段管理”。
+1. 转至“管理员”并单击“字段管理”**。**
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/changefieldname.png)
 
-1. 重命名该字段，然后单击“保存”。
+1. 重命名该字段，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-24-14-2-55.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >如果您在Salesforce中重命名API名称，Marketo将创建一个全新字段并将旧字段留下！
-
