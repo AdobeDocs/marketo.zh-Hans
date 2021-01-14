@@ -3,7 +3,7 @@ unique-page-id: 10100269
 description: 编辑自定义活动- Marketo Docs —— 产品文档
 title: 编辑自定义活动
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >如果您的活动在编辑时是草稿，则它仍为草稿。 如果已发布，则状态将更改为“已发布且为草稿”。
-
