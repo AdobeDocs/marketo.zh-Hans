@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: 了解系统管理字段- Marketo Docs —— 产品文档
 title: 了解系统管理字段
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 了解系统管理字段{#understanding-system-managed-fields}
 
-您可能已经注意到[人员详细信息页面](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)包含由Marketo创建的一系列不可编辑字段。 这些数据来自不同的来源，有无数的价值可以展示。
+您可能已经注意到[人员详细信息页面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)包含由Marketo创建的一系列不可编辑字段。 这些数据来自不同的来源，有无数的价值可以展示。
 
 ## 字段类型{#field-types}
 
@@ -67,4 +67,3 @@ ht-degree: 0%
 | 蒙奇金API | 通过Marketo的Munchkin API成为 |
 | 社交应用程序 | 通过社交构件成为人 |
 | 事件合作伙伴 | 通过链接的网络研讨会服务成为人物 |
-
