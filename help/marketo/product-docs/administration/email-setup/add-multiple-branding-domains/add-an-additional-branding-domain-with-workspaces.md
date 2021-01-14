@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: 使用Workspaces - Marketo Docs —— 产品文档添加其他品牌域
 title: 添加带工作区的其他品牌域
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->必须先[编辑默认品牌域](edit-your-default-branding-domain.md)。
+>必须先[编辑默认品牌域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)。
 >
->在添加其他品牌域之前，必须首先[将通用跟踪链接](edit-your-default-branding-domain-with-workspaces.md)替换为品牌域。
+>在添加其他品牌域之前，必须首先[将通用跟踪链接](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)替换为品牌域。
 
-1. 转至**Admin **，然后单击&#x200B;**电子邮件**。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**电子邮件**。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. 单击**添加**以添加其他品牌域。
+1. 单击&#x200B;**添加**&#x200B;以添加其他品牌域。
 
    ![](assets/branding-domains-add-workspaces.png)
 
@@ -40,4 +40,3 @@ ht-degree: 0%
 1. 选择新的品牌域并单击&#x200B;**保存**。
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
-
