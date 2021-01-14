@@ -3,7 +3,7 @@ unique-page-id: 11378051
 description: 覆盖电子邮件的主域- Marketo Docs —— 产品文档
 title: 覆盖电子邮件的主域
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >并非所有用户都具有按电子邮件设置品牌域的权限。 如果看不到“品牌域”下拉框，请与您的管理员联系。
-
