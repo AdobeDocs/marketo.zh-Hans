@@ -3,7 +3,7 @@ unique-page-id: 2360287
 description: 在Marketo - Marketo Docs —— 产品文档中创建自定义字段
 title: 在Marketo中创建自定义字段
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 如果您需要Market中的新自定义字段来存储／捕获数据，下面将介绍如何创建一个。
 
-1. 转到“管理员”并单击“字段管理”。
+1. 转至“管理员”并单击“字段管理”**。**
 
    ![](assets/image2014-9-24-13-3a46-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >如果希望字段与CRM保持同步，请在CRM中创建这些字段，这些字段将自动在Marketo中创建。
 
-1. 单击“新建自定义字段”。
+1. 单击&#x200B;**新建自定义字段**。
 
    ![](assets/two.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >查看[自定义字段类型术语表](custom-field-type-glossary.md)。
+   >查看[自定义字段类型术语表](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
-1. 输入您希望在Marketo中显示的名称。 将自动生成API名称。 您可以调整它，但设置后不能重命名它。 完成后，单击创建。
+1. 输入您希望在Marketo中显示的名称。 将自动生成API名称。 您可以调整它，但设置后不能重命名它。 完成后，单击&#x200B;**创建**。
 
 >[!CAUTION]
 >
