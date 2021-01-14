@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: 添加Marketo自定义对象字段- Marketo文档——产品文档
 title: 添加Marketto自定义对象字段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 创建自定义对象后，您需要向其添加字段以满足您的业务需求。
 
-字段定义自定义对象使用的特定信息。 链接字段具有连接自定义对象的特殊作业，并在[单独的文章](add-marketo-custom-object-link-fields.md)中介绍。
+字段定义自定义对象使用的特定信息。 链接字段具有连接自定义对象的特殊作业，并在[单独的文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)中介绍。
 
 1. 单击&#x200B;**Admin**，在&#x200B;**数据库管理**&#x200B;中，选择&#x200B;**Marketto Custom Objects**。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. 在**字段**选项卡中，单击&#x200B;**新建字段**。
+1. 在&#x200B;**字段**&#x200B;选项卡中，单击&#x200B;**新建字段**。
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-5-11-3a37-3a24.png)
 
-1. 如果要将新字段用作唯一标识符，请将重复数据消除滑块拉过。 单击**保存**以完成。
+1. 如果要将新字段用作唯一标识符，请将重复数据消除滑块拉过。 单击&#x200B;**保存**&#x200B;以完成。
 
    ![](assets/image2015-10-5-11-3a40-3a12.png)
 
@@ -57,19 +57,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >如果要构建一对多结构，您需要向自定义对象添加一个“链接”字段。 对于多对多结构，您不需要自定义对象中的链接字段，但必须在中间对象中添加两个链接字段。 有关自定义对象类型的详细信息，请参见[添加Marketto自定义对象链接字段](add-marketo-custom-object-link-fields.md)以创建链接字段，以及[了解Marketto自定义对象](understanding-marketo-custom-objects.md)。
+   >如果要构建一对多结构，您需要向自定义对象添加一个“链接”字段。 对于多对多结构，您不需要自定义对象中的链接字段，但必须在中间对象中添加两个链接字段。 有关自定义对象类型的详细信息，请参见[添加Marketto自定义对象链接字段](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)以创建链接字段，以及[了解Marketto自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
 >[!MORELIKETHIS]
 >
->* [添加Marketto自定义对象链接字段](add-marketo-custom-object-link-fields.md)
->* [编辑和删除Marketo自定义对象](edit-and-delete-a-marketo-custom-object.md)
->* [了解Marketo自定义对象](understanding-marketo-custom-objects.md)
->* [编辑和删除Marketto自定义对象字段](edit-and-delete-marketo-custom-object-fields.md)
-
->
-
-
+>* [添加Marketto自定义对象链接字段](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [编辑和删除Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [了解Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [编辑和删除Marketto自定义对象字段](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
