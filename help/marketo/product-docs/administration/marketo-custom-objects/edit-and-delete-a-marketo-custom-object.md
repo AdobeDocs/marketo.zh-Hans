@@ -3,7 +3,7 @@ unique-page-id: 10093690
 description: 编辑和删除Marketo自定义对象- Marketo文档——产品文档
 title: 编辑和删除Marketo自定义对象
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. 请确保批准[已编辑的对象](approve-a-custom-object.md)。
+1. 请确保批准[已编辑的对象](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)。
 
 ## 删除自定义对象{#delete-a-custom-object}
 
@@ -81,5 +81,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[批准自定义对象](approve-a-custom-object.md)
-
+>[批准自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
