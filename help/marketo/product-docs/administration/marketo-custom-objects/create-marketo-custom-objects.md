@@ -3,7 +3,7 @@ unique-page-id: 10093192
 description: 创建Marketo自定义对象- Marketo文档——产品文档
 title: 创建Marketo自定义对象
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '710'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您可以设置自定义对象，使其在一对多或多对多的基础上工作。 创建初始对象的方式相同，但在向对象添加字段时，步骤不同。 有关详细信息，请参阅[了解Marketo Custom Objects](understanding-marketo-custom-objects.md)。
+>您可以设置自定义对象，使其在一对多或多对多的基础上工作。 创建初始对象的方式相同，但在向对象添加字段时，步骤不同。 有关详细信息，请参阅[了解Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
 >[!NOTE]
 >
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 1. 单击&#x200B;**Admin**，在&#x200B;**数据库管理**&#x200B;中选择&#x200B;**Marketo Custom Objects**。
 
-   ** ![](assets/image2016-1-18-13-3a12-3a19.png)
-
-   **
+   ![](assets/image2016-1-18-13-3a12-3a19.png)
 
 1. 单击&#x200B;**新建自定义对象**。
 
@@ -49,7 +47,7 @@ ht-degree: 0%
    >
    >在创建这些字段时，您可以编辑它们，但在保存它们后，您只能编辑Plural Name字段和&#x200B;**在Lead Detail中显示**&#x200B;滑块。
 
-1. 如果要在“潜在客户视图库”页上自定义对象数据，请拖动“在潜在客户详细信息中显示”**滑块以显示&#x200B;**“显示”**。 单击&#x200B;**保存**。
+1. 如果要在“潜在客户视图库”页上自定义对象数据，请拖动&#x200B;**在潜在客户详细信息中显示**&#x200B;滑块以显示&#x200B;**显示**。 单击&#x200B;**保存**。
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
@@ -57,11 +55,11 @@ ht-degree: 0%
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   下一步是向[构建自定义对象](add-marketo-custom-object-fields.md)添加字段。
+   下一步是向[构建自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)添加字段。
 
    >[!NOTE]
    >
-   >您只能通过列表导入或[API](http://developers.marketo.com/documentation/rest/)填充Marketo自定义对象。
+   >您只能通过列表导入或[API](https://developers.marketo.com/documentation/rest/)填充Marketo自定义对象。
 
 ## 为多对多结构{#create-a-custom-object-for-a-many-to-many-structure}创建自定义对象
 
@@ -87,7 +85,7 @@ ht-degree: 0%
    >
    >在创建这些字段时，您可以编辑它们，但在保存它们后，您只能编辑Plural Name字段和&#x200B;**在Lead Detail中显示**&#x200B;滑块。
 
-1. 拖动“潜在客户详细信息”**滑块以显示“如果要在“潜在客户视图库”页上自定义对象数据，则显示“显示”。 单击&#x200B;**保存**。
+1. 如果要在“潜在客户视图库”页上自定义对象数据，请拖动&#x200B;**在潜在客户详细信息中显示**&#x200B;滑块以显示&#x200B;**显示**。 单击&#x200B;**保存**。
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
@@ -97,7 +95,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您只能通过列表导入或[API](http://developers.marketo.com/documentation/rest/)填充Marketo自定义对象。
+   >您只能通过列表导入或[API](https://developers.marketo.com/documentation/rest/)填充Marketo自定义对象。
 
 下一步是创建中间对象（请参阅下面的内容）。 但在此之前，您需要创建一个与其链接的字段。
 
@@ -125,21 +123,17 @@ ht-degree: 0%
    >
    >在创建这些字段时，您可以编辑它们，但在保存它们后，您只能编辑“多名”字段和“在潜在客户详细信息中显示”滑块。
 
-1. 拖动&#x200B;**在潜在客户详细信息中显示**&#x200B;滑块，显示如果要在“潜在客户视图库”页上自定义对象数据，则显示显示。 单击&#x200B;**保存**。
+1. 如果要在“潜在客户视图库”页上自定义对象数据，请拖动&#x200B;**在潜在客户详细信息中显示**&#x200B;滑块以显示&#x200B;**显示**。 单击&#x200B;**保存**。
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. 自定义对象信息显示您输入的内容。 注意它处于“草稿”状态。
 
-   下一步是[添加链接字段](add-marketo-custom-object-link-fields.md)，将中间对象连接到人/公司和自定义对象。
+   下一步是[添加链接字段](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)，将中间对象连接到人/公司和自定义对象。
 
 >[!MORELIKETHIS]
 >
->* [添加Marketto自定义对象字段](add-marketo-custom-object-fields.md)
->* [添加Marketto自定义对象链接字段](add-marketo-custom-object-link-fields.md)
->* [了解Marketo自定义对象](understanding-marketo-custom-objects.md)
-
->
-
-
+>* [添加Marketto自定义对象字段](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [添加Marketto自定义对象链接字段](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [了解Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
