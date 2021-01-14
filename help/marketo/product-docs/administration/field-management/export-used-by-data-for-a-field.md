@@ -3,7 +3,7 @@ unique-page-id: 45417092
 description: Export Used By Data For A Field - Marketo Docs - Product Documentation
 title: 导出字段的数据使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >每个相关资产都是一个链接，可以单击该链接，并将在Marketo中打开。
-
