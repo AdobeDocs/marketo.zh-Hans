@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: 编辑现有人员分区- Marketo Docs —— 产品文档
 title: 编辑现有人员分区
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,11 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建人员分区](create-a-person-partition.md)
-
->
-
-
+>[创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**Workspaces &amp; Partitions**。
 
@@ -35,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two-5.png)
 
-1. 输入人员分区&#x200B;**名称**、**工作区**它们所属的分区，然后单击&#x200B;**保存**。
+1. 输入人员分区&#x200B;**名称**、其所属的&#x200B;**工作区**，然后单击&#x200B;**保存**。
 
    ![](assets/three-5.png)
 
@@ -43,9 +39,8 @@ ht-degree: 0%
 
    ![](assets/four-4.png)
 
-   就这样。 这样一个强大的功能似乎应该很复杂，但并非如此。
+就这样。 这样一个强大的功能似乎应该很复杂，但并非如此。
 
-   >[!CAUTION]
-   >
-   >测量两次，剪切一次。 您不希望将分区分配给错误的工作区。
-
+>[!CAUTION]
+>
+>测量两次，剪切一次。 您不希望将分区分配给错误的工作区。
