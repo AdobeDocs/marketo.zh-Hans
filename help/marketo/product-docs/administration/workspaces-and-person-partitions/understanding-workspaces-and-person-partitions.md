@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: 了解工作区和人员分区- Marketo Docs —— 产品文档
 title: 了解工作区和人员分区
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->工作区设置可能比较复杂。  联系[Marketo Support](http://support.marketo.com/)，了解他们是否适合您。
+>工作区设置可能比较复杂。 联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)，了解他们是否适合您。
 
 工作区是Marketo中单独的区域，它们存放项目、登陆页、电子邮件等营销资产。 它们可供多人使用。 每个用户都有权访问一个或多个工作区。
 
@@ -36,9 +36,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
->了解如何创建[新建工作区](create-a-new-workspace.md)。
+>了解如何创建[新建工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)。
 
 ## 跨工作区共享{#sharing-across-workspaces}
 
@@ -78,8 +76,8 @@ ht-degree: 0%
 * 登陆页模板
 * 模型
 * 智能活动
-* [智能列表](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [细分](share-segmentations-across-workspaces-and-partitions.md)
+* [智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [细分](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * 代码片段
 
 ## 跨工作区克隆{#cloning-across-workspaces}
@@ -105,7 +103,7 @@ ht-degree: 0%
 
 ## 人员分区{#person-partitions}
 
-人员分区的操作方式与单独的数据库类似。 每个分区都有自己的人员，他们不会与其他分区进行重复数据消除或混合。 如果您认为您有业务使用案例，可能需要具有具有相同电子邮件地址的重复记录，请与[营销人员支持](http://support.marketo.com)联系。
+人员分区的操作方式与单独的数据库类似。 每个分区都有自己的人员，他们不会与其他分区进行重复数据消除或混合。 如果您认为您有业务使用案例，可能需要具有具有相同电子邮件地址的重复记录，请与[营销人员支持](https://nation.marketo.com/t5/Support/ct-p/Support)联系。
 
 您可以按照以下配置将人员分区分配给[工作区](create-a-new-workspace.md):
 
@@ -115,15 +113,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**示例**
->
 >您使用人员分区的原因：
 >
 >* 您的工作区不仅具有不同的资源，而且不共享任何人
 >* 您希望重复出于其他业务原因
-
->
-
 
 
 >[!CAUTION]
@@ -132,7 +125,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
-> 了解如何[创建人员分区](create-a-person-partition.md)。
-
+>了解如何[创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)。
