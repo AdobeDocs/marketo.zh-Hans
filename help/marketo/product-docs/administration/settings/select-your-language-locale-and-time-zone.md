@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: 选择您的语言、区域设置和时区- Marketo Docs —— 产品文档
 title: 选择您的语言、区域设置和时区
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ ht-degree: 0%
 
 ## 更改用户语言、区域设置和时区{#change-user-language-locale-and-time-zone}
 
-1. 登录到Marketo，并在您的姓名下选择“我的帐户”。
+1. 登录到Marketo，并在您的名称下选择&#x200B;**我的帐户**。
 
    ![](assets/myaccount.png)
 
-1. 在“我的帐户”下，单击“编辑位置设置”。
+1. 在“我的帐户”下，单击&#x200B;**编辑位置设置**。
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. 更改您的语言。
+1. 更改&#x200B;**语言**。
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
    >
    >您还可以通过单击登录页面顶部的语言下拉菜单来选择仅更改您的语言。
 
-1. 更改区域设置。
+1. 更改&#x200B;**区域设置**。
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. 更改时区。
+1. 更改&#x200B;**时区**。
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
-1. 单击“保存”。
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
