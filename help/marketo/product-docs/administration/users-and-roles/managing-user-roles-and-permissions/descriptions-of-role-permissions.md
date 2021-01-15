@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: 角色权限描述- Marketo Docs —— 产品文档
 title: 角色权限描述
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 可用权限{#available-permissions}
 
-在[创建或编辑角色](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)时，您可以选中相应的框，从以下权限中选择允许该角色的权限。
+在[创建或编辑角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)时，您可以选中相应的框，从以下权限中选择允许该角色的权限。
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 * 访问渠道-允许用户只能修改渠道标记，而不能修改其他自定义标记
 * 访问通信限制——授予用户在管理员中启用通信限制的权限
 * 访问CRM —— 让用户在管理员中访问CRM，如Salesforce或Microsoft Dynamics
-* 访问[Data.com](http://Data.com) —— 为用户提供对Data.com流动操作的访问权限
+* 访问[Data.com](https://Data.com) —— 为用户提供对Data.com流动操作的访问权限
 * 访问电子邮件管理员——向用户提供电子邮件管理员以更改默认设置，如取消订阅和品牌域
 * 访问事件合作伙伴——允许用户在管理员中访问LaunchPoint
 * 访问字段管理——向用户授予在管理员中访问字段管理的权限
@@ -105,14 +105,12 @@ ht-degree: 0%
 允许用户访问Design Studio选项卡和树的视图，但不能访问详细信息。
 
 * 访问电子邮件
-
    * 编辑电子邮件——向用户授予编辑、创建和克隆电子邮件的权限
+      * 使电子邮件可操作——向用户授予使电子邮件可操作的权限。 请参阅：[使电子邮件可操作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * 使电子邮件可操作——向用户授予使电子邮件可操作的权限。 请参阅：[使电子邮件可操作](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * 批准电子邮件——允许用户批准电子邮件。
-   * 删除电子邮件——允许用户删除电子邮件。
-   * 设置品牌域——使用户能使用品牌域。 请参阅：[添加多个品牌域](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * 批准电子邮件——允许用户批准电子邮件。
+      * 删除电子邮件——允许用户删除电子邮件。
+      * 设置品牌域——使用户能使用品牌域。 请参阅：[添加附加品牌域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * 访问电子邮件模板
 
@@ -220,5 +218,3 @@ ht-degree: 0%
 
 * 特定工作区的管理员访问权限（仅在启用了工作区时）
 * 在工作区之间移动资产（仅在启用了工作区时）
-
-访问移动应用程序
