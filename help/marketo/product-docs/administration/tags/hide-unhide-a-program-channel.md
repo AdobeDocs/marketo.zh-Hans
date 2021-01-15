@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: 隐藏／取消隐藏项目渠道- Marketo文档——产品文档
 title: 隐藏／取消隐藏项目渠道
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-如果项目渠道未被任何项目使用，则可以[删除该。  ](delete-a-program-channel.md)但是，一旦被使用，我们就需要保留它。  但是，如果您不再需要它，可以将其隐藏。
+如果项目渠道未被任何项目使用，则可以[删除该。  ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)但是，一旦被使用，我们就需要保留它。  但是，如果您不再需要它，可以将其隐藏。
 
 ## 隐藏项目渠道{#hide-a-program-channel}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. 单击&#x200B;**渠道**&#x200B;下拉框并选择**渠道**以隐藏。
+1. 单击&#x200B;**渠道**&#x200B;下拉框并选择&#x200B;**渠道**&#x200B;以隐藏。
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
@@ -41,4 +41,3 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
 
-放轻松，放轻松！ (这是真正的表达式吗？)
