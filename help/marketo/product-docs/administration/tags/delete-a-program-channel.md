@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: 删除项目渠道- Marketo Docs —— 产品文档
 title: 删除项目渠道
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 如果您偶然创建或不再需要它，则可以删除它。
 
-1. 转到**管理员**部分。
+1. 转至&#x200B;**Admin**&#x200B;部分。
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
@@ -33,13 +33,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-砰！ 您还可以从渠道[中删除特定状态。](delete-a-program-status-from-a-program-channel.md)
-
->[!MORELIKETHIS]
->
->* [从项目渠道中删除项目状态](delete-a-program-status-from-a-program-channel.md)
-
->
-
-
-
+砰！ 您还可以从渠道](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md)中删除特定状态。[
