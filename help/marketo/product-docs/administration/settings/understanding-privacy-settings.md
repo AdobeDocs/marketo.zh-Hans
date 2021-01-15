@@ -3,9 +3,9 @@ unique-page-id: 10617187
 description: 了解隐私设置- Marketo Docs —— 产品文档
 title: 了解隐私设置
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,9 @@ Marketo为营销人员提供了一种获得Web访客同意跟踪他们的方法�
 
 Web访客可以通过选择“不跟踪”(DNT)来设置其浏览器以防止任何网站进行跟踪。 这会阻止对此特定浏览器和设备的跟踪。 有关完整的详细信息，请参阅浏览器的隐私设置。
 
-在Munchkin中，营销人员可以[决定是支持还是忽略浏览器的DNT设置](edit-do-not-track-browser-support-settings.md)。
+在Munchkin中，营销人员可以[决定是支持还是忽略浏览器的DNT设置](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)。
 
-在Web个性化中，营销人员可以决定是支持还是忽略浏览器的DNT设置[。](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)
+在Web个性化中，营销人员可以决定是支持还是忽略浏览器的DNT设置](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)。[
 
 ## 从选择退出特定网站{#opt-out-from-a-specific-website}
 
@@ -76,5 +76,4 @@ Web访客可以通过选择“不跟踪”(DNT)来设置其浏览器以防止任
 
 * 对于Web个性化(RTP)，请将其添加到javascript:
 
-匿名IP:在调用rtp(&#39;send&#39;,&#39;视图&#39;)之前；添加rtp(&#39;set&#39;, &#39;settings&#39;, {&#39;anonymizeIP&#39;:true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
