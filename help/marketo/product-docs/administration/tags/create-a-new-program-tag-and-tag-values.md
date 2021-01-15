@@ -3,7 +3,7 @@ unique-page-id: 2360272
 description: 创建新的项目标记和标记值- Marketo Docs —— 产品文档
 title: 创建新项目标记和标记值
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-您可以为项目创建自定义[标记](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)，并为标记指定值。
+您可以为项目创建自定义[标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)，并为标记指定值。
 
 >[!NOTE]
 >
