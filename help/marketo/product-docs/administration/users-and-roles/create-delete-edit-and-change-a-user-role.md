@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: 创建、删除、编辑和更改用户角色- Marketo Docs —— 产品文档
 title: 创建、删除、编辑和更改用户角色
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 创建角色{#create-a-role}
 
-1. 转至**Admin **并单击&#x200B;**“用户和角色”**。
+1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**用户和角色**。
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. 转到**角色选项卡**，然后单击&#x200B;**新建角色**。
+1. 转到&#x200B;**角色选项卡**&#x200B;并单击&#x200B;**新建角色**。
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## 删除角色{#delete-a-role}
 
-1. 在“管理员”下，** **单击&#x200B;**“用户和角色”**。
+1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**用户和角色**。
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. 在**角色**选项卡下，选择一个角色，然后单击&#x200B;**删除角色**。
+1. 在&#x200B;**角色**&#x200B;选项卡下，选择角色并单击&#x200B;**删除角色**。
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. 单击**角色**选项卡。
+1. 单击&#x200B;**角色**&#x200B;选项卡。
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. 选择要编辑的角色，然后单击**编辑角色**。
+1. 选择要编辑的角色，然后单击&#x200B;**编辑角色**。
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您是否正在更新帐户电子邮件地址？ [了解详情](http://docs.marketo.com/x/3wFI)。
+   >您是否正在更新帐户电子邮件地址？ [了解详情](/help/marketo/product-docs/administration/settings/edit-account-settings.md)。
 
 ## 更改用户角色{#change-a-users-role}
 
@@ -98,5 +98,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >如果您选择了多个角色，Marketo将默认为限制最严格的权限。
-
-太棒了，现在你真的上台了！  （明白吗？）
