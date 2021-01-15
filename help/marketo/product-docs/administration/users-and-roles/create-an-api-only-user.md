@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: 创建仅限API用户- Marketo Docs —— 产品文档
 title: 创建仅API用户
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # 创建仅API用户{#create-an-api-only-user}
 
-如果要通过[REST API](http://developers.marketo.com/documentation/rest/)与Marketo集成，您将需要创建仅用于API的用户。 这是方法。
+如果要通过[REST API](https://developers.marketo.com/documentation/rest/)与Marketo集成，您将需要创建仅用于API的用户。 这是方法。
 
 >[!PREREQUISITES]
 >
->* [创建仅API用户角色](create-an-api-only-user-role.md)
-
->
-
+>[创建仅API用户角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 
 
 >[!NOTE]
@@ -57,13 +54,6 @@ ht-degree: 0%
 
 那好！ 现在，让我们继续创建自定义服务。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [创建与ReST API一起使用的自定义服务](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
-
->
-
-
-
+>[创建与ReST API一起使用的自定义服务](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
