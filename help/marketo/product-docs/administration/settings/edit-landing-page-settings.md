@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: 编辑登陆页设置- Marketo Docs —— 产品文档
 title: 编辑登陆页设置
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
    | 期限 | 定义 |
    |---|---|
    | 登陆页的域名 | 这是您的CNAME。 CNAME是您为登陆页提供的URL的第一部分。 例如，在`http://go.yourCompany.com`中，单词“go”是CNAME。 你可以有多个，但大多数人只是用这个。 |
-   | 回退页 | 如果登陆页不存在或关闭，则此处为该位置。 了解有关[回退页面](set-a-fallback-page.md)的更多信息。 |
+   | 回退页 | 如果登陆页不存在或关闭，则此处为该位置。 了解有关[回退页面](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)的更多信息。 |
    | 主页 | 输入您的公司网站URL。 |
 
    ![](assets/three.png)
@@ -56,4 +56,3 @@ ht-degree: 0%
    ![](assets/six.png)
 
    干得好！ 您的登陆页现在拥有正确的信息，应立即开始开始工作。
-
