@@ -3,9 +3,9 @@ unique-page-id: 2359916
 description: 更改您的营销人员密码——营销人员文档——产品文档
 title: 更改营销人员密码
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
-1. 输入“旧口令”和“新口令”，然后在新口令符合所有要求时单击“保存”**。
+1. 输入“旧口令”和“新口令”，然后在新口令符合所有要求时单击“保存”。****
 
    ![](assets/image2014-9-10-9-3a44-3a2.png)
 
@@ -31,5 +31,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >什么是好密码？ 包含大量字母、数字和符号的长项，如&quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;。 只是，不是那个。 发挥创意，打造自己的作品。
-
+   >什么是好密码？ 有很多字母、数字和符号的长东西，如“M@rk3to !”$ Gre@t”。 只是，不是那个。 发挥创意，打造自己的作品。
