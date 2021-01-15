@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: 创建新工作区- Marketo Docs —— 产品文档
 title: 创建新工作区
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
->首先，请阅读[了解工作区和人员分区](understanding-workspaces-and-person-partitions.md)。
+>首先，请阅读[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
 >[!NOTE]
 >
->要了解有关Workspace最佳实践的更多信息，请联系[Marketo Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)。
+>要了解有关Workspace最佳实践的更多信息，请联系[Marketo Professional Services](mailto:services@marketo.com)。
 
 1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**Workspaces &amp; Partitions**。
 
@@ -42,33 +40,25 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 输入a** Name**，然后选择要使用的&#x200B;**人员分区**。 选择&#x200B;**主要人员分区**。
+1. 输入&#x200B;**名称**，然后选择要使用的&#x200B;**人员分区**。 选择&#x200B;**主要人员分区**。
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >如果尚未创建，请确保[创建人员分区](create-a-person-partition.md)。
+   >如果尚未创建，请确保[创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >**所有人员分区**** **复选框表示此工作区可以使用系统中的所有人员分区。
-
-   >[!NOTE]
+   >**所有人员分区**&#x200B;复选框表示此工作区可以使用系统中的所有人员分区。
    >
-   >**提醒**
-   >
-   >
-   >**主要人员分区**用作默认分区，并且将分配所有人员。
+   >**主要人员分区**&#x200B;用作默认分区，它将分配所有人员。
 
    如果启用了多个品牌域，则必须选择主品牌域。
 
    ![](assets/four-1.png)
 
-   选择工作区语言。
+1. 选择工作区语言。
 
    >[!NOTE]
    >
@@ -85,4 +75,3 @@ ht-degree: 0%
    创建工作区后，您应看到更新！
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
-
