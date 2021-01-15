@@ -3,7 +3,7 @@ unique-page-id: 2360307
 description: 启用或禁用宝箱功能- Marketo Docs —— 产品文档
 title: 启用或禁用金库功能
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Treasure Chest提供的有趣实验功能并不完全受支持。
 >
 >**需要管理员权限**
 
-1. 在“**管理员**”下，单击“**金库**”。
+1. 在&#x200B;**管理员**&#x200B;下，单击&#x200B;**金库**。
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -33,6 +33,4 @@ Treasure Chest提供的有趣实验功能并不完全受支持。
 
    >[!TIP]
    >
-   >
    >您可能需要先注销，然后再重新登录到Market，才能看到更改生效。
-
