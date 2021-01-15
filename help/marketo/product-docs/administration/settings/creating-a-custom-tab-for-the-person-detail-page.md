@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: 为“人员详细信息”页面创建自定义选项卡- Marketo Docs —— 产品文档
 title: 为“人员详细信息”页面创建自定义选项卡
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -35,10 +35,10 @@ ht-degree: 0%
    >
    >您有两列要处理。
 
-   如果您决定要删除字段，请右键单击要删除的字段，然后单击删除。
+   如果您决定要删除字段，请右键单击要删除的字段，然后单击&#x200B;**删除**。
+
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
    太棒了！ 现在，加载人员详细信息时，您可以使用自定义布局访问对您重要的信息。
 
    ![](assets/six-1.png)
-
