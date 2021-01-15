@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: 更改密码安全设置- Marketo Docs —— 产品文档
 title: 更改密码安全设置
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定义**
-   >
-   >
    >模板只是预建配置。 标准是好的。 安全性最高。 “自定义”允许您自行创建。
 
    ![](assets/passwordstrength.png)
@@ -42,11 +39,11 @@ ht-degree: 0%
    >
    >在&#x200B;**Custom**&#x200B;中，选中复选框以指示用户在创建口令时要包括的特性。
 
-1. 设置&#x200B;**Expiration**。** **此功能自动要求用户在一段时间后重置口令。 这还包括管理员用户。
+1. 设置&#x200B;**Expiration**。 此功能自动要求用户在一定时间后重置口令。 这还包括管理员用户。
 
    >[!CAUTION]
    >
-   >现有用户将不会收到更改通知。 将**过期**设置为先30天，确保每个人都已更新到新设置，然后将其更改回原始节奏。
+   >现有用户将不会收到更改通知。 将&#x200B;**Expiration**&#x200B;设置为30天，以确保每个人都已更新到新设置，然后将其更改回原始节奏。
 
    ![](assets/expiration.png)
 
@@ -55,4 +52,3 @@ ht-degree: 0%
    ![](assets/inactivesession.png)
 
    安全性是严肃的业务。 我们支持你。
-
