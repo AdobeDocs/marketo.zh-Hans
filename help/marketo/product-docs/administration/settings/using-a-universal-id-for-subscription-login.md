@@ -3,7 +3,7 @@ unique-page-id: 10100311
 description: 将通用ID用于订阅登录- Marketo Docs —— 产品文档
 title: 使用通用ID进行订阅登录
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -66,4 +66,3 @@ Marketo为多个订阅提供了通用ID，可自动实施最严格的密码策�
 ## 移动平台{#mobile-platform}
 
 具有通用ID的用户可以从上次登录的订阅在Marketo Moments和iPad事件登记应用程序中查看其数据。 您无法从移动平台本身更改订阅。
-
