@@ -3,7 +3,7 @@ unique-page-id: 2359912
 description: 导出用户和角色列表- Marketo Docs —— 产品文档
 title: 导出用户和角色列表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -35,11 +35,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
-1. 单击**导出**图标。
+1. 单击&#x200B;**导出**&#x200B;图标。
 
    ![](assets/image2014-9-10-9-3a26-3a3.png)
 
    这就是所有人！ 您应下载新的Excel文件。
 
    ![](assets/image2014-9-10-9-3a26-3a17.png)
-
