@@ -3,9 +3,9 @@ unique-page-id: 2360325
 description: 允许用户访问工作区- Marketo文档——产品文档
 title: 允许用户访问工作区
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
->了解有关[workspaces](understanding-workspaces-and-person-partitions.md)的更多信息。
+>了解有关[workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)的更多信息。
 
 1. 在“管理员”下，单击“用户和角色”。
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. 在**Users **选项卡下，选择用户并单击&#x200B;**编辑用户**。
+1. 在&#x200B;**Users**&#x200B;选项卡下，选择用户并单击&#x200B;**Edit User**。
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
@@ -45,5 +43,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-   太好了！ 现在，当他们登录时，他们将看到您授予他们访问权限的所有工作区。
-
+太好了！ 现在，当他们登录时，他们将看到您授予他们访问权限的所有工作区。
