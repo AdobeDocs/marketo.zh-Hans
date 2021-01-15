@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: 在报告和警报中编辑链接过期- Marketo Docs —— 产品文档
 title: 编辑报告和警报中的链接过期
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >请记住，这些仅适用于报告和警报中的链接，而不适用于营销电子邮件。
-
