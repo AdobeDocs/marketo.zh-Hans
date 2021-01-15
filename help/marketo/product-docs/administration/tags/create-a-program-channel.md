@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: 创建项目渠道- Marketo Docs —— 产品文档
 title: 创建项目渠道
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
->进一步了解[项目](http://docs.marketo.com/display/docs/programs),Marketo中最重要的元素。
+>进一步了解[项目](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md),Marketo中最重要的元素。
 
 1. 在&#x200B;**Admin**&#x200B;部分下，单击&#x200B;**标记**。
 
@@ -45,27 +43,20 @@ ht-degree: 0%
    >
    >**示例**
    >
-   >
    >渠道:公告牌
    >
-   >    
-   >    
-   >    * 应用于：默认
-   >    * 晋升：会员，参与（如有疑问，这些工作正常）
-   >    * 成功：已参与
+   >* 应用于：默认
+   >* 晋升：会员，参与（如有疑问，这些工作正常）
+   >* 成功：已参与
 
-   >    
-   >    
+   >
    >渠道:党
    >
-   >    
-   >    
-   >    * 应用于：事件
-   >    * 晋升：已邀请、已注册、无展示和已出席
-   >    * 成功：已出席
+   >* 应用于：事件
+   >* 晋升：已邀请、已注册、无展示和已出席
+   >* 成功：已出席
 
-   >    
-   >    
+   >
    >查看现有渠道的进度，了解如何使用它们。
 
 1. 让我们以党渠道为例。 为新&#x200B;**渠道**&#x200B;命名，并选择将应用该项目类型。
@@ -113,10 +104,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >只有&#x200B;**移动登记状态********已注册**&#x200B;和&#x200B;**已参加的**&#x200B;的人员才会在[移动登记应用程序](http://docs.marketo.com/display/docs/events)中可见。
+   >只有[移动登记应用程序](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md)中具有&#x200B;**移动登记状态**&#x200B;的&#x200B;**已注册**&#x200B;和&#x200B;**已出席**&#x200B;的人员才会在移动登记应用程序中可见。
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ ht-degree: 0%
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    干得好！ 当您创建此类型的新项目时，此新渠道将是其中一个选择。
-
