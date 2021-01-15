@@ -3,7 +3,7 @@ unique-page-id: 2360274
 description: 管理标记值- Marketo Docs —— 产品文档
 title: 管理标记值
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 管理标记值{#managing-tag-values}
 
-[标](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 语用于描述项目。您可以根据需要制作任意数量的图像，每个图像都具有唯一的值。 下面介绍如何管理这些价值。
+[标](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 语用于描述项目。您可以根据需要制作任意数量的图像，每个图像都具有唯一的值。 下面介绍如何管理这些价值。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[创建新项目标记和标记值](create-a-new-program-tag-and-tag-values.md)
+>[创建新项目标记和标记值](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## 添加标记值{#adding-tag-values}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. 单击**新建**，然后单击&#x200B;**新建标记值**。
+1. 单击&#x200B;**新建**，然后单击&#x200B;**新建标记值**。
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 1. 您应立即看到更改！
 
-![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/image2014-9-24-12-3a27-3a34.png)
 
 ## 隐藏标记值{#hiding-tag-values}
 
 旧项目可能使用标记。 您可以通过隐藏标记类型来弃用它们以供将来使用。
 
-1. 选择** ****标记**，然后选择要隐藏的&#x200B;**值**。
+1. 选择&#x200B;**标记**，然后选择要隐藏的&#x200B;**值**。
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
@@ -69,5 +69,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a29-3a58.png)
 
-   然后，您可以取消隐藏将来要使用的值。
-
+然后，您可以取消隐藏将来要使用的值。
