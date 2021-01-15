@@ -3,7 +3,7 @@ unique-page-id: 10095636
 description: 为代码片段启用无草稿- Marketo文档——产品文档
 title: 为片段启用无草稿
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -51,5 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[批准非草稿代码片段](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
-
+>[批准非草稿代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
