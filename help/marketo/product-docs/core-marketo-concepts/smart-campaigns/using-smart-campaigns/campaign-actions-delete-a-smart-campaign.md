@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: 活动操作——删除智能活动- Marketo文档——产品文档
 title: 活动操作——删除智能活动
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要取消处理活动智能活动而不完全删除它，请了解如何[中止智能活动](abort-a-smart-campaign.md)。
+   >要取消处理活动智能活动而不完全删除它，请了解如何[中止智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)。
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -38,5 +38,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >执行&#x200B;**NOT**&#x200B;操作，以删除流程步骤中的人员的活动智能活动。 活动仍可能执行。
-
-不错！
