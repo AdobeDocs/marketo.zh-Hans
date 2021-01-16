@@ -3,7 +3,7 @@ unique-page-id: 1146952
 description: 添加到列表- Marketo Docs —— 产品文档
 title: 添加到列表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
