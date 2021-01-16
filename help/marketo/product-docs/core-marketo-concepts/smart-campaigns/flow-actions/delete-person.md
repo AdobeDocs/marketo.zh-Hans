@@ -3,7 +3,7 @@ unique-page-id: 1147082
 description: 删除人员——营销人员文档——产品文档
 title: 删除人员
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -38,4 +38,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >从CRM **中删除人员仅适用于Salesforce**。 如果您从Marketo中删除某人并选择将其保留在Salesforce中，则如果其Salesforce记录有更新，则将在Marketo中重新创建他们。
-
