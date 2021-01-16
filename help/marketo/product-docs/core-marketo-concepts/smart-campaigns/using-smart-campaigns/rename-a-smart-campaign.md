@@ -3,7 +3,7 @@ unique-page-id: 1147049
 description: 重命名智能活动- Marketo Docs —— 产品文档
 title: 重命名智能活动
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以更改现有智能活动的名称。 这是方法。
 
-1. 转到营销活动。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >项目中的智能活动名称始终转换为格式“ProgramName.CampaignName”。
 
-1. 输入新的智能活动名称，然后单击保存。
+1. 输入新的智能活动名称，然后单击“保存&#x200B;**”。**
 
    ![](assets/rename-cursorandhand.png)
 
