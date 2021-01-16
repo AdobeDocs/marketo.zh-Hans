@@ -3,9 +3,9 @@ unique-page-id: 1146940
 description: 为智能列表定义智能活动 |批处理——营销文档——产品文档
 title: 为智能列表定义智能活动 |批处理
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >通过添加触发器，可以使智能活动根据实时事件一次运行于一个人上，这将智能活动置于&#x200B;**触发器**&#x200B;模式。
 
 1. 单击下拉列表，然后为您选择的筛选器选择筛选器运算符。
@@ -48,17 +45,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >默认情况下，符合所有智能列表规则的人员均符合条件。 可以修改此项以满足您的活动需求。 请查阅[复杂逻辑的智能列表规则](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)以了解更多信息。
+   >默认情况下，符合所有智能列表规则的人员均符合条件。 可以修改此项以满足您的活动需求。 请查阅[复杂逻辑的智能列表规则](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)以了解更多信息。
 
-   要一次触发实时事件，请学习如何[为智能列表定义智能活动 |触发器](define-smart-list-for-smart-campaign-trigger.md)。
+   要一次触发实时事件，请学习如何[为智能列表定义智能活动 |触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [为智能列表定义智能活动 |触发器](define-smart-list-for-smart-campaign-trigger.md)
-   >    * [向智能活动添加流步骤](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+   >* [为智能列表定义智能活动 |触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [向智能活动添加流步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
