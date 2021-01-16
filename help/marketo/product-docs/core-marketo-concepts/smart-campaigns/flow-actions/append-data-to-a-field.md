@@ -3,7 +3,7 @@ unique-page-id: 1147042
 description: 将数据追加到字段- Marketo Docs —— 产品文档
 title: 将数据追加到字段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建活动](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>[创建活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 1. 在&#x200B;**Flow**&#x200B;选项卡下，拖入&#x200B;**更改数据值**&#x200B;流步骤。
 
@@ -39,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-   就这样！ 您可以获得创意并在其中添加多个令牌。
-
+就这样！ 您可以获得创意并在其中添加多个令牌。
