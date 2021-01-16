@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: 在智能活动中编辑资格规则- Marketo Docs —— 产品文档
 title: 在智能活动中编辑资格规则
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -33,18 +33,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >默认情况下，通信限制不应用于智能活动。 了解如何[将通信限制应用于智能活动](apply-communication-limits-to-smart-campaign.md)。
+   >默认情况下，通信限制不应用于智能活动。 了解如何[将通信限制应用于智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)。
 
    >[!NOTE]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [将通信限制应用于智能活动](apply-communication-limits-to-smart-campaign.md)
-
+   >[将通信限制应用于智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
 任务完成！ 您现在知道如何在智能活动中控制资格规则。
