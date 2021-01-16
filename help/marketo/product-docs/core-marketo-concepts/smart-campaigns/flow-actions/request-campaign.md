@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: 请求活动- Marketo Docs —— 产品文档
 title: 请求活动
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您要将人员置入的活动必须处于活动状态，并且具有** [活动是请求的](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**触发器。
+>您要将人员置入的活动必须处于活动状态，且&#x200B;**[活动为Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**&#x200B;触发器。
 
 1. 在&#x200B;**数据库**&#x200B;中，查找并选择所需的人／人。
 
@@ -44,4 +44,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >使用&#x200B;**活动被请求**&#x200B;触发器或过滤器来查找受此流步骤影响的人员。
-
