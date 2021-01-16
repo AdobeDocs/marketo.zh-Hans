@@ -3,9 +3,9 @@ unique-page-id: 1146970
 description: 计划批处理智能活动以稍后运行- Marketo Docs —— 产品文档
 title: 计划批处理智能活动以稍后运行
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您还可以[在项目计划视图](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)中重新计划批智能活动。
+>您还可以[在项目计划视图](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)中重新计划批智能活动。
 
 1. 选择要运行的批智能活动，转到&#x200B;**计划**&#x200B;选项卡，然后单击&#x200B;**运行一次**。
 
@@ -41,10 +41,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [计划循环批活动](schedule-a-recurring-batch-campaign.md)
-
-
+   >[计划循环批活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
