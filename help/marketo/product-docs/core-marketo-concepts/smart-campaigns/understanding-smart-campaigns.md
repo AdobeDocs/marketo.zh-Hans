@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: 了解智能活动-营销文档——产品文档
 title: 了解智能活动
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 如果Marketo是一款强大的汽车，那么智能活动才是真正的引擎。 开始很简单，但几乎可以做任何您要求的事情。
 
-智能活动有3个主要方面：[智能列表](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)、[流](http://docs.marketo.com/display/DOCS/Flow+Actions)和[计划](using-smart-campaigns/schedule-a-recurring-batch-campaign.md)选项卡。
+智能活动有3个主要方面：[智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)、[流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)和[计划](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)选项卡。
 
 ## 智能列表{#smart-list}
 
@@ -53,11 +53,8 @@ ht-degree: 0%
 
 最后，当您运行智能活动时，此控件可以控制。 您甚至可以设置重复，以便它在重复计划上运行。
 
-<br> 
-
 聪明的活动可以做很多事情。 了解详情后，您会发现Marketo中的一切变得简单易懂。
 
 >[!MORELIKETHIS]
 >
->* [创建新的智能活动](creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
+>[创建新的智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
