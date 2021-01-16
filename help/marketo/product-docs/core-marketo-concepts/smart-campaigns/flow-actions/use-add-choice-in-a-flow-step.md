@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: 在流程步骤- Marketo Docs —— 产品文档中使用添加选择
 title: 在流步骤中使用添加选择
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [向智能活动添加流步骤](add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>[向智能活动添加流步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 **添** 加使用流步骤的选择元素，并在选择详细信息时说“这取决于”。
 
@@ -53,15 +49,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >流步骤只应用第一匹配选择。 了解如何在流操作[中对“添加选择”重新排序。](reorder-add-choice-in-a-flow-step.md)
+   >流步骤只应用第一匹配选择。 了解如何在流操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)中对“添加选择”重新排序。[
 
-   >[!NOTE]
+   太好了！ 您现在可以创建包含流程步骤选择的单个智能活动，而不是为每个选择创建多个智能活动。
+
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [在流步骤中重新排序“添加选择”](reorder-add-choice-in-a-flow-step.md)
-
-
-太好了！ 您现在可以创建包含流程步骤选择的单个智能活动，而不是为每个选择创建多个智能活动。
+   >[重新排序流步骤中的添加选择](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
