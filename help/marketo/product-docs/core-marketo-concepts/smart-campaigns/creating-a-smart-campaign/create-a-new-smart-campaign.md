@@ -3,9 +3,9 @@ unique-page-id: 1146931
 description: 新建智能活动- Marketo Docs —— 产品文档
 title: 创建新的智能活动
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
->聪明的活动超酷。 进一步了解[此处](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
+>聪明的活动超酷。 进一步了解[此处](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
 
 1. 转到&#x200B;**营销活动**。
 
@@ -43,13 +41,8 @@ ht-degree: 0%
 
    酷！ 接下来，学习如何通过智能活动定义哪些人员在智能列表中运行。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [为智能列表定义智能活动 |批处理](define-smart-list-for-smart-campaign-batch.md)
-   >    * [为智能列表定义智能活动 |触发器](define-smart-list-for-smart-campaign-trigger.md)
-
+   >* [为智能列表定义智能活动 |批处理](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [为智能列表定义智能活动 |触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 
