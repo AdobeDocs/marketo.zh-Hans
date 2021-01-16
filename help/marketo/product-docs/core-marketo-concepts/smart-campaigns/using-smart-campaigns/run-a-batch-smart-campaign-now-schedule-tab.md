@@ -3,9 +3,9 @@ unique-page-id: 1146933
 description: 立即运行批智能活动 |计划选项卡——营销文档——产品文档
 title: 立即运行批智能活动 |计划选项卡
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/runcampaignnow-hands.png)
 
-1. 确保已选择“**立即运行**”，然后单击“**运行**”。
+1. 确保已选择&#x200B;**Run Now**，然后单击&#x200B;**Run**。
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
@@ -27,15 +27,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   小菜一碟！ 您还可以[计划运行以后的](schedule-a-batch-smart-campaign-to-run-later.md)。
+   小菜一碟！ 您还可以[计划运行以后的](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)。
 
    >[!NOTE]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [计划批处理智能活动以稍后运行](schedule-a-batch-smart-campaign-to-run-later.md)
-   >    * [计划循环批活动](schedule-a-recurring-batch-campaign.md)
-
+   >* [计划批处理智能活动以稍后运行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
+   >* [计划循环批活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
 
