@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: 发送警报- Marketo Docs —— 产品文档
 title: 发送警报
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Marketo可以向任何人（销售所有者、合作伙伴或其他人）发送�
 
    >[!NOTE]
    >
-   >**提醒**
-   >
    >您的电子邮件警报必须包含所有标题信息并处于&#x200B;**Approved**&#x200B;状态。
 
 1. 您可以单击预览图标，以确保选择了正确的电子邮件。
@@ -36,8 +34,6 @@ Marketo可以向任何人（销售所有者、合作伙伴或其他人）发送�
    ![](assets/three-1.png)
 
    >[!NOTE]
-   >
-   >**提醒**
    >
    >请确保在电子邮件中使用&#x200B;**发送警报信息**&#x200B;令牌。
 
@@ -57,5 +53,4 @@ Marketo可以向任何人（销售所有者、合作伙伴或其他人）发送�
 
 >[!MORELIKETHIS]
 >
->[创建电子邮件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
+>[创建电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
