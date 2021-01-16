@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: 了解批处理和触发智能活动- Marketo Docs —— 产品文档
 title: 了解批处理和触发智能活动
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,7 @@ ht-degree: 0%
 **批智能活动**
 
 * 可以安排重复，如每日、每周和每月。 你也可以让他们只跑一次。
-* 在[项目计划视图](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)上可见。\
-   *请注意，智能活动中“等待”步骤后的任何内容都不会包括在视图中。
+* 在[项目计划视图](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)上可见。 智能活动中“等待”步骤后的任何内容都不会包括在视图中。
 
 <br> 
 
@@ -60,11 +59,6 @@ ht-degree: 0%
 * 无法安排重复。 只能将它们设置为活动或非活动状态。
 * 您可以设置多个触发器。 但是，如果触发了任何触发器，则将运行活动操作。
 
-## 观看有关创建触发式电子邮件活动的视频{#watch-a-video-on-creating-triggered-email-campaigns}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!TIP]
 >
->使用[活动日志](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)查看智能活动中发生的分步操作。 您可以在人员详细信息页面的最后一个选项卡中找到活动日志。
-
+>使用[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)查看智能活动中发生的分步操作。 您可以在人员详细信息页面的最后一个选项卡中找到活动日志。
