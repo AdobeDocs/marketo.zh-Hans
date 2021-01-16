@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: 更改收入阶段- Marketo Docs —— 产品文档
 title: 更改收入阶段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >data warehouse会密切关注潜在客户在各个阶段之间移动的时间。 如果使用不正确，这可能会创建错误数据。
-
