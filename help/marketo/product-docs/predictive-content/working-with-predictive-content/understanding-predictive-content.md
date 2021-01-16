@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: 了解预测内容——营销文档——产品文档
 title: 了解预测性内容
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >根据购买日期，您的营销订阅可能包括Marketo Predictive Content或Content`<sup>AI</sup>`。 对于使用预测内容的用户，Marketo在2018年4月30日之前将启用“内容`<sup>AI</sup>`分析”功能。 要使这些功能在该日期之后保持不变，请联系您的Marketo Customer Success Manager以升级到Marketo Content`<sup>AI</sup>`。
 
-[批准预测性内容的标题](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)后，您将在此处处理该内容。 “预测内容”页面显示您已批准用于预测内容的所有标题。
+[批准预测性内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)后，您将在此处处理该内容。 “预测内容”页面显示您已批准用于预测内容的所有标题。
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
