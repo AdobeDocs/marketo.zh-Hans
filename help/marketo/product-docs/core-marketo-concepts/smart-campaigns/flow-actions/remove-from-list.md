@@ -3,9 +3,9 @@ unique-page-id: 1146954
 description: 从列表删除- Marketo Docs —— 产品文档
 title: 从列表中删除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-由于您能够** [添加到列表](add-to-list.md)**，您还需要一种从列表中删除人员的方法。
+由于您能够[添加到列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)，您还需要一种从列表中删除人员的方法。
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
@@ -25,5 +25,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
-   就这样！ 象馅饼一样简单。
-
+就这样！
