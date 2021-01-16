@@ -3,7 +3,7 @@ unique-page-id: 1146972
 description: 计划重复的批活动- Marketo Docs —— 产品文档
 title: 计划循环批活动
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 循环允许您在常规活动上运行批量智能计划。 例如，每周一次，周一中午12:00。
 
-1. 选择活动，转到计划选项卡，然后单击计划循环。
+1. 选择活动，转到计划选项卡，然后单击&#x200B;**计划循环**。
 
    ![](assets/recurrencehands-sendemail.png)
 
-1. 单击“计划”下拉框并选择“每周”。
+1. 单击“计划”下拉框并选择&#x200B;**“每周**”。
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. 将“重复间隔”保留为1，选择“星期一”并单击“保存”。
+1. 将“Repeat every as 1（重复间隔为1）”保留为“Monday（星期一）” ，然后单击“Save **（保存**）”。
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
