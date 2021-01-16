@@ -3,7 +3,7 @@ unique-page-id: 1146962
 description: 更改得分- Marketo Docs —— 产品文档
 title: 更改得分
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以创建多个得分字段。 有关详细信息，请参阅[在Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)中创建自定义字段。
+   >您可以创建多个得分字段。 有关详细信息，请参阅[在Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)中创建自定义字段。
 
 1. 输入所需的得分更改。
 
@@ -39,6 +39,4 @@ ht-degree: 0%
    * **-5** 将减量（允许使用负数）
    * **=5** 将使得分与
    * **=-5** 将使得得分与
-
    快速获得基本评分，然后随时间调整结果。 我们就是这么做的！
-
