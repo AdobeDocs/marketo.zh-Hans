@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: 针对移动智能活动的触发器和过滤器- Marketo Docs —— 产品文档
 title: 针对移动智能活动的触发器和过滤器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 Has/Had移动应用程序活动
 
-这为跟踪自定义移动活动提供了一种强大的方法。 您需要与开发人员合作，为Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android)设置跟踪[，为iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)设置跟踪[。
+这为跟踪自定义移动活动提供了一种强大的方法。 您需要与开发人员合作，为Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android)设置跟踪[，为iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)设置跟踪[。
 
 * 具有移动应用活动-触发器
 
@@ -132,12 +132,14 @@ Has/Had移动应用程序活动
 >在操作类型&#x200B;*Shopping*&#x200B;下，有一个非常具体的操作，其他约束定义它：
 >
 >* 买了一件衬衫
->  * 是红色的
->  * 30美元
->  * 花了20秒才买到
+   >   * 是红色的
+   >   * 30美元
+   >   * 花了20秒才买到
 
 
-下面是过滤器在Marketo中的外观：   ![](assets/image2015-8-17-13-3a16-3a12.png)
+下面是过滤器在Marketo中的外观：
+
+![](assets/image2015-8-17-13-3a16-3a12.png)
 
 >[!NOTE]
 >
@@ -192,6 +194,6 @@ Has/Had移动应用程序活动
 
 >[!MORELIKETHIS]
 >
->* [向智能列表滤镜添加约束](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [在智能过滤器中使用不活动列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [向智能列表滤镜添加约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [在智能过滤器中使用不活动列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
