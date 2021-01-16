@@ -3,7 +3,7 @@ unique-page-id: 2949192
 description: SEO —— 添加竞争对手- Marketo Docs —— 产品文档
 title: SEO —— 添加竞争对手
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -43,6 +43,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [添加关键字](/help/marketo//product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+   >* [添加关键字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
    >* [了解关键字(竞争对手视图)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
