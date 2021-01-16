@@ -3,9 +3,9 @@ unique-page-id: 1147084
 description: 从流中删除——营销文档——产品文档
 title: 从流中删除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >此功能用于智能活动的流程步骤中。
-
