@@ -3,9 +3,9 @@ unique-page-id: 1146956
 description: 有趣的时刻——营销文档——产品文档
 title: 有趣的时刻
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-如果您有[Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php)，则可以使用&#x200B;**有趣时刻**&#x200B;流程步骤，让您的销售团队了解您的员工正在做的事情。
+如果您有Marketo Sales Insight，则可以使用&#x200B;**有趣时刻**&#x200B;流程步骤，让您的销售团队了解您的员工正在做的事情。
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
@@ -33,16 +33,10 @@ ht-degree: 0%
    >
    >**少就是多**。与您的销售团队合作，确保有趣的时刻真正有趣。
 
-   [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+您还可以在有趣的时刻使用[令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)做出真正有用的动态描述。
 
-   >[!NOTE]
-   >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [使用有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
-   >    * [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>[!MORELIKETHIS]
+>
+>* [使用有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
-
-您还可以使用来做出真正有用的动态描述。
