@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: 智能列表过滤器操作符术语表- Marketo文档——产品文档
 title: 智能列表过滤器操作符术语表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # 智能列表过滤器操作符术语表{#smart-list-filter-operators-glossary}
 
-运算符是[智能列表](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)的一部分，可帮助您获得特定。 它允许您用直接的语言描述过滤器或触发器。 可用运算符对于每种类型的字段都不同。\
+运算符是智能列表的一部分，可帮助您获得特定内容。 它允许您用直接的语言描述过滤器或触发器。 可用运算符对于每种类型的字段都不同。
+
 下面是一个词汇表，描述每组运算符。
 
 ## 日期字段{#date-fields}
@@ -51,7 +52,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在过去&#x200B;**中，**&#x200B;包含您创建智能列表的日期（直到时间，而非之后）。
+>“过去”**包含您创建智能列表的日期（直到时间，而非之后）。**
 
 >[!CAUTION]
 >
@@ -102,7 +103,7 @@ ht-degree: 0%
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">运算符</th> 
-   <th colspan="1" rowspan="1"><p>说明</p></th> 
+   <th colspan="1" rowspan="1">说明</th> 
   </tr> 
  </thead> 
  <tbody> 
