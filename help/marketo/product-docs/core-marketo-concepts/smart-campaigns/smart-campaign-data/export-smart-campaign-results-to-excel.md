@@ -3,7 +3,7 @@ unique-page-id: 1147070
 description: 将智能活动结果导出到Excel - Marketo Docs —— 产品文档
 title: 将智能活动结果导出到Excel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -24,4 +24,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >导出限制为20,000行。 Excel文件将保存在浏览器的默认下载文件夹中。
-
