@@ -3,9 +3,9 @@ unique-page-id: 2953188
 description: 推断的过滤器- Marketo Docs —— 产品文档
 title: 推断过滤器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 推断过滤器{#inferred-filters}
 
-当某人访问您的网站时，[Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)会将其cookies并放入系统。 我们在一个特殊的数据库中查找它们的IP，并推断出各种好信息。 看看。
+当某人访问您的网站时，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)会将其cookies并放入系统。 我们在一个特殊的数据库中查找它们的IP，并推断出各种好信息。 看看。
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -36,15 +36,9 @@ ht-degree: 0%
 >* 已访问网页——最近24小时
 >* 推断的状态为[选择其地区]
 
->
-
-
 
 这些匿名访客在单击电子邮件链接或填写表单时会自动转换为人。 然而，它们保留所有推断出的信息。
 
 >[!NOTE]
 >
->**深潜**
->
->了解有关[匿名活动和潜在客户](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)的更多信息。
-
+>了解有关[匿名活动和潜在客户](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)的更多信息。
