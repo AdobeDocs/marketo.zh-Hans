@@ -3,7 +3,7 @@ unique-page-id: 8159286
 description: 机会过滤器和触发器- Marketo Docs —— 产品文档
 title: 机会过滤器和触发器
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -80,4 +80,3 @@ ht-degree: 0%
 要触发业务机会自定义字段，请使用&#x200B;**Opportunity is Updated**&#x200B;触发器，并在下拉列表中选择字段：
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
-
