@@ -3,7 +3,7 @@ unique-page-id: 1147068
 description: 筛选智能活动结果- Marketo Docs —— 产品文档
 title: 过滤智能活动结果
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [视图智能活动结果](view-smart-campaign-results.md)
-
->
-
-
+>[视图智能活动结果](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 过滤智能活动结果，查看对您来说很重要的特定活动。
 
@@ -51,9 +47,8 @@ ht-degree: 0%
 
    ![](assets/saveasfilter-hands.png)
 
-1. 自定义筛选器将应用于您的结果，现在可从下拉菜单中访问。 （您可能需要刷新页面才能在下拉菜单中看到它。）
+1. 自定义筛选器将应用于您的结果，现在可在下拉列表中使用（您可能需要刷新页面才能在下拉列表中查看它。）
 
    ![](assets/customfilter-hands.png)
 
    那不酷吗？ 您的自定义筛选器现在可用于所有活动日志。
-
