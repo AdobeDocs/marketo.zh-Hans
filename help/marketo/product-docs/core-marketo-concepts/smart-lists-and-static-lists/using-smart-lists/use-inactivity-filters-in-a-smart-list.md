@@ -3,9 +3,9 @@ unique-page-id: 7511477
 description: 在智能列表- Marketo Docs —— 产品文档中使用不活动过滤器
 title: 在智能过滤器中使用不活动列表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,3 @@ ht-degree: 0%
 1. 选择&#x200B;**是任何**&#x200B;运算符。 这将查找过去30天内未访问过任何页面的所有人。
 
    ![](assets/mysmartlist-people.jpg)
-
-   那不容易吗？
-
