@@ -3,7 +3,7 @@ unique-page-id: 1147031
 description: 从SFDC中删除人员- Marketo Docs —— 产品文档
 title: 从SFDC删除人员
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -36,4 +36,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >如果将Marketo **中的** Delete设置为&#x200B;**true**，并从Marketo中删除人员和Salesforce中的Lead，它们将永远消失。 这是无法撤消的。
-
