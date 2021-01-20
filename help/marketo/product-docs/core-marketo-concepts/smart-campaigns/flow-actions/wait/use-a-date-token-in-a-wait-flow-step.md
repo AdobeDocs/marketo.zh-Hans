@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: 在等待流程步骤- Marketo Docs —— 产品文档中使用日期令牌
 title: 在等待流步骤中使用日期令牌
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,12 @@ ht-degree: 0%
    >
    >您还可以使用表示整数字段的`{{lead.`或`{{company.`令牌或数字类型的`{{my.`令牌指定天数。
 
-1. 单击“保存”。
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >* [在等待流步骤中使用持续时间](use-a-duration-in-a-wait-flow-step.md)
-   >* [在等待流程步骤中使用特定日期](use-a-specific-date-in-a-wait-flow-step.md)
-
+   >* [在等待流步骤中使用持续时间](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+   >* [在等待流程步骤中使用特定日期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
 
