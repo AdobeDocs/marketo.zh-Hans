@@ -3,7 +3,7 @@ unique-page-id: 557337
 description: 为列表和智能列表创建和更改视图- Marketo Docs —— 产品文档
 title: 为列表和智能列表创建和更改视图
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -18,13 +18,14 @@ ht-degree: 0%
 ## 创建视图{#create-a-view}
 
 1. 转至列表或智能列表，单击&#x200B;**People**&#x200B;选项卡，然后单击&#x200B;**视图**&#x200B;下拉菜单下的&#x200B;**创建****视图**。
-1. ![](assets/smartlist-createview.png)
+
+   ![](assets/smartlist-createview.png)
 
 1. 命名视图并查找要添加或删除的列。
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   添加／删除所需的列，然后单击创建。
+1. 添加／删除所需列，然后单击&#x200B;**创建**。
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -56,8 +57,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-
-
 ## 删除视图{#delete-a-view}
 
 1. 从&#x200B;**视图**&#x200B;下拉菜单中选择要删除的视图的&#x200B;**编辑**&#x200B;选项。
@@ -72,10 +71,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用内置／系统智能列表](use-built-in-system-smart-lists.md)
->* [创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [使用内置／系统智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
