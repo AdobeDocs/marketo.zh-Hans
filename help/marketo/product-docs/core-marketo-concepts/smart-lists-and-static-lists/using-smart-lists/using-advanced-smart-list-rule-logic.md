@@ -3,7 +3,7 @@ unique-page-id: 1146901
 description: 使用高级智能列表规则逻辑- Marketo Docs —— 产品文档
 title: 使用高级智能列表规则逻辑
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [查找过滤器并将其添加到智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [定义智能列表过滤器](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [查找过滤器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [定义智能列表过滤器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ ht-degree: 0%
 
 ## 将逻辑添加到智能列表{#add-logic-to-a-smart-list}
 
-默认情况下，您的智能列表将找到与&#x200B;**ALL**&#x200B;过滤器(过滤器1 *和* 2 *和* 3)匹配的人员。 您可以更改规则逻辑，以查找符合已定义过滤器的&#x200B;**ANY**&#x200B;的人员(过滤器1 *或* 2 *或* 3)，或使用高级过滤器(过滤器1 *和* 2 *或*3)。
+默认情况下，您的智能列表将找到与&#x200B;**ALL**&#x200B;过滤器(过滤器1 _和_ 2 _和_ 3)匹配的人员。 您可以更改规则逻辑，以查找符合所定义过滤器的&#x200B;**ANY**&#x200B;的人员(过滤器1 _或_ 2 _或_ 3)，或使用高级过滤器(过滤器1 _和_ 2 _或_ 3)。
 
-在此示例中，假设您要在加利福尼亚&#x200B;*和*&#x200B;中找到得分至少为50分的人员（*或*），状态为“销售合格”。
+在此示例中，假设您要在加利福尼亚&#x200B;_和_&#x200B;中找到得分至少为50分的人员（_或_），状态为“销售合格”。
 
-1. 从下拉菜单中选择&#x200B;**使用** **高级** **过滤器**。
+1. 从下拉列表中选择&#x200B;**使用高级过滤器**。
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ ht-degree: 0%
    >
    >使用&#x200B;**高级**&#x200B;过滤器可减少使用智能列表过滤器的成员创建智能列表的需求。 这有助于优化性能。
 
-1. **Advanced** **过滤器**&#x200B;文本框将显示“和”作为所有过滤器之间的默认值。
+1. **高级过滤器**&#x200B;文本框将显示“和”作为所有过滤器之间的默认值。
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >如果输入无效规则，您将看到规则下方显示一条红线。 滚动到文本上可看到相关错误消息。
-
