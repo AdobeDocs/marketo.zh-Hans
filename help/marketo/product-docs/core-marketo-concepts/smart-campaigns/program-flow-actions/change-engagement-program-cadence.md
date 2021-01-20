@@ -3,7 +3,7 @@ unique-page-id: 1147013
 description: 更改参与项目节奏——营销文档——产品文档
 title: 更改参与项目节奏
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   如果您希望人员再次开始接收内容，可将其设置回&#x200B;**Normal**。
-
+如果您希望人员再次开始接收内容，可将其设置回&#x200B;**Normal**。
