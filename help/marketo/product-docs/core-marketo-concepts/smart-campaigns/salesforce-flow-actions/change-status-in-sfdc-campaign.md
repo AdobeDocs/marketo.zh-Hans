@@ -3,7 +3,7 @@ unique-page-id: 1147029
 description: 更改SFDC活动中的状态- Marketo Docs —— 产品文档
 title: 在SFDC活动中更改状态
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -31,7 +31,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. 然后，选择要设置的&#x200B;**新建** **状态**，您已完成！
+1. 然后，选择要设置的&#x200B;**新状态**，您已完成！
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
-
