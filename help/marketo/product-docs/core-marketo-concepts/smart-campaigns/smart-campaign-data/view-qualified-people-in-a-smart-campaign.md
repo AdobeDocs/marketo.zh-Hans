@@ -3,7 +3,7 @@ unique-page-id: 1146966
 description: 视图智能活动中的合格人员- Marketo Docs —— 产品文档
 title: 视图智能活动中的合格人员
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -33,17 +33,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >合格人数还取决于聪明的活动资格规则。 了解如何[编辑资格规则](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)。
+   >合格人数还取决于聪明的活动资格规则。 了解如何[编辑资格规则](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)。
 
 真贴心！ 您可以使用此列表检查哪些人在运行智能活动之前可能会流程。
 
 >[!MORELIKETHIS]
 >
->* [视图智能活动成员](view-smart-campaign-members.md)
->* [视图在智能活动中被阻止](view-blocked-people-in-a-smart-campaign.md)
->* [向智能活动添加流步骤](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>* [视图智能活动成员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+>* [视图在智能活动中被阻止](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+>* [向智能活动添加流步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
