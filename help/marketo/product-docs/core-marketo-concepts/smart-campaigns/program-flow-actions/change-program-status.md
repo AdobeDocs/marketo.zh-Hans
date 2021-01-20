@@ -3,7 +3,7 @@ unique-page-id: 1147007
 description: 更改项目状态- Marketo Docs —— 产品文档
 title: 更改项目状态
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-项目状态可帮助您跟踪人们在项目或事件中的进度。 在[自定义、创建和管理渠道](../../../../product-docs/administration/tags/create-a-program-channel.md)中查找更多信息。
+项目状态可帮助您跟踪人们在项目或事件中的进度。 在[自定义、创建和管理渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)中查找更多信息。
 
 >[!CAUTION]
 >
