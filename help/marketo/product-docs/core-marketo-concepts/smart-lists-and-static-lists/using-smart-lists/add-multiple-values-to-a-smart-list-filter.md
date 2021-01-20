@@ -3,9 +3,9 @@ unique-page-id: 2360496
 description: 向智能列表过滤器- Marketo Docs —— 产品文档添加多个值
 title: 向智能列表过滤器添加多个值
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [查找过滤器并将其添加到智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-
->
-
+>* [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [查找过滤器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
 
 假设您想要找到加利福尼亚的所有人，但您可能同时将&#x200B;**California**&#x200B;和&#x200B;**CA**&#x200B;存储在您的数据库中。 要包含所有适用人员，您可以使用两个&#x200B;**状态**&#x200B;过滤器，但使用一个更简单。
@@ -32,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/smarlist-choosefilters.png)
 
-1. 单击滤镜上的&#x200B;**加号**。
+1. 单击滤镜上的&#x200B;**+**。
 
    ![](assets/smartlist-plussignhand-.png)
 
@@ -40,16 +37,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
-   快速工作！
+快速工作！
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [向智能列表滤镜添加约束](add-a-constraint-to-a-smart-list-filter.md)
->* [在智能过滤器中使用高级列表](using-advanced-smart-list-rule-logic.md)
-
->
-
-
+>* [向智能列表滤镜添加约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [在智能过滤器中使用高级列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
