@@ -3,7 +3,7 @@ unique-page-id: 7514027
 description: 将人员同步到Microsoft - Marketo Docs —— 产品文档
 title: 将人与Microsoft同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >当使用“将人员同步到Microsoft”流动操作(仅在触发活动中)时，将在Dynamics中实时创建潜在客户／联系人。
-
