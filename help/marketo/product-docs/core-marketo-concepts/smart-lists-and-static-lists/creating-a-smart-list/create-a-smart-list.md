@@ -3,9 +3,9 @@ unique-page-id: 557154
 description: 创建智能列表- Marketo Docs —— 产品文档
 title: 创建智能列表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 0%
    ![](assets/login-marketing-activities.png)
 
 1. 选择要在中创建智能项目的列表。
-1. ![这是测试](assets/image2014-8-11-10-3a17-3a8.png)
+
+   ![](assets/image2014-8-11-10-3a17-3a8.png)
 
 1. 在&#x200B;**新建**&#x200B;下，单击&#x200B;**新建本地资产**。
 
@@ -34,13 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
-   >[!NOTE]
-   >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [查找过滤器并将其添加到智能列表](find-and-add-filters-to-a-smart-list.md)
+   干得好！ 现在，我们添加并定义一些过滤器。
 
-
-干得好！ 现在，我们添加并定义一些过滤器。
+   >[!MORELIKETHIS]
+   >
+   >[查找过滤器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
