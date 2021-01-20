@@ -3,9 +3,9 @@ unique-page-id: 1146978
 description: 在等待流程步骤中使用持续时间- Marketo Docs —— 产品文档
 title: 在等待流步骤中使用持续时间
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
    >
    >**示例**
    >
-   >
    >周五下午5点，一个人触发了智能活动。 等待步骤是高级的：48小时，必须在周一至周五上午9点结束。
-   >
    >
    >结果是，该人将在&#x200B;**星期一上午9点**&#x200B;继续流动。 这是48小时后的第一次M-F约会。
 
@@ -49,13 +47,8 @@ ht-degree: 0%
    >
    >持续时间、日期、时间和所用天数均基于订阅的时区。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [在等待流程步骤中使用特定日期](use-a-specific-date-in-a-wait-flow-step.md)
-   >    * [在等待流步骤中使用日期令牌](use-a-date-token-in-a-wait-flow-step.md)
-
+   >* [在等待流程步骤中使用特定日期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [在等待流步骤中使用日期令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
 
