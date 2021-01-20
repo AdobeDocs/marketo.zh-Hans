@@ -3,7 +3,7 @@ unique-page-id: 4720377
 description: 跨工作区引用列表或智能列表- Marketo Docs —— 产品文档
 title: 跨工作区引用列表或智能列表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. 选择要共享的**Workspace **。 选择&#x200B;**保存**。
+1. 选择要与之共享的&#x200B;**工作区**。 选择&#x200B;**保存**。
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >在营销活动中，您只能共享顶级文件夹。 在数据库中，您可以共享顶级文件夹以及向下共享一个级别。
-
