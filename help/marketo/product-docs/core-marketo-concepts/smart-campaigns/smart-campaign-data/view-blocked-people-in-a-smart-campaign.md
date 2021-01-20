@@ -3,9 +3,9 @@ unique-page-id: 1147062
 description: 视图智能活动中被阻止的人员- Marketo Docs —— 产品文档
 title: 视图在智能活动中被阻止
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Marketo数据库中被阻止的人被列入阻止列表标记、取消订阅、�
 
    >[!NOTE]
    >
-   >达到通信限制的用户也可能无法收到邮件。 了解如何在“管理员”部分[编辑通信限制](../../../../product-docs/administration/email-setup/enable-communication-limits.md)。
+   >达到通信限制的用户也可能无法收到邮件。 了解如何在“管理员”部分[编辑通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)。
 
    “被阻止的人员”选项卡显示可能未收到邮件的人员。
 
@@ -35,16 +35,12 @@ Marketo数据库中被阻止的人被列入阻止列表标记、取消订阅、�
    >
    >运营电子邮件将发送给被标记为未订阅和营销暂停的人。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [编辑资格规则](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
-   >    * [启用通信限制](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
-   >    * [视图智能活动成员](view-smart-campaign-members.md)
-   >    * [视图智能活动中的合格人员](view-qualified-people-in-a-smart-campaign.md)
+   >* [编辑资格规则](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
+   >* [启用通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+   >* [视图智能活动成员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+   >* [视图智能活动中的合格人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
 
 
 给你！ 现在，您可以了解哪些人可能没有收到邮件。
