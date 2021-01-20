@@ -3,7 +3,7 @@ unique-page-id: 1147009
 description: 更改项目成功- Marketo Docs —— 产品文档
 title: 更改项目成功
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. 选择&#x200B;**成功**&#x200B;或**成功日期**作为属性。
+1. 选择&#x200B;**成功**&#x200B;或&#x200B;**成功日期**&#x200B;作为属性。
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
