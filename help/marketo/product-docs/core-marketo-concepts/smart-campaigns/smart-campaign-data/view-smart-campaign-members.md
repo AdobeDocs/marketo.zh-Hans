@@ -3,9 +3,9 @@ unique-page-id: 1146937
 description: 视图智能活动成员- Marketo Docs —— 产品文档
 title: 视图智能活动成员
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 视图人已经经历了智能活动流；即，聪明的活动成员。
 
-1. 转到营销活动。
+1. 转到&#x200B;**营销活动**。
 
 ![](assets/login-marketing-activities.png)
 
-1. 在智能活动中，单击视图活动成员。
+1. 在智能活动中，单击&#x200B;**视图活动成员**。
 
    ![](assets/changescore-hands.png)
 
@@ -35,19 +35,6 @@ ht-degree: 0%
    >
    >当智能活动未在任何人上运行时，列表成员活动最初将为空。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**深潜**
-   >
-   >
-   >进一步了解可以使用[列表](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)做什么。
-
-   >[!NOTE]
-   >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [视图在智能活动中被阻止](view-blocked-people-in-a-smart-campaign.md)
-
-
+   >[视图在智能活动中被阻止](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
