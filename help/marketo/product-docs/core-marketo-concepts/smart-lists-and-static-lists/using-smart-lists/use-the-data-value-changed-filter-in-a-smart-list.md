@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: 在智能列表- Marketo Docs —— 产品文档中使用数据值更改筛选器
 title: 在智能列表中使用数据值更改筛选器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. 访问**营销活动**区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/ma.png)
 
@@ -39,15 +35,4 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-此过滤器将查找对其状态进行了更改（任何更改）的所有人员。 如果您想更喜欢，请尝试[向智能列表滤镜添加约束](add-a-constraint-to-a-smart-list-filter.md)。
-
->[!NOTE]
->
->**相关文章**
->
->* [向智能列表滤镜添加约束](add-a-constraint-to-a-smart-list-filter.md)
-
->
-
-
-
+此过滤器将查找对其状态进行了更改（任何更改）的所有人员。 如果您想更喜欢，请尝试[向智能列表滤镜添加约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)。
