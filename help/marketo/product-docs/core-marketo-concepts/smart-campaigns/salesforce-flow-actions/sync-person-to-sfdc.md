@@ -3,7 +3,7 @@ unique-page-id: 1147027
 description: 将人员同步到SFDC - Marketo Docs —— 产品文档
 title: 将人员同步到SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >Salesforce不允许将“联系人”分配给潜在客户队列。 在这种情况下，Marketo将在Salesforce中创建重复“潜在客户”。
-
