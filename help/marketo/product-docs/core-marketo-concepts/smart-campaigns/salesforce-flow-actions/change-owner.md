@@ -3,7 +3,7 @@ unique-page-id: 1147021
 description: 更改所有者——营销文档——产品文档
 title: 更改所有者
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
    >1. 当联系人同步到Salesforce时，Marketo将仅创建&#x200B;****&#x200B;的重复潜在客户。 换言之，如果您将&#x200B;**[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;流步骤与`AssignTo=<a lead queue>`一起使用，Marketo将在Salesforce中创建一个重复潜在客户，并将其分配到潜在客户队列。
       >
       >
-   2. 如果尝试在联系人上使用&#x200B;**更改所有者**&#x200B;流步骤，则Salesforce中不会创建重复。
+   1. 如果尝试在联系人上使用&#x200B;**更改所有者**&#x200B;流步骤，则Salesforce中不会创建重复。
 
 
    >[!NOTE]
