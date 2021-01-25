@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 使用人员详细信息页面- Marketo Docs —— 产品文档
 title: 使用人员详细信息页面
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,15 @@ ht-degree: 0%
 
 ## “Getting to Person Detail”页{#getting-to-person-detail-page}
 
-有很多方法可以打开特定的人。 下面列出了一些示例。
+有很多方法可以打开特定的人。 例如：
 
->[!NOTE]
->
->**示例**
->
->* 在&#x200B;**Database**&#x200B;中，可以在快速查找中搜索
->* 任何智能&#x200B;**列表**&#x200B;或列表
->* **** 项目
->* **视图** 活动智能活动的会员资格
->* 某些&#x200B;**报告**
+* 在&#x200B;**Database**&#x200B;中，可以在快速查找中搜索
+* 任何智能&#x200B;**列表**&#x200B;或列表
+* **** 项目
+* **视图** 活动智能活动的会员资格
+* 某些&#x200B;**报告**
 
->
-
-
+   <br> 
 
 1. 多次单击任何人，或单击左侧的ID。
 
@@ -96,9 +90,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
->某些字段&#x200B;*不可编辑：*
+>某些字段&#x200B;_不可编辑：_
 >
 >* 公司信息
 >* SFDC联系人的机会
@@ -107,13 +99,8 @@ ht-degree: 0%
 
 >
 >
-了解有关[系统管理字段](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)的更多信息。
+了解有关[系统管理字段](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md)的更多信息。
 
 >[!MORELIKETHIS]
 >
->* [为“人员详细信息”页面创建自定义选项卡](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-
->
-
-
-
+>[为“人员详细信息”页面创建自定义选项卡](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
