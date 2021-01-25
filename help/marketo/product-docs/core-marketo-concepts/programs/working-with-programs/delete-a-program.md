@@ -3,7 +3,7 @@ unique-page-id: 1147148
 description: 删除项目- Marketo Docs —— 产品文档
 title: 删除项目
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. 单击项目操作。 单击“删除”。
+1. 单击&#x200B;**项目操作**。 单击&#x200B;**删除**。
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. 选择“全部删除”选项。 查看删除项目的副作用，然后单击删除以确认。
+1. 选择“全部删除”选项。 查看项目删除的副作用，然后单击&#x200B;**删除**&#x200B;进行确认。
 
 >[!TIP]
 >
@@ -43,9 +43,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. 单击&#x200B;**已使用** **By**&#x200B;以查看资产的使用位置。
+1. 单击&#x200B;**使用者**&#x200B;以查看资产的使用位置。
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
    一旦您知道资产的使用位置，请转到该资产并取消批准／删除。 然后再次尝试删除项目。
-
