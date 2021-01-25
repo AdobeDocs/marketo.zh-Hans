@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 项目成员自定义字段- Marketo Docs —— 产品文档
 title: 项目成员自定义字段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >项目成员自定义字段支持的类型有：boolean、date、datetime、float、integer、string、URL。 [了解有关字段类型的更多信息](http://docs.marketo.com/x/Wwgt)。
+   >项目成员自定义字段支持的类型有：boolean、date、datetime、float、integer、string、URL。 [了解有关字段类型的更多信息](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
 
 ## 对象描述{#object-descriptions}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ## 触发器和过滤器{#triggers-and-filters}
 
-您可以通过[触发器](http://docs.marketo.com/x/PoAR)和／或[过滤器](http://docs.marketo.com/x/2YAI)在智能列表中利用此项目特定数据。
+您可以通过[触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)和／或[过滤器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)在智能列表中利用此项目特定数据。
 
 ![](assets/six.png)
 
@@ -68,10 +68,9 @@ ht-degree: 0%
 * 项目成员对象最多可包含20个自定义字段。 这些字段可供任何项目使用。
 * 当您删除项目的成员时，如果其项目成员自定义字段中有任何数据，则将从该字段中删除数据。
 * 要视图数据，请单击项目中的“成员”选项卡，并创建包含这些字段的自定义视图。
-* 支持通过[列表](http://docs.marketo.com/x/egAk)和[API](http://developers.marketo.com/)导入和导出。
+* 支持通过[列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)和[API](https://developers.marketo.com/)导入和导出。
 * 合并两个人时，将使用入选方的项目会员自定义字段数据。 但如果赢家没有，那么输家的价值将被利用。
 
 >[!MORELIKETHIS]
 >
->[在Marketo中创建自定义字段](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
-
+>[在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
