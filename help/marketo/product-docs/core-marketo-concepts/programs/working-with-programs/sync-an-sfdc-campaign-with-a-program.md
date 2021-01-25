@@ -3,7 +3,7 @@ unique-page-id: 1147154
 description: 将SFDC活动与项目同步- Marketo Docs —— 产品文档
 title: 将SFDC活动与项目同步
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketo允许您将项目与Salesforce活动同步，以在两个系统中保持
 
 >[!PREREQUISITES]
 >
->您首先需要[启用Salesforce活动同步](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)。
+>您首先需要[启用Salesforce活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)。
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Marketo允许您将项目与Salesforce活动同步，以在两个系统中保持
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. 选择**新建**或选择现有Salesforce活动。
+1. 选择&#x200B;**新建**&#x200B;或选择现有Salesforce活动。
 
    >[!TIP]
    >
-   >如果选择现有Salesforce活动，请确保[匹配Salesforce活动和Marketo项目的项目状态](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)。
+   >如果选择现有Salesforce活动，请确保[匹配Salesforce活动和Marketo项目的项目状态](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)。
 
 1. 输入新活动的名称，然后单击“保存&#x200B;**”。**
 
@@ -50,4 +50,3 @@ Marketo允许您将项目与Salesforce活动同步，以在两个系统中保持
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
    太棒了！ 现在，Marketo中的任何项目状态更改都会同步到SFDC活动，反之亦然。
-
