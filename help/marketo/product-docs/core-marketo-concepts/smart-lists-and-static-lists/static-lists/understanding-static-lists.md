@@ -3,9 +3,9 @@ unique-page-id: 2949891
 description: 了解静态列表- Marketo Docs —— 产品文档
 title: 了解静态列表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->最常见的错误之一是认为只需“删除人”，即可将人从列表中删除。 **这是错的。** 删除人员将从整个数 **据库中删除**，而不仅仅是列表。
+>最常见的错误之一是认为只需“删除人”，即可将人从列表中删除。 **这是错的**。删除人员将从整个列表库&#x200B;**中删除它们，而不仅是删除。**
 
 ## 从列表{#ways-to-add-remove-people-from-a-list}添加／删除人员的方法
 
-1. 智能活动流步骤([添加到列表](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md),[从列表](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)删除)
+1. 智能活动流步骤([添加到列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md),[从列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)删除)
 
-1. [单个操作流程步骤](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [单个操作流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. 将人拖入树中的列表
-1. [列表导入](../../../../getting-started/quick-wins/import-a-list-of-people.md)
+1. [列表导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 ## 静态列表{#some-uses-of-a-static-list}的一些使用
 
@@ -48,5 +48,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[创建静态列表](https://docs.marketo.com/x/ecKt)
-
+>[创建静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
