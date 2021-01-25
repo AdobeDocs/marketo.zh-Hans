@@ -3,9 +3,9 @@ unique-page-id: 1147112
 description: 了解标记——营销文档——产品文档
 title: 了解标记
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -23,16 +23,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您要创建自定义标记，请与[营销人员](http://docs.marketo.com/display/DOCS/Create+Custom+Tags)交谈。
+>如果您要创建自定义标记，请与[营销人员](/help/marketo/product-docs/administration/tags/create-custom-tags.md)交谈。
 
 >[!NOTE]
 >
 >**示例**
 >
 >* 标记类型=项目所有者
-
->
-
 
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
@@ -47,38 +44,26 @@ ht-degree: 0%
 >
 >* 标记值= Anna、Arun、Reza
 
->
-
-
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
 ## 渠道{#channel}
 
-渠道用于报告[members](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)在项目中的移动情况。 每个渠道都有一组晋升状态和一个设置为相等成功的状态。
+渠道用于报告[members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)在项目中的移动情况。 每个渠道都有一组晋升状态和一个设置为相等成功的状态。
 
 >[!NOTE]
 >
 >**示例**
 >
 >* 渠道=路演
-   >
-   >
-* 晋升状态=已邀请、已注册、已出席、无显示
+>* 晋升状态=已邀请、已注册、已出席、无显示
 >* 成功=已出席
-
->
-
 
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
->* [创建自定义标记](../../../../product-docs/administration/tags/create-custom-tags.md)
->* [创建项目渠道](../../../../product-docs/administration/tags/create-a-program-channel.md)
-
->
-
-
+>* [创建自定义标记](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
+>* [创建项目渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
 
