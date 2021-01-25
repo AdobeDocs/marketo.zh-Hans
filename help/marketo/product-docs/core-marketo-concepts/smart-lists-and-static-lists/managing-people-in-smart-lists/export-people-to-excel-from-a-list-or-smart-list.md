@@ -3,7 +3,7 @@ unique-page-id: 557329
 description: 将人员从列表或智能列表导出到Excel - Marketo Docs —— 产品文档
 title: 将人员从列表或智能列表导出到Excel
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -54,4 +54,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >只需按列表的刷新按钮，即可撤消列表的缓存。
-
