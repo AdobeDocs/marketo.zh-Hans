@@ -3,7 +3,7 @@ unique-page-id: 557331
 description: 在收入阶段- Marketo Docs —— 产品文档中查找所有人员
 title: 在收入阶段查找所有人员
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## 查找特定收入阶段{#find-all-members-of-a-specific-revenue-stage}的所有成员
 
-1. 在智能列表中，单击**智能列表**选项卡，找到&#x200B;**收入阶段**&#x200B;过滤器，然后将其拖入画布。
+1. 在智能列表中，单击&#x200B;**智能列表**&#x200B;选项卡，找到&#x200B;**收入阶段**&#x200B;过滤器，然后将其拖入画布。
 
    ![](assets/draginrevenuefilter.png)
 
@@ -44,4 +40,3 @@ ht-degree: 0%
    ![](assets/six.png)
 
    从此处，您可以选择流步骤的哪个方面会影响哪些成员。 好玩！
-
