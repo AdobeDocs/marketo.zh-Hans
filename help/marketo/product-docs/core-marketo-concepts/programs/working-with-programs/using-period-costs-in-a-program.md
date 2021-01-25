@@ -3,9 +3,9 @@ unique-page-id: 1147118
 description: 在项目中使用期间成本- Marketo Docs —— 产品文档
 title: 在项目中使用期间成本
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # 在{#using-period-costs-in-a-program}项目中使用期间成本
 
-[期间成本](understanding-period-costs.md)是您在项目上花费的金额。 它可以持续一个或多个月，并用于报告ROI。
-
->[!NOTE]
->
->**深潜**
->
-> 了解有关[收入周期分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)的更多信息。
+[期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)是您在项目上花费的金额。 它可以持续一个或多个月，并用于报告ROI。
 
 ## 添加期间成本{#add-a-period-cost}
 
@@ -54,7 +48,8 @@ ht-degree: 0%
 ## 编辑期间成本{#edit-a-period-cost}
 
 1. 如果支出的金额大于或小于最初预计的金额，则可以编辑期间成本。
-1. 转到项目的**设置**选项卡。
+
+1. 转到项目的&#x200B;**Setup**&#x200B;选项卡。
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -76,17 +71,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 单击**删除**以确认。
+1. 单击&#x200B;**删除**&#x200B;进行确认。
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [了解期间成本](understanding-period-costs.md)
->* [收入周期分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
->* [按期间成本筛选项目报表](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
->
-
-
+>* [了解期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
+>* [按期间成本筛选项目报表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
