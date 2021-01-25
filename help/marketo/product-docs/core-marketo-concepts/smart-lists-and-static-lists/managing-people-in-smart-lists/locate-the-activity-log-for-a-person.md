@@ -3,9 +3,9 @@ unique-page-id: 5472404
 description: 找到人员的活动日志- Marketo文档——产品文档
 title: 查找人员的活动日志
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 活动日志是最终的真相。 这是一个人在Marketo旅程的完整故事。
 
-1. 转到**数据库**。
+1. 转到&#x200B;**Database**。
 
    ![](assets/db-2.png)
 
@@ -35,10 +35,6 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >
-   >了解有关[筛选活动日志](filter-activity-types-in-the-activity-log-of-a-person.md)的更多信息，以查看特定人员活动。
-
+   >了解有关[筛选活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)的更多信息，以查看特定人员活动。
