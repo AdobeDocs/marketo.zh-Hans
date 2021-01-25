@@ -3,7 +3,7 @@ unique-page-id: 10097447
 description: 数据库仪表板- Marketo Docs —— 产品文档
 title: 数据库仪表板
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -19,7 +19,9 @@ ht-degree: 0%
 >
 >每个工作区都有其自己的数据库。
 
-要到达此位置，可单击主屏幕上的&#x200B;**数据库**&#x200B;拼贴……   ![](assets/db-3.png)
+要到达此位置，可单击主屏幕上的&#x200B;**数据库**&#x200B;拼贴……
+
+![](assets/db-3.png)
 
 或者单击Marketo徽标，然后选择&#x200B;**Database**。
 
@@ -31,7 +33,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->想要获得更具体或更及时的人员信息？ 尝试[人员性能报告](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)。
+>想要获得更具体或更及时的人员信息？ 尝试[人员性能报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)。
 
-**总人数：** 该工作区的全职人员人数。**适销对** 价人员：工作区的全职人员数， *减去以下*:没有电子邮件地址的人、电子邮件已硬弹回的人、被列入阻止列表的人、未订阅的人、当前被设置为“暂停营销”的人。
-
+**总人数：** 该工作区的全职人员人数。**适销对** 价人员：工作区的全职人员数， _减去以下_:没有电子邮件地址的人、电子邮件已硬弹回的人、被列入阻止列表的人、未订阅的人、当前被设置为“暂停营销”的人。
