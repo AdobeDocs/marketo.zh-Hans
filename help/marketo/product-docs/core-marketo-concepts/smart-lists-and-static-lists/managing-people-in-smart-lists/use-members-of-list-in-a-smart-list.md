@@ -3,7 +3,7 @@ unique-page-id: 2953173
 description: 在智能列表中使用列表成员- Marketo Docs —— 产品文档
 title: 在智能列表中使用列表成员
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->可以使用[导入](../../../../getting-started/quick-wins/import-a-list-of-people.md)或[添加到列表流步骤](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)将人员添加到列表。
+>可以使用[导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)或[添加到列表流步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)将人员添加到列表。
 
 通过此过滤器，您可以通过在智能列表规则中引用该过滤器，从其他列表拉取成员。 这是方法。
 
@@ -31,5 +31,4 @@ ht-degree: 0%
 
    ![](assets/memberoflist.png)
 
-   **完成！** 在此示例中，智能列表现在将仅目标该列表的成员，并根据您包含的任何其他规则对其进行评估。
-
+   完成！ 在此示例中，智能列表现在将仅目标该列表的成员，并根据您包含的任何其他规则对其进行评估。
