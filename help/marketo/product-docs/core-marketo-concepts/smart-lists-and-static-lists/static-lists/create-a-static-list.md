@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: 创建静态列表- Marketo Docs —— 产品文档
 title: 创建静态列表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-   您现在有空列表可以填写。 了解如何在此处添加人员[](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)。
+   您现在有空列表可以填写。 了解如何在此处添加人员[](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list)。
 
    >[!NOTE]
    >
    >您可以将人物添加到列表中任意多次，但只显示一次。 除非您将其删除，否则人们仍保留在列表中。
-
