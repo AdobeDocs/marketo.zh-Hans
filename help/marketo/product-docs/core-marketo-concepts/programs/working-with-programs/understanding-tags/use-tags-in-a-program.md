@@ -3,7 +3,7 @@ unique-page-id: 1147150
 description: 在项目中使用标记- Marketo Docs —— 产品文档
 title: 在项目中使用标记
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
-1. 将标记拖放到画布中。
+1. 将标记拖放到画布上。
 
    ![](assets/image2014-9-23-15-3a45-3a13.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
-1. 单击**删除**以确认。
+1. 单击&#x200B;**删除**&#x200B;进行确认。
 
    ![](assets/image2014-9-23-15-3a47-3a8.png)
 
