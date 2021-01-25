@@ -3,9 +3,9 @@ unique-page-id: 6848705
 description: 最佳实践——如何组织项目- Marketo Docs —— 产品文档
 title: 最佳实践——如何组织项目
 translation-type: tm+mt
-source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->“存档”文件夹是一种特殊类型的文件夹，旨在从选定列表和报告中删除项目。 这将帮助您的系统更快地运行。 了解有关文件夹[的更多信息。](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
+>“存档”文件夹是一种特殊类型的文件夹，旨在从选定列表和报告中删除项目。 这将帮助您的系统更快地运行。 了解有关文件夹](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)的更多信息。[
 
 您当然可以根据需要添加更多文件夹。 请记住，您所在公司的未来一代营销人员将接受您关于如何命名／组织事物的决策。
 
@@ -76,15 +76,12 @@ ht-degree: 0%
 >1. NL 2015-06新闻快讯
 >1. WBN 2015-12-01网络研讨会主题，此处
 
->
 
-
-
-项目名称在订阅中必须唯一，即使在不同的[工作区](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)中也是如此。  对于项目内的本地资产，规则为&#x200B;**保留名称simple**。 只需将邀请命名为“邀请”，而不是“2015年6月网络研讨会邀请”。 由于这些项目位于项目中，因此当在其他位置选择父时，父代区域会自动成为名称的一部分。 换言之，本地资产在项目中只需是唯一的。 您可以有数百个名为“邀请”的资源，每个资源都位于不同的项目中，这不会让您感到困惑。
+项目名称在订阅中必须唯一，即使在不同的[工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)中也是如此。  对于项目内的本地资产，规则为&#x200B;**保留名称simple**。 只需将邀请命名为“邀请”，而不是“2015年6月网络研讨会邀请”。 由于这些项目位于项目中，因此当在其他位置选择父时，父代区域会自动成为名称的一部分。 换言之，本地资产在项目中只需是唯一的。 您可以有数百个名为“邀请”的资源，每个资源都位于不同的项目中，这不会让您感到困惑。
 
 ## 令牌{#tokens}
 
-令牌使用文件夹和项目作为工具来设置要由登陆页、电子邮件和其他资产使用的变量。 了解有关令牌[的所有信息。](http://docs.marketo.com/display/docs/tokens)
+令牌使用文件夹和项目作为工具来设置要由登陆页、电子邮件和其他资产使用的变量。
 
 上述组织允许您将令牌放入事件文件夹，以便它级联到所有事件。
 
@@ -102,7 +99,7 @@ ht-degree: 0%
 
 ## 参与项目{#engagement-programs}
 
-了解[关于参与项目的所有信息](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)。 组织参与项目的最佳方式是使用文件夹。 为每个流创建一个文件夹，然后将电子邮件或项目放入该文件夹。 当内容过时并且您要删除时，在每个流中包含一个存档文件夹。
+了解[关于参与项目的所有信息](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)。 组织参与项目的最佳方式是使用文件夹。 为每个流创建一个文件夹，然后将电子邮件或项目放入该文件夹。 当内容过时并且您要删除时，在每个流中包含一个存档文件夹。
 
 ## 操作项目{#operational-programs}
 
@@ -110,7 +107,7 @@ ht-degree: 0%
 
 ## 嵌套电子邮件项目{#nesting-email-programs}
 
-电子邮件项目专为处理邮件而设计。 您可以将它们放在事件或其他项目中，进行促销、邀请和提醒。 它们提供了酷炫的仪表板和其他A/B测试功能。 此外，在[项目计划视图](http://docs.marketo.com/display/docs/program+schedule+view)中，它们易于操作。
+电子邮件项目专为处理邮件而设计。 您可以将它们放在事件或其他项目中，进行促销、邀请和提醒。 它们提供了酷炫的仪表板和其他A/B测试功能。 此外，在项目计划视图中，它们易于操作。
 
 您还可以将电子邮件项目作为独立项目。 其他电子邮件项目中不允许使用电子邮件项目。 那太疯狂了！
 
@@ -126,4 +123,4 @@ Marketo中最酷的功能之一是克隆项目。 这意味着您可以设置一
 
 ## 摘要{#summary}
 
-正如您所看到的，Marketo拥有很大的力量。 我们在此介绍了基础知识，但请考虑从Marketo Experts](http://www.marketo.com/services/)提供的一些[附加服务，以便进行微调并为成功做好准备。
+正如您所看到的，Marketo拥有很大的力量。 我们在此介绍了基础知识，但请考虑从Marketo Experts](https://www.marketo.com/services/)提供的一些[附加服务，以便进行微调并为成功做好准备。
