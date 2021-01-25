@@ -3,7 +3,7 @@ unique-page-id: 1147120
 description: 将成员从电子表格导入项目- Marketo Docs —— 产品文档
 title: 将成员从电子表格导入项目
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >将日期导入日期字段时，请使用以下格式：9/23/13（月／日/年）。
+   >将日期导入日期字段时，请使用以下格式：9/29/13（月／日/年）。
 
 ## 将CSV导入Market至{#import-your-csv-into-marketo}
 
@@ -65,9 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [管理和视图成员](manage-and-view-members.md)
-
->
-
-
-
+>[管理和视图成员](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
