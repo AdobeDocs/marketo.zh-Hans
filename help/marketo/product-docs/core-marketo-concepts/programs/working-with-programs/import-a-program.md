@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 导入项目- Marketo Docs —— 产品文档
 title: 导入项目
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,15 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. 单击**新建**下拉列表。 选择&#x200B;**导入项目**。
+1. 单击&#x200B;**新建**&#x200B;下拉列表。 选择&#x200B;**导入项目**。
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >项目导入仅对启用了“导入”项目权限的用户可用。 了解有关[管理用户角色和权限的更多信息](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
+   >项目导入仅对启用了“导入”项目权限的用户可用。 了解有关[管理用户角色和权限的更多信息](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
    >
-   >
-   >要将沙箱帐户连接到您的实时订阅，请与[Marketto Support](http://www.marketo.com/services/support/)联系。
+   >要将沙箱帐户连接到您的实时订阅，请与[Marketto Support](https://nation.marketo.com/t5/Support/ct-p/Support)联系。
 
 1. 选择一个Marketo **订阅**&#x200B;和要导入的项目。 单击&#x200B;**下一步**。
 
@@ -42,7 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >确保已选择** ****使用默认冲突**&#x200B;规则。 将项目导入具有相同名称资产的实例时，需要冲突规则。
+   >确保选中了&#x200B;**使用默认冲突**&#x200B;规则。 将项目导入具有相同名称资产的实例时，需要冲突规则。
 
 1. 预览详细信息和&#x200B;**导入**&#x200B;项目。
 
@@ -77,7 +76,7 @@ Marketo项目库包含预建的、经过测试的项目，您可以将这些订�
 1. **将新人同步到CRM。** 将新人同步到CRM系统的活动。它会分配人员状态，以便被识别为不适合销售。
 1. **带事件适配器的网络研讨会。** 一整套电子邮件（如邀请和提醒），还有带有表单的登陆页和活动，可让用户在项目中移动。此项目获取有关注册、出席等的更新。 来自在线事件提供商，如WebEx。
 1. **无事件适配器的网络研讨会。** 与上面一样，但是使用手动过程进行记录注册、出席等。
-1. **天狼星决策评分项目**。该项目旨在支持标准的Sirius决策评分模型，包括内隐和显式评分规则和矩阵人赋值。 视图[此PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)以获取详细信息。
+1. **天狼星决策评分项目**。该项目旨在支持标准的Sirius决策评分模型，包括内隐和显式评分规则和矩阵人赋值。
 
 >[!CAUTION]
 >
@@ -87,24 +86,20 @@ Marketo项目库包含预建的、经过测试的项目，您可以将这些订�
 
 项目使用外部资产，如电子邮件模板、登陆页模板、图像、表单、令牌和项目标记。 您可以配置处理登陆页模板和项目标记的方式，Market可以自动管理其余内容。
 
-**电子邮件模板：**电子邮件模板将自动导入和创建，除非存在同名模板。
+**电子邮件模** 板：除非存在同名的电子邮件模板，否则将自动导入和创建这些模板。
 
-**登陆页模板：**登陆页模板导入到design studio中。 当存在同名模板时，可以使用冲突规则配置行为。 使用默认规则，如果存在同名的登陆页模板，则会向该模板附加一个数字。 例如，如果存在一个名为“标准模板”的登陆页模板，则将创建一个名为“标准模板1”的模板。
+**登陆页模板：** 登陆页模板导入到设计工作室。当存在同名模板时，可以使用冲突规则配置行为。 使用默认规则，如果存在同名的登陆页模板，则会向该模板附加一个数字。 例如，如果存在一个名为“标准模板”的登陆页模板，则将创建一个名为“标准模板1”的模板。
 
-**图像：**登陆页使用的图像将导入到Design Studio中，除非存在同名图像。
+**图像：** 登陆页使用的图像会导入到设计工作室，除非存在同名的图像。
 
-**令牌：**在导入过程中，位于项目外的令牌将转换为本地令牌。
-
->[!CAUTION]
->
->项目导入不支持图像类型我的令牌。 如果导入了具有图像类型的项目，则**不会导入**令牌。
-
-**项目标记：**您可以使用冲突规则来控制如何处理目标帐户中不存在的项目标记。 使用默认规则将创建项目标记，您也可以选择忽略这些标记。  **Forms:**外部表单将自动导入设计工作室，除非存在同名表单。
+**令牌：** 在导入过程中，位于项目之外的令牌将转换为本地令牌。
 
 >[!CAUTION]
 >
->导入项目时，将跳过包含[动态内容](http://docs.marketo.com/x/yRAt)的登陆页/电子邮件。
+>项目导入不支持图像类型我的令牌。 如果导入的图像类型为“我的令牌”的项目,**不会**&#x200B;令牌将通过。
 
-## 观看视频{#watch-a-video}
+**项目标** 记：您可以使用冲突规则控制如何处理目标帐户中不存在的项目标记。使用默认规则将创建项目标记，您也可以选择忽略这些标记。 **Forms:** 外部表单将自动导入设计工作室，除非存在同名表单。
 
-`<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>[!CAUTION]
+>
+>导入项目时，将跳过包含[动态内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)的登陆页/电子邮件。
