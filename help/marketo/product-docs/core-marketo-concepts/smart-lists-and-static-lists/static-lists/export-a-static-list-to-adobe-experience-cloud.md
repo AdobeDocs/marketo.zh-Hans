@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: 将静态列表导出到Adobe Experience Cloud- Marketo Docs —— 产品文档
 title: 将静态列表导出到Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[设置Adobe Experience Cloud受众共享](http://docs.marketo.com/x/D4GMAg)
+>[设置Adobe Experience Cloud受众共享](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## 支持的目标应用程序{#supported-destination-applications}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **共享到Adobe Analytics**
 
-对于同时拥有Adobe Audience Manager和Adobe Analytics的客户，此集成将允许受众从Market共享到您的Adobe Analytics报告套件，但是，在Adobe Audience Manager还需要执行一些其他配置步骤来实现这一点。 请查阅Adobe Audience Manager的文档，了解有关如何设置此设置的更多信息：[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html)。
+对于同时拥有Adobe Audience Manager和Adobe Analytics的客户，此集成将允许受众从Market共享到您的Adobe Analytics报告套件，但是，在Adobe Audience Manager还需要执行一些其他配置步骤来实现这一点。 请查阅Adobe Audience Manager的文档，了解有关如何设置此设置的更多信息：[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html)。
 
 **Adobe Audience Manager客户的特征使用**
 
@@ -80,4 +80,4 @@ ht-degree: 0%
 
 当您的Marketo订阅启用Cookie同步时，Marketo的munchkin.js将尝试为您在集成设置过程中指定的AdobeIMS组织捕获和存储AdobeECID，并将这些ECID与相应的Marketo Cookie标识符匹配。 这使得Marketo的匿名用户用户档案能够丰富AdobeECID。
 
-还需要进一步步骤来将匿名用户用户档案关联到潜在客户用户档案，潜在客户使用纯文本电子邮件进行标识。 具体如下所述：[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People)。
+还需要进一步步骤来将匿名用户用户档案关联到潜在客户用户档案，潜在客户使用纯文本电子邮件进行标识。 具体如下所述：[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People)。
