@@ -3,7 +3,7 @@ unique-page-id: 1146897
 description: 删除智能列表或列表中的人员- Marketo Docs —— 产品文档
 title: 在智能列表或列表中删除人员
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/ma-1.png)
 
@@ -35,19 +31,19 @@ ht-degree: 0%
    >
    >删除人员时，您不仅会从列表中删除他们，还会从数据库中完全删除他们。
 
-1. 单击&#x200B;**选择** **全部**。 您还可以使用Ctrl/Cmd并单击手动选取一些记录。
+1. 单击&#x200B;**全选**。 您还可以使用Ctrl/Cmd并单击手动选取一些记录。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >如果结果跨多个页面，则单击&#x200B;**选择** **全部**&#x200B;将选择所有页面中的所有人员。
+   >如果结果跨多个页面，则单击&#x200B;**全选**&#x200B;将选择所有页面中的所有人。
 
-1. 要从Marketo中完全删除人员，请单击&#x200B;**删除** **人员**。
+1. 要从Marketo中完全删除人员，请单击&#x200B;**删除人员**。
 
    ![](assets/four-1.png)
 
-1. 如果还要从CRM中删除记录，请将&#x200B;**从** **CRM**&#x200B;删除&#x200B;****&#x200B;设置为&#x200B;**true**。
+1. 如果还要从CRM中删除记录，请将&#x200B;**从CRM**&#x200B;删除设置为&#x200B;**true**。
 
    ![](assets/five.png)
 
@@ -59,7 +55,7 @@ ht-degree: 0%
    >
    >如果您的Marketo未绑定到您的CRM，则选项将像屏幕截图中一样灰显。
 
-1. 单击&#x200B;**运行** **Now**。
+1. 单击&#x200B;**立即运行**。
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
@@ -72,4 +68,3 @@ ht-degree: 0%
    >要视图质量删除结果，请在屏幕右上角的“单流动操作”弹出框中单击“视图结果”****。 删除时间可能会有很大不同，具体取决于多个因素。
 
    这是一个很好的功能，使用时要小心！
-
