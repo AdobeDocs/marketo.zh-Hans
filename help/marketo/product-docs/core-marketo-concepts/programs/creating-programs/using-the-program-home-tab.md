@@ -3,9 +3,9 @@ unique-page-id: 1147126
 description: 使用项目主页选项卡- Marketo Docs —— 产品文档
 title: 使用项目主页选项卡
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ ht-degree: 0%
    >
    >这是您的默认视图。 它提供有关设置、计划、结果和成员项目状态的信息。
 
-   单击带下划线的元素以进行更改或视图更多信息。
+1. 单击带下划线的元素以进行更改或视图更多信息。
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-   单击“摘要”底部的“导出”以下载报告。
+1. 单击“摘要”底部的&#x200B;**“导出**”以下载报告。
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -69,12 +69,6 @@ ht-degree: 0%
    >
    >**Historical** 表示曾经访问过项目的任何人，而 **** Currentonly只包括当前在项目中的人。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [了解项目会员资格](understanding-program-membership.md)
-
-
+   >[了解项目会员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
