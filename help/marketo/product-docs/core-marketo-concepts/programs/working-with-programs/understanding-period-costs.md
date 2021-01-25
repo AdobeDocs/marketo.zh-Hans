@@ -3,9 +3,9 @@ unique-page-id: 7504676
 description: 了解期间成本- Marketo Docs —— 产品文档
 title: 了解期间成本
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
+>[了解项目](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[了解项目](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[了解项目会员资格](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[了解项目会员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 如何计算期间成本{#how-period-costs-are-calculated}
 
@@ -63,18 +61,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >总而言之，没有定义期间成本的月份将“倒滚”到定义的最后一个月份。 如果没有前期费用，则月份将“转至”已定义的下一个月份。 如果尚未为&#x200B;*任何*&#x200B;月定义期间成本，则RCE中的报告将不可用于项目。
+   >总而言之，没有定义期间成本的月份将“倒滚”到定义的最后一个月份。 如果没有前期费用，则月份将“转至”已定义的下一个月份。 如果尚未为&#x200B;_任何_&#x200B;月定义期间成本，则RCE中的报告将不可用于项目。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [在项目中使用期间成本](using-period-costs-in-a-program.md)
-   >    * [按期间成本筛选项目报表](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+   >* [在项目中使用期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [按期间成本筛选项目报表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
