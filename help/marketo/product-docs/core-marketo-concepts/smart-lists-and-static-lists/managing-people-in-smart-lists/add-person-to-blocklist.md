@@ -3,7 +3,7 @@ unique-page-id: 9438139
 description: 将人添加阻止列表到- Marketo Docs —— 产品文档
 title: 将人添加到阻止列表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 >
 >Marketo正在更改黑名单和白名单等术语，以在我们的产阻止列表品中进允许列表行和。 在此更新过程中，您可能会在我们的UI和文档屏幕截图中看到旧条款，在我们的文档文本中看到新条款。 我们为任何混淆表示歉意。
 
-1. [新建一个默认程](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) 序并将其命 **名为“添阻止列表加”**。
+1. [新建一个默认程](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) 序并将其命 **名为“添阻止列表加”**。
+
 1. 单击&#x200B;**新建**，然后选择&#x200B;**新建本地资产**。
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -72,5 +73,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >使用&#x200B;**更改数据值**&#x200B;创建[触发智能活动](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，其中&#x200B;**列出的块为true**，以便将来具有可属性的所阻止列表有人。
-
+   >使用&#x200B;**更改数据值**&#x200B;创建[触发智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，其中&#x200B;**列出的块为true**，以便将来具有可属性的所阻止列表有人。
