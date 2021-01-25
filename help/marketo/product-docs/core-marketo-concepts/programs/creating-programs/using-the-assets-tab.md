@@ -3,9 +3,9 @@ unique-page-id: 1147124
 description: 使用“资产”选项卡- Marketo Docs —— 产品文档
 title: 使用“资产”选项卡
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 0%
 >
 >拖放以重新排列资产列。
 
-非项目本地的资产将如下所示： ![](assets/image2014-9-18-16-3a30-3a33.png)
+非项目本地的资产将如下所示：
+
+![](assets/image2014-9-18-16-3a30-3a33.png)
 
 “资源”选项卡是项目中所有内容和引用的一个极好的小仪表板。
