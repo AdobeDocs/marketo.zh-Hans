@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: 克隆项目- Marketo Docs —— 产品文档
 title: 克隆项目
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -23,22 +23,20 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >项目可以克隆到[活动](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)[文件夹](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)或[工作区](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)中。 确保共享所有基础相关资产(电子邮件、片段、登陆页模板等) 在克隆之前与目标工作区一起使用。
+   >项目可以克隆到[活动](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)[文件夹](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)或[工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)中。 确保共享所有基础相关资产(电子邮件、片段、登陆页模板等) 在克隆之前与目标工作区一起使用。
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >**说明**
-   >
-   >
    >请参阅上面的屏幕截图中的注释？ 这意味着，如果您在一个项目中克隆了包含1000人或更多人的列表，则列表本身将被克隆，但它将为空。 如果克隆的项目包含999人或以下的列表，则该列表及其所有成员将显示在克隆的项目中。
 
-   输入名称。
+1. 输入名称。
 
    ![](assets/cloneprogramname.png)
 
-   选择要克隆项目的文件夹。
+1. 选择要克隆项目的文件夹。
+
    ![](assets/choosefolderclone.png)
 
 1. 添加可选描述，然后单击&#x200B;**创建**。 了解创建新项目的速度有多快，其所有资源都准备就绪！
@@ -47,9 +45,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >将此技术与[令牌](http://docs.marketo.com/display/docs/using+tokens)结合使用，使新项目创建快速启动。
+   >将此技术与令牌结合使用，让新项目创建变得轻而易举。
 
    >[!CAUTION]
    >
    >期间成本不会转移，因此，如果在原始项目中设置了期间成本，请务必将其添加到克隆的数据中。
-
