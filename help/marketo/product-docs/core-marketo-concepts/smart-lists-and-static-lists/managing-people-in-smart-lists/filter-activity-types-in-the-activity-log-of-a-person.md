@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: 在人员的活动日志中筛选活动类型- Marketo Docs —— 产品文档
 title: 在人员的活动日志中筛选活动类型
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
->进一步了解[活动日志](locate-the-activity-log-for-a-person.md)。
+>进一步了解[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)。
 
 1. 转至&#x200B;**人员详细信息**&#x200B;页面。 单击&#x200B;**活动日志**&#x200B;选项卡。
 
@@ -58,4 +56,3 @@ ht-degree: 0%
 1. 单击&#x200B;**已保存的过滤器**。 保存的过滤器列在下面。
 
    ![](assets/eight.png)
-
