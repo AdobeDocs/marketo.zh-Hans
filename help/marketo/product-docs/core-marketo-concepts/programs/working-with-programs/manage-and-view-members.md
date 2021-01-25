@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: 管理和视图成员- Marketo Docs —— 产品文档
 title: 管理和视图成员
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
-> 深入了解[项目成员资格](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
+>深入了解[项目成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
 
 ## 搜索成员{#search-for-a-member}
 
@@ -41,21 +39,21 @@ ht-degree: 0%
 
 ## 管理成员网格{#manage-columns-in-the-members-grid}中的列
 
-* 拖放列以更改其顺序。 蓝色箭头对指示列将转到的位置。
+拖放列以更改其顺序。 蓝色箭头对指示列将转到的位置。
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* 右键单击列标题以按字母顺序排序，可以按升序或降序排序。
+右键单击列标题以按字母顺序排序，可以按升序或降序排序。
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## 选择网格{#choose-which-columns-are-visible-in-the-grid}中可见的列
 
-1. 单击**视图**下拉框并选择&#x200B;**创建视图**。
+1. 单击&#x200B;**视图**&#x200B;下拉框并选择&#x200B;**创建视图**。
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 命名自定义视图。 选择列标题。 单击**添加&#x200B;**和**&#x200B;删除**以移动列并创建视图。
+1. 命名自定义视图。 选择列标题。 单击&#x200B;**添加**&#x200B;和&#x200B;**删除**&#x200B;以移动列并创建视图。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [创建项目性能报告](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[创建项目性能报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
