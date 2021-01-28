@@ -3,7 +3,7 @@ unique-page-id: 7504437
 description: 向演示文稿添加背景图像- Marketo Docs —— 产品文档
 title: 向演示文稿添加背景图像
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建演示文稿](create-a-presentation.md)
-
->
-
-
+>[创建演示文稿](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 1. 右键单击演示文稿，然后选择&#x200B;**视图设置**。
 
@@ -31,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. 将**背景图像**从右树拖放到画布中。
+1. 将&#x200B;**背景图像**&#x200B;从右树拖放到画布中。
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -48,4 +44,3 @@ ht-degree: 0%
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
    就这样！
-
