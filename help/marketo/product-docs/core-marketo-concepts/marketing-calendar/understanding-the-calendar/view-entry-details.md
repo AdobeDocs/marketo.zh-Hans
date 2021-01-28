@@ -3,7 +3,7 @@ unique-page-id: 2953325
 description: 视图条目详细信息- Marketo Docs —— 产品文档
 title: 视图条目详细信息
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -23,10 +23,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
-   `  
-`
-
 >[!TIP]
 >
 >尝试右击右侧的详细信息。 您可以看到用于导航或弹出编辑器的菜单。 不错吧？
-
