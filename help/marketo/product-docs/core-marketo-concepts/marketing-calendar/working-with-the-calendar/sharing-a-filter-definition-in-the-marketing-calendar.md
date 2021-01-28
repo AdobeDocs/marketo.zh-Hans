@@ -3,7 +3,7 @@ unique-page-id: 1147304
 description: 在营销日历——营销文档——产品文档中共享筛选器定义
 title: 在营销日历中共享筛选器定义
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在营销日历中创建筛选器](filtering-the-marketing-calendar.md)
->* [在营销日历中保存筛选器定义](saving-a-filter-definition-in-the-marketing-calendar.md)
-
->
-
+>* [在营销日历中创建筛选器](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>* [在营销日历中保存筛选器定义](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 
 >[!NOTE]
@@ -43,4 +40,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >用户权限将影响可见性。
-
