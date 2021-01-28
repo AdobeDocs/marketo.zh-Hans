@@ -3,7 +3,7 @@ unique-page-id: 2953331
 description: 在项目计划视图- Marketo Docs —— 产品文档中重新运行智能活动
 title: 在活动视图中重新运行智能项目计划
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以从[项目焦点](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)执行此操作。
+   >您也可以从[项目焦点](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)执行此操作。
 
 砰！ 就这样，你又安排了一次运行，去那个智能活动。 如果该智能活动包含发送电子邮件的步骤，您也会看到这些步骤！
