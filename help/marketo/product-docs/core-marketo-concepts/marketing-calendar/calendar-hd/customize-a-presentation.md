@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: 自定义演示文稿- Marketo Docs —— 产品文档
 title: 自定义演示文稿
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,18 +23,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建自定](create-a-custom-goal.md) 义目标 [或智能列表目标](create-a-smart-list-goal.md)
+>* [创建自定](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) 义目标 [或智能列表目标](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
    >
    >
-* [创建演示文稿](create-a-presentation.md)
-
->
-
+* [创建演示文稿](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## 选择视图{#choosing-the-views}
 
-Presentations循环查看您选择的不同[过滤器定义](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)。 拉入任意数量的视图并自定义频率。
+Presentations循环查看您选择的不同[过滤器定义](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)。 拉入任意数量的视图并自定义频率。
 
 1. 从右侧的树中，在演示文稿中要旋转的不同视图中拖动。
 
@@ -42,7 +39,7 @@ Presentations循环查看您选择的不同[过滤器定义](../../../../product
 
 ## 添加目标{#add-a-goal}
 
-Presentations在展示你的团队目标时表现得最棒。 只需拖动不同的[自定义目标](create-a-custom-goal.md)或[智能列表目标](create-a-smart-list-goal.md)。 最多可以使用10个。
+Presentations在展示你的团队目标时表现得最棒。 只需拖动不同的[自定义目标](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md)或[智能列表目标](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)。 最多可以使用10个。
 
 1. 从右侧树中，拖入您希望在演示文稿中显示的不同目标。
 
@@ -52,7 +49,7 @@ Presentations在展示你的团队目标时表现得最棒。 只需拖动不同
 
 在演示文稿中拉入所需视图后，设置它在不同视图之间旋转的频率。
 
-1. 单击** 5分钟**（这是默认节奏）。
+1. 单击&#x200B;**5分钟**（这是默认节奏）。
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -76,7 +73,7 @@ Presentations在展示你的团队目标时表现得最棒。 只需拖动不同
 
 >[!TIP]
 >
->设置演示文稿的[背景图像](add-a-background-image-to-a-presentation.md)。 我们建议小猫咪或彩虹。
+>设置演示文稿的[背景图像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)。 我们建议小猫咪或彩虹。
 
 ## 预览演示文稿{#preview-a-presentation}
 
@@ -92,14 +89,8 @@ Presentations在展示你的团队目标时表现得最棒。 只需拖动不同
 
    不喜欢你看到的吗？ 返回并使用不同的筛选器定义创建您喜欢的视图。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [向演示文稿添加背景图像](add-a-background-image-to-a-presentation.md)
->* [启动演示文稿](launch-a-presentation.md)
-
->
-
-
+>* [向演示文稿添加背景图像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
+>* [启动演示文稿](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
 
