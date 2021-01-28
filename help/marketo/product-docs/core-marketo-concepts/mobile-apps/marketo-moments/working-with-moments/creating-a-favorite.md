@@ -3,7 +3,7 @@ unique-page-id: 8783555
 description: 创建收藏夹——营销文档——产品文档
 title: 创建收藏夹
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
@@ -19,9 +19,8 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a28-3a54.png)
 
-1. 点按收藏夹。
+1. 点按&#x200B;**收藏夹**。
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
 
    这就是一切！
-
