@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: 通知类型- Marketo Docs —— 产品文档
 title: 通知类型
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Facebook
 
 空闲触发器活动清除
 
-取消激活已触发的智能活动，不再获得任何活动。 了解有关[自动触发活动清除的更多信息](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
+取消激活已触发的智能活动，不再获得任何活动。 了解有关[自动触发活动清除的更多信息](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 
 LinkedIn
 
@@ -61,5 +61,4 @@ Web服务
 
 >[!NOTE]
 >
->我们的[开发人员文档](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)中概述了您可能收到的一些错误代码。
-
+>我们的[开发人员文档](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)中概述了您可能收到的一些错误代码。
