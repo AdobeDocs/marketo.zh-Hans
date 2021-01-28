@@ -3,7 +3,7 @@ unique-page-id: 1147318
 description: 键盘快捷键词汇表- Marketo Docs —— 产品文档
 title: 键盘快捷键词汇表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
 | ESC | 特写弹出窗口 |
 | 返回／输入 | 提交弹出窗口 |
 | Ctrl + Alt/Opt + H | 在表单编辑器中隐藏／取消隐藏字段 |
-
