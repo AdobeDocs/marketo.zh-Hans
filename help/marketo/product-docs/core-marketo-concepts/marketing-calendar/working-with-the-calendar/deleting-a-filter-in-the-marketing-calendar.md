@@ -3,9 +3,9 @@ unique-page-id: 1147302
 description: 在营销日历——营销文档——产品文档中删除筛选器
 title: 在营销日历中删除筛选器
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,3 @@ ht-degree: 0%
 1. 单击&#x200B;**删除**&#x200B;进行确认。
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)
-
-   再见。
-
