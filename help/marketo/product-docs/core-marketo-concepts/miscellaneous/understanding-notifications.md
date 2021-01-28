@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: 了解通知——营销文档——产品文档
 title: 了解通知
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 1. 选择通知类型，然后输入要发送通知的电子邮件地址。
 
-![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
@@ -44,4 +44,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >要取消订阅通知电子邮件？ 没问题。 只需单击电子邮件底部的&#x200B;**取消订阅通知**&#x200B;链接。
-
