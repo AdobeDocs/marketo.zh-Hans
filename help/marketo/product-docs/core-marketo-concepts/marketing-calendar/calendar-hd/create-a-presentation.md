@@ -3,7 +3,7 @@ unique-page-id: 7503971
 description: 创建演示文稿- Marketo Docs —— 产品文档
 title: 创建演示文稿
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
-1. 转到**日历**。
+1. 转到&#x200B;**日历**。
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [自定义演示文稿](customize-a-presentation.md)
-
->
-
-
-
+>[自定义演示文稿](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
