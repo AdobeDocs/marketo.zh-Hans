@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: 使用Adobe Experience Manager导入资产- Marketo Docs —— 产品文档
 title: 使用Adobe Experience Manager导入资源
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->确保已执行[AEM配置](https://docs.marketo.com/x/FwPLAQ)。
+>确保已执行[AEM配置](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)。
 
 >[!CAUTION]
 >
