@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: 发出／撤销营销日历许可证——营销文档——产品文档
 title: 发出／撤销营销日历许可证
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-要利用您的[营销日历](http://docs.marketo.com/display/docs/marketing+calendar)席位，您需要向需要访问的用户颁发许可证。 这是方法。
+要利用您的[营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)席位，您需要向需要访问的用户颁发许可证。 这是方法。
 
 1. 转至&#x200B;**Admin**&#x200B;部分。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-   干得好！ 请参见&#x200B;**日历**&#x200B;下的绿色复选标记？
+   干得好！ 查看“日历？”下的绿色复选标记
 
    ![](assets/5.png)
 
