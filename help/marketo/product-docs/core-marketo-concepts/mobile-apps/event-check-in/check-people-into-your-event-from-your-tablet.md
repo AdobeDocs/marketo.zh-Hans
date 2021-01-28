@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: 从平板电脑- Marketo Docs —— 产品文档将人物检入事件
 title: 在平板电脑上将人物检入事件
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ ht-degree: 0%
 >* 在Marketo中创建事件，并用“已邀请”和“已注册”人员填充它。
 >* 下载用于[Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)或[iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)的平板电脑应用程序
 
->
-
-
 
 ## 登记注册客人{#check-in-registered-guests}
 
 1. 点击iPad或Android平板电脑上的应用程序图标。
+
 1. 点按&#x200B;**登录**&#x200B;以启动Marketo事件应用程序。
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ ht-degree: 0%
    >
    >在iPad和Android上，过程相同，但屏幕不同，项目可能位于不同的位置。 本文提供iPad界面。 比较本节中的Android屏幕以供参考。
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 ## 反转签入{#reverse-a-check-in}
 
-如果您在与Marketo *同步之前误登记了某人，则可以颠倒“已出席”状态。*
+如果您在与Marketo _同步之前误登记了某人，则可以颠倒“已出席”状态。_
 
 1. 点按列表中的名称，然后点按人员记录中的&#x200B;**撤消**。
 
@@ -146,6 +146,7 @@ Marketo事件应用程序独立工作，直到您将活动同步回Marketo数据
 >同步后，无法从应用程序撤消登记。
 
 1. 在平板电脑上，打开应用程序并导航到事件。
+
 1. 点按&#x200B;**同步**。
 
    您的事件将使用Marketo数据库中的新签入进行更新。 “同步”按钮上的红色计数器将清除，直到您签入其他人。
@@ -170,4 +171,3 @@ Marketo事件应用程序独立工作，直到您将活动同步回Marketo数据
 >[!NOTE]
 >
 >应用程序在8小时不活动后自动将您注销。
-
