@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: 启动演示文稿- Marketo Docs —— 产品文档
 title: 启动演示文稿
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建演示文稿](create-a-presentation.md)
->* [自定义演示文稿](customize-a-presentation.md)
-
->
-
+>* [创建演示文稿](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [自定义演示文稿](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您的演示文稿将在新选项卡中启动。 如果需要，将选项卡移至外部显示器或电视进行显示，然后单击&#x200B;**全屏**（如果使用的是Internet Explorer，则按键盘上的**F11 **）。
-
+   >您的演示文稿将在新选项卡中启动。 如果需要，将选项卡移至外部显示器或电视进行显示，然后单击&#x200B;**全屏**（如果使用Internet Explorer，则按键盘上的&#x200B;**F11**）。
