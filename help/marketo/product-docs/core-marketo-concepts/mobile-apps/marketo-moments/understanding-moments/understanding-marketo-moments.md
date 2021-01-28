@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: 了解Marketo Moments - Marketo Docs —— 产品文档
 title: 理解营销时刻
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 >
 >**可用性**
 >
->需要“访问移动应用程序”权限。 联系您的营销人员管理员以[更新您的角色](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
-
-## 介绍矩{#introducing-moments}
-
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
+>需要“访问移动应用程序”权限。 联系您的营销人员管理员以[更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
 
 ## 流{#streams}
 
@@ -35,13 +31,11 @@ ht-degree: 0%
 >
 >**定义**
 >
->瞬间——任何刚刚运行或即将运行的东西都会在此处。
->
->收藏夹——您最喜爱的任何内容均包含在此处。
->
->稍后——此处会出现任何比此时刻晚的事。
->
->完成——此处是已完成运行或标记为完成的任何内容。
+>* 瞬间：任何刚刚跑过或即将跑过的东西都在这里。
+>* 收藏夹：你最喜欢的东西都放在这里。
+>* 稍后：比这一刻更晚发生的一切都会在这里发生。
+>* 完成：完成运行或标记为“完成”的任何内容都将在此处处理。
+
 
 好，既然我们已经解决了这个问题，让我们在手机上看一下Marketo Moments!
 
@@ -93,19 +87,12 @@ Marketo Moments为您提供了三张不同的卡片，用于跟踪电子邮件�
 >* 发送示例（仅限电子邮件）:在您发送电子邮件之前，使用此组件让其他人查看电子邮件的外观。
 >* 预览电子邮件（仅限电子邮件）:提前查看电子邮件总是个好主意。
 
->
-
-
 
 ## 后期时刻{#later-moments}
 
 “稍后”部分显示即将到来的活动。
 
 1. 开始。
-
-   >[!NOTE]
-   >
-   >根据《吉尼斯世界纪录》[，世界上最大的汉堡包重2014磅。](http://www.guinnessworldrecords.com/world-records/largest-hamburger)
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -151,23 +138,19 @@ Marketo Moments为您提供了三张不同的卡片，用于跟踪电子邮件�
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-准备好了解更多信息？
-
->[!MORELIKETHIS]
->
->* [了解电子邮件项目卡](understanding-email-program-cards.md)
->* [了解事件卡](understanding-event-cards.md)
->* [了解分析卡](understanding-analytics-cards.md)
->* [了解智能活动卡](understanding-smart-campaign-cards.md)
-
->
-
-
-
 ## 支持的版本{#supported-versions}
 
 Marketo Moments支持以下操作系统版本：
 
 * Apple iOS 8.0及更高版本。
 * Android版本4.1及更高版本（基本上是Jellybean和更高版本）。
+
+准备好了解更多信息？
+
+>[!MORELIKETHIS]
+>
+>* [了解电子邮件项目卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [了解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [了解分析卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [了解智能活动卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
