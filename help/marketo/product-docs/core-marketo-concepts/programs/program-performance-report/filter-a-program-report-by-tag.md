@@ -3,9 +3,9 @@ unique-page-id: 1147235
 description: 按标记筛选项目报告- Marketo Docs —— 产品文档
 title: 按标记筛选项目报告
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 按标记{#filter-a-program-report-by-tag}过滤项目报告
 
-将[项目性能报告](create-a-program-performance-report.md)重点放在特定[标签](http://docs.marketo.com/display/docs/tags)上。
+将[项目性能报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)重点放在特定[标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)上。
 
 1. 转至&#x200B;**Marketing** **活动**（或&#x200B;**Analytics**）。
 
@@ -35,23 +35,10 @@ ht-degree: 0%
 
    ![](assets/prospect2.jpg)
 
-1. 完成！ 单击&#x200B;**报告**&#x200B;选项卡可查看&#x200B;*仅*&#x200B;与报告中所选标记匹配的项目。
+1. 完成！ 单击&#x200B;**报告**&#x200B;选项卡可查看&#x200B;_仅_&#x200B;与报告中所选标记匹配的项目。
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
    >[!NOTE]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [按期间成本筛选项目报表](filter-a-program-report-by-period-cost.md)
-
-
-   >[!NOTE]
-   >
-   >**深潜**
-   >
-   >
-   >了解[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中的所有报告。
-
+   >[按期间成本筛选项目报表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
