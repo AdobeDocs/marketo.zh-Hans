@@ -3,9 +3,9 @@ unique-page-id: 1147306
 description: 按工作区筛选营销日历——营销文档——产品文档
 title: 按工作区筛选营销日历
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [在营销日历中保存筛选器定义](saving-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[在营销日历中保存筛选器定义](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
