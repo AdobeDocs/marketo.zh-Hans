@@ -3,7 +3,7 @@ unique-page-id: 1147102
 description: 在项目计划视图- Marketo Docs —— 产品文档中创建条目
 title: 在项目计划视图中创建条目
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. 命名条目。 按**输入**以确认姓名。
+1. 命名条目。 按&#x200B;**输入**&#x200B;以确认名称。
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >待办事项是[自定义条目](create-custom-entry-types.md)。 您可以创建待办事项和其他自定义条目，以帮助跟踪非营销人员的议程项目。
+   >待办事项是[自定义条目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)。 您可以创建待办事项和其他自定义条目，以帮助跟踪非营销人员的议程项目。
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 您还可以从活动视图创建[智能项目](creating-a-batch-smart-campaign-in-the-program-schedule-view.md)或[电子邮件计划](creating-a-new-email-program-in-the-schedule-view.md)。
-
+> 您还可以从活动视图创建[智能项目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md)或[电子邮件计划](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md)。
