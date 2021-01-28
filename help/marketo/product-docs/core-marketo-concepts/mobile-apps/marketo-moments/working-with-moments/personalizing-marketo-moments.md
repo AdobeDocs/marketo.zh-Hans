@@ -3,7 +3,7 @@ unique-page-id: 8782021
 description: 个性化营销时刻——营销文档——产品文档
 title: 个性化营销时刻
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -22,4 +22,3 @@ ht-degree: 0%
 或者，禁用&#x200B;**仅显示我的瞬间**&#x200B;以视图您有权访问的所有智能活动和电子邮件项目。
 
 ![](assets/image2015-7-16-15-3a55-3a29.png)
-
