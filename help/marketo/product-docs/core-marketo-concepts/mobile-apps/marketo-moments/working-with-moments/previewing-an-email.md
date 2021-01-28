@@ -3,9 +3,9 @@ unique-page-id: 8783563
 description: 预览电子邮件——营销文档——产品文档
 title: 预览电子邮件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,8 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-1. 您可以在设备上视图电子邮件。\
+1. 您可以在设备上视图电子邮件。
+
    ![](assets/image2015-9-25-11-3a23-3a42.png)
 
    >[!NOTE]
@@ -31,4 +32,3 @@ ht-degree: 0%
    >要直接从“电子邮件预览”页面发送示例，请点按右上角的纸质飞机图标。
 
    太棒了！
-
