@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: 项目计划视图条目类型- Marketo Docs —— 产品文档
 title: 项目计划视图条目类型
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 项目计划视图条目类型{#program-schedule-view-entry-types}
 
-有八种不同的内置输入类型可见并可用于您的项目计划视图。 您还可以在“管理员”部分[创建自定义条目类型](create-custom-entry-types.md)。
+有八种不同的内置输入类型可见并可用于您的项目计划视图。 您还可以在“管理员”部分[创建自定义条目类型](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)。
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [创建自定义条目类型](create-custom-entry-types.md)
-
->
-
-
-
