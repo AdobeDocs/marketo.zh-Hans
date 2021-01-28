@@ -3,7 +3,7 @@ unique-page-id: 10099363
 description: 设置iPad或Android平板电脑- Marketo Docs —— 产品文档
 title: 设置iPad或Android平板电脑
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 如果您的Android平板电脑尚未安装Marketo事件应用程序，下面将介绍如何获取它。
 
-1. 打开平板电脑，点击** Google Play Store**应用程序。
+1. 打开平板电脑并点按&#x200B;**Google Play Store**&#x200B;应用程序。
 1. 在“搜索”框中，输入&#x200B;**Marketo**&#x200B;并点按&#x200B;**Return**。
 1. 在搜索结果中，点按&#x200B;**营销事件**&#x200B;应用程序。
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 同步以确保已添加的人员在此。
 
 1. 在iPad或Android应用程序中打开事件。
-1. 找人。 如果看不到，请点按**同步**以同步应用程序并重新加载事件人列表。
+1. 找人。 如果看不到，请点按&#x200B;**Sync**&#x200B;以同步应用程序并重新加载事件人列表。
 
    **iPad**
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 确保在事件之前，在iPad或平板电脑上确认登记工作正常。
 
-1. 在应用程序中，[检查](check-people-into-your-event-from-your-tablet.md)中的测试潜在客户。
+1. 在应用程序中，[检查](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)中的测试潜在客户。
 1. 点按&#x200B;**同步**&#x200B;图标以同步应用程序。
 1. 在Marketo中，打开事件并单击&#x200B;**成员**。
 
@@ -96,4 +96,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >用自己做测试人。
-
