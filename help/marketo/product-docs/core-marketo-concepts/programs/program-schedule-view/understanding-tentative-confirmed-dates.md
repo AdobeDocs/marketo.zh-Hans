@@ -3,9 +3,9 @@ unique-page-id: 1147140
 description: 了解暂定／已确认日期- Marketo Docs —— 产品文档
 title: 了解暂定／确认日期
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 暂定{#tentative}
 
-初步的日期传达了意图。 把这想成是日历上的事。 试探性条目不会运行——它们只是占位符。
+初步的日期传达了意图。 将其视为日历中的&#x200B;_penciling_&#x200B;内容。 试探性条目不会运行——它们只是占位符。
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -29,11 +29,15 @@ ht-degree: 0%
 
 这就像批准资产一样，因此，在您确认资产前，需要完全设置条目。 所有鸭子排成一行后，您可以通过向右滑动暂定选项卡来确认输入。
 
-![](assets/image2014-9-23-15-3a23-3a2.png)  ![](assets/image2014-9-23-15-3a23-3a8.png) ![](assets/image2014-9-23-15-3a23-3a12.png)
+![](assets/image2014-9-23-15-3a23-3a2.png)
+
+![](assets/image2014-9-23-15-3a23-3a8.png)
+
+![](assets/image2014-9-23-15-3a23-3a12.png)
 
 >[!NOTE]
 >
->为什么狗？ 他是金毛猎狗。 他在取你的数据。
+>为什么狗？ 他是猎狗。 他在取你的数据。
 
 ## 已确认{#confirmed}
 
