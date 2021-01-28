@@ -3,7 +3,7 @@ unique-page-id: 7504130
 description: 创建自定义目标- Marketo Docs —— 产品文档
 title: 创建自定义目标
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 目标是跟踪进度并激励团队的方式。 创建后，必须手动更新它们。
 
-与演示文稿一样，目标也[工作区](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定。
+与演示文稿一样，目标也[工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定。
 
 1. 转到&#x200B;**日历**。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. 选择**目标**选项卡。
+1. 选择&#x200B;**目标**&#x200B;选项卡。
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
@@ -48,4 +48,3 @@ ht-degree: 0%
    已创建自定义目标！
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)
-
