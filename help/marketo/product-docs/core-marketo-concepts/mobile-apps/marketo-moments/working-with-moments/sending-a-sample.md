@@ -3,7 +3,7 @@ unique-page-id: 8783561
 description: 发送示例- Marketo Docs —— 产品文档
 title: 发送示例
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -31,7 +31,8 @@ ht-degree: 0%
 
 ## 快速通道{#the-quick-way}
 
-1. 点击“电子邮件预览”屏幕上的纸质飞机图标，直接从预览发送样本。\
+1. 点击“电子邮件预览”屏幕上的纸质飞机图标，直接从预览发送样本。
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 任务完成！
