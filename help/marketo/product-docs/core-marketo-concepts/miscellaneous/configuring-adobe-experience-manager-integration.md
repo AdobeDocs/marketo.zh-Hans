@@ -3,9 +3,9 @@ unique-page-id: 30081815
 description: 配置Adobe Experience Manager集成- Marketo Docs —— 产品文档
 title: 配置Adobe Experience Manager集成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在&#x200B;**允许的来源(Regexp)**&#x200B;文本框中，键入“https://”。*\.marketo\.com&quot;（不带引号），然后单击&#x200B;**保存**。
+1. 在&#x200B;**允许的来源(Regexp)**&#x200B;文本框中，键入`https://.*\.marketo\.com`并单击&#x200B;**保存**。
 
    ![](assets/five-psd.png)
 
@@ -75,5 +75,4 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-   你们都准备好了！ 您现在可以[以Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993)的形式将AEM资源导入Design Studio。
-
+   你们都准备好了！ 您现在可以[以Marketo Sky](https://help.marketo.com/hc/en-us/articles/360036765993)的形式将AEM资源导入Design Studio。
