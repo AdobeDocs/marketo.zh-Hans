@@ -3,7 +3,7 @@ unique-page-id: 1147247
 description: 隐藏和取消隐藏自定义条目类型- Marketo Docs —— 产品文档
 title: 隐藏和取消隐藏自定义条目类型
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 隐藏自定义条目类型{#hide-a-custom-entry-type}
 
-1. 转至&#x200B;**Admin**&#x200B;部分，然后单击&#x200B;**Calendar** **Entry** **Types**。
+1. 转至&#x200B;**Admin**&#x200B;部分，然后单击&#x200B;**日历条目** **类型**。
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -38,4 +38,3 @@ ht-degree: 0%
    太！ 您的自定义条目类型现在已取消隐藏。
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
-
