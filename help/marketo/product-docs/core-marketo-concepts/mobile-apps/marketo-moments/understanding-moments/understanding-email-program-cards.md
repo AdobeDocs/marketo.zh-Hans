@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: 了解电子邮件项目卡——营销文档——产品文档
 title: 了解电子邮件项目卡
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 电子邮件项目卡{#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` 点按任何电子邮件项目卡时，您可以：
+点按任何电子邮件项目卡时，您可以：
 
-* [使电子邮件成为您最喜爱的](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [将电子邮件标记为完成](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [共享电子邮件时刻卡](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [使电子邮件成为您最喜爱的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [将电子邮件标记为完成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [共享电子邮件时刻卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 在尚未发送的电子邮件项目卡上，您将找到有关该电子邮件项目的状态和受众的信息。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. 点按**确认**以完成工作，如果您有其他想法，请点按&#x200B;**不要介意**。
+1. 点按&#x200B;**确认**&#x200B;以完成该工作，或者，如果您有其他想法，请点按&#x200B;**别介意**。
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   这样，在扣动扳机之前，您就知道您的电子邮件是完美的！\
+   这样，在扣动扳机之前，您就知道您的电子邮件是完美的！
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    太棒了！
@@ -114,12 +115,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [理解营销时刻](understanding-marketo-moments.md)
->* [了解事件卡](understanding-event-cards.md)
->* [了解分析卡](understanding-analytics-cards.md)
->* [电子邮件项目](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [理解营销时刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [了解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [了解分析卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
