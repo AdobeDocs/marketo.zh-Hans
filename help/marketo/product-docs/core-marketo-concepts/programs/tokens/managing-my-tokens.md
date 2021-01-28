@@ -3,9 +3,9 @@ unique-page-id: 1147116
 description: 管理我的令牌- Marketo文档——产品文档
 title: 管理我的令牌
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 管理我的令牌{#managing-my-tokens}
 
-使用令牌可以简化您在Marketo中的工作。 您可以在流步骤、网络挂接、电子邮件和登陆页中使用[我的令牌](understanding-my-tokens-in-a-program.md)（自定义令牌）。 下面介绍如何制作它们。
+使用令牌可以简化您在Marketo中的工作。 您可以在流步骤、网络挂接、电子邮件和登陆页中使用[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)（自定义令牌）。 下面介绍如何制作它们。
 
 >[!TIP]
 >
->进一步了解[令牌概述](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)中已提供哪些令牌。
+>进一步了解[令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)中已提供哪些令牌。
 
 ## 创建我的令牌{#create-a-my-token}
 
-1. 转至&#x200B;**营销活动。**
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择项目或活动文件夹。 单击&#x200B;**我的令牌。**
+1. 选择项目或活动文件夹。 单击&#x200B;**我的令牌**。
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
@@ -37,17 +37,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a4-3a53.png)
 
-1. 单击&#x200B;**保存。**
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   耶！ 您制作了&#x200B;**我的令牌。**
+   耶！ 你做了我的代币。
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
 ## 编辑我的令牌{#edit-a-my-token}
 
-1. 多次-单击&#x200B;**我的令牌**&#x200B;并进行更改。 单击&#x200B;**保存。**
+1. 多次-单击&#x200B;**我的令牌**&#x200B;并进行更改。 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -57,22 +57,17 @@ ht-degree: 0%
 >
 >删除我的令牌时，请确保未在任何资产中引用该令牌。 如果删除，空白区域将显示在它引用的任何位置。
 
-1. 右键单击&#x200B;**我的令牌。** 选择 **删除令牌。**
+1. 右键单击&#x200B;**我的令牌**。 选择&#x200B;**删除令牌**。
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. 单击&#x200B;**删除。**
+1. 单击&#x200B;**删除**。
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [令牌概述](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   >    * [了解项目中的令牌](understanding-my-tokens-in-a-program.md)
-   >    * [在我的令牌中使用URL](../../../../product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
-
+   >* [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+   >* [了解项目中的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [在我的令牌中使用URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
 
