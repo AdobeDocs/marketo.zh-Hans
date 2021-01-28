@@ -3,7 +3,7 @@ unique-page-id: 10093348
 description: 了解智能活动卡——营销文档——产品文档
 title: 了解智能活动卡
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
@@ -26,6 +26,7 @@ ht-degree: 0%
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. 通过详细信息卡，您可以访问有关智能列表过滤器、流和电子邮件摘要的信息。
+
 1. 点按&#x200B;**智能列表**。
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
@@ -66,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. 点按[发送示例](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)或[预览电子邮件](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)（单击这些链接以了解详细信息）。
+1. 点按[发送示例](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)或[预览电子邮件](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)（单击这些链接以了解详细信息）。
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -128,9 +129,9 @@ ht-degree: 0%
 
 与其他Marketo Moments卡一样，您可以点击任何智能活动卡或详细信息卡上的三个点，以：
 
-* [使其成为最喜爱的](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [完成标记](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [分享](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [使其成为最喜爱的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [完成标记](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [分享](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
