@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: 了解分析卡——营销文档——产品文档
 title: 了解分析卡
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 分析卡{#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` 点击Analytics卡时，您可以：
+点击Analytics卡时，您可以：
 
-* [使其成为最喜爱的](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [按完成标记](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [分享](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [使其成为最喜爱的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [按完成标记](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [分享](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 点按分析卡以显示：
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 获取的潜在客户{#acquired-leads}
 
-**已获取的潜在客户**卡显示新潜在客户数量的逐月趋势报告。
+**已获取的Lead**&#x200B;卡显示新Lead数量的逐月趋势报告。
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [理解营销时刻](understanding-marketo-moments.md)
->* [了解事件卡](understanding-event-cards.md)
->* [了解电子邮件项目卡](understanding-email-program-cards.md)
+>* [理解营销时刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [了解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [了解电子邮件项目卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-有趣的事实：雷·汤姆林森在1971年向自己发送了第一封电子邮件。
