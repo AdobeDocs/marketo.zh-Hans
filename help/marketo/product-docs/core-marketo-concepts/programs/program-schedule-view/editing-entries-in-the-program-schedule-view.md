@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: 在项目计划视图中编辑条目- Marketo Docs —— 产品文档
 title: 在项目计划视图中编辑条目
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 > 已运行的智能活动和电子邮件项目条目无法移至过去。
-
