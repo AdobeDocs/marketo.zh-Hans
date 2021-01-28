@@ -3,9 +3,9 @@ unique-page-id: 1147144
 description: 在计划视图- Marketo Docs —— 产品文档中创建新的电子邮件项目
 title: 在计划项目中创建新电子邮件视图
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. 输入名称。 选择&#x200B;**电子邮件** **项目**。
+1. 输入名称。 选择&#x200B;**电子邮件项目**。
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [设置电子邮件程](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 序，然后单 **击批准项目**。
+1. [设置电子邮件程](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 序，然后单 **击批准项目**。
 
    ![](assets/learnaboutthespeaker.png)
 
-   除了详细仪表板，使用[电子邮件项目](http://docs.marketo.com/display/docs/email+programs)代替智能活动的优势在于能够容易地实现[A/B测试](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。 享受！
-
+   除了详细仪表板，使用[电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)代替智能活动的优势在于能够容易地实现[A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。 享受！
