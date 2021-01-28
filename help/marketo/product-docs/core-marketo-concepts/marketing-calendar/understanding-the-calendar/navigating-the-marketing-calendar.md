@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: 导航营销日历- Marketo文档——产品文档
 title: 导航营销日历
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->确保您有[营销日历许可证](issue-revoke-a-marketing-calendar-license.md) —— 否则，营销日历拼贴不会显示在我的营销人员中。
+>确保您有[营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) —— 否则，营销日历拼贴不会显示在我的营销人员中。
 
 1. 转至&#x200B;**营销日历**。
 
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 1. 单击&#x200B;**过滤器下拉列表**。
 
-   “ ![](assets/image2014-9-26-10-3a29-3a6.png)
-
-   “
+   ![](assets/image2014-9-26-10-3a29-3a6.png)
 
 1. 选择&#x200B;**议程**&#x200B;视图。
 
@@ -67,9 +65,6 @@ ht-degree: 0%
 
 太棒了！ 这些是基础知识。 您还可以使用视图自定义您的过滤器。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [筛选营销日历](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
-
+>[筛选营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
