@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: 使用全局叠加- Marketo Docs —— 产品文档
 title: 使用全局叠加
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必须具有[营销日历许可证](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)才能利用此功能。
+>您必须具有[营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)才能利用此功能。
 
 ## 使用全局叠加{#use-the-global-overlay}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 将保存的过滤器用作叠加{#use-a-saved-filter-as-an-overlay}
 
-如果[已在营销日历](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)中保存过滤器，则可将其用作项目计划视图中的叠加。
+如果[已在营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)中保存过滤器，则可将其用作项目计划视图中的叠加。
 
 1. 单击&#x200B;**叠加**&#x200B;下拉框并选择筛选器定义。
 
@@ -49,12 +49,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [在项目计划视图中创建自定义叠加](creating-custom-overlays-in-program-schedule-view.md)
-
-
+   >[在项目计划视图中创建自定义叠加](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
