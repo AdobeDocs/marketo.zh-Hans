@@ -3,7 +3,7 @@ unique-page-id: 2953348
 description: 直接在营销日历——营销文档——产品文档中创建条目
 title: 直接在营销日历中创建条目
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -26,7 +26,8 @@ Marketo允许您使用项目焦点模式直接在营销日历中创建条目。 
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-   选择上一个条目，然后单击“显示项目焦点”。
+1. 选择上一个条目，然后单击&#x200B;**显示项目焦点**。
+
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
 1. 进入项目焦点模式后，选择您选择的日期添加条目。
@@ -47,9 +48,4 @@ Marketo允许您使用项目焦点模式直接在营销日历中创建条目。 
 
 >[!MORELIKETHIS]
 >
->* [直接在营销日历中编辑条目](edit-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[直接在营销日历中编辑条目](edit-entries-directly-in-the-marketing-calendar.md)
