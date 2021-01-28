@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: 直接在营销日历- Marketo Docs —— 产品文档中编辑条目
 title: 直接在营销日历中编辑条目
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -45,8 +45,7 @@ ht-degree: 0%
    >
    >您还可以编辑描述。
    >
-   >
-   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![](assets/image2014-10-20-13-3a16-3a56.png)
 
 ## 转换条目类型{#convert-entry-type}
 
@@ -68,9 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [直接在营销日历中删除条目](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
-
->
-
-
-
+>[直接在营销日历中删除条目](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
