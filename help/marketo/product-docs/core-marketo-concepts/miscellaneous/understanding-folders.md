@@ -3,7 +3,7 @@ unique-page-id: 4720779
 description: 了解文件夹- Marketo Docs —— 产品文档
 title: 了解文件夹
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 了解文件夹{#understanding-folders}
 
-项目中的文件夹可用于组织您的智能活动和资产。 它们与[活动文件夹](create-new-campaign-folder.md)不同。
+项目中的文件夹可用于组织您的智能活动和资产。 它们与[活动文件夹](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)不同。
 
 ## 创建文件夹{#create-a-folder}
 
@@ -76,4 +76,3 @@ ht-degree: 0%
 * 即使已存档的资产仍可继续使用
 * 您可以使用过滤器来选择存档的资产以在报告中使用
 * 存档的资产不会取消激活。 如果希望它们停止运行，则必须取消激活它们
-
