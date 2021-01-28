@@ -3,7 +3,7 @@ unique-page-id: 1147114
 description: 了解项目中的令牌- Marketo Docs —— 产品文档
 title: 了解项目中的令牌
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>日历文件 <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此令牌可<a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">向电子邮件和事件添加日历登陆页文件(.i</a><a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>。</td> 
+   <td>使用此令牌可<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">向电子邮件和事件添加日历登陆页文件(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>。</td> 
   </tr> 
   <tr> 
    <td><p>日期 <img alt="—" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
@@ -58,7 +58,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>得分 <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>在<a href="../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">更改得分流步骤</a>中使用此令牌。 </td> 
+   <td>在<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">更改得分流步骤</a>中使用此令牌。 </td> 
   </tr> 
   <tr> 
    <td colspan="1">SFDC活动 <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->在Microsoft Dynamics或Salesforce上从Sales Insight发送电子邮件时，我的令牌将无法解析；只有标准令牌才会填充(潜在客户、公司等)。 但是，令牌&#x200B;*的默认值将*&#x200B;有效。
+>在Microsoft Dynamics或Salesforce上从Sales Insight发送电子邮件时，我的令牌将无法解析；只有标准令牌才会填充(潜在客户、公司等)。 但是，令牌&#x200B;_的默认值将_&#x200B;有效。
 
 ## 嵌套令牌{#nesting-tokens}
 
