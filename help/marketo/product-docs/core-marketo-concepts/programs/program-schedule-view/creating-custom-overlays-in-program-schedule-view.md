@@ -3,7 +3,7 @@ unique-page-id: 1147251
 description: 在项目计划视图- Marketo Docs —— 产品文档中创建自定义叠加
 title: 在项目计划视图中创建自定义叠加
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -27,11 +27,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. 您还可以按[项目标签](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)进行筛选。
+1. 您还可以按[项目标签](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)进行筛选。
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
    太棒了。 现在，您的叠加将仅显示您定义的条目。
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)
-
