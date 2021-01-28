@@ -3,7 +3,7 @@ unique-page-id: 2953207
 description: 创建新营销活动文件夹- Marketo Docs —— 产品文档
 title: 创建新营销活动文件夹
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. 可选：输入&#x200B;**Description**，然后单击**创建。**
+1. 可选：输入&#x200B;**说明**&#x200B;并单击&#x200B;**创建**。
 
    >[!TIP]
    >
@@ -43,14 +43,10 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   现在，当[创建新项目](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)时，您将看到此活动文件夹作为选项。
+   现在，当[创建新项目](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)时，您将看到此活动文件夹作为选项。
 
 >[!MORELIKETHIS]
 >
->* [创建项目](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [创建新的智能活动](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>* [创建项目](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [创建新的智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
