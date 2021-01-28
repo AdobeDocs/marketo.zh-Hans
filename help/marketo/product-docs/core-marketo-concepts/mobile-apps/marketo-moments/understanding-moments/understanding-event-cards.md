@@ -3,7 +3,7 @@ unique-page-id: 8781974
 description: 了解事件卡——营销文档——产品文档
 title: 了解事件卡
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -14,11 +14,12 @@ ht-degree: 0%
 # 了解事件卡{#understanding-event-cards}
 
 使用Marketo Moments在手机或iPad上视图事件项目。
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/ecuf3hS3r3I" frameborder="0" allowfullscreen></iframe>` 点按任何电子邮件项目卡时，您可以：
 
-* [让事件成为最喜爱的](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [将事件标记为完成](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [共享事件时刻卡](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+点按任何电子邮件项目卡时，您可以：
+
+* [让事件成为最喜爱的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [将事件标记为完成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [共享事件时刻卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 有两张事件卡。 事件前几个小时发出的甲板卡显示注册人数。 随后发送的结果卡显示实际出席人数。
 
@@ -28,11 +29,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [理解营销时刻](understanding-marketo-moments.md)
->* [了解电子邮件项目卡](understanding-email-program-cards.md)
->* [了解事件项目](../../../../../product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
-
->
-
-
+>* [理解营销时刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [了解电子邮件项目卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [了解事件项目](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
 
