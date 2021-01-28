@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: 准备事件-营销文档——产品文档
 title: 准备事件
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 创建新的营销人员角色{#create-a-new-marketo-role}
 
-Marketo对事件登记应用程序具有特殊的用户角色。  [为iPad或Android用户](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) 新建一个Marketo角色，并具有访问移动应用程序的权限。
+Marketo对事件登记应用程序具有特殊的用户角色。 [为iPad或Android用户](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 新建一个Marketo角色，并具有访问移动应用程序的权限。
 
 ## 邀请新平板电脑用户加入事件{#invite-new-tablet-users-to-the-event}
 
-[邀请新平板电脑用户](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) 参加活动并为他们分配新角色。
+[邀请新平板电脑用户](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 参加活动并为他们分配新角色。
 
 ## 创建新的营销事件项目{#create-a-new-marketo-event-program}
 
