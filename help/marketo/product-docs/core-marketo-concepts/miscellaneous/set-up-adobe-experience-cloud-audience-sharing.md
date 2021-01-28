@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: 设置Adobe Experience Cloud受众共享- Marketo文档——产品文档
 title: 设置Adobe Experience Cloud受众共享
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. 输入您的AdobeIMS组织ID（了解如何在[此处](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)找到该组织），然后单击&#x200B;**确定**。
+1. 输入您的AdobeIMS组织ID（了解如何在[此处](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)找到该组织），然后单击&#x200B;**确定**。
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ ht-degree: 0%
    >
    >出于安全原因，您必须是要映射到的Adobe组织的组织管理员。 如果不是，操作将失败。
 
-1. 如果&#x200B;*尚未*&#x200B;登录，则新的选项卡／窗口中将显示一个弹出窗口。 登录您的Adobe组织（此操作验证组织访问权限）。
+1. 如果&#x200B;_尚未_&#x200B;登录，则新的选项卡／窗口中将显示一个弹出窗口。 登录您的Adobe组织（此操作验证组织访问权限）。
 
-   就这样！ 您现在可以开始[共享受众数据](http://docs.marketo.com/x/ogI6Ag)。
-
+   就这样！ 您现在可以开始[共享受众数据](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)。
