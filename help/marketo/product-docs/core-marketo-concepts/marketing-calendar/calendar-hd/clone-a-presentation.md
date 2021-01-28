@@ -3,7 +3,7 @@ unique-page-id: 7504058
 description: 克隆演示文稿- Marketo Docs —— 产品文档
 title: 克隆演示文稿
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -28,4 +28,3 @@ ht-degree: 0%
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 
    太好了！ 您的演示文稿的确切副本现已存在。
-
