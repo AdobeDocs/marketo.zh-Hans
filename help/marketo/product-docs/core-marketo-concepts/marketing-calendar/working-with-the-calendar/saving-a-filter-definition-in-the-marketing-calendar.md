@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: 在营销日历- Marketo Docs —— 产品文档中保存过滤器定义
 title: 在营销日历中保存筛选器定义
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [筛选营销日历](filtering-the-marketing-calendar.md)
-
->
-
-
+>[筛选营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
 
 1. 定义筛选器。
 
@@ -39,14 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   如果需要，可以[将定义的副本](sharing-a-filter-definition-in-the-marketing-calendar.md)发送给其他Marketo用户。
+   如果需要，可以[将定义的副本](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)发送给其他Marketo用户。
 
    >[!NOTE]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [在营销日历中共享筛选器定义](sharing-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[在营销日历中共享筛选器定义](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
