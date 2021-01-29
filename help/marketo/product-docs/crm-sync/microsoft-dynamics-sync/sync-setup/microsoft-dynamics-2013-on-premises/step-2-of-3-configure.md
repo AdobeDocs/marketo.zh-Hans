@@ -3,9 +3,9 @@ unique-page-id: 3571816
 description: 步骤2（共3步）-为Marketo配置同步用户（2013本地版）- Marketo文档——产品文档
 title: 步骤2（共3步）-为Marketo配置同步用户（2013年内部部署）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这适用于Marketo插件4.0.0.14版及更高版本。 对于早期版本，所有用户必须具有同步用户角色。 要升级Marketo，请参阅[升级Microsoft Dynamics的Marketo解决方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
+>这适用于Marketo插件4.0.0.14版及更高版本。 对于早期版本，所有用户必须具有同步用户角色。 要升级Marketo，请参阅[升级Microsoft Dynamics的Marketo解决方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
 
 1. 在&#x200B;**设置**&#x200B;下，单击&#x200B;**管理**。
 
