@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: 修复Dynamics验证同步问题- Marketo Docs —— 产品文档
 title: 修复Dynamics验证同步问题
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 单击**设置**并选择&#x200B;**解决方案。**
+1. 单击&#x200B;**设置**&#x200B;并选择&#x200B;**解决方案。**
 
    ![](assets/eleven.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 单击**设置**并选择&#x200B;**营销配置**。
+1. 单击&#x200B;**设置**&#x200B;并选择&#x200B;**营销人员配置**。
 
    ![](assets/thirteen.png)
 
@@ -113,5 +113,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[验证Microsoft Dynamics同步](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
-
+>[验证Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
