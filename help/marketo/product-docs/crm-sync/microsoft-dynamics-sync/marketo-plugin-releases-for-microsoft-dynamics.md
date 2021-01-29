@@ -3,10 +3,10 @@ unique-page-id: 10099389
 description: Microsoft Dynamics的Marketo插件版本- Marketo Docs —— 产品文档
 title: Microsoft Dynamics的Marketo插件版本
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 首次同步到Microsoft Dynamics时，请下载适用于Marketo的插件的最新版本。 Market会定期更新这些插件，因此您可以返回同一位置下载新版本。
 
-[下载与Dynamics版](sync-setup/download-the-marketo-lead-management-solution.md) 本相对应的最新插件。
+[下载与Dynamics版](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 本相对应的最新插件。
 
 ![](assets/lead-management-solution.png)
 
@@ -102,5 +102,4 @@ ht-degree: 7%
 
 >[!MORELIKETHIS]
 >
->* [下载Marketo Lead Management解决方案](sync-setup/download-the-marketo-lead-management-solution.md)
-
+>[下载Marketo Lead Management解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
