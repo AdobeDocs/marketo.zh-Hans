@@ -3,10 +3,10 @@ unique-page-id: 10099102
 description: Microsoft Dynamics MSI的插件版本- Marketo Docs —— 产品文档
 title: Microsoft Dynamics MSI的插件版本
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 首次同步到Microsoft Dynamics时，请下载并安装适用于Marketo Sales Insight(MSI)的最新版插件。 Market会定期更新这些插件，以便您返回同一位置下载新版本。
 
-请[下载与Dynamics版本对应的最新插件](http://docs.marketo.com/x/LoJo)。
+请[下载与Dynamics版本对应的最新插件](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 ## 更新MSI解决方案{#updating-your-msi-solution}
 
-1. 在Dynamics CRM的现有版本上导入解决方案的最新版本(例如：如果您的Dynamics CRM版本为1.4，且最新版本为1.5，则应导入&#x200B;*over*&#x200B;版本1.4)。
+1. 在Dynamics CRM的现有版本上导入解决方案的最新版本(例如：如果您的Dynamics CRM版本为1.4，且最新版本为1.5，则应导入&#x200B;_over_&#x200B;版本1.4)。
 1. 您将看到以下弹出窗口。 选择&#x200B;**更新**&#x200B;和&#x200B;**覆盖自定义**&#x200B;选项，然后单击&#x200B;**导入**。
 
    ![](assets/one.png)
@@ -64,9 +64,8 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td colspan="1">04/28/20</td> 
-   <td colspan="1">4.0.0.16</td> 
+   <td colspan="1">2.0.0.16</td> 
    <td colspan="1"><p>错误修复：删除MSD CRM站点地图设置链接相关性</p></td> 
   </tr> 
  </tbody> 
 </table>
-
