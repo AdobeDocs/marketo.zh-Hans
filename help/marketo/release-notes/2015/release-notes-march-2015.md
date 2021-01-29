@@ -3,9 +3,9 @@ unique-page-id: 6095037
 description: 发行说明- 2015年3月- Marketo Docs —— 产品文档
 title: 发行说明- 2015年3月
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## Microsoft Dynamics 2015内部部署{#microsoft-dynamics-on-premise}
 
-现在可通过应用程序](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)访问最新安装程序[。
+现在可通过应用程序](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)访问最新安装程序[。
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
