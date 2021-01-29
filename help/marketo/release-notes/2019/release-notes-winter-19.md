@@ -3,9 +3,9 @@ unique-page-id: 17727823
 description: 发行说明-Winter '19 - Marketo Docs —— 产品文档
 title: 发行说明- 19年冬季
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Microsoft正在推动所有在线客户升级到最新版Microsoft Dynamics。 如果要将Marketo实例与Dynamics Online集成，您需要在2019年1月31日之前&#x200B;**升级到Marketo Solution](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)的最新版本，以确保您的集成能继续工作。[**
+>Microsoft正在推动所有在线客户升级到最新版Microsoft Dynamics。 如果要将Marketo实例与Dynamics Online集成，您需要在2019年1月31日之前&#x200B;**升级到Marketo Solution](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)的最新版本，以确保您的集成能继续工作。[**
 
 >[!NOTE]
 >
