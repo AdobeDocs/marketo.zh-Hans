@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: 了解Microsoft Dynamics Sync - Marketo Docs —— 产品文档
 title: 了解Microsoft Dynamics同步
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,28 +31,18 @@ Marketo和Dynamics之间的同步对于潜在客户和联系人是双向的。 �
 
 ## Marketo与Microsoft Dynamics之间同步了什么？{#what-is-synced-between-marketo-and-microsoft-dynamics}
 
-* [潜在客户](microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
-* [联系人](microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
-* [帐户](microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
-* [用户](microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
+* [潜在客户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
+* [联系人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
+* [帐户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
+* [用户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * 团队（SystemUsers组）
-* [机会](microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-* [自定义实体](microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+* [机会](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+* [自定义实体](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
 
 >[!NOTE]
 >
 >您在Marketo中为Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)输入的[凭据用于同步数据。
 
-Dynamics同步有许多细微差别和功能。 查看[Microsoft Dynamics同步详细信息部分](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)中的详细信息。
-
 >[!CAUTION]
 >
 >目前不支持Marketo Dynamics Sync的沙箱刷新。 如果需要刷新Dynamics CRM沙箱，将需要新的Marketo沙箱。 有关更多详细信息，请联系您的客户成功经理。
-
->[!MORELIKETHIS]
->
->* [同步设置](http://docs.marketo.com/display/docs/sync+setup)
-   >
-   >
-* [Microsoft Dynamics同步详细信息](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)
-
