@@ -3,7 +3,7 @@ unique-page-id: 2953384
 description: 为自定义实体启用同步- Marketo Docs —— 产品文档
 title: 为自定义实体启用同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -26,9 +26,10 @@ ht-degree: 0%
 1. 选择&#x200B;**Microsoft Dynamics**&#x200B;并单击&#x200B;**禁用同步**。
 
    必须临时禁用全局同步才能启用或禁用自定义实体。
+
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. 在“数据库管理”下，单击** Dynamics实体同步**链接。
+1. 在“数据库管理”下，单击&#x200B;**Dynamics Entities Sync**&#x200B;链接。
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -40,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. 选择要同步的字段，或在智能列表中用作[约束](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或触发器。 完成后，单击&#x200B;**启用同步**。
+1. 选择要同步的字段，或在智能列表中用作[约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或触发器。 完成后，单击&#x200B;**启用同步**。
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
