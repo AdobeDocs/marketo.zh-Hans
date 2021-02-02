@@ -3,7 +3,7 @@ unique-page-id: 13795802
 description: 关闭向潜在客户所有者发送电子邮件通知——营销文档——产品文档
 title: 关闭潜在客户所有者的电子邮件通知
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 1. 取消选中&#x200B;**在潜在客户分配**&#x200B;时向Salesforce中的所有者发送电子邮件通知框。 单击&#x200B;**保存**。
 
    ![](assets/new-screen.png)
-
