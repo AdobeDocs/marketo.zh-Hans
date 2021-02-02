@@ -3,7 +3,7 @@ unique-page-id: 10094647
 description: 设置默认的自定义字段前缀- Marketo Docs —— 产品文档
 title: 设置默认自定义字段前缀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 1. 转到“设置”，然后选择“自定义”。****
 
-   ** ![](assets/image2015-10-9-11-3a18-3a8.png)
-
-   **
+   ![](assets/image2015-10-9-11-3a18-3a8.png)
 
 1. 单击&#x200B;**发布者**。
 
@@ -42,4 +40,3 @@ ht-degree: 0%
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 
 1. 现在，创建您的自定义字段。 完成这些操作后，请将前缀还原为原始前缀。
-
