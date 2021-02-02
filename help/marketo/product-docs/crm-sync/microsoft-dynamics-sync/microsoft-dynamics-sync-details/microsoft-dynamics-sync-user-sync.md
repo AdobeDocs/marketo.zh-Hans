@@ -3,9 +3,9 @@ unique-page-id: 3571840
 description: Microsoft Dynamics Sync —— 用户同步- Marketo Docs —— 产品文档
 title: Microsoft Dynamics同步——用户同步
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 ## 哪些字段将同步到Marketo?{#which-fields-will-sync-to-marketo}
 
-您可以在设置过程中[选择要同步的字段](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)。 但Marketo将仅同步Dynamics同步用户有权访问的字段。
+您可以在设置过程中[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)。 但Marketo将仅同步Dynamics同步用户有权访问的字段。
