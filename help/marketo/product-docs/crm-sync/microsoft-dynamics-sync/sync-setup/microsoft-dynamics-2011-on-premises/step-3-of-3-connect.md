@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: 步骤3（共3步）-将Microsoft Dynamics与Marketo（2011年内部部署）连接- Marketo文档——产品文档
 title: 第3步（共3步）-将Microsoft Dynamics与Marketo连接（2011年内部部署）
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [第1步，共3步：安装Marketo解决方案（2011内部部署）](step-1-of-3-install.md)
->* [第2步，共3步：在Dynamics（2011年内部部署）中设置Marketo Sync用户](step-2-of-3-set-up.md)
+>* [第1步，共3步：安装Marketo解决方案（2011内部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>* [第2步，共3步：在Dynamics（2011年内部部署）中设置Marketo Sync用户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -53,11 +53,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo中的用户名必须与CRM中同步用户的用户名匹配。 格式可以是[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd)或DOMAIN\user。
+   >Marketo中的用户名必须与CRM中同步用户的用户名匹配。 格式可为user@domain.com或DOMAIN\user。
 
    >[!TIP]
    >
-   >不知道URL? 我们将在此处向您展示如何找到[Dynamics组织服务URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
+   >不知道URL? 我们将在此处向您展示如何找到[Dynamics组织服务URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 ## 选择要同步的字段{#select-fields-to-sync}
 
