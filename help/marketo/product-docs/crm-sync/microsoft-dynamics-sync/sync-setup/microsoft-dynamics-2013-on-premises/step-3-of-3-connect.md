@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: 第3步，共3步-Connect Marketo和Dynamics（2013年内部部署）- Marketo文档——产品文档
 title: 第3步（共3步）- Connect Marketo和Dynamics（2013年内部部署）
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [第1步，共3步：在Dynamics（2013内部部署）中安装Marketo解决方案](step-1-of-3-install.md)
->* [第2步，共3步：为Marketo配置同步用户（2013年本地版）](step-2-of-3-configure.md)
-
->
-
+>* [第1步，共3步：在Dynamics（2013内部部署）中安装Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [第2步，共3步：为Marketo配置同步用户（2013年本地版）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
 >[!NOTE]
@@ -30,7 +27,7 @@ ht-degree: 0%
 
 ## 输入Dynamics Sync用户信息{#enter-dynamics-sync-user-information}
 
-1. 登录Marketo并单击&#x200B;**管理**。
+1. 登录到Marketo并单击&#x200B;**管理**。
 
    ![](assets/login-admin.png)
 
@@ -42,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. 单击&#x200B;**步骤1中的** EDIT **:输入凭据**。
+1. 单击&#x200B;**步骤1中的**&#x200B;编辑&#x200B;**:输入凭据**。
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -56,17 +53,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo中的用户名必须与CRM中同步用户的用户名匹配。 格式可以是[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#631610061123070c0e020a0d4d000c0e)或DOMAIN\user。
+   >Marketo中的用户名必须与CRM中同步用户的用户名匹配。 格式可为user@domain.com或DOMAIN\user。
 
    >[!TIP]
    >
-   >不知道URL? 我们将在此处向您展示如何找到[Dynamics组织服务URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
+   >不知道URL? 我们将在此处向您展示如何找到[Dynamics组织服务URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 ## 选择要同步的字段{#select-fields-to-sync}
 
 现在，我们需要选择要同步的字段。
 
-1. 单击&#x200B;**步骤2中的**EDIT **:选择要同步的字段**。
+1. 单击&#x200B;**步骤2中的**&#x200B;编辑&#x200B;**:选择要同步的字段**。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -92,7 +89,7 @@ ht-degree: 0%
 
 ## 启用同步{#enable-sync}
 
-1. 单击&#x200B;**步骤3中的**EDIT **:启用Sync**。
+1. 单击&#x200B;**步骤3中的**&#x200B;编辑&#x200B;**:启用Sync**。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -100,7 +97,7 @@ ht-degree: 0%
    >
    >Marketo不会针对Microsoft Dynamics同步或手动输入人员或潜在客户时自动消除重复。
 
-1. 阅读弹出窗口中的所有内容，输入电子邮件，然后单击&#x200B;**开始SYNC**。
+1. 阅读弹出窗口中的所有内容，输入电子邮件，然后单击&#x200B;**开始同步**。
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
@@ -110,13 +107,6 @@ ht-degree: 0%
 
 干得好！ 您刚刚释放了Marketo和Microsoft Dynamics之间双向同步的强大功能。 如果您已购买Marketo Sales Insight，您会有更多乐趣：
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [在Microsoft Dynamics 2013中安装和配置Marketo Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
-
->
-
-
-
+>[在Microsoft Dynamics 2013中安装和配置Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
