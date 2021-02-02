@@ -3,9 +3,9 @@ unique-page-id: 3571822
 description: 步骤1（共3步）-安装Marketo解决方案（在线）- Marketo文档——产品文档
 title: 第1步（共3步）-安装Marketo Solution（在线）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->* `Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.`
->* 如果您为Dynamics同步启用了多因素身份验证(MFA)，则必须禁用它，Dynamics才能与Marketo正确同步。 如需其他信息，请联系[Marketo支持部门](http://nation.marketo.com/community/support_solutions)。
-
->
-
+>* 在完成初始同步之前，请勿启用自定义实体同步。 完成初始同步后，将通过电子邮件通知您。
+>* 如果您为Dynamics同步启用了多因素身份验证(MFA)，则必须禁用它，Dynamics才能与Marketo正确同步。 如需其他信息，请联系[Marketo支持部门](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 
 >[!NOTE]
@@ -30,9 +27,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[下载Marketo Lead Management解决方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[下载Marketo Lead Management解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
-1. 登录** [Microsoft Office 365](https://login.microsoftonline.com/) **。
+1. 登录到&#x200B;**[Microsoft Office 365](https://login.microsoftonline.com/)**。
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
@@ -40,17 +37,15 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. 单击![](assets/image2015-5-13-10-3a5-3a8.png)菜单。 在下拉菜单中，选择**设置**，然后选择&#x200B;**解决方案**。
+1. 单击![](assets/image2015-5-13-10-3a5-3a8.png)菜单。 在下拉菜单中，选择&#x200B;**设置**，然后选择&#x200B;**解决方案**。
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
 1. 单击&#x200B;**导入。**
 
-   ** ![](assets/image2015-3-19-8-3a34-3a8.png)
+   ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-   **
-
-1. 单击&#x200B;**选择文件。** 选择您下载的Marketo Lead Management解决 [方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。单击&#x200B;**下一步**。
+1. 单击&#x200B;**选择文件。** 选择您下载的Marketo Lead Management解决 [方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。单击&#x200B;**下一步**。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -98,4 +93,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[第2步，共3步：在Dynamics中设置Marketo同步用户](step-2-of-3-set-up.md)
+   >[第2步，共3步：在Dynamics中设置Marketo同步用户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
