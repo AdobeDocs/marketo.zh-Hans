@@ -3,23 +3,20 @@ unique-page-id: 7504744
 description: 安装Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步骤3（共3步）- Marketo Docs —— 产品文档
 title: 为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤3（共3步）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# 为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤3（共3步）{#install-marketo-for-dynamics-on-prem-and-on-prem-step-of}
+# 第3步，共3步：Connect Marketo Dynamics（2015 On-Prem和2016 365 On-Prem）{#step-of-connect-marketo-dynamics-on-premises-and-365}
 
 >[!PREREQUISITES]
 >
->* [为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤1（共3步）](step-1-of-3-install.md)
->* [为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤2（共3步）](step-2-of-3-set-up.md)
-
->
-
+>* [为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -28,7 +25,7 @@ ht-degree: 0%
 
 ## 输入Dynamics Sync用户信息{#enter-dynamics-sync-user-information}
 
-1. 登录Marketo并单击&#x200B;**管理**。
+1. 登录到Marketo并单击&#x200B;**管理**。
 
    ![](assets/login-admin.png)
 
@@ -54,11 +51,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo中的用户名必须与CRM中同步用户的用户名匹配。 格式可以是[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1)或DOMAIN\user。
+   >Marketo中的用户名必须与CRM中同步用户的用户名匹配。 格式可为user@domain.com或DOMAIN\user。
 
    >[!TIP]
    >
-   >不知道URL? 我们将在此处向您展示如何找到您的[Dynamics组织服务URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
+   >不知道URL? 我们将在此处向您展示如何找到您的[Dynamics组织服务URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 ## 选择要同步的字段{#select-fields-to-sync}
 
