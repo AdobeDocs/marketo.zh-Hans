@@ -3,7 +3,7 @@ unique-page-id: 10092977
 description: Microsoft Dynamics Sync过滤器——资格- Marketo Docs —— 产品文档
 title: Microsoft Dynamics同步筛选器——限定
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -29,4 +29,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >我们仅支持现成的资格转换流程。
-
