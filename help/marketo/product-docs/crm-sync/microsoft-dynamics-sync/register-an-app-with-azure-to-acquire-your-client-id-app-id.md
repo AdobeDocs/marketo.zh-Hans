@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: 向Azure注册应用程序以获取您的客户端ID/应用程序ID - Marketo Docs —— 产品文档
 title: 向Azure注册应用程序以获取您的客户端ID/应用程序ID
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Azure Active Directory将您的本地目录扩展到云中，提供对MS Dynamic
 
 ## 注册新应用程序{#registering-a-new-app}
 
-1. [使用具](http://manage.windowsazure.com/) 有管理员权限的帐户登录Microsoft Azure管理门户。您还可以通过Office 365管理中心访问Microsoft Azure门户，方法是展开左侧导航窗格中的&#x200B;**Admin**&#x200B;项并选择&#x200B;**Azure AD**。
+1. [使](http://manage.windowsazure.com/) 用具有管理员权限的帐户登录Microsoft Azure管理门户。您还可以通过Office 365管理中心访问Microsoft Azure门户，方法是展开左侧导航窗格中的&#x200B;**Admin**&#x200B;项并选择&#x200B;**Azure AD**。
 
    >[!CAUTION]
    >
@@ -38,7 +38,7 @@ Azure Active Directory将您的本地目录扩展到云中，提供对MS Dynamic
 
    ![](assets/three.png)
 
-1. 单击页面顶部的**新建注册**。
+1. 单击页面顶部的&#x200B;**新建注册**。
 
    ![](assets/four.png)
 
