@@ -3,9 +3,9 @@ unique-page-id: 3571836
 description: Microsoft Dynamics Sync —— 帐户同步- Marketo Docs —— 产品文档
 title: Microsoft Dynamics同步——帐户同步
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 哪些字段将同步到Marketo?{#which-fields-will-sync-to-marketo}
 
-您可以在设置过程中[选择要同步的字段](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)。 但Marketo将仅同步Dynamics同步用户有权访问的字段。
+您可以在设置过程中[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)。 但Marketo将仅同步Dynamics同步用户有权访问的字段。
 
 ## Dynamics中帐户字段的更改是否会导致每个联系人的更改数据值活动日志？ {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 
