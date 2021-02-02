@@ -3,9 +3,9 @@ unique-page-id: 4719300
 description: 添加／删除自定义对象字段作为智能列表/触发器约束- Marketo Docs —— 产品文档
 title: 添加／删除自定义对象字段作为智能列表/触发器约束
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -61,18 +61,10 @@ Marketo对Salesforce自定义对象同步提供细粒度控制。 这允许您�
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >不要忘记重新启用全局同步！
 
 哇！ 现在，您的智能列表和智能活动的强大功能已更多。
 
 >[!MORELIKETHIS]
 >
->* [启用／禁用自定义对象同步](enable-disable-custom-object-sync.md)
-
->
-
-
-
+>[启用／禁用自定义对象同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
