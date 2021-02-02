@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs —— 产品文档
 title: Microsoft Dynamics Sync —— 字段同步
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -31,21 +31,12 @@ Marketo到Dynamics同步功能非常强大。 下面是详细信息。
 
 ## 我在动态网创建了一个字段。 能否将其同步到Marketo?{#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-是的，只要同步用户在Dynamics中有权访问字段，您就可以[同步字段](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)。
+是的，只要同步用户在Dynamics中有权访问字段，您就可以[同步字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)。
 
 哪些字段将同步到Marketo?
 
-您可以在设置过程中[选择要同步的字段](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)。
+您可以在设置过程中[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)。
 
 ## 如果我需要在Marketo和Dynamics同步后添加自定义字段，该怎么办？{#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-您可以随时添加字段，并期望数据从Dynamics刷新到Marketo。 有关详细信息，请参阅[与Microsoft Dynamics快速同步新自定义字段](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)。
-
->[!MORELIKETHIS]
->
->* [将快速同步与Microsoft Dynamics用于新的自定义字段](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
-
->
-
-
-
+您可以随时添加字段，并期望数据从Dynamics刷新到Marketo。 有关详细信息，请参阅[与Microsoft Dynamics快速同步新自定义字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)。
