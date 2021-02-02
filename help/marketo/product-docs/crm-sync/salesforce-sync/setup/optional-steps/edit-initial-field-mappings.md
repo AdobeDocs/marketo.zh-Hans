@@ -3,9 +3,9 @@ unique-page-id: 4719287
 description: 编辑初始字段映射- Marketo Docs —— 产品文档
 title: 编辑初始字段映射
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >此功能仅在初始同步到Salesforce之前才可访问！ 按下&#x200B;**Sync Now**&#x200B;按钮后，将无法再执行此操作。
 
 在与Salesforce进行初始同步期间，Marketo会自动将名称相似的自定义字段合并到Marketo端的单个字段中，以确保可以与CRM中的Lead和Contact对象交换数据。 本文介绍如何自定义这些映射。
@@ -25,7 +23,7 @@ ht-degree: 0%
 
 当您在未映射的字段文件夹中看到字段时，这意味着它未映射到Salesforce中潜在客户或联系人上的类似字段。 你可以解决。
 
-1. 单击编辑映射。
+1. 单击&#x200B;**编辑映射**。
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
@@ -69,6 +67,4 @@ ht-degree: 0%
 
    * 将重置所有映射更改！
    * 重置模式只会添加字段，而不会删除（即使您从同步用户中隐藏它们）。
-
    ![](assets/image2014-12-9-13-3a32-3a8.png)
-
