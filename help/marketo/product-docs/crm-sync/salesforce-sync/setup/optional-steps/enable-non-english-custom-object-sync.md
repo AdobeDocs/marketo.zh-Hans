@@ -3,7 +3,7 @@ unique-page-id: 4719302
 description: 启用非英语自定义对象同步- Marketo Docs —— 产品文档
 title: 启用非英语自定义对象同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 绕过它{#getting-around-it}
 
-1. 使用marketo同步用户登录Salesforce。
+1. 使用marketo同步用户登录到Salesforce。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
@@ -61,7 +61,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >不要忘记最后一次刷新模式以将对象拉回您的语言。
-
