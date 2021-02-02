@@ -3,17 +3,15 @@ unique-page-id: 7504736
 description: 安装Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步骤1（共3步）- Marketo Docs —— 产品文档
 title: 为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤1（共3步）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 
-# 步骤1（共3步）
-
-<!--Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3-->
+# 第1步，共3步：为Marketo配置同步用户（2015 On-Prem和2016 365 On-Prem）{#step-of-configure-sync-user-for-marketo-on-premises-and-365}
 
 在将Microsoft Dynamics 2015本地版或2016(Dynamics 365)与Marketo同步之前，您需要先在Dynamics中安装Marketo解决方案。
 
@@ -23,9 +21,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->如果您使用的是Microsoft Dynamics内部部署，则必须配置[Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+(ADFS)的[面向Internet的部署](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)。 注意：IFD文档在您单击链接时自动下载。
+>如果您使用的是Microsoft Dynamics内部部署，则必须配置[Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+(ADFS)的[面向Internet的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)。 注意：IFD文档在您单击链接时自动下载。
 >
->[在开始之前，请先下](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 载Marketo Lead Management Solution。
+>[在开始之前，请先下](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 载Marketo Lead Management Solution。
 
 >[!NOTE]
 >
@@ -45,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. 单击&#x200B;**浏览**&#x200B;并选择您[已下载](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)的解决方案。 单击&#x200B;**下一步**。
+1. 单击&#x200B;**浏览**&#x200B;并选择您[已下载](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)的解决方案。 单击&#x200B;**下一步**。
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -95,9 +93,6 @@ ht-degree: 0%
    >
    >禁用任何Marketo SDK消息传递进程将导致安装中断！
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >
-   >[为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤2（共3步）](step-2-of-3-set-up.md)
+   >[为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
