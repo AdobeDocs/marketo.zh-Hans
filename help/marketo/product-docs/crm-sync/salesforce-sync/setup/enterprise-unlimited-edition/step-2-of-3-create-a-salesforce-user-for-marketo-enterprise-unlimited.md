@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: 步骤2（共3步）-为Marketo创建Salesforce用户(Enterprise/Unlimited)- Marketo文档——产品文档
 title: 第2步（共3步）-为Marketo创建Salesforce用户(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [第1步，共3步：将Marketo字段添加到Salesforce(Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-
->
-
-
+>[第1步，共3步：将Marketo字段添加到Salesforce(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 在本文中，您将在Salesforce用户档案中设置用户权限，并创建Marketo-Salesforce集成帐户。
 
@@ -100,10 +96,10 @@ ht-degree: 0%
 
 1. 在用户档案详细信息页中，转至&#x200B;**Field-Level Security**&#x200B;部分。 单击&#x200B;**视图**&#x200B;可编辑对象的辅助功能：
 
-   * `Lead`
-   * `Contact`
-   * `Account`
-   * `Opportunity`
+   * 潜在客户
+   * 联系
+   * 帐户
+   * 机会
 
    >[!TIP]
    >
@@ -115,18 +111,15 @@ ht-degree: 0%
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 找到不需要的字段，确保未选中**读取访问&#x200B;**和**&#x200B;编辑访问**。 完成后，单击&#x200B;**保存**。
+1. 找到不需要的字段，确保未选中&#x200B;**读取访问**&#x200B;和&#x200B;**编辑访问**。 完成后，单击&#x200B;**保存**。
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >仅编辑自定义字段的辅助功能。
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 在禁用所有不需要的字段后，必须选中**读取访问和编辑访问**以下对象字段。 完成后，单击&#x200B;**保存**。
+1. 禁用所有不需要的字段后，必须检查以下对象字段的&#x200B;**读取访问和编辑访问**。 完成后，单击&#x200B;**保存**。
 
 <table> 
  <tbody> 
@@ -155,7 +148,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->创建专用的Salesforce帐户(例如，[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4))来区分Marketo与其他Salesforce用户所做的更改。
+>创建专用的Salesforce帐户(例如marketo@yourcompany.com)，以区分Marketo与其他Salesforce用户所做的更改。
 
 1. 在Nav搜索栏中键入“Manage users”，然后单击&#x200B;**Users**。 单击&#x200B;**新建用户**。
 
@@ -169,11 +162,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**相关文章**
->
->* [第3步，共3步：Connect Marketo和Salesforce(Enterprise/Unlimited)](step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-
->
-
-
-
+>[第3步，共3步：Connect Marketo和Salesforce(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
