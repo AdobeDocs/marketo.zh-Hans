@@ -3,7 +3,7 @@ unique-page-id: 10098379
 description: 将Quick Sync with Microsoft Dynamics用于新的自定义字段- Marketo Docs —— 产品文档
 title: 将快速同步与Microsoft Dynamics用于新的自定义字段
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. 单击** Microsoft Dynamics**。
+1. 单击&#x200B;**Microsoft Dynamics**。
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. 选择**已更新**，然后使用日期选择器选择一个日期范围。 单击&#x200B;**保存**。
+1. 选择&#x200B;**已更新**&#x200B;并使用日期选择器选择日期范围。 单击&#x200B;**保存**。
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -86,4 +86,3 @@ ht-degree: 0%
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
    那应该能解决！
-
