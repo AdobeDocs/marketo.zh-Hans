@@ -3,7 +3,7 @@ unique-page-id: 4719297
 description: 启用／禁用自定义对象同步- Marketo文档——产品文档
 title: 启用／禁用自定义对象同步
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,11 +23,9 @@ ht-degree: 0%
 
 1. 单击&#x200B;**管理员**。
 
-   ** ![](assets/one.png)
+   ![](assets/one.png)
 
-   **
-
-1. 在“数据库管理”菜单中，单击&#x200B;**Salesforce** **对象同步**。
+1. 在“数据库管理”菜单中，单击&#x200B;**Salesforce对象同步**。
 
    ![](assets/two-2.png)
 
@@ -57,9 +55,7 @@ ht-degree: 0%
 
 1. 再次单击&#x200B;**启用同步**。
 
-   ** ![](assets/image2014-12-10-10-3a15-3a40.png)
-
-   **
+   ![](assets/image2014-12-10-10-3a15-3a40.png)
 
 1. 返回&#x200B;**Salesforce**&#x200B;选项卡，然后单击&#x200B;**启用同步**。
 
@@ -83,9 +79,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [添加／删除自定义对象字段作为智能列表/触发器约束](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-
->
-
-
-
+>[添加／删除自定义对象字段作为智能列表/触发器约束](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
