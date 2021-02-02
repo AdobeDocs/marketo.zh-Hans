@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: 了解Salesforce同步- Marketo文档——产品文档
 title: 了解Salesforce同步
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -29,28 +29,17 @@ Salesforce和Marketo之间的同步仅针对潜在客户、联系人和Salesforc
 
 ## Marketo和Salesforce之间同步了什么？{#what-is-synced-between-marketo-and-salesforce}
 
-* [潜在客户](sfdc-sync-details/sfdc-sync-lead-sync.md)
-* [联系人](sfdc-sync-details/sfdc-sync-contact-sync.md)
-* [帐户](sfdc-sync-details/sfdc-sync-account-sync.md)
-* [用户](sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-* [机会](sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-* [Salesforce活动](sfdc-sync-details/sfdc-sync-campaign-sync.md)
-* [自定义对象](sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-* [活动](sfdc-sync-details/sfdc-sync-activity-sync.md)
+* [潜在客户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+* [联系人](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+* [帐户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+* [用户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+* [机会](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+* [Salesforce活动](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+* [自定义对象](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+* [活动](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
 
 >[!NOTE]
 >
->您在Marketo中为Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)输入的[凭据用于同步数据。 将仅包含这些凭据有权访问的数据。
+>您在Marketo中为Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)输入的[凭据用于同步数据。 将仅包含这些凭据有权访问的数据。
 
-Salesforce同步有许多细微差别和功能。 查看[SFDC同步详细信息部分](http://docs.marketo.com/display/docs/sfdc+sync+details)中的详细信息。
-
->[!MORELIKETHIS]
->
->* [Salesforce同步设置](http://docs.marketo.com/display/docs/setup)
->* [SFDC同步详细信息](http://docs.marketo.com/display/docs/sfdc+sync+details)
-
->
-
-
-
-Marketo与Salesforce的同步是世界上同类产品中最强大的。 这感觉就像是魔法——一个变化已经发生，另一个系统很快就会更新。
+Marketo与Salesforce的同步是世界上同类产品中最强大的。 感觉就像魔法；更改后，另一个系统即将更新。
