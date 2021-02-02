@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 第3步，共3步——将Microsoft Dynamics与Marketo（在线）连接- Marketo Docs —— 产品文档
 title: 第3步（共3步）-将Microsoft Dynamics与Marketo连接（联机）
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [第1步，共3步：安装Marketo Solution（在线）](step-1-of-3-install.md)
+>* [第1步，共3步：安装Marketo Solution（在线）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
    >
    >
-* [第2步，共3步：在Dynamics中设置Marketo同步用户](step-2-of-3-set-up.md)
-
->
-
+* [第2步，共3步：在Dynamics中设置Marketo同步用户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -58,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo中的用户名必须与CRM中同步用户的用户名匹配。 格式可以是[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1)或DOMAIN\user。
+   >Marketo中的用户名必须与CRM中同步用户的用户名匹配。 格式可为user@domain.com或DOMAIN\user。
 
 ## 选择要同步的字段{#select-fields-to-sync}
 
