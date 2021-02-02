@@ -3,9 +3,9 @@ unique-page-id: 3571833
 description: Microsoft Dynamics Sync -Contact Sync - Marketo Docs —— 产品文档
 title: Microsoft Dynamics Sync —— 联系人同步
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 我是否可以使用Marketo创建联系人？{#can-i-create-a-contact-using-marketo}
 
-是的。 [这是方法](microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)。
+是的。 [这是方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)。
 
 >[!NOTE]
 >
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## 我是否可以手动强制个人或联系人进行同步？{#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-不可以，自动后台同步是在Marketo和Dynamics之间同步更新的唯一方式。 [将人员同步到Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)不会强制潜在客户进行同步。
+不可以，自动后台同步是在Marketo和Dynamics之间同步更新的唯一方式。 [将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)不会强制潜在客户进行同步。
 
 ## 哪些字段将同步到Marketo?{#what-fields-will-sync-to-marketo}
 
-您可以在设置过程中[选择要同步的字段](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)。 但Marketo将仅同步Dynamics同步用户有权访问的字段。
+您可以在设置过程中[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)。 但Marketo将仅同步Dynamics同步用户有权访问的字段。
 
 ## Marketo是否会遵守Dynamics验证规则？{#will-marketo-respect-the-dynamics-validation-rules}
 
