@@ -3,9 +3,9 @@ unique-page-id: 4719294
 description: 自定义活动同步- Marketo Docs —— 产品文档
 title: 自定义活动同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 自定义活动同步{#customize-activities-sync}
 
-如果您不使用[Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight),Marketo可以为某些事件创建Salesforce活动历史记录。 下面介绍如何启用它们。
+如果您不使用Marketo Sales Insight,Marketo可以为某些事件创建Salesforce活动历史记录。 下面介绍如何启用它们。
 
-1. 转到**管理员。 **
+1. 转至&#x200B;**Admin**。
 
    ![](assets/admin.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >一旦启用，Marketo将推动3个月的活动历史。 根据数据量，*完成此操作可能需要几天时间。* 在初始活动推送期间发生的更新可能会延迟到初始活动同步完成之后。
+   >一旦启用，Marketo将推动3个月的活动历史。 根据数据量，_完成此操作可能需要几天时间。_ 在初始活动推送期间发生的更新可能会延迟到初始活动同步完成之后。
 
 <table> 
  <colgroup> 
@@ -96,12 +96,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
->
 >“收到销售电子邮件”**不**&#x200B;表示已送达。 对于通过Sales Insight发送的电子邮件，未捕获已交付状态。
 
 >[!TIP]
 >
->如果您有兴趣将更多Marketo信息导入Salesforce，请查看我们的[ Marketo Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)产品。
-
+>如果您有兴趣将更多Marketo信息导入Salesforce，请查看我们的[ Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)产品。
