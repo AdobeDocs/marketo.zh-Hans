@@ -3,7 +3,7 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync —— 自定义实体同步- Marketo Docs —— 产品文档
 title: Microsoft Dynamics同步——自定义实体同步
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->要使用自定义对象，它必须与Dynamics中的[潜在客户](microsoft-dynamics-sync-lead-sync.md)、[联系人](microsoft-dynamics-sync-contact-sync.md)或[帐户](microsoft-dynamics-sync-account-sync.md)对象相关联。
+>要使用自定义对象，它必须与Dynamics中的[潜在客户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)、[联系人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)或[帐户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)对象相关联。
 
 >[!CAUTION]
 >
@@ -35,9 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. 安装支持自定义实体同步的Microsoft Dynamics版本（在2_0_0_2之后）。 请参阅[Marketo Plugin Releases for MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+1. 安装支持自定义实体同步的Microsoft Dynamics版本（在2_0_0_2之后）。 请参阅[Marketo Plugin Releases for MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+
 1. 为Marketo Sync用户授予对您计划同步的任何实体的读取权限。
-1. 在“数据库管理”下，单击** Dynamics实体同步**链接。
+
+1. 在“数据库管理”下，单击&#x200B;**Dynamics Entities Sync**&#x200B;链接。
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -45,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. 在列表同步后，选择要同步的字段和要用作智能列表中[约束](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或触发器的字段。 完成后，单击&#x200B;**启用同步**。
+1. 在列表同步后，选择要同步的字段和要用作智能列表中[约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或触发器的字段。 完成后，单击&#x200B;**启用同步**。
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
@@ -59,6 +61,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >实体名称最多可包含** 33个字符**。
+   >实体名称最多可以具有&#x200B;**33个字符**。
 
 你很好！
