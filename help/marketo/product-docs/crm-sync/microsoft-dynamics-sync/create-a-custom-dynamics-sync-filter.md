@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: 创建自定义Dynamics同步筛选器- Marketo Docs —— 产品文档
 title: 创建自定义Dynamics同步筛选器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Marketo在自动后台同步过程中查找此字段，并根据此逻辑确定�
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. 单击**潜在客户**旁边的![](assets/image2015-8-10-21-3a44-3a23.png)，然后选择&#x200B;**字段**。 然后单击&#x200B;**新建**。
+1. 单击&#x200B;**Lead**&#x200B;旁边的![](assets/image2015-8-10-21-3a44-3a23.png)，然后选择&#x200B;**字段**。 然后单击&#x200B;**新建**。
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
@@ -67,7 +67,7 @@ Marketo在自动后台同步过程中查找此字段，并根据此逻辑确定�
 
    >[!NOTE]
    >
-   >为此字段选择任何显示名称，但“名称”字段必须恰好为&#x200B;**new_synctomkto**。 必须使用&#x200B;**new**&#x200B;作为默认前缀。 如果已更改默认值，请转到[重置自定义字段名称的默认前缀](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)。 在创建新字段后，可以重新更改它。
+   >为此字段选择任何显示名称，但“名称”字段必须恰好为&#x200B;**new_synctomkto**。 必须使用&#x200B;**new**&#x200B;作为默认前缀。 如果已更改默认值，请转到[重置自定义字段名称的默认前缀](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)。 在创建新字段后，可以重新更改它。
 
    >[!NOTE]
    >
@@ -129,7 +129,7 @@ Marketo在自动后台同步过程中查找此字段，并根据此逻辑确定�
 
    >[!TIP]
    >
-   >请参阅[电子邮件地址的自定义同步过滤规则](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)以设置规则，仅同步具有电子邮件地址的人员的记录。
+   >请参阅[电子邮件地址的自定义同步过滤规则](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)以设置规则，仅同步具有电子邮件地址的人员的记录。
 
 ## 同步筛选器详细信息{#sync-filter-details}
 
@@ -141,21 +141,15 @@ Marketo在自动后台同步过程中查找此字段，并根据此逻辑确定�
 
    >[!TIP]
    >
-   >发生此情况时，将向Marketo日志添加&#x200B;**创建[StartSync]**&#x200B;操作。
+   >发生此情况时，`Create [StartSync]`操作将添加到Marketo日志。
 
 1. 停止同步操作
 
    当记录将其SyncToMkto值从“是”更改为“否”时，将通知Marketo停止同步此记录。 但是，该记录并未删除，而是会停止获取更新并变得陈旧。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [Microsoft Dynamics同步筛选器：资格](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Microsoft Dynamics同步筛选器：合并](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [电子邮件地址的自定义同步筛选器规则](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-
->
-
-
+>* [Microsoft Dynamics同步筛选器：资格](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+>* [Microsoft Dynamics同步筛选器：合并](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+>* [电子邮件地址的自定义同步筛选器规则](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
 
