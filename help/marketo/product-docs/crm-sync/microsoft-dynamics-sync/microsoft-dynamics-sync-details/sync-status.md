@@ -3,7 +3,7 @@ unique-page-id: 10097584
 description: 同步状态- Marketo Docs —— 产品文档
 title: 同步状态
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 单击**视图:**下拉菜单** **并选择**上一小时**以视图吞吐量信息。
+1. 单击&#x200B;**视图:**&#x200B;下拉框并选择&#x200B;**最后一小时**&#x200B;以视图吞吐量信息。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,5 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [通知类型](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-
+>[通知类型](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
