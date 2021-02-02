@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: 步骤1（共3步）-安装Marketo解决方案（2011年内部部署）- Marketo文档——产品文档
 title: 步骤1（共3步）-安装Marketo解决方案（2011年内部部署）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->必须配置[面向Internet的部署](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)，并配置[Active Directory联合服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1或3.0(ADFS)。 **注意**:IFD文档在您单击链接时自动下载。
+>必须配置[面向Internet的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)，并配置[Active Directory联合服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1或3.0(ADFS)。 **注意**:IFD文档在您单击链接时自动下载。
 >
->[在开始之前，请先下](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 载Marketo Lead Management Solution。
+>[在开始之前，请先下](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 载Marketo Lead Management Solution。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 单击&#x200B;**浏览**。 选择您[已下载的](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)的Marketo Lead Management解决方案。 单击&#x200B;**下一步**。
+1. 单击&#x200B;**浏览**。 选择您[已下载的](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)的Marketo Lead Management解决方案。 单击&#x200B;**下一步**。
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -93,8 +93,6 @@ ht-degree: 0%
 >
 >禁用任何Marketo SDK消息传递进程将导致安装中断！
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->[第2步，共3步：在Dynamics（2011年内部部署）中设置Marketo Sync用户](step-2-of-3-set-up.md)
+>[第2步，共3步：在Dynamics（2011年内部部署）中设置Marketo Sync用户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
