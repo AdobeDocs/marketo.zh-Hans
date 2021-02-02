@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: 步骤2（共3步）-为Marketo（专业）创建Salesforce用户- Marketo文档——产品文档
 title: 第2步（共3步）-为Marketo创建Salesforce用户（专业）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [第1步，共3步：将Marketo字段添加到Salesforce(Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-
->
-
-
+>[第1步，共3步：将Marketo字段添加到Salesforce(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 在本文中，您将使用Salesforce页面布局自定义字段权限并创建Marketo-Salesforce同步用户。
 
@@ -92,9 +88,6 @@ Salesforce Professional通过页面布局设置字段级别的辅助功能，而
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >确保&#x200B;**全天事件**&#x200B;字段已添加到&#x200B;**事件页面布局**。
 
 ## 创建同步用户{#create-sync-user}
@@ -123,13 +116,6 @@ Marketo需要凭据才能访问Salesforce。 这对于使用以下步骤创建�
 
 太棒了！ 现在，您有一个帐户，Marketo可使用它连接到Salesforce。 我们来吧。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [第3步，共3步：Connect Marketo和Salesforce(Professional)](step-3-of-3-connect-marketo-and-salesforce-professional.md)
-
->
-
-
-
+>[第3步，共3步：Connect Marketo和Salesforce(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
