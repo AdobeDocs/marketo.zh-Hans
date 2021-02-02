@@ -3,7 +3,7 @@ unique-page-id: 10095389
 description: 在Microsoft Dynamics - Marketo Docs —— 产品文档中创建联系人
 title: 在Microsoft Dynamics中创建联系人
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 单击“**人员操作**&#x200B;和&#x200B;**Microsoft,**”，然后选择“将人员同步到Microsoft **”。**
+1. 单击&#x200B;**人员操作**&#x200B;和&#x200B;**Microsoft**，然后选择&#x200B;**将人员同步到Microsoft**。
 
    ![](assets/two.png)
 
@@ -36,4 +36,3 @@ ht-degree: 0%
 1. 现在，在智能活动过滤器中使用“同步为”约束时，您可以选择&#x200B;**联系人**。
 
    ![](assets/five.png)
-
