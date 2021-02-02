@@ -3,7 +3,7 @@ unique-page-id: 10095307
 description: 电子邮件地址的自定义同步筛选器规则- Marketo Docs —— 产品文档
 title: 电子邮件地址的自定义同步筛选器规则
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -21,4 +21,3 @@ ht-degree: 0%
 
 * 更新联系人的公司名称(parentcustomerid)字段后，检查联系人的“同步到Mkto”字段是否为真。 如果是，则还将帐户上的“同步到Mkto”更改为&#x200B;**True**
 * 当业务机会的潜在客户（客户id）字段或联系人（父代联系人）字段更新时，检查帐户的“与Mkto的同步”字段是否为真，或者联系人的“与Mkto的同步”字段是否为真。 如果是，则还应将机会上的“同步到Mkto”更改为&#x200B;**True**
-
