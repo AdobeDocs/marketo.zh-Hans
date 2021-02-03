@@ -3,7 +3,7 @@ unique-page-id: 2953457
 description: SFDC Sync —— 联系人同步- Marketo Docs —— 产品文档
 title: SFDC同步——联系同步
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 能否在Marketo中将人员转换为联系人？{#can-i-convert-a-person-into-a-contact-in-marketo}
 
-是，请使用** [转换人员](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**流动操作。
+是，使用&#x200B;**[转换人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**&#x200B;流操作。
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 我是否可以手动强制联系人进行同步？{#can-i-manually-force-a-sync-of-a-contact}
 
-是，请使用** [将人员同步到SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **流动操作，它将实时同步。
+是，使用&#x200B;**[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;流操作，它将实时同步。
 
 ## 每个标准字段是否都与Marketo同步？{#does-every-single-standard-field-sync-to-marketo}
 
