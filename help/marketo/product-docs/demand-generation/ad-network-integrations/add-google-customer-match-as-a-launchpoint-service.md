@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: 将Google客户匹配添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将Google客户匹配添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 选择&#x200B;**新建**，然后选择**新建服务**。
+1. 选择&#x200B;**新建**，然后选择&#x200B;**新建服务**。
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 输入**显示名称&#x200B;**，并从**&#x200B;服务&#x200B;**下拉列表中选择** Google客户匹配**。 单击&#x200B;**创建**。
+1. 输入&#x200B;**显示名称**&#x200B;并从&#x200B;**服务**&#x200B;下拉列表中选择&#x200B;**Google客户匹配**。 单击&#x200B;**创建**。
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >为了Market能够跨多个AdWords帐户发送受众，您在以下步骤授权的Google用户需要有权访问这些帐户的&#x200B;*all*。
+   >为了Market能够跨多个AdWords帐户发送受众，您在以下步骤授权的Google用户需要有权访问这些帐户的&#x200B;_all_。
 
    ![](assets/chooseaccount.png)
 
@@ -56,4 +56,3 @@ ht-degree: 0%
    ![](assets/authorizesuccess.png)
 
    太棒了！ 现在，您将在“已安装的服务”选项卡中看到Google匹配受众列为LaunchPoint服务。
-
