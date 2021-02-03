@@ -3,9 +3,9 @@ unique-page-id: 2359573
 description: 设置表单感谢页面- Marketo Docs —— 产品文档
 title: 设置表单感谢页面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 编辑表单{#edit-form}
 
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. 在&#x200B;**Form** **Settings**&#x200B;下，单击&#x200B;**Settings**。
+1. 在&#x200B;**表单设置**&#x200B;下，单击&#x200B;**设置**。
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. 向下滚动到&#x200B;**Thank** **You** **Page**&#x200B;部分。
+1. 向下滚动到&#x200B;**感谢页面**&#x200B;部分。
 
 ## 保持在第{#stay-on-page}页上
 
 提交表单后，“保留在页面上”选项将使访客保留在同一页面上。
 
-1. 对于&#x200B;**选择**&#x200B;保持&#x200B;****&#x200B;打开&#x200B;****&#x200B;页面&#x200B;**跟随** **向上** **与**。
+1. 选择&#x200B;**保持在页面上**&#x200B;以获取&#x200B;**跟进**。
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 外部URL设置允许您将任何URL定义为后续页面。 用户提交表单后，会将其定向到指定的URL。
 
-1. 为&#x200B;**选择**&#x200B;外部&#x200B;**** URL **跟随****向上****与**。
+1. 选择&#x200B;**外部URL**&#x200B;作为&#x200B;**跟进**。
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 您可以添加多个选项并增加选项，根据用户的答复显示不同的后续操作。
 
-1. 单击&#x200B;**添加** **选择**。
+1. 单击&#x200B;**添加选择**。
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. 为&#x200B;**Follow** **Up** **选择相应的页面，类型为**。
+1. 为&#x200B;**跟进**&#x200B;类型选择相应的页面。
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -100,9 +100,6 @@ ht-degree: 0%
    ![](assets/image2014-9-15-17-3a39-3a3.png)
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >您必须提前创建／批准这些登陆页。
 
@@ -114,7 +111,7 @@ ht-degree: 0%
    >
    >您可以添加多个选项。 但是，如果添加的内容过多，则会影响表单的加载速度，因此只添加所需内容。
 
-1. 浏览并设置&#x200B;**Choice** **2**。
+1. 浏览并设置&#x200B;**选择2**。
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -143,3 +140,4 @@ ht-degree: 0%
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 干得好！
+
