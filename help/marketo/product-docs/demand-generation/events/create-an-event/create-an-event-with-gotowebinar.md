@@ -3,9 +3,9 @@ unique-page-id: 2949874
 description: 使用GotoWebinar - Marketo Docs —— 产品文档创建事件
 title: 使用GotoWebinar创建事件
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [将GoToWebinar添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [创建新事件项目](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 设置适当的[流动操作](http://docs.marketo.com/display/DOCS/Flow+Actions)以跟踪参与情况
+>* 设置适当的[流动操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与情况
 
 
 首先在GoToWebinar中创建网络研讨会。 在您创建GoToWebinar时，某些设置由Marketo使用，有些设置仅由GoToWebinar使用。
 
-在您创建营销人员事件并将GoTo网络研讨会与其关联后，系统将能够共享注册和出席信息。 有关创建GoToWebinar的帮助，请参阅[GoToWebinar用户指南](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf)。
+在您创建营销人员事件并将GoTo网络研讨会与其关联后，系统将能够共享注册和出席信息。
 
 以下是Marketo使用的设置列表。
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## 日期和时间{#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`适配器。如果对此信息做了任何更改，则必须单击&#x200B;**事件操作**&#x200B;下的“从网络研讨会提供者刷新&#x200B;**”链接，以便Market能够看到这些更改。**
+为网络研讨会输入以下信息，该信息将通过适配器被引入Marketo。 如果对此信息做了任何更改，则必须单击&#x200B;**事件操作**&#x200B;下的“从网络研讨会提供者刷新&#x200B;**”链接，以便Market能够看到这些更改。**
 
 **开始日** -输入开始日期。这将在Marketo中查看。
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您将在GoToWebinar中配置其他字段，这些字段不会影响集成。 请参阅[GoToWebinar用户指南](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf)以了解有关这些字段的更多信息，因为本文不会介绍这些字段。 如果您需要其他GoToWebinar帮助，请访问其[帮助站点](http://support.logmeininc.com/gotowebinar)。
+>如果您需要其他GoToWebinar帮助，请访问其[帮助站点](https://support.logmeininc.com/gotowebinar)。
 
 现在，让我们跳进市场！
 
@@ -68,7 +68,7 @@ ht-degree: 0%
    >
    >所选渠道的事件类型必须为&#x200B;**网络研讨会**。
 
-1. 从&#x200B;**事件** **合作伙伴**&#x200B;列表中选择&#x200B;**GoToWebinar**。
+1. 从&#x200B;**事件合作伙伴**&#x200B;列表中选择&#x200B;**GoToWebinar**。
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -112,7 +112,7 @@ ht-degree: 0%
 
 ## 查看计划{#viewing-the-schedule}
 
-在[项目计划视图](http://docs.marketo.com/display/docs/program+schedule+view)中，单击事件的日历条目。 您可以在屏幕右侧看到计划。
+在项目计划视图中，单击事件的日历条目。 您可以在屏幕右侧看到计划。
 
 >[!NOTE]
 >
