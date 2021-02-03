@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: 在Facebook - Marketo Docs —— 产品文档中创建自定义受众
 title: 在Facebook中创建自定义受众
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在“管理员”部分将Facebook自定](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 义受众添加为LaunchPoint服务。
+>* [在“管理员”部分将Facebook自定](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 义受众添加为LaunchPoint服务。
 >* [在您的Facebook帐户中接受Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) 的自定义受众条款。
 
 >
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. 选择&#x200B;**Lead**&#x200B;选项卡，然后单击底部的**通过广告桥发送**图标。
+1. 选择&#x200B;**Leads**&#x200B;选项卡，然后单击底部的&#x200B;**通过Ad Bridge**&#x200B;发送图标。
 
    ![](assets/222.png)
 
-1. 选择**Facebook **并单击&#x200B;**下一步**。
+1. 选择&#x200B;**Facebook**&#x200B;并单击&#x200B;**下一步**。
 
    ![](assets/two.png)
 
@@ -72,10 +72,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [在Facebook中向自定义受众添加潜在客户](add-leads-to-a-custom-audience-in-facebook.md)
-
-
+   >[在Facebook中向自定义受众添加潜在客户](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
