@@ -3,7 +3,7 @@ unique-page-id: 2359667
 description: 将输入掩码应用于表单中的字段- Marketo Docs —— 产品文档
 title: 将输入蒙版应用于表单中的字段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可以使用输入蒙版限制访客的输入。 例如，您可能希望访客仅以特定格式输入电话号码。
 
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 选择表单，然后单击&#x200B;**编辑** **表单**。
+1. 选择表单，然后单击&#x200B;**编辑表单**。
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. 选择您的字段，并确保将&#x200B;**字段** **类型**&#x200B;设置为&#x200B;**文本**。
+1. 选择您的字段，并确保将&#x200B;**字段类型**&#x200B;设置为&#x200B;**文本**。
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. 单击&#x200B;**掩码** **输入**&#x200B;链接。
+1. 单击&#x200B;**掩码输入**&#x200B;链接。
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
