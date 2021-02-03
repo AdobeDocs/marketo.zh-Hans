@@ -3,7 +3,7 @@ unique-page-id: 2359594
 description: 将字段集添加到表单- Marketo文档——产品文档
 title: 将字段集添加到表单
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 字段集很酷。 他们把一堆田子放在一起。 你也可以同时控制整个街区！
 
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择表单，然后单击&#x200B;**编辑** **表单**。
+1. 选择表单，然后单击&#x200B;**编辑表单**。
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以根据其他字段动态隐藏／显示整个字段集。 了解[可见性规则](dynamically-toggle-visibility-of-a-form-field.md)。
-
+>您可以根据其他字段动态隐藏／显示整个字段集。 了解[可见性规则](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)。
