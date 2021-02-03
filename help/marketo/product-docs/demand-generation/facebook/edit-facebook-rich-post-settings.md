@@ -3,9 +3,9 @@ unique-page-id: 2950555
 description: 编辑Facebook富帖子设置——营销文档——产品文档
 title: 编辑Facebook富帖子设置
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,13 @@ ht-degree: 0%
 
 # 编辑Facebook富帖子设置{#edit-facebook-rich-post-settings}
 
-当用户[在Facebook上共享您](http://docs.marketo.com/display/docs/social)时自定义帖子。
+在用户在Facebook上共享您时自定义帖子。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
-Marketo [社交应用程序](http://docs.marketo.com/display/docs/social)允许您的潜在客户在Facebook、Twitter等社交网络上与其连接共享登陆页。 Facebook OpenGraph标记（OG标记）允许您指定Facebook帖子中包含来自登陆页的信息。
+Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)允许您的潜在客户在Facebook、Twitter等社交网络上与其连接共享登陆页。 Facebook OpenGraph标记（OG标记）允许您指定Facebook帖子中包含来自登陆页的信息。
 
 ## 选择富发布选项{#select-rich-post-options}
 
@@ -35,20 +33,19 @@ Marketo [社交应用程序](http://docs.marketo.com/display/docs/social)允许�
 
    * 添加静态内容：选择此选项可手动输入标题、题注和说明。
 
-      ![](assets/image2014-9-22-16-3a48-3a0.png)
+   ![](assets/image2014-9-22-16-3a48-3a0.png)
 
    * 添加动态内容：您的社交应用程序可以使用登陆页的`<TITLE>`、`<CAPTION>`和`<DESCRIPTION>`标记填充您的丰富帖子。
 
-      ![](assets/image2014-9-22-16-3a48-3a9.png)
+   ![](assets/image2014-9-22-16-3a48-3a9.png)
+
    >[!NOTE]
    >
-   >页面源中应已存在这些标记，但要获得更多控制，您可以[向登陆页添加特定Facebook OG标记](edit-facebook-rich-post-settings.md)。
+   >页面源中应已存在这些标记，但要获得更多控制，您可以向登陆页添加特定Facebook OG标记。
 
    * 不添加丰富内容：将Facebook帖子从您的登陆页限制为仅主要消息和链接。
 
-      ![](assets/image2014-9-22-16-3a48-3a18.png)
-
-
+   ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## 向登陆页{#add-facebook-og-tags-to-a-landing-page}添加Facebook OG标记
 
@@ -60,7 +57,7 @@ Marketo [社交应用程序](http://docs.marketo.com/display/docs/social)允许�
 
    **登陆页设计器**&#x200B;在新窗口中打开。
 
-1. 选择&#x200B;**登陆页操作** > **编辑页面元标记****.**
+1. 选择&#x200B;**登陆页操作** > **编辑页面元标记**。
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
