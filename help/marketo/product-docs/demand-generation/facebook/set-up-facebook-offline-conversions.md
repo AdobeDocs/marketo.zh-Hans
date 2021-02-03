@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: 设置Facebook脱机转换- Marketo Docs —— 产品文档
 title: 设置Facebook脱机转换
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 您必须[设置Facebook潜在客户广告](set-up-facebook-lead-ads.md)。
->* 您必须在[收入周期建模器](http://docs.marketo.com/display/docs/revenue+cycle+models)中拥有已批准的模型。
-
->
-
+>* 您必须[设置Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)。
+>* 您必须在[收入周期建模器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)中拥有已批准的模型。
 
 
 ## 管理员配置{#admin-configuration}
@@ -34,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您还没有这样做，请继续[设置Facebook潜在客户广告](set-up-facebook-lead-ads.md)，然后返回此处。
+   >如果您还没有这样做，请继续[设置Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)，然后返回此处。
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -72,18 +69,16 @@ ht-degree: 0%
    >
    >目前，有10个Facebook事件可以将收入周期阶段映射到：
    >
-   >    
-   >    
-   >    * 添加付款信息
-   >    * 添加到购物车
-   >    * 添加到愿望列表
-   >    * 注册已完成
-   >    * 已启动结帐
-   >    * 人物
-   >    * 其他
-   >    * 购买
-   >    * 搜索
-   >    * 内容视图
+   >* 添加付款信息
+   >* 添加到购物车
+   >* 添加到愿望列表
+   >* 注册已完成
+   >* 已启动结帐
+   >* 人物
+   >* 其他
+   >* 购买
+   >* 搜索
+   >* 内容视图
 
 
 1. 选择要映射的阶段，然后从&#x200B;**Facebook Conversion**&#x200B;下拉框中，选择要将其映射到的Facebook事件。 重复此步骤，将RCM中的所有阶段映射到Facebook上的脱机转换阶段。
@@ -108,13 +103,6 @@ ht-degree: 0%
    >
    >脱机转换数据每天从Market发送多次到Facebook。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [了解Facebook脱机转换](understanding-facebook-offline-conversions.md)
-
->
-
-
-
+>[了解Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
