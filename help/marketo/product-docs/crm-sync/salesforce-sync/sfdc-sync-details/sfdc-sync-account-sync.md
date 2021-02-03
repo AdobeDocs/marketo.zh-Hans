@@ -3,7 +3,7 @@ unique-page-id: 2953459
 description: SFDC Sync —— 帐户同步- Marketo Docs —— 产品文档
 title: SFDC同步——帐户同步
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Marketo还会将您的帐户信息与Salesforce同步。 以下是您应该了�
 
 ## 我可以从Marketo创建帐户吗？{#can-i-create-accounts-from-marketo}
 
-大多数情况下，不。 但是，如果对人员使用[转换人员](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)流程步骤，将创建新的联系人、新的帐户和新的机会。
+大多数情况下，不。 但是，如果对人员使用[转换人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)流程步骤，将创建新的联系人、新的帐户和新的机会。
 
 >[!CAUTION]
 >
