@@ -3,9 +3,9 @@ unique-page-id: 10098242
 description: 禁用社交表单填写——营销文档——产品文档
 title: 禁用社交表单填写
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 有时，您不再希望网站访客使用社交用户档案提交表单。 下面介绍如何禁用它。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >并非所有客户都购买了此功能。
 
@@ -25,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-10.png)
 
-1. 选择表单，然后单击**编辑****表单**。
+1. 选择表单，然后单击&#x200B;**编辑表单**。
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -46,4 +44,3 @@ ht-degree: 0%
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
    这就是你需要做的。
-
