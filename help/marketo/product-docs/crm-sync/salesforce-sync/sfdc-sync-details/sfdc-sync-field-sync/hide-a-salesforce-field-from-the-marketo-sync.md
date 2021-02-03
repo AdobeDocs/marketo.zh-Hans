@@ -3,9 +3,9 @@ unique-page-id: 4719306
 description: 从Marketo同步- Marketo文档——产品文档中隐藏Salesforce字段
 title: 在Marketto同步中隐藏Salesforce字段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,6 @@ ht-degree: 0%
 
    就这样！ 下次同步完成后，您将不再在Marketo中看到此字段。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [隐藏和取消隐藏字段](../../../../../product-docs/administration/field-management/hide-and-unhide-a-field.md)
-
-
+   >[隐藏和取消隐藏字段](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
