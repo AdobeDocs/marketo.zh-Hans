@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: 创建具有3级Web会议- Marketo Docs —— 产品文档的事件
 title: 创建具有3级Web会议的事件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 >
 >* [将第3级Web会议添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [创建新事件项目](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 设置适当的[流动操作](https://docs.marketo.com/x/k8Kt)以跟踪参与情况
-
->
+>* 设置适当的[流动操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与情况
 
 
-
-首先在第3级创建网络研讨会。 如果需要帮助，请查阅[级别3资源库](http://www.level3.com/en/resource-library/)。 你会发现它与BrightTalk非常相似。  Marketo使用一小部分级别3字段：
+首先在第3级创建网络研讨会。 如果需要帮助，请查阅[级别3资源库](https://www.level3.com/en/resource-library/)。 你会发现它与BrightTalk非常相似。  Marketo使用一小部分级别3字段：
 
 * **名称** -网络广播的名称。
 * **开始日** -网络广播的开始日期。
@@ -55,6 +52,6 @@ ht-degree: 0%
 
 ## 查看计划{#viewing-the-schedule}
 
-在[项目计划视图](http://docs.marketo.com/display/docs/program+schedule+view)中，单击事件的日历条目。 您可以在屏幕右侧看到计划!
+在项目计划视图中，单击事件的日历条目。 您可以在屏幕右侧看到计划!
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
