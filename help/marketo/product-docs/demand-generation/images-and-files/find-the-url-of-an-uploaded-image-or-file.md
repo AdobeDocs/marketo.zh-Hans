@@ -3,7 +3,7 @@ unique-page-id: 2359870
 description: 查找已上传图像或文件的URL - Marketo Docs —— 产品文档
 title: 查找已上载图像或文件的URL
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/designstudio-4.png)
 
-1. 单击左菜单中的&#x200B;**图像** **和** **文件**，然后选择您希望URL的文件。
+1. 单击左侧菜单中的&#x200B;**图像和文件**，然后选择要为其添加URL的文件。
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
@@ -31,9 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [替换已上传的图像或文件](replace-an-uploaded-image-or-file.md)
-
->
-
-
-
+>[替换已上传的图像或文件](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
