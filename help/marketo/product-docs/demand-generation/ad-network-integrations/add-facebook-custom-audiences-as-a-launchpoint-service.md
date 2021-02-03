@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: 将Facebook自定义受众添加为LaunchPoint服务- Marketo Docs —— 产品文档
 title: 将Facebook自定义受众添加为LaunchPoint服务
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. 在同一浏览器中打开新选项卡并转到[www.facebook.com。](http://www.facebook.com./) 使用要用于集成的帐户登录Facebook。
+1. 在同一浏览器中打开新选项卡并转到[facebook.com](http://www.facebook.com/)。 使用要用于集成的帐户登录到Facebook。
 
    >[!CAUTION]
    >
@@ -45,9 +45,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您&#x200B;*必须*&#x200B;使用Facebook Business Manager帐户，以便您的自定义受众集成能够正常工作。 要了解如何设置Business Manager帐户，请参阅[Facebook帮助](https://www.facebook.com/business/help/1710077379203657)。
+   >您&#x200B;_必须_&#x200B;使用Facebook Business Manager帐户，以便您的自定义受众集成能够正常工作。 要了解如何设置Business Manager帐户，请参阅[Facebook帮助](https://www.facebook.com/business/help/1710077379203657)。
 
-1. 如果出现提示，请单击**确定**接受Marketo应用程序安装到Facebook中。
+1. 如果出现提示，请单击&#x200B;**确定**&#x200B;接受Marketo应用程序安装到Facebook中。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**基本匹配**&#x200B;仅使用电子邮件地址。**高级** 匹配使用七个附加字段，这增加了匹配率，以便进行更多转换。但是，如果公司的隐私策略不允许共享其他字段，或者数据不包含这些字段，请选择“基本匹配”。
+   >**基本匹** 配仅使用电子邮件地址。**高级** 匹配使用七个附加字段，这增加了匹配率，以便进行更多转换。但是，如果公司的隐私策略不允许共享其他字段，或者数据不包含这些字段，请选择“基本匹配”。
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -67,12 +67,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在Facebook中创建自定义受众](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [在Facebook中创建自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
    >
-* [设置Facebook潜在客户广告](../../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-
->
-
-
+* [设置Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
