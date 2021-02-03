@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: 创建子活动和本地资产- Marketo文档——产品文档
 title: 创建子活动和本地资产
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
@@ -44,15 +44,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >要使用此唯一URL填充确认电子邮件，请在电子邮件中使用以下令牌：`{{member.webinar url}}`。 当您发出确认URL时，此令牌会自动解析为个人的唯一确认URL。
 >
 >将确认电子邮件的类型设置为&#x200B;**Operational**，以确保注册人员接收其确认信息，即使他们已取消订阅。
 
 >[!TIP]
 >
->您可以配置ON24以发出确认、提醒或跟进电子邮件。 有关详细信息，请参见[ON24帮助站点](http://webcastelitehelp.on24.com)。
+>您可以配置ON24以发出确认、提醒或跟进电子邮件。 有关详细信息，请参见[ON24帮助站点](https://webcastelitehelp.on24.com)。
 
 ## 注册子活动要求{#registration-child-campaign-requirements}
 
@@ -97,16 +95,11 @@ ht-degree: 0%
 >
 >如果返回人员时出现注册错误，则他们将不会收到电子邮件确认。
 
-下一步是[测试ON24事件集成](test-your-on24-event-integration.md)。
+下一步是[测试ON24事件集成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)。
 
 >[!MORELIKETHIS]
 >
->* [了解ON24适配器的营销事件](understanding-marketo-on24-adapter-events.md)
->* [示例ON24事件集成](example-on24-event-integration.md)
->* [了解网络研讨会项目状态](understanding-webinar-program-statuses.md)
->* [测试ON24事件集成](test-your-on24-event-integration.md)
-
->
-
-
+>* [了解ON24适配器的营销事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [示例ON24事件集成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [了解网络研讨会项目状态](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 
