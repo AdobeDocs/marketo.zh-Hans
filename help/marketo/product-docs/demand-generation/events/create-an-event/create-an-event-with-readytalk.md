@@ -3,9 +3,9 @@ unique-page-id: 2949870
 description: 使用ReadyTalk - Marketo Docs —— 产品文档创建事件
 title: 使用ReadyTalk创建事件
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [将ReadyTalk添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [创建新事件项目](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 设置适当的[流动操作](http://docs.marketo.com/display/DOCS/Flow+Actions)以跟踪参与情况
+>* 设置适当的[流动操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与情况
 
 
-首先在ReadyTalk会议中心设置事件。 如果您需要帮助，请查看[ReadyTalk资源中心。](https://www.readytalk.com/resources/readytalk)  选择注册类型时，请 **在会议之前选择预注册**。如果您在会议&#x200B;*时选择*&#x200B;注册，Marketo将&#x200B;**不**&#x200B;为您的人员捕获“已注册”状态，并且只会在网络研讨会结束&#x200B;*后拉入“已参加”状态*。
+首先在ReadyTalk会议中心设置事件。 如果需要帮助，请查看[ReadyTalk资源中心](https://www.readytalk.com/resources/readytalk)。 选择注册类型时，请选择&#x200B;**在会议**&#x200B;之前预先注册。 如果您在会议&#x200B;_时选择_&#x200B;注册，Marketo将&#x200B;**不**&#x200B;为您的人员捕获“已注册”状态，并且只会在网络研讨会结束&#x200B;_后拉入“已参加”状态_。
 
 取消选中&#x200B;**通过电子邮件**&#x200B;通知我有新注册。
 
@@ -78,7 +78,7 @@ ht-degree: 0%
 
 ## 查看计划{#viewing-the-schedule}
 
-在[项目计划视图](http://docs.marketo.com/display/docs/program+schedule+view)中，单击事件的日历条目。 您可以在屏幕右侧看到计划!
+在项目计划视图中，单击事件的日历条目。 您可以在屏幕右侧看到计划!
 
 ![](assets/image2015-5-18-12-9-58.png)
 
