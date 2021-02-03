@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: 批准表单——营销人员文档——产品文档
 title: 批准表单
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 下面介绍如何批准已准备好的现有表单。
 
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   它已被批准并准备添加到登陆页[中。](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
+   它已被批准并准备添加到登陆页](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)中。[
 
    >[!NOTE]
    >
@@ -47,10 +47,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [编辑表单](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
->
-
+>* [编辑表单](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 
 1. 单击&#x200B;**完成**。
@@ -63,8 +60,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
->请记住，如果您在表单获得批准后对其进行编辑，则需要[批准登陆页](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)才能看到更改。
+>请记住，如果您在表单获得批准后对其进行编辑，则需要[批准登陆页](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)才能看到更改。
 
 就这样！ 轻松自如。
