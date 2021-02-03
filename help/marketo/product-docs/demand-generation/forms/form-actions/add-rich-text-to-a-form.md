@@ -3,9 +3,9 @@ unique-page-id: 2359618
 description: 将富文本添加到表单- Marketo Docs —— 产品文档
 title: 将富文本添加到表单
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 使用表单中的富文本在字段之间添加说明或其他信息。 看看。
 
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 选择表单，然后单击&#x200B;**编辑** **表单**。
+1. 选择表单，然后单击&#x200B;**编辑表单**。
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -55,10 +55,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
->[!NOTE]
+>[!TIP]
 >
->**深潜**
->
->了解有关[表单的更多信息](http://docs.marketo.com/display/docs/forms)。
-
-您是否知道还可以[向富文本块添加可见性规则](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)?
+>您是否知道还可以[向富文本块添加可见性规则](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)?
