@@ -3,7 +3,7 @@ unique-page-id: 10096681
 description: 了解网络研讨会项目状态——营销文档——产品文档
 title: 了解网络研讨会项目状态
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 **不在项目** -使用此状态从事件中删除人员。
 
-**已邀请** —— 使用此状态向事件添加人员。
+**已邀请** -使用此状态向事件添加人员。
 
-**待批准** -使用此状态可阻止向您的人员发送确认电子邮件。有关详细信息，请参阅[ON24事件注册更新](on24-event-registration-updates.md)中的“手动批准注册者”。
+**待批准** -使用此状态可阻止向您的人员发送确认电子邮件。有关详细信息，请参阅[ON24事件注册更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)中的“手动批准注册者”。
 
 **等待列出** -使用此状态可让一些人等待额外席位可用。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 >
 >如果发生注册错误，您可以通过查看项目“成员”选项卡中的“状态原因”列来获取该人的其他信息。 修复错误后，您可以手动将用户的项目状态更改为Marketo中的“已注册”。
 
-**已出席**-在网络研讨会结束时，ON24会返回出席者的列表。此状态会自动导入Marketo。
+**已出席** -在网络研讨会结束时，ON24会返回出席者的列表。此状态会自动导入Marketo。
 
 **已出席点播** -参加网络研讨会存档版本的人员会收到此状态。
 
@@ -55,9 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [了解ON24适配器的营销事件](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[了解ON24适配器的营销事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
