@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: LinkedIn社交表单填写常见问题解答- Marketo文档——产品文档
 title: LinkedIn社交表单填写常见问题解答
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ LinkedIn经过修改的API策略要求我们从产品中删除LinkedIn社交表�
 
 ## {#important-things-to-know}重要注意事项
 
-* 自2016年4月28日起，“LinkedIn社交表单填写”按钮不再是添加到Market的选项
+* 2016年4月28日，LinkedIn“社交表单填写”按钮不再是添加到Market的选项
 
 * 我们已从启用了LinkedIn社交表单填写功能的所有表单中删除了该按钮
 
