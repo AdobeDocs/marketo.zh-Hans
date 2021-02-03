@@ -3,9 +3,9 @@ unique-page-id: 2953467
 description: SFDC Sync - Opportunity Sync - Marketo Docs —— 产品文档
 title: SFDC Sync - Opportunity Sync
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您在Marketo中为Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)输入的[凭据用于同步数据。 将仅包含这些凭据有权访问的数据。
+>您在Marketo中为Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)输入的[凭据用于同步数据。 将仅包含这些凭据有权访问的数据。
 
 ## 我是否可以启动Opportunity Sync?{#can-i-initiate-an-opportunity-sync}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Marketo是否支持“机会金额”中的多种货币？{#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-不，Marketo仅支持一种货币。 业务机会金额将从Salesforce同步，但币种将是您的Marketo订阅中的[默认货币](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription)。
+不，Marketo仅支持一种货币。 业务机会金额将从Salesforce同步，但币种将是您的Marketo订阅中的[默认货币](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription)。
 
 ## Marketo如何关联机会和联系人？{#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -35,7 +35,7 @@ Marketo使用[Opportunity Contact Roles](https://help.salesforce.com/HTViewHelpD
 
 ## 我如何看到一个人的所有机会？{#how-can-i-see-all-the-opportunities-of-a-person}
 
-您可以在[人员详细信息](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)页面的&#x200B;**机会信息**&#x200B;选项卡中视图一列表机会。
+您可以在[人员详细信息](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)页面的&#x200B;**机会信息**&#x200B;选项卡中视图一列表机会。
 
 ## 触发器/过滤器与机会有哪些关系？{#what-are-the-triggers-filters-related-to-opportunity}
 
@@ -60,5 +60,3 @@ Marketo使用[Opportunity Contact Roles](https://help.salesforce.com/HTViewHelpD
 >了解过滤器和触发器的约束。 里面有很多很酷的细节。
 >
 >只需在Salesforce中的机会对象中创建一个新字段，它将自动成为一个约束！
-
-Marketo拥有世界上最好的Salesforce同步！
