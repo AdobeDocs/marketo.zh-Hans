@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: 使用WebEx - Marketo Docs —— 产品文档创建事件
 title: 使用WebEx创建事件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '927'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [将WebEx添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [创建新事件项目](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 设置适当的[流动操作](http://docs.marketo.com/display/DOCS/Flow+Actions)以跟踪参与情况
+>* 设置适当的[流动操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与情况
 
 
-首先在WebEx事件中心创建Webex事件。 Marketo仅使用特定设置和字段进行集成，我们很快将会通过这些设置和字段。 您可能要为WebEx配置的其他字段在[WebEx事件中心用户指南](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf)中进行说明。
+首先在WebEx事件中心创建Webex事件。 Marketo仅使用特定设置和字段进行集成，我们很快将会通过这些设置和字段。 您可能要为WebEx配置的其他字段在[WebEx事件中心用户指南](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf)中进行说明。
 
 ## 基本信息{#basic-information}
 
@@ -140,7 +140,7 @@ ht-degree: 0%
 
 ## 查看计划{#viewing-the-schedule}
 
-在[项目计划视图](http://docs.marketo.com/display/docs/program+schedule+view)中，单击事件的日历条目。 您可以在屏幕右侧看到计划!
+在项目计划视图中，单击事件的日历条目。 您可以在屏幕右侧看到计划!
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
