@@ -3,9 +3,9 @@ unique-page-id: 11382858
 description: 了解广告网络集成- Marketo Docs —— 产品文档
 title: 了解广告网络集成
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    * 例如，人员搜索、查看和单击广告，然后在线填写表单。 之后，他将脱机收到一个演示并成为CRM机会。 广告商就是在这目标他
 
-* 使用[Web个性化](http://docs.marketo.com/display/docs/web+personalization)重新定位网站访客，将其推回您的网站
+* 使用[Web个性化](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)重新定位网站访客，将其推回您的网站
 
    * 按细分或垂直进行个性化
 
@@ -44,19 +44,14 @@ ht-degree: 0%
 
 您可以使用集成功能：
 
-* [将Google AdWords添加为LaunchPoint服务](../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [在Facebook中向自定义受众添加潜在客户](../../../product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [在Facebook中创建自定义受众](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [设置Facebook脱机转换](../../../product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [将营销人员列表或智能列表用作LinkedIn受众细分](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [将Google AdWords添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [在Facebook中向自定义受众添加潜在客户](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [在Facebook中创建自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [设置Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [将营销人员列表或智能列表用作LinkedIn受众细分](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |  | 受众数据 | 潜在客户摄取 | 脱机转换 |
 |---|---|---|---|
 | ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
 | ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
 | ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
-
-## 观看视频{#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
