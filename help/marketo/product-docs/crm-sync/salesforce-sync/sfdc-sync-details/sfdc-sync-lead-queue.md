@@ -3,7 +3,7 @@ unique-page-id: 7516241
 description: SFDC同步——潜在客户队列- Marketo文档——产品文档
 title: SFDC同步——潜在客户队列
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Marketo允许您向[Salesforce潜在客户队列](https://help.salesforce.com/ap
 
 您可以使用以下任一流式操作将人员分配到Salesforce潜在客户队列：
 
-* [将人员同步到SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [更改所有者](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [更改所有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -35,4 +35,3 @@ Marketo允许您向[Salesforce潜在客户队列](https://help.salesforce.com/ap
 * 销售所有者标题
 * 销售所有者电话号码
 * 销售所有者电子邮件地址
-
