@@ -3,9 +3,9 @@ unique-page-id: 2359858
 description: 将图像和文件添加到Marketo - Marketo文档——产品文档
 title: 将图像和文件添加到Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 可轻松同时添加多个图像和文件。
 
-1. 转到&#x200B;**Design** **Studio**。
+1. 转到&#x200B;**Design Studio**。
 
    ![](assets/designstudio.png)
 
-1. 在&#x200B;**New**&#x200B;下，单击**上传图像** **或** **文件**。
+1. 在&#x200B;**New**&#x200B;下，单击&#x200B;**上传图像**&#x200B;或&#x200B;**文件**。
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -41,16 +41,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >要在上载前删除任何已排队的文件，请单击文件名旁的x。
 
    >[!TIP]
    >
    >Marketo将在上传前扫描所有文件；将跳过感染病毒的文件。
 
-   上载完成后，单击“完成”。
+1. 上载完成后，单击&#x200B;**完成**。
+
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
 1. 您的图像现在可用于活动电子邮件和登陆页。
@@ -63,15 +61,6 @@ ht-degree: 0%
 >
 >Marketo接受所有要上传的文件类型，但只接受主要图像类型（JPG、PNG、GIF等） 将在我们的电子邮件编辑中工作。
 
-## 观看视频{#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [使用文件夹组织图像和文件](organize-your-images-and-files-using-folders.md)
-
->
-
-
-
+>[使用文件夹组织图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
