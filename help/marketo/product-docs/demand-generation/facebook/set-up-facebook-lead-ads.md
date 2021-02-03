@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: 设置Facebook潜在客户广告——营销文档——产品文档
 title: 设置Facebook潜在客户广告
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >要将Facebook潜在客户广告添加到您的实例，请联系您的客户成功经理。
 
@@ -37,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 在同一浏览器中打开新选项卡并转到[www.facebook.com。](http://www.facebook.com.) 使用要用于集成的帐户登录Facebook。
+1. 在同一浏览器中打开新选项卡并转到[facebook.com](http://www.facebook.com)。 使用要用于集成的帐户登录到Facebook。
 
    >[!NOTE]
    >
@@ -69,7 +67,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >通过修改映射，您可以自定义Marketo中存储潜在客户广告数据的位置。 您还可以[从“潜在客户广告自定义问题”](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)中提取数据。
+   >通过修改映射，您可以自定义Marketo中存储潜在客户广告数据的位置。 您还可以[从“潜在客户广告自定义问题”](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)中提取数据。
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在智能活动中使用潜在客户广告过滤器和触发器](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [将自定义字段映射到Marketo](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [在智能活动中使用潜在客户广告过滤器和触发器](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [将自定义字段映射到Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
