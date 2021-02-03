@@ -3,7 +3,7 @@ unique-page-id: 10096683
 description: ON24事件注册更新- Marketo Docs —— 产品文档
 title: ON24事件注册更新
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -41,9 +41,4 @@ Marketo每天晚上大约11点自动收集出席信息。 要手动更新出席�
 
 >[!MORELIKETHIS]
 >
->* [了解ON24适配器的营销事件](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[了解ON24适配器的营销事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
