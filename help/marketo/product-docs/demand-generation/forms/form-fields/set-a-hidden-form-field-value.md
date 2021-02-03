@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: 设置隐藏的表单字段值- Marketo Docs —— 产品文档
 title: 设置隐藏表单字段值
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[将表单字段设置为隐藏](set-a-form-field-as-hidden.md)
+>[将表单字段设置为隐藏](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## 选择字段{#select-the-field}
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## URL参数{#url-parameter}
 
-如果要在填写表单时从人员所在的页面捕获URL参数(查询字符串)，可以使用&#x200B;**URL** **参数**&#x200B;填充隐藏字段。
+如果要在填写表单时从人员所在的页面捕获URL参数(查询字符串)，可使用&#x200B;**URL参数**&#x200B;填充隐藏字段。
 
 >[!NOTE]
 >
->参数有点技术，不是吗？ 但一旦你得到了它们，它们就会变得强大。 查询字符串](http://en.wikipedia.org/wiki/Query_string)上的[Wikipedia页面有些帮助。
+>参数有点技术，不是吗？ 但一旦你得到了它们，它们就会变得强大。 查询字符串](https://en.wikipedia.org/wiki/Query_string)上的[Wikipedia页面有些帮助。
 
 1. 为&#x200B;**获取值类型**&#x200B;选择&#x200B;**URL参数**。
 
@@ -53,9 +53,9 @@ ht-degree: 0%
 
 ## Cookie值{#cookie-value}
 
-如果您正在cookies中存储数据，则可以在提交表单时使用&#x200B;**Cookie** **Value**&#x200B;获取数据。
+如果您正在Cookie中存储数据，则可以在提交表单时使用&#x200B;**Cookie值**&#x200B;来获取数据。
 
-1. 为&#x200B;**Get** **Value** From **选择** Cookie **** Value **。**
+1. 为&#x200B;**从**&#x200B;获取值选择&#x200B;**Cookie值**。
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,9 +69,9 @@ ht-degree: 0%
 
 ## 推荐人参数{#referrer-parameter}
 
-如果要在填写表单之前从访客来自的页面捕获数据，可以使用&#x200B;**推荐人** **参数**。
+如果要在填写表单之前从访客来自的页面捕获数据，可以使用&#x200B;**推荐人参数**。
 
-1. 将&#x200B;**Get****Value****从**&#x200B;设置为&#x200B;**推荐人****参数**。
+1. 将&#x200B;**获取值从**&#x200B;设置为&#x200B;**推荐人参数**。
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果找不到推荐人参数，可输入&#x200B;**Default** **Value**。
+   >如果找不到推荐人参数，可输入&#x200B;**默认值**。
 
 1. 单击&#x200B;**完成**。
 
@@ -90,5 +90,3 @@ ht-degree: 0%
 1. 单击&#x200B;**批准并关闭**。
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-真贴心！ 你表现不错。 有关[表单的详细信息，请参阅](http://docs.marketo.com/display/docs/forms)。
