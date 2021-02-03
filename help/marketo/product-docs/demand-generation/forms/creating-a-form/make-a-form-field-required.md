@@ -3,9 +3,9 @@ unique-page-id: 2359569
 description: 需要填写表单字段- Marketo Docs —— 产品文档
 title: 需要填写表单字段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 需要填写表单字段{#make-a-form-field-required}
 
-当[将字段添加到表单](add-a-field-to-a-form.md)时，您可能希望填写这些字段的人员需要填写其中的一些字段。 这是方法。
+当[将字段添加到表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)时，您可能希望填写这些字段的人员需要填写其中的一些字段。 这是方法。
 
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 选择表单，然后单击&#x200B;**编辑** **表单**。
+1. 选择表单，然后单击&#x200B;**编辑表单**。
 
    ![](assets/editform-2.png)
 
@@ -37,8 +37,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
->不要忘记[批准任何登陆页](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)此表单继续运行，以使更改生效。
+>不要忘记[批准任何登陆页](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)此表单继续运行，以使更改生效。
 
-您是否需要[重新排序添加到表单的字段](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+您是否需要[重新排序添加到表单的字段](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
