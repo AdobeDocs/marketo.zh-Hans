@@ -3,7 +3,7 @@ unique-page-id: 10096677
 description: 测试ON24事件集成- Marketo Docs —— 产品文档
 title: 测试ON24事件集成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -35,10 +35,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [示例ON24事件集成](example-on24-event-integration.md)
->* [了解ON24适配器的营销事件](understanding-marketo-on24-adapter-events.md)
-
->
-
-
+>* [示例ON24事件集成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [了解ON24适配器的营销事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
