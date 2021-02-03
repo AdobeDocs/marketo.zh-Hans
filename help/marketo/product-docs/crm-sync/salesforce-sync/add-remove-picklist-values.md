@@ -3,7 +3,7 @@ unique-page-id: 4719312
 description: 添加／删除选择列表值- Marketo文档——产品文档
 title: 添加／删除选择列表值
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 添加Picklist值{#adding-picklist-values}
 
-1. 如果在Salesforce中向选择列表字段类型添加了额外值，您将收到[通知](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)，其中标识将影响哪些表单。
+1. 如果在Salesforce中向选择列表字段类型添加了额外值，您将收到[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)，其中标识将影响哪些表单。
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. 转到表单编辑器并[将附加值](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)添加到建议列表。
+1. 转到表单编辑器并[将附加值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)添加到建议列表。
 
 ## 删除Picklist值{#remove-picklist-values}
 
