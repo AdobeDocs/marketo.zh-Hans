@@ -3,7 +3,7 @@ unique-page-id: 2953455
 description: SFDC Sync -Lead Sync - Marketo Docs —— 产品文档
 title: SFDC同步——潜在客户同步
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Marketo获胜。 这种数据冲突很少发生。
 
 ## 我是否可以使用Marketo在Salesforce中创建潜在客户？{#can-i-create-a-lead-in-salesforce-using-marketo}
 
-是，请使用[将人员同步到SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)流操作。 如果潜在客户不存在，则此操作将在Salesforce中创建潜在客户。
+是，请使用[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)流操作。 如果潜在客户不存在，则此操作将在Salesforce中创建潜在客户。
 
 ## 我是否可以手动将Market中的人员同步到Salesforce中的潜在客户？{#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-是，使用[将人员同步到SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)流操作，它将实时同步。
+是，使用[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)流操作，它将实时同步。
 
 ## 每个标准字段是否都与Marketo同步？{#does-every-single-standard-field-sync-to-marketo}
 
