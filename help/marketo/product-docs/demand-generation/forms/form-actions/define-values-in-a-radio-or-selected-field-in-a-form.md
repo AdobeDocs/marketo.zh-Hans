@@ -3,9 +3,9 @@ unique-page-id: 2359614
 description: 在表单中的单选按钮或选定字段中定义值- Marketo Docs —— 产品文档
 title: 定义单选按钮或表单中选定字段的值
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 在表单{#define-values-in-a-radio-or-selected-field-in-a-form}中定义单选按钮或选定字段的值
 
-[将字段类型](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)设置为单选按钮或选择类型后，您将需要定义用户可从中选取的值。 这是方法。
+[将字段类型](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)设置为单选按钮或选择类型后，您将需要定义用户可从中选取的值。 这是方法。
 
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/ma.png)
 
-1. 选择表单，然后单击&#x200B;**编辑** **表单**。
+1. 选择表单，然后单击&#x200B;**编辑表单**。
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -39,9 +39,7 @@ ht-degree: 0%
    >
    >**定义**
    >
-   >
    >**显示值：** 显示给访客的内容。
-   >
    >
    >**存储值：** Marketo中记录的内容。
 
@@ -65,4 +63,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-超级工作！ 你做得真好。 了解有关[表单的更多信息](http://docs.marketo.com/display/docs/forms)。
+超级工作！ 你做得真好。
