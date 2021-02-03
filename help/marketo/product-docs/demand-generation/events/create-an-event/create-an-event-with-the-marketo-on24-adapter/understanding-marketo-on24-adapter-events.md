@@ -3,7 +3,7 @@ unique-page-id: 10096658
 description: 了解Marketo On24适配器事件- Marketo Docs —— 产品文档
 title: 了解Marketo On24适配器事件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -23,13 +23,8 @@ ON24适配器会为您传输所有信息。 它将在Marketo登陆页上捕获�
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-准备开始？ 开始[使用ON24适配器](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)创建事件。
+准备开始？ 开始[使用ON24适配器](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)创建事件。
 
 >[!MORELIKETHIS]
 >
->* [使用Marketo ON24适配器创建事件](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
-
->
-
-
-
+>[使用Marketo ON24适配器创建事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
