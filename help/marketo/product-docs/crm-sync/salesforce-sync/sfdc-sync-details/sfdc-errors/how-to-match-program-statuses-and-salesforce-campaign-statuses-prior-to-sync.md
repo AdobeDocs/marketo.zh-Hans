@@ -3,7 +3,7 @@ unique-page-id: 2360370
 description: 如何匹配同步之前的项目状态和Salesforce活动状态- Marketo Docs —— 产品文档
 title: 如何在同步之前匹配项目状态和Salesforce活动状态
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,5 +27,4 @@ ht-degree: 0%
 1. 您可以取消错误，修复状态错误，并在修复错误后尝试同步。 要修复状态错误，请执行下列操作之一：
 
    * 登录Salesforce并删除或重命名不兼容的活动成员状态，以映射到用于与您的Marketo项目关联的渠道类型的Marketo项目状态。
-   * 修改Market中的项目状态，以映射到您的Salesforce活动成员状态。 这是Marketo Admin功能。 有关详细信息，请参阅[创建项目渠道](../../../../../product-docs/administration/tags/create-a-program-channel.md)。
-
+   * 修改Market中的项目状态，以映射到您的Salesforce活动成员状态。 这是Marketo Admin功能。 有关详细信息，请参阅[创建项目渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
