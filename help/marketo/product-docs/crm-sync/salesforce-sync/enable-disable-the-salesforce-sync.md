@@ -3,7 +3,7 @@ unique-page-id: 4719310
 description: 启用／禁用Salesforce同步- Marketo文档——产品文档
 title: 启用／禁用Salesforce同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 1. 转至&#x200B;**Admin**&#x200B;部分。
 
-   ** ![](assets/image2014-12-10-13-3a24-3a35.png)
-
-   **
+   ![](assets/image2014-12-10-13-3a24-3a35.png)
 
 1. 在&#x200B;**Salesforce**&#x200B;下，单击&#x200B;**禁用同步**。
 
@@ -30,4 +28,3 @@ ht-degree: 0%
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 
 1. 进行更改并重新启用同步。 是同一个按钮。
-
