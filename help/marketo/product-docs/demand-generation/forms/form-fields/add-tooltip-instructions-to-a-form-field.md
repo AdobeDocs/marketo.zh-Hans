@@ -3,9 +3,9 @@ unique-page-id: 2359673
 description: 将工具提示说明添加到表单字段- Marketo Docs —— 产品文档
 title: 向表单字段添加工具提示说明
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 将工具提示说明添加到表单字段{#add-tooltip-instructions-to-a-form-field}
 
-[提](add-hint-text-to-a-form-field.md) 示和说明帮助用户填写表单。下面介绍如何添加工具提示说明。
+[提](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) 示和说明帮助用户填写表单。下面介绍如何添加工具提示说明。
 
 >[!NOTE]
 >
@@ -45,18 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >不要忘记[批准由表单更改创建的登陆页草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+   >不要忘记[批准由表单更改创建的登陆页草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
 太棒了！ 当访客悬停在字段上时，将显示工具提示。
-
->[!NOTE]
->
->**深潜**
->
->您可以使用[表单](http://docs.marketo.com/display/docs/forms)完成很多操作。
-
