@@ -3,7 +3,7 @@ unique-page-id: 4719308
 description: 将现有Salesforce字段添加到Marketo Sync - Marketo Docs —— 产品文档
 title: 将现有Salesforce字段添加到Marketo同步
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -48,4 +48,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    > 如果字段在Salesforce中已有值，则直到下一个记录更新，这些值才会同步到Marketo。
-
