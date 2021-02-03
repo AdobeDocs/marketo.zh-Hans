@@ -3,9 +3,9 @@ unique-page-id: 2359675
 description: 禁用表单字段的预填——营销文档——产品文档
 title: 禁用表单字段的预填
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**默认情况下** 启用表单预过滤。登陆页级预填设置和管理员级预填设置高于表单级设置：
 >
->表单&lt;登陆页&lt;管理员
+>表单>登陆页>管理员
 
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 选择表单，然后单击&#x200B;**编辑** **表单**。
+1. 选择表单，然后单击&#x200B;**编辑表单**。
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >在您自己的页面上嵌入表单时，表单预填不起作用。 它只适用于Marketo登陆页。
 
-1. 选择其中一个字段，将&#x200B;**Form** **Pre**-**fill**&#x200B;设置为&#x200B;**Disabled**。
+1. 选择其中一个字段，将“表单预填&#x200B;**”设置为“**&#x200B;禁用&#x200B;**”。**
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -50,10 +50,3 @@ ht-degree: 0%
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 干得好！
-
->[!NOTE]
->
->**深潜**
->
->想了解有关[表单的更多信息吗？](http://docs.marketo.com/display/docs/forms)
-
