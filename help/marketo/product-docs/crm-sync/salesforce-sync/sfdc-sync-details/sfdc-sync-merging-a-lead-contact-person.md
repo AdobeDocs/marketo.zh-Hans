@@ -3,9 +3,9 @@ unique-page-id: 7515133
 description: SFDC同步——合并潜在客户／联系人／人员- Marketo文档——产品文档
 title: SFDC同步——合并潜在客户／联系人／人员
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**示例**
->
 >合并3个销售线索（人），每个分数为10，将产生1个销售线索（人），得分为30。
 
 * 冲突字段值从“获胜记录”中获取。 （记录=产生的潜在客户或联系人）
@@ -32,7 +30,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜**
->
->深入了解有关[在Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中合并人员的更多信息。
-
+>深入了解有关[在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中合并人员的更多信息。
