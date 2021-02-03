@@ -3,7 +3,7 @@ unique-page-id: 2359604
 description: 在表单中调整标签／字段宽度- Marketo Docs —— 产品文档
 title: 在表单中调整标签／字段宽度
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 拖放宽度{#drag-and-drop-the-width}
 
-1. 在[表单编辑器](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)中，选择要调整大小的字段。
+1. 在[表单编辑器](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)中，选择要调整大小的字段。
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
