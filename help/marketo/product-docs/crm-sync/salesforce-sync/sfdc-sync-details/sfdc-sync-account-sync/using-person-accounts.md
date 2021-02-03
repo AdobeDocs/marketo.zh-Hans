@@ -3,7 +3,7 @@ unique-page-id: 4719316
 description: 使用人员帐户- Marketo Docs —— 产品文档
 title: 使用人员帐户
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight的**添加到Marketo活动**和**发送电子邮件**选项当前不适用于个人帐户。
+>Marketo Sales Insight的&#x200B;**添加到Marketo活动**&#x200B;和&#x200B;**发送电子邮件**&#x200B;选项当前不适用于个人帐户。
 
 ## 如何将机会关联到个人帐户？{#how-do-i-associate-opportunities-to-a-person-account}
 
