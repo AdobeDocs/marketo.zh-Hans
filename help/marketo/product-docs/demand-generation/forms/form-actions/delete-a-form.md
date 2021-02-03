@@ -3,9 +3,9 @@ unique-page-id: 2359637
 description: 删除表单- Marketo Docs —— 产品文档
 title: 删除表单
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 如果您有不需要并且未使用的表单，则可以删除它。 这是方法。
 
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,14 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. 在&#x200B;**Form** **Actions**&#x200B;下，单击&#x200B;**Delete** **Form**。
+1. 在&#x200B;**表单操作**&#x200B;下，单击&#x200B;**删除表单**。
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >切记从使用表单的任何／所有登陆页中删除表单。 另外，确认表单未在公共网站上使用。
 
@@ -44,5 +41,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果删除公共网站正在使用的表单，您将不会看到警告，并且表单将被破坏。 请改为考虑[将其存档](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)。
-
+>如果删除公共网站正在使用的表单，您将不会看到警告，并且表单将被破坏。 请改为考虑[将其存档](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)。
