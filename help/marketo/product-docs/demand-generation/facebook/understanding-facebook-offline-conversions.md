@@ -3,7 +3,7 @@ unique-page-id: 11383945
 description: 了解Facebook脱机转换——营销文档——产品文档
 title: 了解Facebook脱机转换
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -40,17 +40,12 @@ Facebook潜在客户广告活动生成潜在客户并将其发送到Marketo以�
 >
 >如果不进行线下转化，广告商可能会在广告3上投入更多资金。 有了线下转化数据，广告商更有可能投资于广告1。
 
-您可以[设置Facebook脱机转换](set-up-facebook-offline-conversions.md)以将脱机广告效果发送到Facebook。
+您可以[设置Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)以将脱机广告效果发送到Facebook。
 
-1. 确保您的[Facebook LaunchPoint集成](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)是最新的。
+1. 确保您的[Facebook LaunchPoint集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)是最新的。
 1. 将收入周期模型中的阶段映射到Facebook上的脱机转化阶段。
 1. 当Facebook潜在客户从Facebook潜在客户广告生成并到达映射阶段时，Marketo每天通过安全、自动的API将线下转化数据发回Facebook多次。 数据会显示在Facebook广告管理器报告中。
 
 >[!MORELIKETHIS]
 >
->* [设置Facebook脱机转换](set-up-facebook-offline-conversions.md)
-
->
-
-
-
+>[设置Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
