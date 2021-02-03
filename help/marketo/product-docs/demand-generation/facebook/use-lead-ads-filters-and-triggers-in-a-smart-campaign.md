@@ -3,7 +3,7 @@ unique-page-id: 10095239
 description: 在智能活动- Marketo Docs —— 产品文档中使用潜在客户广告过滤器和触发器
 title: 在智能活动中使用潜在客户广告过滤器和触发器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,4 +22,3 @@ ht-degree: 0%
 1. 添加约束以对其进行自定义。
 
    ![](assets/image2016-8-5-11-3a19-3a27.png)
-
