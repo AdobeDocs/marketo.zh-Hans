@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: 使用Adobe Connect- Marketo Docs —— 产品文档创建事件
 title: 与Adobe Connect建立事件
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -71,8 +71,8 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   > * [将Adobe Connect添加为LaunchPoint服务](../../../../product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [编辑事件渠道](../../../../product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   > * [将Adobe Connect添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   > * [编辑事件渠道](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
 
 注册您的网络研讨会的人员将在“新状态”设置为“已注册”时，通过“更改项目状态”流程步骤推送到您的网络研讨会提供者。 没有其他状态会把人推倒。 另外，请确保更改项目状态流步骤#1和发送电子邮件流步骤#2。
