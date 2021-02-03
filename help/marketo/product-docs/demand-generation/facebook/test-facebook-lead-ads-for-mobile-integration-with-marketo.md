@@ -3,9 +3,9 @@ unique-page-id: 10098759
 description: 测试Facebook潜在客户广告以与Marketo - Marketo Docs —— 产品文档的移动集成
 title: 测试Facebook潜在客户广告以与Marketo进行移动集成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必须[设置Facebook潜在客户广告集成](set-up-facebook-lead-ads.md)。
+>您必须[设置Facebook潜在客户广告集成](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)。
 
 1. 在Facebook Power Editor中，选择活动、广告，然后单击&#x200B;**编辑**。
+
 1. 在&#x200B;**链接**&#x200B;下，单击移动应用程序&#x200B;**上的**&#x200B;视图链接。
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
@@ -44,7 +45,7 @@ ht-degree: 0%
    >
    >这只是一个使用“了解更多行动动员”的示例。 您的潜在客户广告单元行动号召可能有所不同。
 
-1. 魔法就在这里发生！ 提交表单后，[在Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中构建智能列表，作为项目的一部分，或在使用&#x200B;**Filled Out Facebook Lead Ads Form**&#x200B;过滤器的潜在客户数据库中构建智能。 插入您刚提交的表单的潜在客户广告表单名称。
+1. 魔法就在这里发生！ 提交表单后，[在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中构建智能列表，作为项目的一部分，或在使用&#x200B;**Filled Out Facebook Lead Ads Form**&#x200B;过滤器的潜在客户数据库中构建智能。 插入您刚提交的表单的潜在客户广告表单名称。
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -52,15 +53,8 @@ ht-degree: 0%
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-   那很酷吗？
+那很酷吗？
 
 >[!NOTE]
 >
->**相关文章**
->
->* [启用／禁用Facebook潜在客户广告](set-up-facebook-lead-ads.md)
-
->
-
-
-
+>[启用／禁用Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
