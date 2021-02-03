@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: 将登陆页发布到Facebook - Marketo Docs —— 产品文档
 title: 将登陆页发布到Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以将登陆页发布到Facebook，在受众已经挂断的地方与项目会面，并生成更多流量。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >SMB Spark、Standard和Select。 具有单独许可功能的企业。
 
@@ -65,8 +63,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >要从Facebook中删除登陆页，请在Marketo中取消批准它，并在出现提示时，选择用于删除Facebook选项卡的选项。
-
