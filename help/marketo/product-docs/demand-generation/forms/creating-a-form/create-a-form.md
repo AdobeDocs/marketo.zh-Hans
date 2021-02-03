@@ -3,7 +3,7 @@ unique-page-id: 2359398
 description: 创建表单- Marketo Docs —— 产品文档
 title: 创建表单
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->了解Marketo在[保护表单安全方面所做的工作](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
+>了解Marketo在[保护表单安全方面所做的工作](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
 
-1. 转至&#x200B;**Marketing** **活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,10 +47,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [选择表单主题](select-a-form-theme.md)
->* [将字段集添加到表单](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-
->
-
-
+>* [选择表单主题](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [将字段集添加到表单](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 
