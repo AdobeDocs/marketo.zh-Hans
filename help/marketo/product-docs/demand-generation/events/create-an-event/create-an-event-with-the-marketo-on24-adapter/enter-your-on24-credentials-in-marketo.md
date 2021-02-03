@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: 在Marketo - Marketo Docs —— 产品文档中输入您的ON24凭据
 title: 在Marketo中输入您的ON24凭据
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 输入凭据{#enter-credentials}
 
-1. 登录Marketo并单击&#x200B;**管理**。
+1. 登录到Marketo并单击&#x200B;**管理**。
 
    ![](assets/admin.png)
 
@@ -33,7 +33,6 @@ ht-degree: 0%
 
    * **显示名称** -输入要在Marketo中使用的名称。如果您共享凭据，则这可以是您的名称或组的名称。
    * **服务** -从 **下** 拉菜单中选择On24。
-
    * **客户端** 键——输入用于登录的ON24客户端键。客户端键是包含字母和数字混合的32位字符串。
    * **客户端** ID —— 输入用于登录的4位ON24客户端ID。您可以直接从ON24客户端管理器获取客户端ID和客户端密钥。
 
@@ -67,13 +66,8 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-下一步是[在ON24](create-your-webinar-event-in-on24.md)中创建网络研讨会事件。
+下一步是[在ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)中创建网络研讨会事件。
 
 >[!MORELIKETHIS]
 >
->* [了解ON24适配器的营销事件](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[了解ON24适配器的营销事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
