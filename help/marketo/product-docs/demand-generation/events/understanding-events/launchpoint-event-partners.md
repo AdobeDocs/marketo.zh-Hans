@@ -3,9 +3,9 @@ unique-page-id: 2949777
 description: LaunchPoint事件合作伙伴- Marketo Docs —— 产品文档
 title: LaunchPoint事件合作伙伴
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '89'
 ht-degree: 1%
 
 ---
@@ -22,9 +22,8 @@ ht-degree: 1%
 
 请参阅有关将在线营销事件与LaunchPoint事件合作伙伴集成的说明：
 
-* [WebEx](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-* [Adobe Connect](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
-* [ON24](http://docs.marketo.com/pages/viewpage.action?pageid=2949868)
-* [ReadyTalk](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-* [转到网络研讨会](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
-
+* [WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
+* [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+* [ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+* [转到网络研讨会](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
