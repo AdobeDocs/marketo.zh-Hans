@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: 批准、取消批准或删除登陆页- Marketo Docs —— 产品文档
 title: 批准、取消批准或删除登陆页
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以[一次批准多个页面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)，使您的生活更轻松。
+   >您可以[一次批准多个页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)，使您的生活更轻松。
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >批准后，登陆页图标上将显示绿色复选标记。
 
-1. 取消批准登陆页
+## 取消批准登陆页{#unapprove-a-landing-page}
+
 1. 选择登陆页，转至&#x200B;**登陆页操作**&#x200B;并单击&#x200B;**取消批准**。
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您未批准的登陆页不再发布在Web上，并且不会生成其他活动。 未批准访客及其Facebook选项卡的登陆页将看到[回退页面](../../../../product-docs/administration/settings/set-a-fallback-page.md)。
+>您未批准的登陆页不再发布在Web上，并且不会生成其他活动。 未批准访客及其Facebook选项卡的登陆页将看到[回退页面](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)。
 
 ## 删除登陆页{#delete-a-landing-page}
 
