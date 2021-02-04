@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: 创建自由表单登陆页- Marketo Docs —— 产品文档
 title: 创建自由格式登陆页
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->登陆页模式由其模板定义。 [进一](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 步了解自由格式和引导式登陆页模板。
+>登陆页模式由其模板定义。 [进一](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 步了解自由格式和引导式登陆页模板。
 
 ## 在项目{#create-a-free-form-landing-page-in-a-program}中创建自由形式登陆页
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
 ## 在Design Studio {#create-a-free-form-landing-page-in-design-studio}中创建自由形式登陆页
 
-1. 转到&#x200B;**Design** **Studio**。
+1. 转到&#x200B;**Design Studio**。
 
    ![](assets/designstudio.png)
 
-1. 单击&#x200B;**新建**，然后单击&#x200B;**新建登陆页。**
+1. 单击&#x200B;**新建**，然后单击&#x200B;**新建登陆页**。
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >如果不希望编辑器在单击&#x200B;**创建**&#x200B;后立即打开，请取消选中“为新页面打开登陆页编辑器”。
-
