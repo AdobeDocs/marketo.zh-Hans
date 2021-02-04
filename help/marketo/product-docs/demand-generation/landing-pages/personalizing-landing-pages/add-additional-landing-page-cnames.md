@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: 添加其他登陆页CNAME - Marketo Docs —— 产品文档
 title: 添加其他登陆页CNAME
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**相同的顶级域——好！Cookies为shared.go**.mycompany.com > **info**.mycompany.com **不同的顶级域——错误！ Cookie未共享。**
->走。**mycompany**.com >转到。**mynewcompany**.com
+>**相同的顶级域——好！Cookies是共享的**。<br/> **go**.mycompany.com >  **info**.mycompany.com
+>
+>**不同的顶级域——错误！Cookie是&#x200B;_不_共享的**。<br/> 走。**mycompany**.com >转到。**mynewcompany**.com
 
 >[!NOTE]
 >
