@@ -3,7 +3,7 @@ unique-page-id: 2359703
 description: 将图像添加到自由表单登陆页- Marketo Docs —— 产品文档
 title: 将图像添加到自由格式登陆页
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [将图像和文件添加到Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-
->
-
-
+>[将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. 选择自由形式登陆页，然后单击&#x200B;**编辑** **草稿**。
 
@@ -40,4 +36,3 @@ ht-degree: 0%
    干得好！ 您刚刚向自由格式登陆页添加了图像。
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)
-
