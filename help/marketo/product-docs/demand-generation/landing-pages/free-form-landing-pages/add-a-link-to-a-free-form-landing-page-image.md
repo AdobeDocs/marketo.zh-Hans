@@ -3,7 +3,7 @@ unique-page-id: 2359736
 description: 添加指向自由格式登陆页图像的链接- Marketo文档——产品文档
 title: 添加指向自由格式登陆页图像的链接
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [将图像添加到自由格式登陆页](add-an-image-to-a-free-form-landing-page.md)
-
->
-
-
+>[将图像添加到自由格式登陆页](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
@@ -36,4 +32,3 @@ ht-degree: 0%
    干得好！ 您现在在Marketo登陆页上拥有一个邮件到链接图像。
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)
-
