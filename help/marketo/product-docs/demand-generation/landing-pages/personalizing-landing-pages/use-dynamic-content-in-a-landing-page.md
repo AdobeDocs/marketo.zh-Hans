@@ -3,9 +3,9 @@ unique-page-id: 2359532
 description: 在登陆页中使用动态内容- Marketo Docs —— 产品文档
 title: 在登陆页中使用动态内容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建分段](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [创建自由格式登陆页](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [将新表单添加到自由表单登陆页](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
->
-
+>* [创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [创建自由格式登陆页](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [将新表单添加到自由表单登陆页](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
 在登陆页中使用动态内容可让用户获得有针对性的信息。
@@ -81,14 +78,8 @@ ht-degree: 0%
 
 瞧！ 您现在可以发送目标内容。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [预览具有动态内容的登陆页](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [在电子邮件中使用动态内容](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
->
-
-
+>* [预览具有动态内容的登陆页](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [在电子邮件中使用动态内容](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
