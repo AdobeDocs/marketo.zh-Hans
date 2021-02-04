@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: 重定向URL路径- Marketo Docs —— 产品文档
 title: 重定向URL路径
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Marketo使您能轻松将URL路径重定向到您选择的任何页面。 这是
 >
 >**需要管理员权限**
 
-1. 在&#x200B;**管理下，**&#x200B;单击&#x200B;**登陆页**。
+1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**登陆页**。
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. 单击&#x200B;**规则**&#x200B;选项卡，然后单击**新建**和&#x200B;**新建重定向规则**。
+1. 单击&#x200B;**规则**&#x200B;选项卡，然后单击&#x200B;**新建**&#x200B;和&#x200B;**新建重定向规则**。
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
@@ -33,10 +33,7 @@ Marketo使您能轻松将URL路径重定向到您选择的任何页面。 这是
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >请记住，您只能将与Market开始的URL重定向到[CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
+   >请记住，您只能将与Market开始的URL重定向到[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
 
 1. 在右侧第二个&#x200B;**原始URL**&#x200B;字段中键入要重定向的URL路径（或特定页面）。
 
@@ -46,15 +43,10 @@ Marketo使您能轻松将URL路径重定向到您选择的任何页面。 这是
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   您也可以[使用Marketo登陆页](https://docs.marketo.com/x/vAEk)作为目标。
+   您也可以[使用Marketo登陆页](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)作为目标。
 
-恭喜！  您已成功重定向URL路径。
+恭喜！ 您已成功重定向URL路径。
 
 >[!MORELIKETHIS]
 >
->* [将营销人员登陆页重定向到其他页面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-
->
-
-
-
+>[将营销人员登陆页重定向到其他页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
