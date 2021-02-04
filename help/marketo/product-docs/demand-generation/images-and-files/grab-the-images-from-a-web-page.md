@@ -3,7 +3,7 @@ unique-page-id: 2359866
 description: 从网页获取图像- Marketo Docs —— 产品文档
 title: 从网页中捕获图像
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 要从网页添加图像，请复制包含所需图像的页面的Web地址(URL)，然后执行以下简单步骤。
 
-1. 转至&#x200B;**Design** **Studio**。
+1. 转至&#x200B;**Design Studio**。
 
    ![](assets/designstudio-2.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. 选择&#x200B;**Images and Files**&#x200B;文件夹，将Web地址(URL)粘贴到URL文本框中，然后单击&#x200B;**Next。**
+1. 选择&#x200B;**Images and Files**&#x200B;文件夹，将Web地址(URL)粘贴到URL文本框中，然后单击&#x200B;**Next**。
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >此功能不适用于直接指向图像的URL。 使用包含图像的网页的URL。
 
-1. 选择要添加的图像，然后单击“导入”。****
+1. 选择要添加的图像，然后单击&#x200B;**导入**。
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -47,12 +47,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [将图像和文件添加到Marketo](add-images-and-files-to-marketo.md)
->* [使用文件夹组织图像和文件](organize-your-images-and-files-using-folders.md)
->* [查找已上载图像或文件的URL](find-the-url-of-an-uploaded-image-or-file.md)
->* [从框上载图像和文件](upload-images-and-files-from-box.md)
-
->
-
-
+>* [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>* [使用文件夹组织图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [查找已上载图像或文件的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [从框上载图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
 
