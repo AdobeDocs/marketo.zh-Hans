@@ -3,9 +3,9 @@ unique-page-id: 10097969
 description: 创建自由形式登陆页模板- Marketo Docs —— 产品文档
 title: 创建自由形式登陆页模板
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -46,14 +46,9 @@ ht-degree: 0%
    >如果要阻止表单预填充，或只是不想跟踪特定页面上的Web行为，请选择&#x200B;**禁用Munchkin跟踪**。\
    >选择&#x200B;**验证移动兼容性**&#x200B;以确保您的代码与移动设备兼容。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [创建自由格式登陆页](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >    * [创建引导式登陆页模板](create-a-guided-landing-page-template.md)
-   >    * [了解自由形式与引导登陆页](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-
+   >* [创建自由格式登陆页](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [创建引导式登陆页模板](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [了解自由形式与引导登陆页](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 
