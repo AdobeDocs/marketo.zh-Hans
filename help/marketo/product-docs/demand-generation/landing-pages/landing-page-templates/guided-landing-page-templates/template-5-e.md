@@ -3,9 +3,9 @@ unique-page-id: 8783926
 description: 模板5-E - Marketo Docs —— 产品文档
 title: 模板5-E
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板5-E {#template-e}
 
-[下载模板5-E](http://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&amp;modificationdate=1437693060000&amp;api=v2)
+右键单击[下载模板5-E](http://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&amp;modificationdate=1437693060000&amp;api=v2)
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 三个正文部分（可选）
 * 页脚（可选）
 
-单击下面以下载此模板：
+右键单击下面以下载此模板：
 
 [Template5-E.html](http://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&amp;modificationdate=1437693060000&amp;api=v2)
