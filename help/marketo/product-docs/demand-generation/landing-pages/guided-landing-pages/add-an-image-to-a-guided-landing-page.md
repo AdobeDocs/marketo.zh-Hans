@@ -3,7 +3,7 @@ unique-page-id: 7515027
 description: 向引导登陆页添加图像- Marketo Docs —— 产品文档
 title: 向引导式登陆页添加图像
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -31,11 +31,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >调整图像大小的方式取决于模板。 了解有关[向导式登陆页模板](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)的更多信息。
+   >调整图像大小的方式取决于模板。 了解有关[向导式登陆页模板](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)的更多信息。
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
    >当前不支持在编辑器中为图像指定链接。 请改用富文本元素。
-
