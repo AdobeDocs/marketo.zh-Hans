@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: 导出包含个性化URL的列表- Marketo Docs —— 产品文档
 title: 导出包含个性化URL的列表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [为您的帐户启用个性化URL](enable-personalized-urls-for-your-account.md)
->* [为登陆页启用个性化URL](enable-personalized-urls-for-a-landing-page.md)
-
->
+>* [为您的帐户启用个性化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [为登陆页启用个性化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-
-1. 选择列表或智能列表，单击&#x200B;**潜在客户**&#x200B;选项卡以获取结果，然后单击excel图标。 行内确保您有**Marketo唯一代码**和&#x200B;**标记到唯一名称** [列可见](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
+1. 选择列表或智能列表，单击&#x200B;**潜在客户**&#x200B;选项卡以获取结果，然后单击excel图标。 行内确保您有&#x200B;**标记到唯一代码**&#x200B;和&#x200B;**标记到唯一名称** [列可见](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -53,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >如果存在具有相同名和姓的潜在客户，则会自动附加数字以确保URL保持唯一。
-
