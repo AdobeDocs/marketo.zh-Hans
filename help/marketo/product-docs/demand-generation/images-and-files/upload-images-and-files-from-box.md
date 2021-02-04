@@ -3,7 +3,7 @@ unique-page-id: 2359868
 description: 从包装盒上传图像和文件- Marketo Docs —— 产品文档
 title: 从框上载图像和文件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您可以从Box上传文件以用于登陆页和电子邮件。
 
-1. 转至&#x200B;**Design** **Studio**。
+1. 转至&#x200B;**Design Studio**。
 
    ![](assets/designstudio-3.png)
 
-1. 转到**图像和文件**。 单击&#x200B;**文件操作**&#x200B;并选择&#x200B;**从Web上抓取图像**。
+1. 转到&#x200B;**图像和文件**。 单击&#x200B;**文件操作**&#x200B;并选择&#x200B;**从Web上抓取图像**。
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
