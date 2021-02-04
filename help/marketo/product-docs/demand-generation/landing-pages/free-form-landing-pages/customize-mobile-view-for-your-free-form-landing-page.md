@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: 为自由表单视图自定义移动登陆页- Marketo文档——产品文档
 title: 为自由形式视图自定义移动登陆页
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [为自由表单视图添加移动登陆页](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[为自由表单视图添加移动登陆页](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 自由形式视图的移动登陆页大多是自动的，但您可以自定义它。 这是方法。
 
@@ -49,11 +45,12 @@ ht-degree: 0%
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## 重要注意事项： {#important-things-to-know}
+## 重要注意事项：{#important-things-to-know}
 
 * 图像将扩展到移动设备的宽度。 如果您想要更小的图像，请拉入富文本元素，然后从那里添加图像。
 * 只使用Forms2.0表单。 它们是响应式的，将自动进行调整。
-* 只有一个模板元素可编辑，即BODY#bodyid(Mobile)。 您可以使用它更改背景颜色。\
+* 只有一个模板元素可编辑，即BODY#bodyid(Mobile)。 您可以使用它更改背景颜色。
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## 从移动视图{#hide-an-element-from-the-mobile-view}中隐藏元素
@@ -112,13 +109,6 @@ ht-degree: 0%
 
 玩得开心！
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->* [使现有自由格式登陆页模板与移动设备兼容](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[使现有自由格式登陆页模板与移动设备兼容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
