@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: 创建引导式登陆页模板- Marketo Docs —— 产品文档
 title: 创建引导式登陆页模板
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潜：** 厌倦阅读？[使用分步](https://youtu.be/3O7e4GdZKsM) 说明观看此精彩视频。
+>厌倦阅读了？ [使用分步](https://youtu.be/3O7e4GdZKsM) 说明观看此精彩视频。
 
 向导式登陆页模板具有特殊的语法。 使用此语法可指定哪些内容可自定义以及内容将最终显示在从模板构建的每个登陆页上的位置。 只有指定为可编辑的区域或变量才能在“向导式”登陆页编辑器中进行自定义。
 
@@ -46,13 +46,13 @@ ht-degree: 0%
 
 示例：
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### 图像{#image}
 
 有两个选项可用于定义可编辑的图像元素。 您可以使用`<div>`(它指定将图像插入的容器)或`<img>`标记。
 
-## 选项1 —— 使用 <div> {#option-use-a-div}
+## 选项1 —— 使用`<div>` {#option-use-a-div}
 
 必需属性：
 
