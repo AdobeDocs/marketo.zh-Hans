@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: 了解自由形式与引导登陆页- Marketo Docs —— 产品文档
 title: 了解自由形式与引导登陆页
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 理解自由形式与引导登陆页{#understanding-free-form-vs-guided-landing-pages}
 
-您选择的模板决定您将使用的登陆页编辑模式。 有两种可能的路径：[自由形式](http://docs.marketo.com/display/docs/free-form+landing+pages)和[被引导的](http://docs.marketo.com/display/docs/guided+landing+pages)。 在下面，您将找到重要差异的快速摘要。
+您选择的模板决定您将使用的登陆页编辑模式。 有两种可能的路径：[自由形式](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)和[被引导的](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)。 在下面，您将找到重要差异的快速摘要。
 
 ## 自由格式页面{#free-form-pages}
 
@@ -33,13 +33,3 @@ ht-degree: 0%
 * 最好用于已编码或购买响应式模板或希望修改预建Marketo模板的情况。
 
 ![](assets/two-1.png)
-
->[!MORELIKETHIS]
->
->* [自由格式登陆页](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
->* [向导式登陆页](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
-
->
-
-
-
