@@ -3,7 +3,7 @@ unique-page-id: 2359707
 description: 将矩形添加到自由格式登陆页- Marketo Docs —— 产品文档
 title: 将矩形添加到自由格式登陆页
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 登陆页上的矩形非常适合突出显示文本的某个区域。
 
-1. 选择自由形式登陆页，然后单击&#x200B;**编辑** **草稿**。
+1. 选择自由形式登陆页，然后单击“编辑草稿”**。**
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. 选择您的矩形，然后使用&#x200B;**属性** **工作表**&#x200B;进行所需的任何更改。
+1. 选择您的矩形并使用&#x200B;**属性表**&#x200B;进行所需的任何更改。
 
    >[!TIP]
    >
