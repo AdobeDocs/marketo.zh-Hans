@@ -3,7 +3,7 @@ unique-page-id: 7515107
 description: 向引导式登陆页添加表单- Marketo Docs —— 产品文档
 title: 将表单添加到向导式登陆页
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建引导登陆页](create-a-guided-landing-page.md)
-
->
-
-
+>[创建引导登陆页](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. 转至&#x200B;**营销活动**&#x200B;区域。
 
@@ -61,4 +57,4 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-现在只需关闭登陆页编辑器并[批准登陆页草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)即可。
+现在只需关闭登陆页编辑器并[批准登陆页草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)即可。
