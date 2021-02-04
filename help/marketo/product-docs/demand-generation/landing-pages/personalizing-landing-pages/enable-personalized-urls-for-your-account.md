@@ -3,7 +3,7 @@ unique-page-id: 2359810
 description: 为您的帐户启用个性化URL - Marketo Docs —— 产品文档
 title: 为您的帐户启用个性化URL
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 1%
@@ -42,8 +42,4 @@ ht-degree: 1%
 >1. 安娜琼斯
 >1. AnnaJones2
 >1. AnnaJones3
-
->
-
-
 
