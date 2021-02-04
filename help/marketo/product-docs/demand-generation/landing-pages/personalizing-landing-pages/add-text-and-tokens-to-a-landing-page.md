@@ -3,9 +3,9 @@ unique-page-id: 2359530
 description: 向登陆页添加文本和令牌- Marketo Docs —— 产品文档
 title: 向登陆页添加文本和令牌
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 0%
    >
    >登陆页设计器在新窗口中打开。
 
-1. 多次单击要向其添加令牌的富文本框。
+1. 多次-单击要将令牌添加到的富文本框。
 
    ![](assets/image2015-5-21-12-3a30-3a5.png)
 
@@ -74,4 +74,3 @@ ht-degree: 0%
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
    任务完成！ 您的登陆页现在有一个令牌。
-
