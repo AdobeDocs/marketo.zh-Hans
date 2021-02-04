@@ -3,19 +3,15 @@ unique-page-id: 5472348
 description: 使现有的自由格式登陆页模板与移动设备兼容- Marketo Docs —— 产品文档
 title: 使现有自由格式登陆页模板与移动设备兼容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
 
 # 使现有的自由格式登陆页模板与移动设备兼容{#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
->[!NOTE]
->
->在[2015年1月版本](../../../../release-notes/2015/release-notes-january-2015.md)之前创建的登陆页模板需要升级为与移动兼容。
 
 此操作可在两个位置完成，即模板编辑器和登陆页编辑器。
 
@@ -57,7 +53,9 @@ ht-degree: 0%
 
 问得好！ 模板必须具有以下标记：
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  如果一切顺利，您将看到这条消息。
+`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+
+如果一切顺利，您将看到这条消息。
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -83,13 +81,4 @@ ht-degree: 0%
    >
    >激活模板的移动版本将创建使用该模板的任何登陆页的草稿。
 
-太棒了！ 您现在可以[自定义使用此模板的所有登陆页的移动视图](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)。
-
->[!MORELIKETHIS]
->
->* [为自由形式视图自定义移动登陆页](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
+太棒了！ 您现在可以[自定义使用此模板的所有登陆页的移动视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)。
