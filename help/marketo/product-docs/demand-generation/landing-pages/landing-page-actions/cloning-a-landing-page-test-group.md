@@ -3,7 +3,7 @@ unique-page-id: 2953038
 description: 克隆登陆页测试组- Marketo Docs —— 产品文档
 title: 克隆登陆页测试组
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. 完成后，单击&#x200B;**创建。**
+1. 完成后，单击&#x200B;**创建**。
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
@@ -44,4 +44,3 @@ ht-degree: 0%
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
    该组现在将积极跟踪访问和表单完成情况，以便您查看哪个登陆页的效果最佳。
-
