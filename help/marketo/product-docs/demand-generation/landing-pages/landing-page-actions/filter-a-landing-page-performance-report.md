@@ -3,9 +3,9 @@ unique-page-id: 2359742
 description: 筛选登陆页性能报告- Marketo Docs —— 产品文档
 title: 筛选登陆页性能报告
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 筛选登陆页性能报告{#filter-a-landing-page-performance-report}
 
-将[登陆页性能报告](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)重点放在项目（本地资源）、Design Studio（全局资源）或已存档的登陆页上。
+将[登陆页性能报告](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)重点放在项目（本地资源）、Design Studio（全局资源）或已存档的登陆页上。
 
 1. 转至&#x200B;**Analytics**(或&#x200B;**营销活动**)。
 
@@ -42,10 +42,3 @@ ht-degree: 0%
 1. 你完了！ 单击&#x200B;**Report**&#x200B;选项卡以查看已过滤的报告。
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**深潜**
->
->了解有关[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中的报告的所有信息。
-
