@@ -3,7 +3,7 @@ unique-page-id: 2359803
 description: 为登陆页启用个性化URL - Marketo Docs —— 产品文档
 title: 为登陆页启用个性化URL
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [为您的帐户启用个性化URL](enable-personalized-urls-for-your-account.md)
-
->
-
-
+>[为您的帐户启用个性化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
 1. 选择登陆页，然后单击“个性化URL **”的设置。**
 
