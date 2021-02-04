@@ -3,7 +3,7 @@ unique-page-id: 7515616
 description: 引导登陆页模板——营销文档——产品文档
 title: 向导式登陆页模板
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 向导式登陆页模板{#guided-landing-page-templates}
 
-浏览我们的示例模板集合，以与[向导式登陆页编辑器](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)一起使用。 每个模板都完全响应式，并且基于Bootstrap框架。
+浏览我们的示例模板集合，以与[向导式登陆页编辑器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)一起使用。 每个模板都完全响应式，并且基于Bootstrap框架。
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ ht-degree: 0%
 | ![](assets/11f.jpg) | ![](assets/12a.jpg) | ![](assets/12b.jpg) |
 | [模板12-C](guided-landing-page-templates/template-12-c.md) | [模板12-D](guided-landing-page-templates/template-12-d.md) | [模板12-E](guided-landing-page-templates/template-12-e.md) |
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
-| [模板12-F](guided-landing-page-templates/template-12-f.md) | [模板13-C](guided-landing-page-templates/template-13-a.md) | [模板13-B](guided-landing-page-templates/template-13-b.md) |
+| [模板12-F](guided-landing-page-templates/template-12-f.md) | [模板13-A](guided-landing-page-templates/template-13-a.md) | [模板13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
 | [模板13-A](guided-landing-page-templates/template-13-c.md) | [模板13-D](guided-landing-page-templates/template-13-d.md) | [模板13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
