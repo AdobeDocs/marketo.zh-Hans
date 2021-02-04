@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: 将代码片断添加到登陆页- Marketo Docs —— 产品文档
 title: 向登陆页添加代码片断
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建代码片断](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
->
-
-
+>[创建代码片断](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 1. 选择您的登陆页，然后单击“编辑草稿&#x200B;**”。**
 
@@ -41,6 +37,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果要向引导式登陆页添加片段，请参阅[本文](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template)。
+   >如果要向引导式登陆页添加片段，请参阅[本文](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)。
 
 太棒了！ 现在您了解如何向登陆页添加片段。
