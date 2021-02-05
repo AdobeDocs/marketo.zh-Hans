@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: 配置社交推荐流——营销文档——产品文档
 title: 配置社交推荐流
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这与配置社交注册／共享流[非常相似，但这适用于社交应用程序&#x200B;*下的共享链接](configure-social-sign-up-share-flow.md)。*
+>这与配置社交注册／共享流](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)非常相似，但这适用于社交应用程序&#x200B;_下的共享链接_。[
 
 1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择应用程序，然后单击“编辑草稿”****.****
+1. 选择应用程序，然后单击“编辑草稿&#x200B;**”。**
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. 在社交应用程序编辑器中，转至&#x200B;**推荐流** > **社交网络****。**
+1. 在社交应用程序编辑器中，转至&#x200B;**推荐流** > **社交网络**。
 
    ![](assets/recommendedflow.png)
 
@@ -47,25 +47,27 @@ ht-degree: 0%
    >
    >在视频共享中，会自动生成缩略图。
 
-   **添加动**&#x200B;态内容如果选择**添加静态内容**，请输入标题、题注和说明，然后上传图像。查看接下来的两个步骤。
+   如果选择&#x200B;**添加动态内容**，则页面的OpenGraph标记（og:title、og:caption和og:description）的值和缩略图将自动添加到Facebook帖子。 查看下一步。
+
+   如果选择&#x200B;**添加静态内容**，请输入标题、题注和说明，然后上传图像。 查看接下来的两个步骤。
 
 1. 在“视图和编辑”窗口中，单击&#x200B;**显示编辑**&#x200B;以自定义将在Facebook帖子中显示的共享提示和消息。
 
    >[!TIP]
    >
-   >有关详细信息，请参阅[编辑Facebook富帖子设置](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)。
+   >有关详细信息，请参阅[编辑Facebook富帖子设置](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)。
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >[共享URL](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)会自动添加到所有共享消息中。
+   >[共享URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)会自动添加到所有共享消息中。
 
-1. 如果您选择上面的&#x200B;**添加静态****内容**，请编辑标题、题注和说明，并上传自定义图像（从Marketo图像和文件）。
+1. 如果选择上面的&#x200B;**添加静态内容**，请编辑标题、题注和说明，并上传自定义图像（从Marketo图像和文件）。
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   请参阅[将图像和文件添加到Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
+   请参阅[将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
 
    >[!NOTE]
    >
@@ -97,7 +99,7 @@ ht-degree: 0%
 
    如果选择&#x200B;**添加静态**&#x200B;内容，请输入标题、题注和说明，然后上传图像。 查看接下来的两个步骤。
 
-1. 在&#x200B;**视图**&#x200B;和&#x200B;**编辑**&#x200B;窗口中，单击&#x200B;**显示编辑**&#x200B;并编辑将在LinkedIn帖子中显示的共享提示和消息。
+1. 在&#x200B;**视图和编辑**&#x200B;窗口中，单击&#x200B;**显示编辑**&#x200B;并编辑将在LinkedIn帖子中显示的共享提示和消息。
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -105,11 +107,11 @@ ht-degree: 0%
    >
    >在帖子文本中使用{html_title}可自动显示页面标题。
 
-1. 如果选择上面的&#x200B;**添加静态**&#x200B;内容，请编辑标题和说明，并将自定义图像（从Mark **e**&#x200B;上传到图像和文件）。
+1. 如果选择上面的&#x200B;**添加静态**&#x200B;内容，请编辑标题和说明，并上传自定义图像（从Marketo图像和文件）。
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   请参阅[将图像和文件添加到Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
+   请参阅[将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
 
    >[!NOTE]
    >
@@ -123,11 +125,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. 单击&#x200B;**完成** > **批准**&#x200B;和&#x200B;**关闭****。**
+1. 单击&#x200B;**完成** > **批准**&#x200B;和&#x200B;**关闭**。
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->下一步是[将您的视频共享](customize-video-share-flow.md)或[poll](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)添加到登陆页、Facebook或您自己的网站。
-
+>下一步是[将您的视频共享](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)或[poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)添加到登陆页、Facebook或您自己的网站。
