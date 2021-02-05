@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: 将自定义列添加到人员报告- Marketo Docs —— 产品文档
 title: 向人员报表添加自定义列
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,8 @@ ht-degree: 0%
 
    ![](assets/five-1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >
    >您还可以[向Lead Report](add-opportunity-columns-to-a-lead-report.md)添加Opportunity列。
