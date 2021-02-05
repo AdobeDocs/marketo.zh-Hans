@@ -3,9 +3,9 @@ unique-page-id: 1900587
 description: 使用您的专用IP地址发送电子邮件- Marketo Docs —— 产品文档
 title: 使用您的专用IP地址发送电子邮件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 从一个或多个专用IP发送可让您完全控制发送信誉。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >专用IP是附加产品。 并非每个人都有资格向其项目添加专用IP。 您每月需要发送超过100,000封电子邮件，并具备稳定的活动节奏来维护专用IP。 请联系您的CSM，了解有关如何向营销项目添加专用IP的更多信息。
 >
->如果您每月发送的电子邮件少于100,000封，和／或活动量可变，和／或是季节性发件人，您将无法维护专用IP。 Marketo确实为遵守严格最佳实践的客户保留一个单独的可信IP共享池。 如有兴趣，请填写[此调查表](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html)以申请Marketo的可信IP项目。
+>如果您每月发送的电子邮件少于100,000封，和／或活动量可变，和／或是季节性发件人，您将无法维护专用IP。 Marketo确实为遵守严格最佳实践的客户保留一个单独的可信IP共享池。 如有兴趣，请填写[此调查表](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html)以申请Marketo的可信IP项目。
 
 所有Marketo帐户在共享IP上开始，使您能够立即开始邮寄。 如果添加专用IP，您将与可交付性顾问合作来计划IP的供应。
 
@@ -40,9 +38,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->保持数据库清晰，保持高交付性。 [Adobe](http://www.adobe.com/legal/terms/aup.html) 要求客户仅向已选择／请求接收电子邮件的人发送营销通信。不要垃圾邮件。
+>保持数据库清晰，保持高交付性。 [Adobe](https://www.adobe.com/legal/terms/aup.html) 要求客户仅向已选择／请求接收电子邮件的人发送营销通信。不要垃圾邮件。
 
 >[!CAUTION]
 >
->如果出现大量弹回或任何其他问题，请与[Marketo Support](http://nation.marketo.com/t5/Support/ct-p/Support)联系。 如果您希望获得更集中的支持来了解如何维护干净的项目库并增加与您的的互动，可以聘请Marketo的电子邮件交付性顾问来购买自定义服务包。
-
+>如果出现大量弹回或任何其他问题，请与[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)联系。 如果您希望获得更集中的支持来了解如何维护干净的项目库并增加与您的的互动，可以聘请Marketo的电子邮件交付性顾问来购买自定义服务包。
