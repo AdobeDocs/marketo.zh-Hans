@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: 在Salesforce专业版中配置Marketo Sales Insight - Marketo文档——产品文档
 title: 在Salesforce专业版中配置Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '918'
 ht-degree: 0%
 
 ---
@@ -299,9 +299,7 @@ ht-degree: 0%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [优先级、紧急程度、相对得分和最佳赌注](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [向Salesforce添加Marketo Sales Insight选项卡和按钮](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
