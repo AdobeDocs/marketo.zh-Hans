@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: 在Salesforce Classic - Marketo Docs —— 产品文档中使用批量操作
 title: 在Salesforce Classic中使用批量操作
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ ht-degree: 0%
 >
 >您也可以按照相同的步骤在“联系列表”视图中使用批量操作。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [通过组电子邮件发送电子邮件](http://docs.marketo.com/x/KAQ6Ag)
 >* [使用“选择并发送”编写批量电子邮件](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
