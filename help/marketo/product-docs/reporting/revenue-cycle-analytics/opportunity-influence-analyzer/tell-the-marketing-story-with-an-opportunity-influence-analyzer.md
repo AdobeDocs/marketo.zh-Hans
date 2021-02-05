@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: 使用机会影响分析器- Marketo Docs —— 产品文档讲述营销案例
 title: 用机会影响分析器讲述营销故事
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,8 @@ ht-degree: 0%
 
    单击时间轴上的更多橙色圆点，以填写事件、项目和有趣时刻的故事，这些故事帮助我们创造了并关闭了机会。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >
    >    
