@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: 计划A/B测试- Marketo文档——产品文档
 title: 计划A/B测试
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,8 @@ ht-degree: 0%
 
    如果您已定义受众并选择了电子邮件，则剩下的唯一步骤就是批准项目。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
