@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: 创建演示文稿- Marketo Docs —— 产品文档
 title: 创建演示文稿
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 创建演示文稿，在HDTV上投影您团队的日历视图和目标。 Presentations特定于工作区。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
