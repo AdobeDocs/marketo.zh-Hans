@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: 使用Web个性化数据重新定位- Marketo Docs —— 产品文档
 title: 使用Web个性化数据重新定位
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # 使用Web个性化数据重新定位{#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >网站重新定位现在属于Web个性化拼贴。 如果您只购买了“重新定位”，您将看到此拼贴并访问启用了&#x200B;**仅**“重新定位”功能的Web个性化产品。 这使您能够访问帐户设置、重新定位页面、区段和其他跟踪页面。
 
