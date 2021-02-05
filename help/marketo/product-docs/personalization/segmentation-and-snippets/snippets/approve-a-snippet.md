@@ -3,9 +3,9 @@ unique-page-id: 2359463
 description: 批准代码片断- Marketo Docs —— 产品文档
 title: 批准片段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 就这样！ 您的代码片断的状态从“草稿”更改为“已批准”。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [批准非草稿代码片段](approve-a-snippet-with-no-draft.md)
 
