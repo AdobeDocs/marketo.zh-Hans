@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Sales Insight Page for Marketo Admins - Marketo Docs —— 产品文档
 title: Marketo管理员的销售分析页
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,8 @@ Marketo管理员在Sales Insight中具有特定权限。 了解它们的下面�
    >
    >如果您还没有自定义得分字段，下面介绍如何[创建它们](http://docs.marketo.com/x/3wMk)。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >
    >[星与火](http://docs.marketo.com/x/qgU6Ag)
