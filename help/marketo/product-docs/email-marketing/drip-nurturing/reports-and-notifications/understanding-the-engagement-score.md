@@ -3,7 +3,7 @@ unique-page-id: 2359890
 description: 了解参与情况得分- Marketo Docs —— 产品文档
 title: 了解参与情况得分
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 了解参与情况得分{#understanding-the-engagement-score}
 
-参与度得分可让您轻松了解内容在您的参与项目的有效性。 得分范围从0到100。 查看[参与仪表板](the-engagement-dashboard.md)，了解如何跟踪内容的性能。
+参与度得分可让您轻松了解内容在您的参与项目的有效性。 得分范围从0到100。 查看[参与仪表板](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md)，了解如何跟踪内容的性能。
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,9 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [了解参与项目](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-
->
-
-
-
+>[了解参与项目](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
