@@ -3,9 +3,9 @@ unique-page-id: 7504047
 description: 创建收入浏览器报告- Marketo Docs —— 产品文档
 title: 创建收入浏览器报表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 收入浏览器报表允许您跟踪营销活动的ROI。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
