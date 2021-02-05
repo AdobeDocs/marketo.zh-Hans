@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: 选择现有电子邮件——营销文档——产品文档
 title: 选择现有电子邮件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 既然我们已决定要发送什么电子邮件，我们可以设置A/B测试，或者跳过该测试，计划电子邮件项目。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [添加A/B测试](email-test-a-b-test/add-an-a-b-test.md)
 >* [计划电子邮件项目](schedule-your-email-program.md)
