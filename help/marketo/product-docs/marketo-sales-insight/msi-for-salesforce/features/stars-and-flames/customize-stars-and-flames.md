@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: 自定义星星和火焰- Marketo Docs —— 产品文档
 title: 自定义星光和火焰
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo Sales Insight使用星星和火焰来优先确定销售线索。 Marketo自动决定谁得到1-2-3星／火焰。 但是，您可以修改公式。 下面介绍如何：
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
