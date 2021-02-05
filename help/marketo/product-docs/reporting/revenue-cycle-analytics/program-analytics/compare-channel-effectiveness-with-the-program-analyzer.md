@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: 将渠道有效性与项目分析器— Marketo Docs —产品文档进行比较
 title: 将渠道有效性与项目分析器进行比较
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ ht-degree: 0%
 >
 >这些步骤中的示例根据创建的管道衡量有效性。 使用Y轴下拉列表选择其他衡量渠道有效性的方法，如新名称、成员、每次成功的成本等。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用项目分析器了解渠道和项目详细信息](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [将项目有效性与项目分析器进行比较](compare-program-effectiveness-with-the-program-analyzer.md)
