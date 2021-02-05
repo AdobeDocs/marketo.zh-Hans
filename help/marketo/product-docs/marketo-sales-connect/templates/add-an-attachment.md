@@ -3,9 +3,9 @@ unique-page-id: 14352634
 description: 添加附件- Marketo Docs —— 产品文档
 title: 添加附件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # 添加附件{#add-an-attachment}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >如果您使用Marketo Sales Connect，则可以添加附件。 Marketo的标准电子邮件编辑器中不提供此功能。
 
