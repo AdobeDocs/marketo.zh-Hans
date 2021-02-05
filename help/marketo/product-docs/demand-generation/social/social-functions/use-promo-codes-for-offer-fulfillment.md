@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: 使用促销代码进行优惠履行- Marketo Docs —— 产品文档
 title: 使用促销代码进行优惠实施
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. 在引用优惠编辑器中，转至&#x200B;**应用程序设置**，然后转至&#x200B;**优惠详细信息。**
+1. 在引用优惠编辑器中，转至&#x200B;**应用程序设置**，然后转至&#x200B;**优惠详细信息**。
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >
    >促销代码文件中的任何空白将作为该行代码的一部分处理。 请特别小心，避免每行末尾出现尾随空格。
 
 1. 上载完成后，将显示已上载代码的总数。
@@ -52,7 +51,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->只有具有&#x200B;*“访问奖励”*&#x200B;权限的Marketo用户才有权访问此信息。 请参阅[管理用户角色和权限](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
+>只有具有&#x200B;_“访问奖励”_&#x200B;权限的Marketo用户才有权访问此信息。 请参阅[管理用户角色和权限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
 
 1. 转到&#x200B;**营销活动**。
 
