@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: 按收入阶段列出的人员报告- Marketo Docs —— 产品文档
 title: 按收入阶段划分的人员报表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 您可以创建报告，显示您的[收入周期模型](http://docs.marketo.com/display/docs/revenue+cycle+models)的哪个阶段是您的人员所在的。 只要报表的给定日期范围存在人员余额，报表就包括指定模型中的任何阶段。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有Marketo版本都包含此功能。 有关更多详细信息，请与客户经理联系。
 
