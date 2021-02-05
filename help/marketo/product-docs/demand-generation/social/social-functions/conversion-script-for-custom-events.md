@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: 自定义事件的转换脚本- Marketo Docs —— 产品文档
 title: 自定义事件的转换脚本
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 检索转换脚本{#retrieve-the-conversion-script}
 
-1. 在引用优惠编辑器中，单击&#x200B;**优惠详细信息**，然后从实现目标下拉列表中选择&#x200B;**客户JavaScript事件**。
+1. 在引用优惠编辑器中，单击&#x200B;**优惠详细信息**，然后从实现目标下拉菜单中选择&#x200B;**客户JavaScript事件**。
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
@@ -26,9 +26,6 @@ ht-degree: 0%
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >如果两个脚本正在非Marketo网站上，请记住复制和粘贴它们。
 
@@ -60,7 +57,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [指定引用优惠的目标](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [创建推荐优惠](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [在您的网站上部署Social](deploy-social-on-your-website.md)
+>* [指定引用优惠的目标](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [创建推荐优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [在您的网站上部署Social](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
