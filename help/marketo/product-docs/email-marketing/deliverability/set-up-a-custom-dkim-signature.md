@@ -3,9 +3,9 @@ unique-page-id: 2360219
 description: 设置自定义DKIM签名- Marketo Docs —— 产品文档
 title: 设置自定义DKIM签名
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >
    >如果您以传统方式设置自定义DKIM签名，它将继续工作，并应显示在此处。
 
 1. 单击&#x200B;**电子邮件**，然后单击&#x200B;**DKIM**&#x200B;选项卡，最后单击&#x200B;**添加域**。
@@ -37,7 +36,6 @@ ht-degree: 0%
 1. 输入您将在Marketo电子邮件中用作发件人地址的域，然后单击&#x200B;**添加**。
 
    >[!TIP]
-   >
    >
    >如果您在发件人地址中使用其他域，我们将使用Marketto共享DKIM签名。
 
@@ -53,14 +51,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
    >如果确认失败，且您的IT人员已正确创建记录，则可能是DNS传播的问题。 稍后再试。
 
    >[!CAUTION]
    >
-   >
    >修改／删除相应的DNS记录将会损害交付能力。 在进行DNS更改之前，请确保删除Marketo中的条目。
 
    这将完全有助于您提供电子邮件。 您应当获得验证，确认记录已存在且正确。
-
