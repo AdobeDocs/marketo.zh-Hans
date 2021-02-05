@@ -3,9 +3,9 @@ unique-page-id: 2950524
 description: 在您的网站上部署Social - Marketo Docs —— 产品文档
 title: 在您的网站上部署Social
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在非营销人员页面上嵌入社交应用程序。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >有关更多详细信息，请与销售代表联系。
 
@@ -27,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. 从社交应用程序操作中选择&#x200B;**嵌入** **代码**** **。
+1. 从“社交应用程序操作”中选择&#x200B;**嵌入代码**。
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,19 +41,15 @@ ht-degree: 0%
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. 如果您需要将社交应用程序的大小设置为页面上的特定尺寸，请将&#x200B;**outerHeight**&#x200B;和&#x200B;**outerWidth**&#x200B;选项添加到第二个代码片断中。 例如，可以添加选项=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;，如下所示：
+1. 如果您需要将社交应用程序的大小设置为页面上的特定尺寸，请将&#x200B;**outerHeight**&#x200B;和&#x200B;**outerWidth**&#x200B;选项添加到第二个代码片断中。 例如，可以添加`options='{"outerHeight":400, "outerWidth":600}'`，如：
 
    ![](assets/socialonsite-resizewidget2.png)
 
    您的Marketo社交应用程序现在将内容和交互性添加到您的网站，邀请粉丝、访客和现有客户传播关于您的消息。 同时，它将用户档案数据添加到您的数据库中并跟踪社会影响指标。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >* [自定义社交应用程序按钮](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [设置社交共享要求](set-social-share-requirement.md)
-   >* [将登陆页发布到Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [自定义社交应用程序按钮](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [设置社交共享要求](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [将登陆页发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 
