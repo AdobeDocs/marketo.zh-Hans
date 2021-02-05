@@ -3,7 +3,7 @@ unique-page-id: 10098134
 description: 将项目添加到参与项目流- Marketo Docs —— 产品文档
 title: 将项目添加到参与项目流
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 设计良好的嵌套项目包含电子邮件、报表和智能活动。 把它们放在一起是合理的。
 
-您使用的电子邮件可以存放在项目、其他项目，甚至Design Studio中。 它住在哪里取决于你想怎样使用它。
+您使用的电子邮件可以存放在项目、不同项目，甚至Design Studio中。 它住在哪里取决于你想怎样使用它。
 
 报告会随电子邮件位置而改变。 因此，例如，如果电子邮件位于Design Studio和电子邮件性能报告中，所有指标都会显示在一行中——不同的评测会被组合。 但是，在参与流绩效报告中，会单独显示不同的发送。
 
@@ -57,10 +57,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [向流中添加内容](add-content-to-a-stream.md)
->* [了解项目](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
-
->
-
-
+>* [向流中添加内容](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [了解项目](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 
