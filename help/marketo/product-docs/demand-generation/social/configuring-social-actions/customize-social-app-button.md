@@ -3,7 +3,7 @@ unique-page-id: 2359759
 description: 自定义社交应用程序按钮- Marketo Docs —— 产品文档
 title: 自定义社交应用程序按钮
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 自定义社交应用程序按钮{#customize-social-app-button}
 
-创建[社交按钮](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)或[引用优惠](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，可以自定义按钮的外观。
+创建[社交按钮](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)或[引用优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，可以自定义按钮的外观。
 
 1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择应用程序，然后单击“编辑草稿”。****
+1. 选择应用程序，然后单击“编辑草稿&#x200B;**”。**
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
@@ -61,5 +61,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->对于社交按钮，[在打开时配置](configure-when-social-button-opens.md)。 对于引用优惠,[指定优惠目标](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)。
-
+>对于社交按钮，[在打开时配置](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)。 对于引用优惠,[指定优惠目标](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)。
