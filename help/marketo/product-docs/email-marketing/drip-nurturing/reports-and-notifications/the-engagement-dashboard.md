@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: 参与仪表板-营销文档——产品文档
 title: 参与仪表板
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 参与仪表板{#the-engagement-dashboard}
 
-参与仪表板是查看[参与项目](http://docs.marketo.com/display/docs/drip+nurturing)中的内容表现的最简单方法。
+参与仪表板是查看您的参与项目中内容的效果的最简单方法。
 
 >[!NOTE]
 >
->每次演出后72小时计算参与得分。 进一步了解[参与情况得分](understanding-the-engagement-score.md)。
+>每次演出后72小时计算参与得分。 进一步了解[参与情况得分](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 ## 视图参与仪表板{#view-the-engagement-dashboard}
 
-选择您的参与项目，然后单击&#x200B;**视图>仪表板**。
+选择您的参与项目并单击&#x200B;**视图** > **仪表板**。
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->有关更详细的统计信息，请查看[参与流性能报告](engagement-stream-performance-report.md)。
+>有关更详细的统计信息，请查看[参与流性能报告](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)。
 
 ## 了解耗尽小部件{#understand-the-exhaustion-widget}
 
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 显示一段时间内的平均参与度得分以及内容编辑的影响。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >此功能是利用Marketo的Revenue Cycle Explorer的客户的附加功能。 有关更多详细信息，请联系您的客户成功经理。
 
@@ -69,11 +67,8 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Newestand* Oldestare基 ** 于上次批准的时间。
+_Newestand_ Oldestare基 __ 于上次批准的时间。
 
 >[!NOTE]
 >
->**深潜**
->
->请阅读[创建参与项目](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)深入了解更多信息。
-
+>请阅读[创建参与项目](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)深入了解更多信息。
