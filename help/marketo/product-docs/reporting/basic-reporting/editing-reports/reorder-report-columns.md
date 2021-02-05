@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: 重新排序报告列- Marketo Docs —— 产品文档
 title: 重新排序报表列
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ ht-degree: 0%
 
    您可以重复这些步骤，直到列以最适合您的顺序显示。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
