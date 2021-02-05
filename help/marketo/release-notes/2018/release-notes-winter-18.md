@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: 发行说明——冬季18 —— 营销文档——产品文档
 title: 发行说明- 1918年冬季
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Marketo正在利用我们的大活动体系结构来增加触发活动吞吐量�
 
 ## [营销人员绩效洞察](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >Performance Insights是一款附加产品。 请联系您的营销人员客户成功经理或客户经理获取报价。
 
