@@ -3,9 +3,9 @@ unique-page-id: 2359799
 description: 发布抽奖- Marketo Docs —— 产品文档
 title: 发布抽奖
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,13 @@ ht-degree: 0%
 
 # 发布抽奖{#publish-a-sweepstakes}
 
-在[创建抽奖](create-sweepstakes.md)后，您可以在Marketo登陆页、网站和Facebook上发布抽奖。
+在[创建抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)后，您可以在Marketo登陆页、网站和Facebook上发布抽奖。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
 >[!NOTE]
->
->**提醒**
 >
 >在发布优惠之前，请确认其符合所有适用法律、法规和规章。
 
@@ -41,12 +37,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >您需要批准抽奖，才能在此处提供抽奖。
 
-   [将登陆页发布](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [到网站上的Facebookput抽奖](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   恭喜！ 批准登陆页，您的抽奖即刻开始。 您还可以[将登陆页发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或[将抽奖放在您的网站](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)上。
 
    >[!TIP]
    >
@@ -54,6 +47,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >开始注册后，请记住返回应用程序至[选择抽奖得主](select-sweepstakes-winners.md)!
-
-恭喜！ 批准登陆页，您的抽奖即刻开始。 您也可以或。
+   >开始注册后，请记住返回应用程序至[选择抽奖得主](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
