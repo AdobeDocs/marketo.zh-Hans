@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: 添加移动应用程序- Marketo Docs —— 产品文档
 title: 添加移动应用程序
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,8 @@ ht-degree: 0%
 
 应用程序通常在沙箱环境中开始，在沙箱中执行初始开发和测试。 然后，开发人员使用生产环境构建客户将使用的最终应用程序。 添加移动应用程序时，必须选择相应的通知证书（请参阅下面的步骤4）。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
