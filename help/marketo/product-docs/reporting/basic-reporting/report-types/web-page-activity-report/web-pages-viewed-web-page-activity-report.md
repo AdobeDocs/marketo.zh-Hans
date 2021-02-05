@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: 已查看的网页、网页活动报告- Marketo Docs —— 产品文档
 title: 已查看的网页、网页活动报告
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a54-3a12.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >
    >创建[公司Web活动报告](../../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)，查看哪些公司正在访问您的站点。
