@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: 批准分段- Marketo Docs —— 产品文档
 title: 批准分段
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 >
 >如果您在审批过程中收到错误消息并需要帮助降低分段的复杂性，请与[营销人员支持](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)联系。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在智能过滤器中使用细分列表](use-segment-filters-in-a-smart-list.md)
 
