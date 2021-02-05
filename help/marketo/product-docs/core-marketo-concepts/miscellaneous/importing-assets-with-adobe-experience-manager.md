@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: 使用Adobe Experience Manager导入资产- Marketo Docs —— 产品文档
 title: 使用Adobe Experience Manager导入资源
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 资产选取器允许Marketo客户访问、选择AEM资产并将其导入Marketo的Design Studio。 **需要管理员权限**。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关详细信息，请联系您的客户成功经理。
 
