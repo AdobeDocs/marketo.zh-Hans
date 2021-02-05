@@ -3,9 +3,9 @@ unique-page-id: 2359498
 description: 预览片段- Marketo Docs —— 产品文档
 title: 预览片段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 预览确保您的内容适合每个细分。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [批准片段](approve-a-snippet.md)
 
