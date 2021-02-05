@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 使用注册代码- Marketo Docs —— 产品文档安装Outlook的Marketo Email Add-in
 title: 使用注册代码安装Outlook的Marketo Email Add-in
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ ht-degree: 0%
 
 进一步了解如何使用Marketo消息和日志与Marketo操作。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用Outlook的Marketo电子邮件插件发送和跟踪电子邮件](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [使用Marketo模板从Outlook发送和跟踪](send-and-track-from-outlook-using-a-marketo-template.md)
