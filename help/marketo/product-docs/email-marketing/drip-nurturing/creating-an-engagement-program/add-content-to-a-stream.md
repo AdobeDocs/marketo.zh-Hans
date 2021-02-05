@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: 将内容添加到流- Marketo Docs —— 产品文档
 title: 向流中添加内容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >智能活动中必须包含&#x200B;**参与项目成员**&#x200B;过滤器，才能正常工作。
 
 **流+图标**
@@ -118,9 +115,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [将项目添加到参与项目流](adding-a-program-to-an-engagement-program-stream.md)
-
->
-
-
-
+>[将项目添加到参与项目流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
