@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: 创建分段- Marketo Docs —— 产品文档
 title: 创建分段
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ ht-degree: 0%
    >
    >您需要先定义细分规则，然后才能使用细分。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
