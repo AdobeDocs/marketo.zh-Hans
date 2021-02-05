@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: 为数字广告活动设置收入归因- Marketo Docs —— 产品文档
 title: 为数字广告活动设置收入归因
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ ht-degree: 0%
 >* 创建或编辑表单以将查询字符串传递给人员
 >* 确保您有权使用某些收入周期分析功能来报告您的广告渠道和活动
 
->
-
-
 
 ## 创建默认项目{#create-a-default-program}
 
@@ -41,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. 如果已经有项目，可以[克隆它](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)。
+1. 如果已经有项目，可以[克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)。
 
    >[!TIP]
    >
@@ -53,15 +50,11 @@ ht-degree: 0%
    >
    >**示例**
    >
-   >
    >通过URL传递的查询字符串有助于Market了解某人成为Marketo中的人时点击了哪个广告活动。
-   >
    >
    >您可以创建包含要度量的所有变量的查询字符串方法。 Marketo使用这些变量将人添加到您的不同项目。
    >
-   >
    >例如，您可以使用渠道类型渠道资产区域。 这可能是：SP_FB_NewGuide_US。 **注意**:缩写节省空间。
-   >
    >
    >或者，将其设置为渠道_Adsource_AssetName_Region_UniqueIdNumber。 这可能是：Social-Paid_Facebook_NewGuide_NA_123。
 
@@ -95,7 +88,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >上例显示**Converted, **，但这取决于您的状态／成功值。
+   >上面的示例显示&#x200B;**Converted**，但这取决于您的状态／成功值。
 
 1. 计划并激活活动。
 
@@ -112,21 +105,16 @@ ht-degree: 0%
    >
    >**示例**
    >
-   >
    >下面介绍如何将设置的所有信息添加到实际URL。 这些项目用和号(&amp;)分隔：
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;**k=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **来** 源是用作渠道标识符的人员来源
-   >    * **注** 释为每个项目创建的唯一标识符
-   >    * **** Facebook、LinkedIn或Google中的活动
-   >    * **** kkis您要捕获的关键字或资产名称
+   >* **来** 源是用作渠道标识符的人员来源
+   >* **注** 释为每个项目创建的唯一标识符
+   >* **** Facebook、LinkedIn或Google中的活动
+   >* **** kkis您要捕获的关键字或资产名称
 
-   >    
-   >    
+   >
    >**这四个术语必须全为小写，并且URL中不能有任何空格来捕获此信息。**
 
 ## 最佳实践{#best-practices}
