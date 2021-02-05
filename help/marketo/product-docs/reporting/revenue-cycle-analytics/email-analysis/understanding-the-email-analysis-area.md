@@ -3,9 +3,9 @@ unique-page-id: 4718651
 description: 了解电子邮件分析区——营销文档——产品文档
 title: 了解电子邮件分析区
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,14 @@ ht-degree: 0%
 
 电子邮件分析区域重点介绍电子邮件指标。 本文介绍了它中的所有可用报告。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >具有Select Edition或[Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)加载项的用户可使用此功能。 有关详细信息，请与销售代表联系。
 
 ## 电子邮件单击活动热网格{#email-click-activity-heat-grid}
 
-此报表显示您的潜在客户单击电子邮件的一周中的哪一天和一天中的时间。 在特定的日期和时间，更绿色的方框会更多点击。 当前过滤器包括过去7天内发送的所有电子邮件。 时间在CST。
+此报表显示您的潜在客户单击电子邮件的一周中的哪一天和一天中的时间。 在特定的日期和时间内，更环保的方框可以更多点击。 当前过滤器包括过去7天内发送的所有电子邮件。 时间在CST。
 
 ![](assets/image2015-5-6-17-3a17-3a34.png)
 
