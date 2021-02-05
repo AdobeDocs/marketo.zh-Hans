@@ -3,9 +3,9 @@ unique-page-id: 2360181
 description: 跟踪匿名活动和人员- Marketo Docs —— 产品文档
 title: 跟踪匿名活动和人员
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,8 @@ ht-degree: 0%
    >
    >当匿名记录合并到新记录或现有人员记录中时，自定义字段值将&#x200B;**不**&#x200B;转移。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
