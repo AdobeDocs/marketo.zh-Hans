@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: 冠军／挑战者——定义冠军标准- Marketo文档——产品文档
 title: 冠军／挑战者——定义冠军标准
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ ht-degree: 0%
 
    太好了！ 现在该计划报告了。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
