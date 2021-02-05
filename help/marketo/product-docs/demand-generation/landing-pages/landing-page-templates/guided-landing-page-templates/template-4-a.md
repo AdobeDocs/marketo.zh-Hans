@@ -3,9 +3,9 @@ unique-page-id: 8162237
 description: 模板4-A - Marketo Docs —— 产品文档
 title: 模板4-A
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板4-A {#template-a}
 
-右键单击[下载模板4-A](http://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&amp;modificationdate=1435255108000&amp;api=v2)
+[下载模板4-A](https://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&amp;modificationdate=1435255108000&amp;api=v2)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 五个正文部分（可选）
 * 页脚（可选）
 
-**右键单击下面以下载此模板：**
+**单击下面以下载此模板：**
 
-[Template4-A.html](http://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&amp;modificationdate=1435255108000&amp;api=v2)
+[Template4-A.html](https://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&amp;modificationdate=1435255108000&amp;api=v2)
