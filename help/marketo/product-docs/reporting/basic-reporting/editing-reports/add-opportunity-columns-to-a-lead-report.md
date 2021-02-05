@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: 向潜在客户报告添加业务机会列- Marketo Docs —— 产品文档
 title: 向潜在客户报表添加业务机会列
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,8 @@ ht-degree: 0%
    | 结束天数 | 完成机会的平均天数。 |
    | 销售天数 | 销售周期的平均长度(Days To Opportunity + Days to Close)。 |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >
    >了解如何[管理报表的大小](configure-report-size.md)。
