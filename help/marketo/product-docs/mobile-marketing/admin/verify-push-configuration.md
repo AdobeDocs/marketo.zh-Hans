@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: 验证推送配置- Marketo Docs —— 产品文档
 title: 验证推送配置
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)   一切就绪！现在，您可以开始发送推送通知![(smile)](assets/smile.svg)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [创建推送通知](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
