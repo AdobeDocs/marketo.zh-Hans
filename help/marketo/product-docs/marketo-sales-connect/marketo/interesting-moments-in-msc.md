@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: MSC - Marketo Docs —— 产品文档中的有趣时刻
 title: MSC中的有趣时刻
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 有趣的时刻是通过Marketo Sales Connect与销售团队进行沟通的关键。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >这些选项仅适用于[ Marketo Sales Insight](http://docs.marketo.com/x/2Akt)和Marketo Sales Connect客户。
 
