@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: 性能分析概述- Marketo Docs —— 产品文档
 title: 性能分析概述
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 营销绩效洞察可帮助您优化渠道组合，以获得最佳效果，并揭示长期趋势，找出一致的赢取策略。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都具有性能分析功能。 请联系您的客户成功经理以了解更多信息。
 
