@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: 活动电子邮件性能报告- Marketo Docs —— 产品文档
 title: 活动电子邮件性能报告
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ ht-degree: 0%
    >
    >一般来说，我们试图用常识来记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，他们显然会先打开它。 有关我们遵循的特定规则，请参阅[电子邮件性能报告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
