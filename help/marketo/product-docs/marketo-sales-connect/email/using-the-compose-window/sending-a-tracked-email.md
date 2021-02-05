@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: 发送跟踪的电子邮件——营销人员文档——产品文档
 title: 发送跟踪的电子邮件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
