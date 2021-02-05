@@ -3,7 +3,7 @@ unique-page-id: 10096409
 description: 避免发送重复内容- Marketo Docs —— 产品文档
 title: 避免发送重复内容
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 | 默认项目内的活动，从&#x200B;**不同的** CEE项目内的转播触发 | 默认项目的成员 | 否 |
 | 默认项目内的活动，从&#x200B;**不同的** CEE项目内的转播触发 | 不是默认项目的成员 | 是 |
 | 使用智能流的&#x200B;**不同的** CEE项目 | 两个CEE项目的成员 | 否 |
-
