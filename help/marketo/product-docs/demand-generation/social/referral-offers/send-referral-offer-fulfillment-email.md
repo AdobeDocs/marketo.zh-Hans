@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: 发送推荐优惠履行电子邮件- Marketo文档——产品文档
 title: 发送推荐优惠履行电子邮件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在社交促销中使用电子邮件](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [创建推荐优惠](create-a-referral-offer.md)
-
->
-
+>* [在社交促销中使用电子邮件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [创建推荐优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
 ## 设置履行投放{#set-up-fulfillment-delivery}
@@ -30,11 +27,9 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. 在&#x200B;**应用程序设置**&#x200B;下，选择&#x200B;**优惠详细信息。**
+1. 在“**应用程序设置**”下，选择“优惠详细信息&#x200B;**”。**
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. 选择&#x200B;**注册电子邮件**。
 
@@ -46,10 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**深潜**
-   >
-   >
-   >了解有关在社交促销中使用电子邮件的更多信息[。](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+   >了解有关在社交促销中使用电子邮件的更多信息](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)。[
 
 1. 单击&#x200B;**履行投放**&#x200B;下拉框，选择目标&#x200B;**上的**&#x200B;自动。
 
@@ -65,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. 单击“**筛选依据**”选项，然后选择&#x200B;**目标**。
+1. 单击&#x200B;**筛选条件**&#x200B;选项，然后选择&#x200B;**目标**。
 
    >[!NOTE]
    >
