@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: 定义细分规则——营销文档——产品文档
 title: 定义区段规则
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 >
 >“人员（草稿）”屏幕显示所有有资格成为会员的人员，并且并不总是人员的最终列表。 批准您的区段，以查看最终列表。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [批准分段](approve-a-segmentation.md)
 
