@@ -3,9 +3,9 @@ unique-page-id: 10092890
 description: 模板19-A - Marketo Docs —— 产品文档
 title: 模板19-A
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板19-A {#template-a}
 
-右键单击[下载模板19-A](http://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
+[下载模板19-A](https://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 五个正文部分（可选）
 * 页脚
 
-右键单击下面以下载此模板：
+**单击下面以下载此模板：**
 
-[Template19-A.html](http://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
+[Template19-A.html](https://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
