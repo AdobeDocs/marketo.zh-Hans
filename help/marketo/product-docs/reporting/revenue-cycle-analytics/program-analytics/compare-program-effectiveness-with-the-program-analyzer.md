@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: 将项目有效性与项目分析器— Marketo Docs —产品文档进行比较
 title: 将项目有效性与项目分析器进行比较
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,9 +90,7 @@ ht-degree: 0%
 >
 >您可以快速比较一个渠道中的项目与另一个中的数据。 只需使用窗口顶部的&#x200B;**渠道过滤器**&#x200B;添加更多渠道。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用项目分析器了解渠道和项目详细信息](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [将渠道有效性与项目分析器进行比较](compare-channel-effectiveness-with-the-program-analyzer.md)
