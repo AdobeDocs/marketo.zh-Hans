@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Google Universal Analytics中的自定义RTP报告- Marketo Docs —— 产品文档
 title: Google Universal Analytics中的自定义RTP报告
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -220,9 +220,7 @@ ht-degree: 0%
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[将RTP与Google Universal Analytics集成](integrate-rtp-with-google-universal-analytics.md)
 >
