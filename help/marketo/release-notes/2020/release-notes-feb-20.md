@@ -3,9 +3,9 @@ unique-page-id: 37355826
 description: 发行说明-2020年2月- Marketo Docs —— 产品文档
 title: 发行说明- 2020年2月
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 2020年2月版包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >由星(![(star)](assets/star-yellow.svg))表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
 
