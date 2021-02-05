@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: 启用内容推荐栏- Marketo Docs —— 产品文档
 title: 启用内容推荐栏
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,6 @@ ht-degree: 0%
 * 推荐引擎中运行的内容越多，算法就越能测试和了解哪些内容最适合。 我们建议从10到20个内容片段开始运行并保持活动状态，并不断添加新内容。
 * 您为推荐启用的内容片段应包括RTP Javascript标签。 这有助于算法跟踪和优化推荐内容。
 
->[!NOTE]
-**相关文章**
+>[!MORELIKETHIS]
 * [为Web富媒体启用预测内容](enable-predictive-content-for-web-rich-media.md)
 
