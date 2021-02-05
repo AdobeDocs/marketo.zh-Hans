@@ -3,7 +3,7 @@ unique-page-id: 2359811
 description: 选择社交应用程序- Marketo Docs —— 产品文档的共享URL
 title: 选择社交应用程序的共享URL
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -35,21 +35,13 @@ ht-degree: 0%
    >
    >**定义**
    >
-   >
    >“共享帖子”可以链接到三个位置：
    >
-   >    
-   >    
-   >    * **引用页面**:包含应用程序的页面。
-   >    * **其他登陆页**:与下拉列表中的营销登陆页不同。
-   >    * **外部URL**:非市场登陆页。
+   >* **引用页面**:包含应用程序的页面。
+   >* **其他登陆页**:与下拉列表中的营销登陆页不同。
+   >* **外部URL**:非市场登陆页。
 
 
 >[!MORELIKETHIS]
 >
->* [将隐私政策添加到社交应用程序](add-your-privacy-policy-to-a-social-app.md)
-
->
-
-
-
+>[将隐私政策添加到社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
