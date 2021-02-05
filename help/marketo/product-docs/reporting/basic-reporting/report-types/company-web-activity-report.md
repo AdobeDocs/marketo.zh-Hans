@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: 公司Web活动报告- Marketo Docs —— 产品文档
 title: 公司Web活动报告
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要查找访问您网站的公司，请对](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)页面视图&#x200B;*列上的报表[进行排序，然后选择*&#x200B;降序排序&#x200B;**。**
+   >要查找访问您网站的公司，请对&#x200B;*页面视图*&#x200B;列上的报表](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)进行排序，然后选择&#x200B;**降序排序**。[
 
    [可为公司Web](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 活动报告选择的列包括：
 
@@ -69,9 +69,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在Web报告中显示人物或匿名访客](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
