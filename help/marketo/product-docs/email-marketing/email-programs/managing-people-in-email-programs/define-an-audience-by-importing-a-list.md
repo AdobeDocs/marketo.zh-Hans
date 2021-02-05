@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: 通过导入受众- Marketo Docs —— 产品文档定义列表
 title: 通过导入受众定义列表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ ht-degree: 0%
 
 太棒了！ 现在，是时候选择已有的电子邮件或创建新电子邮件发送给这些人了。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [选择现有电子邮件](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
