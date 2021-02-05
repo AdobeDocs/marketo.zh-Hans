@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: 使用智能受众定义列表- Marketo Docs —— 产品文档
 title: 使用智能受众定义列表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ ht-degree: 0%
 >
 >使用受众拼贴上的![—](assets/image2014-10-23-16-3a32-3a36.png)按钮，查看将收到电子邮件的人数。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [选择现有电子邮件](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
