@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: 电子邮件发送能力Power Pack —— 如何导入种子列表- Marketo文档——产品文档
 title: 电子邮件交付能力电源包——如何导入种子列表
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 种子列表是多个邮箱提供商（包括Google Apps、Hotmail、Yahoo！等）的电子邮件帐户的列表，这些邮箱提供商用于估计收件箱与垃圾邮件文件夹交付率的。 下面将介绍如何将该列表引入您的Marketo实例。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
@@ -41,9 +39,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您希望将列表&#x200B;**优化列表**&#x200B;设置为250ok以[为您优化](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-)，请选择&lt;a0/>。 如果要选择要包括的种子列表区域，请选择**自定义列表**。
+   >如果您希望将列表&#x200B;**优化列表**&#x200B;设置为250ok以[为您优化](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-)，请选择。 如果要选择要包括的种子列表区域，请选择&#x200B;**自定义列表**。
 
-1. 导出后，列表将在浏览器的下载文件夹中显示为。txt文件。 检索它，并将[import](../../../getting-started/quick-wins/import-a-list-of-people.md)作为静态列表导入到Marketo实例中。
+1. 导出后，列表将在浏览器的下载文件夹中显示为。txt文件。 检索它，并将[import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)作为静态列表导入到Marketo实例中。
 
    ![](assets/five.png)
 
