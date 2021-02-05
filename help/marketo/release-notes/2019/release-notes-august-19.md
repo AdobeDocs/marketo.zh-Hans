@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: 发行说明- 1998年8月- Marketo Docs —— 产品文档
 title: 发行说明- 1919年8月
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ ht-degree: 0%
 * **入门培训：** 分步演练通过指导新用户完成实例设置，使入门培训更简单、高效。
 * **人员页面布局增强：** 通过列表导入和新人员页面布局中的批量操作来管理您的人员和组。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >由星(![(star)](assets/star-yellow.svg))表示的特征是付费附加项。 请联系您的营销人员代表以了解更多信息。
 
