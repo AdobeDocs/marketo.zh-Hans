@@ -3,9 +3,9 @@ unique-page-id: 3571737
 description: 在Microsoft Dynamics 2013中安装和配置Marketo Sales Insight - Marketo Docs —— 产品文档
 title: 在Microsoft Dynamics 2013中安装和配置Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -156,9 +156,7 @@ Marketo Sales Insight是一款绝佳的工具，可让您的销售团队“了�
 
 您现在已为您的销售团队解锁了Marketo Sales Insight的强大功能。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[为潜在客户／联系人记录设置星星和火焰](http://docs.marketo.com/x/BICMAg)
 
