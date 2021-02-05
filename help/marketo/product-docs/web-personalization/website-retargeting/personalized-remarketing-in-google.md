@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Google中的个性化再营销- Marketo Docs —— 产品文档
 title: Google中的个性化再营销
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-15-18-3a47-3a21.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用Web个性化数据重新定位](retargeting-with-web-personalization-data.md)
 >* [Facebook中的个性化再营销](personalized-remarketing-in-facebook.md)
