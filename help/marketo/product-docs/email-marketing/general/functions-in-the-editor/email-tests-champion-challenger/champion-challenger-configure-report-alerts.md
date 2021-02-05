@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: 冠军／挑战者——配置报告警报——营销文档——产品文档
 title: 冠军／挑战者——配置报告警报
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,8 @@ Marketo将向您发送有关电子邮件测试进展情况的报告。 下面介
 
    报告将包含有用的详细信息，如：测试类型、入选方标准、打开的电子邮件数量等。 还会有一个指向测试本身的直接链接，允许您声明入选方！ 酷东西。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
