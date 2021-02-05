@@ -3,9 +3,9 @@ unique-page-id: 10097873
 description: 为预测性内容活动定义智能列表- Marketo Docs —— 产品文档
 title: 为预测性内容列表定义智能活动
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -72,9 +72,8 @@ ht-degree: 0%
 
    [为批智能列表定义智能活动](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
