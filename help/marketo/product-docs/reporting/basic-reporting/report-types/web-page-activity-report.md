@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: 网页活动报告- Marketo Docs —— 产品文档
 title: 网页活动报告
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要了解谁访问您的网站最多，请在[](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)页面视图符&#x200B;*列上对报告[ ](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)进行排序，然后选择降序排序。*
+   >要了解谁访问您的网站最多，请在&#x200B;*页面视图符*&#x200B;列上对报告](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)进行排序，然后选择降序排序。[
 
    [Marketo可向](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 您的访客库添加匿名网站，您可以选择在此报告中显示这些数据。它提供了大量信息，尽管它们是匿名的。\
    [可以为网页](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 活动报告选择的列包括：
@@ -83,9 +83,8 @@ ht-degree: 0%
 >
 >激动销售代表！ [筛选其](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)所在地区的报 [告并订阅它们](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
 >
 >* [已查看的网页、网页活动报告](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [在Web报告中显示人物或匿名访客](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
