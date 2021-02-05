@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Sales Connect快速入门- Marketo Docs —— 产品文档
 title: 销售连接入门
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 如果您希望观看这些步骤而不是阅读它们，请直接跳到](#video)下面的[视频说明。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关更多信息，请联系您的客户成功经理。
 
