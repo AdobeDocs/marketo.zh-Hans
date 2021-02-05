@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: 计划您的电子邮件项目-营销文档——产品文档
 title: 计划电子邮件项目
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
 
    那有多简单？ 剩下的唯一事情就是[批准电子邮件项目](approve-unapprove-an-email-program.md)，您就可以走了。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [计划电子邮件项目(带收件人时区)](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [电子邮件开始主管](head-start-for-email-programs.md)
