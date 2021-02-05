@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: 使用项目分析器- Marketo Docs —— 产品文档浏览渠道和项目详细信息
 title: 使用项目分析器了解渠道和项目详细信息
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,8 @@ ht-degree: 0%
 >* [创建项目分析器](create-a-program-analyzer.md)
 
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有Marketo版本都包含此功能。 有关更多详细信息，请与客户经理联系。
 
