@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: 发行说明- 2020年7月- Marketo Docs —— 产品文档
 title: 发行说明- 2020年7月
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 2020年7月版包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >请注意，具有星形(![(star)](assets/star-yellow.svg))的项目可能需要购买值附加项，具体取决于您当前的软件包。 请联系您的Marketo Engage代表以了解更多信息。
 
