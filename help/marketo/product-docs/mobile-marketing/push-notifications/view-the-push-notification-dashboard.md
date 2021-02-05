@@ -3,9 +3,9 @@ unique-page-id: 10096523
 description: 视图推送通知仪表板- Marketo Docs —— 产品文档
 title: 视图推送通知仪表板
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,8 @@ ht-degree: 0%
    >
    >**Sent**&#x200B;度量反映的发送量可能比推送通知发送到的确切人数多。 这是因为它是根据有资格接收您的推送的设备&#x200B;*数量计算的。*&#x200B;例如，如果一个人有三台设备，仪表板会注册三个发送，而不是一个。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
