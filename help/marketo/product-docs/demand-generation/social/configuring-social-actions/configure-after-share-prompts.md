@@ -3,7 +3,7 @@ unique-page-id: 2359813
 description: 配置共享后提示- Marketo文档——产品文档
 title: 配置共享后提示
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. 在社交应用程序编辑器中，转至&#x200B;**应用程序设置**** **，然后转至&#x200B;**高级选项**。
+1. 在社交应用程序编辑器中，转至&#x200B;**App Settings**，然后转至&#x200B;**Advanced Options**。
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -57,4 +57,3 @@ ht-degree: 0%
 1. 编辑电子邮件地址请求和营销提示（如果包含）。
 
    ![](assets/image2015-4-21-12-3a52-3a49.png)
-
