@@ -3,7 +3,7 @@ unique-page-id: 2359949
 description: 在参与项目中暂停人员——营销文档——产品文档
 title: 在参与项目中暂停人员
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 在参与项目中暂停人员{#pause-people-in-an-engagement-program}
 
-当某人是参与项目的成员时，他们将收到内容，直到他们[用尽了所有内容](people-who-have-exhausted-content.md)。 您可以使用[更改参与项目节奏](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)流程步骤来阻止用户接收内容，即使他们尚未用尽内容。
+当某人是参与项目的成员时，他们将收到内容，直到他们[用尽了所有内容](people-who-have-exhausted-content.md)。 您可以使用[更改参与项目节奏](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)流程步骤来阻止用户接收内容，即使他们尚未用尽内容。
 
 1. 选择参与项目。
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. 选择**已暂停**作为&#x200B;**新值**&#x200B;以阻止人员接收内容。
+1. 选择&#x200B;**暂停**&#x200B;作为&#x200B;**新值**&#x200B;以阻止人员接收内容。
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
@@ -28,4 +28,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >暂停人员将阻止他们接收内容，但如果达到标准，他们仍会在流之间过渡。
-
