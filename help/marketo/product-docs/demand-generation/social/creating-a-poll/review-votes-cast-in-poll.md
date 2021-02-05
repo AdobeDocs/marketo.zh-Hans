@@ -3,9 +3,9 @@ unique-page-id: 2359777
 description: 审核投票- Marketo Docs —— 产品文档
 title: 审核投票
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,6 @@ ht-degree: 0%
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >
-   >在[视图社交绩效](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md)中进一步了解您的应用程序的社交范围和影响。
-
+   >在[视图社交绩效](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)中进一步了解您的应用程序的社交范围和影响。
