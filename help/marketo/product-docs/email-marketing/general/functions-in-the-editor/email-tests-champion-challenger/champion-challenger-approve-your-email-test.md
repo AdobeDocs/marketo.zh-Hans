@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: 冠军／挑战者——批准您的电子邮件测试——营销文档——产品文档
 title: 冠军／挑战者——批准电子邮件测试
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,8 @@ ht-degree: 0%
 
    那不容易吗？ 收到一些报告后，您将要宣布为冠军。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
