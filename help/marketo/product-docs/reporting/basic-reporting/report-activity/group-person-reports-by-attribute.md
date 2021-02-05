@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: 按属性分组人员报告- Marketo Docs —— 产品文档
 title: 按属性分组人员报表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,8 @@ ht-degree: 0%
    >
    >在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)深入了解有关人员报告和其他报告类型的更多信息。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
