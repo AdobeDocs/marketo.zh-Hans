@@ -3,9 +3,9 @@ unique-page-id: 2359829
 description: 在表单（社交）上启用社交表单填写- Marketo文档——产品文档
 title: 在表单上启用社交表单填写（社交）
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 允许访客使用其社交网络填写表单。 您可以自动获得额外数据，并获得更快的体验。 这是方法。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
@@ -39,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >看看如果人们使用社交按钮，[数据营销人员将捕获](manage-social-profile-data.md)什么。
+   >看看如果人们使用社交按钮，[数据营销人员将捕获](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)什么。
 
 1. 单击&#x200B;**完成**。
 
