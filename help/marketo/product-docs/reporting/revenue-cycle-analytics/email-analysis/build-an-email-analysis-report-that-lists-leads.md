@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: 构建电子邮件分析报告，列表潜在客户- Marketo Docs —— 产品文档
 title: 生成分析主持的电子邮件列表报告
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # 生成列表潜在的电子邮件分析报告{#build-an-email-analysis-report-that-lists-leads}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
