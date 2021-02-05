@@ -3,9 +3,9 @@ unique-page-id: 2360008
 description: 在Web报告- Marketo Docs —— 产品文档中显示人员或匿名访客
 title: 在Web报告中显示人物或匿名访客
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [跟踪匿名活动和人员](tracking-anonymous-activity-and-people.md)
 
