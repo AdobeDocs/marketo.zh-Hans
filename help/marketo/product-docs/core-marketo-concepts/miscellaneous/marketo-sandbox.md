@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo沙箱- Marketo Docs —— 产品文档
 title: 营销沙箱
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo沙箱是在生产环境中实施之前用于测试目的的附加实例。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关详细信息，请联系您的客户成功经理。
 
