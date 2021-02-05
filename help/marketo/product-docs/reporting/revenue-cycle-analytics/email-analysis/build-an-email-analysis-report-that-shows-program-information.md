@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: 构建显示分析信息- Marketo Docs —— 产品文档的电子邮件项目报告
 title: 生成显示分析信息的电子邮件项目报告
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 按照以下步骤创建电子邮件分析报告，其中将显示按项目渠道分组的电子邮件信息。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
