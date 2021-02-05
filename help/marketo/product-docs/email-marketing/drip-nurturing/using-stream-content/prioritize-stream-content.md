@@ -3,7 +3,7 @@ unique-page-id: 2359834
 description: 排定流内容优先级- Marketo Docs —— 产品文档
 title: 排定流内容的优先级
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    >在播放时，优先级始终从上到下读取。
 
    就这么简单！ 现在，您了解如何排定流内容的优先级。
-
