@@ -3,7 +3,7 @@ unique-page-id: 2359669
 description: 激活和取消激活流内容- Marketo Docs —— 产品文档
 title: 激活和取消激活流内容
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您还可以通过单击顶级的齿轮图标，然后单击&#x200B;**激活所有内容来激活流中的所有内容。**
+   >还可以通过单击顶级的齿轮图标，然后单击&#x200B;**激活所有内容**&#x200B;来激活流中的所有内容。
 
    干得好！ 现在您了解如何在流中激活内容。
 
@@ -45,7 +45,6 @@ ht-degree: 0%
 
    ![](assets/cloneasteam.jpg)
 
-1. 将指针悬停在要取消激活的内容上，单击齿轮图标，然后单击&#x200B;**取消激活。**
+1. 将指针悬停在要取消激活的内容上，单击齿轮图标，然后单击&#x200B;**取消激活**。
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)
-
