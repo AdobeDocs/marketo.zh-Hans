@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: IT的Marketo Outlook插件安装- Marketo Docs —— 产品文档
 title: IT人员安装Marketo Outlook插件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 如果要尝试不同的日志记录级别或用户界面级别，请参阅[Microsoft的交换机完整列表](https://support.microsoft.com/en-us/kb/227091)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[IT人员卸载Marketo Outlook插件](marketo-outlook-plugin-uninstall-by-it.md)
 
