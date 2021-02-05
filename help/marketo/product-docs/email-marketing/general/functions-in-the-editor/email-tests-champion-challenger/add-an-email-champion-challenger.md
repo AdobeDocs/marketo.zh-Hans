@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 添加电子邮件冠军／挑战者——营销文档——产品文档
 title: 添加电子邮件冠军／挑战者
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ ht-degree: 0%
 
 1. 将打开一个新窗口，其中包含不同的测试类型选项。 阅读下面的相关文章，了解每篇文章。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
