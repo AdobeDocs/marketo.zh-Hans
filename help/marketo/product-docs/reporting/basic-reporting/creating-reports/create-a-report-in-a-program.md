@@ -3,9 +3,9 @@ unique-page-id: 2359963
 description: 在项目- Marketo Docs —— 产品文档中创建报告
 title: 在项目中创建报表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -68,11 +68,10 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >您很快会得到大量报告。 切记删除不再需要的报告[。](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)
+   >您很快会得到大量报告。 切记删除不再需要的报告](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)。[
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >
    >可以[更改报告时间帧](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)、[订阅基本报告](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)、[将报告导出到Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)、[以智能列表](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)过滤报告中的人员，以及[更多](http://docs.marketo.com/display/docs/basic+reporting)。
