@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: 使用收入模型过渡- Marketo Docs —— 产品文档
 title: 使用收入模型过渡
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -60,8 +60,6 @@ ht-degree: 0%
 
 干得好！ 您已成功修改模型过渡。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >[批准／取消批准收入模型](approve-unapprove-a-revenue-model.md)
