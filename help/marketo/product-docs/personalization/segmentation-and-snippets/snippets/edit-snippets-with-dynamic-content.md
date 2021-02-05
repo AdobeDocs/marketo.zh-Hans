@@ -3,9 +3,9 @@ unique-page-id: 2359466
 description: 编辑包含动态内容的代码片段- Marketo Docs —— 产品文档
 title: 使用动态内容编辑片段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ ht-degree: 0%
 
 不是那么简单吗？ 现在，您都可以在电子邮件和登陆页上使用这些片段。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [向电子邮件中添加代码片断](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [向登陆页添加代码片断](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
