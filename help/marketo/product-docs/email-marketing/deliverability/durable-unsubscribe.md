@@ -3,7 +3,7 @@ unique-page-id: 10094576
 description: 持久退订- Marketo Docs —— 产品文档
 title: 持久退订
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -55,9 +55,8 @@ Marketo增强了取消订阅功能的行为，使其“耐用”。 我们添加
 
 ## 活动日志{#activity-log}
 
-数据值&#x200B;*updateLeadEmailStatus*&#x200B;和&#x200B;*resetLeadEmailStatus*&#x200B;的数据值更改定义可在[此社区文章](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)中找到。
+数据值&#x200B;_updateLeadEmailStatus_&#x200B;和&#x200B;_resetLeadEmailStatus_&#x200B;的数据值更改定义可在[此社区文章](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)中找到。
 
 >[!MORELIKETHIS]
 >
->[了解取消订阅](understanding-unsubscribe.md)
-
+>[了解取消订阅](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
