@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: 发出Marketo Email Add-in许可证- Marketo Docs —— 产品文档
 title: 发出营销人员电子邮件插件许可证
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ ht-degree: 0%
 * **[企业密钥安装](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**:当销售代表没有公司笔记本电脑的管理员权限且无法安装插件、软件等时，请使用此方法。上。 在这种情况下，市场营销人员会向授权用户的列表颁发许可证。 然后，IT团队使用企业密钥将插件远程部署到所有授权用户的计算机。 插件用户随后授权它。
 * **[注册代码安装](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**:当销售代表确实有权管理其公司笔记本电脑并可以安装插件、软件等时，请使用此方法。上。 对于此过程，Marketo管理员向授权用户的列表颁发许可证，并直接通过下载链接向他们发送注册电子邮件。 销售代表会收到一封电子邮件，其中包含插件下载链接和唯一的注册URL。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
