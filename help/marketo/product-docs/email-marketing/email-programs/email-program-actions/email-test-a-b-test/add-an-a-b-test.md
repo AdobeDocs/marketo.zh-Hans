@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: 添加A/B测试- Marketo文档——产品文档
 title: 添加A/B测试
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
    >
    >如果您的重复库中有测试记录，这些记录将收到&#x200B;**测试和入选电子邮件。**&#x200B;要防止这种情况发生，请确保[在重复库中查找并合并](http://docs.marketo.com/x/G4EI)。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用“主题行”A/B测试](use-subject-line-a-b-testing.md)
 >* [使用“整封电子邮件”A/B测试](use-whole-email-a-b-testing.md)
