@@ -3,7 +3,7 @@ unique-page-id: 2359839
 description: 测试参与流- Marketo Docs —— 产品文档
 title: 测试参与流
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 单击**项目操作**并选择&#x200B;**测试流**。
+1. 单击&#x200B;**项目操作**&#x200B;并选择&#x200B;**测试流**。
 
    ![](assets/three.png)
 
-1. 从“**测试人员**”下拉列表中选择您的人员。 请记住，内容实际上会消失，因此在选择时请牢记这一点。
+1. 从&#x200B;**测试人员**&#x200B;下拉列表中选择您的人员。 请记住，内容实际上会消失，因此在选择时请牢记这一点。
 
    ![](assets/four-rubix.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    单击“初始流”，选择要测试的流，然后单击“运行转换”。
    ![](assets/five-rubiks.png)
 
-1. 在人员完成之前设置的[过渡规则](transition-people-between-engagement-streams.md)后，单击“刷新”图标。
+1. 在人员完成之前设置的[过渡规则](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)后，单击“刷新”图标。
 
    ![](assets/six-rubiks.png)
 
@@ -54,5 +54,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >除非您再次单击**“运行播放”**，否则不会发送其他内容。
-
+   >除非您单击&#x200B;**再次运行Cast**，否则不会发送其他内容。
