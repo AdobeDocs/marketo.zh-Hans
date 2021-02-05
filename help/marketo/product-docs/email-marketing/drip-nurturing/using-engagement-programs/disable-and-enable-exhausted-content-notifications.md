@@ -3,7 +3,7 @@ unique-page-id: 2359877
 description: 禁用和启用已用尽的内容通知- Marketo Docs —— 产品文档
 title: 禁用和启用已用尽的内容通知
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -27,9 +27,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. 选择**关闭**（或&#x200B;**打开**），然后单击&#x200B;**保存**。
+1. 选择&#x200B;**关闭**（或&#x200B;**打开**）并单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
    超级！ 如果启用通知，您将在流本身上看到一些内容，并会收到电子邮件通知。
-
