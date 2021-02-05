@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: 电子邮件项目主管开始- Marketo Docs —— 产品文档
 title: 电子邮件开始主管
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ ht-degree: 0%
 
 [进一](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 步了解如何使用计划时区收件人电子邮件项目。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [计划电子邮件项目](schedule-your-email-program.md)
 >* [计划电子邮件项目(带收件人时区)](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
