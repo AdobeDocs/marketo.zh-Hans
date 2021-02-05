@@ -3,9 +3,9 @@ unique-page-id: 2950617
 description: 在电子邮件中使用动态内容- Marketo Docs —— 产品文档
 title: 在电子邮件中使用动态内容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 真贴心！ 现在，您可以向目标受众发送灵活的电子邮件。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [预览包含动态内容的电子邮件](preview-an-email-with-dynamic-content.md)
 >* [在登陆页中使用动态内容](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
