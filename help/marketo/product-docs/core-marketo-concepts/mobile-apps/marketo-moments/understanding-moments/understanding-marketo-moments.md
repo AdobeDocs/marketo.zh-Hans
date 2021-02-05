@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: 了解Marketo Moments - Marketo Docs —— 产品文档
 title: 理解营销时刻
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 马克托的力量现在掌握在你手中，字面上！ 直接从手机或iPad预览并重新安排电子邮件。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >需要“访问移动应用程序”权限。 联系您的营销人员管理员以[更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
 
