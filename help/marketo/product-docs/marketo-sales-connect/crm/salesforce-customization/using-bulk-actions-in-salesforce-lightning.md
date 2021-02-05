@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: 在Salesforce Lightning中使用批量操作- Marketo Docs —— 产品文档
 title: 在Salesforce闪电中使用批量操作
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ ht-degree: 0%
 >
 >您也可以按照相同的步骤在“联系列表”视图中使用批量操作。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [通过组电子邮件发送电子邮件](http://docs.marketo.com/x/KAQ6Ag)
 >* [使用“选择并发送”编写批量电子邮件](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
