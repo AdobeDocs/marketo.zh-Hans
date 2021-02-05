@@ -3,7 +3,7 @@ unique-page-id: 2950573
 description: 为引用优惠配置跟踪进度流- Marketo Docs —— 产品文档
 title: 为引用优惠配置跟踪进度流
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 为引用优惠{#configure-track-progress-flow-for-a-referral-offer}配置跟踪进度流
 
-当[创建推荐优惠](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，您可以配置提示，向参加者显示他们在奖励方面的进展。
+当[创建推荐优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，您可以配置提示，向参加者显示他们在奖励方面的进展。
 
 1. 转到&#x200B;**营销活动**。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. 在&#x200B;**视图** **&amp;** **编辑**&#x200B;窗口中，编辑提示，提醒参加者登录到他们用于注册优惠的同一社交网络。
+1. 在&#x200B;**视图和编辑**&#x200B;窗口中，编辑提醒参加者登录到其用于注册优惠的同一社交网络的提示。
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,5 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->接下来，单击&#x200B;**完成>批准并关闭**&#x200B;和[发布您的推荐优惠](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。
-
+>接下来，单击&#x200B;**完成** > **批准并关闭**&#x200B;和[发布您的推荐优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。
