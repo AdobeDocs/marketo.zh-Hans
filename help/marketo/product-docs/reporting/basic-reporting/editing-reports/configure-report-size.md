@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: 配置报告大小- Marketo Docs —— 产品文档
 title: 配置报告大小
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ ht-degree: 0%
 
    你完了！ 报告将遵守新的限制。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >
    >现在，您可以[导出报告](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)并设置新限制。
