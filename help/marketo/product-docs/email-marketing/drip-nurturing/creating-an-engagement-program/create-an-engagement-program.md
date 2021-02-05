@@ -3,9 +3,9 @@ unique-page-id: 2359652
 description: 创建参与项目- Marketo Docs —— 产品文档
 title: 创建参与项目
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -16,27 +16,23 @@ ht-degree: 0%
 您可以使用Market中的参与项目轻松完成电子邮件培养。
 
 1. 转到&#x200B;**营销活动**。
-1. ![](assets/login-marketing-activities.png)
+
+   ![](assets/login-marketing-activities.png)
 
 1. 选择要在中创建参与项目的文件夹，然后单击&#x200B;**新建**&#x200B;和&#x200B;**新建项目**。
-1. ![](assets/newprogramlifecycle.jpg)
+
+   ![](assets/newprogramlifecycle.jpg)
 
 1. 输入&#x200B;**名称**，为&#x200B;**项目类型**&#x200B;选择&#x200B;**参与**，然后单击&#x200B;**创建**。
-1. ![](assets/image2014-9-15-15-3a35-3a32.png)
+
+   ![](assets/image2014-9-15-15-3a35-3a32.png)
 
 1. 好了，既然你有订婚项目了，我们继续穿吧。
-1. ![](assets/image2014-9-15-15-3a35-3a38.png)
 
-1. 观看有关创建和运行培养活动的视频
-   `<iframe width="630" height="470" src="//play.vidyard.com/ZMzANBfrz2vBKnajiDeDQs.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+   ![](assets/image2014-9-15-15-3a35-3a38.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
-   >
-   >    
-   >    
-   >    * [向流中添加内容](add-content-to-a-stream.md)
-   >    * [设置流节奏](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
-
+   >* [向流中添加内容](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+   >* [设置流节奏](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
