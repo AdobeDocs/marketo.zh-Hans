@@ -3,7 +3,7 @@ unique-page-id: 2359955
 description: 参与流绩效报告- Marketo Docs —— 产品文档
 title: 参与流绩效报告
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -60,8 +60,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >
-   >尽管没有说明，但“参与得分”是此报告中的一列。 有关参与分数的详细信息，请参阅[了解参与分数](understanding-the-engagement-score.md)。
+   >尽管没有说明，但“参与得分”是此报告中的一列。 有关参与分数的详细信息，请参阅[了解参与分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
    干得好！ 请注意，报告按参与项目分组。
-
