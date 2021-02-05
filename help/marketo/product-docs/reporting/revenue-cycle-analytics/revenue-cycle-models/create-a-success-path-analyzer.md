@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: 创建成功路径分析器——营销文档——产品文档
 title: 创建成功路径分析器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 >
 >要保存报告？ 单击“**Analyzer操作**”下拉框，然后选择“另存为&#x200B;**”。**
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [使用成功路径分析器](using-the-success-path-analyzer.md)
 
