@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: 使用企业密钥——营销文档——产品文档安装Marketo Add-in for Outlook
 title: 使用企业密钥安装Outlook的Marketo Add-in
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ ht-degree: 0%
 
    仅此而已！ 接下来，销售代表将完成[注册过程](authorize-the-marketo-outlook-plugin.md)。 您可以向他们发送指向说明的链接（请参阅&#x200B;**营销相关文章**）。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
