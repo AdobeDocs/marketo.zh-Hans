@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: 使用Outlook的电子邮件插件- Marketo Docs —— 产品文档发送和跟踪电子邮件
 title: 使用Outlook的电子邮件插件发送和跟踪电子邮件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 
 就这么简单！ 即使此电子邮件是由销售人员的Outlook发送的，也会在Marketo中跟踪。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [在Marketo中记录来自Lead的入站邮件](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
