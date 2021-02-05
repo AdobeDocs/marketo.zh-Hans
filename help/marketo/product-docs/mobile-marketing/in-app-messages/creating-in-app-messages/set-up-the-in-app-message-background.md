@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: 设置应用程序内消息背景- Marketo Docs —— 产品文档
 title: 设置应用程序内消息背景
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,8 @@ ht-degree: 0%
 
    [设置“取消”按钮](set-up-the-dismiss-button-and-approve-the-message.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
