@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: 自定义演示文稿- Marketo Docs —— 产品文档
 title: 自定义演示文稿
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 设置日历演示文稿，以反映对您的团队最重要的目标和活动。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
