@@ -3,7 +3,7 @@ unique-page-id: 2359787
 description: 添加流- Marketo Docs —— 产品文档
 title: 添加流
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -31,5 +31,6 @@ ht-degree: 0%
    >
    >每个参与项目最多可以添加25个流。
 
-   完成！   ![](assets/image2014-9-15-16-3a56-3a27.png)
+   完成！
 
+   ![](assets/image2014-9-15-16-3a56-3a27.png)
