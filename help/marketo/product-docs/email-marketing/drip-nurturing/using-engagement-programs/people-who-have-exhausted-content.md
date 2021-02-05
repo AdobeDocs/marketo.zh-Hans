@@ -3,7 +3,7 @@ unique-page-id: 2359953
 description: 内容已用尽的人员- Marketo Docs —— 产品文档
 title: 已累积内容的人
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -60,4 +60,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >此数字将在每次转换后立即更新。
-
