@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: 冠军／挑战者——主题行- Marketo Docs —— 产品文档
 title: 冠军／挑战者——主题线
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ ht-degree: 0%
 
    进度！ 我们继续吧。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >
    >[冠军／挑战者：定义冠军标准](champion-challenger-define-champion-criteria.md)
