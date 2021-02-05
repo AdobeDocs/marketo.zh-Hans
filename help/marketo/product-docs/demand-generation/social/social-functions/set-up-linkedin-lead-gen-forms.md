@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: 设置LinkedIn潜在客户代Forms- Marketo文档——产品文档
 title: 设置LinkedIn领头将Forms
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 为您的服务输入&#x200B;**显示名称**，从下拉列表中选择**LinkedIn潜在客户代**服务，然后单击&#x200B;**下一个**。
+1. 输入服务的&#x200B;**显示名称**，从下拉列表中选择&#x200B;**LinkedIn Lead Gen**&#x200B;服务，然后单击&#x200B;**Next**。
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo在同一浏览器中打开一个指向[www.linkedin.com](http://www.linkedin.com)的新选项卡。 使用要用于集成的帐户登录LinkedIn。
+1. Marketo在同一浏览器中打开一个指向[linkedin.com](https://www.linkedin.com)的新选项卡。 使用要用于集成的帐户登录到LinkedIn。
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. 出现提示时，单击**允许**接受Marketo应用程序安装到LinkedIn中。
+1. 出现提示时，单击&#x200B;**允许**&#x200B;接受Marketo应用程序安装到LinkedIn中。
 
    ![](assets/linkedin-marketo-allow.png)
 
@@ -85,9 +85,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在智能过滤器中使用LinkedIn潜在客户生成表单活动和触发器](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
-
->
-
-
-
+>[在智能过滤器中使用LinkedIn潜在客户生成表单活动和触发器](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
