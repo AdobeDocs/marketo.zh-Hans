@@ -3,9 +3,9 @@ unique-page-id: 2359494
 description: 使用“主题行”A/B测试- Marketo Docs —— 产品文档
 title: 使用“主题行”A/B测试
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,8 @@ ht-degree: 0%
 
    我们快到了。 现在，我们需要[定义A/B测试入选方标准](define-the-a-b-test-winner-criteria.md)。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >    
    >    
