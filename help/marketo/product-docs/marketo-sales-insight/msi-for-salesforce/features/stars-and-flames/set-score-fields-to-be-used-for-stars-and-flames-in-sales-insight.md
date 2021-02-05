@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: 设置要用于Sales Insight - Marketo Docs —— 产品文档中星星和火焰的分数字段
 title: 设置要用于Sales Insight中的星星和火焰的分数字段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ ht-degree: 0%
    >
    >重新计算销售洞察需要一些时间。 您可以稍后检查您的CRM以查看星星和火焰。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相关文章**
    >
    >
    >[优先级、紧急程度、相对得分和最佳赌注](priority-urgency-relative-score-and-best-bets.md)
