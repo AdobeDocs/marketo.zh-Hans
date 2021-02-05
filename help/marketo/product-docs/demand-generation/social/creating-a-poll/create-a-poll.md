@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: 创建投票- Marketo Docs —— 产品文档
 title: 创建投票
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,19 @@ ht-degree: 0%
 
 通过投票吸引人们，并在社交网络上与朋友分享。 您可以将其添加到登陆页、网站和Facebook等位置。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
 
 >[!PREREQUISITES]
 >
->如果要在投票中使用图像，请在开始之前将它们添加到Marketo图像和文件库。 为每个投票条目添加一个60x60px图像。 请参阅[将图像和文件添加到Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
+>如果要在投票中使用图像，请在开始之前将它们添加到Marketo图像和文件库。 为每个投票条目添加一个60x60px图像。 请参阅[将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
 
-1. 在您的项目中，选择&#x200B;**新建** > **新建本地资产。**
+1. 在项目中，选择&#x200B;**新建** > **新建本地资产**。
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. 在&#x200B;**本地资产库中，**&#x200B;单击&#x200B;**投票。**
+1. 在&#x200B;**本地资产库**&#x200B;中，单击&#x200B;**投票**。
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -57,11 +55,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. 选择所需的图像，然后单击“选择”。****
+1. 选择所需的图像，然后单击&#x200B;**选择**。
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. 为所有条目设置缩略图、标题和说明后，单击&#x200B;**完成。**
+1. 设置所有条目的缩略图、标题和说明后，单击&#x200B;**完成**。
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
@@ -77,9 +75,6 @@ ht-degree: 0%
 
 如果投票中存在任何问题，将在投票获得批准之前提示您解决这些问题。 恭喜！ 您已创建投票。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相关文章**
->
->下一步是[发布投票](publish-a-poll.md)，但您可以根据需要更改投票的设置。 开始[自定义轮询设置](customize-poll-settings.md)。
-
+>下一步是[发布投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)，但您可以根据需要更改投票的设置。 开始[自定义轮询设置](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)。
