@@ -3,9 +3,9 @@ unique-page-id: 7511512
 description: 在Salesforce1中安装和配置Marketo Sales Insight - Marketo Docs —— 产品文档
 title: 在Salesforce1中安装和配置Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ ht-degree: 0%
 
 喔！ 您终于完成了Salesforce1的Marketo Sales Insight安装！ 去吧，给自己拍拍背。
 
->[!NOTE]
->
->**相关文章**
+>[!MORELIKETHIS]
 >
 >* [Salesforce的最佳下注1](best-bets-in-salesforce1.md)
 >* [Salesforce中的有趣时刻1](interesting-moments-in-salesforce1.md)
