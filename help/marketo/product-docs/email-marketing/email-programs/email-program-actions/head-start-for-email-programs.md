@@ -3,7 +3,7 @@ unique-page-id: 10097202
 description: 电子邮件项目主管开始- Marketo Docs —— 产品文档
 title: 电子邮件开始主管
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[创建电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 当您为电子邮件项目选择日期／时间时，它将决定项目何时开始处理。 如果您希望电子邮件在选定时间启动，“头开始”会提前处理项目，从而为您提供此选项。
 
@@ -74,15 +70,11 @@ ht-degree: 0%
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[进一](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 步了解如何使用计划时区收件人电子邮件项目。
+[进一](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 步了解如何使用计划时区收件人电子邮件项目。
 
 >[!MORELIKETHIS]
 >
->* [计划电子邮件项目](schedule-your-email-program.md)
->* [计划电子邮件项目(带收件人时区)](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [了解收件人时区](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-
->
-
-
+>* [计划电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [计划电子邮件项目(带收件人时区)](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [了解收件人时区](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
