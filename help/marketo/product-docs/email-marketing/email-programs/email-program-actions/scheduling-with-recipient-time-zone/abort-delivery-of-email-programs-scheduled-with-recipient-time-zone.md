@@ -3,7 +3,7 @@ unique-page-id: 13795727
 description: 中止投放使用收件人时区- Marketo Docs —— 产品文档计划的电子邮件项目
 title: 中止投放使用收件人时区计划的电子邮件项目
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -39,10 +39,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [了解收件人时区](understanding-recipient-time-zone.md)
->* [计划电子邮件项目(带收件人时区)](schedule-email-programs-with-recipient-time-zone.md)
-
->
-
-
+>* [了解收件人时区](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [计划电子邮件项目(带收件人时区)](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 
