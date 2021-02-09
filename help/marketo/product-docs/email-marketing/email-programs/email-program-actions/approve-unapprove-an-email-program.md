@@ -3,9 +3,9 @@ unique-page-id: 2359462
 description: 批准／取消批准电子邮件项目- Marketo Docs —— 产品文档
 title: 批准／取消批准电子邮件项目
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [通过导入受众来定](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 义受众 [来使用智能列表](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [创建电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [用智能存储器定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 通 [过导入列表来定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [选择现有电](choose-an-existing-email.md) 子邮 [件或为电子邮件项目创建电子邮件](create-an-email-for-an-email-program.md)
+* [选择现有电](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 子邮 [件或为电子邮件项目创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
    >
    >
-* [计划电子邮件项目](schedule-your-email-program.md)
-
->
-
+* [计划电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
 ## 批准电子邮件项目{#approve-your-email-program}
