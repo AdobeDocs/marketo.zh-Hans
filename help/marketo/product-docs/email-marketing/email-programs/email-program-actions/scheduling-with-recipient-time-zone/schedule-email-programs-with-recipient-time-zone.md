@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: 计划电子邮件项目,收件人时区——营销文档——产品文档
 title: 计划电子邮件项目(带收件人时区)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -37,15 +37,12 @@ ht-degree: 0%
 >* **在收件人的时区提供第二天**:如果电子邮件计划在周二上午9点发出，那么居住在预定时间已经过的时区的合格用户将在周三上午9 ** 点收到该电子邮件。
    >
    >
-* **使用项目的默认设置时间交付**:如果电子邮件计划在星期二上午9:00发出，则符合条件的居住在时间已经过预定时间的时区的人员将根据您的订阅时 *区设置收到该电子邮件*。因此，如果您的[s](../../../../../product-docs/administration/settings/select-your-language-locale-and-time-zone.md)[订阅时区设置](../../../../../product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)设置为PDT America/Los Angeles，这些收件人将在星期二上午9点（无论其所在时区的时间如何）仍会收到电子邮件。
-
->
-
+* **使用项目的默认设置时间交付**:如果电子邮件计划在星期二上午9:00发出，则符合条件的居住在时间已经过预定时间的时区的人员将根据您的订阅时 _区设置收到该电子邮件_。因此，如果您的[订阅时区设置](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)设置为PDT America/Los Angeles，则这些收件人仍将在星期二上午9点（不管他们所在时区的时间如何）收到电子邮件。
 
 
 >[!NOTE]
 >
->[进一](https://docs.marketo.com/display/DOCS/Understanding+Recipient+Time+Zone#UnderstandingRecipientTimeZone-CalculatingTimeZone) 步了解Marketo如何为收件人计算时区。
+>[进一](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) 步了解Marketo如何为收件人计算时区。
 
 让我们更详细地考虑这一情况。 假设您在旧金山，安排在早7:00发送电子邮件，以便在早上9:00发送&#x200B;****。 在您的智能列表中，有来自以下地区的人员：
 
@@ -68,15 +65,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->尽管项目将在15分钟后开始发送电子邮件的&#x200B;*进程*，但当时不会传送&#x200B;*电子邮件。*&#x200B;收件人仍会收到基于您选择的&#x200B;**时区设置**&#x200B;的电子邮件。
+>尽管项目将在15分钟后开始发送电子邮件的&#x200B;_进程_，但当时不会传送&#x200B;_电子邮件。_&#x200B;收件人仍会收到基于您选择的&#x200B;**时区设置**&#x200B;的电子邮件。
 
 ## 方案2:超过25小时{#scenario-more-than-hours}
 
 在第二种情况中，您批准启用&#x200B;**收件人时区**&#x200B;的电子邮件项目，并且预定的发送时间将超过25小时。 在这种情况下，项目将开始在世界上&#x200B;**最早**&#x200B;时区(UTC + 14:00)的预定时间运行。 在全球的每个时区，都可能有人有资格获得您的智能列表，因此，从最早的时区开始，我们可以在预定的日期／时间将电子邮件发送给其各自时区的所有收件人。
 
-头开始
+**头开始**
 
-现在，我们来谈谈[头开始](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何与&#x200B;**收件人时区**&#x200B;一起使用。 我们现有的头部开始功能要求项目至少提前12小时预定。 那对收件人时区意味着什么？ 请记住，启用收件人时区后，我们开始在最早时区(UTC +14:00)的预定时间运行电子邮件项目。 因此，要启用&#x200B;**头开始和收件人时区，电子邮件项目必须比预定时间（以UTC +14:00表示）至少提前12小时进行计划。******
+现在，我们来谈谈[头开始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何与&#x200B;**收件人时区**&#x200B;一起使用。 我们现有的头部开始功能要求项目至少提前12小时预定。 那对收件人时区意味着什么？ 请记住，启用收件人时区后，我们开始在最早时区(UTC +14:00)的预定时间运行电子邮件项目。 因此，要启用&#x200B;**头开始和收件人时区，电子邮件项目必须比预定时间（以UTC +14:00表示）至少提前12小时进行计划。******
 
 这意味着，如果您在美国／洛杉矶，并且要同时启用“开始”和“收件人时区”，您需要提前计划项目&#x200B;**34小时**。 我们怎么得到这个号码的？
 
@@ -86,8 +83,8 @@ ht-degree: 0%
 
 简而言之，与收件人时区一起计划的电子邮件项目需要在最早时区（即最早到达午夜的时区）的预定时间运行开始，以便适应每个时区。 所以，如果您计划电子邮件项目...
 
-* **投放时间 *在* 25小时内**,项目开始在15分钟内运行。已经过预定时间的收件人将根据您选择的时区设置收到电子邮件。
-* **投放时 ** *间* 将超过25小时**,项目开始在最早时区(UTC +14:00)的预定时间运行。
+* **投放时间 _在_ 25小时内**,项目开始在15分钟内运行。已经过预定时间的收件人将根据您选择的时区设置收到电子邮件。
+* **投放时 _间_ 超过25小时**,项目开始在最早时区(UTC +14:00)的预定时间运行。
 * **使用头开始**,项目开始在最早时区的预定时间前12小时处理(UTC +14:00)。
 
 >[!CAUTION]
@@ -96,11 +93,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [了解收件人时区](understanding-recipient-time-zone.md)
->* [电子邮件开始主管](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
->* [中止投放使用收件人时区计划的电子邮件项目](abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-
->
-
-
+>* [了解收件人时区](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [电子邮件开始主管](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [中止投放使用收件人时区计划的电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
 
