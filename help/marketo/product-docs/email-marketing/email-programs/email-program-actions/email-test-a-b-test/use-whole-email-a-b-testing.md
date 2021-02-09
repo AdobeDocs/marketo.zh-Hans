@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: 使用“完整电子邮件”A/B测试- Marketo Docs —— 产品文档
 title: 使用“整封电子邮件”A/B测试
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [添加A/B测试](add-an-a-b-test.md)
+>[添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
->
+1. 在“电子邮件”拼贴下，选择电子邮件，单击&#x200B;**添加A/B测试**。
 
-
-
-1. 在“电子邮件”拼贴下，选择电子邮件，单击“添加A/B测试”。
-
-“ ![](assets/image2014-9-12-15-3a22-3a12.png)
-
-“
+![](assets/image2014-9-12-15-3a22-3a12.png)
 
 1. 将打开新窗口。 单击&#x200B;**测试类型**&#x200B;下拉框，然后选择&#x200B;**完整电子邮件**。
 
@@ -43,9 +37,7 @@ ht-degree: 0%
 
 1. 单击&#x200B;**添加**&#x200B;以应用电子邮件。
 
-   “ ![](assets/image2014-9-12-15-3a23-3a20.png)
-
-   “
+   ![](assets/image2014-9-12-15-3a23-3a20.png)
 
    >[!TIP]
    >
@@ -53,15 +45,11 @@ ht-degree: 0%
 
 1. 选择您的第二封电子邮件。
 
-   “ ![](assets/image2014-9-12-15-3a23-3a49.png)
-
-   “
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. 单击&#x200B;**添加**&#x200B;以应用第二封电子邮件。 拖动滑块以选择要接收A/B测试的受众百分比，然后单击&#x200B;**下一步**。
 
-   “ ![](assets/image2014-9-12-15-3a24-3a1.png)
-
-   “
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >
@@ -69,15 +57,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**建议您避免将样本大小设置为100%**。如果您使用静态列表，将样本大小设置为100%会向受众中的每个人发送电子邮件，而获胜者将不向任何人发送。 如果您使用&#x200B;**smart**&#x200B;列表，将示例大小设置为100%时会向受众中的每个人*发送电子邮件。 *当电子邮件项目在以后的某个日期再次运行时，符合智能列表资格的任何新用户也会收到电子邮件，因为他们现在已包含在受众中。
+   >**建议您避免将样本大小设置为100%**。如果您使用静态列表，将样本大小设置为100%会向受众中的每个人发送电子邮件，而获胜者将不向任何人发送。 如果您使用&#x200B;**smart**&#x200B;列表，将采样大小设置为100%会向受众&#x200B;_中的每个人发送电子邮件，此时_。 当电子邮件项目在以后的某个日期再次运行时，任何符合智能列表资格的新用户也会收到电子邮件，因为他们现在已包含在受众中。
 
-   我们快到了。 现在，我们需要[定义A/B测试入选方标准](define-the-a-b-test-winner-criteria.md)。
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [定义A/B测试入选方标准](define-the-a-b-test-winner-criteria.md)
-
-
+   我们快到了。 现在，我们需要[定义A/B测试入选方标准](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)。
