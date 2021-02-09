@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: 计划A/B测试- Marketo文档——产品文档
 title: 计划A/B测试
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [添加A/B测试](add-an-a-b-test.md)
-
->
-
-
+>[添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >对于日期／时间测试，您只需在收到测试结果摘要时进行设置。
 
-1. 选择发送测试日期。
+1. 选择&#x200B;**发送测试**&#x200B;日期。
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >只有测试组会收到测试变体。
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ ht-degree: 0%
    >如果选择手动声明入选方，您将定义&#x200B;**报告发送**&#x200B;日期／时间，而不是&#x200B;**完成邮寄**&#x200B;日期／时间。
 
    超级！ 完成，只需查看摘要并单击“关闭”。
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    您会注意到&#x200B;**计划**&#x200B;磁贴现在已更新。
@@ -69,9 +63,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [批准／取消批准电子邮件项目](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[批准／取消批准电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
