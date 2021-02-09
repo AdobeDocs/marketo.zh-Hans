@@ -3,9 +3,9 @@ unique-page-id: 2359483
 description: 了解电子邮件测试选项- Marketo Docs —— 产品文档
 title: 了解电子邮件测试选项
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ## A/B测试{#a-b-testing}
 
-这适用于使用[电子邮件项目](http://docs.marketo.com/display/docs/email+programs)的一次性电子邮件。 添加[A/B测试](add-an-a-b-test.md)，小组将获得测试，其余组将获得优胜者。
+这适用于使用电子邮件项目的一次性电子邮件。 添加[A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)，小组将获得测试，其余组将获得优胜者。
 
 ## 电子邮件冠军／挑战者{#email-champion-challenger}
 
-对于在触发智能活动或[参与项目](http://docs.marketo.com/display/docs/drip+nurturing)中使用的当前电子邮件，可添加[电子邮件冠军／挑战者](http://docs.marketo.com/pages/viewpage.action?pageid=2359551)测试。 这将对收件人中持续的百分比引入变化。
+对于在触发智能活动或参与项目中使用的持续电子邮件，您可以添加[电子邮件冠军／挑战者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)测试。 这将对收件人中持续的百分比引入变化。
 
 测试快乐！
