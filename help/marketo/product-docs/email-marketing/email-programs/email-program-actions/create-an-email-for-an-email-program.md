@@ -3,9 +3,9 @@ unique-page-id: 1900593
 description: 为电子邮件项目- Marketo Docs —— 产品文档创建电子邮件
 title: 创建电子邮件项目
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,8 @@ ht-degree: 0%
 >* [创建电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [用智能存储器定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 通 [过导入列表来定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
->
 
-
-
-创建电子邮件项目并定义受众后，您将需要决定要发送的电子邮件。 您可以[选择现有电子邮件](choose-an-existing-email.md)或从头开始创建。 下面介绍如何创建新电子邮件。
+创建电子邮件项目并定义受众后，您将需要决定要发送的电子邮件。 您可以[选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)或从头开始创建。 下面介绍如何创建新电子邮件。
 
 1. 转到&#x200B;**营销活动**。
 
@@ -48,10 +45,4 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-太好了！ 既然我们已经创建了要发送的电子邮件，让我们[添加A/B测试](email-test-a-b-test/add-an-a-b-test.md)或直接跳到[计划您的电子邮件项目](schedule-your-email-program.md)。
-
->[!MORELIKETHIS]
->
->* [添加A/B测试](email-test-a-b-test/add-an-a-b-test.md)
->* [计划电子邮件项目](schedule-your-email-program.md)
-
+太好了！ 既然我们已经创建了要发送的电子邮件，让我们[添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)或直接跳到[计划您的电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)。
