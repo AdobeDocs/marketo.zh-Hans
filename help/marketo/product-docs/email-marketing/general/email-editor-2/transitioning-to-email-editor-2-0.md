@@ -3,7 +3,7 @@ unique-page-id: 11373011
 description: 转换到电子邮件编辑器2.0 - Marketo文档——产品文档
 title: 转换到电子邮件编辑器2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 转换到电子邮件编辑器2.0 {#transitioning-to-email-editor}
 
-自[6月19日发布](../../../../release-notes/2016/release-notes-spring-16.md)起，所有营销订阅都已转换为电子邮件编辑器2.0。 [了解有关电子邮件编辑器1.0弃用的更多信息](https://nation.marketo.com/docs/DOC-7038)。
+自[6月19日发布](/help/marketo/release-notes/2016/release-notes-spring-16.md)起，所有营销订阅都已转换为电子邮件编辑器2.0。 [了解有关电子邮件编辑器1.0弃用的更多信息](https://nation.marketo.com/docs/DOC-7038)。
 
 您订阅中的电子邮件和电子邮件模板应具有版本号。 该版本可在资产的摘要页面中找到。
 
@@ -27,14 +27,11 @@ ht-degree: 0%
 如果您的订阅在转到电子邮件编辑器2.0之前有v1.0电子邮件，您将根据资产的当前状态体验到以下行为：
 
 **已批准** -单击“编辑草稿”将创建已批准电子邮件的v2.0草稿。如果您随后批准了v2.0草稿，则电子邮件的已批准状态将变为v2.0，无法还原到v1.0。\
-**草稿** -单击“编辑草稿”将自动将该草稿标记为v2.0。此时，将无法放弃并还原到v1.0，因为没有资产的已批准版本。\
-**通过草稿** -单击“编辑草稿”将自动将该草稿标记为v2.0。因此，也无法将草稿还原回v1.0。
+**草稿** -单击“编辑草稿”将自动将该草稿标记为v2.0。此时，将无法放弃并还原到v1.0，因为没有资产的已批准版本。**通过草稿** -单击“编辑草稿”将自动将该草稿标记为v2.0。因此，也无法将草稿还原回v1.0。
 
 如果您的订阅在转到电子邮件编辑器2.0之前具有v1.0电子邮件模板，您将体验到以下行为：
 
-**已批准** -单击“编辑草稿”将创建现有电子邮件模板的v2.0草稿。\
-**草稿** -单击“编辑草稿”将自动将该草稿标记为v2.0。此时，将无法放弃并还原到v1.0，因为没有资产的已批准版本。\
-**用草稿批准** -单击“编辑草稿”将自动将该草稿标记为v2.0。因此，也无法将草稿还原回v1.0。
+**已批准** -单击“编辑草稿”将创建现有电子邮件模板的v2.0草稿。**草稿** -单击“编辑草稿”将自动将该草稿标记为v2.0。此时，将无法放弃并还原到v1.0，因为没有资产的已批准版本。**用草稿批准** -单击“编辑草稿”将自动将该草稿标记为v2.0。因此，也无法将草稿还原回v1.0。
 
 如果您批准以前为v1.0（在以上任何状态中）的电子邮件模板，您将看到以下行为：
 
@@ -62,10 +59,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [电子邮件编辑器2.0概述](email-editor-v2-0-overview.md)
->* [电子邮件模板语法](email-template-syntax.md)
-
->
-
-
+>* [电子邮件编辑器2.0概述](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [电子邮件模板语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 
