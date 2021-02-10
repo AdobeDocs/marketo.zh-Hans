@@ -3,7 +3,7 @@ unique-page-id: 1900556
 description: 创建纯文本电子邮件- Marketo Docs —— 产品文档
 title: 创建仅文本电子邮件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >链接不会在纯文本电子邮件中自动跟踪。 了解如何[向文本电子邮件添加跟踪链接](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)。
+   >链接不会在纯文本电子邮件中自动跟踪。 了解如何[向文本电子邮件添加跟踪链接](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)。
 
    >[!TIP]
    >
