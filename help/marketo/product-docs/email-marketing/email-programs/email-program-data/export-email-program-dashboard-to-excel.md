@@ -3,9 +3,9 @@ unique-page-id: 2359598
 description: 将电子邮件项目仪表板导出到Excel - Marketo Docs —— 产品文档
 title: 将电子邮件项目仪表板导出到Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >如果电子邮件项目尚未开始，您将看不到仪表板，因为没有数据可供查看。
 
 1. 只需单击Excel图标，即可开始导出。
@@ -35,10 +32,3 @@ ht-degree: 0%
    ![](assets/lifecycle.jpg)
 
    很简单，对吧？
-
->[!NOTE]
->
->**深潜**
->
->想了解有关[电子邮件项目](http://docs.marketo.com/display/docs/email+programs)的更多信息吗？
-
