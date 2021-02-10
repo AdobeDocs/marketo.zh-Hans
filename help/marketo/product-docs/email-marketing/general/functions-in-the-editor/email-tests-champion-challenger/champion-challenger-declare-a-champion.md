@@ -3,7 +3,7 @@ unique-page-id: 2359584
 description: 冠军／挑战者——声明冠军——营销文档——产品文档
 title: 冠军／挑战者——宣布冠军
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -17,8 +17,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [冠军／挑战者：批准电子邮件测试](champion-challenger-approve-your-email-test.md)
-
+>[冠军／挑战者：批准电子邮件测试](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. 转到&#x200B;**营销活动**。
 
@@ -44,7 +43,7 @@ ht-degree: 0%
    >
    >请注意，默认&#x200B;**声明日期**&#x200B;是明天，而不是今天。
 
-   选择时间并单击&#x200B;**保存**。
+1. 选择时间并单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
