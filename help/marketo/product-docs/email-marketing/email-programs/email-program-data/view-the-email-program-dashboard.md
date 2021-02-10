@@ -3,7 +3,7 @@ unique-page-id: 2359469
 description: 视图电子邮件项目仪表板- Marketo Docs —— 产品文档
 title: 视图电子邮件项目仪表板
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -47,10 +47,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用电子邮件项目仪表板- A/B测试视图](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [使用电子邮件项目仪表板](use-the-email-program-dashboard.md)
-
->
-
-
+>* [使用电子邮件项目仪表板- A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [使用电子邮件项目仪表板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 
