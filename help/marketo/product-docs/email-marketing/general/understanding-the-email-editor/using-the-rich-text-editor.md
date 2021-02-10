@@ -3,7 +3,7 @@ unique-page-id: 2953419
 description: 使用富文本编辑器- Marketo Docs —— 产品文档
 title: 使用富文本编辑器
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 编辑器设置{#editor-settings}
 
-根块元素设置定义内容中包含的标签。 默认情况下，电子邮件根块元素会利用 <p> 标记。 您可以选择按照以下步骤进行更改。
+根块元素设置定义内容中包含的标签。 默认情况下，电子邮件根块元素会使用`<p>`标记。 您可以选择按照以下步骤进行更改。
 
 >[!TIP]
 >
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在&#x200B;**电子邮件／代码片断编辑器**&#x200B;下拉框中，选择 <div> 或“无”，然后单击“保存&#x200B;**”。** <div> 在此示例中使用。
+1. 在&#x200B;**电子邮件／代码片断编辑器**&#x200B;下拉框中，选择`<div>`或“无”，然后单击&#x200B;**保存**。 `<div>` 在此示例中使用。
 
    ![](assets/four.png)
 
-   如果您拥有 <div class="&ldquo;mktEditable&rdquo;"></div> 在电子邮件模板中，当您打开部分并在编辑器中键入“Text Goes Here”时，您将看到以下HTML源代码行为：
+   如果电子邮件模板中有`<div class=“mktEditable”></div>`，则打开该部分并在编辑器中键入“Text Goes Here”时，您将看到以下HTML源代码行为：
 
 <table> 
  <tbody> 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->根块元素始终 <p> 富文本项目令牌。
+>对于富文本项目令牌，根块元素始终为`<p>`。
 
 ## 功能{#features}
 
@@ -109,7 +109,7 @@ ht-degree: 0%
 
 ## 登陆页{#landing-pages}
 
-根块元素设置定义内容中包含的标签。 默认情况下，登陆页根块元素利用 <div> 标记。 您可以选择通过执行以下步骤来更改此设置。
+根块元素设置定义内容中包含的标签。 默认情况下，登陆页根块元素会使用`<div>`标记。 您可以选择通过执行以下步骤来更改此设置。
 
 >[!TIP]
 >
@@ -127,9 +127,8 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在&#x200B;**登陆页编辑器**&#x200B;下拉列表中，选择 <p> 或“无”，然后单击“保存&#x200B;**”。** <p> 在此示例中使用。
+1. 在&#x200B;**登陆页编辑器**&#x200B;下拉框中，选择`<p>`或“无”，然后单击&#x200B;**保存**。 `<p>` 在此示例中使用。
 
    ![](assets/five.png)
 
    就这样！
-
