@@ -3,7 +3,7 @@ unique-page-id: 1147340
 description: 从潜在客户所有者发送电子邮件——营销文档——产品文档
 title: 从潜在客户所有者发送电子邮件
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -47,7 +47,8 @@ ht-degree: 0%
    >
    >请确保在名和姓令牌之间添加了空格。
 
-   单击“发件人电子邮件”字段（删除任何现有电子邮件地址），然后单击“插入令牌”按钮。
+1. 单击“发件人电子邮件”字段（删除任何现有电子邮件地址），然后单击“插入令牌”按钮。
+
    ![](assets/eight.png)
 
 1. 开始键入“`{{lead.Lead Owner`”并选择&#x200B;**`{{lead.Lead Owner Email Address}}`**&#x200B;令牌。
@@ -61,4 +62,3 @@ ht-degree: 0%
 1. 确保填充了&#x200B;**Reply-to**&#x200B;和&#x200B;**Subject**&#x200B;字段，您就完成了！
 
    ![](assets/eleven.png)
-
