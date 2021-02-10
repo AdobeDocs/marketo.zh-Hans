@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: 使用发送警报信息令牌{{SP_Send_Alert_Info}} - Marketo文档——产品文档
 title: 使用发送警报信息令牌
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此令牌仅在发送包含该令牌的电子邮件时按预期方式工作，电子邮件中包含[发送警报](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)流步骤。 在“发送电子邮件”流程步骤中使用时，它将不起作用。
+>此令牌仅在发送包含该令牌的电子邮件时按预期方式工作，电子邮件中包含[发送警报](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)流步骤。 在“发送电子邮件”流程步骤中使用时，它将不起作用。
 
-示例警报：   ![](assets/image2014-9-25-15-3a17-3a58.png)
+示例警报：
+
+![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->注意！ 警报中的URL具有过期日期，因此应确保它们具有支持这些类型邮件的节奏。 过期日期由管理员[配置。](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+>注意！ 警报中的URL具有过期日期，因此应确保它们具有支持这些类型邮件的节奏。 过期日期由管理员](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)配置。[
 
 以下信息是`{{SP_Send_Alert_Info}}`的一部分：
 
@@ -59,8 +61,6 @@ ht-degree: 0%
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 
 >[!NOTE]
->
->**提醒**
 >
 >不要忘记批准您的电子邮件。
 
