@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 添加电子邮件冠军／挑战者——营销文档——产品文档
 title: 添加电子邮件冠军／挑战者
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -13,22 +13,21 @@ ht-degree: 0%
 
 # 添加电子邮件冠军／挑战者{#add-an-email-champion-challenger}
 
-最好测试您经常使用的电子邮件，以确保它们正常工作。 一种方法是将电子邮件的有效性与其他版本或挑战者进行比较。 在冠军／挑战者测试中，您可以测试整个电子邮件、主题行或发件人地址。\
-您正在测试的现有电子邮件被视为冠军。 您在测试中创建的任何变体都被视为挑战者。 您确定接收冠军内容或挑战者内容的人所占的百分比。 如果你定义了多个挑战者，他们将在挑战者小组中平等分配。\
+最好测试您经常使用的电子邮件，以确保它们正常工作。 一种方法是将电子邮件的有效性与其他版本或挑战者进行比较。 在冠军／挑战者测试中，您可以测试整个电子邮件、主题行或发件人地址。
+
+您正在测试的现有电子邮件被视为冠军。 您在测试中创建的任何变体都被视为挑战者。 您确定接收冠军内容或挑战者内容的人所占的百分比。 如果你定义了多个挑战者，他们将在挑战者小组中平等分配。
+
 下面介绍如何开始。
 
 >[!PREREQUISITES]
 >
->* [创建项目](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [创建电子邮件](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
->
-
+>* [创建项目](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [创建电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 
 >[!CAUTION]
 >
->冠军／挑战者电子邮件只能与触发活动和互动项目流配合使用。 对于批量邮件，请使用电子邮件项目的[A/B测试功能](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。
+>冠军／挑战者电子邮件只能与触发活动和互动项目流配合使用。 对于批量邮件，请使用电子邮件项目的[A/B测试功能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。
 
 1. 转到&#x200B;**营销活动**。
 
@@ -40,10 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**深潜**
-   >
-   >
-   >对于一次性邮件爆炸，了解有关[电子邮件项目](http://docs.marketo.com/display/docs/email+programs)的更多信息。
+   >对于一次性邮件爆炸，了解有关[电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)的更多信息。
 
 1. 在&#x200B;**电子邮件操作**&#x200B;下，单击&#x200B;**新建测试**。
 
@@ -53,11 +49,7 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [冠军／挑战者：完整电子邮件](champion-challenger-whole-emails.md)
-   >    * [冠军／挑战者：主题行](champion-challenger-subject-line.md)
-   >    * [冠军／挑战者：发件人地址](champion-challenger-from-address.md)
-
+   >* [冠军／挑战者：完整电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+   >* [冠军／挑战者：主题行](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [冠军／挑战者：发件人地址](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
 
