@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: 共享设置- Marketo Docs —— 产品文档
 title: 共享设置
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 配置共享设置{#configure-your-sharing-settings}
 
-1. 在[Web应用程序](http://toutapp.com/login)中，转到“设置”页。
+1. 在[Web应用程序](https://toutapp.com/login)中，转到“设置”页。
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ ht-degree: 0%
 1. 添加团队后，您可以选择仅允许团队管理员共享该团队或该团队中的所有用户。 在此示例中，我们授予SDR团队的所有用户共享访问权限。
 
    ![](assets/eight-1.png)
-
