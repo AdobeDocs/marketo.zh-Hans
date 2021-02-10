@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: 用户访问详细信息- Marketo Docs —— 产品文档
 title: 用户访问详细信息
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 管理员用户权限{#admin-user-permissions}
 
-管理员可以[视图所有模板](http://docs.marketo.com/x/OYAXAQ)。
+管理员可以[视图所有模板](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)。
 
 ![](assets/templates.jpg)
 
-管理员可以[视图所有活动](http://docs.marketo.com/x/N4AXAQ)。
+管理员可以[视图所有活动](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)。
 
 ![](assets/campaigns.jpg)
 
-管理员可以[视图所有电子邮件活动](http://docs.marketo.com/x/SYAXAQ)。
+管理员可以视图所有电子邮件活动。
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ ht-degree: 0%
    * 用户可以在其管理员允许的类别中共享模板
    * 当用户从团队中删除时，其模板将取消与该团队共享
    * 从团队中删除用户时，其模板会将所有权转让给删除该用户的主控管理员
-
