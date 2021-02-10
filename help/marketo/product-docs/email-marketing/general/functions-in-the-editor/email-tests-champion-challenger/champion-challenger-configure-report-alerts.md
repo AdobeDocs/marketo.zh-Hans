@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: 冠军／挑战者——配置报告警报——营销文档——产品文档
 title: 冠军／挑战者——配置报告警报
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Marketo将向您发送有关电子邮件测试进展情况的报告。 下面介
 
 >[!PREREQUISITES]
 >
->* [冠军／挑战者：定义冠军标准](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[冠军／挑战者：定义冠军标准](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. 让我们计划一下周五上午9点发送的报告。
 
@@ -47,9 +43,4 @@ Marketo将向您发送有关电子邮件测试进展情况的报告。 下面介
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [冠军／挑战者：批准电子邮件测试](champion-challenger-approve-your-email-test.md)
-
-
+   >[冠军／挑战者：批准电子邮件测试](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
