@@ -3,7 +3,7 @@ unique-page-id: 1900565
 description: 在电子邮件——营销文档——产品文档中包含日历事件(.ics)
 title: 在电子邮件中包含日历事件(.ics)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建日历事件(.ics)文件](create-a-calendar-event-ics-file.md)
-
->
-
-
+>[创建日历事件(.ics)文件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. 编辑项目的电子邮件时，单击要将令牌转到的位置，然后单击“插入令牌”按钮。
 
@@ -31,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-   单击“保存”。
+1. 单击&#x200B;**保存**。
 
    ![](assets/three-5.png)
 
