@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: 编辑电子邮件中的元素——营销文档——产品文档
 title: 编辑电子邮件中的元素
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >您还可以添加图像、令牌、表格和其他元素。 请参阅[使用富文本编辑器](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
+   >您还可以添加图像、令牌、表格和其他元素。 请参阅[使用富文本编辑器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ ht-degree: 0%
    >
    >如果要使用Marketo令牌，请使用此选项。 请记住，当您使用令牌时，图像在编辑器中将显示为损坏，但在预览模式和发送示例电子邮件中呈现。
 
-   **交换** ![](assets/eight.png)
+   要使用外部URL，请先粘贴到图像的URL中。 根据需要更改尺寸，并添加一些替代文本（可选）。 然后按&#x200B;**Swap**。
+
+   ![](assets/eight.png)
 
    **我的电脑**
 
@@ -90,14 +89,15 @@ ht-degree: 0%
    >
    >如果要替换图像，则需要选中图像URL/名称下方显示的&#x200B;**覆盖现有图像**&#x200B;框。
 
-   **Design** Studio要从Design Studio中插入图像，只需找到它……
+   **Design Studio**
+
+   要从Design Studio插入图像，只需找到它……
 
    ![](assets/twelve.png)
 
-   **交换**
-   ![](assets/thirteen.png)
+   ...并插入。 根据需要更改尺寸，更改替代文本（可选），然后按&#x200B;**Swap**。
 
-要使用外部URL，请先粘贴到图像的URL中。 根据需要更改尺寸，并添加一些替代文本（可选）。 然后按。               ...并插入。 根据需要更改尺寸，更改替代文本（可选），然后按。
+   ![](assets/thirteen.png)
 
 ## 如何编辑代码片断元素{#how-to-edit-the-snippet-element}
 
