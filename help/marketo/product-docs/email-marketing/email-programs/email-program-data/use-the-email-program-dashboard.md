@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: 使用电子邮件项目仪表板- Marketo Docs —— 产品文档
 title: 使用电子邮件项目仪表板
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 使用电子邮件项目仪表板{#use-the-email-program-dashboard}
 
-了解您的[电子邮件项目](http://docs.marketo.com/display/docs/email+programs)如何使用此仪表板视图执行。
+通过此项目视图，了解您的电子邮件仪表板的表现。
 
 >[!NOTE]
 >
->如果您的项目有A/B测试，请查看[电子邮件项目仪表板- A/B测试视图](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)。
+>如果您的项目有A/B测试，请查看[电子邮件项目仪表板- A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)。
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 摘要——参与{#summary-engagement}
 
-这将显示整体[参与分数](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
+这将显示整体[参与分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 >
 >**定义**
 >
->**打开**在电子邮件收件人下载电子邮件的图像时计数，该图像包括一个插入市场营销人员的跟踪像素。 如果收件人视图电子邮件，但选择不下载其图像，则不会计为打开。 如果图像加载到收件人的预览窗格中，则通常计为打开，但会因电子邮件客户端而异。
+>**当电** 子邮件收件人下载电子邮件的图像时，Opensare会进行计数，该图像包括一个插入Marketo的跟踪像素。如果收件人视图电子邮件，但选择不下载其图像，则不会计为打开。 如果图像加载到收件人的预览窗格中，则通常计为打开，但会因电子邮件客户端而异。
 >
 >**单击以** 打开度量已打开和已在电子邮件中点击链接的电子邮件的百分比。我们将唯一点击次数除以唯一打开次数，再乘以100将其显示为百分比。
 
@@ -77,9 +77,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用电子邮件项目仪表板- A/B测试视图](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
-
->
-
-
-
+>[使用电子邮件项目仪表板- A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
