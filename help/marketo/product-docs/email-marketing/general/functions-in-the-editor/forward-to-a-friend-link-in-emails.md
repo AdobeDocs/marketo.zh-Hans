@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: 转发到电子邮件- Marketo Docs —— 产品文档中的好友链接
 title: 转发到电子邮件中的朋友链接
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
    >请记住批准要应用更改的模板草稿。
 
    现在，所有使用该模板的电子邮件都将带有“转发给朋友”链接。 当电子邮件收件人单击该按钮时，他们将被带到电子邮件的Web版本，并带有“转发给朋友”框：
+
    ![](assets/f2afbox.png)
 
 ## 将链接添加到单个电子邮件{#add-the-link-to-an-individual-email}
@@ -85,7 +84,7 @@ ht-degree: 0%
 
    ![](assets/eight-1.png)
 
-1. 使用Ctrl/Cmd+V将&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;标记粘贴到&#x200B;**URL**&#x200B;框中，然后单击**插入**。
+1. 使用Ctrl/Cmd+V将&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;标记粘贴到&#x200B;**URL**&#x200B;框中，然后单击&#x200B;**插入**。
 
    ![](assets/nine.png)
 
@@ -117,15 +116,13 @@ ht-degree: 0%
    >
    >**定义**
    >
-   >
    >对于“已转发给朋友的电子邮件”，人员ID是转发电子邮件的人。
-   >
    >
    >对于“转发给朋友的电子邮件”，人员ID是收到该电子邮件的人。
 
    ![](assets/sixteen.png)
 
-1. 要按ID视图人员，请将**人员ID**复制并粘贴到URL的末尾（该URL的开头取决于您的Marketo实例）:
+1. 要按ID视图人员，请将&#x200B;**人员ID**&#x200B;复制并粘贴到URL的末尾（该URL的开头取决于您的Marketo实例）:
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -137,7 +134,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果接收转发的朋友是未知的人，则会创建一个新人，其“转发给朋友”标记为该人的&#x200B;**源**。\
+   >如果接收转发的朋友是未知的人，则会创建一个新人，其“转发给朋友”标记为该人的&#x200B;**源**。
    >如果电子邮件是项目的本地资产，则项目将标记为人员的&#x200B;**客户获取项目**。
 
 ## 使用转发活动{#trigger-or-filter-using-forwarding-activity}的触发器或过滤器
