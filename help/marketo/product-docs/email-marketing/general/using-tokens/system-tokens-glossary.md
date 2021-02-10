@@ -3,7 +3,7 @@ unique-page-id: 1147344
 description: 系统令牌词汇表- Marketo Docs —— 产品文档
 title: 系统令牌词汇表
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 **适用于：**
 
-* [更改数据值](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 低步骤
-* [有趣的](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 动量流步骤
-* [创建任](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 务流步骤
+* [更改数据值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 低步骤
+* [有趣的](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 动量流步骤
+* [创建任](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 务流步骤
 * 电子邮件或模板的正文
 
 ## system.time {#system-time}
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 **适用于：**
 
-* [更改数据值](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 低步骤
-* [有趣的](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 动量流步骤
-* [创建任](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 务流步骤
+* [更改数据值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 低步骤
+* [有趣的](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 动量流步骤
+* [创建任](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 务流步骤
 * 电子邮件或模板的正文
 
 ## system.dateTime {#system-datetime}
@@ -47,18 +47,18 @@ ht-degree: 0%
 
 **适用于：**
 
-* [更改数据值](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 低步骤
-* [有趣的](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 动量流步骤
-* [创建任](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 务流步骤
+* [更改数据值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 低步骤
+* [有趣的](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 动量流步骤
+* [创建任](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 务流步骤
 * 电子邮件或模板的正文
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-`{{system.forwardToFriendLink}}`令牌允许您控制电子邮件](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)中[“转发到好友链接”的位置。
+`{{system.forwardToFriendLink}}`令牌允许您控制电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)中[“转发到好友链接”的位置。
 
 **适用于：**
 
-* [将系统令牌添加为电子邮件模板](add-a-system-token-as-a-link-in-an-email.md) 中的链接
+* [将系统令牌添加为电子邮件模板](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 中的链接
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 **适用于：**
 
-* [将系统令牌添加为电子邮件模板](add-a-system-token-as-a-link-in-an-email.md) 中的链接
+* [将系统令牌添加为电子邮件模板](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 中的链接
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
@@ -74,4 +74,4 @@ ht-degree: 0%
 
 **适用于：**
 
-* [将系统令牌添加为电子邮件模板](add-a-system-token-as-a-link-in-an-email.md) 中的链接
+* [将系统令牌添加为电子邮件模板](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 中的链接
