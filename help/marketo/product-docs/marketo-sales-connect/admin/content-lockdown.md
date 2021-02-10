@@ -3,7 +3,7 @@ unique-page-id: 37355755
 description: 内容锁定——营销文档——产品文档
 title: 内容锁定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,6 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. 向下滚动到内容锁定。 打开任一滑块将&#x200B;*禁用*&#x200B;团队成员创建／编辑模板和／或活动的能力。
+1. 向下滚动到内容锁定。 打开任一滑块将&#x200B;_禁用_&#x200B;团队成员创建／编辑模板和／或活动的能力。
 
    ![](assets/three-4.png)
-
