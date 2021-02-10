@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Sales Connect概述- Marketo Docs —— 产品文档
 title: 销售连接概述
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Marketo Sales Connect是一款具有多种功能的全方位销售支持解决�
 
 >[!AVAILABILITY]
 >
->
 >并非所有客户都购买了此功能。 有关更多信息，请联系您的客户成功经理。
 
 ## 实时源{#the-live-feed}
 
-销售代表可以视图[营销和销售内容的实时参与](http://docs.marketo.com/x/d4TS)。
+销售代表可以视图[营销和销售内容的实时参与](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)。
 
 ![](assets/engagement.jpg)
 
 ## 人员详细信息视图{#person-detail-view}
 
-访问[详细人员统计数据](http://docs.marketo.com/x/e4TS)。
+访问[详细人员统计数据](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)。
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -62,7 +61,7 @@ Marketo Sales Connect是一款具有多种功能的全方位销售支持解决�
   </tr> 
   <tr> 
    <td colspan="1"><p>接收销售电话</p></td> 
-   <td colspan="1"><p>销售主管使用<a href="http://docs.marketo.com/x/NgDb" rel="nofollow">销售电话</a>接到销售人员的电话。</p></td> 
+   <td colspan="1"><p>销售主管使用<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">销售电话</a>接到销售人员的电话。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>添加到销售活动</p></td> 
@@ -81,7 +80,7 @@ Marketo Sales Connect是一款具有多种功能的全方位销售支持解决�
 
 ## 共享营销活动{#share-marketing-campaigns}
 
-创建一个简单的智能活动，让销售用户能够访问[营销活动数据](http://docs.marketo.com/x/NwDh)。
+创建一个简单的智能活动，让销售用户能够访问[营销活动数据](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)。
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -89,9 +88,4 @@ Marketo Sales Connect是一款具有多种功能的全方位销售支持解决�
 
 >[!MORELIKETHIS]
 >
->* [销售连接入门](http://docs.marketo.com/x/coTS)
-
->
-
-
-
+>[销售连接入门](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
