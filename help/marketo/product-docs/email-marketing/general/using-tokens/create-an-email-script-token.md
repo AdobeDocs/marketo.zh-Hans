@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: 创建电子邮件脚本令牌- Marketo Docs —— 产品文档
 title: 创建电子邮件脚本令牌
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建电子邮件脚本令牌{#create-an-email-script-token}
 
-对于高级开发人员，您可以在电子邮件中使用[Velocity脚本](http://velocity.apache.org/engine/1.7/user-guide.html)。 下面介绍如何实现。
+对于高级开发人员，您可以在电子邮件中使用[Velocity脚本](https://velocity.apache.org/engine/1.7/user-guide.html)。 下面介绍如何实现。
 
 1. 转到&#x200B;**营销活动**。
 
@@ -45,17 +45,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >如果您键入令牌是自由格式，请确保检查／激活树中的所有相应令牌，否则它们将被视为纯文本，无法使用。
 
 1. 以Velocity编写脚本。 以下是一些有用的资源：
 
-   * [营销人员电子邮件脚本文档](http://developers.marketo.com/email-scripting/)
-   * [Velocity用户指南](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [速度参考指南](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity工具Javadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [营销人员电子邮件脚本文档](https://developers.marketo.com/email-scripting/)
+   * [Velocity用户指南](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [速度参考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Velocity工具Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. 完成脚本后，单击&#x200B;**保存**。
 
@@ -69,9 +66,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [向电子邮件中添加电子邮件脚本令牌](add-an-email-script-token-to-your-email.md)
-
->
-
-
-
+>[向电子邮件中添加电子邮件脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
