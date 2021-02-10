@@ -3,7 +3,7 @@ unique-page-id: 1147360
 description: 向电子邮件链接添加令牌- Marketo Docs —— 产品文档
 title: 向电子邮件链接添加令牌
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -39,9 +39,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在我的令牌中使用URL](using-urls-in-my-tokens.md)
-
->
-
-
-
+>[在我的令牌中使用URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
