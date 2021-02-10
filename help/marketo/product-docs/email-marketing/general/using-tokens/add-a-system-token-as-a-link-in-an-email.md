@@ -3,9 +3,9 @@ unique-page-id: 1900573
 description: 在电子邮件- Marketo Docs —— 产品文档中添加系统令牌作为链接
 title: 将系统令牌添加为电子邮件中的链接
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
->完成后，不要忘记[批准电子邮件](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
+>完成后，不要忘记[批准电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
 
 干得好！ 现在您了解如何将系统令牌添加为电子邮件中的链接。
