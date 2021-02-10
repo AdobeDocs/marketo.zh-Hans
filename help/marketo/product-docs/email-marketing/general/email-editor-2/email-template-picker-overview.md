@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: 电子邮件模板选取器概述- Marketo Docs —— 产品文档
 title: 电子邮件模板选取器概述
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 电子邮件模板选取器概述{#email-template-picker-overview}
 
-在[创建电子邮件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)时，您有几个可供选择的免费模板。 您还可以创建自己的模板并保存以供将来使用。
+在[创建电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)时，您有几个可供选择的免费模板。 您还可以创建自己的模板并保存以供将来使用。
 
 ![](assets/starter-templates.png)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/two-2.png)
 
-如果您的电子邮件是关键邮件并且您希望其避开通信限制，请选中该复选框，使其能够正常运行。 [](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)**默认情** 况下，在编辑器中打开处于选中状态，这只意味着您希望立即开始编辑新电子邮件。**创** 建，创建！
+如果您的电子邮件是关键邮件并且您希望其避开通信限制，请选中该复选框，使其能够正常运行。 [](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)**默认情** 况下，在编辑器中打开处于选中状态，这只意味着您希望立即开始编辑新电子邮件。**创** 建，创建！
 
 ![](assets/three-2.png)
 
@@ -31,9 +31,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo的入门模板免费提供给所有客户。 虽然它们将不断更新并针对主要电子邮件客户端（和移动设备）进行优化，但您应始终评估它们是否满足您的需求。 Marketo的[电子邮件发送工具](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool)可显示不同电子邮件客户端上模板的呈现。 不幸的是，Marketo在付费服务约定之外无法接受设计请求。
+>Marketo的入门模板免费提供给所有客户。 虽然它们将不断更新并针对主要电子邮件客户端（和移动设备）进行优化，但您应始终评估它们是否满足您的需求。 Marketo的[电子邮件发送工具](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md)可显示不同电子邮件客户端上模板的呈现。 不幸的是，Marketo在付费服务约定之外无法接受设计请求。
 
-**我** 的模板包含您创建的所有模板。您可能还有文件夹。   ![](assets/five-2.png)
+**我** 的模板包含您创建的所有模板。您可能还有文件夹。
+
+![](assets/five-2.png)
 
 Design Studio树中“电子邮件”>“模板”下显示的所有文件夹都将在&#x200B;**“我的模板”**&#x200B;中可用。
 
@@ -67,10 +69,6 @@ Design Studio树中“电子邮件”>“模板”下显示的所有文件夹都
 
 >[!MORELIKETHIS]
 >
->* [电子邮件模板语法](email-template-syntax.md)
->* [创建电子邮件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
->
-
-
+>* [电子邮件模板语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [创建电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
