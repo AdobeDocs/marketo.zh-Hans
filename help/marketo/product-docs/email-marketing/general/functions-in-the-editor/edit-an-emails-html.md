@@ -3,9 +3,9 @@ unique-page-id: 1900554
 description: 编辑电子邮件的HTML - Marketo Docs —— 产品文档
 title: 编辑电子邮件的HTML
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >搜索代码也可在[电子邮件模板编辑器](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template)中使用。
+   >搜索代码也可在[电子邮件模板编辑器](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)中使用。
 
 我们建议您继续使用Marketo的内置功能编辑您的电子邮件，但此代码编辑器确实提供了灵活性（如果需要）。
