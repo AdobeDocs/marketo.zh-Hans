@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: 禁用电子邮件链接的跟踪- Marketo Docs —— 产品文档
 title: 禁用电子邮件链接的跟踪
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 有时，您不希望在电子邮件中的链接上启用&#x200B;**Marketo跟踪URL**。 当目标页面不支持URL参数并可能导致链接断开时，此功能很有用。
 
-1. 选择您的电子邮件，然后单击&#x200B;**编辑** **草稿**。
+1. 选择您的电子邮件，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/one-7.png)
 
