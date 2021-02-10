@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: 将视图添加为网页链接到电子邮件- Marketo Docs —— 产品文档
 title: 将视图添加为指向电子邮件的网页链接
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ ht-degree: 0%
 >
 >在您发送电子邮件之前，您不会将视图看作网页链接。 给自己发个测试给视图。
 
-要更改默认文本，请参阅[编辑“视图为网页”消息](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)。
+要更改默认文本，请参阅[编辑“视图为网页”消息](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)。
