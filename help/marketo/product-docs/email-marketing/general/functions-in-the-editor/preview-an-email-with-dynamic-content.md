@@ -3,7 +3,7 @@ unique-page-id: 1900548
 description: 预览包含动态内容的电子邮件——营销文档——产品文档
 title: 预览包含动态内容的电子邮件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-   单击视图方式下拉框，然后选择要预览的动态内容类型。
+1. 单击视图方式下拉框，然后选择要预览的动态内容类型。
+
    ![](assets/two-3.png)
 
 1. 此时将显示新的下拉菜单。 单击它并选择特定内容。
