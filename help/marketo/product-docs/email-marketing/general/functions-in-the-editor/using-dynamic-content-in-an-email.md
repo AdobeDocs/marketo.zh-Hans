@@ -3,7 +3,7 @@ unique-page-id: 2950617
 description: 在电子邮件中使用动态内容- Marketo Docs —— 产品文档
 title: 在电子邮件中使用动态内容
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建分段](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
-
->
-
-
+>[创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 在电子邮件中使用动态内容发送您的潜在客户目标信息。
 
@@ -39,9 +35,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您还可以使电子邮件中的元素变为动态元素。 为此，请选择区域，单击齿轮图标，然后选择&#x200B;**Make Dynamic**（或[ Replace with Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，具体取决于您正在执行的操作）。
+   >您还可以使电子邮件中的元素变为动态元素。 为此，请选择区域，单击齿轮图标，然后选择&#x200B;**Make Dynamic**（或[ Replace with Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，具体取决于您正在执行的操作）。
 
-   输入分段名称，将其选中，然后单击保存。
+1. 输入分段名称，将其选中，然后单击&#x200B;**保存**。
 
    ![](assets/1.4.png)
 
@@ -75,10 +71,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [预览包含动态内容的电子邮件](preview-an-email-with-dynamic-content.md)
->* [在登陆页中使用动态内容](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-
->
-
-
+>* [预览包含动态内容的电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [在登陆页中使用动态内容](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
 
