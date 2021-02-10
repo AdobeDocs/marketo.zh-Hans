@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: 了解电子邮件事件记录——营销文档——产品文档
 title: 了解电子邮件事件记录
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >如果同一活动向同一人发送了两次同一电子邮件，则&#x200B;**已打开**&#x200B;事件最多将记录1次。
-
