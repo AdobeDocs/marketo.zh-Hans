@@ -3,7 +3,7 @@ unique-page-id: 1900597
 description: 通过导入受众- Marketo Docs —— 产品文档定义列表
 title: 通过导入受众定义列表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[创建电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-创建电子邮件项目后，您会希望告诉它要将电子邮件发送给谁。 可通过[创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)或导入列表来执行此操作。 下面介绍如何通过导入列表来完成此操作。
+创建电子邮件项目后，您会希望告诉它要将电子邮件发送给谁。 可通过[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)或导入列表来执行此操作。 下面介绍如何通过导入列表来完成此操作。
 
 >[!NOTE]
 >
@@ -29,17 +29,20 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-1.png)
 
-   选择您的电子邮件项目，然后单击受众拼贴下的“导入列表”。
+1. 选择您的电子邮件项目，然后单击受众拼贴下的“导入列表”。
+
    ![](assets/importlist.png)
 
-1. 列表导入窗口将打开，单击&#x200B;**浏览**&#x200B;并选择要导入的文件。 选择人员列表后，单击“下一步”。
-1. ![](assets/importlist1.png)
+1. 列表导入窗口将打开，单击&#x200B;**浏览**&#x200B;并选择要导入的文件。 选择人员列表后，单击&#x200B;**下一步**。
+
+   ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
    >确保列表是以UTF-8、UTF-16、Shift-JIS或EUC-JP编码，且文件大小不超过50MB。
 
-   验证文件中的字段映射是否正确，然后单击“下一步”。
+1. 验证文件中的字段映射是否正确，然后单击&#x200B;**下一步**。
+
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
@@ -80,10 +83,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [选择现有电子邮件](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [创建电子邮件项目](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [创建电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
