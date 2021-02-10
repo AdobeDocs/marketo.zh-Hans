@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: 使用我的令牌- Marketo文档——产品文档中的URL
 title: 在我的令牌中使用URL
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -72,4 +72,3 @@ ht-degree: 0%
    ![](assets/twelve.png)
 
    你完了！ 您的URL将在发送后填充，并且由于您将http://放在令牌前面，它将生成可跟踪的链接。
-
