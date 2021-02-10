@@ -3,7 +3,7 @@ unique-page-id: 2359562
 description: 冠军／挑战者——定义冠军标准- Marketo文档——产品文档
 title: 冠军／挑战者——定义冠军标准
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [添加电子邮件冠军／挑战者](add-an-email-champion-challenger.md)
-
->
-
-
+>[添加电子邮件冠军／挑战者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## 标准冠军标准{#standard-champion-criteria}
 
@@ -33,7 +29,7 @@ ht-degree: 0%
    >
    >我们将跟踪此指标并通过电子邮件向您发送包含数据的报告。
 
-1. 如果您选择了默认的&#x200B;**Champion Criteria**&#x200B;之一，请继续前进到[Champion/Challenger:配置报告警报](champion-challenger-configure-report-alerts.md)!
+1. 如果您选择了默认的&#x200B;**Champion Criteria**&#x200B;之一，请继续前进到[Champion/Challenger:配置报告警报](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## 自定义冠军标准{#custom-champion-criteria}
 
@@ -63,9 +59,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [冠军／挑战者：配置报告警报](champion-challenger-configure-report-alerts.md)
-
-
+   >[冠军／挑战者：配置报告警报](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
