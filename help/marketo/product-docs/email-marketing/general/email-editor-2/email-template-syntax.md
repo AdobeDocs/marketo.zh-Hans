@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: 电子邮件模板语法- Marketo Docs —— 产品文档
 title: 电子邮件模板语法
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Marketo电子邮件语法仅在模板和单个电子邮件中有效；如果嵌�
 
 ## 富文本{#rich-text}
 
-如果将区域定义为富文本，则用户将能够使用Marketo的富文本编辑器](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)编辑其内容[。 在电子邮件模板中定义富文本元素有两种方法：mktEditable和mktoText。 请记住，富文本元素始终可以从电子邮件编辑器中转换为片段。
+如果将区域定义为富文本，则用户将能够使用Marketo的富文本编辑器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)编辑其内容[。 在电子邮件模板中定义富文本元素有两种方法：mktEditable和mktoText。 请记住，富文本元素始终可以从电子邮件编辑器中转换为片段。
 
 ### 选项1 - mktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ HTML元素（如果提供）中的class=&quot;mktoText&quot;内容将用作富�
 
 有两个选项可用于定义可编辑的图像元素。 您可以使用`<div>`(它指定将插入`<img>`的容器)或`<img>`标记。 如果您希望最终用户只需选择一个将返回图像URL的图像（与DOM相对），请参阅下面部分中的“图像变量”。 以下两个选项将插入一个HTML `<img>`元素。
 
-### 选项1 —— 使用\&lt;div\> {#option-use-a-div}
+### 选项1 —— 使用`<div>` {#option-use-a-div}
 
 必需属性
 
@@ -128,7 +128,7 @@ HTML元素（如果提供）中的class=&quot;mktoText&quot;内容将用作富�
 
 ## 代码片段{#snippets}
 
-如果您将区域定义为“代码片断”，最终用户将能够选择要插入此区域的已批准[代码片断](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 尽管富文本元素可以从电子邮件编辑器中转换为片段，但当您将某个区域专门定义为片段时，它将无法转换为富文本。 您可以使用类=&quot;mktoSnippet&quot;的`<div>`指定代码片断区域
+如果您将区域定义为“代码片断”，最终用户将能够选择要插入此区域的已批准[代码片断](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 尽管富文本元素可以从电子邮件编辑器中转换为片段，但当您将某个区域专门定义为片段时，它将无法转换为富文本。 您可以使用类=&quot;mktoSnippet&quot;的`<div>`指定代码片断区域
 
 必需属性
 
@@ -351,8 +351,6 @@ HTML元素（如果提供）中的class=&quot;mktoText&quot;内容将用作富�
 * **mktoAddByDefault：确** 定此模块是否将位于创建时使用此模板的新电子邮件的画布中。默认值为true（如果mktoActive为false，则忽略此值）。
 
 >[!NOTE]
->
->**提醒**
 >
 >包含Marketo语法（即mktoModule、mktoContainer、mktoText）的类值区分大小写。 自定义属性名称（即mktoimgwidth、mktoname）不是。
 
