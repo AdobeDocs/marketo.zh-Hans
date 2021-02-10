@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: 电子邮件链接性能报告- Marketo Docs —— 产品文档
 title: 电子邮件链接性能报告
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 创建“电子邮件链接性能”报告，查看电子邮件中的链接的性能。
 
-1. [在程序中创建报告，](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 然后选择“ **电子邮件链** 接性能”作为报告类型。
+1. [在程序中创建报告，](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 然后选择“ **电子邮件链** 接性能”作为报告类型。
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. 为报告设置适当的时间范围。 单击**保存。 **
+1. 为报告设置适当的时间范围。 单击&#x200B;**保存**。
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[“电](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 子邮件链接性能”报告的列包括：
+[“电](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 子邮件链接性能”报告的列包括：
 
 <table> 
  <thead> 
@@ -74,20 +74,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您想要确切了解个人的操作，可以从项目的“成员”选项卡打开[“人员详细信息”](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中的[活动日志](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)页。
+>如果您想要确切了解个人的操作，可以从项目的“成员”选项卡打开[“人员详细信息”](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中的[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)页。
 
 >[!MORELIKETHIS]
 >
->* [电子邮件性能报告](email-performance-report.md)
->* [筛选电子邮件报告中的资产](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
->[!NOTE]
->
->**深潜**
->
->进一步了解[基本报告](http://docs.marketo.com/display/docs/basic+reporting)。
+>* [电子邮件性能报告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [筛选电子邮件报告中的资产](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
