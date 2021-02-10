@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: 电子邮件性能报告- Marketo Docs —— 产品文档
 title: 电子邮件性能报告
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 要了解您的电子邮件对已发送、打开、点击等统计信息的效果，请创建电子邮件性能报告。
 
-1. [在程序中创建报](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 告，然后选择 **电子邮件** [性能报告类型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
-1. [更改报告时间](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 框架，然后单击报 **** 告选项卡。
+1. [在程序中创建报](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 告，然后选择 **电子邮件** [性能报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [更改报告时间](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 框架，然后单击报 **** 告选项卡。
 1. 你在那！ 现在浏览报告，了解电子邮件的执行方式。
 
    >[!NOTE]
@@ -31,10 +31,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >
-   >电子邮件绩效报告包含所有人员的活动，包括自电子邮件发送后已删除的人员。 有时，您只希望看到活跃人员的活动。 在这种情况下，您需要从报表中筛选已删除的人员。 使用&#x200B;**智能列表**&#x200B;选项卡[为报告创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 如果您未对任何特定字段进行过滤，请将“电子邮件地址”过滤器设置为：**不为空**。
+   >电子邮件绩效报告包含所有人员的活动，包括自电子邮件发送后已删除的人员。 有时，您只希望看到活跃人员的活动。 在这种情况下，您需要从报表中筛选已删除的人员。 使用&#x200B;**智能列表**&#x200B;选项卡[为报告创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 如果您未对任何特定字段进行过滤，请将“电子邮件地址”过滤器设置为：**不为空**。
 
-   [为电子邮件](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 性能报告选择报告列包括：
+   [为电子邮件](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 性能报告选择报告列包括：
 
    | 列 | 说明 |
    |---|---|
@@ -50,13 +49,13 @@ ht-degree: 0%
 
 一般来说，我们试图用常识来记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，则显然他们首先打开了电子邮件。 我们遵循电子邮件性能报告的以下特定规则：
 
-* **规则1**:每个电子邮件活动记录均设置为以下一项，且仅设置为一项： *已交付* *、*&#x200B;硬退回 *、*&#x200B;软退回 *或*&#x200B;待定。
+* **规则1**:每个电子邮件活动记录均设置为以下一项，且仅设置为一项： _已交付_ _、_&#x200B;硬退回 _、_&#x200B;软退回 _或_&#x200B;待定。
 
 * **规则2**:如果电子邮件记录显 *示已*&#x200B;打开，则计为已 *送达*。
 
-* **规则3**:如果电子邮件记录显 *示“* 已点击 *电子邮*&#x200B;件”或“未订 ** 阅 *”，则计为“已*&#x200B;交付和已打开”。
+* **规则3**:如果电子邮件记录显 _示“_ 已点击 _电子邮_&#x200B;件”或“未订 __ 阅 _”，则计为“已_&#x200B;交付和已打开”。
 
-* **规则4**:如果电子邮件已打 *开*，则会忽略弹回。如果电子邮件尚未打开，则&#x200B;*硬退回*&#x200B;优先于&#x200B;*软退回*&#x200B;和&#x200B;*已送达*。
+* **规则4**:如果电子邮件已打 _开_，则会忽略弹回。如果电子邮件尚未打开，则&#x200B;_硬退回_&#x200B;优先于&#x200B;_软退回_&#x200B;和&#x200B;_已送达_。
 
 >[!NOTE]
 >
@@ -64,16 +63,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [筛选活动电子邮件报告中的资产](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [电子邮件链接性能报告](email-link-performance-report.md)
-
->
-
-
-
->[!NOTE]
->
->**深潜**
->
->在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中了解更多信息。
+>* [筛选活动电子邮件报告中的资产](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [电子邮件链接性能报告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 
