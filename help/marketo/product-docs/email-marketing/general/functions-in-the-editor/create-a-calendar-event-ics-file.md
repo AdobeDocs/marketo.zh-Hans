@@ -3,7 +3,7 @@ unique-page-id: 1900563
 description: 创建日历事件(.ics)文件- Marketo Docs —— 产品文档
 title: 创建日历事件(.ics)文件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -35,10 +35,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在电子邮件中包含日历事件(.ics)](include-a-calendar-event-ics-in-an-email.md)
->* [在事件中包含日历登陆页ICS文件](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
-
->
-
-
+>* [在电子邮件中包含日历事件(.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [在事件中包含日历登陆页ICS文件](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
 
