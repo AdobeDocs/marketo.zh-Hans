@@ -3,7 +3,7 @@ unique-page-id: 14746396
 description: 快速开始视频和Tutorials- Marketo Docs —— 产品文档
 title: 快速开始视频和Tutorials
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
