@@ -3,9 +3,9 @@ unique-page-id: 14352411
 description: 从未收到验证电子邮件- Marketo Docs —— 产品文档
 title: 从未收到验证电子邮件
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 首先，确保它不在垃圾邮件文件夹中。
 
-如果您在那里找不到电子邮件，请与支持部门联系。
+如果您在此找不到电子邮件，请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)。
