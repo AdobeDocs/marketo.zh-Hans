@@ -3,7 +3,7 @@ unique-page-id: 2359453
 description: 编辑您的电子邮件标题- Marketo Docs —— 产品文档
 title: 编辑电子邮件标题
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -50,5 +50,4 @@ Marketo中的电子邮件标题可完全自定义。 它包含四个字段：
 
 >[!MORELIKETHIS]
 >
->* [电子邮件编辑器v2.0概述](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
-
+>[电子邮件编辑器v2.0概述](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
