@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Sales Connect快速入门- Marketo Docs —— 产品文档
 title: 销售连接入门
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 如果您希望观看这些步骤而不是阅读它们，请直接跳到](#video)下面的[视频说明。
 
 >[!AVAILABILITY]
->
 >
 >并非所有客户都购买了此功能。 有关更多信息，请联系您的客户成功经理。
 
@@ -129,7 +128,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >不能将具有相同电子邮件ID的Sales Connect帐户配置到多个实例。 这意味着，如果您希望有一个额外的Sales Connect帐户来测试Marketo沙箱实例，您需要在每个帐户中使用不同的电子邮件ID。
-
-## 视频说明{#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
