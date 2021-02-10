@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: 发送示例电子邮件- Marketo Docs —— 产品文档
 title: 发送示例电子邮件
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 发送示例电子邮件{#send-a-sample-email}
 
-发送电子邮件样本快速而简单。 要发送动态内容电子邮件，请参阅[用动态内容预览电子邮件](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)。
+发送电子邮件样本快速而简单。 要发送动态内容电子邮件，请参阅[用动态内容预览电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)。
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ ht-degree: 0%
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >要输入多个电子邮件地址，请使用逗号分隔这些地址。
 
@@ -59,13 +56,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >触发字段仅适用于使用[电子邮件脚本](http://developers.marketo.com/documentation/velocity-script/)的用户。
+   >触发字段仅适用于使用[电子邮件脚本](https://developers.marketo.com/documentation/velocity-script/)的用户。
 
 ## 根据区段{#send-a-sample-email-based-on-a-segment}发送示例电子邮件
 
 >[!PREREQUISITES]
 >
->[将分段应用于电子邮件](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email)。
+>[将分段应用于电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)。
 
 1. 找到您的电子邮件，选择它并单击&#x200B;**编辑草稿**&#x200B;选项卡。
 
