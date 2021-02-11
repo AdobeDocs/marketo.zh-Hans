@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: 命令中心概述- Marketo Docs —— 产品文档
 title: 命令中心概述
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -94,11 +94,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [任务](http://docs.marketo.com/x/qwDb)
->* [高级搜索概述](http://docs.marketo.com/x/KQM6Ag)
->* [使用“选择并发送”编写批量电子邮件](http://docs.marketo.com/x/IgQ6Ag)
-
->
-
-
+>* [任务](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [高级搜索概述](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [使用“选择并发送”编写批量电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
 
