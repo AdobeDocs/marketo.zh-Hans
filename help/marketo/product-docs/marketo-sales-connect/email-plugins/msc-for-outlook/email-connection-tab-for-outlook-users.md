@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Outlook用户的“电子邮件连接”选项卡- Marketo Docs —— 产品文档
 title: Outlook用户的“电子邮件连接”选项卡
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/nine-a.png)
 
-   您可以使用此连接跟踪电子邮件，也可以使用[作为投放渠道](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)。
+   您可以使用此连接跟踪电子邮件，也可以作为投放渠道。
 
    >[!NOTE]
    >
@@ -97,8 +97,9 @@ ht-degree: 0%
 
    ![](assets/six-b.png)
 
-   | **Outlook Online** | 也称为Office Online |
+   | 版本 | 说明 |
    |---|---|
+   | **Outlook Online** | 也称为Office Online |
    | **Exchange内部部署** | 包括Exchange 2013和2016 |
 
 1. 输入凭据，然后单击&#x200B;**Connect**。
@@ -109,10 +110,8 @@ ht-degree: 0%
    >
    >如果您在Exchange版本下拉框中关闭自动发现，您需要向IT部门询问Exchange URL。
 
-   [作为投放渠道](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   您可以使用此连接跟踪电子邮件，也可以作为投放渠道。
 
    >[!NOTE]
    >
    >将Outlook用作投放渠道时，一次不能发送超过300封批量电子邮件。
-
-您可以使用此连接跟踪电子邮件以及
