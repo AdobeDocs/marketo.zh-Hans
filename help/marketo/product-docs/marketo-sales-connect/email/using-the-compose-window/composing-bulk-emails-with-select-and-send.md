@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: 使用“选择并发送”-“营销文档”-“产品文档”编写批量电子邮件
 title: 使用“选择并发送”编写批量电子邮件
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. 输入主题行，选择模板（或从头开始起草电子邮件），然后发送/[计划](http://docs.marketo.com/x/GAQ6Ag)电子邮件。
+1. 输入主题行，选择模板（或从头开始起草电子邮件），然后发送/[计划](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)电子邮件。
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 **批量编辑**
 
-1. 按照[“发送电子邮件”部分](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)中的步骤1-3进行操作。
+1. 按照[“发送电子邮件”部分](#sending-emails)中的步骤1-3进行操作。
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >您可以单击特定的电子邮件收件人来查看传播到该电子邮件的更改。
 
-1. 单击&#x200B;**发送**(或[计划](http://docs.marketo.com/x/GAQ6Ag))，以使用您进行的批量电子邮件更新发送给所有收件人。
+1. 单击&#x200B;**发送**(或[计划](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md))，以使用您进行的批量电子邮件更新发送给所有收件人。
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 在自定义每封电子邮件之前完成批量更新，因为进行批量更新会覆盖对批量撰写提要栏中每封电子邮件所做的更改。
 
-1. 按照[发送电子邮件部分中的步骤1-4进行操作。](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. 按照[“发送电子邮件”部分](#sending-emails)中的步骤1-4进行操作。
 
    >[!NOTE]
    >
@@ -89,17 +89,13 @@ ht-degree: 0%
    >
    >您可以单击其他收件人，以查看您对先前选择的收件人所做的更改是否未显示。
 
-1. 单击&#x200B;**发送**(或[计划](http://docs.marketo.com/x/GAQ6Ag))，以使用您进行的批量电子邮件更新发送给所有收件人。
+1. 单击&#x200B;**发送**(或[计划](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md))，以使用您进行的批量电子邮件更新发送给所有收件人。
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [批量发送选项](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [在合成窗口中使用模板](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [动态字段](http://docs.marketo.com/x/wwDb)
-
+   >* [批量发送选项](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [在合成窗口中使用模板](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [动态字段](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
