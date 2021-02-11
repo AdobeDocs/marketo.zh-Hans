@@ -3,9 +3,9 @@ unique-page-id: 14745730
 description: Salesforce诊断- Marketo文档——产品文档
 title: Salesforce诊断
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1427'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 0%
 **类别：其** 他\
 **消息：无** 法引用已转换的潜在客户\
 **正在发生的事** 情：我们正在尝试在最近活动记录联系人和潜在客户期间登录已转换的潜在客户。还看过几个关于推销的。\
-**疑难排解步** 骤：请向我们的支持团队报告此问题 [的任何实例](http://nation.marketo.com/community/support_solutions)。
+**疑难排解步** 骤：请向我们的支持团队报告此问题 [的任何实例](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 <br> 
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 **错误：** EXPIRED_ACCESS
 **类别** ：身份
 **验证消** 息：invalid_grant:过期的访问／刷
-**新令牌正在发** 生的情况：访问或刷新令牌已过期。令牌根据Salesforce](http://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)中的[会话设置过期。
+**新令牌正在发** 生的情况：访问或刷新令牌已过期。令牌根据Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)中的[会话设置过期。
 **疑难解答** 步骤：您需要重新验证。断开Salesforce连接并重新连接。
 
 <br> 
@@ -126,9 +126,9 @@ ht-degree: 0%
 <br> 
 
 **错误：** INSUFICED_ACCESS_OR_READONLY\
-**类别** ：访问／验证** **
-**消息：对对象** id的访问权限不足** **发生的情况：
-**** 由于用户没有写入访问权限，最近活动记录无法编辑特定记录。\
+**类别:** 访问／验
+**证消息：对** 象id的访问权限不
+**** 足正在发生的情况：最新活动记录无法编辑特定记录，因为用户没有写入访问权限。\
 **疑难解答步骤：** 在Salesforce中授予用户访问权限，或为该用户禁用该对象的最新活动记录。
 
 **错误：** INVALID_FIELD\
@@ -139,8 +139,7 @@ ht-degree: 0%
 
 **错误：** INVALID_FIELD_FOR_INSERT_UPDATE\
 **类别:** 访问／验证\
-**消息：** 无法创建／更新字段：ToutApp__Tout_Last_Rested__c。请检查此字段的安全设置。\
-**正在发生的情** 况：用户没有写入权限访问执行“最近活动”日志记录事务所需的“输出”自定义字段。团队可能已安装包，但未为用户启用正确的字段。\
+**消息：** 无法创建／更新字段：ToutApp__Tout_Last_Rested__c。请检查此字段的安全设置。**正在发生的情** 况：用户没有写入权限访问执行“最近活动”日志记录事务所需的“输出”自定义字段。团队可能已安装包，但未为用户启用正确的字段。\
 **疑难解答步** 骤：Salesforce管理员需要授予对自定义字段的访问权限或关闭最近活动记录。
 
 **错误：** INVALID_GRANT\
@@ -151,8 +150,8 @@ ht-degree: 0%
 
 **错误：** INVALID_TYPE\
 **类别:** 访问／验证\
-**消息：** CreatedDate,(SELECT Id FROM任务)FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObject type &#39;Lead&#39; is not supported.如果尝试使用自定义对象，请确保在实体名称后附加“__c”。 请引用WSDL或描述调用以获取相应的名称\
-**正在发生的** 事情：我们正在尝试从Salesforce查询用户无权访问的对象类型。这很可能与用户无权访问潜在客户对象有关。\
+**消息：** CreatedDate,(SELECT Id FROM任务)FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObject type &#39;Lead&#39; is not supported.如果尝试使用自定义对象，请确保在实体名称后附加“__c”。 请引用WSDL或描述调用以获取相应的名称
+**正在发生的情况：**&#x200B;我们正尝试从用户无权访问的Salesforce查询对象类型。 这很可能与用户无权访问潜在客户对象有关。\
 **疑难解答步** 骤：向Salesforce中的潜在客户对象授予读取和更新访问权限，或关闭电子邮件记录和潜在客户记录的最近活动记录。
 
 **错误：** 查询超时\
@@ -176,7 +175,7 @@ ht-degree: 0%
 
 **错误：** REQUIRED_FIELD_MISSING\
 **类别:** 访问／验证\
-**消息：** 必填字段缺失： [Amount_Committed_Private_Capital__c]\
+**消息：** 必填字段缺失： `[Amount_Committed_Private_Capital__c]`
 **正在发生的情况：** 这种情况通常发生在最新活动记录中。自定义字段设置为必填，但其值为空。 如果创建的记录具有自定义字段的空值，然后设置为必填，则会发生这种情况。 当我们尝试更新记录时，即使我们未触及自定义字段，也会强制执行要求。\
 **疑难解答步** 骤：手动更新缺失字段的值。然后，您可以重试来自ToutApp的消息。
 
@@ -188,8 +187,8 @@ ht-degree: 0%
 
 **错误：** TXN_SECURITY_NO_ACCESS\
 **类别:** 访问／验证\
-**消息：** 由于您的组织中存在安全策略，因此不允许您请求的操作。与管理员联系。\
-**正在发生的** 情况：已设置某种安全限制——请参 `https://developer.salesforce.com/forums/?id="record` 阅ID”\
+**消息：** 由于您的组织中存在安全策略，因此不允许您请求的操作。与管理员联系。<br/>
+**正在发生的** 情况：已设置某种安全限制——请参阅https://developer.salesforce.com/forums/?id=“记录ID”\
 **疑难排解步** 骤：与Salesforce管理员交谈并查看具体限制是什么。
 
 **错误：** UNABLE_TO_LOCK_ROW\
@@ -198,8 +197,8 @@ ht-degree: 0%
 **正在发生的** 事情：可能有一个触发器导致多次尝试访问同一记录，如果是群组电子邮件。\
 **疑难解答步骤：** 重试逻辑应处理此问题。如果它仍不工作，请与您的Salesforce管理员一起解决有问题的触发器。
 
-**错误：** UNKNOWN_EXCEPTION\
-**类别：其** 他\
+**错误：** UNKNOWN_EXCEPTION 
+**类别:** 其他\
 **消息：发** 生未知异常\
 **正在发生的事** 件：Salesforce中未处理的异常。\
 **疑难解答步** 骤：用Salesforce记录一个案例，并在错误消息中复制数字值。这是Salesforce代码无法正确处理错误。
