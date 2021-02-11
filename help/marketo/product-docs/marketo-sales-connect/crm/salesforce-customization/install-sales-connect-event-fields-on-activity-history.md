@@ -3,7 +3,7 @@ unique-page-id: 14352475
 description: 安装活动历史记录中的Sales Connect事件字段- Marketo Docs —— 产品文档
 title: 在事件历史记录上安装Sales Connect活动字段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -35,4 +35,3 @@ ht-degree: 0%
 1. 单击&#x200B;**保存**。
 
    您的用户现在可以在Salesforce中查看有关其电子邮件的宝贵信息和更新！
-
