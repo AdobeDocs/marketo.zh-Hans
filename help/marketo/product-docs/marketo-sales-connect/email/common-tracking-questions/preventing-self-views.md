@@ -3,7 +3,7 @@ unique-page-id: 14352540
 description: 防止自我视图- Marketo Docs —— 产品文档
 title: 防止自我视图
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Sales Connect将在您的浏览器中存储一个cookie，以防止在从Outlook
 1. 在“安全性”下，单击&#x200B;**“从不**”单选按钮。
 
    ![](assets/mac-3.png)
-
