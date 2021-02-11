@@ -3,7 +3,7 @@ unique-page-id: 18317340
 description: Marketo取消订阅检查- Marketo文档——产品文档
 title: Marketo取消订阅检查
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -45,4 +45,3 @@ Marketo取消订阅检查……
 * 需要建立Marketo连接
 * 是全局设置
 * 阻止从Web应用程序、电子邮件客户端和Salesforce发送的电子邮件
-
