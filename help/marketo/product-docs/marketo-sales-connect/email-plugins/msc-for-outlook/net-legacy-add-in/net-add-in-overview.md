@@ -3,9 +3,9 @@ unique-page-id: 14352457
 description: .NET Add-in概述- Marketo Docs —— 产品文档
 title: .NET Add-in概述
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这是我们的旧插件。 如果您已安装它，它将一直运行到2020年。 如果您是新用户，请安装我们新的[Office 365插件](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
+>这是我们的旧插件。 如果您已安装它，它将一直运行到2020年。 如果您是新用户，请安装我们新的[Office 365插件](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
 
 ## 附加一段内容{#attaching-a-piece-of-content}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 按&#x200B;**Templates**&#x200B;按钮，将预制的Tout模板拉入Outlook消息。
 
-我们小组中`sync with all of your personal templates and any shared templates`。 我们还会自动拉取上次使用的模板和最常用的模板，以便轻松访问。
+我们会与您的所有个人模板以及团队之间的任何共享模板进行同步。 我们还会自动拉取上次使用的模板和最常用的模板，以便轻松访问。
 
 ## Tout It按钮{#the-tout-it-button}
 
