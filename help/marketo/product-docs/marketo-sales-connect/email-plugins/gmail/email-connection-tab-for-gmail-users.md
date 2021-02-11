@@ -3,9 +3,9 @@ unique-page-id: 17728401
 description: Gmail用户的“电子邮件连接”选项卡- Marketo Docs —— 产品文档
 title: Gmail用户的“电子邮件连接”选项卡
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -51,5 +51,4 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-   您可以使用此连接跟踪电子邮件，也可以使用[作为投放渠道](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)。
-
+   您可以使用此连接跟踪电子邮件，也可以作为投放渠道。
