@@ -3,7 +3,7 @@ unique-page-id: 18317367
 description: 视图活动列表作为其他用户- Marketo Docs —— 产品文档
 title: 视图活动列表作为其他用户
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >您还可以使用过滤器或搜索功能以及视图As视图与您最相关的内容。
-
