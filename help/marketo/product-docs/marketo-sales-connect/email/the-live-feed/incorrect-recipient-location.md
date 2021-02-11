@@ -3,9 +3,9 @@ unique-page-id: 14352543
 description: 收件人位置不正确- Marketo Docs —— 产品文档
 title: 收件人位置不正确
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 -如果您的电子邮件是由抄送或密送字段中的某个人转发或打开，我们会尝试准确显示这些人的位置。
 
-总的来说，我们将根据IP跟踪尽可能准确地确定位置，但不幸的是，它`isn't an exact science`。
+总的来说，我们将根据IP跟踪尽可能准确地确定位置，但不幸的是，这并不是精确的科学。
