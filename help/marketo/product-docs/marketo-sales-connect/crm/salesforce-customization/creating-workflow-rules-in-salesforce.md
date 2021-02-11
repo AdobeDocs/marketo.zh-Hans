@@ -3,7 +3,7 @@ unique-page-id: 14745823
 description: 在Salesforce中创建工作流规则- Marketo Docs —— 产品文档
 title: 在Salesforce中创建工作流规则
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -101,4 +101,3 @@ ht-degree: 0%
    ![](assets/thirteen.png)
 
    在上一步之后，您可以选择克隆“入门”部分中列出的其他字段的工作流规则：Desc、Type、Source、Date。 在“联系人”对象中完成四个工作流规则后，对“潜在客户”对象重复相同的规则。
-
