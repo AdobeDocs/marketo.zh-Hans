@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: 批量发送选项- Marketo Docs —— 产品文档
 title: 批量发送选项
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 批量发送电子邮件是加快潜在客户互动的绝佳方式。 Sales Connect优惠了两种批量发送电子邮件的方式：**分组电子邮件**&#x200B;和&#x200B;**选择并发送**。 分组电子邮件是快速将数百封电子邮件发送给目标组的极好方法。 使用“选择并发送”意味着电子邮件的限度较低，但会为用户优惠更多自定义机会。
 
-分组电子邮件与选择和发送
+**分组电子邮件与选择和发送**
 
 <table> 
  <colgroup> 
@@ -54,20 +54,16 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-使用组电子邮件
+**使用组电子邮件**
 
 您可以预览列表中的每封电子邮件，查看动态字段是否正确填充，并可以批量编辑要发出的模板。 但是，您无法进行唯一的“每用户”编辑。
 
-使用选择和发送
+**使用选择和发送**
 
 默认情况下，您将编辑所有收件人。 但是，您也可以选择每封单独的电子邮件，以对其进行自定义编辑。 这对于向您想采用更个性化方法的收件人添加一行或多行唯一的自定义产品非常有用。
 
 >[!MORELIKETHIS]
 >
->* [使用“选择并发送”编写批量电子邮件](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
->* [通过组电子邮件发送电子邮件](http://docs.marketo.com/x/KAQ6Ag)
-
->
-
-
+>* [使用“选择并发送”编写批量电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [通过组电子邮件发送电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 
