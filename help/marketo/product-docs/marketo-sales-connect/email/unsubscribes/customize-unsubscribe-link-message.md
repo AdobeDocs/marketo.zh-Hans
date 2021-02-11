@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: 自定义取消订阅链接消息- Marketo文档——产品文档
 title: 自定义取消订阅链接消息
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 自定义消息{#customize-messaging-for-yourself}
 
-1. 登录到[Web应用程序](http://toutapp.com/login)，单击右上方的齿轮图标，然后选择&#x200B;**设置**。
+1. 登录[Web应用程序](https://toutapp.com/login)，单击右上方的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 为您的团队设置取消订阅消息{#set-unsubscribe-messaging-for-your-team}
 
-1. 登录到[Web应用程序](http://toutapp.com/login)，单击右上方的齿轮图标，然后选择&#x200B;**设置**。
+1. 登录[Web应用程序](https://toutapp.com/login)，单击右上方的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ ht-degree: 0%
 1. 选择&#x200B;**我正在为我的团队**&#x200B;设置默认消息，以使消息应用于所有用户。
 
    ![](assets/eleven.png)
-
