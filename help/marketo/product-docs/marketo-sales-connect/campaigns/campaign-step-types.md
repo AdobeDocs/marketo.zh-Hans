@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: 活动步骤类型- Marketo Docs —— 产品文档
 title: 活动步骤类型
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->了解有关[发送选项](http://docs.marketo.com/x/7QDb)的详细信息。
+>了解有关[发送选项](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)的详细信息。
 
 ## 调用{#call}
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 如果上述选项不适用，则使用自定义任务。 例如，您可以邀请同事通过电子邮件跟进潜在客户。
 
 ![](assets/custom.png)
-
