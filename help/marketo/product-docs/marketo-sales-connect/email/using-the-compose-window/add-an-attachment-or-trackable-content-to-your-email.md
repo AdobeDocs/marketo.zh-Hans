@@ -3,7 +3,7 @@ unique-page-id: 37356587
 description: 将附件或可跟踪内容添加到电子邮件- Marketo Docs —— 产品文档
 title: 向电子邮件中添加附件或可跟踪的内容
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -70,4 +70,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >当用户查看其跟踪的内容时，将在实时源中通知用户。 用户还可以在“分析”页面的内容部分查看效果最佳的内容。
-
