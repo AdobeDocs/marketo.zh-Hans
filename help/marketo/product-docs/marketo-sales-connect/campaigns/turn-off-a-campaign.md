@@ -3,9 +3,9 @@ unique-page-id: 14352609
 description: 关闭活动- Marketo Docs —— 产品文档
 title: 关闭活动
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这仅适用于已与[Gmail或Exchange](https://toutapp.com/next#settings/email-tracking)集成并启用回复跟踪的客户。
+>这仅适用于已与Gmail或Exchange集成并启用回复跟踪的客户。
 
 ## 关闭一人活动{#turn-off-a-campaign-for-one-person}
 
