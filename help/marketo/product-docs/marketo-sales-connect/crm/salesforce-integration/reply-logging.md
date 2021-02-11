@@ -3,9 +3,9 @@ unique-page-id: 14352480
 description: 回复日志记录(SFDC)- Marketo Docs —— 产品文档
 title: 回复日志记录(SFDC)
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -18,14 +18,13 @@ Sales Connect为您提供自动记录潜在客户对Salesforce的回复的能力
 ## 要求{#requirements}
 
 * 必须通过API记录记录电子邮件
-* 必须能够[跟踪回复](http://docs.marketo.com/x/BYPS)
+* 必须能够[跟踪回复](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
 * 必须与Salesforce连接
-* 必须具有可用的Salesforce [API调用](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)
+* 必须具有可用的Salesforce [API调用](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)
 
 ## 启用回复日志{#enable-reply-logging}
 
-1. 要启用回复记录，您可以转到[Salesforce设置](http://docs.marketo.com/pages/assets/external-link.jspa)页面。 一旦API记录被勾选，您将看到选项“勾选*日志回复”。\
-   *
+1. 要启用回复记录，您可以转到Salesforce设置页面。 一旦API日志记录被勾选，您将看到选项检查&#x200B;_日志回复_。
 
    >[!NOTE]
    >
@@ -35,7 +34,7 @@ Sales Connect为您提供自动记录潜在客户对Salesforce的回复的能力
 
 从Salesforce报表获取有意义的数据非常重要。 通过将“类型”字段填充为“回复”，您可以通过报表获取该数据。 与您的`Salesforce admin`合作以获取此设置。
 
-1. 转到**设置**> **自定义**> **活动**> **任务字段**。
+1. 转至&#x200B;**设置** > **自定义** > **活动** > **任务字段**。
 1. 单击&#x200B;**类型**。
 1. 在“任务类型选择列表值”下，单击&#x200B;**新建**。
 1. 在空框中键入“回复”。 确保将“R”大写，然后单击&#x200B;**保存**。
@@ -43,4 +42,3 @@ Sales Connect为您提供自动记录潜在客户对Salesforce的回复的能力
    >[!NOTE]
    >
    >您无需在“类型”(Type)选择列表下选择“默认”(Default)。 Sales Connect将看到此活动类型在您的Salesforce实例中可用，并相应地在传入活动上填充任务字段。
-
