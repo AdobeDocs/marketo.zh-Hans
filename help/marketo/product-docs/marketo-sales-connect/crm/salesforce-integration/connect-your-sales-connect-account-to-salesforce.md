@@ -3,9 +3,9 @@ unique-page-id: 14352423
 description: 将您的Sales Connect帐户连接到Salesforce - Marketo Docs —— 产品文档
 title: 将您的Sales Connect帐户连接到Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 如果您已登录Salesforce，则将连接您。 如果不是，系统将要求您登录。
+1. 如果您已登录Salesforce，则将连接您。 如果不是，将要求您登录。
 
 ## 如何以非管理员身份连接{#how-to-connect-as-a-non-admin}
 
@@ -53,5 +53,4 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 如果您已登录Salesforce，则将连接您。 如果不是，系统将要求您登录。
-
+1. 如果您已登录Salesforce，则将连接您。 如果不是，将要求您登录。
