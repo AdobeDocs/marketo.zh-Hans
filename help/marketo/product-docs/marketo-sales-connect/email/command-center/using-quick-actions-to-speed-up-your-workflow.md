@@ -3,9 +3,9 @@ unique-page-id: 37357306
 description: 使用快速操作加快您的工作流程- Marketo Docs —— 产品文档
 title: 使用快速操作加快您的工作流程
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 0%
 
 **已交付**
 
-| 存档 | 将向存档的文件夹中添加电子邮件并停止所有禁用视图，然后单击该电子邮件的跟踪。 |
+| 状态 | 说明 |
 |---|---|
+| 存档 | 将向存档的文件夹中添加电子邮件并停止所有禁用视图，然后单击该电子邮件的跟踪。 |
 | 成功 | 将标记电子邮件成功以在模板分析中报告。 |
 
 **已存档**
@@ -84,13 +85,11 @@ ht-degree: 0%
 
 **后续操作**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| 发送跟进电子邮件 | 打开包含所选内嵌电子邮件正文的合成窗口，并随时向收件人发送。 |
+| 函数 | 说明 |
 |---|---|
+| 发送跟进电子邮件 | 打开包含所选内嵌电子邮件正文的合成窗口，并随时向收件人发送。 |
 | 拨叫 | 打开销售电话，拨打电子邮件收件人。 |
 | 发送InMail | 重定向到LinkedIn，以向他人发送InMail邮件。 |
 | 创建任务 | 打开创建任务弹出窗口以创建提醒任务。 |
-
