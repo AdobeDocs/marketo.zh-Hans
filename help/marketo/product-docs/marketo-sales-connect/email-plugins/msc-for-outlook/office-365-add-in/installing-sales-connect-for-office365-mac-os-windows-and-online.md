@@ -3,7 +3,7 @@ unique-page-id: 14352455
 description: 安装Sales Connect for Office365 Mac OS、Windows和Online - Marketo Docs —— 产品文档
 title: 安装Sales Connect for Office365 Mac OS、Windows和Online
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 安装Sales Connect for Office365 Mac OS、Windows和Online {#installing-sales-connect-for-office-mac-os-windows-and-online}
 
-我们创建了与Outlook Web应用程序的集成。 Outlook Web Apps是随Office 365订阅提供的Outlook版本。 由于它基于浏览器，因此集成在Mac和Windows上都能正常工作。 [单击此处查看完整的安装指南](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
+我们创建了与Outlook Web应用程序的集成。 Outlook Web Apps是随Office 365订阅提供的Outlook版本。 由于它基于浏览器，因此集成在Mac和Windows上都能正常工作。 [单击此处查看完整的安装指南](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
 
-作为管理员，您可以[代表整个团队安装此组件](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)。
+作为管理员，您可以[代表整个团队安装此组件](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)。
 
 >[!NOTE]
 >
@@ -32,4 +32,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >.Net插件不再支持从Outlook安排电子邮件。 您需要更新至Office365插件以计划电子邮件。
-
