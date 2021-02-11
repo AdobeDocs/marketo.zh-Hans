@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: 将任务分配给团队成员- Marketo Docs —— 产品文档
 title: 为团队成员分配任务
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您只能为共享联系人分配任务。 在与共享任务协作之前，您将希望与团队成员[共享一组联系人](http://docs.marketo.com/x/fwDb)。
+>您只能为共享联系人分配任务。 在与共享任务协作之前，您将希望与团队成员[共享一组联系人](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)。
 
 1. 单击&#x200B;**命令中心**。
 
@@ -57,5 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[如何共享组](http://docs.marketo.com/x/fwDb)
-
+>[如何共享组](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
