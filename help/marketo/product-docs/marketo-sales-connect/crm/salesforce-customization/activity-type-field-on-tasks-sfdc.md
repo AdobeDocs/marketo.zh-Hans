@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: 活动(SFDC)上的“任务类型”字段- Marketo Docs —— 产品文档
 title: 活动上的任务类型字段(SFDC)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ ht-degree: 0%
 * 与Salesforce的连接
 * 未在“任务类型”选择列表上选择默认类型值
 * 呼叫、回复和电子邮件必须都位于“任务类型”选择列表下（大写事项）
-* 没有`Workflows`或`Triggers`对“类型”字段的值执行操作
+* 没有工作流或触发器对“类型”字段的值执行操作
 
 ## 设置{#setup}
 
 首先检查您是否具有正确的选择列表值。 您需要Salesforce管理员的帮助才能对选择列表进行任何更改。
 
-1. 导航到[Salesforce.com](http://Salesforce.com)并单击右上角的“设置”。
+1. 导航到[Salesforce.com](https://salesforce.com)并单击右上角的“设置”。
 1. 单击“自定义”。
 1. 单击活动。
 1. 单击任务字段。
