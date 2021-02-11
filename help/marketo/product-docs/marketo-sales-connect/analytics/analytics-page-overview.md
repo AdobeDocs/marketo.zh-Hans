@@ -3,9 +3,9 @@ unique-page-id: 14352416
 description: 分析页面概述- Marketo Docs —— 产品文档
 title: 分析页面概述
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ## 这些数字意味着什么？{#what-do-the-numbers-mean}
 
-`radials`中的数字将计算所有已发送电子邮件的事件总数。 如果这个数字`single same email is viewed five times, it will add five views`。 同样的想法也适用于在圆圈内计数的点击和回复。
+辐射数中的数字计算所有发送电子邮件的事件总数。 因此，如果同一封电子邮件被查看了5次，则会为此数字添加5个视图。 同样的想法也适用于在圆圈内计数的点击和回复。
 
-我们保存在`table`中的所有统计数据都将通过查看您电子邮件的独特视图、点击和回复来计算。 如果`one email is viewed five times, we will count that as one view.`，则表中的数字与径向中的数字可能会有很大差异。
+我们保存在表格中的所有统计数据都将通过查看独特的视图、点击和电子邮件回复来计算。 如果一封电子邮件被查看了五次，我们会将其视为一封视图。 这就是为什么你可能看到表格中的数字和径向图形中的数字有很大差别。
 
 ## 分析选项卡{#analytic-tabs}
 
@@ -45,6 +45,6 @@ ht-degree: 0%
 
 内容选项卡包含模板、内容和链接的统计信息。 您可以按所有人或您的管理员创建的团队进行筛选。
 
-如果在主题列下看到蓝色文本，则表示模板为`shared`。 您可以单击要转到该模板的蓝色文本。 通过单击&#x200B;**模板分析**&#x200B;视图其用法。
+如果在主题列下看到蓝色文本，则表示模板已共享。 您可以单击要转到该模板的蓝色文本。 通过单击&#x200B;**模板分析**&#x200B;视图其用法。
 
 当收件人单击您电子邮件中的链接时，将计算“点击内容”。
