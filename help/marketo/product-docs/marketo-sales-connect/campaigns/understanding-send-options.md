@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: 了解发送选项- Marketo Docs —— 产品文档
 title: 了解发送选项
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ ht-degree: 0%
 将此电子邮件线程化到上一封电子邮件
 
 * 此发送选项将是您上一封电子邮件的“跟进”，并将上一封电子邮件的正文追加到此电子邮件的底部。
-
