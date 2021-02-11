@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: 添加到营销活动- Marketo Docs —— 产品文档
 title: 添加到营销活动
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[使活动对销售用户可见](http://docs.marketo.com/x/NwDh)
+>[使活动对销售用户可见](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## 将个人添加到活动{#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->要从Sales Connect将人员添加到Marketo活动,Sales Connect必须具有该人员的Marketo潜在客户ID。 [在此处了解如何捕获Marketo ID](http://docs.marketo.com/x/CQXLAQ)。
+>要从Sales Connect将人员添加到Marketo活动,Sales Connect必须具有该人员的Marketo潜在客户ID。 [在此处了解如何捕获Marketo ID](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)。
 
 1. 单击&#x200B;**People**&#x200B;选项卡。
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要从Sales Connect将人员添加到Marketo活动,Sales Connect必须具有该人员的Marketo潜在客户ID。 [在此处了解如何捕获Marketo ID](http://docs.marketo.com/x/CQXLAQ)。
+   >要从Sales Connect将人员添加到Marketo活动,Sales Connect必须具有该人员的Marketo潜在客户ID。 [在此处了解如何捕获Marketo ID](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)。
 
 1. 单击“工作区”(Workspaces)下拉框，然后选择包含要将组添加到的活动的工作区。
 
@@ -104,4 +104,3 @@ ht-degree: 0%
 1. 您已显示符合条件的联系人。 单击&#x200B;**开始**&#x200B;以添加它们。
 
    ![](assets/nine.png)
-
