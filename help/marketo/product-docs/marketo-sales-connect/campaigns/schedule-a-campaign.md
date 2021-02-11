@@ -3,7 +3,7 @@ unique-page-id: 14352612
 description: 计划活动-营销文档——产品文档
 title: 计划活动
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 单击&#x200B;**Next**&#x200B;后，可以预览第一封电子邮件。
 
-再次单击**下一个**后，您将被带到希望活动外出时的选项。 您可以立即进行开始，也可以计划一段时间以后开始活动。
+再次单击&#x200B;**Next**&#x200B;后，您将选择一个选项，选择何时活动退出。 您可以立即进行开始，也可以计划一段时间以后开始活动。
