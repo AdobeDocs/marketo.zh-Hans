@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: 在Salesforce Classic - Marketo Docs —— 产品文档中使用批量操作
 title: 在Salesforce Classic中使用批量操作
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->更新至Sales Connect包的最新版本，并在潜在客户／联系视图中安装批量操作按钮。 [单击此处以获取说明](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)。
+>更新至Sales Connect包的最新版本，并在潜在客户／联系视图中安装批量操作按钮。 [单击此处以获取说明](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)。
 
 >[!NOTE]
 >
@@ -81,10 +81,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [通过组电子邮件发送电子邮件](http://docs.marketo.com/x/KAQ6Ag)
->* [使用“选择并发送”编写批量电子邮件](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
-
->
-
-
+>* [通过组电子邮件发送电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [使用“选择并发送”编写批量电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 
