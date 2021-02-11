@@ -3,7 +3,7 @@ unique-page-id: 14352591
 description: 添加内容——营销文档——产品文档
 title: 添加内容
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -20,4 +20,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >文件将放在光标在电子邮件中的位置，您在发送电子邮件时必须单击“Tout It”，才能跟踪实时源中的内容。
-
