@@ -3,9 +3,9 @@ unique-page-id: 14352618
 description: 创建活动- Marketo Docs —— 产品文档
 title: 创建活动
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >单击&#x200B;**类别**&#x200B;旁边的** +**，创建新类别。
+   >通过单击&#x200B;**类别**&#x200B;旁边的&#x200B;**+**&#x200B;创建新类别。
 
 1. 您选择的类别将被选中。 如果您改变了主意，请单击下拉框，然后选择其他下拉框。 完成后，单击&#x200B;**继续**。
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 在以下选项中进行选择：电子邮件、呼叫、InMail或自定义任务。 在本例中，我们选择[电子邮件](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email)。
+1. 在以下选项中进行选择：电子邮件、呼叫、InMail或自定义任务。 在本例中，我们选择[电子邮件](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email)。
 
    ![](assets/five-1.png)
 
@@ -54,11 +54,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >“天数”不是操作之间的天数，而是序列中的天数。 例如，如果您的活动将持续7天，则输入“3”表示操作将在第3天（共7天）开始， **不会**3天后开始。
+   >“天数”不是操作之间的天数，而是序列中的天数。 例如，如果活动将持续7天，则输入“3”表示操作将在第3天（共7天）开始，**不** 3天后开始。
 
 1. 请确保您自定义日程安排和回复选项，如通过访问活动的&#x200B;**设置选项卡**&#x200B;跳过周末（这太棒了）。
 
    ![](assets/seven.png)
 
    现在是时候开始给活动添人了！
-
