@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: 如何在Salesforce沙箱中安装自定义- Marketo Docs —— 产品文档
 title: 如何在Salesforce沙箱中安装自定义
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[将销售连接连接到您的Salesforce沙箱](http://docs.marketo.com/x/DYDq)
+>[将销售连接连接到您的Salesforce沙箱](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
 1. 在Sales Connect中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   接下来，只需像在常规Salesforce帐户中一样完成安装自定义项的步骤。 跳到此视频[的1分钟标记以了解详细信息。](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce)
-
+   接下来，只需像在常规Salesforce帐户中一样完成安装自定义项的步骤。
