@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: 发送跟踪的电子邮件——营销人员文档——产品文档
 title: 发送跟踪的电子邮件
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,8 @@ ht-degree: 0%
 >
 >在发送跟踪的电子邮件之前，您需要验证身份并设置电子邮件投放渠道。
 >
->* [验证您的电子邮件地址](http://docs.marketo.com/x/ewPh)
->* 为[Outlook](http://docs.marketo.com/x/Z4AOAQ)或[Gmail](http://docs.marketo.com/x/kYMOAQ)设置投放渠道
-
->
-
+>* [验证您的电子邮件地址](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* 为[Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)或[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)设置投放渠道
 
 
 1. 创建电子邮件草稿（有多种方法可以执行此操作，在此示例中，我们将在标题中选择&#x200B;**起草**）。
@@ -54,17 +51,12 @@ ht-degree: 0%
    >
    >发送电子邮件需要主题行和收件人。 添加主题行和收件人后，我们将&#x200B;**自动保存您的草稿**。
 
-1. 使用编辑器撰写电子邮件。 完成后，单击&#x200B;**发送**(或[计划](http://docs.marketo.com/x/GAQ6Ag)，如果您愿意)。
+1. 使用编辑器撰写电子邮件。 完成后，单击&#x200B;**发送**(或[计划](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)，如果您愿意)。
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [安排电子邮件](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [动态字段](http://docs.marketo.com/x/wwDb)
-   >    * [使用模板](http://docs.marketo.com/display/DOCS/Templates)
-
+   >* [安排电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [模板](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 
