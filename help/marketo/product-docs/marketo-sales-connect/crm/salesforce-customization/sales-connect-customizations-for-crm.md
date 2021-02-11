@@ -3,9 +3,9 @@ unique-page-id: 14745793
 description: CRM的Sales Connect自定义- Marketo Docs —— 产品文档
 title: CRM的Sales Connect自定义
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '626'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # CRM {#sales-connect-customizations-for-crm}的Sales Connect自定义
 
-以下字段和按钮由Salesforce CRM中的元数据API创建。 创建字段后，管理员必须在其CRM中配置页面布局才能显示它们。 此处[可找到说明。](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)
+以下字段和按钮由Salesforce CRM中的元数据API创建。 创建字段后，管理员必须在其CRM中配置页面布局才能显示它们。 此处](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)可找到说明。[
 
 >[!NOTE]
 >
@@ -134,14 +134,8 @@ Marketo将检测新字段的创建，然后执行一次性数据回填、重新�
 
 ## 用户指南{#user-guides}
 
-[Salesforce中的MSE自定义报表](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Salesforce中的MSE自定义报表](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[Salesforce的MSE](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[Salesforce的MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[Salesforce闪电的MSE](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
-
-## 相关视频{#related-videos}
-
-**如何在Salesforce中安装自定义**
-`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` **在Salesforce中使用自定义的优势** 
-`<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+[Salesforce闪电的MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
