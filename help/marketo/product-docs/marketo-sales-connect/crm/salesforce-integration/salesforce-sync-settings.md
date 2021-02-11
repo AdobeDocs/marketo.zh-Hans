@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce同步设置- Marketo Docs —— 产品文档
 title: Salesforce同步设置
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -86,12 +86,12 @@ ht-degree: 0%
 >
 >您需要管理员权限才能设置此设置。
 
-1. 单击&#x200B;**安装程序&#x200B;*。* **
-1. 单击&#x200B;**电子邮件管理&#x200B;*。* **
-1. 单击&#x200B;**向Salesforce发送电子邮件&#x200B;*。* **
+1. 单击&#x200B;**安装程序**。
+1. 单击&#x200B;**电子邮件管理**。
+1. 单击&#x200B;**向Salesforce发送电子邮件**。
 1. 单击&#x200B;**编辑**。
-1. 选中“活动*”旁的复选框。*
-1. 单击&#x200B;**保存&#x200B;*。* **
+1. 选中“活动”旁的复选框。
+1. 单击&#x200B;**保存**。
 
 ## 将销售活动任务/提醒同步到Salesforce任务{#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
@@ -114,4 +114,3 @@ ht-degree: 0%
 1. 选择所需的选项(默认情况下，选中“不同步到Salesforce任务”)。
 
    ![](assets/eight.png)
-
