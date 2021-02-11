@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: 如何将Sales Connect连接到您的Salesforce沙箱- Marketo文档——产品文档
 title: 如何将Sales Connect连接到Salesforce沙箱
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->在建立与沙箱的连接时，您的Sales Connect帐户无法已连接到Salesforce。 如果是，请确保在执行本文中的步骤之前断开连接。[](http://docs.marketo.com/x/FoDq)
+>在建立与沙箱的连接时，您的Sales Connect帐户无法已连接到Salesforce。 如果是，请确保在执行本文中的步骤之前断开连接。[](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
 
 1. 在Sales Connect中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[如何在Salesforce沙箱中安装自定义](http://docs.marketo.com/x/EIDq)
-
+>[如何在Salesforce沙箱中安装自定义](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
