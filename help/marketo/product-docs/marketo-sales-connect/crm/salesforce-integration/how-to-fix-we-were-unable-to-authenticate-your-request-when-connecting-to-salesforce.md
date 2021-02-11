@@ -3,7 +3,7 @@ unique-page-id: 14352484
 description: 如何修复连接到Salesforce - Marketo Docs —— 产品文档时的“We Unable to Authenticate Your Request”
 title: 如何在连接到Salesforce时修复“We Unable to Authenticate Your Request”
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -31,4 +31,3 @@ ht-degree: 0%
 1. 选择&#x200B;**管理应用程序**。
 1. 选择&#x200B;**连接的应用程序OAuth使用情况**。
 1. 确保Sales Connect旁边显示“阻止”。 如果看到“取消阻止”，请单击按钮以取消阻止Sales Connect对Salesforce的访问。
-
