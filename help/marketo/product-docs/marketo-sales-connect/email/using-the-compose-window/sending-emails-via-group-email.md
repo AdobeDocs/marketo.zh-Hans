@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: 通过组电子邮件发送电子邮件- Marketo Docs —— 产品文档
 title: 通过组电子邮件发送电子邮件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ ht-degree: 0%
 
 ## 编辑组电子邮件{#editing-a-group-email}
 
-1. 使用上面的[步骤1-3创建组电子邮件。](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail)
+1. 使用上面的[步骤1-3创建组电子邮件。](#sending-a-group-email)
+
 1. 选择模板，或填写您的电子邮件。
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [批量发送选项](http://docs.marketo.com/x/HwQ6Ag)
->* [在合成窗口中使用模板](http://docs.marketo.com/x/MQQ6Ag)
->* [动态字段](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [批量发送选项](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [在合成窗口中使用模板](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
