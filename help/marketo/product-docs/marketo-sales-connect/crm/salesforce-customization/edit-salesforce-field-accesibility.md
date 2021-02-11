@@ -3,7 +3,7 @@ unique-page-id: 14352472
 description: 编辑Salesforce字段辅助功能- Marketo文档——产品文档
 title: 编辑Salesforce字段辅助功能
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -20,4 +20,3 @@ ht-degree: 0%
 * 请与您的Salesforce管理员合作，确保这些安全设置不会干扰Sales Connect。
 
 * 如果您是Salesforce管理员，则可以在安全控制选项卡下看到字段辅助功能。 Sales Connect将与以下主要字段交互：帐户、联系人、机会、潜在客户和任务。
-
