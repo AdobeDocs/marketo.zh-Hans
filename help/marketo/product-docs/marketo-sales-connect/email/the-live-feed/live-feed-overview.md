@@ -3,7 +3,7 @@ unique-page-id: 13796471
 description: 实时信息源概述- Marketo Docs —— 产品文档
 title: 实时源概述
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -33,9 +33,6 @@ ht-degree: 0%
 >
 >* 如果您的收件人已登录到无线网络，并且公司的IT总部位于其他城市或国家／地区，我们将记录该位置，而不是收件人的当前区域。
 >* 如果您的电子邮件是由抄送／密件抄送字段中的某人转发或打开的，我们会尝试准确显示这些人的位置。
-
->
-
 
 
 ## 任务选项卡{#tasks-tab}
@@ -106,4 +103,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >如果您看到某人在您的实时源中一遍又一遍地视图您的电子邮件，他们可能已将该电子邮件转发给其他收件人。 如果您注意到这些开始要更改的位置视图，则最可能出现这种情况。
-
