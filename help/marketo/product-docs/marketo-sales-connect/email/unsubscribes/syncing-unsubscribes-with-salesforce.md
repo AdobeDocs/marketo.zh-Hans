@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: 与Salesforce同步取消订阅——营销文档——产品文档
 title: 与Salesforce同步取消订阅
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 用户可以决定是要将其取消订阅与Marketo还可以同步的选择退出标准电子邮件字段同步，还是可以与Marketo销售字段同步选择退出，以便能够区分销售取消订阅和营销取消订阅。
 
-1. 转至[Web应用程序](http://toutapp.com/login)，单击齿轮图标并选择&#x200B;**设置**。
+1. 转至[Web应用程序](https://toutapp.com/login)，单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/one-1.png)
 
@@ -47,8 +47,9 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-   | **同步到Salesforce字选择退出段** | 默认情况下，选中此项后，仅更新Salesforce选择退出字段。 |
+   | 字段 | 说明 |
    |---|---|
+   | **同步到Salesforce字选择退出段** | 默认情况下，选中此项后，仅更新Salesforce选择退出字段。 |
    | **同步到Marketo销售字选择退出段** | 如果要将“销售”和“市场营销”分开取消订阅，请选择此选项以更新其他[“市场选择退出营销”字段。](#msoo) |
 
 ## 在页选择退出面布局{#installing-the-opt-out-field-in-the-page-layout}中安装字段
@@ -57,7 +58,7 @@ ht-degree: 0%
 
 电选择退出子邮件是Salesforce中可从Salesforce安装的标准字段。 您必须是Salesforce管理员才能安装它。
 
-1. 转到[Salesforce.com](http://Salesforce.com)并登录。
+1. 转到[Salesforce.com](https://salesforce.com)并登录。
 
    ![](assets/five-1.png)
 
