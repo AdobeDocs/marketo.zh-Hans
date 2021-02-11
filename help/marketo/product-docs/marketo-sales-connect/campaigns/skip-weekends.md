@@ -3,7 +3,7 @@ unique-page-id: 14352622
 description: 跳过周末- Marketo Docs —— 产品文档
 title: 跳过周末
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 自动活动时，您可能不希望在星期六或星期日发送电子邮件。 否则，您可以跳过周末。
 
-1. 在Sales Connect中，单击“活动”选项卡。
+1. 在Sales Connect中，单击&#x200B;**活动**&#x200B;选项卡。
 
    ![](assets/one-2.png)
 
@@ -34,4 +34,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >您的电子邮件将根据7天的周期进行计划，周末时间不超过周末。
-
