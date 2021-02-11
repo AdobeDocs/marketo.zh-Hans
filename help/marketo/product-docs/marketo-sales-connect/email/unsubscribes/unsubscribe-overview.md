@@ -3,7 +3,7 @@ unique-page-id: 14746161
 description: 取消订阅概述- Marketo Docs —— 产品文档
 title: 取消订阅概述
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,4 +20,3 @@ ht-degree: 0%
 * 取消订阅信息存储在PDFV中
 * 取消订阅可以手动完成：单击了链接、Salesforce同步和弹出
 * 新的取消订阅链接登陆页
-
