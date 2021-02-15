@@ -1,9 +1,9 @@
 ---
 unique-page-id: 13796466
-description: Sales Connect快速入门- Marketo Docs —— 产品文档
-title: 销售连接入门
+description: Sales Connect快速入门 — Marketo Docs — 产品文档
+title: Sales Connect入门
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 销售连接入门{#getting-started-with-sales-connect}
+# Sales Connect {#getting-started-with-sales-connect}入门
 
 如果您希望观看这些步骤而不是阅读它们，请直接跳到](#video)下面的[视频说明。
 
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 ## 您需要入门的内容{#what-you-need-to-get-started}
 
-* 营销订阅
-* 销售连接订阅
+* Marketo订阅
+* Sales Connect订阅
 * Salesforce订阅（启用API调用和Apex类）
 
-## 您需要开始{#who-you-need-to-get-started}的人
+## 您需要从谁开始{#who-you-need-to-get-started}
 
 * Marketo管理员用户
-* 销售Connect管理员用户
+* Sales Connect管理员用户
 * Salesforce管理员
 * Sales Connect用户
 
 ## Sales Connect管理员{#sales-connect-admins}
 
-您将收到一封来自Marketo的电子邮件，其中包含重置密码的链接。 创建新密码后，请登录Sales Connect。
+您将收到Marketo发来的一封电子邮件，其中包含重置密码的链接。 创建新口令后，请登录Sales Connect。
 
 要完成设置，您必须执行以下操作：
 
-* [连接销售连接和销售人员](#sfdc)
+* [连接Sales Connect和Salesforce](#sfdc)
 * [在将Sales Connect与Marketo连接之前获取凭据](#acquire)
 * [Connect Sales Connect与Marketo](#mkto)
-* [邀请／配置用户](#IPU)
+* [邀请/设置用户](#IPU)
 
 （可选）您还可以：
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
 ## 将您的Sales Connect帐户连接到Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-要将您的Sales Connect帐户连接到您的Salesforce帐户（以管理员或非管理员身份），请按照[本文](http://docs.marketo.com/x/JwDb)中的步骤操作。
+要将您的Sales Connect帐户以管理员或非管理员身份连接到您的Salesforce帐户，请按照[本文](https://docs.marketo.com/x/JwDb)中的步骤操作。
 
 >[!NOTE]
 >
->您连接的Salesforce实例必须与已（或将）连接到Marketo的实例相同。
+>您所连接的Salesforce实例必须与已（或将）连接到Marketo的实例相同。
 
-## 在将Sales Connect与Marketo{#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}连接之前获取凭据
+## 在将Sales Connect与Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}连接之前获取凭据
 
-您需要从Marketo中获取一组凭据。 以后，Sales Connect管理员将使用这些凭据将Marketo与Sales Connect连接。
+您需要从Marketo中获取一组凭据。 以后，销售连接管理员将使用这些凭据将Marketo与销售连接连接。
 
-1. 在Marketo中，单击&#x200B;**管理**。
+1. 在Marketo中，单击&#x200B;**管理员**。
 
    ![](assets/one.png)
 
@@ -67,15 +67,15 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 选择以下Marketo凭据并将其发送给您的Sales Connect管理员：Munchkin ID、Client ID、Client Secret。
+1. 选择以下Marketo凭据并将其发送给您的Sales Connect管理员：Munchkin ID、客户端ID、客户端机密。
 
    ![](assets/3.jpg)
 
    >[!NOTE]
    >
-   >复制并粘贴上述信息时，请确保未添加任何空格。
+   >复制并粘贴上述信息时，请确保未添加空格。
 
-## 将Sales Connect连接到Marketo {#connect-sales-connect-to-marketo}
+## 将销售连接到Marketo {#connect-sales-connect-to-marketo}
 
 1. 在Sales Connect中，单击齿轮图标，然后选择&#x200B;**设置**。
 
@@ -89,11 +89,11 @@ ht-degree: 0%
 
    ![](assets/credentials.png)
 
-## 邀请／配置用户{#invite-provision-users}
+## 邀请/设置用户{#invite-provision-users}
 
-如果您的帐户（以前来自ToutApp）上已存在任何用户，他们将显示在Sales Connect的Marketo部分的&#x200B;**团队访问**&#x200B;选项卡中。
+如果您的帐户（以前来自ToutApp）上已存在任何用户，他们将显示在Sales Connect的“Marketo”部分的&#x200B;**“团队访问”**&#x200B;选项卡中。
 
-您可以通过此页面将您的团队配置为Marketo Sales Connect用户。 如果您从未使用过ToutApp，或尚未邀请用户，请按照[本文](http://docs.marketo.com/display/TOUT/Invite+Team+Members)中的步骤操作。
+您可以通过此页面将您的团队配置为Marketo Sales Connect用户。 如果您从未使用过ToutApp，或尚未邀请用户，请按照[本文](https://docs.marketo.com/display/TOUT/Invite+Team+Members)中的步骤操作。
 
 >[!CAUTION]
 >
@@ -107,7 +107,7 @@ ht-degree: 0%
 
    ![](assets/users.png)
 
-1. 如果您的营销订阅启用了工作区，您将能够批量为每个用户或一组用户分配工作区。 如果未选择任何工作区，我们将将其分配到默认营销工具工作区。
+1. 如果您的Marketo订阅启用了工作区，您将能够批量将工作区分配给每个用户或一组用户。 如果未选择任何工作区，我们会将它们分配给默认营销工具工作区。
 
    ![](assets/nine.jpg)
 
@@ -117,14 +117,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果要添加新用户，请转至“管理设置”的“团队管理”部分，然后单击&#x200B;**邀请用户**&#x200B;按钮。
+   >如果要添加新用户，请转到“管理设置”的“团队管理”部分，然后单击&#x200B;**邀请用户**&#x200B;按钮。
 
-您可以从“团队管理”页面添加用户，然后按照上述步骤连接他们。
+您可以从“团队管理”页面添加更多用户，然后按照上述步骤与他们连接。
 
 ## 在沙箱{#test-sales-connect-in-your-sandbox}中测试Sales Connect
 
-对于希望使用Marketo Sales Connect测试其Marketo Sandbox的团队，可以根据请求设置额外的Sales Connect帐户。 这仅适用于已购买Marketo Sandbox的客户，或将其作为其Marketo捆绑包的一部分的客户。 如果您对获取沙箱感兴趣，请与您的Marketo客户经理联系。
+对于希望使用其Marketo Sandbox测试Marketo Sales Connect的团队，可以根据请求设置其他Sales Connect帐户。 这仅适用于已购买Marketo Sandbox的客户，或作为其Marketo捆绑包的一部分购买Marketo Sandbox的客户。 如果您对获取沙箱感兴趣，请与您的Marketo客户经理联系。
 
 >[!NOTE]
 >
->不能将具有相同电子邮件ID的Sales Connect帐户配置到多个实例。 这意味着，如果您希望有一个额外的Sales Connect帐户来测试Marketo沙箱实例，您需要在每个帐户中使用不同的电子邮件ID。
+>不能将具有相同电子邮件ID的Sales Connect帐户配置到多个实例。 这意味着，如果您想拥有一个额外的Sales Connect帐户以使用Marketo Sandbox实例进行测试，则需要在每个帐户中使用不同的电子邮件ID。
