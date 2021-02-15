@@ -1,9 +1,9 @@
 ---
 unique-page-id: 12981050
-description: 锁定销售模板——营销文档——产品文档
+description: 锁定销售模板 — Marketo Docs — 产品文档
 title: 锁定销售模板
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 1. 转至&#x200B;**Admin**，然后单击&#x200B;**Sales Insight**。
 
    ![](assets/1.png)
 
-1. 在&#x200B;**设置**&#x200B;下，单击&#x200B;**编辑**。
+1. 在&#x200B;**Settings**&#x200B;下，单击&#x200B;**Edit**。
 
    ![](assets/2.png)
 
@@ -39,11 +39,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->默认情况下，此框处于选中状态，并启用锁定模板的功能。 取消选中此选项将禁用电子邮件编辑器中的锁定模板功能。
+>默认情况下，选中此框，并启用锁定模板的功能。 取消选中此选项将在电子邮件编辑器中禁用锁定模板功能。
 
 >[!NOTE]
 >
->将此设置更改为管理员将&#x200B;**不会**&#x200B;逆向影响现有模板；即，它不会自动锁定它们。
+>将此设置更改为管理员将&#x200B;**不会对现有模板产生追溯影响；即，它不会自动锁定它们。**
 
 ## 在电子邮件编辑器{#lock-template-in-the-email-editor}中锁定模板
 
@@ -62,4 +62,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >默认情况下，此框处于选中状态，并允许CRM用户编辑电子邮件。
-
