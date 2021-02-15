@@ -1,9 +1,9 @@
 ---
 unique-page-id: 14746432
-description: 将自定义字段同步到性能分析——营销文档——产品文档
+description: 将自定义字段同步到性能分析 — 营销文档 — 产品文档
 title: 将自定义字段同步到性能分析
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 将自定义字段同步到性能分析{#sync-custom-fields-to-performance-insights}
 
-MPI收入和管道仪表板可以在自定义营销工具字段上进行筛选。 为此，您需要设置要同步的自定义字段。
+MPI收入和管道仪表板可以在自定义营销字段上进行筛选。 为此，您需要设置要同步的自定义字段。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!NOTE]
 >
->本文仅适用于&#x200B;**不**&#x200B;具有[RCA](http://docs.marketo.com/x/lwIk)的用户。 如果您有RCA，请按照[本文](http://docs.marketo.com/x/FQQk)中的步骤操作。
+>本文仅针对&#x200B;**不**&#x200B;具有[RCA](https://docs.marketo.com/x/lwIk)的用户。 如果您有RCA，请按照[本文](https://docs.marketo.com/x/FQQk)中的步骤操作。
 
 1. 转至&#x200B;**Admin**&#x200B;部分。
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. 在“其他内容”下，选择&#x200B;**项目分析**。
+1. 在“其他物品”下，选择&#x200B;**项目分析**。
 
    ![](assets/2-3.png)
 
@@ -35,7 +35,7 @@ MPI收入和管道仪表板可以在自定义营销工具字段上进行筛选�
 
    ![](assets/3-5.png)
 
-1. 选择要为其启用同步的字段，然后单击&#x200B;**编辑同步选项**。
+1. 选择要启用同步的字段，然后单击&#x200B;**编辑同步选项**。
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
