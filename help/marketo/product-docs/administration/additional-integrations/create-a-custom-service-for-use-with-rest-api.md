@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360350
-description: 创建用于ReST API - Marketo Docs —— 产品文档的自定义服务
+description: 创建用于ReST API - Marketo Docs — 产品文档的自定义服务
 title: 创建与ReST API一起使用的自定义服务
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建用于ReST API {#create-a-custom-service-for-use-with-rest-api}的自定义服务
 
-如果要通过ReST API与Marketo集成，您将需要创建自定义服务。 这是方法。
+如果要通过ReST API与Marketo集成，您将需要创建自定义服务。 下面介绍如何操作。
 
 >[!PREREQUISITES]
 >
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!TIP]
 >
->请查看我们的开发人员文档，了解有关[ReST API](http://developers.marketo.com/documentation/rest/)的详细信息。 如果您需要[SOAP API](http://developers.marketo.com/documentation/soap/)，我们还有&lt;a0/>SOAP API&lt;a1/>。
+>请查阅我们的开发人员文档，了解有关[ReST API](https://developers.marketo.com/documentation/rest/)的详细信息。 如果您需要[SOAP API](https://developers.marketo.com/documentation/soap/)，则我们还有。
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. 输入服务的&#x200B;**显示名称**。 选择“仅API用户&#x200B;****”。[](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
+1. 输入服务的&#x200B;**显示名称**。 选择&#x200B;**仅API用户** [之前创建的](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。
 
    >[!NOTE]
    >
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-10-3a39-3a28.png)
 
-   哦，耶！ 该服务现已创建，我们继续获取要提供访问的所有凭据。
+   哦耶！ 该服务现已创建，让我们继续并获取所有凭据以供访问。
 
 ## API访问{#credentials-for-api-access}的凭据
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. 单击&#x200B;**视图详细信息**，查看上面创建的自定义LaunchPoint服务。
+1. 单击&#x200B;**视图详细信息**&#x200B;以获取上述创建的自定义LaunchPoint服务。
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
@@ -80,4 +80,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->不要共享此信息；这是你数据的后门。 保证安全！
+>请勿共享此信息；这是数据的后门。 保持安全！
