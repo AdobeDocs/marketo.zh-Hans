@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-活动
 description: 向智能活动添加流步骤
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 向智能活动添加流步骤
 
-流程步骤告诉Market您希望对符合资格的人员进行的操作。
+流程步骤告诉Marketo您希望对符合条件的一组人发生什么。
 
 ## 添加流步骤
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 1. 键入以搜索流步骤，然后将其拖放到画布中。 对多个流步骤重复上述步骤。
 
-   ![图像2](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-2.png)
+   ![图2](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-2.png)
 
 **深潜**
 
-进一步了解不同的[流步骤](http://docs.marketo.com/display/DOCS/Flow+Actions)。
+了解有关不同[流步骤](https://docs.marketo.com/display/DOCS/Flow+Actions)的更多信息。
 
 1. 单击下拉列表并选择相应的选项。
 
@@ -34,17 +34,17 @@ ht-degree: 0%
 
 1. 输入值。
 
-   ![图像4](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-4.png)
+   ![图4](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-4.png)
 
 **提醒**
 
-流步骤按其列出顺序执行。 [对流步](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) 骤重新排序，确保它们按正确的顺序排列。
+流步骤按列出顺序执行。 [对流步骤](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) 重新排序，以确保它们按正确的顺序排列。
 
 >[!TIP]
 >
->如果条目无效，将显示红线。 将鼠标悬停在线上，查看如何更正它。
+>输入无效时显示红线。 将鼠标悬停在线上可查看如何更正。
 >
->在计划或激活智能活动之前，请务必[检查并验证智能](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist)。
+>在计划或激活智能活动之前，请务必[查看并验证智能](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist)。
 
 ## 重新排序流步骤
 
@@ -52,10 +52,10 @@ ht-degree: 0%
 
    ![图像5](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-5.png)
 
-1. 在更改过程中，您正在移动的流会消失。
+1. 在更改期间，您正在移动的流会消失。
 
    ![图6](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-6.png)
 
-1. 如今，资金流动已经逆转了头寸。
+1. 如今，资金流动已经逆转。
 
-   ![图像七](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-7.png)
+   ![图七](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-7.png)
