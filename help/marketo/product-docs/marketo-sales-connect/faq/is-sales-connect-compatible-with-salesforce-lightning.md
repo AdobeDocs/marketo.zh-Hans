@@ -1,9 +1,9 @@
 ---
 unique-page-id: 14352493
-description: Sales Connect是否与Salesforce Lightning兼容？ - Marketo Docs —— 产品文档
+description: Sales Connect是否与Salesforce Lightning兼容？ - Marketo Docs — 产品文档
 title: Sales Connect是否与Salesforce Lightning兼容？
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 是的，Sales Connect与Salesforce Lightning兼容。
 
-请[单击此处](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)获取安装和成功指南。
+请[单击此处](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)获取安装和成功指南。
 
 >[!NOTE]
 >
->在潜在客户和联系列表视图中，可以使用批量操作的Sales Connect按钮。
-
+>“潜在客户”和“联系人”列表视图中提供了批量操作的Sales Connect按钮。
