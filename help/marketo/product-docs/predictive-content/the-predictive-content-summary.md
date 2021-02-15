@@ -1,9 +1,9 @@
 ---
 unique-page-id: 11384634
-description: 预测内容摘要——营销文档——产品文档
-title: 预测性内容摘要
+description: 预测内容摘要 — 营销文档 — 产品文档
+title: 预测内容摘要
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->根据购买日期，您的营销订阅可能包括Marketo Predictive Content或Content`<sup>AI</sup>`。 对于使用预测内容的用户，Marketo在2018年4月30日之前将启用“内容`<sup>AI</sup>`分析”功能。 要使这些功能在该日期之后保持不变，请联系您的Marketo Customer Success Manager以升级到Marketo Content`<sup>AI</sup>`。
+>根据购买日期，您的Marketo订阅可能包括Marketo Predictive Content或Content`<sup>AI</sup>`。 对于使用预测内容的用户，Marketo在2018年4月30日之前一直在启用“内容`<sup>AI</sup>`分析”功能。 要使这些功能在该日期之后继续运行，请联系您的Marketo客户成功经理以升级到Marketo内容`<sup>AI</sup>`。
 
-“预测内容摘要”用表格、图形和当前数字一览表显示您需要的有关预测内容的信息。
+“预测内容摘要”一览表、图表和当前数字显示您需要的有关预测内容的信息。
 
 ## 顶栏{#top-bar}
 
-顶栏显示内容和视图的当前编号以及启用的片段数。 为右上角的整个页面选择过去7天或30天的视图。
+顶栏显示内容和视图的当前数字以及启用的片段数。 为右上角的整个页面选择过去7或30天的视图。
 
 ![](assets/image2017-10-17-14-3a10-3a22.png)
 
 ## 性能表{#performance-table}
 
-您可以在此处查看您发现的十大内容，包括视图、直接潜在客户和转化率。
+您可以在此处查看您发现的前10条内容，包括视图、直接潜在客户和转化率。
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
@@ -37,26 +37,26 @@ ht-degree: 0%
 
 ![](assets/predictive-engagement-actual.png)
 
-## 按视图列出的内容趋势{#content-trend-by-views}
+## 按视图{#content-trend-by-views}列出的内容趋势
 
-比较所有内容的视图与预测内容的匹配情况。
+比较所有内容的视图与预测内容的匹配方式。
 
 ![](assets/4.png)
 
 ## 按参与度列出的热门类别{#top-categories-by-engagement}
 
-哪一类别内容最具吸引力？ 在这个图表中看到它。
+哪类别内容最具吸引力？ 在这个图表中看到它。
 
 ![](assets/5.png)
 
 >[!NOTE]
 >
->如果单击类别链接(上图中的示例：leadgen、email等。) 它打开“所有内容”页面，其中您单击的类别已添加到筛选器，显示该类别中的内容分析。
+>如果单击类别链接(上图中的示例：leadgen、email等。) 它打开“所有内容”页面，并将您单击的类别添加到筛选器，显示该类别中的内容分析。
 
 >[!MORELIKETHIS]
 >
->* [使用所有内容](http://docs.marketo.com/display/docs/working+with+all+content)
->* [使用预测内容](http://docs.marketo.com/display/docs/working+with+predictive+content)
+>* [使用所有内容](https://docs.marketo.com/display/docs/working+with+all+content)
+>* [使用预测内容](https://docs.marketo.com/display/docs/working+with+predictive+content)
 
 >
 
