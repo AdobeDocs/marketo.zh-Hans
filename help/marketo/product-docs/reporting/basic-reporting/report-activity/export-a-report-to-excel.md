@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360020
-description: 将报表导出到Excel - Marketo Docs —— 产品文档
+description: 将报表导出到Excel - Marketo Docs — 产品文档
 title: 将报表导出到Excel
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. 从导航树中选择您的报告，然后单击&#x200B;**报告**&#x200B;选项卡。
+1. 从导航树中选择您的报表，然后单击&#x200B;**报表**&#x200B;选项卡。
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. 单击&#x200B;**Export**&#x200B;按钮。
+1. 单击&#x200B;**导出**&#x200B;按钮。
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)深入了解报表的其他所有有用功能。
+   >在[基本报告](https://docs.marketo.com/display/docs/basic+reporting)深入了解报表的其他所有有用操作。
 
