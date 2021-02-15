@@ -1,9 +1,9 @@
 ---
 unique-page-id: 4720108
-description: 启用内容推荐栏- Marketo Docs —— 产品文档
+description: 启用内容推荐栏 — Marketo Docs — 产品文档
 title: 启用内容推荐栏
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 启用内容推荐栏{#enable-the-content-recommendation-bar}
 
-内容推荐引擎使用预测分析和机器学习算法向每个Web访客提供相关内容。 推荐引擎可预测哪些内容在每个访客下效果最佳。 引擎的内容在Recommendations页面下进行监控，帮助您优化内容ROI。
+内容推荐引擎使用预测分析和机器学习算法向每个Web访客提供相关内容。 推荐引擎预测哪些内容在每个访客中表现最佳。 引擎的内容在Recommendations页面下进行监控，帮助您优化内容ROI。
 
 >[!PREREQUISITES]
 >
->在启用预测性内容之前，您必须：
+>在启用预测内容之前，您必须：
 >
->* [准备您的预测性内容](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [准备预测内容](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/settings-dropdown-hand.png)
 
-1. 单击&#x200B;**条**。
+1. 单击&#x200B;**Bar**。
 
    ![](assets/content-settings-bar-hand.png)
 
@@ -43,10 +43,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**包含／排除显示URL**
+   >**包含/排除显示URL**
    >
    >    * 显示URL应为域的路径
-   >    * 不包括http://或https://
+   >    * 不要包含https://或https://
    >    * 使用*表示通配符
    * 使用分号作为分隔符
    * 示例：/contact_us*;*action=logout*
@@ -55,10 +55,10 @@ ht-degree: 0%
 
 ## 建议栏注意事项{#recommendation-bar-considerations}
 
-* 您至少需要一个内容片段，使推荐引擎在Recommendations页面上设置为&#x200B;**On**&#x200B;的推荐栏能够正常工作。 如果未启用任何内容，且“栏”设置为&#x200B;**On**，则“箭头”效果将显示在网页的右下方，但不会显示推荐的内容。
+* 您至少需要一个内容片段，以使推荐引擎在Recommendations页面上设置为&#x200B;**On**&#x200B;的推荐栏能够正常工作。 如果未启用任何内容，且“栏”设置为&#x200B;**On**，则“箭头”效果将显示在网页右下方，但不显示推荐的内容。
 
-* 推荐引擎中运行的内容越多，算法就越能测试和了解哪些内容最适合。 我们建议从10到20个内容片段开始运行并保持活动状态，并不断添加新内容。
-* 您为推荐启用的内容片段应包括RTP Javascript标签。 这有助于算法跟踪和优化推荐内容。
+* 推荐引擎中运行的内容越多，算法就越能测试和了解哪些内容最适合。 我们建议从10到20个内容片段开始运行并处于活动状态，并不断添加新内容片段。
+* 您为推荐启用的内容片段应包含RTP Javascript标签。 这有助于算法跟踪和优化推荐内容。
 
 >[!MORELIKETHIS]
 * [为Web富媒体启用预测内容](enable-predictive-content-for-web-rich-media.md)
