@@ -1,9 +1,9 @@
 ---
 unique-page-id: 4719344
-description: 创建基本Web区段- Marketo Docs —— 产品文档
+description: 创建基本Web区段 — Marketo Docs — 产品文档
 title: 创建基本Web区段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/location-drag-hand.jpg)
 
-1. 从下拉菜单中选择要添加的国家／地区。 选择&#x200B;**美国**。
+1. 从下拉列表中选择要添加的国家/地区。 选择&#x200B;**美国**。
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -39,25 +39,25 @@ ht-degree: 0%
    >
    >城市数量限制在每个区域300个。
 
-1. 从右侧菜单中拖动**行业**并将其放入区段编辑器。
+1. 从右侧菜单中拖动**行业**，并将其放入区段编辑器中。
 
    ![](assets/industries-hand.jpg)
 
-1. 从下拉列表中选择要添加的行业。 选择**金融服务***行业**。
+1. 从下拉列表中选择要添加的行业。 选择**金融服务****行业**。
 
    ![](assets/segment-industries.png)
 
    您现在已为从美国和金融业访问您网站的所有潜在客户设置基本细分。
 
-1. 单击**保存**以保存区段，或单击&#x200B;**保存并定义活动**&#x200B;以转到活动页面。
+1. 单击**保存**以保存区段，或单击&#x200B;**保存并定义活动**&#x200B;以转到活动页。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-现在您已将访客从美国分割开来，继续加入金融服务业。
+现在，您已经将您的访客从美国分割开来，继续吧，加入金融服务行业。
 
 >[!MORELIKETHIS]
 >
->* [网络细分](http://docs.marketo.com/x/9QFI)
+>* [网页细分](https://docs.marketo.com/x/9QFI)
 
 >
 
