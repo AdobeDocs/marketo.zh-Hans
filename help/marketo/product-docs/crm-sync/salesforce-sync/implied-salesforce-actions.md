@@ -1,9 +1,9 @@
 ---
 unique-page-id: 4719304
-description: 默示的Salesforce操作- Marketo文档——产品文档
-title: 隐含的Salesforce操作
+description: 默示的Salesforce操作 — Marketo文档 — 产品文档
+title: 默示的Salesforce操作
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 运行特定于Salesforce的流步骤时，有时会自动执行额外步骤。 以下是规则，您知道：
 
-当人员当前不在[Salesforce.com](http://Salesforce.com)_中时，这些规则将应用_&#x200B;作为联系人或潜在客户。
+当此人当前不在[Salesforce.com](https://Salesforce.com)_中时，这些规则将适用_。
 
 <table> 
  <thead> 
@@ -48,6 +48,6 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-您可以使用&#x200B;**SFDC类型**&#x200B;过滤器过滤智能列表中的SFDC记录，并将运算符设置为“不为空”。 所有SFDC记录在此字段中都有值。
+您可以使用&#x200B;**SFDC类型**&#x200B;过滤器在智能列表中过滤掉SFDC记录，并将运算符设置为“不为空”。 所有SFDC记录在此字段中都有值。
 
-请记住，仅当潜在客户当前不在[Salesforce.com](https://salesforce.com)中时，才会执行这些自动操作
+请记住，这些自动操作仅在潜在客户当前不在[Salesforce.com](https://salesforce.com)时发生
