@@ -1,9 +1,9 @@
 ---
 unique-page-id: 11379622
-description: 设置Facebook潜在客户广告——营销文档——产品文档
+description: 设置Facebook潜在客户广告 — Marketo Docs — 产品文档
 title: 设置Facebook潜在客户广告
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!AVAILABILITY]
 >
 >要将Facebook潜在客户广告添加到您的实例，请联系您的客户成功经理。
 
-1. 转到Marketo **Admin**。
+1. 转至Marketo **Admin**。
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 为您的服务输入&#x200B;**显示名称**，从下拉列表中选择&#x200B;**Facebook潜在客户广告**&#x200B;服务，然后单击&#x200B;**创建**。
+1. 输入服务的&#x200B;**显示名称**，从下拉列表中选择&#x200B;**Facebook潜在客户广告**&#x200B;服务，然后单击&#x200B;**创建**。
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 在同一浏览器中打开新选项卡并转到[facebook.com](http://www.facebook.com)。 使用要用于集成的帐户登录到Facebook。
+1. 在同一浏览器中打开新选项卡并转到[facebook.com](https://www.facebook.com)。 使用要用于集成的帐户登录Facebook。
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果看不到要验证的页面，请确保将用于验证的Facebook帐户添加到Facebook上的页面，然后重试。
+   >如果未看到需要的页面，请确保将用于验证的Facebook帐户添加到Facebook上的页面，然后重试。
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
@@ -67,15 +67,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >通过修改映射，您可以自定义Marketo中存储潜在客户广告数据的位置。 您还可以[从“潜在客户广告自定义问题”](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)中提取数据。
+   >通过修改映射，您可以自定义在Marketo中存储潜在客户广告数据的位置。 您还可以[从“潜在客户广告自定义问题”](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)中提取数据。
 
    >[!CAUTION]
    >
-   >Marketo不支持将两个Facebook字段映射到单个Marketo字段，只有1到1。 如果将2映射到1，则潜在客户可能无法进入Marketo系统。
+   >Marketo不支持将两个Facebook字段映射到单个Marketo字段，仅1到1。 如果将2映射到1，则潜在客户可能无法进入Marketo系统。
 
    ![](assets/image2016-11-29-11-3a0-3a2.png)
 
-   干得好！ 当您运行成功的Facebook潜在客户广告开始时，潜在客户将流入Marketo。
+   干得好！ 在您运行成功的Facebook潜在客户广告开始时，潜在客户将流入Marketo。
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 
