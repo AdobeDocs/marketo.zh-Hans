@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360360
-description: 创建Webhook - Marketo Docs —— 产品文档
+description: 创建Webhook - Marketo Docs — 产品文档
 title: 创建Webhook
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 创建Webhook {#create-a-webhook}
 
-使用webhooks利用第三方Web服务发送文本消息、扩展人员数据等。
+使用webhooks可利用第三方Web服务发送文本消息、扩展人员数据等。
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
+>并非所有客户都购买了此功能。 有关详细信息，请与您的销售代表联系。
 
 1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**Webhooks**。
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-14-3a53-3a9.png)
 
-1. 命名并配置Webhook。
+1. 命名并配置您的Webhook。
 
    ![](assets/image2014-9-24-14-3a53-3a19.png)
 
    >[!NOTE]
    >
-   >这通常包括以URL参数或POST模板的形式输入您的第三方服务凭据。
+   >这通常包括将您的第三方服务凭据输入为URL参数或在POST模板中。
 
    * **URL**:输入用于POST对Web服务的请求的URL。要在您的请求中插入令牌，如人员的电子邮件地址(**`{{lead.Email Address}}`**)，请单击&#x200B;**插入令牌**。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    * **请求令牌编码**:如果令牌值包含特殊字符（如“&amp;”），请指示请求的格式(**** JSON或 **表单/Url**)。
 
-   * **响应类型**:选择您从服务（JSON或XML）收到的&#x200B;**** 响应 **的格式**。
+   * **响应类型**:选择您从服务（JSON或XML）接收的&#x200B;**** 响应 **的格**&#x200B;式。
 
    单击创建。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[webhooks](http://developers.marketo.com/documentation/webhooks/)深入了解更多信息。
+>在[webhooks](https://developers.marketo.com/documentation/webhooks/)深入了解更多信息。
