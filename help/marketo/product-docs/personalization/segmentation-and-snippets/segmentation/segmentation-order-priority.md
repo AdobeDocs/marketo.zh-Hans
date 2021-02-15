@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2359500
-description: 分段订单优先级- Marketo Docs —— 产品文档
+description: 分段订单优先级 — Marketo Docs — 产品文档
 title: 分段顺序优先级
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 分段顺序优先级{#segmentation-order-priority}
 
-了解&#x200B;**order**&#x200B;如何设置细分中人员评估的优先级非常重要。
+了解&#x200B;**order**&#x200B;如何设置分段中人员评估的优先级非常重要。
 
 >[!PREREQUISITES]
 >
@@ -42,12 +42,12 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* 分部互斥。 一个人一次只能是一个区段的成员。
->* 如果某人符合两个细分的条件，他们将仅属于列表中第一个细分。
+>* 如果某人符合两个区段的资格，则他们将仅属于列表中的第一个区段。
 >* 如果某人不符合任何区段的资格，他们将成为默认区段的成员。
 
 >
 
 
 
-很酷吧？ 您可以将区段用于动态内容，[报告](http://docs.marketo.com/display/docs/basic+reporting)，甚至在[智能列表](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)中。
+很酷吧？ 您可以将区段用于动态内容，[报告](https://docs.marketo.com/display/docs/basic+reporting)，甚至在[智能列表](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)中。
 
