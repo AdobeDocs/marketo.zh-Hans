@@ -1,9 +1,9 @@
 ---
 unique-page-id: 10912178
-description: 设置“取消”按钮并批准消息- Marketo Docs —— 产品文档
+description: 设置“取消”按钮并批准消息 — Marketo Docs — 产品文档
 title: 设置“取消”按钮并批准消息
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 设置“取消”按钮并批准消息{#set-up-the-dismiss-button-and-approve-the-message}
 
-## 配置“关闭”按钮属性{#configure-dismiss-button-properties}
+## 配置“取消”按钮属性{#configure-dismiss-button-properties}
 
-“取消”按钮有许多选项，允许您按所需方式配置它。
+“取消”按钮有许多选项，可让您按所需方式配置它。
 
 1. 在编辑器中，单击“取消”按钮。
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-10-3a33-3a17.png)
 
-1. 从下拉列表中选择一个按钮设计。 圆形按钮包括全色和渐变选项。
+1. 从下拉菜单中选择按钮设计。 圆形按钮包括全色和渐变选项。
 
    ![](assets/image2016-5-9-10-3a35-3a46.png)
 
    >[!CAUTION]
    >
-   >当您从下拉菜单中选择其他设计时，按钮颜色可能在白色背景上显示为白色X。 如果是，只需在颜色选择方中选择黑色或其他颜色，即可使白色X可见。
+   >从下拉菜单中选择其他设计时，按钮颜色可能在白色背景上显示为白色X。 如果是，只需在颜色选择方块中选择黑色或其他颜色，即可使白色X可见。
 
-1. 单击左角按钮可将取消按钮向左移动（默认为右侧）。
+1. 您可以单击左角按钮，将取消按钮移到左侧（默认为右侧）。
 
    ![](assets/image2016-5-9-10-3a39-3a5.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您必须为“取消”按钮设置点击操作，因此没有复选框可启用它。 “取消消息”是默认（且显然）选项。
+   >您必须为“取消”按钮提供点按操作，因此没有复选框可启用它。 “取消消息”是默认（且明显）选项。
 
 ## 将其打包{#wrap-it-up}
 
-您为图形、文本和按钮所做的所有选择已自动保存。 现在，你已经准备好完成工作了。
+您为图形、文本和按钮所做的所有选择均已自动保存。 现在，你准备好完成这个工作了。
 
 1. 要预览应用程序内消息，请单击&#x200B;**消息操作**&#x200B;下拉框，然后选择&#x200B;**预览**。
 
@@ -63,20 +63,20 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您还可以直接从“消息操作”下拉框中选择&#x200B;**批准并关闭**（请参阅步骤1），但为什么不先预览消息，以确保安全？
+   >您还可以直接从“消息操作”下拉菜单中选择&#x200B;**批准并关闭**（请参阅第1步），但为什么不首先预览消息，这样才安全？
 
-1. 要关闭编辑器而不进行批准，只需关闭选项卡。 它已自动保存，因此您可以稍后返回并批准它。
+1. 要关闭编辑器而不进行批准，只需关闭选项卡。 它是自动保存的，因此您可以稍后返回并批准它。
 
    ![](assets/image2016-5-9-11-3a9-3a46.png)
 
-有这么多选择，但现在您有一条精美的应用程序内消息，随时可用！
+有这么多选择，但现在您有了一条精美的应用程序内消息，随时可用！
 
-现在是时候[发送消息](http://docs.marketo.com/display/docs/send+your+in-app+message)了。
+现在是时候[发送消息](https://docs.marketo.com/display/docs/send+your+in-app+message)了。
 
 >[!MORELIKETHIS]
 >
 >* [了解应用程序内消息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [发送应用程序内消息](http://docs.marketo.com/display/docs/send+your+in-app+message)
+>* [发送应用程序内消息](https://docs.marketo.com/display/docs/send+your+in-app+message)
 >* [为应用程序内消息选择布局](choose-a-layout-for-your-in-app-message.md)
 
 >
