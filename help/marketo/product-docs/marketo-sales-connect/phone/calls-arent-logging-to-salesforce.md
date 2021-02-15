@@ -1,27 +1,26 @@
 ---
 unique-page-id: 14352435
-description: 调用未记录到Salesforce - Marketo Docs —— 产品文档
+description: 调用未登录到Salesforce - Marketo Docs — 产品文档
 title: 呼叫未登录Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
-# 调用未记录到Salesforce {#calls-arent-logging-to-salesforce}
+# 调用未登录到Salesforce {#calls-arent-logging-to-salesforce}
 
-如果您希望将来自销售电话的呼叫自动记录到Salesforce，请确保已准备好以下内容。
+如果希望Sales Phone的呼叫自动记录到Salesforce，请确保已准备好以下内容。
 
-您需要通过API连接将Sales Connect帐户连接到[Salesforce帐户](http://docs.marketo.com/x/q4LS)。
+您需要通过API连接将您的Sales Connect帐户连接到您的[Salesforce帐户](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)。
 
-如果您从[Web应用程序](http://toutapp.com/login)调用，则需要将Salesforce ID保存到该联系人。 [单](http://docs.marketo.com/x/G4PS) 击此处查看如何确保您的所有Sales Connect联系人都具有与其关联的Salesforce ID。
+如果您从[Web应用程序](https://toutapp.com/login)进行调用，则需要将Salesforce ID保存到该联系人。 [单](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) 击此处查看您如何可以确保您的所有Sales Connect联系人都具有与他们关联的Salesforce ID。
 
 >[!NOTE]
 >
 >确保您的任务类型选择列表中包含“呼叫”，以便在Salesforce中准确轻松地报告。
 
-一旦任务到位，您将在Salesforce的“活动历史记录”部分看到创建的。
-
+一旦完成，您将看到在Salesforce的“任务历史记录”部分创建的活动。
