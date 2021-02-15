@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360002
-description: 配置报告大小- Marketo Docs —— 产品文档
+description: 配置报表大小 — Marketo Docs — 产品文档
 title: 配置报告大小
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. 从导航树中选择您的报告，然后单击&#x200B;**设置**&#x200B;选项卡。
+1. 从导航树中选择您的报表，然后单击&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   多次-单击&#x200B;**导出可用行**。
+   多次 — 单击&#x200B;**导出可用行**。
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >
    >
-   >现在，您可以[导出报告](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)并设置新限制。
+   >现在，您可以[导出报表](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)并设置新限制。
 
-   在[基本报告](http://docs.marketo.com/display/docs/basic+reporting)深入了解配置报告的更多方法。
+   在[基本报告](https://docs.marketo.com/display/docs/basic+reporting)深入了解配置报表的更多方法。
 
