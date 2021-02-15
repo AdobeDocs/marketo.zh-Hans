@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360188
-description: 活动电子邮件性能报告- Marketo Docs —— 产品文档
+description: 活动电子邮件性能报告 — Marketo Docs — 产品文档
 title: 活动电子邮件性能报告
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,38 +13,38 @@ ht-degree: 0%
 
 # 活动电子邮件性能报告{#campaign-email-performance-report}
 
-要查看按[智能活动](http://docs.marketo.com/display/docs/smart+campaigns)分组的电子邮件性能统计数据，请运行活动电子邮件性能报告。
+要查看按[smart 活动](https://docs.marketo.com/display/docs/smart+campaigns)分组的电子邮件性能统计信息，请运行“活动电子邮件性能”报告。
 
-1. [创建报](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 表并选择活动 **电子邮件** [性能报表类型](report-type-overview.md)。
-1. [设置报告的时间范](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 围，然后单击报 **** 告选项卡。
+1. [创建报](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 表，然后选择活动 **电子邮件** [性能报表类型](report-type-overview.md)。
+1. [设置报表的时间范](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 围，然后单击报 **** 表标签。
 1. 现在浏览报告，了解活动中每封电子邮件的执行情况。
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
 
    >[!TIP]
    >
-   >单击电子邮件的名称以在电子邮件预览器中将其打开。
+   >单击电子邮件的名称，以在“电子邮件预览器”中打开它。
 
    [您可以为活动电](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)子邮件性能报告选择的列包括：
 
    | 列 | 说明 |
    |---|---|
-   | 硬退回 | 电子邮件被拒绝，因为存在永久条件，如不存在的电子邮件地址。 |
-   | 软退回 | 由于临时情况（如服务器关闭或收件箱已满），电子邮件被拒绝。 |
+   | 硬弹回 | 由于存在永久条件（如不存在的电子邮件地址），电子邮件被拒绝。 |
+   | 软弹回 | 由于临时情况（如服务器关闭或收件箱已满），电子邮件被拒绝。 |
    | 待定 | 电子邮件仍在发送过程中。 |
    | 已点击链接 | 单击电子邮件中链接的电子邮件收件人数。 |
    | 取消订阅 | 单击电子邮件中的&#x200B;**取消订阅**&#x200B;链接并填写表单的电子邮件收件人数。 |
 
    >[!NOTE]
    >
-   >一般来说，我们试图用常识来记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，他们显然会先打开它。 有关我们遵循的特定规则，请参阅[电子邮件性能报告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
+   >一般来说，我们试图用常识记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，显然是先打开的。 有关我们遵循的特定规则，请参阅[电子邮件性能报告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
 
    >[!MORELIKETHIS]
    >
    >
    >    
    >    
-   >    * [筛选活动电子邮件报告中的资产](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+   >    * [筛选活动电子邮件报表中的资产](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
    >    * [电子邮件性能报告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 
 
@@ -53,5 +53,5 @@ ht-degree: 0%
    >**深潜**
    >
    >
-   >在[基本报告中了解更多信息。](http://docs.marketo.com/display/docs/basic+reporting)
+   >在[基本报告中了解更多信息。](https://docs.marketo.com/display/docs/basic+reporting)
 
