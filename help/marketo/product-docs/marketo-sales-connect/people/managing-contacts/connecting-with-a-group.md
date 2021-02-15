@@ -1,11 +1,11 @@
 ---
 unique-page-id: 30081318
-description: 与组连接- Marketo Docs —— 产品文档
+description: 与组连接 — Marketo Docs — 产品文档
 title: 与组连接
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/one-6.png)
 
-1. 单击“**组操作**”按钮，然后选择“电子邮件组&#x200B;**”。**
+1. 单击&#x200B;**“组操作**”按钮并选择&#x200B;**“电子邮件组**”。
 
    ![](assets/two-5.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/one-6.png)
 
-1. 单击&#x200B;**“组操作”**&#x200B;按钮，然后选择“将组添加到活动&#x200B;**”。**
+1. 单击&#x200B;**“组操作**”按钮，然后选择“将组添加到活动&#x200B;**”。**
 
    ![](assets/four-4.png)
 
@@ -47,17 +47,16 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能会看到添加到营销人员活动的选项。 [那是另一篇文章](http://docs.marketo.com/x/CwDh)。
+   >您可能会看到添加到Marketo活动的选项。 [那是另一篇文章](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)。
 
-1. 选择活动(可以选择类别来缩小结果范围)，然后单击&#x200B;**下一步**。
+1. 选择活动(可以选择类别以缩小结果范围)，然后单击&#x200B;**下一步**。
 
    ![](assets/seven-1.png)
 
-1. 进行任何所需编辑，然后单击&#x200B;**下一步**。
+1. 进行任何所需的编辑，然后单击&#x200B;**下一步**。
 
    ![](assets/eight-1.png)
 
 1. 计划活动并单击&#x200B;**开始**。
 
    ![](assets/nine-1.png)
-
