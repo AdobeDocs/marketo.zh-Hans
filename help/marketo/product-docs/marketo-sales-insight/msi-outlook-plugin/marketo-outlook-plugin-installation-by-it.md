@@ -1,9 +1,9 @@
 ---
 unique-page-id: 11382815
-description: IT的Marketo Outlook插件安装- Marketo Docs —— 产品文档
+description: IT Marketo Outlook插件安装 — Marketo Docs — 产品文档
 title: IT人员安装Marketo Outlook插件
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # IT {#marketo-outlook-plugin-installation-by-it}安装Marketo Outlook插件
 
-有时，公司策略要求其IT团队在其员工的计算机上安装所有软件。 在这些情况下，IT经常使用自己的部署软件远程完成此操作。 本文档提供了在部署过程中用作输入以远程安装Outlook插件的命令行。
+有时，公司策略要求其IT团队在其员工的计算机上安装所有软件。 在这些情况下，IT经常使用自己的部署软件远程完成此任务。 本文档提供了在部署过程中用作输入的命令行，以远程安装Outlook插件。
 
 >[!PREREQUISITES]
 >
->[设置](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) 企业密钥。
+>[设置](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) 企业密钥。
 
-以“系统”或“管理”用户帐户的形式运行以下命令行，并使用/i开关进行安装。 `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
+以“系统”或具有要安装的/i开关的管理用户帐户的形式运行以下命令行。 `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
@@ -44,7 +44,7 @@ ht-degree: 0%
 >
 >日志文件的存储位置必须存在，否则安装将中止。
 
-如果要尝试不同的日志记录级别或用户界面级别，请参阅[Microsoft的交换机完整列表](https://support.microsoft.com/en-us/kb/227091)。
+如果您希望尝试不同的日志记录级别或用户界面级别，请参阅[ Microsoft对交换机](https://support.microsoft.com/en-us/kb/227091)的完整列表。
 
 >[!MORELIKETHIS]
 >
