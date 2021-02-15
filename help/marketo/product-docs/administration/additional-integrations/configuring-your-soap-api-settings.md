@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360352
-description: 配置SOAP API设置- Marketo Docs —— 产品文档
+description: 配置SOAP API设置 — Marketo Docs — 产品文档
 title: 配置SOAP API设置
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->我们建议使用REST API。 了解有关[developers.marketo.com](http://developers.marketo.com/documentation/rest/)的更多信息。
+>我们建议使用REST API。 了解有关[developers.marketo.com](https://developers.marketo.com/documentation/rest/)的更多信息。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**Web服务**。
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[SOAP API文档](http://developers.marketo.com/documentation/soap/)
+>[SOAP API文档](https://developers.marketo.com/documentation/soap/)
