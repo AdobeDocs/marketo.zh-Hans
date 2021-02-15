@@ -1,9 +1,9 @@
 ---
 unique-page-id: 7511512
-description: 在Salesforce1中安装和配置Marketo Sales Insight - Marketo Docs —— 产品文档
+description: 在Salesforce1中安装和配置Marketo Sales Insight - Marketo Docs — 产品文档
 title: 在Salesforce1中安装和配置Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -17,16 +17,16 @@ ht-degree: 0%
 >
 >**提醒**
 >
->现有客户，请[升级您的MSI包](http://docs.marketo.com/x/_gU6Ag)，然后继续！
+>现有客户，请[升级您的MSI包](https://docs.marketo.com/x/_gU6Ag)，然后继续！
 
 >[!PREREQUISITES]
 >
->如果您有Salesforce Enterprise/Unlimited:
+>如果您有Salesforce企业/无限：
 >
 >* [第1步，共3步：将Marketo字段添加到Salesforce(Enterprise/Unlimited)](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [第2步，共3步：为Marketo创建Salesforce用户(Enterprise/Unlimited)](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [第3步，共3步：Connect Marketo和Salesforce(Enterprise/Unlimited)](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
->* [在Salesforce Enterprise中配置Marketo Sales Insight/Unlimited](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [在Salesforce Enterprise/Unlimited中配置Marketo Sales Insight](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 >
 >
@@ -40,10 +40,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Salesforce1中的Marketo Sales Insight包括：最佳赌注、潜在客户反馈、有趣时刻以及为营销增添活动。
+>Salesforce1中的Marketo Sales Insight包括：最佳赌注、商机源、有趣时刻和添加到营销活动。
 
 1. 启用Salesforce1移动应用程序
-1. 单击&#x200B;**设置**，然后单击&#x200B;**移动管理**。
+1. 单击&#x200B;**Setup**，然后单击&#x200B;**Mobile Administration**。
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
-1. 选择&#x200B;**移动管理**。
+1. 选择&#x200B;**Mobile Administration**。
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
@@ -71,16 +71,16 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
-1. 选择**Marketo **和**将**它添加到**已选**菜单项。
+1. 选择**Marketo **和**将***它添加到**已选**菜单项。
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. 选择&#x200B;**Marketo**，将其移动到所需区域**向上**，然后单击&#x200B;**保存**。
+1. 选择&#x200B;**Marketo**，将其**Up **移动到所需区域，然后单击&#x200B;**保存**。
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
-1. 隐藏过时的Marketto自定义对象
-1. 单击&#x200B;**安装程序**。
+1. 隐藏过时的Marketo自定义对象
+1. 单击&#x200B;**Setup**。
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
@@ -92,11 +92,11 @@ ht-degree: 0%
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
-1. 单击以**编辑**任何所需用户档案。
+1. 单击以**编辑**任何所需的用户档案。
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. 在&#x200B;**选项卡设置**&#x200B;下，选择&#x200B;*first* **Marketo**。
+1. 在&#x200B;**Tab Settings**&#x200B;下，选择&#x200B;*first* **Marketo**。
 
    ** ![](assets/image2015-5-5-13-3a55-3a36.png)
 
@@ -121,24 +121,24 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. 选择&#x200B;**Marketo**&#x200B;和**将***它添加到选定选项卡。
+1. 选择&#x200B;**Marketo**&#x200B;并**将***它添加到选定选项卡。
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. 选择&#x200B;**Marketo**，将其移动到所需区域**向上**，然后单击&#x200B;**保存**。
+1. 选择&#x200B;**Marketo**，将其**Up **移动到所需区域，然后单击&#x200B;**保存**。
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
 1. 自定义页面布局
-1. 单击&#x200B;**安装程序**。
+1. 单击&#x200B;**Setup**。
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. 单击“**设置**”，键入&#x200B;**页面布局**，然后单击“Lead”下的“**页面布局**”。
+1. 单击“**设置**”，键入&#x200B;**页面布局**，然后单击“潜在客户”下的“**页面布局**”。
 
    >[!NOTE]
    >
-   >重复您的组织使用的每个页面布局（营销、销售等）的步骤 Contact、Account和Opportunity对象。
+   >为您的组织使用的每个页面布局（营销、销售等）重复执行这些步骤 Contact、Account和Opportunity对象。
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
@@ -146,7 +146,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. 单击**Visualforce页面&#x200B;**，然后将** Lead Mobile **拖动到“移动卡”部分。
+1. 单击**Visualforce页面&#x200B;**，然后将** Lead Mobile **拖至“移动卡”部分。
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
@@ -154,25 +154,25 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. 单击&#x200B;**字段**，将**添加到Marketo活动&#x200B;**拖动到** Marketo Sales Insight **部分。
+1. 单击&#x200B;**字段**，将**Add to Marketo活动&#x200B;**拖动到** Marketo Sales Insight **部分。
 
    ![](assets/configure-step-6.png)
 
    >[!TIP]
    >
-   >在“快速查找”中键入“添加到”，使“添加到营销活动”易于查找。
+   >在“快速查找”中键入“添加到”，以便轻松查找“添加到营销活动”。
 
 1. 单击&#x200B;**保存**。
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-喔！ 您终于完成了Salesforce1的Marketo Sales Insight安装！ 去吧，给自己拍拍背。
+噢！ 您终于完成了Salesforce1的Marketo Sales Insight安装！ 去吧，拍拍自己的背。
 
 >[!MORELIKETHIS]
 >
->* [Salesforce的最佳下注1](best-bets-in-salesforce1.md)
->* [Salesforce中的有趣时刻1](interesting-moments-in-salesforce1.md)
->* [在Salesforce中发送Marketo电子邮件、活动和观察列表操作1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Salesforce中的最佳赌注1](best-bets-in-salesforce1.md)
+>* [Salesforce中有趣的时刻1](interesting-moments-in-salesforce1.md)
+>* [在Salesforce1中发送Marketo电子邮件和活动和观察列表操作](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 
 >
 
