@@ -1,11 +1,11 @@
 ---
 unique-page-id: 30081230
-description: 对人员执行批量操作- Marketo Docs —— 产品文档
-title: 对人员进行批量操作
+description: Bulk Actions on People - Marketo Docs — 产品文档
+title: 对人员执行批量操作
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 对人员执行批量操作{#bulk-actions-on-people}
 
-您可以批量处理联系人以节省时间。
+您可以批量处理您的联系人，以节省时间。
 
-所有可用批量操作的第一步是选择两个或多个联系人，然后单击数据（三个垂直点）。
+所有可用的批量操作的第一步是选择两个或更多个联系人，然后单击数据（三个垂直点）。
 
 ![](assets/one-3.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 授权{#authorization}
 
-遵循[GDPR](http://eugdpr.org/)，使用授权来指示您如何获得与这些联系人进行接洽的权限。
+根据[GDPR](https://eugdpr.org/)，使用授权指示您如何获得与这些联系人互动的许可。
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,6 @@ ht-degree: 0%
 
 ## 删除{#delete}
 
-批量删除联系人。 可以在[此处](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)找到完整步骤。
+批量删除联系人。 可以在[此处找到完整步骤。](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
 
 ![](assets/delete.png)
-
