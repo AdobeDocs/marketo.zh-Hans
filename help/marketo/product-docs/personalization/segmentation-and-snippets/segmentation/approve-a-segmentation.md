@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2359457
-description: 批准分段- Marketo Docs —— 产品文档
+description: 批准分段 — Marketo Docs — 产品文档
 title: 批准分段
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >审批过程中，状态将变为使用旋转轮(![](assets/image2014-9-15-15-3a31-3a43.png))批准。
+   >审批过程中，状态将变为使用旋转轮(![](assets/image2014-9-15-15-3a31-3a43.png))进行审批。
 
    >[!CAUTION]
    >
@@ -45,21 +45,21 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >每个区段中的人数显示在区段名称旁边的括号中。
+   >每个区段的人数显示在区段名称旁边的括号中。
 
-1. **区段**&#x200B;中的&#x200B;**人员**&#x200B;选项卡现在显示该区段的最终人员列表。
+1. **区段**&#x200B;中的&#x200B;**人员**&#x200B;选项卡现在显示区段人员的最终列表。
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
 >[!CAUTION]
 >
->在细分中可以创建的细分总数取决于所使用的过滤器数和类型，也取决于细分逻辑的复杂程度。 虽然您可以使用标准字段创建多达100个过滤器段，但使用其他类型的细分会增加复杂性，并且您的细分可能无法批准。 例如：自定义字段、列表成员、潜在客户所有者字段和收入阶段。
+>在细分中可创建的区段总数取决于所使用的过滤器数和类型，也取决于区段逻辑的复杂程度。 虽然您可以使用标准字段创建多达100个区段，但使用其他类型的过滤器会增加复杂性，并且您的细分可能无法批准。 例如：自定义字段、列表成员、潜在客户所有者字段和收入阶段。
 >
->如果您在审批过程中收到错误消息并需要帮助降低分段的复杂性，请与[营销人员支持](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)联系。
+>如果您在审批过程中收到错误消息并需要帮助降低分段的复杂性，请联系[Marketo Support](https://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)。
 
 >[!MORELIKETHIS]
 >
->* [在智能过滤器中使用细分列表](use-segment-filters-in-a-smart-list.md)
+>* [在智能过滤器中使用区段列表](use-segment-filters-in-a-smart-list.md)
 
 >
 
