@@ -1,9 +1,9 @@
 ---
 unique-page-id: 7512448
-description: 将SDK代码发送给开发人员- Marketo Docs —— 产品文档
+description: 将SDK代码发送给开发人员 — Marketo Docs — 产品文档
 title: 将SDK代码发送给开发人员
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # 将SDK代码发送给开发人员{#send-sdk-code-to-a-developer}
 
-在创建应用程序内消息或推送通知之前，您必须先让开发人员为Android和iOS平台设置并初始化移动应用程序SDK。
+在创建应用程序内消息或推送通知之前，您必须先让开发人员设置并初始化适用于Android和iOS平台的移动应用程序SDK。
 
-* [Android说明](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
-* [iOS说明](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+* [Android说明](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
+* [iOS说明](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
 ## 将SDK代码发送给开发人员{#send-sdk-code-to-a-developer-1}
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ![](assets/image2016-3-9-16-3a24-3a14.png)
 
-你是这么做的。
+您是这样做的。
 
 1. 单击“管理员”。
 
@@ -38,11 +38,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 单击“**移动应用程序操作**”，然后选择“发送到开发人员&#x200B;**”。**
+1. 单击&#x200B;**移动应用程序操作**&#x200B;并选择&#x200B;**发送到开发人员**。
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. 输入电子邮件地址，然后单击&#x200B;**SEND**。
+1. 输入电子邮件地址，然后单击&#x200B;**发送**。
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
