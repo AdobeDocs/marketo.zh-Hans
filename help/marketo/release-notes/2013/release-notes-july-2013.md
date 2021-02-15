@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2951093
-description: 发行说明- 2013年7月- Marketo Docs —— 产品文档
-title: 发行说明- 2013年7月
+description: 发行说明 — 2013年7月 — Marketo Docs — 产品文档
+title: 发行说明 — 2013年7月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 发行说明：2013年7月{#release-notes-july}
 
-7月版本计划于7月26日星期五推出，其中包含以下功能。  请检查您的[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)以了解功能可用性。
+7月版本中包含以下功能，该版本计划于7月26日星期五推出。  请检查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)以了解功能可用性。
 
-发布后，请务必查看社区中的[New Release](release-notes-december-2013.md)选项卡，以获取有关每个功能的详细帮助文章！
+发布后，请务必查看社区中的[新版本](release-notes-december-2013.md)选项卡，以了解每项功能的详细帮助文章！
 
-## 仪表板{#exhausted-content-widget-on-the-dashboard}上已用尽的内容构件
+## 仪表板{#exhausted-content-widget-on-the-dashboard}上已用尽的内容小部件
 
-提供有关Lead何时会耗尽流中内容的信息。 系统将向您提供有关将要达到耗尽内容的潜在客户数量或已耗尽潜在客户的时间的信息。
+提供有关何时引导将耗尽流中内容的信息。 系统将向您提供有关将要达到耗尽内容的潜在客户数量或耗尽潜在客户的时间的信息。
 
 ![](assets/image2014-9-22-16-3a30-3a50.png)
 
 ## 通信限制{#communication-limits}
 
-想不要再过度发送潜在客户电子邮件？ 现在，可以轻松地自动将频率限制到每个人。 只需设置每日和每周的通信限制，系统将完成其余的工作。 在Select、Enterprise中提供，并随Add-On包一起提供，面向标准客户。
+想停止过量发送Lead吗？ 现在，可以轻松地自动将频率限制到每个用户。 只需设置每日和每周的通讯限制，系统就会完成其余的工作。 在Select、Enterprise中提供，并随Add-On包提供，面向Standard客户。
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 
