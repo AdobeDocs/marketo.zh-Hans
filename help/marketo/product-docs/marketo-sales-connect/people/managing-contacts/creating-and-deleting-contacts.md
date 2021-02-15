@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352516
-description: 创建和删除联系人- Marketo Docs —— 产品文档
+description: 创建和删除联系人 — Marketo Docs — 产品文档
 title: 创建和删除联系人
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## 创建联系人{#creating-contacts}
 
-1. 在“人员”页面中，单击&#x200B;**“组操作”**&#x200B;按钮，然后选择&#x200B;**创建联系人**。
+1. 在“人员”页中，单击&#x200B;**“分组操作**”按钮，然后选择“创建联系人&#x200B;**”。**
 
    ![](assets/one-2.png)
 
-1. 输入名字／姓氏和电子邮件地址，以及您想要的任何其他信息。 完成后，单击&#x200B;**创建**&#x200B;或&#x200B;**创建并添加新**&#x200B;以添加更多联系人。
+1. 输入名字/姓氏和电子邮件地址，以及您想要的任何其他信息。 完成后，单击&#x200B;**创建**&#x200B;或&#x200B;**创建并添加新**&#x200B;以添加更多联系人。
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >要同时添加多个联系人？ [单击](http://docs.marketo.com/x/VADb) 此处了解如何通过CSV导入联系人。
+   >想一次添加多个联系人？ [单](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) 击此处了解如何通过CSV导入联系人。
 
 ## 删除联系人{#deleting-contacts}
 
@@ -35,12 +35,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要删除多个联系人，只需选择多个人员。 其余步骤将相同。
+   >要删除多个联系人，只需选择多个人。 其余步骤将是相同的。
 
-1. 单击数据（三个垂直点），然后选择“删除”。
+1. 单击数据（三个垂直点），然后选择&#x200B;**删除**。
 
    ![](assets/four-2.png)
 
-1. 单击“删除联系人”进行确认。
+1. 单击&#x200B;**删除联系人**&#x200B;进行确认。
 
    ![](assets/five-2.png)
