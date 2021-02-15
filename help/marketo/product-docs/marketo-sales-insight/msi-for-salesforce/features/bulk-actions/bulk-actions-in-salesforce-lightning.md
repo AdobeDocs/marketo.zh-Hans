@@ -1,9 +1,9 @@
 ---
 unique-page-id: 37356282
-description: Salesforce Lightning中的批量操作- Marketo Docs —— 产品文档
-title: Salesforce闪电中的批量操作
+description: Salesforce Lightning中的批量操作 — Marketo Docs — 产品文档
+title: Salesforce Lightning中的批量操作
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salesforce闪电中的批量操作{#bulk-actions-in-salesforce-lightning}
+# Salesforce Lightning中的批量操作{#bulk-actions-in-salesforce-lightning}
 
 下面介绍如何在Salesforce Lightning中设置批量操作。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 单击&#x200B;**对象管理器**&#x200B;选项卡。
+1. 单击&#x200B;**Object Manager**&#x200B;选项卡。
 
    ![](assets/two.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 在“自定义按钮”下，找到并选择&#x200B;**添加到营销活动（闪电）**&#x200B;和&#x200B;**发送营销电子邮件（闪电）**。 单击&#x200B;**添加**&#x200B;按钮。
+1. 在“自定义按钮”下，找到并选择&#x200B;**添加到Marketo活动（闪电）**&#x200B;和&#x200B;**发送Marketo电子邮件（闪电）**。 单击&#x200B;**添加**&#x200B;按钮。
 
    ![](assets/six.png)
 
@@ -43,9 +43,8 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-   您现在将能够在潜在客户列表视图中看到批量操作按钮。
+   您现在可以在潜在客户列表视图中看到批量操作按钮。
 
    >[!NOTE]
    >
-   >重复上述步骤，在“联系人列表”视图中添加批量操作。
-
+   >重复相同步骤，在“联系人”列表视图中添加批量操作。
