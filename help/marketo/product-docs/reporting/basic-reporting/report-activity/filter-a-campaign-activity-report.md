@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360184
-description: 筛选活动活动报告- Marketo Docs —— 产品文档
-title: 筛选活动活动报告
+description: 筛选活动活动报告 — Marketo Docs — 产品文档
+title: 筛选活动活动报表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 过滤活动活动报告{#filter-a-campaign-activity-report}
 
-将[活动活动报告](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)重点放在特定[智能活动](http://docs.marketo.com/display/docs/smart+campaigns)上。
+将您的[活动活动报告](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)聚焦到特定[智能活动](https://docs.marketo.com/display/docs/smart+campaigns)。
 
-1. 转至&#x200B;**营销活动**（或&#x200B;**分析**）并选择您的活动活动报告。
+1. 转至&#x200B;**营销活动**（或&#x200B;**Analytics**）并选择您的活动活动报表。
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡并多次单击&#x200B;**活动。**
+1. 单击&#x200B;**设置**&#x200B;选项卡，然后多次单击&#x200B;**活动。**
 
    ![](assets/image2014-9-16-16-3a14-3a1.png)
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果选择文件夹，则报表将包含运行报表时该文件夹包含的所有内容。
+   >如果您选择了文件夹，则您的报表将包含运行报表时该文件夹包含的所有内容。
 
-1. 你完了！ 单击&#x200B;**报告**&#x200B;选项卡，查看报告中选定的智能活动&#x200B;*仅*。
+1. 你完了！ 单击&#x200B;**报表**&#x200B;选项卡，查看报表中的&#x200B;*仅*&#x200B;选定智能活动。
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
@@ -47,5 +47,5 @@ ht-degree: 0%
 >
 >**深潜**
 >
->了解[基本报告](http://docs.marketo.com/display/docs/basic+reporting)中的所有报告。
+>了解[基本报告](https://docs.marketo.com/display/docs/basic+reporting)中有关报告的所有信息。
 
