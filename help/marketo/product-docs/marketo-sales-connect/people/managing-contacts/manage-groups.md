@@ -1,11 +1,11 @@
 ---
 unique-page-id: 30081250
-description: 管理组- Marketo文档——产品文档
+description: 管理组 — Marketo Docs — 产品文档
 title: 管理组
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 创建组{#create-a-group}
 
-1. 在“人员”页面中，单击“组”旁边的&#x200B;**加号**。
+1. 在“人员”页面中，单击“组”旁边的&#x200B;**+**。
 
    ![](assets/one-4.png)
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 ## 将联系人添加到组{#add-contacts-to-a-group}
 
-1. 在“人员”页面中，查找并选择要向其添加人员的组。
+1. 在“人员”页面中，查找并选择要将人员添加到的组。
 
    ![](assets/three-3.png)
 
-1. 单击&#x200B;**“组操作”**，然后选择“创建联系人”**。**
+1. 单击&#x200B;**“组操作**”，然后选择“创建联系人&#x200B;**”。**
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >这将一次添加一个联系人。 要同时添加多个联系人，请按照以下步骤](http://docs.marketo.com/x/VADb)操作。[
+   >这将一次添加一个联系人。 要同时添加多个联系人，请遵循[这些步骤](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)。
 
-1. 填写联系人的信息，然后单击&#x200B;**创建**（或&#x200B;**创建并添加新**&#x200B;以添加其他）。
+1. 填写联系人的信息，然后单击&#x200B;**创建**（或&#x200B;**创建并添加新**&#x200B;以添加其他项）。
 
    ![](assets/five-3.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 ## 共享组{#share-a-group}
 
-1. 在“人员”页中，查找并选择要共享的组。
+1. 在“人员”页面中，查找并选择要共享的组。
 
    ![](assets/six.png)
 
-1. 单击数据（三个垂直点），然后选择&#x200B;**共享**。
+1. 单击数据（三个垂直点）并选择&#x200B;**共享**。
 
    ![](assets/seven.png)
 
@@ -69,19 +69,19 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-   组仍由您拥有，但现在它将显示在“组组”下。
+   组仍由您拥有，但现在它将显示在“组”下。
 
 ## 取消共享组{#unshare-a-group}
 
-1. 在“人员”页中，查找并选择要取消共享的组。
+1. 在“人员”页面中，查找并选择要取消共享的组。
 
    ![](assets/ten.png)
 
-1. 单击数据（三个垂直点），然后选择&#x200B;**共享**。
+1. 单击数据（三个垂直点）并选择&#x200B;**共享**。
 
    ![](assets/eleven.png)
 
-1. 单击您与其共享组的团队旁边的&#x200B;**X**，然后单击退出模式。
+1. 单击您与其共享组的团队旁边的&#x200B;**X**，然后单击“out of the modal（模式）”。
 
    ![](assets/twelve.png)
 
@@ -114,4 +114,3 @@ ht-degree: 0%
 1. 单击&#x200B;**删除**&#x200B;进行确认。
 
    ![](assets/seventeen.png)
-
