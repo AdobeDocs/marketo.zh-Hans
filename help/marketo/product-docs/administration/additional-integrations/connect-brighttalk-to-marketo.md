@@ -1,9 +1,9 @@
 ---
 unique-page-id: 15695874
-description: Connect BrightTALK to Marketo - Marketo Docs —— 产品文档
-title: 将BrightTALK连接到Marketo
+description: Connect BrightTALK to Marketo - Marketo Docs — 产品文档
+title: 将BrightTALK与Marketo连接
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 将BrightTALK连接到Marketo {#connect-brighttalk-to-marketo}
 
-了解如何将BrightTALK渠道与Marketo实例连接。 为此，您必须同时是两者的管理员。
+了解如何将您的BrightTALK渠道与您的Marketo实例连接。 为此，您必须同时为两者的管理员。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 ## BrightTALK {#steps-in-brighttalk}中的步骤
 
-1. 登录到[business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login)，然后单击&#x200B;**立即连接**。
+1. 登录到[business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login)，然后单击&#x200B;**立即连接**。
 1. 在“Advanced Marketo Connector（高级营销连接器）”下，单击&#x200B;**Connect**。
 1. 您将进入凭据屏幕，询问：客户端ID、客户端机密、标识服务URL和休息服务URL。 要获取此信息，请登录Marketo。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此时，您将需要设置“仅API用户角色”和“API用户”，以限制BrightTALK在您的Marketo实例中将具有的权限。 因为我们已经有这些步骤的文章，我们会将您链接到这些步骤。
+>此时，您将需要设置“仅API用户角色”和“API用户”，以限制BrightTALK在您的Marketo实例中将具有的权限。 因为我们已经有针对这些步骤的文章，我们会将您链接到这些步骤。
 
 1. 创建[仅API用户角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)。
 1. [使用您在步骤](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)4中创建的BrightTALK API角色创建API用户。
@@ -45,15 +45,15 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 输入您选择的显示名称。 单击“服务”下拉框并选择&#x200B;**Custom**（请选择&#x200B;_not_ BrightTALK）。
+1. 输入您选择的显示名称。 单击“服务”下拉框并选择&#x200B;**Custom**(do _not_ select BrightTALK)。
 
    ![](assets/four.png)
 
    >[!CAUTION]
    >
-   >切记不要在下拉框中选择BrightTALK。 我们正在删除这一领域，选择它可能会在您的Marketo/BrightTALK集成中造成严重问题。
+   >切记不要在下拉框中选择BrightTALK。 我们正在删除该字段，选择该字段可能会对您的Marketo/BrightTALK集成造成严重问题。
 
-1. 输入您选择的描述。 单击“仅API用户”下拉框，选择您在步骤5中创建的BrightTALK API用户。 单击&#x200B;**创建**。
+1. 输入您选择的说明。 单击“仅API用户”下拉框，然后选择您在步骤5中创建的BrightTALK API用户。 单击&#x200B;**创建**。
 
    ![](assets/five.png)
 
@@ -77,4 +77,4 @@ ht-degree: 0%
 
 1. 从步骤3返回至BrightTALK连接器设置屏幕，并输入您从步骤12和14保存的凭据。
 
-   验证凭据后，您已正式将BrightTALK连接到Marketo。 下一步是确定要同步的[数据字段。](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)
+   验证凭据后，您已正式将BrightTALK连接到Marketo。 下一步是确定要同步的[数据字段。](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)
