@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2951046
-description: 发行说明- 2014年3月- Marketo Docs —— 产品文档
-title: 发行说明- 2014年3月
+description: 发行说明 — 2014年3月 — Marketo Docs — 产品文档
+title: 发行说明 — 2014年3月
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 发行说明：2014年3月{#release-notes-march}
 
-2014年3月版包含以下功能。 请查看您的Marketo Edition以了解功能可用性。 发布后，请务必返回，以获取每个功能的知识库文章的链接。
+2014年3月版包含以下功能。 请查看您的Marketo Edition以了解功能可用性。 发布后，请务必回来查找每个功能的知识库文章的链接。
 
 ## 电子邮件项目仪表板刷新按钮{#email-program-dashboard-refresh-button}
 
@@ -21,42 +21,42 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-11-3a35-3a15.png)
 
-## 电子邮件编辑器和代码片断编辑器中的撤消／重做{#undo-redo-in-the-email-editor-and-snippet-editor}
+## 在电子邮件编辑器和代码片断编辑器{#undo-redo-in-the-email-editor-and-snippet-editor}中撤消/重做
 
-[撤消或](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md) 重新创建当前会话的50个操作。
+[撤消或](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md) 重复当前会话的50个操作。
 
 ![](assets/image2014-9-22-11-3a35-3a40.png)
 
-## 项目状态列项目性能报告{#program-status-columns-in-program-performance-report}
+## 项目状态列在项目性能报告{#program-status-columns-in-program-performance-report}中
 
-使用[项目性能报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)时，您现在可以看到处于项目状态的人数。
+使用[项目性能报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)时，您现在可以看到有多少人处于项目状态。
 
 ![](assets/image2014-9-22-11-3a36-3a13.png)
 
-## Analytics{#inclusive-and-operational-programs-for-analytics}的包含项目和操作
+## Analytics{#inclusive-and-operational-programs-for-analytics}的包含式和操作项目
 
-现在，在编辑项目渠道时，您可以将“分析行为”选项设置为“包含”，以便在收入浏览器和分析器中[包含没有期间成本的项目。 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)您还可以通过选择“运营”，将运营项目从报告中全部排除。
+现在，您可以在收入浏览器和分析器中[包含没有期间成本的项目，方法是在编辑项目渠道时将“分析行为”选项设置为“包含”。 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)您还可以通过选择“可操作”将操作项目从报告中全部排除。
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 
-## 潜在客户转化的混合和隐式选项{#hybrid-and-implicit-options-for-lead-conversion}
+## 潜在客户转换的混合和隐式选项{#hybrid-and-implicit-options-for-lead-conversion}
 
-您可以更改营销人员在潜在客户分析中联系联系人和潜在客户转化指标的方式。 您可以[将属性设置](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md)更改为三种选择之一。 更改此设置不会修改任何Marketo或CRM数据；它只会更改报表的运行方式，并且可以随时还原它。
+您可以更改Market将联系人和商机关联到Lead分析中的Lead转化量度的方式。 您可以[将属性设置](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md)更改为三种选择之一。 更改此设置不会修改任何Marketo或CRM数据；它只会更改报表的运行方式，并且可以随时还原。
 
-“显式”设置将仅将业务机会中具有角色的联系人视为已转换的潜在客户（默认行为）。 隐式将将业务机会中与帐户关联的所有联系人视为已转换，而不管角色如何。 Hybrid会将角色转换的联系人视为可用；如果没有，我们将帐户中的所有联系人视为已转换。
+显式设置将仅将业务机会中具有角色的联系人视为已转换潜在客户（默认行为）。 隐式将处理与业务机会中的帐户关联的所有联系人，而不管角色如何，均视为已转换。 Hybrid会将角色的联系人视为已转换（如果可用）；如果没有，我们将帐户中的所有联系人视为已转换。
 
-作为提醒，此设置还会更改项目归因指标。
+作为提醒，此设置还会更改项目归因量度。
 
 ![](assets/image2014-9-22-11-3a36-3a51.png)
 
 ## 其他用户语言{#additional-user-language}
 
-选择[营销应用程序语言](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)。 视图您首选语言的Marketo Lead Management界面——现在支持日语。
+选择[营销应用程序语言](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)。 视图您首选语言的Marketo Lead Management界面 — 现在支持日语。
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Marketo开发人员博客{#marketo-developer-blog}
 
-[Marketo Developer博客](http://developers.marketo.com/blog/)专门为那些支持现代营销人员日新月异的需求的Web开发人员和软件工程师提供。 您可以订阅有关新集成选项、API版本更新和一系列新操作方法文章的公告，这些文章包含与Marketo平台集成的代码示例和最佳实践。
+[Marketo Developer博客](https://developers.marketo.com/blog/)专门面向那些支持现代营销人员快速发展需求的Web开发人员和软件工程师。 您可以订阅有关新集成选项、API版本更新和一系列新操作方法文章的公告，这些文章包含与Marketo平台集成的代码示例和最佳做法。
 
-本系列中的[第一篇文章](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)将指导您如何使用API有效地检索存储在Marketo中的人员（客户／联系人／潜在客户）的相关信息。
+本系列中的[第一篇文章](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)将指导您了解如何使用API有效检索存储在Marketo中的人员（客户/联系人/潜在客户）的信息。
