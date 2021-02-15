@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2949279
-description: 升级Marketo Email Add-In for Outlook - Marketo Docs —— 产品文档
-title: 升级Marketto Email Add-In for Outlook
+description: 升级Marketo Email Add-In for Outlook - Marketo Docs — 产品文档
+title: 升级Marketolk的Email Add-In for Outlook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 升级Outlook {#upgrade-your-marketo-email-add-in-for-outlook}的Marketo电子邮件插件
+# 升级Outlook {#upgrade-your-marketo-email-add-in-for-outlook}的Marketo Email Add-In
 
-当有新版Outlook的Marketo Email Add-in可用时，请按照以下说明进行升级。
+当Outlook的Marketo Email Add-in有新版本时，请按照以下说明进行升级。
 
 ## 下载安装程序{#download-installer}
 
@@ -49,52 +49,52 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>Outlook 2003</td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td>N/A</td> 
    <td>不支持</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Outlook 2007</td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td>N/A</td> 
    <td>不支持</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Outlook 2010</td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
   </tr> 
   <tr> 
-   <td>Outlook 2013</td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td>2013年展望</td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
   </tr> 
   <tr> 
    <td>Outlook 2016</td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook 2019</td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1">《2019年展望》</td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
   </tr> 
   <tr> 
    <td colspan="1">Outlook O365（仅限Windows）</td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
   </tr> 
   <tr> 
    <td>Outlook for Mac</td> 
@@ -130,13 +130,13 @@ ht-degree: 0%
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. 您会注意到您的所有信息都已预填。 只需单击&#x200B;**Next**。
+1. 您会注意到您的所有信息都已预填。 只需单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
    >[!TIP]
    >
-   >如果安装失败，请与您的IT部门合作，确保HTTPS通信不被阻止。 安装程序需要打开HTTPS通信。
+   >如果安装失败，请与您的IT部门合作，以确保HTTPS通信不被阻止。 安装程序需要打开HTTPS通信。
 
    单击“下一步”以在默认位置进行安装。
 
@@ -150,13 +150,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
-1. 现在打开Microsoft Outlook以查看最新版本的Marketo按钮。
+1. 现在打开Microsoft Outlook以查看最新版的Marketo按钮。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
 >[!MORELIKETHIS]
 >
->* [使用Outlook的Marketo电子邮件插件发送和跟踪电子邮件](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用Outlook的Marketo Email Add-in发送和跟踪电子邮件](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [使用Marketo模板从Outlook发送和跟踪](send-and-track-from-outlook-using-a-marketo-template.md)
 
 >
