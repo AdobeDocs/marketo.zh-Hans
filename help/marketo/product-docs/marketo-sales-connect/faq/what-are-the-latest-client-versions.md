@@ -1,9 +1,9 @@
 ---
 unique-page-id: 14352422
-description: 什么是最新客户端版本？ - Marketo Docs —— 产品文档
+description: 什么是最新客户端版本？ - Marketo Docs — 产品文档
 title: 什么是最新客户端版本？
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 5%
@@ -42,5 +42,4 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->我们当前未针对除Chrome之外的任何浏览器进行过优化。 这是我们的产品团队所了解并希望在将来解决的问题。
-
+>我们目前没有针对除Chrome之外的任何浏览器进行优化。 这正是我们产品团队所了解并希望在未来解决的问题。
