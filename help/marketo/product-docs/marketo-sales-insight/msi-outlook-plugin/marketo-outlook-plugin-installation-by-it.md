@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: IT Marketo Outlook插件安装 — Marketo Docs — 产品文档
 title: IT人员安装Marketo Outlook插件
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,36 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[设置](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) 企业密钥。
+>[设置](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) 企业密钥。
 
-以“系统”或具有要安装的/i开关的管理用户帐户的形式运行以下命令行。 `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
+以“系统”或具有要安装的/i开关的管理用户帐户的形式运行以下命令行。
+
+`<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
 >**示例**
+>
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn REG=ABC9-123y-WXYZ-4321</pre>`
 
-对于疑难解答，您可以启用日志记录以创建输出日志文件。 `<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`
+对于疑难解答，您可以启用日志记录以创建输出日志文件。
+
+`<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
 >**示例**
+>
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn /L*v MarketoAddin.log REG=ABC9-123y-WXYZ-4321</pre>`
 
-要指定日志文件的位置，可以在命令行中指定文件路径。 `<pre>msiexec.exe /i [File Name] /qn /L*v [File Path]MarketoAddin.log REG=[Enterprise Key]</pre>`
+要指定日志文件的位置，可以在命令行中指定文件路径。
+
+`<pre>msiexec.exe /i [File Name] /qn /L*v [File Path]MarketoAddin.log REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
 >**示例**
+>
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn /L*v C:\temp\MarketoAddin.log REG=ABC9-123y-WXYZ-4321</pre>`
 
 >[!CAUTION]
@@ -48,5 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[IT人员卸载Marketo Outlook插件](marketo-outlook-plugin-uninstall-by-it.md)
-
+>[IT人员卸载Marketo Outlook插件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
