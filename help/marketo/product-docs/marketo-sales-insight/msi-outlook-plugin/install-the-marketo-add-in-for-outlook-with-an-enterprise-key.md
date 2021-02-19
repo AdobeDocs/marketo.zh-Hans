@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: 使用企业密钥 — 营销文档 — 产品文档安装Marketo Add-in for Outlook
 title: 使用企业密钥安装Outlook的Marketo Add-in
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->管理员必须拥有[颁发的Marketo Email Add-In许可证](issue-a-marketo-email-add-in-license.md)。
+>管理员必须拥有[颁发的Marketo Email Add-In许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)。
 
 >[!NOTE]
 >
->如果未看到“视图企业键”按钮，请联系[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371)以启用它。
+>如果看不到“视图企业键”按钮，请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)以启用它。
 
-1. 在My Marketo中，单击&#x200B;**管理**，然后单击&#x200B;**销售分析。**
+1. 在My Marketo中，单击&#x200B;**管理**，然后单击&#x200B;**销售分析**。
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
@@ -35,17 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. 复制Outlook企业许可证密钥并将其粘贴到电子邮件中，并将其与[此链接](marketo-outlook-plugin-installation-by-it.md)一起粘贴，然后将其发送到您的IT部门进行远程安装。
+1. 复制Outlook企业许可证密钥并将其粘贴到电子邮件中，并将其与[此链接](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)一起粘贴，然后将其发送到您的IT部门进行远程安装。
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   仅此而已！ 接下来，销售代表将完成[注册过程](authorize-the-marketo-outlook-plugin.md)。 您可以向他们发送指向说明的链接（请参阅&#x200B;**Marketo Related Articles**）。
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [授权Marketo Outlook插件](authorize-the-marketo-outlook-plugin.md)
-
-
+   仅此而已！ 接下来，销售代表将完成[注册过程](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)。
