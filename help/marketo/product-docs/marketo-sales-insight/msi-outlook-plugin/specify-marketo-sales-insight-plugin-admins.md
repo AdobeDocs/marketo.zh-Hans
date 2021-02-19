@@ -1,9 +1,9 @@
 ---
 unique-page-id: 11377552
-description: 指定Marketo Sales Insight插件管理员- Marketo Docs —— 产品文档
+description: 指定Marketo Sales Insight Plugin Admins - Marketo Docs — 产品文档
 title: 指定Marketo Sales Insight插件管理员
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 指定Marketo Sales Insight插件管理员{#specify-marketo-sales-insight-plugin-admins}
 
-在您邀请用户在Outlook上设置MSI时，您可以指定您希望在发送给用户的电子邮件通知中显示哪些联系人。
+在邀请用户在Outlook上设置MSI时，您可以指定您希望在发送给用户的电子邮件通知中显示哪些联系人。
 
-1. 在My Marketo中，单击&#x200B;**管理员**，然后单击&#x200B;**销售分析。**
+1. 在My Marketo中，单击&#x200B;**管理**，然后单击&#x200B;**销售分析**。
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
@@ -40,4 +40,3 @@ ht-degree: 0%
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 
    完美！
-
