@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 使用有趣的时刻 — Marketo Docs — 产品文档
 title: 使用有趣的瞬间
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->这些选项仅对Marketo Sales Insight和[ Marketo Sales Connect](https://docs.marketo.com/x/fgTLAQ)客户可用。
+>这些选项仅对Marketo Sales Insight和[ Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)客户可用。
 
-## 什么是有趣的时刻？ {#what-is-an-interesting-moment}
+## 什么是有趣的时刻？{#what-is-an-interesting-moment}
 
 这取决于你！ 您决定与您的销售团队相关的信息。 您的销售团队可能希望了解潜在客户的时间：
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 怎么会更有趣呢？ {#how-can-this-get-even-more-interesting}
 
-令牌！ 在描述字段中添加这些字段，为您的销售团队提供更具体的信息，如潜在客户打开的电子邮件的主题行或发送者。 请查看在[有趣时刻的令牌](tokens-for-interesting-moments.md)词汇表中可以使用哪些令牌。
+令牌！ 在描述字段中添加这些字段，为您的销售团队提供更具体的信息，如潜在客户打开的电子邮件的主题行或发送者。 请查看在[有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)词汇表中可以使用哪些令牌。
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ ht-degree: 0%
 
 ## 在Marketo，一个有趣的时刻是什么？ {#what-does-an-interesting-moment-look-like-in-marketo}
 
-有趣的瞬间将显示在[潜在客户的活动日志](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中。
+有趣的瞬间将显示在[潜在客户的活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中。
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
 ## Salesforce中有趣的时刻是什么？ {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-安装[Marketo Sales Insight App](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)后，潜在客户、联系人、帐户或业务机会页面上将显示有趣的时刻。 它们还显示在“销售线索源”、“最佳押注”和“观看”仪表板的“销售分析”列表中。
+安装[Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)后，潜在客户、联系人、帐户或业务机会页面上将显示有趣的时刻。 它们还显示在“销售线索源”、“最佳押注”和“观看”仪表板的“销售分析”列表中。
 
 ![](assets/six.png)
 
