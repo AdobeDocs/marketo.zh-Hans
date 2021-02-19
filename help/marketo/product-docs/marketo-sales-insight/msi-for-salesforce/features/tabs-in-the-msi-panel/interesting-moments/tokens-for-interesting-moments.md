@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: 令人感兴趣的时刻令牌 — Marketo Docs — 产品文档
 title: 有趣时刻的令牌
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 了解如何使用[有趣的力矩流步骤](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
->* 了解有关[令牌](https://docs.marketo.com/display/docs/tokens)的更多信息。
-
->
-
-
+>了解如何使用[有趣的力矩流步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
 
 ## 可用令牌{#available-tokens}
 
-请访问[令牌概述](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)，查看可放置到有趣时刻的所有令牌。
+请访问[令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)，查看可放置到有趣时刻的所有令牌。
 
 ## 触发器令牌{#trigger-tokens}
 
@@ -249,4 +244,3 @@ ht-degree: 0%
 >总是测试您的有趣时刻，确保它们以您期望的方式呈现。
 >
 >另外，请确保销售人员感兴趣，而不仅仅是您。 ![(wink)](assets/wink.svg)>
-
