@@ -1,9 +1,9 @@
 ---
 unique-page-id: 7512432
-description: 配置移动应用程序Android推送访问- Marketo Docs —— 产品文档
+description: 配置移动应用程序Android推送访问 — Marketo Docs — 产品文档
 title: 配置移动应用程序Android推送访问
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   选择所需的移动应用程序。
+1. 选择所需的移动应用程序。
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您需要移动应用程序开发人员提供的&#x200B;**服务器API密钥**&#x200B;和&#x200B;**项目编号**。 开发人员通过登录到Google Play开发人员控制台来注册您的应用程序并启用云消息传递来接收这些消息。
+   >您将需要移动应用程序开发人员提供的&#x200B;**服务器API密钥**&#x200B;和&#x200B;**项目编号**。 开发人员通过登录到Google Play开发人员控制台来注册您的应用程序并启用云消息传递来接收这些内容。
 
-   输入您的服务器API密钥和项目编号。 单击“保存”。
+1. 输入您的服务器API密钥和项目编号。 单击&#x200B;**保存**。
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [配置移动应用程序iOS推送访问](configure-mobile-app-ios-push-access.md)
-
->
-
-
-
+>[配置移动应用程序iOS推送访问](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
