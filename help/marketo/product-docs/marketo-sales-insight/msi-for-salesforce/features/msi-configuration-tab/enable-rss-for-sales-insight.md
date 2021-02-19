@@ -1,9 +1,9 @@
 ---
 unique-page-id: 11377005
-description: 启用RSS for Sales Insight - Marketo Docs —— 产品文档
-title: 为销售分析启用RSS
+description: 启用RSS for Sales Insight - Marketo Docs — 产品文档
+title: 为Sales Insight启用RSS
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 为销售分析启用RSS {#enable-rss-for-sales-insight}
+# 为Sales Insight {#enable-rss-for-sales-insight}启用RSS
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
-如果Marketo用户不仅希望在Salesforce中视图其潜在客户源，还希望在RSS源中其潜在客户源，则Marketo管理员必须先启用它。 很简单。
+如果Marketo用户不仅要在Salesforce中视图其潜在客户源，还要在RSS源中，Marketo管理员必须首先启用它。 很简单。
 
-1. 在My Marketo中，单击&#x200B;**管理员**，然后单击&#x200B;**销售分析**。
+1. 在My Marketo中，单击&#x200B;**管理**，然后单击&#x200B;**销售分析**。
 
    ![](assets/set-up-rss-1-hands.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/rss-settings-tab.png)
 
-   在“编辑设置”对话框中，选中&#x200B;**RSS feed**&#x200B;复选框，然后单击&#x200B;**保存**。
+1. 在“编辑设置”对话框中，选中&#x200B;**RSS源**&#x200B;复选框，然后单击&#x200B;**保存**。
 
    ![](assets/rss-edit-settings-2-hands.png)
 
@@ -35,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/rss-final-box.png)
 
-   蛋糕！
-
+   一块蛋糕！
