@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: 优先级、紧急性、相对得分和最佳下注 — Marketo Docs — 产品文档
 title: 优先级、紧急性、相对得分和最佳赌注
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Marketo Sales Insight根据您的最佳潜在客户和联系人的优先级来�
 
 >[!NOTE]
 >
->如果您的最佳赌注与您拥有的最佳潜在客户和联系人不匹配，请与您公司中有权访问Marketo的人谈一谈有关更新[评分规则](../../../../../getting-started/quick-wins/simple-scoring.md)的信息。
+>如果您的最佳赌注与您拥有的最佳潜在客户和联系人不匹配，请与您公司中有权访问Marketo的人谈一谈有关更新[评分规则](/help/marketo/getting-started/quick-wins/simple-scoring.md)的信息。
 
 ### 如何计算紧急程度和相对得分
 
@@ -54,8 +54,3 @@ Marketo Sales Insight根据您的最佳潜在客户和联系人的优先级来�
 >[!NOTE]
 >
 >“相对紧急（火焰）”和“相对得分（星号）”计数是Marketo中的整数。 每个值的可能值为0-3。
-
->[!MORELIKETHIS]
->
->* [Marketo Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)
-
