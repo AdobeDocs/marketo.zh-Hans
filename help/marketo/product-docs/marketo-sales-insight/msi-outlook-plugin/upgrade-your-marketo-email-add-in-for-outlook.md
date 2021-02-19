@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: 升级Marketo Email Add-In for Outlook - Marketo Docs — 产品文档
 title: 升级Marketolk的Email Add-In for Outlook
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -119,7 +119,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   单击“下一步”。
+1. 单击&#x200B;**下一步**。
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ ht-degree: 0%
    >
    >如果安装失败，请与您的IT部门合作，以确保HTTPS通信不被阻止。 安装程序需要打开HTTPS通信。
 
-   单击“下一步”以在默认位置进行安装。
+1. 单击&#x200B;**下一步**&#x200B;以在默认位置安装。
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Outlook的Marketo Email Add-in发送和跟踪电子邮件](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [使用Marketo模板从Outlook发送和跟踪](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [使用Outlook的Marketo Email Add-in发送和跟踪电子邮件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用Marketo模板从Outlook发送和跟踪](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
