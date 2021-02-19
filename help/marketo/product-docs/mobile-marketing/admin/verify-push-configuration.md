@@ -1,11 +1,11 @@
 ---
 unique-page-id: 7512445
-description: 验证推送配置- Marketo Docs —— 产品文档
+description: 验证推送配置 — Marketo Docs — 产品文档
 title: 验证推送配置
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >您的移动开发人员必须已将Marketo的SDK代码添加到您的移动应用程序。
 
-验证推送配置，确保所有内容同步良好。
+验证推送配置，以确保所有内容同步良好。
 
 1. 单击&#x200B;**管理员**。
 
@@ -27,23 +27,20 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   选择所需的移动应用程序。
+1. 选择所需的移动应用程序。
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-   单击“移动应用程序操作”，然后选择“验证推送配置”。
+1. 单击&#x200B;**Mobile App Actions**&#x200B;并选择&#x200B;**验证推送配置**。
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-   确认所需的平台已读取验证，然后单击“关闭”。
+1. 确认已验证所需的平台，然后单击&#x200B;**关闭**。
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   一切就绪！现在，您可以开始发送推送通知![(smile)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)
+
+一切就绪！ 现在，您可以开始发送推送通知。
 
 >[!MORELIKETHIS]
 >
->* [创建推送通知](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
-
->
-
-
-
+>[创建推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
