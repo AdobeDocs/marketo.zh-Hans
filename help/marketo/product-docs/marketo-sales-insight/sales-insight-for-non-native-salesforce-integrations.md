@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: 针对非本机Salesforce集成的Sales Insight - Marketo Docs — 产品文档
 title: 针对非本机Salesforce集成的Sales Insight
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -22,9 +22,6 @@ ht-degree: 0%
 >* Marketo REST API [已成功设置](https://developers.marketo.com/rest-api/)。 公开的CRUD API将是执行非本机同步的基础。
 >* 阅读[此博客文章](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)以了解对象和关系。
 >* 设置Salesforce对象以显示18个字符不区分大小写的全局唯一标识符，而不是15个字符区分大小写的全局唯一标识符。
-
->
-
 
 
 >[!NOTE]
@@ -62,7 +59,7 @@ ht-degree: 0%
 
 1. 将Salesforce帐户同步到Marketo。
 
-   需要为Salesforce帐户更新Marketo公司。 *externalCompanyId*&#x200B;和&#x200B;*externalSalesPersonId*&#x200B;字段是升级公司所必需的。
+   需要为Salesforce帐户更新Marketo公司。 _externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;字段是升级公司所必需的。
 
 <table> 
  <colgroup> 
@@ -94,7 +91,7 @@ ht-degree: 0%
 
 1. 将Salesforce潜在客户/联系人同步到Marketo。
 
-   您需要为Salesforce潜在客户/联系人添加Marketo潜在客户。 *externalPersonId*、*externalSalesPersonId*&#x200B;和&#x200B;*externalCompanyId*&#x200B;字段是用于提升潜在客户的。
+   您需要为Salesforce潜在客户/联系人添加Marketo潜在客户。 _externalPersonId_、_externalSalesPersonId_&#x200B;和&#x200B;_externalCompanyId_&#x200B;字段是用于提升潜在客户的。
 
 <table> 
  <colgroup> 
@@ -131,7 +128,7 @@ ht-degree: 0%
 
 1. 将Salesforce机会同步到Marketo。
 
-   您需要为Salesforce Opportunity添加Marketo Opportunity。 *externalOpportunityId*、*externalCompanyId*&#x200B;和&#x200B;*externalSalesPersonId*&#x200B;字段是用于Opportunity的更新的。
+   您需要为Salesforce Opportunity添加Marketo Opportunity。 _externalOpportunityId_、_externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;字段是用于Opportunity的更新的。
 
 <table> 
  <colgroup> 
@@ -168,7 +165,7 @@ Opportunity的API文档：[`https://developers.marketo.com/rest-api/lead-databas
 
 1. 将Salesforce联系人角色同步到Marketo。
 
-   然后，可以通过Marketo Opportunity角色同步Salesforce Opportunity的Salesforce联系角色。 “业务机会角色”记录要求&#x200B;*externalOpportunityId*、*role*&#x200B;和&#x200B;*leadId*&#x200B;字段。
+   然后，可以通过Marketo Opportunity角色同步Salesforce Opportunity的Salesforce联系角色。 “业务机会角色”记录要求&#x200B;_externalOpportunityId_、_role_&#x200B;和&#x200B;_leadId_&#x200B;字段。
 
 <table> 
  <colgroup> 
@@ -207,7 +204,7 @@ Opportunity的API文档：[`https://developers.marketo.com/rest-api/lead-databas
 
    Salesforce对象正确同步到Marketo后，您便可以利用MSI功能。 MSI上一个有趣的时刻/评分字段将显示在潜在客户的REST API中。 这些字段由MSI计算，为只读。
 
-   营销人员潜在客户的“最后有趣的时刻/评分”字段需要使用REST API潜在客户端点定期同步到Salesforce。 使用&#x200B;*externalPersonId*&#x200B;作为filterType查询Marketo Lead的此端点，并将Salesforce Lead GUID作为filterValue传入。
+   营销人员潜在客户的“最后有趣的时刻/评分”字段需要使用REST API潜在客户端点定期同步到Salesforce。 使用&#x200B;_externalPersonId_&#x200B;作为filterType查询Marketo Lead的此端点，并将Salesforce Lead GUID作为filterValue传入。
 
    | GET/rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -264,7 +261,6 @@ Opportunity的API文档：[`https://developers.marketo.com/rest-api/lead-databas
  </tbody> 
 </table>
 
-潜在客户REST API的文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET)。
+潜在客户REST API的文档：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET)。
 
 正确使用外部字段是成功实现非本机同步的关键。 如果某些视图中未能看到数据，则某个字段可能未正确同步。 例如，如果潜在客户的活动和有趣时刻在其帐户下查看MSI构件时未显示，则潜在客户的公司或帐户可能未正确同步。 在指定外部字段时对此潜在客户执行GET请求将帮助您验证该潜在客户是否正确同步。 此外，Marketo中外部销售人员的电子邮件必须与Salesforce中该用户的电子邮件匹配。 如果电子邮件不匹配，则数据可能无法显示在Salesforce的Marketo选项卡中。
-
