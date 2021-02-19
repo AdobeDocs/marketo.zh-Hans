@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: 使用注册代码 — Marketo Docs — 产品文档安装Outlook的Marketo Email Add-in
 title: 使用注册代码安装Outlook的Marketo Email Add-in
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -19,15 +19,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 您必须[已获得Marketo Email Add-in许可证](issue-a-marketo-email-add-in-license.md)。
-
->
-
-
+>您必须[已获得Marketo Email Add-in许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)。
 
 ## 下载安装程序{#download-installer}
 
 1. 识别[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+
 1. 单击该链接以下载适合您的Microsoft Outlook版本的安装程序。
 
    >[!NOTE]
@@ -71,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. 填写&#x200B;**名字**、**姓氏**、**电子邮件地址**，然后将电子邮件中的**注册代码**复制并粘贴到表单中，然后单击&#x200B;**下一页**。
+1. 填写&#x200B;**名字**、**姓氏**、**电子邮件地址**，然后将电子邮件中的&#x200B;**注册代码**&#x200B;复制并粘贴到表单中，然后单击&#x200B;**下一个**。
 
    ![](assets/enter-your-information-hands.png)
 
@@ -79,7 +76,7 @@ ht-degree: 0%
    >
    >如果安装失败，请咨询您的IT部门以确保HTTPS通信不被阻止。 安装程序需要打开HTTPS通信。
 
-1. 单击**下一步**以在默认位置进行安装。
+1. 单击&#x200B;**下一步**&#x200B;以在默认位置安装。
 
    ![](assets/select-installation-folder-hand.png)
 
@@ -105,10 +102,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Outlook的Marketo Email Add-in发送和跟踪电子邮件](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [使用Marketo模板从Outlook发送和跟踪](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [使用Outlook的Marketo Email Add-in发送和跟踪电子邮件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用Marketo模板从Outlook发送和跟踪](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
