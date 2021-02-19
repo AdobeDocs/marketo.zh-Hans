@@ -3,9 +3,9 @@ unique-page-id: 7512448
 description: 将SDK代码发送给开发人员 — Marketo Docs — 产品文档
 title: 将SDK代码发送给开发人员
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 您是这样做的。
 
-1. 单击“管理员”。
+1. 单击&#x200B;**管理员**。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 选择“移动应用程序”。
+1. 选择&#x200B;**移动应用程序**。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -47,4 +47,3 @@ ht-degree: 0%
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
    SDK代码现在将发送给您的开发人员。
-
