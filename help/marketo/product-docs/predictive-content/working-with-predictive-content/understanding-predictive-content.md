@@ -3,19 +3,15 @@ unique-page-id: 11384665
 description: 了解预测内容 — Marketo Docs — 产品文档
 title: 了解预测内容
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
 
 # 了解预测内容{#understanding-predictive-content}
-
->[!NOTE]
->
->根据购买日期，您的Marketo订阅可能包括Marketo Predictive Content或Content`<sup>AI</sup>`。 对于使用预测内容的用户，Marketo在2018年4月30日之前一直在启用“内容`<sup>AI</sup>`分析”功能。 要使这些功能在该日期之后继续运行，请联系您的Marketo客户成功经理以升级到Marketo内容`<sup>AI</sup>`。
 
 在[批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)后，您将在此处处理它。 “预测内容”页面显示您为预测内容批准的所有标题。
 
@@ -58,7 +54,7 @@ ht-degree: 0%
 
 ## 预测内容的视图表数据{#view-table-data-for-predictive-content}
 
-在表中，您可以从左到右视图哪些源启用了预测内容：推荐栏、电子邮件和富媒体。 启用的源以绿色显示。 当您[编辑内容](https://docs.marketo.com/display/docs/edit+predictive+content)时，可启用这些设置。
+在表中，您可以从左到右视图哪些源启用了预测内容：推荐栏、电子邮件和富媒体。 启用的源以绿色显示。 在编辑内容时启用这些设置。
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -75,9 +71,3 @@ ht-degree: 0%
 >**直接转换**:访客点击了推荐内容并在同一次访问中填写了表单
 >
 >**已点击**:推荐内容的总点击量（包括所有三个源）
-
->[!MORELIKETHIS]
->
->* [预测内容](https://docs.marketo.com/display/docs/predictive+content)
->* [编辑预测内容](https://docs.marketo.com/display/docs/edit+predictive+content)
-
