@@ -1,9 +1,9 @@
 ---
 unique-page-id: 7512463
-description: 删除移动推送通知- Marketo Docs —— 产品文档
+description: 删除移动推送通知 — Marketo Docs — 产品文档
 title: 删除移动推送通知
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 删除移动推送通知{#delete-mobile-push-notification}
 
-1. 转到“营销活动”区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -25,11 +25,10 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-   单击“DELETE”进行确认。
+1. 单击&#x200B;**删除**&#x200B;进行确认。
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 
    >[!NOTE]
    >
-   >如果其他资产正在使用移动推送通知，则不会允许您将其删除。 您必须从资产中删除它。
-
+   >如果其他资产正在使用移动推送通知，则将不允许您删除该通知。 您必须从资源中删除它。
