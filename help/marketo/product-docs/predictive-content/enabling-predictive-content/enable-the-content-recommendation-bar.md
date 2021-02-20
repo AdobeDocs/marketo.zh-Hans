@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: 启用内容推荐栏 — Marketo Docs — 产品文档
 title: 启用内容推荐栏
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 >
 >在启用预测内容之前，您必须：
 >
->* [准备预测内容](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **准备预测内容**
+   >
+   >   
+   * [编辑电子邮件的预测](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 内容
+   >   * [编辑富媒体的预测内](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) 容
+   >   * [编辑推荐栏的预测内容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -45,9 +51,9 @@ ht-degree: 0%
    >
    >**包含/排除显示URL**
    >
-   >    * 显示URL应为域的路径
-   >    * 不要包含https://或https://
-   >    * 使用*表示通配符
+   >* 显示URL应为域的路径
+   >* 不要包含https://或https://
+   >* 使用*表示通配符
    * 使用分号作为分隔符
    * 示例：/contact_us*;*action=logout*
    * 此字段区分大小写
@@ -61,5 +67,4 @@ ht-degree: 0%
 * 您为推荐启用的内容片段应包含RTP Javascript标签。 这有助于算法跟踪和优化推荐内容。
 
 >[!MORELIKETHIS]
-* [为Web富媒体启用预测内容](enable-predictive-content-for-web-rich-media.md)
-
+[为Web富媒体启用预测内容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
