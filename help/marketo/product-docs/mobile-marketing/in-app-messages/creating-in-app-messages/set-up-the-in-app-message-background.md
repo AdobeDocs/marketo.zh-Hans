@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: 设置应用程序内消息背景 — Marketo Docs — 产品文档
 title: 设置应用程序内消息背景
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -67,16 +67,11 @@ ht-degree: 0%
    >
    >对于背景的点击操作，您可以为Apple和Android平台设置不同的操作。 例如，对于Apple和Android，深层链接的处理方式不同。 如果消息仅传送到一个平台或另一个平台，请将另一个保留在默认设置中，或选择&#x200B;**无**。
 
-   [设置“取消”按钮](set-up-the-dismiss-button-and-approve-the-message.md)
+   要完成作业，您的最后一步是[设置“取消”按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)。
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [了解应用程序内消息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [发送应用程序内消息](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
-   >    * [为应用程序内消息选择布局](choose-a-layout-for-your-in-app-message.md)
+   >* [了解应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [发送应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [为应用程序内消息选择布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
-
-要完成该工作，您的最后一步是。
