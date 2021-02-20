@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: 批准分段 — Marketo Docs — 产品文档
 title: 批准分段
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建分段](create-a-segmentation.md)
->* [定义区段规则](define-segment-rules.md)
-
->
-
+>* [创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [定义区段规则](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 
 1. 转到&#x200B;**Database**。
@@ -55,13 +52,8 @@ ht-degree: 0%
 >
 >在细分中可创建的区段总数取决于所使用的过滤器数和类型，也取决于区段逻辑的复杂程度。 虽然您可以使用标准字段创建多达100个区段，但使用其他类型的过滤器会增加复杂性，并且您的细分可能无法批准。 例如：自定义字段、列表成员、潜在客户所有者字段和收入阶段。
 >
->如果您在审批过程中收到错误消息并需要帮助降低分段的复杂性，请联系[Marketo Support](https://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)。
+>如果您在审批过程中收到错误消息并需要帮助降低分段的复杂性，请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 >[!MORELIKETHIS]
 >
->* [在智能过滤器中使用区段列表](use-segment-filters-in-a-smart-list.md)
-
->
-
-
-
+>[在智能过滤器中使用区段列表](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
