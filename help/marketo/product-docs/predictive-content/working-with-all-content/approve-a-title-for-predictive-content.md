@@ -1,11 +1,11 @@
 ---
 unique-page-id: 11384661
-description: 批准预测内容的标题- Marketo Docs —— 产品文档
+description: 批准预测内容的标题 — Marketo Docs — 产品文档
 title: 批准预测内容的标题
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # 批准预测内容的标题{#approve-a-title-for-predictive-content}
 
->[!NOTE]
->
->根据购买日期，您的营销订阅可能包括Marketo Predictive Content或Content`<sup>AI</sup>`。 对于使用预测内容的用户，Marketo在2018年4月30日之前将启用“内容`<sup>AI</sup>`分析”功能。 要使这些功能在该日期之后保持不变，请联系您的Marketo Customer Success Manager以升级到Marketo Content`<sup>AI</sup>`。
-
-您可以通过在“所有内容”页面或“编辑内容”弹出窗口中批准来向预测性内容添加任何标题。
+您可以通过在“所有内容”页面或“编辑内容”弹出窗口中批准任何标题来向预测性内容添加任何标题。
 
 ## 所有内容页{#all-content-page}
 
@@ -33,7 +29,7 @@ ht-degree: 0%
 
 您还可以直接在“编辑内容”弹出窗口中批准预测内容的标题。
 
-1. 将鼠标悬停在某条内容上，并单击行末尾的编辑图标。
+1. 将鼠标悬停在某段内容上并单击行末尾的编辑图标。
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
@@ -41,11 +37,10 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
-无论您使用哪种方式，“批准预测内容”图标现在都会显示在行中。
+无论您使用哪种方式，行中现在都会显示“批准预测内容”图标。
 
 ![](assets/five.png)
 
 现在，您可以看到“预测内容”页面上显示的标题。
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)
-
