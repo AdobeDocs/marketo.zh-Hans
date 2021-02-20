@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: 配置移动推送通知 — Marketo Docs — 产品文档
 title: 配置移动推送通知
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 配置移动推送通知{#configure-mobile-push-notification}
 
-1. 转到“营销活动”区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   如果您的推送消息仅应用于一个平台（例如，iPhone的情况），则可以通过将其选择器滑动到“已禁用”来排除另一个平台。
+1. 如果您的推送消息仅应用于一个平台（例如，iPhone的情况），则可以通过将其选择器滑动到“已禁用”来排除另一个平台。
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   单击“下一步”。
+1. 单击&#x200B;**下一步**。
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -47,25 +47,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定义**
-   >
-   >
-   >**点击操作有三种类型：**
-   >
+   >点按操作有三种类型：
    >
    >**启动应用** - **此操** 作在点击通知后暂停应用程序的主页。**客** 户使用深层链接打开应用程序或您具有该链接的任何其他应用程序的其他区域(有关详细信息， [请参阅](#Deeplink) 下面的深层链接URI)。
    >
-   >
    >**登陆页**  — 将您带到指定的Marketo登陆页。
-   >
    >
    >**外部URL**  — 将您带到非营销登陆页。
 
-   要为自定义点击操作插入深层链接，请单击“自定义”，然后在字段中输入[深层链接URI](#Deeplink)。
+1. 要为自定义点击操作插入深层链接，请单击“自定义”，然后在字段中输入[深层链接URI](#Deeplink)。
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   要插入令牌，请选择一个令牌，输入默认值，然后单击插入。
+1. 要插入令牌，请选择一个令牌，输入默认值，然后单击插入。
 
    >[!NOTE]
    >
@@ -77,11 +71,11 @@ ht-degree: 0%
    >
    >消息和点按操作在两种平台上看起来都相同。
 
-   仅适用于iOS，选中此复选框可在消息到达时通知应用程序播放声音。 Android会自动播放声音。
+1. 仅适用于iOS，选中此复选框可在消息到达时通知应用程序播放声音。 Android会自动播放声音。
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   预览另一个平台，然后单击“完成”。
+1. 预览另一个平台，然后单击&#x200B;**完成**。
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
@@ -103,9 +97,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [发送移动推送通知](send-a-mobile-push-notification.md)
-
->
-
-
-
+>[发送移动推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
