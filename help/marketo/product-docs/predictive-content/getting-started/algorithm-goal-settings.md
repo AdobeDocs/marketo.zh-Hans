@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14745750
-description: 算法目标设置- Marketo Docs —— 产品文档
+description: 算法目标设置 — Marketo Docs — 产品文档
 title: 算法目标设置
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,14 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 为AI算法的每个预测内容源选择一个目标，以最大化您的内容性能。
+1. 为AI算法的每个预测内容源选择目标，以最大化您的内容性能。
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** | 显示最有可能使查看内容的人单击该内容的内容 |
+   | **点击** | 显示最有可能使观看内容的人单击内容 |
    |---|---|
-   | **`Conversions`** | 显示最有可能使查看内容的人员提交表单的内容 |
+   | **转换** | 显示最有可能使内容查看者提交表单的内容 |
 
 1. 完成后，单击&#x200B;**保存**。
 
    ![](assets/four.png)
-
