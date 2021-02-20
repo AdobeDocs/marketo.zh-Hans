@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2359510
-description: 删除分段- Marketo Docs —— 产品文档
+description: 删除分段 — Marketo Docs — 产品文档
 title: 删除分段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. 转到您的分段并单击&#x200B;**使用者**&#x200B;以检查关联。
+1. 转到您的分段并单击&#x200B;**使用者**&#x200B;检查关联。
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
-   如果您的细分被其他资产所使用，请在继续之前删除所有这些关联。
+   如果您的分段被其他资产使用，请在继续之前删除所有这些关联。
 
 1. 删除所有关联，然后在&#x200B;**分段操作**&#x200B;中单击&#x200B;**取消批准**。
 
@@ -33,8 +33,8 @@ ht-degree: 0%
    >
    >您可以通过删除或创建使用分段的资产的替代项来删除关联。
 
-   取消批准后，单击分段操作并删除分段。
+1. 取消批准后，单击&#x200B;**分段操作**&#x200B;并删除分段。
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 
-就这样。 你拿不回来，所以你不要了。
+就这样。 你拿不回来，所以你不再需要它了。
