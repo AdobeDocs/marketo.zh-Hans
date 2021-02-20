@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: 按区段分组电子邮件报告 — Marketo Docs — 产品文档
 title: 按区段分组电子邮件报表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,11 @@ ht-degree: 0%
 
 # 按细分对电子邮件报表进行分组{#group-email-reports-by-segmentations}
 
-分段不仅适用于动态内容。 您也可以按[分段](https://docs.marketo.com/display/docs/segmentation+and+snippets)对[电子邮件性能报告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)进行分组。
+分段不仅适用于动态内容。 您也可以按细分对电子邮件绩效报表进行分组。
 
 >[!PREREQUISITES]
 >
->* [批准分段](approve-a-segmentation.md)
-
->
-
-
+>[批准分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
 1. 转至&#x200B;**营销活动**（或&#x200B;**Analytics**）区域。
 
@@ -43,15 +39,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. 如果您使用两个区段，它会为每个&#x200B;*组合*&#x200B;区段显示一行。
+1. 如果您使用两个区段，它会为每个&#x200B;_组合_&#x200B;区段显示一行。
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
 >[!MORELIKETHIS]
 >
->* [筛选电子邮件报表中的资产](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
+>[筛选电子邮件报表中的资产](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
