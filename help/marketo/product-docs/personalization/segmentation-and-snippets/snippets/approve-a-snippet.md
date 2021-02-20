@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2359463
-description: 批准代码片断- Marketo Docs —— 产品文档
+description: 批准代码片断 — Marketo Docs — 产品文档
 title: 批准片段
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [向代码片断添加内容](add-content-to-a-snippet.md)
+>[将内容添加到片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
->
+片段在使用前需要获得批准。
 
-
-
-片段需要获得批准才能使用。
-
-1. 转到** Design Studio。**
+1. 转到&#x200B;**Design Studio**。
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. 单击&#x200B;**代码片断**，然后在&#x200B;**代码片断操作**&#x200B;下单击&#x200B;**批准**。
+1. 单击&#x200B;**代码片断**。 在&#x200B;**代码片断操作**&#x200B;下，单击&#x200B;**批准**。
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
@@ -35,9 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [批准非草稿代码片段](approve-a-snippet-with-no-draft.md)
-
->
-
-
-
+>[批准非草稿代码段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
