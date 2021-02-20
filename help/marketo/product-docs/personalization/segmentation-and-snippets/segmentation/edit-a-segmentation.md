@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: 编辑分段 — Marketo Docs — 产品文档
 title: 编辑分段
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. **状态**更改为“已批准”（使用草稿）。 您的分段中会创建一个**草稿*文件夹。
+1. **状态**&#x200B;变为“已批准”（使用草稿）。 您的分段中会创建&#x200B;**Draft**&#x200B;文件夹。
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您只能编辑草稿的区段，而不能编辑已批准的区段。
 
-1. **添加区段**、**编辑**现有（重命名或更改顺序）或**删除**任何区段。
+1. **添加区段**、 **** 编辑现有区段（重命名或更改顺序）或 **** 删除任何区段。
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 编辑区段规则{#edit-segment-rules}
 
-1. 在草稿&#x200B;**区段**&#x200B;中，转至&#x200B;**智能列表**。 应用类似于[定义区段规则](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)的规则。
+1. 在草稿&#x200B;**区段**&#x200B;中，转至&#x200B;**智能列表**。 应用类似于[定义区段规则](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)的规则。
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,18 +63,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >请记住批准分段草稿。
 
 您可以随意尝试未用于动态内容的细分。
 
 >[!MORELIKETHIS]
 >
->* [删除分段](delete-a-segmentation.md)
-
->
-
-
-
+>[删除分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
