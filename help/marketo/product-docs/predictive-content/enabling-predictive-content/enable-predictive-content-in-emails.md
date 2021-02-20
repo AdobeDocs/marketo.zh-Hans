@@ -3,9 +3,9 @@ unique-page-id: 11385020
 description: 在电子邮件 — 营销文档 — 产品文档中启用预测内容
 title: 在电子邮件中启用预测性内容
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->在启用预测内容之前。 您必须：
+>在启用预测内容之前，您必须：
 >
->* [准备预测内容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **准备预测内容**
+   >
+   >   
+   * [编辑电子邮件的预测](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 内容
+   >   * [编辑富媒体的预测内](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) 容
+   >   * [编辑推荐栏的预测内容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -37,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 单击要进行预测的图像。 出现齿轮图标时，单击它并选择&#x200B;**启用内容`AI`**（Content`AI`是“预测内容”的前一个名称）。
+1. 单击要进行预测的图像。 出现齿轮图标时，单击它并选择&#x200B;**启用ContentAI**（ContentAI是“预测内容”的前一个名称）。
 
    ![](assets/three.png)
 
