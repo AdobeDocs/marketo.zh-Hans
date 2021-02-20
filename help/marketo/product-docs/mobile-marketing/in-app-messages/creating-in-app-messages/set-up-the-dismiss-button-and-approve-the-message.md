@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: 设置“取消”按钮并批准消息 — Marketo Docs — 产品文档
 title: 设置“取消”按钮并批准消息
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -71,15 +71,10 @@ ht-degree: 0%
 
 有这么多选择，但现在您有了一条精美的应用程序内消息，随时可用！
 
-现在是时候[发送消息](https://docs.marketo.com/display/docs/send+your+in-app+message)了。
+现在是时候[发送消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)了。
 
 >[!MORELIKETHIS]
 >
->* [了解应用程序内消息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [发送应用程序内消息](https://docs.marketo.com/display/docs/send+your+in-app+message)
->* [为应用程序内消息选择布局](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [了解应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [为应用程序内消息选择布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
