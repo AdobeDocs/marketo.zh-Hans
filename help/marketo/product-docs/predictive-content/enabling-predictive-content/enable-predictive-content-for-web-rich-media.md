@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: 为Web富媒体启用预测内容 — Marketo Docs — 产品文档
 title: 为Web富媒体启用预测内容
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,14 +19,17 @@ ht-degree: 0%
 >
 >在启用预测内容之前，您必须：
 >
->* [准备预测内容](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **准备预测内容**
+   >
+   >   
+   * [编辑电子邮件的预测](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 内容
+   >   * [编辑富媒体的预测内](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) 容
+   >   * [编辑推荐栏的预测内容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
->
 
-
-
-为富媒体准备内容标题、描述和图像后，即可启用单个或多个内容片段。
+为富媒体准备内容标题、描述和图像后，您可以启用单个或多个内容片段。
 
 1. 要启用单个标题，请单击标题以打开编辑器。 单击“富媒体”，然后选中“在富媒体中为预测内容启用”框，然后单击“保存”。********
 
@@ -58,9 +61,3 @@ ht-degree: 0%
 以下是富媒体推荐模板2的示例：
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [启用内容推荐栏](enable-the-content-recommendation-bar.md)
->* [在电子邮件中启用预测性内容](https://docs.marketo.com/x/vLit)
-
