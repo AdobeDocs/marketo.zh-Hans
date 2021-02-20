@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: 创建分段 — Marketo Docs — 产品文档
 title: 创建分段
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. 单击**新建**，然后单击&#x200B;**新建分段**。
+1. 单击&#x200B;**新建**，然后单击&#x200B;**新建分段**。
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >您最多可创建20个细分。
 
-1. 输入&#x200B;**名称**，单击**添加** **区段**&#x200B;并命名它。
+1. 输入&#x200B;**名称**，单击&#x200B;**添加区段**&#x200B;并命名它。
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
@@ -43,8 +43,7 @@ ht-degree: 0%
    >
    >在细分中可创建的区段总数取决于所使用的过滤器数和类型，也取决于区段逻辑的复杂程度。 虽然您可以使用标准字段创建多达100个区段，但使用其他类型的过滤器会增加复杂性，并且您的细分可能无法批准。 例如：自定义字段、列表成员、潜在客户所有者字段和收入阶段。
    >
-   >
-   >如果您在审批过程中收到错误消息并需要帮助降低分段的复杂性，请联系[Marketo Support](https://docs.marketo.com/cdn-cgi/l/email-protection#e794929797889593a78a86958c829388c984888a)。
+   >如果您在审批过程中收到错误消息并需要帮助降低分段的复杂性，请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 1. 拖放区段以更改其顺序。 完成后，单击&#x200B;**创建**。
 
@@ -52,21 +51,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在定义的[order](segmentation-order-priority.md)中，人符合第一个匹配段的资格。
+   >在定义的[order](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)中，人符合第一个匹配段的资格。
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >您需要先定义区段规则，然后才能使用区段。
+
+   恭喜！ 您距离使用动态内容只有一步之遥。
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [定义区段规则](define-segment-rules.md)
-
-
-恭喜！ 您距离使用动态内容只有一步之遥。
+   >[定义区段规则](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
