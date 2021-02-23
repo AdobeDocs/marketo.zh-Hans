@@ -3,9 +3,9 @@ unique-page-id: 2360055
 description: 报告电子邮件，跨工作区的活动性能 — Marketo Docs — 产品文档
 title: 跨工作区的报告电子邮件、活动性能
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 报告电子邮件，跨工作区的活动性能{#report-email-campaign-performance-across-workspaces}
 
-打开全局报告以在[电子邮件性能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)、[电子邮件链接性能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)和[活动活动](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)报表中包含来自所有营销人员的数据。[](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+打开全局报告以在[电子邮件性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)、[电子邮件链接性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)和[活动活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)报表中包含来自所有营销人员的数据。[](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 1. 转至&#x200B;**Analytics**(或&#x200B;**营销活动**)区域。
 
@@ -37,16 +37,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [筛选电子邮件报表中的资产](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**深潜**
-   >
-   >
-   >了解[基本报告](https://docs.marketo.com/display/docs/basic+reporting)中有关报告的所有信息。
-
+   >[筛选电子邮件报表中的资产](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
