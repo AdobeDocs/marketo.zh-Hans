@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: 更改报告时间范围 — Marketo Docs — 产品文档
 title: 更改报告时间范围
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -48,14 +48,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >要按特定人员属性缩小报表范围，您可以[在具有智能列表的报表中筛选人员](filter-people-in-a-report-with-a-smart-list.md)。
-
-   >[!NOTE]
-   >
-   >**深潜**
-   >
-   >
-   >有关报表的更多使用方式，请参阅[基本报告](https://docs.marketo.com/display/docs/basic+reporting)深入介绍。
-
+   >要按特定人员属性缩小报表范围，您可以[在具有智能列表的报表中筛选人员](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)。
