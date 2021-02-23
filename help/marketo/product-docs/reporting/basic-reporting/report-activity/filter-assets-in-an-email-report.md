@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: 过滤电子邮件报表中的资产 — Marketo Docs — 产品文档
 title: 筛选电子邮件报表中的资产
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 过滤电子邮件报表{#filter-assets-in-an-email-report}中的资产
 
-将您的[电子邮件性能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)或[电子邮件链接性能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)报告集中在您项目（“本地资产”）中的电子邮件、Design Studio中的电子邮件（“全局资产”）或已存档的电子邮件上。
+将您的[电子邮件性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)或[电子邮件链接性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)报告集中在您项目（“本地资产”）中的电子邮件、Design Studio中的电子邮件（“全局资产”）或已存档的电子邮件上。
 
 1. 转至&#x200B;**Analytics**(或&#x200B;**营销活动**)区域。
 
@@ -45,15 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在活动电子邮件报表中筛选资产](filter-assets-in-a-campaign-email-reports.md)
-
->
-
-
-
->[!NOTE]
->
->**深潜**
->
->了解[基本报告](https://docs.marketo.com/display/docs/basic+reporting)中有关报告的所有信息。
-
+>[在活动电子邮件报表中筛选资产](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
