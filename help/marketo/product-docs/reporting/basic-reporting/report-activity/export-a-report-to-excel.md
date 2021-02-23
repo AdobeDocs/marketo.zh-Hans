@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: 将报表导出到Excel - Marketo Docs — 产品文档
 title: 将报表导出到Excel
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -31,14 +31,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >如果下载的文件太大，您可以[更改报告大小](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。
-
-   >[!NOTE]
-   >
-   >**深潜**
-   >
-   >
-   >在[基本报告](https://docs.marketo.com/display/docs/basic+reporting)深入了解报表的其他所有有用操作。
-
+   >如果下载的文件太大，您可以[更改报告大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。
