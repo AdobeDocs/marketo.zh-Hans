@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: 订阅基本报告 — Marketo Docs — 产品文档
 title: 订阅基本报告
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 订阅基本报告{#subscribe-to-a-basic-report}
 
-要接收[基本报表](https://docs.marketo.com/display/docs/basic+reporting)的自动更新或共享这些更新，您可以将任何电子邮件地址订阅到现有报表。
+要接收基本报表的自动更新或共享这些更新，您可以将任何电子邮件地址订阅到现有报表。
 
 >[!NOTE]
 >
->有关[收入周期浏览器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)报表订阅，请参阅[订阅收入浏览器报表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)。
+>有关收入周期浏览器报表订阅，请参阅[订阅收入浏览器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)。
 
-1. 访问**营销活动**区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
@@ -49,14 +49,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >了解如何[在一个位置管理所有报告订阅](manage-report-subscriptions.md)。
-
-   >[!NOTE]
-   >
-   >**深潜**
-   >
-   >
-   >了解在[基本报告](https://docs.marketo.com/display/docs/basic+reporting)深入了解报表的其他功能。
-
+   >了解如何[在一个位置管理所有报告订阅](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。
