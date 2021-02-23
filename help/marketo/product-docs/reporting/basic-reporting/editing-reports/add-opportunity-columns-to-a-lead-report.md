@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: 将业务机会列添加到潜在客户报表 — Marketo Docs — 产品文档
 title: 将业务机会列添加到潜在客户报表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 将业务机会列添加到潜在客户报表{#add-opportunity-columns-to-a-lead-report}
 
-要查看[person reports](https://docs.marketo.com/display/docs/basic+reporting)中有关商机的统计信息，可添加商机列。
+要查看您的人员报表中有关商机的统计信息，您可以添加业务机会列。
 
 1. 转至&#x200B;**营销活动**&#x200B;区域。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >向右滚动可查看更多列。
 
-1. 要[添加或删除报表](select-report-columns.md)中的列，请单击任意列标题，然后选择&#x200B;**列**。
+1. 要[添加或删除报表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)中的列，请单击任意列标题，然后选择&#x200B;**列**。
 
    ![](assets/six.png)
 
@@ -68,14 +68,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >了解如何[管理报表的大小](configure-report-size.md)。
-
-   >[!NOTE]
-   >
-   >**深潜**
-   >
-   >
-   >了解在[基本报告](https://docs.marketo.com/display/docs/basic+reporting)深入了解报表的其他功能。
-
+   >了解如何[管理报表的大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。
