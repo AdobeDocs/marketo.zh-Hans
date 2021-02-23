@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: 使用智能列表过滤报表中的人员 — Marketo Docs — 产品文档
 title: 使用智能列表筛选报表中的人员
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 您可以对以下报表类型使用智能列表:
 
-* [人员绩效](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-* [按状态划分的人员](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [按收入阶段划分的人员](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
-* [电子邮件性能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [电子邮件链接性能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [参与流性能](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [活动活动](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [活动电子邮件性能](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [公司 Web活动](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [网页活动](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [人员绩效](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+* [按状态划分的人员](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+* [按收入阶段划分的人员](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+* [电子邮件性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [电子邮件链接性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [参与流性能](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [活动活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [活动电子邮件性能](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [公司 Web活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [网页活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. 转至&#x200B;**营销活动**&#x200B;区域。
 
@@ -49,11 +49,3 @@ ht-degree: 0%
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
    太棒了！ 现在，您的报表只显示与智能列表匹配的人员的数据。
-
-   >[!NOTE]
-   >
-   >**深潜**
-   >
-   >
-   >有关报表的更多使用方式，请参阅[基本报告](https://docs.marketo.com/display/docs/basic+reporting)深入介绍。
-
