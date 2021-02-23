@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: 重新排序报表列 — Marketo Docs — 产品文档
 title: 重新排序报表列
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [选择报表列](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**深潜**
-   >
-   >
-   >了解在[基本报告](https://docs.marketo.com/display/docs/basic+reporting)中处理报表的全部功能。
-
+   >[选择报表列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
