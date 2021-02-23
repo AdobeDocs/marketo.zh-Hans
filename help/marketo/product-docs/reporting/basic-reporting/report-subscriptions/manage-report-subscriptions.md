@@ -3,9 +3,9 @@ unique-page-id: 2359991
 description: 管理报告订阅- Marketo Docs — 产品文档
 title: 管理报表订阅
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   此页显示帐户中所有报表的订阅，按[报表类型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)分组。 这包括对基本报表](subscribe-to-a-basic-report.md)和[收入周期浏览器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)报表的[订阅。
+   此页显示帐户中所有报表的订阅，按[报表类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)分组。 这包括对基本报表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)和收入周期浏览器报表的[订阅。
 
    >[!TIP]
    >
@@ -39,11 +39,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >
-   >    
-   >    
-   >    * 电子邮件地址之间使用逗号。
-   >    * 要保存编辑，请在&#x200B;*外部*&#x200B;的订阅列表中单击。
+   >* 电子邮件地址之间使用逗号。
+   >* 要保存编辑，请在&#x200B;_外部_&#x200B;的订阅列表中单击。
 
 
    您还可以：
@@ -53,8 +50,6 @@ ht-degree: 0%
    * 单击并编辑&#x200B;**摘要**&#x200B;字段，以更改电子邮件中显示的预览行数。
    * 取消选中&#x200B;**Excel**&#x200B;复选框，可在不附带电子表格附件的情况下发送报表摘要。
    * 单击&#x200B;**发送**&#x200B;按钮以立即发送报告电子邮件。
-
-
 
 1. 要完全删除订阅，请选择该行并单击&#x200B;**删除订阅**。
 
@@ -66,12 +61,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [订阅基本报告](subscribe-to-a-basic-report.md)
-   >    * [订阅收入浏览器报表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-
-
-   在[基本报告](https://docs.marketo.com/display/docs/basic+reporting)和[收入周期浏览器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)深潜中了解更多信息。
+   >* [订阅基本报告](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [订阅收入浏览器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
