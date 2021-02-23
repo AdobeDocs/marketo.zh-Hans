@@ -3,9 +3,9 @@ unique-page-id: 2360227
 description: 在活动电子邮件报表中筛选资产 — Marketo Docs — 产品文档
 title: 在活动电子邮件报表中筛选资产
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 筛选活动电子邮件报表中的资产{#filter-assets-in-a-campaign-email-reports}
 
-将您的[活动电子邮件性能](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)报告集中在项目（“本地资产”）中特定的[智能活动](https://docs.marketo.com/display/docs/smart+campaigns)或已存档的客户上。
+将您的[活动电子邮件性能](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)报告集中在项目（“本地资产”）中特定的[智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)或已存档的客户上。
 
-1. 转至**Analytics **(或&#x200B;**营销活动**)区域。
+1. 转至&#x200B;**Analytics**(或&#x200B;**营销活动**)区域。
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -44,17 +44,5 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [活动电子邮件性能报告](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-   >    * [筛选电子邮件报表中的资产](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**深潜**
-   >
-   >
-   >了解[基本报告](https://docs.marketo.com/display/docs/basic+reporting)中有关报告的所有信息。
-
+   >[活动电子邮件性能报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[筛选电子邮件报表中的资产](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
