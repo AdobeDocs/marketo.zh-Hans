@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: 配置报表大小 — Marketo Docs — 产品文档
 title: 配置报告大小
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 默认情况下，Marketo报表最多限制为5,000行，但您可以更改该限制。
 
-1. 访问**营销活动**区域。
+1. 转至&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   多次 — 单击&#x200B;**导出可用行**。
+1. 多次 — 单击&#x200B;**导出可用行**。
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -43,9 +43,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >现在，您可以[导出报表](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)并设置新限制。
-
-   在[基本报告](https://docs.marketo.com/display/docs/basic+reporting)深入了解配置报表的更多方法。
-
+   >您可以[使用新限制导出报表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)。
