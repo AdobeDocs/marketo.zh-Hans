@@ -3,9 +3,9 @@ unique-page-id: 2360028
 description: 克隆报表 — Marketo Docs — 产品文档
 title: 克隆报告
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. 选择您的报表。 选择&#x200B;**报告操作>克隆报告**。
+1. 选择您的报表。 选择&#x200B;**报告操作** > **克隆报告**。
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -35,11 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [使用智能列表筛选报表中的人员](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
-
-
-   要自定义您的报表，请执行更多操作！ 请参阅[基本报告](https://docs.marketo.com/display/docs/basic+reporting)。
-
+   >[使用智能列表筛选报表中的人员](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
