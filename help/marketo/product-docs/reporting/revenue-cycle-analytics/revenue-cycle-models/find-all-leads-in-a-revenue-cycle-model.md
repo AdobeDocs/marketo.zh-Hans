@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360423
-description: 在收入周期模型- Marketo Docs —— 产品文档中查找所有潜在客户
+description: 在收入周期模型 — Marketo Docs — 产品文档中查找所有潜在客户
 title: 在收入周期模型中查找所有潜在客户
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[创建智能列表](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 选择智能列表后，单击&#x200B;**智能列表**&#x200B;选项卡。
+1. 选中智能列表后，单击&#x200B;**智能列表**&#x200B;选项卡。
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. 找到收入模型&#x200B;**的**&#x200B;成员过滤器，并将其拖入画布。
+1. 找到收入模型&#x200B;**的**&#x200B;成员过滤器，并将其拖入画布中。
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
-   这将使您获得该模型中的所有潜在客户，而不管是哪个阶段。 通常，您需要特定的阶段。 请改用以下筛选器。
+   这将使您获得该模型中的所有潜在客户，而不管是哪个阶段。 通常，您需要特定的舞台。 请改用以下筛选器。
 
-1. 找到**Revenue Stage **过滤器并将其拖入画布。
+1. 找到&#x200B;**收入阶段**&#x200B;过滤器并将其拖入画布。
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. 选择&#x200B;**Stage.**
+1. 选择&#x200B;**Stage**。
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
@@ -47,9 +47,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >你不需要两个过滤器，只需选择所需的。 我们只是告诉你们俩要彻底。 ![(smile)](assets/smile.svg)   >
+   >您不需要两个过滤器，只需选择所需的。 我们只是向你们展示，要彻底。 ![（微笑）](assets/smile.svg)
 
    >[!CAUTION]
    >
-   >如果潜在客户在初始创建期间由外部活动更改了潜在客户的阶段，则活动不会登录到数据库。 这意味着智能列表过滤器不会包含潜在客户。
-
+   >如果潜在客户的阶段在最初创建潜在客户时由外部活动更改，则活动不会记录在数据库中。 这意味着智能列表过滤器不会包括潜在客户。
