@@ -1,9 +1,9 @@
 ---
 unique-page-id: 6095029
-description: 在收入模型- Marketo Docs —— 产品文档中设置Google AdWords转换
+description: 在收入模型 — Marketo Docs — 产品文档中设置Google AdWords转换
 title: 在收入模型中设置Google AdWords转换
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -13,35 +13,31 @@ ht-degree: 0%
 
 # 在收入模型{#set-google-adwords-conversions-in-the-revenue-model}中设置Google AdWords转换
 
-将您的Google AdWords帐户关联到Marketo，以自动将线下转换数据从Market上传到Google AdWords。 然后，在AdWords中添加自定义列[后，您将能够从AdWords UI中轻松查看哪些点击产生了合格的潜在客户、机会和新客户（或您要跟踪的任何收入阶段）。](https://support.google.com/adwords/answer/3073556)
+将您的Google AdWords帐户关联到Marketo，以自动将线下转换数据从Market上传到Google AdWords。 然后，从AdWords UI中，您将能够在AdWords中[添加自定义列](https://support.google.com/adwords/answer/3073556)后轻松查看哪些点击产生了合格的潜在客户、机会和新客户（或您要跟踪的任何收入阶段）。
 
 >[!NOTE]
 >
->这是从Marketo到Google AdWords的推动集成。 转换数据将仅&#x200B;*在Google AdWords门户中显示*,**不在Marketo UI中显示。**
+>这是从Marketo到Google AdWords的推动集成。 转换数据将仅&#x200B;_在Google AdWords门户中显示_，而不在Marketo UI _中显示_。
 
-进一步了解[Google的脱机转换导入功能](https://support.google.com/adwords/answer/2998031?hl=en)。  在收入模型中将AdWords脱机转换映射到一个或多个阶段。 有三种方法可执行映射：
+了解有关[Google的脱机转换导入功能的更多信息](https://support.google.com/adwords/answer/2998031?hl=en)。 将AdWords脱机转换映射到收入模型中的一个或多个阶段。 有三种方法可执行映射：
 
 * AdWords转换
 * 舞台操作
 * AdWords映射
 
-如果您使用Stage Action，则可以从Marketo创建新的AdWords脱机转换。
+如果您使用Stage Action，则可以从Marketo创建新的AdWord脱机转换。
 
 >[!PREREQUISITES]
 >
->* [将Google AdWords添加为LaunchPoint服务](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+>[将Google AdWords添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
->
-
-
-
-## 使用AdWords转换{#use-adwords-conversion}
+## 使用AdWord转换{#use-adwords-conversion}
 
 1. 转至&#x200B;**Analytics**&#x200B;区域。
 
    ![](assets/image2015-2-23-18-3a9-3a34.png)
 
-1. 选择模型。
+1. 选取模型。
 
    ![](assets/image2015-2-23-18-3a3-3a12.png)
 
@@ -57,17 +53,17 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-16-3a46-3a15.png)
 
-   不错！ 您的AdWord转换数据将按您选择的节奏上传到您的Google AdWords。
+   不错！ 您的AdWords转换数据将在您选择的节奏下上传到您的Google AdWords。
 
 ## 使用Stage操作{#use-stage-action}
 
 您还可以在“阶段操作”下映射AdWords转换。
 
-1. 选择要映射到AdWords转换的步骤。
+1. 选择要映射到AdWord转换的步骤。
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. 在&#x200B;**阶段操作**&#x200B;下拉列表下，选择&#x200B;**设置AdWords转换**。
+1. 在&#x200B;**阶段操作**&#x200B;下拉列表中，选择&#x200B;**设置AdWord转换**。
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
@@ -75,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-16-3a54-3a47.png)
 
-   **提示**:如果您没有任何AdWords转换，请单击+新建转换 **来创建一个转换**。
+   **提示**:如果您没有任何AdWords转换，请单击+新建转换 **来创建一个**。
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
@@ -93,9 +89,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->通过Market创建的新转换启用“优化”设置。 这意味着允许AdWords竞价策略优化您对这些转化的竞价。 您可以从AdWords帐户更改此设置。
+>从Market创建的新转换，以启用“优化”设置。 这意味着允许AdWords竞价策略优化您对这些转换的竞价。 您可以从AdWords帐户更改此设置。
 
-1. 在&#x200B;**阶段操作**&#x200B;下拉列表下，选择&#x200B;**设置AdWords转换**。
+1. 在&#x200B;**阶段操作**&#x200B;下拉列表中，选择&#x200B;**设置AdWord转换**。
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
@@ -121,7 +117,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-17-3a6-3a15.png)
 
-1. 映射舞台后，单击&#x200B;**保存**。
+1. 映射阶段后，单击&#x200B;**保存**。
 
    ![](assets/image2015-2-26-17-3a7-3a48.png)
 
@@ -129,4 +125,4 @@ ht-degree: 0%
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-要视图脱机转换数据，您需要登录AdWords帐户。 我们建议您使用其[自定义列功能](https://support.google.com/adwords/answer/3073556)为您从Marketo导入的每个脱机转换创建转换计数列。
+要视图脱机转换数据，您需要登录AdWords帐户。 我们建议您使用其[自定义列功能](https://support.google.com/adwords/answer/3073556)为从Marketo导入的每个脱机转换创建转换计数列。
