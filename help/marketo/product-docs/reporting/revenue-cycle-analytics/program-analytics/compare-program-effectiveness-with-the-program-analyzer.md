@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: 将项目有效性与项目分析器 — Marketo Docs — 产品文档进行比较
 title: 将项目有效性与项目分析器进行比较
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建项目分析器](create-a-program-analyzer.md)
+>[创建项目分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. 单击Analytics。
+1. 单击&#x200B;**分析**。
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -38,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >将项目过滤为仅一个渠道的快速方法是选择&#x200B;**视图>“按渠道”**，单击该渠道的气泡，然后在弹出对话框中单击渠道名称。
+   >将项目过滤为仅一个渠道的快速方法是选择&#x200B;**视图** > **按渠道**，单击该渠道的气泡，然后单击弹出对话框中的渠道名称。
 
 1. 使用X轴下拉列表为水平轴选择量度。 我们将开始项目成本。
 
@@ -92,10 +91,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用项目分析器了解渠道和项目详细信息](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [将渠道有效性与项目分析器进行比较](compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [使用项目分析器了解渠道和项目详细信息](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [将渠道有效性与项目分析器进行比较](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 
-
->[!NOTE]
->
->了解有关[收入周期浏览器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)中的高级分析的更多信息。
