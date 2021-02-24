@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: 将渠道有效性与项目分析器 — Marketo Docs — 产品文档进行比较
 title: 将渠道有效性与项目分析器进行比较
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建项目分析器](create-a-program-analyzer.md)
+>[创建项目分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. 单击&#x200B;**My Marketo.**&#x200B;中的&#x200B;**Analytics**
+1. 单击&#x200B;**My Marketo**&#x200B;中的&#x200B;**Analytics**。
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. 选择&#x200B;**项目分析器。**
+1. 选择&#x200B;**项目分析器**。
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. 将视图更改为&#x200B;**By** **渠道**。
+1. 将视图更改为&#x200B;**按渠道**。
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
@@ -62,7 +61,7 @@ ht-degree: 0%
 
    我们看到网络研讨会渠道会缩小，用&#x200B;**新名称**&#x200B;来衡量。 我们可以得出结论，尽管它有很多成员，但它在创造新线索方面不如贸易展渠道有效。
 
-1. 最后，使用“颜色”(Color)下拉框添加第四个尺寸。 让我们选择&#x200B;**(FT)收入** **韩元**。
+1. 最后，使用“颜色”(Color)下拉框添加第四个尺寸。 让我们选择&#x200B;**(FT)收入原值**。
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -84,13 +83,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用项目分析器了解渠道和项目详细信息](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [将项目有效性与项目分析器进行比较](compare-program-effectiveness-with-the-program-analyzer.md)
+>* [使用项目分析器了解渠道和项目详细信息](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [将项目有效性与项目分析器进行比较](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 
->
-
-
-
->[!NOTE]
->
->了解有关[收入周期浏览器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)中的高级分析的更多信息。
