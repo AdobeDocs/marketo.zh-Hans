@@ -1,9 +1,9 @@
 ---
 unique-page-id: 4718687
-description: 批准／取消批准收入模型- Marketo Docs —— 产品文档
-title: 批准／取消批准收入模型
+description: 批准/取消批准收入模型 — Marketo Docs — 产品文档
+title: 批准/取消批准收入模型
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 批准／取消批准收入模型{#approve-unapprove-a-revenue-model}
+# 批准/取消批准收入模型{#approve-unapprove-a-revenue-model}
 
 在任何给定时间，您只能有一个经过批准的模型。
 
 >[!CAUTION]
 >
->[批准整个模型](approving-stages-and-assigning-leads-to-a-revenue-model.md) 之前，必须批准各个阶段并添加人员。
+>[在批准整个模](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) 型之前，必须批准各个阶段并添加人员。
 
 ## 批准{#approve}
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
-1. 从树中选取一个模型。
+1. 从树中选择模型。
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. 从&#x200B;**模型操作**&#x200B;菜单，选择&#x200B;**批准模型**。
+1. 从&#x200B;**模型操作**&#x200B;菜单中，选择&#x200B;**批准模型**。
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
-您的模特现已上线！
+你的模特现已上线！
 
 ## 取消批准{#unapprove}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
-1. 从树中选取一个模型。
+1. 从树中选择模型。
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
@@ -65,5 +65,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->取消批准模型将删除模型中的所有人员，并从数据库中删除模型中的历史记录。
-
+>取消批准模型将删除模型中的所有人员，并从数据库中删除模型中的其历史记录。
