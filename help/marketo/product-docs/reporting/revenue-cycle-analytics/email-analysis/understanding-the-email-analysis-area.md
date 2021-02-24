@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: 了解电子邮件分析区域 — Marketo Docs — 产品文档
 title: 了解电子邮件分析区
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 电子邮件分析区域侧重于电子邮件量度。 本文介绍了其中提供的所有报告。
 
 >[!AVAILABILITY]
->
 >
 >具有Select Edition或[Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)加载项的用户可使用此功能。 有关详细信息，请与您的销售代表联系。
 
@@ -61,4 +60,3 @@ ht-degree: 0%
 此报表显示您发送电子邮件的一周中的哪一天和一天中的时间。 盒子越绿，在特定的日期和时间发送的电子邮件就越多。 当前过滤器包括过去7天内发送的所有电子邮件。 时间在科技委。
 
 ![](assets/seven.png)
-
