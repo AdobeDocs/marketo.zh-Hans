@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: 使用Opportunity Influcent Analyzer - Marketo Docs — 产品文档讲述营销案例
 title: 使用机会影响分析器讲述营销案例
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建机会影响分析器](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>[创建机会影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. 转到&#x200B;**Analytics**&#x200B;并选择&#x200B;**Opportunity Influction Analyzer**。
 
@@ -29,20 +25,20 @@ ht-degree: 0%
 
    机会影响分析器直观地显示了该机会中所涉及的交互和项目及事件成功。 让我们浏览一下图表：
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Orange** 代表 [机](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) 会中的有趣时刻（打开的电子邮件、展会展位访问、白皮书下载等）。更大的点表示更多的交互。
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** 代表 [机](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) 会中的有趣时刻（打开的电子邮件、展会展位访问、白皮书下载等）。更大的点表示更多的交互。
 
-   * &#39; ![—](assets/image2014-10-3-13-3a44-3a9.png)
+   * ![ — 活](assets/image2014-10-3-13-3a44-3a9.png) **页夹图** 标表示项目成功。
 
-      “ **绑定器图标**&#x200B;表示[项目](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM)成功。
-
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png)日历图标**表示[事件](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM)成功。
+   * ![ — 日](assets/image2014-10-3-13-3a44-3a40.png) **历图** 标指示事件成功。
 
    * **机会期**。绿色区域代表了机会本身，从机会创造到机会结束（赢或输）。
+
    * **机会生命周期**。绿色机会期前后的灰色区域显示了导致和跟随机会的交互。
 
    **设置**&#x200B;面板列表帐户中的人员：
 
    * 括号&#x200B;**中的**&#x200B;数字是与该联系人的交互次数。
+
    * ![-](assets/image2014-10-3-13-3a45-3a9.png)黄色 **开** 始表示主联系人。
 
 
@@ -66,23 +62,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >    
-   >    
-   >    * [配置机会影响分析器](configure-an-opportunity-influence-analyzer.md)
-      >    
-      >    
-      >
-      >
-      >    
-      >    
-      >    
-
-
-
-
-
-   * [基本报告](https://docs.marketo.com/display/docs/basic+reporting)
-
-
+   >[配置机会影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
