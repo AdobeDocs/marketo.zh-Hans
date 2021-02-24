@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: 网页活动报告 — Marketo Docs — 产品文档
 title: 网页活动报告
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [将Munchkin跟踪代码添加到您的网站](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [将Munchkin跟踪代码添加到您的网站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
 
-1. [创建报](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)表并选择**网页活动报表**报 [表类型](report-type-overview.md)。
-1. 选择[在报告中显示已知或匿名人员](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)。
-1. [设置报表的时间范](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 围，然后单击报 **** 表标签。
+1. [创建报](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)表并选择网 **页活动报** [表类型](report-type-overview.md)。
+
+1. 选择[在报告中显示已知或匿名人员](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)。
+
+1. [设置报表的时间范](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 围，然后单击报 **** 表标签。
+
 1. 你懂的！ 查看您的报告，了解谁正在访问您的网站。
 
    ![](assets/image2017-3-29-9-3a21-3a36.png)
@@ -35,10 +38,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要了解谁访问您的网站最多，请在&#x200B;*页面视图*&#x200B;列中对报表](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)排序，然后选择降序排序。[
+   >要了解谁访问您的网站最多，请在&#x200B;_页面视图_&#x200B;列中对报表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)排序，然后选择降序排序。[
 
-   [Marketo将匿名](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 网站访客添加到您的数据库中，您可以选择在此报表中显示它们。它提供了大量信息，尽管它们是匿名的。\
-   [可以为网页](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 活动报表选择的列包括：
+   [Marketo将匿名](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 网站访客添加到您的数据库中，您可以选择在此报表中显示它们。它提供了大量信息，尽管它们是匿名的。\
+   [可以为网页](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 活动报表选择的列包括：
 
 <table> 
  <thead> 
@@ -81,17 +84,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->激动销售代表！ [为其](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)领土筛选报 [表并订阅它](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
+>激动销售代表！ [为其](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)领土筛选报 [表并订阅它](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
 >[!MORELIKETHIS]
 >
->
->* [已查看的网页，网页活动报告](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
->* [在Web报表中显示人物或匿名访客](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>* [已查看的网页，网页活动报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+>* [在Web报表中显示人物或匿名访客](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
-
->[!NOTE]
->
->**深潜**
->
->了解[基本报告](https://docs.marketo.com/display/docs/basic+reporting)中其他有趣的报告。
