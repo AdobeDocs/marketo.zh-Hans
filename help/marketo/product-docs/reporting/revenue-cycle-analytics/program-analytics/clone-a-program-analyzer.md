@@ -1,9 +1,9 @@
 ---
 unique-page-id: 11383877
-description: 克隆项目分析器- Marketo Docs —— 产品文档
+description: 克隆项目分析器 — Marketo Docs — 产品文档
 title: 克隆项目分析器
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 克隆项目分析器{#clone-a-program-analyzer}
 
-保存分析器后，可轻松克隆它以创建新分析器。 然后，如果需要更改，请进入并编辑新版本。
+保存分析器后，可以轻松地克隆它以创建新分析器。 然后，如果需要更改，请进入并编辑新版本。
 
-1. 单击**Analytics **tile。
+1. 单击&#x200B;**Analytics**&#x200B;拼贴。
 
    ![](assets/2017-05-01-08-20-37.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. 在保存的分析器处于打开状态时，打开“Analyzer操作”下拉框并选择&#x200B;**克隆分析器**。
+1. 在保存的分析器处于打开状态时，打开Analyzer操作下拉框并选择&#x200B;**克隆分析器**。
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [创建项目分析器](create-a-program-analyzer.md)
-
-
+   >[创建项目分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
