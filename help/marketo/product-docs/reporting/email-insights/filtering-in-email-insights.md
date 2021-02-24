@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: 在电子邮件洞察中筛选 — Marketo Docs — 产品文档
 title: 在电子邮件洞察中筛选
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,6 @@ ht-degree: 0%
 
 ## 基于帐户的营销{#account-based-marketing}
 
-如果您使用[基于帐户的营销](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，则会有专门针对您的过滤器。
+如果您使用[目标帐户管理](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，则有专门针对您的过滤器。
 
 ![](assets/abm.png)
-
