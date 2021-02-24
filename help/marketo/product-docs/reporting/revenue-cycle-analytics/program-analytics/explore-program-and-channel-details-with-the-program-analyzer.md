@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: 使用项目分析器 — Marketo Docs — 产品文档浏览项目和渠道详细信息
 title: 使用项目分析器了解渠道和项目详细信息
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建项目分析器](create-a-program-analyzer.md)
-
+>[创建项目分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
->
 >
 >并非所有Marketo版本都包含此功能。 有关更多详细信息，请与您的客户经理联系。
 
@@ -56,7 +54,3 @@ ht-degree: 0%
 1. 要打开收入周期浏览器以更深入地了解统计信息，请在弹出对话框中单击该数字。
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)
-
-   >[!NOTE]
-   >
-   >了解有关[收入浏览器](https://docs.marketo.com/display/docs/revenue+explorer)中的高级分析的更多信息。
