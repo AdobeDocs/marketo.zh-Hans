@@ -1,9 +1,9 @@
 ---
 unique-page-id: 10099415
-description: 电子邮件洞察快速图表——营销文档——产品文档
+description: 电子邮件洞察快速图表 — Marketo Docs — 产品文档
 title: 电子邮件洞察快速图表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 电子邮件分析快速图表{#email-insights-quick-charts}
 
-“快速图表”是您自定义和保存的缩略图，提供了最常用的图表的快速视图。
+“快速图表”是您自定义和保存的缩略图，提供了您最常用的图表的快速视图。
 
-## 新建快速图表{#create-a-new-quick-chart}
+## 新建快速图{#create-a-new-quick-chart}
 
-在本例中，我们将在2016年2月的头三周，在加利福尼亚州和佛罗里达州选择开放率。
+在此示例中，我们将在2016年2月的前三周（加利福尼亚州和佛罗里达州）选择开放率。
 
-1. 单击“Analytics”屏幕右侧的日期筛选器。
+1. 单击“分析”屏幕右侧的日期过滤器。
 
    ![](assets/one-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. 在应用日期后，图表会发生变化。
+1. 在应用日期后，图表会发生更改。
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/5.png)
 
-1. 在图表的右侧，单击导出图标，然后选择&#x200B;**另存为快速图表**。
+1. 在图表右侧，单击导出图标，然后选择&#x200B;**另存为快速图表**。
 
    ![](assets/six.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >您最多可以有20个快速图表。 可以删除和替换它们。
 
-1. 新的快速图表将与其他图表一起显示。
+1. 您的新快速图表将与其他图表一起显示。
 
    ![](assets/8.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 删除快速图表{#delete-a-quick-chart}
 
-是否要删除您的一个快速图表？ 很简单！
+是否要删除您的一个快速图表？ 很容易！
 
 1. 单击&#x200B;**快速图表**&#x200B;图标。
 
@@ -77,5 +77,4 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-   您的快速图表现在已被删除。 说这很容易。
-
+   您的快速图表现在已被删除。 说过很容易。
