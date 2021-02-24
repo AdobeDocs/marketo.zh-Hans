@@ -3,9 +3,9 @@ unique-page-id: 14746432
 description: 将自定义字段同步到性能分析 — 营销文档 — 产品文档
 title: 将自定义字段同步到性能分析
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ MPI收入和管道仪表板可以在自定义营销字段上进行筛选。 为�
 
 >[!NOTE]
 >
->本文仅针对&#x200B;**不**&#x200B;具有[RCA](https://docs.marketo.com/x/lwIk)的用户。 如果您有RCA，请按照[本文](https://docs.marketo.com/x/FQQk)中的步骤操作。
+>本文仅适用于&#x200B;**不**&#x200B;具有收入周期分析的用户。 如果您有RCA，请按照[本文](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)中的步骤操作。
 
 1. 转至&#x200B;**Admin**&#x200B;部分。
 
@@ -50,4 +50,3 @@ MPI收入和管道仪表板可以在自定义营销字段上进行筛选。 为�
    >[!NOTE]
    >
    >启用后，这些字段将在第二天在MPI中可用。
-
