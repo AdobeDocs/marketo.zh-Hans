@@ -1,9 +1,9 @@
 ---
 unique-page-id: 4718675
-description: 更改阶段名称- Marketo Docs —— 产品文档
+description: 更改阶段名称 — Marketo Docs — 产品文档
 title: 更改舞台名称
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -23,12 +23,12 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. 选择要更新的舞台，然后输入新的&#x200B;**名称**。
+1. 选择要更新的舞台，并输入新的&#x200B;**名称**。
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-   单击关闭。
+1. 单击&#x200B;**关闭**。
+
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   看？ 放松！ 切记[批准您的型号](approve-unapprove-a-revenue-model.md)。
-
+   看？ 放轻松！ 切记[批准您的型号](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)。
