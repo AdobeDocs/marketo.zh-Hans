@@ -1,9 +1,9 @@
 ---
 unique-page-id: 12980873
-description: 性能分析快速图表——营销文档——产品文档
+description: 性能分析快速图表 — 营销文档 — 产品文档
 title: 性能分析快速图表
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 性能分析快速图表{#performance-insights-quick-charts}
 
-“快速图表”是您自定义和保存的缩略图，提供了最常用的图表的快速视图。
+“快速图表”是您自定义和保存的缩略图，提供了您最常用的图表的快速视图。
 
-## 新建快速图表{#create-a-new-quick-chart}
+## 新建快速图{#create-a-new-quick-chart}
 
-快速图表从您指定的数据派生。 在此示例中，我们将选择：**新机会（首次接触），机会类型=新业务，当前年度至今**。
+快速图表从您指定的数据派生。 在此示例中，我们将选择：**new opportunities(first touch), opportunity type = new business， current year-to-date**.
 
-1. 单击日期过滤器，然后选择&#x200B;**当前年(YTD)**。
+1. 单击日期过滤器，然后选择&#x200B;**当前年份(YTD)**。
 
    ![](assets/1-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/3-3.png)
 
-1. 单击“导出”图标，然后选择“另存为快速图表”**。**
+1. 单击“导出”图标，然后选择&#x200B;**另存为快速图表**。
 
    ![](assets/4-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/5-3.png)
 
-您的快速图表现在与其他图表一起使用。
+您的快速图表现在与其他人一起使用。
 
 ![](assets/6-3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ## 删除快速图表{#delete-a-quick-chart}
 
-如果需要删除快速图表，请按照以下简单步骤操作。
+如果需要删除快速图表，请执行以下简单步骤。
 
 1. 单击&#x200B;**快速图表**&#x200B;图标。
 
@@ -68,4 +68,3 @@ ht-degree: 0%
 1. 单击&#x200B;**删除**。
 
    ![](assets/10-1.png)
-
