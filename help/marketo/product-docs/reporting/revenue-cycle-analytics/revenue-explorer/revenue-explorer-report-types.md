@@ -1,9 +1,9 @@
 ---
 unique-page-id: 7504922
-description: 收入浏览器报告类型- Marketo Docs —— 产品文档
+description: 收入浏览器报表类型 — Marketo Docs — 产品文档
 title: 收入浏览器报表类型
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 收入浏览器报告类型{#revenue-explorer-report-types}
+# 收入浏览器报表类型{#revenue-explorer-report-types}
 
-以下是使用收入周期分析时将遇到的报告类型。
+以下是使用收入周期分析时将遇到的报表类型。
 
 <table> 
  <thead> 
@@ -29,7 +29,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>潜在客户分析</td> 
-   <td>潜在客户和公司指标以及与潜在客户相关的属性</td> 
+   <td>潜在客户和公司量度和与潜在客户相关的属性</td> 
   </tr> 
   <tr> 
    <td>模型性能分析(公司)</td> 
@@ -41,19 +41,19 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>机会分析</td> 
-   <td><p>潜在客户和公司指标以及与商机相关的属性</p></td> 
+   <td><p>商机和公司量度和与商机相关的属性</p></td> 
   </tr> 
   <tr> 
    <td>项目成本分析</td> 
-   <td>关于具有至少一个成本期的项目的指标和属性</td> 
+   <td>关于具有至少一个成本期的项目的量度和属性</td> 
   </tr> 
   <tr> 
-   <td>项目会员资格分析</td> 
-   <td>与至少一个成员的项目相关的度量和属性</td> 
+   <td>项目会员分析</td> 
+   <td>与至少具有一个成员的项目有关的度量和属性</td> 
   </tr> 
   <tr> 
    <td>项目机会分析</td> 
-   <td>与项目相关的指标和机会属性</td> 
+   <td>与项目相关的量度和机会属性</td> 
   </tr> 
   <tr> 
    <td>项目收入阶段分析</td> 
@@ -61,4 +61,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
