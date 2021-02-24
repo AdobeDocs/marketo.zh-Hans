@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: 性能分析贡献概述 — Marketo Docs — 产品文档
 title: 绩效分析贡献概述
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->了解[首次触控和多次触控](https://docs.marketo.com/display/DOCS/Understanding+Attribution)。
+>了解[首次触控和多次触控](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
 
-选择要查看量度的期间。 在此示例中，我们将查看当年（年初至今）。   ![](assets/3-1.png)
+选择要查看量度的期间。 在此示例中，我们将查看当年（年初至今）。
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >我们暂时删除了“上一年”选项。 您仍可以选择使用“自定义范围”选项来查看上一年的整个性能数据。
 
-量度通过两个图表显示：甜甜圈和酒吧。   ![](assets/four.png)
+量度通过两个图表显示：甜甜圈和酒吧。
+
+![](assets/four.png)
 
 圆环图显示所选量度的前十个渠道。
 
@@ -45,7 +49,9 @@ ht-degree: 0%
 >
 >如果希望图形中的条在您滚动浏览组时向上缩放，请选中&#x200B;**缩放Y轴以适合**&#x200B;复选框。
 
-将鼠标悬停在条上可查看其他详细信息。   ![](assets/seven.png)
+将鼠标悬停在条上可查看其他详细信息。
+
+![](assets/seven.png)
 
 在圆环图中选择一个或多个渠道，与这些项目关联的所有渠道将显示在右侧的条形图中。 再次单击渠道可取消选择。
 
@@ -69,4 +75,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >在上面的甜甜圈图中，单击渠道激活/停用它旁边的复选框。
-
