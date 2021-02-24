@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: 创建Opportunity Influce Analyzer - Marketo Docs — 产品文档
 title: 创建机会影响分析器
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 使用Opportunity Influction Analyzer显示营销对重要交易的贡献。 在机会的生命中看到您的项目和事件成功以及有趣的时刻。
 
 >[!NOTE]
->
->**提醒**
 >
 >要从“机会影响分析器”获得好的英特尔，请确保您的联系人已连接到您的CRM中的机会。
 
@@ -64,16 +62,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用机会影响分析器讲述营销案例](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [配置机会影响分析器](configure-an-opportunity-influence-analyzer.md)
-
->
-
-
-
->[!NOTE]
->
->**深潜**
->
->有关其他分析器，请参阅[基本报告](https://docs.marketo.com/display/docs/basic+reporting)。
+>* [使用机会影响分析器讲述营销案例](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [配置机会影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
 
