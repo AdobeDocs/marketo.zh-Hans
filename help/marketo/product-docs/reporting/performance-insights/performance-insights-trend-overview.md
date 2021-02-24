@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: 性能分析趋势概述 — Marketo Docs — 产品文档
 title: 性能分析趋势概述
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-选择要视图性能的量度。 在此示例中，我们将查看通过[First Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution)赢得的机会。
+选择要视图性能的量度。 在此示例中，我们将查看通过[First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)赢得的机会。
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >在甜甜圈图中，单击渠道激活/停用它旁边的复选框。
-
