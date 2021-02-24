@@ -3,9 +3,9 @@ unique-page-id: 12979012
 description: 在性能分析中筛选 — 营销文档 — 产品文档
 title: 在性能分析中筛选
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->目前，“自定义属性”仅对启用了[RCA](https://docs.marketo.com/x/lwIk)的客户在过滤器中可用。
+>目前，“自定义属性”仅在过滤器中仅对启用了“收入周期分析”的客户可用。
 
 单击类别可显示多个子类别。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>自定义属性</strong></td> 
-   <td colspan="1"><p>这些由您决定。 您为业务机会分析启用</a>的所有字段均可在性能分析中筛选。<a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow"></a></p></td> 
+   <td colspan="1"><p>这些由您决定。 您为业务机会分析启用</a>的所有字段均可在性能分析中筛选。<a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow"></a></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>投资期</strong></p></td> 
@@ -69,11 +69,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><p><strong>项目标签</strong></p></td> 
-   <td><p>标签用于描述项目。 您可以根据需要制作任意数量的图像，每个图像都具有唯一值。 <a href="https://docs.marketo.com/display/public/DOCS/Tags" rel="nofollow">单击此处了解如何使用项目标记。</a></p></td> 
+   <td><p>标签用于描述项目。 您可以根据需要制作任意数量的图像，每个图像都具有唯一值。 <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">单击此处了解如何使用项目标记。</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>工作区</strong></td> 
-   <td><p>工作区是Marketo中存放营销资产的单独区域，例如：项目、登陆页、电子邮件等。 <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">在此处进一步了解工作区。</a></p></td> 
+   <td><p>工作区是Marketo中存放营销资产的单独区域，例如：项目、登陆页、电子邮件等。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">在此处进一步了解工作区。</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -81,4 +81,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >在“参与”仪表板中，只有项目标签和工作区过滤器可用。
-
