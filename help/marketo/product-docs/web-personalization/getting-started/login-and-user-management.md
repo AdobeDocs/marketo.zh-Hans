@@ -3,9 +3,9 @@ unique-page-id: 7513771
 description: 登录和用户管理 — Marketo Docs — 产品文档
 title: 登录和用户管理
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 输入角色名称，然后选择权限。 单击&#x200B;**创建**（此角色必须[应用于所有工作区](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)）。
+1. 输入角色名称，然后选择权限。 单击&#x200B;**创建**（此角色必须[应用于所有工作区](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)）。
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >要向用户授予访问“定位和个性化”中所有内容的权限，请确保选中&#x200B;*所有*&#x200B;复选框。
+   >要向用户授予访问“定位和个性化”中所有内容的权限，请确保选中&#x200B;_所有_&#x200B;复选框。
 
 ## Web个性化和预测内容用户权限{#web-personalization-and-predictive-content-user-permissions}
 
