@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2949168
-description: 使用模板创建Web活动- Marketo Docs —— 产品文档
+description: 使用模板创建Web活动- Marketo Docs — 产品文档
 title: 使用模板创建Web活动
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 使用模板创建Web活动{#using-templates-to-create-web-campaigns}
 
-通过使用我们内置的模板或通过保存您自己的[来加快和简化Web活动创建过程。](save-your-campaign-as-a-template.md)
+通过使用我们内置的模板或通过[保存您自己的](save-your-campaign-as-a-template.md)来加快和简化Web活动创建过程。
 
 >[!NOTE]
 >
->模板针对所有设备和桌面和移动设备进行了优化。
+>模板针对所有设备和桌面和移动浏览体验进行了优化。
 
-1. 转到Web活动。
+1. 转到&#x200B;**Web活动**。
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. 单击“新建Web活动”。
+1. 单击&#x200B;**新建Web活动**。
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,17 +35,15 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. 单击“模板”。
+1. 单击&#x200B;**模板**。
 
    ![](assets/templates.png)
 
-1. 选择适合您的活动的区域以查看并选择适合您的模板。
+1. 选择适合您的活动的区域，查看并选择适合您的模板。
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >有一些很酷的模板可供选择，我们将来添加更多模板。
+   >有一些很酷的模板可供选择，我们将在将来添加更多模板。
 
    ![](assets/select.png)
 
@@ -57,17 +55,12 @@ ht-degree: 0%
 
    ![](assets/customize-template.jpg)
 
-1. 单击“保存”。
+1. 单击&#x200B;**保存**。
 
    ![](assets/click-save-hand.jpg)
 
-干得好！ 您看到使用模板节省了多少时间吗？
+干得好！ 您是否看到使用模板节省了多少时间？
 
 >[!MORELIKETHIS]
 >
->* [将活动另存为模板](save-your-campaign-as-a-template.md)
-
->
-
-
-
+>[将活动另存为模板](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
