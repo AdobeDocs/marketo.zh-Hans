@@ -3,9 +3,9 @@ unique-page-id: 13795536
 description: 使用静态列表创建区段 — Marketo Docs — 产品文档
 title: 使用静态列表创建区段
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用静态列表{#create-a-segment-using-a-static-list}创建段
 
-当已知Web访客访问您的网站时，根据他们是否在您的Marketo [静态列表](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists)中细分这些。
+当已知Web访客访问您的网站时，根据他们是否在您的Marketo [静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)中细分这些。
 
 1. 转至&#x200B;**区段**。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在“已知潜在客户”中，将**静态列表**拖到画布上。
+1. 在“已知潜在客户”中，将&#x200B;**静态列表**&#x200B;拖到画布上。
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ ht-degree: 0%
    >
    >和/或下拉就是这样。 单击它可选择&#x200B;**和**、**或**&#x200B;或&#x200B;**和/或**。
 
-1. 单击&#x200B;**保存**&#x200B;以保存区段，或单击**保存并定义活动**以保存并转到活动页。
+1. 单击&#x200B;**保存**&#x200B;以保存区段，或单击&#x200B;**保存并定义活动**&#x200B;以保存并转到活动页。
 
    ![](assets/eight-1.png)
-
