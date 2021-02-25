@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: 与Adobe Analytics集成 — Marketo Docs — 产品文档
 title: 与Adobe Analytics集成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,40 +64,40 @@ RTP仪表板可帮助您了解根据垂直和RTP段划分的访客。 您可以�
 
 1. 转到AA帐户中的&#x200B;**管理工具**。
 1. 选择要与集成一起使用的&#x200B;**报表包**。
-1. 在&#x200B;**“编辑设置”下，**&#x200B;转至&#x200B;**“转换**”并选择** [“转换变量](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**”。\
+1. 在“编辑设置”****&#x200B;下，转到&#x200B;**转换**&#x200B;并选择“转换变量”](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。**[\
    选择[转换变量](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)编号（我们建议）：
 
-   1. 
+   1. 行业自定义转化Evar # 20
+   1. 组织自定义转换的第21个事件
 
-      1. 行业自定义转化Evar # 20
-      1. 组织自定义转换的第21个事件
+   >[!NOTE]
+   >
+   >如果这些#被采用，请选择其他可用编号。 将此数字与RTP帐户设置中的插槽数对齐。
 
-         >[!NOTE]
-         >
-         >如果这些#被采用，请选择其他可用编号。 将此数字与RTP帐户设置中的插槽数对齐。
+   1. 将状态更改为&#x200B;_已启用_。
 
-      1. 将状态更改为*已启用*
+      1. 将“名称”更改为&#x200B;**Industry**&#x200B;和&#x200B;**Organization**。 （这是报表包中的显示方式。）
 
-         1. 将“名称”更改为&#x200B;**Industry**&#x200B;和&#x200B;**Organization**。 （这是报表包中的显示方式。）
+      1. 将“Expire After”字段更改为&#x200B;**访问**。
 
-         1. 将“过期时间”字段更改为&#x200B;**访问。**
 
-1. 在“**编辑设置&#x200B;**”下，转至**&#x200B;转换&#x200B;**并选择“** [成功事件](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**”。
+1. 在&#x200B;**“编辑设置”**&#x200B;下，转到&#x200B;**转换**&#x200B;并选择&#x200B;**[成功事件](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**。
 
-1. 选择自定义成功事件事件编号（我们建议）：
+   1. 选择自定义成功事件事件编号（我们建议）：
 
-   1. 事件20 for RTP活动
-   1. 事件21 for RTP段
+      1. 事件20 for RTP活动
+      1. 事件21 for RTP段
 
       >[!NOTE]
       >
       >如果这些#被采用，请选择其他可用编号。 将此数字与RTP帐户设置中的插槽数对齐。
 
-   1. 将两个事件名称更改为&#x200B;**RTP活动**&#x200B;和&#x200B;**RTP段**。 这是将显示在报表包中的名称。
+      1. 将两个事件名称更改为&#x200B;**RTP活动**&#x200B;和&#x200B;**RTP段**。 这是将显示在报表包中的名称。
+   1. 选择“类型”字段，将其设置为&#x200B;**计数器（无子关系）**
 
-1. 选择类型* *字段为&#x200B;**计数器（无子关系）**
 
-1. 在&#x200B;**编辑设置**&#x200B;下，转到** [流量](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **并选择** [流量变量](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**。
+
+1. 在&#x200B;**编辑设置**&#x200B;下，转到&#x200B;**[流量](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)**&#x200B;并选择&#x200B;**[流量变量](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**。
 
    1. 选择流量变量属性#（我们建议）：
 
@@ -106,13 +106,16 @@ RTP仪表板可帮助您了解根据垂直和RTP段划分的访客。 您可以�
       1. 属性# 25 — 名称：活动组织
       1. 属性# 26 — 名称：RTP活动业
 
-         >[!NOTE]
-         >
-         >如果这些#被采用，请选择其他可用编号。 将此数字与RTP帐户设置中的插槽数对齐)
+      >[!NOTE]
+      >
+      >如果这些#被采用，请选择其他可用编号。 将此数字与RTP帐户设置中的插槽数对齐)
 
       1. 更改4个属性名称。 这是将显示在报表包中的名称。
-   1. 选择“已启用”字段至&#x200B;**“已启用”**
-   1. 选择&#x200B;**已启用**&#x200B;的路径报告字段
+   1. 选择“已启用”字段至&#x200B;**“已启用”**。
+
+   1. 选择“路径报告”字段至&#x200B;**Enabled**。
+
+
 
 
 ## 在Marketo实时个性化(RTP)中设置{#set-up-in-marketo-real-time-personalization-rtp}
@@ -123,7 +126,7 @@ RTP仪表板可帮助您了解根据垂直和RTP段划分的访客。 您可以�
 
 1. 在&#x200B;**帐户设置**&#x200B;下，单击&#x200B;**域**。
 1. 在&#x200B;**Analytics下，单击** **Adobe Analytics**。
-1. 打开**转换、自定义和流量变量切换。
+1. 打开&#x200B;****&#x200B;转换、自定义和流量变量切换。
 1. 分配转换、事件和流量变量&#x200B;**插槽编号**&#x200B;以匹配在AA中创建的插槽编号
 1. 单击&#x200B;**保存**。
 
@@ -169,13 +172,11 @@ AA中的自定义报告和仪表板示例包括：
 * 按组织查看的页面
 * 按组织、行业、细分区段划分的营销渠道绩效
 
-**报告示例**
+**— 报表示例 —**
 
 **热门行业报告**
 
-** ![](assets/top-industries-report.png)
-
-**
+![](assets/top-industries-report.png)
 
 **组织报告**
 
@@ -185,39 +186,47 @@ AA中的自定义报告和仪表板示例包括：
 
 创建名为&#x200B;**RTP仪表板**&#x200B;的[新仪表板](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)。 此仪表板将帮助您了解根据垂直市场和RTP细分的访客。
 
-1. 单击&#x200B;**仪表板,**&#x200B;单击**添加仪表板**
+1. 单击&#x200B;**仪表板,**&#x200B;单击&#x200B;**添加仪表板**。
 
-1. 将仪表板命名为&#x200B;**RTP仪表板**
-1. 选择&#x200B;**仪表板大小** 3 x 2、2 x 2
-1. 创建[缩图报表](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)并将[内容添加到仪表板](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. 将仪表板命名为&#x200B;**RTP仪表板**。
+
+1. 选择&#x200B;**仪表板大小** 3 x 2、2 x 2。
+
+1. 创建[缩图报表](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)并向仪表板](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)添加[内容。
 
 将行业缩图报表添加到仪表板
 
-1. 转至&#x200B;**自定义转换**，单击&#x200B;**Industry**
+1. 转至&#x200B;**自定义转换**，单击&#x200B;**Industry**。
 
-1. 将图表配置为&#x200B;**饼图**
-1. 单击&#x200B;**仪表板**，添加&#x200B;**缩图报表**
+1. 将图表配置为&#x200B;**饼图**。
 
-1. 将报表命名为&#x200B;**热门行业**
-1. 置于仪表板 **RTP仪表板**
+1. 单击&#x200B;**仪表板**，添加&#x200B;**缩图报表**。
+
+1. 将报表命名为&#x200B;**Top Industries**。
+
+1. 置于仪表板 **RTP仪表板**&#x200B;中。
+
 1. 创建&#x200B;**新建**。
 
 将区段缩图报表添加到仪表板
 
-1. 转至**网站量度，**单击&#x200B;**自定义事件，区段**
+1. 转至&#x200B;**网站量度**。 单击&#x200B;**自定义事件**、**区段**。
 
-1. 将图形配置为&#x200B;**垂直条**
-1. 单击&#x200B;**仪表板**，添加&#x200B;**缩图报表**
+1. 将图形配置为&#x200B;**垂直条**。
 
-1. 将报表命名为&#x200B;**热门区段**
-1. 置于仪表板 **RTP仪表板**
-1. 创建&#x200B;**新建。**
+1. 单击&#x200B;**仪表板**，添加&#x200B;**缩图报表**。
+
+1. 将报表命名为&#x200B;**热门区段**。
+
+1. 置于仪表板 **RTP仪表板**&#x200B;中。
+
+1. 创建&#x200B;**新建**。
 
 缩图报表将显示在仪表板中。
 
 ## Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}中的视图印象和点击（转换）
 
-1. 单击“自定义链接”。
+1. 单击&#x200B;**自定义链接**。
 
    ![](assets/sitecatalyst1-1.png)
 
@@ -227,4 +236,3 @@ AA中的自定义报告和仪表板示例包括：
 1. 搜索“转换为视图区段”和表示活动点击次数的活动名称。
 
    ![](assets/sitecatalyst2.png)
-
