@@ -3,9 +3,9 @@ unique-page-id: 17727870
 description: 在帐户设置 — Marketo Docs — 产品文档中添加子域
 title: 在帐户设置中添加子域
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -37,5 +37,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果要将&#x200B;*primary*&#x200B;域添加到帐户，请联系[ Marketo Support](https://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133)。
-
+   >如果要将&#x200B;_primary_&#x200B;域添加到帐户，请联系[ Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)。
