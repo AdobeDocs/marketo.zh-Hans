@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: 创建基本Web区段 — Marketo Docs — 产品文档
 title: 创建基本Web区段
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/segment-name.png)
 
-1. 从右侧菜单中拖动**位置**并将其放入区段编辑器中。
+1. 从右侧菜单中拖动&#x200B;**位置**&#x200B;并将其放入区段编辑器中。
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ ht-degree: 0%
    >
    >城市数量限制在每个区域300个。
 
-1. 从右侧菜单中拖动**行业**，并将其放入区段编辑器中。
+1. 从右侧菜单中拖动&#x200B;**Industries**&#x200B;并将其放入区段编辑器中。
 
    ![](assets/industries-hand.jpg)
 
-1. 从下拉列表中选择要添加的行业。 选择**金融服务****行业**。
+1. 从下拉列表中选择要添加的行业。 选择&#x200B;**金融服务业**。
 
    ![](assets/segment-industries.png)
 
    您现在已为从美国和金融业访问您网站的所有潜在客户设置基本细分。
 
-1. 单击**保存**以保存区段，或单击&#x200B;**保存并定义活动**&#x200B;以转到活动页。
+1. 单击&#x200B;**保存**&#x200B;以保存区段，或单击&#x200B;**保存并定义活动**&#x200B;以转到活动页。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
@@ -57,9 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [网页细分](https://docs.marketo.com/x/9QFI)
-
->
-
-
-
+>[网页细分](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
