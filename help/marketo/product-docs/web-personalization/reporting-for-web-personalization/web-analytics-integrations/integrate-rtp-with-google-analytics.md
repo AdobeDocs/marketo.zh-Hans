@@ -3,9 +3,9 @@ unique-page-id: 2949158
 description: 将RTP与Google Analytics集成 — Marketo Docs — 产品文档
 title: 将RTP与Google Analytics集成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-了解如何将[Web个性化与通用分析集成](integrate-rtp-with-google-universal-analytics.md)
+了解如何将[Web个性化与通用分析集成](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## 简介{#introduction}
 
@@ -66,19 +66,23 @@ RTP B2B仪表板可帮助您根据垂直和RTP分段了解访客的细分。 您
 
 ## 使用Google Analytics{#setting-up-rtp-with-google-analytics}设置RTP
 
-1. 将电子邮件[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)添加为Read &amp; Analyze用户到您的GA帐户。 有关详细信息，请参阅[此处](https://support.google.com/analytics/answer/2884495?hl=en)。
+1. 将电子邮件rtp.ga2@gmail.com添加为Read &amp; Analyze用户，添加到您的GA帐户。 有关详细信息，请参阅[此处](https://support.google.com/analytics/answer/2884495?hl=en)。
+
 1. 在RTP帐户中。 转到&#x200B;**帐户设置**。
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. 在&#x200B;**帐户设置**&#x200B;下，**域**&#x200B;和&#x200B;**分析**
-1. 单击**Google Analytics。**
+1. 在&#x200B;**帐户设置**&#x200B;下，**域**&#x200B;和&#x200B;**分析**。
+
+1. 单击&#x200B;**Google Analytics**。
+
 1. 打开相关的&#x200B;**自定义变量**&#x200B;和&#x200B;**事件**，将RTP中的此数据追加到Google Analytics。
+
 1. 输入&#x200B;**插槽**&#x200B;编号以发送自定义变量数据（默认为1,2）。
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-单击&#x200B;**保存**。
+1. 单击&#x200B;**保存**。
 
 >[!NOTE]
 >
