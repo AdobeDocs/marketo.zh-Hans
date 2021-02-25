@@ -1,9 +1,9 @@
 ---
 unique-page-id: 4720224
-description: 编辑区域——营销文档——产品文档
+description: 编辑区域 — 营销文档 — 产品文档
 title: 编辑区域
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -23,9 +23,8 @@ ht-degree: 0%
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 
-1. 检查您所在的国家／地区或与您所在地区相关的州。
+1. 检查您所在的国家或地区或与您所在地区相关的州。
 
 >[!NOTE]
 >
->选择美国后，将在页面底部打开所有要选择的美国选项。
-
+>选择“美国”后，将在页面底部打开所有要选择的“美国”选项。
