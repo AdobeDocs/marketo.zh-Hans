@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Web个性化词汇表 — Marketo Docs — 产品文档
 title: Web个性化词汇表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 | **ISP** | Internet服务提供商 |
 | **已知访客** | 一个Web访客，已填写表单并将其详细信息（电子邮件地址）留在您的网站上或单击了Marketo电子邮件中的链接。 |
 | **帐户列表** | 关键帐户/组织名称的列表。 也称为基于帐户的营销(ABM)列表。 |
-| **细分** | 符合[“设置区段”页面](../../../product-docs/web-personalization/using-web-segments/web-segments.md)中定义的指定条件的访客集合。 |
+| **细分** | 符合[“设置区段”页面](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中定义的指定条件的访客集合。 |
 | **拆分测试** | 用两种或多种变体进行测试实验，以测量结果的差异。 目标是确定对网页的更改，以增加或最大化感兴趣的结果。 |
 | **通配符** | 在字符串之前或之后使用的通配符(*)，用于替换字符串中的任何其他字符或字符。 请参阅以下示例。 |
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 匹配页面URL上包含单词backup的所有访客(例如，[https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
-
