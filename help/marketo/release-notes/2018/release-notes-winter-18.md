@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: 发行说明 — Winter '18 - Marketo Docs — 产品文档
 title: 发行说明 — 2018年冬季
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -25,46 +25,47 @@ Marketo正在利用我们的大数据体系结构来增加触发活动吞吐量�
 
 我们对Salesforce CRM集成有两项增强功能：
 
-* [针对某](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 些CRM同步失败（凭据已过期、已达到API限制等）的Marketo Admin通知
+* [针对某](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 些CRM同步失败（凭据已过期、已达到API限制等）的Marketo Admin通知
 
-* [在潜在客户分配时关闭](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 向潜在客户所有者的电子邮件通知
+* [在潜在客户分配时关闭](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 向潜在客户所有者的电子邮件通知
 
 这些改进将于2018年推出。
 
-## [营销人员绩效洞察](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [营销人员绩效洞察](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
->
 >Performance Insights是一款附加产品。 如需报价，请联系您的营销人员客户成功经理或客户经理。
 
-通过归因分析、交互式可视化和详细的数据表，了解您的活动和渠道对业务成果的影响。   ![](assets/image2018-2-5-7-3a55-3a46.png)
+通过归因分析、交互式可视化和详细的数据表，了解您的活动和渠道对业务成果的影响。
+
+![](assets/image2018-2-5-7-3a55-3a46.png)
 
 ## 基于帐户的营销增强{#account-based-marketing-enhancements}
 
-** [ABM层级](../../product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
+**[ABM等级](/help/marketo/product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
 
 对于使用Salesforce或Microsoft Dynamics的ABM客户，ABM现在将自动继承（并显示）在CRM中建立的父子关系。 您将能够在汇总报告和活动执行中使用这些关系。
 
 ## 电子邮件营销{#email-marketing}
 
-** [动态电子邮件脚本](../../product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
+**[动态电子邮件脚本](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
 使用动态内容的电子邮件现在支持速度脚本。 结合速度和基于细分的动态内容，创建高度个性化的电子邮件。
 
 **收件人时区**
 
-* ** [月度培养节奏&#x200B;](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **我们增加了在月度节奏上计划培养项目的能力。
+* **[每月“培养节奏](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**”：我们添加了在月度节奏中计划培养项目的功能。
 
-* ** [停止投放](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**:您现在可以在运行中停止任何其他发送。
+* **[停止投放](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**:您现在可以在运行中停止任何其他发送。
 
 ## 广告网络集成{#ad-network-integrations}
 
-** [Google客户匹配集成](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+**[Google客户匹配集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
 通过此集成，您可以使用Google AdWords将Marketo受众发送到Google以定位，并在YouTube、Search和Gmail中重新目标受众。
 
-** [LinkedIn匹配受众API增强](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[LinkedIn匹配受众API增强](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 我们新的LinkedIn API现在使您能够跨多个LinkedIn活动管理器帐户重新目标您Marketo数据库中的人员。
 
@@ -74,19 +75,19 @@ Marketo正在利用我们的大数据体系结构来增加触发活动吞吐量�
 
 Marketo正在为Web个性化添加一个额外的日文访客源，以改进来自日本的访客的Web个性化识别（反向IP查找）和个性化。 组织名称将以日文显示。
 
-** [使用静态列表创建Web区段](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
+**[使用静态列表创建Web区段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
 Web个性化现在可以将内容个性化到已知的Web访客，该列表是在营销活动(MLM)中定义的静态的一部分。 利用此增强功能，您现在可以通过网站上的个性化内容，将这些列表上的渠道和目标向静态列表进行营销。
 
-## 内容`<sup>AI</sup>` {#contentai}
+## ContentAI {#contentai}
 
 **预测算法改进**
 
-通过Marketo优化的Content`<sup>AI </sup>`算法推荐的内容生成的点击次数最多是随机内容的两倍。
+通过Marketo优化的ContentAI算法推荐的内容生成的点击次数最多是随机内容的两倍。
 
 ## 集成{#integration}
 
-** [激活/取消激活活动API](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[激活/取消激活活动API](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 此新API允许您远程激活和停用触发器活动，因此您现在可以创建完全自动化的项目模板。 创建一次项目模板，然后自动仿制、营销附属品更新，并立即激活/计划智能活动。
 
