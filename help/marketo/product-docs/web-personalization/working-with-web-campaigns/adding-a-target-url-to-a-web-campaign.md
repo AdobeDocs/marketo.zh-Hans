@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: 将目标URL添加到Web活动- Marketo Docs — 产品文档
 title: 将目标URL添加到Web活动
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->
 >* 对话框和Widget Web活动可以使用“任何页面”和“通配符(*)”选项。
 * 在高级用例中，“在区域中”Web活动可以在URL路径末尾使用通配符。 示例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * URL区分大小写
@@ -72,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 添加活动名称**。 选择&#x200B;**目标段**。 添加&#x200B;**目标URL**。
+1. 添加&#x200B;**活动名称**。 选择&#x200B;**目标段**。 添加&#x200B;**目标URL**。
 
    >[!NOTE]
    目标URL（在区域中）必须定义特定URL或URL。 在高级用例中，“在区域中”Web活动可以在URL路径末尾使用通配符。 示例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
@@ -80,7 +79,7 @@ ht-degree: 0%
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [创建新对话框Web活动](create-a-new-dialog-web-campaign.md)
-* [在Zone Web活动中新建](create-a-new-in-zone-web-campaign.md)
-* [创建新的Widget Web活动](create-a-new-widget-web-campaign.md)
+* [创建对话框活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [在区域中创建RTP活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [创建RTP Widget活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
