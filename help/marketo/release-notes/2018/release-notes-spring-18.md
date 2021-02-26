@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: 发行说明–2018年春季 — Marketo Docs — 产品文档
 title: 发行说明 — 2018年春
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Marketo Sky打开测试版{#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/hc/en-us)
+[Marketo Sky Open Beta](https://help.marketo.com/)
 
 选择使用Marketo Sky开放式测试版获取100多种新的工作效率提升功能，包括：
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 经过优化的导航和改进的工作流使您能够查看项目成功标准并访问项目详细信息。
 
-## 内容<sup>AI</sup> {#contentai}
+## ContentAI {#contentai}
 
 [目标设置](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-设置内容<sup>AI</sup>优化算法的目标，以驱动更多视图、点击或转换。
+设置ContentAI优化算法的目标，以推动更多视图、点击或转换。
 
 ## 集成和API {#integration-and-apis}
 
