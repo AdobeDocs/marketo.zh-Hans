@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: 将表单嵌入Web活动- Marketo Docs — 产品文档
 title: 将表单嵌入Web活动
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 1. 右键单击已批准的表单。 选择&#x200B;**嵌入代码**。
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. 复制代码。
 
@@ -31,9 +29,7 @@ ht-degree: 0%
 
 1. 单击&#x200B;**创建新营销活动**。
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. 在富文本编辑器中，单击HTML图标。
 
@@ -44,6 +40,7 @@ ht-degree: 0%
    ![](assets/six-1.png)
 
 1. 表单不会显示在编辑器视图中，但您可以预览它以查看它在活动中的呈现方式。
+
 1. 单击&#x200B;**启动**&#x200B;以开始活动。
 
    >[!NOTE]
@@ -58,7 +55,7 @@ ht-degree: 0%
 * 在设置活动中更改对话框或构件颜色
 * 将CSS代码添加到脚本
 
-要编辑表单主题的CSS，请参阅[本文](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)。
+要编辑表单主题的CSS，请参阅[本文](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)。
 
 要在“设置活动”中更改对话框或构件颜色：
 
@@ -86,11 +83,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [编辑表单主题的CSS](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [编辑表单主题的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [在没有后续登陆页的情况下显示感谢信](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
 
