@@ -3,9 +3,9 @@ unique-page-id: 4719398
 description: 创建新对话框Web活动- Marketo Docs — 产品文档
 title: 创建新对话框Web活动
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 创建一个Web活动，以实时个性化您的Web内容，并在适当的时间向适当的用户提供适当的信息。
 
-Web活动是与特定段关联的自定义反应。 该反应可以是您网站上的对话框、区域替换](create-a-new-in-zone-web-campaign.md)中的[、[构件功能](create-a-new-widget-web-campaign.md)或电子邮件警报。
+Web活动是与特定段关联的自定义反应。 该反应可以是您网站上的对话框、区域替换](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、[构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或电子邮件警报。
 
 1. 转到&#x200B;**Web活动**。
 
@@ -41,7 +41,7 @@ Web活动是与特定段关联的自定义反应。 该反应可以是您网站�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>显示于</strong></td> 
-   <td colspan="1">允许您<a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">自定义Web活动的显示时间和显示方式。</a></td> 
+   <td colspan="1">允许您<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">自定义Web活动的显示时间和显示方式。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>对话框样式</strong></td> 
@@ -111,7 +111,7 @@ Web活动是与特定段关联的自定义反应。 该反应可以是您网站�
   </tr> 
   <tr> 
    <td colspan="1"><strong>富文本编辑器</strong></td> 
-   <td colspan="1"><p>富文本编辑器允许文本格式化、链接和图像插入。 <a href="using-the-web-personalization-rich-text-editor.md">在此处阅读更多内容</a>。</p></td> 
+   <td colspan="1"><p>富文本编辑器允许文本格式化、链接和图像插入。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">在此处阅读更多内容</a>。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>预览现场</strong></td> 
@@ -128,17 +128,17 @@ Web活动是与特定段关联的自定义反应。 该反应可以是您网站�
 
 >[!TIP]
 >
->使用我们的[内置模板](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)或[将现有活动](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)保存为模板以供重用，从而加快和简化活动创建过程。
+>使用我们的[内置模板](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)或[将现有活动](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)保存为模板以供重用，从而加快和简化活动创建过程。
 
 ## 编辑Web活动{#edit-a-web-campaign}
 
-1. 从&#x200B;**Web** **活动**&#x200B;页面，单击Web活动上的&#x200B;**编辑**。
+1. 从&#x200B;**Web活动**&#x200B;页面，单击Web活动上的&#x200B;**编辑**。
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->要更轻松地找到所需的Web活动，请使用[过滤器功能](filter-web-campaigns.md)。
+>要更轻松地找到所需的Web活动，请使用[过滤器功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 ## 预览Web活动{#preview-a-web-campaign}
 
@@ -148,11 +148,11 @@ Web活动是与特定段关联的自定义反应。 该反应可以是您网站�
 
 ## 克隆Web活动{#clone-a-web-campaign}
 
-请参阅[克隆Web活动](clone-a-web-campaign.md)。
+请参阅[克隆Web活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
 ## 删除Web活动{#delete-a-web-campaign}
 
-1. 在&#x200B;**Web活动**&#x200B;页面中，在要删除的Web活动上单击**删除**。
+1. 在&#x200B;**Web活动**&#x200B;页面中，单击要删除的Web活动上的&#x200B;**删除**。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
@@ -160,6 +160,6 @@ Web活动是与特定段关联的自定义反应。 该反应可以是您网站�
 
 >[!MORELIKETHIS]
 >
->* [在Zone Web活动中新建](create-a-new-in-zone-web-campaign.md)
->* [创建新的Widget Web活动](create-a-new-widget-web-campaign.md)
+>* [在区域中创建RTP活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [创建RTP Widget活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
