@@ -3,9 +3,9 @@ unique-page-id: 17727823
 description: 发行说明 — Winter '19 - Marketo Docs — 产品文档
 title: 发行说明 — 2019年冬季
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->微软正在推动所有在线客户升级到最新版Microsoft Dynamics。 如果您要将Marketo实例与Dynamics Online集成，您需要在2019年1月31日之前&#x200B;**升级到Marketo Solution](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)的最新版本，以确保您的集成将继续运行。[**
+>微软正在推动所有在线客户升级到最新版Microsoft Dynamics。 如果您要将Marketo实例与Dynamics Online集成，您需要在2019年1月31日之前&#x200B;**升级到Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)的最新版本，以确保您的集成将继续运行。[**
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 核心平台增强功能{#core-platform-enhancements}
 
-** [适用于Marketo电子邮件的电子邮件CC](../../product-docs/email-marketing/general/email-cc.md)**
+**[适用于Marketo电子邮件的Email CC](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
 对于通过Marketo发送的电子邮件，每位收件人最多可包含五个CC地址。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 * **针对资产API的多品牌域支持：批** 准和克隆资产会在API和UI中产生相同的结果。
 * **针对资产API的电子邮件CC支持**:用户通过API仿制、批准和处理电子邮件将保持与UI设置的对等性。
 
-** [Munchkin v155(Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155(Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **仅API模式**:用户现在可以决定何时以及如何跟踪其数据库成员，方法是允许单页Web应用程序在他们希望记录网页访问时明确调用，而不是依赖Marketo的自动跟踪。
 * **退出管理**:通过将退出Cookie域与Munchkin跟踪Cookie域相匹配，轻松管理退出。
@@ -54,8 +54,8 @@ ht-degree: 0%
 * **电子邮件服务**:通过连接到Microsoft Outlook（通过Office365或通过“电子邮件连接”选项卡进行预修），享受更好的交付能力以及改进的回复跟踪、计划电子邮件功能和批量电子邮件功能。
 * **新管理员设置**:添加了两个管理页面以优化您的Sales Engage实例
 
-   * *团队* 管理允许管理员编辑订阅和团队，从而支持无缝的帐户设置流程。
-   * *Salesforce管理员设* 置搁置团队设置其SFDC同步比以往更快、更轻松。
+   * _团队_ 管理允许管理员编辑订阅和团队，从而支持无缝的帐户设置流程。
+   * _Salesforce管理员设_ 置搁置团队设置其SFDC同步比以往更快、更轻松。
 
 * **OWA Plugin for Windows**:借助一个插件，Sales Engage将支持所有Windows Office365客户端，从而提供在Outlook中使用实时源的功能。Microsoft Store中将提供新插件。
 * **活动推动**:将销售参与同步到核心Marketo平台，以利用实时营销洞察。
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sky在更频繁的节奏上释放。 预计第4季度末/第1季度初将发布以下功能和增强功能。 有关更多详细信息和更新，请查看我们的[Sky文档](https://help.marketo.com/hc/en-us/articles/360012858573)。
+>Marketo Sky在更频繁的节奏上释放。 预计第4季度末/第1季度初将发布以下功能和增强功能。 有关更多详细信息和更新，请查看我们的[Sky文档](https://help.marketo.com/)。
 
 * **可选默认体验**:Marketo用户如果已由管理员提供访问权限，则可以将Marketo Sky设置为其默认体验。
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 ## 基于帐户的营销{#account-based-marketing}
 
-** [基于人物的细分和过滤](../../product-docs/account-based-marketing/using-personas.md)**
+**[基于ABM人物的分割与过滤](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
 
 为指定帐户中的特定角色个性化您的ABM活动。 “ABM人物”功能基于潜在客户细分创建默认职务，并允许配置其他人物细分。
 
