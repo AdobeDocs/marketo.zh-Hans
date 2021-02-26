@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: 创建新的Widget Web活动- Marketo Docs — 产品文档
 title: 创建新的Widget Web活动
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建新的Widget Web活动{#create-a-new-widget-web-campaign}
 
-Web活动是与特定区段关联的自定义反应，可以是网站上的[对话框](create-a-new-dialog-web-campaign.md)、区域替换](create-a-new-in-zone-web-campaign.md)中的[、构件功能或电子邮件警报。 构件Web活动是显示在网页垂直侧的文本或横幅，能够扩展和收缩，而在整个访问过程中，网站页面上保持不变。
+Web活动是与特定区段关联的自定义反应，可以是网站上的[对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、区域替换](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、构件功能或电子邮件警报。 构件Web活动是显示在网页垂直侧的文本或横幅，能够扩展和收缩，而在整个访问过程中，网站页面上保持不变。
 
 ## 创建Widget Web活动{#create-a-widget-web-campaign}
 
@@ -33,9 +33,9 @@ Web活动是与特定区段关联的自定义反应，可以是网站上的[对�
 
    ![](assets/4.png)
 
-1. 单击**预览 **，了解Web活动对您网站的反应。
+1. 单击&#x200B;**预览**&#x200B;查看Web活动在您的站点上的反应。
 
-![](assets/preview.png)
+   ![](assets/preview.png)
 
 <table> 
  <thead> 
@@ -51,7 +51,7 @@ Web活动是与特定区段关联的自定义反应，可以是网站上的[对�
   </tr> 
   <tr> 
    <td colspan="1"><strong>显示于</strong></td> 
-   <td colspan="1">允许您<a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">自定义Web活动的显示时间和显示方式。</a></td> 
+   <td colspan="1">允许您<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">自定义Web活动的显示时间和显示方式。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>将输入/输出动画</strong></td> 
@@ -95,7 +95,7 @@ Web活动是与特定区段关联的自定义反应，可以是网站上的[对�
 
 >[!NOTE]
 >
->**想要A/B测试Web活动?** 可以对一个或多个Web活动进 [行A/B测试以获得最佳结果](ab-test-your-web-campaign.md)。借助“自动调整”功能，平台可自动识别性能更好的活动，继续执行转换率最高的活动并暂停其他。
+>**想要A/B测试Web活动?** 可以对一个或多个Web活动进 [行A/B测试以获得最佳结果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)。借助“自动调整”功能，平台可自动识别性能更好的活动，继续执行转换率最高的活动并暂停其他。
 
 ## 编辑Web活动{#edit-a-web-campaign}
 
@@ -105,11 +105,11 @@ Web活动是与特定区段关联的自定义反应，可以是网站上的[对�
 
 >[!NOTE]
 >
->要更轻松地找到所需的活动，请使用[过滤器功能](filter-web-campaigns.md)。
+>要更轻松地找到所需的活动，请使用[过滤器功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 ## 克隆Web活动{#clone-a-web-campaign}
 
-请参阅[克隆Web活动](clone-a-web-campaign.md)。
+请参阅[克隆Web活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
 ## 预览Web活动{#preview-a-web-campaign}
 
@@ -119,7 +119,7 @@ Web活动是与特定区段关联的自定义反应，可以是网站上的[对�
 
 ## 删除Web活动{#delete-a-web-campaign}
 
-1. 在Web活动页中，在要删除的Web活动上单击**删除**。
+1. 在“Web活动”页中，在要删除的Web活动上单击&#x200B;**删除**。
 
    ![](assets/widget-campaign-delete-hand.png)
 
@@ -127,6 +127,6 @@ Web活动是与特定区段关联的自定义反应，可以是网站上的[对�
 
 >[!MORELIKETHIS]
 >
->* [在Zone Web活动中新建](create-a-new-in-zone-web-campaign.md)
->* [创建新对话框Web活动](create-a-new-dialog-web-campaign.md)
+>* [在Zone Web活动中新建](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [创建新对话框Web活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
