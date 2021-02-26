@@ -3,9 +3,9 @@ unique-page-id: 10092925
 description: 预览和测试Web活动- Marketo Docs — 产品文档
 title: 预览和测试Web活动
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 预览创建页面{#preview-a-web-campaign-on-the-creation-page}上的Web活动
 
-1. 转到&#x200B;**Web** **活动**。
+1. 转到&#x200B;**Web活动**。
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. 单击**创建新Web活动**** **或图标以编辑现有活动。
+1. 单击&#x200B;**“新建Web活动”**&#x200B;或图标以编辑现有活动。
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -35,11 +35,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您还可以选择安装浏览器插件（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)或[Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)），以获得预览活动的最佳体验。 请参阅下面的部分。
+   >您还可以选择安装浏览器插件（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)或[Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)），以获得预览活动的最佳体验。 请参阅下面的部分。
 
 ## 使用浏览器插件{#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}在创建页面上预览Web活动
 
-1. 按照`section above`中的步骤1和2进行操作。
+1. 请遵循上面部分中的步骤1和2。
+
 1. 单击指向浏览器插件的链接（在本例中，我们使用的是Chrome）。
 
    ![](assets/4-1.png)
@@ -81,7 +82,8 @@ ht-degree: 0%
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. 命名区段。
-1. 在“行为”下，将“包括页面”拖动到画布上。 添加值*sandbox=1*。 单击保存并定义活动。
+
+1. 在“行为”下，将“包括页面”拖动到画布上。 添加值*sandbox=1*。 单击&#x200B;**保存并定义活动**。
 
    ![](assets/segment.png)
 
@@ -89,10 +91,12 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. 完成活动创作，然后单击&#x200B;**启动**。\
+1. 完成活动创作，然后单击&#x200B;**启动**。
+
    ![](assets/click-launch.jpg)
 
-1. 转到您的网站，在URL末尾添加URL参数“？sandbox=1”。 示例：[www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
+1. 转到您的网站，在URL末尾添加URL参数“？sandbox=1”。 示例：`www.marketo.com?sandbox=1`。
+
 1. 查看活动在您的网站上的反应。
 
 >[!NOTE]
@@ -102,4 +106,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >无法预览重定向活动。 测试它们的唯一方法是使用沙箱段(按特定页面进行目标- *sandbox=redirect*)
-
