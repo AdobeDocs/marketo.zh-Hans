@@ -1,9 +1,9 @@
 ---
 unique-page-id: 4720075
-description: 视图特定标签中的Web活动- Marketo Docs —— 产品文档
+description: 视图Web活动，来自特定标签 — Marketo Docs — 产品文档
 title: 视图特定标签中的Web活动
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 按现有标签{#filter-by-existing-labels}过滤
 
-1. 转至&#x200B;**Web** **活动**。
+1. 转到&#x200B;**Web活动**。
 
    ![](assets/web-campaigns-hand-4.jpg)
 
-1. 在“标签”下拉框中，选择所需的标签。
+1. 在“标签”下拉框下，选择所需的标签。
 
    ![](assets/web-campaigns-my-campaigns-dropdown-1.jpg)
 
@@ -31,11 +31,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [标记Web活动](label-your-web-campaigns.md)
->* [视图特定标签中的区段](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [标记您的区段](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
+>* [为Web活动添加标签](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [视图特定标签中的区段](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [为区段添加标签](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
