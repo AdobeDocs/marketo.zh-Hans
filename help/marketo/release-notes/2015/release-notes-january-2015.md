@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: 发行说明 — 2015年1月 — Marketo Docs — 产品文档
 title: 发行说明 — 2015年1月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ ht-degree: 0%
 
 ## 营销自动化更新{#marketing-automation-updates}
 
-**Rick DeCosta发布的新照片！**
-
-Rick是SmartBear的Marketo客户，拥有[令人难以置信的照片集](https://www.flickr.com/photos/rickdecosta)。 看看他们！
-
-## 移动友好登陆页{#mobile-friendly-landing-pages}
+**移动友好登陆页**
 
 您现在可以从登陆页编辑器中[为登陆页](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)构建移动视图。 无论使用何种设备，都能有效地传递您的信息，并通过定制内容以随时随地轻松消费来提高参与度。 此功能将在发行后的一周内逐步推出。
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[-登陆页视频演练 — ](https://youtu.be/aPQHlG2X6c0)
 
-**新的ReST API调用**
+**新Rest API调用**
 
 对Lead &amp; 活动 ReST API的三个新调用：
 
@@ -57,9 +53,9 @@ Rick是SmartBear的Marketo客户，拥有[令人难以置信的照片集](https:
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-更新的RTP标签选项
+**更新的RTP标签选项**
 
-[已更](https://docs.marketo.com/display/docs/rtp+tag+implementation) 新“帐户设置”下的RTP标签选项以包括：
+“帐户设置”下的RTP标记选项已更新为包括：
 
 1. CDN和异步（推荐标签）
 1. CDN和同步（高速）
