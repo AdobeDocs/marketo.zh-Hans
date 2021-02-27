@@ -3,9 +3,9 @@ unique-page-id: 2951122
 description: 发行说明 — 2012年3月 — Marketo Docs — 产品文档
 title: 发行说明 — 2012年3月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # 发行说明：2012年3月{#release-notes-march}
 
->[!NOTE]
->
->**深潜**
->
->有关其他版本，请参阅[发行说明](https://docs.marketo.com/display/docs/release+notes)深入介绍。
->
->## 解析我的令牌{#resolve-my-tokens}>
+## 解析我的令牌{#resolve-my-tokens}
 
 我的令牌(项目令牌)将在预览电子邮件、发送测试电子邮件和通过单个流操作发送本地电子邮件时解析。 您不必再在项目中创建智能活动来测试我的令牌！
 
