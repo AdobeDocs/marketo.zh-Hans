@@ -3,9 +3,9 @@ unique-page-id: 2951095
 description: 发行说明 — 2013年6月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年6月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 发行说明：2013年6月{#release-notes-june}
 
-6月版包含以下功能。 请检查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)以了解功能可用性。
-
-发布后，请务必查看社区中的[新版本](release-notes-december-2013.md)选项卡，了解每个功能的详细知识库文章！
+6月版包含以下功能。
 
 ## 其他用户语言{#additional-user-languages}
 
@@ -42,4 +40,3 @@ ht-degree: 0%
 默认情况下，Select SMB Edition有两种型号，Enterprise Edition有15种型号。 您还可以购买其他型号。
 
 ![](assets/image2014-9-22-16-3a26-3a59.png)
-
