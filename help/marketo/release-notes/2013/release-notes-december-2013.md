@@ -3,9 +3,9 @@ unique-page-id: 2951052
 description: 发行说明 — 2013年12月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年12月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 0%
 
 # 发行说明：2013年12月{#release-notes-december}
 
-12月版包含以下功能。 请检查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)以了解功能可用性。
+12月版包含以下功能。
 
 发布后，请务必查看社区中的“新版本”选项卡，了解每个功能的详细知识库文章！
-
-## 甜蜜的背景照片{#sweet-background-photos}
-
-我们已开始在应用程序中展现我们的创意才华。 每个季度都会有一位新艺术家。 为了将我们踢出，我们选择了[Trey Ratcliff](https://stuckincustoms.smugmug.com/)。
 
 ## 电子邮件项目{#email-program}
 
