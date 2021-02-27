@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: 发行说明 — 2015年秋季 — Marketo Docs — 产品文档
 title: 发行说明 — 2015年秋季
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 订阅智能列表{#subscribe-to-a-smart-list}
 
-[订阅智能列表](../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+[订阅智能列表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
 订阅智能列表可让营销人员导出智能列表并将其通过电子邮件发送给未使用营销人员，例如销售或电话营销团队。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## Marketo自定义对象{#marketo-custom-objects}
 
-[Marketo自定义对象](https://docs.marketo.com/display/docs/marketo+custom+objects)
+[Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 从管理员UI轻松创建自定义对象。 我们目前支持在Marketo中创建1:N自定义对象并将其连接到潜在客户或公司。
 
@@ -39,12 +39,11 @@ ht-degree: 0%
 >
 >Marketo自定义对象不适用于Spark。
 
-
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
 ## Google Chrome的Marketo Insights {#marketo-insights-for-google-chrome}
 
-[针对Google Chrome的Marketo Insights](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[针对Google Chrome的Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 我们很高兴地宣布发布Google Mail Sales Insight扩展的更新！ 将其视图到[Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中。
 
@@ -58,15 +57,15 @@ ht-degree: 0%
 
 ## Marketo Mobile Engagement — 令牌、发送示例和预览{#marketo-mobile-engagement-tokens-send-sample-preview}
 
-* [令牌](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
-* [发送示例](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
-* [预览](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
+* [令牌](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+* [发送示例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
+* [预览](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-使用[令牌](https://docs.marketo.com/pages/viewpage.action?pageId=7512454)轻松个性化推送通知。
+使用[令牌](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)轻松个性化推送通知。
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-在将[预览](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)或[示例](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)推送通知部署到客户之前，您还可以先发出该通知。
+在将[预览](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)或[示例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)推送通知部署到客户之前，您还可以先发出该通知。
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -74,7 +73,7 @@ ht-degree: 0%
 
 ## 瞬间{#smart-campaigns-in-moments}中的智能活动
 
-[瞬间智能活动](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+[瞬间智能活动](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
 通过智能活动发送的电子邮件的统计信息现在在瞬间中可用。 此升级的其他功能包括：
 
@@ -87,7 +86,7 @@ ht-degree: 0%
 
 ## RTP — 内容分析和Recommendations {#rtp-content-analytics-and-recommendations}
 
-[内容分](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 析和Recommendations
+[内容分](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 析和Recommendations
 
 RTP内容分析显示来自常规Web访问的Web内容资产以及来自RTP内容推荐引擎的访问的性能。
 
@@ -98,13 +97,13 @@ RTP内容分析显示来自常规Web访问的Web内容资产以及来自RTP内�
 RTP的“资产”页面现在拆分为内容分析和内容Recommendations。
 
 * **内容分析：** 显示所有发现和定义的Web内容的视图和直接潜在客户，帮助您分析效果最佳的内容
-* **内容Recommendations**:显示来自RTP的推荐内容和关联潜在客户归因的展示次数和点击次数。您还可以编辑并启用此页中针对[bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine)和[富媒体](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)推荐的内容推荐。
+* **内容Recommendations**:显示来自RTP的推荐内容和关联潜在客户归因的展示次数和点击次数。您还可以编辑并启用此页中针对[bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)和[富媒体](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)推荐的内容推荐。
 
 * 自年度开始（2015年1月1日）起，这两个页面中的所有直接销售线索数据均已追溯更新。
 
 ## RTP — 克隆RTP活动{#rtp-clone-an-rtp-campaign}
 
-[RTP — 克隆RTP活动](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
+[RTP — 克隆RTP活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
 克隆RTP活动可以更快、更高效地创建更个性化的Web活动。 使用RTP的活动页中的克隆功能复制活动设置并更改内容以进行拆分测试优化，或仿制内容相同的活动并将其目标到其他段。 在几秒内创建活动!
 
@@ -116,52 +115,35 @@ RTP的“资产”页面现在拆分为内容分析和内容Recommendations。
 
 * HTML代码中现在支持VML:
 
-   ```
-   <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
-   ```
-
-   ```
-   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
-   ```
-
-   ```
-   </v:background>
-   ```
+```
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+<v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+</v:background>
+```
 
 * 现在，任何内容都可以插入有效的HTML注释中（之前已删除下面所示的某些语法）：
 
-   ```
-   <!--[if gte mso 9]> 
-   ```
+`<!--[if gte mso 9]> <![endif]-->`
 
-   ```
-   <![endif]-->
-   ```
-
-* 不用`**`填充空表单元格
+* 不用`&nbsp;`填充空表单元格
 
 * 添加到HTML源编辑器的“最大化”/“最小化”按钮
 * 现在，已标识并显示预存的表属性，并显示在“表属性”对话框中
 * 现在，默认情况下显示两行按钮。
 * 编辑器现在将接受任何元素（甚至已弃用或非标准元素）：
 
-   ```
-   <myCustomElement>Hello World!</myCustomElement>
-   ```
+`<myCustomElement>Hello World!</myCustomElement>`
 
 * 编辑器现在将接受任何属性（甚至已弃用或非标准属性）：
 
-   ```
-   <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-   ```
-
-   ```
-   <td background="someImage.png"> 
-   ```
+```
+<myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
+<td background="someImage.png"> 
+```
 
 ## Microsoft Dynamics — 验证同步{#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics — 验证同步](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[Microsoft Dynamics — 验证同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 此新管理工具运行一系列检查，以查看您的同步配置是否已正确设置。
 
