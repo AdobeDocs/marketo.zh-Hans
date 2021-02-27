@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: 发行说明 — 2014年12月 — Marketo Docs — 产品文档
 title: 发行说明 — 2014年12月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Sales Insight报表{#sales-insight-reports}
 
-[Sales Insight电子邮件绩效报表](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)允许您通过电子邮件和销售代表查看电子邮件指标。 它支持通过Salesforce、Microsoft Dynamics、Outlook插件和Gmail插件发送的电子邮件。
+[Sales Insight电子邮件绩效报表](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)允许您通过电子邮件和销售代表查看电子邮件指标。 它支持通过Salesforce、Microsoft Dynamics、Outlook插件和Gmail插件发送的电子邮件。
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## Facebook自定义受众{#facebook-custom-audiences}
 
-在您的营销人员管理员通过“管理员”>“Launchpoint](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)”添加[Facebook后，您可以轻松创建、更新或将[替换为Marketo静态或智能列表](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)中的潜在客户。 在任何静态或智能列表的潜在客户网格底部查找新的Facebook图标。
+在您的营销人员管理员通过“管理员”>“Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)”添加[Facebook后，您可以轻松创建、更新或将[替换为Marketo静态或智能列表](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)中的潜在客户。 在任何静态或智能列表的潜在客户网格底部查找新的Facebook图标。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## 改进了跨工作区{#improved-cloning-across-workspaces}的克隆
 
-[将程序克](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 隆到另一个工作区从未如此简单！单击克隆时，将选择目标工作区。 不能再克隆到文件夹，然后移动文件夹！
+[将程序克](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 隆到另一个工作区从未如此简单！单击克隆时，将选择目标工作区。 不能再克隆到文件夹，然后移动文件夹！
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 ## 参考智能列表{#reference-smart-list}
 
-[在构建智能列表或流时，可以引用与](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)其他工作区共享的智能列表。
+[在构建智能列表或流时，可以引用与](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) 其他工作区共享的智能列表。
 
 ## 列表导入改进{#list-import-improvements}
 
-[导](../../getting-started/quick-wins/import-a-list-of-people.md) 入以UTF-16、Shift-JIS或EUC-JP编码的文件。我们继续支持UTF-8编码文件。
+[导](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 入以UTF-16、Shift-JIS或EUC-JP编码的文件。我们继续支持UTF-8编码文件。
 
 ## 电子邮件脚本{#link-tracking-in-email-scripting}中的链接跟踪
 
@@ -94,4 +94,3 @@ Rollout将于12月中旬开始，并在今后几个月继续进行。
 我们为In Zone活动添加了新的滑动效果，使您的个性化内容能够在页面加载时滑入到位。
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
-
