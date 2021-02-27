@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: 发行说明 — 2012年5月 — Marketo Docs — 产品文档
 title: 发行说明 — 2012年5月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
 
 # 发行说明：2012年5月{#release-notes-may}
-
->[!NOTE]
->
->**深潜**
->
->有关其他版本，请参阅[发行说明](https://docs.marketo.com/display/docs/release+notes)深入介绍。
 
 ## 重新设计电子邮件性能报告{#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ ht-degree: 0%
 
 需要iOS 5.1或更高版本；仅限iPad。
 
-![](assets/image2014-9-23-10-3a14-3a46.png)图3.事件签入主页
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+图3. 事件签入主页
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -142,4 +138,3 @@ ht-degree: 0%
 ## 增强的潜在客户和联系订阅{#enhanced-lead-and-contact-subscribe}
 
 随时使用记录详细信息页面上新增的“订阅”按钮跟踪潜在客户或联系人。
-
