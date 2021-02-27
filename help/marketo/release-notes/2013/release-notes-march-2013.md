@@ -3,9 +3,9 @@ unique-page-id: 2951101
 description: 发行说明 — 2013年3月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年3月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # 发行说明：2013年3月{#release-notes-march}
 
-3月版包含以下功能。 请检查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)以了解功能可用性。
-
-发布后，请务必查看社区中的[新版本](release-notes-december-2013.md)选项卡，了解每个功能的详细知识库文章！
+3月版包含以下功能。
 
 ## Marketo日历文件{#marketo-calendar-files}
 
-创建一个日历文件，作为&#x200B;**我的令牌**&#x200B;用于事件确认和提醒电子邮件。 此集成的日历文件(例如.ics文件)将呈现所有令牌，包括我的令牌和`{{member.webinar URL}}`令牌。
+创建一个日历文件，作为&#x200B;**我的令牌**&#x200B;用于事件确认和提醒电子邮件。 此集成的日历文件（例如.ics文件）将呈现所有令牌，包括我的令牌和`{{member.webinar URL}}`令牌。
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
