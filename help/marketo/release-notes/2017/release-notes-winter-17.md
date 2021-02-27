@@ -3,9 +3,9 @@ unique-page-id: 12255606
 description: 发行说明 — Winter '17 - Marketo Docs — 产品文档
 title: 发行说明 — 2017年冬季
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [本地化](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## 本地化{#localization}
 
 Web个性化、预测内容和电子邮件洞察应用程序现在提供日语、德语和西班牙语版本。 您[选择您的语言和区域设置](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)以视图这些语言的内容。
 
@@ -71,7 +71,7 @@ Web个性化、预测内容和电子邮件洞察应用程序现在提供日语�
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[预测内容编辑器](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**预测内容编辑器**
 
 改进的编辑体验和布局可按来源（电子邮件、富媒体或推荐栏）拆分内容准备。
 
