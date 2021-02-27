@@ -3,9 +3,9 @@ unique-page-id: 2951124
 description: 发行说明–2012年1月/2月 — Marketo Docs — 产品文档
 title: 发行说明 — 2012年1月/2月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 1月/2月版本包含以下功能。 查看您的Marketo版本以了解功能可用性。 发布后再回来，获取详细功能文档的链接。
 
->[!NOTE]
->
->**深潜**
->
->有关其他版本，请参阅[发行说明](https://docs.marketo.com/display/docs/release+notes)深入介绍。
-
 ## 高级动态内容{#advanced-dynamic-content}
 
-*适用于Pro和Enterprise版本*
+_适用于Pro和Enterprise版本_
 
 利用高级动态内容，您无需为同一消息创建多个资产，即可创建与受众相关、引人入胜的电子邮件通信和登陆页。 升级预览器允许您在单个屏幕中视图每个唯一版本。
 
@@ -31,7 +25,7 @@ ht-degree: 0%
 
 ## 分段{#segmentation}
 
-*适用于Pro和Enterprise版本*
+_适用于Pro和Enterprise版本_
 
 细分是一组细分，是您营销的目标人群。 区段由规则定义，规则由与智能列表类似的筛选条件驱动。 您的细分可以基于人口统计数据，如职位或行业，或基于行为，如访问或单击的网页。
 
@@ -39,7 +33,7 @@ ht-degree: 0%
 
 ## 代码片段{#snippets}
 
-*适用于Pro和Enterprise版本*
+_适用于Pro和Enterprise版本_
 
 存储可反复使用的丰富内容，以创建静态或动态电子邮件和登陆页。
 
@@ -47,7 +41,7 @@ ht-degree: 0%
 
 ## PURL {#purls}
 
-*适用于Pro和Enterprise版本*
+_适用于Pro和Enterprise版本_
 
 使用个性化URL(PURL)，营销人员现在可以创建特定于联系人的URL，从而在直邮和电子邮件活动的多触营销项目中推动个性化、可衡量性并提升响应。
 
@@ -105,4 +99,3 @@ ht-degree: 0%
 了解哪些项目获得了快速移动器，从而洞悉项目的领先速度
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-
