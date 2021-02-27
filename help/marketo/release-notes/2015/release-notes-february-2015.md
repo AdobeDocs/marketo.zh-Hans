@@ -3,9 +3,9 @@ unique-page-id: 6094890
 description: 发行说明 — 2015年2月 — Marketo Docs — 产品文档
 title: 发行说明 — 2015年2月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 营销自动化增强{#marketing-automation-enhancements}
 
-** [移动智能活动](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
+**[移动智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
 欢庆！ 现在，您可以使用拖放或树中的“移动”功能在项目中移入和移出智能活动。
 
-** [Dynamics 2015（在线）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) ** — 支持！
+**[支持Dynamics 2015(在线](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** )!
 
 **HTTPS证书更改**
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 并将以下域的当前使用的安全协议（SHA-1和SSL）替换为更安全的版本(SHA-2（即SHA-256和TLS）：
 
-`·` [marketo.net](https://marketo.net) （加密的Munchkin流量）
+* [marketo.net](https://marketo.net) （加密的Munchkin流量）
 
-`·` [marketo.com](https://marketo.com) （主SaaS应用程序）
+* [marketo.com](https://marketo.com) （主SaaS应用程序）
 
 此版本发布后不久即会发生。 在2015年12月之前，[mktoapi.com](https://mktoapi.com)域上将暂时支持SHA-1协议，以允许旧系统和应用程序的所有者以SHA-2兼容性更新其系统。
 
@@ -41,12 +41,12 @@ ht-degree: 0%
 
 ## 实时个性化增强{#real-time-personalization-enhancements}
 
-** [活动的目标URL](../../product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
+**[目标的URL](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
 使用“添加活动URL”选择希望实时目标显示的页面。 此功能适用于所有活动类型（对话框、区域、构件），但对于活动将仅在所选目标URL的区域ID中呈现的区域活动，此功能特别有用。 它支持向目标不同网页添加多个URL。
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-** [添加到基于帐户的定位的国家/地区和州/地区](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)**
+**添加到基于帐户的定位的国家/地区和州**
 
 现在，可以将国家和州添加到您的指定帐户列表。 目标特定位置的密钥帐户潜在客户。
