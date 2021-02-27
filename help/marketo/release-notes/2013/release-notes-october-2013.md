@@ -3,9 +3,9 @@ unique-page-id: 2951054
 description: 发行说明 — 2013年10月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年10月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 发行说明：2013年10月{#release-notes-october}
 
-2013年10月版包含以下功能。 检查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)以了解功能可用性。
+2013年10月版包含以下功能。
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com展示](https://templates.marketo.com) 电子邮件和登陆页模板（包括响应式移动电子邮件模板），您可以从Marketo项目库下载这些模板。我们将每月添加模板，并经常回访！
+[Templates.marketo.com展示](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) 电子邮件和登陆页模板（包括响应式移动电子邮件模板），您可以从Marketo项目库下载这些模板。我们将每月添加模板，并经常回访！
 
 ## developers.marketo.com {#developers-marketo-com}
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 ## Android平板电脑事件签入应用程序{#android-tablet-event-check-in-app}
 
-使用Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)上提供的全新[基于Android的应用程序](../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)签入，将注册者签入您的事件。[
+使用Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)上提供的全新[基于Android的应用程序](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)签入，将注册者签入您的事件。[
