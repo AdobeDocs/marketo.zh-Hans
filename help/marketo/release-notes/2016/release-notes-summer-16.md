@@ -3,9 +3,9 @@ unique-page-id: 11380218
 description: 发行说明 — 夏季’16 - Marketo Docs — 产品文档
 title: 发行说明 — 2016年夏季
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Marketo Account Based Marketing在一个统一的平台中提供所有基本功�
 >
 >ABM可作为您的Marketo订阅的附加组件提供，因此请联系您的销售代表以实施它。
 
-## [审核跟踪](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [审核跟踪](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 审计跟踪提供了在您的营销订阅中所做更改的完整历史记录。 它将在用户和管理员之间创建责任，帮助确定意外行为的原因，并提供了解谁在做什么和何时做什么的安全性。 此信息将随时可用，并可用于回答以下问题：
 
@@ -39,7 +39,7 @@ Marketo Account Based Marketing在一个统一的平台中提供所有基本功�
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint集成](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint集成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 直接在Marketo中轻松创建SMS消息。 使用丰富的Marketo数据个性化和目标您的信息，并使用SMS消息仪表板轻松监控其性能。
 
@@ -72,7 +72,7 @@ Marketo Account Based Marketing在一个统一的平台中提供所有基本功�
 
 现在可在插入图像体验的“外部URL”区域使用令牌！ 如果您已使用`{{my.tokens}}`指定图像，您现在可以在电子邮件编辑器2.0中引用这些令牌。请注意，图像仍将在电子邮件编辑器2.0画布中显示为损坏。 但是，在发出电子邮件之前，您会看到它们在预览和发送示例中呈现。
 
-## [多个品牌域](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## 多个品牌域{#multiple-branding-domains}
 
 电子邮件跟踪链接只能用单个品牌域进行品牌标识的时代已经一去不复返。 您现在可以添加多个品牌域来激发消费者信心，创建更加流畅的外观以专注于品牌，提高电子邮件的发送能力，并根据每个电子邮件选择要用于每个电子邮件跟踪链接的品牌域。
 
