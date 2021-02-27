@@ -3,9 +3,9 @@ unique-page-id: 12977439
 description: 发行说明–2017年春季 — Marketo Docs — 产品文档
 title: 发行说明 — 2017年春
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 请单击标题链接，以视图每种功能的详细文章。 **注意**:如果一个主题有多个子标题，则链接将放在该位置。
 
-## [LinkedIn潜在客户代Forms](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
+## [LinkedIn潜在客户代Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
 [LinkedIn潜在客户](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 生成表单是企业在LinkedIn上运行潜在客户生成活动的更直接的方式。人们可以填写表单来表达对产品或服务的兴趣，从而使企业能够捕获个人的详细信息并将其同步到Marketo，在Marketo中可以执行自动化的后续流程和潜在客户路由活动。
 
@@ -25,7 +25,7 @@ Marketo与LinkedIn潜在客户代Forms的集成可自动捕获潜在客户在潜
 
 ![](assets/release-notes-image.png)
 
-## [MSI模板过期](https://docs.marketo.com/x/VgIt) {#expire-msi-template}
+## [MSI模板过期](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
 在Sales Insight中清理过时模板的日子已经一去不复返了。 设置您发布电子邮件的到期日期，到期日期延后时，我们会为您处理取消发布的事宜。
 
@@ -41,15 +41,15 @@ Marketo与LinkedIn潜在客户代Forms的集成可自动捕获潜在客户在潜
 
 ## ABM增强{#abm-enhancements}
 
-** [ABM指定帐户上的自定义字段](https://docs.marketo.com/x/1wnG)**
+**[ABM指定帐户上的自定义字段](https://docs.marketo.com/x/1wnG)**
 
 Marketo ABM现在允许您在指定帐户上创建多达10个自定义字段。 您可以将这些自定义字段映射到您的CRM帐户对象中的字段，Marketo ABM将同步数据，从而允许您扩展您的ABM指定帐户并帮助推动您的营销。
 
-**[对ABM命名帐户进行百分点评分](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[ABM命名帐户的百分位评分](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 指定帐户的分数可能相差很大。 Marketo ABM现在会自动计算每个得分的百分点，因此您可以快速了解每个指定帐户在其他指定帐户中的排名。
 
-** [ABM帐户列表API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[ABM帐户列表API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 利用丰富而强大的ABM合作伙伴集成，以及针对指定帐户列表的增强API支持。
 
@@ -57,7 +57,7 @@ Marketo ABM现在允许您在指定帐户上创建多达10个自定义字段。 
 
 ![](assets/dialogoptions.png)
 
-** [滚动时的Web活动](https://docs.marketo.com/x/2grG)**
+**[滚动时Web活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 新的Web活动效果可为您的Web访客提供更加个性化的体验。 将您的个性化Web活动设置为仅当Web访客在您的网页上向下滚动时显示。 您可以根据以下内容将对话框Web活动设置为在滚动时显示：
 
@@ -65,35 +65,35 @@ Marketo ABM现在允许您在指定帐户上创建多达10个自定义字段。 
 * 达到
 * 滚动到页面折叠下方
 
-** [退出时的Web活动](https://docs.marketo.com/x/2grG)**
+**[退出时的Web活动意图](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 在访客关闭您的页面之前捕获他们的注意力。 将您的个性化Web活动设置为仅在鼠标手势指示访客离开页面时显示。
 
-** [Web活动的动画效果](https://docs.marketo.com/x/JgNI)**
+**[针对Web活动的动画效果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 设置对话框Web活动的动画效果，以自定义活动在进入或退出网页时的显示方式。 您可以从6种不同效果中进行选择，并控制对话框的时间和方向。
 
 ![](assets/animationoptins.png)
 
-** [对话框关闭按钮自定义](https://docs.marketo.com/x/JgNI)**
+**[对话框关闭按钮自定义](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 自定义对话框的“关闭按钮”。 从“透明对话框样式Web”活动中使用的一系列选项中进行选择。 选择“关闭按钮”的图标、颜色和位置。 您还可以添加自己的按钮图像。
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-** [存档Web活动](https://docs.marketo.com/x/_grG)**
+**[存档Web活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
 存档是一种新的Web活动状态，它允许您存档Web活动并在默认Web活动视图中隐藏它们。 这样，您就可以专注于最相关、最活跃的活动，并按需检索旧的归档活动。
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-** [本地化](https://docs.marketo.com/x/YAIk)**
+**[本地化](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
 Web个性化现在提供所有市场支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）。
 
 ## 预测增强{#predictive-enhancements}
 
-** [本地化](https://docs.marketo.com/x/YAIk)**
+**[本地化](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
 预测内容现在提供所有市场支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）。
 
