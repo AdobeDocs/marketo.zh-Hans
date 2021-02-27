@@ -3,9 +3,9 @@ unique-page-id: 2951097
 description: 发行说明 — 2013年5月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年5月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 发行说明：2013年5月{#release-notes-may}
 
-5月版包含以下功能。 请检查您的[Marketo](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php)以了解功能可用性。
-
-发布后，请务必查看社区中的[新版本](release-notes-december-2013.md)选项卡，了解每个功能的详细知识库文章！
+5月版包含以下功能。
 
 ## 登陆页{#calendar-files-for-landing-pages}的日历文件
 
@@ -40,4 +38,3 @@ ht-degree: 0%
 “更改进度状态”现在为“更改项目状态”。 更改项目数据现在是更改项目成功
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
-
