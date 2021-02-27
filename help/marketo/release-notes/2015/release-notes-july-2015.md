@@ -3,9 +3,9 @@ unique-page-id: 8783189
 description: 发行说明 — 2015年7月 — Marketo Docs — 产品文档
 title: 发行说明 — 2015年7月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 ## 富文本编辑器更新{#rich-text-editor-update}
 
 更新的文本编辑器具有新式的外观，包括简化的文本格式、图像编辑、链接插入和HTML编辑。 HTML编辑器现在具有最小的验证，允许较少的代码编辑限制。
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 此更新将在7月版本发布后的几天内自动推出。之后，您将能够从&#x200B;**管理>电子邮件>编辑编辑器设置**&#x200B;在编辑器的新版本和旧版本之间切换。 如果您注意到新版文本编辑器存在问题，我们想知道！ 请向[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd)发送简短说明。
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 此更新将在7月版本发布后的几天内自动推出。之后，您将能够从&#x200B;**管理>电子邮件>编辑编辑器设置**&#x200B;在编辑器的新版本和旧版本之间切换。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -54,4 +54,4 @@ ht-degree: 0%
 
 ## 访问电子邮件发送能力{#access-email-deliverability}
 
-**访问电子邮件发送工具：**此新权限允许管理员向用户授予对“电子邮件发送”工具的访问权限。
+**访问电子邮件发送工具**:此新权限允许管理员向用户授予对“电子邮件发送”工具的访问权限。
