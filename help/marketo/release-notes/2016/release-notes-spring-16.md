@@ -3,9 +3,9 @@ unique-page-id: 11370952
 description: 发行说明–2016年春季 — Marketo Docs — 产品文档
 title: 发行说明 — 2016年春
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ’16春季版包含以下功能。 请单击标题链接，以视图每种功能的详细文章。
 
-## [电子邮件洞察](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [电子邮件洞察](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
 Email Insights是一种全新的历史聚合数据电子邮件分析体验 — 作为Project Orion的一部分，重新设计了端对端功能，实现了闪电般的性能。 它采用了经过优化的全新用户界面设计，以满足电子邮件营销人员的需求和工作流程。
 
@@ -31,7 +31,7 @@ Email Insights是一种全新的历史聚合数据电子邮件分析体验 — �
 
 >[!NOTE]
 >
->电子邮件编辑器2.0（使用模板选取器）将从6月3日开始逐步推出。 我们将在6月30日前完成推广。 与电子邮件分析不同，您在有权访问时不会收到通知。 要查看是否这样做，请按照[本文](https://docs.marketo.com/pages/viewpage.action?pageId=11373011)中的步骤操作。
+>电子邮件编辑器2.0（使用模板选取器）将从6月3日开始逐步推出。 我们将在6月30日前完成推广。 与电子邮件分析不同，您在有权访问时不会收到通知。 要查看是否这样做，请按照[本文](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)中的步骤操作。
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -53,17 +53,13 @@ Email Insights是一种全新的历史聚合数据电子邮件分析体验 — �
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [自定义活动](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
-
-Marketo管理员现在可以通过Marketo自定义活动定义建模器定义和管理其自定义活动类型。 与Marketo自定义对象建模器类似（并与之一起），管理员现在可以扩展数据模型以满足其确切的业务需求。 有关如何使用此功能的详细信息，请访问[ Marketo文档站点](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)。
-
 ## [登陆页、登陆页模板和表单API](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Marketo REST API现在支持对Marketo登陆页、登陆页模板和表单的控制。 用户现在可以通过Marketo REST API直接创建、更新内容、批准和删除这些资产。
 
 ## [IP列入允许列表访问API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-与Marketo用户登列入允许列表录的IP功能类似，Marketo管理员现在可以设置一允许列表个IP地址，以访问Marketo SOAP和REST API，从而阻止从未授权的IP地址访问。 这为您的Marketo实例提供了一个增加的安全层，并确保API访问只能从您组织的网络中进行。 有关如何设置的详细信息，请参阅[ Marketo文档站点](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access)。
+与Marketo用户登列入允许列表录的IP功能类似，Marketo管理员现在可以设置一允许列表个IP地址，以访问Marketo SOAP和REST API，从而阻止从未授权的IP地址访问。 这为您的Marketo实例提供了一个增加的安全层，并确保API访问只能从您组织的网络中进行。 有关如何设置的详细信息，请参阅[ Marketo文档站点](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)。
 
 ## [全新高速Microsoft Dynamics同步连接器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -100,3 +96,7 @@ Marketo REST API现在支持对Marketo登陆页、登陆页模板和表单的控
 现在，您可以视图所有已发布自定义对象的记录和字段数。
 
 ![](assets/custom-objects-grid.png)
+
+## 自定义活动{#custom-activities}
+
+Marketo管理员现在可以通过Marketo自定义活动定义建模器定义和管理其自定义活动类型。 与Marketo自定义对象建模器类似（并与之一起），管理员现在可以扩展数据模型以满足其确切的业务需求。 有关如何使用此功能的详细信息，请访问[ Marketo文档站点](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)。
