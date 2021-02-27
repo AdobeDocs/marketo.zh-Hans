@@ -3,9 +3,9 @@ unique-page-id: 2951119
 description: 发行说明 — 2012年4月 — Marketo Docs — 产品文档
 title: 发行说明 — 2012年4月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 发行说明：2012年4月{#release-notes-april}
 
 ## 分段过滤器和触发器{#segmentation-filters-and-triggers}
-
->[!NOTE]
->
->**深潜**
->
->有关其他版本，请参阅[发行说明](https://docs.marketo.com/display/docs/release+notes)深入介绍。
 
 您是否一致地目标同一组潜在客户？ 如果是，请在您的智能列表中使用细分定位潜在客户。 通过细分，您的整个潜在客户数据库始终处于细分状态，并且可以在您的项目中重复使用，以实现一致性。 分段结果会快速提取，因为它们不需要在请求时运行智能列表。
 
@@ -63,4 +57,3 @@ ht-degree: 0%
 允许用户为其过渡规则定义订单。
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-
