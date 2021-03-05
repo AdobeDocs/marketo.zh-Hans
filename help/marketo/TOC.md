@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 市场指南
 user-guide-description: 营销产品文档
 translation-type: tm+mt
-source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '7833'
+source-wordcount: '7857'
 ht-degree: 0%
 
 ---
@@ -210,6 +210,7 @@ ht-degree: 0%
          + [编辑和删除Marketo自定义对象字段](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
          + [导入自定义对象数据](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [触发自定义对象更改](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
+         + [自定义对象元数据导出](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + 设置{#settings}
          + [更改Analytics的归因设置](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [更改您的营销人员密码](product-docs/administration/settings/change-your-marketo-password.md)
@@ -325,6 +326,7 @@ ht-degree: 0%
             + [更改项目状态](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [更改项目成功](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
          + Microsoft Dynamics Flow Actions {#microsoft-dynamics-flow-actions}
+            + [从Dynamics活动添加或删除人物](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [在Microsoft中更改所有者](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [在Microsoft中创建任务](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [将Person同步到Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
@@ -529,6 +531,8 @@ ht-degree: 0%
             + [Microsoft Dynamics同步：机会同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
             + [Microsoft Dynamics同步：用户同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [同步状态](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
+            + [活动同步概述](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
+            + [启用活动同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
          + 自定义Dynamics同步筛选器详细信息{#custom-dynmaics-sync-filter-details}
             + [创建自定义Dynamics同步筛选器](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [电子邮件地址的自定义同步筛选器规则](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
@@ -580,6 +584,7 @@ ht-degree: 0%
          + [添加/删除选择列表值](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [启用/禁用Salesforce同步](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [默示的Salesforce操作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce同步状态](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + 需求生成{#demand-generation}
       + 广告网络集成{#ad-network-integrations}
          + [将Facebook自定义受众添加为LaunchPoint服务](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
@@ -782,9 +787,9 @@ ht-degree: 0%
                + [模板12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [模板12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1278,7 +1283,7 @@ ht-degree: 0%
          + 配置{#configuration}
             + [在Salesforce Enterprise/Unlimited中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce专业版中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
-            + [Salesforce中的Marketo Sales Insight“配置”选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Salesforce中的Marketo Sales Insight配置选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Marketo管理员的销售分析页面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
          + 功能{#features}
             + [MSI功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
@@ -1645,10 +1650,11 @@ ht-degree: 0%
 + 发行说明{#release-notes}
    + [发行计划](release-notes/release-schedule.md)
    + 2020年{#2020}
-      + [发行说明：’20年2月](release-notes/2020/release-notes-feb-20.md)
       + [发行说明：’20年1月](release-notes/2020/release-notes-jan-20.md)
-      + [发行说明：’20年7月](release-notes/2020/release-notes-july-20.md)
+      + [发行说明：’20年2月](release-notes/2020/release-notes-feb-20.md)
       + [发行说明：’20年6月](release-notes/2020/release-notes-june-20.md)
+      + [发行说明：’20年7月](release-notes/2020/release-notes-july-20.md)
+      + [发行说明：’20年10月](release-notes/2020/release-notes-oct-20.md)
    + 2019年{#2019}
       + [发行说明：’19年8月](release-notes/2019/release-notes-august-19.md)
       + [发行说明：’19年6月](release-notes/2019/release-notes-june-19.md)
