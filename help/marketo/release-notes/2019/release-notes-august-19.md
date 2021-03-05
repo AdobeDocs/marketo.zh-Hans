@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: 发行说明 — ’19年8月 — Marketo Docs — 产品文档
 title: 发行说明 — ’19年8月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ ht-degree: 0%
 
 **Marketo Sales Connect** ![(star)](assets/star-yellow.svg)
 
-* **入职**:分步演练通过指导新用户完成实例设置，使入门培训更简单、高效。
 * **人物页面布局增强：** 通过列表导入和新人物页面布局中的批量操作来管理您的人物和组。
 
 >[!AVAILABILITY]
