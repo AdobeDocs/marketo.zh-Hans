@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: 发行说明 — ’19年6月 — Marketo Docs — 产品文档
 title: 发行说明 — 2019年6月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 0%
 ## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Salesforce自定义中的批量操作**:通过发送电子邮件和通过Salesforce自定义批量向活动添加联系人，从而最大限度地提高生产效率。
-* **选择、拖放**:借助将模板拖放到直观的类别中的功能，轻松组织Sales Connect实例。
 * **设置 — 管理员和非管理员的Salesforce页面**:使用与Sales Connect连接的Salesforce实例以及与Salesforce的My Email更新的清晰视图来管理您的Sales Connect实例。管理员、非管理员和团队范围同步的增强同步设置将在未来几个月内发布。
 * **设置 — 集成页**:一站式商店，支持所有集成功能，让您能够充分利用我们的开放式生态系统。
 * **设置 — 用户档案页**:视图和更新帐户详细信息，更改密码，并在此新用户档案页上检查实例实施的状态。
