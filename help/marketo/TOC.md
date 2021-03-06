@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 市场指南
 user-guide-description: 营销产品文档
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
-source-wordcount: '7857'
+source-wordcount: '7875'
 ht-degree: 0%
 
 ---
@@ -187,6 +187,7 @@ ht-degree: 0%
          + [自定义字段类型词汇表](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [在Marketo中删除自定义字段](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [编辑列表导入的字段别名](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+         + [导出所有对象元数据](product-docs/administration/field-management/export-all-object-metadata.md)
          + [导出所有Marketo API字段名的列表](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [由字段的数据使用的导出](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [隐藏和取消隐藏字段](product-docs/administration/field-management/hide-and-unhide-a-field.md)
@@ -246,6 +247,7 @@ ht-degree: 0%
          + [导出用户和角色列表](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [管理Marketo用户](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [管理用户角色和权限](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+         + [导出角色和权限](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [角色权限描述](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [为片段启用非草稿](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + 工作区和人员分区{#workspaces-and-person-partitions}
@@ -434,6 +436,7 @@ ht-degree: 0%
          + 令牌{#tokens}
             + [管理我的令牌](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [了解我的令牌在项目](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+            + [项目成员自定义字段令牌](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + 营销日历{#marketing-calendar}
          + 了解日历{#understanding-the-calendar}
             + [发布/撤销营销日历许可证](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -787,9 +790,9 @@ ht-degree: 0%
                + [模板12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [模板12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1027,6 +1030,7 @@ ht-degree: 0%
          + [Sales Connect概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Sales Connect入门](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [快速开始视频和Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [更改您的Sales Connect密码](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + 电子邮件设置{#email-settings}
             + [添加标识](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [添加您的电子邮件签名](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
