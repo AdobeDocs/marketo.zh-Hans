@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: 使用Opportunity Influcent Analyzer - Marketo Docs — 产品文档讲述营销案例
 title: 使用机会影响分析器讲述营销案例
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    机会影响分析器直观地显示了该机会中所涉及的交互和项目及事件成功。 让我们浏览一下图表：
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** 代表 [机](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) 会中的有趣时刻（打开的电子邮件、展会展位访问、白皮书下载等）。更大的点表示更多的交互。
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** 代表了机会中的有趣时刻（打开的电子邮件、展会展位访问、白皮书下载等）。更大的点表示更多的交互。
 
    * ![ — 活](assets/image2014-10-3-13-3a44-3a9.png) **页夹图** 标表示项目成功。
 
