@@ -137,7 +137,7 @@ Audit Trail优惠了解谁在您的Marketo订阅中做什么。 下面是详细�
   </tr> 
   <tr> 
    <td>编辑</td> 
-   <td>编辑模块 <module name><attribute> 到"value"</td> 
+   <td>编辑模块 <code>"<module name>" <attribute></code> 到"value"</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
