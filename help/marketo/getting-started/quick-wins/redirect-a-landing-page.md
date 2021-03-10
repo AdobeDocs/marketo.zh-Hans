@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2359428
-description: 重定向登陆页- Marketo文档——产品文档
+description: 重定向登陆页- Marketo Docs — 产品文档
 title: 重定向登陆页
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!PREREQUISITES]
 >
->* [设置并添加人物](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 >* [登陆页表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 >* [使用CNAME自定义登陆页URL](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
@@ -32,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/admin.png)
 
-1. 转至&#x200B;**登陆页**。
+1. 转到&#x200B;**登陆页**。
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
@@ -48,7 +47,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >请记住，您只能将Market的登陆页重定向到[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
+   >请记住，您只能将与Market开始的登陆页重定向到[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
 
 1. 单击第二个&#x200B;**原始URL**&#x200B;下拉框，然后选择要重定向的登陆页。
 
@@ -64,4 +63,4 @@ ht-degree: 0%
 
 <br> 
 
-[÷¿î:更新潜在客户数据](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[◄任务9:更新潜在客户数据](/help/marketo/getting-started/quick-wins/update-person-data.md)
