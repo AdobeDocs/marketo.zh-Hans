@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 市场指南
 user-guide-description: 营销产品文档
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '7875'
+source-wordcount: '7885'
 ht-degree: 0%
 
 ---
@@ -491,7 +491,8 @@ ht-degree: 0%
             + [键盘快捷键词汇表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
             + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
             + [重命名Marketo资产](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [设置Adobe Experience Cloud受众共享](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+            + [设置Adobe Experience Cloud受众共享](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+            + [从Adobe Experience Cloud同步受众](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
             + [了解文件夹](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
             + [了解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
             + [通知类型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
@@ -790,7 +791,7 @@ ht-degree: 0%
                + [模板12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [模板12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1028,7 +1029,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + 入门{#getting-started}
          + [Sales Connect概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Sales Connect入门](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Sales Connect入门](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
+         + [我的用户档案页](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [快速开始视频和Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [更改您的Sales Connect密码](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + 电子邮件设置{#email-settings}
@@ -1287,7 +1289,7 @@ ht-degree: 0%
          + 配置{#configuration}
             + [在Salesforce Enterprise/Unlimited中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce专业版中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
-            + [Salesforce中的Marketo Sales Insight配置选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Salesforce中的Marketo Sales Insight“配置”选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Marketo管理员的销售分析页面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
          + 功能{#features}
             + [MSI功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
