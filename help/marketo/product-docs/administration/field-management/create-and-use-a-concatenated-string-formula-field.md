@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2360337
-description: 创建并使用连接字符串（公式）字段- Marketo Docs —— 产品文档
+description: 创建和使用连接字符串（公式）字段 — Marketo Docs — 产品文档
 title: 创建并使用连接字符串（公式）字段
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -39,14 +39,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   了解有关流步骤[令牌的更多信息](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
+   >[!TIP]
+   >
+   >了解有关流步骤[令牌的更多信息](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
 
 1. 现在，您可以在电子邮件中将公式字段添加为令牌。
 
    ![](assets/seven.png)
 
-干得好！ 现在，您有一个智能的领域，它知道根据性别加入哪些问候。 玩得开心，尽情发挥创意。
-
 >[!NOTE]
 >
->公式字段可用于登陆页、电子邮件和智能列表列；它们不会导出。 具有公式字段的电子邮件无法通过批活动发送
+>公式字段可用于登陆页、电子邮件和智能列表列（不导出）。 具有公式字段的电子邮件可以&#x200B;**不能**&#x200B;使用批活动发送。 请在此方案中使用[电子邮件脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)。
+
+干得好！ 现在，您有一个智能的领域，它知道根据性别包含哪些问候。 玩得开心，尽情发挥创意。
