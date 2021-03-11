@@ -1,11 +1,11 @@
 ---
 unique-page-id: 7504770
-description: 视图组织服务URL - Marketo Docs —— 产品文档
+description: 视图组织服务URL - Marketo Docs — 产品文档
 title: 视图组织服务URL
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 视图组织服务URL {#view-the-organization-service-url}
 
-Marketo需要组织服务URL才能与Dynamics本地实例同步。 下面是如何在Dynamics中找到它。
+Marketo需要组织服务URL才能与Dynamics实例同步。 下面是如何在Dynamics中找到它。
 
-1. 登录Dynamics。 单击“设置”图标，然后选择“高级设置”**。**
+1. 登录Dynamics。 单击“设置”图标，然后选择&#x200B;**高级设置**。
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ Marketo需要组织服务URL才能与Dynamics本地实例同步。 下面是如�
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**开发人员资源**。
+1. 单击&#x200B;**Developer Resources**。
 
    ![](assets/three.png)
 
@@ -31,4 +31,4 @@ Marketo需要组织服务URL才能与Dynamics本地实例同步。 下面是如�
 
    ![](assets/four.png)
 
-1. 将此URL复制并粘贴到Marketo，然后享受其余的同步。
+1. 将该URL复制并粘贴到Marketo，然后享受其余的同步。
