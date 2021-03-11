@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Sales Insight Page for Marketo Admins - Marketo Docs — 产品文档
 title: Marketo管理员的销售分析页面
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -85,4 +85,14 @@ Marketo管理员在Sales Insight中具有特定权限。 了解他们的下面�
 
 **启用RSS源：**
 
-启用后，MSI用户可以在RSS源中视图其潜在客户源（Salesforce中的潜在客户源除外）。
+启用后，MSI用户可以在RSS源中视图其潜在客户源（Salesforce中的潜在客户源除外）。 RSS源仅在禁用“令牌到期”功能时才能正常工作。
+
+**令牌到期：**
+
+令牌过期在功能管理器中控制。 要启用/禁用此功能，请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)。 启用后，所有Marketo令牌将在10分钟内过期。 禁用后，Marketo令牌将不会过期。
+
+在启用令牌过期之前生成的令牌将没有要验证的过期时间，因此即使当前已启用该功能，它们也不会过期。
+
+启用令牌过期后生成的令牌的过期时间为10分钟，因此即使在禁用该功能后，它们仍将在10分钟后过期。
+
+令牌行为将基于其生成时间（当令牌到期功能处于启用/禁用状态，而不是其当前功能状态）。
