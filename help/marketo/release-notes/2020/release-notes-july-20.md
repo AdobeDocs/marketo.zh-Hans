@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: 发行说明 — 1920年7月 — Marketo Docs — 产品文档
 title: 发行说明 — ’20年7月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,11 @@ ht-degree: 0%
 以下功能按非季度周期发布，将在未来几个月发布。
 
 * **Forms服务**:我们引入了更强的表单域语法验证功能，以及使用新的安全域阻止常见机器人模式以实现登陆页功能的能力。阻止机器人模式可减少垃圾邮件表单提交次数并提高数据库质量。
+
+>[!NOTE]
+>
+>增强表单字段语法验证的完全推出已推迟到我们2021年1月版之后。
+
 * **增加了资产API URI大小限制**:在删除&quot;_method&quot;参数之前，统一资源标识符(URI)大小限制从8KB增加到65KB。当执行长查询字符串时，此大小限制的增加将使数据更容易传递。 删除“_method”参数是即将进行的安全升级的一部分。
 
 ## 销售分析{#sales-insight}
