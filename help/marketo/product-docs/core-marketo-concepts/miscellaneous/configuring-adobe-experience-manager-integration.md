@@ -1,11 +1,11 @@
 ---
 unique-page-id: 30081815
-description: 配置Adobe Experience Manager集成- Marketo Docs —— 产品文档
+description: 配置Adobe Experience Manager集成 — Marketo Docs — 产品文档
 title: 配置Adobe Experience Manager集成
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!CAUTION]
 >
->目前，仅Firefox完全支持此功能。 Safari中不支持，并且可能在最新版Chrome(v. 80)中无法使用，具体取决于您的SameSite cookie设置。
+>目前，仅Firefox完全支持此功能。 Safari中不支持此功能，并且可能无法在最新版Chrome(v. 80)中工作，具体取决于您的SameSite Cookie设置。
 
 1. 导航到Adobe Experience Manager(URL特定于您的公司)。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/2a.png)
 
-1. 在您的浏览器中，搜索（Windows上的ctrl+f,Mac上的cmd+f）“AdobeGranite跨来源资源共享策略”。
+1. 在您的浏览器中，搜索（Windows上的ctrl+f，Mac上的cmd+f）“Adobe Granite跨来源资源共享策略”。
 
    ![](assets/three.png)
 
@@ -71,8 +71,8 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. 输入AEM URL，然后单击&#x200B;**确定**。
+1. 输入您的AEM URL，然后单击&#x200B;**确定**。
 
    ![](assets/twelve.png)
 
-   你们都准备好了！ 您现在可以[以Marketo Sky](https://help.marketo.com/hc/en-us/articles/360036765993)的形式将AEM资源导入Design Studio。
+   你都准备好了！ 您现在可以[将AEM资源导入Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio)中的Design Studio。
