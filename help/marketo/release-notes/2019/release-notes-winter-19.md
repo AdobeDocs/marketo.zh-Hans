@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 发行说明 — Winter '19 - Marketo Docs — 产品文档
 title: 发行说明 — 2019年冬季
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 ## 基于帐户的营销{#account-based-marketing}
 
-**[基于ABM人物的分割与过滤](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
+**[基于ABM人物的分割与过滤](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
 为指定帐户中的特定角色个性化您的ABM活动。 “ABM人物”功能基于潜在客户细分创建默认职务，并允许配置其他人物细分。
 
