@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 市场指南
 user-guide-description: 营销产品文档
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '7923'
+source-wordcount: '7949'
 ht-degree: 0%
 
 ---
@@ -44,48 +44,48 @@ ht-degree: 0%
       + [要评论的事项：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [获取帮助的方式](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + 产品文档{#product-docs}
-   + 基于帐户的营销{#account-based-marketing}
+   + 目标帐户管理{#target-account-management}
       + 设置{#setup}
-         + [基于帐户的营销概述](product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md)
-         + [ABM入门](product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md)
-         + [颁发许可证](product-docs/account-based-marketing/setup-abm/issue-a-license.md)
-         + [权限](product-docs/account-based-marketing/setup-abm/permissions.md)
-         + [帐户分数](product-docs/account-based-marketing/setup-abm/account-score.md)
-         + [帐户团队设置](product-docs/account-based-marketing/setup-abm/account-team-setup.md)
-         + [为CRM发现创建自定义字段](product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)
-         + [设置帐户分析](product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
-         + [Account Insight插件概述](product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)
-         + [邀请用户访问帐户分析](product-docs/account-based-marketing/setup-abm/invite-users-to-access-account-insight.md)
+         + [基于帐户的营销概述](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [ABM入门](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [颁发许可证](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [权限](product-docs/target-account-management/setup-tam/permissions.md)
+         + [帐户分数](product-docs/target-account-management/setup-tam/account-score.md)
+         + [帐户团队设置](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [为CRM发现创建自定义字段](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [设置帐户分析](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Account Insight插件概述](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [邀请用户访问帐户分析](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
       + 目标{#target}
          + 指定帐户{#named-accounts}
-            + [指定帐户概述](product-docs/account-based-marketing/target/named-accounts/named-account-overview.md)
-            + [导入指定帐户](product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)
-            + [将现有指定帐户添加到帐户列表](product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [创建指定帐户](product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
-            + [将人员添加到指定帐户](product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
-            + [Discover帐户](product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-            + [潜在客户到帐户匹配](product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-            + [在指定帐户中筛选](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
-            + [删除指定帐户](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
-            + [ABM等级](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [创建层次](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
-         + [帐户列表](product-docs/account-based-marketing/target/account-lists.md)
-         + [在LinkedIn上创建匹配受众](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+            + [指定帐户概述](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [导入指定帐户](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [将现有指定帐户添加到帐户列表](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [创建指定帐户](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [将人员添加到指定帐户](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Discover帐户](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [潜在客户到帐户匹配](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [在指定帐户中筛选](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [删除指定帐户](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [ABM等级](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [创建层次](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [帐户列表](product-docs/target-account-management/target/account-lists.md)
+         + [在LinkedIn上创建匹配受众](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + 参与{#engage}
-         + [帐户过滤器](product-docs/account-based-marketing/engage/account-filters.md)
-         + [帐户触发器](product-docs/account-based-marketing/engage/account-triggers.md)
+         + [帐户过滤器](product-docs/target-account-management/engage/account-filters.md)
+         + [帐户触发器](product-docs/target-account-management/engage/account-triggers.md)
       + 度量{#measure}
-         + [ABM主仪表板](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-         + [ABM报告设置](product-docs/account-based-marketing/measure/abm-report-setup.md)
-         + [ABM销售报告](product-docs/account-based-marketing/measure/abm-sales-report.md)
-         + [客户列表洞察](product-docs/account-based-marketing/measure/account-list-insights.md)
-         + [RCA中的指定帐户Dimension](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-         + [指定帐户分析](product-docs/account-based-marketing/measure/named-account-insights.md)
-         + [使用角色](product-docs/account-based-marketing/using-personas.md)
+         + [ABM主仪表板](product-docs/target-account-management/measure/abm-main-dashboard.md)
+         + [ABM报告设置](product-docs/target-account-management/measure/abm-report-setup.md)
+         + [ABM销售报告](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [客户列表洞察](product-docs/target-account-management/measure/account-list-insights.md)
+         + [RCA中的指定帐户Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [指定帐户分析](product-docs/target-account-management/measure/named-account-insights.md)
+         + [使用角色](product-docs/target-account-management/using-personas.md)
    + 帐户分析{#account-profiling}
-      + [设置帐户分析](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
-      + [帐户分析排名和调整](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [新帐户发现](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
+      + [设置帐户分析](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+      + [帐户分析排名和调整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+      + [新帐户发现](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + 其他应用程序{#additional-apps}
       + SEO {#seo}
          + 了解SEO {#understanding-seo}
@@ -527,7 +527,9 @@ ht-degree: 0%
                + [第3步，共3步：将Microsoft Dynamics与Marketo连接（联机）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + 为Dynamics {#set-up-oauth-authentication-for-dynamics}设置OAuth身份验证
                + [同意客户端ID和应用程序注册](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+               + [设置Microsoft Dynamics CRM联机应用程序](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [为On-prem设置Microsoft Dynamics CRM应用程序](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
+               + [为Azure AD Federated设置MSD，预先安装AD FS、租户和Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Microsoft Dynamics同步详细信息{#microsoft-dynamics-sync-details}
             + [默认动态字段映射](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics同步：帐户同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -594,6 +596,7 @@ ht-degree: 0%
          + [添加/删除选择列表值](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [启用/禁用Salesforce同步](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [默示的Salesforce操作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce同步错误](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce同步状态](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + 需求生成{#demand-generation}
       + 广告网络集成{#ad-network-integrations}
@@ -797,7 +800,7 @@ ht-degree: 0%
                + [模板12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [模板12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1295,7 +1298,7 @@ ht-degree: 0%
          + 配置{#configuration}
             + [在Salesforce Enterprise/Unlimited中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce专业版中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
-            + [Salesforce中的Marketo Sales Insight“配置”选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Salesforce中的Marketo Sales Insight配置选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Marketo管理员的销售分析页面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
          + 功能{#features}
             + [MSI功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
