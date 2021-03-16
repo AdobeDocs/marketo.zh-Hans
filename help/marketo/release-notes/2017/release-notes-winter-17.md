@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: 发行说明 — Winter '17 - Marketo Docs — 产品文档
 title: 发行说明 — 2017年冬季
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Web个性化、预测内容和电子邮件洞察应用程序现在提供日语�
 
 ## 基于帐户的营销增强{#account-based-marketing-enhancements}
 
-**[导入指定帐户](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)**
+**[导入指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 使用“指定帐户导入”选项，通过CSV上传一次创建或更新多个记录。
 
