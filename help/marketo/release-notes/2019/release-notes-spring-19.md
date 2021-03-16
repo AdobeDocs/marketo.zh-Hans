@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: 发行说明 — 2019年春季 — Marketo Docs — 产品文档
 title: 发行说明 — 2019年春季
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 基于帐户的营销
 
-**[](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** AccountAINow通常可用。AccountAI使用人工智能来揭示您应为ABM战略目标的帐户。
+**[](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** AccountAINow通常可用。AccountAI使用人工智能来揭示您应为ABM战略目标的帐户。
 
 <br> 
 
