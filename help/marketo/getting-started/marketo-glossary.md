@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo术语表 — Marketo Docs — 产品文档
 title: Marketo词汇表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
    <td colspan="1">此术语的含义可以不同：<br>-Your Marketo实例本身可以称为您的Marketo帐户。<br> — 在 <strong>ABM中</strong>，指 <strong>定</strong> 帐户是用户确定的要追踪的目标帐户。<br> — 在ABM中，CRM帐户是从您链接的CRM( <strong>Salesforce</strong> 、MS Dynamicsor  <strong>API</strong>中的帐户)映 <strong>射</strong>  <strong></strong>的帐户。<br> — 在您的CRM中，帐户是与潜在客户和联系人关联的业务/公司。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">基于帐户的营销</a> (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">基于帐户的营销</a> (ABM)</strong></td> 
    <td colspan="1">一个附加功能，允许您以高度协调的方式目标和参与关键帐户。</td> 
   </tr> 
   <tr> 
@@ -48,7 +48,7 @@ ht-degree: 0%
    <td colspan="1">（以前称为AccountAI）在<strong>ABM</strong>中，使用您的理想客户用户档案(ICP)，将对数据库中的现有公司进行排名，并将排名作为您帐户的分数添加。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md" rel="nofollow">帐户分数</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">帐户分数</a></strong></td> 
    <td colspan="1">在<strong>ABM</strong>中，它是分配给帐户的分数，可帮助您确定其参与程度。</td> 
   </tr> 
   <tr> 
@@ -446,7 +446,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## K {#k}
+## I {#k}
 
 <table> 
  <colgroup> 
@@ -651,7 +651,7 @@ ht-degree: 0%
    <td colspan="1">人员分区的作用类似于单独的<strong>数据库</strong>。 每个分区都有其自己的人员，他们不会与其他分区进行重复数据消除或混合。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/account-based-marketing/using-personas.md" rel="nofollow"><strong>角色</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>角色</strong></a></td> 
    <td colspan="1">在Marketo的<strong>基于帐户的营销</strong>中，角色是受众的子集，允许更具体的定位。</td> 
   </tr> 
   <tr> 
