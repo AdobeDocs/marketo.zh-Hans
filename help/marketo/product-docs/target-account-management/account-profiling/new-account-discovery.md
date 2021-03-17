@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 新帐户发现 — Marketo Docs — 产品文档
 title: 新帐户发现
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >建议在执行新帐户搜索之前按&#x200B;**更新现有帐户**&#x200B;按钮，以确保查看最新数据。 此更新最多可能需要24小时。
 
-1. 在“我的市场”中，单击&#x200B;**ABM**。
+1. 在My Marketo中，单击&#x200B;**目标帐户管理**。
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. 单击&#x200B;**帐户概要分析**&#x200B;选项卡。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >“新帐户”显示列表ABM中尚未包含的帐户。 根据您选择的过滤器，这些帐户可能会对您有新用。
+   >“新帐户”显示列表TAM中尚未包含的帐户。 根据您选择的过滤器，这些帐户可能会对您有新用。
 
 1. 选择所有适用的过滤器（此部分是高度可自定义的，以下只是演示过滤的一个示例）。
 
