@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: 删除指定帐户 — Marketo Docs — 产品文档
 title: 删除指定帐户
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -33,4 +33,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >无法在ABM中删除已同步到CRM的帐户。 如果删除选项不可用，或者您收到“These accounts can not be deleted arome CRM accounts is selected”（因为选择了一个或多个CRM帐户，无法删除这些帐户）消息，则必须在CRM中直接删除这些帐户。
+   >无法在TAM中删除已同步到CRM的帐户。 如果删除选项不可用，或者您收到“These accounts can not be deleted arome CRM accounts is selected”（因为选择了一个或多个CRM帐户，无法删除这些帐户）消息，则必须在CRM中直接删除这些帐户。
