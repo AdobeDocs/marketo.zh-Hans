@@ -3,7 +3,7 @@ unique-page-id: 11380789
 description: RCA中的指定帐户Dimension- Marketo Docs — 产品文档
 title: RCA中的指定帐户Dimension
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # RCA {#named-account-dimension-in-rca}中的指定帐户Dimension
 
-使用收入周期分析中特定于ABM的指定帐户维度构建基于收入的报告。
+使用收入周期分析中特定于TAM的指定帐户维度构建基于收入的报表。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->以下是收入周期分析中Marketo ABM的一些示例。
+>以下是收入周期分析中Marketo TAM的一些示例。
 
 指定帐户中的管道加速
 
