@@ -3,7 +3,7 @@ unique-page-id: 11381917
 description: 基于帐户的营销概述 — Marketo Docs — 产品文档
 title: 基于帐户的营销概述
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -42,12 +42,12 @@ Marketo ABM由三部分组成：
 **3)衡量**
 
 * 帐户和列表级洞察
-* 帐户参与分数
+* 客户参与得分
 * 管道和收入影响
 
-Marketo Account Based Marketing还优惠了各种工具，以便在渠道之间个性化指定的帐户体验。
+Marketo Account Based Marketing还提供各种工具，用于跨渠道个性化指定的客户体验。
 
-* 电子邮件和登陆页个性化
+* 电子邮件和登录页面个性化
 * Web个性化
 * URL [个性化](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 * 广告[个性化](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
@@ -55,10 +55,10 @@ Marketo Account Based Marketing还优惠了各种工具，以便在渠道之间�
 
 我进去了！ 如何开始？
 
-我们以为你不会问！ ABM可作为您的Marketo订阅的附加组件提供，因此请与您的销售代表联系以实施它。 获得后，请查看此文章：[ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-abm.md)快速入门。
+我们以为你不会问！ ABM可作为Marketo订阅的附加组件提供，因此请联系您的销售代表以实施它。 一旦获得，请查看本文：[ABM入门](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md)。
 
 >[!NOTE]
 >
->Marketo ABM中管理的指定帐户可从Web ABM直接访问，以满足Web个性化需求。 了解更多[此处](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)。
+>Marketo ABM中管理的指定帐户可从Web ABM直接访问，以满足Web个性化需求。 单击此处](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)了解更多信息。[
 
-欢迎使用Marketo ABM，尽享有针对性营销！
+欢迎使用Marketo ABM，享受有针对性的营销！
