@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: 帐户列表- Marketo Docs — 产品文档
 title: 帐户列表
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中构建智能列表和Web活动时，在Marketo Account Based Marketing中创建的帐户列表会自动可用。
+>在[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中构建智能列表和Web活动时，在Marketo 目标帐户管理中创建的帐户列表会自动可用。
 
 ## 创建新帐户列表{#create-a-new-account-list}
 
