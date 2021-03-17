@@ -3,7 +3,7 @@ unique-page-id: 26837421
 description: 在LinkedIn - Marketo Docs — 产品文档上创建匹配受众
 title: 在LinkedIn上创建匹配受众
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 在LinkedIn {#create-a-matched-audience-on-linkedin}上创建匹配受众
 
-从您的ABM帐户列表中为LinkedIn广告定位创建匹配受众。
+从您的TAM帐户受众中为LinkedIn广告定位创建匹配的列表。
 
 >[!PREREQUISITES]
 >
 >[将LinkedIn匹配受众添加为LaunchPoint服务](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. 在ABM中，单击&#x200B;**帐户列表**&#x200B;选项卡。
+1. 在TAM中，单击&#x200B;**帐户列表**&#x200B;选项卡。
 
    ![](assets/one-1.png)
 
