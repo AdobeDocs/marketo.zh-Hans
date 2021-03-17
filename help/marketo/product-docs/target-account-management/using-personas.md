@@ -3,9 +3,9 @@ unique-page-id: 17727818
 description: 使用角色 — Marketo Docs — 产品文档
 title: 使用角色
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 在树中，选择&#x200B;**ABM**。
+1. 在树中，选择&#x200B;**目标帐户管理**。
 
-   ![](assets/two.png)
+   ![](assets/using-personas-2.png)
 
 1. 单击&#x200B;**编辑**。
 
