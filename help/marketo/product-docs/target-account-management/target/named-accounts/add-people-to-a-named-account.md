@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: 将人员添加到指定帐户 — Marketo Docs — 产品文档
 title: 将人员添加到指定帐户
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 将人员添加到指定帐户{#add-people-to-a-named-account}
 
-在ABM中，手动将人员添加到指定帐户有三种不同的方法。
+在TAM中，有三种不同的方法可手动将人员添加到指定帐户。
 
 ## 单流操作{#single-flow-action}
 
