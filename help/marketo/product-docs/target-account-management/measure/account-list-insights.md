@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: 客户列表洞察 — Marketo Docs — 产品文档
 title: 客户列表洞察
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo ABM会根据生成的渠道或帐户参与分数自动确定帐户列表中最热门的已命名帐户。
+>Marketo TAM会根据生成的渠道或帐户参与分数自动确定帐户列表中最热门的已命名帐户。
 
 ## 帐户列表仪表板{#account-list-dashboard}
 
