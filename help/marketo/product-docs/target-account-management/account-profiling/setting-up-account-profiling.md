@@ -3,7 +3,7 @@ unique-page-id: 17432598
 description: 设置帐户分析 — Marketo Docs — 产品文档
 title: 设置帐户分析
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 请按照以下步骤使用“帐户分析”进行开始。
 
-1. 在“我的市场”中，打开&#x200B;**基于帐户的营销**。
+1. 在“我的市场”中，打开&#x200B;**目标帐户管理**。
 
-   ![](assets/one.png)
+   ![](assets/setting-up-account-profiling-1.png)
 
-1. 单击“帐户分析”选项卡。
+1. 单击&#x200B;**帐户概要分析**&#x200B;选项卡。
 
    ![](assets/two-1.png)
 
