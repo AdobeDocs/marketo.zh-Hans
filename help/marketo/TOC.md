@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 市场指南
 user-guide-description: 营销产品文档
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '7949'
+source-wordcount: '7952'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
    + 目标帐户管理{#target-account-management}
       + 设置{#setup}
          + [基于帐户的营销概述](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
-         + [ABM入门](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [TAM入门](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [颁发许可证](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [权限](product-docs/target-account-management/setup-tam/permissions.md)
          + [帐户分数](product-docs/target-account-management/setup-tam/account-score.md)
@@ -67,17 +67,18 @@ ht-degree: 0%
             + [潜在客户到帐户匹配](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
             + [在指定帐户中筛选](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
             + [删除指定帐户](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-            + [ABM等级](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [TAM层次](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
             + [创建层次](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [帐户列表](product-docs/target-account-management/target/account-lists.md)
+         + [帐户智能列表](product-docs/target-account-management/target/account-smart-lists.md)
          + [在LinkedIn上创建匹配受众](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + 参与{#engage}
          + [帐户过滤器](product-docs/target-account-management/engage/account-filters.md)
          + [帐户触发器](product-docs/target-account-management/engage/account-triggers.md)
       + 度量{#measure}
-         + [ABM主仪表板](product-docs/target-account-management/measure/abm-main-dashboard.md)
-         + [ABM报告设置](product-docs/target-account-management/measure/abm-report-setup.md)
-         + [ABM销售报告](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [TAM主仪表板](product-docs/target-account-management/measure/tam-main-dashboard.md)
+         + [TAM报表设置](product-docs/target-account-management/measure/tam-report-setup.md)
+         + [TAM销售报告](product-docs/target-account-management/measure/tam-sales-report.md)
          + [客户列表洞察](product-docs/target-account-management/measure/account-list-insights.md)
          + [RCA中的指定帐户Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [指定帐户分析](product-docs/target-account-management/measure/named-account-insights.md)
@@ -802,7 +803,7 @@ ht-degree: 0%
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
