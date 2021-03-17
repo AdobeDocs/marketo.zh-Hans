@@ -3,7 +3,7 @@ unique-page-id: 12979282
 description: Account Insight Plug-in Overview - Marketo Docs - Product Documentation
 title: Account Insight插件概述
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Account Insight Plug-in概述{#account-insight-plug-in-overview}
 
-Account Insight是Chrome插件，可为您的销售团队提供可操作的ABM和客户洞察，使他们能够更有效地与客户互动。
+Account Insight是Chrome插件，可向销售团队展示可操作的TAM和客户洞察，使他们能够更有效地与客户互动。
 
 >[!AVAILABILITY]
 >
->包含所有同时具有ABM和Marketo Sales Insight的客户的帐户分析。 对于仅具有ABM的客户，可以通过购买的附加组件获得帐户分析。 每位客户仅限250个帐户分析席位。 有关详细信息，请联系您的销售代表。 没有ABM的客户不能使用它。
+>包含所有具有TAM和Marketo Sales Insight的客户的帐户分析。 对于仅拥有TAM的客户，Account Insight可作为已购买的加载项提供。 每位客户仅限250个帐户分析席位。 有关详细信息，请联系您的销售代表。 没有TAM的客户不能使用它。
 
 >[!CAUTION]
 >
