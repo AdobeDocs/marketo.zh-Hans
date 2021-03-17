@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: 发行说明 — Winter '18 - Marketo Docs — 产品文档
 title: 发行说明 — 2018年冬季
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Marketo正在利用我们的大数据体系结构来增加触发活动吞吐量�
 
 ## 基于帐户的营销增强{#account-based-marketing-enhancements}
 
-**[ABM等级](/help/marketo/product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)**
+**[ABM等级](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
 对于使用Salesforce或Microsoft Dynamics的ABM客户，ABM现在将自动继承（并显示）在CRM中建立的父子关系。 您将能够在汇总报告和活动执行中使用这些关系。
 
