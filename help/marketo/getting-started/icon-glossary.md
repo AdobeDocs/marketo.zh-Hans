@@ -1,17 +1,19 @@
 ---
 unique-page-id: 4720476
-description: 图标词汇表- Marketo Docs —— 产品文档
+description: 图标词汇表 — Marketo Docs — 产品文档
 title: 图标词汇表
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 
-# 图标术语表{#icon-glossary}
+# 图标词汇表{#icon-glossary}
+
+以下是Marketo Classic的图标。 如果您已切换到新的Marketo Engage接口，则可以在此处](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)找到图标词汇表[。
 
 **常规图标**
 
@@ -51,7 +53,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-9-3a20-3a42.png"> 
     </div></td> 
-   <td>编辑／重命名文件夹名称</td> 
+   <td>编辑/重命名文件夹名称</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -79,7 +81,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>成功！(常显示为项目成功、成功运行或活动)</td> 
+   <td>成功！(经常显示为项目成功、成功运行或活动)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -167,7 +169,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-10-3a56-3a28.png"> 
     </div></td> 
-   <td>安全性／注销</td> 
+   <td>安全性/注销</td> 
   </tr> 
   <tr> 
    <td> 
@@ -279,7 +281,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td>标记-项目属性</td> 
+   <td>标签 — 项目属性</td> 
   </tr> 
   <tr> 
    <td> 
@@ -293,21 +295,21 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-8-19-3a20-3a47.png"> 
     </div></td> 
-   <td>宝箱</td> 
+   <td>《宝箱》</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </div></td> 
-   <td>管理员</td> 
+   <td>管理</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-8-3a46-3a19.png"> 
     </div></td> 
-   <td>通知——重要的系统范围警报</td> 
+   <td>通知 — 重要的系统范围警报</td> 
   </tr> 
  </tbody> 
 </table>
@@ -332,7 +334,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a9-3a4.png"> 
     </div></td> 
-   <td>项目-默认类型</td> 
+   <td>项目 — 默认类型</td> 
   </tr> 
   <tr> 
    <td> 
@@ -374,28 +376,28 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a11-3a29.png"> 
     </div></td> 
-   <td>智能活动-活动和触发</td> 
+   <td>智能活动 — 活动和触发</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>请求的智能活动（由Sales Insight或Marketo Flow Action提供）</td> 
+   <td>请求的智能活动（由Sales Insight或Marketo Flow操作）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>智能活动-批处理（之前已执行）</td> 
+   <td>智能活动 — 批处理（之前已执行）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
-   <td>智能活动-非活动或从不执行</td> 
+   <td>智能活动 — 非活动或从未执行</td> 
   </tr> 
   <tr> 
    <td> 
@@ -416,21 +418,21 @@ ht-degree: 0%
     <div> 
      <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
-   <td colspan="1">使用头项目计划电子邮件开始</td> 
+   <td colspan="1">使用“头项目”计划电子邮件开始</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td>智能活动-计划批处理（复选标记指示之前已执行它）</td> 
+   <td>智能活动 — 计划批（复选标记指示之前已执行它）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td>计划批处理活动</td> 
+   <td>计划批活动</td> 
   </tr> 
   <tr> 
    <td> 
@@ -479,7 +481,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </div></td> 
-   <td>社交</td> 
+   <td>Social</td> 
   </tr> 
   <tr> 
    <td> 
@@ -612,7 +614,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-15-3a20-3a13.png"> 
     </div></td> 
-   <td>挑选获胜者</td> 
+   <td>挑选优胜者</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -770,28 +772,28 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-12-3a38-3a15.png"> 
     </div></td> 
-   <td>登陆页-已批准</td> 
+   <td>登陆页 — 已批准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a41-3a12.png"> 
     </div></td> 
-   <td>登陆页/电子邮件模板——未批准</td> 
+   <td>登陆页/电子邮件模板 — 未批准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a43-3a21.png"> 
     </div></td> 
-   <td>登陆页/电子邮件模板——已批准</td> 
+   <td>登陆页/电子邮件模板 — 已批准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a45-3a13.png"> 
     </div></td> 
-   <td>电子邮件——未批准或草稿</td> 
+   <td>电子邮件 — 未批准或草稿</td> 
   </tr> 
   <tr> 
    <td> 
@@ -805,14 +807,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-12-3a48-3a22.png"> 
     </div></td> 
-   <td>Forms-未经批准</td> 
+   <td>Forms — 未批准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a52-3a44.png"> 
     </div></td> 
-   <td>模板——已通过草稿批准</td> 
+   <td>模板 — 使用草稿批准</td> 
   </tr> 
   <tr> 
    <td> 
@@ -833,14 +835,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </div></td> 
-   <td>片段——未批准或草稿</td> 
+   <td>片段 — 未批准或草稿</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </div></td> 
-   <td>片段——已批准</td> 
+   <td>片段 — 已批准</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -886,28 +888,28 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-9-3a55-3a4.png"> 
     </div></td> 
-   <td>收入周期模型(RCM)-未批准</td> 
+   <td>收入周期模型(RCM) — 未批准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a56-3a30.png"> 
     </div></td> 
-   <td>收入周期模型(RCM)-已批准</td> 
+   <td>收入周期模型(RCM) — 已批准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>收入周期模型(RCM)-已通过拟定</td> 
+   <td>收入周期模型(RCM) — 已通过拟定</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a23.png"> 
     </div></td> 
-   <td>报告操作</td> 
+   <td>报表操作</td> 
   </tr> 
   <tr> 
    <td> 
@@ -921,14 +923,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-12-3a56-3a29.png"> 
     </div></td> 
-   <td>新建报告订阅</td> 
+   <td>新建报表订阅</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-12-3a57-3a19.png"> 
     </div></td> 
-   <td>删除报告</td> 
+   <td>删除报表</td> 
   </tr> 
   <tr> 
    <td> 
@@ -963,7 +965,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-13-3a43-3a15.png"> 
     </div></td> 
-   <td>组潜在客户依据</td> 
+   <td>分组潜在客户</td> 
   </tr> 
   <tr> 
    <td> 
@@ -988,7 +990,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td>日历ICS —— 日历，（集成日历）</td> 
+   <td>日历ICS — 日历，（集成日历）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1037,7 +1039,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>视图智能成员（以前为合格成员，当前为最新成员）</td> 
+   <td>视图智能成员（以前已合格，当前）</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1055,7 +1057,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </div></td> 
-   <td>计划活动的循环（多次运行）</td> 
+   <td>计划重现活动（多次运行）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1111,7 +1113,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
-   <td>日期——格式为“MM-DD-YYYY”</td> 
+   <td>日期 — 格式为“MM-DD-YYYY”</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1136,28 +1138,28 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-16-3a27-3a35.png"> 
     </div></td> 
-   <td>智能列表-缓存</td> 
+   <td>智能列表 — 缓存</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a37-3a48.png"> 
     </div></td> 
-   <td>分段或区段——未批准</td> 
+   <td>分段或区段 — 未批准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a39-3a5.png"> 
     </div></td> 
-   <td>分段或段——已批准或已草稿</td> 
+   <td>分段或区段 — 已批准或草稿</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a40-3a49.png"> 
     </div></td> 
-   <td>细分或细分——已批准</td> 
+   <td>分段或区段 — 已批准</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1192,7 +1194,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a39.png"> 
     </div></td> 
-   <td colspan="1">新细分</td> 
+   <td colspan="1">新分段</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
