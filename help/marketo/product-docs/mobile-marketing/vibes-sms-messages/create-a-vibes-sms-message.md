@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: 创建Vibes SMS消息 — Marketo Docs — 产品文档
 title: 创建浏览SMS消息
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 0%
 # 创建查看SMS消息{#create-a-vibes-sms-message}
 
 下面介绍如何创建Vibes SMS消息。
+
+>[!AVAILABILITY]
+>
+>此功能可作为您的Marketo Engage帐户的加载项提供。 要使其正确配置，必须通过Adobe购买。 有关详细信息，请与Adobe客户成功经理联系。
+
+>[!NOTE]
+>
+>SMS文本消息不符合HIPAA。
 
 1. 转到&#x200B;**营销活动**&#x200B;并右键单击项目。
 
