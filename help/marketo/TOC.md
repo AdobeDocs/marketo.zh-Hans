@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 市场指南
 user-guide-description: 营销产品文档
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '7952'
+source-wordcount: '7967'
 ht-degree: 0%
 
 ---
@@ -507,7 +507,7 @@ ht-degree: 0%
          + [修复Dynamics验证同步问题](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 同步设置{#sync-setup}
             + [下载Marketo Lead Management解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [升级Microsoft Dynamics的Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [更新Microsoft Dynamics的Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [验证Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [视图组织服务URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011内部部署{#microsoft-dynamics-2011-on-premises}
@@ -801,9 +801,9 @@ ht-degree: 0%
                + [模板12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [模板12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1036,6 +1036,11 @@ ht-degree: 0%
             + [使用发送警报信息令牌](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [使用我的令牌中的URL](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [电子邮件CC](product-docs/email-marketing/general/email-cc.md)
+   + Marketo Engage下一代体验{#marketo-engage-next-generation-experience}
+      + [概述](product-docs/marketo-engage-next-generation-experience/overview.md)
+      + [新建图标词汇表](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [移动资产](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
+      + [使用全局搜索](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 入门{#getting-started}
          + [Sales Connect概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1292,7 +1297,7 @@ ht-degree: 0%
             + [禁用全局MS Dynamics同步](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [从MS Dynamics实例中卸载MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + 正在更新{#updating}
-            + [更新Microsoft Dynamics的Marketo Sales Insight解决方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [升级Microsoft Dynamics的Marketo Sales Insight解决方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + 适用于Salesforce的MSI {#msi-for-salesforce}
          + 安装{#installation}
             + [在SalesforceAppExchange中安装Marketo Sales Insight包](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
@@ -1392,8 +1397,8 @@ ht-degree: 0%
          + [了解推送通知](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [视图推送通知仪表板](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + 查看SMS消息{#vibes-sms-messages}
-         + [为SMS添加流程步骤](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [创建浏览SMS消息](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+         + [为SMS添加流程步骤](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [SMS消息仪表板](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [在智能列表触发器和过滤器中使用视频短信](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + 个性化{#personalization}
