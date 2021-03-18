@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099102
-description: Microsoft Dynamics MSI的插件版本- Marketo Docs —— 产品文档
-title: Microsoft Dynamics MSI的插件版本
+description: 适用于Microsoft Dynamics MSI的插件版本 — Marketo Docs — 产品文档
+title: 适用于Microsoft Dynamics MSI的插件版本
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '258'
+ht-degree: 4%
 
 ---
 
 
-# Microsoft Dynamics MSI的插件版本{#plug-in-releases-for-microsoft-dynamics-msi}
+# 适用于Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}的插件版本
 
-首次同步到Microsoft Dynamics时，请下载并安装适用于Marketo Sales Insight(MSI)的最新版插件。 Market会定期更新这些插件，以便您返回同一位置下载新版本。
+首次同步到Microsoft Dynamics时，请下载并安装适用于Marketo Sales Insight(MSI)的最新版插件。 Marketo会定期更新这些插件，因此您可以返回同一位置下载新版本。
 
 请[下载与Dynamics版本对应的最新插件](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
@@ -21,12 +21,33 @@ ht-degree: 0%
 >
 >这些版本适用于Dynamics的内部和在线版本。
 
-## 更新MSI解决方案{#updating-your-msi-solution}
+## 升级MSI解决方案{#upgrading-your-msi-solution}
 
-1. 在Dynamics CRM的现有版本上导入解决方案的最新版本(例如：如果您的Dynamics CRM版本为1.4，且最新版本为1.5，则应导入&#x200B;_over_&#x200B;版本1.4)。
-1. 您将看到以下弹出窗口。 选择&#x200B;**更新**&#x200B;和&#x200B;**覆盖自定义**&#x200B;选项，然后单击&#x200B;**导入**。
+1. 通过按Dynamics中的&#x200B;**导入**&#x200B;按钮，将解决方案&#x200B;_导入到Dynamics CRM的现有版本_&#x200B;上。
 
-   ![](assets/one.png)
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
+
+>[!NOTE]
+>
+>示例：如果您的Dynamics CRM具有版本2.0.0.20，且最新版本为2.0.0.21，则应导入&#x200B;_over_&#x200B;版本2.0.0.20。
+
+1. 单击&#x200B;**下一步**。
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
+
+1. 选择&#x200B;**升级的舞台**&#x200B;和&#x200B;**维护自定义**，然后单击&#x200B;**导入**。
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
+
+1. 单击&#x200B;**下一步**。
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
+
+1. 成功导入后，您将看到两个MSI解决方案：MarketoSalesInsight和MarketoSalesInsight_Upgrade。 选择旧版解决方案，然后单击“应用解决方案升级”。
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
+
+就这样！ 升级后，您只能看到一个MSI解决方案。
 
 ## 版本更新{#version-updates}
 
@@ -38,34 +59,39 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
+   <th colspan="1">发行日期</th> 
    <th colspan="1">版本</th> 
-   <th colspan="1">发布日期</th> 
-   <th colspan="1">注释</th> 
+   <th colspan="1">附注</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">10/1/20</td> 
+   <td colspan="1">2.0.0.21</td> 
+   <td colspan="1">错误修复：为具有Sales Insight角色的用户分配对MSI API配置字段的访问权限</td> 
   </tr> 
   <tr> 
    <td colspan="1">07/20/20</td> 
    <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">错误修复：为非同步记录添加验证消息</td> 
+   <td colspan="1">错误修复：为未同步记录添加验证消息</td> 
   </tr> 
   <tr> 
    <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1"><p>错误修复：在MSD API配置中隐藏MSI密码</p></td> 
+   <td colspan="1">错误修复：要隐藏MSD API配置上的MSI密码</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1"><p>错误修复：更改用于显示MSI按钮的MSI角色ID验证</p></td> 
+   <td colspan="1">错误修复：更改显示MSI按钮的MSI角色ID验证</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1"><p>错误修复：取消隐藏所有者字段并将字段设为非必填字段</p></td> 
+   <td colspan="1">错误修复：取消隐藏所有者字段并使字段非必填</td> 
   </tr> 
   <tr> 
    <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1"><p>错误修复：删除MSD CRM站点地图设置链接相关性</p></td> 
+   <td colspan="1">错误修复：删除MSD CRM站点地图设置链接依赖关系</td> 
   </tr> 
  </tbody> 
 </table>
