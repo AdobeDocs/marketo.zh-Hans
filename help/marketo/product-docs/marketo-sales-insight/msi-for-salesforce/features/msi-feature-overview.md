@@ -3,7 +3,7 @@ unique-page-id: 37356893
 description: MSI功能概述 — Marketo Docs — 产品文档
 title: MSI功能概述
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
 workflow-type: tm+mt
 source-wordcount: '908'
 ht-degree: 0%
@@ -97,9 +97,14 @@ Visualforce页面：
 
 * Sales Insight — 打开联系人完整列表页
 
+操作：
+
+* 添加到Marketo活动
+* 发送Marketo电子邮件
+* 添加/从监视列表
+
 以下功能在“帐户布局”页面&#x200B;**中不可用**:
 
-* 操作：添加到Marketo活动、发送Marketo电子邮件、从监视列表添加/删除
 * 星与火焰
 
 ## 业务机会布局{#opportunity-layout}
@@ -115,9 +120,14 @@ Visualforce页面：
 * Sales Insight — 打开联系人完整列表页
 * Marketo机会分析 — 在Marketo中打开机会影响分析器
 
+操作：
+
+* 添加到Marketo活动
+* 发送Marketo电子邮件
+* 添加/从监视列表
+
 以下功能在“业务机会布局”页面中&#x200B;**不可用**:
 
-* 操作：添加到Marketo活动、发送Marketo电子邮件、从监视列表添加/删除
 * 星与火焰
 
 ## 潜在客户和联系列表视图（批量操作）{#lead-and-contact-list-view-bulk-actions}
