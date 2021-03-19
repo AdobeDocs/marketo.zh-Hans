@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 市场指南
 user-guide-description: 营销产品文档
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
-source-wordcount: '7967'
+source-wordcount: '7971'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 + 产品文档{#product-docs}
    + 目标帐户管理{#target-account-management}
       + 设置{#setup}
-         + [基于帐户的营销概述](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [目标帐户管理概述](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [TAM入门](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [颁发许可证](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [权限](product-docs/target-account-management/setup-tam/permissions.md)
@@ -803,7 +803,7 @@ ht-degree: 0%
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1304,7 +1304,7 @@ ht-degree: 0%
          + 配置{#configuration}
             + [在Salesforce Enterprise/Unlimited中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce专业版中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
-            + [Salesforce中的Marketo Sales Insight配置选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Salesforce中的Marketo Sales Insight“配置”选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Marketo管理员的销售分析页面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
          + 功能{#features}
             + [MSI功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
@@ -1322,6 +1322,7 @@ ht-degree: 0%
             + 语言支持{#language-support}
                + [为Salesforce中的多语言支持准备Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo选项卡{#marketo-tab}
+               + [最佳赌局](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [使用潜在客户源](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI配置选项卡{#msi-configuration-tab}
                + [为Sales Insight启用RSS](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
@@ -1332,6 +1333,7 @@ ht-degree: 0%
                + [优先级、紧急性、相对得分和最佳赌注](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [设置要用于Sales Insight中的星形和火焰的分数字段](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + MSI面板{#tabs-in-the-msi-panel}中的选项卡
+               + [电子邮件选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + 有趣的时刻{#interesting-moments}
                   + [有趣的时刻概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
                   + [有趣时刻的令牌](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
@@ -1594,7 +1596,7 @@ ht-degree: 0%
                + [使用字段管理器创建自定义字段组](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Web个性化{#web-personalization}
       + 基于帐户的Web营销{#account-based-web-marketing}
-         + [使用ABM实现基于帐户的Web营销](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
+         + [与TAM的基于帐户的Web营销](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [创建新帐户列表](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [使用帐户创建区段列表](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
       + 入门{#getting-started}
