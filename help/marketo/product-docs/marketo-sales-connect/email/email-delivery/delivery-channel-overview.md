@@ -3,9 +3,9 @@ unique-page-id: 14352407
 description: 投放渠道概述 — Marketo Docs — 产品文档
 title: 投放渠道概述
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -13,38 +13,48 @@ ht-degree: 0%
 
 # 投放渠道概述{#delivery-channel-overview}
 
-我们将分解您可以利用的三种不同渠道，如何选择它们，何时选择它们，以及它们周围的细微差别。
+Marketo Sales Connect为您提供多种投递电子邮件的选项。 本文将回顾您可以利用的投放渠道、如何选择它们以及何时选择它们。
+
+## 建议：通过电子邮件连接{#recommended-gmail-or-exchange-via-email-connection}的Gmail或Exchange
+
+Sales Connect允许通过我们的电子邮件连接服务简化设置并增强交付能力。 电子邮件连接允许每个用户连接到其[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)或[Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)帐户到Sales Connect，以用作所有Sales Connect电子邮件的投放渠道。
+
+与其他投放渠道选项相比，利用Gmail或Exchange具有一些明显的优势：
+
+* 这是一家久经考验的投放渠道，声誉卓著，有助于保持高交付能力。
+* 身份验证方法（如SPF和DKIM）已由您的IT团队配置和管理，因此没有其他设置。
+* 在给定电子邮件网络内发送电子邮件(即以Exchange用户身份向通过Exchange接收电子邮件的公司发送电子邮件)有助于进一步提高交付能力。
+
+请务必注意，这些投放渠道有自己的发送限制，这些限制由Microsoft和Google强制实施。 为了克服这一问题，我们使用限制机制来帮助用户保持这些限制。 在此处了解有关[电子邮件限制的更多信息](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)。
 
 >[!NOTE]
 >
->仅当您从[Web应用程序](https://toutapp.com/login)发送电子邮件时，此信息才相关。 如果您在Gmail或Outlook中使用Sales Connect，您的电子邮件将通过这些电子邮件服务器发送。
+>默认情况下，O365插件将始终使用您的exchange投放渠道，而Gmail插件将始终利用您的Gmail投放渠道从插件发送电子邮件。
 
-## MSC电子邮件服务器（默认）{#msc-email-servers-default}
+**跳出跟踪**:MSC可以检测发送到发件人收件箱的弹回消息，从而检测Exchange Online或Gmail用户的弹回。这些弹出通知将汇总到模板分析、活动分析和用户实时信息源通知中。 Exchange On-Prem客户不支持跳出跟踪。
 
-默认情况下，将为电子邮件的投放选择此方法。 MSC电子邮件服务器是不使用Gmail或Outlook的用户的绝佳选择。 此外，由于它们是我们的服务器，因此我们能够接收有关弹回或失败投放的任何错误消息，并将它们呈现到“对话”选项卡的“失败投放”部分中。
+## 通过SMTP {#custom-delivery-channel-via-smtp}自定义投放渠道
 
-使用MSC服务器的另一个好处是，当使用[电子邮件标识](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)时，收件人将看到您创建的标识的电子邮件地址。
+Sales Connect会优惠连接第三方SMTP服务器以用作销售团队首选投放渠道的其他选项。
 
-使用MSC服务器时，您的收件人可能会看到“via toutapp.com”标记。 这是他们的电子邮件客户端，告知他们电子邮件是使用Sales Connect发送的。
+对于以电子邮件量为首要任务的销售团队而言，使用第三方SMTP提供商是一个不错的选择。 SMTP提供商（如Sendgrid和Sparkpost）经过优化，可满足批量电子邮件投放的需求，并可进行扩展以满足那些希望部署大量电子邮件的用户的需求。
 
-有关详细信息，请查看此[Gmail帮助文章](https://support.google.com/mail/answer/1311182?hl=en)。
+此外，第三方SMTP提供商还优惠了大量功能来帮助支持团队的可交付性需求(如电子邮件投放报告和专用IP地址)，因此对于那些希望获得更精细的控制并了解其销售电子邮件投放渠道的人来说，这是一个不错的选择。
 
->[!NOTE]
+## MSC Servers（旧版）{#msc-servers-legacy}
+
+MSC服务器仅对某些旧版ToutApp客户可用。 这些客户将在电子邮件设置中看到MSC服务器。 所有非传统客户都不会将MSC视为一个选项，应将他们的Gmail或Outlook帐户连接到Sales Connect，以解锁投放渠道。
+
+MSC服务器不支持DKIM和SPF身份验证方法，这可以降低交付率。 因此，我们建议所有客户连接到Gmail或Outlook，以获得最佳交付能力。
+
+## Marketo服务器{#marketo-servers}
+
+Marketo电子邮件服务器不与Sales Connect集成。 Marketo服务器经过优化，可进行批量投放，使其能够根据营销人员的需求进行扩展。 但是，Gmail和Exchange在1:1销售通信方面的成功率更高，因此我们建议将这些服务器用于您的销售通信。
+
+>[!MORELIKETHIS]
 >
->我们的MSC服务器没有可用的[DMARC记录](https://dmarc.org/)。 它们不能列在您自己的服务器上的白名单中。
+>* [针对Gmail用户的电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Outlook用户的电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [设置自定义投放渠道](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+>* [电子邮件连接限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
 
-## Gmail服务器{#gmail-server}
-
-如果公司的电子邮件提供商是Gmail，您可以利用现有帐户发送Sales Connect电子邮件。 如果您希望避免“via toutapp.com”信息，并且希望依赖公司域的声誉和交付能力，这是一个不错的选择。 使用Gmail服务器的另一个好处是，从Web应用程序发送的任何内容都将自动添加到您的Gmail发送文件夹。
-
-我们只能正确连接一个Gmail帐户（一个电子邮件地址），该帐户将发送您的Sales Connect电子邮件。 这意味着如果您使用多个电子邮件身份，则查看详细信息时只会显示我们所连接帐户的地址。
-
-在Web应用程序中，您的标识将显示为您已创建的标识（上）。 但是，通过Gmail服务器发送将显示连接帐户的地址。
-
->[!NOTE]
->
->由于Sales Connect不直接管理您的Gmail服务器，因此我们不会在Web应用程序中记录退回的电子邮件事件。
-
-## 自定义SMTP服务器{#custom-smtp-server}
-
-购买您自己的服务器？ 是否使用Microsoft Exchange环境? 这是您的选择。 请查看[这些说明](https://docs.marketo.com/x/zYTS)，了解如何设置。 与Gmail服务器一样，由于Sales Connect不直接管理您的服务器，因此我们不会在Web应用程序中记录退回的电子邮件事件。
