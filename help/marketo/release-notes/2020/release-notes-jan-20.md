@@ -3,7 +3,7 @@ unique-page-id: 37355534
 description: 发行说明 — 2020年1月 — Marketo Docs — 产品文档
 title: 发行说明 — 2020年1月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -19,7 +19,9 @@ ht-degree: 0%
 >
 >由星形(![(star)](assets/star-yellow.svg))表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
 
-**_季_** 度版本以下功能将于2020年1 **月17日发布**。
+**_季度发行_**
+
+以下功能将于2020年1月17日&#x200B;**发布**。
 
 ## 核心Marketo EngageAdobe应用程序{#core-marketo-engage-adobe-application}
 
