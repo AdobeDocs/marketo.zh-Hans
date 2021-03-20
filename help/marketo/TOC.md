@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 市场指南
 user-guide-description: 营销产品文档
 translation-type: tm+mt
-source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '7971'
+source-wordcount: '7986'
 ht-degree: 0%
 
 ---
@@ -599,12 +599,14 @@ ht-degree: 0%
          + [默示的Salesforce操作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Salesforce同步错误](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce同步状态](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [设置OAuth 2.0](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
    + 需求生成{#demand-generation}
       + 广告网络集成{#ad-network-integrations}
+         + [了解广告网络集成](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [将Facebook自定义受众添加为LaunchPoint服务](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [将Google客户匹配添加为LaunchPoint服务](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [将LinkedIn匹配受众添加为LaunchPoint服务](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
-         + [了解广告网络集成](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
+         + [将列表发送到广告网络](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + 事件{#events}
          + 了解事件{#understanding-events}
             + [将成员添加到事件项目](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -801,9 +803,9 @@ ht-degree: 0%
                + [模板12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [模板12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1112,7 +1114,7 @@ ht-degree: 0%
             + [向Salesforce添加电子邮件](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [附加内容](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [日历功能](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
-            + [Gmail用户的“电子邮件连接”选项卡](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+            + [针对Gmail用户的电子邮件连接](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail未加入销售连接签名](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [如何添加模板](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
             + [如何安装ToutApp Browser Extension](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
@@ -1124,7 +1126,7 @@ ht-degree: 0%
             + [Sales Connect工具栏](product-docs/marketo-sales-connect/email-plugins/gmail/the-sales-connect-tool-bar.md)
             + [Gmail中出现意外错误](product-docs/marketo-sales-connect/email-plugins/gmail/unexpected-error-in-gmail.md)
          + MSC for Outlook {#msc-for-outlook}
-            + [Outlook用户的“电子邮件连接”选项卡](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)
+            + [Outlook用户的电子邮件连接](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
             + .NET旧版Add-in {#net-legacy-add-in}
                + [.NET Add-in概述](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
                + [如何从Outlook卸载Sales Connect](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
@@ -1147,8 +1149,8 @@ ht-degree: 0%
             + [测试电子邮件未显示为已查看](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + 电子邮件投放{#email-delivery}
             + [投放渠道概述](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [设置SMTP服务器](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
-            + [设置投放渠道](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
+            + [电子邮件连接限制](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+            + [设置自定义投放渠道](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + 发送销售电子邮件{#send-a-sales-email}
             + [添加模板或活动](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
             + [从Gmail向Salesforce添加电子邮件](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
@@ -1313,6 +1315,7 @@ ht-degree: 0%
                + [在Marketo Sales Insight中配置取消订阅表尾](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [锁定销售模板](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [将电子邮件发布到Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [发送测试电子邮件](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 批量操作{#bulk-actions}
                + [将Marketo Sales Insight选项卡和按钮添加到Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Salesforce Lightning中的批量操作](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
@@ -1672,6 +1675,8 @@ ht-degree: 0%
          + [视图特定标签中的Web活动](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + 发行说明{#release-notes}
    + [发行计划](release-notes/release-schedule.md)
+   + 2021年{#2021}
+      + [发行说明：’21年1月](release-notes/2021/release-notes-jan-21.md)
    + 2020年{#2020}
       + [发行说明：’20年1月](release-notes/2020/release-notes-jan-20.md)
       + [发行说明：’20年2月](release-notes/2020/release-notes-feb-20.md)
