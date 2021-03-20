@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: 针对非本机Salesforce集成的Sales Insight - Marketo Docs — 产品文档
 title: 针对非本机Salesforce集成的Sales Insight
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1277'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 联系您的客户成功经理，为您的Marketo实例启用“MSI非本机”功能。
->* 设置了MSI包的Salesforce帐户。
+>* 在开始设置MSI之前，您的Marketo实例启用“MSI非本机”功能标志（如果未启用，请与客户成功经理联系）。
+>* 设置[MSI包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)的Salesforce帐户。
 >* Marketo REST API [已成功设置](https://developers.marketo.com/rest-api/)。 公开的CRUD API将是执行非本机同步的基础。
 >* 阅读[此博客文章](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)以了解对象和关系。
 >* 设置Salesforce对象以显示18个字符不区分大小写的全局唯一标识符，而不是15个字符区分大小写的全局唯一标识符。
