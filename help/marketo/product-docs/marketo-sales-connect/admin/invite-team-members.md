@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352402
-description: 邀请团队成员- Marketo Docs —— 产品文档
+description: 邀请团队成员 — Marketo Docs — 产品文档
 title: 邀请团队成员
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 在“管理员设置”下，选择&#x200B;**团队管理**。
+1. 在“管理设置”下，选择&#x200B;**用户管理**。
 
-   ![](assets/two.png)
+   ![](assets/invite-team-members-2.png)
 
-1. 单击&#x200B;**邀请新用户**。
+1. 单击&#x200B;**邀请用户**。
 
-   ![](assets/three.png)
+   ![](assets/invite-team-members-3.png)
 
 1. 输入要添加的个人的电子邮件地址，然后单击&#x200B;**下一步**。
 
