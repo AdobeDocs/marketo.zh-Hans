@@ -3,9 +3,9 @@ unique-page-id: 11385938
 description: 编辑电子邮件的预测内容 — Marketo Docs — 产品文档
 title: 编辑电子邮件的预测内容
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,10 @@ ht-degree: 0%
 1. 要添加或编辑图像URL，请单击&#x200B;**编辑图像**。
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
+
+   >[!CAUTION]
+   >
+   >要确保最佳品质，图像必须为400x400像素或更小。
 
 1. 插入图像URL并单击&#x200B;**添加**。
 
