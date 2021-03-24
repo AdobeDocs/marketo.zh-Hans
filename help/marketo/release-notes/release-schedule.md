@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: 发行计划- Marketo Docs — 产品文档
 title: 发行计划
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 * 进行中 — 我们正在开发和记录内容，以便在指定日期发布
 * 已发运 — 发行版已完成
 
-发布日期可能会更改。
+_发行日期可能会更改_
 
 <table> 
  <colgroup> 
