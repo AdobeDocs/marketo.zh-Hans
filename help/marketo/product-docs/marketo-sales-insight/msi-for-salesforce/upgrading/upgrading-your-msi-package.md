@@ -3,9 +3,9 @@ unique-page-id: 37357050
 description: 升级MSI包 — Marketo Docs — 产品文档
 title: 升级MSI包
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,7 @@ ht-degree: 0%
 1. 您可以通过以下方式升级包：选择“仅限管理员安装”(稍后提供对特定用户档案的MSI访问)、“为所有用户安装”或“为特定用户档案安装”。 在此示例中，我们选择“仅管理员”。 选择后，单击&#x200B;**升级**。
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>建议您仅更新管理员的程序包，然后[根据购买的MSI席位数向特定用户](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)提供访问权限。 或者，您也可以为MSI用户创建特定的Salesforce用户档案，并仅为这些用户安装或升级包。
