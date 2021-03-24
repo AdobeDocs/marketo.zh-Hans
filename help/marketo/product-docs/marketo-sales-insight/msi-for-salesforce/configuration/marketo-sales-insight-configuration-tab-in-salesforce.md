@@ -1,11 +1,11 @@
 ---
 unique-page-id: 42762322
 description: Salesforce中的Marketo Sales Insight配置选项卡 — Marketo Docs — 产品文档
-title: Salesforce中的Marketo Sales Insight“配置”选项卡
+title: Salesforce中的Marketo Sales Insight配置选项卡
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 0%
 
 * 即将推出的事件:能够向用户显示受邀事件、所有事件或完全隐藏此选项卡
 * 即将推出的活动:能够显示所有电子邮件活动或完全隐藏此选项卡
+* 加载即将推出的活动和事件:通过将事件和活动选项卡置于点播“加载即将进行的项目”按钮后，能够减少用户进行的Rest API调用数
 * 选项卡设置 — 默认情况下，所有5个选项卡都可用。 默认情况下，所有5个选项卡都将可用。 您可以在“销售分析”面板中选择标签的顺序。 同一订单将适用于所有布局（潜在客户、联系人、帐户、业务机会）
 
 ![](assets/two.png)
@@ -58,3 +59,7 @@ ht-degree: 0%
 选择执行此操作将擦除SFDC中的所有配置，并且无法恢复它们。 您必须重新配置所有内容。
 
 ![](assets/three.png)
+
+>[!MORELIKETHIS]
+>
+>[为团队设置销售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
