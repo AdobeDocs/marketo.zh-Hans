@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce Enterprise/Unlimited - Marketo Docs — 产品文档中配置Marketo Sales Insight
 title: 在Salesforce Enterprise/Unlimited中配置Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -304,4 +304,5 @@ ht-degree: 0%
 >
 >* [优先级、紧急性、相对得分和最佳赌注](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [将Marketo Sales Insight选项卡和按钮添加到Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+>* [为团队设置销售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 
