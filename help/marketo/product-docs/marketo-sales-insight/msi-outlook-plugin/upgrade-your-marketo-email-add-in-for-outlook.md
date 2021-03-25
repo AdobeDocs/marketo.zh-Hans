@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: 升级Marketo Email Add-In for Outlook - Marketo Docs — 产品文档
 title: 升级Marketolk的Email Add-In for Outlook
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 升级Outlook {#upgrade-your-marketo-email-add-in-for-outlook}的Marketo Email Add-In
 
 当Outlook的Marketo Email Add-in有新版本时，请按照以下说明进行升级。
+
+>[!NOTE]
+>
+>截至10/1/20，最新版Outlook插件不再支持脱机模式。 此操作将在10/1或之后安装/升级后生效。
 
 ## 下载安装程序{#download-installer}
 
@@ -90,13 +94,6 @@ ht-degree: 0%
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook O365（仅限Windows）</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
-  </tr> 
-  <tr> 
    <td>Outlook for Mac</td> 
    <td>不支持</td> 
    <td>不支持</td> 
@@ -110,10 +107,23 @@ ht-degree: 0%
    <td colspan="1">不支持</td> 
    <td colspan="1">不支持</td> 
   </tr> 
+  <tr> 
+   <td colspan="1">Office 365*</td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
+  </tr> 
  </tbody> 
 </table>
 
+*Office 365版本：仅限Windows客户端（在Windows 10、Enterprise或Pro上）。
+
 ## 升级{#upgrade}
+
+1. 识别您的[Microsoft Outlook版本](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)。
+
+1. 从上面的列表中选择您的版本。
 
 1. 运行安装程序。
 
