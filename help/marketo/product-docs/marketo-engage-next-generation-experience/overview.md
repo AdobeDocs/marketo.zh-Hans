@@ -2,9 +2,9 @@
 description: 概述 — Marketo Docs — 产品文档
 title: 概述
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 **树**
 
-树也已升级。 但此时，拖放不可用。 但是，您仍可以移动资产。 了解如何：[移动资产](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md)。
+树也已升级。
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ ht-degree: 1%
   <tr>
    <td>从树拖放到互动流</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>在树中拖放</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>按资产类型和状态筛选</td> 
@@ -194,7 +194,7 @@ ht-degree: 1%
    <td>列出的所有以前的超球项目</td> 
   </tr>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>使用它提供有关您的MEUE体验的反馈</td> 
   </tr>
   <tr>
