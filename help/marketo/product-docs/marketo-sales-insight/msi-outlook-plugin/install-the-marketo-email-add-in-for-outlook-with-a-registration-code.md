@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 使用注册代码 — Marketo Docs — 产品文档安装Outlook的Marketo Email Add-in
 title: 使用注册代码安装Outlook的Marketo Email Add-in
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 >
 >您必须[已获得Marketo Email Add-in许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)。
 
+>[!NOTE]
+>
+>截至10/1/20，最新版Outlook插件不再支持脱机模式。 此操作将在10/1或之后安装/升级后生效。
+
 ## 下载安装程序{#download-installer}
 
 1. 识别[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
@@ -29,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >以下链接当前仅在Chrome中工作。 抱歉给您带来任何不便。
+   >此时，以下链接仅在Microsoft Edge中工作，或在Chrome中右键单击。 抱歉给您带来任何不便。
 
    | Outlook版本 | 32位Outlook | 64位Outlook |
    |---|---|---|
@@ -40,9 +44,11 @@ ht-degree: 0%
    | 2013年展望 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2016 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | 《2019年展望》 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365（仅限Windows） | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook for Mac | 不支持 | 不支持 |
    | Outlook Web应用程序 | 不支持 | 不支持 |
+   | Office 365* | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+
+   *Office 365版本：仅限Windows客户端（在Windows 10、Enterprise或Pro上）。
 
 ## 复制注册代码{#copy-your-registration-code}
 
