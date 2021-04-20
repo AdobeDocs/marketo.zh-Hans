@@ -1,14 +1,14 @@
 ---
 title: my-token-email-script
 description: 我的令牌电子邮件脚本
+exl-id: 8dd28274-578a-4184-b7bb-b46b59ebe410
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # 我的代号：电子邮件脚本
 
