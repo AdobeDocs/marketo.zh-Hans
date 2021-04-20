@@ -1,14 +1,14 @@
 ---
 title: add-content-to-an-engagement-stream
 description: 将内容添加到参与流
+exl-id: c3e5fcf9-bdbd-4a24-8d70-b12c3246c348
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # 将内容添加到参与流
 
@@ -22,21 +22,21 @@ ht-degree: 0%
 
 1. 单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
-   ![图像2](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
+   ![图2](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
 1. 单击&#x200B;**[!UICONTROL Add Content]**。
 
    ![图3](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
-1. 将[!UICONTROL Type]设置保留为“电子邮件”，然后查找／选择要添加的电子邮件。
+1. 将[!UICONTROL Type]设置保留为“电子邮件”，然后查找/选择要添加的电子邮件。
 
-   ![图像4](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-4.png)
+   ![图4](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-4.png)
 
 >[!NOTE]
 >
 >向流中添加内容后，要添加更多内容，只需单击流中选项卡顶部的“内容”。
 
-## 向流添加项目
+## 向流中添加项目
 
 1. 选择您的参与项目。
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 1. 单击&#x200B;**[!UICONTROL Add Content]**。
 
-   ![图像七](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
+   ![图七](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
 1. 将[!UICONTROL Type]更改为项目。
 
@@ -56,10 +56,10 @@ ht-degree: 0%
 
 1. 查找并选择项目。
 
-   ![图像9](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-9.png)
+   ![图9](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-9.png)
 
 1. 在您希望人们体验的项目中选择智能活动。
 
-   ![图像十](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-10.png)
+   ![图10](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-10.png)
 
-**提醒**:智能活动必须具有“参与项目会员”过滤器，才能正常工作。
+**提醒**:智能活动必须包含“参与项目会员”过滤器，才能正常工作。
