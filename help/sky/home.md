@@ -1,20 +1,20 @@
 ---
 title: 概述
 description: 概述
+exl-id: 26684ca6-ea77-423f-9434-3fbfaf7ea3ab
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-
 # Marketo Sky产品文档
 
 ![横幅](/help/sky/assets/images/alt-sky-banner.png)
 
-[!DNL Marketo Sky]接口利用新的设计、工作流和功能帮助您充分利用[!DNL Marketo]。
+[!DNL Marketo Sky]接口利用新的设计、工作流和功能帮助您从[!DNL Marketo]中获得更多益处。
 
 ## 入门
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 热门文章
 
-* [Marketo图像编辑器](/help/sky/marketo-image-editor.md)
+* [Marketo Image Editor](/help/sky/marketo-image-editor.md)
 
 * [保存流动操作](/help/sky/save-flow-actions.md)
 
