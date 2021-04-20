@@ -1,20 +1,20 @@
 ---
 title: delete-a-stream
 description: 删除流
+exl-id: 813e1ba6-96a0-4359-a146-6c7a46ceb4c8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-
 # 删除流
 
 <br> 
 
-如果您曾经需要从参与项目删除流，请按照以下快速简单的步骤操作。
+如果您从参与项目中删除流，请按照以下快速简单的步骤操作。
 
 1. 选择您的参与项目。
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 1. 单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
-   ![图像2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
+   ![图2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
    >[!CAUTION]
    >
