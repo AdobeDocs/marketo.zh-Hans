@@ -1,20 +1,20 @@
 ---
-title: 本地资产在项目
-description: 项目中的本地资产
+title: 本地资产 — 项目
+description: 项目中的本地资源
+exl-id: ea7326a8-3892-4bab-95e3-2ad9e1054e41
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
-# 项目中的本地资产
+# 项目中的本地资源
 
 <br> 
 
-本地资产是组成您的项目的内容。 资产可自定义，使您能够构建自动化的营销计划。 以下是您可以在[!DNL Marketo Sky]中创建的大多数本地资源。
+本地资源是组成您的项目的内容。 资产可自定义，使您能够构建自动化的营销计划。 下面是您可以在[!DNL Marketo Sky]中创建的大多数本地资源。
 
 ![图像1](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 
