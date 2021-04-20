@@ -1,33 +1,33 @@
 ---
-title: 理解——我——令牌
+title: 理解令牌
 description: 了解我的令牌
+exl-id: d56748e2-d742-45dd-96a8-dd80e30d9d8b
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # 了解我的令牌
 
 <br> 
 
-我的令牌是自定义变量，您可以在项目或活动文件夹中创建和使用。 它们的外观如下：`{{_my.Name of Token_}}`
+“我的令牌”是自定义变量，您可以在项目或活动文件夹中创建和使用。 它们看起来是这样的：`{{_my.Name of Token_}}`
 
 ## 示例
 
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-要访问和创建我的令牌，请选择您的项目或活动文件夹，然后转到[!UICONTROL My Tokens]选项卡。 将任何令牌拖放到[!UICONTROL Local Tokens]画布上。
+要访问和创建我的令牌，请选择您的项目或活动文件夹，然后转到[!UICONTROL My Tokens]选项卡。 将任何标记拖放到您的[!UICONTROL Local Tokens]画布上。
 
 ![图像1](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
 >[!CAUTION]
 >
->保存令牌后，无法更改其名称，请谨慎选择。
+>保存令牌后无法更改其名称，请谨慎选择。
 
 >[!NOTE]
 >
@@ -39,15 +39,15 @@ ht-degree: 0%
 
 ## 嵌套令牌
 
-当您创建新令牌时，树中的其他对象可以引用该令牌。 可以在树的较低级别覆盖全局变量。 为便于管理创建令牌的位置提供了命名结构。
+创建新标记时，树中的其他对象可以引用该标记。 可以覆盖树中较低级别的全局变量。 有一种命名结构，用于创建令牌以便于管理。
 
-* **本地令牌：** 该令牌是直接在该项目或文件夹中创建的。
-* **[被覆盖的](/help/sky/override-an-inherited-my-token.md)** 令牌：该令牌已继承，但在此项目或文件夹中出现异常。
-* **继承的** 令牌：令牌是在较高级别项目或文件夹中的某个位置创建的。
+* **本地令牌：** 令牌是直接在该项目或文件夹中创建的。
+* **[被覆盖的](/help/sky/override-an-inherited-my-token.md)** 令牌：该令牌已继承，但在此项目或文件夹中发生异常。
+* **继承的** 令牌：令牌是在树中某个较高级别项目或文件夹中创建的。
 
 您可以在项目或活动文件夹的&#x200B;**[!UICONTROL My Tokens]**&#x200B;选项卡下找到这三种类型。
 
-![图像2](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
+![图2](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
 移动项目和文件夹也会影响令牌。 始终检查以确保在移动过程中不会损坏引用。
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
 ![图3](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-3.png)
 
-![图像4](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-4.png)
+![图4](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-4.png)
 
 **深潜**
 
-进一步了解每个“我的令牌”:
+进一步了解每个My Token:
 
 * [CRM活动](/help/sky/my-token-crm-campaign.md)
 * [日期](/help/sky/my-token-date.md)
