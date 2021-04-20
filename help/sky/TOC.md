@@ -29,7 +29,7 @@ ht-degree: 0%
    + [创建活动文件夹](create-a-campaign-folder.md)
 + Design Studio {#design-studio}
    + [使用Adobe Experience Manager导入资源](importing-assets-with-adobe-experience-manager.md)
-   + [Marketo图像编辑器](marketo-image-editor.md)
+   + [Marketo Image Editor](marketo-image-editor.md)
 + 参与项目{#engagement-programs}
    + [激活和取消激活流内容](activate-and-deactivate-stream-content.md)
    + [向参与项目添加流](add-a-stream-to-an-engagement-program.md)
