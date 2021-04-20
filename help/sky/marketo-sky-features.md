@@ -1,14 +1,14 @@
 ---
 title: marketo-sky-features
 description: Marketo Sky功能
+exl-id: 6e210eab-a96d-4f1e-918b-db8c095f906c
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Sky功能
 
@@ -25,18 +25,18 @@ ht-degree: 0%
 
 ## 个性化
 
-* 我的营销工具
+* 我的Marketo Widget
    * 即将过期
    * 导航
    * Marketo状态
    * 社区博客帖子
-* 我的营销人员个性化视图
+* 我的Marketo个性化视图
 
 ## 营销活动
 
 * 营销活动主页
    * 最近更新的项目和资产
-   * 预定今天
+   * 今天预定
    * 活动触发器总活动
 * 智能活动
    * 保存的规则
@@ -46,10 +46,10 @@ ht-degree: 0%
    * 在收件人时区报告中传送
 * 默认项目
 * 事件项目
-* 所有项目都有批量操作和资产过期
+* 所有项目都具有批量操作和资产过期
 * 工作区详细信息
 * 项目文件夹
-* 活动文件夹（不包括结果选项卡）
+* 活动文件夹（不包括“结果”选项卡）
 * 资产详细信息页面
    * 电子邮件
    * 登陆页
@@ -76,4 +76,4 @@ ht-degree: 0%
    * 电子邮件模板详细信息
    * 登陆页模板详细信息
 * 导入图像
-   * Adobe Experience ManagerDesign Studio中的资源选择器
+   * Adobe Experience Manager Design Studio中的资源选择器
