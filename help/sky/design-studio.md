@@ -13,4 +13,4 @@ ht-degree: 0%
 # Design Studio
 
 * [使用Adobe Experience Manager导入资源](importing-assets-with-adobe-experience-manager.md)
-* [Marketo图像编辑器](marketo-image-editor.md)
+* [Marketo Image Editor](marketo-image-editor.md)
