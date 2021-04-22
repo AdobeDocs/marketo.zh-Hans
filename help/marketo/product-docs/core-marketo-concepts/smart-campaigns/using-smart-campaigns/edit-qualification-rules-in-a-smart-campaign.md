@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146974
-description: 在智能活动中编辑资格规则- Marketo Docs —— 产品文档
+description: 在智能活动中编辑资格规则 — Marketo文档 — 产品文档
 title: 在智能活动中编辑资格规则
+exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
-
 
 # 在智能活动{#edit-qualification-rules-in-a-smart-campaign}中编辑资格规则
 
@@ -23,13 +23,13 @@ ht-degree: 0%
    >
    >您还可以单击“智能活动设置”右侧的&#x200B;**编辑**。
 
-1. 选择引导您的员工通过智能活动流的频率：**每次**、**或**&#x200B;每#天&#x200B;**/**&#x200B;周&#x200B;**/**&#x200B;月&#x200B;**一次。**
+1. 选择引导您的员工使用智能活动流的频率：**每次**、**或**&#x200B;每#天&#x200B;**/**&#x200B;周&#x200B;**/**&#x200B;月&#x200B;**一次。**
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
    >[!NOTE]
    >
-   >当您每天设置一次规则时，Marketo会将其转换为小时。 例如，如果将规则设置为每天一次，而某人在周日晚上的10点获得资格，则直到周一晚上10点才能再次获得资格。 使用周或月时，此逻辑也适用。 一个月总计30天。
+   >当您每天设置一次规则时，Marketo会将其转换为小时。 例如，如果将规则设置为每天一次，而某人在周日晚上10点获得资格，则直到周一晚上10点才能再次获得资格。 在使用周或月时，此逻辑也适用。 一个月总计30天。
 
    >[!NOTE]
    >
