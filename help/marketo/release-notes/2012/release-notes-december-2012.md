@@ -2,14 +2,14 @@
 unique-page-id: 2951107
 description: 发行说明 — 2012年12月 — Marketo Docs — 产品文档
 title: 发行说明 — 2012年12月
+exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2012年12月{#release-notes-december}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 细粒度管理员权限{#granular-admin-permissions}
 
-我们的最新版本通过控制每个角色在Marketo Admin区域中的不同功能的访问权限，为您提供了对管理员角色的更大访问权限和控制。 创建新角色时，您可以分配该角色可以访问的特定管理员功能。
+我们的最新版本通过控制每个角色在Marketo管理区域中的不同功能的访问权限，为您提供了对管理员角色的更大访问权限和控制。 创建新角色时，您可以分配该角色可以访问的特定管理员功能。
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
@@ -43,13 +43,13 @@ Marketo BrightTALK适配器使您能够从实时或点播网络广播捕获出�
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}的Marketo Sales Insight
+## Marketo Sales Insight for Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
 
 Microsoft Dynamics客户现在可以了解销售分析！
 
 ## Dynamics Opportunity Sync {#dynamics-opportunity-sync}
 
-在Marketo和Microsoft Dynamics之间同步业务机会数据。
+在Marketo和Microsoft Dynamics之间同步机会数据。
 
 ## 营销影响的机会报表* {#marketing-influenced-opportunities-report}
 
