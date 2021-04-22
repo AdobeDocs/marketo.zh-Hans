@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099389
-description: Microsoft Dynamics的Marketo插件发行版 — Marketo Docs — 产品文档
-title: Microsoft Dynamics的Marketo插件版本
+description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs — 产品文档
+title: Marketo Plugin Releases for Microsoft Dynamics
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 6%
 
 ---
 
+# Marketo Plugin Releases for Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
 
-# Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}的Marketo插件版本
-
-首次同步到Microsoft Dynamics时，请下载适用于Marketo的插件的最新版本。 Marketo会定期更新这些插件，因此您可以返回同一位置下载新版本。
+首次同步到Microsoft Dynamics时，请下载最新版的Marketo插件。 Marketo会定期更新这些插件，以便您返回同一位置下载新版本。
 
 [下载与您的](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Dynamics版本对应的最新插件。
 
@@ -86,7 +86,7 @@ ht-degree: 6%
    <td colspan="1">错误修复：当潜在客户的同步过滤器设置为NO，而业务机会和联系人没有同步过滤器时，当潜在客户合格时，不会为联系人和业务机会生成创建日志。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2.0.0.16</td> 
+   <td colspan="1">4.0.0.16</td> 
    <td colspan="1">3/29/16</td> 
    <td>错误修复：关闭同步过滤器时，将记录“分配”事件。</td> 
   </tr> 
