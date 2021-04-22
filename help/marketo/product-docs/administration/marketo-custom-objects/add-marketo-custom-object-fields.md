@@ -17,7 +17,7 @@ ht-degree: 0%
 
 字段定义自定义对象使用的特定信息。 链接字段具有连接自定义对象的特殊作业，并在[单独的文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)中介绍。
 
-1. 单击&#x200B;**Admin**，在&#x200B;**数据库管理**&#x200B;中，选择&#x200B;**Marketo Custom Objects**。
+1. 单击&#x200B;**Admin**，在&#x200B;**Database Management**&#x200B;中，选择&#x200B;**Marketo Custom Objects**。
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在您创建自定义对象时，Marketo会自动创建上面显示的三个字段。 Marketo可自动管理这些字段，您无法编辑或删除它们。
+   >上面显示的三个字段由Marketo在创建自定义对象时自动创建。 Marketo会自动管理这些字段，您无法编辑或删除它们。
 
 1. 输入显示名称和说明。
 
