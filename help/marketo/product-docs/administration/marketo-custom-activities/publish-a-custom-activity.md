@@ -1,25 +1,25 @@
 ---
 unique-page-id: 10100272
-description: 发布自定义活动- Marketo Docs —— 产品文档
+description: 发布自定义活动- Marketo文档 — 产品文档
 title: 发布自定义活动
+exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-
 # 发布自定义活动{#publish-a-custom-activity}
 
-您的自定义活动完全符合您的需要。 现在，该发布了！
+您的自定义活动完全符合您的需要。 现在，是时候发布它了！
 
 1. 单击&#x200B;**管理员**。
 
    ![](assets/one-2.png)
 
-1. 在&#x200B;**活动库管理**&#x200B;中，单击&#x200B;**Marketto Custom Sates**。
+1. 在&#x200B;**数据库管理**&#x200B;中，单击&#x200B;**Marketo自定义活动**。
 
    ![](assets/two-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. 单击&#x200B;**自定义活动操作**&#x200B;下拉框，然后选择&#x200B;**发布活动**。
+1. 单击&#x200B;**自定义活动操作**&#x200B;下拉框并选择&#x200B;**发布活动**。
 
    ![](assets/four-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-   ...到“已发布”。
+   ...。
 
    ![](assets/six-2.png)
 
