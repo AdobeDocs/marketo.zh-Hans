@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949228
-description: SEO —— 获取入站链接建议- Marketo Docs —— 产品文档
-title: SEO —— 获取入站链接建议
+description: SEO — 获取入站链接建议 — Marketo Docs — 产品文档
+title: SEO — 获取入站链接建议
+exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
+# SEO — 获取入站链接建议{#seo-get-inbound-link-suggestions}
 
-# SEO —— 获取入站链接建议{#seo-get-inbound-link-suggestions}
+Marketo可以建议哪些入站链接对您的[离页优化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)非常有价值。
 
-Marketo可以建议哪些入站链接对于您的[离页优化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)非常有价值。
-
-1. 转至&#x200B;**入站链接**&#x200B;部分。
+1. 转到&#x200B;**入站链接**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
@@ -33,7 +33,7 @@ Marketo可以建议哪些入站链接对于您的[离页优化](/help/marketo/pr
 
    >[!TIP]
    >
-   >您知道可以[将链接添加到新列表或现有客户](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)吗？ 看看！
+   >您是否知道可以[将链接添加到新列表或现有链接](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? 看看！
 
 1. 太棒了！ 现在将跟踪这些添加的链接。
 
