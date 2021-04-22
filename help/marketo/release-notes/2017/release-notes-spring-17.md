@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12977439
-description: 发行说明–2017年春季 — Marketo Docs — 产品文档
+description: 发行说明 — Spring '17 - Marketo Docs — 产品文档
 title: 发行说明 — 2017年春
+exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：春季’17 {#release-notes-spring}
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 请单击标题链接，以视图每种功能的详细文章。 **注意**:如果一个主题有多个子标题，则链接将放在该位置。
 
-## [LinkedIn潜在客户代Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [linkedIn首席代Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn潜在客户](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 生成表单是企业在LinkedIn上运行潜在客户生成活动的更直接的方式。人们可以填写表单来表达对产品或服务的兴趣，从而使企业能够捕获个人的详细信息并将其同步到Marketo，在Marketo中可以执行自动化的后续流程和潜在客户路由活动。
+[linkedIn Lead Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Form是企业在LinkedIn上运行Lead Generation活动的更直接的方式。人们可以填写表单来表达对产品或服务的兴趣，使企业能够捕获个人的详细信息并将其同步到Marketo，在那里可以执行自动化的后续流程和潜在客户路由活动。
 
-Marketo与LinkedIn潜在客户代Forms的集成可自动捕获潜在客户在潜在客户代表单中提供的信息。 然后，可以使用新的&#x200B;**填写链接的潜在客户表单**&#x200B;触发器和过滤器自动执行后续操作和通知。
+Marketo与LinkedIn Lead Gen Forms的集成可自动捕获潜在客户在潜在客户Gen表单中提供的信息。 随后，可以使用新的&#x200B;**填写LinkedIn潜在客户生成表单**&#x200B;触发器和过滤器自动执行后续操作和通知。
 
 ![](assets/release-notes-image.png)
 
@@ -37,7 +37,7 @@ Marketo与LinkedIn潜在客户代Forms的集成可自动捕获潜在客户在潜
 
 ## [针对人员和活动的批量提取API](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
 
-将大量人员和活动数据从Market轻松传输到外部系统。
+轻松将大量人员和活动数据从Marketo传输到外部系统。
 
 ## ABM增强{#abm-enhancements}
 
@@ -47,7 +47,7 @@ Marketo ABM现在允许您在指定帐户上创建多达10个自定义字段。 
 
 **[ABM命名帐户的百分位评分](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
-指定帐户的分数可能相差很大。 Marketo ABM现在会自动计算每个得分的百分点，因此您可以快速了解每个指定帐户在其他指定帐户中的排名。
+指定帐户的分数可能相差很大。 Marketo ABM现在自动计算您的每个分数的百分点，以便您可以快速了解每个指定帐户在您其他指定帐户中的排名。
 
 **[ABM帐户列表API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
@@ -89,13 +89,13 @@ Marketo ABM现在允许您在指定帐户上创建多达10个自定义字段。 
 
 **[本地化](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-Web个性化现在提供所有市场支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）。
+Web个性化现在提供所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）。
 
 ## 预测增强{#predictive-enhancements}
 
 **[本地化](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-预测内容现在提供所有市场支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）。
+预测内容现在提供所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）。
 
 ## [旧版富文本编辑器和表单编辑器1.0弃用](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
