@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355768
-description: 使用Adobe Experience Manager导入资产- Marketo Docs —— 产品文档
+description: 使用Adobe Experience Manager导入资产 — Marketo Docs — 产品文档
 title: 使用Adobe Experience Manager导入资源
+exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
+# 使用Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}导入资源
 
-# 使用Adobe Experience Manager{#importing-assets-with-adobe-experience-manager}导入资源
-
-资产选取器允许Marketo客户访问、选择AEM资产并将其导入Marketo的Design Studio。 **需要管理员权限**。
+通过资产选取器，Marketo客户可以访问、选择AEM资产并将其导入Marketo Design Studio。 **需要管理员权限**。
 
 >[!AVAILABILITY]
 >
@@ -26,13 +26,13 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->目前，仅Firefox完全支持此功能。 Safari中不支持，并且可能在最新版Chrome(v. 80)中无法使用，具体取决于您的SameSite cookie设置。
+>目前，仅Firefox完全支持此功能。 Safari中不支持此功能，并且可能无法在最新版Chrome(v. 80)中工作，具体取决于您的SameSite Cookie设置。
 
 1. 单击&#x200B;**Design Studio**。
 
    ![](assets/one-1.png)
 
-1. 单击“新建”下拉框，然后选择“从Adobe Experience Manager导入”**。**
+1. 单击“新建”下拉框，然后选择“从Adobe Experience Manager **导入”。**
 
    ![](assets/two-1.png)
 
@@ -62,8 +62,8 @@ ht-degree: 0%
 
 ## 注意事项{#things-to-note}
 
-Marketo目前支持Adobe Experience Manager版本6.4和6.5。
+Marketo目前支持Adobe Experience Manager 6.4和6.5版。
 
 实例中的所有用户都将能够视图/访问您导入的图像。
 
-图像不会自动更新。 如果导入到Marketo Design Studio中的图像在AEM中进行了更新，则必须手动将其重新导入到Marketo中。
+图像不会自动更新。 如果导入到Marketo Design Studio中的图像在AEM中更新，则必须手动将其重新导入Marketo。
