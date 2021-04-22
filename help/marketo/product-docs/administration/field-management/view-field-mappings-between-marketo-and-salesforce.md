@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360344
-description: 视图字段在Marketo和Salesforce之间的映射- Marketo文档——产品文档
-title: Marketo和Salesforce之间的视图字段映射
+description: 视图字段在Marketo和Salesforce之间的映射 — Marketo文档 — 产品文档
+title: 视图字段在Marketo和Salesforce之间的映射
+exl-id: a60835ec-da8f-4141-af54-0160e2531581
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # 视图字段在Marketo和Salesforce之间的映射{#view-field-mappings-between-marketo-and-salesforce}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**字段管理**。
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 >
 >这显示的是Salesforce API名称，而非标签名称。
 
-干得好！ 现在，您了解如何找到您的营销人员字段绑定到的Salesforce字段。
+干得好！ 现在，您了解如何了解您的Marketo字段绑定到的Salesforce字段。
