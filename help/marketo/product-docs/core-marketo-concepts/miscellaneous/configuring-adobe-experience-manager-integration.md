@@ -1,19 +1,19 @@
 ---
 unique-page-id: 30081815
-description: 配置Adobe Experience Manager集成 — Marketo Docs — 产品文档
+description: 配置Adobe Experience Manager集成 — Marketo文档 — 产品文档
 title: 配置Adobe Experience Manager集成
+exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # 配置Adobe Experience Manager集成{#configuring-adobe-experience-manager-integration}
 
-配置AEM，以便您能够访问、选择AEM资产并将其导入Marketo的Design Studio。
+配置AEM，以便您能够访问、选择AEM资源并将其导入Marketo Design Studio。
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 在Marketo Classic中，单击&#x200B;**管理**。
+1. 在Marketo Classic中，单击&#x200B;**Admin**。
 
    ![](assets/nine.png)
 
