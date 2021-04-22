@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100269
-description: 编辑自定义活动- Marketo Docs —— 产品文档
+description: 编辑自定义活动- Marketo Docs — 产品文档
 title: 编辑自定义活动
+exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-
 # 编辑自定义活动{#edit-a-custom-activity}
 
-需要对已创建的自定义活动进行更改？ 这是方法。
+需要对已创建的自定义活动进行更改？ 下面介绍如何操作。
 
 1. 单击&#x200B;**管理员**。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   将显示编辑活动类型。 在本例中，我们将修复打字错误。
+   出现“编辑活动类型”。 在此示例中，我们修复了打字错误。
 
    ![](assets/five-1.png)
 
