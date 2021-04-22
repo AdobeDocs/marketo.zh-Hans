@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949273
-description: SEO —— 使用关键字趋势报表- Marketo文档——产品文档
-title: SEO —— 使用关键字趋势报表
+description: SEO — 使用关键字趋势报表 — Marketo文档 — 产品文档
+title: SEO — 使用“关键字趋势”报表
+exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
+# SEO — 使用关键字趋势报表{#seo-use-the-keyword-trends-report}
 
-# SEO —— 使用关键字趋势报表{#seo-use-the-keyword-trends-report}
-
-在此报告中，您可以了解一段时间内关键字的排名。
+在此报表中，您可以了解关键词的排名随时间变化情况。
 
 ## 加载报告{#load-report}
 
-1. 转至&#x200B;**报告**。
+1. 转到&#x200B;**报告**。
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
@@ -34,9 +34,9 @@ ht-degree: 0%
    | 项目 | 说明 |
    |---|---|
    | 关键字 | 要跟踪的关键字数。 |
-   | 排名URL | 您所设置范围内网站排名中的URL数。 |
-   | 平均 秩 | 在您设置的范围内关键字的平均排名。 |
-   | 平均 搜索 | 在您设置的范围内（过去30天内，在Google U.S.搜索中）对这些关键字进行的平均搜索数 |
+   | 排名URL | 您所设置的范围内网站排名中的URL数。 |
+   | 平均 排名 | 您设置的范围内关键字的平均排名。 |
+   | 平均 搜索 | 在您设置的范围内（过去30天内，在Google U.S.搜索中）发生的对这些关键字的平均搜索数 |
 
 ## 筛选数据{#filtering-data}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a13-3a40.png)
 
-1. 单击排名下拉框以选择要视图关键字的排名范围。
+1. 单击排名下拉框，选择要视图关键字的排名范围。
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
@@ -52,15 +52,14 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以将此报告导出到桌面。
+>您可以将此报表导出到桌面。
 
 1. 单击“导出CSV”或“Export PDF”。
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   干得好！ 您还可以查看在关键字排名中与竞争对手的对比情况。
+   干得好！ 您还可以查看在关键字排名中与竞争对手的比较方式。
 
    >[!NOTE]
    >
-   >[利用竞争KW排名趋势报告](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
-
+   >[使用竞争KW排名趋势报告](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
