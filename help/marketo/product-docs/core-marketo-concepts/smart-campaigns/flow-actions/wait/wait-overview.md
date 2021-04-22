@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146950
-description: 等待- Marketo Docs —— 产品文档
-title: 等待
+description: 等待 — Marketo Docs — 产品文档
+title: 等
+exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # 等待{#wait}
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 ![](assets/wait-overview.png)
 
-注意如何输入自然语言，如“4小时”。 但是，请&#x200B;**不要**&#x200B;缩写单词（即4小时）。 智能活动仍会运行，但等待步骤将被忽略。
+注意，您如何以“4小时”等自然语言输入。 但是，请&#x200B;**不**&#x200B;缩写单词（即4小时）。 智能活动仍将运行，但等待步骤将被忽略。
 
 >[!CAUTION]
 >
->更改等待步骤的持续时间不会影响已输入该步骤的人员。 例如：您有5天的等待步骤，人员进入该步骤，然后您将等待步骤更改为7天——该人员仍只等待原来的5天，然后才能进入下一个流程步骤。
+>更改等待步骤的持续时间不会影响已输入该步骤的人员。 例如：等待步骤为5天，人员进入该步骤，然后您将等待步骤更改为7天 — 该人仍然只等待原始的5天，然后才进入下一个流步骤。
 
 >[!TIP]
 >
->如果有人已经在等待步骤中，而不希望他们在等待期结束后继续，请在等待步骤后插入[从流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)中删除。 使用[添加选择](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)选项指定要删除的人。
+>如果您有人已经在等待步骤中，并且不希望他们在等待期结束后继续，请在等待步骤后插入[从流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)中删除。 使用[添加选择](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)选项指定要删除的对象。
 
 ## 用法{#usage}
 
