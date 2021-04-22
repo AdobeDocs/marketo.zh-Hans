@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2360293
-description: 重命名字段- Marketo Docs —— 产品文档
+description: 重命名字段 — Marketo Docs — 产品文档
 title: 重命名字段
+exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-
 # 重命名字段{#rename-a-field}
 
 >[!NOTE]
 >
->您可以在Marketo中重命名自定义字段，但有一个捕获点：必须先在系统中删除它的所有使用，然后才能这样做。 这包括表单、智能列表和智能活动。
+>您可以在Marketo中重命名自定义字段，但有一个问题：必须先删除系统中的所有使用，然后才能执行此操作。 这包括表单、智能列表和智能活动。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
-1. 转至“管理员”并单击“字段管理”**。**
+1. 转至“Admin”（管理员），然后单击“**Field Management**”。
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果您在Salesforce中重命名API名称，Marketo将创建一个全新字段并将旧字段留下！
+>如果在Salesforce中重命名API名称，Marketo将创建一个全新字段并将旧字段留下！
