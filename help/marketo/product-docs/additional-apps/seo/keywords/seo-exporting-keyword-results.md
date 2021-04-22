@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949210
-description: SEO —— 导出关键字结果- Marketo文档——产品文档
-title: SEO —— 导出关键字结果
+description: SEO — 导出关键字结果 — Marketo Docs — 产品文档
+title: SEO — 导出关键字结果
+exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# SEO —— 导出关键字结果{#seo-exporting-keyword-results}
+# SEO — 导出关键字结果{#seo-exporting-keyword-results}
 
 您可以导出关键字结果与团队共享或创建报表。
 
