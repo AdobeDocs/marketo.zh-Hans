@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359420
-description: 滴滴、滴滴、培养——营销文档——产品文档
-title: 滴水，滴水，培养
+description: Drip、Drip、Nurture - Marketo Docs — 产品文档
+title: 滴，滴，培养
+exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
 
 ---
 
+# 滴水，滴水，培养{#drip-drip-nurture}
 
-# 滴滴，滴滴，培养{#drip-drip-nurture}
-
-## 任务：培养最近参加您的展会的人{#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## 任务：培养最近参加您的贸易展的人{#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 您可以在Marketo中轻松创建高级、复杂的培养系统。 这就是方法！
 
 >[!PREREQUISITES]
 >
->* [设置并添加人物](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [设置并添加人](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 >* [导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
@@ -29,15 +29,15 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. 选择&#x200B;**Learning**&#x200B;文件夹，单击&#x200B;**New**&#x200B;下拉框，然后选择&#x200B;**New项目**。
+1. 选择&#x200B;**Learning**&#x200B;文件夹，单击&#x200B;**New**&#x200B;下拉框，然后选择&#x200B;**New 项目**。
 
    ![](assets/two-4.png)
 
-1. 输入&#x200B;**名称**，并为&#x200B;**项目类型**&#x200B;选择&#x200B;**参与**。
+1. 输入&#x200B;**名称**，然后为&#x200B;**项目类型**&#x200B;选择&#x200B;**参与**。
 
    ![](assets/three-3.png)
 
-1. 确保&#x200B;**渠道**&#x200B;字段为&#x200B;**Nurture**&#x200B;并单击&#x200B;**创建**。
+1. 确保&#x200B;**渠道**&#x200B;字段为&#x200B;**Nurture**，然后单击&#x200B;**创建**。
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 第2步：创建电子邮件{#step-create-an-email}
 
-1. 选择您的参与项目，然后单击&#x200B;**新建**，然后选择&#x200B;**新建本地资产**。
+1. 选择您的参与项目，然后单击&#x200B;**新建**&#x200B;并选择&#x200B;**新建本地资产**。
 
    ![](assets/five-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >看不到电子邮件编辑？ 您的浏览器可能已阻止该窗口。 在您的浏览器中启用[app.marketo.com](https://app.marketo.com)的弹出窗口，然后单击顶部菜单栏中的&#x200B;**编辑草稿**。
+   >没有看到电子邮件编辑器？ 您的浏览器可能已阻止该窗口。 在您的浏览器中启用[app.marketo.com](https://app.marketo.com)的弹出窗口，然后单击顶部菜单栏中的&#x200B;**编辑草稿**。
 
 1. 输入主题。
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
    ![](assets/nine-1.png)
 
-1. 编辑电子邮件，然后单击&#x200B;**保存**。
+1. 编辑您的电子邮件，然后单击&#x200B;**保存**。
 
    ![](assets/ten-3.png)
 
-1. 关闭电子邮件编辑器选项卡／窗口。
+1. 关闭电子邮件编辑器选项卡/窗口。
 
    ![](assets/eleven-3.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/thirteen-2.png)
 
-## 第3步：向流{#step-add-content-to-your-stream}添加内容
+## 第3步：将内容添加到流{#step-add-content-to-your-stream}
 
 1. 现在，是时候使用您创建的电子邮件为您的参与项目创建一系列内容了。
 
@@ -115,7 +115,7 @@ ht-degree: 0%
    >
    >要激活内容，必须先批准。
 
-   干得好！ 再执行一步，就可以进行参与项目。
+   干得好！ 再一步，就可以实现参与项目。
 
 ## 第5步：设置流节奏{#step-set-the-stream-cadence}
 
@@ -127,7 +127,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
-   您的参与项目已设置完毕。 现在，我们将测试人员添加到您的项目。
+   您的参与项目已设置完毕。 现在，让我们将测试人员添加到您的项目。
 
    >[!NOTE]
    >
@@ -147,7 +147,7 @@ ht-degree: 0%
    >
    >确保测试人员具有有效的电子邮件地址，以便您在测试时确认接收电子邮件。
 
-1. 右键单击该人，然后单击项目和添加到参与项目。
+1. 右键单击该人，然后单击“项目”和“添加到参与项目”。
 
    ![](assets/twenty-one.png)
 
