@@ -2,18 +2,18 @@
 unique-page-id: 7511815
 description: 发行说明 — 2015年4月 — Marketo Docs — 产品文档
 title: 发行说明 — 2015年4月
+exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
 
 ---
 
-
 # 发行说明：2015年4月{#release-notes-april}
 
-2015年4月版包含以下功能。 请查看您的Marketo Edition以了解功能可用性。 发布后，请务必回来查找每个功能的详细文章的链接！
+2015年4月版包含以下功能。 请查看Marketo版以了解功能可用性。 发布后，请务必回来查找每个功能的详细文章的链接！
 
 ## 重新设计Analytics主页
 
@@ -31,21 +31,21 @@ ht-degree: 0%
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
-**Marketo移动参与**
+**Marketo Mobile Engagement**
 
-通过Marketo Mobile Engagement，轻松提供引人入胜的移动体验。 创建高度个性化的活动，无需依赖应用程序开发团队即可提供引人注目的内容。 新的过滤器和触发器允许您通过推送通知在移动渠道上进行监听和响应。
+借助Marketo移动互动，轻松提供引人入胜的移动体验。 创建高度个性化的活动，无需依赖应用程序开发团队即可提供引人注目的内容。 新的过滤器和触发器允许您通过推送通知在移动渠道上进行监听和响应。
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
-## LinkedIn Lead Accelerator集成
+## linkedIn Lead Accelerator集成
 
-[LinkedIn Lead Accelerator集成](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+[linkedIn Lead Accelerator集成](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-将您的潜在客户培养战略扩展到付费展示广告和社交广告。 通过带有LinkedIn潜在客户加速器的[广告网络集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)，您可以根据任何智能或静态列表的成员在LinkedIn中安全地创建受众段。 然后，可以使用一系列相关广告来培育LinkedIn受众区段内的成员。
+将您的潜在客户培养战略扩展到付费展示广告和社交广告。 使用带有LinkedIn潜在客户加速器的[广告网络集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)，您可以根据任何智能或静态列表的成员在LinkedIn内安全地创建受众段。 然后，可以使用一系列相关广告来培育LinkedIn受众细分中的成员。
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## Salesforce1的Marketo Sales Insight {#marketo-sales-insight-for-salesforce}
+## Marketo Sales Insight for Salesforce1 {#marketo-sales-insight-for-salesforce}
 
 您最喜爱的Sales Insight功能 — 商机源、最佳押注、有趣时刻和添加到Marketo活动 — 所有功能均在Salesforce1应用程序中提供。
 
