@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146948
-description: 发送电子邮件- Marketo Docs —— 产品文档
+description: 发送电子邮件 — Marketo Docs — 产品文档
 title: 发送电子邮件
+exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # 发送电子邮件{#send-email}
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-10-3a8-3a22.png)
 
-此时将打开一个新的选项卡／窗口，您可以在其中查看电子邮件。
+此时将打开一个新选项卡/窗口，您可以在其中查看电子邮件。
