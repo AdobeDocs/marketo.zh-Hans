@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953384
-description: 为自定义实体启用同步- Marketo Docs —— 产品文档
+description: 为自定义实体启用同步 — Marketo Docs — 产品文档
 title: 为自定义实体启用同步
+exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # 为自定义实体{#enable-sync-for-a-custom-entity}启用同步
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 1. 转至&#x200B;**Admin**&#x200B;部分。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. 选择要同步的字段，或在智能列表中用作[约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或触发器。 完成后，单击&#x200B;**启用同步**。
+1. 选择要同步的字段，或在智能列表中用作[约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和/或触发器。 完成后，单击&#x200B;**启用同步**。
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
@@ -57,4 +57,4 @@ ht-degree: 0%
 
    ![](assets/image2015-11-10-9-3a48-3a35.png)
 
-哦，耶！ 强大的功能。
+哦耶！ 强大的功能。
