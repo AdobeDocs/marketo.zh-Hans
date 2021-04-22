@@ -1,14 +1,14 @@
 ---
 description: 发行说明 — 2021年1月 — Marketo Docs — 产品文档
 title: 发行说明 — 2021年1月
+exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2021年1月{#release-notes-jan-21}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 登陆页和Forms {#landing-pages-and-forms}
 
-* **表单API**:在从非营销表单获取数据的同时，导入潜在客户信息或触发培养活动。非Marketo表单可以通过REST API与Marketo Engage集成。 新的API能够模拟Marketo Engage表单提交与所有相关功能。
+* **表单API**:从非Marketo表单中提取数据时，导入潜在客户信息或触发培养活动。非Marketo表单可以通过REST API与Marketo Engage集成。 新的API能够模拟Marketo Engage表单提交与所有相关功能。
 * **登陆页API**:借助新的登陆页 预览 API简化集成应用程序中的编辑和翻译工作流。第三方供应商现在无需登录Marketo Engage即可呈现完全个性化的预览登陆页。  登陆页 预览 API支持第三方集成应用程序中的端到端编辑和本地化工作流。
 
 ## 电子邮件营销{#email-marketing}
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## Salesforce CRM集成{#salesforce-crm-integration}
 
-* [Salesforce CRM身份验证](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0协议可用于在Marketo Engage和Salesforce CRM之间同步操作。对于新订阅者，此选项默认处于启用状态。 当前订阅者可以联系Marketo Support来请求此功能。
+* [Salesforce CRM身份验证](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0协议可用于在Marketo Engage和Salesforce CRM之间同步操作。对于新订阅者，此选项默认处于启用状态。 当前订阅者可以联系Marketo支持部门来请求此功能。
 * [Salesforce CRM同步仪表板](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md):管理员可以从仪表板快速查看Salesforce CRM同步状态。同步性能报告的时间跨度已从2小时增加到5天。
 * **元数据导出**:增强功能可支持业务机会对象属性、命名帐户、项目成员的标准字段和自定义字段。
 
