@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360364
-description: 步骤2（共3步）-为Marketo创建Salesforce用户(Enterprise/Unlimited)- Marketo文档——产品文档
-title: 第2步（共3步）-为Marketo创建Salesforce用户(Enterprise/Unlimited)
+description: 第2步（共3步） — 为Marketo创建Salesforce用户（企业/无限） — Marketo文档 — 产品文档
+title: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterprise/Unlimited)
+exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%
 
 ---
-
 
 # 第2步，共3步：为Marketo创建Salesforce用户(Enterprise/Unlimited){#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >[第1步，共3步：将Marketo字段添加到Salesforce(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-在本文中，您将在Salesforce用户档案中设置用户权限，并创建Marketo-Salesforce集成帐户。
+在本文中，您将在Salesforce用户档案中设置用户权限，并创建一个Marketo-Salesforce集成帐户。
 
 ## 创建用户档案{#create-a-profile}
 
-1. 单击&#x200B;**安装程序**。
+1. 单击&#x200B;**Setup**。
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 设置用户档案权限{#set-profile-permissions}
 
-1. 单击&#x200B;**编辑**&#x200B;以设置安全权限。
+1. 单击&#x200B;**编辑**&#x200B;设置安全权限。
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. 在“标准对象权限”部分下，确保选中“读取”、“创建”、“编辑”和“删除”权限：
+1. 在“标准对象权限”部分下，确保选中了“读取”、“创建”、“编辑”和“删除”权限：
 
    * 帐户
    * 活动
@@ -78,7 +78,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您计划使用活动同步，请授予活动权限。
+   >如果您计划使用活动同步，则向活动授予权限。
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
@@ -88,13 +88,13 @@ ht-degree: 0%
 
 ## 设置字段权限{#set-field-permissions}
 
-1. 与营销人员讨论，了解同步所需的自定义字段。
+1. 与营销人员讨论，找出同步所需的自定义字段。
 
    >[!NOTE]
    >
-   >此步骤将阻止您不需要的字段显示在Marketo中，这将减少杂乱情况并加快同步速度。
+   >此步骤将阻止您不需要的字段显示在Marketo中，这将减少杂乱并加快同步。
 
-1. 在用户档案详细信息页中，转至&#x200B;**Field-Level Security**&#x200B;部分。 单击&#x200B;**视图**&#x200B;可编辑对象的辅助功能：
+1. 在用户档案详细信息页中，转至&#x200B;**Field-Level Security**&#x200B;部分。 单击&#x200B;**视图**&#x200B;编辑对象的可访问性：
 
    * 潜在客户
    * 联系
@@ -119,7 +119,7 @@ ht-degree: 0%
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 禁用所有不需要的字段后，必须检查以下对象字段的&#x200B;**读取访问和编辑访问**。 完成后，单击&#x200B;**保存**。
+1. 在禁用所有不需要的字段后，必须检查以下对象字段的&#x200B;**读取访问和编辑访问**。 完成后，单击&#x200B;**保存**。
 
 <table> 
  <tbody> 
