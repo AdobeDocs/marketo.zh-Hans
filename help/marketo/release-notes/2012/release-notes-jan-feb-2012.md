@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951124
-description: 发行说明–2012年1月/2月 — Marketo Docs — 产品文档
+description: 发行说明 — 2012年1月/2月 — Marketo Docs — 产品文档
 title: 发行说明 — 2012年1月/2月
+exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2012年1月{#release-notes-jan-feb}
 
@@ -55,7 +55,7 @@ _适用于Pro和Enterprise版本_
 
 ## 单点登录{#single-sign-on}
 
-现在，组织能够使用SAML 2.0支持无缝登录到Marketo应用程序，以便从企业门户进行单点登录。
+现在，组织能够使用SAML 2.0支持无缝登录Marketo应用程序，以便从企业门户进行单点登录。
 
 ## 更新了电子邮件和登陆页编辑器{#updated-email-and-landing-page-editors}
 
