@@ -1,18 +1,18 @@
 ---
 description: 设置OAuth 2.0 - Marketo Docs — 产品文档
 title: 设置OAuth 2.0
+exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # 设置OAuth 2.0 {#setting-up-oauth-2-0}
 
-Salesforce使用OAuth协议，允许应用程序用户通过REST API调用安全访问（使用OAuth 2.0验证应用程序）数据，而无需显示登录凭据。 以下是要执行的步骤，以将Marketo与Salesforce安全连接并同步。
+Salesforce使用OAuth协议，允许应用程序用户通过REST API调用安全访问（使用OAuth 2.0验证应用程序）数据，而无需显示登录凭据。 以下是要执行的步骤，以便将Marketo与Salesforce安全连接并同步。
 
 ## 设置已连接的应用程序{#set-up-connected-app}
 
@@ -49,13 +49,13 @@ Salesforce使用OAuth协议，允许应用程序用户通过REST API调用安全
 >[!PREREQUISITES]
 >
 >* 必须为Salesforce同步用户启用API访问（如果您是Salesforce Professional Edition用户，则默认情况下该访问不可用 — 请与您的Salesforce帐户主管联系）。
->* 必须在Salesforce中创建Marketo Sync用户。
+>* Marketo同步用户必须在Salesforce中创建。
 >* 对于现有客户，在客户订阅上启用了“启用OAuth for SFDC同步”功能。
 >* 弹出窗口阻止程序被禁用。
 >* 已创建连接的应用程序，并且我们拥有消费方密钥和消费方密码可供使用。
 
 
-1. 在Marketo Admin部分，单击&#x200B;**CRM**，然后单击&#x200B;**与Salesforce**&#x200B;同步。
+1. 在“Marketo管理员”部分，单击&#x200B;**CRM**，然后单击&#x200B;**与Salesforce**&#x200B;同步。
 
    ![](assets/setting-up-oauth-2-7.png)
 
@@ -67,7 +67,7 @@ Salesforce使用OAuth协议，允许应用程序用户通过REST API调用安全
 
    ![](assets/setting-up-oauth-2-9.png)
 
-1. 将显示带有salesforce登录页面的弹出窗口。 您的“Marketo Sync用户”凭据中的密钥并登录。
+1. 将显示带有salesforce登录页面的弹出窗口。 您的“Marketo同步用户”凭据中的密钥并登录。
 
    ![](assets/setting-up-oauth-2-10.png)
 
@@ -91,6 +91,6 @@ Salesforce使用OAuth协议，允许应用程序用户通过REST API调用安全
 
    ![](assets/setting-up-oauth-2-15.png)
 
-您在Marketo和Salesforce之间的同步现在正在进行中。
+您在Marketo和Salesforce之间的同步正在进行中。
 
 ![](assets/setting-up-oauth-2-16.png)
