@@ -1,31 +1,31 @@
 ---
 unique-page-id: 10093690
-description: 编辑和删除Marketo自定义对象- Marketo文档——产品文档
+description: 编辑和删除Marketo自定义对象 — Marketo Docs — 产品文档
 title: 编辑和删除Marketo自定义对象
+exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
 # 编辑和删除Marketo自定义对象{#edit-and-delete-a-marketo-custom-object}
 
 >[!NOTE]
 >
->在批准自定义对象后，您不能创建、编辑或删除链接或重复数据消除字段。
+>在批准自定义对象后，您便无法创建、编辑或删除链接或重复数据消除字段。
 
 ## 编辑自定义对象{#edit-a-custom-object}
 
 使用“自定义对象操作”菜单可编辑或删除自定义对象。
 
-1. 单击&#x200B;**Admin**，在&#x200B;**数据库管理**&#x200B;中，选择&#x200B;**Marketto Custom Objects**。
+1. 单击&#x200B;**Admin**，在&#x200B;**Database Management**&#x200B;中，选择&#x200B;**Marketo Custom Objects**。
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
-1. 在右侧选择要编辑的自定义对象。
+1. 选择要在右侧编辑的自定义对象。
 
    ![](assets/image2016-1-18-13-3a33-3a11.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. 请确保批准[已编辑的对象](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)。
+1. 请务必批准[已编辑对象](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)。
 
 ## 删除自定义对象{#delete-a-custom-object}
 
@@ -49,9 +49,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->删除自定义对象后，无法恢复该对象。
+>删除自定义对象后，无法恢复它。
 
-1. 单击&#x200B;**Admin**，在&#x200B;**数据库管理**&#x200B;中，选择&#x200B;**Marketto Custom Objects**。
+1. 单击&#x200B;**Admin**，在&#x200B;**Database Management**&#x200B;中，选择&#x200B;**Marketo Custom Objects**。
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
@@ -65,13 +65,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >也可以右键单击该对象，然后选择“删除对象”**。**
+   >也可以右键单击该对象，然后选择&#x200B;**删除对象**。
 
 1. 如果自定义对象为草稿形式，但尚未批准，您将收到此警告。 如果确定，请单击&#x200B;**删除**。
 
    ![](assets/image2015-9-23-16-3a31-3a2.png)
 
-1. 如果自定义对象已被批准，则删除该对象的风险更大。 你会得到这个严密警告。 输入&#x200B;**我了解**，选中&#x200B;**无法撤消**&#x200B;复选框，然后单击&#x200B;**删除**。
+1. 如果已批准自定义对象，则删除该对象时风险更大。 你会得到这个严重警告。 输入&#x200B;**我了解**，选中&#x200B;**无法撤消**&#x200B;复选框，然后单击&#x200B;**删除**。
 
    ![](assets/image2016-1-15-9-3a49-3a38.png)
 
