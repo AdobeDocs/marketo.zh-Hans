@@ -1,29 +1,29 @@
 ---
 unique-page-id: 17728028
-description: 将缩放添加为LaunchPoint服务- Marketo Docs —— 产品文档
+description: 将缩放添加为LaunchPoint服务 — Marketo Docs — 产品文档
 title: 将缩放添加为LaunchPoint服务
+exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
 # 将缩放添加为LaunchPoint服务{#add-zoom-as-a-launchpoint-service}
 
-Market，管理您的缩放注册和出席情况。
+Marketo管理您的缩放注册和出席情况。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!NOTE]
 >
->此步骤需要现有的缩放和管理订阅。 拥有您用于登录的电子邮件和密码以手动缩放。
+>此步骤需要现有的缩放和管理权限订阅。 拥有您用于登录并手持缩放的电子邮件和密码。
 
-1. 转到&#x200B;**Admin**&#x200B;区域并单击&#x200B;**LaunchPoint**。
+1. 转至&#x200B;**Admin**&#x200B;区域，然后单击&#x200B;**LaunchPoint**。
 
    ![](assets/launchpoint.png)
 
@@ -47,7 +47,7 @@ Market，管理您的缩放注册和出席情况。
 
    ![](assets/create-1.png)
 
-   太好了！ 您的缩放帐户现在与Marketo同步，可在LaunchPoint区域找到。
+   太棒了！ 您的Zoom帐户现已与Marketo同步，可在LaunchPoint区域找到。
 
 >[!CAUTION]
 >
@@ -55,4 +55,4 @@ Market，管理您的缩放注册和出席情况。
 
 >[!MORELIKETHIS]
 >
->了解如何使用Zoom[创建事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
+>了解如何使用Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)创建事件。[
