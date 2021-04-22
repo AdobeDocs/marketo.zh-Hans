@@ -2,20 +2,20 @@
 unique-page-id: 8783189
 description: 发行说明 — 2015年7月 — Marketo Docs — 产品文档
 title: 发行说明 — 2015年7月
+exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
-
 # 发行说明：2015年7月{#release-notes-july}
 
-## Marketo矩{#marketo-moments}
+## Marketo时刻{#marketo-moments}
 
-午饭时外出，但需要重新安排一封电子邮件吗？ App Store或Google Play中提供的Marketo Moments应用程序使您能够实时查看电子邮件和事件活动的效果，以及将来通过iPhone、iPad或Android手机的效果。
+午饭时外出，但需要重新安排一封电子邮件吗？ Marketo Moments应用程序可从App Store或Google Play中获得，它使您能够实时查看电子邮件和事件活动的效果，以及将来从iPhone、iPad或Android手机中看到的效果。
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
