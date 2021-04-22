@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147316
-description: 手动创建人员- Marketo Docs —— 产品文档
+description: 手动创建人员 — Marketo Docs — 产品文档
 title: 手动创建人员
+exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
+# 手动创建{#create-a-person-manually}人员
 
-# 手动创建人员{#create-a-person-manually}
-
-有很多方法可以让一个人进入Marketo。 如果您需要手动创建，请看如何操作。
+有多种方法可以让某人进入Marketo。 如果您需要手动创建，请看如何操作。
 
 1. 转到&#x200B;**Database**。
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-这是在Marketo中添加单人的快速而简便的方法！
+这是在Marketo中添加单个人员的简单快捷方式！
