@@ -1,22 +1,22 @@
 ---
 unique-page-id: 7504744
-description: 安装Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步骤3（共3步） — Marketo Docs — 产品文档
-title: 为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤3（共3步）
+description: 安装Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步骤3（共3步） — Marketo文档 — 产品文档
+title: 安装Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步骤3（共3步）
+exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-
 # 第3步，共3步：Connect Marketo Dynamics（2015 On-Prem和2016 365 On-Prem）{#step-of-connect-marketo-dynamics-on-premises-and-365}
 
 >[!PREREQUISITES]
 >
->* [为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
->* [为Dynamics 2015 On-Prem和2016 365 On-Prem安装Marketo步骤2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+>* [安装Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步骤1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [安装Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步骤2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >请确保您的凭据正确无误，因为我们无法在提交后还原后续模式更改。 如果保存的凭据不正确，您必须获得新的Marketo订阅。
+   >请确保您的凭据正确无误，因为我们无法在提交后还原后续模式更改。 如果保存的凭据不正确，则必须获得新的Marketo订阅。
 
 1. 输入&#x200B;**Username**、**Password** Microsoft Dynamics **URL**&#x200B;和&#x200B;**Client Id/Secret**。 完成后，单击&#x200B;**保存**。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* 如果您的Marketo在2020年10月之前已配置，则客户端ID和机密是可选字段。 否则，它们是强制性的。 获取此信息取决于您使用的MSD版本。
+   >* 如果您的Marketo是在2020年10月之前设置的，则客户端ID和机密是可选字段。 否则，它们是强制性的。 获取此信息取决于您使用的MSD版本。
    >* Marketo中的用户名必须与CRM中同步用户的用户名匹配。 格式可以是`user@domain.com`或DOMAIN\user。
    >* 如果您不知道URL，[将了解如何在此处找到它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
@@ -66,17 +66,17 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-51-28.png)
 
-1. 选择要同步到Marketo的字段，以便预先选择它们。 单击&#x200B;**保存**。
+1. 选择要同步到Marketo的字段，以预先选择它们。 单击&#x200B;**保存**。
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
 
 >[!NOTE]
 >
->Marketo存储对要同步的字段的引用。 如果您在Dynamics中删除字段，我们建议在[sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)的情况下执行此操作。 然后，通过编辑并保存[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)，在Marketo中刷新模式。
+>Marketo存储对要同步的字段的引用。 如果您在Dynamics中删除字段，我们建议在[sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)的情况下执行此操作。 然后，在Marketo中编辑并保存[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)，以刷新模式。
 
 ## 自定义筛选器{#sync-fields-for-a-custom-filter}的同步字段
 
-如果已创建自定义筛选器，请务必进入并选择要与Marketo同步的新字段。
+如果已创建自定义过滤器，请务必进入并选择要与Marketo同步的新字段。
 
 1. 转至“管理员”，然后选择&#x200B;**Microsoft Dynamics**。
 
