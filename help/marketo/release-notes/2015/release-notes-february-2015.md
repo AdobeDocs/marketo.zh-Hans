@@ -2,18 +2,18 @@
 unique-page-id: 6094890
 description: 发行说明 — 2015年2月 — Marketo Docs — 产品文档
 title: 发行说明 — 2015年2月
+exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # 发行说明：2015年2月{#release-notes-february}
 
-2015年2月版包含以下功能。 请查看您的Marketo Edition以了解功能可用性。 发布后，请务必回来查找每个功能的详细文章的链接。 滚鼓……
+2015年2月版包含以下功能。 请查看Marketo版以了解功能可用性。 发布后，请务必回来查找每个功能的详细文章的链接。 滚鼓……
 
 ## 营销自动化增强{#marketing-automation-enhancements}
 
