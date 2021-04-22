@@ -2,14 +2,14 @@
 unique-page-id: 37355534
 description: 发行说明 — 2020年1月 — Marketo Docs — 产品文档
 title: 发行说明 — 2020年1月
+exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2020年1月{#release-notes-jan}
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 >目前，仅Firefox完全支持AEM资产选择器。 Safari中不支持此功能，并且可能无法在最新版Chrome(v. 80)中工作，具体取决于您的SameSite Cookie设置。
 
 * **Microsoft Dynamics — 实时同步导致CRM**:在Marketo Engage和Microsoft Dynamics之间实时同步潜在客户和联系人。创建潜在客户或联系人，并在Microsoft Dynamics中通过“将人与Microsoft同步”流动操作立即查看他们。
-* **LinkedIn潜在客户代Forms附加字段映射**:从LinkedIn潜在客户代Forms捕获潜在客户数据，为销售和营销接触点创建更相关的体验。将隐藏字段、同意字段和测试潜在客户字段拉入Marketo Engage。
+* **linkedIn Lead Gen Forms Additional Field Mapping**:从LinkedIn Lead Gen Forms捕获潜在客户数据，为销售和营销接触点创建更相关的体验。将隐藏字段、同意字段和测试潜在客户字段拉入Marketo Engage。
 * **电子邮件模板依赖关系API**:获取资产列表，这些资产依赖电子邮件模板来了解潜在更改的范围以及模板的相关性可以更快地更改和删除。
 * **多实例管理增强**:通过订阅的可滚动和字母顺序下拉菜单快速导航到所需的实例。
 
