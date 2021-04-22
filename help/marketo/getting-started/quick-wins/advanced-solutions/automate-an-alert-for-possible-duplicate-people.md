@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7513680
-description: 自动发出针对可能的重复的警报- Marketo Docs —— 产品文档
-title: 自动提醒可能的重复
+description: 自动发出警报以发现可能的重复— Marketo Docs — 产品文档
+title: 自动警报可能的重复
+exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
+# 自动警报可能的重复{#automate-an-alert-for-possible-duplicate-people}
 
-# 为可能的重复自动发出警报{#automate-an-alert-for-possible-duplicate-people}
-
-每次可能创建重复人时都需要提醒？ 下面介绍如何设置智能活动。
+是否希望在每次可能创建重复人时发出警报？ 下面介绍如何设置智能活动来完成此操作。
 
 1. [创建新的智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。定义以下智能列表:
 
-* 触发器：**已创建人员**
+* 触发器：**已创建人**
 * 过滤器：**重复字段。** 字段名 **称为全名**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
@@ -36,9 +36,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果导入大列表，您可能会同时收到大量这些警报！
+   >如果导入大列表，您可能会同时获得大量这些警报！
    >
-   >另外，两个同名的人并不自动表示他们是同一个人。
+   >另外，两个名字相同的人并不自动意味着他们是同一个人。
 
 1. 在&#x200B;**活动**&#x200B;选项卡中激活计划。
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[查找并合并重复](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
+>[查找并合并重复人](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
