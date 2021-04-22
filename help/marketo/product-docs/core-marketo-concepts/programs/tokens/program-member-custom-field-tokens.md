@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147114
-description: 项目成员自定义字段令牌 — Marketo Docs — 产品文档
+description: 项目成员自定义字段令牌 — Marketo文档 — 产品文档
 title: 项目成员自定义字段令牌
+exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 translation-type: tm+mt
-source-git-commit: 35e8b41574ebf8aafa27a59440c8ea9cb6413d50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 0%
 
 ---
-
 
 # 项目成员自定义字段令牌{#program-member-custom-field-tokens}
 
