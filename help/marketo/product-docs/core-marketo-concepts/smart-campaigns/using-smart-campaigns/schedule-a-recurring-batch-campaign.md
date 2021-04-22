@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146972
-description: 计划重复的批活动- Marketo Docs —— 产品文档
+description: 计划重复的批活动- Marketo文档 — 产品文档
 title: 计划循环批活动
+exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # 计划循环批活动{#schedule-a-recurring-batch-campaign}
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/recurrencehands-sendemail.png)
 
-1. 单击“计划”下拉框并选择&#x200B;**“每周**”。
+1. 单击“计划”下拉框并选择&#x200B;**每周**。
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
-1. 单击日历图标，然后选择第一次运行的日期。 对于此示例，我们使用下一个星期一可用的版本。
+1. 单击日历图标，然后选择第一次运行的日期。 对于此示例，我们将使用下一个星期一可用。
 
    ![](assets/image2014-9-22-11-3a41-3a46.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. 将“Repeat every as 1（重复间隔为1）”保留为“Monday（星期一）” ，然后单击“Save **（保存**）”。
+1. 将“Repeat every（重复间隔）”保留为1，选择“Monday（星期一）”，然后单击“Save **”。**
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
-1. 您可以在“计划”选项卡下看到要验证的预定递归。
+1. 您可以在“计划”选项卡下看到要验证的计划递归。
 
    ![](assets/recurrence.jpg)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 >
 >“计划”选项卡将显示接下来的三个实例以供参考。
 
-就这样！ 您的批活动现在每周一中午运行。
+就这样！ 您的批活动现在将于每周一中午运行。
