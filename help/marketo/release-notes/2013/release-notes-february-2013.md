@@ -2,14 +2,14 @@
 unique-page-id: 2951103
 description: 发行说明 — 2013年2月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年2月
+exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2013年2月{#release-notes-february}
 
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## 对Apple Safari的正式支持{#official-support-for-apple-safari}
 
-完全支持与Marketo Lead Management一起使用适用于Mac和Windows的最新版Apple Safari。 注意：iOS上的Safari不完全兼容。
+完全支持最新版Apple Safari for Mac和Windows以与Marketo Lead Management一起使用。 注意：iOS上的Safari不完全兼容。
 
 ## Webhooks增强{#webhooks-enhancements}
 
-Webhooks经过增强，可以在URL/有效负荷中转义令牌，还可以通过解析第三方系统（Spark SMB Edition中不提供）的XML/JSON响应来更新Marketo潜在客户字段。
+Webhooks经过增强，可以在URL/有效负荷中转义令牌，还可以通过解析来自第三方系统（Spark SMB Edition中不提供）的XML/JSON响应来更新Marketo潜在客户字段。
 
 ## 更新的SOAP API端点{#updated-soap-api-endpoint}
 
 首选的SOAP API端点已更新，如Admin -> SOAP API中所示。 请更新您的调用以使用此新端点。 对旧端点的API调用已弃用，但将继续运行。 （Spark SMB Edition中不提供SOAP API）
 
-## Facebook选项卡{#mobile-support-for-facebook-tabs}的移动支持
+## 移动支持Facebook选项卡{#mobile-support-for-facebook-tabs}
 
-从Marketo发布的Facebook选项卡将检测移动设备并将其路由到登陆页。 这将确保用户在不支持Facebook选项卡的移动设备上获得正确的内容（在Spark、Standard、Select SMB Editions和Marketo Social Marketing中提供）。
+从Marketo发布的facebook选项卡将检测移动设备并将其路由到登陆页。 这将确保用户在不支持Facebook选项卡的移动设备上获得正确的内容(在Spark、Standard、Select SMB Editions和Marketo Social Marketing中提供)。
 
 ## 即将推出：支持多种型号{#coming-soon-support-for-multiple-models}
 
