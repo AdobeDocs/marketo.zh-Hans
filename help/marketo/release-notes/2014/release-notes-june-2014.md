@@ -2,22 +2,22 @@
 unique-page-id: 2951042
 description: 发行说明 — 2014年6月 — Marketo Docs — 产品文档
 title: 发行说明 — 2014年6月
+exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
 # 发行说明：2014年6月{#release-notes-june}
 
-2014年6月版包含以下功能。 请查看您的Marketo Edition以了解功能可用性。
+2014年6月版包含以下功能。 请查看Marketo版以了解功能可用性。
 
 ## 更新的UI — 即将推出！{#updated-ui-coming-soon}
 
-新版本即将推出，包括Marketo Lead Management的导航功能！
+新版本即将推出，包括Marketo Lead Management的导航在内！
 
 ## Sales Insight plugin for Outlook 2013 {#sales-insight-plugin-for-outlook}
 
