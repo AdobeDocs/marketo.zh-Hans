@@ -2,14 +2,14 @@
 unique-page-id: 27656786
 description: 发行说明 — ’19年8月 — Marketo Docs — 产品文档
 title: 发行说明 — ’19年8月
+exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’19年8月{#release-notes-august}
 
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ## 核心Marketo Engage{#core-marketo-engage}
 
-* **可扩展网络研讨会框架**:使用Marketo的新开箱即用式网络研讨会框架（在“冬季’19”发行说明中引入） [节省时间，该说明](/help/marketo/release-notes/2019/release-notes-winter-19.md) 可将网络研讨会提供商的数据无缝传递到市场，反之亦然。活动和缩放功能现在在此新框架中可用。
+* **可扩展网络研讨会框架**:借助Marketo的新开箱即用式网络研讨会框架（在“冬季’19”发行说明中引入）节 [省时间，该说明](/help/marketo/release-notes/2019/release-notes-winter-19.md) 可将网络研讨会提供商的数据无缝传递到Marketo，反之亦然。活动和缩放功能现在在此新框架中可用。
 * **智能活动API更新**:在我们整合CRUD（创建、读取、更新、删除）界面时，管理智能活动生命周期功能。
 * **更新电子邮件标头API更改**:更新电子邮件标题API不再要求电子邮件具有附加的模板来更新标题字段，如主题行。
 
 **基于帐户的营销** ![（星形）](assets/star-yellow.svg)
 
-* **LinkedIn帐户匹配**（以前是测试版）现在普遍可用。
+* **linkedIn帐户匹配**（以前是测试版）现在普遍可用。
 * **AccountAI正** 在正式重新标记为“帐户 **分析”**。
 
 <br> 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 以下功能在非季度周期中发布，将在整个第三日历季度发布，并发布到2019年第4季度初。
 
-**Marketo Sales Connect** ![(star)](assets/star-yellow.svg)
+**Marketo Sales** ![ Connect(star)](assets/star-yellow.svg)
 
 * **人物页面布局增强：** 通过列表导入和新人物页面布局中的批量操作来管理您的人物和组。
 
