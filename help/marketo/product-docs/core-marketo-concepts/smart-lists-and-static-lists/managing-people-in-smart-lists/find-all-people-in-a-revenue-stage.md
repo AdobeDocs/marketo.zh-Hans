@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557331
-description: 在收入阶段- Marketo Docs —— 产品文档中查找所有人员
-title: 在收入阶段查找所有人员
+description: 在收入阶段查找所有人 — Marketo Docs — 产品文档
+title: 在收入阶段查找所有人
+exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
-# 查找收入阶段中的所有人员{#find-all-people-in-a-revenue-stage}
+# 查找收入阶段{#find-all-people-in-a-revenue-stage}中的所有人员
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 查找特定收入阶段{#find-all-members-of-a-specific-revenue-stage}的所有成员
 
-1. 在智能列表中，单击&#x200B;**智能列表**&#x200B;选项卡，找到&#x200B;**收入阶段**&#x200B;过滤器，然后将其拖入画布。
+1. 在智能列表中，单击&#x200B;**智能列表**&#x200B;选项卡，找到&#x200B;**收入阶段**&#x200B;过滤器，然后将其拖入画布中。
 
    ![](assets/draginrevenuefilter.png)
 
