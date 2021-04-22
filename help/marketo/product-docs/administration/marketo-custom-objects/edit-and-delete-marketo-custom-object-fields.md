@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10095453
-description: 编辑和删除Marketo自定义对象字段- Marketo文档——产品文档
-title: 编辑和删除Marketto自定义对象字段
+description: 编辑和删除Marketo自定义对象字段 — Marketo文档 — 产品文档
+title: 编辑和删除Marketo自定义对象字段
+exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-
-# 编辑和删除Marketto自定义对象字段{#edit-and-delete-marketo-custom-object-fields}
+# 编辑和删除Marketo自定义对象字段{#edit-and-delete-marketo-custom-object-fields}
 
 ## 编辑字段{#edit-a-field}
 
-有时，您需要编辑尚未批准的字段。
+有时您需要编辑尚未批准的字段。
 
 1. 单击自定义对象和要编辑的字段。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
-   请确保在扣动触发器之前确实要删除该字段！ 单击&#x200B;**删除**。
+   在扣动触发器之前，请确保确实要删除该字段！ 单击&#x200B;**删除**。
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[添加Marketto自定义对象字段](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+   >[添加Marketo自定义对象字段](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
