@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359918
-description: 编辑登陆页设置 — Marketo Docs — 产品文档
+description: 编辑登陆页设置 — Marketo文档 — 产品文档
 title: 编辑登陆页设置
+exl-id: 019b4651-3a66-46f9-8722-66af30194380
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # 编辑登陆页设置{#edit-landing-page-settings}
 
