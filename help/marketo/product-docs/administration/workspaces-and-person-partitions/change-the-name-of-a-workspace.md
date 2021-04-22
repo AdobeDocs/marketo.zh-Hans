@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360321
-description: 更改工作区的名称- Marketo Docs —— 产品文档
+description: 更改工作区的名称 — Marketo Docs — 产品文档
 title: 更改工作区的名称
+exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-
 # 更改工作区{#change-the-name-of-a-workspace}的名称
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!PREREQUISITES]
 >
@@ -25,17 +25,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->首先，请阅读[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
+>首先了解[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
 1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**工作区和分区。**
 
    ![](assets/image2014-9-17-11-3a8-3a28.png)
 
-1. 选择工作区，然后单击&#x200B;**编辑工作区**。
+1. 选择工作区并单击&#x200B;**编辑工作区**。
 
    ![](assets/two-4.png)
 
-1. 为您的工作区输入新的&#x200B;**名称**，然后单击“保存”。****
+1. 为Workspace输入新&#x200B;**名称**，然后单击&#x200B;**保存。**
 
    ![](assets/three-4.png)
 
