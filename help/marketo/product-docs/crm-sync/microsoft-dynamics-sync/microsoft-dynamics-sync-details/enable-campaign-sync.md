@@ -1,18 +1,18 @@
 ---
 description: 启用活动同步 — Marketo Docs — 产品文档
 title: 启用活动同步
+exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # 启用活动同步{#enable-campaign-sync}
 
-此选项允许Marketo在MS Dynamics活动中添加和删除成员。
+此选项允许Marketo添加成员并从MS Dynamics活动中删除成员。
 
 >[!PREREQUISITES]
 >
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >**需要管理权限**
 
-1. 在“我的营销人员”中，单击&#x200B;**管理员**。
+1. 在“我的Marketo”中，单击&#x200B;**管理**。
 
    ![](assets/enable-campaign-sync-1.png)
 
