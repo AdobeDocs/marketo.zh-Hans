@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359912
-description: 导出用户和角色列表- Marketo Docs —— 产品文档
+description: 导出用户和角色列表- Marketo Docs — 产品文档
 title: 导出用户和角色列表
+exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-
 # 导出用户和角色列表{#export-a-list-of-users-and-roles}
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
-导出完整的用户和用户角色列表非常简单。 这是方法。
+导出用户和用户角色的完整列表非常简单。 下面介绍如何操作。
 
 1. 转至&#x200B;**Admin**。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-10-9-3a25-3a27.png)
 
-1. 在导出之前添加／删除您需要的任何列。
+1. 在导出之前添加/删除您需要的任何列。
 
    >[!TIP]
    >
