@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4719289
-description: 启用／禁用活动同步- Marketo Docs —— 产品文档
-title: 启用／禁用活动同步
+description: 启用/禁用活动同步 — Marketo Docs — 产品文档
+title: 启用/禁用活动同步
+exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-
-# 启用／禁用活动同步{#enable-disable-campaign-sync}
+# 启用/禁用活动同步{#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
-此选项允许Market将其项目会员资格和状态与Salesforce活动同步，反之亦然。
+此选项允许Marketo将其项目会员资格和状态与Salesforce活动同步，反之亦然。
 
 1. 转至&#x200B;**Admin**，单击&#x200B;**Salesforce**。
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. 选中&#x200B;**启用Salesforce活动同步**&#x200B;并单击&#x200B;**SAVE**。
+1. 选中&#x200B;**启用Salesforce活动同步**，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-给你。 只需给同步一段时间，即可从Salesforce提取数据，并且您可以开始使用。
+给你。 只需将同步时间从Salesforce中提取数据，即可开始使用。
 
 >[!MORELIKETHIS]
 >
