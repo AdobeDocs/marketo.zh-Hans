@@ -1,14 +1,14 @@
 ---
-description: Salesforce同步状态 — Marketo Docs — 产品文档
+description: Salesforce同步状态 — Marketo文档 — 产品文档
 title: Salesforce同步状态
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 translation-type: tm+mt
-source-git-commit: 98af67caaf485535ba2177aa661a503990e8698d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce同步状态{#salesforce-sync-status}
 
@@ -195,7 +195,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1">拉取转换</td> 
    <td colspan="1">人员（领导）*</td> 
-   <td colspan="1">从SFDC提取转换操作至Marketo。 件数（数字）是转换为联系人的潜在客户</td> 
+   <td colspan="1">将转换操作从SFDC提取到Marketo。 件数（数字）是转换为联系人的潜在客户</td> 
    <td colspan="1">更新、失败项或已跳过</td>
   </tr> 
   <tr> 
