@@ -1,14 +1,14 @@
 ---
 description: 导出角色和权限 — Marketo Docs — 产品文档
 title: 导出角色和权限
+exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
-
 
 # 导出角色和权限{#export-roles-and-permissions}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >需要管理权限
 
-1. 在“我的营销人员”中，单击&#x200B;**管理员**。
+1. 在“我的Marketo”中，单击&#x200B;**管理**。
 
    ![](assets/export-roles-and-permissions-1.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->确保您的浏览器未阻止Marketo中的弹出窗口。
+>确保您的浏览器未阻止Marketo的弹出窗口。
 
 该数据将导出为CSV格式，并包含角色、权限以及每个用户组已启用的权限计数。
 
