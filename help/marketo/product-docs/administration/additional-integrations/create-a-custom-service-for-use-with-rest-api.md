@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360350
-description: 创建用于ReST API - Marketo Docs — 产品文档的自定义服务
+description: 创建与ReST API - Marketo Docs — 产品文档一起使用的自定义服务
 title: 创建与ReST API一起使用的自定义服务
+exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
-
 
 # 创建用于ReST API {#create-a-custom-service-for-use-with-rest-api}的自定义服务
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您拥有Spark级别的Marketo，则无法创建自定义服务。
+>如果您的Spark级别为Marketo，则无法创建自定义服务。
 
 ## 创建自定义服务{#create-custom-service}
 
