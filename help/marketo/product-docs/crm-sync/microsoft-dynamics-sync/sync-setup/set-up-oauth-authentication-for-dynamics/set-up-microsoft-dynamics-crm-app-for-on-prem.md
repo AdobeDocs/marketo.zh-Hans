@@ -1,18 +1,18 @@
 ---
-description: 设置Microsoft Dynamics CRM应用程序，用于On-Marketo Docs — 产品文档
+description: 为On-prem设置Microsoft Dynamics CRM应用程序 — Marketo Docs — 产品文档
 title: 为On-prem设置Microsoft Dynamics CRM应用程序
+exl-id: 50d41d0a-0c3b-43b8-8117-d91903e74699
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
 # 为On-prem {#set-up-microsoft-dynamics-crm-app-for-on-prem}设置Microsoft Dynamics CRM应用程序
 
-Marketo中基于客户端ID/客户端机密的设置可针对AD FS(ver)进行预设。 或更高版本)。 对于旧版本的On-prem，请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)，以使验证方法更改为仅基于用户ID和密码。
+可以对AD FS（版本）进行On-prem(在Marketo中)中基于客户端ID/客户端机密的设置。 或更高版本)。 对于旧版本的On-prem，请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)，以将身份验证方法更改为仅基于用户ID和密码。
 
 ## 设置Microsoft Dynamics CRM应用程序{#set-up-microsoft-dynamics-crm-app}
 
@@ -20,11 +20,11 @@ Marketo中基于客户端ID/客户端机密的设置可针对AD FS(ver)进行预
 
 完成后，下一步是&#x200B;**将Dynamics CRM生成的客户端Id和机密输入Marketo**。
 
-## 在Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}中输入Dynamics CRM生成的客户端Id和密码
+## 在Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}中输入Dynamics CRM生成的客户端Id和Secret
 
 以下步骤适用于联机和预先版本。
 
-1. 在Marketo中，单击&#x200B;**管理员**。
+1. 在Marketo中，单击&#x200B;**Admin**。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-on-prem-1.png)
 
