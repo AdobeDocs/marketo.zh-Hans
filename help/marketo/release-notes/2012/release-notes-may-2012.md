@@ -2,14 +2,14 @@
 unique-page-id: 2951117
 description: 发行说明 — 2012年5月 — Marketo Docs — 产品文档
 title: 发行说明 — 2012年5月
+exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2012年5月{#release-notes-may}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 适用于iPad的新事件登记应用程序{#new-event-check-in-app-for-ipad}
 
-使用我们新的iPad应用程序简化事件登记流程！ 事件签入应用程序与您的Marketo项目同步，允许您将注册者轻松签入事件并即时添加新潜在客户。
+使用我们新的iPad应用程序简化事件登记流程！ 事件签入应用程序与您的Marketo项目同步，允许您将注册者轻松签入事件并立即添加新潜在客户。
 
 需要iOS 5.1或更高版本；仅限iPad。
 
@@ -81,9 +81,9 @@ ht-degree: 0%
 
 图9. 在登陆页上编辑表单预填设置
 
-## 马克托金库{#marketo-treasure-chest}
+## Marketo金库{#marketo-treasure-chest}
 
-访问由Marketo Engineers开发的实验性功能，以增强您的用户体验。 此版本包括“电子邮件撤消”功能，还可以在您的登陆页上输入评论并与其他用户协作。
+访问Marketo工程师开发的实验性功能，以增强您的用户体验。 此版本包括“电子邮件撤消”功能，还可以在您的登陆页上输入评论并与其他用户协作。
 
 ![](assets/image2014-9-23-10-3a16-3a51.png)\
 
