@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12980733
-description: Marketo术语表 — Marketo Docs — 产品文档
+description: Marketo术语表 — Marketo文档 — 产品文档
 title: Marketo词汇表
+exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
 
 ---
 
-
-# Marketo术语表{#marketo-glossary}
+# Marketo词汇表{#marketo-glossary}
 
 以下是您在使用Marketo时可能遇到的许多术语的定义。 要请求添加术语，请[向我们发送电子邮件](mailto:GRP-Marketo-articlefeedback@adobe.com)。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>帐户</strong></td> 
-   <td colspan="1">此术语的含义可以不同：<br>-Your Marketo实例本身可以称为您的Marketo帐户。<br> — 在 <strong>ABM中</strong>，指 <strong>定</strong> 帐户是用户确定的要追踪的目标帐户。<br> — 在ABM中，CRM帐户是从您链接的CRM( <strong>Salesforce</strong> 、MS Dynamicsor  <strong>API</strong>中的帐户)映 <strong>射</strong>  <strong></strong>的帐户。<br> — 在您的CRM中，帐户是与潜在客户和联系人关联的业务/公司。</td> 
+   <td colspan="1">此术语的含义可能不同：<br> — 您的Marketo实例本身可以称为您的Marketo帐户。<br> — 在 <strong>ABM中</strong>，指 <strong>定</strong> 帐户是用户确定的要追踪的目标帐户。<br> — 在ABM中，CRM帐户是从您链接的CRM( <strong>Salesforce</strong> 、MS Dynamicsor  <strong>API</strong>中的帐户)映 <strong>射</strong>  <strong></strong>的帐户。<br> — 在您的CRM中，帐户是与潜在客户和联系人关联的业务/公司。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">基于帐户的营销</a> (ABM)</strong></td> 
@@ -61,7 +61,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>广告网络集成 </strong></a></td> 
-   <td colspan="1">（以前称为Ad Bridge）将Marketo的独特受众数据与您的付费媒体系统相连的一种方式，使您能够运行更具针对性、个性化的数字广告活动。</td> 
+   <td colspan="1">（以前称为Ad Bridge）将Marketo独特的受众数据连接到付费媒体系统的一种方式，使您能够运行更具针对性、个性化的数字广告活动。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">警报</a></strong></td> 
@@ -73,7 +73,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">应用程序编程接口</a> (API)</strong></td> 
-   <td colspan="1">一组预定义的协议，用于在操作系统或应用程序中执行单个或大量功能（本例中为Marketo）。</td> 
+   <td colspan="1">一组预定义的协议，用于在操作系统或应用程序中执行单个或大量功能(本例中为Marketo)。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>已批准</strong></td> 
@@ -81,7 +81,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>资产</strong></td> 
-   <td colspan="1">用作您的Marketo实例中内容的项目(例如<strong>email</strong>、<strong>登陆页</strong>、<strong>智能活动</strong>等)。</td> 
+   <td colspan="1">用作Marketo实例中内容的项目(例如<strong>email</strong>、<strong>登陆页</strong>、<strong>smart 活动</strong>等)。</td> 
   </tr> 
  </tbody> 
 </table>
@@ -111,21 +111,21 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>列入阻止列表</strong></a></td> 
-   <td> 您不希望接收您的营销材料(例如竞争对手)的营销人员的字段。 当您将字列入阻止列表段设置为true时，该人员将不会收到来自您Marketo实例的任何电子邮件，包括操作电子邮件。</td> 
+   <td> 您不希望接收您的营销材料的Marketo人员(例如竞争对手)的字段。 当您将的列入阻止列表字段设置为true时，该人员将不会收到来自您的Marketo实例的任何电子邮件，包括操作电子邮件。</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" rel="nofollow">跳出</a></strong></p> 
     </div></td> 
-   <td>当发送到收件人的电子邮件被返回时。 有硬的和软的跳跃。 当邮件服务器告知Marketo无法送达人员的电子邮件时，硬跳出会导致人员的电子邮件地址无效。 软跳出意味着将电子邮件发送给客户时出了问题；这会自动解决。 硬弹回和软弹回都由<a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">多个类别</a>组成。</td> 
+   <td>当发送到收件人的电子邮件被返回时。 有硬的和软的跳跃。 当邮件服务器告知Marketo无法发送人员的电子邮件时，硬跳出会导致人员的电子邮件地址无效。 软跳出意味着将电子邮件发送给客户时出了问题；这会自动解决。 硬弹回和软弹回都由<a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">多个类别</a>组成。</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Marketo正在更改黑名单和白名单等术语，以在我们的产品阻止列表中进行允许列表和。 在此更新过程中，您可能会在我们的UI和文档屏幕截图中看到旧条款，在我们的文档文本中看到新条款。 我们为任何混乱表示歉意。
+>Marketo正在更改黑名单和白名单等术语，以在我们的产阻止列表品中允许列表和。 在此更新过程中，您可能会在我们的UI和文档屏幕截图中看到旧条款，在我们的文档文本中看到新条款。 我们为任何混乱表示歉意。
 
 ## C {#c}
 
@@ -137,7 +137,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>活动</strong></td> 
-   <td colspan="1">“活动”在Marketo中可能意味着一些事。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">活动</a>是智能活动的较短期限。 在<strong>Marketo Sales Connect</strong>中，<a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">活动</a>是一系列多渠道对应步骤。 在<strong>Web个性化</strong>中，Web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">活动</a>是与特定区段相关的自定义反应。</td> 
+   <td colspan="1">“活动”在Marketo可能意味着一些事情。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">活动</a>是智能活动的较短期限。 在<strong>Marketo Sales Connect</strong>中，<a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">活动</a>是一系列多渠道对应步骤。 在<strong>Web个性化</strong>中，Web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">活动</a>是与特定区段相关的自定义反应。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">活动活动报告</a></strong></td> 
@@ -173,7 +173,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>克隆</strong></td> 
-   <td colspan="1">在Marketo中，您可以重复实例中几种不同类型的实体。 您可以克隆<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">项目</a>、项目</a>中的<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">资源、<a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">流</a>等。</a></td> 
+   <td colspan="1">在Marketo中，您可以对实例中的几种不同类型的实体进行重复。 您可以克隆<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">项目</a>、项目</a>中的<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">资源、<a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">流</a>等。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
@@ -201,7 +201,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>内容参与度</strong></td> 
-   <td colspan="1">Marketo将在<strong>参与项目</strong>中为您的内容提供0到100分的分数。 得分由使用<strong>opens</strong>、<strong>clicks</strong>、<strong>unsubscribes</strong>、项目成功等的复杂公式确定。</td> 
+   <td colspan="1">A 0到100分，Marketo将在<strong>参与项目</strong>中为您的内容提供该分数。 得分由使用<strong>opens</strong>、<strong>clicks</strong>、<strong>unsubscribes</strong>、项目成功等的复杂公式确定。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cookie</strong></td> 
@@ -209,7 +209,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">自定义受众</a></strong></td> 
-   <td colspan="1">在Facebook中，为直接定位目的，创建由特定现有人员（从Marketo数据库）组成的列表。</td> 
+   <td colspan="1">在Facebook中，创建由特定现有人员(来自您的Marketo数据库)组成的列表，以实现直接定位。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">自定义字段</a></strong></td> 
@@ -246,7 +246,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>重复数据消除</strong></td> 
-   <td>也称为消除重复。 确定和整合消除重复的信息（例如人员）的过程。 例如，Marketo在新人进入您的实例时自动消除重复。</td> 
+   <td>也称为消除重复。 确定和整合消除重复的信息（例如人员）的过程。 例如，当新人进入您的实例时，Marketo会自动消除重复。</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -312,11 +312,11 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>电子邮件</strong></td> 
-   <td colspan="1">在Marketo中，<strong>assets</strong>可用于与您的客户进行通信。 电子邮件可以是HTML（图形、自定义字体等）或纯文本（不含特殊格式的纯文本消息）。 只有HTML电子邮件可以记录“打开”。</td> 
+   <td colspan="1">在Marketo中，可用于与您的客户通信的<strong>资源</strong>之一。 电子邮件可以是HTML（图形、自定义字体等）或纯文本（不含特殊格式的纯文本消息）。 只有HTML电子邮件可以记录“打开”。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>电子邮件无效</strong></td> 
-   <td colspan="1">Marketo中的默认字段，它表示<strong>database</strong>中人员的电子邮件地址是否可交付。</td> 
+   <td colspan="1">Marketo中的默认字段，指示<strong>数据库</strong>中的人员电子邮件地址是否可交付。</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -407,7 +407,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>全球资产</strong></td> 
-   <td>在<strong>Design Studio</strong>中创建的资源，用于您Marketo实例的<strong>项目</strong>中。 </td> 
+   <td>在<strong>Design Studio</strong>中创建的资源，用于Marketo实例的<strong>项目</strong>中。 </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>向导式登陆页</strong></td> 
@@ -431,7 +431,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## K {#i}
+## I {#i}
 
 <table> 
  <colgroup> 
@@ -446,7 +446,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## I {#k}
+## K {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>已知人</strong></a></td> 
-   <td><p>Marketo <strong>database</strong>中的任何人数据都被视为已知人数数据。 有多种方式可供某人输入您的数据库，包括：CRM同步、填写表单、列表导入/手动输入、程序化（其余API/合作伙伴集成）等。 Web访客最初通过Marketo的<strong>Munchkin</strong> Web跟踪<strong>cookie</strong>（并且是匿名的），然后在发生可识别操作时(例如，单击Marketo电子邮件中的跟踪链接，使用其电子邮件地址填写表单，或通过Marketo关联潜在客户PR手动映射到相应的已知人员记录<a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a>和<a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a>中的API</p></td> 
+   <td><p>Marketo<strong>数据库</strong>中的任何人数据都被视为已知人数数据。 有多种方式可供某人输入您的数据库，包括：CRM同步、填写表单、列表导入/手动输入、程序化（其余API/合作伙伴集成）等。 Web访客最初通过Marketo的<strong>Munchkin</strong> Web跟踪<strong>Cookie</strong>（并且是匿名的），然后在发生可识别操作时(例如，单击Marketo电子邮件中的跟踪链接，用其电子邮件地址填写表单，或通过两个中的Marketo关联潜在客户API手动映射到相应的已知人记录a4/&gt;Munchkin</a>和<a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a><a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead"></a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -474,15 +474,15 @@ ht-degree: 0%
     <div> 
      <p><strong>登陆页</strong></p> 
     </div></td> 
-   <td>一个由Market托管的页面，它允许您显示<strong>内容</strong>并跟踪访客。 有两种不同的类型：自由格式和向导式。 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">自由格式的登</a> 录页面允许您拖放任何所需内容，无论您在何处。<a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">向导式登</a> 录页面更加严格，模板会确定预定义的布局/ <strong>结构</strong>。</td> 
+   <td>Marketo托管的页面，允许您显示<strong>内容</strong>和跟踪访客。 有两种不同的类型：自由格式和向导式。 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">自由格式的登</a> 录页面允许您拖放任何所需内容，无论您在何处。<a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">向导式登</a> 录页面更加严格，模板会确定预定义的布局/ <strong>结构</strong>。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">LaunchPoint</a></strong></td> 
-   <td>拥有一流的营销集成解决方案，拥有数以百计的技术和数字服务合作伙伴。</td> 
+   <td>拥有一流的Marketo集成解决方案，拥有数百个技术和数字服务合作伙伴。</td> 
   </tr> 
   <tr> 
    <td><strong>潜在客户</strong></td> 
-   <td>在<strong>Marketo Engage</strong>中，潜在客户是上一个术语（由<strong>person</strong>替换），用于描述您通过营销活动进行营销的Marketo <strong>数据库</strong>中的个人。 在您的<strong>CRM</strong>中，潜在客户可能代表与Marketo的功能无关的不同概念（即与<strong>opportunity</strong>关联的个人）。</td> 
+   <td>在<strong>Marketo Engage</strong>中，潜在客户是上一个术语（由<strong>person</strong>替换），用于描述您通过营销活动参与的Marketo <strong>数据库</strong>中的个人。 在您的<strong>CRM</strong>中，潜在客户可能代表与Marketo功能无关的不同概念（即与<strong>opportunity</strong>关联的个人）。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>潜在客户数据库</strong></td> 
@@ -493,7 +493,7 @@ ht-degree: 0%
     <div> 
      <p><strong> 列表</strong></p> 
     </div></td> 
-   <td colspan="1">人的集合。 在Marketo中，有智能列表和静态列表。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">智能列表</a>是可以不断更改的人员的动态列表，因为它基于您定义的过滤器（例如，您数据库中居住在加利福尼亚的所有人）。 当新人符合条件（或现有人不再符合条件）时，列表会发生变化。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">静态列表</a>是静态的。 除非您手动添加/删除某人，否则不会更改。</td> 
+   <td colspan="1">人的集合。 在Marketo中有智能列表和静态列表。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">智能列表</a>是可以不断更改的人员的动态列表，因为它基于您定义的过滤器（例如，您数据库中居住在加利福尼亚的所有人）。 当新人符合条件（或现有人不再符合条件）时，列表会发生变化。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">静态列表</a>是静态的。 除非您手动添加/删除某人，否则不会更改。</td> 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>本地资产</strong></a></td> 
@@ -524,7 +524,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>暂停营销</strong></a></td> 
-   <td colspan="1">此字段由<strong>user</strong>手动设置，以使其Marketo <strong>database</strong>中的某人暂时取消邮件。</td> 
+   <td colspan="1">此字段由<strong>user</strong>手动设置，以使其Marketo中的某人暂时取消邮件。<strong></strong></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Engage</strong></td> 
@@ -532,10 +532,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Lead Management(MLM)</strong></td> 
-   <td colspan="1">用于描述Marketo的经典核心应用程序界面的口语术语。</td> 
+   <td colspan="1">用于描述Marketo经典核心应用程序界面的口语术语。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Marketo Performance Insights(MPI)</strong></td> 
+   <td colspan="1"><strong>Marketo性能分析(MPI)</strong></td> 
    <td colspan="1">（请参阅<strong><a href="#p">性能分析</a></strong>）</td> 
   </tr> 
   <tr> 
@@ -552,15 +552,15 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>Microsoft Dynamics</strong></td> 
-   <td>也称为MSD。 两个CRM中的一个。 Marketo与本机集成（请参阅<a href="#c"><strong>CRM</strong></a>）。</td> 
+   <td>也称为MSD。 两个CRM中的一个。Marketo具有与的本机集成（请参阅<a href="#c"><strong>CRM</strong></a>）。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">蒙奇金</a></strong></td> 
    <td>Marketo的自定义JavaScript跟踪代码。 它跟踪访问您网站的所有个人。 这包括匿名访客（及其IP地址和其他信息）。 </td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>My Marketo</strong></td> 
-   <td colspan="1">Marketo Engage的标准部分之一。 充当您的营销人员“主页”，显示您有权访问的营销人员所有部分的拼贴。</td> 
+   <td colspan="1"><strong>我的Marketo</strong></td> 
+   <td colspan="1">Marketo Engage的标准部分之一。 充当您的Marketo“主页”，显示您有权访问的Marketo所有部分的拼贴。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>我的令牌</strong></a></td> 
@@ -598,7 +598,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>打开</strong></td> 
-   <td><p>当将图像下载到<strong>email</strong>时，打开注册。 即使您不包含图像，默认情况下Marketo也会在所有HTML电子邮件中插入单个跟踪像素。 仅文本电子邮件无法注册打开项。</p></td> 
+   <td><p>当将图像下载到<strong>email</strong>时，打开注册。 即使您不包含图像，默认情况下，Marketo会在所有HTML电子邮件中插入一个跟踪像素。 仅文本电子邮件无法注册打开项。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" rel="nofollow">运营电子邮件</a></strong></td> 
@@ -644,7 +644,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>人</strong></td> 
-   <td>您通过营销活动与Marketo <strong>database</strong>中的个人进行互动。</td> 
+   <td>您通过营销活动与Marketo <strong>数据库</strong>中的个人进行互动。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">人员分区</a></strong></td> 
@@ -652,18 +652,18 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>角色</strong></a></td> 
-   <td colspan="1">在Marketo的<strong>基于帐户的营销</strong>中，角色是受众的子集，允许更具体的定位。</td> 
+   <td colspan="1">在Marketo的<strong>基于帐户的营销</strong>中，角色是受众的子集，允许进行更具体的定位。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>投票</strong></a></td> 
-   <td colspan="1">在Marketo进行投票就像定期投票一样。 创建一个主题供人们在您的Marketo <strong>登陆页</strong>、您的网站和/或社交媒体上投票和分享。</td> 
+   <td colspan="1">Marketo的投票就像定期投票一样。 创建一个主题供人们在您的Marketo <strong>登陆页</strong>、您的网站和/或社交媒体上投票和分享。</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><strong>预测内容</strong></p> 
     </div></td> 
-   <td>（以前称为ContentAI）一项附加功能，可帮助Marketo用户使用最相关的<strong>内容</strong>，通过机器学习和预测分析提供的推荐，更好地吸引Web访客和电子邮件收件人。</td> 
+   <td>（以前称为ContentAI）一个附加功能，它可帮助Marketo用户使用最相关<strong>内容</strong>、使用机器学习和预测分析支持的推荐更好地吸引Web访客和电子邮件收件人。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">项目</a></strong></td> 
@@ -720,7 +720,7 @@ ht-degree: 0%
    <td colspan="1">在<strong>收入周期分析(RCA)</strong>中使用的工具，它使用一系列阶段，允许您跟踪在转换它们的过程中您的<strong>潜在客户</strong>在任何给定点的位置。</td> 
   </tr> 
   <tr> 
-   <td><strong>角色</strong></td> 
+   <td><strong>职位</strong></td> 
    <td>分配给用户的标题，该用户将大量权限分组在一起（例如，管理员、营销用户）。</td> 
   </tr> 
   <tr> 
@@ -740,7 +740,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Salesforce</strong></td> 
-   <td colspan="1">也称为SFDC。 两个CRM中的一个。 Marketo与本机集成（请参阅<a href="#c"><strong>CRM</strong></a>）。</td> 
+   <td colspan="1">也称为SFDC。 两个CRM中的一个。Marketo具有与的本机集成（请参阅<a href="#c"><strong>CRM</strong></a>）。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md" rel="nofollow"><strong>示例电子邮件</strong></a></td> 
@@ -776,7 +776,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>软件即服务(SaaS)</strong></td> 
-   <td colspan="1">一种软件投放方法，它不需要下载，只需一个具有Web浏览器和Internet连接的设备（例如Marketo）。 </td> 
+   <td colspan="1">无需下载的软件投放方法，只是具有Web浏览器和Internet连接(如Marketo)的设备。 </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>垃圾信息</strong></td> 
@@ -823,7 +823,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>树</strong></td> 
-   <td colspan="1">Marketo中左侧的列，它以层次结构显示项目。 它显示Marketo实例中的所有内容(例如，<strong>workspaces</strong>、<strong>项目</strong>、<strong>本地资产</strong>等)。</td> 
+   <td colspan="1">Marketo中左侧的列，以分层结构显示项目。 它显示Marketo实例中的所有内容(例如，<strong>workspaces</strong>、<strong>项目</strong>、<strong>本地资源</strong>等)。</td> 
   </tr> 
   <tr> 
    <td><strong>触发器</strong></td> 
@@ -855,7 +855,7 @@ ht-degree: 0%
    <td colspan="1">当<strong>人员</strong>选择不再接收营销电子邮件时，将添加另一个术语来选择退出。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">取消订阅</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">退订</a></strong></td> 
    <td>一种状态，指示收件人选择不再接收营销电子邮件。 标记为“未订阅”的用户仍可能收到<strong>操作电子邮件</strong>。</td> 
   </tr> 
   <tr> 
@@ -886,7 +886,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web个性化</strong></td> 
-   <td>一个附加功能，它提供一个定位和个性化平台，帮助Marketo用户根据访客的身份和行为实时吸引已知和匿名客户。</td> 
+   <td>一个附加功能，它提供一个定位和个性化平台，可帮助Marketo用户根据访客的身份和行为实时吸引已知和匿名客户。</td> 
   </tr>
   <tr> 
    <td><strong>网络研讨会</strong></td> 
@@ -894,11 +894,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">网站重定位</a></strong></td> 
-   <td>一个附加功能，可帮助Marketo用户帮助目标已知和匿名访客（通过Facebook和Google），根据行业、指定帐户和已知数据投放相关广告。</td> 
+   <td>一个附加功能，可帮助Marketo用户帮助目标已知和匿名访客(通过Facebook和Google)，根据行业、指定帐户和已知数据投放相关广告。</td> 
   </tr> 
   <tr> 
    <td><strong>所见即所得（所见即所得）</strong></td> 
-   <td>一个常用术语，指的是应用程序或编辑器，它允许您在创建<strong>内容时查看其最终结果。 </strong>Marketo有一个WYSIWYG编辑器。</td> 
+   <td>一个常用术语，指的是应用程序或编辑器，它允许您在创建<strong>内容时查看其最终结果。 </strong>Marketo有WYSIWYG编辑器。</td> 
   </tr> 
   <tr> 
    <td><strong>构件</strong></td> 
@@ -910,9 +910,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">工作区</a></strong></td> 
-   <td>Marketo中包含营销<strong>assets</strong>的单独区域。 例如，您可以拥有一个名为“北美”的工作区，您可以严格将其用于向该区域进行营销。 欧洲、亚洲等</td> 
+   <td>Marketo中保存营销<strong>资产</strong>的单独区域。 例如，您可以拥有一个名为“北美”的工作区，您可以严格将其用于向该区域进行营销。 欧洲、亚洲等</td> 
   </tr>  
  </tbody> 
 </table>
-
-
