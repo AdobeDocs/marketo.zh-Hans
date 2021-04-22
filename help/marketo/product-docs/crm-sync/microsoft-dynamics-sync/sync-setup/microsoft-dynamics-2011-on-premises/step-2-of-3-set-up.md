@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571807
-description: 步骤2（共3步） — 在Dynamics（2011年内部部署）中设置Marketo Sync用户 — Marketo Docs — 产品文档
-title: 步骤2（共3步） — 在Dynamics中设置Marketo同步用户（2011年内部部署）
+description: 步骤2（共3步） — 在Dynamics（2011年内部部署）中设置Marketo同步用户 — Marketo文档 — 产品文档
+title: 步骤2（共3步） — 在Dynamics中设置Marketo Sync用户（2011年内部部署）
+exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
 
 ---
-
 
 # 第2步，共3步：在Dynamics(2011 On-Premises){#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}中设置Marketo同步用户
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 分配同步用户角色{#assign-sync-user-role}
 
-将Marketo Sync用户角色仅分配给Marketo sync用户。 您无需将其分配给任何其他用户。
+将Marketo Sync用户角色仅分配给Marketo同步用户。 您无需将其分配给任何其他用户。
 
 >[!NOTE]
 >
->这适用于Marketo插件版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅[升级Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)的Marketo解决方案。
+>这适用于Marketo插件4.0.0.14版及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅[升级Marketo Solution for Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)。
 
 1. 在左下角的菜单中，选择&#x200B;**设置**。
 
@@ -39,11 +39,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. 您将在此看到一列表用户。 选择您的专用Marketo同步用户或与您的[Active Directory联合身份验证服务(AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx)管理员联系，以创建专用于Marketo的新用户。 单击&#x200B;**管理角色**。
+1. 您将在此看到一列表用户。 选择专用的Marketo同步用户或与[Active Directory联合身份验证服务(AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx)管理员联系，以创建专用于Marketo的新用户。 单击&#x200B;**管理角色**。
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
-1. 选中&#x200B;**Marketo Sync User** ，然后单击&#x200B;**确定**。
+1. 选中&#x200B;**Marketo Sync User**&#x200B;并单击&#x200B;**确定**。
 
    ![](assets/image2015-4-2-14-3a15-3a0.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >同步用户在CRM中所做的任何更新将&#x200B;**不会**&#x200B;同步回Marketo。
+   >同步用户在您的CRM中所做的任何更新都将&#x200B;**不会**&#x200B;同步回Marketo。
 
 ## 配置Marketo解决方案{#configure-marketo-solution}
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果缺少Marketo配置，请尝试刷新页面。 如果问题仍然存在，[将再次](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)发布Marketo解决方案或注销并重新登录。
+   >如果缺少Marketo配置，请尝试刷新页面。 如果问题仍然存在，[将再次](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)发布Marketo解决方案，或注销并重新登录。
 
 1. 单击&#x200B;**默认**。
 
@@ -97,4 +97,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[第3步，共3步：将Microsoft Dynamics与Marketo连接（2011年内部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+>[第3步，共3步：将Microsoft Dynamics与Marketo连接（2011内部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
