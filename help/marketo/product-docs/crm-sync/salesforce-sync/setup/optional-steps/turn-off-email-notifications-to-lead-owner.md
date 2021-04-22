@@ -1,19 +1,19 @@
 ---
 unique-page-id: 13795802
-description: 关闭向潜在客户所有者发送电子邮件通知——营销文档——产品文档
-title: 关闭潜在客户所有者的电子邮件通知
+description: 关闭发送给潜在客户所有者的电子邮件通知 — Marketo Docs — 产品文档
+title: 将电子邮件通知关闭给潜在客户所有者
+exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
+# 关闭与潜在客户所有者的电子邮件通知{#turn-off-email-notifications-to-lead-owner}
 
-# 关闭向潜在客户所有者发送电子邮件通知{#turn-off-email-notifications-to-lead-owner}
-
-您可以禁用在潜在客户分配时在Salesforce中发送给潜在客户所有者的自动电子邮件通知。 这是方法。
+在潜在客户分配时，您可以禁用发送到Salesforce中潜在客户所有者的自动电子邮件通知。 下面介绍如何操作。
 
 1. 转至&#x200B;**Admin**。
 
