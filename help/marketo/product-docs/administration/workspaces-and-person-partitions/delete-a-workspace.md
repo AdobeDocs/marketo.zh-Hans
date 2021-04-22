@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2360313
-description: 删除工作区——营销文档——产品文档
+description: 删除工作区 — Marketo Docs — 产品文档
 title: 删除工作区
+exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-
 # 删除工作区{#delete-a-workspace}
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!NOTE]
 >
->您无法在Marketo中删除默认工作区。
+>您无法删除Marketo中的“默认”工作区。
 
-1. 在“管理员”下，单击&#x200B;**工作区和分区**。
+1. 在“管理”下，单击&#x200B;**工作区和分区**。
 
    ![](assets/image2014-9-17-11-3a56-3a34.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >别忘了，必须先删除工作区下的所有资产&#x200B;****。
+   >别忘了，必须首先删除工作区下的&#x200B;**所有资源**。
 
 1. 单击&#x200B;**删除**&#x200B;进行确认。
 
