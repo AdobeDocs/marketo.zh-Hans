@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781911
-description: 了解电子邮件项目卡——营销文档——产品文档
+description: 了解电子邮件项目卡 — Marketo Docs — 产品文档
 title: 了解电子邮件项目卡
+exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
-
 # 了解电子邮件项目卡{#understanding-email-program-cards}
 
-使用Marketo Moments从手机或iPad视图电子邮件项目。
+使用Marketo Moments从您的手机或iPad视图电子邮件项目。
 
 ## 电子邮件项目卡{#email-program-cards}
 
@@ -23,17 +23,17 @@ ht-degree: 0%
 * [将电子邮件标记为完成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [共享电子邮件时刻卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-在尚未发送的电子邮件项目卡上，您将找到有关该电子邮件项目的状态和受众的信息。
+在尚未发送的电子邮件的电子邮件项目卡上，您将找到有关该电子邮件项目的状态和受众的信息。
 
 ![](assets/image2015-7-2-9-3a33-3a47.png)
 
-电子邮件发送后，卡片会显示其他有价值的信息，包括已发送电子邮件的数量、收件人的操作以及指向活动中使用的智能列表的链接。
+发送电子邮件后，卡片会显示其他有价信息，包括已发送的电子邮件数量、收件人的操作，以及指向活动中使用的智能列表的链接。
 
 ![](assets/image2015-9-25-10-3a5-3a29.png)
 
 ## 确认电子邮件卡{#confirming-an-email-card}
 
-1. 要确认未确认的电子邮件卡，请点击“三点”菜单。
+1. 要确认未确认的电子邮件卡，请点击“三个点”菜单。
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. 点按&#x200B;**确认**&#x200B;以完成该工作，或者，如果您有其他想法，请点按&#x200B;**别介意**。
+1. 点按&#x200B;**确认**&#x200B;以完成作业，或者如果有其他想法，请点按&#x200B;**别介意**。
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -65,9 +65,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->对于已确认的电子邮件，您必须先取消该电子邮件（请参阅下文）。
+>对于已确认的电子邮件，您必须先取消该电子邮件（请参阅下面的内容）。
 
-1. 要重新计划电子邮件，请点按三点菜单。
+1. 要重新计划电子邮件，请点按“三个点”菜单。
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
-   只要您有无线服务，您可以随时随地重新安排！
+   只要您有无线服务，就可以随时随地重新安排！
 
 ## 发送示例{#sending-a-sample}
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. 输入电子邮件地址，然后单击“发送示例”**。**
+1. 输入电子邮件地址，然后单击&#x200B;**发送示例**。
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -111,11 +111,11 @@ ht-degree: 0%
 
    太棒了！
 
-这就是查看电子邮件活动的独家新闻。 现在，你是专业人士！
+这就是查看电子邮件活动的独家消息。 现在，你是专业人士！
 
 >[!MORELIKETHIS]
 >
->* [理解营销时刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [理解Marketo时刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [了解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [了解分析卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [了解分析信息卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
