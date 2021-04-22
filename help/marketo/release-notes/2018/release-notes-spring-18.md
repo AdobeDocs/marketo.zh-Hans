@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14745959
-description: 发行说明–2018年春季 — Marketo Docs — 产品文档
+description: 发行说明 — Spring '18 - Marketo Docs — 产品文档
 title: 发行说明 — 2018年春
+exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：春季’18 {#release-notes-spring}
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 ## Marketo Sales Engage、Launch和ToutApp更新{#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Marketo销售活动](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [Launch](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * ToutApp更新
 
 >[!AVAILABILITY]
 >
->Sales Engage是一款附加产品。 如需报价，请联系您的营销人员客户成功经理或客户经理。
+>Sales Engage是一款附加产品。 如需报价，请与Marketo客户成功经理或客户经理联系。
 
 通过使销售人员能够借助智能、内容、游戏簿和分析将更多销售线索转化为销售机会，从而推动更多渠道和收入。 “销售互动”为销售和营销提供了一个统一的平台，用于在整个客户旅程中进行互动，并通过共享的客户接触点视图实现更好的协调。
 
@@ -77,13 +77,13 @@ ht-degree: 0%
 
 ## 集成和API {#integration-and-apis}
 
-[Facebook工作区集成](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+[Facebook Workplace Integration](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
 
-将系统通知和有趣的瞬间发送到Facebook工作区。
+将系统通知和有趣的时刻发送到Facebook Workplace。
 
 [静态列表API](https://developers.marketo.com/rest-api/assets/static-lists/)
 
-使用新的双向API更轻松地管理Marketo与其他系统之间的列表，无需在Marketo UI中执行任何操作即可远程创建、读取、更新和删除静态列表。
+借助用于远程创建、读取、更新和删除静态列表的全新双向API，更轻松地管理Marketo与其他系统之间的列表，而无需在Marketo UI中执行任何操作。
 
 ## 隐私增强{#privacy-enhancements}
 
