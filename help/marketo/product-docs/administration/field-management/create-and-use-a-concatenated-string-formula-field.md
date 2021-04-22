@@ -2,18 +2,18 @@
 unique-page-id: 2360337
 description: 创建和使用连接字符串（公式）字段 — Marketo Docs — 产品文档
 title: 创建并使用连接字符串（公式）字段
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 translation-type: tm+mt
-source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # 创建并使用连接字符串（公式）字段{#create-and-use-a-concatenated-string-formula-field}
 
-您可以合并多个字段的值，或使用“营销人员公式”字段构建条件值。
+您可以合并多个字段的值，或使用Marketo公式字段构建条件值。
 
 1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**字段管理**。
 
