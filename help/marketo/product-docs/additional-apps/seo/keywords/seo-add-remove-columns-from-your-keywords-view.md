@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949243
-description: SEO —— 在关键字视图- Marketo Docs —— 产品文档中添加／删除列
-title: SEO —— 在关键字视图中添加／删除列
+description: SEO — 添加/删除关键字视图- Marketo Docs — 产品文档
+title: SEO — 添加/删除关键字列视图
+exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-
-# SEO —— 添加／删除关键字视图{#seo-add-remove-columns-from-your-keywords-view}中的列
+# SEO — 添加/删除关键字视图{#seo-add-remove-columns-from-your-keywords-view}中的列
 
 您可以调整关键字视图以显示您最感兴趣的数据。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
-   以下是默认列：
+   这些是默认列：
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 
@@ -31,10 +31,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   太棒了！ 您现在已自定义关键字视图。
+   太棒了！ 您现在已自定义了关键字视图。
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
    >[!MORELIKETHIS]
    >
-   >[了解关键字——摘要视图](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[了解关键字 — 摘要视图](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
