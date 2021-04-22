@@ -1,31 +1,31 @@
 ---
 unique-page-id: 7512272
-description: 将WebEx添加为LaunchPoint服务- Marketo Docs —— 产品文档
+description: 将WebEx添加为LaunchPoint服务 — Marketo Docs — 产品文档
 title: 将WebEx添加为LaunchPoint服务
+exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-
 # 将WebEx添加为LaunchPoint服务{#add-webex-as-a-launchpoint-service}
 
-营销人员，管理您的WebEx网络研讨会注册和出席情况。
+Marketo管理您的WebEx网络研讨会注册和出席情况。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!NOTE]
 >
->此步骤需要现有WebEx订阅和管理权限。 现在有以下设置：用户名、密码和站点名称。
+>此步骤需要现有的WebEx订阅和管理权限。 现在有以下设置：用户名、密码和站点名称。
 
 >[!NOTE]
 >
->站点名称位于用于登录WebEx的URL末尾。 例如：
+>在用于登录WebEx的URL的末尾可以找到站点名称。 例如：
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/new-service-webex.png)
 
-1. 输入&#x200B;**用户名**&#x200B;和&#x200B;**密码**。
+1. 输入&#x200B;**Username**&#x200B;和&#x200B;**Password**。
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
@@ -57,4 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->了解如何使用WebEx[创建事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+>了解如何使用WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)创建事件。[
