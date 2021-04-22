@@ -2,14 +2,14 @@
 unique-page-id: 1147114
 description: 了解项目中的令牌 — Marketo Docs — 产品文档
 title: 了解我的令牌在项目
+exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # 了解项目{#understanding-my-tokens-in-a-program}中的令牌
 
@@ -38,7 +38,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>日历文件 <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此令牌<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">将日历事件文件(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>添加到您的电子邮件和登陆页中。</td> 
+   <td>使用此令牌<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">向您的电子邮件和登陆页中添加日历事件文件(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>。</td> 
   </tr> 
   <tr> 
    <td><p>日期 <img alt="—" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
@@ -62,7 +62,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1">SFDC活动 <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
-   <td colspan="1">使用此令牌可允许将成为Marketo项目一部分的Lead添加到添加的任何SFDC活动。</td> 
+   <td colspan="1">使用此令牌可允许将成为Marketo项目一部分的潜在客户也添加到添加的任何SFDC活动。</td> 
   </tr> 
   <tr> 
    <td>文本 <img alt="—" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
