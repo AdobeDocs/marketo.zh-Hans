@@ -2,18 +2,18 @@
 unique-page-id: 6848747
 description: 角色权限描述 — Marketo Docs — 产品文档
 title: 角色权限描述
+exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
 
 ---
 
-
 # 角色权限{#descriptions-of-role-permissions}说明
 
-以下是可分配给您角色的所有可用权限的列表。 权限通常与Marketo内的特定功能区域关联，有助于您控制不同用户有权访问的区域和功能。
+以下是可分配给您角色的所有可用权限的列表。 权限通常与Marketo中的特定功能区域关联，有助于您控制不同用户有权访问的区域和功能。
 
 有关权限的其他信息：
 
@@ -44,8 +44,8 @@ ht-degree: 0%
 * 访问位置 — 允许用户访问管理中的位置以设置默认语言、区域设置、时区和货币
 * 访问登录历史记录 — 允许用户访问审核跟踪中的用户登录历史记录
 * 访问登录设置 — 允许用户访问“管理员”中的“登录设置”以进行安全性、IP限制和智能列表报告设置
-* 访问Marketo自定义活动 — 允许用户在Admin中访问Marketo自定义活动
-* 访问Marketo自定义对象 — 允许用户在Admin中访问Marketo自定义对象
+* 访问Marketo自定义活动 — 使用户能够在Admin中访问Marketo自定义活动
+* 访问Marketo自定义对象 — 使用户能够在Admin中访问Marketo自定义对象
 * 访问Munchkin - Gi允许用户在Admin中访问Munchkin，以设置跟踪代码、人员跟踪和启用API配置
 * 访问收入周期分析 — 允许用户访问Admin中的收入周期分析，以设置同步摘要和归因
 * 访问角色 — 向用户授予管理和编辑角色的访问权限，但不向用户授予权限
