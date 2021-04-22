@@ -1,14 +1,14 @@
 ---
-description: 导出所有对象元数据 — Marketo Docs — 产品文档
+description: 导出所有对象元数据 — Marketo文档 — 产品文档
 title: 导出所有对象元数据
+exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # 导出所有对象元数据{#export-all-object-metadata}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 导出对象元数据{#export-object-metadata}
 
-1. 在“我的营销人员”中，单击&#x200B;**管理员**。
+1. 在“我的Marketo”中，单击&#x200B;**管理**。
 
    ![](assets/export-all-object-metadata-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->确保您的浏览器未阻止Marketo中的弹出窗口。
+>确保您的浏览器未阻止Marketo的弹出窗口。
 
 数据将导出为CSV。
 
