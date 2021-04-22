@@ -1,14 +1,14 @@
 ---
-description: 设置Microsoft Dynamics CRM应用程序，在线 — Marketo Docs — 产品文档
+description: 设置Microsoft Dynamics CRM联机应用程序 — Marketo Docs — 产品文档
 title: 设置Microsoft Dynamics CRM联机应用程序
+exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
 
 ---
-
 
 # 设置Microsoft Dynamics CRM联机应用程序{#set-up-microsoft-dynamics-crm-app-for-online}
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. 导航到https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration。
 
-1. 按照所有步骤操作。 在步骤3中，输入相关应用程序名称（例如“Marketo集成”）。 在“支持的帐户类型”下，选择“仅在此组织目录中的帐户”。
+1. 按照所有步骤操作。 对于步骤3，输入相关应用程序名称(例如“Marketo集成”)。 在“支持的帐户类型”下，选择“仅在此组织目录中的帐户”。
 
 1. 写下应用程序 ID(ClientId)。 您以后需要在Marketo中输入它。
 
@@ -40,17 +40,17 @@ ht-degree: 0%
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-4.png)
 
-Marketo使用grant_type资源所有者密码凭据(ROPC)通过OAuth验证到Azure AD。 此方案需要为特定应用程序创建主领域发现策略。 使用此策略，Azure AD会将身份验证请求重定向到联合身份验证服务。 为此，必须在AD Connect中启用口令哈希同步。 有关详细信息，请参阅[OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)和[为应用程序](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)设置hrd策略。
+Marketo使用grant_type资源所有者密码凭据(ROPC)验证到OAuth的Azure AD。 此方案需要为特定应用程序创建主领域发现策略。 使用此策略，Azure AD会将身份验证请求重定向到联合身份验证服务。 为此，必须在AD Connect中启用口令哈希同步。 有关详细信息，请参阅[OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)和[为应用程序](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)设置hrd策略。
 
 可在此处找到其他引用[。](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20asso%20includes%20federated，are%20federated%20to%20Azure%20AD。)
 
 完成后，应将&#x200B;**将Dynamics CRM生成的客户端Id和机密输入Marketo**。
 
-## 在Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}中输入Dynamics CRM生成的客户端Id和密码
+## 在Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}中输入Dynamics CRM生成的客户端Id和Secret
 
 以下步骤适用于联机&#x200B;_和_&#x200B;预先版本。
 
-1. 在Marketo中，单击&#x200B;**管理员**。
+1. 在Marketo中，单击&#x200B;**Admin**。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-5.png)
 
