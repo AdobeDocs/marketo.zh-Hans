@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571819
-description: 步骤3（共3步） — Connect Marketo和Dynamics（2013年内部部署） — Marketo文档 — 产品文档
-title: 第3步（共3步） — Connect Marketo和Dynamics（2013年内部部署）
+description: 第3步（共3步） — Connect Marketo和Dynamics（2013年内部部署） — Marketo文档 — 产品文档
+title: 步骤3（共3步） — 连接Marketo和Dynamics（2013年内部部署）
+exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
 
 ---
-
 
 # 第3步，共3步：Connect Marketo和Dynamics（2013年内部部署）{#step-of-connect-marketo-and-dynamics-on-premises}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [第1步，共3步：在Dynamics（2013内部部署）中安装Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [第1步，共3步：在Dynamics（2013年内部部署）中安装Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
 >* [第2步，共3步：为Marketo配置同步用户（2013年内部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >请确保您的凭据正确无误，因为我们无法在提交后还原后续模式更改。 如果保存的凭据不正确，您必须获得新的Marketo订阅。
+   >请确保您的凭据正确无误，因为我们无法在提交后还原后续模式更改。 如果保存的凭据不正确，则必须获得新的Marketo订阅。
 
 1. 输入&#x200B;**Username**、**Password**&#x200B;和Microsoft Dynamics **URL**，然后单击&#x200B;**Save**。
 
@@ -65,17 +65,17 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. 选择要同步到Marketo的字段，以便预先选择它们。 单击&#x200B;**保存**。
+1. 选择要同步到Marketo的字段，以预先选择它们。 单击&#x200B;**保存**。
 
    ![](assets/image2016-8-25-15-3a10-3a17.png)
 
    >[!NOTE]
    >
-   >Marketo存储对要同步的字段的引用。 如果您在Dynamics中删除字段，我们建议在[sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)的情况下执行此操作。 然后，通过编辑并保存[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)，在Marketo中刷新模式。
+   >Marketo存储对要同步的字段的引用。 如果您在Dynamics中删除字段，我们建议在[sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)的情况下执行此操作。 然后，在Marketo中编辑并保存[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)，以刷新模式。
 
 ## 自定义筛选器{#sync-fields-for-a-custom-filter}的同步字段
 
-如果已创建自定义筛选器，请务必进入并选择要与Marketo同步的新字段。
+如果已创建自定义过滤器，请务必进入并选择要与Marketo同步的新字段。
 
 1. 转至“管理员”，然后选择&#x200B;**Microsoft Dynamics**。
 
