@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360325
-description: 允许用户访问工作区- Marketo文档——产品文档
+description: 允许用户访问工作区 — Marketo Docs — 产品文档
 title: 允许用户访问工作区
+exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
-
 # 允许用户访问工作区{#allow-user-access-to-a-workspace}
 
-工作区可以是出于任何原因（如业务单位或地理区分）。 它们将资产(智能列表、项目等)分开 每个团队的成员。 下面介绍如何让用户访问一个或多个工作区。
+工作区可以因任何原因（如业务单位或地理区分）而存在。 它们将资产(智能列表、项目等) 每个团队的成员。 下面介绍如何让用户访问一个或多个工作区。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可以允许用户具有对工作区的任意组合访问权限。
+   >您可以允许用户对工作区具有任何访问权限组合。
 
    ![](assets/image2014-9-17-11-3a3-3a16.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-太好了！ 现在，当他们登录时，他们将看到您授予他们访问权限的所有工作区。
+太棒了！ 现在，当他们登录时，他们将看到您授予他们访问权限的所有工作区。
