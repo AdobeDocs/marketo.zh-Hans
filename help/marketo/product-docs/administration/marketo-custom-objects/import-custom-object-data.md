@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099680
-description: 导入自定义对象数据- Marketo文档——产品文档
+description: 导入自定义对象数据 — Marketo Docs — 产品文档
 title: 导入自定义对象数据
+exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-
 # 导入自定义对象数据{#import-custom-object-data}
 
-将自定义对象数据导入数据库很容易。 如果您正在使用带公司的自定义对象，请参阅[使用带公司的自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies)以了解详细信息。
+将自定义对象数据导入数据库很容易。 如果要使用带公司的自定义对象，请参阅[使用带公司的自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies)以了解详细信息。
 
-1. 在My Marketo中，转至&#x200B;**Database**。
+1. 在“我的Marketo”中，转至&#x200B;**Database**。
 
    ![](assets/db-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-4-7-10-6-54.png)
 
-1. 单击&#x200B;**浏览**&#x200B;以找到数据文件。 选择文件格式（本例中以逗号分隔的值）。
+1. 单击&#x200B;**浏览**&#x200B;以找到数据文件。 选择文件格式（此示例中的逗号分隔值）。
 
    ![](assets/image2016-4-13-14-3a21-3a53.png)
 
@@ -37,15 +37,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在创建或更新自定义对象记录时，请使用重复消除字段作为唯一标识符。 此示例使用&#x200B;**car**&#x200B;自定义对象- vin（车辆ID编号）的“重复数据消除”字段。 如果只更新自定义对象记录，则可以选择“Marketo Guid”作为重复数据消除模式。
+   >在创建或更新自定义对象记录时，使用重复数据消除字段作为唯一标识符。 此示例使用&#x200B;**car**&#x200B;自定义对象 — vin（车辆ID号）的“重复数据消除”字段。 如果只更新自定义对象记录，则可以选择Marketo Guid作为重复数据消除模式。
 
-1. 将每列映射到一个Marketo字段，从下拉菜单中选择它。
+1. 将每列映射到一个Marketo字段，然后从下拉菜单中选择它。
 
    ![](assets/image2016-4-13-14-3a36-3a57.png)
 
    >[!NOTE]
    >
-   >确保文件中的值与要匹配的字段类型（如文本、整数等）匹配，否则文件将被拒绝。
+   >确保文件中的值与要匹配它们的字段类型（例如，文本、整数等）匹配，否则将拒绝文件。
 
 1. 单击&#x200B;**下一步**。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在&#x200B;**将警报发送到：**&#x200B;字段中输入您的电子邮件地址，Marketo将在导入完成时向您发送电子邮件！
+   >在&#x200B;**将警报发送到：**&#x200B;字段中输入您的电子邮件地址，Marketo将在导入完成后通过电子邮件向您发送！
 
 1. 在屏幕的右上角，您将在导入运行时看到通知，并在完成时看到最终结果。
 
