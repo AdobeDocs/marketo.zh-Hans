@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377392
-description: 编辑您的默认品牌域- Marketo Docs —— 产品文档
+description: 编辑您的默认品牌域 — Marketo Docs — 产品文档
 title: 编辑默认品牌域
+exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # 编辑默认品牌域{#edit-your-default-branding-domain}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. 在“品牌域”(Branding Domains)表格中，选择通用域并单击“编辑”(Edit)，将其更改为公司的品牌域。
+1. 在“品牌域”(Branding Domains)表格中，选择通用域并单击“编辑”(Edit)将其更改为公司的品牌域。
 
    ![](assets/edit-branding-domain.png)
 
