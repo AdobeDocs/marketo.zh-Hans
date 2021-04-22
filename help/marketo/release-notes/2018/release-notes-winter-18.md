@@ -2,14 +2,14 @@
 unique-page-id: 13795395
 description: 发行说明 — Winter '18 - Marketo Docs — 产品文档
 title: 发行说明 — 2018年冬季
+exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 translation-type: tm+mt
-source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：冬季’18 {#release-notes-winter}
 
@@ -25,17 +25,17 @@ Marketo正在利用我们的大数据体系结构来增加触发活动吞吐量�
 
 我们对Salesforce CRM集成有两项增强功能：
 
-* [针对某](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 些CRM同步失败（凭据已过期、已达到API限制等）的Marketo Admin通知
+* [Marketo管](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 理员通知某些CRM同步失败（凭据已过期，已达到API限制等）
 
 * [在潜在客户分配时关闭](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 向潜在客户所有者的电子邮件通知
 
 这些改进将于2018年推出。
 
-## [营销人员绩效洞察](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [Marketo性能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
->Performance Insights是一款附加产品。 如需报价，请联系您的营销人员客户成功经理或客户经理。
+>Performance Insights是一款附加产品。 如需报价，请与Marketo客户成功经理或客户经理联系。
 
 通过归因分析、交互式可视化和详细的数据表，了解您的活动和渠道对业务成果的影响。
 
@@ -63,17 +63,17 @@ Marketo正在利用我们的大数据体系结构来增加触发活动吞吐量�
 
 **[Google客户匹配集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-通过此集成，您可以使用Google AdWords将Marketo受众发送到Google以定位，并在YouTube、Search和Gmail中重新目标受众。
+通过此集成，您可以使用Google AdWords将Marketo受众发送到Google以定位，以及在YouTube、Search和Gmail中重新目标受众。
 
-**[LinkedIn匹配受众API增强](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[linkedIn Matched 受众 API增强](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-我们新的LinkedIn API现在使您能够跨多个LinkedIn活动管理器帐户重新目标您Marketo数据库中的人员。
+我们新的LinkedIn API现在使您能够跨多个LinkedIn 活动 Manager帐户重新目标Marketo数据库中的人员。
 
 ## Web个性化{#web-personalization}
 
 **日文Web个性化数据源**
 
-Marketo正在为Web个性化添加一个额外的日文访客源，以改进来自日本的访客的Web个性化识别（反向IP查找）和个性化。 组织名称将以日文显示。
+Marketo正在为Web个性化添加一个额外的日文访客源，以改进来自日本的访客的Web识别（反向IP查找）和个性化。 组织名称将以日文显示。
 
 **[使用静态列表创建Web区段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
