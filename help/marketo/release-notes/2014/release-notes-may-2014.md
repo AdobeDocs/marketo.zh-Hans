@@ -2,18 +2,18 @@
 unique-page-id: 2951044
 description: 发行说明 — 2014年5月 — Marketo Docs — 产品文档
 title: 发行说明 — 2014年5月
+exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
 
 ---
 
-
 # 发行说明：2014年5月{#release-notes-may}
 
-2014年5月版包含以下功能。 请查看您的Marketo Edition以了解功能可用性。 发布后，请务必回来查找每个功能的详细知识库文章的链接！
+2014年5月版包含以下功能。 请查看Marketo版以了解功能可用性。 发布后，请务必回来查找每个功能的详细知识库文章的链接！
 
 ## 删除工作区{#delete-workspace}
 
