@@ -2,14 +2,14 @@
 unique-page-id: 2951058
 description: 发行说明 — 2013年8月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年8月
+exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2013年8月{#release-notes-august}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 自动触发器活动清理{#automatic-trigger-campaign-cleanup}
 
-Marketo现在将定期通知您，并且[会自动取消激活过去六个月内未运行的触发器活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
+Marketo现在将定期通知您并且[自动取消激活过去六个月内未运行的触发活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
@@ -61,4 +61,4 @@ Marketo现在将定期通知您，并且[会自动取消激活过去六个月内
 
 ### Cobalt用户界面{#cobalt-user-interface}
 
-我们继续推出新的Cobalt接口。 这个项目将让Marketo的一切都变得精彩！ 升级将在今年剩余时间继续进行。
+我们继续推出新的Cobalt接口。 这个项目将让Marketo的一切变得精彩！ 升级将在今年剩余时间继续进行。
