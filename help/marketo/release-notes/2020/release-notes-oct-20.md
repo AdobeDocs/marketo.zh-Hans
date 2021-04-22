@@ -1,15 +1,15 @@
 ---
 unique-page-id: 45416698
-description: 发行说明 — 2020年10月 — Marketo Docs — 产品文档
+description: 发行说明 — 10月20日 — Marketo Docs — 产品文档
 title: 发行说明 — 2020年10月
+exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’20年10月{#release-notes-oct}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 网站营销{#website-marketing}
 
-* **嵌入表单代码自动化**:利用嵌入在Marketo之外托管的安全登陆页中的Marketo Engage表单，赢取更多商机。表单嵌入代码会自动更新以包含登陆页域名，并且无需为Web开发人员手动操作。 代码链接中的自定义域改善了网站导航体验和表单利用率。
+* **嵌入表单代码自动化**:利用嵌入在Marketo以外托管的安全登陆页中的Marketo Engage表单赢取更多商机。表单嵌入代码会自动更新以包含登陆页域名，并且无需为Web开发人员手动操作。 代码链接中的自定义域改善了网站导航体验和表单利用率。
 
 ## Experience Cloud集成{#experience-cloud-integration}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 付费媒体定位{#paid-media-targeting}
 
-* **Facebook潜在客户广告集成**:现在可通过Facebook潜在客户广告的LaunchPoint服务捕获Facebook表单跟踪参数。这些隐藏字段现在可以映射到Marketo字段，使营销人员能够存储和处理宝贵的活动跟踪数据。
+* **Facebook领先广告集成**:Facebook表单跟踪参数现在可通过Facebook潜在客户广告的LaunchPoint服务捕获。这些隐藏字段现在可以映射到Marketo字段，使营销人员能够存储宝贵的活动跟踪数据并采取相应行动。
 
 ## 管理{#administration}
 
