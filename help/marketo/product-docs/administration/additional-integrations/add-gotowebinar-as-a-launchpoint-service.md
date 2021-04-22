@@ -1,27 +1,27 @@
 ---
 unique-page-id: 7512289
-description: 将GoToWebinar添加为LaunchPoint服务- Marketo Docs —— 产品文档
+description: 将GoToWebinar添加为LaunchPoint服务 — Marketo文档 — 产品文档
 title: 将GoToWebinar添加为LaunchPoint服务
+exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
 # 将GoToWebinar添加为LaunchPoint服务{#add-gotowebinar-as-a-launchpoint-service}
 
-营销人员，管理您的GoTo网络研讨会注册和出席情况。
+Marketo管理您的GoTo网络研讨会注册和出席情况。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!NOTE]
 >
->此步骤需要现有的GoToWebinar订阅和管理权限。 手边有用于登录GoToWebinar的电子邮件和密码。
+>此步骤需要现有的“转到网络研讨会”和管理权限订阅。 手边有用于登录GoToWebinar的电子邮件和密码。
 
 >[!NOTE]
 >
@@ -39,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. 接下来，单击&#x200B;**登录GoToWebinar**。
+1. 然后，单击&#x200B;**登录GoToWebinar**。
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
    >[!NOTE]
    >
-   >如果要将Marketo表单中的公司名称和职务同步到GoToWebinar，请选择&#x200B;**启用其他字段**&#x200B;框。
+   >如果要将Marketo表单中的公司名称和作业标题同步到GoToWebinar，请选择&#x200B;**启用其他字段**&#x200B;框。
 
 1. 在“GoToWebinar登录”弹出窗口中，输入您的&#x200B;**GoToWebinar**&#x200B;电子邮件和密码，然后单击&#x200B;**登录**。
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. 太好了！ 您的&#x200B;**GoToWebinar**&#x200B;帐户现在与Marketo同步。
+1. 太棒了！ 您的&#x200B;**GoToWebinar**&#x200B;帐户现已与Marketo同步。
 
    ![](assets/goto-webinar.png)
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->了解如何[使用GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)创建事件。
+>了解如何使用GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)创建事件。[
