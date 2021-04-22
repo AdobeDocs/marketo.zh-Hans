@@ -2,14 +2,14 @@
 unique-page-id: 12983390
 description: 向Azure注册应用程序以获取您的客户端ID/应用程序ID - Marketo Docs — 产品文档
 title: 向Azure注册应用程序以获取您的客户端ID/应用程序ID
+exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
-
 
 # 向Azure注册应用程序以获取您的客户端ID/应用程序ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
@@ -87,4 +87,3 @@ Azure Active Directory将您的本地目录扩展到云中，提供对MS Dynamic
    你完了！
 
    ![](assets/fifteen.png)
-
