@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953352
-description: 直接在营销日历- Marketo Docs —— 产品文档中编辑条目
+description: 直接在营销日历 — Marketo Docs — 产品文档中编辑条目
 title: 直接在营销日历中编辑条目
+exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-
 # 直接在营销日历{#edit-entries-directly-in-the-marketing-calendar}中编辑条目
 
-进入项目焦点模式后，您可以快速更改日历条目。 这是方法。
+进入项目焦点模式后，您可以快速更改日历条目。 下面介绍如何操作。
 
 ## 启用项目焦点{#enable-program-focus}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 转换条目类型{#convert-entry-type}
 
-在基本条目中快速进行了铅笔注释后，可以将它们转换为最终形式。
+在基本条目中快速进行了预计后，您可以将它们转换为最终形式。
 
 1. 查找并选择要转换和更改其类型的基本条目。
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-就这样！ 正如您所看到的，您可以直接从营销日历中执行许多操作。
+就这样！ 正如您所看到的，您可以直接从“营销日历”执行许多操作。
 
 >[!MORELIKETHIS]
 >
