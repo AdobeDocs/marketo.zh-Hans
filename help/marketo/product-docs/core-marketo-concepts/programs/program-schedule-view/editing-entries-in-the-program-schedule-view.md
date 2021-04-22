@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147136
-description: 在项目计划视图中编辑条目- Marketo Docs —— 产品文档
+description: 在项目计划视图- Marketo Docs — 产品文档中编辑条目
 title: 在项目计划视图中编辑条目
+exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
 # 在项目计划视图{#editing-entries-in-the-program-schedule-view}中编辑条目
 
-您可以在项目视图中对计划的不同元素进行编辑。
+您可以在计划视图中对项目的不同元素进行编辑。
 
 ## 编辑条目名称{#edit-an-entrys-name}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->这只会更改计划视图中的显示名称。 您所在项目的资产名称将保持不变。
+>这只会更改计划视图中的显示名称。 您项目中的资产名称将保持不变。
 
 ## 编辑条目的说明{#edit-an-entrys-description}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. 太好了！ 您的描述现在已更改。
+1. 太棒了！ 您的描述现在已更改。
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
