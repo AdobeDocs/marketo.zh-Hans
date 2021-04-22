@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949192
-description: SEO —— 添加竞争对手- Marketo Docs —— 产品文档
-title: SEO —— 添加竞争对手
+description: SEO — 添加竞争对手- Marketo Docs — 产品文档
+title: SEO — 添加竞争对手
+exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
+# SEO — 添加竞争对手{#seo-add-competitors}
 
-# SEO —— 添加竞争对手{#seo-add-competitors}
-
-添加竞争对手后，您可以跟踪它们对您选择监视的相同关键字和入站链接的执行情况。
+添加竞争对手将允许您跟踪它们对您选择监视的相同关键字和入站链接的执行情况。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 1. 转至&#x200B;**Admin**&#x200B;部分。
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
-   击掌！ 现在您应该在列表中看到竞争对手。
+   五！ 您现在应该可以在列表中看到您的竞争对手。
 
    ![](assets/image2014-9-17-21-3a13-3a14.png)
 
-   恭喜！ 你离彻底粉碎它只差一步。
+   恭喜！ 你离完全粉碎还差一步。
 
    >[!MORELIKETHIS]
    >
