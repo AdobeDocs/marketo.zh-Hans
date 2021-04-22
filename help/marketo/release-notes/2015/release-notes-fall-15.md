@@ -2,30 +2,30 @@
 unique-page-id: 10094114
 description: 发行说明 — 2015年秋季 — Marketo Docs — 产品文档
 title: 发行说明 — 2015年秋季
+exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '995'
 ht-degree: 0%
 
 ---
 
-
 # 发行说明：2015年秋{#release-notes-fall}
 
-’15年秋季版包含以下功能。 请查看您的Marketo Edition以了解功能可用性。
+’15年秋季版包含以下功能。 请查看Marketo版以了解功能可用性。
 
 ## 订阅智能列表{#subscribe-to-a-smart-list}
 
 [订阅智能列表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
-订阅智能列表可让营销人员导出智能列表并将其通过电子邮件发送给未使用营销人员，例如销售或电话营销团队。
+订阅智能列表可让营销人员导出智能列表，并将其通过电子邮件发送给不使用Marketo的利益相关方，例如销售或电话营销团队。
 
 可以每天、每周或每月计划导出，可以具有结束投放日期，并可以自定义以共享有限数量的列。
 
 ![](assets/image2015-10-1-17-3a12-3a50.png)
 
-可以在智能订阅上创建多个列表。 每个订阅、不同工作区、每个Marketo实例有10万个潜在客户的100个订阅存在限制。
+可以在智能订阅上创建多个列表。 每个订阅、不同工作区、每个Marketo实例都有10万个潜在客户的100个订阅存在限制。
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
@@ -33,25 +33,25 @@ ht-degree: 0%
 
 [Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-从管理员UI轻松创建自定义对象。 我们目前支持在Marketo中创建1:N自定义对象并将其连接到潜在客户或公司。
+从管理员UI轻松创建自定义对象。 目前，我们支持在Marketo中创建1:N自定义对象并将其连接到潜在客户或公司。
 
 >[!NOTE]
 >
->Marketo自定义对象不适用于Spark。
+>Marketo自定义对象不可用于Spark。
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Google Chrome的Marketo Insights {#marketo-insights-for-google-chrome}
+## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
 
-[针对Google Chrome的Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 我们很高兴地宣布发布Google Mail Sales Insight扩展的更新！ 将其视图到[Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中。
 
 此更新包括许多新增功能和特性：
 
-* 在进行互动之前，销售人员可以直接在Google Mail中查看有关其潜在客户的相关信息，包括职位、twitter用户档案、公司信息、照片等。
+* 在与潜在客户互动之前，销售人员可以直接在Google Mail中查看有关其客户的相关信息，包括职位、twitter用户档案、公司信息、照片等。
 * 销售人员可以实时查看潜在客户在各个渠道中参与的内容，如打开或点击的电子邮件、在线或亲临事件、访问的网页、下载的eBook等。
-* 通过Google Mail发送的电子邮件会记录在Marketo中并实时跟踪。 这样，销售人员便可了解潜在客户查看其电子邮件的时间，以便在适当的时间进行跟进。 Google Mail的Marketo Sales Insight还使销售人员能够轻松利用由营销创建的模板来发送美观的邀请、优惠和其他类型的内容。
+* 通过Google Mail发送的电子邮件将记录在Marketo中并实时跟踪。 这样，销售人员便可了解潜在客户查看其电子邮件的时间，以便在适当的时间进行跟进。 Marketo Sales Insight for Google Mail还使销售人员能够轻松利用由营销创建的模板来发送美观的邀请、优惠和其他类型的内容。
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
