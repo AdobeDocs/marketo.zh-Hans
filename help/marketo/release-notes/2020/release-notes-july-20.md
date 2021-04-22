@@ -1,15 +1,15 @@
 ---
 unique-page-id: 45416698
-description: 发行说明 — 1920年7月 — Marketo Docs — 产品文档
+description: 发行说明 — 1920年7月 — Marketo文档 — 产品文档
 title: 发行说明 — ’20年7月
+exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’20年7月{#release-notes-july}
 
@@ -64,5 +64,5 @@ ht-degree: 0%
 * **资产API“_method”参数删除**:在2020年9月之后，资产API端点将不再接受“_method”以在查询体中传递POST参数以绕过URI长度限制。为了适应需要此参数的请求，资产API的URI限制将从8KB增加到65KB。
 * **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**:随着Munchkin JavaScript客户端版本159的发布，我们将开始弃用Munchkin Associate潜在客户方法。如果被调用，您将收到一条警告，指示将在将来的版本中删除该方法。 删除后，该方法将不再正常工作，尝试使用它将失败。 最近使用此方法的Marketo Engage客户将单独收到其使用的通知。
 * **支持Internet Explorer**:如之前宣布的，对Internet Explorer 11的Marketo Engage支持将于2020 **年7月31日终止**。我们将继续支持Google Chrome、Mozilla Firefox、Apple Safari和Microsoft Edge。
-* **天空默认体验**:此版本中将删除管理员或用户将Marketo Sky设置为默认体验的选项，以准备对主用户体验进行更新。计划在今年晚些时候进行的主要体验更新的更多详细信息将在7月发布。 已将Marketo Sky设置为默认体验或已获得对Marketo Sky的访问权限的用户可以继续从“我的营销人员”主页上的拼贴访问Marketo Sky。
+* **天空默认体验**:此版本中将删除管理员或用户将Marketo Sky设置为默认体验的选项，以准备对主用户体验进行更新。计划在今年晚些时候进行的主要体验更新的更多详细信息将在7月发布。 已将Marketo Sky设置为默认体验或已获得访问Marketo Sky权限的用户可以继续从“我的Marketo”主页上的拼贴访问Marketo Sky。
 * **EdgeHTML（非Chromium）Microsoft Edge支持**:Marketo Engage在2020年底将不再支持EdgeHTML版本的Microsoft Edge。从2021年1月1日开始，我们将仅支持最新的Chromium版Microsoft Edge。
