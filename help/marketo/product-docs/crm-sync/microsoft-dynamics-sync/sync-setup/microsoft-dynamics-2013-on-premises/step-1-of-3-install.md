@@ -1,33 +1,33 @@
 ---
 unique-page-id: 3571813
-description: 步骤1（共3步）-在Dynamics（2013内部部署）中安装Marketo Solution - Marketo Docs —— 产品文档
-title: 步骤1（共3步）-在Dynamics（2013年内部部署）中安装Marketo解决方案
+description: 第1步（共3步） — 在Dynamics（2013内部部署）中安装Marketo解决方案 — Marketo文档 — 产品文档
+title: 第1步（共3步） — 在Dynamics（2013年内部部署）中安装Marketo解决方案
+exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
+# 第1步，共3步：在Dynamics（2013内部部署）中安装Marketo解决方案{#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-# 第1步，共3步：在Dynamics（2013内部部署）{#step-of-install-the-marketo-solution-in-dynamics-on-premises}中安装Marketo解决方案
-
-在同步Microsoft Dynamics On-Promess和Marketo之前，您需要先在Dynamics中安装Marketo解决方案。
+在同步Microsoft Dynamics On-Premise和Marketo之前，您需要先在Dynamics中安装Marketo解决方案。
 
 >[!NOTE]
 >
->将Market同步到CRM后，无法在不替换实例的情况下执行新同步。
+>将Marketo同步到CRM后，无法在不替换实例的情况下执行新同步。
 
 >[!PREREQUISITES]
 >
->必须配置[面向Internet的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)，并配置[Active Directory联合服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1或3.0(ADFS)。 注意：IFD文档在您单击链接时自动下载。
+>您必须配置[面向Internet的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)，并配置[ Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1或3.0(ADFS)。 注意：当您单击该链接时，IFD文档会自动下载。
 >
->[在开始之前](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 下载Marketo Solution。
+>[在开始之前](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 下载Marketo解决方案。
 
 >[!NOTE]
 >
->**需要动态管理员权限。**
+>**需要Dynamics管理员权限。**
 >
 >您需要CRM管理员权限才能执行此同步。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 
-1. 确保选中SDK选项。 单击&#x200B;**导入**。
+1. 确保选中了SDK选项。 单击&#x200B;**导入**。
 
    ![](assets/image2015-3-26-10-3a3-3a11.png)
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能会看到一条消息，说明“Marketo Lead Management已完成，但有警告”。 这完全是意料之中的。
+   >您可能会看到一条消息，说“Marketo Lead Management已完成，但有警告”。 这完全是预期。
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. Marketo Lead Management现在将显示在&#x200B;**所有解决方案**&#x200B;页面上。
+1. Marketo潜在客户管理现在将显示在&#x200B;**所有解决方案**&#x200B;页面上。
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
-还不算太糟吧？ 来吧，我会一直带你过去。
+不是太糟吧？ 来吧，我会一直陪着你。
 
 >[!CAUTION]
 >
@@ -95,4 +95,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[第2步，共3步：为Marketo配置同步用户（2013年本地版）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>[第2步，共3步：为Marketo配置同步用户（2013年内部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
