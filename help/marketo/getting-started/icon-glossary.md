@@ -2,14 +2,14 @@
 unique-page-id: 4720476
 description: 图标词汇表 — Marketo Docs — 产品文档
 title: 图标词汇表
+exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
 
 ---
-
 
 # 图标词汇表{#icon-glossary}
 
@@ -383,7 +383,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>请求的智能活动（由Sales Insight或Marketo Flow操作）</td> 
+   <td>请求的智能活动(由Sales Insight或Marketo Flow Action)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1205,4 +1205,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
