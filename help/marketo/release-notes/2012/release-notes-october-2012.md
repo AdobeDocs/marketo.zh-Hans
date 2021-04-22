@@ -2,14 +2,14 @@
 unique-page-id: 2951109
 description: 发行说明 — 2012年10月 — Marketo Docs — 产品文档
 title: 发行说明 — 2012年10月
+exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2012年10月{#release-notes-october}
 
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## 导入项目和项目交换{#import-programs-and-program-exchange}
 
-可以将项目从一个Marketo订阅导入到另一个Market。 例如，您可以在沙箱中创建项目，然后将其导入到实时订阅中。 此外，您还可以从Marketo项目库导入预建项目。
+项目可以从一个Marketo订阅导入到另一个。 例如，您可以在沙箱中创建项目，然后将其导入到实时订阅中。 此外，还可以从Marketo项目库导入预建项目。
 
 ![](assets/image2014-9-23-10-3a46-3a42.png)
 
 >[!NOTE]
 >
->只有Marketo管理员用户已授予权限的Marketo用户才能导入项目。
+>只有Marketo用户(已获得Marketo管理员用户的权限)才能导入项目。
 >
->联系Marketo支持以连接沙箱帐户您的实时订阅。
+>请与Marketo支持联系，以连接您的实时订阅的沙箱帐户。
 
 ## 通知{#notifications}
 
-通知可让您了解Marketo订阅中发生的系统事件。 例如，当活动失败或您的CRM同步需要注意时，系统将自动通知您。 通知位于“我的营销人员”选项卡上。 此外，您还可以订阅通知，以便在电子邮件中实时接收通知。
+通知可让您了解Marketo订阅中发生的系统事件。 例如，当活动失败或您的CRM同步需要注意时，系统将自动通知您。 通知位于“我的Marketo”选项卡上。 此外，您还可以订阅通知，以便在电子邮件中实时接收通知。
 
 ![](assets/image2014-9-23-10-3a46-3a53.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 收入浏览器报表订阅{#revenue-explorer-report-subscriptions}
 
-创建报表订阅，并定期将收入浏览器报表发送给包括非营销人员在内的主要利益相关者。 该电子邮件包含报表数据表或图表的预览，以及包含所有报表数据的Excel电子表格。
+创建报表订阅，并定期将收入浏览器报表发送给包括非Marketo用户在内的主要利益相关者。 该电子邮件包含报表数据表或图表的预览，以及包含所有报表数据的Excel电子表格。
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
