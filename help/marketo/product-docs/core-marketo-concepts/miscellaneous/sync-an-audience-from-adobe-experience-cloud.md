@@ -1,14 +1,14 @@
 ---
 description: 从Adobe Experience Cloud同步受众- Marketo Docs — 产品文档
 title: 从Adobe Experience Cloud同步受众
+exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 translation-type: tm+mt
-source-git-commit: 05c2e89222f9316241a3929642998bddb02ff7a5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # 从Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}同步受众
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 如何同步受众{#how-to-sync-an-audience}
 
-1. 在My Marketo中，单击&#x200B;**Database**&#x200B;拼贴。
+1. 在“我的Marketo”中，单击&#x200B;**数据库**&#x200B;拼贴。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **Cookie同步是如何工作的？**
 
-为您的Marketo订阅启用Cookie同步后，Marketo的munchkin.js将尝试为您在集成设置过程中指定的AdobeIMS组织捕获和存储AdobeECID，并将这些ECID与相应的Marketo Cookie标识符匹配。 这使Marketo的匿名用户用户档案能够丰富AdobeECID。
+为您的Marketo订阅启用Cookie同步后，Marketo的munchkin.js将尝试为您在集成设置过程中指定的Adobe IMS组织捕获和存储AdobeECID，并将这些ECID与相应的Marketo Cookie标识符匹配。 这使Marketo的匿名用户用户档案能够丰富Adobe ECID。
 
 需要进一步将匿名用户用户档案关联到潜在客户用户档案，该潜在客户使用纯文本电子邮件进行标识。 ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)中具体介绍了这种方法的工作方式。[
 
