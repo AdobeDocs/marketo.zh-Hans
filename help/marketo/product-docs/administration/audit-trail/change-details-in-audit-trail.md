@@ -2,18 +2,18 @@
 unique-page-id: 11379928
 description: Change Details in Audit Trail - Marketo Docs - Product Documentation
 title: 更改审计线索中的详细信息
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 0%
 
 ---
 
-
 # 更改审核跟踪{#change-details-in-audit-trail}中的详细信息
 
-Audit Trail优惠了解谁在您的Marketo订阅中做什么。 下面是详细信息。
+审计线索可优惠大量洞察谁在Marketo订阅中执行哪些操作。 下面是详细信息。
 
 ## 资产审核跟踪{#asset-audit-trail}
 
@@ -137,7 +137,7 @@ Audit Trail优惠了解谁在您的Marketo订阅中做什么。 下面是详细�
   </tr> 
   <tr> 
    <td>编辑</td> 
-   <td>编辑模块 <code>"<module name>" <attribute></code> 到"value"</td> 
+   <td>编辑模块 <module name><attribute> 到"value"</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -752,7 +752,7 @@ Audit Trail优惠了解谁在您的Marketo订阅中做什么。 下面是详细�
    <td>密码安全性更改为模板：标准安全性，最小长度：#，下上：#，数字：#，混合大小写：#，过期：#，会话超时：#</td> 
   </tr> 
   <tr> 
-   <td rowspan="3">角色<br><br></td> 
+   <td rowspan="3">职位<br><br></td> 
    <td>创建</td> 
    <td>使用“角色名称”创建的角色(注意：如果您需要有关已添加权限的详细信息，请与支持部门联系)- <br>显示已分配给角色的权限快照</td> 
   </tr> 
@@ -813,4 +813,3 @@ Audit Trail优惠了解谁在您的Marketo订阅中做什么。 下面是详细�
 >[!MORELIKETHIS]
 >
 >[在审计跟踪中筛选](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-
