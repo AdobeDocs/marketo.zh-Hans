@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147118
-description: 在项目中使用期间成本- Marketo Docs —— 产品文档
+description: 在项目中使用期间成本 — Marketo文档 — 产品文档
 title: 在项目中使用期间成本
+exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
+# 在项目{#using-period-costs-in-a-program}中使用期间成本
 
-# 在{#using-period-costs-in-a-program}项目中使用期间成本
-
-[期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)是您在项目上花费的金额。 它可以持续一个或多个月，并用于报告ROI。
+[期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)是您在项目上支出的金额。 它可持续一个或多个月，用于报告ROI。
 
 ## 添加期间成本{#add-a-period-cost}
 
-1. 转到项目的&#x200B;**Setup**&#x200B;选项卡。
+1. 转到项目的&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. 输入&#x200B;**期间费用**（不含小数或逗号）。 单击&#x200B;**保存**。
+1. 输入&#x200B;**期间费用**（不带小数或逗号）。 单击&#x200B;**保存**。
 
    >[!NOTE]
    >
-   >这可以是估计。 您始终可以在知道确切金额后编辑期间成本（请参阅下一节）。
+   >这可以是估计。 只要知道确切金额，您始终可以编辑期间成本（请参阅下一节）。
 
    ![](assets/image2016-4-1-8-3a54-3a30.png)
 
@@ -47,9 +47,9 @@ ht-degree: 0%
 
 ## 编辑期间成本{#edit-a-period-cost}
 
-1. 如果支出的金额大于或小于最初预计的金额，则可以编辑期间成本。
+1. 如果支出的金额高于或低于最初预计的金额，则可以编辑期间成本。
 
-1. 转到项目的&#x200B;**Setup**&#x200B;选项卡。
+1. 转到项目的&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 删除期间成本{#delete-a-period-cost}
 
-1. 转到项目的&#x200B;**Setup**&#x200B;选项卡。
+1. 转到项目的&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
