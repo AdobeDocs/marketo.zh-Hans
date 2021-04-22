@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571809
 description: 第3步（共3步） — 将Microsoft Dynamics与Marketo（2011年内部部署）连接 — Marketo文档 — 产品文档
-title: 第3步（共3步） — 将Microsoft Dynamics与Marketo连接（2011年内部部署）
+title: 第3步（共3步） — 将Microsoft Dynamics与Marketo（2011年内部部署）连接
+exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 translation-type: tm+mt
-source-git-commit: 20eb3389b267101fb277152f150c2119a5be65a8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 0%
 
 ---
 
-
-# 第3步，共3步：将Microsoft Dynamics与Marketo连接（2011年内部部署）{#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
+# 第3步，共3步：将Microsoft Dynamics与Marketo（2011内部部署）{#step-of-connect-microsoft-dynamics-with-marketo-on-premises}连接
 
 好！ 我们已安装解决方案并配置了同步用户。 接下来，我们需要将Marketo和Dynamics联系起来。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >请确保您的凭据正确无误，因为我们无法在提交后还原后续模式更改。 如果保存的凭据不正确，您必须获得新的Marketo订阅。
+   >请确保您的凭据正确无误，因为我们无法在提交后还原后续模式更改。 如果保存的凭据不正确，则必须获得新的Marketo订阅。
 
 1. 输入&#x200B;**Username**、**Password**&#x200B;和CRM **URL**，然后单击&#x200B;**Save**。
 
@@ -71,11 +71,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo存储对要同步的字段的引用。 如果您在Dynamics中删除字段，我们建议在[sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)的情况下执行此操作。 然后，通过编辑并保存[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)，在Marketo中刷新模式。
+   >Marketo存储对要同步的字段的引用。 如果您在Dynamics中删除字段，我们建议在[sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)的情况下执行此操作。 然后，在Marketo中编辑并保存[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)，以刷新模式。
 
 ## 自定义筛选器{#sync-fields-for-a-custom-filter}的同步字段
 
-如果已创建自定义筛选器，请务必进入并选择要与Marketo同步的新字段。
+如果已创建自定义过滤器，请务必进入并选择要与Marketo同步的新字段。
 
 1. 转至“管理员”，然后选择&#x200B;**Microsoft Dynamics**。
 
