@@ -2,14 +2,14 @@
 unique-page-id: 12255606
 description: 发行说明 — Winter '17 - Marketo Docs — 产品文档
 title: 发行说明 — 2017年冬季
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’17年冬季{#release-notes-winter}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >如果一个主题有多个子标题，则链接将放在该位置。
 
-## [Facebook自定义受众的高级匹配](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [facebook自定义受众的高级匹配](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 “基本匹配”仅使用电子邮件地址，但新的“高级匹配”使用另外七个字段，从而提高匹配率以实现更多转换。
 
@@ -95,4 +95,4 @@ Web个性化、预测内容和电子邮件洞察应用程序现在提供日语�
 
 ## [Marketo 活动 API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Marketo的活动API即将发生重要变化。 你准备好了吗？
+Marketo的活动 API即将发生重要变化。 你准备好了吗？
