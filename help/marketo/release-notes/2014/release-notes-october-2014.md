@@ -2,14 +2,14 @@
 unique-page-id: 2953334
 description: 发行说明 — 2014年10月 — Marketo Docs — 产品文档
 title: 发行说明 — 2014年10月
+exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2014年10月{#release-notes-october}
 
@@ -32,15 +32,15 @@ ht-degree: 0%
 
 发行版[developers.marketo.com](https://developers.marketo.com/documentation/rest/)后将提供完整的详细信息。
 
-## MSI — 发送Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}的Marketo电子邮件
+## MSI — 发送Marketo Email for Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
 [从Microsoft Dynamics向潜在客户](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) 和联系人发送和跟踪销售电子邮件。
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI — 添加到Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}的Marketo活动
+## MSI — 添加到Marketo 活动 for Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[在Microsoft Dynamics中直接将潜在客户和联系](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 人添加到Marketo智能营销活动。市场营销可以选择哪些市场活动可供销售。
+[在Microsoft Dynamics中直接将潜在客户和联](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 系人添加到Marketo智能营销活动。市场营销可以选择哪些Marketo活动可供销售。
 
 ## 对Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}的自定义实体支持
 
