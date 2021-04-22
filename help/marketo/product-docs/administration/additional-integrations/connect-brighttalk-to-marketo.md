@@ -1,19 +1,19 @@
 ---
 unique-page-id: 15695874
-description: Connect BrightTALK to Marketo - Marketo Docs — 产品文档
-title: 将BrightTALK与Marketo连接
+description: Connect BrightTALK到Marketo - Marketo Docs — 产品文档
+title: 将BrightTALK连接到Marketo
+exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # 将BrightTALK连接到Marketo {#connect-brighttalk-to-marketo}
 
-了解如何将您的BrightTALK渠道与您的Marketo实例连接。 为此，您必须同时为两者的管理员。
+了解如何将您的BrightTALK渠道连接到您的Marketo实例。 为此，您必须同时为两者的管理员。
 
 >[!NOTE]
 >
@@ -22,10 +22,10 @@ ht-degree: 0%
 ## BrightTALK {#steps-in-brighttalk}中的步骤
 
 1. 登录到[business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login)，然后单击&#x200B;**立即连接**。
-1. 在“Advanced Marketo Connector（高级营销连接器）”下，单击&#x200B;**Connect**。
+1. 在“高级Marketo连接器”下，单击&#x200B;**连接**。
 1. 您将进入凭据屏幕，询问：客户端ID、客户端机密、标识服务URL和休息服务URL。 要获取此信息，请登录Marketo。
 
-## Marketo {#steps-in-marketo}中的步骤
+## Marketo中的步骤{#steps-in-marketo}
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >切记不要在下拉框中选择BrightTALK。 我们正在删除该字段，选择该字段可能会对您的Marketo/BrightTALK集成造成严重问题。
+   >切记不要在下拉框中选择BrightTALK。 我们正在删除该字段，选择它可能会使您的Marketo/BrightTALK集成出现严重问题。
 
 1. 输入您选择的说明。 单击“仅API用户”下拉框，然后选择您在步骤5中创建的BrightTALK API用户。 单击&#x200B;**创建**。
 
