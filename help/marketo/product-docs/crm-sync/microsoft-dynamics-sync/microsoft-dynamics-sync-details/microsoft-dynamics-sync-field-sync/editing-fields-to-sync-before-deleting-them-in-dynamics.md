@@ -1,20 +1,20 @@
 ---
 description: 在Dynamics - Marketo Docs — 产品文档中删除之前，编辑要同步的字段
 title: 在Dynamics中删除之前，编辑要同步的字段
+exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
-
 # 在Dynamics {#editing-fields-to-sync-before-deleting-them-in-dynamics}中删除之前，编辑要同步的字段
 
 有时，您可能希望删除Dynamics中的字段。 Marketo将字段列表作为基于同步的引用。 如果在同步打开时在Dynamics中删除了字段，则同步可能会遇到错误。 在删除任何字段之前，请执行以下步骤。
 
-1. 在Marketo中，单击&#x200B;**管理员**。
+1. 在Marketo中，单击&#x200B;**Admin**。
 
    ![](assets/sync-before-deleting-them-in-dynamics-1.png)
 
