@@ -2,14 +2,14 @@
 unique-page-id: 2951111
 description: 发行说明 — 2012年9月 — Marketo Docs — 产品文档
 title: 发行说明 — 2012年9月
+exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2012年9月{#release-notes-september}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 将登陆页发布到Facebook {#publish-landing-pages-to-facebook}
 
-将登陆页直接发布到Facebook，并配以社交应用程序、表单和Marketo登陆页的完整功能，扩大其触及范围。
+将登陆页直接发布到Facebook，并配以社交应用程序、表单和Marketo登陆页的完整功能，扩大其应用范围。
 
 ## ReadyTalk事件适配器{#readytalk-event-adapter}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 网页钩子（宝箱）{#webhooks-treasure-chest}
 
-Webhook是用户定义的HTTP回调。 这是将数据从Market推送到任何其他服务的绝佳方式。 此功能目前在金银箱中可用，目前仅在触发活动中受支持。
+Webhook是用户定义的HTTP回调。 它是将数据从Marketo推送到任何其他服务的绝佳方式。 此功能目前在金银箱中可用，目前仅在触发活动中受支持。
 
 Webhooks的使用方式示例包括：将用户名和密码信息发布到另一个系统，以创建试用帐户；在您获得新潜在客户时发送短信。
 
