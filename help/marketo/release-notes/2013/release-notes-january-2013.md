@@ -2,14 +2,14 @@
 unique-page-id: 2951105
 description: 发行说明 — 2013年1月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年1月
+exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2013年1月{#release-notes-january}
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 ## 时区首选项{#time-zone-preference}
 
-您可以更改您个人Marketo帐户的默认时区。 例如，即使订阅的默认值是“太平洋时间”，您也可以将其更改为您自己帐户的“东部时间”。
+您可以更改个人Marketo帐户的默认时区。 例如，即使订阅的默认值是“太平洋时间”，您也可以将其更改为您自己帐户的“东部时间”。
 
 ![](assets/image2014-9-22-15-3a20-3a41.png)
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## 选择您的Marketo Lead Management语言{#select-your-marketo-lead-management-language}
+## 选择Marketo潜在客户管理语言{#select-your-marketo-lead-management-language}
 
 您可以更改Marketo用户帐户的默认语言。 即使订阅的默认值是英语，您也可以将其更改为德语或法语供您自己使用。
 
