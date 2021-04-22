@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10098433
-description: 创建基允许列表于IP的API访问- Marketo Docs —— 产品文档
-title: 创建基允许列表于IP的API访问
+description: 创建基允许列表于IP的API访问 — Marketo文档 — 产品文档
+title: 创建允许列表基于IP的API访问
+exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-
-# 创建允许列表基于IP的API访问的{#create-an-allowlist-for-ip-based-api-access}
+# 为基允许列表于IP的API访问{#create-an-allowlist-for-ip-based-api-access}创建
 
 有时，您希望仅授予API对特定IP地址或一系列地址的访问权限。 为此，首先启用限制，然后指定允许使用API的IP地址。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**Web服务**。
 
