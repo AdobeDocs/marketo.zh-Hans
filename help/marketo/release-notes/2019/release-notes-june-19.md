@@ -2,14 +2,14 @@
 unique-page-id: 18874822
 description: 发行说明 — ’19年6月 — Marketo Docs — 产品文档
 title: 发行说明 — 2019年6月
+exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’19年6月{#release-notes-june}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 2019年6月14日发布了以下功能。
 
-## Marketo Core Services {#marketo-core-services}
+## Marketo核心服务{#marketo-core-services}
 
 * **批量提取文件校验和**:通过将您的文件哈希与已完成提取作业的校验和字符串进行比较来验证是否已检索到完整文件。
 * **自动从电子邮件1.0迁移到电子邮件2.0**:Email 2.0与Email 1.0的电子邮件和模板完全兼容。尽享新功能，如对内容元素（图像、文本等）进行分组的功能 在模块中，定义字符串、颜色、图像等变量。 并利用完全响应式启动模板。 还包括可视的电子邮件模板选取器。
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 基于帐户的营销{#account-based-marketing}
 
-* **LinkedIn帐户匹配（测试版）** :新的ABM功能现在在测试版中可用，使您能够将已知和空白帐户的列表个帐户从Marketo直接发送到LinkedIn。此功能会自动包括给所有Marketo ABM客户。
+* **linkedIn帐户匹配（测试版）** :新的ABM功能现在在测试版中可用，使您能够将已知和空白帐户的列表个帐户从Marketo直接发送到LinkedIn。所有Marketo ABM客户都自动包含此功能。
 
 <br> 
 
@@ -48,8 +48,8 @@ ht-degree: 0%
 * **完整导航链接**:我们已启用到所有授权应用程序（如Hootsuite、Calendar等）的导航。
 * **电子邮件、登陆页、代码片断、表单、图像和文件列表视图**:在Design Studio中视图、搜索和对任何资源执行成批操作。
 * **“图像、文件和代码片断详细信息”页**:使用元数据（如在/署创建）快速获 _取有关您_ 的资产的详细信息，并执 __ 行删除和 _批准等操作_。
-* **社区博客帖子构件**:访问“我的营销人员”社区中的最新帖子。
-* **即将过期的Widget**:将“即将过期”构件添加到“我的营销人员”仪表板，以查看哪些活动和登陆页设置为在下一个时间过期。
+* **社区博客帖子构件**:访问“我的Marketo”社区中的最近帖子。
+* **即将过期的Widget**:将“即将过期”Widget添加到“我的Marketo”仪表板，以查看哪些活动和登陆页设置将在下一时间过期。
 * **更多智能列表卡**:使用其他智能列表卡进行适当的细分和目标，包括“创建任务”流步骤、CRM智能列表规则等。
 * **电子邮件冠军/挑战者详细信息页**:查看诸如入选标准、创建时间等数据你的电子邮件冠军/挑战者测试。
 
@@ -62,10 +62,10 @@ ht-degree: 0%
 
 * **系统电子邮件模板**:更新了设计、响应和国际化功能。
 
-## Marketo {#bizible-by-marketo}
+## Marketo{#bizible-by-marketo}
 
 * **Dynamics的多币种支持**:Bizible现在可以调整为Microsoft Dynamics货币表，因此您可以在公司货币和本地货币之间轻松切换。(注：2019年第1季度发布了对SFDC的支持。)
 * **漂移集成**:了解Drift对话如何影响您的客户旅程。Bizible还将从对话中提取电子邮件地址，以创建新潜在客户或将接触点连接到现有潜在客户。
-* **本地化**:Bizbile现在提供所有市场支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）。
+* **本地化**:Bizbile现在提供所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）。
 
 ***产品发布网*** 络研讨会在此处观看“19年6月版创新网络研讨会”的 [录制](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)。
