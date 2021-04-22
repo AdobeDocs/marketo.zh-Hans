@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37357276
-description: 发行说明 — ’20年6月 — Marketo Docs — 产品文档
+description: 发行说明 — 1920年6月20日 — Marketo文档 — 产品文档
 title: 发行说明 — 2020年6月
+exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1073'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’20年6月{#release-notes-june}
 
