@@ -1,27 +1,27 @@
 ---
 unique-page-id: 7512278
-description: 将ReadyTalk添加为LaunchPoint服务- Marketo Docs —— 产品文档
+description: 将ReadyTalk添加为LaunchPoint服务 — Marketo Docs — 产品文档
 title: 将ReadyTalk添加为LaunchPoint服务
+exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # 将ReadyTalk添加为LaunchPoint服务{#add-readytalk-as-a-launchpoint-service}
 
-营销人员，管理您的ReadyTalk网络研讨会注册和出席情况。
+Marketo管理您的ReadyTalk网络研讨会注册和出席情况。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!NOTE]
 >
->此步骤需要现有的ReadyTalk订阅和管理权限。 现在有以下设置：访问号码、访问代码和密码。
+>此步骤需要现有的ReadyTalk和管理权限订阅。 现在有以下设置：访问号、访问代码和密码。
 
 1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**ReadyTalk**。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->了解如何使用ReadyTalk[创建事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+>了解如何使用ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)创建事件。[
