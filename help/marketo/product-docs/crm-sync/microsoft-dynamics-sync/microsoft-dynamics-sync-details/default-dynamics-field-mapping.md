@@ -1,18 +1,18 @@
 ---
 description: 默认Dynamics字段映射 — Marketo Docs — 产品文档
 title: 默认动态字段映射
+exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '528'
-ht-degree: 1%
+ht-degree: 16%
 
 ---
 
-
 # 默认动态字段映射{#default-dynamics-field-mapping}
 
-当您最初将您的Marketo帐户与Microsoft同步时，Marketo会自动在您内置的Dynamics和Marketo字段之间建立这些关联。  Marketo还将同步您的潜在客户、帐户、机会和联系人上的自定义字段。
+当您最初将Marketo帐户与Microsoft同步时，Marketo会自动在您的内置Dynamics和Marketo字段之间建立这些关联。  Marketo还将同步您的潜在客户、帐户、机会和联系人上的自定义字段。
 
 ## 潜在客户字段{#lead-fields}
 
@@ -24,7 +24,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo字段</th> 
+   <th>Marketo Field</th> 
    <th>MS Dynamics字段</th> 
    <th>MS Dynamics API名称</th> 
   </tr> 
@@ -34,8 +34,8 @@ ht-degree: 1%
    <td>createdon</td> 
   </tr> 
   <tr> 
-   <td>问候</td> 
-   <td>问候</td> 
+   <td>称谓</td> 
+   <td>称谓</td> 
    <td>问候语</td> 
   </tr> 
   <tr> 
@@ -94,7 +94,7 @@ ht-degree: 1%
    <td>address1_stateorprovince</td> 
   </tr> 
   <tr> 
-   <td>国家/地区</td> 
+   <td>国家</td> 
    <td>国家/地区</td> 
    <td>address1_country</td> 
   </tr> 
@@ -105,7 +105,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>人员来源</td> 
-   <td>潜在客户源</td> 
+   <td>潜在客户来源</td> 
    <td>leadsource</td> 
   </tr> 
   <tr> 
@@ -124,12 +124,12 @@ ht-degree: 1%
    <td>描述</td> 
   </tr> 
   <tr> 
-   <td>不拨叫</td> 
+   <td>请勿来电</td> 
    <td>不允许电话呼叫</td> 
    <td>多诺手</td> 
   </tr> 
   <tr> 
-   <td>取消订阅</td> 
+   <td>退订</td> 
    <td>不批量发送电子邮件</td> 
    <td>多诺特布克</td> 
   </tr> 
@@ -191,7 +191,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo字段</th> 
+   <th>Marketo</th> 
    <th>MS Dynamics字段</th> 
    <th>MS Dynamics API名称</th> 
   </tr> 
@@ -201,8 +201,8 @@ ht-degree: 1%
    <td>createdon</td> 
   </tr> 
   <tr> 
-   <td>问候</td> 
-   <td>问候</td> 
+   <td>称谓</td> 
+   <td>称谓</td> 
    <td>问候语</td> 
   </tr> 
   <tr> 
@@ -255,7 +255,7 @@ ht-degree: 1%
    <td>address1_stateorprovince</td> 
   </tr> 
   <tr> 
-   <td>国家/地区</td> 
+   <td>国家</td> 
    <td>地址1:国家/地区</td> 
    <td>address1_country</td> 
    <tr> 
@@ -274,12 +274,12 @@ ht-degree: 1%
    <td>statuscode</td> 
   </tr> 
    <tr> 
-   <td>不拨叫</td> 
+   <td>请勿来电</td> 
    <td>不允许电话呼叫</td> 
    <td>多诺手</td> 
   </tr> 
   <tr> 
-   <td>取消订阅</td> 
+   <td>退订</td> 
    <td>不批量发送电子邮件</td> 
    <td>多诺特布克</td> 
   </tr> 
@@ -321,7 +321,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo字段</th> 
+   <th>Marketo Field</th> 
    <th>MS Dynamics字段</th> 
    <th>MS Dynamics API名称</th> 
   </tr> 
@@ -331,17 +331,17 @@ ht-degree: 1%
    <td>帐户</td> 
   </tr> 
   <tr> 
-   <td>帐单地址</td> 
+   <td>帐单寄送地址</td> 
    <td>地址1:街1号</td> 
    <td>address1_line1</td> 
   </tr> 
   <tr> 
-   <td>比利尼城</td> 
+   <td>帐单寄送城市</td> 
    <td>地址1:城市</td> 
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>帐单国</td> 
+   <td>帐单寄送国家</td> 
    <td>地址1:国家/地区</td> 
    <td>address1_country</td> 
   </tr> 
@@ -361,8 +361,8 @@ ht-degree: 1%
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>主电话</td> 
-   <td>主电话</td> 
+   <td>主要电话</td> 
+   <td>主要电话</td> 
    <td>电话1</td> 
   </tr> 
   <tr> 
@@ -381,8 +381,8 @@ ht-degree: 1%
    <td>statecode</td> 
   </tr> 
   <tr> 
-   <td>年收入</td> 
-   <td>年收入</td> 
+   <td>年营业额</td> 
+   <td>年营业额</td> 
    <td>收入</td> 
   </tr> 
   <tr> 
@@ -396,8 +396,8 @@ ht-degree: 1%
    <td>industrycode</td> 
   </tr> 
   <tr> 
-   <td>SIC代码</td> 
-   <td>SIC代码</td> 
+   <td>标准产业分类(SIC)代码</td> 
+   <td>标准产业分类(SIC)代码</td> 
    <td>sic</td> 
   </tr> 
   <tr> 
@@ -408,7 +408,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## Marketo（只读）{#microsoft-related-system-fields-in-marketo}中的Microsoft相关系统字段
+## Marketo中的Microsoft相关系统字段（只读）{#microsoft-related-system-fields-in-marketo}
 
 这些字段在Marketo中创建，但客户无法调整。
 
@@ -419,20 +419,20 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo字段</th> 
+   <th>Marketo</th> 
    <th>说明</th> 
   </tr> 
   <tr> 
    <td>Microsoft类型</td> 
-   <td>潜在客户或联系人。 如果为空，则潜在客户仅作为Marketo中的人员存在</td> 
+   <td>潜在客户或联系人。 如果为空，则潜在客户仅作为人员存在在Marketo</td> 
   </tr> 
   <tr> 
    <td>Microsoft创建日期</td> 
-   <td>在MS Dynamics中创建的日期（可以不同于在Marketo中创建的日期）</td> 
+   <td>在MS Dynamics中创建的日期(可以不同于在Marketo中创建的日期)</td> 
   </tr> 
   <tr> 
    <td>已删除Microsoft</td> 
-   <td>Person曾在Microsoft工作，但已被删除，现在仅在Marketo工作</td> 
+   <td>曾经在Microsoft工作的人被删除，现在只住在Marketo</td> 
   </tr> 
  </tbody> 
 </table>
