@@ -1,35 +1,35 @@
 ---
 unique-page-id: 11377958
-description: 用户登录历史记录- Marketo Docs —— 产品文档
+description: 用户登录历史记录 — Marketo文档 — 产品文档
 title: 用户登录历史记录
+exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-
 # 用户登录历史记录{#user-login-history}
 
-用户登录历史记录通过向您显示哪些用户登录了您的订阅（包括失败的登录尝试）来帮助维护责任和安全性。
+“用户登录历史记录”通过向您准确显示哪些人登录了您的订阅（包括失败的登录尝试）来帮助维护责任和安全性。
 
 >[!PREREQUISITES]
 >
->您必须具有启用“访问登录历史记录”权限的角色，才能视图用户登录历史记录。
+>您必须具有已启用“访问登录历史记录”权限的角色，才能视图用户登录历史记录。
 
-用户登录历史记录标识登录用户：
+用户登录历史记录标识登录者：
 
 * 登录时间和日期
 * 用户名和电子邮件地址
-* 角色
+* 职位
 * 工作区
 * IP地址
 
 要视图用户登录历史记录：
 
-1. 单击&#x200B;**Admin**&#x200B;选项卡，在“Security”（安全）下，单击“Users &amp; Roles”（用户和角色）**。**
+1. 单击&#x200B;**Admin**&#x200B;选项卡，在“Security（安全）”下，单击&#x200B;**Users &amp; Roles**。
 
    ![](assets/image2016-7-12-9-3a2-3a31.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. 从&#x200B;**Users**&#x200B;下拉菜单中选择用户。
+1. 从&#x200B;**Users**&#x200B;下拉列表中选择用户。
 
    ![](assets/user-dropdown.jpg)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >用户界面最多显示30天的数据。 如果您需要更多，可以将最近六个月的数据下载到csv文件中。
+   >用户界面显示多达30天的数据。 如果需要更多，可以将最近六个月的数据下载到csv文件中。
 
    >[!NOTE]
    >
