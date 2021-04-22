@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359428
-description: 重定向登陆页- Marketo Docs — 产品文档
+description: 重定向登陆页- Marketo文档 — 产品文档
 title: 重定向登陆页
+exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # 重定向登陆页{#redirect-a-landing-page}
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ## 第2步：定义重定向规则{#step-define-the-redirect-rule}
 
-1. 单击第一个&#x200B;**原始URL**&#x200B;下拉框，然后选择您的Marketo CNAME。
+1. 单击第一个&#x200B;**原始URL**&#x200B;下拉框并选择您的Marketo CNAME。
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >请记住，您只能将与Market开始的登陆页重定向到[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
+   >请记住，您只能重定向与Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)开始的登陆页。
 
 1. 单击第二个&#x200B;**原始URL**&#x200B;下拉框，然后选择要重定向的登陆页。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 任务完成{#mission-complete}
 
-恭喜！ 您已成功重定向登陆页。
+祝贺您！您已成功重定向登陆页。
 
 <br> 
 
