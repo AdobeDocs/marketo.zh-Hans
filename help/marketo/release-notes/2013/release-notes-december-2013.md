@@ -2,14 +2,14 @@
 unique-page-id: 2951052
 description: 发行说明 — 2013年12月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年12月
+exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2013年12月{#release-notes-december}
 
