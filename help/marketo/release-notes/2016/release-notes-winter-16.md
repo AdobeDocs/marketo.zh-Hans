@@ -2,14 +2,14 @@
 unique-page-id: 10097199
 description: 发行说明 — Winter '16 - Marketo Docs — 产品文档
 title: 发行说明 — 2016年冬季
+exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’16年冬季{#release-notes-winter}
 
@@ -75,9 +75,9 @@ ht-degree: 0%
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Facebook主要广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [Facebook领先广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook潜在客户](https://www.facebook.com/business/a/lead-ads) 广告是企业在Facebook上运行潜在客户生成活动的更直接的方式。人们会填写表格来表达对产品或服务的兴趣，这样企业就可以跟进。 Marketo与Facebook潜在客户广告的集成可自动捕获潜在客户在潜在客户广告表单中提供的信息。 随后，可以使用新的“填写Facebook潜在客户广告”触发器自动执行跟进操作和通知。
+[Facebook潜](https://www.facebook.com/business/a/lead-ads) 在客户广告是企业在Facebook上运行潜在客户生成活动的更直接的方式。人们会填写表格来表达对产品或服务的兴趣，这样企业就可以跟进。 Marketo与Facebook潜在客户广告的集成可自动捕获潜在客户在潜在客户广告表单中提供的信息。 随后，可使用新的“填写Facebook潜在客户广告”触发器自动执行跟进操作和通知。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
