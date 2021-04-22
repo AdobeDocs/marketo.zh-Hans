@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7504128
-description: 创建智能列表目标- Marketo Docs —— 产品文档
+description: 创建智能列表目标 — Marketo文档 — 产品文档
 title: 创建智能列表目标
+exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
 # 创建智能列表目标{#create-a-smart-list-goal}
 
-目标是跟踪进度并激励团队的方式。 它们可以与智能列表结合，在Marketo中跟踪各种事情。 此外，在您设置了智能列表目标后，在演示文稿中使用该目标时，每2小时会自动更新一次。
+目标是跟踪进度和激励团队的方式。 它们可以与智能列表结合使用，以跟踪Marketo中的各种情况。 此外，在您设置了智能列表目标后，在演示文稿中使用该目标时，每2小时会自动更新一次。
 
-与演示文稿一样，目标也[工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定。
+与演示文稿一样，目标也[workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定。
 
 1. 转到&#x200B;**日历**。
 
@@ -41,10 +41,10 @@ ht-degree: 0%
 
    ![](assets/mql.png)
 
-1. 设置完智能列表后，单击&#x200B;**关闭**&#x200B;按钮并返回到上一个选项卡。
+1. 设置完智能列表后，单击&#x200B;**关闭**&#x200B;按钮并返回上一个选项卡。
 
    ![](assets/mql2.png)
 
-   看这个！ 您的智能列表目标已创建。
+   看！ 您的智能列表目标已创建。
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)
