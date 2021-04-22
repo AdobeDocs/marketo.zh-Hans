@@ -2,14 +2,14 @@
 unique-page-id: 2951114
 description: 发行说明 — 2012年6月 — Marketo Docs — 产品文档
 title: 发行说明 — 2012年6月
+exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2012年6月{#release-notes-june}
 
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 ## 导入字段映射{#import-field-mapping}
 
-我们使将列表导入Marketo更简单！ 在导入过程中，您可以将Marketo字段的名称映射到导入文件中的列标题名称。 此外，在“管理员”中，您可以设置映射到Marketo中字段名的别名，确保用户每次都选择正确的字段。
+我们使将列表导入Marketo更简单！ 在导入过程中，可以将Marketo字段的名称映射到导入文件中的列标题名称。 此外，在“管理员”中，您可以设置映射到Marketo中字段名的别名，确保用户每次都选择正确的字段。
 
-在您继续导入和映射字段时，Marketo将在导入过程中记住并显示映射，以便于使用。 为了使生活更轻松，您可以单击“示例值”标题来查看将填充到字段中的不同值。 这有助于确保您每次都映射正确的字段！
+在继续导入和映射字段时，Marketo将在导入过程中记住并显示映射，以便于使用。 为了使生活更轻松，您可以单击“示例值”标题来查看将填充到字段中的不同值。 这有助于确保您每次都映射正确的字段！
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 提醒：正在升级电子邮件性能报告！
 
-## Marketo收入周期分析增强{#marketo-revenue-cycle-analytics-enhancements}
+## Marketo Revenue Cycle Analytics增强功能{#marketo-revenue-cycle-analytics-enhancements}
 
 ### 项目机会分析{#new-metrics-in-program-opportunity-analysis}中的新量度
 
