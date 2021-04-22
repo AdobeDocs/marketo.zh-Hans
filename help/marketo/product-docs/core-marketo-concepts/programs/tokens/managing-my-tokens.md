@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147116
-description: 管理我的令牌- Marketo文档——产品文档
+description: 管理我的令牌 — Marketo Docs — 产品文档
 title: 管理我的令牌
+exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # 管理我的令牌{#managing-my-tokens}
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->进一步了解[令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)中已提供哪些令牌。
+>了解有关[令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)中已提供的令牌的更多信息。
 
 ## 创建我的令牌{#create-a-my-token}
 
-1. 转到&#x200B;**营销活动**。
+1. 转至&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   耶！ 你做了我的代币。
+   耶！ 你做了我的代号。
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
 ## 编辑我的令牌{#edit-a-my-token}
 
-1. 多次-单击&#x200B;**我的令牌**&#x200B;并进行更改。 单击&#x200B;**保存**。
+1. 多次 — 单击&#x200B;**我的令牌**&#x200B;并进行更改。 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -68,6 +68,6 @@ ht-degree: 0%
    >[!MORELIKETHIS]
    >
    >* [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   >* [了解项目中的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-   >* [在我的令牌中使用URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+   >* [了解我的令牌在项目](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [使用我的令牌中的URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
 
