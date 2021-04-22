@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360203
-description: 创建仅API用户角色- Marketo Docs —— 产品文档
+description: 创建仅API用户角色 — Marketo Docs — 产品文档
 title: 创建仅API用户角色
 translation-type: tm+mt
 source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 创建仅API用户角色{#create-an-api-only-user-role}
 
-如果要通过[REST API](https://developers.marketo.com/documentation/rest/)与Marketo集成，最佳实践是[为用户分配仅API角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)，然后[创建自定义服务以与ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)一起使用。 下面介绍如何创建仅API用户角色。
+如果要通过[REST API](https://developers.marketo.com/documentation/rest/)与Marketo集成，最佳做法是[向用户分配仅API角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)，然后[创建自定义服务以与ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)一起使用。 下面介绍如何创建仅API用户角色。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
-1. 在“我的营销人员”中，单击&#x200B;**管理员**。
+1. 在“我的Marketo”中，单击&#x200B;**管理**。
 
    ![](assets/adminhand-1.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->好，干得好！ 现在，让我们[创建一个仅限API用户](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)。
+>好，干得好！ 现在，让我们[创建一个仅API用户](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)。
