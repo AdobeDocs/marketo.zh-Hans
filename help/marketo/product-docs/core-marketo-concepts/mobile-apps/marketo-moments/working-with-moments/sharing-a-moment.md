@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783559
-description: 分享时刻——营销文档——产品文档
-title: 分享时刻
+description: 共享时刻 — Marketo文档 — 产品文档
+title: 分享瞬间
+exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # 共享时刻{#sharing-a-moment}
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a8-3a18.png)
 
-1. 选择要共享的方式。 让我们处理电子邮件。
+1. 选择要共享的方式。 让我们使用电子邮件。
 
    >[!NOTE]
    >
-   >共享取决于手机上安装的应用程序。 因此，如果你没有Facebook，你在“时刻”中就看不到它。
+   >共享取决于您手机上安装的应用程序。 因此，如果您没有Facebook，您将不会在“时刻”中看到它。
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
