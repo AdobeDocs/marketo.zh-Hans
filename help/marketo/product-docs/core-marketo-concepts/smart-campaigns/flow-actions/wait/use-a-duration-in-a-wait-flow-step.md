@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146978
-description: 在等待流程步骤中使用持续时间- Marketo Docs —— 产品文档
+description: 在等待流程步骤中使用持续时间 — Marketo Docs — 产品文档
 title: 在等待流步骤中使用持续时间
+exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-
 # 在等待流步骤{#use-a-duration-in-a-wait-flow-step}中使用持续时间
 
 您可以使用等待流程步骤在特定时间段内暂停个人通过智能活动的旅程。 您还可以指定一周中的某天和结束时的条件。
 
-1. 在智能活动&#x200B;**流**&#x200B;选项卡中，拖动到&#x200B;**等待**&#x200B;流步骤上。
+1. 在您的智能活动&#x200B;**流**&#x200B;选项卡中，拖动到&#x200B;**等待**&#x200B;流步骤上。
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a54-3a7.png)
 
-1. 指定等待步骤应结束的星期。
+1. 指定等待步骤应结束的一周中的某天。
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
@@ -39,13 +39,13 @@ ht-degree: 0%
    >
    >**示例**
    >
-   >周五下午5点，一个人触发了智能活动。 等待步骤是高级的：48小时，必须在周一至周五上午9点结束。
+   >周五下午5点，有人触发了智能活动。 等待步骤是高级的：48小时，必须在周一至周五早9点结束。
    >
    >结果是，该人将在&#x200B;**星期一上午9点**&#x200B;继续流动。 这是48小时后的第一次M-F约会。
 
    >[!NOTE]
    >
-   >持续时间、日期、时间和所用天数均基于订阅的时区。
+   >使用的持续时间、日期、时间和天数均基于订阅的时区。
 
    >[!MORELIKETHIS]
    >
