@@ -2,14 +2,14 @@
 unique-page-id: 2951056
 description: 发行说明 — 2013年9月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年9月
+exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2013年9月{#release-notes-september}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >当我们切换到短URL时，在9月版本之前发送的电子邮件中的链接将在此版本发布后的90天后过期。
 
-使用Marketo中的数据自定义对象，或使用Velocity模板语言向电子邮件内容添加条件逻辑。
+使用Marketo自定义对象中的数据，或使用Velocity模板语言向电子邮件内容添加条件逻辑。
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 项目归因设置{#program-attribution-settings}
 
-您可以更改Market将联系人和机会关联到第一次和多次联系归因量度的方式，包括执行基于帐户的归因的能力。 这些设置将影响“项目机会”分析区域和“业务机会”分析区域下的“收入浏览器”报表中的归因量度。 这还将影响项目 Analyzer中的归因量度。
+您可以更改Marketo联系联系人和首次联系和多次联系归因量度机会的方式，包括执行基于帐户的归因的能力。 这些设置将影响“项目机会”分析区域和“业务机会”分析区域下的“收入浏览器”报表中的归因量度。 这还将影响项目 Analyzer中的归因量度。
 
 您可以将项目归因设置更改为三种选择之一。 更改此设置不会修改任何Marketo或CRM数据；它只会更改报表的运行方式，并且可以随时还原。
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 提供法语和德语版的Sales Insight（仅限Salesforce）{#sales-insight-available-in-french-and-german-salesforce-only}
 
-从AppExchange下载最新版的Marketo Lead Management和Marketo Sales Insight，这样您的法语和德语销售人员可以使用他们的首选语言查看Sales Insight内容。
+从AppExchange下载Marketo Lead Management和Marketo Sales Insight的最新版本，让法语和德语销售人员能够使用他们的首选语言查看Sales Insight内容。
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
