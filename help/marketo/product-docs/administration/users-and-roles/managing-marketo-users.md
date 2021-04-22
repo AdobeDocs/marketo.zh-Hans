@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359906
-description: 管理Marketo用户- Marketo文档——产品文档
+description: 管理Marketo用户 — Marketo文档 — 产品文档
 title: 管理Marketo用户
+exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
-
 
 # 管理Marketo用户{#managing-marketo-users}
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >到期日对于需要Market才能短暂访问的短期外部利益相关方或顾问来说非常有用。
+   >截止日期对于短期外部利益相关方或仅需要短暂访问Marketo的顾问非常有用。
 
    >[!NOTE]
    >
-   >到期日期到来时，用户收到过期通知并锁定其帐户。
+   >到期日期到达时，用户会收到到期通知，并且其帐户已锁定。
 
-1. 选择您选择的&#x200B;**角色**&#x200B;并单击&#x200B;**下一步**。
+1. 选择您选择的&#x200B;**角色**，然后单击&#x200B;**下一步**。
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >电子邮件／登录名必须是唯一的；如果已在沙箱实例中使用它，则需要在生产中使用其他实例，反之亦然。
+   >电子邮件/登录名必须是唯一的；如果已在沙箱实例中使用它，则需要在生产中使用其他实例，反之亦然。
 
    ![](assets/image2016-5-24-10-3a21-3a57.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
    >
    >添加新用户三天后，邀请将过期。
 
-新用户现在列在“用户”选项卡中，将收到一封电子邮件，其中包含有关如何激活其帐户的说明。
+新用户现在列在“用户”选项卡中，并将收到一封电子邮件，其中包含有关如何激活其帐户的说明。
 
 ## 删除用户{#delete-users}
 
-1. 转至“管理员”并单击“**用户和角色**”。
+1. 转到“Admin”（管理），然后单击“**Users &amp; Roles**”（用户和角色）。
 
    ![](assets/image2014-9-9-11-3a36-3a21.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 ## 重置用户密码{#reset-user-passwords}
 
-1. 转至“管理员”并单击“**用户和角色**”。
+1. 转到“Admin”（管理），然后单击“**Users &amp; Roles**”（用户和角色）。
 
    ![](assets/image2014-9-9-11-3a41-3a0.png)
 
@@ -115,7 +115,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果您是Marketo中唯一的管理员，请确保不删除您自己的管理权限。
+>如果您是Marketo中唯一的管理员，请确保不要删除您自己的管理权限。
 
 >[!NOTE]
 >
