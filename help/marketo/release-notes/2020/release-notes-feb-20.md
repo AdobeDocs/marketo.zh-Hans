@@ -2,14 +2,14 @@
 unique-page-id: 37355826
 description: 发行说明–2020年2月 — Marketo Docs — 产品文档
 title: 发行说明 — 2020年2月
+exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2020年2月{#release-notes-feb}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## 公告{#announcements}
 
-* **Marketo Engage成功中心**:我们将在2020年2月启动营销成功中心。成功中心是一个产品内帮助中心，允许您直接从您的Marketo Engage实例中搜索产品文档和社区、启动使用指南、访问Marketo University和同行最佳实践视频等采用内容。 **注意**:此功能将作为ANZ的测试版推出，并将在本季度晚些时候推出到北美。
+* **Marketo Engage成功中心**:我们将于2020年2月启动Marketo成功中心。成功中心是一个产品内帮助中心，允许您直接从您的Marketo Engage实例中搜索产品文档和社区、启动使用指南、访问Marketo大学和同行最佳实践视频等采用内容。 **注意**:此功能将作为ANZ的测试版推出，并将在本季度晚些时候推出到北美。
 
 ## 弃用{#deprecations}
 
