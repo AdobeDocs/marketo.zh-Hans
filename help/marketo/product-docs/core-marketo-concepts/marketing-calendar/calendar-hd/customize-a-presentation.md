@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7503973
-description: 自定义演示文稿- Marketo Docs —— 产品文档
+description: 自定义演示文稿 — Marketo Docs — 产品文档
 title: 自定义演示文稿
+exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
 
 ---
-
 
 # 自定义演示文稿{#customize-a-presentation}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
+>并非所有客户都购买了此功能。 有关详细信息，请与您的销售代表联系。
 
 >[!PREREQUISITES]
 >
@@ -30,23 +30,23 @@ ht-degree: 0%
 
 ## 选择视图{#choosing-the-views}
 
-Presentations循环查看您选择的不同[过滤器定义](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)。 拉入任意数量的视图并自定义频率。
+Presentations循环查看您选择的不同[筛选器定义](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)。 拉入任意数量的视图并自定义频率。
 
-1. 从右侧的树中，在演示文稿中要旋转的不同视图中拖动。
+1. 从右侧树中，在演示文稿中要旋转的不同视图中拖动。
 
    ![](assets/image2015-3-18-13-3a6-3a10.png)
 
 ## 添加目标{#add-a-goal}
 
-Presentations在展示你的团队目标时表现得最棒。 只需拖动不同的[自定义目标](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md)或[智能列表目标](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)。 最多可以使用10个。
+Presentations在展示您的团队目标时是最棒的。 只需拖动到不同的[自定义目标](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md)或[智能列表目标](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)上即可。 你最多可以用10个。
 
-1. 从右侧树中，拖入您希望在演示文稿中显示的不同目标。
+1. 从右侧树中，拖动要在演示文稿中显示的不同目标。
 
    ![](assets/image2015-3-24-14-3a23-3a26.png)
 
 ## 设置旋转频率{#set-the-frequency-of-rotation}
 
-在演示文稿中拉入所需视图后，设置它在不同视图之间旋转的频率。
+在您拉入演示文稿所需的视图后，设置它在不同视图之间旋转的频率。
 
 1. 单击&#x200B;**5分钟**（这是默认节奏）。
 
@@ -64,7 +64,7 @@ Presentations在展示你的团队目标时表现得最棒。 只需拖动不同
 
 日历显示可更改为3周或每月视图。
 
-1. 选择&#x200B;**日历显示**&#x200B;下拉框，在&#x200B;**3周**&#x200B;或一个&#x200B;**月**&#x200B;之间进行选择。
+1. 选择&#x200B;**日历显示**&#x200B;下拉框，然后在&#x200B;**3周**&#x200B;或一个&#x200B;**月**&#x200B;之间进行选择。
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -72,17 +72,17 @@ Presentations在展示你的团队目标时表现得最棒。 只需拖动不同
 
 >[!TIP]
 >
->设置演示文稿的[背景图像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)。 我们建议小猫咪或彩虹。
+>设置演示文稿的[背景图像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)。 我们建议小猫或彩虹。
 
 ## 预览演示文稿{#preview-a-presentation}
 
-配置演示文稿后，即可预览并启动演示文稿。
+配置演示文稿后，即可预览和启动演示文稿。
 
 1. 选择&#x200B;**预览**。
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   太！ 您的演示文稿可能会是这样。
+   太！ 这是您的演示文稿的外观。
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
