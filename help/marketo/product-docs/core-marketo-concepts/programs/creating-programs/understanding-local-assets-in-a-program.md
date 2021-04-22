@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147093
-description: 了解项目中的本地资产- Marketo Docs —— 产品文档
+description: 了解项目中的本地资产 — Marketo Docs — 产品文档
 title: 了解项目中的本地资产
+exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# 了解项目{#understanding-local-assets-in-a-program}中的本地资源
 
-# 了解项目{#understanding-local-assets-in-a-program}中的本地资产
-
-本地资产是组成您的项目的内容。 资产可自定义，使您能够构建自动化的营销计划。 以下是您可以在项目中创建的大多数本地资源：
+本地资源是组成您的项目的内容。 资产可自定义，使您能够构建自动化的营销计划。 以下是您可以在项目中创建的大多数本地资源：
 
 ![](assets/one.png)
 
@@ -35,5 +35,5 @@ ht-degree: 0%
 * [Youtube视频](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md)
 * [投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
 * [推荐优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-* [抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
-* [浏览SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+* [抽奖活动](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+* [查看SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
