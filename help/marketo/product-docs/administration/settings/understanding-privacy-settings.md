@@ -2,27 +2,27 @@
 unique-page-id: 10617187
 description: 了解隐私设置 — Marketo Docs — 产品文档
 title: 了解隐私设置
+exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
 
-
 # 了解隐私设置{#understanding-privacy-settings}
 
 ## 概述{#overview}
 
-Marketo为营销人员提供了一种获得Web访客同意跟踪他们的方法。 有两种方法选择退出，或者您可以选择由匿名IP跟踪。
+Marketo为营销人员提供了获得网络访客同意跟踪他们的方式。 有两种方法选择退出，或者您可以选择由匿名IP跟踪。
 
 * Web访客在其浏览器中选择“不跟踪(DNT)”功能(营销人员接受Web访客的“不跟踪”请求)
 * 网络访客使选择退出用网站上的营销人员提供的Cookie
 
 或者，营销人员可以跟踪用户，但使用匿名IP。
 
-这些方法可能会影响Marketo在特定领域的价值和功能。 但是，如果营销人员&#x200B;*未*&#x200B;更改Marketo配置中的任何内容，Marketo功能将保持不变。
+这些方法可能影响Marketo在特定领域的价值和功能。 但是，如果营销人员&#x200B;*未*&#x200B;更改Marketo配置中的任何内容，则Marketo功能将保持不变。
 
 ## 不跟踪{#browser-settings-for-do-not-track}的浏览器设置
 
@@ -50,7 +50,7 @@ Web访客可以通过选择“不跟踪”(DNT)来设置其浏览器以防止任
 
 ![](assets/opt-out-2.png)
 
-单击链接时，Marketo会向访客的浏览器添加一个名为&#x200B;**mkto_opt_out**&#x200B;的Cookie，以禁用Munchkin跟踪使用上述参数单击链接的站点访客。
+单击链接时，Marketo会向访客的浏览器添加一个名为&#x200B;**mkto_opt_out**&#x200B;的Cookie，以禁用Munchkin跟踪功能，以跟踪单击带有上述参数的链接的站点访客。
 
 要验证是否可以植入Cookie，请验证您是否为Cookie潜在客户，然后单击链接。 然后检查您的浏览器cookies以验证是否添加了&#x200B;**mkto_opt_out** cookie。
 
@@ -62,7 +62,7 @@ Web访客可以通过选择“不跟踪”(DNT)来设置其浏览器以防止任
 
 ## 选择加入 {#opt-in}
 
-营销人员可以通选择加入过使用Marketo在电子邮件、表单、登陆页和其他方法中的功能，使用户能够使用Marketo的功能。
+营销人员可以通选择加入过使用Marketo在电子邮件、表单、登陆页和其他方法中的功能，使用户能够使用。
 
 ## 使用匿名IP {#tracking-using-an-anonymized-ip}进行跟踪
 
@@ -72,7 +72,7 @@ Web访客可以通过选择“不跟踪”(DNT)来设置其浏览器以防止任
 
    >[!NOTE]
    >
-   >使用此参数要求启用Munchkin V2。 要为您的订阅启用它，请联系[Marketo Support](https://nation.marketo.com/community/support_solutions)。
+   >使用此参数要求启用Munchkin V2。 要启用订阅，请联系[Marketo支持](https://nation.marketo.com/community/support_solutions)。
 
 * 对于Web个性化(RTP)，请将其添加到javascript中：
 
