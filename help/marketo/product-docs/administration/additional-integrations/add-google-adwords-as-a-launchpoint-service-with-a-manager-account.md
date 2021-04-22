@@ -1,27 +1,27 @@
 ---
 unique-page-id: 7504893
-description: 使用Manager帐户- Marketo Docs —— 产品文档将Google AdWords添加为Launchpoint服务
-title: 使用Manager帐户将Google AdWords添加为Launchpoint服务
+description: 通过Manager帐户将Google AdWords添加为Launchpoint服务 — Marketo Docs — 产品文档
+title: 通过Manager帐户将Google AdWords添加为Launchpoint服务
+exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
+# 将Google AdWords添加为Launchpoint服务，其Manager帐户{#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-# 将Google AdWords添加为Launchpoint服务，其中Manager帐户{#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
+将您的Google AdWords帐户链接到Marketo，以自动将线下转换数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够在AdWords中[添加自定义列](https://support.google.com/adwords/answer/3073556)后轻松查看哪些点击产生了合格的潜在客户、机会和新客户（或您要跟踪的任何收入阶段）。 此信息不显示在Marketo UI中。
 
-将您的Google AdWords帐户关联到Marketo，以自动将线下转换数据从Market上传到Google AdWords。 然后，在AdWords中添加自定义列[后，您将能够从AdWords UI中轻松查看哪些点击产生了合格的潜在客户、机会和新客户（或您要跟踪的任何收入阶段）。 ](https://support.google.com/adwords/answer/3073556)此信息不显示在Marketo UI中。
+如果您有多个Google Adwords帐户，则可以使用[Google AdWords管理器帐户](https://www.google.com/adwords/manager-accounts/)（以前称为My Client Center）将它们与Marketo集成。
 
-如果您有多个Google Adwords帐户，则可以使用[Google AdWords管理器帐户](https://www.google.com/adwords/manager-accounts/)（以前称为My Client Center）将其与Marketo集成。
-
-进一步了解[Google的脱机转换导入功能](https://support.google.com/adwords/answer/2998031?hl=en)。
+了解有关[Google的脱机转换导入功能的更多信息](https://support.google.com/adwords/answer/2998031?hl=en)。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. 将您的脱机转换从Market上传到Google AdWords **Weekly**&#x200B;或&#x200B;**Daily**。
+1. 将您的脱机转换从Marketo上传到Google AdWords **Weekly**&#x200B;或&#x200B;**Daily**。
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -71,24 +71,24 @@ ht-degree: 0%
 
    | 类型 | 定义 |
    |---|---|
-   | 首次单击 | 线下转换将归因于过去90天中用户点击的第一个AdWords广告 |
-   | 上次单击 | 脱机转换将归因于用户点击的最后一个AdWords广告 |
+   | 首次单击 | 脱机转换将归因于过去90天内用户点击的第一个AdWords广告 |
+   | 上次单击 | 脱机转换将归因于用户点击的上一个AdWords广告 |
 
    ![](assets/image2015-3-27-14-3a10-3a46.png)
 
    >[!NOTE]
    >
-   >[必须选](https://support.google.com/adwords/answer/1752125?hl=en) 择自动标记才能使用此功能。它必须在AdWords中激活。
+   >[必须选](https://support.google.com/adwords/answer/1752125?hl=en) 择“自动标记”才能使此功能正常工作。必须在AdWords中激活。
 
 1. 单击&#x200B;**下一步**。
 
    ![](assets/image2015-3-27-14-3a11-3a31.png)
 
-1. 取消选择您不想更新的帐户。 单击&#x200B;**创建**。
+1. 取消选择您不希望更新的帐户。 单击&#x200B;**创建**。
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   现在，请参阅下面的相关文章，了解如何在收入模型中映射AdWords脱机转换。
+   现在，请参阅以下相关文章，了解如何在收入模型中映射AdWords脱机转换。
 
    >[!MORELIKETHIS]
    >
