@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360207
-description: 创建仅限API用户- Marketo Docs —— 产品文档
+description: 创建仅API用户 — Marketo文档 — 产品文档
 title: 创建仅API用户
+exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-
 # 创建仅API用户{#create-an-api-only-user}
 
-如果要通过[REST API](https://developers.marketo.com/documentation/rest/)与Marketo集成，您将需要创建仅用于API的用户。 这是方法。
+如果要通过[REST API](https://developers.marketo.com/documentation/rest/)与Marketo集成，则需要创建仅API用户。 下面介绍如何操作。
 
 >[!PREREQUISITES]
 >
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
-1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**“用户和角色”。**
+1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**用户和角色。**
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
@@ -32,15 +32,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-9-3a32-3a3.png)
 
-1. 为仅API用户输入电子邮件、名字和姓氏。 单击&#x200B;**下一步**。
+1. 为仅API用户输入电子邮件、名和姓。 单击&#x200B;**下一步**。
 
    ![](assets/image2016-5-24-10-3a53-3a7.png)
 
    >[!TIP]
    >
-   >添加可选原因或访问到期日期。 短期员工可轻松使用访问过期日期。
+   >添加可选原因或访问过期日期。 对于短期员工，访问过期日期非常方便。
 
-1. 选择&#x200B;**API Only**&#x200B;角色并选中&#x200B;**API Only**&#x200B;复选框。 单击&#x200B;**下一步**。
+1. 选择&#x200B;**“仅API**”角色并选中“仅API **”复选框。**&#x200B;单击&#x200B;**下一步**。
 
    ![](assets/four.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->弹出窗口说：“邀请不是仅API所必需的”，但这并不意味着您做错了事。 它只意味着我们将创建角色，无需发送邀请电子邮件。
+>弹出窗口说，“邀请不是仅API所必需的”，但这并不意味着您做了错事。 这只意味着我们将创建角色，无需发送邀请电子邮件。
 
 那好！ 现在，让我们继续创建自定义服务。
 
