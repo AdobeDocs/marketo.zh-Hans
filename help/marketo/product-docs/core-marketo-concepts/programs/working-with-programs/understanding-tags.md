@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147112
-description: 了解标记——营销文档——产品文档
+description: 了解标记 — Marketo Docs — 产品文档
 title: 了解标记
+exl-id: af74aec2-096f-489f-adf8-388da3867fae
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
 # 了解标记{#understanding-tags}
 
-现在你大概知道项目就像Marketo的积木。 利用标记和渠道将帮助您为报告目的筛选数据。
+现在您可能已经知道项目就像Marketo的积木。 利用标记和渠道将帮助您为报告目的筛选数据。
 
-标记用于描述项目。 您可以根据需要制作任意数量的图像，每个图像都具有唯一的值。 渠道在项目中识别投放机制，如网络研讨会、赞助或在线广告。
+标签用于描述项目。 您可以根据需要制作任意数量的图像，每个图像都具有唯一值。 渠道在项目（如网络研讨会、赞助或在线广告）中确定投放机制。
 
 ## 标记类型{#tag-type}
 
-标记类型标识要排序的信息类型。
+标签类型标识要排序的信息类型。
 
 >[!TIP]
 >
->如果您要创建自定义标记，请与[营销人员](/help/marketo/product-docs/administration/tags/create-custom-tags.md)交谈。
+>如果您要创建自定义标记，请与您的[Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md)交谈。
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 渠道{#channel}
 
-渠道用于报告[members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)在项目中的移动情况。 每个渠道都有一组晋升状态和一个设置为相等成功的状态。
+渠道用于报告[members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)在项目中的移动情况。 每个渠道都有一组进展状态和一个设置为相等成功的状态。
 
 >[!NOTE]
 >
