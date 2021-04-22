@@ -2,14 +2,14 @@
 unique-page-id: 17727823
 description: 发行说明 — Winter '19 - Marketo Docs — 产品文档
 title: 发行说明 — 2019年冬季
+exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’19年冬季{#release-notes-winter}
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Facebook现在需要一个业务经理帐户，以利用您的自定义受众集成。 您的Facebook LaunchPoint服务&#x200B;*必须*&#x200B;与Business Manager帐户关联，否则，在2019年1月14日之后，您的集成将不再有效。 ****&#x200B;要设置Business Manager帐户，请参阅[Facebook帮助](https://www.facebook.com/business/help/1710077379203657)。
+>Facebook现在需要Business Manager帐户，以利用您的自定义受众集成。 您的Facebook LaunchPoint服务&#x200B;*必须*&#x200B;与Business Manager帐户关联，否则2019年1月14日之后，您的集成将不再有效。 ****&#x200B;要设置Business Manager帐户，请参阅[Facebook帮助](https://www.facebook.com/business/help/1710077379203657)。
 
 >[!NOTE]
 >
->微软正在推动所有在线客户升级到最新版Microsoft Dynamics。 如果您要将Marketo实例与Dynamics Online集成，您需要在2019年1月31日之前&#x200B;**升级到Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)的最新版本，以确保您的集成将继续运行。[**
+>微软正在推动所有在线客户升级到最新版Microsoft Dynamics。 如果要将Marketo实例与Dynamics Online集成，您需要在2019年1月31日&#x200B;**之前[升级到最新版Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)，以确保您的集成将继续工作。**
 
 >[!NOTE]
 >
@@ -31,9 +31,9 @@ ht-degree: 0%
 
 ## 核心平台增强功能{#core-platform-enhancements}
 
-**[适用于Marketo电子邮件的Email CC](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
+**[电子邮件CC for Marketo电子邮件](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
-对于通过Marketo发送的电子邮件，每位收件人最多可包含五个CC地址。
+对于通过Marketo发送的电子邮件，每个收件人最多包含五个CC地址。
 
 **API**
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 **[Munchkin v155(Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
-* **仅API模式**:用户现在可以决定何时以及如何跟踪其数据库成员，方法是允许单页Web应用程序在他们希望记录网页访问时明确调用，而不是依赖Marketo的自动跟踪。
+* **仅API模式**:现在，用户可以通过允许单页Web应用程序在希望记录网页访问时明确调用来确定何时以及如何跟踪其数据库成员，而不是依赖Marketo的自动跟踪。
 * **退出管理**:通过将退出Cookie域与Munchkin跟踪Cookie域相匹配，轻松管理退出。
 * **域级决策器参数**:双字母域(即“  [website.io](https://website.io)”)将自动在Marketo中跟踪，无需其他设置要求。
 
@@ -58,7 +58,7 @@ ht-degree: 0%
    * _Salesforce管理员设_ 置搁置团队设置其SFDC同步比以往更快、更轻松。
 
 * **OWA Plugin for Windows**:借助一个插件，Sales Engage将支持所有Windows Office365客户端，从而提供在Outlook中使用实时源的功能。Microsoft Store中将提供新插件。
-* **活动推动**:将销售参与同步到核心Marketo平台，以利用实时营销洞察。
+* **活动推动**:将销售活动同步到核心Marketo平台，以利用实时营销洞察。
 
 ## Marketo Sky{#marketo-sky}
 
@@ -68,15 +68,15 @@ ht-degree: 0%
 
 * **可选默认体验**:Marketo用户如果已由管理员提供访问权限，则可以将Marketo Sky设置为其默认体验。
 
-* **重塑我的营销**:通过添加构件来自定义您的体验，这些构件提供关键信息、通知和指向最频繁访问区域的链接。
+* **我的Marketo**:通过添加构件来自定义您的体验，这些构件提供关键信息、通知和指向最频繁访问区域的链接。
 
 * **Design Studio列表视图和详细页**:通过可填写、可搜索的电子邮件、登陆页和表单列表视图，享受更高的组织级别和准确性。资产详细信息页面提供每个资产的关键信息，包括资产所使用的项目、所使用的片段数等。
 
-* **全局搜索**:Marketo现在可以跨平台优惠更快、更强大的全球搜索功能。搜索查询现在可在所有可访问的工作区中运行，并可以搜索资产（活动和归档）、标签、活动和项目。 搜索结果通过叠加提供，并且每个结果都包括其文件位置跟踪，以指定资产所在的位置。
+* **全局搜索**:Marketo现在跨平台优惠了更快、更强大的全球搜索功能。搜索查询现在可在所有可访问的工作区中运行，并可以搜索资产（活动和归档）、标签、活动和项目。 搜索结果通过叠加提供，并且每个结果都包括其文件位置跟踪，以指定资产所在的位置。
 
 * **改进的用户界面**:新的图标、样式和按钮，以及新的调色板，可反映我们的品牌更新，使Marketo Sky更出色、更实用。
 
-* **电子邮件项目可用性增强**:我们继续在经典的营销潜在客户管理平台和新的项目体验之间实现电子邮件Marketo Sky功能的均等。
+* **电子邮件项目可用性增强**:我们继续在经典Marketo潜在客户管理平台和新的项目体验之间实现电子邮件Marketo Sky功能的均等。
 * **事件网络研讨会项目**:事件研讨会项目现已在Marketo Sky中提供(注意：此版本中将仅支持GoToWebinar，并随时间推移进一步建立集成功能)。
 
 ## 基于帐户的营销{#account-based-marketing}
