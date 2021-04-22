@@ -2,14 +2,14 @@
 unique-page-id: 2951099
 description: 发行说明 — 2013年4月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年4月
+exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2013年4月{#release-notes-april}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 框集成{#box-integration}
 
-将Marketo与您的Box帐户连接，以轻松将文件复制到设计工作室中。
+将Marketo与您的Box帐户连接，轻松将文件复制到设计工作室中。
 
 ![](assets/image2014-9-22-15-3a47-3a56.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 ## ON24增强{#on-enhancement}
 
-职位和公司名称将从您的Marketo注册表单同步到ON24。
+职务和公司名称将从您的Marketo注册表单同步到ON24。
