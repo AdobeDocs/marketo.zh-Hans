@@ -2,18 +2,18 @@
 unique-page-id: 4720253
 description: 发行说明 — 2014年12月 — Marketo Docs — 产品文档
 title: 发行说明 — 2014年12月
+exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # 发行说明：2014年12月{#release-notes-december}
 
-2014年12月版包含以下功能。 请查看您的Marketo Edition以了解功能可用性。 发布后，请务必回来查找每个功能的详细文章的链接！
+2014年12月版包含以下功能。 请查看Marketo版以了解功能可用性。 发布后，请务必回来查找每个功能的详细文章的链接！
 
 ## Sales Insight报表{#sales-insight-reports}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## Facebook自定义受众{#facebook-custom-audiences}
 
-在您的营销人员管理员通过“管理员”>“Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)”添加[Facebook后，您可以轻松创建、更新或将[替换为Marketo静态或智能列表](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)中的潜在客户。 在任何静态或智能列表的潜在客户网格底部查找新的Facebook图标。
+在您的Marketo管理员通过“管理”>“Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)”添加[Facebook后，您可以轻松创建、更新或[将Facebook自定义受众替换为Marketo静态或智能列表](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)中的潜在客户。 在任何静态或智能列表的潜在客户网格底部查找新的Facebook图标。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
