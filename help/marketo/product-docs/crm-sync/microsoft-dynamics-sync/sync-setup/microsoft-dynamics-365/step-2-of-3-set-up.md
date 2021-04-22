@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571827
-description: 步骤2（共3步） — 在Dynamics中设置Marketo Sync用户 — Marketo Docs — 产品文档
+description: 第2步（共3步） — 在Dynamics中设置Marketo Sync用户 — Marketo Docs — 产品文档
 title: 第2步（共3步） — 在Dynamics中设置Marketo同步用户
+exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
 
 ---
-
 
 # 第2步，共3步：在Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}中设置Marketo同步用户
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
 ## 分配同步用户角色{#assign-sync-user-role}
 
-将Marketo Sync用户角色仅分配给Marketo sync用户。 您无需将其分配给任何其他用户。
+将Marketo Sync用户角色仅分配给Marketo同步用户。 您无需将其分配给任何其他用户。
 
 >[!NOTE]
 >
->这适用于Marketo版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅[升级Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)的Marketo解决方案。
+>这适用于Marketo 4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅[升级Marketo Solution for Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)。
 
 1. 返回“已启用的用户”选项卡并刷新用户列表。
 
@@ -81,19 +81,19 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-1. 选中&#x200B;**Marketo Sync User** ，然后单击&#x200B;**确定**。
+1. 选中&#x200B;**Marketo Sync User**&#x200B;并单击&#x200B;**确定**。
 
    ![](assets/thirteen.png)
 
    >[!NOTE]
    >
-   >同步用户在CRM中所做的任何更新将&#x200B;**不会**&#x200B;同步回Marketo。
+   >同步用户在您的CRM中所做的任何更新都将&#x200B;**不会**&#x200B;同步回Marketo。
 
 ## 配置Marketo解决方案{#configure-marketo-solution}
 
 快到了！ 我们只剩下了通知Marketo Solution有关新用户创建的信息。
 
-1. 返回“高级设置”部分，单击“设置”旁的![](assets/image2015-5-13-15-3a49-3a19.png)图标，然后选择“Marketo配置”。****
+1. 返回“高级设置”部分，单击“设置”旁的![](assets/image2015-5-13-15-3a49-3a19.png)图标，然后选择&#x200B;**Marketo Config**。
 
    ![](assets/fourteen.png)
 
@@ -133,4 +133,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[第3步，共3步：将Microsoft Dynamics与Marketo连接（联机）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+>[第3步，共3步：将Microsoft Dynamics与Marketo（联机）连接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
