@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37355569
-description: 项目成员自定义字段 — Marketo Docs — 产品文档
+description: 项目成员自定义字段 — Marketo文档 — 产品文档
 title: 项目成员自定义字段
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
 
 ---
-
 
 # 项目成员自定义字段{#program-member-custom-fields}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 创建项目成员自定义字段{#create-a-program-member-custom-field}
 
-1. 在Marketo中，单击&#x200B;**管理员**。
+1. 在Marketo中，单击&#x200B;**Admin**。
 
    ![](assets/one.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 |---|---|
 | 公司 | 与人员关联的公司的名称。 |
 | 机会 | 一个机会可以与某个人或帐户关联，作为潜在的未来销售。 他们通常通过CRM或API进入Marketo。 |
-| 人 | 您通过营销活动与Marketo数据库中的个人进行互动。 |
+| 人 | 您通过营销活动参与的Marketo数据库中的个人。 |
 | 项目成员 | 也是项目成员的人 |
 
 ## 触发器和过滤器{#triggers-and-filters}
