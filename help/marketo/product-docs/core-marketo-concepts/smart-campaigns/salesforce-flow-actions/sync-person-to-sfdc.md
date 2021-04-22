@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147027
-description: 将人员同步到SFDC - Marketo Docs —— 产品文档
+description: 将人员同步到SFDC - Marketo Docs — 产品文档
 title: 将人员同步到SFDC
+exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # 将人员同步到SFDC {#sync-person-to-sfdc}
 
 >[!NOTE]
 >
->仅当与Salesforce集成时可用。
+>仅在与Salesforce集成时可用。
 
 ## 概述{#overview}
 
-此流程步骤将将Marketo创建的人员作为潜在客户插入您的Salesforce CRM。
+此流步骤将将Marketo创建的人员作为潜在客户插入您的Salesforce CRM。
 
 ![](assets/sync-person-to-sfdc.png)
 
@@ -37,8 +37,8 @@ ht-degree: 0%
 
    ![](assets/sync-person-to-sfdc-2.png)
 
-   使用此流程步骤时，该人员将立即同步为Salesforce潜在客户，无需等待常规同步。
+   使用此流步骤时，该人员将立即同步为Salesforce潜在客户，无需等待定期同步。
 
    >[!CAUTION]
    >
-   >Salesforce不允许将“联系人”分配给潜在客户队列。 在这种情况下，Marketo将在Salesforce中创建重复“潜在客户”。
+   >Salesforce不允许将“联系人”分配到潜在客户队列。 在这种情况下，Marketo将在Salesforce中创建一个重复“潜在客户”。
