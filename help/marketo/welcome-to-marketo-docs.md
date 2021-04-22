@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557070
-description: 欢迎使用Marketo Docs - Marketo Docs —— 产品文档
+description: 欢迎使用Marketo Docs - Marketo Docs — 产品文档
 title: 欢迎使用Marketo Docs
 translation-type: tm+mt
 source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo产品文档
 
-[2020年7月](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720)
+[’20年7月](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720)
 
 [新增功能](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720)
 
@@ -23,4 +23,4 @@ Marketo产品文档
 
 [Marketo入门](getting-started.md)
 
-[产品文档有关Marketo的所有信息](product-docs.md)
+[产品文档有关Marketo的一切](product-docs.md)
