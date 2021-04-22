@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146989
-description: 活动操作——克隆智能活动- Marketo文档——产品文档
-title: 活动操作——克隆智能活动
+description: 活动操作 — 克隆智能活动- Marketo文档 — 产品文档
+title: 活动操作 — 克隆智能活动
+exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-
 # 活动操作：克隆智能活动{#campaign-actions-clone-a-smart-campaign}
 
-克隆活动可以节省您的时间。 无需从头开始构建所有内容——克隆使用完全相同的智能活动过滤器和流步骤创建相同的列表。
+仿制活动可以节省您的时间。 无需从头开始构建所有内容 — 仿制使用完全相同的智能列表过滤器和流步骤创建相同的活动。
 
 1. 找到要克隆的活动，选择它，然后在&#x200B;**活动操作**&#x200B;下单击&#x200B;**克隆**。
 
