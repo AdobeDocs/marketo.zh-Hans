@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953325
-description: 视图条目详细信息- Marketo Docs —— 产品文档
+description: 视图条目详细信息 — Marketo文档 — 产品文档
 title: 视图条目详细信息
+exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
-
 
 # 视图条目详细信息{#view-entry-details}
 
@@ -19,10 +19,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-26-10-3a30-3a44.png)
 
-1. 条目在营销日历中为只读。 导航到要进行编辑的项目。
+1. 条目在营销日历中为只读。 导航到项目进行编辑。
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
 >[!TIP]
 >
->尝试右击右侧的详细信息。 您可以看到用于导航或弹出编辑器的菜单。 不错吧？
+>尝试右键单击右侧的详细信息。 您可以看到用于导航或弹出编辑器的菜单。 不错吧？
