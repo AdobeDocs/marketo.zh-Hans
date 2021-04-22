@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147070
-description: 将智能活动结果导出到Excel - Marketo Docs —— 产品文档
+description: 将智能活动结果导出到Excel - Marketo Docs — 产品文档
 title: 将智能活动结果导出到Excel
+exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-
 # 将智能活动结果导出到Excel {#export-smart-campaign-results-to-excel}
 
-将智能活动结果导出至Excel，以便在Marketo之外使用。
+将您的智能活动结果导出到Excel，以便在Marketo之外使用。
 
 1. 在智能活动中，单击&#x200B;**结果**，然后单击底部的导出图标。
 
    ![](assets/exportexcel-hands.png)
 
-   很快，您的结果将导出并可供使用！
+   很快，您的结果就会导出并准备好使用！
 
    >[!NOTE]
    >
