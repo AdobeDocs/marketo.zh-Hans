@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359414
-description: 简单评分——营销文档——产品文档
+description: 简单评分 — Marketo文档 — 产品文档
 title: 简单评分
+exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
 
 ---
 
-
 # 简单评分{#simple-scoring}
 
 >[!PREREQUISITES]
 >
->* [设置并添加人物](get-set-up-and-add-a-person.md)
+>* [设置并添加人](get-set-up-and-add-a-person.md)
 >* [登陆页表单](landing-page-with-a-form.md)
 
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/ma-1.png)
 
-1. 右键单击&#x200B;**Learning**&#x200B;文件夹，然后单击&#x200B;**新建营销活动文件夹**。
+1. 右键单击您的&#x200B;**Learning**&#x200B;文件夹，然后单击&#x200B;**新建营销活动文件夹**。
 
    ![](assets/two-2.png)
 
-1. 将活动文件夹命名为“Scoring”。
+1. 将活动文件夹命名为“Scorning”。
 
    ![](assets/three-1.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
    >
    >如果您已经有一个“评分”文件夹，请将此文件夹命名为其他名称，如“评分1”。 文件夹名称必须唯一。
 
-1. 然后右键单击新的&#x200B;**Scorning**&#x200B;文件夹并选择&#x200B;**新的智能活动**。
+1. 然后右键单击新&#x200B;**Scoring**&#x200B;文件夹并选择&#x200B;**新建智能活动**。
 
    ![](assets/four.png)
 
-1. **将活动** 命名为“更改得分”，然后单击“ **创建”**。
+1. **将活动** 命名为“更改得分”，然后单击“ **创建**”。
 
    ![](assets/five-1.png)
 
@@ -49,9 +49,9 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-   我们希望每当人填写您的&#x200B;**试用申请表**&#x200B;时运行此活动。
+   我们希望每当用户填写您的&#x200B;**试用申请表**&#x200B;时运行此活动。
 
-1. 查找&#x200B;**填充表单**&#x200B;触发器并将其拖动到左画布上。
+1. 在左画布上查找并拖动&#x200B;**填色表单**&#x200B;触发器。
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您用Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)快速赢取完成[登陆页，您应该有该表单。 如果您为表单使用了其他名称，请选择该名称。
+   >如果您用Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)快速赢取完成[登陆页，您应该有表单。 如果您为表单使用了其他名称，请选择该名称。
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a44-3a45.png)
 
-1. 您可以键入要添加到人员得分的任何值。 让我们在&#x200B;**Change**&#x200B;字段中输入“+5”。
+1. 您可以键入要添加到人员分数的任何值。 让我们在&#x200B;**Change**&#x200B;字段中输入“+5”。
 
    ![](assets/eleven-1.png)
 
@@ -89,11 +89,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->激活后，此活动将在每个人填写表单时运行。 活动将一直运行，直到停用。
+>激活后，此活动将在每次用户填写表单时运行。 活动将一直运行，直到停用为止。
 
-## 第2步：填写表单{#step-fill-out-the-form}
+## 第2步：填写{#step-fill-out-the-form}表单
 
-1. 选择您在[登陆页中创建的具有Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)快速赢取的登陆页。
+1. 选择您在[登陆页中创建的登陆页,Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)快速获胜。
 
    ![](assets/fourteen-1.png)
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >使用您首次以个人身份输入时所用的相同姓名和电子邮件地址，以应用“+5”得分增加。
+   >使用您首次以个人身份输入时所用的相同名称和电子邮件地址，以应用“+5”分数增加。
 
 ## 第3步：视图人员信息{#step-view-the-person-info}
 
@@ -115,7 +115,7 @@ ht-degree: 0%
 
    ![](assets/db-2.png)
 
-1. 搜索您在填写表单时使用的电子邮件地址。
+1. 搜索填写表单时使用的电子邮件地址。
 
    ![](assets/eighteen.png)
 
@@ -123,10 +123,10 @@ ht-degree: 0%
 
    ![](assets/nineteen.png)
 
-您的人员详细信息将在新选项卡或窗口中打开。 了解填写表单时您的得分如何提高5分？!
+您的人员详细信息将在新选项卡或窗口中打开。 了解填写表单时您的分数如何提高5分？!
 
 ![](assets/twenty.png)
 
-**恭喜！** 您创建了评分活动。[÷¿î:登陆页表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+**祝贺您！** 您创建了评分活动。[◄任务2:登陆页表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 [任务4:电子邮件自动响应►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
