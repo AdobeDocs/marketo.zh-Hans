@@ -2,14 +2,14 @@
 unique-page-id: 1147042
 description: 将数据追加到字段 — Marketo Docs — 产品文档
 title: 将数据附加到字段
+exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # 将数据附加到字段{#append-data-to-a-field}
 
