@@ -2,18 +2,18 @@
 unique-page-id: 7514821
 description: 发行说明 — 2015年5月 — Marketo Docs — 产品文档
 title: 发行说明 — 2015年5月
+exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-
 # 发行说明：2015年5月{#release-notes-may}
 
-2015年5月版包含以下功能。 请查看您的Marketo Edition以了解功能可用性。 发布后，请务必回来查找每个功能的详细文章的链接！
+2015年5月版包含以下功能。 请查看Marketo版以了解功能可用性。 发布后，请务必回来查找每个功能的详细文章的链接！
 
 ## 完全响应式登陆页
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 电子邮件发送能力{#email-deliverability}
 
-Marketo现在将在您添加的域上每周运行自动SPF和DKIM检查。 检查通知，保持最新状态。
+Marketo现在将对您添加的域每周运行自动化SPF和DKIM检查。 检查通知，保持最新状态。
 
 ## 电子邮件模板行为更改{#email-template-behavior-change}
 
