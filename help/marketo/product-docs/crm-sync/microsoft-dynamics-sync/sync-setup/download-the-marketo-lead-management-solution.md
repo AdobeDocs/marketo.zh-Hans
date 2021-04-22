@@ -1,27 +1,27 @@
 ---
 unique-page-id: 6848922
-description: 下载Marketo潜在客户管理解决方案- Marketo Docs —— 产品文档
+description: 下载Marketo潜在客户管理解决方案 — Marketo文档 — 产品文档
 title: 下载Marketo Lead Management解决方案
+exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # 下载Marketo Lead Management Solution {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
-您需要下载Marketo Solution并将其安装到您的Microsoft Dynamics帐户中，才能开始同步。
+您需要将Marketo解决方案下载并安装到您的Microsoft Dynamics帐户中，才能开始同步。
 
 >[!CAUTION]
 >
->执行任何升级之前，必须先下载最新的Marketo Solution _。_
+>执行任何升级之前，必须下载最新的Marketo解决方案&#x200B;_。_
 
 >[!NOTE]
 >
