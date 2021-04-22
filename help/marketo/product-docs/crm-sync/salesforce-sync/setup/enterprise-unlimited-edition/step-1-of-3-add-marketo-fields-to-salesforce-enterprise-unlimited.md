@@ -2,14 +2,14 @@
 unique-page-id: 2360362
 description: 第1步（共3步） — 将Marketo字段添加到Salesforce(Enterprise/Unlimited)- Marketo文档 — 产品文档
 title: 第1步（共3步） — 将Marketo字段添加到Salesforce(Enterprise/Unlimited)
+exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '731'
 ht-degree: 0%
 
 ---
-
 
 # 第1步，共3步：将Marketo字段添加到Salesforce(Enterprise/Unlimited){#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
@@ -23,7 +23,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 1. 在潜在客户和联系人之间映射这些自定义字段，以便在Salesforce中进行转换时，这些值会继续显示。
 1. 如有必要，可创建其他字段（请参阅下表）。
 
-所有这些自定义字段都是可选字段，无需同步Marketo和Salesforce。 作为最佳实践，我们建议您确实为分数、客户获取项目和客户获取日期创建字段。
+所有这些自定义字段都是可选字段，并且不是同步Marketo和Salesforce所必需的。 作为最佳实践，我们建议您确实为分数、客户获取项目和客户获取日期创建字段。
 
 ## 将Marketo字段添加到Salesforce {#add-marketo-fields-to-salesforce}
 
