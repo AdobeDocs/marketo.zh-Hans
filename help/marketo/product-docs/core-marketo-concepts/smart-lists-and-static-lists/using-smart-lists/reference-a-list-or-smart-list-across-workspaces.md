@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4720377
-description: 跨工作区引用列表或智能列表- Marketo Docs —— 产品文档
+description: 跨工作区引用列表或智能列表- Marketo Docs — 产品文档
 title: 跨工作区引用列表或智能列表
+exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
 # 跨工作区引用列表或智能列表{#reference-a-list-or-smart-list-across-workspaces}
 
-列表和智能列表可以跨工作区进行共享和引用，以便从数据库中轻松重复使用。
+列表和智能列表可以跨工作区共享和引用，以便从数据库中轻松重复使用。
 
 >[!NOTE]
 >
->人员分区规则适用(工作区中的智能列表和静态列表仅显示同时是当前工作区&#x200B;*和*&#x200B;成员的列表的成员的人员)。
+>人员分区规则适用(工作区中的智能列表和静态列表仅显示既是列表&#x200B;*成员又是当前工作区*&#x200B;成员的人员)。
 
 ## 共享列表或智能列表{#share-a-list-or-smart-list}
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/three-4.png)
 
-1. 右键单击&#x200B;**新建文件夹**&#x200B;并选择&#x200B;**共享文件夹**。
+1. 右键单击&#x200B;**新建文件夹**，然后选择&#x200B;**共享文件夹**。
 
    ![](assets/four-3.png)
 
-1. 选择要与之共享的&#x200B;**工作区**。 选择&#x200B;**保存**。
+1. 选择要与其共享的&#x200B;**工作区**。 选择&#x200B;**保存**。
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
