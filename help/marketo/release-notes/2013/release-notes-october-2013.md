@@ -2,14 +2,14 @@
 unique-page-id: 2951054
 description: 发行说明 — 2013年10月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年10月
+exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2013年10月{#release-notes-october}
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com展示](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) 电子邮件和登陆页模板（包括响应式移动电子邮件模板），您可以从Marketo项目库下载这些模板。我们将每月添加模板，并经常回访！
+[Templates.marketo.com展示可](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) 从Marketo项目库下载的电子邮件和登陆页模板（包括响应式移动电子邮件模板）。我们将每月添加模板，并经常回访！
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](https://developers.marketo.com) 面向希望将集成构建到Marketo中的开发人员。您可以引用不同的集成选项，包括Munchkin JavaScript API、SOAP API代码示例、Webhook和电子邮件脚本。 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)上也提供Java SDK。
+[Developers.marketo.com](https://developers.marketo.com) 面向希望构建集成到Marketo中的开发人员。您可以引用不同的集成选项，包括Munchkin JavaScript API、SOAP API代码示例、Webhook和电子邮件脚本。 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)上也提供Java SDK。
 
 ## 更新了BrightTALK事件适配器{#updated-brighttalk-event-adapter}
 
