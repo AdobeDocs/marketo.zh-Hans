@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146970
-description: 计划批处理智能活动以稍后运行- Marketo Docs —— 产品文档
+description: 计划批处理智能活动以稍后运行 — Marketo文档 — 产品文档
 title: 计划批处理智能活动以稍后运行
+exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-
 # 计划批处理智能活动以稍后运行{#schedule-a-batch-smart-campaign-to-run-later}
 
-如果要将批量智能活动设置为在将来某个时间运行，请看操作方法。
+如果要将批量智能活动设置为在将来某个时点运行，请按照以下方式操作。
 
 >[!TIP]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/runonce.png)
 
-1. 选择您希望智能活动在以下时间运行的时间（至少提前15分钟）。
+1. 选择希望智能活动在以下时间运行的时间（至少提前15分钟）。
 
    ![](assets/runoncetime.png)
 
