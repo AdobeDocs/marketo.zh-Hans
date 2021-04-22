@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360222
-description: 启用通信限制- Marketo Docs —— 产品文档
+description: 启用通信限制 — Marketo Docs — 产品文档
 title: 启用通信限制
+exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-
 # 启用通信限制{#enable-communication-limits}
 
-不要与您的人进行过度交流非常重要。 设置通信限制有助于防止您的组织发送过多电子邮件。
+不要与您的人员过度交流非常重要。 设置通信限制将有助于防止您的组织发送过多电子邮件。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**通信限制**。
 
@@ -29,15 +29,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >每天基于订阅时区（午夜至午夜）的日历日。
+   >“每日”基于订阅时区（午夜 — 午夜）的日历日。
 
-1. 单击“每天&#x200B;****”下拉框并选择所需的限制。 在本例中，我们选择1。
+1. 单击&#x200B;**每天**&#x200B;下拉框并选择所需的限制。 在此示例中，我们选择1。
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >如果预设选项均不适用于您，则还可以选择&#x200B;**自定义**。
+   >如果预设选项均不适合您，则也可以选择&#x200B;**自定**。
 
 1. 单击&#x200B;**每7天**&#x200B;下拉框并选择所需的限制。 在本例中，我们选择5。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >进一步了解[操作电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)是什么。
+   >了解有关[操作电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)的详细信息。
 
 1. 单击&#x200B;**保存**。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >**示例**
    >
-   >上述设置意味着在任何七天时段内，用户每天不会收到超过&#x200B;**1封电子邮件**&#x200B;或超过&#x200B;**5封。**
+   >上述设置意味着，在任何七天期间，每天不会收到超过&#x200B;**1封电子邮件**&#x200B;或超过&#x200B;**5封电子邮件。**
 
    >[!NOTE]
    >
