@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147023
-description: 致电Webhook - Marketo Docs —— 产品文档
+description: 致电Webhook - Marketo Docs — 产品文档
 title: 调用Webhook
+exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
-
 
 # 调用Webhook {#call-webhook}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-Webhooks允许您与第三方服务交互。 通过在智能活动流中调用Webhook来发送／接收信息。
+Webhooks允许您与第三方服务交互。 通过在智能活动流中调用Webhook来发送/接收信息。
 
 ![](assets/image2014-9-22-15-3a4-3a7.png)
 
@@ -33,7 +33,7 @@ Webhooks允许您与第三方服务交互。 通过在智能活动流中调用We
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
-仅此而已！ 现在，只要用户进入智能活动流，将调用您的Webhook。
+仅此而已！ 现在，只要用户进入智能活动流，就会调用您的Webhook。
 
 >[!MORELIKETHIS]
 >
