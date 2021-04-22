@@ -2,14 +2,14 @@
 unique-page-id: 2360366
 description: 第3步（共3步） — Connect Marketo和Salesforce(Enterprise/Unlimited)- Marketo文档 — 产品文档
 title: 第3步（共3步） — Connect Marketo和Salesforce(Enterprise/Unlimited)
+exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
 
 ---
-
 
 # 第3步，共3步：Connect Marketo和Salesforce(Enterprise/Unlimited){#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >如果您已经拥有安全令牌，请直接继续设置同步用户凭据和备份！
 
-1. 使用Marketo Sync用户登录到Salesforce，单击同步用户的名称，然后单击&#x200B;**我的设置**。
+1. 使用Marketo Sync用户登录Salesforce，单击同步用户的名称，然后单击&#x200B;**我的设置**。
 
    ![](assets/image2015-6-12-9-3a12-3a47.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在单击&#x200B;**同步字段**&#x200B;之前，请务必从同步用户中隐藏Marketo中不需要](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)的所有字段。 [单击“同步字段”后，用户可以看到的所有字段都将在Market中永久创建，并且无法删除。
+   >在单击&#x200B;**同步字段**&#x200B;之前，请务必从同步用户中隐藏Marketo中不需要](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)的所有字段。 [单击“同步字段”后，用户可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
 
 1. 输入在Salesforce配置的第2部分([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md),[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))中创建的Salesforce同步用户凭据，然后单击&#x200B;**同步字段**。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果要将Marketo沙箱同步到Salesforce沙箱，请选中&#x200B;**沙箱**。
+   >如果要将Marketo沙箱同步到Salesforce沙箱，请检查&#x200B;**沙箱**。
 
 1. 阅读警告，然后单击&#x200B;**确认凭据**。
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 开始Salesforce同步{#start-salesforce-sync}
 
-1. 单击&#x200B;**开始Salesforce同步**&#x200B;以开始永久Marketo-Salesforce同步。
+1. 单击&#x200B;**开始Salesforce同步**&#x200B;以开始永久的Marketo-Salesforce同步。
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
@@ -87,9 +87,9 @@ ht-degree: 0%
 
 ## 验证同步{#verify-sync}
 
-Marketo在管理区域中为Salesforce同步提供状态消息。 您可以按照以下步骤验证同步是否正常工作。
+Marketo在“管理”区域中为Salesforce同步提供状态消息。 您可以按照以下步骤验证同步是否正常工作。
 
-1. 在Marketo中，单击&#x200B;**管理**，然后单击&#x200B;**Salesforce**。
+1. 在Marketo中，单击&#x200B;**Admin**，然后单击&#x200B;**Salesforce**。
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
