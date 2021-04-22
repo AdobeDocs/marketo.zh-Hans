@@ -2,14 +2,14 @@
 unique-page-id: 12980993
 description: 发行说明 — Summer '17 - Marketo Docs — 产品文档
 title: 发行说明 — 17年夏季
+exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’17年夏季{#release-notes-summer}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## [其他Facebook脱机转换阶段](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-选择多达7个附加的离线转换阶段，以映射到您的Marketo生命周期阶段（超过目前提供的3个阶段）。 根据客户旅程中的转化率优化Facebook广告支出，从而提高ROI。
+最多可选择7个附加的脱机转换阶段，以映射到Marketo生命周期阶段（超过目前提供的3个阶段）。 根据客户旅程中的转化率优化Facebook广告支出，从而提高ROI。
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
