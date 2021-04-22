@@ -1,18 +1,18 @@
 ---
 description: 更改项目成员数据 — Marketo Docs — 产品文档
 title: 更改项目成员数据
+exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
 # 更改项目成员数据{#change-program-member-data}
 
-您可以使用Market来通过使用“更改数据值”流活动来更新字段的值。
+您可以使用Marketo通过“更改数据值”流动操作来更新字段的值。
 
 >[!NOTE]
 >
