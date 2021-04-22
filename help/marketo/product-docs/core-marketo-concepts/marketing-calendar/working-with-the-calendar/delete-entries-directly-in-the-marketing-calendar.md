@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953358
-description: 直接在营销日历- Marketo Docs —— 产品文档中删除条目
+description: 直接在营销日历 — Marketo文档 — 产品文档中删除条目
 title: 直接在营销日历中删除条目
+exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
 # 直接在营销日历{#delete-entries-directly-in-the-marketing-calendar}中删除条目
 
-除了创建[](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)和[编辑](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)条目外，您还可以在营销日历中直接删除它们。 这是方法。
+除了创建[](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)和[编辑](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)条目外，您还可以在“营销日历”中直接删除这些条目。 下面介绍如何操作。
 
 1. 转到&#x200B;**日历**。
 
