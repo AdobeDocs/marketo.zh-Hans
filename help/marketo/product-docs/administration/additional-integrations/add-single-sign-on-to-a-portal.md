@@ -2,22 +2,22 @@
 unique-page-id: 2360356
 description: 将单一登录添加到门户 — Marketo Docs — 产品文档
 title: 将单一登录添加到门户
+exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
-
 # 将单一登录添加到门户{#add-single-sign-on-to-a-portal}
 
-如果您有对用户进行身份验证的目录服务，则可以允许将单点登录(SSO)登录到Marketo。 我们使用安全断言标记语言(SAML)版本2.0及更高版本支持此功能。
+如果您有对用户进行身份验证的目录服务，则可以允许将单点登录(SSO)导入Marketo。 我们使用安全断言标记语言(SAML)版本2.0及更高版本支持此功能。
 
 Marketo用作SAML服务提供商(SP)，并依赖外部标识提供者(IdP)来验证用户身份。
 
-启用SSO后，IdP可验证用户凭据。 当用户希望使用Marketo软件时，IdP随后会向Marketo发送一条签名的SAML消息，充当SP。 此邮件向Marketo提供保险箱，授权用户使用Marketo软件。
+启用SSO后，IdP可验证用户凭据。 当用户希望使用Marketo软件时，IdP随后会向Marketo发送一条签名的SAML消息，充当SP。 此邮件向Marketo保存用户有权使用Marketo软件的保险箱。
 
 >[!NOTE]
 >
@@ -36,16 +36,16 @@ Marketo用作SAML服务提供商(SP)，并依赖外部标识提供者(IdP)来验
 
 >[!NOTE]
 >
->Marketo仅支持由标识提供者启动（也称为IdP启动），用户首先在其中启动Idp登录页面，进行身份验证，然后导航到我的Marketo。
+>Marketo仅支持由标识提供者启动（也称为IdP启动），用户在此启动中首先启动Idp登录页面，进行身份验证，然后导航到我的Marketo。
 
 ## 附加注释{#additional-notes}
 
 * **同步时间**  — 对于新用户，在处理初始SSO请求前大约有10分钟的延迟。
 * **用户设置**  — 用户由Marketo手动设置。
-* **授权** - Marketo中保留用户权限。
+* **授权**  — 在Marketo中保留用户权限。
 * **OAuth支持** - Marketo当前不支持OAuth。
-* **自动用户传播**  — 也称为“即时设置”，此时用户的首次SAML登录能够在用户访问的任何Web应用程序（例如Marketo）中创建用户，无需手动管理操作。Marketo目前不支持此功能。
-* **加密** - Marketo当前不支持加密。
+* **自动用户传播**  — 也称为“即时设置”，此时用户的首次SAML登录能够在用户访问的任何Web应用程序(例如Marketo)中创建用户，并且不需要手动管理操作。Marketo目前不支持此功能。
+* **Encryption**  - Marketo当前不支持加密。
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ Marketo用作SAML服务提供商(SP)，并依赖外部标识提供者(IdP)来验
 
    >[!NOTE]
    >
-   >如果您在&#x200B;**Admin**&#x200B;下未看到&#x200B;**单点登录**，请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)。
+   >如果您在&#x200B;**Admin**&#x200B;下未看到&#x200B;**单点登录**，请与[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)联系。
 
 1. 在&#x200B;**SAML设置**&#x200B;部分下，单击&#x200B;**编辑**。
 
@@ -109,5 +109,5 @@ Marketo用作SAML服务提供商(SP)，并依赖外部标识提供者(IdP)来验
 >
 >* [使用通用ID进行订阅登录](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
 >* [限制用户仅登录SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [邀请Marketo用户使用具有通用ID的两个实例](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [邀请Marketo用户加入两个具有通用ID的实例](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
