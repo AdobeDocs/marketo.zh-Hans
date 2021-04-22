@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2952636
-description: 查找具有自定义逻辑的重复人员 — Marketo Docs — 产品文档
+description: 查找具有自定义逻辑的重复- Marketo文档 — 产品文档
 title: 使用自定义逻辑查找重复
+exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # 查找具有自定义逻辑{#find-duplicate-people-with-custom-logic}的重复
 
-Marketo有一个系统智能列表，通过匹配重复的电子邮件地址来查找客户。 如果您想使用其他字段查找重复，请看以下方法。
+Marketo有一个系统智能列表，可通过匹配重复的电子邮件地址来查找客户。 如果您想使用其他字段查找重复，请看以下方法。
 
 >[!PREREQUISITES]
 >
@@ -44,4 +44,4 @@ Marketo有一个系统智能列表，通过匹配重复的电子邮件地址来�
 
    ![](assets/four-2.png)
 
-   完成！ 运行智能列表，以在先前选择的字段中查找具有相同值的人。
+   完成! 运行智能列表，以在先前选择的字段中查找具有相同值的人。
