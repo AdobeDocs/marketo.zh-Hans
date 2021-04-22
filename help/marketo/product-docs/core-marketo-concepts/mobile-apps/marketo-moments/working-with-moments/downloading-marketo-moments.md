@@ -1,27 +1,27 @@
 ---
 unique-page-id: 8782024
-description: 下载Marketo Moments - Marketo Docs —— 产品文档
+description: 下载Marketo Moments - Marketo Docs — 产品文档
 title: 下载Marketo时刻
+exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
 # 下载Marketo时刻{#downloading-marketo-moments}
 
-从App Store或Google Play下载Marketo Moments，看！ Marketo魔法在您手掌之中。
+从App Store或Google Play下载Marketo Moments，看！ Marketo魔法掌握在手中。
 
 ## 对于iPhone {#for-iphone}
 
-1. 转到[ App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)。
+1. 转至[App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)。
 
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
-1. 搜索Marketo Moments并将其选中。
+1. 搜索Marketo时刻并将其选中。
 
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. 转到[Google Play](https://play.google.com/store?hl=en)。
 
-1. 搜索Marketo Moments并点击下载。
+1. 搜索Marketo时刻，然后点击下载。
 
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 
    ![](assets/image2015-7-7-16-3a43-3a21.png)
 
-享受！
+玩得开心！
 
 >[!NOTE]
 >
->使用普通Marketo登录名和密码登录。
+>使用您的普通Marketo登录名和密码登录。
 >
->Marketo Moments不支持使用安全断言标记语言(SAML)进行单一登录。
+>Marketo Moments不支持使用安全断言标记语言(SAML)进行单点登录。
 
 >[!MORELIKETHIS]
 >
->[理解营销时刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>[理解Marketo时刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
