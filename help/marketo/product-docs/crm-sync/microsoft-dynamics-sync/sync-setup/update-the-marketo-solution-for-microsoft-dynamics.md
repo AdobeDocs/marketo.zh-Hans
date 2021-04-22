@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6849029
-description: 升级Microsoft Dynamics - Marketo Docs — 产品文档的Marketo解决方案
-title: 升级Microsoft Dynamics的Marketo解决方案
+description: 升级Marketo Solution for Microsoft Dynamics - Marketo Docs — 产品文档
+title: 升级Marketo Solution for Microsoft Dynamics
+exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-
-# 更新Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}的Marketo解决方案
+# 更新Marketo Solution for Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
 
 发布新的Microsoft Dynamics解决方案后，您可以从帐户的“管理”区域下载升级。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->执行任何升级之前，请务必下载最新的Marketo解决方案&#x200B;_。_
+>执行任何升级之前，您必须下载最新的Marketo解决方案&#x200B;_。_
 
 1. 转至&#x200B;**Admin**&#x200B;区域。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 选择&#x200B;**下载Marketo解决方案**。
+1. 选择&#x200B;**下载Marketo Solution**。
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
