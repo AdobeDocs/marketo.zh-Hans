@@ -2,22 +2,22 @@
 unique-page-id: 2951040
 description: 发行说明 — 2014年7月 — Marketo Docs — 产品文档
 title: 发行说明 — 2014年7月
+exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
-
 # 发行说明：2014年7月{#release-notes-july}
 
-2014年7月版包含以下功能。 请查看您的Marketo Edition以了解功能可用性。 发布后再回来，获取详细功能文档的链接。
+2014年7月版包含以下功能。 请查看Marketo版以了解功能可用性。 发布后再回来，获取详细功能文档的链接。
 
 ## 营销日历{#marketing-calendar}
 
-查看所有事件、电子邮件等内容。 [此新产](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 品将免费提供给拥有10名或更少Marketo Lead Management或Dialog用户的客户。
+查看所有事件、电子邮件等内容。 [此新产](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 品将免费提供给拥有10个或更少Marketo潜在客户管理或对话的用户。
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo Lead Management将更新为新的外观和新潮外观，并包含更新的导航。
+Marketo Lead Management将更新为新潮、新潮的外观，并包含更新的导航。
 
 ## 日期运算符{#date-operators}
 
