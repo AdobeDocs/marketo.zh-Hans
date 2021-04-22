@@ -1,24 +1,24 @@
 ---
-description: 自定义对象元数据导出 — Marketo Docs — 产品文档
+description: 自定义对象元数据导出 — Marketo文档 — 产品文档
 title: 自定义对象元数据导出
+exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-
 # 自定义对象元数据导出{#custom-object-metadata-export}
 
 如果您使用我们的SOAP API或Munchkin API，则可以导出自定义对象元数据模式。 下面介绍如何获得它。
 
-1. 在“我的营销人员”中，单击&#x200B;**管理员**。
+1. 在“我的Marketo”中，单击&#x200B;**管理**。
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. 单击&#x200B;**Marketo Custom Objects**。
+1. 单击&#x200B;**Marketo自定义对象**。
 
    ![](assets/custom-object-metadata-export-2.png)
 
