@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11384018
-description: 发行说明 — ’16年秋季 — Marketo Docs — 产品文档
+description: 发行说明 — ’16年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 1916年秋季
+exl-id: da935951-162e-426c-acf2-12c55ff706b4
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’16年秋{#release-notes-fall}
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 ![](assets/predictive.png)
 
-## [Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-通过Facebook脱机转化集成，Marketo（针对潜在客户广告潜在客户）中的转化数据将自动发送回Facebook，以便您的广告团队能够更好地优化其广告支出。 在此Facebook广告管理器报表中，将突出显示脱机转换。
+通过Facebook Offline Conversions集成，Marketo（针对潜在客户广告潜在客户）中的转化数据将自动发送回Facebook，以便您的广告团队能够更好地优化其广告支出。 在此Facebook Ad Manager报表中，将高亮显示脱机转换。
 
 ![](assets/facebook.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 >
 >请联系Marketo支持以启用此功能。
 
-## 基于Marketo帐户的营销增强{#marketo-account-based-marketing-enhancements}
+## Marketo基于帐户的营销增强{#marketo-account-based-marketing-enhancements}
 
 现在，您可以在“基于帐户的营销”(ABM)中将帐户团队分配给指定帐户，例如，帐户所有者、销售发展代表、业务发展代表和客户成功经理。 您还可以构建特定于帐户所有者的帐户列表，并向帐户团队发送个性化的每周ABM报告。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## [审计线索增强](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
-审计跟踪提供了在您的营销订阅中所做更改的完整历史记录。 我们为项目添加了额外的跟踪功能，并为智能活动、智能列表以及对用户和角色所做的更改提供了重要的更改详细信息。
+审计跟踪提供了在Marketo订阅中所做更改的完整历史记录。 我们为项目添加了额外的跟踪功能，并为智能活动、智能列表以及对用户和角色所做的更改提供了重要的更改详细信息。
 
 ## [新权限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
