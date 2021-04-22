@@ -1,14 +1,14 @@
 ---
-description: 在Velocity Scripting - Marketo Docs — 产品文档中更改自定义对象检索限制
+description: 在Velocity脚本 — Marketo Docs — 产品文档中更改自定义对象检索限制
 title: 在速度脚本中更改自定义对象检索限制
+exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
-
 
 # 在速度脚本{#change-custom-object-retrieval-limits-in-velocity-scripting}中更改自定义对象检索限制
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 什么是速度{#what-is-velocity}
 
-[Apache Velocity](https://velocity.apache.org/)是一种基于Java的语言，专为模板和编写HTML内容脚本而设计。Marketo允许通过使用[脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)在电子邮件上下文中使用它。 除其他外，这允许访问自定义对象中存储的数据。
+[Apache Velocity](https://velocity.apache.org/)是一种基于Java的语言，专为模板和编写HTML内容脚本而设计。Marketo允许通过使用[脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)在电子邮件的上下文中使用它。 除其他外，这允许访问自定义对象中存储的数据。
 
 您可以引用直接连接到潜在客户或联系人的父级和子级自定义对象，但不能引用第三级自定义对象。 对于每个自定义对象，每个人/联系人的10个最近更新的记录在运行时可用，并按从最近更新(0)到最旧更新(9)的顺序排列。
 
