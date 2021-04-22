@@ -2,14 +2,14 @@
 unique-page-id: 2951101
 description: 发行说明 — 2013年3月 — Marketo Docs — 产品文档
 title: 发行说明 — 2013年3月
+exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：2013年3月{#release-notes-march}
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 ## 支持新闻和警报{#support-news-and-alerts}
 
-订阅支持新闻和P1警报警报、已知问题、支持专家的提示和提示以及营销客户支持的更新，与营销客户支持保持联系。
+订阅P1警报支持新闻和警报、已知问题、支持专家的提示和提示以及Marketo客户支持的更新，与Marketo客户支持保持联系。
