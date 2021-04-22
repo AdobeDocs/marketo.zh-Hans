@@ -1,15 +1,15 @@
 ---
 unique-page-id: 42762511
-description: 设置Adobe Experience Cloud受众共享 — Marketo Docs — 产品文档
+description: 设置Adobe Experience Cloud受众共享 — Marketo文档 — 产品文档
 title: 设置Adobe Experience Cloud受众共享
+exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # 设置Adobe Experience Cloud受众共享{#set-up-adobe-experience-cloud-audience-sharing}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Marketo实例的HIPAA就绪部署无法使用此集成。
 
-1. 在Marketo中，单击&#x200B;**管理员**。
+1. 在Marketo中，单击&#x200B;**Admin**。
 
    ![](assets/one-2.png)
 
