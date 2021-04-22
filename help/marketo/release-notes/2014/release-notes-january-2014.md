@@ -2,18 +2,18 @@
 unique-page-id: 2951050
 description: 发行说明 — 2014年1月 — Marketo Docs — 产品文档
 title: 发行说明 — 2014年1月
+exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # 发行说明：2014年1月{#release-notes-january}
 
-2014年1月版包含以下功能。 请检查您的[Marketo Edition](https://www.marketo.com/pricing/)以了解功能可用性。
+2014年1月版包含以下功能。 请检查您的[Marketo版](https://www.marketo.com/pricing/)以了解功能可用性。
 
 ## Forms 2.0 {#forms}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 **在您自己的登陆页上轻松嵌入Forms:**
 
-从放置在Marketo登陆页上的表单中提升html代码并将其放入iFrame的日子已一去不复返。 只需抓取嵌入代码并将其放置在您希望表单呈现的位置登陆页上。 正常模式和lightbox模式为您提供了更多在网站上使用Marketo表单的灵活性。
+从放置在Marketo登陆页上的表单中提升html代码并将其放入iFrame的日子已经一去不复返了。 只需抓取嵌入代码并将其放置在您希望表单呈现的位置登陆页上。 “普通”和“缩览图”两种模式可让您在网站上更灵活地使用Marketo表单。
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
