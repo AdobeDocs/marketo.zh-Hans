@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2949220
-description: SEO —— 向页面问题添加注释- Marketo Docs —— 产品文档
-title: SEO —— 向页面问题添加注释
+description: SEO — 向页面问题添加注释 — Marketo Docs — 产品文档
+title: SEO — 向页面问题添加注释
+exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-
-# SEO —— 向页面问题添加注释{#seo-add-notes-to-page-issues}
+# SEO — 向页面问题添加注释{#seo-add-notes-to-page-issues}
 
 您是否知道可以将注释作为个人提醒或团队消息添加到页面问题？
 
-## 在“页面期刊”部分{#adding-notes-in-page-issues-section}中添加备注
+## 在“页面问题”部分{#adding-notes-in-page-issues-section}中添加备注
 
 1. 转到“页面”部分。
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. 在“页面”选项卡上，单击“问题”**。**
+1. 在“页面”选项卡上，单击&#x200B;**问题**。
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. 将指针悬停在要添加备注的问题上。 单击&#x200B;**添加附注**。
+1. 将指针悬停在要添加备注的问题上。 单击&#x200B;**添加便签**。
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 >
 >单击左上角的小&#x200B;**x**&#x200B;可删除注释。
 
-## 在页面详细信息向下钻取{#add-notes-in-page-detail-drill-down}中添加注释
+## 在页面详细信息下钻{#add-notes-in-page-detail-drill-down}中添加注释
 
 1. 转到“页面”部分。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. 将指针悬停在要添加备注的页面问题上并单击&#x200B;**添加备注**。
+1. 将鼠标悬停在要添加注释的页面问题上并单击&#x200B;**添加注释**。
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
