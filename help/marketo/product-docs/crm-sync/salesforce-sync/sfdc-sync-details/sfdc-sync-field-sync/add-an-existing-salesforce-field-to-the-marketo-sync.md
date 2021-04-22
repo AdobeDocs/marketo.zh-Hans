@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4719308
-description: 将现有Salesforce字段添加到Marketo Sync - Marketo Docs —— 产品文档
-title: 将现有Salesforce字段添加到Marketo同步
+description: 向Marketo同步 — Marketo文档 — 产品文档中添加现有Salesforce字段
+title: 向Marketo同步添加现有Salesforce字段
+exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
 # 向Marketo同步{#add-an-existing-salesforce-field-to-the-marketo-sync}添加现有Salesforce字段
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
-通常，Salesforce中的新自定义字段会自动同步到Marketo。 否则，Marketo Sync用户可能无法看到这些字段。 这是你如何解决的。
+通常，Salesforce中的新自定义字段会自动同步到Marketo。 否则，Marketo Sync用户可能看不到这些字段。 您可以通过以下方式来解决此问题。
 
 1. 单击您的姓名，然后选择&#x200B;**Setup**。
 
@@ -43,8 +43,8 @@ ht-degree: 0%
 
    ![](assets/image2015-6-30-14-3a24-3a49.png)
 
-   真贴心！ 在下一个同步周期中，Marketo将看到该字段，并开始魔术。
+   真贴心！ 在下一个同步周期中，Marketo将看到该字段并开始该魔术。
 
    >[!NOTE]
    >
-   > 如果字段在Salesforce中已有值，则直到下一个记录更新，这些值才会同步到Marketo。
+   > 如果字段在Salesforce中已有值，则直到下次更新记录时，这些值才会同步到Marketo。
