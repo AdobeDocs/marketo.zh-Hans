@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147251
-description: 在项目计划视图- Marketo Docs —— 产品文档中创建自定义叠加
+description: 在项目计划视图中创建自定义叠加 — Marketo文档 — 产品文档
 title: 在项目计划视图中创建自定义叠加
+exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
 # 在项目计划视图{#creating-custom-overlays-in-program-schedule-view}中创建自定义叠加
 
-您可以创建自定义叠加以视图与您的需求相关的条目。
+您可以创建与您的需求相关的视图条目的自定义叠加。
 
-1. 单击&#x200B;**Agenda**&#x200B;下拉框。
+1. 单击&#x200B;**议程**&#x200B;下拉列表。
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
