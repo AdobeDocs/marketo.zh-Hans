@@ -1,15 +1,15 @@
 ---
 unique-page-id: 15695939
-description: 发行说明 — ’18年秋季 — Marketo Docs — 产品文档
+description: 发行说明 — ’18年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 1918年秋季
+exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
 
 ---
-
 
 # 发行说明：’18年秋{#release-notes-fall}
 
@@ -30,7 +30,7 @@ Web个性化现在支持多个工作区。
 * **扩展支持：Microsoft Office**
 
    * Outlook作为投放渠道:营销人员现在可以利用Outlook进行电子邮件互动，从而提高投放率和响应跟踪。
-   * Office 365电子邮件支持改进：Marketo Sales Engage可直接在Outlook for Mac、Outlook for Windows和Outlook Web 应用程序 for Office 365电子邮件客户端中找到，从而使Marketo Sales Engage更容易提供给所有Office用户。
+   * Office 365电子邮件支持改进：Marketo Sales Engage可直接在Outlook for Mac、Outlook for Windows和Outlook for Office 365电子邮件客户端中提供，使Marketo Sales Engage更容易提供给所有Office用户。
 
 * **改进了管理员和用户登录体验**
 
@@ -74,7 +74,7 @@ Web个性化现在支持多个工作区。
 
    * 客户现在可以使用其公司的标识提供者和凭据登录到Bizible Web应用程序，这符合企业安全要求。
 
-**[Marketo Performance Insights增强功能](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Marketo性能分析增强](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **可用性增强**
 
@@ -90,13 +90,13 @@ Web个性化现在支持多个工作区。
 
 **[刷新令牌](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-我们在重定向和LinkedIn潜在客户生成表单解决方案中实施了一个刷新令牌，它将访问时间延长到需要重新身份验证之前的一年。
+我们已在重定向和LinkedIn潜在客户生成表单解决方案中实施了一个刷新令牌，它将访问时间延长到需要重新身份验证之前的一年。
 
 ## API {#api}
 
 **潜在客户映射REST API**
 
-Marketo现在支持在潜在客户API上使用电子邮件处置字段（包括“黑名单”、“暂停营销”、“暂停电子邮件”和“相对紧急性”）。
+Marketo现在支持在潜在客户API（包括“黑名单”、“暂停营销”、“暂停电子邮件”和“相对紧急性”）上使用电子邮件处置字段。
 
 >[!NOTE]
 >
