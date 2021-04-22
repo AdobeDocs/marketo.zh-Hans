@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360185
-description: 更改密码安全设置- Marketo Docs —— 产品文档
+description: 更改密码安全设置 — Marketo Docs — 产品文档
 title: 更改密码安全设置
+exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
-
 # 更改密码安全设置{#change-your-password-security-settings}
 
-控制订阅的密码策略。 这是方法。
+控制订阅的口令策略。 下面介绍如何操作。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 1. 在&#x200B;**Admin**&#x200B;下，单击&#x200B;**登录设置**。
 
@@ -27,23 +27,23 @@ ht-degree: 0%
 
    ![](assets/passwordsettings-hand.png)
 
-1. 选择&#x200B;**模板**。 对于高级选项，单击&#x200B;**高级**&#x200B;下拉框。
+1. 选择&#x200B;**模板**。 对于高级选项，单击&#x200B;**高级**&#x200B;下拉列表。
 
    >[!NOTE]
    >
-   >模板只是预建配置。 标准是好的。 安全性最高。 “自定义”允许您自行创建。
+   >模板只是预先构建的配置。 标准是好的。 安全性最强。 “自定义”允许您自行创建。
 
    ![](assets/passwordstrength.png)
 
    >[!TIP]
    >
-   >在&#x200B;**Custom**&#x200B;中，选中复选框以指示用户在创建口令时要包括的特性。
+   >在&#x200B;**Custom**&#x200B;中，选中复选框以指示用户在创建密码时希望包括哪些特性。
 
-1. 设置&#x200B;**Expiration**。 此功能自动要求用户在一定时间后重置口令。 这还包括管理员用户。
+1. 设置&#x200B;**Expiration**。 此功能自动要求用户在一定时间后重置其密码。 这还包括管理员用户。
 
    >[!CAUTION]
    >
-   >现有用户将不会收到更改通知。 将&#x200B;**Expiration**&#x200B;设置为30天，以确保每个人都已更新到新设置，然后将其更改回原始节奏。
+   >现有用户将不会收到更改通知。 先将&#x200B;**Expiration**&#x200B;设置为30天，以确保每个人都已更新到新设置，然后将其更改回原始节奏。
 
    ![](assets/expiration.png)
 
@@ -51,4 +51,4 @@ ht-degree: 0%
 
    ![](assets/inactivesession.png)
 
-   安全性是严肃的业务。 我们支持你。
+   安全是严肃的事。 我们支持你。
