@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147296
-description: 在营销日历- Marketo Docs —— 产品文档中保存过滤器定义
+description: 在营销日历 — Marketo Docs — 产品文档中保存过滤器定义
 title: 在营销日历中保存筛选器定义
+exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
+# 在营销日历{#saving-a-filter-definition-in-the-marketing-calendar}中保存过滤器定义
 
-# 在营销日历{#saving-a-filter-definition-in-the-marketing-calendar}中保存筛选器定义
-
-保存过滤器允许您在不同的过滤器定义之间来回切换。
+保存过滤器可让您在不同的过滤器定义之间来回切换。
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
-   滚开！ 现在已保存过滤器。
+   滚！ 现在会保存过滤器。
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
