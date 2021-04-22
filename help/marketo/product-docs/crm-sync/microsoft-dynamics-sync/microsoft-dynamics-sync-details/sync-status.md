@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10097584
-description: 同步状态- Marketo Docs —— 产品文档
+description: 同步状态 — Marketo Docs — 产品文档
 title: 同步状态
+exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-
 # 同步状态{#sync-status}
 
-您可以在“同步状态”和“同步错误”选项卡上，对同步进程的当前吞吐量和积压情况进行选项卡。
+您可以在“同步状态”和“同步错误”选项卡上，对同步进程的当前吞吐量和积压情况进行制表。
 
 ## 同步状态选项卡{#sync-status-tab}
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    此表显示每个对象尚未同步的插入和更新的积压。
 
-1. 多次-单击任何行以视图业务机会信息。
+1. 多次单击任意行可视图业务机会信息。
 
    ![](assets/image2016-5-19-10-3a3-3a21.png)
 
-   同步状态详细信息按插入和更新以及最旧的插入和更新记录进行细分。
+   同步状态详细信息按插入和更新以及最旧的插入和更新记录细分。
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
-   现在显示最近整小时内同步的记录数（例如，下午1:00至2:00）。
+   现在，显示的是最近整小时内同步的记录数（例如，下午1时至2时）。
 
    ![](assets/image2016-5-19-10-3a22-3a15.png)
 
