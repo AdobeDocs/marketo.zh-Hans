@@ -1,35 +1,35 @@
 ---
 unique-page-id: 2952402
-description: 在人员的活动日志中筛选活动类型- Marketo Docs —— 产品文档
+description: 过滤人员活动日志中的活动类型 — Marketo Docs — 产品文档
 title: 在人员的活动日志中筛选活动类型
+exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
+# 在人员{#filter-activity-types-in-the-activity-log-of-a-person}的活动日志中筛选活动类型
 
-# 筛选人{#filter-activity-types-in-the-activity-log-of-a-person}的活动日志中的活动类型
-
-在活动日志中搜索最重要的活动。
+在活动日志中搜索对您最重要的活动。
 
 >[!NOTE]
 >
->进一步了解[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)。
+>了解有关[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)的更多信息。
 
-1. 转至&#x200B;**人员详细信息**&#x200B;页面。 单击&#x200B;**活动日志**&#x200B;选项卡。
+1. 转到&#x200B;**人员详细信息**&#x200B;页面。 单击&#x200B;**活动日志**&#x200B;选项卡。
 
    ![](assets/one.png)
 
-1. 选择&#x200B;**筛选器**&#x200B;下拉列表。
+1. 选择&#x200B;**Filter**&#x200B;下拉列表。
 
    ![](assets/two-3.png)
 
 ## 创建自定义过滤器{#creating-custom-filters}
 
-1. 单击&#x200B;**筛选器**&#x200B;下拉列表。 选择&#x200B;**自定义**。
+1. 单击&#x200B;**Filter**&#x200B;下拉列表。 选择&#x200B;**自定义**。
 
    ![](assets/three-3.png)
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-## 引用已保存的过滤器{#reference-saved-filters}
+## 引用保存的过滤器{#reference-saved-filters}
 
-保存的过滤器可以从&#x200B;**筛选器**&#x200B;下拉列表中访问。
+保存的过滤器可从&#x200B;**Filter**&#x200B;下拉列表访问。
 
 1. 单击&#x200B;**过滤器**&#x200B;下拉列表。 选择&#x200B;**自定义**。
 
    ![](assets/seven-1.png)
 
-1. 单击&#x200B;**已保存的过滤器**。 保存的过滤器列在下面。
+1. 单击&#x200B;**保存的过滤器**。 保存的过滤器列在下面。
 
    ![](assets/eight.png)
