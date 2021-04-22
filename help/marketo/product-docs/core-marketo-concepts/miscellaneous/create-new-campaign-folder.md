@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953207
-description: 创建新营销活动文件夹- Marketo Docs —— 产品文档
+description: 创建新营销活动文件夹 — Marketo Docs — 产品文档
 title: 创建新营销活动文件夹
+exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
 translation-type: tm+mt
-source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-
 # 新建营销活动文件夹{#create-new-campaign-folder}
 
-活动文件夹可帮助您保持整洁的工作区。 按照这些简单的步骤操作，您即将实现自动化魔术。
+活动文件夹可帮助您保持整洁的工作区。 按照这些简单的步骤操作，即可实现自动化魔术。
 
-1. 转到&#x200B;**营销活动**。
+1. 转至&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. 可选：输入&#x200B;**说明**&#x200B;并单击&#x200B;**创建**。
+1. 可选：输入&#x200B;**Description**，然后单击&#x200B;**创建**。
 
    >[!TIP]
    >
-   >描述适用于订阅上的其他用户。 您的客户将看不到此消息。
+   >说明适用于订阅中的其他用户。 您的客户将看不到此消息。
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
