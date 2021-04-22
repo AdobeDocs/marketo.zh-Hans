@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950660
-description: 创建自定义标记- Marketo Docs —— 产品文档
+description: 创建自定义标记 — Marketo Docs — 产品文档
 title: 创建自定义标记
+exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # 创建自定义标记{#create-custom-tags}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理员权限**
+>**需要管理权限**
 
 ## 创建新标记类型{#create-a-new-tag-type}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-14-3a41-3a18.png)
 
-1. 单击&#x200B;**新建**&#x200B;并选择&#x200B;**新建标记类型。**
+1. 单击&#x200B;**新建**，然后选择&#x200B;**新建标记类型。**
 
    ![](assets/image2015-4-23-14-3a42-3a45.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >选择“所有项目都需要&#x200B;**”，以在任何新项目创建时添加此标记。**
+   >选择&#x200B;**所有项目**&#x200B;均为“必需”，以在创建新项目时添加此标记。
 
 1. 单击&#x200B;**创建**&#x200B;以保存。
 
