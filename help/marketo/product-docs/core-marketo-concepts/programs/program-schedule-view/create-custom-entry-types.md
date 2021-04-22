@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147245
-description: 创建自定义条目类型- Marketo Docs —— 产品文档
+description: 创建自定义条目类型 — Marketo Docs — 产品文档
 title: 创建自定义条目类型
+exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-
 # 创建自定义条目类型{#create-custom-entry-types}
 
-您可以创建要在项目计划视图中使用的自定义条目类型。 这将允许您跟踪影响您项目的所有非营销人员议程项目。
+您可以创建要在项目计划视图中使用的自定义条目类型。 这将允许您跟踪影响您的项目的所有非Marketo议程项目。
 
-1. 转到&#x200B;**Admin**&#x200B;部分，然后单击&#x200B;**标记**。
+1. 转至&#x200B;**Admin**&#x200B;部分，然后单击&#x200B;**标记**。
 
    ![](assets/admintags.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a4-3a14.png)
 
-太好了！ 现在，在计划视图中创建新条目时，此类型将成为一个选项。
+太棒了！ 现在，当您在计划视图中创建新条目时，此类型将是一个选项。
 
 >[!NOTE]
 >
