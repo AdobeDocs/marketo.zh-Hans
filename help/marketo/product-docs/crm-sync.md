@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2953432
-description: CRM同步- Marketo Docs —— 产品文档
+description: CRM同步 — Marketo Docs — 产品文档
 title: CRM同步
 translation-type: tm+mt
 source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
