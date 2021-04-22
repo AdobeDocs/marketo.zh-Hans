@@ -2,14 +2,14 @@
 unique-page-id: 1146995
 description: 在流程步骤中使用令牌 — Marketo Docs — 产品文档
 title: 在流步骤中使用令牌
+exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
 
 ---
-
 
 # 在流步骤{#use-tokens-in-flow-steps}中使用令牌
 
