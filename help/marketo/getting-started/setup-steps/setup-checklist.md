@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949471
-description: 设置核对清单——营销文档——产品文档
+description: 设置核对清单 — Marketo Docs — 产品文档
 title: 设置核对清单
+exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 translation-type: tm+mt
-source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-
 # 安装清单{#setup-checklist}
 
-马克托欢迎你！ 您可以随意使用下面的清单作为可视的待办列表，开始工作。 详细信息可在[设置步骤](/help/marketo/getting-started/setup-steps.md)中找到。
+Marketo欢迎你！ 您可以随意使用以下清单作为直观的待办列表，开始工作。 详细信息可在[设置步骤](/help/marketo/getting-started/setup-steps.md)中找到。
 
-## 登录到Marketo并创建其他用户{#log-in-to-marketo-and-create-additional-users}
+## 登录Marketo并创建其他用户{#log-in-to-marketo-and-create-additional-users}
 
-1. 登录到Marketo
+1. 登录Marketo
 1. 创建其他用户
 
 ## 设置授权支持联系人{#set-up-an-authorized-support-contact}
@@ -32,10 +32,10 @@ ht-degree: 0%
 
 1. 为品牌跟踪链接选择电子邮件CNAME
 1. 要求IT为您的电子邮件CNAME设置DNS记录
-1. 要求IT部门允许列表Marketo
-1. 在管理区域中设置DKIM和SPF
+1. 要求IT人员允许列表Marketo
+1. 在“管理”区域设置DKIM和SPF
 1. 为`[FromDomain1]`设置MX
-1. 完成电子邮件CNAME的操作后，在Marketo中设置您的电子邮件CNAME
+1. 使用电子邮件CNAME完成后，在Marketo中设置您的电子邮件CNAME
 
 ## 提交登陆页和电子邮件模板的URL {#submit-a-url-for-landing-page-and-email-templates}
 
