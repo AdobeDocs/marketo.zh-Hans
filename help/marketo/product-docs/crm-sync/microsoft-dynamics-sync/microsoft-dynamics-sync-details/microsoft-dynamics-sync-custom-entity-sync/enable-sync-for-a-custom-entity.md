@@ -4,9 +4,9 @@ description: 为自定义实体启用同步 — Marketo Docs — 产品文档
 title: 为自定义实体启用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**需要管理权限**
+
+>[!NOTE]
+>
+>为自定义实体启用同步时，Marketo会执行初始同步，以导入自定义对象的所有数据。
 
 1. 转至&#x200B;**Admin**&#x200B;部分。
 
