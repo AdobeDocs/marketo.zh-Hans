@@ -4,9 +4,9 @@ description: 数据库仪表板- Marketo文档 — 产品文档
 title: 数据库仪表板
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->每个工作区都有其自己的数据库。
+>每个工作区都有其自己的数据库仪表板。
 
 要到达此位置，您可以单击主屏幕上的&#x200B;**数据库**&#x200B;拼贴……
 
@@ -35,4 +35,6 @@ ht-degree: 0%
 >
 >想获取关于您的人员的更具体或更及时的信息？ 尝试[人员性能报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)。
 
-**总人数：** 该工作区的全职人员数。**有价人员** ：工作区的全职人员数， _减去以下_:没有电子邮件地址的人、电子邮件已硬弹回的人、被列入阻止列表的人、未订阅的人、当前被设为“暂停营销”的人。
+**总人数：** 该工作区的全职人员数。
+
+**有价人员** ：工作区的全职人员数， _减去以下_:没有电子邮件地址的人、电子邮件已硬弹回的人、被列入阻止列表的人、未订阅的人、当前被设为“暂停营销”的人。
