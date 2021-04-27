@@ -3,7 +3,7 @@ description: 发行说明 — 2021年1月 — Marketo Docs — 产品文档
 title: 发行说明 — 2021年1月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## Salesforce CRM集成{#salesforce-crm-integration}
 
-* [Salesforce CRM身份验证](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0协议可用于在Marketo Engage和Salesforce CRM之间同步操作。对于新订阅者，此选项默认处于启用状态。 当前订阅者可以联系Marketo支持部门来请求此功能。
+* [Salesforce CRM身份验证](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md):OAuth 2.0协议可用于在Marketo Engage和Salesforce CRM之间同步操作。对于新订阅者，此选项默认处于启用状态。 当前订阅者可以联系Marketo支持部门来请求此功能。
 * [Salesforce CRM同步仪表板](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md):管理员可以从仪表板快速查看Salesforce CRM同步状态。同步性能报告的时间跨度已从2小时增加到5天。
 * **元数据导出**:增强功能可支持业务机会对象属性、命名帐户、项目成员的标准字段和自定义字段。
 
