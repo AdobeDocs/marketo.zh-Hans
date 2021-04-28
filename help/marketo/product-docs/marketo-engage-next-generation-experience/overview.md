@@ -1,22 +1,22 @@
 ---
 description: 概述 — Marketo Docs — 产品文档
 title: 概述
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
 
-
 # 概述{#overview}
 
-欢迎使用下一代Marketo Engage体验，这是一个新界面，它提供增强的可用性以及跨Marketo平台的全新外观。
+欢迎使用下一代Marketo Engage体验，这是一个新界面，它提供增强的可用性以及跨Marketo平台的新外观。
 
 >[!PREREQUISITES]
 >
->如果您的IT团队使用程序限制Web访问允许列表，请要求他们添加以下域（包括星号）以允许所有Marketo资源和Web套接字：
+>如果您的IT团队使用程序限制允许列表Web访问，请要求他们添加以下域（包括星号）以允许所有Marketo资源和Web套接字：
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -41,13 +41,7 @@ ht-degree: 1%
 
 新界面具有经过改进和扩展的图示功能。 在此处了解它们：[新建图标词汇表](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)。
 
-![](assets/overview-3.png)
-
-**树**
-
-树也已升级。
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **全局导航**
 
@@ -65,7 +59,7 @@ ht-degree: 1%
 
 有许多新的树功能可用。
 
-**Marketo Classicvs. the New Marketo**
+**Marketo Classic与新Marketo**
 
 <table> 
  <tbody>
@@ -186,7 +180,7 @@ ht-degree: 1%
 <table> 
  <tbody>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>不再有超级球落体</td> 
   </tr>
   <tr>
@@ -210,7 +204,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->在“我的营销人员”中，过去生活在超级球下拉列表中的所有内容仍可用作拼贴。
+>在“我的Marketo”中，以前生活在超级球下拉列表中的所有内容仍可用作拼贴。
 
 >[!TIP]
 >
