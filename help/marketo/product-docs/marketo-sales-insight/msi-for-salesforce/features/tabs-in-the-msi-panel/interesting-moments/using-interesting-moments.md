@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951640
-description: 使用有趣的时刻 — Marketo Docs — 产品文档
+description: 使用有趣的瞬间 — Marketo Docs — 产品文档
 title: 使用有趣的瞬间
+exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
 
 ---
-
 
 # 使用有趣的时刻{#using-interesting-moments}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->这些选项仅对Marketo Sales Insight和[ Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)客户可用。
+>这些选项仅对Marketo Sales Insight和[Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)客户可用。
 
 ## 什么是有趣的时刻？{#what-is-an-interesting-moment}
 
@@ -51,13 +51,13 @@ ht-degree: 0%
 
 ## 怎么会更有趣呢？ {#how-can-this-get-even-more-interesting}
 
-令牌！ 在描述字段中添加这些字段，为您的销售团队提供更具体的信息，如潜在客户打开的电子邮件的主题行或发送者。 请查看在[有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)词汇表中可以使用哪些令牌。
+令牌！ 在描述字段中添加这些字段，为您的销售团队提供更具体的信息，如潜在客户打开的电子邮件的主题行或发送者。 请查看在[有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)词汇表中可以使用哪些令牌。
 
 >[!TIP]
 >
 >开始五个有趣的瞬间，然后与您的销售团队合作，确定他们感兴趣查看的信息。
 
-## 在Marketo，一个有趣的时刻是什么？ {#what-does-an-interesting-moment-look-like-in-marketo}
+## 在Marketo，有趣的时刻是怎样的？ {#what-does-an-interesting-moment-look-like-in-marketo}
 
 有趣的瞬间将显示在[潜在客户的活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中。
 
@@ -71,6 +71,6 @@ ht-degree: 0%
 
 ## Salesforce1中有趣的时刻是什么？{#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-安装或更新了Salesforce1的Marketo Sales Insight后，潜在客户的相关链接下方将显示有趣的时刻。
+安装或更新了Marketo Sales Insight for Salesforce1后，潜在客户的相关链接下方将显示有趣的时刻。
 
 ![](assets/seven.png)
