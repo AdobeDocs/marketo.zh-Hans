@@ -5,9 +5,9 @@ user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
+source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
 workflow-type: tm+mt
-source-wordcount: '8009'
+source-wordcount: '8024'
 ht-degree: 0%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 0%
          + [编辑“视图为网页”消息](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [启用通信限制](product-docs/administration/email-setup/enable-communication-limits.md)
          + [为智能活动启用人员限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [过滤电子邮件机器人活动](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [从“管理员 — >电子邮件”部分删除取消订阅文本](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + 字段管理{#field-management}
          + [从不受信任的源导入列表期间块字段更新](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
@@ -194,6 +195,7 @@ ht-degree: 0%
          + [由字段的数据使用的导出](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [隐藏和取消隐藏字段](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [电子邮件中的HTML编码令牌](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [将字段标记为敏感](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [重命名字段](product-docs/administration/field-management/rename-a-field.md)
          + [了解系统管理字段](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [视图字段在Marketo和Salesforce之间的映射](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -227,6 +229,7 @@ ht-degree: 0%
          + [编辑订阅设置](product-docs/administration/settings/edit-subscription-settings.md)
          + [启用或禁用金库功能](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [为您的帐户启用个性化URL（管理）](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [如何阻止垃圾邮件提交](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [基于IP限制Marketo登录](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [选择语言、区域设置和时区](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [设置回退页](product-docs/administration/settings/set-a-fallback-page.md)
@@ -805,7 +808,7 @@ ht-degree: 0%
                + [模板12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [模板12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
