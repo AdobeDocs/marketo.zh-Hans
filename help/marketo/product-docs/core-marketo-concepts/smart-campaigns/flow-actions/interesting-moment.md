@@ -4,7 +4,7 @@ description: 有趣的时刻 — Marketo Docs — 产品文档
 title: 有趣的时刻
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -33,10 +33,10 @@ ht-degree: 0%
    >
    >**少是多**。与您的销售团队合作，确保有趣的时刻真正有趣。
 
-您还可以在有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)使用[令牌来做出真正有用的动态描述。
+您还可以在有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)使用[令牌来做出真正有用的动态描述。
 
 >[!MORELIKETHIS]
 >
 >* [使用有趣的瞬间](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>* [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
