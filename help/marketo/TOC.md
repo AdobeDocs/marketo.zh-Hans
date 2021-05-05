@@ -5,9 +5,9 @@ user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
 workflow-type: tm+mt
-source-wordcount: '8006'
+source-wordcount: '8009'
 ht-degree: 0%
 
 ---
@@ -306,6 +306,7 @@ ht-degree: 0%
             + [转换人员](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [删除流步骤](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [删除人员](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
+            + [执行活动](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [给予推荐人](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [有趣的时刻](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [从流中删除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
@@ -806,7 +807,7 @@ ht-degree: 0%
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1341,7 +1342,7 @@ ht-degree: 0%
                + [电子邮件选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + 有趣的时刻{#interesting-moments}
                   + [有趣的时刻概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
-                  + [有趣时刻的令牌](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+                  + [触发有趣的瞬间的令牌](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
                   + [使用有趣的瞬间](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
          + 适用于移动设备的MSI {#msi-for-mobile}
             + [Salesforce中的最佳赌注1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
