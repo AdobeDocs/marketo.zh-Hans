@@ -47,4 +47,4 @@ ht-degree: 0%
 
    ![](assets/permissions-6.png)
 
-   现在，您的新TAM角色已准备好分配给用户](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)![
+   现在，您的新TAM角色已准备好分配给用户[](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!
