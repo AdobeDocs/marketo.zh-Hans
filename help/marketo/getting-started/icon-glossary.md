@@ -4,7 +4,7 @@ description: 图标词汇表 — Marketo Docs — 产品文档
 title: 图标词汇表
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **常规图标**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -144,7 +144,7 @@ ht-degree: 0%
 
 ## 管理员图标{#admin-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>图标</th> 
@@ -316,7 +316,7 @@ ht-degree: 0%
 
 ### 营销活动图标{#marketing-activities-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>图标</th> 
@@ -684,7 +684,7 @@ ht-degree: 0%
 
 ### Design Studio图标{#design-studio-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>图标</th> 
@@ -870,7 +870,7 @@ ht-degree: 0%
 
 ### 分析图标{#analytics-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>图标</th> 
@@ -979,7 +979,7 @@ ht-degree: 0%
 
 ### 我的令牌图标{#my-tokens-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>图标</th> 
@@ -1046,7 +1046,7 @@ ht-degree: 0%
 
 ### 活动菜单{#campaign-menus}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>图标</th> 
@@ -1120,7 +1120,7 @@ ht-degree: 0%
 
 ### 数据库图标{#database-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>图标</th> 
