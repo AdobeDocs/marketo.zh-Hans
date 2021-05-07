@@ -4,7 +4,7 @@ description: 发行说明 — ’19年8月 — Marketo Docs — 产品文档
 title: 发行说明 — ’19年8月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 * **智能活动API更新**:在我们整合CRUD（创建、读取、更新、删除）界面时，管理智能活动生命周期功能。
 * **更新电子邮件标头API更改**:更新电子邮件标题API不再要求电子邮件具有附加的模板来更新标题字段，如主题行。
 
-**基于帐户的营销** ![（星形）](assets/star-yellow.svg)
+**基于帐户的营销** ![（星形）](assets/yellow-star.png)
 
 * **linkedIn帐户匹配**（以前是测试版）现在普遍可用。
 * **AccountAI正** 在正式重新标记为“帐户 **分析”**。
@@ -36,13 +36,13 @@ ht-degree: 0%
 
 以下功能在非季度周期中发布，将在整个第三日历季度发布，并发布到2019年第4季度初。
 
-**Marketo Sales** ![ Connect(star)](assets/star-yellow.svg)
+**Marketo Sales** ![ Connect(star)](assets/yellow-star.png)
 
 * **人物页面布局增强：** 通过列表导入和新人物页面布局中的批量操作来管理您的人物和组。
 
 >[!AVAILABILITY]
 >
->由星形(![(star)](assets/star-yellow.svg))表示的特征是付费附加项。 请联系您的Marketo代表以了解更多信息。
+>由星形(![(star)](assets/yellow-star.png))表示的特征是付费附加项。 请联系您的Marketo代表以了解更多信息。
 
 >[!NOTE]
 >
