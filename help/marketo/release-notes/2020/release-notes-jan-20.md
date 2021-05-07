@@ -4,7 +4,7 @@ description: 发行说明 — 2020年1月 — Marketo Docs — 产品文档
 title: 发行说明 — 2020年1月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->由星形(![(star)](assets/star-yellow.svg))表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
+>由星形(![(star)](assets/yellow-star.png))表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
 
 **_季度发行_**
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 
 ## 基于帐户的营销{#account-based-marketing}
 
-![（星号）](assets/star-yellow.svg)
+![（星号）](assets/yellow-star.png)
 
-* **[新帐户发现(测试版](https://docs.marketo.com/x/WQA6Ag) ![)（星级）](assets/star-yellow.svg)**:使用“帐户分析”根据您的AI支持的理想目标模型发现您的ABM战略的新客户帐户。视图、选择和导入建议的新帐户及其基于人工智能的适应和意图数据指示器，它们在您的Marketo Engage潜在客户和用于反导目标的帐户数据库中尚不存在。 可立即向符合条件的帐户分析客户提供。
+* **[新帐户发现(测试版](https://docs.marketo.com/x/WQA6Ag) ![)（星级）](assets/yellow-star.png)**:使用“帐户分析”根据您的AI支持的理想目标模型发现您的ABM战略的新客户帐户。视图、选择和导入建议的新帐户及其基于人工智能的适应和意图数据指示器，它们在您的Marketo Engage潜在客户和用于反导目标的帐户数据库中尚不存在。 可立即向符合条件的帐户分析客户提供。
 
 <br> 
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## 可见{#bizible}
 
-![（星号）](assets/star-yellow.svg)
+![（星号）](assets/yellow-star.png)
 
 * **Marketo Engage潜在客户集成**:将销售和营销与统一的跨Bizible和Marketo Engage销售线索视图结合在一起。通过此更新，Marketo Engage现在可用作其他潜在客户数据源，因此您不必再等待潜在客户与CRM同步，即可报告潜在客户生成情况。
 * **Discover增强功能**:通过从客户反馈开发的增强功能，从Bizible的Discover展示板中获得更多信息，例如从拼贴和属性中向下钻取到交易记录、添加基本记录计数和相应的每成本指标，以及为多个仪表板添加/删除仪表板过滤器。登录后，您还将直接转到默认仪表板。
