@@ -2,9 +2,9 @@
 description: 执行活动- Marketo文档 — 产品文档
 title: 执行活动
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
+>将在5月11日星期二晚上为所有Marketo实例启用此功能。
+
+>[!NOTE]
+>
 >可执行活动始终是调用它们的（父级）活动的子级。
 
 ## 何时使用执行活动{#when-to-use-execute-campaign}
 
-您可以使用可执行活动执行许多操作。 它们旨在促进常见的操作任务，如潜在客户路由、生命周期管理和评分（等等），并可用于在批处理或触发活动中执行相同的工作流。
+您可以使用可执行活动执行许多操作。 它们旨在促进常见的操作任务，如潜在客户路由、生命周期管理和评分（等等），并且可用于在批处理或触发活动中执行相同的工作流。
 
 在需要运行单独的流时，您也可以使用它们，但在后续流步骤选择中，您需要依赖该流的结果（即，如果这样做）。
 
