@@ -2,14 +2,14 @@
 unique-page-id: 2360423
 description: 在收入周期模型 — Marketo Docs — 产品文档中查找所有潜在客户
 title: 在收入周期模型中查找所有潜在客户
+exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # 在收入周期模型{#find-all-leads-in-a-revenue-cycle-model}中查找所有潜在客户
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您不需要两个过滤器，只需选择所需的。 我们只是向你们展示，要彻底。 ![（微笑）](assets/smile.svg)
+   >您不需要两个过滤器，只需选择所需的。 我们只是向你们展示，要彻底。
 
    >[!CAUTION]
    >
