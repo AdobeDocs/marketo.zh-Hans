@@ -4,9 +4,9 @@ description: 发行说明 — 10月20日 — Marketo Docs — 产品文档
 title: 发行说明 — 2020年10月
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->由星(![(star)](assets/star-yellow.svg))表示的特征可以是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
+>由星形(![](assets/yellow-star.png))表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
 
 **_季_** 度版本2020年10月16日将发 **布以下功能**。
 
 ## 目标帐户管理{#target-account-management}
 
-![（星号）](assets/star-yellow.svg)
+![（星号）](assets/yellow-star.png)
 
 * **帐户智能列表（测试版）**:借助全新的客户智能列表功能，加强您的ABM战略。动态识别具有所需帐户和人员属性的帐户以运行跨渠道活动，并及时向销售人员发送警报以更快地完成交易。 注意：这仅适用于已加入[下一代用户体验](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205)的目标帐户管理客户。
 
 ## 电子邮件营销{#email-marketing}
 
-* **批量电子邮 ![件提升(星](assets/star-yellow.svg)**):以每小时高达500万个批量电子邮件的吞吐量增加发送更多电子邮件。扩展的电子邮件交付选项消除了在电子邮件批之间等待的需要 — 按时发送所有电子邮件并在您的计划上发送。
+* **批量电子邮 ![件提升(星](assets/yellow-star.png)**):以每小时高达500万个批量电子邮件的吞吐量增加发送更多电子邮件。扩展的电子邮件交付选项消除了在电子邮件批之间等待的需要 — 按时发送所有电子邮件并在您的计划上发送。
 
 ## 网站营销{#website-marketing}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## 销售分析{#sales-insight}
 
-![（星号）](assets/star-yellow.svg)
+![（星号）](assets/yellow-star.png)
 
 * **API优化和新的管理配置选项**:通过增强的API优化和添加的管理功能改善Sales Insight用户体验。配置设置使管理员能够定义如何将活动和事件加载到Sales Insight仪表板。 灵活的日历活动显示选项可减少API使用并改善整体体验。
 
