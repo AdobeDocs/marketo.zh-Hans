@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378869
-description: 创建Vibes SMS消息 — Marketo Docs — 产品文档
+description: 创建查看的SMS消息 — Marketo Docs — 产品文档
 title: 创建浏览SMS消息
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # 创建查看SMS消息{#create-a-vibes-sms-message}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能可作为您的Marketo Engage帐户的加载项提供。 要使其正确配置，必须通过Adobe购买。 有关详细信息，请与Adobe客户成功经理联系。
+>此功能可作为您的AdobeMarketo Engage帐户的加载项提供。 要使其正确配置，必须通过Adobe购买。 有关详细信息，请与Adobe客户成功经理联系。
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/full-message-link-hand.jpg)
 
-1. 选择链接类型。 默认为Marketo登陆页。 如果执行此操作，您需要从下拉菜单中选择登陆页，然后单击&#x200B;**插入**。
+1. 选择链接类型。 Marketo 登陆页为默认。 如果执行此操作，您需要从下拉菜单中选择登陆页，然后单击&#x200B;**插入**。
 
    ![](assets/insert-link-real-hands.jpg)
 
