@@ -4,7 +4,7 @@ description: 为有趣的时刻触发令牌 — Marketo Docs — 产品文档
 title: 触发有趣的瞬间的令牌
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -804,7 +804,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果它没有检查![(tick)](assets/)，那么在有趣的时刻它将返回空字符串（无）。
+>如果它没有检查![(tick)](assets/check.png)，那么在有趣的时刻它将返回空字符串（无）。
 
 *触发器&#x200B;**访问网页**&#x200B;还有一些额外的令牌：
 
