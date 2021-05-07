@@ -2,9 +2,9 @@
 description: 发行说明 — 2021年5月 — Marketo Docs — 产品文档
 title: 发行说明 — 2021年5月
 translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '1490'
+source-wordcount: '1510'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,23 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->由星形(![(star)](assets/star-yellow.svg))表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
+>由星![](assets/star.png)表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
 
 **_季度发行_**
 
 以下功能将在2021年5月7日&#x200B;**发布。**
 
+>[!NOTE]
+>
+>到5月11日星期二晚上将可以使用以下三个功能：
+
+* **帐户智能列表**
+* **执行活动流步骤**
+* **过滤电子邮件自动程序活动**
+
 ## 基于帐户的体验{#Account-based-eaperiences}
 
-* **帐户智能列表(一般可用性** )![(星型](assets/star-yellow.svg)):在跨渠道营销活动中，动态识别并确定具有所需帐户和人员属性的目标，并及时向销售人员发送警报以更快地完成交易。此新功能可实现基于帐户的营销策略的强大自动化。 “帐户智能列表”适用于具有目标帐户管理的下一代用户体验的客户。
+* **帐户智能列表（常规可用性）** ![](assets/star.png):在跨渠道营销活动中，动态识别并确定具有所需帐户和人员属性的目标，并及时向销售人员发送警报以更快地完成交易。此新功能可实现基于帐户的营销策略的强大自动化。 “帐户智能列表”适用于具有目标帐户管理的下一代用户体验的客户。
 
 ## 下一代用户体验{#next-generation-user-experience}
 
@@ -75,7 +83,7 @@ ht-degree: 0%
 
 ## 可见{#bizible}
 
-(![(star)](assets/star-yellow.svg))
+![](assets/star.png)
 
 * **与LinkedIn Lead Gen Forms（测试版）集成**:通过Bizible Premium归因解决方案深入了解LinkedIn渠道支出和ROI。通过与LinkedIn的Lead Gen Forms的最新集成，Bizible获得了对已在LinkedIn平台内提交的表单的洞察。 这些表单填充会针对您的CRM（客户关系管理）或AdobeMarketo Engage实例中的潜在客户进行匹配，以便他们有资格进行归因，并可以针对您的其他营销活动进行跟踪。
 
