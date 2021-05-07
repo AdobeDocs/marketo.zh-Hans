@@ -2,14 +2,14 @@
 unique-page-id: 11378814
 description: 帐户智能列表- Marketo Docs — 产品文档
 title: 帐户智能列表
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
 
 ---
-
 
 # 帐户智能列表{#account-smart-lists}
 
@@ -17,7 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能在开放测试版中提供，对于同时启用TAM和Marketo Next-Gen用户体验的任何人均可用。 如果您希望参加测试版，请与您的CSM联系。
+>将在5月11日星期二晚为所有符合条件的Marketo实例启用此功能。
+
+>[!NOTE]
+>
+>此功能仅适用于启用了TAM和Adobe Marketo Engage下一代用户体验的用户。
 
 ## 创建帐户智能列表{#create-an-account-smart-list}
 
@@ -101,4 +105,4 @@ ht-degree: 0%
 >
 >**定义**
 >
->**帐户智能列表的人员成员**:在本例中，“会员”一词指帐户本身，因此“人员会员”是指这些帐户中的实际人员（Marketo记录）。
+>**帐户智能列表的人员成员**:在本例中，“成员”一词指帐户本身，因此“人员成员”指这些帐户中的实际人(Marketo记录)。
