@@ -4,9 +4,9 @@ description: 为有趣的时刻触发令牌 — Marketo Docs — 产品文档
 title: 触发有趣的瞬间的令牌
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -68,10 +68,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>单击电子邮件中的链接</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>电子邮件已硬弹回</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>电子邮件弹回软</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>电子邮件已送达</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>打开电子邮件</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>已转发给朋友的电子邮件</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>已转发至朋友电子邮件</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td>
+   <td><img src="assets/check.png" alt="检查"></td>
   </tr> 
   <tr> 
    <td>取消订阅电子邮件</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>销售电子邮件中的点击链接</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已发送销售电子邮件</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>打开销售电子邮件</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>销售电子邮件退回</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>收到销售电子邮件</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>已更新业务机会</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>所有者更改</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>人员已转换</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>从SFDC删除人员</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>人员已同步到SFDC</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>从Opportunity中删除</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已从SFDC活动中删除</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>活动已记录</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>活动已更新</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>添加到Opportunity</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>添加到SFDC活动</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>销售电子邮件中的点击链接</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已发送销售电子邮件</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>打开销售电子邮件</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>销售电子邮件退回</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>收到销售电子邮件</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>添加到销售活动</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ ht-degree: 0%
   <tr>
    <td>所有者更改</td> 
    <td>已从销售活动中删除</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已收到销售电话</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>填写表单</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>访问网页</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>单击网页上的链接</td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾号）"></td> 
+   <td><img src="assets/check.png" alt="检查"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果它没有检查![(tick)](assets/check.svg)，那么在有趣的时刻它将返回空字符串（无）。
+>如果它没有检查![(tick)](assets/)，那么在有趣的时刻它将返回空字符串（无）。
 
 *触发器&#x200B;**访问网页**&#x200B;还有一些额外的令牌：
 
@@ -816,4 +816,4 @@ ht-degree: 0%
 >
 >总是测试您的有趣时刻，确保它们以您期望的方式呈现。
 >
->另外，请确保销售人员感兴趣，而不仅仅是您。 ![(wink)](assets/wink.svg)>
+>另外，请确保销售人员感兴趣，而不仅仅是您！
