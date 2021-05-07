@@ -3,16 +3,16 @@ title: Marketo产品文档
 description: Marketo产品文档
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 translation-type: tm+mt
-source-git-commit: 0d2482ca080bbc38e12de391fb2d179b43046bcf
+source-git-commit: 3f8cebecc479c5e051aa1067a5b6bd9d40521eb2
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # Marketo产品文档
 
-横幅
+![](assets/marketo-docs-banner.jpg)
 
 ## 入门
 
@@ -33,3 +33,7 @@ ht-degree: 0%
 * [了解智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
 * [Adobe Marketo Engage下一代UX体验概述](/help/marketo/product-docs/marketo-engage-next-generation-experience/overview.md)
+
+## 当前发行说明
+
+* [2021年5月](/help/marketo/release-notes/2021/release-notes-may-21.md)
