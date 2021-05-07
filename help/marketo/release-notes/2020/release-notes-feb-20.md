@@ -4,7 +4,7 @@ description: 发行说明–2020年2月 — Marketo Docs — 产品文档
 title: 发行说明 — 2020年2月
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->由星形(![(star)](assets/star-yellow.svg))表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
+>由星形(![(star)](assets/yellow-star.png))表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
 
 **_季度_** 版本2020年2月21日发布 **了以下功能**。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 可见{#bizible}
 
-![（星号）](assets/star-yellow.svg)
+![（星号）](assets/yellow-star.png)
 
 * **基于帐户的细分**:在帐户级别分析归因，能够根据帐户属性为Discover展示板创建区段和过滤器。使用这些细分细分您的基于帐户的营销效果。
 * **保存过滤器**:保存每个用户特有的仪表板特定过滤器，快速一致地分析仪表板。
