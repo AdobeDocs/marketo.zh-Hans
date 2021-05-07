@@ -4,7 +4,7 @@ description: 发行说明 — 1920年7月 — Marketo文档 — 产品文档
 title: 发行说明 — ’20年7月
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->请注意，根据您当前的包，带有星形(![(star)](assets/star-yellow.svg))的项目可能需要购买值加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>请注意，根据您当前的包，带有星形(![(star)](assets/yellow-star.png))的项目可能需要购买值加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
 **_季_** 度版本2020年7月31日将发 **布以下功能**。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 基于帐户的营销{#account-based-marketing}
 
-![（星号）](assets/star-yellow.svg)
+![（星号）](assets/yellow-star.png)
 
 * **更新了帐户概要分析的UI**:通过一个屏幕简化所有步骤，简化帐户概要分析中目标帐户列表的创建。
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 ## 销售分析{#sales-insight}
 
-![（星号）](assets/star-yellow.svg)
+![（星号）](assets/yellow-star.png)
 
 * **[为具有非本机Salesforce CRM集成（测试版）的客户启用](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) Sales Insight**:具有非本机Salesforce CRM集成的Marketo Engage客户现在可以使用Sales Insight帮助其销售团队了解、排定优先级并与参与度最高的销售线索和机会互动，从而实现智能销售并加快交易速度。
 
 ## Sales Connect {#sales-connect}
 
-![（星号）](assets/star-yellow.svg)
+![（星号）](assets/yellow-star.png)
 
 * **[增强了销售呼叫的双方同意：管](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** 理员现在对呼叫记录配置有更大的控制。[确保您](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) 遵守双方同意法，启用电话记录。自动通知正在录制的呼叫，并激活要在呼叫前播放的音频剪辑。
 
