@@ -4,9 +4,9 @@ description: Marketo术语表 — Marketo文档 — 产品文档
 title: Marketo词汇表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '4225'
+source-wordcount: '4231'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">帐户分数</a></strong></td> 
-   <td colspan="1">在<strong>ABM</strong>中，它是分配给帐户的分数，可帮助您确定其参与程度。</td> 
+   <td colspan="1">在<strong>TAM</strong>中，它是分配给帐户的分数，可帮助您确定其参与程度。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>收购日期</strong></td> 
@@ -62,6 +62,10 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>广告网络集成 </strong></a></td> 
    <td colspan="1">（以前称为Ad Bridge）将Marketo独特的受众数据连接到付费媒体系统的一种方式，使您能够运行更具针对性、个性化的数字广告活动。</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>AdobeMarketo Engage</strong></td> 
+   <td colspan="1">用于聚合Adobe Experience Cloud内所有Marketo产品的官方品牌名称。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">警报</a></strong></td> 
@@ -242,7 +246,7 @@ ht-degree: 0%
     <div> 
      <p><strong> 数据库</strong></p> 
     </div></td> 
-   <td><strong>Marketo Engage</strong>的核心部分之一。 数据库是所有<strong>person</strong>记录的所在位置。</td> 
+   <td><strong>AdobeMarketo Engage</strong>的核心部分之一。 数据库是所有<strong>person</strong>记录的所在位置。</td> 
   </tr> 
   <tr> 
    <td><strong>重复数据消除</strong></td> 
@@ -269,7 +273,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1"><strong>Marketo Engage</strong>的核心部分之一。 Design Studio是<strong>资源</strong>的主页，例如：<strong>登陆页</strong>、表单、<strong>电子邮件</strong>、<strong>片段</strong>和图像/文件。</td> 
+   <td colspan="1"><strong>AdobeMarketo Engage</strong>的核心部分之一。 Design Studio是<strong>资源</strong>的主页，例如：<strong>登陆页</strong>、表单、<strong>电子邮件</strong>、<strong>片段</strong>和图像/文件。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>文档</strong></td> 
@@ -482,7 +486,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>潜在客户</strong></td> 
-   <td>在<strong>Marketo Engage</strong>中，潜在客户是上一个术语（由<strong>person</strong>替换），用于描述您通过营销活动参与的Marketo <strong>数据库</strong>中的个人。 在您的<strong>CRM</strong>中，潜在客户可能代表与Marketo功能无关的不同概念（即与<strong>opportunity</strong>关联的个人）。</td> 
+   <td>在<strong>AdobeMarketo Engage</strong>中，潜在客户是上一个术语（替换为<strong>person</strong>），用于描述您通过营销活动参与的Marketo <strong>数据库</strong>中的个人。 在您的<strong>CRM</strong>中，潜在客户可能代表与Marketo功能无关的不同概念（即与<strong>opportunity</strong>关联的个人）。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>潜在客户数据库</strong></td> 
@@ -512,7 +516,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>营销活动</strong></td> 
-   <td><p>Marketo Engage的核心部分之一。 这是您的<strong>活动</strong>业务流程的发生地。 您的所有<strong>项目</strong>、活动和<strong>活动文件夹</strong>（及其<strong>本地资源</strong>）都位于此处。</p></td> 
+   <td><p>AdobeMarketo Engage的核心部分之一。 这是您的<strong>活动</strong>业务流程的发生地。 您的所有<strong>项目</strong>、活动和<strong>活动文件夹</strong>（及其<strong>本地资源</strong>）都位于此处。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>营销自动化</strong></a></td> 
@@ -525,10 +529,6 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>暂停营销</strong></a></td> 
    <td colspan="1">此字段由<strong>user</strong>手动设置，以使其Marketo中的某人暂时取消邮件。<strong></strong></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">用于聚合Adobe Experience Cloud内所有Marketo产品的官方品牌名称。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Lead Management(MLM)</strong></td> 
@@ -560,7 +560,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>我的Marketo</strong></td> 
-   <td colspan="1">Marketo Engage的标准部分之一。 充当您的Marketo“主页”，显示您有权访问的Marketo所有部分的拼贴。</td> 
+   <td colspan="1">AdobeMarketo Engage的标准部分之一。 充当您的Marketo“主页”，显示您有权访问的Marketo所有部分的拼贴。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>我的令牌</strong></a></td> 
