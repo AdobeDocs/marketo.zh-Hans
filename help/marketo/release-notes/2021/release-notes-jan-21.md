@@ -3,7 +3,7 @@ description: 发行说明 — 2021年1月 — Marketo Docs — 产品文档
 title: 发行说明 — 2021年1月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->由星形(![(star)](assets/star-yellow.svg))表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
+>由星形(![(star)](assets/yellow-star.png))表示的特征是付费附加项。 请联系您的Marketo Engage代表以了解更多信息。
 
 **_季度发行_**
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 销售分析{#sales-insight}
 
-![（星号）](assets/star-yellow.svg)
+![（星号）](assets/yellow-star.png)
 
 * **[增强的测试电子邮件工作流(Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**:通过增强的Sales Insight测试电子邮件工作流，提高销售团队的效率。销售者可以在向多达200位收件人发送批量电子邮件之前，将测试电子邮件发送到选定的电子邮件地址。
 * **[对电子邮件状态(Salesforce CRM)的洞察](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**:当用户尝试在发送电子邮件之前向无效的电子邮件ID或未订阅的电子邮件地址发送电子邮件时，会看到一条警告消息。 电子邮件投放状态可在Sales Insight的“电子邮件”选项卡中进行查看。
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## Sales Connect {#sales-connect}
 
-![（星号）](assets/star-yellow.svg)
+![（星号）](assets/yellow-star.png)
 
 * **电子邮件连接限制（测试版）**:使用Sales Connect的Email Connection Throttling（电子邮件连接限制）提高电子邮件的发送能力并调整您的一对一销售通信。我们的新节流技术可自动管理电子邮件发送时间，为Exchange和Gmail用户创建无缝体验。 减少或消除第三方批量电子邮件发送应用程序的使用。
 * **电子邮件连接跳出跟踪**:利用新的电子邮件跳出报表深入了解潜在客户质量和电子邮件模板性能。Exchange和Gmail用户可能会选择接收跳出通知，这些通知将汇总到“实时信息源”、“电子邮件文件夹”、“模板分析”和“活动分析”。
