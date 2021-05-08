@@ -4,7 +4,7 @@ description: 为有趣的时刻触发令牌 — Marketo Docs — 产品文档
 title: 触发有趣的瞬间的令牌
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
+source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 **电子邮件触发器**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -207,7 +207,7 @@ ht-degree: 0%
 
 **Salesforce触发器**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -536,7 +536,7 @@ ht-degree: 0%
 
 **Sales Connect触发器**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -713,7 +713,7 @@ ht-degree: 0%
 
 **杂项**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
