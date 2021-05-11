@@ -2,9 +2,9 @@
 description: 发行说明 — 2021年5月 — Marketo Docs — 产品文档
 title: 发行说明 — 2021年5月
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ ht-degree: 0%
 
 ## 公告{#announcements}
 
-* **Marketo产品文档交换平台**:我们很高兴地宣布，Marketo产品文档将于5月7日（星期五）加入Adobe Experience League。您仍可以使用URL:docs.marketo.com中，如果您有任何已添加书签的现有文章，您将被重定向。 所有当前产品文档都将在新平台上可用，并计划在今年晚些时候进行增强。
+* **Marketo产品文档交换平台**:我们很高兴地宣布，从5月7日星期五起，Marketo产品文档已加入Adobe Experience League。您仍可以使用URL:docs.marketo.com中，如果您有任何已添加书签的现有文章，您将被重定向。 所有产品文档都可在新平台上使用，并计划在今年晚些时候进行增强。
 
 * **简化的用户管理和由Adobe Identity System提供支持的单点登录**:从2021年7月起，将使用Adobe用户凭据载入新的AdobeMarketo Engage客户。直到2022年年中，才会将当前客户迁移到集成标识系统，在进一步通知之前，不需要客户采取任何行动。 单点登录使IT/安全管理员能够管理多个AdobeMarketo Engage产品实例以及其他Experience Cloud解决方案，并通过通用控制台配置SSO（Shared Services组织）。 管理员可以通过一个通用Admin Console方便地管理用户组和用户权利。
+
+**_产品发布网络研讨会_**
+
+想了解有关这些功能和增强功能的更多信息吗？ 请务必[立即注册](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)，于5月13日上午9:00 PT/下午12:00加入我们，与我们的产品团队一起参加实时网络研讨会，以更深入地了解这些创新。
