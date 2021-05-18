@@ -1,10 +1,9 @@
 ---
 description: 发行说明 — 2021年5月 — Marketo Docs — 产品文档
 title: 发行说明 — 2021年5月
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,6 @@ ht-degree: 0%
 **_季度发行_**
 
 以下功能将在2021年5月7日&#x200B;**发布。**
-
->[!NOTE]
->
->到5月11日星期二晚上将可以使用以下三个功能：
->
->* **帐户智能列表**
->* **执行活动流步骤**
->* **过滤电子邮件自动程序活动**
-
 
 ## 基于帐户的体验{#Account-based-eaperiences}
 
@@ -82,13 +72,13 @@ ht-degree: 0%
 
 * **按潜在客户ID搜索**:通过潜在客户Marketo Engage库或静态列表中的Adobe潜在客户ID快速访问潜在客户记录搜索。在“快速查找”窗口中，只需键入具有相应编号的`[id]`，即会显示潜在客户信息。 用户可以快速查看潜在客户、公司或机会详细信息。
 
-## 可见{#bizible}
+## 比齐布尔 {#bizible}
 
 ![](assets/yellow-star.png)
 
 * **与LinkedIn Lead Gen Forms（测试版）集成**:通过Bizible Premium归因解决方案深入了解LinkedIn渠道支出和ROI。通过与LinkedIn的Lead Gen Forms的最新集成，Bizible获得了对已在LinkedIn平台内提交的表单的洞察。 这些表单填充会针对您的CRM（客户关系管理）或AdobeMarketo Engage实例中的潜在客户进行匹配，以便他们有资格进行归因，并可以针对您的其他营销活动进行跟踪。
 
-## 公告{#announcements}
+## 公告 {#announcements}
 
 * **Marketo产品文档交换平台**:我们很高兴地宣布，从5月7日星期五起，Marketo产品文档已加入Adobe Experience League。您仍可以使用URL:docs.marketo.com中，如果您有任何已添加书签的现有文章，您将被重定向。 所有产品文档都可在新平台上使用，并计划在今年晚些时候进行增强。
 
