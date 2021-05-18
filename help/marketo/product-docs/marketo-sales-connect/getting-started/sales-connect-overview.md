@@ -1,19 +1,18 @@
 ---
 unique-page-id: 13796464
-description: Sales Connect概述- Marketo Docs —— 产品文档
-title: 销售连接概述
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Sales Connect概述 — Marketo Docs — 产品文档
+title: Sales Connect概述
+exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
+source-git-commit: b52765f3549615aa68789dfbd8376044bcd02b3f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
+# Sales Connect概述{#sales-connect-overview}
 
-# 销售连接概述{#sales-connect-overview}
-
-Marketo Sales Connect是一款具有多种功能的全方位销售支持解决方案，可帮助您在整个销售周期中提高参与度。
+Marketo Sales Connect是一个具有多种功能的全方位销售支持解决方案，可帮助您在整个销售周期中推动参与。
 
 >[!AVAILABILITY]
 >
@@ -31,7 +30,7 @@ Marketo Sales Connect是一款具有多种功能的全方位销售支持解决�
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## 查看营销活动日志{#see-results-in-your-marketo-activity-log}中的结果
+## 查看Marketo活动日志{#see-results-in-your-marketo-activity-log}中的结果
 
 了解潜在客户如何与您的销售工作互动。
 
@@ -49,11 +48,11 @@ Marketo Sales Connect是一款具有多种功能的全方位销售支持解决�
   </tr> 
   <tr> 
    <td><p>打开销售电子邮件</p></td> 
-   <td><p>Lead打开了从MSE发送的销售电子邮件。</p></td> 
+   <td><p>潜在客户已打开从MSE发送的销售电子邮件。</p></td> 
   </tr> 
   <tr> 
    <td><p>单击销售电子邮件</p></td> 
-   <td><p>Lead单击了MSE发送的销售电子邮件中的链接。</p></td> 
+   <td><p>潜在客户单击了从MSE发送的销售电子邮件中的链接。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>接收销售电子邮件</p></td> 
@@ -61,7 +60,7 @@ Marketo Sales Connect是一款具有多种功能的全方位销售支持解决�
   </tr> 
   <tr> 
    <td colspan="1"><p>接收销售电话</p></td> 
-   <td colspan="1"><p>销售主管使用<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">销售电话</a>接到销售人员的电话。</p></td> 
+   <td colspan="1"><p>销售人员使用<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">销售电话</a>接到销售人员的电话。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>添加到销售活动</p></td> 
@@ -73,19 +72,19 @@ Marketo Sales Connect是一款具有多种功能的全方位销售支持解决�
   </tr> 
   <tr> 
    <td colspan="1"><p>有趣的时刻</p></td> 
-   <td colspan="1"><p>Lead在Marketo中产生了一个有趣的时刻。</p></td> 
+   <td colspan="1"><p>Lead在Marketo产生了一个有趣的时刻。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## 共享营销活动{#share-marketing-campaigns}
 
-创建一个简单的智能活动，让销售用户能够访问[营销活动数据](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)。
+创建一个简单的智能活动，让您的销售用户能够访问[Marketo活动数据](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)。
 
 ![](assets/campaign-is-requested.jpg)
 
-准备开始？ 有关设置说明，请单击下面的链接。
+准备好开始了吗？ 有关设置说明，请单击下面的链接。
 
 >[!MORELIKETHIS]
+[设置销售连接](/help/marketo/product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)>
 >
->[销售连接入门](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
