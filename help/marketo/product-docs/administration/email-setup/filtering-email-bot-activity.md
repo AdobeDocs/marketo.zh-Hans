@@ -1,10 +1,9 @@
 ---
 description: 过滤电子邮件活动- Marketo文档 — 产品文档
 title: 过滤电子邮件机器人活动
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 0%
 # 过滤电子邮件活动{#filtering-email-bot-activity}
 
 有时，电子邮件程序活动会错误地夸大电子邮件的打开次数和点击数据。 下面介绍如何解决这个问题。
-
->[!NOTE]
->
->将在5月11日星期二晚上为所有Marketo实例启用此功能。
 
 >[!NOTE]
 >
