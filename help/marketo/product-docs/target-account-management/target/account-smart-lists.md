@@ -3,10 +3,9 @@ unique-page-id: 11378814
 description: 帐户智能列表- Marketo Docs — 产品文档
 title: 帐户智能列表
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -14,10 +13,6 @@ ht-degree: 0%
 # 帐户智能列表{#account-smart-lists}
 
 下面介绍如何快速准确地识别您的高价值客户。
-
->[!NOTE]
->
->将在5月11日星期二晚为所有符合条件的Marketo实例启用此功能。
 
 >[!NOTE]
 >
