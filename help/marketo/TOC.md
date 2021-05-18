@@ -3,16 +3,15 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8038'
 ht-degree: 0%
 
 ---
 
 
-# Marketo指南{#using}
+# Marketo指南 {#using}
 
 + [主页](home.md)
 + Marketo {#getting-started-with-marketo}入门
@@ -38,7 +37,7 @@ ht-degree: 0%
       + [重定向登陆页](getting-started/quick-wins/redirect-a-landing-page.md)
       + [自动警报可能的重复](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + 继承Marketo实例{#inheriting-a-marketo-instance}
-      + [救命！我已继承现有Marketo实例](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [帮助! 我继承了现有的Marketo实例](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [要签出的项目](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [要评论的事项：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [获取帮助的方式](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -807,9 +806,9 @@ ht-degree: 0%
                + [模板12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [模板12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1050,7 +1049,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + 入门{#getting-started}
          + [Sales Connect概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Sales Connect入门](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [访问新的Sales Connect实例](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
+         + [设置销售连接](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
          + [我的用户档案页](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [快速开始视频和Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [更改您的Sales Connect密码](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
@@ -1203,7 +1203,7 @@ ht-degree: 0%
          + [内容和文件附件常见问题解答](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect是否有iPhone或Android应用程序？](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [如何在我允许列表的服务器上Sales Connect?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [我被锁在账户外。我该怎么办？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [我被锁在账户外。 我该怎么办？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect是否与Salesforce Lightning兼容？](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [什么是最新客户端版本？](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Sales Connect的服务条款是什么？](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
@@ -1214,6 +1214,8 @@ ht-degree: 0%
       + 集成{#integrations}
          + [如何将电子邮件记录到其他CRM。](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
+         + [手动设置Marketo连接](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [授予用户访问权限](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [MSC中的有趣时刻](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [使活动对Sales Connect用户可见](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + 人员{#people}
