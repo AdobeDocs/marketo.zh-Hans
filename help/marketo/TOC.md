@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '8038'
+source-wordcount: '8037'
 ht-degree: 0%
 
 ---
@@ -1214,7 +1214,7 @@ ht-degree: 0%
       + 集成{#integrations}
          + [如何将电子邮件记录到其他CRM。](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
-         + [手动设置Marketo连接](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [设置Marketo连接](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [授予用户访问权限](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [MSC中的有趣时刻](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [使活动对Sales Connect用户可见](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
