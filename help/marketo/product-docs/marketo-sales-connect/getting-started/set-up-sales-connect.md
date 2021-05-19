@@ -1,9 +1,9 @@
 ---
 description: 设置Sales Connect - Marketo Docs — 产品文档
 title: 设置销售连接
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,13 @@ ht-degree: 0%
 
 此文档将指导您完成设置新Sales Connect实例的初始步骤。 其中一些步骤需要以Marketo管理员、Salesforce管理员和Sales Connect管理员身份访问。 请按照以下指南完成实例设置。
 
+>[!NOTE]
+>
+>**需要管理权限。**
+
 ## 访问您的新Marketo Sales Connect帐户{#accessing-your-new-marketo-sales-connect-account}
 
-如果您已购买Marketo Sales Connect，则将从Marketo的管理员部分设置对您的实例的访问权限。 单击此处查看有关Marketo管理员如何设置对新实例的访问权限的说明。
+如果您已购买Marketo Sales Connect，则将从Marketo的管理员部分设置对您的实例的访问权限。 [单](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) 击此处查看有关Marketo管理员如何设置对新实例的访问权限的说明。
 
 ![](assets/set-up-sales-connect-1.png)
 
