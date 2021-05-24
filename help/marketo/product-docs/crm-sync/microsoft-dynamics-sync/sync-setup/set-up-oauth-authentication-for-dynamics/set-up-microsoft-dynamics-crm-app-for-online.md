@@ -2,16 +2,16 @@
 description: 设置Microsoft Dynamics CRM在线应用程序 — Marketo文档 — 产品文档
 title: 设置Microsoft Dynamics CRM联机应用程序
 exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
-source-git-commit: 577444d0fc23a436494e8314dd24a59434476a99
+source-git-commit: 4283f1b6936316f3053543e06e7eaee45a7f2436
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
 # 设置Microsoft Dynamics CRM联机应用程序{#set-up-microsoft-dynamics-crm-app-for-online}
 
-## 设置Microsoft Dynamics CRM联机应用程序{#set-up-microsoft-dynamics-crm-app-for-online}
+## 设置{#set-up}
 
 1. 导航到https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration 。
 
