@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 394ababd11b39abc23f7761f3c91f03ca3778435
+source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
 workflow-type: tm+mt
-source-wordcount: '8030'
+source-wordcount: '8028'
 ht-degree: 0%
 
 ---
@@ -1044,7 +1044,6 @@ ht-degree: 0%
    + Marketo Engage下一代体验{#marketo-engage-next-generation-experience}
       + [概述](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [新图标术语表](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
-      + [移动资产](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
       + [使用全局搜索](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 入门{#getting-started}
