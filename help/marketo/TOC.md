@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: bff000b6e65b3cd92db1e90aa3a7b594cf0dd6a5
+source-git-commit: bcb477061434bbd8f80bde108ba1a13e7764113a
 workflow-type: tm+mt
-source-wordcount: '8033'
+source-wordcount: '8031'
 ht-degree: 0%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 0%
             + [使用GotoWebinar创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [创建具有第3级Web会议的事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [使用ReadyTalk创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-            + 使用Marketo ON24适配器创建事件(#create-an-event-with-the-marketo-on24-adapter)
+            + 使用Marketo ON24适配器{#create-an-event-with-the-marketo-on24-adapter}创建事件
                + [使用Marketo ON24适配器创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [配置事件设置并将Marketo与网络研讨会同步](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [在Marketo中创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
