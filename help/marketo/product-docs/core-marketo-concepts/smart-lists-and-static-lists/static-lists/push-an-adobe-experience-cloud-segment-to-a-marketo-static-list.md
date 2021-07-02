@@ -2,9 +2,9 @@
 description: 将Adobe Experience Cloud区段推送到Marketo静态列表 — Marketo文档 — 产品文档
 title: 将Adobe Experience Cloud区段推送到Marketo静态列表
 hidefromtoc: true
-source-git-commit: f437495fbe004177f01c57729d97d2fec1f79509
+source-git-commit: 48ae62b56cf44f9e7874ed9134325e77c08bcaaf
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -79,12 +79,19 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-12.png)
 
-1. 选择包含标识用户的电子邮件地址的相关字段。 完成后，单击&#x200B;**选择**。
+1. 选择&#x200B;**选择属性**&#x200B;或&#x200B;**选择身份命名空间**&#x200B;单选按钮（在本例中，我们选择属性）。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-13.png)
 
+   >[!NOTE]
+   >
+   >如果选择了&#x200B;**选择身份命名空间**，则在进行选择后，跳到步骤15。
+
+1. 选择包含标识用户的电子邮件地址的相关字段。 完成后，单击&#x200B;**选择**。
+
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
 
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
 
    >[!NOTE]
    >
@@ -92,19 +99,19 @@ ht-degree: 0%
 
 1. 单击映射图标。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
 
 1. 选择目标字段，然后单击&#x200B;**选择**。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
 
 1. 单击&#x200B;**Next**。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
 
 1. _在Marketo_&#x200B;中，创建一个静态列表，或查找并选择一个已创建的列表。复制URL末尾的映射ID。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -112,8 +119,8 @@ ht-degree: 0%
 
 1. 返回Adobe Experience Platform，输入您刚才复制的ID。 选择开始日期。 在选定的结束日期之前，用户将持续同步。 对于无限同步，请将结束日期留空。 完成后，单击&#x200B;**Next**。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
 
 1. 确认更改并单击&#x200B;**完成**。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-21.png)
