@@ -1,7 +1,7 @@
 ---
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
 workflow-type: tm+mt
 source-wordcount: '1064'
 ht-degree: 0%
@@ -76,7 +76,7 @@ ht-degree: 0%
 * **新的同类群组瀑布图历程功能板**:这将使营销人员能够通过经典的“需求瀑布”阶段集来查看选定同类群组的进展，从而逐个快速了解转化率和隐含的阶段转化因果关系。
 
 ## Bizible与Adobe Experience Cloud集成 {#bizible-integration-with-adobe-experience-cloud}
- 
+
 此部分包含已完成其AdobeIdentity Management系统(IMS)迁移的Bizible用户的新功能。 如果您已迁移，您将在Adobe ID选项卡下的Bizible设置中看到新的Adobe ID。 到2021年底，所有帐户都将迁移。
 
 * **Bizible与AdobePrivacy Service集成**:Bizible与AdobePrivacy Service的集成可跨Adobe Experience Cloud应用程序集中遵守关键数据隐私法规（如GDPR）。您现在可以利用此服务并集中管理所有隐私请求，以便跨应用程序反映进入Bizible和其他Adobe产品的更改请求。
