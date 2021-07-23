@@ -1,9 +1,9 @@
 ---
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,9 @@ ht-degree: 0%
 
 ## Bizible与Adobe Experience Cloud集成 {#bizible-integration-with-adobe-experience-cloud}
 
-此部分包含已完成其AdobeIdentity Management系统(IMS)迁移的Bizible用户的新功能。 如果您已迁移，您将在Adobe ID选项卡下的Bizible设置中看到新的Adobe ID。 到2021年底，所有帐户都将迁移。
+此部分包含已完成其AdobeIdentity Management系统(IMS)迁移的Bizible用户的新功能。 如果您已迁移，您将在Adobe ID选项卡下的Bizible设置中看到新的Adobe ID。 所有帐户应在2021年底之前迁移。
 
-* **Bizible与AdobePrivacy Service集成**:Bizible与AdobePrivacy Service的集成可跨Adobe Experience Cloud应用程序集中遵守关键数据隐私法规（如GDPR）。您现在可以利用此服务并集中管理所有隐私请求，以便跨应用程序反映进入Bizible和其他Adobe产品的更改请求。
+* **Bizible与AdobePrivacy Service集成** （2021年9月提供）：Bizible与AdobePrivacy Service的集成可跨Adobe Experience Cloud应用程序集中遵守关键数据隐私法规（如GDPR）。您现在可以利用此服务并集中管理所有隐私请求，以便跨应用程序反映进入Bizible和其他Adobe产品的更改请求。
 
 * **Adobe统一Shell上的Bizible**:Bizible采用Adobe统一Shell为用户提供了将显示在Bizible应用程序标题栏中的新功能，并包括更好地访问支持资源和应用程序切换。Adobe统一Shell有助于在Bizible和其他Adobe Experience Cloud应用程序之间创建一致的体验。
 
