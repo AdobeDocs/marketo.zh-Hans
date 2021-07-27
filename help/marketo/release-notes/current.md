@@ -1,9 +1,9 @@
 ---
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 0%
 以下功能将于2021年8月20日&#x200B;**发布。**
 
 ## Adobe Experience Platform集成 {#adobe-experience-platform-integration}
-
-* **用于将受众共享到Adobe Experience Platform的本机Marketo Engage连接器**:在Marketo Engage中为通过本机目标连接器在Adobe Experience Cloud中创建的受众区段启用多渠道活动编排。连接器使用电子邮件地址来匹配Adobe Experience Platform配置文件，以Marketo Engage潜在客户配置文件，从而在应用程序之间实现高度准确的区段共享。 静态Marketo Engage列表是自动创建的，使营销人员能够通过高度个性化的消息传递联系目标受众或启动工作流。 利用人员受众的帐户和机会上下文以及更完整、更实时的Experience Platform数据，激活受众。
 
 * **Marketo Engage通过Adobe身份进行用户身份验证**:从2021年9月起，将使用Adobe ID用户凭据载入具有企业包的新Marketo Engage用户。2022年年中之前，不会将当前用户迁移到集成身份系统，在收到进一步通知之前，也无需采取任何操作。 Adobe身份用户身份验证允许IT/安全管理员管理多个Marketo Engage产品实例以及其他Experience Cloud解决方案，并通过通用控制台配置单点登录。 管理员可以在一个位置方便地管理用户组和用户权限。
 
