@@ -1,46 +1,73 @@
 ---
 unique-page-id: 11381156
-description: 客户匹配 — Marketo Docs — 产品文档
-title: 潜在客户到帐户匹配
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: 导致帐户匹配 — Marketo文档 — 产品文档
+title: 导致帐户匹配
+exl-id: 676ae500-7691-492d-abec-0cac708216b7
+source-git-commit: 98388f1ed941b321449e6e8badac0153dc2245ba
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
 
+# 导致帐户匹配 {#lead-to-account-matching}
 
-# 帐户匹配{#lead-to-account-matching}
-
-使用Marketo Lead到帐户匹配将右潜在客户匹配到右指定帐户。
+使用Marketo“潜在客户到帐户”匹配将右侧潜在客户匹配到右侧命名帐户。
 
 >[!NOTE]
 >
->**Lead-to-Account Matchingis是Marketo** 目标 Account Management的内置功能。它采用模糊逻辑，在接近实时的情况下自动匹配出正确的指定帐户。 这些指定帐户可以是CRM帐户或Marketo公司。
+>**“客户到帐户”** Matchingis是Marketo Target帐户管理的内置功能。它使用模糊逻辑，近乎实时地自动将潜在客户匹配到正确的指定帐户。 这些指定帐户可以是CRM帐户或Marketo公司。
 
-Marketo销售线索到帐户匹配遵循4个步骤流程：
+## 概述 {#overview}
 
-**第1步 — 我** 们的匹配流程首先使用潜在客户记录中的关键信息，例如：
+Marketo客户到帐户匹配遵循4步流程：
+
+**第1步 —** 我们的匹配流程首先使用潜在客户记录上的关键信息，例如：
 
 * 电子邮件域（例如acme.com）
-* 从IP地址推断公司名
-* 公司名称 — 这可以是CRM帐户名或潜在客户公司名称属性（例如，来自表单填写）
+* 从IP地址推断出公司名称
+* 公司名称 — 这可以是CRM帐户名称或潜在客户公司名称属性（例如，来自表单填写）
 
-**第2步 — 我** 们根据各种潜在客户属性（例如，Acme Inc.和Acme Corp将自动标准化为Acme）标准化我们查找的公司名称。此步骤可确保我们在Marketo中具有指定帐户的单一表示形式，并可以查看单个指定帐户中的所有潜在客户。
+**第2步 —** 我们根据各种潜在客户属性（例如，Acme Inc.和Acme Corp会自动标准化为Acme）来标准化我们查找的公司名称。此步骤可确保我们在Marketo中具有指定帐户的单一表示形式，并且可以在单个指定帐户中查看所有潜在客户。
 
-**第3步 — 我** 们将分区匹配Lead到2个存储段：强比赛和弱比赛。
+**第3步 —** 我们将匹配的潜在客户分区为2个存储段：强比弱比。
 
-* 弱匹配的潜在客户显示在指定帐户上，然后可以手动解析这些帐户。
+* 弱匹配的潜在客户会显示在命名帐户上，然后可以手动解析该帐户。
 
-**第4步 — 我** 们给出了强匹配和弱匹配的公司。当根据某个建议的公司创建指定帐户时，我们会创建匹配规则，以自动将新潜在客户（例如，已填写表单的潜在客户）转发到正确的指定帐户。 这样，您就不必再担心匹配潜在客户，而更担心获得收入！
+**第4步 —** 我们提供了一系列拟议公司，其中有强有弱。当基于其中一家建议的公司创建指定帐户时，我们会创建匹配规则以自动将新潜在客户（例如，填写表单的潜在客户）关联到正确的指定帐户。 这样，您就不必再担心匹配潜在客户，而更担心获得收入！
 
-由于Marketo Lead-to-Account匹配是Marketo目标帐户管理的内置功能，因此匹配Lead到帐户的操作几乎是实时的（例如，当Lead填写Marketo表单时，我们将Lead与正确的指定帐户关联）。 此事件可用于触发警报并通知帐户所有者新潜在客户从其指定帐户传入。
+由于Marketo客户到帐户匹配是Marketo Target帐户管理的内置功能，因此匹配潜在客户会以近乎实时的方式发生(例如，当潜在客户填写Marketo表单时，我们会将所述潜在客户与正确的指定帐户相关联)。 此事件可用于触发警报并通知来自其指定帐户的新潜在客户的帐户所有者。
 
 >[!NOTE]
 >
->如果您在Salesforce中使用LeanData进行“潜在客户到帐户”匹配，则Marketo的集成会将这些匹配同步到您的Marketo实例。 要启用该功能，请联系[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)。
+>如果您在Salesforce中使用LeanData进行“潜在客户到帐户”匹配，则Marketo具有一个集成，该集成会将这些匹配项同步到您的Marketo实例。 要启用该功能，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)了解如何设置下面的LeanData。
+
+## 使用LeanData促进帐户匹配 {#using-leandata-for-lead-to-account-matching}
+
+在[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)为您的帐户启用LeanData后，请按照以下步骤进行设置。
+
+1. 在Salesforce中，单击左侧导航栏中的&#x200B;**设置主页**。
+
+1. 仍然在左侧导航的“管理”下，单击&#x200B;**Users**，然后单击&#x200B;**Profiles**。
+
+1. 找到并选择&#x200B;**Marketo同步**&#x200B;配置文件。
+
+1. 向下滚动到字段级别安全部分并找到潜在客户对象。 选择&#x200B;**查看**。
+
+1. 对于字段名称“报告匹配的帐户”，确保选中&#x200B;**读取访问**&#x200B;列中的复选框。
+
+1. 在Marketo中，转到&#x200B;**Admin**&#x200B;部分。
+
+   ![](assets/lead-to-account-matching-1.png)
+
+1. 选择&#x200B;**字段管理**。
+
+   ![](assets/lead-to-account-matching-2.png)
+
+1. 通过搜索“报表匹配的帐户”确认字段存在。
+
+   ![](assets/lead-to-account-matching-3.png)
 
 >[!MORELIKETHIS]
+[Discover帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)>
 >
->[Discover帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)
