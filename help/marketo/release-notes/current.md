@@ -1,9 +1,9 @@
 ---
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,11 @@ ht-degree: 0%
 
 ![（星号）](assets/yellow-star.png)
 
-* **电子邮件连接限制(GA)**:通过对Sales Connect的电子邮件连接限制，提高电子邮件投放能力并扩展个性化销售通信。这项新技术可自动管理电子邮件发送时间，为Exchange和Gmail用户创建无缝体验。 减少或消除使用第三方批量电子邮件发送应用程序的情况，并满怀信心地从Sales Connect发送所有电子邮件。
+* **Email Connection Throttling(Beta)**:通过对Sales Connect的电子邮件连接限制，提高电子邮件投放能力并扩展个性化销售通信。这项新技术可自动管理电子邮件发送时间，为Exchange和Gmail用户创建无缝体验。 减少或消除使用第三方批量电子邮件发送应用程序的情况，并满怀信心地从Sales Connect发送所有电子邮件。
+
+>[!NOTE]
+>
+>测试版中现在提供电子邮件限制。 [了解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)。
 
 * **增强的销售活动分析**:根据您销售团队的先前活动捕获并激活个性化参与。新属性（如“销售拜访记录链接”、“销售活动名称”和“销售电子邮件主体”）可在Marketo Engage智能列表中使用。  这些活动可以通过Marketo EngageREST API或批量导出进行导出和报告，并可在过滤器和触发器上作为智能列表的其他限制使用。
 
