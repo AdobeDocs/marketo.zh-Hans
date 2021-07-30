@@ -1,9 +1,9 @@
 ---
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
-source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
+source-git-commit: 47b1a8fe0adfd3b26b3fad7821b45e9a0b6f61bf
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,7 @@ ht-degree: 0%
 
 * **自定义字段元数据API**:简化合作伙伴集成Marketo Engage中自定义字段的创建和管理。自动在潜在客户对象上创建新字段，并立即和同时在多个Marketo Engage实例中更新字段。
 
-* **增强的过滤**:现在，有几个API支持更多过滤，例如向电子邮件资产和项目群成员字段添加日期范围过滤器。现在，您只能提取在以下API的特定时间范围内更新的数据……
-   * 获取项目成员
-   * 获取电子邮件
-   * 批量活动提取
+* **增强的过滤**:现在，有几个API支持更多过滤，例如向电子邮件资产和项目群成员字段添加日期范围过滤器。
 
 * **提交表单API**:当一个电子邮件地址复制到两个或更多潜在客户记录中时，我们会更新“上次更新”记录，而不是完全跳过。与Forms 2.0 API相同。
 
