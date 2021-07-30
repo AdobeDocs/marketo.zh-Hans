@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 99d30f70d83df16a14c874f6ed5cc215a9e76705
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
-source-wordcount: '8047'
+source-wordcount: '8048'
 ht-degree: 0%
 
 ---
@@ -1216,7 +1216,7 @@ ht-degree: 0%
       + Marketo {#marketo}
          + [设置Marketo连接](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [授予用户访问权限](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
-         + [MSC中的有趣时刻](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
+         + [Sales Connect中的有趣时刻](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [使Campaign对Sales Connect用户可见](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + 人员{#people}
          + [人员详细信息视图](product-docs/marketo-sales-connect/people/person-detail-view.md)
