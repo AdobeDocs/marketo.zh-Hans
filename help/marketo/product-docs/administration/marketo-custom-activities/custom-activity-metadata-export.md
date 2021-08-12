@@ -3,16 +3,16 @@ description: 自定义活动元数据导出 — Marketo文档 — 产品文档
 title: 自定义活动元数据导出
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # 自定义活动元数据导出 {#custom-activity-metadata-export}
 
-如果您使用的是我们的SOAP API或Munchkin API，则可以导出自定义活动元数据架构。 这是如何获得它。
+请按照以下步骤导出自定义活动元数据架构。
 
 1. 在我的Marketo中，单击&#x200B;**管理员**。
 
