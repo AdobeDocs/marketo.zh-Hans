@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
+source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
 workflow-type: tm+mt
 source-wordcount: '8064'
 ht-degree: 0%
@@ -204,7 +204,7 @@ ht-degree: 0%
          + [创建自定义活动](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [编辑自定义活动](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [发布自定义活动](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
-         + [自定义活动元数据导出](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
+         + [自定义活动元数据导出](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Marketo自定义对象{#marketo-custom-objects}
          + [了解Marketo自定义对象](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [添加Marketo自定义对象字段](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
