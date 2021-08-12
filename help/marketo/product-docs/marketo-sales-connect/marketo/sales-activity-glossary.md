@@ -3,10 +3,10 @@ description: 销售活动术语表 — Marketo文档 — 产品文档
 title: 销售活动术语表
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 3%
+source-wordcount: '416'
+ht-degree: 2%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 3%
  <tr>
   <td>模板ID</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">已收到销售电子邮件</th>
   <td>接收者</td>
  </tr>
@@ -150,6 +150,74 @@ ht-degree: 3%
   <th>描述</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>详细信息</strong></td> 
+   <td>退回错误消息详细信息。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>电子邮件</strong></td> 
+   <td>退回的电子邮件地址。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>链接</strong></td> 
+   <td>已点击的URL。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>接收者</strong></td> 
+   <td>发送电子邮件的人的电子邮件地址。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售电话应答者</strong></td> 
+   <td>应答呼叫的人员的姓名。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售呼叫持续时间</strong></td> 
+   <td>调用长度（以秒为单位）。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售电话由</strong></td> 
+   <td>拨打电话的销售人员的电子邮件地址。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售电话记录URL</strong></td> 
+   <td>呼叫录制的URL。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售电话状态</strong></td> 
+   <td>将保存调用的最终调用状态，其中包括：已完成，无应答，已取消，失败。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售呼叫主体</strong></td> 
+   <td>拨号器中销售用户选择的呼叫结果。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售活动ID</strong></td> 
+   <td>Sales Connect中Sales Campaign资产的唯一ID。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售活动名称</strong></td> 
+   <td>销售活动的名称。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售活动URL</strong></td> 
+   <td>Sales Campaign的Sales Connect URL。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售电子邮件主题</strong></td> 
+   <td>电子邮件的主题行。</td> 
+  </tr>
+  <tr> 
+   <td><strong>已拨打销售电话号码</strong></td> 
+   <td>由销售部呼叫的电话号码。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售模板名称</strong></td> 
+   <td>Sales Connect中电子邮件模板的名称。</td> 
+  </tr>
+  <tr> 
+   <td><strong>销售模板URL</strong></td> 
+   <td>电子邮件模板的Sales Connect URL。</td> 
+  </tr>
   <tr> 
    <td><strong>发送者</strong></td>
    <td>发送电子邮件的人的电子邮件地址。</td> 
@@ -162,18 +230,6 @@ ht-degree: 3%
    <td><strong>模板ID</strong></td> 
    <td>当源为Tout时，模板ID将为Marketo Sales Connect模板ID。 使用此选项可定位特定模板，而不是主题行，该主题行可能存在于多个模板中。
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>接收者</strong></td> 
-   <td>发送电子邮件的人的电子邮件地址。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>详细信息</strong></td> 
-   <td>退回错误消息详细信息。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>电子邮件</strong></td> 
-   <td>退回的电子邮件地址。</td> 
   </tr> 
  </tbody> 
 </table>
