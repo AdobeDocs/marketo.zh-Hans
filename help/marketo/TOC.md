@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '8064'
+source-wordcount: '8071'
 ht-degree: 0%
 
 ---
@@ -318,6 +318,7 @@ ht-degree: 0%
             + [请求营销活动](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [发送警报](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [发送电子邮件](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
+            + [“人员详细信息”页面中的单一流量操作](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [适用于移动智能促销活动的触发器和过滤器](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [在智能营销活动中使用Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [在流程步骤中使用添加选择](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
