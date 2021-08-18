@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: 使用Adobe Experience Manager导入资产 — Marketo文档 — 产品文档
 title: 使用Adobe Experience Manager导入资产
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -60,8 +60,8 @@ ht-degree: 0%
 
 ## 注意事项 {#things-to-note}
 
-Marketo当前支持Adobe Experience Manager版本6.4和6.5。
+* Marketo当前支持Adobe Experience Manager版本6.4和6.5。
 
-实例中的所有用户都将能够查看/访问您导入的图像。
+* 实例中的所有用户都将能够查看/访问您导入的图像。
 
-图像不会自动更新。 如果您导入到Marketo Design Studio的图像在AEM中更新，则必须手动将其重新导入Marketo。
+* 图像不会自动更新。 如果您导入到Marketo Design Studio的图像在AEM中更新，则必须手动将其重新导入Marketo。
