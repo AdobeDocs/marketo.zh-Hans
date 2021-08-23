@@ -1,25 +1,24 @@
 ---
 unique-page-id: 557329
-description: 将人物从列表或智能列表导出到Excel - Marketo Docs — 产品文档
-title: 将人物从列表或智能列表导出到Excel
+description: 从列表或智能列表将人员导出到Excel - Marketo文档 — 产品文档
+title: 从列表或智能列表将人员导出到Excel
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d30816e6f2e0ccac3e62d4f226dc5f349a6be25e
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-# 将人物从列表或智能列表{#export-people-to-excel-from-a-list-or-smart-list}导出到Excel
+# 从列表或智能列表将人员导出到Excel {#export-people-to-excel-from-a-list-or-smart-list}
 
-如果您在Marketo之外需要列表或智能列表结果，可轻松导出到Excel。 下面介绍如何操作。
+如果您在Marketo之外需要列表或智能列表结果，则可以轻松导出到Excel。 这是方法。
 
-1. 转至&#x200B;**营销活动**。
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/ma.png)
 
-1. 选择要导出的列表或智能列表，并转到&#x200B;**人物**&#x200B;选项卡。
+1. 选择要导出的列表或智能列表，然后转到&#x200B;**People**&#x200B;选项卡。
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -33,24 +32,16 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果选择&#x200B;**所有列**，则导出的大小将更大，生成/下载所需时间将更长。
+   >如果选择&#x200B;**所有列**，则导出的大小将更大，并且需要更长的时间才能生成/下载。
 
    >[!TIP]
    >
-   >如果您的个人记录包含导出时无法正确呈现的外字符，请尝试在&#x200B;**格式**&#x200B;下拉列表中更改文件类型。
+   >如果您的人员记录包含导出时未正确呈现的外来字符，请尝试在&#x200B;**Format**&#x200B;下拉菜单中更改文件类型。
 
-1. 将运行导出。 完成后，您可以单击&#x200B;**立即下载**&#x200B;来获取文件。
+1. 将运行导出。 完成后，您可以单击&#x200B;**Download now**&#x200B;来获取文件。
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >如果导出需要一段时间，您始终可以注销并稍后返回。 **立即下载**&#x200B;链接可通过在&#x200B;**列表操作**&#x200B;菜单中选择&#x200B;**显示导出状态**&#x200B;来访问，并且有效期为一周。
-
-   将智能列表导出到Excel后，Marketo将自动缓存列表。 下次登录或刷新浏览器时，您会注意到智能列表图标上有一个小纸夹和便签。
-
-   ![](assets/cached.png)
-
-   >[!TIP]
-   >
-   >您只需按列表的刷新按钮即可撤消列表的缓存。
+   >如果导出需要一段时间，您始终可以注销，稍后再返回。 通过在&#x200B;**列表操作**&#x200B;菜单中选择&#x200B;**显示导出状态**，可以访问&#x200B;**Download now**&#x200B;链接，该链接的有效期为一周。
