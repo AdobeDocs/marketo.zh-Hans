@@ -1,9 +1,9 @@
 ---
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,9 @@ ht-degree: 0%
 
 * **人员详细信息页面中的单一流程操作** （8月30日之前提供）：使用“流程操作”菜单，从“人员详细信息”页面对个人执行流程操作（如发送电子邮件、更改人员所有者或任何其他智能营销活动操作），而无需切换到数据库网格视图。
 
-* **自定义活动导出**:元数据导出现在支持所有对象和相应的元数据，这些对象和元数据可用于共享、分析和设计订阅数据模型。
+* **[自定义活动导出](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**:元数据导出现在支持所有对象和相应的元数据，这些对象和元数据可用于共享、分析和设计订阅数据模型。
 
 ## API增强功能 {#api-enhancements}
-
-* **自定义字段元数据API**:简化合作伙伴集成Marketo Engage中自定义字段的创建和管理。自动在潜在客户对象上创建新字段，并立即和同时在多个Marketo Engage实例中更新字段。
 
 * **提交表单API**:当一个电子邮件地址复制到两个或更多潜在客户记录中时，我们会更新“上次更新”记录，而不是完全跳过。与Forms 2.0 API相同。
 
