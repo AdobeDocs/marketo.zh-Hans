@@ -1,7 +1,7 @@
 ---
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
-source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
+source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
 workflow-type: tm+mt
 source-wordcount: '904'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 * **可执行促销活动嵌套**:可执行促销活动现在还可以调用其他可执行促销活动，以便您将它们嵌套到最多三层深度。这可以进一步整合常用的操作流程，并改进智能营销活动管理。
 
-* **人员详细信息页面中的单一流程操作** （8月30日之前提供）：使用“流程操作”菜单，从“人员详细信息”页面对个人执行流程操作（如发送电子邮件、更改人员所有者或任何其他智能营销活动操作），而无需切换到数据库网格视图。
+* **人员详细信息页面中的单一流程操作** （在9月9日之前提供）：使用“流程操作”菜单，从“人员详细信息”页面对个人执行流程操作（如发送电子邮件、更改人员所有者或任何其他智能营销活动操作），而无需切换到数据库网格视图。
 
 * **[自定义活动导出](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**:元数据导出现在支持所有对象和相应的元数据，这些对象和元数据可用于共享、分析和设计订阅数据模型。
 
