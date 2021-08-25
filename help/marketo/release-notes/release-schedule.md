@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: 发行计划 — Marketo文档 — 产品文档
 title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,12 @@ _发行日期可能会有变_
   <tr> 
    <td colspan="1">’21年8月</td> 
    <td colspan="1">2021年8月20日</td> 
-   <td colspan="1">正在进行</td> 
+   <td colspan="1">已发运</td> 
   </tr> 
   <tr> 
    <td colspan="1">’21年10月</td> 
-   <td colspan="1">2021年10月15日</td> 
-   <td colspan="1">按计划</td> 
+   <td colspan="1">2021年10月22日</td> 
+   <td colspan="1">正在进行</td> 
   </tr> 
  </tbody> 
 </table>
