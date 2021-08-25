@@ -1,9 +1,9 @@
 ---
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
-source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
+source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '904'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,9 @@ ht-degree: 0%
 
 以下功能将于2021年8月20日&#x200B;**发布。**
 
-## Adobe Experience Platform集成 {#adobe-experience-platform-integration}
+## 体验自动化 {#experience-automation}
 
 * **Marketo Engage通过Adobe身份进行用户身份验证**:从2021年9月起，将使用Adobe ID用户凭据载入具有企业包的新Marketo Engage用户。2022年年中之前，不会将当前用户迁移到集成身份系统，在收到进一步通知之前，也无需采取任何操作。 Adobe身份用户身份验证允许IT/安全管理员管理多个Marketo Engage产品实例以及其他Experience Cloud解决方案，并通过通用控制台配置单点登录。 管理员可以在一个位置方便地管理用户组和用户权限。
-
-## 体验自动化 {#experience-automation}
 
 * **可执行促销活动嵌套**:可执行促销活动现在还可以调用其他可执行促销活动，以便您将它们嵌套到最多三层深度。这可以进一步整合常用的操作流程，并改进智能营销活动管理。
 
