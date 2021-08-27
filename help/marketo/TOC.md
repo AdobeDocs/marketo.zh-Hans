@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: f6d0d38b777e07f0a5139b22c3da38aaebc699fc
+source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -582,31 +582,31 @@ ht-degree: 0%
                + [启用非英语自定义对象同步](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
                + [设置默认人员姓氏和公司名称](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
                + [关闭潜在客户所有者的电子邮件通知](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-            + SFDC同步详细信息{#sfdc-sync-details}
-               + [如何在同步之前匹配项目状态和Salesforce促销活动状态](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
-               + [SFDC同步：帐户同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-               + [使用人员帐户](product-docs/crm-sync/salesforce-sync/setup/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
-               + [SFDC同步：活动同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
-               + [SFDC同步：营销活动同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
-               + [SFDC同步：联系人同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-               + [SFDC同步：在Salesforce中将潜在客户转换为联系人](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
-               + [SFDC同步：自定义对象同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-               + [SFDC同步：删除潜在客户/联系人](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
-               + [SFDC同步：字段同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
-               + [将现有Salesforce字段添加到Marketo同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
-               + [默认Salesforce字段映射](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
-               + [在Marketo同步中隐藏Salesforce字段](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
-               + [SFDC同步：潜在客户/帐户所有者同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-               + [SFDC同步：潜在客户队列](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
-               + [SFDC同步：潜在客户同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-               + [SFDC同步：合并潜在客户/联系人/人员](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
-               + [SFDC同步：机会同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-            + [添加/删除选取列表值](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-            + [启用/禁用Salesforce同步](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
-            + [默示的Salesforce操作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
-            + [Salesforce同步错误](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
-            + [Salesforce同步状态](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-            + [使用OAuth 2.0登录](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + SFDC同步详细信息{#sfdc-sync-details}
+            + [将现有Salesforce字段添加到Marketo同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md)
+            + [默认Salesforce字段映射](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
+            + [在Marketo同步中隐藏Salesforce字段](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
+            + [如何在同步之前匹配项目状态和Salesforce促销活动状态](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
+            + [SFDC同步：帐户同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+            + [SFDC同步：活动同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+            + [SFDC同步：营销活动同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+            + [SFDC同步：联系人同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+            + [SFDC同步：在Salesforce中将潜在客户转换为联系人](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+            + [SFDC同步：自定义对象同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+            + [SFDC同步：删除潜在客户/联系人](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
+            + [SFDC同步：字段同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
+            + [SFDC同步：潜在客户/帐户所有者同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+            + [SFDC同步：潜在客户队列](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
+            + [SFDC同步：潜在客户同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+            + [SFDC同步：合并潜在客户/联系人/人员](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
+            + [SFDC同步：机会同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+         + [添加/删除选取列表值](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
+         + [启用/禁用Salesforce同步](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+         + [默示的Salesforce操作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [使用OAuth 2.0登录](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce同步错误](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
+         + [Salesforce同步状态](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [使用人员帐户](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
    + 需求生成{#demand-generation}
       + 广告网络集成{#ad-network-integrations}
          + [了解广告网络集成](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
