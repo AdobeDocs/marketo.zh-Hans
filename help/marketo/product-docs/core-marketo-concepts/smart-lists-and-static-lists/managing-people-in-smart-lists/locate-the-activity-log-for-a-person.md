@@ -1,39 +1,50 @@
 ---
 unique-page-id: 5472404
-description: 找到个人的活动日志 — Marketo Docs — 产品文档
-title: 查找人员的活动日志
+description: 找到人员的活动日志 — Marketo文档 — 产品文档
+title: 找到人员的活动日志
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7bd453393fbba5e60eace6ec9d831494ebfdd883
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 找到{#locate-the-activity-log-for-a-person}人员的活动日志
+# 找到人员的活动日志 {#locate-the-activity-log-for-a-person}
 
-活动日志是真相的终极来源。 这是一个人在Marketo旅程的完整故事。
+活动日志是最终的真相来源。 这是一个人在Marketo旅程的完整故事。
 
 1. 转到&#x200B;**Database**。
 
-   ![](assets/db-2.png)
+   ![](assets/locate-the-activity-log-for-a-person-1.png)
 
 1. 选择&#x200B;**所有人员**。
 
-   ![](assets/two-6.png)
+   ![](assets/locate-the-activity-log-for-a-person-2.png)
 
 1. 单击&#x200B;**People**&#x200B;选项卡。 选择人员&#x200B;**Id**&#x200B;编号。
 
-   ![](assets/three-5.png)
+   ![](assets/locate-the-activity-log-for-a-person-3.png)
 
 1. 单击&#x200B;**活动日志**。
 
-   ![](assets/four-3.png)
+   ![](assets/locate-the-activity-log-for-a-person-4.png)
 
-   瞧。 活动日志！ 这是一个人的所有信息的集合。
+   现在，您拥有一个收藏集，其中包含了随着时间推移发生的所有信息。
 
-   ![](assets/five-2.png)
+   ![](assets/locate-the-activity-log-for-a-person-5.png)
+
+## 导出活动日志 {#export-activity-log}
+
+需要将人员的活动日志导出到Excel吗？
+
+1. 按照上述步骤操作后，滚动到页面底部并选择导出图标。
+
+   ![](assets/locate-the-activity-log-for-a-person-6.png)
+
+1. 将Excel文件下载到您的浏览器。
+
+   ![](assets/locate-the-activity-log-for-a-person-7.png)
 
    >[!MORELIKETHIS]
    >
