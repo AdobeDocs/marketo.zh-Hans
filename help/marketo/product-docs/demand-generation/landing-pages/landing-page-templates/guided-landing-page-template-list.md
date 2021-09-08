@@ -1,33 +1,34 @@
 ---
 unique-page-id: 7515616
-description: 向导式登陆页模板列表- Marketo Docs — 产品文档
-title: 导向登陆页模板列表
-translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+description: 引导式登陆页面模板列表 — Marketo文档 — 产品文档
+title: 引导式登陆页面模板列表
+exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
+hide: true
+hidefromtoc: true
+source-git-commit: d3a8aedba3c2b3403f6e7f206a51495ccab9ecd8
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
+# 引导式登陆页面模板列表 {#guided-landing-page-template-list}
 
-# 导向登陆页模板列表{#guided-landing-page-template-list}
-
-浏览我们的示例模板集合，以便与[向导式登陆页编辑器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)一起使用。 每个模板都完全响应式，并且基于Bootstrap框架。
+浏览示例模板集合，以与[引导式登陆页面编辑器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)一起使用。 每个模板都完全响应，并且基于Bootstrap框架。
 
 >[!NOTE]
 >
->Marketo Support未设置为有助于排除HTML故障。 如果您在修改任何模板时需要帮助，请咨询Web开发人员。
+>Marketo支持未设置为协助对HTML进行故障诊断。 如果在修改其中任何模板时需要帮助，请咨询Web开发人员。
 
 要将模板导入Marketo，请执行以下操作：
 
-1. 单击模板的名称，以获得更大的视图。
-1. 下载所选的模板。
+1. 单击模板的名称以进行大视图。
+1. 下载所选模板。
 1. 在Marketo中，导航到&#x200B;**Design Studio.**
-1. 单击左侧树中的&#x200B;**登陆页**，然后选择&#x200B;**模板。**
+1. 单击左侧树中的&#x200B;**登陆页面**，然后选择&#x200B;**模板。**
 
 1. 在菜单栏中，单击&#x200B;**导入模板。**
-1. 选择下载的文件，输入模板名称，然后单击&#x200B;**导入**（确保选取描述性名称并指示编辑模式为&#x200B;**导向**）。
+1. 选择下载的文件，输入模板名称，然后单击&#x200B;**导入**（确保选取描述性名称并指示编辑模式为&#x200B;**引导式**）。
 
 |  |  |  |
 |---|---|---|
