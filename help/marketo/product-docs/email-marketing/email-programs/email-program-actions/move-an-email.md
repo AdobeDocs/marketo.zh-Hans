@@ -1,42 +1,39 @@
 ---
 unique-page-id: 10098691
-description: 移动电子邮件——营销人员文档——产品文档
+description: 移动电子邮件 — Marketo文档 — 产品文档
 title: 移动电子邮件
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
+source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
+# 移动电子邮件 {#move-an-email}
 
-# 移动电子邮件{#move-an-email}
-
-需要将电子邮件从一个项目移到另一个？ 这是方法。
+需要将电子邮件从一个项目移动到另一个项目？ 这是方法。
 
 1. 转到&#x200B;**营销活动**。
 
-   ![](assets/one-2.png)
+   ![](assets/move-an-email-1.png)
 
-1. 找到要移动的电子邮件，右键单击它，然后选择&#x200B;**移动**。
+1. 找到要移动的电子邮件，右键单击它并选择&#x200B;**移动**。
 
-   ![](assets/leadperformance.jpg)
+   ![](assets/move-an-email-2.png)
 
-1. 单击&#x200B;**移到**&#x200B;下拉框，然后选择&#x200B;**营销活动**。
+1. 选择&#x200B;**目标**、**程序**&#x200B;和可选的&#x200B;**文件夹**。 选择&#x200B;**移动**。
 
-   ![](assets/three-2.png)
+   ![](assets/move-an-email-3.png)
 
    >[!NOTE]
    >
-   >在此示例中，我们将电子邮件移动到另一项目，但您也可以将电子邮件移动到Design Studio中的文件夹。
+   >在本例中，我们将电子邮件移动到另一个程序，但您也可以将电子邮件移动到Design Studio中的文件夹。
 
-1. 单击&#x200B;**项目**&#x200B;下拉框，查找并选择目标项目，然后单击&#x200B;**移动**。
+   现在，您的电子邮件将位于另一个程序中。
 
-   ![](assets/four-2.png)
+   ![](assets/move-an-email-4.png)
 
-   您将看到您的电子邮件现在位于另一个项目。
-
-   ![](assets/leadperformance2.jpg)
-
-   真狡猾！
+   >[!NOTE]
+   >
+   >您也只需将电子邮件拖放到树中的新目标即可。
