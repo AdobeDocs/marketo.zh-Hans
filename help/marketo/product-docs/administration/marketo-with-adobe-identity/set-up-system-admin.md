@@ -3,24 +3,26 @@ description: 设置系统管理员 — Marketo文档 — 产品文档
 title: 设置系统管理员
 hide: true
 hidefromtoc: true
-source-git-commit: 5d068e01870b4ced4a444c48f8a257f88a869384
+source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
 # 设置系统管理员 {#set-up-system-admin}
 
+## 创建产品配置文件 {#create-a-product-profile}
+
 文本
 
-将您作为Marketo系统管理员添加到(? an?) Adobe组织中，您需要执行一些步骤才能完成设置。
+将您作为Marketo系统管理员添加到Adobe组织后，您需要执行一些步骤才能完成设置。
 
-1. 在您收到的电子邮件（他们如何接收此邮件？）中，单击&#x200B;**开始**。
+1. 在您的Adobe组织建立后，指定的系统管理员将收到一封欢迎电子邮件。 在该电子邮件中，单击&#x200B;**开始**。
 
 PICC
 
-1. 输入Adobe标识？
+1. 输入Adobe标识？ 链接到现有文档 — 如果设置为跳转至步骤？
 
 PICC
 
@@ -32,7 +34,7 @@ PICC
 
 PICC
 
-1. 文本。
+1. （选择订阅 — 必须对每个子项执行这些步骤）
 
 PICC
 
@@ -44,6 +46,8 @@ PICC
 
 PICC
 
+(如果您设置了多个产品配置文件，无论用户添加到哪个产品配置文件，他们都将拥有相同的Marketo访问权限)
+
 ## 添加产品管理员 {#add-a-product-admin}
 
 1. 按照上述步骤操作后，单击&#x200B;**Admins**&#x200B;选项卡。
@@ -54,4 +58,6 @@ PICC
 
 PICC
 
-1. 找到要添加的用户。 名字和姓氏是可选的。
+1. 找到要添加的用户。 名字和姓氏是可选的。 不用麻烦预填
+
+PICC
