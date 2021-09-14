@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: 发行计划 — Marketo文档 — 产品文档
 title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 **版本**:Marketo使用季度主要发行计划。一旦发布，每个发行说明都将链接在下表中。
 
-**发行日期**:推出通常从发行周的星期三开始，大部分升级工作在周五晚上进行。系统会发送一封包含特定日期和发行详细信息的电子邮件。 列出的日期是星期五的更新。
+**发行日期**:推出通常在发行周的星期二开始，大部分升级在星期五晚上进行。系统会发送一封包含特定日期和发行详细信息的电子邮件。 列出的日期是星期五的更新。
 
 **进度**:
 

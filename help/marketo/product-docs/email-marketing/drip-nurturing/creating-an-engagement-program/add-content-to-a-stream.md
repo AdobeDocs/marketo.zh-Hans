@@ -1,118 +1,55 @@
 ---
 unique-page-id: 2359659
-description: 将内容添加到流- Marketo Docs —— 产品文档
-title: 向流中添加内容
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 向流中添加内容 — Marketo文档 — 产品文档
+title: 向流添加内容
+exl-id: b2db9f49-2baa-4d42-9755-480390a91041
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
+# 向流添加内容 {#add-content-to-a-stream}
 
-# 向流{#add-content-to-a-stream}添加内容
-
-创建参与项目后，您需要向流中添加内容。 您可以向流中添加电子邮件或项目。
-
-## 向流{#add-an-email-to-a-stream}添加电子邮件
+创建参与计划后，您需要向流中添加内容。 您可以向流中添加电子邮件或节目。
 
 1. 转到&#x200B;**营销活动**。
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/add-content-to-a-stream-1.png)
 
-1. 选择您的参与项目并转到&#x200B;**流**&#x200B;选项卡。
+1. 选择您的参与程序，然后转到&#x200B;**流**&#x200B;选项卡。
 
-   ![](assets/streamstab.jpg)
+   ![](assets/add-content-to-a-stream-2.png)
 
-   您可以通过三种不同方式添加第一封电子邮件：
+   您可以通过两种不同方式添加内容：
 
 **“添加内容”按钮**
 
-1. 单击&#x200B;**添加内容**&#x200B;按钮。
+1. 单击&#x200B;**Add Content**&#x200B;按钮。
 
-   ![](assets/addcontentbutton.jpg)
+   ![](assets/add-content-to-a-stream-3.png)
 
-1. 将设置为&#x200B;**电子邮件**&#x200B;的&#x200B;**类型**&#x200B;保留，然后选择要添加的电子邮件。
+1. 选择&#x200B;**电子邮件** _或_ **项目**，然后选择要添加的电子邮件或项目/智能营销活动。
 
-   ![](assets/image2014-9-15-15-3a44-3a58.png)
+   ![](assets/add-content-to-a-stream-4.png)
 
    >[!TIP]
    >
-   >此参与项目的本地电子邮件将在顶部排序。
+   >此参与计划的本地电子邮件将在顶部排序。
 
-**流+图标**
+**+图标**
 
-1. 单击流&#x200B;**+**&#x200B;图标，将&#x200B;**类型**&#x200B;保留为&#x200B;**电子邮件**，然后选择要添加的电子邮件。
+1. 单击&#x200B;**+**&#x200B;图标，选择&#x200B;**Email** _或_ **Program**，然后选择要添加的电子邮件或项目/智能营销活动。
 
-   ![](assets/image2014-9-15-15-3a45-3a25.png)
-
-**拖放**
-
-1. 只需将电子邮件从树拖入流中即可。
-
-   ![](assets/dragstreamcontent.jpg)
-
-## 向流{#add-a-program-to-a-stream}添加项目
-
-1. 转到&#x200B;**营销活动**。
-
-   ![](assets/login-marketing-activities-1.png)
-
-1. 选择您的参与项目并转到&#x200B;**流**&#x200B;选项卡。
-
-   ![](assets/streamstab.jpg)
-
-   您可以通过三种不同的方式向流中添加项目:
-
-**“添加内容”按钮**
-
-1. 单击&#x200B;**添加内容**。
-
-   ![](assets/image2014-9-15-15-3a45-3a51.png)
-
-1. 将&#x200B;**类型**&#x200B;更改为项目。
-
-   ![](assets/image2014-9-15-15-3a46-3a0.png)
-
-1. 查找并选择项目。
-
-   ![](assets/image2014-9-15-15-3a46-3a11.png)
-
-1. 现在，在您希望人们体验的项目中选择智能活动。
-
-   ![](assets/image2014-9-15-15-3a46-3a17.png)
+   ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >智能活动中必须包含&#x200B;**参与项目成员**&#x200B;过滤器，才能正常工作。
+   >智能营销活动必须包含&#x200B;**参与项目成员**&#x200B;过滤器，才能正常运行。
 
-**流+图标**
-
-1. 单击流&#x200B;**+**&#x200B;图标，然后将&#x200B;**类型**&#x200B;更改为项目。
-
-   ![](assets/image2014-9-15-15-3a46-3a43.png)
-
-1. 查找并选择您的项目。
-
-   ![](assets/image2014-9-15-15-3a46-3a49.png)
-
-1. 选择要处理人员的智能活动。
-
-   ![](assets/image2014-9-15-15-3a46-3a54.png)
-
-**拖放**
-
-1. 将您选择的项目从树拖放到流中。
-
-   ![](assets/streamcadence.jpg)
-
-1. 现在，挑选您希望人们流动的智能活动。
-
-   ![](assets/image2014-9-15-15-3a47-3a8.png)
-
-干得好！ 您现在了解向项目流添加内容的不同方法。 添加您所需的数量来培养您。 有关更多详细信息，请参阅下面的相关文章。
+干得好！ 您现在知道如何向节目流添加内容。 你要多多多多多多少才能培养。 有关更多详细信息，请参阅下面的相关文章。
 
 >[!MORELIKETHIS]
 >
->[将项目添加到参与项目流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[向参与项目流添加项目](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
