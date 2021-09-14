@@ -3,9 +3,9 @@ description: 概述 — Marketo文档 — 产品文档
 title: 概述
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ AdobeIdentity Management系统由三个组件组成。
 
 **我是否仍然转到Marketo中的“管理员”部分进行帐户更改？**
 
-不需要，您需要导航到[account.adobe.com](account.adobe.com)。
+不需要，您需要导航到[account.adobe.com](https://account.adobe.com)。
 
 **这如何与Marketo的通用ID一起使用？**
 
