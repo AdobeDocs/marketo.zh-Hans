@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783981
-description: 模板9A - Marketo文档 — 产品文档
-title: 模板9A
+description: 模板9-A - Marketo文档 — 产品文档
+title: 模板9-A
 exl-id: cc729eee-224b-4acd-87d8-7fb9155d73fb
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 模板9A {#template-9a}
+# 模板9-A {#template-a}
 
-[下载模板9A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
+[下载模板9-A](https://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&amp;modificationdate=1438210648000&amp;api=v2)
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **单击下面的可下载此模板：**
 
-[模板9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
+[Template9-A.html](https://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&amp;modificationdate=1438210648000&amp;api=v2)

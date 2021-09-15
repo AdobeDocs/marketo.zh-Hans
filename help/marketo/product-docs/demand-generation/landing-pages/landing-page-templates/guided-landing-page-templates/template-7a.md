@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783941
-description: 模板7A - Marketo文档 — 产品文档
-title: 模板7A
+description: 模板7-A - Marketo文档 — 产品文档
+title: 模板7-A
 exl-id: f27b481a-6fae-4908-9488-b7fe456af071
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# 模板7A {#template-7a}
+# 模板7-A {#template-a}
 
-[下载模板7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
+[下载模板7-A](https://docs.marketo.com/download/attachments/8783941/template-7a.html?version=1&amp;modificationdate=1437693282000&amp;api=v2)
 
 ![](assets/image2015-7-29-14-3a22-3a54.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **单击下面的可下载此模板：**
 
-[模板7A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
+[Template7-A.html](https://docs.marketo.com/download/attachments/8783941/template-7a.html?version=1&amp;modificationdate=1437693282000&amp;api=v2)

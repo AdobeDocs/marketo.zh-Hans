@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437843
-description: 模板16D - Marketo文档 — 产品文档
-title: 模板16D
+description: 模板16-D - Marketo文档 — 产品文档
+title: 模板16-D
 exl-id: 02e2cf8d-b993-44f7-8da3-469dfa39881e
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# 模板16D {#template-16d}
+# 模板16-D {#template-d}
 
-[下载模板16D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)
+[下载模板16-D](https://docs.marketo.com/download/attachments/9437843/template-16d.html?version=1&amp;modificationdate=1438980772000&amp;api=v2)
 
 ![](assets/image2015-8-14-13-3a12-3a25.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **单击下面的可下载此模板：**
 
-[模板16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)
+[Template16-D.html](https://docs.marketo.com/download/attachments/9437843/template-16d.html?version=1&amp;modificationdate=1438980772000&amp;api=v2)

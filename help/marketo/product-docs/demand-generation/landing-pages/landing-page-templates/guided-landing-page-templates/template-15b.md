@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437819
-description: 模板15B - Marketo文档 — 产品文档
-title: 模板15B
+description: 模板15-B - Marketo文档 — 产品文档
+title: 模板15-B
 exl-id: ad55baf3-9670-42c2-8590-af0d4cf934a6
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# 模板15B {#template-15b}
+# 模板15-B {#template-b}
 
-[下载模板15B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
+[下载模板15-B](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **单击下面的可下载此模板：**
 
-[模板15B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
+[Template15-B.html](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)

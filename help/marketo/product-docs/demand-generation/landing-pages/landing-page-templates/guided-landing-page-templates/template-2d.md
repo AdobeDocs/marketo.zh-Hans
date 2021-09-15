@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516478
-description: 模板2D - Marketo文档 — 产品文档
-title: 模板2D
+description: 模板2-D - Marketo文档 — 产品文档
+title: 模板2-D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# 模板2D {#template-2d}
+# 模板2-D {#template-d}
 
-[下载模板2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+[下载模板2-D](https://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&amp;modificationdate=1433229358000&amp;api=v2)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **单击下面的可下载此模板：**
 
-[模板2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+[Template2-D.html](https://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&amp;modificationdate=1433229358000&amp;api=v2)
