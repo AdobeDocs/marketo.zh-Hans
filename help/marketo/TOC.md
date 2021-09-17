@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 296dce8edf65115f9c10a79c4f1981b57739f713
+source-git-commit: abb4d95da5ba9d9a342b482287c89a4987eb4251
 workflow-type: tm+mt
-source-wordcount: '8089'
+source-wordcount: '8090'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,6 @@ ht-degree: 0%
          + [添加ON24 as a LaunchPoint Service](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [将ReadyTalk添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [将单点登录添加到门户](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [将Slack添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [将WebEx添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [将Workplace By Facebook添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [将缩放添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
@@ -619,6 +618,10 @@ ht-degree: 0%
          + [将Google客户匹配项添加为LaunchPoint服务](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [将LinkedIn匹配的受众添加为LaunchPoint服务](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [将列表发送到广告网络](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + 动态聊天{#dynamic-chat}
+         + [动态聊天概述](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [对话框](product-docs/demand-generation/dynamic-chat/dialogues.md)
+         + [配置](product-docs/demand-generation/dynamic-chat/configuration.md)
       + 事件{#events}
          + 了解事件{#understanding-events}
             + [向事件程序添加成员](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
