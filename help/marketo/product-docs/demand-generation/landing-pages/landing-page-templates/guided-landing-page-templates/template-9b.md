@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783984
-description: 模板9-B - Marketo文档 — 产品文档
-title: 模板9-B
+description: 模板9B - Marketo文档 — 产品文档
+title: 模板9B
 exl-id: 51e3d572-ab7d-44cb-b372-aacb856199d3
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 模板9-B {#template-b}
+# 模板9B {#template-9b}
 
-[下载模板9-B](https://docs.marketo.com/download/attachments/8783984/template-9b.html?version=2&amp;modificationdate=1438210694000&amp;api=v2)
+[下载模板9B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
 
 ![](assets/image2015-7-28-15-3a21-3a14.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **单击下面的可下载此模板：**
 
-[Template9-B.html](https://docs.marketo.com/download/attachments/8783984/template-9b.html?version=2&amp;modificationdate=1438210694000&amp;api=v2)
+[模板9B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
