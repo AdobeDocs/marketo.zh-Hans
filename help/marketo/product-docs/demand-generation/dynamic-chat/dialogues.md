@@ -3,9 +3,9 @@ description: 对话框 — Marketo文档 — 产品文档
 title: 对话框
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -95,7 +95,7 @@ PICC
 
 信息捕获：在要收集信息时使用。 要选择的三个字段是“电子邮件地址”、“电话号码”和“文本”（允许访客自行编写消息）。
 
-日程安排计划程序：为访客提供可用日期的日历以安排后续活动。 日历可用性反映了[行](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)中的下一个代理。
+日程安排计划程序：为访客提供可用日期的日历以安排后续活动。 日历可用性反映了[行](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)中的下一个代理。
 
 目标：这是访客看不到的唯一一张卡。 您可以确定在特定聊天中的哪个时间点实现目标(例如：如果您的目标是收集访客的电子邮件，请将目标卡放在流中信息捕获之后。)
 
