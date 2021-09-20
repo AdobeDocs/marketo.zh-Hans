@@ -3,9 +3,9 @@ description: 配置 — Marketo文档 — 产品文档
 title: 配置
 hide: true
 hidefromtoc: true
-source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ PICC
 
 **代理设置**
 
-在“代理设置”中，为聊天机器人分配一个特定的名称（该名称将显示在顶部）。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。
+在“代理设置”中，您可以向动态消息框中添加标签(例如：“Adobe机器人”)。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。
 
 设置名称的PICC
 

@@ -3,9 +3,9 @@ description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 简介文本
 
+>[!NOTE]
+>
+>动态聊天正在推出中，所有订阅在DATE之前都有权访问。
+
 ## 设置动态聊天 {#access-dynamic-chat}
 
-文本
+在初始设置中，请按照以下步骤操作。
 
 1. 在我的Marketo中，单击&#x200B;**动态聊天**&#x200B;拼贴。
 
@@ -24,7 +28,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您的Marketo管理员尚未为您打开磁贴，则还可以[在此处访问动态聊天](https://experience.adobe.com/dynamic-chat/)。
+   >如果你看不到……联系您的Marketo管理员)。
 
 1. 如果您之前使用Adobe ID访问过应用程序，则会直接转到动态聊天。 如果没有，则[设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)。
 
@@ -32,19 +36,19 @@ ht-degree: 0%
 
 1. 要连接Marketo实例，请选择&#x200B;**集成**。
 
-PICC
+   PICC
 
 1. 单击？在此处插入文本？。
 
-PICC
+   PICC
 
->[!NOTE]
->
->完成同步可能需要5到8小时，具体时间取决于数据库的大小。 平均同步时间为60分钟。
+   >[!NOTE]
+   >
+   >完成同步可能需要5到8小时，具体时间取决于数据库的大小。 平均同步时间为60分钟。
 
 ## 集成 {#integrations}
 
-集成是您在访问动态聊天时要访问的第一个选项卡。 在该位置可同步您的Marketo订阅，从而允许您利用数据库数据来识别站点/聊天访客（[请参阅上面的步骤3](#access-dynamic-chat)）。
+集成是您在访问动态聊天时要访问的第一个选项卡。 您可以在此同步Marketo订阅，从而利用Marketo数据库数据来识别站点/聊天访客（[请参阅上面的步骤3](#access-dynamic-chat)）。
 
 ## 对话框 {#dialogues}
 
