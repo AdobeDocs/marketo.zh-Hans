@@ -3,9 +3,9 @@ description: 初始设置 — Marketo文档 — 产品文档
 title: 初始设置
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 1. 为Marketo实例启用动态聊天后，指定的系统管理员将收到一封欢迎电子邮件。 在该电子邮件中，单击&#x200B;**开始**。
 
-   ![](assets/picture.png)
+   PICC
 
 1. 如果您之前使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，则[设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)。
 
-   ![](assets/picture.png)
+   PICC
 
 1. 添加用户（要遵循的步骤）
 
