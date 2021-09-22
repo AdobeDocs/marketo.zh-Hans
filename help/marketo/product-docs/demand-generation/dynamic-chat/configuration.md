@@ -3,9 +3,9 @@ description: 配置 — Marketo文档 — 产品文档
 title: 配置
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ PICC（整个动画框）
 
 **样式**
 
-样式允许您选取所需的颜色、聊天框锚点位置/内边距以及字体类型/大小。
+您将在此处定义将显示对话框的聊天机器人的外观，包括：颜色、字体、机器人小组件的位置以及聊天机器人的名称/头像。
 
 每个类别的颜色由[十六进制颜色值](https://color.adobe.com/create/color-wheel)(例如，白色= #ffffff、红色= #bf1932等)确定。
 
@@ -50,13 +50,13 @@ PICC
 
 ## “隐私”选项卡 {#privacy-tab}
 
-单击&#x200B;**Privacy**&#x200B;选项卡，以添加/编辑您网站的隐私政策的URL。
+单击&#x200B;**Privacy**&#x200B;选项卡，以添加/编辑网站隐私政策的URL（可选）。
 
 PICC
 
 ## “安装”选项卡 {#installation-tab}
 
-单击&#x200B;**Installation**&#x200B;选项卡，以获取Web开发团队在您的网站上需要放置的脚本。
+为了让聊天机器人显示在您的网站上，您首先需要安装动态聊天JavaScript代码片段。 单击此选项卡以查找/复制必需的代码。 如果您不熟悉此操作，请联系您的Web团队或IT部门以寻求帮助。
 
 PICC
 

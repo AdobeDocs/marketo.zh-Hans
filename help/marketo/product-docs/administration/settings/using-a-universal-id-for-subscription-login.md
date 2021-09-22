@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: 使用通用ID进行订阅登录 — Marketo文档 — 产品文档
 title: 使用通用ID进行订阅登录
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: 591279dfb573853eb8781d7984c65716804120b0
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 设置通用ID {#setting-up-a-universal-id}
 
-从每个实例中，Marketo管理员必须通过相同的登录邀请您访问每个不同的订阅。 Marketo无法自动合并您现有的登录。 启用通用ID后，**您的Marketo实例将最多30分钟不可用**。 如果您的用户群较大，则可能会更长一些。
+所有Marketo订阅均附带可选的通用ID功能。 从每个实例中，Marketo管理员必须通过相同的登录邀请您访问每个不同的订阅。 Marketo无法自动合并您现有的登录。
 
 >[!NOTE]
 >
