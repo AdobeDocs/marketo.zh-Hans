@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: 发行说明 — ’19年8月 — Marketo文档 — 产品文档
 title: 发行说明 — ’19年8月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
+source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 核心Marketo Engage {#core-marketo-engage}
 
-* **可扩展网络研讨会框架**:Marketo新的开箱即用网络研讨会框架（在’19年冬季发行说明中引入）可将网络研讨会提供商的数据无缝地传递到Marketo，反之亦然，从而节省时间。Cevent和Zoom现在在此新框架中可用。
+* **可扩展网络研讨会框架**:使用Marketo新的开箱即用网络研讨会框架（在’19年冬季发行说明中引入） [可节省时间，该](/help/marketo/release-notes/2019/release-notes-winter-19.md) 发行说明可无缝地将网络研讨会提供商的数据传递到Marketo，反之亦然。Cevent和Zoom现在在此新框架中可用。
 * **智能营销活动API更新**:在我们逐步了解CRUD（创建、读取、更新、删除）界面时，管理智能营销活动生命周期功能。
 * **更新电子邮件头API更改**:更新电子邮件标题API不再要求电子邮件具有附加的模板来更新标题字段，如主题行。
 
