@@ -3,9 +3,9 @@ description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -78,17 +78,9 @@ PICC?
 
 有人吗？ 洛尔……
 
-**能否使用CSS设置聊天机器人样式？**
-
-此时无法使用CSS设置聊天机器人的样式。
-
-**我能否使用自定义字体选项？**
-
-目前只有预设字体选项可用。
-
 **动态聊天是否允许进行实时聊天？**
 
-不，只是预先确定的响应。
+不会，它仅使用预先确定的响应。
 
 **是否支持AI/NLP功能？**
 
