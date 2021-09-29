@@ -3,9 +3,9 @@ description: 对话框 — Marketo文档 — 产品文档
 title: 对话框
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 1. 单击&#x200B;**对话框**。
 
-PICC
+   ![](assets/dialogues-1.png)
 
 1. 单击&#x200B;**新建**&#x200B;按钮。
 
-PICC
+   ![](assets/dialogues-2.png)
 
 1. 输入名称（说明是可选的），设置优先级级别，然后单击&#x200B;**Save**。
 
-PICC
+   ![](assets/dialogues-3.png)
 
 >[!NOTE]
 >
@@ -36,31 +36,57 @@ PICC
 
 与Marketo智能列表类似，受众标准属性允许您定义目标受众。 您可以使用推断出的、潜在客户或公司属性（或其组合）来定位已知或未知的潜在客户。
 
-有许多&#x200B;_属性组合可供选择。_&#x200B;在此示例中，我们定位的是加利福尼亚州所有在公司工作且员工超过50名的已知潜在客户。
+**已知潜在客户**
 
-1. 抓取“潜在客户状态”属性并将其拖动到右侧。
+有许多&#x200B;_属性组合可供选择。_&#x200B;在此示例中，我们定位的是加利福尼亚州所有在公司工作且员工超过50名的&#x200B;**已知潜在客户**。
 
-PICC
+1. 抓取&#x200B;**Lead State**&#x200B;属性并将其拖动到右侧。
+
+   ![](assets/dialogues-4.png)
 
 1. __ 默认设置Isis。在选择值字段中，键入CA（您还可以单击下拉菜单并从列表中选择）。
 
-PICC
+   ![](assets/dialogues-5.png)
 
-1. 抓取“公司规模”属性并将其拖动到右侧。
+1. 抓取&#x200B;**公司大小**&#x200B;属性，并将其拖动到其显示&#x200B;_的位置，在此处拖放属性_。
 
-PICC
+   ![](assets/dialogues-6.png)
 
-1. 单击运算符下拉列表，然后选择大于。
+   >[!NOTE]
+   >
+   >您还可以通过单击属性的&#x200B;**+**&#x200B;图标来选择属性。
 
-PICC
+1. 单击运算符下拉列表，然后选择&#x200B;**大于**。
+
+   ![](assets/dialogues-7.png)
 
 1. 键入50，然后单击屏幕上的其他位置进行保存。
 
-PICC
+   ![](assets/dialogues-8.png)
 
-如何捕获ANON潜在客户
+**匿名潜在客户**
 
-注意 — 可能提到推断为何使用/显示用例时，潜在客户电子邮件为空
+有一种简单的方法可以专门定位尚未在数据库中的潜在客户。 在此示例中，我们定向位于纽约地区的所有&#x200B;**匿名潜在客户**。
+
+1. 获取&#x200B;**潜在客户电子邮件**&#x200B;属性，并将其拖动到右侧。
+
+   ![](assets/dialogues-9.png)
+
+1. 单击运算符下拉列表，然后选择&#x200B;**Is Empty**。
+
+   ![](assets/dialogues-10.png)
+
+1. 抓取&#x200B;**Intercuted State**&#x200B;属性，并将其拖动到其显示&#x200B;_的位置，在此处拖放属性_。
+
+   ![](assets/dialogues-11.png)
+
+   >[!NOTE]
+   >
+   >解释一下。
+
+1. __ 默认设置Isis。在选择值字段中，键入NY（您也可以单击下拉菜单并从列表中选择）。
+
+   ![](assets/dialogues-12.png)
 
 ## 添加群组 {#add-groups}
 
@@ -70,7 +96,7 @@ PICC
 
 ## Target {#target}
 
-在这里，您可以输入希望显示特定对话框的特定URL。
+在这里，您可以输入希望显示特定对话框的URL。
 
 可接受的格式：
 
@@ -110,8 +136,6 @@ PICC
   <td>这是访客看不到的唯一一张卡。 您可以确定在特定聊天中的哪个时间点实现目标(例如：如果您的目标是收集访客的电子邮件，请将目标卡片放在流中信息捕获之后)。</td>
  </tr>
 </table>
-
-可能属于自己的部分
 
 显示下面的示例
 
