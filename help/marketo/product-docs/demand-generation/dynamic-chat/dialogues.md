@@ -3,9 +3,9 @@ description: 对话框 — Marketo文档 — 产品文档
 title: 对话框
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ PICC
 
 >[!NOTE]
 >
->说明优先级
+>优先级决定了对话框在列表中的显示位置(例如：优先级= 1表示它将位于最顶部)。
 
 ## 受众标准 {#audience-criteria}
 
@@ -114,3 +114,7 @@ PICC
 可能属于自己的部分
 
 显示下面的示例
+
+## 报表 {#reports}
+
+文本

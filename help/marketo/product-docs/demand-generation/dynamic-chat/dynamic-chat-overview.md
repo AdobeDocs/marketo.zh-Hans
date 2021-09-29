@@ -3,9 +3,9 @@ description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -18,37 +18,9 @@ ht-degree: 0%
 >
 >动态聊天当前正在推出中，所有订阅都因为在DATE之前有权访问。
 
-## 设置动态聊天 {#access-dynamic-chat}
-
-添加图块后……请按照以下步骤开始操作。
-
-1. 在我的Marketo中，单击&#x200B;**动态聊天**&#x200B;拼贴。
-
-   PICC
-
-   >[!NOTE]
-   >
-   >如果你看不到……联系您的Marketo管理员)。
-
-1. 如果您之前使用Adobe ID访问过应用程序，则会直接转到动态聊天。 如果没有，则[设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)。
-
-   PICC
-
-1. 要连接Marketo实例，请选择&#x200B;**集成**。
-
-   PICC
-
-1. 单击？在此处插入文本？。
-
-   PICC
-
-   >[!NOTE]
-   >
-   >完成同步可能需要5到8小时，具体时间取决于数据库的大小。 平均同步时间为60分钟。
-
 ## 集成 {#integrations}
 
-集成是您在访问动态聊天时要访问的第一个选项卡。 您可以在此同步Marketo订阅，从而利用Marketo数据库数据来识别站点/聊天访客（[请参阅上面的步骤3](#access-dynamic-chat)）。
+动态聊天的一个关键组件是，它能够与Marketo订阅本地接口。 为了利用此集成的全部功能，您首先需要启动数据同步。 完成初始同步（[一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)）最长可能需要24小时。
 
 ## 对话框 {#dialogues}
 
@@ -68,23 +40,27 @@ ht-degree: 0%
 
 在这里，您将看到网站访客通过各种对话安排的所有约会。 在此，您将找到预订约会的潜在客户的电子邮件地址、他们与哪位座席预订了约会、预定何时进行约会以及会议是否已发生。
 
-PICC?
-
 ## 路由 {#routing}
 
 在这里，您可以看到所有已连接其日历的座席的列表，以及这些座席将向网站访客显示的顺序会议按循规则方式进行，因此，如果您有五位座席和三位座席参加了最后一次会议，那么四位座席将获得下一次会议，其后五位，然后返回一位座席。
 
 ## 常见问题解答 {#faq}
 
-有人吗？ 洛尔……
-
 **动态聊天是否允许进行实时聊天？**
 
 不会，它仅使用预先确定的响应。
 
+**如何定位匿名潜在客户？**
+
+在对话框中，您需要使用&#x200B;_Lead Email is Empty_&#x200B;属性。
+
 **是否支持AI/NLP功能？**
 
 我们不支持AI/NLP功能。
+
+**数据会存储多长时间才能进行报告？**
+
+90天。
 
 **动态聊天除英语以外，还提供任何语言吗？**
 

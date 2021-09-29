@@ -3,9 +3,9 @@ description: 配置 — Marketo文档 — 产品文档
 title: 配置
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 要开始配置，请单击&#x200B;**Configuration**。
 
-PICC
+![](assets/configuration-1.png)
 
 有几个不同的自定义选项。
 
-PICC（整个动画框）
+![](assets/configuration-2.png)
 
 ## 样式选项卡 {#style-tab}
 
@@ -30,35 +30,33 @@ PICC（整个动画框）
 
 每个类别的颜色由[十六进制颜色值](https://color.adobe.com/create/color-wheel)(例如，白色= #ffffff、红色= #bf1932等)确定。
 
-PICC
+![](assets/configuration-3.png)
 
-锚点允许网站访客打开/关闭聊天框。 您可以选择希望该图标显示在右下方还是左下方。 您还可以增加/减少填充（聊天框和图标之间的间距量）。
+锚点允许网站访客打开/关闭聊天框。 您可以选择希望该图标显示在右下方还是左下方。 您还可以增加/减少填充（图标与网页底部之间的间距量）。
 
-锚点的PICC
-
-内边距的PICC
+![](assets/configuration-4.png)
 
 **代理设置**
 
 在“代理设置”中，您可以向动态消息框中添加标签(例如：“Adobe机器人”)。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。
 
-设置名称的PICC
+![](assets/configuration-5.png)
 
-设置延迟的PICC
+完成更改后，请记得单击&#x200B;**Save**。
 
-选择头像的PICC
+![](assets/configuration-6.png)
 
 ## “隐私”选项卡 {#privacy-tab}
 
 单击&#x200B;**Privacy**&#x200B;选项卡，以添加/编辑网站隐私政策的URL（可选）。
 
-PICC
+![](assets/configuration-7.png)
 
 ## “安装”选项卡 {#installation-tab}
 
 为了让聊天机器人显示在您的网站上，您首先需要安装动态聊天JavaScript代码片段。 单击此选项卡以查找/复制必需的代码。 如果您不熟悉此操作，请联系您的Web团队或IT部门以寻求帮助。
 
-PICC
+![](assets/configuration-8.png)
 
 >[!NOTE]
 >

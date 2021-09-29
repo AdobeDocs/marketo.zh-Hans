@@ -3,9 +3,9 @@ description: 概述 — Marketo文档 — 产品文档
 title: 概述
 hide: true
 hidefromtoc: true
-source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -98,3 +98,9 @@ Adobe IMS当前不支持任何类似Marketo设备授权功能的内容。
 **对于Adobe IMS，我们是否可以选择使用Adobe ID、Enterprise ID或Federated ID?**
 
 是，您可以确定要获得组织支持的身份类型。 有关更多信息，请参见[此处](https://helpx.adobe.com/enterprise/using/identity.html)和[此处](https://helpx.adobe.com/enterprise/using/set-up-identity.html)。
+
+>[!MORELIKETHIS]
+>
+>* [管理员设置](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+>* [添加或删除产品管理员](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>* [添加或删除用户](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
