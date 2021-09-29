@@ -3,9 +3,9 @@ description: 对话框 — Marketo文档 — 产品文档
 title: 对话框
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,9 @@ ht-degree: 0%
 
 **创建流**
 
-要创建的流组合有&#x200B;_许多_。 在本例中，我们将提问并准备。
+要创建的流组合有&#x200B;_许多_。 在本例中，我们将提出是或否问题，并准备一些响应。
+
+示例
 
 ## 报表 {#reports}
 
