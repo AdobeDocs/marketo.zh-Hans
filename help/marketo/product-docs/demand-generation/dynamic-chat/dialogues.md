@@ -3,7 +3,7 @@ description: 对话框 — Marketo文档 — 产品文档
 title: 对话框
 hide: true
 hidefromtoc: true
-source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
+source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 对话框 {#dialogues}
 
-对话是您将设置的单独聊天对话。 了解如何以可视方式自定义页面、确定页面显示内容，以及决定说什么以及看到内容的人。
+对话是单独的聊天对话。 了解如何以可视方式自定义页面、确定页面显示内容，以及决定说什么以及看到内容的人。
 
 ## 创建新对话框 {#create-a-new-dialogue}
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->优先级决定了对话框在列表中的显示位置(例如：优先级= 1表示它将位于最顶部)。
+>优先级决定了对话框在列表中的显示位置(例如：优先级1表示它将处于最高位置)。
 
 ## 受众标准 {#audience-criteria}
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >解释一下。
+   >当某人访问您的网站时， [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)会将其cookie并放入系统中。 我们在一个特殊的数据库中查找他们的IP，并推断出各种好信息。
 
 1. __ 默认设置Isis。在选择值字段中，键入NY（您也可以单击下拉菜单并从列表中选择）。
 
@@ -137,8 +137,38 @@ ht-degree: 0%
  </tr>
 </table>
 
-显示下面的示例
+**创建流**
+
+要创建的流组合有&#x200B;_许多_。 在本例中，我们将提问并准备。
 
 ## 报表 {#reports}
 
-文本
+在“报表”选项卡中，查看过去90天的数据。 每个类别在下面进行定义。
+
+<table>
+ <tr>
+  <td><strong>触发总数</strong></td>
+  <td>每当访客符合条件/显示对话框时，都会递增。
+</td>
+ </tr>
+ <tr>
+  <td><strong>已参与</strong></td>
+  <td>每当访客单击聊天机器人锚点以打开对话框时，都会递增。</td>
+ </tr>
+ <tr>
+  <td><strong>已完成</strong></td>
+  <td>访客每次到达对话框中任何分支的结尾时递增。</td>
+ </tr>
+ <tr>
+  <td><strong>捕获的商机</strong></td>
+  <td>在对话框中，访客每次提供有效的电子邮件地址时，都会递增。</td>
+ </tr>
+ <tr>
+  <td><strong>已预订的会议</strong></td>
+  <td>每次访客通过聊天机器人成功计划约会时，都会递增。</td>
+ </tr>
+ <tr>
+  <td><strong>实现的目标</strong></td>
+  <td>在任何对话框流中，当访客达到目标时递增。</td>
+ </tr>
+</table>
