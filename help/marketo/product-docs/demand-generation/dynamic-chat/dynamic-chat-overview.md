@@ -3,9 +3,9 @@ description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->动态聊天当前正在推出中，所有订阅都因为在DATE之前有权访问。
+>动态聊天正在逐步推出，所有订阅都将在2022年春季之前获得访问权。 有关更多信息，请联系您的客户成功经理。
 
 ## 集成 {#integrations}
 
-动态聊天的一个关键组件是，它能够与Marketo订阅本地接口。 为了利用此集成的全部功能，您首先需要启动数据同步。 完成初始同步（[一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)）最长可能需要24小时。
+动态聊天的一个关键组件是，它能够与Marketo订阅本地接口。 为了利用此集成的全部功能，您首先需要启动数据同步。 根据Marketo数据库的大小，完成初始同步[一次同步](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)的数据可能最多需要24小时。 平均同步时间不到2小时。
+
+会同步以下内容：
+
+* 潜在客户字段数据
+* 公司字段数据
+* 活动数据
 
 ## 对话框 {#dialogues}
 

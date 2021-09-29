@@ -3,9 +3,9 @@ description: 初始设置 — Marketo文档 — 产品文档
 title: 初始设置
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 在Marketo中添加权限 {#add-permissions-in-marketo}
 
-在的Admin Console中添加用户后，必须授予Marketo中的权限。
+在中的Admin Console中添加用户后，必须在Marketo中授予用户权限，以便他们能够从Marketo访问动态聊天快捷键。
 
 1. 在Marketo中，单击&#x200B;**Admin**。
 
@@ -46,4 +46,4 @@ ht-degree: 0%
 >
 >请务必按照上面列出的顺序执行步骤。 如果某人先在Marketo中获得了权限，则他们将看到“动态聊天”拼贴，但没有用户访问权限。
 
-下一步是[访问动态聊天](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)。
+下一步是[将Dynamic Chat连接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)。
