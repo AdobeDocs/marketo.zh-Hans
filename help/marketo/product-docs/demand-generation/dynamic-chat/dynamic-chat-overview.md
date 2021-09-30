@@ -3,9 +3,9 @@ description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
+source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->动态聊天正在逐步推出，所有订阅都将在2022年春季之前获得访问权。 有关更多信息，请联系您的客户成功经理。
+>动态聊天正在逐步推出，目前的可用性有限。 此页面将在正式发布(GA)详细信息之后进行更新。
 
 ## 集成 {#integrations}
 
