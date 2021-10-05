@@ -3,16 +3,16 @@ unique-page-id: 8783917
 description: 模板5B - Marketo文档 — 产品文档
 title: 模板5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
-source-git-commit: 6fdffce0ab2b9cd3db72122260c1e105fe2ea20e
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # 模板5B {#template-5b}
 
-[下载模板5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+右键单击[下载模板5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 五个正文部分（可选）
 * 页脚（可选）
 
-**单击下面的可下载此模板：**
+**右键单击下面的可下载此模板：**
 
 [模板5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
