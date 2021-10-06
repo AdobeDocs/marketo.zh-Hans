@@ -3,7 +3,7 @@ description: 添加或删除聊天用户 — Marketo文档 — 产品文档
 title: 添加或删除聊天用户
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您有多个Marketo订阅，请在下一步之前选择所需的订阅)。
+   >如果您有多个Marketo订阅，请在下一步之前选择所需的订阅。
 
 1. 单击&#x200B;**Users**&#x200B;选项卡。
 
