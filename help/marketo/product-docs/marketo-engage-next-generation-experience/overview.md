@@ -2,9 +2,9 @@
 description: 概述 — Marketo文档 — 产品文档
 title: 概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '491'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 1%
 
 **图标**
 
-新界面具有改进和扩展的图像处理功能。 请在此处了解这些信息：[新图标术语表](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)。
+新界面具有改进和扩展的图像处理功能。 请在此处了解这些信息：[图标术语表](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md)。
 
 ![](assets/overview-new-icons.png)
 
@@ -191,7 +191,7 @@ ht-degree: 1%
    <td>列出的所有以前的超球项目</td> 
   </tr>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>使用它提供有关MEUE体验的反馈</td> 
   </tr>
   <tr>
