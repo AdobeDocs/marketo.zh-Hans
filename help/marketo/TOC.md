@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
+source-git-commit: 52f98ebf45079263a6fb0751fed47755d757a6f4
 workflow-type: tm+mt
-source-wordcount: '8029'
+source-wordcount: '8001'
 ht-degree: 0%
 
 ---
@@ -1173,11 +1173,8 @@ ht-degree: 0%
             + [电子邮件中的抄送或密送](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [标记为垃圾邮件的电子邮件](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
             + [在电子邮件中发送文件附件](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
-            + [失败投放中的限制错误消息](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
-            + [限制错误](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
          + 实时馈送{#the-live-feed}
             + [收件人位置不正确](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
-            + [实时信息源图标术语表](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
             + [实时信息源概述](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + 取消订阅{#unsubscribes}
             + [自定义取消订阅链接消息](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1224,10 +1221,7 @@ ht-degree: 0%
          + [Sales Connect和GDPR合规性](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + 管理联系人{#managing-contacts}
             + [对人员执行批量操作](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-            + [将您的Marketo潜在客户与Sales Connect潜在客户连接起来](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
-            + [与组连接](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
             + [创建和删除联系人](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
-            + [删除群组](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
             + [组类型](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Sales Connect如何处理电子邮件去重复](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [如何创建联系人组](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
