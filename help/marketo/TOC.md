@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: aabb8de6ed67334e853221be623f649d0698edc0
 workflow-type: tm+mt
-source-wordcount: '8004'
+source-wordcount: '7956'
 ht-degree: 0%
 
 ---
@@ -1224,11 +1224,6 @@ ht-degree: 0%
             + [创建和删除联系人](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [组类型](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Sales Connect如何处理电子邮件去重复](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
-            + [如何创建联系人组](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
-            + [如何设置自动取消订阅的格式](product-docs/marketo-sales-connect/people/managing-contacts/how-to-format-auto-unsubscribes.md)
-            + [如何从Salesforce导入联系人](product-docs/marketo-sales-connect/people/managing-contacts/how-to-import-contacts-from-salesforce.md)
-            + [如何将两个组合并在一起](product-docs/marketo-sales-connect/people/managing-contacts/how-to-merge-two-groups-together.md)
-            + [如何共享群组](product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
             + [通过CSV导入联系人](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [管理群组](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [人员页面列](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
@@ -1246,21 +1241,15 @@ ht-degree: 0%
       + 任务{#tasks}
          + [首次将销售连接任务与Salesforce同步](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + 模板{#templates}
-         + [添加附件](product-docs/marketo-sales-connect/templates/add-an-attachment.md)
-         + [添加图像](product-docs/marketo-sales-connect/templates/add-an-image.md)
          + [向模板添加自动取消订阅](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [添加超链接文本](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [添加视频内容](product-docs/marketo-sales-connect/templates/add-video-content.md)
          + [存档模板](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [创建跟进电子邮件](product-docs/marketo-sales-connect/templates/create-a-follow-up-email.md)
-         + [创建跟踪模板](product-docs/marketo-sales-connect/templates/create-a-follow-up-template.md)
          + [创建新类别](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
          + [创建新模板](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
          + [自定义模板视图](product-docs/marketo-sales-connect/templates/customize-template-view.md)
          + [删除模板类别](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
          + [删除模板](product-docs/marketo-sales-connect/templates/delete-a-template.md)
          + [编辑模板类别](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [启用类别共享](product-docs/marketo-sales-connect/templates/enable-category-sharing.md)
          + [收藏模板](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
          + [合并和删除重复类别](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [推荐的模板](product-docs/marketo-sales-connect/templates/recommended-templates.md)
