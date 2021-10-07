@@ -2,7 +2,7 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 0%
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 **新的电子邮件、Web活动、匿名Web活动功能板**:我们添加了新的销售功能板，以告知销售者他们的潜在客户以及联系人最近的电子邮件和网络活动。现在，借助新的过滤功能，功能板可以深入分析帐户或特定帐户的完整列表的电子邮件打开数、点击数和网页访问量。 Marketo Engage跟踪所有Web活动并为销售人员提供关键信息，从而将匿名流量转化为商机。 销售者能够更快地个性化参与并将潜在客户转化为销售，因为他们能够更好地了解潜在客户行为，并根据所有接触点的相关性采取行动。
 
-**适用于Salesforce CRM的Sales Insight**
+**面向Salesforce的销售分析**
 
 **帐户和机会级别的最佳选择**:Sales Insight现在允许销售代表查看他们拥有的帐户或销售机会上所有联系人的最佳下注，即使该联系人被分配给其他团队成员也是如此。这使客户和机会所有者能够完全了解相关联系人的活动，并帮助他们基于对帐户或机会的更全面的视图采取行动。
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-**相关潜在客户弃用/Munchkin Beta 161更新**:2021年9月7日，161版的Munchkin开始在启用Munchkin Beta的情况下向10%的用户推出，随后在9月16日为50%，在9月30日为100%。此更改会影响Marketo Engage登陆页面，并且提供给外部登陆页面的文件munchkin-beta.js版本会从最新版本已推出的订阅加载。 此版本完全弃用了Munchkin关联潜在客户方法，该方法允许将个人数据提交到Marketo Engage订阅，并将Web浏览历史记录与已知的人员记录关联。 正在删除关联潜在客户，以支持更新且更安全的替代方案，例如Forms JS API、表单提交API和关联潜在客户REST API。 [进一步了解此弃用功能](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)。
+**相关潜在客户弃用/Munchkin Beta 161更新**:2021年9月7日，161版的Munchkin开始在启用Munchkin Beta的情况下向10%的用户推出，随后在9月16日为50%，在9月30日为100%。此更改会影响Marketo Engage登陆页面，并且提供给外部登陆页面的文件munchkin-beta.js版本会从最新版本已推出的订阅加载。 此版本完全弃用了Munchkin关联潜在客户方法，该方法允许将个人数据提交到Marketo Engage订阅，并将Web浏览历史记录与已知的人员记录关联。 正在删除关联潜在客户，以支持更新且更安全的替代方案，例如Forms JS API、表单提交API和关联潜在客户REST API。 [请在此处了解有关此弃用的更多信息](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)。
