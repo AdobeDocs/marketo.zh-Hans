@@ -1,10 +1,11 @@
 ---
 description: 销售活动术语表 — Marketo文档 — 产品文档
 title: 销售活动术语表
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+source-git-commit: 9677c26004a567bb53fef452304665eb73855568
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 2%
+source-wordcount: '480'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +27,7 @@ ht-degree: 2%
   <th>属性</th>
  </tr>
  <tr>
-  <th rowspan="3">发送销售电子邮件</th>
+  <th rowspan="9">发送销售电子邮件</th>
   <td>发送者</td>
  </tr>
  <tr>
@@ -36,7 +37,25 @@ ht-degree: 2%
   <td>模板ID</td>
  </tr>
  <tr>
-  <th rowspan="3">打开销售电子邮件</th>
+  <td>销售模板URL</td>
+ </tr>
+ <tr>
+  <td>销售活动URL</td>
+ </tr>
+ <tr>
+  <td>销售模板名称</td>
+ </tr>
+ <tr>
+  <td>电子邮件主题</td>
+ </tr>
+ <tr>
+  <td>销售活动名称</td>
+ </tr>
+ <tr>
+  <td>Marketo销售人员ID</td>
+ </tr>
+ <tr>
+  <th rowspan="9">打开销售电子邮件</th>
   <td>发送者</td>
  </tr>
  <tr>
@@ -46,7 +65,25 @@ ht-degree: 2%
   <td>模板ID</td>
  </tr>
  <tr>
-  <th rowspan="4">点击了销售电子邮件</th>
+  <td>销售模板URL</td>
+ </tr>
+ <tr>
+  <td>销售活动URL</td>
+ </tr>
+ <tr>
+  <td>销售模板名称</td>
+ </tr>
+ <tr>
+  <td>电子邮件主题</td>
+ </tr>
+ <tr>
+  <td>销售活动名称</td>
+ </tr>
+ <tr>
+  <td>Marketo销售人员ID</td>
+ </tr>
+ <tr>
+  <th rowspan="10">点击了销售电子邮件</th>
   <td>链接</td>
  </tr>
  <tr>
@@ -58,28 +95,36 @@ ht-degree: 2%
  <tr>
   <td>模板ID</td>
  </tr>
+ <tr>
+  <td>销售模板URL</td>
+ </tr>
+ <tr>
+  <td>销售活动URL</td>
+ </tr>
+ <tr>
+  <td>销售模板名称</td>
+ </tr>
+ <tr>
+  <td>电子邮件主题</td>
+ </tr>
+ <tr>
+  <td>销售活动名称</td>
+ </tr>
+ <tr>
+  <td>Marketo销售人员ID</td>
+ </tr>
 <tr>
-  <th rowspan="2">已收到销售电子邮件</th>
+  <th rowspan="3">已收到销售电子邮件</th>
   <td>接收者</td>
  </tr>
  <tr>
   <td>源</td>
  </tr>
  <tr>
-  <th rowspan="4">销售电子邮件退回</th>
-  <td>详细信息</td>
+  <td>人员ID(MSC)</td>
  </tr>
  <tr>
-  <td>模板ID</td>
- </tr>
- <tr>
-  <td>电子邮件</td>
- </tr>
- <tr>
-  <td>发送者</td>
- </tr>
- <tr>
-  <th rowspan="7">已接到销售电话</th>
+  <th rowspan="11">已接到销售电话</th>
   <td>销售电话由</td>
  </tr>
  <tr>
@@ -99,6 +144,18 @@ ht-degree: 2%
  </tr>
  <tr>
   <td>源</td>
+ </tr>
+ <tr>
+  <td>销售呼叫持续时间</td>
+ </tr>
+ <tr>
+  <td>销售电话记录URL</td>
+ </tr>
+  <tr>
+  <td>销售电话应答者</td>
+ </tr>
+ <tr>
+  <td>Marketo销售人员ID(MSC)</td>
  </tr>
  <tr>
   <th rowspan="6">添加到Sales Campaign</th>
