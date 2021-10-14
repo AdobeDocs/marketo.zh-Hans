@@ -3,9 +3,9 @@ description: Web活动 — Marketo文档 — 产品文档
 title: Web活动
 hide: true
 hidefromtoc: true
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: 5bfe82a966b2d89e214b3ff0107c84f9ae712d1d
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 PICC
 
-# 匿名Web活动 {#anonymous-web-activities}
+## 匿名Web活动 {#anonymous-web-activities}
 
 “匿名Web活动”选项卡显示所有&#x200B;**anonymous**&#x200B;网页访客Web活动。 查看引用页面访问计数的最新Web活动。
