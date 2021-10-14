@@ -2,9 +2,9 @@
 description: 销售活动术语表 — Marketo文档 — 产品文档
 title: 销售活动术语表
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 9677c26004a567bb53fef452304665eb73855568
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -121,7 +121,7 @@ ht-degree: 1%
   <td>源</td>
  </tr>
  <tr>
-  <td>人员ID(MSC)</td>
+  <td>Marketo销售人员ID</td>
  </tr>
  <tr>
   <th rowspan="11">已接到销售电话</th>
@@ -155,7 +155,7 @@ ht-degree: 1%
   <td>销售电话应答者</td>
  </tr>
  <tr>
-  <td>Marketo销售人员ID(MSC)</td>
+  <td>Marketo销售人员ID</td>
  </tr>
  <tr>
   <th rowspan="6">添加到Sales Campaign</th>
@@ -216,6 +216,10 @@ ht-degree: 1%
   <tr> 
    <td><strong>链接</strong></td> 
    <td>已点击的URL。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketo销售人员ID</strong></td> 
+   <td>Sales Connect中人员记录的唯一ID。</td> 
   </tr> 
   <tr> 
    <td><strong>接收者</strong></td> 
