@@ -3,9 +3,9 @@ description: 对话框 — Marketo文档 — 产品文档
 title: 对话框
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/dialogues-4.png)
 
-1. __ 默认设置Isis。在选择值字段中，键入CA（您还可以单击下拉菜单并从列表中选择）。
+1. __ 默认设置ISIS。在选择值字段中，键入CA（您还可以单击下拉菜单并从列表中选择）。
 
    ![](assets/dialogues-5.png)
 
@@ -82,17 +82,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >当某人访问您的网站时， [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)会将其cookie并放入系统中。 我们在一个特殊的数据库中查找他们的IP，并推断出各种好信息。
+   >当某人访问您的网站时， [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)会将其cookie并放入系统中。 我们在一个特殊的数据库中查找他们的IP信息，并推断出各种好信息。
 
-1. __ 默认设置Isis。在选择值字段中，键入NY（您也可以单击下拉菜单并从列表中选择）。
+1. __ 默认设置ISIS。在选择值字段中，键入NY（您也可以单击下拉菜单并从列表中选择）。
 
    ![](assets/dialogues-12.png)
 
 ## 添加群组 {#add-groups}
 
-如果您希望具有所有特定属性以及其他属性的“任意”，则还可以选择对属性进行分组。
+如果您希望具有所有特定属性以及“全部或任意”其他属性，则还可以选择对属性进行分组。 您可以添加多个群组。
 
-完成此操作
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## Target {#target}
 
@@ -139,9 +141,7 @@ ht-degree: 0%
 
 **创建流**
 
-要创建的流组合有&#x200B;_许多_。 在本例中，我们将提出是或否问题，并准备一些响应。
-
-示例
+要创建的流组合有&#x200B;_许多_。 让我们仅查看本文](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)中的一个示例[。
 
 ## 报表 {#reports}
 

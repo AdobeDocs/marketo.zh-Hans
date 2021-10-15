@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,10 @@ ht-degree: 0%
 **_在整个季度发布_**
 
 以下功能处于非季度周期，将在未来几个月内发布。
+
+**用于将受众共享到Adobe Experience Platform的本机Marketo Engage连接器**:在Marketo Engage中为通过本机目标连接器在Adobe Experience Platform中创建的受众区段启用多渠道活动编排。连接器使用电子邮件地址或ECID来匹配Adobe Experience Platform配置文件，以Marketo Engage人员记录，从而在应用程序之间共享区段。 Marketo Engage静态列表会自动填充，以便营销人员能够通过高度个性化的消息传送来访问目标受众或启动工作流。 利用人员受众的帐户和机会上下文以及更完整的实时统一档案，在Experience Platform中激活。
+
+**Adobe Experience Platform Marketo数据源连接器**:Adobe Experience Platform和Marketo Engage的用户将能够利用Marketo Source Connector将数据从Marketo引入AEP。您将能够在AEP中从Marketo流式传输数据（及其更改），以保持两个产品之间的数据一致。 可通过“源”目录查看Marketo连接器，该目录列在“Adobe应用程序”下。
 
 ## 销售分析 {#sales-insight}
 
