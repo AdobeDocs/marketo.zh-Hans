@@ -3,9 +3,9 @@ description: 对话框 — Marketo文档 — 产品文档
 title: 对话框
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -34,13 +34,13 @@ ht-degree: 0%
 
 ## 受众标准 {#audience-criteria}
 
-与Marketo智能列表类似，受众标准属性允许您定义目标受众。 您可以使用推断出的、潜在客户或公司属性（或其组合）来定位已知或未知的潜在客户。
+与Marketo智能列表类似，受众标准属性允许您定义目标受众。 您可以使用推断出的、人员或公司属性（或其组合）来定位已知或未知的人员。
 
-**已知潜在客户**
+**已知人员**
 
-有许多&#x200B;_属性组合可供选择。_&#x200B;在此示例中，我们定位的是加利福尼亚州所有在公司工作且员工超过50名的&#x200B;**已知潜在客户**。
+有许多&#x200B;_属性组合可供选择。_&#x200B;在本例中，我们定位的是加利福尼亚州所有在公司工作且员工超过50名的&#x200B;**已知人员**。
 
-1. 抓取&#x200B;**Lead State**&#x200B;属性并将其拖动到右侧。
+1. 抓取&#x200B;**人员状态**&#x200B;属性并将其拖动到右侧。
 
    ![](assets/dialogues-4.png)
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
    ![](assets/dialogues-8.png)
 
-**匿名潜在客户**
+**匿名人员**
 
-有一种简单的方法可以专门定位尚未在数据库中的潜在客户。 在此示例中，我们定向位于纽约地区的所有&#x200B;**匿名潜在客户**。
+有一种简单的方法可以专门定位尚未在数据库中的人员。 在此示例中，我们定位的是位于纽约地区的所有&#x200B;**匿名人员**。
 
-1. 获取&#x200B;**潜在客户电子邮件**&#x200B;属性，并将其拖动到右侧。
+1. 获取&#x200B;**人员电子邮件**&#x200B;属性，并将其拖动到右侧。
 
    ![](assets/dialogues-9.png)
 
@@ -131,17 +131,17 @@ ht-degree: 0%
  </tr>
  <tr>
   <td><strong>日程安排计划程序</strong></td>
-  <td>为访客提供可用日期的日历以安排后续活动。 日历可用性反映[下一个代理在行](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)。</td>
+  <td>为访客提供可用日期的日历以安排后续活动。 日历可用性反映了<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">行</a>中的下一个代理。</td>
  </tr>
  <tr>
   <td><strong>意愿</strong></td>
-  <td>这是访客看不到的唯一一张卡。 您可以确定在特定聊天中的哪个时间点实现目标(例如：如果您的目标是收集访客的电子邮件，请将目标卡片放在流中信息捕获之后)。</td>
+  <td>这是访客看不到的唯一一张卡。 您可以确定在特定聊天中的哪个时间点实现目标(例如：如果您的目标是收集访客的电子邮件，请将目标卡片放在流中信息捕获之后立即放置。)</td>
  </tr>
 </table>
 
 **创建流**
 
-要创建的流组合有&#x200B;_许多_。 让我们仅查看本文](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)中的一个示例[。
+有许多&#x200B;_可能的流组合。_&#x200B;让我们看一下本文](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)中的一个示例[。
 
 ## 报表 {#reports}
 
@@ -162,7 +162,7 @@ ht-degree: 0%
   <td>访客每次到达对话框中任何分支的结尾时递增。</td>
  </tr>
  <tr>
-  <td><strong>捕获的商机</strong></td>
+  <td><strong>已捕获人员</strong></td>
   <td>在对话框中，访客每次提供有效的电子邮件地址时，都会递增。</td>
  </tr>
  <tr>
@@ -174,3 +174,7 @@ ht-degree: 0%
   <td>在任何对话框流中，当访客达到目标时递增。</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[创建流](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)

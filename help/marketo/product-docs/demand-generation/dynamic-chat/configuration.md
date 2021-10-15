@@ -3,9 +3,9 @@ description: 配置 — Marketo文档 — 产品文档
 title: 配置
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -60,4 +60,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo支持未设置为协助对HTML进行故障诊断。 如需HTML帮助，请咨询Web开发人员。
+>Marketo支持未设置为有助于对HTML进行故障诊断。 如需HTML帮助，请咨询Web开发人员。

@@ -3,7 +3,7 @@ description: 将动态聊天连接到Marketo - Marketo文档 — 产品文档
 title: 将动态聊天连接到Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -32,8 +32,10 @@ ht-degree: 0%
 
    PICC（获取全新子页面时的屏幕截图）
 
-   >[!NOTE]
-   >
-   >完成同步可能需要5到8小时，具体时间取决于数据库的大小。 平均同步时间为60分钟。 验证时间范围
+>[!NOTE]
+>
+>完成同步可能需要5到8小时，具体时间取决于数据库的大小。 平均同步时间为60分钟。 验证时间范围
 
-相关文章
+>[!MORELIKETHIS]
+>
+>[初始设置](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)

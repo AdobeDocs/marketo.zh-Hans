@@ -3,18 +3,18 @@ description: 创建流 — Marketo文档 — 产品文档
 title: 创建流
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # 创建流 {#create-a-stream}
 
-要创建的流组合有&#x200B;_许多_。 下面是营销人员询问网站访客是否有任何问题的一个示例。 如果是，则访客可以计划约会。 如果否，则访客可以选择加入邮件列表以备将来通信。 目标是计划约会或收集访客的电子邮件。
+您可以创建许多&#x200B;_流组合。_&#x200B;下面是营销人员询问网站访客是否有任何产品问题的一个示例。 如果是，则访客可以计划约会。 如果否，则访客可以选择加入邮件列表以备将来通信。 目标是计划约会或收集访客的电子邮件。
 
-1. 在[创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)后，单击流设计器选项卡。
+1. 在[创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)后，单击&#x200B;**流设计器**&#x200B;选项卡。
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ ht-degree: 0%
      <td>访客看到的消息提示他们提供信息。</td>
     </tr>
     <tr>
-     <td><strong>帮助访客查看要输入内容的示例文本。</strong></td>
-     <td>文本</td>
+     <td><strong>占位符</strong></td>
+     <td>帮助访客查看要输入内容的示例文本。</td>
     </tr>
     <tr>
      <td><strong>将响应映射到属性</strong></td>
@@ -116,3 +116,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >在单击发布之前，请记住确保已[输入目标URL](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target)。
+
+>[!MORELIKETHIS]
+>
+>[对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)
