@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 0%
 ## Sales Connect {#sales-connect}
 
 ![（星号）](assets/yellow-star.png)
-
-**电子邮件连接限制(GA)**:通过对Sales Connect的电子邮件连接限制，提高电子邮件投放能力并扩展个性化销售通信。这项创新技术可自动管理电子邮件发送时间，为Exchange和Gmail用户创建无缝体验。 减少或消除使用第三方批量电子邮件发送应用程序的情况，并满怀信心地从Sales Connect发送所有电子邮件。
 
 **增强的销售活动分析**:新的电子邮件回复跟踪活动“销售电子邮件回复”跟踪收件人与自动与Marketo Engage同步的电子邮件的交互。此外，“源”属性已从“Tout”更新为“销售应用程序”。 此活动可通过Marketo EngageREST API或批量导出进行导出和报告，并在过滤器和触发器上提供，作为智能列表的其他限制，从而扩展了智能促销活动中的个性化选项。
 
