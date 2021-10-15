@@ -3,9 +3,9 @@ description: 创建流 — Marketo文档 — 产品文档
 title: 创建流
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 1. 在[创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)后，单击流设计器选项卡。
 
-   PICC
+   ![](assets/create-a-stream-1.png)
 
 1. 拖放问题卡。
 
-   PICC
+   ![](assets/create-a-stream-2.png)
 
 1. 在“查特机器人响应”下，回答您的问题。
 
-   PICC
+   ![](assets/create-a-stream-3.png)
 
    >[!NOTE]
    >
@@ -32,20 +32,87 @@ ht-degree: 0%
 
 1. 输入用户响应，然后单击&#x200B;**Save**。
 
-   PICC
+   ![](assets/create-a-stream-4.png)
 
-1. 对于“是”，我们要计划日程安排，因此在该选项之后，请将其拖动到日程安排计划程序卡上。
+1. 对于“是”，我们要计划日程安排，因此该选项下方会拖动到日程安排计划程序卡上。
 
-   PICC
+   ![](assets/create-a-stream-5.png)
 
 1. 在右侧的列中，单击&#x200B;**Save**。
 
-   PICC
+   ![](assets/create-a-stream-6.png)
 
 1. 由于这是一个目标，请将目标卡拖动到日程安排计划程序下方。
 
-   PICC
+   ![](assets/create-a-stream-7.png)
 
 1. 命名您的目标（或选择现有目标），然后单击&#x200B;**保存**。
 
-   PICC
+   ![](assets/create-a-stream-8.png)
+
+1. 对于“否”，我们希望了解他们是否将加入邮件列表，因此，在下面，该选项会拖动到另一张问题卡上。
+
+   ![](assets/create-a-stream-9.png)
+
+1. 输入您的响应，并为访客添加响应选项。 完成后，单击&#x200B;**Save**。
+
+   ![](assets/create-a-stream-10.png)
+
+   >[!NOTE]
+   >
+   >您可以通过单击&#x200B;**Add Response**&#x200B;添加更多响应。
+
+1. 在“是”响应下方，将鼠标拖动到“信息捕获”卡上，以便收集访客的电子邮件。
+
+   ![](assets/create-a-stream-11.png)
+
+1. 单击&#x200B;**类型**&#x200B;下拉列表，然后选择&#x200B;**电子邮件**。
+
+   ![](assets/create-a-stream-12.png)
+
+1. 输入聊天机器人消息和占位符。 确保将属性映射到Marketo中的相应字段，然后单击&#x200B;**Save**。
+
+   ![](assets/create-a-stream-13.png)
+
+   <table>
+    <tr>
+     <td><strong>类型</strong></td>
+     <td>要捕获的信息类型：电话，短信，电子邮件。</td>
+    </tr>
+    <tr>
+     <td><strong>聊天机器人消息</strong></td>
+     <td>访客看到的消息提示他们提供信息。</td>
+    </tr>
+    <tr>
+     <td><strong>帮助访客查看要输入内容的示例文本。</strong></td>
+     <td>文本</td>
+    </tr>
+    <tr>
+     <td><strong>将响应映射到属性</strong></td>
+     <td>用于将访客的响应同步到其在Marketo订阅中的人员记录中的相应字段。</td>
+    </tr>
+   </table>
+
+1. 由于收集其电子邮件是一个目标，因此请将目标卡片拖动到“信息捕获”下方。
+
+   ![](assets/create-a-stream-14.png)
+
+1. 命名您的目标（或选择现有目标），然后单击&#x200B;**保存**。
+
+   ![](assets/create-a-stream-15.png)
+
+1. 请记住，如果用户说“否”，请添加响应。 将消息卡拖动到该选项下方。
+
+   ![](assets/create-a-stream-16.png)
+
+1. 输入消息，然后单击&#x200B;**Save**。
+
+   ![](assets/create-a-stream-17.png)
+
+1. 要激活对话框时，单击&#x200B;**发布**。
+
+   ![](assets/create-a-stream-18.png)
+
+>[!NOTE]
+>
+>在单击发布之前，请记住确保已[输入目标URL](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target)。
