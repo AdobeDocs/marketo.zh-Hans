@@ -3,9 +3,9 @@ description: 对话框 — Marketo文档 — 产品文档
 title: 对话框
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,8 @@ ht-degree: 0%
 1. 键入50，然后单击屏幕上的其他位置进行保存。
 
    ![](assets/dialogues-8.png)
+
+就这样！
 
 **匿名人员**
 
