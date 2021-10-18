@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: 设置Facebook潜在客户广告 — Marketo文档 — 产品文档
 title: 设置Facebook潜在客户广告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: eec4b6fb94ad7dd3b10376bdcdc2b558d1b90aed
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 设置Facebook潜在客户广告 {#set-up-facebook-lead-ads}
 
-使用[Facebook潜在客户广告](https://www.facebook.com/business/a/lead-ads)在Facebook中运行广告促销活动并为Marketo生成潜在客户。
+使用 [Facebook潜在客户广告](https://www.facebook.com/business/a/lead-ads) 在Facebook中运行广告促销活动并为Marketo生成潜在客户。
 
 >[!NOTE]
 >
@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >要将Facebook潜在客户广告添加到您的实例，请联系您的客户成功经理。
 
-1. 转到Marketo **Admin**。
+1. 转到Marketo **管理员**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. 转到&#x200B;**LaunchPoint**，单击&#x200B;**新建，**，然后选择&#x200B;**新建服务**。
+1. 转到 **LaunchPoint**，单击 **新** 选择 **新服务**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 输入服务的&#x200B;**显示名称**，从下拉列表中选择&#x200B;**Facebook Lead Ads**&#x200B;服务，然后单击&#x200B;**创建**。
+1. 输入 **显示名称** 对于您的服务，请选择 **Facebook潜在客户广告** 服务，然后单击 **创建**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 在同一浏览器中打开新选项卡，然后转到[facebook.com](https://www.facebook.com)。 使用您要用于集成的帐户登录Facebook。
+1. 在同一浏览器中打开新选项卡，然后转到 [facebook.com](https://www.facebook.com). 使用您要用于集成的帐户登录Facebook。
 
    >[!NOTE]
    >
@@ -42,19 +42,19 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. 登录Facebook后，返回Marketo并单击&#x200B;**授权**。
+1. 登录Facebook后，返回Marketo并单击 **授权**.
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. 如果出现提示，请单击&#x200B;**确定**&#x200B;以接受将Marketo应用程序安装到Facebook中。
+1. 如果出现提示，请单击 **确定** 接受将Marketo应用程序安装到Facebook中。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. 你会注意到你现在有权。 单击&#x200B;**Next**。
+1. 你会注意到你现在有权。 单击 **下一个**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. 选择您希望Marketo从中提取Facebook潜在客户广告的页面，然后单击&#x200B;**Next**。
+1. 选择您希望Marketo从中提取Facebook潜在客户广告的页面，然后单击 **下一个**.
 
    >[!TIP]
    >
@@ -62,11 +62,11 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. 要接受默认的Facebook到Marketo字段映射，只需单击&#x200B;**创建**。
+1. 要接受默认的Facebook到Marketo字段映射，只需单击 **创建**.
 
    >[!TIP]
    >
-   >通过修改映射，您可以自定义在Marketo中存储潜在客户广告数据的位置。 您还可以[从潜在客户广告自定义问题](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)中提取数据。
+   >通过修改映射，您可以自定义在Marketo中存储潜在客户广告数据的位置。 您还可以 [从潜在客户广告自定义问题中提取数据](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
