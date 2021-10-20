@@ -2,10 +2,10 @@
 description: 销售活动术语表 — Marketo文档 — 产品文档
 title: 销售活动术语表
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -114,7 +114,7 @@ ht-degree: 1%
   <td>Marketo销售人员ID</td>
  </tr>
 <tr>
-  <th rowspan="3">已收到销售电子邮件</th>
+  <th rowspan="3">已回复销售电子邮件</th>
   <td>接收者</td>
  </tr>
  <tr>

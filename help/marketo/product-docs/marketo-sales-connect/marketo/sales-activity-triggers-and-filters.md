@@ -1,9 +1,10 @@
 ---
 description: 销售活动触发器和过滤器 — Marketo文档 — 产品文档
 title: 销售活动触发器和过滤器
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 在&#x200B;**智能列表**&#x200B;选项卡中，搜索“Sales Connect”。
+1. 在 **智能列表** ，搜索“销售应用程序”。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
-1. 选择所需的过滤器或触发器。
+1. 选择所需过滤器或触发器并将其拖动到该过滤器或触发器上。
 
    ![](assets/sales-activity-triggers-and-filters-3.png)
 
@@ -32,4 +33,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->有关活动、约束和定义的完整列表，请参见我们的[销售活动术语表](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)。
+>有关活动、限制和定义的完整列表，请查看我们的 [销售活动术语表](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

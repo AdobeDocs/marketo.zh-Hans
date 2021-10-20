@@ -3,9 +3,9 @@ description: 设置MSI视图 — Marketo文档 — 产品文档
 title: 设置MSI视图
 hide: true
 hidefromtoc: true
-source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. 在Dynamics中，单击齿轮图标，然后选择 **高级设置** 从下拉菜单中。
 
-1. 在屏幕左上角，单击 **设置**. 在“自定义”下，选择“自定义”。
+1. 在屏幕左上角，单击 **设置**. 在“自定义”下选择 **自定义**.
 
 1. 单击 **自定义系统**.
 
