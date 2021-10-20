@@ -2,9 +2,9 @@
 title: 预测过滤器
 description: 预测过滤器
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ## 参加的可能性
 
-此过滤器可有效缩小受众范围。 这有助于您定位和邀请可能性较高的潜在客户 **出席** 网络研讨会或活动。 请注意，您的“[!UICONTROL Likelihood to attend program]“ ”将是您的当前事件程序。
+此过滤器可有效缩小受众范围。 这有助于您定位和邀请可能性较高的潜在客户 **出席** 网络研讨会或活动。 请注意，“参加计划的可能性”将是您当前的事件计划。
 
 ![图像2](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## 注册的可能性
 
-与 [!UICONTROL _参加的可能性_] 过滤器，使用此过滤器可缩小受众范围并定位可能性较高的潜在客户 **注册** 网络研讨会或活动。
+与 _参加的可能性_ 过滤器，使用此过滤器可缩小受众范围并定位可能性较高的潜在客户 **注册** 网络研讨会或活动。
 
 ![图3](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
