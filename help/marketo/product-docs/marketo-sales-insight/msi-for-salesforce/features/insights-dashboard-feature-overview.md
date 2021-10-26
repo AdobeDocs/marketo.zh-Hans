@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: 分析功能板功能概述 — Marketo文档 — 产品文档
 title: 分析功能板功能概述
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1503'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必须具有最新的MSI SFDC包和[configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)。
+>您必须具有最新的MSI SFDC包和 [配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -155,7 +155,7 @@ ht-degree: 0%
 * 每周摘要栏将显示该周的有趣时刻、电子邮件和Web活动。 每个图标都是可单击的，可用作显示特定活动的过滤器
 * 默认视图：这是当前视图的活动列表
 
-**即将推出的电子邮件促销活动和** 事件电子邮件促销活动选项卡：
+**即将推出的电子邮件促销活动和事件** “电子邮件促销活动”选项卡：
 
 * 包括计划在未来90天内发送的电子邮件项目或默认项目所包含的营销活动
 * 不特定于联系人/潜在客户(即，促销活动列表是在Marketo实例中计划的所有电子邮件促销活动的通用列表)。 所有潜在客户、联系人、帐户和机会面板中的营销活动列表将相同
@@ -171,3 +171,7 @@ ht-degree: 0%
 * 选择所有事件将显示计划在未来90天内的事件列表
 * 此部分中的活动详细信息卡片具有预览选项
 * 过滤器包括“搜索”、“仅显示受邀事件”和“日期范围”
+
+>[!NOTE]
+>
+>如果您的帐户或机会有超过800个联系人，则仪表板将不显示任何数据。 但是，您可以联系个人联系人，以查看他们的洞察和参与度。 如果您的帐户有800个以上的联系人，则将禁用“显示帐户级别的活动”。
