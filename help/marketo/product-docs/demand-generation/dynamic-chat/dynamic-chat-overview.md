@@ -3,9 +3,9 @@ description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 集成 {#integrations}
 
-动态聊天的一个关键组件是，它能够与Marketo订阅本地接口。 为了利用此集成的全部功能，您首先需要启动数据同步。 根据Marketo数据库的大小，完成初始同步[一次同步](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)的数据可能最多需要24小时。 平均同步时间不到2小时。
+动态聊天的一个关键组件是，它能够与Marketo订阅本地接口。 为了利用此集成的全部功能，您首先需要启动数据同步。 根据Marketo数据库的大小，初始数据可能最多需要24小时， [一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) 完成。
 
 会同步以下内容：
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## 对话框 {#dialogues}
 
-对话表示单个聊天项目。 将其视为一个容器，其中包含与网站访客进行引人入胜的聊天对话所需的所有内容。 在每个对话框中，您可以指定希望对话框显示在哪些页面上、希望将其显示给哪些对象，以及对话框本身的内容和流程。 此外，您还可以找到量度来查看对话框的效果。 [进一步了解对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)。
+对话表示单个聊天项目。 将其视为一个容器，其中包含与网站访客进行引人入胜的聊天对话所需的所有内容。 在每个对话框中，您可以指定希望对话框显示在哪些页面上、希望将其显示给哪些对象，以及对话框本身的内容和流程。 此外，您还可以找到量度来查看对话框的效果。 [了解有关对话框的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
 ## 配置 {#configuration}
 
-在“配置”选项卡中，自定义各种对话框的外观。 更改字体、颜色、响应时间等！ [了解有关配置的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md)。
+在“配置”选项卡中，自定义各种对话框的外观。 更改字体、颜色、响应时间等！ [了解有关配置的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
 
 ## 日历 {#calendar}
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 **如何定位匿名用户？**
 
-在对话框中，您需要使用&#x200B;_Person Email is Empty_&#x200B;属性。
+在对话框中，您需要使用 _人员电子邮件为空_ 属性。
 
 **是否支持AI/NLP功能？**
 

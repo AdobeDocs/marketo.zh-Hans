@@ -3,9 +3,9 @@ description: 初始设置 — Marketo文档 — 产品文档
 title: 初始设置
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,30 +20,16 @@ ht-degree: 0%
 >
 >**需要管理员权限。**
 
-1. 为Marketo实例启用动态聊天后，指定的系统管理员将收到一封欢迎电子邮件。 在该电子邮件中，单击&#x200B;**开始**。
+1. 为Marketo实例启用动态聊天后，指定的系统管理员将收到一封欢迎电子邮件。 在该电子邮件中，单击 **入门**.
 
    ![](assets/initial-setup-1.png)
 
-1. 如果您之前使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，则[设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)。
+1. 如果您之前使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有， [设置Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
    ![](assets/initial-setup-2.png)
 
 ## 添加用户 {#add-users}
 
-1. 登录到Admin Console后，接下来要添加用户。 此处](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user)介绍了该进程[。
+1. 登录到Admin Console后，接下来要添加用户。 我们有这个过程 [此处](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
-## 在Marketo中添加权限 {#add-permissions-in-marketo}
-
-在中的Admin Console中添加用户后，必须在Marketo中授予用户权限，以便他们能够从Marketo访问动态聊天快捷键。
-
-1. 在Marketo中，单击&#x200B;**Admin**。
-
-1. 查找并双击所需的用户。
-
-1. 添加&#x200B;**访问动态聊天**&#x200B;并单击&#x200B;**保存**。
-
->[!IMPORTANT]
->
->请务必按照上面列出的顺序执行步骤。 如果某人先在Marketo中获得了权限，则他们将看到“动态聊天”拼贴，但没有用户访问权限。
-
-下一步是[将Dynamic Chat连接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)。
+接下来，是时候 [将动态聊天连接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
