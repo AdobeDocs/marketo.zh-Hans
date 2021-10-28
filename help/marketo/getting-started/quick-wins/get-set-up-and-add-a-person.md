@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: 设置并添加人员 — Marketo文档 — 产品文档
 title: 设置并添加人员
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ ht-degree: 0%
 1. 键入您的名字和姓氏、电子邮件地址和公司名称，然后单击 **创建** 将自己添加为人。
 
    ![](assets/eight.png)
+
+   >[!CAUTION]
+   >
+   >Marketo **not** 支持包含表情符号的电子邮件地址。
 
 1. 要查看您的人员，请在左侧菜单中打开系统智能列表，然后单击“所有人员”。
 
