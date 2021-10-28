@@ -2,9 +2,9 @@
 description: 销售活动术语表 — Marketo文档 — 产品文档
 title: 销售活动术语表
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '520'
 ht-degree: 1%
 
 ---
@@ -263,7 +263,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td><strong>销售电子邮件主题</strong></td> 
-   <td>电子邮件的主题行。</td> 
+   <td>电子邮件的主题行后跟一个唯一ID(例如：我的主题行(MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>已拨打销售电话号码</strong></td> 
@@ -283,7 +283,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td><strong>源</strong></td> 
-   <td>活动的来源。 在’22年1月版发布之前，将设置为Sales Connect活动的“输出”。 在’22年1月版发布后，将成为Sales Connect活动的“销售应用程序”。</td>
+   <td>活动的来源。 在2021年10月版之前，Sales Connect活动将设置为“Tout”。 在’21年10月版发布后，将成为Sales Connect活动的“销售应用程序”。</td>
   </tr> 
   <tr> 
    <td><strong>模板ID</strong></td> 
