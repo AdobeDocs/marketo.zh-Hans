@@ -2,10 +2,10 @@
 description: 销售活动术语表 — Marketo文档 — 产品文档
 title: 销售活动术语表
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '510'
+ht-degree: 1%
 
 ---
 
@@ -283,7 +283,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>源</strong></td> 
-   <td>活动的来源。 将设置为“Tout”（输出），用于Sales Connect活动。</td> 
+   <td>活动的来源。 在’22年1月版发布之前，将设置为Sales Connect活动的“输出”。 在’22年1月版发布后，将成为Sales Connect活动的“销售应用程序”。</td>
   </tr> 
   <tr> 
    <td><strong>模板ID</strong></td> 
