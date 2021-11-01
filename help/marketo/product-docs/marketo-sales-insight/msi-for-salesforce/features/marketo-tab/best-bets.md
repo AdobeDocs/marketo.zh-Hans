@@ -2,9 +2,9 @@
 description: 最佳选择 — Marketo文档 — 产品文档
 title: 最佳下注
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -46,3 +46,7 @@ ht-degree: 0%
 * 添加到监视列表
 
 ![](assets/best-bets-1.png)
+
+>[!NOTE]
+>
+>联系人/潜在客户需要位于默认分区中才能添加到监视列表。

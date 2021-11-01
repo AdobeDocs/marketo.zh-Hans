@@ -1,27 +1,26 @@
 ---
 unique-page-id: 37356893
-description: MSI功能概述 — Marketo Docs — 产品文档
+description: MSI功能概述 — Marketo文档 — 产品文档
 title: MSI功能概述
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+exl-id: e6cd988c-afba-44e3-b240-68258236f344
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '926'
 ht-degree: 0%
 
 ---
 
-
-# MSI功能概述{#msi-feature-overview}
+# MSI功能概述 {#msi-feature-overview}
 
 MSI在Salesforce Lightning和Classic中具有以下功能。
 
-## Visualforce面板{#visualforce-panel}
+## Visualforce面板 {#visualforce-panel}
 
 MSI Visualforce面板包含以下功能：
 
 * 选项卡
 
-   * [洞察仪表板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+   * [分析功能板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * 有趣的时刻
    * Web活动
    * 电子邮件
@@ -29,167 +28,171 @@ MSI Visualforce面板包含以下功能：
 
 * 操作
 
-   * 添加到Marketo活动
+   * 添加到Marketo Campaign
    * 发送Marketo电子邮件
-   * 添加/从监视列表
+   * 从监视列表添加/删除
 
 * 星与火焰
 
-## 潜在客户布局{#lead-layout}
+## 潜在客户布局 {#lead-layout}
 
-Visualforce页面：
+可视化强制页面：
 
-* 潜在客户 — 包含单击超级“转到完整列表”的选项，您将被发送到Salesforce中的新选项卡，MSI面板将在整个页面布局中显示
-* 潜在客户完整列表 — 不包括“转到完整列表”选项
-* Lead Mobile — 在Salesforce移动应用程序中可见
-* 潜在客户联系桥 — 显示您在“MSI联系人ID”字段中添加的联系人的MSI面板
-
-字段：
-
-* 最后有趣的时刻
-* 最后有趣的时刻
-* 最后有趣的时刻
-* 最后有趣的时刻
-* 最后有趣的时刻类型
-* 上次营销活动（按销售）
-* 按销售人员列出的上次营销人员参与情况
-* 相对得分
-* 相对得分值
-* 紧急
-* 紧急值
-* 视图在Marketo中 — 单击此字段可在Marketo中打开不可编辑的潜在客户视图。 包括：潜在客户信息、公司信息、SFDC潜在客户信息、SFDC自定义字段、活动日志
-* MSI联系人ID — 将Salesforce联系人添加到此字段，并在潜在客户布局中加入“潜在客户联系桥”面板以查看联系人的MSI面板
-
-## 联系布局{#contact-layout}
-
-Visualforce页面：
-
-* 联系人 — 包含单击超级“转到完整列表”的选项，您将被发送到Salesforce中的新选项卡，MSI面板将在整个页面布局中显示
-* 联系人完整列表 — 不包括“转到完整列表”选项
-* 联系移动 — 在Salesforce移动应用程序中可见
-* 添加到Marketo活动联系人页 — 添加到Marketo活动功能在此面板中可用
+* 潜在客户 — 包含单击超级“转至完整列表”的选项，您将被发送到Salesforce中的新选项卡，在该选项卡中，MSI面板将以全页布局显示
+* 潜在客户完整列表 — 不包括“转至完整列表”选项
+* 潜在客户移动设备 — 在Salesforce移动设备应用程序中可见
+* 潜在客户联系人桥 — 显示您在MSI联系人ID字段中添加的联系人的MSI面板
 
 字段：
 
-* 最后有趣的时刻
-* 最后有趣的时刻
-* 最后有趣的时刻
-* 最后有趣的时刻
+* 最后一个有趣的时刻
+* 最后有趣的时刻日期
+* 最后一个有趣的时刻
+* 最后有趣的时刻来源
 * 最后有趣的时刻类型
-* 上次营销活动（按销售）
-* 相对得分
-* 相对得分值
+* 上次Marketo活动（按销售）
+* 上次按销售额划分的Marketo参与度
+* 相对分数
+* 相对分数值
 * 紧急
-* 紧急值
-* 视图在Marketo中 — 单击此字段可在Marketo中打开不可编辑的潜在客户视图。 包括：潜在客户信息、公司信息、SFDC潜在客户信息、SFDC自定义字段、活动日志
+* 紧急价值
+* 在Marketo中查看 — 单击此字段可打开Marketo中潜在客户的不可编辑视图。 包括：潜在客户信息、公司信息、SFDC潜在客户信息、SFDC自定义字段、活动日志
+* MSI联系人ID — 将Salesforce联系人添加到此字段，并在潜在客户布局中包含“潜在客户联系人桥”面板，以查看联系人的MSI面板
+
+## 联系人布局 {#contact-layout}
+
+可视化强制页面：
+
+* 联系人 — 包含单击超级“转至完整列表”的选项，您将被发送到Salesforce中的新选项卡，在该选项卡中，MSI面板将以全页布局显示
+* 联系人完整列表 — 不包括“转至完整列表”选项
+* 联系移动设备 — 在Salesforce移动应用程序中可见
+* 添加到Marketo Campaign联系人页面 — 此面板中提供了添加到Marketo Campaign功能
+
+字段：
+
+* 最后一个有趣的时刻
+* 最后有趣的时刻日期
+* 最后一个有趣的时刻
+* 最后有趣的时刻来源
+* 最后有趣的时刻类型
+* 上次Marketo活动（按销售）
+* 相对分数
+* 相对分数值
+* 紧急
+* 紧急价值
+* 在Marketo中查看 — 单击此字段可打开Marketo中潜在客户的不可编辑视图。 包括：潜在客户信息、公司信息、SFDC潜在客户信息、SFDC自定义字段、活动日志
 * Mkto潜在客户得分
-* Sales Insight — 打开联系人完整列表页
+* 销售分析 — 打开联系人完整列表页面
 
-## 帐户布局{#account-layout}
+## 帐户布局 {#account-layout}
 
-Visualforce页面：
+可视化强制页面：
 
-* 帐户 — 包含单击超级“转到完整列表”的选项，您将被发送到Salesforce中的新选项卡，MSI面板将在整个页面布局中显示
-* 帐户完整列表 — 不包括“转到完整列表”选项
+* 帐户 — 包含单击超级“转至完整列表”的选项，您将被发送到Salesforce中的新选项卡，在该选项卡中，MSI面板将以全页布局显示
+* 帐户完整列表 — 不包括“转至完整列表”选项
 * 帐户移动 — 在Salesforce移动应用程序中可见
 
 字段：
 
-* Sales Insight — 打开联系人完整列表页
+* 销售分析 — 打开联系人完整列表页面
 
 操作：
 
-* 添加到Marketo活动
+* 添加到Marketo Campaign
 * 发送Marketo电子邮件
-* 添加/从监视列表
+* 从监视列表添加/删除
 
-以下功能在“帐户布局”页面&#x200B;**中不可用**:
+以下功能包括 **不可用** 在“帐户布局”页面中：
 
 * 星与火焰
 
-## 业务机会布局{#opportunity-layout}
+## 机会布局 {#opportunity-layout}
 
-Visualforce页面：
+可视化强制页面：
 
-* Opportunity — 包括单击超级“转到完整列表”的选项，您将被发送到Salesforce中的新选项卡，MSI面板将在整个页面布局中显示
-* Opportunity Full列表 — 不包括“转到完整列表”选项
+* 机会 — 包含单击超级“转到完整列表”的选项，您将被发送到Salesforce中的新选项卡，在该选项卡中，MSI面板将以全页布局显示
+* Opportunity Full List — 不包括“转至Full List”选项
 * Opportunity Mobile — 在Salesforce移动应用程序中可见
 
 字段：
 
-* Sales Insight — 打开联系人完整列表页
-* Marketo机会分析 — 在Marketo中打开机会影响分析器
+* 销售分析 — 打开联系人完整列表页面
+* Marketo Opportunity Analysis — 在Marketo打开Opportunity Inflect Analyzer
 
 操作：
 
-* 添加到Marketo活动
+* 添加到Marketo Campaign
 * 发送Marketo电子邮件
-* 添加/从监视列表
+* 从监视列表添加/删除
 
-以下功能在“业务机会布局”页面中&#x200B;**不可用**:
+以下功能包括 **不可用** 在Opportunity Layout页面中：
 
 * 星与火焰
 
-## 潜在客户和联系列表视图（批量操作）{#lead-and-contact-list-view-bulk-actions}
+## 潜在客户和联系人列表视图（批量操作） {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce闪电：添加到观察列表、添加到Marketo活动和发送Marketo电子邮件批量操作按钮，在潜在客户和联系列表视图中。
+Salesforce闪电：在“潜在客户”和“联系人”列表视图中，将添加到观看列表、添加到Marketo Campaign和发送Marketo电子邮件批量操作按钮。
 
-Salesforce经典：添加到观察列表、添加到Marketo活动和发送Marketo电子邮件批量操作按钮(在潜在客户和联系列表视图中)。
+Salesforce Classic:在“潜在客户”和“联系人”列表视图中，“添加到观看列表”、“添加到Marketo Campaign”和“发送Marketo电子邮件”批量操作按钮。
 
-## Marketo选项卡{#marketo-tab}
+## Marketo选项卡 {#marketo-tab}
 
-* 最佳赌局
+* 最佳下注
 
-   * 包括创建和编辑视图的功能。 根据“Marketo配置”页中“默认隐藏”选项的配置，可以隐藏最佳赌注
-   * 列 — 名称、帐户、最后有趣的时刻、状态标题、参与（星形和火焰）、隐藏
+   * 包括创建和编辑视图的功能。 能够根据“Marketo配置”页面中“默认隐藏”选项的配置来隐藏最佳结果
+   * 列 — 名称、帐户、最后关注时刻、状态标题、参与度（星星和火焰）、隐藏
 
-* 我的手表列表
+* 我的监视列表
 
    * 包括创建和编辑视图的功能
-   * 列 — 名称、帐户、最后有趣的时刻、状态标题、参与（星形和火焰）、删除
+   * 列 — 名称、帐户、最后关注时刻、状态标题、参与度（星星和火焰），删除
 
 * Web活动
 
-   * 包括创建和编辑视图、时间框过滤器功能
-   * 列 — 页面视图、名称、帐户、上次访问
+   * 包括创建和编辑视图、时间范围过滤器功能的功能
+   * 列 — 页面查看、名称、帐户、上次访问
 
 * 匿名Web活动
 
-   * 包括创建和编辑视图、时间框过滤器功能
-   * 列 — 页面视图、公司、上次访问、研究(打开公司的LinkedIn页面)
+   * 包括创建和编辑视图、时间范围过滤器功能的功能
+   * 列 — 页面查看、公司、上次访问、研究(打开公司的LinkedIn页面)
 
 * 我的电子邮件
 
    * 包括创建和编辑视图的功能
    * 列 — 名称、帐户、主题、日期、打开、单击
 
-* 潜在客户源 — 包括订阅有趣时刻的功能，必须启用“配置”页上的RSS源才能使用此功能
+* 潜在客户馈送 — 包括订阅相关时刻的功能，必须启用“配置”页面上的RSS馈送才能使用此功能
 
-   * 领导/联系谁有这个有趣的时刻
+   * 具有此有趣时刻的领导/联系人
    * 有趣的时刻类型（Web、电子邮件或里程碑）和描述
    * 帐户名称
    * 这个有趣的时刻发生的时间
-   * “订阅”选项，用于接收此类事件的电子邮件通知
+   * 用于接收此类事件的电子邮件通知的订阅选项
    * 显示此人是最佳人选的高优先级图标
 
-## Marketo Sales Insight配置选项卡{#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight“配置”选项卡 {#marketo-sales-insight-configuration-tab}
 
 * 操作设置：包括在SFDC中设置MSI所需的Soap和Rest API凭据
-* MSI配置：包括Marketo选项卡和MSI Visualforce面板的配置
-* 重置Marketo Sales Insight:包括清除所有配置的功能
+* MSI配置：包括配置Marketo选项卡和MSI可视化力面板
+* 重置Marketo销售分析：包括清除所有配置的功能
 
 >[!MORELIKETHIS]
 >
->[Salesforce中的Marketo Sales Insight“配置”选项卡](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[Marketo Sales Insight的“配置”选项卡](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
-## Sales Insight Performance Reports {#sales-insight-performance-reports}
+## 销售分析绩效报表 {#sales-insight-performance-reports}
 
-视图通过Salesforce、Microsoft Dynamics或Gmail或Outlook插件发送的电子邮件的性能
+查看通过Salesforce、Microsoft Dynamics或Gmail或Outlook插件发送的电子邮件的性能
 
 ## 适用于移动设备的MSI {#msi-for-mobile}
 
 Salesforce移动应用程序支持MSI功能
 
-## 语言支持{#language-support}
+## 语言支持 {#language-support}
 
-Marketo Sales Insight按语言存储。 因此，如果希望它适用于多种语言，您必须分别为每种语言输入凭据。
+Marketo Sales Insight按语言进行存储。 因此，如果您希望它适用于多种语言，则必须分别输入每种语言的凭据。
+
+>[!NOTE]
+>
+>联系人/潜在客户需要位于默认分区中才能添加到监视列表。
