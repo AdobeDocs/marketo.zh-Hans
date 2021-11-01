@@ -3,32 +3,36 @@ description: 概述 — Marketo文档 — 产品文档
 title: 概述
 hide: true
 hidefromtoc: true
-source-git-commit: 6047665cf94a4b212734667feeb5fce911ffdebb
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
 
 # 概述 {#overview}
 
-如果您的AdobeMarketo Engage订阅是在10/4/21或之后配置的，它将与AdobeIdentity Management系统集成。 AIMS允许用户使用通用的Marketo Engage身份登录到Experience Cloud和其他Adobe应用程序。
+如果您的AdobeMarketo Engage订阅是在10/4/21或之后配置的，它将与AdobeIdentity Management系统集成。 此集成允许用户使用通用的Marketo Engage标识登录到Experience Cloud和其他Adobe应用程序。
 
 ## 配置文件级别
 
-有三个用户档案级别。
+载入AdobeIdentity Management系统的AdobeMarketo Engage订阅支持各种配置文件。 以下是与此集成相关的用户配置文件类型。
 
 <table>
  <tr>
-  <td><strong>系统管理员</strong></td>
-  <td>负责在Adobe Admin Console中为Adobe组织和Marketo Engage产品设置身份概念。</td>
+  <td><strong>Adobe Admin Console系统管理员</strong></td>
+  <td>负责在Adobe Admin Console中为Adobe组织和Marketo Engage产品设置身份概念。 已在Adobe组织设置中授予角色。</td>
  </tr>
  <tr>
-  <td><strong>产品管理员</strong></td>
-  <td>负责在Adobe Admin Console中为Marketo Engage产品授予用户权限。</td>
+  <td><strong>Adobe Admin Console产品管理员</strong></td>
+  <td>负责在Adobe Admin Console中为Marketo Engage产品授予用户权限。 授予了在Adobe Admin Console的角色。</td>
  </tr>
  <tr>
-  <td><strong>用户</strong></td>
+  <td><strong>Marketo Engage产品管理员</strong></td>
+  <td>已获得具有管理权限的Marketo Engage访问权限的人员。 已在Marketo Engage中授予角色，而不是Adobe Admin Console。</td>
+ </tr>
+ <tr>
+  <td><strong>Marketo Engage用户</strong></td>
   <td>获得访问Marketo Engage的人员。 无管理权限。</td>
  </tr>
 </table>
@@ -48,12 +52,14 @@ AdobeIdentity Management系统由三个组件组成。
 **Adobe产品管理员和Marketo Engage管理员之间有何区别？**
 
 * Adobe产品管理员是Marketo平台中的新角色。
-* 它是只读角色，无法从Marketo中编辑或删除。
-* 它拥有与标准Marketo管理员相同的权限和权限。
+* Adobe产品管理员角色授予在Adobe Admin Console中添加为产品管理员的用户
+* Adobe产品管理员是只读角色，无法从Marketo Engage中编辑或删除。
+* Adobe产品管理员具有与标准Marketo管理员相同的权限。
+* Marketo Engage管理员的角色仍为管理员，并会授予Marketo Engage中的用户。
 
 **API客户端支持有任何变化吗？**
 
-是的。 已载入Adobe IMS的用户无法利用现有的Marketo用户管理API。 他们会用 [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
+是的。 已载入Adobe IMS的用户无法利用所有现有的Marketo用户管理API。 对于用户邀请、更新和删除操作， [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html) 值。 对于角色管理，Marketo用户管理API仍然适用。
 
 **我们联系谁以寻求支持？**
 
@@ -61,15 +67,15 @@ AdobeIdentity Management系统由三个组件组成。
 
 **Marketo用户角色（在工作区内）是否在Adobe Admin Console中进行管理？**
 
-不。 用户角色管理（在工作区内）在Marketo中已完成。
+不。 用户角色管理（在工作区内）在Marketo Engage中完成。
 
 **我是Marketo管理员，无权访问Admin Console。 如何获取访问权限？**
 
-任何有权访问贵组织Admin Console的系统或产品管理员都可以授予您访问权限。 如果您不确定您组织中的谁在控制台中具有管理员权限，请联系 [Adobe客户关怀](https://helpx.adobe.com/contact.html).
+任何有权访问贵组织Adobe的Admin Console的系统或产品管理员都可以为您提供访问权限。 如果您不确定您组织中的谁在控制台中具有管理员权限，请联系 [Adobe客户关怀](https://helpx.adobe.com/contact.html).
 
 **管理员如何将用户添加到Marketo Sales Connect?**
 
-虽然AC中将有一张产品卡用于Sales Connect，但不应使用AC来添加/管理用户。 以下链接将允许管理员通过Marketo Sales Connect管理用户： [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
+虽然Sales Connect的Admin Console中将有产品卡，但不应使用Admin Console来添加/管理用户。 以下链接将允许管理员通过Marketo Sales Connect管理用户： [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
 
 **我在哪里可以了解有关Adobe Admin Console的更多信息？**
 
@@ -97,7 +103,7 @@ Adobe IMS当前不支持任何类似Marketo设备授权功能的内容。
 
 **对于Adobe IMS，我们是否可以选择使用Adobe ID、Enterprise ID或Federated ID?**
 
-是，您可以确定要获得组织支持的身份类型。 更多信息 [此处](https://helpx.adobe.com/enterprise/using/identity.html) 和 [此处](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+是，您可以确定要获得组织支持的身份类型。 更多信息可在此处找到： [身份概述](https://helpx.adobe.com/enterprise/using/identity.html) 和此处： [设置标识](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 >[!MORELIKETHIS]
 >

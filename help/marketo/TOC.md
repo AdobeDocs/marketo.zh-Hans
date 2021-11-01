@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '7974'
+source-wordcount: '7977'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ ht-degree: 0%
             + [将现有命名帐户添加到帐户列表](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
             + [创建指定帐户](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
             + [将人员添加到指定帐户](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
-            + [Discover Accounts](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [Discover帐户](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
             + [导致帐户匹配](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
             + [在指定帐户中过滤](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
             + [删除指定帐户](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
@@ -94,14 +94,14 @@ ht-degree: 0%
             + [SEO — 添加站点/删除站点](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
             + [SEO — 添加竞争者](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
             + [SEO — 管理列表](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO - Pick Region/Country for Your Search Engine](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
+            + [SEO — 为搜索引擎选择地区/国家/地区](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
             + [SEO — 设置电子邮件警报首选项](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
-         + Keywords {#keywords}
-            + [SEO - Add Keywords](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+         + 关键词 {#keywords}
+            + [SEO — 添加关键词](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
             + [SEO — 在关键词视图中添加/删除列](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
             + [SEO — 在列表中添加/删除关键词](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
-            + [SEO - Exporting Keyword Results](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO - Filter Keyword Results](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
+            + [SEO — 导出关键词结果](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
+            + [SEO — 筛选关键词结果](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
             + [SEO — 获取建议的关键词](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
             + [SEO — 通过CSV导入关键词](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
             + [SEO — 关键词趋势图](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
@@ -218,6 +218,7 @@ ht-degree: 0%
       + 具有Adobe标识的Marketo {#marketo-with-adobe-identity}
          + [概述](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [管理员设置](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+         + [产品管理员设置](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [添加或删除产品管理员](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [添加或删除用户](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + 设置 {#settings}
@@ -271,23 +272,23 @@ ht-degree: 0%
          + [编辑工作区](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [编辑现有人员分区](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [在工作区和分区之间共享区段](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-   + Core Marketo Concepts {#core-marketo-concepts}
-      + Smart Campaigns {#smart-campaigns}
+   + 核心Marketo概念 {#core-marketo-concepts}
+      + 智能营销活动 {#smart-campaigns}
          + [了解智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
          + 创建智能营销活动 {#creating-a-smart-campaign}
             + [了解批处理和触发智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
             + [创建新的智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
             + [为智能营销活动定义智能列表 |批](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
             + [为智能营销活动定义智能列表 |触发器](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
-            + [Smart Campaign Checklist](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
+            + [智能营销活动核对清单](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
          + 使用智能营销活动 {#using-smart-campaigns}
             + [中止智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
             + [激活触发器智能营销活动 |计划选项卡](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
             + [将通信限制应用于智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
             + [自动触发营销活动清理](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
-            + [Campaign Actions: Clone a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
+            + [营销活动操作：克隆智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
             + [营销活动操作：删除智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
-            + [Cancel a Scheduled Batch Campaign Run](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
+            + [取消计划的批量促销活动运行](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
             + [取消计划的定期批量促销活动运行](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run.md)
             + [停用触发器智能营销活动 |计划选项卡](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
             + [在智能营销活动中编辑资格规则](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
@@ -300,12 +301,12 @@ ht-degree: 0%
             + [使用“请求促销活动”为销售活动设置触发器智能促销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
             + [使用标准智能列表规则逻辑](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + 流量操作 {#flow-actions}
-            + [Add a Flow Step to a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+            + [向智能营销活动添加流量步骤](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [重新排序智能营销活动中的流程步骤](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
             + [添加到列表](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
-            + [Append Data to a Field](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+            + [将数据附加到字段](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [调用Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
-            + [Change Data Value](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
+            + [更改数据值](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
             + [清除字段值](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md)
             + [更改人员分区](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
             + [更改收入阶段](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
@@ -515,28 +516,28 @@ ht-degree: 0%
          + [Marketo Dynamics的Microsoft插件版本](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
          + [适用于Microsoft Dynamics MSI的插件版本](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [修复了Dynamics验证同步问题](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
-         + Sync Setup {#sync-setup}
+         + 同步设置 {#sync-setup}
             + [下载Marketo潜在客户管理解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
             + [更新适用于Microsoft Dynamics的Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [验证Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [查看组织服务URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011内部部署 {#microsoft-dynamics-2011-on-premises}
                + [步骤1（共3步）：安装Marketo解决方案（2011年内部部署版）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
-               + [Step 2 of 3: Set up Marketo Sync User in Dynamics (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+               + [步骤2（共3步）：在Dynamics（2011本地版）中设置Marketo同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
                + [步骤3（共3步）：将Microsoft Dynamics与Marketo连接（2011年内部部署版）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 2013 On-Premises {#microsoft-dynamics-2013-on-premises}
-               + [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+            + Microsoft Dynamics 2013内部部署 {#microsoft-dynamics-2013-on-premises}
+               + [步骤1（共3步）：在Dynamics（2013本地版）中安装Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
                + [步骤2（共3步）：为Marketo配置同步用户（2013本地版）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
                + [步骤3（共3步）：连接Marketo和Dynamics（2013年内部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
             + Microsoft动态2015内部部署/2016内部部署动态365 {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [步骤1（共3步）：安装Marketo解决方案 — 2015本地/ 2016 Dynamics 365本地](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [步骤2（共3步）：在Dynamics 2015本地版/ 2016 Dynamics 365本地版中设置Marketo同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
-               + [Step 3 of 3: Connect Marketo and Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+               + [步骤3（共3步）：连接Marketo和Dynamics 2015内部部署/ 2016 Dynamics 365内部部署](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 365 {#microsoft-dynamics-365}
-               + [Step 1 of 3: Install the Marketo Solution (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
-               + [Step 2 of 3: Set up Marketo Sync User in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+               + [步骤1（共3步）：安装Marketo解决方案（在线）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
+               + [步骤2（共3步）：在Dynamics中设置Marketo同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
                + [步骤3（共3步）：将Microsoft Dynamics与Marketo连接（在线）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
-            + Set up OAuth Authentication for Dynamics {#set-up-oauth-authentication-for-dynamics}
+            + 为Dynamics设置OAuth身份验证 {#set-up-oauth-authentication-for-dynamics}
                + [授予客户ID和应用程序注册的同意](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
                + [设置Microsoft Dynamics CRM在线应用程序](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [设置Microsoft Dynamics CRM内部版应用程序](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
@@ -709,10 +710,10 @@ ht-degree: 0%
             + [将表单字段设置为隐藏](product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
             + [设置隐藏的表单字段值](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
       + 图像和文件 {#images-and-files}
-         + [Add Images and Files to Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+         + [将图像和文件添加到Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [删除上传的图像或文件](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [查找上传的图像或文件的URL](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
-         + [Grab the Images from a Web Page](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+         + [从网页中获取图像](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
          + [使用文件夹整理图像和文件](product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
          + [替换上传的图像或文件](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [搜索上传的图像和文件](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
@@ -724,7 +725,7 @@ ht-degree: 0%
             + [登陆页面测试组](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
             + [了解自由格式与引导式登陆页面](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
          + 自由格式登陆页面 {#free-form-landing-pages}
-            + [Add a Link to a Free-Form Landing Page Image](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
+            + [添加指向自由格式登陆页面图像的链接](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
             + [添加指向自由格式登陆页面中图像的链接](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
             + [为自由格式登陆页面添加移动视图](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
             + [向自由格式登陆页面添加新表单](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
@@ -937,19 +938,19 @@ ht-degree: 0%
             + [向流添加内容](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
             + [将人员添加到参与计划](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.md)
             + [向参与项目流添加项目](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
-            + [Create an Engagement Program](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+            + [创建参与计划](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
             + [了解参与计划](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
          + 参与计划流 {#engagement-program-streams}
-            + [Clone a Stream](product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
-            + [Delete a Stream](product-docs/email-marketing/drip-nurturing/engagement-program-streams/delete-a-stream.md)
+            + [克隆流](product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
+            + [删除流](product-docs/email-marketing/drip-nurturing/engagement-program-streams/delete-a-stream.md)
             + [重命名流](product-docs/email-marketing/drip-nurturing/engagement-program-streams/rename-a-stream.md)
-            + [Set Stream Cadence](product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
-            + [Schedule Engagement Programs with Recipient Time Zone](product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+            + [设置流频率](product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+            + [按收件人时区计划参与计划](product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
             + [测试参与流](product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)
-            + [Transition People Between Engagement Streams](product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)
-         + Using Engagement Programs {#using-engagement-programs}
-            + [Avoid Sending Duplicate Content](product-docs/email-marketing/drip-nurturing/using-engagement-programs/avoid-sending-duplicate-content.md)
-            + [Disable and Enable Exhausted Content Notifications](product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)
+            + [在参与流之间迁移人员](product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)
+         + 使用参与计划 {#using-engagement-programs}
+            + [避免发送重复内容](product-docs/email-marketing/drip-nurturing/using-engagement-programs/avoid-sending-duplicate-content.md)
+            + [禁用和启用已用尽的内容通知](product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)
             + [暂停参与项目中的人员](product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
             + [已累累内容的人](product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
             + [从参与计划中删除成员](product-docs/email-marketing/drip-nurturing/using-engagement-programs/remove-a-member-from-an-engagement-program.md)
@@ -1181,15 +1182,15 @@ ht-degree: 0%
          + 取消订阅 {#unsubscribes}
             + [自定义取消订阅链接消息](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Marketo取消订阅检查](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
-            + [Resubscribing an Unsubscribe](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
-            + [Syncing Unsubscribes with Salesforce](product-docs/marketo-sales-connect/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-            + [Unsubscribe Group](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-group.md)
+            + [重新订阅取消订阅](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
+            + [正在将取消订阅与Salesforce同步](product-docs/marketo-sales-connect/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+            + [取消订阅组](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-group.md)
             + [取消订阅历史记录卡](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-history-card.md)
             + [取消订阅链接登陆页面](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-link-landing-page.md)
             + [取消订阅概述](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
-         + Using the Compose Window {#using-the-compose-window}
-            + [Add an Attachment or Trackable Content to Your Email](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-            + [Adding Highspot Content to Your Email](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
+         + 使用撰写窗口 {#using-the-compose-window}
+            + [向电子邮件中添加附件或可跟踪内容](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+            + [向电子邮件中添加重点内容](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [批量发送选项](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [使用选择并发送来合成批量电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [计划电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
@@ -1361,7 +1362,7 @@ ht-degree: 0%
       + [针对非本机Salesforce集成的销售分析](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [为Marketo Sky启用角色](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
-   + Mobile Marketing {#mobile-marketing}
+   + 移动营销 {#mobile-marketing}
       + 管理员 {#admin}
          + [添加移动设备应用程序](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [将视图添加为LaunchPoint服务](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
@@ -1369,15 +1370,15 @@ ht-degree: 0%
          + [在创建推送通知和应用程序内消息之前](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [配置移动设备应用程序Android推送访问](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
          + [配置移动设备应用程序iOS推送访问](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
-         + [Delete Mobile App](product-docs/mobile-marketing/admin/delete-mobile-app.md)
-         + [Send SDK Code to a Developer](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
+         + [删除移动设备应用程序](product-docs/mobile-marketing/admin/delete-mobile-app.md)
+         + [将SDK代码发送给开发人员](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
          + [验证推送配置](product-docs/mobile-marketing/admin/verify-push-configuration.md)
       + 应用程序内消息 {#in-app-messages}
          + [了解应用程序内消息](product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
          + 创建应用程序内消息 {#creating-in-app-messages}
-            + [Create an In-App Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
-            + [Add In-App Message Images](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)
-            + [Choose a Layout for Your In-App Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+            + [创建应用程序内消息](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
+            + [添加应用程序内消息图像](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)
+            + [为应用程序内消息选择布局](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
             + [创建应用程序内消息文本](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)
             + [设置关闭按钮并批准消息](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)
             + [设置应用程序内消息背景](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)
@@ -1608,7 +1609,7 @@ ht-degree: 0%
          + [用户设置](product-docs/web-personalization/getting-started/user-settings.md)
          + [Web个性化中的工作区](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
       + RTP标记实施 {#rtp-tag-implementation}
-         + [Deploy the RTP JavaScript](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
+         + [部署RTP JavaScript](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
          + [启用或禁用RTP JavaScript标记](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
          + [在Marketo登陆页面上实施RTP](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
          + [在Wordpress企业中实现RTP](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
@@ -1621,7 +1622,7 @@ ht-degree: 0%
          + [启用/禁用报表订阅](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
          + [排除要跟踪的特定IP](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
          + [Sales Intelligence](product-docs/web-personalization/reporting-for-web-personalization/sales-intelligence.md)
-         + [Understanding the Summary Report](product-docs/web-personalization/reporting-for-web-personalization/understanding-the-summary-report.md)
+         + [了解摘要报表](product-docs/web-personalization/reporting-for-web-personalization/understanding-the-summary-report.md)
          + Web分析集成 {#web-analytics-integrations}
             + [Google Universal Analytics中的自定义RTP功能板](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
             + [Google Universal Analytics中的自定义RTP报表](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
