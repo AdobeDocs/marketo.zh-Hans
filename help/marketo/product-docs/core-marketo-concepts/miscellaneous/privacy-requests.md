@@ -1,9 +1,9 @@
 ---
 description: 隐私请求 — Marketo文档 — 产品文档
 title: 隐私请求
-source-git-commit: 17e68ea00647dbfd98fde94827eb300804944511
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -189,3 +189,7 @@ JSON响应
   ]
 }
 ```
+
+>[!MORELIKETHIS]
+>
+>[隐私管理](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)

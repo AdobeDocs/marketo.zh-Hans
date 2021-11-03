@@ -1,9 +1,9 @@
 ---
 description: 隐私管理 — Marketo文档 — 产品文档
 title: 隐私管理
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Marketo Engage的功能可帮助您遵守以下法规：
 * 的 **访问权** 数据主体有权从数据控制者处获得有关其个人数据是否正在进行处理、处理位置以及处理目的的确认。 数据控制者应当以电子格式免费提供个人数据副本。
 * 也称为数据擦除， **被遗忘权** （删除请求）授权数据主体通过数据控制者擦除其个人数据，停止进一步散发数据，并可能让第三方停止处理数据。
 
-要了解如何创建访问和删除请求以及我们如何处理这些请求，请参阅 [实施步骤](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+要了解如何创建访问/删除请求以及我们如何处理这些请求，请参阅 [本文](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
