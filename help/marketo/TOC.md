@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
-source-wordcount: '7977'
+source-wordcount: '7981'
 ht-degree: 0%
 
 ---
@@ -504,6 +504,8 @@ ht-degree: 0%
          + [使用Adobe Experience Manager导入资产](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [键盘快捷键术语表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo沙盒](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+         + [隐私管理](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+         + [隐私请求](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [重命名Marketo资产](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
          + [设置Adobe Experience Cloud受众共享](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
          + [从Adobe Experience Cloud同步受众](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
