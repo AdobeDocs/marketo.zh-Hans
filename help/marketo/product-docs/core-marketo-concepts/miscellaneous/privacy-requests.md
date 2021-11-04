@@ -1,9 +1,9 @@
 ---
 description: 隐私请求 — Marketo文档 — 产品文档
 title: 隐私请求
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -12,14 +12,16 @@ ht-degree: 0%
 
 本文档概述了如何管理可通过Privacy ServiceUI和 **Privacy ServiceAPI**.
 
+>[!NOTE]
+>
+>通过Privacy ServiceUI或API提交的Marketo Engage隐私请求仅适用于具有Marketo Engage+ RT-CDP、B2B和B2P版本的用户。
+
 您可以通过两种方式提交单个请求以从Marketo Engage中访问和删除消费者数据：
 
 * 通过 [Privacy ServiceUI](https://privacyui.cloud.adobe.io/). 请参阅此文档 [此处](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
 * 通过 **Privacy ServiceAPI**. 请参阅此文档 [此处](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_api_tutorial.md) 和API引用 [此处](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
 
 的 [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) 支持两种类型的请求：数据访问和数据删除。
-
-注意：通过Privacy ServiceUI或API提交的Marketo Engage隐私请求仅适用于具有Marketo Engage+ RT-CDP、B2B和B2P版本的客户。
 
 让我们看看如何创建访问和删除请求。
 
@@ -45,7 +47,6 @@ b.要执行操作的人员的电子邮件地址
 
 &quot;users&quot;:
 
-* &quot;key&quot;: `<Your Request Tracking Key>`   （可选）
 * &quot;action&quot;:e **访问** 或 **删除**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **电子邮件**
@@ -58,7 +59,7 @@ b.要执行操作的人员的电子邮件地址
 
 &quot;regulation&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd**&#x200B;或 **nzpa**  （即适用于该请求的隐私法规）
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**&#x200B;或 **nzpa_nzl**  （即适用于该请求的隐私法规）
 
 ## 示例一：GDPR删除请求 {#gdpr-delete-request}
 
@@ -74,7 +75,6 @@ JSON请求
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -105,7 +105,6 @@ JSON响应
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -139,7 +138,6 @@ JSON请求
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -170,7 +168,6 @@ JSON响应
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
