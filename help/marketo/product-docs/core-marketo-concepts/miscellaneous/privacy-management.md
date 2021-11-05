@@ -1,7 +1,7 @@
 ---
 description: 隐私管理 — Marketo文档 — 产品文档
 title: 隐私管理
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: d33de522f07c4e95b93040dc3e8ffeec258a9ba2
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -14,7 +14,7 @@ Marketo Engage提供一套工具来帮助您遵守隐私法规。
 
 >[!NOTE]
 >
->通过Privacy ServiceUI或API提交的Marketo Engage隐私请求仅适用于具有Marketo Engage+ RT-CDP、B2B和B2P版本的客户。
+>通过Privacy ServiceUI或API提交的Marketo Engage隐私请求仅适用于具有Marketo Engage+ RT-CDP、B2B和B2P版本的用户。
 
 ## 隐私管理法规 {#regulations-on-privacy-management}
 
