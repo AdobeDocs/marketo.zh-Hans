@@ -3,7 +3,7 @@ description: 命令中心概述 — Marketo文档 — 产品文档
 title: 命令中心概述
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -85,6 +85,7 @@ PICC
 
 >[!MORELIKETHIS]
 >
->* [任务]()
->* [高级搜索概述]()
->* [使用选择并发送来合成批量电子邮件]()
+>* 任务
+>* 高级搜索概述
+>* 使用选择并发送来合成批量电子邮件
+

@@ -3,14 +3,14 @@ description: 创建团队 — Marketo文档 — 产品文档
 title: 创建团队
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-# 创建团队 {#create-a-team}
+# 创建团队 {#creating-a-team}
 
 通过创建团队，可以组合一组用户，以便与其共享内容，并按过滤报表。
 
