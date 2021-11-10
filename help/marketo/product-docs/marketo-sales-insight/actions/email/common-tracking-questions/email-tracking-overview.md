@@ -3,9 +3,9 @@ description: 电子邮件跟踪概述 — Marketo文档 — 产品文档
 title: 电子邮件跟踪概述
 hide: true
 hidefromtoc: true
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: d8f7d7ddf804847e20bf978bf2fc74694b719009
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,14 @@ ht-degree: 0%
 
 这意味着，如果您通过电子邮件发送flynn@flynnsarcade.com，而他回复了kevinf@flynnsarcade.com，则我们能够跟踪回复。 此外，如果您通过电子邮件发送flynn@flynnsarcade.com和CC alan@encom.com,Alan将您回复，它也会检测到回复并结束营销活动。
 
-## 回复跟踪的工作原理 {#how-reply-tracking-works}
+## 如何跟踪电子邮件附件 {#how-to-track-your-email-attachments}
 
 文本
 
-## 如何跟踪电子邮件附件 {#how-to-track-your-email-attachments}
+## 视图跟踪的工作原理 {#how-view-tracking-works}
 
+文本
+
+## 测试电子邮件未显示为已查看 {#test-email-not-showed-as-viewed}
+
+文本
