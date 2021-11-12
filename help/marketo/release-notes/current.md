@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
 workflow-type: tm+mt
-source-wordcount: '1088'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,8 @@ ht-degree: 0%
 ## 公告 {#announcements}
 
 **Associate Lead弃用/Munchkin Beta 161更新**:2021年9月7日，161版的Munchkin开始在启用Munchkin Beta的情况下向10%的用户推出，随后在9月16日为50%，在9月30日为100%。 此更改会影响Marketo Engage登陆页面，并且提供给外部登陆页面的文件munchkin-beta.js版本会从最新版本已推出的订阅加载。 此版本完全弃用了Munchkin关联潜在客户方法，该方法允许将个人数据提交到Marketo Engage订阅，并将Web浏览历史记录与已知的人员记录关联。 正在删除关联潜在客户，以支持更新且更安全的替代方案，例如Forms JS API、表单提交API和关联潜在客户REST API。 [请在此处了解有关此弃用功能的更多信息](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+
+**Sales Connect Update**:Sales Connect中最近的UI更改导致Salesforce中的某些模型被截断。 要解决此问题，请执行 [包更新](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **_产品发行网络研讨会_**
 
