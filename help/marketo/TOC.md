@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '7981'
+source-wordcount: '8041'
 ht-degree: 0%
 
 ---
@@ -1269,6 +1269,25 @@ ht-degree: 0%
             + [我的动态字段没有填满](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [在动态字段中引用您自己](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
+      + 操作 {#actions}
+         + 管理员 {#admin}
+            + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [内容锁定](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [创建团队](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [如何设置自定义域跟踪](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+            + [邀请用户和管理员](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+         + 电子邮件 {#email}
+            + 命令中心 {#command-center}
+               + [高级搜索概述](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+               + [将任务分配给团队成员](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+               + [命令中心概述](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [电子邮件列和电子邮件页面布局](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+               + [命令中心中的快速操作](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+         + 电子邮件设置 {#email-settings}
+            + [验证电子邮件](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + 发送销售电子邮件 {#send-a-sales-email}
+            + [电子邮件跟踪概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + 使用MSI {#using-msi}
          + [在Marketo中记录来自您潜在客户的入站邮件](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome插件 {#msi-chrome-plugin}

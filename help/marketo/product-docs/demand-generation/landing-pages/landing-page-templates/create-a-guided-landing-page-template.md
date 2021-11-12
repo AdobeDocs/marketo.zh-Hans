@@ -3,7 +3,7 @@ unique-page-id: 7515401
 description: 创建引导式登陆页面模板 — Marketo文档 — 产品文档
 title: 创建引导式登陆页面模板
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
-source-git-commit: c309b69198c6f61d7475c6d3a6b1672e045b9b4a
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
 source-wordcount: '1254'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 示例：
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div>`
 
 ## 图像 {#image}
 
@@ -60,7 +60,7 @@ mktoImgClass:字符串。 此处的值将添加到的类属性中 `<img>` div内
 
 示例：
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
 ## 选项2 — 使用 `<img>` {#option-use-a-img}
 
@@ -74,7 +74,7 @@ src:字符串URL。 此值将用作图像的默认值。
 
 示例：
 
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 >[!NOTE]
 >
@@ -87,7 +87,7 @@ src:字符串URL。 此值将用作图像的默认值。
 **id**:ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许有空格。 必须唯一。\
 **mktoName** :字符串。 这是将在登陆页面编辑器中显示的显示名称。 最佳实践是使用描述性名称。
 
-`<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
+`<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## 代码片段 {#snippet}
 
@@ -98,7 +98,7 @@ src:字符串URL。 此值将用作图像的默认值。
 
 示例：
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
+`<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
 
 ## “共享”按钮 {#share-button}
 
@@ -109,7 +109,7 @@ src:字符串URL。 此值将用作图像的默认值。
 
 示例：
 
-`<pre data-theme="Confluence"><div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div></pre>`
+`<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
 
 ## 视频 {#video}
 
@@ -124,7 +124,7 @@ src:字符串URL。 此值将用作图像的默认值。
 
 示例：
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div></pre>`
+`<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
 
 ## 投票 {#poll}
 
@@ -135,7 +135,7 @@ src:字符串URL。 此值将用作图像的默认值。
 
 示例：
 
-`<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
+`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
 
 ## 反向链接 {#referral}
 
@@ -146,7 +146,7 @@ src:字符串URL。 此值将用作图像的默认值。
 
 示例：
 
-`<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
+`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
 
 ## 抽奖活动 {#sweepstakes}
 
@@ -157,7 +157,7 @@ src:字符串URL。 此值将用作图像的默认值。
 
 示例：
 
-`<pre data-theme="Confluence"><div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div></pre>`
+`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## 可编辑变量 {#editable-variables}
 
@@ -165,7 +165,7 @@ src:字符串URL。 此值将用作图像的默认值。
 
 示例：
 
-`<pre data-theme="Confluence">${var1}</pre>`
+`${var1}`
 
 **声明：**
 
@@ -184,11 +184,11 @@ src:字符串URL。 此值将用作图像的默认值。
 
 基本示例：
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable">`
 
 所有属性的示例：
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
 
 ## 颜色 {#color}
 
@@ -202,11 +202,11 @@ src:字符串URL。 此值将用作图像的默认值。
 
 基本示例：
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color1" mktoName="My Color Variable"></pre>`
+`<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
 
 所有属性的示例：
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 ## 布尔值 {#boolean}
 
@@ -224,15 +224,15 @@ src:字符串URL。 此值将用作图像的默认值。
 
 基本示例：
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable"></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 所有属性的示例：
 
 此示例显示了一个常见用例，其中布尔变量通过将css display属性的值设置为“block”或“none”来控制css元素的可见性，从而按CSS的id显示/隐藏元素。 登陆页面编辑器将使用显示名称“显示/隐藏”，而不是“关闭/打开”。
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 
 >[!NOTE]
 >
