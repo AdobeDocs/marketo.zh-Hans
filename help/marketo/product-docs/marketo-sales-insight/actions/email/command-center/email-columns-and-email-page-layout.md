@@ -1,11 +1,11 @@
 ---
-description: null
-title: null
+description: 电子邮件列和电子邮件页面布局 — Marketo文档 — 产品文档
+title: 电子邮件列和电子邮件页面布局
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: 8dccd250f5006b70f07b8179134b1db688380260
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
