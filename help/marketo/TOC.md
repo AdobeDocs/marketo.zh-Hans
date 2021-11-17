@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
 workflow-type: tm+mt
-source-wordcount: '8041'
+source-wordcount: '8050'
 ht-degree: 0%
 
 ---
@@ -658,7 +658,7 @@ ht-degree: 0%
       + Facebook {#facebook}
          + [在Facebook中向自定义受众添加潜在客户](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [在Facebook中创建自定义受众](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [编辑Facebook富帖子设置](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [Edit Facebook Rich Post Settings](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [将登陆页面发布到Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [设置Facebook潜在客户广告](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [将自定义字段映射到Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
@@ -1081,12 +1081,12 @@ ht-degree: 0%
       + 管理员 {#admin}
          + [其他管理员](product-docs/marketo-sales-connect/admin/additional-admins.md)
          + [阻止的域](product-docs/marketo-sales-connect/admin/blocked-domains.md)
-         + [内容锁定](product-docs/marketo-sales-connect/admin/content-lockdown.md)
+         + [Content Lockdown](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [创建子团队](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
-         + [邀请用户](product-docs/marketo-sales-connect/admin/invite-users.md)
+         + [Invite Users](product-docs/marketo-sales-connect/admin/invite-users.md)
          + [在Sales Connect中通过SAML 2.0设置单点登录](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [共享设置](product-docs/marketo-sales-connect/admin/sharing-settings.md)
-         + [用户访问详细信息](product-docs/marketo-sales-connect/admin/user-access-details.md)
+         + [User Access Details](product-docs/marketo-sales-connect/admin/user-access-details.md)
       + Analytics {#analytics}
          + [Analytics页面概述](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [了解“内容”选项卡](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
@@ -1098,11 +1098,11 @@ ht-degree: 0%
          + [营销活动步骤类型](product-docs/marketo-sales-connect/campaigns/campaign-step-types.md)
          + [创建营销活动](product-docs/marketo-sales-connect/campaigns/create-a-campaign.md)
          + [从营销活动中删除人员](product-docs/marketo-sales-connect/campaigns/remove-people-from-a-campaign.md)
-         + [计划营销活动](product-docs/marketo-sales-connect/campaigns/schedule-a-campaign.md)
-         + [跳过周末](product-docs/marketo-sales-connect/campaigns/skip-weekends.md)
-         + [关闭营销活动](product-docs/marketo-sales-connect/campaigns/turn-off-a-campaign.md)
+         + [Schedule a Campaign](product-docs/marketo-sales-connect/campaigns/schedule-a-campaign.md)
+         + [Skip Weekends](product-docs/marketo-sales-connect/campaigns/skip-weekends.md)
+         + [Turn off a Campaign](product-docs/marketo-sales-connect/campaigns/turn-off-a-campaign.md)
          + [了解发送选项](product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)
-         + [在营销活动中使用任务](product-docs/marketo-sales-connect/campaigns/using-tasks-in-campaigns.md)
+         + [Using Tasks in Campaigns](product-docs/marketo-sales-connect/campaigns/using-tasks-in-campaigns.md)
          + [以其他用户的身份查看营销活动列表](product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
          + Salesforce自定义 {#salesforce-customization}
@@ -1273,10 +1273,11 @@ ht-degree: 0%
          + 管理员 {#admin}
             + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [内容锁定](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
-            + [创建团队](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [创建团队](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [如何设置自定义域跟踪](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [邀请用户和管理员](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [用户访问详细信息](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + 电子邮件 {#email}
             + 命令中心 {#command-center}
                + [高级搜索概述](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1286,6 +1287,8 @@ ht-degree: 0%
                + [命令中心中的快速操作](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
          + 电子邮件设置 {#email-settings}
             + [验证电子邮件](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Marketo {#marketo}
+            + [授予Marketo用户访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 发送销售电子邮件 {#send-a-sales-email}
             + [电子邮件跟踪概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + 使用MSI {#using-msi}
@@ -1505,11 +1508,11 @@ ht-degree: 0%
             + [过滤营销活动电子邮件报表中的资产](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [在电子邮件报表中筛选资产](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [按属性分组人员报表](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
-            + [报表电子邮件、跨工作区的营销活动效果](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
-            + [在工作区中共享模型](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
+            + [Report Email, Campaign Performance Across Workspaces](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
+            + [Share a Model Across Workspaces](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
             + [跟踪匿名活动和人员](product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
          + 报表订阅 {#report-subscriptions}
-            + [编辑智能列表订阅](product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+            + [Edit a Smart List Subscription](product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
             + [管理报表订阅](product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)
             + [保护订阅管理员设置](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
             + [订阅基本报表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
@@ -1517,15 +1520,15 @@ ht-degree: 0%
          + 报表类型 {#report-types}
             + [促销活动报表](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [营销活动电子邮件效果报表](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-            + [公司Web活动报表](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-            + [按状态划分的人员报表](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-            + [人员绩效报表](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+            + [Company Web Activity Report](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+            + [People by Status Report](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+            + [People Performance Report](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [报表类型概述](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
             + [网页活动报表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
-            + [已查看的网页、网页活动报表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+            + [Web Pages Viewed, Web Page Activity Report](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + 电子邮件分析 {#email-insights}
          + [电子邮件分析概述](product-docs/reporting/email-insights/email-insights-overview.md)
-         + [用于电子邮件分析的自定义Dimension](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
+         + [Custom Dimensions for Email Insights](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
          + [电子邮件分析概述](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
          + [电子邮件分析常见问题解答](product-docs/reporting/email-insights/email-insights-faq.md)
          + [电子邮件分析快速图表](product-docs/reporting/email-insights/email-insights-quick-charts.md)
@@ -1535,11 +1538,11 @@ ht-degree: 0%
          + [性能分析概述](product-docs/reporting/performance-insights/performance-insights-overview.md)
          + [在性能分析中过滤](product-docs/reporting/performance-insights/filtering-in-performance-insights.md)
          + [性能分析贡献概述](product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
-         + [性能分析功能板](product-docs/reporting/performance-insights/performance-insights-dashboards.md)
+         + [Performance Insights Dashboards](product-docs/reporting/performance-insights/performance-insights-dashboards.md)
          + [性能分析常见问题解答](product-docs/reporting/performance-insights/performance-insights-faq.md)
          + [性能分析快速图](product-docs/reporting/performance-insights/performance-insights-quick-charts.md)
-         + [性能分析设置](product-docs/reporting/performance-insights/performance-insights-settings.md)
-         + [性能分析趋势概述](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
+         + [Performance Insights Settings](product-docs/reporting/performance-insights/performance-insights-settings.md)
+         + [Performance Insights Trend Overview](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [设置性能分析](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
          + [将自定义字段同步到性能分析](product-docs/reporting/performance-insights/sync-custom-fields-to-performance-insights.md)
       + 收入周期分析 {#revenue-cycle-analytics}
@@ -1751,7 +1754,7 @@ ht-degree: 0%
          + [发行说明：2013年4月](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [发行说明：2013年8月](release-notes/previous-releases/2013/release-notes-august-2013.md)
          + [发行说明：2013年12月](release-notes/previous-releases/2013/release-notes-december-2013.md)
-         + [发行说明：2013年2月](release-notes/previous-releases/2013/release-notes-february-2013.md)
+         + [Release Notes: February 2013](release-notes/previous-releases/2013/release-notes-february-2013.md)
          + [发行说明：2013年1月](release-notes/previous-releases/2013/release-notes-january-2013.md)
          + [发行说明：2013年7月](release-notes/previous-releases/2013/release-notes-july-2013.md)
          + [发行说明：2013年6月](release-notes/previous-releases/2013/release-notes-june-2013.md)
