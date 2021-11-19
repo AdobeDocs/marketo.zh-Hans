@@ -3,9 +3,9 @@ description: 内容锁定 — Marketo文档 — 产品文档
 title: 内容锁定
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >用户在发送或启动营销活动时仍能编辑电子邮件的内容。
 
-1. 在 [Web应用程序](https://toutapp.com/login)，请单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标，然后选择 **设置**.
 
    ![](assets/content-lockdown-1.png)
 

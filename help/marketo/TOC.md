@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '8057'
+source-wordcount: '8068'
 ht-degree: 0%
 
 ---
@@ -1288,12 +1288,16 @@ ht-degree: 0%
             + 取消订阅 {#unsubscribes}
                + [取消订阅概述](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [自定义取消订阅链接消息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
+               + [Marketo取消订阅检查](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+               + [正在将取消订阅与Salesforce同步](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + 电子邮件设置 {#email-settings}
             + [验证电子邮件](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
             + [授予Marketo用户访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 发送销售电子邮件 {#send-a-sales-email}
             + [电子邮件跟踪概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
+         + 模板 {#templates}
+            + [管理模板类别](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
       + 使用MSI {#using-msi}
          + [在Marketo中记录来自您潜在客户的入站邮件](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome插件 {#msi-chrome-plugin}
