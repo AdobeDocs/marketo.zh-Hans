@@ -3,9 +3,9 @@ description: 管理模板 — Marketo文档 — 产品文档
 title: '管理模板 '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,31 @@ ht-degree: 0%
 >[!TIP]
 >
 >始终在模板中直接键入文本，或从纯文本编辑器（例如，记事本或文本编辑）复制。 从富文本编辑器（例如，MS Word）复制和粘贴可能会导致格式不正常。
+
+## 查看模板详细信息 {#view-template-details}
+
+“模板详细信息”区域包含多个选项卡。
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>模板</strong></td>
+  <td>查看并进行编辑，设置标准以使模板成为推荐的模板，添加注释</td>
+ </tr>
+ <tr>
+  <td><strong>Analytics</strong></td>
+  <td>查看模板的参与度分析。 执行过滤的搜索。</td>
+ </tr>
+ <tr>
+  <td><strong>电子邮件</strong></td>
+  <td>查看使用此模板发送的所有电子邮件。 执行过滤的搜索。</td>
+ </tr>
+ <tr>
+  <td><strong>促销活动</strong></td>
+  <td>查看模板正在使用的营销活动。</td>
+ </tr>
+</table>
 
 ## 共享模板 {#share-a-template}
 
@@ -92,9 +117,17 @@ ht-degree: 0%
 
 存档模板，以保持销售内容的有序性和集中性，而不会丢失任何模板数据。
 
-选中模板旁边的框，然后单击 **存档**.
+1. 选中要存档的模板旁边的复选框。
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. 单击 **存档**.
+
+   ![](assets/manage-templates-15.png)
+
+1. 单击 **存档** 确认。
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ PICC
 >
 >删除模板也会删除与其关联的所有跟踪和分析。
 
-1. 选择要删除的模板。
+1. 选中要删除的模板旁边的复选框。
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. 单击右上方的菜单下拉菜单，然后单击 **删除**.
+1. 单击 **删除**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. 单击 **删除** 确认。
 
-PICC
+   ![](assets/manage-templates-19.png)

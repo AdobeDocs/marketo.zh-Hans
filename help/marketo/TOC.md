@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '8068'
+source-wordcount: '8083'
 ht-degree: 0%
 
 ---
@@ -1278,6 +1278,10 @@ ht-degree: 0%
             + [邀请用户和管理员](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [用户访问详细信息](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + CRM {#crm}
+            + Salesforce集成 {#salesforce-integration}
+               + [将您的Marketo销售帐户连接到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [Salesforce同步设置](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + 电子邮件 {#email}
             + 命令中心 {#command-center}
                + [高级搜索概述](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1297,6 +1301,7 @@ ht-degree: 0%
          + 发送销售电子邮件 {#send-a-sales-email}
             + [电子邮件跟踪概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + 模板 {#templates}
+            + [管理模板](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [管理模板类别](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
       + 使用MSI {#using-msi}
          + [在Marketo中记录来自您潜在客户的入站邮件](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
