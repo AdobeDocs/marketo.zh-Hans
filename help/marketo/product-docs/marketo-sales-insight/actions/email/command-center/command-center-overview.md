@@ -3,9 +3,9 @@ description: 命令中心概述 — Marketo文档 — 产品文档
 title: 命令中心概述
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 在指挥中心的电子邮件部分，您可以管理所有电子邮件活动。 可将其视为您的电子邮件发件箱，以审核从Sales Connect发送的电子邮件。 管理计划的电子邮件、查看谁正在处理您的电子邮件、检查您的电子邮件是否存在任何问题等。
 
-PICC
+![](assets/command-center-overview-1.png)
 
 电子邮件部分为您提供了对所有电子邮件的鸟瞰视图，并通过主要选项卡和子选项卡简化了其组织，这些选项卡和子选项卡可充当文件夹，根据电子邮件的状态自动将其存储在这些文件夹中。
 
@@ -73,7 +73,7 @@ PICC
 
 任务部分是您用于管理和完成任务的一站式商店。 在此，您可以无缝地管理任务，以提高工作效率，并专注于最相关的项目。
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## 与参与的前景的后续行动 {#follow-up-with-engaged-prospects}
 

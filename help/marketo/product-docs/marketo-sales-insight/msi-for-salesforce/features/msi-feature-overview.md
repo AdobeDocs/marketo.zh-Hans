@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI功能概述 — Marketo文档 — 产品文档
 title: MSI功能概述
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -195,4 +195,7 @@ Marketo Sales Insight按语言进行存储。 因此，如果您希望它适用�
 
 >[!NOTE]
 >
->联系人/潜在客户需要位于默认分区中才能添加到监视列表。
+>* 联系人/潜在客户需要位于默认分区中才能添加到监视列表。
+>
+>* MSI Salesforce包不支持具有相关字段的自定义视图。
+
