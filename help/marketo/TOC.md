@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 74b5928ab8e8b7cb39261fdedce51f6aad7c400f
+source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 0%
@@ -1296,7 +1296,7 @@ ht-degree: 0%
                + [正在将取消订阅与Salesforce同步](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + 电子邮件投放 {#email-delivery}
             + [投放渠道概述](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [电子邮件连接限制](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [电子邮件连接限制](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
             + [设置自定义投放渠道](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + 电子邮件设置 {#email-settings}
             + [验证电子邮件](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
