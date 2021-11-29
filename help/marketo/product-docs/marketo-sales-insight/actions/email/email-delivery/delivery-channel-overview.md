@@ -3,9 +3,9 @@ description: 交付渠道概述 — Marketo文档 — 产品文档
 title: 投放渠道概述
 hide: true
 hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,12 @@ Marketo Sales提供了连接第三方SMTP服务器以用作您销售团队首选
 Marketo销售服务器仅适用于某些旧版ToutApp客户。 这些客户将在其电子邮件设置中看到Marketo销售服务器。 所有非旧版客户都不会将Marketo Sales视为一个选项，应将其Gmail或Outlook帐户连接到Marketo Sales以解锁投放渠道。
 
 Marketo销售服务器不支持DKIM和SPF身份验证方法，这会降低可投放性率。 因此，我们建议所有客户连接到Gmail或Outlook，以获得最佳投放能力。
+
+## MSC服务器（旧版） {#msc-servers-legacy}
+
+MSC服务器仅适用于某些旧版ToutApp客户。 这些客户将在其电子邮件设置中看到MSC服务器。 所有非旧版客户都不会将MSC视为一个选项，应将其Gmail或Outlook帐户连接到Sales Connect以解锁投放渠道。
+
+MSC服务器不支持DKIM和SPF身份验证方法，这可以降低可投放性率。 因此，我们建议所有客户连接到Gmail或Outlook，以获得最佳投放能力。
 
 ## Marketo服务器 {#marketo-servers}
 

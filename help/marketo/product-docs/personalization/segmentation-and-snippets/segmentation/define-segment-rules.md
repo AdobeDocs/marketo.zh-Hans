@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: 定义区段规则 — Marketo文档 — 产品文档
 title: 定义区段规则
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >我们建议 _对_ 在定义区段规则时使用“帐户”字段，因为这可能会导致活动日志记录问题。
+   >帐户字段的活动日志记录行为可能会影响资格鉴定。 因此，我们建议在定义区段规则时不要使用帐户字段。
 
 1. 单击 **人员（草稿）** 选项卡，以查看可能符合此区段成员资格的人员。
 
