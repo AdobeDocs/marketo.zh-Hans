@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: fdc494a8b3002e851bbe76dcd69c58e6d5a00ee6
+source-git-commit: 97e6f8d4fd2efc71d82666a3b458b1736fe7abde
 workflow-type: tm+mt
-source-wordcount: '8101'
+source-wordcount: '8099'
 ht-degree: 0%
 
 ---
@@ -1273,7 +1273,6 @@ ht-degree: 0%
          + 快速入门 {#getting-started}
             + 电子邮件设置 {#email-settings}
                + [验证电子邮件](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
-            + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
          + 管理员 {#admin}
             + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [内容锁定](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
