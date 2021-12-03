@@ -3,9 +3,9 @@ description: 用户访问详细信息 — Marketo文档 — 产品文档
 title: 用户访问详细信息
 hide: true
 hidefromtoc: true
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ![](assets/user-access-details-4.png)
 
-所有人员记录都可以在“每个人”组中访问。
+管理员可以通过查看方式下拉列表查看用户营销活动和营销活动类别。
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,12 @@ ht-degree: 0%
    * 用户可以只深入到他们所属的团队
    * 用户可以查看自己的分析
 
-* 关系页面：
+* 人员页面：
 
    * 用户可以与每个人共享组
    * 用户可以仅与其所属的团队共享组
+   * 用户将能够看到您的操作数据库中的所有人员
    * 删除用户后，其共享联系人会将所有权转移给删除该用户的主控管理员
-
-* 销售节点 — 下一个和实时信息源：
-
-   * 用户可以查看“每个人”视图
-   * 用户可以按其所属的团队进行筛选
-   * 用户可以与每个人共享帖子
-   * 用户可以仅与其所属的团队共享帖子
 
 * 团队管理页面：
 

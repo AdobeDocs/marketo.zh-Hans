@@ -3,14 +3,14 @@ description: 我能否通过抄送/密件抄送 — Marketo文档 — 产品文�
 title: 我是否可以通过抄送/密件抄送跟踪多个收件人
 hide: true
 hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# 我是否可以通过抄送/密件抄送跟踪多个收件人 {#can-i-track-multiple-recipients-with-cc-bcc}
+# 我是否可以通过抄送/密件抄送跟踪多个收件人？ {#can-i-track-multiple-recipients-with-cc-bcc}
 
 您可以像在电子邮件中一样通过抄送和密件抄送个人。
 
