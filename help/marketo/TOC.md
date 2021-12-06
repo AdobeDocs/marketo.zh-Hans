@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
-source-wordcount: '8119'
+source-wordcount: '8147'
 ht-degree: 0%
 
 ---
@@ -1177,7 +1177,6 @@ ht-degree: 0%
             + [营销活动已结束](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [电子邮件中的抄送或密送](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [标记为垃圾邮件的电子邮件](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [在电子邮件中发送文件附件](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
          + 实时信息源 {#the-live-feed}
             + [收件人位置不正确](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [实时信息源概述](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
@@ -1297,15 +1296,21 @@ ht-degree: 0%
                + [命令中心概述](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [电子邮件列和电子邮件页面布局](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [命令中心中的快速操作](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+            + 电子邮件投放 {#email-delivery}
+               + [投放渠道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [电子邮件连接限制](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [为您的团队设置自定义投放渠道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + 取消订阅 {#unsubscribes}
                + [取消订阅概述](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [自定义取消订阅链接消息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo取消订阅检查](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [正在将取消订阅与Salesforce同步](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-            + 电子邮件投放 {#email-delivery}
-               + [投放渠道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
-               + [电子邮件连接限制](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [为您的团队设置自定义投放渠道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + 使用撰写窗口 {#using-the-compose-window}
+               + [向电子邮件中添加附件或可跟踪内容](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+               + [向电子邮件中添加重点内容](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
+               + [批量电子邮件发送选项](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+               + [使用选择并发送来合成批量电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+               + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
          + Marketo {#marketo}
             + [授予Marketo用户访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 发送销售电子邮件 {#send-a-sales-email}
