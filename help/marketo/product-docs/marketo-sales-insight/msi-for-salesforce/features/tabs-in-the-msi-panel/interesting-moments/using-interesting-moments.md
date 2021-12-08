@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 使用有趣的时刻 — Marketo文档 — 产品文档
 title: 使用有趣的时刻
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->这些功能仅适用于Marketo Sales Insight和[Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)客户。
+>这些功能可用于Marketo Sales Insight和 [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) 仅限客户。
 
 ## 什么是有趣的时刻？ {#what-is-an-interesting-moment}
 
@@ -28,21 +28,21 @@ ht-degree: 0%
 
 ## 如何创造有趣的时刻？  {#how-do-i-create-an-interesting-moment}
 
-1. 选择[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的销售团队在触发时会发现一个有趣的营销活动。
+1. 选择 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的销售团队在触发时会发现其中一个有趣。
 
-   ![](assets/image2015-1-8-18-3a8-3a54.png)
+   ![](assets/using-interesting-moments-1.png)
 
-1. 拖动到&#x200B;**有趣的时刻**&#x200B;流步骤上。
+1. 在 **有趣的时刻** 流步骤。
 
-   ![](assets/image2015-1-8-18-3a15-3a20.png)
+   ![](assets/using-interesting-moments-2.png)
 
-1. 选择&#x200B;**类型**（电子邮件、里程碑或Web）。
+1. 选择 **type** （电子邮件、里程碑或Web）。
 
-   ![](assets/image2015-1-8-18-3a17-3a16.png)
+   ![](assets/using-interesting-moments-3.png)
 
-1. 在&#x200B;**Description**&#x200B;字段中向您的销售团队发送一条消息，以说明此操作为何重要。
+1. 在 **描述** 字段来解释此操作为何重要。
 
-   ![](assets/image2015-1-8-18-3a18-3a23.png)
+   ![](assets/using-interesting-moments-4.png)
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## 这怎么会更有趣？  {#how-can-this-get-even-more-interesting}
 
-令牌！ 在描述字段中添加这些参数，以向您的销售团队提供更具体的信息，例如潜在客户打开的电子邮件的主题行或发送者。 请查看[有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)术语表中可以使用哪些令牌。
+令牌！ 在描述字段中添加这些参数，以向您的销售团队提供更具体的信息，例如潜在客户打开的电子邮件的主题行或发送者。 查看可在 [令牌表达有趣时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 术语表。
 
 >[!TIP]
 >
@@ -58,18 +58,32 @@ ht-degree: 0%
 
 ## 在Marketo，什么是有趣的时刻？  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-有趣的时刻将显示在[潜在客户的活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中。
+有趣的时刻将显示在 [潜在客户的活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
-![](assets/image2015-1-14-18-3a45-3a58.png)
+![](assets/using-interesting-moments-5.png)
 
 ## 在Salesforce中，一个有趣的时刻是什么？  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-安装了[Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)后，潜在客户、联系人、帐户或商机页面上将显示有趣的时刻。 它们还显示在“销售分析”功能板中的“潜在客户信息源”、“最佳预测”和“监视列表”中。
+一旦 [安装了Marketo Sales Insight应用程序](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)，则潜在客户、联系人、帐户或机会页面上会显示有趣的时刻。 它们还显示在“销售分析”功能板中的“潜在客户信息源”、“最佳预测”和“监视列表”中。
 
-![](assets/six.png)
+![](assets/using-interesting-moments-6.png)
 
 ## 在Salesforce1中，有什么有趣的时刻？ {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
 安装或更新Marketo Sales Insight for Salesforce1后，潜在客户的相关链接下将显示有趣的时刻。
 
-![](assets/seven.png)
+![](assets/using-interesting-moments-7.png)
+
+## 订阅有趣的时刻 {#subscribe-to-interesting-moments}
+
+您可以通过单击“关注时刻”选项卡或“潜在客户信息源”中的“订阅”按钮来订阅“关注时刻”。 对于这两个报表，以下步骤相同。
+
+1. 单击订阅图标。 然后，您将导航到电子邮件订阅选项卡。
+
+1. 您可以根据“名称”、“帐户”、“类型”或“描述”选择要接收的电子邮件警报类型。
+
+1. 选择要向（您自己/团队成员）发送警报的电子邮件地址
+
+1. 单击 **订阅**.
+
+![](assets/using-interesting-moments-8.png)
