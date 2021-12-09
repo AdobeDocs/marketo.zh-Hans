@@ -3,9 +3,10 @@ description: 初始设置 — Marketo文档 — 产品文档
 title: 初始设置
 hide: true
 hidefromtoc: true
-source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
+exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---

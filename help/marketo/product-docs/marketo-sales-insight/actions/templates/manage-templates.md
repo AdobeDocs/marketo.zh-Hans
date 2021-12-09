@@ -1,9 +1,10 @@
 ---
 description: 管理模板 — Marketo文档 — 产品文档
-title: '管理模板 '
+title: 管理模板
 hide: true
 hidefromtoc: true
-source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
+exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 0%

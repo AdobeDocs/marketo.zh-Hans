@@ -3,7 +3,8 @@ description: 验证电子邮件 — Marketo文档 — 产品文档
 title: 验证电子邮件
 hide: true
 hidefromtoc: true
-source-git-commit: 97e6f8d4fd2efc71d82666a3b458b1736fe7abde
+exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

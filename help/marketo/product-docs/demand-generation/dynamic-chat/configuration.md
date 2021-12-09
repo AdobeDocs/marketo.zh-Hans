@@ -3,7 +3,8 @@ description: 配置 — Marketo文档 — 产品文档
 title: 配置
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 了解如何自定义聊天机器人对话框窗口的外观。
 
-要开始配置，请单击&#x200B;**Configuration**。
+要开始配置，请单击 **配置**.
 
 ![](assets/configuration-1.png)
 
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 您将在此处定义将显示对话框的聊天机器人的外观，包括：颜色、字体、机器人小组件的位置以及聊天机器人的名称/头像。
 
-每个类别的颜色由[十六进制颜色值](https://color.adobe.com/create/color-wheel)(例如，白色= #ffffff、红色= #bf1932等)确定。
+每个类别的颜色由 [十六进制颜色值](https://color.adobe.com/create/color-wheel) (例如，白色= #ffffff、红色= #bf1932等)。
 
 ![](assets/configuration-3.png)
 
@@ -42,13 +43,13 @@ ht-degree: 0%
 
 ![](assets/configuration-5.png)
 
-完成更改后，请记得单击&#x200B;**Save**。
+完成更改后，请记住单击 **保存**.
 
 ![](assets/configuration-6.png)
 
 ## “隐私”选项卡 {#privacy-tab}
 
-单击&#x200B;**Privacy**&#x200B;选项卡，以添加/编辑网站隐私政策的URL（可选）。
+单击 **隐私** 选项卡，以添加/编辑网站隐私政策的URL（可选）。
 
 ![](assets/configuration-7.png)
 

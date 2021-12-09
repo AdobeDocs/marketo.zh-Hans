@@ -1,9 +1,10 @@
 ---
 description: Web活动 — Marketo文档 — 产品文档
 title: Web活动
-source-git-commit: 8227648ce67bf0f9f8b3b2fea7445850d8e154d5
+exl-id: dca3f5ca-72b4-4c9c-a0fc-d9dee37c8ad6
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---

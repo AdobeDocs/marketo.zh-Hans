@@ -3,7 +3,8 @@ description: 阻止的域 — Marketo文档 — 产品文档
 title: 阻止的域
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 004ba212-485e-4412-be75-7de13505d9b0
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -18,15 +19,15 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在Web应用程序中，单击齿轮图标，然后选择&#x200B;**设置**。
+1. 在Web应用程序中，单击齿轮图标，然后选择 **设置**.
 
    ![](assets/blocked-domains-1.png)
 
-1. 在“管理员设置”下，单击&#x200B;**常规**。
+1. 在“管理员设置”下，单击 **常规**.
 
    ![](assets/blocked-domains-2.png)
 
-1. 输入要阻止的域，然后单击&#x200B;**块域**。
+1. 输入要阻止的域并单击 **块域**.
 
    ![](assets/blocked-domains-3.png)
 

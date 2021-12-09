@@ -1,7 +1,8 @@
 ---
 description: 切换开关 — Marketo文档 — 产品文档
 title: 切换开关
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -52,7 +53,7 @@ ht-degree: 0%
 
 ## 为所有功能启用 {#enable-for-all-features}
 
-您可以选择为Marketo的下一代界面启用所有可用功能（当前和即将提供）。
+您可以选择启用Marketo的下一代界面，以了解当前和即将推出的所有可用功能。
 
 1. 在当前具有切换开关的区域(在本例中，我们位于 [表单详细信息页面](#form-details-page))，请单击页面右下方的齿轮图标。
 

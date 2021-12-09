@@ -3,7 +3,8 @@ description: 对话框 — Marketo文档 — 产品文档
 title: 对话框
 hide: true
 hidefromtoc: true
-source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
+exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
@@ -16,15 +17,15 @@ ht-degree: 0%
 
 ## 创建新对话框 {#create-a-new-dialogue}
 
-1. 单击&#x200B;**对话框**。
+1. 单击 **对话框**.
 
    ![](assets/dialogues-1.png)
 
-1. 单击&#x200B;**新建**&#x200B;按钮。
+1. 单击 **新建** 按钮。
 
    ![](assets/dialogues-2.png)
 
-1. 输入名称（说明是可选的），设置优先级级别，然后单击&#x200B;**Save**。
+1. 输入名称（说明是可选的），设置优先级级别，然后单击 **保存**.
 
    ![](assets/dialogues-3.png)
 
@@ -38,25 +39,25 @@ ht-degree: 0%
 
 **已知人员**
 
-有许多&#x200B;_属性组合可供选择。_&#x200B;在本例中，我们定位的是加利福尼亚州所有在公司工作且员工超过50名的&#x200B;**已知人员**。
+有 _许多_ 属性组合进行选择。 在本例中，我们定位了所有 **已知人员** 在一家员工超过50人的公司工作。
 
-1. 抓取&#x200B;**人员状态**&#x200B;属性并将其拖动到右侧。
+1. 抓住 **人员状态** 属性并将其拖动到右侧。
 
    ![](assets/dialogues-4.png)
 
-1. __ 默认设置ISIS。在选择值字段中，键入CA（您还可以单击下拉菜单并从列表中选择）。
+1. _是_ 设置。 在选择值字段中，键入CA（您还可以单击下拉菜单并从列表中选择）。
 
    ![](assets/dialogues-5.png)
 
-1. 抓取&#x200B;**公司大小**&#x200B;属性，并将其拖动到其显示&#x200B;_的位置，在此处拖放属性_。
+1. 抓住 **公司规模** 属性并将其拖动到其中显示的位置 _在此处拖放属性_.
 
    ![](assets/dialogues-6.png)
 
    >[!NOTE]
    >
-   >您还可以通过单击属性的&#x200B;**+**&#x200B;图标来选择属性。
+   >您还可以通过单击 **+** 图标。
 
-1. 单击运算符下拉列表，然后选择&#x200B;**大于**。
+1. 单击运算符下拉列表，然后选择 **大于**.
 
    ![](assets/dialogues-7.png)
 
@@ -68,25 +69,25 @@ ht-degree: 0%
 
 **匿名人员**
 
-有一种简单的方法可以专门定位尚未在数据库中的人员。 在此示例中，我们定位的是位于纽约地区的所有&#x200B;**匿名人员**。
+有一种简单的方法可以专门定位尚未在数据库中的人员。 在本例中，我们定位了所有 **匿名人员** 在纽约地区。
 
-1. 获取&#x200B;**人员电子邮件**&#x200B;属性，并将其拖动到右侧。
+1. 抓住 **人员电子邮件** 属性并将其拖动到右侧。
 
    ![](assets/dialogues-9.png)
 
-1. 单击运算符下拉列表，然后选择&#x200B;**Is Empty**。
+1. 单击运算符下拉列表，然后选择 **为空**.
 
    ![](assets/dialogues-10.png)
 
-1. 抓取&#x200B;**Intercuted State**&#x200B;属性，并将其拖动到其显示&#x200B;_的位置，在此处拖放属性_。
+1. 抓住 **推断状态** 属性并将其拖动到其中显示的位置 _在此处拖放属性_.
 
    ![](assets/dialogues-11.png)
 
    >[!NOTE]
    >
-   >当某人访问您的网站时， [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)会将其cookie并放入系统中。 我们在一个特殊的数据库中查找他们的IP信息，并推断出各种好信息。
+   >当有人访问您的网站时， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 给他们点饼干，然后放到系统中。 我们在一个特殊的数据库中查找他们的IP信息，并推断出各种好信息。
 
-1. __ 默认设置ISIS。在选择值字段中，键入NY（您也可以单击下拉菜单并从列表中选择）。
+1. _是_ 设置。 在选择值字段中，键入NY（您也可以单击下拉菜单并从列表中选择）。
 
    ![](assets/dialogues-12.png)
 
@@ -111,7 +112,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->使用星号可充当通用通配符。 因此，`https://*.website.com`会在网站的每个页面上都放置对话框，包括子域(例如：`support.website.com`)。 `https://website.com/folder/*`会将对话框置于后续文件夹中的每个HTML页面(例如：在本例中，假设文件夹为“sports”，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>使用星号可充当通用通配符。 所以 `https://*.website.com` 会在网站的每个页面上都放置对话框，包括子域(例如： `support.website.com`)。 和 `https://website.com/folder/*` 会将对话框置于后续文件夹中的每个HTML页面(例如：在本例中，假设文件夹为“sports”，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
 
 ## 流设计器 {#stream-designer}
 
@@ -133,7 +134,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td><strong>日程安排计划程序</strong></td>
-  <td>为访客提供可用日期的日历以安排后续活动。 日历可用性反映了<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">行</a>中的下一个代理。</td>
+  <td>为访客提供可用日期的日历以安排后续活动。 日历可用性反映 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">下一位代理排队</a>.</td>
  </tr>
  <tr>
   <td><strong>意愿</strong></td>
@@ -143,7 +144,7 @@ ht-degree: 0%
 
 **创建流**
 
-有许多&#x200B;_可能的流组合。_&#x200B;让我们看一下本文](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)中的一个示例[。
+有 _许多_ 可能的流组合。 让我们看一个示例 [在本文中](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## 报表 {#reports}
 
