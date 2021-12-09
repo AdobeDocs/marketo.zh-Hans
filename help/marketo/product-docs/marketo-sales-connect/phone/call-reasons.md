@@ -4,9 +4,9 @@ title: 呼叫原因
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: b8fcbc13925e3a292add3e9148ddefcfca3344b4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -61,27 +61,27 @@ ht-degree: 0%
 
 1. 单击调用按钮以启动拨号器。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. 在拨号器中输入呼叫信息。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. 单击调用。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. 选择最能描述调用的调用原因。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. 结束呼叫。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. 记录调用。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 >[!MORELIKETHIS]
 >
