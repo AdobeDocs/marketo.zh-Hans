@@ -4,9 +4,9 @@ title: 记录调用原因和向Salesforce调用结果
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ ht-degree: 0%
 
 ### 在Salesforce Classic中，将自定义活动字段添加到任务页面布局 {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
+>[!NOTE]
+>
+>如果您未在上面的步骤9中选择所需的页面布局，则只需执行这些步骤。
+
 1. 在Salesforce中，单击 **设置**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
@@ -82,79 +86,75 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. 将字段拖放到任务页面布局中。
+1. 将字段拖放到任务页面布局的所需部分。
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
 1. 单击 **保存**.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
 ## Salesforce闪电 {#salesforce-lightning}
 
 ### 在Salesforce闪电中创建自定义活动字段 {#create-custom-activity-field-in-salesforce-lightning}
 
-1. 在Salesforce中，单击右上方的齿轮图标。
+1. 在Salesforce中，单击右上方的齿轮图标，然后选择 **设置**.
 
-PICC
-
-1. 单击 **设置**.
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
 1. 单击 **对象管理器**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. 在“快速查找”框中输入活动，然后单击活动标签以打开对象的设置。
+1. 在“快速查找”框中键入“活动”。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. 在左侧，单击 **字段和关系**.
+1. 单击 **活动** 标签。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
+
+1. 单击 **字段和关系**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
 1. 单击 **新建**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ## 在Salesforce闪电中，将自定义活动字段添加到任务页面布局 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. 在Salesforce中，单击右上方的齿轮图标。
+1. 在Salesforce中，单击右上方的齿轮图标，然后选择 **设置**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. 单击 **设置**.
+1. 单击 **对象管理器**.
 
-PICC
-
-1. 转到设置。?????????
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
 1. 在“快速查找”框中键入“任务”。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. 单击任务。
+1. 单击 **任务** 标签。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. 单击“页面布局”。
+1. 单击 **页面布局**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
 1. 单击要将此字段添加到的任务页面布局。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. 将字段拖放到任务页面布局中。
+1. 将字段拖放到任务页面布局的所需部分。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. 单击保存。
+1. 单击 **保存**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >

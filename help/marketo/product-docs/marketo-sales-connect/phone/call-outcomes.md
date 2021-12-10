@@ -4,9 +4,9 @@ title: 调用结果
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -65,27 +65,23 @@ ht-degree: 0%
 
 1. 单击调用按钮以启动拨号器。
 
-PICC
+   ![](assets/call-outcomes-10.png)
 
-1. 在拨号器中输入呼叫信息。
+1. 在拨号器中输入呼叫信息，然后单击 **调用**.
 
-PICC
-
-1. 单击调用。
-
-PICC
+   ![](assets/call-outcomes-11.png)
 
 1. 选择最能描述调用的调用结果。
 
-PICC
+   ![](assets/call-outcomes-12.png)
 
 1. 结束呼叫。
 
-PICC
+   ![](assets/call-outcomes-13.png)
 
 1. 记录调用。
 
-PICC
+   ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
