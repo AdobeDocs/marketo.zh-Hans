@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
 workflow-type: tm+mt
-source-wordcount: '8174'
+source-wordcount: '8189'
 ht-degree: 0%
 
 ---
@@ -1306,6 +1306,9 @@ ht-degree: 0%
                + [投放渠道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [电子邮件连接限制](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [为您的团队设置自定义投放渠道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + Salesforce配置 {#email-delivery}
+               + [卸载Salesforce Classic自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [卸载Salesforce闪电自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + 取消订阅 {#unsubscribes}
                + [取消订阅概述](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [自定义取消订阅链接消息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1737,6 +1740,7 @@ ht-degree: 0%
          + [发行说明：’21年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [发行说明：’21年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [发行说明：’21年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
+         + [发行说明：’21年10月](release-notes/previous-releases/2021/release-notes-oct-21.md)
       + 2020年 {#2020}
          + [发行说明：’20年1月](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [发行说明：’20年2月](release-notes/previous-releases/2020/release-notes-feb-20.md)

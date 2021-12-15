@@ -2,83 +2,89 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
+source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '947'
 ht-degree: 0%
 
 ---
 
-# 发行说明：2021年10月 {#release-notes-oct-21}
+# 发行说明：2022年1月 {#release-notes-jan-22}
 
-’21年10月版中包含以下功能。 查看您的AdobeMarketo Engage版以了解功能的可用性。
+’22年1月版中包含以下功能。 查看您的AdobeMarketo Engage版以了解功能的可用性。
 
 >[!AVAILABILITY]
 >
->由星(![](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>由星(![星星](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
 **_季度版本_**
 
-将在 **2021年10月22日**，并在接下来的一周中分阶段推出每项功能（除非另有指定）。
+将在 **2022年1月21日**.
 
-## 人工智能驱动的创新 {#ai-driven-innovation}
+## 新一代体验 {#next-generation-experience}
 
-**Predictive Audiences增强功能**:现在，您可以更深入地了解正在影响在事件和电子邮件程序中使用的AI支持的预测模型的AI预测的顶级行为。 您可以查看导致事件注册和出席次数增加的促销活动成员行为，以及导致取消订阅的原因。 AI支持的相似人群拓展模型现在可用于Marketo Engage的所有程序类型。
+* **更新了下一代体验中的屏幕**:我们将在下一代体验中提供更多经过刷新的屏幕，这些屏幕通过切换开关提供了更新的设计和可用性增强功能：
 
-## 新一代体验 {#next-gen-experience}
+   * Design Studio中的登陆页面资产详细信息
+   * 营销活动中的登陆页面资产详细信息
+   * Design Studio中的电子邮件列表视图（包括新的批量操作）
 
-**选择您自己的体验**:在处理Marketo Engage表单详细信息或登陆页面列表视图时，使用新切换开关轻松切换到首选体验，而不会丢失上下文、资产更改或首选项。 此外，新的登陆页面列表视图还通过新过滤器和执行批量操作的功能来增强您的体验。
+* **下一代体验切换开关的管理控制**:管理员可以选择哪些用户类型可以访问切换开关以查看下一代体验中的屏幕。
 
-**高效搜索**:全局搜索的辅助功能改进包括更新的键盘导航和标签描述、针对结果的新滚动功能以及更可见的应用过滤器。
+## Microsoft Dynamics集成 {#microsoft-dynamics-integration}
 
-**监视任务**:通过全局导航栏中的新任务通知托盘，监控在新体验的后台运行的任务的状态。 托盘可捕获从表单详细信息和登陆页面列表的新体验视图启动的任务通知，包括使用新体验更改登陆页面的状态和常规批量操作。
+* **正在同步多选选项集字段类型通常可用**:从Microsoft Dynamics中同步多选选项集字段类型，以便在智能列表和智能营销活动中利用该字段类型，以实现更精细的受众定位。 示例包括：感兴趣的主题/产品、首选的通信模式等。 此新同步适用于Microsoft Dynamics版本9.X（包括Dynamics 365 Online）。
 
-## 体验自动化 {#experience-automation}
+* **Microsoft Dynamics 365 Online的服务器到服务器身份验证**:为了提高安全性，我们现在将支持服务器到服务器(S2S)，作为Azure Active Directory上Marketo Engage同步用户的额外身份验证模式，以便非交互式访问Microsoft Dynamics 365 Online。 这允许您采用多重身份验证，因为所有身份验证和登录都将基于OAuth（仅客户端ID和客户端密钥）。
 
-**提交表单API程序成员自定义字段支持**:已升级提交表单API端点以支持程序成员自定义字段，从而允许自定义表单集成收集程序特定的数据。
+>[!NOTE]
+>
+>S2S模式基于应用程序用户，而不是授权用户，这样可以节省额外许可证的使用。
+
+## 管理 {#administration}
+
+* **表单验证规则**:维护数据库的运行状况，能够阻止有问题或不希望的电子邮件域提交Marketo Engage表。 全局表单验证规则面板允许管理员定阻止列表义，或启用预定义的自由使用者域列表以阻止表单。
+
+* **登陆页面标题安全性**:管理员可以在其登陆页面域上管理严格传输安全和X-Frame选项标头，以强制执行强大的安全要求。
 
 **_在整个季度发布_**
 
 以下功能处于非季度周期，将在未来几个月内发布。
 
-**用于将受众共享到Adobe Experience Platform的本机连接器Marketo Engage**:在Marketo Engage中为通过本机目标连接器在Adobe Experience Platform中创建的受众区段启用多渠道活动编排。 连接器使用电子邮件地址或ECID来匹配Adobe Experience Platform配置文件，以Marketo Engage人员记录，从而在应用程序之间共享区段。 Marketo Engage静态列表会自动填充，以便营销人员能够通过高度个性化的消息传送来访问目标受众或启动工作流。 利用人员受众的帐户和机会上下文以及更完整的实时统一档案，在Experience Platform中激活。
+## AEPMarketo Engage目标连接器 — 创建新的缺失潜在客户 {#aep-marketo-engage-destination-connector}
 
-**Adobe Experience Platform Marketo数据源连接器**:Adobe Experience Platform和Marketo Engage的用户将能够利用Marketo Source Connector将数据从Marketo引入AEP。 您将能够在AEP中从Marketo流式传输数据（及其更改），以保持两个产品之间的数据一致。 可通过“源”目录查看Marketo连接器，该目录列在“Adobe应用程序”下。
+同时使用Adobe Experience Platform(AEP)的Marketo Engage客户可以通过AEP目标连接器将新人员记录从AEP推送到Marketo Engage，从而最大限度地提升其数据库。 将受众区段从AEP发送到Marketo Engage时，区段中不存在的Marketo Engage数据库中的人员将自动添加到受众区段中。
 
 ## 销售分析 {#sales-insight}
 
 ![（星号）](assets/yellow-star.png)
 
-**Microsoft Dynamics 365销售分析**
+* **适用于Salesforce CRM的Sales Insight**
 
-**最佳增强功能**:Sales Insight中的“最佳下注”选项卡为销售人员提供最热门联系人的实时视图，以及按质量和紧急程度排列的商机。 我们增加了销售代表采取行动的能力，例如：直接从“最佳下注”页面查看人员得分、发送电子邮件或将潜在客户添加到指定的Marketo Engage促销活动，从而提高效率并加快响应时间。
+* **新类型列以获得最佳结果**:在“最佳下注”页面上，卖家将通过标有“类型”的新列来区分潜在客户和联系人，从而更快地获得洞察信息。
 
-**新电子邮件、Web活动、匿名Web活动功能板**:我们添加了新的销售功能板，以告知销售者他们的潜在客户以及联系人最近的电子邮件和网络活动。 现在，借助新的过滤功能，功能板可以深入分析帐户或特定帐户的完整列表的电子邮件打开数、点击数和网页访问量。 Marketo Engage跟踪所有Web活动并为销售人员提供关键信息，从而将匿名流量转化为商机。 销售者能够更快地个性化参与并将潜在客户转化为销售，因为他们能够更好地了解潜在客户行为，并根据所有接触点的相关性采取行动。
+* **Salesforce平台API更新**:为响应Salesforce停用的Salesforce平台API版本21.0至30.0，已使用最新API更新Sales Insight包。
 
-**面向Salesforce的销售分析**
+* **更新了品牌策略**:所有销售分析页面都将进行更新，以便与Adobe品牌保持一致。
 
-**客户和机会级别的最佳选择**:Sales Insight现在允许销售代表查看他们拥有的帐户或销售机会上所有联系人的最佳下注，即使该联系人被分配给其他团队成员也是如此。 这使客户和机会所有者能够完全了解相关联系人的活动，并帮助他们基于对帐户或机会的更全面的视图采取行动。
+**Microsoft Dynamics的销售分析**
+
+* **更新了帐户布局**:卖家可以集体查看排名最前的活动，例如：帐户内所有联系人的电子邮件活动、web活动、有趣时刻和分数变化。
 
 ## Sales Connect {#sales-connect}
 
 ![（星号）](assets/yellow-star.png)
 
-**增强的销售活动分析**:新的电子邮件回复跟踪活动“销售电子邮件回复”跟踪收件人与自动与Marketo Engage同步的电子邮件的交互。 此外，“源”属性已从“Tout”更新为“销售应用程序”。 此活动可通过Marketo EngageREST API或批量导出进行导出和报告，并在过滤器和触发器上提供，作为智能列表的其他限制，从而扩展了智能促销活动中的个性化选项。
+* **调用结果和原因**:使用完全可自定义的新呼叫结果和呼叫原因选项，更加详细地了解和跟踪销售团队的出站工作。 除了这些新字段外，我们还引入了新的管理功能，以在销售者进行呼叫时强制执行呼叫原因和结果选择，新的管理功能用于启用或禁用呼叫原因和结果，以及新的呼叫原因和呼叫结果Salesforce活动自定义字段，用于将数据记录到Salesforce。 [单击此处](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) 以了解更多。
 
-**简化的用户体验**:此更新引入了基于Adobe色谱设计系统的Sales Connect的新字体、颜色、按钮和模型。 通过这些更新，我们提供了更高效的体验，让销售者能够在需要时专注于所需内容。
-
-## Bizible {#bizible}
-
-![](assets/yellow-star.png)
-
-**Bizible与AdobePrivacy Service(GA)集成**:与AdobePrivacy Service的Bizible集成可以集中遵守关键数据隐私法规，例如跨Adobe Experience Cloud应用程序的GDPR（《通用数据隐私条例》）或CCPA（《加州消费者隐私法案》）。 现在，您可以利用此服务并通过Adobe的Privacy Service集中管理所有隐私请求，以便跨应用程序反映进入Bizible和其他Adobe产品的更改请求。
+* **Salesforce活动详细信息自定义**:通过自定义在销售活动从Sales Connect记录到Salesforce时将哪些信息添加到Salesforce任务主题字段，在Salesforce中捕获更多销售活动和任务数据。 [单击此处](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) 以了解更多。
 
 ## 公告 {#announcements}
 
-**Associate Lead弃用/Munchkin Beta 161更新**:2021年9月7日，161版的Munchkin开始在启用Munchkin Beta的情况下向10%的用户推出，随后在9月16日为50%，在9月30日为100%。 此更改会影响Marketo Engage登陆页面，并且提供给外部登陆页面的文件munchkin-beta.js版本会从最新版本已推出的订阅加载。 此版本完全弃用了Munchkin关联潜在客户方法，该方法允许将个人数据提交到Marketo Engage订阅，并将Web浏览历史记录与已知的人员记录关联。 正在删除关联潜在客户，以支持更新且更安全的替代方案，例如Forms JS API、表单提交API和关联潜在客户REST API。 [请在此处了解有关此弃用功能的更多信息](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+* **Marketo Sky日落设置**:3月11日，Marketo Sky将不再可用，因为我们将资源集中在提供下一代用户体验上。 为了保持对当今Marketo Sky所独有的功能的访问，我们将在3月将资产到期和智能促销活动优先级覆盖引入主流体验。
 
-**Sales Connect Update**:Sales Connect中最近的UI更改导致Salesforce中的某些模型被截断。 要解决此问题，请执行 [包更新](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+* **弃用表单端点**:指向leadCapture/save2端点的不支持的程序化表单POST将被Marketo Engage表单拒绝。 [单击此处](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 以了解更多。
 
-**_产品发行网络研讨会_**
+* **电子邮件验证**:从此版本发布后，Marketo Engage订阅将开始让“非API用户”验证电子邮件地址。 通过“电子邮件验证”启用订阅后，经目录服务验证的用户将自动验证其电子邮件。 对于使用“在邀请用户对话框中登录”功能的用户，或者对于在订阅中具有单封电子邮件且与多个用户关联的订阅用户，电子邮件验证将会延迟，并且会与3月弃用该功能的时间一致。
 
-[2021年10月版Marketo Engage网络研讨会](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
+* **在“邀请用户”对话框中登录**:3月，现有的可选功能“在“邀请用户”对话框中登录”将被弃用。 “在邀请用户对话框中登录”功能被通用ID功能覆盖，该功能是即将推出的AdobeIdentity Management系统集成所需的ID功能，并于2021年8月在所有订阅上启用。 弃用后，Marketo Engage将强制所有用户ID（登录）与用户的电子邮件地址匹配，并且仅允许在订阅中为每个电子邮件地址关联一个用户。
