@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
+source-git-commit: c1a51dba1e76d21367a95147ed82b0aa75d11022
 workflow-type: tm+mt
-source-wordcount: '8200'
+source-wordcount: '8205'
 ht-degree: 0%
 
 ---
@@ -1276,11 +1276,12 @@ ht-degree: 0%
    + Marketo Sales Insight {#marketo-sales-insight}
       + 操作 {#actions}
          + 快速入门 {#getting-started}
+            + [MSI Actions用户入门指南](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [更改您的Marketo销售密码](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + 电子邮件设置 {#email-settings}
                + [验证电子邮件](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [添加或更新您的电子邮件签名](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [添加标识](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-            + [更改您的Marketo销售密码](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + 管理员 {#admin}
             + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [内容锁定](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
