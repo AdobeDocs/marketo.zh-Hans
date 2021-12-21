@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
+source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,6 @@ ht-degree: 0%
 
 * **电子邮件验证**:从此版本发布后，Marketo Engage订阅将开始让“非API用户”验证电子邮件地址。 通过“电子邮件验证”启用订阅后，经目录服务验证的用户将自动验证其电子邮件。 对于使用“在邀请用户对话框中登录”功能的用户，或者对于在订阅中具有单封电子邮件且与多个用户关联的订阅用户，电子邮件验证将会延迟，并且会与3月弃用该功能的时间一致。
 
-* **在“邀请用户”对话框中登录**:3月，现有的可选功能“在“邀请用户”对话框中登录”将被弃用。 “在邀请用户对话框中登录”功能被通用ID功能覆盖，该功能是即将推出的AdobeIdentity Management系统集成所需的ID功能，并于2021年8月在所有订阅上启用。 弃用后，Marketo Engage将强制所有用户ID（登录）与用户的电子邮件地址匹配，并且仅允许在订阅中为每个电子邮件地址关联一个用户。
+* **在“邀请用户”对话框中登录**:3月，现有的可选功能“在“邀请用户”对话框中登录”将被弃用。 “在邀请用户对话框中登录”功能被通用ID功能覆盖，该功能是即将推出的AdobeIdentity Management系统集成所需的ID功能，并于2021年8月在所有订阅上启用。 弃用后，Marketo Engage将只强制在订阅内的每个电子邮件地址中关联一个用户。
 
 **Marketo Engage域 — Sales Insight配置**:对于未设置SSL证书的Marketo Engage域和https://，调用将失败，并出现SSL握手错误。 因此，这些领域将被废除。 因此，如果Sales Insight用户具有指向其中任何域的旧配置，则他们的潜在客户、联系人、帐户、机会面板或Marketo全局页面上可能会出现系统标注错误。 我们建议您更新 [Marketo Engage配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) 在Salesforce中遇到此错误时，不会将其标记为“隐藏”。 您只需更新文档“Marketo销售分析配置”部分中突出显示的Marketo Engage凭据。
