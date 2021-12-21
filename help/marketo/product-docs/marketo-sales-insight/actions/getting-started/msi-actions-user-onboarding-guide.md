@@ -1,11 +1,11 @@
 ---
-description: MSI操作入门指南 — Marketo文档 — 产品文档
-title: MSI操作入门指南
+description: MSI Actions用户入门指南 — Marketo文档 — 产品文档
+title: MSI Actions用户入门指南
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,22 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* 管理员需要邀请用户开始使用MSI操作。
->* 要在Salesforce中激活您的帐户，您需要在Salesforce用户档案权限中启用“API”。
+>* 要在Salesforce中激活您的帐户，您需要在Salesforce配置文件权限中启用“API”。
 
 
 新用户将需要执行以下步骤。
 
 1. 在欢迎电子邮件中，单击 **入门**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-1.png)
 
 1. 单击 **使用Salesforce激活帐户**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-2.png)
 
-1. 如果您已登录Salesforce帐户，则会自动将您定向到下一个屏幕。 如果您未登录，请立即登录。
+1. 如果您已经登录Salesforce帐户，则会自动将您定向到下一个屏幕。 如果您未登录，请立即登录。
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-3.png)
 
 >[!NOTE]
 >
@@ -38,31 +38,31 @@ PICC
 
 1. 单击 **允许**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-4.png)
 
 1. 单击 **开始**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-5.png)
 
 1. 单击 **下一个**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-6.png)
 
 1. 选择您使用的电子邮件客户端（Gmail或Outlook），然后单击 **下一个**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-7.png)
 
 1. 输入您的电子邮件地址并单击 **下一个**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-8.png)
 
 1. 输入密码并单击 **下一个**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-9.png)
 
 1. 单击 **继续**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-10.png)
 
 >[!NOTE]
 >
@@ -70,24 +70,24 @@ PICC
 
 1. 您将看到“Set Up Email Connection success（设置电子邮件连接）”消息，然后您将被发送到下一个屏幕。
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-11.png)
 
-1. 输入您的自定义签名（如果您希望通过配置文件页面，可以稍后执行此操作）。
+1. 输入您的自定义签名并单击 **保存** (如果您以后想通过配置文件页面执行此操作，请单击 **跳过**)。
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-12.png)
 
 1. 单击 **完成**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-13.png)
 
 1. 您会看到选项，以查看Marketo Sales Actions的快速介绍。 单击 **下一个** 查看，或 **不是现在** 以备日后之用。
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-14.png)
 
 1. 完成导览后，或者跳过导览后，选择是直接登录到Web应用程序，还是直接登录Salesforce帐户，您可以从MSI面板访问所有功能(在本例中，我们选择 **启动Salesforce**)。
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-15.png)
 
 1. 在Salesforce（Classic或Lightning）中，您可以导航到任何潜在客户、联系人、帐户或商机。 所有销售操作都将通过MSI面板中的下拉菜单提供。
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-16.png)
