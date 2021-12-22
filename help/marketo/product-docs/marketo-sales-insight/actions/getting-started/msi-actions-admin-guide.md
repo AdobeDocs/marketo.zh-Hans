@@ -3,9 +3,9 @@ description: MSI操作管理指南 — Marketo文档 — 产品文档
 title: MSI操作管理指南
 hide: true
 hidefromtoc: true
-source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
+source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 1. 在Marketo中，单击 **管理员**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-1.png)
 
 1. 单击 **销售分析**，则 **操作配置**. 从Marketo管理员列表中选择以邀请并单击 **发送邀请**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-2.png)
 
 用户将收到一封电子邮件，其中包含获取帐户访问权限的步骤。
 
@@ -73,19 +73,19 @@ PICC
 
 1. 在您的Marketo Sales帐户中，单击齿轮图标，然后选择 **设置**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-3.png)
 
 1. 在“管理员设置”下，单击 **Salesforce**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-4.png)
 
 1. 在连接和自定义选项卡中，单击 **连接**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-5.png)
 
 1. 单击 **确定**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-6.png)
 
 如果您已登录Salesforce，则将连接您。 如果没有，你将被要求登录。
 
@@ -93,13 +93,15 @@ PICC
 
 1. 在您的Marketo Sales帐户中，单击齿轮图标，然后选择 **设置**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-7.png)
 
 1. 在“管理员设置”下，单击 **Marketo**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-8.png)
 
 1. 单击 **connect**. 然后，您的帐户将连接。
+
+   ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
@@ -107,21 +109,21 @@ PICC
 
 ## 启动数据同步 {#initiate-data-sync}
 
-1. 在Marketo中，单击管理。
+1. 在Marketo中，单击 **管理员**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-10.png)
 
-1. 单击“销售分析”，然后单击“操作配置”。
+1. 单击“销售分析”。
 
-PICC
+   ![](assets/msi-actions-admin-guide-11.png)
 
-1. 在操作字段同步卡中，单击 **同步**.
+1. 单击操作配置选项卡。 在操作字段同步卡中，单击 **同步**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-12.png)
 
 1. 您将看到将同步的字段预览。 单击 **开始同步**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-13.png)
 
 Marketo和Salesforce中存在的人员记录将同步到您的Marketo销售应用程序帐户。
 
@@ -129,17 +131,19 @@ Marketo和Salesforce中存在的人员记录将同步到您的Marketo销售应�
 
 1. 在您的Marketo Sales帐户中，单击齿轮图标，然后选择 **设置**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-14.png)
 
 1. 在“管理员设置”下，选择 **用户管理**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-15.png)
 
 1. 单击 **操作** 选择 **邀请用户**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-16.png)
 
 1. 输入电子邮件地址并单击 **邀请**.
+
+   ![](assets/msi-actions-admin-guide-17.png)
 
 >[!NOTE]
 >
@@ -151,23 +155,23 @@ PICC
 
 1. 在您的Marketo Sales帐户中，单击齿轮图标，然后选择 **设置**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-18.png)
 
 1. 在“管理员设置”下，选择 **用户管理**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-19.png)
 
 1. 单击 **操作** 选择 **通过CSV邀请用户**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-20.png)
 
 1. 在您的计算机上浏览CSV，选择它，然后单击 **下一个**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-21.png)
 
 1. 确认字段已正确映射，然后单击 **邀请**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-22.png)
 
 发送邀请后，您将收到确认消息。
 
