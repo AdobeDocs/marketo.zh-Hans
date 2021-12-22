@@ -3,9 +3,10 @@ description: 将新管理员连接到Marketo - Marketo文档 — 产品文档
 title: 将新管理员连接到Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: 0ed5981470998dadd5f42384cd2e9572fec94ef6
+exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
+source-git-commit: 4055b121b416f3fa56abcfa21d370d148d3ab3c4
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,9 +17,9 @@ ht-degree: 0%
 
 如果第二个管理员未以管理员身份连接到Marketo...
 
-1. 主管理员需要从“设置”>“Marketo”>“用户访问”中，断开第二个Marketo管理员与的连接
+1. 主管理员需要从“设置”>“Marketo”>“用户访问”中，从Marketo中断开第二个管理员的连接。
 
-1. 次管理员登录其MSC帐户，转到“设置”>“Marketo”并单击 **连接**.
+1. 次管理员登录到其MSC帐户，转到“设置”>“Marketo”，然后单击 **连接**.
 
 1. 现在，辅助用户以管理员身份连接到Marketo。
 
@@ -30,15 +31,15 @@ ht-degree: 0%
 
 ## 更新Marketo连接 {#update-your-marketo-connection}
 
-如果您决定删除设置Marketo集成的管理员，请查看本文以了解如何操作。
+如果您决定删除设置Marketo集成的管理员，请查看本文以了解操作方法。
 
-Marketo集成将绑定到Sales Connect/Actions管理员用户。 通常，这是管理员，该管理员首先单击了Marketo连接页面上的“连接”按钮并建立了连接。
+Marketo集成将绑定到Sales Connect/Actions管理员用户。 通常，是管理员，该管理员首先单击了Marketo连接页面上的“连接”按钮并建立了连接。
 
 要删除建立Marketo连接的管理员，必须先由其他管理员用户建立新连接。 下面列出了为完成此操作需要完成的任务。
 
-为简化说明，我们将以管理员A的身份向当前连接的管理员表示，以及要以管理员B的身份与Marketo建立新连接的管理员：
+为简化说明，我们将以管理员A的身份，将当前连接的管理员称为Marketo，以及以管理员B的身份要与Admin建立新连接的管理员：
 
-1. 管理员A（当前连接的管理员）将需要从管理员B中删除对与Marketo集成的访问权限（新管理员）。
+1. 管理员A（当前连接的管理员）将需要从管理员B（新管理员）中删除对与Marketo集成的访问权限。
 
 1. 让管理员B（新管理员）建立与Marketo的新连接。
 
@@ -52,7 +53,7 @@ Marketo集成将绑定到Sales Connect/Actions管理员用户。 通常，这是
 
 管理员A（最初负责连接的管理员）应执行以下步骤。
 
-1. 导航到设置。
+1. 在Web应用程序中，单击齿轮图标，然后选择 **设置**.
 
 1. 单击 **Marketo**.
 
@@ -66,7 +67,7 @@ Marketo集成将绑定到Sales Connect/Actions管理员用户。 通常，这是
 
 这些步骤应由管理员B（新管理员）执行
 
-1. 导航到设置。
+1. 在Web应用程序中，单击齿轮图标，然后选择 **设置**.
 
 1. 单击 **Marketo**.
 
@@ -74,9 +75,9 @@ Marketo集成将绑定到Sales Connect/Actions管理员用户。 通常，这是
 
 **断开Marketo A集成**
 
-这些步骤应由管理员A（最初连接的管理员）执行
+这些步骤应由管理员A（最初连接的管理员）执行。
 
-1. 导航到设置。
+1. 在Web应用程序中，单击齿轮图标，然后选择 **设置**.
 
 1. 单击 **Marketo**.
 
