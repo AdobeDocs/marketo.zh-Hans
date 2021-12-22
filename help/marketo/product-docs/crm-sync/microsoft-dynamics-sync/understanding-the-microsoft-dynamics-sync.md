@@ -3,16 +3,16 @@ unique-page-id: 10098625
 description: 了解Microsoft Dynamics同步 — Marketo文档 — 产品文档
 title: 了解Microsoft Dynamics同步
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 80651a7d3d416f27ef13184b11757943c98bd781
+source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 了解Microsoft Dynamics同步 {#understanding-the-microsoft-dynamics-sync}
 
-Marketo和Microsoft Dynamics合作。 我们将您的销售和营销数据保持同步。
+Marketo和Microsoft动力集团于一身。 我们将您的销售和营销数据保持同步。
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Marketo和Microsoft Dynamics合作。 我们将您的销售和营销数据保持
 
 ## 同步工作原理 {#how-sync-works}
 
-Marketo每天都会连续同步数据与Microsoft Dynamics。 这是使用后台同步，分批完成，而不是实时完成。
+Marketo每天都会将数据与Microsoft Dynamics持续同步。 它是使用后台同步，分批进行，而不是实时进行。
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Marketo每天都会连续同步数据与Microsoft Dynamics。 这是使用后台
 
 Marketo与Dynamics之间的同步对于潜在客户和联系人是双向的。 如果您在Marketo或Dynamics中进行更改，则更新将反映在两个系统中。 所有其他字段（如帐户和机会）仅以一种方式同步，从Dynamics到Marketo。
 
-## Marketo与Microsoft Dynamics之间同步了哪些内容？ {#what-is-synced-between-marketo-and-microsoft-dynamics}
+## Marketo与Microsoft Dynamics之间有何同步？ {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
 * [潜在客户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [联系人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
@@ -40,10 +40,10 @@ Marketo与Dynamics之间的同步对于潜在客户和联系人是双向的。 �
 * [用户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * 团队（系统用户组）
 * [机会](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-* [自定义实体](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+* [自定义实体](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-您在Marketo中为Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)输入的[凭据用于同步数据。
+的 [您在Marketo for Dynamics中输入的凭据](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) 用于通过同步数据。
 
 >[!NOTE]
 >
->如果源实例已与Microsoft Dynamics集成，则不支持实例复制。
+>如果源实例与Microsoft Dynamics集成，则不支持实例复制。
