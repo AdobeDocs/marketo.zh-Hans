@@ -3,7 +3,7 @@ unique-page-id: 3571819
 description: 第3步（共3步） — 连接Marketo和Dynamics（2013年本地版） — Marketo文档 — 产品文档
 title: 第3步（共3步） — 连接Marketo和Dynamics（2013年内部部署）
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [步骤1（共3步）：在Dynamics（2013本地版）中安装Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
->* [步骤2（共3步）：为Marketo配置同步用户（2013本地版）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>* [步骤1（共3步）：在Dynamics（2013本地版）中安装Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+>* [步骤2（共3步）：为Marketo配置同步用户（2013本地版）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
 
 
 >[!NOTE]

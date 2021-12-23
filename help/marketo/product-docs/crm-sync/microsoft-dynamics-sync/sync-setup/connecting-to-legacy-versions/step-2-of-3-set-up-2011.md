@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: 步骤2（共3步） — 在Dynamics（2011年本地版）中设置Marketo同步用户 — Marketo文档 — 产品文档
 title: 步骤2（共3步） — 在Dynamics中设置Marketo同步用户（2011年本地版）
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[步骤1（共3步）：安装Marketo解决方案（2011年内部部署版）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>[步骤1（共3步）：安装Marketo解决方案（2011年内部部署版）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
 
 ## 分配同步用户角色 {#assign-sync-user-role}
 
