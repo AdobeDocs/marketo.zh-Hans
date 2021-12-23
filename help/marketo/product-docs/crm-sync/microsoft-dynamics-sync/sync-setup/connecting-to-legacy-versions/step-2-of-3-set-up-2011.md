@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: 步骤2（共3步） — 在Dynamics（2011年本地版）中设置Marketo同步用户 — Marketo文档 — 产品文档
 title: 步骤2（共3步） — 在Dynamics中设置Marketo同步用户（2011年本地版）
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: e55f3ea02c64410bab92a9123289bac6e859022a
+source-git-commit: d4461e1bb73b7494970b4fde30fe551d9a5775d2
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -55,7 +55,8 @@ ht-degree: 0%
    >如果看不到角色，请返回 [步骤1 - 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) 并导入解决方案。
 
    >[!NOTE]
-   同步用户在CRM中进行的任何更新都将 **not** 同步回Marketo。
+   >
+   >同步用户在CRM中进行的任何更新都将 **not** 同步回Marketo。
 
 ## 配置Marketo解决方案 {#configure-marketo-solution}
 
@@ -66,7 +67,8 @@ ht-degree: 0%
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
    >[!NOTE]
-   如果Marketo配置缺失，请尝试刷新页面。 如果问题持续存在， [再次发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) 或注销然后重新登录。
+   >
+   >如果Marketo配置缺失，请尝试刷新页面。 如果问题持续存在， [再次发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) 或注销然后重新登录。
 
 1. 单击 **默认**.
 
@@ -97,4 +99,5 @@ ht-degree: 0%
 干得好！
 
 >[!MORELIKETHIS]
-[步骤3（共3步）：将Microsoft Dynamics与Marketo连接（2011年内部部署版）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
+>
+>[步骤3（共3步）：将Microsoft Dynamics与Marketo连接（2011年内部部署版）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
