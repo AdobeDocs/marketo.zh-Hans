@@ -1,9 +1,7 @@
 ---
-unique-page-id: 7504736
 description: 安装适用于Microsoft Dynamics 2016/Dynamics 365的Marketo本地1（共3个） — Marketo文档 — 产品文档
 title: 安装Marketo for Microsoft Dynamics 2016/Dynamics 365内部部署步骤1（共3步）
-exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -94,4 +92,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[安装Marketo for Dynamics 2015内部版和2016 365内部版步骤2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises/step-2-of-3-set-up.md)
+   >[安装Marketo for Dynamics 2015内部版和2016 365内部版步骤2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)

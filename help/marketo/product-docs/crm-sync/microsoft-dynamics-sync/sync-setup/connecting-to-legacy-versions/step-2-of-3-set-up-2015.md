@@ -3,7 +3,7 @@ unique-page-id: 7504739
 description: 安装Marketo for Microsoft Dynamics 2015本地步骤2（共3步） — Marketo文档 — 产品文档
 title: 安装Marketo for Microsoft Dynamics 2015本地步骤2（共3步）
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[安装Marketo for Microsoft Dynamics 2015本地步骤1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[安装Marketo for Microsoft Dynamics 2015本地步骤1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 
 ## 分配同步用户角色 {#assign-sync-user-role}
 
