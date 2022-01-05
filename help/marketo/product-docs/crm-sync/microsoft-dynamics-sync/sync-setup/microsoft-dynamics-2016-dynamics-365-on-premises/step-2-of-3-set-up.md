@@ -1,9 +1,10 @@
 ---
 description: 安装Marketo for Microsoft Dynamics 2016/Dynamics 365内部部署步骤2（共3步） — Marketo文档 — 产品文档
 title: 安装Marketo for Microsoft Dynamics 2016/Dynamics 365内部部署步骤2（共3步）
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
+source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -15,6 +16,52 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >[安装Marketo for Microsoft Dynamics 2016/Dynamics 365内部部署步骤1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+
+## 创建新用户 {#create-a-new-user}
+
+1. 登录到Dynamics。 单击“设置”图标，然后选择“高级设置”。
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
+
+1. 单击 **设置** 选择 **安全性**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
+
+1. 单击 **用户**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
+
+1. 单击 **新建**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
+
+1. 单击 **添加用户和授权用户**. 应会打开一个新选项卡。
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
+
+1. 单击 **管理员** 的双曲余切值。 应会打开另一个新选项卡。
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
+
+1. 单击 **添加用户**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
+
+1. 输入所有信息。 完成后，单击 **添加**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-8.png)
+
+   >[!NOTE]
+   >
+   >此名称必须是专用同步用户，而不是现有CRM用户的帐户。 它不必是实际的电子邮件地址。
+
+1. 输入要接收新用户凭据的电子邮件，然后单击发送电子邮件并关闭。
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-9.png)
+
+## 创建新客户端应用程序 {#create-a-new-client-application}
+
+按照 [本Microsoft文章](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later) 创建新的客户端应用程序并授予权限。 请注意Dynamics客户端应用程序的客户端ID/密钥。
 
 ## 分配同步用户角色 {#assign-sync-user-role}
 

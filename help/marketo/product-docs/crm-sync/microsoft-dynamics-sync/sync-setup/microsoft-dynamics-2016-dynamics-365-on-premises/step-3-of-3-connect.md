@@ -1,7 +1,8 @@
 ---
 description: 安装Marketo for Microsoft Dynamics 2016/Dynamics 365内部部署步骤3（共3步） — Marketo文档 — 产品文档
 title: 安装Marketo for Microsoft Dynamics 2016/Dynamics 365内部部署步骤3（共3步）
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
+source-git-commit: 44cc13361f6ff58d1be388fa0425a6daa63e4c7d
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%
