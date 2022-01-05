@@ -1,9 +1,9 @@
 ---
 description: 第1步（共3步） — 使用S2S连接安装Marketo解决方案 — Marketo文档 — 产品文档
 title: 第1步（共3步） — 安装具有S2S连接的Marketo解决方案
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,6 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >* 在完成初始同步之前，请勿启用自定义实体同步。 完成初始同步后，系统会通过电子邮件通知您。
->* 如果为Dynamics同步启用了多重身份验证(MFA)，则必须禁用该同步，以便Dynamics与Marketo正确同步。 欲知其他信息，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 
 >[!NOTE]

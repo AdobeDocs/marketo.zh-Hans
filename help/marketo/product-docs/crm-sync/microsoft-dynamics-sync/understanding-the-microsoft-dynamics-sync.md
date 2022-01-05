@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: 了解Microsoft Dynamics同步 — Marketo文档 — 产品文档
 title: 了解Microsoft Dynamics同步
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Marketo与Dynamics之间的同步对于潜在客户和联系人是双向的。 �
 * [机会](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [自定义实体](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-的 [您在Marketo for Dynamics中输入的凭据](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) 用于通过同步数据。
+的 [您在Marketo for Dynamics中输入的凭据](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) 用于通过同步数据。
 
 >[!NOTE]
 >
