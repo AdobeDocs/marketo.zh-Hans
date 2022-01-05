@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
 workflow-type: tm+mt
-source-wordcount: '8230'
+source-wordcount: '8287'
 ht-degree: 0%
 
 ---
@@ -520,6 +520,7 @@ ht-degree: 0%
          + [修复了Dynamics验证同步问题](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 同步设置 {#sync-setup}
             + [下载Marketo潜在客户管理解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+            + [授予客户ID和应用程序注册的同意](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [更新适用于Microsoft Dynamics的Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [验证Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [查看组织服务URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
@@ -527,12 +528,16 @@ ht-degree: 0%
                + [步骤1（共3步）：安装Marketo解决方案 — 2015本地/ 2016 Dynamics 365本地](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [步骤2（共3步）：在Dynamics 2015本地版/ 2016 Dynamics 365本地版中设置Marketo同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [步骤3（共3步）：连接Marketo和Dynamics 2015内部部署/ 2016 Dynamics 365内部部署](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 {#microsoft-dynamics-365}
-               + [步骤1（共3步）：安装Marketo解决方案（在线）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
-               + [步骤2（共3步）：在Dynamics中设置Marketo同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
-               + [步骤3（共3步）：将Microsoft Dynamics与Marketo连接（在线）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+            + Microsoft Dynamics 365与ROPC连接{#microsoft-dynamics-365-with-ropc-connection}
+               + [步骤1（共4步）：使用ROPC连接安装Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+               + [步骤2（共4步）：使用ROPC连接设置Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
+               + [步骤3（共4步）：在MS Dynamics上设置客户端应用程序](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+               + [步骤4（共4步）：将Marketo解决方案与ROPC连接连接](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
+            + Microsoft Dynamics 365与S2S连接{#microsoft-dynamics-365-with-s2s-connection}
+               + [步骤1（共3步）：安装具有S2S连接的Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+               + [步骤2（共3步）：使用S2S连接设置Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+               + [步骤3（共3步）：将Marketo解决方案与S2S连接连接](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
             + 为Dynamics设置OAuth身份验证 {#set-up-oauth-authentication-for-dynamics}
-               + [授予客户ID和应用程序注册的同意](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
                + [设置Microsoft Dynamics CRM在线应用程序](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [设置Microsoft Dynamics CRM内部版应用程序](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [为Azure AD Federated设置MSD，并预先安装AD FS、租户和Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
@@ -1276,6 +1281,7 @@ ht-degree: 0%
             + [在动态字段中引用您自己](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + 操作 {#actions}
+         + [MSI操作功能概述](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
          + 快速入门 {#getting-started}
             + [MSI Actions用户入门指南](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
             + [MSI操作管理指南](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
@@ -1311,10 +1317,6 @@ ht-degree: 0%
                + [投放渠道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [电子邮件连接限制](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [为您的团队设置自定义投放渠道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Salesforce配置 {#salesforce-configuration}
-               + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
-               + [卸载Salesforce Classic自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [卸载Salesforce闪电自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + 取消订阅 {#unsubscribes}
                + [取消订阅概述](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [自定义取消订阅链接消息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1326,6 +1328,10 @@ ht-degree: 0%
                + [批量电子邮件发送选项](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [使用选择并发送来合成批量电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+         + Salesforce配置 {#salesforce-configuration}
+            + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+            + [卸载Salesforce Classic自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+            + [卸载Salesforce闪电自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Marketo {#marketo}
             + [授予Marketo用户访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 发送销售电子邮件 {#send-a-sales-email}
