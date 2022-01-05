@@ -1,9 +1,9 @@
 ---
 description: 第2步（共3步） — 使用资源所有者密码控制连接设置Marketo解决方案 — Marketo文档 — 产品文档
 title: 步骤2（共3步） — 使用资源所有者密码控制连接设置Marketo解决方案
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -126,12 +126,6 @@ ht-degree: 0%
 
    ![](assets/nineteen.png)
 
-## 继续执行步骤3之前 {#before-proceeding-to-step}
-
-* 如果要限制同步的记录数， [设置自定义同步筛选器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) 现在。
-* 运行 [验证Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 进程。 它验证初始设置是否正确完成。
-* 在Microsoft Dynamics CRM中登录Marketo同步用户。
-
-   >[!MORELIKETHIS]
-   >
-   >[步骤3（共4步）：将Marketo解决方案与资源所有者密码控制连接连接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>[!MORELIKETHIS]
+>
+>[步骤3（共4步）：将Marketo解决方案与资源所有者密码控制连接连接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
