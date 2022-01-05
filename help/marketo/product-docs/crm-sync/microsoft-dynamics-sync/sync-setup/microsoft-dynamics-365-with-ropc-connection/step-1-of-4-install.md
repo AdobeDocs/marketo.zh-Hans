@@ -1,7 +1,7 @@
 ---
 description: 步骤1（共3步） — 使用资源所有者密码控制连接安装Marketo解决方案 — Marketo文档 — 产品文档
 title: 步骤1（共3步） — 安装具有资源所有者密码控制连接的Marketo解决方案
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -90,4 +90,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[步骤2（共3步）：使用资源所有者密码控制连接设置Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-3-set-up.md)
+   >[步骤2（共4步）：使用资源所有者密码控制连接设置Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)

@@ -1,11 +1,9 @@
 ---
-unique-page-id: 3571827
 description: 第2步（共3步） — 使用资源所有者密码控制连接设置Marketo解决方案 — Marketo文档 — 产品文档
 title: 步骤2（共3步） — 使用资源所有者密码控制连接设置Marketo解决方案
-exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -136,4 +134,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[步骤3（共3步）：将Marketo解决方案与资源所有者密码控制连接连接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-3-connect.md)
+>[步骤3（共4步）：将Marketo解决方案与资源所有者密码控制连接连接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-connect.md)
