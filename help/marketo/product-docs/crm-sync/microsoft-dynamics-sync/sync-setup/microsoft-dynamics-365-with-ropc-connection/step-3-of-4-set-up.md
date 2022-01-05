@@ -3,7 +3,7 @@ description: 第3步（共4步） — 在MS Dynamics中设置客户端应用程�
 title: 第3步（共4步） — 在MS Dynamics上设置客户端应用程序
 source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
