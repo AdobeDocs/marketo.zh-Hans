@@ -1,7 +1,8 @@
 ---
 description: 第4步（共4步） — 将Marketo解决方案与资源所有者密码控制连接连接 — Marketo文档 — 产品文档
 title: 步骤4（共4步） — 将Marketo解决方案与资源所有者密码控制连接连接
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
+source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -55,7 +56,7 @@ ht-degree: 0%
 
 1. 输入 **用户名**, **密码**, **客户端ID**, **客户端密钥**&#x200B;和Microsoft Dynamics **URL**. 单击 **保存** 完成时。
 
-   ![](assets/five-1.png)
+   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
 
    >[!NOTE]
    >
