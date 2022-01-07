@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 第3步（共3步） — 将Marketo解决方案与S2S连接连接 — Marketo文档 — 产品文档
 title: 步骤3（共3步） — 将Marketo解决方案与S2S连接连接
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
+source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 1. 输入 **用户名**, **密码**, **客户端ID**, **客户端密钥**&#x200B;和Microsoft Dynamics **URL**. 单击 **保存** 完成时。
 
-   ![](assets/step-3-of-3-s2s-5.png)
+   ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
