@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '8287'
+source-wordcount: '8250'
 ht-degree: 0%
 
 ---
@@ -537,10 +537,6 @@ ht-degree: 0%
                + [步骤1（共3步）：安装具有S2S连接的Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [步骤2（共3步）：使用S2S连接设置Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [步骤3（共3步）：将Marketo解决方案与S2S连接连接](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
-            + 为Dynamics设置OAuth身份验证 {#set-up-oauth-authentication-for-dynamics}
-               + [设置Microsoft Dynamics CRM在线应用程序](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
-               + [设置Microsoft Dynamics CRM内部版应用程序](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
-               + [为Azure AD Federated设置MSD，并预先安装AD FS、租户和Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
             + 连接到旧版本 {#connecting-to-legacy-versions}
                + [步骤1（共3步）：安装Marketo解决方案（2011年内部部署版）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [步骤2（共3步）：在Dynamics（2011本地版）中设置Marketo同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
