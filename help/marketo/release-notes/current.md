@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -87,3 +87,7 @@ ht-degree: 0%
 * **在“邀请用户”对话框中登录**:3月，现有的可选功能“在“邀请用户”对话框中登录”将被弃用。 “在邀请用户对话框中登录”功能被通用ID功能覆盖，该功能是即将推出的AdobeIdentity Management系统集成所需的ID功能，并于2021年8月在所有订阅上启用。 弃用后，Marketo Engage将只强制在订阅内的每个电子邮件地址中关联一个用户。
 
 **Marketo Engage域 — Sales Insight配置**:对于未设置SSL证书的Marketo Engage域和https://，调用将失败，并出现SSL握手错误。 因此，这些领域将被废除。 因此，如果Sales Insight用户具有指向其中任何域的旧配置，则他们的潜在客户、联系人、帐户、机会面板或Marketo全局页面上可能会出现系统标注错误。 我们建议您更新 [Marketo Engage配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) 在Salesforce中遇到此错误时，不会将其标记为“隐藏”。 您只需更新文档“Marketo销售分析配置”部分中突出显示的Marketo Engage凭据。
+
+**_产品发行网络研讨会_**
+
+2022年1月27日，太平洋时间上午9:00 /下午12:00，参加会议，为期 [实时网络研讨会](https://engage.marketo.com/2022_January_Release_Webinar_RegistrationPage.html) 由我们的产品团队托管，您可以在该团队中了解如何使用所有最新的产品创新。

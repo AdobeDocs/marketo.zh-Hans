@@ -2,7 +2,7 @@
 description: 切换开关 — Marketo文档 — 产品文档
 title: 切换开关
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -41,15 +41,15 @@ ht-degree: 0%
 
 1. 在Marketo中，查找并选择您的表单。
 
-   ![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-8.png)
 
 1. 在页面的右下方，单击 **新体验** 切换。
 
-   ![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-9.png)
 
 将加载新体验。
 
-![](assets/toggle-switch-7.png)
+![](assets/toggle-switch-10.png)
 
 ## 为所有功能启用 {#enable-for-all-features}
 
@@ -57,8 +57,8 @@ ht-degree: 0%
 
 1. 在当前具有切换开关的区域(在本例中，我们位于 [表单详细信息页面](#form-details-page))，请单击页面右下方的齿轮图标。
 
-   ![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-11.png)
 
 1. 选择 **启用所有可用功能** 单击 **确定**.
 
-   ![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-12.png)
