@@ -1,0 +1,65 @@
+---
+description: 全局表单验证规则 — Marketo文档 — 产品文档
+title: 全局表单验证规则
+hide: true
+hidefromtoc: true
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+workflow-type: tm+mt
+source-wordcount: '166'
+ht-degree: 0%
+
+---
+
+# 全局表单验证规则 {#global-form-validation-rules}
+
+此功能允许您阻止特定域提交到Marketo Engage表单。
+
+## 如何启用访问 {#how-to-enable-access}
+
+在使用此功能之前，必须根据所需的角色启用其权限。
+
+1. 在Marketo中，单击 **管理员**.
+
+PICC
+
+1. 单击 **用户和角色**.
+
+PICC
+
+1. 单击 **角色** 选项卡。
+
+PICC
+
+1. 双击要授予权限的角色。
+
+PICC
+
+1. 单击 **+** 在“访问管理员”旁边登录。
+
+PICC
+
+1. 向下滚动并选择 **访问表单验证规则** 单击 **保存**.
+
+PICC
+
+## 创建新表单验证规则 {#create-new-form-validation-rule}
+
+1. 在Marketo中，单击 **管理员**.
+
+PICC
+
+1. 单击 **全局表单验证规则**.
+
+PICC
+
+1. 单击 **新表单验证规则**.
+
+PICC
+
+1. 命名规则，为其提供可选描述，然后输入您希望表单访客看到的错误消息。 在规则框中输入要阻止的域，选择 **激活规则**，然后单击 **创建**.
+
+PICC
+
+>[!NOTE]
+>
+>通过表单验证规则操作下拉列表，可以删除或编辑现有规则。

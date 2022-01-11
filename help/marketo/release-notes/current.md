@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,6 @@ ht-degree: 0%
 
    * Design Studio中的登陆页面资产详细信息
    * 营销活动中的登陆页面资产详细信息
-   * Design Studio中的电子邮件列表视图（包括新的批量操作）
-
-* **下一代体验切换开关的管理控制**:管理员可以选择哪些用户类型可以访问切换开关以查看下一代体验中的屏幕。
 
 ## Microsoft Dynamics集成 {#microsoft-dynamics-integration}
 
