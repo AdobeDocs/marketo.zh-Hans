@@ -3,9 +3,10 @@ description: 全局表单验证规则 — Marketo文档 — 产品文档
 title: 全局表单验证规则
 hide: true
 hidefromtoc: true
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -20,46 +21,46 @@ ht-degree: 0%
 
 1. 在Marketo中，单击 **管理员**.
 
-PICC
+   ![](assets/global-form-validation-rules-1.png)
 
 1. 单击 **用户和角色**.
 
-PICC
+   ![](assets/global-form-validation-rules-2.png)
 
 1. 单击 **角色** 选项卡。
 
-PICC
+   ![](assets/global-form-validation-rules-3.png)
 
 1. 双击要授予权限的角色。
 
-PICC
+   PICC
 
 1. 单击 **+** 在“访问管理员”旁边登录。
 
-PICC
+   PICC
 
 1. 向下滚动并选择 **访问表单验证规则** 单击 **保存**.
 
-PICC
+   PICC
 
 ## 创建新表单验证规则 {#create-new-form-validation-rule}
 
 1. 在Marketo中，单击 **管理员**.
 
-PICC
+   ![](assets/global-form-validation-rules-7.png)
 
 1. 单击 **全局表单验证规则**.
 
-PICC
+   ![](assets/global-form-validation-rules-8.png)
 
 1. 单击 **新表单验证规则**.
 
-PICC
+   ![](assets/global-form-validation-rules-9.png)
+
+   >[!NOTE]
+   >
+   >通过表单验证规则操作下拉列表，可以删除或编辑现有规则。
 
 1. 命名规则，为其提供可选描述，然后输入您希望表单访客看到的错误消息。 在规则框中输入要阻止的域，选择 **激活规则**，然后单击 **创建**.
 
-PICC
-
->[!NOTE]
->
->通过表单验证规则操作下拉列表，可以删除或编辑现有规则。
+   ![](assets/global-form-validation-rules-10.png)
