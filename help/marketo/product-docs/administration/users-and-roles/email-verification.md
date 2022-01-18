@@ -4,21 +4,34 @@ title: 电子邮件验证
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # 电子邮件验证 {#email-verification}
 
-我想你说过我们只会制作一个新页面，包含用户的电子邮件验证
+AdobeMarketo Engage订阅要求所有非API用户验证其电子邮件地址。 单点登录(SSO)用户在启用“电子邮件验证”后，将自动验证其电子邮件。
 
-用户邀请当管理员邀请用户时，对用户的UI或体验没有更改当用户单击邀请链接时，其电子邮件将自动验证使用SSO的用户自动验证
+**用户邀请**
 
-“用户帐户屏幕”显示已验证的电子邮件地址更新电子邮件地址时，UI会反映帐户的电子邮件未验证并发送电子邮件（请参阅附加的电子邮件）
+当管理员邀请用户时，该用户在单击“邀请”链接后会自动进行验证。 使用SSO的用户会自动进行验证。
 
-管理员 — 用户和角色页面显示用户验证状态的新列新按钮，可再次触发用户的电子邮件验证
+**更改电子邮件地址**
 
-MyMarketo如果用户登录时，如果用户的电子邮件未验证，则他们应会在我的Marketo页面上看到一个横幅（仅限）。
+当用户的电子邮件地址发生更改时，该地址会变为未验证。 系统会向他们发送电子邮件，以便他们重新验证。 管理员可以通过单击 **重新发送验证**.
+
+![](assets/email-verification-1.png)
+
+![](assets/email-verification-2.png)
+
+**用户和角色**
+
+在管理员>用户和角色中，电子邮件状态列显示每个用户的验证状态。
+
+![](assets/email-verification-3.png)
+
+要验证未验证的用户，只需选择其记录并单击 **验证电子邮件** 按钮。
+
