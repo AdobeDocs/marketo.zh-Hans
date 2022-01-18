@@ -4,7 +4,7 @@ title: 电子邮件验证
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -34,4 +34,3 @@ AdobeMarketo Engage订阅要求所有非API用户验证其电子邮件地址。 
 ![](assets/email-verification-3.png)
 
 要验证未验证的用户，只需选择其记录并单击 **验证电子邮件** 按钮。
-

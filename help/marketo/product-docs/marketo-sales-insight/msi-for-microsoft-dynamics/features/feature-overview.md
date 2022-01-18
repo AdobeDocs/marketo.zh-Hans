@@ -3,9 +3,9 @@ unique-page-id: 37357043
 description: 功能概述 — Marketo文档 — 产品文档
 title: 功能概述
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,15 @@ ht-degree: 2%
 * 添加到Marketo Campaign
 * 发送Marketo电子邮件
 
-## Marketo Best页面  {#marketo-best-bets-page}
+## Marketo帐户布局中的Sales Insight面板 {#marketo-sales-insight-panel-in-account-layout}
+
+* 星与火焰
+* 有趣的时刻
+* Web活动
+* 得分
+* 电子邮件（打开并单击）
+
+## Marketo Best页面 {#marketo-best-bets-page}
 
 * 优先级（星光和火焰）
 * 名称（超链接到“潜在客户/联系人”页面）
