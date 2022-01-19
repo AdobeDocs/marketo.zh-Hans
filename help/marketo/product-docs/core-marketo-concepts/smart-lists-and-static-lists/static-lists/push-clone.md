@@ -3,9 +3,9 @@ description: 推送克隆 — Marketo文档 — 产品文档
 title: 推送克隆
 hide: true
 hidefromtoc: true
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 58b9589e5364584c3b2f41dc1a32496a18574429
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >如果您选择“新帐户”，则可以通过以下路径找到您的Munchkin ID: **管理员** > **蒙奇金** (登录后，它也会成为Marketo URL的一部分)。 客户端ID/密钥您应当具有，以便遵循本文顶部的先决条件。
+
 1. 选择目标帐户并单击 **选择**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -73,6 +77,10 @@ ht-degree: 0%
 1. 选择要发送到Marketo的区段，然后单击 **下一个**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >如果在此处选择多个区段，则必须在区段计划选项卡中将每个区段映射到指定的静态列表。
 
 1. 单击 **添加新映射**.
 
@@ -102,6 +110,10 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >从映射电子邮件和/或ECID **身份命名空间** 选项卡是确保人员在Marketo中进行匹配时最重要的操作。 映射电子邮件将确保最高匹配率。
+
 1. 现在该选择源字段了。 对于电子邮件，单击光标图标。
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -129,6 +141,10 @@ ht-degree: 0%
 1. 您现在需要列表的ID。 单击浏览器中已打开Marketo静态列表的选项卡（或打开一个新选项卡并选择所需的静态列表）。
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >为获得最佳结果，请使用空的Marketo Engage列表。
 
 1. 突出显示并复制URL末尾的列表ID。
 
