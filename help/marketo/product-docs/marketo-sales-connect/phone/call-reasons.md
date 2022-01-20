@@ -4,9 +4,9 @@ title: 呼叫原因
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,10 @@ ht-degree: 0%
    ![](assets/call-reasons-4.png)
 
 ## 创建调用原因 {#create-call}
+
+>[!NOTE]
+>
+>您最多可以创建15个呼叫原因。
 
 1. 单击齿轮图标，然后选择 **设置**.
 
