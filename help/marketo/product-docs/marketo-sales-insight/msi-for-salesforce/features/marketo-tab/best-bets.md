@@ -2,7 +2,7 @@
 description: 最佳选择 — Marketo文档 — 产品文档
 title: 最佳下注
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -37,6 +37,8 @@ ht-degree: 0%
 * 在Marketo中查看
 * 添加到监视列表
 
+![](assets/best-bets-1.png)
+
 **批量操作**
 
 您可以使用复选框从“最佳下注”页面中选择一个或多个潜在客户或联系人，然后使用以下参与选项以群组形式联系他们：
@@ -45,7 +47,7 @@ ht-degree: 0%
 * 添加到Marketo Campaign
 * 添加到监视列表
 
-![](assets/best-bets-1.png)
+![](assets/best-bets-2.png)
 
 >[!NOTE]
 >

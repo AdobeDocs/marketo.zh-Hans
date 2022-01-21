@@ -3,7 +3,7 @@ unique-page-id: 7516390
 description: 在SalesforceAppExchange中安装Marketo Sales Insight包 — Marketo文档 — 产品文档
 title: 在SalesforceAppExchange中安装Marketo Sales Insight包
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 1. 输入连接的Salesforce帐户登录，然后单击 **在生产环境中安装**.
 
-   ![](assets/three.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 
    >[!TIP]
    >
@@ -38,39 +38,39 @@ ht-degree: 0%
 
 1. 阅读并接受条款和条件，然后单击 **确认和安装**.
 
-   ![](assets/four.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-3.png)
 
 1. 您可以选择“仅为管理员安装”（稍后提供对特定配置文件的MSI访问权限）、“为所有用户安装”或“为特定配置文件安装”。
 
-   ![](assets/five.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 
 1. 开始安装过程后，您可能会看到以下消息。 安装完成后，您将收到一封电子邮件。 单击 **完成** 解雇。
 
-   ![](assets/six.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-5.png)
 
 1. 验证 **Marketo Sales Insight** 在已安装的包中。
 
-   ![](assets/seven.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-6.png)
 
 1. 单击 **设置** 在您的姓名旁边。
 
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
 1. 搜索“对象”，然后单击 **对象** 在 **创建**.
 
-   ![](assets/image2015-5-22-14-3a42-3a7.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 
 1. 再次检查 **已部署** 将检查所有Marketo Sales Insight项目。
 
-   ![](assets/image2015-5-27-16-3a15-3a58.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-9.png)
 
 1. 如果未部署对象，请单击 **编辑** 项目旁边。
 
-   ![](assets/image2014-9-24-17-3a23-3a45.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-10.png)
 
 1. 在 **部署状态** 选择 **已部署**，然后单击 **保存**.
 
-   ![](assets/image2014-9-24-17-3a24-3a0.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 
 干得好！ 现在，您已安装并部署了Marketo Sales Insight。 继续为您的销售团队配置它，并观看销售飞天车。
 

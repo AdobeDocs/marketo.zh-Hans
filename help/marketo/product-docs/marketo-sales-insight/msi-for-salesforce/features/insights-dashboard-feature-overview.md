@@ -3,7 +3,7 @@ unique-page-id: 42762514
 description: 分析功能板功能概述 — Marketo文档 — 产品文档
 title: 分析功能板功能概述
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >您必须具有最新的MSI SFDC包和 [配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
-![](assets/one.png)
+![](assets/insights-dashboard-feature-overview-1.png)
 
 ## 联系人布局 {#contact-layout}
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 * 此部分中的活动详细信息卡将具有预览选项。 如果流程包含多个发送电子邮件步骤，则所有电子邮件都将可供预览。 在发送电子邮件流程步骤中，如果有多个“电子邮件选项”，则默认选项将可用于预览
 * 过滤器包括“搜索”和“日期范围”
 
-![](assets/three.png)
+![](assets/insights-dashboard-feature-overview-2.png)
 
 “事件”选项卡：
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 * 此部分中的活动详细信息卡片具有预览选项
 * 过滤器包括“搜索”、“仅显示受邀事件”和“日期范围”
 
-![](assets/two.png)
+![](assets/insights-dashboard-feature-overview-3.png)
 
 ## 潜在客户布局 {#lead-layout}
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 * 此部分中的活动详细信息卡将具有预览选项。 如果流程包含多个发送电子邮件步骤，则所有电子邮件都将可供预览。 在发送电子邮件流程步骤中，如果有多个“电子邮件选项”，则默认选项将可用于预览
 * 过滤器包括“搜索”和“日期范围”
 
-![](assets/five.png)
+![](assets/insights-dashboard-feature-overview-4.png)
 
 “事件”选项卡：
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 * 此部分中的活动详细信息卡片具有预览选项
 * 过滤器包括“搜索”、“仅显示受邀事件”和“日期范围”
 
-![](assets/four.png)
+![](assets/insights-dashboard-feature-overview-5.png)
 
 ## 帐户布局 {#account-layout}
 
