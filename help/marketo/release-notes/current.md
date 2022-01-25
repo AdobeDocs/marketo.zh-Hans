@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## AEPMarketo Engage目标连接器 — 创建新潜在客户 {#aep-marketo-engage-destination-connector}
 
-同时使用Adobe Experience Platform(AEP)的Marketo Engage客户可以通过AEP目标连接器将新人员记录从AEP推送到Marketo Engage，从而最大限度地提升其数据库。 将受众区段从AEP发送到Marketo Engage时，区段中不存在的Marketo Engage数据库中的人员将自动添加到受众区段中。
+同时使用Adobe Experience Platform(AEP)的Marketo Engage客户可以通过AEP目标连接器将新人员记录从AEP推送到Marketo Engage，从而最大限度地提升其数据库。 将受众区段从AEP发送到Marketo Engage时，区段中不存在于Marketo Engage数据库中的人员 [可以自动添加到其中](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
 ## 销售分析 {#sales-insight}
 
@@ -78,7 +78,7 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-* **Marketo Sky日落设置**:3月11日，Marketo Sky将不再可用，因为我们将资源集中在提供下一代用户体验上。 为了保持对当今Marketo Sky所独有的功能的访问，我们将在3月将资产到期和智能促销活动优先级覆盖引入主流体验。
+* **Marketo Sky弃用**:3月11日，Marketo Sky将不再可用，因为我们将资源集中在提供下一代用户体验上。 为了保持对当今Marketo Sky所独有的功能的访问，我们将在3月将资产到期和智能促销活动优先级覆盖引入主流体验。 [单击此处](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) 以了解更多。
 
 * **弃用表单端点**:指向leadCapture/save2端点的不支持的程序化表单POST将被Marketo Engage表单拒绝。 [单击此处](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 以了解更多。
 
