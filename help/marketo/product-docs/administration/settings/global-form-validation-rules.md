@@ -4,7 +4,7 @@ title: 全局表单验证规则
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
+source-git-commit: 0354267afa8e11dbe7ac3b56bc8a4c2886c84676
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Engage提供了一阻止列表个定义的免费消费者电子邮件域名，当使用我们预加载的“消费者电子邮件域名”规则时，这些域阻止列表名会被阻止。 [在此处查看该列表](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
+>Marketo Engage提供了一阻止列表个定义的免费消费者电子邮件域名，当使用我们预加载的“消费者电子邮件域名”规则时，这些域阻止列表名会被阻止。 [在此处查看该列表](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
