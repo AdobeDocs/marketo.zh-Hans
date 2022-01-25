@@ -4,9 +4,9 @@ title: 全局表单验证规则
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
+source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -68,3 +68,7 @@ ht-degree: 0%
 1. 命名规则，为其提供可选描述，然后输入您希望表单访客看到的错误消息。 在规则框中输入要阻止的域，选择 **激活规则**，然后单击 **创建**.
 
    ![](assets/global-form-validation-rules-10.png)
+
+>[!NOTE]
+>
+>Marketo Engage提供了一阻止列表个定义的免费消费者电子邮件域名，当使用我们预加载的“消费者电子邮件域名”规则时，这些域阻止列表名会被阻止。 [在此处查看该列表](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
