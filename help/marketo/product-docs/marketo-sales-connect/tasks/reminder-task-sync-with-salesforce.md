@@ -4,9 +4,9 @@ title: 提醒任务与Salesforce同步
 hide: true
 hidefromtoc: true
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -79,3 +79,7 @@ ht-degree: 0%
 初始同步后，您在Sales Connect中创建、编辑、完成或删除的任何任务都将同步到Salesforce中的任务列表。 而在Salesforce中创建、编辑、完成或删除的任何内容都将在Sales Connect中更新您的任务列表。
 
 要打开此同步，只需选中 [“设置”页面](https://toutapp.com/login) 在web应用程序中。
+
+>[!NOTE]
+>
+>任务的主题字段可在Sales Connect中更新，如果您使用 `{{activity_subject}}` 动态字段， [活动详细信息自定义](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 设置。 相反，对Salesforce中的主题字段所做的任何更新都将 _not_ 同步到Sales Connect提醒任务主题字段。

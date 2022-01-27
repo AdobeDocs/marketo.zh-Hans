@@ -4,9 +4,9 @@ title: 配置Salesforce活动详细信息自定义
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 0%
 
 
 活动详细信息自定义允许管理员配置在将Sales Connect活动/提醒任务同步到Salesforce时，将记录到Salesforce任务 — 主题字段的信息。
+
+>[!NOTE]
+>
+>如果您使用 `{{activity_subject}}` 动态字段。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,6 +50,10 @@ ht-degree: 0%
 * 管理员可以使用唯一标识符（如“Mkto_sales”）标记主题字段，以便能够轻松识别Sales Connect中的活动，并将其与其他电子邮件活动、呼叫活动和任务区分开来。
 * 无需自定义活动字段。 Salesforce对自定义活动字段的数量实施限制，这可以限制可在报表中使用的数据。 通过使用活动动态字段向主题行添加关键数据，您可以减少在Salesforce实例中创建所需的自定义活动字段数。
 * 活动和任务的主题字段将遵循Sales Connect管理员定义的一致模式。
+
+>[!NOTE]
+>
+>如果您将电子邮件回复作为活动记录到Salesforce，则它们将不使用Salesforce活动详细信息自定义设置。 相反，他们将以“Reply:电子邮件主题。”
 
 ## 支持的活动动态字段 {#activity-dynamic-fields-supported}
 
