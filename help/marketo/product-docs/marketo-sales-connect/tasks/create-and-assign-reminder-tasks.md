@@ -4,9 +4,9 @@ title: 创建和分配提醒任务
 hide: true
 hidefromtoc: true
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -17,40 +17,36 @@ ht-degree: 0%
 
 1. 单击 **命令中心**.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. 单击 **任务**.
+1. 默认情况下会打开任务。 单击 **添加任务**.
 
-PICC
-
-1. 单击 **添加任务**.
-
-PICC
+   ![](assets/create-and-assign-reminder-tasks-2.png)
 
 1. 从“电子邮件”、“呼叫”、“InMail”或“自定义任务”中选择任务类型。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-3.png)
 
 1. 为任务指定名称。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-4.png)
 
 1. 选择保留将任务分配给您自己，或选择其他用户将任务分配给。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-5.png)
 
 1. 使用此提醒任务添加您要跟踪的人员。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-6.png)
 
 1. 选择任务到期的日期。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-7.png)
 
 1. 选择任务的优先级。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 添加您在完成任务时希望获得的任务的任何详细信息，如呼叫通话备注、InMail邮件模板，甚至是有关人员的备注。
+1. 添加您在完成任务时希望获得的任务的任何详细信息，如呼叫通话备注、InMail邮件模板，甚至是有关人员的备注。 单击 **创建** 完成时。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-9.png)

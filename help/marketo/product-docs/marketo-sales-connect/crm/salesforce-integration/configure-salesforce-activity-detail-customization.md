@@ -4,9 +4,9 @@ title: 配置Salesforce活动详细信息自定义
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -102,25 +102,39 @@ ht-degree: 0%
 
 1. 单击齿轮图标，然后选择 **设置**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
 1. 单击 **Salesforce**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
 1. 单击 **同步设置**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. 在活动详细信息自定义编辑器中，添加您需要的任何自由文本，对于同步到Salesforce的所有任务的主题字段，此文本将保持不变。
+1. 在活动详细信息自定义编辑器中，添加您需要的任何自由文本。 您添加的文本是非动态的，对于同步到Salesforce的所有任务的主题字段，其文本将保持不变。
 
-1. 通过单击动态字段按钮并从列表中选择要使用的动态字段，可添加要添加的任何动态字段。
+   ![](assets/configure-salesforce-activity-detail-customization-6.png)
+
+   >[!TIP]
+   >
+   >虽然不需要，但将添加的文本换行为在直括括号中，这样当数据填充到Salesforce中的主题字段时，有些人就可以更轻松地在数据之间进行识别。 示例： `[Sales Connect] - {{Activity_type}}`
+
+1. 通过单击 **添加动态字段** 按钮。
+
+   ![](assets/configure-salesforce-activity-detail-customization-7.png)
+
+1. 选择所需的动态字段。
+
+   ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
 1. 单击 **保存**.
 
+   ![](assets/configure-salesforce-activity-detail-customization-9.png)
+
 >[!NOTE]
 >
->Salesforce强制规定255个字符的限制。 如果活动详细信息超过该值，则将被截断，以确保该信息可以存储在Salesforce主题字段中。
+>Salesforce强制规定255个字符的限制。 如果活动详细信息超出此限制，则会被截断，以确保信息存储在Salesforce主题字段中。
 
 >[!MORELIKETHIS]
 >
