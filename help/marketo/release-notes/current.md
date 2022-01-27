@@ -2,7 +2,7 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
+source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 **_季度版本_**
 
-将在 **2022年1月21日**，并在接下来的一周中分阶段推出每项功能（除非另有指定）。
+将在 **2022年1月21日**，在接下来的几周内（除非另有指定）分阶段推出每项功能。
 
 ## 新一代体验 {#next-generation-experience}
 
