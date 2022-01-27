@@ -4,7 +4,7 @@ title: 记录调用原因和向Salesforce调用结果
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ### 在Salesforce Classic中创建自定义活动字段  {#create-custom-activity-field-in-salesforce-classic}
 
-1. 在Salesforce中，单击 **设置**.
+1. 在Salesforce中，单击 **设置**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 >
 >如果您未在上面的步骤9中选择所需的页面布局，则只需执行这些步骤。
 
-1. 在Salesforce中，单击 **设置**.
+1. 在Salesforce中，单击 **设置**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -110,11 +110,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. 单击 **活动** 标签。
+1. 单击 **活动** 标签。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. 单击 **字段和关系**.
+1. 单击 **字段和关系**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
