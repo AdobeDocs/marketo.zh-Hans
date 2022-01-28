@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
+source-git-commit: b6360de280547ba0fa486da094c467853b442621
 workflow-type: tm+mt
-source-wordcount: '8246'
+source-wordcount: '8237'
 ht-degree: 0%
 
 ---
@@ -1199,7 +1199,6 @@ ht-degree: 0%
          + [未登录到活动历史记录](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [未登录到Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [启用呼叫记录](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [如何在销售电话中自定义通话结果](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [记录调用原因和向Salesforce调用结果](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [销售电话国际电话](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [销售电话本地存在](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
