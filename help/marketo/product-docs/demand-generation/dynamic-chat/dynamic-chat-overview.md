@@ -4,9 +4,9 @@ title: 动态聊天概述
 hide: true
 hidefromtoc: true
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 9ab6640ae30bd5ad653b5936a01ec3b0e19d595b
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >动态聊天正在逐步推出，目前的可用性有限。 此页面将在正式发布(GA)详细信息之后进行更新。
+
+>[!TIP]
+>
+>访问 [本页](https://dcweb.z20.web.core.windows.net/) 观看教程视频以及动态聊天的录制演示。
 
 ## 集成 {#integrations}
 
