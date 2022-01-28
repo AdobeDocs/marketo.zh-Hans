@@ -1,10 +1,8 @@
 ---
 description: 将调用原因和调用结果记录到Salesforce - Marketo文档 — 产品文档
 title: 记录调用原因和向Salesforce调用结果
-hide: true
-hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -122,7 +120,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-## 在Salesforce闪电中，将自定义活动字段添加到任务页面布局 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### 在Salesforce闪电中，将自定义活动字段添加到任务页面布局 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
 1. 在Salesforce中，单击右上方的齿轮图标，然后选择 **设置**.
 
