@@ -2,9 +2,9 @@
 description: 配置Salesforce活动详细信息自定义 — Marketo文档 — 产品文档
 title: 配置Salesforce活动详细信息自定义
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您使用 `{{activity_subject}}` 动态字段。
+>* 如果您使用 `{{activity_subject}}` 动态字段。
+>* 在将信息记录到Salesforce主题字段时，不支持换行符。 在更新销售任务主体时，活动详细信息自定义编辑器中的任何换行符都将被删除。
+
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
