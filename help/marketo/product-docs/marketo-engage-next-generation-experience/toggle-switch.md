@@ -2,9 +2,9 @@
 description: 切换开关 — Marketo文档 — 产品文档
 title: 切换开关
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,20 @@ ht-degree: 0%
 将加载新体验。
 
 ![](assets/toggle-switch-4.png)
+
+## 登陆页面详细信息页面 {#landing-page-details-page}
+
+1. 在Marketo中，找到并选择您的登陆页面。
+
+   ![](assets/toggle-switch-5.png)
+
+1. 在页面的右下方，单击 **新体验** 切换。
+
+   ![](assets/toggle-switch-6.png)
+
+将加载新体验。
+
+![](assets/toggle-switch-7.png)
 
 ## 表单详细信息页面 {#form-details-page}
 
