@@ -2,7 +2,7 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 87410bcdc5f9ebb3b85765efe9fd852df4611ce6
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 0%
@@ -40,9 +40,9 @@ ht-degree: 0%
 
 ## 管理 {#administration}
 
-* **表单验证规则**:维护数据库的运行状况，能够阻止有问题或不希望的电子邮件域提交Marketo Engage表。 全局表单验证规则面板允许管理员定阻止列表义，或启用预定义的自由使用者域列表以阻止表单。
+* **[表单验证规则](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**:维护数据库的运行状况，能够阻止有问题或不希望的电子邮件域提交Marketo Engage表。 全局表单验证规则面板允许管理员定阻止列表义，或启用预定义的自由使用者域列表以阻止表单。
 
-* **登陆页面标题安全性**:管理员可以在其登陆页面域上管理严格传输安全和X-Frame选项标头，以强制执行强大的安全要求。
+* **[登陆页面标题安全性](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**:管理员可以在其登陆页面域上管理严格传输安全和X-Frame选项标头，以强制执行强大的安全要求。
 
 **_在整个季度发布_**
 
