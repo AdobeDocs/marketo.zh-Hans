@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: b6360de280547ba0fa486da094c467853b442621
+source-git-commit: f4cab63854a9c3e461daeb28c0a09746488c5d9e
 workflow-type: tm+mt
-source-wordcount: '8237'
+source-wordcount: '8247'
 ht-degree: 0%
 
 ---
@@ -273,6 +273,7 @@ ht-degree: 0%
             + [删除流程步骤](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [删除人员](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [执行Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
+            + [流步骤服务](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
             + [将点数给予反向链接](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [有趣的时刻](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [从流中删除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
@@ -1281,6 +1282,7 @@ ht-degree: 0%
                + [批量电子邮件发送选项](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [使用选择并发送来合成批量电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+               + [在撰写窗口中使用模板](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Salesforce配置 {#salesforce-configuration}
             + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [卸载Salesforce Classic自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
