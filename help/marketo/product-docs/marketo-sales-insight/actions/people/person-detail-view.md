@@ -3,9 +3,9 @@ description: 人员详细信息视图 — Marketo文档 — 产品文档
 title: 人员详细信息视图
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 PICC
 
-1. 单击所需的人员。
+1. 选择所需的人员。
 
 PICC
 
