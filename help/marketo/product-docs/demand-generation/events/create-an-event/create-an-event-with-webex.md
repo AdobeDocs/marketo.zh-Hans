@@ -1,26 +1,26 @@
 ---
 unique-page-id: 2949863
-description: 使用WebEx创建事件 — Marketo文档 — 产品文档
-title: 使用WebEx创建事件
+description: 使用Webex - Marketo文档 — 产品文档创建事件
+title: 使用Webex创建事件
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
 
 ---
 
-# 使用WebEx创建事件 {#create-an-event-with-webex}
+# 使用Webex创建事件 {#create-an-event-with-webex}
 
 >[!PREREQUISITES]
 >
->* [将WebEx添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [将Webex添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [创建新事件程序](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 设置相应的 [流量操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) 跟踪参与度
 >* 确保您使用的是Webex事件（经典）
 
 
-首先在WebEx事件中心创建Webex事件。 Marketo仅对您的集成使用特定设置和字段，我们将很快介绍这些设置和字段。 您可能想要为WebEx配置的其他字段在 [WebEx Event Center用户指南](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+首先在Webex事件中心创建Webex事件。 Marketo仅对您的集成使用特定设置和字段，我们将很快介绍这些设置和字段。 您可能想要为Webex配置的其他字段在 [Webex Event Center用户指南](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
 >[!IMPORTANT]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
    * 建议您 **not** 列出您的事件。 这将确保所有人员通过您的Marketo登录页面进行注册。 活动结束后，通过Marketo以外的机制注册的人员将在Marketo中显示，并且仅当他们参加了活动时才会显示。
    * 如果选择列出事件，该事件将显示在“事件列表”页面上，供访问您的事件中心网站的任何人使用。
 
-* **注册 —** 选中此框可将设置为“必需”。 您将使用Marketo表单/登陆页面捕获将被推送到WebEx的注册信息。
+* **注册 —** 选中此框可将设置为“必需”。 您将使用Marketo表单/登陆页面捕获将被推送到Webex的注册信息。
 * **事件密码** — （可选）如果您使用此字段，请确保将其包含在确认电子邮件中！
 
 ![](assets/image2015-5-28-13-3a30-3a55.png)
@@ -53,14 +53,14 @@ ht-degree: 0%
 
 ## 音频会议设置 {#audio-conference-settings}
 
-这些设置仅驻留在WebEx中。 它们不供Marketo使用或在Adobe中查看，但它们可能对网络研讨会很重要，因此请仔细检查它们！
+这些设置仅位于Webex中。 它们不供Marketo使用或在Adobe中查看，但它们可能对网络研讨会很重要，因此请仔细检查它们！
 
 ## 事件描述和选项  {#event-description-options}
 
-以下选项由Marketo使用或可在Analytics中查看。 其他字段仅驻留在WebEx中。
+以下选项由Marketo使用或可在Analytics中查看。 其他字段仅位于Webex中。
 
 * **描述**  — 输入描述。 该内容可查看，但不能在Marketo中修改。
-* **事件后调查** -Marketo当前无法在WebEx事件后调查中捕获信息。
+* **事件后调查** -Marketo当前无法捕获Webex事件后调查中的信息。
 * **目标URL**  — （可选）您可以输入Marketo登陆页面的URL，以用作会话结束后显示的目标URL。
 
 ![](assets/image2015-5-28-13-3a48-3a49.png)
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 * **最大注册者数**  — 当前 **not** 受支持。  使用Marketo中的“待批准”进展状态，可以手动审批注册者。
 
-* **需要注册ID**  — 当前支持使用Marketo-WebEx集成。 您可以使用Marketo发出活动的确认电子邮件。 人员进行注册时，会收到用于输入事件的唯一URL。
+* **需要注册ID**  — 当前支持使用Marketo-Webex集成。 您可以使用Marketo发出活动的确认电子邮件。 人员进行注册时，会收到用于输入事件的唯一URL。
 
    >[!TIP]
    >
@@ -79,8 +79,8 @@ ht-degree: 0%
    >
    >将确认电子邮件设置为 **运行** 确保登记和可能被注销的人员仍收到确认信息。
 
-* **注册密码**  — （可选）当前不支持使用Marketo-WebEx集成。
-* **批准规则**  — 当前不支持使用Marketo-WebEx集成。 但是，您可以在Marketo中使用智能营销活动来控制批准。
+* **注册密码**  — （可选）当前不支持使用Marketo-Webex集成。
+* **批准规则**  — 当前不支持使用Marketo-Webex集成。 但是，您可以在Marketo中使用智能营销活动来控制批准。
 
 ![](assets/image2015-5-28-14-3a4-3a41.png)
 
@@ -90,13 +90,13 @@ ht-degree: 0%
 
 ### 电子邮件消息 {#email-messages}
 
-您将使用Marketo向注册者发送电子邮件、确认电子邮件等。 您无需在此部分中配置任何内容。 禁用（取消选中）WebEx中的电子邮件选项。
+您将使用Marketo向注册者发送电子邮件、确认电子邮件等。 您无需在此部分中配置任何内容。 禁用（取消选中）Webex中的电子邮件选项。
 
 ![](assets/image2015-5-28-14-3a9-3a14.png)
 
 >[!NOTE]
 >
->Marketo-WebEx集成不支持从WebEx发送确认电子邮件。 确认必须通过Marketo发送。 安排事件后，请确保将事件信息复制到Marketo确认电子邮件，并将电子邮件设置为 **运行**.
+>Marketo-Webex集成不支持从Webex发送确认电子邮件。 确认必须通过Marketo发送。 安排事件后，请确保将事件信息复制到Marketo确认电子邮件，并将电子邮件设置为 **运行**.
 
 现在，我们准备跳进Marketo!
 
@@ -108,19 +108,19 @@ ht-degree: 0%
    >
    >所选事件的渠道类型必须为 **网络研讨会**.
 
-1. 在 **活动合作伙伴**，选择 **WebEx**.
+1. 在 **活动合作伙伴**，选择 **韦贝**.
 
    ![](assets/image2015-1-30-13-3a58-3a2.png)
 
-1. 在 **登录**，选择您的WebEx登录。
+1. 在 **登录**，选择Webex登录名。
 
    ![](assets/image2015-5-18-12-3a2-3a26.png)
 
-1. 在 **事件**，选择新创建的WebEx事件。 然后，选择一个可选的备份页面，并单击 **保存**.
+1. 在 **事件**，选择新创建的Webex事件。 然后，选择一个可选的备份页面，并单击 **保存**.
 
    ![](assets/image2015-5-14-16-3a15-3a55.png)
 
-1. 为您的WebEx事件选择一个可选的备份页面。 从已批准的Marketo登陆页面的下拉列表中进行选择，或输入非Marketo登陆页面的URL。
+1. 为您的Webex事件选择一个可选的备份页面。 从已批准的Marketo登陆页面的下拉列表中进行选择，或输入非Marketo登陆页面的URL。
 
    >[!TIP]
    >
@@ -140,7 +140,7 @@ ht-degree: 0%
    >
    >数据可能最多需要48小时才能在Marketo中显示。 如果等待了那么长时间后仍未看到任何内容，请选择 **从网络研讨会提供商刷新** 从 **概要** 选项卡。
 
-真贴心！ 您的WebEx事件现在与Marketo事件同步。  注册网络研讨会的人员在将“新状态”设置为“已注册”时，将通过更改项目状态流程步骤推送到网络研讨会提供商。 没有其他状态会将人推过去。 另外，请务必执行更改项目状态流程步骤#1和发送电子邮件流程步骤#2。
+真贴心！ Webex事件现在与Marketo事件同步。 注册网络研讨会的人员在将“新状态”设置为“已注册”时，将通过更改项目状态流程步骤推送到网络研讨会提供商。 没有其他状态会将人推过去。 另外，请务必执行更改项目状态流程步骤#1和发送电子邮件流程步骤#2。
 
 ## 查看计划  {#viewing-the-schedule}
 
@@ -150,4 +150,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->要更改事件计划，您需要在WebEx上编辑网络研讨会。
+>要更改事件计划，您需要在Webex上编辑网络研讨会。
