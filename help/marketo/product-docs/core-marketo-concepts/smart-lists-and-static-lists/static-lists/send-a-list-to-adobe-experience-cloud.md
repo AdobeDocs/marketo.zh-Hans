@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: 将列表发送到Adobe Experience Cloud - Marketo文档 — 产品文档
 title: 将列表发送到Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
+source-git-commit: a82a2dd0a9c3a27b9b6bf3b352cd81d59932a31b
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,94 +17,83 @@ ht-degree: 0%
 >Marketo实例的HIPAA就绪部署无法使用此功能。
 
 >[!PREREQUISITES]
-[设置Adobe Experience Cloud受众共享](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)>
 >
+>[设置Adobe Experience Cloud受众共享](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
-## 支持的目标应用程序{#supported-destination-applications}
+## 支持的目标应用程序 {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics(**仅**&#x200B;如果您拥有Adobe Audience Manager许可证)
+* Adobe Analytics(**仅** 如果您拥有Adobe Audience Manager许可证)
 * Adobe Audience Manager
 * Adobe Experience Manager
-* Adobe实时客户数据平台
+* Adobe Real-time Customer Data Platform
 * Adobe Target
 
-## 如何发送静态列表{#how-to-send-a-static-list}
+## 如何发送静态列表 {#how-to-send-a-static-list}
 
 静态列表就是静态列表。 除非您手动进行更改，否则不会对Adobe Experience Cloud中的列表进行任何更改。
 
-1. 在Marketo中，查找并选择要导出的列表。
+1. 在Marketo中，找到要导出的列表。 右键单击该页面并选择 **发送到Experience Cloud**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. 单击&#x200B;**列表操作**&#x200B;下拉列表，然后选择&#x200B;**发送到Experience Cloud**。
+1. 单击 **Audience Manager文件夹** 下拉菜单，然后在Experience Cloud中选择所需的目标文件夹。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. 单击&#x200B;**Audience Manager文件夹**&#x200B;下拉列表，然后在Experience Cloud中选择所需的目标文件夹。
+1. 选择是创建新受众还是覆盖现有受众（在本例中，我们将创建一个新受众）。 输入新受众名称，然后单击 **发送**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-1. 选择是创建新受众还是覆盖现有受众（在本例中，我们将创建一个新受众）。 输入新受众名称，然后单击&#x200B;**发送**。
+1. 单击 **确定**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
-1. 单击&#x200B;**确定**。
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
-
    >[!NOTE]
-   要完全填充Adobe，受众会员资格最多可能需要6-8小时。
+   >
+   >要完全填充Adobe，受众会员资格最多可能需要6-8小时。
 
-## 如何发送同步列表{#how-to-send-a-synced-list}
+## 如何发送同步列表 {#how-to-send-a-synced-list}
 
 同步列表意味着每当您在Marketo中更新列表时，该更改都会自动同步到Adobe Experience Cloud中的受众。
 
-1. 在Marketo中，查找并选择要同步的列表。
+1. 在Marketo中，找到要导出的列表。 右键单击该页面并选择 **发送到Experience Cloud**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
+
+1. 单击 **受众库文件夹** 下拉菜单，然后在Experience Cloud中选择所需的目标文件夹。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. 单击&#x200B;**列表操作**&#x200B;下拉列表，然后选择&#x200B;**发送到Experience Cloud**。
+1. 选择是创建新受众还是覆盖现有受众（在本例中，我们将创建一个新受众）。 输入新受众名称，并选中 **保持受众成员资格同步** 框中，单击 **发送**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. 单击&#x200B;**Audience Library文件夹**&#x200B;下拉列表，然后在Experience Cloud中选择所需的目标文件夹。
+1. 单击 **确定**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
-1. 选择是创建新受众还是覆盖现有受众（在本例中，我们将创建一个新受众）。 输入新受众名称，选中&#x200B;**保持受众成员资格同步**&#x200B;框，然后单击&#x200B;**发送**。
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
-
-1. 单击&#x200B;**确定**。
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
-
-## 如何停止列表同步{#how-to-stop-a-list-sync}
+## 如何停止列表同步 {#how-to-stop-a-list-sync}
 
 您可以随时阻止列表同步。
 
-1. 在Marketo中，找到并选择要停止同步的列表。
+1. 在Marketo中，找到并右键单击要停止同步的列表。 单击 **停止列表同步**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
+
+1. 选择要停止同步的受众，然后单击 **停止**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
+
+1. 单击 **停止** 确认。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
-1. 单击&#x200B;**列表操作**&#x200B;下拉列表，然后选择&#x200B;**停止列表同步**。
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-12.png)
-
-1. 选择要停止同步的受众，然后单击&#x200B;**停止**。
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-13.png)
-
-1. 单击&#x200B;**停止**&#x200B;以确认。
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-14.png)
-
-## 注意事项{#things-to-note}
+## 注意事项 {#things-to-note}
 
 **共享到Adobe Analytics**
 
-对于同时拥有Adobe Audience Manager和Adobe Analytics的客户，此集成将允许将受众从Marketo共享到Adobe Analytics报表包，但是，在Adobe Audience Manager中还需要执行一些其他配置步骤来启用此功能。 有关如何设置此设置的更多信息，请参阅Adobe Audience Manager的文档：[https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)。
+对于同时拥有Adobe Audience Manager和Adobe Analytics的客户，此集成将允许将受众从Marketo共享到Adobe Analytics报表包，但是，在Adobe Audience Manager中还需要执行一些其他配置步骤来启用此功能。 有关如何设置此设置的更多信息，请参阅Adobe Audience Manager的文档： [https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Adobe Audience Manager客户的特征使用情况**
 
@@ -122,9 +111,9 @@ ht-degree: 0%
 
 **Cookie同步如何工作？**
 
-为您的Marketo订阅启用Cookie同步后，Marketo的munchkin.js将尝试捕获并存储在集成设置期间指定的AdobeIMS组织的AdobeECID，并将这些ECID与相应的Marketo Cookie标识符匹配。 这样，Marketo的匿名用户配置文件便能够通过AdobeECID进行扩充。
+为您的Marketo订阅启用Cookie同步后，Marketo的munchkin.js将尝试捕获并存储在集成设置期间指定的Adobe IMS组织的AdobeECID，并将这些ECID与相应的Marketo Cookie标识符匹配。 这样，Marketo的匿名用户配置文件便能够通过AdobeECID进行扩充。
 
-还需要进一步的步骤来将匿名用户配置文件与潜在客户配置文件关联，潜在客户配置文件使用纯文本电子邮件进行标识。 [此处](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)对其工作方式进行了描述。
+还需要进一步的步骤来将匿名用户配置文件与潜在客户配置文件关联，潜在客户配置文件使用纯文本电子邮件进行标识。 这到底是怎样的 [此处](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
 **共享哪些信息？**
 
