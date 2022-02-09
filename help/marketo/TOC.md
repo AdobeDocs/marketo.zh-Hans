@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 338221b333ee50e6351d5ca6dcba702b48cd2185
+source-git-commit: 5df9b122cb340363a19a833b94d501cc5a766485
 workflow-type: tm+mt
-source-wordcount: '8275'
+source-wordcount: '8268'
 ht-degree: 0%
 
 ---
@@ -1284,21 +1284,19 @@ ht-degree: 0%
                + [使用选择并发送来合成批量电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [在撰写窗口中使用模板](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + Marketo {#marketo}
+            + [授予Marketo用户访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 人员 {#people}
+            + [人员详细信息视图](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [销售分析操作和GDPR合规性](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-         + 任务 {#tasks}
-            + [提醒任务与Salesforce同步](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Salesforce配置 {#salesforce-configuration}
             + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [卸载Salesforce Classic自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
             + [卸载Salesforce闪电自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
-         + Marketo {#marketo}
-            + [授予Marketo用户访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
-         + 人员 {#people}
-         + [人员详细信息视图](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
-         + [销售分析操作和GDPR合规性](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
          + 发送销售电子邮件 {#send-a-sales-email}
             + [电子邮件跟踪概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
+         + 任务 {#tasks}
+            + [提醒任务与Salesforce同步](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + 模板 {#templates}
             + [管理模板](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [管理模板类别](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
