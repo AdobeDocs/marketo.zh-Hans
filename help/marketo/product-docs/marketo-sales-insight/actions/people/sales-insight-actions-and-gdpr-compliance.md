@@ -3,7 +3,7 @@ description: 销售分析操作和GDPR合规 — Marketo文档 — 产品文档
 title: 销售分析操作和GDPR合规性
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 0%
@@ -101,7 +101,7 @@ Sales Insight Actions还允许批量更新联系人的授权和源类型，从�
 
 从“人员”页面选择一个或多个联系人时，右侧会显示一个数据（三个圆点菜单）。 单击它，您将看到授权和源是选项。 您可以同时设置多个联系人的授权或来源。
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 单击授权模式时，将显示一个弹出窗口，其中包含与符合性卡中选项匹配的下拉选项。
 
