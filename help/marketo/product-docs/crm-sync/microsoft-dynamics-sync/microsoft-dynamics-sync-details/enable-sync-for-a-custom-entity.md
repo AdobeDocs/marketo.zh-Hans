@@ -3,16 +3,16 @@ unique-page-id: 2953384
 description: 为自定义实体启用同步 — Marketo文档 — 产品文档
 title: 为自定义实体启用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
-source-git-commit: a5bc634bd3b5ec0849617a9fe366a106691ce149
+source-git-commit: dadaf5bd8e887309d0e9ee8fc25fc58d1c4fbe97
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 # 为自定义实体启用同步 {#enable-sync-for-a-custom-entity}
 
-如果您需要Dynamics中的自定义实体数据才能在Marketo中使用，请参阅以下如何为其启用同步：
+如果您需要Dynamics中的自定义实体数据才能在Marketo中使用，请参阅下面介绍如何为其启用同步。
 
 >[!NOTE]
 >
@@ -20,7 +20,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->为自定义实体启用同步时，Marketo会执行初始同步以引入自定义对象的所有数据。
+>* 为自定义实体启用同步时，Marketo会执行初始同步以引入自定义对象的所有数据。
+>* 营销列表和营销列表成员包括 **不受支持** 此时。
+
 
 1. 转到 **管理员** 中。
 
@@ -61,4 +63,3 @@ ht-degree: 0%
 1. 不要忘记重新启用全局同步！
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
-
