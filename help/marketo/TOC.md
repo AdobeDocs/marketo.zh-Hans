@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 338221b333ee50e6351d5ca6dcba702b48cd2185
 workflow-type: tm+mt
-source-wordcount: '8257'
+source-wordcount: '8275'
 ht-degree: 0%
 
 ---
@@ -1258,6 +1258,7 @@ ht-degree: 0%
             + [营销活动已结束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce集成 {#salesforce-integration}
+               + [配置Salesforce活动详细信息自定义](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [将您的Marketo销售帐户连接到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
                + [Salesforce同步设置](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + 电子邮件 {#email}
@@ -1283,6 +1284,10 @@ ht-degree: 0%
                + [使用选择并发送来合成批量电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [在撰写窗口中使用模板](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + 人员 {#people}
+            + [销售分析操作和GDPR合规性](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+         + 任务 {#tasks}
+            + [提醒任务与Salesforce同步](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Salesforce配置 {#salesforce-configuration}
             + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [卸载Salesforce Classic自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
