@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: f4cab63854a9c3e461daeb28c0a09746488c5d9e
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '8247'
+source-wordcount: '8257'
 ht-degree: 0%
 
 ---
@@ -1289,6 +1289,9 @@ ht-degree: 0%
             + [卸载Salesforce闪电自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Marketo {#marketo}
             + [授予Marketo用户访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+         + 人员 {#people}
+         + [人员详细信息视图](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
+         + [销售分析操作和GDPR合规性](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
          + 发送销售电子邮件 {#send-a-sales-email}
             + [电子邮件跟踪概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + 模板 {#templates}

@@ -4,9 +4,9 @@ title: Salesforce同步设置
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->必须连接Salesforce和Marketo Sales。
+>必须关联Salesforce和Sales Insight Actions。
 
-1. 在Marketo Sales中，单击齿轮图标，然后选择 **设置**.
+1. 在Sales Insight Actions中，单击齿轮图标，然后选择 **设置**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->必须连接Salesforce和Marketo Sales。
+>必须关联Salesforce和Sales Insight Actions。
 
 **通过电子邮件（密件抄送）在Salesforce中记录电子邮件**
 
@@ -93,9 +93,9 @@ ht-degree: 0%
 1. 选中“活动”旁边的复选框。
 1. 单击 **保存**.
 
-## 将Marketo销售任务/提醒同步到Salesforce任务 {#sync-marketo-sales-tasks-reminders-to-salesforce-tasks}
+## 将Sales Insight操作任务/提醒同步到Salesforce任务 {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. 在Marketo Sales中，单击齿轮图标，然后选择 **设置**.
+1. 在Sales Insight Actions中，单击齿轮图标，然后选择 **设置**.
 
    ![](assets/salesforce-sync-settings-10.png)
 
