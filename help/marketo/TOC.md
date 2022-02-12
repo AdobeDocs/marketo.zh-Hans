@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
 workflow-type: tm+mt
-source-wordcount: '8272'
+source-wordcount: '8282'
 ht-degree: 0%
 
 ---
@@ -1245,6 +1245,8 @@ ht-degree: 0%
                + [添加或更新您的电子邮件签名](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [添加标识](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + 管理员 {#admin}
+            + [操作数据同步常见问题解答](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
+            + [从Salesforce自动登录](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [将新管理员连接到Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
             + [内容锁定](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1252,6 +1254,7 @@ ht-degree: 0%
             + [如何设置自定义域跟踪](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [邀请用户和管理员](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [将销售活动属性记录到Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
+            + [登录管理设置](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [用户访问详细信息](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + 促销活动 {#campaigns}
