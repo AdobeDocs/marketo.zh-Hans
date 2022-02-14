@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 72e5c209939f30228d4ef9f6af798265e0446456
+source-git-commit: 88bbace33ed01a0c2632751b67b4a38a59222394
 workflow-type: tm+mt
-source-wordcount: '8273'
+source-wordcount: '8282'
 ht-degree: 0%
 
 ---
@@ -175,6 +175,7 @@ ht-degree: 0%
          + [概述](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [管理员设置](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [产品管理员设置](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
+         + [为启用了Adobe IMS的订阅添加仅API用户](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [添加或删除产品管理员](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [添加或删除用户](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + 设置 {#settings}
