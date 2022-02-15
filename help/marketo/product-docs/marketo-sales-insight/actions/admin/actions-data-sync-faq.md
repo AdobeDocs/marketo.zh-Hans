@@ -4,9 +4,9 @@ title: 操作数据同步常见问题解答
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1045'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Sales Insight Actions的Marketo Engage统一字段同步使系统能够将人员
 
 您可以通过查看存在的标准责任人字段，在Salesforce中，查看潜在客户/联系人是否具有销售责任人。
 
-销售所有者不必是Marketo同步用户或任何特定的Salesforce或销售用户。 只要标准所有者字段中列出了用户，我们就会将要同步的潜在客户/联系人包含到销售操作中，并将其包含在要对该潜在客户进行的同步字段的任何更新中。
+销售所有者不必是Marketo同步用户或任何特定的Salesforce或销售用户。 我们只需在Salesforce中列出的潜在客户所有者和联系人所有者字段中列出一个用户，这样我们就可以将其识别为销售潜在客户并将其同步到Sales Insight操作。 我们与同步的字段的任何更新也将在Sales Insight Actions中检测并更新。
 
 ## Sales Insight Smart Grid中显示的活动数据从哪里获得来源？ {#where-does-the-activity-data-get-sourced-from}
 
