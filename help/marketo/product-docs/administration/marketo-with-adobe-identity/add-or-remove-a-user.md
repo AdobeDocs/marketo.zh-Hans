@@ -4,9 +4,9 @@ title: 添加或删除用户
 hide: true
 hidefromtoc: true
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -43,15 +43,19 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-7.png)
 
+   >[!IMPORTANT]
+   >
+   >用户 **必须** 添加到产品配置文件，以访问Marketo Engage。
+
 1. 单击 **保存**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
-随后，用户将收到一封电子邮件以登录Marketo。
+随后，用户将收到一封用于登录到Marketo Engage的电子邮件。
 
 >[!NOTE]
 >
->通过Adobe Admin Console将用户添加到Marketo Engage后，会在订阅的默认工作区中向他们授予“标准用户”角色。 如果需要调整用户在工作区中的角色，则需在Marketo Engage中完成， [如下所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>通过Adobe Admin Console将用户添加到Marketo Engage后，会在订阅的默认工作区中向他们授予“标准用户”角色。 如果需要调整用户在工作区中的角色，则可在Marketo Engage中完成， [如下所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## 删除用户 {#remove-a-user}
 
@@ -79,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-14.png)
 
-随后，用户将收到一封电子邮件，通知他们不再具有产品管理员访问Marketo Engage的权限。
+随后，用户将收到一封电子邮件，通知他们不再具有Marketo Engage权限。
 
 >[!MORELIKETHIS]
 >

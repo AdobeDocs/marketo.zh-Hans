@@ -4,16 +4,22 @@ title: 概述
 hide: true
 hidefromtoc: true
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
 
 # 概述 {#overview}
 
-如果您的AdobeMarketo Engage订阅是在10/4/21或之后配置的，它将与AdobeIdentity Management系统集成。 此集成允许用户使用通用的Marketo Engage标识登录到Experience Cloud和其他Adobe应用程序。
+如果您自2022年2月15日起拥有AdobeMarketo Engage（新帐户，而不只是现有帐户的新实例）的新帐户，则它可能会与AdobeIdentity Management系统集成，具体取决于购买的产品包。 要确定是否具有该功能，请联系您的Marketo管理员或您帐户的客户成功经理。
+
+现有Marketo订阅将从今年晚些时候开始迁移到AdobeIdentity Management系统。
+
+>[!NOTE]
+>
+>Marketo支持将无法提供有关Adobe IMS迁移的任何更新。 您的客户成功经理将在未来几个月内提供预计的时间表。
 
 ## 配置文件级别
 
@@ -50,6 +56,10 @@ AdobeIdentity Management系统由三个组件组成。
 
 * Adobe用户管理API(UMAPI):允许组织在API级别管理Adobe Admin Console中的企业用户和权限。
 
+**现有Marketo Engage订阅何时将与IMS集成？**
+
+今年晚些时候，现有的Marketo订阅将迁移到AdobeIdentity Management系统。 Marketo支持将无法提供有关Adobe IMS迁移的任何更新。 您的客户成功经理将在未来几个月内提供预计的时间表。
+
 **Adobe产品管理员和Marketo Engage管理员之间有何区别？**
 
 * Adobe产品管理员是Marketo平台中的新角色。
@@ -58,11 +68,11 @@ AdobeIdentity Management系统由三个组件组成。
 * Adobe产品管理员具有与标准Marketo管理员相同的权限。
 * Marketo Engage管理员的角色仍为管理员，并会授予Marketo Engage中的用户。
 
-**API客户端支持有任何变化吗？**
+**用户管理API客户端支持是否有任何变化？**
 
-是的。 已载入Adobe IMS的用户无法利用所有现有的Marketo用户管理API。 对于用户邀请、更新和删除操作， [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html) 值。 对于角色管理，Marketo用户管理API仍然适用。
+是的。 已载入Adobe IMS的用户无法利用所有现有的Marketo用户管理API。 对于用户邀请、更新和删除操作，Adobe [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html) 值。 对于角色管理，Marketo用户管理API仍然适用。 除此之外，对Marketo REST API客户端支持没有其他更改。
 
-**我们联系谁以寻求支持？**
+**如果我们已与IMS集成，那么我们应该联系谁以获取支持？**
 
 您应按照标准程序联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support).
 
@@ -70,7 +80,7 @@ AdobeIdentity Management系统由三个组件组成。
 
 不。 用户角色管理（在工作区内）在Marketo Engage中完成。
 
-**我是Marketo管理员，无权访问Admin Console。 如何获取访问权限？**
+**我是IMS集成订阅的Marketo管理员，无权访问Admin Console。 如何获取访问权限？**
 
 任何有权访问贵组织Adobe的Admin Console的系统或产品管理员都可以为您提供访问权限。 如果您不确定您组织中的谁在控制台中具有管理员权限，请联系 [Adobe客户关怀](https://helpx.adobe.com/contact.html).
 
@@ -82,7 +92,7 @@ AdobeIdentity Management系统由三个组件组成。
 
 [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-**我是否仍然转到Marketo中的“管理员”部分进行帐户更改？**
+**我是否仍然转到Marketo的“管理员”部分，以更改我的帐户？**
 
 否，您需要导航到 [account.adobe.com](https://account.adobe.com).
 
@@ -98,7 +108,7 @@ AdobeIdentity Management系统由三个组件组成。
 
 Adobe IMS当前不支持任何类似Marketo设备授权功能的内容。
 
-**是否仍可以使用“在邀请用户对话框中登录”功能，使登录从我们的电子邮件中变得唯一？**
+**是否仍可以使用“在邀请用户对话框中登录”功能，使用户的登录在其电子邮件中具有唯一性？**
 
 不。 启用了IMS订阅后，“用户邀请”工作流不再处于活动状态，因此该功能不再有效。 Adobe身份要求用户的身份由其电子邮件驱动。
 
