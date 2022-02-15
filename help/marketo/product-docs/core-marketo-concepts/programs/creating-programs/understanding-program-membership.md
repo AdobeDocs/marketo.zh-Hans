@@ -3,7 +3,7 @@ unique-page-id: 1147091
 description: 了解计划会员资格 — Marketo文档 — 产品文档
 title: 了解计划会员资格
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
+source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
    1. 人员将自动具有进度中的第一个状态。
 
 1. 您使用 [更改程序状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 流步骤。
-1. 个人注册或参加 [网络研讨会与活动项目同步](/help/marketo/product-docs/demand-generation/events/events/event-partners.md).
+1. 个人注册或参加 [网络研讨会与活动项目同步](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
 1. 人是 [使用Marketo iPad签入应用程序创建](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. 将人员添加到SFDC营销活动，即 [同步到程序](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
