@@ -4,9 +4,9 @@ title: MSI操作管理指南
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -110,15 +110,17 @@ ht-degree: 0%
 
 ## 启动数据同步 {#initiate-data-sync}
 
+Sales Insight Actions的Marketo Engage统一字段同步使系统能够将人员信息从您的Sales Insight Actions数据库中提取到Sales Insight Actions数据库中，保持人员数据为最新，并确保活动记录到Marketo和Salesforce中的正确记录中。
+
 1. 在Marketo中，单击 **管理员**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. 单击“销售分析”。
+1. 单击 **销售分析**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. 单击操作配置选项卡。 在操作字段同步卡中，单击 **同步**.
+1. 单击 **操作配置** 选项卡。 在操作字段同步卡中，单击 **同步**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ ht-degree: 0%
    ![](assets/msi-actions-admin-guide-13.png)
 
 Marketo和Salesforce中存在的人员记录将同步到您的Marketo销售应用程序帐户。
+
+>[!NOTE]
+>
+>要进一步了解Sales Insight Actions、Marketo和Salesforce之间人员和活动数据如何同步， [单击此处](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## 邀请个人用户执行MSI操作 {#invite-individual-users-to-msi-actions}
 
