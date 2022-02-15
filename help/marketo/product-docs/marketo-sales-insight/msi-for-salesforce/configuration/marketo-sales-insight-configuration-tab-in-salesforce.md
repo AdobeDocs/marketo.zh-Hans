@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Marketo Salesforce中的“Sales Insight配置”选项卡 — Marketo文档 — 产品文档
 title: Marketo Sales Insight的“配置”选项卡
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ ht-degree: 0%
 选择这样做将擦除SFDC中的所有配置，并且无法恢复这些配置。 您必须重新配置所有内容。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
+>[!IMPORTANT]
+>
+>除非您使用销售分析操作功能，否则请勿选中“启用MSI操作”复选框。
 
 >[!MORELIKETHIS]
 >
