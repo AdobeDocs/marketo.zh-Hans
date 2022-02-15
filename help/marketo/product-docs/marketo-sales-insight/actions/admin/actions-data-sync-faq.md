@@ -4,9 +4,9 @@ title: 操作数据同步常见问题解答
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1044'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sales Insight Actions的Marketo Engage统一字段同步使系统能够将人员信息从您的Sales Insight Actions数据库提取到Sales Insight Actions数据库中。
 
-这可在Sales Insight Actions Web应用程序中提供最新的人员数据，并允许系统为Marketo中的相应人员记录和Salesforce中的潜在客户/联系人/帐户/机会记录收集唯一ID，以便记录可以被正确引用以用于记录数据。
+这可在Sales Insight Actions Web应用程序中提供最新的人员数据，并允许系统为Marketo中的相应人员记录和Salesforce中的潜在客户/联系人/帐户/机会记录收集唯一ID，以便可以为记录数据正确引用记录。
 
 此同步可从Marketo Engage“管理员”部分的Sales Insight操作配置选项卡中启用。 有关详细信息，请参阅 [启动数据同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync).
 
