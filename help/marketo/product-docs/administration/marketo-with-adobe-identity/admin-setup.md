@@ -1,10 +1,8 @@
 ---
 description: 管理员设置 — Marketo文档 — 产品文档
 title: 管理员设置
-hide: true
-hidefromtoc: true
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
+source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
