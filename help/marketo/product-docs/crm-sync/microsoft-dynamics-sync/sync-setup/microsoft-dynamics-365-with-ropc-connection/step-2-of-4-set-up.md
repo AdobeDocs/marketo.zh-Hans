@@ -1,14 +1,15 @@
 ---
-description: 第2步（共3步） — 使用资源所有者密码控制连接设置Marketo解决方案 — Marketo文档 — 产品文档
-title: 步骤2（共3步） — 使用资源所有者密码控制连接设置Marketo解决方案
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+description: 第2步（共4步） — 使用资源所有者密码控制连接设置Marketo解决方案 — Marketo文档 — 产品文档
+title: 步骤2（共4步） — 使用资源所有者密码控制连接设置Marketo解决方案
+exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
 
-# 步骤2（共3步）：使用资源所有者密码控制连接设置Marketo解决方案 {#step-2-of-3-set-up-the-marketo-solution-ropc}
+# 步骤2（共4步）：使用资源所有者密码控制连接设置Marketo解决方案 {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 让我们通过创建用户帐户开始。
 
@@ -45,6 +46,10 @@ ht-degree: 0%
 1. 此时将打开另一个新选项卡。 单击 **添加用户**.
 
    ![](assets/seven.png)
+
+   >[!IMPORTANT]
+   >
+   >同步用户应具有对Marketo配置的读取权限。
 
 1. 输入所有信息。 完成后，单击 **添加**.
 

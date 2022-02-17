@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: 安装Marketo for Microsoft Dynamics 2015本地步骤2（共3步） — Marketo文档 — 产品文档
 title: 安装Marketo for Microsoft Dynamics 2015本地步骤2（共3步）
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,13 @@ ht-degree: 0%
 
    ![](assets/assign4.png)
 
-   选中Marketo同步用户，然后单击确定。
+1. 检查Marketo同步用户并单击 **确定**.
 
    ![](assets/assign5.png)
+
+   >[!IMPORTANT]
+   >
+   >同步用户应具有对Marketo配置的读取权限。
 
    >[!TIP]
    >
@@ -85,6 +89,10 @@ ht-degree: 0%
 1. 单击 **发布所有自定义设置**.
 
    ![](assets/publish-all-customizations1.png)
+
+   >[!NOTE]
+   >
+   >同步用户应具有对Marketo配置的读取权限。
 
 ## 继续执行步骤3之前 {#before-proceeding-to-step}
 
