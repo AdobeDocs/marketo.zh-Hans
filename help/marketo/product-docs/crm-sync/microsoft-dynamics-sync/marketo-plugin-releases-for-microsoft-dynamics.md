@@ -1,53 +1,58 @@
 ---
 unique-page-id: 10099389
-description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs — 产品文档
-title: Marketo Plugin Releases for Microsoft Dynamics
+description: Marketo Dynamics插件版本 — Marketo文档 — 产品文档
+title: Marketo Dynamics的Microsoft插件版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 1379fcbdc0a8673b1d6cb17a9d573d3625d5a1b8
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 6%
+source-wordcount: '419'
+ht-degree: 7%
 
 ---
 
-# Marketo Plugin Releases for Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
+# Marketo Dynamics的Microsoft插件版本 {#marketo-plugin-releases-for-microsoft-dynamics}
 
-首次同步到Microsoft Dynamics时，请下载最新版的Marketo插件。 Marketo会定期更新这些插件，以便您返回同一位置下载新版本。
+首次同步到Microsoft Dynamics时，需下载最新版本的Marketo插件。 Marketo会定期更新这些插件，以便您可以返回到同一位置下载新版本。
 
-[下载与您的](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Dynamics版本对应的最新插件。
+[下载最新插件](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 对应于您的Dynamics版本。
 
-![](assets/lead-management-solution.png)
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## 更新Dynamics解决方案{#updating-your-dynamics-solution}
+## 更新Dynamics解决方案 {#updating-your-dynamics-solution}
 
-1. 在现有版本的Dynamics CRM上导入解决方案的最新版本(例如：如果您的Dynamics CRM有版本1.4，且最新版本为1.5，则可导入&#x200B;_over_&#x200B;版本1.4)。
+1. 与现有版本的Dynamics CRM相比，导入解决方案的最新版本(例如：如果您的Dynamics CRM的版本为1.4，而最新版本为1.5，则需要导入 _over_ 版本1.4)。
 
-1. 您将看到以下弹出窗口。 选择&#x200B;**更新**&#x200B;和&#x200B;**维护自定义**，然后单击&#x200B;**导入**。
+1. 您将看到以下弹出窗口。 选择 **更新** 和 **维护自定义**，然后单击 **导入**.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 
-## 最新版本{#latest-versions}
+## 最新版本 {#latest-versions}
 
 >[!NOTE]
 >
->这些版本适用于Dynamics的内部和在线版本。
+>这些版本适用于Dynamics的内部版本和在线版本。
 
 <table> 
  <tbody> 
   <tr> 
    <th colspan="1">版本</th> 
    <th colspan="1">发行日期</th> 
-   <th>附注</th> 
+   <th>注释</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.1</td> 
+   <td colspan="1">02/04/21</td> 
+   <td colspan="1">支持多选选项集字段同步（此功能仅适用于V9.X及更高版本）。.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
    <td colspan="1">10/16/20</td> 
-   <td colspan="1">增加了对与MS Dynamics活动同步的支持。</td> 
+   <td colspan="1">添加了对与MS Dynamics同步Campaign的支持。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
    <td colspan="1">8/22/18</td> 
-   <td colspan="1">增加了对开箱即用支持，可使Microsoft Dynamics 9.x版的联系流程成为可能。</td> 
+   <td colspan="1">为Microsoft Dynamics 9.x版添加了对符合条件的现成潜在客户的联系流程支持。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.23</td> 
@@ -62,7 +67,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">11/9/16</td> 
-   <td colspan="1">错误修复：该插件未订阅捕获自定义对象的状态更改的事件。 此修复特定于Dynamics CRM On Premise 2011。 </td> 
+   <td colspan="1">错误修复：插件未订阅捕获自定义对象状态更改的事件。 此修复专用于Dynamics CRM On Premise 2011。 </td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
@@ -72,27 +77,27 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>错误修复：在创建该机会时，会注意到在marketo日志中对customeropentityrole的不必要的更新事务。 </p><p>错误修复：删除customeroperityrole实体时记录了额外的删除事务。</p></td> 
+   <td colspan="1"><p>错误修复：在创建该机会时，注意到了有关marketo日志中customeroptityrole的不必要更新事务。 </p><p>错误修复：删除customerportityrole实体时，记录了额外的删除事务。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
    <td colspan="1">5/31/16</td> 
-   <td colspan="1">错误修复： 使自定义对象的更新和删除异步进行。</td> 
+   <td colspan="1">错误修复：将自定义对象的更新和删除设为异步。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.17</td> 
    <td colspan="1">4/8/16</td> 
-   <td colspan="1">错误修复：当潜在客户的同步过滤器设置为NO，而业务机会和联系人没有同步过滤器时，当潜在客户合格时，不会为联系人和业务机会生成创建日志。</td> 
+   <td colspan="1">错误修复：当潜在客户将同步筛选器设置为NO，并且商机和联系人没有同步筛选器时，在潜在客户获得资格时，未为联系人和商机生成创建日志。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.16</td> 
    <td colspan="1">3/29/16</td> 
-   <td>错误修复：关闭同步过滤器时，将记录“分配”事件。</td> 
+   <td>错误修复：同步过滤器关闭后，“分配事件”即被记录。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.15</td> 
    <td colspan="1">3/3/16</td> 
-   <td colspan="1">错误修复：客户无法在CRM中创建潜在客户，因为登录用户没有Marketo Config权限。</td> 
+   <td colspan="1">错误修复：由于登录用户没有Marketo配置权限，客户无法在CRM中创建潜在客户。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
@@ -107,11 +112,11 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">4.0.0.12</td> 
    <td colspan="1">11/12/15</td> 
-   <td colspan="1">错误修复：当同步过滤器设置为false时，潜在客户记录正在同步到Marketo。</td> 
+   <td colspan="1">错误修复：在同步筛选器设置为false时，潜在客户记录正在同步到Marketo。</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
-[下载Marketo Lead Management解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)>
 >
+>[下载Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
