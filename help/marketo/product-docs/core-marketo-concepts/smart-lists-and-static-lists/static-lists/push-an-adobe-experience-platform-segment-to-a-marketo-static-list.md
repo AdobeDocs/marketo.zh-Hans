@@ -2,9 +2,9 @@
 description: 将Adobe Experience Platform区段推送到Marketo静态列表 — Marketo文档 — 产品文档
 title: 将Adobe Experience Platform区段推送到Marketo静态列表
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
+>* [编辑API角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) 确保它有 **读写人员** 权限（位于访问API下拉列表下）。
 >* [创建API用户](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 在Marketo。
 >* 转到 **管理员** > **Launchpoint**. 查找您刚刚创建的角色的名称，然后单击 **查看详细信息**. 复制信息并将其保存在 **客户端ID** 和 **客户端密钥**，因为在步骤7中，您可能需要它。
 >* 在Marketo中，创建静态列表，或查找并选择一个已创建的列表。 你需要它的身份证。
@@ -36,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. 查找Marketo Engage拼贴并单击 **激活区段**.
+1. 查找Marketo Engage拼贴并单击 **激活**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -79,7 +80,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果在此处选择多个区段，则必须在区段计划选项卡中将每个区段映射到指定的静态列表。
+   >如果选择多个区段，则必须在区段计划选项卡中将每个区段映射到指定的静态列表。
+
+   >[!IMPORTANT]
+   >
+   >首次将区段激活到Marketo目标后，可能需要在Marketo目标激活之前回填区段中已存在的用户档案 **长达24小时**. 今后，每当将用户档案添加到区段时，他们都会立即添加到Marketo。
 
 1. 单击 **添加新映射**.
 
