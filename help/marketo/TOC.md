@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '8281'
+source-wordcount: '8285'
 ht-degree: 0%
 
 ---
@@ -481,6 +481,7 @@ ht-degree: 0%
             + [下载Marketo潜在客户管理解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
             + [授予客户ID和应用程序注册的同意](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [更新适用于Microsoft Dynamics的Marketo解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [重新配置Dynamics身份验证方法](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
             + [验证Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [查看组织服务URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2016/Dynamics 365内部部署版  {#microsoft-dynamics-2016-dynamics-365-on-premises}

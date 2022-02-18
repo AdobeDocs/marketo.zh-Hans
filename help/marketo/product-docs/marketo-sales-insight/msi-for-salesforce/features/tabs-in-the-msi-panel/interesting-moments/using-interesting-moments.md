@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 使用有趣的时刻 — Marketo文档 — 产品文档
 title: 使用有趣的时刻
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -85,5 +85,9 @@ ht-degree: 0%
 1. 选择要向（您自己/团队成员）发送警报的电子邮件地址
 
 1. 单击 **订阅**.
+
+>[!NOTE]
+>
+>在订阅“感兴趣的时刻类型”或“描述”时，用户将收到针对其触发与“该类型”或“描述”匹配的“感兴趣的时刻”时拥有的人员（潜在客户/联系人）的电子邮件通知。
 
 ![](assets/using-interesting-moments-8.png)
