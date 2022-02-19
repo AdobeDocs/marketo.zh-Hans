@@ -1,20 +1,20 @@
 ---
 unique-page-id: 3571827
-description: 步骤2（共3步） — 使用S2S连接设置Marketo解决方案 — Marketo文档 — 产品文档
-title: 步骤2（共3步） — 使用S2S连接设置Marketo解决方案
+description: 步骤2（共3步） — 使用服务器到服务器连接设置Marketo解决方案 — Marketo文档 — 产品文档
+title: 步骤2（共3步） — 使用服务器到服务器连接设置Marketo解决方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 步骤2（共3步）：在Dynamics中设置Marketo同步用户与S2S连接{#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
+# 步骤2（共3步）：通过服务器到服务器连接设置Marketo解决方案 {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
->[步骤1（共3步）：安装具有S2S连接的Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>[步骤1（共3步）：通过服务器到服务器连接安装Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
 ## 在Azure AD中创建客户端应用程序 {#create-client-application-in-azure-ad}
 
@@ -44,7 +44,13 @@ ht-degree: 0%
 
 ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
-1. 按照以下链接中的步骤操作 [在Microsoft中设置应用程序用户](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation). 在为应用程序用户授予权限时，将其分配给“Marketo同步用户角色”。
+## 在Microsoft中创建应用程序用户 {#create-application-user-in-microsoft}
+
+1. 按照以下链接中的步骤操作 [在Microsoft中设置应用程序用户](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation).
+
+   >[!IMPORTANT]
+   >
+   >在为应用程序用户授予权限时，请确保将其分配给“Marketo同步用户角色”。
 
 ## Azure AD Federated与AD FS本地 {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -52,37 +58,13 @@ Azure AD到ADFS Onprem的联合需要为特定应用程序创建家庭领域发�
 
 其他参考 [可在此处找到](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20anso%20include%20federated，are%20federated%20to%20Azure%20AD。).
 
-## 分配同步用户角色 {#assign-sync-user-role}
-
-1. 仅将Marketo同步用户角色分配给Marketo同步用户。
-
->[!NOTE]
->
->这适用于Marketo版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级您的Marketo解决方案， [请参阅本文](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
-
-1. 返回到“应用程序用户”选项卡，然后刷新用户列表。
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-5.png)
-
-1. 将鼠标悬停在新创建的应用程序用户旁边，将显示一个复选框。 单击以选择它。
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-6.png)
-
-1. 单击 **管理角色**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-7.png)
-
-1. 检查 **Marketo同步用户** 单击 **确定**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-8.png)
-
 ## 配置Marketo解决方案 {#configure-marketo-solution}
 
 快到了！ 我们只剩下一步，就是向Marketo解决方案告知所创建的新用户。
 
 >[!IMPORTANT]
 >
->如果您从基本身份验证升级到OAuth，则需要联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support) 以获取有关更新其他参数的帮助。 启用此功能将暂时停止同步，直到输入新凭据并重新启用同步为止。 如果您要恢复到旧的身份验证模式，则可以禁用该功能（直到2022年4月）。
+>如果您从基本身份验证升级到OAuth，则需要联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support) 以获取有关更新其他参数的帮助。 对默认同步用户执行配置更改将暂时停止同步，直到输入新凭据并重新启用同步为止。 如果您想要恢复到旧的身份验证方法，Marketo支持团队可以根据您的请求禁用该功能（直到2022年4月）。
 
 1. 返回至高级设置部分，然后单击 ![](assets/image2015-5-13-15-3a49-3a19.png) 图标，然后选择 **Marketo配置**.
 
@@ -124,4 +106,6 @@ Azure AD到ADFS Onprem的联合需要为特定应用程序创建家庭领域发�
 
 >[!MORELIKETHIS]
 >
->[步骤3（共3步）：将Marketo解决方案与S2S连接连接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [步骤3（共3步）：将Marketo解决方案与服务器连接连接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [重新配置Dynamics身份验证方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
+

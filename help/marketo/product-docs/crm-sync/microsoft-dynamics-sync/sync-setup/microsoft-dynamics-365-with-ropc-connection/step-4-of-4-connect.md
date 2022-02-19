@@ -2,7 +2,7 @@
 description: 第4步（共4步） — 将Marketo解决方案与资源所有者密码控制连接连接 — Marketo文档 — 产品文档
 title: 步骤4（共4步） — 将Marketo解决方案与资源所有者密码控制连接连接
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >在输入新凭据之前，您可以 [在此处验证](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
-1. 输入 **用户名**, **密码**, **客户端ID**, **客户端密钥**&#x200B;和Microsoft Dynamics **URL**. 单击 **保存** 完成时。
+1. 输入 **用户名**, **密码**, Microsoft Dynamics **URL**, **客户端ID**&#x200B;和 **客户端密钥**. 单击 **保存** 完成时。
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -111,3 +111,7 @@ ht-degree: 0%
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 
 干得好！
+
+>[!MORELIKETHIS]
+>
+>[重新配置Dynamics身份验证方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
