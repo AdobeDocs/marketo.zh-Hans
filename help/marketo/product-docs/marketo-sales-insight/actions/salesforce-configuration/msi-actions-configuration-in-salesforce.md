@@ -4,9 +4,9 @@ title: Salesforce中的MSI操作配置
 hide: true
 hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: daff9a98605b8a5c89c538f711fecb5b7a382f84
+source-git-commit: 84e3c4d525c5bde9e3ebd17d2f29ad42578777ff
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,32 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->安装/升级到 [MSI操作包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) 在您的Salesforce实例中。
+>* [安装]() 或 [升级]() Salesforce实例中的Sales Insight包安装/升级到 [MSI操作包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) 在您的Salesforce实例中。
+>* [在Salesforce企业/无限制中配置Marketo Sales Insight]()
+
+
+## 在Salesforce中添加新的远程站点 {#add-new-remote-site-in-salesforce}
+
+1. 在Salesforce中，单击 **设置**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+
+1. 搜索“远程站点”并选择 **远程站点设置**.
+   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+
+1. 单击 **新建远程站点**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+
+1. 输入远程站点名称（可以是类似于“MarketoSalesInsight”的内容）。 输入远程站点URL(https://ims-na1-stg1.adobelogin.com)，然后单击 **保存**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
 ## 在CRM中启用MSI操作 {#enabling-msi-actions-across-the-crm}
 
 1. 在Salesforce中，单击 **Marketo Sales Insight配置** 选项卡。
 
-   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+   ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
@@ -29,11 +48,11 @@ ht-degree: 0%
 
 1. 选择 **启用MSI操作** 复选框。
 
-   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+   ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
 1. 输入API密钥。
 
-   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+   ![](assets/msi-actions-configuration-in-salesforce-7.png)
 
    >[!NOTE]
    >
@@ -51,11 +70,11 @@ ht-degree: 0%
 
 1. 您可以禁用“销售促销活动”和/或即将发布的部分中的任务选项卡。 这将适用于潜在客户、联系人、帐户和机会面板。
 
-   ![](assets/msi-actions-configuration-in-salesforce-4.png)
+   ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
 1. 您可以通过取消选中“操作”设置下的相应功能来禁用MSI操作。
 
-   ![](assets/msi-actions-configuration-in-salesforce-5.png)
+   ![](assets/msi-actions-configuration-in-salesforce-9.png)
 
 >[!NOTE]
 >
