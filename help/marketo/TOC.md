@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
+source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
 workflow-type: tm+mt
-source-wordcount: '8285'
+source-wordcount: '8293'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,7 @@ ht-degree: 0%
             + [在智能营销活动中编辑资格规则](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [移动智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [在智能营销活动中覆盖人员限制](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+            + [触发器促销活动的优先级覆盖](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/priority-override-for-trigger-campaigns.md)
             + [重命名智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
             + [立即运行批量智能营销活动 |计划选项卡](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [计划批量智能营销活动以在以后运行](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
@@ -377,6 +378,7 @@ ht-degree: 0%
             + [编辑Analytics行为设置](product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)
             + [导入程序](product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)
             + [将成员从电子表格导入程序](product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)
+            + [本地资产过期](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [管理和查看成员](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [程序成员自定义字段](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [将SFDC营销活动与项目同步](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
