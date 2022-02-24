@@ -2,9 +2,9 @@
 description: 重新配置Dynamics身份验证方法 — Marketo文档 — 产品文档
 title: 重新配置Dynamics身份验证方法
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: d86a8699838158631f210ea2f7acdfb88061b649
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,10 @@ ht-degree: 0%
 
 1. 单击 **确认** 再次。
 
+   ![](assets/reconfigure-dynamics-authentication-method-8.png)
+
 1. 单击 **确定**.
 
    >[!IMPORTANT]
    >
-   >请记住重新启用同步！
+   >系统需要15分钟才能接受新的身份验证模式。 请等待15分钟（从交换机开始），然后重新启用同步。

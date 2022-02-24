@@ -3,7 +3,7 @@ description: 触发器促销活动的优先级覆盖 — Marketo文档 — 产�
 title: 触发器促销活动的优先级覆盖
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 授予优先级覆盖访问权限 {#grant-priority-override-access}
 
->[!CAUTION]
+>[!NOTE]
 >
 >只有具有管理员职责的管理员或用户才应具有营销活动优先级覆盖访问权限。
 
