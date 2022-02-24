@@ -3,9 +3,9 @@ description: 本地资产过期 — Marketo文档 — 产品文档
 title: 本地资产过期
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 1. 在 [!UICONTROL 管理员] 区域，单击 **[!UICONTROL 用户和角色]**.
 
-   ![](assets/local-asset-expiration-2.png)
+   ![](assets/local-asset-expiration-1.png)
 
 1. 单击 **[!UICONTROL 角色]** ，选择要授予访问权限的用户，然后单击 **[!UICONTROL 编辑角色]**.
 
-   ![](assets/local-asset-expiration-3.png)
+   ![](assets/local-asset-expiration-2.png)
 
 1. 在 [!UICONTROL 访问营销活动]，选择 **[!UICONTROL 计划资产到期]**. 单击 **[!UICONTROL 保存]**.
 
-   ![](assets/local-asset-expiration-.png)
+PICC
 
 ## 设置过期日期 {#set-an-expiration-date}
 
