@@ -1,29 +1,34 @@
 ---
 unique-page-id: 17728184
-description: 为Marketo Sky启用角色- Marketo Docs —— 产品文档
+description: 为Marketo Sky启用角色 — Marketo文档 — 产品文档
 title: 为Marketo Sky启用角色
-translation-type: tm+mt
-source-git-commit: b155f630dfba14a7e1fc2606ca998709f9f29392
+hide: true
+hidefromtoc: true
+exl-id: 0a518449-8acf-4917-8153-c7ef5fee5590
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
+# 为Marketo Sky启用角色 {#enabling-roles-for-marketo-sky}
 
-# 为Marketo Sky{#enabling-roles-for-marketo-sky}启用角色
+要利用Marketo Sky，必须为所需用户启用角色。
 
-要利用Marketo Sky，必须启用所需用户的角色。
+>[!IMPORTANT]
+>
+>Marketo Sky将于2022年3月被弃用。 [单击此处](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) 以了解更多。
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 在Marketo Classic中，单击&#x200B;**管理**。
+1. 在Marketo Classic中，单击 **管理员**.
 
    ![](assets/enabling-roles-for-marketo-sky-1.png)
 
-1. 在树中，选择&#x200B;**Marketo Sky**。
+1. 在树中，选择 **Marketo Sky**.
 
    ![](assets/enabling-roles-for-marketo-sky-2.png)
 
@@ -31,4 +36,4 @@ ht-degree: 0%
 
    ![](assets/enabling-roles-for-marketo-sky-3.png)
 
-现在，选定的角色可以使用Marketo Sky。
+现在，所选角色可以使用Marketo Sky。

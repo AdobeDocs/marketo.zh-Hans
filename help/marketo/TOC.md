@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '8293'
+source-wordcount: '8320'
 ht-degree: 0%
 
 ---
@@ -1401,6 +1401,13 @@ ht-degree: 0%
       + [针对非本机Salesforce集成的销售分析](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [为Marketo Sky启用角色](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
+      + [预期行为](product-docs/marketo-sky/expected-behavior.md)
+      + [开始使用Predictive Audiences](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
+      + [模型健康与数据有效性](product-docs/marketo-sky/model-health-and-data-validity.md)
+      + [预测过滤器](product-docs/marketo-sky/predictive-filters.md)
+      + [设置事件上限](product-docs/marketo-sky/setting-an-event-cap.md)
+      + [设置事件目标](product-docs/marketo-sky/setting-event-goals.md)
+      + [了解目标跟踪和预计注册](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + 移动营销 {#mobile-marketing}
       + 管理员 {#admin}
          + [添加移动设备应用程序](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
