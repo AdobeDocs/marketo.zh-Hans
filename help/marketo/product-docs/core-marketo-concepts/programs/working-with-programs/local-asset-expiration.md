@@ -3,9 +3,9 @@ description: 本地资产过期 — Marketo文档 — 产品文档
 title: 本地资产过期
 hide: true
 hidefromtoc: true
-source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,9 @@ ht-degree: 0%
 
    ![](assets/local-asset-expiration-2.png)
 
-1. 在 [!UICONTROL 访问营销活动]，选择 **[!UICONTROL 计划资产到期]**. 单击 **[!UICONTROL 保存]**.
+1. 在 [!UICONTROL 访问营销活动]，选择 **[!UICONTROL 计划本地资产到期]** 单击 **[!UICONTROL 保存]**.
 
-PICC
+   ![](assets/local-asset-expiration-3.png)
 
 ## 设置过期日期 {#set-an-expiration-date}
 
@@ -56,6 +56,7 @@ PICC
 >
 >* 要编辑现有的过期日期，只需检查资产并单击 **[!UICONTROL 设置过期]**.
 >* 资产过期后，将不再显示在“过期”网格中。 网格将仅显示已发布的登陆页面、活动触发器促销活动和定期的批量促销活动。
+>* 如果资产被移动到其他程序，则会删除计划的过期日期。
 
 
 ## 删除过期日期 {#remove-an-expiration-date}
