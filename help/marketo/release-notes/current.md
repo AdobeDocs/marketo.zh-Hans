@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,12 @@ ht-degree: 0%
 ![（星号）](assets/yellow-star.png)
 
 * **BI模板**:Bizible现在将为表格和Power BI提供可下载的基本报表工件和示例报表，以便能够快速开发根据您的特定业务需求定制的自定义报表。
+
+## Sales Connect {#sales-connect}
+
+![（星号）](assets/yellow-star.png)
+
+* **电子邮件连接限制(GA)**:Email Connection Throttling允许Sales Connect管理员在使用Gmail或Exchange作为您的投放渠道时配置电子邮件的发送率，以便将电子邮件传递给投放渠道提供商的速率不会超出强制限制。
 
 ## 公告 {#announcements}
 
