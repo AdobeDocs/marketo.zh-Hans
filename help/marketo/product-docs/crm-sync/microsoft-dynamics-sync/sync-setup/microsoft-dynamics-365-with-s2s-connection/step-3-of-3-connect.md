@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571830
-description: 第3步（共3步） — 将Marketo解决方案与S2S连接连接 — Marketo文档 — 产品文档
-title: 步骤3（共3步） — 将Marketo解决方案与S2S连接连接
+description: 第3步（共3步） — 将Marketo解决方案与服务器连接 — Marketo文档 — 产品文档
+title: 第3步（共3步） — 将Marketo解决方案与服务器连接连接
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
 
-# 步骤3（共3步）：将Marketo解决方案与S2S连接连接 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# 步骤3（共3步）：将Marketo解决方案与服务器连接连接 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 这是同步的最后一步。 我们快到了！
 
 >[!PREREQUISITES]
 >
->* [步骤1（共3步）：安装具有S2S连接的Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [步骤2（共3步）：使用S2S连接设置Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [步骤1（共3步）：通过服务器到服务器连接安装Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [步骤2（共3步）：使用服务器到服务器连接设置Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -60,7 +60,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo中的用户名必须与CRM中同步用户的用户名匹配。 格式可以是 `user@domain.com` 或域\用户。
+   >Marketo中的用户名必须与 [电子邮件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM中应用程序用户的。 格式可以是 `user@domain.com` 或域\用户。
 
 ## 选择要同步的字段 {#select-fields-to-sync}
 

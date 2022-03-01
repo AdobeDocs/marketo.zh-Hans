@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: 修复了Dynamics验证同步问题 — Marketo文档 — 产品文档
 title: 修复了Dynamics验证同步问题
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 用户名和密码有效 {#username-and-password-are-valid}
 
-如果您有 ![x](assets/delete.png) 在此，验证您的Microsoft Dynamics用户名和密码是否有效。
+如果您有 ![x](assets/delete.png) 在此，验证您的Microsoft Dynamics凭据是否有效。 对于Web API S2S身份验证，Marketo中的用户名必须与 [电子邮件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM中应用程序用户的。 对于其他类型，它应与同步用户的用户名匹配。
 
 ## 同步用户被分配给Marketo同步用户角色 {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
