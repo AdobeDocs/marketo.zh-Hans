@@ -2,7 +2,7 @@
 description: 概述 — Marketo文档 — 产品文档
 title: 概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Marketo支持将无法提供有关Adobe IMS迁移的任何更新。 您的客户成功经理将在未来几个月内提供预计的时间表。
 
-## 配置文件级别
+## 配置文件级别 {#profile-levels}
 
 载入AdobeIdentity Management系统的AdobeMarketo Engage订阅支持各种配置文件。 以下是与此集成相关的用户配置文件类型。
 
@@ -42,7 +42,7 @@ ht-degree: 0%
  </tr>
 </table>
 
-## 常见问题解答
+## 常见问题解答 {#faq}
 
 **什么是Adobe标识？**
 
@@ -90,7 +90,7 @@ AdobeIdentity Management系统由三个组件组成。
 
 [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-**我是否仍然转到Marketo的“管理员”部分，以更改我的帐户？**
+**我是否仍然转到Marketo的“管理员”部分，为我的帐户更改用户帐户？**
 
 否，您需要导航到 [account.adobe.com](https://account.adobe.com).
 
