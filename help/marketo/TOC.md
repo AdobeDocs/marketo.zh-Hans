@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
+source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
 workflow-type: tm+mt
 source-wordcount: '8334'
 ht-degree: 0%
@@ -171,7 +171,7 @@ ht-degree: 0%
          + [导入自定义对象数据](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [触发自定义对象更改](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
          + [自定义对象元数据导出](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
-      + Marketo with Adobe Identity {#marketo-with-adobe-identity}
+      + 具有Adobe标识的Marketo {#marketo-with-adobe-identity}
          + [概述](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [管理员设置](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [产品管理员设置](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
@@ -179,16 +179,16 @@ ht-degree: 0%
          + [添加或删除产品管理员](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [添加或删除用户](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + 设置 {#settings}
-         + [Change Attribution Settings for Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
+         + [更改Analytics的归因设置](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [更改Marketo密码](product-docs/administration/settings/change-your-marketo-password.md)
-         + [Change your Password Security Settings](product-docs/administration/settings/change-your-password-security-settings.md)
-         + [Creating a Custom Tab for the Person Detail Page](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [Customize Your Landing Page URLs With a CNAME (Administration)](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md)
+         + [更改密码安全设置](product-docs/administration/settings/change-your-password-security-settings.md)
+         + [为“人员详细信息”页面创建自定义选项卡](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+         + [使用CNAME（管理）自定义登陆页面URL](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md)
          + [编辑帐户设置](product-docs/administration/settings/edit-account-settings.md)
          + [编辑“不跟踪”浏览器支持设置](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
-         + [Edit Landing Page Settings](product-docs/administration/settings/edit-landing-page-settings.md)
-         + [Edit Link Expiration in Reports and Alerts](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
-         + [Edit Subscription Settings](product-docs/administration/settings/edit-subscription-settings.md)
+         + [编辑登陆页面设置](product-docs/administration/settings/edit-landing-page-settings.md)
+         + [在报表和警报中编辑链接到期](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+         + [编辑订阅设置](product-docs/administration/settings/edit-subscription-settings.md)
          + [启用或禁用金库功能](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [为您的帐户启用个性化URL（管理）](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [全局表单验证规则](product-docs/administration/settings/global-form-validation-rules.md)
@@ -609,10 +609,10 @@ ht-degree: 0%
             + [使用缩放创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + 使用Marketo ON24适配器创建事件 {#create-an-event-with-the-marketo-on24-adapter}
                + [使用Marketo ON24适配器创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
-               + [Configure Event Settings and Sync Marketo with Your Webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
-               + [Create an Event in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
+               + [配置事件设置并将Marketo与网络研讨会同步](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
+               + [在Marketo中创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
                + [创建子营销活动和本地资产](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
-               + [Create Your Webinar Event in ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+               + [在ON24中创建网络研讨会活动](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
                + [在Marketo中输入您的ON24凭据](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
                + [ON24事件集成示例](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
                + [ON24事件注册更新](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
@@ -846,7 +846,7 @@ ht-degree: 0%
       + 社交 {#social}
          + 配置社交操作 {#configuring-social-actions}
             + [配置共享后提示](product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)
-            + [Configure Person Capture for a Social App](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
+            + [为社交应用程序配置人员捕获](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
             + [配置重新共享电子邮件并提示社交应用程序](product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md)
             + [配置社交推荐流量](product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md)
             + [配置社交注册/共享流程](product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)
@@ -1260,7 +1260,7 @@ ht-degree: 0%
             + [登录管理设置](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [用户访问详细信息](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Campaigns {#campaigns}
+         + 促销活动 {#campaigns}
             + [营销活动已结束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce集成 {#salesforce-integration}
@@ -1271,14 +1271,14 @@ ht-degree: 0%
             + 命令中心 {#command-center}
                + [高级搜索概述](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [将任务分配给团队成员](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
-               + [Command Center Overview](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [命令中心概述](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [电子邮件列和电子邮件页面布局](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [命令中心中的快速操作](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
             + 电子邮件投放 {#email-delivery}
                + [投放渠道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
-               + [Email Connection Throttling](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [电子邮件连接限制](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [为您的团队设置自定义投放渠道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Unsubscribes {#unsubscribes}
+            + 取消订阅 {#unsubscribes}
                + [取消订阅概述](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [自定义取消订阅链接消息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo取消订阅检查](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
@@ -1295,10 +1295,10 @@ ht-degree: 0%
          + 人员 {#people}
             + [人员详细信息视图](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [销售分析操作和GDPR合规性](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-               + 管理联系人 {#managing-contacts}
-                  + [对人员执行批量操作](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-                  + [创建和删除联系人](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-                  + [通过CSV导入联系人](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+            + 管理联系人 {#managing-contacts}
+               + [对人员执行批量操作](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
+               + [创建和删除联系人](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+               + [通过CSV导入联系人](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
          + Salesforce配置 {#salesforce-configuration}
             + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [卸载Salesforce Classic自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1501,9 +1501,9 @@ ht-degree: 0%
          + [启用内容推荐栏](product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
       + 使用预测内容 {#working-with-predictive-content}
          + [了解预测内容](product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)
-         + [Edit Predictive Content for Emails](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+         + [编辑电子邮件的预测内容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [编辑富媒体的预测内容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
-         + [Edit Predictive Content for the Recommendation Bar](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+         + [编辑推荐栏的预测内容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
    + 报表 {#reporting}
       + 基本报表 {#basic-reporting}
          + 创建报告 {#creating-reports}
