@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce企业/无限制 — Marketo文档 — 产品文档中配置Marketo销售分析
 title: 在Salesforce企业/无限制中配置Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在SalesforceAppExchange中安装Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
+>[在SalesforceAppExchange中安装Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -119,34 +118,52 @@ ht-degree: 0%
    >
    >我们建议Accounts和Opportunitys对象的高度为410像素。
 
-1. 单击 **字段** 左边。 然后，搜索并拖动 **参与度** 标签 **Marketo Sales Insight** 布局。
+1. 单击 **字段** 左边。 然后，搜索并拖动 **紧急** 标签 **Marketo Sales Insight** 布局。
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. 对这些字段重复上述步骤。
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">参与度</td> 
+      <td>最后一个有趣的时刻</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>相对分数值</p></td> 
+      <td>最后有趣的时刻日期</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>紧急价值</p></td> 
+      <td>最后一个有趣的时刻</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最后有趣的时刻日期</p></td> 
+      <td>最后有趣的时刻来源</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最后一个有趣的时刻</p></td> 
+      <td>最后有趣的时刻类型</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最后有趣的时刻来源</p></td> 
+      <td>上次Marketo活动（按销售）</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最后有趣的时刻类型</p></td> 
+      <td>上次按销售额划分的Marketo参与度</td> 
+     </tr> 
+     <tr> 
+      <td>MSI联系人Id</td> 
+     </tr> 
+     <tr> 
+      <td>相对分数</td> 
+     </tr> 
+     <tr> 
+      <td>相对分数值</td> 
+     </tr> 
+     <tr> 
+      <td>紧急</td> 
+     </tr> 
+     <tr> 
+      <td>紧急价值</td> 
+     </tr> 
+     <tr> 
+      <td>在Marketo中查看</td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +172,53 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. 重复此过程，为 **联系人**, **帐户** 和 **机会**.
+1. 重复步骤5-7，为 **联系人**, **帐户** 和 **机会**.
 
-1. 重复步骤5-7，为联系人、帐户和机会添加Visualforce页面部分。 然后，重复步骤8-10，为 **联系人**. 请确保在进行任何更改后进行保存。
+1. 重复步骤8-10，以从下面的列表中为 **联系人**. 确保保存任何更改。
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>最后一个有趣的时刻</td> 
+     </tr> 
+     <tr> 
+      <td>最后有趣的时刻日期</td> 
+     </tr> 
+     <tr> 
+      <td>最后一个有趣的时刻</td> 
+     </tr> 
+     <tr> 
+      <td>最后有趣的时刻来源</td> 
+     </tr> 
+     <tr> 
+      <td>最后有趣的时刻类型</td> 
+     </tr> 
+     <tr> 
+      <td>上次Marketo活动（按销售）</td> 
+     </tr> 
+     <tr> 
+      <td>上次按销售额划分的Marketo参与度</td> 
+     </tr> 
+     <tr> 
+      <td>MKTO潜在客户得分</td> 
+     </tr> 
+     <tr> 
+      <td>相对分数</td> 
+     </tr> 
+     <tr> 
+      <td>相对分数值</td> 
+     </tr> 
+     <tr> 
+      <td>销售分析 — 打开联系人完整列表页面</td> 
+     </tr> 
+     <tr> 
+      <td>紧急</td> 
+     </tr> 
+     <tr> 
+      <td>紧急价值</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## 映射自定义人员字段 {#map-custom-person-fields}
 
