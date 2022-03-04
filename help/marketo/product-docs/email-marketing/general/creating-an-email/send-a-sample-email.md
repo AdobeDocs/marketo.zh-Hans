@@ -1,82 +1,81 @@
 ---
 unique-page-id: 1147352
-description: 发送示例电子邮件- Marketo Docs —— 产品文档
+description: 发送示例电子邮件 — Marketo文档 — 产品文档
 title: 发送示例电子邮件
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
+source-git-commit: 1586b71ec9f9c4f8abc4fd9a3277d5a5f5b88080
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
+# 发送示例电子邮件 {#send-a-sample-email}
 
-# 发送示例电子邮件{#send-a-sample-email}
-
-发送电子邮件样本快速而简单。 要发送动态内容电子邮件，请参阅[用动态内容预览电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)。
+发送电子邮件的样本既快捷又简单。 要发送动态内容电子邮件，请参阅 [预览包含动态内容的电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
->您必须具有&#x200B;**访问数据库——运行单个流操作**&#x200B;权限才能发送示例电子邮件。
+>您必须拥有 **访问数据库 — 运行单个流操作** 发送示例电子邮件的权限。
 
-## 发送示例电子邮件{#send-a-sample-email-1}
+## 发送示例电子邮件 {#send-a-sample-email-1}
 
-1. 查找并选择您的电子邮件。 单击&#x200B;**电子邮件操作**&#x200B;下拉框并选择&#x200B;**发送示例**。\
+1. 查找并选择您的电子邮件。 单击 **电子邮件操作** 下拉框并选择 **发送示例**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
-   >我的令牌解析为适合电子邮件项目的值。
+   >我的令牌可解析为适用于电子邮件程序的值。
 
-1. 输入投放的电子邮件地址，然后单击&#x200B;**发送**。
+1. 输入一个或多个要投放的电子邮件地址。 对于多个电子邮件地址，请使用逗号分隔它们。 单击 **发送** 完成时。
 
    ![](assets/two.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >要输入多个电子邮件地址，请使用逗号分隔这些地址。
+   >如果输入多个电子邮件地址，则每个收件人都可以看到这些地址。 输入的第一个收件人将是主收件人，每个后续电子邮件地址都将是抄送收件人。
 
    >[!TIP]
    >
-   >如果要将令牌解析为特定人员，请在步骤2的&#x200B;**person下拉框**&#x200B;中选择此人员。
+   >如果要将令牌解析为特定人员，请在 **“人员”下拉列表** 中，选择要删除的数据。
 
-## 在编辑{#send-a-sample-email-while-editing}时发送示例电子邮件
+## 编辑时发送示例电子邮件 {#send-a-sample-email-while-editing}
 
-1. 找到您的电子邮件，选择它并单击&#x200B;**编辑草稿**&#x200B;选项卡。
+1. 查找您的电子邮件，选择它并单击 **编辑草稿** 选项卡。
 
    ![](assets/three-281-29.jpg)
 
-1. 单击&#x200B;**电子邮件操作**，选择&#x200B;**发送示例**。
+1. 单击 **电子邮件操作**，选择 **发送示例**.
 
    ![](assets/four.png)
 
-1. 输入投放的电子邮件地址，然后单击&#x200B;**发送**。
+1. 输入要投放的电子邮件地址，然后单击 **发送**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >触发字段仅适用于使用[电子邮件脚本](https://developers.marketo.com/documentation/velocity-script/)的用户。
+   >触发器字段仅适用于那些利用 [电子邮件脚本](https://developers.marketo.com/documentation/velocity-script/).
 
-## 根据区段{#send-a-sample-email-based-on-a-segment}发送示例电子邮件
+## 发送基于区段的示例电子邮件 {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[将分段应用于电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)。
+>[将分段应用于电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. 找到您的电子邮件，选择它并单击&#x200B;**编辑草稿**&#x200B;选项卡。
+1. 查找您的电子邮件，选择它并单击 **编辑草稿** 选项卡。
 
    ![](assets/three-281-29.jpg)
 
-1. 单击&#x200B;**预览**。
+1. 单击 **预览**.
 
    ![](assets/1.png)
 
-1. 单击&#x200B;**视图By**&#x200B;下拉框并选择&#x200B;**分段**。
+1. 单击 **查看方式** 下拉框并选择 **分段**.
 
    ![](assets/2.png)
 
-1. 此时会显示包含可用区段的下拉框。 单击它并选择所需的。
+1. 此时会显示一个下拉列表，其中包含可用的区段。 单击该页面并选择所需的页面。
 
    ![](assets/3.png)
 
@@ -84,12 +83,12 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. 单击&#x200B;**发送示例**&#x200B;以接收您所在区段的测试电子邮件。
+1. 单击 **发送示例** 接收您的区段的实际测试电子邮件。
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >您还可以在电子邮件的编辑模式下根据区段发送示例电子邮件。 单击&#x200B;**电子邮件操作**&#x200B;下拉框，选择&#x200B;**发送示例**，然后选择您的区段。
+   >您还可以在电子邮件的编辑模式下根据区段发送示例电子邮件。 单击 **电子邮件操作** 下拉列表，选择 **发送示例**，然后选择您的区段。
 
-在启动活动前对内容进行采样非常重要。 测量两次，剪一次！
+在启动营销活动之前对内容进行采样非常重要。 量两度，剪一次！
