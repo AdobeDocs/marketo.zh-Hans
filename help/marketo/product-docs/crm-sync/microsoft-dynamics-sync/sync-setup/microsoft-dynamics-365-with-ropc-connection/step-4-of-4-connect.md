@@ -2,9 +2,9 @@
 description: 第4步（共4步） — 将Marketo解决方案与资源所有者密码控制连接连接 — Marketo文档 — 产品文档
 title: 步骤4（共4步） — 将Marketo解决方案与资源所有者密码控制连接连接
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
->[!IMPORTANT]
+>[!NOTE]
 >
->如果您从基本身份验证升级到OAuth，则需要联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support) 以获取有关更新其他参数的帮助。 启用此功能将暂时停止同步，直到输入新凭据并重新启用同步为止。 如果您要恢复到旧的身份验证模式，则可以禁用该功能（直到2022年4月）。
+>如果您从基本身份验证升级到OAuth，则可以使用 [本文](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) 来重新配置您的身份验证。
 
 ## 输入Dynamics Sync用户信息 {#enter-dynamics-sync-user-information}
 

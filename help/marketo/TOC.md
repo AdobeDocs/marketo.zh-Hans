@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '8382'
+source-wordcount: '8394'
 ht-degree: 0%
 
 ---
@@ -1263,6 +1263,7 @@ ht-degree: 0%
          + Analytics {#analytics}
             + [模板参与度](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + 促销活动 {#campaigns}
+            + [添加到营销活动](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [营销活动已结束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce集成 {#salesforce-integration}
@@ -1299,6 +1300,7 @@ ht-degree: 0%
             + [Sales Insight Action如何处理电子邮件消除重复？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [授予Marketo用户访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [使Campaign对Sales Connect用户可见](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + 人员 {#people}
             + [人员详细信息视图](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [销售分析操作和GDPR合规性](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)

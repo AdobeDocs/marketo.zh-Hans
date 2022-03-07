@@ -4,22 +4,22 @@ title: 授予Marketo用户访问权限
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # 授予Marketo用户访问权限 {#grant-marketo-access-to-users}
 
-按照本文中的步骤，授予Marketo销售用户访问Marketo连接的权限。 这将解锁各种功能，如实时信息源中的有趣时刻以及对营销活动的访问权限。
+按照本文中的步骤，授予您的Sales Insight Actions用户访问Marketo连接的权限。 这将解锁各种功能，如实时信息源中的有趣时刻以及对营销活动的访问权限。
 
-你需要 [Marketo销售](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) 在Marketo >团队访问页面(在Marketo销售部中)中显示这些组件之前，会先授予对Marketo连接的访问权限。
+您需要邀请用户 [销售分析操作](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) 在Marketo >团队访问页面（在Sales Insight Actions中）中显示之前，会先授予对Marketo连接的访问权限。
 
 >[!CAUTION]
 >
->在将Marketo销售与Marketo连接后，请等待十分钟，然后再执行这些步骤。
+>在将Sales Insight Actions与Marketo连接后，请等待10分钟，然后再执行这些步骤。
 
 1. 单击齿轮图标，然后选择 **设置**.
 
