@@ -2,9 +2,9 @@
 description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
+source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
@@ -74,3 +74,71 @@ ht-degree: 0%
 **动态聊天除英语以外，还提供任何语言吗？**
 
 现在不行。
+
+## 动态聊天中的限制 {#limits-in-dynamic-chat}
+
+<table>
+  <th>参数</th>
+  <th>描述</th>
+  <th>限制</th>
+ <tr>
+  <td>对话框总数</td>
+  <td>对话总数（已发布和草稿）</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>已发布的对话框</td>
+  <td>保存的已发布对话框数</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>每个对话框的目标URL</td>
+  <td>可添加到单个对话框的Target URL数量</td>
+  <td>20</td>
+ </tr>
+ <tr>
+  <td>每个对话框的属性</td>
+  <td>可添加到单个对话框的受众标准的属性数量</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>群组</td>
+  <td>可添加到单个对话框的组数</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>每组属性</td>
+  <td>可添加到群组的属性数</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>卡片</td>
+  <td>每个对话框可添加到画布的卡片数</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>匿名潜在客户数据保留期</td>
+  <td>匿名潜在客户信息在没有任何参与的情况下将保留多长时间</td>
+  <td>90天</td>
+ </tr>
+ <tr>
+  <td>目标活动保留期</td>
+  <td>保留目标活动数据的时长</td>
+  <td>24个月</td>
+ </tr>
+ <tr>
+  <td>记录活动保留期</td>
+  <td>保留文档活动数据的时间</td>
+  <td>24个月</td>
+ </tr>
+ <tr>
+  <td>与对话活动保留期进行交互</td>
+  <td>与Dialog活动数据交互的时长将保留</td>
+  <td>90天</td>
+ </tr>
+ <tr>
+  <td>会议预订活动保留期</td>
+  <td>会议预订活动将存储在动态聊天中的时长</td>
+  <td>24个月</td>
+ </tr>
+</table>
