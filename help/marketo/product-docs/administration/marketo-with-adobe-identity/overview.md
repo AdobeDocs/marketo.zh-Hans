@@ -2,9 +2,9 @@
 description: 概述 — Marketo文档 — 产品文档
 title: 概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 0%
  <tr>
   <td><strong>Adobe Admin Console产品管理员</strong></td>
   <td>负责在Adobe Admin Console中为Marketo Engage产品授予用户权限。 授予了在Adobe Admin Console的角色。</td>
+ </tr>
+ <tr>
+  <td><strong>Adobe Admin Console产品配置文件管理员</strong></td>
+  <td>管理分配给该管理员的产品配置文件描述以及所有关联的管理功能。</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage产品管理员</strong></td>
@@ -90,7 +94,7 @@ AdobeIdentity Management系统由三个组件组成。
 
 [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-**我是否仍然转到Marketo的“管理员”部分，为我的帐户更改用户帐户？**
+**我是否仍然转到Marketo的“管理员”部分，以更改我的帐户？**
 
 否，您需要导航到 [account.adobe.com](https://account.adobe.com).
 
