@@ -2,9 +2,9 @@
 description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ ht-degree: 0%
 
 ## 常见问题解答 {#faq}
 
+**数据会存储多长时间以便进行报告？**
+
+90天(请参阅 [下面](#limits-in-dynamic-chat))。
+
 **动态聊天是否允许进行实时聊天？**
 
 不会，它仅使用预先确定的响应。
@@ -66,10 +70,6 @@ ht-degree: 0%
 **是否支持AI/NLP功能？**
 
 我们不支持AI/NLP功能。
-
-**数据会存储多长时间以便进行报告？**
-
-90天。
 
 **动态聊天除英语以外，还提供任何语言吗？**
 
