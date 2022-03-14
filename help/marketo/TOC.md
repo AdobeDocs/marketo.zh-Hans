@@ -1271,7 +1271,7 @@ ht-degree: 0%
             + [营销活动已结束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce自定义 {#salesforce-customization}
-               + [文档](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
+               + [文档](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/doc.md)
             + Salesforce集成 {#salesforce-integration}
                + [配置Salesforce活动详细信息自定义](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [将您的Marketo销售帐户连接到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
