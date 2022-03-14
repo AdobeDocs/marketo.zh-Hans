@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: ba1357e6970ba4e3dc496d27272d067ac87c5e6d
+source-git-commit: 1a817ff44e5786e0f94c22969d501ed33465424a
 workflow-type: tm+mt
-source-wordcount: '8397'
+source-wordcount: '8421'
 ht-degree: 0%
 
 ---
@@ -194,8 +194,8 @@ ht-degree: 0%
          + [全局表单验证规则](product-docs/administration/settings/global-form-validation-rules.md)
          + [登陆页面标题](product-docs/administration/settings/landing-page-headers.md)
          + [基于IP限制Marketo登录](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
-         + [选择语言、区域设置和时区](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
-         + [设置回退页面](product-docs/administration/settings/set-a-fallback-page.md)
+         + [Select Your Language, Locale and Time Zone](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+         + [Set a Fallback Page](product-docs/administration/settings/set-a-fallback-page.md)
          + [设置订阅的默认位置设置](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [了解隐私设置](product-docs/administration/settings/understanding-privacy-settings.md)
          + [使用通用ID进行订阅登录](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
@@ -614,9 +614,9 @@ ht-degree: 0%
                + [创建子营销活动和本地资产](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
                + [在ON24中创建网络研讨会活动](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
                + [在Marketo中输入您的ON24凭据](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
-               + [ON24事件集成示例](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
-               + [ON24事件注册更新](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
-               + [测试ON24事件集成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
+               + [Example ON24 Event Integration](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+               + [ON24 Event Registration Updates](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
+               + [Test Your ON24 Event Integration](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [了解Marketo On24适配器事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [了解网络研讨会计划状态](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
       + Facebook {#facebook}
@@ -624,17 +624,17 @@ ht-degree: 0%
          + [在Facebook中创建自定义受众](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
          + [编辑Facebook富帖子设置](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [将登陆页面发布到Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-         + [设置Facebook潜在客户广告](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+         + [Set up Facebook Lead Ads](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [将自定义字段映射到Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
          + [设置Facebook离线转化](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
          + [测试Facebook与Marketo的桌面集成潜在客户广告](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
          + [测试Facebook与Marketo的移动集成潜在客户广告](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [了解Facebook离线转化](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
-         + [在智能营销活动中使用潜在客户广告过滤器和触发器](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+         + [Use Lead Ads Filters and Triggers in a Smart Campaign](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
       + Forms {#forms}
-         + 创建表单 {#creating-a-form}
+         + Creating a Form {#creating-a-form}
             + [创建表单](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
-            + [向表单添加字段](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
+            + [Add a Field to a Form](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
             + [批准表单](product-docs/demand-generation/forms/creating-a-form/approve-a-form.md)
             + [编辑表单中的字段标签](product-docs/demand-generation/forms/creating-a-form/edit-a-field-label-in-a-form.md)
             + [必填表单字段](product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)
@@ -858,7 +858,7 @@ ht-degree: 0%
          + 创建投票 {#creating-a-poll}
             + [创建投票](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
             + [自定义投票设置](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
-            + [发布投票](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
+            + [Publish a Poll](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
             + [审核投票](product-docs/demand-generation/social/creating-a-poll/review-votes-cast-in-poll.md)
          + 反向链接选件 {#referral-offers}
             + [创建反向链接选件](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
@@ -1261,14 +1261,21 @@ ht-degree: 0%
             + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [用户访问详细信息](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analytics {#analytics}
+            + [Analytics页面概述](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
+            + [了解“内容”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
+            + [了解我选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [了解“团队”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [模板参与度](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + 促销活动 {#campaigns}
             + [添加到营销活动](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [营销活动已结束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
+            + Salesforce自定义 {#salesforce-customization}
+               + [文档](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce集成 {#salesforce-integration}
                + [配置Salesforce活动详细信息自定义](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [将您的Marketo销售帐户连接到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [从Sales Insight操作中断开Salesforce的连接](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Salesforce同步设置](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + 电子邮件 {#email}
             + 命令中心 {#command-center}
@@ -1279,10 +1286,10 @@ ht-degree: 0%
                + [命令中心中的快速操作](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
             + 电子邮件投放 {#email-delivery}
                + [投放渠道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
-               + [电子邮件连接限制](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [Email Connection Throttling](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [为您的团队设置自定义投放渠道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + 取消订阅 {#unsubscribes}
-               + [取消订阅概述](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
+            + Unsubscribes {#unsubscribes}
+               + [Unsubscribe Overview](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [自定义取消订阅链接消息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo取消订阅检查](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [正在将取消订阅与Salesforce同步](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
@@ -1290,7 +1297,7 @@ ht-degree: 0%
                + [向电子邮件中添加附件或可跟踪内容](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [向电子邮件中添加重点内容](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
                + [批量电子邮件发送选项](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
-               + [使用选择并发送来合成批量电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+               + [Composing Bulk Emails with Select and Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [在撰写窗口中使用模板](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + 常见问题解答 {#faq}
@@ -1705,18 +1712,18 @@ ht-degree: 0%
          + [帐户分析排名和调整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
          + [新帐户发现](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Web个性化 {#web-personalization}
-      + 基于帐户的Web营销 {#account-based-web-marketing}
+      + Account-Based Web Marketing {#account-based-web-marketing}
          + [与TAM的基于帐户的Web营销](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [创建新帐户列表](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [使用帐户列表创建区段](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
       + 快速入门 {#getting-started}
          + [在帐户设置中添加子域](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [编辑区域](product-docs/web-personalization/getting-started/edit-regions.md)
-         + [登录和用户管理](product-docs/web-personalization/getting-started/login-and-user-management.md)
+         + [Login and User Management](product-docs/web-personalization/getting-started/login-and-user-management.md)
          + [将Web个性化设置为不跟踪](product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)
-         + [用户设置](product-docs/web-personalization/getting-started/user-settings.md)
+         + [User Settings](product-docs/web-personalization/getting-started/user-settings.md)
          + [Web个性化中的工作区](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
-      + RTP标记实施 {#rtp-tag-implementation}
+      + RTP Tag Implementation {#rtp-tag-implementation}
          + [部署RTP JavaScript](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
          + [启用或禁用RTP JavaScript标记](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
          + [在Marketo登陆页面上实施RTP](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)

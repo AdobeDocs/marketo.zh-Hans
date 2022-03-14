@@ -3,9 +3,10 @@ description: 添加到营销活动 — Marketo文档 — 产品文档
 title: 添加到营销活动
 hide: true
 hidefromtoc: true
-source-git-commit: 6b59150eaebcd4424d3e347cb2379b9111255e4f
+exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
+source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -24,23 +25,23 @@ ht-degree: 0%
 
 1. 单击 **人员** 选项卡。
 
-PICC
+   ![](assets/add-to-marketing-campaign-1.png)
 
 1. 查找要添加的联系人。
 
-PICC
+   ![](assets/add-to-marketing-campaign-2.png)
 
-1. 单击复选框以选择您的联系人。
+1. 单击复选框以选择您的联系人，然后单击 **将选定项添加到营销活动**.
 
-PICC
+   ![](assets/add-to-marketing-campaign-3.png)
 
-1. 单击 **将选定项添加到营销活动**.
+1. 步到此处
 
-PICC
+   ![](assets/add-to-marketing-campaign-4.png)
 
 1. 由于您要向营销活动添加内容，因此请跳过选择“发件人”地址的步骤。 但是，您可以选择添加更多联系人。 如果选择，请单击个人，然后在中键入它们。 单击 **下一个** 完成时。
 
-PICC
+   ![](assets/add-to-marketing-campaign-5.png)
 
 1. 单击 **营销活动**.
 
