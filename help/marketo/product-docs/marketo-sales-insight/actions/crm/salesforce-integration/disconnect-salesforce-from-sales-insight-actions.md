@@ -3,9 +3,9 @@ description: 从Sales Insight操作中断开Salesforce连接 — Marketo文档 �
 title: 从Sales Insight操作中断开Salesforce的连接
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ ht-degree: 0%
 
 1. 在Sales Insight Actions中，单击右上角的齿轮图标，然后选择 **设置**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
 1. 在“管理员设置”下，单击 **Salesforce**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
 1. 在连接和自定义选项卡中，单击 **断开连接**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
 ## 如何作为非管理员从Salesforce断开连接 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
 1. 在Sales Insight Actions中，单击右上角的齿轮图标，然后选择 **设置**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
 1. 在“我的帐户”下，选择 **Salesforce**.
 
