@@ -3,9 +3,10 @@ description: 将销售活动属性记录到Salesforce - Marketo文档 — 产品
 title: 将销售活动属性记录到Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '341'
 ht-degree: 1%
 
 ---
@@ -26,7 +27,7 @@ Salesforce管理员可以手动将自定义活动字段添加到Salesforce。
 
 下表中每列的描述：
 
-* **字段标签**:UI中显示的字段名称
+* **字段标签**:UI中显示的字段名称（您的团队可以自定义此名称，以提高可读性）
 * **字段名称**:字段的技术名称（确保您输入的字段名称与下表中的字段名称匹配）
 * **API名称**:API字段的技术名称（确保您输入的API名称与下表中的API名称相匹配）
 * **数据类型**:字段类型

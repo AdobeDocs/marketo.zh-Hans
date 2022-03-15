@@ -3,9 +3,9 @@ description: Salesforce诊断 — Marketo文档 — 产品文档
 title: Salesforce诊断
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1445'
 ht-degree: 0%
 
 ---
@@ -131,7 +131,7 @@ ht-degree: 0%
 
 **错误：** INVALID_FIELD_FOR_INSERT_UPDATE\
 **类别：** 访问/验证\
-**消息：** 无法创建/更新字段：ToutApp__Tout_Last_Repleded__c。请检查此字段的安全设置。
+**消息：** 无法创建/更新字段：MSE_Reploded__c。请检查此字段的安全设置。
 **当前发生的情况：** 用户无权写入执行“最近活动”日志记录事务处理所需的“销售分析操作”自定义字段。 团队可能已安装包，但尚未为用户启用正确的字段。\
 **疑难解答步骤：** Salesforce管理员需要授予对自定义字段的访问权限，或关闭“最新活动”日志记录。
 
