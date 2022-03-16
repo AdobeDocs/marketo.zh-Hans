@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 第3步（共3步） — 将Marketo解决方案与服务器连接 — Marketo文档 — 产品文档
 title: 第3步（共3步） — 将Marketo解决方案与服务器连接连接
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >请确保您的组织URL正确，因为我们无法在提交后还原后续架构更改。 如果使用的组织URL不正确，您必须获取新的Marketo订阅。 如果您不知道URL， [了解如何在此处查找](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. 输入 **用户名**, **密码**, **客户端ID**, **客户端密钥**&#x200B;和Microsoft Dynamics **URL**. 单击 **保存** 完成时。
+1. 输入Dynamics Sync用户信息，然后单击 **保存** 完成时。
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
