@@ -2,16 +2,18 @@
 description: 创建流 — Marketo文档 — 产品文档
 title: 创建流
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # 创建流 {#create-a-stream}
 
-有 _许多_ 您可以创建的流组合。 下面是营销人员询问网站访客是否有任何产品问题的一个示例。 如果是，则访客可以计划约会。 如果否，则访客可以选择加入邮件列表以备将来通信。 目标是计划约会或收集访客的电子邮件。
+有 _许多_ 您可以创建的流组合。 本文包含一个示例，营销人员在该示例中询问网站访客是否有任何产品问题。 如果是，则访客可以计划约会。 如果否，则访客可以选择加入邮件列表以备将来通信。 目标是计划约会或收集访客的电子邮件。
+
+![](assets/create-a-stream-0.png)
 
 1. 在 [创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)，请单击 **流设计器** 选项卡。
 
@@ -108,9 +110,13 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-17.png)
 
-1. 要激活对话框时，单击 **发布**.
+1. 要预览对话框，请单击右侧的预览图标。
 
    ![](assets/create-a-stream-18.png)
+
+1. 准备好激活对话框后，单击 **发布**.
+
+   ![](assets/create-a-stream-19.png)
 
 >[!NOTE]
 >

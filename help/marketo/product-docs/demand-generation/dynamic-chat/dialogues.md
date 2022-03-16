@@ -2,9 +2,9 @@
 description: 对话框 — Marketo文档 — 产品文档
 title: 对话框
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/dialogues-2.png)
 
-1. 输入名称（说明是可选的），设置优先级级别，然后单击 **保存**.
+1. 选择空白对话框或预填充模板之一。 输入名称（说明是可选的），更改优先级（可选），然后单击 **创建**.
 
    ![](assets/dialogues-3.png)
 

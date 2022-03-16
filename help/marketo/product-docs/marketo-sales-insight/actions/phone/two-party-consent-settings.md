@@ -1,0 +1,51 @@
+---
+description: 双方同意设置 — Marketo文档 — 产品文档
+title: 双方同意设置
+hide: true
+hidefromtoc: true
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 0%
+
+---
+
+# 双方同意设置 {#two-party-consent-settings}
+
+为确保在录制呼叫时遵守美国双方同意法律，作为管理员，您可以启用您选择的预先录制的消息，以在呼叫开始时播放该消息。
+
+>[!PREREQUISITES]
+>
+>在执行以下步骤之前，您必须先 [启用呼叫记录](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
+
+1. 单击“设置”图标，然后选择 **设置**.
+
+PICC
+
+1. 在“管理员设置”下，单击 **常规**.
+
+PICC
+
+1. 向下滚动到Sales Connect Phone Settings ，然后单击 **管理录制通知**.
+
+PICC
+
+1. 单击 **导入录制**.
+
+PICC
+
+>[!NOTE]
+>
+>仅支持Wav和MP3文件。 上传文件的时间不能超过30秒。
+
+1. 从硬盘中选择所需的音频文件。
+
+PICC
+
+1. 上传完成后，在文件管理器中选择数据（三个圆点），然后单击 **选择作为同意通知**. 单击 **确定** 完成时。
+
+PICC
+
+1. 单击切换，以在录制的调用开始时播放选定的消息。
+
+PICC
