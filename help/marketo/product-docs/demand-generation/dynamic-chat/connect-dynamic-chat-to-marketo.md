@@ -2,9 +2,9 @@
 description: 将动态聊天连接到Marketo - Marketo文档 — 产品文档
 title: 将动态聊天连接到Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. 选择最多50个标准或自定义字段以同步到动态聊天。 单击 **下一个** 完成时。
+1. 从Marketo实例中选择最多50个标准或自定义字段以同步到动态聊天，以用于受众定位、数据映射和个性化。 单击 **下一个** 完成时。
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >此时，属性选择 **无法** 在初始同步后进行更改。 完成同步后，您只能返回并添加更多内容（如果选择的同步量小于50个）。
 
-1. 确保选择正确(提醒：您无法在同步后删除属性，因此请单击 **编辑选择** （如果需要在此步骤中更改任意内容）。 单击 **确认** 完成时启动同步。
+1. 查看您的选择(提醒：您无法在同步后删除属性，因此请单击 **编辑选择** （如果需要在此步骤中更改任意内容）。 单击 **确认** 完成时启动同步。
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
