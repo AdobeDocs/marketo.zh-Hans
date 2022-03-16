@@ -3,9 +3,10 @@ description: 双方同意设置 — Marketo文档 — 产品文档
 title: 双方同意设置
 hide: true
 hidefromtoc: true
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -20,32 +21,32 @@ ht-degree: 0%
 
 1. 单击“设置”图标，然后选择 **设置**.
 
-PICC
+   ![](assets/two-party-consent-settings-1.png)
 
 1. 在“管理员设置”下，单击 **常规**.
 
-PICC
+   ![](assets/two-party-consent-settings-2.png)
 
-1. 向下滚动到Sales Connect Phone Settings ，然后单击 **管理录制通知**.
+1. 在呼叫记录卡中，单击 **管理录制通知**.
 
-PICC
+   ![](assets/two-party-consent-settings-3.png)
 
 1. 单击 **导入录制**.
 
-PICC
+   ![](assets/two-party-consent-settings-4.png)
 
->[!NOTE]
->
->仅支持Wav和MP3文件。 上传文件的时间不能超过30秒。
+   >[!NOTE]
+   >
+   >仅支持Wav和MP3文件。 上传文件的时间不能超过30秒。
 
 1. 从硬盘中选择所需的音频文件。
 
-PICC
+   ![](assets/two-party-consent-settings-5.png)
 
 1. 上传完成后，在文件管理器中选择数据（三个圆点），然后单击 **选择作为同意通知**. 单击 **确定** 完成时。
 
-PICC
+   ![](assets/two-party-consent-settings-6.png)
 
 1. 单击切换，以在录制的调用开始时播放选定的消息。
 
-PICC
+   ![](assets/two-party-consent-settings-7.png)
