@@ -4,9 +4,9 @@ title: Salesforce同步设置
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -114,3 +114,21 @@ ht-degree: 0%
 1. 选择所需的选项（默认情况下选中“不同步到Salesforce任务”）。
 
    ![](assets/salesforce-sync-settings-14.png)
+
+## 首次将销售分析操作任务与Salesforce同步 {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+
+首次打开Sales Insight Actions和Salesforce任务之间的同步时，我们会导入您的Salesforce任务。 我们不会将您在Sales Insight Actions中拥有的任何当前任务推送到Salesforce。 为了减少混乱和重复项，从Sales Insight Actions同步到Salesforce中的唯一任务是在将Sales Insight Actions与SFDC同步之后创建的任务。
+
+以下是同步Sales Insight操作和SFDC任务时发生的情况：
+
+单击“保存任务”同步后，这些任务即开始同步。 这最初需要一些时间。
+
+在过去24小时内更新或创建的任何提醒都将从SFDC提取到Sales Insight Actions。 同步基于到期日期，所有这些任务都将在后端同步，但在命令中心，您将只看到今天和明天到期的任务。
+
+如果之前已打开同步，并且您删除了SFDC中的任何任务，则过去15天内删除的任何任务都将从命令中心删除。
+
+只要启用了同步，我们就会在Sales Insight Actions和SFDC之间不断同步任务。
+
+在初始同步之后，您在Sales Insight Actions中创建、编辑、完成或删除的任何任务都将同步到Salesforce中的任务列表。 而且，在Salesforce中创建、编辑、完成或删除的任何内容都将更新Sales Insight Actions中的任务列表。
+
+要打开此同步，只需在Web应用程序的“设置”页面中选中同步框。

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '8573'
+source-wordcount: '8589'
 ht-degree: 0%
 
 ---
@@ -1317,9 +1317,12 @@ ht-degree: 0%
             + [最新的客户端版本是什么？](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
             + [Sales Insight Actions的服务条款是什么？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [为什么我的任何联系人都没有被推送到Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [为什么我的动态字段没有填满？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [为什么无法删除联系人？](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [为什么我的所有联系人都没有被推送到Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [为什么跟踪活动未在Salesforce活动中显示？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+         + 集成 {#integrations}
+            + [将电子邮件记录到外部源](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [授予Marketo用户访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [使Campaign对Sales Connect用户可见](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
@@ -1350,6 +1353,7 @@ ht-degree: 0%
             + [提醒任务与Salesforce同步](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + 模板 {#templates}
             + [添加超链接文本](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
+            + [动态字段](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [管理模板](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [管理模板类别](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [推荐的模板](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
