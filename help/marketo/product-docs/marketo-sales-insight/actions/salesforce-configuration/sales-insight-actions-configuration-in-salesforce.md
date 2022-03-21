@@ -1,10 +1,8 @@
 ---
 description: Salesforce中的Sales Insight Actions配置 — Marketo文档 — 产品文档
 title: Salesforce中的Sales Insight操作配置
-hide: true
-hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: ba1357e6970ba4e3dc496d27272d067ac87c5e6d
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
