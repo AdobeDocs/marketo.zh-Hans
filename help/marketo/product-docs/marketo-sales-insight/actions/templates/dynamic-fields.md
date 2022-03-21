@@ -3,7 +3,7 @@ description: 动态字段 — Marketo文档 — 产品文档
 title: 动态字段
 hide: true
 hidefromtoc: true
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: a0b10255513c13b7100b667513e3e61fc3788a15
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -60,4 +60,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果动态字段未填充，请签出 [本文](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out).
+>如果动态字段未填充，请签出 [本文](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
