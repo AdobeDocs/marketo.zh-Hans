@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
+source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '803'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
-* **动态聊天**:通过主动、有吸引力的1:1个性化对话，将潜在客户和帐户定位到您的网站上，从而最大限度地利用每一个机会。 动态聊天允许Marketo Engage用户开始利用聊天作为B2B营销和销售用例的集成跨渠道体验的关键部分。 功能包括：能够直接在聊天内预订会议、潜在客户路由、起始模板、拖放对话创建等。 动态聊天包含在所有Marketo Engage包中，并将在今年推出给所有Marketo Engage用户。
+* **动态聊天**:通过主动、有吸引力的1:1个性化对话，将潜在客户和帐户定位到您的网站上，从而最大限度地利用每一个机会。 [动态聊天](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;}允许Marketo Engage用户开始利用聊天作为B2B营销和销售用例的集成跨渠道体验的关键部分。 功能包括：能够直接在聊天内预订会议、潜在客户路由、起始模板、拖放对话创建等。 动态聊天包含在所有Marketo Engage包中，并将在今年推出给所有Marketo Engage用户。
 
-* **电子邮件机器人活动筛选增强功能**:作为对之前发布的电子邮件机器人活动过滤功能的增强，您现在可以选择加入已识别为机器人的日志记录活动。 然后，您可以根据已识别为由机器人执行的活动来筛选和触发操作。
+* **电子邮件机器人活动筛选增强功能**:作为对先前发布 [电子邮件机器人活动筛选](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}功能，您现在可以选择加入已识别为机器人的日志记录活动。 然后，您可以根据已识别为由机器人执行的活动来筛选和触发操作。
 
 ## 新一代体验 {#next-generation-experience}
 
@@ -54,6 +54,7 @@ ht-degree: 0%
 * **批量自定义对象导出已更新At筛选器**:允许营销人员以编程方式同步自定义对象
 * **显示电子邮件程序的开始设置**:允许营销人员通过API使用抢先版配置电子邮件程序
 * **选择性程序标记更新**:允许营销人员在不同时推送所有标签的情况下推送选择性标签更新
+* **批量活动提取actionResult字段**:允许营销人员识别跳过或失败的活动
 
 **_在整个季度发布_**
 
