@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
 workflow-type: tm+mt
-source-wordcount: '8589'
+source-wordcount: '8601'
 ht-degree: 0%
 
 ---
@@ -1269,6 +1269,7 @@ ht-degree: 0%
          + 促销活动 {#campaigns}
             + [添加到营销活动](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [营销活动已结束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [以其他用户的身份查看营销活动列表](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce自定义 {#salesforce-customization}
                + [文档](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
@@ -1325,6 +1326,7 @@ ht-degree: 0%
             + [将电子邮件记录到外部源](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [授予Marketo用户访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [销售分析操作中的有趣时刻](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [使Campaign对Sales Connect用户可见](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
             + [销售活动触发器和过滤器](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Sales Insight Actions活动术语表](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
