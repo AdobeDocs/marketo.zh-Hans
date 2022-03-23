@@ -2,16 +2,16 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
+source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 发行说明：2022年3月 {#release-notes-mar-22}
 
-’22年3月版中包含以下功能。 查看您的AdobeMarketo Engage版以了解功能的可用性。
+’22年3月版中包含以下功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
 
 >[!AVAILABILITY]
 >
@@ -31,7 +31,6 @@ ht-degree: 0%
 
 * **更新了下一代体验中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
 
-   * Design Studio中的电子邮件列表视图（包括新的批量操作）
    * Design Studio中的表单列表视图（包括新的批量操作）
 
 * **导入程序工作流更新**:新一代体验中正在提供导入计划工作流，其中包含更新的设计和可用性增强功能。 这将是自动更改，无需切换开关。
