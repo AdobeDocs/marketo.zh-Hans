@@ -2,9 +2,9 @@
 description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '596'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 创建流 {#create-a-stream}
 
-1. 在 [已创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)，请单击 **流设计器** 选项卡。
+1. 在 [已创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}，单击 **流设计器** 选项卡。
 
    ![](assets/create-a-stream-1.png)
 
@@ -148,7 +148,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在单击发布之前，请记得确保 [输入了目标URL](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>在单击发布之前，请记得确保 [输入了目标URL](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}。
 
 >[!MORELIKETHIS]
 >
