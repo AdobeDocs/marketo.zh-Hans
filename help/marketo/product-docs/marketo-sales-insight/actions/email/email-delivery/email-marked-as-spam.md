@@ -1,9 +1,7 @@
 ---
 description: 标记为垃圾邮件的电子邮件 — Marketo文档 — 产品文档
 title: 标记为垃圾邮件的电子邮件
-hide: true
-hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%

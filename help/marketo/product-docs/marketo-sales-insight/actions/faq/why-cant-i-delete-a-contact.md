@@ -1,9 +1,8 @@
 ---
 description: 为什么无法删除联系人？ - Marketo文档 — 产品文档
 title: 为什么无法删除联系人？
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 35e9d5c3-f7f8-4047-b63a-7548841d8267
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

@@ -1,10 +1,8 @@
 ---
 description: 为您的团队设置自定义交付渠道 — Marketo文档 — 产品文档
 title: 为您的团队设置自定义投放渠道
-hide: true
-hidefromtoc: true
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

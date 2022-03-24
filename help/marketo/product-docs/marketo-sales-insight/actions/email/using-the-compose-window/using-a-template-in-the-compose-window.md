@@ -1,9 +1,8 @@
 ---
 description: 在撰写窗口 — Marketo文档 — 产品文档中使用模板
 title: 在撰写窗口中使用模板
-hide: true
-hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%

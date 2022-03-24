@@ -1,10 +1,8 @@
 ---
 description: 电子邮件连接限制 — Marketo文档 — 产品文档
 title: 电子邮件连接限制
-hide: true
-hidefromtoc: true
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%

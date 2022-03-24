@@ -1,9 +1,8 @@
 ---
 description: 为什么跟踪活动未在Salesforce活动中显示？ - Marketo文档 — 产品文档
 title: 为什么跟踪活动未在Salesforce活动中显示？
-hide: true
-hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%

@@ -1,10 +1,8 @@
 ---
 description: 在电子邮件中添加附件或可跟踪内容 — Marketo文档 — 产品文档
 title: 向电子邮件中添加附件或可跟踪内容
-hide: true
-hidefromtoc: true
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%

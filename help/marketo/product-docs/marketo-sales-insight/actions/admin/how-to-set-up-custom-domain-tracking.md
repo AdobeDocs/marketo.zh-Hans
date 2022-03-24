@@ -1,10 +1,8 @@
 ---
 description: 如何设置自定义域跟踪 — Marketo文档 — 产品文档
 title: 如何设置自定义域跟踪
-hide: true
-hidefromtoc: true
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%

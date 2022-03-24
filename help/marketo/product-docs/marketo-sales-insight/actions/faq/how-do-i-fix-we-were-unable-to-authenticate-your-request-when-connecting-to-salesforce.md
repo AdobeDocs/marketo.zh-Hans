@@ -1,9 +1,8 @@
 ---
 description: 如何修复在连接到Salesforce - Marketo文档 — 产品文档时“我们无法验证您的请求”的问题
 title: 如何修复在连接到Salesforce时“我们无法验证您的请求”的问题
-hide: true
-hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
