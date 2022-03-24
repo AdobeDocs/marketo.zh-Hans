@@ -1,12 +1,10 @@
 ---
 description: 添加身份 — Marketo文档 — 产品文档
 title: 添加标识
-hide: true
-hidefromtoc: true
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
