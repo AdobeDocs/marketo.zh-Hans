@@ -3,7 +3,7 @@ unique-page-id: 37355569
 description: 计划成员自定义字段 — Marketo文档 — 产品文档
 title: 程序成员自定义字段
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -70,7 +70,7 @@ ht-degree: 0%
 * 程序成员对象最多可以有20个自定义字段。 这些字段可用于任何程序。
 * 删除某个程序的成员时，如果其“程序成员”(Program Member)自定义字段中有任何数据，则会从该字段中清除该数据。
 * 要查看数据，请单击程序中的“成员”选项卡，并创建包含该字段的自定义视图。
-* 通过导入和导出 [列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 和 [API](https://developers.marketo.com/) 。
+* 通过导入和导出 [列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 和 [API](https://developers.marketo.com/) 。 导出仅适用于程序成员列表，而不适用于静态列表。
 * 当您合并两个人时，将使用入选者的项目成员自定义字段数据。 但如果获胜者没有，则将使用失败者的价值。
 * 更改类型为 **not** 在“项目成员信息”(Program Member Info)字段中允许。
 
