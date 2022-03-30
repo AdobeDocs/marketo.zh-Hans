@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
 workflow-type: tm+mt
-source-wordcount: '8609'
+source-wordcount: '8616'
 ht-degree: 0%
 
 ---
@@ -1457,6 +1457,7 @@ ht-degree: 0%
          + [使用Marketo模板从Outlook发送和跟踪](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定Marketo Sales Insight插件管理员](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [升级您的Marketo Email Add-In for Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+      + [非本机MS Dynamics集成的Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [针对非本机Salesforce集成的销售分析](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [为Marketo Sky启用角色](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
