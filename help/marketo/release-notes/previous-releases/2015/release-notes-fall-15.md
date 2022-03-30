@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: 发行说明 — 2015年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年秋季
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '991'
 ht-degree: 0%
 
 ---
@@ -44,27 +44,27 @@ ht-degree: 0%
 
 [Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-我们很高兴地宣布发布Google Mail Sales Insight扩展的更新！ 在[Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中查看。
+我们很高兴地宣布我们的Google Mail Sales Insight扩展的更新版本！ 在  [Chrome应用商店](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 此更新包含许多新特性和功能：
 
 * 在接触之前，销售人员可以在Google Mail中直接查看与其潜在客户有关的相关信息，包括职务、twitter用户档案、公司信息、照片等。
 * 销售人员可以实时查看潜在客户在跨渠道参与的内容，例如打开或点击的电子邮件、参加在线或亲身活动、访问的网页、下载的电子书等。
-* 通过Google Mail发送的电子邮件将记录在Marketo中，并进行实时跟踪。 这样，销售人员就可以了解潜在客户何时查看其电子邮件，以便能够在适当的时间跟踪。 Marketo Sales Insight for Google Mail还使销售人员能够轻松利用由营销创建的模板，以发送漂亮的邀请、优惠和其他类型的内容。
+* 通过Google Mail发送的电子邮件将记录在Marketo中并进行实时跟踪。 这样，销售人员就可以了解潜在客户何时查看其电子邮件，以便能够在适当的时间跟踪。 Marketo Sales Insight for Google Mail还使销售人员能够轻松利用由营销创建的模板，以发送漂亮的邀请、优惠和其他类型的内容。
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketo Mobile Engagement — 令牌、发送示例和预览 {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile参与度 — 令牌、发送示例和预览 {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [令牌](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [发送示例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [预览](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-使用[令牌](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)轻松个性化推送通知。
+通过 [令牌](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-在将[预览](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)或发出[示例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)推送通知后，您才能将其部署到客户。
+您还可以 [预览](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) 或发出 [样本](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) 推送通知。
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 ## RTP — 内容分析和Recommendations {#rtp-content-analytics-and-recommendations}
 
-[内容分](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 析和Recommendations
+[内容分析](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 和Recommendations
 
 RTP内容分析显示Web内容资产从常规Web访问以及从RTP的内容推荐引擎生成的访问的性能。
 
@@ -95,8 +95,8 @@ RTP内容分析显示Web内容资产从常规Web访问以及从RTP的内容推�
 
 RTP的资产页面现在拆分为内容分析和内容Recommendations。
 
-* **内容分析：** 显示所有已发现和已定义的Web内容的视图和直接潜在客户，帮助您分析性能最佳的内容
-* **内容Recommendations**:显示RTP推荐内容中的展示次数和点击次数以及关联的潜在客户归因。您还可以编辑并启用此页面中[bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)和[富媒体](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)推荐的内容推荐。
+* **内容分析：** 显示所有已发现和已定义Web内容的视图和直接潜在客户，帮助您分析性能最佳的内容
+* **内容Recommendations**:显示RTP推荐内容中的展示次数和点击次数以及关联的潜在客户归因。 您还可以在此页面中编辑并启用 [栏](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 和 [富媒体](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) 推荐。
 
 * 自年初（2015年1月1日）起，这两个页面中的所有直接潜在客户数据都已进行追溯更新。
 
@@ -120,13 +120,13 @@ RTP的资产页面现在拆分为内容分析和内容Recommendations。
 </v:background>
 ```
 
-* 现在，任何内容都可以插入有效的HTML注释中（之前已删除如下所示的某些语法）：
+* 现在，任何内容都可以插入有效的HTML评论中（之前已删除如下所示的某些语法）：
 
 `<!--[if gte mso 9]> <![endif]-->`
 
-* 不要将空表单元格填充为`&nbsp;`
+* 不要使用 `&nbsp;`
 
-* 添加到HTML源编辑器的“最大化”/“最小化”按钮
+* 向HTML源编辑器添加了“最大化”/“最小化”按钮
 * 现在，已识别预先存在的表属性，并在表属性对话框中显示
 * 现在，两行按钮都默认显示。
 * 编辑器现在将接受任何元素（甚至已弃用或非标准元素）：

@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: 发行说明 — 2019年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年春季
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 * **已列出等待项：** 新的项目/事件状态，用于在您想要时等待成员 [把他们关在牢里](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 直到空缺打开。 这适用于与Marketo Classic中的事件项目相关联的渠道，以及与网络研讨会项目同时处于Marketo Sky状态的事件和事件。 默认情况下，Waitlisted具有与Registered相同的步骤值。
 * **[自定义通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**:管理员现在可以设置自定义的每日或每周通信限制。
-* **[智能营销活动资产API](https://developers.marketo.com/rest-api/assets/campaigns/)**:通过按更新日期和ID进行智能促销活动记录检索，丰富Marketo以外的分析。
+* **[智能营销活动资产API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**:通过按更新日期和ID进行智能促销活动记录检索，丰富Marketo以外的分析。
 * **电子邮件的HTTPS跟踪链接：** 对于已购买“用于跟踪链接的安全域”的客户，品牌化跟踪链接现在可以在电子邮件中以HTTPS形式显示。
 * **电子邮件可投放性Powerpack更新**:能够标记和评论特定的测试结果，通过URL与利益相关方共享结果，并跟踪更改，以便在利益相关方编辑内容时查看电子邮件的演变。
 
-基于帐户的营销
+Account-Based Marketing
 
 **[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** 现在正常可用。 AccountAI使用人工智能来揭示您应该针对自己的ABM战略的说法。
 

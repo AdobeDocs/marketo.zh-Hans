@@ -3,9 +3,9 @@ description: 创建销售活动 — Marketo文档 — 产品文档
 title: 创建销售活动
 hide: true
 hidefromtoc: true
-source-git-commit: e1eaabc8fc943291b026ab8e9919e5705e5c9046
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* 了解电子邮件步骤的Sales Campaign发送选项
+>* [用于电子邮件步骤的Sales Campaign发送选项](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
 >* [销售活动步骤类型和提醒任务](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->* 销售活动设置
+>* [销售活动设置](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
 

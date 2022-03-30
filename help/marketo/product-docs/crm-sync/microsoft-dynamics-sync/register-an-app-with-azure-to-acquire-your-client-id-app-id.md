@@ -1,74 +1,73 @@
 ---
 unique-page-id: 12983390
-description: 向Azure注册应用程序以获取您的客户端ID/应用程序ID - Marketo Docs — 产品文档
-title: 向Azure注册应用程序以获取您的客户端ID/应用程序ID
+description: 在Azure中注册应用程序以获取您的客户端ID/应用程序ID - Marketo文档 — 产品文档
+title: 在Azure中注册应用程序以获取您的客户端ID/应用程序ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
 
-# 向Azure注册应用程序以获取您的客户端ID/应用程序ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
+# 在Azure中注册应用程序以获取您的客户端ID/应用程序ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
-Azure Active Directory将您的本地目录扩展到云中，提供对MS Dynamics 365 CRM的支持，并提供本地ADFS身份验证。
+Azure Active Directory将您的本地目录扩展到云中，为MS Dynamics 365 CRM提供内部部署ADFS身份验证支持。
 
-## 注册新应用程序{#registering-a-new-app}
+## 注册新应用程序 {#registering-a-new-app}
 
-1. [使](https://manage.windowsazure.com/) 用具有管理员权限的帐户登录到Microsoft Azure管理门户。您还可以通过Office 365管理中心访问Microsoft Azure门户，方法是展开左侧导航窗格中的&#x200B;**Admin**&#x200B;项并选择&#x200B;**Azure AD**。
+1. [登录](https://azure.microsoft.com/en-us/account/) 使用具有管理员权限的帐户访问Microsoft Azure管理门户。 您还可以通过Office 365管理中心，通过扩展 **管理员** 项目，然后选择 **Azure AD**.
 
    >[!CAUTION]
    >
-   >您必须在与要向其注册应用程序的订阅相同的Office 365中使用帐户。
+   >您必须在同一个Office 365订阅中使用一个帐户，以便您在该订阅中注册应用程序。
 
    >[!NOTE]
    >
-   >如果您没有Azure帐户，则可以[注册](https://azure.microsoft.com/en-us/free/)。 有关详细信息，请参阅Microsoft的文档或联系Microsoft代表。 创建Azure帐户后，您可以使用下面概述的步骤注册一个或多个应用程序。
+   >如果您没有Azure帐户，则可以 [注册](https://azure.microsoft.com/en-us/free/) 一个。 有关更多信息，请参阅Microsoft的文档或联系您的Microsoft代表。 创建Azure帐户后，可使用下面所述的过程注册一个或多个应用程序。
    >
    >
-   >如果您有Azure帐户，但Microsoft Dynamics 365的Office 365订阅在您的Azure订阅中不可用，请按照[这些说明](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription)关联这两个帐户。
+   >如果您有Azure帐户，但Azure订阅中没有Microsoft Dynamics 365的Office 365订阅，请遵循 [这些说明](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) 将这两个帐户关联起来。
 
-1. 在左侧导航窗格中查找并单击&#x200B;**Azure Active Directory**。
+1. 查找并单击 **Azure Active Directory** 中。
 
    ![](assets/two.png)
 
-1. 在“管理”下，单击&#x200B;**应用程序注册**。
+1. 在管理下，单击 **应用程序注册**.
 
    ![](assets/three.png)
 
-1. 单击页面顶部的&#x200B;**新建注册**。
+1. 单击 **新注册** 的双曲余切值。
 
    ![](assets/four.png)
 
-1. 输入应用程序的名称，选择您的适用帐户类型，然后输入重定向URL。 然后，单击页面底部的&#x200B;**注册**。
+1. 输入应用程序的名称，选择适用的帐户类型，然后输入重定向URL。 然后，单击 **注册** 页面底部。
 
    ![](assets/five.png)
 
-1. 您现在应该可以在&#x200B;**应用程序注册**&#x200B;选项卡中看到您的应用程序。
+1. 此时，您应会在 **应用程序注册** 选项卡。
 
    ![](assets/six.png)
 
-## 配置应用程序权限{#configuring-app-permissions}
+## 配置应用程序权限 {#configuring-app-permissions}
 
-1. 在Active Directory的&#x200B;**应用程序注册**&#x200B;选项卡下，单击要配置权限的应用程序。
+1. 在 **应用程序注册** 选项卡中，单击要为其配置权限的应用程序。
 
    ![](assets/seven.png)
 
-1. 在“管理”下，单击&#x200B;**API权限**。
+1. 在管理下，单击 **API权限**.
 
    ![](assets/eight.png)
 
-1. 单击&#x200B;**添加权限**&#x200B;按钮。
+1. 单击 **添加权限** 按钮。
 
    ![](assets/nine.png)
 
-1. 选择&#x200B;**Dynamics CRM**。
+1. 选择 **Dynamics CRM**.
 
    ![](assets/ten.png)
 
-1. 选中&#x200B;**以组织用户身份访问公用数据服务***s**&#x200B;框，然后单击&#x200B;**添加权限。**
+1. 检查 **以组织用户身份访问通用数据服****** 框，然后单击 **添加权限。**
 
    ![](assets/eleven.png)
 
@@ -76,14 +75,14 @@ Azure Active Directory将您的本地目录扩展到云中，提供对MS Dynamic
 
    ![](assets/twelve.png)
 
-1. 单击&#x200B;**授予管理员同意**&#x200B;按钮。
+1. 单击 **授予管理员同意** 按钮。
 
    ![](assets/thirteen.png)
 
-1. 单击&#x200B;**是**&#x200B;进行确认。
+1. 单击 **是** 确认。
 
    ![](assets/fourteen.png)
 
-   你完了！
+   你完蛋了！
 
    ![](assets/fifteen.png)
