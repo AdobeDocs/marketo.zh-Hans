@@ -3,63 +3,70 @@ description: 创建销售活动 — Marketo文档 — 产品文档
 title: 创建销售活动
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: e1eaabc8fc943291b026ab8e9919e5705e5c9046
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
 
 # 创建销售活动 {#create-a-sales-campaign}
 
-## 创建营销活动 {#create-a-campaign}
+营销活动是一系列多渠道步骤，包括：电子邮件、电话、InMail和自定义任务。 它们使您能够简化与潜在客户和现有客户的通信。
 
-文本
+通过促销活动，您可以：
 
-## 了解发送选项和任务 {#understanding-send-options-and-tasks}
+* **组织**:在一个位置简化所有外联活动，以便高效执行。
+* **缩放**:安排所有外联工作，以便您能够扩展工作范围、最大限度地减少手动工作，并根据需要进行个性化。
+* **测量**:在将所有电子邮件和任务自动登录到Salesforce的同时，在一个位置跟踪它们是否成功。 通过了解产生共鸣和产生结果的原因，您可以始终如一地测试和改进结果。
 
-文本
+那么，如何设置营销活动？
 
-## 营销活动步骤类型 {#campaign-step-types}
+1. 单击 **促销活动** 选项卡。
 
-向营销活动添加步骤时，有四个选项。
+   ![](assets/create-a-sales-campaign-1.png)
 
-PICC
+1. 选择类别并单击 **创建营销活动** 按钮以创建新营销活动。
 
-**电子邮件**
+   ![](assets/create-a-sales-campaign-2.png)
 
-撰写新电子邮件，或使用预先存在的模板。
+   >[!NOTE]
+   >
+   >通过单击 **+** 下一页 **类别**.
 
-PICC
+1. 将选择您选择的类别。 如果您改变主意，请单击下拉菜单并选择其他选项。 完成后，单击 **继续**.
 
-| **使用模板** | 选择一个预先存在的模板 |
-|---|---|
-| **另存为模板** | 将您刚撰写的电子邮件另存为新模板 |
-| **添加内容** | 将文件上传到我们的服务器，并接收可在您的电子邮件中跟踪的URL（指向内容） |
-| **附加文件** | 将计算机中的文件附加到电子邮件（大小限制为23MB） |
+   ![](assets/create-a-sales-campaign-3.png)
 
->[!TIP]
+1. 单击 **添加步骤**.
+
+   ![](assets/create-a-sales-campaign-4.png)
+
+1. 选择：电子邮件、呼叫、InMail或自定义任务。 在本例中，我们选择的是“电子邮件”。
+
+   ![](assets/create-a-sales-campaign-5.png)
+
+1. 当你 [完成电子邮件](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target=&quot;_blank&quot;}{target=&quot;_blank&quot;}，单击 **添加**.
+
+   ![](assets/create-a-sales-campaign-6.png)
+
+1. 在创建第一天和步骤后，“添加一天”按钮将激活，您可以根据销售流程的需要添加任意数量的日期和步骤。
+
+   ![](assets/create-a-sales-campaign-7.png)
+
+   >[!NOTE]
+   >
+   >“天”不是两次操作之间间隔的天数，而是序列中的某天。 例如，如果您的营销活动持续7天，则输入“3”表示该操作将在7的第3天开始， **not** 3天后。
+
+1. 确保自定义计划和回复选项，例如通过访问 **“设置”选项卡** 为您的营销活动。
+
+   ![](assets/create-a-sales-campaign-8.png)
+
+现在该开始向营销活动添加人员了！
+
+>[!MORELIKETHIS]
 >
->了解有关 [发送选项](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>* 了解电子邮件步骤的Sales Campaign发送选项
+>* [销售活动步骤类型和提醒任务](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>* 销售活动设置
 
-**调用**
-
-设置提醒以通过电话跟踪联系人。 您还可以保存注释，以在调用期间用作通话跟踪。
-
-PICC
-
-**InMail**
-
-跟踪多个渠道是连接潜在客户的绝佳方式。 借助InMail任务，您可以设置提醒以通过LinkedIn联系。
-
-PICC
-
-**自定义任务**
-
-如果上述选项不适用，则使用自定义任务。 例如，您可以通过电子邮件邀请同事跟进潜在客户。
-
-PICC
-
-## 营销活动设置 {#campaign-settings}
-
-文本
