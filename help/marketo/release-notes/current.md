@@ -2,7 +2,7 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 本机CRM集成 {#native-crm-integration}
 
-**本机Veeva CRM集成（可用性有限）**:通过本机集成在Veeva VRM和Marketo Engage之间同步活动，提高与医疗专业人士的参与度。 此集成允许营销人员为医疗保健专业人士创建更个性化、更无缝的跨渠道体验。 如果您有兴趣参与，请联系您的客户成功经理。
+**本机Veeva CRM集成（可用性有限）**:通过本机集成在Veeva CRM和Marketo Engage之间同步活动，提高与医疗保健专业人士的参与度。 此集成允许营销人员为医疗保健专业人士创建更个性化、更无缝的跨渠道体验。 如果您有兴趣参与，请联系您的客户成功经理。
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
