@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
 workflow-type: tm+mt
-source-wordcount: '8637'
+source-wordcount: '8649'
 ht-degree: 0%
 
 ---
@@ -1406,11 +1406,13 @@ ht-degree: 0%
          + 配置 {#configuration}
             + [将批量操作按钮添加到Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [将Marketo选项卡添加到Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [添加Sales Insight权限集](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Salesforce Lightning中的批量操作](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [在Salesforce企业/无限制中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce专业版中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [现有客户的配置](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Marketo Sales Insight的“配置”选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [删除销售分析访问权限](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
             + [面向Marketo管理员的Sales Insight页面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [为团队设置销售分析](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + 功能 {#features}
@@ -1831,6 +1833,7 @@ ht-degree: 0%
    + 以前版本 {#previous-releases}
       + 2022年 {#2022}
          + [发行说明：’22年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [发行说明：’22年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
       + 2021年 {#2021}
          + [发行说明：’21年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [发行说明：’21年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
