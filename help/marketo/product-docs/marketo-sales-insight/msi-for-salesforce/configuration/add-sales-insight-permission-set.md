@@ -1,11 +1,10 @@
 ---
 description: 添加销售分析权限集 — Marketo文档 — 产品文档
 title: 添加Sales Insight权限集
-hide: true
-hidefromtoc: true
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -85,31 +84,29 @@ ht-degree: 0%
 
 1. 登录到您的Salesforce帐户。
 
-PICC
-
 1. 单击 **设置**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-1.png)
 
 1. 在管理员下，单击以展开 **管理用户**，则 **用户**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-2.png)
 
 1. 在所有用户下，选择要提供访问权限的用户，然后单击 **权限集分配**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-3.png)
 
 1. 单击 **编辑分配**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-4.png)
 
 1. 选择 **Marketo应用程序访问** ，然后 **添加**. 单击 **保存**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-5.png)
 
 1. 现在，当您向下滚动“用户详细信息”页面时，您将在“权限集分配”下看到“Marketo应用程序访问”。
 
-PICC
+   ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
