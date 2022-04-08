@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce企业/无限制 — Marketo文档 — 产品文档中配置Marketo销售分析
 title: 在Salesforce企业/无限制中配置Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
@@ -323,5 +323,5 @@ Marketo人员字段需要映射到Salesforce联系字段，以确保转换正常
 >
 >* [优先级、紧急性、相对得分和最佳押注](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [将Marketo选项卡添加到Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
->* [为团队设置销售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>* [向用户档案添加Sales Insight访问权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 

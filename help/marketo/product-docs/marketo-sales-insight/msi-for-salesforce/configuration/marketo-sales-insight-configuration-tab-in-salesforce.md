@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Marketo Salesforce中的“Sales Insight配置”选项卡 — Marketo文档 — 产品文档
 title: Marketo Sales Insight的“配置”选项卡
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -74,4 +74,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[为团队设置销售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>[向用户档案添加Sales Insight访问权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
