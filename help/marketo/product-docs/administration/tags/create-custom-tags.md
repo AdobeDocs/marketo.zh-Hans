@@ -1,62 +1,69 @@
 ---
 unique-page-id: 2950660
-description: 创建自定义标记 — Marketo Docs — 产品文档
+description: 创建自定义标记 — Marketo文档 — 产品文档
 title: 创建自定义标记
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-# 创建自定义标记{#create-custom-tags}
+# 创建自定义标记 {#create-custom-tags}
 
-标记将帮助您组织项目，而渠道将协助收集数据以用于报告。
-
->[!NOTE]
->
->有关详细信息，请参阅[了解标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)。
+标记将帮助您组织项目，而渠道将协助收集数据以用于报告目的。
 
 >[!NOTE]
 >
->**需要管理权限**
+>查看 [了解标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 以了解更多信息。
 
-## 创建新标记类型{#create-a-new-tag-type}
+>[!NOTE]
+>
+>**需要管理员权限**
+
+## 创建新标记类型 {#create-a-new-tag-type}
 
 要创建新标记类型，请执行以下操作：
 
-1. 转至&#x200B;**Admin**&#x200B;部分。
+1. 转到 **管理员** 中。
 
-   ![](assets/image2015-4-23-14-3a37-3a48.png)
+   ![](assets/create-custom-tags-1.png)
 
-1. 单击&#x200B;**标记**。
+1. 单击 **标记**.
 
-   ![](assets/image2015-4-23-14-3a41-3a18.png)
+   ![](assets/create-custom-tags-2.png)
 
-1. 单击&#x200B;**新建**，然后选择&#x200B;**新建标记类型。**
+1. 单击 **新建** 选择 **新标记类型。**
 
-   ![](assets/image2015-4-23-14-3a42-3a45.png)
+   ![](assets/create-custom-tags-3.png)
 
-1. 输入&#x200B;**标记类型**&#x200B;的名称。
+1. 输入标记类型的名称。
 
-   ![](assets/image2015-4-23-14-3a48-3a58.png)
+   ![](assets/create-custom-tags-4.png)
 
-1. 为标记类型输入所需的&#x200B;**值**。 单击&#x200B;**添加其他**&#x200B;以输入其他标记值。
+1. 为标记类型输入所需的值。 单击 **添加其他** 以输入其他值。
 
-   ![](assets/image2015-4-22-11-3a30-3a30.png)
+   ![](assets/create-custom-tags-5.png)
 
-1. 选择此标记应用于的项目类型。
+1. 选择此标记所应用的程序类型。
 
-   ![](assets/image2015-4-22-11-3a39-3a7.png)
+   ![](assets/create-custom-tags-6.png)
+
+1. 确定是否为列出的所有程序类型要求此标记。
+
+   ![](assets/create-custom-tags-7.png)
 
    >[!NOTE]
    >
-   >选择&#x200B;**所有项目**&#x200B;均为“必需”，以在创建新项目时添加此标记。
+   >* 如果希望在任何时候创建新程序时添加此标记，请选择“必需”。
+   >* 从“应用到”列表中删除某个程序类型将从该类型的所有现有程序中删除该标记及其值。 如果要保留现有标记值，并将此标记设为可选，以便继续 _全部_ 列出项目类型，取消选中“必需”复选框。
 
-1. 单击&#x200B;**创建**&#x200B;以保存。
 
-   ![](assets/image2015-4-22-11-3a38-3a34.png)
+   >[!TIP]
+   >
+   >如果您希望为某些程序类型提供类似的必需标记，但对于其他程序类型而言，则需要设置两个单独的标记，每个标记都应用于不同的程序类型，其中一个程序类型选择了“必需”，另一个程序类型未选择“必需”。
 
-   就这样！ 现在，您可以为项目创建自定义标记。
+1. 单击 **创建**.
+
+   ![](assets/create-custom-tags-8.png)
