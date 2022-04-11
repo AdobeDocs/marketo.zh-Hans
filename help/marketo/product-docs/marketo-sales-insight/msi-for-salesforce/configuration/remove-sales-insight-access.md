@@ -2,7 +2,7 @@
 description: 删除销售分析访问 — Marketo文档 — 产品文档
 title: 删除销售分析访问权限
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -68,8 +68,8 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-* Apex类访问：159个与“mkto_si”一起的Apex类
-* 可视化强制页面访问：64可视化强制包含“mkto_si”的页面
+* Apex类访问：159个以“mkto_si”开头的Apex类
+* 可视化强制页面访问：64可视化强制以“mkto_si”开头的页面
 * 自定义设置定义：mkto_si.Marketo设置和mkto_si.用户首选项
 
 ## 删除对Sales Insight的访问权限 {#removing-access-to-sales-insight}

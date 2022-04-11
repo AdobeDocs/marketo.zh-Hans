@@ -2,7 +2,7 @@
 description: 添加销售分析权限集 — Marketo文档 — 产品文档
 title: 添加Sales Insight权限集
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -76,8 +76,8 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-* Apex类访问：159个与“mkto_si”一起的Apex类
-* 可视化强制页面访问：64可视化强制包含“mkto_si”的页面
+* Apex类访问：159个以“mkto_si”开头的Apex类
+* 可视化强制页面访问：64可视化强制以“mkto_si”开头的页面
 * 自定义设置定义：mkto_si.Marketo设置和mkto_si.用户首选项
 
 ## 向用户添加Marketo应用程序权限集 {#adding-marketo-app-permission-set-to-users}
