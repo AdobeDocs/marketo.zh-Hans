@@ -3,10 +3,10 @@ unique-page-id: 10099102
 description: Microsoft Dynamics MSI的插件版本 — Marketo文档 — 产品文档
 title: 适用于Microsoft Dynamics MSI的插件版本
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 6%
+source-wordcount: '342'
+ht-degree: 5%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 首次同步到Microsoft Dynamics时，您需要下载并安装最新版本的Marketo Sales Insight(MSI)插件。 Marketo会定期更新这些插件，以便您可以返回到同一位置下载新版本。
 
-请 [下载最新插件](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 对应于您的Dynamics版本。
+如果您使用的是Marketo的本机CRM同步解决方案，请 [下载最新插件](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)与您的Dynamics版本对应的{target=&quot;_blank&quot;}。 对于具有自定义同步并购买了Marketo Sales Insight的用户， [包在此处](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
 
 >[!NOTE]
 >
