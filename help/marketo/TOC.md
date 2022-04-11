@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '8648'
+source-wordcount: '8656'
 ht-degree: 0%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 0%
             + [销售活动设置](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
             + [用于电子邮件步骤的Sales Campaign发送选项](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [销售活动步骤类型和提醒任务](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
+            + [了解电子邮件步骤的Sales Campaign发送选项](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [以其他用户的身份查看营销活动列表](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce自定义 {#salesforce-customization}

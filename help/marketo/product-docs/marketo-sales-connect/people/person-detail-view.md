@@ -3,7 +3,7 @@ unique-page-id: 13796475
 description: 人员详细信息视图 — Marketo文档 — 产品文档
 title: 人员详细信息视图
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 1. 要访问人员详细信息视图，请单击 **人员** 选项卡。
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. 单击所需的人员。
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 包括人员的所有联系信息。
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **联系卡**
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 了解此人如何与您的外展互动。
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **Sales Connect活动**
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 显示您的外联历史。 包括电子邮件、营销活动和调用。
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **促销活动**
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
 管理与此人员关联的任务。
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 您可以执行的操作：
 
