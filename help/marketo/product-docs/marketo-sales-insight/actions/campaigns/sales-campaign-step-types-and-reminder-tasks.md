@@ -1,12 +1,10 @@
 ---
 description: Sales Campaign步骤类型和提醒任务 — Marketo文档 — 产品文档
 title: 销售活动步骤类型和提醒任务
-hide: true
-hidefromtoc: true
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -15,7 +13,7 @@ ht-degree: 0%
 
 ## 销售活动步骤类型 {#sales-campaign-step-types}
 
-向营销活动添加步骤时，有四个选项。
+在向销售活动添加步骤时，您有四个选项。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-1.png)
 
@@ -53,21 +51,17 @@ ht-degree: 0%
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-5.png)
 
-## 在营销活动中使用提醒任务 {#using-reminder-tasks-in-campaigns}
+## 在Sales Campaigns中使用提醒任务 {#using-reminder-tasks-in-sales-campaigns}
 
-向联系人发送营销活动时，任务是一款功能强大的工具，尤其是当您的销售流程是多渠道/联系渠道时。
+向联系人发送销售活动时，任务是一款功能强大的工具，尤其是当您的销售流程是多渠道/联系渠道时。
 
-在营销活动中，发送电子邮件的任务和呼叫联系人的任务是最常见的用途。
+在Sales Campaigns中，发送电子邮件和呼叫联系人的任务是Task的最常见用法。
 
 您还可以在LinkedIn上将“Task to Inmail”（任务发送到Inmail）设为联系人（如果这是工作流的一部分）。 您还可以执行自定义任务，提醒您邀请他们参加欢快的时刻、询问他们的慈善活动，或者在游戏5后登记入住等。
 
 >[!NOTE]
 >
->有关营销活动中的任务的最重要信息是，您必须完成该任务才能触发下一步。
-
-任务将始终与营销活动中的每个人关联。 这意味着您必须进入每个人并结束任务，以便其个人营销活动继续。
-
-您可以在以下位置管理任务：营销活动2.0中Campaign的“任务”选项卡，直接从命令中心或实时信息源的“任务”部分显示。 此外，您还可以从Salesforce管理任务。
+>Sales Campaigns中Tasks最重要的一点是，您必须完成该任务才能触发下一步。
 
 >[!MORELIKETHIS]
 >

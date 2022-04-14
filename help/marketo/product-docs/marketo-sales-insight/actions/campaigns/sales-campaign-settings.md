@@ -1,19 +1,17 @@
 ---
 description: Sales Campaign设置 — Marketo文档 — 产品文档
 title: 销售活动设置
-hide: true
-hidefromtoc: true
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # 销售活动设置 {#sales-campaign-settings}
 
-利用“销售活动设置”部分，可配置特定的销售活动，使其能够最适合您团队对该活动的用例。
+“销售活动”设置部分允许您配置特定的销售活动，以便它能够最适合您团队对该销售活动的用例。
 
 ## 跳过周末 {#skip-weekends}
 
@@ -27,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/sales-campaign-settings-1.png)
 
-1. 选择所需的营销活动。
+1. 选择所需的销售活动。
 
    ![](assets/sales-campaign-settings-2.png)
 
@@ -41,13 +39,13 @@ ht-degree: 0%
 
 ## 退回时删除 {#remove-on-bounce}
 
-如果您使用电子邮件连接，我们将根据发送给用户收件箱的退回消息来检测退回。 此外，我们还可以在检测到跳出时从营销活动中删除人员。
+如果您使用电子邮件连接，我们将根据发送给用户收件箱的退回消息来检测退回。 此外，在检测到跳出时，我们还可以从销售促销活动中删除人员。
 
 1. 单击 **促销活动**.
 
    ![](assets/sales-campaign-settings-5.png)
 
-1. 选择所需的营销活动。
+1. 选择所需的销售活动。
 
    ![](assets/sales-campaign-settings-6.png)
 
@@ -67,7 +65,7 @@ ht-degree: 0%
 
    ![](assets/sales-campaign-settings-9.png)
 
-1. 选择所需的营销活动。
+1. 选择所需的销售活动。
 
    ![](assets/sales-campaign-settings-10.png)
 
