@@ -2,9 +2,9 @@
 description: 概述 — Marketo文档 — 产品文档
 title: 概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 ## 参观 {#take-the-tour}
 
-首次登录时，将显示一个弹出窗口，随时为您提供新体验的概要。 注意，如果选择跳过，则以后将&#x200B;**不**&#x200B;可用。
+首次登录时，将显示一个弹出窗口，随时为您提供新体验的概要。 小心，如果你选择跳过它，它会 **not** 稍后可用。
 
 ![](assets/overview-1.png)
 
@@ -38,7 +38,7 @@ ht-degree: 1%
 
 **图标**
 
-新界面具有改进和扩展的图像处理功能。 请在此处了解这些信息：[图标术语表](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md)。
+新界面具有改进和扩展的图像处理功能。 请在此处了解这些信息： [图标术语表](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 
@@ -60,7 +60,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->在树中执行搜索将只显示前250个结果。 如果在搜索后找不到资产，请使用[全局搜索](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)函数。
+>在树中执行搜索将只显示前250个结果。 如果在搜索后找不到资产，请使用 [全局搜索](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) 函数。
 
 **Marketo Classicvs.新Marketo**
 
@@ -192,7 +192,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>3</td> 
-   <td>使用它提供有关MEUE体验的反馈</td> 
+   <td>使用此功能提供有关您体验的反馈</td> 
   </tr>
   <tr>
    <td>4</td> 
