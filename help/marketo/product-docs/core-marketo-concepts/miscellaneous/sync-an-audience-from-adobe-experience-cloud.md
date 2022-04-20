@@ -1,16 +1,15 @@
 ---
-description: 从Adobe Experience Cloud同步受众- Marketo Docs — 产品文档
+description: 从Adobe Experience Cloud同步受众 — Marketo文档 — 产品文档
 title: 从Adobe Experience Cloud同步受众
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
-# 从Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}同步受众
+# 从Adobe Experience Cloud同步受众 {#sync-an-audience-from-adobe-experience-cloud}
 
 >[!NOTE]
 >
@@ -18,46 +17,46 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[设置Adobe Experience Cloud受众共享](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[设置Adobe组织映射](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
 
-## 如何同步受众{#how-to-sync-an-audience}
+## 如何同步受众 {#how-to-sync-an-audience}
 
-1. 在“我的Marketo”中，单击&#x200B;**数据库**&#x200B;拼贴。
+1. 在My Marketo中，单击 **数据库** 拼贴。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. 单击&#x200B;**新建**&#x200B;下拉框，然后选择&#x200B;**从Experience Cloud受众**&#x200B;同步。
+1. 单击 **新建** 下拉框并选择 **从Experience Cloud受众同步**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
-1. 单击&#x200B;**受众库文件夹**&#x200B;下拉框并选择所需的来源文件夹。
+1. 单击 **受众库文件夹** 下拉菜单，然后选择所需的源文件夹。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-3.png)
 
-1. 选择&#x200B;**受众名称**。
+1. 选择 **受众名称**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. 对于目标，您可以选择现有列表，或键入新目标的名称。 在此示例中，我们将创建新的。 完成后，单击&#x200B;**同步**。
+1. 对于目标，您可以选择现有列表，或键入新列表的名称。 在本例中，我们正在创建一个新的。 单击 **同步** 完成时。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
-1. 单击&#x200B;**确定**。
+1. 单击 **确定**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-6.png)
 
-## 常见问题解答{#faq}
+## 常见问题解答 {#faq}
 
-**Cookie同步是如何工作的？**
+**Cookie同步如何工作？**
 
-为您的Marketo订阅启用Cookie同步后，Marketo的munchkin.js将尝试为您在集成设置过程中指定的Adobe IMS组织捕获和存储AdobeECID，并将这些ECID与相应的Marketo Cookie标识符匹配。 这使Marketo的匿名用户用户档案能够丰富Adobe ECID。
+为您的Marketo订阅启用Cookie同步后，Marketo的munchkin.js将尝试捕获并存储在集成设置期间指定的Adobe IMS组织的AdobeECID，并将这些ECID与相应的Marketo Cookie标识符匹配。 这样，Marketo的匿名用户配置文件便能够通过AdobeECID进行扩充。
 
-需要进一步将匿名用户用户档案关联到潜在客户用户档案，该潜在客户使用纯文本电子邮件进行标识。 ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)中具体介绍了这种方法的工作方式。[
+还需要进一步的步骤来将匿名用户配置文件与潜在客户配置文件关联，潜在客户配置文件使用纯文本电子邮件进行标识。 这到底是如何工作的 [此处描述](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
-**为什么Marketo中的列表大小与Adobe中的不同？**
+**Marketo中的列表大小为何与Adobe中的列表大小不同？**
 
-如果我们无法将ECID Cookie ID绑定到Marketo中的已知人，则用户也不会同步。
+如果我们无法将ECID Cookie ID关联到Marketo中的已知人员，则人员也不会进行同步。
 
 **这是一次性同步吗？**
 
-您只需启动同步一次。 之后，记录将自动同步。 初始同步最长可能需要24小时；今后，新记录将在2-3小时内同步。
+您只需启动同步一次。 之后，记录将自动同步。 初始同步可能最长需要24小时；今后，新记录将在2-3小时内同步。
