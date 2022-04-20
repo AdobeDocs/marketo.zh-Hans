@@ -2,9 +2,9 @@
 description: Sales Insight Actions管理指南 — Marketo文档 — 产品文档
 title: Sales Insight Actions管理指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -109,6 +109,10 @@ ht-degree: 0%
 ## 启动数据同步 {#initiate-data-sync}
 
 Sales Insight Actions的Marketo Engage统一字段同步使系统能够将人员信息从您的Sales Insight Actions数据库中提取到Sales Insight Actions数据库中，保持人员数据为最新，并确保活动记录到Marketo和Salesforce中的正确记录中。
+
+>[!CAUTION]
+>
+>启动数据同步后，您应 **not** 删除Sales Insight Actions实例上的原始用户。 这是将第一个邀请发送到的用户。
 
 1. 在Marketo中，单击 **管理员**.
 
