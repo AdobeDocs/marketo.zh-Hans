@@ -2,9 +2,9 @@
 description: 将动态聊天连接到Marketo - Marketo文档 — 产品文档
 title: 将动态聊天连接到Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
+source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 1. 登录到 [experience.adobe.com](https://experience.adobe.com).
 
-1. 复制主页右下角的组织ID。 _减号_ “@AdobeOrg”
+1. 单击Experience Cloud中任意位置的屏幕，然后按Ctrl+i。在 **分配的组织** ，突出显示并复制组织ID(_减号_ “@AdobeOrg”)。 按 **关闭** 完成时。
 
    ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
