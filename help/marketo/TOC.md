@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
+source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
 workflow-type: tm+mt
-source-wordcount: '8658'
+source-wordcount: '8728'
 ht-degree: 0%
 
 ---
@@ -579,6 +579,19 @@ ht-degree: 0%
          + [Salesforce同步错误](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce同步状态](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [使用人员帐户](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
+      + Veva CRM同步 {#veeva-crm-sync}
+         + [了解Veeva CRM同步](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+         + 设置 {#setup}
+            + [步骤1（共3步）：将Marketo字段添加到Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
+            + [步骤2（共3步）：创建Veeva CRM用户以进行Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+            + [步骤3（共3步）：连接Marketo Engage和Salesforce（专业版）](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-salesforce.md)
+         + 同步详细信息 {#sync-details}
+            + [将自定义对象字段添加/删除为智能列表/触发器约束](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+            + [默认Veeva字段映射](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
+            + [启用/禁用自定义对象同步](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
+            + [人员帐户同步](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync.md)
+            + [正在同步呼叫和呼叫密钥消息](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
+            + [Veva CRM自定义对象同步](product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md)
    + 需求生成 {#demand-generation}
       + 广告网络集成 {#ad-network-integrations}
          + [了解广告网络集成](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
