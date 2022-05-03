@@ -2,9 +2,9 @@
 description: 将动态聊天连接到Marketo - Marketo文档 — 产品文档
 title: 将动态聊天连接到Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
+source-git-commit: c36b9206494c14a52937fa787a37601eaf6f4bd4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ ht-degree: 0%
 ## 关联您的Adobe组织和Marketo {#link-your-adobe-org-and-marketo}
 
 接下来，该将Adobe和Marketo关联起来。
+
+>[!IMPORTANT]
+>
+>建立此映射的Marketo Engage用户的电子邮件地址还必须有权访问正在连接的Adobe组织。
 
 1. 登录到 [experience.adobe.com](https://experience.adobe.com).
 
