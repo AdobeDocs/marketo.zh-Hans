@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: 设置Adobe组织映射 — Marketo文档 — 产品文档
 title: 设置Adobe组织映射
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -48,4 +48,4 @@ ht-degree: 0%
 
 1. 如果您 _not_ 已登录，则新选项卡/窗口中将显示一个弹出窗口。 登录到您的Adobe组织（此操作将验证组织访问权限）。
 
-就这样！ 您现在可以 [共享受众数据](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md) 或 [同步受众](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md) 从Adobe Experience Cloud。
+就这样！ 您现在可以 [共享受众数据](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} [同步受众](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)来自Adobe Experience Cloud的{target=&quot;_blank&quot;}。
