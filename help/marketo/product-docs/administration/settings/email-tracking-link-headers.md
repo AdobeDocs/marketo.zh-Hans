@@ -1,12 +1,10 @@
 ---
 description: 电子邮件跟踪链接标头 — Marketo文档 — 产品文档
 title: 电子邮件跟踪链接标头
-hide: true
-hidefromtoc: true
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: dcca897dc5014a2179fe35a031ba2f9e5b2dbaf4
+source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -30,7 +28,7 @@ ht-degree: 0%
 <table>
  <tr>
   <td><strong>严格传输安全</strong></td>
-  <td>使用此选项可确保始终通过HTTPS提供与登陆页面的连接（只应为使用SSL保护的登陆页面的订阅设置）</td>
+  <td>使用此选项可确保跟踪链接将始终通过HTTPS提供（只应为使用SSL保护的跟踪链接的订阅设置）</td>
  </tr>
 </table>
 
