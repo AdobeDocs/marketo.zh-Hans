@@ -1,11 +1,10 @@
 ---
 description: 了解Veva CRM同步 — Marketo文档 — 产品文档
 title: 了解Veeva CRM同步
-hide: true
-hidefromtoc: true
-source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
+exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
+source-git-commit: 884c9a27f3876ec3036f2f7187db30565cdd49a7
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,14 +27,14 @@ Veva和Marketo Engage之间的同步仅对Person帐户对象上的“联系人�
 
 ## Marketo Engage与Veeva之间同步的内容 {#what-is-synced-between-marketo-engage-and-veeva}
 
-* 人员帐户
+* [人员帐户](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target=&quot;_blank&quot;}
 * 用户
-* 调用和调用关键对象
-* 自定义对象
+* [调用和调用关键对象](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
+* [自定义对象](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target=&quot;_blank&quot;}
 
 ## 注意事项 {#things-to-know}
 
-* 您在Marketo Engage中为Veeva输入的凭据用于同步数据。 将只包含这些凭据有权访问的数据。
+* 的 [您在VeevaMarketo Engage中输入的凭据](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target=&quot;_blank&quot;}用于同步数据。 将只包含这些凭据有权访问的数据。
 
 * Veeva CRM基于force.com，且与该平台一起使用的丰富体验Marketo Engage会继承到此同步中。
 
