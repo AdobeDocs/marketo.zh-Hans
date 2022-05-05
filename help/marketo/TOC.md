@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 1380d3ab2a4316a154cf16015d9bf19d65f0185f
+source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
-source-wordcount: '8728'
+source-wordcount: '8735'
 ht-degree: 0%
 
 ---
@@ -584,14 +584,16 @@ ht-degree: 0%
          + 设置 {#setup}
             + [步骤1（共3步）：将Marketo字段添加到Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [步骤2（共3步）：创建Veeva CRM用户以进行Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
-            + [步骤3（共3步）：连接Marketo Engage和Salesforce（专业版）](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-salesforce.md)
+            + [步骤3（共3步）：连接Marketo Engage和Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + 同步详细信息 {#sync-details}
             + [将自定义对象字段添加/删除为智能列表/触发器约束](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+            + [自定义对象同步](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
             + [默认Veeva字段映射](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
             + [启用/禁用自定义对象同步](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
-            + [人员帐户同步](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync.md)
+            + [人员帐户同步常见问题解答](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md)
             + [正在同步呼叫和呼叫密钥消息](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
-            + [Veva CRM自定义对象同步](product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md)
+         + Veva CRM流程操作 {#veeva-crm-flow-actions}
+            + [在Veeva中创建任务](product-docs/crm-sync/veeva-crm-sync/veeva-crm-flow-actions/create-task-in-veeva.md)
    + 需求生成 {#demand-generation}
       + 广告网络集成 {#ad-network-integrations}
          + [了解广告网络集成](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
