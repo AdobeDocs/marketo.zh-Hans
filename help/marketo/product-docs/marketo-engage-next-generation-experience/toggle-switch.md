@@ -2,16 +2,16 @@
 description: 切换开关 — Marketo文档 — 产品文档
 title: 切换开关
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # 切换开关 {#toggle-switch}
 
-切换开关允许您在Marketo的经典界面和新的下一代Marketo Engage体验之间切换。 它可在登陆页面列表视图和表单详细信息页面上使用。
+切换开关允许您在Marketo的经典界面和下一代Marketo Engage体验之间切换。 它适用于下面重点介绍的所有区域。 自2022年5月版起，默认情况下将启用下一代体验。
 
 >[!NOTE]
 >
@@ -99,14 +99,32 @@ ht-degree: 0%
 
 ![](assets/toggle-switch-17.png)
 
-## 为所有功能启用 {#enable-for-all-features}
+## “电子邮件模板详细信息”视图 {#email-template-details-view}
 
-您可以选择启用Marketo的下一代界面，以了解当前和即将推出的所有可用功能。
-
-1. 在当前具有切换开关的区域(在本例中，我们位于 [表单详细信息页面](#form-details-page))，请单击页面右下方的齿轮图标。
+1. 在Marketo中，选择 **Design Studio**.
 
    ![](assets/toggle-switch-18.png)
 
-1. 选择 **启用所有可用功能** 单击 **确定**.
+1. 选择所需的电子邮件模板。
 
    ![](assets/toggle-switch-19.png)
+
+1. 在页面的右下方，单击 **新体验** 切换。
+
+   ![](assets/toggle-switch-20.png)
+
+将加载新体验。
+
+![](assets/toggle-switch-21.png)
+
+## 为所有功能启用 {#enable-for-all-features}
+
+您可以选择手动启用Marketo的下一代界面，以获取所有可用功能（当前和即将提供）。
+
+1. 在当前具有切换开关的区域(在本例中，我们位于 [表单详细信息页面](#form-details-page))，请单击页面右下方的齿轮图标。
+
+   ![](assets/toggle-switch-22.png)
+
+1. 选择 **启用所有可用功能** 单击 **确定**.
+
+   ![](assets/toggle-switch-23.png)
