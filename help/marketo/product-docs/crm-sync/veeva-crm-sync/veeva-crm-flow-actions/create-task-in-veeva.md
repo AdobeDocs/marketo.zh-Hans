@@ -1,7 +1,8 @@
 ---
 description: 在Veeva - Marketo文档 — 产品文档中创建任务
 title: 在Veeva中创建任务
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
+source-git-commit: dfd0ab50a6d77cf88767cc6fb3fe3f2874e0607b
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

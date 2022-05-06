@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
+source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,8 @@ ht-degree: 0%
 **电子邮件验证和唯一性**:从4月开始，电子邮件验证将开始推出。 此时，Marketo Engage用户电子邮件地址将需要验证和唯一性（这不适用于仅API用户）。 通过“电子邮件验证”启用订阅后，经目录服务验证的用户将自动验证其电子邮件。
 
 使用“在邀请用户对话框中登录”功能或者具有一封与多个用户关联的电子邮件的订阅电子邮件验证将与5月版本同时发布。 如果订阅有一封与多个用户关联的电子邮件，则将启用电子邮件验证，并要求这些用户解决冲突，并为每个用户使用唯一的电子邮件。 启用“在邀请用户对话框中登录”功能后，通过此功能邀请的用户将需要具有唯一的电子邮件地址。 对于通过此功能邀请的仅限API的用户，电子邮件地址不必是唯一的。
+
+**存档文件夹行为更改**:在此版本中，树上下文菜单中将不再提供在存档文件夹中创建新资产的功能。 用于创建新资产的菜单选项将在所有资产中都处于隐藏状态。 [在此处了解更多](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}。
 
 **_产品发行网络研讨会_**
 
