@@ -2,9 +2,9 @@
 description: 配置 — Marketo文档 — 产品文档
 title: 配置
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,15 @@ ht-degree: 0%
 为了让聊天机器人显示在您的网站上，您首先需要安装动态聊天JavaScript代码片段。 单击此选项卡以查找/复制必需的代码。 如果您不熟悉此操作，请联系您的Web团队或IT部门以寻求帮助。
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>如果您的网站使用内容安全策略，您可能需要将以下URL列入白名单，以便聊天机器人能够按预期工作：
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
