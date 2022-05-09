@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
+source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 本机CRM集成 {#native-crm-integration}
 
-**本机Veeva CRM集成（可用性有限）**:通过本机集成在Veeva CRM和Marketo Engage之间同步活动，提高与医疗保健专业人士的参与度。 此集成允许营销人员为医疗保健专业人士创建更个性化、更无缝的跨渠道体验。 如果您有兴趣参与，请联系您的客户成功经理。
+**[本机Veeva CRM集成](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;}（可用性有限）**:通过本机集成在Veeva CRM和Marketo Engage之间同步活动，提高与医疗保健专业人士的参与度。 此集成允许营销人员为医疗保健专业人士创建更个性化、更无缝的跨渠道体验。 如果您有兴趣参与，请联系您的客户成功经理。
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 **排除动态聊天的URL**:控制动态聊天在上显示哪些网页，并能够从定位标准中排除特定URL。
 
-**电子邮件机器人活动筛选增强功能**:除了现有的IAB列表匹配标识之外，还能够根据隐藏的链接用户代理或IP和邻近模式识别机器人行为，从而继续保护数据库的运行状况。 查看机器人活动统计资料，以便您了解针对每种类型标识的机器人活动数量。
+**[电子邮件机器人活动筛选增强功能](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**:除了现有的IAB列表匹配标识之外，还能够根据隐藏的链接用户代理或IP和邻近模式识别机器人行为，从而继续保护数据库的运行状况。 查看机器人活动统计资料，以便您了解针对每种类型标识的机器人活动数量。
 
-**电子邮件跟踪链接的STS标头**:通过应用安全传输安全标头来确保跟踪链接的流量始终安全，从而满足安全最佳实践。
+**[电子邮件跟踪链接的STS标头](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**:通过应用安全传输安全标头来确保跟踪链接的流量始终安全，从而满足安全最佳实践。
 
 ## 新一代体验 {#next-generation-experience}
 
