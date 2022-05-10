@@ -2,16 +2,16 @@
 description: 正在同步调用和调用关键消息 — Marketo文档 — 产品文档
 title: 正在同步呼叫和呼叫密钥消息
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
 
 # 正在同步呼叫和呼叫密钥消息 {#syncing-call-and-call-key-messages}
 
-默认情况下，Veeva CRM中的调用和调用关键消息对象会同步到Marketo Engage。 Marketo会根据呼叫日期同步最长6个月的数据。
+默认情况下，Veeva CRM中的调用和调用关键消息对象会同步到Marketo Engage。 Marketo会根据呼叫创建日期同步最长6个月的数据。
 
 >[!NOTE]
 >
@@ -90,13 +90,6 @@ ht-degree: 0%
       <td>首次保存或提交调用的日期。 如果未提供日期或日期时间字段，则通过触发器将此字段设置为当前日期。</td>
       <td>Call_Date_vod__c</td>
       <td>日期</td>
-    </tr>
-    <tr>
-      <td>调用</td>
-      <td>详细产品</td>
-      <td>用于显示调用详细产品列表的帮助程序字段。 产品名称应使用双空格分隔，并按从左到右的优先级顺序排列。 此字段不控制处理，包含此字段可使相关列表和报表更加用户友好。</td>
-      <td>Detailed_Products_vod__c</td>
-      <td>文本区域(255)</td>
     </tr>
     <tr>
       <td>调用</td>

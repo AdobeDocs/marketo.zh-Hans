@@ -2,9 +2,9 @@
 description: 人员帐户同步常见问题解答 — Marketo文档 — 产品文档
 title: 人员帐户同步常见问题解答
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Engage会将整个数据库与Veeva同步，以获得人员帐户类型�
 
 >[!NOTE]
 >
->默认的Veeva帐户为Professionals。
+>我们仅将“专业”层帐户同步为“人员帐户”。
 
 **什么是个人帐户？**
 
@@ -49,7 +49,7 @@ Marketo Engage会将整个数据库与Veeva同步，以获得人员帐户类型�
 
 **潜在客户或联系人类型的记录是否与Veeva CRM同步？**
 
-Veeva CRM仅真正处理人员帐户对象，还具有业务帐户。 传统的CRM类型的潜在客户、联系人和机会在传统的Veeva CRM系统中并没有真正使用。 这些组件可以在Veeva CRM中创建，并且同步可能会将它们引入Marketo，但使用此连接器不会正式支持它们。
+Veeva CRM仅真正处理人员帐户对象，还具有业务帐户。 传统的CRM类型的潜在客户、联系人和机会在传统的Veeva CRM系统中并没有真正使用。 这些组件可以在Veeva CRM中创建，但使用此连接器不会正式支持它们。
 
 **我能将人员转换为Marketo中的联系人吗？**
 

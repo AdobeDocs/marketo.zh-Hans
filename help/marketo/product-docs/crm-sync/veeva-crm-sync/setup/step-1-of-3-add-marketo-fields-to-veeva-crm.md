@@ -2,7 +2,7 @@
 description: 步骤1（共3步） — 将Marketo字段添加到Veeva CRM - Marketo文档 — 产品文档
 title: 步骤1（共3步） — 将Marketo字段添加到Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 
 ## 将Marketo字段添加到Veeva CRM {#add-marketo-fields-to-veeva-crm}
 
-在上面列出的Veeva CRM中的潜在客户和联系人对象上添加三个自定义字段。 如果要添加更多，请参阅此部分末尾的可用字段表。
+在上面列出的Veeva CRM中的潜在客户和联系人对象上添加自定义字段。 如果要添加更多，请参阅此部分末尾的可用字段表。
 
 对“得分”字段执行以下步骤以添加该字段。
 
@@ -112,7 +112,7 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 
 >[!NOTE]
 >
->通过将字段添加到Contact对象，这些字段也会添加到Person Account帐户中。
+>通过将字段添加到联系人对象，这些字段也会添加到人员帐户对象。
 
 可选：请对下表中的任何其他自定义字段使用上述过程。
 
