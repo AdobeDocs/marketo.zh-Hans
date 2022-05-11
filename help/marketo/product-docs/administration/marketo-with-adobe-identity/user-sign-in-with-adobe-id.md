@@ -1,7 +1,8 @@
 ---
 description: 使用Adobe ID进行用户登录 — Marketo文档 — 产品文档
 title: 用户使用Adobe ID登录
-source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
+exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
+source-git-commit: 2dc497abab0f16e5196d4935be44b73164e4c695
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

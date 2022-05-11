@@ -3,9 +3,9 @@ unique-page-id: 6094890
 description: 发行说明 — 2015年2月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年2月
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,11 @@ ht-degree: 0%
 
 和将用以下域的更安全版本(SHA-2（即SHA-256）和TLS)替换当前使用的安全协议（SHA-1和SSL）：
 
-* [marketo.net](https://marketo.net) （加密的Munchkin流量）
+* marketo.net（加密的Munchkin流量）
 
 * [marketo.com](https://marketo.com) （主SaaS应用程序）
 
-此操作将在此版本发布后不久发生。 在2015年12月之前，将在[mktoapi.com](https://mktoapi.com)域上临时支持SHA-1协议，以允许旧版系统和应用程序的所有者使用SHA-2兼容性更新其系统。
+此操作将在此版本发布后不久发生。 SHA-1协议将在 [mktoapi.com](https://mktoapi.com) 域，以便旧版系统和应用程序的所有者能够使用SHA-2兼容性更新其系统。
 
 **安全蒙奇金**
 

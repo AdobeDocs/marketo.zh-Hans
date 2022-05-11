@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: 在Azure中注册应用程序以获取您的客户端ID/应用程序ID - Marketo文档 — 产品文档
 title: 在Azure中注册应用程序以获取您的客户端ID/应用程序ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Azure Active Directory将您的本地目录扩展到云中，为MS Dynamics 365 
 
 ## 注册新应用程序 {#registering-a-new-app}
 
-1. [登录](https://azure.microsoft.com/en-us/account/) 使用具有管理员权限的帐户访问Microsoft Azure管理门户。 您还可以通过Office 365管理中心，通过扩展 **管理员** 项目，然后选择 **Azure AD**.
+1. [登录](https://login.microsoftonline.com/){target=&quot;_blank&quot;}使用具有管理员权限的帐户到Microsoft Azure管理门户。 您还可以通过Office 365管理中心，通过扩展 **管理员** 项目，然后选择 **Azure AD**.
 
    >[!CAUTION]
    >
@@ -24,10 +24,10 @@ Azure Active Directory将您的本地目录扩展到云中，为MS Dynamics 365 
 
    >[!NOTE]
    >
-   >如果您没有Azure帐户，则可以 [注册](https://azure.microsoft.com/en-us/free/) 一个。 有关更多信息，请参阅Microsoft的文档或联系您的Microsoft代表。 创建Azure帐户后，可使用下面所述的过程注册一个或多个应用程序。
+   >如果您没有Azure帐户，则可以 [注册](https://azure.microsoft.com/en-us/free/){target=&quot;_blank&quot;}表示一个。 有关更多信息，请参阅Microsoft的文档或联系您的Microsoft代表。 创建Azure帐户后，可使用下面所述的过程注册一个或多个应用程序。
    >
    >
-   >如果您有Azure帐户，但Azure订阅中没有Microsoft Dynamics 365的Office 365订阅，请遵循 [这些说明](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) 将这两个帐户关联起来。
+   >如果您有Azure帐户，但Azure订阅中没有Microsoft Dynamics 365的Office 365订阅，请遵循 [这些说明](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target=&quot;_blank&quot;}关联这两个帐户。
 
 1. 查找并单击 **Azure Active Directory** 中。
 
