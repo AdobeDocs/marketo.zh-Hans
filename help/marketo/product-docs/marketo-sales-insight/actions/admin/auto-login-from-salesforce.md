@@ -2,7 +2,7 @@
 description: 从Salesforce自动登录 — Marketo文档 — 产品文档
 title: 从Salesforce自动登录
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 451b5cd8e11045de56ebf57c2b2312813d5d5668
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 要使用自动登录，请执行以下操作：
 
-* [登录管理设置](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md) 必须设置为“仅限Salesforce”
+* [登录管理设置](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) 必须设置为“仅限Salesforce”
 
 * 必须已邀请用户使用Sales Insight Actions
 
