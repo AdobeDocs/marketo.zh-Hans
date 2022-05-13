@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 0%
@@ -82,7 +82,7 @@ ht-degree: 0%
             + [SEO — 获取入站链接建议](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
             + [SEO — 删除/删除入站链接URL](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
             + [SEO — 了解入站链接](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-         + 报表 {#reports}
+         + 报告 {#reports}
             + [SEO — 使用竞争者KW趋势报表](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO — 使用关键词趋势报表](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + 管理 {#administration}
@@ -609,12 +609,12 @@ ht-degree: 0%
          + [添加或删除聊天用户](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [配置](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [动态聊天活动](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + 对话框 {#dialogues}
+         + 对话 {#dialogues}
             + [对话框概述](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [创建对话框](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [受众标准](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [流设计器](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [报表](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+            + [报告](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + 事件 {#events}
          + 了解事件 {#understanding-events}
             + [向事件程序添加成员](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -1279,7 +1279,6 @@ ht-degree: 0%
             + [如何设置自定义域跟踪](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [邀请用户和管理员](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [将销售活动属性记录到Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
-            + [登录管理设置](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [用户访问详细信息](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analytics {#analytics}
@@ -1307,6 +1306,11 @@ ht-degree: 0%
                + [回复日志记录](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce诊断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Salesforce同步设置](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+            + Salesforce配置 {#salesforce-configuration}
+               + [登录管理设置](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Salesforce中的Sales Insight操作配置](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [卸载Salesforce Classic自定义包](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [卸载Salesforce闪电自定义包](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + 电子邮件 {#email}
             + 命令中心 {#command-center}
                + [高级搜索概述](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1372,10 +1376,6 @@ ht-degree: 0%
             + [国际电话](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [本地存在](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [双方同意设置](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + Salesforce配置 {#salesforce-configuration}
-            + [Salesforce中的Sales Insight操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-            + [卸载Salesforce Classic自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-            + [卸载Salesforce闪电自定义包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + 发送销售电子邮件 {#send-a-sales-email}
             + [电子邮件跟踪概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + 任务 {#tasks}
@@ -1739,7 +1739,7 @@ ht-degree: 0%
          + [设置帐户分析](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [帐户分析插件概述](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [邀请用户访问帐户分析](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Target {#target}
+      + 目标 {#target}
          + 指定帐户 {#named-accounts}
             + [命名帐户概述](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [导入指定帐户](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
