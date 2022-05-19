@@ -2,9 +2,9 @@
 description: 面向非本机MS Dynamics集成的销售分析 — Marketo文档 — 产品文档
 title: 非本机MS Dynamics集成的Sales Insight
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
-source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
+source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
 workflow-type: tm+mt
-source-wordcount: '1439'
+source-wordcount: '1442'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >* 在开始设置MSI之前，为Marketo实例启用“MSI非本机”功能(如果未启用，且您已购买该功能，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} — 如果您尚未购买此功能，请联系您的客户成功经理)。
 >* 下载 [用于自定义同步的MSI包](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
->* MSI设置的MS Dynamics订阅([内部部署](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md){target=&quot;_blank&quot;}, [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;})。
+>* MSI设置的MS Dynamics订阅(我们仅支持 [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;})。
 >* Marketo REST API [成功设置](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}。 公开的CRUD API将是执行非本机同步的基础。
 >* 读取 [此博客帖子](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;}以了解对象和关系。
 
