@@ -2,10 +2,10 @@
 description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 0%
+source-wordcount: '780'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 公司字段数据
 * 活动数据
 
-## 对话框 {#dialogues}
+## 对话 {#dialogues}
 
 对话表示单个聊天项目。 将其视为一个容器，其中包含与网站访客进行引人入胜的聊天对话所需的所有内容。 在每个对话框中，您可以指定希望对话框显示在哪些页面上、希望将其显示给哪些对象，以及对话框本身的内容和流程。 此外，您还可以找到量度来查看对话框的效果。 [了解有关对话框的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
 
@@ -54,6 +54,10 @@ ht-degree: 0%
 在这里，您可以看到已连接其日历的所有座席的列表，以及将向网站访客显示的顺序。 会议是循规蹈矩的，所以如果你有五个特工和三号探员参加最后一次会议，四号探员会得到下一次会议，接着是五号探员，然后是一号探员。
 
 ## 常见问题解答 {#faq}
+
+**我可以在公司网站上的任意位置安装动态聊天吗？还是只能在Marketo登陆页面上使用动态聊天？**
+
+可以在任何网站和Marketo登陆页面上安装动态聊天JavaScript代码片段。
 
 **数据会存储多长时间以便进行报告？**
 
