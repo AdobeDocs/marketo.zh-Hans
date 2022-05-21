@@ -4,7 +4,7 @@ title: 开始使用Predictive Audiences
 hide: true
 hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -36,4 +36,3 @@ AI/ML模型的性能取决于订阅中的数据。 模型使用频率越高，�
 1. 将功能添加到实例后，导航到 **[!UICONTROL Predictive Audiences]** 页面 **[!UICONTROL 管理员]** Marketo地区。
 
 1. 检查 **[!UICONTROL 启用预测受众]** 来激活该功能。 请注意，所有进程可能需要长达24小时才能完成设置。
-

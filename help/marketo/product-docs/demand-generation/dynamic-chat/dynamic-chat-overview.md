@@ -1,174 +1,174 @@
 ---
-description: Dynamic Chat Overview - Marketo Docs - Product Documentation
-title: Dynamic Chat Overview
+description: 动态聊天概述 — Marketo文档 — 产品文档
+title: 动态聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '918'
 ht-degree: 1%
 
 ---
 
-# Dynamic Chat Overview {#dynamic-chat-overview}
+# 动态聊天概述 {#dynamic-chat-overview}
 
-Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
+通过动态聊天，您可以利用易于使用的界面来定位访问您网站的人员和帐户。 收集相关内容，如姓名、联系信息和自由文本。 网站访客还可以预订与销售团队的会议。 动态聊天活动和参与数据可用于向Marketo项目添加成员并触发跨渠道活动。
 
 >[!NOTE]
 >
->Dynamic Chat is in the process of being rolled out gradually and is currently in limited availability. This page will be updated with general availability (GA) details as they become available.
+>动态聊天正在逐步推出，目前的可用性有限。 此页面将在正式发布(GA)详细信息之后进行更新。
 
 >[!TIP]
 >
->[](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html)
+>访问 [本页](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) 查看动态聊天的教程视频。
 
 ## 集成 {#integrations}
 
-A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you’ll first need to initiate the data sync. [](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
+动态聊天的一个关键组件是其与Marketo订阅本机接口的功能。 为了利用此集成的全部功能，您首先需要启动数据同步。 根据Marketo数据库的大小，初始数据可能最多需要24小时， [一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) 完成。
 
-The following is synced:
+会同步以下内容：
 
-* Person field data
-* Company field data
-* Activity data
+* 人员字段数据
+* 公司字段数据
+* 活动数据
 
 ## 对话 {#dialogues}
 
-Dialogues represent a single chat engagement. Think of it as a container with all the stuff you need to have an engaging chat dialogue to your website visitors. In each Dialogue, you can specify which page(s) you’d like the Dialogue to appear on, to whom you&#39;d like it to be shown to, and the content and flow of the Dialogue itself. Additionally, you can find metrics to see how well your Dialogue is performing. [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
+对话表示单个聊天项目。 将其视为一个容器，其中包含与网站访客进行引人入胜的聊天对话所需的所有内容。 在每个对话框中，您可以指定希望对话框显示在哪些页面上、希望将其显示给哪些对象，以及对话框本身的内容和流程。 此外，您还可以找到量度来查看对话框的效果。 [了解有关对话框的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
 
 ## 配置 {#configuration}
 
-In the Configuration tab, customize the look and feel of your various Dialogues. Change font, colors, response time, and more! [](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md)
+在“配置”选项卡中，自定义各种对话框的外观。 更改字体、颜色、响应时间等！ [了解有关配置的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}。
 
-## Calendar {#calendar}
+## 日历 {#calendar}
 
-In the Calendar tab, connect your (Outlook or Gmail) calendar for use in appointment scheduling in the chatbot. Once a user’s calendar is connected to Dynamic Chat, that user will be added to the queue and their calendar will be available for website visitors to schedule appointments on.
+在“日历”选项卡中，连接您的（Outlook或Gmail）日历，以用于聊天机器人中的约会计划。 用户的日历连接到动态聊天后，该用户将被添加到队列，其日历将可供网站访客安排约会时间。
 
-You can also customize the body of the invite that&#39;s sent to the visitor when they schedule an appointment on the user’s calendar.
+您还可以自定义在用户日历上安排约会时发送给访客的邀请正文。
 
 ## 会议 {#meetings}
 
-This is where you&#39;ll see all of the appointments that have been scheduled by website visitors through your various Dialogues. Here you’ll find the email address of the person that booked the appointment, which agent they booked the appointment with, when the appointment is scheduled to occur, and whether the meeting has happened or not.
+在这里，您将看到网站访客通过各种对话安排的所有约会。 在此，您将找到预订约会的人的电子邮件地址、他们与哪位座席预订了约会、预定何时进行约会以及会议是否已发生。
 
 ## 路由 {#routing}
 
-This is where you can see a list of all the agents that have connected their calendars as well as what order they&#39;ll be presented to website visitors. Meetings go round robin style, so if you have five agents and agent three took the last meeting, agent four will get the next one, followed by agent five, then back to agent one.
+在这里，您可以看到已连接其日历的所有座席的列表，以及将向网站访客显示的顺序。 会议是循规蹈矩的，所以如果你有五个特工和三号探员参加最后一次会议，四号探员会得到下一次会议，接着是五号探员，然后是一号探员。
 
-## FAQ {#faq}
+## 常见问题解答 {#faq}
 
-****
+**我可以在公司网站上的任意位置安装动态聊天吗？还是只能在Marketo登陆页面上使用动态聊天？**
 
-The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo landing pages.
+可以在任何网站和Marketo登陆页面上安装动态聊天JavaScript代码片段。
 
-****
+**数据会存储多长时间以便进行报告？**
 
-[](#limits-in-dynamic-chat)
+90天(请参阅 [下面](#limits-in-dynamic-chat))。
 
-****
+**动态聊天是否允许进行实时聊天？**
 
-No, it only utilizes pre-determined responses.
+不会，它仅使用预先确定的响应。
 
-****
+**动态聊天支持除英语以外的任何语言吗？**
 
-Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. [](#changing-the-language)
+是的。 动态聊天支持以下语言：法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、韩语、简体中文和繁体中文。 在 [下方](#changing-the-language).
 
-****
+**是否支持AI/NLP功能？**
 
-We do not support AI/NLP functionality.
+我们不支持AI/NLP功能。
 
-****
+**如何定位匿名用户？**
 
-__
+在对话框中，您需要使用 _人员电子邮件为空_ 属性。
 
-## Changing the Language {#changing-the-language}
+## 更改语言 {#changing-the-language}
 
-Follow these steps to change your Dynamic Chat language.
+按照以下步骤更改动态聊天语言。
 
 >[!IMPORTANT]
 >
->__
+>在用户档案级别更改您的语言将更改 _全部_ Experience Cloud应用程序，而不只是动态聊天。
 
-1. ****
+1. 在您的Experience Cloud帐户中，单击设置图标，然后选择 **首选项**.
 
    ![](assets/dynamic-chat-overview-1.png)
 
-1. Click the current language under your email address.
+1. 单击您电子邮件地址下的当前语言。
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. ****
+1. 选择新语言（第二种语言是可选的）并单击 **保存**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >There are a few dozen languages to choose from, however, Dynamic Chat only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
+   >但是，动态聊天仅支持以下几十种语言可供选择：英语、法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、韩语、简体中文和繁体中文。
 
-When you update the language, everything in the app itself changes except for the words you&#39;ve personally populated (e.g., stream responses).
+当您更新语言时，应用程序本身中的所有内容都会发生更改，但您个人填充的词语（例如流响应）除外。
 
-## Limits in Dynamic Chat {#limits-in-dynamic-chat}
+## 动态聊天中的限制 {#limits-in-dynamic-chat}
 
 <table>
-  <th>Parameter</th>
+  <th>参数</th>
   <th>描述</th>
-  <th>Limit</th>
+  <th>限制</th>
  <tr>
-  <td>Total Dialogues</td>
-  <td>Total number of Dialogues (published and draft)</td>
+  <td>对话框总数</td>
+  <td>对话总数（已发布和草稿）</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>Published Dialogues</td>
-  <td>Number of published Dialogues saved</td>
+  <td>已发布的对话框</td>
+  <td>保存的已发布对话框数</td>
   <td>100</td>
  </tr>
  <tr>
-  <td>Target URLs per Dialogue</td>
-  <td>Number of Target URLs that can be added to a single Dialogue</td>
+  <td>每个对话框的目标URL</td>
+  <td>可添加到单个对话框的Target URL数量</td>
   <td>20</td>
  </tr>
  <tr>
-  <td>Attributes per Dialogue</td>
-  <td>Number of attributes that can be added to audience criteria for a single Dialogue</td>
+  <td>每个对话框的属性</td>
+  <td>可添加到单个对话框的受众标准的属性数量</td>
   <td>100</td>
  </tr>
  <tr>
-  <td>Groups</td>
-  <td>Number of groups that can be added to a single Dialogue</td>
+  <td>群组</td>
+  <td>可添加到单个对话框的组数</td>
   <td>10</td>
  </tr>
  <tr>
-  <td>Attributes per Group</td>
-  <td>Number of attributes that can be added to a group</td>
+  <td>每组属性</td>
+  <td>可添加到群组的属性数</td>
   <td>10</td>
  </tr>
  <tr>
-  <td>Cards</td>
-  <td>Number of cards that can be added to the canvas per Dialogue</td>
+  <td>卡片</td>
+  <td>每个对话框可添加到画布的卡片数</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>Anonymous Lead Data Retention Period</td>
-  <td>Duration for how long information of an anonymous lead without any engagement will be retained</td>
-  <td>90 days</td>
+  <td>匿名潜在客户数据保留期</td>
+  <td>匿名潜在客户信息在没有任何参与的情况下将保留多长时间</td>
+  <td>90天</td>
  </tr>
  <tr>
-  <td>Goal Activity Retention Period</td>
-  <td>Amount of time goal activity data is retained</td>
-  <td>24 months</td>
+  <td>目标活动保留期</td>
+  <td>保留目标活动数据的时长</td>
+  <td>24个月</td>
  </tr>
  <tr>
-  <td>Document Activity Retention Period</td>
-  <td>Amount of time document activity data is retained</td>
-  <td>24 months</td>
+  <td>记录活动保留期</td>
+  <td>保留文档活动数据的时间</td>
+  <td>24个月</td>
  </tr>
  <tr>
-  <td>Interacted w/ Dialogue Activity Retention Period</td>
-  <td>Amount of time interacted with Dialogue activity data is retained</td>
-  <td>90 days</td>
+  <td>与对话活动保留期进行交互</td>
+  <td>与Dialog活动数据交互的时长将保留</td>
+  <td>90天</td>
  </tr>
  <tr>
-  <td>Meeting Booking Activity Retention Period</td>
-  <td>Amount of time meeting booking activity will be stored in Dynamic Chat</td>
-  <td>24 months</td>
+  <td>会议预订活动保留期</td>
+  <td>会议预订活动将存储在动态聊天中的时长</td>
+  <td>24个月</td>
  </tr>
 </table>

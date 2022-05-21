@@ -1,75 +1,75 @@
 ---
-description: Audience Criteria - Marketo Docs - Product Documentation
+description: 受众标准 — Marketo文档 — 产品文档
 title: 受众标准
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 1%
 
 ---
 
 # 受众标准 {#audience-criteria}
 
-Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown people using inferred, person, or company attributes (or a combination thereof).
+与Marketo智能列表类似，受众标准属性允许您定义目标受众。 您可以使用推断出的、人员或公司属性（或其组合）来定位已知或未知的人员。
 
-****
+**已知人员**
 
-__****
+有 _许多_ 属性组合进行选择。 在本例中，我们定位了所有 **已知人员** 在一家员工超过50人的公司工作。
 
-1. ****
+1. 抓住 **人员状态** 属性并将其拖动到右侧。
 
    ![](assets/audience-criteria-1.png)
 
-1. __ In the Select Values field, type in CA (you can also click the drop-down and select from the list).
+1. _是_ 设置。 在选择值字段中，键入CA（您还可以单击下拉菜单并从列表中选择）。
 
    ![](assets/audience-criteria-2.png)
 
-1. ****__
+1. 抓住 **公司规模** 属性并将其拖动到其中显示的位置 _在此处拖放属性_.
 
    ![](assets/audience-criteria-3.png)
 
    >[!NOTE]
    >
-   >****
+   >您还可以通过单击 **+** 图标。
 
-1. ****
+1. 单击运算符下拉列表，然后选择 **大于**.
 
    ![](assets/audience-criteria-4.png)
 
-1. Type 50 and click elsewhere on the screen to save.
+1. 键入50，然后单击屏幕上的其他位置进行保存。
 
    ![](assets/audience-criteria-5.png)
 
-And that&#39;s it!
+就这样！
 
-****
+**匿名人员**
 
-There&#39;s an easy way to specifically target people who are not in your database yet. ****
+有一种简单的方法可以专门定位尚未在数据库中的人员。 在本例中，我们定位了所有 **匿名人员** 在纽约地区。
 
-1. ****
+1. 抓住 **人员电子邮件** 属性并将其拖动到右侧。
 
    ![](assets/audience-criteria-6.png)
 
-1. ****
+1. 单击运算符下拉列表，然后选择 **为空**.
 
    ![](assets/audience-criteria-7.png)
 
-1. ****__
+1. 抓住 **推断状态** 属性并将其拖动到其中显示的位置 _在此处拖放属性_.
 
    ![](assets/audience-criteria-8.png)
 
    >[!NOTE]
    >
-   >[](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)We look up their IP in a special database and infer all kinds of good info.
+   >当有人访问您的网站时， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 给他们点饼干，然后放到系统中。 我们在一个特殊的数据库中查找他们的IP信息，并推断出各种好信息。
 
-1. __ In the Select Values field, type in NY (you can also click the drop-down and select from the list).
+1. _是_ 设置。 在选择值字段中，键入NY（您也可以单击下拉菜单并从列表中选择）。
 
    ![](assets/audience-criteria-9.png)
 
-## Add Groups {#add-groups}
+## 添加群组 {#add-groups}
 
-You have the option of grouping attributes as well, in case you want to have all of certain attributes along with &quot;all or any&quot; of another. You can add multiple groups.
+如果您希望具有所有特定属性以及“全部或任意”其他属性，则还可以选择对属性进行分组。 您可以添加多个群组。
 
 ![](assets/audience-criteria-10.png)
 
@@ -77,9 +77,9 @@ You have the option of grouping attributes as well, in case you want to have all
 
 ## 目标 {#target}
 
-This is where you enter the URL(s) that you want a specific Dialogue to be shown on. You also have the option of adding exclusions.
+在这里，您可以输入希望显示特定对话框的URL。 您还可以选择添加排除项。
 
-Acceptable formats:
+可接受的格式：
 
 * `http://website.com`
 * `https://*.website.com`
@@ -88,15 +88,17 @@ Acceptable formats:
 
 >[!NOTE]
 >
->Using an asterisk acts as a catch-all wilcard. `https://*.website.com``support.website.com``https://website.com/folder/*`
+>使用星号可充当通用通配符。 所以 `https://*.website.com` 会在网站的每个页面上都放置对话框，包括子域(例如： `support.website.com`)。 和 `https://website.com/folder/*` 会将对话框置于后续文件夹中的每个HTML页面(例如：在本例中，假设文件夹为“sports”，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
 
-**** Exclusions follow the same format as inclusions.
+**排除项**
+
+使用排除项确保对话框已执行 **not** 显示在网站的特定页面/区域上。 排除项与包含项的格式相同。
 
 ![](assets/audience-criteria-12.png)
 
 >[!MORELIKETHIS]
 >
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+>* [创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
+>* [流设计器](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
+>* [报表](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
 
