@@ -2,10 +2,10 @@
 description: 受众标准 — Marketo文档 — 产品文档
 title: 受众标准
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -13,9 +13,31 @@ ht-degree: 1%
 
 与Marketo智能列表类似，受众标准属性允许您定义目标受众。 您可以使用推断出的、人员或公司属性（或其组合）来定位已知或未知的人员。
 
+## 事件 {#events}
+
+![](assets/audience-criteria-0.png)
+
+利用事件，可根据访客的滚动量或页面/网站上的时长来定位访客。 在以下示例中，我们定位的是在特定页面上停留超过20秒的访客。
+
+1. 抓住 **页面逗留时间** 事件并将其拖动到右侧。
+
+   ![](assets/audience-criteria-0a.png)
+
+1. 将“大于”时间设置为20秒。
+
+   ![](assets/audience-criteria-0b.png)
+
+1. 在 [Target](#target) 中。
+
+   ![](assets/audience-criteria-0c.png)
+
+## 属性 {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **已知人员**
 
-有 _许多_ 属性组合进行选择。 在本例中，我们定位了所有 **已知人员** 在一家员工超过50人的公司工作。
+有 _许多_ 属性组合进行选择。 在以下示例中，我们定位了所有 **已知人员** 在一家员工超过50人的公司工作。
 
 1. 抓住 **人员状态** 属性并将其拖动到右侧。
 
