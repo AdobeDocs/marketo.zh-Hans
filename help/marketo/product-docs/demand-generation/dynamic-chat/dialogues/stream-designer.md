@@ -2,10 +2,10 @@
 description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 0%
+source-wordcount: '630'
+ht-degree: 3%
 
 ---
 
@@ -28,15 +28,19 @@ ht-degree: 0%
   <td>当您想要提出多选问题时，可使用该问题提供可用的响应(例如：你对哪种车感兴趣？ 响应= SUV、紧凑型、卡车等)。</td>
  </tr>
  <tr>
+  <td><strong>文档</strong></td>
+  <td>允许您在对话框中嵌入PDF文档，并跟踪访客的文档参与活动（查看了多少页面、已下载了文档，和/或使用了任何搜索词）。</td>
+ </tr>
+ <tr>
   <td><strong>信息捕获</strong></td>
   <td>在要收集信息时使用。 要选择的三个字段是“电子邮件地址”、“电话号码”和“文本”（允许访客自行编写消息）。</td>
  </tr>
  <tr>
-  <td><strong>日程安排计划程序</strong></td>
+  <td><strong>预约调度程序</strong></td>
   <td>为访客提供可用日期的日历以安排后续活动。 日历可用性反映 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">下一位代理排队</a>.</td>
  </tr>
  <tr>
-  <td><strong>意愿</strong></td>
+  <td><strong>目标</strong></td>
   <td>这是访客看不到的唯一一张卡。 您可以确定在特定聊天中的哪个时间点实现目标(例如：如果您的目标是收集访客的电子邮件，请将目标卡片放在流中信息捕获之后立即放置。)</td>
  </tr>
 </table>
