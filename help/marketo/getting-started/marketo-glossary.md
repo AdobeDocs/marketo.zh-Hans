@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo术语表 — Marketo文档 — 产品文档
 title: Marketo术语表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4196'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>帐户列表</strong></td> 
-   <td>关键帐户/组织名称列表。 也称为基于帐户的营销(<strong>反弹道导弹</strong>)列表。</td> 
+   <td>关键帐户/组织名称列表。 也称为Account-Based Marketing(<strong>反弹道导弹</strong>)列表。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>帐户分析</strong></td> 
@@ -47,7 +47,7 @@ ht-degree: 0%
    <td colspan="1">在 <strong>TAM</strong>，它是分配给帐户的分数，可帮助您确定其参与度级别。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>客户获取日期</strong></td> 
+   <td colspan="1"><strong>获取日期</strong></td> 
    <td colspan="1">人员在Marketo中变为已知的日期。 此日期对应于 <strong>客户获取计划</strong> 那个人。</td> 
   </tr> 
   <tr> 
@@ -59,7 +59,7 @@ ht-degree: 0%
    <td colspan="1">（以前称为Ad Bridge）一种将Marketo的独特受众数据连接到付费媒体系统的方法，以便您能够运行更具针对性、个性化的数字广告营销活动。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>AdobeMarketo Engage</strong></td> 
+   <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
    <td colspan="1">Marketo在Adobe Experience Cloud内所有产品的汇总的官方品牌名称。</td> 
   </tr> 
   <tr> 
@@ -241,7 +241,7 @@ ht-degree: 0%
     <div> 
      <p><strong> 数据库</strong></p> 
     </div></td> 
-   <td>的 <strong>AdobeMarketo Engage</strong>. 数据库是所有 <strong>人员</strong> 记录。</td> 
+   <td>的 <strong>Adobe Marketo Engage</strong>. 数据库是所有 <strong>人员</strong> 记录。</td> 
   </tr> 
   <tr> 
    <td><strong>重复数据消除</strong></td> 
@@ -268,11 +268,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1">的 <strong>AdobeMarketo Engage</strong>. Design Studio是您的家 <strong>资产</strong>，例如： <strong>登陆页面</strong>，表单， <strong>电子邮件</strong>, <strong>片段</strong>和图像/文件。</td> 
+   <td colspan="1">的 <strong>Adobe Marketo Engage</strong>. Design Studio是您的家 <strong>资产</strong>，例如： <strong>登陆页面</strong>，表单， <strong>电子邮件</strong>, <strong>片段</strong>和图像/文件。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>文档</strong></td> 
-   <td colspan="1">文档简称，文档是帮助客户更好地了解产品的文章。 Marketo有几种不同类型的文档：产品文档（您当前所在的网站）、 <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> 文档， <a href="https://developers.marketo.com/" rel="nofollow">开发人员</a> 文档和 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支持</a> 文档。</td> 
+   <td colspan="1">文档简称，文档是帮助客户更好地了解产品的文章。 Marketo有几种不同类型的文档：产品文档（您当前所在的网站）、 <a href="https://developers.marketo.com/" rel="nofollow">开发人员</a> 文档和 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支持</a> 文档。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>基于域的消息身份验证、报告与符合性(DMARC)</strong></td> 
@@ -481,7 +481,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>商机</strong></td> 
-   <td>在 <strong>AdobeMarketo Engage</strong>，则前一个术语(替换为 <strong>人员</strong>)用于描述Marketo中的个人 <strong>数据库</strong> 您通过营销活动参与的活动。 在 <strong>CRM</strong>，则潜在客户可以代表不同的概念(即与 <strong>机会</strong>)独立于Marketo的功能。</td> 
+   <td>在 <strong>Adobe Marketo Engage</strong>，则前一个术语(替换为 <strong>人员</strong>)用于描述Marketo中的个人 <strong>数据库</strong> 您通过营销活动参与的活动。 在 <strong>CRM</strong>，则潜在客户可以代表不同的概念(即与 <strong>机会</strong>)独立于Marketo的功能。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>潜在客户数据库</strong></td> 
@@ -511,7 +511,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>营销活动</strong></td> 
-   <td><p>AdobeMarketo Engage的核心部分之一。 这是您的 <strong>营销活动</strong> 进行编排。 所有 <strong>项目</strong>、营销活动和 <strong>营销活动文件夹</strong> (以及 <strong>本地资产</strong>)就住这里。</p></td> 
+   <td><p>Adobe Marketo Engage的核心部分之一。 这是您的 <strong>营销活动</strong> 进行编排。 所有 <strong>项目</strong>、营销活动和 <strong>营销活动文件夹</strong> (以及 <strong>本地资产</strong>)就住这里。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>营销自动化</strong></a></td> 
@@ -522,7 +522,7 @@ ht-degree: 0%
    <td colspan="1">在培养了受众的一个区段后，某些人可能会成为符合营销资格的潜在客户，这意味着他们展现了符合您成功标准的行为和特征，以便被传递给您的销售组织以进行跟踪。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>营销已暂停</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>营销暂停</strong></a></td> 
    <td colspan="1">此字段由 <strong>用户</strong> 在Marketo <strong>数据库</strong> 暂时取消邮件。</td> 
   </tr> 
   <tr> 
@@ -555,7 +555,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>我的Marketo</strong></td> 
-   <td colspan="1">AdobeMarketo Engage的标准部分之一。 充当您的Marketo“主页”，显示您有权访问的Marketo所有部分的图块。</td> 
+   <td colspan="1">Adobe Marketo Engage的标准部分之一。 充当您的Marketo“主页”，显示您有权访问的Marketo所有部分的图块。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>我的令牌</strong></a></td> 
