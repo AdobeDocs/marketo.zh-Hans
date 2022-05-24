@@ -4,16 +4,16 @@ title: 了解目标跟踪和预计注册
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '963'
 ht-degree: 0%
 
 ---
 
 # 了解目标跟踪和预计注册 {#understanding-goal-tracking-and-projected-registrations}
 
-之后 [设置事件目标](/help/sky/setting-event-goals.md) 通过 [智能营销活动](/help/sky/create-a-smart-campaign.md)，下面介绍如何跟踪目标进度并了解Marketo的预测。
+以下是如何跟踪目标进度并了解Marketo的预测。
 
 >[!NOTE]
 >
