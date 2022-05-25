@@ -1,11 +1,10 @@
 ---
 description: 使用文档卡 — Marketo文档 — 产品文档
 title: 使用文档卡
-hide: true
-hidefromtoc: true
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
+source-git-commit: 3df0369a963bd9c918fdeb819d503584c27cd5f1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -28,15 +27,19 @@ ht-degree: 0%
 
    ![](assets/using-the-document-card-3.png)
 
+   >[!IMPORTANT]
+   >
+   >您将需要使用托管该聊天机器人的域（例如，如果您在mycompany.com上托管该聊天机器人，请确保在步骤4中输入该域）。
+
 1. 单击 **复制** 以复制您的客户ID。
 
    ![](assets/using-the-document-card-4.png)
 
-1. 返回动态聊天，单击 **集成**. 单击Adobe PDF嵌入API下的数据，然后选择 **编辑配置**.
+1. 返回动态聊天，单击 **集成**. 在Adobe PDF嵌入API卡中，单击 **激活**.
 
    ![](assets/using-the-document-card-5.png)
 
-1. 粘贴您的客户端ID并单击 **更新**.
+1. 粘贴您的客户端ID并单击 **保存**.
 
    ![](assets/using-the-document-card-6.png)
 
