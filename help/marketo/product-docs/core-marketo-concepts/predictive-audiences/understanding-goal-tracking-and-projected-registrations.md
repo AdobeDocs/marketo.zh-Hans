@@ -4,9 +4,9 @@ title: 了解目标跟踪和预计注册
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 了解目标跟踪和预计注册 {#understanding-goal-tracking-and-projected-registrations}
 
 以下是如何跟踪目标进度并了解Marketo的预测。
+
+>[!PREREQUISITES]
+>
+>要访问这些功能的大多数，请务必启用 [下一代切换](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}（用于事件程序）。
 
 >[!NOTE]
 >

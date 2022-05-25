@@ -1,12 +1,10 @@
 ---
 description: 预测受众快速入门 — Marketo文档 — 产品文档
 title: 开始使用Predictive Audiences
-hide: true
-hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,7 +19,7 @@ PA包括以下功能：
 * [预测过滤器](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
 * [模型和影响因素](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
 * 基于AI/ML的分析
-* [目标跟踪和预计注册](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;}（目标跟踪仅适用于为事件程序启用下一代切换开关的用户 — 要访问此切换开关，请联系您的CSM并请求预测受众）
+* 目标跟踪和预计注册 — （目标跟踪仅适用于为事件程序启用下一代切换开关的用户 — 以访问此切换开关，联系您的CSM并请求预测受众）
 
 >[!NOTE]
 >
