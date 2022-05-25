@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: 发行计划 — Marketo文档 — 产品文档
 title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
+source-git-commit: 5d8a129e29d56c0f997d1ef141977469b0afc1a8
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 1%
 
 ---
@@ -47,14 +47,14 @@ _发行日期可能会有变_
    <td>已发运</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">’22年5月</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-may-22.md">’22年5月</a></td>
    <td>2022年5月6日</td>
-   <td>正在进行</td>
+   <td>已发运</td>
   </tr>
   <tr> 
-   <td>’22年6月</td>
+   <td><a href="/help/marketo/release-notes/current.md">’22年6月</td>
    <td>2022年6月24日</td>
-   <td>按计划</td>
+   <td>正在进行</td>
   </tr>
   <tr> 
    <td>’22年8月</td>
