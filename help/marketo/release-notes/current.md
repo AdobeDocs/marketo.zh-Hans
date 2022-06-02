@@ -2,7 +2,7 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40e88a573079b87b3af9a653d8e0b64b5b7522bc
+source-git-commit: 3fe29ccb26e72b593f8b410a45a4871e68fb5fa8
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 0%
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-* **Forms弃用 — Forms 1.0、潜在客户捕获/保存端点和无脚本版本的表单**:对Forms 1.0资产的支持将于2022年10月从Marketo Engage中完全删除。 所有现有的Forms 1.0资产都将停止运行。 Marketo Engage表单需要JavaScript才能加载登陆页面和网站。
+* **Forms弃用 — Forms 1.0、潜在客户捕获/保存端点和无脚本版本的表单**:对Forms 1.0资产的支持将在2022年10月之前从Marketo Engage中完全删除。 所有现有的Forms 1.0资产都将停止运行。 Marketo Engage表单需要JavaScript才能加载登陆页面和网站。
 
 **_产品发行网络研讨会_**
 
