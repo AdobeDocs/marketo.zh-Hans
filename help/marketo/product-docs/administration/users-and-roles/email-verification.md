@@ -4,16 +4,16 @@ title: 电子邮件验证
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
+source-git-commit: e76a79927666cf4b197b8acd2e60a3756cc6f2b0
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 电子邮件验证 {#email-verification}
 
-AdobeMarketo Engage订阅要求所有非API用户验证其电子邮件地址。 单点登录(SSO)用户在启用“电子邮件验证”后，将自动验证其电子邮件。
+Adobe Marketo Engage订阅要求所有非API用户验证其电子邮件地址。 单点登录(SSO)用户在启用“电子邮件验证”后，将自动验证其电子邮件。
 
 **用户邀请**
 
@@ -21,7 +21,7 @@ AdobeMarketo Engage订阅要求所有非API用户验证其电子邮件地址。 
 
 **更改电子邮件地址**
 
-当用户的电子邮件地址发生更改时，该地址会变为未验证。 系统会向他们发送电子邮件，以便他们重新验证。 管理员可以通过单击 **重新发送验证**.
+当用户的电子邮件地址发生更改时，该地址会变为未验证。 系统会向他们发送电子邮件，以便他们重新验证。 用户可以通过单击 **重新发送验证**.
 
 ![](assets/email-verification-1.png)
 
@@ -33,4 +33,4 @@ AdobeMarketo Engage订阅要求所有非API用户验证其电子邮件地址。 
 
 ![](assets/email-verification-3.png)
 
-要验证未验证的用户，只需选择其记录并单击 **验证电子邮件** 按钮。
+要向未验证的用户重新发送验证电子邮件，只需选择其记录并单击 **验证电子邮件** 按钮。
