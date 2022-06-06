@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce企业/无限制 — Marketo文档 — 产品文档中配置Marketo销售分析
 title: 在Salesforce企业/无限制中配置Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '888'
 ht-degree: 0%
 
 ---
@@ -113,6 +113,10 @@ ht-degree: 0%
 1. 将高度编辑为 **450** 像素和单击 **确定**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
+
+   >[!NOTE]
+   >
+   >检查 **显示滚动条** 如果您需要访问滚动浏览活动，请执行以下操作：
 
    >[!TIP]
    >
