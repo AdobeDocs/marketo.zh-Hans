@@ -1,12 +1,10 @@
 ---
 description: 了解目标跟踪和预计注册 — Marketo文档 — 产品文档
 title: 了解目标跟踪和预计注册
-hide: true
-hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -27,23 +25,27 @@ ht-degree: 0%
 
 1. 您可以在 **[!UICONTROL 报表]** 选项卡。 在这一具体例子中，到目前为止有150名注册成员，而目标是200(75%)。
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
 您还将看到 **[!UICONTROL 预计]** 注册。 将鼠标悬停在信息图标上，可查看按似然区段划分的此数字。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
 >[!NOTE]
 >
 >在活动召开之前，已出席和较高级别的图表将保持为空。
 
+如果尚未启用切换开关，请查看此开关在Marketo类UI中的显示方式：
+
+![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
+
 1. 单击图表切换开关以按注册可能性切换到成员的划分。 您将看到每个区段的当前注册百分比，而该区段在您的过去项目中的平均百分比。
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
 所有成员（已注册且尚未注册）均根据其注册可能性进行分类。 将鼠标悬停在信息图标上可查看如何定义这些可能性类别。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
@@ -62,19 +64,19 @@ PICC
 * 从事件创建到事件开始的持续时间
 * 事件持续时间
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recommendations
 
 在“报表”页面顶部，您可以根据进度找到AI/ML驱动的推荐。 请定期回访，以获取有用的提示和洞察！
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## 人员级别预测
 
 单击 **[!UICONTROL 成员]** 选项卡来查看所有项目成员。 将鼠标悬停在 **[!UICONTROL 注册可能性]** 或 **[!UICONTROL 出席率]** 栏以查看确切百分比和分类。 然后，您可以对特定类别中的成员（例如，“不太可能”中的每个成员注册类别）采取操作，并特别针对他们以潜在地增加您的注册数量。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
 >[!NOTE]
 >
@@ -110,7 +112,7 @@ ii. 24小时后， [!UICONTROL 报表] 选项卡，您可以查看根据登记�
 
 三。 如果预计的注册数低于目标值，则必须邀请更多人员。 此时，您可以看到一些洞察信息，告诉您过去的项目中哪个阈值有效。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-9.png)
 
 四。 您可以使用该阈值创建新的智能营销活动，以邀请更多人。
 
@@ -124,7 +126,7 @@ v.如果您想在任何时间点了解显示预计数字的原因，可以切换
 
 **蓝色条：** 该区段中所有人员的注册百分比。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 例如，假设100人有可能注册超过50%，而在100人中，有60人可能注册。 极有可能发生60%的转化。 因此，添加到程序的所有成员都获得注册值的可能性，然后将它们放入区段中，并根据每个区段转化率中注册的人数计算它们。
 
@@ -134,10 +136,10 @@ PICC
 
 您可以为事件程序创建新的晋升状态，但我们会将这些状态映射为标准状态。 假设某人从受邀转到被提醒，这比注册要高。 此人员还将被视为已注册并显示在目标跟踪中。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
 **问：如何计算预计的注册量？**
 
 答：请参阅下文。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-12.png)
