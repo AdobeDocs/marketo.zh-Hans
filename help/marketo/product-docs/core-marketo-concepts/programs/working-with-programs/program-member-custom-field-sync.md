@@ -3,10 +3,10 @@ description: 计划成员自定义字段 — Marketo文档 — 产品文档
 title: 程序成员自定义字段
 hide: true
 hidefromtoc: true
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 4%
 >
 >程序成员对象最多可以有20个自定义字段。 这些字段可用于任何程序。
 
-## 将Salesforce字段映射到程序成员字段 {#map-salesforce-fields-to-program-member-fields}
+## 将Salesforce字段映射到程序成员自定义字段 {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. 在Marketo中，单击 **管理员**.
 
@@ -44,7 +44,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >该下拉列表将仅显示与Salesforce字段数据类型匹配的程序成员自定义字段。
+   >下拉列表将仅显示与Salesforce字段的数据类型匹配的程序成员自定义字段。
 
 1. 对于其他字段映射，请清除搜索框并重复步骤3至5。
 
@@ -60,7 +60,7 @@ ht-degree: 4%
    >
    >如果在Salesforce中重命名或更改字段的数据类型，我们将删除该字段与程序成员自定义字段的任何映射。 但是，您可以在审核后使用新字段重新映射它。
 
-## 将Salesforce字段取消映射到程序成员字段 {#unmap-salesforce-fields-to-program-member-fields}
+## 从程序成员自定义字段中取消映射Salesforce字段 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 如果您想要释放字段以替换它，或只是进行一般更改，则必须先执行取消映射。 这是方法。
 
@@ -88,7 +88,7 @@ ht-degree: 4%
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## 数据类型映射 {#datatype-mapping}
+## 数据类型映射 {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -98,7 +98,7 @@ ht-degree: 4%
   <tbody>
     <tr>
       <th>SFDC数据类型</th>
-      <th>程序成员字段数据类型</th>
+      <th>程序成员自定义字段数据类型</th>
     </tr>
     <tr>
       <td>文本</td>
