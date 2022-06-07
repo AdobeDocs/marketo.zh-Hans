@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
 workflow-type: tm+mt
-source-wordcount: '8775'
+source-wordcount: '8780'
 ht-degree: 0%
 
 ---
@@ -384,6 +384,7 @@ ht-degree: 0%
             + [本地资产过期](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [管理和查看成员](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [程序成员自定义字段](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
+            + [程序成员自定义字段同步](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
             + [将SFDC营销活动与项目同步](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [了解期间成本](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [了解标记](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
