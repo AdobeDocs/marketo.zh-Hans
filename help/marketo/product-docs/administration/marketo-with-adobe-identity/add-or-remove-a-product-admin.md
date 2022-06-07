@@ -2,9 +2,9 @@
 description: 添加或删除产品管理员 — Marketo文档 — 产品文档
 title: 添加或删除产品管理员
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 >**系统** 仅在Adobe组织级别创建管理员。 如果您认为需要多个，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## 添加产品管理员 {#add-a-product-admin}
+
+>[!IMPORTANT]
+>
+>必须将管理员添加到产品配置文件，才能访问Marketo Engage。
 
 1. 登录到 [Adobe Admin Console](https://adminconsole.adobe.com/).
 

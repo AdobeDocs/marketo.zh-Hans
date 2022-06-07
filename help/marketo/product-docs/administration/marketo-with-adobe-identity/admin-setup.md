@@ -2,9 +2,9 @@
 description: 管理员设置 — Marketo文档 — 产品文档
 title: 管理员设置
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 将您添加为Adobe系统管理员以在Adobe组织中Marketo Engage后，需要执行一些步骤才能完成初始设置。
 
-## 系统管理员设置 {#system-admin-setup}
+## 初始设置 {#initial-setup}
 
 1. 将您添加为指定的系统管理员以进行Marketo Engage（在新组织或已建立的组织中）后，您将收到一封欢迎电子邮件。 在该电子邮件中，单击 **入门**.
 
    ![](assets/admin-setup-1.png)
 
-1. 如果您之前使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有， [设置Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. 如果您之前使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有， [设置Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}。
 
    ![](assets/admin-setup-2.png)
 
@@ -53,4 +53,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[添加或删除产品管理员](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>[添加或删除产品管理员](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target=&quot;_blank&quot;}
