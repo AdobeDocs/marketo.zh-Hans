@@ -2,9 +2,9 @@
 description: 快速指南 — Marketo文档 — 产品文档
 title: 快速指南
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 4dbf9afa79533034c040fa6fe9756e0fa7c0fbcd
+source-git-commit: 37459d7e72a5719d1b963922071456aff5c3d120
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 下面列出的文章将帮助您设置并了解有关Marketo Engage的AdobeIdentity Management。
 
-## 系统管理员 {#system-admin}
+## 系统管理员设置 {#system-admin-setup}
 
 产品配置文件和产品管理员创建。
-
-[系统管理员访问权限](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#system-admin-setup){target=&quot;_blank&quot;}
 
 [创建产品配置文件](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target=&quot;_blank&quot;}
 
