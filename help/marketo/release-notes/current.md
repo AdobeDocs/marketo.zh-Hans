@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3fe29ccb26e72b593f8b410a45a4871e68fb5fa8
+source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,8 @@ ht-degree: 0%
 * **我的Marketo磁贴更新 — Sales Insight操作**:Marketo管理员（及其指定的用户）现在可以通过位于“我的Marketo”页面上的新“销售分析操作”拼贴，快速导航到其“销售分析操作”实例。
 
 ## Sales Connect {#sales-connect}
+
+![（星号）](assets/yellow-star.png)
 
 * **Salesforce API更新**:在’22年夏季发布的Salesforce中，Salesforce将不再支持API旧版21 -30。 在此Marketo Engage版本中，所有使用旧版API的Sales Connect请求都已更新，以保持在受支持的版本内。 有关Salesforce API报废计划的完整详细信息，请单击 [此处](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}。
 
