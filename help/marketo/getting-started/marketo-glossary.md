@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo术语表 — Marketo文档 — 产品文档
 title: Marketo术语表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
+source-wordcount: '4203'
 ht-degree: 0%
 
 ---
@@ -28,19 +28,15 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>帐户</strong></td> 
-   <td colspan="1">此术语可具有不同的含义：<br> — 您的Marketo实例本身可以称为Marketo帐户。<br>-In <strong>反弹道导弹</strong>, a <strong>指定帐户</strong> 是用户确定的要追踪的目标帐户。<br> — 在ABM中，CRM帐户是从链接的 <strong>CRM</strong> (帐户在 <strong>Salesforce</strong>, <strong>MS Dynamics</strong> 或 <strong>API</strong>)。<br> — 在您的CRM中，帐户是与潜在客户和联系人关联的业务/公司。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">基于帐户的营销</a> (ABM)</strong></td> 
-   <td colspan="1">附加功能允许您以高度协调的方式定位和吸引关键帐户。</td> 
+   <td colspan="1">此术语可具有不同的含义：<br> — 您的Marketo实例本身可以称为Marketo帐户。<br>-In <strong>TAM</strong>, a <strong>指定帐户</strong> 是用户确定的要追踪的目标帐户。<br> — 在TAM中，CRM帐户是从您关联的 <strong>CRM</strong> (帐户在 <strong>Salesforce</strong>, <strong>MS Dynamics</strong> 或 <strong>API</strong>)。<br> — 在您的CRM中，帐户是与潜在客户和联系人关联的业务/公司。</td> 
   </tr> 
   <tr> 
    <td><strong>帐户列表</strong></td> 
-   <td>关键帐户/组织名称列表。 也称为Account-Based Marketing(<strong>反弹道导弹</strong>)列表。</td> 
+   <td>关键帐户/组织名称列表。 也称为Target帐户管理(<strong>TAM</strong>)列表。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>帐户分析</strong></td> 
-   <td colspan="1">（以前称为AccountAI） <strong>反弹道导弹</strong>，使用理想客户资料(ICP)，将对数据库中的现有公司进行排名，并将排名作为分数添加到您的帐户中。</td> 
+   <td colspan="1">（以前称为AccountAI） <strong>TAM</strong>，使用理想客户资料(ICP)，将对数据库中的现有公司进行排名，并将排名作为分数添加到您的帐户中。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">帐户分数</a></strong></td> 
@@ -374,7 +370,7 @@ ht-degree: 0%
    <td colspan="1">当ISP将收件人的投诉转发给发送电子邮件的组织时。</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>过滤器</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>筛选器</strong></a></td> 
    <td>中使用的工具 <strong>智能列表</strong> 这样，您就可以缩小受众（例如，数据库中居住在加利福尼亚的所有用户）。 过滤器可同时用于 <strong>批次</strong> 和 <strong>触发营销活动</strong>.</td> 
   </tr> 
   <tr> 
@@ -574,7 +570,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>指定帐户</strong></td> 
-   <td><p>在 <strong>反弹道导弹</strong>，用户确定的帐户是他们要追踪的目标帐户。</p></td> 
+   <td><p>在 <strong>TAM</strong>，用户确定的帐户是他们要追踪的目标帐户。</p></td> 
   </tr> 
   <tr> 
    <td><strong>培养计划</strong></td> 
@@ -647,7 +643,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>角色</strong></a></td> 
-   <td colspan="1">在Marketo <strong>基于帐户的营销</strong>，角色是受众的子集，允许进行更具体的定位。</td> 
+   <td colspan="1">在Marketo <strong>Target帐户管理</strong>，角色是受众的子集，允许进行更具体的定位。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>投票</strong></a></td> 
@@ -712,7 +708,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>收入模型</strong></a></td> 
-   <td colspan="1">在 <strong>收入周期分析(RCA)</strong> 级别，允许您跟踪 <strong>商机</strong> 在您尝试转换它们时的任何给定时间点。</td> 
+   <td colspan="1">中使用的工具 <strong>收入周期分析(RCA)</strong> 级别，允许您跟踪 <strong>商机</strong> 在您尝试转换它们时的任何给定时间点。</td> 
   </tr> 
   <tr> 
    <td><strong>职位</strong></td> 
@@ -807,7 +803,11 @@ ht-degree: 0%
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">标记</a></strong></td> 
    <td>用于描述的标识符 <strong>项目</strong>.</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Target帐户管理</a> (TAM)</strong></td> 
+   <td colspan="1">（以前称为基于帐户的营销/ABM）附加功能，可让您以高度协调的方式定位和参与关键帐户。</td> 
+  </tr>
   <tr> 
    <td><strong>模板</strong></td> 
    <td>安 <strong>电子邮件</strong> 或 <strong>登陆页面</strong> 作为创建其他电子邮件或登陆页面的起点。</td> 
