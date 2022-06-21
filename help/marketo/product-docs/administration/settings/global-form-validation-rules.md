@@ -2,9 +2,9 @@
 description: 全局表单验证规则 — Marketo文档 — 产品文档
 title: 全局表单验证规则
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
+source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -70,3 +70,17 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Marketo Engage定义了一阻止列表个免费消费者电子邮件域，在使用预加载的“消费者电子邮件域”规则时，这些域阻止列表被阻止。 [在此处查看该列表](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+
+## 如何禁用每个表单的访问权限{#how-to-disable-access-per-form}
+
+启用规则后，规则将应用于所有表单。 但是，如果您有一个具有特定要求的表单，并且您不希望任何内容被拒绝，则可以在表单设置中禁用全局表单验证规则。
+
+1. 在所需的表单中，单击 **表单设置**，则 **设置**.
+
+   ![](assets/global-form-validation-rules-11.png)
+
+1. 单击全局表单验证规则下拉列表，然后选择 **已禁用**.
+
+   ![](assets/global-form-validation-rules-12.png)
+
+批准并发布表单后，将忽略全局表单验证规则。
