@@ -3,7 +3,7 @@ unique-page-id: 2360360
 description: 创建Webhook - Marketo文档 — 产品文档
 title: 创建Webhook
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    * **响应类型**:选择您从服务收到的响应格式(**JSON** 或 **XML**)。
 
-   * **请求类型**:选择要使用的HTTP方法(DELETE、GET、PATCH、POST、PUT)
+   * **请求类型**:选择要使用的HTTP方法(DELETE、GET、PATCH、POST、PUT)。
 
    单击 **创建**.
 
