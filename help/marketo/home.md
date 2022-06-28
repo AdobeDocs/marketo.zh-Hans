@@ -2,9 +2,9 @@
 title: Marketo产品文档
 description: Marketo产品文档
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 90d1f0be4127f4543790dc8c4d7a7d141d461ee7
+source-git-commit: a28532c5fb68381da14844c9fd564a4c70476028
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,8 @@ ht-degree: 0%
 ## 快速入门
 
 * [设置步骤](/help/marketo/getting-started/setup-steps.md)
-
 * [设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-
 * [配置Marketo协议](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)
-
 * [Marketo术语表](/help/marketo/getting-started/marketo-glossary.md)
 
 ## 热门文章
@@ -31,7 +28,7 @@ ht-degree: 0%
 
 * [了解智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
-* [AdobeMarketo Engage下一代UX体验概述](/help/marketo/product-docs/marketo-engage-next-generation-experience/overview.md)
+* [Adobe Marketo Engage下一代UX体验概述](/help/marketo/product-docs/marketo-engage-next-generation-experience/overview.md)
 
 ## 发行说明
 
