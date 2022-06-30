@@ -1,32 +1,31 @@
 ---
 unique-page-id: 7516605
-description: 帮助我继承了现有Marketo实例 — Marketo文档 — 产品文档
-title: 帮助我继承了现有Marketo实例
+description: 帮助我继承现有Marketo实例 — Marketo文档 — 产品文档
+title: 帮助我继承现有Marketo实例
 exl-id: f64c04cc-bbac-4577-b242-be8263acff4d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# 救命！ 我继承了现有的Marketo实例
+# 帮助! 我继承了现有的Marketo实例
 
 ![](assets/help-ive-inherited-an-existing-marketo-instance.png)
 
-**您是刚刚继承了现有Marketo实例并不知道从哪里开始的新用户吗？**
+**您是刚刚继承现有Marketo实例且不知道从何处开始的新用户吗？**
 
 如果是，本指南适合您。
 
-当然，它并不需要72个小时就能完成它，它不会回答每个问题。 但它可以帮助您充分利用与Marketo的初次合作，指向正确的方向，获得您需要的一切。
+当然，它并不需要72小时才能完成它，而且它不会回答所有问题。 但它可以帮助你充分利用你与Marketo的最初时光，指引你朝着正确的方向去获得你需要的东西。
 
-拿着你最喜爱的饮料四处看看。
+那就拿上你最喜欢的饮料，看看周围。
 
 **目录**
 
-* [要签出的项目](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
-* [要评论的事项：核心技能](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
-* [获取帮助的方式](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
+* [要结帐的项目](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target=&quot;_blank&quot;}
+* [要查看的事项：核心技能](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target=&quot;_blank&quot;}
+* [获取帮助的方法](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target=&quot;_blank&quot;}
 
-如果您已经熟悉实例并熟悉Marketo核心概念，请查阅Marketo产品文档，或访问[Marketing Nation](https://nation.marketo.com/)在线社区，了解其他Marketo用户的评价。
+如果您已经了解有关实例的方法并且熟悉Marketo核心概念，请查看Marketo产品文档，或访问 [营销国家](https://nation.marketo.com/){target=&quot;_blank&quot;}在线社区，以了解其他Marketo用户的看法。

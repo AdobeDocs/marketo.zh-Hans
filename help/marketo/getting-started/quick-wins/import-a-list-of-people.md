@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: 导入人员列表 — Marketo文档 — 产品文档
 title: 导入人员列表
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
 在本教程中，您将学习如何将人员从电子表格文件导入Marketo。
 
 ## 步骤1:下载和编辑电子表格 {#step-download-and-edit-a-spreadsheet}
 
-1. 要开始，请下载我们的实践电子表格文件([**tradeshow-tohates.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv))。
+1. 要开始，请下载我们的实践电子表格文件([**tradeshow-tohates.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;})。
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->事件程序在特定日期发生。 详细了解 [**事件**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>事件程序在特定日期发生。 详细了解 [**事件**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}。
 
 ## 步骤3:将电子表格导入Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -109,7 +109,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >列标题应始终与字段完全匹配（区分大小写），以获得最佳的自动映射结果。 如果您使用自定义字段，但在下拉列表中未看到这些字段，请返回 [创建它们](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 这样它们就能成为选择。
+   >列标题应始终与字段完全匹配（区分大小写），以获得最佳的自动映射结果。 如果您使用自定义字段，但在下拉菜单中未看到这些字段，请返回 [创建它们](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}，以便它们成为选项。
 
    >[!NOTE]
    >
@@ -129,7 +129,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您可以通过跟踪项目成员资格来分析项目是否成功。 详细了解 [**程序**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>您可以通过跟踪项目成员资格来分析项目是否成功。 详细了解 [**程序**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}。
 
 ## 任务完成 {#mission-complete}
 

@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: 设置并添加人员 — Marketo文档 — 产品文档
 title: 设置并添加人员
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 步骤1:登录Marketo {#step-log-in-to-marketo}
 
-1. [登录Marketo](https://app.marketo.com) 使用您通过电子邮件收到的凭据。
+1. [登录Marketo](https://app.marketo.com){target=&quot;_blank&quot;}，使用您通过电子邮件收到的凭据。
 
    ![](assets/one.png)
 

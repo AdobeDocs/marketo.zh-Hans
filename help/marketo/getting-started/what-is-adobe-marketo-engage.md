@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2949467
-description: 什么是AdobeMarketo Engage? - Marketo文档 — 产品文档
-title: 什么是AdobeMarketo Engage?
+description: 什么是Adobe Marketo Engage? - Marketo文档 — 产品文档
+title: 什么是Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# 什么是AdobeMarketo Engage? {#what-is-adobe-marketo-engage}
+# 什么是Adobe Marketo Engage? {#what-is-adobe-marketo-engage}
 
-AdobeMarketo Engage(有时称为Marketo Engage，甚至只称为Marketo)是营销自动化软件。 营销自动化使您能够简化、自动化和衡量营销任务和工作流，从而提高运营效率并更快地增加收入。
+Adobe Marketo Engage(有时称为Marketo Engage，甚至只称为Marketo)是营销自动化软件。 营销自动化使您能够简化、自动化和衡量营销任务和工作流，从而提高运营效率并更快地增加收入。
 
 ## 我能在Marketo Engage中做什么？ {#what-can-i-do-in-marketo-engage}
 
@@ -43,10 +43,10 @@ Marketo Engage具有大量强大的功能，可帮助您实现营销目标。 �
 
 ## 我需要进行任何设置吗？ {#do-i-need-to-do-any-setup}
 
-是的，我们制作了[要执行的任务清单](/help/marketo/getting-started/setup-steps/setup-checklist.md)。
+是的，我们做了 [要做的事情清单](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}。
 
 ## 我是否必须等到设置完成后才能学习？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-不！ 我们做了一堆简单的教程。 [在此处开始使用](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)。他们应该花上一个小时。 你可以随时开始。
+不！ 我们做了一堆简单的教程。 [开始使用此处](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}。 他们应该花上一个小时。 你可以随时开始。
 
 欢迎使用Marketo Engage! 我们很高兴你在这里。

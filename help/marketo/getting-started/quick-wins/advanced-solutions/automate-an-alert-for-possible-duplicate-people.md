@@ -1,51 +1,50 @@
 ---
 unique-page-id: 7513680
-description: 自动发出警报以发现可能的重复— Marketo Docs — 产品文档
-title: 自动警报可能的重复
+description: 自动发出警报，以发现可能的重复人员 — Marketo文档 — 产品文档
+title: 自动提醒可能存在重复的人员
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-# 自动警报可能的重复{#automate-an-alert-for-possible-duplicate-people}
+# 自动提醒可能存在重复的人员 {#automate-an-alert-for-possible-duplicate-people}
 
-是否希望在每次可能创建重复人时发出警报？ 下面介绍如何设置智能活动来完成此操作。
+是否希望每次创建可能的重复人员时发出警报？ 下面是如何设置智能营销活动以执行此操作。
 
-1. [创建新的智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。定义以下智能列表:
+1. [创建新的智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}。 定义以下智能列表：
 
-* 触发器：**已创建人**
-* 过滤器：**重复字段。** 字段名 **称为全名**
+* 触发器： **已创建人员**
+* 过滤器： **复制字段。** 字段名称 **为全名**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
    >[!TIP]
    >
-   >发挥创意。 用不同的场进行实验，获得更好的滤波效果。
+   >有创造力。 在不同的场下进行实验，获得较好的滤波效果。
 
-1. 在流步骤中，选择[发送警报](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)流操作。
+1. 在流程步骤中，选择 [发送警报](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target=&quot;_blank&quot;}流操作。
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >使用[发送警报信息令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)在CRM中包含指向该人员的链接。
+   >使用 [发送警报信息令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}，以包含指向CRM中人员的链接。
 
    >[!CAUTION]
    >
-   >如果导入大列表，您可能会同时获得大量这些警报！
+   >如果导入一个大列表，您可能会同时获得一堆警报！
    >
-   >另外，两个名字相同的人并不自动意味着他们是同一个人。
+   >另外，两个同名的人并不自动表示他们是同一个人。
 
-1. 在&#x200B;**活动**&#x200B;选项卡中激活计划。
+1. 在 **计划** 选项卡。
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
-就这样！ 每次在Marketo中创建具有现有全名的新人时，此智能活动都将触发。
+就这样！ 每次在Marketo中创建现有全名新人员时，此智能营销活动都会触发。
 
 >[!MORELIKETHIS]
 >
->[查找并合并重复人](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
+>[查找并合并重复人员](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target=&quot;_blank&quot;}
