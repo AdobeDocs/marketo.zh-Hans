@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo术语表 — Marketo文档 — 产品文档
 title: Marketo术语表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B测试</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B测试</a></strong></td>
    <td colspan="1">允许您修改电子邮件的组件（例如，主题行、地址等） 并设置测试标准，以确定哪组内容更好。</td> 
   </tr> 
   <tr> 
@@ -708,7 +708,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>收入模型</strong></a></td> 
-   <td colspan="1">中使用的工具 <strong>收入周期分析(RCA)</strong> 级别，允许您跟踪 <strong>商机</strong> 在您尝试转换它们时的任何给定时间点。</td> 
+   <td colspan="1">在 <strong>收入周期分析(RCA)</strong> 级别，允许您跟踪 <strong>商机</strong> 在您尝试转换它们时的任何给定时间点。</td> 
   </tr> 
   <tr> 
    <td><strong>职位</strong></td> 
