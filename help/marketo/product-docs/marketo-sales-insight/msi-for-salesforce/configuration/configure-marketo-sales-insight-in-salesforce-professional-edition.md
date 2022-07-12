@@ -3,7 +3,7 @@ unique-page-id: 3571743
 description: 在Salesforce专业版中配置Marketo Sales Insight - Marketo文档 — 产品文档
 title: 在Salesforce专业版中配置Marketo Sales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
+source-git-commit: 86c32e5f7eab00a1963b9d00057af4820cddfe78
 workflow-type: tm+mt
 source-wordcount: '912'
 ht-degree: 0%
