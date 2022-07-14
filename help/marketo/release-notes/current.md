@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
+source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,13 @@ ht-degree: 0%
 * **动态聊天的高级对话框报告**:使用全新的数据可视化图表，以参与度和转化量度，更详细地查看动态聊天促销活动的效果。
 
 * **不同步动态聊天的未使用Marketo Engage属性**:从未使用的Dynamic Chat订阅中取消同步Marketo Engage属性，这有助于提高数据整洁度，并允许根据需要同步替代属性。
+
+## 新一代体验
+
+**新建切换开关视图**:以下视图现在可在下一代体验中使用：
+
+* [“电子邮件详细信息”视图](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [电子邮件列表视图](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## 体验自动化 {#experience-automation}
 
