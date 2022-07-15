@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
 workflow-type: tm+mt
-source-wordcount: '8780'
+source-wordcount: '8787'
 ht-degree: 0%
 
 ---
@@ -630,6 +630,8 @@ ht-degree: 0%
             + [编辑事件渠道](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [活动合作伙伴](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [了解事件程序](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+            + [设置事件上限](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+            + [设置事件目标](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
          + 创建事件 {#create-an-event}
             + [使用Adobe Connect创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [使用GotoWebinar创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
@@ -1426,7 +1428,7 @@ ht-degree: 0%
          + 卸载 {#uninstalling}
             + [禁用全局MS Dynamics同步](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [从MS Dynamics实例中卸载MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
-         + 更新 {#updating}
+         + 更新中 {#updating}
             + [升级适用于Marketo Dynamics的Microsoft Sales Insight解决方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + 适用于Salesforce的MSI {#msi-for-salesforce}
          + 安装 {#installation}
@@ -1545,7 +1547,7 @@ ht-degree: 0%
          + [为短信添加流程步骤](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [短信消息仪表板](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [在智能列表触发器和过滤器中使用视频短信消息](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
-   + 个性化 {#personalization}
+   + Personalization {#personalization}
       + 分段和片段 {#segmentation-and-snippets}
          + 分段 {#segmentation}
             + [批准分段](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
