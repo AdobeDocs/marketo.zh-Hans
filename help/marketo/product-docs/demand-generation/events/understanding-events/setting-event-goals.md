@@ -3,9 +3,10 @@ description: 设置事件目标 — Marketo文档 — 产品文档
 title: 设置事件目标
 hide: true
 hidefromtoc: true
-source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
+exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
+source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,14 +20,28 @@ ht-degree: 0%
 
 1. 创建事件程序。
 
-PICC
+   ![](assets/setting-event-goals-1.png)
 
-1. 为您的活动提供一个 [!UICONTROL 名称]，选择 [!UICONTROL 目标] 文件夹和 [!UICONTROL 渠道].
+1. 选择 [!UICONTROL Campaign文件夹]，为活动提供一个 [!UICONTROL 名称]，选择 [!UICONTROL 程序类型] 和 [!UICONTROL 渠道]. 单击 **[!UICONTROL 创建]** 完成时。
 
-PICC
+   ![](assets/setting-event-goals-2.png)
 
-1. 输入目标 [!UICONTROL 已注册] 和 [!UICONTROL 已出席]，然后单击 **[!UICONTROL 创建]** ([!UICONTROL 描述] 和 [!UICONTROL 标签] 为可选)。
+1. 在您的活动中，单击 **[!UICONTROL 报表]** 选项卡。
 
-PICC
+   ![](assets/setting-event-goals-3.png)
+
+1. 输入目标 [!UICONTROL 已注册] 单击 **[!UICONTROL 设置目标]**. 在中键入数字并按Enter。
+
+   ![](assets/setting-event-goals-4.png)
+
+   ![](assets/setting-event-goals-5.png)
+
+1. 对 [!UICONTROL 已出席].
+
+   ![](assets/setting-event-goals-6.png)
+
+>[!NOTE]
+>
+>活动开始后，无法设置活动的目标。
 
 就这样！ 单击 [!UICONTROL 报表] 选项卡。
