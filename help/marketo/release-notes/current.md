@@ -2,77 +2,66 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
+source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
 
-# 发行说明：2022年6月 {#release-notes-june-22}
+# 发行说明：2022年8月 {#release-notes-aug-22}
 
-在下面，您将找到’22年6月版中包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
+下面将显示’22年8月版中包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
 
 >[!AVAILABILITY]
 >
 >由星(![星星](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
-将在 **2022年6月24日**，并在随后的几周内分阶段推出其余功能（除非另有指定）。
-
-## 营销数据环境 {#marketing-data-environment}
-
-* **公开自定义对象的CreatedAt/UpdatedAt字段**:允许您在“人员详细信息”屏幕中检查这些字段，以获取更多洞察信息。
+将在 **2022年8月19日**，并在随后的几周内分阶段推出其余功能（除非另有指定）。 发行功能和确切日期可能会发生更改。
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
-* **改进了动态聊天的流设计器可用性**:无需拖放即可直接从流设计器画布添加信息卡。 动态聊天界面也已得到改进，以便更好地显示各个信息卡中的内容。
+* **同时启用/禁用动态聊天的所有已发布对话框**:通过按按钮，从“配置”页面全局一次启用/禁用所有已发布的对话框。
 
-* **动态聊天的高级约会路由规则**:动态聊天为目标约会路由提供了更多选项。 根据Marketo Engage属性指定应路由哪些代理约会，以确保将潜在客户路由到相应的代理。
+* **用于动态聊天的自定义变量**:上传自定义聊天机器人头像，以便能够针对您的品牌进行个性化。
 
-* **动态聊天的高级对话框报告**:使用全新的数据可视化图表，以参与度和转化量度，更详细地查看动态聊天促销活动的效果。
-
-* **不同步动态聊天的未使用Marketo Engage属性**:从未使用的Dynamic Chat订阅中取消同步Marketo Engage属性，这有助于提高数据整洁度，并允许根据需要同步替代属性。
+* **动态聊天的聊天记录**:查看每次对话的聊天记录，以便更深入地了解每位Web访客感兴趣的内容。
 
 ## 新一代体验
 
-**新建切换开关视图**:以下视图现在可在下一代体验中使用：
+* **Adobe品牌化**:使用新的Adobe Experience Cloud品牌更新了编辑器和人员详细信息页面的外观。
 
-* [“电子邮件详细信息”视图](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [电子邮件列表视图](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* **在移动对话框中显示目标文件夹的文件夹层次结构**:查看每个文件夹的文件夹层次结构可以更轻松地移动资产，并降低将资产放入错误文件夹的可能性。
+
+>[!NOTE]
+>
+>在营销活动中，将资产移动到项目中的文件夹是例外。 此移动操作不会显示文件夹层次结构，因为程序中的文件夹不能具有重复的名称。
 
 ## 体验自动化 {#experience-automation}
 
-* **全局表单字段验证规则排除项**:从全局表单验证规则中排除特定表单，以便订阅中心和其他业务关键型工作流可以接受所有值。
+* **自助流程步骤 — 计划导入增强功能**:改进了对导入具有自定义流程步骤的程序的支持，在这些流程步骤中，您现在可以使用同一服务提供商的多个实例，并导入具有与这些服务提供商兼容的流程步骤的程序。
 
-* **自助服务流程步骤**:通过创作自定义流程步骤以在智能促销活动中使用，扩展Marketo Engage与堆栈其余部分之间的连接。 与Webhook（只能在触发器促销活动中使用）相比，Marketo Engage用户和合作伙伴都可以利用此功能在触发器、批量促销活动和可执行促销活动中使用外部Web服务。
+* **Munchkin — 扩展的链接跟踪**:扩展对跟踪的支持 `tel` 和 `mailto` 与Munchkin链接以跟踪扩展的Web行为集。
 
-* **Munchkin协议不可知的链接跟踪**:扩展对跟踪的支持 `tel` 和 `mailto` 与Munchkin链接以跟踪扩展的Web行为集。
+* **Webhook自定义标题可见性**:现在，Webhook自定义标头会显示在“管理员”>“Webhooks”选项卡中，以便提高可见性。
 
-* **用于Web挂接的其他HTTP方法**:将PUT、PATCH和DELETE指定为请求类型，以与Web服务进行交互。
+* **验证码**:使用reCAPTCHA v3评估表单提交的有效性，以对传入表单流量进行评分。 构建营销工作流，以自动排除、隔离或删除可疑的机器人流量。
 
-## 销售分析 {#sales-insight}
+* **批准表单的权限**:新权限，用于控制哪些设计人员可以根据其他Design Studio资产批准对表单所做的更改。 这样可以防止其他设计人员在没有获得批准权限的其他人审核表单的情况下将更改推送到表单。
 
-![（星号）](assets/yellow-star.png)
+* **始终在匿名合并后执行Campaign重播**:在营销活动重播之前会进行匿名潜在客户合并，这样，在完成匿名营销活动重播后，自定义字段过滤器就能可靠地运行。
 
-* **Salesforce中的Sales Insight权限集**:管理员可以通过Marketo应用程序权限集（Sales Insight Salesforce包的一部分），在用户级别而不是配置文件级别为有限的一组人员提供Sales Insight访问权限。
+## 营销数据环境 {#marketing-data-environment}
 
-* **我的Marketo磁贴更新 — Sales Insight操作**:Marketo管理员（及其指定的用户）现在可以通过位于“我的Marketo”页面上的新“销售分析操作”拼贴，快速导航到其“销售分析操作”实例。
-
-## Sales Connect {#sales-connect}
-
-![（星号）](assets/yellow-star.png)
-
-* **Salesforce API更新**:在’22年夏季发布的Salesforce中，Salesforce将不再支持API旧版21 -30。 在此Marketo Engage版本中，所有使用旧版API的Sales Connect请求都已更新，以保持在受支持的版本内。 有关Salesforce API报废计划的完整详细信息，请单击 [此处](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}。
+* **修复了自定义对象“使用者”字段的UI截断**:现在更容易识别“正在使用”的自定义对象字段，以便在必要时从自定义对象中删除字段。
 
 ## API增强功能 {#api-enhancements}
 
 * **批量程序成员提取API的新筛选功能**:按程序成员资格状态、updatedAt、频率或用尽的内容过滤，以优化提取的数据集。
 
-* **批量计划成员提取API改进**:在创建作业期间指定最多10个程序以提高吞吐量。
+* **在Web服务错误通知中公开仅API用户**:查看哪个仅API用户生成了Web服务错误以改进疑难解答。
 
 ## 公告 {#announcements}
-
-* **Forms弃用 — Forms 1.0、潜在客户捕获/保存端点和无脚本版本的表单**:对Forms 1.0资产的支持将在2022年10月之前从Marketo Engage中完全删除。 所有现有的Forms 1.0资产都将停止运行。 Marketo Engage表单需要JavaScript才能加载登陆页面和网站。
 
 **_产品发行网络研讨会_**
 
