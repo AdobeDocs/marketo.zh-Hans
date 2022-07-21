@@ -2,9 +2,9 @@
 description: 过滤电子邮件机器人活动 — Marketo文档 — 产品文档
 title: 筛选电子邮件机器人活动
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 2ef4b0b2a541c8b6a67bd654fda45956601661bd
+source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 我们使用三种不同的方法来确认机器人活动：
 
 * 匹配 [交互式广告局机器人列表](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}:与IAB UA/IP（用户代理/IP地址）列表上的任何内容匹配的活动将标记为机器人。
-* 与隐藏链接UA/IP匹配：我们为所有电子邮件添加一个隐藏链接，并捕获来自这些电子邮件的UA/IP点击。 与这些UA/IP匹配的活动将标记为机器人。
 * 与邻近模式匹配：当同时发生两个以上的活动时（在两秒内），它们将被识别为机器人。
 
 针对电子邮件链接点击和电子邮件打开活动，新属性将填充以下值：
@@ -37,15 +36,15 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 单击 **启用机器人活动标识** 要激活的滑块。
+1. 选择 **与IAB列表匹配**, **与邻近模式匹配**，或两者兼有。
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->您可以单独选择是否记录机器人活动。 如果您选择不启用，您可能会看到电子邮件打开数量骤减，并且点击次数会被过滤掉，因为假数字会被过滤掉。
+>您可以选择过滤机器人活动 **或** 已记录。 如果选择已过滤，您可能会看到电子邮件打开数的下降，并且会将点击视为删除假活动
 
-**可选步骤**:要禁用该功能，只需取消选择滑块。 如果禁用，则数据会 **not** 重置。
+**可选步骤**:要禁用此功能，只需取消选择滑块即可。 如果禁用，则数据不会重置。
 
 >[!TIP]
 >
