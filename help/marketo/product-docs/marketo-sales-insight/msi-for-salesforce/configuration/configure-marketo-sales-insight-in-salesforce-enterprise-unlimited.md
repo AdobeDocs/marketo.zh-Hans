@@ -3,7 +3,7 @@ unique-page-id: 2360368
 description: 在Salesforce企业/无限制 — Marketo文档 — 产品文档中配置Marketo销售分析
 title: 在Salesforce企业/无限制中配置Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
+source-git-commit: 6879a542e17d7694ba42494867707ebc93b791d3
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 0%
@@ -299,7 +299,7 @@ Marketo人员字段需要映射到Salesforce联系字段，以确保转换正常
 
 1. 从 [Marketo的“销售分析管理”页面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，并将其粘贴到“Salesforce销售分析配置”页面的Rest API部分。
 
-   ![](assets/access-msi.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
 就这样！ 您应该能够看到“潜在客户”、“联系人”、“帐户”和“业务机会”的“Marketo销售分析”字段。
 
