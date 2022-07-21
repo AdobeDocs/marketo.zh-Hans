@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce企业/无限制 — Marketo文档 — 产品文档中配置Marketo销售分析
 title: 在Salesforce企业/无限制中配置Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '863'
 ht-degree: 0%
 
 ---
@@ -289,39 +289,27 @@ Marketo人员字段需要映射到Salesforce联系字段，以确保转换正常
 
 1. 单击 **保存** 等你完事了。
 
-## Marketo Sales Insight配置 {#marketo-sales-insight-config}
-
-1. 单击 **+** 然后选择 **Marketo Sales Insight配置**.
-
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
-
-1. 检查 **启用Marketo API**. 然后，在 [Marketo管理员中的API配置信息](#set-up-marketo-sales-insight). 单击 **保存更改** 等你完事了。
-
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >如果诊断测试失败，您可能需要 [向页面布局添加更多字段](https://nation.marketo.com/docs/DOC-1115).
-
-就这样！ 您应该能够看到“潜在客户”、“联系人”、“帐户”和“业务机会”的“Marketo销售分析”字段。
-
-![](assets/twenty-six.png)
-
->[!NOTE]
->
->对于帐户，Sales Insight将包含所有电子邮件，但只包含最近的有趣时刻、Web活动和得分变化。
-
-## 访问Marketo Sales Insight {#access-marketo-sales-insight}
+## Marketo Sales Insight“配置”选项卡 {#marketo-sales-insight-configuration-tab}
 
 1. 在Salesforce中，单击 **+** 单击 **Marketo Sales Insight配置**.
 
 1. 选择 **启用Marketo API** 复选框。
 
-1. 从Marketo的“销售分析管理”页面的Soap API面板复制凭据，并将凭据粘贴到“Salesforce销售分析配置”页面的Soap API部分。
+1. 从的Soap API面板中复制凭据 [Marketo的“销售分析管理”页面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，并将其粘贴到“Salesforce销售分析配置”页面的Soap API部分。
 
-1. 从Marketo的“销售分析管理”页面的Rest API面板中复制凭据，并将其粘贴到“Salesforce销售分析配置”页面的Rest API部分。
+1. 从 [Marketo的“销售分析管理”页面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，并将其粘贴到“Salesforce销售分析配置”页面的Rest API部分。
 
    ![](assets/access-msi.png)
+
+就这样！ 您应该能够看到“潜在客户”、“联系人”、“帐户”和“业务机会”的“Marketo销售分析”字段。
+
+>[!NOTE]
+>
+>如果诊断测试失败，您可能需要 [向页面布局添加更多字段](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}。
+
+>[!NOTE]
+>
+>对于帐户，Sales Insight将包含所有电子邮件，但只包含最近的有趣时刻、Web活动和得分变化。
 
 >[!MORELIKETHIS]
 >

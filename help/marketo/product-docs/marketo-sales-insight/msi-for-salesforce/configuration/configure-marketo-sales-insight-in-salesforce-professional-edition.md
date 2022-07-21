@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: 在Salesforce专业版中配置Marketo Sales Insight - Marketo文档 — 产品文档
 title: 在Salesforce专业版中配置Marketo Sales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >* 在Salesforce专业版中安装Marketo。
 >
->* [在SalesforceAppExchange中安装Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [在SalesforceAppExchange中安装Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}
 
 
 >[!NOTE]
@@ -270,41 +270,29 @@ Marketo人员字段需要映射到Salesforce联系字段，以确保转换正常
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
-## Marketo Sales Insight配置 {#marketo-sales-insight-config}
+## Marketo Sales Insight“配置”选项卡 {#marketo-sales-insight-configuration-tab}
 
-1. 单击 **+** 然后选择 **Marketo Sales Insight配置**.
+1. 在Salesforce中，单击 **+** 单击 **Marketo Sales Insight配置**.
 
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
+1. 从的Soap API面板中复制凭据 [Marketo的“销售分析管理”页面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，并将其粘贴到“Salesforce销售分析配置”页面的Soap API部分。
 
-1. 检查 **启用Marketo API**. 然后，在 [Marketo管理员中的API配置信息](#set-up-marketo-sales-insight). 单击 **保存更改** 等你完成。
+1. 从 [Marketo的“销售分析管理”页面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，并将其粘贴到“Salesforce销售分析配置”页面的Rest API部分。
 
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >如果诊断测试失败，您可能需要 [向页面布局添加更多字段](https://nation.marketo.com/docs/DOC-1115).
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
 就这样！ 您应该能够看到“潜在客户”、“联系人”、“帐户”和“业务机会”的“Marketo销售分析”字段。
 
-![](assets/twenty-six-1.png)
+>[!NOTE]
+>
+>如果诊断测试失败，您可能需要 [向页面布局添加更多字段](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}。
 
 >[!NOTE]
 >
 >对于帐户，Sales Insight将包含所有电子邮件，但只包含最近的有趣时刻、Web活动和得分变化。
 
-## 访问Marketo Sales Insight {#access-marketo-sales-insight}
-
-1. 在Salesforce中，单击 **+** 单击 **Marketo Sales Insight配置**.
-
-1. 从Marketo的“销售分析管理”页面的Soap API面板复制凭据，并将凭据粘贴到“Salesforce销售分析配置”页面的Soap API部分。
-
-1. 从Marketo的“销售分析管理”页面的Rest API面板中复制凭据，并将其粘贴到“Salesforce销售分析配置”页面的Rest API部分。
-
-   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
-
 >[!MORELIKETHIS]
 >
->* [优先级、紧急性、相对得分和最佳押注](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [将Marketo选项卡添加到Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [优先级、紧急性、相对得分和最佳押注](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target=&quot;_blank&quot;}
+>* [将Marketo选项卡添加到Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target=&quot;_blank&quot;}
 >* [向用户档案添加Sales Insight访问权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 
