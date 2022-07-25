@@ -3,9 +3,10 @@ description: 设置事件上限 — Marketo文档 — 产品文档
 title: 设置事件上限
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,10 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >在设置事件上限之前，程序中必须至少具有两个已批准的登陆页面（注册页面和注册完整页面）。
+
+>[!NOTE]
+>
+>要释放事件中的空间，必须删除程序成员（您可以通过将其状态更新为“不在程序中”来执行此操作）。
 
 1. 选择您的事件程序。
 

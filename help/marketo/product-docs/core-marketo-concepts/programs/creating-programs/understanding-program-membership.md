@@ -3,9 +3,9 @@ unique-page-id: 1147091
 description: 了解计划会员资格 — Marketo文档 — 产品文档
 title: 了解计划会员资格
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo现在正在对所有订阅实施语言标准化，因此您可能会在订阅中看到商机/商机，并在docs.marketo.com中看到个人/人员。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他的变化。 [了解更多](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo现在正在对所有订阅实施语言标准化，因此您可能会在订阅中看到商机/商机，并在我们的文档中看到人员/人员。 这些术语的含义是相同的；它不影响文章说明。 还有一些其他的变化。 [了解详情](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >

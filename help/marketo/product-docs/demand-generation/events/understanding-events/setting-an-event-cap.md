@@ -4,9 +4,9 @@ title: 设置事件上限
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >在设置事件上限之前，程序中必须至少具有两个已批准的登陆页面（注册页面和注册完整页面）。
+
+>[!NOTE]
+>
+>要释放事件中的空间，必须删除程序成员（您可以通过将其状态更新为“不在程序中”来执行此操作）。
 
 1. 选择您的事件程序。
 
