@@ -2,10 +2,12 @@
 unique-page-id: 30081815
 description: 配置Adobe Experience Manager集成 — Marketo文档 — 产品文档
 title: 配置Adobe Experience Manager集成
+hide: true
+hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -18,9 +20,12 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->目前，仅在Firefox中完全支持此功能。 Safari不支持此功能，并且根据您的SameSite Cookie设置，它可能无法在最新版本的Chrome中使用。
+>* 此集成仅适用于AEM的内部部署实施，不支持AEM Cloud Service实施。
+>
+>* 目前，仅在Firefox中完全支持此功能。 Safari不支持此功能，并且根据您的SameSite Cookie设置，它可能无法在最新版本的Chrome中使用。
+
 
 1. 导航到Adobe Experience Manager（URL特定于您的公司）。
 
