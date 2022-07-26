@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ ht-degree: 0%
 * **Adobe品牌化**:使用新的Adobe Experience Cloud品牌更新了编辑器和人员详细信息页面的外观。
 
 * **在移动对话框中显示目标文件夹的文件夹层次结构**:查看每个文件夹的文件夹层次结构可以更轻松地移动资产，并降低将资产放入错误文件夹的可能性。
+
+* **更新了下一代体验中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
+
+   * “图像和文件”详细信息
+   * 代码片段详细信息
 
 >[!NOTE]
 >
