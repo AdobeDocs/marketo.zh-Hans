@@ -2,9 +2,9 @@
 description: 将Adobe Experience Platform区段推送到Marketo静态列表 — Marketo文档 — 产品文档
 title: 将Adobe Experience Platform区段推送到Marketo静态列表
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
+source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 输入目标 **名称** 和可选描述。 单击“人员创建”下拉列表，然后选择“在Marketo中匹配现有的Marketo人员并创建缺失的人员” _或_ “仅匹配现有Marketo人员。” 在本例中，我们选择前者。
+1. 输入目标 **名称** 和可选描述。 单击“人员创建”下拉列表，然后选择“在Marketo中匹配现有的Marketo人员并创建缺失的人员” _或_ “仅匹配现有Marketo人员。” 在本例中，我们选择前者。 您还可以选择选择工作区，或直接使用默认工作区。
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,9 +94,13 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. 通过选择映射名字 **firstName** 单击 **选择**.
+1. 选择所需的属性并单击 **选择**. 在本例中，我们选择的是名字、姓氏和电子邮件地址。
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >您可以将属性从Experience Platform映射到贵组织在Marketo Engage中有权访问的任何属性。 使用 [描述API请求](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;}以检索贵组织有权访问的属性字段。
 
 1. 通过单击 **添加新映射** 重复步骤15，选择 **lastName** 然后 **companyName**.
 
@@ -142,22 +146,6 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. 您现在需要列表的ID。 单击浏览器中已打开Marketo静态列表的选项卡（或打开一个新选项卡并选择所需的静态列表）。
+1. 查看更改并单击 **完成**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >为获得最佳结果，请使用空的Marketo Engage列表。
-
-1. 突出显示并复制URL末尾的列表ID。
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. 在映射ID下粘贴您刚才复制的ID，然后单击 **下一个**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. 单击 **完成**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
