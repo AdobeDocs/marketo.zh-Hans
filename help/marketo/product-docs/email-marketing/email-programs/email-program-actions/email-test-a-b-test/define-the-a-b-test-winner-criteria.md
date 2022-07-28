@@ -1,49 +1,61 @@
 ---
 unique-page-id: 2359545
-description: 定义A/B测试优胜者标准- Marketo Docs —— 产品文档
-title: 定义A/B测试入选方标准
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: 定义A/B测试入选者标准 — Marketo文档 — 产品文档
+title: 定义A/B测试入选者标准
+exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
+source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
+# 定义A/B测试入选者标准 {#define-the-a-b-test-winner-criteria}
 
-# 定义A/B测试入选方标准{#define-the-a-b-test-winner-criteria}
-
-当[将A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)添加到电子邮件项目时，您需要选择测试类型[计划A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)，然后定义入选方标准。 下面将介绍如何确定哪封电子邮件最终胜出。
+When [添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;}添加到您的电子邮件程序，您需要选择测试类型， [计划A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;}，然后定义入选者标准。 下面是如何决定哪封电子邮件会成功。
 
 >[!PREREQUISITES]
 >
->[添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;}
 
-## 入选方标准{#winner-criteria}
+## 入选者标准 {#winner-criteria}
 
-1. 首先列出默认的&#x200B;**入选方标准**&#x200B;选项。
+1. 默认 **入选者标准** 选项列在首位。
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
-   | **打开** | 当图像下载到电子邮件中时，打开会注册。 即使您不包含图像，默认情况下Marketo也会在所有HTML电子邮件中插入单个跟踪像素。 |
-   |---|---|
-   | **点击** | 默认情况下，电子邮件中的链接会跟踪其中嵌入的链接，这样您就可以查看谁点击了哪个链接，点击了多少个总链接，等等。 |
-   | **单击以打开%** | 已打开并在电子邮件中单击链接的电子邮件百分比。 这通过采用唯一点击次数除以唯一打开次数，再乘以100将其显示为百分比，来衡量电子邮件的相关性和上下文。 |
-   | **参与分数** | [参与分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)可帮助您确定内容的有效性。 |
+   <table>
+   <tr>
+   <td><b>打开</b></td>
+   <td>打开会在将图像下载到电子邮件中时进行注册。 即使您不包含图像，默认情况下，Marketo也会在所有HTML电子邮件中插入单个跟踪像素。</td>
+   </tr>
+   <tr>
+   <td><b>点击次数</b></td>
+   <td>默认情况下，电子邮件中的链接中嵌入了跟踪，以便您查看点击了哪个链接的用户、点击了总链接的数量等。</td>
+   </tr>
+   <tr>
+   <td><b>单击以打开%</b></td>
+   <td>已打开并在电子邮件中点击链接的电子邮件的百分比。 这通过采用唯一点击次数除以唯一打开次数，然后乘以100将其显示为百分比来衡量电子邮件的相关性和上下文。</td>
+   </tr>
+   <tr>
+   <td><b>参与度分数</b></td>
+   <td>的 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">参与度分数</a> 可帮助您确定内容的有效性。</td>
+   </tr>
+   </table>
 
    >[!TIP]
    >
-   >如果您选择“参与得分”，则测试至少需要运行24小时。 了解有关[了解参与情况得分](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)的更多信息。
+   >如果您选择了“参与度得分”，则测试需要至少运行24小时。 详细了解 [了解参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target=&quot;_blank&quot;}。
 
-1. 您还可以通过选择“自定义转换”并单击“编辑”来自定义条件。
+1. 您还可以通过选择自定义转化并单击编辑来自定义您的标准。
 
    ![](assets/image2014-9-12-15-3a51-3a53.png)
 
    >[!NOTE]
    >
-   >“自定义转换”允许您使用触发器和事件来选择任何过滤器作为转换。
+   >自定义转化允许您使用触发器和过滤器选择任何事件作为转化。
 
-1. 窗子会打开。 找到您选择的触发器并将其拖入画布。
+1. 随即会打开一个窗口。 查找您选择的触发器，并将其拖到画布中。
 
    ![](assets/image2014-9-12-15-3a52-3a18.png)
 
@@ -53,32 +65,32 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo将仅允许从此电子邮件项目发送电子邮件的人员使用触发器。 无需添加“已发送电子邮件”过滤器。
+   >Marketo将仅允许从此电子邮件程序发送电子邮件的人员使用触发器。 无需添加“已发送电子邮件”过滤器。
 
-1. 单击&#x200B;**关闭**。
+1. 单击 **关闭**.
 
    ![](assets/image2014-9-12-15-3a53-3a36.png)
 
-   太好了！ 现在是时候决定胜者的决定了。
+   太棒了！ 现在该决定如何确定入选者了。
 
-## 声明入选方{#declare-winner}
+## 声明入选者 {#declare-winner}
 
-1. 从两个可用选项中选择一个。
+1. 从两个可用选项中选取一个。
 
    ![](assets/image2014-9-12-15-3a53-3a44.png)
 
    >[!NOTE]
    >
-   >如果您正在进行&#x200B;**日期／时间** A/B测试，则只能选择&#x200B;**手动**。
+   >如果您正在执行 **日期/时间** A/B测试，您只能选择 **手动**.
 
-   A/B测试结束后，Marketo可以在计划的时间自动发送入选方电子邮件，您也可以查看结果并决定何时发出哪封电子邮件。
+   A/B测试结束后，Marketo可以在计划时间自动发送入选电子邮件，也可以查看结果并决定何时发出哪封电子邮件。
 
-1. “自动”是超棒的，是默认选项。 只需单击&#x200B;**Next**。
+1. 自动化功能非常棒，是默认选项。 只需单击 **下一个**.
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >选择&#x200B;**手动**&#x200B;将发出测试并等待您声明入选方。 您将收到结果报告。
+   >选择 **手动** 将发出测试并等待您声明入选者。 您将收到结果报告。
 
-完美！ 现在，让我们[计划A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)。
+完美！ 现在，让我们 [计划A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;}。
