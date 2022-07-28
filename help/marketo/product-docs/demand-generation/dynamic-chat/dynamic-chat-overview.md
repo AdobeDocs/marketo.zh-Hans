@@ -2,9 +2,9 @@
 description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '951'
 ht-degree: 1%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 1%
 
 **动态聊天支持除英语以外的任何语言吗？**
 
-是的。 动态聊天支持以下语言：法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、韩语、简体中文和繁体中文。 在 [下方](#changing-the-language).
+是. 动态聊天支持以下语言：法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、韩语、简体中文和繁体中文。 在 [下方](#changing-the-language).
 
 **是否支持AI/NLP功能？**
 
@@ -170,5 +170,15 @@ ht-degree: 1%
   <td>会议预订活动保留期</td>
   <td>会议预订活动将存储在动态聊天中的时长</td>
   <td>24个月</td>
+ </tr>
+ <tr>
+  <td>参与的对话</td>
+  <td>网站访客每天可参与的聊天对话数</td>
+  <td>零点一万</td>
+ </tr>
+ <tr>
+  <td>已触发的对话</td>
+  <td>每天可向Web访客显示的聊天对话数</td>
+  <td>两万五千</td>
  </tr>
 </table>
