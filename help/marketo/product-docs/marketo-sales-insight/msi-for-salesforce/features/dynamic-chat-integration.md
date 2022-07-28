@@ -3,9 +3,9 @@ description: 动态聊天集成 — Marketo文档 — 产品文档
 title: 动态聊天集成
 hide: true
 hidefromtoc: true
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 237417bcb254baf93e4e5e307bd607c2c5455ef5
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '316'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 3%
 
 ## Marketo Sales Insight“配置”选项卡 {#marketo-sales-insight-configuration-tab}
 
+请按照以下步骤启用动态聊天集成。
+
 1. 登录您的Salesforce帐户，单击选项卡栏末尾的+，然后单击 **Marketo Sales Insight配置**.
 
 1. 单击以展开“Visualforce面板”。
@@ -35,7 +37,7 @@ ht-degree: 3%
 
 ## 功能概述 {#feature-overview}
 
-Sales Insight用户可以利用下面的动态聊天活动。
+Sales Insight用户可以利用以下动态聊天活动……
 
 参与对话：当访客单击聊天机器人并参与对话框时，登录Marketo并填充到Sales Insight中。
 
@@ -83,4 +85,4 @@ Sales Insight用户可以利用下面的动态聊天活动。
 
 >[!NOTE]
 >
->“与文档交互”活动将在下一个版本的MSI中提供。
+>“与文档交互”活动将在即将发布的MSI中提供。
