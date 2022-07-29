@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 5c6ef7791966b2b71c4d85262f4f3fde04149878
 workflow-type: tm+mt
-source-wordcount: '8793'
+source-wordcount: '8794'
 ht-degree: 0%
 
 ---
@@ -612,16 +612,17 @@ ht-degree: 0%
       + 动态聊天 {#dynamic-chat}
          + [动态聊天概述](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [初始设置](product-docs/demand-generation/dynamic-chat/initial-setup.md)
-         + [将动态聊天连接到Marketo](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [添加或删除聊天用户](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [配置](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [动态聊天活动](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + 集成 {#integrations}
+            + [将动态聊天连接到Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [使用文档卡](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + 对话 {#dialogues}
             + [对话框概述](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [创建对话框](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [受众标准](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [流设计器](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [使用文档卡](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
             + [报告](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + 事件 {#events}
          + 了解事件 {#understanding-events}
