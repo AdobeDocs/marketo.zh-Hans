@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: 定义A/B测试入选者标准 — Marketo文档 — 产品文档
 title: 定义A/B测试入选者标准
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,9 @@ When [添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Marketo将仅允许从此电子邮件程序发送电子邮件的人员使用触发器。 无需添加“已发送电子邮件”过滤器。
+   >Marketo仅允许通过此电子邮件程序发送电子邮件的人员使用触发器/过滤器，因此无需添加“已发送电子邮件”过滤器。 此外，在使用与电子邮件相关的触发器/过滤器时，请确保使用“is any”作为运算符。
 
 1. 单击 **关闭**.
 
