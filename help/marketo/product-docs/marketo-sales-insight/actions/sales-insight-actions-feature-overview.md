@@ -2,9 +2,9 @@
 description: 销售分析操作功能概述 — Marketo文档 — 产品文档
 title: Sales Insight Actions功能概述
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能当前位于有限的GA上。 请联系您的客户成功经理或发送电子邮件 `sales-insights(at)adobe(dot)com` 请求访问权限。
+>此功能当前正在分阶段推出。 请联系您的客户成功经理或发送电子邮件 `sales-insights(at)adobe(dot)com` 请求访问权限。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * 发送销售电子邮件
    * 销售电子邮件具有查看、点击和回复跟踪功能（设置投放渠道时）
-   * 包括电子邮件Personalization、自定义签名和附件
+   * 包括电子邮件个性化、自定义签名和附件
    * 模板共享和报告
    * 团队共享、群组电子邮件和抄送/密送功能
    * 销售电子邮件活动将记录在Marketo人员记录中
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 * 发送销售电子邮件 — 能够发送个性化或模板化的群组电子邮件，以查看、点击和回复跟踪与帐户/机会关联的所有联系人
    * 销售电子邮件具有查看、点击和回复跟踪功能（设置投放渠道时）
-   * 包括电子邮件Personalization、自定义签名和附件
+   * 包括电子邮件个性化、自定义签名和附件
    * 模板共享和报告
    * 团队共享、群组电子邮件和抄送/密送功能
    * 销售电子邮件活动将记录在Marketo人员记录中
