@@ -3,7 +3,7 @@ unique-page-id: 2360407
 description: 构建列出潜在客户的电子邮件分析报表 — Marketo文档 — 产品文档
 title: 构建列出潜在客户的电子邮件分析报表
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # 构建列出潜在客户的电子邮件分析报表 {#build-an-email-analysis-report-that-lists-leads}
 
+按照以下步骤创建电子邮件分析报表，以向您显示发送了特定电子邮件的每个潜在客户，该报表还将包含点击和打开统计资料。
+
 >[!AVAILABILITY]
 >
 >并非所有客户都购买了此功能。 有关详细信息，请联系您的客户成功经理。
-
-按照以下步骤创建电子邮件分析报表，以向您显示发送了特定电子邮件的每个潜在客户，该报表还将包含点击和打开统计资料。
 
 >[!NOTE]
 >

@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >由星(![星星](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
-将在 **2022年8月19日**，并在随后的几周内分阶段推出其余功能（除非另有指定）。 发行功能和确切日期可能会发生更改。
+将在 **2022年8月26日**，并在随后的几周内分阶段推出其余功能（除非另有指定）。 发行功能和确切日期可能会发生更改。
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
@@ -64,8 +64,14 @@ ht-degree: 0%
 
 * **批量程序成员提取API的新筛选功能**:按程序成员资格状态、updatedAt、频率或用尽的内容过滤，以优化提取的数据集。
 
+## 销售分析 {#sales-insight}
+
+![（星号）](assets/yellow-star.png)
+
+* **Sales Insight与动态聊天的集成**:在Sales Insight面板中通过动态聊天查看活动，并在您的潜在工作中利用此新数据点。
+
 ## 公告 {#announcements}
 
 **_产品发行网络研讨会_**
 
-在2022年8月24日上午9:00（太平洋时间）/中午12:00（下午1:00）与我们一起，参加a [实时网络研讨会](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html)由我们的产品团队托管的{target=&quot;_blank&quot;}，您可以在其中了解如何使用所有最新的产品创新。
+2022年8月24日上午9:00（太平洋时间）/中午12:00（下午1:00）与我们一起 [实时网络研讨会](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html)由我们的产品团队托管的{target=&quot;_blank&quot;}，您可以在其中了解如何使用所有最新的产品创新。
