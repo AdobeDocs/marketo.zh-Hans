@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,6 @@ ht-degree: 0%
 ## API增强功能 {#api-enhancements}
 
 * **批量程序成员提取API的新筛选功能**:按程序成员资格状态、updatedAt、频率或用尽的内容过滤，以优化提取的数据集。
-
-* **在Web服务错误通知中公开仅API用户**:查看哪个仅API用户生成了Web服务错误以改进疑难解答。
 
 ## 公告 {#announcements}
 
