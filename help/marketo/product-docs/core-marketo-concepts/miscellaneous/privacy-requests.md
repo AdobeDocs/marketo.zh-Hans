@@ -2,16 +2,16 @@
 description: 隐私请求 — Marketo文档 — 产品文档
 title: 隐私请求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
 # 隐私请求 {#privacy-requests}
 
-本文档概述了如何管理可通过Privacy ServiceUI和 **Privacy ServiceAPI**.
+本文档概述了如何管理可通过Privacy ServiceUI和Privacy ServiceAPI发送给Marketo Engage的单个数据隐私请求。
 
 >[!NOTE]
 >
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 您可以通过两种方式提交单个请求以从Marketo Engage中访问和删除消费者数据：
 
-* 通过 [Privacy ServiceUI](https://privacyui.cloud.adobe.io/). 请参阅此文档 [此处](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}。
-* 通过 **Privacy ServiceAPI**. 请参阅此文档 [此处](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}和API信息 [此处](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}。
+* 通过 [Privacy ServiceUI](https://privacyui.cloud.adobe.io/). 请参阅此文档 [此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target=&quot;_blank&quot;}。
+* 通过Privacy ServiceAPI。 请参阅此文档 [此处](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}和API信息 [此处](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}。
 
-的 [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}支持两种类型的请求：数据访问和数据删除。
+的 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target=&quot;_blank&quot;}支持两种类型的请求：数据访问和数据删除。
 
 让我们看看如何创建访问和删除请求。
 
