@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: bef1162511ba96fe35a24a227c2ceb90bb5f3c63
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
 source-wordcount: '8807'
 ht-degree: 0%
@@ -711,7 +711,7 @@ ht-degree: 0%
             + [设置隐藏的表单字段值](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
          + 使用CAPTCHA {#using-captcha}
             + [设置reCAPTCHA v3](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
-            + [在Marketo Engage中启用CAPTCHA](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-engage.md)
+            + [在Marketo Forms中启用CAPTCHA](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + 图像和文件 {#images-and-files}
          + [将图像和文件添加到Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [删除上传的图像或文件](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)

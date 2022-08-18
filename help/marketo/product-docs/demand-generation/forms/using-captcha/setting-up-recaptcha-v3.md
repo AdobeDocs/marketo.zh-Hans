@@ -4,18 +4,18 @@ title: 设置reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# 设置reCAPTCHA {#setting-up-recaptcha}
+# 设置reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
 简介文本
 
-## 设置reCAPTCHA v3 {#setting-up-recaptcha-v3}
+## 初始reCAPTCHA v3设置 {#initial-recaptcha-v3-setup}
 
 文本：描述v3 — 在Marketo Engage之外执行以下步骤。
 
@@ -47,18 +47,22 @@ ht-degree: 0%
 
 ## 在Marketo Engage中设置CAPTCHA {#setting-up-captcha-in-marketo-engage}
 
-1. 在Marketo中，单击 **管理员** 选择 **验证码**.
+1. 在Marketo中，单击 **管理员**.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. 选择 **验证码** 在树上。
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
 
 1. 单击 **编辑** 在验证码设置中。
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 1. 单击“CAPTCHA”下拉列表，然后选择reCAPTCHA v3。
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. 插入密钥和站点密钥。 单击 **保存** 完成时。
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-5.png)

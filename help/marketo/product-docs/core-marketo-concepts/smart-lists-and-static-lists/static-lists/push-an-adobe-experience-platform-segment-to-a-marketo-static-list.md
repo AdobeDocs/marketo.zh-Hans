@@ -2,9 +2,9 @@
 description: 将Adobe Experience Platform区段推送到Marketo静态列表 — Marketo文档 — 产品文档
 title: 将Adobe Experience Platform区段推送到Marketo静态列表
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 输入目标 **名称** 和可选描述。 单击“人员创建”下拉列表，然后选择“在Marketo中匹配现有的Marketo人员并创建缺失的人员” _或_ “仅匹配现有Marketo人员。” 在本例中，我们选择前者。 您还可以选择选择工作区，或直接使用默认工作区。
+1. 输入目标 **名称** 和可选描述。 单击“人员创建”下拉列表，然后选择“在Marketo中匹配现有的Marketo人员并创建缺失的人员” _或_ “仅匹配现有Marketo人员”（在此示例中，我们选择前者）。 您还必须选择 **工作区**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
