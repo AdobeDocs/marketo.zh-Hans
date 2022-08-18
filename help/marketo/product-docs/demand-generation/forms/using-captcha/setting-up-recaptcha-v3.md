@@ -4,9 +4,9 @@ title: 设置reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. 使用Google帐户登录/注册。
 
-1. 单击创建（+号）按钮以创建新键。
+1. 单击创建按钮（+号）以创建新键。
 
 1. 创建标签以标识要用于Marketo Engage的键。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在Marketo Engage配置中，请准备好站点密钥和密钥。
+>将站点密钥和密钥保留在便于Marketo Engage配置的位置。
 
 ## 在Marketo Engage中设置CAPTCHA {#setting-up-captcha-in-marketo-engage}
 
