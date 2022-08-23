@@ -4,20 +4,36 @@ title: 设置reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
+source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 设置reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
-简介文本
+reCAPTCHA v3是一种无摩擦的体验，它根据提交内容的可疑程度对其进行评分，而无需使用文本、图像或按钮挑战。 [了解更多](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}。
+
+## 检索您的数据中心ID和Munchkin ID {#retrieve-your-data-center-and-munchkin-id}
+
+对于下面“初始reCAPTCHA v3”设置部分中的步骤6，您将需要Marketo Engage订阅的数据中心ID和Munchkin ID。 这是如何找到它们。
+
+1. 在Marketo中，单击 **管理员**.
+
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. 单击 **我的帐户**.
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
+
+1. 向下滚动到支持信息。
+
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 ## 初始reCAPTCHA v3设置 {#initial-recaptcha-v3-setup}
 
-文本：描述v3 — 在Marketo Engage之外执行以下步骤。
+在Marketo之外，将执行以下步骤。
 
 1. 转到 [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target=&quot;_blank&quot;}并单击v3Admin Console。
 
@@ -29,11 +45,15 @@ ht-degree: 0%
 
 1. 选择类型 **reCAPTCHA v3**. Marketo Engage当前不支持reCAPTCHA v2。
 
-1. 添加Marketo Engage订阅使用的每个域。 未在此处设置的域将在启用reCAPTCHA的表单中返回错误。
+1. 添加Marketo Engage订阅使用的每个域。 未在此处设置的域将在启用reCAPTCHA的表单中返回错误。 请记住，将“datacenter”和“munchkinID”替换为 [订阅中的数据](#retrieve-your-data-center-and-munchkin-id).
 
-   * 123-ABC-456.mktoweb.com
-   * app-pod.marketo.com
+   * app-datacenter.marketo.com
+   * munchkinID.mktoweb.com
    * 在订阅中配置的任何登陆页面域和别名
+
+   >[!NOTE]
+   >
+   >例如，如果您帐户的数据中心为“sjst”，则您的允许列表域将为 `app-sjst.marketo.com`. 如果您的Munchkin ID是123-ABC-789，则您允许列表将的域将为 `123-ABC-789.mktoweb.com`.
 
 1. 设置应接收有关此服务的任何警报的所有者和其他电子邮件地址。
 
@@ -49,20 +69,20 @@ ht-degree: 0%
 
 1. 在Marketo中，单击 **管理员**.
 
-   ![](assets/setting-up-recaptcha-v3-1.png)
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. 选择 **验证码** 在树上。
 
-   ![](assets/setting-up-recaptcha-v3-2.png)
+   ![](assets/setting-up-recaptcha-v3-5.png)
 
 1. 单击 **编辑** 在验证码设置中。
 
-   ![](assets/setting-up-recaptcha-v3-3.png)
+   ![](assets/setting-up-recaptcha-v3-6.png)
 
 1. 单击“CAPTCHA”下拉列表，然后选择reCAPTCHA v3。
 
-   ![](assets/setting-up-recaptcha-v3-4.png)
+   ![](assets/setting-up-recaptcha-v3-7.png)
 
 1. 插入密钥和站点密钥。 单击 **保存** 完成时。
 
-   ![](assets/setting-up-recaptcha-v3-5.png)
+   ![](assets/setting-up-recaptcha-v3-8.png)
