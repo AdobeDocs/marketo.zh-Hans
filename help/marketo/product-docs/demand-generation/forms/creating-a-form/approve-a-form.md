@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2359578
-description: 批准表单——营销人员文档——产品文档
+description: 批准表单 — Marketo文档 — 产品文档
 title: 批准表单
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
+# 批准表单 {#approve-a-form}
 
-# 批准表单{#approve-a-form}
+要向其中一个登陆页面添加表单，必须获得批准。 这是如何做到的。
 
-要向某个登陆页添加表单，必须获得批准。 下面介绍如何实现。
+## 批准表单 {#approve-a-form-1}
 
-## 批准表单{#approve-a-form-1}
+以下是如何批准已准备就绪的现有表单。
 
-下面介绍如何批准已准备好的现有表单。
-
-1. 转到&#x200B;**营销活动**。
+1. 转到 **营销活动**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 查找并选择表单。
+1. 查找并选择您的表单。
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. 在&#x200B;**表单操作**&#x200B;下，单击&#x200B;**批准**。
+1. 在 **表单操作**，单击 **批准**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,31 +34,24 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   它已被批准并准备添加到登陆页](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)中。[
+   已经批准并准备 [添加到登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
-   >在批准后所做的更改最长可能需要四分钟才能更新嵌入式表单。
+   >批准后所做的更改可能需要几分钟时间才能更新嵌入的表单。
 
-## 从编辑器{#approve-a-form-from-the-editor}批准表单
+## 从编辑器批准表单 {#approve-a-form-from-the-editor}
 
-如果要更改表单，则可以直接从编辑器批准页面。
+如果您对表单进行更改，则可以直接从编辑器中批准页面。
 
 >[!PREREQUISITES]
 >
->* [编辑表单](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
+>[编辑表单](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-
-1. 单击&#x200B;**完成**。
+1. 单击 **完成**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. 单击&#x200B;**批准并关闭**。
+1. 单击 **批准并关闭**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
-
->[!NOTE]
->
->请记住，如果您在表单获得批准后对其进行编辑，则需要[批准登陆页](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)才能看到更改。
-
-就这样！ 轻松自如。

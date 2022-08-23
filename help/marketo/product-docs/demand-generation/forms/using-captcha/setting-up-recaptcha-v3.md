@@ -4,16 +4,16 @@ title: 设置reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # 设置reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
-reCAPTCHA v3是一种无摩擦的体验，它根据提交内容的可疑程度对其进行评分，而无需使用文本、图像或按钮挑战。 [了解更多](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}。
+ReCAPTCHA v3是一种无摩擦的体验，它根据提交内容的可疑程度来对其进行评分，而无需使用文本、图像或按钮挑战。 [了解更多](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}。
 
 ## 检索您的数据中心ID和Munchkin ID {#retrieve-your-data-center-and-munchkin-id}
 
@@ -61,9 +61,9 @@ reCAPTCHA v3是一种无摩擦的体验，它根据提交内容的可疑程度�
 
 1. 单击 **提交**.
 
->[!NOTE]
->
->将站点密钥和密钥保留在便于Marketo Engage配置的位置。
+   >[!NOTE]
+   >
+   >将站点密钥和密钥保留在便于Marketo Engage配置的位置。
 
 ## 在Marketo Engage中设置CAPTCHA {#setting-up-captcha-in-marketo-engage}
 

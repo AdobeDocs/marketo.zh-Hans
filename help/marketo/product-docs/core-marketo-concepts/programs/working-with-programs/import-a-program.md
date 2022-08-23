@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 导入项目 — Marketo文档 — 产品文档
 title: 导入程序
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 可以从一个Marketo订阅导入另一个程序。 例如，您可以在沙盒中创建项目，然后将其导入实时订阅。 此外，您还可以从Marketo项目库导入预建项目。
 
-## 导入程序 {#import-a-program-1}
+## 导入程序 {#importing-a-program}
 
 1. 转到 **营销活动。**
 
@@ -46,6 +46,10 @@ ht-degree: 0%
 
    ![](assets/import-a-program-5.png)
 
+   >[!NOTE]
+   >
+   >将使用自定义流程步骤或从流程步骤服务派生的智能列表规则的程序导入到包含多个兼容服务提供商的目标实例中，系统将提示导入用户将步骤或规则分配给目标实例中的正确服务提供商。
+
 1. 预览详细信息和 **导入** 程序。
 
    ![](assets/import-a-program-6.png)
@@ -67,7 +71,7 @@ Marketo计划库包含可导入订阅的预建、经过测试的程序。 可用
 1. **有趣的时刻。** 为您的销售团队创造有趣的时刻，让他们保持循环。
 1. **具有自动响应程序的登陆页面。** 使用可下载的内容吸引新人并培养新人。 包括登陆页面和表单。
 1. **生命周期2.** 使用评分将人员从新人移动到符合营销资格条件。
-1. **Mobile电子邮件模板。** 针对iPhone和Android测试的响应式电子邮件模板。 Android、MS Outlook、Exchange和第三方应用程序(如Gmail和Yahoo! 邮件移动设备应用程序不支持响应模板所需的CSS。 我们建议您在发送电子邮件之前进行测试。
+1. **移动设备电子邮件模板。** 针对iPhone和Android测试的响应式电子邮件模板。 Android、MS Outlook、Exchange和第三方应用程序(如Gmail和Yahoo! 邮件移动设备应用程序不支持响应模板所需的CSS。 我们建议您在发送电子邮件之前进行测试。
 1. **项目导入抽奖。** 为尝试程序库的人提供抽奖计划！ 只需批准电子邮件和登陆页面并激活智能营销活动即可。 然后，查看已批准的登陆页面，填写表格，您就进入了！
 1. **销售活动。** 使销售代表能够从CRM的功能板中执行Marketo智能营销活动。
 1. **得分 — Spark Edition。** 在单个评分字段中捕获人口统计和行为评分。 包括二十多个与评分相关的营销活动。
