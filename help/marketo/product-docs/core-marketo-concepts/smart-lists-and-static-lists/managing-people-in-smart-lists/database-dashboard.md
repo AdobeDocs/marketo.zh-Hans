@@ -3,7 +3,7 @@ unique-page-id: 10097447
 description: 数据库功能板 — Marketo文档 — 产品文档
 title: 数据库仪表板
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 1de5fe50189da04ccdbcdcd017e294e5b8cba1af
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -30,6 +30,6 @@ ht-degree: 0%
 >
 >想要获取有关您人员的更具体或更及时的信息？ 尝试 [人员绩效报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**总人数：** 列出的工作区中所有时间的人员数量。
+**总人数：** 列出的工作区的全时人员数。
 
 **适销人群：** 列出的工作区的全时人员数， _减去以下项_:没有电子邮件地址的人、电子邮件已硬退回的人、被的人、列入阻止列表已取消订阅的人、当前设置为“营销暂停”的人。
