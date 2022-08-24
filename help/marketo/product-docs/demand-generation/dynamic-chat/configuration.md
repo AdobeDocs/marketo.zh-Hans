@@ -2,10 +2,10 @@
 description: 配置 — Marketo文档 — 产品文档
 title: 配置
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 0%
+source-wordcount: '296'
+ht-degree: 1%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 **代理设置**
 
-在“代理设置”中，您可以向动态消息框中添加标签(例如：“Adobe机器人”)。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。
+在“代理设置”中，您可以向动态消息框中添加标签(例如：“Adobe机器人”)。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。 要上传您自己的头像图像，请单击 **+** 按钮。
 
 ![](assets/configuration-5.png)
 
