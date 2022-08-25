@@ -4,9 +4,9 @@ title: 设置reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ ReCAPTCHA v3是一种无摩擦的体验，它根据提交内容的可疑程度�
    >将站点密钥和密钥保留在便于Marketo Engage配置的位置。
 
 ## 在Marketo Engage中设置CAPTCHA {#setting-up-captcha-in-marketo-engage}
+
+>[!IMPORTANT]
+>
+>在您执行这些步骤和 [在您的第一个Marketo表单中启用CAPTCHA](help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}，请务必立即测试表单，因为reCAPTCHA设置中的任何错误配置都可能破坏表单。
 
 1. 在Marketo中，单击 **管理员**.
 

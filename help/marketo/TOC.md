@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
 workflow-type: tm+mt
 source-wordcount: '8807'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
    + [Marketo术语表](getting-started/marketo-glossary.md)
    + [经典图标术语表](getting-started/classic-icon-glossary.md)
    + 设置 {#setup}
-      + [设置步骤](getting-started/setup-steps.md)
-      + [设置核对清单](getting-started/setup-steps/setup-checklist.md)
-      + [配置Marketo协议](getting-started/setup-steps/configure-protocols-for-marketo.md)
+      + [设置步骤](getting-started/setup/setup-steps.md)
+      + [设置核对清单](getting-started/setup/setup-checklist.md)
+      + [配置Marketo协议](getting-started/setup/configure-protocols-for-marketo.md)
    + 快速获胜 {#quick-wins}
       + [设置并添加人员](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [发送电子邮件](getting-started/quick-wins/send-an-email.md)
