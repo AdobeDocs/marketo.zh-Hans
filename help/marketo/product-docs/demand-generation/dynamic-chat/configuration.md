@@ -2,10 +2,10 @@
 description: 配置 — Marketo文档 — 产品文档
 title: 配置
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,6 +40,10 @@ ht-degree: 1%
 在“代理设置”中，您可以向动态消息框中添加标签(例如：“Adobe机器人”)。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。 要上传您自己的头像图像，请单击 **+** 按钮。
 
 ![](assets/configuration-5.png)
+
+>[!NOTE]
+>
+>自定义头像应为小于256kb且小于200x200像素的方形图像。 支持的文件类型包括：.jpg、.png、.gif、.webp、.svg。
 
 完成更改后，请记住单击 **保存**.
 
