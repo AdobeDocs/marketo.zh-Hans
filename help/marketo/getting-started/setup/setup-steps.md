@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: 设置步骤 — Marketo文档 — 产品文档
 title: 设置步骤
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -199,7 +199,7 @@ ht-degree: 0%
 
 收集所有必需信息后，即可向IT发送请求。 您可以将下面的文本用作模板，将粗体文本替换为您自己的信息。
 
-[包括指向本文的链接](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
+[包括指向本文的链接](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
 将此文本粘贴到电子邮件中，并替换加粗体的占位符：
 
