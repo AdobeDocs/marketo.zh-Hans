@@ -2,9 +2,9 @@
 title: Marketo产品文档
 description: Marketo产品文档
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: a28532c5fb68381da14844c9fd564a4c70476028
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 快速入门
 
-* [设置步骤](/help/marketo/getting-started/setup-steps.md)
+* [设置步骤](/help/marketo/getting-started/setup/setup-steps.md)
 * [设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [配置Marketo协议](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)
 * [Marketo术语表](/help/marketo/getting-started/marketo-glossary.md)

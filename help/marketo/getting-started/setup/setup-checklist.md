@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: 设置核对清单 — Marketo文档 — 产品文档
 title: 设置核对清单
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 设置核对清单 {#setup-checklist}
 
-欢迎使用 Marketo! 请随时使用以下清单作为可视化的待办事项列表，以开始工作。 有关详细信息可在 [设置步骤](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}。
+欢迎使用 Marketo! 请随时使用以下清单作为可视化的待办事项列表，以开始工作。 有关详细信息可在 [设置步骤](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}。
 
 ## 登录Marketo并创建其他用户 {#log-in-to-marketo-and-create-additional-users}
 
@@ -50,4 +50,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[设置步骤](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
+>[设置步骤](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
