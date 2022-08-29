@@ -1,16 +1,17 @@
 ---
 description: 发行说明 — 2022年3月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年3月
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: 91826d56-a38e-44af-b798-17bfc016c311
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 发行说明：2022年3月 {#release-notes-mar-22}
 
-’22年3月版中包含以下功能。 查看您的AdobeMarketo Engage版以了解功能的可用性。
+’22年3月版中包含以下功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
 
 >[!AVAILABILITY]
 >
@@ -76,4 +77,4 @@ ht-degree: 0%
 
 **_产品发行网络研讨会_**
 
-2022年5月11日上午9:00（太平洋时间）/中午12:00（下午1:00）与我们一起 [实时网络研讨会](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html) 由我们的产品团队托管，您可以在该团队中了解如何使用所有最新的产品创新。
+[2022年3月和5月版Marketo Engage网络研讨会](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}

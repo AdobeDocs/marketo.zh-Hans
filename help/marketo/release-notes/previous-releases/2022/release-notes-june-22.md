@@ -1,9 +1,10 @@
 ---
 description: 发行说明 — 2022年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年6月
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -75,4 +76,4 @@ ht-degree: 0%
 
 **_产品发行网络研讨会_**
 
-在2022年8月24日上午9:00（太平洋时间）/中午12:00（下午1:00）与我们一起，参加a [实时网络研讨会](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html)由我们的产品团队托管的{target=&quot;_blank&quot;}，您可以在其中了解如何使用所有最新的产品创新。
+[2022年6月和8月Marketo Engage发布网络研讨会](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
