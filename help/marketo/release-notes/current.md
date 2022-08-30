@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
-* **同时启用/禁用动态聊天的所有已发布对话框**:通过按按钮，从“配置”页面全局一次启用/禁用所有已发布的对话框。
+* **[同时启用/禁用动态聊天的所有已发布对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**:通过按按钮，从“配置”页面全局一次启用/禁用所有已发布的对话框。
 
 * **用于动态聊天的自定义变量**:上传自定义聊天机器人头像，以便能够针对您的品牌进行个性化。
 
