@@ -2,7 +2,7 @@
 description: 配置 — Marketo文档 — 产品文档
 title: 配置
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 样式选项卡 {#style-tab}
 
-**样式**
+### 样式 {#style}
 
 您将在此处定义将显示对话框的聊天机器人的外观，包括：颜色、字体、机器人小组件的位置以及聊天机器人的名称/头像。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/configuration-4.png)
 
-**代理设置**
+### 代理设置 {#agent-settings}
 
 在“代理设置”中，您可以向动态消息框中添加标签(例如：“Adobe机器人”)。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。 要上传您自己的头像图像，请单击 **+** 按钮。
 

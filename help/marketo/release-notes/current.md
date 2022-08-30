@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 * **[同时启用/禁用动态聊天的所有已发布对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**:通过按按钮，从“配置”页面全局一次启用/禁用所有已发布的对话框。
 
-* **用于动态聊天的自定义变量**:上传自定义聊天机器人头像，以便能够针对您的品牌进行个性化。
+* **[用于动态聊天的自定义变量](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**:上传自定义聊天机器人头像，以便能够针对您的品牌进行个性化。
 
 * **动态聊天的聊天记录**:查看每次对话的聊天记录，以便更深入地了解每位Web访客感兴趣的内容。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 * **在移动对话框中显示目标文件夹的文件夹层次结构**:查看每个文件夹的文件夹层次结构可以更轻松地移动资产，并降低将资产放入错误文件夹的可能性。
 
-* **更新了下一代体验中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
+* **[更新了下一代体验中的屏幕](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
 
    * 代码片段详细信息
    * “图像和文件”详细信息
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## 体验自动化 {#experience-automation}
 
-* **自助流程步骤 — 计划导入增强功能**:改进了对导入具有自定义流程步骤的程序的支持，在这些流程步骤中，您现在可以使用同一服务提供商的多个实例，并导入具有与这些服务提供商兼容的流程步骤的程序。
+* **[自助流程步骤 — 计划导入增强功能](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**:改进了对导入具有自定义流程步骤的程序的支持，在这些流程步骤中，您现在可以使用同一服务提供商的多个实例，并导入具有与这些服务提供商兼容的流程步骤的程序。
 
 * **Munchkin — 扩展的链接跟踪**:扩展对跟踪的支持 `tel` 和 `mailto` 与Munchkin链接以跟踪扩展的Web行为集。
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ![（星号）](assets/yellow-star.png)
 
-* **Sales Insight与动态聊天的集成**:在Sales Insight面板中通过动态聊天查看活动，并在您的潜在工作中利用此新数据点。
+* **[Sales Insight与动态聊天的集成](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**:在Sales Insight面板中通过动态聊天查看活动，并在您的潜在工作中利用此新数据点。
 
 ## 公告 {#announcements}
 
