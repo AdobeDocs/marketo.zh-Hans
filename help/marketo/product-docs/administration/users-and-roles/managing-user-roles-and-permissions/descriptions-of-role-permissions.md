@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: 角色权限描述 — Marketo文档 — 产品文档
 title: 角色权限描述
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 1f5a6ab994ccb81ff32f39ac32eef6a37aeab192
 workflow-type: tm+mt
-source-wordcount: '1146'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
@@ -162,7 +162,6 @@ ht-degree: 0%
    * 删除分段
    * 编辑分段
 
-* 高级列表导入
 * 删除人员
 * 删除列表
 * 编辑人员 — 阻止手动编辑和运行单个流程步骤；您仍可以通过针对人员运行营销活动来编辑人员
