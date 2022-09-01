@@ -3,7 +3,7 @@ unique-page-id: 2359418
 description: 导入人员列表 — Marketo文档 — 产品文档
 title: 导入人员列表
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 1. 要开始，请下载我们的实践电子表格文件([**tradeshow-tohates.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;})。
 
-   ![](assets/image2014-9-24-12-3a5-3a0.png)
+   ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 1. 添加您自己的名字、姓氏、实际电子邮件地址（以便您能够收到下次任务中将发送的培养电子邮件）和职位。 将文件保存在您的计算机上。
 
-   ![](assets/image2014-9-24-12-3a5-3a30.png)
+   ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
@@ -46,19 +46,19 @@ ht-degree: 0%
 
 1. 转到 **营销活动** 的上界。
 
-   ![](assets/ma-2.png)
+   ![](assets/import-a-list-of-people-3.png)
 
 1. 选择 **学习** 文件夹，然后在 **新建** 单击 **新计划**.
 
-   ![](assets/image2014-9-24-12-3a21-3a13.png)
+   ![](assets/import-a-list-of-people-4.png)
 
 1. **名称** “我的贸易展项目”，并为 **程序类型**.
 
-   ![](assets/image2014-9-24-12-3a21-3a25.png)
+   ![](assets/import-a-list-of-people-5.png)
 
 1. 选择 **贸易展** 对于 **渠道** 单击 **创建**.
 
-   ![](assets/image2014-9-24-12-3a21-3a39.png)
+   ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
@@ -68,19 +68,19 @@ ht-degree: 0%
 
 1. 在 **我的贸易展计划**，单击 **新建** 选择 **新建本地资产**.
 
-   ![](assets/seven-3.png)
+   ![](assets/import-a-list-of-people-7.png)
 
-1. 单击 **列表**.
+1. 选择 **列表**.
 
-   ![](assets/image2014-9-24-12-3a22-3a56.png)
+   ![](assets/import-a-list-of-people-8.png)
 
 1. **名称** 列出“展会与会者”，然后单击 **创建**.
 
-   ![](assets/image2014-9-24-12-3a23-3a9.png)
+   ![](assets/import-a-list-of-people-9.png)
 
 1. 在 **展会与会者** 列表，单击 **列出操作** 选择 **导入列表**.
 
-   ![](assets/ten-2.png)
+   ![](assets/import-a-list-of-people-10.png)
 
    >[!CAUTION]
    >
@@ -92,7 +92,7 @@ ht-degree: 0%
 
 1. **浏览** 到 **tradeshow-tohates.csv** 在您的计算机上，单击 **下一个**.
 
-   ![](assets/eleven-2.png)
+   ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 1. 将列表列字段映射到相应的Marketo字段，然后单击 **下一个**.
 
-   ![](assets/image2014-9-24-12-3a24-3a49.png)
+   ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
@@ -117,15 +117,15 @@ ht-degree: 0%
 
 1. 选择 **我的贸易展计划** 对于 **客户获取计划**，然后单击 **导入**.
 
-   ![](assets/image2014-9-24-12-3a25-3a1.png)
+   ![](assets/import-a-list-of-people-13.png)
 
 1. 等待人员导入，然后关闭导入进度弹出窗口。
 
-   ![](assets/image2014-9-24-12-3a25-3a13.png)
+   ![](assets/import-a-list-of-people-14.png)
 
 1. 返回 **我的贸易展计划**，请单击 **成员** 选项卡。 你会看到刚进来的人。
 
-   ![](assets/fifteen-1.png)
+   ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
