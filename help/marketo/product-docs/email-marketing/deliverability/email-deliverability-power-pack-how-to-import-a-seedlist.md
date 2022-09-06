@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: 电子邮件可投放性Power Pack — 如何导入种子列表 — Marketo文档 — 产品文档
 title: 电子邮件可投放性Power Pack — 如何导入种子列表
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 ## 导入种子列表 {#import-a-seedlist}
 
-1. 转到 **投放能力工具**.
+1. 在我的Marketo中，选择 **投放能力工具**.
 
-   ![](assets/one-1.png)
+   ![](assets/email-deliverability-power-pack-1.png)
 
 1. 单击 **收件箱线人**.
 
