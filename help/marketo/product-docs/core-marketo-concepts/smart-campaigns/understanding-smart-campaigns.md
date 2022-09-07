@@ -1,60 +1,61 @@
 ---
 unique-page-id: 2953120
-description: 了解智能活动- Marketo文档 — 产品文档
-title: 了解智能活动
+description: 了解智能营销活动 — Marketo文档 — 产品文档
+title: 了解智能营销活动
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 0%
+source-wordcount: '252'
+ht-degree: 1%
 
 ---
 
-# 了解智能活动{#understanding-smart-campaigns}
+# 了解智能营销活动 {#understanding-smart-campaigns}
 
-![](assets/image2014-12-24-11-3a37-3a0.png)
+如果Marketo是一辆强大的汽车，那么智能营销活动就是真正的引擎。 入门很简单，但几乎可以做任何你要求的事情。
 
-如果Marketo是一辆强大的汽车，那么智能活动就是真正的引擎。 入门很简单，但几乎可以做任何您要求的事情。
+智能营销活动有三个主要方面：的 [智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [流量](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target=&quot;_blank&quot;}和 [计划](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target=&quot;_blank&quot;}选项卡。
 
-智能活动有3个主要方面：[智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)、[流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)和[计划](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)选项卡。
+## 智能列表 {#smart-list}
 
-## 智能列表{#smart-list}
-
-智能列表是您如何定义要使用智能活动目标的WHO。 它有过滤器和触发器。
+智能列表是您如何定义要通过智能营销活动定位的WHO。 它包含过滤器和触发器。
 
 <table> 
  <tbody> 
   <tr> 
    <th>类型</th> 
    <th>示例</th> 
-   <th>解释</th> 
+   <th>说明</th> 
   </tr> 
   <tr> 
-   <td>滤镜</td> 
-   <td>已点击链接</td> 
-   <td><p>将当前符合资格的所有人员收集到一个批中。</p></td> 
+   <td>筛选器</td> 
+   <td>点击的链接</td> 
+   <td><p>收集当前批中符合条件的所有人员。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1">触发器</td> 
    <td colspan="1">点击链接</td> 
-   <td colspan="1">一旦有人做了些事，立刻就启动。</td> 
+   <td colspan="1">一有人做什么，就立刻触发流。</td> 
   </tr> 
  </tbody> 
 </table>
 
-您可以以各种方式组合过滤器，并将它们与触发器结合使用。 这是一个强大的工具 — 尝试一下。
+您可以通过各种方式组合过滤器，并将它们与触发器结合使用。 这是一个强大的工具 — 试试它。
 
-## 流{#flow}
+## 流量 {#flow}
 
-该流程包括您希望智能活动执行的步骤，包括等待步骤和拆分选择。
+该流程包括您希望智能营销活动执行的步骤，包括等待步骤和拆分选项。
 
-## 计划{#schedule}
+## 计划 {#schedule}
 
-最后，当您运行智能活动时，此控件会生效。 您甚至可以设置重复，以便它在重复计划上运行。
+最后，此功能可控制您运行智能营销活动的时间。 您甚至可以设置重复，以便它按重复计划运行。
 
-聪明的活动可以做很多事情。 掌握它，您会发现Marketo中的一切变得更简单易懂。
+智能营销活动可以做很多事情。 掌握它，你会发现Marketo里的一切都变得简单易懂。
+
+>[!CAUTION]
+>
+>如果您将智能营销活动从一个项目移动到另一个项目，并且营销活动的智能列表或流程步骤引用原始项目，则必须手动更新信息以反映其新项目，如同 **not** 自动更新。
 
 >[!MORELIKETHIS]
 >
->[创建新的智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[创建新的智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}
