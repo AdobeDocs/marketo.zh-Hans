@@ -3,10 +3,10 @@ unique-page-id: 2949711
 description: 使用注册代码安装适用于Outlook的Marketo电子邮件加载项 — Marketo文档 — 产品文档
 title: 使用注册代码安装适用于Outlook的Marketo Email Add-in
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
+source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->在Windows用户文件夹包含非英语字符的PC上不支持安装。 此文件夹由Windows在 <System Root>\Users\基于Windows用户名，如果Windows用户名是非英文名称，则可能包含非英文字符。 请与您的IT团队合作，以验证您是否遇到安装问题。
+>在Windows用户文件夹包含非英语字符的PC上不支持安装。 此文件夹由Windows在 `<System Root>\Users\` 根据Windows用户名，如果Windows用户名是非英文名称，则可能包含非英文字符。 请与您的IT团队合作，以验证您是否遇到安装问题。
 
 >[!NOTE]
 >
