@@ -1,58 +1,61 @@
 ---
 unique-page-id: 2949711
-description: 使用注册代码 — Marketo Docs — 产品文档安装Outlook的Marketo Email Add-in
-title: 使用注册代码安装Outlook的Marketo Email Add-in
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+description: 使用注册代码安装适用于Outlook的Marketo电子邮件加载项 — Marketo文档 — 产品文档
+title: 使用注册代码安装适用于Outlook的Marketo Email Add-in
+exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
+source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 0%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
+# 使用注册代码安装适用于Outlook的Marketo Email Add-in {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
-# 使用注册代码{#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}安装Outlook的Marketo Email Add-in
+如果用户可以在其笔记本电脑上访问管理员设置，您可以直接向他们发送注册代码。
 
-如果用户可以在其笔记本电脑上访问管理员设置，则可以直接向他们发送注册代码。
-
-如果您尚未收到邀请电子邮件，请让您的Marketo管理员邀请您。
+如果您尚未收到邀请电子邮件，请联系Marketo管理员以邀请您。
 
 >[!PREREQUISITES]
 >
->您必须[已获得Marketo Email Add-in许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)。
+>你必须 [颁发了Marketo Email Add-in许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+
+>[!IMPORTANT]
+>
+>在Windows用户文件夹包含非英语字符的PC上不支持安装。 此文件夹由Windows在 <System Root>\Users\基于Windows用户名，如果Windows用户名是非英文名称，则可能包含非英文字符。 请与您的IT团队合作，以验证您是否遇到安装问题。
 
 >[!NOTE]
 >
->截至10/1/20，最新版Outlook插件不再支持脱机模式。 此操作将在10/1或之后安装/升级后生效。
+>10/1/20上，最新版本的Outlook插件停止支持离线模式。
 
-## 下载安装程序{#download-installer}
+## 下载安装程序 {#download-installer}
 
-1. 识别[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. 识别您的 [Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 
-1. 单击该链接以下载适合您的Microsoft Outlook版本的安装程序。
+1. 单击该链接可下载适用于您的Microsoft Outlook版本的安装程序。
 
    >[!NOTE]
    >
-   >此时，以下链接仅在Microsoft Edge中工作，或在Chrome中右键单击。 抱歉给您带来任何不便。
+   >目前，以下链接仅在Microsoft Edge中运行，或在Chrome中右键单击鼠标。 对不起。
 
    | Outlook版本 | 32位Outlook | 64位Outlook |
    |---|---|---|
-   | Outlook 2000 | 不支持 | N/A |
-   | Outlook 2003 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/A |
-   | Outlook 2007 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/A |
-   | Outlook 2010 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | 2000年展望 | 不受支持 | 不适用 |
+   | 2003年展望 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 不适用 |
+   | 2007年展望 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 不适用 |
+   | 2010年展望 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | 2013年展望 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | 《2016年展望》 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | 《2019年展望》 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook for Mac | 不支持 | 不支持 |
-   | Outlook Web应用程序 | 不支持 | 不支持 |
+   | Mac展望 | 不受支持 | 不受支持 |
+   | Outlook Web应用程序 | 不受支持 | 不受支持 |
    | Office 365* | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
    *Office 365版本：仅限Windows客户端（在Windows 10、Enterprise或Pro上）。
 
-## 复制注册代码{#copy-your-registration-code}
+## 复制您的注册代码 {#copy-your-registration-code}
 
-1. 从您收到的邀请电子邮件中复制注册代码。
+1. 复制您收到的邀请电子邮件中的注册代码。
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
@@ -60,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-## 安装{#install}
+## 安装 {#install}
 
 1. 运行安装程序。
 
@@ -68,33 +71,33 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果收到安全警告，别担心！ 只需单击&#x200B;**运行**。
+   >如果收到安全警告，别担心！ 只需单击 **运行**.
 
-1. 单击&#x200B;**下一步**。
+1. 单击 **下一个**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. 填写&#x200B;**名字**、**姓氏**、**电子邮件地址**，然后将电子邮件中的&#x200B;**注册代码**&#x200B;复制并粘贴到表单中，然后单击&#x200B;**下一个**。
+1. 填写 **名字**, **姓氏**, **电子邮件地址**，然后复制并粘贴 **注册代码** 从电子邮件转到表单，然后单击 **下一个**.
 
    ![](assets/enter-your-information-hands.png)
 
    >[!TIP]
    >
-   >如果安装失败，请咨询您的IT部门以确保HTTPS通信不被阻止。 安装程序需要打开HTTPS通信。
+   >如果安装失败，请咨询您的IT部门，以确保HTTPS流量不会被阻止。 安装程序需要打开HTTPS流量。
 
-1. 单击&#x200B;**下一步**&#x200B;以在默认位置安装。
+1. 单击 **下一个** 以在默认位置安装。
 
    ![](assets/select-installation-folder-hand.png)
 
-1. 单击&#x200B;**下一步**。
+1. 单击 **下一个**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >如果收到有关未知发布者的安全提示，请单击&#x200B;**是**。
+   >如果收到有关未知发布者的安全提示，请单击 **是**.
 
-1. 安装现已完成，请单击&#x200B;**关闭**。
+1. 安装现已完成，请单击 **关闭**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
@@ -108,6 +111,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Outlook的Marketo Email Add-in发送和跟踪电子邮件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用适用于Outlook的Marketo Email Add-in发送和跟踪电子邮件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [使用Marketo模板从Outlook发送和跟踪](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
