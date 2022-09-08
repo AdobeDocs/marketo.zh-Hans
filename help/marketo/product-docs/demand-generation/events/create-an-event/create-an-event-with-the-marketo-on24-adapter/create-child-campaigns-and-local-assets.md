@@ -3,14 +3,18 @@ unique-page-id: 10096675
 description: 创建子营销活动和本地资产 — Marketo文档 — 产品文档
 title: 创建子营销活动和本地资产
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
 # 创建子营销活动和本地资产 {#create-child-campaigns-and-local-assets}
+
+>[!IMPORTANT]
+>
+>自2022年8月起，ON24不再支持新的Marketo集成。 本文中的信息仅适用于现有用户。
 
 使用Design Studio创建子营销活动和本地资产。
 
