@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: 管理用户角色和权限 — Marketo文档 — 产品文档
 title: 管理用户角色和权限
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Marketo提供了多个具有不同访问级别的内置角色：
 
 ## 具有Adobe标识的Marketo {#marketo-with-adobe-identity}
 
-如果您将Marketo与Adobe标识一起使用，则会显示配置文件描述列表 [可在此处找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#profile-levels).
+如果您将Marketo与Adobe标识一起使用，则会显示配置文件描述列表 [可在此处找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## 为用户分配角色 {#assign-roles-to-a-user}
 
