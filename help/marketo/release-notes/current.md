@@ -2,76 +2,62 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
 
-# 发行说明：2022年8月 {#release-notes-aug-22}
+# 发行说明：2022年10月 {#release-notes-oct-22}
 
-下面将显示’22年8月版中包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
+在下面，您将找到’22年10月版中包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
 
 >[!AVAILABILITY]
 >
 >由星(![星星](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
-将在 **2022年8月26日**，并在随后的几周内分阶段推出其余功能（除非另有指定）。 发行功能和确切日期可能会发生更改。
+将在 **2022年10月14日**，并在随后的几周内分阶段推出其余功能（除非另有指定）。 发行功能和确切日期可能会发生更改。
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
-* **[同时启用/禁用动态聊天的所有已发布对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**:通过按按钮，从“配置”页面全局一次启用/禁用所有已发布的对话框。
+* **为动态聊天自动排列对话框流**:通过按“自动排列”按钮，将画布上的所有内容整理为简洁且易于阅读的格式，从而改善您拥挤的对话框画布。
 
-* **[用于动态聊天的自定义变量](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**:上传自定义聊天机器人头像，以便能够针对您的品牌进行个性化。
+* **支持动态聊天的其他数据类型**:三种新的Marketo Engage类型（布尔、整数、浮点）允许您在动态聊天中利用更多现有的数据字段，进行诸如基于分数进行定位或询问访客是/否问题之类的操作。
 
-* **动态聊天的聊天记录**:查看每次对话的聊天记录，以便更深入地了解每位Web访客感兴趣的内容。
+* **用于动态聊天的会议链接**:在发送给访客的每个日历邀请中自动包含Google和Outlook的“团队”或“会面”链接的选项。
 
-## 新一代体验
+* **用于动态聊天的计划会议通知**:销售代表会收到有关计划会议的自动电子邮件通知以及有关访客聊天机器人交互的任何相关信息。
 
-* **Adobe品牌化**:使用新的Adobe Experience Cloud品牌更新了编辑器和人员详细信息页面的外观。
+* **动态聊天的角色和权限**:管理员可以使用粒度权限控制应用程序的可见性和使用情况，并创建自定义用户角色。
 
-* **在移动对话框中显示目标文件夹的文件夹层次结构**:查看每个文件夹的文件夹层次结构可以更轻松地移动资产，并降低将资产放入错误文件夹的可能性。
+   * 完全访问 — 用户可以充分利用该功能（例如，发布对话框、更改颜色方案等）
+   * 只读访问权限 — 用户可以查看信息但无法更改（例如，查看受众标准或流设计器，但不能更改）
+   * 访问受限 — 用户无法查看或访问配置或集成部分
 
-* **[更新了下一代体验中的屏幕](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
+## 新一代体验 {#next-generation-experience}
 
-   * 代码片段详细信息
-   * “图像和文件”详细信息
+* **更新了下一代体验中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
 
->[!NOTE]
->
->在营销活动中，将资产移动到项目中的文件夹是例外。 此移动操作不会显示文件夹层次结构，因为程序中的文件夹不能具有重复的名称。
+   * 登陆页面模板详细信息
+   * 电子邮件模板列表
 
-## 体验自动化 {#experience-automation}
+* **增强了“电子邮件模板详细信息”中的“使用者”选项卡**:在新体验中，您将看到与使用电子邮件模板的资产相关的其他信息，包括资产状态、上次修改时间和上次修改时间。 您还可以搜索、排序和过滤资产使用的列表。
 
-* **[自助流程步骤 — 计划导入增强功能](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**:改进了对导入具有自定义流程步骤的程序的支持，在这些流程步骤中，您现在可以使用同一服务提供商的多个实例，并导入具有与这些服务提供商兼容的流程步骤的程序。
-
-* **Munchkin — 扩展的链接跟踪**:扩展对跟踪的支持 `tel` 和 `mailto` 与Munchkin链接以跟踪扩展的Web行为集。
-
-* **Webhook自定义标题可见性**:现在，Webhook自定义标头会显示在“管理员”>“Webhooks”选项卡中，以便提高可见性。
-
-* **验证码**:使用reCAPTCHA v3评估表单提交的有效性，以对传入表单流量进行评分。 构建营销工作流，以自动排除、隔离或删除可疑的机器人流量。
-
-* **批准表单的权限**:新权限，用于控制哪些设计人员可以根据其他Design Studio资产批准对表单所做的更改。 这样可以防止其他设计人员在没有获得批准权限的其他人审核表单的情况下将更改推送到表单。
-
-* **始终在匿名合并后执行Campaign重播**:在营销活动重播之前会进行匿名潜在客户合并，这样，在完成匿名营销活动重播后，自定义字段过滤器就能可靠地运行。
+* **报表资产过滤器模型**:报表配置模型的新设计，在配置菜单中显示新的资产树，并为创建和修改日期设置筛选器。
 
 ## 营销数据环境 {#marketing-data-environment}
 
-* **修复了自定义对象“使用者”字段的UI截断**:现在更容易识别“正在使用”的自定义对象字段，以便在必要时从自定义对象中删除字段。
+* **AdobePrivacy Service集成**:与Privacy Service协调，以自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入的Marketo Engage客户 [AdobeIdentity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target=&quot;_blank&quot;}系统。
+
+* **程序成员自定义字段同步**:能够双向同步为程序成员捕获的可扩展字段(例如，在事件注册期间（如食物、会话、轨道等）的参与者偏好
 
 ## API增强功能 {#api-enhancements}
 
-* **批量程序成员提取API的新筛选功能**:按程序成员资格状态、updatedAt、频率或用尽的内容过滤，以优化提取的数据集。
-
-## 销售分析 {#sales-insight}
-
-![（星号）](assets/yellow-star.png)
-
-* **[Sales Insight与动态聊天的集成](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**:在Sales Insight面板中通过动态聊天查看活动，并在您的潜在工作中利用此新数据点。
+* **批量潜在客户导入：销售人员关联**:与潜在客户REST API对等，以便能够在批量潜在客户导入过程中将潜在客户与销售人员关联，从而降低复杂性和所需API调用数。
 
 ## 公告 {#announcements}
 
-**_产品发行网络研讨会_**
+* **Forms 1.0**:Forms 1.0的弃用将在10月版中完成。 Forms 1.0资产将无法再向Marketo Engage提交数据，如果尝试，则将返回错误。
 
-[2022年6月和8月Marketo Engage发布网络研讨会](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+* **无脚本Forms**:在浏览器中禁用Javascript后，Forms将无法再正常运行。 表单提交将要求启用Javascript。
