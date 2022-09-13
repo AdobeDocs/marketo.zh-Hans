@@ -2,9 +2,9 @@
 description: 过滤电子邮件机器人活动 — Marketo文档 — 产品文档
 title: 筛选电子邮件机器人活动
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 2fd0856e21c51af6ca29887978d5aa946733405d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,16 +36,13 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 选择 **与IAB列表匹配**, **与邻近模式匹配**，或两者兼有。
+1. 选择 **与IAB列表匹配**, **与邻近模式匹配**，或两者兼有。 选择是否记录机器人活动 _或_ 过滤机器人活动。
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->* 您可以选择过滤机器人活动 **或** 已记录。 如果选择已过滤，您可能会看到打开的电子邮件中出现一个拖放，并在删除假活动时单击。
->
->* 目前，“与邻近模式匹配”只有“日志机器人活动”可用。
-
+>如果选择过滤机器人活动，您可能会在电子邮件打开数中看到一个下拉消息，并在删除假活动时单击该消息。
 
 **可选步骤**:要禁用此功能，只需取消选择滑块即可。 如果禁用，则数据不会重置。
 
