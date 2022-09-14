@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: 电子邮件可投放性Power Pack — 如何导入种子列表 — Marketo文档 — 产品文档
 title: 电子邮件可投放性Power Pack — 如何导入种子列表
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ ht-degree: 0%
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. 单击 **收件箱线人**.
+1. 珠穆朗玛峰申请将打开。 在左侧导航栏中，单击 **飞行中** 选择 **收件箱放置**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. 单击 **获取种子列表**.
+1. 单击 **管理种子列表** 选项卡。
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. 单击 **导出列表**.
+1. 单击操作下拉框，然后选择 **每行下载一个**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >选择 **优化列表** 如果你想要250ok [优化列表](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) 为你。 选择 **自定义列表** 如果要选择要包含的种子列表区域。
+   >如果您希望珠峰能为您优化列表，请使用种子列表优化器（位于页面顶部）。
 
 1. 导出后，该列表将在浏览器的下载文件夹中显示为.txt文件。 检索它，然后 [导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 作为静态列表放入Marketo实例中。
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >您每月可获得有限数量的这些收件箱线人活动。 要查看您获得的数量，请查看您的250ok **帐户设置**. 要获取更多信息，请联系您的Marketo销售代表。
+   >您每月可获得这些收件箱投放促销活动的有限数量。 要查看您的订阅量，请查看Everest中帐户设置>订阅下的订阅部分。 要获取更多信息，请联系您的Marketo销售代表。
 
 ## 获取新种子列表 {#acquiring-new-seedlists}
 
