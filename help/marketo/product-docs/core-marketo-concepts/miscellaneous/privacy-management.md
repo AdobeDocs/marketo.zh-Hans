@@ -2,9 +2,9 @@
 description: 隐私管理 — Marketo文档 — 产品文档
 title: 隐私管理
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,14 @@ Marketo Engage提供一套工具来帮助您遵守隐私法规。
 
 >[!NOTE]
 >
->通过Privacy ServiceUI或API提交的Marketo Engage隐私请求仅适用于具有Marketo Engage+ RT-CDP、B2B和B2P版本的用户。
+>通过Privacy ServiceUI或API提交的Marketo Engage请求仅适用于以下内容：
+>
+>* Marketo Engage已载入AdobeIdentity Management系统的用户
+>
+>**-或-**
+>
+>* Marketo Engage用户使用AdobeIdentity Management系统上已有的其他Experience Cloud产品(例如RT-CDP、B2B和B2P版本、Audience Manager)。
+
 
 ## 隐私管理法规 {#regulations-on-privacy-management}
 

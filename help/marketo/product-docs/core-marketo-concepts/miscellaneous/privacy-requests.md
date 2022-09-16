@@ -2,9 +2,9 @@
 description: 隐私请求 — Marketo文档 — 产品文档
 title: 隐私请求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->通过Privacy ServiceUI或API提交的Marketo Engage隐私请求仅适用于具有Marketo Engage+ RT-CDP、B2B和B2P版本的用户。
+>通过Privacy ServiceUI或API提交的Marketo Engage请求仅适用于以下内容：
+>
+>* Marketo Engage已载入AdobeIdentity Management系统的用户
+>
+>**-或-**
+>
+>* Marketo Engage用户使用AdobeIdentity Management系统上已有的其他Experience Cloud产品(例如RT-CDP、B2B和B2P版本、Audience Manager)。
+
 
 您可以通过两种方式提交单个请求以从Marketo Engage中访问和删除消费者数据：
 
