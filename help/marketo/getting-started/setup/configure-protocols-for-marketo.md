@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: 为Marketo配置协议 — Marketo文档 — 产品文档
 title: 配置Marketo协议
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1031'
 ht-degree: 1%
 
 ---
@@ -50,6 +50,10 @@ ht-degree: 1%
 例如：
 
 `pages.abc.com IN CNAME mkto-a0244.com`
+
+>[!NOTE]
+>
+>`[MktoTrackingLink]` 必须是默认品牌域。
 
 `3` **通知您的营销团队**
 
