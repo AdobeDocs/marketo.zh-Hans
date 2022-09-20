@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,12 @@ ht-degree: 0%
 ## API增强功能 {#api-enhancements}
 
 * **批量潜在客户导入：销售人员关联**:与潜在客户REST API对等，以便能够在批量潜在客户导入过程中将潜在客户与销售人员关联，从而降低复杂性和所需API调用数。
+
+## 销售分析 {#sales-insight}
+
+![（星号）](assets/yellow-star.png)
+
+* **[Sales Insight与动态聊天的集成](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**:分析功能板现在包括智能网格中的动态聊天活动，以及每周摘要和详细信息卡片。
 
 ## 公告 {#announcements}
 
