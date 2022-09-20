@@ -3,9 +3,9 @@ unique-page-id: 7513680
 description: 自动发出警报，以发现可能的重复人员 — Marketo文档 — 产品文档
 title: 自动提醒可能存在重复的人员
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 50fc46312d2c7c25556994fad4e118c01cf92fc0
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 * 触发器： **已创建人员**
 * 过滤器： **复制字段。** 字段名称 **为全名**
 
-   ![](assets/image2017-3-27-8-3a22-3a4.png)
+   ![](assets/automate-an-alert-1.png)
 
    >[!TIP]
    >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 1. 在流程步骤中，选择 [发送警报](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target=&quot;_blank&quot;}流操作。
 
-   ![](assets/image2017-3-27-8-3a24-3a8.png)
+   ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 1. 在 **计划** 选项卡。
 
-   ![](assets/image2017-3-27-8-3a24-3a37.png)
+   ![](assets/automate-an-alert-3.png)
 
 就这样！ 每次在Marketo中创建现有全名新人员时，此智能营销活动都会触发。
 
