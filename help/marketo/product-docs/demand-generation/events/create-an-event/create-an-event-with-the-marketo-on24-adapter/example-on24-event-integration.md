@@ -3,18 +3,14 @@ unique-page-id: 10096679
 description: 24事件集成示例 — Marketo文档 — 产品文档
 title: ON24事件集成示例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 # ON24事件集成示例 {#example-on-event-integration}
-
->[!IMPORTANT]
->
->自2022年8月起，ON24不再支持新的Marketo集成。 本文中的信息仅适用于现有用户。
 
 以下是ON24网络研讨会的示例活动，包括营销活动。 构建事件时，请务必先测试营销活动，然后再运行营销活动。
 
@@ -96,4 +92,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[了解Marketo ON24适配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[了解Marketo ON24适配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

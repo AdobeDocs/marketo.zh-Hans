@@ -3,29 +3,25 @@ unique-page-id: 10096656
 description: 使用Marketo ON24适配器创建事件 — Marketo文档 — 产品文档
 title: 使用Marketo ON24适配器创建事件
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # 使用Marketo ON24适配器创建事件 {#create-an-event-with-the-marketo-on-adapter}
 
->[!IMPORTANT]
->
->自2022年8月起，ON24不再支持新的Marketo集成。 本文中的信息仅适用于现有用户。
-
 您应该熟悉在Marketo中创建事件的构建基块和推荐的顺序。 您还应了解以下Marketo概念：
 
-* [Marketo计划](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) 以及事件，以及它们之间的差异
-* [渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
-* [本地资产](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [子营销活动](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md) 和 [项目状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [Marketo计划](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}和事件，以及它们之间的差异
+* [渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target=&quot;_blank&quot;}
+* [本地资产](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target=&quot;_blank&quot;}
+* [子营销活动](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target=&quot;_blank&quot;}和 [项目状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target=&quot;_blank&quot;}
 
 >[!NOTE]
 >
->请参阅 [Marketo API文档](https://developers.marketo.com/documentation/rest/) 有关Marketo API的更多信息。
+>请参阅 [Marketo API文档](https://developers.marketo.com/documentation/rest/){target=&quot;_blank&quot;} ，以了解有关Marketo API的更多信息。
 
 ## 先决条件 {#prerequisites}
 
@@ -42,10 +38,10 @@ ht-degree: 0%
 
 按照以下步骤使用Marketo On24适配器创建事件：
 
-1. [在ON24中创建网络研讨会活动](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-1. [配置事件设置并将Marketo与网络研讨会同步](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
-1. [创建子营销活动和本地资产](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
-1. [测试ON24事件集成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
-1. [ON24事件集成示例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
-1. [了解网络研讨会计划状态](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-1. [ON24事件注册更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
+1. [在ON24中创建网络研讨会活动](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md){target=&quot;_blank&quot;}
+1. [配置事件设置并将Marketo与网络研讨会同步](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target=&quot;_blank&quot;}
+1. [创建子营销活动和本地资产](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target=&quot;_blank&quot;}
+1. [测试ON24事件集成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}
+1. [ON24事件集成示例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
+1. [了解网络研讨会计划状态](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target=&quot;_blank&quot;}
+1. [ON24事件注册更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;}

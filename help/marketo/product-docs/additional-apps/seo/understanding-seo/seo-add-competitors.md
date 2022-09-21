@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2949192
-description: SEO — 添加竞争对手- Marketo Docs — 产品文档
-title: SEO — 添加竞争对手
+description: SEO — 添加竞争者 — Marketo文档 — 产品文档
+title: SEO — 添加竞争者
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-# SEO — 添加竞争对手{#seo-add-competitors}
+# SEO — 添加竞争者 {#seo-add-competitors}
 
-添加竞争对手将允许您跟踪它们对您选择监视的相同关键字和入站链接的执行情况。
+添加竞争者将允许您跟踪它们对您选择监视的相同关键词和集客链接的执行情况。
 
 >[!NOTE]
 >
->**需要管理权限**
+>**需要管理员权限**
 
-1. 转至&#x200B;**Admin**&#x200B;部分。
+1. 转到 **管理员** 中。
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. 单击&#x200B;**竞争对手**&#x200B;选项卡。
+1. 单击 **竞争对手** 选项卡。
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. 单击&#x200B;**添加竞争对手**。
+1. 单击 **添加竞争者**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. 键入竞争对手的&#x200B;**名称**&#x200B;和&#x200B;**URL**。
+1. 键入 **名称** 和 **URL** 你的竞争对手。
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
-   五！ 您现在应该可以在列表中看到您的竞争对手。
+   五！ 此时，您应会在列表中看到您的竞争者。
 
    ![](assets/image2014-9-17-21-3a13-3a14.png)
 
@@ -43,6 +42,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [添加关键字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-   >* [了解关键字(竞争对手视图)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [添加关键词](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target=&quot;_blank&quot;}
+   >* [了解关键词（竞争者视图）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
 

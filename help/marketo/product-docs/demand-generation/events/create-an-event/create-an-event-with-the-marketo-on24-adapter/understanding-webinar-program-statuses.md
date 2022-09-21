@@ -3,18 +3,14 @@ unique-page-id: 10096681
 description: 了解网络研讨会计划状态 — Marketo文档 — 产品文档
 title: 了解网络研讨会计划状态
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # 了解网络研讨会计划状态 {#understanding-webinar-program-statuses}
-
->[!IMPORTANT]
->
->自2022年8月起，ON24不再支持新的Marketo集成。 本文中的信息仅适用于现有用户。
 
 程序状态表示人员作为事件成员进行的不同事件状态。 它们与渠道类型关联。 Marketo具有一个名为 **网络研讨会**. 状态可用于批处理和触发营销活动。
 
@@ -32,7 +28,7 @@ ht-degree: 0%
 
 **受邀**  — 使用此状态可向事件添加人员。
 
-**待批准**  — 使用此状态可延迟向人员发送确认电子邮件。 请参阅 [ON24事件注册更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) 以了解更多信息。
+**待批准**  — 使用此状态可延迟向人员发送确认电子邮件。 请参阅 [ON24事件注册更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;}以了解详细信息。
 
 **已列出等待**  — 使用此状态让一些人等待更多座位。
 
@@ -58,4 +54,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[了解Marketo ON24适配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[了解Marketo ON24适配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

@@ -3,18 +3,14 @@ unique-page-id: 10096683
 description: ON24事件注册更新 — Marketo文档 — 产品文档
 title: ON24事件注册更新
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # ON24事件注册更新 {#on-event-registration-updates}
-
->[!IMPORTANT]
->
->自2022年8月起，ON24不再支持新的Marketo集成。 本文中的信息仅适用于现有用户。
 
 ## 手动批准注册者 {#manually-approving-registrants}
 
@@ -44,4 +40,4 @@ Marketo每天晚上大约11点自动提取出勤信息。 要手动更新考勤�
 
 >[!MORELIKETHIS]
 >
->[了解Marketo ON24适配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[了解Marketo ON24适配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

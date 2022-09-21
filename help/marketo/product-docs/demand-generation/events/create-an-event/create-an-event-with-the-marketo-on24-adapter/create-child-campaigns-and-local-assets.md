@@ -3,18 +3,14 @@ unique-page-id: 10096675
 description: 创建子营销活动和本地资产 — Marketo文档 — 产品文档
 title: 创建子营销活动和本地资产
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '678'
 ht-degree: 1%
 
 ---
 
 # 创建子营销活动和本地资产 {#create-child-campaigns-and-local-assets}
-
->[!IMPORTANT]
->
->自2022年8月起，ON24不再支持新的Marketo集成。 本文中的信息仅适用于现有用户。
 
 使用Design Studio创建子营销活动和本地资产。
 
@@ -53,7 +49,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->您可以配置ON24以发出确认、提醒或跟进电子邮件。 请参阅 [ON24帮助网站](https://www.on24.com/live-webcast-elite/) 以了解更多信息。
+>您可以配置ON24以发出确认、提醒或跟进电子邮件。 请参阅 [ON24帮助网站](https://www.on24.com/live-webcast-elite/){target=&quot;_blank&quot;}以了解详细信息。
 
 ## 注册子营销活动要求 {#registration-child-campaign-requirements}
 
@@ -98,11 +94,11 @@ ht-degree: 1%
 >
 >如果返回人员时出现注册错误，则他们将不会收到电子邮件确认。
 
-下一步是 [测试ON24事件集成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
+下一步是 [测试ON24事件集成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}。
 
 >[!MORELIKETHIS]
 >
->* [了解Marketo ON24适配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
->* [ON24事件集成示例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [了解网络研讨会计划状态](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+>* [了解Marketo ON24适配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>* [ON24事件集成示例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
+>* [了解网络研讨会计划状态](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target=&quot;_blank&quot;}
 
