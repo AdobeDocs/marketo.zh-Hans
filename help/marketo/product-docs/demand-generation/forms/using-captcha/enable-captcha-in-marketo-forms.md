@@ -1,12 +1,10 @@
 ---
 description: 在Marketo Forms中启用验证码 — Marketo文档 — 产品文档
 title: 在Marketo Forms中启用CAPTCHA
-hide: true
-hidefromtoc: true
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
+source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
