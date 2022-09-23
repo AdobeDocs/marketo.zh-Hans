@@ -2,10 +2,10 @@
 description: 概述 — Marketo文档 — 产品文档
 title: 概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
+source-git-commit: 7b11a25c54ac987bda0d21a82eceb182d99b6270
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 1%
+source-wordcount: '489'
+ht-degree: 2%
 
 ---
 
@@ -168,7 +168,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>搜索逻辑中的“单词开头”</td> 
-   <td><strong>X</strong></td> 
+   <td></td> 
    <td><strong>X</strong></td> 
   </tr>
  </tbody>
