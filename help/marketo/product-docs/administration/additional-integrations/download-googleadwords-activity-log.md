@@ -3,24 +3,27 @@ unique-page-id: 7512607
 description: 下载GoogleAdwords活动日志 — Marketo文档 — 产品文档
 title: 下载GoogleAdwords活动日志
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e1288ad56fdd49f411e0f0a60769d66347724207
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 下载GoogleAdwords活动日志{#download-googleadwords-activity-log}
+# 下载GoogleAdwords活动日志 {#download-googleadwords-activity-log}
 
-事情发生了。 有时您需要下载活动日志来解决问题。
+事情发生了。 有时，您需要下载活动日志来解决问题。
 
-1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**LaunchPoint**。
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2015-4-22-15-3a33-3a47.png)
+   ![](assets/download-googleadwords-activity-log-1.png)
 
-1. 找到您的Google AdWords服务，然后单击&#x200B;**下载活动日志**。
+1. 单击 **LaunchPoint**.
 
-   ![](assets/image2015-4-22-17-3a49-3a49.png)
+   ![](assets/download-googleadwords-activity-log-2.png)
 
-1. .zip文件将下载到您的计算机。
+1. 找到您的Google AdWords服务并单击 **下载活动日志**.
+
+   ![](assets/download-googleadwords-activity-log-3.png)
+
+1. .zip文件将下载到您的计算机中。
