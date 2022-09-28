@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: 下一代Munchkin跟踪常见问题解答 — Marketo文档 — 产品文档
 title: 下一代Munchkin跟踪常见问题解答
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 ## 我是否需要对网站上的Munchkin跟踪进行任何更改？ {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-不。 Munchkin跟踪代码保持不变。 无需对您的网站进行任何更改。
+否. Munchkin跟踪代码保持不变。 无需对您的网站进行任何更改。
 
 >[!NOTE]
 >
->此更改不会影响Web Personalization(实时Personalization)。 它会继续识别匿名和已知的Web访客，并对这些访客实时个性化内容。
+>此更改不会影响Web个性化（实时个性化）。 它会继续识别匿名和已知的Web访客，并对这些访客实时个性化内容。
 
 ## 为什么Marketo从智能列表中删除了“匿名”过滤器？ {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -74,20 +74,20 @@ ht-degree: 0%
 
 请查看以下链接：
 
-[匿名潜在客户升级概述](https://nation.marketo.com/docs/DOC-2937)
+[匿名潜在客户升级概述](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
 
-[匿名潜在客户升级 — 更改了Marketo UI](https://nation.marketo.com/docs/DOC-2938)
+[匿名潜在客户升级 — 更改了Marketo UI](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
 
-[匿名潜在客户升级 — 需要客户操作](https://nation.marketo.com/docs/DOC-2939)
+[匿名潜在客户升级 — 需要客户操作](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
 
-[匿名潜在客户升级 — Analytics报表](https://nation.marketo.com/docs/DOC-2940)
+[匿名潜在客户升级 — Analytics报表](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
 
-[匿名潜在客户升级 — 发行计划](https://nation.marketo.com/docs/DOC-2961)
+[匿名潜在客户升级 — 发行计划](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
 
-[匿名潜在客户升级 — 隐藏](https://nation.marketo.com/docs/DOC-2962)
+[匿名潜在客户升级 — 隐藏](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
 
-[将匿名潜在客户提升为已知潜在客户 — Munchkin V2行为](https://nation.marketo.com/docs/DOC-2963)
+[将匿名潜在客户提升为已知潜在客户 — Munchkin V2行为](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
 
 ## 我还有更多问题！ 我该如何得到他们的回答？ {#i-have-more-questions-how-do-i-get-them-answered}
 
-请在 [社区](https://nation.marketo.com/). 您还可以联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support). 他们很乐意回答你的问题。
+请在 [社区](https://nation.marketo.com/){target=&quot;_blank&quot;}。 您还可以联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}。 他们很乐意回答你的问题。

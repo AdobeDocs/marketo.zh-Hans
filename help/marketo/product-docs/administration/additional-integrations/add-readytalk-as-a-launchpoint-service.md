@@ -1,52 +1,55 @@
 ---
 unique-page-id: 7512278
-description: 将ReadyTalk添加为LaunchPoint服务 — Marketo Docs — 产品文档
+description: 添加ReadyTalk as a LaunchPoint服务 — Marketo文档 — 产品文档
 title: 将ReadyTalk添加为LaunchPoint服务
 exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# 将ReadyTalk添加为LaunchPoint服务{#add-readytalk-as-a-launchpoint-service}
+# 将ReadyTalk添加为LaunchPoint服务 {#add-readytalk-as-a-launchpoint-service}
 
 Marketo管理您的ReadyTalk网络研讨会注册和出席情况。
 
 >[!NOTE]
 >
->**需要管理权限**
+>**需要管理员权限**
 
 >[!NOTE]
 >
->此步骤需要现有的ReadyTalk和管理权限订阅。 现在有以下设置：访问号、访问代码和密码。
+>此步骤需要现有的ReadyTalk和管理权限订阅。 手头有以下设置：访问号、访问代码和密码。
 
-1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**ReadyTalk**。
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2015-4-23-10-3a50-3a23.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-1.png)
 
-1. 选择&#x200B;**新建**，然后选择&#x200B;**新建服务**。
+1. 单击 **LaunchPoint**.
 
-   ![](assets/readytalk-new-service.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-2.png)
 
-1. 输入&#x200B;**显示名称**。 在&#x200B;**服务**&#x200B;下，选择&#x200B;**ReadyTalk**。
+1. 选择 **新建** 然后 **新服务**.
 
-   ![](assets/new-service-readytalk.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-3.png)
 
-1. 输入&#x200B;**访问号**&#x200B;和&#x200B;**访问代码**。
+1. 输入 **显示名称**. 在 **服务**，选择 **ReadyTalk**.
 
-   ![](assets/image2015-4-24-18-3a53-3a2.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-4.png)
 
-1. 输入&#x200B;**密码**&#x200B;并单击&#x200B;**创建**，完成该过程。
+1. 输入 **访问量** 和 **访问代码**.
 
-   ![](assets/image2015-4-24-18-3a53-3a38.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-5.png)
 
-您的&#x200B;**ReadyTalk**&#x200B;帐户现在与Marketo同步。
+1. 通过输入 **密码** 单击 **创建**.
 
-![](assets/readytalk.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-6.png)
+
+您的 **ReadyTalk** 帐户现已与Marketo同步。
+
+![](assets/add-readytalk-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->了解如何使用ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)创建事件。[
+>了解如何 [使用ReadyTalk创建事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
