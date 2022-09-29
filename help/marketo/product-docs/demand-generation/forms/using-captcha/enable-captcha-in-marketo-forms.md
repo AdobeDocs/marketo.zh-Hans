@@ -2,9 +2,9 @@
 description: 在Marketo Forms中启用验证码 — Marketo文档 — 产品文档
 title: 在Marketo Forms中启用CAPTCHA
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
+source-git-commit: 04d6f37f924d14824c69f2c0caba3ef21ff0a124
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Google向启用了CAPTCHA的表单中添加了标准化文本，包括其隐私政策和服务条款的链接。
+>标准化文本(包括指向Google隐私政策和服务条款的链接)将添加到您启用了CAPTCHA的表单中。
 
 >[!MORELIKETHIS]
 >
