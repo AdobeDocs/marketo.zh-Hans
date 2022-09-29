@@ -2,9 +2,9 @@
 description: 在Marketo Forms中启用验证码 — Marketo文档 — 产品文档
 title: 在Marketo Forms中启用CAPTCHA
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,12 @@ ht-degree: 0%
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
+此列表的更改可能需要几分钟才能从Google传播。
+
 >[!NOTE]
 >
->此列表的更改可能需要几分钟才能从Google传播。
+>Google向启用了CAPTCHA的表单中添加了标准化文本，包括其隐私政策和服务条款的链接。
+
+>[!MORELIKETHIS]
+>
+>[设置reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
