@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: 包含表单的登陆页面 — Marketo文档 — 产品文档
 title: 包含表单的登陆页面
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 0%
 
 ## 步骤3:创建登陆页面并添加表单 {#step-create-a-landing-page-and-add-your-form}
 
-1. 选择项目后，单击 **新建** 然后 **新建本地资产**.
+1. 选择项目后，单击 **新建** 下拉框并选择 **新建本地资产**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
