@@ -2,9 +2,9 @@
 description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '821'
 ht-degree: 2%
 
 ---
@@ -49,19 +49,46 @@ ht-degree: 2%
  </tr>
 </table>
 
+## 流设计器图标 {#stream-designer-icons}
+
+在流设计器的右上角，您将看到一些图标。 他们做的是。
+
+<table>
+ <tr>
+  <td><img src="assets/stream-designer-1.png"></td>
+  <td>向后台添加网格，供喜欢该视图的用户使用</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-2.png"></td>
+  <td>放大，创建更大的卡片</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-3.png"></td>
+  <td>缩小，创建较小的卡片</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>打开一个窗口，供您测试聊天（按相同按钮关闭）</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-5.png"></td>
+  <td>整理流中的所有信息卡</td>
+ </tr>
+</table>
+
 ## 创建流 {#create-a-stream}
 
 1. 在 [已创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}，单击 **流设计器** 选项卡。
 
-   ![](assets/stream-designer-1.png)
+   ![](assets/stream-designer-6.png)
 
 1. 拖放问题卡。
 
-   ![](assets/stream-designer-2.png)
+   ![](assets/stream-designer-7.png)
 
 1. 在“查特机器人响应”下，回答您的问题。
 
-   ![](assets/stream-designer-3.png)
+   ![](assets/stream-designer-8.png)
 
    >[!NOTE]
    >
@@ -69,7 +96,7 @@ ht-degree: 2%
 
 1. 输入用户响应并单击 **保存**.
 
-   ![](assets/stream-designer-4.png)
+   ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
@@ -77,27 +104,27 @@ ht-degree: 2%
 
 1. 对于“是”，我们要计划日程安排，因此该选项下方会拖动到日程安排计划程序卡上。
 
-   ![](assets/stream-designer-5.png)
+   ![](assets/stream-designer-10.png)
 
 1. 在右侧的列中，单击 **保存**.
 
-   ![](assets/stream-designer-6.png)
+   ![](assets/stream-designer-11.png)
 
 1. 由于这是一个目标，请将目标卡拖动到日程安排计划程序下方。
 
-   ![](assets/stream-designer-7.png)
+   ![](assets/stream-designer-12.png)
 
 1. 命名您的目标（或选择现有目标）并单击 **保存**.
 
-   ![](assets/stream-designer-8.png)
+   ![](assets/stream-designer-13.png)
 
 1. 对于“否”，我们希望了解他们是否将加入邮件列表，因此，在下面，该选项会拖动到另一张问题卡上。
 
-   ![](assets/stream-designer-9.png)
+   ![](assets/stream-designer-14.png)
 
 1. 输入您的响应，并为访客添加响应选项。 单击 **保存** 完成时。
 
-   ![](assets/stream-designer-10.png)
+   ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
@@ -105,15 +132,15 @@ ht-degree: 2%
 
 1. 在“是”响应下方，将鼠标拖动到“信息捕获”卡上，以便收集访客的电子邮件。
 
-   ![](assets/stream-designer-11.png)
+   ![](assets/stream-designer-16.png)
 
 1. 单击 **类型** 下拉框并选择 **电子邮件**.
 
-   ![](assets/stream-designer-12.png)
+   ![](assets/stream-designer-17.png)
 
 1. 输入聊天机器人消息和占位符。 确保将属性映射到Marketo中的相应字段，然后单击 **保存**.
 
-   ![](assets/stream-designer-13.png)
+   ![](assets/stream-designer-18.png)
 
    <table>
     <tr>
@@ -136,27 +163,27 @@ ht-degree: 2%
 
 1. 由于收集其电子邮件是一个目标，因此请将目标卡片拖动到“信息捕获”下方。
 
-   ![](assets/stream-designer-14.png)
+   ![](assets/stream-designer-19.png)
 
 1. 命名您的目标（或选择现有目标）并单击 **保存**.
 
-   ![](assets/stream-designer-15.png)
+   ![](assets/stream-designer-20.png)
 
 1. 请记住，如果用户说“否”，请添加响应。 一个选项是将信息卡拖到下面，说“谢谢”。 但在本例中，我们将为他们提供免费的PDF文档。
 
-   ![](assets/stream-designer-16.png)
+   ![](assets/stream-designer-21.png)
 
 1. 在本例中，我们将创建一个新文档。 为其命名，输入您已托管的PDF的URL，然后单击 **保存**.
 
-   ![](assets/stream-designer-17.png)
+   ![](assets/stream-designer-22.png)
 
 1. 选择 **预览** 切换以预览对话框。
 
-   ![](assets/stream-designer-18.png)
+   ![](assets/stream-designer-23.png)
 
 1. 准备好激活对话框后，单击 **发布**.
 
-   ![](assets/stream-designer-19.png)
+   ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
