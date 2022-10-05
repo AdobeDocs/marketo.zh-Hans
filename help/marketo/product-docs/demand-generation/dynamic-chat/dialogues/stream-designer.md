@@ -2,7 +2,7 @@
 description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
+source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
 workflow-type: tm+mt
 source-wordcount: '821'
 ht-degree: 2%
@@ -72,7 +72,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
-  <td>整理流中的所有信息卡</td>
+  <td>排列流中的所有卡</td>
  </tr>
 </table>
 
