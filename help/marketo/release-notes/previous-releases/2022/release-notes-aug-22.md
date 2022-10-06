@@ -1,9 +1,9 @@
 ---
 description: 发行说明 — 2022年8月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年8月
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 * **Webhook自定义标题可见性**:现在，Webhook自定义标头会显示在“管理员”>“Webhooks”选项卡中，以便提高可见性。
 
-* **验证码**:使用reCAPTCHA v3评估表单提交的有效性，以对传入表单流量进行评分。 构建营销工作流，以自动排除、隔离或删除可疑的机器人流量。
+* **验证码**:评估表单提交的有效性 [使用reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}对传入表单流量进行分数。 构建营销工作流，以自动排除、隔离或删除可疑的机器人流量。
 
 * **批准表单的权限**:新权限，用于控制哪些设计人员可以根据其他Design Studio资产批准对表单所做的更改。 这样可以防止其他设计人员在没有获得批准权限的其他人审核表单的情况下将更改推送到表单。
 

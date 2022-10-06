@@ -3,30 +3,34 @@ unique-page-id: 1147226
 description: 入门 — Marketo文档 — 产品文档
 title: 快速入门
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 12%
+source-wordcount: '161'
+ht-degree: 10%
 
 ---
 
 # 快速入门 {#getting-started}
 
-## 步骤1什么是Marketo {#what-is-marketo}
+## 什么是Adobe Marketo Engage {#what-is-marketo-engage}
 
-你问的是Marketo? 好问题！
+你问什么Marketo Engage? 好问题！
 
-[学习Marketo](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
+[学习Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
 
-## 步骤2设置 {#get-set-up}
+## 提供哪些定价层 {#what-pricing-tiers-are-available}
+
+查看 [Marketo Engage定价和打包页面](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;}以了解更多信息。
+
+## 设置 {#get-set-up}
 
 借助IT团队的帮助，您可以立即完成该任务。
 
-[开始设置](/help/marketo/getting-started/setup/setup-steps.md)
+[开始设置](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
 
-## 步骤3获取一些快速成功 {#get-some-quick-wins}
+## 快速获得一些成功 {#get-some-quick-wins}
 
-完成这些任务，以了解Marketo的核心功能。
+完成这些任务，以了解Marketo Engage的核心功能。
 
 <table style="table-layout:fixed">
 <tr>
@@ -124,6 +128,4 @@ ht-degree: 12%
 
 ## 第4步祝贺！ 你准备好去国家  {#congrats-youre-ready-for-the-nation}
 
-该加入营销国家了！
-
-[加入国家](https://nation.marketo.com)
+查看 [营销国家](https://nation.marketo.com){target=&quot;_blank&quot;}!
