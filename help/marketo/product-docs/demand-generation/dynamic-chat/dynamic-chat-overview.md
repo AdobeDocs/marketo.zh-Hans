@@ -2,9 +2,9 @@
 description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '953'
 ht-degree: 1%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 1%
 
 ## 会议 {#meetings}
 
-在这里，您将看到网站访客通过各种对话安排的所有约会。 在此，您将找到预订约会的人的电子邮件地址、他们与哪位座席预订了约会、预定何时进行约会以及会议是否已发生。
+在这里，您将看到网站访客通过各种对话安排的所有约会。 在此，您将找到预订约会的人的电子邮件地址、他们与哪位座席预订了约会、预定约会何时发生以及计划会议时间是否已过。
 
 ## 路由 {#routing}
 

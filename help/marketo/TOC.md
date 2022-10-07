@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '8807'
+source-wordcount: '8809'
 ht-degree: 0%
 
 ---
@@ -1605,6 +1605,7 @@ ht-degree: 0%
          + [编辑富媒体的预测内容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [编辑推荐栏的预测内容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
    + 报表 {#reporting}
+      + [报表概述](product-docs/reporting/reporting-overview.md)
       + 基本报表 {#basic-reporting}
          + 创建报告 {#creating-reports}
             + [在项目中创建报表](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
