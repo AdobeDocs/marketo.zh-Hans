@@ -2,9 +2,9 @@
 description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '919'
 ht-degree: 1%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 1%
 
 ## 路由 {#routing}
 
-在这里，您可以看到已连接其日历的所有座席的列表，以及将向网站访客显示的顺序。 会议是循规蹈矩的，所以如果你有五个特工和三号探员参加最后一次会议，四号探员会得到下一次会议，接着是五号探员，然后是一号探员。
+在这里，您可以看到已连接其日历的所有座席的列表，以及将向网站访客显示的顺序。
 
 ## 常见问题解答 {#faq}
 
