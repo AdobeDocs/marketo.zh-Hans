@@ -2,9 +2,9 @@
 description: 动态聊天概述 — Marketo文档 — 产品文档
 title: 动态聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
+source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
 workflow-type: tm+mt
-source-wordcount: '919'
+source-wordcount: '845'
 ht-degree: 1%
 
 ---
@@ -41,17 +41,15 @@ ht-degree: 1%
 
 ## 日历 {#calendar}
 
-在“日历”选项卡中，连接您的（Outlook或Gmail）日历，以用于聊天机器人中的约会计划。 用户的日历连接到动态聊天后，该用户将被添加到队列，其日历将可供网站访客安排约会时间。
-
-您还可以自定义在用户日历上安排约会时发送给访客的邀请正文。
+连接Outlook或Gmail日历，以用于聊天机器人中的约会计划。 [了解有关日历的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
 
 ## 会议 {#meetings}
 
-在这里，您将看到网站访客通过各种对话安排的所有约会。 在此，您将找到预订约会的人的电子邮件地址、他们与哪位座席预订了约会、预定约会何时发生以及计划会议时间是否已过。
+在这里，您将看到网站访客通过各种对话安排的所有约会。 [进一步了解会议](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
 
 ## 路由 {#routing}
 
-在这里，您可以看到已连接其日历的所有座席的列表，以及将向网站访客显示的顺序。
+在这里，您可以看到连接其日历的所有座席的列表、向网站访客显示这些座席的顺序，以及创建自定义路由规则。 [了解有关路由的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
 
 ## 常见问题解答 {#faq}
 
