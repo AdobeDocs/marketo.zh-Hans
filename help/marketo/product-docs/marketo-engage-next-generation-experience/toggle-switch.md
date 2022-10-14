@@ -2,9 +2,9 @@
 description: 切换开关 — Marketo文档 — 产品文档
 title: 切换开关
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -60,10 +60,13 @@ Marketo的下一代界面当前提供以下功能（每个版本都新增了新�
 * “电子邮件详细信息”视图
 * 电子邮件列表视图
 * “电子邮件模板详细信息”视图
+* 电子邮件模板列表
 * 电子邮件测试功能板视图
 * 表单详细信息视图
 * 表单列表视图
 * “图像和文件详细信息”页
 * 登陆页面详细信息视图
 * 登陆页面列表视图
+* 登陆页面模板详细信息
 * 代码片段详细信息视图
+

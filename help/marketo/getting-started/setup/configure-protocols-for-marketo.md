@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: 为Marketo配置协议 — Marketo文档 — 产品文档
 title: 配置Marketo协议
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 1%
+source-wordcount: '1046'
+ht-degree: 2%
 
 ---
 
@@ -123,7 +123,7 @@ Marketo Engage [Salesforce CRM同步](/help/marketo/product-docs/crm-sync/salesf
 
 **Marketo Engage出站IP地址块**
 
-下表涵盖进行出站调用的所有Marketo Engage服务器。 如果要配置任何IP、服务器、防火墙、访问控允许列表制列表、安全组或第三方服务以从Marketo Engage接收传出连接，则使用此列表。
+下表涵盖发出出站调用的所有Marketo Engage服务器。 如果要配置任何IP、服务器、防火墙、访问控允许列表制列表、安全组或第三方服务以从Marketo Engage接收传出连接，请使用下面的列表。
 
 <table>
  <tbody>
@@ -156,3 +156,48 @@ Marketo Engage [Salesforce CRM同步](/help/marketo/product-docs/crm-sync/salesf
   </tr>
  </tbody>
 </table>
+
+<table>
+ <tbody>
+  <tr>
+   <th>单个IP地址</th>
+  </tr>
+  <tr>
+   <td>54.212.167.17</td>
+  </tr>
+   <tr>
+   <td>44.235.171.179</td>
+  </tr>
+   <tr>
+   <td>35.165.244.220</td>
+  </tr>
+   <tr>
+   <td>52.20.211.99</td>
+  </tr>
+   <tr>
+   <td>54.237.141.197</td>
+  </tr>
+  <tr>
+   <td>54.160.246.246</td>
+  </tr>
+   <tr>
+   <td>18.200.201.81</td>
+  </tr>
+  <tr>
+   <td>34.247.24.245</td>
+  </tr>
+   <tr>
+   <td>54.220.138.65</td>
+  </tr>
+  <tr>
+   <td>13.237.155.207</td>
+  </tr>
+   <tr>
+   <td>13.55.192.247</td>
+  </tr>
+  <tr>
+   <td>52.64.109.86</td>
+  </tr>
+ </tbody>
+</table>
+
