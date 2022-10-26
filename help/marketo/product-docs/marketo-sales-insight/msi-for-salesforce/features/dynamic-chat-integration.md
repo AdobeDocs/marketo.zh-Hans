@@ -2,9 +2,9 @@
 description: 动态聊天集成 — Marketo文档 — 产品文档
 title: 动态聊天集成
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '392'
 ht-degree: 3%
 
 ---
@@ -58,17 +58,27 @@ Sales Insight用户可以利用以下动态聊天活动……
 * 目标名称
 * 页面URL
 
-“潜在客户”和“联系人”面板中提供了“聊天”选项卡。 它包括“活动类型”、“对话框名称”和“日期”列。
+与文档交互：当访客与通过聊天机器人共享的文档交互时，登录Marketo并填充到Sales Insight中。
+
+* 对话名称
+* 文档
+* 状态
+
+聊天活动在分析功能板中可用。
 
 ![](assets/dynamic-chat-integration-3.png)
 
-您可以通过单击来进一步了解活动类型。
+“潜在客户”和“联系人”面板中提供了“聊天”选项卡。 它包括“活动类型”、“对话框名称”和“日期”列。
 
 ![](assets/dynamic-chat-integration-4.png)
 
-同样，“帐户”和“机会”面板包括“名称”、“活动类型”、“对话框名称”和“日期”列。
+您可以通过单击来进一步了解活动类型。
 
 ![](assets/dynamic-chat-integration-5.png)
+
+同样，“帐户”和“机会”面板包括“名称”、“活动类型”、“对话框名称”和“日期”列。
+
+![](assets/dynamic-chat-integration-6.png)
 
 “聊天”选项卡还包含在“全局Marketo”选项卡中。 它包括三种活动类型（参与对话框、计划约会、已实现目标），以及以下列：
 
@@ -80,8 +90,15 @@ Sales Insight用户可以利用以下动态聊天活动……
 
 再次重申，您可以通过单击来了解有关活动类型的更多信息。
 
-![](assets/dynamic-chat-integration-6.png)
+![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->“与文档交互”活动将在即将发布的MSI中提供。
+>如果禁用“启用动态聊天数据”复选框，则将禁用以下功能：
+>
+>* 分析功能板中聊天活动的行（智能网格和每周列表视图）
+>* “潜在客户”、“联系人”、“帐户”和“机会”面板中的“聊天”选项卡
+>* “全局Marketo”选项卡中的“聊天”选项卡
+>
+>不能只禁用其中一项功能。
+
