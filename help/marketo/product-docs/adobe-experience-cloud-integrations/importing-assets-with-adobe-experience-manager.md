@@ -28,23 +28,23 @@ ht-degree: 0%
 
 1. 单击 **Design Studio**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
+   ![](assets/one-1.png)
 
 1. 单击新建下拉菜单，然后选择 **从Adobe Experience Manager导入**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
+   ![](assets/two-1.png)
 
 1. 选择要将图像保存到的文件夹。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
+   ![](assets/three-1.png)
 
 1. 登录到Adobe Experience Manager（如果尚未登录）。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
+   ![](assets/four-1.png)
 
 1. 选择您的文件夹。 然后，单击缩略图以选择所需的图像（最多可选择10张）。 单击 **选择** 完成时。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
+   ![](assets/five.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ ht-degree: 0%
 
 1. 单击 **导入** 以完成该过程。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
+   ![](assets/six-1.png)
 
    就这样！ 单击 **关闭** 返回Design Studio的步骤。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
+   ![](assets/seven-1.png)
 
 ## 注意事项 {#things-to-note}
 
