@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: 使用Adobe Experience Manager导入资产 — Marketo文档 — 产品文档
 title: 使用Adobe Experience Manager导入资产
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -28,23 +28,23 @@ ht-degree: 0%
 
 1. 单击 **Design Studio**.
 
-   ![](assets/one-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
 1. 单击新建下拉菜单，然后选择 **从Adobe Experience Manager导入**.
 
-   ![](assets/two-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
 1. 选择要将图像保存到的文件夹。
 
-   ![](assets/three-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
 1. 登录到Adobe Experience Manager（如果尚未登录）。
 
-   ![](assets/four-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
 1. 选择您的文件夹。 然后，单击缩略图以选择所需的图像（最多可选择10张）。 单击 **选择** 完成时。
 
-   ![](assets/five.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ ht-degree: 0%
 
 1. 单击 **导入** 以完成该过程。
 
-   ![](assets/six-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
    就这样！ 单击 **关闭** 返回Design Studio的步骤。
 
-   ![](assets/seven-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
 ## 注意事项 {#things-to-note}
 

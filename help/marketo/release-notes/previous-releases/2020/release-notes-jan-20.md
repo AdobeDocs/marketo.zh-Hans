@@ -3,7 +3,7 @@ unique-page-id: 37355534
 description: 发行说明 — 2020年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2020年1月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 153c6a05be7ef94a0bc8b591b8f2eebdf879c5db
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 核心Marketo EngageAdobe应用程序 {#core-marketo-engage-adobe-application}
 
-* [Adobe Experience Manager资产选择器](/help/marketo/product-docs/adobe-experience-cloud-integrations-overview/importing-assets-with-adobe-experience-manager.md):快速访问与您的品牌相符的资产，以便直接在Marketo Engage中提供AEM资产。 注意：虽然此功能在我们的Marketo Sky体验和经典体验中均可用，但在我们的经典体验中可以找到管理功能。 您必须是AEM Assets的客户，并且具有版本6.5或更高版本。
+* [Adobe Experience Manager资产选择器](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md):快速访问与您的品牌相符的资产，以便直接在Marketo Engage中提供AEM资产。 注意：虽然此功能在我们的Marketo Sky体验和经典体验中均可用，但在我们的经典体验中可以找到管理功能。 您必须是AEM Assets的客户，并且具有版本6.5或更高版本。
 
 >[!NOTE]
 >
