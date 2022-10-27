@@ -3,9 +3,9 @@ description: 报表概述 — Marketo文档 — 产品文档
 title: 报表概述
 hide: true
 hidefromtoc: true
-source-git-commit: 9873a01d8828e247a5cb60b88b5239721226615d
+source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Marketo提供了多种报表模块，以满足不同的需求。
 
 ## 基本报表 {#basic-reporting}
 
-您可以在项目中或在Analytics区域中设置基本报表。 基本报表由不同类型的现成报表组成，可灵活进行过滤、排序和调整时间范围。
+您可以设置 [基本报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)在程序内或Analytics区域中的{target=&quot;_blank&quot;}。 基本报表由不同类型的现成报表组成，可灵活进行过滤、排序和调整时间范围。
 
 ## 电子邮件分析 {#email-insights}
 
-使用Analytics和Sends从历史数据中获取有力的分析。
+使用Analytics和Send获取 [强大的洞察力](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;}。
 
 ## 性能分析 {#performance-insights}
 
-绩效分析涵盖渠道绩效和项目绩效，以促进参与度、管道和创收。
+[性能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;}涵盖参与、管道和收入生成的渠道性能和节目性能。
 
 ## 高级BI Analytics报表 {#advanced-bi-analytics-reporting}
 
@@ -35,7 +35,7 @@ _(以前称为“收入周期浏览器”/“高级Report Builder”)_
 >
 >并非所有客户都购买过高级BI分析和高级历程分析模块。 有关更多信息，请联系您的客户成功经理。
 
-跟踪您的营销计划的ROI。 分析电子邮件、潜在客户、项目、机会、模型性能分析（公司）和模型性能分析（潜在客户）。 BI资源管理器允许您在分析区域内创建自定义报表，并使用您的数据创建图形、图表、透视表和功能板。
+跟踪您的营销计划的ROI。 分析电子邮件、人员、项目、机会、模型性能分析（公司）和模型性能分析（潜在客户）。 BI资源管理器允许您在分析区域内创建自定义报表，并使用您的数据创建图形、图表、透视表和功能板。
 
 一些高级BI Analytics报表优势包括：
 
@@ -55,6 +55,10 @@ _(以前称为“收入周期浏览器”/“高级Report Builder”)_
 
 ## 高级历程分析 {#advanced-journey-analytics}
 
+>[!AVAILABILITY]
+>
+>并非所有客户都购买过高级BI分析和高级历程分析模块。 有关更多信息，请联系您的客户成功经理。
+
 收入周期模型 — 对整个收入漏斗的所有阶段以及这些阶段在这些阶段之间的转换方式进行建模，从您首次与潜在客户进行全方位交互到潜在客户成为成功客户。
 
 成功路径分析器 — 直观地表示通过收入周期模型的速度和流量。 成功路径分析器要求您创建收入周期模型。
@@ -65,7 +69,7 @@ _(以前称为“收入周期浏览器”/“高级Report Builder”)_
 
 >[!NOTE]
 >
->使用收入周期浏览器的模型性能分析（公司）和模型性能分析（潜在客户）取决于收入周期模型。
+>具有高级BI Analytics报表的模型性能分析（公司）和模型性能分析（潜在客户）取决于在高级历程分析产品中创建的收入周期模型。
 
 
 
