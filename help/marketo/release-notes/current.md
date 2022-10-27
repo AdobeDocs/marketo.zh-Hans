@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
+source-git-commit: 538622707eec53e9a137e9aed7ec448d379efe43
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -49,8 +49,6 @@ ht-degree: 0%
 ## 营销数据环境 {#marketing-data-environment}
 
 * **AdobePrivacy Service集成**:与Privacy Service协调，以自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入的Marketo Engage客户 [AdobeIdentity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target=&quot;_blank&quot;}系统。
-
-* **程序成员自定义字段同步**:能够双向同步为程序成员捕获的可扩展字段(例如，在事件注册期间（如食物、会话、轨道等）的参与者偏好
 
 ## API增强功能 {#api-enhancements}
 
