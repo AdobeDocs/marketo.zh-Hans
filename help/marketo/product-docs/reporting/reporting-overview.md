@@ -1,9 +1,9 @@
 ---
 description: 报表概述 — Marketo文档 — 产品文档
 title: 报表概述
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ _(以前称为“收入周期浏览器”/“高级Report Builder”)_
 * 图形形式、热图和分布曲线的可视化
 
 ## 高级历程分析 {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->并非所有客户都购买过高级BI分析和高级历程分析模块。 有关更多信息，请联系您的客户成功经理。
 
 收入周期模型：对整个收入漏斗的所有阶段以及这些阶段在这些阶段之间的转换方式进行建模，从您首次与潜在客户进行全方位交互到潜在客户成为成功客户为止。
 
