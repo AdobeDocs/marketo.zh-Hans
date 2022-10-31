@@ -2,7 +2,7 @@
 description: 对话框概述 — Marketo文档 — 产品文档
 title: 对话框概述
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 2%
