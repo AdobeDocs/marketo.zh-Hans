@@ -2,7 +2,7 @@
 description: 过滤电子邮件机器人活动 — Marketo文档 — 产品文档
 title: 筛选电子邮件机器人活动
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+source-git-commit: 32e635cf2c37f078737103653c706ad7b1afb515
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
