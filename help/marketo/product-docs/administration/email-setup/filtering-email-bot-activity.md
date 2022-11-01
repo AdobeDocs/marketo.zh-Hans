@@ -2,9 +2,9 @@
 description: 过滤电子邮件机器人活动 — Marketo文档 — 产品文档
 title: 筛选电子邮件机器人活动
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 32e635cf2c37f078737103653c706ad7b1afb515
+source-git-commit: f5a4fa76510cc70fe5b4746d58c6e0d4daf93a72
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,11 @@ ht-degree: 0%
 我们使用三种不同的方法来确认机器人活动：
 
 * 匹配 [交互式广告局机器人列表](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}:与IAB UA/IP（用户代理/IP地址）列表上的任何内容匹配的活动将标记为机器人。
-* 与邻近模式匹配：当同时发生两个以上的活动时（在一秒内），它们将被识别为机器人。
+* 与邻近模式匹配：当同时发生两个以上的活动时（在一秒内），它们将被识别为机器人。 比较过程中考虑的属性包括：
+   * 潜在客户ID（应相同）
+   * 电子邮件资产（应相同）
+   * 链接单击或电子邮件打开
+   * 时间差（应小于1秒）
 
 针对电子邮件链接点击和电子邮件打开活动，新属性将填充以下值：
 
