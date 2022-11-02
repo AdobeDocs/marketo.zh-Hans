@@ -2,9 +2,9 @@
 description: 操作数据同步常见问题解答 — Marketo文档 — 产品文档
 title: 操作数据同步常见问题解答
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
+source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,8 @@ Sales Insight Actions的Marketo Engage统一字段同步使系统能够将人员
 * 姓氏
 * Salesforce联系人ID
 * Salesforce潜在客户ID
+* Salesforce帐户ID
+* Salesforce机会ID
 * Marketo ID
 * 公司
 * 标题
