@@ -2,7 +2,7 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
+source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 3%
@@ -57,7 +57,7 @@ ht-degree: 3%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>即将推出</td>
+   <td><i>即将推出</i></td>
    <td>不适用</td>
   </tr>
   </tbody>
@@ -71,7 +71,7 @@ ht-degree: 3%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>即将推出</td>
+   <td><i>即将推出</i></td>
    <td>不适用</td>
   </tr>
   </tbody>
