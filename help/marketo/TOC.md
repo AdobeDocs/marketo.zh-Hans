@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: d3070dba1556793905d8945eda12442fcba70ce9
+source-git-commit: 118d0d8266fce05ea670f141372f2dbc2ce10116
 workflow-type: tm+mt
-source-wordcount: '8820'
+source-wordcount: '8827'
 ht-degree: 0%
 
 ---
@@ -647,6 +647,7 @@ ht-degree: 0%
             + [使用WebEx创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [使用缩放创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + 使用Marketo ON24适配器创建事件 {#create-an-event-with-the-marketo-on24-adapter}
+               + [设置ON24与Marketo的集成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
                + [使用Marketo ON24适配器创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [配置事件设置并将Marketo与网络研讨会同步](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [在Marketo中创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
