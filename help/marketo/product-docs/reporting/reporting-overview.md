@@ -1,13 +1,13 @@
 ---
 description: 报表概述 — Marketo文档 — 产品文档
 title: 报表概述
-source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
+exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
 
 ---
-
 
 # 报表概述 {#reporting-overview}
 
@@ -64,8 +64,3 @@ _(以前称为“收入周期浏览器”/“高级Report Builder”)_
 >[!NOTE]
 >
 >具有高级BI Analytics报表的模型性能分析（公司）和模型性能分析（潜在客户）取决于在高级历程分析产品中创建的收入周期模型。
-
-
-
-
-
