@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 118d0d8266fce05ea670f141372f2dbc2ce10116
+source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
 workflow-type: tm+mt
-source-wordcount: '8827'
+source-wordcount: '8816'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,6 @@ ht-degree: 0%
          + [将第3级Web会议添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [将Munchkin跟踪代码添加到您的网站](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [下一代Munchkin跟踪常见问题解答](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
-         + [将ReadyTalk添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [将单点登录添加到门户](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [将WebEx添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [将Workplace By Facebook添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
@@ -643,7 +642,6 @@ ht-degree: 0%
             + [使用Adobe Connect创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [使用GotoWebinar创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [创建具有第3级Web会议的事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-            + [使用ReadyTalk创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
             + [使用WebEx创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [使用缩放创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + 使用Marketo ON24适配器创建事件 {#create-an-event-with-the-marketo-on24-adapter}
