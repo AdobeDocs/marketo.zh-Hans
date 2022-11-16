@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce企业/无限制 — Marketo文档 — 产品文档中配置Marketo销售分析
 title: 在Salesforce企业/无限制中配置Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 6879a542e17d7694ba42494867707ebc93b791d3
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '863'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -292,8 +292,6 @@ Marketo人员字段需要映射到Salesforce联系字段，以确保转换正常
 ## Marketo Sales Insight“配置”选项卡 {#marketo-sales-insight-configuration-tab}
 
 1. 在Salesforce中，单击 **+** 单击 **Marketo Sales Insight配置**.
-
-1. 选择 **启用Marketo API** 复选框。
 
 1. 从的Soap API面板中复制凭据 [Marketo的“销售分析管理”页面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，并将其粘贴到“Salesforce销售分析配置”页面的Soap API部分。
 

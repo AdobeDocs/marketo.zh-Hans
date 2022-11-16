@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '591'
 ht-degree: 3%
 
 ---
@@ -17,9 +17,118 @@ ht-degree: 3%
 >
 >由星(![星星](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
-将在 **2022年10月14日**，在接下来的几周中将分阶段推出其余功能。 发行功能和日期可能会发生更改。 请查看下面每个功能的状态。
+## 标准发行周期功能 {#standard-release-cycle-features}
 
-## 跨渠道编排 {#cross-channel-orchestration}
+以下功能属于标准发行周期，将于 **2022年10月14日**，在接下来的几周中将分阶段推出其余功能。 发行功能和日期可能会发生更改。 请查看下面每个功能的状态。
+
+### 新一代体验 {#next-generation-experience}
+
+</br>
+
+* **更新了下一代体验中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
+
+   * 登陆页面模板详细信息
+   * 电子邮件模板列表
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发运</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">切换开关</a></td>
+  </tr>
+  </tbody>
+</table>
+
+* **增强了“电子邮件模板详细信息”中的“使用者”选项卡**:在新体验中，您将看到与使用电子邮件模板的资产相关的其他信息，包括资产状态、上次修改时间和上次修改时间。 您还可以搜索、排序和过滤资产使用的列表。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发运</td>
+   <td>不适用</td>
+  </tr>
+  </tbody>
+</table>
+
+* **报表资产过滤器模型**:报表配置模型的新设计，在配置菜单中显示新的资产树，并为创建和修改日期设置筛选器。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发运</td>
+   <td>不适用</td>
+  </tr>
+  </tbody>
+</table>
+
+### 营销数据环境 {#marketing-data-environment}
+
+</br>
+
+* **AdobePrivacy Service集成**:与Privacy Service协调，以自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入AdobeIdentity Management系统的Marketo Engage客户。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发运</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
+  </tr>
+  </tbody>
+</table>
+
+### API增强功能 {#api-enhancements}
+
+</br>
+
+* **批量潜在客户导入：销售人员关联**:与潜在客户REST API对等，以便能够在批量潜在客户导入过程中将潜在客户与销售人员关联，从而降低复杂性和所需API调用数。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发运</td>
+   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">批量导入潜在客户</a></td>
+  </tr>
+  </tbody>
+</table>
+
+### 销售分析 {#sales-insight}
+
+</br>
+
+![（星号）](assets/yellow-star.png)
+
+* **Sales Insight与动态聊天的集成**:分析功能板现在包括智能网格中的动态聊天活动，以及每周摘要和详细信息卡片。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发运</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">动态聊天集成</a></td>
+  </tr>
+  </tbody>
+</table>
+
+## 灵活发布功能
+
+以下功能遵循Agile格式，并在标准发行日期之前或之后的不同日期发布。 请查看下面每个功能的状态。
 
 * **为动态聊天自动排列对话框流**:通过按“自动排列”按钮，将画布上的所有内容整理为简洁且易于阅读的格式，从而改善您拥挤的对话框画布。
 
@@ -73,103 +182,6 @@ ht-degree: 3%
   <tr> 
    <td><i>即将推出</i></td>
    <td>不适用</td>
-  </tr>
-  </tbody>
-</table>
-
-## 新一代体验 {#next-generation-experience}
-
-* **更新了下一代体验中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
-
-   * 登陆页面模板详细信息
-   * 电子邮件模板列表
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">切换开关</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **增强了“电子邮件模板详细信息”中的“使用者”选项卡**:在新体验中，您将看到与使用电子邮件模板的资产相关的其他信息，包括资产状态、上次修改时间和上次修改时间。 您还可以搜索、排序和过滤资产使用的列表。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td>不适用</td>
-  </tr>
-  </tbody>
-</table>
-
-* **报表资产过滤器模型**:报表配置模型的新设计，在配置菜单中显示新的资产树，并为创建和修改日期设置筛选器。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td>不适用</td>
-  </tr>
-  </tbody>
-</table>
-
-## 营销数据环境 {#marketing-data-environment}
-
-* **AdobePrivacy Service集成**:与Privacy Service协调，以自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入AdobeIdentity Management系统的Marketo Engage客户。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
-  </tr>
-  </tbody>
-</table>
-
-## API增强功能 {#api-enhancements}
-
-* **批量潜在客户导入：销售人员关联**:与潜在客户REST API对等，以便能够在批量潜在客户导入过程中将潜在客户与销售人员关联，从而降低复杂性和所需API调用数。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">批量导入潜在客户</a></td>
-  </tr>
-  </tbody>
-</table>
-
-## 销售分析 {#sales-insight}
-
-![（星号）](assets/yellow-star.png)
-
-* **Sales Insight与动态聊天的集成**:分析功能板现在包括智能网格中的动态聊天活动，以及每周摘要和详细信息卡片。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">动态聊天集成</a></td>
   </tr>
   </tbody>
 </table>

@@ -2,9 +2,9 @@
 description: Salesforce中的Sales Insight Actions配置 — Marketo文档 — 产品文档
 title: Salesforce中的Sales Insight操作配置
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,15 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. 输入远程站点名称（可以是类似于“MarketoSalesInsight”的内容）。 输入远程站点URL(https://ims-na1-stg1.adobelogin.com)，然后单击 **保存**.
+1. 输入远程站点名称（可以是类似于“MarketoSalesInsight1”的名称）。 输入远程站点URL `https://ims-na1.adobelogin.com` 单击 **保存**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
+
+1. 单击 **新建远程站点** 再次。
+
+   ![](assets/msi-actions-configuration-in-salesforce-4a.png)
+
+1. 输入远程站点名称（可以是类似于“MarketoSalesInsight2”的名称）。 输入远程站点URL `https://mkto-sales-connect.adobe.io` 单击 **保存**.
 
 ## 在CRM中启用Sales Insight操作 {#enabling-sales-insight-actions-across-the-crm}
 
