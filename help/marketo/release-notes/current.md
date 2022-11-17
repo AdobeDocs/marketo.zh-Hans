@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f656901c3a25e043e59411857190f4711036637d
+source-git-commit: 3bc69f05fc72d6fd03f00410fa174829feb90e48
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '626'
 ht-degree: 3%
 
 ---
@@ -35,6 +35,20 @@ ht-degree: 3%
   <tr> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **AdobePrivacy Service集成**:与Privacy Service协调，以自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入AdobeIdentity Management系统的Marketo Engage客户。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发运</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
   </tr>
   </tbody>
 </table>
@@ -84,24 +98,6 @@ ht-degree: 3%
   <tr> 
    <td>已发运</td>
    <td>不适用</td>
-  </tr>
-  </tbody>
-</table>
-
-### 营销数据环境 {#marketing-data-environment}
-
-</br>
-
-* **AdobePrivacy Service集成**:与Privacy Service协调，以自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入AdobeIdentity Management系统的Marketo Engage客户。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
   </tr>
   </tbody>
 </table>
