@@ -2,9 +2,9 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: f656901c3a25e043e59411857190f4711036637d
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '629'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,24 @@ ht-degree: 3%
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
 以下功能属于标准发行周期，将于 **2022年10月14日**，在接下来的几周中将分阶段推出其余功能。 发行功能和日期可能会发生更改。 请查看下面每个功能的状态。
+
+### 营销数据环境 {#marketing-data-environment}
+
+</br>
+
+* **程序成员自定义字段同步**:能够双向同步为程序成员捕获的可扩展字段(例如，在事件注册期间（如食物、会话、轨道等）的参与者偏好
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
 
 ### 新一代体验 {#next-generation-experience}
 
