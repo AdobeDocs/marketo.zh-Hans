@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: 设置步骤 — Marketo文档 — 产品文档
 title: 设置步骤
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
+source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '2085'
 ht-degree: 0%
 
 ---
@@ -340,5 +340,9 @@ Marketo具有自定义跟踪JavaScript（称为Munchkin），您可以使用它�
 >[!NOTE]
 >
 >添加跟踪代码所需的HTML体验。
+
+## 性能预期 {#performance-expectations}
+
+您对Marketo的表现有什么期待？ 根据营销活动的规模和复杂性，它可能会有所不同。 但是，您可以期望的性能级别与“标准”列中列出的性能级别(位于 [Marketo Engage产品描述](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}。 “性能”和“性能加”列是指提供 [更高的性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}。
 
 所有设置步骤都结束。 剩下的就是深入使用Marketo!
