@@ -2,9 +2,9 @@
 description: 全局表单验证规则 — Marketo文档 — 产品文档
 title: 全局表单验证规则
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 2736e8a0456de76b9894312c26f6ba9c0345daee
+source-git-commit: d9e605d31e9a3434849ba800ba527775885ab34a
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Engage定义了一阻止列表个免费消费者电子邮件域，在使用预加载的“消费者电子邮件域”规则时，这些域阻止列表被阻止。 [在此处查看该列表](/help/marketo/product-docs/administration/settings/assets/freemaildomains_2023.csv).
+>Marketo Engage定义了一阻止列表个免费消费者电子邮件域，在使用预加载的“消费者电子邮件域”规则时，这些域阻止列表被阻止。 [在此处查看该列表](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
 
 ## 如何禁用每个表单的访问权限{#how-to-disable-access-per-form}
 
