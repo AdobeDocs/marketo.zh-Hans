@@ -1,42 +1,45 @@
 ---
 unique-page-id: 11377408
-description: 使用Workspaces - Marketo Docs — 产品文档添加其他品牌域
-title: 添加带工作区的其他品牌域
+description: 使用工作区添加其他品牌域 — Marketo文档 — 产品文档
+title: 使用工作区添加其他品牌化域
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# 添加带有工作区{#add-an-additional-branding-domain-with-workspaces}的其他品牌域
+# 使用工作区添加其他品牌化域 {#add-an-additional-branding-domain-with-workspaces}
 
 如果您有工作区，则可以添加其他品牌域。
 
 >[!PREREQUISITES]
 >
->必须先[编辑默认品牌域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)。
+>您必须 [编辑默认品牌域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) 第一个。
 >
->在添加其他品牌域之前，您必须首先将通用跟踪链接](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)替换为品牌域。[
+>你必须先 [替换通用跟踪链接](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) 添加其他品牌域之前，使用品牌域。
 
-1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**电子邮件**。
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2016-6-29-16-3a42-3a20.png)
+   ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 
-1. 单击&#x200B;**添加**&#x200B;以添加其他品牌域。
+1. 单击 **电子邮件**.
 
-   ![](assets/branding-domains-add-workspaces.png)
+   ![](assets/add-an-additional-branding-domain-with-workspaces-2.png)
 
-1. 输入新的品牌域。 单击&#x200B;**下一步**。
+1. 单击 **添加** 添加其他品牌域。
 
-   ![](assets/new-branding-domain-8-31.png)
+   ![](assets/add-an-additional-branding-domain-with-workspaces-3.png)
+
+1. 输入新的品牌域。 单击 **下一个**.
+
+   ![](assets/add-an-additional-branding-domain-with-workspaces-4.png)
 
    >[!NOTE]
    >
-   >您可以选择将其作为一个或多个工作区的主域，所有现有未发送的电子邮件均设置为“默认”，所有新创建的电子邮件都将默认为主域。 您可以按电子邮件覆盖此选项。
+   >您可以选择将此设为一个或多个工作区的主域，并且所有现有未发送的电子邮件均设置为“默认”，所有新创建的电子邮件都将默认设置为主域。 您可以按电子邮件覆盖此内容。
 
-1. 选择新的品牌域并单击&#x200B;**保存**。
+1. 选择新的品牌策略域并单击 **保存**.
 
-   ![](assets/image2016-8-12-10-3a52-3a44.png)
+   ![](assets/add-an-additional-branding-domain-with-workspaces-5.png)

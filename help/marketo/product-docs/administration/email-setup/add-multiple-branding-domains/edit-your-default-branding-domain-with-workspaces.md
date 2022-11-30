@@ -1,42 +1,45 @@
 ---
 unique-page-id: 11377406
-description: 使用Workspaces - Marketo Docs — 产品文档编辑默认品牌域
-title: 使用工作区编辑您的默认品牌域
+description: 使用工作区编辑默认品牌域 — Marketo文档 — 产品文档
+title: 使用工作区编辑默认品牌域
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-# 使用Workspaces {#edit-your-default-branding-domain-with-workspaces}编辑您的默认品牌域
+# 使用工作区编辑默认品牌域 {#edit-your-default-branding-domain-with-workspaces}
 
-1. 转至&#x200B;**Admin**，然后单击&#x200B;**电子邮件**。
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2016-6-29-16-3a42-3a20.png)
+   ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. 在“品牌域”(Branding Domains)表中，选择当前通用域并单击“编辑”(Edit)将其更改为公司的品牌域。
+1. 单击 **电子邮件**.
 
-   ![](assets/image2016-8-12-10-3a30-3a34.png)
+   ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
+
+1. 在“品牌化域名”(Branding Domains)表格中，选择当前的通用域，然后单击“编辑”(Edit)将其更改为贵公司的品牌化域。
+
+   ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 
    >[!NOTE]
    >
-   >**在** 您编辑了通用域之前，Add不会正常工作。**直** 到您添加第二个域后，Delete才会正常工作。
+   >**添加** 在编辑通用域之前不起作用。 **删除** 在添加第二个域之后才可用。
    >
-   >在您首次编辑通用域之前，您无法添加其他域。
+   >在首次编辑通用域之前，您无法添加其他域。
 
-1. 输入默认域的名称，然后单击&#x200B;**下一步**。
+1. 输入默认域的名称并单击 **下一个**.
 
-   ![](assets/image2016-8-12-10-3a32-3a31.png)
+   ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **保存**.
 
-   ![](assets/edit-branding-domain-9-12-16-hand.png)
+   ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 
 >[!NOTE]
 >
->添加其他品牌域时，您可以选择将此域作为一个或多个工作区的主域，并且所有现有未发送的电子邮件均设置为“默认”，所有新创建的电子邮件都将默认为主域。 您可以按电子邮件覆盖此选项。
+>添加其他品牌域时，您可以选择将此域设为一个或多个工作区的主域，并且所有现有未发送的电子邮件均设置为“默认”，所有新创建的电子邮件都将默认设置为主域。 您可以按电子邮件覆盖此内容。
 
-现在，您可以[添加工作区所需的其他品牌域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)。
+现在，您可以 [添加其他品牌域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) 您需要工作区。

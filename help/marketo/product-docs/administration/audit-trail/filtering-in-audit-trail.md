@@ -1,62 +1,61 @@
 ---
 unique-page-id: 11378468
-description: 在审计线索中筛选 — Marketo Docs — 产品文档
-title: 在审计跟踪中筛选
+description: 审核跟踪中的过滤 — Marketo文档 — 产品文档
+title: 在审核跟踪中过滤
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 在审核跟踪{#filtering-in-audit-trail}中筛选
+# 在审核跟踪中过滤 {#filtering-in-audit-trail}
 
-按时间范围、资产类型、用户、所采取的操作等进行筛选。
+按时间范围、资产类型、用户、执行的操作等进行筛选。
 
-1. 单击&#x200B;**管理员**。
+1. 单击 **管理员**.
 
-   ![](assets/one-1.png)
+   ![](assets/filtering-in-audit-trail-1.png)
 
-1. 在&#x200B;**Security**&#x200B;下，选择&#x200B;**审核跟踪**。
+1. 在 **安全性**，选择 **审核记录**.
 
-   ![](assets/two-1.png)
+   ![](assets/filtering-in-audit-trail-2.png)
 
 1. 单击过滤器图标。
 
-   ![](assets/three.png)
+   ![](assets/filtering-in-audit-trail-3.png)
 
    >[!NOTE]
    >
-   >可能的搜索参数组合有很多种。 在此示例中，我们找到：_所有电子邮件 — 由任何人编辑 — 在前七天_&#x200B;中。
+   >有多种可能的搜索参数组合。 在本例中，我们找到： _过去七天中所有电子邮件（由任何人编辑）_.
 
-1. 单击&#x200B;**期间**&#x200B;下拉框并选择&#x200B;**最近7天**。
+1. 单击 **句点** 下拉框并选择 **最近7天**.
 
-   ![](assets/four.png)
+   ![](assets/filtering-in-audit-trail-4.png)
 
-1. 单击&#x200B;**资产类型**&#x200B;下拉列表，然后选择&#x200B;**电子邮件**。
+1. 单击 **资产类型** 下拉框并选择 **电子邮件**.
 
-   ![](assets/five.png)
+   ![](assets/filtering-in-audit-trail-5.png)
 
-1. 单击&#x200B;**Actions**&#x200B;下拉框并选择&#x200B;**Edit**。
+1. 单击 **操作** 下拉框并选择 **编辑**.
 
-   ![](assets/six.png)
+   ![](assets/filtering-in-audit-trail-6.png)
 
-1. 单击&#x200B;**应用**。
+1. 单击 **应用**.
 
-   ![](assets/seven.png)
+   ![](assets/filtering-in-audit-trail-7.png)
 
-1. 筛选结果显示在左侧。
+1. 过滤的结果将显示在左侧。
 
-   ![](assets/eight.png)
+   ![](assets/filtering-in-audit-trail-8.png)
 
    就这样！
 
    >[!NOTE]
    >
-   >如果启用了工作区，您将看到所有工作区的审核数据。 如果应用工作区过滤器，Marketo会在您每次使用审核跟踪时记住以前的工作区值。 资产级别的工作区权限将得以实施。
+   >如果启用了工作区，您将看到所有工作区的审核数据。 如果应用工作区过滤器，Marketo会在您每次使用审核跟踪时记住上一个工作区值。 将强制执行资产级别的工作区权限。
 
    >[!MORELIKETHIS]
    >
-   >[更改审计线索中的详细信息](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[更改审核跟踪中的详细信息](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
