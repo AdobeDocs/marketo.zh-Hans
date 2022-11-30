@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: 仅限用户登录SSO - Marketo文档 — 产品文档
 title: 限制用户仅登录SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **管理员** 单击 **登录设置**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/restrict-user-login-to-sso-only-1.png)
+
+1. 单击 **登录设置**.
+
+   ![](assets/restrict-user-login-to-sso-only-2.png)
 
 1. 单击 **编辑安全设置**.
 
-   ![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/restrict-user-login-to-sso-only-3.png)
 
 1. 展开高级设置，选中 **需要单点登录**，然后单击 **保存**.
 
-![](assets/image2014-9-24-14-3a45-3a6.png)
+![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >

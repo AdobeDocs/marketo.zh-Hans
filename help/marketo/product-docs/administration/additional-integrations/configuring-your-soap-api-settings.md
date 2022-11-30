@@ -3,31 +3,34 @@ unique-page-id: 2360352
 description: 配置SOAP API设置 — Marketo文档 — 产品文档
 title: 配置SOAP API设置
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# 配置SOAP API设置{#configuring-your-soap-api-settings}
+# 配置SOAP API设置 {#configuring-your-soap-api-settings}
 
 >[!NOTE]
 >
->我们建议使用REST API。 了解有关[developers.marketo.com](https://developers.marketo.com/documentation/rest/)的更多信息。
+>我们建议使用REST API。 了解详情 [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 >[!NOTE]
 >
->**需要管理权限**
+>**需要管理员权限**
 
-1. 转至&#x200B;**Admin**&#x200B;并单击&#x200B;**Web服务**。
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-19-10-3a58-3a11.png)
+   ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. 设置适当的&#x200B;**加密密钥**，单击&#x200B;**保存更改**，并将所有信息传递给您的开发人员。
+1. 单击 **Web服务**.
 
-   ![](assets/image2014-9-19-11-3a0-3a46.png)
+   ![](assets/configuring-your-soap-api-settings-2.png)
+
+1. 设置适当的 **加密密钥**，单击 **保存更改**，并将所有信息传递给您的开发人员。
+
+   ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >

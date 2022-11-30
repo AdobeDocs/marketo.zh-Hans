@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: 创建Webhook - Marketo文档 — 产品文档
 title: 创建Webhook
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ ht-degree: 0%
 >
 >并非所有客户都购买了此功能。 有关详细信息，请联系您的销售代表。
 
-1. 转到 **管理员** 单击 **Webhooks**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-24-14-3a52-3a57.png)
+   ![](assets/create-a-webhook-1.png)
+
+1. 单击 **Webhooks**.
+
+   ![](assets/create-a-webhook-2.png)
 
 1. 单击 **新Webhook**.
 
-   ![](assets/image2014-9-24-14-3a53-3a9.png)
+   ![](assets/create-a-webhook-3.png)
 
 1. 命名并配置Webhook。
 
-   ![](assets/image2014-9-24-14-3a53-3a19.png)
+   ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
@@ -44,9 +48,9 @@ ht-degree: 0%
 
    * **请求类型**:选择要使用的HTTP方法(DELETE、GET、PATCH、POST、PUT)。
 
-   单击 **创建**.
+1. 单击 **创建**.
 
-   ![](assets/image2014-9-24-14-3a53-3a35.png)
+   ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >

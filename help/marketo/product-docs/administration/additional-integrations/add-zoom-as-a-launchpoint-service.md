@@ -1,58 +1,61 @@
 ---
 unique-page-id: 17728028
-description: 将缩放添加为LaunchPoint服务 — Marketo Docs — 产品文档
+description: 将缩放添加为LaunchPoint服务 — Marketo文档 — 产品文档
 title: 将缩放添加为LaunchPoint服务
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-# 将缩放添加为LaunchPoint服务{#add-zoom-as-a-launchpoint-service}
+# 将缩放添加为LaunchPoint服务 {#add-zoom-as-a-launchpoint-service}
 
-Marketo管理您的缩放注册和出席情况。
-
->[!NOTE]
->
->**需要管理权限**
+Marketo管理您的缩放注册和出勤。
 
 >[!NOTE]
 >
->此步骤需要现有的缩放和管理权限订阅。 拥有您用于登录并手持缩放的电子邮件和密码。
+>**需要管理员权限**
 
-1. 转至&#x200B;**Admin**&#x200B;区域，然后单击&#x200B;**LaunchPoint**。
+>[!NOTE]
+>
+>此步骤需要订阅缩放和管理权限。 拥有您用来登录缩放的电子邮件和密码。
 
-   ![](assets/launchpoint.png)
+1. 转到 **管理员** 的上界。
 
-1. 单击&#x200B;**新建**&#x200B;下拉框并选择&#x200B;**新建服务**。
+   ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-   ![](assets/newservicelp.png)
+1. 单击 **LaunchPoint**.
 
-1. 输入&#x200B;**显示名称**。 在&#x200B;**服务**&#x200B;下，选择&#x200B;**缩放**。
+   ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-   ![](assets/newservice-1.png)
+1. 选择 **新建** 然后 **新服务**.
 
-1. 单击&#x200B;**登录缩放**。
+   ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-   ![](assets/login.png)
+1. 输入 **显示名称**. 在 **服务**，选择 **缩放**.
 
-1. 在“缩放”登录窗口中，输入您的缩放凭据，然后单击&#x200B;**登录**。
+   ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
-   ![](assets/zoomlogin.png)
+1. 单击 **登录缩放**.
 
-1. 窗口关闭后，单击&#x200B;**创建**。
+   ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
-   ![](assets/create-1.png)
+1. 在“缩放”登录窗口中，输入缩放凭据并单击 **登录**.
 
-   太棒了！ 您的Zoom帐户现已与Marketo同步，可在LaunchPoint区域找到。
+   ![](assets/add-zoom-as-a-launchpoint-service-6.png)
+
+1. 窗口关闭后，单击 **创建**.
+
+   ![](assets/add-zoom-as-a-launchpoint-service-7.png)
+
+   太棒了！ 您的缩放帐户现在与Marketo同步，并可在LaunchPoint区域找到。
 
 >[!CAUTION]
 >
->在Zoom中更新密码时，还必须在Marketo中更新密码。
+>在缩放中更新密码时，还必须在Marketo中更新密码。
 
 >[!MORELIKETHIS]
 >
->了解如何使用Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)创建事件。[
+>了解如何 [使用缩放创建事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
