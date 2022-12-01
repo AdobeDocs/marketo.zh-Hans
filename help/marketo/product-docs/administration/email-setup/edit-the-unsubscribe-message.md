@@ -3,9 +3,9 @@ unique-page-id: 2360251
 description: 编辑取消订阅消息 — Marketo文档 — 产品文档
 title: 编辑退订消息
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 931b42d7266b9c57308567527042dfcad9847993
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 0%
 
 当您发送营销电子邮件(非[操作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md))，则取消订阅文本和链接会附加到底部。 您可以更改默认值。 这是方法。
 
-## 编辑退订消息 {#edit-the-unsubscribe-message-1}
+## 在何处进行编辑 {#where-to-make-the-edit}
 
-1. 在 **管理员**，单击 **电子邮件**.
+1. 转到 **管理员** 中。
 
-   ![](assets/image2014-9-18-16-3a52-3a1.png)
+   ![](assets/edit-the-unsubscribe-message-1.png)
+
+1. 单击 **电子邮件**.
+
+   ![](assets/edit-the-unsubscribe-message-2.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ ht-degree: 0%
 
 1. 编辑 **取消订阅HTML** 和 **取消订阅文本** 单击 **保存更改**.
 
-   ![](assets/image2016-8-26-13-3a40-3a55.png)
+   ![](assets/edit-the-unsubscribe-message-3.png)
 
    给你。 _一定要测试！_ 您不希望营销电子邮件中断取消订阅链接。
 

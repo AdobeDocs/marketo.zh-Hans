@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2360247
-description: 从“电子邮件”和“从标签”更改默认设置 — Marketo Docs — 产品文档
-title: 从“电子邮件”和“从”标签更改默认设置
+description: 从“电子邮件”和“标签 — Marketo文档 — 产品文档”更改默认设置
+title: 从电子邮件和标签更改默认设置
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# 更改“从电子邮件和从标签{#change-the-default-from-email-and-from-label}”的默认值
+# 从电子邮件和标签更改默认设置 {#change-the-default-from-email-and-from-label}
 
-每个Admin用户都可以更改&#x200B;**From Email**&#x200B;和&#x200B;**From Label**&#x200B;的默认值，以便在创建新电子邮件时使用这些默认值。
-
->[!NOTE]
->
->**需要管理权限**
-
-1. 转至&#x200B;**Admin**&#x200B;部分。
-
-   ![](assets/adminhand.png)
-
-1. 单击&#x200B;**电子邮件**。
-
-   ![](assets/image2014-9-18-16-3a27-3a19.png)
-
-1. 输入&#x200B;**“从电子邮件**”和&#x200B;**“从标签**”的默认值，然后单击“保存更改&#x200B;**”。**
-
-   ![](assets/change-default-hands.png)
+每个管理员用户都能够更改 **从电子邮件** 和 **从标签** 以便在创建新电子邮件时使用这些默认值。
 
 >[!NOTE]
 >
->更改仅适用于您，不适用于其他Marketo用户。
+>**需要管理员权限**
 
-干得好！ 每次创建新电子邮件时，都将使用您设置的默认值。
+1. 转到 **管理员** 中。
+
+   ![](assets/change-the-default-from-email-and-from-label-1.png)
+
+1. 单击 **电子邮件**.
+
+   ![](assets/change-the-default-from-email-and-from-label-2.png)
+
+1. 输入所需的默认值 **从电子邮件** 和 **从标签** 然后单击 **保存更改**.
+
+   ![](assets/change-the-default-from-email-and-from-label-3.png)
+
+>[!NOTE]
+>
+>此更改仅适用于您，而不适用于其他Marketo用户。
+
+干得好！ 每次创建新电子邮件时，系统都会使用您设置的默认值。
