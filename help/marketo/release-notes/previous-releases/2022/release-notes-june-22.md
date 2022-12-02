@@ -2,9 +2,9 @@
 description: 发行说明 — 2022年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年6月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -37,8 +37,8 @@ ht-degree: 0%
 
 **新建切换开关视图**:以下视图现在可在下一代体验中使用：
 
-* [“电子邮件详细信息”视图](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [电子邮件列表视图](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* [“电子邮件详细信息”视图](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [电子邮件列表视图](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## 体验自动化 {#experience-automation}
 

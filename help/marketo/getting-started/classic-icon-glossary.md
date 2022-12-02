@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: 经典图标术语表 — Marketo文档 — 产品文档
 title: 经典图标术语表
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
 # 经典图标术语表 {#classic-icon-glossary}
 
-以下是Marketo Classic的旧图标。 新图标术语表可以是 [此处](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}。
+以下是Marketo Classic的旧图标。 新图标术语表可以是 [此处](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}。
 
 **常规图标**
 
@@ -108,7 +108,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-10-3a38-3a59.png"> 
     </div></td> 
-   <td>历史</td> 
+   <td>历史记录</td> 
   </tr> 
   <tr> 
    <td> 
@@ -550,7 +550,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-14-3a56-3a46.png"> 
     </div></td> 
-   <td>批准</td> 
+   <td>审批</td> 
   </tr> 
   <tr> 
    <td> 
@@ -592,7 +592,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-15-3a17-3a53.png"> 
     </div></td> 
-   <td>批准</td> 
+   <td>审批</td> 
   </tr> 
   <tr> 
    <td> 
@@ -848,7 +848,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </div></td> 
-   <td colspan="1">新建</td> 
+   <td colspan="1">新</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -1003,7 +1003,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-5-14-3a27-3a2.png"> 
     </div></td> 
-   <td>数值</td> 
+   <td>数字</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1186,7 +1186,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </div></td> 
-   <td colspan="1">新建</td> 
+   <td colspan="1">新</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 

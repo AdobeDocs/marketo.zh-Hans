@@ -2,7 +2,7 @@
 description: 了解目标跟踪和预计注册 — Marketo文档 — 产品文档
 title: 了解目标跟踪和预计注册
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '988'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->要访问这些功能的大多数，请务必启用 [下一代切换](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}（用于事件程序）。
+>要访问这些功能的大多数，请务必启用 [下一代切换](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}（用于事件程序）。
 
 >[!NOTE]
 >
@@ -59,14 +59,14 @@ ht-degree: 0%
 
 * 程序类型
 * 节目渠道
-* 受众大小
+* 受众规模
 * 程序标记
 * 从事件创建到事件开始的持续时间
 * 事件持续时间
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
-## Recommendations
+## 推荐
 
 在“报表”页面顶部，您可以根据进度找到AI/ML驱动的推荐。 请定期回访，以获取有用的提示和洞察！
 

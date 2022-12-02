@@ -1,7 +1,8 @@
 ---
 description: 发行说明 — 2022年5月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年5月
-source-git-commit: d9ace2b00707c605dda94ec4fc21937d8b36d137
+exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -38,7 +39,7 @@ ht-degree: 0%
 
 **[电子邮件跟踪链接的STS标头](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**:通过应用安全传输安全标头来确保跟踪链接的流量始终安全，从而满足安全最佳实践。
 
-## 新一代体验 {#next-generation-experience}
+## 新一代体验 {#modern-ux}
 
 **将默认的开关切换到下一代体验**：切换开关将默认显示所有可用屏幕中的新体验，从而更便于用户发现更新的设计和可用性增强。
 

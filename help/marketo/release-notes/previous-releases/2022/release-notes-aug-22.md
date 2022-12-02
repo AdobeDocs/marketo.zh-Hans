@@ -2,7 +2,7 @@
 description: 发行说明 — 2022年8月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年8月
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 * **在移动对话框中显示目标文件夹的文件夹层次结构**:查看每个文件夹的文件夹层次结构可以更轻松地移动资产，并降低将资产放入错误文件夹的可能性。
 
-* **[更新了下一代体验中的屏幕](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
+* **[更新了下一代体验中的屏幕](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
 
    * 代码片段详细信息
    * “图像和文件”详细信息

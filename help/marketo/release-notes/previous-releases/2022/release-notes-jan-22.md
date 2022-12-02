@@ -1,7 +1,8 @@
 ---
 description: 发行说明 — 2022年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年1月
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 0%
@@ -10,7 +11,7 @@ ht-degree: 0%
 
 # 发行说明：2022年1月 {#release-notes-jan-22}
 
-’22年1月版中包含以下功能。 查看您的AdobeMarketo Engage版以了解功能的可用性。
+’22年1月版中包含以下功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
 
 >[!AVAILABILITY]
 >
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 将在 **2022年1月21日**，在接下来的几周内（除非另有指定）分阶段推出每项功能。
 
-## 新一代体验 {#next-generation-experience}
+## 新一代体验 {#modern-ux}
 
 * **更新了下一代体验中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
 
@@ -77,7 +78,7 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-* **Marketo Sky弃用**:今年3月，由于我们将资源集中在提供下一代用户体验上，因此Marketo Sky将不再可用。 为了保持对当今Marketo Sky所独有的功能的访问，我们将在3月将资产到期和智能促销活动优先级覆盖引入主流体验。 [单击此处](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) 以了解更多。
+* **Marketo Sky弃用**:今年3月，由于我们将资源集中在提供下一代用户体验上，因此Marketo Sky将不再可用。 为了保持对当今Marketo Sky所独有的功能的访问，我们将在3月将资产到期和智能促销活动优先级覆盖引入主流体验。 [单击此处](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) 以了解更多。
 
 * **弃用表单端点**:指向leadCapture/save2端点的不支持的程序化表单POST将被Marketo Engage表单拒绝。 [单击此处](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 以了解更多。
 

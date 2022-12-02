@@ -2,9 +2,9 @@
 description: 发行说明 — 2022年3月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年3月
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 * **电子邮件机器人活动筛选增强功能**:作为对先前发布 [电子邮件机器人活动筛选](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}功能，您现在可以选择加入已识别为机器人的日志记录活动。 然后，您可以根据已识别为由机器人执行的活动来筛选和触发操作。
 
-## 新一代体验 {#next-generation-experience}
+## 新一代体验 {#modern-ux}
 
 * **更新了下一代体验中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-* **Marketo Sky弃用**:今年3月，由于我们将资源集中在提供下一代用户体验上，因此Marketo Sky将不再可用。 为了保持对当前Marketo Sky所独有的功能的访问权限，我们将资产过期和智能营销活动优先级覆盖引入经典体验。 [单击此处](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) 以了解更多。
+* **Marketo Sky弃用**:今年3月，由于我们将资源集中在提供下一代用户体验上，因此Marketo Sky将不再可用。 为了保持对当前Marketo Sky所独有的功能的访问权限，我们将资产过期和智能营销活动优先级覆盖引入经典体验。 [单击此处](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) 以了解更多。
 
 **_产品发行网络研讨会_**
 
