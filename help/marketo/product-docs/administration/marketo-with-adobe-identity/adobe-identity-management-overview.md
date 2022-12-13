@@ -2,9 +2,9 @@
 description: AdobeIdentity Management概述 — Marketo文档 — 产品文档
 title: AdobeIdentity Management概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 如果您自2022年2月15日起在Adobe Marketo Engage拥有新帐户（新帐户，而不只是现有帐户的新实例），则它可能会与AdobeIdentity Management系统集成，具体取决于购买的产品包。 要确定是否具有该功能，请联系您的Marketo管理员或您帐户的客户成功经理。
 
-现有Marketo订阅将从今年晚些时候开始迁移到AdobeIdentity Management系统。
+2023年下半年，现有Marketo订阅将开始迁移至AdobeIdentity Management系统。
 
 >[!NOTE]
 >
@@ -99,7 +99,7 @@ AdobeIdentity Management系统由三个组件组成。
 
 [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-**我是否仍然转到Marketo的“管理员”部分，为我的帐户更改用户帐户？**
+**我是否仍然转到Marketo的“管理员”部分，以更改我的帐户？**
 
 否，您需要导航到 [account.adobe.com](https://account.adobe.com).
 
