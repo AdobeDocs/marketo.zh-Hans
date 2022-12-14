@@ -3,9 +3,9 @@ unique-page-id: 2953384
 description: 为自定义实体启用同步 — Marketo文档 — 产品文档
 title: 为自定义实体启用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
-source-git-commit: dadaf5bd8e887309d0e9ee8fc25fc58d1c4fbe97
+source-git-commit: 79cfb0396f690a370cdce4e4df3a23c7439c252e
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 0%
 >* 为自定义实体启用同步时，Marketo会执行初始同步以引入自定义对象的所有数据。
 >* 营销列表和营销列表成员包括 **不受支持** 此时。
 
+
+>[!IMPORTANT]
+>
+>Marketo同步用户需要对自定义对象的读取访问权限才能列出该对象并对其执行同步。
 
 1. 转到 **管理员** 中。
 

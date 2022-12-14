@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: SFDC同步 — 自定义对象同步 — Marketo文档 — 产品文档
 title: SFDC同步 — 自定义对象同步
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+source-git-commit: 79cfb0396f690a370cdce4e4df3a23c7439c252e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >要使用自定义对象，它必须与 [商机](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [联系人](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)或 [帐户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) 对象。
+
+>[!IMPORTANT]
+>
+>Marketo同步用户需要对自定义对象的读取访问权限才能列出该对象并对其执行同步。
 
 ## 启用自定义对象  {#enable-custom-object}
 
