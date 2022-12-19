@@ -3,10 +3,10 @@ description: 临时 — Marketo文档 — 产品文档
 title: 临时
 hide: true
 hidefromtoc: true
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+source-git-commit: 506b4d26cfceffe5e30b55d2dffe497640c1ba2c
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 12%
+source-wordcount: '523'
+ht-degree: 13%
 
 ---
 
@@ -71,14 +71,11 @@ ht-degree: 12%
   </tbody>
 </table>
 
-### 新一代体验 {#modern-ux}
+### 标题 {#title}
 
 </br>
 
-* **更新了现代UX中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
-
-   * 登陆页面模板详细信息
-   * 电子邮件模板列表
+* **标题**:描述
 
 <table> 
   <tr> 
