@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo产品文档
 feature-set: Marketo Engage
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
 workflow-type: tm+mt
-source-wordcount: '8810'
+source-wordcount: '8812'
 ht-degree: 0%
 
 ---
@@ -1869,46 +1869,47 @@ ht-degree: 0%
 + 发行说明 {#release-notes}
    + [发行计划](release-notes/release-schedule.md)
    + [当前版本](release-notes/current.md)
+   + [当前版本](release-notes/temp.md)
    + 以前版本 {#previous-releases}
-      + 2022年 {#2022}
+      + 2022 {#2022}
          + [发行说明：’22年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [发行说明：’22年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [发行说明：’22年5月](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [发行说明：’22年6月](release-notes/previous-releases/2022/release-notes-june-22.md)
          + [发行说明：’22年8月](release-notes/previous-releases/2022/release-notes-aug-22.md)
-      + 2021年 {#2021}
+      + 2021 {#2021}
          + [发行说明：’21年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [发行说明：’21年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [发行说明：’21年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [发行说明：’21年10月](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + 2020年 {#2020}
+      + 2020 {#2020}
          + [发行说明：’20年1月](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [发行说明：’20年2月](release-notes/previous-releases/2020/release-notes-feb-20.md)
          + [发行说明：’20年6月](release-notes/previous-releases/2020/release-notes-june-20.md)
          + [发行说明：’20年7月](release-notes/previous-releases/2020/release-notes-july-20.md)
          + [发行说明：’20年10月](release-notes/previous-releases/2020/release-notes-oct-20.md)
-      + 2019年 {#2019}
+      + 2019 {#2019}
          + [发行说明：’19年8月](release-notes/previous-releases/2019/release-notes-august-19.md)
          + [发行说明：’19年6月](release-notes/previous-releases/2019/release-notes-june-19.md)
          + [发行说明：’19年春](release-notes/previous-releases/2019/release-notes-spring-19.md)
          + [发行说明：’19年冬](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 2018年 {#2018}
+      + 2018 {#2018}
          + [发行说明：’18年秋季](release-notes/previous-releases/2018/release-notes-fall-18.md)
          + [发行说明：’18年春](release-notes/previous-releases/2018/release-notes-spring-18.md)
          + [发行说明：’18年冬](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + 2017年 {#2017}
+      + 2017 {#2017}
          + [发行说明：’17年4月ABM增强功能](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
          + [发行说明：’17年8月ABM增强功能](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
          + [发行说明：’17年秋季](release-notes/previous-releases/2017/release-notes-fall-17.md)
          + [发行说明：’17年春](release-notes/previous-releases/2017/release-notes-spring-17.md)
          + [发行说明：’17年夏季](release-notes/previous-releases/2017/release-notes-summer-17.md)
          + [发行说明：’17年冬](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + 2016年 {#2016}
+      + 2016 {#2016}
          + [发行说明：’16年秋季](release-notes/previous-releases/2016/release-notes-fall-16.md)
          + [发行说明：’16年春](release-notes/previous-releases/2016/release-notes-spring-16.md)
          + [发行说明：’16年夏季](release-notes/previous-releases/2016/release-notes-summer-16.md)
          + [发行说明：’16年冬](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 2015年 {#2015}
+      + 2015 {#2015}
          + [发行说明：2015年4月](release-notes/previous-releases/2015/release-notes-april-2015.md)
          + [发行说明：’15年秋季](release-notes/previous-releases/2015/release-notes-fall-15.md)
          + [发行说明：2015年2月](release-notes/previous-releases/2015/release-notes-february-2015.md)
@@ -1917,7 +1918,7 @@ ht-degree: 0%
          + [发行说明：2015年6月](release-notes/previous-releases/2015/release-notes-june-2015.md)
          + [发行说明：2015年3月](release-notes/previous-releases/2015/release-notes-march-2015.md)
          + [发行说明：2015年5月](release-notes/previous-releases/2015/release-notes-may-2015.md)
-      + 2014年 {#2014}
+      + 2014 {#2014}
          + [发行说明：2014年8月](release-notes/previous-releases/2014/release-notes-august-2014.md)
          + [发行说明：2014年12月](release-notes/previous-releases/2014/release-notes-december-2014.md)
          + [发行说明：2014年2月](release-notes/previous-releases/2014/release-notes-february-2014.md)
@@ -1927,7 +1928,7 @@ ht-degree: 0%
          + [发行说明：2014年3月](release-notes/previous-releases/2014/release-notes-march-2014.md)
          + [发行说明：2014年5月](release-notes/previous-releases/2014/release-notes-may-2014.md)
          + [发行说明：2014年10月](release-notes/previous-releases/2014/release-notes-october-2014.md)
-      + 2013年 {#2013}
+      + 2013 {#2013}
          + [发行说明：2013年4月](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [发行说明：2013年8月](release-notes/previous-releases/2013/release-notes-august-2013.md)
          + [发行说明：2013年12月](release-notes/previous-releases/2013/release-notes-december-2013.md)
@@ -1939,7 +1940,7 @@ ht-degree: 0%
          + [发行说明：2013年5月](release-notes/previous-releases/2013/release-notes-may-2013.md)
          + [发行说明：2013年10月](release-notes/previous-releases/2013/release-notes-october-2013.md)
          + [发行说明：2013年9月](release-notes/previous-releases/2013/release-notes-september-2013.md)
-      + 2012年 {#2012}
+      + 2012 {#2012}
          + [发行说明：2012年4月](release-notes/previous-releases/2012/release-notes-april-2012.md)
          + [发行说明：2012年12月](release-notes/previous-releases/2012/release-notes-december-2012.md)
          + [发行说明：2012年1月/2月](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
@@ -1949,4 +1950,4 @@ ht-degree: 0%
          + [发行说明：2012年10月](release-notes/previous-releases/2012/release-notes-october-2012.md)
          + [发行说明：2012年9月](release-notes/previous-releases/2012/release-notes-september-2012.md)
       + [2010-2011](release-notes/previous-releases/2010-2011.md)
-      + [2007-2009年](release-notes/previous-releases/2007-2009.md)
+      + [2007-2009](release-notes/previous-releases/2007-2009.md)
