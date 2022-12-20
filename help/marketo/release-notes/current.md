@@ -2,16 +2,16 @@
 description: 最新发行说明 — Marketo文档 — 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
+source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 3%
+source-wordcount: '616'
+ht-degree: 8%
 
 ---
 
-# 发行说明：2022年10月 {#release-notes-oct-22}
+# 发行说明：2023年1月 {#release-notes-jan-23}
 
-在下面，您将找到’22年10月版中包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
+在下面，您将找到’23年1月版中包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
 
 >[!AVAILABILITY]
 >
@@ -19,62 +19,30 @@ ht-degree: 3%
 
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于 **2022年10月14日**，在接下来的几周中将分阶段推出其余功能。 发行功能和日期可能会发生更改。 请查看下面每个功能的状态。
+以下功能属于标准发行周期，将于 **2023年1月20日**，在接下来的几周中将分阶段推出其余功能。 发行功能和日期可能会发生更改。 请查看下面每个功能的状态。
 
-### 营销数据环境 {#marketing-data-environment}
-
-</br>
-
-* **程序成员自定义字段同步**:能够双向同步为程序成员捕获的可扩展字段(例如，在事件注册期间（如食物、会话、轨道等）的参与者偏好
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">程序成员自定义字段同步</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **AdobePrivacy Service集成**:与Privacy Service协调，以自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入AdobeIdentity Management系统的Marketo Engage客户。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### 新一代体验 {#modern-ux}
+### Marketo Engage现代UX {#modern-ux}
 
 </br>
 
-* **更新了下一代体验中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
+* **更新了现代UX中的屏幕**:在现代UX（以前称为“下一代体验”）中，我们提供了额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
 
-   * 登陆页面模板详细信息
-   * 电子邮件模板列表
+   * 代码片段列表视图
+   * 登陆页面模板列表
 
-<table> 
+   <table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切换开关</a></td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
   </tr>
   </tbody>
 </table>
 
-* **增强了“电子邮件模板详细信息”中的“使用者”选项卡**:在新体验中，您将看到与使用电子邮件模板的资产相关的其他信息，包括资产状态、上次修改时间和上次修改时间。 您还可以搜索、排序和过滤资产使用的列表。
+* **增强了组件用于电子邮件模板详细信息和代码片段详细信息的功能**:新的“由UI使用”选项卡提供了有关每个“由资产使用”的其他信息，例如上次修改时间和修改者。 您可以通过搜索、排序和过滤功能轻松地执行分析。 此新的UI组件将从电子邮件模板和代码片段资产开始合并。
 
 <table> 
   <tr> 
@@ -82,13 +50,17 @@ ht-degree: 3%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
-   <td>不适用</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
   </tr>
   </tbody>
 </table>
 
-* **报表资产过滤器模型**:报表配置模型的新设计，在配置菜单中显示新的资产树，并为创建和修改日期设置筛选器。
+### 营销影响分析 {#marketing-impact-analytics}
+
+</br>
+
+* **重新设计的报表资产模式**:现代UX中针对报表配置模型的新设计提供了更新的外观和感觉，以及改进的辅助功能。
 
 <table> 
   <tr> 
@@ -96,8 +68,26 @@ ht-degree: 3%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
-   <td>不适用</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+### Marketo测量 {#marketo-measure}
+
+</br>
+
+* **Marketo Measure Ultimate**:为具有多个CRM和/或Marketo Engage实例以及多种源数据需求的企业启用完整的B2B归因。 它还提供了B2B归因解决方案，用于通过共享AEP数据AdobeRT-CDP。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +96,7 @@ ht-degree: 3%
 
 </br>
 
-* **批量潜在客户导入：销售人员关联**:与潜在客户REST API对等，以便能够在批量潜在客户导入过程中将潜在客户与销售人员关联，从而降低复杂性和所需API调用数。
+* **通过添加批量导出API信息，增强了“Web服务”选项卡**:现在，您可以查看订阅的每日容量分配情况，并查看过去7天内已使用的每日容量分配数量。
 
 <table> 
   <tr> 
@@ -114,28 +104,8 @@ ht-degree: 3%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">批量导入潜在客户</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### 销售分析 {#sales-insight}
-
-</br>
-
-![（星号）](assets/yellow-star.png)
-
-* **Sales Insight与动态聊天的集成**:分析功能板现在包括智能网格中的动态聊天活动，以及每周摘要和详细信息卡片。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">动态聊天集成</a></td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
   </tr>
   </tbody>
 </table>
@@ -144,35 +114,7 @@ ht-degree: 3%
 
 以下功能遵循Agile格式，并在标准发行日期之前或之后的不同日期发布。 请查看下面每个功能的状态。
 
-* **为动态聊天自动排列对话框流**:通过按“自动排列”按钮，将画布上的所有内容整理为简洁且易于阅读的格式，从而改善您拥挤的对话框画布。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">流设计器图标</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **用于动态聊天的会议链接**:在发送给访客的每个日历邀请中自动包含Google和Outlook的“团队”或“会面”链接的选项。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">日历</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **支持动态聊天的其他数据类型**:三种新的Marketo Engage类型（布尔、整数、浮点）允许您在动态聊天中利用更多现有的数据字段，进行诸如基于分数进行定位或询问访客是/否问题之类的操作。
+* **在动态聊天的信息捕获卡中定义选取列表**:为帮助确保数据的清洁度，您可以为信息捕获卡定义选取列表，以便访客只能从预定义的选项列表中进行选择。
 
 <table> 
   <tr> 
@@ -181,12 +123,12 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td><i>即将推出</i></td>
-   <td>不适用</td>
+   <td><i>即将推出</i></td>
   </tr>
   </tbody>
 </table>
 
-* **用于动态聊天的计划会议通知**:销售代表会收到有关计划会议的自动电子邮件通知以及有关访客聊天机器人交互的任何相关信息。
+* **动态聊天会议确认中的个性化**:工程师可以使用Marketo Engage人和公司字段个性化会议预订电子邮件确认，以便更好地与访客互动(例如：在自动会议预订通知电子邮件中以访客的名字向访客致意)。
 
 <table> 
   <tr> 
@@ -195,14 +137,63 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td><i>即将推出</i></td>
-   <td>不适用</td>
+   <td><i>即将推出</i></td>
   </tr>
   </tbody>
 </table>
 
-## 公告 {#announcements}
+* **在流设计器中搜索**:在流设计器中轻松搜索内容，以在流中的所有卡/节点中快速查找内容(例如：搜索“SEO”，并突出显示包含该字符串的所有节点)。
 
-* **Forms 1.0**:Forms 1.0的弃用将在10月版中完成。 Forms 1.0资产将无法再向Marketo Engage提交数据，如果尝试，则将返回错误。
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
 
-* **无脚本Forms**:在浏览器中禁用Javascript后，Forms将无法再正常运行。 表单提交将要求启用Javascript。
+* **动态聊天的聊天机器人日期/时间选取器**:Web访客可以使用日历选取器选择日期和时间，而不是手动输入日期。
 
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **用于动态聊天的预定会议电子邮件通知**:在座席日历上预订会议后，座席将收到有关预订的电子邮件通知，包括有关访客动态聊天参与的详细信息。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **用于动态聊天的对话框参与报告**:提供对话框参与度随时间变化的视图，包括按访客类型和参与类型进行过滤的功能。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
