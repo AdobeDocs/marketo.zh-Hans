@@ -1,11 +1,11 @@
 ---
-description: 最新发行说明 — Marketo文档 — 产品文档
+description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 8%
+source-wordcount: '618'
+ht-degree: 10%
 
 ---
 
@@ -113,6 +113,10 @@ ht-degree: 8%
 ## 灵活发布功能
 
 以下功能遵循Agile格式，并在标准发行日期之前或之后的不同日期发布。 请查看下面每个功能的状态。
+
+### 动态聊天 {#dynamic-chat}
+
+</br>
 
 * **在动态聊天的信息捕获卡中定义选取列表**:为帮助确保数据的清洁度，您可以为信息捕获卡定义选取列表，以便访客只能从预定义的选项列表中进行选择。
 
