@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472490
-description: 发行计划 — Marketo文档 — 产品文档
+description: 发行计划 - Marketo 文档 - 产品文档
 title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
+source-git-commit: 5f12d1dd83443214b9d54d46e18a492a175c791a
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 1%
+source-wordcount: '138'
+ht-degree: 5%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 1%
 
 **状态**:
 
-* 按计划 — 我们计划在指定日期发布季度功能和增强功能
-* 正在进行 — 我们正在开发并记录内容，以便在指定日期发布
+* 按计划 — 我们计划在指定日期发布功能和增强功能
+* 正在进行 — 我们正在推出此版本的功能
 * 已发运 — 版本已完成
 
 _发行日期可能会有变_
@@ -37,12 +37,12 @@ _发行日期可能会有变_
    <th width="250px">状态</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">’22年10月</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">’22年10月</a></td>
    <td>2022年10月14日</td>
    <td>已发运</td>
   </tr>
   <tr> 
-   <td>’23年1月</td>
+   <td><a href="/help/marketo/release-notes/current.md">’23年1月</a></td>
    <td>2023年1月20日</td>
    <td>按计划</td>
   </tr>
