@@ -1,68 +1,67 @@
 ---
 unique-page-id: 2949857
-description: 编辑事件渠道- Marketo Docs —— 产品文档
+description: 编辑事件渠道 — Marketo文档 — 产品文档
 title: 编辑事件渠道
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
+# 编辑事件渠道 {#edit-an-event-channel}
 
-# 编辑事件渠道{#edit-an-event-channel}
-
-您可以从渠道的&#x200B;**摘要**&#x200B;选项卡或其&#x200B;**设置**&#x200B;选项卡编辑事件类型。
-
->[!NOTE]
->
->此选项仅对没有关联成员的事件可用。 事件具有成员后，便无法更改渠道类型。
+您可以通过事件的 **概要** 选项卡或 **设置** 选项卡。
 
 >[!NOTE]
 >
->项目是一个特定的营销计划。 **渠道**&#x200B;旨在成为投放机制，如网络研讨会、贸易展或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉菜单中看到不同的渠道选项。 您还可以[创建您自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
+>此选项仅适用于没有关联成员的事件。 事件具有成员后，便无法更改渠道类型。
 
-## 摘要选项卡{#from-the-summary-tab}
+>[!NOTE]
+>
+>计划是一项特定的营销计划。 的 **频道** 旨在成为网络研讨会、贸易展或在线广告等交付机制。 根据您自己的实例中提供的内容，下拉列表中可能会显示不同的渠道选项。 您还可以  [创建您自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
-1. 从&#x200B;**营销活动**&#x200B;中，从树中选择您的事件。
+## 从“摘要”选项卡中 {#from-the-summary-tab}
+
+1. 从 **营销活动**，请从树中选择您的事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 导航到&#x200B;**摘要**&#x200B;视图。
+1. 导航到 **概要** 中。
 
    ![](assets/eventprogramsummary.png)
 
-1. 在&#x200B;**设置**&#x200B;类别下，选择当前显示为超链接的&#x200B;**渠道**。
+1. 在 **设置** 类别，选择当前 **渠道** 显示为超链接。
 
    ![](assets/channeltypeevent.png)
 
-1. 从下拉列表中，选择新渠道。
+1. 从下拉列表中，选择一个新渠道。
 
    ![](assets/tradeshowchange.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **保存**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
-## 从设置选项卡{#from-the-setup-tab}
+## 从设置选项卡 {#from-the-setup-tab}
 
-还可以从渠道的&#x200B;**设置**&#x200B;选项卡中分配新的事件类型。
+也可以从事件的 **设置** 选项卡。
 
-1. 从树中选择事件。
+1. 从树中选择您的事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 导航到&#x200B;**Setup**&#x200B;选项卡。 多次-单击当前&#x200B;**渠道**。
+1. 导航到 **设置** 选项卡。 双击当前 **渠道**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. 选择新&#x200B;**渠道**。
+1. 选择新 **渠道**.
 
    ![](assets/tradeshowchange.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **保存**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
-恭喜！ 你刚编辑了渠道!
+恭喜！ 你刚编辑了频道！

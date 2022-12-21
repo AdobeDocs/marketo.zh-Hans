@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## 在Design Studio中创建电子邮件 {#create-an-email-in-the-design-studio}
 
-1. 转到&#x200B;**Design Studio**。
+1. 转到 **Design Studio**.
 
    ![](assets/create-an-email-1.png)
 
-1. 单击&#x200B;**New**&#x200B;下拉列表，然后选择&#x200B;**New Email**。
+1. 单击 **新建** 下拉框并选择 **新电子邮件**.
 
    ![](assets/create-an-email-2.png)
 
@@ -32,15 +32,15 @@ ht-degree: 0%
 
 ## 在营销活动中创建电子邮件 {#create-an-email-in-marketing-activities}
 
-1. 转到&#x200B;**营销活动**。
+1. 转到 **营销活动**.
 
    ![](assets/create-an-email-3.png)
 
-1. 选择要将电子邮件添加到的程序，单击&#x200B;**New**&#x200B;下拉列表，然后选择&#x200B;**New Local Asset**。
+1. 选择要将电子邮件添加到的程序，单击 **新建** 下拉框并选择 **新建本地资产**.
 
    ![](assets/create-an-email-4.png)
 
-1. 单击&#x200B;**Email**。
+1. 单击 **电子邮件**.
 
    ![](assets/create-an-email-5.png)
 
@@ -48,19 +48,19 @@ ht-degree: 0%
 
 无论您选择哪种方法，都会转到模板选取器。
 
-1. 为您的电子邮件提供一个名称，单击要使用的模板，然后单击&#x200B;**创建**。
+1. 为您的电子邮件提供一个名称，单击要使用的模板，然后单击 **创建**.
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >您可以选择现成的响应式电子邮件模板集合，也可以选择您保存的模板，方法是先选择&#x200B;**我的模板**，然后按照相同的步骤操作。
+   >您可以选择一组现成的响应式电子邮件模板，也可以选择您通过首次选择保存的模板 **我的模板**，并执行相同的步骤。
 
 1. 输入主题行。 建议的字符限制为50。
 
    ![](assets/create-an-email-7.png)
 
-   根据您选择的模板，您将有不同的选项可用于编辑电子邮件。 有关包含模块的电子邮件，请参阅[将模块添加到您的电子邮件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)。
+   根据您选择的模板，您将有不同的选项可用于编辑电子邮件。 对于包含模块的电子邮件，请签出 [将模块添加到电子邮件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 您的电子邮件现已创建完成，请立即编辑！
 

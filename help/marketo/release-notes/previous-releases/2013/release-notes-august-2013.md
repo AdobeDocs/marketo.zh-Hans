@@ -16,7 +16,7 @@ ht-degree: 0%
 
 **仅文本电子邮件**
 
-现在，您只能发送电子邮件的文本版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)。 [请记住，使用此选项时不会修饰链接。
+现在，您可以发送 [只是文本版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) 电子邮件的。 请记住，使用此选项时不会修饰链接。
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ### 忽略已用尽的内容 {#ignore-exhausted-content}
 
-将参与程序配置为[忽略已用尽](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)，包括禁止任何通知。
+将参与计划配置为 [忽略耗尽](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)，包括禁止任何通知。
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## 参与流测试 {#engagement-stream-testing}
 
-使用[新测试功能](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)模拟转播，并测试新添加到实时流的内容。
+使用 [新测试功能](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) 模拟转播，并测试新添加到实时流的内容。
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 ## “以网页形式查看电子邮件”和“取消订阅”系统令牌 {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-利用这些[新令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)更好地控制其在电子邮件中的放置位置。
+利用这些 [新令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) 以更好地控制其在电子邮件中的放置位置。
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## 自动触发营销活动清理 {#automatic-trigger-campaign-cleanup}
 
-现在，Marketo将定期通知您并[自动停用过去六个月内未运行的触发器促销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
+Marketo现在会定期通知您 [自动停用触发器营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) 但过去6个月里没有运行过。
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

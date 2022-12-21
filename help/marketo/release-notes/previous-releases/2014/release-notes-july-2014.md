@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 营销日历 {#marketing-calendar}
 
-查看您在各个项目中的所有事件、电子邮件等内容。 [此新产](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 品将免费提供给拥有10名或更少Marketo潜在客户管理或Dialog用户的客户。
+查看您在各个项目中的所有事件、电子邮件等内容。 [此新产品](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 对于拥有10名或更少Marketo潜在客户管理或对话框用户的客户，将免费提供。
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -30,7 +30,7 @@ Marketo Lead Management将更新新的外观，使其更新为现代、时尚，
 
 ## 日期运算符 {#date-operators}
 
-[高级](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) 过滤器“以前”、“将来”和“将来以后”。例如，查找在未来3个月内具有出生日期的潜在客户，或查找在6个月后到期的合同。
+[高级过滤器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) “在以前”、“在将来”和“在将来之后”。 例如，查找在未来3个月内具有出生日期的潜在客户，或查找在6个月后到期的合同。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -46,7 +46,7 @@ Marketo Lead Management将更新新的外观，使其更新为现代、时尚，
 
 ## ReST API中的列表操作 {#list-operations-in-the-rest-api}
 
-我们添加了以下与ReST中的列表操作相关的调用。 有关完整文档，请参阅[developers.marketo.com](https://developers.marketo.com/documentation/rest/)。
+我们添加了以下与ReST中的列表操作相关的调用。 请参阅 [developers.marketo.com](https://developers.marketo.com/documentation/rest/) ，以获取完整文档。
 
 * 按ID获取列表
 * 获取多个列表
@@ -55,7 +55,7 @@ Marketo Lead Management将更新新的外观，使其更新为现代、时尚，
 
 ## 快速列表导入 {#fast-list-import}
 
-在&#x200B;**50倍的速度上**，您的文件会放大到Marketo! 旧的“正常”和“针对新潜在客户优化”导入选项已替换为“默认（快速导入）”。
+结束 **速度提高50倍**，则文件会放大到Marketo! 旧的“正常”和“针对新潜在客户优化”导入选项已替换为“默认（快速导入）”。
 
 “跳过新潜在客户和更新”选项保持不变。
 
@@ -69,7 +69,7 @@ Marketo Lead Management将更新新的外观，使其更新为现代、时尚，
 
 ## RTP:实时个性化营销活动模板 {#rtp-real-time-personalization-campaign-templates}
 
-现在，“RTP集促销活动”页面[包含已准备好的模板](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)。 从各种样式中进行选择，包括网络研讨会、案例分析、电子书。
+“RTP集促销活动”页现在 [包括已准备好的模板](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). 从各种样式中进行选择，包括网络研讨会、案例分析、电子书。
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
@@ -77,10 +77,10 @@ Marketo Lead Management将更新新的外观，使其更新为现代、时尚，
 
 ## RTP:JavaScript API增强功能 {#rtp-javascript-api-enhancements}
 
-新的RTP API调用，用于获取实时访客数据，例如组织、行业、位置和区段代码匹配。 此外，将鼠标悬停在区段页面中的区段名称上，会显示显示区段代码的工具提示。 有关完整文档，请参阅我们的[开发人员站点](https://developers.marketo.com/documentation/websites/rtp-js-api/)。
+新的RTP API调用，用于获取实时访客数据，例如组织、行业、位置和区段代码匹配。 此外，将鼠标悬停在区段页面中的区段名称上，会显示显示区段代码的工具提示。 查看我们的 [开发人员站点](https://developers.marketo.com/documentation/websites/rtp-js-api/) 以获取完整文档。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP:Campaign内容编辑器中支持HTML5 {#rtp-html-support-in-campaign-content-editor}
+## RTP:HTML内容编辑器中的Campaign5支持 {#rtp-html-support-in-campaign-content-editor}
 
-“设置营销活动”页面中的“所见即所得”内容编辑器现在具有完全的HTML5兼容性。 单击编辑器中的“HTML”图标以插入任何HTML5代码。
+现在，“设置促销活动”页面中的“所见即所得”HTML编辑器与内容完全兼容。 单击编辑器中的“HTML”图标以插入任何HTML5代码。

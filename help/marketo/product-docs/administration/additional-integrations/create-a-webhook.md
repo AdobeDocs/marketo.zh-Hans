@@ -48,7 +48,7 @@ ht-degree: 0%
 
    * **请求类型**:选择要使用的HTTP方法(DELETE、GET、PATCH、POST、PUT)。
 
-1. 单击 **创建**.
+1. 单击&#x200B;**创建**。
 
    ![](assets/create-a-webhook-5.png)
 

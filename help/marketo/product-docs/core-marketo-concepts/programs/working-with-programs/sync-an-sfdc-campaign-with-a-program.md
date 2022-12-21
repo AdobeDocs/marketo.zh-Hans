@@ -16,13 +16,13 @@ Marketo允许您将项目与Salesforce营销活动同步，以便在两个系统
 
 >[!PREREQUISITES]
 >
->您首先需要[启用Salesforce促销活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)。
+>您需要 [启用Salesforce促销活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) 第一个。
 
 >[!CAUTION]
 >
 >在将SFDC促销活动与Marketo计划同步时，将禁用该计划的子促销活动的隐含SFDC操作（例如，添加到SFDC促销活动、同步到SFDC）。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到 **营销活动**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,17 +30,17 @@ Marketo允许您将项目与Salesforce营销活动同步，以便在两个系统
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. 单击&#x200B;**程序操作**，然后选择&#x200B;**Salesforce促销活动同步**。
+1. 单击 **计划操作**，然后选择 **Salesforce促销活动同步**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. 选择&#x200B;**新建**&#x200B;或选择现有的Salesforce营销活动。
+1. 选择 **新建** 或选择现有的Salesforce营销活动。
 
    >[!TIP]
    >
-   >如果您选择了现有的Salesforce营销活动，请确保[与Salesforce营销活动和Marketo项目](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)的项目状态匹配。
+   >如果您选择了现有的Salesforce营销活动，请确保 [匹配Salesforce营销活动和Marketo计划的项目状态](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
-1. 输入新营销活动的名称，然后单击&#x200B;**保存**。
+1. 输入新营销活动的名称并点击 **保存**.
 
    ![](assets/image2015-7-22-8-3a57-3a19.png)
 

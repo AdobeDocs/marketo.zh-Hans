@@ -5,8 +5,8 @@ title: 将Google AdWords添加为LaunchPoint服务
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '325'
+ht-degree: 1%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 0%
    >
    >在Marketo和AdWords中使用一致的归因模型可提供最准确的数据。
 
-1. 单击 **创建**.
+1. 单击&#x200B;**创建**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-11.png)
 

@@ -4,7 +4,7 @@ title: 触发器促销活动的优先级覆盖
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -27,25 +27,25 @@ ht-degree: 0%
 >
 >只有具有管理员职责的管理员或用户才应具有营销活动优先级覆盖访问权限。
 
-1. 在 [!UICONTROL 管理员] 区域，单击 **[!UICONTROL 用户和角色]**.
+1. 在 [!UICONTROL Admin] 区域，单击 **[!UICONTROL Users & Roles]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
-1. 单击 **[!UICONTROL 角色]** ，选择要授予访问权限的用户，然后单击 **[!UICONTROL 编辑角色]**.
+1. 单击 **[!UICONTROL Roles]** ，选择要授予访问权限的用户，然后单击 **[!UICONTROL Edit Role]**.
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. 在 [!UICONTROL 访问营销活动]，选择 **[!UICONTROL 编辑触发器营销活动优先级]**. 单击 **[!UICONTROL 保存]**.
+1. 在 [!UICONTROL Access Marketing Activities]，选择 **[!UICONTROL Edit Trigger Campaign Priority]**. 单击 **[!UICONTROL Save]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
 ## 覆盖优先级 {#override-priority}
 
-1. 找到您的触发器营销活动。 右键单击该页面并选择 **[!UICONTROL 覆盖营销活动优先级]**.
+1. 找到您的触发器营销活动。 右键单击该页面并选择 **[!UICONTROL Override Campaign Priority]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. 单击 **[!UICONTROL 覆盖营销活动优先级]** 滑块启用。 选择新的优先级级别并单击 **[!UICONTROL 确认]**.
+1. 单击 **[!UICONTROL Override Campaign Priority]** 滑块启用。 选择新的优先级级别并单击 **[!UICONTROL Confirm]**.
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 您可以在 [!UICONTROL 促销活动队列] 在 [!UICONTROL 营销活动]. 要提高执行率，我们建议将营销活动优先级设置为比默认优先级高1个级别。
+>* 您可以在 [!UICONTROL Campaign Queue] 在 [!UICONTROL Marketing Activities]. 要提高执行率，我们建议将营销活动优先级设置为比默认优先级高1个级别。
 >* 用户集优先级仅适用于符合营销活动资格的新用户；已处于队列中的人员不会受到影响。
 >* 优先级覆盖在 [审核记录](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
 

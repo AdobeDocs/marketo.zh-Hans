@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147239
-description: 将项目状态列添加到项目报告 — Marketo文档 — 产品文档
-title: 将项目状态列添加到项目报表
+description: 将项目状态列添加到项目报表 — Marketo文档 — 产品文档
+title: 将程序状态列添加到程序报表
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# 将项目状态列添加到项目报表{#add-program-status-columns-to-a-program-report}
+# 将程序状态列添加到程序报表 {#add-program-status-columns-to-a-program-report}
 
-向[项目性能报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)添加项目状态统计信息。
+将有关程序状态的统计资料添加到 [项目绩效报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
 
-1. 转至营销活动（或Analytics）。
+1. 转到营销活动（或Analytics）。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,30 +22,30 @@ ht-degree: 0%
 
    ![](assets/emailperformance.jpg)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡，并拖动到渠道标签上。
+1. 单击 **设置** 选项卡，并将其拖动到渠道标记上。
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
-1. 选择要筛选的渠道。
+1. 选择要按过滤的渠道。
 
    ![](assets/image2014-9-23-16-3a26-3a48.png)
 
    >[!TIP]
    >
-   >要显示项目状态列，必须仅按&#x200B;_一个_&#x200B;渠道筛选报表。
+   >要显示程序状态列，报表必须按 _就一个_ 渠道。
 
-1. 选中“显示项目状态列”选项。 单击&#x200B;**应用**。
+1. 选中显示程序状态列的选项。 单击 **应用**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. 你成功了！ 单击“报表”选项卡以查看包含项目状态列的报表。
+1. 你成功了！ 单击“报表”选项卡可查看包含项目状态列的报表。
 
    ![](assets/programreport.jpg)
 
 >[!NOTE]
 >
->如果未在项目中看到每个状态对应的列，请确保已选择[要在报表中显示](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)的列。
+>如果看不到程序中每个状态的列，请确保您具有 [选择要显示的列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 中。
 
 >[!MORELIKETHIS]
 >
->[按标记筛选项目报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
+>[按标记过滤程序报表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)

@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
+## Microsoft Dynamics内部部署 {#microsoft-dynamics-on-premise}
 
-现在，我们通过面向Internet的部署，支持内部部署的Microsoft Dynamics 2011。
+我们现在通过面向Internet的部署，在内部部署支持Microsoft Dynamics 2011。
 
 ## 网钩（宝箱） {#webhooks-treasure-chest}
 

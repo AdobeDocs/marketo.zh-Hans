@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2360397
-description: 订阅收入浏览器报表 — Marketo Docs — 产品文档
+description: 订阅收入浏览器报表 — Marketo文档 — 产品文档
 title: 订阅收入浏览器报表
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
+# 订阅收入浏览器报表 {#subscribe-to-a-revenue-explorer-report}
 
-# 订阅收入浏览器报表{#subscribe-to-a-revenue-explorer-report}
+要从收入周期浏览器报表接收更新并共享这些更新，您可以订阅现有报表的任何电子邮件地址。
 
-要从收入周期浏览器报表接收更新并共享这些更新，您可以将任何电子邮件地址订阅到现有报表。
-
-1. 转至&#x200B;**Analytics**&#x200B;并选择&#x200B;**新建** > **新建报表订阅**。
+1. 转到 **Analytics** 选择 **新建** > **新报表订阅**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >要订阅在项目中创建的基本报告，请参阅[订阅基本报告。](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >要订阅您在项目中创建的基本报表，请参阅 [订阅基本报表。](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. 对于&#x200B;**报表源**，选择&#x200B;**收入浏览器**。
+1. 对于 **报表源**，选择 **收入浏览器**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
-1. 导览文件夹树，然后选择报表。
+1. 导航文件夹树并选择报表。
 
    ![](assets/image2014-9-17-12-3a47-3a17.png)
 
@@ -37,12 +36,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >任何人都可以在收到的电子邮件中取消订阅报告。
+   >任何人都可以在收到的电子邮件中取消订阅报表。
 
-1. 您的订阅已设置！ 如果您包含您自己的电子邮件地址，您将通过电子邮件收到报告。
+1. 订购已设置！ 如果您包含自己的电子邮件地址，您将通过电子邮件收到该报表。
 
    ![](assets/image2014-9-17-12-3a47-3a54.png)
 
 >[!MORELIKETHIS]
 >
->了解如何[在一个位置管理所有报告订阅](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。
+>了解如何 [管理所有报表订阅](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 在一个地方。

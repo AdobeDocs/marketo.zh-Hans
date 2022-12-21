@@ -1,7 +1,8 @@
 ---
 description: 自定义活动元数据导出 — Marketo文档 — 产品文档
 title: 自定义活动元数据导出
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -12,11 +13,11 @@ ht-degree: 0%
 
 请按照以下步骤导出自定义活动元数据架构。
 
-1. 在我的Marketo中，单击&#x200B;**管理员**。
+1. 在我的Marketo中，单击 **管理员**.
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. 单击&#x200B;**Marketo Custom Activities**。
+1. 单击 **Marketo自定义活动**.
 
    ![](assets/custom-activity-metadata-export-2.png)
 
@@ -24,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. 单击&#x200B;**自定义活动操作**&#x200B;下拉列表，然后选择&#x200B;**导出活动**。
+1. 单击 **自定义活动操作** 下拉框并选择 **导出活动**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 

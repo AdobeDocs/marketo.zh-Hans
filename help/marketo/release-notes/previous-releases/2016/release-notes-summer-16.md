@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11380218
-description: 发行说明 — 16年夏季 — Marketo文档 — 产品文档
+description: 发行说明 — 2016年夏季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年夏季
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
@@ -20,7 +20,7 @@ Marketo基于帐户的营销在一个统一的平台中提供所有基本功能�
 
 * **Target**  — 帐户发现、帐户匹配和命名帐户列表
 * **参与**  — 基于帐户的个性化、跨渠道参与和特定于帐户的工作流
-* **衡量**  — 帐户和列表级别的分析、帐户参与度得分以及管道和收入影响
+* **测量**  — 帐户和列表级别分析、帐户参与度得分以及管道和收入影响
 
 ![](assets/abm-5-acme.png)
 
@@ -59,7 +59,7 @@ Marketo基于帐户的营销在一个统一的平台中提供所有基本功能�
 **语法更新**
 
 * 现在，您可以对Email 2.0模板中指定的模块使用“mktoAddByDefault”，以指示新电子邮件默认应显示哪些模块。 如果您要构建包含大量模块的电子邮件模板，则这样会方便得多。
-* 在图像元素上，您现在可以指定是否应将底层`<img>` HTML元素的“height”和“width”属性锁定或对最终用户可编辑。 mktoLockImgSize=&quot;true&quot;会导致高度/宽度被锁定（即使图像已更改）。 同样， mktoLockImgStyle=&quot;true&quot;也会导致“style”属性被锁定。
+* 在图像元素上，您现在可以指定 `<img>` HTML元素的“高度”和“宽度”属性应被锁定或可编辑给最终用户。 mktoLockImgSize=&quot;true&quot;会导致高度/宽度被锁定（即使图像已更改）。 同样， mktoLockImgStyle=&quot;true&quot;也会导致“style”属性被锁定。
 
 **代码搜索**
 
@@ -69,7 +69,7 @@ Marketo基于帐户的营销在一个统一的平台中提供所有基本功能�
 
 **图像元素中的令牌支持**
 
-令牌现在可以在插入图像体验的“外部URL”区域中使用！ 如果您已使用`{{my.tokens}}`指定了图像，则现在可以在Email Editor 2.0中引用这些令牌。请注意，该图像在Email Editor 2.0画布中仍将显示为已损坏。 但是，在发送电子邮件之前，您将看到这些图像在“预览”和“发送示例”中呈现。
+令牌现在可以在插入图像体验的“外部URL”区域中使用！ 如果您已通过 `{{my.tokens}}`，您现在可以在Email Editor 2.0中引用这些令牌。请注意，图像在Email Editor 2.0画布中仍将显示为已损坏。 但是，在发送电子邮件之前，您将看到这些图像在“预览”和“发送示例”中呈现。
 
 ## 多品牌域 {#multiple-branding-domains}
 

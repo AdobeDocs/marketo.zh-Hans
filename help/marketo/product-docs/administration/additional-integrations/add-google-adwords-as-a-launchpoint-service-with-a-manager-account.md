@@ -5,8 +5,8 @@ title: 使用Manager帐户将Google AdWords添加为Launchpoint服务
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '368'
+ht-degree: 1%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 
-1. 取消选择您不希望更新的帐户。 单击 **创建**.
+1. 取消选择您不希望更新的帐户。 单击&#x200B;**创建**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 

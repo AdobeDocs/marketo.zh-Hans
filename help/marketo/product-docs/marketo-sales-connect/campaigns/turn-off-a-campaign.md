@@ -1,32 +1,31 @@
 ---
 unique-page-id: 14352609
-description: 关闭活动- Marketo Docs —— 产品文档
-title: 关闭活动
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: 关闭促销活动 — Marketo文档 — 产品文档
+title: 关闭营销活动
+exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
+# 关闭营销活动 {#turn-off-a-campaign}
 
-# 关闭活动{#turn-off-a-campaign}
-
-需要在活动回复时自动结束收件人? 这是方法。
+在收件人回复时需要自动结束Campaign? 这是方法。
 
 >[!NOTE]
 >
->这仅适用于已与Gmail或Exchange集成并启用回复跟踪的客户。
+>此功能仅适用于已与Gmail或Exchange集成并启用了回复跟踪的客户。
 
-## 关闭一人活动{#turn-off-a-campaign-for-one-person}
+## 为一个人关闭营销活动 {#turn-off-a-campaign-for-one-person}
 
-创建活动后，只需转到&#x200B;**设置**&#x200B;选项卡，并在有人回复时选择希望活动的行为方式。
+创建营销活动后，只需转到 **设置** 选项卡，并选择当有人回复时，您希望营销活动的行为方式。
 
-这两个选项都将结束活动,收件人将不会再收到您发送的任何电子邮件。
+这两个选项都将结束营销活动，收件人将不会再收到您发来的电子邮件。
 
-## 关闭多人活动{#turn-off-a-campaign-for-multiple-people}
+## 关闭多人的营销活动 {#turn-off-a-campaign-for-multiple-people}
 
-在已发送的文件夹中，选择联系人以从活动中删除这些联系人，并将筛选器设置为“全部”以捕获已收到活动的任何人。
+在您的已发送文件夹中，选择联系人以将其从营销活动中删除，并将过滤器设置为“全部”以捕获任何已收到营销活动的人。
 
-或者，您也可以直接转到活动，批量删除它们。
+或者，您也可以直接转到他们所在的营销活动，并批量删除它们。

@@ -5,7 +5,7 @@ exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
 source-wordcount: '520'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -223,7 +223,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td><strong>接收者</strong></td> 
-   <td>发送电子邮件的人的电子邮件地址。</td> 
+   <td>发送电子邮件的人员的电子邮件地址。</td> 
   </tr>
   <tr> 
    <td><strong>销售电话应答者</strong></td> 
@@ -279,7 +279,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td><strong>发送者</strong></td>
-   <td>发送电子邮件的人的电子邮件地址。</td> 
+   <td>发送电子邮件的人员的电子邮件地址。</td> 
   </tr> 
   <tr> 
    <td><strong>源</strong></td> 

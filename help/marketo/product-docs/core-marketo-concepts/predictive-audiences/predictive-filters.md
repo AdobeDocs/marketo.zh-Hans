@@ -4,7 +4,7 @@ title: 预测过滤器
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 这两个过滤器通过定位与其他项目或智能列表成员类似的其他潜在客户来帮助您扩展当前受众。 相似人群拓展过滤器考虑了50多种因素，包括潜在客户属性、电子邮件活动、Web活动和参与度。
 
-单击 **[!UICONTROL 添加约束]** 为选定项目的成员选择成功标准。
+单击 **[!UICONTROL Add Constraint]** 为选定项目的成员选择成功标准。
 
 单击 **+** 图标，以轻松地将多个程序/智能列表添加到一个过滤器。
 

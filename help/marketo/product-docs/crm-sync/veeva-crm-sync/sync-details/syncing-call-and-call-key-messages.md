@@ -5,7 +5,7 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '503'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 * 更新的调用
 * 更新了呼叫密钥消息
 
-过滤器：
+过滤器:
 
 * 具有调用
 * 有呼叫密钥消息

@@ -3,7 +3,8 @@ description: 以其他用户的身份查看模板列表 — Marketo文档 — �
 title: 以其他用户的身份查看模板列表
 hide: true
 hidefromtoc: true
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

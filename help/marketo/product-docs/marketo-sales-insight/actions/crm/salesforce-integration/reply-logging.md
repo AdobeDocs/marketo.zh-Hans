@@ -3,7 +3,8 @@ description: 回复日志记录 — Marketo文档 — 产品文档
 title: 回复日志记录
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%

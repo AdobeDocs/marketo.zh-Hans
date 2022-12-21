@@ -5,7 +5,7 @@ title: 将任务分配给团队成员
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 source-git-commit: 01a131e58a3f4ea80d30363d152608820530163e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >您只能为共享联系人分配任务。
 
-1. 单击&#x200B;**命令中心**。
+1. 单击 **命令中心**.
 
    ![](assets/one-1.png)
 
-1. 单击&#x200B;**添加任务**。
+1. 单击 **添加任务**.
 
    ![](assets/two-1.png)
 
@@ -50,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 添加任何与队友相关的重要详细信息（可选），然后单击&#x200B;**创建**。
+1. 添加任何与队友相关的重要详细信息（可选），然后单击 **创建**.
 
    ![](assets/nine.png)

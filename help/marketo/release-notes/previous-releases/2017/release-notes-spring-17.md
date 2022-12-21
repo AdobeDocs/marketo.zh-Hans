@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ## [linkedIn领导Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn潜在客户](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 代表是企业在LinkedIn上运行潜在客户代表活动的更直接方式。人们可以填写表格来表达对产品或服务的兴趣，使企业能够捕获人员的详细信息并将其同步到Marketo，在那里可以进行自动的后续流程和潜在客户路由活动。
+[linkedIn领导Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 是企业在LinkedIn上运行商机拓展活动的更直接方式。 人们可以填写表格来表达对产品或服务的兴趣，使企业能够捕获人员的详细信息并将其同步到Marketo，在那里可以进行自动的后续流程和潜在客户路由活动。
 
-Marketo与LinkedIn Lead Gen Forms的集成可自动捕获潜在客户在Lead Gen表单中提供的信息。 随后，可以使用新的&#x200B;**填写LinkedIn潜在客户代表单**&#x200B;触发器和过滤器，自动执行后续操作和通知。
+Marketo与LinkedIn Lead Gen Forms的集成可自动捕获潜在客户在Lead Gen表单中提供的信息。 随后，可以使用新的 **填写LinkedIn Lead Gen表** 触发器和过滤器。
 
 ![](assets/release-notes-image.png)
 

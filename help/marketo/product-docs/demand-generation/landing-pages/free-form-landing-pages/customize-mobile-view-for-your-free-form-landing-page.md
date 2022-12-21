@@ -1,114 +1,113 @@
 ---
 unique-page-id: 5472283
-description: 为自由表单视图自定义移动登陆页- Marketo文档——产品文档
-title: 为自由形式视图自定义移动登陆页
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 为自由格式登陆页面自定义移动视图 — Marketo文档 — 产品文档
+title: 为自由格式登陆页面自定义移动视图
+exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
 
 ---
 
-
-# 为自由格式视图{#customize-mobile-view-for-your-free-form-landing-page}自定义移动登陆页
+# 为自由格式登陆页面自定义移动视图 {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
->[为自由表单视图添加移动登陆页](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
+>[为自由格式登陆页面添加移动视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-自由形式视图的移动登陆页大多是自动的，但您可以自定义它。 这是方法。
+自由格式登陆页面的移动视图大多是自动的，但您可以对其进行自定义。 这是方法。
 
-1. 选择自由形式登陆页。
+1. 选择您的自由格式登陆页面。
 
    ![](assets/selectlandingapge.jpg)
 
-1. 单击&#x200B;**编辑草稿**。
+1. 单击 **编辑草稿**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. 单击&#x200B;**Mobile**&#x200B;选项卡。
+1. 单击 **移动设备** 选项卡。
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## 移动与桌面视图{#mobile-vs-desktop-view}
+## 移动设备视图与桌面视图 {#mobile-vs-desktop-view}
 
-在“页面元素”下，您将看到![](assets/image2015-1-22-18-3a39-3a53.png)（桌面）图标和![](assets/image2015-1-22-18-3a40-3a31.png)（移动）图标。 这允许您动态显示／隐藏不同的元素。
+在页面元素下，您将看到 ![](assets/image2015-1-22-18-3a39-3a53.png) （桌面）图标和 ![](assets/image2015-1-22-18-3a40-3a31.png) （移动设备）图标。 这允许您动态显示/隐藏不同的元素。
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
-默认情况下，桌面视图上的所有内容都显示在移动视图上。
+默认情况下，桌面视图上的所有内容都会显示在移动设备视图上。
 
 >[!NOTE]
 >
->矩形不会显示在移动视图上。
+>矩形未显示在移动设备视图中。
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## 重要注意事项：{#important-things-to-know}
+## 重要注意事项： {#important-things-to-know}
 
-* 图像将扩展到移动设备的宽度。 如果您想要更小的图像，请拉入富文本元素，然后从那里添加图像。
-* 只使用Forms2.0表单。 它们是响应式的，将自动进行调整。
-* 只有一个模板元素可编辑，即BODY#bodyid(Mobile)。 您可以使用它更改背景颜色。
+* 图像将展开到移动设备的宽度。 如果您想要小图像，请提取富文本元素，然后从此处添加图像。
+* 仅使用Forms 2.0表单。 它们是响应式的，并将自动进行调整。
+* 只能编辑一个模板元素：BODY#bodyid(Mobile)。 您可以使用它更改背景颜色。
 
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
-## 从移动视图{#hide-an-element-from-the-mobile-view}中隐藏元素
+## 在移动设备视图中隐藏元素 {#hide-an-element-from-the-mobile-view}
 
 >[!TIP]
 >
->移动设备更少。 用更少的词来取悦客户。
+>在移动设备上，“更少”更重要。 用更少的词语来取悦更快乐的客户。
 
-1. 要隐藏元素，请单击移动列下的相应复选框。
+1. 要隐藏元素，请单击移动设备列下的相应复选框。
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. 完美！ 该元素将不再显示在移动视图中。
+1. 完美！ 该元素将不再在移动设备视图中可见。
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
-## 将元素添加到移动视图{#add-an-element-to-the-mobile-view}
+## 向移动设备视图添加元素 {#add-an-element-to-the-mobile-view}
 
 >[!TIP]
 >
->为移动视图制作特殊（更短）内容。
+>仅为移动设备视图制作特殊（较短）内容。
 
-1. 要添加元素，请将其拖放到自由格式登陆页上。
+1. 要添加元素，请将其拖放到自由格式登陆页面上。
 
    ![](assets/image2015-5-21-15-3a32-3a22.png)
 
-   确保元素设置为仅在移动视图上显示。
+   确保将元素设置为仅在移动设备视图上显示。
 
    ![](assets/image2015-5-21-15-3a35-3a29.png)
 
 >[!TIP]
 >
->移动视图还可以具有不同的页面元素排列。 在自由格式登陆页中移动内容，或使用拖放对&#x200B;**页面元素**&#x200B;下列出的对象重新排序。
+>移动设备视图还可以具有不同的页面元素排列方式。 在自由格式登陆页面上移动内容，或对下面列出的对象重新排序 **页面元素** 使用拖放。
 
-## 预览移动视图{#preview-mobile-view}
+## 预览移动设备视图 {#preview-mobile-view}
 
-1. 单击&#x200B;**预览草稿**。
+1. 单击 **预览草稿**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. 想看点很酷的吗？ 选择&#x200B;**并排**。
+1. 想看点很酷的东西吗？ 选择 **并排**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
-1. 您现在可以同时查看桌面和移动版登陆页!
+1. 您现在可以同时查看登陆页面的桌面版本和移动设备版本！
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. 如果您喜欢它，请单击&#x200B;**批准并关闭**。
+1. 如果您喜欢它，请单击 **批准并关闭**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
    >[!NOTE]
    >
-   >预览不是交互式的。 每部智能手机的显示方式都略有不同。 我们建议在几台设备上预览登陆页，以准确了解登陆页的行为方式。
+   >预览不是交互式的。 每部智能手机都显示出一些不同的东西。 我们建议在少数设备上预览您的登陆页面，以准确查看登陆页面的行为方式。
 
 玩得开心！
 
 >[!MORELIKETHIS]
 >
->[使现有自由格式登陆页模板与移动设备兼容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[使现有的自由格式登陆页面模板与移动设备兼容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

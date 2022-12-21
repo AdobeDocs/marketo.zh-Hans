@@ -3,9 +3,10 @@ description: 模型运行状况和数据有效性 — Marketo文档 — 产品�
 title: 模型健康与数据有效性
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: fdb4ae1c-a638-4aa3-aa09-1993760b8be5
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 下面是如何评估模型健康状况。
 
-导航到 **[!UICONTROL 模型和数据运行状况]** 部分 **[!UICONTROL Predictive Audiences]** 在 **[!UICONTROL 管理员]** Marketo Classic地区。 在此，您将看到所有模型及其状态。
+导航到 **[!UICONTROL Models and Data Health]** 部分 **[!UICONTROL Predictive Audiences]** 在 **[!UICONTROL Admin]** Marketo Classic地区。 在此，您将看到所有模型及其状态。
 
 ![图像1](assets/model-health-and-data-validity-1.png)
 

@@ -1,37 +1,36 @@
 ---
 unique-page-id: 4720075
-description: 视图Web活动，来自特定标签 — Marketo Docs — 产品文档
-title: 视图特定标签中的Web活动
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: 通过特定标签查看Web促销活动 — Marketo文档 — 产品文档
+title: 从特定标签查看Web营销活动
+exl-id: 2611c79f-eb12-4597-9394-8749903f494c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
+# 从特定标签查看Web营销活动 {#view-web-campaigns-from-a-specific-label}
 
-# 视图特定标签{#view-web-campaigns-from-a-specific-label}中的Web活动
+是否要根据特定标签查看和过滤您的营销活动？
 
-是否希望根据特定标签视图和筛选活动?
+## 按现有标签过滤 {#filter-by-existing-labels}
 
-## 按现有标签{#filter-by-existing-labels}过滤
-
-1. 转到&#x200B;**Web活动**。
+1. 转到 **Web营销活动**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
-1. 在“标签”下拉框下，选择所需的标签。
+1. 在“标签”下拉列表下，选择所需的标签。
 
    ![](assets/web-campaigns-my-campaigns-dropdown-1.jpg)
 
-1. 请注意，现在我们只向您显示与选定标签关联的活动?
+1. 请注意，现在我们只向您显示与选定标签关联的营销活动？
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
 >[!MORELIKETHIS]
 >
->* [为Web活动添加标签](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
->* [视图特定标签中的区段](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [为区段添加标签](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [为Web营销活动设置标签](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [从特定标签中查看区段](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [为区段设置标签](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 

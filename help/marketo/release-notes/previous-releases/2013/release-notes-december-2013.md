@@ -18,21 +18,21 @@ ht-degree: 0%
 
 ## 电子邮件计划 {#email-program}
 
-发送电子邮件从未像现在这样容易。 使用新的[电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)发送批量电子邮件，而不是默认程序。 定义智能列表、发送电子邮件、计划它，然后您就关闭了！
+发送电子邮件从未像现在这样容易。 使用新 [电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) 发送批量电子邮件，而不是默认程序。 定义智能列表、发送电子邮件、计划它，然后您就关闭了！
 
 ![](assets/image2014-9-22-17-3a19-3a55.png)
 
-另请查看新的[电子邮件量度功能板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md)，以了解电子邮件的执行情况。
+另请查看新 [电子邮件量度功能板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md) 以了解电子邮件的执行情况。
 
 ![](assets/image2014-9-22-17-3a20-3a14.png)
 
 ## 电子邮件A/B测试 {#email-a-b-testing}
 
-在新的电子邮件程序中，针对电子邮件发送总量的百分比运行[A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。 从4种不同类型的测试中进行选择：主题行、发件人地址、日期/时间和整个电子邮件。 您甚至可以选择手动提升入选者，或让系统根据预定义的入选标准来提升入选者。 新的电子邮件程序（包括A/B测试）可以嵌套在事件和默认程序中，以使电子邮件发送变得如此简单！
+在新的电子邮件程序中，运行 [A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 以电子邮件发送群体的百分比表示。 从4种不同类型的测试中进行选择：主题行、发件人地址、日期/时间和整个电子邮件。 您甚至可以选择手动提升入选者，或让系统根据预定义的入选标准来提升入选者。 新的电子邮件程序（包括A/B测试）可以嵌套在事件和默认程序中，以使电子邮件发送变得如此简单！
 
 ## 电子邮件冠军/挑战者测试 {#email-champion-challenger-testing}
 
-[冠军/挑](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) 战者测试与A/B测试类似，只是区别在于它用于触发的电子邮件，并且您不会自动发送入选者。通过这个测试，你可以挑战一种既成的做事方式，叫做冠军，然后你通过引入挑战者来测试它是否仍然是最好的。 此外，还可以在参与度项目流中使用Champion/Challenger电子邮件测试。
+[冠军/挑战者测试](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) 与A/B测试类似，只是区别在于，它用于触发的电子邮件，并且您不会自动发送入选者。 通过这个测试，你可以挑战一种既成的做事方式，叫做冠军，然后你通过引入挑战者来测试它是否仍然是最好的。 此外，还可以在参与度项目流中使用Champion/Challenger电子邮件测试。
 
 ## 电子邮件分析中的潜在客户详细信息 {#lead-details-in-email-analysis}
 

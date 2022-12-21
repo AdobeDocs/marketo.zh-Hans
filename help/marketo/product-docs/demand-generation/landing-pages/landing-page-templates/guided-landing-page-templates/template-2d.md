@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板2D {#template-2d}
 
-右键单击[下载Template 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+右键单击 [下载模板2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 

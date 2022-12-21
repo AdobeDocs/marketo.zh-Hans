@@ -5,7 +5,7 @@ exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 source-git-commit: 3e0823976e8b837fcb2fdbbf03f26da48cbd74b7
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. 输入角色名称。 打开 **访问API** 菜单，然后选择“读写自定义对象”和“读写人员”。 单击 **创建**.
+1. 输入角色名称。 打开 **访问API** 菜单，然后选择“读写自定义对象”和“读写人员”。 单击&#x200B;**创建**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 选择显示名称。 单击 **服务** 下拉框并选择 **自定义**. 输入描述。 单击仅API用户下拉列表，然后选择您创建的用户 [在上述步骤中](#create-a-new-user). 单击 **创建**.
+1. 选择显示名称。 单击 **服务** 下拉框并选择 **自定义**. 输入描述。 单击仅API用户下拉列表，然后选择您创建的用户 [在上述步骤中](#create-a-new-user). 单击&#x200B;**创建**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

@@ -5,7 +5,7 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -70,7 +70,7 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
   <tr>
    <td>得分</td>
    <td>mkto71_Lead_Score</td>
-   <td>数值</td>
+   <td>数字</td>
    <td>长度10<br/>
 小数位0</td>
   </tr>
@@ -125,7 +125,7 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
    <th>字段属性
   </tr>
   <tr>
-   <td>推断城市</td>
+   <td>推断的城市</td>
    <td>mkto71_Intermited_City</td>
    <td>文本</td>
    <td>长255</td>
@@ -137,7 +137,7 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
    <td>长255</td>
   </tr>
   <tr>
-   <td>推断国家</td>
+   <td>推断的国家</td>
    <td>mkto71_Intercuted_Country</td>
    <td>文本</td>
    <td>长255</td>
@@ -149,19 +149,19 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
    <td>长255</td>
   </tr>
   <tr>
-   <td>推断出的电话区号</td>
+   <td>推断的电话区号</td>
    <td>mkto71_Intermited_Phone_Area_Code</td>
    <td>文本</td>
    <td>长255</td>
   </tr>
   <tr>
-   <td>推断邮政编码</td>
+   <td>推断的邮政编码</td>
    <td>mkto71_Intermited_Postal_Code</td>
    <td>文本</td>
    <td>长255</td>
   </tr>
   <tr>
-   <td>推断的州区</td>
+   <td>推断的状态区域</td>
    <td>mkto71_Intercuted_State_Region</td>
    <td>文本</td>
    <td>长255</td>

@@ -2,56 +2,55 @@
 description: Salesforce同步错误 — Marketo文档 — 产品文档
 title: Salesforce同步错误
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Salesforce同步错误{#salesforce-sync-errors}
+# Salesforce同步错误 {#salesforce-sync-errors}
 
-视图同步过程中遇到的错误的摘要。 这包括由于无法同步不兼容的数据而导致的错误。
+查看同步过程中遇到的错误的摘要。 这包括由于无法同步不兼容的数据而导致的错误。
 
 >[!NOTE]
 >
->**需要管理权限**
+>**需要管理员权限**
 
-## 视图同步错误{#view-sync-errors}
+## 查看同步错误 {#view-sync-errors}
 
-1. 单击&#x200B;**管理员**。
+1. 单击 **管理员**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. 在“集成”下，单击&#x200B;**Salesforce**，然后单击&#x200B;**同步错误**&#x200B;选项卡。
+1. 在集成下，单击 **Salesforce**，则 **同步错误** 选项卡。
 
    ![](assets/salesforce-sync-errors-2.png)
 
 >[!NOTE]
 >
->列出的错误范围从当前时间到当前同步前五天。
+>列出的错误范围从当前时间到当前同步前的五天。
 
-| 字段 | 说明 |
+| 字段 | 描述 |
 |---|---|
-| 失败时间 | 记录级别&#x200B;_或_&#x200B;作业级别 |
-| 失败的日期/时间 | 错误详细信息 |
+| 失败日期 | 记录级别 _或_ 工作级别 |
+| 失败日期/时间 | 错误详细信息 |
 | 错误类型 | SFDC返回消息 |
 
 >[!TIP]
 >
->单击记录级别记录可显示相关对象的Marketo和Salesforce ID。 在某些情况下，记录和作业级别错误上的消息直接来自Salesforce。 在线搜索可能会提供更多详细信息。
+>单击记录级别记录可显示相关对象的Marketo ID和Salesforce ID。 在某些情况下，记录和作业级别错误中的消息直接来自Salesforce。 在线搜索可能会提供更多详细信息。
 
-## 筛选器同步错误{#filter-sync-errors}
+## 筛选器同步错误 {#filter-sync-errors}
 
-1. 要筛选数据，请单击页面最右侧的筛选图标。
+1. 要过滤数据，请单击页面最右侧的过滤器图标。
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 选择日期和时间范围，然后按错误类型（任务层或记录层）进行筛选。 完成后，单击&#x200B;**应用**。
+1. 选择日期和时间范围，然后按错误类型（任务级别或记录级别）进行筛选。 单击 **应用** 完成时。
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**可选步骤**:要导出同步错误，请单击“ **导出**”。数据将导出为CSV。
+**可选步骤**:要导出同步错误，请单击 **导出**. 数据将导出为CSV格式。
 
 ![](assets/salesforce-sync-errors-5.png)

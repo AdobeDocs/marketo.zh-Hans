@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Sales Connect概述{#sales-connect-overview}
+# Sales Connect概述 {#sales-connect-overview}
 
 Marketo Sales Connect是一个多方面的销售支持解决方案，具有多种功能，可帮助您在整个销售周期中提高参与度。
 
@@ -18,19 +18,19 @@ Marketo Sales Connect是一个多方面的销售支持解决方案，具有多�
 >
 >并非所有客户都购买了此功能。 有关更多信息，请联系您的客户成功经理。
 
-## 实时馈送{#the-live-feed}
+## 实时信息源 {#the-live-feed}
 
-销售代表可以查看营销和销售内容的[实时参与](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)。
+销售代表可以查看 [实时参与](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) 营销内容和销售内容。
 
 ![](assets/engagement.jpg)
 
-## 人员详细信息视图{#person-detail-view}
+## 人员详细信息视图 {#person-detail-view}
 
-访问[详细的人员统计资料](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)。
+访问 [详细人员统计资料](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## 请参阅Marketo活动日志{#see-results-in-your-marketo-activity-log}中的结果
+## 在Marketo活动日志中查看结果 {#see-results-in-your-marketo-activity-log}
 
 了解潜在客户如何开展销售工作。
 
@@ -60,7 +60,7 @@ Marketo Sales Connect是一个多方面的销售支持解决方案，具有多�
   </tr> 
   <tr> 
    <td colspan="1"><p>接收销售电话</p></td> 
-   <td colspan="1"><p>潜在客户使用<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">销售电话</a>接到销售人员的电话。</p></td> 
+   <td colspan="1"><p>潜在客户通过 <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">销售电话</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>添加到Sales Campaign</p></td> 
@@ -77,14 +77,14 @@ Marketo Sales Connect是一个多方面的销售支持解决方案，具有多�
  </tbody> 
 </table>
 
-## 共享营销活动{#share-marketing-campaigns}
+## 共享营销活动 {#share-marketing-campaigns}
 
-创建一个简单的智能营销活动，为销售用户提供对[Marketo营销活动数据](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)的访问权限。
+创建简单的智能营销活动，以便让销售用户能够访问 [Marketo促销活动数据](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
 准备好开始了吗？ 有关设置说明，请单击以下链接。
 
 >[!MORELIKETHIS]
-[Sales Connect管理员快速入门指南](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)>
 >
+>[Sales Connect管理员快速入门指南](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)

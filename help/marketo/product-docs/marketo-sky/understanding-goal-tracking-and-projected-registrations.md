@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
 source-git-commit: b609a268f08a7eef47d32c77a054a7d120339186
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 目标跟踪和预计注册 {#goal-tracking-and-projected-registrations}
 
-1. 您可以在 **[!UICONTROL 报表]** 选项卡。 在这一具体例子中，到目前为止有150名注册成员，而目标是200(75%)。
+1. 您可以在 **[!UICONTROL Reports]** 选项卡。 在这一具体例子中，到目前为止有150名注册成员，而目标是200(75%)。
 
    ![图像1](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
-您还将看到 **[!UICONTROL 预计]** 注册。 将鼠标悬停在信息图标上，可查看按似然区段划分的此数字。
+您还将看到 **[!UICONTROL Projected]** 注册。 将鼠标悬停在信息图标上，可查看按似然区段划分的此数字。
 
 ![图像2](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -53,14 +53,14 @@ ht-degree: 0%
 
 * 程序类型
 * 节目渠道
-* 受众大小
+* 受众规模
 * 程序标记
 * 从事件创建到事件开始的持续时间
 * 事件持续时间
 
    ![图像5](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
-## Recommendations {#recommendations}
+## 推荐 {#recommendations}
 
 在“报表”页面顶部，您可以根据进度找到AI/ML驱动的推荐。 请定期回访，以获取有用的提示和洞察！
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ## 人员级别预测 {#person-level-predictions}
 
-单击 **[!UICONTROL 成员]** 选项卡来查看所有项目成员。 将鼠标悬停在 **[!UICONTROL 注册可能性]** 或 **[!UICONTROL 出席率]** 栏以查看确切百分比和分类。 然后，您可以对特定类别中的成员（例如，“不太可能”中的每个成员注册类别）采取操作，并特别针对他们以潜在地增加您的注册数量。
+单击 **[!UICONTROL Members]** 选项卡来查看所有项目成员。 将鼠标悬停在 **[!UICONTROL Registration Likelihood]** 或 **[!UICONTROL Attendance Likelihood]** 栏以查看确切百分比和分类。 然后，您可以对特定类别中的成员（例如，“不太可能”中的每个成员注册类别）采取操作，并特别针对他们以潜在地增加您的注册数量。
 
 ![图七](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -102,7 +102,7 @@ ht-degree: 0%
 
 i.您创建一个项目，然后智能营销活动使用“大于X”的预测过滤器，这将导致一定数量的人员（例如1000人）运行营销活动。
 
-ii. 24小时后， [!UICONTROL 报表] 选项卡，您可以查看根据登记当前受邀人员值的可能性计算出的预计注册。
+ii. 24小时后， [!UICONTROL Reports] 选项卡，您可以查看根据登记当前受邀人员值的可能性计算出的预计注册。
 
 三。 如果预计的注册数低于目标值，则必须邀请更多人员。 此时，您可以看到一些洞察信息，告诉您过去的项目中哪个阈值有效。
 

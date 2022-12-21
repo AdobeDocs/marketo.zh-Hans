@@ -5,7 +5,7 @@ exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>群组电子邮件</td> 
-   <td>零点一万</td> 
+   <td>1,000</td> 
    <td>选择一个群组并单击“群组操作”按钮，或在“至”字段中键入群组名称。</td> 
    <td>是</td> 
    <td>否</td> 

@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ## 营销日历许可证 {#marketing-calendar-licenses}
 
-2014年9月5日之后，只有5个用户可以免费访问营销日历。 在获得无中断访问之前，请务必向所选用户[颁发/撤销营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 。
+2014年9月5日之后，只有5个用户可以免费访问营销日历。 一定要 [颁发/撤销营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 之前被发送到您选择的用户，以进行无中断访问。
 
-![—](assets/image2014-9-16-9-3a45-3a52.png)
+![--](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## 新用户权限 {#new-user-permissions}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 从管理员导出用户和角色 {#export-users-and-roles-from-admin}
 
-您现在可以从Marketo中[导出用户和角色列表](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)。 您还可以包含要包含在导出中的“上次登录”时间戳。
+您现在可以 [导出用户和角色列表](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) 从Marketo。 您还可以包含要包含在导出中的“上次登录”时间戳。
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 

@@ -1,50 +1,49 @@
 ---
 unique-page-id: 2359799
-description: 发布抽奖- Marketo Docs —— 产品文档
+description: 发布抽奖 — Marketo文档 — 产品文档
 title: 发布抽奖
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: c02d213c-a965-4737-817a-ce8bd7491853
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
+# 发布抽奖 {#publish-a-sweepstakes}
 
-# 发布抽奖{#publish-a-sweepstakes}
-
-在[创建抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)后，您可以在Marketo登陆页、网站和Facebook上发布抽奖。
+在 [创建抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，则可以将其发布到Marketo登陆页面、网站和Facebook。
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
+>并非所有客户都购买了此功能。 有关详细信息，请联系您的销售代表。
 
 >[!NOTE]
 >
->在发布优惠之前，请确认其符合所有适用法律、法规和规章。
+>在发布选件之前，请确认该选件符合所有适用法律、规则和法规。
 
-1. 找到您的登陆页，然后单击“编辑草稿&#x200B;**”。**
+1. 找到登陆页面并单击 **编辑草稿**.
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. 在页面右侧找到“插入元素”部分。 拖动到&#x200B;**抽奖**&#x200B;上。
+1. 在页面右侧找到插入元素部分。 拖动 **抽奖**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
-1. 选择您的抽奖，然后单击&#x200B;**插入**。
+1. 选择您的抽奖，然后单击 **插入**.
 
    ![](assets/image2014-9-25-17-3a41-3a35.png)
 
    >[!NOTE]
    >
-   >您需要批准抽奖，才能在此处提供抽奖。
+   >您需要批准抽奖活动，才能在此处提供。
 
-   恭喜！ 批准登陆页，您的抽奖即刻开始。 您还可以[将登陆页发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或[将抽奖放在您的网站](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)上。
+   祝贺您！批准登陆页面，且您的抽奖活动已开始。 您还可以 [将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 或 [在你的网站上打赌](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
-   >测试和优化您的抽奖。 转到网页上的抽奖活动，然后使用测试信息注册。 记下您要更改的有关用户体验的所有内容。
+   >测试和优化您的抽奖。 转到您网页上的抽奖，然后使用测试信息注册。 记下您想要更改的有关用户体验的所有内容。
 
    >[!NOTE]
    >
-   >开始注册后，请记住返回应用程序至[选择抽奖得主](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
+   >用户开始注册后，请记住返回应用程序以 [选择抽奖获胜者](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!

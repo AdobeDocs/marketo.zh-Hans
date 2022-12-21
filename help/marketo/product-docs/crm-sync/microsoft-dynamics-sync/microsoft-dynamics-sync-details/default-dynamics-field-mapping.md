@@ -5,7 +5,7 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
 workflow-type: tm+mt
 source-wordcount: '829'
-ht-degree: 12%
+ht-degree: 17%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 12%
     </tr>
     <tr>
       <td>Microsoft创建日期</td>
-      <td>创建于</td>
+      <td>创建日期</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@ ht-degree: 12%
     </tr>
     <tr>
       <td>中间</td>
-      <td>中间名</td>
+      <td>中间名称</td>
       <td>米德尔纳姆</td>
     </tr>
     <tr>
@@ -59,16 +59,16 @@ ht-degree: 12%
     </tr>
     <tr>
       <td>职务</td>
-      <td>职务</td>
+      <td>职务名称</td>
       <td>jobtitle</td>
     </tr>
     <tr>
       <td>电话</td>
       <td>商业电话</td>
-      <td>电话1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
-      <td>移动设备</td>
+      <td>移动</td>
       <td>手机</td>
       <td>mobilephone</td>
     </tr>
@@ -165,7 +165,7 @@ ht-degree: 12%
     <tr>
       <td>Microsoft家庭电话</td>
       <td>家庭电话</td>
-      <td>电话2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Microsoft首选联系方法</td>
@@ -223,8 +223,8 @@ ht-degree: 12%
       <td>主题</td>
     </tr>
     <tr>
-      <td>年营业额</td>
-      <td>年营业额</td>
+      <td>年收入</td>
+      <td>年收入</td>
       <td>收入</td>
     </tr>
   </tbody>
@@ -269,7 +269,7 @@ ht-degree: 12%
     </tr>
     <tr>
       <td>Microsoft创建日期</td>
-      <td>创建于</td>
+      <td>创建日期</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -284,7 +284,7 @@ ht-degree: 12%
     </tr>
     <tr>
       <td>中间</td>
-      <td>中间名</td>
+      <td>中间名称</td>
       <td>米德尔纳姆</td>
     </tr>
     <tr>
@@ -305,10 +305,10 @@ ht-degree: 12%
     <tr>
       <td>电话</td>
       <td>商业电话</td>
-      <td>电话1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
-      <td>移动设备</td>
+      <td>移动</td>
       <td>手机</td>
       <td>mobilephone</td>
     </tr>
@@ -375,7 +375,7 @@ ht-degree: 12%
     <tr>
       <td>Microsoft家庭电话</td>
       <td>家庭电话</td>
-      <td>电话2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Microsoft首选联系方法</td>
@@ -524,7 +524,7 @@ ht-degree: 12%
     <tr>
       <td>主要电话</td>
       <td>主要电话</td>
-      <td>电话1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>业务类型</td>
@@ -542,8 +542,8 @@ ht-degree: 12%
       <td>statecode</td>
     </tr>
     <tr>
-      <td>年营业额</td>
-      <td>年营业额</td>
+      <td>年收入</td>
+      <td>年收入</td>
       <td>收入</td>
     </tr>
     <tr>
@@ -557,8 +557,8 @@ ht-degree: 12%
       <td>industrycode</td>
     </tr>
     <tr>
-      <td>标准产业分类(SIC)代码</td>
-      <td>标准产业分类(SIC)代码</td>
+      <td>SIC 代码</td>
+      <td>SIC 代码</td>
       <td>sic</td>
     </tr>
     <tr>
@@ -572,8 +572,8 @@ ht-degree: 12%
       <td>员工数量</td>
     </tr>
     <tr>
-      <td>标准产业分类(SIC)代码</td>
-      <td>标准产业分类(SIC)代码</td>
+      <td>SIC 代码</td>
+      <td>SIC 代码</td>
       <td>sic</td>
     </tr>
     <tr>

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板15B {#template-15b}
 
-右键单击[下载模板15B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
+右键单击 [下载模板15B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 

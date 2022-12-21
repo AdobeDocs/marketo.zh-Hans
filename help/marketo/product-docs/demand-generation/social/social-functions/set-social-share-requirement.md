@@ -1,39 +1,38 @@
 ---
 unique-page-id: 2359821
-description: 设置社交共享要求- Marketo Docs —— 产品文档
+description: 设置社交共享要求 — Marketo文档 — 产品文档
 title: 设置社交共享要求
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
+# 设置社交共享要求 {#set-social-share-requirement}
 
-# 设置社交共享要求{#set-social-share-requirement}
+当您 [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以要求人员共享选件以进行注册，或将其设为可选。
 
-当您[创建推荐优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，您可以要求人员共享优惠以便注册，或将其设为可选。
-
-1. 转到&#x200B;**营销活动**。
+1. 转到 **营销活动**.
 
    ![](assets/ma-1.png)
 
-1. 选择引用优惠，然后单击&#x200B;**编辑草稿**。
+1. 选择引荐选件，然后单击 **编辑草稿**.
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. 在引用优惠编辑器中，转至&#x200B;**应用程序设置**，然后转至&#x200B;**注册流步骤**。
+1. 在推荐选件编辑器中，转到 **应用程序设置** 然后 **注册流程步骤**.
 
    ![](assets/three.png)
 
-1. 选择注册流的顺序。
+1. 选择注册流程的顺序。
 
    ![](assets/four.png)
 
-   * **人物捕获** > **共享**:人员可以跳过共享，只需注册。
-   * **共享** >人 **物捕获**:要注册，人员必须共享。
+   * **人员捕获** > **共享**:人可以跳过共享，只需注册。
+   * **共享** > **人员捕获**:人员必须共享才能注册。
 
-1. 对于每个选项，请参阅&#x200B;**“视图和编辑”**&#x200B;窗口中的预览。
+1. 对于每个选项，请参阅 **查看和编辑** 窗口。
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)

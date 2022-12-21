@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 我能否使用Marketo创建联系人？ {#can-i-create-a-contact-using-marketo}
 
-是的。 [下面是操作方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md).
+是. [下面是操作方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md).
 
 >[!NOTE]
 >

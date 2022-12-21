@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359834
-description: 排定流内容优先级- Marketo Docs —— 产品文档
-title: 排定流内容的优先级
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 优先处理流内容 — Marketo文档 — 产品文档
+title: 优先处理流内容
+exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
+# 优先处理流内容 {#prioritize-stream-content}
 
-# 排定流内容的优先级{#prioritize-stream-content}
+在向流中添加内容后，您可能需要更改优先级。 内容始终在每次播放中从上到下交付，并且不会向同一人发送任何内容两次。
 
-在向流中添加内容后，您可能希望更改优先级。 每次播放时，内容始终从上到下发送，不向同一人发送任何内容两次。
-
-1. 转到&#x200B;**营销活动**。
+1. 转到 **营销活动**.
 
    ![](assets/ma.png)
 
-1. 选择您的参与项目并单击&#x200B;**流**&#x200B;选项卡。
+1. 选择您的参与计划，然后单击 **流** 选项卡。
 
    ![](assets/cloneasteam-1.jpg)
 
-1. 现在只需按所需顺序拖放内容即可。
+1. 现在，只需将内容拖放到所需的顺序即可。
 
    ![](assets/image2014-9-15-17-3a5-3a45.png)
 
@@ -31,4 +30,4 @@ ht-degree: 0%
    >
    >在播放时，优先级始终从上到下读取。
 
-   就这么简单！ 现在，您了解如何排定流内容的优先级。
+   这太简单了！ 现在，您知道如何排定流内容的优先级。

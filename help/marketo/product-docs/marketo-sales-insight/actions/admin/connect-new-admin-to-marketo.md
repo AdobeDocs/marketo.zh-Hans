@@ -4,7 +4,7 @@ title: 将新管理员连接到Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '494'
 ht-degree: 0%
 
 ---

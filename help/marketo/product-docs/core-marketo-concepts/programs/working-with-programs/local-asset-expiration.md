@@ -4,7 +4,7 @@ title: 本地资产过期
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在 [!UICONTROL 管理员] 区域，单击 **[!UICONTROL 用户和角色]**.
+1. 在 [!UICONTROL Admin] 区域，单击 **[!UICONTROL Users & Roles]**.
 
    ![](assets/local-asset-expiration-1.png)
 
-1. 单击 **[!UICONTROL 角色]** ，选择要授予访问权限的用户，然后单击 **[!UICONTROL 编辑角色]**.
+1. 单击 **[!UICONTROL Roles]** ，选择要授予访问权限的用户，然后单击 **[!UICONTROL Edit Role]**.
 
    ![](assets/local-asset-expiration-2.png)
 
-1. 在 [!UICONTROL 访问营销活动]，选择 **[!UICONTROL 计划本地资产到期]** 单击 **[!UICONTROL 保存]**.
+1. 在 [!UICONTROL Access Marketing Activities]，选择 **[!UICONTROL Schedule Local Asset Expiration]** 单击 **[!UICONTROL Save]**.
 
    ![](assets/local-asset-expiration-3.png)
 
 ## 设置过期日期 {#set-an-expiration-date}
 
-1. 右键单击所需的程序并选择 **[!UICONTROL 设置本地资产过期]**.
+1. 右键单击所需的程序并选择 **[!UICONTROL Set Local Asset Expiration]**.
 
    ![](assets/local-asset-expiration-4.png)
 
-1. 选中要为其设置过期日期的资产，然后单击 **[!UICONTROL 设置过期]**.
+1. 选中要为其设置过期日期的资产，然后单击 **[!UICONTROL Set Expiration]**.
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -47,24 +47,24 @@ ht-degree: 0%
 
    ![](assets/local-asset-expiration-6.png)
 
-1. 设置时间。 您必须安排在将来至少20分钟的时间（不要忘记进入上午/下午）。 单击 **[!UICONTROL 确认]** 完成时。
+1. 设置时间。 您必须安排在将来至少20分钟的时间（不要忘记进入上午/下午）。 单击 **[!UICONTROL Confirm]** 完成时。
 
    ![](assets/local-asset-expiration-7.png)
 
 >[!NOTE]
 >
->* 要编辑现有的过期日期，只需检查资产并单击 **[!UICONTROL 设置过期]**.
+>* 要编辑现有的过期日期，只需检查资产并单击 **[!UICONTROL Set Expiration]**.
 >* 资产过期后，将不再显示在“过期”网格中。 网格将仅显示已发布的登陆页面、活动触发器促销活动和定期的批量促销活动。
 >* 如果资产被移动到其他程序，则会删除计划的过期日期。
 
 
 ## 删除过期日期 {#remove-an-expiration-date}
 
-1. 要删除过期日期，请检查资产，然后单击 **[!UICONTROL 删除过期]**.
+1. 要删除过期日期，请检查资产，然后单击 **[!UICONTROL Remove Expiration]**.
 
    ![](assets/local-asset-expiration-8.png)
 
-1. 查看受影响的资产，然后单击 **[!UICONTROL 确认]**.
+1. 查看受影响的资产，然后单击 **[!UICONTROL Confirm]**.
 
    ![](assets/local-asset-expiration-9.png)
 

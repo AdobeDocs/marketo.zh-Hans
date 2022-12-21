@@ -1,7 +1,8 @@
 ---
 description: 产品使用限制 — Marketo文档 — 产品文档
 title: 产品使用限制
-source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
+exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
+source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 13%
@@ -14,12 +15,12 @@ ht-degree: 13%
 
 <table>
   <th>功能</th>
-  <th>比率</th>
+  <th>评价</th>
   <th>限制</th>
  <tr>
   <td>销售电子邮件发送</td>
   <td>每用户/每天</td>
-  <td>零点一万</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>批量销售电子邮件</td>
@@ -29,7 +30,7 @@ ht-degree: 13%
  <tr>
   <td>电子邮件模板</td>
   <td>每个实例</td>
-  <td>零点二万</td>
+  <td>2,000</td>
  </tr>
  <tr>
   <td>电子邮件模板类别</td>

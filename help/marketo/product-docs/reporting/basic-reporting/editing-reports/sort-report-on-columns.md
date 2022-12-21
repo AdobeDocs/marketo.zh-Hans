@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359996
-description: 列排序报告 — Marketo Docs — 产品文档
+description: 列排序报表 — Marketo文档 — 产品文档
 title: 按列对报表排序
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: a31383b5-bb18-400b-945a-abecd2b19340
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
+# 按列对报表排序 {#sort-report-on-columns}
 
-# 对列{#sort-report-on-columns}的报表排序
+使用列对报表中的数据进行排序，并使最重要的数字易于查找。
 
-使用列对报表中的数据进行排序，使最重要的图形易于查找。
-
-1. 转至&#x200B;**Analytics**(或&#x200B;**营销活动**)。
+1. 转到 **Analytics** (或 **营销活动**)。
 
    ![](assets/login-marketing-activities.png)
 
-1. 从导航树中选择您的报表，然后单击&#x200B;**报表**&#x200B;选项卡。
+1. 从导航树中选择您的报表，然后单击 **报表** 选项卡。
 
    ![](assets/reports2.jpg)
 

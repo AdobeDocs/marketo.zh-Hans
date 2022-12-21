@@ -1,72 +1,71 @@
 ---
 unique-page-id: 2359798
-description: 添加其他登陆页CNAME - Marketo Docs —— 产品文档
-title: 添加其他登陆页CNAME
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 添加其他登陆页面CNAME - Marketo文档 — 产品文档
+title: 添加其他登陆页面CNAME
+exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
+# 添加其他登陆页面CNAME {#add-additional-landing-page-cnames}
 
-# 添加其他登陆页CNAME {#add-additional-landing-page-cnames}
-
-您可能希望添加登陆页CNAME以允许不同的URL指向您的营销人员登陆页。 按照以下步骤操作将帮助您管理多个域。
+您可能想要添加登陆页面CNAME，以允许不同的URL指向您的Marketo登陆页面。 执行以下步骤将帮助您管理多个域。
 
 >[!CAUTION]
 >
->Cookie不能跨域共享。
+>Cookie无法跨域共享。
 
 >[!TIP]
 >
->**相同的顶级域——好！Cookies是共享的**。<br/> **go**.mycompany.com >  **info**.mycompany.com
+>**相同的顶级域 — 好！ Cookie已共享**.<br/> **go**.mycompany.com > **信息**.mycompany.com
 >
->**不同的顶级域——错误！Cookie是&#x200B;_不_共享的**。<br/> 走。**mycompany**.com >转到。**mynewcompany**.com
+>**不同的顶级域 — 错误！ Cookie是 _not_ 共享**.<br/> 走。**mycompany**.com >转。**mynewcompany**.com
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-## 查找帐户字符串{#find-your-account-string}
+## 查找帐户字符串 {#find-your-account-string}
 
-1. 转到&#x200B;**Admin**&#x200B;区域并单击&#x200B;**登陆页**。
+1. 转到 **管理员** 单击 **登陆页面**.
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
-1. 从&#x200B;**设置**&#x200B;部分复制&#x200B;**帐户字符串**。
+1. 复制 **帐户字符串** 从 **设置** 中。
 
    ![](assets/image2014-9-16-15-3a20-3a2.png)
 
-1. 记下来的步骤。
+1. 记下它以用于下一步。
 
-## 向IT {#send-request-to-it}发送请求
+## 向IT发送请求 {#send-request-to-it}
 
-1. 请让您的IT部门设置以下CNAME:（将单词[CNAME]替换为您选择的CNAME，将[ACCOUNT STRING]替换为上一步中的文本）。
+1. 请求您的IT部门设置以下CNAME:(替换 [CNAME] 的CNAME和 [帐户字符串] （与上一步骤中的文本）。
 
-   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com > [帐户字符串].mktoweb.com
 
 ## 添加新CNAME {#add-a-new-cname}
 
-1. IT部门创建CNAME后，请转至&#x200B;**Admin**，然后单击&#x200B;**登陆页**。
+1. IT部门创建CNAME后，请转到 **管理员** 然后单击 **登陆页面**.
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. 单击&#x200B;**新建**，然后选择&#x200B;**新建域别名**。
+1. 单击 **新建** 然后选择 **新域别名**.
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. 输入&#x200B;**域别名。** 如 **果访客** 未放入URL，则显示默认页面。输入在这种情况下他们应该去的地方。
+1. 输入 **域别名。** 的 **默认页面** 如果访客未放入URL，则会显示。 输入在这种情况下他们应该去的地方。
 
    >[!NOTE]
    >
-   >对于默认页面，您可以选择登陆页或外部URL，如您的公共网站。
+   >对于默认页面，您可以选择登陆页面或外部URL，如您的公共网站。
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. 输入&#x200B;**默认页面**&#x200B;并单击&#x200B;**创建**。
+1. 输入 **默认页面** 单击 **创建**.
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
-不错！ 现在，如果您想添加CNAME，您知道该怎么办。
+不错！ 现在，您知道如果您想添加CNAME，该怎么做。

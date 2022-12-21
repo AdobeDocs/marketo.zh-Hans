@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360002
-description: 配置报表大小 — Marketo Docs — 产品文档
-title: 配置报告大小
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: 配置报表大小 — Marketo文档 — 产品文档
+title: 配置报表大小
+exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
+# 配置报表大小 {#configure-report-size}
 
-# 配置报告大小{#configure-report-size}
+默认情况下，Marketo报表的行数限制为最多5,000行，但您可以更改此限制。
 
-默认情况下，Marketo报表最多限制为5,000行，但您可以更改该限制。
-
-1. 转至&#x200B;**营销活动**&#x200B;区域。
+1. 转到 **营销活动** 的上界。
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. 从导航树中选择您的报表，然后单击&#x200B;**设置**&#x200B;选项卡。
+1. 从导航树中选择您的报表，然后单击 **设置** 选项卡。
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-1. 多次 — 单击&#x200B;**导出可用行**。
+1. 双击 **导出可用行**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -33,9 +32,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >更改限制会更改报表大小本身，而不仅仅是导出的Excel文件，因此，如果报表生成时间过长，请减少限制！
+   >更改限制会更改报表大小本身，而不仅会更改导出的Excel文件，因此，如果您的报表生成时间过长，请减小限制！
 
-1. 单击&#x200B;**保存**&#x200B;以确认新限制。
+1. 单击 **保存** 确认新限制。
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
@@ -43,4 +42,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >您可以[使用新限制导出报表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)。
+   >您可以 [导出报表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) 限制。

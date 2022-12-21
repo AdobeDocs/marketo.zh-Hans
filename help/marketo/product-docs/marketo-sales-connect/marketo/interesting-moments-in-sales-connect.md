@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->这些参数仅适用于[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)和Marketo Sales Connect客户。
+>这些选项可用于 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 和Marketo Sales Connect客户。
 
 ## 什么是有趣的时刻？ {#what-is-an-interesting-moment}
 
@@ -28,19 +28,19 @@ ht-degree: 0%
 
 ## 如何创造有趣的时刻？ {#how-do-i-create-an-interesting-moment}
 
-1. 选择[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的销售团队在触发时会发现一个有趣的营销活动。
+1. 选择 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的销售团队在触发时会发现其中一个有趣。
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. 拖动到&#x200B;**有趣的时刻**&#x200B;流步骤上。
+1. 在 **有趣的时刻** 流步骤。
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. 选择&#x200B;**类型**（电子邮件、里程碑或Web）。
+1. 选择 **type** （电子邮件、里程碑或Web）。
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. 在&#x200B;**Description**&#x200B;字段中向您的销售团队发送一条消息，以说明此操作为何重要。
+1. 在 **描述** 字段来解释此操作为何重要。
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## 在Marketo，什么是有趣的时刻？  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-有趣的时刻将显示在[潜在客户的活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中。
+有趣的时刻将显示在 [潜在客户的活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 

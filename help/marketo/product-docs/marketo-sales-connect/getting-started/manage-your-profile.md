@@ -9,29 +9,29 @@ ht-degree: 0%
 
 ---
 
-# 管理配置文件{#manage-your-profile}
+# 管理配置文件 {#manage-your-profile}
 
 在“我的配置文件”页面中，您可以更新您的名称、帐户的语言/区域/时区，还可以更改密码。
 
-## 帐户详细信息{#account-details}
+## 帐户详细信息 {#account-details}
 
 您可以在此处更新您的名称和/或密码。
 
-1. 单击齿轮图标，然后选择&#x200B;**设置**。
+1. 单击齿轮图标，然后选择 **设置**.
 
    ![](assets/manage-your-profile-1.png)
 
-1. 默认情况下，会打开您的“我的个人资料”页面。 要更新您的名称，只需键入更改并单击&#x200B;**保存**。
+1. 默认情况下，会打开您的“我的个人资料”页面。 要更新您的名称，只需键入更改并单击 **保存**.
 
    ![](assets/manage-your-profile-2.png)
 
 >[!NOTE]
 >
->您的电子邮件地址设置为仅查看。 如果您也需要更改，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)。
+>您的电子邮件地址设置为仅查看。 如果您也需要更改，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 您还可以在此部分中更改密码。 本文档中概述了这些步骤。
 
-## 您的集成{#your-integrations}
+## 您的集成 {#your-integrations}
 
 在页面右侧，您的集成部分提供了您帐户所有连接的状态。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 >
 >如果您使用带有Sales Connect的Exchange On Prem，它将不会更新投放渠道（第1行项目）或回复跟踪（第2行项目）集成运行状况检查。 我们正努力在将来的版本中支持此功能。
 
-## 时区{#time-zone}
+## 时区 {#time-zone}
 
 以下是如何更改帐户的语言、区域设置和/或时区。
 
@@ -49,23 +49,23 @@ ht-degree: 0%
 >
 >支持的语言：英语、法语、德语、日语、葡萄牙语、西班牙语。
 
-1. 单击齿轮图标，然后选择&#x200B;**设置**。
+1. 单击齿轮图标，然后选择 **设置**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. 要更改语言，请单击&#x200B;**语言**&#x200B;下拉列表并做出选择。
+1. 要更改语言，请单击 **语言** 下拉框，然后做出选择。
 
    ![](assets/manage-your-profile-5.png)
 
-1. 此处的区域设置是指使用该语言的区域。 单击&#x200B;**区域设置**&#x200B;下拉列表，然后进行选择。
+1. 此处的区域设置是指使用该语言的区域。 单击 **区域设置** 下拉框，然后做出选择。
 
    ![](assets/manage-your-profile-6.png)
 
-1. 单击&#x200B;**您的时区**&#x200B;下拉列表，然后进行选择。
+1. 单击 **您的时区** 下拉框，然后做出选择。
 
    ![](assets/manage-your-profile-7.png)
 
-1. 完成后，单击&#x200B;**Save**。
+1. 单击 **保存** 完成时。
 
    ![](assets/manage-your-profile-8.png)
 

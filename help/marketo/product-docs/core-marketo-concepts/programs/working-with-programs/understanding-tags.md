@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147112
-description: 了解标记 — Marketo Docs — 产品文档
+description: 了解标记 — Marketo文档 — 产品文档
 title: 了解标记
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -11,32 +10,32 @@ ht-degree: 0%
 
 ---
 
-# 了解标记{#understanding-tags}
+# 了解标记 {#understanding-tags}
 
-现在您可能已经知道项目就像Marketo的积木。 利用标记和渠道将帮助您为报告目的筛选数据。
+你大概知道，这些程序就像Marketo的建筑。 利用标记和渠道将有助于您为报告目的过滤数据。
 
-标签用于描述项目。 您可以根据需要制作任意数量的图像，每个图像都具有唯一值。 渠道在项目（如网络研讨会、赞助或在线广告）中确定投放机制。
+标记用于描述程序。 您可以根据需要创建任意数量的变量，每个变量的值都是唯一的。 渠道确定项目中的交付机制，如网络研讨会、赞助或在线广告。
 
-## 标记类型{#tag-type}
+## 标记类型 {#tag-type}
 
-标签类型标识要排序的信息类型。
+标记类型可标识您要按排序的信息类型。
 
 >[!TIP]
 >
->如果您要创建自定义标记，请与您的[Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md)交谈。
+>与 [Marketo管理员](/help/marketo/product-docs/administration/tags/create-custom-tags.md) 如果要创建自定义标记，请执行以下操作。
 
 >[!NOTE]
 >
 >**示例**
 >
->* 标记类型=项目所有者
+>* 标记类型=程序所有者
 
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
-## 标记值{#tag-value}
+## 标记值 {#tag-value}
 
-每个标记类型都有值可供选择。
+每个标记类型都将具有值可供选择。
 
 >[!NOTE]
 >
@@ -47,16 +46,16 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
-## 渠道{#channel}
+## 渠道 {#channel}
 
-渠道用于报告[members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)在项目中的移动情况。 每个渠道都有一组进展状态和一个设置为相等成功的状态。
+渠道用于报告 [成员](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 通过了您的程序。 每个渠道都有一组进展状态和一个状态，它们被设置为等于成功。
 
 >[!NOTE]
 >
 >**示例**
 >
 >* 渠道=路演
->* 晋升状态=已邀请、已注册、已出席、无显示
+>* 进度状态=已邀请、已注册、已出席、无节目
 >* 成功=已出席
 
 
@@ -65,5 +64,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [创建自定义标记](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [创建项目渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [创建节目渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
 

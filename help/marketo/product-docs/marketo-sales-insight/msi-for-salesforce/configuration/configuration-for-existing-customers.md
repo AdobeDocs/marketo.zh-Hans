@@ -22,31 +22,31 @@ ht-degree: 0%
 
 1. 在浏览器中打开新选项卡，从您的Marketo帐户获取Marketo销售分析凭据。
 
-1. 转到&#x200B;**Admin**&#x200B;区域。
+1. 转到 **管理员** 的上界。
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. 单击&#x200B;**Sales Insight**。
+1. 单击 **销售分析**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. 单击&#x200B;**查看**&#x200B;以填充Rest API凭据。
+1. 单击 **查看** 来填充REST API凭据。
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. 您将看到确认弹出窗口。 单击&#x200B;**确定**。
+1. 您将看到确认弹出窗口。 单击 **确定**.
 
 ## 在Salesforce中配置销售分析 {#configure-sales-insight-in-salesforce}
 
-1. 在Salesforce中，单击&#x200B;**设置**。
+1. 在Salesforce中，单击 **设置**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. 搜索并选择&#x200B;**远程站点设置**。
+1. 搜索并选择 **远程站点设置**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. 单击&#x200B;**新建远程站点**。
+1. 单击 **新建远程站点**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. 单击&#x200B;**Save**。
+1. 单击 **保存**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 

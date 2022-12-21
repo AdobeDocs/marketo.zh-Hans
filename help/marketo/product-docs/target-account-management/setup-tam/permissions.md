@@ -1,41 +1,40 @@
 ---
 unique-page-id: 11380778
-description: 权限 — Marketo Docs — 产品文档
+description: 权限 — Marketo文档 — 产品文档
 title: 权限
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
+# 权限 {#permissions}
 
-# 权限{#permissions}
+您需要为用户设置权限才能使用TAM。 这是方法。
 
-您需要为用户设置权限才能使用TAM。 下面介绍如何操作。
-
-1. 单击&#x200B;**管理员**。
+1. 单击 **管理员**.
 
    ![](assets/one-2.png)
 
-1. 单击&#x200B;**用户和角色**。
+1. 单击 **用户和角色**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >您可以为现有角色添加TAM权限，或创建全新角色。 此示例使用新角色。
+   >您可以为现有角色添加TAM权限，或创建一个全新角色。 此示例使用新角色。
 
-1. 单击&#x200B;**角色**，然后单击&#x200B;**新角色**。
+1. 单击 **角色**，则 **新角色**.
 
    ![](assets/three-2.png)
 
-1. 输入角色名称，然后单击“访问目标帐户管理”复选框旁边的&#x200B;**+**&#x200B;图标。
+1. 输入角色名称，然后单击 **+** 图标访问Target帐户管理复选框。
 
    ![](assets/permissions-4.png)
 
-1. 要选择&#x200B;_所有_&#x200B;权限，只需选中&#x200B;**访问目标帐户管理**&#x200B;复选框。
+1. 选择 _全部_ 权限，只需查看 **访问Target帐户管理** 复选框。
 
    ![](assets/permissions-5.png)
 
@@ -43,8 +42,8 @@ ht-degree: 0%
    >
    >您还可以选择仅选择部分选项。 单独选中每个复选框即可执行此操作。
 
-1. 单击&#x200B;**+**&#x200B;以打开“访问管理员”菜单。 选中&#x200B;**访问ABM管理员**&#x200B;复选框（ABM是TAM的上一个名称），然后单击&#x200B;**创建**。
+1. 单击 **+** 打开访问管理员菜单。 检查 **访问ABM管理员** 复选框（ABM是TAM的先前名称）并单击 **创建**.
 
    ![](assets/permissions-6.png)
 
-   现在，您的新TAM角色已准备好分配给用户[](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!
+   您的新TAM角色现已准备就绪 [分配给用户](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!

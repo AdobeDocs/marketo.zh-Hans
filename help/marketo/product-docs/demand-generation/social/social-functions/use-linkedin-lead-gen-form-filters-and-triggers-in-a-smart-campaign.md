@@ -1,25 +1,24 @@
 ---
 unique-page-id: 12976776
-description: 在智能活动- Marketo Docs —— 产品文档中使用LinkedIn潜在客户代表过滤器和触发器
-title: 在智能过滤器中使用LinkedIn潜在客户生成表单活动和触发器
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 在智能促销活动中使用LinkedIn Lead Gen表单过滤器和触发器 — Marketo文档 — 产品文档
+title: 在智能营销活动中使用LinkedIn潜在客户表单过滤器和触发器
+exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# 在智能营销活动中使用LinkedIn潜在客户表单过滤器和触发器 {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
-# 在智能活动{#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}中使用LinkedIn潜在客户生成表单过滤器和触发器
-
-启用LinkedIn潜在客户代Forms后，您可以在智能活动中将其用作过滤器和触发器。
+启用LinkedIn Lead Gen Forms后，您可以在智能营销活动中将它们用作过滤器和触发器。
 
 >[!NOTE]
 >
->当用户在LinkedIn潜在客户生成表单中提交其信息时，该信息将立即推送到Market，使表单显示在潜在客户生成表单名称下拉列表中。 至少有一个人提交了表单后，表单名称才可见。
+>当用户在LinkedIn潜在客户表单中提交其信息时，该信息会立即推送到Marketo，从而使该表单在“潜在客户表单名称”下拉列表中可用。 至少有一人提交了表单后，才会显示表单名称。
 
-1. 使用&#x200B;**填写LinkedIn潜在客户生成表单**&#x200B;触发器立即采取操作，或使用&#x200B;**填写LinkedIn潜在客户生成表单**&#x200B;过滤器进行计划批处理活动或标准智能列表过滤。
+1. 使用 **填写LinkedIn Lead Gen表** 触发器立即执行操作或 **填写了LinkedIn Lead Gen表** 过滤计划的批量促销活动或标准智能列表过滤。
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 

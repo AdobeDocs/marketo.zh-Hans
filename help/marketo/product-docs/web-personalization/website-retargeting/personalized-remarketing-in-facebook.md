@@ -1,55 +1,54 @@
 ---
 unique-page-id: 4720917
-description: Facebook中的个性化再营销 — Marketo Docs — 产品文档
-title: Facebook中的个性化再营销
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: facebook中的个性化再营销 — Marketo文档 — 产品文档
+title: facebook中的个性化再营销
+exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# facebook中的个性化再营销 {#personalized-remarketing-in-facebook}
 
-# Facebook中的个性化再营销{#personalized-remarketing-in-facebook}
-
-个性化再营销使您能够使用RTP数据和Facebook再营销的强大功能与用户重新互动。
+个性化再营销让您能够使用RTP数据和Facebook再营销的强大功能，重新吸引用户。
 
 >[!PREREQUISITES]
 >
->* 完成[使用Web个性化数据](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)重新定位设置
->* 查看有关自定义受众](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)和再营销的[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ Facebook文档。
+>* 完成 [使用Web个性化数据重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 设置
+>* 查看 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook自定义受众文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 和再营销。
 
 
-## 在Facebook{#creating-an-audience-in-facebook}中创建受众
+## 在Facebook中创建受众 {#creating-an-audience-in-facebook}
 
-1. 在Facebook中，转到“广告管理器”中的[受众选项卡](https://www.facebook.com/ads/audience_manager)。
+1. 在Facebook，转到 [“受众”选项卡](https://www.facebook.com/ads/audience_manager) 在广告管理器中。
 
-1. 单击&#x200B;**工具**&#x200B;并选择&#x200B;**受众**。
+1. 单击 **工具** 选择 **受众**.
 
    ![](assets/one-1.png)
 
-1. 单击&#x200B;**创建自定义受众**。
+1. 单击 **创建自定义受众**.
 
    ![](assets/two-1.png)
 
-1. 选择&#x200B;**网站流量**。
+1. 选择 **网站流量**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. 在“网站流量”列表中，选择&#x200B;**自定义组合**。
+1. 在网站流量列表中，选择 **自定义组合**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. 在“包括”列表中，选择&#x200B;**事件**。
+1. 在“Include（包含）”列表中，选择 **事件**.
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. 在“事件”列表中，选择&#x200B;**RTP再营销**&#x200B;并选择一个参数。
+1. 在事件列表中，选择 **RTP再营销** 并选择一个参数。
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. 在此示例中，选择“行业”以包含&#x200B;**教育**。 输入&#x200B;**教育**，并编辑&#x200B;**在最近**&#x200B;中为180天。 输入受众名称：**教育行业**。 单击&#x200B;**创建受众**。
+1. 在本例中，选择要包含的行业 **教育**. 输入 **教育**，编辑 **最后** 180天。 输入受众名称： **教育产业**. 单击 **创建受众**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -57,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## Facebook中的RTP数据点{#rtp-data-points-in-facebook}
+## facebook的RTP数据点 {#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
@@ -77,7 +76,7 @@ ht-degree: 0%
        </tr> 
        <tr> 
         <td>ABM列表</td> 
-        <td>(基于帐户的列表的名称)</td> 
+        <td>（基于帐户的列表名称）</td> 
        </tr> 
        <tr> 
         <td colspan="1">类别</td> 
@@ -89,11 +88,11 @@ ht-degree: 0%
        </tr> 
        <tr> 
         <td>行业</td> 
-        <td><p>Defense</p><p>教育</p><p>金融服务</p><p>政府</p><p>医疗保健、制药、生物技术</p><p>软件和Internet</p><p>等……（根据RTP行业选项）</p></td> 
+        <td><p>防御</p><p>教育</p><p>金融服务</p><p>政府</p><p>医疗保健、制药、生物技术</p><p>软件和Internet</p><p>等……（根据RTP行业选项）</p></td> 
        </tr> 
        <tr> 
         <td colspan="1">分段受众</td> 
-        <td colspan="1">(在RTP中创建的分段受众的名称)</td> 
+        <td colspan="1">（RTP中创建的分段受众的名称）</td> 
        </tr> 
       </tbody> 
      </table> 
@@ -102,15 +101,15 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 目标您的受众，使用Ad {#target-your-audience-with-an-ad}
+## 使用广告定位受众 {#target-your-audience-with-an-ad}
 
-有关其他详细信息，请参阅[Facebook的文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)。
+有关更多详细信息，请参阅 [Facebook文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. 转至广告管理器，单击&#x200B;**创建广告**。
+1. 转到广告管理器，单击 **创建广告**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. 选择&#x200B;**将人员发送到您的网站**&#x200B;作为活动的目标。
+1. 选择 **将人员发送到您的网站** 作为营销活动的目标。
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -118,18 +117,18 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-17-3a12-3a39.png)
 
-1. 创建您的广告集。 从您创建的受众的列表（例如，教育行业）中选择自定义受众。
+1. 创建广告集。 从您创建的受众列表中选择自定义受众，例如教育行业。
 
    ![](assets/image2015-1-19-17-3a18-3a13.png)
 
-1. 选择所有其他广告集选项，设置预算并定义广告创意。
+1. 选择所有其他广告集选项，设置预算并定义广告创作元素。
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. 现在，所有人都在Facebook上准备了个性化再营销活动。
+1. 您现在都可以在Facebook中设置个性化的再营销活动。
 
 >[!MORELIKETHIS]
 >
->* [使用Web个性化数据重新定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [使用Web个性化数据重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Google中的个性化再营销](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 

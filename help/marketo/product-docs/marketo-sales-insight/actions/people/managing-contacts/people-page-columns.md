@@ -3,10 +3,11 @@ description: 人员页面列 — Marketo文档 — 产品文档
 title: 人员页面列
 hide: true
 hidefromtoc: true
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
@@ -54,7 +55,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td colspan="1">标题（默认）</td> 
-   <td colspan="1">职务</td> 
+   <td colspan="1">职务名称</td> 
   </tr> 
   <tr> 
    <td>公司（默认）</td> 
@@ -109,7 +110,7 @@ ht-degree: 4%
    <td>此人的回复总数</td> 
   </tr> 
   <tr> 
-   <td>上次更新时间</td> 
+   <td>最后更新</td> 
    <td>人员记录上次更新的日期：</td> 
   </tr> 
   <tr> 

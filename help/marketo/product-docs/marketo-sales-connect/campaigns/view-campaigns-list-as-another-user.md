@@ -1,36 +1,35 @@
 ---
 unique-page-id: 18317367
-description: 视图活动列表作为其他用户- Marketo Docs —— 产品文档
-title: 视图活动列表作为其他用户
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: 以其他用户的身份查看促销活动列表 — Marketo文档 — 产品文档
+title: 以其他用户的身份查看营销活动列表
+exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
+# 以其他用户的身份查看营销活动列表 {#view-campaigns-list-as-another-user}
 
-# 视图活动列表作为其他用户{#view-campaigns-list-as-another-user}
-
-作为管理员，您可以像任何用户一样视图活动。
+作为管理员，您可以以任何用户身份查看营销活动。
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 在Web应用程序中，单击&#x200B;**活动**。
+1. 在Web应用程序中，单击 **促销活动**.
 
    ![](assets/one-5.png)
 
-1. 单击&#x200B;**视图As**&#x200B;下拉框并选择所需用户。
+1. 单击 **查看方式** 下拉菜单，然后选择所需的用户。
 
    ![](assets/two-4.png)
 
-1. 您现在以选定用户身份查看活动。
+1. 现在，您以选定用户的身份查看营销活动。
 
    ![](assets/three-4.png)
 
    >[!NOTE]
    >
-   >您还可以使用过滤器或搜索功能以及视图As视图与您最相关的内容。
+   >您还可以使用过滤器或搜索功能以及查看方式来查看与您最相关的内容。

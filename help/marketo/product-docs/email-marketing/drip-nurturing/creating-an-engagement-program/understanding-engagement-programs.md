@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359647
-description: 了解参与项目- Marketo Docs —— 产品文档
-title: 了解参与项目
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 了解参与计划 — Marketo文档 — 产品文档
+title: 了解参与计划
+exl-id: dd573749-5ae6-4794-a340-b5139c316cce
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
+# 了解参与计划 {#understanding-engagement-programs}
 
-# 了解参与项目{#understanding-engagement-programs}
-
-参与项目设计为通过系统地向新用户展示内容来向他们进行营销。
+参与计划旨在通过系统地向新人展示内容来向他们进行营销。
 
 >[!NOTE]
 >
->每个订阅限制为100 **活动**&#x200B;参与项目。
+>限制为100 **活动** 参与计划。
 
-## 参与项目{#engagement-program}
+## 参与计划 {#engagement-program}
 
-**参与项目**&#x200B;是一种可轻松完成复杂培养的项目。
+安 **参与计划** 是一种可以轻松完成复杂培养的程序。
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
 >[!MORELIKETHIS]
 >
->[创建参与项目](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+>[创建参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
-## 流{#stream}
+## 流 {#stream}
 
-**stream**&#x200B;是一个优先级内容池，参与项目将使用它来培养人。
+A **流** 是一组优先内容，参与计划将用于培养人。
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -41,59 +40,59 @@ ht-degree: 0%
 >* [克隆流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 
-## 内容{#content}
+## 内容 {#content}
 
-您可以向参与项目流添加两种类型的&#x200B;**内容**：电子邮件和项目。 电子邮件将在播放时发送给人。
+有两种类型 **内容** 您可以添加到参与项目流 — 电子邮件和项目。 电子邮件将在投放时发送给人员。
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
 >[!MORELIKETHIS]
 >
->* [向流中添加内容](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [排定流内容的优先级](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [向流添加内容](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [优先处理流内容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
 >* [编辑流内容的可用性](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [删除流内容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [存档和取消存档流内容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 
-## 转换{#cast}
+## 铸造 {#cast}
 
-**cast**&#x200B;是从“参与”项目发送电子邮件的事件。
+A **cast** 是从参与计划发送电子邮件的事件。
 
 >[!NOTE]
 >
->参与项目并非设计用于运营电子邮件。
+>参与计划不设计用于操作电子邮件。
 
-## 流节奏{#stream-cadence}
+## 流频率 {#stream-cadence}
 
-通过设置&#x200B;**流节奏**，可决定何时进行转换。 这是您定期计划内容的方式。
+通过设置 **流频率**. 这是您安排内容定期发布的方式。
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
 >[!MORELIKETHIS]
 >
->[设置流节奏](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[设置流频率](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
-## 人物节奏{#person-cadence}
+## 人员频度 {#person-cadence}
 
-**个人节奏**&#x200B;是一种状态，它定义了从参与项目接收内容的能力。 您可以使用&#x200B;**更改参与项目节奏**&#x200B;流步骤将其更改为“暂停”或“正常”。
+A **人员频率** 是一个状态，用于定义其从参与项目接收内容的能力。 您可以使用 **更改参与计划频度** “流程”步骤，以将其更改为“暂停”或“正常”。
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
-## 精疲力尽{#exhausted}
+## 精疲力尽 {#exhausted}
 
-一旦用户收到流中的每条内容，我们就称该用户&#x200B;**已精疲力竭**。
+一旦某人收到了流中的每一条内容，我们就会将该人称为 **精疲力尽**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
 >[!MORELIKETHIS]
 >
->[已累积内容的人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
+>[已累累内容的人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
-## 内容参与级别{#content-engagement-level}
+## 内容参与度级别 {#content-engagement-level}
 
-内容参与级别是Marketo将给您的内容提供的0到100分。 此数量由使用打开、点击、取消订阅、项目成功和其他因素的复杂公式确定。
+“内容参与度级别”是Marketo将给您的内容打分的0到100分。 此数字由使用打开数、点击数、取消订阅数、计划成功数和其他因素的复杂公式来确定。
 
 >[!MORELIKETHIS]
 >
->[了解参与情况得分](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
+>[了解参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)

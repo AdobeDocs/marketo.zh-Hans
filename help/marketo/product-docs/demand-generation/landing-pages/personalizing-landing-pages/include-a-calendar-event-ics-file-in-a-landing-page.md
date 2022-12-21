@@ -1,47 +1,46 @@
 ---
 unique-page-id: 2359540
-description: 在登陆页- Marketo Docs —— 产品文档中包含日历事件ICS文件
-title: 在事件中包含日历登陆页ICS文件
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 在登陆页面中包含日历事件ICS文件 — Marketo文档 — 产品文档
+title: 在登陆页面中包含日历事件ICS文件
+exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
+# 在登陆页面中包含日历事件ICS文件 {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-# 在登陆页{#include-a-calendar-event-ics-file-in-a-landing-page}中包含日历事件ICS文件
-
-**日历文件**&#x200B;令牌允许您向营销事件添加日历登陆页(.ics)链接。
+A **日历文件** 令牌允许您向Marketo登陆页面添加日历事件(.ics)链接。
 
 >[!PREREQUISITES]
 >
 >* [创建日历事件(.ics)文件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 
-1. 在登陆页编辑器中，单击&#x200B;**{...}**&#x200B;以插入令牌。
+1. 在登陆页面编辑器中，单击 **{...}** 插入令牌。
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. 选择&#x200B;**日历文件**&#x200B;令牌，然后单击&#x200B;**插入**。
+1. 选择 **日历文件** 令牌和单击 **插入**.
 
    >[!CAUTION]
    >
-   >登陆页不支持以下令牌：
+   >登陆页面不支持以下令牌：
    >
    >* member.webinar URL
 
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **保存**.
 
-   人们将看到一个类似的登陆页:
+   用户将看到如下所示的登陆页面：
 
    ![](assets/image2015-1-6-16-3a42-3a51.png)
 
-真贴心！ 现在一切都应该很好。 确保进行测试。
+真贴心！ 现在一切都应该很好。 确保测试。
 
 >[!MORELIKETHIS]
 >

@@ -64,7 +64,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">从其他工作区共享的目标文件夹 <br>（挂锁表示无法进行编辑）</td> 
   </tr> 
@@ -92,7 +92,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">触发器</td> 
   </tr> 
@@ -415,7 +415,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
    <td colspan="1">已设置开始时间的电子邮件程序</td> 
   </tr> 

@@ -32,4 +32,4 @@ Webhook已得到增强，可对URL/有效负载中的令牌进行转义，并且
 
 ## 即将推出：支持多个型号 {#coming-soon-support-for-multiple-models}
 
-我们正在为支持多个收入周期模型做准备，在将来的版#1中为社区中的RCA投了票。 在此版本中，您将注意到一些更改，包括[智能列表过滤器和在流程步骤中添加选择](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)以支持选择模型和阶段。 我们还要将潜在客户收入阶段和潜在客户收入周期模型字段从智能列表潜在客户网格选项卡中移出。
+我们正在为支持多个收入周期模型做准备，在将来的版#1中为社区中的RCA投了票。 在此版本中，您会注意到一些更改，包括 [智能列表过滤器和在流程步骤中添加选项](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) 支持选择模型和舞台。 我们还要将潜在客户收入阶段和潜在客户收入周期模型字段从智能列表潜在客户网格选项卡中移出。

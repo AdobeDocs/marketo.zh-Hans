@@ -1,37 +1,36 @@
 ---
 unique-page-id: 3571888
-description: 为收入周期分析 — Marketo Docs — 产品文档启用自定义字段同步
+description: 为收入周期分析启用自定义字段同步 — Marketo文档 — 产品文档
 title: 为收入周期分析启用自定义字段同步
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
+# 为收入周期分析启用自定义字段同步 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
-# 为收入周期分析{#enabling-custom-field-sync-for-revenue-cycle-analytics}启用自定义字段同步
+以下步骤将允许您在RCA报表中使用自定义字段。
 
-以下步骤允许您在RCA报表中使用自定义字段。
-
-1. 单击&#x200B;**管理员**。
+1. 单击 **管理员**.
 
    ![](assets/one.png)
 
-1. 单击&#x200B;**收入周期分析**，然后单击&#x200B;**自定义字段同步**。
+1. 单击 **收入周期分析**，则 **自定义字段同步**.
 
    ![](assets/two.png)
 
-1. 选择&#x200B;**字段名称**，然后单击&#x200B;**编辑同步选项**。
+1. 选择 **字段名称**，然后单击 **编辑同步选项**.
 
    ![](assets/three.png)
 
-1. 在“同步状态”下，选择&#x200B;**“已启用**”，然后单击&#x200B;**“保存**”。
+1. 在同步状态下，选择 **已启用**，然后单击 **保存**.
 
    ![](assets/four.png)
 
-1. 绿色检查可让您知道字段已设置为同步。
+1. 绿色复选框让您知道字段已设置为同步。
 
    ![](assets/five.png)
 
@@ -39,4 +38,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >启用该字段后，第二天将在收入周期分析中提供该数据。
+   >字段启用后，该数据将在次日在收入周期分析中可用。

@@ -1,49 +1,48 @@
 ---
 unique-page-id: 2359829
-description: 在表单（社交）上启用社交表单填写- Marketo文档——产品文档
+description: 在表单（社交）上启用Social表单填写 — Marketo文档 — 产品文档
 title: 在表单上启用社交表单填写（社交）
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
+# 在表单上启用社交表单填写（社交） {#enable-social-form-fill-on-a-form-social}
 
-# 在表单上启用社交表单填写（社交）{#enable-social-form-fill-on-a-form-social}
-
-允许访客使用其社交网络填写表单。 您可以自动获得额外数据，并获得更快的体验。 这是方法。
+允许您的访客使用其社交网络填写表单。 您会自动获得额外数据，他们会获得更快的体验。 这是方法。
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
+>并非所有客户都购买了此功能。 有关详细信息，请联系您的销售代表。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到 **营销活动**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 选择表单，然后单击&#x200B;**编辑表单**。
+1. 选择您的表单并单击 **编辑表单**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. 在“表单设置”下，单击&#x200B;**设置**。
+1. 在表单设置下，单击 **设置**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
-1. 检查要包含的社交网络按钮。
+1. 选中要包含的社交网络按钮。
 
    ![](assets/image2016-4-28-16-3a38-3a58.png)
 
    >[!TIP]
    >
-   >看看如果人们使用社交按钮，[数据营销人员将捕获](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)什么。
+   >看看 [数据Marketo将捕获](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) 如果人们使用社交按钮。
 
-1. 单击&#x200B;**完成**。
+1. 单击 **完成**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. 单击&#x200B;**批准并关闭**。
+1. 单击 **批准并关闭**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

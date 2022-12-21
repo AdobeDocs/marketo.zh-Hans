@@ -36,9 +36,9 @@ ht-degree: 0%
 
 ## 适用于iPad的新事件签入应用程序 {#new-event-check-in-app-for-ipad}
 
-使用我们的新iPad应用程序简化事件签入流程！ 事件签入应用程序与您的Marketo计划同步，允许您轻松地将注册者签入事件，并即时添加新潜在客户。
+使用我们新的iPad应用程序简化事件签入流程！ 事件签入应用程序与您的Marketo计划同步，允许您轻松地将注册者签入事件，并即时添加新潜在客户。
 
-需要iOS 5.1或更高版本；仅iPad。
+需要iOS 5.1或更高版本；iPad。
 
 ![](assets/image2014-9-23-10-3a14-3a46.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ## 增强的网络研讨会确认URL {#enhanced-webinar-confirmation-url}
 
-现在可用于ON24和Adobe Connect! 在确认电子邮件中，使用新的`{{member.webinar URL}}`令牌为每个注册的与会者添加一个唯一链接。 Adobe Connect增强功能还包括打开/关闭Adobe帐户信息电子邮件的功能，电子邮件中包含用户的登录ID和密码。
+现在可用于ON24和Adobe Connect! 在确认电子邮件中，使用新 `{{member.webinar URL}}` 令牌。 Adobe Connect增强功能还包括打开/关闭Adobe帐户信息电子邮件的功能，电子邮件中包含用户的登录ID和密码。
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -116,7 +116,7 @@ ht-degree: 0%
 
 ## 从Sales Insight访问Opportunity Analyzer {#access-opportunity-analyzer-from-sales-insight}
 
-通过从Marketo Sales Insight直接访问Opportunity Analyzer ，为销售代表提供关于哪些营销活动在推动参与的洞察信息。 注意。 需要Revenue Cycle Analytics许可证。
+通过从Marketo Sales Insight直接访问Opportunity Analyzer ，为销售代表提供关于哪些营销活动在推动参与的洞察信息。 注释. 需要Revenue Cycle Analytics许可证。
 
 ## 联系状态的自定义字段 {#custom-field-for-contact-status}
 

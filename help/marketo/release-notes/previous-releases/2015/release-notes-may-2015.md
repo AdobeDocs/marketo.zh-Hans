@@ -34,11 +34,11 @@ Marketo现在将对您添加的域运行每周自动化的SPF和DKIM检查。 �
 
 ## 电子邮件模板行为更改 {#email-template-behavior-change}
 
-从此版本开始，现在允许并禁止在创建新电子邮件时删除有效的HTML注释。
+自此版本起，现在允许并禁止在创建新电子邮件时删除有效的HTML评论。
 
 ## RTP:拖放区段编辑器 {#rtp-drag-and-drop-segment-editor}
 
-RTP:[拖放区段编辑器](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP: [拖放区段编辑器](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 将您的标准拖放到区段生成器中，定义值，您就可以创建实时区段了。
 

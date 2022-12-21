@@ -6,7 +6,7 @@ exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 0%
    >
    >默认区段将为英语。
 
-1. 继续添加区段，直到显示所有语言为止。 单击 **创建**.
+1. 继续添加区段，直到显示所有语言为止。 单击&#x200B;**创建**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. 命名代码片段 **取消订阅消息**. 单击 **创建**.
+1. 命名代码片段 **取消订阅消息**. 单击&#x200B;**创建**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 

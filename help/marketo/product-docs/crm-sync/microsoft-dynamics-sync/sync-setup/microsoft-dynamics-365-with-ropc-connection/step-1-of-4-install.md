@@ -1,14 +1,15 @@
 ---
-description: 步骤1（共3步） — 使用资源所有者密码控制连接安装Marketo解决方案 — Marketo文档 — 产品文档
-title: 步骤1（共3步） — 安装具有资源所有者密码控制连接的Marketo解决方案
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+description: 步骤1（共4步） — 使用资源所有者密码控制连接安装Marketo解决方案 — Marketo文档 — 产品文档
+title: 步骤1（共4步） — 安装具有资源所有者密码控制连接的Marketo解决方案
+exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
-# 步骤1（共3步）：安装具有资源所有者密码控制连接的Marketo解决方案 {#step-1-of-3-install-the-marketo-solution-ropc}
+# 步骤1（共4步）：安装具有资源所有者密码控制连接的Marketo解决方案 {#step-1-of-4-install-the-marketo-solution-ropc}
 
 在同步Microsoft Dynamics 365和Marketo之前，您需要先在Dynamics中安装Marketo解决方案。 **需要Dynamics管理员权限。**
 

@@ -1,31 +1,30 @@
 ---
 unique-page-id: 14352412
-description: 添加标识- Marketo文档——产品文档
+description: 添加身份 — Marketo文档 — 产品文档
 title: 添加标识
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
+# 添加标识 {#add-identity}
 
-# 添加标识{#add-identity}
+当您有多个要发送的电子邮件地址时，添加身份。
 
-当您有多个要从发送的电子邮件地址时，添加身份。
+1. 单击设置图标。
 
-1. 单击“设置”图标。
+1. 单击 **电子邮件设置**.
 
-1. 单击&#x200B;**电子邮件设置**。
+1. 单击 **添加标识**.
 
-1. 单击&#x200B;**添加标识**。
-
-1. 输入您的信息（电子邮件和名称是必填字段），完成后单击&#x200B;**创建**。
+1. 输入您的信息（电子邮件和名称是必填字段），单击 **创建** 完成时。
 
 1. 单击您收到的验证电子邮件中的链接。
 
-   在Sales Connect中发送电子邮件时，可以在身份之间切换。
+   在Sales Connect中发送电子邮件时，您可以在身份之间切换。
 
    >[!NOTE]
    >
@@ -33,4 +32,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[添加您的电子邮件签名](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)。
+   >[添加电子邮件签名](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).

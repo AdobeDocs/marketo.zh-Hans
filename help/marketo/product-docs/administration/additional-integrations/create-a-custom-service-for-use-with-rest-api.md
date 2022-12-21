@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >请注意，我们已经拥有用于热门网络研讨会服务的本机集成。
 
-1. 单击 **创建**.
+1. 单击&#x200B;**创建**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 

@@ -5,7 +5,7 @@ title: Microsoft Dynamics同步 — 用户同步
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 我能否使用Marketo创建用户？ {#can-i-create-an-user-using-marketo}
 
-不。 Marketo无法在Dynamics中创建用户。
+否. Marketo无法在Dynamics中创建用户。
 
 ## 哪些字段将同步到Marketo? {#which-fields-will-sync-to-marketo}
 

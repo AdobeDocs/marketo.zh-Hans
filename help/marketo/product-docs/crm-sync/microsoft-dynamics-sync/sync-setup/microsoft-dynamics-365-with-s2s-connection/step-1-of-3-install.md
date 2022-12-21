@@ -1,14 +1,15 @@
 ---
-description: 第1步（共3步） — 使用S2S连接安装Marketo解决方案 — Marketo文档 — 产品文档
-title: 第1步（共3步） — 安装具有S2S连接的Marketo解决方案
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+description: 第1步（共3步） — 通过服务器到服务器连接安装Marketo解决方案 — Marketo文档 — 产品文档
+title: 步骤1（共3步） — 通过服务器到服务器连接安装Marketo解决方案
+exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-# 步骤1（共3步）：安装具有S2S连接的Marketo解决方案 {#step-1-of-3-install-the-marketo-solution-s2s}
+# 步骤1（共3步）：通过服务器到服务器连接安装Marketo解决方案 {#step-1-of-3-install-the-marketo-solution-s2s}
 
 在同步Microsoft Dynamics 365和Marketo之前，您需要先在Dynamics中安装Marketo解决方案。 **需要Dynamics管理员权限。**
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->由星(![](assets/yellow-star.png))是付费加载项。 请联系您的AdobeMarketo Engage代表以了解更多信息。
+>由星(![](assets/yellow-star.png))是付费加载项。 请联系您的Adobe Marketo Engage代表以了解更多信息。
 
 **_季度版本_**
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->测试版中现在提供电子邮件限制。 [了解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+>测试版中现在提供电子邮件限制。 [了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **增强的销售活动分析**:根据您销售团队的先前活动捕获并激活个性化参与。 新属性（如“销售拜访记录链接”、“销售活动名称”和“销售电子邮件主体”）可在Marketo Engage智能列表中使用。  这些活动可以通过Marketo EngageREST API或批量导出进行导出和报告，并可在过滤器和触发器上作为智能列表的其他限制使用。
 

@@ -1,48 +1,47 @@
 ---
 unique-page-id: 1147358
-description: 将代码片断添加到电子邮件- Marketo Docs —— 产品文档
-title: 向电子邮件中添加代码片断
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: 向电子邮件中添加代码片段 — Marketo文档 — 产品文档
+title: 向电子邮件中添加代码片段
+exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
+# 向电子邮件中添加代码片段 {#add-a-snippet-to-an-email}
 
-# 向电子邮件{#add-a-snippet-to-an-email}添加代码片断
-
-代码片段是可重用的丰富文本和图形块，可用于电子邮件和登陆页。
+片段是可重复使用的富文本和图形块，可在电子邮件和登陆页面中使用。
 
 >[!PREREQUISITES]
 >
->[创建代码片断](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[创建代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 >[!NOTE]
 >
->您不能在代码片段中嵌入任何[Marketo电子邮件语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md);它将&#x200B;**不**&#x200B;在电子邮件中工作。 代码片段应仅是正文内容(HTML + TEXT)。
+>您无法嵌入任何 [Marketo电子邮件语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)在片段中；它将 **not** 通过电子邮件工作。 代码片段只应是正文内容(HTML+文本)。
 
-1. 找到您的电子邮件，选择它并单击&#x200B;**编辑草稿**。
+1. 查找您的电子邮件，选择它并单击 **编辑草稿**.
 
    ![](assets/one-2.png)
 
-1. 选择要转换为片段的可编辑区域，单击齿轮图标，然后选择&#x200B;**替换为片段**。
+1. 选择要转换为代码片段的可编辑区域，单击齿轮图标，然后选择 **替换为代码片段**.
 
    ![](assets/two-2.png)
 
-1. 选择您选择的代码片断，然后单击&#x200B;**保存**。
+1. 选择您选择的代码片段并单击 **保存**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >下拉列表中只显示经过批准的片段。
+   >下拉列表中只显示已批准的片段。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >每次更新和批准代码片段时，更改都会反映在电子邮件中。 除非您使用[No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)批准代码片段，否则将起草电子邮件。
+   >每次更新和批准代码片段时，所做的更改都会反映在电子邮件中。 除非您通过 [无草稿](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
 
-这是一种快速、轻松地重复使用动态内容的方法。
+这是一种快速、简便地重复使用动态内容的方法。

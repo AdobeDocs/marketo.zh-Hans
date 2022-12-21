@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板7E {#template-7e}
 
-右键单击[下载Template 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
+右键单击 [下载模板7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 

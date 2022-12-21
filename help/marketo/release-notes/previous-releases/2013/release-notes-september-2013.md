@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ## 提供法语和德语版的销售分析（仅限Salesforce） {#sales-insight-available-in-french-and-german-salesforce-only}
 
-从AppExchange中下载最新版本的Marketo Lead Management和Marketo Sales Insight，以便您的法语和德语销售人员能够使用其首选语言查看Sales Insight内容。
+从AppExchange中下载最新版本的Marketo Lead Management和Marketo Sales Insight，以便您的法语和德语销售人员可以使用其首选语言查看Sales Insight内容。
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 

@@ -1,7 +1,7 @@
 ---
 audience: end-user
-user-guide-title: Marketo指南
-user-guide-description: Marketo产品文档
+user-guide-title: Marketo 指南
+user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo指南 {#using}
+# Marketo 指南 {#using}
 
 + [主页](home.md)
 + 开始使用Marketo {#getting-started-with-marketo}

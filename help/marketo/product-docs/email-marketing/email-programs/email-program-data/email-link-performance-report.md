@@ -6,7 +6,7 @@ exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 0%
    <td colspan="1" rowspan="1">点击链接的独特访客数。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">%人员</td> 
+   <td colspan="1" rowspan="1">% 人员</td> 
    <td colspan="1" rowspan="1">点击了该电子邮件中链接的独特访客总数中，此链接所占的百分比。</td> 
   </tr> 
  </tbody> 

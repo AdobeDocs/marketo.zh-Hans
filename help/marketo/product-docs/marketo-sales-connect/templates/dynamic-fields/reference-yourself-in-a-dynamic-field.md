@@ -1,20 +1,19 @@
 ---
 unique-page-id: 14352601
-description: 在动态字段中引用您自己- Marketo Docs —— 产品文档
+description: 在动态字段中引用您自己的内容 — Marketo文档 — 产品文档
 title: 在动态字段中引用您自己
-translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
+# 在动态字段中引用您自己 {#reference-yourself-in-a-dynamic-field}
 
-# 在动态字段{#reference-yourself-in-a-dynamic-field}中引用您自己
+动态字段是我们的邮件合并形式。
 
-动态字段是我们邮件合并的形式。
+我们允许您使用诸如之类的预定义属性来个性化电子邮件模板 `{{my_name}}` 或 `{{my_title}}`. 利用这些字段，可在电子邮件模板中快速引用自己。
 
-我们允许您使用预定义的属性（如`{{my_name}}`或`{{my_title}}`）个性化您的电子邮件模板。 这些字段允许您快速在电子邮件模板中引用自己。
-
-要向模板添加自引用动态字段，只需从模板编辑器的&#x200B;**MSE动态字段**&#x200B;按钮中选择要使用的字段。
+要向模板添加自引用动态字段，只需从 **MSE动态字段** 按钮。

@@ -3,7 +3,8 @@ description: 预期行为 — Marketo文档 — 产品文档
 title: 预期行为
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%

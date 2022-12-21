@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359512
-description: 在智能列表- Marketo Docs — 产品文档中使用细分过滤器
-title: 在智能过滤器中使用区段列表
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: 在智能列表中使用区段过滤器 — Marketo文档 — 产品文档
+title: 在智能列表中使用区段过滤器
+exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-
-# 在智能列表{#use-segment-filters-in-a-smart-list}中使用区段过滤器
+# 在智能列表中使用区段过滤器 {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
@@ -19,10 +18,10 @@ ht-degree: 0%
 >* [创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 
-使用细分列表优化智能过滤器的性能。
+使用区段过滤器优化智能列表性能。
 
-1. 在您创建的智能列表中，搜索单词&#x200B;**区段**，拖放筛选器。
+1. 在您创建的智能列表中，搜索单词 **区段**，拖放过滤器。
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 
-太棒了！ 现在您知道如何找到分段过滤器。
+太棒了！ 现在，您已了解如何查找分段过滤器。

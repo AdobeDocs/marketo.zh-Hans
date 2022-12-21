@@ -1,55 +1,54 @@
 ---
 unique-page-id: 2359654
-description: 更改表单验证／错误消息语言和提交按钮- Marketo Docs —— 产品文档
-title: 更改表单验证／错误消息和提交按钮的语言
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 更改表单验证/错误消息和提交按钮的语言 — Marketo文档 — 产品文档
+title: 更改表单验证/错误消息和提交按钮的语言
+exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# 更改表单验证/错误消息和提交按钮的语言 {#change-the-language-of-form-validation-error-messages-and-submit-button}
 
-# 更改表单验证／错误消息和提交按钮的语言{#change-the-language-of-form-validation-error-messages-and-submit-button}
-
-您是否知道可以自定义表单以使用其他语言提供消息？ 看看这个。
+您是否知道可以自定义表单以使用其他语言提供消息？ 查看.
 
 >[!NOTE]
 >
 >这也会更改提交按钮语言。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到 **营销活动**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. 选择表单，然后单击&#x200B;**编辑表单**。
+1. 选择您的表单并单击 **编辑表单**.
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. 在&#x200B;**表单设置**&#x200B;下，单击&#x200B;**设置**。
+1. 在 **表单设置**，单击 **设置**.
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. 选择您需要的&#x200B;**错误语言**。
+1. 选择 **错误语言** 你需要。
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
-1. 单击&#x200B;**完成**。
+1. 单击 **完成**.
 
    ![](assets/image2014-9-15-12-3a48-3a43.png)
 
-1. 单击&#x200B;**批准并关闭**&#x200B;以应用并保存更改。
+1. 单击 **批准并关闭** 以应用和保存更改。
 
    >[!NOTE]
    >
-   >必须批准表单才能用于登陆页。
+   >表单必须获得批准才能在登陆页面上使用。
 
    ![](assets/image2014-9-15-12-3a49-3a26.png)
 
    >[!NOTE]
    >
-   >请记住[批准由表单更改创建的登陆页](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)草稿。
+   >记住 [批准登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表单更改创建的草稿。
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 

@@ -16,7 +16,7 @@ ht-degree: 0%
 >
 >[向智能营销活动添加流量步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-令牌是变量。 您可以在电子邮件、登陆页面和智能营销活动中使用它，从而更轻松地生活。 您可以在流程步骤、Web挂钩、电子邮件和登陆页面中使用[My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)（自定义令牌）。 您可以使用令牌在以下流程步骤中包含变量内容：
+令牌是变量。 您可以在电子邮件、登陆页面和智能营销活动中使用它，从而更轻松地生活。 您可以使用 [我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) （自定义令牌）。 您可以使用令牌在以下流程步骤中包含变量内容：
 
 * 更改数据值
 * 更改程序成员数据
@@ -25,13 +25,13 @@ ht-degree: 0%
 * 创建任务
 * 发送警报（仅在触发器促销活动中）
 
-1. 在流程步骤中，开始键入`{{`以获取令牌类别。
+1. 在流程步骤中，开始键入 `{{` 以获取令牌类别。
 
    ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
-   >有关多个可用令牌的列表，请参阅[令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)。
+   >查看 [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 以获取多个可用令牌的列表。
 
 1. 继续键入内容，直到找到所需的令牌并单击进行选择。
 

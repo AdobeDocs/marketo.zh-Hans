@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## Marketo日历文件 {#marketo-calendar-files}
 
-将日历文件创建为&#x200B;**My Token**，以用于事件确认和提醒电子邮件。 此集成的日历文件（例如.ics文件）将呈现所有令牌，包括我的令牌和`{{member.webinar URL}}`令牌。
+创建日历文件作为 **我的令牌** 用于事件确认和提醒电子邮件。 此集成的日历文件（例如.ics文件）将呈现所有令牌，包括我的令牌和 `{{member.webinar URL}}` 令牌。
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

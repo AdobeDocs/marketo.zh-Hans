@@ -1,20 +1,21 @@
 ---
 description: 报表 — Marketo文档 — 产品文档
-title: 报表
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+title: 报告
+exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
+source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 报表 {#reports}
+# 报告 {#reports}
 
 在“报表”选项卡中，查看过去90天的数据。 每个类别在下面进行定义。
 
 <table>
  <tr>
-  <td><strong>触发总数</strong></td>
+  <td><strong>总触发</strong></td>
   <td>每当访客符合条件/显示对话框时，都会递增。
 </td>
  </tr>
@@ -31,11 +32,11 @@ ht-degree: 0%
   <td>在对话框中，访客每次提供有效的电子邮件地址时，都会递增。</td>
  </tr>
  <tr>
-  <td><strong>已预订的会议</strong></td>
+  <td><strong>已预定会议</strong></td>
   <td>每次访客通过聊天机器人成功计划约会时，都会递增。</td>
  </tr>
  <tr>
-  <td><strong>实现的目标</strong></td>
+  <td><strong>达成的目标</strong></td>
   <td>在任何对话框流中，当访客达到目标时递增。</td>
  </tr>
 </table>

@@ -1,31 +1,30 @@
 ---
 unique-page-id: 12615781
-description: 创建指定帐户 — Marketo Docs — 产品文档
+description: 创建指定帐户 — Marketo文档 — 产品文档
 title: 创建指定帐户
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
-# 创建指定帐户{#create-a-named-account}
+# 创建指定帐户 {#create-a-named-account}
 
 请按照以下步骤手动创建指定帐户。
 
-1. 在“指定帐户”中，单击&#x200B;**New**&#x200B;下拉框，然后选择&#x200B;**创建指定帐户**。
+1. 在指定帐户中，单击 **新建** 下拉框并选择 **创建指定帐户**.
 
    ![](assets/two-1.png)
 
-1. 填写所需字段，然后单击&#x200B;**创建**。
+1. 填写所需字段并单击 **创建**.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >直接单击指定帐户以查看其仪表板。
+   >直接单击指定帐户以查看其功能板。
 
 >[!MORELIKETHIS]
 >

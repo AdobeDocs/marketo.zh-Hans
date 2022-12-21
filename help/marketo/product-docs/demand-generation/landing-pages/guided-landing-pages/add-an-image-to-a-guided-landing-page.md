@@ -1,29 +1,28 @@
 ---
 unique-page-id: 7515027
-description: 向引导登陆页添加图像- Marketo Docs —— 产品文档
-title: 向引导式登陆页添加图像
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 向引导式登陆页面添加图像 — Marketo文档 — 产品文档
+title: 向引导式登陆页面添加图像
+exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
+# 向引导式登陆页面添加图像 {#add-an-image-to-a-guided-landing-page}
 
-# 将图像添加到引导登陆页{#add-an-image-to-a-guided-landing-page}
+与自由格式的登陆页面不同，引导式登陆页面具有预定义的锁定空间，您可以在其中添加图像。
 
-与自由格式登陆页不同，向导式登陆页具有预定义的锁定空间，您可以在其中添加图像。
-
-1. 选择引导登陆页。 单击&#x200B;**编辑草稿**。
+1. 选择引导式登陆页面。 单击 **编辑草稿**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
-1. 单击要编辑的图像。 元素占位符将在登陆页画布中亮起。
+1. 单击要编辑的图像。 元素占位符将在登陆页面画布中亮起。
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. 选择所需的图像，然后单击&#x200B;**插入**。
+1. 选择所需的图像并单击 **插入**.
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
@@ -31,7 +30,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >调整图像大小的方式取决于模板。 了解有关[向导式登陆页模板](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)的更多信息。
+   >图像大小的调整方式取决于模板。 详细了解 [引导式登陆页面模板](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

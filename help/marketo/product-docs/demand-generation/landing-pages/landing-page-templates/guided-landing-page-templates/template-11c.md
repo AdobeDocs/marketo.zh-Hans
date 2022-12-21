@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板11C {#template-11c}
 
-右键单击[下载模板11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+右键单击 [下载模板11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 

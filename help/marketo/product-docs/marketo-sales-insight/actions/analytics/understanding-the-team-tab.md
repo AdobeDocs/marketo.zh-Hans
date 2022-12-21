@@ -3,7 +3,8 @@ description: 了解团队选项卡 — Marketo文档 — 产品文档
 title: 了解“团队”选项卡
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+exl-id: 36189eb2-a802-4601-afca-dca3006e4608
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

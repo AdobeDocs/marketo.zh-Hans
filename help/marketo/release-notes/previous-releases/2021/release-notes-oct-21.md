@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 发行说明：2021年10月 {#release-notes-oct-21}
 
-’21年10月版中包含以下功能。 查看您的AdobeMarketo Engage版以了解功能的可用性。
+’21年10月版中包含以下功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
 
 >[!AVAILABILITY]
 >

@@ -5,7 +5,7 @@ exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '488'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <th rowspan="3">待定</th>
-  <td>已计划</td>
+  <td>已安排</td>
   <td>当前计划发出的电子邮件。 发送电子邮件后，该邮件将移至已提交的文件夹。</td>
  </tr>
  <tr>

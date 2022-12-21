@@ -6,7 +6,7 @@ exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -48,18 +48,18 @@ ht-degree: 0%
    >
    >程序成员自定义字段支持的类型包括：布尔值、日期、日期时间、浮点、整数、字符串、URL。 [了解有关字段类型的更多信息](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target=&quot;_blank&quot;}。
 
-## Object Descriptions {#object-descriptions}
+## 对象描述 {#object-descriptions}
 
 | 对象 | 描述 |
 |---|---|
 | 公司 | 与人员关联的公司名称。 |
-| Opportunity | An opportunity can be associated with a person or account as a potential future sale. 他们通常通过CRM或API进入Marketo。 |
+| 机会 | 一个机会可以与一个人或帐户关联，作为潜在的未来销售。 他们通常通过CRM或API进入Marketo。 |
 | 人员 | 您通过营销活动参与的Marketo数据库中的个人。 |
 | 计划成员 | 也是项目成员的人 |
 
-## Triggers and Filters {#triggers-and-filters}
+## 触发器和过滤器 {#triggers-and-filters}
 
-You can leverage this program-specific data in smart lists via [triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}.
+您可以通过 [触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;}和/或 [过滤器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}。
 
 ![](assets/six.png)
 
@@ -67,7 +67,7 @@ You can leverage this program-specific data in smart lists via [triggers](/help/
 
 * 项目成员自定义字段仅在本地资产中可用。 Design Studio不支持这些功能，因为无法将其绑定到特定的程序。
 * 不能将包含程序成员自定义字段的表单（或包含表单的登陆页面）克隆/移动到Design Studio。
-* The Program Member object can have up to 20 custom fields. 这些字段可用于任何程序。
+* 程序成员对象最多可以有20个自定义字段。 这些字段可用于任何程序。
 * 删除某个程序的成员时，如果其“程序成员”(Program Member)自定义字段中有任何数据，则会从该字段中清除该数据。
 * 要查看数据，请单击程序中的“成员”选项卡，并创建包含该字段的自定义视图。
 * 通过导入和导出 [列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}和 [API](https://developers.marketo.com/)支持{target=&quot;_blank&quot;}。 导出仅适用于程序成员列表，而不适用于静态列表。
@@ -77,4 +77,4 @@ You can leverage this program-specific data in smart lists via [triggers](/help/
 
 >[!MORELIKETHIS]
 >
->[Create a Custom Field in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>[在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}

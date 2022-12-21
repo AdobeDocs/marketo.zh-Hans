@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->从6月3日开始，将逐步推出电子邮件编辑器2.0（包含模板选取器）。 我们将在6月30日之前完成推出。 与电子邮件分析不同，当您拥有访问权限时，系统不会向您发送通知。 要查看您是否这样做，请按照[本文](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)中的步骤操作。
+>从6月3日开始，将逐步推出电子邮件编辑器2.0（包含模板选取器）。 我们将在6月30日之前完成推出。 与电子邮件分析不同，当您拥有访问权限时，系统不会向您发送通知。 要查看是否需要，请按照 [本文](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -58,15 +58,15 @@ Marketo REST API现在支持对Marketo登陆页面、登陆页面模板和表单
 
 ## [IP列入允许列表以访问API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-与用于Marketo用列入允许列表户登录的IP功能类似，Marketo管理员现在可以允许列表设置一个IP地址，以访问Marketo SOAP和REST API，从而阻止从未授权的IP地址访问。 这为Marketo实例增加了一层安全性，并确保API访问只能从贵组织的网络中进行。 有关如何设置此设置的详细信息，请访问[Marketo文档站点](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)。
+与用于Marketo用列入允许列表户登录的IP功能类似，Marketo管理员现在可以允许列表设置一个IP地址，以访问Marketo SOAP和REST API，从而阻止从未授权的IP地址访问。 这为Marketo实例增加了一层安全性，并确保API访问只能从贵组织的网络中进行。 有关如何设置此设置的详细信息，请参阅 [Marketo文档网站](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
-## [新的高速Microsoft Dynamics同步连接器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## [新型高速Microsoft Dynamics同步连接器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 新的高速动态连接器以Orion架构为基础，在初始同步方面速度提高了20倍，在增量同步方面速度提高了5倍。 所有新客户都将在发行日期载入此连接器，并且我们将在夏季发行时间范围内逐步向现有客户推出此连接器。
 
-**刷新新字段的数据**:现在，您可以在任何时间点启用新的同步字段，该字段的所有数据值都将从Dynamics CRM刷新到Marketo。无需再担心在初始设置期间必须选择所有字段。 如果禁用现有同步字段并稍后重新启用该字段，则该字段的所有数据值都将从Dynamics CRM刷新到Marketo。
+**刷新新字段的数据**:现在，您可以在任何时间点启用新的同步字段，该字段的所有数据值都将从Dynamics CRM刷新到Marketo。 无需再担心在初始设置期间必须选择所有字段。 如果禁用现有同步字段并稍后重新启用该字段，则该字段的所有数据值都将从Dynamics CRM刷新到Marketo。
 
-**将潜在客户同步为联系人**:Sync Lead to Microsoft流程操作有一个新选项，可作为潜在客户或联系人进行同步。
+**将潜在客户同步为联系人**:“将潜在客户同步到Microsoft”流程操作新增了一个选项，可作为潜在客户或联系人进行同步。
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -76,7 +76,7 @@ Marketo REST API现在支持对Marketo登陆页面、登陆页面模板和表单
 
 **Microsoft Dynamics 2016**:Connector已获得Dynamics 2016在线版和内部部署版的完全认证。
 
-**插件更新现已记录：** 请参阅 [插件更新文档一文](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+**插件更新现已记录在案：** 请参阅 [插件更新文档文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
 ## [友好实例名称](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
@@ -98,4 +98,4 @@ Marketo REST API现在支持对Marketo登陆页面、登陆页面模板和表单
 
 ## 自定义活动 {#custom-activities}
 
-Marketo管理员现在可以通过Marketo自定义活动定义建模器定义和管理其自定义活动类型。 与Marketo自定义对象建模器类似（以及与之一起），管理员现在可以扩展数据模型以满足其确切的业务需求。 有关如何使用此功能的详细信息，请访问[Marketo文档站点](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)。
+Marketo管理员现在可以通过Marketo自定义活动定义建模器定义和管理其自定义活动类型。 与Marketo自定义对象建模器类似（以及与之一起），管理员现在可以扩展数据模型以满足其确切的业务需求。 有关如何使用此功能的详细信息，请访问 [Marketo文档网站](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).

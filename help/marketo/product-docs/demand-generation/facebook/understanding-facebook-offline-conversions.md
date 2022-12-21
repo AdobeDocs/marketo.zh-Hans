@@ -1,51 +1,46 @@
 ---
 unique-page-id: 11383945
-description: 了解Facebook脱机转换——营销文档——产品文档
-title: 了解Facebook脱机转换
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 了解Facebook离线转化 — Marketo文档 — 产品文档
+title: 了解Facebook离线转化
+exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
+# 了解Facebook离线转化 {#understanding-facebook-offline-conversions}
 
-# 了解Facebook脱机转换{#understanding-facebook-offline-conversions}
-
-Facebook潜在客户广告活动生成潜在客户并将其发送到Marketo以用于营销活动。 但是，如果看不到线下转化率，Facebook广告商就无法了解最有效的广告。 以下是一个例子。
+Facebook商机广告促销活动会生成商机，并将它们发送到Marketo，以用于营销活动。 但是，如果无法查看离线转化，Facebook广告商就无法知道哪些广告最有效。 以下是一个示例。
 
 >[!NOTE]
 >
 >**示例**
 >
->Facebook Lead Ads运行三则广告。
+>Facebook Lead Ads运行三个广告。
 >
 >* 广告1生成20个潜在客户
->* 广告2产生30个线索
->* 广告3产生50个线索
-
+>* 广告2生成30个潜在客户
+>* 广告3生成50个潜在客户
 >
+>仅根据这些数字，第3条似乎最有效。
 >
-仅从这些数字来看，第3条似乎最有效。
+>但是，在Marketo一侧查看数据时，情况却有所不同。
 >
->然而，从市场方面来看，情况却有所不同。
->
->* 广告1产生10个销售
+>* 广告1生成10个销售
 >* 广告3生成2个销售
-
 >
+>这意味着，广告1尽管产生的线索较少，但其成功率为50%，而广告3根本起不到任何作用。
 >
-这意味着，尽管创造的线索较少，但广告1的成功率却只有50 % ，而广告3则根本起不到什么作用。
->
->如果不进行线下转化，广告商可能会在广告3上投入更多资金。 有了线下转化数据，广告商更有可能投资于广告1。
+>如果没有离线转化，广告商可能会在广告3上投入更多资金。 有了离线转化数据，广告商更有可能投资于广告1。
 
-您可以[设置Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)以将脱机广告效果发送到Facebook。
+您可以 [设置Facebook离线转化](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) 将离线广告效果发送到Facebook。
 
-1. 确保您的[Facebook LaunchPoint集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)是最新的。
-1. 将收入周期模型中的阶段映射到Facebook上的脱机转化阶段。
-1. 当Facebook潜在客户从Facebook潜在客户广告生成并到达映射阶段时，Marketo每天通过安全、自动的API将线下转化数据发回Facebook多次。 数据会显示在Facebook广告管理器报告中。
+1. 确保 [Facebook LaunchPoint集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 是最新的。
+1. 在Facebook上将收入周期模型中的阶段映射到离线转化阶段。
+1. 当从Facebook潜在客户广告生成Facebook潜在客户并到达映射的阶段时，Marketo会通过安全、自动化的API每天多次将离线转化数据发送回Facebook。 数据会显示在Facebook广告管理器报表中。
 
 >[!MORELIKETHIS]
 >
->[设置Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[设置Facebook离线转化](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

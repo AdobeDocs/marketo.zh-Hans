@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147042
-description: 将数据追加到字段 — Marketo Docs — 产品文档
+description: 将数据附加到字段 — Marketo文档 — 产品文档
 title: 将数据附加到字段
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
@@ -11,31 +10,31 @@ ht-degree: 0%
 
 ---
 
-# 将数据附加到字段{#append-data-to-a-field}
+# 将数据附加到字段 {#append-data-to-a-field}
 
-有一种将数据附加到字段的简单方法。 下面介绍如何操作。
+有一种将数据附加到字段的简单方法。 这是方法。
 
 >[!PREREQUISITES]
 >
->[创建活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[创建营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 >[!NOTE]
 >
->以下步骤也适用于[更改项目成员数据](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)。
+>以下步骤也适用于 [更改程序成员数据](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
 
-1. 在&#x200B;**流**&#x200B;选项卡下，拖动&#x200B;**更改数据值**&#x200B;流步骤。
+1. 在 **流量** 选项卡，在 **更改数据值** 流步骤。
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
-1. 查找并选择要附加数据的字段。
+1. 查找并选择要将数据附加到的字段。
 
    ![](assets/image2014-9-22-16-3a5-3a5.png)
 
-1. 查找并选择要追加数据的同一字段的令牌。
+1. 查找并选择要附加数据的相同字段的令牌。
 
    ![](assets/image2014-9-22-16-3a5-3a9.png)
 
-1. 现在，将要附加的值添加到字段中已经存在的值。
+1. 现在，将要附加的值添加到字段中已存在的值。
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 

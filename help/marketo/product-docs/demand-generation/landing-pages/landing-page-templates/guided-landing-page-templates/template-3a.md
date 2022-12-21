@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板3A {#template-3a}
 
-右键单击[下载模板3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+右键单击 [下载模板3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 

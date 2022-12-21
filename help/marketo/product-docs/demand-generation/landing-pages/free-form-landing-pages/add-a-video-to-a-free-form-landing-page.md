@@ -1,50 +1,49 @@
 ---
 unique-page-id: 2359722
-description: 将视频添加到自由格式登陆页- Marketo Docs —— 产品文档
-title: 将视频添加到自由格式登陆页
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 向自由格式登陆页面添加视频 — Marketo文档 — 产品文档
+title: 向自由格式登陆页面添加视频
+exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
+# 向自由格式登陆页面添加视频 {#add-a-video-to-a-free-form-landing-page}
 
-# 将视频添加到自由格式登陆页{#add-a-video-to-a-free-form-landing-page}
-
-在您的登陆页上放置带有社交共享选项的视频。
+将包含社交共享选项的视频放在您的登陆页面上。
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
+>并非所有客户都购买了此功能。 有关详细信息，请联系您的销售代表。
 
-1. 导航到自由格式登陆页，然后单击“编辑草稿”**。**
+1. 导航到您的自由格式登陆页面，然后单击 **编辑草稿**.
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
-1. 从右侧的元素拖过&#x200B;**视频**。
+1. 拖动 **视频** 从右侧元素中。
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
-1. 从下拉菜单中选择&#x200B;**新建**。
+1. 选择 **新建** 下拉菜单中。
 
    ![](assets/image2014-9-17-11-3a29-3a8.png)
 
    >[!NOTE]
    >
-   >**新建**&#x200B;功能仅在营销活动中显示；它在Design Studio中不可用。 Design Studio中仅提供已创建的视频。 但是，您可以通过选择&#x200B;**新建** > **新建本地资产**&#x200B;在项目&#x200B;_内创建视频共享_。 然后，您可以从下拉菜单中选择它，如下所示。
+   >的 **新建** 功能仅在营销活动中显示；它在Design Studio中不可用。 只有已创建的视频才可在Design Studio中使用。 但是，您可以创建视频共享 _程序内_ 选择 **新建** > **新建本地资产**. 然后，您可以从下拉菜单中选择它，如下所示。
 
-1. 输入YouTube视频的URL，然后命名视频。 在克隆自下拉列表下，选择&#x200B;**无**，然后单击&#x200B;**插入**。
+1. 输入YouTube视频的URL，然后命名您的视频。 在克隆自下拉列表下，选择 **无**，然后单击 **插入**.
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
 >[!TIP]
 >
->要节省时间，您可以使用&#x200B;**克隆自**&#x200B;选项从现有视频共享复制所有设置。
+>为了节省时间，您可以使用 **克隆自** 选项以复制现有视频共享中的所有设置。
 
-恭喜！ 您已将视频共享添加到自由格式登陆页。 批准登陆页并实时共享视频。 您还可以[将登陆页发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或[将视频共享放到您的网站](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
+祝贺您！您向自由格式登陆页面添加了视频共享。 批准登陆页面，且视频共享处于正式状态。 您还可以 [将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 或 [将视频共享放在您的网站上](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!MORELIKETHIS]
 >
->已完成，但您可以根据需要更改视频共享的设置。 开始[自定义共享流](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)（何时和何处共享提示打开）。
+>您已完成，但可以根据需要更改视频共享的设置。 开始于  [自定义共享流程](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) （共享提示打开的时间和位置）。

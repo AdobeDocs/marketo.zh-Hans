@@ -70,13 +70,13 @@ Marketo正在利用我们的大数据架构来增加触发器促销活动吞吐�
 
 ## Web个性化 {#web-personalization}
 
-**适用于Web的日语数据源Personalization**
+**用于Web个性化的日语数据源**
 
-Marketo将为Web Personalization添加一个额外的日语数据源，以改进来自日本的访客的Web访客识别（反向IP查找）和个性化。 组织名称将以日语显示。
+Marketo将为Web个性化添加一个额外的日语数据源，以改进来自日本的访客的Web访客识别（反向IP查找）和个性化。 组织名称将以日语显示。
 
 **[使用静态列表创建Web区段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-Web Personalization现在可以将内容个性化到已知的Web访客，该访客是营销活动(MLM)中定义的静态列表的一部分。 通过此增强功能，您现在可以跨渠道营销静态列表，并通过网站上的个性化内容定位这些列表中的人员。
+Web个性化现在可以将内容个性化到已知的Web访客，该访客是营销活动(MLM)中定义的静态列表的一部分。 通过此增强功能，您现在可以跨渠道营销静态列表，并通过网站上的个性化内容定位这些列表中的人员。
 
 ## ContentAI {#contentai}
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板2C {#template-2c}
 
-右键单击[下载模板2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+右键单击 [下载模板2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 

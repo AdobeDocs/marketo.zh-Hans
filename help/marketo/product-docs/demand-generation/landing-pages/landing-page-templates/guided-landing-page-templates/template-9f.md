@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板9F {#template-9f}
 
-右键单击[下载Template 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+右键单击 [下载模板9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
 
 ![](assets/image2015-7-28-16-3a1-3a25.png)
 

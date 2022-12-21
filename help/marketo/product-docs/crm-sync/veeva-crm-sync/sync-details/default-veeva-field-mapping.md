@@ -5,7 +5,7 @@ exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 27%
+ht-degree: 30%
 
 ---
 
@@ -125,8 +125,8 @@ ht-degree: 27%
   </thead>
   <tbody>
     <tr>
-      <td>年营业额</td>
-      <td>年营业额</td>
+      <td>年收入</td>
+      <td>年收入</td>
     </tr>
     <tr>
       <td>帐单寄送城市</td>
@@ -173,16 +173,16 @@ ht-degree: 27%
       <td>主要电话</td>
     </tr>
     <tr>
-      <td>标准产业分类(SIC)代码</td>
-      <td>标准产业分类(SIC)代码</td>
+      <td>SIC 代码</td>
+      <td>SIC 代码</td>
     </tr>
     <tr>
       <td>帐户网站</td>
-      <td>现场</td>
+      <td>网站</td>
     </tr>
     <tr>
       <td>帐户类型</td>
-      <td>SFDC类型</td>
+      <td>SFDC 类型</td>
     </tr>
     <tr>
       <td>网站</td>

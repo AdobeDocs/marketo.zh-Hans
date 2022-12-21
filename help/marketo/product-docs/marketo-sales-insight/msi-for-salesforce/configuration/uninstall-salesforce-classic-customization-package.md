@@ -6,10 +6,10 @@ hidefromtoc: true
 source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
 workflow-type: tm+mt
 source-wordcount: '18'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
 # 卸载Salesforce自定义包 {#uninstall-salesforce-classic-customization-package}
 
-即将推出。
+即将推出.

@@ -5,7 +5,7 @@ title: 程序成员自定义字段令牌
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 令牌系列的成员域将支持PMCF令牌。
 
-成员令牌用于属于程序成员范围的字段。 自当前状态起，成员令牌还用于插入来自集成服务合作伙伴的唯一值。 `{{member.webinar url}}` 令牌会自动解析由服务提供商生成的人员的唯一确认URL。{{member.registration code}}解析为服务提供商提供的注册代码。
+成员令牌用于属于程序成员范围的字段。 自当前状态起，成员令牌还用于插入来自集成服务合作伙伴的唯一值。 `{{member.webinar url}}` 令牌会自动解析由服务提供商生成的人员的唯一确认URL。 {{member.registration code}} 解析为服务提供商提供的注册代码。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 **电子邮件**
 
-1. 选择所需的电子邮件，然后单击&#x200B;**编辑草稿**。
+1. 选择所需的电子邮件并单击 **编辑草稿**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. 查找并选择所需的程序成员自定义字段令牌，输入默认值，然后单击&#x200B;**插入**。
+1. 查找并选择所需的程序成员自定义字段令牌，输入默认值，然后单击 **插入**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. 单击&#x200B;**Save**。
+1. 单击 **保存**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 **登陆页面**
 
-1. 选择您的登陆页面，然后单击&#x200B;**编辑草稿**。
+1. 选择您的登陆页面并单击 **编辑草稿**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,21 +75,21 @@ ht-degree: 0%
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. 输入默认值，然后单击&#x200B;**插入**。
+1. 输入默认值并单击 **插入**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. 单击&#x200B;**Save**。
+1. 单击 **保存**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **短信**
 
-1. 选择所需的短信，然后单击&#x200B;**编辑草稿**。
+1. 选择所需的短信，然后单击 **编辑草稿**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. 单击&#x200B;**`{{ Token`**&#x200B;按钮。
+1. 单击 **`{{ Token`** 按钮。
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -97,29 +97,29 @@ ht-degree: 0%
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. 单击短信操作下拉列表，然后选择&#x200B;**批准并关闭**。
+1. 单击短信操作下拉列表，然后选择 **批准并关闭**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **推送通知**
 
-1. 选择所需的推送通知，然后单击&#x200B;**编辑草稿**。
+1. 选择所需的推送通知并单击 **编辑草稿**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. 单击&#x200B;**推送通知**。
+1. 单击 **推送通知**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. 单击编辑器中的消息，然后单击`{{`按钮以获取令牌选择器。
+1. 单击编辑器中的消息，然后单击 `{{` 按钮以获取令牌选择器。
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 查找并选择所需的程序成员自定义字段令牌。 输入默认值，然后单击&#x200B;**插入**。
+1. 查找并选择所需的程序成员自定义字段令牌。 输入默认值并单击 **插入**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. 单击&#x200B;**完成**&#x200B;以保存并退出（或单击&#x200B;**下一个**&#x200B;以先查看）。
+1. 单击 **完成** 保存并退出(或 **下一个** 先审阅)。
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

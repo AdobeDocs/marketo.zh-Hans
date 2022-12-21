@@ -5,7 +5,7 @@ exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '1396'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -146,7 +146,7 @@ Sales Insight Actions还允许批量更新联系人的授权和源类型，从�
   </tr> 
   <tr> 
    <td>标题</td> 
-   <td>创建时间</td> 
+   <td>创建于</td> 
    <td>导出位置</td> 
   </tr> 
   <tr> 
@@ -156,7 +156,7 @@ Sales Insight Actions还允许批量更新联系人的授权和源类型，从�
   </tr> 
   <tr> 
    <td>电话号码</td> 
-   <td>人员ID</td> 
+   <td>人员 ID</td> 
    <td><br></td> 
   </tr> 
  </tbody> 

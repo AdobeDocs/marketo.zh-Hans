@@ -6,7 +6,7 @@ exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
 
-1. 输入工作区集成的显示名称。 在 **服务** 下拉列表，选择 **工作场所：Facebook**. 单击 **创建**.
+1. 输入工作区集成的显示名称。 在 **服务** 下拉列表，选择 **工作场所：Facebook**. 单击&#x200B;**创建**。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
-1. 要接收系统通知和有趣的时刻，请按原样保留选项。 单击 **创建**.
+1. 要接收系统通知和有趣的时刻，请按原样保留选项。 单击&#x200B;**创建**。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-5.png)
 

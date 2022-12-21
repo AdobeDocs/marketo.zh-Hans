@@ -12,17 +12,17 @@ ht-degree: 0%
 
 # 发行说明：2012年12月 {#release-notes-december}
 
-12月版本包括备受期待的&#x200B;**转发到朋友**&#x200B;功能，以及其他一些实用组件！ 请注意，带有星号(*)标记的功能仅在Select Edition和RCA(Revenue Cycle Analytics)中可用。
+12月版包括备受期待的 **转发给朋友** 功能，以及其他一些实用组件！ 请注意，标有星号(&#42;)仅在Select Edition和RCA(Revenue Cycle Analytics)中可用。
 
 ## 转发给朋友 {#forward-to-friend}
 
-通过在电子邮件中包含&#x200B;**转发给朋友**&#x200B;链接，可以与他人共享内容。 新增的过滤器和触发器将通过识别转发电子邮件的用户以及收到转发电子邮件的用户，帮助您识别影响者。
+通过在 **转发给朋友** 链接。 新增的过滤器和触发器将通过识别转发电子邮件的用户以及收到转发电子邮件的用户，帮助您识别影响者。
 
-要在电子邮件中包含&#x200B;**转发给朋友**&#x200B;邀请，请在编辑器中将其打开，然后插入`{{system.forwardToFriendLink}}`令牌。
+包含 **转发给朋友** 邀请，在编辑器中打开它并插入 `{{system.forwardToFriendLink}}` 令牌。
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-使用相应的触发器和过滤器来标识使用&#x200B;**转发到朋友**&#x200B;链接的用户以及收到电子邮件的用户。
+使用相应的触发器和过滤器来识别使用 **转发给朋友** 链接，以及收到电子邮件的用户。
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -50,16 +50,16 @@ Sales Insight现在可供Microsoft Dynamics客户使用！
 
 在Marketo和Microsoft Dynamics之间同步机会数据。
 
-## 受营销影响的机会报表* {#marketing-influenced-opportunities-report}
+## 影响营销的机会报表&#42; {#marketing-influenced-opportunities-report}
 
-查看您的营销计划对贵公司的销售渠道和收入的影响百分比。 在&#x200B;**Revenue Explorer**&#x200B;中，您现在可以在Opportunity Analysis中使用新的“受营销影响的机会”黄色圆点创建自定义报表。 您还可以在Standard文件夹中使用以下两个报表：
+查看您的营销计划对贵公司的销售渠道和收入的影响百分比。 在 **收入浏览器**，您现在可以在Opportunity Analysis中使用新的“受营销影响的机会”黄点创建自定义报表。 您还可以在Standard文件夹中使用以下两个报表：
 
 * 营销对创建的机会的影响
 * 营销对机会的影响，已结束赢
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Program Opportunity Analysis中的Custom Opportunity字段* {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Program Opportunity分析中的Custom Opportunity字段&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 添加自定义机会字段，以在收入资源管理器中扩充您的计划机会分析报表。
 
@@ -69,6 +69,6 @@ Sales Insight现在可供Microsoft Dynamics客户使用！
 
 您是否曾想知道哪些营销活动使用特定的流量操作，如“更改分数”或“请求营销活动”？ 或者，在何处使用特定过滤器？ 新的营销活动检查器（可从“财宝箱”中获取）可让您识别这些营销活动，以及有错误的活动和营销活动。
 
-转到&#x200B;**管理员** > **金银箱**&#x200B;以启用&#x200B;**营销活动检查器**。
+转到 **管理员** > **宝箱** 启用 **促销活动检查器**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

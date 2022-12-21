@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359811
-description: 选择社交应用程序- Marketo Docs —— 产品文档的共享URL
+description: 选择社交应用程序的共享URL - Marketo文档 — 产品文档
 title: 选择社交应用程序的共享URL
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
+# 选择社交应用程序的共享URL {#choose-the-share-url-for-a-social-app}
 
-# 选择社交应用程序{#choose-the-share-url-for-a-social-app}的共享URL
+创建社交应用程序时，您可以选择在参与者的帖子中共享哪个URL。
 
-创建社交应用程序时，您可以选择在参加者的帖子中共享的URL。
-
-1. 转到&#x200B;**营销活动**。
+1. 转到 **营销活动**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择应用程序，然后单击“编辑草稿&#x200B;**”。**
+1. 选择应用程序，然后单击 **编辑草稿**.
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. 在社交应用程序编辑器中，转至&#x200B;**App Settings**，然后转至&#x200B;**Advanced Options**。
+1. 在社交应用程序编辑器中，转到 **应用程序设置** 然后 **高级选项**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
@@ -33,13 +32,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定义**
+   >**条件**
    >
-   >“共享帖子”可以链接到三个位置：
+   >“共享帖子”可以链接到以下三个位置：
    >
-   >* **引用页面**:包含应用程序的页面。
-   >* **其他登陆页**:与下拉列表中的营销登陆页不同。
-   >* **外部URL**:非市场登陆页。
+   >* **引荐页面**:包含应用程序的页面。
+   >* **其他登陆页面**:与下拉列表中的登陆页面不同的Marketo登录页面。
+   >* **外部URL**:非Marketo登陆页面。
 
 
 >[!MORELIKETHIS]

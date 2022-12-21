@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720856
-description: 为自由格式登陆页面添加Mobile视图 — Marketo文档 — 产品文档
+description: 为自由格式登陆页面添加移动视图 — Marketo文档 — 产品文档
 title: 为自由格式登陆页面添加移动视图
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >可能需要升级自由格式模板。 如果您看到该消息，请快速阅读有关如何 [使现有的自由格式登陆页面模板在移动设备上兼容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. 太棒了！ 您现在已激活登陆页面的移动版本。 单击 **关闭**.
+1. 太棒了！ 您现在已激活登陆页面的移动版本。 单击&#x200B;**关闭**。
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

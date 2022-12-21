@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## 删除工作区 {#delete-workspace}
 
-现在，您可以[删除未使用的工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)。 在尝试删除该工作区之前，请确保将所有资产移到另一个工作区。
+现在，您可以 [删除未使用的工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). 在尝试删除该工作区之前，请确保将所有资产移到另一个工作区。
 
 ## 计划首次播放 {#schedule-first-cast}
 
-在参与计划中，您可以安排[首次转播运行](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)的日期。 例如，将间隔指定为每2周，然后选择首次转播的日期。
+在参与计划中，您可以计划 [首播运行](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). 例如，将间隔指定为每2周，然后选择首次转播的日期。
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 文本电子邮件中的链接跟踪 {#link-tracking-in-text-emails}
 
-[在电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) 文本版本中，为URL添加双方括号，以指示链接何时应转换为重定向的Marketo跟踪链接
+[添加双方括号](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) 邮件文本版本中的URL周围，以指示链接何时应转换为重定向的Marketo跟踪链接
 
 >[!NOTE]
 >
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 默认情况下，不会跟踪电子邮件文本版本中的任何链接。 添加此新语法以指示链接何时应转换为跟踪链接。 HTML链接的行为保持不变。  要向电子邮件添加跟踪链接，请执行以下操作：
 
-* **HTML版本：** 只需插入链接即可。默认情况下，将跟踪该事件。
-* **文本版本：** 输入被双方括号括起的URL。
+* **HTML版本：** 只需插入您的链接。 默认情况下，将跟踪该事件。
+* **文本版本：** 输入被双方括号括起来的URL。
 
 要向电子邮件添加未跟踪的链接，请执行以下操作：
 
 * **HTML版本：** 插入链接并将“mktNoTrack”类添加到该链接。
-* **文本版本：** 只需输入URL。默认情况下，将取消跟踪该事件。
+* **文本版本：** 只需输入URL。 默认情况下，将取消跟踪该事件。
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 ## 中止促销活动 {#abort-campaign}
 
-别慌！ 如果发现错误，请使用新的[中止促销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)按钮立即停止其跟踪中的促销活动。 您将收到通知，其中概述了在停止营销活动时每个流程步骤中待处理的潜在客户数量。
+别慌！ 如果发现错误，请使用新 [中止营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) 按钮以立即停止其跟踪中的营销活动。 您将收到通知，其中概述了在停止营销活动时每个流程步骤中待处理的潜在客户数量。
 
 ## 日语、葡萄牙语和西班牙语的销售分析 {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -68,11 +68,11 @@ ht-degree: 0%
 
 ## 计划成员资格分析中的计划状态和成功时间范围 {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-查看每个程序状态](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)的成员数量，以及他们何时更改为每个状态，包括他们获得程序成功的日期。[
+查看多少 [成员处于每个项目状态](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 以及他们更改为每个状态的时间，包括他们获得项目成功的日期。
 
 ## A/B在电子邮件分析中测试电子邮件 {#a-b-test-emails-in-email-analysis}
 
-在Email Analysis中报告您的每个[A/B测试电子邮件变体](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。
+报告 [A/B测试电子邮件变体](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) 中。
 
 ## Analytics打包更改 {#analytics-packaging-changes}
 
@@ -80,4 +80,4 @@ ht-degree: 0%
 
 ## 移动平台信息 {#mobile-platform-info}
 
-[细分和触](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) 发潜在客户，从其移动设备打开并单击电子邮件。
+[区段和触发器](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) 打开并单击其移动设备中的电子邮件。

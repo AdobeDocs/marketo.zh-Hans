@@ -37,7 +37,7 @@ Web个性化现在支持多个工作区。
 
 ## Marketo Sky {#marketo-sky}
 
-有关更多详细信息和更新，请查看我们的[Sky发行说明](https://help.marketo.com)。
+有关更多详细信息和更新，请查看 [Sky发行说明](https://help.marketo.com).
 
 * **设计系统更新**
 
@@ -54,8 +54,8 @@ Web个性化现在支持多个工作区。
 * Design Studio主页：创建新资产，拖放图像和文件，以及管理所有现有资产。
 * Design Studio列表视图：现在，用户能够以列表视图格式查看登陆页面模板和电子邮件模板，从而可以对单个资产类型进行快速导航和批量操作。
 * Design Studio资产详细信息页面：通过在一个位置查看、组织和对所有资产执行批量操作，可节省时间并减少麻烦。
-* **默认程序现在在Marketo Sky中可用**:Marketo Sky现在支持默认项目，这是一种通用的项目样式，允许您创建您能够想象到的任何营销活动。
-* **电子邮件程序 — 第1阶段**:您现在可以在Sky中查看电子邮件程序。请查看新设计，并[告知我们您对](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)的看法。
+* **默认程序现已在Marketo Sky中可用**:Marketo Sky现在支持默认项目，这是一种通用的项目样式，允许您创建您能够想象到的任何营销活动。
+* **电子邮件程序 — 第1阶段**:您现在可以在Sky中查看电子邮件程序。 查看新设计并 [让我们知道](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analytics {#analytics}
 
@@ -82,14 +82,14 @@ Web个性化现在支持多个工作区。
    * 缩放以适应设置：主功能板条图更易读，有助于比较程序在一段时间内的性能。
    * 警报图标：新警报图标显示有关数据质量问题和设置通知的所有活动警报。
 
-* **按活动日期划分的参与度**:用户可以选择按活动日期或成本期查看参与量度。
-* **ABM命名的帐户过滤器**:按特定指定帐户过滤“管道”和“收入”功能板。
+* **按活动日期的参与度**:用户可以选择按活动日期或成本期查看参与量度。
+* **ABM已命名的帐户过滤器**:按特定指定帐户过滤“管道”和“收入”功能板。
 
 ## 广告网络 {#ad-networks}
 
 **[刷新令牌](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-我们在重定位和LinkedIn Lead Gen表单解决方案中实施了刷新令牌，该令牌将访问时间延长到一年后才需要重新身份验证。
+我们在重定位和LinkedIn潜在客户表单解决方案中实施了一个刷新令牌，该令牌将访问时间延长到需要重新身份验证之前的一年。
 
 ## API {#api}
 

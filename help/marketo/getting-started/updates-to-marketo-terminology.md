@@ -5,7 +5,7 @@ title: Marketo术语更新
 source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>旧</strong></td> 
-   <td><strong>新建</strong></td> 
+   <td><strong>新</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -54,7 +54,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>旧</strong></td> 
-   <td><strong>新建</strong></td> 
+   <td><strong>新</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>旧</strong></td> 
-   <td><strong>新建</strong></td> 
+   <td><strong>新</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -120,7 +120,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>旧</strong></td> 
-   <td><strong>新建</strong></td> 
+   <td><strong>新</strong></td> 
   </tr> 
   <tr> 
    <td> 

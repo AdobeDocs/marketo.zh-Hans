@@ -3,9 +3,10 @@ description: 预测过滤器 — Marketo文档 — 产品文档
 title: 预测过滤器
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 29c586d1-6c7d-4892-9c71-354af1552076
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -46,7 +47,7 @@ ht-degree: 0%
 
 这两个过滤器通过定位与其他项目或智能列表成员类似的其他潜在客户来帮助您扩展当前受众。 相似人群拓展过滤器考虑了50多种因素，包括潜在客户属性、电子邮件活动、Web活动和参与度。
 
-单击 **[!UICONTROL 添加约束]** 为选定项目的成员选择成功标准。
+单击 **[!UICONTROL Add Constraint]** 为选定项目的成员选择成功标准。
 
 单击项目下拉列表旁边的+图标，可轻松地将多个项目/智能列表添加到一个筛选器。
 

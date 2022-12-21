@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketo Mobile参与度 — 令牌、发送示例和预览 {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile Engagement — 令牌、发送示例和预览 {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [令牌](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [发送示例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)

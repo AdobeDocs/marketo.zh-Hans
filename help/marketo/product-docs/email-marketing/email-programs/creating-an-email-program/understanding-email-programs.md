@@ -1,81 +1,79 @@
 ---
 unique-page-id: 2953572
-description: 了解电子邮件项目- Marketo Docs —— 产品文档
-title: 了解电子邮件项目
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: 了解电子邮件计划 — Marketo文档 — 产品文档
+title: 了解电子邮件程序
+exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
+# 了解电子邮件程序 {#understanding-email-programs}
 
-# 了解电子邮件项目{#understanding-email-programs}
+向你的新Marketo朋友问好，电子邮件程序。 在一个位置发送电子邮件、创建A/B测试并跟踪您的结果。
 
-向Marketo的新朋友打招呼，电子邮件项目。 发送电子邮件，创建A/B测试，并跟踪所有结果。
+## 控制面板 {#control-panel}
 
-## 控制面板{#control-panel}
-
-四个方框让您专注。 **受** 众定义“谁”, **** 电子邮件提供“什么”, **** Schedule定义“何时”, **** Approval使其准备就绪。
+四个箱子让你集中注意力。 **受众** 定义“谁” **电子邮件** 提供“what” **计划** 定义&quot;when&quot;，和 **批准** 准备就绪。
 
 ![](assets/emailprogram.png)
 
-## A/B测试{#a-b-testing}
+## A/B测试 {#a-b-testing}
 
-A/B测试使您能够证明哪种电子邮件最合适。
+A/B测试可让您证明哪封电子邮件最好。
 
 了解以下A/B测试：
 
 * [“主题行”A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
-* [“完整电子邮件”A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+* [“整个电子邮件”A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
 * [“发件人地址”A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
-* [“日期／时间”A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+* [“日期/时间”A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
 ![](assets/abtesthighlight.png)
 
-## 仪表板{#dashboards}
+## 仪表板 {#dashboards}
 
 >[!TIP]
 >
->由于项目具有详细的报告仪表板，有些人更喜欢使用电子邮件项目，而不是通过智能活动发送电子邮件。
+>与通过智能营销活动发送电子邮件相比，有些人更喜欢使用电子邮件项目，因为项目的详细报告仪表板。
 
-享受你的劳动成果。 仪表板向您显示电子邮件项目和A/B测试性能一览表。
+享受你的劳动成果。 功能板显示电子邮件程序和A/B测试性能概览。
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
-## 嵌套{#nesting}
+## 嵌套 {#nesting}
 
-电子邮件项目可以与其他项目很好地协作。
+电子邮件程序与其他程序的配合效果很好。
 
 ![](assets/image2015-4-27-11-3a49-3a22.png)
 
-例如，使用电子邮件项目发送网络研讨会邀请。
+例如，使用电子邮件计划发送网络研讨会邀请。
 
 ![](assets/image2015-4-27-12-3a20-3a40.png)
 
-在默认项目内使用电子邮件项目，以保持事项有序。
+在默认项目中使用电子邮件项目来保持项目的有序性。
 
 >[!TIP]
 >
->要将现有电子邮件项目转换到其他项目，您必须克隆它。
+>要将现有的电子邮件程序导入另一个程序，您必须克隆该程序。
 
 >[!NOTE]
 >
->电子邮件项目不能嵌套在[参与项目](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)中。 也无法重新发送，一次只能运行一个测试。
+>无法在中嵌套电子邮件程序 [参与计划](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). 它们也无法重新发送，并且一次只能运行一个测试。
 
-## 计划设置{#schedule-settings}
+## 计划设置 {#schedule-settings}
 
-了解电子邮件项目后，即可开始阅读以下相关文章之一！
+了解了电子邮件计划后，请开始阅读以下相关文章之一！
 
 >[!MORELIKETHIS]
 >
->* [创建电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-   >
-   >
-* [使用智能受众定义列表](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [创建电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [计划电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [创建电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>
+>* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [为电子邮件程序创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [计划电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 

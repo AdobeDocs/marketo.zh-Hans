@@ -16,7 +16,6 @@ ht-degree: 0%
 >
 >* [将Facebook自定义受众添加为LaunchPoint服务](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 中。
 >* [接受Facebook的自定义受众条款](https://www.facebook.com/ads/manage/customaudiences/tos.php) 在您的Facebook帐户中。
-
 >
 
 

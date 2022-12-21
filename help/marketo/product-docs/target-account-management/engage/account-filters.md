@@ -1,37 +1,36 @@
 ---
 unique-page-id: 11380732
-description: 帐户过滤器- Marketo Docs — 产品文档
+description: 帐户过滤器 — Marketo文档 — 产品文档
 title: 帐户过滤器
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
+# 帐户过滤器 {#account-filters}
 
-# 帐户过滤器{#account-filters}
+使用以帐户为中心的新过滤器识别和吸引指定帐户及其中的角色。
 
-使用以帐户为中心的新过滤器识别并吸引指定帐户及其中的角色。
+## TAM过滤器 {#tam-filters}
 
-## TAM过滤器{#tam-filters}
-
-1. 选择您的智能活动，然后单击&#x200B;**智能列表**。
+1. 选择您的智能营销活动并点击 **智能列表**.
 
    ![](assets/one.png)
 
-1. 单击&#x200B;**+**&#x200B;展开&#x200B;**帐户过滤器**&#x200B;文件夹。
+1. 单击 **+** 展开 **帐户过滤器** 文件夹。
 
    ![](assets/two.png)
 
-1. 将要使用的滤镜拖动到画布上。
+1. 将您要使用的过滤器拖到画布上。
 
    ![](assets/three.png)
 
-## 帐户列表{#member-of-account-list}的成员
+## 帐户列表成员 {#member-of-account-list}
 
-要使用此筛选器，请单击帐户列表下拉列表……
+要使用此过滤器，请单击帐户列表下拉列表……
 
 ![](assets/four.png)
 
@@ -41,15 +40,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->对于“帐户成员”列表筛选器，只有一个限定符：“is” — 不提供其他限定符（如“is not”和“is any”）。
+>对于“帐户列表成员”过滤器，只有一个限定符：“is” — 其他限定符（例如“is not”和“is any”）不可用。
 
-## 指定帐户{#member-of-named-account}的成员
+## 指定帐户的成员 {#member-of-named-account}
 
-首先，选择限定符。 **适** 用于特定指定帐户，或 **任** 何指定帐户。
+首先，选择一个限定符。 **是** 指定帐户或 **any** 任何指定帐户。
 
 ![](assets/six.png)
 
-单击指定帐户下拉列表……
+单击命名帐户下拉列表……
 
 ![](assets/seven.png)
 
@@ -57,11 +56,11 @@ ht-degree: 0%
 
 ![](assets/eight.png)
 
-如果您使用“is any”限定符，则可能希望利用[constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)来缩小搜索结果范围。 添加任意所需数量
+如果使用“is any”限定符，则可能需要使用 [约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 来缩小搜索结果的范围。 添加任意所需数量！
 
 ![](assets/nine.png)
 
-如果仅希望来自顶级帐户的成员，请将“包括子项”设置为false。 如果希望来自所有子帐户的成员，请选择“true”。
+如果您只希望来自单个顶级帐户的成员，请将“Include Children”设置为false。 如果希望所有子帐户的成员都来自，请选择true。
 
 ![](assets/ten.png)
 

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360020
-description: 将报表导出到Excel - Marketo Docs — 产品文档
+description: 将报表导出到Excel - Marketo文档 — 产品文档
 title: 将报表导出到Excel
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-
 # 将报表导出到Excel {#export-a-report-to-excel}
 
-您可以将任何报表导出到Excel文件，以处理其他软件中的数据。
+您可以将任何报表导出到Excel文件，以便在其他软件中处理数据。
 
-1. 转至&#x200B;**营销活动**&#x200B;区域。
+1. 转到 **营销活动** 的上界。
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. 从导航树中选择您的报表，然后单击&#x200B;**报表**&#x200B;选项卡。
+1. 从导航树中选择您的报表，然后单击 **报表** 选项卡。
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. 单击&#x200B;**导出**&#x200B;按钮。
+1. 单击 **导出** 按钮。
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -31,4 +30,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >如果下载的文件太大，您可以[更改报告大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。
+   >如果下载的文件太大，您可以 [更改报表大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

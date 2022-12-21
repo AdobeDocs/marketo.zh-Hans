@@ -3,7 +3,8 @@ description: 将电子邮件记录到外部源 — Marketo文档 — 产品文�
 title: 将电子邮件记录到外部源
 hide: true
 hidefromtoc: true
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+exl-id: 1092fe8f-f16a-48d1-810e-04d62e3fbed2
+source-git-commit: f77a076c243c25f3bff98a82751f51c464712795
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%

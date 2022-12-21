@@ -43,7 +43,7 @@ MSI Visualforce面板包含以下功能：
 * 潜在客户移动设备 — 在Salesforce移动设备应用程序中可见
 * 潜在客户联系人桥 — 显示您在MSI联系人ID字段中添加的联系人的MSI面板
 
-字段：
+字段:
 
 * 最后一个有趣的时刻
 * 最后有趣的时刻日期
@@ -68,7 +68,7 @@ MSI Visualforce面板包含以下功能：
 * 联系移动设备 — 在Salesforce移动应用程序中可见
 * 添加到Marketo Campaign联系人页面 — 此面板中提供了添加到Marketo Campaign功能
 
-字段：
+字段:
 
 * 最后一个有趣的时刻
 * 最后有趣的时刻日期
@@ -92,11 +92,11 @@ MSI Visualforce面板包含以下功能：
 * 帐户完整列表 — 不包括“转至完整列表”选项
 * 帐户移动 — 在Salesforce移动应用程序中可见
 
-字段：
+字段:
 
 * 销售分析 — 打开联系人完整列表页面
 
-操作：
+操作:
 
 * 添加到Marketo Campaign
 * 发送Marketo电子邮件
@@ -114,12 +114,12 @@ MSI Visualforce面板包含以下功能：
 * Opportunity Full List — 不包括“转至Full List”选项
 * Opportunity Mobile — 在Salesforce移动应用程序中可见
 
-字段：
+字段:
 
 * 销售分析 — 打开联系人完整列表页面
 * Marketo Opportunity Analysis — 在Marketo打开Opportunity Inflect Analyzer
 
-操作：
+操作:
 
 * 添加到Marketo Campaign
 * 发送Marketo电子邮件

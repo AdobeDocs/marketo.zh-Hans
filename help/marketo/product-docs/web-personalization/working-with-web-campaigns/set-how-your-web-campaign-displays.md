@@ -1,45 +1,44 @@
 ---
 unique-page-id: 12978906
-description: 设置Web活动的显示方式 — Marketo Docs — 产品文档
-title: 设置Web活动的显示方式
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: 设置Web促销活动的显示方式 — Marketo文档 — 产品文档
+title: 设置Web营销活动的显示方式
+exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
+# 设置Web营销活动的显示方式 {#set-how-your-web-campaign-displays}
 
-# 设置Web活动显示{#set-how-your-web-campaign-displays}的方式
+关于Web营销活动的显示时间/显示方式，有多种方法可供使用。
 
-在何时/如何显示Web活动方面，有几种方法可用。
+## 页面加载 {#page-load}
 
-## 页面加载{#page-load}
-
-默认情况下，此选项仅在页面加载时显示活动。
+默认情况下选中此选项，此选项仅在页面加载时显示营销活动。
 
 ![](assets/pl1.png)
 
-## 延迟{#delay}
+## 延迟 {#delay}
 
-指定时间延迟（总秒），让Web活动在您的网站上做出响应。
+指定Web营销活动在您的网站上做出反应的时间延迟（以总秒为单位）。
 
-1. 单击&#x200B;**显示在**&#x200B;下拉框并选择&#x200B;**延迟**。
+1. 单击 **显示于** 下拉框并选择 **延迟**.
 
    ![](assets/d1.png)
 
-1. 单击&#x200B;**等待**&#x200B;下拉框并选择所需的时间。
+1. 单击 **等待** 下拉菜单，然后选择所需的时间。
 
    ![](assets/d2.png)
 
-## 滚动{#scroll}
+## 滚动 {#scroll}
 
-1. 单击&#x200B;**显示在**&#x200B;下拉框，然后选择&#x200B;**滚动**。
+1. 单击 **显示于** 下拉框并选择 **滚动**.
 
    ![](assets/s1.png)
 
-1. 单击&#x200B;**When**&#x200B;下拉框，然后选择您希望Web活动显示的时间。
+1. 单击 **When** 下拉菜单，然后选择您希望何时显示Web营销活动。
 
    ![](assets/s2.png)
 
@@ -47,31 +46,31 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>折下</strong></td> 
-   <td>当访客滚动到折页下方时显示活动。 活动在访客滚回折叠上方时消失。</td> 
+   <td>当访客在折页下方滚动时显示营销活动。 当访客回滚到折页上方时，Campaign会消失。</td> 
   </tr> 
   <tr> 
    <td><strong>百分比</strong></td> 
-   <td>当访客滚动到页面的预定百分比时显示活动。</td> 
+   <td>当访客滚动到页面的预定百分比时显示促销活动。</td> 
   </tr> 
   <tr> 
    <td><strong>像素</strong></td> 
-   <td><p>当访客滚动到页面上预先指定的顶像素时显示活动。</p></td> 
+   <td><p>当访客滚动到页面上预先指定的顶部像素时，显示营销活动。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## 退出方法{#exit-intent}
+## 退出意图 {#exit-intent}
 
-退出方法将在鼠标光标退出浏览器时显示Web活动。
+退出意图将在鼠标光标退出浏览器时显示Web营销活动。
 
-1. 单击&#x200B;**显示**&#x200B;下拉框，然后选择&#x200B;**退出方法**。
+1. 单击 **显示于** 下拉框并选择 **退出意图**.
 
    ![](assets/ei1.png)
 
-1. 出现一条消息，提醒您“退出方法”与移动设备不兼容。
+1. 出现一条消息，提醒您“退出意图”与移动设备不兼容。
 
    ![](assets/ei2.png)
 
 >[!TIP]
 >
->想了解您选择的效果将如何提前呈现？ 通过[Web活动预览](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)查看它们。
+>想看看您选择的效果会如何提前显示吗？ 通过 [Web营销活动预览](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

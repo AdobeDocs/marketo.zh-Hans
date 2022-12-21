@@ -1,45 +1,44 @@
 ---
 unique-page-id: 10098242
-description: 禁用社交表单填写——营销文档——产品文档
+description: 禁用社交表单填写 — Marketo文档 — 产品文档
 title: 禁用社交表单填写
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
+# 禁用社交表单填写 {#disable-social-form-fill}
 
-# 禁用社交表单填写{#disable-social-form-fill}
-
-有时，您不再希望网站访客使用社交用户档案提交表单。 下面介绍如何禁用它。
+有时，您不再希望网站访客使用社交配置文件提交表单。 下面是如何禁用它。
 
 >[!AVAILABILITY]
 >
 >并非所有客户都购买了此功能。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到 **营销活动**.
 
    ![](assets/login-marketing-activities-10.png)
 
-1. 选择表单，然后单击&#x200B;**编辑表单**。
+1. 选择您的表单并单击 **编辑表单**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. 在“表单设置”下，单击&#x200B;**设置**。
+1. 在表单设置下，单击 **设置**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
-1. 清除您不想包含的社交网络的复选框。
+1. 清除您不希望包含的社交网络的复选框。
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. 单击&#x200B;**完成**。
+1. 单击 **完成**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. 单击&#x200B;**批准并关闭**。
+1. 单击 **批准并关闭**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

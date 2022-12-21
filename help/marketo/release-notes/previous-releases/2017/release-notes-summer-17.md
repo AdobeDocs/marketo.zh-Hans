@@ -42,7 +42,7 @@ LeanData集成现在允许在Marketo中进行潜在客户到帐户匹配。 通�
 
 **[促销活动预览增强功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-营销从业者现在可以确保在&#x200B;*启动设备之前，他们的Web营销活动在任何设备上都会非常出色。*&#x200B;通过这些增强功能，可了解您的Web营销活动在桌面、移动设备和平板电脑上的呈现方式。 适用于Chrome的新插件还提供了更一致、更准确的预览。
+营销从业者现在可以确保他们的Web营销活动在任何设备上都会非常出色 *之前* 启动它们。 通过这些增强功能，可了解您的Web营销活动在桌面、移动设备和平板电脑上的呈现方式。 适用于Chrome的新插件还提供了更一致、更准确的预览。
 
 **[小组件Campaign增强功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 

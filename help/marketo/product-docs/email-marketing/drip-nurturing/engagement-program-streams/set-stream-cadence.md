@@ -1,91 +1,90 @@
 ---
 unique-page-id: 2359665
-description: 设置流序- Marketo Docs —— 产品文档
-title: 设置流节奏
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 设置流频率 — Marketo文档 — 产品文档
+title: 设置流频率
+exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
+# 设置流频率 {#set-stream-cadence}
 
-# 设置流节奏{#set-stream-cadence}
+您可以按任意所需的间隔发送参与内容。 例如：每周一次，或每月每三分之一的星期二。
 
-您可以按任意时间间隔发送参与内容。 例如：每周一次，或每三个星期二一次。
+## 设置频度 {#set-cadence}
 
-## 设置节奏{#set-cadence}
-
-1. 转到&#x200B;**营销活动**。
+1. 转到 **营销活动**.
 
    ![](assets/login-marketing-activities.png)
 
-1. 查找并选择您的参与项目，单击&#x200B;**流**&#x200B;选项卡，然后单击&#x200B;**设置流节奏**。
+1. 查找并选择您的参与计划，单击 **流** ，然后单击 **设置流频率**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. 选择希望节奏重复的频率。 您可以选择&#x200B;**Weekly**&#x200B;或&#x200B;**Monthly**。
+1. 选择希望频度重复的频率。 您可以选择 **每周** 或 **每月**.
 
-## 每周{#weekly}
+## 每周 {#weekly}
 
-1. 选择&#x200B;**每周**。
+1. 选择 **每周**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >选择&#x200B;**无**&#x200B;将关闭流。
+   >选择 **无** 会把溪流关掉。
 
-1. 选择第一次演出的日期。
+1. 选择第一次投票的日期。
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. 现在，选择您希望节奏每周发生一次还是间隔更长。 我们每两周选一次。
+1. 现在，选择您希望每周发生一次，还是间隔更远。 我们每两周选一次。
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. 确定一周的哪几天。 在这个例子中，我们在星期二、星期三和星期四进行。
+1. 决定一周中的哪几天。 在本例中，我们将在星期二、星期三和星期四执行。
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
    >[!TIP]
    >
-   >您可以通过选择&#x200B;**重复：每周** / **每：1周** / **开启**:所有日子。
+   >您可以通过选择 **重复：每周** / **每：1周** / **开**:整天。
 
-   现在选择时间。 如果要使用[收件人时区](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（即，根据本地时区传送），请选中此框，然后单击&#x200B;**保存**。
+   现在选时间。 如果要使用，请勾选方框 [收件人时区](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（即，根据当地时区交付），然后单击 **保存**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
    >
-   >内容将在您为第一次播放选择的日期发布，因此请确保它与您选择的周的日期一致；否则第一周会出两次。
+   >内容将在您为首次播放选择的日期发出，因此请确保内容与您选择的一周中的某一天一致；否则，第一周就会出两次。
 
-1. 将指针悬停在节奏上。 你会看到未来的日子。
+1. 将鼠标悬停在频率上。 你会看到未来的投票日期。
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >在此示例中，将在星期四发出电子邮件。 然后，我们跳过一周，在下周的星期二、星期三和星期四再次发送。 然后我们再次循环。
+   >在本例中，星期四将发出一封电子邮件。 然后，我们跳过一周，并在下周的星期二、星期三和星期四再次发送。 然后我们再次循环。
 
-就这样！ 如果要设置月度节奏，请继续阅读。
+就这样！ 如果要设置每月频率，请继续阅读。
 
-## 每月{#monthly}
+## 每月 {#monthly}
 
-1. 选择&#x200B;**月度**&#x200B;以确定其重复频率。
+1. 选择 **每月** 重复的频率。
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
-1. 选择第一次演出的日期。
+1. 选择第一次投票的日期。
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. 选择是否希望它每月间隔更长……我们每四个月选一次。
+1. 选择希望它每月或更多间隔……我们每四个月选一次。
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
-1. 选择指定月份的哪一天，在这种情况下为每四个月的22天。
+1. 选择指定的月份的哪个日期，在此例中为每四月的22日。
 
    ![](assets/image2014-9-15-16-3a29-3a51.png)
 
@@ -93,22 +92,22 @@ ht-degree: 0%
    >
    >或者，您也可以选择一周中的某一天。
 
-1. 选择&#x200B;**Time**&#x200B;并单击&#x200B;**保存**。
+1. 选择 **时间** 单击 **保存**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. 将指针悬停在节奏上。 你会看到未来的日子。
+1. 将鼠标悬停在频率上。 你会看到未来的投票日期。
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
    >[!CAUTION]
    >
-   >如果您决定稍后修改参与流节奏，请确保将第一个播放设置为将来的日期。
+   >如果您决定稍后修改参与流频率，请确保将首次播放设置为将来的日期。
 
-现在你知道如何设置流节奏了！
+现在你知道如何设置流频率！
 
 >[!MORELIKETHIS]
 >
 >* [了解收件人时区](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [计划项目与收件人时区](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [按收件人时区计划参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 

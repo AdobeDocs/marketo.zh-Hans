@@ -1,51 +1,50 @@
 ---
 unique-page-id: 2360057
-description: 活动活动报告 — Marketo Docs — 产品文档
-title: 活动活动报告
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: 促销活动报表 — Marketo文档 — 产品文档
+title: 促销活动报表
+exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# 促销活动报表 {#campaign-activity-report}
 
-# 活动活动报告{#campaign-activity-report}
+了解您的 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) 正在执行。
 
-了解您的[智能活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)的执行情况。
+1. [创建报表](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，然后选择 **营销活动** [报表类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [创建报](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 表，然后选择 **活动** [活动报表类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [设置报表的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然后单击 **报表** 选项卡。
 
-1. [设置报表的时间范](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 围，然后单击报 **** 表标签。
-
-1. 太棒了！ 浏览您的报告，确定按活动类型分组的最有效活动。
+1. 太棒了！ 浏览报表，确定按营销活动类型分组的最有效营销活动。
 
    ![](assets/image2014-9-16-16-3a8-3a45.png)
 
    >[!TIP]
    >
-   >要查找处理最多人的活动，例如，在&#x200B;_已处理人员总数_&#x200B;上对报表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)排序，然后选择&#x200B;**降序排序**。[
+   >例如，要查找处理了最多人员的营销活动， [排序报表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on _已处理的人员总数_ 选择 **降序排序**.
 
-   单击智能活动的名称以将其打开。  [您可以为活动](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 活动报表选择的列包括：
+   单击智能营销活动的名称以将其打开。  [可以选择的列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 对于促销活动报表，包括：
 
-   | 列 | 说明 |
+   | 列 | 描述 |
    |---|---|
-   | 批处理运行计数 | 运行活动的次数。 |
-   | 已处理人员总数 | 通过活动流的人数。 |
-   | 等待步骤中的人 | 如果活动仍在运行，则在&#x200B;*等待*&#x200B;步骤中保留的人数。 |
-   | 从流中删除 | 已从活动中删除的人数。 |
-   | 上次活动 | 活动上次处理人员的时间。 |
+   | 批量运行计数 | 营销活动运行的次数。 |
+   | 已处理的人员总数 | 已通过营销活动流程的人数。 |
+   | 等待步骤中的人员 | 如果营销活动仍在运行，则 *等待* 中。 |
+   | 从流中删除 | 已从营销活动中删除的人数。 |
+   | 上次活动 | 营销活动上次处理人员的时间。 |
 
-   活动类型：
+   报表中的促销活动类型：
 
-   | 类型 | 说明 |
+   | 类型 | 描述 |
    |---|---|
-   | 批 | **营销活动**&#x200B;选项卡中的批活动。 |
-   | 运行操作 | 从&#x200B;**Database**&#x200B;运行人员操作。 |
-   | 已触发（活动） | **营销活动**&#x200B;选项卡中当前触发的活动。 |
-   | 已触发（非活动） | 在&#x200B;**营销活动**&#x200B;选项卡中触发的非活动活动。 |
+   | 批次 | 在 **营销活动** 选项卡。 |
+   | 运行操作 | 人员操作从 **数据库**. |
+   | 已触发（活动） | 中的当前触发的营销活动 **营销活动** 选项卡。 |
+   | 已触发（不活动） | 在 **营销活动** 选项卡。 |
 
    >[!MORELIKETHIS]
    >
-   >[筛选活动活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
+   >[过滤营销活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)

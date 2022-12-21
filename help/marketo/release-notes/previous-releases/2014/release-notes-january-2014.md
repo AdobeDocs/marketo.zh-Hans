@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 发行说明：2014年1月 {#release-notes-january}
 
-2014年1月版中包含以下功能。 请查看您的[Marketo版](https://www.marketo.com/pricing/)以了解功能的可用情况。
+2014年1月版中包含以下功能。 请检查您的 [Marketo版](https://www.marketo.com/pricing/) 功能可用性。
 
 ## Forms 2.0 {#forms}
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **给你的Forms改头换面：**
 
-主题设计、按钮自定义和灵活的布局使您能够设计适合您网站外观的现代化外观表单。
+主题设计、按钮自定义和灵活的布局使您能够设计出适合您网站外观的现代外观表单。
 
 **条件可见性和后续页面逻辑：**
 
@@ -40,12 +40,12 @@ ht-degree: 0%
 
 ## 电子邮件程序的通信限制 {#communication-limits-for-email-program}
 
-[设置电子邮件程序的](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) 通信限制，以确保您不会与数据库过度通信。如果某人超过定义的限制，她将不会收到该电子邮件。
+[设置电子邮件程序的通信限制](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) 以确保不要与数据库过度通信。 如果某人超过定义的限制，她将不会收到该电子邮件。
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## 计划成员资格分析中的其他字段 {#additional-fields-in-program-membership-analysis}
 
-现在，您可以按潜在客户和公司属性添加和分组您的[项目成员资格分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)量度。 例如，您可以添加行业字段，以查看项目成员和成功案例的拆分。
+现在，您可以添加和分组 [计划成员资格分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 按潜在客户和公司属性的量度。 例如，您可以添加行业字段，以查看项目成员和成功案例的拆分。
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

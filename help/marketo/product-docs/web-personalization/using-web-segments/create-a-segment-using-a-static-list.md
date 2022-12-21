@@ -1,25 +1,24 @@
 ---
 unique-page-id: 13795536
-description: 使用静态列表创建区段 — Marketo Docs — 产品文档
+description: 使用静态列表创建区段 — Marketo文档 — 产品文档
 title: 使用静态列表创建区段
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
+# 使用静态列表创建区段 {#create-a-segment-using-a-static-list}
 
-# 使用静态列表{#create-a-segment-using-a-static-list}创建段
+在已知Web访客访问您的网站时，根据他们是否位于您的某个Marketo中 [静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
 
-当已知Web访客访问您的网站时，根据他们是否在您的Marketo [静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)中细分这些。
-
-1. 转至&#x200B;**区段**。
+1. 转到 **区段**.
 
    ![](assets/1.jpg)
 
-1. 单击&#x200B;**新建**。
+1. 单击 **新建**.
 
    ![](assets/two.png)
 
@@ -27,26 +26,26 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在“已知潜在客户”中，将&#x200B;**静态列表**&#x200B;拖到画布上。
+1. 在已知潜在客户中，拖动 **静态列表** 到画布上。
 
    ![](assets/four-2.png)
 
-1. 单击下拉框以选择&#x200B;**is**&#x200B;或&#x200B;**is not**（取决于所需内容），并键入静态列表的名称。
+1. 单击下拉菜单以选择 **is** 或 **不是** （具体取决于您需要的内容），然后键入静态列表的名称。
 
    ![](assets/five-2.png)
 
-1. 如果要添加多个列表，则需要通过单击&#x200B;**+**&#x200B;为每个字符创建新行。 如果您只想要一个列表，请跳到[步骤8](#eight)。
+1. 如果要添加多个列表，您需要通过单击 **+**. 如果您只想要一个列表，请跳到 [步骤8](#eight).
 
    ![](assets/six-1.png)
 
-1. 对于多个列表(或多个“is not”列表)，重复您在[步骤5](#five)中学习的步骤。
+1. 对于多个列表（或多个“不”列表），重复您在 [步骤5](#five).
 
    ![](assets/seven-2.png)
 
    >[!NOTE]
    >
-   >和/或下拉就是这样。 单击它可选择&#x200B;**和**、**或**&#x200B;或&#x200B;**和/或**。
+   >和/或下拉列表就是这样。 单击它以选择 **和**, **或**&#x200B;或 **和/或**.
 
-1. 单击&#x200B;**保存**&#x200B;以保存区段，或单击&#x200B;**保存并定义活动**&#x200B;以保存并转到活动页。
+1. 单击 **保存** 保存区段或 **保存并定义营销活动** 保存并转到“营销活动”页面。
 
    ![](assets/eight-1.png)

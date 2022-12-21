@@ -3,7 +3,8 @@ description: “人员详细信息”页面中的单流程操作 — Marketo文�
 title: “人员详细信息”页面中的单一流量操作
 hide: true
 hidefromtoc: true
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 除了在智能列表中运行单个流量操作之外，您还可以直接在人员详细信息页面上运行它们。
 
-1. 单击&#x200B;**Database**。
+1. 单击 **数据库**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -22,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. 单击&#x200B;**人员操作**&#x200B;下拉列表，然后选择所选的流程步骤。 在本例中，我们将使用[发送电子邮件](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)。
+1. 单击 **人员操作** 下拉菜单，然后选择所选的流程步骤。 在本例中，我们将使用 [发送电子邮件](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. 选择所需的电子邮件，然后单击&#x200B;**立即运行**。
+1. 选择所需的电子邮件并单击 **立即运行**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 

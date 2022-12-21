@@ -67,7 +67,7 @@ When [添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs
    >
    >Marketo仅允许通过此电子邮件程序发送电子邮件的人员使用触发器/过滤器，因此无需添加“已发送电子邮件”过滤器。 此外，在使用与电子邮件相关的触发器/过滤器时，请确保使用“is any”作为运算符。
 
-1. 单击 **关闭**.
+1. 单击&#x200B;**关闭**。
 
    ![](assets/image2014-9-12-15-3a53-3a36.png)
 

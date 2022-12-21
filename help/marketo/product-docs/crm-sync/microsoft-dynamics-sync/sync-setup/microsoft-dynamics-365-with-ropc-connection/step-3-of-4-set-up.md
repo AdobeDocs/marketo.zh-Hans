@@ -1,7 +1,8 @@
 ---
 description: 第3步（共4步） — 在MS Dynamics中设置客户端应用程序 — Marketo文档 — 产品文档
 title: 第3步（共4步） — 在MS Dynamics上设置客户端应用程序
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
+source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%

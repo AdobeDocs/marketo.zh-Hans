@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->在启用了[SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)（单点登录）的订阅中，帐户分析插件将不起作用。
+>“帐户分析”插件不适用于已 [仅SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) （单点登录）启用。
 
 >[!CAUTION]
 >
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 ![](assets/af1.png)
 
-单击&#x200B;**Filter**&#x200B;下拉列表，按不同的活动类型进行筛选。
+单击 **过滤器** 下拉列表按不同的活动类型进行过滤。
 
 ![](assets/af2.png)
 
@@ -81,5 +81,5 @@ ht-degree: 0%
 很酷的东西！
 
 >[!MORELIKETHIS]
-[设置帐户分析](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
+>[设置帐户分析](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

@@ -5,7 +5,7 @@ exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -100,7 +100,7 @@ _**状态：待定**_
   <td><strong>描述</strong></td>
  </tr>
  <tr>
-  <td><strong>已计划</strong></td>
+  <td><strong>已安排</strong></td>
   <td>已从撰写窗口（Salesforce或Web应用程序）、电子邮件插件或营销活动计划的电子邮件。</td>
  </tr>
  <tr>

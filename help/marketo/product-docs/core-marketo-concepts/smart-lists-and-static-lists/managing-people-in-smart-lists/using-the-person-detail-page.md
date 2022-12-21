@@ -6,7 +6,7 @@ exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 13%
+ht-degree: 19%
 
 ---
 
@@ -74,11 +74,11 @@ ht-degree: 13%
 |---|---|---|---|---|
 | 地址 | 年营业额 | 匿名IP | 帐单寄送地址 | 帐单寄送城市 |
 | 帐单寄送国家 | 帐单邮政编码 | 帐单寄送州 | 城市 | 公司名称 |
-| 国家 | 创建时间 | 出生日期 | 部门 | 请勿来电 |
+| 国家 | 创建于 | 出生日期 | 部门 | 请勿来电 |
 | 不调用原因 | 请勿来电的理由 | 电子邮件地址 | 电子邮件无效 | 电子邮件无效原因 |
-| 外部公司Id | 外部销售人员Id | 传真号码 | 名 | 全名 |
-| 行业 | 推断城市 | 推断公司 | 推断国家 | 推断的都市区 |
-| 推断出的电话区号 | 推断邮政编码 | 推断的州区 | 是匿名的 | 是客户 |
+| 外部公司Id | 外部销售人员 ID | 传真号码 | 名 | 全名 |
+| 行业 | 推断的城市 | 推断公司 | 推断国家 | 推断的都市区 |
+| 推断的电话区号 | 推断的邮政编码 | 推断的状态区域 | 是匿名的 | 是客户 |
 | 是合作伙伴 | 职务 | 姓 | 评级 | 得分 |
 | 人员来源 | 状态 | 主要电话 | Marketo Social Facebook显示名称 | Marketo Social Facebook Id |
 | Marketo Social Facebook照片URL | Marketo Social Facebook配置文件URL | Marketo Social Facebook访问 | Marketo Social Facebook引荐登记 | Marketo Social Facebook引荐的访问 |
@@ -86,7 +86,7 @@ ht-degree: 13%
 | Marketo Social LinkedIn照片URL | Marketo Social LinkedIn配置文件URL | Marketo Social LinkedIn访问 | Marketo Social LinkedIn引荐登记 | Marketo Social LinkedIn引荐的访问 |
 | Marketo Social整合ID | Marketo Social引荐登记总数 | Marketo Social引荐访问总数 | Marketo Social Twitter显示名称 | Marketo Social Twitter Id |
 | Marketo Social Twitter照片URL | Marketo Social Twitter配置文件URL | Marketo Social Twitter访问 | Marketo Social Twitter引荐登记 | Marketo Social Twitter引荐的访问 |
-| 中间名 | 手机号码 | 员工数 | 电话号码 | 邮政编码 |
+| 中间名称 | 手机号码 | 员工数 | 电话号码 | 邮政编码 |
 | 优先级 | 相对分数 | 职位 | 称谓 | 标准产业分类(SIC)代码 |
 | 现场 | 州 | 退订 | 退订原因 | 更新日期： |
 | 紧急 | 网站 |  |  |  |

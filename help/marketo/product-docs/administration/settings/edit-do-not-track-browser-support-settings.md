@@ -1,9 +1,8 @@
 ---
 unique-page-id: 6095047
-description: 编辑“不跟踪”浏览器支持设置 — Marketo Docs — 产品文档
+description: 编辑“不跟踪”浏览器支持设置 — Marketo文档 — 产品文档
 title: 编辑“不跟踪”浏览器支持设置
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
@@ -11,31 +10,31 @@ ht-degree: 0%
 
 ---
 
-# 编辑“不跟踪”浏览器支持设置{#edit-do-not-track-browser-support-settings}
+# 编辑“不跟踪”浏览器支持设置 {#edit-do-not-track-browser-support-settings}
 
-“不跟踪”是在Marketo等系统中不跟踪的浏览器请求。 您可以按照以下步骤执行该请求。
-
->[!NOTE]
->
->**需要管理权限**
+“不跟踪”是在Marketo等系统中不跟踪的浏览器请求。 您可以通过以下步骤执行该请求。
 
 >[!NOTE]
 >
->默认情况下，“不跟踪”将设置为“忽略”，因此，如果这是您想要的，则无需执行任何步骤。
+>**需要管理员权限**
 
-1. 单击&#x200B;**管理员**。
+>[!NOTE]
+>
+>默认情况下，“不跟踪”将设置为“忽略”，因此如果这是您想要的，则无需执行任何步骤。
+
+1. 单击 **管理员**.
 
    ![](assets/one.png)
 
-1. 单击&#x200B;**Munchkin**。
+1. 单击 **蒙奇金**.
 
    ![](assets/two.png)
 
-1. 在&#x200B;**人员跟踪**&#x200B;下，单击&#x200B;**编辑**。
+1. 在 **人员跟踪**，单击 **编辑**.
 
    ![](assets/three-2.png)
 
-1. 选择&#x200B;**Support**&#x200B;并单击&#x200B;**保存**。
+1. 选择 **支持** 单击 **保存**.
 
    ![](assets/four-1.png)
 
@@ -49,4 +48,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要了解有关“不跟踪”及其工作原理的更多信息，请访问[此页](https://en.wikipedia.org/wiki/Do_Not_Track)。
+   >要进一步了解“不跟踪”及其工作方式，请访问 [本页](https://en.wikipedia.org/wiki/Do_Not_Track).

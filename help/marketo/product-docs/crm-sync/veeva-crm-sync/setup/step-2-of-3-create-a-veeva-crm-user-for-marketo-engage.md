@@ -5,7 +5,7 @@ exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
 source-wordcount: '636'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -49,13 +49,13 @@ ht-degree: 0%
 
 1. 对以下字段重复上述步骤：
 
-   * 推断城市
+   * 推断的城市
    * 推断公司
    * 推断国家
    * 推断的都市区
-   * 推断出的电话区号
-   * 推断邮政编码
-   * 推断的州区
+   * 推断的电话区号
+   * 推断的邮政编码
+   * 推断的状态区域
 
    >[!NOTE]
    >
@@ -162,7 +162,7 @@ ht-degree: 0%
    <td>类型字段</td>
   </tr>
   <tr>
-   <td>事件</td>
+   <td>Event</td>
    <td>所有字段</td>
   </tr>
   <tr>

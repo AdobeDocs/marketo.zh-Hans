@@ -5,8 +5,8 @@ title: 将Google客户匹配项添加为LaunchPoint服务
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 source-git-commit: df14ed3fb815a6d4fa0fe30435ff076c05798e39
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '195'
+ht-degree: 2%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 输入 **显示名称** 选择 **Google客户匹配** 从 **服务** 下拉菜单。 单击 **创建**.
+1. 输入 **显示名称** 选择 **Google客户匹配** 从 **服务** 下拉菜单。 单击&#x200B;**创建**。
 
    ![](assets/chooseservice.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
    ![](assets/reviewpermissions.png)
 
-1. 您的Google AdWords帐户现已连接到Marketo。 单击 **创建**.
+1. 您的Google AdWords帐户现已连接到Marketo。 单击&#x200B;**创建**。
 
    ![](assets/authorizesuccess.png)
 

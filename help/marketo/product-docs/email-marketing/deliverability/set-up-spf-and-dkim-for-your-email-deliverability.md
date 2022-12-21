@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **如果您的域中没有SPF记录**
 
-请要求网络管理员将以下行添加到您的DNS条目。 替换 [域] (例如， &quot;company.com&quot;)和 [corpIP] ，例如 “255.255.255.255”)。 如果您通过Marketo从多个域发送电子邮件，则应将其添加到每个域（在一行上）。
+请要求网络管理员将以下行添加到您的DNS条目。 替换 [域] (例如， &quot;company.com&quot;)和 [corpIP] ，例如 &quot;255.255.255.255&quot;). 如果您通过Marketo从多个域发送电子邮件，则应将其添加到每个域（在一行上）。
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 

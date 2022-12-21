@@ -32,15 +32,15 @@ ht-degree: 0%
 
 ## 如何区分业务帐户和人员帐户？ {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-在智能列表中使用&#x200B;**是人员帐户**&#x200B;过滤器，将人员帐户与标准业务帐户分开。
+使用 **是人员帐户** 在智能列表中进行筛选，以将个人帐户与标准业务帐户分开。
 
 ## 我的人员帐户信息在Marketo Sales Insight中显示在哪里？ {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-与人员帐户相关的活动显示在&#x200B;**帐户**&#x200B;面板中。
+与人员帐户相关的活动显示在 **帐户** 的上界。
 
 >[!NOTE]
 >
->Marketo Sales Insight的&#x200B;**添加到Marketo Campaign**&#x200B;和&#x200B;**发送电子邮件**&#x200B;选项当前不适用于人员帐户。
+>Marketo Sales Insight的 **添加到Marketo Campaign** 和 **发送电子邮件** 当前不适用于个人帐户的选项。
 
 ## 如何将机会与个人帐户关联？ {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -48,4 +48,4 @@ Marketo取决于机会联系角色来确定要将机会关联到的人员。 您
 
 ## 我应该将哪个电子邮件字段用于个人帐户？ {#which-email-field-should-i-use-for-person-accounts}
 
-个人帐户有两个电子邮件字段。 使用表单中的&#x200B;**电子邮件地址**&#x200B;字段（而不是&#x200B;**人员电子邮件地址**），确保Marketo的重复数据删除和其他电子邮件处理正常工作。
+个人帐户有两个电子邮件字段。 使用 **电子邮件地址** 字段(而非 **人员电子邮件地址**)以确保Marketo的重复数据删除和其他电子邮件处理正常工作。

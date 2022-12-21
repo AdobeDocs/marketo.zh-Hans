@@ -3,7 +3,8 @@ description: 了解内容选项卡 — Marketo文档 — 产品文档
 title: 了解“内容”选项卡
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%

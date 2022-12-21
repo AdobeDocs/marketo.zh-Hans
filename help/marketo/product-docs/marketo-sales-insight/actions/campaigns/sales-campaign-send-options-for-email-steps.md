@@ -3,10 +3,11 @@ description: 适用于电子邮件步骤的Sales Campaign发送选项 — Market
 title: 用于电子邮件步骤的Sales Campaign发送选项
 hide: true
 hidefromtoc: true
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+exl-id: c8a21eff-3cab-4555-88d7-94bc4fce9365
+source-git-commit: 9193b1c0c051a16efb6a34f870a694bab309f72b
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

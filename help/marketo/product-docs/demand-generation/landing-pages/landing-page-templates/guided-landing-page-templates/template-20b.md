@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板20B {#template-20b}
 
-右键单击[下载模板20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+右键单击 [下载模板20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
 
 ![](assets/template-20b.png)
 

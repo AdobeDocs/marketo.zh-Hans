@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 只需单击一次，即可上传多个图像和文件！ {#upload-multiple-images-and-files-with-a-single-click}
 
-在将图像和文件导入Marketo时，节省时间并提高效率！ 如果您使用Firefox或Google Chrome，则可以多选文件并一次上传所有文件。 尽管可以上载的文件数量没有限制，但每个文件的大小限制为50MB。
+在将图像和文件导入Marketo时，节省时间并提高效率！ 如果您使用Firefox或Google Chrome，则可以多选文件并一次上传所有文件。 虽然可以上载的文件数量没有限制，但每个文件的大小限制为50MB。
 
 注意：目前，Internet Explorer不支持此功能，因为浏览器存在限制。
 

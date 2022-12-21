@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147124
-description: 使用资产选项卡 — Marketo Docs — 产品文档
-title: 使用资产选项卡
+description: 使用资产选项卡 — Marketo文档 — 产品文档
+title: 使用“资产”选项卡
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
@@ -11,25 +10,25 @@ ht-degree: 0%
 
 ---
 
-# 使用资产选项卡{#using-the-assets-tab}
+# 使用“资产”选项卡 {#using-the-assets-tab}
 
-资产画布是您的项目的可视表示形式。 您可以使用它添加本地资源并与现有资源交互。
+资产画布是程序的可视表示形式。 您可以使用它添加本地资产，并与现有资产进行交互。
 
-## 添加资产{#adding-assets}
+## 添加资产 {#adding-assets}
 
-从&#x200B;**营销活动**&#x200B;区域，单击&#x200B;**资产**&#x200B;选项卡。 选择以下任意资产，然后将其添加到您的项目。
+从 **营销活动** 区域，单击 **资产** 选项卡。 选择下面的任意资产，并将其添加到您的项目中。
 
 ![](assets/programassets.png)
 
-## 管理项目{#manage-your-program}
+## 管理您的计划  {#manage-your-program}
 
-当您的项目中有资产时，您会在此处看到这些资产。
+当您的项目中包含资产时，您将在此处看到这些资产。
 
-| 橙色 | 触发活动 |
+| 橙色 | 触发营销活动 |
 |---|---|
-| 绿色 | 批活动 |
+| 绿色 | 批量营销活动 |
 
-如果您希望与该资产交互，可以右键单击该标题。
+如果要与资产进行交互，可以右键单击标题。
 
 ![](assets/assetsprefilled.png)
 
@@ -37,8 +36,8 @@ ht-degree: 0%
 >
 >拖放以重新排列资产列。
 
-不是您的项目的本地资源将如下所示：
+您的程序不是本地的资产将如下所示：
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 
-“资源”选项卡是项目中所有内容和引用的绝佳仪表板。
+“资产”选项卡是一个功能板，可用于项目内部和引用的所有内容。

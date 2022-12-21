@@ -6,7 +6,7 @@ exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 33%
+ht-degree: 39%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 33%
 
 | SFDC字段 | Marketo字段 |
 |---|---|
-| 年营业额 | 年营业额 |
+| 年收入 | 年收入 |
 | 城市 | 城市 |
 | 公司 | 公司名称 |
-| 转换日期 | SFDC转换日期 |
+| 转换日期 | SFDC 转化日期 |
 | 国家 | 国家 |
 | 创建日期 | SFDC创建日期 |
 | 描述 | 人员说明 |
@@ -76,7 +76,7 @@ ht-degree: 33%
 
 | SFDC字段 | Marketo字段 |
 |---|---|
-| 年营业额 | 年营业额 |
+| 年收入 | 年收入 |
 | 帐单寄送城市 | 帐单寄送城市 |
 | 帐单寄送国家 | 帐单寄送国家 |
 | 帐单邮政编码 | 帐单邮政编码 |
@@ -88,9 +88,9 @@ ht-degree: 33%
 | 帐户名称 | 公司名称 |
 | 员工 | 员工数 |
 | 帐户电话 | 主要电话 |
-| 标准产业分类(SIC)代码 | 标准产业分类(SIC)代码 |
-| 帐户网站 | 现场 |
-| 帐户类型 | SFDC类型 |
+| SIC 代码 | SIC 代码 |
+| 帐户网站 | 网站 |
+| 帐户类型 | SFDC 类型 |
 | 网站 | 网站 |
 
 ## Marketo中与Salesforce相关的系统字段（只读） {#salesforce-related-system-fields-in-marketo-read-only}
@@ -100,6 +100,6 @@ ht-degree: 33%
 | 字段 | 描述 |
 |---|---|
 | SFDC Id | 18个字符的Salesforce Id |
-| SFDC类型 | 潜在客户或联系人。 如果为空，则潜在客户仅作为人员存在在Marketo |
+| SFDC 类型 | 潜在客户或联系人。 如果为空，则潜在客户仅作为人员存在在Marketo |
 | SFDC创建日期 | 在SFDC中创建的日期(可以与在Marketo中创建的日期不同) |
 | SFDC已删除 | 以前在SFDC工作的人员已被删除，现在只能在Marketo工作 |

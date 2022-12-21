@@ -5,7 +5,7 @@ title: Microsoft Dynamics同步 — 潜在客户同步
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -44,4 +44,4 @@ Marketo到Dynamics的同步功能非常强大。 以下是详细信息：
 
 ## Marketo是否会遵守Dynamics验证规则？ {#will-marketo-respect-the-dynamics-validation-rules}
 
-是的。 如果数据格式错误或缺少必填字段信息，则同步将失败。 如果发生这种情况，Marketo会在人员的活动日志中记录结果。
+是. 如果数据格式错误或缺少必填字段信息，则同步将失败。 如果发生这种情况，Marketo会在人员的活动日志中记录结果。

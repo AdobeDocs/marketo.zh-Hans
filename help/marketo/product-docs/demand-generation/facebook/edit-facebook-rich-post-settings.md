@@ -1,63 +1,62 @@
 ---
 unique-page-id: 2950555
-description: 编辑Facebook富帖子设置——营销文档——产品文档
+description: 编辑Facebook富帖子设置 — Marketo文档 — 产品文档
 title: 编辑Facebook富帖子设置
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
-
-# 编辑Facebook富帖子设置{#edit-facebook-rich-post-settings}
+# 编辑Facebook富帖子设置 {#edit-facebook-rich-post-settings}
 
 在用户在Facebook上共享您时自定义帖子。
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请与销售代表联系。
+>并非所有客户都购买了此功能。 有关详细信息，请联系您的销售代表。
 
-Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)允许您的潜在客户在Facebook、Twitter等社交网络上与其连接共享登陆页。 Facebook OpenGraph标记（OG标记）允许您指定Facebook帖子中包含来自登陆页的信息。
+Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) 允许您的潜在客户在Facebook、Twitter等社交网络上与他们的连接共享您的登陆页面。 Facebook OpenGraph标记（OG标记）允许您指定登陆页面中的哪些信息包含在Facebook帖子中。
 
-## 选择富发布选项{#select-rich-post-options}
+## 选择富帖子选项 {#select-rich-post-options}
 
-您可以指定要在Facebook富帖子中使用的页面信息类型，这些帖子由您的登陆页共享生成。
+您可以指定要在Facebook富帖子中使用的页面信息类型，这些帖子由从您的登陆页面共享生成。
 
-1. 在编辑器中选择&#x200B;**YouTube**&#x200B;视频或社交按钮的&#x200B;**Facebook消息**。
+1. 选择 **Facebook消息** 在 **YouTube** 视频或社交按钮。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. 从以下选项中选择您的Facebook消息。
+1. 从以下选项中为您的Facebook消息选择。
 
-   * 添加静态内容：选择此选项可手动输入标题、题注和说明。
+   * 添加静态内容：选择此选项可手动输入标题、标题和描述。
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * 添加动态内容：您的社交应用程序可以使用登陆页的`<TITLE>`、`<CAPTION>`和`<DESCRIPTION>`标记填充您的丰富帖子。
+   * 添加动态内容：您的社交应用程序可以使用登陆页面的 `<TITLE>`, `<CAPTION>`和 `<DESCRIPTION>` 标记来填充您的富帖子。
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
    >[!NOTE]
    >
-   >页面源中应已存在这些标记，但要获得更多控制，您可以向登陆页添加特定Facebook OG标记。
+   >这些标记应该已存在于页面源中，但要获得更多控制，您可以向登陆页面添加特定的Facebook OG标记。
 
-   * 不添加丰富内容：将Facebook帖子从您的登陆页限制为仅主要消息和链接。
+   * 请勿添加富内容：将Facebook帖子从您的登陆页面限制为仅显示主消息和链接。
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## 向登陆页{#add-facebook-og-tags-to-a-landing-page}添加Facebook OG标记
+## 将Facebook OG标记添加到登陆页面 {#add-facebook-og-tags-to-a-landing-page}
 
-要控制将包含在您的登陆页的Facebook共享中的页面元素，可以向登陆页添加标题、题注和说明的Facebook OG(Open Graph)标记。
+要控制将从登陆页面共享的Facebook中包含的页面元素，可以向登陆页面添加标题、描述和描述的Facebook OG(Open Graph)标记。
 
-1. 打开包含&#x200B;**YouTube视频**&#x200B;或社交按钮的登陆页。
+1. 打开包含您的 **YouTube视频** 或“社交”按钮。
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   **登陆页设计器**&#x200B;在新窗口中打开。
+   的 **登陆页面设计工具** 在新窗口中打开。
 
-1. 选择&#x200B;**登陆页操作** > **编辑页面元标记**。
+1. 选择 **登陆页面操作** > **编辑页面元标记**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
@@ -73,4 +72,4 @@ Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social
 
 >[!NOTE]
 >
->添加OG标记时，请注意使用正确的HTML语法。
+>添加OG标记时，请务必使用正确的HTML语法。

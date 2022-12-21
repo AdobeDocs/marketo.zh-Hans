@@ -1,47 +1,46 @@
 ---
 unique-page-id: 37356565
-description: 发送跟踪的电子邮件 — Marketo Docs — 产品文档
+description: 发送跟踪的电子邮件 — Marketo文档 — 产品文档
 title: 发送跟踪的电子邮件
-translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
+# 发送跟踪的电子邮件 {#sending-a-tracked-email}
 
-# 发送跟踪的电子邮件{#sending-a-tracked-email}
-
-使用Marketo Sales Connect发送电子邮件时，将跟踪视图（打开电子邮件）和点击（单击的链接）。
+使用Marketo Sales Connect发送电子邮件时，将跟踪查看次数（电子邮件打开次数）和点击次数（点击的链接）。
 
 >[!PREREQUISITES]
 >
 >在发送跟踪的电子邮件之前，您需要验证身份并设置电子邮件投放渠道。
 >
 >* [验证您的电子邮件地址](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* 为[Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)或[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)设置投放渠道
+>* 为设置投放渠道 [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 或 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
 
-1. 创建您的电子邮件草稿（有多种方法可以执行此操作，在此示例中，我们将在标题中选择&#x200B;**起草**）。
+1. 创建电子邮件草稿（在本例中，我们选择了多种方法来执行此操作） **撰写** )。
 
    ![](assets/one.png)
 
-1. 在&#x200B;**至**&#x200B;字段中输入收件人的名称或电子邮件。
+1. 在 **至** 字段。
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >在“收件人”字段中只能有一个人。
+   >在“收件人”字段中只能有一个人员。
 
-1. 在相应的字段中添加要抄送或密件抄送的任何收件人。
+1. 在相应的字段中添加要抄送或密送的任何收件人。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >如果CC&#39;d或BCC&#39;d的用户打开该电子邮件，则该打开的电子邮件将作为视图记录在&#x200B;**收件人**&#x200B;字段中该用户的记录中。
+   >如果某个人是抄送人员或密件抄送人员，则该打开的电子邮件将被记录为该人员在 **至** 字段。
 
 1. 添加主题行。
 
@@ -49,14 +48,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >发送电子邮件需要主题行和收件人。 添加主题行和收件人后，我们将&#x200B;**自动保存您的草稿**。
+   >发送电子邮件时，需要使用主题行和收件人。 我们会 **自动保存草稿** 添加主题行和收件人后，才会执行此操作。
 
-1. 使用编辑器撰写电子邮件。 完成后，单击&#x200B;**发送**(或[计划](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)，如果您愿意)。
+1. 使用编辑器撰写电子邮件。 单击 **发送** (或 [计划](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)（如果您喜欢）。
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >* [安排电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [计划电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
    >* [模板](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 

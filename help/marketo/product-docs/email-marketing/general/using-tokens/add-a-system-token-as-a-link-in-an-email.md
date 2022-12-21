@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# 在电子邮件中添加系统令牌作为链接{#add-a-system-token-as-a-link-in-an-email}
+# 在电子邮件中将系统令牌添加为链接 {#add-a-system-token-as-a-link-in-an-email}
 
 您可以使用这些系统令牌来自定义特殊链接在电子邮件中的位置。
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这些令牌将&#x200B;**不**&#x200B;可点击，除非位于锚点链接内。 此外，它们还可以&#x200B;**不**&#x200B;嵌入到我的令牌中。
+>这些令牌将 **not** 可点击，除非在锚点链接中。 此外，他们还可以 **not** 嵌入到我的令牌中。
 
 以下是如何将它们添加到电子邮件中：
 
-1. 查找并选择您的电子邮件，然后单击&#x200B;**编辑草稿**。
+1. 查找并选择您的电子邮件，然后单击 **编辑草稿**.
 
    ![](assets/one-1.png)
 
@@ -34,28 +34,28 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 突出显示要转换为具有令牌的链接的文本，然后单击&#x200B;**插入/编辑链接**&#x200B;按钮。
+1. 突出显示要转换为具有令牌的链接的文本，然后单击 **插入/编辑链接** 按钮。
 
    ![](assets/three-1.png)
 
-1. 在链接URL中输入令牌，然后单击&#x200B;**插入**。
+1. 在链接URL中输入令牌，然后单击 **插入**.
 
    ![](assets/four-1.png)
 
    >[!TIP]
    >
-   >复制/粘贴您需要的令牌：**`{{system.forwardToFriendLink}}`**&#x200B;或&#x200B;**`{{system.unsubscribeLink}}`**&#x200B;或&#x200B;**`{{system.viewAsWebpageLink}}`**
+   >复制/粘贴您需要的令牌： **`{{system.forwardToFriendLink}}`** 或 **`{{system.unsubscribeLink}}`** 或 **`{{system.viewAsWebpageLink}}`**
 
-1. 单击&#x200B;**Save**。
+1. 单击 **保存**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
 >[!IMPORTANT]
 >
->如果您使用此方法添加“viewAsWebpageLink”系统令牌，则可以&#x200B;**不**&#x200B;使用令牌覆盖该令牌。 请改为使用[将视图添加为网页链接到Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)方法，该方法允许您使用令牌覆盖“viewAsWebPageLink”。
+>如果您使用此方法添加“viewAsWebpageLink”系统令牌，则可以 **not** 使用令牌覆盖它。 请改为使用 [将“查看为网页”链接添加到电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) 方法，允许您使用令牌覆盖“viewAsWebPageLink”。
 
 >[!NOTE]
 >
->完成后，不要忘记[批准电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
+>别忘了 [批准电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) 完成时。
 
 干得好！ 现在，您已了解如何在电子邮件中将系统令牌添加为链接。

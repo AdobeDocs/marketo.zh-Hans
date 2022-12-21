@@ -336,7 +336,7 @@ ht-degree: 0%
    <td>根据专有算法进行评分，该算法考虑：参与行为(<strong>打开</strong>, <strong>点击</strong>、程序成功)和不参与行为（取消订阅）。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">事件</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Event</a></strong></td> 
    <td>为了与客户和潜在客户通信而发生的事件。 线下活动通常包括聚会或展会，而在线活动通常为 <strong>网络研讨会</strong>.</td> 
   </tr> 
   <tr> 
@@ -426,7 +426,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 我 {#i}
+## I {#i}
 
 <table> 
  <colgroup> 

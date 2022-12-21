@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359866
-description: 从网页获取图像- Marketo Docs —— 产品文档
-title: 从网页中捕获图像
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 从网页中获取图像 — Marketo文档 — 产品文档
+title: 从网页中获取图像
+exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
+# 从网页中获取图像 {#grab-the-images-from-a-web-page}
 
-# 从网页{#grab-the-images-from-a-web-page}获取图像
+要从网页添加图像，请复制包含所需图像的页面的网址(URL)，然后执行这些简单步骤。
 
-要从网页添加图像，请复制包含所需图像的页面的Web地址(URL)，然后执行以下简单步骤。
-
-1. 转至&#x200B;**Design Studio**。
+1. 转到 **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
-1. 单击&#x200B;**新建**&#x200B;和&#x200B;**从Web抓取图像**。
+1. 单击 **新建** 和 **从Web中获取图像**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. 选择&#x200B;**Images and Files**&#x200B;文件夹，将Web地址(URL)粘贴到URL文本框中，然后单击&#x200B;**Next**。
+1. 选择 **图像和文件** ，请将网址(URL)粘贴到URL文本框中，然后单击 **下一个**.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,15 +30,15 @@ ht-degree: 0%
    >
    >此功能不适用于直接指向图像的URL。 使用包含图像的网页的URL。
 
-1. 选择要添加的图像，然后单击&#x200B;**导入**。
+1. 选择要添加的图像，然后单击 **导入**.
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
-1. 您的图像现已导入并可用于电子邮件和登陆页。
+1. 您的图像现已导入，可在电子邮件和登陆页面中使用。
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. 您可以在&#x200B;**图像和文件**&#x200B;中查看所有可用的图像。
+1. 您可以在 **图像和文件**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
@@ -48,7 +47,7 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
->* [使用文件夹组织图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
->* [查找已上载图像或文件的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
->* [从框上载图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
+>* [使用文件夹整理图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [查找上传的图像或文件的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [从框中上传图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
 
