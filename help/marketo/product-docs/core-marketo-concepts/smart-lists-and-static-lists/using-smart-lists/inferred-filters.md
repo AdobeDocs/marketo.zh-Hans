@@ -3,16 +3,22 @@ unique-page-id: 2953188
 description: 推断性过滤器 — Marketo文档 — 产品文档
 title: 推断性过滤器
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 # 推断性过滤器 {#inferred-filters}
 
-当有人访问您的网站时， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 给他们点饼干，然后放到系统中。 我们在一个特殊的数据库中查找他们的IP信息，并推断出各种好信息。 看看。
+当有人访问您的网站时， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 给他们点饼干，然后放到系统中。 我们在一个特殊的数据库中查找他们的IP信息，并推断出各种好信息。
+
+>[!NOTE]
+>
+>为确保推断的字段值保持为最新，我们会定期更新用于IP地址查找的数据库。 数据库更新可以引入新的推断字段值，您可能需要将这些值添加到智能列表筛选器定义中。
+>
+>数据库更新可在 [Marketo Engage产品版本](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}。 当发生更新时， [Marketo Engage发行说明](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;}将包含对推断字段值所做任何更改的说明。
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
