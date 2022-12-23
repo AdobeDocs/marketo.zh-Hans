@@ -5,7 +5,7 @@ title: 帐户触发器
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 使用帐户级别的触发器，跨不同渠道（例如，电子邮件、Web、广告）侦听重要的帐户级别行为活动并采取相应行动。
 
-选择您的智能营销活动并点击 **[!UICONTROL Smart List]**.
+选择您的智能营销活动并点击 **[!UICONTROL 智能列表]**.
 
 ![](assets/one-1.png)
 

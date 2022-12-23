@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. 输入 **显示名称** 服务。 选择 **仅限API用户** [之前创建的](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. 输入 **显示名称** 服务。 选择 **仅API用户** [之前创建的](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 

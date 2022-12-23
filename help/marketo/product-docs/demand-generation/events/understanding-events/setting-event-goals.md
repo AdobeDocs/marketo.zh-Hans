@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -22,21 +22,21 @@ ht-degree: 0%
 
    ![](assets/setting-event-goals-1.png)
 
-1. 选择 [!UICONTROL Campaign Folder]，为活动提供一个 [!UICONTROL Name]，选择 [!UICONTROL Program Type] 和 [!UICONTROL Channel]. 单击 **[!UICONTROL Create]** 完成时。
+1. 选择 [!UICONTROL Campaign文件夹]，为活动提供一个 [!UICONTROL 名称]，选择 [!UICONTROL 程序类型] 和 [!UICONTROL 渠道]. 单击 **[!UICONTROL 创建]** 完成时。
 
    ![](assets/setting-event-goals-2.png)
 
-1. 在您的活动中，单击 **[!UICONTROL Reports]** 选项卡。
+1. 在您的活动中，单击 **[!UICONTROL 报表]** 选项卡。
 
    ![](assets/setting-event-goals-3.png)
 
-1. 输入目标 [!UICONTROL Registered] 单击 **[!UICONTROL Set a goal]**. 在中键入数字并按Enter。
+1. 输入目标 [!UICONTROL 已注册] 单击 **[!UICONTROL 设置目标]**. 在中键入数字并按Enter。
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. 对 [!UICONTROL Attended].
+1. 对 [!UICONTROL 已出席].
 
    ![](assets/setting-event-goals-6.png)
 
@@ -44,4 +44,4 @@ ht-degree: 0%
 >
 >活动开始后，无法设置活动的目标。
 
-就这样！ 单击 [!UICONTROL Reports] 选项卡。
+就这样！ 单击 [!UICONTROL 报表] 选项卡。

@@ -708,7 +708,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>收入模型</strong></a></td> 
-   <td colspan="1">在 <strong>收入周期分析(RCA)</strong> 级别，允许您跟踪 <strong>商机</strong> 在您尝试转换它们时的任何给定时间点。</td> 
+   <td colspan="1">中使用的工具 <strong>收入周期分析(RCA)</strong> 级别，允许您跟踪 <strong>商机</strong> 在您尝试转换它们时的任何给定时间点。</td> 
   </tr> 
   <tr> 
    <td><strong>职位</strong></td> 
