@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 计划成员自定义字段 — Marketo文档 — 产品文档
 title: 程序成员自定义字段
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 1%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 1%
 # 程序成员自定义字段 {#program-member-custom-fields}
 
 利用项目成员自定义字段，可收集每个成员的项目特定数据。 它们可用于：Marketo表单、智能列表过滤器和触发器，以及智能营销活动流程操作。 可在程序的“成员”(Members)选项卡中查看数据。
-
->[!NOTE]
->
->目前，项目成员自定义字段没有与Salesforce Campaign成员字段集成。
 
 ## 创建程序成员自定义字段 {#create-a-program-member-custom-field}
 
@@ -67,6 +63,7 @@ ht-degree: 1%
 
 * 项目成员自定义字段仅在本地资产中可用。 Design Studio不支持这些功能，因为无法将其绑定到特定的程序。
 * 不能将包含程序成员自定义字段的表单（或包含表单的登陆页面）克隆/移动到Design Studio。
+* [您可以同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}具有促销活动成员自定义字段的项目成员自定义字段。
 * 程序成员对象最多可以有20个自定义字段。 这些字段可用于任何程序。
 * 删除某个程序的成员时，如果其“程序成员”(Program Member)自定义字段中有任何数据，则会从该字段中清除该数据。
 * 要查看数据，请单击程序中的“成员”选项卡，并创建包含该字段的自定义视图。
@@ -77,4 +74,7 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>
+>* [程序成员自定义字段同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
+
