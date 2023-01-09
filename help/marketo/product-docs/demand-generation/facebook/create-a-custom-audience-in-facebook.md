@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: 在Facebook - Marketo文档 — 产品文档中创建自定义受众
 title: 在Facebook中创建自定义受众
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [将Facebook自定义受众添加为LaunchPoint服务](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 中。
->* [接受Facebook的自定义受众条款](https://www.facebook.com/ads/manage/customaudiences/tos.php) 在您的Facebook帐户中。
->
+>* [将Facebook自定义受众添加为LaunchPoint服务](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)“管理员”部分中的{target=&quot;_blank&quot;}。
+>* [接受Facebook的自定义受众条款](https://www.facebook.com/ads/manage/customaudiences/tos.php){target=&quot;_blank&quot;}。
 
 
 >[!TIP]
 >
->详细了解 [facebook中的自定义受众](https://www.facebook.com/help/341425252616329).
+>详细了解 [facebook中的自定义受众](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}。
 
 1. 查找并选择智能或静态列表，其中包含您要从中创建受众的潜在客户。
 
@@ -55,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   就这样！ 在Facebook中，您将在 **广告管理器>受众**.
+   就这样！ 在Facebook中，您将在 **广告管理器** > **受众**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -65,8 +64,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >请参阅 [FacebookMarketo客户的学习之路](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). 它涵盖您需要了解的所有信息，从创建Facebook页面，到使用Marketo的广告网络集成来定位Facebook广告。
+   >请参阅 [FacebookMarketo客户的学习之路](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}。 它涵盖您需要了解的所有信息，从创建Facebook页面，到使用Marketo的广告网络集成来定位Facebook广告。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[在Facebook中向自定义受众添加潜在客户](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

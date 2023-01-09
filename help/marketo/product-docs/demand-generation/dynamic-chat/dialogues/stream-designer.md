@@ -2,9 +2,9 @@
 description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '866'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,10 @@ ht-degree: 2%
 1. 在“查特机器人响应”下，回答您的问题。
 
    ![](assets/stream-designer-8.png)
+
+   >[!TIP]
+   >
+   >您可以使用令牌对已知聊天访客的体验进行个性化(例如：Hello `{{lead.leadFirstName:""}}`)。 只需单击右侧的花括号图标并进行选择即可。 如果您希望匿名访客查看通用内容，请在引用之间添加默认值(例如：Hello `{{lead.leadFirstName:"there"}}`)。
 
    >[!NOTE]
    >
