@@ -5,16 +5,16 @@ title: 配置Adobe Experience Manager集成
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
+source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
 # 配置Adobe Experience Manager集成 {#configuring-adobe-experience-manager-integration}
 
-配置AEM，以便您能够访问、选择AEM资产并将其导入Marketo的Design Studio。
+配置Adobe Experience Manager(AEM)，以便您能够访问、选择AEM资产并将其导入Marketo EngageDesign Studio。
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 在Marketo Classic中，单击 **管理员**.
+1. 在Marketo Engage中，单击 **管理员**.
 
    ![](assets/nine.png)
 
@@ -78,5 +78,3 @@ ht-degree: 0%
 1. 输入您的AEM URL，然后单击 **确定**.
 
    ![](assets/twelve.png)
-
-   你们都准备好了！ 您现在可以 [将AEM资产导入Design Studio中的Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).
