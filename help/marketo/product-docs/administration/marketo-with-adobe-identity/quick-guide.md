@@ -2,9 +2,9 @@
 description: 快速指南 — Marketo文档 — 产品文档
 title: 快速指南
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 70b98157d06406e56767b0ab5478b01f1ebefdf6
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Marketo EngageAPI必须在Marketo Engage中创建和管理仅用户。
 
 ## 通过CSV添加用户 {#add-users-via-csv}
 
-[导入CSV](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target=&quot;_blank&quot;}
+[导入CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target=&quot;_blank&quot;}
 
 ## 用户登录 {#user-sign-in}
 
