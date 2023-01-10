@@ -3,16 +3,16 @@ description: 批量导出API信息 — Marketo文档 — 产品文档
 title: 批量导出API信息
 hide: true
 hidefromtoc: true
-source-git-commit: 54c6a3d3a9749abb39a1d74422b13cbdb260214a
+source-git-commit: 6cee35eaa7eaf1a55188720a0d11d4ae0059c223
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # 批量导出API信息 {#bulk-export-api-information}
 
-了解如何检查您的Marketo Engage实例在过去七天中占用的批量提取容量。
+了解如何检查 [批量提取API](https://developers.marketo.com/rest-api/bulk-extract/)您的Marketo Engage实例在过去七天中已使用了{target=&quot;_blank&quot;}容量。
 
 >[!NOTE]
 >
