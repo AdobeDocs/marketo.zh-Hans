@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: 在Facebook - Marketo文档 — 产品文档中创建自定义受众
 title: 在Facebook中创建自定义受众
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ ht-degree: 0%
 1. 单击 **受众** 下拉框并选择 **+新受众**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
+
+   >[!IMPORTANT]
+   >
+   >facebook API允许每个Facebook广告帐户最多500个自定义受众。
 
 1. 键入 **受众名称**. 单击 **更新**.
 
