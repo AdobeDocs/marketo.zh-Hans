@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: 创建和使用拼接字符串（公式）字段 — Marketo文档 — 产品文档
 title: 创建和使用串联字符串（公式）字段
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -14,29 +14,33 @@ ht-degree: 0%
 
 您可以合并多个字段中的值，或使用Marketo公式字段构建条件值。
 
-1. 转到 **管理员** 单击 **字段管理**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-19-9-3a44-3a58.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
+
+1. 单击 **字段管理**.
+
+   ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
 1. 单击 **新建自定义字段**.
 
-   ![](assets/image2014-9-19-9-3a45-3a8.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
 1. 选择 **公式** 对于 **类型**.
 
-   ![](assets/image2014-9-19-9-3a45-3a17.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
 1. 输入 **名称** ，然后单击 **创建**.
 
-   ![](assets/image2014-9-19-9-3a46-3a0.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
 1. 查找并选择公式字段，然后单击 **编辑规则**.
 
-   ![](assets/image2014-9-19-9-3a46-3a13.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
 1. 添加两个选项并像下面的屏幕截图一样定义它们。
 
-   ![](assets/image2014-9-19-9-3a46-3a25.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-7.png)
 
    >[!TIP]
    >
@@ -44,7 +48,7 @@ ht-degree: 0%
 
 1. 现在，您可以在电子邮件中将公式字段添加为令牌。
 
-   ![](assets/seven.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-8.png)
 
 >[!NOTE]
 >

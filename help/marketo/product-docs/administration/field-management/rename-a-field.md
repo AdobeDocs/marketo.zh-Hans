@@ -3,9 +3,9 @@ unique-page-id: 2360293
 description: 重命名字段 — Marketo文档 — 产品文档
 title: 重命名字段
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,25 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到“管理员”并单击 **字段管理**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-24-14-3a2-3a25.png)
+   ![](assets/rename-a-field-1.png)
+
+1. 单击 **字段管理**.
+
+   ![](assets/rename-a-field-2.png)
 
 1. 查找并选择要重命名的字段，然后单击画布中的字段名称。
+
+   ![](assets/rename-a-field-3.png)
 
    >[!TIP]
    >
    >单击 **使用者** 链接以查找引用此字段的资产。
 
-   ![](assets/changefieldname.png)
-
 1. 重命名字段并单击 **保存**.
 
-   ![](assets/image2014-9-24-14-2-55.png)
+   ![](assets/rename-a-field-4.png)
 
 干得好！ 您现在知道如何重命名Marketo中的字段。
 
