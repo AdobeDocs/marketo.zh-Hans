@@ -1,10 +1,10 @@
 ---
 description: 发行说明 — 2022年10月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年10月
-source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 3%
+source-wordcount: '601'
+ht-degree: 2%
 
 ---
 
@@ -172,20 +172,6 @@ ht-degree: 3%
 </table>
 
 * **支持动态聊天的其他数据类型**:三种新的Marketo Engage类型（布尔、整数、浮点）允许您在动态聊天中利用更多现有的数据字段，进行诸如基于分数进行定位或询问访客是/否问题之类的操作。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>即将推出</i></td>
-   <td>不适用</td>
-  </tr>
-  </tbody>
-</table>
-
-* **用于动态聊天的计划会议通知**:销售代表会收到有关计划会议的自动电子邮件通知以及有关访客聊天机器人交互的任何相关信息。
 
 <table> 
   <tr> 

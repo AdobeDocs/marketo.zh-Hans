@@ -3,9 +3,9 @@ unique-page-id: 10100275
 description: 添加/编辑/删除Marketo自定义活动字段 — Marketo文档 — 产品文档
 title: 添加/编辑/删除Marketo自定义活动字段
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,29 @@ ht-degree: 0%
 
 ## 添加自定义活动字段 {#add-a-custom-activity-field}
 
-1. 在Marketo自定义活动中，单击 **字段**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
+
+1. 单击 **Marketo自定义活动**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
+
+1. 单击 **字段**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
 1. 选择要将字段添加到的自定义活动。
 
-   ![](assets/two-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
 1. 单击 **新建字段**.
 
-   ![](assets/three-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
 1. 选择字段的数据类型。
 
-   ![](assets/four-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
    >[!TIP]
    >
@@ -38,31 +46,39 @@ ht-degree: 0%
 
 1. 命名字段。 Api名称会自动填充。 完成后，单击 **保存**.
 
-   ![](assets/five-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
    就这样！ 添加了新字段。
 
 ## 编辑自定义活动字段 {#edit-a-custom-activity-field}
 
-1. 在Marketo自定义活动中，单击 **字段**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
+
+1. 单击 **Marketo自定义活动**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
+
+1. 单击 **字段**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
 1. 选择包含要编辑的字段的自定义活动。
 
-   ![](assets/seven.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
 1. 选择要编辑的字段，单击 **字段操作** 下拉菜单，然后选择 **编辑字段**.
 
-   ![](assets/eight.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
    此时会出现“编辑字段”弹出窗口。 在本例中，让我们更改字段的名称。
 
-   ![](assets/nine.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
 1. 输入新名称和Api名称，然后单击 **保存**.
 
-   ![](assets/ten.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
@@ -80,16 +96,22 @@ ht-degree: 0%
 
 ## 删除自定义活动字段 {#delete-a-custom-activity-field}
 
-1. 在Marketo自定义活动中，单击 **字段**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
+
+1. 单击 **Marketo自定义活动**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
+
+1. 单击 **字段**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
 1. 选择包含要删除的字段的自定义活动。
 
-   ![](assets/twelve.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
 1. 选择要删除的字段，单击 **字段操作** 下拉菜单，然后选择 **删除字段**.
 
-   ![](assets/thirteen.png)
-
-   就这么简单！
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

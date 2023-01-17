@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: 了解Marketo自定义对象 — Marketo文档 — 产品文档
 title: 了解Marketo自定义对象
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -42,15 +42,21 @@ ht-degree: 0%
 
 ## 访问Marketo自定义对象 {#accessing-marketo-custom-objects}
 
-1. 要创建或编辑Marketo自定义对象，请单击 **管理员** 然后 **Marketo自定义对象** 链接。
+1. 转到 **管理员** 的上界。
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. “Marketo自定义对象”显示的右侧列出了所有自定义对象，但主网格中仅列出了已批准的自定义对象。
+1. 单击 **Marketo自定义对象**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
-1. 网格显示对象名称、记录数、字段数和最近更新的日期。
+1. “Marketo自定义对象”显示的右侧列出了所有自定义对象，但主网格中仅列出了已批准的自定义对象。
+
+   ![](assets/understanding-marketo-custom-objects-3.png)
+
+   >[!NOTE]
+   >
+   >网格显示对象名称、记录数、字段数和最近更新的日期。
 
    >[!TIP]
    >
@@ -58,7 +64,7 @@ ht-degree: 0%
 
 1. 单击右侧的对象名称以打开详细信息页面。
 
-   ![](assets/understanding-marketo-custom-objects-3.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
 ## 查看与人员关联的自定义对象 {#view-custom-objects-associated-to-a-person}
 
@@ -66,19 +72,19 @@ ht-degree: 0%
 
 1. 转到 **数据库**.
 
-   ![](assets/understanding-marketo-custom-objects-4.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
 1. 打开数据库，然后单击 **人员** 选项卡。 双击与自定义对象关联的人员的记录。
 
-   ![](assets/understanding-marketo-custom-objects-5.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. 在人员详细信息页面上，单击 **自定义对象** 选项卡。 从下拉列表中选择对象。
 
-   ![](assets/understanding-marketo-custom-objects-6.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. 现在，您可以查看与该人员关联的该类型所有自定义对象的列表。
 
-   ![](assets/understanding-marketo-custom-objects-7.png)
+   ![](assets/understanding-marketo-custom-objects-8.png)
 
 ## 在公司中使用自定义对象 {#using-custom-objects-with-companies}
 
