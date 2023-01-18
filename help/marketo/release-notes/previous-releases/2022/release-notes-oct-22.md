@@ -1,9 +1,9 @@
 ---
 description: 发行说明 — 2022年10月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年10月
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '600'
 ht-degree: 2%
 
 ---
@@ -179,7 +179,7 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
+   <td>已发运</td>
    <td>不适用</td>
   </tr>
   </tbody>
