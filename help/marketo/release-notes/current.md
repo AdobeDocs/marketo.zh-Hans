@@ -2,10 +2,10 @@
 description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
+source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
 workflow-type: tm+mt
-source-wordcount: '667'
-ht-degree: 9%
+source-wordcount: '635'
+ht-degree: 8%
 
 ---
 
@@ -175,20 +175,6 @@ ht-degree: 9%
 </table>
 
 * **用于动态聊天的预定会议电子邮件通知**:在座席日历上预订会议后，座席将收到有关预订的电子邮件通知，包括有关访客动态聊天参与的详细信息。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **用于动态聊天的对话框参与报告**:提供对话框参与度随时间变化的视图，包括按访客类型和参与类型进行过滤的功能。
 
 <table> 
   <tr> 
