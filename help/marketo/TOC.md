@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 296657faa22a31de377fe6e6bd2a72dab07d02dd
 workflow-type: tm+mt
-source-wordcount: '8817'
+source-wordcount: '8822'
 ht-degree: 0%
 
 ---
@@ -657,6 +657,8 @@ ht-degree: 0%
                + [测试ON24事件集成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [了解Marketo On24适配器事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [了解网络研讨会计划状态](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+         + 交互式网络研讨会 {#interactive-webinars}
+            + [交互式网络研讨会概述](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
       + Facebook {#facebook}
          + [在Facebook中向自定义受众添加潜在客户](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [在Facebook中创建自定义受众](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
