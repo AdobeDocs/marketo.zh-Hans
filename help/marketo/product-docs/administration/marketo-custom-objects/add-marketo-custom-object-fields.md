@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: 添加Marketo自定义对象字段 — Marketo文档 — 产品文档
 title: 添加Marketo自定义对象字段
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,21 @@ ht-degree: 0%
 
 字段定义自定义对象使用的特定信息。 链接字段具有用于连接自定义对象的特殊作业，该作业在 [单独文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. 单击 **管理员**&#x200B;和 **数据库管理**，选择 **Marketo自定义对象**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2016-1-18-9-3a2-3a6.png)
+   ![](assets/add-marketo-custom-object-fields-1.png)
+
+1. 单击 **Marketo自定义对象**.
+
+   ![](assets/add-marketo-custom-object-fields-2.png)
 
 1. 选择要将字段添加到右侧的对象。
 
-   ![](assets/image2016-1-18-9-3a5-3a3.png)
+   ![](assets/add-marketo-custom-object-fields-3.png)
 
 1. 在 **字段** ，单击 **新建字段**.
 
-   ![](assets/image2015-9-15-16-3a53-3a40.png)
+   ![](assets/add-marketo-custom-object-fields-4.png)
 
    >[!NOTE]
    >
@@ -34,7 +38,7 @@ ht-degree: 0%
 
 1. 输入显示名称和说明。
 
-   ![](assets/image2015-10-5-11-3a35-3a48.png)
+   ![](assets/add-marketo-custom-object-fields-5.png)
 
    >[!NOTE]
    >
@@ -42,11 +46,11 @@ ht-degree: 0%
 
 1. 现在，从列表中选择适当的数据类型。
 
-   ![](assets/image2015-10-5-11-3a37-3a24.png)
+   ![](assets/add-marketo-custom-object-fields-6.png)
 
 1. 如果要将新字段用作唯一标识符，请将重复数据消除滑块拉到上面。 单击 **保存** 完成。
 
-   ![](assets/image2015-10-5-11-3a40-3a12.png)
+   ![](assets/add-marketo-custom-object-fields-7.png)
 
    >[!TIP]
    >

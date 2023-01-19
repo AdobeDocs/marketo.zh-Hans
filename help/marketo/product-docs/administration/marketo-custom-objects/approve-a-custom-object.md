@@ -3,9 +3,9 @@ unique-page-id: 10094188
 description: 批准自定义对象 — Marketo文档 — 产品文档
 title: 批准自定义对象
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,25 @@ ht-degree: 0%
 
 您已创建一个全新的自定义对象。 下面是如何批准它。
 
-1. 在管理员中，单击 **Marketo自定义对象** 并选择处于“草稿”状态的对象。
+1. 转到 **管理员** 的上界。
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. 单击 **Marketo自定义对象**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. 选择处于“草稿”状态的对象。
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. 单击 **自定义对象操作** 下拉框并选择 **批准对象**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. 状态将更改为“已批准”。
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ ht-degree: 0%
 
 1. 在编辑已批准的自定义对象时，该对象将收到“已批准且为草稿”状态。
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. 准备好批准草稿后，单击 **自定义对象操作** 下拉框并选择 **批准对象**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. 预览显示草稿中更改的项目。 单击 **批准**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)
