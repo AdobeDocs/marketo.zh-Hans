@@ -2,9 +2,9 @@
 description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
+source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '636'
 ht-degree: 8%
 
 ---
@@ -104,8 +104,8 @@ ht-degree: 8%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发运</td>
+   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">批量导出API信息</a></td>
   </tr>
   </tbody>
 </table>
