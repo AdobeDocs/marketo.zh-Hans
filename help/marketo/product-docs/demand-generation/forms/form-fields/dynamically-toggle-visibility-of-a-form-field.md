@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: 动态切换表单字段的可见性 — Marketo文档 — 产品文档
 title: 动态切换表单字段的可见性
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,9 @@ Marketo表单的一个非常酷的功能是，您可以动态隐藏/显示表单
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 就这样！ 现在，当用户填写此表并选择“美国为国家”时，“状态”字段将动态显示并提供指定的选项。
+
+>[!IMPORTANT]
+>
+>当使用 [API函数](https://developers.marketo.com/javascript-api/forms/){target="_blank"} 在Forms 2.0中。
+>
+>如果字段值由Forms 2.0 JavaScript API以外的外部脚本修改，则条件字段可能无法按预期工作。
