@@ -2,9 +2,9 @@
 description: 执行Campaign - Marketo文档 — 产品文档
 title: 执行Campaign
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 在需要运行单独的流时，您也可以使用它们，但在后续的流步骤选择中，您需要依赖该流的结果（即，如果是这样，则需要这样做）。
 
-执行营销活动是 [请求营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)，因为它可以串联或并行运行，而后者只能并行运行。
+执行营销活动是 [请求营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)，因为它可以串联运行，而后者只能并行运行。
 
 >[!NOTE]
 >

@@ -2,9 +2,9 @@
 description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '603'
 ht-degree: 8%
 
 ---
@@ -190,4 +190,4 @@ ht-degree: 8%
 
 **_产品发行网络研讨会_**
 
-想要了解有关这些功能和增强功能的更多信息？ 一定要 [立即注册](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) 1月24日上午9:00 PT /中午12:00 ET与我们一起参加在线网络研讨会，与我们的产品团队一起深入研究这些创新。
+[2022年10月和2023年1月版Marketo Engage网络研讨会](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
