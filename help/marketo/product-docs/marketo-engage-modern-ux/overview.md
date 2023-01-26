@@ -2,9 +2,9 @@
 description: 概述 — Marketo文档 — 产品文档
 title: 概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
+source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 1%
 
 ---
@@ -208,4 +208,4 @@ ht-degree: 1%
 >
 >在树中使用搜索将只生成您所在区域（例如营销活动）的结果。 如果您要搜索整个实例，请使用全局搜索。
 
-享受新的Marketo Engage体验，并确保分享您的反馈！
+享受新的Marketo Engage体验！
