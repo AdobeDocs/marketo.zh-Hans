@@ -2,10 +2,10 @@
 description: 概述 — Marketo文档 — 产品文档
 title: 概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 2%
+source-wordcount: '486'
+ht-degree: 1%
 
 ---
 
@@ -30,8 +30,6 @@ ht-degree: 2%
 
 这次旅行带你了解你需要了解的一切！
 
-![](assets/overview-2.png)
-
 ## 新增功能 {#whats-new}
 
 现代UX中有许多新功能，所有这些功能都旨在显着改进您的营销体验。
@@ -40,7 +38,7 @@ ht-degree: 2%
 
 新界面具有改进和扩展的图像处理功能。 请在此处了解这些信息： [图标术语表](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **全局导航**
 
@@ -191,15 +189,12 @@ ht-degree: 2%
    <td>列出的所有以前的超球项目</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>使用此功能提供有关您体验的反馈</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>如果您有多个订阅，请单击子名称以轻松切换到另一个订阅</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>全局搜索 — 您现在可以从此处搜索整个实例</td> 
   </tr>
  </tbody>
