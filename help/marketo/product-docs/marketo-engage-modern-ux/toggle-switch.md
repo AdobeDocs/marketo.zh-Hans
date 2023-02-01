@@ -2,9 +2,9 @@
 description: 切换开关 — Marketo文档 — 产品文档
 title: 切换开关
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -68,5 +68,9 @@ ht-degree: 0%
 * 登陆页面详细信息视图
 * 登陆页面列表视图
 * 登陆页面模板详细信息
+* 登陆页面模板列表
 * 代码片段详细信息视图
+* 代码片段列表视图
+
+
 
