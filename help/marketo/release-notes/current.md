@@ -2,9 +2,9 @@
 description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
+source-git-commit: 681650249d0a8e4570b4c1e7222da6075b3db91b
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '632'
 ht-degree: 6%
 
 ---
@@ -190,6 +190,6 @@ ht-degree: 6%
 
 ## 公告 {#announcements}
 
-* **Marketo REST API更改**:2022年10月版中，我们对Marketo REST API响应消息进行了细微更改。 请看这个 [《Marketo国家邮报》](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} 以了解详细信息。
+* **Marketo REST API更改**:2022年10月版中，我们对Marketo REST API响应消息进行了细微更改。 请看这个 [《Marketo国家邮报》](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} 以了解更多详细信息。
 
 * **_产品发行网络研讨会_**: [2022年10月和2023年1月版Marketo Engage网络研讨会](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
