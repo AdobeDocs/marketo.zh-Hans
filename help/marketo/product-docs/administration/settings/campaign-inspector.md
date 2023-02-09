@@ -1,7 +1,7 @@
 ---
 description: Campaign检查器 — Marketo文档 — 产品文档
 title: 促销活动检查器
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 使用促销活动检查器在一个位置查看/搜索您的所有智能促销活动。
 
-## 激活促销活动检查器 {#activate-campaign-inspector}
+## 启用促销活动检查器 {#enable-campaign-inspector}
 
 1. 转到 **管理员** 的上界。
 
