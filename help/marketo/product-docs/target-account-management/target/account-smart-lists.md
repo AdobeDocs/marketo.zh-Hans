@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: 帐户智能列表 — Marketo文档 — 产品文档
 title: 帐户智能列表
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ ht-degree: 0%
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
+
+   >[!NOTE]
+   >
+   >在 [帐户分析排名和调整](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) 将显示为自定义帐户属性，以供在帐户智能列表中使用。 此自定义属性数据基于创建/更新帐户配置文件模型的时间。
 
 1. 选择匹配的人员筛选器。 在本例中，我们选择 _加利福尼亚州_.
 
