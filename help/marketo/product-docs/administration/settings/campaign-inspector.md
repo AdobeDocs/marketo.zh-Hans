@@ -1,9 +1,9 @@
 ---
 description: Campaign检查器 — Marketo文档 — 产品文档
 title: 促销活动检查器
-source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
+source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,10 @@ ht-degree: 0%
 1. 选择 **已启用** 复选框，单击 **保存**.
 
    ![](assets/campaign-inspector-4.png)
+
+   >[!NOTE]
+   >
+   >需要在树中选择所需的工作区，才能在启用促销活动检查器选项卡后看到该工作区选项卡。
 
 ## 使用Campaign检查器 {#using-campaign-inspector}
 
