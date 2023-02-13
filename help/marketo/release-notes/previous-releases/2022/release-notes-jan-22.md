@@ -2,9 +2,9 @@
 description: 发行说明 — 2022年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年1月
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec783ee58e3c249da036d4770231eb9d7ef61bbd
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '889'
 ht-degree: 0%
 
 ---
@@ -81,8 +81,6 @@ ht-degree: 0%
 * **Marketo Sky弃用**:今年3月，由于我们将资源集中在提供下一代用户体验上，因此Marketo Sky将不再可用。 为了保持对当今Marketo Sky所独有的功能的访问，我们将在3月将资产到期和智能促销活动优先级覆盖引入主流体验。 [单击此处](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) 以了解更多。
 
 * **弃用表单端点**:指向leadCapture/save2端点的不支持的程序化表单POST将被Marketo Engage表单拒绝。 [单击此处](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 以了解更多。
-
-* **在“邀请用户”对话框中登录**:3月，现有的可选功能“在“邀请用户”对话框中登录”将被弃用。 “在邀请用户对话框中登录”功能被通用ID功能覆盖，该功能是即将推出的AdobeIdentity Management系统集成所需的ID功能，并于2021年8月在所有订阅上启用。 弃用后，Marketo Engage将只强制在订阅内的每个电子邮件地址中关联一个用户。
 
 **Marketo Engage域 — Sales Insight配置**:对于未设置SSL证书的Marketo Engage域和https://，调用将失败，并出现SSL握手错误。 因此，这些领域将被废除。 因此，如果Sales Insight用户具有指向其中任何域的旧配置，则他们的潜在客户、联系人、帐户、机会面板或Marketo全局页面上可能会出现系统标注错误。 我们建议您更新 [Marketo Engage配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) 在Salesforce中遇到此错误时，不会将其标记为“隐藏”。 您只需更新文档“Marketo销售分析配置”部分中突出显示的Marketo Engage凭据。
 
