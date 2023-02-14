@@ -3,7 +3,7 @@ unique-page-id: 10099680
 description: 导入自定义对象数据 — Marketo文档 — 产品文档
 title: 导入自定义对象数据
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -16,23 +16,23 @@ ht-degree: 0%
 
 1. 在我的Marketo中，转到 **数据库**.
 
-   ![](assets/db-1.png)
+   ![](assets/import-custom-object-data-1.png)
 
 1. 单击 **新建** 选择 **导入自定义对象数据**.
 
-   ![](assets/image2016-4-7-10-6-54.png)
+   ![](assets/import-custom-object-data-2.png)
 
 1. 单击 **浏览** 来查找数据文件。 选择文件格式（此示例中的逗号分隔值）。
 
-   ![](assets/image2016-4-13-14-3a21-3a53.png)
+   ![](assets/import-custom-object-data-3.png)
 
 1. 选择您的自定义对象。
 
-   ![](assets/image2016-4-13-14-3a24-3a54.png)
+   ![](assets/import-custom-object-data-4.png)
 
 1. 从下拉列表中选择重复数据消除模式。 单击 **下一个**.
 
-   ![](assets/image2016-4-13-14-3a28-3a7.png)
+   ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 1. 将每列映射到一个Marketo字段，然后从下拉列表中选择该字段。
 
-   ![](assets/image2016-4-13-14-3a36-3a57.png)
+   ![](assets/import-custom-object-data-6.png)
 
    >[!NOTE]
    >
@@ -48,11 +48,11 @@ ht-degree: 0%
 
 1. 单击 **下一个**.
 
-   ![](assets/image2016-4-13-14-3a38-3a41.png)
+   ![](assets/import-custom-object-data-7.png)
 
 1. 单击 **导入**.
 
-   ![](assets/image2016-4-7-13-3a15-3a9.png)
+   ![](assets/import-custom-object-data-8.png)
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 1. 在屏幕的右上角，您将在导入运行时看到通知，并在完成时看到最终结果。
 
-   ![](assets/image2016-4-13-14-3a41-3a1.png)
+   ![](assets/import-custom-object-data-9.png)
 
    耶！
 

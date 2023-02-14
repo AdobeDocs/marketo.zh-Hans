@@ -3,7 +3,7 @@ unique-page-id: 10095453
 description: 编辑和删除Marketo自定义对象字段 — Marketo文档 — 产品文档
 title: 编辑和删除Marketo自定义对象字段
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 1. 单击自定义对象和要编辑的字段。
 
-   ![](assets/image2015-10-2-10-3a55-3a1.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
 1. 在字段选项卡上，单击 **字段操作** 和 **编辑字段**.
 
-   ![](assets/image2015-10-2-10-3a53-3a26.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
 1. 进行更改并单击 **保存**.
 
-   ![](assets/image2015-10-2-10-3a58-3a56.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
    >[!NOTE]
    >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 1. 这些更改将显示在字段列表中。
 
-   ![](assets/image2015-10-2-11-3a1-3a13.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 
 ## 删除字段 {#delete-a-field}
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 1. 在字段选项卡上，单击 **字段操作** 和 **删除字段**.
 
-   ![](assets/image2015-10-2-11-3a11-3a20.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
    在触发器之前，请确保确实要删除该字段！ 单击 **删除**.
 
-   ![](assets/image2015-10-2-11-3a14-3a5.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
    它不见了！
 
-   ![](assets/image2015-10-2-11-3a15-3a48.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
    >[!NOTE]
    >
