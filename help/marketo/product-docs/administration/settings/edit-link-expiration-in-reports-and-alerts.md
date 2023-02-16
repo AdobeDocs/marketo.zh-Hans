@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: 在报表和警报中编辑链接过期 — Marketo文档 — 产品文档
 title: 在报表和警报中编辑链接到期
 exl-id: 9be08798-c413-451b-9b67-893042668061
-source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在 **管理员**，单击 **登录设置**.
+1. 转到 **管理员** 中。
 
-   ![](assets/image2014-9-24-11-3a33-3a31.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
+
+1. 单击 **登录设置**.
+
+   ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
 1. 单击 **编辑URL过期**.
 
-   ![](assets/image2014-9-24-11-3a33-3a43.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
 1. 在下拉列表中，选择链接过期的天数。 单击 **保存**.
 
-   ![](assets/emaillinkexpiration.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >

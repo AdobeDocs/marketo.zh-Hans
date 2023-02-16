@@ -3,9 +3,9 @@ unique-page-id: 2360217
 description: 更改Analytics的归因设置 — Marketo文档 — 产品文档
 title: 更改Analytics的归因设置
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,17 @@ ht-degree: 0%
 
 这些设置将影响 [计划机会分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [机会分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)和潜在客户分析区域。 这也会影响程序分析器报告。
 
-1. 在 **管理员** ，单击 **收入周期分析**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-24-11-3a55-3a19.png)
+   ![](assets/change-attribution-settings-for-analytics-1.png)
+
+1. 单击 **收入周期分析**.
+
+   ![](assets/change-attribution-settings-for-analytics-2.png)
 
 1. 单击 **编辑** 链接下 **归因**.
 
-   ![](assets/image2014-9-24-11-3a56-3a33.png)
+   ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
@@ -30,7 +34,7 @@ ht-degree: 0%
 
 1. 选择一个选项并单击 **保存**.
 
-   ![](assets/image2014-9-24-11-3a57-3a39.png)
+   ![](assets/change-attribution-settings-for-analytics-4.png)
 
    >[!NOTE]
    >

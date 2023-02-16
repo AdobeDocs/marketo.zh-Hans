@@ -3,7 +3,7 @@ unique-page-id: 6095047
 description: 编辑“不跟踪”浏览器支持设置 — Marketo文档 — 产品文档
 title: 编辑“不跟踪”浏览器支持设置
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -24,23 +24,23 @@ ht-degree: 0%
 
 1. 单击 **管理员**.
 
-   ![](assets/one.png)
+   ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
 1. 单击 **蒙奇金**.
 
-   ![](assets/two.png)
+   ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
 1. 在 **人员跟踪**，单击 **编辑**.
 
-   ![](assets/three-2.png)
+   ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
 1. 选择 **支持** 单击 **保存**.
 
-   ![](assets/four-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
    保存更改后，您将看到更新。
 
-   ![](assets/five-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >

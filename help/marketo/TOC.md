@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '8829'
+source-wordcount: '8828'
 ht-degree: 0%
 
 ---
@@ -186,7 +186,7 @@ ht-degree: 0%
          + [更改Marketo密码](product-docs/administration/settings/change-your-marketo-password.md)
          + [更改密码安全设置](product-docs/administration/settings/change-your-password-security-settings.md)
          + [为“人员详细信息”页面创建自定义选项卡](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [使用CNAME（管理）自定义登陆页面URL](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md)
+         + [使用CNAME自定义登陆页面URL](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md)
          + [编辑帐户设置](product-docs/administration/settings/edit-account-settings.md)
          + [编辑“不跟踪”浏览器支持设置](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [编辑登陆页面设置](product-docs/administration/settings/edit-landing-page-settings.md)
