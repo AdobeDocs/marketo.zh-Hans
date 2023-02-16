@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: 创建项目渠道 — Marketo文档 — 产品文档
 title: 创建节目渠道
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,13 @@ ht-degree: 0%
 >
 >详细了解 [项目](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md),Marketo中最重要的元素。
 
-1. 在 **管理员** ，单击 **标记**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. 单击 **标记**.
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
@@ -32,11 +36,11 @@ ht-degree: 0%
 
 1. 单击 **+** 在下面 **渠道** 以展开和查看现有渠道。
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. 在 **新建**，单击 **新渠道**.
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -60,7 +64,7 @@ ht-degree: 0%
 
 1. 让我们来看党频道示例。 命名新 **渠道** 并选择要应用的程序类型。
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -70,12 +74,13 @@ ht-degree: 0%
    >
    >使用“包含网络研讨会的事件”时，系统映射将被锁定（网络研讨会集成所需）且无法编辑。
 
-   输入前两个程序的状态名称，然后单击添加步骤。
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. 输入前两个程序的状态名称，然后单击 **添加步骤**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. 输入其他程序 **状态** 和 **步骤** 数字，然后单击 **添加步骤**.
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -83,7 +88,7 @@ ht-degree: 0%
 
 1. 输入最后一个程序 **状态** 和 **步骤** 数字。
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -91,11 +96,11 @@ ht-degree: 0%
 
 1. 选择 **移动设备签入状态** 表示 **已注册**.
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. 选择 **移动设备签入状态** 表示 **已出席**.
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -111,6 +116,6 @@ ht-degree: 0%
 
 1. 选择 **成功** 程序状态，然后单击 **创建**.
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    干得好！ 当您制作此类型的新程序时，将选择此新渠道。
