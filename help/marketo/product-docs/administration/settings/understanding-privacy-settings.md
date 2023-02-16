@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: 了解隐私设置 — Marketo文档 — 产品文档
 title: 了解隐私设置
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -43,17 +43,17 @@ Web访客可以通过选择“不跟踪”(DNT)来设置其浏览器以阻止任
 
 这是一个网页，其中带有一个按钮，在选择退出链接中带有“？marketo_opt_out=true”参数。
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
 当单击具有“？marketo_opt_out=true”参数的链接时，您可以创建并发布登陆页面作为后续页面。
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 单击链接后，Marketo会添加一个名为 **mkto_opt_out** 到访客的浏览器，该浏览器会为使用上述参数单击链接的网站访客禁用Munchkin跟踪。
 
 要验证是否可以种植Cookie，请确认您是Cookie潜在客户，然后单击链接。 然后，检查您的浏览器Cookie以验证 **mkto_opt_out** cookie。
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >
