@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: 创建仅限API用户 — Marketo文档 — 产品文档
 title: 仅创建API用户
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在 **管理员**，单击 **用户和角色。**
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-17-9-3a31-3a31.png)
+   ![](assets/create-an-api-only-user-1.png)
+
+1. 单击 **用户和角色**.
+
+   ![](assets/create-an-api-only-user-2.png)
 
 1. 单击 **邀请新用户**.
 
-   ![](assets/image2014-9-17-9-3a32-3a3.png)
+   ![](assets/create-an-api-only-user-3.png)
 
 1. 为仅API用户输入电子邮件、名字和姓氏。 单击 **下一个**.
 
-   ![](assets/image2016-5-24-10-3a53-3a7.png)
+   ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
@@ -40,11 +44,11 @@ ht-degree: 0%
 
 1. 选择 **仅限API** 角色并检查 **仅限API** 复选框。 单击 **下一个**.
 
-   ![](assets/four.png)
+   ![](assets/create-an-api-only-user-5.png)
 
 1. 单击 **发送**.
 
-   ![](assets/image2016-5-24-11-3a8-3a20.png)
+   ![](assets/create-an-api-only-user-6.png)
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: 创建、删除、编辑和更改用户角色 — Marketo文档 — 产品文档
 title: 创建、删除、编辑和更改用户角色
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-source-git-commit: bb8b8c309593e34b773b8ab1b9873df425989753
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -31,31 +31,39 @@ ht-degree: 0%
 
 ## 创建角色 {#create-a-role}
 
-1. 转到 **管理员** 单击 **用户和角色**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-16-13-3a29-3a48.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-1.png)
+
+1. 单击 **用户和角色**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
 1. 转到 **“角色”选项卡** 单击 **新角色**.
 
-   ![](assets/image2014-9-16-13-3a30-3a0.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
 1. 命名新角色，检查您要授予与该角色关联的用户的所有权限，然后单击 **创建**.
 
-   ![](assets/image2014-9-16-13-3a31-3a19.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## 删除角色 {#delete-a-role}
 
-1. 在 **管理员**，单击 **用户和角色**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-16-13-3a31-3a42.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-5.png)
+
+1. 单击 **用户和角色**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
 1. 在 **角色** 选项卡，选择角色并单击 **删除角色**.
 
-   ![](assets/image2014-9-16-13-3a31-3a56.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
 1. 通过单击 **删除**.
 
-   ![](assets/image2014-9-16-13-3a32-3a25.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
 >[!NOTE]
 >
@@ -67,21 +75,25 @@ ht-degree: 0%
 >
 >要编辑您自己的用户角色，您必须以具有管理员权限的其他用户身份登录。
 
-1. 转到 **管理员** 单击 **用户和角色**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-16-13-3a34-3a2.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-9.png)
+
+1. 单击 **用户和角色**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
 1. 单击 **角色** 选项卡。
 
-   ![](assets/image2014-9-16-13-3a34-3a22.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
 1. 选择要编辑的角色，然后单击 **编辑角色**.
 
-   ![](assets/image2014-9-16-13-3a34-3a37.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
 1. 进行所有所需的更改并单击 **保存**.
 
-   ![](assets/image2014-9-16-13-3a35-3a16.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
    >[!NOTE]
    >
@@ -93,17 +105,21 @@ ht-degree: 0%
 
 ## 更改用户角色 {#change-a-users-role}
 
-1. 转到 **管理员** 单击 **用户和角色**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-16-13-3a35-3a49.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-14.png)
+
+1. 单击 **用户和角色**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
 1. 选择要为其分配其他角色的用户，然后单击 **编辑用户。**
 
-   ![](assets/image2014-9-16-13-36-8.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
 1. 取消选中前一个角色，选择新角色，然后单击 **保存**.
 
-   ![](assets/image2014-9-16-13-3a36-3a35.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 
 >[!NOTE]
 >
