@@ -3,9 +3,9 @@ unique-page-id: 2359906
 description: 管理Marketo用户 — Marketo文档 — 产品文档
 title: 管理Marketo用户
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -14,25 +14,29 @@ ht-degree: 0%
 
 ## 创建用户 {#create-users}
 
-1. 转到 **管理员** 单击 **用户和角色**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-9-11-3a34-3a58.png)
+   ![](assets/managing-marketo-users-1.png)
+
+1. 单击 **用户和角色**.
+
+   ![](assets/managing-marketo-users-2.png)
 
 1. 单击 **邀请新用户**.
 
-   ![](assets/image2014-9-9-11-3a35-3a15.png)
+   ![](assets/managing-marketo-users-3.png)
 
 1. 输入 **电子邮件地址**, **名字**&#x200B;和 **姓氏**.
 
-   ![](assets/image2016-5-24-9-3a45-3a30.png)
+   ![](assets/managing-marketo-users-4.png)
 
 1. （可选）输入邀请的原因，并在 **访问过期** 字段。
 
-   ![](assets/image2016-6-29-15-3a52-3a18.png)
+   ![](assets/managing-marketo-users-5.png)
 
 1. 单击 **下一个**.
 
-   ![](assets/image2016-5-24-9-3a58-3a10.png)
+   ![](assets/managing-marketo-users-6.png)
 
    >[!TIP]
    >
@@ -44,17 +48,17 @@ ht-degree: 0%
 
 1. 选择 **角色** ，单击 **下一个**.
 
-   ![](assets/image2016-5-24-10-3a1-3a33.png)
+   ![](assets/managing-marketo-users-7.png)
 
 1. 根据需要对邀请消息进行编辑。 单击 **发送**.
 
-   ![](assets/image2016-5-24-10-3a3-3a56.png)
+   ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
    >电子邮件/登录名必须是唯一的；如果您已在沙盒实例中使用它，则需要在生产中使用其他实例，反之亦然。
 
-   ![](assets/image2016-5-24-10-3a21-3a57.png)
+   ![](assets/managing-marketo-users-9.png)
 
    >[!NOTE]
    >
@@ -64,35 +68,41 @@ ht-degree: 0%
 
 ## 删除用户 {#delete-users}
 
-1. 转到“管理员”并单击 **用户和角色**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-9-11-3a36-3a21.png)
+   ![](assets/managing-marketo-users-10.png)
+
+1. 单击 **用户和角色**.
+
+   ![](assets/managing-marketo-users-11.png)
 
 1. 选择要删除的用户，然后单击 **删除用户**.
 
-   ![](assets/image2014-9-9-11-3a36-3a36.png)
+   ![](assets/managing-marketo-users-12.png)
 
 1. 单击以确认 **确定**.
 
-   ![](assets/image2014-9-9-11-3a36-3a51.png)
+   ![](assets/managing-marketo-users-13.png)
 
 ## 重置用户密码 {#reset-user-passwords}
 
-1. 转到“管理员”并单击 **用户和角色**.
+1. 转到“管理员”区域。
 
-   ![](assets/image2014-9-9-11-3a41-3a0.png)
+   ![](assets/managing-marketo-users-14.png)
+
+1. 单击 **用户和角色**.
+
+   ![](assets/managing-marketo-users-15.png)
 
 1. 选择用户并单击 **重置密码**.
 
-   ![](assets/image2014-9-9-11-3a41-3a19.png)
+   ![](assets/managing-marketo-users-16.png)
 
 1. 单击 **关闭** 关闭提示。
 
-   ![](assets/image2014-9-9-11-3a41-3a50.png)
+   ![](assets/managing-marketo-users-17.png)
 
 用户将收到一封包含密码重置说明的电子邮件。
-
-![](assets/image2014-9-9-11-3a45-3a53.png)
 
 >[!TIP]
 >
@@ -100,17 +110,21 @@ ht-degree: 0%
 
 ## 更改权限和编辑用户信息 {#change-permissions-and-edit-user-information}
 
-1. 转到 **管理员** 单击 **用户和角色。**
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-9-11-3a37-3a5.png)
+   ![](assets/managing-marketo-users-18.png)
+
+1. 单击 **用户和角色**.
+
+   ![](assets/managing-marketo-users-19.png)
 
 1. 选择用户并单击 **编辑用户**.
 
-   ![](assets/image2014-9-9-11-3a37-3a16.png)
+   ![](assets/managing-marketo-users-20.png)
 
 1. 您可以编辑用户信息并更改关联的角色。 单击 **保存**.
 
-   ![](assets/image2014-9-9-11-3a37-3a31.png)
+   ![](assets/managing-marketo-users-21.png)
 
 >[!CAUTION]
 >
