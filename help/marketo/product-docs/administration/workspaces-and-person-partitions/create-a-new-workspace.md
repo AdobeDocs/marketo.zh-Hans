@@ -3,19 +3,19 @@ unique-page-id: 2360311
 description: 创建新工作区 — Marketo文档 — 产品文档
 title: 创建新工作区
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
 # 创建新工作区 {#create-a-new-workspace}
 
-工作区可用于细分公司。 设置工作区的原因包括：
+工作区可用于细分您的公司。 设置工作区的原因包括：
 
 * 地理位置：欧洲营销运营与北美营销运营
-* 业务部门A与业务部门B
+* 业务单位A与业务单位B
 
 以下是如何创建新工作区。
 
@@ -25,52 +25,53 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->首先了解 [了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>首先了解 [了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
->[!NOTE]
+>[!TIP]
 >
->要了解有关工作区最佳实践的更多信息，请联系 [Marketo Professional Services](mailto:services@marketo.com).
+>要了解有关Workspace最佳实践的更多信息，请联系 [Marketo专业服务](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. 在 **管理员**，单击 **工作区和分区**.
+1. 转到 **管理员** 区域。
 
-   ![](assets/image2014-9-17-11-3a59-3a11.png)
+   ![](assets/create-a-new-workspace-1.png)
 
-1. 单击 **新工作区**.
+1. 单击 **工作区和分区**.
 
-   ![](assets/two-1.png)
+   ![](assets/create-a-new-workspace-2.png)
 
-1. 输入 **名称**，然后选择 **人员分区** 你想用。 选择 **主人员分区**.
+1. 单击 **新建工作区**.
+
+   ![](assets/create-a-new-workspace-3.png)
+
+1. 输入 **名称**，并选择 **人员分区** 您想要使用。 选择 **主要人员分区**. 确保 [创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} 如果你还没有的话。
+
+   ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >确保 [创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) 如果你还没有。
-
-   ![](assets/three-1.png)
-
-   >[!NOTE]
+   >* 此 **所有人员分区** 复选框表示此工作区可以使用系统中的所有人员分区。
    >
-   >的 **所有人员分区** 复选框表示此工作区可以使用系统中的所有人员分区。
+   >* 此 **主要人员分区** 充当默认设置，并且是分配所有人员的位置。
+
+
+   >[!IMPORTANT]
    >
-   >的 **主人分区** 将用作默认值，并将为所有人员分配位置。
-
-   如果启用了多个品牌域，则必须选择一个主品牌域。
-
-   ![](assets/four-1.png)
+   >如果启用了多个品牌域，则必须选择一个主品牌域。
 
 1. 选择工作区语言。
 
+   ![](assets/create-a-new-workspace-5.png)
+
    >[!NOTE]
    >
-   >创建后，Marketo将在工作区中为样例资产提供种子。 语言允许这些植入对象使用非英语语言。
-
-   ![](assets/five.png)
+   >创建后，Marketo将在工作区中植入示例资源。 语言允许这些系统初始对象使用非英语语言。
 
 1. 单击&#x200B;**创建**。
 
-   ![](assets/six.png)
+   ![](assets/create-a-new-workspace-6.png)
 
-   创建所需数量的工作区，并为其分配相应的人员分区。
+根据需要创建任意数量的工作区，并为其分配适当的人员分区。
 
-   创建工作区后，您应会看到更新！
+创建工作区后，您应会看到更新。
 
-   ![](assets/image2014-9-17-15-3a39-3a10.png)
+![](assets/image2014-9-17-15-3a39-3a10.png)

@@ -3,9 +3,9 @@ unique-page-id: 2360315
 description: 创建人员分区 — Marketo文档 — 产品文档
 title: 创建人员分区
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -22,24 +22,22 @@ ht-degree: 0%
 >
 >首先了解 [了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
->[!CAUTION]
->
->人员分区可能比较复杂。 请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support) 以帮助设置。
+1. 转到 **管理员** 区域。
 
-1. 在“管理员”下，选择 **工作区和分区**.
+   ![](assets/create-a-person-partition-1.png)
 
-![](assets/image2014-9-17-11-3a32-3a12.png)
+1. 单击 **工作区和分区**.
 
-1. 转到 **人员分区** 选项卡，单击 **新建人员分区**.
+   ![](assets/create-a-person-partition-2.png)
 
-   ![](assets/two-2.png)
+1. 转到 **人员分区** 选项卡，然后单击 **新建人员分区**.
 
-1. 命名分区，选择 **工作区** 显示位置，然后单击 **创建**.
+   ![](assets/create-a-person-partition-3.png)
 
-   ![](assets/three-2.png)
+1. 命名分区，选择 **工作区** 在显示的位置，然后单击 **创建**.
 
-   创建分区后，您应会看到更新。
+   ![](assets/create-a-person-partition-4.png)
 
-   ![](assets/four-2.png)
+创建分区后，您应该会看到更新。
 
-   给你！ 您现在知道如何创建人员分区。
+![](assets/create-a-person-partition-5.png)
