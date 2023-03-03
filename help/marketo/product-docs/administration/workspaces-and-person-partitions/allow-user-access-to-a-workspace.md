@@ -3,7 +3,7 @@ unique-page-id: 2360325
 description: 允许用户访问工作区 — Marketo文档 — 产品文档
 title: 允许用户访问工作区
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: a45732d3c09e7e3ca9e1a85c66aa7087c01eaa6f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >您可以允许用户拥有对工作区的任意访问权限组合。
 
-保存更改后，您应会看到更新！
+保存更改后，您应会看到更新。
 
 ![](assets/allow-user-access-to-a-workspace-5.png)
 
