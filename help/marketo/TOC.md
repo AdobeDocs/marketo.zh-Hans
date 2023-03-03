@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: b95557cc3b83870c67a3292824a31a64e5ec0bc8
+source-git-commit: e4bd83abfeba54a777548926799f541b7b798ae5
 workflow-type: tm+mt
-source-wordcount: '8831'
+source-wordcount: '8832'
 ht-degree: 0%
 
 ---
@@ -1214,9 +1214,9 @@ ht-degree: 0%
          + [如何在我的服务器上允许列表Sales Connect？](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
          + [我的账户被锁了。 我该怎么办？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect是否与Salesforce Lightning兼容？](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
-         + [最新的客户端版本有哪些？](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Sales Connect的服务条款是什么？](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [什么是Sales Connect和Highspot集成？](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
+         + [Sales Insight Actions支持哪些浏览器？](product-docs/marketo-sales-connect/faq/which-browsers-does-sales-insight-actions-support.md)
          + [为什么我的任何联系人都没有推送到Sales Connect？](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [为什么无法删除联系人？](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [为什么没有将所有联系人推送到Sales Connect？](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
