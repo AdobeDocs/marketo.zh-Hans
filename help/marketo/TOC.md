@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
+source-git-commit: 375abb702f611d1e50b762606402ccdf1f9ca9c6
 workflow-type: tm+mt
 source-wordcount: '8829'
 ht-degree: 0%
@@ -1201,6 +1201,7 @@ ht-degree: 0%
             + [取消订阅概述](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + 使用撰写窗口 {#using-the-compose-window}
             + [向电子邮件添加附件或可跟踪内容](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+            + [向电子邮件添加Highspot内容](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [批量发送选项](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [使用“选择并发送”撰写批量电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [计划电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
@@ -1352,7 +1353,6 @@ ht-degree: 0%
                + [正在与Salesforce同步取消订阅](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
             + 使用撰写窗口 {#using-the-compose-window}
                + [向电子邮件添加附件或可跟踪内容](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-               + [向电子邮件添加Highspot内容](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
                + [批量发送电子邮件选项](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [使用“选择并发送”撰写批量电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [通过群电子邮件发送电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
