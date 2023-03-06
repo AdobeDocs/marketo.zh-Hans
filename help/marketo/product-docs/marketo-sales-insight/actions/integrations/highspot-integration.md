@@ -3,9 +3,9 @@ description: Highspot集成 — Marketo文档 — 产品文档
 title: Highspot集成
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ ht-degree: 0%
 >
 >您必须具有管理员权限才能为Sales Insight Actions实例启用Highspot。
 
-1. 选择设置
+1. 单击齿轮图标并选择 **设置**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. 在侧栏中选择常规设置
+1. 下 **管理员设置**，选择 **常规**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. 滚动到集成卡并启用Highspot
+1. 滚动到 **集成** 卡并单击滑块以启用Highspot。
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. 现在，当在撰写窗口、模板编辑器和营销活动电子邮件编辑器中选择内容上传按钮时，用户将看到一个选择Highspot的选项。
+现在，当在撰写窗口、模板编辑器和营销活动电子邮件编辑器中选择内容上传按钮时，用户将看到一个选择Highspot的选项。
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## 通过电子邮件访问重点内容和共享内容 {#accessing-highspot-content}
 
