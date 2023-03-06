@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8829'
 ht-degree: 0%
 
 ---
@@ -239,6 +239,7 @@ ht-degree: 0%
       + [设置Adobe组织映射](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [从Adobe Experience Cloud同步受众](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [使用Adobe Experience Manager导入资源](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [Unified Shell概述](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
    + 核心Marketo概念 {#core-marketo-concepts}
       + Smart Campaign {#smart-campaigns}
          + [了解智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1200,7 +1201,6 @@ ht-degree: 0%
             + [取消订阅概述](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + 使用撰写窗口 {#using-the-compose-window}
             + [向电子邮件添加附件或可跟踪内容](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-            + [向电子邮件添加Highspot内容](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [批量发送选项](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [使用“选择并发送”撰写批量电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [计划电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
@@ -1377,7 +1377,7 @@ ht-degree: 0%
             + [为什么我的所有联系人都没有被推送到Sales Insight操作中？](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [为什么Salesforce活动中不显示跟踪活动？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 集成 {#integrations}
-            + [将电子邮件记录到外部源](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
+            + [Highspot集成](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [向用户授予Marketo访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Insight操作中的有趣时刻](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
