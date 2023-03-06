@@ -1,11 +1,9 @@
 ---
 description: Highspot集成 — Marketo文档 — 产品文档
 title: Highspot集成
-hide: true
-hidefromtoc: true
-source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
+source-git-commit: 4f919501ee93790105fae3800f1b0ddd96036dfa
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -52,7 +50,7 @@ ht-degree: 0%
 
    ![](assets/highspot-integration-7.png)
 
-1. 登录到您的Highspot帐户。
+1. 登录到您的Highspot帐户（如果您尚未登录）。
 
    ![](assets/highspot-integration-8.png)
 
