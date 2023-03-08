@@ -1,10 +1,10 @@
 ---
 description: 发行说明 — 2023年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2023年1月
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -85,7 +85,7 @@ ht-degree: 3%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
    <td><i>即将推出</i></td>
   </tr>
   </tbody>
