@@ -2,16 +2,16 @@
 description: 流程步骤服务 — Marketo文档 — 产品文档
 title: 流步骤服务
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '1243'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
 
 # 流步骤服务 {#flow-step-service}
 
-自助服务流程步骤是一个框架和一组功能，用于创作、发布Web服务并将其集成到Adobe Marketo Engage智能营销活动中。 本指南面向那些想要安装和使用已创建和发布的服务的最终用户。 有关创作和发布您自己的服务的信息，请参阅 [服务提供商界面的GitHub存储库](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}。 可以找到概念验证对照表实现 [此处](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}。
+自助服务流程步骤是一个框架和一组功能，用于创作、发布Web服务并将其集成到Adobe Marketo Engage智能营销活动中。 本指南面向那些想要安装和使用已创建和发布的服务的最终用户。 有关创作和发布您自己的服务的信息，请参阅 [服务提供商界面的GitHub存储库](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## 入门和管理服务 {#onboarding-and-managing-services}
 
@@ -28,10 +28,6 @@ ht-degree: 0%
 ## 输入服务凭据 {#enter-service-credentials}
 
 要访问正在安装的服务，Marketo必须具有有效的API凭据。 您的服务提供商应向您提供这些凭据。 服务具有三个不同的身份验证选项，因此您可能会看到凭据的三个不同提示之一： **API密钥** 只有一个输入字段， **基本身份验证** 需要用户名和密码，并且可能还需要名为“领域”的字段，以及 **OAuth2** 使用 _客户端凭据_ 格兰特，这要求 _客户端ID_ 和 _客户端密钥_.
-
->[!NOTE]
->
->OAuth2在3月11日版本之前才可用。
 
 保存凭据时，Marketo将尝试调用服务的状态端点以验证凭据是否有效。 如果提供的凭据无效，您将看到指示此内容的错误。
 

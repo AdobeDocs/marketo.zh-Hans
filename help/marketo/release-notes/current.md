@@ -2,7 +2,7 @@
 description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 8%
@@ -19,7 +19,7 @@ ht-degree: 8%
 
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于 **2023年3月24日**，在接下来的几周中将分阶段推出其余功能。 发行功能和日期可能会发生更改。 请查看下面每个功能的状态。
+以下功能属于标准发行周期，将于 **2023年3月31日**，在接下来的几周中将分阶段推出其余功能。 发行功能和日期可能会发生更改。 请查看下面每个功能的状态。
 
 ### Marketo Engage现代UX {#modern-ux}
 
