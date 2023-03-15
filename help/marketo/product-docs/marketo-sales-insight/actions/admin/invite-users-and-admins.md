@@ -2,9 +2,9 @@
 description: 邀请用户和管理员 — Marketo文档 — 产品文档
 title: 邀请用户和管理员
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: 626ba3eb247be90a12240e366e53f3dba5364f37
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -31,17 +31,25 @@ ht-degree: 0%
    >
    >您还可以选择 **通过CSV邀请用户** 如果所有这些都列在电子表格中。
 
-1. 输入要添加的个人的电子邮件地址，然后单击 **邀请** （选择要将其添加到的团队是可选的）。
+1. 输入要添加的个人的电子邮件地址。
 
    ![](assets/invite-users-and-admins-4.png)
 
+1. 可选步骤：将用户添加到任何应加入的团队。 如果跳过此部分，则所有新成员都将添加到“每个人”团队。
+
+   ![](assets/invite-users-and-admins-5.png)
+
    >[!NOTE]
    >
-   >默认情况下，所有新成员都将添加到“每个人”团队。
+   >[了解有关团队的更多信息](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
+
+1. 选择要将新用户添加到的Marketo工作区。 如果您只有一个工作区，则会看到“默认”作为您的选项。 单击 **邀请**.
+
+   ![](assets/invite-users-and-admins-6.png)
 
 1. 单击 **确定**.
 
-   ![](assets/invite-users-and-admins-5.png)
+   ![](assets/invite-users-and-admins-7.png)
 
 ## 将用户设为管理员 {#make-a-user-an-admin}
 
@@ -53,14 +61,14 @@ ht-degree: 0%
 
 1. 单击齿轮图标，然后选择 **设置**.
 
-   ![](assets/invite-users-and-admins-6.png)
+   ![](assets/invite-users-and-admins-8.png)
 
 1. 在“管理员设置”下，选择 **用户管理**.
 
-   ![](assets/invite-users-and-admins-7.png)
+   ![](assets/invite-users-and-admins-9.png)
 
 1. 找到要成为管理员的用户，单击角色下拉列表，然后选择 **管理员**.
 
-   ![](assets/invite-users-and-admins-8.png)
+   ![](assets/invite-users-and-admins-10.png)
 
 很简单！
