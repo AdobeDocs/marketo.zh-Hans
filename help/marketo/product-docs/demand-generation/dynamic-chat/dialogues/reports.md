@@ -2,10 +2,10 @@
 description: 报表 — Marketo文档 — 产品文档
 title: 报告
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
-source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 8%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
  </tr>
  <tr>
   <td><strong>已参与</strong></td>
-  <td>每当访客单击聊天机器人锚点以打开对话框时，都会递增。</td>
+  <td>当访客与对话框中的至少一个信息卡交互（例如，问题、信息捕获等）时，递增</td>
  </tr>
  <tr>
   <td><strong>已完成</strong></td>
@@ -43,7 +43,7 @@ ht-degree: 8%
 
 >[!MORELIKETHIS]
 >
->* [创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [流设计器](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [受众标准](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
+>* [创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [流设计器](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [受众标准](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 
