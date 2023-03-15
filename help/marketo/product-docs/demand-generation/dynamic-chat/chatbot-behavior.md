@@ -2,7 +2,7 @@
 description: 聊天机器人行为 — Marketo文档 — 产品文档
 title: 聊天机器人行为
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: af8896e8675ae3ded689583fb5a348aff95cba83
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -52,7 +52,7 @@ ht-degree: 0%
         <p>V1访问WP1</p>
       </td>
       <td>
-        <p>D1将解析为V1 </p>
+        <p>D1将解析为V1</p>
       </td>
       <td>D1的触发器计数将增加1</td>
     </tr>
@@ -131,7 +131,7 @@ ht-degree: 0%
       <td>
         <p>D1仅针对WP1,WP2</p>
         <p>V1首次访问WP1</p>
-        <p>V1在D1上单击，但未响应 </p>
+        <p>V1在D1上单击，但未响应</p>
         <p>V1访问WP2</p>
       </td>
       <td>
@@ -181,7 +181,7 @@ ht-degree: 0%
         <p>D1仅针对WP1</p>
         <p>D2仅针对WP2</p>
         <p>V1首次访问WP1</p>
-        <p>V1在D1上单击，但未响应 </p>
+        <p>V1在D1上单击，但未响应</p>
         <p>V1访问WP2</p>
       </td>
       <td>D1将在WP1上解析<br/>
@@ -212,7 +212,7 @@ ht-degree: 0%
         <p>V1首次访问WP1</p>
         <p>V1在D1上单击并完成D1</p>
         <p>V1访问WP2</p>
-        <p>D2上的V1点击提供第一个响应 </p>
+        <p>D2上的V1点击提供第一个响应</p>
       </td>
       <td>D1将在WP1和完成后得到解决<br/>D2将在WP2上解析</td>
       <td>
@@ -255,7 +255,7 @@ ht-degree: 0%
       <td>
         <p>D1仅针对WP1</p>
         <p>V1首次访问WP1</p>
-        <p>V1与D1交互 </p>
+        <p>V1与D1交互</p>
         <p>D1已取消发布</p>
         <p>V1刷新WP1</p>
       </td>
@@ -300,7 +300,7 @@ ht-degree: 0%
       </td>
       <td>
         <p>D1的触发器计数将增加1</p>
-        <p>D1的参与次数将增加1 </p>
+        <p>D1的参与次数将增加1</p>
         <p>刷新后，将显示旧的D1，因此不会更改触发计数</p>
       </td>
     </tr>
@@ -325,7 +325,7 @@ ht-degree: 0%
     <tr>
       <td>
         <p>D1针对具有1个优先级的WP1</p>
-        <p>D2针对WP1，具有2个优先级 </p>
+        <p>D2针对WP1，具有2个优先级</p>
         <p>V1首次访问WP1</p>
         <p>V1在D1上单击并完成D1</p>
         <p>V1刷新WP1并查看D2<br/>V1在D2上单击并完成D2</p>
