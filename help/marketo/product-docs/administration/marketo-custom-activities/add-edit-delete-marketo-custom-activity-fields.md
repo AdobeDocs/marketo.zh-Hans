@@ -3,9 +3,9 @@ unique-page-id: 10100275
 description: 添加/编辑/删除Marketo自定义活动字段 — Marketo文档 — 产品文档
 title: 添加/编辑/删除Marketo自定义活动字段
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >只有在自定义活动从未发布的情况下，您才能编辑Api名称或将字段更改为“主”。 如果活动已发布，则只能编辑字段的名称和可选描述。
+   >只有在自定义活动从未发布的情况下，您才能编辑Api名称或将字段更改为“主”。
 
    >[!NOTE]
    >
