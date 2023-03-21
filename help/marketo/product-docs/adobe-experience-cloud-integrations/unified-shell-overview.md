@@ -3,9 +3,9 @@ description: 统一Shell概述 — Marketo文档 — 产品文档
 title: 统一Shell概述
 hide: true
 hidefromtoc: true
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: f48d0c91667072e5286604c0b7141296cba5542a
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Unified Shell将Adobe Experience Cloud应用程序和服务的“Shell”外观�
 
 如果您已经登录Adobe Experience Cloud产品，请单击菜单图标，然后选择 **[!DNL Marketo Measure]**.
 
-PICC
+![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
@@ -36,33 +36,31 @@ PICC
 
 [管理 [!DNL Marketo Engage] 域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) 没有援助 [!DNL Marketo Engage].
 
-PICC
+PIC2
 
 **集成帮助中心**
 
 在 [!DNL Marketo Engage] 应用程序。
 
-PICC
+![](assets/unified-shell-overview-3.png)
 
 **应用程序切换器**
 
 那些有权访问多个Adobe产品的用户将能够轻松地在它们之间切换。
 
-PICC
+PIC4
 
 **通知和公告**
 
 直接在应用程序中查看特定于产品的通知和一般Adobe产品公告并与之交互。
 
-PICC
-
-PICC
+![](assets/unified-shell-overview-5.png)
 
 **Adobe设置**
 
 单击用户档案图标可更改您的语言或其他Adobe范围的首选项。 您还可以 [!DNL Marketo Engage]通过单击 **我的设置**.
 
-PICC
+![](assets/unified-shell-overview-6.png)
 
 ## 常见问题解答 {#faq}
 
@@ -70,7 +68,7 @@ PICC
 
 如果您可以登录Adobe Experience Cloud，但查看如下页面，则问题可能出在 [!DNL Marketo Engage] 侧：
 
-PICC
+PIC7
 
 如果您收到上述错误，请 [联系支持人员](https://nation.marketo.com/t5/support/ct-p/Support) 以寻求帮助。
 
