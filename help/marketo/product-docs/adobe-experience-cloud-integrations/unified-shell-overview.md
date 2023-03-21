@@ -3,7 +3,7 @@ description: 统一Shell概述 — Marketo文档 — 产品文档
 title: 统一Shell概述
 hide: true
 hidefromtoc: true
-source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
+source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Unified Shell将Adobe Experience Cloud应用程序和服务的“Shell”外观�
 
 如果您尚未登录Adobe Experience Cloud产品，请直接登录到 [!DNL Marketo Engage] 此处： [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-如果您 _are_ 已登录到Adobe Experience Cloud产品，只需单击菜单图标并选择 **[!DNL Marketo Measure]**.
+如果您 _are_ 已登录到Adobe Experience Cloud产品，只需单击菜单图标并选择 **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
