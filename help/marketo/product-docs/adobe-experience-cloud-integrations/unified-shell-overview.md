@@ -3,9 +3,9 @@ description: 统一Shell概述 — Marketo文档 — 产品文档
 title: 统一Shell概述
 hide: true
 hidefromtoc: true
-source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
+source-git-commit: 427b79a584a003204f344ed9c219489c25abfc59
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Unified Shell将Adobe Experience Cloud应用程序和服务的“Shell”外观�
 
 **集成帮助中心**
 
-在 [!DNL Marketo Engage] 应用程序。
+从 [!DNL Marketo Engage] 应用程序。
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -52,7 +52,7 @@ Unified Shell将Adobe Experience Cloud应用程序和服务的“Shell”外观�
 
 **Adobe设置**
 
-单击用户档案图标可更改您的语言或其他Adobe范围的首选项。 您还可以 [!DNL Marketo Engage]通过单击 **我的设置**.
+单击用户档案图标可更改您的语言或其他Adobe范围的首选项。
 
 ![](assets/unified-shell-overview-5.png)
 
@@ -65,3 +65,7 @@ Unified Shell将Adobe Experience Cloud应用程序和服务的“Shell”外观�
 **用户历史记录、全局搜索、Marketo通知和任务栏在哪里？**
 
 这些功能已从顶部导航移至Unified Shell左侧的新栏。
+
+![](assets/unified-shell-overview-6.png)
+
+![](assets/unified-shell-overview-7.png)
