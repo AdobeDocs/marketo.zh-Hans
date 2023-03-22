@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: 为Marketo配置协议 — Marketo文档 — 产品文档
 title: 配置Marketo协议
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1021'
 ht-degree: 2%
 
 ---
@@ -20,13 +20,12 @@ ht-degree: 2%
 
 本文应与希望实施这些协议的公司IT部门分享。
 
->[!NOTE]
->
->如果您的IT团队使用限制Web访问允许列表，请要求他们添加以下域（包括星号）以允许使用所有Marketo资源和Web套接字：
+如果您的IT团队使用限制Web访问允许列表，请要求他们添加以下域（包括星号）以允许使用所有Marketo资源和Web套接字：
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
+* `*.experience.adobe.com`
 
 ## 步骤1:为登陆页面和电子邮件创建DNS记录 {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -40,7 +39,7 @@ ht-degree: 2%
 
 * 别名：输入 `[YourLandingPageCNAME]` （由营销提供）
 * 类型：CNAME
-* 指向：输入 `[MarketoAccountString].mktoweb.com` （由营销提供）
+* 指向：输入 `[MunchkinID].mktoweb.com` （由营销提供）
 
 `2` **为电子邮件跟踪链接添加CNAME**
 
@@ -59,7 +58,7 @@ ht-degree: 2%
 
 完成此过程后，通知您的营销团队。
 
-`4` **联系人 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}以开始配置SSL证书的过程。**
+`4` **联系人 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 以启动设置SSL证书的过程。**
 
 此过程最长可能需要3个工作日才能完成。
 
@@ -104,7 +103,7 @@ ht-degree: 2%
 
    `[DKIMDomain2]`:主机记录为 `[HostRecord2]` 和TXT值为 `[TXTValue2]`.
 
-   复制您在 [此处说明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}。 在您的IT员工完成此步骤后，请不要忘记在管理员>电子邮件> DKIM中验证每个域。
+   复制您在 [此处说明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. 在您的IT员工完成此步骤后，请不要忘记在管理员>电子邮件> DKIM中验证每个域。
 
 ## 步骤4:为域设置MX记录 {#step-set-up-mx-records-for-your-domain}
 
@@ -116,11 +115,11 @@ MX记录允许您接收来自的域的邮件，以处理回复和自动应答器
 
 **Webhooks**
 
-Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;}是出站集成机制。 当 [调用Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target=&quot;_blank&quot;}流操作作为智能营销活动的一部分执行，将向外部Web服务发出HTTP请求。 如果Web服务发布者在外允许列表部Web服务所在网络的防火墙上使用，则发布者必须将下面列出的IP地址块添加到其中允许列表。
+Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} 流量操作作为智能营销活动的一部分执行，则会向外部web服务发出HTTP请求。 如果Web服务发布者在外允许列表部Web服务所在网络的防火墙上使用，则发布者必须将下面列出的IP地址块添加到其中允许列表。
 
 **CRM同步**
 
-Marketo Engage [Salesforce CRM同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;}和 [Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;}是对CRM供应商发布的API发出出站HTTP请求的集成机制。 您必须确保IT组织不会阻止下面的任何IP地址块访问您的CRM供应商API。
+Marketo Engage [Salesforce CRM同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} 是对CRM供应商发布的API发出出站HTTP请求的集成机制。 您必须确保IT组织不会阻止下面的任何IP地址块访问您的CRM供应商API。
 
 **Marketo Engage出站IP地址块**
 
