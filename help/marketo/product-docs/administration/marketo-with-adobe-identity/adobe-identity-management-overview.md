@@ -2,9 +2,9 @@
 description: AdobeIdentity Management概述 — Marketo文档 — 产品文档
 title: AdobeIdentity Management概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
+source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ AdobeIdentity Management系统由三个组件组成。
 
 [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-**我是否仍然转到Marketo的“管理员”部分，以更改我的帐户？**
+**我是否仍然转到Marketo的“管理员”部分，为我的帐户更改用户帐户？**
 
 否，您需要导航到 [account.adobe.com](https://account.adobe.com).
 
@@ -122,6 +122,10 @@ Adobe IMS当前不支持任何类似Marketo设备授权功能的内容。
 **对于Adobe IMS，我们是否可以选择使用Adobe ID、Enterprise ID或Federated ID?**
 
 是，您可以确定要获得组织支持的身份类型。 更多信息可在此处找到： [身份概述](https://helpx.adobe.com/enterprise/using/identity.html) 和此处： [设置标识](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+**Adobe Admin Console支持哪些产品信息卡？**
+
+支持的产品信息卡包括：Marketo Engage、Marketo Measure、Marketo动态聊天、Marketo Sales Connect和Marketo Sales Insight Actions。
 
 >[!MORELIKETHIS]
 >
