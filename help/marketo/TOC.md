@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 0507bc7dfdfda6a19dd9838852c52de9d278ddc6
+source-git-commit: 21a0aea2d1daa6bbe3e1f4b08efc67ce1b217604
 workflow-type: tm+mt
 source-wordcount: '8849'
 ht-degree: 0%
@@ -1287,7 +1287,7 @@ ht-degree: 0%
          + [Sales Insight Actions功能概述](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 快速入门 {#getting-started}
             + [Sales Insight Actions用户入门指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Sales Insight Actions用户载入检查列表](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-onboarding-checklist.md)
+            + [Sales Insight Actions用户载入检查列表](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions管理设置指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [更改您的Marketo销售密码](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [产品使用限制](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
