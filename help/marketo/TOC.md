@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
+source-git-commit: c53002db5778ce06031a0727c85b1b30aca172e0
 workflow-type: tm+mt
-source-wordcount: '8843'
+source-wordcount: '8849'
 ht-degree: 0%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 0%
          + [聊天机器人行为](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [动态聊天活动](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + 日程安排 {#appointment-scheduling}
-            + [日历](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+            + [日程表](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [会议](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [路由](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + 集成 {#integrations}
@@ -1072,7 +1072,7 @@ ht-degree: 0%
             + [在我的令牌中使用URL](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [电子邮件抄送](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage现代UX {#marketo-engage-modern-ux}
-      + [概览](product-docs/marketo-engage-modern-ux/overview.md)
+      + [概述](product-docs/marketo-engage-modern-ux/overview.md)
       + [图标术语表](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [使用全局搜索](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [切换开关](product-docs/marketo-engage-modern-ux/toggle-switch.md)
@@ -1287,6 +1287,7 @@ ht-degree: 0%
          + [Sales Insight Actions功能概述](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 快速入门 {#getting-started}
             + [Sales Insight Actions用户入门指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
+            + [Sales Insight Actions用户载入检查列表](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions管理设置指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [更改您的Marketo销售密码](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [产品使用限制](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
