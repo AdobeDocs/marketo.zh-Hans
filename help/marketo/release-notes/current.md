@@ -2,7 +2,7 @@
 description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 8%
@@ -27,7 +27,7 @@ ht-degree: 8%
 
 * **增强了组件用于登陆页面模板详细信息和表单详细信息的功能**:“用户界面使用的新内容”选项卡在登陆页面模板详细信息和表单详细信息中提供了其他信息，包括有关已使用选定资产的资产的更多详细信息。 通过搜索、排序和筛选功能对资产的长列表执行分析。
 
-   <table> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -67,7 +67,7 @@ ht-degree: 8%
   </tbody>
 </table>
 
-### API增强功能 {#api-enhancements}
+### 集成更新 {#integration-updates}
 
 </br>
 
