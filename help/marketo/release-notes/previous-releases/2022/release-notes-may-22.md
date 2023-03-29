@@ -2,9 +2,9 @@
 description: 发行说明 — 2022年5月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年5月
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 本机CRM集成 {#native-crm-integration}
 
-**[本机Veeva CRM集成](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;}（可用性有限）**:通过本机集成在Veeva CRM和Marketo Engage之间同步活动，提高与医疗保健专业人士的参与度。 此集成允许营销人员为医疗保健专业人士创建更个性化、更无缝的跨渠道体验。 如果您有兴趣参与，请联系您的客户成功经理。
+**[本机Veeva CRM集成](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} （可用性有限）**:通过本机集成在Veeva CRM和Marketo Engage之间同步活动，提高与医疗保健专业人士的参与度。 此集成允许营销人员为医疗保健专业人士创建更个性化、更无缝的跨渠道体验。 如果您有兴趣参与，请联系Adobe客户团队（您的客户经理）。
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 **排除动态聊天的URL**:控制动态聊天在上显示哪些网页，并能够从定位标准中排除特定URL。
 
-**[电子邮件机器人活动筛选增强功能](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**:除了现有的IAB列表匹配标识之外，还能够根据隐藏的链接用户代理或IP和邻近模式识别机器人行为，从而继续保护数据库的运行状况。 查看机器人活动统计资料，以便您了解针对每种类型标识的机器人活动数量。
+**[电子邮件机器人活动筛选增强功能](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**:除了现有的IAB列表匹配标识之外，还能够根据隐藏的链接用户代理或IP和邻近模式识别机器人行为，从而继续保护数据库的运行状况。 查看机器人活动统计资料，以便您了解针对每种类型标识的机器人活动数量。
 
-**[电子邮件跟踪链接的STS标头](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**:通过应用安全传输安全标头来确保跟踪链接的流量始终安全，从而满足安全最佳实践。
+**[电子邮件跟踪链接的STS标头](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**:通过应用安全传输安全标头来确保跟踪链接的流量始终安全，从而满足安全最佳实践。
 
 ## 新一代体验 {#modern-ux}
 
@@ -65,8 +65,8 @@ ht-degree: 0%
 
 使用“在邀请用户对话框中登录”功能或者具有一封与多个用户关联的电子邮件的订阅电子邮件验证将与5月版本同时发布。 如果订阅有一封与多个用户关联的电子邮件，则将启用电子邮件验证，并要求这些用户解决冲突，并为每个用户使用唯一的电子邮件。 启用“在邀请用户对话框中登录”功能后，通过此功能邀请的用户将需要具有唯一的电子邮件地址。 对于通过此功能邀请的仅限API的用户，电子邮件地址不必是唯一的。
 
-**存档文件夹行为更改**:在此版本中，树上下文菜单中将不再提供在存档文件夹中创建新资产的功能。 用于创建新资产的菜单选项将在所有资产中都处于隐藏状态。 [在此处了解更多](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}。
+**存档文件夹行为更改**:在此版本中，树上下文菜单中将不再提供在存档文件夹中创建新资产的功能。 用于创建新资产的菜单选项将在所有资产中都处于隐藏状态。 [在此处了解更多](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
 **_产品发行网络研讨会_**
 
-[2022年3月和5月版Marketo Engage网络研讨会](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+[2022年3月和5月版Marketo Engage网络研讨会](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

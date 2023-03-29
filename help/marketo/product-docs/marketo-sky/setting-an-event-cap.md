@@ -4,9 +4,9 @@ title: 设置事件上限
 hide: true
 hidefromtoc: true
 exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->并非所有客户都购买了此功能。 有关详细信息，请联系您的客户成功经理。
+>并非每个人都购买了此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 >[!IMPORTANT]
 >在设置事件上限之前，程序中必须至少具有两个已批准的登陆页面（注册页面和注册完整页面）。

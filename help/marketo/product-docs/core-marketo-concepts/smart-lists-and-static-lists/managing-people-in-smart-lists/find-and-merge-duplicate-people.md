@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: 查找并合并重复人员 — Marketo文档 — 产品文档
 title: 查找并合并重复人员
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,6 @@ Marketo会在新用户进入系统时自动删除重复项。 但是，您的CRM
 
 ## 批量合并 {#bulk-merging}
 
-如果手动合并的重复项过多，请联系您的客户成功经理来讨论您的选项。
+如果手动合并的重复项过多，请联系Adobe客户团队（您的客户经理）来讨论您的选项。
 
-超级！ 如果您连接到CRM，则根据以下规则，记录将合并到该处。
+如果您已连接到CRM，则根据以下规则，记录将合并到该处。

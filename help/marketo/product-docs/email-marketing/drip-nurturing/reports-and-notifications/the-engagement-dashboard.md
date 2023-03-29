@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: 参与度功能板 — Marketo文档 — 产品文档
 title: 参与度仪表板
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能是使用Marketo收入周期浏览器的客户的附加组件。 有关更多详细信息，请联系您的客户成功经理。
+>此功能是使用Marketo收入周期浏览器的客户的附加组件。 有关更多详细信息，请联系Adobe客户团队（您的客户经理）。
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

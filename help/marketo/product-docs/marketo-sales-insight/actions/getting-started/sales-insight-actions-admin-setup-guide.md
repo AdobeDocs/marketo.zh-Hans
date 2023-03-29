@@ -2,9 +2,9 @@
 description: Sales Insight Actions管理设置指南 — Marketo文档 — 产品文档
 title: Sales Insight Actions管理设置指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 与您的Marketo成功经理确认已为您的客户成功帐户启用MSI操作(如果您没有CSM，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;})。
+>* 与Adobe客户团队（您的客户经理）确认已为您的Marketo Engage帐户启用MSI操作(如果您没有客户经理，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"})。
 >* 必须设置您的Marketo/Salesforce同步。
 
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->其他用户将不会通过Marketo添加，而是通过销售帐户用户管理页面添加。 [单击此处](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target=&quot;_blank&quot;}以了解有关添加其他用户的更多信息。
+>其他用户将不会通过Marketo添加，而是通过销售帐户用户管理页面添加。 [单击此处](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} 以了解有关添加其他用户的更多信息。
 
 ## 将Marketo销售帐户连接到Salesforce {#connect-marketo-sales-account-to-salesforce}
 
@@ -134,7 +134,7 @@ Marketo和Salesforce中存在的人员记录将同步到您的Marketo销售应�
 
 >[!NOTE]
 >
->要进一步了解Sales Insight Actions、Marketo和Salesforce之间人员和活动数据如何同步， [单击此处](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target=&quot;_blank&quot;}。
+>要进一步了解Sales Insight Actions、Marketo和Salesforce之间人员和活动数据如何同步， [单击此处](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target="_blank"}.
 
 ## 邀请个人用户执行MSI操作 {#invite-individual-users-to-msi-actions}
 
@@ -186,4 +186,4 @@ Marketo和Salesforce中存在的人员记录将同步到您的Marketo销售应�
 
 >[!NOTE]
 >
->完成此操作后，您可以升级现有MSI包，或安装新包并转到 [在Salesforce中配置MSI操作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target=&quot;_blank&quot;}。
+>完成此操作后，您可以升级现有MSI包，或安装新包并转到 [在Salesforce中配置MSI操作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.

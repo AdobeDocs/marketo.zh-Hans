@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: 验证Microsoft Dynamics同步 — Marketo文档 — 产品文档
 title: 验证Microsoft Dynamics同步
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >我们当前不支持对Marketo Dynamics同步进行沙盒刷新。 如果您需要刷新Dynamics CRM沙盒，则需要新的Marketo沙盒。 有关更多详细信息，请联系您的客户成功经理。
+   >我们当前不支持对Marketo Dynamics同步进行沙盒刷新。 如果您需要刷新Dynamics CRM沙盒，则需要新的Marketo沙盒。 有关更多详细信息，请联系Adobe客户团队（您的客户经理）。
 
 >[!MORELIKETHIS]
 >

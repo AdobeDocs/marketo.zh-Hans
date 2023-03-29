@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: 用于非本机Salesforce集成的销售分析 — Marketo文档 — 产品文档
 title: 针对非本机Salesforce集成的销售分析
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1400'
+source-wordcount: '1377'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 在开始设置MSI之前，为Marketo实例启用“MSI非本机”功能(如果未启用，且您已购买该功能，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} — 如果您尚未购买此功能，请联系您的客户成功经理)。
->* 具有的Salesforce帐户 [设置MSI包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}。
->* Marketo REST API [成功设置](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}。 公开的CRUD API将是执行非本机同步的基础。
->* 读取 [此博客帖子](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;}以了解对象和关系。
+>* 在开始设置MSI之前，为Marketo实例启用“MSI非本机”功能。 如果尚未购买且您已购买该功能，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. 如果您尚未购买此功能，请联系Adobe客户团队（您的客户经理）。
+>* 具有的Salesforce帐户 [设置MSI包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+>* Marketo REST API [成功设置](https://developers.marketo.com/rest-api/){target="_blank"}. 公开的CRUD API将是执行非本机同步的基础。
+>* 读取 [此博客帖子](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} 以了解对象和关系。
 >* 设置Salesforce对象以显示18个字符的全局唯一标识符（不区分大小写），而不是15个字符的全局唯一标识符。
 
 
@@ -53,8 +53,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 面向销售人员的API文档： [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target=&quot;_blank&quot;}
-   * 用于同步销售人员的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST){target=&quot;_blank&quot;}
+   * 面向销售人员的API文档： [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
+   * 用于同步销售人员的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. 将Salesforce帐户同步到Marketo。
 
@@ -85,8 +85,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 适用于公司的API文档： [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target=&quot;_blank&quot;}
-   * 用于同步公司的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target=&quot;_blank&quot;}
+   * 适用于公司的API文档： [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}
+   * 用于同步公司的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
 
 1. 将Salesforce潜在客户/联系人同步到Marketo。
 
@@ -159,8 +159,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * Opportunity的API文档： [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target=&quot;_blank&quot;}
-   * 用于同步机会的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunitys/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunitys/syncOpportunitiesUsingPOST){target=&quot;_blank&quot;}
+   * Opportunity的API文档： [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
+   * 用于同步机会的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunitys/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunitys/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 将Salesforce联系角色同步到Marketo。
 
@@ -196,8 +196,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * Opportunity的API文档： [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target=&quot;_blank&quot;}
-   * 用于同步机会的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunitys/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunitys/syncOpportunitiesUsingPOST){target=&quot;_blank&quot;}
+   * Opportunity的API文档： [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
+   * 用于同步机会的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunitys/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunitys/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 将上一个有趣的时刻/MSI评分字段同步到SFDC。
 
@@ -260,6 +260,6 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   Lead REST API的文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target=&quot;_blank&quot;}。
+   Lead REST API的文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
 
    正确使用外部字段是成功进行非本机同步的关键。 如果您在某些视图中看不到数据，则可能会发现某个特定字段未正确同步。 例如，如果在潜在客户的帐户下查看MSI小组件时未显示潜在客户的活动和有趣的时刻，则潜在客户的公司或帐户可能未正确同步。 在指定外部字段时对此潜在客户执行GET请求，将帮助您验证该潜在客户是否正确同步。 此外，Marketo中外部销售人员的电子邮件必须与Salesforce中该用户的电子邮件匹配。 如果电子邮件不匹配，则数据可能不会显示在Salesforce的Marketo选项卡中。

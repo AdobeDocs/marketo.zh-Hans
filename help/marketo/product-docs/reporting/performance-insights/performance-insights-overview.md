@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: 性能分析概述 — Marketo文档 — 产品文档
 title: 性能分析概述
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Marketo性能分析可帮助您优化渠道组合，以实现最大效果，并�
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请联系您的客户成功经理。
+>并非每个人都购买了此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 性能分析会加载过去24个月的数据（最多）。 这包括当前年初至今的数据以及上一年的数据。例如，在2019年1月31日，MPI将从当月开始加载数据，从2018年起每月加载一次数据。 2019年12月31日，MPI将在2019年和2018年每月加载一次数据。
 

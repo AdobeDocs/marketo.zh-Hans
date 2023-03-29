@@ -3,22 +3,22 @@ unique-page-id: 6095008
 description: 将Google AdWords添加为LaunchPoint服务 — Marketo文档 — 产品文档
 title: 将Google AdWords添加为LaunchPoint服务
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
 
 # 将Google AdWords添加为LaunchPoint服务 {#add-google-adwords-as-a-launchpoint-service}
 
-将您的Google AdWords帐户关联到Marketo，以自动将离线转化数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够轻松地查看哪些点击在您之后产生了合格的潜在客户、商机和新客户（或您想要跟踪的任何收入阶段） [添加自定义列](https://support.google.com/adwords/answer/3073556)AdWords中的{target=&quot;_blank&quot;}。 此信息未显示在Marketo UI中。
+将您的Google AdWords帐户关联到Marketo，以自动将离线转化数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够轻松地查看哪些点击在您之后产生了合格的潜在客户、商机和新客户（或您想要跟踪的任何收入阶段） [添加自定义列](https://support.google.com/adwords/answer/3073556){target="_blank"} 在AdWords中。 此信息未显示在Marketo UI中。
 
-详细了解 [Google离线转化导入功能](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}。
+详细了解 [Google离线转化导入功能](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请联系您的客户成功经理。
+>并非所有客户都购买了此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您还可以将 [Google AdWords as a Launchpoint服务（具有经理帐户）](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target=&quot;_blank&quot;}。
+>您还可以将 [Google AdWords as a Launchpoint服务（具有经理帐户）](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
 1. 转到 **管理员** 中。
 
@@ -87,10 +87,10 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >[自动标记](https://support.google.com/adwords/answer/1752125?hl=en)必须选择{target=&quot;_blank&quot;}才能使此功能正常工作。 必须在AdWords内完成停用。
+   >[自动标记](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 必须选择此功能才能正常工作。 必须在AdWords内完成停用。
 
 太棒了！ 现在，请参阅下面的相关文章，了解如何在收入模型中映射AdWords离线转化。
 
 >[!MORELIKETHIS]
 >
->[在收入模型中设置Google AdWords转化](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target=&quot;_blank&quot;}
+>[在收入模型中设置Google AdWords转化](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

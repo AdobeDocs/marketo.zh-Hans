@@ -2,22 +2,22 @@
 description: AdobeIdentity Management概述 — Marketo文档 — 产品文档
 title: AdobeIdentity Management概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1098'
+source-wordcount: '1096'
 ht-degree: 0%
 
 ---
 
 # AdobeIdentity Management概述 {#adobe-identity-management-overview}
 
-如果您自2022年2月15日起在Adobe Marketo Engage拥有新帐户（新帐户，而不只是现有帐户的新实例），则它可能会与AdobeIdentity Management系统集成，具体取决于购买的产品包。 要确定是否具有该功能，请联系您的Marketo管理员或您帐户的客户成功经理。
+如果您自2022年2月15日起在Adobe Marketo Engage拥有新帐户（新帐户，而不只是现有帐户的新实例），则它可能会与AdobeIdentity Management系统集成，具体取决于购买的产品包。 要查找是否具有该功能，请联系Adobe客户团队（您的客户经理）。
 
 2023年下半年，现有Marketo订阅将开始迁移至AdobeIdentity Management系统。
 
 >[!NOTE]
 >
->Marketo支持将无法提供有关Adobe IMS迁移的任何更新。 您的客户成功经理将在未来几个月内提供预计的时间表。
+>Marketo支持将无法提供有关Adobe IMS迁移的任何更新。 Adobe客户团队将在未来几个月内联系到预计时间表。
 
 ## 配置文件级别 {#profile-levels}
 
@@ -61,7 +61,7 @@ AdobeIdentity Management系统由三个组件组成。
 
 **现有Marketo Engage订阅何时将与IMS集成？**
 
-今年晚些时候，现有的Marketo订阅将迁移到AdobeIdentity Management系统。 Marketo支持将无法提供有关Adobe IMS迁移的任何更新。 您的客户成功经理将在未来几个月内提供预计的时间表。
+今年晚些时候，现有的Marketo订阅将迁移到AdobeIdentity Management系统。 Marketo支持将无法提供有关Adobe IMS迁移的任何更新。 Adobe客户团队将在未来几个月内联系到预计时间表。
 
 **Adobe产品管理员和Marketo Engage管理员之间有何区别？**
 
@@ -99,7 +99,7 @@ AdobeIdentity Management系统由三个组件组成。
 
 [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-**我是否仍然转到Marketo的“管理员”部分，为我的帐户更改用户帐户？**
+**我是否仍然转到Marketo的“管理员”部分，以更改我的帐户？**
 
 否，您需要导航到 [account.adobe.com](https://account.adobe.com).
 

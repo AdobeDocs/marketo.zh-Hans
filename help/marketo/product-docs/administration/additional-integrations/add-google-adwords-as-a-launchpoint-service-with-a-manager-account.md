@@ -3,24 +3,24 @@ unique-page-id: 7504893
 description: 使用经理帐户添加Google AdWords as a Launchpoint服务 — Marketo文档 — 产品文档
 title: 使用Manager帐户将Google AdWords添加为Launchpoint服务
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '359'
 ht-degree: 1%
 
 ---
 
 # 使用Manager帐户将Google AdWords添加为Launchpoint服务 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-将您的Google AdWords帐户关联到Marketo，以自动将离线转化数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够轻松地查看哪些点击在您之后产生了合格的潜在客户、商机和新客户（或您想要跟踪的任何收入阶段）  [添加自定义列](https://support.google.com/adwords/answer/3073556)AdWords中的{target=&quot;_blank&quot;}。 此信息未显示在Marketo UI中。
+将您的Google AdWords帐户关联到Marketo，以自动将离线转化数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够轻松地查看哪些点击在您之后产生了合格的潜在客户、商机和新客户（或您想要跟踪的任何收入阶段）  [添加自定义列](https://support.google.com/adwords/answer/3073556){target="_blank"} 在AdWords中。 此信息未显示在Marketo UI中。
 
-如果您有多个Google Adwords帐户，则可以使用 [Google AdWords管理员帐户](https://www.google.com/adwords/manager-accounts/){target=&quot;_blank&quot;}（以前称为“我的客户端中心”），以将它们与Marketo集成。
+如果您有多个Google Adwords帐户，则可以使用 [Google AdWords管理员帐户](https://www.google.com/adwords/manager-accounts/){target="_blank"} （以前称为My Client Center），以将其与Marketo集成。
 
-详细了解 [Google离线转化导入功能](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}。
+详细了解 [Google离线转化导入功能](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请联系您的客户成功经理。
+>并非所有客户都购买了此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您还可以将 [作为Launchpoint服务的独立Google AdWords帐户](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target=&quot;_blank&quot;}。
+>您还可以将 [作为Launchpoint服务的独立Google AdWords帐户](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
 1. 转到 **管理员** 中。
 
@@ -81,7 +81,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >[自动标记](https://support.google.com/adwords/answer/1752125?hl=en)必须选择{target=&quot;_blank&quot;}才能使此功能正常工作。 它必须在AdWords中激活。
+   >[自动标记](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 必须选择此功能才能正常工作。 它必须在AdWords中激活。
 
 1. 单击 **下一个**.
 
@@ -95,4 +95,4 @@ ht-degree: 1%
 
    >[!MORELIKETHIS]
    >
-   >[使用经理帐户在收入模型中设置Google AdWords转化](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target=&quot;_blank&quot;}
+   >[使用经理帐户在收入模型中设置Google AdWords转化](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

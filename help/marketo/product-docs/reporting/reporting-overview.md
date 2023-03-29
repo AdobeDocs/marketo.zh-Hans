@@ -2,9 +2,9 @@
 description: 报表概述 — Marketo文档 — 产品文档
 title: 报表概述
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ Marketo提供了多种报表模块，以满足不同的需求。
 
 ## 基本报表 {#basic-reporting}
 
-您可以设置 [基本报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)在程序内或Analytics区域中的{target=&quot;_blank&quot;}。 基本报表由不同类型的现成报表组成，可灵活进行过滤、排序和调整时间范围。
+您可以设置 [基本报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} 在项目或Analytics区域中。 基本报表由不同类型的现成报表组成，可灵活进行过滤、排序和调整时间范围。
 
 ## 电子邮件分析 {#email-insights}
 
-使用Analytics和Send获取 [强大的洞察力](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;}。
+使用Analytics和Send获取 [强大的洞察力](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} 来自历史数据的电子邮件。
 
 ## 性能分析 {#performance-insights}
 
-[性能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;}涵盖参与、管道和收入生成的渠道性能和节目性能。
+[性能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} 包括用于参与度、管道和创收的渠道绩效和项目绩效。
 
 ## 高级BI Analytics报表 {#advanced-bi-analytics-reporting}
 
@@ -31,7 +31,7 @@ _(以前称为“收入周期浏览器”/“高级Report Builder”)_
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买过高级BI分析和高级历程分析模块。 有关更多信息，请联系您的客户成功经理。
+>并非每个人都购买了高级BI分析和高级历程分析模块。 请联系Adobe客户团队（您的客户经理）以了解更多信息。
 
 跟踪您的营销计划的ROI。 分析电子邮件、人员、项目、机会、模型性能分析（公司）和模型性能分析（潜在客户）。 BI资源管理器允许您在分析区域内创建自定义报表，并使用您的数据创建图形、图表、透视表和功能板。
 

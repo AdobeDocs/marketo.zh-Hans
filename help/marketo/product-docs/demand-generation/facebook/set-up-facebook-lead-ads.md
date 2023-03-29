@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: 设置Facebook潜在客户广告 — Marketo文档 — 产品文档
 title: 设置Facebook潜在客户广告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->要将Facebook潜在客户广告添加到您的实例，请联系您的客户成功经理。
+>要将Facebook潜在客户广告添加到您的实例，请联系Adobe客户团队（您的客户经理）。
 
 1. 转到Marketo **管理员**.
 

@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: 发行说明 — 2018年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2018年冬季
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Marketo正在利用我们的大数据架构来增加触发器促销活动吞吐�
 
 >[!AVAILABILITY]
 >
->性能分析是一个附加产品。 如需报价，请联系您的Marketo客户成功经理或客户经理。
+>性能分析是一个附加产品。 有关报价，请联系您的Marketo客户经理或客户经理。
 
 通过归因分析、交互式可视化图表和详细数据表，了解营销活动和渠道对业务结果有何影响。
 

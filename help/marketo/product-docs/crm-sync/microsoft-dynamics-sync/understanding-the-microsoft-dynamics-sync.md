@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: 了解Microsoft Dynamics同步 — Marketo文档 — 产品文档
 title: 了解Microsoft Dynamics同步
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Marketo和Microsoft动力集团于一身。 我们将您的销售和营销数据
 
 >[!CAUTION]
 >
->我们当前不支持对Marketo Dynamics同步进行沙盒刷新。 如果您需要刷新Dynamics CRM沙盒，则需要新的Marketo沙盒。 有关更多详细信息，请联系您的客户成功经理。
+>我们当前不支持对Marketo Dynamics同步进行沙盒刷新。 如果您需要刷新Dynamics CRM沙盒，则需要新的Marketo沙盒。 有关更多详细信息，请联系Adobe客户团队（您的客户经理）。
 
 ## 同步工作原理 {#how-sync-works}
 

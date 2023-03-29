@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: 发行说明 — 2018年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2018年春季
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Sales Engage是一个附加产品。 如需报价，请联系您的Marketo客户成功经理或客户经理。
+>Sales Engage是一个附加产品。 有关报价，请联系您的Marketo客户经理或客户经理。
 
 通过使销售人员能够通过智能、内容、播放簿和分析将更多商机转化为销售机会，从而推动更多渠道和收入。 “销售参与”为销售和营销提供了一个统一的平台，用于在整个客户历程中进行参与，并通过共享的客户接触点视图实现更好的协调。
 

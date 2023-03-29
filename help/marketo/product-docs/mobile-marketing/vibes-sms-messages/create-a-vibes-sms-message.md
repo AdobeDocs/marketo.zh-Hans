@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: 创建视频短信消息 — Marketo文档 — 产品文档
 title: 创建视频短信消息
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能可作为您的Adobe Marketo Engage帐户的加载项使用。 要正确配置，必须通过Adobe购买。 有关详细信息，请联系您的Adobe客户成功经理。
+>此功能可作为您的Adobe Marketo Engage帐户的加载项使用。 要正确配置，必须通过Adobe购买。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 >[!NOTE]
 >

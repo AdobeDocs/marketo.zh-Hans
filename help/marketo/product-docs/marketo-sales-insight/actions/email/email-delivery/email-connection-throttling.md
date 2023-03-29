@@ -2,7 +2,7 @@
 description: 电子邮件连接限制 — Marketo文档 — 产品文档
 title: 电子邮件连接限制
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能目前处于测试版版本中。 要加入此测试版，请联系您的客户成功经理。
+>此功能目前处于测试阶段。 要加入，请联系Adobe客户团队（您的客户经理）。
 
 Email Connection Throttling允许Sales Connect管理员在使用Gmail或Exchange作为您的投放渠道时配置电子邮件的发送率，以便将电子邮件传递给投放渠道提供商的速率不会超出强制限制。
 

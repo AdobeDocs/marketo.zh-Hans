@@ -2,9 +2,9 @@
 description: 自定义对象元数据导出 — Marketo文档 — 产品文档
 title: 自定义对象元数据导出
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请联系您的客户成功经理。
+>并非所有客户都购买了此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 1. 在我的Marketo中，单击 **管理员**.
 

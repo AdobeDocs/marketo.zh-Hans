@@ -4,9 +4,9 @@ title: 设置事件目标
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 为事件指定特定目标并查看其效果。
 
 >[!IMPORTANT]
->并非所有客户都有权访问此功能。 有关详细信息，请联系您的客户成功经理。
+>
+>并非每个人都购买了此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 1. 创建事件程序。
 

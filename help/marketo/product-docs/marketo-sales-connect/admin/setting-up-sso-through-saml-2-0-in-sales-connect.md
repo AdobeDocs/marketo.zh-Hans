@@ -3,9 +3,9 @@ unique-page-id: 14352405
 description: 在Sales Connect - Marketo文档 — 产品文档中通过SAML 2.0设置单点登录
 title: 在Sales Connect中通过SAML 2.0设置单点登录
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这仅适用于 **Marketo Sales Connect** 客户。 如果您没有Sales Connect，但想了解更多信息，请联系您的客户成功经理。
+>这仅适用于 **Marketo Sales Connect** 用户。 如果您没有Sales Connect，但想了解更多信息，请联系Adobe客户团队（您的客户经理）。
 
 ## 要求 {#requirements}
 

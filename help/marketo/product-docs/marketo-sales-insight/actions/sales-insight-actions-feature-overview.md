@@ -2,9 +2,9 @@
 description: 销售分析操作功能概述 — Marketo文档 — 产品文档
 title: Sales Insight Actions功能概述
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1356'
+source-wordcount: '1360'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能当前正在分阶段推出。 请联系您的客户成功经理或发送电子邮件 `sales-insights(at)adobe(dot)com` 请求访问权限。
+>此功能当前正在向所有Sales Insight用户推出。 如果您希望在推广中按优先顺序排列，请发送电子邮件至 `sales-insights(at)adobe(dot)com`.
 
 >[!NOTE]
 >
->有关Sales Insight Actions的视频概述， [单击此处](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target=&quot;_blank&quot;}。
+>有关Sales Insight Actions的视频概述， [单击此处](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
