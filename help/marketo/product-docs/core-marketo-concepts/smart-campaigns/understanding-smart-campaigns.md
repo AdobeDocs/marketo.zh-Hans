@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: 了解智能营销活动 — Marketo文档 — 产品文档
 title: 了解智能营销活动
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '243'
 ht-degree: 1%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 1%
 
 如果Marketo是一辆强大的汽车，那么智能营销活动就是真正的引擎。 入门很简单，但几乎可以做任何你要求的事情。
 
-智能营销活动有三个主要方面：的 [智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [流量](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target=&quot;_blank&quot;}和 [计划](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target=&quot;_blank&quot;}选项卡。
+智能营销活动有三个主要方面：的 [智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 选项卡。
 
 ## 智能列表 {#smart-list}
 
-智能列表是您如何定义要通过智能营销活动定位的WHO。 它包含过滤器和触发器。
+智能列表是定义 _who_ 您希望使用智能营销活动进行定位。 它包含过滤器和触发器。
 
 <table> 
  <tbody> 
@@ -42,7 +42,7 @@ ht-degree: 1%
 
 您可以通过各种方式组合过滤器，并将它们与触发器结合使用。 这是一个强大的工具 — 试试它。
 
-## 流量 {#flow}
+## 流 {#flow}
 
 该流程包括您希望智能营销活动执行的步骤，包括等待步骤和拆分选项。
 
@@ -58,4 +58,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[创建新的智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}
+>[创建新的智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}

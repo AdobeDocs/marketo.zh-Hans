@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: 编辑现有的人员分区 — Marketo文档 — 产品文档
 title: 编辑现有人员分区
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -22,24 +22,22 @@ ht-degree: 0%
 >
 >[创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-1. 在 **管理员**，单击 **工作区和分区**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-17-10-3a51-3a23.png)
+   ![](assets/edit-an-existing-person-partition-1.png)
+
+1. 单击 **工作区和分区**.
+
+   ![](assets/edit-an-existing-person-partition-2.png)
 
 1. 在 **人员分区** 选项卡，选择要编辑的人员分区并单击 **编辑人员分区**.
 
-   ![](assets/two-5.png)
+   ![](assets/edit-an-existing-person-partition-3.png)
 
 1. 输入人员分区 **名称**, **工作区** 属于，然后单击 **保存**.
 
-   ![](assets/three-5.png)
+   ![](assets/edit-an-existing-person-partition-4.png)
 
 1. 保存更改后，您应会看到更新！
 
-   ![](assets/four-4.png)
-
-就这样。 这样一个强大的功能似乎应该很复杂，但却不是。
-
->[!CAUTION]
->
->测量两次，剪一次。 您不希望将分区分配给错误的工作区。
+   ![](assets/edit-an-existing-person-partition-5.png)

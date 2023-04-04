@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: 编辑工作区 — Marketo文档 — 产品文档
 title: 编辑工作区
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,17 @@ ht-degree: 0%
 >
 >使用刷新工作区 [了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. 在 **管理员**，单击 **工作区和分区**.
+1. 转到 **管理员** 的上界。
 
-   ![](assets/image2014-9-17-11-3a59-3a11-1.png)
+   ![](assets/edit-a-workspace-1.png)
+
+1. 单击 **工作区和分区**.
+
+   ![](assets/edit-a-workspace-2.png)
 
 1. 选择要编辑的工作区，然后单击 **编辑工作区**.
 
-   ![](assets/two-7.png)
+   ![](assets/edit-a-workspace-3.png)
 
 1. 您可以选择不同的潜在客户分区，并从下拉列表中选择不同的主人员分区。
 
@@ -36,7 +40,7 @@ ht-degree: 0%
    >
    >您可以 [创建更多人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) 如果你需要的话。
 
-   ![](assets/three-7.png)
+   ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ ht-degree: 0%
 
    如果启用了多个品牌域，则可以更改为其他主品牌域。 单击 **保存**.
 
-   ![](assets/four-6.png)
+   ![](assets/edit-a-workspace-5.png)
 
    >[!NOTE]
    >
