@@ -3,22 +3,22 @@ unique-page-id: 1147051
 description: 智能营销活动核对清单 — Marketo文档 — 产品文档
 title: 智能营销活动核对清单
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
 # 智能营销活动核对清单 {#smart-campaign-checklist}
 
-请按照以下步骤操作，确保智能营销活动的顺利运行，并尽可能防止出现错误。
+请按照以下步骤确保智能营销活动的顺利运行，并尽可能防止错误。
 
 ## 删除智能列表错误 {#get-rid-of-smart-list-errors}
 
 在您的智能营销活动中，单击 **智能列表**. 通过修复错误，删除您看到的任何红色曲线。
 
-![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 在您的智能营销活动中，单击 **流量**. 通过修复错误，删除您看到的任何红色曲线。
 
-![](assets/image2014-9-22-16-3a10-3a49.png)
+![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
@@ -44,22 +44,22 @@ ht-degree: 0%
 
 在 **计划** 选项卡，勾选 **智能** **列表** **状态** 智能营销活动中需要修复的任何错误。
 
-![](assets/three.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## 检查人员限制限制 {#check-person-restrictions-limit}
 
 在 **计划** 选项卡，确保符合条件的人员数量不超过人员限制限制。
 
-![](assets/four.png)
+![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->如果需要，您可以  [在智能营销活动中覆盖人员限制](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>如果需要，您可以 [在智能营销活动中覆盖人员限制](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**提醒**
 >
->如果智能营销活动仍然失败，请了解如何 [了解通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 弄明白出了什么问题，以及如何解决。
+>如果您的智能营销活动仍然失败，请了解如何 [了解通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 弄明白出了什么问题，以及如何解决。
 
-干得好！ 在运行智能营销活动之前，请准备好此核对清单。
+干得好！ 运行智能营销活动之前，请准备好此核对清单。

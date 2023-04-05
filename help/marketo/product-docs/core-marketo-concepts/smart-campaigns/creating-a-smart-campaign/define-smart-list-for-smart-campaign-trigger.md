@@ -3,28 +3,28 @@ unique-page-id: 1146942
 description: 为智能营销活动定义智能列表 |触发器 — Marketo文档 — 产品文档
 title: 为智能营销活动定义智能列表 |触发器
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # 为智能营销活动定义智能列表 |触发器 {#define-smart-list-for-smart-campaign-trigger}
 
-通过添加触发器，根据实时事件，一次在一个人上运行智能营销活动。
+通过添加触发器，根据实时事件，使智能营销活动一次在一个人上运行。
 
 1. 在您的智能营销活动中，单击 **智能列表** 选项卡。
 
-   ![](assets/image2014-9-19-16-3a22-3a55.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
-1. 搜索触发器，然后将触发器拖放到画布中。
+1. 搜索所需的触发器，并将其拖放到画布中。
 
-   ![](assets/image2014-9-19-16-3a23-3a24.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-2.png)
 
    >[!NOTE]
    >
-   >具有触发器的智能营销活动在中运行 **触发器** 模式。 它根据触发的事件和任何其他过滤器一次只在一个人上运行。
+   >具有触发器的智能营销活动在 **触发器** 模式。 它根据触发的事件和任何其他过滤器一次只在一个人上运行。
 
    >[!IMPORTANT]
    >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 单击下拉列表，然后选择运算符。
 
-   ![](assets/image2014-9-19-16-3a23-3a29.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-3.png)
 
    >[!CAUTION]
    >
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在同时具有触发器和过滤器的智能营销活动中，触发器位于顶部，触发时，只有满足过滤器标准的用户才会进入流程。
+   >在同时具有触发器和过滤器的智能营销活动中，触发器将位于顶部，触发时，只有满足过滤器标准的用户才会进入流程。
 
 1. 定义触发器。
 
-   ![](assets/image2014-9-19-16-3a24-3a36.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-4.png)
 
    >[!NOTE]
    >
