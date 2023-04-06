@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: 自动触发器促销活动清理 — Marketo文档 — 产品文档
 title: 自动触发营销活动清理
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Marketo每季度会发现一次智能营销活动，这些活动已休眠（无�
 
 当然！ 每季度一次，您将提前一周收到通知，显示我们计划停用的每个营销活动。
 
-1. 转到 **通知** 选项卡。
+1. 单击 **通知** 图标。
 
-   ![](assets/notifications.png)
+   ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
 1. 单击 **已计划空闲触发器促销活动清理**. 然后，单击 **这些空闲触发器营销活动将被停用** 链接。
 
-   ![](assets/image2015-4-27-20-3a48-3a35.png)
+   ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
    您将看到计划停用的智能营销活动列表。
 
-   ![](assets/image2015-4-27-20-3a35-3a29.png)
+   ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## 将停用哪些营销活动？ {#which-campaigns-will-be-deactivated}
 
@@ -53,8 +53,8 @@ Marketo每季度会发现一次智能营销活动，这些活动已休眠（无�
 
 1. 选择 **已计划空闲触发器促销活动清理** 通知。 单击 **这些空闲触发器促销活动** 链接。
 
-   ![](assets/image2015-4-27-20-3a56-3a41.png)
+   ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
 1. 您将看到已停用营销活动的列表。
 
-   ![](assets/image2015-4-27-20-3a58-3a38.png)
+   ![](assets/automatic-trigger-campaign-cleanup-5.png)
