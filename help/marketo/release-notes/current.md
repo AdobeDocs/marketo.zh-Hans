@@ -2,10 +2,10 @@
 description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
+source-git-commit: 3c4f24edeba54a5275ae876e228388cf975438fb
 workflow-type: tm+mt
-source-wordcount: '622'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -115,8 +115,8 @@ ht-degree: 8%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发运</td>
+   <td>不适用</td>
   </tr>
   </tbody>
 </table>
@@ -129,8 +129,8 @@ ht-degree: 8%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发运</td>
+   <td>不适用</td>
   </tr>
   </tbody>
 </table>
@@ -143,8 +143,8 @@ ht-degree: 8%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发运</td>
+   <td>不适用</td>
   </tr>
   </tbody>
 </table>
@@ -157,8 +157,8 @@ ht-degree: 8%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发运</td>
+   <td>不适用</td>
   </tr>
   </tbody>
 </table>
@@ -171,8 +171,8 @@ ht-degree: 8%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发运</td>
+   <td>不适用</td>
   </tr>
   </tbody>
 </table>
