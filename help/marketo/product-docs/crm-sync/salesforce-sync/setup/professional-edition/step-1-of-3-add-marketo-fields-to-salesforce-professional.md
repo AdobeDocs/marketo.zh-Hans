@@ -3,10 +3,10 @@ unique-page-id: 11372975
 description: 步骤1（共3步） — 将Marketo字段添加到Salesforce（专业版） — Marketo文档 — 产品文档
 title: 步骤1（共3步） — 将Marketo字段添加到Salesforce（专业）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -251,13 +251,10 @@ Salesforce中潜在客户对象上的自定义字段应映射到联系人对象�
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. 对您创建的任何其他字段重复上述步骤。
+
 1. 完成后，单击保存。
 
 够轻松的吧？
-
->[!NOTE]
->
->这是 [整个过程的视频](https://nation.marketo.com/videos/1475) 这应该很清楚！
 
 >[!MORELIKETHIS]
 >
