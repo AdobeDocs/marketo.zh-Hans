@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: 促销活动操作 — 删除智能促销活动 — Marketo文档 — 产品文档
 title: 营销活动操作 — 删除智能营销活动
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -20,19 +20,19 @@ ht-degree: 0%
 
 1. 转到 **营销活动** 的上界。
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. 导航到不活动的智能营销活动。 在 **Campaign** **操作**，单击 **删除**.
+1. 导航到不活动的智能营销活动。 在 **Campaign** **操作** 下拉列表，选择 **删除**.
+
+   ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
    >要取消对活动智能营销活动的处理而不将其完全删除，请了解如何 [中止智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-   ![](assets/image2014-9-22-16-3a41-3a55.png)
-
 1. 单击 **删除** 确认。
 
-   ![](assets/image2014-9-22-16-3a41-3a59.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 
    >[!CAUTION]
    >

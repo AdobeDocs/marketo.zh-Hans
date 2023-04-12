@@ -3,7 +3,7 @@ unique-page-id: 1146991
 description: 停用触发器智能营销活动 |计划选项卡 — Marketo文档 — 产品文档
 title: 停用触发器智能营销活动 |计划选项卡
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 1. 查找并选择您的活动触发器营销活动。
 
-   ![](assets/selectprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
 1. 在计划选项卡下，单击 **停用**.
 
-   ![](assets/deactivateprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
 1. 单击以确认 **停用**.
 
-   ![](assets/image2014-9-22-13-3a59-3a6.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >
