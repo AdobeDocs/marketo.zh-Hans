@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: 为电子邮件可投放性设置SPF和DKIM - Marketo文档 — 产品文档
 title: 为电子邮件投放能力设置SPF和DKIM
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
+source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -46,12 +46,11 @@ DKIM是一种身份验证协议，电子邮件接收者使用该协议来确定�
 
 **如何设置DKIM?**
 
-请参阅 [设置自定义DKIM签名](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
+请参阅 [设置自定义DKIM签名](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [进一步了解SPF及其工作方式](http://www.open-spf.org/Introduction/)
->* [Marketo的电子邮件投放工具](https://www.marketo.com/software/email-marketing/email-deliverability/)
->* [我的SPF设置正确吗？](https://www.kitterman.com/spf/validate.html)
->* [我使用了正确的语法吗？](http://www.open-spf.org/SPF_Record_Syntax/)
+>* [进一步了解SPF及其工作方式](http://www.open-spf.org/Introduction/){target="_blank"}
+>* [我的SPF设置正确吗？](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [我使用了正确的语法吗？](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
 
