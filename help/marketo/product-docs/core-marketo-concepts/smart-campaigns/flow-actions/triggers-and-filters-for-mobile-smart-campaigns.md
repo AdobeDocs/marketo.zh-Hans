@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: 适用于移动智能促销活动的触发器和过滤器 — Marketo文档 — 产品文档
 title: 适用于移动智能促销活动的触发器和过滤器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -28,13 +28,13 @@ ht-degree: 0%
 
 搜索 **移动设备应用程序** 在右侧面板中，列出所有移动设备应用程序触发器和过滤器。
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## 约束 {#constraints}
 
 对触发器和过滤器使用限制，以进一步对数据进行排序。
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 除“已发送推送通知”之外，所有触发器和过滤器都包含以下两个标准限制：
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 **约束**:设备类型、平台、移动设备应用程序、移动设备应用程序版本、设备类型、安装源、启用推送以及区域设置
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 **约束**:设备类型、平台、应用程序版本、区域设置和安装源
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 已打开/已打开移动设备应用程序
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
 **约束**:设备类型和平台
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 具有/具有移动设备应用程序活动
 
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 以下是过滤器在Marketo中的外观：
 
-![](assets/image2015-8-17-13-3a16-3a12.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -163,7 +163,7 @@ ht-degree: 0%
 
 **约束**:设备类型、平台和会话长度（秒）
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 点按/点按推送通知
 
@@ -175,7 +175,7 @@ ht-degree: 0%
 
 **约束**:设备类型、平台、移动设备应用程序版本、推送通知和平台版本
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
@@ -189,7 +189,7 @@ ht-degree: 0%
 
 **约束**:推送通知和移动设备应用程序
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
