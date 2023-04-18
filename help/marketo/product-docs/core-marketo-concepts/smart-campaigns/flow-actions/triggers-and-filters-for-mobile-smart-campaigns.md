@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: 适用于移动智能促销活动的触发器和过滤器 — Marketo文档 — 产品文档
 title: 适用于移动智能促销活动的触发器和过滤器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 >
 >该过滤器将找到当前安装和以前的安装，因为Marketo不跟踪应用程序卸载。
 
-**约束**:设备类型、平台、移动设备应用程序、移动设备应用程序版本、设备类型、安装源、启用推送以及区域设置
+**约束**  — 设备类型、平台、移动设备应用程序、移动设备应用程序版本、设备类型、安装源、启用推送以及区域设置
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 * 未安装移动设备应用程序 — 非活动过滤器
 
-**约束**:设备类型、平台、应用程序版本、区域设置和安装源
+**约束**  — 设备类型、平台、应用程序版本、区域设置和安装源
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 * 未打开移动设备应用程序 — 非活动过滤器
 
-**约束**:设备类型和平台
+**约束**  — 设备类型和平台
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 * 没有移动设备应用程序活动 — 非活动过滤器
 
-**约束**:设备类型和平台，以及五个其他类型和平台：
+**约束**  — 设备类型、平台、移动设备应用程序版本、区域设置、平台版本，以及五个其他版本：
 
 * 操作 — 自定义移动设备活动
 
@@ -161,7 +161,7 @@ ht-degree: 0%
 
 * 没有移动设备应用程序会话 — 非活动过滤器
 
-**约束**:设备类型、平台和会话长度（秒）
+**约束**  — 设备类型、平台和会话长度（秒）
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -173,7 +173,7 @@ ht-degree: 0%
 
 * 未点按推送通知 — 非活动过滤器
 
-**约束**:设备类型、平台、移动设备应用程序版本、推送通知和平台版本
+**约束**  — 设备类型、平台、移动设备应用程序版本、推送通知和平台版本
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 * 未发送推送通知 — 非活动过滤器
 
-**约束**:推送通知和移动设备应用程序
+**约束**  — 推送通知和移动设备应用程序
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
