@@ -3,7 +3,7 @@ unique-page-id: 1147066
 description: 在智能促销活动中覆盖人员限制 — Marketo文档 — 产品文档
 title: 在智能营销活动中覆盖人员限制
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Marketo允许您设置符合智能营销活动资格的最大人员数；这有�
 
 1. 在营销活动中，转到您的智能营销活动，然后单击 **计划**.
 
-   ![](assets/one.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
 1. 在智能营销活动设置中，单击 **编辑**.
 
-   ![](assets/two.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Marketo允许您设置符合智能营销活动资格的最大人员数；这有�
 
 1. 输入新限制，然后单击 **保存。**
 
-   ![](assets/three.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
    如果符合条件的人数超过设置的限制，则不会运行智能营销活动。
 
