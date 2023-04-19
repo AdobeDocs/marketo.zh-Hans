@@ -3,7 +3,7 @@ unique-page-id: 1146970
 description: 计划批量智能营销活动以在以后运行 — Marketo文档 — 产品文档
 title: 计划批量智能营销活动以在以后运行
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -20,23 +20,23 @@ ht-degree: 0%
 
 1. 选择要运行的批量智能营销活动，转到 **计划** ，然后单击 **运行一次**.
 
-   ![](assets/scheduledruns2.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
 1. 单击 **稍后运行**，然后单击日历图标并选择您希望智能营销活动运行的日期。
 
-   ![](assets/runonce.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
 1. 选择您希望智能营销活动在运行的时间（至少提前15分钟）。
 
-   ![](assets/runoncetime.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
 1. 单击 **保存**.
 
-   ![](assets/runoncetimesave.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
 1. 您可以通过查看 **计划** 选项卡。
 
-   ![](assets/scheduledrunsbox.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-5.png)
 
    >[!NOTE]
    >
