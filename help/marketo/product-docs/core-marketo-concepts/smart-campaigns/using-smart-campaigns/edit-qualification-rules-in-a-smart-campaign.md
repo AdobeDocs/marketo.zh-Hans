@@ -3,7 +3,7 @@ unique-page-id: 1146974
 description: 在智能营销活动中编辑资格规则 — Marketo文档 — 产品文档
 title: 在智能营销活动中编辑资格规则
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. 在您的智能营销活动中，单击 **计划** 选项卡，然后 **编辑设置**.
 
-   ![](assets/programeditsettings-hands.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 1. 选择通过智能营销活动流程来引导用户的频率： **仅一次**, **每次**&#x200B;或 **每天**/**周**/**月**.
 
-   ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
