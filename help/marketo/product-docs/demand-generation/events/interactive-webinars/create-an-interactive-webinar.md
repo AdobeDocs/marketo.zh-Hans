@@ -4,16 +4,16 @@ title: 创建交互式网络研讨会
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
+source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
 # 创建交互式网络研讨会 {#create-an-interactive-webinar}
 
-简介。
+通过几个简单的步骤创建交互式网络研讨会。
 
 1. 转到 **营销活动**.
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. 命名您的事件。 在“程序类型”(Program Type)下，选择 **事件**.
+1. 命名程序。 在“程序类型”(Program Type)下，选择 **事件**.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
@@ -43,8 +43,8 @@ ht-degree: 1%
 
    ![](assets/create-an-interactive-webinar-6.png)
 
-1. 计划网络研讨会的日期/时间。
+1. 安排网络研讨会的日期/时间，然后单击 **创建**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-1. 文本
+您的交互式网络研讨会将被创建。 现在该 [设计](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
