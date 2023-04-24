@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+source-git-commit: db68d63b6502822d4948485865edb26d10104a14
 workflow-type: tm+mt
 source-wordcount: '8866'
 ht-degree: 0%
@@ -663,10 +663,10 @@ ht-degree: 0%
                + [了解网络研讨会计划状态](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + 交互式网络研讨会 {#interactive-webinars}
             + [交互式网络研讨会概述](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
-            + [交互式网络研讨会用户管理](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-user-management.md)
+            + [用户和许可证管理](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [创建交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [设计交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
-            + [编辑或删除交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/edit-or-delete-an-interactive-webinar.md)
+            + [修改或删除交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [事件工作流](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
          + [在Facebook中向自定义受众添加潜在客户](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
