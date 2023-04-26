@@ -2,16 +2,16 @@
 description: 电子邮件验证 — Marketo文档 — 产品文档
 title: 电子邮件验证
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: c45b3ab94b806b53768891613f15b8e9b694a440
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # 电子邮件验证 {#email-verification}
 
-Adobe Marketo Engage订阅要求所有非API用户(包括Marketo Engage管理员)验证其电子邮件地址。 未分配管理员角色的单点登录(SSO)用户在启用电子邮件验证功能后将自动验证其电子邮件。
+Adobe Marketo Engage订阅要求所有非API用户(包括Marketo Engage管理员)验证其电子邮件地址。 未分配管理员角色的单点登录(SSO)用户，或者已分配具有“绕过SSO”权限的角色的用户，在通过电子邮件验证功能启用订阅时，将自动对其电子邮件进行验证。
 
 **用户邀请**
 
