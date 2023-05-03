@@ -4,16 +4,16 @@ title: 用户和许可证管理
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # 用户和许可证管理 {#user-and-license-management}
 
-简介。
+了解如何添加和删除用户以及查看您的当前许可证。
 
 ## 添加用户 {#add-a-user}
 
