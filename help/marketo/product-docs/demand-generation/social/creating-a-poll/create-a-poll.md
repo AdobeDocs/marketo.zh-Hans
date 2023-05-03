@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: 创建投票 — Marketo文档 — 产品文档
 title: 创建投票
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # 创建投票 {#create-a-poll}
 
 让人们参与投票，在社交网络上与朋友分享。 您可以将其添加到登陆页面、网站和Facebook等位置。
-
->[!AVAILABILITY]
->
->并非所有客户都购买了此功能。 有关详细信息，请联系您的销售代表。
 
 >[!PREREQUISITES]
 >

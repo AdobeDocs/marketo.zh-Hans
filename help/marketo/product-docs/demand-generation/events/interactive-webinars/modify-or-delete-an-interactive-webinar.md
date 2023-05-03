@@ -4,9 +4,9 @@ title: 修改或删除交互式网络研讨会
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,25 @@ ht-degree: 0%
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. 文本
+1. 房间会装的。 如果要更改文件室，请从“文件室”下拉列表中选择一个文件室。 要仅更新模板，请单击 **使用室**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-???对于Nilesh — 不被带到网络研讨会已在的房间是否正常？ 如果没有，最佳做法是什么？
+>[!NOTE]
+>
+>更改文件室是可选的，更新模板时不需要更改。
+
+1. 单击 **立即优化网络研讨会**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. 选择音频/视频首选项并单击 **进入房间**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. 完成修改后，单击 **退出室**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## 重新计划交互式网络研讨会 {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. 单击 **下一个**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >此时，您只能将克隆的交互式网络研讨会另存为交互式网络研讨会。 将克隆的网络研讨会另存为合作伙伴网络研讨会（例如，缩放、ON24等） 即将推出。
 
 1. 选择克隆网络研讨会的设置，然后单击 **克隆**.
 

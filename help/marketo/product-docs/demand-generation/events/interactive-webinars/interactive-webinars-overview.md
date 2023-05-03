@@ -4,16 +4,18 @@ title: 交互式网络研讨会概述
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 1%
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
 # 交互式网络研讨会概述 {#interactive-webinars-overview}
 
 进一步了解用于创建空白、有效网络研讨会的本机Marketo Engage工具。
+
+Adobe Connect网络研讨会是供多个用户参加的实时交互式在线会议。 该文件室是用于举办网络研讨会的永久在线虚拟空间。 它包括各种显示面板（面板）和布局。 有多个预建的会议室布局，或者您可以创建并使用其他自定义布局以满足您的需求。 会议室允许与会者共享计算机屏幕或文件、聊天、广播音频和视频，以及参与交互式在线活动。
 
 _什么是交互式网络研讨会_
 
