@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: cf6a0800737758d99a9ab07ffd783900332e3c32
+source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
 workflow-type: tm+mt
-source-wordcount: '8876'
+source-wordcount: '8884'
 ht-degree: 0%
 
 ---
@@ -484,6 +484,10 @@ ht-degree: 0%
          + [了解文件夹](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [了解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [通知类型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + 非历程 {#not-journeys}
+         + [名称概述](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
+         + [“名称”选项卡](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
+         + [“设置”选项卡](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
       + Predictive Audiences {#predictive-audiences}
          + [开始使用Predictive Audiences](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [模型和分析](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
