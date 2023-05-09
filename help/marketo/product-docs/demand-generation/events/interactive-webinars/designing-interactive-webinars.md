@@ -4,16 +4,16 @@ title: 设计交互式网络研讨会
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 设计交互式网络研讨会 {#designing-interactive-webinars}
 
-根据您的喜好设计网络研讨会。
+了解如何设计网络研讨会以满足您的需求。
 
 1. 选择您的事件并单击 **设计网络研讨会**.
 
