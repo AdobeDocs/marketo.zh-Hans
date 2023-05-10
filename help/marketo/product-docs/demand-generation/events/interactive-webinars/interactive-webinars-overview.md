@@ -4,20 +4,20 @@ title: 交互式网络研讨会概述
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
 # 交互式网络研讨会概述 {#interactive-webinars-overview}
 
-交互式网络研讨会功能允许您在Marketo Engage中创建、计划、推广和提供网络研讨会，而无需使用其他工具或集成。
+交互式网络研讨会功能是我们内置的网络研讨会平台，位于Marketo Engage内。 无需其他工具或集成。
 
 ## 什么是交互式网络研讨会？ {#what-is-interactive-webinars}
 
-交互式网络研讨会是一个实时的交互式在线会议，可供多个用户使用。 当您 [创建交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}，则可以使用多个预建会议室布局，所有这些布局都可以进行自定义。 您还可以创建和使用其他自定义布局。 与会者可以共享计算机屏幕/文件、相互聊天、广播音频和视频，以及参与交互式在线活动。
+交互式网络研讨会通过为您提供本机的无缝体验来扩充现有活动和网络研讨会体验，从而在Marketo Engage内创建、管理和交付活动。 当您 [创建交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}，则可以从中选择多个预建会议室布局，所有这些布局都是可自定义的（您也可以创建并使用其他自定义布局）。 与会者可以共享计算机屏幕/文件、相互聊天、广播音频和视频，以及参与交互式在线活动。
 
 交互式网络研讨会选件 [三个不同的许可证](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}，每个都具有各种功能和能力。
 
