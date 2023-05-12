@@ -2,10 +2,10 @@
 description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 7%
+source-wordcount: '413'
+ht-degree: 6%
 
 ---
 
@@ -25,21 +25,7 @@ ht-degree: 7%
 
 </br>
 
-* **为新版UX切换开关和经典体验删除更新**:删除了电子邮件模板、登陆页面模板、Forms和代码片段的详细信息页面，以确保现代体验是唯一可用的体验。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **统一外壳**:将Marketo Engage与Experience Cloud保持一致，以便在单个用户会话中跨多个Experience Cloud解决方案创建一致的导航体验。
+* **Adobe Experience Cloud界面**:将Marketo Engage与Experience Cloud保持一致，以便在单个用户会话中跨多个Experience Cloud解决方案创建一致的导航体验。
 
 <table> 
   <tr> 

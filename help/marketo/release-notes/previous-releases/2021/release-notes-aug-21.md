@@ -2,9 +2,9 @@
 description: 发行说明 — 2021年8月 — Marketo文档 — 产品文档
 title: 发行说明 — 2021年8月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,8 @@ ht-degree: 0%
 
 ![](assets/yellow-star.png)
 
-* **Bizible LinkedIn Lead Gen Forms集成**:现在，营销人员可以对当LinkedIn通过其商机拓展Forms广告单元捕获表单填充时发生的转化执行收入归因。 然后，可以使用这些分析来优化表单性能和付费媒体投资。 linkedIn领先代Forms是LinkedIn增长最快的付费媒体产品之一，此新功能包含在我们与Bizible的现有LinkedIn Ads集成中。   
+* **Bizible LinkedIn Lead Gen Forms集成**:现在，营销人员可以对当LinkedIn通过其商机拓展Forms广告单元捕获表单填充时发生的转化执行收入归因。 然后，可以使用这些分析来优化表单性能和付费媒体投资。 linkedIn领先代Forms是LinkedIn增长最快的付费媒体产品之一，此新功能包含在我们与Bizible的现有LinkedIn Ads集成中。
+
 * **改进的Velocity仪表板**:我们新增了速度量度和功能板过滤器，以便提供更深入的分析。 营销人员使用此功能板来了解逐阶段商机和销售机会的速度，以及不同营销和销售参与形式的效率。
 
 * **新的同类群组瀑布图历程功能板**:这将使营销人员能够通过经典的“需求瀑布”阶段集来查看选定同类群组的进展，从而逐个快速了解转化率和隐含的阶段转化因果关系。
@@ -74,7 +75,7 @@ ht-degree: 0%
 
 * **Bizible与AdobePrivacy Service** （2021年9月发布）：Bizible与AdobePrivacy Service的集成可跨Adobe Experience Cloud应用程序集中遵守关键数据隐私法规（如GDPR）。 您现在可以利用此服务并集中管理所有隐私请求，以便跨应用程序反映进入Bizible和其他Adobe产品的更改请求。
 
-* **Adobe统一Shell上的Bizible**:Bizible采用Adobe统一Shell为用户提供了将显示在Bizible应用程序标题栏中的新功能，并包括更好地访问支持资源和应用程序切换。 Adobe统一Shell有助于在Bizible和其他Adobe Experience Cloud应用程序之间创建一致的体验。
+* **Adobe Experience Cloud界面上的Bizible**:Bizible对Adobe Experience Cloud界面的采用为用户提供了将显示在Bizible应用程序标题栏中的新功能，并包括更好地访问支持资源和应用程序切换。 Experience Cloud界面有助于在Bizible和其他Adobe Experience Cloud应用程序之间创建一致的体验。
 
 * **Bizible域所有权和自我管理**:Bizible用户可以利用Adobe Admin Console管理他们希望Bizible跟踪的域。 这为以前的手动流程提供了自助服务，并在如何跨Adobe Experience Cloud应用程序管理域所有权和跟踪方面提供了一致的体验。
 
