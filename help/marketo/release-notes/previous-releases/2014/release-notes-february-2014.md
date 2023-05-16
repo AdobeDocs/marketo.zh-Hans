@@ -3,7 +3,7 @@ unique-page-id: 2951048
 description: 发行说明 — 2014年2月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年2月
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 [将电子邮件量度导出到Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)，包括AB测试变体数据。
 
-## 参与流绩效报表中的参与度分数 {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL 参与度分数] in [!UICONTROL 参与流性能] 报表 {#engagement-score-in-engagement-stream-performance-report}
 
-我们将参与度分数添加到 [参与流绩效报表](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 以帮助您了解参与计划中的内容的有效性。
+我们将参与度分数添加到 [[!UICONTROL 参与流性能] 报表](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 以帮助您了解参与计划中的内容的有效性。
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 

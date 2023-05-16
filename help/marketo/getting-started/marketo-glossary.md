@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo术语表 — Marketo文档 — 产品文档
 title: Marketo术语表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>帐户</strong></td> 
-   <td colspan="1">此术语可具有不同的含义：<br> — 您的Marketo实例本身可以称为Marketo帐户。<br>-In <strong>TAM</strong>, a <strong>指定帐户</strong> 是用户确定的要追踪的目标帐户。<br> — 在TAM中，CRM帐户是从您关联的 <strong>CRM</strong> (帐户在 <strong>Salesforce</strong>, <strong>MS Dynamics</strong> 或 <strong>API</strong>)。<br> — 在您的CRM中，帐户是与潜在客户和联系人关联的业务/公司。</td> 
+   <td colspan="1">此术语可具有不同的含义：<br> — 您的Marketo实例本身可以称为Marketo帐户。<br>-In <strong>TAM</strong>, a <strong>指定帐户</strong> 是用户确定的要追踪的目标帐户。<br> — 在TAM中，CRM帐户是从您关联的 <strong>CRM</strong> (帐户在 <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> 或 <strong>API</strong>)。<br> — 在您的CRM中，帐户是与潜在客户和联系人关联的业务/公司。</td> 
   </tr> 
   <tr> 
    <td><strong>帐户列表</strong></td> 
@@ -159,7 +159,7 @@ ht-degree: 0%
    <td>已打开并在电子邮件中点击链接的电子邮件的百分比。 这通过采用唯一点击次数除以唯一打开次数，然后乘以100将其显示为百分比来衡量电子邮件的相关性和上下文。</td> 
   </tr> 
   <tr> 
-   <td><strong>点击次数</strong></td> 
+   <td><strong>单击次数</strong></td> 
    <td>默认情况下，电子邮件中的链接中嵌入了跟踪，以便您查看点击了哪个链接的用户、点击了总链接的数量等。</td> 
   </tr> 
   <tr> 
@@ -371,10 +371,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>筛选器</strong></a></td> 
-   <td>中使用的工具 <strong>智能列表</strong> 这样，您就可以缩小受众（例如，数据库中居住在加利福尼亚的所有用户）。 过滤器可同时用于 <strong>批次</strong> 和 <strong>触发营销活动</strong>.</td> 
+   <td>在 <strong>智能列表</strong> 这样，您就可以缩小受众（例如，数据库中居住在加利福尼亚的所有用户）。 过滤器可同时用于 <strong>批次</strong> 和 <strong>触发营销活动</strong>.</td> 
   </tr> 
   <tr> 
-   <td><strong>流量</strong></td> 
+   <td><strong>流</strong></td> 
    <td><p>的区域 <strong>智能营销活动</strong> 通过 <strong>智能列表</strong>. 流由一个或多个 <strong>流程步骤</strong>.</p></td> 
   </tr> 
   <tr> 
@@ -786,7 +786,7 @@ ht-degree: 0%
    <td>(请参阅 <a href="#l"><strong>列表</strong></a>)</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md" rel="nofollow">流</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md" rel="nofollow">串流</a></strong></td> 
    <td colspan="1">按优先级排列的集合 <strong>内容</strong> 在 <strong>参与计划</strong> 培养人。 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" rel="nofollow">内容</a> 按您指定的顺序分发。</td> 
   </tr> 
  </tbody> 
