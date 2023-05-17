@@ -2,9 +2,9 @@
 description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '424'
 ht-degree: 6%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 6%
 
 交互式网络研讨会通过为营销人员提供本机、无缝的体验，以在Marketo Engage中创建、管理和交付活动，来扩充现有的活动和网络研讨会体验。 根据事件类型自定义网络研讨会，并根据需要添加演示者。 通过Adobe Connect功能（如实时投票、聊天、问答会、Web链接点击、文档下载等）获取丰富的参与度分析。 直接在Marketo Engage中检索网络研讨会记录，并通过丰富的功能板量度评估其性能。
 
-注册信息即将发布
+您可以请求 [抢先体验此功能](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
