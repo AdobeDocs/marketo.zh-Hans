@@ -2,9 +2,9 @@
 description: 正在将取消订阅与Salesforce同步 — Marketo文档 — 产品文档
 title: 正在将取消订阅与Salesforce同步
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
+source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,6 @@ Email Opt Out是Salesforce中的一个标准字段，可从Salesforce安装。 �
 
 ## Marketo Sales Opt Out {#marketo-sales-opt-out}
 
-“Marketo销售选择退出”字段是一个自定义字段，可供已安装Marketo销售自定义的用户使用。
+“Marketo销售选择退出”字段是一个自定义字段，对于已安装Marketo Sales Insight包的用户可用 [从AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-在Salesforce中成功安装Marketo Sales Customizations后，您将看到可供您使用的Marketo Sales Opt Out字段。
+成功将Marketo Sales Insight包从AppExchange安装到Salesforce后，您将看到可供您使用的Marketo Sales Opt Out字段。
