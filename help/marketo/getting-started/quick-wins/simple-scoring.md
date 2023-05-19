@@ -1,135 +1,135 @@
 ---
 unique-page-id: 2359414
-description: 简单评分 — Marketo文档 — 产品文档
-title: 简单评分
+description: 簡單評分 — Marketo檔案 — 產品檔案
+title: 簡單評分
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-source-git-commit: 89ee01fb25e7bc406c198c8e89e6957b3b1e1928
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
-# 简单评分 {#simple-scoring}
+# 簡單評分 {#simple-scoring}
 
 >[!PREREQUISITES]
 >
->* [设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [包含表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
+>* [完成設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 
-## 步骤1:创建评分营销活动 {#step-create-a-scoring-campaign}
+## 步驟1：建立評分行銷活動 {#step-create-a-scoring-campaign}
 
-1. 转到 **营销活动** 的上界。
+1. 前往 **[!UICONTROL 行銷活動]** 區域。
 
    ![](assets/simple-scoring-1.png)
 
-1. 右键单击 **学习** 文件夹，单击 **新建Campaign文件夹**.
+1. 用滑鼠右鍵按一下 **學習** 資料夾並按一下 **[!UICONTROL 新增Campaign資料夾]**.
 
    ![](assets/simple-scoring-2.png)
 
-1. 将营销活动文件夹命名为“Scoring”，然后单击 **创建**.
+1. 將行銷活動資料夾命名為「評分」，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/simple-scoring-3.png)
 
    >[!NOTE]
    >
-   >如果您已经有“评分”文件夹，请将其命名为其他名称，如“评分1”。 文件夹名称必须唯一。
+   >如果您已經有評分資料夾，請為這個資料夾命名其他名稱，例如評分1。 資料夾名稱必須是唯一的。
 
-1. 右键单击 **评分** 文件夹，选择 **新的智能营销活动**.
+1. 用滑鼠右鍵按一下 **評分** 資料夾並選取 **[!UICONTROL 新增Smart Campaign]**.
 
    ![](assets/simple-scoring-4.png)
 
-1. 将营销活动命名为“Change Score”，然后单击 **创建**.
+1. 將行銷活動命名為「Change Score」並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/simple-scoring-5.png)
 
-1. 单击 **智能列表** 选项卡。
+1. 按一下 **[!UICONTROL 智慧清單]** 標籤。
 
    ![](assets/simple-scoring-6.png)
 
-   我们希望，每当某人填写您的 **试用申请表**.
+   我們希望此行銷活動在有人填寫您的 **試用申請表**.
 
-1. 查找并拖动 **填写表单** 触发到左画布。
+1. 尋找並拖曳 **[!UICONTROL 填寫表單]** 觸發至左側畫布。
 
    ![](assets/simple-scoring-7.png)
 
-1. 选择 **我的表单**.
+1. 選取 **我的表單**.
 
    ![](assets/simple-scoring-8.png)
 
    >[!NOTE]
    >
-   >如果您完成了 [包含表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}快速获胜，您应该有表单。 如果您为表单使用了其他名称，请选择该名称。
+   >如果您已完成 [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速獲勝，您應該要有表單。 如果您對表單使用不同的名稱，請選取該名稱。
 
-1. 单击 **流量** 选项卡。
+1. 按一下 **[!UICONTROL 流量]** 標籤。
 
    ![](assets/simple-scoring-9.png)
 
-1. 拖动 **更改分数** “流”操作。
+1. 拖曳 **變更分數** 將動作移到左側畫布。
 
    ![](assets/simple-scoring-10.png)
 
-1. 您可以键入要添加到人员分数的任何值。 让我们在 **更改** 字段。
+1. 您可以輸入任何值以新增至個人的分數。 讓我們在「 」中輸入「+5」 **[!UICONTROL 變更]** 欄位。
 
    ![](assets/simple-scoring-11.png)
 
    >[!TIP]
    >
-   >良好的营销活动是向销售人员提供高质量人员的关键。 读取 [**最终领先评分指南**](https://www.marketo.com/definitive-guides/lead-scoring/){target=&quot;_blank&quot;}。
+   >良好的評分行銷活動是向銷售人員提供高品質人員的關鍵。 讀取 [**潛在客戶評分的最終指南**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
 
-1. 单击 **计划** 选项卡 **激活** 按钮。
+1. 按一下 **[!UICONTROL 排程]** 標籤和 **[!UICONTROL 啟動]** 按鈕。
 
    ![](assets/simple-scoring-12.png)
 
-1. 单击 **激活** 在确认屏幕上。
+1. 按一下 **[!UICONTROL 啟動]** 確認畫面上。
 
    ![](assets/simple-scoring-13.png)
 
 >[!NOTE]
 >
->活动后，此营销活动将在每次人员填写表单时运行。 营销活动将一直运行，直到停用为止。
+>一旦啟用，此行銷活動就會在每次有人填寫表單時執行。 行銷活動將持續執行直至停用。
 
-## 步骤2:填写表格 {#step-fill-out-the-form}
+## 步驟2：填寫表單 {#step-fill-out-the-form}
 
-1. 选择您在 [包含表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}快速获胜。
+1. 選取您在「 」中建立的登入頁面 [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速獲勝。
 
    ![](assets/simple-scoring-14.png)
 
-1. 单击 **预览**. 登陆页面将在新选项卡中打开。
+1. 按一下 **[!UICONTROL 預覽]**. 登入頁面將在新標籤中開啟。
 
    ![](assets/simple-scoring-15.png)
 
-1. 在表单中填写名字、姓氏和电子邮件地址，然后单击 **提交**.
+1. 使用您的名字、姓氏和電子郵件地址填寫表單，然後按一下 **[!UICONTROL 提交]**.
 
    ![](assets/simple-scoring-16.png)
 
    >[!NOTE]
    >
-   >使用您首次以个人身份输入自己时使用的相同名称和电子邮件地址，以应用“+5”分数增加。
+   >請使用您第一次以個人身份輸入時使用的相同名稱和電子郵件地址，以套用「+5」分數增加。
 
-## 步骤3:查看人员信息 {#step-view-the-person-info}
+## 步驟3：檢視人員資訊 {#step-view-the-person-info}
 
-1. 转到“数据库”区域。
+1. 前往 **[!UICONTROL 資料庫]** 區域。
 
    ![](assets/simple-scoring-17.png)
 
-1. 搜索您在填写表单时使用的电子邮件地址。
+1. 搜尋您在填寫表單時使用的電子郵件地址。
 
    ![](assets/simple-scoring-18.png)
 
-1. 双击您的人。
+1. 連按兩下您的人員。
 
    ![](assets/simple-scoring-19.png)
 
-您的人员详细信息将在新选项卡或窗口中打开。 看看你填表时的分数是如何增加5分？
+您的個人詳細資訊將在新標籤或視窗中開啟。 看看您的分數在填寫表單時如何增加5分？
 
 ![](assets/simple-scoring-20.png)
 
-## 任务完成！ {#mission-complete}
+## 任務完成！ {#mission-complete}
 
 <br> 
 
-[◄任务2:包含表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[◄任務2：含表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[任务4:电子邮件自动响应►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[任務4：電子郵件自動回應►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
