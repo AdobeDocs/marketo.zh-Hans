@@ -1,36 +1,36 @@
 ---
 description: 最新发行说明 - Marketo 文档 - 产品文档
-title: 最新发行说明
+title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '431'
 ht-degree: 6%
 
 ---
 
-# 发行说明：2023年5月 {#release-notes-may-23}
+# 發行說明： 2023年5月 {#release-notes-may-23}
 
-下面将显示’23年5月版中包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
+下方提供2023年5月發行版本包含的所有功能。 檢視您的Adobe Marketo Engage版本，瞭解是否有功能可用。
 
 >[!AVAILABILITY]
 >
->由星(![星星](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>以星號(![星號](assets/yellow-star.png))為付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
 
-## 标准发行周期功能 {#standard-release-cycle-features}
+## 標準發行週期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于 **2023年5月12日**，在接下来的几周中将分阶段推出其余功能。 发行功能和日期可能会发生更改。 请查看下面每个功能的状态。
+下列功能屬於標準發行週期，並將於以下日期開始發行 **2023年5月12日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
 
-### Marketo Engage现代UX {#modern-ux}
+### Marketo Engage新式UX {#modern-ux}
 
 </br>
 
-* **Adobe Experience Cloud界面**:将Marketo Engage与Experience Cloud保持一致，以便在单个用户会话中跨多个Experience Cloud解决方案创建一致的导航体验。
+* **Adobe Experience Cloud介面**：使Marketo Engage與Experience Cloud一致，在單一使用者工作階段中跨多個Experience Cloud解決方案建立一致的導覽體驗。
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
+   <td><b>檔案更新</b></td>
   </tr>
   <tr> 
    <td><i>即将推出</i></td>
@@ -39,12 +39,12 @@ ht-degree: 6%
   </tbody>
 </table>
 
-* **Marketo Engage帮助中心**:帮助中心为Marketo Engage用户提供一个中心位置，以在产品中查找帮助资源。 此外，帮助中心还允许用户激活产品内指南，以说明如何利用关键功能。
+* **Marketo Engage說明中心**：說明中心為Marketo Engage使用者提供可在產品內尋找說明資源的中心位置。 此外，「說明中心」讓使用者能夠啟用產品內指南，以說明如何運用重要功能。
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
+   <td><b>檔案更新</b></td>
   </tr>
   <tr> 
    <td><i>即将推出</i></td>
@@ -53,24 +53,24 @@ ht-degree: 6%
   </tbody>
 </table>
 
-## 灵活发布功能
+## 敏捷發行功能
 
-以下功能遵循Agile格式，并在标准发行日期之前或之后的不同日期发布。 请查看下面每个功能的状态。
+下列功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
 
-### 跨渠道编排 {#cross-channel-orchestration}
+### 跨頻道協調 {#cross-channel-orchestration}
 
 </br>
 
-* **交互式网络研讨会（最初的可用性有限）**:
+* **互動式網路研討會（初期提供有限）**：
 
-交互式网络研讨会通过为营销人员提供本机、无缝的体验，以在Marketo Engage中创建、管理和交付活动，来扩充现有的活动和网络研讨会体验。 根据事件类型自定义网络研讨会，并根据需要添加演示者。 通过Adobe Connect功能（如实时投票、聊天、问答会、Web链接点击、文档下载等）获取丰富的参与度分析。 直接在Marketo Engage中检索网络研讨会记录，并通过丰富的功能板量度评估其性能。
+互動式網路研討會為行銷人員提供原生且順暢的體驗，以便在Marketo Engage中建立、管理和傳遞活動，藉以強化現有的活動和網路研討會體驗。 根據活動型別自訂網路研討會，甚至可視需要新增主持人。 透過Adobe Connect功能（例如即時投票、聊天、問答研討會、網頁連結點選、檔案下載等）取得豐富的參與深入分析。 直接在Marketo Engage中擷取網路研討會影片，並透過豐富的儀表板量度評估其成效。
 
-您可以请求 [抢先体验此功能](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+互動式網路研討會將逐步推出。 若要要求更早的存取權，請填寫 [此表單](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
+   <td><b>檔案更新</b></td>
   </tr>
   <tr> 
    <td><i>即将推出</i></td>
@@ -79,16 +79,16 @@ ht-degree: 6%
   </tbody>
 </table>
 
-### 动态聊天 {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **用于动态聊天的聊天源**:“聊天”现在作为新人员记录和活动的来源提供。 此源可用于帮助用户过滤智能列表/营销活动中的活动。 也可以阻止源更新字段。
+* **Dynamic Chat聊天來源**：「聊天」現在作為新人員記錄和活動的來源提供。 此來源可用於協助使用者篩選智慧清單/行銷活動中的活動。 也可以封鎖來源，不讓欄位更新。
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
+   <td><b>檔案更新</b></td>
   </tr>
   <tr> 
    <td><i>即将推出</i></td>
@@ -99,4 +99,4 @@ ht-degree: 6%
 
 ## 公告 {#announcements}
 
-* **_产品发行网络研讨会_**:2023年5月17日，上午9:00 PT /中午12:00 ET [在线网络研讨会](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} 由我们的产品团队托管，您可以在该团队中了解如何使用’23年3月和5月版本中提供的所有最新产品创新。
+* **_產品發行網路研討會_**：2023年5月17日太平洋時間上午9:00 /東部時間中午12:00加入我們 [用於直播網路研討會](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} 由我們的產品團隊託管，讓您瞭解如何使用2023年3月和5月發行版本中提供的所有最新產品創新。

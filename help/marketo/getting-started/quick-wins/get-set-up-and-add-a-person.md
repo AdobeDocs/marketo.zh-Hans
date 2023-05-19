@@ -1,77 +1,77 @@
 ---
 unique-page-id: 2359351
-description: 设置并添加人员 — Marketo文档 — 产品文档
-title: 设置并添加人员
+description: 設定並新增人員 — Marketo檔案 — 產品檔案
+title: 設定並新增人員
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 3e53e5b947755b1b1a8db2b2fc30e93ea6c362ec
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# 设置并添加人员 {#get-set-up-and-add-a-person}
+# 設定並新增人員 {#get-set-up-and-add-a-person}
 
-在开始任务之前，有些事要做。
+在開始執行任務之前，有一些事情要做。
 
-## 步骤1:登录Marketo {#step-log-in-to-marketo}
+## 步驟1：登入Marketo {#step-log-in-to-marketo}
 
-1. [登录Marketo](https://app.marketo.com){target=&quot;_blank&quot;}，使用您通过电子邮件收到的凭据。
+1. [登入Marketo](https://app.marketo.com){target="_blank"} 使用您透過電子郵件收到的認證。
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
-## 步骤2:创建学习文件夹 {#step-create-a-learning-folder}
+## 步驟2：建立學習資料夾 {#step-create-a-learning-folder}
 
-我们创建一个文件夹，存放任务中要做的所有内容。
+讓我們建立一個資料夾，用以存放您將在任務中完成的所有工作。
 
-1. 转到 **营销活动** 的上界。
+1. 前往 **[!UICONTROL 行銷活動]** 區域。
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. 单击 **新建** 下拉框并选择 **新建Campaign文件夹**.
+1. 按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新增Campaign資料夾]**.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. 将文件夹命名为“Learning”，然后单击 **创建**.
+1. 將資料夾命名為「學習」並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
-1. 您将在左侧菜单中看到新的Learning文件夹。
+1. 您會在左側功能表中看到新的學習資料夾。
 
    ![](assets/get-set-up-and-add-a-person-5.png)
 
-## 步骤3:将您自己添加为人员 {#step-add-yourself-as-a-person}
+## 步驟3：將自己新增為人員 {#step-add-yourself-as-a-person}
 
-在Marketo中将您自己添加为人员，以便以后能够向自己发送测试电子邮件。
+將您新增為Marketo中的人員，以便您稍後可以傳送測試電子郵件給自己。
 
-1. 转到 **数据库** 的上界。
+1. 前往 **[!UICONTROL 資料庫]** 區域。
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. 单击 **新建** 下拉框并选择 **新人**.
+1. 按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新人員]**.
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. 键入您的名字和姓氏、电子邮件地址和公司名称，然后单击 **创建** 将自己添加为人。
+1. 輸入您的名字和姓氏、電子郵件地址和公司名稱，然後按一下 **[!UICONTROL 建立]** 將自己新增為個人。
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 
    >[!CAUTION]
    >
-   >Marketo **not** 支持包含表情符号的电子邮件地址。
+   >Marketo會 **not** 支援包含表情符號的電子郵件地址。
 
-1. 要查看您的人员，请在左侧菜单中打开系统智能列表，然后单击“所有人员”。
+1. 若要檢視您的人員，請開啟 [!UICONTROL 系統智慧清單] ，然後按一下「 」 **[!UICONTROL 所有人員]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. 单击 **人员** 选项卡。 你应该在数据库中看到自己。
+1. 按一下 **[!UICONTROL 人員]** 標籤。 您應在資料庫中看到自己。
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 
-## 设置完成 {#set-up-complete}
+## 設定完成 {#set-up-complete}
 
-你准备好开始你的第一个任务了！
+您已準備好開始您的第一個任務！
 
 <br> 
 
-[任务1:发送电子邮件爆炸►](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[任務1：傳送電子郵件爆炸►](/help/marketo/getting-started/quick-wins/send-an-email.md)

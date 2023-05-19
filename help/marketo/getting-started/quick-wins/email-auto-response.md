@@ -1,137 +1,137 @@
 ---
 unique-page-id: 2359416
-description: 电子邮件自动响应 — Marketo文档 — 产品文档
-title: 电子邮件自动响应
+description: 電子郵件自動回應 — Marketo檔案 — 產品檔案
+title: 電子郵件自動回應
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-source-git-commit: 1c350eb17992e45b9e0f825e1abd5c86555d0a0a
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
-# 电子邮件自动响应 {#email-auto-response}
+# 電子郵件自動回應 {#email-auto-response}
 
-## 任务：当某人填写表单时，发送感谢电子邮件 {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## 任務：有人填寫表單時，請傳送感謝電子郵件給您 {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
 >[!PREREQUISITES]
 >
->* [设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [包含表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
+>* [完成設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 
-## 步骤1:创建电子邮件 {#step-create-an-email}
+## 步驟1：建立電子郵件 {#step-create-an-email}
 
-1. 转到“营销活动”区域。
+1. 前往 **[!UICONTROL 行銷活動]** 區域。
 
    ![](assets/email-auto-response-1.png)
 
-1. 在左侧菜单中选择您的程序，单击 **新建** 下拉菜单，然后选择 **新建本地资产**.
+1. 在左側選單中選取您的程式，按一下 **[!UICONTROL 新增]** 下拉式清單，然後選取 **[!UICONTROL 新增本機資產]**.
 
    ![](assets/email-auto-response-2.png)
 
-1. 选择 **电子邮件**.
+1. 選取 **[!UICONTROL 電子郵件]**.
 
    ![](assets/email-auto-response-3.png)
 
-1. 将电子邮件命名为“自动响应电子邮件”，选择模板，然后单击 **创建**.
+1. 將您的電子郵件命名為「自動回覆電子郵件」，選擇一個範本，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/email-auto-response-4.png)
 
-   将在新窗口或选项卡中打开电子邮件编辑器。 如果弹出窗口被阻止，请单击 **编辑草稿** ，以访问电子邮件。
+   電子郵件編輯器將在新視窗或索引標籤中開啟。 如果封鎖快顯視窗，請按一下 **[!UICONTROL 編輯草稿]** 在資產摘要頁面上存取電子郵件。
 
-1. 输入主题行，然后双击电子邮件的可编辑区域。
+1. 輸入主旨列，然後按兩下電子郵件的可編輯區域。
 
    ![](assets/email-auto-response-5.png)
 
-   _将在电子邮件编辑器的顶部打开富文本编辑器。_
+   _RTF編輯器將會在電子郵件編輯器的上方開啟。_
 
-1. 突出显示现有电子邮件内容。
+1. 反白顯示現有的電子郵件內容。
 
    ![](assets/email-auto-response-6.png)
 
-1. 键入电子邮件内容并单击 **保存**.
+1. 輸入您的電子郵件內容，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/email-auto-response-7.png)
 
-1. 单击 **电子邮件操作** 下拉框并选择 **批准并关闭**.
+1. 按一下 **[!UICONTROL 電子郵件動作]** 下拉式清單並選取 **[!UICONTROL 核准並關閉]**.
 
    ![](assets/email-auto-response-8.png)
 
-## 步骤2:创建智能营销活动 {#step-create-a-smart-campaign}
+## 步驟2：建立Smart Campaign {#step-create-a-smart-campaign}
 
-1. 选择您的项目，单击 **新建** 下拉框并选择 **新的智能营销活动**.
+1. 選取您的程式，按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新增Smart Campaign]**.
 
    ![](assets/email-auto-response-9.png)
 
-1. **名称** 您的智能营销活动“自动响应营销活动”，然后单击 **创建**.
+1. **名稱** 您的智慧行銷活動「自動回應行銷活動」，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/email-auto-response-10.png)
 
-1. 转到 **智能列表** 选项卡。
+1. 前往 **[!UICONTROL 智慧清單]** 標籤。
 
    ![](assets/email-auto-response-11.png)
 
-   我们将此营销活动设置为在用户填写您在中创建的表单时运行 [**包含表单的登陆页面**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}。
+   我們將設定此行銷活動，以便在有人填寫您建立的表單時執行 [**含有表單的登陸頁面**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
 
-1. 查找并拖动 **填写表单** 触发到画布。
+1. 尋找並拖曳 **[!UICONTROL 填寫表單]** 觸發至畫布。
 
    ![](assets/email-auto-response-12.png)
 
-1. 选择 **我的表单** 中。 然后，单击 **流量** 选项卡。
+1. 選取 **[!UICONTROL 我的表單]** 下拉式清單中的。 然後按一下 **[!UICONTROL 流量]** 標籤。
 
    ![](assets/email-auto-response-13.png)
 
-1. 拖动 **发送电子邮件** “流”操作。
+1. 拖曳 **[!UICONTROL 傳送電子郵件]** 「流程」動作至左側畫布。
 
    ![](assets/email-auto-response-14.png)
 
-1. 选择 **自动响应电子邮件**. 然后，单击 **计划** 选项卡。
+1. 選取您的 **自動回覆電子郵件**. 然後按一下 **[!UICONTROL 排程]** 標籤。
 
    ![](assets/email-auto-response-15.png)
 
-1. 单击 **编辑**.
+1. 按一下 **[!UICONTROL 編輯]**.
 
    ![](assets/email-auto-response-16.png)
 
-1. 选择 **每次** 单击 **保存**.
+1. 選取 **[!UICONTROL 每次]** 並按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/email-auto-response-17.png)
 
-1. 单击 **激活**.
+1. 按一下 **[!UICONTROL 啟動]**.
 
    ![](assets/email-auto-response-18.png)
 
-1. 单击 **激活** 在确认屏幕上。
+1. 按一下 **[!UICONTROL 啟動]** 確認畫面上。
 
    ![](assets/email-auto-response-19.png)
 
 >[!NOTE]
 >
->激活后，此营销活动将在用户每次填写指定表单时运行。 营销活动将一直运行，直到停用为止。
+>一旦啟用，此行銷活動就會在每次有人填寫指定表單時執行。 行銷活動將持續執行直至停用。
 
-## 步骤3:填写表格 {#step-fill-out-the-form}
+## 步驟3：填寫表單 {#step-fill-out-the-form}
 
-1. 选择 **我的页面** (创建于 [包含表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}快速win)，单击 **预览**.
+1. 選取 **我的頁面** (此專案建立於 [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速獲勝)並點按 **[!UICONTROL 預覽]**.
 
    ![](assets/email-auto-response-20.png)
 
-   _您的“免费试用版”登陆页面将在新选项卡中打开。_
+   _您的「免費試用」登陸頁面將在新標籤中開啟。_
 
-1. 在表单中填写名字、姓氏和电子邮件地址，然后单击 **提交**.
+1. 使用您的名字、姓氏和電子郵件地址填寫表單，然後按一下 **[!UICONTROL 提交]**.
 
    ![](assets/email-auto-response-21.png)
 
 >[!NOTE]
 >
->确保使用实际的电子邮件地址，以便收到电子邮件。
+>請務必使用您實際的電子郵件地址，以便取得電子郵件。
 
-## 任务完成 {#mission-complete}
+## 任務完成 {#mission-complete}
 
-几分钟内，您应会在收件箱中看到自动响应电子邮件。 干得好！
+在幾分鐘內，您應該就會在收件匣中看到自動回應電子郵件。 做得好！
 
 <br> 
 
-[◄任务3:简单评分](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[◄任務3：簡單評分](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[任务5:导入人员列表►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[任務5：匯入人員清單►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

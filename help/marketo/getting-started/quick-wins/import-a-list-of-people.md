@@ -1,142 +1,142 @@
 ---
 unique-page-id: 2359418
-description: 导入人员列表 — Marketo文档 — 产品文档
-title: 导入人员列表
+description: 匯入人員清單 — Marketo檔案 — 產品檔案
+title: 匯入人員清單
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
-# 导入人员列表 {#import-a-list-of-people}
+# 匯入人員清單 {#import-a-list-of-people}
 
-## 任务：将展会与会者的电子表格列表导入数据库 {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## 任務：將貿易展覽會出席者的試算表清單匯入您的資料庫 {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
->[设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>[完成設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-在本教程中，您将学习如何将人员从电子表格文件导入Marketo。
+在本教學課程中，您將瞭解如何將人員從試算表檔案匯入Marketo。
 
-## 步骤1:下载和编辑电子表格 {#step-download-and-edit-a-spreadsheet}
+## 步驟1：下載並編輯試算表 {#step-download-and-edit-a-spreadsheet}
 
-1. 要开始，请下载我们的实践电子表格文件([**tradeshow-tohates.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;})。
+1. 若要開始，請下載我們的實務試算表檔案([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"})到您的電腦。
 
    ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
-   >导入日期时，请使用以下格式： **9/21/20** （月/日/年）。
+   >匯入日期時，請使用此格式： **9/21/20** （月/日/年）。
 
    >[!NOTE]
    >
-   >正在导入的任何日期/时间字段都将被视为中央时间。 如果您的日期/时间字段位于不同的时区，则可以使用Excel公式将其转换为中部时间（美国/芝加哥）。
+   >匯入的任何日期/時間欄位都會視為中部時間。 如果您的日期/時間欄位位於不同的時區，您可以使用Excel公式將其轉換為中部時間（美洲/芝加哥）。
 
-1. 添加您自己的名字、姓氏、实际电子邮件地址（以便您能够收到下次任务中将发送的培养电子邮件）和职位。 将文件保存在您的计算机上。
+1. 新增您自己的名字、姓氏、實際電子郵件地址（以便接收您下次執行任務時將傳送的培養電子郵件）以及職稱。 將檔案儲存在電腦上。
 
    ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
-   >Marketo **not** 支持包含表情符号的电子邮件地址。
+   >Marketo會 **not** 支援包含表情符號的電子郵件地址。
 
-## 步骤2:创建项目 {#step-create-a-program}
+## 步驟2：建立方案 {#step-create-a-program}
 
-1. 转到 **营销活动** 的上界。
+1. 前往 **[!UICONTROL 行銷活動]** 區域。
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. 选择 **学习** 文件夹，然后在 **新建** 单击 **新计划**.
+1. 選取您的 **學習** 資料夾，然後在 **[!UICONTROL 新增]** 按一下 **[!UICONTROL 新計畫]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **名称** “我的贸易展项目”，并为 **程序类型**.
+1. **名稱** 計畫「我的貿易展覽計畫」並選取「事件」作為 **[!UICONTROL 計畫型別]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. 选择 **贸易展** 对于 **渠道** 单击 **创建**.
+1. 選取 **[!UICONTROL 貿易展]** 的 **[!UICONTROL 頻道]** 並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
->事件程序在特定日期发生。 详细了解 [**事件**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}。
+>事件程式會在特定日期發生。 進一步瞭解 [**事件**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
-## 步骤3:将电子表格导入Marketo {#step-import-your-spreadsheet-into-marketo}
+## 步驟3：將試算表匯入Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. 在 **我的贸易展计划**，单击 **新建** 选择 **新建本地资产**.
+1. 在 **我的貿易展計畫**，按一下 **[!UICONTROL 新增]** 並選取 **[!UICONTROL 新增本機資產]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. 选择 **列表**.
+1. 選取 **[!UICONTROL 清單]**.
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **名称** 列出“展会与会者”，然后单击 **创建**.
+1. **名稱** 「商展與會者」清單並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. 在 **展会与会者** 列表，单击 **列出操作** 选择 **导入列表**.
+1. 在您的 **[!UICONTROL 貿易展覽出席者]** 清單，按一下 **[!UICONTROL 清單動作]** 並選取 **[!UICONTROL 匯入清單]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
    >[!CAUTION]
    >
-   >如果您使用自己的CSV文件，请确保该文件已编码为UTF-8、UTF-16、Shift-JIS或EUC-JP。
+   >如果您使用自己的CSV檔案，請確定它是以UTF-8、UTF-16、Shift-JIS或EUC-JP編碼。
 
    >[!NOTE]
    >
-   >CSV文件的大小限制为100MB。
+   >CSV檔案的大小限製為100MB。
 
-1. **浏览** 到 **tradeshow-tohates.csv** 在您的计算机上，单击 **下一个**.
+1. **[!UICONTROL 瀏覽]** 至 **tradeshow-attendees.csv** 試算表檔案，然後按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >在列表导入模式下，选择 **跳过新人员和更新** 意味着您不会影响现有人员记录或记录任何活动。 如果您希望在营销活动中使用现有人员的快速、预过滤静态列表，请使用此模式。 选择此模式将：
+   >在清單匯入模式中，選擇 **[!UICONTROL 略過新人員和更新]** 表示您不會影響現有的人員記錄或記錄任何活動。 如果您想要在行銷活動中使用的快速預先篩選現有人員的靜態清單，請使用此模式。 選取此模式將：
    >
-   > * 跳过新人员创建
-   > * 跳过人员字段更新
-   > * 跳过活动日志记录
+   > * 略過建立新人員
+   > * 略過人員欄位更新
+   > * 略過活動記錄
 
 
-1. 将列表列字段映射到相应的Marketo字段，然后单击 **下一个**.
+1. 對應您的 [!UICONTROL 清單欄] 欄位至其各自的Marketo欄位並按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
-   >列标题应始终与字段完全匹配（区分大小写），以获得最佳的自动映射结果。 如果您使用自定义字段，但在下拉菜单中未看到这些字段，请返回 [创建它们](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}，以便它们成为选项。
+   >欄標題應一律與欄位完全相符（區分大小寫），以獲得最佳的自動對應結果。 如果您使用自訂欄位，但在下拉式清單中看不到，請返回並 [建立它們](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} 因此它們可以成為選項。
 
    >[!NOTE]
    >
-   >如果有任何不想导入的字段，请选择 **忽略** (位于Marketo字段下拉菜单中)。
+   >如果有任何您不想匯入的欄位，請選取 **忽略** 「Marketo欄位」下拉式功能表中的。
 
-1. 选择 **我的贸易展计划** 对于 **客户获取计划**，然后单击 **导入**.
+1. 選取 **我的貿易展計畫** 的 **[!UICONTROL 贏取方案]**，然後按一下 **[!UICONTROL 匯入]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
-1. 等待人员导入，然后关闭导入进度弹出窗口。
+1. 等候您的人員匯入，然後關閉匯入進度快顯視窗。
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. 返回 **我的贸易展计划**，请单击 **成员** 选项卡。 你会看到刚进来的人。
+1. 返回 **我的貿易展計畫**，按一下 **[!UICONTROL 成員]** 標籤。 您會看到所有您剛剛匯入的人員。
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->您可以通过跟踪项目成员资格来分析项目是否成功。 详细了解 [**程序**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}。
+>您可以透過追蹤計畫會員資格來分析計畫是否成功。 進一步瞭解 [**計畫**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
-## 任务完成 {#mission-complete}
+## 任務完成 {#mission-complete}
 
-您的贸易展与会者现在是您的Marketo计划的成员！
+您的貿易展會出席者現在是Marketo計畫的成員！
 
 <br> 
 
-[◄任务4:电子邮件自动响应](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[◄任務4：電子郵件自動回應](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[任务6:滴，滴，抚►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[任務6：滴水、滴水、Nurture ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

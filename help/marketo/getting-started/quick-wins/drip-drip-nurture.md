@@ -1,171 +1,171 @@
 ---
 unique-page-id: 2359420
-description: 滴、滴、培养 — Marketo文档 — 产品文档
-title: 滴，滴，抚
+description: Drip， Drip， Nurture - Marketo檔案 — 產品檔案
+title: 滴答、滴答、培養
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
 
-# 滴，滴，抚 {#drip-drip-nurture}
+# 滴答、滴答、培養 {#drip-drip-nurture}
 
-## 任务：培养最近参加你展会的人 {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## 使命：培養最近參加展會的人 {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
-您可以轻松地在Marketo中创建高级而复杂的培养系统。 这就是方法！
+您可以在Marketo中輕鬆建立進階且複雜的培養系統。 方法如下！
 
 >[!PREREQUISITES]
 >
->* [设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
+>* [完成設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 
-## 步骤1:创建参与计划 {#step-create-an-engagement-program}
+## 步驟1：建立參與計畫 {#step-create-an-engagement-program}
 
-1. 转到 **营销活动** 的上界。
+1. 前往 **[!UICONTROL 行銷活動]** 區域。
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. 选择 **学习** 文件夹，单击 **新建** 下拉框并选择 **新计划**.
+1. 選取 **學習** 資料夾，按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新計畫]**.
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. 输入 **名称** 选择 **参与度** 对于 **程序类型**.
+1. 輸入 **[!UICONTROL 名稱]** 並選取 **[!UICONTROL 參與]** 的 **[!UICONTROL 計畫型別]**.
 
    ![](assets/drip-drip-nurture-3.png)
 
-1. 确保 **渠道** 字段 **培养** 单击 **创建**.
+1. 確定 **[!UICONTROL 頻道]** 欄位是 **[!UICONTROL Nurture]** 並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/drip-drip-nurture-4.png)
 
-   你现在已经创建了参与计划。
+   您現在已經建立參與計畫。
 
-## 步骤2:创建电子邮件 {#step-create-an-email}
+## 步驟2：建立電子郵件 {#step-create-an-email}
 
-1. 选择您的参与计划，单击 **新建** 选择 **新建本地资产**.
+1. 選取您的參與計畫，按一下 **[!UICONTROL 新增]** 並選取 **[!UICONTROL 新增本機資產]**.
 
    ![](assets/drip-drip-nurture-5.png)
 
-1. 单击 **电子邮件**.
+1. 按一下 **[!UICONTROL 電子郵件]**.
 
    ![](assets/drip-drip-nurture-6.png)
 
-1. 输入 **名称**，选择 **模板** 要使用，请单击 **创建**.
+1. 輸入 **[!UICONTROL 名稱]**，選取 **[!UICONTROL 範本]** ，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
-   >没有看到电子邮件编辑器？ 您的浏览器可能已阻止窗口。 启用 `app.marketo.com` 在浏览器中，单击 **编辑草稿** 中。
+   >看不到電子郵件編輯器？ 您的瀏覽器可能封鎖了視窗。 啟用快顯視窗 `app.marketo.com` ，然後按一下 **[!UICONTROL 編輯草稿]** 在頂端功能表列中。
 
-1. 输入主题。
+1. 輸入主旨。
 
    ![](assets/drip-drip-nurture-8.png)
 
-1. 选择要编辑的电子邮件区域，单击齿轮图标，然后选择 **编辑**.
+1. 選取您要編輯的電子郵件區域，按一下齒輪圖示並選取 **[!UICONTROL 編輯]**.
 
    ![](assets/drip-drip-nurture-9.png)
 
-1. 编辑电子邮件并单击 **保存**.
+1. 編輯您的電子郵件並按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/drip-drip-nurture-10.png)
 
-1. 在 **电子邮件操作**，单击 **批准并关闭**.
+1. 下 **[!UICONTROL 電子郵件動作]**，按一下 **[!UICONTROL 核准並關閉]**.
 
    ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
-   >请记住批准电子邮件，否则以后将无法激活它们。
+   >請記得核准您的電子郵件，否則您稍後將無法啟用它們。
 
-1. 现在，通过重复步骤2-7中的操作，再创建一封电子邮件。
+1. 現在，重複步驟2-7中的動作來建立另一封電子郵件。
 
    ![](assets/drip-drip-nurture-12.png)
 
-## 步骤3:向流中添加内容 {#step-add-content-to-your-stream}
+## 步驟3：新增內容至您的串流 {#step-add-content-to-your-stream}
 
-现在，该使用您创建的电子邮件为您的参与项目创建一系列内容。
+現在可以使用您建立的電子郵件，為您的參與計畫建立內容流。
 
-1. 选择您的参与计划，然后单击 **流** 选项卡。
+1. 選取您的參與方案，然後按一下 **[!UICONTROL 串流]** 標籤。
 
    ![](assets/drip-drip-nurture-13.png)
 
-1. 单击 **添加内容** 按钮。
+1. 按一下 **[!UICONTROL 新增內容]** 資料流中的按鈕。
 
    ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >您还可以使用 **+** 图标。
+   >您也可以使用 **+** 圖示。
 
-1. 保持选中“电子邮件”类型。 查找并选择您创建的两封电子邮件。
+1. 保留「電子郵件」型別。 尋找並選取您建立的兩封電子郵件。
 
    ![](assets/drip-drip-nurture-15.png)
 
-## 步骤4:激活流内容 {#step-activate-stream-content}
+## 步驟4：啟用串流內容 {#step-activate-stream-content}
 
-1. 单击流齿轮图标，然后单击，一次激活所有内容 **激活所有内容**.
+1. 按一下串流齒輪圖示，然後按一下「 」，一次啟用所有內容 **[!UICONTROL 啟用所有內容]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
-   >要激活内容，必须先批准它。
+   >您必須先核准內容，才能啟用內容。
 
-   干得好！ 再一步，参与计划就绪。
+   做得好！ 再執行一個步驟，參與計畫即準備就緒。
 
-## 步骤5:设置流频率 {#step-set-the-stream-cadence}
+## 步驟5：設定資料流步調 {#step-set-the-stream-cadence}
 
-1. 单击 **设置流频率**.
+1. 按一下 **[!UICONTROL 設定資料流步調]**.
 
    ![](assets/drip-drip-nurture-17.png)
 
-1. 编辑设置以匹配所需的计划，然后单击 **保存**.
+1. 編輯設定以符合您想要的排程，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/drip-drip-nurture-18.png)
 
-   你的订婚计划已经定好了。 现在，让我们将测试人员添加到您的项目中。
+   您的參與計畫已準備就緒。 現在來將測試人員新增至您的程式。
 
    >[!NOTE]
    >
-   >测试人员是检查您的参与计划以在发送给客户之前测试其是否正确的人员。
+   >測試人員會檢查您的參與計畫，在傳送給客戶之前先測試其是否正確。
 
-## 步骤6:将测试人员添加到您的参与计划 {#step-add-a-test-person-to-your-engagement-program}
+## 步驟6：將測試人員新增至您的參與方案 {#step-add-a-test-person-to-your-engagement-program}
 
-1. 转到 **数据库** 的上界。
+1. 前往 **[!UICONTROL 資料庫]** 區域。
 
    ![](assets/drip-drip-nurture-19.png)
 
-1. 搜索测试人员。
+1. 搜尋您的測試人員。
 
    ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
-   >确保测试人员具有有效的电子邮件地址，以便您能够在测试时确认是否收到电子邮件。
+   >請確認測試人員擁有有效的電子郵件地址，這樣您便可以在測試時確認收到電子郵件。
 
-1. 右键单击该人员，然后单击 **程序** 和 **添加到参与计划**.
+1. 以滑鼠右鍵按一下人員，然後按一下 **[!UICONTROL 計畫]** 和 **[!UICONTROL 新增到參與計畫……]**.
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. 选择 **项目** 和 **流**，然后单击 **立即运行**.
+1. 選取您的 **[!UICONTROL 計畫]** 和 **[!UICONTROL 串流]**，然後按一下 **[!UICONTROL 立即執行]**.
 
    ![](assets/drip-drip-nurture-22.png)
 
-1. 任务完成！
+1. 任務完成！
 
-1. 您应会在指定的时间和频率收到电子邮件。
+1. 您應會在指定的時間和順序收到電子郵件。
 
    >[!NOTE]
    >
-   >详细了解 [参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target=&quot;_blank&quot;}。
+   >進一步瞭解 [參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
-## 任务完成！ {#mission-complete}
+## 任務完成！ {#mission-complete}
 
 <br> 
 
-[◄任务5:导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄任務5：匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-[任务7:个性化电子邮件►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[任務7：個人化電子郵件►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
