@@ -1,66 +1,64 @@
 ---
 unique-page-id: 2949186
-description: SEO — 使用页面详细信息向下钻取 — Marketo文档 — 产品文档
-title: SEO — 使用页面详细信息细化
+description: SEO — 使用頁面詳細資料深入研究 — Marketo檔案 — 產品檔案
+title: SEO — 使用頁面詳細資料向下展開
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-# SEO — 使用页面详细信息细化 {#seo-using-the-page-detail-drill-down}
+# SEO — 使用頁面詳細資料向下展開 {#seo-using-the-page-detail-drill-down}
 
-您可以使用页面详细信息向下钻取查看有关您的页面的大量信息。
+您可以使用頁面詳細資料向下展開，檢視有關頁面的許多資訊。
 
-## 查找页面向下钻取 {#find-page-drill-down}
+## 尋找頁面向下展開 {#find-page-drill-down}
 
-1. 转到页面部分。
+1. 前往 **[!UICONTROL 頁面] 區段**.
 
    ![](assets/image2014-9-17-21-3a54-3a53.png)
 
-1. 单击要查看详细信息的页面。
+1. 按一下您要檢視其詳細資訊的頁面。
 
    ![](assets/image2014-9-17-21-3a54-3a58.png)
 
-   看，页面详细信息将向下展开！
+   請注意，頁面詳細資料會向下展開！
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## 页面详细信息部分 {#page-detail-section}
+## [!UICONTROL 頁面詳細資料] 章節 {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
-| 项目 | 描述 |
+| 專案 | 描述 |
 |---|---|
-| 优化分数 | 用于显示页面在1到100之间的搜索优化程度的秘密酱汁。 |
-| 待办事项框 | 显示与您所在页面有关的未解决问题的数量。 |
-| 入站链接总数 | 您网站的入站链接总数。 |
-| 入站链接（独特域） | 至少具有一个指向您网站的集客链接的其他网站的数量。 |
-| 出站链接 | 从此特定页面转到其他网站的链接数。 |
-| Facebook股份 | 在Facebook上共享此页面的次数。 |
-| Facebook称赞次数 | 在Facebook上称赞此页面共享的次数。 |
-| Facebook点击量 | 来自Facebook共享的点击次数。 |
+| [!UICONTROL 最佳化分數] | 用來顯示您的頁面在1到100之間最佳化搜尋效果的秘訣。 |
+| [!UICONTROL 待辦事項] 方塊 | 顯示有關您所在頁面的未完成問題數目。 |
+| [!UICONTROL 傳入連結總數] | 您網站的輸入連結總數。 |
+| [!UICONTROL 傳入連結（不重複網域）] | 至少有一個傳入連結連線至您網站的其他網站數目。 |
+| [!UICONTROL 傳出連結] | 從此特定頁面前往其他網站的連結數。 |
+| [!UICONTROL facebook共用] | 分享此頁面的次數 [!DNL Facebook]. |
+| [!UICONTROL facebook贊] | 此頁面共用點按的次數 [!DNL Facebook]. |
+| [!UICONTROL facebook點按次數] | 來自「 」的點按次數 [!DNL Facebook share]. |
 
-## 页面的关键词已针对  {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL 頁面針對哪個關鍵字最佳化] {#keyword-s-that-page-is-optimized-for}
 
-这里是你 [选择要优化页面的关键词](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+您可在此 [選取您嘗試最佳化頁面的關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
->这是充分利用此功能的重要步骤。 我们建议您每页使用少于三个关键词。 最好就一个。
+>這是充分利用此功能的重要步驟。 我們建議您每頁使用少於三個關鍵字。 理想情況下只需一個。
 
 ![](assets/image2014-9-17-21-3a56-3a35.png)
 
-## 页面优化结果 {#page-optimization-results}
+## [!UICONTROL 頁面最佳化結果] {#page-optimization-results}
 
-页面优化结果将告诉您需要采取哪些确切步骤来提高优化得分/在搜索此页面时执行得更好。
+此 [!UICONTROL 頁面最佳化結果] 會告訴您需要採取的確切步驟，以提高最佳化分數/在此頁面的搜尋中執行得更好。
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
 
-很贴心，对吧？ 通过此处了解有关页面的更多信息。
-
 >[!MORELIKETHIS]
 >
->[使用目标关键词优化特定页面](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
+>[使用目標關鍵字最佳化特定頁面](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)

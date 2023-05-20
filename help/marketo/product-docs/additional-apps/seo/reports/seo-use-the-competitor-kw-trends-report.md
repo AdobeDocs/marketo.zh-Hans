@@ -1,60 +1,58 @@
 ---
 unique-page-id: 2949270
-description: SEO — 使用竞争者KW趋势报表 — Marketo文档 — 产品文档
-title: SEO — 使用竞争者KW趋势报表
+description: SEO — 使用競爭者KW趨勢報表 — Marketo檔案 — 產品檔案
+title: SEO — 使用競爭者KW趨勢報表
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# SEO — 使用竞争者KW趋势报表 {#seo-use-the-competitor-kw-trends-report}
+# SEO — 使用競爭者KW趨勢報表 {#seo-use-the-competitor-kw-trends-report}
 
-在此报表中，您可以查看一段时间内您和您的竞争者对关键词的排名情况。
+在此報表中，您可以檢視您和您的競爭者在一段時間內的關鍵字排名。
 
-## 查找报表 {#find-reports}
+## 尋找報告 {#find-reports}
 
-1. 转到 **报表**.
+1. 前往 **[!UICONTROL 報表]**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. 单击 **竞争KW排名趋势**.
+1. 按一下 **[!UICONTROL 競爭者KW排名趨勢]**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
-## KW排名趋势图 {#kw-rank-trends-graph}
+## KW排名趨勢圖表 {#kw-rank-trends-graph}
 
-此图表可显示在指定范围内的关键词排名百分比以及竞争者的排名情况。
+此圖表可顯示您的關鍵字在指定範圍內的排名百分比，以及您的競爭對手的棧疊方式。
 
 ![](assets/image2014-9-18-14-3a7-3a1.png)
 
-| 项目 | 描述 |
+| 專案 | 描述 |
 |---|---|
-| 关键词 | 您跟踪的关键词数。 |
-| 排名URL | 您网站上在您设置的范围内排名的URL数。 |
-| 排名百分比 | 在您设置的范围内，关键词排名的百分比。 |
-| 平均 搜索 | 在您设置的范围内(过去30天，在Google美国搜索上)，对这些关键词的平均搜索次数 |
+| [!UICONTROL 關鍵字] | 您正在追蹤的關鍵字數目。 |
+| [!UICONTROL 排名URL] | 網站排名上的URL數量在您設定的範圍內。 |
+| [!UICONTROL 排名中的%] | 在您設定的範圍中排名的關鍵字百分比。 |
+| [!UICONTROL 平均 搜尋] | 在您設定的範圍內(過去30天內，在Google US搜尋中)對這些關鍵字發生的平均搜尋次數 |
 
-## 过滤数据 {#filtering-data}
+## 篩選資料 {#filtering-data}
 
-1. 单击下拉列表，然后选择所需的时间段。
+1. 按一下下拉式清單，然後選取您想要的時間段。
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. 单击 **排名** 下拉列表，选择要查看关键词的排名范围。
+1. 按一下 **[!UICONTROL 排名]** 下拉式清單，選擇要檢視關鍵字的排名範圍。
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## 导出数据  {#exporting-data}
+## 匯出資料 {#exporting-data}
 
 >[!TIP]
 >
->您可以将此报表导出到桌面。
+>您可以將此報告匯出至案頭。
 
-1. 单击 **导出CSV** 或 **Export PDF**.
+1. 按一下 **[!UICONTROL 匯出CSV]** 或 **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)
-
-   工作！

@@ -1,29 +1,27 @@
 ---
 unique-page-id: 2949240
-description: SEO — 删除关键词 — Marketo文档 — 产品文档
-title: SEO — 删除关键词
+description: SEO — 移除關鍵字 — Marketo檔案 — 產品檔案
+title: SEO — 移除關鍵字
 exl-id: 4eba33aa-a397-4a02-8d24-3dbd945f9ac4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# SEO — 删除关键词 {#seo-remove-a-keyword}
+# SEO — 移除關鍵字 {#seo-remove-a-keyword}
 
-如果您有一个不想继续优化的关键词，请参阅下面的删除方法。
+如果您有不想繼續最佳化的關鍵字，以下說明移除該關鍵字的方法。
 
-1. 单击以转到 **关键词** 中。
+1. 按一下以前往 **[!UICONTROL 關鍵字]** 區段。
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
-1. 将鼠标悬停在要删除的关键词上，然后单击 **DELETE**.
+1. 將游標停留在您要移除的關鍵字上，然後按一下 **[!UICONTROL 刪除]**.
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. 单击 **删除** 再次确认。
+1. 按一下 **[!UICONTROL 刪除]** 再次確認。
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)
-
-   真让人松了一口气！ 现在你可以转向更大、更好的事情。

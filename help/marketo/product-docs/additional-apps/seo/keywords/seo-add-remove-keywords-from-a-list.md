@@ -1,63 +1,63 @@
 ---
 unique-page-id: 2949678
-description: SEO — 从列表添加/删除关键词 — Marketo文档 — 产品文档
-title: SEO — 在列表中添加/删除关键词
+description: SEO — 從清單新增/移除關鍵字 — Marketo檔案 — 產品檔案
+title: SEO — 在清單中新增/移除關鍵字
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# SEO — 在列表中添加/删除关键词 {#seo-add-remove-keywords-from-a-list}
+# SEO — 在清單中新增/移除關鍵字 {#seo-add-remove-keywords-from-a-list}
 
-您可以使用列表保持所有关键词的整洁和组织。 这样，查找特定关键词的数据就像饼图一样简单。
+您可以使用清單保持所有關鍵字整齊有序。 如此一來，尋找特定關鍵字上的資料就變得像圓形圖一樣容易。
 
-## 添加到列表 {#add-to-a-list}
+## 新增至清單 {#add-to-a-list}
 
-1. 转到 **关键词** 中。
+1. 前往 **[!UICONTROL 關鍵字]** 區段。
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. 将鼠标悬停在要添加到列表的关键词上。 单击 **从列表中添加/删除**.
+1. 將游標停留在您要新增至清單的關鍵字上。 按一下 **[!UICONTROL 新增/從清單移除]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
-1. 单击列表，将添加关键词。
+1. 按一下清單，就會新增關鍵字。
 
    ![](assets/image2014-9-18-11-3a48-3a47.png)
 
    >[!TIP]
    >
-   >您还可以为关键词创建一个新列表。 只需在创建新列表中键入名称。
+   >您也可以為關鍵字建立新清單。 只需鍵入名稱 **[!UICONTROL 建立新清單]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
-哇！ 选择您的列表以查看新关键词。
+胡虎！ 選取您的清單以檢視新關鍵字。
 
-## 从列表中删除关键词 {#remove-keyword-from-list}
+## 從清單中移除關鍵字 {#remove-keyword-from-list}
 
-您还可以从列表中删除关键词。
+您也可以從清單中移除關鍵字。
 
-1. 转到 **关键词** 中。
+1. 前往 **[!UICONTROL 關鍵字]** 區段。
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. 将鼠标悬停在要从列表中删除的关键词上。 单击 **从列表中添加/删除**.
+1. 暫留在您要從清單中移除的關鍵字上。 按一下 **[!UICONTROL 新增/從清單移除]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
-1. 单击要从中删除关键词的列表。
+1. 按一下您要從中移除關鍵字的清單。
 
    >[!NOTE]
    >
-   >该关键字当前所属的所有列表都将有一个复选标记。 从列表中删除后，该复选框会消失。
+   >關鍵字目前所屬的所有清單都會有核取記號。 一旦從清單中移除，該檢查就會消失。
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
-   完美，关键词不再在此列表中。 刷新页面以更新显示内容。
+   完美，關鍵字不再列在此清單中。 重新整理您的頁面以更新顯示。
 
    >[!MORELIKETHIS]
    >
-   >[了解关键词（摘要视图）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[瞭解關鍵字（摘要檢視）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

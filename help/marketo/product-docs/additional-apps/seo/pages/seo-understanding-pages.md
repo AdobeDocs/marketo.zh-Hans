@@ -1,55 +1,55 @@
 ---
 unique-page-id: 2949184
-description: SEO — 了解页面 — Marketo文档 — 产品文档
-title: SEO — 了解页面
+description: SEO — 瞭解頁面 — Marketo檔案 — 產品檔案
+title: SEO — 瞭解頁面
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 1%
 
 ---
 
-# SEO — 了解页面 {#seo-understanding-pages}
+# SEO — 瞭解頁面 {#seo-understanding-pages}
 
-## 页面优化分数/待做小组件 {#page-optimization-score-to-do-widget}
+## 頁面最佳化分數/待辦事項Widget {#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-页面优化得分是对页面在搜索方面的优化程度（从1到100）的整体排名。 它基于SEO中的数十种最佳实践。
+頁面 [!UICONTROL 最佳化分數] 是頁面針對搜尋最佳化的整體排名，以1到100為分母。 這是以SEO中數十種最佳實務為基礎所建立。
 
-* 0 - 35 =未优化
-* 35 - 70 =在正确的轨道上
-* 70 - 100 =做得好！
+* 0 - 35 =未最佳化
+* 35 - 70 =在右邊
+* 70 - 100 =做得很好！
 
 >[!TIP]
 >
->单击“待办事项”框中的“高影响”链接，这会将您重定向到“问题”选项卡，并向您显示要解决的高优先级问题。
+>按一下 [!UICONTROL 高影響力] 中的連結 [!UICONTROL 待辦事項] 方塊中，這會將您重新導向至 [!UICONTROL 問題索引標籤] 並顯示要解決的高優先順序問題。
 
-## “页面”选项卡 {#pages-tab}
+## [!UICONTROL 頁面] 標籤 {#pages-tab}
 
-“页面”选项卡显示您网站上各个页面的搜索优化程度。
+此 **[!UICONTROL 頁面] 標籤** 顯示您網站上個別頁面的搜尋最佳化程度。
 
 ![](assets/image2014-9-17-21-3a52-3a41.png)
 
-| 列名称 | 描述 |
+| 欄名稱 | 描述 |
 |---|---|
-| 标题 | 域中所有页面的标题和URL。 验证您的域。 |
-| 优化分数 | 用于显示页面在1到100之间的搜索优化程度的秘密酱汁。 |
-| 链接 | 至少具有1个网站入站链接的不同域的数量。 |
-| 目标关键词 | 您决定优化每个页面的关键词。 [这需要您的输入](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL 标题] | 網域中所有頁面的標題和URL。 驗證您的網域。 |
+| [!UICONTROL 最佳化分數] | 用來顯示您的頁面在1到100之間最佳化搜尋效果的秘訣。 |
+| [!UICONTROL 連結] | 至少有1個傳入連結可連結至您網站的不同網域數目。 |
+| [!UICONTROL 目標關鍵字] | 您決定最佳化每個頁面的關鍵字。 [這需要您的輸入](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
-## “问题”选项卡 {#issues-tab}
+## [!UICONTROL 問題] 標籤 {#issues-tab}
 
-“问题”选项卡将确定您可以做出哪些改进来提高优化得分和排名。
+此 **[!UICONTROL 問題] 標籤** 將確定您可以進行哪些改善以提高最佳化分數和排名。
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 
-| 列名称 | 描述 |
+| 欄名稱 | 描述 |
 |---|---|
-| 问题 | 可帮助提高优化得分的可操作项目列表。 |
-| 影响 | 这对你的整体得分有多重要。 首先修复影响较大的项目！ |
-| 类别 | 报告的问题类型。 |
-| 状态 | 任务已完成还是仍然打开。 在您和您的网站管理员修复网站上的问题后，状态应更改为已解决（绿色检查）。 |
+| [!UICONTROL 問題] | 有助於改善最佳化分數的可操作專案清單。 |
+| [!UICONTROL 影響] | 這對於您的整體分數有多重要。 請先修正高影響力的專案！ |
+| [!UICONTROL 类别] | 所報告的問題型別。 |
+| [!UICONTROL 状态] | 任務完成還是仍然開啟。 在您和您的網站管理員修正您網站上的問題後，狀態應變更為「已解決」（綠色檢查）。 |
 
-太棒了，既然您了解了页面的基础知识，请查看 [页面详细信息向下钻取文章](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) 去了解更多很酷的事情。
+棒極了，現在您已瞭解頁面的基本知識，請檢視以下資訊： [頁面詳細資料向下展開文章](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) 以進一步瞭解您可以做的酷事。

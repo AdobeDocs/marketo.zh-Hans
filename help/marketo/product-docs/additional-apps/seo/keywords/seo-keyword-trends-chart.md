@@ -1,33 +1,35 @@
 ---
 unique-page-id: 2949680
-description: SEO — 关键词趋势图 — Marketo文档 — 产品文档
-title: SEO — 关键词趋势图
+description: SEO — 關鍵字趨勢圖 — Marketo檔案 — 產品檔案
+title: SEO — 關鍵字趨勢圖表
 exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# SEO — 关键词趋势图 {#seo-keyword-trends-chart}
+# SEO — 關鍵字趨勢圖表 {#seo-keyword-trends-chart}
 
-监视关键词的方式很重要 [SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 随时间的推移呈现趋势。 检查此酷图以监视进度。
+監視關鍵字的方式很重要 [SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 是長期的熱門課程。 檢視此酷炫圖表以監控進度。
 
-1. 转到 **关键词** 中。
+1. 前往 **[!UICONTROL 關鍵字]** 區段。
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
-1. 单击要趋势化的关键词的排名框。
+1. 按一下您要分析趨勢之關鍵字的排名方塊。
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   看？ 它显示您的 [SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 过去30天：
+   它會顯示您的 [SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 過去30天：
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
-   很狡猾吧？ 您可以在关键词趋势报表中了解有关关键词排名的更多信息。
+   >[!TIP]
+   >
+   >您可以在「關鍵字趨勢報表」中進一步瞭解您的關鍵字排名。
 
    >[!MORELIKETHIS]
    >
-   >[使用关键词趋势报表](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
+   >[使用關鍵字趨勢報表](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)

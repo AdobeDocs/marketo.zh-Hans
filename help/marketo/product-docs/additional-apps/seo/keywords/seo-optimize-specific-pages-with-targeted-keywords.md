@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2949212
-description: SEO — 使用目标关键词优化特定页面 — Marketo文档 — 产品文档
-title: SEO — 使用目标关键词优化特定页面
+description: SEO — 使用目標關鍵字最佳化特定頁面 — Marketo檔案 — 產品檔案
+title: SEO — 使用目標關鍵字最佳化特定頁面
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# SEO — 使用目标关键词优化特定页面 {#seo-optimize-specific-pages-with-targeted-keywords}
+# SEO — 使用目標關鍵字最佳化特定頁面 {#seo-optimize-specific-pages-with-targeted-keywords}
 
-某些关键词在某些页面上效果非常好。 这就是您将完美关键词与其完美页面相匹配的方式。 这将提供最准确的数据以及最佳的改进建议。
+某些關鍵字與某些頁面非常相配。 以下說明如何比對perfect關鍵字與其完美頁面。 這將提供最準確的資料和最佳的改善建議。
 
-1. 转到 **页面** 中。
+1. 前往 **[!UICONTROL 頁面]** 區段。
 
-   ![](assets/image2014-9-18-12-3a52-3a28.png)a
+   ![](assets/image2014-9-18-12-3a52-3a28.png)
 
-1. 单击要查看详细信息的页面。
+1. 按一下您要檢視其詳細資訊的頁面。
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. 选择要优化页面的关键词。 单击 **更新**.
+1. 選取您嘗試最佳化頁面的關鍵字。 按一下 **[!UICONTROL 更新]**.
 
    >[!TIP]
    >
-   >我们建议您每页使用少于三个关键词。 理想的，就一个。
+   >我們建議您每頁使用少於三個關鍵字。 理想情況下，只需一個。
 
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
-   马上！ 为尽可能多的页面和关键词执行此操作。
+請針對儘可能多的頁面和關鍵字執行此操作。
