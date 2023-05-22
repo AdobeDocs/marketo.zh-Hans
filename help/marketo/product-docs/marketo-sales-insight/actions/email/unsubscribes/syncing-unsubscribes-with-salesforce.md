@@ -1,95 +1,101 @@
 ---
-description: 正在将取消订阅与Salesforce同步 — Marketo文档 — 产品文档
-title: 正在将取消订阅与Salesforce同步
+description: 與Salesforce同步取消訂閱 — Marketo檔案 — 產品檔案
+title: 正在與Salesforce同步取消訂閱
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
+source-git-commit: ec79f405f975f2179aae94ec5556808785d7c594
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
 
-# 正在将取消订阅与Salesforce同步 {#syncing-unsubscribes-with-salesforce}
+# 正在與Salesforce同步取消訂閱 {#syncing-unsubscribes-with-salesforce}
 
-## 取消订阅同步到Salesforce的要求 {#requirements-for-unsubscribes-to-sync-to-salesforce}
+如果您想要在Salesforce中將取消訂閱與選擇退出欄位同步，可以使用Salesforce取消訂閱同步。
 
-* 必须启用“取消订阅同步”（用于夜间同步）
-* 必须在Salesforce中安装“选择退出”字段
-* Marketo Sales中的人员记录必须具有Salesforce ID
+## 取消訂閱同步處理至Salesforce的需求 {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
-**推送取消订阅**
+* 必須啟用取消訂閱同步（用於夜間同步）
+* 「選擇退出」欄位必須安裝在Salesforce中
+* Marketo Sales中的人員記錄必須有Salesforce ID
 
-在Marketo Sales中收集取消订阅后，我们会实时将其推送到Salesforce，并更新您选择与同步的任一选择退出字段。 如果您已禁用Salesforce同步，我们仍会将取消订阅推送到电子邮件选择退出。
+**推播取消訂閱**
 
-**取消订阅同步**
+在Marketo Sales中收集到取消訂閱時，我們會即時將其推送到Salesforce，並更新您選擇要同步處理的任一選擇退出欄位。 如果您已停用Salesforce同步，我們仍會將取消訂閱推送至電子郵件選擇退出。
 
-启用取消订阅同步（下面的步骤3）后，您将打开夜间同步。 同步每天在晚上8:00（太平洋标准时间）左右进行一次。 它将与Salesforce中的选择退出字段双向同步Marketo Sales中的所有取消订阅。
+**取消訂閱同步處理**
 
-## 配置与Salesforce的取消订阅同步 {#configure-unsubscribe-sync-to-salesforce}
+當您啟用取消訂閱同步時（下面的步驟3），您將會開啟夜間同步。 同步會在太平洋標準時間下午8:00左右每天執行一次。 它會將Marketo Sales中的所有取消訂閱與Salesforce中的選擇退出欄位雙向同步。
 
-用户可以决定是要将他们的取消订阅与Marketo也可以同步的标准电子邮件选择退出字段同步，还是可以与Marketo销售选择退出字段同步，以便能够区分销售取消订阅和营销取消订阅。
+>[!NOTE]
+>
+>取消訂閱與Salesforce同步將會同步取消訂閱，但不會同步重新訂閱。 如果您想要從Marketo Sales和Salesforce移除取消訂閱，請在Salesforce中取消勾選取消訂閱，並在Marketo Sales中移除取消訂閱。
 
-1. 单击齿轮图标，然后选择 **设置**.
+## 設定取消訂閱同步處理至Salesforce {#configure-unsubscribe-sync-to-salesforce}
+
+使用者可以決定是否要透過Marketo也可以同步的標準電子郵件選擇退出欄位同步其取消訂閱，也可以透過Marketo銷售選擇退出欄位同步，以便區分銷售取消訂閱和行銷取消訂閱。
+
+1. 按一下齒輪圖示並選取 **設定**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. 在“管理员设置”下，选择 **取消订阅**.
+1. 在管理設定下方，選取 **取消訂閱**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. 单击 **集成** 选项卡。 在“同步到Salesforce”下，启用夜间同步。
+1. 按一下 **整合** 標籤。 在「同步至Salesforce」底下，啟用「夜間同步」。
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
-1. 选择要同步到的字段。
+1. 選取您要同步處理的欄位。
 
    ![](assets/syncing-unsubscribes-with-salesforce-4.png)
 
    | 字段 | 描述 |
    |---|---|
-   | **同步到Salesforce选择退出字段** | 默认选中后，只会更新Salesforce选择退出字段。 |
-   | **同步到Marketo Sales Opt Out字段** | 如果要分隔销售和营销取消订阅，请选择此选项以更新其他 [Marketo Sales Opt Out字段。](#msoo) |
+   | **同步至Salesforce選擇退出欄位** | 預設為選取，只會更新Salesforce選擇退出欄位。 |
+   | **同步至Marketo銷售選擇退出欄位** | 如果您想要區隔銷售與行銷取消訂閱，請選擇此選項以更新其他 [Marketo銷售選擇退出欄位。](#msoo) |
 
-## 在页面布局中安装选择禁用字段 {#installing-the-opt-out-field-in-the-page-layout}
+## 在頁面配置中安裝選擇退出欄位 {#installing-the-opt-out-field-in-the-page-layout}
 
-**电子邮件选择退出**
+**電子郵件選擇退出**
 
-Email Opt Out是Salesforce中的一个标准字段，可从Salesforce安装。 您需要是Salesforce管理员才能安装它。
+電子郵件選擇退出是Salesforce中的標準欄位，可從Salesforce安裝。 您必須是Salesforce管理員才能安裝。
 
-1. 转到 [Salesforce.com](https://salesforce.com) 然后登录。
+1. 前往 [Salesforce.com](https://salesforce.com) 並登入。
 
    ![](assets/syncing-unsubscribes-with-salesforce-5.png)
 
-1. 单击您的用户名并选择 **设置**.
+1. 按一下您的使用者名稱，然後選取 **設定**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-6.png)
 
-1. 在快速查找框中，搜索联系人或潜在客户。 在此方案中，我们将字段安装到“联系人”页面布局，但您需要为两个人员记录进行安装。
+1. 在快速尋找方塊中搜尋「連絡人」或「銷售機會」。 在此案例中，我們會將欄位安裝至連絡人頁面配置，但您會想要為兩個人記錄安裝。
 
    ![](assets/syncing-unsubscribes-with-salesforce-7.png)
 
-1. 选择 **页面布局**.
+1. 選取 **頁面配置**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-8.png)
 
-1. 选择 **编辑** 在要将字段添加到的页面布局旁边。
+1. 選取 **編輯** 在您要新增欄位的頁面配置旁邊。
 
    ![](assets/syncing-unsubscribes-with-salesforce-9.png)
 
-1. 选择 **字段**.
+1. 選取 **欄位**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-10.png)
 
-1. 将电子邮件选择退出拖放到页面布局中。
+1. 將「電子郵件選擇退出」拖放到頁面版面配置中。
 
    ![](assets/syncing-unsubscribes-with-salesforce-11.png)
 
-1. 单击 **保存**.
+1. 按一下 **儲存**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 
-## Marketo Sales Opt Out {#marketo-sales-opt-out}
+## Marketo銷售選擇退出 {#marketo-sales-opt-out}
 
-“Marketo销售选择退出”字段是一个自定义字段，对于已安装Marketo Sales Insight包的用户可用 [从AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Marketo銷售選擇退出欄位是自訂欄位，可供已安裝Marketo Sales Insight套件的使用者使用 [從AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-成功将Marketo Sales Insight包从AppExchange安装到Salesforce后，您将看到可供您使用的Marketo Sales Opt Out字段。
+成功從AppExchange安裝Marketo Sales Insight套件至Salesforce後，您將會看到Marketo Sales選擇退出欄位可供您使用。
