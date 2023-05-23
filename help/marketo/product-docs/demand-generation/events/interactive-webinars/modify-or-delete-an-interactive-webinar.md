@@ -1,104 +1,102 @@
 ---
-description: 修改或删除交互式网络研讨会 — Marketo文档 — 产品文档
-title: 修改或删除交互式网络研讨会
-hide: true
-hidefromtoc: true
+description: 修改或刪除互動式網路研討會 — Marketo檔案 — 產品檔案
+title: 修改或刪除互動式網路研討會
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# 修改或删除交互式网络研讨会 {#modify-or-delete-an-interactive-webinar}
+# 修改或刪除互動式網路研討會 {#modify-or-delete-an-interactive-webinar}
 
-了解如何更改您的交互式网络研讨会。
+瞭解如何變更您的互動式網路研討會。
 
-## 修改交互式网络研讨会 {#modify-an-interactive-webinar}
+## 修改互動式網路研討會 {#modify-an-interactive-webinar}
 
-1. 选择所需的事件程序并单击 **更改文件室/模板**.
+1. 選取所需的事件計畫並按一下 **變更會議室/範本**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. 房间会装的。 如果要更改文件室，请从“文件室”下拉列表中选择一个文件室。 要仅更新模板，请单击 **使用室**.
+1. 房間將會載入。 如果要變更檔案室，請從「檔案室」下拉式清單中選取一個檔案室。 若要只更新範本，請按一下 **使用空間**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
 >[!NOTE]
 >
->更改文件室是可选的，更新模板时不需要更改。
+>變更您的檔案室是選擇性的，不需要更新您的範本。
 
-1. 单击 **立即优化网络研讨会**.
+1. 按一下 **立即調整您的網路研討會**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-3.png)
 
-1. 选择音频/视频首选项并单击 **进入房间**.
+1. 選取您的音訊/視訊偏好設定，然後按一下 **進入房間**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. 完成修改后，单击 **退出室**.
+1. 完成修改後，按一下「 」 **退出房間**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
-## 重新计划交互式网络研讨会 {#reschedule-an-interactive-webinar}
+## 重新排程互動式網路研討會 {#reschedule-an-interactive-webinar}
 
-1. 选择所需的事件程序，然后单击当前计划日期/时间旁边的铅笔图标。
+1. 選取所需的事件計畫，然後按一下目前排程日期/時間旁的鉛筆圖示。
 
    ![](assets/modify-or-delete-an-interactive-webinar-6.png)
 
-1. 单击日历图标，选择新的日期/时间，然后单击 **保存**.
+1. 按一下日曆圖示，選擇新的日期/時間，然後按一下 **儲存**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-7.png)
 
-## 克隆交互式网络研讨会 {#clone-an-interactive-webinar}
+## 複製互動式網路研討會 {#clone-an-interactive-webinar}
 
-1. 选择所需的事件程序。
+1. 選取所需的事件程式。
 
    ![](assets/modify-or-delete-an-interactive-webinar-8.png)
 
-1. 单击“程序操作”(Program Actions)下拉菜单，然后选择 **克隆**.
+1. 按一下程式動作下拉式清單，然後選取 **原地複製**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-9.png)
 
    >[!TIP]
    >
-   >您还可以右键单击树中的事件程序，然后选择 **克隆** 从那里。
+   >您也可以以滑鼠右鍵按一下樹狀結構中的「事件程式」，然後選取 **原地複製** 從那裡。
 
-1. 为克隆的程序提供一个名称，设置工作区和目标（如果您希望该程序位于其他位置），然后单击 **保存**.
+1. 為複製的計畫命名、設定工作區和目的地（如果您希望計畫在其他地方存放），然後按一下 **儲存**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
-1. 单击 **下一个**.
+1. 按一下 **下一個**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
 
    >[!NOTE]
    >
-   >此时，您只能将克隆的交互式网络研讨会另存为交互式网络研讨会。 将克隆的网络研讨会另存为合作伙伴网络研讨会（例如，缩放、ON24等） 即将推出。
+   >目前您只能將複製的互動式網路研討會儲存為互動式網路研討會。 將複製的網路研討會儲存為合作夥伴網路研討會（例如Zoom、ON24等） 即將推出。
 
-1. 选择克隆网络研讨会的设置，然后单击 **克隆**.
+1. 選擇複製網路研討會的設定，然後按一下 **原地複製**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
-## 删除交互式网络研讨会 {#delete-an-interactive-webinar}
+## 刪除互動式網路研討會 {#delete-an-interactive-webinar}
 
-1. 选择所需的事件程序。
+1. 選取所需的事件程式。
 
    ![](assets/modify-or-delete-an-interactive-webinar-13.png)
 
-1. 单击“程序操作”(Program Actions)下拉菜单，然后选择 **删除**.
+1. 按一下程式動作下拉式清單，然後選取 **刪除**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-14.png)
 
    >[!TIP]
    >
-   >您还可以右键单击树中的事件程序，然后选择 **删除** 从那里。
+   >您也可以以滑鼠右鍵按一下樹狀結構中的「事件程式」，然後選取 **刪除** 從那裡。
 
-1. 单击 **删除**.
+1. 按一下 **刪除**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-15.png)
 
    >[!IMPORTANT]
    >
-   >如果程序中存在任何本地资产，则也会删除这些资产。
+   >如果程式中有任何本機資產，這些資產也會一併刪除。

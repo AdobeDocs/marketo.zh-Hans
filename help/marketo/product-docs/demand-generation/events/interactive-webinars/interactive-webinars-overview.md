@@ -1,54 +1,52 @@
 ---
-description: 交互式网络研讨会概述 — Marketo文档 — 产品文档
-title: 交互式网络研讨会概述
-hide: true
-hidefromtoc: true
+description: 互動式網路研討會概覽 — Marketo檔案 — 產品檔案
+title: 互動式網路研討會概觀
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
-# 交互式网络研讨会概述 {#interactive-webinars-overview}
+# 互動式網路研討會概觀 {#interactive-webinars-overview}
 
-交互式网络研讨会功能是我们内置的网络研讨会平台，位于Marketo Engage内。 无需其他工具或集成。
+互動式網路研討會功能是我們內建的Marketo Engage網路研討會平台。 不需要其他工具或整合。
 
-## 什么是交互式网络研讨会？ {#what-is-interactive-webinars}
+## 什麼是互動式網路研討會？ {#what-is-interactive-webinars}
 
-交互式网络研讨会通过为您提供本机的无缝体验来扩充现有活动和网络研讨会体验，从而在Marketo Engage内创建、管理和交付活动。 当您 [创建交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}，则可以从中选择多个预建会议模板，所有这些模板都是可自定义的（您也可以创建和使用自定义模板）。 与会者可以共享计算机屏幕/文件、相互聊天、广播音频和视频，以及参与交互式在线活动。
+互動式網路研討會提供您原生且順暢的體驗，讓您在Marketo Engage中建立、管理和交付事件，進一步豐富現有活動和網路研討會體驗。 當您 [建立互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}，您可從多個預先建立的會議範本中進行選擇，所有範本都是可自訂的（您也可以建立和使用自訂範本）。 與會者可以分享電腦熒幕/檔案、彼此聊天、廣播音訊和視訊，以及參與互動式線上活動。
 
-交互式网络研讨会选件 [三个不同的许可证](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}，每个都具有各种功能和能力。
+互動式網路研討會提供 [三個不同的授權](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}，各具不同功能與容量。
 
-网络研讨会后，访问 [事件性能分析](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} 通过包含潜在客户和聚合参与数据的报表和功能板。 特定于交互式网络研讨会的过滤器和触发器允许您查找执行特定操作（例如，单击链接、下载资产等）的特定人员组。
+網路研討會後，存取 [事件效能分析](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} 透過包含潛在客戶和彙總參與資料的報表和儀表板。 互動式網路研討會專用篩選器和觸發器可讓您找到執行特定動作（例如按一下連結、下載資產等）的特定人員群組。
 
-## 常见问题解答 {#faq}
+## 常見問題集 {#faq}
 
-**我是否需要单独的Adobe Connect许可才能使用交互式网络研讨会？**
+**我需要個別的Adobe Connect授權才能使用互動式網路研討會嗎？**
 
-否. 使用交互式网络研讨会时，只需激活Marketo Engage订阅。
+否. 使用互動式網路研討會只需要有效的Marketo Engage訂閱。
 
-**不同的交互式网络研讨会许可证有哪些？**
+**不同的互動式網路研討會授權有哪些？**
 
-交互式网络研讨会有三种类型的许可证。
+互動式網路研討會提供三種型別的授權。
 
-`1.` 共享事件许可证 — 此许可证可以在不同的参与者容量下使用：500、1000和1500。 它包含有限数量的网络研讨会，可利用3GB的存储空间。
+`1.` 共用事件授權 — 本授權提供不同的參與者容量：500、1000和1500。 其包含的可用網路研討會數量有限，且儲存空間為3GB。
 
-`2.` 共享会议室许可证 — 此许可证可以在不同的参与者容量下使用：200、500、1000和1500。 它包含可利用的无限数量网络研讨会和无限数量的存储。
+`2.` 共用房間授權 — 本授權提供不同的參與者容量：200、500、1000和1500。 其中包含無限數量的網路研討會，可供使用且儲存空間無限制。
 
-`3.` 其他存储许可证 — 此许可证包含额外的存储（100GB或1TB），这些存储可在超出存储限制的多个共享事件许可证中使用。
+`3.` 額外儲存授權 — 此授權包含額外的儲存空間（100GB或1TB），可用於超過儲存限制的多個共用事件授權。
 
-您可以获取这些许可证的任意组合。
+您可以取得這些授權的任何組合。
 
-**我已用尽包括的交互式网络研讨会数量。 如何获得更多会话或更多容量？**
+**我已用完已包含的互動式網路研討會。 如何取得更多工作階段或更多容量？**
 
-请联系Adobe客户团队（您的客户经理）以获取帮助。
+請聯絡Adobe客戶團隊（您的客戶經理）以尋求協助。
 
-**作为Marketo管理员，我能否控制哪些Marketo用户可以创建交互式网络研讨会？**
+**身為Marketo管理員，我可以控制哪些Marketo使用者可以建立互動式網路研討會嗎？**
 
-是，您可以控制哪些Marketo用户有权创建和交付交互式网络研讨会。 可通过Adobe Marketo Engage实例“管理员”区域的交互式网络研讨会部分访问该内容。
+可以，您可以控制哪些Marketo使用者獲得建立和傳遞互動式網路研討會的許可權。 您可透過Adobe Marketo Engage執行個體管理區域的互動式網路研討會區段存取此內容。
 
-**我是否需要将Adobe Connect网络研讨会与交互式网络研讨会事件项目（如Launchpoint事件项目）相关联？**
+**是否需要將Adobe Connect網路研討會與互動式網路研討會活動計畫建立關聯，例如與Launchpoint活動計畫建立關聯？**
 
-否，交互式网络研讨会活动项目会为您建立关联。
+否，互動式網路研討會活動程式會為您建立關聯。
