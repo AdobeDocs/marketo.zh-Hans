@@ -3,7 +3,7 @@ description: 說明中心 — Marketo檔案 — 產品檔案
 title: 帮助中心
 hide: true
 hidefromtoc: true
-source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 3%
@@ -20,7 +20,7 @@ Marketo Engage的「說明中心」是取得協助的集中位置。 除了連�
 
 ![](assets/help-center-1.png)
 
-**指南**
+### 指南 {#guides}
 
 指南可作為常用功能的快速逐步說明。
 
@@ -46,7 +46,7 @@ Marketo Engage的「說明中心」是取得協助的集中位置。 除了連�
 >
 >隨時按一下以退出指南 **解除**.
 
-**新增功能**
+### 新增功能 {#whats-new}
 
 「新增功能」標籤包含Marketo Engage最新版本的完整詳細資料。
 
@@ -56,7 +56,7 @@ Marketo Engage的「說明中心」是取得協助的集中位置。 除了連�
 >
 >按一下底部的箭頭圖示，以Experience League檢視頁面。
 
-**資源**
+### 資源 {#resources}
 
 「資源」標籤可讓您快速而直接地存取各種方式，以取得Marketo Engage執行個體的額外協助。
 
