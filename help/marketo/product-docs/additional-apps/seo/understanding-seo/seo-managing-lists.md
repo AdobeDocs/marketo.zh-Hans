@@ -1,37 +1,35 @@
 ---
 unique-page-id: 2949232
-description: SEO — 管理列表 — Marketo文档 — 产品文档
-title: SEO — 管理列表
+description: SEO — 管理清單 — Marketo檔案 — 產品檔案
+title: SEO — 管理清單
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-# SEO — 管理列表 {#seo-managing-lists}
+# SEO — 管理清單 {#seo-managing-lists}
 
-在添加关键词、页面、页面问题或入站链接时，您可以将内容添加到列表。 列表可帮助您保持组织有序，并允许您过滤报表以仅查看该列表上的数据。 下面是如何制作它们：
+新增關鍵字、頁面、頁面問題或傳入連結時，您可以將專案新增至清單。 清單可協助您保持井然有序，並可讓您篩選報表以僅檢視該清單上的資料。 以下說明如何製作這些區段。
 
-1. 单击 **添加关键词**.
+1. 按一下 **[!UICONTROL 新增關鍵字]**.
 
    >[!NOTE]
    >
-   >在添加页面、页面问题和入站链接时，其工作方式与此相同。
+   >這在新增頁面、頁面問題和傳入連結時的運作方式相同。
 
    ![](assets/image2014-9-18-13-3a24-3a35.png)
 
-1. 输入关键词。 从下拉列表中选择要将其添加到的列表。
+1. 輸入關鍵字。 從下拉式清單中選取要新增它的清單。
 
    ![](assets/image2014-9-18-13-3a24-3a50.png)
 
    >[!TIP]
    >
-   >您可以在下拉列表中创建新列表。 输入标题，按返回键。
+   >您可以在下拉式清單中建立新清單。 輸入標題，按一下傳回鍵。
 
-1. 单击 **保存**.
+1. 按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
-
-   组织得开心！

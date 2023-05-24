@@ -1,45 +1,43 @@
 ---
 unique-page-id: 2949180
-description: 了解SEO功能板 — SEO Recommendations - Marketo文档 — 产品文档
-title: 了解SEO功能板 — SEO Recommendations
+description: 瞭解SEO控制面板 — SEO Recommendations - Marketo檔案 — 產品檔案
+title: 瞭解SEO控制面板 — SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-# 了解SEO功能板：徐Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
+# 瞭解SEO控制面板：SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
 
-使用功能板可以概要了解关键词排名的趋势以及您的网站针对SEO优化的效果。
+使用控制面板可取得關鍵字排名趨勢的高階檢視，以及您的網站針對SEO最佳化的程度。
 
-您还可以了解如何改进使用Recommendations部分。 让我们潜入！
+您也可以透過以下連結瞭解如何改進使用 [!UICONTROL Recommendations] 區段。 讓我們開始吧！
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## 热门页面优化问题 {#top-page-optimization-issues}
+## [!UICONTROL 熱門頁面最佳化問題] {#top-page-optimization-issues}
 
-这将向您展示五种极具影响力的方式，以便立即开始优化您的网站！ 只需单击任意链接，即可查看完整 [页面详细信息向下钻取](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}。
+這會向您展示五種立即開始最佳化網站的高影響力方法！ 只要按一下任何連結即可檢視完整內容 [頁面詳細資料向下展開](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
->您可以单击热门页面优化问题以查看完整列表。
+>您可以按一下 [!UICONTROL 熱門頁面最佳化問題] 以檢視完整清單。
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
-## 热门链接机会 {#top-link-opportunities}
+## [!UICONTROL 熱門連結機會] {#top-link-opportunities}
 
-将信誉良好的网站链接到您的内容可以提高您的页面排名。 以下是我们为您的网站找到的一些优先级最高的机会。
+將信譽良好的網站連結至您的內容可以增加您的頁面排名。 以下是我們在您的網站上找到的一些最高優先順序的機會。
 
 >[!TIP]
 >
->您可以单击排名最前的链接优化以查看完整列表。
+>您可以按一下 [!UICONTROL 上層連結最佳化] 以檢視完整清單。
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 
-马上！ 深入这里。
-
 >[!MORELIKETHIS]
 >
->[页面详细信息向下钻取](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}
+>[頁面詳細資料向下展開](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}

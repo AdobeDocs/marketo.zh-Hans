@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949196
-description: SEO — 设置电子邮件警报首选项 — Marketo文档 — 产品文档
-title: SEO — 设置电子邮件警报首选项
+description: SEO — 設定您的電子郵件警報偏好設定 — Marketo檔案 — 產品檔案
+title: SEO — 設定您的電子郵件警報偏好設定
 exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# SEO — 设置电子邮件警报首选项 {#seo-set-your-email-alert-preferences}
+# SEO — 設定您的電子郵件警報偏好設定 {#seo-set-your-email-alert-preferences}
 
-您可以自定义电子邮件首选项，以确定何时将更新您的SEO工作。
+您可以自訂電子郵件偏好設定，以決定何時更新您的SEO工作。
 
-1. 在顶部导航栏中，单击您的用户名。 单击 **电子邮件首选项**.
+1. 在頂端導覽列中，按一下您的使用者名稱。 按一下 **[!UICONTROL 電子郵件偏好設定]**.
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. 指示您希望通过电子邮件收到的警报，然后单击 **保存**.
+1. 表示您想要透過電子郵件和點選收到哪些警示 **[!UICONTROL 儲存]**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)
