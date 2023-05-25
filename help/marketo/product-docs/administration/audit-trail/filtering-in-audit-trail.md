@@ -1,24 +1,24 @@
 ---
 unique-page-id: 11378468
-description: 审核跟踪中的过滤 — Marketo文档 — 产品文档
-title: 在审核跟踪中过滤
+description: 在审核记录中筛选 — Marketo文档 — 产品文档
+title: 在审核记录中筛选
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-# 在审核跟踪中过滤 {#filtering-in-audit-trail}
+# 在审核记录中筛选 {#filtering-in-audit-trail}
 
-按时间范围、资产类型、用户、执行的操作等进行筛选。
+按时间范围、资源类型、用户、采取的操作等筛选。
 
-1. 单击 **管理员**.
+1. 单击 **[!UICONTROL 管理员]**.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. 在 **安全性**，选择 **审核记录**.
+1. 下 **[!UICONTROL 安全性]**，选择 **[!UICONTROL 审核记录]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -28,34 +28,34 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >有多种可能的搜索参数组合。 在本例中，我们找到： _过去七天中所有电子邮件（由任何人编辑）_.
+   >可能的搜索参数组合有很多。 在此示例中，我们找到： _所有过去七天内的电子邮件 — 由任何人编辑_.
 
-1. 单击 **句点** 下拉框并选择 **最近7天**.
+1. 单击 **[!UICONTROL 期间]** 下拉菜单并选择 **[!UICONTROL 最近7天]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. 单击 **资产类型** 下拉框并选择 **电子邮件**.
+1. 单击 **[!UICONTROL 资源类型]** 下拉菜单并选择 **[!UICONTROL 电子邮件]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. 单击 **操作** 下拉框并选择 **编辑**.
+1. 单击 **Actions** 下拉菜单并选择 **[!UICONTROL 编辑]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. 单击 **应用**.
+1. 单击 **[!UICONTROL 应用]**.
 
    ![](assets/filtering-in-audit-trail-7.png)
 
-1. 过滤的结果将显示在左侧。
+1. 过滤的结果显示在左侧。
 
    ![](assets/filtering-in-audit-trail-8.png)
 
-   就这样！
+   就是这样！
 
    >[!NOTE]
    >
-   >如果启用了工作区，您将看到所有工作区的审核数据。 如果应用工作区过滤器，Marketo会在您每次使用审核跟踪时记住上一个工作区值。 将强制执行资产级别的工作区权限。
+   >如果启用了工作区，您将看到所有工作区的审核数据。 如果应用工作区过滤器，Marketo会在您每次使用审核跟踪时记住以前的工作区值。 在资源级别强制执行工作区权限。
 
    >[!MORELIKETHIS]
    >
-   >[更改审核跟踪中的详细信息](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[审核记录中的更改详细信息](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
