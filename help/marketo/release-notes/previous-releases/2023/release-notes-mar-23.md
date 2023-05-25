@@ -1,177 +1,177 @@
 ---
-description: 發行說明 — 2023年3月 — Marketo檔案 — 產品檔案
-title: 發行說明 — 2023年3月
+description: 发行说明 — 2023年3月 — Marketo文档 — 产品文档
+title: 发行说明 — 2023年3月
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 68752faf80abb93e84e4cc7190c7f5469e3f689c
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 4%
+source-wordcount: '582'
+ht-degree: 5%
 
 ---
 
-# 發行說明： 2023年3月 {#release-notes-mar-23}
+# 发行说明： 2023年3月 {#release-notes-mar-23}
 
-下方提供2023年3月發行版本包含的所有功能。 檢視您的Adobe Marketo Engage版本，瞭解是否有功能可用。
+在下方，您会找到2023年3月版本中包含的所有功能。 查看Adobe Marketo Engage版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
->以星號(![星號](assets/yellow-star.png))為付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>以星号(![星形](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
-## 標準發行週期功能 {#standard-release-cycle-features}
+## 标准发行周期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於以下日期開始發行 **2023年3月31日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
+以下功能属于标准发行周期，并将于以下日期开始发行 **2023年3月31日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会有变动。 请检查每个功能下方的状态。
 
-### Marketo Engage新式UX {#modern-ux}
-
-</br>
-
-* **增強元件用於登入頁面範本詳細資訊和表單詳細資訊的功能**：全新UI使用索引標籤提供登入頁面範本詳細資訊和表單詳細資訊中的其他資訊，包括有關已使用所選資產的更多詳細資訊。 透過搜尋、排序和篩選功能，對長長的資產清單執行分析。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>檔案更新</b></td>
-  </tr>
-  <tr> 
-   <td>已送出</td>
-   <td>不适用</td>
-  </tr>
-  </tbody>
-</table>
-
-* **從登陸頁面移除切換開關和傳統體驗**：淘汰切換開關和登陸頁面的傳統體驗，有助於您完全採用新體驗。 新體驗可讓您完整利用這些資產隨附的功能，而不需依賴舊體驗或持續在兩個體驗之間切換。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>檔案更新</b></td>
-  </tr>
-  <tr> 
-   <td>已送出</td>
-   <td>不适用</td>
-  </tr>
-  </tbody>
-</table>
-
-* **樹狀結構節點效能改善**：擁有大量樹狀節點的使用者將看到效能顯著改善。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>檔案更新</b></td>
-  </tr>
-  <tr> 
-   <td>已送出</td>
-   <td>不适用</td>
-  </tr>
-  </tbody>
-</table>
-
-### 整合更新 {#integration-updates}
+### 现代UXMarketo Engage {#modern-ux}
 
 </br>
 
-* **升級Marketo Facebook整合以使用Facebook Graph API更新**：透過Facebook最近升級至Facebook Graph API v15，現在可以為特定廣告帳戶建立500個自訂對象的限制。
+* **组件用于登陆页面模板详细信息和表单详细信息的增强功能**：新增的“用于UI”选项卡在登陆页面模板详细信息和表单详细信息中提供了其他信息，包括有关已使用选定资产的资产的更多详细信息。 通过搜索、排序和筛选功能，对长列表的资源执行分析。
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   </tbody>
 </table>
 
-## 敏捷發行功能
+* **从登陆页面中删除切换开关和经典体验**：弃用切换开关和登陆页面的经典体验将帮助您完全采用新体验。 新体验允许完全利用随这些资产提供的功能，而无需依赖旧体验或不断在两个体验之间切换。
 
-下列功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发货</td>
+   <td>不适用</td>
+  </tr>
+  </tbody>
+</table>
+
+* **树节点性能改进**：对于具有大量树节点的节点，性能将显着提高。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发货</td>
+   <td>不适用</td>
+  </tr>
+  </tbody>
+</table>
+
+### 集成更新 {#integration-updates}
+
+</br>
+
+* **升级Marketo Facebook集成以使用Facebook Graph API更新**：随着Facebook最近升级到Facebook Graph API v15，现在可以为特定广告帐户创建500个自定义受众的限制。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发货</td>
+   <td>不适用</td>
+  </tr>
+  </tbody>
+</table>
+
+## Agile版本功能
+
+以下功能遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请检查每个功能下方的状态。
 
 ### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Dynamic Chat的對話方塊參與報告**：提供一段時間內對話方塊參與度的檢視，包括依訪客型別和參與度型別篩選的能力，讓使用者更容易瞭解。
+* **Dynamic Chat的对话框参与度报告**：提供一段时间内对话参与度的视图，包括按访客类型和参与度类型过滤的能力，以为用户提供更好的可见性。
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamic Chat的角色和許可權**：引入Dynamic Chat的角色和許可權，讓管理員能夠限制所選使用者型別對應用程式不同區域的可見度和使用量。
+* **Dynamic Chat的角色和权限**：引入了Dynamic Chat的角色和权限，允许管理员将应用程序不同区域的可见性和使用限制为选定的用户类型。
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   </tbody>
 </table>
 
-* **Chat作為Dynamic Chat的計畫頻道**：建立新的「聊天」計畫頻道，以追蹤Dynamic Chat所收購人員的計畫進度。 例如，行銷人員有一個與Dynamic Chat對話方塊關聯的計畫來擷取新的銷售機會。 他們現在可以將該方案指派給Chat頻道，以便他們可以追蹤潛在客戶何時是方案成員以及他們何時取得了成功。
+* **Chat作为Dynamic Chat的程序频道**：创建新的“聊天”项目频道，以跟踪Dynamic Chat收购的人的项目进展。 例如，营销人员有一个与Dynamic Chat对话框关联的项目，用于捕获新商机。 他们现在可以为该计划分配Chat频道，以便他们能够跟踪潜在客户何时是该计划的成员以及他们何时取得了成功。
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamic Chat的推斷屬性**：確保推斷的IP資料（城市、州/省、國家/地區等） 會寫入Dynamic Chat取得的新人員的個人記錄。
+* **Dynamic Chat的推断属性**：确保推断的IP数据（城市、州/省、国家/地区等） 写入Dynamic Chat获得的新人员的人员记录。
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamic Chat的其他語言支援**：您現在可以從9種支援的語言中選擇，以便顯示靜態Dynamic Chat內容。
+* **Dynamic Chat的其他语言支持**：您现在可以从9种支持的语言中进行选择，以便在中显示静态Dynamic Chat内容。
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   </tbody>
 </table>
 
-* **跳至Dynamic Chat的資料流設計工具預覽中的節點**：從預覽面板直接跳至資料流設計工具中的節點。
+* **跳转到Dynamic Chat的流设计器预览中的节点**：从预览面板直接跳转到流设计器中的节点。
 
 <table> 
   <tr> 
    <td><b>状态</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   </tbody>
@@ -179,4 +179,4 @@ ht-degree: 4%
 
 ## 公告 {#announcements}
 
-* **_產品發行網路研討會_**：2023年5月17日太平洋時間上午9:00 /東部時間中午12:00加入我們 [用於直播網路研討會](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} 由我們的產品團隊託管，讓您瞭解如何使用2023年3月和5月發行版本中提供的所有最新產品創新。
+* **_产品发布网络研讨会_**： [2023年3月和5月Marketo Engage发布网络研讨会](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
