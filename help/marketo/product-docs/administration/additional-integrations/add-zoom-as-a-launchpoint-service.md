@@ -1,18 +1,18 @@
 ---
 unique-page-id: 17728028
-description: 将缩放添加为LaunchPoint服务 — Marketo文档 — 产品文档
-title: 将缩放添加为LaunchPoint服务
+description: '"添加 [!DNL Zoom] as a [!DNL LaunchPoint] 服务 — Marketo文档 — 产品文档”'
+title: '"添加 [!DNL Zoom] as a [!DNL LaunchPoint] 服务”'
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# 将缩放添加为LaunchPoint服务 {#add-zoom-as-a-launchpoint-service}
+# 添加 [!DNL Zoom] as a [!DNL LaunchPoint] 服务 {#add-zoom-as-a-launchpoint-service}
 
-Marketo管理您的缩放注册和出勤。
+Marketo管理您的 [!DNL Zoom] 注册及出席情况。
 
 >[!NOTE]
 >
@@ -20,42 +20,42 @@ Marketo管理您的缩放注册和出勤。
 
 >[!NOTE]
 >
->此步骤需要订阅缩放和管理权限。 拥有您用来登录缩放的电子邮件和密码。
+>现有订阅 [!DNL Zoom] 和管理权限对于此步骤是必需的。 拥有用于登录的电子邮件和密码 [!DNL Zoom] 手上。
 
-1. 转到 **管理员** 的上界。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-1. 单击 **LaunchPoint**.
+1. 单击 **[!UICONTROL 启动点]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-1. 选择 **新建** 然后 **新服务**.
+1. 选择 **[!UICONTROL 新]** 然后 **[!UICONTROL 新服务]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. 输入 **显示名称**. 在 **服务**，选择 **缩放**.
+1. 输入 **[!UICONTROL 显示名称]**. 下 **[!UICONTROL 服务]**，选择 **[!UICONTROL 缩放]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
-1. 单击 **登录缩放**.
+1. 单击 **[!UICONTROL 登录缩放]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
-1. 在“缩放”登录窗口中，输入缩放凭据并单击 **登录**.
+1. 在 [!DNL Zoom] 登录窗口，输入您的 [!DNL Zoom] 凭据，然后单击 **[!UICONTROL 登录]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
-1. 窗口关闭后，单击 **创建**.
+1. 关闭窗口后，单击 **[!UICONTROL 创建]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
-   太棒了！ 您的缩放帐户现在与Marketo同步，并可在LaunchPoint区域找到。
+您的 [!DNL Zoom] 帐户现已与Marketo同步，并且可以在 [!UICONTROL 启动点] 区域。
 
 >[!CAUTION]
 >
->在缩放中更新密码时，还必须在Marketo中更新密码。
+>在Zoom中更新密码时，还必须在Marketo中更新密码。
 
 >[!MORELIKETHIS]
 >
->了解如何 [使用缩放创建事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>了解如何 [创建事件，使用 [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
