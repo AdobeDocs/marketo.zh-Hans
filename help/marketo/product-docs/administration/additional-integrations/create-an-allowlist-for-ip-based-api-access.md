@@ -1,47 +1,47 @@
 ---
 unique-page-id: 10098433
-description: 创建基允许列表于IP的API访问 — Marketo文档 — 产品文档
-title: 创建基允许列表于IP的API访问
+description: 为基于IP的API访问创建允许列表- Marketo文档 — 产品文档
+title: 为基于IP的API访问创建允许列表
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# 创建基允许列表于IP的API访问 {#create-an-allowlist-for-ip-based-api-access}
+# 为基于IP的API访问创建允许列表 {#create-an-allowlist-for-ip-based-api-access}
 
-有时，您只想为API授予对特定IP地址或地址范围的访问权限。 为此，您首先需要启用限制，然后指定允许使用API的IP地址。
+有时，您只想授予API访问特定IP地址或某个地址范围的权限。 为此，您需要先启用限制，然后指定允许使用API的IP地址。
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 转到 **管理员** 的上界。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. 单击 **Web服务**.
+1. 单击 **[!UICONTROL Web服务]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. 在IP限制区域，单击 **编辑、** 或单击 **编辑IP限制** 在左上角。
+1. 在 **[!UICONTROL IP限制]** 区域，单击 **[!UICONTROL 编辑]，** 或单击 **[!UICONTROL 编辑IP限制]** 左上角。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. 检查 **启用IP限制** 框中，然后输入要的IP地允许列表址。
+1. 查看 **[!UICONTROL 启用IP限制]** 框中输入要允许列表的IP地址。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
    >[!NOTE]
    >
-   >您可以输入单个IP地址或其范围，或使用通配符。
+   >您可以输入单个IP地址或一个IP地址范围，也可以使用通配符。
 
-1. 单击 **添加** 打开其他字段以输入更多IP地址。
+1. 单击 **[!UICONTROL 添加]** 打开其他字段以输入更多IP地址。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. 单击 **保存**.
+1. 单击 **[!UICONTROL 保存]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

@@ -1,29 +1,29 @@
 ---
 unique-page-id: 7512607
-description: 下载GoogleAdwords活动日志 — Marketo文档 — 产品文档
-title: 下载GoogleAdwords活动日志
+description: '"下载 [!DNL GoogleAdwords Activity Log] - Marketo文档 — 产品文档”'
+title: "下载 [!DNL GoogleAdwords Activity Log]"
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
-source-git-commit: e1288ad56fdd49f411e0f0a60769d66347724207
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 0%
+source-wordcount: '46'
+ht-degree: 2%
 
 ---
 
-# 下载GoogleAdwords活动日志 {#download-googleadwords-activity-log}
+# 下载 [!DNL Google Adwords] 活动日志 {#download-googleadwords-activity-log}
 
-事情发生了。 有时，您需要下载活动日志来解决问题。
+事情会发生。 有时您需要下载活动日志来解决问题。
 
-1. 转到 **管理员** 的上界。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/download-googleadwords-activity-log-1.png)
 
-1. 单击 **LaunchPoint**.
+1. 单击 **[!UICONTROL 启动点]**.
 
    ![](assets/download-googleadwords-activity-log-2.png)
 
-1. 找到您的Google AdWords服务并单击 **下载活动日志**.
+1. 查找您的 [!DNL Google AdWords] 服务和点击 **[!UICONTROL 下载活动日志]**.
 
    ![](assets/download-googleadwords-activity-log-3.png)
 
-1. .zip文件将下载到您的计算机中。
+1. .zip文件将下载到您的计算机。
