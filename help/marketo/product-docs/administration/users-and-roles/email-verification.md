@@ -2,9 +2,9 @@
 description: 电子邮件验证 — Marketo文档 — 产品文档
 title: 电子邮件验证
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
+source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Adobe Marketo Engage订阅要求所有非API用户(包括Marketo Engage管理员
 
 ## 验证电子邮件 {#verification-email}
 
-受邀用户将收到以下电子邮件：
+在为订阅激活电子邮件验证时，或者如果验证由管理员/用户触发，用户将收到以下电子邮件：
 
 ![](assets/email-verification-1.png)
 
