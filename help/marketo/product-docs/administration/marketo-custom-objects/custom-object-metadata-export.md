@@ -2,7 +2,7 @@
 description: 自定义对象元数据导出 — Marketo文档 — 产品文档
 title: 自定义对象元数据导出
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -11,17 +11,17 @@ ht-degree: 0%
 
 # 自定义对象元数据导出 {#custom-object-metadata-export}
 
-如果您使用的是我们的SOAP API或Munchkin API，则可以导出自定义对象元数据架构。 这是如何获得它。
+如果您使用我们的SOAP API或Munchkin API，则可以导出自定义对象元数据架构。 下面是如何获取它的。
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+>并非所有客户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. 在我的Marketo中，单击 **管理员**.
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. 单击 **Marketo自定义对象**.
+1. 单击 **[!UICONTROL Marketo自定义对象]**.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -29,15 +29,15 @@ ht-degree: 0%
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. 单击 **自定义对象操作** 下拉框并选择 **导出对象**.
+1. 单击 **[!UICONTROL 自定义对象操作]** 下拉菜单并选择 **[!UICONTROL 导出对象]**.
 
    ![](assets/custom-object-metadata-export-4.png)
 
 >[!NOTE]
 >
->自定义对象必须处于“已批准”状态才能导出。
+>自定义对象必须处于已批准状态才能导出。
 
-现在，您有一个电子表格，其中包含自定义对象的架构，位于三个选项卡中。
+现在，您有一个带有自定义对象架构的电子表格，它横跨三个选项卡。
 
 ![](assets/custom-object-metadata-export-5.png)
 
