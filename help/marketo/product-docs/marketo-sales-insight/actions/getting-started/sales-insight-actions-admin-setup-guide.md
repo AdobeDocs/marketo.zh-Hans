@@ -2,7 +2,7 @@
 description: 销售分析操作管理员设置指南 — Marketo文档 — 产品文档
 title: 《 Sales Insight Actions管理员设置指南》
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -138,7 +138,7 @@ Marketo和Salesforce中存在的人员记录将同步到您的Marketo Sales Apps
 
 >[!NOTE]
 >
->要详细了解人员和活动数据如何在Sales Insight Actions、Marketo和Salesforce之间同步， [单击此处](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target="_blank"}.
+>要详细了解人员和活动数据如何在Sales Insight Actions、Marketo和Salesforce之间同步， [单击此处](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## 邀请个人用户执行MSI操作 {#invite-individual-users-to-msi-actions}
 
