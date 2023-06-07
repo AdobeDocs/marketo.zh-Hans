@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
 workflow-type: tm+mt
-source-wordcount: '8904'
+source-wordcount: '8906'
 ht-degree: 0%
 
 ---
@@ -1430,6 +1430,7 @@ ht-degree: 0%
          + 模板 {#templates}
             + [添加超链接文本](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [动态字段](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
+            + [字段提示](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
             + [管理模板](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [管理模板类别](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [推荐的模板](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
