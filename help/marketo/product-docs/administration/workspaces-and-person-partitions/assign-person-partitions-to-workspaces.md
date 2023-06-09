@@ -3,7 +3,7 @@ unique-page-id: 2360317
 description: 将人员分区分配给工作区 — Marketo文档 — 产品文档
 title: 将人员分区分配给工作区
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -20,21 +20,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[创建新工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>[创建新工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
 
 >[!CAUTION]
 >
->工作区和人员分区可能比较复杂。 请联系  [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support) 以获取设置这些参数的帮助。
+>工作区和人员分区可能比较复杂。 请联系  [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} 以获取设置这些参数的帮助。
 
-1. 转到 **管理员** 区域。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 
-1. 单击 **工作区和分区**.
+1. 单击 **[!UICONTROL 工作区和分区]**.
 
    ![](assets/assign-person-partitions-to-workspaces-2.png)
 
-1. 选择您的工作区，然后单击 **编辑工作区**.
+1. 选择您的工作区，然后单击 **[!UICONTROL 编辑工作区]**.
 
    ![](assets/assign-person-partitions-to-workspaces-3.png)
 
@@ -44,12 +44,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* “所有人员分区”复选框表示此工作区可以访问系统中的所有人员分区。
+   >* “[!UICONTROL 所有人员分区]”复选框表示此工作区可以访问系统中的所有人员分区。
    >
-   >* 默认设置是主要人员分区，其中将输入所有人员。 使用 [流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 或 [分配规则](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) 让别人四处走动。
+   >* 默认设置是主要人员分区，其中将输入所有人员。 使用 [流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 或 [分配规则](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} 让别人四处走动。
 
-
-1. 单击 **保存**.
+1. 单击 **[!UICONTROL 保存]**.
 
    ![](assets/assign-person-partitions-to-workspaces-5.png)
 
@@ -61,4 +60,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.

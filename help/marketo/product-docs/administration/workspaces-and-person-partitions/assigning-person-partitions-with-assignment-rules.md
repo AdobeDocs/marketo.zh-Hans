@@ -3,7 +3,7 @@ unique-page-id: 2360327
 description: 使用分配规则分配人员分区 — Marketo文档 — 产品文档
 title: 使用分配规则分配人员分区
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -26,19 +26,19 @@ ht-degree: 0%
 >
 >只有在Marketo中通过CRM和SOAP API创建的人员才会应用分配规则。
 
-1. 转到 **管理员** 区域。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. 单击 **工作区和分区**.
+1. 单击 **[!UICONTROL 工作区和分区]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. 在 **人员分区** 选项卡，单击 **分配规则**.
+1. 在 **[!UICONTROL 人员分区]** 选项卡，单击 **[!UICONTROL 分配规则]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. 单击 **添加选项** 添加将人员路由到人员分区的条件。
+1. 单击 **[!UICONTROL 添加选项]** 添加将人员路由到人员分区的条件。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
    >
    >您可以添加任意多个选项。
 
-1. 单击 **保存**.
+1. 单击 **[!UICONTROL 保存]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

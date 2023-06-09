@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: 管理用户角色和权限 — Marketo文档 — 产品文档
 title: 管理用户角色和权限
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -38,19 +38,19 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 在以下情况下，您可以将角色分配给用户： [首次创建用户](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) 或 [编辑现有用户](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. 转到 **管理员** 区域。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
-1. 单击 **用户和角色**.
+1. 单击 **[!UICONTROL 用户和角色]**.
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
-1. 从列表中，选择要编辑的用户并单击 **编辑用户**.
+1. 从列表中，选择要编辑的用户并单击 **[!UICONTROL 编辑用户]**.
 
    ![](assets/managing-user-roles-and-permissions-3.png)
 
-1. 下 **角色**，根据所需的权限，选择要分配给用户的角色，然后单击 **保存**.
+1. 下 **[!UICONTROL 角色]**，根据所需的权限，选择要分配给用户的角色，然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/managing-user-roles-and-permissions-4.png)
 
@@ -62,23 +62,23 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 有时，贵组织有员工担任非常特定的角色，这些角色需要自定义权限组合。
 
-1. 转到 **管理员** 区域。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
-1. 单击 **用户和角色**.
+1. 单击 **[!UICONTROL 用户和角色]**.
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. 单击 **角色** 选项卡。
+1. 单击 **[!UICONTROL 角色]** 选项卡。
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
-1. 单击 **新建角色**.
+1. 单击 **[!UICONTROL 新建角色]**.
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
-1. 输入 **角色名称**， a **描述** （可选），然后选择此角色中的用户所需的权限。
+1. 输入 **[!UICONTROL 角色名称]**， a **[!UICONTROL 描述]** （可选），然后选择此角色中的用户所需的权限。
 
    ![](assets/managing-user-roles-and-permissions-9.png)
 
@@ -86,23 +86,23 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 如果需要更改与现有角色关联的权限，可以编辑该角色。
 
-1. 转到 **管理员** 区域。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
-1. 单击 **用户和角色**.
+1. 单击 **[!UICONTROL 用户和角色]**.
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. 单击 **角色** 选项卡。
+1. 单击 **[!UICONTROL 角色]** 选项卡。
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
-1. 从列表中，选择要修改的角色，然后单击 **编辑角色**.
+1. 从列表中，选择要修改的角色，然后单击 **[!UICONTROL 编辑角色]**.
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. 更改 **角色名称** 和 **描述** （如有必要），然后更改关联的选择 **权限**.
+1. 更改 **[!UICONTROL 角色名称]** 和 **[!UICONTROL 描述]** （如有必要），然后更改关联的选择 **[!UICONTROL 权限]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
@@ -114,22 +114,22 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 如果某个角色变得不必要，您可以将其删除。
 
-1. 转到 **管理员** 区域。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
-1. 单击 **用户和角色**.
+1. 单击 **[!UICONTROL 用户和角色]**.
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. 单击 **角色** 选项卡。
+1. 单击 **[!UICONTROL 角色]** 选项卡。
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 
-1. 从列表中选择要删除的角色，然后单击 **删除角色**.
+1. 从列表中选择要删除的角色，然后单击 **[!UICONTROL 删除角色]**.
 
    ![](assets/managing-user-roles-and-permissions-18.png)
 
-1. 单击 **删除** 以确认。
+1. 单击 **[!UICONTROL 删除]** 以确认。
 
    ![](assets/managing-user-roles-and-permissions-19.png)

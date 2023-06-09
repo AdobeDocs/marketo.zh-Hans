@@ -2,7 +2,7 @@
 description: 电子邮件验证 — Marketo文档 — 产品文档
 title: 电子邮件验证
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Marketo Engage正在继续推出电子邮件验证，以便为将客户迁移到
 
 >[!NOTE]
 >
->要将验证电子邮件重新发送给未验证用户，只需选择其记录并单击 **验证电子邮件** 按钮。
+>要将验证电子邮件重新发送给未验证用户，只需选择其记录并单击 **[!UICONTROL 验证电子邮件]** 按钮。
 
 ## 更改电子邮件地址 {#changing-an-email-address}
 
-当用户的电子邮件地址发生更改时，它将变为未验证。 将向他们发送电子邮件，以便他们重新验证。 用户可以通过单击手动重新发送该电子邮件 **重新发送验证**.
+当用户的电子邮件地址发生更改时，它将变为未验证。 将向他们发送电子邮件，以便他们重新验证。 用户可以通过单击手动重新发送该电子邮件 **[!UICONTROL 重新发送验证]**.
 
 ![](assets/email-verification-2.png)
 
@@ -41,7 +41,7 @@ Marketo Engage正在继续推出电子邮件验证，以便为将客户迁移到
 
 ## 用户和角色 {#users-and-roles}
 
-In **管理员** > **用户和角色**，电子邮件状态列显示每个用户的验证状态。
+In **[!UICONTROL 管理员]** > **[!UICONTROL 用户和角色]**，电子邮件状态列显示每个用户的验证状态。
 
 ![](assets/email-verification-4.png)
 

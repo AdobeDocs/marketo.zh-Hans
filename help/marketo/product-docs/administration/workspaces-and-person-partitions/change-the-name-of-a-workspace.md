@@ -3,7 +3,7 @@ unique-page-id: 2360321
 description: 更改工作区的名称 — Marketo文档 — 产品文档
 title: 更改工作区的名称
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -26,19 +26,19 @@ ht-degree: 0%
 >
 >首先了解 [了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. 转到 **管理员** 区域。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/change-the-name-of-a-workspace-1.png)
 
-1. 单击 **工作区和分区**.
+1. 单击 **[!UICONTROL 工作区和分区]**.
 
    ![](assets/change-the-name-of-a-workspace-2.png)
 
-1. 选择工作区并单击 **编辑工作区**.
+1. 选择工作区并单击 **[!UICONTROL 编辑工作区]**.
 
    ![](assets/change-the-name-of-a-workspace-3.png)
 
-1. 输入新的 **名称** （对于工作区），然后单击 **保存。**
+1. 输入新的 **[!UICONTROL 名称]** （对于工作区），然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/change-the-name-of-a-workspace-4.png)
 

@@ -3,7 +3,7 @@ unique-page-id: 2360325
 description: 允许用户访问工作区 — Marketo文档 — 产品文档
 title: 允许用户访问工作区
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: a45732d3c09e7e3ca9e1a85c66aa7087c01eaa6f
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >详细了解 [工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. 转到 **管理员** 区域。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 
-1. 单击 **用户和角色**.
+1. 单击 **[!UICONTROL 用户和角色]**.
 
    ![](assets/allow-user-access-to-a-workspace-2.png)
 
-1. 在 **用户** 选项卡，选择用户并单击 **编辑用户**.
+1. 在 **[!UICONTROL 用户]** 选项卡，选择用户并单击 **[!UICONTROL 编辑用户]**.
 
    ![](assets/allow-user-access-to-a-workspace-3.png)
 
-1. 选择 **角色和工作区** 您希望用户有权访问。
+1. 选择 **[!UICONTROL 角色和工作区]** 您希望用户有权访问。
 
    ![](assets/allow-user-access-to-a-workspace-4.png)
 

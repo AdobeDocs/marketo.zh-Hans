@@ -3,7 +3,7 @@ unique-page-id: 2359912
 description: 导出用户和角色列表 — Marketo文档 — 产品文档
 title: 导出用户和角色列表
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -16,28 +16,28 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-很容易导出用户和用户角色的完整列表。 这是方法。
+导出用户和用户角色的完整列表相当容易。 下面是具体操作方法。
 
-1. 转到 **管理员**.
+1. 转到 **[!UICONTROL 管理员]**.
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. 单击 **用户和角色**.
+1. 单击 **[!UICONTROL 用户和角色]**.
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
-1. 在导出之前，添加/删除您需要的任何列。
+1. 在导出之前添加/删除任何所需的列。
 
    >[!TIP]
    >
-   >要导出角色，请转到 **角色** ，然后导出。
+   >要导出角色，请转到 **[!UICONTROL 角色]** 按Tab键，然后导出。
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. 单击 **导出** 图标。
+1. 单击 **[!UICONTROL 导出]** 图标。
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   这就是所有人！ 您应该下载新的Excel文件。
+   仅此而已，伙计们！ 您应该下载新的Excel文件。
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

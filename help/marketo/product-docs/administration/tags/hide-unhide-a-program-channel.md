@@ -1,45 +1,45 @@
 ---
 unique-page-id: 2360276
 description: 隐藏/取消隐藏项目渠道 — Marketo文档 — 产品文档
-title: 隐藏/取消隐藏项目渠道
+title: 隐藏/取消隐藏项目频道
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# 隐藏/取消隐藏项目渠道 {#hide-unhide-a-program-channel}
+# 隐藏/取消隐藏项目频道 {#hide-unhide-a-program-channel}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-您可以 [删除节目渠道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) 如果它未被任何程序使用。  但是，一旦使用了它，我们就需要保留它。  但是，如果您不再需要它，可以隐藏它。
+您可以 [删除项目群渠道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) 如果任何程序未使用它。  但是，一旦被使用，我们需要保留它。  但是，如果您不再需要它，则可以将其隐藏。
 
-## 隐藏项目渠道 {#hide-a-program-channel}
+## 隐藏项目群渠道 {#hide-a-program-channel}
 
-1. 转到 **管理员** 的上界。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
-1. 单击 **标记**.
+1. 单击 **[!UICONTROL 标记]**.
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 
-1. 单击 **渠道** 下拉菜单，然后选择 **渠道** 藏起来。
+1. 单击 **[!UICONTROL 渠道]** 下拉菜单并选择 **[!UICONTROL 渠道]** 藏起来。
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. 在 **标记操作**，单击 **隐藏**.
+1. 下 **[!UICONTROL 标记操作]**，单击 **[!UICONTROL 隐藏]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 
-来吧，去吧！
+轻一点，轻一点！
 
-## 取消隐藏项目渠道 {#unhide-a-program-channel}
+## 取消隐藏项目群渠道 {#unhide-a-program-channel}
 
-1. 通过选中显示隐藏复选框来取消隐藏项目渠道。
+1. 通过选中显示隐藏复选框取消隐藏项目频道。
 
    ![](assets/hide-unhide-a-program-channel-5.png)

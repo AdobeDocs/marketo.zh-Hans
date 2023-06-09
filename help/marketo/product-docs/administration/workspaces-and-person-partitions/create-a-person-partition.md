@@ -3,9 +3,9 @@ unique-page-id: 2360315
 description: 创建人员分区 — Marketo文档 — 产品文档
 title: 创建人员分区
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >首先了解 [了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. 转到 **管理员** 区域。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/create-a-person-partition-1.png)
 
-1. 单击 **工作区和分区**.
+1. 单击 **[!UICONTROL 工作区和分区]**.
 
    ![](assets/create-a-person-partition-2.png)
 
-1. 转到 **人员分区** 选项卡，然后单击 **新建人员分区**.
+1. 转到 **[!UICONTROL 人员分区]** 选项卡，然后单击 **[!UICONTROL 新建人员分区]**.
 
    ![](assets/create-a-person-partition-3.png)
 
-1. 命名分区，选择 **工作区** 在显示的位置，然后单击 **创建**.
+1. 命名分区，选择 **[!UICONTROL 工作区]** 在显示的位置，然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/create-a-person-partition-4.png)
 

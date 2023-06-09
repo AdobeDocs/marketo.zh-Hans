@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: 了解工作区和人员分区 — Marketo文档 — 产品文档
 title: 了解工作区和人员分区
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 >您可能使用工作区的一些原因：
 >
 >* 地理：欧洲、亚洲和北美营销部门各自获得一个工作区
->* 业务部门：Quicken、Quickbooks和TurboTax均可获得工作区
+>* 业务部门： [!DNL Quicken]， [!DNL Quickbooks] 和 [!DNL TurboTax] 每个用户都获得一个工作区
 >
 >对于每种情况，分离都是因为营销资产完全不同。 如果他们共享营销资产，则工作区可能不是适合您的工具。
 
@@ -43,15 +43,15 @@ ht-degree: 0%
 >
 >包含您的资产的父文件夹是唯一可共享的文件夹，而不是子文件夹。
 
-1. 单击数据库。
+1. 单击 **[!UICONTROL 数据库]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. 右键单击Segmentation文件夹，然后单击 **新建文件夹**.
+1. 右键单击Segmentation文件夹，然后单击 **[!UICONTROL 新建文件夹]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. 命名文件夹并单击 **创建**.
+1. 命名文件夹并单击 **[!UICONTROL 创建]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -59,11 +59,11 @@ ht-degree: 0%
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. 右键单击文件夹并选择 **共享文件夹**.
+1. 右键单击文件夹并选择 **[!UICONTROL 共享文件夹]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. 选择要与共享文件夹的工作区，然后单击 **保存**. “共享文件夹”对话框将仅显示您有权查看的工作区。
+1. 选择要与共享文件夹的工作区，然后单击 **[!UICONTROL 保存]**. “共享文件夹”对话框将仅显示您有权查看的工作区。
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -118,7 +118,6 @@ ht-degree: 0%
 >
 >* 您的工作区不仅有不同的资源，而且还未共享任何人员
 >* 由于其他业务原因需要重复项
-
 
 >[!CAUTION]
 >

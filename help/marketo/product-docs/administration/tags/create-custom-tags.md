@@ -3,7 +3,7 @@ unique-page-id: 2950660
 description: 创建自定义标记 — Marketo文档 — 产品文档
 title: 创建自定义标记
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # 创建自定义标记 {#create-custom-tags}
 
-标记将帮助您组织项目，而渠道将协助收集数据以用于报告目的。
+标记将帮助您组织程序，而渠道将帮助您收集数据以用于报告。
 
 >[!NOTE]
 >
->查看 [了解标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 以了解更多信息。
+>签出 [了解标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 了解更多信息。
 
 >[!NOTE]
 >
@@ -26,15 +26,15 @@ ht-degree: 0%
 
 要创建新标记类型，请执行以下操作：
 
-1. 转到 **管理员** 中。
+1. 转到 **[!UICONTROL 管理员]** 部分。
 
    ![](assets/create-custom-tags-1.png)
 
-1. 单击 **标记**.
+1. 单击 **[!UICONTROL 标记]**.
 
    ![](assets/create-custom-tags-2.png)
 
-1. 单击 **新建** 选择 **新标记类型。**
+1. 单击 **[!UICONTROL 新]** 并选择 **[!UICONTROL 新标记类型]**.
 
    ![](assets/create-custom-tags-3.png)
 
@@ -42,28 +42,27 @@ ht-degree: 0%
 
    ![](assets/create-custom-tags-4.png)
 
-1. 为标记类型输入所需的值。 单击 **添加其他** 以输入其他值。
+1. 为标签类型输入所需的值。 单击 **[!UICONTROL 添加其他]** 以输入附加值。
 
    ![](assets/create-custom-tags-5.png)
 
-1. 选择此标记所应用的程序类型。
+1. 选择此标记适用的程序类型。
 
    ![](assets/create-custom-tags-6.png)
 
-1. 确定是否为列出的所有程序类型要求此标记。
+1. 确定是否使此标记对于列出的所有程序类型都是必需的。
 
    ![](assets/create-custom-tags-7.png)
 
    >[!NOTE]
    >
-   >* 如果希望在任何时候创建新程序时添加此标记，请选择“必需”。
-   >* 从“应用到”列表中删除某个程序类型将从该类型的所有现有程序中删除该标记及其值。 如果要保留现有标记值，并将此标记设为可选，以便继续 _全部_ 列出项目类型，取消选中“必需”复选框。
-
+   >* 选择“[!UICONTROL 必需]”如果您希望随时创建新项目时添加此标记。
+   >* 从“ ”中删除程序类型[!UICONTROL 应用于]”列表将从该类型的所有现有程序中删除标记及其值。 如果要保留现有标记值，并将此标记设置为可选标记，则可以 _所有_ 列出程序类型，将“必需”复选框保留为未选中状态。
 
    >[!TIP]
    >
-   >如果您希望为某些程序类型提供类似的必需标记，但对于其他程序类型而言，则需要设置两个单独的标记，每个标记都应用于不同的程序类型，其中一个程序类型选择了“必需”，另一个程序类型未选择“必需”。
+   >如果要使类似的标记对于某些程序类型是必需的，但对于其他程序类型是可选的，您需要设置两个单独的标记，每个标记应用于不同的程序类型，一个带有“[!UICONTROL 必需]已选中，而另一个具有“[!UICONTROL 必需]未选择&#39;&#39;。
 
-1. 单击&#x200B;**创建**。
+1. 单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/create-custom-tags-8.png)

@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: 角色权限描述 — Marketo文档 — 产品文档
 title: 角色权限描述
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1137'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,8 @@ ht-degree: 0%
 * 访问审核记录 — 让用户可以访问资产审核记录和管理审核记录
 * 访问渠道 — 仅授予用户修改渠道标记（而非其他自定义标记）的访问权限
 * 访问通信限制 — 授予用户在“管理员”中启用通信限制的访问权限
-* 访问CRM — 让用户可以访问Admin中的CRM，例如Salesforce或Microsoft Dynamics
-* 访问 [Data.com](https://Data.com)  — 授予用户访问Data.com流操作的权限
+* 访问CRM — 授予用户访问CRM的权限，例如 [!DNL Salesforce] 或 [!DNL Microsoft Dynamics]，在管理员中
+* 访问 [[!DNL Data.com]](https://Data.com)  — 授予用户访问Data.com流操作的权限
 * 访问电子邮件管理员 — 允许用户使用电子邮件管理员更改默认设置，如取消订阅和品牌推广域
 * 访问事件合作伙伴 — 让用户以管理员身份访问LaunchPoint
 * 访问字段管理 — 允许用户访问管理员中的字段管理
@@ -45,7 +45,7 @@ ht-degree: 0%
 * 访问登录设置 — 允许用户访问“管理员”中的“登录设置”以获得安全性、IP限制和智能列表报表设置
 * 访问Marketo自定义活动 — 允许用户在“管理员”中访问Marketo自定义活动
 * 访问Marketo自定义对象 — 让用户可以访问管理员中的Marketo自定义对象
-* 访问Munchkin — 授予用户在管理员中访问Munchkin的权限，以设置跟踪代码、人员跟踪和启用API配置
+* 访问 [!DNL Munchkin]  — 允许用户访问 [!DNL Munchkin] 用于设置跟踪代码、人员跟踪和启用API配置
 * 访问Revenue Cycle Analytics — 让用户可以访问Admin中的Revenue Cycle Analytics，以设置同步摘要和归因
 * 访问角色 — 赋予用户管理和编辑角色的访问权限，但不赋予用户管理和编辑角色的权限
 * 访问Sales Insight — 让用户有权在“管理员”中管理Sales Insight，以便设置Status、API配置、人员评分和其他设置

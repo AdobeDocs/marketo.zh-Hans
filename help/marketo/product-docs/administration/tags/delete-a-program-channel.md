@@ -1,35 +1,35 @@
 ---
 unique-page-id: 2360281
-description: 删除计划渠道 — Marketo文档 — 产品文档
-title: 删除节目渠道
+description: 删除项目渠道 — Marketo文档 — 产品文档
+title: 删除项目群频道
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
-source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# 删除节目渠道 {#delete-a-program-channel}
+# 删除项目群频道 {#delete-a-program-channel}
 
-项目渠道是项目中应通过的状态或检查点潜在客户的集合。
+项目群渠道是潜在客户在项目群中经历的状态或检查点的集合。
 
-如果您是意外生成的，或者不再需要它，则可以将其删除。
+如果您意外创建了一个模板或者不再需要它，则可以将其删除。
 
-1. 转到 **管理员** 的上界。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/delete-a-program-channel-1.png)
 
-1. 单击 **标记**.
+1. 单击 **[!UICONTROL 标记]**.
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. 选择要删除的渠道，在标记操作下，单击删除。
+1. 选择要删除的渠道。 在 **[!UICONTROL 标记操作]** 下拉列表，单击 **[!UICONTROL 删除]**.
 
    >[!TIP]
    >
-   >如果渠道与任何项目关联，则无法删除，只能隐藏。
+   >如果该渠道与任何项目群相关联，则您无法删除，只能隐藏。
 
    ![](assets/delete-a-program-channel-3.png)
 
-砰！ 您还可以 [从渠道中删除特定状态](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+您还可以 [从渠道中删除特定状态](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
