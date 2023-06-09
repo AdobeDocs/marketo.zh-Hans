@@ -1,7 +1,7 @@
 ---
 description: 字段提示 — Marketo文档 — 产品文档
 title: 字段提示
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -23,6 +23,8 @@ ht-degree: 0%
 `{{! Add sentence that references their industry and role}}`
 
 <p>在发送电子邮件之前，用户需要将此文本替换为其自身的个性化设置。
+
+![](assets/field-prompts-1.png)
 
 >[!NOTE]
 >

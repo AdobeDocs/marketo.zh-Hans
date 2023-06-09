@@ -2,9 +2,9 @@
 description: 电子邮件验证 — Marketo文档 — 产品文档
 title: 电子邮件验证
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # 电子邮件验证 {#email-verification}
 
 Adobe Marketo Engage订阅要求所有非API用户(包括Marketo Engage管理员)验证其电子邮件地址。 为未分配管理员角色或分配了“略过SSO”权限角色的单点登录(SSO)用户启用电子邮件验证功能后，将自动验证其订阅。
+
+## 为什么引入此功能 {#why-this-feature-was-introduced}
+
+Marketo Engage正在继续推出电子邮件验证，以便为将客户迁移到AdobeBusiness Platform(包括迁移到AdobeID)做准备。 此功能增强了现有Marketo Engage用户帐户的安全性。 要确保Marketo Engage用户与适当的Adobe ID相关联，现有Marketo Engage用户必须验证其电子邮件地址。 Marketo Engage用户必须拥有经过验证的电子邮件地址，才能迁移到Adobe ID。 如果Marketo Engage用户未验证其电子邮件地址，则无法将其迁移到Adobe ID，并且在用户迁移订阅完成后将无法访问Marketo订阅。
 
 ## 用户邀请 {#user-invite}
 
@@ -49,7 +53,7 @@ In **管理员** > **用户和角色**，电子邮件状态列显示每个用户
 * 使用新电子邮件作为当前用户登录ID
 * 将决策延迟到下次登录
 
-   ![](assets/email-verification-5.png)
+  ![](assets/email-verification-5.png)
 
 >[!NOTE]
 >
