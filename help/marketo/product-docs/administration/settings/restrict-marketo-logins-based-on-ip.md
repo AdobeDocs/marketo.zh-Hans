@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2360297
-description: 基于IP限制Marketo登录 — Marketo文档 — 产品文档
-title: 基于IP限制Marketo登录
+description: 根据IP限制Marketo登录 — Marketo文档 — 产品文档
+title: 根据IP限制Marketo登录
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-# 基于IP限制Marketo登录 {#restrict-marketo-logins-based-on-ip}
+# 根据IP限制Marketo登录 {#restrict-marketo-logins-based-on-ip}
 
-您可以根据用户的IP地址限制或允许用户访问Marketo。 这是方法。
+您可以根据用户的IP地址限制或允许用户访问Marketo。 下面是具体操作方法。
 
 >[!NOTE]
 >
@@ -20,35 +20,34 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->本文中的信息仅适用于login.marketo.com上的直接登录。 目前无法对单点登录(SSO)登录强制实施IP限制。
+>本文中的信息仅适用于login.marketo.com上的直接登录。 目前无法对单点登录(SSO)登录执行IP限制。
 
-1. 转到 **管理员** 的上界。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. 单击 **登录设置**.
+1. 单击 **[!UICONTROL 登录设置]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. 单击 **编辑IP限制**.
+1. 单击 **[!UICONTROL 编辑IP限制]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. 选择是否要 **允许** 或 **块** 指定地址，输入地址，然后单击 **保存**.
+1. 选择是否要 **允许** 或 **块** 地址，输入地址，然后单击 **[!UICONTROL 保存]**.
 
    >[!NOTE]
    >
    >**条件**
    >
-   >* **允许的IP地址**:添加允许的IP地址是包含性的。 它将包含指定的所有IP地址，并排除其他所有IP地址。
-   >* **阻止IP地址**:阻止特定IP访问Marketo。
-   >* **禁用IP限制**:选中此选项将阻止任何/所有限制规则工作。 用于测试目的。
-
+   >* **[!UICONTROL 允许的IP地址]**：添加允许的IP地址具有包容性。 它将包含指定的所有IP地址，并排除其他所有地址。
+   >* **[!UICONTROL 阻止IP地址]**：阻止特定IP访问Marketo。
+   >* **[!UICONTROL 禁用IP限制]**：选中此项将阻止任何/所有限制规则工作。 将其用于测试目的。
 
    >[!NOTE]
    >
-   >您可以添加多个限制，但只能将其设为“全部允许”或“全部阻止”。 您不能混合匹配允许的和阻止的。
+   >您可以添加多个限制，但它们只能是“全部允许”或“全部阻止”。 您不能混搭允许和阻止。
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)
 
-   您的营销数据做得不错，现在比以往更安全！
+   做得不错，您的营销数据现在比以往任何时候都更安全！

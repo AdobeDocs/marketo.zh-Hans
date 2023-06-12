@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: 查找并合并重复的人员 — Marketo文档 — 产品文档
 title: 查找并合并重复的人员
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 780071242a608706e06f3026150c43441a29faa5
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->查找和合并重复项需要使用 [内置/系统智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>查找和合并重复项需要使用 [内置/系统智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您还可以 [使用自定义逻辑查找重复的人员](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >您还可以 [使用自定义逻辑查找重复的人员](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## 手动合并人员 {#merge-people-manually}
 
@@ -72,18 +72,16 @@ ht-degree: 0%
 
 ## Salesforce中的效果 {#effect-in-salesforce}
 
-如果您拥有Salesforce集成，下面有一些关于Salesforce中合并潜在客户效果的注释。
+如果您有Salesforce集成，下面有一些关于在Salesforce中合并潜在客户的影响的注释。
 
 * 当仅合并潜在客户或仅合并联系人时，它们会按照正常的Salesforce规则进行合并。
 * 将Lead和Contacts合并在一起时，所有Lead在合并之前都会转换为Contacts，然后再按常规Salesforce规则进行合并。
 
 有关合并潜在客户或联系人时Salesforce行为的详细信息，请查看以下Salesforce文档：
 
-* [合并重复的潜在客户](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-* [合并重复的联系人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [合并重复的潜在客户](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [合并重复的联系人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## 批量合并 {#bulk-merging}
 
 如果您要手动合并的重复项过多，请联系Adobe客户团队（您的客户经理）以讨论相关选项。
-
-如果您已连接到CRM，则记录将根据以下规则在该处合并。

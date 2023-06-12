@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2359902
-description: 设置订阅的默认位置设置 — Marketo文档 — 产品文档
+description: 为订阅设置默认位置设置 — Marketo文档 — 产品文档
 title: 设置订阅的默认位置设置
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -16,31 +16,31 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->需要管理员权限。 通常，管理员不会更改语言。 购买时会指定该参数，以便可以使用相应的语言生成订阅。
+>需要管理员权限。 通常，管理员不会更改语言。 它是在购买时指定的，这样就可以以适当的语言生成订阅。
 
 ## 设置订阅的默认位置设置 {#set-default-location-settings-for-a-subscription-1}
 
-当管理员更改默认位置设置时，新创建的用户将继承这些设置。 用户始终可以 [更改其语言、区域设置和时区首选项](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 在他们的个人账户里。
+当管理员更改默认位置设置时，新创建的用户将继承这些设置。 用户始终可以 [更改语言、区域设置和时区首选项](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 他们个人账户里的。
 
-1. 转到 **管理员** 的上界。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
-1. 单击 **位置**.
+1. 单击 **[!UICONTROL 位置]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. 单击 **编辑**.
+1. 单击 **[!UICONTROL 编辑]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
-   此订阅是以英语创建的。 假设您在伦敦，想要更改默认的区域设置和时区。 区域设置可确定数字、日期和时间的格式。
+   此订阅以英语创建。 假设您位于伦敦，并且想要更改默认区域设置和时区。 区域设置决定了数字、日期和时间的格式。
 
-1. 选择 **区域设置** 并将其更改为 **英语** （英国）。
+1. 选择 **[!UICONTROL 区域设置]** 并将其更改为 **[!UICONTROL 英语（英国）]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
-1. 最后，选择适当的 **时区**.
+1. 最后，选择合适的 **[!UICONTROL 时区]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
@@ -52,17 +52,16 @@ ht-degree: 0%
 
 如果要更改用户的默认区域设置，则可能还需要更改货币格式设置。
 
-1. 单击 **编辑** （在订阅货币设置中）。
+1. 单击 **[!UICONTROL 编辑]** 在 [!UICONTROL 订阅货币设置].
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
-1. 选择所选的货币格式，然后单击 **保存**.
+1. 选择您选择的货币格式并单击 **[!UICONTROL 保存]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
-   祝贺您！您已更改订阅的位置设置。
+   恭喜！您已更改订阅的位置设置。
 
 >[!MORELIKETHIS]
 >
 >* [选择语言、区域设置和时区](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
-

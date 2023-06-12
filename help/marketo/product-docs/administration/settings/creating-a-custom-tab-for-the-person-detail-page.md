@@ -1,36 +1,36 @@
 ---
 unique-page-id: 2360305
-description: 为人员详细信息页面创建自定义选项卡 — Marketo文档 — 产品文档
-title: 为“人员详细信息”页面创建自定义选项卡
+description: 创建人员详细信息页面的自定义选项卡 — Marketo文档 — 产品文档
+title: 创建人员详细信息页面的自定义选项卡
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-# 为“人员详细信息”页面创建自定义选项卡 {#creating-a-custom-tab-for-the-person-detail-page}
+# 创建人员详细信息页面的自定义选项卡 {#creating-a-custom-tab-for-the-person-detail-page}
 
-如果您发现自己一次又一次地在人员详细信息中查找一组特定字段，请考虑创建自定义布局以简化操作。
+如果您发现自己正在人员详细信息中反复查找一组特定的字段，请考虑创建自定义布局以简化操作。
 
-1. 转到 **管理员** 的上界。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. 单击 **字段管理**.
+1. 单击 **[!UICONTROL 字段管理]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. 单击 **自定义布局设计器** 选项卡。
+1. 单击 **[!UICONTROL 自定义布局设计器]** 选项卡。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
-1. 查找要添加的字段，然后将其拖放到画布中。
+1. 查找要添加的一个字段，然后将其拖放到画布中。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-4.png)
 
-1. 继续添加字段，直到您按所需方式布局为止。
+1. 继续添加字段，直到布局符合您的要求。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-5.png)
 
@@ -38,10 +38,10 @@ ht-degree: 0%
    >
    >您有两列要处理。
 
-   如果您决定要删除某个字段，请右键单击要删除的字段，然后单击 **删除**.
+   如果决定要删除字段，请右键单击要删除的字段，然后单击 **[!UICONTROL 删除]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   太棒了！ 现在，当您加载人员的详细信息时，可以使用自定义布局访问对您重要的信息。
+   做得很棒！ 现在，当您加载人员的详细信息时，可以使用自定义布局访问对您而言重要的信息。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)
