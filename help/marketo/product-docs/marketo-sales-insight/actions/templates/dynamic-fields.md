@@ -2,9 +2,9 @@
 description: 动态字段 — Marketo文档 — 产品文档
 title: 动态字段
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -37,13 +37,13 @@ ht-degree: 0%
 
 将动态字段添加到电子邮件模板时，您可以添加一个默认值，如果没有其他可用值，动态字段将解析为该默认值。
 
-为此，请在动态字段标签后添加“|”，然后添加“default：”。 然后，如果找不到其他值，请添加您希望字段解析为的值。
+为此，请在动态字段标签后添加“|”，然后添加“default：”（两者均不带引号）。 然后，如果找不到其他值，请添加您希望字段解析为（用引号括起来）的值。
 
 **示例：**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## 动态字段术语表 {#dynamic-fields-glossary}
 
