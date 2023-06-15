@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8911'
 ht-degree: 0%
 
 ---
@@ -1346,11 +1346,11 @@ ht-degree: 0%
                + [回复日志](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce诊断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Salesforce同步设置](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-            + Salesforce配置 {#salesforce-configuration}
-               + [将销售活动属性记录到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [Salesforce中的Sales Insight操作配置](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-               + [卸载Salesforce Classic自定义包](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [卸载Salesforce Lightning自定义包](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
+            + Salesforce包配置 {#salesforce-package-configuration}
+               + [将销售活动属性记录到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
+               + [Salesforce中的Sales Insight操作配置](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [从Salesforce Classic卸载Marketo Sales Connect](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+               + [从Salesforce Lightning卸载Marketo Sales Connect](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + 电子邮件 {#email}
             + 指挥中心 {#command-center}
                + [高级搜索概述](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)

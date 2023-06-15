@@ -2,7 +2,7 @@
 description: 销售分析操作管理员设置指南 — Marketo文档 — 产品文档
 title: 《 Sales Insight Actions管理员设置指南》
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -19,7 +19,6 @@ ht-degree: 0%
 >
 >* 与Adobe客户团队（您的客户经理）确认已为您的Marketo Engage启用MSI操作（如果您没有客户经理，请联系） [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"})。
 >* 必须设置您的Marketo/Salesforce同步。
-
 
 <table>
  <tr>
@@ -190,4 +189,4 @@ Marketo和Salesforce中存在的人员记录将同步到您的Marketo Sales Apps
 
 >[!NOTE]
 >
->完成此操作后，您可以升级现有的MSI软件包或安装新的MSI软件包并转到 [在Salesforce中配置MSI操作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>完成此操作后，您可以升级现有的MSI软件包或安装新的MSI软件包并转到 [在Salesforce中配置MSI操作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
