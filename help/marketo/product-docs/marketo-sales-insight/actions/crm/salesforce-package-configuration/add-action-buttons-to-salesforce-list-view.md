@@ -1,11 +1,9 @@
 ---
 description: 将操作按钮添加到Salesforce列表视图 — Marketo文档 — 产品文档
 title: 将操作按钮添加到Salesforce列表视图
-hide: true
-hidefromtoc: true
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -49,6 +47,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* 在Salesforce中使用批量电子邮件发送（需要创建）
->* 在Salesforce中使用Bulk Add to Sales Campaign（需要创建）
+>* [在Salesforce中使用批量发送销售电子邮件](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [在Salesforce中使用批量添加到Sales Campaign](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [在SalesforceAppExchange中安装Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
