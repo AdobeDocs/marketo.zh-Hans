@@ -1,7 +1,7 @@
 ---
 description: 在Salesforce中使用批量添加到Sales Campaign - Marketo文档 — 产品文档
 title: 在Salesforce中使用批量添加到Sales Campaign
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -74,26 +74,28 @@ ht-degree: 0%
 
 1. 选择所需的潜在客户或联系人列表，然后单击 **添加到促销活动** 按钮。
 
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+
 1. 您将导航到Actions Sales Campaign模式窗口，并显示您选择添加的人员。
 
 1. 进行任何删除人员或组所需的编辑，然后单击 **下一个**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
 1. 从中选择要使用的销售活动类别 **类别** 下拉菜单。
 
 1. 选择要将选定人员添加到的销售活动，然后单击 **下一个**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
 1. 根据营销活动中的第一步，您可能会看到不同的选项。 如果您的第一步是发送电子邮件，则可以选择编辑每个收件人的电子邮件，如下所示。 完成后，单击 **下一个**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
-
-1. 同样，如果您的第一步是发送电子邮件，并且您将其配置为允许您选择何时启动促销活动，则您将可以选择执行以下操作 **立即开始** 或 **计划新的开始时间**. 完成后，单击 **开始**.
-
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
+
+1. 同样地，如果您的第一步是发送电子邮件，并且您将其配置为允许您选择何时启动促销活动，则您将可以选择执行以下操作 **立即开始** 或 **计划新的开始时间**. 完成后，单击 **开始**.
+
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 
 单击“开始”后，您将看到一个确认屏幕，让您知道已添加多少用户。
 
-![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
+![](assets/using-bulk-add-to-sales-campaign-in-salesforce-14.png)

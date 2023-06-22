@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: 发行计划 - Marketo 文档 - 产品文档
 title: 发布计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%
@@ -52,12 +52,12 @@ _发行日期可能会有变动_
    <td>已发货</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">’23年5月</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-may-23.md">’23年5月</a></td>
    <td>2023年5月12日</td>
    <td>已发货</td>
   </tr>
   <tr> 
-   <td>’23年7月</td>
+   <td><a href="/help/marketo/release-notes/current.md">’23年7月</a></td>
    <td>2023年7月21日</td>
    <td>按计划</td>
   </tr>

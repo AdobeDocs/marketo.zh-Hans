@@ -1,7 +1,7 @@
 ---
 description: 在Salesforce中使用批量发送销售电子邮件 — Marketo文档 — 产品文档
 title: 在Salesforce中使用批量发送销售电子邮件
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -67,6 +67,8 @@ ht-degree: 0%
    >您可以通过单击创建新视图，并配置可用的过滤器来缩小要添加到促销活动的人员的列表，从而创建新视图。
 
 1. 选择所需的潜在客户或联系人列表，然后单击 **发送销售电子邮件** 按钮。
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. 系统将使用您在撰写窗口中选择的收件人导航到操作撰写窗口。
 
