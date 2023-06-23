@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
 workflow-type: tm+mt
-source-wordcount: '8961'
+source-wordcount: '8963'
 ht-degree: 0%
 
 ---
@@ -485,10 +485,10 @@ ht-degree: 0%
          + [了解文件夹](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [了解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [通知类型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + 非历程 {#not-journeys}
-         + [名称概述](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
-         + [“名称”选项卡](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
-         + [“设置”选项卡](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
+      + 参与画布 {#engagement-canvas}
+         + [参与画布概述](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
+         + [“参与画布”选项卡](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
+         + [“设置”选项卡](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
       + 预测受众 {#predictive-audiences}
          + [Predictive Audiences入门](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [模型和见解](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
