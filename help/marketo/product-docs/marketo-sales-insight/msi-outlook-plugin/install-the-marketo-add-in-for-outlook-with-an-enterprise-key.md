@@ -3,26 +3,26 @@ unique-page-id: 11377488
 description: 使用企业密钥安装适用于Outlook的Marketo加载项 — Marketo文档 — 产品文档
 title: 使用企业密钥安装适用于Outlook的Marketo加载项
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # 使用企业密钥安装适用于Outlook的Marketo加载项 {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-很多时候，销售代表在笔记本电脑上没有管理权限，他们的IT团队负责远程安装所有软件。 Outlook的Marketo加载项可使用您的企业密钥以这种方式安装，该密钥位于管理员的Sales Insight部分。
+很多时候，销售代表在他们的笔记本电脑上没有管理权限，他们的IT团队负责远程安装所有软件。 可以使用企业密钥（位于“管理员”的“销售分析”部分）以这种方式安装适用于Outlook的Marketo加载项。 如果看不到查看企业键按钮，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support) 以启用它。
 
 >[!PREREQUISITES]
 >
->管理员必须 [颁发了Marketo电子邮件加载项许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>管理员必须具有 [颁发了Marketo电子邮件加载项许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!NOTE]
 >
->如果看不到View Enterprise Key按钮，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support) 来启用它。
+>Sales Insight Actions功能（包括“发送销售电子邮件”、“添加到Sales Campaign”和“任务”）在Gmail和Outlook的Sales Insight电子邮件插件中不可用。 目前，在使用Sales Insight电子邮件插件时，用户只能从其电子邮件客户端发送可跟踪电子邮件，无论是否包含Marketo电子邮件模板。
 
-1. 在我的Marketo中，单击 **管理员** 然后 **销售分析**.
+1. 在“我的Marketo”中，单击 **管理员** 然后 **销售分析**.
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. 复制Outlook企业版许可证密钥并将其粘贴到电子邮件中，以及 [此链接](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)，然后将其发送给您的IT部门进行远程安装。
+1. 复制Outlook企业许可证密钥，并将其粘贴到电子邮件中，以及 [此链接](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)，并将其发送到您的IT部门进行远程安装。
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 

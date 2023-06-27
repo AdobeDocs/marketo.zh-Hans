@@ -2,9 +2,9 @@
 description: 销售分析操作管理员设置指南 — Marketo文档 — 产品文档
 title: 《 Sales Insight Actions管理员设置指南》
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ ht-degree: 0%
 1. 在Marketo中，单击 **管理员**.
 
    ![](assets/msi-actions-admin-guide-1.png)
+
+   >[!NOTE]
+   >
+   >如果您在“集成信息”卡片上未看到客户端ID和客户端密钥，请通过邀请第一个用户来激活您的“操作”实例，随后您将看到客户端ID和客户端密钥。
 
 1. 单击 **销售分析**，则 **操作配置**. 从要邀请的Marketo管理员列表中选择并单击 **发送邀请**.
 

@@ -1,17 +1,21 @@
 ---
 description: 添加身份 — Marketo文档 — 产品文档
-title: 添加标识
+title: 添加身份
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# 添加标识 {#add-identity}
+# 添加身份 {#add-identity}
 
-当您有多个要发送的电子邮件地址时，添加身份。
+当您有多个要发送的电子邮件地址时，请添加一个标识。
+
+>[!NOTE]
+>
+>Gmail或Outlook/Exchange投放渠道不支持使用多个身份。 Gmail和Outlook/Exchange在用户级别进行身份验证，因此只有来自所连接电子邮件地址的电子邮件才会发送。 要将多个身份与不同的电子邮件地址一起使用，您需要连接第三方SMTP提供商（电子邮件投放渠道），以便您注册要从中发送的电子邮件域。 这允许用户连接到SMTP投放渠道，并从任何电子邮件地址发送，只要他们是一个已注册的域。
 
 1. 单击设置图标。
 
@@ -21,19 +25,19 @@ ht-degree: 0%
 
    ![](assets/add-identity-2.png)
 
-1. 单击 **添加标识**.
+1. 单击 **添加身份**.
 
    ![](assets/add-identity-3.png)
 
-1. 输入信息（电子邮件和名称是必填字段）并单击 **创建**.
+1. 输入信息（电子邮件和名称是必填字段），然后单击 **创建**.
 
    ![](assets/add-identity-4.png)
 
-1. 然后，您将收到一封“请验证电子邮件地址”电子邮件。 要验证，请单击 **验证电子邮件地址**.
+1. 然后，您将收到“请验证电子邮件地址”电子邮件。 要验证，请单击 **验证电子邮件地址**.
 
    ![](assets/add-identity-5.png)
 
-当您在Marketo Sales中发送电子邮件并具有多个身份时，可以在这些身份之间进行切换。
+当您在Marketo Sales中发送电子邮件并具有多个身份时，您可以在它们之间切换。
 
 >[!NOTE]
 >
