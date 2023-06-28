@@ -4,16 +4,16 @@ title: “设置”选项卡
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '351'
 ht-degree: 1%
 
 ---
 
 # “设置”选项卡 {#settings-tab}
 
-“设置”选项卡是所有Campaign设置的主页，其中包括与“计划”选项卡相同的权限集和访问权限。 此选项卡中的更改不会中断???它不会中断任何现有的Campaign设置。
+“设置”选项卡是所有Campaign设置的主页，其中包括与“计划”选项卡相同的权限集和访问权限。 访问此选项卡不会中断???请考虑删除或重新措辞 — LOPA将确认 — 它不会中断任何现有的营销活动设置。
 
 包括以下三个部分。
 
@@ -55,3 +55,9 @@ ht-degree: 1%
    * 估计将受影响的人员
    * 被电子邮件阻止的预计人数
    * 处于等待步骤的预估人数
+
+“设置”选项卡中的“权限集”和“错误”：
+
+所有现有权限集都将适用于“设置”选项卡。 如果“编辑”按钮呈灰显状态，则表示您没有执行编辑的权限，需要联系Marketo管理员。
+
+添加有关取消计划运行的说明 — 关闭后使用LOPA确认 — >如果用户无权编辑促销活动设置，他们也将无权取消任何计划运行。
