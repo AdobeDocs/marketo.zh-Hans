@@ -2,7 +2,7 @@
 description: 在撰写窗口中使用模板 — Marketo文档 — 产品文档
 title: 在撰写窗口中使用模板
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -24,10 +24,6 @@ ht-degree: 0%
 1. 单击模板部分中的搜索图标，以打开模板搜索字段。
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
-
-   >[!TIP]
-   >
-   >我们建议固定“全部”类别，以便让您能够快速搜索整个模板库，因为您可能经常需要搜索所有模板来找到要查找的内容。 当您选择了固定类别并单击搜索图标时，搜索将默认使用选定固定类别中的搜索。
 
 1. 选择要搜索的类别（或选择全部以搜索所有类别）。
 
@@ -56,6 +52,10 @@ ht-degree: 0%
 1. 单击 **固定类别** 下拉列表并选择所需的类别。
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
+
+   >[!TIP]
+   >
+   >我们建议固定“全部”类别，以便让您能够快速搜索整个模板库，因为您可能经常需要搜索所有模板来找到要查找的内容。 当您选择了固定类别并单击搜索图标时，搜索将默认使用选定固定类别中的搜索。
 
 1. 单击 **保存更改** 完成后（可选：重复步骤3以添加更多）。
 

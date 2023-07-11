@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '8989'
 ht-degree: 0%
 
 ---
@@ -641,7 +641,7 @@ ht-degree: 0%
             + [创建对话框](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [受众标准](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [流设计器](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [报告](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+            + [报表](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + 事件 {#events}
          + 了解事件 {#understanding-events}
             + [向事件程序添加成员](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -1332,7 +1332,6 @@ ht-degree: 0%
             + [营销活动已结束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [创建销售活动](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [Sales Campaign设置](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-            + [电子邮件步骤的Sales Campaign发送选项](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [销售活动步骤类型和提醒任务](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [了解电子邮件步骤的Sales Campaign发送选项](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [以其他用户身份查看营销活动列表](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1387,6 +1386,7 @@ ht-degree: 0%
             + [我是否可以恢复已删除的联系人或组？](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [我是否可以使用CC/BCC跟踪多个收件人？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [内容和文件附件常见问题解答](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [是否跟踪电子邮件抄送和密送部分中列出的收件人的查看、点击和回复？](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [Sales Insight操作是否有iPhone或Android应用程序？](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [我如何在服务器上允许列表Sales Insight操作？](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [如何修复连接到Salesforce时“我们无法验证您的请求”的问题？](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1402,6 +1402,8 @@ ht-degree: 0%
             + [为什么我的销售活动和活动字段没有同步到Salesforce？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [为什么无法删除联系人？](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [为什么我的所有联系人都没有被推送到Sales Insight操作中？](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [为什么我的电子邮件被标记为垃圾邮件？](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [我的营销活动为什么会结束？](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [为什么Salesforce活动中不显示跟踪活动？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 集成 {#integrations}
             + [Highspot集成](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
