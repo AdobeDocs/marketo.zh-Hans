@@ -2,7 +2,7 @@
 description: 过滤电子邮件机器人活动 — Marketo文档 — 产品文档
 title: 筛选电子邮件机器人活动
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 14%
@@ -13,7 +13,7 @@ ht-degree: 14%
 
 有时，电子邮件机器人活动可能会错误地夸大电子邮件打开数和点击数数据。 请按照以下步骤修复此问题。
 
-我们使用三种不同的方法来确认机器人活动：
+我们使用两种不同的方法来确认机器人活动：
 
 * 匹配 [交互式广告局机器人列表](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}：与IAB UA/IP（用户代理/IP地址）列表上的任何内容匹配的活动将被标记为机器人。
 * 与邻近模式匹配：当同时发生两个以上的活动时（在一秒以内），它们将被识别为机器人。 比较过程中考虑的属性包括：
