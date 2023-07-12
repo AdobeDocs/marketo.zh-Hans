@@ -1,18 +1,18 @@
 ---
 unique-page-id: 37355768
-description: 使用Adobe Experience Manager导入资产 — Marketo文档 — 产品文档
-title: 使用Adobe Experience Manager导入资产
+description: 使用Adobe Experience Manager导入资源 — Marketo文档 — 产品文档
+title: 使用Adobe Experience Manager导入资源
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-# 使用Adobe Experience Manager导入资产 {#importing-assets-with-adobe-experience-manager}
+# 使用Adobe Experience Manager导入资源 {#importing-assets-with-adobe-experience-manager}
 
-资产选择器允许Marketo客户访问、选择AEM资产，并将其导入Marketo的Design Studio。 **需要管理员权限**.
+通过Asset Selector，Marketo客户可以访问、选择AEM资源并将其导入Marketo [!DNL Design Studio]. **需要管理员权限**.
 
 >[!AVAILABILITY]
 >
@@ -20,21 +20,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->确保已执行 [AEM配置](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>确保您已执行 [AEM配置](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->目前，仅在Firefox中完全支持此功能。 Safari不支持此功能，并且根据您的SameSite Cookie设置，它可能无法在最新版本的Chrome中使用。
+>目前，仅完全支持此功能 [!DNL Firefox]. 不支持该功能 [!DNL Safari]，并且它可能在最新版本的 [!DNL Chrome]，具体取决于您的 [!DNL SameSite] Cookie设置。
 
-1. 单击 **Design Studio**.
+1. 单击 **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. 单击新建下拉菜单，然后选择 **从Adobe Experience Manager导入**.
+1. 单击“新建”下拉菜单并选择 **[!UICONTROL 从Adobe Experience Manager导入]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
-1. 选择要将图像保存到的文件夹。
+1. 选择图像将保存到的文件夹。
 
    ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. 选择您的文件夹。 然后，单击缩略图以选择所需的图像（最多可选择10张）。 单击 **选择** 完成时。
+1. 选择您的文件夹。 然后，通过单击缩略图选择所需的图像（您最多可以选择10张）。 单击 **[!UICONTROL 选择]** 完成时。
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ ht-degree: 0%
    >
    >图像大小不能超过100MB。
 
-1. 单击 **导入** 以完成该过程。
+1. 单击 **[!UICONTROL 导入]** 以完成该过程。
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   就这样！ 单击 **关闭** 返回Design Studio的步骤。
+   就是这样！ 单击 **[!UICONTROL 关闭]** 以返回设计工作室。
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -64,4 +64,4 @@ ht-degree: 0%
 
 * 实例中的所有用户都将能够查看/访问您导入的图像。
 
-* 图像不会自动更新。 如果您导入到Marketo Design Studio的图像在AEM中更新，则必须手动将其重新导入Marketo。
+* 图像不会自动更新。 如果图像已导入到Marketo [!DNL Design Studio] 在AEM中更新，您必须手动将其重新导入到Marketo。
