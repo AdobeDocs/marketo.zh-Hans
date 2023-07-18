@@ -3,16 +3,16 @@ description: 继承文档 — Marketo文档 — 产品文档
 title: 继承文档
 hide: true
 hidefromtoc: true
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '188'
 ht-degree: 48%
 
 ---
 
 # 继承文档 {#inherit-doc}
 
-您是否从其他管理员继承了现有Marketo Engage实例？ 如果是，则本指南适用于您。
+您是否从其他管理员继承了现有Marketo Engage实例？ 如果是这样的话，这篇文章是为您准备的。
 
 >[!TIP]
 >
