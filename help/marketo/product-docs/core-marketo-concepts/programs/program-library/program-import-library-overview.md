@@ -1,40 +1,41 @@
 ---
-description: 计划导入库概述 — Marketo文档 — 产品文档
-title: 项目导入库概述
+description: 项目导入库概述 — Marketo文档 — 产品文档
+title: 程序导入库概述
 hide: true
 hidefromtoc: true
-source-git-commit: aa40c14f1c781b43db224bc4b47df16f00e70122
+exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 项目导入库概述 {#program-import-library-overview}
+# 程序导入库概述 {#program-import-library-overview}
 
-简介文本。
+介绍文本。
 
- — 此处为Marketo Engage程序导入库信息 — 
+ — 在此处Marketo Engage项目导入库信息 — 
 
-* [OP-Consent Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md){target="_blank"}
+* [OP内容管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md){target="_blank"}
 
-* OP-Deliverability Management
+* 操作可投放性管理
 
-* OP-Data Management
+* OP数据管理
 
 * OP-Acquisition API
 
-* OP-Scoring-Methology
+* OP — 评分 — 人口
 
-* OP-Scoring-Behavior
+* OP评分行为
 
-* OP-Lead管理
+* 潜在客户管理
 
-* WR-YYYY-MM — 演示请求，具有渐进性能分析
+* WR-YYYY-MM-Demo请求（带渐进式分析）
 
-* EM-YYYY-MM-DD — 电子邮件发送
+* EM-YYYY-MM-DD-Email发送
 
-* NL-YYYY-MM — 新闻稿
+* NL-YYYY-MM-Newsletter
 
 * EV-YYYY-MM-DD-Event
 
@@ -42,12 +43,12 @@ ht-degree: 0%
 
 * WBN-YYYY-MM-DD — 网络研讨会
 
-* OA-YYYY-MM — 具有Marketo登录页的在线广告
+* OA-YYYY-MM-Online广告和Marketo登陆页面
 
-* NUR-YYYY-MM — 简单培养
+* NUR-YYYY-MM-Simple Nurture
 
-* NUR-YYYY-MM — 高级滴灌
+* NUR-YYYY-MM-Advanced滴管培养
 
-* Marketo登录页上的CT-YYYY-MM-Content
+* Marketo登录页面上的CT-YYYY-MM-Content
 
 * CT-YYYY-MM-Content非Marketo登录页

@@ -4,9 +4,9 @@ title: 参与画布概述
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,35 @@ ht-degree: 0%
 
 ## 常见问题解答 {#faq}
 
-LOPA将提供
+**我是否需要在“参与度”画布中重新构建所有营销活动？**
+
+否. 参与画布具有完全向后兼容性。 通过单击按钮，您可以在可视化参与画布界面中查看每个现有营销活动。
+
+**在Marketo Engage中使用参与画布是否意味着我将无法访问文件夹结构，并且必须重新学习如何构建Smart Campaign？**
+
+否. “参与度画布”的妙处在于，它兼具两个领域的优点，是对当前构建活动方式的补充。 您可以选择使用现有UI，还是在新UI中构建/可视化图表。 所有用户仍可获得Marketo Engage的强大功能集，该功能集现在由可视化创建工具进行补充。
+
+**参与度画布是付费加载项吗？**
+
+否. 所有订阅下的所有现有和新Marketo Engage用户都将有权访问此免费功能。
+
+**作为Marketo Engage管理员，我是否负责打开/关闭参与画布？**
+
+否. 参与画布将适用于其实例中的所有用户。 您将无法对某些用户、工作区等打开/关闭此功能。
+
+**当前在Smart Campaigns中可用的所有功能是否也在Engagement Canvas中可用？**
+
+是. 参与画布具有与Smart Campaigns完全等同的功能。
+
+**这与其他可视化生成器有何不同？**
+
+有三个关键因素使Engagement Canvas与众不同：
+
+* 灵活性：通过可视化图表轻松管理和验证互连或深度嵌套的营销活动。
+
+* 功能：所有可视化图表都开箱即用，因此更易于使用；嵌套结构允许您深入查看并获取整张图片。
+
+* 强大：您可以保留所有现有的Marketo Engage复杂程度，现在以可视化格式显示。
 
 >[!MORELIKETHIS]
 >
