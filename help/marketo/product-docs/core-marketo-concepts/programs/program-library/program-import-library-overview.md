@@ -4,7 +4,7 @@ title: 程序导入库概述
 hide: true
 hidefromtoc: true
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 36d52649c56eeaeecca2c5bb519c3035a447f4b9
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
  — 在此处Marketo Engage项目导入库信息 — 
 
-* [OP内容管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md){target="_blank"}
+* [OP内容管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md){target="_blank"}
 
 * 操作可投放性管理
 
