@@ -2,9 +2,9 @@
 description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '713'
 ht-degree: 2%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 2%
 
 </br>
 
-* **Dynamic Chat聊天源**：“聊天”现在作为新人员记录和活动的源提供。 此源可用于帮助用户筛选智能列表/营销活动中的活动。 还可以阻止源更新字段。
+* **Dynamic Chat的聊天源**：“聊天”现在作为新人员记录和活动的源提供。 此源可用于帮助用户筛选智能列表/营销活动中的活动。 还可以阻止源更新字段。
 
 <table> 
   <tr> 
@@ -172,3 +172,5 @@ Marketo Engage实时个性化即将提供两项增强功能。
 >请与您的Web开发团队合作，以确定您的网站是加载您自己的JQuery库，还是使用从Web个性化RTP JavaScript标记加载的默认版本。
 
 * **升级到Google Analytics4**：Marketo以前支持Universal Analytics，后者将在2023年7月1日之前停止记录数据。 RTP用户将需要遵循其Google Analytics功能板中的迁移过程，以完全支持RTP中的Google Analytics4集成。 今后，用户将拥有一个独特的字母数字标记(位于 `<head>` 部分)，允许Marketo向Google Analytics发送数据。
+
+* **_产品发布网络研讨会_**：2023年9月6日太平洋时间上午9:00 /东部时间中午12:00加入我们 [实时网络研讨会](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} 由我们的产品团队托管，您将了解如何使用所有最新的产品创新。
