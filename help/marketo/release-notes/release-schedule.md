@@ -3,7 +3,8 @@ unique-page-id: 5472490
 description: 发行计划 - Marketo 文档 - 产品文档
 title: 发布计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+feature: Release Information
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%

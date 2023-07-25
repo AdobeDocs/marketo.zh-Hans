@@ -2,7 +2,8 @@
 description: 销售分析操作管理员设置指南 — Marketo文档 — 产品文档
 title: 《 Sales Insight Actions管理员设置指南》
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '660'
 ht-degree: 0%

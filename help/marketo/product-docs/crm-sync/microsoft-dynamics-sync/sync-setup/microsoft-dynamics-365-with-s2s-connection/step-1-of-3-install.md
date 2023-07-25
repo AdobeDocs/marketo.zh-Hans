@@ -1,36 +1,36 @@
 ---
-description: 第1步（共3步） — 通过服务器到服务器连接安装Marketo解决方案 — Marketo文档 — 产品文档
-title: 步骤1（共3步） — 通过服务器到服务器连接安装Marketo解决方案
+description: 第1步（共3步） — 安装具有服务器到服务器连接的Marketo解决方案 — Marketo文档 — 产品文档
+title: 第1步（共3步） — 安装具有服务器到服务器连接的Marketo解决方案
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-# 步骤1（共3步）：通过服务器到服务器连接安装Marketo解决方案 {#step-1-of-3-install-the-marketo-solution-s2s}
+# 第1步（共3步）：安装具有服务器到服务器连接的Marketo解决方案 {#step-1-of-3-install-the-marketo-solution-s2s}
 
 在同步Microsoft Dynamics 365和Marketo之前，您需要先在Dynamics中安装Marketo解决方案。 **需要Dynamics管理员权限。**
 
 >[!CAUTION]
 >
->* 在完成初始同步之前，请勿启用自定义实体同步。 完成初始同步后，系统会通过电子邮件通知您。
-
+>* 在初始同步完成之前，请勿启用自定义实体同步。 初始同步完成后，您将收到电子邮件通知。
 
 >[!NOTE]
 >
->将Marketo同步到CRM后，如果不替换实例，将无法执行新同步。
+>将Marketo同步到CRM后，如果不替换实例，则无法执行新的同步。
 
 >[!PREREQUISITES]
 >
 >[下载Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
-1. 登录到 **[Microsoft Office 365](https://login.microsoftonline.com/)**.
+1. 登录 **[Microsoft Office 365](https://login.microsoftonline.com/)**.
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. 单击 ![](assets/image2015-3-16-16-3a1-3a13.png) 菜单和选择 **CRM**.
+1. 单击 ![](assets/image2015-3-16-16-3a1-3a13.png) 菜单并选择 **CRM**.
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
@@ -42,11 +42,11 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 单击 **选择“文件”。** 选择您的Marketo Lead Management解决方案 [下载](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). 单击 **下一个**.
+1. 单击 **选择“文件”。** 选择您的Marketo潜在客户管理解决方案 [已下载](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). 单击 **下一个**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. 查看解决方案信息，然后单击 **查看解决方案包详细信息**.
+1. 查看解决方案信息并单击 **查看解决方案包详细信息**.
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. 现在，返回至“解决方案信息”页面，单击 **下一个**.
+1. 现在，返回“解决方案信息”页面，单击 **下一个**.
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
@@ -64,9 +64,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您需要在浏览器上启用弹出窗口才能完成安装过程。
+   >您需要启用浏览器上的弹出窗口才能完成安装过程。
 
-1. 现在，等待导入完成。 起来，做些铺垫。
+1. 现在等待导入完成。 起来做些伸展运动。
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
@@ -74,20 +74,20 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能会看到一条消息，显示“Marketo潜在客户管理已完成，并出现警告”。 这是完全可以预料的。
+   >您可能会看到一条消息，显示“Marketo潜在客户管理已完成，但有警告”。 这完全符合预期。
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. Marketo潜在客户管理现在将显示在解决方案列表中。
+1. Marketo Lead Management现在将显示在解决方案列表中。
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. 选择 **Marketo Lead Management** 单击 **发布所有自定义设置。**
+1. 选择 **Marketo潜在客户管理** 并单击 **发布所有自定义项。**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   五！ 安装完成。
+   击掌！ 安装完成。
 
    >[!MORELIKETHIS]
    >
-   >[步骤2（共3步）：使用S2S连接设置Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+   >[第2步（共3步）：设置具有S2S连接的Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)

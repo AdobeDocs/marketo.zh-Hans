@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2949777
-description: 活动合作伙伴 — Marketo文档 — 产品文档
+description: 事件合作伙伴 — Marketo文档 — 产品文档
 title: 活动合作伙伴
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
-source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 1%
@@ -12,16 +13,16 @@ ht-degree: 1%
 
 # 活动合作伙伴 {#event-partners}
 
-将Marketo连接到事件合作伙伴以自动执行您的在线事件。 在连接它们时，您可以：
+将Marketo连接到事件合作伙伴以自动执行在线事件。 连接它们时，您可以：
 
-* 管理网络研讨会活动
-* 将在Marketo登陆页面上捕获的注册信息推送到配置的事件合作伙伴
-* 自动将出席信息拉入Marketo活动
-* 捕获人员作为项目成员的状态
+* 管理您的网络研讨会活动
+* 将在Marketo登录页面上捕获的注册信息推送给已配置的Event Partner
+* 将出勤信息自动提取到Marketo活动中
+* 捕获人员作为计划成员的状态
 
-请参阅有关将在线Marketo事件与活动合作伙伴集成的说明：
+请参阅有关将在线Marketo活动与活动合作伙伴集成的说明：
 
-* [韦贝](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
 * [GoTo网络研讨会](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)

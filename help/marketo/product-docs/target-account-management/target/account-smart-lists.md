@@ -3,7 +3,8 @@ unique-page-id: 11378814
 description: 帐户智能列表 — Marketo文档 — 产品文档
 title: 帐户智能列表
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+feature: Target Account Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%

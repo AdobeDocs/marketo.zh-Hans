@@ -2,7 +2,8 @@
 description: 配置Salesforce活动详细信息自定义 — Marketo文档 — 产品文档
 title: 配置Salesforce活动详细信息自定义
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 0%

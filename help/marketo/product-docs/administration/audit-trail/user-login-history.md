@@ -3,7 +3,8 @@ unique-page-id: 11377958
 description: 用户登录历史记录 — Marketo文档 — 产品文档
 title: 用户登录历史记录
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Audit Trail
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%

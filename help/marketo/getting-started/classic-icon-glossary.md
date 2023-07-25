@@ -1,18 +1,19 @@
 ---
 unique-page-id: 4720476
-description: 经典图标术语表 — Marketo文档 — 产品文档
-title: 经典图标术语表
+description: Classic图标术语表 — Marketo文档 — 产品文档
+title: Classic图标术语表
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '562'
 ht-degree: 6%
 
 ---
 
-# 经典图标术语表 {#classic-icon-glossary}
+# Classic图标术语表 {#classic-icon-glossary}
 
-以下是Marketo Classic的旧图标。 新图标术语表可以是 [此处](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}。
+以下是Marketo Classic中的旧图标。 新图标术语表可以是 [在此处找到](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
 
 **常规图标**
 
@@ -59,7 +60,7 @@ ht-degree: 6%
     <div> 
      <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">您与其他工作区共享的源文件夹</td> 
+   <td colspan="1">与其他工作区共享的源文件夹</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -73,21 +74,21 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>存档文件夹或转换到存档文件夹（可以针对任何文件夹和存档的程序显示）</td> 
+   <td>存档文件夹或转换为存档文件夹（对于任何文件夹和已存档的程序都可以显示）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>成功!（经常显示为项目成功、成功运行或活动）</td> 
+   <td>成功!（通常显示为项目成功、运行成功或活动）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a34-3a57.png"> 
     </div></td> 
-   <td>过滤、查看、查看全部</td> 
+   <td>筛选、查看、查看全部</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -196,7 +197,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-8-16-3a36-3a19.png"> 
     </div></td> 
-   <td>智能营销活动</td> 
+   <td>Smart Campaign</td> 
   </tr> 
   <tr> 
    <td> 
@@ -231,7 +232,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-8-17-3a45-3a44.png"> 
     </div></td> 
-   <td>Salesforce(SFDC)</td> 
+   <td>Salesforce (SFDC)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -252,7 +253,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-8-18-3a25-3a25.png"> 
     </div></td> 
-   <td>蒙奇金</td> 
+   <td>Munchkin</td> 
   </tr> 
   <tr> 
    <td> 
@@ -266,21 +267,21 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-8-18-3a28-3a16.png"> 
     </div></td> 
-   <td>LaunchPoint</td> 
+   <td>启动点</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a44-3a51.png"> 
     </div></td> 
-   <td>Webhooks</td> 
+   <td>Webhook</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td>标记 — 项目属性</td> 
+   <td>标记 — 项目群属性</td> 
   </tr> 
   <tr> 
    <td> 
@@ -313,7 +314,7 @@ ht-degree: 6%
  </tbody> 
 </table>
 
-### “营销活动”图标 {#marketing-activities-icons}
+### 营销活动图标 {#marketing-activities-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -326,7 +327,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2014-12-18-16-3a45-3a45.png"> 
     </div></td> 
-   <td>事件程序</td> 
+   <td>活动计划</td> 
   </tr> 
   <tr> 
    <td> 
@@ -361,7 +362,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>更改参与频度（已暂停，正常）</td> 
+   <td>更改参与节奏（已暂停，正常）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -375,63 +376,63 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-11-3a11-3a29.png"> 
     </div></td> 
-   <td>智能营销活动 — 活动和触发</td> 
+   <td>Smart Campaign — 活动和触发</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>请求的智能促销活动(由Sales Insight或Marketo Flow Action)</td> 
+   <td>请求的智能营销活动(通过Sales Insight或Marketo Flow操作)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>智能营销活动 — 批处理（之前已执行）</td> 
+   <td>Smart Campaign — 批处理（以前已执行）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
-   <td>智能营销活动 — 不活动或从不执行</td> 
+   <td>Smart Campaign — 不活跃或从未执行</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-11-3a1-3a29.png"> 
     </div></td> 
-   <td>无效的营销活动</td> 
+   <td>无效营销活动</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>电子邮件计划 <br>（红色标记向下=尚未发送电子邮件）</td> 
+   <td>电子邮件程序 <br>（红色标记已关闭=电子邮件尚未发送）</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
-   <td colspan="1">已设置开始时间的电子邮件程序</td> 
+   <td colspan="1">电子邮件计划提前开始</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td>智能营销活动 — 计划批处理（复选标记指示之前已执行该活动）</td> 
+   <td>Smart Campaign — 计划批处理（复选标记表示它以前已经执行）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td>计划的批量促销活动</td> 
+   <td>计划的批量活动</td> 
   </tr> 
   <tr> 
    <td> 
@@ -571,7 +572,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-15-3a15-3a42.png"> 
     </div></td> 
-   <td>抽奖操作</td> 
+   <td>抽奖活动</td> 
   </tr> 
   <tr> 
    <td> 
@@ -613,7 +614,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-15-3a20-3a13.png"> 
     </div></td> 
-   <td>挑选获胜者</td> 
+   <td>挑选入选者</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -669,14 +670,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a4.png"> 
     </div></td> 
-   <td colspan="1">新测试</td> 
+   <td colspan="1">新建测试</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a16.png"> 
     </div></td> 
-   <td colspan="1">投放能力工具</td> 
+   <td colspan="1">可投放性工具</td> 
   </tr> 
  </tbody> 
 </table>
@@ -736,7 +737,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-12-11-3a7-3a6.png"> 
     </div></td> 
-   <td>“克隆登陆”页</td> 
+   <td>克隆登陆页面</td> 
   </tr> 
   <tr> 
    <td> 
@@ -757,7 +758,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-12-11-3a12-3a22.png"> 
     </div></td> 
-   <td>移动程序</td> 
+   <td>移动项目群</td> 
   </tr> 
   <tr> 
    <td> 
@@ -813,14 +814,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-12-3a52-3a44.png"> 
     </div></td> 
-   <td>模板 — 已通过草稿批准</td> 
+   <td>模板 — 已批准，但有草稿</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>已批准资产的草稿（在草稿获得批准前不处于活动状态）</td> 
+   <td>已批准资产的草稿（在草稿获得批准之前不处于活动状态）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -855,7 +856,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1">从Web中获取图像</td> 
+   <td colspan="1">从Web获取图像</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -894,14 +895,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-9-3a56-3a30.png"> 
     </div></td> 
-   <td>收入周期模型(RCM) — 批准</td> 
+   <td>收入周期模型(RCM) — 已批准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>收入周期模型(RCM) — 已批准，草稿</td> 
+   <td>收入周期模型(RCM) — 已批准，带草稿</td> 
   </tr> 
   <tr> 
    <td> 
@@ -915,7 +916,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </div></td> 
-   <td>报表</td> 
+   <td>报告</td> 
   </tr> 
   <tr> 
    <td> 
@@ -929,21 +930,21 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-12-3a57-3a19.png"> 
     </div></td> 
-   <td>删除报表</td> 
+   <td>删除报告</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-12-3a58-3a53.png"> 
     </div></td> 
-   <td>查看合格潜在客户</td> 
+   <td>查看合格的潜在客户</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>有趣的时刻概述</td> 
+   <td>有趣时刻概述</td> 
   </tr> 
   <tr> 
    <td> 
@@ -989,7 +990,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td>日历ICS — 日历，（集成日历）</td> 
+   <td>日历ICS — 日历（集成日历）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1010,14 +1011,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce（也适用于所有SFDC相关项目）</td> 
+   <td>Salesforce（同样适用于所有SFDC相关项目）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td>将智能营销活动计划为运行一次</td> 
+   <td>将Smart Campaign计划为运行一次</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1038,12 +1039,12 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>查看智能成员（以前符合条件，当前为）</td> 
+   <td>查看Smart成员（以前限定的和当前的）</td> 
   </tr> 
  </tbody> 
 </table>
 
-### 营销活动菜单 {#campaign-menus}
+### Campaign菜单 {#campaign-menus}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -1056,7 +1057,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </div></td> 
-   <td>计划促销活动的循环（多次运行）</td> 
+   <td>计划营销活动的重复周期（多次运行）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1077,42 +1078,42 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce（也适用于所有SFDC相关项目）</td> 
+   <td>Salesforce（同样适用于所有SFDC相关项目）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a33-3a11.png"> 
     </div></td> 
-   <td>仅限文本</td> 
+   <td>仅文本</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a33-3a51.png"> 
     </div></td> 
-   <td>相对得分（在所有评分流程操作中也可见）</td> 
+   <td>相对得分（在所有评分流操作中均可见）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a34-3a22.png"> 
     </div></td> 
-   <td>相对紧急</td> 
+   <td>相对紧迫性</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </div></td> 
-   <td>电子邮件脚本（仅用于Velocity）</td> 
+   <td>电子邮件脚本（仅适用于Velocity）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
-   <td>日期 — 格式为“MM-DD-YYYY”</td> 
+   <td>日期 — 格式为“YYYY-MM-DD”</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1172,7 +1173,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </div></td> 
-   <td>电子邮件脚本（仅用于Velocity）</td> 
+   <td>电子邮件脚本（仅适用于Velocity）</td> 
   </tr> 
   <tr> 
    <td> 

@@ -1,12 +1,13 @@
 ---
 unique-page-id: 1147226
-description: 入门 — Marketo文档 — 产品文档
+description: 快速入门 — Marketo文档 — 产品文档
 title: 快速入门
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 12%
+source-wordcount: '133'
+ht-degree: 15%
 
 ---
 
@@ -14,19 +15,19 @@ ht-degree: 12%
 
 ## 什么是Adobe Marketo Engage {#what-is-marketo-engage}
 
-你问什么Marketo Engage? 好问题！
+你问，什么是Marketo Engage？ 好问题！
 
-[学习Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
+[学习Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
-## 设置 {#get-set-up}
+## 进行设置 {#get-set-up}
 
-借助IT团队的帮助，您可以立即完成该任务。
+在您的IT团队的帮助下，您可以快速完成此操作。
 
-[开始设置](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+[开始设置](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
-## 快速获得一些成功 {#get-some-quick-wins}
+## 快速入门 {#get-some-quick-wins}
 
-完成这些任务，以了解Marketo Engage的核心功能。
+完成这些任务以了解Marketo Engage的核心功能。
 
 <table style="table-layout:fixed">
 <tr>
@@ -52,7 +53,7 @@ ht-degree: 12%
       <img alt="电子邮件" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. 包含表单的登陆页面</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. 带有表单的登陆页面</a>
     </div>
     <br>
   </td>
@@ -89,7 +90,7 @@ ht-degree: 12%
       <img alt="连接" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 滴滴培养</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 滴管培养</a>
     </div>
     <br>
   </td>
@@ -122,6 +123,6 @@ ht-degree: 12%
 </tr>
 </table>
 
-## 第4步祝贺！ 你准备好去国家  {#congrats-youre-ready-for-the-nation}
+## 步骤4恭喜！ 你准备好迎接国家了  {#congrats-youre-ready-for-the-nation}
 
-查看 [营销国家](https://nation.marketo.com){target=&quot;_blank&quot;}!
+查看 [营销国家/地区](https://nation.marketo.com){target="_blank"}！

@@ -1,20 +1,21 @@
 ---
 unique-page-id: 8783555
 description: 创建收藏夹 — Marketo文档 — 产品文档
-title: 创建收藏
+title: 创建收藏夹
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
 
 ---
 
-# 创建收藏 {#creating-a-favorite}
+# 创建收藏夹 {#creating-a-favorite}
 
-收藏信息卡以供将来参考。
+收藏一张信息卡，以便将来参考。
 
-1. 打开卡片菜单。
+1. 打开“信息卡”菜单。
 
    ![](assets/image2015-7-14-16-3a28-3a54.png)
 
@@ -22,4 +23,4 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
 
-   就这样！
+   就这么多！

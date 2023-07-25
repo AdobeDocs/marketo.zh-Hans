@@ -1,18 +1,19 @@
 ---
 unique-page-id: 1146985
-description: 重新排序智能促销活动中的流程步骤 — Marketo文档 — 产品文档
-title: 重新排序智能营销活动中的流程步骤
+description: 在Smart Campaign中重新排序流程步骤 — Marketo文档 — 产品文档
+title: 重新排序智能营销活动中的流量步骤
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# 重新排序智能营销活动中的流程步骤 {#reorder-the-flow-steps-in-a-smart-campaign}
+# 重新排序智能营销活动中的流量步骤 {#reorder-the-flow-steps-in-a-smart-campaign}
 
-流程步骤从上到下执行。 下面介绍了如何根据您的需求重新排序流程步骤。
+流程步骤从上到下执行。 以下是如何根据您的需求对流程步骤重新排序的。
 
 >[!PREREQUISITES]
 >
@@ -24,6 +25,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->流程步骤按它们在流程中的显示顺序运行。
+>流步骤按照它们在流中出现的顺序运行。
 
-有些事情很简单。 把n&#39;拖走！
+有些事情很简单。 拖放过去！

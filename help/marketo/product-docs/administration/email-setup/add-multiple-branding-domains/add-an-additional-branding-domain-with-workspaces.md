@@ -3,7 +3,8 @@ unique-page-id: 11377408
 description: 使用工作区添加其他品牌推广域 — Marketo文档 — 产品文档
 title: 添加带有工作区的附加品牌推广域
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

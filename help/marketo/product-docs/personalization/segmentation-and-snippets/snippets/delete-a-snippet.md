@@ -3,7 +3,8 @@ unique-page-id: 2359518
 description: 删除代码片段 — Marketo文档 — 产品文档
 title: 删除代码片段
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 1%
@@ -26,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. 单击 **删除** 确认或仅 **取消**.
+1. 单击 **删除** 以确认或仅确认 **取消**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
@@ -34,4 +35,4 @@ ht-degree: 1%
    >
    >您只能删除未批准且未被任何资产使用的代码片段。
 
-完成! 无法检索它，因此在单击删除按钮之前请务必加以确认。
+完成! 无法检索它，因此在单击“删除”按钮之前请务必加以确认。

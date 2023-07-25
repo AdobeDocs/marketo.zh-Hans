@@ -1,26 +1,27 @@
 ---
 unique-page-id: 3571813
-description: 第1步（共3步） — 在Dynamics（2013年本地版）中安装Marketo解决方案 — Marketo文档 — 产品文档
-title: 步骤1（共3步） — 在Dynamics中安装Marketo解决方案（2013年本地版）
+description: 第1步（共3步） — 在Dynamics中安装Marketo解决方案（2013年内部部署） — Marketo文档 — 产品文档
+title: 第1步（共3步） — 在Dynamics中安装Marketo解决方案（2013内部部署）
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
-source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 步骤1（共3步）：在Dynamics（2013本地版）中安装Marketo解决方案 {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# 步骤1/3：在Dynamics中安装Marketo解决方案（2013内部部署） {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-在同步Microsoft Dynamics本地版和Marketo之前，您需要先在Dynamics中安装Marketo解决方案。
+在同步Microsoft Dynamics内部部署和Marketo之前，您需要先在Dynamics中安装Marketo解决方案。
 
 >[!NOTE]
 >
->将Marketo同步到CRM后，如果不替换实例，将无法执行新同步。
+>将Marketo同步到CRM后，如果不替换实例，则无法执行新的同步。
 
 >[!PREREQUISITES]
 >
->您必须 [面向Internet的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) [Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 配置了2.0、2.1或3.0(ADFS)。 注意：单击链接时，IFD文档会自动下载。
+>您必须拥有 [面向互联网的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)替换为 [Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 已配置2.0、2.1或3.0 (ADFS)。 注意：单击该链接时，会自动下载IFD文档。
 >
 >[下载Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 开始之前。
 
@@ -30,11 +31,11 @@ ht-degree: 0%
 >
 >您需要CRM管理员权限才能执行此同步。
 
-1. 登录 **动态**. 单击 **Microsoft Dynamics CRM** 下拉菜单，然后选择 **设置**.
+1. 登录 **动态**. 单击 **Microsoft Dynamics CRM** 下拉菜单并选择 **设置**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
-1. 在 **设置**，选择 **解决方案**.
+1. 下 **设置**，选择 **解决方案**.
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
@@ -42,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. 单击 **浏览** ，然后选择 [下载解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). 单击 **下一个**.
+1. 单击 **浏览** 并选择 [下载的解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). 单击 **下一个**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. 查看解决方案信息，然后单击 **查看解决方案包详细信息**.
+1. 查看解决方案信息并单击 **查看解决方案包详细信息**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -66,15 +67,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您需要在浏览器上启用弹出窗口才能完成安装过程。
+   >您需要启用浏览器上的弹出窗口才能完成安装过程。
 
    ![](assets/image2014-12-11-10-3a41-3a5.png)
 
-1. 下载日志文件（如果需要）并单击 **关闭**.
+1. 下载日志文件（如果需要），然后单击 **关闭**.
 
    >[!NOTE]
    >
-   >您可能会看到一条消息，显示“Marketo潜在客户管理已完成，并出现警告”。 这是完全可以预料的。
+   >您可能会看到一条消息，显示“Marketo潜在客户管理已完成，但有警告”。 这完全符合预期。
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
@@ -82,16 +83,16 @@ ht-degree: 0%
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
-1. 选择Marketo解决方案，然后单击 **发布所有自定义设置**.
+1. 选择Marketo解决方案，然后单击 **发布所有自定义项**.
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
-不是太糟吧？ 来吧，我会继续带你过去。
+不是很糟糕吧？ 来吧，我会一直陪你走过余下的。
 
 >[!CAUTION]
 >
->禁用任何Marketo SDK消息传送流程都会导致安装中断！
+>禁用任何Marketo SDK消息传递进程都将导致安装中断！
 
 >[!MORELIKETHIS]
 >
->[步骤2（共3步）：为Marketo配置同步用户（2013本地版）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+>[第2步（共3步）：为Marketo配置同步用户（2013年内部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)

@@ -1,141 +1,142 @@
 ---
 unique-page-id: 2359424
-description: 提醒銷售代表 — Marketo檔案 — 產品檔案
-title: 警示銷售代表
+description: 提醒销售代表 — Marketo文档 — 产品文档
+title: 提醒销售代表
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 警示銷售代表 {#alert-the-sales-rep}
+# 提醒销售代表 {#alert-the-sales-rep}
 
-## 任務：當某人填寫您網站上的表單時提醒銷售代表 {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
+## 任务：当有人在您的网站上填写表单时提醒销售代表 {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
-若要自動傳送警示電子郵件給銷售代表，您只需要警示電子郵件和電子郵件行銷活動即可。 以下是其操作方式。
+要自动向销售代表发送警报电子邮件，您只需要一封警报电子邮件和电子邮件促销活动。 下面是操作方法。
 
 >[!PREREQUISITES]
 >
->[含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>[带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
-## 步驟1：建立警報電子郵件 {#step-create-an-alert-email}
+## 步骤1：创建警报电子邮件 {#step-create-an-alert-email}
 
-1. 前往 **[!UICONTROL 行銷活動]** 區域。
+1. 转到 **[!UICONTROL 营销活动]** 区域。
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. 選取 **我的程式** 您建立於 [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速獲勝，然後在 **[!UICONTROL 新增]** 按一下 **[!UICONTROL 新增本機資產]**.
+1. 选择 **我的项目** ，您已在 [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速获胜，然后位于下方 **[!UICONTROL 新]** 点击 **[!UICONTROL 新建本地资产]**.
 
    ![](assets/alert-the-sales-rep-2.png)
 
-1. 按一下 **[!UICONTROL 電子郵件]**.
+1. 单击 **[!UICONTROL 电子邮件]**.
 
    ![](assets/alert-the-sales-rep-3.png)
 
-1. **名稱** 電子郵件「我的電子郵件警示」，選擇範本並按一下 **[!UICONTROL 建立]**.
+1. **名称** 电子邮件“我的电子邮件警报”，选择一个模板并单击 **[!UICONTROL 创建]**.
 
    ![](assets/alert-the-sales-rep-4.png)
 
-1. 輸入 **發件人名稱**， **來自電子郵件**， **[!UICONTROL 回覆]**、和 **[!UICONTROL 主旨]** 您希望您的銷售團隊看到的內容。
+1. 输入 **发件人名称**， **发件人电子邮件**， **[!UICONTROL 回复]**、和 **[!UICONTROL 主题]** 您希望销售团队了解的信息。
 
    ![](assets/alert-the-sales-rep-5.png)
 
-1. 按兩下以編輯電子郵件文字。
+1. 双击以编辑电子邮件文本。
 
    ![](assets/alert-the-sales-rep-6.png)
 
-1. 輸入電子郵件內容。
+1. 键入电子邮件内容。
 
    ![](assets/alert-the-sales-rep-7.png)
 
-1. 將游標放在您要插入人員連絡資訊的位置，然後按一下 **插入Token** 圖示。
+1. 将光标放在要插入人员联系信息的位置，然后单击 **插入令牌** 图标。
 
    ![](assets/alert-the-sales-rep-8.png)
 
-1. 尋找並選取 `{{SP_Send_Alert_Info}}` **[!UICONTROL Token]** 並按一下 **[!UICONTROL 插入]**.
+1. 查找并选择 `{{SP_Send_Alert_Info}}` **[!UICONTROL 令牌]** 并单击 **[!UICONTROL 插入]**.
 
    ![](assets/alert-the-sales-rep-9.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} 是警報電子郵件的特殊Token。 另請參閱 [使用傳送警報資訊權杖](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} 以深入瞭解。
+   >{{SP_Send_Alert_Info}} 是警报电子邮件的特殊令牌。 参见 [使用发送警报信息令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} 了解更多信息。
 
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 单击 **[!UICONTROL 保存]**.
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. 按一下 **[!UICONTROL 電子郵件動作]** 下拉式清單並選取 **[!UICONTROL 核准並關閉]**.
+1. 单击 **[!UICONTROL 电子邮件操作]** 下拉菜单并选择 **[!UICONTROL 批准并关闭]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
-## 步驟2：建立警報觸發程式行銷活動 {#step-create-an-alert-trigger-campaign}
+## 步骤2：创建警报触发器营销活动 {#step-create-an-alert-trigger-campaign}
 
-1. 選取 **我的程式** 先前建立，然後在 **[!UICONTROL 新增]** 按一下 **[!UICONTROL 新增Smart Campaign]**.
+1. 选择 **我的项目** 之前创建，然后在 **[!UICONTROL 新]** 点击 **[!UICONTROL 新建智能营销活动]**.
 
    ![](assets/alert-the-sales-rep-12.png)
 
-1. **名稱** 行銷活動「我的警示行銷活動」並按一下 **[!UICONTROL 建立]**.
+1. **名称** 营销活动“我的警报营销活动”，然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/alert-the-sales-rep-13.png)
 
-1. 在 **[!UICONTROL 智慧清單]** 標籤，尋找並拖曳 **[!UICONTROL 填寫表單]** 觸發至畫布。
+1. 在 **[!UICONTROL 智能列表]** 选项卡，查找并拖动 **[!UICONTROL 填写表单]** 触发画布。
 
    ![](assets/alert-the-sales-rep-14.png)
 
-1. 選取我們先前建立的表單。
+1. 选择我们之前创建的表单。
 
    ![](assets/alert-the-sales-rep-15.png)
 
-1. 在 **[!UICONTROL 流量]** 標籤，尋找並拖曳 **[!UICONTROL 傳送警報]** 流程動作至畫布。
+1. 在 **[!UICONTROL 流量]** 选项卡，查找并拖动 **[!UICONTROL 发送警报]** 流程操作到画布。
 
    ![](assets/alert-the-sales-rep-16.png)
 
-1. 選取 **[!UICONTROL 我的警示電子郵件]** 先前建立並離開 **[!UICONTROL 傳送至]** 作為 **[!UICONTROL 銷售負責人]**.
+1. 选择 **[!UICONTROL 我的警报电子邮件]** 之前创建并离开 **[!UICONTROL 发送至]** 作为 **[!UICONTROL 销售负责人]**.
 
    ![](assets/alert-the-sales-rep-17.png)
 
-1. 在「 」中輸入您的電子郵件地址 **[!UICONTROL 至其他電子郵件]** 欄位。
+1. 在“ ”中输入您的电子邮件地址 **[!UICONTROL 至其他电子邮件]** 字段。
 
    ![](assets/alert-the-sales-rep-18.png)
 
-1. 前往 **[!UICONTROL 排程]** 標籤並按一下 **[!UICONTROL 啟動]** 按鈕。
+1. 转到 **[!UICONTROL 计划]** 选项卡，然后单击 **[!UICONTROL 激活]** 按钮。
 
    ![](assets/alert-the-sales-rep-19.png)
 
    >[!TIP]
    >
-   >設定 **[!UICONTROL 資格規則]** 至 **[!UICONTROL 每次]** （透過編輯Smart Campaign）以允許同一人多次觸發警報。
+   >设置 **[!UICONTROL 资格规则]** 到 **[!UICONTROL 每次]** （通过编辑Smart Campaign）以允许同一人员多次触发警报。
 
-1. 按一下 **[!UICONTROL 啟動]** 確認畫面上。
+1. 单击 **[!UICONTROL 激活]** 确认屏幕上。
 
    ![](assets/alert-the-sales-rep-20.png)
 
-## 步驟3：測試！ {#step-test-it-out}
+## 步骤3：测试！ {#step-test-it-out}
 
-1. 選取您的登入頁面，然後按一下 **[!UICONTROL 檢視已核准頁面]**.
+1. 选择您的登陆页面并单击 **[!UICONTROL 查看已批准的页面]**.
 
    ![](assets/alert-the-sales-21.png)
 
    >[!NOTE]
    >
-   >別忘了核准登陸頁面；這些頁面要等到核准後才會上線。
+   >不要忘记批准登陆页面；在获得批准之前，登陆页面不会上线。
 
-1. 填寫表單並按一下 **[!UICONTROL 提交]**.
+1. 填写表单并单击 **[!UICONTROL 提交]**.
 
    ![](assets/alert-the-sales-22.png)
 
-1. 您很快就會收到電子郵件。 在您確認一切都正常運作後，請從「傳送警報」流程中移除您的電子郵件地址（請參閱上述步驟2.7）。
+1. 您很快就会收到电子邮件。 验证所有功能均可正常使用后，从“发送警报”流程中删除您的电子邮件地址（请参阅上面的步骤2.7）。
 
    >[!NOTE]
    >
-   >按一下 **[!UICONTROL 個人資訊]** 按Tab鍵檢視Marketo中的聯絡人資訊。
+   >单击 **[!UICONTROL 人员信息]** Marketo选项卡，以查看联系人信息。
 
-## 任務完成！ {#mission-complete}
+## 任务完成！ {#mission-complete}
 
 <br> 
 
-[◄任務7：個人化電子郵件](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[◄任务7：个性化电子邮件](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[任務9：更新人員資料►](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[任务9：更新人员数据►](/help/marketo/getting-started/quick-wins/update-person-data.md)

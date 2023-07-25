@@ -1,21 +1,22 @@
 ---
 unique-page-id: 14352470
-description: 使用Sales Connect数据创建Salesforce优先级呼叫报告 — Marketo文档 — 产品文档
-title: 使用Sales Connect数据创建Salesforce优先级呼叫报表
+description: 使用Sales Connect数据创建Salesforce优先呼叫报告 — Marketo文档 — 产品文档
+title: 使用Sales Connect数据创建Salesforce优先级呼叫报告
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# 使用Sales Connect数据创建Salesforce优先级呼叫报表 {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# 使用Sales Connect数据创建Salesforce优先级呼叫报告 {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
-了解如何使用Sales Connect电子邮件参与数据创建Salesforce报告/呼叫列表，以重点关注势头强劲的人员或机会。
+了解如何使用Sales Connect电子邮件参与数据创建Salesforce报告/通话清单，以重点关注具有动机的人员或机会。
 
-1. 转到SFDC报表选项卡。
-1. 创建包含“任务和事件”的报表。
-1. 设置过滤器并选择日期范围。
-1. 通过在字段搜索中键入“Marketo Sales”，将Sales Connect数据拖入列中。 添加Sales Connect数据后，为电话号码添加列，以便您对此报表执行操作并将其用作呼叫列表。
-1. 运行报表并按“Sales Connect Events Tracked”进行排序。 这会向上冒泡电子邮件中活动最多的用户。 确保您已与这些顶尖人员一起计划了后续步骤，或将其作为当天的优先任务。 有可能出现高数量的势头。
+1. 转到SFDC报告选项卡。
+1. 创建具有“任务和事件”的报告。
+1. 设置筛选条件并选择日期范围。
+1. 通过在字段搜索中键入“Marketo Sales”，将Sales Connect数据拖动到列中。 添加Sales Connect数据后，请添加“电话号码”列，以便您可以对此报表执行操作，并将其用作呼叫列表。
+1. 运行报表并按跟踪的Sales Connect事件进行排序。 这将冒泡出您的电子邮件中活动最多的人。 确保您与这些高级人员一起规划了后续步骤，或者将他们作为当天的首要任务。 很可能出现高数字的势头。

@@ -2,9 +2,10 @@
 description: Salesforce诊断 — Marketo文档 — 产品文档
 title: Salesforce诊断
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1445'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -2,28 +2,29 @@
 description: 添加销售分析权限集 — Marketo文档 — 产品文档
 title: 添加Sales Insight权限集
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 
 # 添加Sales Insight权限集 {#add-sales-insight-permission-set}
 
-请按照以下步骤在Salesforce中添加对Sales Insight功能的访问权限。 适用于Salesforce Classic和Layting
+使用以下步骤可添加对Salesforce中Sales Insight功能的访问权限。 适用于Salesforce Classic和Lighting
 
 >[!PREREQUISITES]
 >
->[更新Sales Insight Salesforce包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;}到版本1.8000或更高版本，以使用此功能。
+>[更新Sales Insight Salesforce包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} 版本1.8000或更高版本，以便使用此功能。
 
 >[!IMPORTANT]
 >
->如果您之前已为所有用户授予Sales Insight访问所有配置文件的权限和/或实施了Sales Insight，则您必须 [删除配置文件级别访问权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;}使用此权限集。
+>如果您以前授予了Sales Insight对所有用户档案的访问权限和/或为所有用户实施了Sales Insight ，您必须 [删除配置文件级别访问权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} 以使用此权限集。
 
 ## 概述 {#overview}
 
-“Marketo应用程序”权限是Sales Insight Salesforce包的一部分。 它包括对以下所述对象、顶点类和可视化强制页面的访问。 访问所有Sales Insight功能时都需要这些功能。
+“Marketo应用程序”权限是Sales Insight Salesforce包的一部分。 它包括访问以下提及的对象、顶点类和visualforce页面。 要访问所有Sales Insight功能，必须具备这些权限。
 
 **对象设置**
 
@@ -34,7 +35,7 @@ ht-degree: 0%
    <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
   </tr> 
   <tr> 
-   <td>最佳视图详细信息</td> 
+   <td>最佳匹配视图详细信息</td> 
    <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
   </tr> 
   <tr> 
@@ -54,15 +55,15 @@ ht-degree: 0%
    <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
   </tr> 
   <tr> 
-   <td>InterestedMomentsCache</td> 
+   <td>InterestedMentsCache</td> 
    <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
   </tr> 
   <tr> 
-   <td>Marketo Sales Insight配置</td> 
+   <td>Marketo销售分析配置</td> 
    <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
   </tr> 
   <tr> 
-   <td>ScoringCache</td> 
+   <td>评分缓存</td> 
    <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
   </tr> 
   <tr> 
@@ -76,11 +77,11 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-* Apex类访问：159个以“mkto_si”开头的Apex类
-* 可视化强制页面访问：64可视化强制以“mkto_si”开头的页面
-* 自定义设置定义：mkto_si.Marketo设置和mkto_si.用户首选项
+* Apex类访问：159个以“mkto_si”开头的类
+* Visualforce页面访问：64个以“mkto_si”开头的Visualforce页面
+* 自定义设置定义：mkto_si.Marketo设置和mkto_si.User首选项
 
-## 向用户添加Marketo应用程序权限集 {#adding-marketo-app-permission-set-to-users}
+## 将Marketo应用程序权限集添加到用户 {#adding-marketo-app-permission-set-to-users}
 
 1. 登录到您的Salesforce帐户。
 
@@ -88,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. 在管理员下，单击以展开 **管理用户**，则 **用户**.
+1. 在“管理员”下，单击以展开 **管理用户**，则 **用户**.
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
@@ -100,11 +101,11 @@ ht-degree: 0%
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. 选择 **Marketo应用程序访问** ，然后 **添加**. 单击 **保存**.
+1. 选择 **Marketo应用程序访问权限** 从可用权限集中，然后 **添加**. 单击 **保存**.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
-1. 现在，当您向下滚动“用户详细信息”页面时，您将在“权限集分配”下看到“Marketo应用程序访问”。
+1. 现在，当您向下滚动“用户详细信息”页面时，您将在“权限集分配”下看到“Marketo应用程序访问权限”。
 
    ![](assets/add-sales-insight-permission-set-6.png)
 
@@ -112,4 +113,4 @@ ht-degree: 0%
 >
 >无权访问Sales Insight的用户将看到以下消息：“您没有足够的权限访问此选项卡。”
 
-就这样！ 您已成功添加“销售分析”访问权限。 对要添加访问权限的任何其他用户档案重复相同步骤。
+就是这样！ 您已成功添加了Sales Insight访问权限。 对要为其添加访问权限的任何其他配置文件重复相同的步骤。

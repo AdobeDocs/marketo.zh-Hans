@@ -1,23 +1,23 @@
 ---
-description: 第3步（共3步） — 连接Marketo Engage和Veeva CRM - Marketo文档 — 产品文档
-title: 步骤3（共3步） — 连接Marketo Engage和Veeva CRM
+description: 第3步（共3步） — ConnectMarketo Engage和Veeva CRM - Marketo文档 — 产品文档
+title: 第3步（共3步） — 连接Marketo Engage和Veeva CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
-# 步骤3（共3步）：连接Marketo Engage和Veeva CRM {#step-3-of-3-connect-marketo-engage-and-veeva-crm}
+# 第3步（共3步）：连接Marketo Engage和Veeva CRM {#step-3-of-3-connect-marketo-engage-and-veeva-crm}
 
-在本文中，您将配置Marketo Engage以与配置的Veeva CRM实例同步。 **您会在一些弹出窗口中看到Salesforce** 因为Veva CRM是在Salesforce平台上构建的。
+在本文中，您将配置Marketo Engage以与配置的Veeva CRM实例同步。 **你会在弹出窗口中看到Salesforce** 因为Veeva CRM构建在Salesforce平台上。
 
 >[!PREREQUISITES]
 >
->* [步骤1（共3步）：将Marketo字段添加到Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target=&quot;_blank&quot;}
->* [步骤2（共3步）：为Marketo创建Veeva用户](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target=&quot;_blank&quot;}
-
+>* [第1步（共3步）：将Marketo字段添加到Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>* [第2步（共3步）：为Marketo创建Veeva用户](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
 
 >[!IMPORTANT]
 >
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## 使用OAuth连接到Veeva CRM {#connect-to-veeva-crm-using-oauth}
 
-1. 在Marketo中，单击 **管理员**. 选择 **CRM** 单击 **与Veeva同步**.
+1. 在Marketo中，单击 **管理员**. 选择 **CRM** 并单击 **与Veeva同步**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-1.png)
 
    >[!NOTE]
    >
-   >一定要 [隐藏您不需要的所有字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)单击“同步字段”之前，从同步用户在Marketo中的{target=&quot;_blank&quot;}。 单击“同步字段”后，用户可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
+   >请确保 [隐藏所有不需要的字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Marketo ，然后再单击“同步字段”。 单击“同步字段”后，将会在Marketo中永久创建用户可以查看的所有字段，并且这些字段无法删除。
 
 1. 单击 **使用Veeva登录**.
 
@@ -39,21 +39,21 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果要将Marketo沙盒与Veeva CRM沙盒同步，请检查沙盒。
+   >如果您正在将Marketo沙盒同步到Veeva CRM沙盒，请选中沙盒。
 
 1. 单击 **确认凭据**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-3.png)
 
-1. 此时将显示一个包含Salesforce登录页面的弹出窗口。 输入“Marketo同步用户”凭据并单击 **登录**.
+1. 此时将显示一个包含Salesforce登录页面的弹出窗口。 输入您的“Marketo同步用户”凭据，然后单击 **登录**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-4.png)
 
-1. 输入您通过电子邮件（由Salesforce发送）收到的验证代码，然后单击 **验证**.
+1. 输入您通过电子邮件收到的验证码（由Salesforce发送），然后单击 **验证**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-5.png)
 
-1. 成功验证后，访问页面将显示请求访问。 单击 **允许**.
+1. 验证成功后，访问页面将显示请求访问。 单击 **允许**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-6.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo不会针对Veeva CRM同步或在您手动输入潜在客户时自动消除重复数据。
+   >Marketo不会针对Veeva CRM同步或手动输入潜在客户时自动执行重复数据删除。
 
 1. 单击 **开始同步**.
 
@@ -81,14 +81,14 @@ ht-degree: 0%
 
 ## 验证同步 {#verify-sync}
 
-Marketo在“管理员”区域中为Veva CRM同步提供状态消息。 您可以按照以下步骤来验证同步是否正确工作。
+Marketo在管理区域提供Veeva CRM同步的状态消息。 您可以按照以下步骤验证同步是否正常工作。
 
-1. 在Marketo中，单击 **管理员**，则 **韦瓦**.
+1. 在Marketo中，单击 **管理员**，则 **Veeva**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-10.png)
 
-1. 同步状态显示在右上角。 它将显示三条消息之一：上次同步、正在同步或失败。
+1. 同步状态显示在右上角。 它将显示以下三条消息之一：“上次同步”、“正在同步”或“失败”。
 
 >[!MORELIKETHIS]
 >
->[配置自定义对象](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target=&quot;_blank&quot;}
+>[配置自定义对象](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}

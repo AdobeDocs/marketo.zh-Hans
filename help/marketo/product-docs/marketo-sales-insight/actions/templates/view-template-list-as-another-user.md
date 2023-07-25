@@ -1,19 +1,20 @@
 ---
-description: 以其他用户的身份查看模板列表 — Marketo文档 — 产品文档
-title: 以其他用户的身份查看模板列表
+description: 以其他用户身份查看模板列表 — Marketo文档 — 产品文档
+title: 以其他用户身份查看模板列表
 hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# 以其他用户的身份查看模板列表 {#view-template-list-as-another-user}
+# 以其他用户身份查看模板列表 {#view-template-list-as-another-user}
 
-作为管理员，您可以以任何用户身份查看模板。
+作为管理员，您可以查看任意用户的模板。
 
 >[!NOTE]
 >
@@ -23,14 +24,14 @@ ht-degree: 0%
 
    ![](assets/view-template-list-as-another-user-1.png)
 
-1. 单击 **查看方式** 下拉菜单，然后选择所需的用户。
+1. 单击 **查看方式** 下拉列表并选择所需的用户。
 
    ![](assets/view-template-list-as-another-user-2.png)
 
-1. 现在，您以选定用户的身份查看模板。
+1. 您现在正以选定用户的身份查看模板。
 
    ![](assets/view-template-list-as-another-user-3.png)
 
    >[!NOTE]
    >
-   >您还可以使用过滤器或搜索功能，以及 _查看方式_ 来查看与您最相关的内容。
+   >您还可以将过滤器或搜索功能与 _查看方式_ 查看与您最相关的内容。

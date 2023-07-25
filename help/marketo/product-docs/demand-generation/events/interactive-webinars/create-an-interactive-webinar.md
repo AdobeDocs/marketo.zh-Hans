@@ -1,50 +1,51 @@
 ---
-description: 建立互動式網路研討會 — Marketo檔案 — 產品檔案
-title: 建立互動式網路研討會
+description: 创建交互式网络研讨会 — Marketo文档 — 产品文档
+title: 创建交互式网络研讨会
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+feature: Interactive Webinars
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-# 建立互動式網路研討會 {#create-an-interactive-webinar}
+# 创建交互式网络研讨会 {#create-an-interactive-webinar}
 
-以幾個簡單的步驟建立互動式網路研討會。
+只需几个简单的步骤，即可创建交互式网络研讨会。
 
-1. 前往 **行銷活動**.
+1. 转到 **营销活动**.
 
    ![](assets/create-an-interactive-webinar-1.png)
 
-1. 以滑鼠右鍵按一下所需的資料夾，然後選取 **新計畫**.
+1. 右键单击所需的文件夹并选择 **新建项目群**.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. 為方案命名。 在計畫型別下，選擇 **事件**.
+1. 命名项目。 在项目类型下，选择 **事件**.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. 按一下管道下拉式清單並選取 **網路研討會**.
+1. 单击渠道下拉列表并选择 **网络研讨会**.
 
    ![](assets/create-an-interactive-webinar-4.png)
 
-1. 選擇 **互動式網路研討會** 並按一下 **下一個**.
+1. 选择 **交互式网络研讨会** 并单击 **下一个**.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
    >[!NOTE]
    >
-   >有關合作夥伴網路研討會的資訊，請參閱此處。
+   >有关合作伙伴网络研讨会的信息可在此处找到。
 
-1. 設定網路研討會的最大受眾人數和持續時間。
+1. 设置网络研讨会的最大受众规模以及持续时间。
 
    ![](assets/create-an-interactive-webinar-6.png)
 
-1. 排程網路研討會的日期/時間，然後按一下 **建立**.
+1. 安排网络研讨会的日期/时间并单击 **创建**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-您的互動式網路研討會隨即建立。 現在該是 [設計它](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+将创建交互式网络研讨会。 现在，是时候 [设计](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
 
 ![](assets/create-an-interactive-webinar-8.png)

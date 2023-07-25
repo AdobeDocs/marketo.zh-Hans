@@ -3,7 +3,8 @@ unique-page-id: 7512524
 description: 智能列表最佳实践 — Marketo文档 — 产品文档
 title: 智能列表的最佳实践
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
-source-git-commit: f9394067e74868ace9896cfe087fa624e5eda62c
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%

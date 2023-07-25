@@ -3,7 +3,8 @@ unique-page-id: 3571848
 description: Microsoft Dynamics同步 — 潜在客户同步 — Marketo文档 — 产品文档
 title: Microsoft Dynamics同步 — 潜在客户同步
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
-source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -14,34 +15,34 @@ ht-degree: 0%
 
 Marketo到Dynamics的同步功能非常强大。 以下是详细信息：
 
-## 这两个系统之间的详细信息如何保持同步？ {#how-are-details-kept-in-sync-between-the-two-systems}
+## 两个系统之间的详细信息如何保持同步？ {#how-are-details-kept-in-sync-between-the-two-systems}
 
 同步是双向的。 如果您对Dynamics中的潜在客户或Marketo中的人员进行了更改，则您的更新将反映在这两个系统中。
 
 >[!NOTE]
 >
->删除不会始终自动在两个方向上同步。 请参阅 [删除潜在客户或联系人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
+>删除并不总是自动在两个方向上同步。 参见 [删除潜在客户或联系人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
 
-## 如果同时对两个系统中的同一字段进行更改，该怎么办？ （数据冲突） {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
+## 如果两个系统中的同一字段同时发生更改，该怎么办？ （数据冲突） {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-尽管这种情况很少见，但Marketo将为人（领先者）赢得胜利，Dynamics将为联系人赢得胜利。 这是因为我们认为营销部门对人具有权威性，而官方的联系人记录系统在销售(CRM)部门。
+尽管这种情况很少见，但Marketo将为人员（潜在客户）带来优势，而Dynamics将为联系人带来优势。 这是因为我们认为营销部门对人具有权威性，而官方的联系人记录系统是在销售(CRM)部门。
 
-## 我能否使用Marketo在Dynamics中创建潜在客户？ {#can-i-create-a-lead-in-dynamics-using-marketo}
+## 我可以使用Marketo在Dynamics中创建潜在客户吗？ {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-是，使用 [将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) 流量操作。 如果潜在客户不存在，则在Dynamics中创建潜在客户。 如果潜在客户存在，流程步骤将不执行任何操作。
+是，使用 [将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) flow操作。 如果潜在客户不存在，这将在Dynamics中创建潜在客户。 如果商机确实存在，则流程步骤将不执行任何操作。
 
 >[!NOTE]
 >
 >使用“将人员同步到Microsoft”流程操作（仅在触发器促销活动中）时，将在Dynamics中实时创建潜在客户/联系人。
 
-## 我是否可以手动强制将人员从Marketo同步到Dynamics中的潜在客户？ {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
+## 我能否在Dynamics中手动强制将人员从Marketo同步到潜在客户？ {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-不能，自动后台同步是在Marketo和Dynamics之间同步更新的唯一方法。 的 [将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) “流”操作不会强制同步潜在客户。
+不需要，自动后台同步是在Marketo和Dynamics之间同步更新的唯一方法。 此 [将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) flow操作不会强制同步潜在客户。
 
-## 哪些字段将同步到Marketo? {#what-fields-will-sync-to-marketo}
+## 哪些字段将同步到Marketo？ {#what-fields-will-sync-to-marketo}
 
 您可以 [选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 设置期间。
 
 ## Marketo是否会遵守Dynamics验证规则？ {#will-marketo-respect-the-dynamics-validation-rules}
 
-是. 如果数据格式错误或缺少必填字段信息，则同步将失败。 如果发生这种情况，Marketo会在人员的活动日志中记录结果。
+是. 如果数据格式错误或缺少必填字段信息，同步将失败。 如果发生这种情况，Marketo会将结果记录在人员的活动日志中。

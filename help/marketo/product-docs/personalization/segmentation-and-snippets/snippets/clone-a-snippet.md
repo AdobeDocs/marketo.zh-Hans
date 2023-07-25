@@ -3,7 +3,8 @@ unique-page-id: 2359514
 description: 克隆代码片段 — Marketo文档 — 产品文档
 title: 克隆代码片段
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -26,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
-太棒了！ 现在，您可以根据自己的需求修改克隆的代码片段。
+太棒了！ 现在，您可以根据自己的需要修改克隆的代码片段。
 
 >[!MORELIKETHIS]
 >

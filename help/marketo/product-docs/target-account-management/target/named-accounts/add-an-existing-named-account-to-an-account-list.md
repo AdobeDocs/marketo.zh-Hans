@@ -1,28 +1,29 @@
 ---
 unique-page-id: 12615798
 description: 将现有的指定帐户添加到帐户列表 — Marketo文档 — 产品文档
-title: 将现有命名帐户添加到帐户列表
+title: 将现有的指定帐户添加到帐户列表
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# 将现有命名帐户添加到帐户列表 {#add-an-existing-named-account-to-an-account-list}
+# 将现有的指定帐户添加到帐户列表 {#add-an-existing-named-account-to-an-account-list}
 
-向帐户列表添加指定帐户非常简单。
+将指定帐户添加到帐户列表非常简单。
 
 >[!NOTE]
 >
->这仅适用于帐户列表， **not** 动态帐户列表。
+>这仅适用于帐户列表， **非** 动态帐户列表。
 
-1. 选择要添加到的已命名帐户的行。
+1. 选择要添加到的命名帐户的行。
 
    ![](assets/four-1.png)
 
-1. 单击 **命名帐户操作** 下拉框并选择 **添加到帐户列表**.
+1. 单击 **指定帐户操作** 下拉菜单并选择 **添加到帐户列表**.
 
    ![](assets/five-1.png)
 
@@ -30,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-   就这样！
+   就是这样！
 
 >[!MORELIKETHIS]
 >

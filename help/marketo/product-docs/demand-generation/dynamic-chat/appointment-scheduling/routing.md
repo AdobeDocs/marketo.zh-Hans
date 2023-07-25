@@ -1,8 +1,9 @@
 ---
-description: 路由 — Marketo文档 — 产品文档
+description: 路径 — Marketo文档 — 产品文档
 title: 路由
 exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
@@ -11,17 +12,17 @@ ht-degree: 1%
 
 # 路由 {#routing}
 
-可通过两种方式来发送在动态聊天中预订的会议。 轮循或使用自定义规则。
+以Dynamic Chat预订的会议可通过两种方式路由。 循环调度程序，或使用自定义规则。
 
-轮盘：会议按顺序分配给座席。 所以，如果你有五个探员和三号探员参加最后一次会议，四号探员会得到下一个，接着是五号探员，然后回到一号探员。
+轮询：会议按顺序分配给座席。 如果你有5个座席，3个座席，参加最后一个会议，4个座席，接着是5个座席，然后回到1号座席。
 
-自定义规则：您可以根据您选择的属性选择特定的座席来接收会议。
+自定义规则：您可以根据所选的属性选择特定座席来接收会议。
 
 ## 创建自定义规则 {#create-a-custom-rule}
 
-在本例中，我们将所有从CA、OR和WA的推断状态发送给John代理。
+在此示例中，我们将所有推断的状态为CA、OR和WA的会议发送给John座席。
 
-1. 在动态聊天中，选择 **路由**.
+1. 在Dynamic Chat中，选择 **路由**.
 
    ![](assets/routing-1.png)
 
@@ -33,7 +34,7 @@ ht-degree: 1%
 
    ![](assets/routing-3.png)
 
-1. 为您的规则指定一个名称并单击 **下一个**.
+1. 为规则命名，然后单击 **下一个**.
 
    ![](assets/routing-4.png)
 
@@ -41,7 +42,7 @@ ht-degree: 1%
 
    ![](assets/routing-5.png)
 
-1. 将鼠标拖动到所需的属性上。
+1. 拖动到所需的属性上。
 
    ![](assets/routing-6.png)
 

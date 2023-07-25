@@ -1,29 +1,30 @@
 ---
 unique-page-id: 2949253
-description: SEO — 移除/刪除傳入連結URL - Marketo檔案 — 產品檔案
-title: SEO — 移除/刪除傳入連結URL
+description: SEO — 删除/删除入站链接URL - Marketo文档 — 产品文档
+title: SEO — 删除/删除入站链接URL
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# SEO — 移除/刪除傳入連結URL {#seo-remove-delete-an-inbound-link-url}
+# SEO — 删除/删除入站链接URL {#seo-remove-delete-an-inbound-link-url}
 
-有時您會想要移除傳入連結。 方法如下：
+有时您会想要删除入站链接。 方法如下：
 
-1. 前往 **[!UICONTROL 傳入連結]** 區段。
+1. 转到 **[!UICONTROL 入站链接]** 部分。
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
-1. 暫留在您要刪除的傳入連結URL上。
+1. 将鼠标悬停在要删除的入站链接URL上。
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
-1. 按一下 **[!UICONTROL 移除]**.
+1. 单击 **[!UICONTROL 移除]**.
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-您現在已刪除此傳入連結。
+您现在已删除此入站链接。

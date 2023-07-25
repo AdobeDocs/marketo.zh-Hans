@@ -1,225 +1,226 @@
 ---
 unique-page-id: 2949469
-description: 設定步驟 — Marketo檔案 — 產品檔案
-title: 設定步驟
+description: 设置步骤 — Marketo文档 — 产品文档
+title: 设置步骤
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '2043'
 ht-degree: 0%
 
 ---
 
-# 設定步驟 {#setup-steps}
+# 设置步骤 {#setup-steps}
 
-**歡迎使用Marketo Engage！**
+**欢迎使用Marketo Engage！**
 
-在開始使用Marketo之前，您需要完成一些步驟。
+在深入研究使用Marketo之前，您需要完成以下几个步骤。
 
-這些步驟包括：
+这些步骤包括：
 
-* 一些基本帳戶設定
-* 品牌化登陸頁面URL和電子郵件連結，以改善信任度和傳遞能力
+* 一些基本帐户设置
+* 将登陆页面URL和电子邮件链接品牌化，以提高信任度和可投放性
 * 正在同步您的CRM
-* 將追蹤程式碼新增至您的公司網站
+* 将跟踪代码添加到您的公司网站
 
 >[!NOTE]
 >
->如果您的公司有以下需求，您才需要執行這些步驟 **Marketo的新手**. 如果沒有，則可能已完成設定。
+>仅当贵公司满足以下条件时，才需要执行这些步骤 **Marketo新手**. 如果没有，则可能已完成设置。
 
-部分步驟需要您的IT團隊協助。
+某些步骤需要IT团队的帮助。
 
 >[!TIP]
 >
->若您 [列印這份檢查清單](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}，您可在完成專案時將其核取。
+>如果您 [打印此核对清单](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}，您可以在完成项目时将其签出。
 
-## 登入並建立其他Marketo使用者 {#log-in-and-create-additional-marketo-users}
+## 登录并创建其他Marketo用户 {#log-in-and-create-additional-marketo-users}
 
-登入Marketo [此處](https://app.marketo.com/){target="_blank"} 使用您透過電子郵件收到的認證。
+登录到Marketo [此处](https://app.marketo.com/){target="_blank"} 使用您通过电子邮件收到的凭据。
 
 ![](assets/setup-steps-1.png)
 
-恭喜！您現在在Marketo中，可以開始探索。 您可能會想要邀請行銷團隊中的同事加入您。 您可以新增使用者來完成此操作。
+恭喜！您现在在Marketo中，可以开始探索。 您可能需要邀请营销团队中的同事加入您。 您可以通过添加新用户来完成此操作。
 
-前往 **[!UICONTROL 管理員]** 區域。
+转到 **[!UICONTROL 管理员]** 区域。
 
 >[!TIP]
 >
->當您在這裡時，您可以按一下 **[!UICONTROL 我的帳戶]** 以變更您的帳戶和位置設定，以及設定新的訂閱名稱。
+>在此，您可以单击 **[!UICONTROL 我的帐户]** 以更改您的帐户和位置设置，并设置新的订阅名称。
 
 ![](assets/setup-steps-2.png)
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理员权限**
 
-按一下 **[!UICONTROL 使用者和角色]**.
+单击 **[!UICONTROL 用户和角色]**.
 
 ![](assets/setup-steps-3.png)
 
-按一下 **[!UICONTROL 邀請新使用者]**.
+单击 **[!UICONTROL 邀请新用户]**.
 
 ![](assets/setup-steps-4.png)
 
-填寫同事的電子郵件地址、名字和姓氏。 _可選擇設定存取到期日_. 按一下 **[!UICONTROL 下一個]**.
+填写同事的电子邮件地址、名字和姓氏。 _设置访问过期日期是可选的_. 单击 **[!UICONTROL 下一个]**.
 
 ![](assets/setup-steps-5.png)
 
 >[!TIP]
 >
->到期日非常適合短期的外部利害關係人或顧問，因為他們只需要短時間的Marketo存取權。
+>对于短期外部利益相关者或仅需要在短时间内获得Marketo访问权限的顾问而言，截止日期非常有用。
 
 >[!NOTE]
 >
->到期日到達時，使用者會收到到期通知，且帳戶會遭鎖定。
+>到达过期日期时，用户会收到过期通知，帐户将被锁定。
 
-選取角色並按一下 **[!UICONTROL 下一個]**. 標準使用者可存取除「管理員」以外的所有區域。
+选择角色并单击 **[!UICONTROL 下一个]**. Standard用户有权访问除“管理员”之外的所有区域。
 
 ![](assets/setup-steps-6.png)
 
 >[!NOTE]
 >
->除了五個內建角色外，您還可以建立自訂角色。 進一步瞭解 [管理使用者角色和許可權](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>除了五个内置角色外，您还可以创建自定义角色。 详细了解 [管理用户角色和权限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
-您可以隨意調整邀請文字。 按一下 **傳送**.
+请随意修改邀请文本。 单击 **发送**.
 
 ![](assets/setup-steps-7.png)
 
-新使用者現在會列在 **[!UICONTROL 使用者]** 索引標籤上，和應該會收到一封電子郵件，其中包含建立密碼和登入的連結。 下一步！
+新用户现在列在 **[!UICONTROL 用户]** 选项卡，和应会收到一封电子邮件，其中包含创建密码和登录名的链接。 下一步！
 
 ![](assets/setup-steps-8.png)
 
-## 設定您的授權支援連絡人 {#set-up-your-authorized-support-contacts}
+## 设置您的授权支持联系人 {#set-up-your-authorized-support-contacts}
 
-您可能會收到Marketo支援的電子郵件，說明您是貴公司的Marketo客戶支援管理員。 若是如此，您可以設定 **授權支援聯絡人** 您的團隊的。 Marketo只有授權支援聯絡人可以直接透過 [Marketo支援入口網站](https://support.marketo.com){target="_blank"}.
-
->[!NOTE]
->
->您可以建立的支援聯絡人數量由您購買的套件決定。 此限制是在您來自Marketo支援的電子郵件中指定的。
-
-授權支援聯絡檔案已移至Marketo社群。 請參閱 [本文](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
+您可能已收到Marketo支持部门的一封电子邮件，说明您是贵公司的Marketo客户支持管理员。 如果是这样，您可以设置 **授权支持联系人** 为你的团队准备的。 Marketo只有授权支持联系人才能直接通过 [Marketo支持门户](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
->清單中只會顯示已登入Marketo社群的使用者。 如果您找不到該人員，請確定他們先登入社群。
+>您可以创建的支持联系人数目取决于您购买的产品包。 此限制在来自Marketo支持的电子邮件中指定。
 
-## 使用CNAME自訂您的登陸頁面URL {#customize-your-landing-page-urls-with-a-cname}
-
->[!NOTE]
->
->您是Launch Pack客戶嗎？ 您可以略過此步驟。 您的顧問會在您的啟動電話會議期間，為您提供IT設定指示檔案。
+授权支持联系人文档已移至Marketo社区。 请参阅 [本文](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>只有登录到Marketo社区的用户才会显示在列表中。 如果找不到此人，请确保他们先登录到社区。
 
-選擇登入頁面的CNAME。 部分範例：
+## 使用CNAME自定义登陆页面URL {#customize-your-landing-page-urls-with-a-cname}
 
-    * **go**。[CompanyDomain].com
+>[!NOTE]
+>
+>您是Launch Pack客户吗？ 您可以跳过此步骤。 您的顾问将在启动电话会议期间为您提供一份IT设置说明文档。
+
+>[!NOTE]
+>
+>**需要管理员权限**
+
+为登陆页面选择一个CNAME。 一些示例：
+
+    * **开始**。[CompanyDomain].com
     * **www2**.[CompanyDomain].com
     * **lp**.[CompanyDomain].com
 
 >[!TIP]
 >
->保持簡短！ 較短的URL更容易記憶。 我們建議使用「前往」作為網域。
+>保持简短！ 较短的URL更容易记忆。 我们建议“开始”作为域。
 
-第一部分（粗體）為 `[LandingPageCNAME]`. 您在步驟5中需要它。
+第一部分（粗体）是 `[LandingPageCNAME]`. 在步骤5中需要它。
 
-若要擷取您將會以登陸頁面CNAME取代的Munchkin ID，請前往管理區域。
+要检索将用登陆页面CNAME替换的Munchkin ID，请转到“管理”区域。
 
 ![](assets/setup-steps-9.png)
 
-按一下 **我的帳戶**.
+单击 **我的帐户**.
 
 ![](assets/setup-steps-10.png)
 
-複製 [!UICONTROL 帳戶字串] 從登入頁面設定。
+复制 [!UICONTROL 帐户字符串] 登陆页面设置中的。
 
 ![](assets/setup-steps-11.png)
 
-這是 `[Munchkin ID]`. 儲存它。 您必須在步驟5中將其提供給IT。
+这是 `[Munchkin ID]`. 保存它。 在步骤5中，您需要将它提供给IT。
 
-設定您的網域設定，讓登陸頁面使用您公司的網域，而非Marketo （託管位置）。
+配置您的域设置，以便登陆页面使用您公司的域，而不是Marketo的域（这些页面的托管位置）。
 
-## 確保電子郵件傳遞能力 {#ensure-email-deliverability}
+## 确保电子邮件可投放性 {#ensure-email-deliverability}
 
 >[!NOTE]
 >
->您是Launch Pack客戶嗎？ 您可以略過此步驟。 您的顧問會在您的啟動電話會議期間，為您提供IT設定指示檔案。
+>您是Launch Pack客户吗？ 您可以跳过此步骤。 您的顾问将在启动电话会议期间为您提供一份IT设置说明文档。
 
-您可以採取幾項措施，確保電子郵件儘可能送達更多的人。
+可以采取多种措施确保电子邮件可送达尽可能多的用户。
 
-* **品牌化追蹤連結**. 您可以選擇CNAME，在您從Marketo加入的電子郵件連結中使用自己的網域(而不是Marketo)。 這加強了您的網域品牌化，並增加了與收件者的信任度和可遞送性。
-* **將Marketo新增至您的公司電子郵件允許清單。** 在將電子郵件傳送給實際使用者之前，將測試電子郵件傳送給測試帳戶是常見的最佳做法。 透過將Marketo加入允許清單，您可以防止這些測試電子郵件被封鎖或標籤為垃圾訊息。
-* **設定SPF和DKIM。** 這些技術可讓您的收件者確信，您的Marketo電子郵件不是垃圾郵件。 若要協助防止收件者的垃圾郵件篩選器拒絕您Marketo電子郵件，請按照以下步驟執行 [設定電子郵件傳遞能力的SPF和DKIM](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-* **為您的網域設定MX記錄。** MX記錄可讓您接收寄送電子郵件至之網域的郵件，以處理回覆及自動回應。 如果您從公司網域傳送，則可能已設定此專案。 如果沒有，您通常可以設定對應到您公司網域的MX記錄。
-* **寄件者地址的建議設定。** 您必須在所有電子郵件行銷活動的「寄件者地址」中使用有效的、現有的和工作中的電子郵件網域。 設定公司網域的子網域比從公司網域傳送可能更有幫助。 這將確保企業郵件流中的問題不會影響您的Marketo郵件流，反之亦然。 此外，傳送郵件自 `something@nonexistentdomain.com` 將導致篩選或封鎖電子郵件。 寄件者寄件者地址中使用的任何網域都必須具備有效且正常運作的郵局主管@和濫用@帳戶。
+* **品牌化您的跟踪链接**. 您可以选择CNAME来使用您自己的域(而不是Marketo)，这些域包含在Marketo电子邮件中。 这加强了您的域品牌化，并增加了与收件人的信任和可投放性。
+* **将Marketo添加到您的公司电子邮件允许列表。** 向实际用户发送电子邮件之前，向测试帐户发送测试电子邮件是一种常见的最佳实践。 通过列入允许列表Marketo，您可以防止这些测试电子邮件被阻止或标记为垃圾邮件。
+* **设置SPF和DKIM。** 这些技术可确保收件人您的Marketo电子邮件不是垃圾邮件。 要帮助防止收件人的垃圾邮件过滤器拒绝您Marketo电子邮件，请执行以下步骤 [为您的电子邮件可投放性设置SPF和DKIM](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **为域设置MX记录。** MX记录允许您接收发往您发送电子邮件的域的邮件，以处理回复和自动回复。 如果您从公司域发送，则可能已配置此项。 如果不能，则通常可以设置为映射到企业域的MX记录。
+* **发件人地址的推荐设置。** 您必须在所有电子邮件营销活动的“发件人地址”中使用有效的、现有的和工作中的电子邮件域。 配置公司域的子域而不是从公司域发送可能很有用。 这将确保公司邮件流中的问题不会影响您的Marketo邮件流，反之亦然。 此外，发送来自 `something@nonexistentdomain.com` 将导致筛选或阻止电子邮件。 发件人的“发件人地址”中使用的任何域都必须具有有效且正常工作的邮局主管@和abuse@帐户。
 
-如果您使用Google應用程式來託管公司電子郵件，則無法在您的網域下建立濫用@或郵遞員@電子郵件。 若要解決此問題，您需要建立名為「濫用」和「郵遞員」的群組。 屬於這些群組成員的使用者將會收到傳送至這些地址的電子郵件(例如postmaster@domain.com)。 建立群組的詳細指示可找到 [此處](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+如果您使用Google Apps托管公司电子邮件，则无法在您的域下创建abuse@或postmaster@电子邮件。 要解决此问题，您需要创建名为“滥用”和“邮递员”的组。 作为这些组成员的用户将收到发送到这些地址的电子邮件(例如，postmaster@domain.com)。 有关创建组的详细说明，请参阅 [此处](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
-選擇用於電子郵件追蹤連結的CNAME (選擇一個 _不同_ （從您在步驟3中選擇的登陸頁面CNAME）。 部分範例：
+为电子邮件跟踪链接选择一个CNAME(选择一个 _不同_ （从您在步骤3中选择的登陆页面CNAME中获取）。 一些示例：
 
-* go2。[CompanyDomain].com
-* em.[CompanyDomain].com
-* 哇！[CompanyDomain].com
+* go2。[公司域].com
+* em.[公司域].com
+* 哇！[公司域].com
 
-第一部分是電子郵件追蹤CNAME， `[EmailTrackingCNAME]`. 您必須在步驟5中將其提供給IT。
+第一部分是电子邮件跟踪CNAME， `[EmailTrackingCNAME]`. 在步骤5中，您需要将它提供给IT。
 
 >[!CAUTION]
 >
->電子郵件和登陸頁面CNAME必須不同。 此外，請避免CNAME，例如「track」或「link」。 它通常被標籤為垃圾訊息
+>电子邮件和登陆页面CNAME必须不同。 此外，请避免使用“track”或“link”之类的CNAME。 它通常被标记为垃圾邮件
 
-若要尋找Marketo追蹤連結，請前往 **[!UICONTROL 管理員]** 區域。
+要查找您的Marketo跟踪链接，请转到 **[!UICONTROL 管理员]** 区域。
 
 ![](assets/setup-steps-12.png)
 
-按一下 **[!UICONTROL 電子郵件]**.
+单击 **[!UICONTROL 电子邮件]**.
 
 ![](assets/setup-steps-13.png)
 
-複製 [!UICONTROL 追蹤連結] 來自您的電子郵件設定。
+复制 [!UICONTROL 跟踪链接] 从您的电子邮件设置中。
 
-此 [!UICONTROL 追蹤連結] 格式為： `mkto-[a-z][4 digits].com`.
+此 [!UICONTROL 跟踪链接] 采用以下形式： `mkto-[a-z][4 digits].com`.
 
 ![](assets/setup-steps-14.png)
 
-這是您的 `[MktoTrackingLink]`. 儲存它。 您必須在步驟5中將其提供給IT。
+这是您的 `[MktoTrackingLink]`. 保存它。 在步骤5中，您需要将它提供给IT。
 
-收集「來自」網域。 建立所有「寄件者」網域的清單(如 `[Sender]@[FromDomain].com`)，並計畫用於從Marketo傳送電子郵件。 多數情況下，只有一個選項。
+收集“发件人”域。 生成所有“发件人”域的列表（如所示） `[Sender]@[FromDomain].com`)来发送来自Marketo的电子邮件。 对大多数人来说，只有一个问题。
 
-例如，&#39;marketo.com，&#39; &#39;info.marketo.com，&#39;。 這些是 `[FromDomain1]`，`[FromDomain2]`等。 儲存它們。 您必須在步驟5中將其提供給IT。
+例如，“marketo.com，”“info.marketo.com，”。 这些是 `[FromDomain1]`，`[FromDomain2]`等。 保存它们。 在步骤5中，您需要将它们提供给IT。
 
-您現在擁有傳送要求給IT所需的所有資訊！
+您现在拥有向IT部门发送请求所需的所有信息！
 
-## 要求IT人員設定通訊協定 {#ask-it-to-configure-protocols}
-
->[!NOTE]
->
->您是Launch Pack客戶嗎？ 您可以略過此步驟。 您的顧問會在您的啟動電話會議期間，為您提供IT設定指示檔案。
-
-收集完所有必要資訊後，您就可以向IT傳送要求了。 您可以使用下列文字做為範本，將粗體文字取代為您自己的資訊。
-
-[加入本文的連結](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
-
-將此文字貼到電子郵件中，並取代粗體預留位置：
+## 要求IT配置协议 {#ask-it-to-configure-protocols}
 
 >[!NOTE]
 >
->請參閱上述步驟3和4，決定取代預留位置的文字。 請記住 `[LandingPageCNAME]` 和 `[EmailTrackingCNAME]` 必須不同。
+>您是Launch Pack客户吗？ 您可以跳过此步骤。 您的顾问将在启动电话会议期间为您提供一份IT设置说明文档。
+
+收集完所有必要信息后，即可向IT部门发送请求。 您可以将以下文本用作模板，将粗体文本替换为您自己的信息。
+
+[包含指向本文的链接](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
+
+将此文本粘贴到电子邮件中，并替换粗体占位符：
+
+>[!NOTE]
+>
+>请参阅上述步骤3和4以确定替换占位符的文本。 请记住 `[LandingPageCNAME]` 和 `[EmailTrackingCNAME]` 必须不同。
 
 `----------------------------------------------`
 
-尊敬的IT管理員：
+尊敬的IT管理员：
 
-我們的行銷團隊現在正使用Marketo平台與我們的人員溝通。 為確保出色的電子郵件傳遞能力，我們需要進行下列變更：
+我们的营销团队现在使用Marketo平台与我们的人员沟通。 为确保出色的电子邮件可投放性，我们需要进行以下更改：
 
-`1)` 對於我們的登入頁面，新增DNS專案(CNAME) **[LandingPageCNAME]**.**[CompanyDomain]**.com，指向 **[Munchkin ID]**.mktoweb.com.
+`1)` 对于我们的登陆页面，为添加一个DNS条目(CNAME) **[LandingPageCNAME]**.**[公司域]**.com，指向 **[Munchkin ID]**.mktoweb.com.
 
-`2)` 針對電子郵件中的追蹤連結，新增DNS專案(CNAME) **[EmailTrackingCNAME]**.**[CompanyDomain]**.com，指向 **[MktoTrackingLink]**.
+`2)` 对于电子邮件中的跟踪链接，为添加一个DNS条目(CNAME) **[EmailTrackingCNAME]**.**[公司域]**.com，指向 **[MktoTrackingLink]**.
 
-`3)` 將Marketo加入允許清單。
+`3)` 允许列表Marketo。
 
-    *如果在電子郵件允許清單中使用IP位址，請新增下列的IP：
+    *如果在电子邮件允许列表中使用IP地址，请添加下面列出的IP：
     199.15.212.0/22
     
     192.28.144.0/20
@@ -238,111 +239,111 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您想要取得特定於您環境的IP允許清單的縮寫，請聯絡Marketo支援。
+>如果您希望获得特定于您环境的IP的缩写列表，请联系Marketo允许列表支持。
 
-    *如果我們的反垃圾郵件系統使用「寄件者」網域，請新增以下內容：
+    *如果我们的反垃圾邮件系统使用“发件人”域，请添加以下内容：
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
 
-`4)` 我們需要設定SPF和DKIM，以便Marketo有權代表我們傳送已簽署的電子郵件。
+`4)` 我们需要设置SPF和DKIM，以便Marketo有权代表我们发送签名电子邮件。
 
-`a.` 若要設定SPF，請在我們的DNS專案中新增下列行：
+`a.` 要设置SPF，请在DNS条目中添加以下行：
 
-在TXT中 **[來自網域]**： v=spf1 mx ip4：**[公司IP]**
-<br/>包含： mktomail.com ~all
+在TXT中 **[从域]**： v=spf1 mx ip4：**[公司IP]**
+<br/>包括： mktomail.com ~all
 
-如果我們的DNS專案已經有現有的SPF記錄，只需新增下列內容即可：
+如果我们的DNS条目中已有SPF记录，只需将以下内容添加到其中：
 
 include：mktomail.com
 
-`[`Replace **來自網域** 使用您的電子郵件來自網域(例如： company.com)和 **CorpIP** 企業電子郵件伺服器的IP位址（例如：255.255.255.255）。  如果您要透過Marketo從多個網域傳送電子郵件，應讓IT人員為每個網域新增此行（一行）。`]`
+`[`Replace **从域** 使用您的电子邮件发件人域(例如： company.com)和 **公司IP** （例如： 255.255.255.255）。  如果您要通过Marketo从多个域发送电子邮件，则应让IT员工为每个域添加此行（在一行中）。`]`
 
-`b.` 對於DKIM，請針對我們要設定的每個網域建立DNS資源記錄。 我們將簽署的每個網域的主機記錄和TXT值如下：
+`b.` 对于DKIM，请为我们要设置的每个域创建DNS资源记录。 下面是我们要签名的每个域的主机记录和TXT值：
 
-**`[DKIMDomain1]`**：主機記錄為 **`[HostRecord1]`** 且TXT值為 **[TXTValue1]**.
+**`[DKIMDomain1]`**：主机记录为 **`[HostRecord1]`** 并且TXT值为 **[TXTValue1]**.
 
-**`[DKIMDomain2]`**：主機記錄為 **`[HostRecord2]`** 且TXT值為 **`[TXTValue2]`**.
+**`[DKIMDomain2]`**：主机记录为 **`[HostRecord2]`** 并且TXT值为 **`[TXTValue2]`**.
 
-`[`複製 **主機記錄** 和 **TXTValue** 針對每個 **Dkimdomain** 您在遵循以下步驟後完成設定 [此處提供指示](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). 別忘了驗證中的每個網域 **管理員>電子郵件> DKIM** 在您的IT人員完成此步驟之後。`]`
+`[`复制 **Hostrecord** 和 **TXTValue** 每个 **DKIMDomain** 您在遵循以下步骤后进行了设置 [此处说明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). 不要忘记验证中的每个域 **管理员>电子邮件> DKIM** 在IT员工完成此步骤之后。`]`
 
-`5)` 我們需要確保我們的FROM網域有有效的MX記錄 **[FromDomain1]**， **[FromDomain2]**&#x200B;等。 您能確認嗎？ 如果沒有，請設定以對應到我們的公司網域MX記錄。 這將確保我們能夠處理Marketo郵件的回覆/自動回應者。
+`5)` 我们需要确保我们的FROM域有有效的MX记录 **[FromDomain1]**， **[FromDomain2]**&#x200B;等。 你能确认一下吗？ 如果没有，请配置以映射到我们的公司域MX记录。 这将确保我们可以处理对Marketo邮件的回复/自动响应者。
 
-完成這些步驟後請通知我，以便我使用Marketo完成設定程式。
+完成这些步骤后，请通知我，以便我可以使用Marketo完成设置过程。
 
-感謝您！ 你是最棒的！
+谢谢！ 你是最好的！
 
-愛，
+爱情，
 
 **`[Your Name]`**
 
 `----------------------------------------------`
 
-傳送電子郵件給IT。 我們瞭解IT可能需要一些時間才能完成這些工作。 您可以繼續步驟7，但請記住，您必須傳回步驟6才能完成Marketo設定。
+向IT部门发送电子邮件。 我们理解，IT可能需要一些时间才能完成这些任务。 您可以继续执行步骤7，但请记住，您必须返回步骤6才能完成Marketo设置。
 
-## 完成Marketo設定後 {#complete-your-marketo-setup-after-it-finishes}
+## 在IT完成后完成您的Marketo设置 {#complete-your-marketo-setup-after-it-finishes}
 
-在IT完成其工作後，請依照下列步驟新增您的登陸頁面和電子郵件CNAME，並啟動DKIM簽署。
+在IT人员完成其任务后，请按照以下步骤添加登陆页面和电子邮件CNAME，并激活DKIM签名。
 
-前往 **[!UICONTROL 管理員]** 新增登陸頁面CNAME的區域
+转到 **[!UICONTROL 管理员]** 区域以添加您的登陆页面CNAME
 
 ![](assets/setup-steps-15.png)
 
-選取登入頁面並按一下 **[!UICONTROL 編輯]** 在 [!UICONTROL 設定] 區域。
+选择登陆页面并单击 **[!UICONTROL 编辑]** 在 [!UICONTROL 设置] 区域。
 
 ![](assets/setup-steps-16.png)
 
-在欄位中輸入您的新網域名稱 **[!UICONTROL 登陸頁面的網域名稱]**. 其形式應為：
+在字段中输入新域名 **[!UICONTROL 登陆页面的域名]**. 此格式应为：
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-17.png)
 
-在 **[!UICONTROL 遞補內容]** 頁面欄位中，輸入當登陸頁面無法使用時，您希望人們前往的URL。 如果您沒有後援頁面，可以使用公司首頁。 在 **[!UICONTROL 首頁]** 欄位中，輸入您的公司網站。
+在 **[!UICONTROL 回退]** 页面字段中，输入在登陆页面不可用时要用户转到的URL。 如果没有回退页，则可以使用公司主页。 在 **[!UICONTROL 主页]** 字段，输入公司网站。
 
 ![](assets/setup-steps-18.png)
 
-在 [!UICONTROL 管理員] 區域，選取 **[!UICONTROL 電子郵件]** 新增電子郵件CNAME的方式
+在 [!UICONTROL 管理员] 区域，选择 **[!UICONTROL 电子邮件]** 添加电子邮件CNAME
 
 ![](assets/setup-steps-19.png)
 
-向下捲動至 [!UICONTROL 品牌化網域]. 選取您的網域並按一下 **[!UICONTROL 編輯]**.
+向下滚动到 [!UICONTROL 品牌推广域]. 选择您的域并单击 **[!UICONTROL 编辑]**.
 
 ![](assets/setup-steps-20.png)
 
-在「網域」欄位中，輸入您的電子郵件追蹤網域。 其形式應為：
+在域字段中，输入电子邮件跟踪域。 此格式应为：
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. 按一下 **[!UICONTROL 儲存]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. 单击 **[!UICONTROL 保存]**.
 
 ![](assets/setup-steps-21.png)
 
-## 整合您的CRM {#integrate-your-crm}
+## 集成您的CRM {#integrate-your-crm}
 
-這可能是您設定中最令人興奮的步驟 — 您應該使用所有您在CRM中儲存的銷售機會和聯絡人來填滿Marketo！
+这可能是设置过程中最令人兴奋的步骤 — 是时候用存储在CRM中的所有潜在客户和联系人来填充Marketo了！
 
-根據貴公司使用的CRM，從下列專案中選擇。
+根据贵公司使用的CRM，从以下内容中进行选择。
 
-    * [整合Marketo與 [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [整合Marketo與 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
-
->[!NOTE]
->
->您需要公司的CRM管理員協助才能完成這些步驟。
-
-## 新增追蹤程式碼至您的網站 {#add-tracking-code-to-your-website}
+    * [将Marketo与集成 [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [将Marketo与集成 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
->您是否為 [!DNL Launch Pack] 客戶？ 您可以略過此步驟。 您的顧問會為您提供 [!DNL Munchkin] IT設定指示檔案中的程式碼指示。
+>您需要公司的CRM管理员的帮助来完成这些步骤。
 
-Marketo有自訂追蹤JavaScript (稱為 [!DNL Munchkin])來追蹤個人在任何網頁上的活動。 [!DNL Munchkin] 需要將您的網站整合至Marketo。 請依照下列步驟執行 [新增 [!DNL Munchkin] 追蹤程式碼至您的網站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+## 将跟踪代码添加到您的网站 {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->需要HTML體驗才能新增追蹤程式碼。
+>您是 [!DNL Launch Pack] 客户？ 您可以跳过此步骤。 您的顾问将为您提供 [!DNL Munchkin] IT设置说明文档中的代码说明。
 
-## 效能期望 {#performance-expectations}
+Marketo具有自定义跟踪JavaScript(称为 [!DNL Munchkin])，可用于跟踪任何网页上的人员活动。 [!DNL Munchkin] 需要将您的网站集成到Marketo中。 按照以下步骤执行 [添加 [!DNL Munchkin] 跟踪网站的代码](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
-Marketo的效能有何期望？ 視行銷活動的規模和複雜性而定，可能會有所不同。 但您可以預期效能等級與以下表格中的「標準」欄中所列的相同： [Marketo Engage產品說明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+>[!NOTE]
+>
+>需要具有HTML的体验才能添加跟踪代码。
 
-您的所有設定步驟都已完成。 只剩下深入瞭解並使用Marketo了！
+## 性能期望 {#performance-expectations}
+
+从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，您可以期望在 [Marketo Engage产品描述](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+
+您的所有设置步骤都已结束。 只剩下深入了解并使用Marketo了！

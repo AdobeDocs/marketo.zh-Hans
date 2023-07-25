@@ -3,16 +3,17 @@ unique-page-id: 14746177
 description: 重新订阅取消订阅 — Marketo文档 — 产品文档
 title: 重新订阅取消订阅
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 重新订阅取消订阅 {#resubscribing-an-unsubscribe}
 
-有时，人们会想要选择退回接收电子邮件。 下面介绍如何使取消订阅的邮件再次发送。
+有时候，人们会选择重新接收电子邮件。 下面是如何使取消订阅再次可邮寄。
 
 >[!NOTE]
 >
@@ -20,26 +21,26 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->在重新订阅某人之前，您应该能够证明重新订阅授权已记录并符合所有适用法律。
+>在重新订阅某个人之前，您应该能够证明已记录重新订阅该人员的授权并遵守所有适用法律。
 
 >[!NOTE]
 >
->如果已打开取消订阅同步，则必须从ToutApp中删除取消订阅，并在Salesforce中取消选择退订，以便人员记录不再同步。
+>如果已打开取消订阅同步，则必须从ToutApp中移除取消订阅，并取消选中Salesforce中的选择退出，以便人员记录不再同步。
 
-1. 转到 [Web应用程序](https://toutapp.com/login) 单击 **人员**.
+1. 转到 [Web应用程序](https://toutapp.com/login) 并单击 **人员**.
 
 1. 选择人员以打开人员详细信息视图。
 
    ![](assets/two.png)
 
-1. 单击“人员详细信息”视图中的三个圆点，然后选择 **删除取消订阅**.
+1. 单击人员详细信息视图中的三个圆点，然后选择 **删除取消订阅**.
 
    ![](assets/three.png)
 
-1. 选择人员被选择回访以接收电子邮件的原因，然后单击 **删除取消订阅**.
+1. 选择人员重新选择接收电子邮件的原因，然后单击 **删除取消订阅**.
 
    ![](assets/four.png)
 
 >[!NOTE]
 >
->如果已打开取消订阅同步，则必须在Salesforce中取消选中记录中的选择退订框，否则夜间同步将在Sales Connect中重新取消该人员的订阅，因为它将检测到该人员在Salesforce中已选择退订。 如果其中任一记录被选择退订/取消订阅，则同步将如此标记链接的记录。
+>如果已打开unsubscribe同步，则还必须在Salesforce中取消选中记录上的选择退出框，否则夜间同步将在Sales Connect中重新取消订阅该人员，因为它将检测到该人员在Salesforce中被选择退出。 如果选择退出/取消订阅其中任何一条记录，则同步会将链接的记录标记为已取消订阅。

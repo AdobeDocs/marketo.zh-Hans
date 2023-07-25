@@ -1,16 +1,17 @@
 ---
 unique-page-id: 1900573
-description: 在电子邮件中添加系统令牌作为链接 — Marketo文档 — 产品文档
-title: 在电子邮件中将系统令牌添加为链接
+description: 将系统令牌作为链接添加到电子邮件中 — Marketo文档 — 产品文档
+title: 添加系统令牌作为电子邮件中的链接
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
-source-git-commit: 65caed388ac33fc9f3142102343fe43ebc186e6e
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# 在电子邮件中将系统令牌添加为链接 {#add-a-system-token-as-a-link-in-an-email}
+# 添加系统令牌作为电子邮件中的链接 {#add-a-system-token-as-a-link-in-an-email}
 
 您可以使用这些系统令牌来自定义特殊链接在电子邮件中的位置。
 
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这些令牌将 **not** 可点击，除非在锚点链接中。 此外，他们还可以 **not** 嵌入到我的令牌中。
+>这些令牌将 **非** 除非位于锚点链接内部，否则为可单击的。 此外，他们可以 **非** 嵌入到“我的令牌”中。
 
 以下是如何将它们添加到电子邮件中：
 
@@ -30,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. 在可编辑区域中双击。
+1. 双击可编辑区域。
 
    ![](assets/two-1.png)
 
@@ -44,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >复制/粘贴您需要的令牌： **`{{system.forwardToFriendLink}}`** 或 **`{{system.unsubscribeLink}}`** 或 **`{{system.viewAsWebpageLink}}`**
+   >复制/粘贴所需的令牌： **`{{system.forwardToFriendLink}}`** 或 **`{{system.unsubscribeLink}}`** 或 **`{{system.viewAsWebpageLink}}`**
 
 1. 单击 **保存**.
 
@@ -52,10 +53,10 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->如果您使用此方法添加“viewAsWebpageLink”系统令牌，则可以 **not** 使用令牌覆盖它。 请改为使用 [将“查看为网页”链接添加到电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) 方法，允许您使用令牌覆盖“viewAsWebPageLink”。
+>如果您使用此方法添加“viewAsWebPageLink”系统令牌，则可以 **非** 使用令牌覆盖它。 请改用 [将视图作为网页链接添加到电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) 方法，允许您使用令牌覆盖“viewAsWebPageLink”。
 
 >[!NOTE]
 >
->别忘了 [批准电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) 完成时。
+>别忘了 [批准您的电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) 完成时。
 
-干得好！ 现在，您已了解如何在电子邮件中将系统令牌添加为链接。
+做得好！ 现在，您知道如何将系统令牌作为链接添加到电子邮件中。

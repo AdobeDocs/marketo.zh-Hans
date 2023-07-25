@@ -1,41 +1,42 @@
 ---
 unique-page-id: 2949228
-description: SEO — 取得傳入連結建議 — Marketo檔案 — 產品檔案
-title: SEO — 取得傳入連結建議
+description: SEO — 获取入站链接建议 — Marketo文档 — 产品文档
+title: SEO — 获取入站链接建议
 exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# SEO — 取得傳入連結建議 {#seo-get-inbound-link-suggestions}
+# SEO — 获取入站链接建议 {#seo-get-inbound-link-suggestions}
 
-Marketo可建議對您有價值的傳入連結 [頁面外最佳化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo可以建议对您有价值的入站链接 [页面外优化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-1. 前往 **[!UICONTROL 傳入連結]** 區段。
+1. 转到 **[!UICONTROL 入站链接]** 部分。
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
-1. 按一下 **[!UICONTROL 取得建議]**.
+1. 单击 **[!UICONTROL 获取建议]**.
 
    ![](assets/image2014-9-18-13-3a21-3a8.png)
 
-1. 輸入關鍵字。 按一下 **[!UICONTROL 建議連結]**.
+1. 输入关键字。 单击 **[!UICONTROL 建议链接]**.
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
-1. 選取連結。 按一下 **[!UICONTROL 新增選取專案]**.
+1. 选择链接。 单击 **[!UICONTROL 添加选定项]**.
 
    ![](assets/image2014-9-18-13-3a21-3a40.png)
 
    >[!TIP]
    >
-   >您知道您可以  [將連結新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)？ 立即檢視！
+   >你知道你可以  [将您的链接添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)？ 看看吧！
 
-太棒了！ 現在將追蹤這些新增的連結。
+太棒了！ 现在将跟踪这些添加的链接。
 
 >[!NOTE]
 >
->[瞭解傳入連結](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+>[了解入站链接](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)

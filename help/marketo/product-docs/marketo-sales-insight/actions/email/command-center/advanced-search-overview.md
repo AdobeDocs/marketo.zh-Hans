@@ -2,20 +2,21 @@
 description: 高级搜索概述 — Marketo文档 — 产品文档
 title: 高级搜索概述
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 高级搜索概述 {#advanced-search-overview}
 
-通过利用高级搜索来定位已查看、点击或回复电子邮件的潜在客户，您可以创建参与度最高的潜在客户的目标列表。
+通过利用高级搜索来定位已查看、点击或回复电子邮件的潜在客户，您可以创建最活跃的潜在客户的目标列表。
 
 ## 如何访问高级搜索 {#how-to-access-advanced-search}
 
-1. 在Web应用程序中，单击 **命令中心**.
+1. 在Web应用程序中，单击 **指挥中心**.
 
    ![](assets/advanced-search-overview-1.png)
 
@@ -27,7 +28,7 @@ ht-degree: 2%
 
    ![](assets/advanced-search-overview-3.png)
 
-1. 单击高级搜索。
+1. 单击“高级搜索”。
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -35,13 +36,13 @@ ht-degree: 2%
 
 **日期**
 
-选择搜索的日期范围。 预设日期会根据您选择的电子邮件状态（“已发送”、“未发送”、“待定”）而进行更新。
+选择搜索的日期范围。 预设日期会根据您选择的电子邮件状态（“已发送”、“未送达”、“待定”）而更新。
 
 ![](assets/advanced-search-overview-5.png)
 
 **谁**
 
-在“人员”部分中按电子邮件收件人/发件人过滤。
+在Who部分中按电子邮件收件人/发件人筛选。
 
 ![](assets/advanced-search-overview-6.png)
 
@@ -52,25 +53,25 @@ ht-degree: 2%
  </tr>
  <tr>
   <td><strong>查看方式</strong></td>
-  <td>按Sales Connect实例中的特定发件人过滤（此选项仅供管理员使用）。</td>
+  <td>在Sales Connect实例中按特定发件人筛选（此选项仅对管理员可用）。</td>
  </tr>
  <tr>
   <td><strong>按组</strong></td>
-  <td>按特定收件人组过滤电子邮件。</td>
+  <td>按特定收件人组筛选电子邮件。</td>
  </tr>
  <tr>
   <td><strong>按人员</strong></td>
-  <td>按特定收件人过滤。</td>
+  <td>按特定收件人筛选。</td>
  </tr>
 </table>
 
-**When**
+**时间**
 
-按创建日期、提交日期、失败日期或计划日期进行选择。 可用选项会根据您选择的电子邮件状态（“已发送”、“未发送”、“待定”）而发生更改。
+按创建日期、交付日期、失败日期或计划日期选择。 可用选项会根据您选择的电子邮件状态（“已发送”、“未送达”、“待定”）而发生更改。
 
 ![](assets/advanced-search-overview-7.png)
 
-**促销活动**
+**营销活动**
 
 按促销活动参与率过滤电子邮件。
 
@@ -78,7 +79,7 @@ ht-degree: 2%
 
 **状态**
 
-有三种电子邮件状态可供选择。 类型/活动选项会根据所选的状态而发生更改。
+有三个电子邮件状态可供选择。 类型/活动选项会根据选定的状态而更改。
 
 ![](assets/advanced-search-overview-9.png)
 
@@ -86,13 +87,13 @@ _**状态：已发送**_
 
 ![](assets/advanced-search-overview-10.png)
 
-按您发送的电子邮件活动进行过滤。 您可以选择查看/无查看、点击/无点击和/或回复/无回复。
+按您已发送的电子邮件活动筛选。 您可以选择查看/无查看、点击/无点击和/或回复/无回复。
 
 _**状态：待定**_
 
 ![](assets/advanced-search-overview-11.png)
 
-按所有待处理电子邮件过滤。
+按所有待处理电子邮件进行筛选。
 
 <table>
  <tr>
@@ -101,15 +102,15 @@ _**状态：待定**_
  </tr>
  <tr>
   <td><strong>已安排</strong></td>
-  <td>已从撰写窗口（Salesforce或Web应用程序）、电子邮件插件或营销活动计划的电子邮件。</td>
+  <td>从撰写窗口（Salesforce或Web应用程序）、电子邮件插件或营销活动计划的电子邮件。</td>
  </tr>
  <tr>
   <td><strong>草稿</strong></td>
-  <td>当前处于草稿状态的电子邮件。 电子邮件需要一个主题行和一个收件人才能另存为草稿。</td>
+  <td>当前处于草稿状态的电子邮件。 电子邮件需要主题行和收件人才能另存为草稿。</td>
  </tr>
  <tr>
-  <td><strong>正在进行</strong></td>
-  <td>正在发送的电子邮件。 电子邮件不应超过几秒钟保持此状态。</td>
+  <td><strong>进行中</strong></td>
+  <td>正在发送的电子邮件。 电子邮件不应保持此状态超过几秒钟。</td>
  </tr>
 </table>
 
@@ -117,7 +118,7 @@ _**状态：未送达**_
 
 ![](assets/advanced-search-overview-12.png)
 
-按从未投放的电子邮件进行过滤。
+按从未送达的电子邮件筛选条件。
 
 <table>
  <tr>
@@ -125,16 +126,16 @@ _**状态：未送达**_
   <td><strong>描述</strong></td>
  </tr>
  <tr>
-  <td><strong>失败</strong></td>
-  <td>从Sales Connect发送电子邮件失败时(常见原因包括：发送给未订阅/阻止的联系人的电子邮件，或者在动态字段中出现问题时。)</td>
+  <td><strong>已失败</strong></td>
+  <td>当电子邮件无法从Sales Connect发送时（常见原因包括：电子邮件被发送到未订阅/阻止的联系人，或者填充动态字段时出现问题）。</td>
  </tr>
  <tr>
   <td><strong>已退回</strong></td>
-  <td>收件人的服务器拒绝电子邮件时，该电子邮件会标记为退回。 此处只显示通过Sales Connect服务器发送的电子邮件。</td>
+  <td>当电子邮件被收件人的服务器拒绝时，该电子邮件会被标记为已退回。 此处仅显示通过Sales Connect服务器发送的电子邮件。</td>
  </tr>
  <tr>
-  <td><strong>垃圾信息</strong></td>
-  <td>收件人将电子邮件标记为垃圾邮件（未经请求的电子邮件的常用术语）时。 此处只显示通过Sales Connect服务器发送的电子邮件。</td>
+  <td><strong>垃圾邮件</strong></td>
+  <td>收件人将电子邮件标记为垃圾邮件（非请求电子邮件的常用术语）的时间。 此处仅显示通过Sales Connect服务器发送的电子邮件。</td>
  </tr>
 </table>
 
@@ -142,14 +143,14 @@ _**状态：未送达**_
 
 以下是如何创建保存的搜索。
 
-1. 在所有过滤器都到位后，单击 **将过滤器另存为**.
+1. 所有筛选器都就绪后，单击 **将筛选器另存为**.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. 为您的搜索提供一个名称并单击 **保存**.
+1. 为您的搜索提供一个名称，然后单击 **保存**.
 
    ![](assets/advanced-search-overview-14.png)
 
-您保存的搜索将显示在左侧的侧栏中。
+您保存的搜索将位于左侧边栏中。
 
 ![](assets/advanced-search-overview-15.png)

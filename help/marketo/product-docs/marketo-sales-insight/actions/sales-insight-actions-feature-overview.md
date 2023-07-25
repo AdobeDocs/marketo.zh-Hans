@@ -2,7 +2,8 @@
 description: 销售分析操作功能概述 — Marketo文档 — 产品文档
 title: 销售分析操作功能概述
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 0%
@@ -130,7 +131,7 @@ ht-degree: 0%
 * 发送销售电子邮件 — 能够通过查看、点击和回复跟踪发送个性化或模板化电子邮件
 * 发送销售活动 — 将潜在客户添加到销售行动手册（一系列电子邮件和任务）
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 在“最佳匹配”标签中，以下内联活动可用于单个潜在客户/联系人：
 
@@ -139,7 +140,7 @@ ht-degree: 0%
 * 销售拨号器 — 使用CRM中的拨号器进行销售呼叫
 * 添加任务 — 为潜在潜在客户创建电子邮件、呼叫、客户或Linkedin任务
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **“电子邮件”选项卡**
 
@@ -160,7 +161,7 @@ ht-degree: 0%
 * 与Salesforce同步任务
 * “Salesforce活动历史记录”部分中的日志任务
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **实时信息源**
 
@@ -189,4 +190,4 @@ Marketo中捕获的销售活动：
 * 已添加到销售活动
 * 已从销售活动中移除
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

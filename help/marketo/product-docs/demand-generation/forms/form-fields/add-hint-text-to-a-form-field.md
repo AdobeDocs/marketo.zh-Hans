@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359671
-description: 向表单字段添加提示文本 — Marketo文档 — 产品文档
+description: 将提示文本添加到表单字段 — Marketo文档 — 产品文档
 title: 向表单字段添加提示文本
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -12,15 +13,15 @@ ht-degree: 0%
 
 # 向表单字段添加提示文本 {#add-hint-text-to-a-form-field}
 
-提示和 [说明](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) 帮助人们填写表单。 下面是如何添加提示。
+提示和 [说明](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) 帮助人员填写表单。 以下是如何添加提示。
 
 >[!NOTE]
 >
 >**条件**
 >
->表单 **提示** 是字段内的文本，当访客开始在字段中键入内容时，该文本会消失。
+>表单 **提示** 是字段中的文本，当访客开始在字段中键入内容时，该文本消失。
 >
->表单 **说明** 是一些小工具提示，可在访客将鼠标悬停在字段上时显示。
+>表单 **说明** 是一些小工具提示，当访客将鼠标悬停在该字段上时会显示这些提示。
 
 1. 转到 **营销活动**.
 
@@ -44,8 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >别忘了 [批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 创建的URL。
+   >别忘了 [批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表单更改创建。
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-看看！ 让我们继续添加一些 [说明](add-tooltip-instructions-to-a-form-field.md) 现在。
+看看吧！ 让我们继续并添加一些 [说明](add-tooltip-instructions-to-a-form-field.md) 现在。

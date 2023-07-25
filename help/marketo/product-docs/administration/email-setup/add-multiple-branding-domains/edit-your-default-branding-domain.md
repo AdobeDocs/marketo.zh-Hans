@@ -3,7 +3,8 @@ unique-page-id: 11377392
 description: 编辑默认品牌策略域 — Marketo文档 — 产品文档
 title: 编辑您的默认品牌策略域
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 14352627
 description: 删除模板类别 — Marketo文档 — 产品文档
 title: 删除模板类别
 exl-id: 99c64f83-4ff1-4355-af09-0527ca455632
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 1. 单击类别旁边的菜单图标，然后单击 **删除**.
 
-1. 单击 **删除** 确认。
+1. 单击 **删除** 以确认。
 
 >[!NOTE]
 >

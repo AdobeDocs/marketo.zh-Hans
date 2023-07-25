@@ -1,61 +1,62 @@
 ---
 unique-page-id: 2949266
-description: SEO — 從清單新增/移除頁面問題 — Marketo檔案 — 產品檔案
-title: SEO — 在清單中新增/移除頁面問題
+description: SEO — 在列表中添加/删除页面问题 — Marketo文档 — 产品文档
+title: SEO — 在列表中添加/删除页面问题
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# SEO — 在清單中新增/移除頁面問題 {#seo-add-remove-page-issue-from-a-list}
+# SEO — 在列表中添加/删除页面问题 {#seo-add-remove-page-issue-from-a-list}
 
-您可以將頁面問題整理到清單中。 您也可以從清單中移除頁面問題。
+您可以将页面问题整理到列表中。 您还可以从列表中删除页面问题。
 
-## 將頁面問題新增至清單 {#add-page-issues-to-a-list}
+## 将页面问题添加到列表 {#add-page-issues-to-a-list}
 
-1. 前往 **[!UICONTROL 頁面]** 區段。
+1. 转到 **[!UICONTROL 页面]** 部分。
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. 於 **[!UICONTROL 頁面]** 標籤，按一下 **[!UICONTROL 問題]**.
+1. 在 **[!UICONTROL 页面]** 选项卡，单击 **[!UICONTROL 问题]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. 暫留在您要新增的頁面問題上。 按一下 **[!UICONTROL 新增/從清單移除]**.
+1. 将鼠标悬停在要添加的“页面问题”上。 单击 **[!UICONTROL 在列表中添加/删除]**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
-   按一下您要新增頁面問題的目標清單。
+   单击要将页面问题添加到的列表。
 
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
    >
-   >您也可以建立新的關鍵字清單，以供您前往。 只需在中輸入您想要的名稱 **[!UICONTROL 建立新清單]**.
+   >您还可以为要转移的关键字创建一个新列表。 只需在中键入所需的名称 **[!UICONTROL 创建新列表]**.
 
-## 從清單中移除頁面問題 {#remove-page-issue-from-a-list}
+## 从列表中删除页面问题 {#remove-page-issue-from-a-list}
 
-1. 前往 **[!UICONTROL 頁面]** 區段。
+1. 转到 **[!UICONTROL 页面]** 部分。
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. 在頁面索引標籤上，按一下 **[!UICONTROL 問題]**.
+1. 在页面选项卡上，单击 **[!UICONTROL 问题]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 按一下您要組織的清單。
+1. 单击要整理的列表。
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. 暫留在您要移除的頁面問題上。 按一下 **[!UICONTROL 新增/從清單移除]**.
+1. 将鼠标悬停在要删除的页面问题上。 单击 **[!UICONTROL 在列表中添加/删除]**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
-1. 應該檢查您要組織的清單。 按一下清單名稱，即可從此清單中移除頁面問題。
+1. 应检查要整理的列表。 单击列表名称可从此列表中删除页面问题。
 
    ![](assets/image2014-9-18-14-3a4-3a52.png)
 
-太棒了！ 重新整理您的頁面，您將不會再在清單中看到它。
+太棒了！ 刷新您的页面，您将不会再在列表中看到它。

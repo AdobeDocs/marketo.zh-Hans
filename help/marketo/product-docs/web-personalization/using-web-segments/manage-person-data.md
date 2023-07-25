@@ -3,7 +3,8 @@ unique-page-id: 7504051
 description: 管理人员数据 — Marketo文档 — 产品文档
 title: 管理人员数据
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 7%
@@ -12,7 +13,7 @@ ht-degree: 7%
 
 # 管理人员数据 {#manage-person-data}
 
-通过选择要在您的分段中使用的人员字段，利用人员数据进行Web个性化。
+通过选择要在分段中使用的人员字段，将人员数据用于Web个性化。
 
 1. 转到 **帐户设置**.
 
@@ -30,11 +31,11 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >新字段会以待定状态添加，且最长可能需要24小时才能激活。
+   >新字段会以待处理状态添加，激活过程最长可能需要24小时。
 
 ## 删除人员字段 {#deleting-a-person-field}
 
-1. 单击删除图标( ![—](assets/image2015-3-24-13-3a45-3a56.png))从列表中删除字段。 单击 **是** 以确认要删除该字段。
+1. 单击删除图标( ![—](assets/image2015-3-24-13-3a45-3a56.png))，以从列表中删除字段。 单击 **是** 以确认是否要删除该字段。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -43,11 +44,10 @@ ht-degree: 7%
    >**管理人员数据字段**
    >
    >* 只能包含人员数据字段
-   >* 您最多可以添加30个人员数据字段
-   >* 添加新字段可能需要长达24小时才能激活
+   >* 您最多可以添加30个人数据字段
+   >* 添加新字段最多需要24小时才能激活
    >* 字符串类型的最大长度为255个字符
    >* 隐藏字段将自动删除
-
 
 <table> 
  <tbody> 
@@ -72,13 +72,13 @@ ht-degree: 7%
    <td><p>评级</p></td> 
   </tr> 
   <tr> 
-   <td><p>leadScore</p></td> 
-   <td><p>LeadScore</p></td> 
+   <td><p>商机得分</p></td> 
+   <td><p>商机得分</p></td> 
    <td><p>得分</p></td> 
   </tr> 
   <tr> 
-   <td><p>leadStatus</p></td> 
-   <td><p>潜在客户状态</p></td> 
+   <td><p>商机状态</p></td> 
+   <td><p>商机状态</p></td> 
    <td><p>状态</p></td> 
   </tr> 
   <tr> 
@@ -88,7 +88,7 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td><p>leadRole</p></td> 
-   <td><p>LeadRole</p></td> 
+   <td><p>潜在客户角色</p></td> 
    <td><p>职位</p></td> 
   </tr> 
   <tr> 
@@ -99,7 +99,7 @@ ht-degree: 7%
  </tbody> 
 </table>
 
-为新的Web个性化帐户提供了以下开箱即用的潜在客户字段：
+为新的Web个性化帐户现成提供了以下潜在客户字段：
 
 >[!MORELIKETHIS]
 >

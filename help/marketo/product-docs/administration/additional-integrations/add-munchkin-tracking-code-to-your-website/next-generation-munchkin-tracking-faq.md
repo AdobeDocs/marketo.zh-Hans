@@ -3,7 +3,8 @@ unique-page-id: 10096583
 description: “新一代 [!DNL Munchkin] 跟踪常见问题解答 — Marketo文档 — 产品文档”
 title: “新一代 [!DNL Munchkin] 跟踪常见问题解答”
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 0%
@@ -55,7 +56,6 @@ ht-degree: 0%
 >* 为她记录了一个有趣的时刻（记录她实际访问页面的日期，而不是她何时为人所知）
 >
 >* 像今天这样记录“新人员”活动
-
 
 ## 已具有“是匿名的”过滤器的智能列表会发生什么情况？ {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 

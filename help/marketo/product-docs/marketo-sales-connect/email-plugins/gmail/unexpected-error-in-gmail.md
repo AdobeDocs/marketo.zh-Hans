@@ -3,7 +3,8 @@ unique-page-id: 14352545
 description: Gmail - Marketo文档 — 产品文档中出现意外错误
 title: Gmail中出现意外错误
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,4 +21,4 @@ ht-degree: 0%
 
 1. 断开连接后，单击 **连接到Google**.
 
-   重新连接后，返回Gmail并刷新页面，然后尝试再次发送电子邮件。 如果它仍然不起作用，请 [提交票证](https://nation.marketo.com/t5/Support/ct-p/Support) 我们的支持团队。
+   重新连接后，请返回Gmail并刷新页面，然后再次尝试发送电子邮件。 如果还是不行，请 [提交票证](https://nation.marketo.com/t5/Support/ct-p/Support) 敬我们的支持团队。

@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2359785
-description: 发送反向链接选件履行电子邮件 — Marketo文档 — 产品文档
-title: 发送推荐选件履行电子邮件
+description: 发送反向链接优惠履行电子邮件 — Marketo文档 — 产品文档
+title: 发送反向链接优惠履行电子邮件
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# 发送推荐选件履行电子邮件 {#send-referral-offer-fulfillment-email}
+# 发送反向链接优惠履行电子邮件 {#send-referral-offer-fulfillment-email}
 
-使用优惠单履行电子邮件向客户提供优惠券和折扣代码。
+使用优惠履行电子邮件以优惠券和折扣代码奖励客户。
 
 >[!PREREQUISITES]
 >
 >* [在社交促销活动中使用电子邮件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
+## 设置履行交货 {#set-up-fulfillment-delivery}
 
-## 设置履行投放 {#set-up-fulfillment-delivery}
-
-1. 选择引荐选件。 单击 **编辑草稿**.
+1. 选择反向链接选件。 单击 **编辑草稿**.
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. 在 **应用程序设置**，选择 **选件详细信息**.
+1. 下 **应用程序设置**，选择 **优惠详细信息**.
 
    ![](assets/image2015-4-23-12-3a53-3a16.png)
 
@@ -42,29 +42,29 @@ ht-degree: 0%
    >
    >详细了解 [在社交促销活动中使用电子邮件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. 单击 **履行交付** 下拉框并选择 **自动实现目标**.
+1. 单击 **完成投放** 下拉菜单并选择 **目标自动**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   在中选择的消息 **履行电子邮件** 将自动发送给达到目标的人员。
+   消息选择于 **履行电子邮件** 将自动发送给达到目标的用户。
 
 ## 手动发送 {#manual-send}
 
-您可以在人员达到目标后，手动向其发送履行电子邮件。
+当某人达到目标后，您可以手动向此人发送履行电子邮件。
 
-1. 选择引荐选件并单击 **参与者** 选项卡。
+1. 选择反向链接选件，然后单击 **参与者** 选项卡。
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. 单击 **过滤依据** 选项和选择 **目标**.
+1. 单击 **筛选条件** 选项并选择 **目标**.
 
    >[!NOTE]
    >
-   >这会选择符合推荐选件目标的人员。
+   >这将选择满足反向链接优惠目标的人员。
 
    ![](assets/image2015-4-20-15-3a59-3a11.png)
 
-1. 在过滤的视图中选择人员。
+1. 在筛选视图中选择人员。
 
    ![](assets/2015-04-23-13-08-53.png)
 
@@ -72,4 +72,4 @@ ht-degree: 0%
 
    ![](assets/2015-04-20-15-54-13.png)
 
-太棒了！ 这些人现在将收到履约电子邮件，并对他们的奖励感到兴奋。
+太棒了！ 这些人现在将收到履行电子邮件，并因自己的奖励而受到激动。

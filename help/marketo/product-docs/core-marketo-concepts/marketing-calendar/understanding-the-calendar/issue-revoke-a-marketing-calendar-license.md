@@ -3,7 +3,8 @@ unique-page-id: 1147255
 description: 问题/撤销营销日历许可证 — Marketo文档 — 产品文档
 title: 发布/撤销营销日历许可证
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%

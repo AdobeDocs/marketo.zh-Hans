@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359566
-description: 在表单中编辑字段标签 — Marketo文档 — 产品文档
+description: 编辑表单中的字段标签 — Marketo文档 — 产品文档
 title: 编辑表单中的字段标签
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 编辑表单中的字段标签 {#edit-a-field-label-in-a-form}
 
-您可以将表单上的标签更改为任何内容 — 您甚至可以使用图像或将其完全擦除！ 这是如何做到的。
+您可以将表单上的标签更改为任何内容 — 您甚至可以使用图像或完全擦除图像！ 下面是操作方法。
 
 1. 转到 **营销活动**.
 
@@ -28,7 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您想要变得花哨，可以单击 ![铅笔](assets/image2014-9-15-17-3a27-3a7.png). 这将打开富文本编辑器，并允许您使用图像、链接等内容前往城镇！
+   >如果您想变得精彩，可以单击 ![铅笔](assets/image2014-9-15-17-3a27-3a7.png). 这将打开一个富文本编辑器，允许您前往包含图像、链接等内容的城镇！
 
 1. 单击 **完成**.
 
@@ -40,6 +41,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->别忘了 [批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 创建的URL。
+>别忘了 [批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表单更改创建。
 
-给你！ 你越来越成为造型设计师的冠军。
+给你！ 你逐渐成为一名造型设计师的冠军。

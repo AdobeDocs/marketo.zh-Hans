@@ -3,7 +3,8 @@ unique-page-id: 7504343
 description: 使用已知人员数据创建区段 — Marketo文档 — 产品文档
 title: 使用已知人员数据创建区段
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -30,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. 在用户档案分段中，将 **数据库** 到画布上。
+1. 在配置文件分段中，拖动 **数据库** 到画布上。
 
    ![](assets/four-1.png)
 
@@ -42,13 +43,13 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-   每个字段只能有一个值。 例如，如果要为作业标题字段添加多个值，则需要为每个值创建一个具有相同字段名称的新行。 请确保使用OR值来确保任何值都可捕获匹配项。
+   每个字段只能有一个值。 例如，如果要为职称字段添加多个值，则需要为每个值创建一个字段名称相同的新行。 请确保使用OR值以确保任何值都捕获到匹配项。
 
    ![](assets/seven-1.png)
 
 ## 选择多个人员数据字段 {#selecting-multiple-person-data-fields}
 
-1. 单击 **+** 添加其他人员数据字段。
+1. 单击 **+** 以添加另一个人员数据字段。
 
    ![](assets/eight.png)
 
@@ -56,8 +57,8 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 单击 **保存** 保存区段或 **保存并定义营销活动** 保存并转到“营销活动”页面。
+1. 单击 **保存** 保存区段或 **保存并定义营销活动** 以保存并转到“促销活动”页面。
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
-   现在，您已设置一个定向“已知人员”数据的区段。
+   您现在已设置了一个以已知人员数据为目标的区段。

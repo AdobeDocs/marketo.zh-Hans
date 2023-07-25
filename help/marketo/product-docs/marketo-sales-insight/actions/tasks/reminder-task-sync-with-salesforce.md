@@ -2,7 +2,8 @@
 description: 与Salesforce同步提醒任务 — Marketo文档 — 产品文档
 title: 与Salesforce同步提醒任务
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
@@ -55,7 +56,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td>详细信息</td>
-  <td>评论</td>
+  <td>注释</td>
   <td>显示有关应该使用提醒任务完成的内容的更多详细信息。</td>
  </tr>
 </table>

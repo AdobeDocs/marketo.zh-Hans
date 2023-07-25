@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2359829
-description: 在表单（社交）上启用Social表单填写 — Marketo文档 — 产品文档
-title: 在表单上启用社交表单填写（社交）
+description: 启用社交表单填写表单（社交） - Marketo文档 — 产品文档
+title: 启用社交表单填写表单(Social)
 exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-# 在表单上启用社交表单填写（社交） {#enable-social-form-fill-on-a-form-social}
+# 启用社交表单填写表单(Social) {#enable-social-form-fill-on-a-form-social}
 
-允许您的访客使用其社交网络填写表单。 您会自动获得额外数据，他们会获得更快的体验。 这是方法。
+允许您的访客使用其社交网络填写表单。 您会自动获得额外数据，从而加快体验速度。 下面是具体操作方法。
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请联系您的销售代表。
+>并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
 
 1. 转到 **营销活动**.
 
@@ -26,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. 在表单设置下，单击 **设置**.
+1. 在“表单设置”下，单击 **设置**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -36,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >看看 [数据Marketo将捕获](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) 如果人们使用社交按钮。
+   >查看内容 [Marketo将捕获的数据](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) 如果人们使用社交按钮。
 
 1. 单击 **完成**.
 
@@ -46,8 +47,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
-   就在这里。
+   就是这个。
 
    ![](assets/image2016-4-28-16-3a45-3a58.png)
 
-很棒吧？
+棒极了，是吧？

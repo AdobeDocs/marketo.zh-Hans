@@ -3,24 +3,25 @@ unique-page-id: 2359647
 description: 了解参与计划 — Marketo文档 — 产品文档
 title: 了解参与计划
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 了解参与计划 {#understanding-engagement-programs}
 
-参与计划旨在通过系统地向新人展示内容来向他们进行营销。
+参与计划旨在通过系统地向新人展示内容来向他们推销。
 
 >[!NOTE]
 >
->限制为100 **活动** 参与计划。
+>限制为100 **活动** 每个订阅的参与计划。
 
 ## 参与计划 {#engagement-program}
 
-安 **参与计划** 是一种可以轻松完成复杂培养的程序。
+An **参与计划** 是一种可以轻松完成复杂培养的程序。
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -28,9 +29,9 @@ ht-degree: 0%
 >
 >[创建参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
-## 流 {#stream}
+## 串流 {#stream}
 
-A **流** 是一组优先内容，参与计划将用于培养人。
+A **流** 是参与计划将用于培养人的优先内容库。
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -39,59 +40,57 @@ A **流** 是一组优先内容，参与计划将用于培养人。
 >* [添加流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
 >* [克隆流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-
 ## 内容 {#content}
 
-有两种类型 **内容** 您可以添加到参与项目流 — 电子邮件和项目。 电子邮件将在投放时发送给人员。
+有两种类型 **内容** 您可以向参与计划流中添加电子邮件和计划。 电子邮件将在转换时间发送给用户。
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
 >[!MORELIKETHIS]
 >
->* [向流添加内容](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [优先处理流内容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [将内容添加到流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [排定流内容的优先级](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
 >* [编辑流内容的可用性](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [删除流内容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [存档和取消存档流内容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
+## 演员 {#cast}
 
-## 铸造 {#cast}
-
-A **cast** 是从参与计划发送电子邮件的事件。
+A **演员阵容** 是从参与计划发送电子邮件的事件。
 
 >[!NOTE]
 >
->参与计划不设计用于操作电子邮件。
+>参与计划并非设计用于操作电子邮件。
 
-## 流频率 {#stream-cadence}
+## 流节奏 {#stream-cadence}
 
-通过设置 **流频率**. 这是您安排内容定期发布的方式。
+通过设置来确定何时进行强制转换 **流节奏**. 这就是安排内容定期外发的方式。
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
 >[!MORELIKETHIS]
 >
->[设置流频率](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[设置流节奏](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
-## 人员频度 {#person-cadence}
+## 人员节奏 {#person-cadence}
 
-A **人员频率** 是一个状态，用于定义其从参与项目接收内容的能力。 您可以使用 **更改参与计划频度** “流程”步骤，以将其更改为“暂停”或“正常”。
+A **人员节奏** 是一个状态，用于定义其从参与计划接收内容的能力。 您可以使用 **更改参与计划节奏** 流步骤以将其更改为“已暂停”或“正常”。
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
-## 精疲力尽 {#exhausted}
+## 已耗尽 {#exhausted}
 
-一旦某人收到了流中的每一条内容，我们就会将该人称为 **精疲力尽**.
+当一个人收到流中的每一条内容时，我们就会呼叫该人 **已耗尽**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
 >[!MORELIKETHIS]
 >
->[已累累内容的人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
+>[内容已耗竭的人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
 ## 内容参与度级别 {#content-engagement-level}
 
-“内容参与度级别”是Marketo将给您的内容打分的0到100分。 此数字由使用打开数、点击数、取消订阅数、计划成功数和其他因素的复杂公式来确定。
+内容参与度级别是0到100分，Marketo将为您的内容提供该分数。 此数字由使用打开、点击、取消订阅、程序成功和其他因素的复杂公式确定。
 
 >[!MORELIKETHIS]
 >

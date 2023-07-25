@@ -3,7 +3,8 @@ unique-page-id: 2360350
 description: 创建用于ReST API的自定义服务 — Marketo文档 — 产品文档
 title: 创建用于ReST API的自定义服务
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >* [创建仅API用户角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [创建仅API用户](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
-
 
 >[!NOTE]
 >

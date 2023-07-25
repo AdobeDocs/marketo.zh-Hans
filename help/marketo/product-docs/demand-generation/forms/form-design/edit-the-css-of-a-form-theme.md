@@ -3,7 +3,8 @@ unique-page-id: 2359679
 description: 编辑表单主题的CSS - Marketo文档 — 产品文档
 title: 编辑表单主题的CSS
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 1%
@@ -12,11 +13,11 @@ ht-degree: 1%
 
 # 编辑表单主题的CSS {#edit-the-css-of-a-form-theme}
 
-您已预建了一些 [您可以从](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). 但是，如果您喜欢编辑CSS，则可以进行任何所需的更改。 这是方法。
+您有几个预先构建的 [您可以从中进行选择的主题](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). 但是，如果您喜欢编辑CSS，则可以进行任何所需的更改。 下面是具体操作方法。
 
 >[!NOTE]
 >
->如果要尝试此操作，请确保您知道CSS，因为Marketo支持未设置为协助自定义编码。 此外，所做的任何更改都将仅适用于当前编辑的表单。
+>如果您希望尝试此操作，请确保您知道CSS，因为Marketo支持未设置为协助自定义编码。 此外，所做的任何更改将仅适用于您当前编辑的表单。
 
 1. 转到 **营销活动**.
 
@@ -38,7 +39,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. 您可以随时将此CSS剪切/粘贴到您自己的编辑器中。 该文件是只读的，因此您只需要覆盖CSS。
+1. 欢迎您随时将此CSS剪切/粘贴到您自己的编辑器中。 它是只读的，因此您只需要覆盖CSS。
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -50,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
-1. 输入您的自定义CSS。 你不需要所有的，只是那些不同的部分。
+1. 输入您的自定义CSS。 你不需要所有的东西，只需要不同的部分。
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
@@ -58,8 +59,8 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. 要查看您的自定义表单，请单击 **预览草稿**.
+1. 要查看自定义表单，请单击 **预览草稿**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 
-就这样！
+就是这样！

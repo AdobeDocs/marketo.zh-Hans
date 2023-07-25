@@ -3,7 +3,8 @@ unique-page-id: 1147118
 description: 在项目中使用期间成本 — Marketo文档 — 产品文档
 title: 在程序中使用期间成本
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 在程序中使用期间成本 {#using-period-costs-in-a-program}
 
-A [期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) 是你在项目上花的钱。 它可持续一个或多个月，用于报告ROI。
+A [期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) 就是你花在项目上的钱。 它可以持续一个或更多月，并用于报告ROI。
 
 ## 添加期间成本  {#add-a-period-cost}
 
@@ -20,7 +21,7 @@ A [期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/worki
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. 拖放 **期间成本** 放到画布上。
+1. 拖放 **期间成本** 进画布里。
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
@@ -28,25 +29,25 @@ A [期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/worki
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. 输入 **期间成本** （不带小数或逗号）。 单击 **保存**.
+1. 输入 **期间成本** （不含小数点或逗号）。 单击 **保存**.
 
    >[!NOTE]
    >
-   >这可以是估计值。 在您知道确切金额后，您始终可以编辑期间成本（请参阅下一节）。
+   >这可以是一个估计值。 在知道确切金额后，您始终可以编辑期间成本（请参阅下一部分）。
 
    ![](assets/image2016-4-1-8-3a54-3a30.png)
 
-1. 成本将显示在程序中。
+1. 成本显示在项目中。
 
    ![](assets/image2016-4-1-8-3a56-3a49.png)
 
    >[!TIP]
    >
-   >您可以将多个期间成本拖放到画布中。 这样，您就可以将具有不同期间成本的多个月归因于项目。
+   >您可以将多个期间成本拖放到画布中。 这样，您就可以将具有不同期间成本的多个月归因到项目群。
 
 ## 编辑期间成本 {#edit-a-period-cost}
 
-1. 如果花费的钱多于或少于最初预计的金额，则可以编辑期间成本。
+1. 如果支出比最初预计的要多或少，则可以编辑期间成本。
 
 1. 转到 **设置** 选项卡。
 
@@ -70,12 +71,11 @@ A [期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/worki
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 单击 **删除** 确认。
+1. 单击 **删除** 以确认。
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
 >* [了解期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
->* [按期间成本筛选程序报表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+>* [按期间成本筛选项目报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

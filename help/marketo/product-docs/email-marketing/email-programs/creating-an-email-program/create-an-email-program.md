@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1900591
-description: 创建电子邮件计划 — Marketo文档 — 产品文档
+description: 创建电子邮件程序 — Marketo文档 — 产品文档
 title: 创建电子邮件程序
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 # 创建电子邮件程序 {#create-an-email-program}
 
-使用电子邮件程序可快速轻松地向一组人员发送电子邮件。
+使用电子邮件程序快速轻松地向一组人员发送电子邮件。
 
 1. 转到 **营销活动**.
 
    ![](assets/one.png)
 
-1. 选择要在中创建程序的文件夹，单击 **新建** 下拉菜单，然后选择 **新计划**.
+1. 选择要在其中创建程序的文件夹，然后单击 **新** 下拉列表，然后选择 **新建项目群**.
 
    ![](assets/two.png)
 
@@ -28,14 +29,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >选择 **电子邮件** 作为节目类型，频道将自动设置为 **电子邮件发送**. 您可以根据需要更改它。
+   >选择时 **电子邮件** 作为项目类型，渠道将自动设置为 **电子邮件发送**. 你可以根据需要进行更改。
 
    ![](assets/four.png)
 
-不错！ 请注意，程序现在位于树中，可供使用。 下一步是定义受众。 请参阅下面的Marketo相关文章。
+很好！ 请注意，程序现在位于树中并可供使用。 下一步是定义受众。 请参阅下面的Marketo相关文章。
 
 >[!MORELIKETHIS]
 >
 >* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [通过导入列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
+>* [通过导入列表来定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)

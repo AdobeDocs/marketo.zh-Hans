@@ -3,7 +3,8 @@ unique-page-id: 2359400
 description: 选择表单主题 — Marketo文档 — 产品文档
 title: 选择表单主题
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -33,25 +34,24 @@ ht-degree: 0%
    目前有7个内置主题：
 
    * 简单
-   * 内集
+   * 内嵌
    * 发光
-   * 轮次
+   * Round
    * 深色
    * 阴影
-   * 平面
+   * 普通
 
    >[!TIP]
    >
    >您还可以 [编辑表单主题的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. 单击 **下一个** 要配置其他表单选项，请单击 **完成** 如果您只想更改表单主题，请执行以下操作：
+1. 单击 **下一个** 配置其他表单选项，或单击 **完成** 如果您只想更改表单主题。
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
-那有多简单?!您现在可以让HTML/CSS书籍收集一些灰尘。
+这有多容易?!您可以让HTML/CSS书籍现在收集一些灰尘。
 
 >[!MORELIKETHIS]
 >
 >* [编辑表单主题的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [向表单添加字段](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
-

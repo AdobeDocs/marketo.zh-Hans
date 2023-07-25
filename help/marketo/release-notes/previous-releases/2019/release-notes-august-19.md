@@ -1,52 +1,53 @@
 ---
 unique-page-id: 27656786
-description: 发行说明 — ’19年8月 — Marketo文档 — 产品文档
-title: 发行说明 — ’19年8月
+description: 发行说明 — 2019年8月 — Marketo文档 — 产品文档
+title: 发行说明 — 2019年8月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
 
-# 发行说明：’19年8月 {#release-notes-august}
+# 发行说明： 2019年8月 {#release-notes-august}
 
-’19年8月版中包含以下功能。 查看您的Marketo版本以了解功能的可用性。
+2019年8月版中包括以下功能。 查看Marketo版本以了解功能可用性。
 
 **_季度版本_**
 
-2019年8月16日发布了以下功能。
+以下功能于2019年8月16日发布。
 
 ## 核心Marketo Engage {#core-marketo-engage}
 
-* **可扩展网络研讨会框架**:Marketo新的开箱即用网络研讨会框架（在’19年冬季发行说明中引入）可将网络研讨会提供商的数据无缝地传递到Marketo，反之亦然，从而节省时间。 Cevent和Zoom现在在此新框架中可用。
-* **智能营销活动API更新**:在我们逐步了解CRUD（创建、读取、更新、删除）界面时，管理智能营销活动生命周期功能。
-* **更新电子邮件头API更改**:更新电子邮件标题API不再要求电子邮件具有附加的模板来更新标题字段，如主题行。
+* **可扩展网络研讨会框架**：利用Marketo新的开箱即用网络研讨会框架（在2019年冬季的发行说明中引入），将数据从网络研讨会提供商无缝传递到Marketo，反之亦然，可节省时间。 事件和缩放现在可在此新框架中使用。
+* **Smart Campaign API更新**：在我们围绕CRUD（创建、读取、更新、删除）界面时管理智能营销活动生命周期功能。
+* **更新电子邮件标头API更改**：更新电子邮件标头API不再需要电子邮件附加模板来更新标头字段，例如主题行。
 
-**Account-Based Marketing** ![（星号）](assets/yellow-star.png)
+**Account-Based Marketing** ![(star)](assets/yellow-star.png)
 
-* **linkedIn帐户匹配**，以前在测试版中，现在正式提供。
-* **AccountAI** 正式改名为 **帐户分析**.
+* **linkedIn帐户匹配**&#x200B;以前的beta版现已公开发布。
+* **帐户人工智能** 正式更名为 **帐户分析**.
 
 <br> 
 
-**_在整个季度发布_**
+**_整个季度发布_**
 
-以下功能在非季度周期中发布，将在整个第三个日历季度和2019年第4季度初发布。
+以下功能采用非季度周期，将在整个日历季度以及2019年第4季度初发布。
 
-**Marketo Sales Connect** ![（星号）](assets/yellow-star.png)
+**Marketo Sales连接** ![(star)](assets/yellow-star.png)
 
-* **人员页面布局增强功能：** 在“新人员”页面布局中通过列表导入和批量操作来管理您的人员和组。
+* **人员页面布局增强功能：** 通过新人员页面布局中的列表导入和批量操作管理您的人员和组。
 
 >[!AVAILABILITY]
 >
->由星( ![（星号）](assets/yellow-star.png))是付费加载项。 请联系您的Marketo代表以了解更多信息。
+>以星号( ![(star)](assets/yellow-star.png))是付费加载项。 请联系您的Marketo代表以了解更多信息。
 
 >[!NOTE]
 >
->**弃用TLS 1.0和1.1**:为了与Adobe的世界级安全标准保持一致，从2019年12月13日起，我们将停止对传输层安全性(TLS)1.0和1.1的支持。 与Marketo集成的不符合1.2协议的系统可能会失去对Marketo Engage服务的访问权限。
+>**弃用TLS 1.0和1.1**：为了符合Adobe的世界级安全标准，我们将从2019年12月13日开始停止对传输层安全性(TLS) 1.0和1.1的支持。 与Marketo集成但与1.2协议不兼容的系统可能会失去对Marketo Engage服务的访问权限。
 >
->**要维护Marketo Engage访问权限，请确保所有客户端系统在2019年12月13日之前均符合TLS 1.2**. 可以找到更多详细信息 [此处](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**要保持您的Marketo Engage访问权限，请确保所有客户端系统在2019年12月13日之前都符合TLS 1.2**. 可以找到更多详细信息 [此处](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_产品发行网络研讨会_** [加入我们](https://engage.marketo.com/August_19_Release_Webinar.html) 8月28日下午1:00 PT / 4:00 PM ET，由我们的产品团队主办的实时网络研讨会，了解有关此版本中包含的功能的更多信息。
+**_产品发布网络研讨会_** [加入我们](https://engage.marketo.com/August_19_Release_Webinar.html) 8月28日下午1:00（太平洋时间） / 4:00（东部时间）主持的实时网络研讨会，了解有关此版本中包括的功能的更多信息。

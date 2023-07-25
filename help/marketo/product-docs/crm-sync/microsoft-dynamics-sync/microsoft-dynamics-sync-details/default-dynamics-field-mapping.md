@@ -1,17 +1,18 @@
 ---
-description: 默认Dynamics字段映射 — Marketo文档 — 产品文档
+description: 默认动态字段映射 — Marketo文档 — 产品文档
 title: 默认动态字段映射
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
-source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '829'
-ht-degree: 17%
+ht-degree: 18%
 
 ---
 
 # 默认动态字段映射 {#default-dynamics-field-mapping}
 
-最初将Marketo帐户与Microsoft同步时，Marketo会自动在内置的Dynamics和Marketo字段之间进行这些关联。  Marketo还将在您的潜在客户、帐户、机会和联系人上同步您的自定义字段。
+当您最初将Marketo帐户与Microsoft同步时，Marketo会自动在内置的Dynamics和Marketo字段之间建立这些关联。  Marketo还将同步您的Leads、Accounts、Opportunities和Contacts上的自定义字段。
 
 ## 潜在客户字段 {#lead-fields}
 
@@ -28,14 +29,14 @@ ht-degree: 17%
       <th>MS Dynamics API名称</th>
     </tr>
     <tr>
-      <td>Microsoft创建日期</td>
+      <td>Microsoft 创建日期</td>
       <td>创建日期</td>
       <td>createdon</td>
     </tr>
     <tr>
       <td>称谓</td>
       <td>称谓</td>
-      <td>称呼</td>
+      <td>致敬</td>
     </tr>
     <tr>
       <td>第一个</td>
@@ -45,12 +46,12 @@ ht-degree: 17%
     <tr>
       <td>中间</td>
       <td>中间名称</td>
-      <td>米德尔纳姆</td>
+      <td>中间名</td>
     </tr>
     <tr>
       <td>最后</td>
       <td>姓氏</td>
-      <td>lastname</td>
+      <td>姓氏</td>
     </tr>
     <tr>
       <td>电子邮件</td>
@@ -64,13 +65,13 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>电话</td>
-      <td>商业电话</td>
+      <td>公司电话</td>
       <td>telephone1</td>
     </tr>
     <tr>
       <td>移动</td>
       <td>手机</td>
-      <td>mobilephone</td>
+      <td>移动电话</td>
     </tr>
     <tr>
       <td>传真</td>
@@ -79,18 +80,18 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>地址</td>
-      <td>1街</td>
+      <td>街道1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
       <td>城市</td>
       <td>城市</td>
-      <td>address1_city</td>
+      <td>地址1_city</td>
     </tr>
     <tr>
       <td>州</td>
-      <td>州/省</td>
-      <td>address1_stateor省</td>
+      <td>省/市/自治区</td>
+      <td>address1_stateorprovince</td>
     </tr>
     <tr>
       <td>国家</td>
@@ -115,22 +116,22 @@ ht-degree: 17%
     <tr>
       <td>状态原因</td>
       <td>状态原因</td>
-      <td>statuscode</td>
+      <td>状态代码</td>
     </tr>
     <tr>
-      <td>人员说明</td>
+      <td>人员备注</td>
       <td>描述</td>
       <td>描述</td>
     </tr>
     <tr>
       <td>请勿来电</td>
-      <td>不允许电话呼叫</td>
+      <td>不允许通话</td>
       <td>donotphone</td>
     </tr>
     <tr>
       <td>退订</td>
-      <td>不批量电子邮件</td>
-      <td>多诺特布尔克邮件</td>
+      <td>不批量发送电子邮件</td>
+      <td>donotbulkemail</td>
     </tr>
     <tr>
       <td>人员评级</td>
@@ -139,38 +140,38 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>Microsoft地址2</td>
-      <td>2街</td>
+      <td>街道2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Microsoft地址3</td>
-      <td>3街</td>
+      <td>街道3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
       <td>Microsoft不发送电子邮件</td>
       <td>不允许电子邮件</td>
-      <td>多诺马尔</td>
+      <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft请勿传真</td>
+      <td>Microsoft不传真</td>
       <td>不允许传真</td>
-      <td>多托法克斯</td>
+      <td>donotfax</td>
     </tr>
     <tr>
       <td>Microsoft不发送营销材料</td>
       <td>营销材料</td>
-      <td>多诺森德姆</td>
+      <td>donotsendmm</td>
     </tr>
     <tr>
       <td>Microsoft家庭电话</td>
-      <td>家庭电话</td>
+      <td>住宅电话</td>
       <td>telephone2</td>
     </tr>
     <tr>
-      <td>Microsoft首选联系方法</td>
-      <td>首选接触方法</td>
-      <td>preferredcontactmethodcode</td>
+      <td>Microsoft首选联系方式</td>
+      <td>首选联系方式</td>
+      <td>preferredcontactmethodode</td>
     </tr>
     <tr>
       <td>Microsoft主题</td>
@@ -178,24 +179,24 @@ ht-degree: 17%
       <td>主题</td>
     </tr>
     <tr>
-      <td>最后一个有趣的时刻</td>
-      <td>最后一个有趣的时刻</td>
-      <td>mkt_lastintereingmomentdate</td>
+      <td>上一个有趣时刻的日期</td>
+      <td>上一个有趣时刻的日期</td>
+      <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>最后一个有趣的时刻</td>
-      <td>最后一个有趣的时刻</td>
-      <td>mkt_lastintereingmomentdesc</td>
+      <td>上一个有趣时刻描述</td>
+      <td>上一个有趣时刻描述</td>
+      <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>最后有趣的时刻来源</td>
-      <td>最后有趣的时刻来源</td>
-      <td>mkt_leadinteringmomentsource</td>
+      <td>上一个有趣时刻源</td>
+      <td>上一个有趣时刻源</td>
+      <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>最后一个有趣的瞬间类型</td>
-      <td>最后一个有趣的瞬间类型</td>
-      <td>mkt_lastintereingmomenttype</td>
+      <td>上一个有趣时刻类型</td>
+      <td>上一个有趣时刻类型</td>
+      <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
       <td>公司</td>
@@ -213,9 +214,9 @@ ht-degree: 17%
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>相对紧急</td>
+      <td>相对紧迫性</td>
       <td>紧急</td>
-      <td>mkt_urquency</td>
+      <td>mkt_urgency</td>
     </tr>
     <tr>
       <td>主题</td>
@@ -230,7 +231,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-以下潜在客户字段会同步以供内部使用。
+以下Lead字段已同步以供内部使用。
 
 <table>
   <colgroup>
@@ -244,10 +245,10 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>所有者 </td>
-      <td>所有者id</td>
+      <td>ownerid</td>
     </tr>
     <tr>
-      <td>创建于</td>
+      <td>创建日期</td>
       <td>createdon</td>
     </tr>
   </tbody>
@@ -268,14 +269,14 @@ ht-degree: 17%
       <th>MS Dynamics API名称</th>
     </tr>
     <tr>
-      <td>Microsoft创建日期</td>
+      <td>Microsoft 创建日期</td>
       <td>创建日期</td>
       <td>createdon</td>
     </tr>
     <tr>
       <td>称谓</td>
       <td>称谓</td>
-      <td>称呼</td>
+      <td>致敬</td>
     </tr>
     <tr>
       <td>第一个</td>
@@ -285,12 +286,12 @@ ht-degree: 17%
     <tr>
       <td>中间</td>
       <td>中间名称</td>
-      <td>米德尔纳姆</td>
+      <td>中间名</td>
     </tr>
     <tr>
       <td>最后</td>
       <td>姓氏</td>
-      <td>lastname</td>
+      <td>姓氏</td>
     </tr>
     <tr>
       <td>电子邮件</td>
@@ -304,37 +305,37 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>电话</td>
-      <td>商业电话</td>
+      <td>公司电话</td>
       <td>telephone1</td>
     </tr>
     <tr>
       <td>移动</td>
       <td>手机</td>
-      <td>mobilephone</td>
+      <td>移动电话</td>
     </tr>
     <tr>
       <td>地址</td>
-      <td>地址1:1街</td>
+      <td>地址1：街道1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
       <td>城市</td>
-      <td>地址1:城市</td>
-      <td>address1_city</td>
+      <td>地址1：城市</td>
+      <td>地址1_city</td>
     </tr>
     <tr>
       <td>州</td>
-      <td>地址1:州/省</td>
-      <td>address1_stateor省</td>
+      <td>地址1：州/省</td>
+      <td>address1_stateorprovince</td>
     </tr>
     <tr>
       <td>国家</td>
-      <td>地址1:国家/地区</td>
+      <td>地址1：国家/地区</td>
       <td>address1_country</td>
     </tr>
     <tr>
       <td>邮政编码</td>
-      <td>地址1:邮政编码</td>
+      <td>地址1：邮政编码</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
@@ -345,72 +346,72 @@ ht-degree: 17%
     <tr>
       <td>状态原因</td>
       <td>状态原因</td>
-      <td>statuscode</td>
+      <td>状态代码</td>
     </tr>
     <tr>
       <td>请勿来电</td>
-      <td>不允许电话呼叫</td>
+      <td>不允许通话</td>
       <td>donotphone</td>
     </tr>
     <tr>
       <td>退订</td>
-      <td>不批量电子邮件</td>
-      <td>多诺特布尔克邮件</td>
+      <td>不批量发送电子邮件</td>
+      <td>donotbulkemail</td>
     </tr>
     <tr>
       <td>Microsoft地址2</td>
-      <td>地址1:2街</td>
+      <td>地址1：街道2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Microsoft地址3</td>
-      <td>地址1:3街</td>
+      <td>地址1：街道3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
       <td>Microsoft不发送电子邮件</td>
       <td>不允许电子邮件</td>
-      <td>多诺马尔</td>
+      <td>donotemail</td>
     </tr>
     <tr>
       <td>Microsoft家庭电话</td>
-      <td>家庭电话</td>
+      <td>住宅电话</td>
       <td>telephone2</td>
     </tr>
     <tr>
-      <td>Microsoft首选联系方法</td>
-      <td>首选接触方法</td>
-      <td>preferredcontactmethodcode</td>
+      <td>Microsoft首选联系方式</td>
+      <td>首选联系方式</td>
+      <td>preferredcontactmethodode</td>
     </tr>
     <tr>
-      <td>最后一个有趣的时刻</td>
-      <td>最后一个有趣的时刻</td>
-      <td>mkt_lastintereingmomentdate</td>
+      <td>上一个有趣时刻的日期</td>
+      <td>上一个有趣时刻的日期</td>
+      <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>最后一个有趣的瞬间类型</td>
-      <td>最后一个有趣的瞬间类型</td>
-      <td>mkt_lastintereingmomenttype</td>
+      <td>上一个有趣时刻类型</td>
+      <td>上一个有趣时刻类型</td>
+      <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
-      <td>最后有趣的时刻来源</td>
-      <td>最后有趣的时刻来源</td>
-      <td>mkt_leadinteringmomentsource</td>
+      <td>上一个有趣时刻源</td>
+      <td>上一个有趣时刻源</td>
+      <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>最后一个有趣的时刻</td>
-      <td>最后一个有趣的时刻</td>
-      <td>mkt_lastintereingmomentdesc</td>
+      <td>上一个有趣时刻描述</td>
+      <td>上一个有趣时刻描述</td>
+      <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
       <td>Microsoft不发送营销材料</td>
       <td>营销材料</td>
-      <td>多诺森德姆</td>
+      <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Microsoft请勿传真</td>
-      <td>Microsoft请勿传真</td>
-      <td>多托法克斯</td>
+      <td>Microsoft不传真</td>
+      <td>Microsoft不传真</td>
+      <td>donotfax</td>
     </tr>
     <tr>
       <td>优先级</td>
@@ -418,9 +419,9 @@ ht-degree: 17%
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>相对紧急</td>
+      <td>相对紧迫性</td>
       <td>紧急</td>
-      <td>mkt_urquency</td>
+      <td>mkt_urgency</td>
     </tr>
     <tr>
       <td>相对分数</td>
@@ -428,7 +429,7 @@ ht-degree: 17%
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>人员说明</td>
+      <td>人员备注</td>
       <td>描述</td>
       <td>描述 </td>
     </tr>
@@ -438,14 +439,14 @@ ht-degree: 17%
       <td>mkt_leadscore</td>
     </tr>
     <tr>
-      <td>人员说明</td>
+      <td>人员备注</td>
       <td>描述</td>
       <td>描述 </td>
     </tr>
   </tbody>
 </table>
 
-下面的联系人字段会同步以供内部使用。
+以下“联系人”字段已同步以供内部使用。
 
 <table>
   <colgroup>
@@ -459,10 +460,10 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>所有者 </td>
-      <td>所有者id</td>
+      <td>ownerid</td>
     </tr>
     <tr>
-      <td>创建于</td>
+      <td>创建日期</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -487,38 +488,38 @@ ht-degree: 17%
       <th>MS Dynamics API名称</th>
     </tr>
     <tr>
-      <td>账户(a)</td>
+      <td>帐户(a)</td>
       <td>帐户</td>
-      <td>account</td>
+      <td>accountid</td>
     </tr>
     <tr>
       <td>帐单寄送地址</td>
-      <td>地址1:1街</td>
+      <td>地址1：街道1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
       <td>帐单寄送城市</td>
-      <td>地址1:城市</td>
-      <td>address1_city</td>
+      <td>地址1：城市</td>
+      <td>地址1_city</td>
     </tr>
     <tr>
       <td>帐单寄送国家</td>
-      <td>地址1:国家/地区</td>
+      <td>地址1：国家/地区</td>
       <td>address1_country</td>
     </tr>
     <tr>
       <td>帐单邮政编码</td>
-      <td>地址1:邮政编码</td>
+      <td>地址1：邮政编码</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Microsoft帐单地址2</td>
-      <td>地址1:2街</td>
+      <td>Microsoft账单地址2</td>
+      <td>地址1：街道2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft帐单地址3</td>
-      <td>地址1:3街</td>
+      <td>Microsoft账单地址3</td>
+      <td>地址1：街道3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
@@ -547,7 +548,7 @@ ht-degree: 17%
       <td>收入</td>
     </tr>
     <tr>
-      <td>公司说明</td>
+      <td>公司注释</td>
       <td>描述</td>
       <td>描述</td>
     </tr>
@@ -568,8 +569,8 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>员工数</td>
-      <td>员工数量</td>
-      <td>员工数量</td>
+      <td>员工数</td>
+      <td>女性人数</td>
     </tr>
     <tr>
       <td>SIC 代码</td>
@@ -583,13 +584,13 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>员工数</td>
-      <td>员工数量</td>
-      <td>员工数量</td>
+      <td>员工数</td>
+      <td>女性人数</td>
     </tr>
   </tbody>
 </table>
 
-下面的帐户字段会同步以供内部使用。
+以下“帐户”字段已同步以供内部使用。
 
 <table>
   <colgroup>
@@ -603,10 +604,10 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>所有者 </td>
-      <td>所有者id</td>
+      <td>ownerid</td>
     </tr>
     <tr>
-      <td>创建于</td>
+      <td>创建日期</td>
       <td>createdon</td>
     </tr>
   </tbody>
@@ -628,8 +629,8 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>关闭概率</td>
-      <td>诚实</td>
-      <td>非概率</td>
+      <td>可能性</td>
+      <td>关闭概率</td>
     </tr>
     <tr>
       <td>阶段</td>
@@ -639,7 +640,7 @@ ht-degree: 17%
     <tr>
       <td>实际关闭日期</td>
       <td>实际关闭日期</td>
-      <td>实际关闭日期</td>
+      <td>actualclosedate</td>
     </tr>
     <tr>
       <td>名称</td>
@@ -647,8 +648,8 @@ ht-degree: 17%
       <td>name</td>
     </tr>
     <tr>
-      <td>估计值</td>
-      <td>是。 收入</td>
+      <td>预计值</td>
+      <td>估计 收入</td>
       <td>estimatedValue</td>
     </tr>
     <tr>
@@ -659,7 +660,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-下面的帐户字段会同步以供内部使用。
+以下“帐户”字段已同步以供内部使用。
 
 <table>
   <colgroup>
@@ -673,7 +674,7 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>所有者 </td>
-      <td>所有者id</td>
+      <td>ownerid</td>
     </tr>
     <tr>
       <td>机会</td>
@@ -688,7 +689,7 @@ ht-degree: 17%
 
 ## Marketo中与Microsoft相关的系统字段（只读） {#microsoft-related-system-fields}
 
-以下字段在Marketo中创建，但用户无法调整。
+以下字段是在Marketo中创建的，但用户无法对其进行调整。
 
 <table>
   <colgroup>
@@ -701,16 +702,16 @@ ht-degree: 17%
       <th>描述</th>
     </tr>
     <tr>
-      <td>Microsoft类型</td>
-      <td>潜在客户或联系人。 如果为空，则潜在客户仅作为人员存在在Marketo</td>
+      <td>Microsoft 类型</td>
+      <td>潜在客户或联系人。 如果为空，则潜在客户仅以Marketo中的人员的身份存在</td>
     </tr>
     <tr>
-      <td>Microsoft创建日期</td>
-      <td>在MS Dynamics中创建的日期(可以与在Marketo中创建的日期不同)</td>
+      <td>Microsoft 创建日期</td>
+      <td>在MS Dynamics中创建的日期(可以不同于在Marketo中创建的日期)</td>
     </tr>
     <tr>
       <td>Microsoft已删除</td>
-      <td>此人以前在Microsoft，但已被删除，现在只能住在Marketo</td>
+      <td>此人以前在Microsoft，但现在已被删除，仅居住在Marketo</td>
     </tr>
   </tbody>
 </table>

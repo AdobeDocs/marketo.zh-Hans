@@ -3,9 +3,10 @@ unique-page-id: 2949283
 description: 使用Marketo模板从Outlook中发送和跟踪 — Marketo文档 — 产品文档
 title: 使用Marketo模板从Outlook发送和跟踪
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Insights
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

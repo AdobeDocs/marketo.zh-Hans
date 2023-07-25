@@ -3,7 +3,8 @@ unique-page-id: 2949857
 description: 编辑事件渠道 — Marketo文档 — 产品文档
 title: 编辑事件渠道
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -12,23 +13,23 @@ ht-degree: 0%
 
 # 编辑事件渠道 {#edit-an-event-channel}
 
-您可以通过事件的 **概要** 选项卡或 **设置** 选项卡。
+您可以从事件的 **摘要** 制表符或从其 **设置** 选项卡。
 
 >[!NOTE]
 >
->此选项仅适用于没有关联成员的事件。 事件具有成员后，便无法更改渠道类型。
+>此选项仅适用于没有关联成员的事件。 一旦事件具有成员，您就不能更改渠道类型。
 
 >[!NOTE]
 >
->计划是一项特定的营销计划。 的 **频道** 旨在成为网络研讨会、贸易展或在线广告等交付机制。 根据您自己的实例中提供的内容，下拉列表中可能会显示不同的渠道选项。 您还可以  [创建您自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+>项目是一个特定的营销计划。 此 **渠道** 旨在作为投放机制，例如网络研讨会、贸易展或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉列表中看到不同的渠道选项。 您还可以  [创建您自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
-## 从“摘要”选项卡中 {#from-the-summary-tab}
+## 从“摘要”选项卡 {#from-the-summary-tab}
 
-1. 从 **营销活动**，请从树中选择您的事件。
+1. 起始日期 **营销活动**，从树中选择事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 导航到 **概要** 中。
+1. 导航到 **摘要** 视图。
 
    ![](assets/eventprogramsummary.png)
 
@@ -36,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/channeltypeevent.png)
 
-1. 从下拉列表中，选择一个新渠道。
+1. 从下拉列表中选择一个新渠道。
 
    ![](assets/tradeshowchange.png)
 
@@ -44,11 +45,11 @@ ht-degree: 0%
 
    ![](assets/2017-06-13-09-35-53.png)
 
-## 从设置选项卡 {#from-the-setup-tab}
+## 从“设置”选项卡 {#from-the-setup-tab}
 
 也可以从事件的 **设置** 选项卡。
 
-1. 从树中选择您的事件。
+1. 从树中选择事件。
 
    ![](assets/eventprogramseelct.png)
 
@@ -56,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/setuptabchangechannel.png)
 
-1. 选择新 **渠道**.
+1. 选择新的 **渠道**.
 
    ![](assets/tradeshowchange.png)
 
@@ -64,4 +65,4 @@ ht-degree: 0%
 
    ![](assets/2017-06-13-09-35-53.png)
 
-恭喜！ 你刚编辑了频道！
+恭喜！ 您刚刚编辑了一个频道！

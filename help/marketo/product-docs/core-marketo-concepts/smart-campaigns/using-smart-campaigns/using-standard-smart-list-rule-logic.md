@@ -3,7 +3,8 @@ unique-page-id: 1147001
 description: 使用标准智能列表规则逻辑 — Marketo文档 — 产品文档
 title: 使用标准智能列表规则逻辑
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -12,19 +13,19 @@ ht-degree: 0%
 
 # 使用标准智能列表规则逻辑 {#using-standard-smart-list-rule-logic}
 
-在生成营销活动智能列表时，您可能已注意到“使用过滤器”选项。 此设置允许您决定是否需要使用AND或OR运算符来评估过滤器。
+在构建营销活动智能列表时，您可能会注意到“使用过滤器”选项。 通过此设置，可决定是需要使用AND还是OR运算符来评估过滤器。
 
 ![](assets/image2014-9-22-14-3a12-3a42.png)
 
 >[!NOTE]
 >
->更改智能列表规则逻辑仅适用于过滤器、 **not** 触发器。
+>更改智能列表规则逻辑仅适用于筛选器， **非** 触发器。
 
-即使将上述设置设置为ALL，触发器也始终评估为OR。  以下是一个示例：
+触发器始终被评估为OR，即使以上设置设置为ALL也是如此。  示例如下：
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
-以下简单的说法是：
+以上智能列表用词表示：
 
 ```box
 IF person fills out My Form
@@ -37,7 +38,7 @@ Country is USA
 THEN follow the campaign's flow step(s)
 ```
 
-如果一个人填了表格 **或** 访问页面时，营销活动将根据该人员的评估 **全部** 或 **any** 后续过滤器的数量，具体取决于所使用的设置。
+所以，如果一个人填写了表格 **或** 访问页面，活动将根据以下条件评估该人员 **所有** 或 **任意** 根据使用的设置，选择后续过滤器。
 
 >[!MORELIKETHIS]
 >

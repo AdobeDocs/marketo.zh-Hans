@@ -2,9 +2,10 @@
 description: 批量导出API信息 — Marketo文档 — 产品文档
 title: 批量导出API信息
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

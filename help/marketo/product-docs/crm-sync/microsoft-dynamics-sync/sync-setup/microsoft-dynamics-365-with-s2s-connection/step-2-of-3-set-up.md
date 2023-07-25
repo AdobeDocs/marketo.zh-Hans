@@ -3,7 +3,8 @@ unique-page-id: 3571827
 description: 第2步（共3步） — 使用服务器到服务器连接设置Marketo解决方案 — Marketo文档 — 产品文档
 title: 第2步（共3步） — 设置具有服务器到服务器连接的Marketo解决方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+feature: Microsoft Dynamics
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -53,7 +54,6 @@ ht-degree: 0%
    >* 在授予应用程序用户权限时，请确保将其分配给“Marketo同步用户角色”。
    >* 记下应用程序用户的电子邮件地址，该地址来自 [查看详细信息选项](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} 电源平台上的。 在Marketo中设置与MS Dynamics的连接时，此电子邮件地址将用作用户名。
    >* 同步用户在CRM中所做的任何更新都将 **非** 已同步回Marketo。
-
 
 ## Azure AD Federated与AD FS内部部署 {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -111,4 +111,3 @@ Federated Azure AD到ADFS Onprem需要为特定应用程序创建主领域发现
 >
 >* [第3步（共3步）：将Marketo解决方案与服务器连接到服务器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
 >* [重新配置Dynamics身份验证方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}
-

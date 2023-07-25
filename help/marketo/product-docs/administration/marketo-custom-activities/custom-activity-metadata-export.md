@@ -2,7 +2,8 @@
 description: 自定义活动元数据导出 — Marketo文档 — 产品文档
 title: 自定义活动元数据导出
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
-source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
+feature: Custom Activities
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%

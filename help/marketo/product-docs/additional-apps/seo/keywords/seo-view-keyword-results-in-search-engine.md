@@ -1,31 +1,32 @@
 ---
 unique-page-id: 2949238
-description: SEO — 在搜尋引擎中檢視關鍵字結果 — Marketo檔案 — 產品檔案
-title: SEO — 在搜尋引擎中檢視關鍵字結果
+description: SEO — 在搜索引擎中查看关键词结果 — Marketo文档 — 产品文档
+title: SEO — 在搜索引擎中查看关键词结果
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# SEO — 在搜尋引擎中檢視關鍵字結果 {#seo-view-keyword-results-in-search-engine}
+# SEO — 在搜索引擎中查看关键词结果 {#seo-view-keyword-results-in-search-engine}
 
-如果您想檢視內容在搜尋引擎中的外觀，我們新增了實用的一小段捷徑。
+如果您想查看您的内容在搜索引擎中的外观，我们添加了一个方便的小捷径。
 
-1. 前往 **[!UICONTROL 關鍵字]** 區段。
+1. 转到 **[!UICONTROL 关键字]** 部分。
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. 暫留在關鍵字上。 按一下 **[!UICONTROL 檢視結果]**.
+1. 将鼠标悬停在关键字上。 单击 **[!UICONTROL 查看结果]**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
-1. 選擇您要檢視結果的搜尋引擎。
+1. 选择要在哪个搜索引擎中查看结果。
 
    ![](assets/image2014-9-18-13-3a34-3a16.png)
 
-您現在應該會在新視窗中看到關鍵字的搜尋結果。
+现在，您应该在新窗口中看到关键字的搜索结果。
 
 ![](assets/image2014-9-18-13-3a34-3a24.png)

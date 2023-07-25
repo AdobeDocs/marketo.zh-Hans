@@ -1,59 +1,60 @@
 ---
 unique-page-id: 2949176
-description: 瞭解搜尋引擎最佳化 — Marketo檔案 — 產品檔案
-title: 瞭解搜尋引擎最佳化
+description: 了解搜索引擎优化 — Marketo文档 — 产品文档
+title: 了解搜索引擎优化
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 0%
 
 ---
 
-# 瞭解搜尋引擎最佳化 {#understanding-search-engine-optimization}
+# 了解搜索引擎优化 {#understanding-search-engine-optimization}
 
-搜尋引擎最佳化(SEO)是最佳做法的集合，可協助您讓使用搜尋引擎的人看到您的頁面。 Marketo的SEO應用程式將協助您改善。
+搜索引擎优化(SEO)是最佳实践的集合，可帮助您使用搜索引擎将页面展示给用户。 Marketo的SEO应用程序将帮助您改进。
 
-首先，您應該透過這份方便易用的辭彙表學習基礎知識。
+首先，您应该通过这个方便易用的术语表学习基础知识。
 
-## SEO字彙表 {#seo-glossary}
+## SEO术语表 {#seo-glossary}
 
-**搜尋引擎最佳化(SEO)**：策略和技術組合，用於透過在搜尋引擎結果頁面(SERP)中取得高排名位置來增加網站流量。
+**搜索引擎优化(SEO)**：策略和技术组合，用于通过在搜索引擎结果页面(SERP)中获取高排名位置来增加网站流量。
 
-**關鍵字**：關鍵字是使用者在Google等搜尋引擎中輸入的字詞或片語， [!DNL Yahoo] 或 [!DNL Bing].
+**关键词**：关键字是用户在Google等搜索引擎中键入的单词或短语， [!DNL Yahoo] 或 [!DNL Bing].
 
-**傳入連結**：其他網站上將流量導向至您網站的連結。 連結網站的信譽越高，此傳入連結的價值就越高。
+**入站链接**：其他站点上的链接，将流量定向到您的站点。 链接站点的信誉越高，此入站链接的价值就越高。
 
-**SERP排名**：代表搜尋引擎結果頁面。 搜尋引擎傳回多個結果頁面。 SERP排名是您連結顯示的頁面。 通常每頁有10個結果。
+**SERP排名**：表示搜索引擎结果页面。 搜索引擎返回多个结果页面。 SERP排名是您链接显示的页面。 通常每页有10个结果。
 
-**搜尋引擎檢視**：搜尋引擎電腦看待您網站的方式，與人類不同。
+**搜索引擎视图**：搜索引擎计算机感知您网站的方式，而不是人类感知网站的方式。
 
-**胖頭搜尋詞**：鑄造非常大網的一般關鍵字。 在使用的全部搜尋詞語中，約佔19%。
+**胖头搜索词**：铸造非常大的网的通用关键字。 在所有使用的搜索词中，它们约占19%。
 
-（範例：鞋子）
+（例如：鞋子）
 
-**粗略的中間搜尋字詞**：更具體的關鍵字。 這些約佔總使用搜尋字詞的11%。
+**粗中间搜索词**：更具体的关键词。 这些搜索词占使用的所有搜索词的约11%。
 
-（範例：跑鞋）
+（例如：跑鞋）
 
-**長尾搜尋字詞**：超級特定關鍵字。 這些約佔70%的時間使用。
+**长尾搜索词**：超级特定的关键词。 70%左右的时间都会用到这些函数。
 
-（範例：極簡女性跑步鞋9碼）
+（例如：极简女性跑步鞋9码）
 
-**最佳化分數**：最佳化分數是專有的Marketo分數，會以1到100的級數測量您網站上的所有頁面。 其基礎是數十種最佳實務的彙編。 如果分數為70或更高，表示網站已充分最佳化。
+**优化得分**：优化分数是专有的Marketo分数，用于衡量您网站上的所有页面，从1到100。 它基于对数十种最佳实践的汇编。 如果得分不低于70，则表示网站已得到很好的优化。
 
-**頁面上最佳化**：可直接在您的網站本身內部採取的措施，以改善其在搜尋引擎結果頁面中的位置。
+**页面优化**：可直接在您的网站内部采取的措施，用于改善网站在搜索引擎结果页面中的位置。
 
-（範例：將關鍵字併入頁首）
+（示例：将关键字合并到页面标题中）
 
-**頁面外最佳化**：可在實際網站外部採取的措施，以改善其在搜尋排名中的位置。
+**页面外优化**：可以在实际网站之外采取的旨在提高其在搜索排名中位置的措施。
 
-（範例：增加來自高品質和知名網站的傳入連結數量）
+（示例：增加来自高质量和知名网站的入站链接数量）
 
-## 如何開始使用？ {#how-do-i-get-started}
+## 我该如何入门？ {#how-do-i-get-started}
 
-1. 透過開發策略 [瞭解關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
-1. 修正中的現有問題 [瞭解頁面](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
-1. 延伸您的觸角 [瞭解傳入連結](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"}
+1. 通过以下方式制定您的策略 [了解关键字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+1. 修复中的现有问题 [了解页面](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
+1. 通过以下方式扩展您的范围 [了解入站链接](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"}
 
-對於對您的業務重要的關鍵字，您的目標是儘可能靠近第一個頁面（和第一個結果）。
+对于对您的业务至关重要的关键词，您的目标是尽可能靠近第一个页面（和第一个结果）。

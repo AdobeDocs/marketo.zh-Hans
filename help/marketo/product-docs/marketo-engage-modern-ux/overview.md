@@ -2,7 +2,8 @@
 description: 概述 — Marketo文档 — 产品文档
 title: 概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 1%
@@ -11,32 +12,31 @@ ht-degree: 1%
 
 # 概述 {#overview}
 
-欢迎使用Adobe Marketo Engage Modern UX（用户体验），这是一个经过更新的界面，可提供增强的可用性以及整个Marketo Engage平台的新外观。
+欢迎使用Adobe Marketo Engage Modern UX（用户体验），这是一个更新的界面，在整个Marketo Engage平台中提供了增强的可用性以及新的外观。
 
 >[!PREREQUISITES]
 >
->如果您的IT团队使用限制Web访问允许列表，请要求他们添加以下域（包括星号）以允许使用所有Marketo资源和Web套接字：
+>允许列表如果您的IT团队使用限制Web访问，请让他们添加以下域（包括星号）以允许所有Marketo资源和Web套接字：
 >
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
+## 观看导览 {#take-the-tour}
 
-## 参观 {#take-the-tour}
-
-首次登录时，将显示一个弹出窗口，可为您提供新体验的概要。 小心，如果你选择跳过它，它会 **not** 稍后可用。
+首次登录时，将会出现一个弹出窗口，为您提供新体验的摘要。 注意，如果您选择跳过，它将 **非** 稍后提供。
 
 ![](assets/overview-1.png)
 
-这次旅行带你了解你需要了解的一切！
+该导览会向您介绍您需要了解的所有信息！
 
 ## 新增功能 {#whats-new}
 
-现代UX中有许多新功能，所有这些功能都旨在显着改进您的营销体验。
+现代UX中有许多新功能，所有这些功能都旨在显着改善您的营销体验。
 
 **图标**
 
-新界面具有改进和扩展的图像处理功能。 请在此处了解这些信息： [图标术语表](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
+新界面的特点是改进和扩展了图像。 请在此处了解这些规则： [图标术语表](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
 ![](assets/overview-2.png)
 
@@ -48,26 +48,26 @@ ht-degree: 1%
 
 **实例URL**
 
-您还可以快速访问munchkin ID，该ID现在会反映在实例的URL中（对于具有多个订阅的用户而言，此ID更有帮助）。
+您还可以快速访问您的munchkin ID，该ID现在会反映在您的实例的URL中（这对拥有多个订阅的用户甚至更有用）。
 
 ![](assets/overview-6.png)
 
 ## 新建树选项 {#new-tree-options}
 
-有许多新的树功能可供使用。
+有大量的新树功能可用。
 
 >[!NOTE]
 >
->在树中执行搜索将只显示前250个结果。 如果在搜索后找不到资产，请使用 [全局搜索](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) 函数。
+>在树中执行搜索将仅显示前250个结果。 如果在搜索后无法找到您的资产，请使用 [全局搜索](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) 函数。
 
-**Marketo Classicvs.新Marketo**
+**Marketo Classic与新Marketo**
 
 <table> 
  <tbody>
   <tr>
    <th>功能</th> 
    <th>Classic</th> 
-   <th>下一代</th> 
+   <th>新一代</th> 
   </tr>
   <tr>
    <td>同时应用多个过滤器</td> 
@@ -75,22 +75,22 @@ ht-degree: 1%
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>合并的草稿和审批树节点</td> 
+   <td>合并的草稿和批准树节点</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>在程序文件夹中创建本地资产</td> 
+   <td>在程序文件夹中创建本地资源</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>双击可展开/折叠树节点</td> 
+   <td>双击以展开/折叠树节点</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>从树中拖放到参与流</td> 
+   <td>从树拖放到参与流</td> 
    <td><strong>X</strong></td> 
    <td></td> 
   </tr>
@@ -100,17 +100,17 @@ ht-degree: 1%
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>按资产类型和状态筛选</td> 
+   <td>按资源类型和状态筛选</td> 
    <td><i>部分</i></td> 
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>突出背景以显示处于焦点状态的层次结构</td> 
+   <td>突出显示背景以显示处于焦点状态的层次结构</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>在搜索期间突出显示关键词</td> 
+   <td>搜索期间突出显示关键词</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -145,7 +145,7 @@ ht-degree: 1%
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>在存档文件夹中搜索</td> 
+   <td>在已存档的文件夹中搜索</td> 
    <td></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -165,7 +165,7 @@ ht-degree: 1%
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>搜索逻辑中的“单词开头”</td> 
+   <td>“Word starts with”搜索逻辑</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -174,7 +174,7 @@ ht-degree: 1%
 
 ## 全局导航 {#global-nav}
 
-看看新的全球导航。
+请看一下新的全球导航。
 
 ![](assets/overview-7.png)
 
@@ -182,16 +182,16 @@ ht-degree: 1%
  <tbody>
   <tr>
    <td>1</td> 
-   <td>不再有超级球下降</td> 
+   <td>没有更多超级球下拉列表</td> 
   </tr>
   <tr>
    <td>2</td> 
-   <td>列出的所有以前的超球项目</td> 
+   <td>已列出所有以前的超级球项目</td> 
   </tr>
   <tr>
   <tr>
    <td>3</td> 
-   <td>如果您有多个订阅，请单击子名称以轻松切换到另一个订阅</td> 
+   <td>如果您有多个订阅，请单击您的子名称以轻松切换到另一个订阅</td> 
   </tr>
   <tr>
    <td>4</td> 
@@ -202,10 +202,10 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->以前生活在超级球下拉列表中的所有内容，仍可用作“我的Marketo”中的拼贴。
+>以前存在于超级球下拉列表中的所有内容，现在仍可在“我的Marketo”中作为拼贴使用。
 
 >[!TIP]
 >
->在树中使用搜索将只生成您所在区域（例如营销活动）的结果。 如果您要搜索整个实例，请使用全局搜索。
+>在树中使用搜索将仅产生来自您所在部分（例如，营销活动）的结果。 如果要搜索整个实例，请使用全局搜索。
 
 享受新的Marketo Engage体验！

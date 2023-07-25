@@ -1,11 +1,12 @@
 ---
 unique-page-id: 6848922
-description: 下载Marketo潜在客户管理解决方案 — Marketo文档 — 产品文档
+description: 下载Marketo商机管理解决方案 — Marketo文档 — 产品文档
 title: 下载Marketo潜在客户管理解决方案
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
-source-git-commit: 1379fcbdc0a8673b1d6cb17a9d573d3625d5a1b8
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,17 +17,17 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-您需要将Marketo解决方案下载并安装到Microsoft Dynamics帐户中，才能开始同步。
+您需要下载一个Marketo解决方案并将其安装到您的Microsoft Dynamics帐户中，才能开始同步。
 
 >[!CAUTION]
 >
->您必须下载最新的Marketo解决方案 _之前_ 执行任何升级。
+>您必须下载最新的Marketo解决方案 _早于_ 执行任何升级。
 
 >[!NOTE]
 >
 >Marketo目前仅支持与Java 7兼容的SSL证书。
 
-1. 转到 **管理员** 的上界。
+1. 转到 **管理员** 区域。
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
@@ -42,8 +43,8 @@ ht-degree: 0%
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. 为您的Microsoft Dynamics版本选择相应的解决方案。
+1. 为您的Microsoft Dynamics版本选择适当的解决方案。
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-太棒了！ 解决方案的zip文件现在将下载到您的设备中。
+太棒了！ 解决方案的zip文件现在将下载到您的设备。

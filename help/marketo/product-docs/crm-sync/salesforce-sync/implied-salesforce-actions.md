@@ -1,25 +1,26 @@
 ---
 unique-page-id: 4719304
-description: 隐含的Salesforce操作 — Marketo文档 — 产品文档
-title: 默示的Salesforce操作
+description: 默认为Salesforce操作 — Marketo文档 — 产品文档
+title: 隐含的Salesforce操作
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# 默示的Salesforce操作 {#implied-salesforce-actions}
+# 隐含的Salesforce操作 {#implied-salesforce-actions}
 
-当运行特定于Salesforce的流步骤时，有时会自动执行额外的步骤。 以下是规则，因此您知道：
+在运行特定于Salesforce的流程步骤时，有时会自动执行额外的步骤。 规则如下，您知道：
 
-这些规则将适用 _当人员当前不在 [Salesforce.com](https://Salesforce.com)_ 作为联系人或潜在客户。
+这些规则将适用 _当人员当前不在时 [Salesforce.com](https://Salesforce.com)_ 作为联系人或潜在客户。
 
 <table> 
  <thead> 
   <tr> 
-   <th>Marketo流量步骤</th> 
+   <th>Marketo流程步骤</th> 
    <th>自动操作</th> 
   </tr> 
  </thead> 
@@ -29,7 +30,7 @@ ht-degree: 0%
    <td>将人员同步到SFDC</td> 
   </tr> 
   <tr> 
-   <td>在SFDC促销活动中更改状态</td> 
+   <td>在SFDC Campaign中更改状态</td> 
    <td>将人员同步到SFDC<br>添加到SFDC营销活动</td> 
   </tr> 
   <tr> 
@@ -47,6 +48,6 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-您可以使用 **SFDC类型** 将运算符设置为“不为空”时进行筛选。 所有SFDC记录在此字段中都有值。
+您可以使用以下代码过滤掉智能列表中的SFDC记录 **SFDC类型** 运算符设置为“不为空”的筛选条件。 所有SFDC记录在此字段中都有一个值。
 
-请记住，这些自动操作仅在潜在客户当前不在 [Salesforce.com](https://salesforce.com)
+请记住，仅当潜在客户当前不在中时，才会发生这些自动操作 [Salesforce.com](https://salesforce.com)

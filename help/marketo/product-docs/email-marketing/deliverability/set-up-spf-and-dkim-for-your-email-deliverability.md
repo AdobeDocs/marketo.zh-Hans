@@ -1,56 +1,56 @@
 ---
 unique-page-id: 4720710
 description: 为电子邮件可投放性设置SPF和DKIM - Marketo文档 — 产品文档
-title: 为电子邮件投放能力设置SPF和DKIM
+title: 为电子邮件可投放性设置SPF和DKIM
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '434'
 ht-degree: 0%
 
 ---
 
-# 为电子邮件投放能力设置SPF和DKIM {#set-up-spf-and-dkim-for-your-email-deliverability}
+# 为电子邮件可投放性设置SPF和DKIM {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-提高电子邮件投放率的一种快速方法是 **SPF** （发件人策略框架）和 **DKIM** （域名键已识别邮件）。 除了DNS条目之外，您还告诉收件人您已授权Marketo代表您发送电子邮件。 如果没有此更改，则由于电子邮件是从您的域发送，但是是从具有Marketo域的IP地址发送，因此您的电子邮件更有可能被标记为垃圾邮件。
+提高电子邮件投放率的一种快速方法是纳入 **SPF** （发件人策略框架）和 **DKIM** （域密钥识别邮件）放入您的DNS设置中。 除了您的DNS条目之外，您还告诉收件人，您已授权Marketo代表您发送电子邮件。 如果没有此更改，则电子邮件被标记为垃圾邮件的可能性会更高，因为电子邮件是从您的域发送的，但是从具有Marketo域的IP地址发送的。
 
 >[!CAUTION]
 >
->您需要网络管理员在DNS记录中进行此更改。
+>您需要网络管理员才能在DNS记录中进行此更改。
 
 ## 设置SPF {#set-up-spf}
 
 **如果您的域中没有SPF记录**
 
-请要求网络管理员将以下行添加到您的DNS条目。 替换 [域] (例如， &quot;company.com&quot;)和 [corpIP] ，例如 &quot;255.255.255.255&quot;). 如果您通过Marketo从多个域发送电子邮件，则应将其添加到每个域（在一行上）。
+要求网络管理员将以下行添加到您的DNS条目。 Replace [域] ，其中包含网站的主域(例如 “company.com”)和 [corpIP] 与企业电子邮件服务器的IP地址一起使用(例如 &quot;255.255.255.255&quot;). 如果您通过Marketo从多个域发送电子邮件，则应将其添加到每个域（在一行中）。
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
-**如果您的域上有SPF记录**
+**如果您的域中确实有SPF记录**
 
-如果DNS条目中已有SPF记录，请在其中添加以下内容：
+如果您的DNS条目中已有SPF记录，请添加以下内容：
 
-include:mktomail.com
+include：mktomail.com
 
 ## 设置DKIM {#set-up-dkim}
 
-**什么是DKIM? 为什么要设置DKIM?**
+**什么是DKIM？ 为什么要设置DKIM？**
 
-DKIM是一种身份验证协议，电子邮件接收者使用该协议来确定电子邮件是否是由声称是由谁发送的。 DKIM通常会提高电子邮件到收件箱的投放能力，因为接收者可以确信该邮件不是伪造的。
+DKIM是一种身份验证协议，电子邮件接收者使用它来确定电子邮件是由谁发送的，它指明是由谁发送的。 DKIM通常可提高电子邮件到收件箱的可投放性，因为收件人可以确信该消息不是伪造的。
 
-**DKIM是如何工作的？**
+**DKIM如何工作？**
 
-在您的DNS记录中设置公钥并在“管理员”部分(A)中激活发送域后，我们将为您的传出消息启用自定义DKIM签名，该签名将包含一个加密的数字签名，其中包含我们为您发送的每封电子邮件(B)。 接收器将能够通过在发送域的DNS(C)中查找“公钥”来解密数字签名。 如果电子邮件中的键值与DNS记录中的键值相对应，则接收邮件服务器将更有可能接受代表您发送的电子邮件Marketo。
+在您在DNS记录中设置公钥并在管理员部分激活发送域后(A)，我们将为您的传出邮件启用自定义DKIM签名，其中包括我们为您发送的每封电子邮件的加密数字签名(B)。 接收者将能够通过查找发送域的DNS (C)中的“公钥”来解密数字签名。 如果电子邮件中的密钥与您DNS记录中的密钥相对应，则接收邮件服务器将更有可能接受代表您发送的Marketo电子邮件。
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
-**如何设置DKIM?**
+**如何设置DKIM？**
 
 请参阅 [设置自定义DKIM签名](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [进一步了解SPF及其工作方式](http://www.open-spf.org/Introduction/){target="_blank"}
->* [我的SPF设置正确吗？](https://www.kitterman.com/spf/validate.html){target="_blank"}
->* [我使用了正确的语法吗？](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
-
+>* [详细了解SPF及其工作方式](http://www.open-spf.org/Introduction/){target="_blank"}
+>* [我的SPF设置是否正确？](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [我是否使用了正确的语法？](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}

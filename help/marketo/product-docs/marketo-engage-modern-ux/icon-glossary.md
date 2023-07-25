@@ -2,16 +2,17 @@
 description: 图标术语表 — Marketo文档 — 产品文档
 title: 图标术语表
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 19%
+ht-degree: 20%
 
 ---
 
 # 图标术语表 {#new-icon-glossary}
 
-以下是新Adobe Marketo Engage界面的图标。 如果需要引用Marketo Classic图标，则可以 [此处](/help/marketo/getting-started/classic-icon-glossary.md).
+以下是新Adobe Marketo Engage界面的图标。 如果您需要引用Marketo Classic图标，它们可以是 [在此处找到](/help/marketo/getting-started/classic-icon-glossary.md).
 
 ## 常规图标 {#general-icons}
 
@@ -30,12 +31,12 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td> 
    <td><img src="assets/batch-active.png"></td> 
-   <td>批量营销活动 — 活动</td> 
+   <td>批次营销活动 — 活动</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td> 
    <td><img src="assets/batch-inactive.png"></td> 
-   <td>批量营销活动 — 不活动</td> 
+   <td>批量活动 — 不活动</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td> 
@@ -50,7 +51,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
    <td><img src="assets/email-program.png"></td> 
-   <td>电子邮件计划</td> 
+   <td>电子邮件程序</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-template.png"></td> 
@@ -65,12 +66,12 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-event-program.png"></td> 
    <td><img src="assets/event-program.png"></td> 
-   <td>事件程序</td> 
+   <td>活动计划</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-executable-campaign.png"></td> 
    <td><img src="assets/executable-campaign.png"></td> 
-   <td>可执行营销活动</td> 
+   <td>可执行的营销活动</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td> 
@@ -85,7 +86,7 @@ ht-degree: 19%
   <tr>
    <td><strong>不适用</strong></td> 
    <td><img src="assets/filter-active.png"></td> 
-   <td>过滤器 — 活动</td> 
+   <td>筛选条件 — 活动</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-folder.png"></td> 
@@ -120,7 +121,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-in-app-program.png"></td> 
    <td><img src="assets/in-app-program.png"></td> 
-   <td>应用程序内计划</td> 
+   <td>应用程序内程序</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-landing-page.png"></td> 
@@ -155,7 +156,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-report.png"></td> 
    <td><img src="assets/report.png"></td> 
-   <td>报表</td> 
+   <td>报告</td> 
   </tr>
   <tr>
    <td><strong>不适用</strong></td> 
@@ -190,7 +191,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-social-button.png"></td> 
    <td><img src="assets/social-button.png"></td> 
-   <td>社交按钮</td> 
+   <td>“社交”按钮</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td> 
@@ -230,7 +231,7 @@ ht-degree: 19%
  </tbody>
 </table>
 
-## 批量营销活动 {#batch-campaigns}
+## 批量活动 {#batch-campaigns}
 
 <table> 
  <tbody>
@@ -242,7 +243,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
    <td><img src="assets/has-run-no-upcoming.png"></td> 
-   <td>已运行，未推出</td> 
+   <td>已运行，无即将出现</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td> 
@@ -262,7 +263,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled.png"></td> 
    <td><img src="assets/scheduled-to-run.png"></td> 
-   <td>计划运行</td> 
+   <td>已计划运行</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td> 
@@ -272,7 +273,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td> 
    <td><img src="assets/used-by-nurture.png"></td> 
-   <td>由培养使用</td> 
+   <td>由Nurture使用</td> 
   </tr>
  </tbody>
 </table>
@@ -294,12 +295,12 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-smart-campaign-is-requested.png"></td> 
    <td><img src="assets/is-requested.png"></td> 
-   <td>请求</td> 
+   <td>已请求</td> 
   </tr>
   <tr>
    <td><strong>不适用</strong></td> 
    <td><img src="assets/inactive.png"></td> 
-   <td>未激活</td> 
+   <td>不活跃</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td> 
@@ -422,7 +423,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-email-approved-with-draft.png"></td> 
    <td><img src="assets/approved-with-draft.png"></td> 
-   <td>已通过草稿</td> 
+   <td>已审批，草稿</td> 
   </tr>
  </tbody>
 </table>
@@ -439,17 +440,17 @@ ht-degree: 19%
   <tr>
    <td><strong>不适用</strong></td> 
    <td><img src="assets/approved-under-calculation.png"></td> 
-   <td>已批准 — 正在计算</td> 
+   <td>已批准 — 正在计算中</td> 
   </tr>
   <tr>
    <td><strong>不适用</strong></td> 
    <td><img src="assets/approved-under-recalculation.png"></td> 
-   <td>已批准 — 重新计算</td> 
+   <td>已批准 — 正在重新计算</td> 
   </tr>
   <tr>
    <td><strong>不适用</strong></td> 
    <td><img src="assets/draft-under-calculation.png"></td> 
-   <td>草稿 — 正在计算</td> 
+   <td>草稿 — 正在计算中</td> 
   </tr>
  </tbody>
 </table>

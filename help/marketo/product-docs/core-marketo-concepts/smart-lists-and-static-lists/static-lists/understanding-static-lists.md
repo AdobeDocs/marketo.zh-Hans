@@ -3,7 +3,8 @@ unique-page-id: 2949891
 description: 了解静态列表 — Marketo文档 — 产品文档
 title: 了解静态列表
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -12,38 +13,38 @@ ht-degree: 0%
 
 # 了解静态列表 {#understanding-static-lists}
 
-静态列表是Marketo最简单、最有用的功能之一。 它们只是数据库中的名称列表。 你会找到很多理由去使用它们。
+静态列表是Marketo最简单且最有用的功能之一。 它们只是来自数据库的名称列表。 您会找到很多使用它们的理由。
 
 >[!NOTE]
 >
->数据库中的单个人员可以位于多个不同的静态列表中。
+>数据库中的单个人员可以位于许多不同的静态列表中。
 
-静态列表和智能列表之间的差异对于了解此差异至关重要。
+静态列表和智能列表之间的区别至关重要。
 
 | 类型 | 逻辑 |
 |---|---|
-| 智能列表 | 基于 **定义规则** |
-| 静态列表 | 基于 **添加/删除每个人员** |
+| 智能列表 | 基于 **定义的规则** |
+| 静态列表 | 基于 **添加/删除每个人** |
 
 >[!CAUTION]
 >
->最常见的错误之一是，你只需“删除人员”，就可以从列表中删除某人。 **这是错的**. 删除人员会将其从 **整个数据库**，而不只是列表。
+>最常见的错误之一是，认为您只需通过“删除人员”即可将人员从列表中删除。 **这是错误的**. 删除人员会从中删除他们 **整个数据库**，而不只是列表。
 
-## 添加/删除列表中人员的方法 {#ways-to-add-remove-people-from-a-list}
+## 在列表中添加/删除人员的方法 {#ways-to-add-remove-people-from-a-list}
 
-1. 智能营销活动流程步骤([添加到列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [从列表中删除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. 智能营销活动流程步骤([添加到列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)， [从列表中删除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
 
-1. [单个操作流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
-1. 将人拖到树中的列表中
+1. [单操作流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. 将人员拖入树中的列表
 1. [列表导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-## 静态列表的一些用法 {#some-uses-of-a-static-list}
+## 静态列表的一些用途 {#some-uses-of-a-static-list}
 
-* 已预选接收营销消息的列表。
-* 用于发送恶意反智能消息的“竞争者”列表。
-* 特定状态的临时人员列表，智能营销活动在他们退出该状态时会删除这些人员。
+* 已预先选定用于接收营销消息的列表。
+* “竞争对手”列表，用于发送恶作剧的反情报消息。
+* 处于特定状态人员的临时列表，这些人员退出该状态后，智能营销活动会将其删除。
 
-享受LIST的力量！
+尽情享受清单的强大功能！
 
 >[!MORELIKETHIS]
 >

@@ -1,16 +1,17 @@
 ---
 unique-page-id: 6849070
-description: 下载适用于Marketo Dynamics的Marketo Sales Insight解决方案 — Microsoft文档 — 产品文档
-title: 下载适用于Marketo Dynamics的Microsoft Sales Insight解决方案
+description: 下载Marketo Sales Insight Solution for Microsoft Dynamics - Marketo文档 — 产品文档
+title: 下载Marketo Sales Insight Solution for Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
-source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# 下载适用于Marketo Dynamics的Microsoft Sales Insight解决方案 {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# 下载Marketo Sales Insight Solution for Microsoft Dynamics {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
@@ -18,9 +19,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->此页面上的插件适用于那些使用Marketo的本机CRM同步解决方案同步到Dynamics 365以Marketo Engage的同步用户。 对于具有以下权限的用户：自定义同步，MS Dynamics 365 Online（9.x及更高版本），并购买了Marketo Sales Insight， [包在此处](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
+>本页上的插件适用于那些使用Marketo的本机CRMMarketo Engage解决方案同步到Dynamics 365的用户。 对于拥有自定义同步、MS Dynamics 365 Online（9.x及更高版本）并购买了Marketo Sales Insight的用户， [程序包位于此处](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
-1. 转到 **管理员** 的上界。
+1. 转到 **管理员** 区域。
 
    ![](assets/mainnavhand.png)
 
@@ -36,8 +37,8 @@ ht-degree: 0%
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
-1. 为您的Microsoft Dynamics版本选择相应的解决方案。
+1. 为您的Microsoft Dynamics版本选择适当的解决方案。
 
    ![](assets/msd-online.png)
 
-太棒了！ 解决方案的zip文件将下载到您的设备中。
+太棒了！ 解决方案的zip文件将下载到您的设备。

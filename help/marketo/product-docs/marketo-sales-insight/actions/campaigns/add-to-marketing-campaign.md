@@ -4,7 +4,8 @@ title: 添加到营销活动
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->要从Sales Connect将人员添加到Marketo促销活动，Sales Connect必须具有该人员的Marketo潜在客户ID。
+>要将人员从Sales Connect添加到Marketo Campaign，Sales Connect必须具有人员的Marketo潜在客户ID。
 
 1. 单击 **人员** 选项卡。
 
@@ -31,15 +32,15 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-2.png)
 
-1. 单击复选框以选择您的联系人，然后单击 **将选定项添加到营销活动**.
+1. 单击复选框以选择您的联系人，然后单击 **将选定内容添加到营销活动**.
 
    ![](assets/add-to-marketing-campaign-3.png)
 
-1. 步到此处
+1. 在此处步骤
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. 由于您要向营销活动添加内容，因此请跳过选择“发件人”地址的步骤。 但是，您可以选择添加更多联系人。 如果选择，请单击个人，然后在中键入它们。 单击 **下一个** 完成时。
+1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果选择此选项，请单击“个人”并键入。 单击 **下一个** 完成时。
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -47,37 +48,37 @@ ht-degree: 0%
 
 PICC
 
-1. 单击工作区下拉列表，然后选择包含要将群组添加到的促销活动的工作区。
+1. 单击“工作区”下拉列表，然后选择包含要将组添加到其中的活动的工作区。
 
 PICC
 
 >[!NOTE]
 >
->如果您看不到所需的工作区，请确保管理员通过您的Marketo团队访问页面对其进行配置。
+>如果您看不到所需的工作区，请确保管理员通过Marketo团队访问页面进行了配置。
 
-1. 选择所需的营销活动并单击 **下一个**.
-
-PICC
-
-1. 您会向符合条件的联系人显示。 单击 **开始** 以增加它们。
+1. 选择所需的营销活动，然后单击 **下一个**.
 
 PICC
 
-## 向营销活动添加群组 {#add-a-group-to-a-campaign}
+1. 您看到的是符合条件的联系人。 单击 **开始** 才能添加这些元素。
+
+PICC
+
+## 将组添加到营销活动 {#add-a-group-to-a-campaign}
 
 1. 单击 **人员** 选项卡。
 
 PICC
 
-1. 在“我的群组”下，选择要添加到营销活动的群组。
+1. 在“我的组”下，选择要添加到营销策划的组。
 
 PICC
 
-1. 单击 **将群组添加到营销活动**.
+1. 单击 **将组添加到营销活动**.
 
 PICC
 
-1. 由于您要向营销活动添加内容，因此请跳过选择“发件人”地址的步骤。 但是，您可以选择添加更多联系人。 如果选择，请单击个人，然后在中键入它们。 单击 **下一个** 完成时。
+1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果选择此选项，请单击“个人”并键入。 单击 **下一个** 完成时。
 
 PICC
 
@@ -87,20 +88,20 @@ PICC
 
 >[!NOTE]
 >
->要从Sales Connect将人员添加到Marketo促销活动，Sales Connect必须具有该人员的Marketo潜在客户ID。
+>要将人员从Sales Connect添加到Marketo Campaign，Sales Connect必须具有人员的Marketo潜在客户ID。
 
-1. 单击工作区下拉列表，然后选择包含要将群组添加到的促销活动的工作区。
+1. 单击“工作区”下拉列表，然后选择包含要将组添加到其中的活动的工作区。
 
 PICC
 
 >[!NOTE]
 >
->如果您看不到所需的工作区，请确保管理员通过您的Marketo团队访问页面对其进行配置。
+>如果您看不到所需的工作区，请确保管理员通过Marketo团队访问页面进行了配置。
 
-1. 选择所需的营销活动并单击 **下一个**.
+1. 选择所需的营销活动，然后单击 **下一个**.
 
 PICC
 
-1. 您会向符合条件的联系人显示。 单击 **开始** 以增加它们。
+1. 您看到的是符合条件的联系人。 单击 **开始** 才能添加这些元素。
 
 PICC

@@ -1,39 +1,40 @@
 ---
 unique-page-id: 2949243
-description: SEO — 在關鍵字檢視中新增/移除欄 — Marketo檔案 — 產品檔案
-title: SEO — 在關鍵字檢視中新增/移除欄
+description: SEO — 从关键词视图添加/删除列 — Marketo文档 — 产品文档
+title: SEO — 从关键字视图添加/删除列
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# SEO — 在關鍵字檢視中新增/移除欄 {#seo-add-remove-columns-from-your-keywords-view}
+# SEO — 从关键字视图添加/删除列 {#seo-add-remove-columns-from-your-keywords-view}
 
-您可以調整關鍵字檢視，以顯示您最感興趣的資料。
+您可以调整关键词视图，以显示您最感兴趣的数据。
 
-1. 前往 **[!UICONTROL 關鍵字]** 區段。
+1. 转到 **[!UICONTROL 关键字]** 部分。
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
-   以下是預設欄：
+   以下是默认列：
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 
-1. 按一下齒輪圖示。
+1. 单击齿轮图标。
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. 選取或取消選取您要檢視的欄。 按一下 **[!UICONTROL 儲存]**.
+1. 选择或取消选择要查看的列。 单击 **[!UICONTROL 保存]**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   太棒了！ 您現在已自訂您的關鍵字檢視。
+   太棒了！ 您现在自定义了关键词视图。
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
    >[!MORELIKETHIS]
    >
-   >[瞭解關鍵字 — 摘要檢視](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[了解关键字 — 摘要视图](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

@@ -3,9 +3,10 @@ unique-page-id: 2953352
 description: 直接在营销日历中编辑条目 — Marketo文档 — 产品文档
 title: 直接在营销日历中编辑条目
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

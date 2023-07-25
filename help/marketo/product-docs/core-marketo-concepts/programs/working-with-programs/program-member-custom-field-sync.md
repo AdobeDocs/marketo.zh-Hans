@@ -1,51 +1,51 @@
 ---
-description: 项目成员自定义字段同步 — Marketo文档 — 产品文档
-title: 程序成员自定义字段同步
+description: 项目群成员自定义字段同步 — Marketo文档 — 产品文档
+title: 项目群成员自定义字段同步
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 4%
+source-wordcount: '355'
+ht-degree: 5%
 
 ---
 
-# 程序成员自定义字段同步 {#program-member-custom-field-sync}
+# 项目群成员自定义字段同步 {#program-member-custom-field-sync}
 
 >[!PREREQUISITES]
 >
->* 创建 [程序成员自定义字段](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
->* [将Salesforce营销活动与项目同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target=&quot;_blank&quot;}
-
+>* 创建 [项目群成员自定义字段](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* [将Salesforce Campaign与项目同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
->程序成员对象最多可以有20个自定义字段。 这些字段可用于任何程序。
+>程序成员对象最多可以有20个自定义字段。 这些字段可用于任何项目。
 
-## 将Salesforce字段映射到程序成员自定义字段 {#map-salesforce-fields-to-program-member-custom-fields}
+## 将Salesforce字段映射到项目群成员自定义字段 {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. 在Marketo中，单击 **管理员**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 单击 **Salesforce**，然后单击 **编辑** 程序成员自定义字段同步旁边。
+1. 单击 **Salesforce**，然后单击 **编辑** “程序成员自定义字段同步”旁边。
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. 使用搜索框可找到要映射的Salesforce字段。 在此示例中，我们使用Do Not Call。
+1. 使用搜索框找到要映射的Salesforce字段。 在本例中，我们使用Do Not Call。
 
    ![](assets/program-member-custom-field-sync-3.png)
 
-1. 单击下拉菜单。
+1. 单击下拉列表。
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. 选择要映射的所需Marketo项目成员自定义字段。
+1. 选择要映射的所需Marketo项目群成员自定义字段。
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >下拉列表将仅显示与Salesforce字段的数据类型匹配的程序成员自定义字段。
+   >下拉列表仅显示与Salesforce字段的数据类型匹配的项目群成员自定义字段。
 
 1. 对于其他字段映射，请清除搜索框并重复步骤3至5。
 
@@ -55,37 +55,37 @@ ht-degree: 4%
 
    >[!IMPORTANT]
    >
-   >今后，对映射字段中程序成员数据的更改将在Marketo和Salesforce之间同步。
+   >今后，对映射字段上的项目成员数据所做的更改将在Marketo和Salesforce之间同步。
 
    >[!NOTE]
    >
-   >如果在Salesforce中重命名或更改字段的数据类型，我们将删除该字段与程序成员自定义字段的任何映射。 但是，您可以在审核后使用新字段重新映射它。
+   >如果您重命名或更改Salesforce中某个字段的数据类型，我们将删除该字段与项目群成员自定义字段的任何映射。 但是，您可以在审阅后使用新字段重新映射它。
 
-## 从程序成员自定义字段中取消映射Salesforce字段 {#unmap-salesforce-fields-from-program-member-custom-fields}
+## 从项目群成员自定义字段中取消映射Salesforce字段 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
-如果您想要释放字段以替换它，或只是进行一般更改，则必须先执行取消映射。 这是方法。
+如果您曾想释放字段以替换它，或只是进行常规更改，则必须先执行取消映射。 下面是具体操作方法。
 
 1. 在Marketo中，单击 **管理员**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 单击 **Salesforce**，然后单击 **编辑** 程序成员自定义字段同步旁边。
+1. 单击 **Salesforce**，然后单击 **编辑** “程序成员自定义字段同步”旁边。
 
    ![](assets/program-member-custom-field-sync-8.png)
 
-1. 使用搜索框可找到要取消映射的字段。 在此示例中，我们使用Do Not Call。
+1. 使用搜索框找到要取消映射的字段。 在本例中，我们使用Do Not Call。
 
    ![](assets/program-member-custom-field-sync-9.png)
 
    >[!TIP]
    >
-   >您可以选择 **已映射** 复选框以仅查看映射的字段。
+   >您可以选择 **已映射** 复选框，以便仅查看映射的字段。
 
-1. 通过单击 **X** 字段旁边。
+1. 通过单击 **X** 在字段旁边。
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. 映射现已删除。 单击 **保存**.
+1. 现已删除映射。 单击 **保存**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 
@@ -99,18 +99,18 @@ ht-degree: 4%
   <tbody>
     <tr>
       <th>SFDC数据类型</th>
-      <th>程序成员自定义字段数据类型</th>
+      <th>项目群成员自定义字段数据类型</th>
     </tr>
     <tr>
       <td>文本</td>
       <td>字符串</td>
     </tr>
     <tr>
-      <td>挑库</td>
+      <td>选取列表</td>
       <td>字符串</td>
     </tr>
     <tr>
-      <td>多选选取列表</td>
+      <td>多选选择列表</td>
       <td>字符串</td>
     </tr>
     <tr>
@@ -122,11 +122,11 @@ ht-degree: 4%
       <td>字符串</td>
     </tr>
     <tr>
-      <td>数(m)</td>
+      <td>数字(m)</td>
       <td>整数</td>
     </tr>
     <tr>
-      <td>数(m，n)</td>
+      <td>数字(m，n)</td>
       <td>浮动</td>
     </tr>
     <tr>
@@ -158,7 +158,6 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->* [更改程序成员数据](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target=&quot;_blank&quot;}
->* [查看“程序成员”网格上的数据](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target=&quot;_blank&quot;}
->* [SFDC同步 — 促销活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target=&quot;_blank&quot;}
-
+>* [更改项目群成员数据](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [在程序成员网格上查看数据](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [SFDC同步 — Campaign同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

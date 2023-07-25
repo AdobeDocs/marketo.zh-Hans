@@ -2,7 +2,8 @@
 description: 使用HTML- Marketo文档 — 产品文档
 title: 使用HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -11,13 +12,13 @@ ht-degree: 0%
 
 # 使用HTML {#using-html}
 
-1. 在工具中复制电子邮件中的源代码，该工具用于在HTML中创建电子邮件(例如，Marketo的电子邮件编辑器)。
+1. 在用于在HTML中创建电子邮件的工具中(例如，Marketo的电子邮件编辑器)从电子邮件复制源代码。
 
 1. 选择要将HTML添加到的模板。
 
    ![](assets/using-html-1.png)
 
-1. 在模板编辑器卡中，单击 **编辑**.
+1. 在模板编辑器信息卡中，单击 **编辑**.
 
    ![](assets/using-html-2.png)
 
@@ -31,4 +32,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您看到错误“错误 — 要删除样式/java/html标记”，则表示您有一些我们不支持的样式。 您应该搜索单词style的源代码，并删除 `<style>` 至 `</style>`.
+>如果您看到错误“错误 — 删除样式/java/html标记”，则表示您有一些我们不支持样式。 您应在源代码中搜索单词style并从中删除所有内容 `<style>` 到 `</style>`.

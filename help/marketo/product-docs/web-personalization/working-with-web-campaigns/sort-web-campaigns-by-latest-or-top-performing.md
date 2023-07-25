@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2951252
-description: 按最新效果或最佳效果对Web促销活动进行排序 — Marketo文档 — 产品文档
-title: 按最新效果或最佳效果对Web促销活动进行排序
+description: 按最新或表现最佳对Web营销活动排序 — Marketo文档 — 产品文档
+title: 按最新或最佳绩效对Web营销活动进行排序
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 1%
 
 ---
 
-# 按最新效果或最佳效果对Web促销活动进行排序 {#sort-web-campaigns-by-latest-or-top-performing}
+# 按最新或最佳绩效对Web营销活动进行排序 {#sort-web-campaigns-by-latest-or-top-performing}
 
-您可以按几种不同的方式对Web营销活动进行排序。
+您可以通过几种不同的方式对Web营销活动进行排序。
 
 1. 转到 **Web营销活动**.
 
@@ -24,10 +25,10 @@ ht-degree: 1%
    >
    >**条件**
    >
-   >**最新**  — 将根据营销活动的创建日期进行排序。 最新营销活动。
+   >**最新**  — 将根据营销策划的创建日期进行排序。 顶部的最新营销活动。
    >
-   >**性能最佳**  — 将根据点进率对促销活动进行排序。 在顶部以最高级别点进。
+   >**表现最佳**  — 将根据点进率对营销活动进行排序。 顶部的最高点进。
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 
-   是的，这真的很简单。
+   是的，真的那么简单。

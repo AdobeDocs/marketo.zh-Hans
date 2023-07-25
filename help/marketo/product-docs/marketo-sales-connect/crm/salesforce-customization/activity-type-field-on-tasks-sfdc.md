@@ -3,7 +3,8 @@ unique-page-id: 14352476
 description: 任务中的活动类型字段(SFDC) - Marketo文档 — 产品文档
 title: 任务中的活动类型字段(SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+feature: Marketo Sales Connect
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%

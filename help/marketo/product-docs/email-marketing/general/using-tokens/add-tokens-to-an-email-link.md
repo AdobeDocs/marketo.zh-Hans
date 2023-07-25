@@ -1,32 +1,33 @@
 ---
 unique-page-id: 1147360
-description: 向电子邮件链接添加令牌 — Marketo文档 — 产品文档
-title: 向电子邮件链接添加令牌
+description: 将令牌添加到电子邮件链接 — Marketo文档 — 产品文档
+title: 将令牌添加到电子邮件链接
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# 向电子邮件链接添加令牌 {#add-tokens-to-an-email-link}
+# 将令牌添加到电子邮件链接 {#add-tokens-to-an-email-link}
 
-要向链接中插入额外的特定于人员的参数，您可以使用令牌。 这是方法。
+要将额外的和特定于人员的参数插入到链接中，您可以使用令牌。 下面是具体操作方法。
 
-1. 选择您的电子邮件，然后单击 **编辑草稿** 选项卡。
+1. 选择您的电子邮件并单击 **编辑草稿** 选项卡。
 
    ![](assets/one.png)
 
-1. 双击可编辑的区域。
+1. 双击可编辑区域。
 
    ![](assets/two.png)
 
-1. 找到或写入链接的文本。 选中它，然后单击 **插入/编辑链接** 图标。
+1. 找到或写入链接的文本。 将其突出显示，然后单击 **插入/编辑链接** 图标。
 
    ![](assets/three.png)
 
-1. 在 **URL** 单击 **插入**.
+1. 在中键入所需的令牌 **URL** 并单击 **插入**.
 
    ![](assets/four.png)
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-   就这样！
+   就是这样！
 
 >[!MORELIKETHIS]
 >

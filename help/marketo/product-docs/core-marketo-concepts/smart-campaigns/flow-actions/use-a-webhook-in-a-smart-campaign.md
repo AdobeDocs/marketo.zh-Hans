@@ -1,22 +1,23 @@
 ---
 unique-page-id: 1147025
-description: 在智能促销活动中使用Webhook - Marketo文档 — 产品文档
-title: 在智能营销活动中使用Webhook
+description: 在Smart Campaign中使用Webhook - Marketo文档 — 产品文档
+title: 在Smart Campaign中使用Webhook
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# 在智能营销活动中使用Webhook {#use-a-webhook-in-a-smart-campaign}
+# 在Smart Campaign中使用Webhook {#use-a-webhook-in-a-smart-campaign}
 
-使用 [WebHook](https://developers.marketo.com/documentation/webhooks/)，将其添加到 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) 作为流动操作。
+使用 [webhook](https://developers.marketo.com/documentation/webhooks/)，将其添加到 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) 作为流操作。
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请联系您的销售代表。
+>并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
 
 1. [创建智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
@@ -24,7 +25,7 @@ ht-degree: 0%
    >
    >Webhook只能用于触发营销活动。
 
-1. 转到 **流量** 选项卡，并拖入 **调用Webhook** 流量操作。
+1. 转到 **流量** 按Tab键并拖入 **调用Webhook** flow操作。
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
@@ -36,6 +37,6 @@ ht-degree: 0%
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. 最后，您可以在 **添加选择** 中。
+1. 最后，您可以使用Webhook在 **添加选项** 在流程步骤中。
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)

@@ -1,24 +1,25 @@
 ---
 unique-page-id: 2360341
-description: 将自定义字段同步到收入浏览器 — Marketo文档 — 产品文档
-title: 将自定义字段同步到收入资源管理器
+description: 将自定义字段同步到Revenue Explorer - Marketo文档 — 产品文档
+title: 将自定义字段同步到Revenue Explorer
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# 将自定义字段同步到收入资源管理器 {#sync-custom-fields-to-the-revenue-explorer}
+# 将自定义字段同步到Revenue Explorer {#sync-custom-fields-to-the-revenue-explorer}
 
-收入周期Analytics可以报告自定义Marketo字段，为此，您需要设置要同步的自定义字段。
+Revenue Cycle Analytics可以报告自定义Marketo字段，为此，您需要设置要同步的自定义字段。
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 转到 **管理员** 中。
+1. 转到 **管理员** 部分。
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
@@ -26,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. 单击 **自定义字段同步** 选项卡，然后选取所选的分析区域。
+1. 单击 **自定义字段同步** 按Tab键并选择您选择的分析区域。
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. 更改 **同步状态** to **已启用**.
+1. 更改 **同步状态** 到 **已启用**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
@@ -44,6 +45,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >启用后，该数据将在次日在收入周期分析中可用。
+   >启用后，数据将在次日在Revenue Cycle Analytics中可用。
 
-   干得好！ 现在您知道如何向RCA添加自定义字段。
+   做得好！ 现在您知道如何将自定义字段添加到RCA了。

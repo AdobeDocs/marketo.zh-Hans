@@ -3,7 +3,8 @@ unique-page-id: 2359732
 description: 在自由格式登陆页面中使用动态内容 — Marketo文档 — 产品文档
 title: 在自由格式登陆页面中使用动态内容
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -12,14 +13,13 @@ ht-degree: 0%
 
 # 在自由格式登陆页面中使用动态内容 {#use-dynamic-content-in-a-free-form-landing-page}
 
-在登陆页面中使用动态内容可吸引受众获取目标信息。
+在登陆页面中使用动态内容可让受众获得有针对性的信息。
 
 >[!PREREQUISITES]
 >
 >* [创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [创建自由格式登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [向自由格式登陆页面添加新表单](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
+>* [将新表单添加到自由表单登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 ## 添加分段 {#add-segmentation}
 
@@ -31,25 +31,25 @@ ht-degree: 0%
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-1. 单击 **区段划分依据**.
+1. 单击 **分段依据**.
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
-1. 输入分段名称并单击 **保存**.
+1. 输入分段名称，然后单击 **保存**.
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-1. 您的区段及其区段显示在右侧的动态下方。
+1. 您的区段及其区段会显示在右侧的“动态”下方。
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 
 >[!NOTE]
 >
->默认情况下，所有登陆页面元素都为静态元素。
+>默认情况下，所有登陆页面元素均为“静态”。
 
-## 使元素动态 {#make-element-dynamic}
+## 使元素成为动态元素 {#make-element-dynamic}
 
-1. 将动态内容元素从下拖放 **静态** to **动态**.
+1. 将动态内容元素从下拖放 **静态** 到 **动态**.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 应用动态内容 {#apply-dynamic-content}
 
-1. 在区段下选择元素，单击设置图标，然后单击 **编辑**. 对每个区段重复执行上述步骤。
+1. 在区段下选择一个元素，单击设置图标，然后单击 **编辑**. 对每个区段重复此操作。
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
@@ -73,12 +73,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->在修改各个区段的内容之前，先创建默认登陆页面。
+>在修改各种区段的内容之前，请先创建默认登陆页面。
 
-瞧！ 您现在可以发送目标内容。
+看！ 您现在可以发送目标内容。
 
 >[!MORELIKETHIS]
 >
 >* [预览包含动态内容的登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
 >* [在电子邮件中使用动态内容](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-

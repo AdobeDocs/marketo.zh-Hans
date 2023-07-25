@@ -1,59 +1,60 @@
 ---
 unique-page-id: 2949220
-description: SEO — 新增附註至頁面問題 — Marketo檔案 — 產品檔案
-title: SEO — 新增附註至頁面問題
+description: SEO — 向页面问题添加注释 — Marketo文档 — 产品文档
+title: SEO — 向页面问题添加注释
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# SEO — 新增附註至頁面問題 {#seo-add-notes-to-page-issues}
+# SEO — 向页面问题添加注释 {#seo-add-notes-to-page-issues}
 
-您知道您可以新增附注到頁面問題做為個人提醒或團隊訊息嗎？
+您是否知道可以将备注作为个人提醒或团队消息添加到页面问题？
 
-## 在頁面問題區段中新增附註 {#adding-notes-in-page-issues-section}
+## 在页面问题部分添加注释 {#adding-notes-in-page-issues-section}
 
-1. 前往 **[!UICONTROL 頁面]** 區段。
+1. 转到 **[!UICONTROL 页面]** 部分。
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. 在頁面索引標籤上，按一下 **[!UICONTROL 問題]**.
+1. 在页面选项卡上，单击 **[!UICONTROL 问题]**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. 暫留在您要新增附註的問題上。 按一下 **[!UICONTROL 新增註解]**.
+1. 将鼠标悬停在要向其添加注释的问题上。 单击 **[!UICONTROL 添加便笺]**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
-1. 在黃色文字方塊中輸入註記。 按一下文字方塊外部將會儲存註記。
+1. 在黄色文本框中输入注释。 单击文本框外部将保存注释。
 
 ![](assets/image2014-9-18-13-3a12-3a32.png)
 
 >[!TIP]
 >
->您可以按一下小的 **x** 左上角。
+>您可以通过单击小的 **x** 左上角。
 
-## 在頁面詳細資料向下展開中新增附註 {#add-notes-in-page-detail-drill-down}
+## 在页面详细信息向下钻取中添加注释 {#add-notes-in-page-detail-drill-down}
 
-1. 前往 **[!UICONTROL 頁面]** 區段。
+1. 转到 **[!UICONTROL 页面]** 部分。
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
-1. 按一下您要檢視其詳細資訊的頁面。
+1. 单击要查看其详细信息的页面。
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. 暫留在您要新增附註的頁面問題上，然後按一下 **[!UICONTROL 新增附註]**.
+1. 将鼠标悬停在要向添加注释的页面问题上，然后单击 **[!UICONTROL 添加注释]**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. 輸入您的備註。 按一下 **[!UICONTROL 儲存]**.
+1. 输入注释。 单击 **[!UICONTROL 保存]**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   已新增您的附註！
+   已添加您的注释！
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)

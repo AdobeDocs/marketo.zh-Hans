@@ -3,7 +3,8 @@ unique-page-id: 1147116
 description: 管理我的令牌 — Marketo文档 — 产品文档
 title: 管理我的令牌
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -12,11 +13,11 @@ ht-degree: 0%
 
 # 管理我的令牌 {#managing-my-tokens}
 
-使用令牌可简化您在Marketo中的工作。 您可以使用 [我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) （自定义令牌）。 这是如何制造它们。
+使用令牌可简化您在Marketo中的工作。 您可以使用 [我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) （自定义令牌）来标记流步骤、webhook、电子邮件和登陆页面。 这是如何制作它们。
 
 >[!TIP]
 >
->进一步了解中已提供的令牌 [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+>进一步了解中已有哪些令牌 [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
 
 ## 创建我的令牌 {#create-a-my-token}
 
@@ -32,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
-1. 键入唯一名称。 输入令牌的相关值。
+1. 键入唯一名称。 为令牌输入相关值。
 
    ![](assets/image2014-9-18-12-3a4-3a53.png)
 
@@ -46,7 +47,7 @@ ht-degree: 0%
 
 ## 编辑我的令牌 {#edit-a-my-token}
 
-1. 双击 **我的令牌** 并做出更改。 单击 **保存**.
+1. 双击 **我的令牌** 进行更改。 单击 **保存**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -54,7 +55,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->删除我的令牌时，请确保未在任何资产中引用该令牌。 如果删除，空白将显示在其引用的任何位置。
+>删除“我的令牌”时，请确保未在任何资源中引用它。 如果删除，则被引用的任何位置都将显示一个空格。
 
 1. 右键单击 **我的令牌**. 选择 **删除令牌**.
 
@@ -67,6 +68,5 @@ ht-degree: 0%
    >[!MORELIKETHIS]
    >
    >* [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   >* [了解项目中的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [了解程序中的我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
    >* [在我的令牌中使用URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
-

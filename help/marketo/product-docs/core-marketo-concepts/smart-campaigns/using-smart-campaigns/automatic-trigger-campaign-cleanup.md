@@ -1,57 +1,58 @@
 ---
 unique-page-id: 1147074
-description: 自动触发器促销活动清理 — Marketo文档 — 产品文档
-title: 自动触发营销活动清理
+description: 自动触发器营销活动清理 — Marketo文档 — 产品文档
+title: 自动触发器营销活动清理
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# 自动触发营销活动清理 {#automatic-trigger-campaign-cleanup}
+# 自动触发器营销活动清理 {#automatic-trigger-campaign-cleanup}
 
-Marketo提供了一项不错/免费的服务，用于停用不再获取活动的触发式智能营销活动。 这可加快系统整体性能并节省您的时间。
+Marketo有一项不错的/免费的服务，可用于停用已触发且不再进行活动的智能营销活动。 这可以加快整体系统性能并节省您的时间。
 
-## 怎么了？ {#what-happens}
+## 会发生什么？ {#what-happens}
 
-Marketo每季度会发现一次智能营销活动，这些活动已休眠（无人）6个月或更久，并停用它们。
+每季度一次，Marketo会发现休眠（无人员）6个月或更长时间并取消激活的智能营销活动。
 
 ## 你先通知我好吗？ {#will-you-notify-me-first}
 
-当然！ 每季度一次，您将提前一周收到通知，显示我们计划停用的每个营销活动。
+当然！ 每季度一次，您会提前一周收到通知，显示我们计划停用的每个营销活动。
 
 1. 单击 **通知** 图标。
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. 单击 **已计划空闲触发器促销活动清理**. 然后，单击 **这些空闲触发器营销活动将被停用** 链接。
+1. 单击 **已计划空闲触发器活动清理**. 然后单击 **这些空闲触发器营销活动将被停用** 链接。
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
-   您将看到计划停用的智能营销活动列表。
+   您将看到计划取消激活的智能营销活动的列表。
 
    ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## 将停用哪些营销活动？ {#which-campaigns-will-be-deactivated}
 
-我们将只停用已处于活动状态6个月但在该时间段内有0人资格的触发器营销活动。
+我们将仅取消激活已激活超过6个月但在此期间有0人符合条件的触发器营销活动。
 
-## 等等！ 不是这次竞选！ {#wait-not-this-campaign}
+## 等等！ 不是此营销活动！ {#wait-not-this-campaign}
 
-别担心 — 任何智能营销活动上的时钟都可以通过以下方式重置：
+别担心 — 任何智能营销活动的时钟都可以通过以下方式重置：
 
 * 符合营销活动资格的人员。
 * 手动停用和重新激活营销活动。
 
-任一方将重置6个月的计数器。
+两者都会重置6个月的计数器。
 
-## 是否告知我已停用哪些营销活动？ {#will-you-let-me-know-which-campaigns-were-deactivated}
+## 能否告知我哪些营销活动已停用？ {#will-you-let-me-know-which-campaigns-were-deactivated}
 
-绝对 — 在初始通知发出一周后，我们将停用列出的营销活动（减去任何符合条件的人员或已停用/重新激活的营销活动）并发布确认通知。
+绝对 — 在原始通知发布一周后，我们将停用列出的营销活动（减去任何至少符合一个人员条件或已停用/重新激活的营销活动），并发布确认通知。
 
-1. 选择 **已计划空闲触发器促销活动清理** 通知。 单击 **这些空闲触发器促销活动** 链接。
+1. 选择 **已计划空闲触发器活动清理** 通知。 单击 **这些空闲触发器活动** 链接。
 
    ![](assets/automatic-trigger-campaign-cleanup-4.png)
 

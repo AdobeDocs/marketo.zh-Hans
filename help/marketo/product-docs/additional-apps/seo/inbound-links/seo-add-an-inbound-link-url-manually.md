@@ -1,35 +1,36 @@
 ---
 unique-page-id: 2949247
-description: SEO — 手動新增傳入連結URL - Marketo檔案 — 產品檔案
-title: SEO — 手動新增傳入連結URL
+description: SEO — 手动添加入站链接URL - Marketo文档 — 产品文档
+title: SEO — 手动添加入站链接URL
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-# SEO — 手動新增傳入連結URL {#seo-add-an-inbound-link-url-manually}
+# SEO — 手动添加入站链接URL {#seo-add-an-inbound-link-url-manually}
 
-您可以手動新增傳入連結。 方法如下：
+您可以手动添加入站链接。 方法如下：
 
-1. 前往 **[!UICONTROL 傳入連結]** 區段。
+1. 转到 **[!UICONTROL 入站链接]** 部分。
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. 按一下 **[!UICONTROL 新增URL]**.
+1. 单击 **[!UICONTROL 添加URL]**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. 輸入URL。 按一下 **[!UICONTROL 新增]**.
+1. 键入URL。 单击 **[!UICONTROL 添加]**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >您知道您可以 [將傳入連結新增至新清單或現有清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}？ 立即檢視！
+   >你知道你可以 [将入站链接添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}？ 看看吧！
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
-振作起來！ 您現在應該會看到新URL已新增至清單。 收集所有資料可能需要一些時間。
+摇滚！ 现在，您应该会看到新的URL已添加到列表中。 收集所有数据可能需要一些时间。

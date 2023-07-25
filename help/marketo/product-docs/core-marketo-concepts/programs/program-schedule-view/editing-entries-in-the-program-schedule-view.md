@@ -1,18 +1,19 @@
 ---
 unique-page-id: 1147136
-description: 编辑项目计划视图 — Marketo文档 — 产品文档中的条目
-title: 在“程序计划”视图中编辑条目
+description: 在“项目计划”视图中编辑条目 — Marketo文档 — 产品文档
+title: 在程序计划视图中编辑条目
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# 在“程序计划”视图中编辑条目 {#editing-entries-in-the-program-schedule-view}
+# 在程序计划视图中编辑条目 {#editing-entries-in-the-program-schedule-view}
 
-您可以在计划视图中对程序的不同元素进行编辑。
+您可以在计划视图中编辑项目的不同元素。
 
 ## 编辑条目的名称 {#edit-an-entrys-name}
 
@@ -20,13 +21,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. 键入新名称并按 **Enter/Return** 来确认更改。
+1. 键入新名称并按 **输入/返回** 确认更改。
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
 >[!CAUTION]
 >
->这只会更改计划视图中的显示名称。 项目中资产的名称将保持不变。
+>这只会更改计划视图中的显示名称。 您的项目中的资产名称将保持不变。
 
 ## 编辑条目的描述 {#edit-an-entrys-description}
 
@@ -52,4 +53,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 已运行的智能营销活动和电子邮件项目条目无法移至过去。
+> 已运行的智能营销活动和电子邮件程序条目不能移到过去。

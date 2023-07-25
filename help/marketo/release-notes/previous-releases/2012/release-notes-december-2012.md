@@ -3,42 +3,43 @@ unique-page-id: 2951107
 description: 发行说明 — 2012年12月 — Marketo文档 — 产品文档
 title: 发行说明 — 2012年12月
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# 发行说明：2012年12月 {#release-notes-december}
+# 发行说明： 2012年12月 {#release-notes-december}
 
-12月版包括备受期待的 **转发给朋友** 功能，以及其他一些实用组件！ 请注意，标有星号(&#42;)仅在Select Edition和RCA(Revenue Cycle Analytics)中可用。
+12月版本包括人们非常期待的 **转发给朋友** 功能以及其他一些实用组件！ 请注意，标记有星号(&#42;)仅在Select Edition和RCA(Revenue Cycle Analytics)中可用。
 
 ## 转发给朋友 {#forward-to-friend}
 
-通过在 **转发给朋友** 链接。 新增的过滤器和触发器将通过识别转发电子邮件的用户以及收到转发电子邮件的用户，帮助您识别影响者。
+通过包含来启用与他人共享内容 **转发给朋友** 电子邮件中的链接。 添加新的过滤器和触发器将帮助您识别影响者，方法是识别转发电子邮件的用户以及接收转发电子邮件的用户。
 
-包含 **转发给朋友** 邀请，在编辑器中打开它并插入 `{{system.forwardToFriendLink}}` 令牌。
+要包含 **转发给朋友** 邀请函在电子邮件中，在编辑器中打开该邀请函，然后插入 `{{system.forwardToFriendLink}}` 令牌。
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-使用相应的触发器和过滤器来识别使用 **转发给朋友** 链接，以及收到电子邮件的用户。
+使用相应的触发器和过滤器来标识使用了的用户 **转发给朋友** 链接，以及收到电子邮件的用户。
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
-## 精细的管理权限 {#granular-admin-permissions}
+## 粒度管理权限 {#granular-admin-permissions}
 
-我们的最新版本通过控制每个角色对Marketo管理员区域中不同功能的访问权限，使您能够更好地访问和控制管理员角色。 创建新角色时，您可以分配该角色可能访问的特定管理员功能。
+通过控制每个角色对Marketo管理区域中不同功能的访问，我们的最新版本为您提供了对管理员角色的更大访问和控制。 创建新角色时，您可以分配该角色可以访问的特定管理员功能。
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->默认情况下，具有“访问管理员”权限的现有角色在和除非进行修改，否则将一直有权访问所有管理员功能。
+>默认情况下，具有“访问管理员”权限的现有角色有权访问所有管理员功能，直到对其进行修改为止。
 
 ## BrightTALK适配器 {#brighttalk-adapter}
 
-通过Marketo BrightTALK适配器，您可以从实时或按需网络广播中捕获出席信息，直接捕获到Marketo活动中！
+Marketo BrightTALK适配器使您能够从实时或按需网络广播中捕获出席信息，直接放入Marketo活动中！
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
@@ -50,25 +51,25 @@ Sales Insight现在可供Microsoft Dynamics客户使用！
 
 在Marketo和Microsoft Dynamics之间同步机会数据。
 
-## 影响营销的机会报表&#42; {#marketing-influenced-opportunities-report}
+## 营销影响机会报表&#42; {#marketing-influenced-opportunities-report}
 
-查看您的营销计划对贵公司的销售渠道和收入的影响百分比。 在 **收入浏览器**，您现在可以在Opportunity Analysis中使用新的“受营销影响的机会”黄点创建自定义报表。 您还可以在Standard文件夹中使用以下两个报表：
+查看您的营销计划对公司管道和收入的影响百分比。 In **Revenue Explorer**，您现在可以在Opportunity Analysis中使用新的“营销影响的机会”黄点创建自定义报表。 您还可以在“标准”文件夹中使用以下两个报表：
 
-* 营销对创建的机会的影响
-* 营销对机会的影响，已结束赢
+* 营销对所创造的机会的影响
+* 营销对已结束的商机的影响获胜
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Program Opportunity分析中的Custom Opportunity字段&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Program Opportunity Analysis中的自定义Opportunity字段&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-添加自定义机会字段，以在收入资源管理器中扩充您的计划机会分析报表。
+添加自定义机会字段以丰富收入资源管理器中的项目机会分析报表。
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## 促销活动检查器 {#campaign-inspector}
+## 活动检查器 {#campaign-inspector}
 
-您是否曾想知道哪些营销活动使用特定的流量操作，如“更改分数”或“请求营销活动”？ 或者，在何处使用特定过滤器？ 新的营销活动检查器（可从“财宝箱”中获取）可让您识别这些营销活动，以及有错误的活动和营销活动。
+您是否曾想过哪些营销活动在使用特定的流量操作，如更改得分或请求营销活动？ 或者在何处使用特定过滤器？ 新的营销活动检查器（可从“金箱”中获取）使您能够识别这些营销活动，以及存在错误的有效营销活动和营销活动。
 
-转到 **管理员** > **宝箱** 启用 **促销活动检查器**.
+转到 **管理员** > **宝箱** 以启用 **活动检查器**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

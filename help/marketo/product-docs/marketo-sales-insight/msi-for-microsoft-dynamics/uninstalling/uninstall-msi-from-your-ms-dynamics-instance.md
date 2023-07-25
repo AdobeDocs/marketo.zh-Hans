@@ -1,18 +1,19 @@
 ---
 unique-page-id: 37355600
-description: 从MS Dynamics实例 — Marketo文档 — 产品文档中卸载MSI
-title: 从MS Dynamics实例中卸载MSI
+description: 从MS Dynamics实例中卸载MSI - Marketo文档 — 产品文档
+title: 从MS Dynamics实例卸载MSI
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-# 从MS Dynamics实例中卸载MSI {#uninstall-msi-from-your-ms-dynamics-instance}
+# 从MS Dynamics实例卸载MSI {#uninstall-msi-from-your-ms-dynamics-instance}
 
-要从MS Dynamics实例中卸载MSI，您需要在Marketo和MS Dynamics中执行步骤。
+要从MS Dynamics实例卸载MSI，您需要在Marketo和MS Dynamics中执行步骤。
 
 >[!PREREQUISITES]
 >
@@ -30,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 选择 **禁用同步** 复选框，单击 **保存**.
+1. 选择 **禁用同步** 复选框，然后单击 **保存**.
 
    >[!NOTE]
    >
-   >确保 [禁用全局MS Dynamics同步](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) 禁用字段同步之前。
+   >确保您 [禁用全局MS Dynamics同步](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) ，然后再禁用字段同步。
 
    ![](assets/eight.png)
 
@@ -44,11 +45,11 @@ ht-degree: 0%
 
 1. 单击 **解决方案**.
 
-1. 选择 **Marketo Sales Insight** 并单击删除图标。
+1. 选择 **Marketo Sales Insight** ，然后单击删除图标。
 
-1. 当弹出“卸载解决方案”模式时，单击 **确定**.
+1. 当弹出Uninstall Solution模式时，单击 **确定**.
 
-   MS Dynamics解决方案通常需要大约20分钟才能完全卸载。 但是，如果您有一个大型MS Dynamics实例，则可能需要更长的时间。
+   完全卸载MS Dynamics解决方案通常需要大约20分钟。 但是，如果您有一个大的MS Dynamics实例，则可能需要更长的时间。
 
    >[!NOTE]
    >

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2949285
-description: 在Marketo - Marketo文档 — 产品文档中记录来自您潜在客户的入站邮件
-title: 在Marketo中记录来自您潜在客户的入站邮件
+description: 在Marketo - Marketo文档 — 产品文档中记录潜在客户的入站邮件
+title: 在Marketo中记录潜在客户的入站邮件
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# 在Marketo中记录来自您潜在客户的入站邮件 {#log-inbound-mail-from-your-leads-in-marketo}
+# 在Marketo中记录潜在客户的入站邮件 {#log-inbound-mail-from-your-leads-in-marketo}
 
-您可以使用Marketo Email Add-In在Outlook中直接记录潜在客户的回复。
+您可以使用Marketo电子邮件加载项直接在Outlook中记录潜在客户的回复。
 
 ## 从主Outlook应用程序 {#from-the-main-outlook-application}
 
@@ -22,26 +23,25 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您还可以右键单击消息并单击 **使用Marketo登录**.
+>您还可以右键单击消息，然后单击 **使用Marketo登录**.
 
-您应会看到确认消息。
+您应该会看到一个确认消息。
 
 ![](assets/image2014-9-23-17-3a13-3a39.png)
 
 ## 从电子邮件本身 {#from-the-email-itself}
 
-如果您已打开电子邮件，则只需单击此处的使用Marketo记录按钮即可。
+如果您已打开电子邮件，只需从此处单击“使用Marketo登录”按钮即可。
 
 ![](assets/image2014-9-23-17-3a14-3a14.png)
 
-您应会看到与其他方法相同的确认。
+您应该会看到与其他方法相同的确认。
 
 ![](assets/image2014-9-23-17-3a14-3a29.png)
 
-记录您的潜在客户的回复，以将其添加到其在Marketo的历史记录中。
+记录潜在客户的回复，以将其添加到Marketo中的历史记录中。
 
 >[!MORELIKETHIS]
 >
->* [使用适用于Outlook的Marketo Email Add-in发送和跟踪电子邮件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用适用于Outlook的Marketo电子邮件加载项发送和跟踪电子邮件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [使用Marketo模板从Outlook发送和跟踪](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-

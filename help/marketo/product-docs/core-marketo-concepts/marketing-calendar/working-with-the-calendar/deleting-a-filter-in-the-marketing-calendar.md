@@ -3,7 +3,8 @@ unique-page-id: 1147302
 description: 在营销日历中删除过滤器 — Marketo文档 — 产品文档
 title: 在营销日历中删除筛选器
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

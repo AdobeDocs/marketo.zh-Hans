@@ -1,16 +1,17 @@
 ---
 unique-page-id: 15368208
-description: 如何在Salesforce沙盒中安装自定义 — Marketo文档 — 产品文档
-title: 如何在Salesforce沙盒中安装自定义
+description: 如何在Salesforce沙盒中安装自定义项 — Marketo文档 — 产品文档
+title: 如何在Salesforce沙盒中安装自定义项
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# 如何在Salesforce沙盒中安装自定义 {#how-to-install-customizations-in-your-salesforce-sandbox}
+# 如何在Salesforce沙盒中安装自定义项 {#how-to-install-customizations-in-your-salesforce-sandbox}
 
 >[!NOTE]
 >
@@ -24,12 +25,12 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. 在管理员设置下，单击 **Salesforce。**
+1. 在管理设置下，单击 **Salesforce。**
 
    ![](assets/two-3.png)
 
-1. 单击 **安装自定义**.
+1. 单击 **安装自定义项**.
 
    ![](assets/three-3.png)
 
-   接下来，只需像在常规Salesforce帐户中一样完成安装自定义设置的步骤即可。
+   接下来，只需按照在常规Salesforce帐户中安装自定义项的步骤进行操作。

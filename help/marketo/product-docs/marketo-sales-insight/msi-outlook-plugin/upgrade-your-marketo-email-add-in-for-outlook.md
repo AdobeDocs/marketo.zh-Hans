@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2949279
 description: 升级适用于Outlook的Marketo电子邮件加载项 — Marketo文档 — 产品文档
-title: 升级您的Marketo Email Add-In for Outlook
+title: 升级适用于Outlook的Marketo电子邮件加载项
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 8%
 
 ---
 
-# 升级您的Marketo Email Add-In for Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
+# 升级适用于Outlook的Marketo电子邮件加载项 {#upgrade-your-marketo-email-add-in-for-outlook}
 
-当有新版Marketo Email Add-in for Outlook可用时，请按照以下说明进行升级。
+在有适用于Outlook的Marketo电子邮件加载项的新版本可用时，请按照以下说明进行升级。
 
 >[!NOTE]
 >
->自10/1/20起，最新版本的Outlook插件不再支持离线模式。 此操作将在10/1上或之后安装/升级后生效。
+>自2020年10月1日起，最新版本的Outlook插件不再支持脱机模式。 在10/1上或之后安装/升级后，此操作将生效。
 
 ## 下载安装程序 {#download-installer}
 
@@ -44,67 +45,67 @@ ht-degree: 8%
    <td><strong>64位</strong></td> 
   </tr> 
   <tr> 
-   <td>2000年展望</td> 
-   <td>不受支持</td> 
+   <td>Outlook 2000</td> 
+   <td>不支持</td> 
    <td>不适用</td> 
-   <td>不受支持</td> 
+   <td>不支持</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
-   <td>2003年展望</td> 
+   <td>Outlook 2003</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td>不适用</td> 
-   <td>不受支持</td> 
+   <td>不支持</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
-   <td>2007年展望</td> 
+   <td>Outlook 2007</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td>不适用</td> 
-   <td>不受支持</td> 
+   <td>不支持</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
-   <td>2010年展望</td> 
+   <td>Outlook 2010</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
   </tr> 
   <tr> 
-   <td>2013年展望</td> 
+   <td>Outlook 2013</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
   </tr> 
   <tr> 
-   <td>《2016年展望》</td> 
+   <td>Outlook 2016</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">《2019年展望》</td> 
+   <td colspan="1">Outlook 2019</td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下载</a></td> 
   </tr> 
   <tr> 
-   <td>Mac展望</td> 
-   <td>不受支持</td> 
-   <td>不受支持</td> 
-   <td>不受支持</td> 
-   <td>不受支持</td> 
+   <td>适用于Mac的Outlook</td> 
+   <td>不支持</td> 
+   <td>不支持</td> 
+   <td>不支持</td> 
+   <td>不支持</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook Web应用程序</td> 
-   <td colspan="1">不受支持</td> 
-   <td colspan="1">不受支持</td> 
-   <td colspan="1">不受支持</td> 
-   <td colspan="1">不受支持</td> 
+   <td colspan="1">Outlook Web App</td> 
+   <td colspan="1">不支持</td> 
+   <td colspan="1">不支持</td> 
+   <td colspan="1">不支持</td> 
+   <td colspan="1">不支持</td> 
   </tr> 
   <tr> 
    <td colspan="1">Office 365*</td> 
@@ -116,7 +117,7 @@ ht-degree: 8%
  </tbody> 
 </table>
 
-&#42;Office 365版本：仅限Windows客户端（在Windows 10、Enterprise或Pro上）。
+&#42;Office 365版本：仅限Windows客户端（在Windows 10、企业版或Pro上）。
 
 ## 升级 {#upgrade}
 
@@ -134,7 +135,7 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >在某些情况下，数据将丢失。 从注册电子邮件中复制它，然后关闭Outlook。
+   >在某些情况下，数据将会丢失。 从注册电子邮件中复制它，然后关闭Outlook。
 
 1. 关闭Microsoft Outlook。
 
@@ -146,9 +147,9 @@ ht-degree: 8%
 
    >[!TIP]
    >
-   >如果安装失败，请与您的IT部门合作，以确保HTTPS流量不被阻止。 安装程序需要打开HTTPS流量。
+   >如果安装失败，请与IT部门合作，确保不会阻止HTTPS流量。 安装程序要求打开HTTPS流量。
 
-1. 单击 **下一个** 以在默认位置安装。
+1. 单击 **下一个** 以安装在默认位置。
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -160,12 +161,11 @@ ht-degree: 8%
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
-1. 现在，打开Microsoft Outlook以查看最新版本的Marketo按钮。
+1. 现在打开Microsoft Outlook以查看最新版本的Marketo按钮。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
 >[!MORELIKETHIS]
 >
->* [使用适用于Outlook的Marketo Email Add-in发送和跟踪电子邮件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用适用于Outlook的Marketo电子邮件加载项发送和跟踪电子邮件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [使用Marketo模板从Outlook发送和跟踪](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-

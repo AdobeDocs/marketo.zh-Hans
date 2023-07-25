@@ -1,65 +1,65 @@
 ---
 unique-page-id: 2359428
-description: 重新導向登陸頁面 — Marketo檔案 — 產品檔案
-title: 重新導向登入頁面
+description: 重定向登陆页面 — Marketo文档 — 产品文档
+title: 重定向登陆页面
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# 重新導向登入頁面 {#redirect-a-landing-page}
+# 重定向登陆页面 {#redirect-a-landing-page}
 
-## 任務：將登入頁面重新導向至其他網頁 {#mission-redirect-a-landing-page-to-a-different-web-page}
+## 任务：将登陆页面重定向到其他网页 {#mission-redirect-a-landing-page-to-a-different-web-page}
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理员权限**
 
 >[!PREREQUISITES]
 >
->* [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
->* [使用CNAME自訂您的登陸頁面URL](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
+>* [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [使用CNAME自定义登陆页面URL](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
 
+## 步骤1：启动新的重定向规则 {#step-start-a-new-redirect-rule}
 
-## 步驟1：啟動新的重新導向規則 {#step-start-a-new-redirect-rule}
-
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/redirect-a-landing-page-1.png)
 
-1. 前往 **[!UICONTROL 登陸頁面]**.
+1. 转到 **[!UICONTROL 登陆页面]**.
 
    ![](assets/redirect-a-landing-page-2.png)
 
-1. 按一下 **[!UICONTROL 規則]** 標籤，然後按一下 **[!UICONTROL 新增]** 和 **[!UICONTROL 新的重新導向規則]**.
+1. 单击 **[!UICONTROL 规则]** 选项卡，然后单击 **[!UICONTROL 新]** 和 **[!UICONTROL 新建重定向规则]**.
 
    ![](assets/redirect-a-landing-page-3.png)
 
-## 步驟2：定義重新導向規則 {#step-define-the-redirect-rule}
+## 步骤2：定义重定向规则 {#step-define-the-redirect-rule}
 
-1. 按一下第一個 **[!UICONTROL 原始URL]** 下拉式清單，然後選取您的Marketo CNAME。
+1. 单击第一个 **[!UICONTROL 原始URL]** 下拉列表，然后选择您的Marketo CNAME。
 
    ![](assets/redirect-a-landing-page-4.png)
 
    >[!NOTE]
    >
-   >請記住，您只能重新導向以Marketo開頭的登陸頁面 [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}.
+   >请记住，您只能重定向以Marketo开头的登陆页面 [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}.
 
-1. 按一下第二個 **[!UICONTROL 原始URL]** 下拉式清單，然後選取您要重新導向的登入頁面。
+1. 单击第二个 **[!UICONTROL 原始URL]** 下拉列表并选择要重定向的登陆页面。
 
    ![](assets/redirect-a-landing-page-5.png)
 
-1. 對象 **[!UICONTROL 重新導向URL]** 選取您要重新導向的頁面，然後按一下 **[!UICONTROL 建立]**.
+1. 对象 **[!UICONTROL 重定向URL]** 选择要重定向到的页面，然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/redirect-a-landing-page-6.png)
 
-## 任務完成 {#mission-complete}
+## 任务完成 {#mission-complete}
 
-恭喜！您已成功重新導向登陸頁面。
+恭喜！您已成功重定向登陆页面。
 
 <br> 
 
-[◄任務9：更新潛在客戶資料](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[◄任务9：更新潜在客户数据](/help/marketo/getting-started/quick-wins/update-person-data.md)

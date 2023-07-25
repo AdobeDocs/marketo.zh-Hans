@@ -3,7 +3,8 @@ unique-page-id: 42762511
 description: 设置Adobe组织映射 — Marketo文档 — 产品文档
 title: 设置Adobe组织映射
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Integrations
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%

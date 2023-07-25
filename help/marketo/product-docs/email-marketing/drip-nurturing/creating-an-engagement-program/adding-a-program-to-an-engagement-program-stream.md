@@ -1,61 +1,61 @@
 ---
 unique-page-id: 10098134
-description: 向参与项目流添加项目 — Marketo文档 — 产品文档
-title: 向参与项目流添加项目
+description: 将项目添加到参与项目项目流 — Marketo文档 — 产品文档
+title: 将计划添加到参与计划流
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
 
 ---
 
-# 向参与项目流添加项目 {#adding-a-program-to-an-engagement-program-stream}
+# 将计划添加到参与计划流 {#adding-a-program-to-an-engagement-program-stream}
 
-## 为什么在参与项目流中使用嵌套程序？ {#why-use-a-nested-program-in-an-engagement-program-stream}
+## 为什么在参与计划流中使用嵌套计划？ {#why-use-a-nested-program-in-an-engagement-program-stream}
 
-在参与项目的流中添加电子邮件很容易，而且可以正常使用。 但是，如果您的业务需求更复杂，则可能适合将电子邮件放入项目中。 例如，您可能希望：
+在参与计划中，将电子邮件添加到流中很容易，并且可以正常运行。 但是，如果您的业务需求更复杂，则可能适合将电子邮件置于计划中。 例如，您可能希望：
 
 * 向流中的子组人员发送电子邮件
-* 发送 *不同* 电子邮件发送到流中的子组
-* 在“培养”中包括登陆页面、表单或其他资产
-* 启用多接触归因
+* 发送 *不同* 发送给流中子组的电子邮件
+* 将登陆页面、表单或其他资产包含在培养中
+* 启用多点触控归因
 * 添加额外的流量步骤，如警报电子邮件
 
-## 在流中使用程序会发生什么情况？ {#what-happens-when-you-use-a-program-in-a-stream}
+## 在流中使用程序时会发生什么情况？ {#what-happens-when-you-use-a-program-in-a-stream}
 
-使用嵌套程序时，根据程序成员资格和程序ID决定向人员发送电子邮件。
+使用嵌套程序时，向人员发送电子邮件的决定取决于程序成员资格和程序ID。
 
-* 如果您不是项目的成员，您将收到属于该项目的任何电子邮件
-* 如果您是项目的成员，您将不会收到该电子邮件
-* 如果您不再是会员，而是通过该程序提前收到了电子邮件，则您将不会收到该电子邮件
+* 如果您不是计划的成员，您将收到属于计划的任何电子邮件一次
+* 如果您是计划的成员，您将不会收到电子邮件
+* 如果您不再是会员，但之前已通过该程序收到电子邮件，则您将不会收到电子邮件
 
-当您在流中使用程序时，您之前是否收到过该特定电子邮件并不重要。 只要以前未发出电子邮件 *在特定程序中*，则可以再次收到它。
+在流中使用程序时，您以前是否收到过该特定电子邮件并不重要。 只要电子邮件以前未发出 *在特定程序中*，您可以再次收到该邮件。
 
-在参与项目中混合使用电子邮件和程序可能会很棘手。 您可能希望使用其中一种或另一种。
+它可能会难以将电子邮件和程序混合到一个参与计划中。 您可能要使用其中一个。
 
 >[!TIP]
 >
->请务必使用 **参与计划成员** 过滤器。
+>请务必使用 **参与计划成员** 在智能列表中进行筛选。
 
-## 不符合智能列表标准的用户会遇到什么情况？ {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
+## 不符合智能列表条件的用户会出现什么情况？ {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-如果某人从嵌套项目智能营销活动的智能列表中过滤出来，则他们在当前投放期间不会继续访问下一段内容。 他们将转到流中的下一段内容，以便 *以下项* 铸。
+如果从嵌套项目智能营销策划的智能列表中筛选出了某人，则这些人不会在当前播放期间继续播放下一段内容。 他们将继续查看流中的下一段内容 *关注* 演员阵容。
 
 ## 嵌套程序包含什么？ {#what-does-a-nested-program-contain}
 
-精心设计的嵌套项目包含电子邮件、报表和智能营销活动。 把这些放在一起是有道理的。
+设计良好的嵌套项目包含电子邮件、报告和智能营销活动。 把这些放在一起是合情合理的。
 
-您使用的电子邮件可以存放在项目、其他项目中，甚至在Design Studio中。 它的存在取决于您希望如何使用它。
+您使用的电子邮件可以存在于程序中、其他程序中，甚至在Design Studio中。 它的存在位置将取决于您希望如何使用它。
 
-使用电子邮件位置报告更改。 例如，如果电子邮件位于Design Studio的电子邮件性能报表中，则所有量度都显示在一行中 — 不同的投放会被合并。 但是，在参与流绩效报表中，会单独显示不同的发送。
+报告随电子邮件位置而更改。 因此，例如，如果电子邮件在Design Studio中，则在电子邮件性能报表中，所有量度都显示在一行中 — 不同的投放会组合在一起。 但是，在参与流性能报表中，不同的发送将单独显示。
 
 >[!CAUTION]
 >
->如果您想重新发送一些内容，则最安全的做法是创建新项目和智能营销活动。
+>如果要重新发送某些内容，最安全的做法是创建新项目和智能营销活动。
 
 >[!MORELIKETHIS]
 >
->* [向流添加内容](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [了解程序](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
-
+>* [将内容添加到流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [了解项目群](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359618
 description: 将富文本添加到表单 — Marketo文档 — 产品文档
-title: 将富文本添加到表单
+title: 向表单添加富文本
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# 将富文本添加到表单 {#add-rich-text-to-a-form}
+# 向表单添加富文本 {#add-rich-text-to-a-form}
 
-在表单中使用富文本可在字段之间添加说明或其他信息。 看看。
+在表单中使用富文本可在字段之间添加说明或其他信息。 看看吧。
 
 1. 转到 **营销活动**.
 
@@ -22,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. 单击 **+** 标记。
+1. 单击 **+** 签名。
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
@@ -36,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果表单中需要行分隔符，请使用“水平行”按钮。
+   >如果表单中需要行分隔符，请使用“水平线”按钮。
 
 1. 单击 **保存**.
 
@@ -50,10 +51,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
-   干得好！ 看看。
+   做得好！ 看看吧。
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
 >[!TIP]
 >
->你知道你还能 [添加可见性规则](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) 到富文本块？
+>您知道您也可以 [添加可见性规则](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) 到富文本块？

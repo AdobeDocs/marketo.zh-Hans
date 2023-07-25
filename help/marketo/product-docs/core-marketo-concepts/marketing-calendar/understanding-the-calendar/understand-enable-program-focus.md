@@ -3,7 +3,8 @@ unique-page-id: 2953364
 description: 了解/启用项目聚焦 — Marketo文档 — 产品文档
 title: 了解/启用计划焦点
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

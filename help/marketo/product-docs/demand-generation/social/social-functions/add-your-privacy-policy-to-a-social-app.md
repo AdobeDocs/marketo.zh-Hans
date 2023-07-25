@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2950545
-description: 将隐私政策添加到社交应用程序 — Marketo文档 — 产品文档
-title: 将隐私政策添加到社交应用程序
+description: 将您的隐私策略添加到社交应用程序 — Marketo文档 — 产品文档
+title: 将您的隐私策略添加到社交应用程序
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 1%
 
 ---
 
-# 将隐私政策添加到社交应用程序 {#add-your-privacy-policy-to-a-social-app}
+# 将您的隐私策略添加到社交应用程序 {#add-your-privacy-policy-to-a-social-app}
 
-在创建社交应用程序时，您可以添加指向公司隐私政策的链接。
+在创建社交应用程序时，您可以添加指向公司隐私策略的链接。
 
 1. 转到 **营销活动**.
 
@@ -26,16 +27,16 @@ ht-degree: 1%
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
-1. 要添加隐私政策链接，请选中复选框、编辑标题并输入URL。
+1. 要添加指向隐私策略的链接，请选中复选框，编辑标题，然后输入URL。
 
    ![](assets/image2014-9-22-10-3a51-3a12.png)
 
    >[!NOTE]
    >
-   >在此屏幕上，您还可以添加指向选件规则（条款和条件）的链接。 请参阅 [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
+   >在此屏幕上，您还可以添加指向优惠规则（条款和条件）的链接。 参见 [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
 1. 隐私策略链接（和规则链接）将显示在共享消息屏幕的底部。 例如：
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-接下来，您可以 [配置社交注册和共享流程](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) 的URL。
+接下来，您可以 [配置社交注册和共享流](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) 应用程序的URL路径。

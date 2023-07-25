@@ -1,9 +1,10 @@
 ---
 unique-page-id: 30081230
-description: 对人员执行批量操作 — Marketo文档 — 产品文档
+description: 人员批量操作 — Marketo文档 — 产品文档
 title: 对人员执行批量操作
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 2%
@@ -12,21 +13,21 @@ ht-degree: 2%
 
 # 对人员执行批量操作 {#bulk-actions-on-people}
 
-为了节省时间，您可以批量处理联系人的一些事项。
+为了节省时间，您可以对联系人批量执行一些操作。
 
-所有可用批量操作的第一步是选择两个或多个接触点，然后单击数据（三个垂直点）。
+所有可用批量操作的第一步是选择两个或多个联系人，然后单击圆点（三个垂直点）。
 
 ![](assets/one-3.png)
 
 ## 将人员添加到组 {#add-people-to-group}
 
-同时向组中添加多个人员。
+将多个人员同时添加到组。
 
 ![](assets/add-to-group.png)
 
 ## 源 {#source}
 
-我们自动为进入数据库的每个联系人分配一个源。 使用此步骤更新该源。
+我们自动为进入数据库的每个联系人分配一个源。 使用此步骤可更新该源。
 
 ![](assets/source.png)
 
@@ -36,13 +37,13 @@ ht-degree: 2%
 
 ## 授权 {#authorization}
 
-符合 [GDPR](https://eugdpr.org/)，使用授权指示您如何获得与这些联系人接触的权限。
+符合 [GDPR](https://eugdpr.org/)，使用授权来指示您是如何获得与这些联系人进行交互的权限的。
 
 ![](assets/authorization.png)
 
 ## 取消订阅 {#unsubscribe}
 
-对不再希望接收您通信的联系人执行批量退订。
+对不再希望收到您信函的联系人执行批量取消订阅。
 
 ![](assets/unsubscribe.png)
 

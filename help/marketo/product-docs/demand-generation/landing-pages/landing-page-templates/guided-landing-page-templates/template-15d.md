@@ -3,7 +3,8 @@ unique-page-id: 9437825
 description: 模板15D - Marketo文档 — 产品文档
 title: 模板15D
 exl-id: 424e4bb8-e223-42b3-a26d-ec9ea167e862
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -18,13 +19,13 @@ ht-degree: 0%
 
 此模板包含以下内容：
 
-* 主要部分
+* 主分区
 
-   * 包括主页标题、主页抽奖和注册按钮
+   * 包括英雄头衔、英雄抽奖和注册按钮
 
 * 五个正文部分（可选）
 * 页脚（可选）
 
-**右键单击下面的可下载此模板：**
+**右键单击以下内容可下载此模板：**
 
 [模板15D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)

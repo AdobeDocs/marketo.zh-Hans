@@ -2,7 +2,8 @@
 description: Sales Insight Actions用户入门指南 — Marketo文档 — 产品文档
 title: Sales Insight Actions用户入门指南
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >
 >* 管理员需要邀请用户开始使用MSI操作。
 >* 要通过Salesforce激活您的帐户，您需要在Salesforce配置文件权限中启用“API”。
-
 
 新用户需要遵循以下步骤。
 

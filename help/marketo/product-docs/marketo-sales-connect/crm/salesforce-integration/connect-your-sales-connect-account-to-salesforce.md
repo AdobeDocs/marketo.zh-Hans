@@ -3,7 +3,8 @@ unique-page-id: 14352423
 description: 将您的Sales Connect帐户连接到Salesforce - Marketo文档 — 产品文档
 title: 将您的Sales Connect帐户连接到Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -12,19 +13,19 @@ ht-degree: 0%
 
 # 将您的Sales Connect帐户连接到Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-按照这些简单步骤将Sales Connect与Salesforce连接。
+按照以下简单步骤将Sales Connect连接到Salesforce。
 
-## 如何作为管理员连接 {#how-to-connect-as-an-admin}
+## 如何以管理员身份连接 {#how-to-connect-as-an-admin}
 
 1. 在Sales Connect中，单击右上角的齿轮图标，然后选择 **设置**.
 
    ![](assets/one.png)
 
-1. 在“管理员设置”下，单击 **Salesforce**.
+1. 在管理设置下，单击 **Salesforce**.
 
    ![](assets/six.png)
 
-1. 在连接和自定义选项卡中，单击 **连接**.
+1. 在“连接和定制”选项卡中，单击 **Connect**.
 
    ![](assets/seven.png)
 
@@ -32,19 +33,19 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 如果您已登录Salesforce，则将连接您。 如果没有，你将被要求登录。
+1. 如果您已登录Salesforce，则会与您建立连接。 否则，将会要求您登录。
 
-## 如何作为非管理员连接 {#how-to-connect-as-a-non-admin}
+## 如何以非管理员身份连接 {#how-to-connect-as-a-non-admin}
 
-1. 在Sales Connect中，单击齿轮图标，然后选择 **设置**.
+1. 在Sales Connect中，单击齿轮图标并选择 **设置**.
 
    ![](assets/one.png)
 
-1. 在“我的帐户”下，选择 **Salesforce**.
+1. 在我的帐户下，选择 **Salesforce**.
 
    ![](assets/two.png)
 
-1. 在连接和自定义选项卡中，单击 **连接**.
+1. 在“连接和定制”选项卡中，单击 **Connect**.
 
    ![](assets/three.png)
 
@@ -52,4 +53,4 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 如果您已登录Salesforce，则将连接您。 如果没有，你将被要求登录。
+1. 如果您已登录Salesforce，则会与您建立连接。 否则，将会要求您登录。

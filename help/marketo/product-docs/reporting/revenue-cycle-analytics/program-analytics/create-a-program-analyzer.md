@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2360399
-description: 创建程序分析器 — Marketo文档 — 产品文档
+description: 创建项目分析器 — Marketo文档 — 产品文档
 title: 创建程序分析器
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -12,33 +13,33 @@ ht-degree: 0%
 
 # 创建程序分析器 {#create-a-program-analyzer}
 
-了解哪些程序和渠道对您的营销贡献最大。 使用程序分析器，按程序或渠道详细检查和比较每项成本和回报。
+了解哪些项目和渠道为您带来了最大的营销成本。 使用程序分析器按程序或渠道详细检查和比较每项成本和回报。
 
 >[!NOTE]
 >
->要从项目分析器获取良好数据，请确保您的CRM联系人在机会中具有角色，并且您的Marketo项目已完全设置，具有 [期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、项目状态和成功定义。
+>要从计划分析器中获取有效数据，请确保您的CRM联系人拥有参与商机的角色，并且您的Marketo计划已完全设置，具有 [期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、项目状态和定义的成功案例。
 
 >[!TIP]
 >
->要使程序在程序分析器中显示无成本， [设置期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) 0美元。
+>若要使无成本程序显示在程序分析器中， [设置其期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) 到0美元。
 
-1. 单击 **Analytics** 拼贴。
+1. 单击 **分析** 图块。
 
    ![](assets/image2014-9-17-13-3a7-3a1.png)
 
-1. 单击 **程序分析器** 拼贴。
+1. 单击 **程序分析器** 图块。
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. 出现标准程序分析器。 根据需要对其进行任何更改。
+1. 出现“standard program analyzer（标准程序分析器）”。 根据需要对其进行任何更改。
 
    ![](assets/image2016-10-31-15-3a3-3a9.png)
 
-1. 单击 **设置** 选项卡来添加和自定义过滤器。
+1. 单击 **设置** 选项卡，以添加和自定义筛选器。
 
    ![](assets/image2016-10-31-15-3a25-3a57.png)
 
-1. 例如，要自定义期间成本过滤器，请双击该过滤器。
+1. 例如，要自定义“期间成本”筛选器，请双击该筛选器。
 
    ![](assets/image2016-10-31-15-3a33-3a2.png)
 
@@ -48,28 +49,27 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要选择特定范围，请选择 **自定义** 并使用 **从** 和 **至** 字段。
+   >要选择特定范围，请选择 **自定义** 并使用 **起始日期** 和 **至** 字段。
 
-1. 如果要保存新的自定义分析器，请在Analyzer操作下拉菜单中，选择 **另存为**.
+1. 如果要保存新的自定义分析器，请在Analyzer“操作”下拉列表中，选择 **另存为**.
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. 使用“保存到”和“文件夹”下拉列表选择要保存自定义分析器的位置。 命名新的自定义分析器。 描述是可选的。 单击 **保存**.
+1. 使用保存到和文件夹下拉列表，选择要保存自定义分析器的位置。 命名新的自定义分析器。 描述是可选的。 单击 **保存**.
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
-1. 你做到了！ 单击主选项卡以开始浏览和比较您的项目和渠道。
+1. 你做到了！ 单击主选项卡，开始浏览和比较程序和渠道。
 
 ![](assets/november-custom-report.png)
 
 >[!NOTE]
 >
->在程序分析器中可以选择的许多量度都可通过首次联系(FT)和多次联系(MT)计算获得。 了解 [FT归因与MT归因的差异](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解 [ft和MT归因之间的差异](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >
->* [将通道有效性与程序分析器进行比较](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
->* [将程序有效性与程序分析器进行比较](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
->* [使用程序分析器探索程序和渠道详细信息](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [使用Program Analyzer比较渠道效率](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [使用Program Analyzer比较计划效果](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [使用计划分析器探索计划和渠道详细信息](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [克隆程序分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
-

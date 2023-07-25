@@ -2,7 +2,8 @@
 description: 发行说明 — 2023年3月 — Marketo文档 — 产品文档
 title: 发行说明 — 2023年3月
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 5%
@@ -121,7 +122,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Chat作为Dynamic Chat的程序频道**：创建新的“聊天”项目频道，以跟踪Dynamic Chat收购的人的项目进展。 例如，营销人员有一个与Dynamic Chat对话框关联的项目，用于捕获新商机。 他们现在可以为该计划分配Chat频道，以便他们能够跟踪潜在客户何时是该计划的成员以及他们何时取得了成功。
+* **聊天作为Dynamic Chat的节目频道**：创建新的“聊天”计划渠道以跟踪Dynamic Chat获得的人员的计划进度。 例如，营销人员有一个与Dynamic Chat对话框关联的项目，用于捕获新商机。 他们现在可以为该计划分配Chat频道，以便他们能够跟踪潜在客户何时是该计划的成员以及他们何时取得了成功。
 
 <table> 
   <tr> 
@@ -135,7 +136,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Dynamic Chat的推断属性**：确保推断的IP数据（城市、州/省、国家/地区等） 写入Dynamic Chat获得的新人员的人员记录。
+* **推断的Dynamic Chat属性**：确保推断的IP数据（城市、州/省、国家/地区等） 写入Dynamic Chat获得的新人员的人员记录。
 
 <table> 
   <tr> 
@@ -163,7 +164,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **跳转到Dynamic Chat的流设计器预览中的节点**：从预览面板直接跳转到流设计器中的节点。
+* **跳转到流设计器预览中的节点以进行Dynamic Chat**：从预览面板直接跳转到流设计器中的节点。
 
 <table> 
   <tr> 

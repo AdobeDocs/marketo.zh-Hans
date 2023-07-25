@@ -2,7 +2,8 @@
 description: 添加或删除聊天用户 — Marketo文档 — 产品文档
 title: 添加或删除聊天用户
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. 单击 **动态聊天**.
+1. 单击 **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -47,11 +48,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-## 向Marketo角色添加动态聊天访问权限 {#add-dynamic-chat-access-to-marketo-role}
+## 添加Dynamic Chat对Marketo角色的访问权限 {#add-dynamic-chat-access-to-marketo-role}
 
-如果新添加的聊天用户的Marketo角色尚未具有动态聊天权限，请参阅下面的添加方法。
+如果新添加的聊天用户的Marketo角色还没有Dynamic Chat权限，请参阅以下添加方法。
 
-1. 在Marketo中，单击 **管理员** 选择 **用户和角色**.
+1. 在Marketo中，单击 **管理员** 并选择 **用户和角色**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
@@ -59,11 +60,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. 从列表中选择要修改的角色并单击 **编辑角色**.
+1. 从列表中选择要修改的角色，然后单击 **编辑角色**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. 选择 **访问动态聊天** 单击 **保存**.
+1. 选择 **访问Dynamic Chat** 并单击 **保存**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -73,7 +74,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. 单击 **动态聊天**.
+1. 单击 **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -93,7 +94,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. 单击 **删除用户** 确认。
+1. 单击 **删除用户** 以确认。
 
    ![](assets/add-or-remove-chat-users-17.png)
 
@@ -101,4 +102,3 @@ ht-degree: 0%
 >
 >* [Adobe Admin Console用户](https://helpx.adobe.com/enterprise/using/users.html)
 >* [单独管理用户](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
-

@@ -1,35 +1,35 @@
 ---
 unique-page-id: 1147114
-description: 计划成员自定义字段令牌 — Marketo文档 — 产品文档
-title: 程序成员自定义字段令牌
+description: 项目群成员自定义字段令牌 — Marketo文档 — 产品文档
+title: 项目群成员自定义字段令牌
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
 
 ---
 
-# 程序成员自定义字段令牌 {#program-member-custom-field-tokens}
+# 项目群成员自定义字段令牌 {#program-member-custom-field-tokens}
 
-## 程序成员自定义字段的令牌支持 {#token-support-for-program-member-custom-fields}
+## 项目群成员自定义字段的令牌支持 {#token-support-for-program-member-custom-fields}
 
-在程序成员自定义字段功能的后面，正在扩展对令牌框架中程序成员自定义字段的支持。
+在程序成员自定义字段功能的背面，对令牌框架中的程序成员自定义字段的支持正在扩展。
 
-令牌系列的成员域将支持PMCF令牌。
+PMCF令牌将在令牌家族的成员域下受支持。
 
-成员令牌用于属于程序成员范围的字段。 自当前状态起，成员令牌还用于插入来自集成服务合作伙伴的唯一值。 `{{member.webinar url}}` 令牌会自动解析由服务提供商生成的人员的唯一确认URL。 {{member.registration code}} 解析为服务提供商提供的注册代码。
+成员令牌用于项目群成员范围内的字段。 截至当前状态，还使用成员令牌插入来自综合服务合作伙伴的唯一值。 `{{member.webinar url}}` 令牌会自动解析服务提供商生成的人员的唯一确认URL。 {{member.registration code}} 解析为服务提供商提供的注册码。
 
 >[!NOTE]
 >
->* 程序成员自定义字段只能在程序的上下文中使用。
->* 程序成员自定义字段令牌不能在中使用：电子邮件预标头、等待步骤中的日期令牌或代码片段。
->* 成员令牌中不支持程序成员状态。
+>* 项目群成员自定义字段只能在项目群上下文中使用。
+>* 项目群成员自定义字段令牌不能在以下位置使用：电子邮件标头、等待步骤中的日期令牌或代码片段。
+>* 成员令牌不支持项目群成员状态。
 
+## 在Assets中使用项目群成员自定义字段令牌 {#using-program-member-custom-field-tokens-in-assets}
 
-## 在资产中使用项目成员自定义字段令牌 {#using-program-member-custom-field-tokens-in-assets}
-
-您可以将项目成员自定义字段令牌插入电子邮件、登陆页、短信、推送通知和Webhook。
+您可以将项目群成员自定义字段令牌插入电子邮件、登陆页面、短信、推送通知和Webhook中。
 
 **电子邮件**
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->不要忘记批准您的电子邮件。
+>别忘了批准您的电子邮件。
 
 **登陆页面**
 
@@ -63,11 +63,11 @@ ht-degree: 0%
    >
    >登陆页面设计器将在新窗口中打开。
 
-1. 双击要将令牌添加到的富文本框。
+1. 双击要向其添加令牌的富文本框。
 
    ![](assets/program-member-custom-field-tokens-6.png)
 
-1. 单击令牌所在的位置，然后单击插入令牌图标。
+1. 单击您希望令牌所在的位置，然后单击插入令牌图标。
 
    ![](assets/program-member-custom-field-tokens-7.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 **短信**
 
-1. 选择所需的短信，然后单击 **编辑草稿**.
+1. 选择所需的短信并单击 **编辑草稿**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -93,11 +93,11 @@ ht-degree: 0%
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. 查找并选择所需的程序成员自定义字段令牌。 输入默认值，然后单击“插入”。
+1. 查找并选择所需的项目群成员自定义字段令牌。 输入默认值，然后单击“插入”。
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. 单击短信操作下拉列表，然后选择 **批准并关闭**.
+1. 单击短信操作下拉列表并选择 **批准并关闭**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
@@ -115,24 +115,24 @@ ht-degree: 0%
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 查找并选择所需的程序成员自定义字段令牌。 输入默认值并单击 **插入**.
+1. 查找并选择所需的项目群成员自定义字段令牌。 输入默认值并单击 **插入**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. 单击 **完成** 保存并退出(或 **下一个** 先审阅)。
+1. 单击 **完成** 保存并退出(或 **下一个** ，以首先查看)。
 
    ![](assets/program-member-custom-field-tokens-19.png)
 
 >[!NOTE]
 >
->如果程序成员的程序成员自定义字段没有值，则如果已提供该令牌，则将用默认值替换该令牌。
+>如果程序成员的程序成员自定义字段没有值，则令牌将被默认值替换（如果已提供）。
 
 ## 在营销活动中使用项目成员自定义字段令牌 {#using-program-member-custom-field-tokens-in-campaigns}
 
-程序成员自定义字段令牌可用于：
+项目群成员自定义字段令牌可用于以下位置：
 
 * 创建任务
 * 在Microsoft中创建任务
 * 有趣的时刻
 * 更改数据值流操作
-* Webhooks
+* Webhook

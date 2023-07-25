@@ -1,32 +1,33 @@
 ---
 unique-page-id: 1147120
-description: 将成员从电子表格导入项目 — Marketo文档 — 产品文档
-title: 将成员从电子表格导入程序
+description: 将成员从电子表格导入程序 — Marketo文档 — 产品文档
+title: 将电子表格中的成员导入程序
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# 将成员从电子表格导入程序 {#import-members-from-a-spreadsheet-into-a-program}
+# 将电子表格中的成员导入程序 {#import-members-from-a-spreadsheet-into-a-program}
 
-您可以导入自动成为项目成员的人员列表。 这是该做什么。
+您可以导入自动成为项目群成员的人员列表。 接下来该做什么。
 
 ## 准备CSV文件 {#prepare-your-csv-file}
 
-1. 在Excel中创建标准CSV文件，如以下示例所示。
+1. 在Excel中创建标准CSV文件，如下面的示例所示。
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 
    >[!CAUTION]
    >
-   >将日期导入日期字段时，请使用以下格式：9/29/13（月/日/年）。
+   >将日期导入日期字段时，请使用此格式： 9/29/13（月/日/年）。
 
 ## 将CSV导入Marketo {#import-your-csv-into-marketo}
 
-1. 在您的程序中，转到 **成员** 中。
+1. 在您的项目中，转到 **成员** 部分。
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
@@ -38,15 +39,15 @@ ht-degree: 0%
 
    ![](assets/importlist1.png)
 
-1. 将列表中的数据值映射到相应的Marketo字段，然后单击 **下一个**.
+1. 将列表中的数据值映射到其对应的Marketo字段，然后单击 **下一个**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >如果有任何不想导入的字段，请选择 **忽略** (位于Marketo字段下拉菜单中)。
+   >如果有任何您不想导入的字段，请选择 **忽略** “Marketo字段”下拉菜单中。
 
-1. 选择 **成员状态** 列表。
+1. 选择 **成员状态** 你的名单。
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
@@ -58,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a44-3a37.png)
 
-   太棒了！ 您应会看到导入的新成员。
+   太棒了！ 您应该会看到导入的新成员。
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 

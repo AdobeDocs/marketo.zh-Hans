@@ -2,7 +2,8 @@
 description: 将您的Sales Insight Actions帐户连接到Salesforce - Marketo文档 — 产品文档
 title: 将您的Sales Insight Actions帐户连接到Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
-source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -11,19 +12,19 @@ ht-degree: 0%
 
 # 将您的Sales Insight Actions帐户连接到Salesforce {#connect-your-sales-insight-actions-account-to-salesforce}
 
-按照这些简单步骤将Sales Insight Actions帐户连接到Salesforce。
+按照以下简单步骤将Sales Insight Actions帐户连接到Salesforce。
 
-## 如何作为管理员连接 {#how-to-connect-as-an-admin}
+## 如何以管理员身份连接 {#how-to-connect-as-an-admin}
 
-1. 单击齿轮图标，然后选择 **设置**.
+1. 单击齿轮图标并选择 **设置**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. 在“管理员设置”下，单击 **Salesforce**.
+1. 在管理设置下，单击 **Salesforce**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. 在连接和自定义选项卡中，单击 **Salesforce** then **连接**.
+1. 在“连接和定制”选项卡中，单击 **Salesforce** 则 **Connect**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
@@ -31,17 +32,17 @@ ht-degree: 0%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. 如果您已登录Salesforce，则将连接您。 如果没有，你将被要求登录。
+1. 如果您已登录Salesforce，则会与您建立连接。 否则，将会要求您登录。
 
-## 如何作为非管理员连接 {#how-to-connect-as-a-non-admin}
+## 如何以非管理员身份连接 {#how-to-connect-as-a-non-admin}
 
-1. 单击齿轮图标，然后选择 **设置**.
+1. 单击齿轮图标并选择 **设置**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
-1. 在“我的帐户”下，选择 **Salesforce**.
+1. 在我的帐户下，选择 **Salesforce**.
 
-1. 在连接和自定义选项卡中，单击 **Salesforce** then **连接**.
+1. 在“连接和定制”选项卡中，单击 **Salesforce** 则 **Connect**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
@@ -49,4 +50,4 @@ ht-degree: 0%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. 如果您已登录Salesforce，则将连接您。 如果没有，你将被要求登录。
+1. 如果您已登录Salesforce，则会与您建立连接。 否则，将会要求您登录。

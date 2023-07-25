@@ -3,7 +3,8 @@ unique-page-id: 10092730
 description: 预览推送通知 — Marketo文档 — 产品文档
 title: 预览推送通知
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # 预览推送通知 {#preview-a-push-notification}
 
-对于Android或iOS，可轻松预览推送通知的外观。 有四种方法。
+对于Android或iOS，可以轻松预览推送通知的外观。 有四种方法可以做到这一点。
 
-在导航树中，右键单击要预览通知的文件，然后单击 **预览**.
+在导航树中，右键单击要预览的通知文件，然后单击 **预览**.
 
 >[!NOTE]
 >
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-或者，在“推送通知”视图页面上，单击 **推送通知操作** 然后 **预览**. 或者，单击 **预览** 在最右边。
+或者，在推送通知视图页面上，单击 **推送通知操作** 然后 **预览**. 或者，单击 **预览** 极右翼。
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -32,13 +33,13 @@ ht-degree: 0%
 
 ## Android预览 {#android-previews}
 
-单击左侧的图标，以查看您发送推送通知时将显示的确切位置。 单击或使用键盘箭头在它们之间切换。
+单击左侧的图标可查看发送推送通知时推送通知的确切显示位置。 单击或使用键盘箭头在它们之间切换。
 
-在主屏幕上，通知显示在顶部的图标下方。
+在主屏幕上，通知显示在顶部下方图标的下方。
 
 ![](assets/image2015-9-17-16-3a57-3a0.png)
 
-在“锁定”屏幕上，它在时间下半途弹出。
+在“锁定”屏幕上，它会在时间下方向下弹出。
 
 ![](assets/image2015-9-17-16-3a58-3a47.png)
 
@@ -54,18 +55,17 @@ ht-degree: 0%
 
 ![](assets/image2015-9-17-17-3a0-3a28.png)
 
-在“锁定”屏幕上，它在环绕中显示。
+在“锁定”屏幕上，它显示一段时间的下移。
 
 ![](assets/image2015-9-17-17-3a2-3a1.png)
 
-在“通知中心”屏幕上，它靠近顶部，
+在“通知中心”屏幕上，它就在顶部附近，
 
 ![](assets/image2015-9-17-17-3a3-3a15.png)
 
-因此，通过推送通知预览，您始终知道客户将看到哪些内容！
+因此，通过推送通知预览，您始终知道客户将看到什么！
 
 >[!MORELIKETHIS]
 >
 >* [创建推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
->* [配置移动设备推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
-
+>* [配置移动推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)

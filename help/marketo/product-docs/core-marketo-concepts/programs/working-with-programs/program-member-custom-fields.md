@@ -1,20 +1,21 @@
 ---
 unique-page-id: 37355569
-description: 计划成员自定义字段 — Marketo文档 — 产品文档
-title: 程序成员自定义字段
+description: 项目群成员自定义字段 — Marketo文档 — 产品文档
+title: 项目群成员自定义字段
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '411'
 ht-degree: 1%
 
 ---
 
-# 程序成员自定义字段 {#program-member-custom-fields}
+# 项目群成员自定义字段 {#program-member-custom-fields}
 
-利用项目成员自定义字段，可收集每个成员的项目特定数据。 它们可用于：Marketo表单、智能列表过滤器和触发器，以及智能营销活动流程操作。 可在程序的“成员”(Members)选项卡中查看数据。
+程序成员自定义字段允许您收集每个成员的特定于程序的数据。 它们可用于：Marketo表单、智能列表过滤器和触发器，以及智能营销活动流操作。 可在项目群的“成员”选项卡中查看数据。
 
-## 创建程序成员自定义字段 {#create-a-program-member-custom-field}
+## 创建项目群成员自定义字段 {#create-a-program-member-custom-field}
 
 1. 在Marketo中，单击 **管理员**.
 
@@ -28,7 +29,7 @@ ht-degree: 1%
 
    ![](assets/three.png)
 
-1. 单击“对象”(Object)下拉列表，然后选择所需的对象。
+1. 单击对象下拉列表，然后选择所需的对象。
 
    ![](assets/four.png)
 
@@ -36,45 +37,44 @@ ht-degree: 1%
    >
    >人员和项目群成员自定义字段不能共享相同的名称。
 
-1. 填写剩余字段并单击 **创建**.
+1. 填写其余字段并单击 **创建**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >程序成员自定义字段支持的类型包括：布尔值、日期、日期时间、浮点、整数、字符串、URL。 [了解有关字段类型的更多信息](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target=&quot;_blank&quot;}。
+   >程序成员自定义字段支持的类型包括：布尔值、日期、日期时间、浮点数、整数、字符串、URL。 [了解有关字段类型的更多信息](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## 对象描述 {#object-descriptions}
 
 | 对象 | 描述 |
 |---|---|
-| 公司 | 与人员关联的公司名称。 |
-| 机会 | 一个机会可以与一个人或帐户关联，作为潜在的未来销售。 他们通常通过CRM或API进入Marketo。 |
-| 人员 | 您通过营销活动参与的Marketo数据库中的个人。 |
-| 计划成员 | 也是项目成员的人 |
+| 公司 | 与人员关联的公司的名称。 |
+| 机会 | 商机可以与个人或帐户关联，作为潜在的未来销售。 他们通常通过CRM或API进入Marketo。 |
+| 人员 | 通过营销活动与之接触的Marketo数据库中的个人。 |
+| 计划成员 | 同时还是项目群成员的人员 |
 
 ## 触发器和过滤器 {#triggers-and-filters}
 
-您可以通过 [触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;}和/或 [过滤器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}。
+您可以通过以下方式在智能列表中利用此程序特定的数据 [触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
 ## 注意事项 {#things-to-know}
 
-* 项目成员自定义字段仅在本地资产中可用。 Design Studio不支持这些功能，因为无法将其绑定到特定的程序。
-* 不能将包含程序成员自定义字段的表单（或包含表单的登陆页面）克隆/移动到Design Studio。
-* [您可以同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}具有促销活动成员自定义字段的项目成员自定义字段。
-* 程序成员对象最多可以有20个自定义字段。 这些字段可用于任何程序。
-* 删除某个程序的成员时，如果其“程序成员”(Program Member)自定义字段中有任何数据，则会从该字段中清除该数据。
-* 要查看数据，请单击程序中的“成员”选项卡，并创建包含该字段的自定义视图。
-* 通过导入和导出 [列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}和 [API](https://developers.marketo.com/)支持{target=&quot;_blank&quot;}。 导出仅适用于程序成员列表，而不适用于静态列表。
-* 当您合并两个人时，将使用入选者的项目成员自定义字段数据。 但如果获胜者没有，则将使用失败者的价值。
-* 在“程序成员信息”(Program Member Info)字段中不允许更改类型。
+* 项目群成员自定义字段仅在本地资产中可用。 Design Studio中不支持这些功能，因为无法将其绑定到特定程序。
+* 不能将包含程序成员自定义字段的表单（或带有表单的登陆页面）克隆/移动到Design Studio。
+* [您可以同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} 具有促销活动成员自定义字段的计划成员自定义字段。
+* 程序成员对象最多可以有20个自定义字段。 这些字段可用于任何项目。
+* 当您删除某个项目的成员时，如果他们的项目群成员自定义字段中包含任何数据，则将从该字段中清除这些数据。
+* 要查看数据，请单击程序中的成员选项卡，然后创建包含上述字段的自定义视图。
+* 导入和导出，通过 [列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} 受支持。 导出仅对项目群成员列表有效，对静态列表无效。
+* 合并两个人员时，将使用入选者的项目群成员自定义字段数据。 但是，如果获胜方没有赢家，则使用失败方的值。
+* “项目群成员信息”字段不允许更改类型。
 * 程序成员自定义字段不支持“包含”智能列表约束。
 
 >[!MORELIKETHIS]
 >
->* [在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
 >
->* [程序成员自定义字段同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
-
+>* [项目群成员自定义字段同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}

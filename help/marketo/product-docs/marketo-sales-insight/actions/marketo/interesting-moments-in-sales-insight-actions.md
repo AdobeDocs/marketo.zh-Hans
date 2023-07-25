@@ -1,33 +1,34 @@
 ---
-description: 销售分析操作中的有趣时刻 — Marketo文档 — 产品文档
-title: 销售分析操作中的有趣时刻
+description: Sales Insight Actions中的有趣时刻 — Marketo文档 — 产品文档
+title: Sales Insight操作中的有趣时刻
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-# 销售分析操作中的有趣时刻 {#interesting-moments-in-sales-insight-actions}
+# Sales Insight操作中的有趣时刻 {#interesting-moments-in-sales-insight-actions}
 
-在通过Marketo Sales Insight Actions与您的销售团队进行沟通时，关键时刻就是关键时刻。
+有趣的时刻是通过Marketo Sales Insight Actions与您的销售团队进行沟通的关键。
 
-## 什么是有趣的时刻？ {#what-is-an-interesting-moment}
+## 什么是一个有趣的时刻？ {#what-is-an-interesting-moment}
 
-这取决于你！ 您决定与您的销售团队相关的信息。 您的销售团队可能希望了解商机的时间：
+由你来决定！ 您可以决定哪些信息与您的销售团队相关。 您的销售团队可能想知道销售线索何时出现：
 
 * 访问您网站上的定价页面
 * 单击新产品公告电子邮件中的链接
 * 请求产品演示
 
-## 如何创造有趣的时刻？ {#how-do-i-create-an-interesting-moment}
+## 我该如何创造一个有趣的时刻呢？ {#how-do-i-create-an-interesting-moment}
 
-1. 选择 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target=&quot;_blank&quot;}，最好是您的销售团队在触发时会发现其中一个值得关注。
+1. 选择 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}，最好是您的销售团队觉得有意思的一个，如果触发。
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. 在 **有趣的时刻** 流步骤。
+1. 拖动到 **有趣的时刻** 流程步骤。
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -35,22 +36,22 @@ ht-degree: 0%
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. 在 **描述** 字段来解释此操作为何重要。
+1. 在 **描述** 解释此操作重要原因的字段。
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
    >[!NOTE]
    >
-   >Marketo还将添加发生的日期以及添加有趣时刻的方式（即，潜在客户操作>流步骤、SOAP API）。
+   >Marketo还将添加发生的日期以及添加有趣时刻的方式（即潜在客户操作>流程步骤、SOAP API）。
 
-## 在Marketo，什么是有趣的时刻？  {#what-does-an-interesting-moment-look-like-in-marketo}
+## Marketo中一个有趣的时刻是什么样的？  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-有趣的时刻将显示在 [潜在客户的活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target=&quot;_blank&quot;}。
+有趣的时刻将显示在 [商机的活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## 在Sales Insight Actions中，有什么有趣的时刻？ {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## 在Sales Insight Actions中，一个有趣的时刻是什么样的？ {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-有趣的时刻将实时显示在用户的实时动态消息中。 我们在Salesforce中利用潜在客户所有者ID来显示用户作为其所有者的相关潜在客户的有趣时刻。 用户可以通过电子邮件/电话/销售活动快速跟踪潜在客户，方法是单击潜在客户名称旁边的下拉菜单。
+有趣的时刻将实时显示在用户的实时信息源中。 我们利用Salesforce中的潜在客户所有者ID来显示用户对于他们拥有的相关潜在客户的有趣时刻。 用户可以通过电子邮件/电话/促销活动快速跟踪潜在客户，方法是单击潜在客户名称旁边的下拉列表。
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

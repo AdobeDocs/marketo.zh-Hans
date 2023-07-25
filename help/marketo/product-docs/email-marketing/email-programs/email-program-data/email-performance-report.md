@@ -1,67 +1,67 @@
 ---
 unique-page-id: 2359467
 description: 电子邮件性能报表 — Marketo文档 — 产品文档
-title: 电子邮件性能报表
+title: 电子邮件性能报告
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 0%
 
 ---
 
-# 电子邮件性能报表 {#email-performance-report}
+# 电子邮件性能报告 {#email-performance-report}
 
-要了解您的电子邮件使用已提交、打开、点击等统计资料的表现如何，请创建电子邮件效果报表。
+要查看电子邮件使用已投放、已打开、已单击等统计信息执行的效果，请创建电子邮件性能报表。
 
-1. [在项目中创建报表](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，然后选择 **电子邮件性能** [报表类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [更改报表时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然后单击 **报表** 选项卡。
-1. 你在那！ 现在浏览该报表，了解电子邮件的执行情况。
+1. [在项目群中创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 并选择 **电子邮件性能** [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [更改报表时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 并单击 **报告** 选项卡。
+1. 你在那儿！ 现在，浏览报表以查看电子邮件的执行情况。
 
    >[!NOTE]
    >
-   >“发送日期”过滤器基于电子邮件的首次发送日期。
+   >“发送日期”过滤器基于电子邮件的第一个发送日期。
 
    ![](assets/email-performance-report.png)
 
    >[!TIP]
    >
-   >单击电子邮件的名称，以在电子邮件预览器中将其打开。
+   >单击电子邮件的名称以在电子邮件预览器中打开它。
 
    >[!NOTE]
    >
-   >电子邮件性能报表包含所有人员的活动，包括自电子邮件发送以来已删除的活动。 有时，您只想查看活跃人员的活动。 在这种情况下，您需要从报表中过滤已删除的人员。 使用 **智能列表** 选项卡 [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 中。 如果未对任何特定字段进行过滤，请将“电子邮件地址”过滤器设置为： **不为空**.
+   >电子邮件性能报表包含适用于所有人员的活动，包括自发送电子邮件以来已删除的活动。 有时候，您只想查看活跃人士的活动。 在这种情况下，您需要从报表中过滤删除的人员。 使用 **智能列表** 按Tab键至 [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ，以作为报告。 如果不对任何特定字段进行筛选，则将电子邮件地址筛选器设置为： **不为空**.
 
-   [选择报表列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 对于“电子邮件性能”报表，其中包括：
+   [选择报表列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 电子邮件性能报表包括：
 
    | 列 | 描述 |
    |---|---|
-   | 硬退回 | 电子邮件因永久性条件（如不存在的电子邮件地址）而被拒绝。 |
-   | 软退回 | 电子邮件因临时情况（如服务器关闭或收件箱已满）而被拒绝。 |
-   | 待定 | 此数字的计算方式是从总发送数量中减去已送达、已退回和软退回的电子邮件数量。 |
-   | 点击的链接 | 单击电子邮件中链接的电子邮件收件人数量。 |
-   | 退订 | 点击了 **取消订阅** 链接并填写表单。 |
+   | 硬退回 | 由于永久条件（如不存在电子邮件地址），电子邮件被拒绝。 |
+   | 软退回 | 由于临时情况（如服务器关闭或收件箱已满），电子邮件被拒绝。 |
+   | 待处理 | 此数字的计算方法是：从发送的总数中减去已投放、已退回和已软退回的电子邮件数。 |
+   | 已单击的链接 | 单击电子邮件中链接的电子邮件收件人数量。 |
+   | 退订 | 已单击 **取消订阅** 电子邮件中的链接并填写表单。 |
 
    >[!NOTE]
    >
-   >取消订阅电子邮件中点击的链接和电子邮件地址不会在报表的已点击链接下注册。
+   >取消订阅电子邮件中点击的链接和电子邮件地址，将不会在报告中的“点击的链接”下注册。
 
-一般来说，我们尝试用常识来记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，则显然是先打开了电子邮件。 我们在电子邮件性能报表中遵循以下特定规则：
+一般来说，我们尝试用常识来记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，则他们显然会先打开该电子邮件。 我们遵循以下有关电子邮件性能报表的特定规则：
 
-* **规则1**:每个电子邮件活动记录均设置为以下一项，且仅设置为一项： _已交付_, _硬退回_, _软退回_&#x200B;或 _待定_.
+* **规则1**：每个电子邮件活动记录均设置为以下项之一，且只设置为一个： _已投放_， _硬退回_， _软退回_，或 _待处理_.
 
-* **规则2**:如果电子邮件记录显示 *已打开*，则计为 *已交付*.
+* **规则2**：如果电子邮件记录显示 *已打开*，则计为 *已投放*.
 
-* **规则3**:如果电子邮件记录显示 _已点击电子邮件_ 或 _已取消订阅_，则计为 _已交付_ 和 _已打开_.
+* **规则3**：如果电子邮件记录显示 _已点击电子邮件_ 或 _已取消订阅_，则计为 _已投放_ 和 _已打开_.
 
-* **规则4**:如果电子邮件为 _已打开_，则会忽略跳出。 如果尚未打开电子邮件， _硬退回_ 优先于 _软退回_ 和 _已交付_.
+* **规则4**：如果电子邮件为 _已打开_，会忽略退回。 如果电子邮件尚未打开， _硬退回_ 优先于 _软退回_ 和 _已投放_.
 
 >[!NOTE]
 >
->从同一营销活动向同一人发送的多个消息只会被计数一次。
+>从同一营销活动向同一人员发送的多次发送仅计数一次。
 
 >[!MORELIKETHIS]
 >
->* [在营销活动电子邮件报表中过滤资产](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [在Campaign电子邮件报告中筛选资源](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [电子邮件链接性能报表](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-

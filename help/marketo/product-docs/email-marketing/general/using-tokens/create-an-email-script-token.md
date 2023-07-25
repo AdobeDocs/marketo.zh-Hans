@@ -3,7 +3,8 @@ unique-page-id: 1900577
 description: 创建电子邮件脚本令牌 — Marketo文档 — 产品文档
 title: 创建电子邮件脚本令牌
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -12,25 +13,25 @@ ht-degree: 0%
 
 # 创建电子邮件脚本令牌 {#create-an-email-script-token}
 
-对于高级开发人员，您可以使用 [Velocity脚本](https://velocity.apache.org/engine/1.7/user-guide.html) 邮件中。 这是如何做到的。
+对于高级开发人员，您可以使用 [Velocity脚本](https://velocity.apache.org/engine/1.7/user-guide.html) 在电子邮件中。 下面是操作方法。
 
 1. 转到 **营销活动**.
 
    ![](assets/ma.png)
 
-1. 查找并选择任意项目（“事件”、“默认”或“参与度”等）。
+1. 查找并选择任意项目（事件、默认或参与等）。
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. 在 **我的令牌** 选项卡，在 **电子邮件脚本** 令牌。
+1. 在 **我的令牌** 选项卡，拖入 **电子邮件脚本** 令牌。
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. 命名您的电子邮件脚本令牌和 **单击以编辑** 内容。
+1. 命名您的电子邮件脚本令牌，并 **单击以编辑** 其内容。
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. 使用右侧的树拖入 **人员、机会**&#x200B;或 **自定义对象** 令牌。
+1. 使用右侧的树以拖入 **人员、机会**，或 **自定义对象** 令牌。
 
    ![](assets/five-2.png)
 
@@ -38,15 +39,15 @@ ht-degree: 0%
    >
    >访问数组（机会或自定义对象）时，您只能访问与该人员关联的最近10个项目。
 
-1. 请注意，将令牌拖动到脚本编辑器后，该令牌会变为选中/活动状态。
+1. 请注意，将令牌拖到脚本编辑器后，该令牌会变为已选中/活动状态。
 
    ![](assets/image2014-9-17-22-3a22-3a33.png)
 
    >[!NOTE]
    >
-   >如果您在令牌中键入自由格式，请确保检查/激活树中的所有对应令牌，否则这些令牌将被视为纯文本，并且无法正常使用。
+   >如果您以自由格式键入令牌，请确保检查/激活树中所有相应的令牌，否则这些令牌将被视为纯文本，并且无法正常工作。
 
-1. 用Velocity编写脚本。 以下是一些有用的资源：
+1. 在Velocity中编写脚本。 以下是一些有用的资源：
 
    * [Marketo开发人员电子邮件脚本文档](https://developers.marketo.com/email-scripting/)
    * [Velocity用户指南](https://velocity.apache.org/engine/devel/user-guide.html)
@@ -65,4 +66,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[向电子邮件中添加电子邮件脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
+>[向电子邮件添加电子邮件脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)

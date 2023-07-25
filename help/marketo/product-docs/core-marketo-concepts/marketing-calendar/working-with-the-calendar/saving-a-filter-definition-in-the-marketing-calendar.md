@@ -3,7 +3,8 @@ unique-page-id: 1147296
 description: 在营销日历中保存过滤器定义 — Marketo文档 — 产品文档
 title: 在营销日历中保存过滤器定义
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%

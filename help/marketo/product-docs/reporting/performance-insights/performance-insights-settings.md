@@ -3,7 +3,8 @@ unique-page-id: 13795492
 description: 性能分析设置 — Marketo文档 — 产品文档
 title: 性能分析设置
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -18,38 +19,38 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->根据您所在的功能板，您将看到不同的设置选项。
+>根据您所在的仪表板，您会看到不同的设置选项。
 
-## 查看项目成功依据 {#view-program-success-by}
+## 项目成功查看者 {#view-program-success-by}
 
-**参与度仪表板 — 贡献和趋势**
+**参与度信息板 — 贡献和趋势**
 
 <table> 
  <tbody> 
   <tr> 
    <td><strong>成本期间</strong></td> 
-   <td>当您查看此信息时，性能分析会将所有新名称和成功案例汇总回设置为成本期的月份。</td> 
+   <td>选中此选项后，性能分析将所有新名称和成功实例聚合回设置为成本期的月份。</td> 
   </tr> 
   <tr> 
-   <td><strong>活动期</strong></td> 
-   <td>当您查看此项信息时，性能分析将按活动日期汇总所有新名称、成功案例和成员资格，而不考虑项目成本期限。</td> 
+   <td><strong>活动周期</strong></td> 
+   <td>当您选中此选项时，性能分析将按活动日期汇总所有新名称、成功和成员资格，而不考虑项目成本期。</td> 
   </tr> 
  </tbody> 
 </table>
 
-## 上一时段配置 {#previous-period-configuration}
+## 上一期间配置 {#previous-period-configuration}
 
-**参与度、管道、收入功能板 — 仅贡献**
+**参与度、管道、收入仪表板 — 仅贡献**
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>日历期</strong></td> 
-   <td>将上一时段设置为：上一个日历月、季度或年。</td> 
+   <td><strong>日历期间</strong></td> 
+   <td>将上一期间设置为：上一日历月、季度或年。</td> 
   </tr> 
   <tr> 
-   <td><strong>YOY期间</strong></td> 
-   <td>将上一时段设置为上一年的同月份或季度。</td> 
+   <td><strong>您的时段</strong></td> 
+   <td>将前期设置为上一年度的同一月或季度。</td> 
   </tr> 
  </tbody> 
 </table>
@@ -61,27 +62,27 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>在创建商机之前显示首次联系</strong></td> 
-   <td><p>当您检查此信息时，MPI会包含与至少一个在机会创建之前由Marketo程序获得（首次联系/FT）的潜在客户相关联的机会。 显式、隐式和混合归因设置适用。</p></td> 
+   <td><strong>在机会创建前显示首次联系</strong></td> 
+   <td><p>当您选中此选项时，MPI将包含与至少一个潜在客户关联的销售机会，该潜在客户是在创建销售机会之前由Marketo计划获得的（首次联系/FT）。 可应用显式、隐式和混合归因设置。</p></td> 
   </tr> 
   <tr> 
-   <td><strong>在创建商机之前显示多接触点</strong></td> 
-   <td><p>当您查看此信息时，MPI将包含至少一个商机，该商机是在机会创建之前由Marketo程序获得（多接触/MT）。 显式、隐式和混合归因设置适用。</p></td> 
+   <td><strong>在创建机会之前显示多点触控</strong></td> 
+   <td><p>当您检查这一点时，MPI将包含商机，其中至少有一个商机是在创建商机之前由Marketo计划收购（多点触控/MT）的。 可应用显式、隐式和混合归因设置。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**收入功能板 — 贡献和趋势**
+**收入仪表板 — 贡献和趋势**
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>显示首次联系，然后机会关闭</strong></td> 
-   <td><p>当您检查此信息时，MPI包含与至少一个在机会关闭前由Marketo计划获得（首次联系/FT）的潜在客户相关联的机会。 显式、隐式和混合归因设置适用。</p></td> 
+   <td><strong>在机会关闭前显示首次联系</strong></td> 
+   <td><p>当您检查此情况时，MPI包含与至少一个潜在客户关联的销售机会，该潜在客户在销售机会关闭之前由Marketo计划获得（首次联系/FT）。 可应用显式、隐式和混合归因设置。</p></td> 
   </tr> 
   <tr> 
-   <td><strong>显示多点接触，然后机会关闭</strong></td> 
-   <td><p>当您查看此信息时，MPI包含至少一个商机，该商机在机会关闭前由Marketo程序获得（多接触/MT）。 显式、隐式和混合归因设置适用。</p></td> 
+   <td><strong>在机会关闭前显示多点触控</strong></td> 
+   <td><p>当您检查这一点时，MPI将包含商机，其中至少有一个商机是在商机结束之前由Marketo计划收购（多点触控/MT）的。 可应用显式、隐式和混合归因设置。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -93,12 +94,12 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>基于投资期</strong></td> 
-   <td>投资成本仅计算为由投资期过滤器定义的每月计划成本的总和。</td> 
+   <td><strong>根据投资期</strong></td> 
+   <td>投资成本的计算方法很简单，即投资期间过滤器定义的每月项目成本的总和。</td> 
   </tr> 
   <tr> 
-   <td><strong>基于程序归因</strong></td> 
-   <td>归因成本基于由在计划中获得或取得成功的潜在客户或联系人确定的部分计划成本，并最终获得成功的机会。</td> 
+   <td><strong>基于项目群归因</strong></td> 
+   <td>已归因成本基于由在项目中获得的潜在客户或联系人确定的项目成本的一部分，或最终获得成功的机会。</td> 
   </tr> 
  </tbody> 
 </table>

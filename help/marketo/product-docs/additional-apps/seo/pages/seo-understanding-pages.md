@@ -1,55 +1,56 @@
 ---
 unique-page-id: 2949184
-description: SEO — 瞭解頁面 — Marketo檔案 — 產品檔案
-title: SEO — 瞭解頁面
+description: SEO — 了解页面 — Marketo文档 — 产品文档
+title: SEO — 了解页面
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 1%
 
 ---
 
-# SEO — 瞭解頁面 {#seo-understanding-pages}
+# SEO — 了解页面 {#seo-understanding-pages}
 
-## 頁面最佳化分數/待辦事項Widget {#page-optimization-score-to-do-widget}
+## 页面优化得分/待办事项小组件 {#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-頁面 [!UICONTROL 最佳化分數] 是頁面針對搜尋最佳化的整體排名，以1到100為分母。 這是以SEO中數十種最佳實務為基礎所建立。
+页面 [!UICONTROL 优化得分] 是页面针对搜索进行优化的程度总体排名，从1到100。 它基于SEO中的数十种最佳实践。
 
-* 0 - 35 =未最佳化
-* 35 - 70 =在右邊
-* 70 - 100 =做得很好！
+* 0 - 35 =未得到良好优化
+* 35 - 70 =在右边
+* 70 - 100 =做得好！
 
 >[!TIP]
 >
->按一下 [!UICONTROL 高影響力] 中的連結 [!UICONTROL 待辦事項] 方塊中，這會將您重新導向至 [!UICONTROL 問題索引標籤] 並顯示要解決的高優先順序問題。
+>单击 [!UICONTROL 高影响力] 中的链接 [!UICONTROL 待办事项] 框中，这会将您重定向到 [!UICONTROL “问题”选项卡] 并向您展示需要解决的高优先级问题。
 
-## [!UICONTROL 頁面] 標籤 {#pages-tab}
+## [!UICONTROL 页面] 选项卡 {#pages-tab}
 
-此 **[!UICONTROL 頁面] 標籤** 顯示您網站上個別頁面的搜尋最佳化程度。
+此 **[!UICONTROL 页面] 选项卡** 显示网站上的各个页面优化搜索的效果。
 
 ![](assets/image2014-9-17-21-3a52-3a41.png)
 
-| 欄名稱 | 描述 |
+| 列名称 | 描述 |
 |---|---|
-| [!UICONTROL 标题] | 網域中所有頁面的標題和URL。 驗證您的網域。 |
-| [!UICONTROL 最佳化分數] | 用來顯示您的頁面在1到100之間最佳化搜尋效果的秘訣。 |
-| [!UICONTROL 連結] | 至少有1個傳入連結可連結至您網站的不同網域數目。 |
-| [!UICONTROL 目標關鍵字] | 您決定最佳化每個頁面的關鍵字。 [這需要您的輸入](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL 标题] | 域中所有页面的标题和URL。 验证您的域。 |
+| [!UICONTROL 优化得分] | 秘汁用来向您展示优化页面以搜索（从1到100）的效果。 |
+| [!UICONTROL 链接] | 至少具有1个到您网站的入站链接的不同域数。 |
+| [!UICONTROL 目标关键字] | 您决定优化每个页面的关键词。 [这需要您的输入](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
-## [!UICONTROL 問題] 標籤 {#issues-tab}
+## [!UICONTROL 问题] 选项卡 {#issues-tab}
 
-此 **[!UICONTROL 問題] 標籤** 將確定您可以進行哪些改善以提高最佳化分數和排名。
+此 **[!UICONTROL 问题] 选项卡** 将确定您可以进行哪些改进以提高优化分数和排名。
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 
-| 欄名稱 | 描述 |
+| 列名称 | 描述 |
 |---|---|
-| [!UICONTROL 問題] | 有助於改善最佳化分數的可操作專案清單。 |
-| [!UICONTROL 影響] | 這對於您的整體分數有多重要。 請先修正高影響力的專案！ |
-| [!UICONTROL 类别] | 所報告的問題型別。 |
-| [!UICONTROL 状态] | 任務完成還是仍然開啟。 在您和您的網站管理員修正您網站上的問題後，狀態應變更為「已解決」（綠色檢查）。 |
+| [!UICONTROL 问题] | 将有助于提高优化得分的可操作项目列表。 |
+| [!UICONTROL 影响] | 它对您的总分有多重要。 首先修复高影响力的项目！ |
+| [!UICONTROL 类别] | 所报告的问题类型。 |
+| [!UICONTROL 状态] | 任务已完成还是仍处于打开状态。 在您和网站管理员修复网站上的问题后，状态应更改为“已解决”（绿色检查）。 |
 
-棒極了，現在您已瞭解頁面的基本知識，請檢視以下資訊： [頁面詳細資料向下展開文章](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) 以進一步瞭解您可以做的酷事。
+太棒了，现在您已经了解了页面的基础知识，请查看页面上的 [页面详细信息向下钻取文章](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) 了解更多酷炫事物。

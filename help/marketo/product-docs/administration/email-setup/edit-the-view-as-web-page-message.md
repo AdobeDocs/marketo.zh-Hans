@@ -3,7 +3,8 @@ unique-page-id: 2360253
 description: 编辑“以网页形式查看”消息 — Marketo文档 — 产品文档
 title: 编辑“以网页形式查看”消息
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -46,7 +47,6 @@ ht-degree: 0%
 >
 >* 向任一HTML框添加其他URL
 >* 在文本版本中置入HTML
-
 
 给你。 发送测试电子邮件以确保格式化。
 

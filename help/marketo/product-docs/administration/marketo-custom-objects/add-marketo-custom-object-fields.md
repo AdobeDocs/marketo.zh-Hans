@@ -3,7 +3,8 @@ unique-page-id: 10093688
 description: 添加Marketo自定义对象字段 — Marketo文档 — 产品文档
 title: 添加Marketo自定义对象字段
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -68,4 +69,3 @@ ht-degree: 0%
 >* [编辑和删除Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [编辑和删除Marketo自定义对象字段](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [了解Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
-

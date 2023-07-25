@@ -2,9 +2,10 @@
 description: 电子邮件跟踪链接标头 — Marketo文档 — 产品文档
 title: 电子邮件跟踪链接标题
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

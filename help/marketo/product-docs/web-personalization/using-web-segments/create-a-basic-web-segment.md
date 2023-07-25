@@ -3,16 +3,17 @@ unique-page-id: 4719344
 description: 创建基本Web区段 — Marketo文档 — 产品文档
 title: 创建基本Web区段
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 创建基本Web区段 {#create-a-basic-web-segment}
 
-让我们创建一个基本区段，以定位来自美国和金融服务行业的所有Web访客。
+让我们创建一个基本区段，以来自美国和金融服务业的所有Web访客为目标。
 
 1. 转到 **区段**.
 
@@ -26,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/segment-name.png)
 
-1. 拖动 **位置** ，并将其放入区段编辑器中。
+1. 拖动 **位置** 从右侧菜单中将其拖放到区段编辑器中。
 
    ![](assets/location-drag-hand.jpg)
 
@@ -36,23 +37,23 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >每个区段的城市数量最多为300个。
+   >每个区段的城市数量限制为300个。
 
-1. 拖动 **行业** ，并将其放入区段编辑器中。
+1. 拖动 **行业** 从右侧菜单中将其拖放到区段编辑器中。
 
    ![](assets/industries-hand.jpg)
 
-1. 从下拉列表中选择要添加的行业。 选择 **金融服务业**.
+1. 从下拉列表中选择要添加行业。 选择 **金融服务业**.
 
    ![](assets/segment-industries.png)
 
-   您现在已为所有潜在客户设置一个基本区段，以便从美国和金融行业访问您的网站。
+   现在，您已为所有访问您网站的美国客户和金融业潜在客户建立了一个基本区段。
 
-1. 单击 **保存** 保存区段或 **保存并定义营销活动** 转到“营销活动”页面。
+1. 单击 **保存** 保存区段或 **保存并定义营销活动** 以转到“营销活动”页面。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-现在，您已将美国访客划分为多个区段，接下来请加入金融服务行业。
+现在，您已对美国访客进行了分段，接下来请添加金融服务行业。
 
 >[!MORELIKETHIS]
 >

@@ -1,24 +1,25 @@
 ---
 unique-page-id: 1146970
-description: 计划批量智能营销活动以在以后运行 — Marketo文档 — 产品文档
-title: 计划批量智能营销活动以在以后运行
+description: 计划稍后运行的批量智能营销活动 — Marketo文档 — 产品文档
+title: 安排稍后运行的批量智能营销活动
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# 计划批量智能营销活动以在以后运行 {#schedule-a-batch-smart-campaign-to-run-later}
+# 安排稍后运行的批量智能营销活动 {#schedule-a-batch-smart-campaign-to-run-later}
 
-如果要将批量智能营销活动设置为在未来某个时间点运行，请参阅以下操作方法。
+如果您希望将批量智能营销活动设置为在未来的某个时间点运行，请参阅下面的操作方法。
 
 >[!TIP]
 >
 >您还可以 [在项目计划视图中重新计划批量智能营销活动](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
-1. 选择要运行的批量智能营销活动，转到 **计划** ，然后单击 **运行一次**.
+1. 选择要运行的批处理智能营销活动，转到 **计划** 选项卡，然后单击 **运行一次**.
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
@@ -26,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. 选择您希望智能营销活动在运行的时间（至少提前15分钟）。
+1. 选择您希望智能营销活动在什么时间运行（至少提前15分钟）。
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -40,4 +41,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[计划定期批量促销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
+   >[计划循环批处理活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)

@@ -1,32 +1,33 @@
 ---
 unique-page-id: 2952636
-description: 使用自定义逻辑查找重复人员 — Marketo文档 — 产品文档
-title: 使用自定义逻辑查找重复人员
+description: 使用自定义逻辑查找重复的人员 — Marketo文档 — 产品文档
+title: 使用自定义逻辑查找重复的人员
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
-# 使用自定义逻辑查找重复人员 {#find-duplicate-people-with-custom-logic}
+# 使用自定义逻辑查找重复的人员 {#find-duplicate-people-with-custom-logic}
 
-Marketo有一个系统智能列表，可通过匹配重复的人员电子邮件地址来查找他们。 如果要使用其他字段查找重复项，请参阅以下操作方法。
+Marketo有一个系统智能列表，用于通过匹配重复人员的电子邮件地址来查找重复的人员。 如果要使用其他字段查找重复项，请参阅以下方法。
 
 >[!PREREQUISITES]
 >
 >[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 转到 **营销活动** 的上界。
+1. 转到 **营销活动** 区域。
 
 ![](assets/ma-2.png)
 
-1. 选择智能列表，单击 **智能列表** 选项卡。
+1. 选择您的智能列表，单击 **智能列表** 选项卡。
 
    ![](assets/two-4.png)
 
-1. 查找并拖动 **复制字段** 过滤到画布上。
+1. 查找并拖动 **重复字段** 过滤到画布上。
 
    ![](assets/three-4.png)
 
@@ -35,12 +36,12 @@ Marketo有一个系统智能列表，可通过匹配重复的人员电子邮件�
    * 电子邮件地址
    * 全名
    * 姓氏
-   * 更新日期：
+   * 更新时间
 
    >[!NOTE]
    >
-   >除“电子邮件地址”之外，所有字段均区分大小写。 因此，在“全名”字段中使用“john doe”将 _not_ 返回无名氏的结果。
+   >除电子邮件地址外，所有字段都区分大小写。 因此，在“全名”字段中使用“john doe”将会 _非_ 返回John Doe的结果。
 
    ![](assets/four-2.png)
 
-   完成! 运行智能列表，以在之前选择的字段中查找具有相同值的人员。
+   完成! 运行智能列表以查找在之前选定的字段中具有相同值的用户。

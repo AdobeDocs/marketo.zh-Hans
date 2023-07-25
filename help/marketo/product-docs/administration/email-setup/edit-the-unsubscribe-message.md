@@ -3,7 +3,8 @@ unique-page-id: 2360251
 description: 编辑取消订阅消息 — Marketo文档 — 产品文档
 title: 编辑取消订阅消息
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -34,7 +35,6 @@ ht-degree: 0%
    >
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
-
 
 1. 编辑 **[!UICONTROL 取消订阅HTML]** 和 **[!UICONTROL 取消订阅文本]** 版本和单击时显示的内容 **[!UICONTROL 保存更改]**.
 

@@ -1,43 +1,44 @@
 ---
 unique-page-id: 2949180
-description: 瞭解SEO控制面板 — SEO Recommendations - Marketo檔案 — 產品檔案
-title: 瞭解SEO控制面板 — SEO Recommendations
+description: 了解SEO功能板 — SEO Recommendations - Marketo文档 — 产品文档
+title: 了解SEO功能板 — SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 瞭解SEO控制面板：SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
+# 了解SEO功能板：SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
 
-使用控制面板可取得關鍵字排名趨勢的高階檢視，以及您的網站針對SEO最佳化的程度。
+使用仪表板可大致了解关键词排名趋势以及您的网站针对SEO优化的程度。
 
-您也可以透過以下連結瞭解如何改進使用 [!UICONTROL Recommendations] 區段。 讓我們開始吧！
+您还可以了解如何使用进行改进 [!UICONTROL Recommendations] 部分。 让我们跳进去！
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## [!UICONTROL 熱門頁面最佳化問題] {#top-page-optimization-issues}
+## [!UICONTROL 热门页面优化问题] {#top-page-optimization-issues}
 
-這會向您展示五種立即開始最佳化網站的高影響力方法！ 只要按一下任何連結即可檢視完整內容 [頁面詳細資料向下展開](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+这将向您展示五种立即开始优化网站的高影响力方法！ 只需单击任意链接即可查看完整内容 [页面详细信息向下钻取](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
->您可以按一下 [!UICONTROL 熱門頁面最佳化問題] 以檢視完整清單。
+>您可以单击 [!UICONTROL 热门页面优化问题] 以查看完整列表。
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
-## [!UICONTROL 熱門連結機會] {#top-link-opportunities}
+## [!UICONTROL 热门链接机会] {#top-link-opportunities}
 
-將信譽良好的網站連結至您的內容可以增加您的頁面排名。 以下是我們在您的網站上找到的一些最高優先順序的機會。
+将信誉良好的站点链接到您的内容可以提高页面排名。 以下是我们在您的网站上发现的一些优先级最高的机会。
 
 >[!TIP]
 >
->您可以按一下 [!UICONTROL 上層連結最佳化] 以檢視完整清單。
+>您可以单击 [!UICONTROL 顶级链接优化] 以查看完整列表。
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 
 >[!MORELIKETHIS]
 >
->[頁面詳細資料向下展開](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}
+>[页面详细信息向下钻取](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}

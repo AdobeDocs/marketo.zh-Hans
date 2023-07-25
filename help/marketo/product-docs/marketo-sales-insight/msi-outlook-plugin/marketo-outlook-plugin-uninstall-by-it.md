@@ -3,7 +3,8 @@ unique-page-id: 11382829
 description: Marketo Outlook插件由IT卸载 — Marketo文档 — 产品文档
 title: Marketo Outlook插件由IT卸载
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 以下是IT如何远程卸载Marketo Outlook插件。
 
-将以下命令行作为“系统”运行，或作为要卸载的/x开关的管理用户帐户运行。
+以“System”或带/x开关的管理用户帐户身份运行以下命令行，以卸载。
 
 `<pre>msiexec.exe /x [File Name] /qn </pre>`
 
@@ -24,7 +25,7 @@ ht-degree: 0%
 >
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn </pre>`
 
-要进行故障排除，您可以启用日志记录以创建输出日志文件。
+对于疑难解答，您可以启用日志记录来创建输出日志文件。
 
 `<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
 
@@ -46,6 +47,6 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->远程卸载此插件将强制关闭用户计算机上的Outlook。
+>远程卸载插件将强制关闭用户计算机上的Outlook。
 
-请参阅 [Microsoft交换机的完整列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您想尝试不同的日志记录级别或用户界面级别。
+请参考 [Microsoft的交换机完整列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您希望尝试使用不同的日志记录级别或用户界面级别。

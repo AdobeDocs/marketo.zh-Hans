@@ -1,7 +1,9 @@
 ---
 description: 发行说明 — 2022年10月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年10月
-source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
+exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 2%
@@ -10,21 +12,21 @@ ht-degree: 2%
 
 # 发行说明：2022年10月 {#release-notes-oct-22}
 
-在下面，您将找到’22年10月版中包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能的可用性。
+在下方，您会找到2022年10月版本中包含的所有功能。 查看Adobe Marketo Engage版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
->由星(![星星](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>以星号(![星形](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于 **2022年10月14日**，在接下来的几周中将分阶段推出其余功能。 发行功能和日期可能会发生更改。 请查看下面每个功能的状态。
+以下功能属于标准发行周期，并将于以下日期开始发行 **2022年10月14日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会有变动。 请检查每个功能下方的状态。
 
 ### 营销数据环境 {#marketing-data-environment}
 
 </br>
 
-* **程序成员自定义字段同步**:能够双向同步为程序成员捕获的可扩展字段(例如，在事件注册期间（如食物、会话、轨道等）的参与者偏好 Salesforce中的Campaign成员字段。
+* **项目群成员自定义字段同步**：能够双向同步为项目群成员捕获的可扩展字段（例如，在活动注册期间的与会者偏好，如食物、会话、曲目等） 使用Salesforce中的Campaign成员字段。
 
 <table> 
   <tr> 
@@ -32,13 +34,13 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">程序成员自定义字段同步</a></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">项目群成员自定义字段同步</a></td>
   </tr>
   </tbody>
 </table>
 
-* **AdobePrivacy Service集成**:与Privacy Service协调，以自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入AdobeIdentity Management系统的Marketo Engage客户。
+* **AdobePrivacy Service集成**：与Privacy Service协调以跨Experience Cloud产品自动遵守数据隐私法规。 目前，此服务仅适用于已载入AdobeIdentity Management System的Marketo Engage客户。
 
 <table> 
   <tr> 
@@ -46,7 +48,7 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
+   <td>已发货</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
   </tr>
   </tbody>
@@ -56,7 +58,7 @@ ht-degree: 2%
 
 </br>
 
-* **更新了下一代体验中的屏幕**:我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供了可通过切换开关访问的更新设计和可用性增强功能：
+* **更新了下一代体验中的屏幕**：我们将在下一代体验中提供更多、刷新的屏幕，这些屏幕提供更新的设计和可用性增强功能，可通过切换开关访问：
 
    * 登陆页面模板详细信息
    * 电子邮件模板列表
@@ -67,13 +69,13 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
+   <td>已发货</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切换开关</a></td>
   </tr>
   </tbody>
 </table>
 
-* **增强了“电子邮件模板详细信息”中的“使用者”选项卡**:在新体验中，您将看到与使用电子邮件模板的资产相关的其他信息，包括资产状态、上次修改时间和上次修改时间。 您还可以搜索、排序和过滤资产使用的列表。
+* **电子邮件模板详细信息中的“增强的使用者”选项卡**：在新Experience中，您将看到与使用电子邮件模板的资产相关的其他信息，包括资产状态、上次修改时间和上次修改者。 您还可以搜索、排序和筛选资源使用的列表。
 
 <table> 
   <tr> 
@@ -81,13 +83,13 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   </tbody>
 </table>
 
-* **报表资产过滤器模型**:报表配置模型的新设计，在配置菜单中显示新的资产树，并为创建和修改日期设置筛选器。
+* **报表资源筛选模式**：新的报表配置模式设计，在配置菜单中显示了新的资源树，并筛选了创建和修改日期。
 
 <table> 
   <tr> 
@@ -95,7 +97,7 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   </tbody>
@@ -105,7 +107,7 @@ ht-degree: 2%
 
 </br>
 
-* **批量潜在客户导入：销售人员关联**:与潜在客户REST API对等，以便能够在批量潜在客户导入过程中将潜在客户与销售人员关联，从而降低复杂性和所需API调用数。
+* **批量销售线索导入：销售人员关联**：与Lead REST API实现对等性，以便在批量商机导入过程中将商机与销售人员关联，从而减少所需的API调用的复杂性和次数。
 
 <table> 
   <tr> 
@@ -113,8 +115,8 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">批量导入潜在客户</a></td>
+   <td>已发货</td>
+   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">批量商机导入</a></td>
   </tr>
   </tbody>
 </table>
@@ -123,9 +125,9 @@ ht-degree: 2%
 
 </br>
 
-![（星号）](assets/yellow-star.png)
+![(star)](assets/yellow-star.png)
 
-* **Sales Insight与动态聊天的集成**:分析功能板现在包括智能网格中的动态聊天活动，以及每周摘要和详细信息卡片。
+* **Sales Insight与Dynamic Chat集成**：分析功能板现在包括智能网格中的Dynamic Chat活动，以及每周摘要和详细信息卡。
 
 <table> 
   <tr> 
@@ -133,17 +135,17 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">动态聊天集成</a></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat集成</a></td>
   </tr>
   </tbody>
 </table>
 
-## 灵活发布功能
+## Agile版本功能
 
-以下功能遵循Agile格式，并在标准发行日期之前或之后的不同日期发布。 请查看下面每个功能的状态。
+以下功能遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请检查每个功能下方的状态。
 
-* **为动态聊天自动排列对话框流**:通过按“自动排列”按钮，将画布上的所有内容整理为简洁且易于阅读的格式，从而改善您拥挤的对话框画布。
+* **自动排列用于Dynamic Chat的对话框流**：通过按按钮通过“自动排列”，将画布上的所有内容整理为干净且易于阅读的格式，从而改进拥挤的对话框画布。
 
 <table> 
   <tr> 
@@ -151,13 +153,13 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
+   <td>已发货</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">流设计器图标</a></td>
   </tr>
   </tbody>
 </table>
 
-* **用于动态聊天的会议链接**:在发送给访客的每个日历邀请中自动包含Google和Outlook的“团队”或“会面”链接的选项。
+* **Dynamic Chat的会议链接**：用于在发送给访客的每个日历邀请中自动包含Google和Outlook的“团队”或“会议”链接的选项。
 
 <table> 
   <tr> 
@@ -165,13 +167,13 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">日历</a></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">日程表</a></td>
   </tr>
   </tbody>
 </table>
 
-* **支持动态聊天的其他数据类型**:三种新的Marketo Engage类型（布尔、整数、浮点）允许您在动态聊天中利用更多现有的数据字段，进行诸如基于分数进行定位或询问访客是/否问题之类的操作。
+* **支持Dynamic Chat的其他数据类型**：三种新数据类型（布尔值、整数、浮点数）允许您利用Dynamic Chat中更多的现有Marketo Engage字段来解答诸如根据得分定位或询问访客是/否问题。
 
 <table> 
   <tr> 
@@ -179,7 +181,7 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发运</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   </tbody>
@@ -187,6 +189,6 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* **Forms 1.0**:Forms 1.0的弃用将在10月版中完成。 Forms 1.0资产将无法再向Marketo Engage提交数据，如果尝试，则将返回错误。
+* **Forms 1.0**：Forms 1.0的弃用操作将在10月版本中完成。 Forms 1.0资源将不再能够向Marketo Engage提交数据，如果尝试，则将返回错误。
 
-* **无脚本Forms**:在浏览器中禁用Javascript后，Forms将无法再正常运行。 表单提交将要求启用Javascript。
+* **无脚本Forms**：在浏览器中禁用Javascript后，Forms将无法再正常运行。 提交表单需要启用Javascript。

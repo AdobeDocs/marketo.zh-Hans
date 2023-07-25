@@ -3,7 +3,8 @@ unique-page-id: 12979010
 description: 性能分析趋势概述 — Marketo文档 — 产品文档
 title: 性能分析趋势概述
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 性能分析趋势概述 {#performance-insights-trend-overview}
 
-趋势显示一段时间内的渠道性能。
+趋势显示一段时间内渠道的性能。
 
 单击 **趋势** 选项卡访问此视图。
 
@@ -22,11 +23,11 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-选择要按以下方式查看性能的量度。 在本例中，我们将查看通过 [首次接触](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+选择要作为性能查看依据的指标。 在此示例中，我们将查看通过以下方式赢得的机会 [首次接触](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
-量度通过以下两个图表显示：甜甜圈和线。
+量度通过两个图表呈现：圆环图和折线图。
 
 ![](assets/4-1.png)
 
@@ -34,22 +35,22 @@ ht-degree: 0%
 
 ![](assets/5-2.png)
 
-折线图可显示您选择的量度在过去12个月内的渠道性能趋势。
+折线图显示过去12个月内所选量度的渠道性能趋势。
 
 ![](assets/6-1.png)
 
-选择一个或多个渠道，折线图会显示渠道趋势。 再次单击渠道以取消选择。
+选择一个或多个渠道，线形图显示渠道趋势。 再次单击渠道可取消选择。
 
 ![](assets/7.png)
 
-下面的数据网格的功能与电子表格类似，可显示您选择的量度过去12个月的所有可用趋势数据。
+下方的数据网格的功能类似于电子表格，显示过去12个月所选指标的所有可用趋势数据。
 
 ![](assets/8.png)
 
-扩展渠道以查看其前十个项目，其余项目合并在一起。
+展开一个渠道可查看其排名前十的节目，其余的节目则合并在一起。
 
 ![](assets/9-1.png)
 
 >[!NOTE]
 >
->单击渠道激活/停用图表中该渠道旁边的复选框。
+>单击圆环图中的渠道旁边的复选框可激活/停用渠道。

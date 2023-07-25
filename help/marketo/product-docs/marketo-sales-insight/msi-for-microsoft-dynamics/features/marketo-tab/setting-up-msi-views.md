@@ -2,7 +2,8 @@
 description: 设置MSI视图 — Marketo文档 — 产品文档
 title: 设置MSI视图
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -11,46 +12,46 @@ ht-degree: 0%
 
 # 设置MSI视图 {#setting-up-msi-views}
 
-在Dynamics中安装Sales Insight插件会自动在站点地图上添加“最佳选择”和相关功能板。 如果由于某些原因未添加功能板，请参阅下面的手动添加功能板的方法。
+在Dynamics中安装Sales Insight插件会自动在站点地图上添加最佳匹配和相关功能板。 如果由于某种原因未添加仪表板，请参阅以下说明如何手动添加仪表板。
 
-1. 在Dynamics中，单击齿轮图标，然后选择 **高级设置** 从下拉菜单中。
+1. 在Dynamics中，单击齿轮图标并选择 **高级设置** 从下拉菜单中。
 
-1. 在屏幕左上角，单击 **设置**. 在“自定义”下选择 **自定义**.
+1. 在屏幕左上角，单击 **设置**. 在Customization下，选择 **自定义**.
 
 1. 单击 **自定义系统**.
 
 1. 在左侧的树中，单击 **客户端扩展** 并双击 **网站地图**.
 
-1. 单击向右箭头以转到下一页。 在“销售”下，您应会看到Marketo。 如果没有，请确保正确导入了包。
+1. 单击向右箭头转到下一页。 在Sales下方，您应该会看到Marketo。 如果不能，请确保正确导入了包。
 
    >[!NOTE]
    >
-   >在Marketo下，您应该：最佳选择、我的电子邮件、Web活动和匿名Web活动。 如果这些功能板中缺少任何功能板，请单击“销售”上方的“+”号，并将其添加为子区域。
+   >在Marketo下，您应该拥有：最佳匹配、我的电子邮件、Web活动和匿名Web活动。 如果缺少这些功能板中的任何一个，请单击Sales上方的+符号，并将它们添加为子区域。
 
-1. 单击功能板以将其选中。 在右侧的列中，为每个列输入相应的信息。 您可以忽略未列出的任何类别。
+1. 单击功能板以将其选中。 在右侧的列中，为每个字段输入以下相应信息。 您可以忽略任何未列出的类别。
 
-   **最佳下注**</br>
-URL:MainviewBestbets.html</br>
+   **最佳匹配**</br>
+URL： MainviewBestbets.html</br>
 图标：/WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
-ID:marketo_bestbets</br>
-标题：最佳下注
+ID： marketo_bestbets</br>
+标题：最佳匹配
 
    **我的电子邮件**</br>
-URL:mkt_/MainViewMyEmail.html</br>
+URL： mkt_/MainViewMyEmail.html</br>
 图标：/WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
-ID:marketo_myemail</br>
+ID： marketo_myemail</br>
 标题：我的电子邮件
 
    **Web活动**</br>
-URL:mkt_/MainViewWebActivity.html</br>
+URL： mkt_/MainViewWebActivity.html</br>
 图标：/WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
-ID:marketo_webactivity</br>
-标题：Web活动
+ID： marketo_webactivity</br>
+标题： Web活动
 
    **匿名Web活动**</br>
-URL:mkt_/MainViewWebActivity.html</br>
+URL： mkt_/MainViewWebActivity.html</br>
 图标：/WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
-ID:marketo_anonymous_webactivity</br>
+ID： marketo_anonymous_webactivity</br>
 标题：匿名Web活动
 
 1. 单击 **保存** 完成时。

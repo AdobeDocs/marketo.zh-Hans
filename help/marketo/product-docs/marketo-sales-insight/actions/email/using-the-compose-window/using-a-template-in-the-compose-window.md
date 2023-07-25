@@ -2,7 +2,8 @@
 description: 在撰写窗口中使用模板 — Marketo文档 — 产品文档
 title: 在撰写窗口中使用模板
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
