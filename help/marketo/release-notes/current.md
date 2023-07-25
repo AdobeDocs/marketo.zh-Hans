@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 </br>
 
-* **参与画布**：参与画布是一种可视化工具，允许您构建和组织可重复使用的营销活动。 它完全向后兼容，因此通过单击按钮，即可在此新结构中查看所有现有营销策划。 画布可以下载和共享。
+* **参与图**：参与度图是一种可视化工具，可用于构建和组织可重复使用的营销活动。 它完全向后兼容，因此通过单击按钮，即可在此新结构中查看所有现有营销策划。 画布可以下载和共享。
 
 <table> 
   <tr> 
@@ -38,6 +38,20 @@ ht-degree: 2%
   </tbody>
 </table>
 
+* **通知 — Web服务错误**：Web服务错误通知现在包括订阅名称，这使得管理多个Marketo Engage实例的人员更容易操作。 我们还在表中添加了一个“用户”列，其中包含错误代码和计数，以便您轻松识别在调用Marketo REST API时哪个API用户负责生成特定错误。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td>已发货</td>
+   <td>不适用</td>
+  </tr>
+  </tbody>
+</table>
+
 ## Agile版本功能
 
 以下功能遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请检查每个功能下方的状态。
@@ -46,7 +60,7 @@ ht-degree: 2%
 
 </br>
 
-* **Dynamic Chat的聊天源**：“聊天”现在作为新人员记录和活动的源提供。 此源可用于帮助用户筛选智能列表/营销活动中的活动。 还可以阻止源更新字段。
+* **Dynamic Chat聊天源**：“聊天”现在作为新人员记录和活动的源提供。 此源可用于帮助用户筛选智能列表/营销活动中的活动。 还可以阻止源更新字段。
 
 <table> 
   <tr> 

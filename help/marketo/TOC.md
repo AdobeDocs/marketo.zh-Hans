@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 0%
@@ -485,10 +485,10 @@ ht-degree: 0%
          + [了解文件夹](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [了解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [通知类型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + 参与画布 {#engagement-canvas}
-         + [参与画布概述](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
-         + [“参与画布”选项卡](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
-         + [“设置”选项卡](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
+      + 参与图 {#engagement-map}
+         + [参与度图概述](product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md)
+         + [“参与图”选项卡](product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md)
+         + [“设置”选项卡](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
       + 预测受众 {#predictive-audiences}
          + [Predictive Audiences入门](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [模型和见解](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -1594,7 +1594,7 @@ ht-degree: 0%
          + [为短信添加流程步骤](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [短信消息仪表板](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [在智能列表触发器和过滤器中使用Vibes SMS消息](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
-   + Personalization {#personalization}
+   + 个性化 {#personalization}
       + 分段和代码片段 {#segmentation-and-snippets}
          + 分段 {#segmentation}
             + [批准分段](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
