@@ -1,5 +1,5 @@
 ---
-description: 促销活动设置 — Marketo文档 — 产品文档
+description: Sales Campaign设置 — Marketo文档 — 产品文档
 title: Sales Campaign设置
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # Sales Campaign设置 {#sales-campaign-settings}
 
-通过Sales Campaign设置部分，您可以配置特定的促销活动，使其最适合于您团队针对该促销活动使用案例的情况。
+Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适合于您团队的该Sales Campaign用例。
 
 ## 跳过周末 {#skip-weekends}
 
-启用跳过周末，以便将周末日（星期六或星期日）落下的任何步骤移至星期一。
+启用跳过周末，以便将周末日（星期六或星期日）发生的任何步骤移至星期一。
 
 >[!NOTE]
 >
->启用“跳过周末”后，将根据5天的一周安排电子邮件。 这意味着，在计划步骤时，周末将忽略为天。
+>启用“跳过周末”后，将按5天一周安排电子邮件。 这意味着，在计划步骤时，周末将忽略为天。
 
 1. 单击 **营销活动**.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 退回时删除 {#remove-on-bounce}
 
-如果您使用的是电子邮件连接，我们将会根据发送到用户收件箱的退回消息来检测退回情况。 此外，我们可以在检测到退回时从销售促销活动中删除人员。
+如果您使用的是电子邮件连接，我们将根据发送到用户收件箱的退回消息检测退回。 此外，我们可以在检测到退回时从销售活动中删除人员。
 
 1. 单击 **营销活动**.
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## 如果回复 {#if-a-reply-occurs}
 
-如果您为Gmail或Exchange启用了回复跟踪，则当有收件人回复您的电子邮件时，我们可以自动结束您的Sales Campaign。
+如果您为Gmail或Exchange启用了回复跟踪，那么在收件人回复您的电子邮件时，我们可以自动结束您的促销活动。
 
 1. 单击 **营销活动**.
 

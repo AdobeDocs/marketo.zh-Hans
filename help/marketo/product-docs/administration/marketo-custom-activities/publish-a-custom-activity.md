@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 发布自定义活动 {#publish-a-custom-activity}
 
-您的自定义活动完全符合您的需要。 现在，是时候发布它了！
+您的自定义活动完全符合您的需要。 现在，该发布它了！
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/publish-a-custom-activity-3.png)
 
-1. 单击 **[!UICONTROL 自定义活动操作]** 下拉菜单并选择 **[!UICONTROL 发布活动]**.
+1. 单击 **[!UICONTROL 自定义活动操作]** 下拉并选择 **[!UICONTROL 发布活动]**.
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   您将看到自定义活动的 [!UICONTROL state] 从 [!UICONTROL 草稿]...
+   您将会看到自定义活动的 [!UICONTROL state] 从 [!UICONTROL 草稿]...
 
    ![](assets/publish-a-custom-activity-5.png)
 

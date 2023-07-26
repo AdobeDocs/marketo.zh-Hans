@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7516607
-description: 要审阅的事项 — 核心技能 — Marketo文档 — 产品文档
-title: 回顾事项 — 核心技能
+description: 要查看的内容 — 核心技能 — Marketo文档 — 产品文档
+title: 要审阅的事项 — 核心技能
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 回顾内容：核心技能 {#things-to-review-core-skills}
 
-需要填补营销自动化专业知识中的空白吗？ 如果您没有足够的时间来复习核心技能，我们建议您执行以下操作：
+需要填补营销自动化专业知识中的一些空白吗？ 如果您没有足够的时间来复习核心技能，我们建议您执行以下操作：
 
 ![创建电子邮件程序](assets/office-28.png) [**创建电子邮件程序**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
 

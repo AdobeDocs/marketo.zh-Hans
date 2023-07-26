@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 更改您的Marketo密码 {#change-your-marketo-password}
 
-通过以下简单步骤更改您的Marketo密码。
+可通过这些简单的步骤更改您的Marketo密码。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >进行更新时请注意密码要求。
+   >进行更新时，请注意密码要求。

@@ -1,27 +1,27 @@
 ---
 unique-page-id: 3571813
 description: 第1步（共3步） — 在Dynamics中安装Marketo解决方案（2013年内部部署） — Marketo文档 — 产品文档
-title: 第1步（共3步） — 在Dynamics中安装Marketo解决方案（2013内部部署）
+title: 第1步（共3步） — 在Dynamics中安装Marketo解决方案（2013年内部部署）
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
-# 步骤1/3：在Dynamics中安装Marketo解决方案（2013内部部署） {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# 第1步（共3步）：在Dynamics中安装Marketo解决方案（2013年内部部署） {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
 在同步Microsoft Dynamics内部部署和Marketo之前，您需要先在Dynamics中安装Marketo解决方案。
 
 >[!NOTE]
 >
->将Marketo同步到CRM后，如果不替换实例，则无法执行新的同步。
+>将Marketo同步到CRM后，如果不替换该实例，则无法执行新的同步。
 
 >[!PREREQUISITES]
 >
->您必须拥有 [面向互联网的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)替换为 [Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 已配置2.0、2.1或3.0 (ADFS)。 注意：单击该链接时，会自动下载IFD文档。
+>您必须拥有 [面向互联网的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)与 [Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 已配置2.0、2.1或3.0 (ADFS)。 注意：单击该链接时，会自动下载IFD文档。
 >
 >[下载Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 开始之前。
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能会看到一条消息，显示“Marketo潜在客户管理已完成，但有警告”。 这完全符合预期。
+   >您可能会看到一条消息，显示“Marketo潜在客户管理已完成，但有警告”。 这是完全符合预期的。
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
@@ -87,11 +87,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
-不是很糟糕吧？ 来吧，我会一直陪你走过余下的。
+不是很糟糕吧？ 来吧，我会一直陪你过完剩余的。
 
 >[!CAUTION]
 >
->禁用任何Marketo SDK消息传递进程都将导致安装中断！
+>禁用任何Marketo SDK消息传递过程都将导致安装中断！
 
 >[!MORELIKETHIS]
 >

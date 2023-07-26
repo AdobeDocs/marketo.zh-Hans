@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [创建自由格式登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [创建自由表单登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [将新表单添加到自由表单登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 ## 添加分段 {#add-segmentation}
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
-1. 输入分段名称，然后单击 **保存**.
+1. 输入分段名称并单击 **保存**.
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
 ## 使元素成为动态元素 {#make-element-dynamic}
 
-1. 将动态内容元素从下拖放 **静态** 到 **动态**.
+1. 将动态内容元素从拖放到 **静态** 到 **动态**.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. 您还可以创建元素 **静态** 或 **动态** 从元素 **设置**.
+1. 您还可以生成元素 **静态** 或 **动态** 从元素 **设置**.
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## 应用动态内容 {#apply-dynamic-content}
 
-1. 在区段下选择一个元素，单击设置图标，然后单击 **编辑**. 对每个区段重复此操作。
+1. 选择区段下的元素，单击设置图标，然后单击 **编辑**. 对每个区段重复执行上述步骤。
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->在修改各种区段的内容之前，请先创建默认登陆页面。
+>在修改各种区段的内容之前，请创建默认登陆页面。
 
 看！ 您现在可以发送目标内容。
 

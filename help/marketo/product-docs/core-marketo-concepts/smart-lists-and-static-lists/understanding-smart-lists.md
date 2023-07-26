@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # 了解智能列表 {#understanding-smart-lists}
 
-利用智能列表，可使用简单筛选器查找特定的人员组。 它们在Marketo中广泛使用，例如在智能营销活动、项目、报告、分段、业务模型、参与项目、动态内容等中使用。 根据您的需求，可以在Marketo中的两个位置创建智能列表：
+智能列表允许您使用简单过滤器查找特定人员组。 它们在Marketo中广泛使用，例如在智能营销活动、项目、报表、分段、业务模型、参与项目、动态内容等中。 根据您的需求，可以在Marketo中的两个位置创建智能列表：
 
 1. 在 **数据库**，可供共享/全局使用（例如，“所有已取消订阅的人员”）。
-1. In **程序** ，代表他们找到与该特定计划相关的一组人员（例如，“参加贸易展”）。
+1. 在 **程序** 作为本地资产，负责查找与该特定计划相关的一组人员（例如“参加贸易展”）。
 
 创建智能列表的主要步骤包括：
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## “人员”选项卡 {#people-tab}
 
-您可以在此处查看结果，即符合您筛选条件的所有人员 [已添加和定义](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) 在“智能列表”选项卡下。
+您可以在此处查看结果；例如，所有符合您筛选条件的人员 [已添加和定义](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) 在“智能列表”选项卡下。
 
 ![](assets/smartlist-people.png)
 

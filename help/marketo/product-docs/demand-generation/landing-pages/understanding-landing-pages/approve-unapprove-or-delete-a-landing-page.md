@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >批准后，您的登陆页面图标上将显示一个绿色复选标记。
+   >获得批准后，您的登陆页面图标上将出现绿色复选标记。
 
 ## 取消批准登陆页面 {#unapprove-a-landing-page}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您未批准的登陆页面将不再发布在Web上，并且不会生成任何其他活动。 访问未批准登陆页面及其Facebook选项卡的访客将看到 [回退页](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>您的未批准登陆页面将不再发布在Web上，并且不会生成其他活动。 访问未批准登陆页面及其Facebook选项卡的访客将看到 [回退页](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## 删除登陆页面 {#delete-a-landing-page}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您无法删除已批准的登陆页面。 先取消批准。
+   >您无法删除批准的登陆页面。 先取消批准。
 
 1. 您还可以右键单击登陆页面，然后单击 **删除**.
 
@@ -63,9 +63,9 @@ ht-degree: 0%
 
 ## 删除多个登陆页面 {#delete-multiple-landing-pages}
 
-想要一次删除多个登陆页面？ 下面是具体操作方法。
+想要一次删除多个登陆页面？ 具体方法如下。
 
-1. 在Design Studio中单击 **登陆页面**.
+1. 在“设计工作室”中，单击 **登陆页面**.
 
    ![](assets/one.png)
 
@@ -75,9 +75,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您还可以使用ctrl +单击来删除多个非顺序的登陆页面。
+   >您也可以使用ctrl +单击来删除多个非顺序的登陆页面。
 
-1. 单击 **登陆页面操作** 下拉菜单并选择 **删除**.
+1. 单击 **登陆页面操作** 下拉并选择 **删除**.
 
    ![](assets/three.png)
 

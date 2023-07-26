@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # 调用未登录到Salesforce {#calls-arent-logging-to-salesforce}
 
-如果您希望将来自Sales Phone的呼叫自动记录到Salesforce，请确保满足以下条件。
+如果您希望将来自Sales Phone的呼叫自动记录到Salesforce，请确保已实施以下操作。
 
 您需要将Sales Connect帐户连接到 [Salesforce帐户](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) 通过API连接。
 
-如果您从 [Web应用程序](https://toutapp.com/login)，您需要将一个Salesforce ID保存到该联系人。 [单击此处](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) 了解如何确保所有Sales Connect联系人都有一个与其关联的Salesforce ID。
+如果您从 [Web应用程序](https://toutapp.com/login)，则需要将Salesforce ID保存到该联系人。 [单击此处](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) 了解如何确保所有Sales Connect联系人都有一个与之关联的Salesforce ID。
 
 >[!NOTE]
 >
->确保任务类型选择列表中有“调用”，以便在Salesforce中准确轻松地报告。
+>确保您的任务类型选择列表中有“呼叫”，以便在Salesforce中准确而轻松地报告。
 
 完成该操作后，您将在Salesforce的Activity History部分看到一个已创建的任务。

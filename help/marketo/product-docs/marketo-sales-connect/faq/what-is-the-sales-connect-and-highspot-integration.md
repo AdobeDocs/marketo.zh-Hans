@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 什么是Sales Connect和Highspot集成？ {#what-is-the-sales-connect-and-highspot-integration}
 
-Sales Connect支持与集成 [Highspot](https://www.highspot.com/)，内容管理系统。 同时也是Highspot客户的Sales Connect客户可以从Web应用程序内访问其Highspot内容。
+Sales Connect支持与集成 [高光](https://www.highspot.com/)，内容管理系统。 同时身为Highspot客户的Sales Connect客户可以从Web应用程序中访问其Highspot内容。
 
 ## 要求 {#requirements}
 
@@ -23,7 +23,7 @@ Sales Connect支持与集成 [Highspot](https://www.highspot.com/)，内容管�
 
 除了在浏览器中使用Sales Connect之外，Highspot集成还可以在我们的Outlook .Net电子邮件客户端中使用。 要求如下：
 
-* **Outlook .Net和Exchange** - Sales Connect支持的Outlook .Net、Exchange Online、Exchange 2016版本
+* **Outlook .Net和Exchange** - Sales Connect支持的Outlook .Net 、 Exchange Online 、 Exchange 2016版本
 
 >[!NOTE]
 >
@@ -35,11 +35,11 @@ Sales Connect支持与集成 [Highspot](https://www.highspot.com/)，内容管�
 
 ## 如何使用集成 {#how-to-use-the-integration}
 
-启用后，下面介绍了如何在Sales Connect中访问您的Highspot内容。
+启用后，下面是如何在Sales Connect中访问Highspot内容的。
 
 1. 在Sales Connect或Outlook中撰写电子邮件时，选择 **添加内容**.
 
-1. 选择 **Highspot**.
+1. 选择 **高光**.
 
 1. 输入您的Highspot帐户电子邮件，然后单击 **继续**.
 

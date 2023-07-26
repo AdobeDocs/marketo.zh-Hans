@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7514985
 description: 在项目计划视图中重新计划批量智能营销活动 — Marketo文档 — 产品文档
-title: 在项目计划视图中重新计划批量智能促销活动
+title: 在项目计划视图中重新计划批量智能营销活动
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 在项目计划视图中重新计划批量智能促销活动 {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# 在项目计划视图中重新计划批量智能营销活动 {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
-要重新计划批量智能营销活动运行吗？ 将它们拖放到项目计划视图中的未来。
+要重新计划批量智能营销活动运行吗？ 将它们拖放到项目计划视图中的未来部分。
 
 1. 选择要重新计划的智能营销活动。
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[从“计划”视图中重新计划整个项目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
+>[从计划视图中重新计划整个项目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)

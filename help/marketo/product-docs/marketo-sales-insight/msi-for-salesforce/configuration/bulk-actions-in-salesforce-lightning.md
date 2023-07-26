@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Salesforce Lightning中的批量操作 {#bulk-actions-in-salesforce-lightning}
 
-以下说明如何在Salesforce Lightning中设置批量操作。
+以下是如何在Salesforce Lightning中设置批量操作。
 
 1. 在Salesforce中，单击“设置”图标并选择 **设置**.
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. 单击 **搜索Salesforce Classic布局**.
+1. 单击 **搜索Salesforce Classic的布局**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
-   查找“列表视图”布局。 单击右侧的下拉菜单并选择 **编辑**.
+   查找列表视图布局。 单击右侧的下拉菜单并选择 **编辑**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
@@ -43,8 +43,8 @@ ht-degree: 0%
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 
-   您现在可以在“潜在客户列表”视图中查看批量操作按钮。
+   您现在可以在“潜在客户列表”视图中看到批量操作按钮。
 
    >[!NOTE]
    >
-   >重复相同步骤以在“联系人”列表视图中添加批量操作。
+   >重复相同步骤以在联系人列表视图中添加批量操作。

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建自定义目标 {#create-a-custom-goal}
 
-目标是指跟踪进度和激励团队的方法。 创建后，必须手动更新它们。
+目标是跟踪进度和激励团队的方法。 创建后，必须手动更新它们。
 
 与演示文稿一样，目标为 [工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. 单击 **[!UICONTROL Presentations]** 右下角。
+1. 单击 **[!UICONTROL Presentations]** 在右下角。
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
-1. 拖放 **[!UICONTROL 自定义目标]** 进画布里。
+1. 拖放 **[!UICONTROL 自定义目标]** 在画布上。
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-如果您不再需要使用某个字段，则可能需要删除以前创建的字段。 很遗憾，您无法删除Marketo中的字段，但您可以 _可以_ 在用户界面中隐藏它们。
+如果您不再需要使用某个字段，则可能需要删除以前创建的该字段。 很遗憾，您无法删除Marketo中的字段，但可以 _可以_ 在用户界面中隐藏它们。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. 单击 **[!UICONTROL 字段操作]** 下拉菜单并选择 **[!UICONTROL 隐藏字段]**.
+1. 单击 **[!UICONTROL 字段操作]** 下拉并选择 **[!UICONTROL 隐藏字段]**.
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 

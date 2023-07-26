@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504058
-description: 克隆演示 — Marketo文档 — 产品文档
+description: 克隆演示文稿 — Marketo文档 — 产品文档
 title: 克隆演示
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 feature: Marketing Calendar
@@ -27,4 +27,4 @@ ht-degree: 0%
 
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 
-   太棒了！ 您的演示文稿的精确副本现已存在。
+   太棒了！ 演示文稿的精确副本现已存在。

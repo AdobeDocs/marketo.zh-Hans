@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504922
-description: Revenue Explorer报表类型 — Marketo文档 — 产品文档
+description: 收入资源管理器报表类型 — Marketo文档 — 产品文档
 title: 收入资源管理器报表类型
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
@@ -29,7 +29,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>商机分析</td> 
-   <td>潜在客户及与潜在客户相关的公司指标和属性</td> 
+   <td>商机和公司与商机相关的量度和属性</td> 
   </tr> 
   <tr> 
    <td>模型性能分析（公司）</td> 
@@ -37,7 +37,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>模型性能分析（潜在客户）</td> 
-   <td>按潜在客户列出的与您的收入周期模型相关的量度和属性</td> 
+   <td>与按潜在客户划分的收入周期模型相关的量度和属性</td> 
   </tr> 
   <tr> 
    <td>机会分析</td> 
@@ -45,7 +45,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>项目成本分析</td> 
-   <td>关于具有至少一个成本期间的项目的量度和属性</td> 
+   <td>与具有至少一个成本期间的项目有关的量度和属性</td> 
   </tr> 
   <tr> 
    <td>计划会员资格分析</td> 
@@ -57,7 +57,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>项目收入阶段分析</td> 
-   <td>基于您的收入周期模型的量度和属性</td> 
+   <td>基于收入周期模型的量度和属性</td> 
   </tr> 
  </tbody> 
 </table>

@@ -12,23 +12,23 @@ ht-degree: 0%
 
 # 事件签入概述 {#event-check-in-overview}
 
-适用于iPad或Android平板电脑的Marketo Events应用程序可让您轻松地在人员到达您的活动时立即将其签入。
+借助适用于iPad或Android平板电脑的Marketo Events应用程序，您可以轻松地在人员到达您的活动时立即为他们办理签入手续。
 
-本文概述了完整过程。 标题链接到单独的文章，并且某些Marketo活动是此大纲中的链接。
+本文概述了完整的过程。 标题链接到单独的文章，并且某些Marketo活动是此大纲中的链接。
 
-有些活动发生在活动之前，例如创建新角色和邀请与会者。 在活动期间会发生一些情况，例如登记与会者。 事件后，您会与Marketo同步数据，并更新人员的状态。
+有些活动在活动之前发生，例如创建新角色和邀请与会者。 在活动期间会发生一些情况，例如登记与会者。 事件后，您会与Marketo同步数据，并更新人员的状态。
 
-祝活动愉快！
+祝您活动愉快！
 
-## 为活动做准备
+## 准备您的活动
 
 在事件之前：
 
-* [创建新的Marketo角色](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 事件的iPad或Android用户
+* [创建新的Marketo角色](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 对于iPad或Android用户，适用于该事件
 * [邀请新Tablet用户参加活动](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 并为他们分配新角色
 * [创建新的Marketo活动项目](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 * 指定事件日期
-* 将人员添加到您的事件
+* 将人员添加到您的活动
 
 ## 设置iPad或Android平板电脑
 

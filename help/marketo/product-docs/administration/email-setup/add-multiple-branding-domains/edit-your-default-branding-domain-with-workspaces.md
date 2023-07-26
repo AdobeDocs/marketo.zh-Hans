@@ -21,13 +21,13 @@ ht-degree: 0%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. 在“品牌化域”表格中，选择当前的通用域，然后单击“编辑”以将其更改为贵公司的品牌化域。
+1. 在“品牌化域”表格中，选择当前的通用域，然后单击“编辑”将其更改为贵公司的品牌化域。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 添加]** 在编辑通用域后才能正常工作。 **[!UICONTROL 删除]** 在添加第二个域后才能正常工作。
+   >**[!UICONTROL 添加]** 在编辑通用域后才能正常工作。 **[!UICONTROL 删除]** 在添加第二个域之前无法正常工作。
    >
    >在首次编辑通用域之前，您无法添加其他域。
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 >
 >添加其他品牌域时，您可以选择将此域设置为一个或多个工作区的主域，所有现有未发送电子邮件均设置为“默认”，所有新创建的电子邮件均默认为主域。 您可以逐封电子邮件覆盖此项。
 
-现在，您可以 [添加其他品牌推广域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) 您需要工作区。
+现在，您可以 [添加其他品牌化域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) 您需要工作区。

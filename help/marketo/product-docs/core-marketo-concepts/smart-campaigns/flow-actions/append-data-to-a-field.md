@@ -6,14 +6,14 @@ exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # 将数据附加到字段 {#append-data-to-a-field}
 
-有一个将数据附加到字段的简单方法。 下面是具体操作方法。
+将数据附加到字段有一种简单的方法。 具体方法如下。
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a5-3a5.png)
 
-1. 查找并选择要将数据附加到的相同字段的令牌。
+1. 查找并选择要将数据追加到的相同字段的令牌。
 
    ![](assets/image2014-9-22-16-3a5-3a9.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-就是这样！ 您可以获得创意并在其中添加多个令牌。
+就是这样！ 您可以进行创作并在其中添加多个令牌。

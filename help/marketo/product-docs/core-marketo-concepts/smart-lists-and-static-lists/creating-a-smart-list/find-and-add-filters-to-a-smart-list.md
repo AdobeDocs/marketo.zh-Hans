@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 查找筛选器并将其添加到智能列表 {#find-and-add-filters-to-a-smart-list}
 
-一旦您 [已创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，您需要添加和 [定义](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md) 过滤器。 以下是如何查找和添加过滤器。
+一旦 [已创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，您需要添加和 [定义](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md) 过滤器。 以下是如何查找和添加过滤器。
 
-在此示例中，让我们查找得分超过50分的加利福尼亚州的所有人。
+在本例中，我们来查找加利福尼亚州得分超过50的所有人。
 
 >[!TIP]
 >

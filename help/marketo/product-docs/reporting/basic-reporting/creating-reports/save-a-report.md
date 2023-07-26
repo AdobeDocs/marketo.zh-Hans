@@ -6,14 +6,14 @@ exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
 # 保存报告 {#save-a-report}
 
-有时，您可能需要保存默认报表才能稍后再次查看。 您可以采用以下方法做到这一点：
+有时，您可能需要保存默认报表才能稍后再次查看。 以下是具体操作方法：
 
 1. 转到 **分析** 区域。
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->了解如何 [将报告克隆到组报告](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>了解如何 [将报表克隆到组报表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).

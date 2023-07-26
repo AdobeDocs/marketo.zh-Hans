@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359785
 description: 发送反向链接优惠履行电子邮件 — Marketo文档 — 产品文档
-title: 发送反向链接优惠履行电子邮件
+title: 发送推荐优惠履行电子邮件
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 发送反向链接优惠履行电子邮件 {#send-referral-offer-fulfillment-email}
+# 发送推荐优惠履行电子邮件 {#send-referral-offer-fulfillment-email}
 
-使用优惠履行电子邮件以优惠券和折扣代码奖励客户。
+使用优惠履行电子邮件向客户提供优惠券和折扣代码。
 
 >[!PREREQUISITES]
 >
@@ -40,27 +40,27 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >详细了解 [在社交促销活动中使用电子邮件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >了解有关 [在社交促销活动中使用电子邮件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. 单击 **完成投放** 下拉菜单并选择 **目标自动**.
+1. 单击 **履行交付** 下拉并选择 **自动完成目标**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   消息选择于 **履行电子邮件** 将自动发送给达到目标的用户。
+   选定的消息 **履行电子邮件** 将自动发送给符合目标的人员。
 
 ## 手动发送 {#manual-send}
 
-当某人达到目标后，您可以手动向此人发送履行电子邮件。
+当某人达到目标后，您可以手动向他们发送履行电子邮件。
 
 1. 选择反向链接选件，然后单击 **参与者** 选项卡。
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. 单击 **筛选条件** 选项并选择 **目标**.
+1. 单击 **过滤方式** 选项并选择 **目标**.
 
    >[!NOTE]
    >
-   >这将选择满足反向链接优惠目标的人员。
+   >这将选择符合推荐优惠目标的人员。
 
    ![](assets/image2015-4-20-15-3a59-3a11.png)
 
@@ -72,4 +72,4 @@ ht-degree: 0%
 
    ![](assets/2015-04-20-15-54-13.png)
 
-太棒了！ 这些人现在将收到履行电子邮件，并因自己的奖励而受到激动。
+太棒了！ 这些员工现在将收到满足电子邮件，并因奖励而感到兴奋。

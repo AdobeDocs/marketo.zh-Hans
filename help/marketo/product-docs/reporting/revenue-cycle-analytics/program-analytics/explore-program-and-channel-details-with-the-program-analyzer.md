@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360437
-description: 使用计划分析器探索计划和渠道详细信息 — Marketo文档 — 产品文档
-title: 使用计划分析器探索计划和渠道详细信息
+description: 使用项目分析器浏览项目和渠道详细信息 — Marketo文档 — 产品文档
+title: 使用计划分析器浏览计划和渠道详细信息
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 使用计划分析器探索计划和渠道详细信息 {#explore-program-channel-details-with-the-program-analyzer}
+# 使用计划分析器浏览计划和渠道详细信息 {#explore-program-channel-details-with-the-program-analyzer}
 
-您可以在项目分析器中查看详细的项目和渠道统计信息。 您也可以在Revenue Cycle Explorer中打开它们。
+您可以在项目分析器中查看详细的项目和渠道统计信息。 您还可以在Revenue Cycle Explorer中打开它们。
 
 >[!PREREQUISITES]
 >
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >单击单个渠道会将您的视图切换为“按项目群”，仅筛选到该渠道。 要返回到所有渠道，请选择 **视图** > **按渠道**.
+   >单击单个渠道可将您的视图切换为“按项目群”，仅对该渠道进行过滤。 要返回到所有渠道，请选择 **视图** > **按渠道**.
 
 1. 要打开Revenue Cycle Explorer以更深入地挖掘统计数据，请在弹出对话框中单击该数字。
 

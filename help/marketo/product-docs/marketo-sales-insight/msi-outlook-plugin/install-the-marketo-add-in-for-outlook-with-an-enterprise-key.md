@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用企业密钥安装适用于Outlook的Marketo加载项 {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-很多时候，销售代表在他们的笔记本电脑上没有管理权限，他们的IT团队负责远程安装所有软件。 可以使用企业密钥（位于“管理员”的“销售分析”部分）以这种方式安装适用于Outlook的Marketo加载项。 如果看不到查看企业键按钮，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support) 以启用它。
+很多时候，销售代表对他们的笔记本电脑没有管理权限，他们的IT团队负责远程安装所有软件。 可通过以下方式使用企业密钥安装适用于Outlook的Marketo加载项，该企业密钥位于“管理员”的“销售分析”部分。 如果未看到“查看企业密钥”按钮，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support) 以启用它。
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   仅此而已！ 接下来，销售代表将通过 [注册过程](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).
+   仅此而已！ 接下来，销售代表将通过 [注册流程](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).

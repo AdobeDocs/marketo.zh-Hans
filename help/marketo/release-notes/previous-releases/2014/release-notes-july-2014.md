@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 发行说明： 2014年7月 {#release-notes-july}
 
-2014年7月版本中包含以下功能。 请检查您的Marketo版本是否提供了相关功能。 请在发布后返回以访问指向详细功能文档的链接。
+2014年7月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 请在发布后返回以获取指向详细功能文档的链接。
 
 ## 营销日历 {#marketing-calendar}
 
-查看您的所有活动、电子邮件和各种程序中的更多内容。 [这个新产品](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 将免费提供给拥有10个或更少Marketo Lead Management或Dialogue用户的客户。
+跨程序查看您的所有活动、电子邮件等。 [此新产品](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 将免费提供给拥有10个或更少Marketo潜在客户管理或Dialogue用户的客户。
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo Lead Management将以新颖、时尚的外观进行更新，并包括更新的导航。
+Marketo销售线索管理将进行更新，采用新外观，既现代又时尚，并包括更新的导航功能。
 
 ## 日期运算符 {#date-operators}
 
@@ -39,15 +39,15 @@ Marketo Lead Management将以新颖、时尚的外观进行更新，并包括更
 
 ## 项目计划视图 {#program-schedule-view}
 
-除了使用营销日历管理您的活动和默认项目群之外，还可以在项目群上查看新的计划视图。
+除了使用营销日历管理您的活动和默认项目外，您还可以在项目上看到新的计划视图。
 
 * 一次性重新计划所有日期
-* 新的暂定日期 — 铅笔放入！
-* 自定义条目类型 — 待办事项、新闻稿、您想要的任何内容
+* 新的暂定日期 — 将其铅笔插入！
+* 自定义条目类型 — ToDo、Press Release、您想要的任何内容
 
 ## ReST API中的列表操作 {#list-operations-in-the-rest-api}
 
-我们添加了以下与ReST中的列表操作相关的调用。 参见 [developers.marketo.com](https://developers.marketo.com/documentation/rest/) 以了解完整文档。
+我们添加了以下与ReST中的列表操作相关的调用。 请参阅 [developers.marketo.com](https://developers.marketo.com/documentation/rest/) 以获取完整文档。
 
 * 按ID获取列表
 * 获取多个列表
@@ -62,15 +62,15 @@ Marketo Lead Management将以新颖、时尚的外观进行更新，并包括更
 
 ## 新的改进Munchkin！ {#new-improved-munchkin}
 
-推出将从7月中旬开始，并持续几个月。
+推出将从7月中旬开始，并在未来几个月持续。
 
 * 删除依赖项jQuery以实现完全兼容和将来兼容
 * 与网站上的其他JavaScript更兼容
-* 在过去的一年里，已在许多网站上进行了全面测试！
+* 过去一年已在许多网站上进行了全面测试！
 
 ## RTP：实时个性化营销活动模板 {#rtp-real-time-personalization-campaign-templates}
 
-“RTP设置营销活动”页面即刻显示 [包括现成的模板](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). 从多种形式中进行选择，包括网络研讨会、案例研究、电子书。
+现在，“RTP设置营销活动”页面 [包括现成的模板](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). 从各种不同的方式中进行选择，包括网络研讨会、案例研究、电子书。
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
@@ -78,10 +78,10 @@ Marketo Lead Management将以新颖、时尚的外观进行更新，并包括更
 
 ## RTP：JavaScript API增强功能 {#rtp-javascript-api-enhancements}
 
-用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，将鼠标悬停在“区段”页面中的区段名称上将显示显示区段代码的工具提示。 查看我们的 [开发人员网站](https://developers.marketo.com/documentation/websites/rtp-js-api/) 获取完整文档。
+用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 查看我们的 [开发人员网站](https://developers.marketo.com/documentation/websites/rtp-js-api/) 获取完整文档。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP：CampaignHTML编辑器中的内容五支持 {#rtp-html-support-in-campaign-content-editor}
+## RTP：Campaign内容编辑器支持HTML5 {#rtp-html-support-in-campaign-content-editor}
 
-现在，“设置营销活动”页面中的内容WYSIWYG编辑器与HTML5完全兼容。 单击编辑器中的“HTML”图标可插入任何HTML5代码。
+现在，“设置营销活动”页面中的HTMLWYSIWYG编辑器具有完全的ContentCampaigns兼容性。 单击编辑器中的“HTML”图标可插入任何HTML5代码。

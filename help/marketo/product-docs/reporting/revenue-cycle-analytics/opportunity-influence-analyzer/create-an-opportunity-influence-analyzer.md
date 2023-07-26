@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360235
 description: 创建机会影响分析器 — Marketo文档 — 产品文档
-title: 创建机会影响分析器
+title: 创建Opportunity影响分析器
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 创建机会影响分析器 {#create-an-opportunity-influence-analyzer}
+# 创建Opportunity影响分析器 {#create-an-opportunity-influence-analyzer}
 
 使用Opportunity Influence Analyzer显示营销对重要交易的贡献。 查看您的项目和活动成功以及机会生活中的有趣时刻。
 
 >[!NOTE]
 >
->要从Opportunity Influence Analyzer中获得好的信息，请确保您的联系人已与CRM中的机会相关联。
+>要通过Opportunity Influence Analyzer获得优秀的英特尔，请确保您的联系人已与CRM中的机会相关联。
 
 1. 单击 **分析**.
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >如果收到在该时间范围内没有活动的警告，只需单击 **关闭**. 我们会在下一步再讨论这个问题。
 
-1. 选择该帐户中的机会。
+1. 选择该帐户中的商机。
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. 选择要分析的机会的时间段并单击 **保存**.
+1. 选择要分析的机会的时间段，然后单击 **保存**.
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
    >
    >在大多数情况下， **所有时间** 是最简单的选择。
 
-1. 你在那儿！ 单击主选项卡，可查看此机会中涉及的有趣时刻和成功案例。
+1. 你在那儿！ 单击主选项卡，以查看此机会中涉及的有趣时刻和成功案例。
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

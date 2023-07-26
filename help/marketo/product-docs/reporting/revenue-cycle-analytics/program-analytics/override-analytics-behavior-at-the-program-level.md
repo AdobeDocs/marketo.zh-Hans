@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360421
-description: 覆盖程序级别的Analytics行为 — Marketo文档 — 产品文档
-title: 覆盖程序级别的Analytics行为
+description: 覆盖项目级别的Analytics行为 — Marketo文档 — 产品文档
+title: 覆盖项目级别的Analytics行为
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# 覆盖程序级别的Analytics行为 {#override-analytics-behavior-at-the-program-level}
+# 覆盖项目级别的Analytics行为 {#override-analytics-behavior-at-the-program-level}
 
-您可以设置 [管理员级别的Analytics行为对渠道](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) 但您也可以在项目级别覆盖它。 方法如下：
+您可以设置 [对渠道的管理员级别的Analytics行为](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) 但您也可以在项目级别覆盖它。 方法如下：
 
 1. 转到 **营销活动** 区域。
 
@@ -50,4 +50,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这些更改将在第二天生效，并且要么使其可用，要么使其从收入资源管理器和分析器中退出。
+>这些更改将在第二天生效，并且或者可供使用，或者从收入资源管理器和分析器中提取。

@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 使用Google Tag Manager实施RTP {#implementing-rtp-using-google-tag-manager}
 
-要实施RTP标记，请按照下面的安装说明操作。
+要实施RTP标记，请按照以下安装说明操作。
 
 1. 登录到您的Google Tag Manager帐户。
 
-1. 添加新标记>标记配置>自定义HTML标记**。**称它为 **RTP**.
+1. 添加新标记>标记配置>自定义HTML标记**。**称呼它 **RTP**.
 
 1. 登录到您的RTP帐户**。**
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
 1. 单击 **保存** 和 [发布新版本](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
-1. 验证它是否出现在所有页面上，包括登陆页面和子域。
+1. 确认它出现在所有页面上，包括登陆页面和子域。
 
-   a.您可以通过右键单击网站页面来执行此操作。 转到 **Inspect元素**，搜索 **RTP** 以查找标记。
+   a.可通过右键单击网站页面来执行此操作。 转到 **Inspect元素**，搜索 **RTP** 以查找标记。

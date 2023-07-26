@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6848782
-description: 将取消订阅消息设为语言的动态消息 — Marketo文档 — 产品文档
-title: 使您的取消订阅消息对语言动态显示
+description: 使您的取消订阅消息成为语言的动态消息 — Marketo文档 — 产品文档
+title: 使您的取消订阅消息对于语言是动态的
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 1%
 
 ---
 
-# 使您的取消订阅消息对语言动态显示 {#make-your-unsubscribe-message-dynamic-for-languages}
+# 使您的取消订阅消息对于语言是动态的 {#make-your-unsubscribe-message-dynamic-for-languages}
 
-默认取消订阅消息和链接为英文。 您可以使用动态内容以不同的语言显示它。
+默认取消订阅消息和链接为英文。 您可以使用动态内容以不同的语言显示内容。
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 1%
 
 ## 准备数据 {#prepare-your-data}
 
-1. [创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 名为“首选语言”。 （如果您希望同步此字段，请在CRM中设置它）。
+1. [创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 命名为“首选语言”。 （如果您希望同步此字段，请在CRM中设置它）。
 
    >[!TIP]
    >
-   >将来，在执行以下操作时使用此字段 [创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) 以捕获语言首选项。
+   >将来，在下列情况下使用此字段： [创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) 以捕获语言首选项。
 
 ## 创建分段 {#create-segmentation}
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. 在 **[!UICONTROL 新]** 下拉列表，单击 **[!UICONTROL 新区段]**.
+1. 在 **[!UICONTROL 新建]** 下拉列表，单击 **[!UICONTROL 新区段]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
@@ -43,9 +43,9 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >默认区段为英语。
+   >默认区段将为英语。
 
-1. 继续添加区段，直到所有语言都得到呈现。 单击&#x200B;**[!UICONTROL 创建]**。
+1. 继续添加区段，直到所有语言均得到表示。 单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. 转到 **[!UICONTROL 智能列表]** 选项卡。 输入 **[!UICONTROL 首选语言]** 放入搜索字段。 将过滤器拖放到画布上。
+1. 转到 **[!UICONTROL 智能列表]** 选项卡。 输入 **[!UICONTROL 首选语言]** 进入搜索字段。 将过滤器拖放到画布上。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -71,7 +71,7 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. 在 **[!UICONTROL 新]** 下拉列表，单击 **[!UICONTROL 新建代码片段]**.
+1. 在 **[!UICONTROL 新建]** 下拉列表，单击 **[!UICONTROL 新建代码片段]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
@@ -79,7 +79,7 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
-1. 键入默认取消订阅消息，突出显示该消息，然后单击超链接图标。
+1. 键入默认取消订阅消息，将其突出显示，然后单击超链接图标。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
@@ -95,7 +95,7 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. 从树中选择一个区段。 单击取消订阅，然后单击链接图标。
+1. 从树中选择一个段。 单击取消订阅，然后单击链接图标。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
@@ -103,7 +103,7 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. 对所有区段重复此操作。 然后，返回 **[!UICONTROL Design Studio]**，单击 **[!UICONTROL 代码片段操作]** 下拉列表，然后单击 **[!UICONTROL 批准]**.
+1. 对所有区段重复执行上述操作。 然后，返回 **[!UICONTROL Design Studio]**，单击 **[!UICONTROL 代码片段操作]** 下拉列表，然后单击 **[!UICONTROL 批准]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
@@ -111,11 +111,11 @@ ht-degree: 1%
 
 ## 在电子邮件中使用代码片段 {#use-snippet-in-an-email}
 
-1. 在电子邮件编辑器中，单击可编辑元素。 然后单击齿轮图标并选择 **[!UICONTROL 替换为代码片段]**. 如果您选择的是可编辑的代码片段元素，请单击齿轮图标并选择 **[!UICONTROL 编辑]**.
+1. 在电子邮件编辑器中，单击可编辑的元素。 然后单击齿轮图标并选择 **[!UICONTROL 替换为代码片段]**. 如果要选择可编辑的代码片段元素，请单击齿轮图标并选择 **[!UICONTROL 编辑]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
-1. 从下拉列表中查找并选择您的代码片段，然后单击 **[!UICONTROL 保存]**.
+1. 从下拉列表中选择您的代码片段，然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
@@ -133,13 +133,13 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >当然，您也可以针对动态语言编辑电子邮件的其余部分。 在您执行此操作时，请在取消订阅页面上执行相同的技术。
+   >当然，您也可以针对动态语言编辑电子邮件的其余部分。 在执行此操作时，在取消订阅页面上执行相同的技术。
 
 ## 使用动态内容自定义取消订阅页面 {#customizing-your-unsubscribe-page-with-dynamic-content}
 
-如果您希望您的用户使用他们的首选语言访问取消订阅页面，则可以在登陆页面和确认页面上使用动态内容。
+如果您希望您的用户使用首选语言访问取消订阅页面，则可以在登陆页面和确认页面上使用动态内容。
 
-1. 导航到 **[!UICONTROL Design Studio]**.
+1. 导航至 **[!UICONTROL Design Studio]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
@@ -159,8 +159,8 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   编辑每个登陆页面的内容并进行批准，一切准备就绪！
+   编辑每个登陆页面的内容并进行审批，您就可以开始了！
 
    >[!NOTE]
    >
-   >详细了解 [动态内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) 还有你能做的所有酷事。
+   >了解有关 [动态内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) 还有你能做的所有很酷的事。

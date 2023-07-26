@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10095347
-description: 保护订阅管理设置 — Marketo文档 — 产品文档
-title: 保护订阅管理设置
+description: 保护订阅管理员设置 — Marketo文档 — 产品文档
+title: 保护订阅管理员设置
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 保护订阅管理设置 {#secure-the-subscription-admin-setting}
+# 保护订阅管理员设置 {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >

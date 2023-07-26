@@ -6,7 +6,7 @@ exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->这些组件可供 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 和Marketo Sales Connect客户。
+>这些组件可用于 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 和Marketo Sales Connect客户。
 
 ## 什么是一个有趣的时刻？ {#what-is-an-interesting-moment}
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 * 单击新产品公告电子邮件中的链接
 * 请求产品演示
 
-## 我该如何创造一个有趣的时刻呢？ {#how-do-i-create-an-interesting-moment}
+## 我该如何创造一个有趣的时刻？ {#how-do-i-create-an-interesting-moment}
 
-1. 选择 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的销售团队觉得有意思的一个，如果触发。
+1. 选择 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的销售团队在触发时觉得有趣的一个。
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. 在 **描述** 解释此操作重要原因的字段。
+1. 在 **描述** 说明此操作重要性的字段。
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
-## Sales Connect中一个有趣的时刻是什么样的？ {#what-does-an-interesting-moment-look-like-in-sales-connect}
+## 在Sales Connect中，一个有趣的时刻是什么样的？ {#what-does-an-interesting-moment-look-like-in-sales-connect}
 
-有趣的时刻将实时显示在用户的实时信息源中。 我们利用Salesforce中的潜在客户所有者ID来显示用户对于他们拥有的相关潜在客户的有趣时刻。 用户可以通过电子邮件/电话/促销活动快速跟踪潜在客户，方法是单击潜在客户名称旁边的下拉列表。
+有趣的时刻将实时显示在用户的实时信息源中。 我们利用Salesforce中的潜在客户所有者ID来显示用户对于其拥有的相关潜在客户所拥有的有趣时刻。 用户可以通过电子邮件/电话/销售活动快速跟踪潜在客户，方法是单击潜在客户名称旁边的下拉列表。
 
 ![](assets/engagement.jpg)

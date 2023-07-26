@@ -15,13 +15,13 @@ ht-degree: 15%
 
 ## 什么是Adobe Marketo Engage {#what-is-marketo-engage}
 
-你问，什么是Marketo Engage？ 好问题！
+你问Marketo Engage是什么？ 好问题！
 
 [学习Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## 进行设置 {#get-set-up}
 
-在您的IT团队的帮助下，您可以快速完成此操作。
+在您IT团队的帮助下，您可以迅速完成工作。
 
 [开始设置](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
@@ -98,7 +98,7 @@ ht-degree: 15%
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="导入" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. 个性化电子邮件</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. 电子邮件个性化</a>
     </div>
     <br>
   </td>

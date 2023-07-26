@@ -18,7 +18,7 @@ ht-degree: 0%
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. 单击 **编辑草稿** （如果表单已获得批准，请单击创建草稿）。
+1. 单击 **编辑草稿** （如果该表单已获得批准，请单击创建草稿）。
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->标准化文本(包括指向Google隐私政策和服务条款的链接)将添加到启用验证码的表单中。
+>标准化文本(包括Google隐私政策和服务条款的链接)将添加到启用验证码的表单中。
 
 >[!MORELIKETHIS]
 >

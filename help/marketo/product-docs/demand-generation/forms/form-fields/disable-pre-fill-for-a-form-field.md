@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 禁用表单字段的预填充 {#disable-pre-fill-for-a-form-field}
 
-未知(cookie) Web访客时，默认情况下，Marketo表单会使用其信息预填充字段。 如果要关闭此功能，请按照以下步骤操作。
+未知(cookie)Web访客时，默认情况下，Marketo表单会使用他们的信息预填充字段。 如果您想关闭此功能，请按照以下步骤操作。
 
 >[!NOTE]
 >
->**表单预填** 默认情况下处于启用状态。 登陆页面级别预填充设置和管理级别预填充设置优先于表单级别设置：
+>**表单预填** 默认处于启用状态。 登陆页面级别预填充设置和管理级别预填充设置优先于表单级别设置：
 >
 >表单>登陆页面>管理员
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >将表单嵌入到您自己的页面时，表单预填充不起作用。 它仅适用于Marketo登陆页面。
+   >在将表单嵌入到您自己的页面时，表单预填充不起作用。 它仅适用于Marketo登陆页面。
 
 1. 选择一个字段并设置 **表单预填** 到 **已禁用**.
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
 ## 敏感字段 {#sensitive-fields}
 
-当您 [将字段标记为敏感](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md)，防止在表单中预填其值，您将在“预填”选项中看到此信息。
+当您 [将字段标记为敏感](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md)，阻止在表单中预填其值，您将在预填选项中看到此信息。
 
 ![](assets/disable-pre-fill.png)

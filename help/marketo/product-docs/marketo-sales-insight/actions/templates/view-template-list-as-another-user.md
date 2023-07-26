@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # 以其他用户身份查看模板列表 {#view-template-list-as-another-user}
 
-作为管理员，您可以查看任意用户的模板。
+作为管理员，您可以作为任何用户查看模板。
 
 >[!NOTE]
 >

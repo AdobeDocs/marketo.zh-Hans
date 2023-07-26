@@ -23,17 +23,17 @@ ht-degree: 0%
 
 ## 第2步：创建学习文件夹 {#step-create-a-learning-folder}
 
-让我们创建一个文件夹，用于保存您将在任务中进行的所有操作。
+让我们创建一个文件夹，其中包含您将在任务中进行的所有操作。
 
 1. 转到 **[!UICONTROL 营销活动]** 区域。
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. 单击 **[!UICONTROL 新]** 下拉菜单并选择 **[!UICONTROL 新建Campaign文件夹]**.
+1. 单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 新建Campaign文件夹]**.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. 将文件夹命名为“Learning”并单击 **[!UICONTROL 创建]**.
+1. 将文件夹命名为“学习”，然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/get-set-up-and-add-a-person-5.png)
 
-## 步骤3：将自己添加为人员 {#step-add-yourself-as-a-person}
+## 步骤3：将您自己添加为人员 {#step-add-yourself-as-a-person}
 
 将您自己添加为Marketo中的人员，以便稍后可以向您自己发送测试电子邮件。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. 单击 **[!UICONTROL 新]** 下拉菜单并选择 **[!UICONTROL 新人员]**.
+1. 单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 新人员]**.
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
    >
    >Marketo会 **非** 支持包含表情符号的电子邮件地址。
 
-1. 要查看您的联系人，请打开 [!UICONTROL 系统智能列表] 在左侧菜单中，然后单击 **[!UICONTROL 所有人员]**.
+1. 要查看您的员工，请打开 [!UICONTROL 系统智能列表] ，然后单击 **[!UICONTROL 所有人员]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 

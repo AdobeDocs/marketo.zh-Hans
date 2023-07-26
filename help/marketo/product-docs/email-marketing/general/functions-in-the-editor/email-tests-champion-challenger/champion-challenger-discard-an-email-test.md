@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 冠军/挑战者：放弃电子邮件测试 {#champion-challenger-discard-an-email-test}
 
-如果在任何时候决定不要继续运行电子邮件测试，则可以将其放弃。 下面是具体操作方法。
+如果在任何时候决定不要继续运行电子邮件测试，则可以将其放弃。 具体方法如下。
 
 >[!PREREQUISITES]
 >

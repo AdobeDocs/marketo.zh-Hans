@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# 第4步（共4步）：将Marketo解决方案与资源所有者密码控制连接连接 {#step-4-of-4-connect-the-marketo-solution-ropc}
+# 第4步（共4步）：连接Marketo解决方案与资源所有者密码控制连接 {#step-4-of-4-connect-the-marketo-solution-ropc}
 
 这是同步的最后一步。 你快到了！
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您要从基本身份验证升级到OAuth，您可以使用 [本文](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) 以重新配置身份验证。
+>如果您从基本身份验证升级到OAuth，您可以使用 [本文](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) 以重新配置您的身份验证。
 
 ## 输入Dynamics同步用户信息 {#enter-dynamics-sync-user-information}
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. 单击 **编辑** 在 **步骤1：输入凭据**.
+1. 单击 **编辑** 在 **步骤1：输入身份证明**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >请确保您的组织URL正确，因为我们在提交后无法还原后续架构更改。 如果使用不正确的组织URL，您将必须获取新的Marketo订阅。 如果您不知道该URL， [在此处了解如何查找它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >请确保您的组织URL正确，因为提交后我们无法还原后续架构更改。 如果使用的组织URL不正确，您将必须获取新的Marketo订阅。 如果你不知道这个URL， [在此处了解如何查找它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
    >[!NOTE]
    >
@@ -64,17 +64,17 @@ ht-degree: 0%
 
 ## 选择要同步的字段 {#select-fields-to-sync}
 
-1. 单击 **编辑** 在 **步骤2：选择要同步的字段**.
+1. 单击 **编辑** 在 **第2步：选择要同步的字段**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. 选择要同步到Marketo的字段，以便预先选择它们。 单击 **保存**.
+1. 选择您要同步到Marketo的字段，以便预先选择它们。 单击 **保存**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
 >[!NOTE]
 >
->Marketo存储对要同步的字段的引用。 如果您删除Dynamics中的字段，我们建议您使用 [同步已禁用](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Marketo然后，通过编辑并保存 [选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+>Marketo存储对要同步的字段的引用。 如果您删除Dynamics中的字段，我们建议您使用 [已禁用同步](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Marketo然后，通过编辑并保存 [选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## 同步自定义筛选器的字段 {#sync-fields-for-a-custom-filter}
 
@@ -84,11 +84,11 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 单击 **编辑** 在字段同步详细信息上。
+1. 单击 **编辑** 在字段同步详细信息中。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 向下滚动到字段并选中它。 实际名称必须是new_synctomkto ，但“显示名称”可以是任何内容。 单击 **保存**.
+1. 向下滚动到字段并选中。 实际名称必须是new_synctomkto ，但“显示名称”可以是任何内容。 单击 **保存**.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 
-干得好！
+做得好！
 
 >[!MORELIKETHIS]
 >

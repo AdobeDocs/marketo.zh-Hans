@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146970
-description: 计划稍后运行的批量智能营销活动 — Marketo文档 — 产品文档
+description: 安排批量智能营销活动以稍后运行 — Marketo文档 — 产品文档
 title: 安排稍后运行的批量智能营销活动
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 安排稍后运行的批量智能营销活动 {#schedule-a-batch-smart-campaign-to-run-later}
 
-如果您希望将批量智能营销活动设置为在未来的某个时间点运行，请参阅下面的操作方法。
+如果您希望将批量智能营销活动设置为在未来某个时间点运行，请按照以下步骤进行操作。
 
 >[!TIP]
 >
@@ -41,4 +41,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[计划循环批处理活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
+   >[计划循环批次活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)

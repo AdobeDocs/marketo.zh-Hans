@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 隐含的Salesforce操作 {#implied-salesforce-actions}
 
-在运行特定于Salesforce的流程步骤时，有时会自动执行额外的步骤。 规则如下，您知道：
+当特定于Salesforce的流程步骤运行时，有时会自动执行额外的步骤。 规则如下，您知道：
 
-这些规则将适用 _当人员当前不在时 [Salesforce.com](https://Salesforce.com)_ 作为联系人或潜在客户。
+这些规则将适用 _当人员当前不在 [Salesforce.com](https://Salesforce.com)_ 作为联系人或潜在客户。
 
 <table> 
  <thead> 
@@ -26,12 +26,12 @@ ht-degree: 0%
  </thead> 
  <tbody> 
   <tr> 
-   <td>添加到SFDC营销活动</td> 
+   <td>添加到SFDC Campaign</td> 
    <td>将人员同步到SFDC</td> 
   </tr> 
   <tr> 
    <td>在SFDC Campaign中更改状态</td> 
-   <td>将人员同步到SFDC<br>添加到SFDC营销活动</td> 
+   <td>将人员同步到SFDC<br>添加到SFDC Campaign</td> 
   </tr> 
   <tr> 
    <td>更改所有者</td> 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/designstudio.png)
 
-1. 单击 **新** 然后 **新建代码片段**.
+1. 单击 **新建** 然后 **新建代码片段**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-干得好！ 通过为动态内容创建代码片段来简化您的工作。 现在，您可以继续 [将内容添加到您的新代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+做得好！ 通过为动态内容创建代码片段来简化您的工作。 现在，您可以继续 [向新代码片段添加内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >

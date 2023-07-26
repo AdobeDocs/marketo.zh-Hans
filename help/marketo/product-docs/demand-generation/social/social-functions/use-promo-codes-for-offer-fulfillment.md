@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359819
 description: 使用促销代码进行优惠履行 — Marketo文档 — 产品文档
-title: 为优惠履行使用促销代码
+title: 使用促销代码完成优惠
 exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 为优惠履行使用促销代码 {#use-promo-codes-for-offer-fulfillment}
+# 使用促销代码完成优惠 {#use-promo-codes-for-offer-fulfillment}
 
 在创建推荐选件或抽奖活动时，您可以向每位入选者发送促销（优惠券）代码。 为了兑现奖励，他们会使用代码，例如，在您的网站上购买的结账页面上。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->仅Marketo用户具有 _访问奖励_ 有权限访问此信息。 参见  [管理用户角色和权限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>仅Marketo用户具有 _访问奖_ 权限访问此信息。 请参阅  [管理用户角色和权限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. 转到 **营销活动**.
 
@@ -61,6 +61,6 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. 您应在此处看到一些条目。 单击 **促销代码** 列以查看发送给该参与者的促销代码以及时间。
+1. 您应该在此处看到一些条目。 单击 **促销代码** 列以查看发送给该参与者的促销代码以及时间。
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)

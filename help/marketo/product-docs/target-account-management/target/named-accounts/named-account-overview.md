@@ -21,11 +21,11 @@ ht-degree: 3%
 
 >[!TIP]
 >
->默认情况下，指定帐户按创建日期排序，但您可以按标题中具有排序图标的任何列进行排序。
+>默认情况下，指定帐户按创建日期排序，但您可以按标题中带有排序图标的任何列进行排序。
 
 >[!NOTE]
 >
->Marketo将同步到Marketo的所有CRM用户显示为“帐户所有者”或“帐户团队成员”的筛选值。
+>Marketo将同步到Marketo的所有CRM用户显示为“帐户所有者”或“帐户团队成员”的筛选器值。
 
 ## 指定帐户属性 {#named-account-attributes}
 
@@ -45,11 +45,11 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td><strong>管道</strong></td> 
-   <td>CRM系统中非已结束成功或已结束失败的所有商机的总和</td> 
+   <td>CRM系统中所有未成功或失败的“已关闭”机会的总和</td> 
   </tr> 
   <tr> 
    <td><strong>打开机会</strong></td> 
-   <td>CRM中所有未关闭的机会都会被赢或输。</td> 
+   <td>CRM中所有未关闭的商机都会获胜或失败。</td> 
   </tr> 
   <tr> 
    <td><strong>域</strong></td> 
@@ -57,7 +57,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td><strong>行业</strong></td> 
-   <td>指定帐户所属的行业类型</td> 
+   <td>指定帐户归因的行业类型</td> 
   </tr> 
   <tr> 
    <td><strong>SIC 代码</strong></td> 
@@ -73,7 +73,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td colspan="1"><strong>帐户得分</strong></td> 
-   <td colspan="1">来自多个潜在客户的潜在客户得分的汇总，以提供客户级别的分数</td> 
+   <td colspan="1">来自多个商机的商机得分的汇总，以在帐户级别提供得分</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>城市</strong></td> 

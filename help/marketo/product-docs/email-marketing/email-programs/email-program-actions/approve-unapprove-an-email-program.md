@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [创建电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [通过导入列表来定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [通过导入列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 >* [选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [为电子邮件程序创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
@@ -35,13 +35,13 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果不批准您的电子邮件计划，电子邮件将不会发出。
+   >如果不批准您的电子邮件程序，电子邮件将不会发出。
 
-1. 在 **批准** 磁贴，然后单击 **批准项目**.
+1. 在 **批准** 图块并点击 **批准项目**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
-1. 如果我们发现问题，我们会通知您 — 解决这些问题并再次尝试审批。
+1. 如果我们发现问题，我们会通知您 — 修复这些问题并再次尝试审批。
 
    ![](assets/image2014-9-12-13-3a43-3a44.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 取消批准您的电子邮件计划 {#unapprove-your-email-program}
 
-如果您改变主意，决定不要将它取出，则可以取消批准电子邮件程序。
+如果您改变主意并决定不希望它退出，则可以取消批准电子邮件程序。
 
 1. 转到 **营销活动**.
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
-完成并完成！ 再次批准之前，您的电子邮件将不会发出。
+完成并完成！ 再次审批电子邮件之前，该电子邮件将不会发出。

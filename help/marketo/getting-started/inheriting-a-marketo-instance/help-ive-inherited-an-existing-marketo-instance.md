@@ -15,7 +15,7 @@ ht-degree: 0%
 
 **您是刚刚继承现有Marketo实例但不知道从何处开始的新用户吗？**
 
-如果是，则本指南适用于您。 它应该可帮助您朝着正确的方向前进以获取所需的内容，从而充分利用您在Marketo的第一天。
+如果是这样的话，本指南适用于您。 它可以为您指明正确的方向以获取所需的内容，从而帮助您充分利用在Marketo的第一天工作。
 
 **目录**
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 * [回顾内容：核心技能](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target="_blank"}
 * [获取帮助的方法](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target="_blank"}
 
-如果您已了解自己的实例并熟悉Marketo核心概念，请查看Marketo Engage产品文档，或访问 [营销国家/地区](https://nation.marketo.com/){target="_blank"} 在线社区，了解其他Marketo用户的意见。
+如果您已经了解自己的实例并熟悉Marketo核心概念，请查看Marketo Engage的产品文档，或访问 [营销国家/地区](https://nation.marketo.com/){target="_blank"} 在线社区，了解其他Marketo用户的意见。

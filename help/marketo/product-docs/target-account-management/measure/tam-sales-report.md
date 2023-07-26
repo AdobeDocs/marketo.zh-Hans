@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385183
-description: TAM销售报告 — Marketo文档 — 产品文档
+description: TAM销售报表 — Marketo文档 — 产品文档
 title: TAM销售报表
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >了解如何设置此报表 [此处](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
-报告共享：
+报告将分享：
 
-* 按您选择的帐户分数排序的指定帐户
+* 按您选择的帐户得分排序的指定帐户
 * 主要参与人员
 * 主要趋势和有趣的时刻
 * 用于下载包含其他详细信息的CSV文件的链接
@@ -43,7 +43,7 @@ ht-degree: 0%
    <td><strong>销售管道</strong></td> 
    <td> 
     <div>
-      按管道显示的每周趋势，然后是当前管道的总数和开放机会数 
+      按管道显示的每周趋势，然后是当前管道总数和打开的机会数 
     </div></td> 
   </tr> 
   <tr> 

@@ -6,8 +6,8 @@ exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '149'
+ht-degree: 2%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 为您的模型提供一个名称，然后选择将用作理想客户配置文件(ICP)基础的人员的列表类型/列表。 单击 **创建模型** 完成时。
+1. 为您的模型提供一个名称，然后选择将用作理想客户配置文件(ICP)基础的列表类型/人员列表。 单击 **创建模型** 完成时。
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -56,4 +56,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >现在您的模型已创建， [了解如何对其进行调整](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >现在您的模型已创建完毕， [了解如何对其进行调整](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).

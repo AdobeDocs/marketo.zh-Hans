@@ -17,13 +17,13 @@ ht-degree: 22%
 
 ## 转至人员详细信息页面 {#getting-to-person-detail-page}
 
-有许多方法可打开特定人员。 一些示例包括：
+有很多方式可以打开特定的人。 一些示例包括：
 
 * 从 **数据库**，您可以在快速查找中搜索
 * 任何智能 **列表** 或列表
 * **成员** 项目群选项卡
 * **查看营销活动成员** 在智能营销活动中
-* 部分 **报告**
+* 部分 **报表**
   <br> 
 
 1. 双击任意人员或单击左侧的ID。
@@ -42,10 +42,10 @@ ht-degree: 22%
 |---|---|
 | 信息 | 联系信息和有关人员的自定义字段。 |
 | 公司信息 | 人员的公司信息和地址。 |
-| 机会信息 | 机会信息已从Salesforce同步。 |
+| 机会信息 | Salesforce中同步的Opportunity信息。 |
 | SFDC潜在客户字段 | 内置Salesforce字段。 |
 | SFDC自定义字段 | 自定义Salesforce字段。 |
-| 活动日志 | 与人员相关的所有活动。 |
+| 活动日志 | 所有与人员相关的活动。 |
 
 ## 页面组织 — Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
@@ -53,14 +53,14 @@ ht-degree: 22%
 |---|---|
 | 信息 | 联系信息和有关人员的自定义字段。 |
 | 公司信息 | 人员的公司信息和地址。 |
-| 机会信息 | 机会信息已从Microsoft同步。 |
+| 机会信息 | Opportunity信息已从Microsoft同步。 |
 | Microsoft自定义字段 | 自定义Microsoft字段。 |
 | Microsoft潜在客户字段 | 内置Microsoft字段。 |
-| 活动日志 | 与人员相关的所有活动。 |
+| 活动日志 | 所有与人员相关的活动。 |
 
 >[!NOTE]
 >
->您还可以看到机会信息 [通过API插入](https://developers.marketo.com/rest-api/lead-database/opportunities/) 用于未与CRM同步的实例。
+>您还可以查看机会信息 [通过API插入](https://developers.marketo.com/rest-api/lead-database/opportunities/) 用于未与CRM同步的实例。
 
 ## 编辑字段 {#editing-a-field}
 
@@ -82,7 +82,7 @@ ht-degree: 22%
 | 是合作伙伴 | 职务 | 姓 | 评级 | 得分 |
 | 人员来源 | 状态 | 主要电话 | Marketo Social Facebook显示名称 | Marketo Social Facebook Id |
 | Marketo Social Facebook照片URL | Marketo Social Facebook配置文件URL | Marketo Social Facebook范围 | Marketo Social Facebook引用的注册 | Marketo Social Facebook反向访问 |
-| Marketo社交性别 | Marketo Social上次引用的注册 | Marketo Social上次引荐访问 | Marketo Social LinkedIn显示名称 | Marketo Social LinkedIn Id |
+| Marketo社会性别 | Marketo Social上次引用的注册 | Marketo Social上次反向访问 | Marketo Social LinkedIn显示名称 | Marketo Social LinkedIn Id |
 | Marketo Social LinkedIn照片URL | Marketo Social LinkedIn配置文件URL | Marketo Social LinkedIn范围 | Marketo Social LinkedIn引用的注册 | Marketo Social LinkedIn反向访问 |
 | Marketo社交联合ID | Marketo Social 反向注册次数总计 | Marketo Social 反向访问次数总计 | Marketo Social Twitter显示名称 | Marketo Social Twitter Id |
 | Marketo Social Twitter照片URL | Marketo Social Twitter配置文件URL | Marketo Social Twitter范围 | Marketo Social Twitter引用的注册 | Marketo Social Twitter反向访问 |
@@ -98,9 +98,9 @@ ht-degree: 22%
 >* 活动日志
 >* 公司信息
 >* SFDC联系人的机会
->* 特定于Marketo的字段，例如“创建日期”和“原始源类型”。
+>* 特定于Marketo的字段，如“创建日期”和“原始源类型”。
 >
->详细了解 [系统管理的字段](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>了解有关 [系统管理的字段](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >

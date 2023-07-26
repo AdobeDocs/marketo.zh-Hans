@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 编辑电子邮件的HTML {#edit-an-emails-html}
 
-有时您可能需要修改电子邮件的基础HTML。 有时，您可以使用外部系统来设计和构建电子邮件的代码。 无论哪种方式，您都可以在电子邮件编辑器中轻松导入和/或编辑代码。
+有时，您可能需要修改电子邮件的基础HTML。 有时，您可以使用外部系统来设计和构建电子邮件的代码。 无论采用哪种方式，您都可以在电子邮件编辑器中轻松导入和/或编辑代码。
 
 ## 编辑HTML {#edit-html}
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >电子邮件的最佳实践是使所有样式内联。 多个电子邮件客户端不支持中的CSS `<head>` 部分。
+   >处理电子邮件的最佳做法是内联所有样式。 多个电子邮件客户端不支持中的CSS `<head>` 部分。
 
-## 从电子邮件模板中断电子邮件 {#breaking-an-email-from-its-template}
+## 从模板中中断电子邮件 {#breaking-an-email-from-its-template}
 
 这些代码更改 **不会** 从模板中断电子邮件：
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 * 更改模块外任何元素的mkto特定属性（例如，“mktoName”或“mktoImgUrl”）
 * 编辑任何元素的内容（富文本、图像、视频等） 模块外部
 
-可在代码编辑器中执行的操作 **将** 从电子邮件模板中断电子邮件：
+可在代码编辑器中执行的操作 **将** 从模板中断电子邮件：
 
 * 在元素或模块之外更改代码中的任何内容
 * 添加或更改模块外任何元素的非mkto属性（例如，“id”或“style”）
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-1. 输入要查找的内容，然后单击 **查找下一个** 要向前搜索或 **查找上一个** 进行反向搜索。 您还可以选择执行以下操作 **Replace** 和 **全部替换**.
+1. 输入要查找的内容，然后单击 **查找下一个** 要向前搜索或 **查找上一个** 进行反向搜索。 您还可以选择 **替换** 和 **全部替换**.
 
    ![](assets/six-1.png)
 
@@ -76,6 +76,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >搜索代码也可在以下位置找到： [电子邮件模板编辑器](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
+   >搜索代码也可在 [电子邮件模板编辑器](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
-我们建议您继续使用Marketo的内置功能编辑电子邮件，但如果需要，此代码编辑器会提供灵活性。
+我们建议您使用Marketo的内置功能继续编辑电子邮件，但如果需要，此代码编辑器会提供灵活性。

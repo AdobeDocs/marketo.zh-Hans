@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 双方同意设置 {#two-party-consent-settings}
 
-为了确保录制呼叫时遵守美国两党同意法，作为管理员，您可以启用自己选择的预先录制的消息，在录制呼叫开始时播放。
+为了确保录制呼叫时遵守美国两党同意法，作为管理员，您可以启用自己选择的预先录制消息，在录制呼叫开始时播放。
 
 >[!PREREQUISITES]
 >
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. 在“呼叫记录”卡中，单击 **管理录制通知**.
+1. 在呼叫记录卡中，单击 **管理录制通知**.
 
    ![](assets/two-party-consent-settings-3.png)
 
@@ -42,10 +42,10 @@ ht-degree: 0%
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. 上传完成后，在文件管理器中选择圆点（三个圆点），然后单击 **选择作为同意通知**. 单击 **确定** 完成时。
+1. 上传完成后，在文件管理器中选择圆点（三个点），然后单击 **选择作为同意通知**. 单击 **确定** 完成时。
 
    ![](assets/two-party-consent-settings-6.png)
 
-1. 单击此切换开关可启用选定消息在录制通话开始时播放。
+1. 单击切换可允许在开始录制呼叫时播放选定的消息。
 
    ![](assets/two-party-consent-settings-7.png)

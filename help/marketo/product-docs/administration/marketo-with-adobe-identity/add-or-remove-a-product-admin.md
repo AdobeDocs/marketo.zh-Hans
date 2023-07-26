@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**系统** 管理员仅在Adobe组织级别创建。 如果您认为您需要多个项目，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support).
+>**系统** 管理员仅在Adobe组织级别创建。 如果您认为您需要多个，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## 添加产品管理员 {#add-a-product-admin}
 
@@ -50,11 +50,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. 在“Products（产品）”下，单击三个圆点菜单并选择 **[!UICONTROL 编辑]**.
+1. 在“产品”下，单击三个圆点菜单，然后选择 **[!UICONTROL 编辑]**.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. 单击 **+** 签名。 单击所需的Marketo Engage订阅（如果有多个）旁边的>形符号，然后选择所需的产品配置文件。
+1. 单击 **+** 签名。 单击所需Marketo Engage订阅（如果有多个订阅）旁边的V形，然后选择所需的产品配置文件。
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 

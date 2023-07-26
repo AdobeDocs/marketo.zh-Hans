@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 什么是TAM层次结构？ {#what-are-tam-hierarchies}
 
-公司可以拥有多个部门和子公司。 这些公司通常通过称为阶层的父子关系来组织自己。 TAM可以从您的SFDC或MSD集成继承这些层次结构，并允许您作为单个系列处理不同的部门。
+公司可以有多个部门和子公司。 这些公司通常通过称为阶层的父子关系来组织自己。 TAM可以从您的SFDC或MSD集成继承这些层次结构，并允许您作为单个系列处理不同的部门。
 
 ## 使用TAM层次结构 {#working-with-tam-hierarchies}
 
@@ -35,6 +35,6 @@ ht-degree: 0%
 >
 >Marketo界面最多只显示10个级别（父帐户的子帐户和孙帐户），但是您可以创建的子帐户数量没有限制。
 
-使用定位和报告整个层次结构 [一键单击](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+定位并报告整个层级，使用 [一键单击](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

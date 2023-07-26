@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 启用/禁用报表订阅 {#enable-disable-report-subscriptions}
 
-Web个性化具有通过电子邮件发送的几个有用报表。 以下是其订阅方式。
+Web个性化具有通过电子邮件发送的几个有用报表。 以下是订阅方法。
 
-1. 登录Web个性化。 在您的登录名下，单击 **用户设置**.
+1. 登录Web Personalization。 在登录名下，单击 **用户设置**.
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
-1. 选择要订阅的报表及其频率。 单击 **保存**.
+1. 选择要订阅的报告及其频率。 单击 **保存**.
 
    ![](assets/email-settings.png)
 

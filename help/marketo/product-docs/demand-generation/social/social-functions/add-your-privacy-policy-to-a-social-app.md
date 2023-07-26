@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 将您的隐私策略添加到社交应用程序 {#add-your-privacy-policy-to-a-social-app}
 
-在创建社交应用程序时，您可以添加指向公司隐私策略的链接。
+在创建社交应用程序时，您可以添加指向贵公司隐私策略的链接。
 
 1. 转到 **营销活动**.
 
@@ -27,16 +27,16 @@ ht-degree: 1%
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
-1. 要添加指向隐私策略的链接，请选中复选框，编辑标题，然后输入URL。
+1. 要添加指向您的隐私策略的链接，请选中复选框，编辑标题，然后输入URL。
 
    ![](assets/image2014-9-22-10-3a51-3a12.png)
 
    >[!NOTE]
    >
-   >在此屏幕上，您还可以添加指向优惠规则（条款和条件）的链接。 参见 [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
+   >在此屏幕上，您还可以添加指向优惠规则（条款和条件）的链接。 请参阅 [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
 1. 隐私策略链接（和规则链接）将显示在共享消息屏幕的底部。 例如：
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-接下来，您可以 [配置社交注册和共享流](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) 应用程序的URL路径。
+接下来，您可以 [配置社交注册和共享流](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) 应用程序的ID。

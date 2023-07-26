@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/redirect-a-landing-page-2.png)
 
-1. 单击 **[!UICONTROL 规则]** 选项卡，然后单击 **[!UICONTROL 新]** 和 **[!UICONTROL 新建重定向规则]**.
+1. 单击 **[!UICONTROL 规则]** 选项卡，然后单击 **[!UICONTROL 新建]** 和 **[!UICONTROL 新建重定向规则]**.
 
    ![](assets/redirect-a-landing-page-3.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >
    >请记住，您只能重定向以Marketo开头的登陆页面 [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}.
 
-1. 单击第二个 **[!UICONTROL 原始URL]** 下拉列表并选择要重定向的登陆页面。
+1. 单击第二个 **[!UICONTROL 原始URL]** 下拉列表，然后选择要重定向的登陆页面。
 
    ![](assets/redirect-a-landing-page-5.png)
 

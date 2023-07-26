@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
-1. 选择您的电子邮件报告。
+1. 选择您的电子邮件报表。
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Design Studio电子邮件**：全局资产，在Design Studio中管理。
-   * **营销活动电子邮件**：营销活动选项卡上的项目中的本地资产。
-   * **已存档的电子邮件**：不活动、已弃用的电子邮件。
+   * **Design Studio电子邮件**：全局资产，在设计工作室中管理。
+   * **营销活动电子邮件**：营销活动选项卡上项目中的本地资产。
+   * **归档的电子邮件**：不活动、已弃用的电子邮件。
 
 1. 选择要包含在报表中的文件夹和特定电子邮件。
 
@@ -37,12 +37,12 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果选择文件夹，则报表将包含文件夹在报表运行时包含的所有内容。
+   >如果选择文件夹，则报表将包含该文件夹在报表运行时包含的所有内容。
 
-1. 你完了！ 单击 **报告** 选项卡，以查看已过滤的报告。
+1. 你完了！ 单击 **报表** 选项卡，以查看已过滤的报告。
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 
 >[!MORELIKETHIS]
 >
->[在营销活动电子邮件报表中筛选资产](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>[在营销活动电子邮件报表中筛选资源](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)

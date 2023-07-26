@@ -17,12 +17,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**重叠的营销活动**
+>**重叠营销活动**
 >
 >在以下情况下，会发生Web营销活动重叠：
 >
 >* 两个或多个构件和/或对话框营销活动在同一页面上同时做出反应
->* 具有相同区域ID的两个或多个In Zones在同一网页上同时反应
+>* 具有相同区域ID的两个或两个以上的In Zones在同一网页上同时反应
 >
 >In Zone营销活动和（小组件或对话框）营销活动可以在同一页面上做出反应。
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >为了更便于查找所需的Web营销活动，请使用 [筛选功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >为了更便于查找所需的Web营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. 在“编辑营销活动”页面中，设置优先级得分（9999 =最高优先级1 =最低优先级）。
+1. 在“编辑促销活动”页面中，设置优先级得分（9999 =最高优先级1 =最低优先级）。
 
    ![](assets/image2015-7-9-20-3a20-3a58.png)
 
@@ -44,6 +44,6 @@ ht-degree: 0%
 
 1. 保存或启动营销活动。
 
-1. 请参阅“Web营销活动”页面中显示的优先级得分。
+1. 请参阅“网站营销活动”页面中显示的优先级得分。
 
 ![](assets/web-campaign-priority-score.jpg)

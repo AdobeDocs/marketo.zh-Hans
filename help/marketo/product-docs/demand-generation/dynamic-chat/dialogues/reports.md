@@ -17,7 +17,7 @@ ht-degree: 11%
 <table>
  <tr>
   <td><strong>总触发</strong></td>
-  <td>每次向对话框显示访客符合条件/时递增。
+  <td>每当访客符合/显示在对话框中时递增。
 </td>
  </tr>
  <tr>
@@ -26,7 +26,7 @@ ht-degree: 11%
  </tr>
  <tr>
   <td><strong>已完成</strong></td>
-  <td>每次访客到达对话框中任何分支的结尾时递增。</td>
+  <td>每当访客到达对话框中的任何分支结尾时，就会递增。</td>
  </tr>
  <tr>
   <td><strong>捕获的人员</strong></td>
@@ -38,7 +38,7 @@ ht-degree: 11%
  </tr>
  <tr>
   <td><strong>达成的目标</strong></td>
-  <td>每次访客在任何对话流中实现目标时递增。</td>
+  <td>每当访客在任何对话框流中实现目标时递增。</td>
  </tr>
 </table>
 

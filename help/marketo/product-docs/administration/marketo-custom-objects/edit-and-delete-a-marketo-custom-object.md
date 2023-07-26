@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在自定义对象获得批准后，您将无法创建、编辑或删除链接或重复数据消除字段。
+>在自定义对象获得批准后，您将无法创建、编辑或删除链接或重复数据删除字段。
 
 ## 编辑自定义对象 {#edit-a-custom-object}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
-1. 在右侧选择要编辑的自定义对象。
+1. 选择要在右侧编辑的自定义对象。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-1. 进行所需的更改。 如果要在“潜在客户详细信息”页面上显示对象，请将滑块拖动到上。 单击 **[!UICONTROL 保存]**.
+1. 进行所需的更改。 如果要在“潜在客户详细信息”页面上显示对象，请将滑块拖动到上方。 单击 **[!UICONTROL 保存]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 删除自定义对象 {#delete-a-custom-object}
 
-删除自定义对象很容易，但您需要小心。 自定义对象可以连接到其他对象或智能列表。 因此，Marketo会在您单击之前警告您 **[!UICONTROL 删除]**.
+删除自定义对象很容易，但您需要小心。 自定义对象可以连接到其他对象或智能列表。 因此，Marketo会在允许您单击之前警告您 **[!UICONTROL 删除]**.
 
 >[!CAUTION]
 >
@@ -75,7 +75,7 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. 如果自定义对象已被批准，则删除它会有更大的风险。 所以，你会得到更严厉的警告。 输入 **[!UICONTROL 我理解]**，查看 **[!UICONTROL 无法撤消]** 复选框，然后单击 **[!UICONTROL 删除]**.
+1. 如果该自定义对象已被批准，则将其删除的风险更大。 所以你会得到更严厉的警告。 输入 **[!UICONTROL 我理解]**，查看 **[!UICONTROL 无法撤消]** 复选框，然后单击 **[!UICONTROL 删除]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

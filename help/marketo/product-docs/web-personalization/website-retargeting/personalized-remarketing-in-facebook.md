@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # facebook中的个性化再营销 {#personalized-remarketing-in-facebook}
 
-通过个性化再营销，您可以使用RTP数据和Facebook再营销的强大功能，重新与用户互动。
+通过个性化再营销，您可以使用RTP数据和Facebook再营销的强大功能，重新吸引用户。
 
 >[!PREREQUISITES]
 >
->* 完成 [使用Web个性化数据重新定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 设置
+>* 完成 [使用Web个性化数据重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 设置
 >* 查看 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [关于自定义受众的Facebook文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 和再营销。
 
 ## 在Facebook中创建受众 {#creating-an-audience-in-facebook}
@@ -88,7 +88,7 @@ ht-degree: 1%
        </tr> 
        <tr> 
         <td>行业</td> 
-        <td><p>防御</p><p>教育</p><p>金融服务</p><p>政府</p><p>医疗保健、制药、生物技术</p><p>软件和Internet</p><p>等…… （根据RTP行业选项）</p></td> 
+        <td><p>防御</p><p>教育</p><p>金融服务</p><p>政府</p><p>医疗保健、医药、生物技术</p><p>软件和Internet</p><p>等等…… （根据RTP Industry选项）</p></td> 
        </tr> 
        <tr> 
         <td colspan="1">分段受众</td> 
@@ -117,7 +117,7 @@ ht-degree: 1%
 
    ![](assets/image2015-1-19-17-3a12-3a39.png)
 
-1. 创建广告集。 从您创建的受众列表中选择一个自定义受众，例如，教育行业。
+1. 创建您的广告集。 从您创建的受众列表中选择自定义受众，例如“教育行业”。
 
    ![](assets/image2015-1-19-17-3a18-3a13.png)
 
@@ -129,5 +129,5 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [使用Web个性化数据重新定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [使用Web个性化数据重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Google中的个性化再营销](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

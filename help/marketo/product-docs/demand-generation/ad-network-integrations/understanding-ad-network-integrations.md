@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11382858
 description: 了解广告网络集成 — Marketo文档 — 产品文档
-title: 了解Ad Network集成
+title: 了解Ad网络集成
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,30 +11,30 @@ ht-degree: 0%
 
 ---
 
-# 了解Ad Network集成 {#understanding-ad-network-integrations}
+# 了解Ad网络集成 {#understanding-ad-network-integrations}
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 
 ## 广告网络集成的工作原理 {#how-ad-network-integrations-work}
 
-广告网络集成可将Marketo独有的受众数据连接到您的付费媒体系统，以便您运行更具针对性的个性化数字广告营销活动。 这些集成当前适用于Facebook、LinkedIn和Google。
+广告网络集成将Marketo独特的受众数据连接到您的付费媒体系统，以便您能够运行更具针对性的个性化数字广告营销活动。 这些集成当前适用于Facebook、LinkedIn和Google。
 
 功能包括：
 
-* 将受众发送到付费媒体系统，以便通过个性化的展示广告来定位已知的潜在客户，从而培养或重新激活他们
+* 将受众发送到付费媒体系统，以通过个性化的展示广告定位已知的潜在客户以培养或重新激活他们
 
-   * 按买方阶段、参与级别等分段
+   * 按买方阶段、参与级别等细分
    * 扩展受众以改进客户获取
-   * 带有广告的Target电子邮件订阅者和非响应者
-   * 跨渠道（例如，电子邮件和数字广告）培养
+   * Target电子邮件订阅者和没有回复者带有广告
+   * 跨渠道（例如电子邮件和数字广告）培养
 
-* 将潜在客户或付费媒体系统中的数据引入Marketo
+* 将潜在客户或数据从付费媒体系统引入Marketo
 
-   * 例如，Facebook用户单击“订阅”按钮后，会提供姓名和电子邮件地址
+   * 例如，Facebook用户单击“订阅”按钮时，会提供姓名和电子邮件地址
 
 * 将离线转化数据上传到付费媒体系统，优化商机获取和培养工作
 
-   * 例如，用户搜索、看到和点击广告，然后在线填写表单。 之后，他收到离线演示并成为CRM机会。 广告商就是在那里攻击他的
+   * 例如，人员搜索、查看和单击广告，然后在线填写表单。 之后，他将收到离线演示并成为CRM机会。 广告商就是在这里攻击他的
 
 * 重新定位网站访客，使用 [Web个性化](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)，以将其驱回您的网站
 

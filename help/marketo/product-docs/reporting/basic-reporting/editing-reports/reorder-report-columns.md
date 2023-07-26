@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359999
-description: 重新排序报表列 — Marketo文档 — 产品文档
-title: 重新排序报表列
+description: 对报表列重新排序 — Marketo文档 — 产品文档
+title: 对报表列重新排序
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 重新排序报表列 {#reorder-report-columns}
+# 对报表列重新排序 {#reorder-report-columns}
 
 您可以更改报表中列的顺序。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. 从导航树中选择报告，然后单击 **报告** 选项卡。
+1. 从导航树中选择您的报表，然后单击 **报表** 选项卡。
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. 就是这样！ 现在，列以新顺序显示。
+1. 就是这样！ 现在，这些列以新顺序显示。
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 
-   您可以重复这些步骤，直到列以最适合您的顺序显示。
+   您可以重复这些步骤，直到列以最适合您的顺序显示为止。
 
    >[!MORELIKETHIS]
    >

@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/setting-event-goals-2.png)
 
-1. 在您的事件中，单击 **[!UICONTROL 报告]** 选项卡。
+1. 在您的事件中，单击 **[!UICONTROL 报表]** 选项卡。
 
    ![](assets/setting-event-goals-3.png)
 
@@ -44,6 +44,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->事件开始后，您无法为事件设置目标。
+>事件开始后，您无法设置事件的目标。
 
-就是这样！ 通过单击 [!UICONTROL 报告] 选项卡。
+就是这样！ 通过单击 [!UICONTROL 报表] 选项卡。

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建新类别 {#create-a-new-category}
 
-Sales Connect附带两个默认类别，可帮助组织模板。
+Sales Connect附带两个默认类别，可帮助组织您的模板。
 
 1. 单击 **+** 图标旁边 **类别**.
 

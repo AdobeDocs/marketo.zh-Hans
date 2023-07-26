@@ -22,17 +22,17 @@ ht-degree: 0%
 
 订阅使用运行订阅时的完整人员列表。
 
-订阅位于智能列表所在的位置，位于营销活动或数据库中。
+订阅位于智能列表所在的位置，即营销活动或数据库中。
 
 您可以从同一智能列表创建多个订阅。
 
-订阅特定于工作区。 例如，此订阅列表所在的工作区与本文其余部分中所示的工作区不同：
+订阅特定于工作区。 例如，此订阅列表与本文其余部分中显示的工作区不同：
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->每个Marketo实例跨工作区限制为100个订阅，每个订阅最多100,000人。 如果智能列表包含超过100,000个名称，Marketo将为前100,000个名称运行订阅。
+>每个Marketo实例限制为100个订阅，每个订阅最多包含100,000名人员（跨工作区）。 如果智能列表包含超过100,000个名称，Marketo将为前100,000个运行订阅。
 
 ## 创建智能列表订阅 {#create-a-smart-list-subscription}
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 我们建议您清除“活动”复选框，以便在无人订阅智能列表订阅时将其停用。
+1. 我们建议您清除“活动”复选框，以便在没有人订阅智能列表订阅时将其停用。
 
    ![](assets/nine.png)
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
-如果报表中有0个人，收件人仍会收到一封电子邮件。 但是，电子邮件仅声明没有人员可报告。
+如果报表中包含0人，收件人仍会收到电子邮件。 但是，电子邮件仅声明没有人员可报告。
 
 ![](assets/image2015-4-17-16-3a11-3a8.png)
 
@@ -92,15 +92,15 @@ ht-degree: 0%
 >
 >修改基于订阅的智能列表筛选器时，也会更新报表。
 
-该电子邮件还提供了有关用于创建列表的过滤器的其他信息。
+电子邮件还提供了有关用于创建列表的过滤器的其他信息。
 
 ## 删除订阅 {#delete-a-subscription}
 
-要删除订阅，请在“订阅”选项卡中选择该订阅，然后单击“删除订阅”。
+要删除预订，请在“预订”选项卡中选择它，然后单击“删除预订”。
 
 ![](assets/twelve.png)
 
 >[!MORELIKETHIS]
 >
 >* [编辑智能列表订阅](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
->* [保护订阅管理设置](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+>* [保护订阅管理员设置](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

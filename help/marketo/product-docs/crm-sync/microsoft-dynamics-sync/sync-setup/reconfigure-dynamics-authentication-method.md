@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 重新配置Dynamics身份验证方法 {#reconfigure-dynamics-authentication-method}
 
-按照以下步骤更新您的Dynamics身份验证方法。
+请按照以下步骤更新您的动态身份验证方法。
 
 >[!PREREQUISITES]
 >
@@ -47,8 +47,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* 特定字段将因选择的身份验证方法而异，表单将根据之前的身份验证方法自动更新。
-   >* 如果您之前已同步，则可能会预填充上述表单中的数据。 请重新输入所有凭据以确保值正确。
+   >* 特定字段将因选择的身份验证方法而异，并且表单将根据之前的身份验证方法自动更新。
+   >* 如果您之前已同步，则可以预先填充上述表单中的数据。 请重新输入所有凭据以确保值正确。
 
 1. 如果一切正常，验证同步将生成所有绿色复选标记 ![](assets/green-check.png). 查看消息并单击 **切换** 以更新身份验证方法。
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您看到 ![](assets/red-x.png)，该步骤有一个问题。 参见 [修复Dynamics验证同步问题](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) 以识别和修复问题。 然后，重新运行同步验证步骤，直到结果类似于上图。
+   >如果您看到 ![](assets/red-x.png)，该步骤有一个问题。 请参阅 [修复Dynamics验证同步问题](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) 以识别和修复问题。 然后，重新运行同步验证步骤，直到结果类似于上图。
 
 1. 单击 **确认** 以继续。
 
@@ -70,4 +70,4 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >系统需要15分钟来接受新的身份验证模式。 请在切换后等待15分钟，然后再重新启用同步。
+   >系统需要15分钟才能接受新的身份验证模式。 请在切换后等待15分钟，然后再重新启用同步。

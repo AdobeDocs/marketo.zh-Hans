@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 发行说明： 2017年冬季 {#release-notes-winter}
 
-2017年冬季版本中包含以下功能。 查看Marketo版本以了解功能可用性。
+’17年冬季版本包括以下功能。 检查您的Marketo版本以了解功能可用性。
 
 请单击标题链接以查看每个功能的详细文章。
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ## [Web个性化营销活动导出](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
-以CSV格式导出所有Web Campaign详细信息和分析。 然后，您便可以在方便的布局中查看数据。
+以CSV格式导出所有Web Campaign详细信息和分析。 然后，您便可以用方便的布局查看数据。
 
 ![](assets/web-personalization-csv-download-hand.png)
 
 ## 本地化 {#localization}
 
-Web个性化、预测内容和电子邮件分析应用程序现在提供日语、德语和西班牙语版本。 您 [选择您的语言和区域设置](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 查看您以这些语言提供的内容。
+Web个性化、预测内容和电子邮件分析应用程序现在提供日语、德语和西班牙语版本。 您 [选择您的语言和区域设置](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 查看您在这些语言中的内容。
 
 ![](assets/japanese-web-personalization.png)
 
@@ -47,13 +47,13 @@ Web个性化、预测内容和电子邮件分析应用程序现在提供日语�
 
 **[导入指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
-使用“命名帐户导入”选项，通过CSV上传一次创建或更新多个记录。
+使用“指定帐户导入”选项，通过CSV上传一次创建或更新多个记录。
 
 ![](assets/inatwo.png)
 
 **[电子邮件分析支持](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
-在电子邮件分析中将指定帐户或帐户列表用作维度。
+在电子邮件分析中使用指定帐户或帐户列表作为维度。
 
 ![](assets/ei.png)
 
@@ -81,17 +81,17 @@ Web个性化、预测内容和电子邮件分析应用程序现在提供日语�
 
 图像URL和元数据现在用于内容自动发现过程。
 
-## [SDK增强功能](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK增强](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
-现在，开发人员通过添加新的SDK API调用（允许开发人员删除推送令牌），对推送通知的投放进行了额外控制。
+现在，开发人员通过添加新的SDK API调用（允许开发人员删除推送令牌），对推送通知的交付进行了额外控制。
 
 ## [Vibes SMS LaunchPoint集成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
 
-使用新的筛选器选项“Vibes列表的成员”来改进您的定位。
+使用新的筛选器选项“Member of Vibes List”改进您的定位。
 
 ## [弃用旧版富文本编辑器和表单编辑器1.0](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
-从2017年8月1日开始，仍使用旧版富文本编辑器和表单编辑器1.0的客户将自动过渡到新体验。
+从2017年8月1日开始，仍在使用旧版富文本编辑器和表单编辑器1.0的客户将自动过渡到新体验。
 
 ## [Marketo活动API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 将任务分配给团队成员 {#assigning-tasks-to-team-members}
 
-如果要与其他团队成员协作，分配任务可能是协调潜在客户工作的好方法。
+如果要与其他团队成员协作，则分配任务是协调潜在客户工作的好方法。
 
 >[!NOTE]
 >
@@ -34,11 +34,11 @@ ht-degree: 0%
 
    ![](assets/assigning-tasks-to-team-members-4.png)
 
-1. 在“分配任务”字段中选择团队中要为其分配任务的人员。
+1. 在“分配任务”字段中选择要为其分配任务的团队成员。
 
    ![](assets/assigning-tasks-to-team-members-5.png)
 
-1. 在“人员”字段中添加您要联系的人员。
+1. 在“人员”字段中添加要联系的人员。
 
    ![](assets/assigning-tasks-to-team-members-6.png)
 

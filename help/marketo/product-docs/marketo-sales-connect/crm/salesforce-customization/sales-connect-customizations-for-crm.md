@@ -43,7 +43,7 @@ ht-degree: 1%
 
 ## 更新Salesforce自定义 {#update-salesforce-customization}
 
-对Salesforce自定义包的更新将包括增强功能和错误修复。 要检查是否有可用更新或执行更新，请执行以下步骤。
+Salesforce自定义包的更新将包括增强功能和错误修复。 要检查是否有可用更新或执行更新，请执行以下步骤。
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ ht-degree: 1%
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Sales Connect Customization卡将显示是否有更新。 单击 **更新自定义项**.
+1. Sales Connect Customization卡将显示是否有可用更新。 单击 **更新自定义项**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
@@ -65,7 +65,7 @@ ht-degree: 1%
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
-1. 等待安装更新。 根据您需要的版本号数量，安装时间会有所不同。
+1. 等待安装更新。 根据所需的版本号数量，安装时间会有所不同。
 
    ![](assets/sales-connect-customizations-for-crm-10.png)
 
@@ -75,22 +75,22 @@ ht-degree: 1%
 
 ## 自定义活动字段 {#custom-activity-fields}
 
-Marketo将检测新字段的创建，然后执行一次性数据回填、重新映射和将值持续同步到 **新** 仅字段。 不会更新旧字段。
+Marketo将检测新字段的创建，然后执行一次性数据回填、重新映射和将值持续同步到 **新建** 仅字段。 不会更新旧字段。
 
 | **字段名称** | **描述** |
 |---|---|
 | MSE调用本地存在ID | 作为用户，当您从MSE电话进行呼叫时，可以选择“本地存在”作为选项。 来电将显示接收者的本地号码。 |
-| MSE呼叫记录URL | 可以录制呼叫，并在此处记录录制链接。 |
-| MSE营销活动 | 联系人/潜在客户所属的MSE营销活动的日志名称。 |
+| MSE呼叫录音URL | 可以录制呼叫，并在此处记录录制链接。 |
+| MSE活动 | 联系人/潜在客户所属的MSE营销活动的日志名称。 |
 | MSE营销活动URL | 记录在MSE中创建的营销活动的URL。 单击此项将在MSE Web应用程序中打开营销活动。 |
-| MSE营销活动当前步骤 | 如果联系人/潜在客户属于营销活动，此字段将记录该潜在客户/联系人当前所在步骤的名称。 |
+| MSE营销活动当前步骤 | 如果联系人/潜在客户属于营销策划，此字段将记录该潜在客户/联系人当前所在步骤的名称。 |
 | 已查看MSE电子邮件附件 | 在发送带有附件的电子邮件且收件人查看附件时记录数据。 |
 | 已单击MSE电子邮件 | 当收件人单击电子邮件中的链接时，记录复选标记。 |
 | MSE电子邮件已回复 | 在收件人回复电子邮件时记录复选标记。 |
 | MSE电子邮件状态 | 显示电子邮件是否已发送/进行中/退回（跟踪退回的电子邮件取决于使用的投放渠道）。 |
 | MSE电子邮件模板 | 发送给潜在客户/联系人的电子邮件中使用的MSE模板的日志名称。 |
-| MSE电子邮件模板URL | 将URL记录到在MSE中创建的模板。 单击此项将在MSE Web应用程序中打开模板。 |
-| MSE电子邮件URL | 单击此URL将在MSE中打开命令中心，并拉出“人员详细信息查看历史记录”选项卡，您可以在其中查看已发送的电子邮件。 |
+| MSE电子邮件模板URL | 将指向MSE中创建的模板的URL记录下来。 单击此项将在MSE Web应用程序中打开模板。 |
+| MSE电子邮件URL | 单击此URL将在MSE中打开命令中心，并拉出“人员详细信息”视图历史记录选项卡，您可以在其中查看已发送的电子邮件。 |
 | 已查看MSE电子邮件 | 在收件人查看电子邮件时记录复选标记。 |
 
 ## 汇总日志记录字段 {#roll-up-logging-fields}
@@ -126,8 +126,8 @@ Marketo将检测新字段的创建，然后执行一次性数据回填、重新�
    <td colspan="1">参与类型。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">MSE — 按销售列出的最近一次活动<br></td> 
-   <td colspan="1">由Sales团队执行的最后一个传出活动。</td> 
+   <td colspan="1">MSE — 按销售列出的最近活动<br></td> 
+   <td colspan="1">销售团队执行的最后一次传出活动。</td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE — 上次回复</td> 
@@ -135,11 +135,11 @@ Marketo将检测新字段的创建，然后执行一次性数据回填、重新�
   </tr> 
   <tr> 
    <td colspan="1">MSE — 当前促销活动</td> 
-   <td colspan="1">潜在客户/联系人所属的MSE营销活动的日志名称。</td> 
+   <td colspan="1">记录潜在客户/联系人所属的MSE营销活动的名称。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">MSE — 上一个销售项目</td> 
-   <td colspan="1">来自Sales的上次传入预订。 </td> 
+   <td colspan="1">MSE — 上次销售参与</td> 
+   <td colspan="1">来自销售人员的最后一次传入预订。 </td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE — 选择退出</td> 
@@ -168,6 +168,6 @@ Marketo将检测新字段的创建，然后执行一次性数据回填、重新�
 
 [Salesforce中的MSE自定义报表](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[Salesforce的MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[适用于Salesforce的MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[Salesforce Lightning的MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[用于Salesforce Lightning的MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

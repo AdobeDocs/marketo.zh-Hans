@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. 输入名称和可选 [!UICONTROL 描述]，然后单击 **[!UICONTROL 下一个]**. API名称会自动填充，但可以自定义。
+1. 输入名称和可选 [!UICONTROL 描述]，然后单击 **[!UICONTROL 下一个]**. API名称会自动填充，但可对其进行自定义。
 
    ![](assets/create-a-custom-activity-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >如果您决定更改API名称，请确保该名称不会与其他自定义活动中的字段冲突。
 
-1. 定义 [!UICONTROL 筛选条件] 和 [!UICONTROL 触发器] 并单击 **[!UICONTROL 下一个]**.
+1. 定义您的 [!UICONTROL 筛选] 和 [!UICONTROL 触发器] 并单击 **[!UICONTROL 下一个]**.
 
    ![](assets/create-a-custom-activity-5.png)
 

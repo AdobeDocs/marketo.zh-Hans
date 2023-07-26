@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 显示已知人员的自定义HTML表单 {#show-custom-html-form-for-known-people}
 
-如果访客（以前提供过电子邮件地址的已知人员）已被确认，那么为什么要麻烦填写表单？ 只要给他们下载按钮就行。 下面是具体操作方法。
+如果访客（以前提供过电子邮件地址的已知人员）已进行编码，那么为什么要麻烦填写表单？ 只要给他们下载按钮就行。 具体方法如下。
 
 1. 转到 **营销活动**.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. 单击 ![—](assets/image2014-9-25-14-3a1-3a26.png) 编辑 **自定义HTML** 向已知人员显示。
+1. 单击 ![—](assets/image2014-9-25-14-3a1-3a26.png) 以编辑 **自定义HTML** 向已知人展示。
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    |---|---|
    | `{{lead.FirstName}}` | 这将显示人员的名字。 |
    | `{{lead.LastName}}` | 这将显示人员的姓氏。 |
-   | `{{form.Button:default=Download}}` | 这将显示表单按钮。 将区域替换在 `=` 以更改按钮文本。 |
+   | `{{form.Button:default=Download}}` | 这将显示表单按钮。 将区域替换在 `=` 更改按钮文本。 |
    | `{{form.NotYou:default=Not you?}}` | 该链接会显示该人员是其他人时的链接。 将区域替换在 `=` 以更改链接文本。 |
 
    >[!CAUTION]
@@ -68,7 +68,7 @@ ht-degree: 0%
    >
    >请记住 [批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表单更改创建。
 
-   一块蛋糕！ 查看人员返回同一表单时会看到什么：
+   一块蛋糕！ 查看人员返回同一表单时会看到的内容：
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 

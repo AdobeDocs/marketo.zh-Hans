@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在“计划”视图中创建新电子邮件程序 {#creating-a-new-email-program-in-the-schedule-view}
 
-您可以从项目计划视图内构建电子邮件项目。 下面是具体操作方法。
+您可以从项目计划视图内构建电子邮件项目。 具体方法如下。
 
 1. 转到 **营销活动**.
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/learnaboutthespeaker.png)
 
-   除了详细仪表板之外，使用 [电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) 能够轻松地实施 [A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). 尽情享受！
+   除了详细仪表板之外，使用 [电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) 能够轻松实施 [A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). 祝您使用愉快！

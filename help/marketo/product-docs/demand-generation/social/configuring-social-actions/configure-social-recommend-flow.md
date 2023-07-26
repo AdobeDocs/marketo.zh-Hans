@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2950549
 description: 配置社交推荐流程 — Marketo文档 — 产品文档
-title: 配置社交推荐流
+title: 配置社交推荐流程
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 配置社交推荐流 {#configure-social-recommend-flow}
+# 配置社交推荐流程 {#configure-social-recommend-flow}
 
 在创建社交应用程序时，您可以配置社交网络选项，并在用户注册时提示用户遇到这些选项。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    如果您选择 **添加动态内容**，页面的OpenGraph标记（og：title、og：caption和og：description）和缩略图的值会自动添加到Facebook帖子中。 请参阅下一步。
 
-   如果您选择 **添加静态内容**，输入标题、字幕和描述，然后上传图像。 请参阅接下来的两个步骤。
+   如果您选择 **添加静态内容**，输入标题、标题和描述，然后上传图像。 请参阅下面的两个步骤。
 
 1. 在“查看和编辑”窗口中，单击 **显示编辑** 自定义将显示在Facebook帖子中的共享提示和消息。
 
@@ -63,15 +63,15 @@ ht-degree: 0%
    >
    >此 [共享URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) 自动添加到所有共享消息。
 
-1. 如果您选择 **添加静态内容** 在上方编辑标题、字幕和描述，并上传自定义图像(通过Marketo图像和文件)。
+1. 如果您选择 **添加静态内容** 在上方编辑标题、标题和描述，并上传自定义图像(从Marketo图像和文件)。
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   参见 [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   请参阅 [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
-   >如果上传图像，则在关闭并重新打开社交应用程序编辑器之前，您将不会在此处看到该图像。
+   >如果上传图像，则直到关闭并重新打开社交应用程序编辑器后，您才会在此处看到该图像。
 
 1. 单击 **下一个**.
 
@@ -97,9 +97,9 @@ ht-degree: 0%
 
    如果您选择 **添加动态** “内容”、“页面标记”的值（标题和描述）以及缩略图会自动添加到LinkedIn帖子中。 请参阅下一步。
 
-   如果您选择 **添加静态** 内容，输入标题、字幕和描述，然后上传图像。 请参阅接下来的两个步骤。
+   如果您选择 **添加静态** 内容，输入标题、标题和描述，然后上传图像。 请参阅下面的两个步骤。
 
-1. 在 **查看和编辑** 窗口，单击 **显示编辑** 和编辑将显示在LinkedIn帖子中的共享提示和消息。
+1. 在 **查看和编辑** 窗口，单击 **显示编辑** 并编辑将显示在LinkedIn帖子中的共享提示和消息。
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -107,21 +107,21 @@ ht-degree: 0%
    >
    >使用 {html_title} 在帖子文本中自动显示页面标题。
 
-1. 如果您选择 **添加静态** 内容，编辑标题和描述，并上传自定义图像(通过Marketo图像和文件)。
+1. 如果您选择 **添加静态** 内容，编辑标题和描述，并上传自定义图像(从Marketo图像和文件)。
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   参见 [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   请参阅 [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
-   >如果上传图像，则在关闭并重新打开社交应用程序编辑器之前，您将不会在此处看到该图像。
+   >如果上传图像，则直到关闭并重新打开社交应用程序编辑器后，您才会在此处看到该图像。
 
 1. 单击 **下一个**.
 
 ## 配置确认消息 {#configure-the-confirmation-message}
 
-1. 编辑共享确认的文本。
+1. 编辑共享确认文本。
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 

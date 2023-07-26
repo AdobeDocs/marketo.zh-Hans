@@ -6,14 +6,14 @@ exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # 管理标记值 {#managing-tag-values}
 
-[标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 用于描述程序。 您可以根据需要创建任意数量的属性，每个属性都具有唯一值。 下面是如何管理这些值。
+[标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 用于描述程序。 您可以根据需要进行任意数量的更改，每个更改都有唯一值。 下面是如何管理这些价值的。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[创建新的项目标记和标记值](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
+>[创建新的程序标记和标记值](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## 添加标记值 {#adding-tag-values}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/managing-tag-values-2.png)
 
-1. 单击 **[!UICONTROL 新]**，则 **[!UICONTROL 新标记值]**.
+1. 单击 **[!UICONTROL 新建]**，则 **[!UICONTROL 新标记值]**.
 
    ![](assets/managing-tag-values-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/managing-tag-values-6.png)
 
-您应会立即看到更改！
+您应该会立即看到更改！
 
 ![](assets/managing-tag-values-7.png)
 

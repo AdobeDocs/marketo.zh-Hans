@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 关键词趋势图表 {#seo-keyword-trends-chart}
 
-监视关键字的方式很重要 [SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 逐渐成为热门话题。 查看此酷炫图表以监控进度。
+监视关键字的方式很重要 [SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 是长期的热门课程。 查看此酷炫图表以监控进度。
 
 1. 转到 **[!UICONTROL 关键字]** 部分。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   它显示您的 [SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 过去30天：
+   它显示您的 [SERP等级](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 过去30天：
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 

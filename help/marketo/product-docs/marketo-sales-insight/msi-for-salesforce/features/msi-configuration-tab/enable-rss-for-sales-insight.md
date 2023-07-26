@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-如果Marketo用户不仅要在Salesforce中而且要在RSS馈送中查看其潜在客户馈送，则必须先由Marketo管理员启用它。 这很容易。
+如果Marketo用户不仅要在Salesforce中，而且要在RSS馈送中查看其潜在客户馈送，则必须先由Marketo管理员启用它。 这很容易。
 
 1. 在“我的Marketo”中，单击 **管理员** 然后 **销售分析**.
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. 在设置中，单击 **编辑**. 请注意，RSS馈送显示为 **已禁用**.
+1. 在“设置”中，单击 **编辑**. 请注意，RSS源显示为 **已禁用**.
 
    ![](assets/rss-settings-tab.png)
 

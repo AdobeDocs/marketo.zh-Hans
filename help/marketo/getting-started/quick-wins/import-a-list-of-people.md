@@ -6,7 +6,7 @@ exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 步骤1：下载并编辑电子表格 {#step-download-and-edit-a-spreadsheet}
 
-1. 要开始操作，请下载我们的实践电子表格文件([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"})到您的计算机。
+1. 要开始，请下载我们的实践电子表格文件([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"})到您的计算机。
 
    ![](assets/import-a-list-of-people-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >正在导入的任何日期/时间字段都将被视为中部时间。 如果您的日期/时间字段位于不同的时区，则可以使用Excel公式将其转换为中部时间（美洲/芝加哥）。
 
-1. 添加您自己的名字、姓氏、实际电子邮件地址（以便接收您下次执行任务时将发送的培养电子邮件）以及职务。 将文件保存在计算机上。
+1. 添加您自己的名字、姓氏、实际电子邮件地址（这样您就可以接收将在下一个任务中发送的培养型电子邮件）以及职务。 将文件保存在计算机上。
 
    ![](assets/import-a-list-of-people-2.png)
 
@@ -43,31 +43,31 @@ ht-degree: 0%
    >
    >Marketo会 **非** 支持包含表情符号的电子邮件地址。
 
-## 步骤2：创建项目 {#step-create-a-program}
+## 第2步：创建项目 {#step-create-a-program}
 
 1. 转到 **[!UICONTROL 营销活动]** 区域。
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. 选择您的 **学习** 文件夹，然后在 **[!UICONTROL 新]** 点击 **[!UICONTROL 新建项目群]**.
+1. 选择您的 **学习** 文件夹，然后在 **[!UICONTROL 新建]** 单击 **[!UICONTROL 新建项目群]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **名称** “My Tradeshow Program”（我的贸易展计划）并选择“Event”（事件） **[!UICONTROL 项目类型]**.
+1. **名称** “我的贸易展计划”并选择“事件”作为 **[!UICONTROL 项目类型]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. 选择 **[!UICONTROL 贸易展]** 对于 **[!UICONTROL 渠道]** 并单击 **[!UICONTROL 创建]**.
+1. 选择 **[!UICONTROL 商展]** 对于 **[!UICONTROL 渠道]** 并单击 **[!UICONTROL 创建]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
->活动计划于特定日期进行。 详细了解 [**事件**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
+>事件程序在特定日期发生。 了解有关 [**活动**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
 ## 步骤3：将电子表格导入Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. In **我的贸易展览计划**，单击 **[!UICONTROL 新]** 并选择 **[!UICONTROL 新建本地资产]**.
+1. 在 **我的贸易展览计划**，单击 **[!UICONTROL 新建]** 并选择 **[!UICONTROL 新建本地资产]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **名称** “展会与会者”列表，然后单击 **[!UICONTROL 创建]**.
+1. **名称** “贸易展览与会者”列表并单击 **[!UICONTROL 创建]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您使用自己的CSV文件，请确保其编码为UTF-8、UTF-16、Shift-JIS或EUC-JP。
+   >如果您使用自己的CSV文件，请确保该文件采用UTF-8、UTF-16、Shift-JIS或EUC-JP编码。
 
    >[!NOTE]
    >
@@ -97,7 +97,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在列表导入模式下，选择 **[!UICONTROL 跳过新人员和更新]** 表示您不会影响现有人员记录或记录任何活动。 如果您希望在营销活动中使用的现有人员的快速预过滤静态列表，请使用此模式。 选择此模式将：
+   >在列表导入模式下，选择 **[!UICONTROL 跳过新人员和更新]** 意味着您不会影响现有人员记录或记录任何活动。 如果您希望在营销活动中使用的现有人员的快速、预过滤静态列表，请使用此模式。 选择此模式将：
    >
    > * 跳过新人员创建
    > * 跳过人员字段更新
@@ -123,17 +123,17 @@ ht-degree: 0%
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. 返回 **我的贸易展览计划**，单击 **[!UICONTROL 成员]** 选项卡。 您将看到您刚刚导入的所有人员。
+1. 返回 **我的贸易展览计划**，单击 **[!UICONTROL 成员]** 选项卡。 您将看到所有您刚刚导入的人员。
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->您可以通过跟踪计划会员资格来分析计划是否成功。 详细了解 [**程序**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>您可以通过跟踪计划会员资格来分析计划是否成功。 了解有关 [**程序**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
 ## 任务完成 {#mission-complete}
 
-您的商展与会者现已成为Marketo计划的成员！
+您的商展与会者现在已成为Marketo计划的成员！
 
 <br> 
 

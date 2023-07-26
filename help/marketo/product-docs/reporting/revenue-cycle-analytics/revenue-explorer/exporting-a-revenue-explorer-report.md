@@ -15,7 +15,7 @@ ht-degree: 1%
 
 您可以导出任何收入资源管理器报表并与任何人共享。
 
-1. 单击“齿轮”图标，选择 **导出** 并选择文件格式。
+1. 单击齿轮图标，选择 **导出** 并选择文件格式。
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -31,8 +31,8 @@ ht-degree: 1%
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
-   真贴心！ 四处发送此文件，并通过您类似于忍者的营销技能给同行留下深刻印象。
+   真贴心！ 四处发送此文件，并通过您类似忍者的营销技能给同行留下深刻印象。
 
 >[!MORELIKETHIS]
 >
->[订阅Revenue Explorer报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[订阅收入浏览器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

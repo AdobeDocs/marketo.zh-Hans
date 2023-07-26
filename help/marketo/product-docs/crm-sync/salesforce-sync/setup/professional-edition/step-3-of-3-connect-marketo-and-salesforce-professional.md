@@ -18,13 +18,13 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [第1步（共3步）：将Marketo字段添加到Salesforce（专业）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
->* [第2步（共3步）：创建Salesforce用户以使用Marketo（专业）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>* [第2步（共3步）：创建Marketo的Salesforce用户（专业）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
 
 ## 检索同步用户安全令牌 {#retrieve-sync-user-security-token}
 
 >[!TIP]
 >
->如果您已经拥有安全令牌，请直接进入“设置同步用户凭据”和“待准备”！
+>如果您已经具有安全令牌，请直接进入“设置同步用户凭据”和“称号”以进行准备！
 
 1. 使用Marketo同步用户登录Salesforce，单击同步用户的名称，然后 **我的设置**.
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 ## 设置同步用户凭据 {#set-sync-user-credentials}
 
-1. 在Marketo中，转到 **管理员**，选择 **CRM**，然后单击 **与同步 [Salesforce.com](https://Salesforce.com)**.
+1. 在Marketo中，转到 **管理员**，选择 **CRM**，然后单击 **同步 [Salesforce.com](https://Salesforce.com)**.
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >请确保 [隐藏所有不需要的字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) 从Marketo中同步用户，然后单击 **同步字段**. 单击“同步字段”后，将会在Marketo中永久创建用户可以查看的所有字段，并且这些字段无法删除。
+   >请务必 [隐藏所有不需要的字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) (在Marketo中从同步用户访问，然后单击 **同步字段**. 单击“同步字段”后，该用户可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
 
 1. 输入在Salesforce配置第2部分中创建的Salesforce同步用户凭据([专业](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)， [企业](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 并单击 **同步字段**.
 
@@ -86,13 +86,13 @@ ht-degree: 0%
 
 ## 验证同步 {#verify-sync}
 
-Marketo在管理区域提供Salesforce同步的状态消息。 您可以按照以下步骤验证同步是否正常工作。
+Marketo在管理区域为Salesforce同步提供状态消息。 您可以按照以下步骤验证同步是否正常工作。
 
 1. 在Marketo中，单击 **管理员**，则 **Salesforce**.
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. 同步状态显示在右上角。 它将显示以下三条消息之一： **上次同步**， **正在进行同步**，或 **失败**.
+1. 同步状态将显示在右上角。 它将显示以下三条消息之一： **上次同步**， **正在进行同步**，或 **失败**.
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 
@@ -100,9 +100,9 @@ Marketo在管理区域提供Salesforce同步的状态消息。 您可以按照�
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-哇，您刚刚完成了对Marketo最强大功能之一的配置，现在就开始！
+哇，您刚刚完成了Marketo最强大功能的配置，现在就开始！
 
 >[!MORELIKETHIS]
 >
 >* [在SalesforceAppExchange中安装Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [在Salesforce Professional Edition中配置Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [在Salesforce专业版中配置Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)

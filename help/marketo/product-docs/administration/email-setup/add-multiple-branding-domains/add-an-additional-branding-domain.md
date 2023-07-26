@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11377395
-description: 添加附加品牌推广域 — Marketo文档 — 产品文档
-title: 添加附加品牌推广域
+description: 添加其他品牌推广域 — Marketo文档 — 产品文档
+title: 添加附加品牌策略域
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 添加附加品牌推广域 {#add-an-additional-branding-domain}
+# 添加附加品牌策略域 {#add-an-additional-branding-domain}
 
-当您从单个Marketo实例中运行多个品牌，并希望每个品牌都有自己的品牌跟踪链接时，可以添加一个额外的品牌推广域。
+当您在单个Marketo实例中运行多个品牌并希望每个品牌都有自己的品牌跟踪链接时，可以添加额外的品牌推广域。
 
 >[!PREREQUISITES]
 >

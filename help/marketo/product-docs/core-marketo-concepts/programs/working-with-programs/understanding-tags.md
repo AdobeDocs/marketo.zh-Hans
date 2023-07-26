@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 了解标记 {#understanding-tags}
 
-您现在可能知道，程序就像Marketo中的构建基块。 利用标记和渠道将帮助您筛选数据以用于报表。
+您现在可能知道，程序就像Marketo中的构建基块。 利用标记和渠道将帮助您过滤用于报告的数据。
 
-标记用于描述程序。 您可以根据需要创建任意数量的属性，每个属性都具有唯一值。 渠道标识项目中的投放机制，例如网络研讨会、赞助或在线广告。
+标记用于描述程序。 您可以根据需要进行任意数量的更改，每个更改都有唯一值。 渠道可识别项目中的投放机制，例如网络研讨会、赞助或在线广告。
 
 ## 标记类型 {#tag-type}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->与您的 [Marketo管理员](/help/marketo/product-docs/administration/tags/create-custom-tags.md) 如果您想要创建自定义标记。
+>与您的 [Marketo管理员](/help/marketo/product-docs/administration/tags/create-custom-tags.md) 如果您要创建自定义标记。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 标记值 {#tag-value}
 
-每个标记类型都将具有可供选择的值。
+每种标记类型都有值可供选择。
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 渠道 {#channel}
 
-渠道用于报告 [成员](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 已移动您的项目。 每个渠道都有一组进度状态，以及一个设置为等于成功的状态。
+渠道用于报告您的 [成员](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 已移动您的项目。 每个渠道都有一组进展状态和一个设置为等同成功的状态。
 
 >[!NOTE]
 >
@@ -62,4 +62,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [创建自定义标记](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [创建项目群渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [创建项目频道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)

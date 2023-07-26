@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783559
-description: 分享时刻 — Marketo文档 — 产品文档
+description: 分享瞬间 — Marketo文档 — 产品文档
 title: 分享时刻
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 分享时刻 {#sharing-a-moment}
 
-想要向您的团队提供更新？ 您可以选择以下两个选项进行共享：
+想要向您的团队提供更新？ 您可以选择两个共享：
 
 1. 点按 **共享** 图标。
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >共享取决于您的手机上安装的应用。 因此，如果您没有Facebook，在“时刻”中就不会看到它。
+   >共享取决于手机上安装的应用。 因此，如果您没有Facebook，则在“时刻”中不会看到它。
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
-1. 输入收件人的地址、主题并点按 **发送**.
+1. 输入收件人的地址、主题，然后点击 **发送**.
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 

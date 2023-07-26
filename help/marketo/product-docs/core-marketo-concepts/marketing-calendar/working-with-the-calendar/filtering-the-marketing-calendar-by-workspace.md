@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147306
-description: 按工作区筛选营销日历 — Marketo文档 — 产品文档
+description: 按工作区过滤营销日历 — Marketo文档 — 产品文档
 title: 按工作区筛选营销日历
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 营销日历可以按特定工作区中的对象进行过滤。
 
-1. 单击 **[!UICONTROL 日历]** 图块。
+1. 单击 **[!UICONTROL 日历]** 磁贴。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
-   太棒了！ 现在，您只会看到在该特定工作区中构建的对象。
+   太棒了！ 现在，您将只看到在该特定工作区中构建的对象。
 
    >[!NOTE]
    >

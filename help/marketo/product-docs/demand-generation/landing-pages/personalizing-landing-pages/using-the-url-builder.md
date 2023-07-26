@@ -19,7 +19,7 @@ URL生成器可帮助您构建可填充Marketo隐藏表单字段的URL。
 >
 >了解如何在表单中创建隐藏字段并在中编辑其设置 [将表单字段设置为隐藏](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
-1. 选择一个登陆页面，单击 **登陆页面操作**，将鼠标悬停在 **URL工具**，然后单击 **URL生成器**.
+1. 选择一个登陆页面，单击 **登陆页面操作**，悬停在 **URL工具**，然后单击 **URL生成器**.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 

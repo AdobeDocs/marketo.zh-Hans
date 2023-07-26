@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 
-此模板包含以下内容：
+此模板包括以下内容：
 
-* 标头（可选）
+* 标题（可选）
 * 主分区
 
    * 包括主页文本和抽奖
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 五个正文部分（可选）
 * 页脚（可选）
 
-**右键单击以下内容可下载此模板：**
+**右键单击以下内容以下载此模板：**
 
 [模板18D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)

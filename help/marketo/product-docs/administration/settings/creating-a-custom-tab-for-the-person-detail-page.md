@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建人员详细信息页面的自定义选项卡 {#creating-a-custom-tab-for-the-person-detail-page}
 
-如果您发现自己正在人员详细信息中反复查找一组特定的字段，请考虑创建自定义布局以简化操作。
+如果您发现自己需要在人员详细信息中反复查找一组特定的字段，请考虑创建自定义布局以简化操作。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-4.png)
 
-1. 继续添加字段，直到布局符合您的要求。
+1. 继续添加字段，直到获得所需的布局。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-5.png)
 
@@ -43,6 +43,6 @@ ht-degree: 0%
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   做得很棒！ 现在，当您加载人员的详细信息时，可以使用自定义布局访问对您而言重要的信息。
+   做得很棒！ 现在，当您加载人员详细信息时，可以使用自定义布局访问对您而言非常重要的信息。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

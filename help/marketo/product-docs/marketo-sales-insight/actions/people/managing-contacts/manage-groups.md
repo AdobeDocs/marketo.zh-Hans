@@ -5,14 +5,14 @@ exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
 
 # 管理组 {#manage-groups}
 
-了解如何在Sales Insight Actions中管理组。
+了解如何在Sales Insight Actions中管理您的组。
 
 ## 组类型 {#group-types}
 
@@ -28,15 +28,15 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>所有人员</td> 
-   <td>您可见的所有用户的所有联系人。</td> 
+   <td>所有用户对您可见的所有联系人。</td> 
   </tr> 
   <tr> 
    <td>动态组</td> 
-   <td>我的联系人：您拥有的所有联系人。<br>取消订阅：已选择退出接收通信的联系人。</td> 
+   <td>我的联系人：您拥有的所有联系人。<br>取消订阅：已选择退出接收信件的联系人。</td> 
   </tr> 
   <tr> 
    <td>我的组</td> 
-   <td>您创建的组。 它们可以包含您的联系人或已与您共享的联系人。</td> 
+   <td>您已创建的组。 它们可以包含您的联系人或已与您共享的联系人。</td> 
   </tr> 
   <tr> 
    <td>团队组</td> 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/manage-groups-1.png)
 
-1. 命名您的组并单击 **创建**.
+1. 命名您的群组并单击 **创建**.
 
    ![](assets/manage-groups-2.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能必须点击“刷新”才能查看添加的任何新联系人。
+   >您可能必须点击“刷新”才能看到添加的任何新联系人。
 
 ## 共享组 {#share-a-group}
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    ![](assets/manage-groups-6.png)
 
-1. 单击圆点（三个垂直的圆点）并选择 **共享**.
+1. 单击圆点（三个垂直的点）并选择 **共享**.
 
    ![](assets/manage-groups-7.png)
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
    ![](assets/manage-groups-8.png)
 
-   您仍然拥有该组，但它现在将显示在下 _团队组_.
+   您仍拥有该组，但它现在将显示在下 _团队组_.
 
 ## 取消共享组 {#unshare-a-group}
 
@@ -103,11 +103,11 @@ ht-degree: 0%
 
    ![](assets/manage-groups-9.png)
 
-1. 单击圆点（三个垂直的圆点）并选择 **共享**.
+1. 单击圆点（三个垂直的点）并选择 **共享**.
 
    ![](assets/manage-groups-10.png)
 
-1. 单击 **X** 单击与您共享该组的团队旁边，然后单击退出该模式。
+1. 单击 **X** 在与您共享该组的团队旁边，然后单击退出该模式。
 
    ![](assets/manage-groups-11.png)
 
@@ -119,7 +119,7 @@ ht-degree: 0%
 
    ![](assets/manage-groups-12.png)
 
-1. 单击圆点（三个垂直的圆点）并选择 **编辑**.
+1. 单击圆点（三个垂直的点）并选择 **编辑**.
 
    ![](assets/manage-groups-13.png)
 
@@ -129,11 +129,11 @@ ht-degree: 0%
 
 ## 删除组 {#delete-a-group}
 
-1. 在“人员”页面中，查找并选择要删除的组。
+1. 在“人员”页中，查找并选择要删除的组。
 
    ![](assets/manage-groups-15.png)
 
-1. 单击圆点（三个垂直的圆点）并选择 **删除**.
+1. 单击圆点（三个垂直的点）并选择 **删除**.
 
    ![](assets/manage-groups-16.png)
 

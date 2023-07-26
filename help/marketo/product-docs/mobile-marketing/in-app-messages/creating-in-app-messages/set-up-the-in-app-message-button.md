@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
-1. 单击颜色选择方框，然后单击按钮颜色，或在拾色器上输入十六进制或RGB号来选择按钮颜色。
+1. 单击颜色选择方框并选择按钮颜色，方法是单击按钮颜色或输入拾色器上的十六进制或RGB号。
 
    ![](assets/image2016-5-6-15-3a14-3a8.png)
 
-1. 在下拉列表中选择形状。 标准形状选项包括尖角、圆角和渐变。
+1. 在下拉列表中选择形状。 标准形状选项包括尖角、圆角以及渐变。
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >为按钮放置自定义图像时，如果图像已包含文本，请考虑清除置于按钮上的占位符文本。
+   >为按钮放置自定义图像时，如果图像已包含文本，请考虑清除置于其上的占位符文本。
 
-1. 单击颜色选择方框，然后单击字体颜色或在拾色器上输入十六进制或RGB号来选择字体颜色。
+1. 单击颜色选择方框，然后通过单击字体颜色或在拾色器上输入十六进制或RGB号来选择字体颜色。
 
    ![](assets/image2016-5-6-16-3a39-3a4.png)
 
@@ -59,11 +59,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a46-3a17.png)
 
-1. 选中方框以设置按钮点击操作。
+1. 选中方框可设置按钮点击操作。
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-1. 单击每个平台的下拉列表，然后选择点击操作。
+1. 单击每个平台的下拉列表，然后选择点按操作。
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
    >
    >按钮始终具有点按操作，因此点按操作复选框会自动选中，默认消息为“解除消息”。
 
-快到了。 您的最后一步是 [配置应用程序内消息后台并取消按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+快到了。 您的最后一步是 [配置应用程序内消息背景并关闭按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >

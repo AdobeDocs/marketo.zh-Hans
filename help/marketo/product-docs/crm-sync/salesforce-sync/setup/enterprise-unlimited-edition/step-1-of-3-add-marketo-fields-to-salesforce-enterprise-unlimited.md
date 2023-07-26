@@ -19,15 +19,15 @@ ht-degree: 7%
 
 Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您希望在Salesforce中使用此数据，请按照下面的说明操作。
 
-1. 在Salesforce中针对潜在客户和联系人对象创建三个自定义字段：“得分”、“客户获取计划”和“客户获取日期”。
+1. 在Salesforce中创建有关潜在客户和联系对象的三个自定义字段：“得分”、“客户获取计划”和“客户获取日期”。
 1. 在潜在客户和联系人之间映射这些自定义字段，以便在Salesforce中进行转换时，值会延续。
 1. 如有必要，您可以创建其他附加字段（请参阅下表）。
 
-所有这些自定义字段都是可选的，不需要用于同步Marketo和Salesforce。 作为最佳实践，我们建议您为“得分”、“客户获取计划”和“客户获取日期”创建字段。
+所有这些自定义字段都是可选的，并且不是同步Marketo和Salesforce的必需字段。 作为最佳实践，我们建议您为“得分”、“客户获取计划”和“客户获取日期”创建字段。
 
 ## 将Marketo字段添加到Salesforce {#add-marketo-fields-to-salesforce}
 
-在上面列出的Salesforce中的潜在客户和联系人对象中添加三个自定义字段。 如果要添加更多，请参阅此部分末尾的可用字段表。
+在上面列出的Salesforce中的潜在客户和联系人对象上添加三个自定义字段。 如果要添加更多字段，请参阅本节末尾的可用字段表。
 
 对三个自定义字段中的每一个执行以下步骤以添加它们。 从得分开始。
 
@@ -35,11 +35,11 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. 在左侧的Build菜单中，单击 **自定义** 并选择 **潜在客户**. 单击 **字段**.
+1. 在左侧的“生成”菜单中，单击 **自定义** 并选择 **潜在客户**. 单击 **字段**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. 单击 **新** 页面底部的自定义字段和关系部分。
+1. 单击 **新建** 页面底部的自定义字段和关系部分。
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -98,19 +98,19 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 >[!NOTE]
 >
->Salesforce在使用__c创建API名称时将它们附加到字段名称。
+>Salesforce在创建API名称时将__c附加到字段名称。
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
 >[!NOTE]
 >
->文本和数字字段需要长度，但日期/时间字段不需要。描述是可选的。
+>文本和数字字段需要长度，但日期/时间字段不需要。说明是可选的。
 
 1. 单击 **下一个**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. 指定访问设置并单击 **下一个**：
+1. 指定访问设置，然后单击 **下一个**：
 
    * 将所有角色设置为 **可见** 和 **只读**
 
@@ -121,7 +121,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
-1. 选择应显示字段的页面布局。
+1. 选择应显示该字段的页面布局。
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
@@ -129,9 +129,9 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. 在左侧的Build菜单中，单击 **自定义** 并选择“联系人”。 单击“字段”。
+1. 在左侧的“生成”菜单中，单击 **自定义** 并选择“联系人”。 单击“Fields（字段）”。
 1. 对联系对象的“得分”、“客户获取日期”和“客户获取计划”字段执行步骤3至10，就像对潜在客户对象执行操作一样。
-1. （可选）将以上过程用于此表的任何其他自定义字段。
+1. 或者，将上述过程用于此表的任何其他自定义字段。
 
 <table> 
  <thead> 
@@ -238,11 +238,11 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 >[!NOTE]
 >
->创建新字段后，Marketo自动分配的字段中的值不会立即在Salesforce中可用。 在对任一系统上的记录进行下一次更新时(即对Marketo和Salesforce之间同步的任何字段的更新)，Marketo会将数据同步到Salesforce。
+>创建新字段后，Marketo自动分配的字段中的值将无法立即在Salesforce中使用。 在下次更新任一系统上的记录时(即更新在Marketo和Salesforce之间同步的任何字段)，Marketo会将数据同步到Salesforce。
 
-## 映射自定义字段以进行转换 {#map-custom-fields-for-conversions}
+## 映射用于转换的自定义字段 {#map-custom-fields-for-conversions}
 
-Salesforce中商机对象上的自定义字段应映射到联系人对象上的联系人字段，以便在发生转换时保留数据。
+Salesforce中商机对象上的自定义字段应映射到联系对象上的联系字段，以便在发生转化时保留数据。
 
 1. 在右上角，单击 **设置**.
 
@@ -268,8 +268,8 @@ Salesforce中商机对象上的自定义字段应映射到联系人对象上的�
 
 1. 单击 **保存** 等你完事了。
 
-   很简单，对吧？
+   够简单了吧？
 
 >[!MORELIKETHIS]
 >
->[第2步（共3步）：创建Salesforce User for Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[第2步（共3步）：创建Marketo的Salesforce用户(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

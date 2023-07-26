@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352545
-description: Gmail - Marketo文档 — 产品文档中出现意外错误
+description: Gmail中出现意外错误 — Marketo文档 — 产品文档
 title: Gmail中出现意外错误
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect

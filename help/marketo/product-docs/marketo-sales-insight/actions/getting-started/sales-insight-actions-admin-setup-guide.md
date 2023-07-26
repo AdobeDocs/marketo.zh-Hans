@@ -14,11 +14,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是一个基于Web的应用程序，它通过 [Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 它有时称为“Marketo Sales”，或简称为“Actions”。
+>Marketo Sales Insight Actions是一个基于Web的应用程序，它通过 [Marketo销售分析包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 它有时称为“Marketo Sales”，或简称为“Actions”。
 
 >[!PREREQUISITES]
 >
->* 与Adobe客户团队（您的客户经理）确认已为您的Marketo Engage启用MSI操作（如果您没有客户经理，请联系） [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"})。
+>* 与Adobe客户团队（您的客户经理）确认已为您的Marketo Engage启用MSI操作(如果您没有客户经理，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"})。
 >* 必须设置您的Marketo/Salesforce同步。
 
 <table>
@@ -44,7 +44,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td>Marketo管理员</td>
-  <td>邀请用户加入MSI操作</td>
+  <td>邀请用户使用MSI操作</td>
  </tr>
  <tr>
   <td>Salesforce管理员</td>
@@ -64,7 +64,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您在“集成信息”卡片上未看到客户端ID和客户端密钥，请通过邀请第一个用户来激活您的“操作”实例，随后您将看到客户端ID和客户端密钥。
+   >如果在“集成信息”卡片上未看到客户端ID和客户端密钥，请通过邀请第一个用户来激活您的“操作”实例，此时您会看到客户端ID和客户端密钥。
 
 1. 单击 **销售分析**，则 **操作配置**. 从要邀请的Marketo管理员列表中选择并单击 **发送邀请**.
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. 在“连接和定制”选项卡中，单击 **Connect**.
+1. 在“连接和定制”选项卡中，单击 **连接**.
 
    ![](assets/msi-actions-admin-guide-5.png)
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-如果您已登录Salesforce，则会与您建立连接。 否则，将会要求您登录。
+如果您已登录Salesforce，则会连接到网络。 否则，系统将要求您登录。
 
 ## 将Marketo连接到您的Sales Apps帐户 {#connect-marketo-to-your-sales-apps-account}
 
@@ -106,7 +106,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. 单击 **connect**. 随后将连接您的帐户。
+1. 单击 **connect**. 然后，将连接您的帐户。
 
    ![](assets/msi-actions-admin-guide-9.png)
 
@@ -116,11 +116,11 @@ ht-degree: 0%
 
 ## 启动数据同步 {#initiate-data-sync}
 
-Sales Insight Actions的数据统一字段同步使系统可以将Marketo Engage数据库中的人员信息提取到Sales Insight Actions数据库中，使人员数据保持最新，并确保在Marketo和Salesforce中将活动记录到正确的记录中。
+通过Sales Insight Actions的数据统一字段同步，系统可以将人员信息从您的Marketo Engage数据库提取到Sales Insight Actions数据库中，使您的人员数据保持最新，并确保在Marketo和Salesforce中将活动记录到正确的记录中。
 
 >[!CAUTION]
 >
->启动数据同步后，您应该 **非** 删除您的“销售分析操作”实例上的原始用户。 这是第一个邀请发送到的用户。
+>启动数据同步后，您应： **非** 删除您的“销售分析操作”实例上的原始用户。 这是第一个邀请所发送到的用户。
 
 1. 在Marketo中，单击 **管理员**.
 
@@ -142,7 +142,7 @@ Marketo和Salesforce中存在的人员记录将同步到您的Marketo Sales Apps
 
 >[!NOTE]
 >
->要详细了解人员和活动数据如何在Sales Insight Actions、Marketo和Salesforce之间同步， [单击此处](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+>要详细了解Sales Insight Actions、Marketo和Salesforce之间人员和活动数据如何同步， [单击此处](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## 邀请个人用户执行MSI操作 {#invite-individual-users-to-msi-actions}
 
@@ -164,7 +164,7 @@ Marketo和Salesforce中存在的人员记录将同步到您的Marketo Sales Apps
 
 >[!NOTE]
 >
->默认情况下，所有新成员都将添加到Everyone团队。
+>默认情况下，所有新成员都将添加到“所有人”团队中。
 
 您将收到一条确认消息。
 
@@ -194,4 +194,4 @@ Marketo和Salesforce中存在的人员记录将同步到您的Marketo Sales Apps
 
 >[!NOTE]
 >
->完成此操作后，您可以升级现有的MSI软件包或安装新的MSI软件包并转到 [在Salesforce中配置MSI操作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>完成此操作后，您可以升级现有MSI包，或安装新的MSI包并转到 [在Salesforce中配置MSI操作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.

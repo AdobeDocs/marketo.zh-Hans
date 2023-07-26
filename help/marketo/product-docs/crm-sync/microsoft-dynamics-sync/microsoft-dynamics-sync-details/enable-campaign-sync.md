@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->更新至适用于Marketo的Dynamics插件的最新版本。
+>更新到适用于Marketo的Dynamics插件的最新版本。
 
 >[!NOTE]
 >
@@ -42,4 +42,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->重置“Dynamics Campaign同步”复选框将刷新所有以前同步的Campaign数据以及与Dynamics中营销列表的关联。
+>重置Dynamics Campaign同步复选框将刷新所有以前同步的Campaign数据以及与Dynamics中的营销列表的关联。

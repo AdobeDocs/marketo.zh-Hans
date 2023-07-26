@@ -6,16 +6,16 @@ exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
 # 提醒销售代表 {#alert-the-sales-rep}
 
-## 任务：当有人在您的网站上填写表单时提醒销售代表 {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
+## 任务：当某人填写您网站上的表单时提醒销售代表 {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
-要自动向销售代表发送警报电子邮件，您只需要一封警报电子邮件和电子邮件促销活动。 下面是操作方法。
+要自动向销售代表发送警报电子邮件，您只需要一封警报电子邮件和一封电子邮件促销活动。 下面是操作方法。
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. 选择 **我的项目** ，您已在 [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速获胜，然后位于下方 **[!UICONTROL 新]** 点击 **[!UICONTROL 新建本地资产]**.
+1. 选择 **我的项目** 您在中创建的 [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速入选，然后入选 **[!UICONTROL 新建]** 单击 **[!UICONTROL 新建本地资产]**.
 
    ![](assets/alert-the-sales-rep-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/alert-the-sales-rep-4.png)
 
-1. 输入 **发件人名称**， **发件人电子邮件**， **[!UICONTROL 回复]**、和 **[!UICONTROL 主题]** 您希望销售团队了解的信息。
+1. 输入 **发件人名称**， **发件人电子邮件**， **[!UICONTROL 回复]**、和 **[!UICONTROL 主题]** 您希望您的销售团队看到的内容。
 
    ![](assets/alert-the-sales-rep-5.png)
 
@@ -61,19 +61,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} 是警报电子邮件的特殊令牌。 参见 [使用发送警报信息令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} 了解更多信息。
+   >{{SP_Send_Alert_Info}} 是警报电子邮件的特殊令牌。 请参阅 [使用发送警报信息令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} 了解更多信息。
 
 1. 单击 **[!UICONTROL 保存]**.
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. 单击 **[!UICONTROL 电子邮件操作]** 下拉菜单并选择 **[!UICONTROL 批准并关闭]**.
+1. 单击 **[!UICONTROL 电子邮件操作]** 下拉并选择 **[!UICONTROL 批准并关闭]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
 ## 步骤2：创建警报触发器营销活动 {#step-create-an-alert-trigger-campaign}
 
-1. 选择 **我的项目** 之前创建，然后在 **[!UICONTROL 新]** 点击 **[!UICONTROL 新建智能营销活动]**.
+1. 选择 **我的项目** 之前创建，然后在 **[!UICONTROL 新建]** 单击 **[!UICONTROL 新建智能营销活动]**.
 
    ![](assets/alert-the-sales-rep-12.png)
 
@@ -109,19 +109,19 @@ ht-degree: 0%
    >
    >设置 **[!UICONTROL 资格规则]** 到 **[!UICONTROL 每次]** （通过编辑Smart Campaign）以允许同一人员多次触发警报。
 
-1. 单击 **[!UICONTROL 激活]** 确认屏幕上。
+1. 单击 **[!UICONTROL 激活]** 在确认屏幕上。
 
    ![](assets/alert-the-sales-rep-20.png)
 
-## 步骤3：测试！ {#step-test-it-out}
+## 第3步：测试！ {#step-test-it-out}
 
-1. 选择您的登陆页面并单击 **[!UICONTROL 查看已批准的页面]**.
+1. 选择您的登陆页面，然后单击 **[!UICONTROL 查看已批准的页面]**.
 
    ![](assets/alert-the-sales-21.png)
 
    >[!NOTE]
    >
-   >不要忘记批准登陆页面；在获得批准之前，登陆页面不会上线。
+   >不要忘记批准登陆页面；在获得批准之前，登陆页面不会启用。
 
 1. 填写表单并单击 **[!UICONTROL 提交]**.
 
@@ -131,12 +131,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >单击 **[!UICONTROL 人员信息]** Marketo选项卡，以查看联系人信息。
+   >单击 **[!UICONTROL 人员信息]** 按Tab键查看Marketo中的联系人信息。
 
 ## 任务完成！ {#mission-complete}
 
 <br> 
 
-[◄任务7：个性化电子邮件](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[◄ Mission 7：个性化电子邮件](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
 [任务9：更新人员数据►](/help/marketo/getting-started/quick-wins/update-person-data.md)

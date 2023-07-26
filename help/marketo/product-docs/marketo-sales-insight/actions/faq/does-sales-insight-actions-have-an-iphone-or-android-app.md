@@ -12,4 +12,4 @@ ht-degree: 0%
 
 # Sales Insight操作是否有iPhone或Android应用程序？ {#does-sales-insight-actions-have-an-iphone-or-android-app}
 
-Sales Insight Actions目前没有iPhone或Android应用程序。 这是我们希望在将来添加的内容。
+Sales Insight Actions目前不具有iPhone或Android应用程序。 这是我们希望在将来添加的内容。

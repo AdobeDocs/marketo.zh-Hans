@@ -13,18 +13,18 @@ ht-degree: 0%
 
 # 使用智能列表筛选报表中的人员 {#filter-people-in-a-report-with-a-smart-list}
 
-使用智能列表按特定人员属性筛选报表。
+使用智能列表按特定人员属性过滤报表。
 
-可以将智能列表用于以下报表类型：
+您可以将智能列表与以下报表类型一起使用：
 
 * [人员绩效](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [按状态显示的人员](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
 * [按收入阶段划分的人员](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
 * [电子邮件性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [电子邮件链接性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [参与流性能](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [参与流效果](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
 * [营销活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [Campaign电子邮件性能](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [营销活动电子邮件效果](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 * [公司Web活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [网页活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. 从导航树中选择您的报告，然后单击 **智能列表** 选项卡。
+1. 从导航树中选择您的报表，然后单击 **智能列表** 选项卡。
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. 单击 **报告** 选项卡，以查看已过滤的报告。
+1. 单击 **报表** 选项卡，以查看已过滤的报告。
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/managing-marketo-users-4.png)
 
-1. （可选）输入邀请原因，并在 **[!UICONTROL 访问过期]** 使用日期选取器的字段。
+1. （可选）输入邀请原因，然后在以下选项中选择到期日期： **[!UICONTROL 访问过期]** 使用日期选取器的字段。
 
    ![](assets/managing-marketo-users-5.png)
 
@@ -51,13 +51,13 @@ ht-degree: 0%
 
    ![](assets/managing-marketo-users-7.png)
 
-1. 如有必要，对邀请消息进行编辑。 单击 **send**.
+1. 根据需要编辑邀请邮件。 单击 **send**.
 
    ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
-   >电子邮件/登录名必须是唯一的；如果您已在沙盒实例中使用过它，则需要在生产中使用其他电子邮件/登录名，反之亦然。
+   >电子邮件/登录名必须是唯一的；如果您已在沙盒实例中使用过它，则需要在生产中使用不同的电子邮件/登录名，反之亦然。
 
    ![](assets/managing-marketo-users-9.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
    >
    >邀请会在添加新用户后三天过期。
 
-新用户现在列在“用户”选项卡中，并将收到一封电子邮件，其中包含有关如何激活其帐户的说明。
+新用户现在列在用户选项卡中，并将收到一封电子邮件，其中包含有关如何激活其帐户的说明。
 
 ## 删除用户 {#delete-users}
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果用户在其收件箱中看不到该电子邮件，请要求他们检查其垃圾邮件/垃圾邮件文件夹。
+>如果用户在其收件箱中看不到电子邮件，请要求他们检查其垃圾邮件文件夹。
 
 ## 更改权限和编辑用户信息 {#change-permissions-and-edit-user-information}
 

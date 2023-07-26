@@ -19,10 +19,10 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 输入 **新建URL**，选择丢弃或重新定向旧URL，然后单击 **保存**.
+1. 输入 **新URL**，选择丢弃或重新定向旧URL，然后单击 **保存**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >如果您决定保留这两个URL，则会自动创建一个重定向规则。 详细了解 [URL重定向](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >如果您决定要保留这两个URL，则会自动创建重定向规则。 了解有关 [URL重定向](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).

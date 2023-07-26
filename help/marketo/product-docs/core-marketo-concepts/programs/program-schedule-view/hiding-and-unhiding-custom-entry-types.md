@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 隐藏和取消隐藏自定义条目类型 {#hiding-and-unhiding-custom-entry-types}
 
-自定义条目类型可以在“管理员”部分中隐藏。 隐藏后，条目类型将不再显示为选项。
+自定义条目类型可在“管理员”部分中隐藏。 隐藏后，条目类型将不再显示为选项。
 
 ## 隐藏自定义条目类型 {#hide-a-custom-entry-type}
 

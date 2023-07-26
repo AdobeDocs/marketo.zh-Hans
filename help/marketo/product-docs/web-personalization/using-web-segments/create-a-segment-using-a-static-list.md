@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用静态列表创建区段 {#create-a-segment-using-a-static-list}
 
-根据已知Web访客是否位于您的某个Marketo中，在他们访问您的网站时划分他们 [静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
+在已知Web访客访问您的网站时，根据他们是否位于您的某个Marketo中来划分他们 [静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
 
 1. 转到 **区段**.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four-2.png)
 
-1. 单击下拉菜单以选择 **是** 或 **不是** （具体取决于您想要什么），然后键入静态列表的名称。
+1. 单击下拉菜单以选择 **是** 或 **不是** （具体取决于您所需），并键入静态列表的名称。
 
    ![](assets/five-2.png)
 
@@ -45,8 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >和/或下拉列表就是这样。 单击以选择 **和**， **或**，或 **和/或**.
+   >和/或下拉菜单就是这样。 单击以选择 **和**， **或**，或 **和/或**.
 
-1. 单击 **保存** 保存区段或 **保存并定义营销活动** 以保存并转到“促销活动”页面。
+1. 单击 **保存** 保存区段或 **保存并定义营销活动** 以保存并转到“营销活动”页面。
 
    ![](assets/eight-1.png)

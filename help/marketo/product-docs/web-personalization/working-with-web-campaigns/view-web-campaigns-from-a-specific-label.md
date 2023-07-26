@@ -31,6 +31,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [为您的Web营销活动设置标签](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [为您的Web营销活动添加标签](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
 >* [从特定标签查看区段](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [为区段添加标签](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

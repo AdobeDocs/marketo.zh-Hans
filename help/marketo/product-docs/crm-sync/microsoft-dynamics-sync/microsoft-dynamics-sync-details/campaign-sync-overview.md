@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->更新至适用于Marketo的Dynamics插件的最新版本。
+>更新到适用于Marketo的Dynamics插件的最新版本。
 
 以下流操作可用：
 
@@ -25,14 +25,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**从Microsoft营销活动中删除** 将仅删除使用Marketo中的“流量”操作添加的人员。
+>**从Microsoft营销活动中删除** 将仅删除使用Marketo中的流量操作添加的人员。
 
-还有两个触发因素：
+此外还有两个触发因素：
 
 * 已添加到Microsoft Campaign
-* 已从Microsoft Campaign中删除
+* 从Microsoft Campaign中移除
 
-触发器将根据来自Marketo流量操作“添加到Microsoft Campaign”和“从Microsoft Campaign中删除”的操作执行。
+触发器将根据Marketo流量操作“添加到Microsoft Campaign”和“从Microsoft Campaign中删除”中的操作执行。
 
 >[!NOTE]
 >
@@ -41,4 +41,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [启用Campaign同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
->* [在Dynamics Campaign中添加或删除人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
+>* [添加或删除Dynamics营销活动中的人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)

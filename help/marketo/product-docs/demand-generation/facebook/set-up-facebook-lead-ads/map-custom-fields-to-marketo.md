@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 将自定义字段映射到Marketo {#map-custom-fields-to-marketo}
 
-默认情况下，您可能希望收集的信息比Facebook存储的标准信息更多，例如某人使用您的在线交付服务的频率。 您可以通过以下方式完成此操作 [创建自定义问题](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) 在您的Facebook潜在客户广告中。
+默认情况下，您可能希望收集的信息比Facebook存储的标准信息更多，例如某人使用您的在线交付服务的频率。 您可以通过以下方式完成此任务 [创建自定义问题](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) 在您的Facebook潜在客户广告中。
 
 但是， **Marketo不会自动开始收集此数据**. 为了让Marketo开始捕获自定义字段值，您可以 **必须** 将这些自定义字段映射到Marketo中的字段。
 
-以下说明如何在管理员的LaunchPoint区域中进行此设置。
+以下是在“管理”的LaunchPoint区域中设置此步骤的方法。
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 转到“管理”区域并单击 **启动点**. 在“已安装的服务”下，查找并编辑 **facebook潜在广告**.
+1. 转到“管理”区域并单击 **启动点**. 在“已安装的服务”下，查找并编辑 **facebook潜在客户广告**.
 
    ![](assets/image2017-10-24-9-3a32-3a16.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. 在这里，您可以将自定义Facebook字段映射到您的Marketo字段。 单击 **添加。**
+1. 在这里，您可以将自定义Facebook字段映射到Marketo字段。 单击 **添加。**
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 

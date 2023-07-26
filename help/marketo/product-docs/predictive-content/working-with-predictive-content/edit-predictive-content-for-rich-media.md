@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 编辑富媒体的预测内容 {#edit-predictive-content-for-rich-media}
 
-以下是如何为富媒体设置预测内容。
+下面是如何为富媒体设置预测内容。
 
 >[!PREREQUISITES]
 >

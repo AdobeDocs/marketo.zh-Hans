@@ -16,7 +16,7 @@ ht-degree: 0%
 >
 >**需要管理员权限。**
 
-购买Sales Connect后，您的Marketo实例中将出现一个新的集成页面。 使用此页可邀请您的第一个用户并配置其Sales Connect实例。
+购买Sales Connect后，您的Marketo实例中将显示一个新的集成页面。 使用此页可邀请您的第一个用户并配置其Sales Connect实例。
 
 1. 在Marketo中，单击 **管理员**.
 

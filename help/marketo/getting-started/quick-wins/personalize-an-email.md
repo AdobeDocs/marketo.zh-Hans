@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359422
 description: 个性化电子邮件 — Marketo文档 — 产品文档
-title: 个性化电子邮件
+title: 电子邮件个性化
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 个性化电子邮件 {#personalize-an-email}
+# 电子邮件个性化 {#personalize-an-email}
 
 ## 任务：通过添加数据令牌使您的电子邮件个性化 {#mission-make-your-emails-personal-by-adding-data-tokens}
 
@@ -23,23 +23,23 @@ ht-degree: 0%
 
 ## 第1步：选择要个性化的电子邮件 {#step-select-an-email-to-personalize}
 
-1. 选择在中创建的培养电子邮件之一 [上一个快速入门](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} 并单击 **[!UICONTROL 创建草稿]**.
+1. 选择在中创建的培养电子邮件之一 [上一个快速入选](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} 并单击 **[!UICONTROL 创建草稿]**.
 
    ![](assets/personalize-an-email-1.png)
 
    >[!NOTE]
    >
-   >这会创建电子邮件的副本作为草稿。 切记批准草稿以使更改生效。
+   >这会创建电子邮件的副本作为草稿。 请记得批准草稿，以便更改生效。
 
-如果尚未启用弹出窗口阻止程序，则电子邮件编辑器将在新选项卡/窗口中打开。 否则，请单击 **[!UICONTROL 创建草稿]** 两次。
+如果尚未启用弹出窗口阻止程序，则将在一个新的选项卡/窗口中打开电子邮件编辑器。 否则，请单击 **[!UICONTROL 创建草稿]** 两次。
 
-## 步骤2：使销售人员成为发件人 {#step-make-the-salesperson-the-sender}
+## 第2步：使销售人员成为发件人 {#step-make-the-salesperson-the-sender}
 
-1. 选择 **[!UICONTROL 起始日期]** 字段，突出显示和 **delete** 当前名称。
+1. 选择 **[!UICONTROL 从]** 字段，突出显示和 **删除** 当前名称。
 
    ![](assets/personalize-an-email-2.png)
 
-1. 单击 **令牌** 图标右侧的 **[!UICONTROL 起始日期]** 字段。
+1. 单击 **令牌** 图标（位于页面右侧） **[!UICONTROL 从]** 字段。
 
    ![](assets/personalize-an-email-3.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/personalize-an-email-4.png)
 
-1. 键入您的公司名称和短划线 **默认值** 以确保在销售代表的名字不可用时显示某些内容。 单击 **插入**.
+1. 键入公司名称和短划线 **默认值** 以确保在销售代表的名字不可用时显示某些内容。 单击 **插入**.
 
    ![](assets/personalize-an-email-5.png)
 
-1. 点击中的空格键 **[!UICONTROL 起始日期]** 字段，确保光标在您刚刚插入的令牌后闪烁一个空格。 然后单击 **令牌** 图标。
+1. 单击中的空格键 **[!UICONTROL 从]** 字段，确保光标在您刚刚插入的令牌后闪烁一个空格。 然后单击 **令牌** 图标。
 
    ![](assets/personalize-an-email-6.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >始终包含令牌的默认值；这可确保在部分个人信息缺失时，电子邮件中会显示默认值。
+   >始终包含令牌的默认值；如果部分个人信息缺失，这将确保默认值在电子邮件中显示。
 
 1. 单击 **[!UICONTROL 保存]**.
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->需要快速了解如何发送电子邮件给您自己？ 参见 [发送电子邮件爆料](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}.
+>需要快速刷新一下如何发送电子邮件？ 请参阅 [发送电子邮件爆料](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}.
 
 ### 任务完成 {#mission-complete}
 
@@ -103,6 +103,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄任务6：滴水、滴水、Nurture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[◄任务6：滴水、滴水、培养](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 [任务8：提醒销售代表►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)

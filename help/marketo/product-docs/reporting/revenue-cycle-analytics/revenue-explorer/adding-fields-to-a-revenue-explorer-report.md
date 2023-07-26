@@ -6,7 +6,7 @@ exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-1. 找到要使用的黄色字段并将其拖到行中。
+1. 查找要使用的黄色字段并将其拖到行中。
 
    ![](assets/image2015-3-24-15-3a22-3a34.png)
 
@@ -40,14 +40,14 @@ ht-degree: 0%
    >
    >将鼠标悬停在字段上可查看完整说明。
 
-1. 找到要使用的蓝色字段并将其拖到测量中。
+1. 查找要使用的蓝色字段，并将其拖到测量中。
 
    ![](assets/image2015-3-24-15-3a53-3a5.png)
 
-   太棒了！ 现在您拥有了完整的报告！
+   太棒了！ 现在您有完整的报告！
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
 >[!MORELIKETHIS]
 >
->[删除收入浏览器报表中的字段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[在收入浏览器报表中删除字段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

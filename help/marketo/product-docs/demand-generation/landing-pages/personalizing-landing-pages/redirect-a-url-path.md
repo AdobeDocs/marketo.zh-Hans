@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 重定向URL路径 {#redirect-a-url-path}
 
-通过Marketo，可以轻松地将URL路径重定向到您选择的任何页面。 下面是具体操作方法。
+通过Marketo，可以轻松将URL路径重定向到您选择的任意页面。 具体方法如下。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. 单击 **规则** 选项卡，然后单击 **新** 和 **新建重定向规则**.
+1. 单击 **规则** 选项卡，然后单击 **新建** 和 **新建重定向规则**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
@@ -35,18 +35,18 @@ ht-degree: 0%
    >
    >请记住，您只能重定向以Marketo开头的URL [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. 在第二个字段中键入要重定向的URL路径（或特定页面） **原始URL** 右边的字段。
+1. 在第二个中键入要重定向的URL路径（或特定页面） **原始URL** 右边的字段。
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. 单击 **使用非Marketo登录页面**&#x200B;中，键入要将访客重定向到的页面 **重定向URL** 字段，然后单击 **创建**.
+1. 单击 **使用非Marketo登录页面**，在中键入要将访客重定向到的页面 **重定向URL** 字段，然后单击 **创建**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
    您可以 [使用Marketo登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) 作为目标。
 
-恭喜！您已成功重定向您的URL路径。
+恭喜！您已成功重定向URL路径。
 
 >[!MORELIKETHIS]
 >
->[将Marketo登录页面重定向到其他页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
+>[将Marketo登陆页面重定向到其他页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)

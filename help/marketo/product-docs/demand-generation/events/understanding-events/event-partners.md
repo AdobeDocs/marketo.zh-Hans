@@ -13,14 +13,14 @@ ht-degree: 1%
 
 # 活动合作伙伴 {#event-partners}
 
-将Marketo连接到事件合作伙伴以自动执行在线事件。 连接它们时，您可以：
+将Marketo连接到事件合作伙伴以自动执行在线事件。 当您连接它们时，您可以：
 
 * 管理您的网络研讨会活动
-* 将在Marketo登录页面上捕获的注册信息推送给已配置的Event Partner
+* 将在Marketo登陆页面上捕获的注册信息推送给已配置的事件合作伙伴
 * 将出勤信息自动提取到Marketo活动中
-* 捕获人员作为计划成员的状态
+* 捕获人员作为项目群成员的状态
 
-请参阅有关将在线Marketo活动与活动合作伙伴集成的说明：
+请参阅有关将您的在线Marketo活动与活动合作伙伴集成的说明：
 
 * [Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)

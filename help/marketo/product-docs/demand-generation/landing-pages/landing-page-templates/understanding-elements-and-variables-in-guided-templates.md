@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7515069
 description: 了解引导式模板中的元素和变量 — Marketo文档 — 产品文档
-title: 了解引导模板中的元素和变量
+title: 了解引导式模板中的元素和变量
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 ---
 
-# 了解引导模板中的元素和变量 {#understanding-elements-and-variables-in-guided-templates}
+# 了解引导式模板中的元素和变量 {#understanding-elements-and-variables-in-guided-templates}
 
 引导式登陆页面模板包含两种类型的可编辑部分：元素和变量。
 
@@ -29,13 +29,13 @@ ht-degree: 2%
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)视频
 * ![—](assets/image2015-5-20-12-3a44-3a17.png)“Marketo共享”按钮
 * ![—](assets/image2015-5-20-12-3a43-3a21.png)Marketo投票
-* ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo反向链接
+* ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo引用
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo抽奖
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo代码片段
 
 ## 变量 {#variables}
 
-变量是类似令牌的属性，可以从引导式登陆页面编辑器中进行自定义，如下所示。
+变量是类似令牌的属性，可从引导式登陆页面编辑器中进行自定义，如下所示。
 
 ![](assets/image2015-5-20-15-3a0-3a2.png)
 

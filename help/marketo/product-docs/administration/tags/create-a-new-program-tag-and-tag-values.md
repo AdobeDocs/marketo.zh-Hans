@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360272
 description: 创建新的项目标记和标记值 — Marketo文档 — 产品文档
-title: 创建新的项目标记和标记值
+title: 创建新的程序标记和标记值
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 创建新的项目标记和标记值 {#create-a-new-program-tag-and-tag-values}
+# 创建新的程序标记和标记值 {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. 单击 **[!UICONTROL 新]** 并选择 **[!UICONTROL 新标记类型]**.
+1. 单击 **[!UICONTROL 新建]** 并选择 **[!UICONTROL 新标记类型]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
@@ -43,21 +43,21 @@ ht-degree: 0%
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
-1. 根据需要输入任意数量的值。 选择要将此标记应用于的程序类型。
+1. 根据需要输入任意数量的值。 选择要将此标记应用到哪些程序类型。
 
    ![](assets/create-a-new-program-tag-and-tag-values-5.png)
 
    >[!TIP]
    >
-   >您可以选择多个程序类型。 制作新程序时，此标记类型将可用。
+   >您可以选择多种程序类型。 生成新程序时，此标记类型将可用。
 
-1. Check **[!UICONTROL 必需]** 并单击 **[!UICONTROL 创建]**.
+1. Check **[!UICONTROL 必填]** 并单击 **[!UICONTROL 创建]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >如果标记类型为 **[!UICONTROL 必需]**，用户在创建新程序时需要输入标记的值。
+   >如果标记类型为 **[!UICONTROL 必填]**，用户在创建新程序时需要输入标记的值。
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

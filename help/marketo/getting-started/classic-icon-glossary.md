@@ -60,7 +60,7 @@ ht-degree: 6%
     <div> 
      <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">与其他工作区共享的源文件夹</td> 
+   <td colspan="1">您与其他工作区共享的源文件夹</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -74,14 +74,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>存档文件夹或转换为存档文件夹（对于任何文件夹和已存档的程序都可以显示）</td> 
+   <td>存档文件夹或转换为存档文件夹（任何文件夹和已存档的程序都可以出现此项）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>成功!（通常显示为项目成功、运行成功或活动）</td> 
+   <td>成功!（通常显示为项目成功、成功运行或活动）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -169,7 +169,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-10-3a56-3a28.png"> 
     </div></td> 
-   <td>安全/注销</td> 
+   <td>安全性/注销</td> 
   </tr> 
   <tr> 
    <td> 
@@ -253,7 +253,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-8-18-3a25-3a25.png"> 
     </div></td> 
-   <td>Munchkin</td> 
+   <td>蒙奇金</td> 
   </tr> 
   <tr> 
    <td> 
@@ -274,7 +274,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-8-18-3a44-3a51.png"> 
     </div></td> 
-   <td>Webhook</td> 
+   <td>Webhooks</td> 
   </tr> 
   <tr> 
    <td> 
@@ -341,7 +341,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-11-3a24-3a42.png"> 
     </div></td> 
-   <td>导入程序</td> 
+   <td>导入项目群</td> 
   </tr> 
   <tr> 
    <td> 
@@ -376,28 +376,28 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-11-3a11-3a29.png"> 
     </div></td> 
-   <td>Smart Campaign — 活动和触发</td> 
+   <td>智能营销活动 — 活动和已触发</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>请求的智能营销活动(通过Sales Insight或Marketo Flow操作)</td> 
+   <td>所请求的智能营销活动(通过Sales Insight或Marketo Flow操作)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>Smart Campaign — 批处理（以前已执行）</td> 
+   <td>智能营销活动 — 批处理（以前已执行）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
-   <td>Smart Campaign — 不活跃或从未执行</td> 
+   <td>智能营销活动 — 不活跃或从未执行</td> 
   </tr> 
   <tr> 
    <td> 
@@ -432,14 +432,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td>计划的批量活动</td> 
+   <td>计划的批处理活动</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a25-3a43.png"> 
     </div></td> 
-   <td>流量操作</td> 
+   <td>流程操作</td> 
   </tr> 
   <tr> 
    <td> 
@@ -614,7 +614,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-15-3a20-3a13.png"> 
     </div></td> 
-   <td>挑选入选者</td> 
+   <td>选择入选者</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -902,7 +902,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>收入周期模型(RCM) — 已批准，带草稿</td> 
+   <td>收入周期模型(RCM) — 已批准，具有草稿</td> 
   </tr> 
   <tr> 
    <td> 
@@ -923,7 +923,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-12-3a56-3a29.png"> 
     </div></td> 
-   <td>新报表订阅</td> 
+   <td>新建报表订阅</td> 
   </tr> 
   <tr> 
    <td> 
@@ -944,7 +944,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>有趣时刻概述</td> 
+   <td>有趣的时刻概述</td> 
   </tr> 
   <tr> 
    <td> 
@@ -990,14 +990,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td>日历ICS — 日历（集成日历）</td> 
+   <td>日历ICS — 日历，（集成日历）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a20-3a45.png"> 
     </div></td> 
-   <td>富文本（非登陆页面）</td> 
+   <td>富文本（不是登陆页面）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1011,14 +1011,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce（同样适用于所有SFDC相关项目）</td> 
+   <td>Salesforce（也适用于所有SFDC相关项目）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td>将Smart Campaign计划为运行一次</td> 
+   <td>安排运行一次智能营销活动</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1039,12 +1039,12 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>查看Smart成员（以前限定的和当前的）</td> 
+   <td>查看Smart成员（以前符合条件，现在符合条件）</td> 
   </tr> 
  </tbody> 
 </table>
 
-### Campaign菜单 {#campaign-menus}
+### 营销活动菜单 {#campaign-menus}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -1078,14 +1078,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce（同样适用于所有SFDC相关项目）</td> 
+   <td>Salesforce（也适用于所有SFDC相关项目）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a33-3a11.png"> 
     </div></td> 
-   <td>仅文本</td> 
+   <td>仅限文本</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1113,7 +1113,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
-   <td>日期 — 格式为“YYYY-MM-DD”</td> 
+   <td>日期 — “YYYY-MM-DD”格式</td> 
   </tr> 
  </tbody> 
 </table>

@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**相同顶级域 — 好！ Cookie已共享**.<br/> **转到**.mycompany.com > **信息**.mycompany.com
+>**相同的顶级域 — 好！ Cookie已共享**.<br/> **转到**.mycompany.com > **信息**.mycompany.com
 >
->**不同的顶级域 — 错误！ Cookie包括 _非_ 已共享**.<br/> 去吧。**mycompany**.com >开始。**mynewcompany**.com
+>**不同的顶级域 — 错误！ Cookie包括 _非_ 共享**.<br/> 去吧。**我的公司**.com >开始。**mynewcompany**.com
 
 >[!NOTE]
 >
@@ -41,15 +41,15 @@ ht-degree: 0%
 
    ![](assets/add-additional-landing-page-cnames-3.png)
 
-## 向IT部门发送请求 {#send-request-to-it}
+## 向IT发送请求 {#send-request-to-it}
 
-1. 要求您的IT部门设置以下CNAME： (将 [CNAME] 使用您选择的CNAME和 [Munchkin ID] （使用上一步中的文本）。
+1. 要求您的IT部门设置以下CNAME： (将 [CNAME] 以及您选择的CNAME [Munchkin ID] （其中包含上一步骤中的文本）。
 
    [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## 添加新CNAME {#add-a-new-cname}
 
-1. IT部门创建CNAME后，转到 **管理员** 区域。
+1. IT部门创建CNAME后，请转到 **管理员** 区域。
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. 单击 **新** 然后选择 **新域别名**.
+1. 单击 **新建** 然后选择 **新建域别名**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
@@ -73,4 +73,4 @@ ht-degree: 0%
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-很好！ 现在，如果您希望添加CNAME，则可以知道该怎么做。
+太好了！ 如果您希望添加CNAME，现在知道该怎么做。

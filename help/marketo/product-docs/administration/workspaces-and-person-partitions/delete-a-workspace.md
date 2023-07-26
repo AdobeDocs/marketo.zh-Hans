@@ -33,6 +33,6 @@ ht-degree: 0%
 
    ![](assets/delete-a-workspace-3.png)
 
-1. 确认要删除的资产数量(该数量列在&quot;[!UICONTROL 总资产]&quot;)，选择 **[!UICONTROL 无法撤消]** 复选框，然后单击 **[!UICONTROL 删除]**.
+1. 确认要删除的资源数量(在&quot;[!UICONTROL 总资产]&quot;)，选择 **[!UICONTROL 无法撤消]** 复选框，然后单击 **[!UICONTROL 删除]**.
 
    ![](assets/delete-a-workspace-4.png)

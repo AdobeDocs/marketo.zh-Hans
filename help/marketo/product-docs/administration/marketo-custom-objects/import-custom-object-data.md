@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 导入自定义对象数据 {#import-custom-object-data}
 
-可以轻松地将自定义对象数据导入数据库。 如果您在公司中使用自定义对象，请参阅 [在公司中使用自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) 了解更多信息。
+可以轻松地将自定义对象数据导入数据库。 如果对公司使用自定义对象，请参阅 [在公司中使用自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) 以了解更多信息。
 
 1. 在“我的Marketo”中，转到 **[!UICONTROL 数据库]**.
 
    ![](assets/import-custom-object-data-1.png)
 
-1. 单击 **[!UICONTROL 新]** 并选择 **[!UICONTROL 导入自定义对象数据]**.
+1. 单击 **[!UICONTROL 新建]** 并选择 **[!UICONTROL 导入自定义对象数据]**.
 
    ![](assets/import-custom-object-data-2.png)
 
-1. 单击 **[!UICONTROL 浏览]** 以查找数据文件。 选择文件格式（在此示例中为“逗号分隔值”）。
+1. 单击 **[!UICONTROL 浏览]** 以查找数据文件。 选择文件格式（在此示例中为逗号分隔值）。
 
    ![](assets/import-custom-object-data-3.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/import-custom-object-data-4.png)
 
-1. 选择 [!UICONTROL 重复数据消除模式] 从下拉菜单中。 单击 **[!UICONTROL 下一个]**.
+1. 选择 [!UICONTROL 重复数据删除模式] 从下拉菜单中查找。 单击 **[!UICONTROL 下一个]**.
 
    ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
-   >在创建或更新自定义对象记录时，使用重复数据消除字段作为唯一标识符。 此示例使用 **car** 自定义对象 — vin（车辆ID号）。 如果仅更新自定义对象记录，则可以选择 [!UICONTROL Marketo Guid] 作为 [!UICONTROL 重复数据消除模式].
+   >在创建或更新自定义对象记录时，使用重复数据删除字段作为唯一标识符。 此示例使用的“重复数据删除”字段 **car** 自定义对象 — vin（车辆ID号）。 如果仅更新自定义对象记录，则可以选择 [!UICONTROL Marketo Guid] 作为 [!UICONTROL 重复数据删除模式].
 
 1. 将每列映射到Marketo字段，然后从下拉列表中选择该字段。
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/import-custom-object-data-9.png)
 
-   耶！
+   好耶！
 
 >[!MORELIKETHIS]
 >

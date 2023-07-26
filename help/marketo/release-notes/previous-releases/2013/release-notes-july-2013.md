@@ -15,15 +15,15 @@ ht-degree: 0%
 
 7月版本中计划于7月26日星期五推出以下功能。
 
-## 仪表板上的已用完内容小组件 {#exhausted-content-widget-on-the-dashboard}
+## 仪表板上的已用内容小组件 {#exhausted-content-widget-on-the-dashboard}
 
-提供有关潜在客户何时耗尽流中内容的信息。 系统将为您提供有关有多少潜在客户即将达到已耗尽内容的信息，或者已耗尽潜在客户的时间长短的信息。
+提供有关潜在客户何时耗尽流中内容的信息。 系统将为您提供有关有多少潜在客户即将达到耗尽内容的信息，或者潜在客户耗尽时间长短的信息。
 
 ![](assets/image2014-9-22-16-3a30-3a50.png)
 
 ## 通信限制 {#communication-limits}
 
-想停止过度发送电子邮件销售线索吗？ 现在，可以轻松地将频率自动限制为每个人。 只需设置每天和每周的通讯限制，其余部分由系统来完成。 在Select、Enterprise中提供，并带有适用于Standard客户的附加组件包。
+想停止过度发送电子邮件潜在客户吗？ 现在，可以轻松地将频率自动限制为每个人。 只需设置每天和每周的通讯限制，系统就会完成剩下的工作。 在Select、Enterprise以及适用于Standard客户的附加组件包中提供。
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 
@@ -35,10 +35,10 @@ ht-degree: 0%
 
 ## 项目群成员日期列 {#program-member-date-column}
 
-按添加商机的日期查看和排序成员网格。
+按添加潜在客户的日期查看和排序成员网格。
 
 ![](assets/image2014-9-22-16-3a32-3a1.png)
 
-## 对WYSIWYG编辑器中的拼写检查的更改 {#changes-to-spell-check-in-wysiwyg-editor}
+## 对WYSIWYG编辑器中拼写检查的更改 {#changes-to-spell-check-in-wysiwyg-editor}
 
-WYSIWYG编辑器用于拼写检查的服务已终止。 我们已从编辑器中删除了“拼写检查”按钮，直到找到替代项为止。
+WYSIWYG编辑器用于拼写检查的服务已停止。 我们从编辑器中删除了“拼写检查”按钮，直到找到替代项为止。

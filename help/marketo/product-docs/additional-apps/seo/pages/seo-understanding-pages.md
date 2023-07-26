@@ -17,15 +17,15 @@ ht-degree: 1%
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-页面 [!UICONTROL 优化得分] 是页面针对搜索进行优化的程度总体排名，从1到100。 它基于SEO中的数十种最佳实践。
+页面 [!UICONTROL 优化得分] 是以从1到100的级数来对页面优化搜索的程度进行总体排名。 它基于SEO中的数十种最佳实践。
 
 * 0 - 35 =未得到良好优化
-* 35 - 70 =在右边
+* 35 - 70 =在右轨道上
 * 70 - 100 =做得好！
 
 >[!TIP]
 >
->单击 [!UICONTROL 高影响力] 中的链接 [!UICONTROL 待办事项] 框中，这会将您重定向到 [!UICONTROL “问题”选项卡] 并向您展示需要解决的高优先级问题。
+>单击 [!UICONTROL 高影响力] 中的链接 [!UICONTROL 待办事项] 框中，这会将您重定向到 [!UICONTROL “问题”选项卡] 并向您显示需要解决的高优先级问题。
 
 ## [!UICONTROL 页面] 选项卡 {#pages-tab}
 
@@ -36,9 +36,9 @@ ht-degree: 1%
 | 列名称 | 描述 |
 |---|---|
 | [!UICONTROL 标题] | 域中所有页面的标题和URL。 验证您的域。 |
-| [!UICONTROL 优化得分] | 秘汁用来向您展示优化页面以搜索（从1到100）的效果。 |
+| [!UICONTROL 优化得分] | 秘汁用于向您展示您的页面在1到100之间优化搜索的力度。 |
 | [!UICONTROL 链接] | 至少具有1个到您网站的入站链接的不同域数。 |
-| [!UICONTROL 目标关键字] | 您决定优化每个页面的关键词。 [这需要您的输入](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL Target关键字] | 您决定优化每个页面的关键词。 [这需要您的输入](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## [!UICONTROL 问题] 选项卡 {#issues-tab}
 
@@ -49,8 +49,8 @@ ht-degree: 1%
 | 列名称 | 描述 |
 |---|---|
 | [!UICONTROL 问题] | 将有助于提高优化得分的可操作项目列表。 |
-| [!UICONTROL 影响] | 它对您的总分有多重要。 首先修复高影响力的项目！ |
+| [!UICONTROL 影响] | 它对您的整体得分有多重要。 请先修复高影响力的项目！ |
 | [!UICONTROL 类别] | 所报告的问题类型。 |
-| [!UICONTROL 状态] | 任务已完成还是仍处于打开状态。 在您和网站管理员修复网站上的问题后，状态应更改为“已解决”（绿色检查）。 |
+| [!UICONTROL 状态] | 任务是否已完成或仍处于打开状态。 在您和网站管理员修复网站上的问题后，状态应更改为“已解决”（绿色复选）。 |
 
-太棒了，现在您已经了解了页面的基础知识，请查看页面上的 [页面详细信息向下钻取文章](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) 了解更多酷炫事物。
+棒极了，现在您已了解页面的基础知识，请查看页面上的 [页面详细信息向下钻取文章](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) 了解更多有趣的事情。

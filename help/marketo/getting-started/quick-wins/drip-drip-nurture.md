@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. 选择 **学习** 文件夹，单击 **[!UICONTROL 新]** 下拉菜单并选择 **[!UICONTROL 新建项目群]**.
+1. 选择 **学习** 文件夹，单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 新建项目群]**.
 
    ![](assets/drip-drip-nurture-2.png)
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
    您现在已经创建了一个参与计划。
 
-## 步骤2：创建电子邮件 {#step-create-an-email}
+## 第2步：创建电子邮件 {#step-create-an-email}
 
-1. 选择您的参与计划，然后单击 **[!UICONTROL 新]** 并选择 **[!UICONTROL 新建本地资产]**.
+1. 选择您的参与计划，然后单击 **[!UICONTROL 新建]** 并选择 **[!UICONTROL 新建本地资产]**.
 
    ![](assets/drip-drip-nurture-5.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    ![](assets/drip-drip-nurture-6.png)
 
-1. 输入 **[!UICONTROL 名称]**，选择 **[!UICONTROL 模板]** ，然后单击 **[!UICONTROL 创建]**.
+1. 输入 **[!UICONTROL 名称]**，选择 **[!UICONTROL 模板]** 要使用，请单击 **[!UICONTROL 创建]**.
 
    ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
-   >看不到电子邮件编辑器？ 您的浏览器可能阻止了窗口。 启用弹出窗口 `app.marketo.com` ，然后单击 **[!UICONTROL 编辑草稿]** 菜单栏中。
+   >看不到电子邮件编辑器？ 您的浏览器可能阻止了窗口。 启用弹出窗口 `app.marketo.com` ，然后单击 **[!UICONTROL 编辑草稿]** 在顶部菜单栏中。
 
 1. 输入主题。
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/drip-drip-nurture-9.png)
 
-1. 编辑您的电子邮件并单击 **[!UICONTROL 保存]**.
+1. 编辑电子邮件并单击 **[!UICONTROL 保存]**.
 
    ![](assets/drip-drip-nurture-10.png)
 
@@ -80,25 +80,25 @@ ht-degree: 0%
    >
    >请记住批准您的电子邮件，否则以后将无法激活它们。
 
-1. 现在，通过重复步骤2-7中的操作来创建另一封电子邮件。
+1. 现在，通过重复步骤2-7中的操作创建另一封电子邮件。
 
    ![](assets/drip-drip-nurture-12.png)
 
 ## 步骤3：将内容添加到流 {#step-add-content-to-your-stream}
 
-现在可以使用您创建的电子邮件为您的参与计划创建内容流。
+现在该使用您创建的电子邮件为您的参与计划创建内容流了。
 
 1. 选择您的参与计划，然后单击 **[!UICONTROL 流]** 选项卡。
 
    ![](assets/drip-drip-nurture-13.png)
 
-1. 单击 **[!UICONTROL 添加内容]** 按钮时，不会显示任何内容。
+1. 单击 **[!UICONTROL 添加内容]** 按钮进行标记。
 
    ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >您还可以使用 **+** 图标。
+   >您也可以使用 **+** 图标。
 
 1. 保持选中“电子邮件”类型。 查找并选择您创建的两封电子邮件。
 
@@ -106,13 +106,13 @@ ht-degree: 0%
 
 ## 步骤4：激活流内容 {#step-activate-stream-content}
 
-1. 通过单击流齿轮图标来一次激活所有内容，然后单击 **[!UICONTROL 激活所有内容]**.
+1. 通过单击流齿轮图标，一次激活所有内容，然后单击 **[!UICONTROL 激活所有内容]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
-   >如果不先批准内容，则无法激活内容。
+   >如果不先批准内容，则无法激活该内容。
 
    做得好！ 再执行一步，参与计划已准备就绪。
 
@@ -144,7 +144,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >确保测试人员具有有效的电子邮件地址，以便您可以在测试时确认收到电子邮件。
+   >确保测试人员拥有有效的电子邮件地址，以便您可以在测试时确认电子邮件的接收。
 
 1. 右键单击人员，然后单击 **[!UICONTROL 程序]** 和 **[!UICONTROL 添加到参与计划……]**.
 
@@ -156,11 +156,11 @@ ht-degree: 0%
 
 1. 任务完成！
 
-1. 您应会在指定的时间和节奏收到电子邮件。
+1. 您应按指定的时间和节奏接收电子邮件。
 
    >[!NOTE]
    >
-   >详细了解 [参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
+   >了解有关 [参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
 ## 任务完成！ {#mission-complete}
 

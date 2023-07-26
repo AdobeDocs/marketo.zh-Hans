@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. 单击 **[!UICONTROL 字段操作]** 下拉菜单并选择 **[!UICONTROL 导出使用者]**.
+1. 单击 **[!UICONTROL 字段操作]** 下拉并选择 **[!UICONTROL 导出使用者]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >每个相关资源都是一个链接，可以单击该链接，并在Marketo中将其打开。
+   >每个相关资源都是一个链接，单击该链接后，将在Marketo中将其打开。

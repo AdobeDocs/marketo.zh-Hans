@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1146999
-description: 有趣时刻的触发器令牌 — Marketo文档 — 产品文档
-title: 有趣时刻的触发器令牌
+description: 触发有趣时刻的令牌 — Marketo文档 — 产品文档
+title: 触发有趣时刻的令牌
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# 有趣时刻的触发器令牌 {#trigger-tokens-for-interesting-moments}
+# 触发有趣时刻的令牌 {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->了解如何使用 [有趣时刻流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>了解如何使用 [有趣的时刻流步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## 可用令牌 {#available-tokens}
 
-签出 [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 查看所有可以放入有趣时刻的令牌。
+签出 [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 查看您能放入有趣时刻的所有令牌。
 
 ## 触发器令牌 {#trigger-tokens}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 * `{{trigger.Trigger Name}}` 它总是真正的触发器。 例如：单击电子邮件中的链接。
 * `{{trigger.Name}}` 是触发营销活动的资源的名称。 例如：网页上的点击链接是URL本身、Salesforce触发器的主题等。
-* 根据下面列出的约束，可以使用其他触发器。
+* 基于下面列出的约束，提供了其他触发器。
 
 **电子邮件触发器**
 
@@ -67,7 +67,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>电子邮件中的点击链接</td> 
+   <td>单击电子邮件中的链接</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -152,7 +152,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>已收到转发给朋友的电子邮件</td> 
+   <td>已接收转发给朋友的电子邮件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -243,7 +243,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>销售电子邮件中的点击链接</td> 
+   <td>点击销售电子邮件中的链接</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -260,7 +260,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>是否发送了销售电子邮件</td> 
+   <td>已发送销售电子邮件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -515,7 +515,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>在SFDC Campaign中，状态已更改</td> 
+   <td>SFDC Campaign中的状态已更改</td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -534,7 +534,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-**Sales Connect Triggers**
+**Sales Connect触发器**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -572,7 +572,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>销售电子邮件中的点击链接</td> 
+   <td>点击销售电子邮件中的链接</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -589,7 +589,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>是否发送了销售电子邮件</td> 
+   <td>已发送销售电子邮件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -692,7 +692,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>已接的销售电话</td> 
+   <td>已收到的销售电话</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -783,7 +783,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>网页上的点击链接</td> 
+   <td>点击网页上的链接</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -804,7 +804,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果它没有支票 ![（勾号）](assets/check.png) 则会在有趣的时刻返回空字符串（无）。
+>如果它没有支票 ![（勾号）](assets/check.png) 则它会在有趣的时刻返回空字符串（无）。
 
 &#42;触发器 **访问网页** 具有一些额外的令牌：
 
@@ -814,6 +814,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->始终测试您感兴趣的时刻，以确保它们按照您预期的方式呈现。
+>请始终测试您感兴趣的时刻，以确保它们按照您预期的方式呈现。
 >
->另外，确保这对Sales人员来说很有趣，而不仅仅是对您有趣！
+>另外，确保它对于销售人员而不仅仅是您都有趣！

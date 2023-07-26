@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. 要设置颜色，请单击 **颜色**，然后选择颜色选择方框。 通过单击颜色或在拾色器上输入十六进制或RGB代码来选择颜色。
+1. 要设置颜色，请单击 **颜色**，然后选择颜色选择方框。 通过单击颜色，或在拾色器上输入十六进制或RGB代码来选择颜色。
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >图像大小限制为1440 x 2560像素/5MB。
+   >图像大小限制为1440 x 2560像素，5MB。
 
 1. 评估结果。 糟糕 — 也许纯色、纹理或渐变效果更好！
 
@@ -55,19 +55,19 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-9-3a58-3a38.png)
 
-1. 使用滑块选取圆角半径。 从左到右选择一个位置：0、4、8、12或16像素。 默认选项为8像素（居中）。
+1. 使用滑块选取圆角半径。 从左到右选择一个位置：0、4、8、12或16像素。 8像素（居中）选区是缺省选项。
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. 选中方框可设置后台点按操作（默认情况下为关闭）。
+1. 选中方框可设置背景点按操作（默认情况下为关闭）。
 
    ![](assets/image2016-5-9-10-3a6-3a10.png)
 
    >[!NOTE]
    >
-   >对于后台点按操作，您可以为Apple和Android平台设置不同的操作。 例如，对于Apple和Android，深层链接的处理方式不同。 如果您的消息仅发送到一个平台或另一个平台，请将另一个平台保留为默认设置或选择 **无**.
+   >对于后台点按操作，您可以为Apple和Android平台设置其他操作。 例如，对于Apple和Android，深层链接的处理方式不同。 如果您的消息仅发送到一个平台或另一个平台，请将另一个平台保留为默认设置或选择 **无**.
 
-   要完成这项工作，您的最后一步是 [设置取消按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   要完成这项工作，您的最后一步是 [设置解除按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >

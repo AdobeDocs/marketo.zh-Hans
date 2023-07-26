@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
-   您现在收集了某个人在一段时间内发生的所有信息。
+   现在，您已经收集了某个人在一段时间内发生的所有信息。
 
    ![](assets/locate-the-activity-log-for-a-person-5.png)
 
@@ -39,14 +39,14 @@ ht-degree: 0%
 
 是否需要将人员的活动日志导出到Excel？
 
-1. 按照上述步骤执行操作后，滚动到页面底部，然后选择导出图标。
+1. 按照上述步骤操作后，滚动到页面底部，并选择导出图标。
 
    ![](assets/locate-the-activity-log-for-a-person-6.png)
 
-1. Excel文件将下载到浏览器。
+1. Excel文件将下载到您的浏览器。
 
    ![](assets/locate-the-activity-log-for-a-person-7.png)
 
    >[!MORELIKETHIS]
    >
-   >详细了解 [筛选活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) 查看特定人员活动。
+   >了解有关 [筛选活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) 查看特定人员活动。

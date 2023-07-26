@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-导出用户和用户角色的完整列表相当容易。 下面是具体操作方法。
+导出用户和用户角色的完整列表相当容易。 具体方法如下。
 
 1. 转到 **[!UICONTROL 管理员]**.
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   仅此而已，伙计们！ 您应该下载新的Excel文件。
+   仅此而已，伙计们！ 您应该正在下载新的Excel文件。
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

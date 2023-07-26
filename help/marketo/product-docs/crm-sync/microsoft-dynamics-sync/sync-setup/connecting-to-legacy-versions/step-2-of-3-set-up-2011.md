@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571807
-description: 第2步（共3步） — 在Dynamics中设置Marketo同步用户（2011年内部部署） — Marketo文档 — 产品文档
-title: 步骤2（共3步） — 在Dynamics中设置Marketo同步用户（2011内部部署）
+description: 第2步（共3步） — 在Dynamics中设置Marketo同步用户（2011年内部部署） - Marketo文档 — 产品文档
+title: 第2步（共3步） — 在Dynamics中设置Marketo同步用户（2011年内部部署）
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 第2步（共3步）：在Dynamics中设置Marketo同步用户（2011年内部部署） {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
+# 步骤2（共3步）：在Dynamics中设置Marketo同步用户（2011内部部署） {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
-完成前面步骤的工作非常好，让我们继续介绍这些步骤。
+出色完成了前面的步骤，让我们继续介绍这些步骤。
 
 >[!PREREQUISITES]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这适用于Marketo插件版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅 [升级适用于Microsoft Dynamics的Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>这适用于Marketo插件版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅 [升级Marketo Microsoft Dynamics解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
->同步用户的语言设置 [应设置为“英语”](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+>同步用户的语言设置 [应设置为英语](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
 
 1. 在左下角菜单中，选择 **设置**.
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您看不到该角色，请返回 [步骤1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) 并导入解决方案。
+   >如果您看不到角色，请返回 [第1步（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) 并导入解决方案。
 
    >[!NOTE]
    >
@@ -61,9 +61,9 @@ ht-degree: 0%
 
 ## 配置Marketo解决方案 {#configure-marketo-solution}
 
-快完成了！ 在转到下一篇文章之前，我们仅提供了最后几段配置。
+快完成了！ 在转到下一篇文章之前，我们仅做了最后几段配置。
 
-1. 选择 **设置**. 然后选择 **Marketo配置** 在树中。
+1. 选择 **设置**. 然后选择 **Marketo配置** 在树上。
 
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
@@ -91,10 +91,10 @@ ht-degree: 0%
 
    ![](assets/publish-all-customizations1.png)
 
-## 继续执行步骤3之前 {#before-proceeding-to-step}
+## 在继续执行步骤3之前 {#before-proceeding-to-step}
 
     *如果要限制同步的记录数，请立即[设置自定义同步过滤器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
-    *运行[验证Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)进程。 它验证初始设置是否正确。
+    *运行[验证Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)进程。 它验证初始设置是否正确完成。
     *登录Microsoft Dynamics CRM中的“Marketo同步用户”。
 
 做得好！

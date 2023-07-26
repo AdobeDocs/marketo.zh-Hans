@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/create-a-webhook-1.png)
 
-1. 单击 **[!UICONTROL Webhook]**.
+1. 单击 **[!UICONTROL Webhooks]**.
 
    ![](assets/create-a-webhook-2.png)
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
    * **[!UICONTROL URL]**：输入在对Web服务的请求中使用的URL。 插入令牌，如人员的电子邮件地址(**`{{lead.Email Address}}`**)，在您的请求中，单击 **[!UICONTROL 插入令牌]**.
 
-   * **[!UICONTROL 模板]**：如果您希望在请求正文中传输信息，请通过有效负载模板输入。 允许用于以下请求类型的模板：POST、DELETE、PATCH或PUT。 您可以使用数据格式，如JSON或XML。 要在模板中插入令牌，请单击 **[!UICONTROL 插入令牌]**.
+   * **[!UICONTROL 模板]**：如果您希望在请求正文中传输信息，请通过有效负荷模板输入。 允许用于以下请求类型的模板：POST、DELETE、PATCH或PUT。 您可以使用数据格式，如JSON或XML。 要在模板中插入令牌，请单击 **[!UICONTROL 插入令牌]**.
 
-   * **[!UICONTROL 请求令牌编码]**：如果令牌值包含特殊字符（例如&amp;符号），请指示请求的格式(**JSON** 或 **表单/URL**)。
+   * **[!UICONTROL 请求令牌编码]**：如果令牌值包括特殊字符（例如与号、“&amp;”），请指示请求的格式(**JSON** 或 **表单/Url**)。
 
    * **[!UICONTROL 响应类型]**：选择您从服务收到的响应的格式(**JSON** 或 **XML**)。
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->了解详情，请参阅 [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} 深潜。
+>在中了解详情 [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} 深度潜水。

@@ -13,11 +13,11 @@ ht-degree: 8%
 
 # 升级适用于Outlook的Marketo电子邮件加载项 {#upgrade-your-marketo-email-add-in-for-outlook}
 
-在有适用于Outlook的Marketo电子邮件加载项的新版本可用时，请按照以下说明进行升级。
+当适用于Outlook的Marketo电子邮件加载项的新版本可用时，请按照以下说明进行升级。
 
 >[!NOTE]
 >
->自2020年10月1日起，最新版本的Outlook插件不再支持脱机模式。 在10/1上或之后安装/升级后，此操作将生效。
+>自2020年10月1日起，最新版本的Outlook插件不再支持离线模式。 在10/1上或之后安装/升级后，此操作将生效。
 
 ## 下载安装程序 {#download-installer}
 
@@ -52,7 +52,7 @@ ht-degree: 8%
    <td>不适用</td> 
   </tr> 
   <tr> 
-   <td>Outlook 2003</td> 
+   <td>2003年展望</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下载</a></td> 
    <td>不适用</td> 
    <td>不支持</td> 
@@ -117,7 +117,7 @@ ht-degree: 8%
  </tbody> 
 </table>
 
-&#42;Office 365版本：仅限Windows客户端（在Windows 10、企业版或Pro上）。
+&#42;Office 365版本：仅限Windows客户端（在Windows 10、Enterprise或Pro上）。
 
 ## 升级 {#upgrade}
 

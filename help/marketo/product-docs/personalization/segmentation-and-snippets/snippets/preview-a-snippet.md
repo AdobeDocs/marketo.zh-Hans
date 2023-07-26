@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >[将内容添加到代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
-代码片段是根据分段规则更改的动态内容块。
+片段是动态内容的块，会根据分段规则进行更改。
 
 1. 转到 **Design Studio**.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
-“预览”功能对于确保内容适合每个区段非常有用。
+“预览”功能非常棒，可确保您的内容适合每个区段。
 
 >[!MORELIKETHIS]
 >

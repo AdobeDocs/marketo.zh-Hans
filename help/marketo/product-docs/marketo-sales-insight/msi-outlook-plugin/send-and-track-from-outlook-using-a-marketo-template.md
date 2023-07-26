@@ -6,14 +6,14 @@ exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
 # 使用Marketo模板从Outlook发送和跟踪 {#send-and-track-from-outlook-using-a-marketo-template}
 
-如果您的营销团队已为您提供了模板，下面说明了如何在撰写电子邮件时使用这些模板来节省时间。
+如果您的营销团队已经为您提供了模板，下面说明了如何在撰写电子邮件时使用这些模板来节省时间。
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >加载项不支持令牌。 删除模板中可能包含的任何内容。
+   >该加载项不支持令牌。 删除模板中可能包含的任何内容。
 
 1. 查看预览，确保它看起来正常，然后单击 **发送**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
-   然后你来了！ 通过使用您的超级优秀营销团队为您制作的模板，您可以节省大量时间。
+   就这样！ 通过使用您的超级营销团队为您制作的模板，您可以节省大量时间。
 
 >[!MORELIKETHIS]
 >

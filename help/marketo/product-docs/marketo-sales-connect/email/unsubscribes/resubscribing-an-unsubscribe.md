@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14746177
-description: 重新订阅取消订阅 — Marketo文档 — 产品文档
-title: 重新订阅取消订阅
+description: 重新订阅和取消订阅 — Marketo文档 — 产品文档
+title: 重新订阅和取消订阅
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-# 重新订阅取消订阅 {#resubscribing-an-unsubscribe}
+# 重新订阅和取消订阅 {#resubscribing-an-unsubscribe}
 
-有时候，人们会选择重新接收电子邮件。 下面是如何使取消订阅再次可邮寄。
+有时候，人们会希望选择重新接收电子邮件。 下面是如何使取消订阅再次成为可发送邮件的。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果已打开取消订阅同步，则必须从ToutApp中移除取消订阅，并取消选中Salesforce中的选择退出，以便人员记录不再同步。
+>如果已打开取消订阅同步，则必须从ToutApp中删除取消订阅，并在Salesforce中取消选中选择退出，以使人员记录不再同步。
 
 1. 转到 [Web应用程序](https://toutapp.com/login) 并单击 **人员**.
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果已打开unsubscribe同步，则还必须在Salesforce中取消选中记录上的选择退出框，否则夜间同步将在Sales Connect中重新取消订阅该人员，因为它将检测到该人员在Salesforce中被选择退出。 如果选择退出/取消订阅其中任何一条记录，则同步会将链接的记录标记为已取消订阅。
+>如果已打开取消订阅同步，则还必须在Salesforce中取消选中记录上的选择退出框，否则夜间同步将重新取消订阅Sales Connect中的人员，因为它将检测到人员已在Salesforce中选择退出。 如果其中任何一条记录被选择退出/取消订阅，则同步会将链接的记录标记为此类记录。

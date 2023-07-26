@@ -5,7 +5,7 @@ exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -84,5 +84,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [将致电原因和致电结果记录到Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [将呼叫原因和呼叫结果记录到Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [调用结果](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)

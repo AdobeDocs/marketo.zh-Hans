@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949285
-description: 在Marketo - Marketo文档 — 产品文档中记录潜在客户的入站邮件
+description: 在Marketo中记录潜在客户的入站邮件 — Marketo文档 — 产品文档
 title: 在Marketo中记录潜在客户的入站邮件
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
@@ -25,13 +25,13 @@ ht-degree: 0%
 >
 >您还可以右键单击消息，然后单击 **使用Marketo登录**.
 
-您应该会看到一个确认消息。
+您应该会看到确认消息。
 
 ![](assets/image2014-9-23-17-3a13-3a39.png)
 
-## 从电子邮件本身 {#from-the-email-itself}
+## 来自电子邮件本身 {#from-the-email-itself}
 
-如果您已打开电子邮件，只需从此处单击“使用Marketo登录”按钮即可。
+如果您已打开电子邮件，则只需从该处单击使用Marketo记录按钮即可。
 
 ![](assets/image2014-9-23-17-3a14-3a14.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-17-3a14-3a29.png)
 
-记录潜在客户的回复，以将其添加到Marketo中的历史记录中。
+记录商机的回复，以将其添加到Marketo中的历史记录中。
 
 >[!MORELIKETHIS]
 >

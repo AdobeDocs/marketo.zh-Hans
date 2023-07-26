@@ -16,7 +16,7 @@ ht-degree: 1%
 有两种通知类型包含在中 [!DNL Workplace] 集成：
 
 * **系统通知**：获取 [!DNL Workplace] 有关Marketo实例中重要事件的通知，例如有关当前营销活动状态的警报以及任何需要立即关注的问题（CRM错误和API限制）。
-* **有趣的时刻**：当 [!DNL Marketo Insight] 是由销售帐户中的已知个人触发的，可以通过以下方式通知潜在客户所有者 [!DNL Workplace]. 通知包括潜在客户信息以及有关销售帐户的详细信息。
+* **有趣的时刻**：当 [!DNL Marketo Insight] 是由销售帐户中的已知个人触发的，可以通过以下方式通知潜在客户所有者： [!DNL Workplace]. 通知包括潜在客户信息以及有关销售帐户的详细信息。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 1%
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-2.png)
 
-1. 选择 **[!UICONTROL 新]** 然后 **[!UICONTROL 新服务]**.
+1. 选择 **[!UICONTROL 新建]** 然后 **[!UICONTROL 新建服务]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
 
@@ -58,18 +58,18 @@ ht-degree: 1%
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-8.png)
 
-1. 在 [!DNL Workplace] 弹出窗口，选择 [!DNL Facebook] 您希望将Marketo通知发布到的组(例如， [!UICONTROL 合作伙伴集成])。 单击 **[!UICONTROL 安装]**.
+1. 在 [!DNL Workplace] 弹出窗口，选择 [!DNL Facebook] 要将Marketo通知发布到的组(例如， [!UICONTROL 合作伙伴集成])。 单击 **[!UICONTROL 安装]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-9.png)
 
-1. 您应会看到下面的确认通知。 选项卡会自动关闭。
+1. 您应该会看到下面的确认通知。 选项卡会自动关闭。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-10.png)
 
-1. 刷新“Marketo”选项卡并确认 [!DNL Workplace] 现已列为中的有效服务 [!DNL LaunchPoint].
+1. 刷新Marketo选项卡并确认 [!DNL Workplace] 现已列为中的有效服务 [!DNL LaunchPoint].
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-11.png)
 
-   通知现在将开始发布到 [!DNL Facebook] 您在步骤7中选择的组。 它们看起来会像这样：
+   通知将立即开始发布到 [!DNL Facebook] 您在步骤7中选择的组。 它们看起来会像这样：
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-12.png)

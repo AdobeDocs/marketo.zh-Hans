@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # 修改或删除交互式网络研讨会 {#modify-or-delete-an-interactive-webinar}
 
-了解如何更改您的交互式网络研讨会。
+了解如何更改交互式网络研讨会。
 
 ## 修改交互式网络研讨会 {#modify-an-interactive-webinar}
 
-1. 选择所需的事件程序并单击 **变更聊天室/模板**.
+1. 选择所需的事件程序，然后单击 **更改会议室/模板**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. 房间会装满。 如果要更改文件室，请从“文件室”下拉列表中选择一个文件室。 要仅更新模板，请单击 **使用室**.
+1. 房间会装满。 如果要更改文件室，请从“文件室”下拉列表中选择一个文件室。 要仅更新模板，请单击 **使用房间**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 ## 重新安排交互式网络研讨会 {#reschedule-an-interactive-webinar}
 
-1. 选择所需的事件项目群，然后单击当前计划日期/时间旁边的铅笔图标。
+1. 选择所需的事件程序，然后单击当前计划日期/时间旁边的铅笔图标。
 
    ![](assets/modify-or-delete-an-interactive-webinar-6.png)
 
-1. 单击日历图标，选择新日期/时间，然后单击 **保存**.
+1. 单击日历图标，选择新的日期/时间，然后单击 **保存**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-7.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
    >
    >您还可以右键单击树中的Event Program并选择 **克隆** 从那里。
 
-1. 为克隆的程序提供一个名称，设置工作区和目标（如果您希望程序驻留在其他位置），然后单击 **保存**.
+1. 为克隆的程序提供一个名称，设置工作区和目标（如果您希望程序在其他位置运行），然后单击 **保存**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
@@ -76,7 +76,7 @@ ht-degree: 0%
    >
    >目前，您只能将克隆的交互式网络研讨会另存为交互式网络研讨会。 将克隆的网络研讨会另存为合作伙伴网络研讨会（如Zoom、ON24等） 即将推出。
 
-1. 选择克隆的网络研讨会的设置，然后单击 **克隆**.
+1. 选择克隆网络研讨会的设置，然后单击 **克隆**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
@@ -100,4 +100,4 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >如果程序中有任何本地资产，则这些资产也将被删除。
+   >如果程序中有任何本地资产，则也会删除它们。

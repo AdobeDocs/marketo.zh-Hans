@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360307
 description: 启用或禁用“金箱功能” — Marketo文档 — 产品文档
-title: 启用或禁用“金库功能”
+title: 启用或禁用“宝箱”功能
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 启用或禁用“金库功能” {#enable-or-disable-treasure-chest-features}
+# 启用或禁用“宝箱”功能 {#enable-or-disable-treasure-chest-features}
 
-Treasure Check提供一些尚未完全支持的有趣实验功能。
+Treasure Check提供了一些有趣的实验性功能，但这些功能并未得到完全支持。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Treasure Check提供一些尚未完全支持的有趣实验功能。
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. 单击 **[!UICONTROL 编辑]** 用于要启用或禁用的功能。
+1. 单击 **[!UICONTROL 编辑]** 要启用或禁用的功能。
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 

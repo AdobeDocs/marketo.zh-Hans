@@ -39,4 +39,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >启用该字段后，数据将在第二天在Revenue Cycle Analytics中可用。
+   >启用该字段后，数据将在第二天的Revenue Cycle Analytics中可用。

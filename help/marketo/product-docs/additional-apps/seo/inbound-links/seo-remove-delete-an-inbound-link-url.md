@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949253
-description: SEO — 删除/删除入站链接URL - Marketo文档 — 产品文档
-title: SEO — 删除/删除入站链接URL
+description: SEO — 删除/入站链接URL - Marketo文档 — 产品文档
+title: SEO — 移除/删除入站链接URL
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# SEO — 删除/删除入站链接URL {#seo-remove-delete-an-inbound-link-url}
+# SEO — 移除/删除入站链接URL {#seo-remove-delete-an-inbound-link-url}
 
-有时您会想要删除入站链接。 方法如下：
+有时候，您需要删除入站链接。 方法如下：
 
 1. 转到 **[!UICONTROL 入站链接]** 部分。
 

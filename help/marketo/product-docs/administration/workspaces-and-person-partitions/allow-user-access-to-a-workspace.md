@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 允许用户访问工作区 {#allow-user-access-to-a-workspace}
 
-工作区可以出于任何原因（例如业务单位或地理位置分离）。 它们分隔资产（智能列表、程序等） 每支队伍的。 以下是如何授予用户访问一个或多个工作区的权限。
+工作区可以出于任何原因（如业务单位或地理位置分离）。 它们分隔资产（智能列表、程序等） 每支队伍的。 以下是如何授予用户访问一个或多个工作区的权限。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->详细了解 [工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>了解有关 [工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >您可以允许用户拥有对工作区的任意访问权限组合。
 
-保存更改后，您应会看到更新。
+保存更改后，您应该会看到更新。
 
 ![](assets/allow-user-access-to-a-workspace-5.png)
 

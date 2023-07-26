@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 隐藏和取消隐藏字段 {#hide-and-unhide-a-field}
 
-如果您不再可用于Marketo中的字段，则可以在UI中隐藏该字段，以便它不再显示在应用程序中。
+如果您不再使用Marketo中的字段，则可以在UI中隐藏该字段，以便它不再显示在应用程序中。
 
 ## 隐藏字段 {#hide-a-field}
 
@@ -29,13 +29,13 @@ ht-degree: 1%
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. 找到该字段，选择它，然后位于下 **[!UICONTROL 字段操作]** 点击 **[!UICONTROL 隐藏字段]**.
+1. 找到该字段，选择它，然后在 **[!UICONTROL 字段操作]** 单击 **[!UICONTROL 隐藏字段]**.
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
    >[!NOTE]
    >
-   >要隐藏字段，不得将其与任何其他资产（包括存档资产）关联。 在隐藏之前，请确保从所有智能列表、流程步骤选择、表单、电子邮件等中删除该字段。
+   >要隐藏字段，该字段不得与任何其他资产（包括已存档的资产）关联。 在隐藏之前，请确保从所有智能列表、流程步骤选择、表单、电子邮件等中删除该字段。
 
 1. 单击 **[!UICONTROL 隐藏]** 以确认。
 
@@ -63,4 +63,4 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >需要执行批量隐藏/取消隐藏？ 联系Marketo专业服务： services@marketo.com。
+   >需要执行批量隐藏/取消隐藏？ 联系Marketo专业服务：services@marketo.com。

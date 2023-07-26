@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 
-此模板包含以下内容：
+此模板包括以下内容：
 
-* 带有徽标和3个按钮的页眉（可选）
+* 带徽标和3个按钮的页眉（可选）
 * 主分区
 
    * 包括主页文本和投票。
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 三个正文部分（可选）
 * 页脚（可选）
 
-**右键单击以下内容可下载此模板：**
+**右键单击以下内容以下载此模板：**
 
 [模板3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在Microsoft中创建任务 {#create-task-in-microsoft}
 
-作为营销人员，您拥有的信息可以帮助销售人员完成交易。 您可以创建任务，以告知他们应该做什么以及何时应该做。
+作为营销人员，您掌握的信息可帮助销售人员完成交易。 您可以创建任务，以告知他们应该做什么以及何时应该做什么。
 
 在Microsoft中创建任务可在Microsoft中与人员（潜在客户或联系人）相关的活动下创建任务。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo同步用户创建任务时， **到期时间** 是要在Microsoft中创建的任务的必填字段。 如果未输入值，Marketo将默认输入5天。
+>当Marketo同步用户创建任务时， **到期时间** 是要在Microsoft中创建的任务的必填字段。 如果未输入值，Marketo将默认输入5天。
 
 自定义所有字段以您希望的方式创建任务。
 
@@ -35,8 +35,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在“流程操作”中为任务指定的“状态”字段会更新Microsoft中的“状态原因”字段。
+>在“流程操作”中为任务指定的“状态”字段更新了Microsoft中的“状态原因”字段。
 
 >[!TIP]
 >
->您可以使用 `{{lead.tokens}}`， `{{company.tokens}}`， `{{campaign.tokens}}` 和 `{{system.tokens}}` 在 **主题** 和 **描述**. 参见 [流步骤的令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) 了解更多详细信息。
+>您可以使用 `{{lead.tokens}}`， `{{company.tokens}}`， `{{campaign.tokens}}` 和 `{{system.tokens}}` 在 **主题** 和 **描述**. 请参阅 [流程步骤的令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) 以了解更多详细信息。

@@ -6,7 +6,7 @@ exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -21,28 +21,28 @@ ht-degree: 0%
 
 ## 发送示例电子邮件 {#send-a-sample-email-1}
 
-1. 查找并选择您的电子邮件。 单击 **电子邮件操作** 下拉菜单并选择 **发送示例**.\
+1. 查找并选择您的电子邮件。 单击 **电子邮件操作** 下拉并选择 **发送示例**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
-   >我的令牌解析为适用于电子邮件程序的值。
+   >我的令牌将解析为适用于电子邮件程序的值。
 
-1. 输入一个或多个要投放的电子邮件地址。 对于多个电子邮件地址，请使用逗号分隔它们。 单击 **发送** 完成时。
+1. 输入一个或多个电子邮件地址进行投放。 对于多个电子邮件地址，请使用逗号分隔。 单击 **发送** 完成时。
 
    ![](assets/two.png)
 
    >[!IMPORTANT]
    >
-   >如果您输入多个电子邮件地址，则每个收件人都会看到这些地址。 输入的第一个电子邮件地址将是主收件人，后续的每个电子邮件地址都将是“抄送”收件人。
+   >如果您输入多个电子邮件地址，则每个收件人都会看到这些地址。 输入的第一位将是主收件人，后续的每个电子邮件地址都将是“抄送”收件人。
 
    >[!TIP]
    >
-   >如果要将令牌解析为特定人员，请在 **人员下拉列表** 步骤2.
+   >如果要以特定人员身份解析令牌，请在 **人员下拉列表** 步骤2.
 
 ## 编辑时发送示例电子邮件 {#send-a-sample-email-while-editing}
 
-1. 找到您的电子邮件，将其选中并单击 **编辑草稿** 选项卡。
+1. 查找您的电子邮件，选择它并单击 **编辑草稿** 选项卡。
 
    ![](assets/three-281-29.jpg)
 
@@ -50,21 +50,21 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 输入投放的电子邮件地址，然后单击 **发送**.
+1. 输入用于投放的电子邮件地址，然后单击 **发送**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >触发器字段仅适用于那些利用 [电子邮件脚本](https://developers.marketo.com/documentation/velocity-script/).
+   >触发器字段仅适用于以下用户： [电子邮件脚本](https://developers.marketo.com/documentation/velocity-script/).
 
 ## 发送基于区段的示例电子邮件 {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[将分段应用于您的电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
+>[将分段应用于电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. 找到您的电子邮件，将其选中并单击 **编辑草稿** 选项卡。
+1. 查找您的电子邮件，选择它并单击 **编辑草稿** 选项卡。
 
    ![](assets/three-281-29.jpg)
 
@@ -72,11 +72,11 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. 单击 **查看方式** 下拉菜单并选择 **分段**.
+1. 单击 **查看方式** 下拉并选择 **分段**.
 
    ![](assets/2.png)
 
-1. 此时将显示一个下拉列表，其中包含可用的分段。 单击该图标并选择所需的图标。
+1. 此时将显示一个包含可用区段的下拉列表。 单击该图标并选择所需的图标。
 
    ![](assets/3.png)
 

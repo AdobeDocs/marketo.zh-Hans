@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 编辑Analytics行为设置 {#edit-analytics-behavior-settings}
 
-您可以设置 [管理员级别的Analytics行为对渠道](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)，但您也可以在项目级别对其进行编辑。 下面是具体操作方法。
+您可以设置 [对渠道的管理员级别的Analytics行为](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)，但您也可以在项目级别对其进行编辑。 具体方法如下。
 
 1. 转到 **营销活动**.
 
@@ -35,13 +35,13 @@ ht-degree: 0%
 >
 >**条件**
 >
->**包含**  — 此选项将确保程序可用于在收入资源管理器和分析器中报告，无论是否包括期间成本。
+>**包含**  — 此选项将确保程序可用于在收入资源管理器和分析器中报告，无论您是否包括期间成本。
 >
 >**可操作**  — 此选项导致该程序不会显示在收入资源管理器或分析器中。
 
 >[!NOTE]
 >
->默认行为（如果未应用此设置）是，仅当至少有一个期间成本（即使分配了零美元）时，程序才会包含在Analytics中。
+>默认行为（如果未应用此设置）是，仅当至少有一个期间成本（即使分配了零美元的期间成本）时，项目才会包含在Analytics中。
 
 1. 单击 **保存**.
 
@@ -51,4 +51,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这些更改将在第二天生效，该程序要么可用，要么从收入资源管理器和分析器中退出。
+>这些更改将在第二天生效，该程序要么可用，要么从Revenue Explorer和分析器中退出。

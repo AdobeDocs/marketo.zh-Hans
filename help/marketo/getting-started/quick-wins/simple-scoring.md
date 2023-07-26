@@ -28,15 +28,15 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-2.png)
 
-1. 将营销活动文件夹命名为“Scoring”，然后单击 **[!UICONTROL 创建]**.
+1. 将活动文件夹命名为“Scoring”，然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/simple-scoring-3.png)
 
    >[!NOTE]
    >
-   >如果您已经有一个评分文件夹，请为此文件夹命名其他名称，例如评分1。 文件夹名称必须是唯一的。
+   >如果您已经有一个评分文件夹，请将其命名为其他名称，例如评分1。 文件夹名称必须是唯一的。
 
-1. 右键单击 **评分** 文件夹并选择 **[!UICONTROL 新建智能营销活动]**.
+1. 右键单击 **得分** 文件夹并选择 **[!UICONTROL 新建智能营销活动]**.
 
    ![](assets/simple-scoring-4.png)
 
@@ -60,17 +60,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您已完成 [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快赢吧，你应该有表格的。 如果表单使用了其他名称，请选择该名称。
+   >如果您已完成 [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 速战速决，你应该有表格的。 如果表单使用了其他名称，请选择该名称。
 
 1. 单击 **[!UICONTROL 流量]** 选项卡。
 
    ![](assets/simple-scoring-9.png)
 
-1. 拖动 **更改得分** “流”操作显示在左侧画布上。
+1. 拖动 **更改得分** “流”操作在左侧画布上。
 
    ![](assets/simple-scoring-10.png)
 
-1. 您可以键入要添加到人员得分的任何值。 让我们在 **[!UICONTROL 更改]** 字段。
+1. 您可以键入要添加到人员得分的任何值。 我们来输入“+5” **[!UICONTROL 更改]** 字段。
 
    ![](assets/simple-scoring-11.png)
 
@@ -82,17 +82,17 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-12.png)
 
-1. 单击 **[!UICONTROL 激活]** 确认屏幕上。
+1. 单击 **[!UICONTROL 激活]** 在确认屏幕上。
 
    ![](assets/simple-scoring-13.png)
 
 >[!NOTE]
 >
->一旦激活，此营销活动将在每次人员填写表单时运行。 该营销活动将一直运行，直到被停用。
+>一旦激活，此营销活动将在每次用户填写表单时运行。 该营销活动将继续运行，直到被停用。
 
 ## 第2步：填写表单 {#step-fill-out-the-form}
 
-1. 选择您在中创建的登陆页面 [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速获胜。
+1. 选择您在中创建的登陆页面 [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快赢。
 
    ![](assets/simple-scoring-14.png)
 
@@ -100,13 +100,13 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-15.png)
 
-1. 用您的名字、姓氏和电子邮件地址填写表单，然后单击 **[!UICONTROL 提交]**.
+1. 填写您的名字、姓氏和电子邮件地址，然后单击 **[!UICONTROL 提交]**.
 
    ![](assets/simple-scoring-16.png)
 
    >[!NOTE]
    >
-   >使用您首次以人员身份输入时所用的相同名称和电子邮件地址，以应用“+5”分数增加。
+   >使用您首次以个人身份输入时所用的相同名称和电子邮件地址，以应用“+5”分数提升。
 
 ## 步骤3：查看人员信息 {#step-view-the-person-info}
 
@@ -118,11 +118,11 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-18.png)
 
-1. 双击人员。
+1. 双击您的人员。
 
    ![](assets/simple-scoring-19.png)
 
-将在新选项卡或窗口中打开您的人员详细信息。 看看您的分数在填写表单时如何提高5分？
+将在新选项卡或窗口中打开您的人员详细信息。 了解填写表单后得分如何提高5分？
 
 ![](assets/simple-scoring-20.png)
 

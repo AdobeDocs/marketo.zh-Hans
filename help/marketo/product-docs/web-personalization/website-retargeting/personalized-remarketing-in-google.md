@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Google中的个性化再营销 {#personalized-remarketing-in-google}
 
-通过个性化再营销，您可以使用RTP数据和Google Analytics的强大功能通过Google Display Network重新吸引用户。
+通过个性化再营销，您可以使用RTP数据和Google Analytics的强大功能重新吸引用户，从而触及Google显示网络。
 
 >[!PREREQUISITES]
 >
->* 完成 [使用Web个性化数据重新定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 配置
+>* 完成 [使用Web个性化数据重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 配置
 >* 审核 [使用Google Analytics帮助进行再营销](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) 文档。
 
 ## 在Google中创建再营销受众 {#creating-a-remarketing-audience-in-google}
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/remarketing-ga-screenshots.jpg)
 
-1. 单击 **+新建受众**.
+1. 单击 **+新受众**.
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
@@ -46,10 +46,10 @@ ht-degree: 0%
 >* 事件类别：区段、Insightera-CTA、RTP — 再营销
 >* 事件标签：区段名称、促销活动名称、分段受众名称
 >
->在Google Universal Analytics：
+>在Google Universal Analytics中：
 >
->* 自定义Dimension：组织、行业、类别（《财富》500,1000强企业、全球2000强企业）、集团（企业、中小型企业）、ABM列表（指定客户列表）
->* 事件类别：RTP-Segment、RTP-Campaign、RTP-Remarketing
+>* 自定义Dimension：组织、行业、类别(Fortune 500,1000， Global 2000)、组(Enterprise， SMB)、ABM列表（指定帐户列表）
+>* 事件类别：RTP-Segment、RTP-Campaign RTP-Remarketing
 >* 事件标签：区段名称、促销活动名称、分段受众名称
 
 **RTP分段受众数据的再营销受众示例**
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 1. 单击 **序列**.
 1. 选择 **RTP行业**.
-1. 输入 **行业名称** (例如： 金融服务、教育……)。
+1. 输入 **行业名称** (例如 金融服务、教育……)。
 1. 单击 **应用**.
 1. 输入 **受众名称**. 单击 **保存**.
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. 输入 **广告组名称，** 进入 **增强型CPC**，选择 **再营销列表**.
+1. 输入 **广告组名称，** 进入 **增强CPC**，选择 **再营销列表**.
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
@@ -94,5 +94,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Web个性化数据重新定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [使用Web个性化数据重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [facebook中的个性化再营销](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)

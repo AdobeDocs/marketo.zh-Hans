@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->应用程序内消息传送是一个加载项应用程序。 与您的Marketo客户经理确认以确保其已激活。
+>应用程序内消息传送是一个加载项应用程序。 与您的Marketo客户经理确认，以确保其已激活。
 
-Marketo mobile engagement允许您创建、配置和发送通知，就像创建电子邮件一样。  在可从移动设备应用程序创建和发送推送通知之前，您需要由Marketo管理员和移动设备应用程序开发人员执行一些设置。
+Marketo mobile engagement允许您创建、配置和发送通知，就像创建电子邮件一样。  您需要先让Marketo管理员和移动应用程序开发人员执行一些设置，然后才能从移动应用程序创建和发送推送通知。
 
 >[!CAUTION]
 >
->推送通知是一个加载项，必须由Marketo管理员打开，然后才能启动。
+>推送通知是一个加载项，必须由Marketo管理员打开才能启动。
 
 ## 步骤1：管理员和开发人员执行初始设置 {#step-admin-and-developer-perform-initial-setups}
 
-Marketo管理员和移动设备应用程序开发人员可共同为您进行设置。 参见 [在创建推送通知和应用程序内消息之前](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) 了解详细信息。
+Marketo管理员和移动设备应用程序开发人员共同为您进行设置。 请参阅 [在创建推送通知和应用程序内消息之前](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) 以了解详细信息。
 
 ## 步骤2：创建推送通知 {#step-create-a-push-notification}
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10095358
 description: 在Google邮件中查看人员和帐户信息和活动 — Marketo文档 — 产品文档
-title: 在Google Mail中查看人员和帐户信息以及活动
+title: 在Google Mail中查看人员和帐户信息和活动
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# 在Google Mail中查看人员和帐户信息以及活动 {#view-person-and-account-information-and-activities-in-google-mail}
+# 在Google Mail中查看人员和帐户信息和活动 {#view-person-and-account-information-and-activities-in-google-mail}
 
 ## 在Google Mail中查看活动 {#view-activities-in-google-mail}
 
 使用上下文Marketo Insights窗格查看帐户信息和最近活动。
 
-该窗格会显示在收件箱和已发送邮件的普通Google Mail阅读窗格中，并显示向您发送正在阅读的电子邮件（或向“已发送”文件夹中的项目发送电子邮件）的用户的信息和活动。
+该窗格会显示在收件箱和“已发送”项目的普通Google邮件阅读窗格中，并显示向您发送所阅读电子邮件（或向“已发送”文件夹中的项目发送电子邮件）的人员的信息和活动。
 
-“人员活动”选项卡显示与人员相关的信息，如姓名、职务、图片等。 您还可以查看发送电子邮件后发生的最新活动，例如访问网页、填写表单、单击链接、参加活动以及打开电子邮件。
+人员活动选项卡显示与人员相关的信息，如姓名、职务、图片等。 您还可以查看在发送电子邮件后发生的最新活动，例如访问网页、填写表单、单击链接、参加活动以及打开电子邮件。
 
 ![](assets/1.png)
 
-“帐户活动”选项卡显示相关的帐户信息，例如公司名称、网站URL和位置。 该选项卡还会显示最近的帐户活动。 帐户由人员域标识。 如果订阅中的任何Sales Insight用户曾对应过活动，则列表中会显示这些活动。
+“帐户活动”选项卡显示相关的帐户信息，如公司名称、网站URL和位置。 该选项卡还会显示最近的帐户活动。 帐户由人员域标识。 如果订阅中的任何Sales Insight用户曾对应过活动，则列表中会显示这些活动。
 
 ![](assets/2.png)
 

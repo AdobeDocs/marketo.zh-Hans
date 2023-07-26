@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 快速指南 {#quick-guide}
 
-下面列出的文章将帮助您设置和了解AdobeIdentity Management的Marketo Engage。
+下面列出的文章将帮助您设置和了解如何使用AdobeIdentity Management进行Marketo Engage。
 
 ## 系统管理员设置 {#system-admin-setup}
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## Marketo Engage中的仅API用户 {#api-only-user-in-marketo-engage}
 
-仅Marketo EngageAPI必须在Marketo Engage中创建和管理用户。
+仅限Marketo EngageAPI必须在Marketo Engage中创建和管理用户。
 
 [为启用Adobe IMS的订阅添加“仅API用户”](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## 用户登录 {#user-sign-in}
 
-[使用Adobe ID登录用户](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
+[使用Adobe ID进行用户登录](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 
 ## 常见问题解答 {#faq}
 

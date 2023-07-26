@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359953
 description: 内容已耗竭的人员 — Marketo文档 — 产品文档
-title: 内容已耗竭的人
+title: 已耗尽内容的人
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 内容已耗竭的人 {#people-who-have-exhausted-content}
+# 已耗尽内容的人 {#people-who-have-exhausted-content}
 
-当人员收到流中的每段内容时，它已经耗尽了所有可能性，并将空闲等待，直到添加了更多内容。 你可以通过多种方式找到那些“精疲力尽”的人。
+当个人收到流中的每段内容时，它就会耗尽所有可能性，并等待空闲直到添加更多内容。 你可以在几个方面找到“精疲力竭”的人。
 
-## 参与计划过滤器的成员 {#member-of-engagement-program-filter}
+## 参与计划筛选的成员 {#member-of-engagement-program-filter}
 
-1. 创建新的智能列表，然后在 **参与计划成员** 筛选条件。
+1. 创建新的智能列表，然后在 **参与计划成员** 筛选。
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
-   这向您显示已用完所有内容的人和未用完所有内容的人。
+   这会向您显示已用完所有内容的人和未用完内容的人。
 
 ## 串流 {#stream}
 

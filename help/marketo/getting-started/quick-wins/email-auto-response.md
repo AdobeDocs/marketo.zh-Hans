@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-1.png)
 
-1. 在左侧菜单中选择您的程序，然后单击 **[!UICONTROL 新]** 下拉列表，然后选择 **[!UICONTROL 新建本地资产]**.
+1. 在左侧菜单中选择您的程序，然后单击 **[!UICONTROL 新建]** 下拉列表，然后选择 **[!UICONTROL 新建本地资产]**.
 
    ![](assets/email-auto-response-2.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-4.png)
 
-   电子邮件编辑器将在新窗口或选项卡中打开。 如果阻止弹出窗口，请单击 **[!UICONTROL 编辑草稿]** 在资源摘要页面中访问电子邮件。
+   将在新窗口或选项卡中打开电子邮件编辑器。 如果阻止弹出窗口，请单击 **[!UICONTROL 编辑草稿]** 在资产摘要页面上访问电子邮件。
 
 1. 输入主题行，然后双击电子邮件的可编辑区域。
 
@@ -50,17 +50,17 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-6.png)
 
-1. 键入您的电子邮件内容并单击 **[!UICONTROL 保存]**.
+1. 键入您的电子邮件内容，然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/email-auto-response-7.png)
 
-1. 单击 **[!UICONTROL 电子邮件操作]** 下拉菜单并选择 **[!UICONTROL 批准并关闭]**.
+1. 单击 **[!UICONTROL 电子邮件操作]** 下拉并选择 **[!UICONTROL 批准并关闭]**.
 
    ![](assets/email-auto-response-8.png)
 
-## 步骤2：创建智能营销活动 {#step-create-a-smart-campaign}
+## 步骤2：创建Smart Campaign {#step-create-a-smart-campaign}
 
-1. 选择您的项目，单击 **[!UICONTROL 新]** 下拉菜单并选择 **[!UICONTROL 新建智能营销活动]**.
+1. 选择您的项目，单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 新建智能营销活动]**.
 
    ![](assets/email-auto-response-9.png)
 
@@ -78,7 +78,7 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-12.png)
 
-1. 选择 **[!UICONTROL 我的表单]** 下拉列表中的每个字段。 然后单击 **[!UICONTROL 流量]** 选项卡。
+1. 选择 **[!UICONTROL 我的表单]** 下拉菜单中。 然后单击 **[!UICONTROL 流量]** 选项卡。
 
    ![](assets/email-auto-response-13.png)
 
@@ -102,23 +102,23 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-18.png)
 
-1. 单击 **[!UICONTROL 激活]** 确认屏幕上。
+1. 单击 **[!UICONTROL 激活]** 在确认屏幕上。
 
    ![](assets/email-auto-response-19.png)
 
 >[!NOTE]
 >
->一旦激活，此营销活动将在每次人员填写指定表单时运行。 该营销活动将一直运行，直到被停用。
+>一旦激活，此营销活动将在每次人员填写指定表单时运行。 该营销活动将继续运行，直到被停用。
 
 ## 第3步：填写表单 {#step-fill-out-the-form}
 
-1. 选择 **我的页面** (这是在 [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速入门)，然后单击 **[!UICONTROL 预览]**.
+1. 选择 **我的页面** (这是在 [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速入选)并单击 **[!UICONTROL 预览]**.
 
    ![](assets/email-auto-response-20.png)
 
    _您的“免费试用”登陆页面将在新选项卡中打开。_
 
-1. 用您的名字、姓氏和电子邮件地址填写表单，然后单击 **[!UICONTROL 提交]**.
+1. 填写您的名字、姓氏和电子邮件地址，然后单击 **[!UICONTROL 提交]**.
 
    ![](assets/email-auto-response-21.png)
 
@@ -134,4 +134,4 @@ ht-degree: 0%
 
 [◄任务3：简单评分](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[任务5：输入人员名单►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[任务5：导入人员列表►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

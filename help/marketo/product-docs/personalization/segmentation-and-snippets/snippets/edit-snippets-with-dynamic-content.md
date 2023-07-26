@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [创建代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-使用代码片段中的分段轻松管理电子邮件和登陆页面上的动态内容。
+使用片段中的分段轻松管理电子邮件和登陆页面上的动态内容。
 
 ## 添加分段 {#add-segmentation}
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 应用动态内容 {#apply-dynamic-content}
 
-1. 单击 **区段** 然后编辑内容。 对每个区段重复
+1. 单击 **区段** 然后编辑内容。 为每个区段重复
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 >
 >在使用代码片段之前，请记住先批准该代码片段。
 
-是不是那么简单？ 现在，您已准备好在电子邮件和登陆页面上使用这些代码片段。
+那不是很简单吗？ 现在，您已准备好在电子邮件和登陆页面上使用这些代码片段。
 
 >[!MORELIKETHIS]
 >

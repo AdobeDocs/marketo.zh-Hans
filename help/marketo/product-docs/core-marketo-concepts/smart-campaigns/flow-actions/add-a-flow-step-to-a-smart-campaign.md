@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 向智能营销活动添加流量步骤 {#add-a-flow-step-to-a-smart-campaign}
 
-流程步骤告知Marketo您希望对符合条件的一组用户发生的情况。 它们是您的指示，智能营销活动将执行您的投标！
+流程步骤告知Marketo您希望对符合条件的一组人员发生的情况。 它们是您的说明，智能营销活动将执行您的投标！
 
 1. 转到 **营销活动**.
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-16-3a27-3a1.png)
 
-   键入以搜索流步骤，然后将其拖放到画布上。 您可以添加多个流步骤 — 对您希望营销活动执行的每个步骤重复此操作。
+   键入以搜索流程步骤，然后将其拖放到画布上。 您可以添加多个流步骤 — 对您希望营销活动执行的每个步骤重复此操作。
 
    ![](assets/image2014-9-19-16-3a27-3a7.png)
 
-1. 单击下拉菜单并选择适当的选项。
+1. 单击下拉菜单并选择相应的选项。
 
    ![](assets/four-1.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->流程步骤按其列出的顺序执行。  [重新排序流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) 以确保它们按照正确的顺序排列。
+>流程步骤按其列出的顺序执行。  [对流程步骤重新排序](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) 确保它们按正确的顺序排列。
 
 >[!TIP]
 >
->如果条目无效，将出现一条红色斜线。 将鼠标悬停在该行上以查看如何更正它。
+>如果条目无效，将出现红色弯折线。 将鼠标悬停在该行上以查看如何更正该行。
 
-太棒了！ 请确保 [查看并验证智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) 在计划或激活它之前。
+太棒了！ 请务必 [查看并验证智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) 在计划或激活它之前。
 
 >[!MORELIKETHIS]
 >

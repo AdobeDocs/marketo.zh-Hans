@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**条件**
 >
->批量活动会在特定时间启动，并一次影响一组特定人员。 例如，向加利福尼亚的所有人发送电子邮件。
+>批量促销活动在特定时间启动，并且同时影响一组特定人员。 例如，向加利福尼亚的所有人发送电子邮件。
 
 批量智能营销活动将仅在智能列表部分中具有过滤器（即无触发器）。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 **批量智能营销活动**
 
-* 可以安排为重复事件，例如每日、每周和每月。 也可以只运行一次。
+* 可以安排为重复事件，例如每天、每周和每月。 也可以让它们只运行一次。
 * 在 [项目计划视图](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). 智能营销活动中的“等待”步骤之后的任何内容都不会包含在视图中。
 
 <br> 
@@ -44,9 +44,9 @@ ht-degree: 0%
 >
 >**条件**
 >
->触发器智能营销活动根据触发的事件每次影响一个人。 例如，单击电子邮件中的链接即是触发器。
+>触发智能营销活动根据触发的事件每次影响一个人。 例如，单击电子邮件中的链接即是触发器。
 
-如果智能营销活动在智能列表部分内至少使用一个触发器，则模式将自动设置为触发。
+如果智能营销活动在智能列表部分内至少使用一个触发器，则会自动将模式设置为触发。
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
@@ -61,4 +61,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->使用 [活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) 以了解在智能营销活动中逐步发生的情况。 您可以在人员详细信息页面的最后一个选项卡中找到活动日志。
+>使用 [活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) 用于查看在智能营销活动中逐步发生的情况。 您可以在人员详细信息页面的最后一个选项卡中找到活动日志。

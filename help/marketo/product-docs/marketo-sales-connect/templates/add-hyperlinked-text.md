@@ -13,12 +13,12 @@ ht-degree: 0%
 
 # 添加超链接文本 {#add-hyperlinked-text}
 
-1. 键入要超链接的文本（即“单击此处”）。
+1. 键入要添加超链接的文本（即“单击此处”）。
 
 1. 选择文本。
 
 1. 单击编辑器中的链接按钮。
 
-1. 输入您希望链接它的URL(即“https://www.mywebsite.com”)。
+1. 输入您希望将其链接到的URL(即“https://www.mywebsite.com”)。
 
 1. 单击 **确定**.

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 保存收入浏览器报表 {#saving-a-revenue-explorer-report}
 
-Revenue Explorer报表可以保存到您选择的文件。
+收入资源管理器报告可以保存到您选择的文件中。
 
 1. 单击保存图标。
 
@@ -21,16 +21,16 @@ Revenue Explorer报表可以保存到您选择的文件。
 
    >[!NOTE]
    >
-   >您对报告所做的更改不会自动保存。 因此，请确保经常保存！
+   >您对报告所做的更改不会自动保存。 所以，一定要经常储蓄！
 
 1. 为报表提供一个描述性名称，选择一个位置，然后单击 **保存**！
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   仅此而已！ 您现在可以在以下位置访问您的文件： **浏览文件**.
+   仅此而已！ 您现在可以在中访问您的文件 **浏览文件**.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
 >[!MORELIKETHIS]
 >
->[订阅Revenue Explorer报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[订阅收入浏览器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

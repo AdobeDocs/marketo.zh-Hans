@@ -6,14 +6,14 @@ exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # 重命名Smart Campaign {#rename-a-smart-campaign}
 
-您可以更改现有Smart Campaign的名称。 下面是具体操作方法。
+您可以更改现有Smart Campaign的名称。 具体方法如下。
 
 1. 转到 **营销活动**.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >程序中的Smart Campaign名称始终转换为“ProgramName.CampaignName”格式。
+   >项目中的智能营销活动名称始终转换为“ProgramName.CampaignName”格式。
 
 1. 输入新的智能营销活动名称，然后单击 **保存**.
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >旧名称在选项卡中可见，并在保存后更改。
+   >旧名称在选项卡中可见，并在保存时更改。
 
-快速轻松！ 在任何引用Smart Campaign的地方也将进行更改。
+快速而轻松！ 在引用Smart Campaign的任何位置，也会发生更改。

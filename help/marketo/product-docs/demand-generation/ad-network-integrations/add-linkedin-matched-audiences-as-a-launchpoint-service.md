@@ -27,7 +27,7 @@ ht-degree: 2%
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 选择 **新** 和 **新服务**.
+1. 选择 **新建** 和 **新建服务**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
@@ -41,7 +41,7 @@ ht-degree: 2%
 
    >[!CAUTION]
    >
-   >为了使Marketo能够跨多个LinkedIn广告帐户发送受众，您执行以下步骤中授权的LinkedIn用户需要有权访问 *所有* 营销活动经理中列出的所有广告帐户。
+   >为了使Marketo能够跨多个LinkedIn广告帐户发送受众，您在以下步骤中授权的LinkedIn用户需要有权访问 *所有* 促销活动经理中的这些广告帐户中的任意一个。
 
 1. linkedIn将在新选项卡中打开。 从这里，登录到您的LinkedIn帐户。
 
@@ -55,7 +55,7 @@ ht-degree: 2%
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   太棒了！ 现在，您将在Installed Services选项卡中看到作为LaunchPoint服务列出的LinkedIn匹配受众。
+   太棒了！ 现在，您将在Installed Services选项卡中看到LinkedIn Matched Audiences作为LaunchPoint服务列出。
 
    ![](assets/bartholomew2.png)
 

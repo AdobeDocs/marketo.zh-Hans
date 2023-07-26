@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 配置Opportunity Influence Analyzer {#configure-an-opportunity-influence-analyzer}
 
-一旦您 [创建Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)，您可以配置类型 [有趣时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 包含的URL路径。
+一旦您 [创建Opportunity影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)，您可以配置 [有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 已包括在内。
 
 >[!PREREQUISITES]
 >
->[创建机会影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[创建Opportunity影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. 单击 **分析**.
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a29-3a18.png)
 
-1. 如果选择“部分”，则可以选择要包含的类型。
+1. 如果选择“部分”，则可以选择要包括的类型。
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
 1. 单击您想要的每种有趣时刻。 然后单击 **保存**.
 
-1. 单击主选项卡，查看只有选定类型的有趣时刻的销售机会的历史记录。
+1. 单击主选项卡可查看仅包含所选兴趣时刻类型的商机的历史记录。
 
    ![](assets/image2014-9-17-12-3a29-3a58.png)
 

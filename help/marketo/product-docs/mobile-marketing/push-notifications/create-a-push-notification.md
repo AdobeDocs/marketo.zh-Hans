@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建推送通知 {#create-a-push-notification}
 
-可轻松创建推送通知。 但是，在开始之前，您必须让Marketo管理员和移动设备应用程序开发人员设置一些在执行此操作时所需的项目。 参见 [了解推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) 了解详细信息。
+创建推送通知很容易。 但是，在开始之前，您必须让Marketo管理员和移动设备应用程序开发人员设置一些您在执行此操作时所需的项目。 请参阅 [了解推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) 以了解详细信息。
 
 1. 转到 **营销活动** 区域。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. 下 **新**，单击 **新建本地资产**.
+1. 下 **新建**，单击 **新建本地资产**.
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   真贴心！ 现在，我们已经创建了推送通知，接下来可以 [把它打扮好](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+   真贴心！ 现在，我们已经创建了推送通知，接下来可以 [把它打扮起来](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).

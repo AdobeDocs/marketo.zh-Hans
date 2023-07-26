@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147257
 description: 导航营销日历 — Marketo文档 — 产品文档
-title: 在营销日历中导航
+title: 导航营销日历
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 在营销日历中导航 {#navigating-the-marketing-calendar}
+# 导航营销日历 {#navigating-the-marketing-calendar}
 
-在营销日历中轻松导航有1个、2个、3个！
+在营销日历中轻松导航有1、2、3个！
 
 >[!PREREQUISITES]
 >
@@ -33,23 +33,23 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## 使用议程视图 {#use-the-agenda-view}
+## 使用日程视图 {#use-the-agenda-view}
 
-日程视图将所有条目显示为列表。
+日程视图以列表形式显示所有条目。
 
-1. 单击 **[!UICONTROL 筛选条件]** 下拉菜单。
+1. 单击 **[!UICONTROL 筛选]** 下拉菜单。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. 选择 **[!UICONTROL 日程]** 视图。
+1. 选择 **[!UICONTROL 日程安排]** 视图。
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   太棒了！ 这是一个查看所有已规划项目的绝佳视图。
+   太棒了！ 这是一个绝佳视图，用于查看所有计划的内容。
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## 在时间中导航 {#navigate-through-time}
+## 浏览时间 {#navigate-through-time}
 
 没有德罗兰！ 只需单击导航按钮。
 
@@ -60,10 +60,10 @@ ht-degree: 0%
 | 操作 | 键盘快捷键 |
 |---|---|
 | 返回时间 | alt/opt + up |
-| 及时转发 | alt/opt + down |
+| 转发时间 | alt/opt + down |
 | 转到“今天” | alt/opt + t |
 
-太棒了！ 这些是基本知识。 您还可以使用筛选器自定义视图。
+太棒了！ 这些是基本功能。 您还可以使用筛选器自定义视图。
 
 >[!MORELIKETHIS]
 >

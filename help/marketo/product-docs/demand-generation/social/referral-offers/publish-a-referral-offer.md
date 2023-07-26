@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 发布反向链接选件 {#publish-a-referral-offer}
 
-在您之后 [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以将其发布在Marketo登陆页面、Facebook和网站上。
+在您之后 [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以将其发布到Marketo登陆页面、Facebook和网站上。
 
 1. 导航到您的登陆页面，然后打开它进行编辑。
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. 拖动到 **推荐选件** 从右侧的面板中。
+1. 拖动到 **推荐选件** 从右侧的面板。
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
-1. 选择您的反向链接选件并单击 **插入**.
+1. 选择您的推荐选件并单击 **插入**.
 
    ![](assets/image2014-9-19-11-3a15-3a52.png)
 
@@ -31,8 +31,8 @@ ht-degree: 0%
 >
 >您需要批准反向链接选件才能在此处使用。
 
-恭喜！批准登陆页面，并且您的反向链接选件处于实时状态。 您还可以 [将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 或 [将选件放在您的网站上](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+恭喜！批准登陆页面，您的反向链接选件已上线。 您还可以 [将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 或 [将选件放在您的网站上](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
->测试并优化您的推荐选件。 转到网页上的选件，然后使用测试信息注册。 记下您要更改的有关用户体验的所有内容。
+>测试并优化您的推荐选件。 转到网页上的选件并使用测试信息注册。 记下要更改的有关用户体验的所有内容。

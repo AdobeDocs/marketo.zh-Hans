@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 更改表单标签位置 {#change-form-label-position}
 
-时间 [创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)，您可以非常轻松地更改表单字段标签的位置。 下面是具体操作方法。
+时间 [创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)，您可以非常轻松地更改表单字段标签的位置。 具体方法如下。
 
 1. 转到 **营销活动**.
 
@@ -50,9 +50,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >切记要批准由表单更改创建的登陆页面草稿。
+   >请记住批准由表单更改创建的登陆页面草稿。
 
-干得好！ 了解更改表单上的标签位置有多容易？ 好，让我们看看我们可以做些什么来更改表单标签的字体。
+做得好！ 了解更改表单上的标签位置有多容易？ 好，让我们看看在更改表单标签的字体方面我们可以做些什么。
 
 >[!MORELIKETHIS]
 >

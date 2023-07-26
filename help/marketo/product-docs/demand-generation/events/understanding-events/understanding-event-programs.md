@@ -30,7 +30,7 @@ ht-degree: 1%
 >* 贸易展
 >* 聚会
 
-事件可以自动连接到 [网络研讨会提供商](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) 以及与 [iPad签入应用程序](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+事件可自动连接到 [网络研讨会提供商](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) 以及与 [iPad签入应用程序](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >

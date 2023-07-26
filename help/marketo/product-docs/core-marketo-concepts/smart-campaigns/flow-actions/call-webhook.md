@@ -19,21 +19,21 @@ ht-degree: 2%
 
 ## 概述 {#overview}
 
-Webhook允许您与第三方服务进行交互。 通过调用智能营销活动流程中的webhook来发送/接收信息。
+Webhook允许您与第三方服务进行交互。 通过在智能营销活动流中调用webhook来发送/接收信息。
 
 ![](assets/image2014-9-22-15-3a4-3a7.png)
 
 >[!NOTE]
 >
->了解许多有趣的事情 [Webhook](https://developers.marketo.com/documentation/webhooks/) 可以帮你。
+>了解许多有趣的事情 [Webhooks](https://developers.marketo.com/documentation/webhooks/) 可以帮你。
 
 ## 使用情况 {#usage}
 
-选择 **Webhook** 从下拉菜单中。
+选择 **Webhook** 从下拉菜单中查找。
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
-仅此而已！ 现在，每当用户进入智能营销活动流时，都将调用您的webhook。
+仅此而已！ 现在，每当用户输入智能营销活动流时，都会调用您的webhook。
 
 >[!MORELIKETHIS]
 >

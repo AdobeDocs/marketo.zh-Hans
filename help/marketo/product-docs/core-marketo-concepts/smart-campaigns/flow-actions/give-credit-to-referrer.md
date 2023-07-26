@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## 概述 {#overview}
 
-运行 [反向链接优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，则可以使用不同的方法将点数提供给反向链接：
+运行时 [推荐优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)中，您可以使用不同的方法将点数提供给反向链接：
 
 * 引见
 * 引用的注册
@@ -34,6 +34,6 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >确保将您的社交应用程序配置为使用智能列表触发器。 参见  [指定反向链接选件的目标](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) 了解详细信息。
+   >确保将您的社交应用程序配置为使用智能列表触发器。 请参阅  [指定反向链接选件的目标](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) 以了解详细信息。
 
 太棒了！ 现在，任何由此流程步骤处理的人员，都会将其点数提供给其反向链接。

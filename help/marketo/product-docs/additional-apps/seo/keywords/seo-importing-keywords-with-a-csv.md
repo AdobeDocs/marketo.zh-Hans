@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 使用CSV导入关键字 {#seo-importing-keywords-with-a-csv}
 
-1. 您可以 [添加关键字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) 手动， [获取关键词建议](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) 甚至可以从CSV文件导入关键词。 下面是如何导入的。
+1. 您可以 [添加关键字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) 手动， [获取关键词建议](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) 甚至可以从CSV文件导入关键字。 下面是如何导入的。
 
 1. 转到 **[!UICONTROL 关键字]** 部分。
 

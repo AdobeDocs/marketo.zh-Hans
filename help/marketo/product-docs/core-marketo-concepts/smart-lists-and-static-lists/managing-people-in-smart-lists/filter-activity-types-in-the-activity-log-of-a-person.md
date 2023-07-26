@@ -17,19 +17,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->详细了解 [活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
+>了解有关 [活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
 
 1. 转到 **人员详细信息** 页面。 单击 **活动日志** 选项卡。
 
    ![](assets/one.png)
 
-1. 选择 **筛选条件** 下拉菜单。
+1. 选择 **筛选** 下拉菜单。
 
    ![](assets/two-3.png)
 
 ## 创建自定义筛选条件 {#creating-custom-filters}
 
-1. 单击 **筛选条件** 下拉菜单。 选择 **自定义**.
+1. 单击 **筛选** 下拉菜单。 选择 **自定义**.
 
    ![](assets/three-3.png)
 
@@ -47,12 +47,12 @@ ht-degree: 0%
 
 ## 引用保存的筛选器 {#reference-saved-filters}
 
-可以从以下位置访问保存的过滤器： **筛选条件** 下拉菜单。
+保存的筛选器可从以下位置访问： **筛选** 下拉菜单。
 
-1. 单击 **筛选器** 下拉菜单。 选择 **自定义**.
+1. 单击 **过滤器** 下拉菜单。 选择 **自定义**.
 
    ![](assets/seven-1.png)
 
-1. 单击 **保存的筛选条件**. 下面列出了已保存的筛选器。
+1. 单击 **保存的筛选条件**. 下面列出了已保存的过滤器。
 
    ![](assets/eight.png)

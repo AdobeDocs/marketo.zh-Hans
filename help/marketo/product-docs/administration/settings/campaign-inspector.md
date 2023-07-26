@@ -1,5 +1,5 @@
 ---
-description: Campaign Inspector - Marketo文档 — 产品文档
+description: 营销活动检查器 — Marketo文档 — 产品文档
 title: 活动检查器
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 活动检查器 {#campaign-inspector}
 
-使用Campaign Inspector在一个位置查看/搜索所有Smart Campaign。
+使用营销活动检查器在一个位置查看/搜索所有Smart Campaigns。
 
 ## 启用活动检查器 {#enable-campaign-inspector}
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/campaign-inspector-2.png)
 
-1. 单击 **[!UICONTROL 编辑]** “活动检查员”旁边。
+1. 单击 **[!UICONTROL 编辑]** 活动检查员旁边。
 
    ![](assets/campaign-inspector-3.png)
 
@@ -34,15 +34,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >需要在树中选择所需的工作区，以便在启用后查看Campaign Inspector选项卡。
+   >需要在树中选择所需的工作区，以便在启用活动检查器选项卡后查看该选项卡。
 
-## 使用Campaign检查器 {#using-campaign-inspector}
+## 使用活动检查器 {#using-campaign-inspector}
 
-启用后，Campaign Inspector选项卡将位于营销活动选项卡旁边。
+启用后，营销活动检查器选项卡将位于营销活动选项卡旁边。
 
 ![](assets/campaign-inspector-5.png)
 
-单击 **[!UICONTROL 活动营销活动]** 下拉列表，按不同类型的营销活动进行筛选。
+单击 **[!UICONTROL 活动的营销活动]** 下拉列表，按不同类型的营销活动进行筛选。
 
 ![](assets/campaign-inspector-6.png)
 

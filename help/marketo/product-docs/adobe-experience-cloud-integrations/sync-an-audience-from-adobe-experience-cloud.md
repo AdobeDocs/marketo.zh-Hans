@@ -22,15 +22,15 @@ ht-degree: 0%
 
 ## 如何同步受众 {#how-to-sync-an-audience}
 
-1. 在“我的Marketo”中，单击 **[!UICONTROL 数据库]** 图块。
+1. 在“我的Marketo”中，单击 **[!UICONTROL 数据库]** 磁贴。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. 单击 **[!UICONTROL 新]** 下拉菜单并选择 **[!UICONTROL 从Experience Cloud受众同步]**.
+1. 单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 从Experience Cloud受众同步]**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
-1. 单击 **[!UICONTROL 受众库文件夹]** 下拉列表，然后选择所需的原始文件夹。
+1. 单击 **[!UICONTROL 受众库文件夹]** 下拉并选择所需的原始文件夹。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-3.png)
 
@@ -50,14 +50,14 @@ ht-degree: 0%
 
 **Cookie同步如何工作？**
 
-为您的Marketo订阅启用Cookie同步后，Marketo的munchkin.js将尝试捕获和存储您在集成设置期间指定的Adobe IMS组织的AdobeECID，并将这些ECID与相应的Marketo Cookie标识符匹配。 这使得Marketo的匿名用户配置文件可以利用AdobeECID丰富内容。
+为您的Marketo订阅启用Cookie同步后，Marketo的munchkin.js将尝试为您在集成设置期间指定的Adobe IMS组织捕获和存储AdobeECID，并将这些ECID与相应的Marketo Cookie标识符匹配。 这使得Marketo的匿名用户档案能够利用AdobeECID丰富内容。
 
-还需要执行进一步的步骤以将匿名用户配置文件与潜在客户配置文件相关联，后者使用纯文本电子邮件进行标识。 具体操作方式 [此处对此进行了说明](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+还需要执行进一步的步骤，以将匿名用户配置文件关联到潜在客户配置文件，该潜在客户配置文件使用纯文本电子邮件进行标识。 具体操作方式 [此处对此进行了说明](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Marketo中的列表大小为何与Adobe中的列表大小不同？**
 
-如果我们无法将ECID Cookie ID关联到Marketo中的已知人员，则人员也不会进行同步。
+如果我们无法将ECID Cookie ID绑定到Marketo中的已知人员，则人员也不会进行同步。
 
 **这是一次性同步吗？**
 
-您只需启动同步一次。 之后，记录将自动同步。 初始同步最长可能需要24小时；以后，新记录将在2-3小时内同步。
+您只需启动同步一次。 之后，记录将自动同步。 初始同步最多可能需要24小时；以后，新记录将在2-3小时内同步。

@@ -69,7 +69,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-* Apex类访问：159个以“mkto_si”开头的类
+* Apex类访问：以“mkto_si”开头的159个Apex类
 * Visualforce页面访问：64个以“mkto_si”开头的Visualforce页面
 * 自定义设置定义：mkto_si.Marketo设置和mkto_si.User首选项
 
@@ -81,19 +81,19 @@ ht-degree: 0%
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. 在“管理员”下，单击 **管理用户**，则 **配置文件**.
+1. 在Administrator下，单击 **管理用户**，则 **配置文件**.
 
 1. 单击要更新的用户档案，然后 **编辑**.
 
 1. 向下滚动到“选项卡设置”下的“自定义选项卡设置”。
 
-1. 从Marketo Sales Insight Config和MSI Marketo Sales Outbox的下拉菜单中选择“Tab Hidden”选项。
+1. 从Marketo Sales Insight Config和MSI Marketo Sales Outbox的下拉列表中选择“Tab Hidden”选项。
 
    ![](assets/remove-sales-insight-access-2.png)
 
    ![](assets/remove-sales-insight-access-3.png)
 
-1. 向下滚动到“自定义对象权限”。
+1. 向下滚动至“自定义对象权限”。
 
 1. 删除以下对象的“读取、创建、编辑、删除”权限：
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 1. 向下滚动到“已启用Apex类访问”部分。 单击 **编辑**.
 
-1. 从“启用的Apex类”部分，选择以“mkto_si”开头的所有类。 这最多可添加159个类。
+1. 从“已启用的Apex类”部分，选择以“mkto_si”开头的所有类。 这最多可添加159个类。
 
 1. 单击 **移除**，则 **保存**.
 
@@ -119,7 +119,7 @@ ht-degree: 0%
 
 1. 向下滚动到“已启用Visualforce页面访问”部分。 单击 **编辑**.
 
-1. 从“启用的Visualforce页面”部分，选择以“mkto_si”开头的所有页面。 最多可添加64页。
+1. 从“启用的Visualforce页面”部分，选择以“mkto_si”开头的所有页面。 最多可加64页。
 
 1. 单击 **移除**，则 **保存**.
 

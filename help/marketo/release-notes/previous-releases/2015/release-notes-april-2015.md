@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 发行说明：2015年4月 {#release-notes-april}
 
-2015年4月版本中包含以下功能。 请检查您的Marketo版本是否提供了相关功能。 发布后，请务必返回以查找指向每个功能的详细文章的链接！
+2015年4月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细文章链接！
 
 ## Analytics主页重新设计
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-此外，现在还提供私有报表组织与共享报表组织。 创建或拖动报告到您的“我的报告”文件夹中，以阻止其他用户查看、编辑或删除报告。 组报告可在所有用户之间共享。
+此外，现在还提供私有报表组织与共享报表组织。 创建报告或将报告拖到您的“我的报告”文件夹中，以锁定其他用户，使其无法查看、编辑或删除。 组报告可在所有用户之间共享。
 
 ## Marketo移动参与 {#marketo-mobile-engagement}
 
 **Marketo移动参与**
 
-借助Marketo Mobile Engagement，可以轻松提供引人入胜的移动体验。 创建高度个性化的营销活动，提供引人入胜的内容，而无需依赖应用程序开发团队。 新的过滤器和触发器允许您通过推送通知在移动渠道上侦听和响应。
+通过Marketo Mobile Engagement，可以轻松提供引人入胜的移动体验。 创建高度个性化的营销活动，这些活动提供引人入胜的内容，而无需依赖应用程序开发团队。 新的过滤器和触发器允许您通过推送通知在移动渠道上侦听和响应。
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 [linkedIn Lead Accelerator集成](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-将您的潜在客户培养策略扩展到付费展示广告和社会广告。 此 [广告网络集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) 借助LinkedIn潜在客户加速器，您可以根据任何智能或静态列表的成员，在LinkedIn中安全地创建受众区段。 linkedIn受众区段中的成员随后可以通过一系列相关广告得到培养。
+将您的潜在客户培养策略扩展到付费展示广告和社交广告。 此 [广告网络集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) 通过使用LinkedIn潜在客户加速器，您可以根据任何智能或静态列表的成员，在LinkedIn中安全地创建受众区段。 linkedIn受众区段中的成员随后可以通过一系列相关广告得到培养。
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
 ## Marketo Sales Insight for Salesforce1 {#marketo-sales-insight-for-salesforce}
 
-您最喜爱的Sales Insight功能(潜在客户源、最佳答案、有趣的时刻，以及添加到Marketo Campaign)全都在Salesforce1应用程序中提供。
+您最喜爱的Sales Insight功能(潜在客户信息源、最佳答案、有趣的时刻，以及添加到Marketo Campaign)都可在Salesforce1应用程序上找到。
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
 **RTP - Account-Based Marketing Analytics**
 
-通过指定帐户列表的新性能图，即时了解关键指定帐户列表的性能（基于购买周期中的每个阶段）。 该图表根据访问次数和访客的状态，显示从认知到行动的关键组织访问阶段。
+通过指定帐户列表的新性能图，即时了解您的关键指定帐户列表的性能（基于购买周期的每个阶段）。 此图表根据访问次数和访客的状态，显示从认知到行动这一关键组织的访问阶段。

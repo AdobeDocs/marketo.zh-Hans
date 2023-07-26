@@ -1,7 +1,7 @@
 ---
 unique-page-id: 557322
 description: 从智能列表运行单流程步骤 — Marketo文档 — 产品文档
-title: 从智能列表中运行单个流程步骤
+title: 从智能列表中运行单流程步骤
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# 从智能列表中运行单个流程步骤 {#run-a-single-flow-step-from-a-smart-list}
+# 从智能列表中运行单流程步骤 {#run-a-single-flow-step-from-a-smart-list}
 
 如果要运行一次性的仅流程步骤，则可以在智能列表中使用单个流程步骤，而不是创建整个智能营销活动。
 
@@ -29,7 +29,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >静态列表和智能列表都具有此功能。
+   >静态列表和智能列表均具有此功能。
 
 1. 单击 **全选**. 您还可以使用 **Ctrl/Cmd** 并点击以手动选择一些记录。
 
@@ -43,7 +43,7 @@ ht-degree: 1%
 
    ![](assets/personactions-hands.png)
 
-1. 查找并选择 **属性**. 在此示例中，我们将接受所有拥有州“加利福尼亚”的人，并将其更改为“CA”。
+1. 查找并选择 **属性**. 在此示例中，我们将接受所有拥有州“加利福尼亚”的人员，并将其更改为“CA”。
 
    ![](assets/runaction-hands.png)
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. 如果要更改大量人员的数据值，您可能需要通过键入数字来确认更改。 单击 **大胆试试**.
+1. 如果要更改大量人员的数据值，您可能需要通过键入数字来确认更改。 单击 **大胆试一试**.
 
    ![](assets/changedatavalue.jpg)
 

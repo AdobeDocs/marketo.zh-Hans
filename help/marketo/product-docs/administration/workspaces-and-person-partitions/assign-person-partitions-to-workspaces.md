@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->工作区和人员分区可能比较复杂。 请联系  [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} 以获取设置这些参数的帮助。
+>工作区和人员分区可能比较复杂。 请联系  [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} 以获取有关设置它们的帮助。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -45,15 +45,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* “[!UICONTROL 所有人员分区]”复选框表示此工作区可以访问系统中的所有人员分区。
+   >* “[!UICONTROL 所有人员分区]”复选框指示此工作区有权访问系统中的所有人员分区。
    >
-   >* 默认设置是主要人员分区，其中将输入所有人员。 使用 [流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 或 [分配规则](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} 让别人四处走动。
+   >* 主人员分区是默认输入所有人员的位置。 使用 [流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 或 [分配规则](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} 让别人到处走动。
 
 1. 单击 **[!UICONTROL 保存]**.
 
    ![](assets/assign-person-partitions-to-workspaces-5.png)
 
-保存后，您应会看到所做的更改。
+保存后，您应该会看到所做的更改。
 
 ![](assets/assign-person-partitions-to-workspaces-6.png)
 

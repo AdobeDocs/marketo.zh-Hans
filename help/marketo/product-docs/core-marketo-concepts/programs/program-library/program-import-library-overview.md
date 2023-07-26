@@ -1,5 +1,5 @@
 ---
-description: 项目导入库概述 — Marketo文档 — 产品文档
+description: 程序导入库概述 — Marketo文档 — 产品文档
 title: 程序导入库概述
 hide: true
 hidefromtoc: true
@@ -7,7 +7,7 @@ feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
 source-git-commit: 8036938e0c01695303fa4e7a7477b6f8632911a8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ ht-degree: 0%
 
 介绍文本。
 
- — 在此处Marketo Engage项目导入库信息 — 
+ — 在此处Marketo Engage程序导入库信息 — 
 
 * [OP内容管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md){target="_blank"}
 
 * 操作可投放性管理
 
-* OP数据管理
+* 操作数据管理
 
-* OP-Acquisition API
+* 操作获取API
 
-* OP — 评分 — 人口
+* OP — 评分 — 人口统计
 
-* OP评分行为
+* 操作评分行为
 
-* 潜在客户管理
+* 业务线索管理
 
 * WR-YYYY-MM-Demo请求（带渐进式分析）
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 * WBN-YYYY-MM-DD — 网络研讨会
 
-* OA-YYYY-MM-Online广告和Marketo登陆页面
+* OA-YYYY-MM-Online广告与Marketo登录页面
 
 * NUR-YYYY-MM-Simple Nurture
 
@@ -52,4 +52,4 @@ ht-degree: 0%
 
 * Marketo登录页面上的CT-YYYY-MM-Content
 
-* CT-YYYY-MM-Content非Marketo登录页
+* CT-YYYY-MM-Content非Marketo登录页面

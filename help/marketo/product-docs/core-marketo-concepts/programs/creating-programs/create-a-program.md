@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 创建项目 {#create-a-program}
 
-程序是Marketo中最重要的元素之一。 你会经常用到！
+程序是Marketo中最重要的元素之一。 你会经常使用它们！
 
 1. 转到 **营销活动。**
 
    ![](assets/login-marketing-activities.png)
 
-1. 为新项目选择文件夹。 选择 **新** 并单击 **新建项目群**.
+1. 为新项目选择文件夹。 选择 **新建** 并单击 **新建项目群**.
 
    ![](assets/leadlifecycle.jpg)
 

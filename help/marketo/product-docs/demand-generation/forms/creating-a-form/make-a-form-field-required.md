@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 将表单字段设为必填 {#make-a-form-field-required}
 
-时间 [向表单添加字段](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) 您可能希望填写这些文档的人需要填写其中的几个。 下面是具体操作方法。
+时间 [向表单添加字段](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) 您可能希望填写这些文档的人需要填写其中的几个。 具体方法如下。
 
 1. 转到 **营销活动**.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/editform-2.png)
 
-1. 选择要使其成为必填的字段，并选中必填。
+1. 选择要使其成为必填的字段，并选中“必填”。
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->别忘了 [批准任何登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 此表单将保留更改以供启用。
+>别忘了 [批准任何登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 此表单会保留更改以供启用。
 
-是否需要 [重新排序您添加到表单中的字段](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)？
+是否需要 [对添加到表单中的字段重新排序](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)？

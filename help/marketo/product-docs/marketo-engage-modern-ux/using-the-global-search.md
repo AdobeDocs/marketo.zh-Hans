@@ -28,7 +28,7 @@ ht-degree: 3%
 
    ![](assets/using-the-global-search-3.png)
 
-1. 在本例中，我们选择直接转到要查找的电子邮件。 单击电子邮件的名称。
+1. 在此示例中，我们选择直接转到要查找的电子邮件。 单击电子邮件的名称。
 
    ![](assets/using-the-global-search-4.png)
 
@@ -65,6 +65,6 @@ ht-degree: 3%
  </tbody>
 </table>
 
-**可选步骤**：要使用筛选功能，只需选择所需的选项即可。
+**可选步骤**：要使用筛选，只需选择所需的选项即可。
 
 ![](assets/using-the-global-search-7.png)

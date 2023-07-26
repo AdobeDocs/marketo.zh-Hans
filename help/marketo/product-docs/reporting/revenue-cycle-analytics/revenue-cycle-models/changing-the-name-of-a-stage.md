@@ -13,17 +13,17 @@ ht-degree: 2%
 
 # 更改阶段名称 {#changing-the-name-of-a-stage}
 
-改变主意了吗？ 没问题。 重命名收入周期Modeler中的阶段很容易。
+改变主意？ 没问题。 重命名收入周期Modeler中的阶段很容易。
 
 1. 转到 **分析** 区域。
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. 选择要更新的收入周期Modeler。 单击 **编辑草稿**.
+1. 选择要更新的收入周期建模器。 单击 **编辑草稿**.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. 选择要更新的阶段并输入新的 **名称**.
+1. 选择要更新的阶段，然后输入新的 **名称**.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
@@ -31,4 +31,4 @@ ht-degree: 2%
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   看到了吗？ 放轻松！ 请记住 [批准您的模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).
+   看到没？ 放轻松！ 请记住 [批准模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).

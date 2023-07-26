@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->本页上的插件适用于那些使用Marketo的本机CRMMarketo Engage解决方案同步到Dynamics 365的用户。 对于拥有自定义同步、MS Dynamics 365 Online（9.x及更高版本）并购买了Marketo Sales Insight的用户， [程序包位于此处](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>本页上的插件适用于那些使用Marketo的本机CRMMarketo Engage解决方案同步到Dynamics 365的用户。 对于拥有自定义同步MS Dynamics 365 Online（9.x及更高版本）并购买了Marketo Sales Insight的用户， [程序包位于此处](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 1. 转到 **管理员** 区域。
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953342
-description: 从Microsoft Dynamics - Marketo文档 — 产品文档向Marketo营销活动添加潜在客户/联系人
+description: 从Microsoft Dynamics - Marketo文档 — 产品文档将潜在客户/联系人添加到Marketo营销活动
 title: 从Microsoft Dynamics将潜在客户/联系人添加到Marketo营销活动
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 从Microsoft Dynamics将潜在客户/联系人添加到Marketo营销活动 {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-您可以在Microsoft Dynamics中直接快速轻松地将潜在客户/联系人添加到Marketo智能营销活动。 下面是具体操作方法。
+您可以在Microsoft Dynamics中直接快速轻松地将潜在客户/联系人添加到Marketo智能营销活动。 具体方法如下。
 
 1. 在Dynamics中，转到 **销售** 区域。
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要使促销活动显示在下拉列表中，请使用  [**已请求营销活动** 触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)，在设置营销活动时，使用销售分析作为源。
+   >对于在下拉列表中显示的营销策划，请使用  [**已请求营销活动** 触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)，在设置营销活动时，使用销售分析作为来源。
 
-大家都是这么想的！ 您现在可以直接从Dynamics手中获得Marketo智能营销活动的强大功能。
+大家就这些！ 现在，您可以直接从Dynamics中掌握Marketo智能营销活动的强大功能。

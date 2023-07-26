@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 批准/取消批准收入模型 {#approve-unapprove-a-revenue-model}
 
-在任意给定时间，只能有一个已批准的模型。
+在任意给定时间，您只能有一个已批准的模型。
 
 >[!CAUTION]
 >
->[必须批准单个阶段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) 和在您批准整个模型之前添加的人员。
+>[必须批准单个阶段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) 和在批准整个模型之前添加的人员。
 
 ## 审批 {#approve}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
-1. 从树中选择模型。
+1. 从树中选取模型。
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果您取消批准模型，则会从模型中移除所有人员，并删除他们在模型中的历史记录！
+>如果您取消批准模型，则将从模型中移除所有人员，并删除他们在模型中的历史记录！
 
 1. 转到 **分析** 区域。
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
-1. 从树中选择模型。
+1. 从树中选取模型。
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
@@ -57,12 +57,12 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. 在出现的对话框中，单击 **取消批准模型**.
+1. 在显示的对话框中，单击 **取消批准模型**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 
-恭喜！ 您的模型现在未获得批准。
+恭喜！ 您的模型现已被取消批准。
 
 >[!CAUTION]
 >
->取消批准模型会将您的所有人员从模型中移除，并将他们在模型中的历史记录从数据库中移除。
+>取消批准模型将从模型中移除所有人员，并从数据库中移除他们在模型中的历史记录。

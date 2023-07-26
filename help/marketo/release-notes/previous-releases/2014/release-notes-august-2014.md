@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 发行说明：2014年8月 {#release-notes-august}
+# 发行说明： 2014年8月 {#release-notes-august}
 
-2014年8月版本中包含以下功能。 查看Marketo版本以了解功能可用性。 请在发布后返回以访问指向详细功能文档的链接。
+2014年8月版本中包含以下功能。 检查您的Marketo版本以了解功能可用性。 请在发布后返回以获取指向详细功能文档的链接。
 
 ## 营销日历许可证 {#marketing-calendar-licenses}
 
-2014年9月5日之后，只有5名用户可免费访问营销日历。 请确保 [发布/撤销营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 之前发送给您选择的用户，以实现无中断访问。
+2014年9月5日之后，只有5名用户可免费访问营销日历。 请务必 [发布/撤销营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 之前发送给您选择的用户，以实现无中断访问。
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 | 权限 | 描述 |
 |---|---|
-| 访问Revenue Explorer | 如果您购买了RCA，您现在可以控制有权访问它的用户。 |
+| 访问Revenue Explorer | 如果您购买了RCA，您现在将控制谁可以访问该卡。 |
 | 导入列表 | 限制用户将列表导入商机数据库。 |
-| 列表导入 | 限制用户通过营销活动下的项目群导入列表。 |
-| 激活触发器营销活动 | 控制谁可以和无法激活触发器营销活动。 |
-| 计划批处理活动 | 控制谁可以和不能计划批处理营销活动运行。 |
+| 列表导入 | 限制用户通过营销活动下的项目导入列表。 |
+| 激活触发器营销活动 | 控制谁可以和谁无法激活触发营销活动。 |
+| 计划批处理活动 | 控制谁可以计划批处理营销活动运行，谁不能计划。 |
 
 ## 从管理员中导出用户和角色 {#export-users-and-roles-from-admin}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 删除渠道和标记 {#delete-channels-and-tags}
 
-您现在可以删除任何未使用的渠道和状态。 与往常一样，您只能隐藏当前正在使用的项目。
+您现在可以删除任何未使用的渠道和状态。 与往常一样，您只能隐藏当前正在使用的文件。
 
 ![](assets/image2014-9-16-12-3a20-3a30.png)
 
@@ -49,23 +49,23 @@ ht-degree: 0%
 
 ## 自动DKIM {#automated-dkim}
 
-为了提高可投放性，所有传出电子邮件都将经过DKIM（域密钥识别邮件）签名。 默认情况下，电子邮件将使用Marketo的共享DKIM签名。 您将可以选择自定义此签名。
+为了提高可投放性，所有传出电子邮件都将经过DKIM（域名识别邮件）签名。 默认情况下，电子邮件将使用Marketo的共享DKIM签名。 您将可以选择自定义此签名。
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM将缓慢推出，您可能几周内无法看到。
+>DKIM将缓慢推出，您可能几周内看不到它。
 
 ## 实时个性化更新 {#real-time-personalization-updates}
 
-我们已在营销活动页面中添加了标签，以便您能够为自己的心思内容添加标签。
+我们在营销活动页面中添加了标签，以便您能够为自己的内容添加标签。
 
 ![](assets/image2014-9-16-12-3a23-3a28.png)
 
 ## 移动定位 {#mobile-targeting}
 
-您向社区提问，我们完成了任务！ 您现在可以包含、排除或设置针对移动设备用户和平板电脑用户的特定行动号召。
+您向社区提问，我们完成了任务！ 您现在可以包含、排除或设置用于移动设备和平板电脑用户的特定行动号召。
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 ## 内容推荐引擎报表 {#content-recommendation-engine-report}
 
-我们为您添加了一个新的内容推荐引擎报告，以便查看不错的摘要。
+我们添加了一个新的内容推荐引擎报告，供您查看漂亮的摘要。
 
 ![](assets/image2014-9-16-12-3a24-3a42.png)
 
@@ -93,6 +93,6 @@ ht-degree: 0%
 
 ## 跟踪控制 {#tracking-control}
 
-您现在可以在Real-Time Personalization中从所有跟踪和报告中排除特定IP。
+您现在可以在实时个性化中将特定IP从所有跟踪和报告中排除。
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)

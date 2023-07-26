@@ -16,11 +16,11 @@ ht-degree: 0%
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. 在左侧列表中选择Marketo 。 然后单击 **添加** 以将其添加到 **选定的选项卡**.
+1. 在左侧列表中选择Marketo 。 然后单击 **添加** 以将其添加到 **选定选项卡**.
 
    >[!TIP]
    >
-   >使用 **向上** 和 **向下** 箭头可重新排序选项卡。
+   >使用 **向上** 和 **向下** 箭头可重新排列选项卡。
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 

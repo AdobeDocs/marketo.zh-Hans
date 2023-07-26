@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360496
-description: 将多个值添加到智能列表过滤器 — Marketo文档 — 产品文档
+description: 将多个值添加到智能列表筛选器 — Marketo文档 — 产品文档
 title: 向智能列表筛选器添加多个值
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [查找筛选器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
-假设您希望找到加利福尼亚的所有人，但您可能存储了这两者 **加利福尼亚** 和 **CA** 在数据库中。 要包括所有适用的人员，您可以使用两个 **状态** 过滤器，但使用一个会更简单。
+假设您希望找到加利福尼亚的所有人，但您可能同时存储了这两个变量 **加利福尼亚** 和 **CA** 在数据库中。 要包含所有适用的人员，您可以使用两个 **状态** 过滤器，但使用过滤器更容易。
 
 1. 转到 **营销活动**.
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/smartlist-plussignhand-.png)
 
-1. 您可以从左侧选择值，或者在右侧键入值，然后单击 **确定**.
+1. 您可以从左侧选择值，或者在右侧键入值然后单击 **确定**.
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 

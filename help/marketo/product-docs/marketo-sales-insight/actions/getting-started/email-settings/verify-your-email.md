@@ -5,7 +5,7 @@ exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/verify-your-email-2.png)
 
-1. 在“地址和签名”下，找到要验证的电子邮件并单击 **重新发送验证电子邮件**. 将发送新的验证电子邮件。
+1. 在“地址和签名”下，找到要验证的电子邮件，然后单击 **重新发送验证电子邮件**. 将发送新的验证电子邮件。
 
    ![](assets/verify-your-email-3.png)
 
@@ -30,10 +30,10 @@ ht-degree: 0%
 
    ![](assets/verify-your-email-4.png)
 
-1. 然后，收件人打开电子邮件，并按照步骤验证电子邮件地址。
+1. 收件人随后会打开电子邮件，并按照步骤验证电子邮件地址。
 
    ![](assets/verify-your-email-5.png)
 
 >[!NOTE]
 >
->如果没有收到验证电子邮件，请检查垃圾邮件文件夹。 如果不在，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
+>如果没有收到验证电子邮件，请检查垃圾邮件文件夹。 如果不在那里，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).

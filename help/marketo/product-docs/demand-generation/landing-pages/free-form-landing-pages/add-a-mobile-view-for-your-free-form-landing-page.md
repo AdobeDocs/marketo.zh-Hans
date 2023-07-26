@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4720856
-description: 为您的自由格式登陆页面添加移动视图 — Marketo文档 — 产品文档
-title: 为您的自由格式登陆页面添加移动视图
+description: 为自由表单登陆页面添加移动视图 — Marketo文档 — 产品文档
+title: 为您的自由表单登陆页面添加移动视图
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# 为您的自由格式登陆页面添加移动视图 {#add-a-mobile-view-for-your-free-form-landing-page}
+# 为您的自由表单登陆页面添加移动视图 {#add-a-mobile-view-for-your-free-form-landing-page}
 
 在智能手机上，您可以轻松让自由格式的登陆页面看起来很棒。
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 选择一个自由格式的登陆页面。
+1. 选择一个自由格式登陆页面。
 
    ![](assets/choose-landing-page.jpg)
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
    >[!CAUTION]
    >
-   >可能需要升级自由格式模板。 如果您看到该消息，请快速阅读如何 [使现有的自由格式登陆页面模板与移动设备兼容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >可能需要升级自由格式模板。 如果您看到该消息，请快速阅读如何 [使现有的自由表单登陆页面模板移动设备兼容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
 1. 太棒了！ 您现在已激活登陆页面的移动版本。 单击&#x200B;**关闭**。
 

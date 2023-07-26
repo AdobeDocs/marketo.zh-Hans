@@ -12,7 +12,7 @@ ht-degree: 20%
 
 # 图标术语表 {#new-icon-glossary}
 
-以下是新Adobe Marketo Engage界面的图标。 如果您需要引用Marketo Classic图标，它们可以是 [在此处找到](/help/marketo/getting-started/classic-icon-glossary.md).
+以下是新Adobe Marketo Engage界面的图标。 如果您需要引用Marketo Classic图标，它们可以 [在此处找到](/help/marketo/getting-started/classic-icon-glossary.md).
 
 ## 常规图标 {#general-icons}
 
@@ -36,12 +36,12 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td> 
    <td><img src="assets/batch-inactive.png"></td> 
-   <td>批量活动 — 不活动</td> 
+   <td>批次营销活动 — 不活动</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td> 
    <td><img src="assets/default-program.png"></td> 
-   <td>默认程序</td> 
+   <td>默认项目群</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-email.png"></td> 
@@ -86,7 +86,7 @@ ht-degree: 20%
   <tr>
    <td><strong>不适用</strong></td> 
    <td><img src="assets/filter-active.png"></td> 
-   <td>筛选条件 — 活动</td> 
+   <td>筛选器 — 活动</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-folder.png"></td> 
@@ -181,7 +181,7 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-sms-message.png"></td> 
    <td><img src="assets/sms-message.png"></td> 
-   <td>短信消息</td> 
+   <td>SMS消息</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-snippet.png"></td> 
@@ -191,7 +191,7 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-social-button.png"></td> 
    <td><img src="assets/social-button.png"></td> 
-   <td>“社交”按钮</td> 
+   <td>社交按钮</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td> 
@@ -243,7 +243,7 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
    <td><img src="assets/has-run-no-upcoming.png"></td> 
-   <td>已运行，无即将出现</td> 
+   <td>已运行，没有即将运行</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td> 
@@ -278,7 +278,7 @@ ht-degree: 20%
  </tbody>
 </table>
 
-## 触发营销活动 {#trigger-campaigns}
+## 触发活动 {#trigger-campaigns}
 
 <table> 
  <tbody>

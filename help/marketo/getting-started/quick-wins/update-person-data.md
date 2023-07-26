@@ -20,7 +20,7 @@ ht-degree: 0%
 >* [设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
-想象一下，在您最近的贸易展上，有人为您提供了一些额外的联系信息。 以下是如何更新人员数据。
+想象一下，在您最近的贸易展上，有人给你提供了一些额外的联系信息。 以下是如何更新人员数据。
 
 ## 查找需要更新的人员 {#find-the-person-you-need-to-update}
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在Marketo中，可通过多种方法来更新人员数据。 参见 [导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+   >在Marketo中，可通过多种方式更新人员数据。 请参阅 [导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## 更新人员数据 {#update-the-person-data}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ## 任务完成 {#mission-complete}
 
-做得好！ 您已更新个人数据。
+做得好！ 您已更新人员数据。
 
 <br> 
 

@@ -60,7 +60,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. 从列表中选择要修改的角色，然后单击 **编辑角色**.
+1. 从列表中，选择要修改的角色，然后单击 **编辑角色**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 

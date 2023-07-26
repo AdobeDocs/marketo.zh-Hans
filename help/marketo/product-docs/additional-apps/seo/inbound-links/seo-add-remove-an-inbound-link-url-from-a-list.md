@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 在列表中添加/删除入站链接URL {#seo-add-remove-an-inbound-link-url-from-a-list}
 
-您可以组织入站链接URL以访问您的心脏内容。
+您可以组织入站链接URL以访问您心中的内容。
 
 ## 向列表添加入站链接URL {#add-an-inbound-link-url-to-a-list}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
-1. 单击要转至的入站链接URL列表。
+1. 单击您希望转至的入站链接URL列表。
 
    ![](assets/image2014-11-20-18-3a28-3a18.png)
 

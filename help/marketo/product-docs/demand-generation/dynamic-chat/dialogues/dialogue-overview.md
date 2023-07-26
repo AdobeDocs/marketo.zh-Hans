@@ -28,7 +28,7 @@ ht-degree: 3%
 
 ## 报表 {#reports}
 
-此 [报告](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} 在对话框的部分中，您将能够查看有关对话框执行情况的量度。
+此 [报表](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} 在对话框的部分中，您将能够查看有关对话框执行情况的量度。
 
 ![](assets/dialogue-overview-3.png)
 
@@ -40,6 +40,6 @@ ht-degree: 3%
 
    ![](assets/dialogue-overview-4.png)
 
-1. 切换 **聊天已启用** 切换为关闭以禁用（再次打开以重新启用）所有对话框。
+1. 切换 **聊天已启用** 切换到关闭以禁用（再打开以重新启用）所有对话框。
 
    ![](assets/dialogue-overview-5.png)

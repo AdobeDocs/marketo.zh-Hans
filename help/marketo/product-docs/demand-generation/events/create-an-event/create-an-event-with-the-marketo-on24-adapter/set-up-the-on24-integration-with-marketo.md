@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 设置ON24与Marketo的集成{#set-up-the-on24-integration-with-marketo}
 
-以下是如何设置ON24事件集成的方法。
+下面是如何设置您的ON24事件集成。
 
 ## 创建仅API角色 {#create-an-api-only-role}
 
@@ -56,19 +56,19 @@ ht-degree: 1%
 
 ## 设置ON24连接 {#set-up-on24-connection}
 
-1. 仍然在“管理员”部分中，单击 **启动点**.
+1. 仍然在管理员部分中，单击 **启动点**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-9.png)
 
-1. 单击 **新** 则 **新服务**.
+1. 单击 **新建** 则 **新建服务**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 选择显示名称。 单击 **服务** 下拉菜单并选择 **自定义**. 输入描述。 单击仅API用户下拉列表，然后选择您创建的用户 [（按照上述步骤）](#create-a-new-user). 单击&#x200B;**创建**。
+1. 选择显示名称。 单击 **服务** 下拉并选择 **自定义**. 输入说明。 单击仅API用户下拉列表，然后选择您创建的用户 [在上述步骤中](#create-a-new-user). 单击&#x200B;**创建**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. 找到刚刚创建的自定义LaunchPoint服务，然后单击“查看详细信息”。
+1. 找到您刚刚创建的自定义LaunchPoint服务，然后单击“查看详细信息”。
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
@@ -80,8 +80,8 @@ ht-degree: 1%
 
    ![](assets/set-up-the-on24-integration-with-marketo-14.png)
 
-1. 在“REST API”下，高亮显示、右键单击、复制并保存身份的第一部分（一直到.com中的“m”为止）。
+1. 在“REST API”下，高亮显示，右键单击，复制并保存身份的第一部分（一直到.com中的“m”为止）。
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. 使用保存的客户端ID、客户端密钥和身份，导航到您的ON24帐户。 其余步骤均在此处执行，并且 [此处概述](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.
+1. 使用保存的客户端ID、客户端密钥和身份，导航到您的ON24帐户。 其余步骤均在此执行，并且 [此处概述](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.

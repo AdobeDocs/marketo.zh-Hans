@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用全局叠加 {#using-a-global-overlay}
 
-项目群计划视图中的全局覆盖允许您查看与其他计划资产相关的项目。
+通过项目计划视图中的全局覆盖，您可以查看与其他计划资产相关的项目。
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. 选择 **叠加** 右下角。
+1. 选择 **叠加** 在右下角。
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 使用保存的过滤器作为叠加 {#use-a-saved-filter-as-an-overlay}
 
-如果您已 [在营销日历中保存了过滤器](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)，您可以在项目计划视图中将其用作叠加。
+如果您已 [在营销日历中保存了过滤器](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)中，您可以将其用作项目计划视图中的叠加。
 
 1. 单击 **叠加** 下拉列表并选择您的筛选器定义。
 
@@ -51,4 +51,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[在项目计划视图中创建自定义叠加图](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
+   >[在项目计划视图中创建自定义叠加](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)

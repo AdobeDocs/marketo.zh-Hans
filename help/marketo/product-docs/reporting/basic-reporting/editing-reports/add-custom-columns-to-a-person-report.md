@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360201
-description: 将自定义列添加到人员报表 — Marketo文档 — 产品文档
+description: 向人员报表添加自定义列 — Marketo文档 — 产品文档
 title: 向人员报表添加自定义列
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
@@ -31,10 +31,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. 你做到了！ 单击 **报告** 选项卡，以查看包含新列的报表。
+1. 你做到了！ 单击 **报表** 选项卡，以查看包含新列的报表。
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >您还可以 [向潜在客户报告添加机会列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
+   >您还可以 [将业务机会列添加到潜在客户报表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).

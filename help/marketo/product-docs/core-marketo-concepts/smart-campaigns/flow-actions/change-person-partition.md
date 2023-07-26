@@ -15,7 +15,7 @@ ht-degree: 4%
 
 ## 概述 {#overview}
 
-如果您使用 [工作区和分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)，您将需要构建智能营销活动以将用户从一个分区移动到另一个分区。
+如果您使用 [工作区和分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)，则需要构建智能营销活动以将用户从一个分区移动到另一个分区。
 
 ![](assets/one-3.png)
 
@@ -25,4 +25,4 @@ ht-degree: 4%
 
 ![](assets/two-3.png)
 
-就这么简单！
+这太简单了！

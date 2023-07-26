@@ -13,29 +13,29 @@ ht-degree: 0%
 
 # 创建程序分析器 {#create-a-program-analyzer}
 
-了解哪些项目和渠道为您带来了最大的营销成本。 使用程序分析器按程序或渠道详细检查和比较每项成本和回报。
+探索哪些项目和渠道可为您带来最大的营销回报。 使用项目分析器按项目或渠道详细检查和比较每项成本和回报。
 
 >[!NOTE]
 >
->要从计划分析器中获取有效数据，请确保您的CRM联系人拥有参与商机的角色，并且您的Marketo计划已完全设置，具有 [期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、项目状态和定义的成功案例。
+>要从程序分析器中获取有效数据，请确保您的CRM联系人具有参与机会的角色，并且您的Marketo程序已完全设置，具有 [期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、项目状态和定义的成功次数。
 
 >[!TIP]
 >
->若要使无成本程序显示在程序分析器中， [设置其期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) 到0美元。
+>要使无成本程序出现在程序分析器中， [设置其期间成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) 到0美元。
 
-1. 单击 **分析** 图块。
+1. 单击 **分析** 磁贴。
 
    ![](assets/image2014-9-17-13-3a7-3a1.png)
 
-1. 单击 **程序分析器** 图块。
+1. 单击 **程序分析器** 磁贴。
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. 出现“standard program analyzer（标准程序分析器）”。 根据需要对其进行任何更改。
+1. 出现标准程序分析器。 根据需要对其进行任何更改。
 
    ![](assets/image2016-10-31-15-3a3-3a9.png)
 
-1. 单击 **设置** 选项卡，以添加和自定义筛选器。
+1. 单击 **设置** 选项卡以添加和自定义筛选器。
 
    ![](assets/image2016-10-31-15-3a25-3a57.png)
 
@@ -49,13 +49,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要选择特定范围，请选择 **自定义** 并使用 **起始日期** 和 **至** 字段。
+   >要选择特定范围，请选择 **自定义** 并使用 **从** 和 **至** 字段。
 
-1. 如果要保存新的自定义分析器，请在Analyzer“操作”下拉列表中，选择 **另存为**.
+1. 如果要保存新的自定义分析器，请在“分析器操作”下拉列表中，选择 **另存为**.
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. 使用保存到和文件夹下拉列表，选择要保存自定义分析器的位置。 命名新的自定义分析器。 描述是可选的。 单击 **保存**.
+1. 使用保存到和文件夹下拉列表，选择要保存自定义分析器的位置。 命名新的自定义分析器。 说明是可选的。 单击 **保存**.
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Program Analyzer比较渠道效率](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
->* [使用Program Analyzer比较计划效果](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
->* [使用计划分析器探索计划和渠道详细信息](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [使用项目分析器比较渠道有效性](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [使用程序分析器比较程序有效性](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [使用计划分析器浏览计划和渠道详细信息](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [克隆程序分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)

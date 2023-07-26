@@ -5,14 +5,14 @@ exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
 feature: Dynamic Chat
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 # 使用文档信息卡 {#using-the-document-card}
 
-利用“文档”卡可在对话框中嵌入PDF文档并跟踪访客的文档参与活动。 下面是设置方法。
+“文档”卡允许在对话框中嵌入PDF文档并跟踪访客的文档参与活动。 下面是设置方法。
 
 1. 导航到 [Adobe PDF嵌入API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/using-the-document-card-2.png)
 
-1. 输入您的凭据，接受相关条款，然后单击 **创建凭据**.
+1. 输入凭据，接受条款，然后单击 **创建凭据**.
 
    ![](assets/using-the-document-card-3.png)
 

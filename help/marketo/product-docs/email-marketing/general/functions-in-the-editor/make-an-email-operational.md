@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147354
-description: 使电子邮件可运行 — Marketo文档 — 产品文档
-title: 使电子邮件可运行
+description: 使电子邮件可操作 — Marketo文档 — 产品文档
+title: 使电子邮件正常运行
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 使电子邮件可运行 {#make-an-email-operational}
+# 使电子邮件正常运行 {#make-an-email-operational}
 
 运营电子邮件忽略取消订阅和营销暂停状态。 无论如何他们都会发送。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >运营电子邮件不受通信限制的约束。
 
-1. 找到您的电子邮件，选择它并单击 **编辑草稿**.
+1. 查找您的电子邮件，选择它并单击 **编辑草稿**.
 
 ![](assets/one-1.png)
 

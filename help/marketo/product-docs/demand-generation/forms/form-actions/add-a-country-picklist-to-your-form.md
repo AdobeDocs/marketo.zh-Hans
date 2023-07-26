@@ -6,14 +6,14 @@ exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
 # 在表单中添加国家/地区选择列表 {#add-a-country-picklist-to-your-form}
 
-按照这些说明将“country”字段转换为包含所有国家/地区列表的下拉列表。
+按照这些说明将国家/地区字段转换为包含所有国家/地区列表的下拉列表。
 
 1. 转到 **营销活动**.
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **编辑** 此 **值** 以添加用户可以从中进行选择的国家/地区列表。
+1. **编辑** 该 **值** 以添加用户可以从中进行选择的国家/地区列表。
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
 
-既然这太简单了，何不多做点呢？ 当用户选择美国作为列表中的国家/地区时，如何动态显示State字段？ 请查看下面的相关文章，了解如何执行该操作。
+既然这太简单了，何不多做点呢？ 当用户选择美国作为列表中的国家/地区时，如何动态显示State字段？ 请查看下面的相关文章以了解如何执行此操作。
 
 >[!MORELIKETHIS]
 >

@@ -6,7 +6,7 @@ exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->您的SOAP端点和 [!UICONTROL 用户ID] 是唯一的；请勿将本文中的屏幕快照发送给您的开发人员。
+>您的SOAP端点和 [!UICONTROL 用户标识] 是唯一的；请勿将本文中的屏幕快照发送给您的开发人员。
 
 >[!MORELIKETHIS]
 >

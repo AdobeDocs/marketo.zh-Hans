@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->要使用自定义对象，必须将其与Veeva CRM中的联系人或帐户对象关联。
+>要使用自定义对象，必须将其关联到Veeva CRM中的联系人或帐户对象。
 
 ## 启用自定义对象 {#enable-custom-object}
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >自定义对象必须具有唯一的名称。 Marketo不支持具有相同名称的两个不同自定义对象。
+   >自定义对象必须具有唯一的名称。 Marketo不支持具有相同名称的两个其他自定义对象。
 
 1. 单击 **启用同步**.
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    ![](assets/custom-object-sync-6.png)
 
-1. 返回至 **Veeva** 选项卡。
+1. 返回 **Veeva** 选项卡。
 
    ![](assets/custom-object-sync-7.png)
 
@@ -72,11 +72,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo仅支持链接到一到两级深度标准实体的自定义实体。
+   >Marketo仅支持链接到一到两层深标准实体的自定义实体。
 
 太棒了！ 现在，您可以在智能营销活动和智能列表中使用此自定义对象中的数据。
 
 >[!MORELIKETHIS]
 >
->* [正在同步呼叫和呼叫关键消息](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [同步呼叫和呼叫关键消息](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 >* [添加/删除自定义对象字段作为智能列表/触发器约束](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

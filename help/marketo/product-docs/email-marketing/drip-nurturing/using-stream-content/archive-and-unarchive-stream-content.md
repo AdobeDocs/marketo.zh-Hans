@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 存档和取消存档流内容 {#archive-and-unarchive-stream-content}
 
-如果您不再希望在流中使用一段内容，则可以 [移除](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) 保存或存档。 以下是如何存档内容。
+如果您不再希望在流中使用某段内容，则可以 [移除](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) 保存或存档。 以下是存档内容的方法。
 
 >[!TIP]
 >
->删除将销毁所有关联的历史记录；存档将保留该历史记录。
+>删除将销毁所有关联的历史记录；存档可保留历史记录。
 
 ## 将流内容存档 {#archive-stream-content}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. 现在，您可以看到存档的内容，单击要取消存档的内容的齿轮图标，然后单击 **取消存档**.
+1. 现在您可以看到存档的内容，单击要取消存档的内容所对应的齿轮图标，然后单击 **取消存档**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 

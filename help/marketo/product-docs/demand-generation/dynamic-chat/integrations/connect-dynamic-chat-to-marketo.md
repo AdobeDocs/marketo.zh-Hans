@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ## 正在连接Dynamic Chat {#connecting-dynamic-chat}
 
-在您完成 [初始设置](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}，现在该执行一次性的同步连接Dynamic Chat以连接到Marketo订阅了。
+在您完成 [初始设置](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}，现在该执行一次sync连接Dynamic Chat以连接到Marketo订阅了。
 
-1. 在“我的Marketo”中，单击 **Dynamic Chat** 图块。
+1. 在“我的Marketo”中，单击 **Dynamic Chat** 磁贴。
 
    ![](assets/connect-dynamic-chat-to-marketo-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
    >
    >如果您看不到图块，请联系您的Marketo管理员。
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接进入Dynamic Chat。 如果没有， [设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. 如果您之前曾使用Adobe ID访问过应用程序，则将会直接Dynamic Chat。 如果不能， [设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. 要连接您的Marketo实例，请选择 **集成**.
 
@@ -50,11 +50,11 @@ ht-degree: 0%
 
 在初始同步之后，以下说明如何添加其他属性。
 
-1. In **集成**，确保 **Adobe Marketo Engage** 选项卡，然后单击 **添加属性**.
+1. 在 **集成**，确保 **Adobe Marketo Engage** 选项卡，然后单击 **添加属性**.
 
    ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
-1. 选择要添加的属性，然后单击 **下一个**.
+1. 选择要添加的属性并单击 **下一个**.
 
    ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
@@ -68,9 +68,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->只有属性当前未被任何对话框使用时，您才会看到用于移除属性的选项。
+>只有属性当前未被任何对话框使用时，您才会看到用于移除该属性的选项。
 
-1. In **集成**，确保 **Adobe Marketo Engage** 选项卡中，然后单击要删除的属性。
+1. 在 **集成**，确保 **Adobe Marketo Engage** 选项卡中，然后单击要删除的属性。
 
    ![](assets/connect-dynamic-chat-to-marketo-9.png)
 

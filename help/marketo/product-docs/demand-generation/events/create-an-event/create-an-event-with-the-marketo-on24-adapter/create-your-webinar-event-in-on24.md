@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 在ON24中创建网络研讨会活动 {#create-your-webinar-event-in-on}
 
-在ON24中创建网络研讨会后，您可以创建一个Marketo活动并将其与ON24网络研讨会关联。 这样，系统就可以共享登记和出勤信息。 记下要在确认电子邮件和ICS文件中使用的URL和其他信息。
+在ON24中创建网络研讨会后，可创建一个Marketo事件并将其与ON24网络研讨会关联。 这允许系统共享登记和出勤信息。 记下用于确认电子邮件和ICS文件的URL和其他信息。
 
 在创建ON24网络研讨会时，有一些设置仅供Marketo和其他组织使用，而仅供ON24使用。 Marketo使用以下设置：
 
 **标题和描述**
 
-* 事件标题 — 网络研讨会的名称。 该可视化图表将显示在Marketo中。
-* 事件摘要（可选） — 网络研讨会的描述。 该可视化图表将显示在Marketo中。
+* 事件标题 — 网络研讨会的名称。 该屏幕将显示在Marketo中。
+* 事件摘要（可选） — 网络研讨会的描述。 该屏幕将显示在Marketo中。
 
 **日期和时间**
 
-* 实时活动开始 — 开始日期和时间。 该可视化图表将显示在Marketo中。
-* 实时结束时间 — 完成日期和时间。 该可视化图表将显示在Marketo中。
+* 实时活动开始 — 开始日期和时间。 该屏幕将显示在Marketo中。
+* 实时结束时间 — 完成日期和时间。 该屏幕将显示在Marketo中。
 
 您的下一步是 [在Marketo中创建事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
 

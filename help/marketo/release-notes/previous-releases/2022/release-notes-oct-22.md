@@ -10,9 +10,9 @@ ht-degree: 2%
 
 ---
 
-# 发行说明：2022年10月 {#release-notes-oct-22}
+# 发行说明： 2022年10月 {#release-notes-oct-22}
 
-在下方，您会找到2022年10月版本中包含的所有功能。 查看Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2022年10月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
@@ -20,13 +20,13 @@ ht-degree: 2%
 
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，并将于以下日期开始发行 **2022年10月14日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会有变动。 请检查每个功能下方的状态。
+以下功能属于标准发行周期，并将于以下日期开始发行 **2022年10月14**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会发生更改。 请检查每个功能下方的状态。
 
 ### 营销数据环境 {#marketing-data-environment}
 
 </br>
 
-* **项目群成员自定义字段同步**：能够双向同步为项目群成员捕获的可扩展字段（例如，在活动注册期间的与会者偏好，如食物、会话、曲目等） 使用Salesforce中的Campaign成员字段。
+* **程序成员自定义字段同步**：能够双向同步为项目群成员捕获的可扩展字段（例如，在活动注册期间的与会者偏好设置，如食物、会话、曲目等） 在Salesforce中使用Campaign成员字段。
 
 <table> 
   <tr> 
@@ -35,12 +35,12 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">项目群成员自定义字段同步</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">程序成员自定义字段同步</a></td>
   </tr>
   </tbody>
 </table>
 
-* **AdobePrivacy Service集成**：与Privacy Service协调以跨Experience Cloud产品自动遵守数据隐私法规。 目前，此服务仅适用于已载入AdobeIdentity Management System的Marketo Engage客户。
+* **AdobePrivacy Service集成**：与Privacy Service协调以自动实现跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入AdobeIdentity Management System的Marketo Engage客户。
 
 <table> 
   <tr> 
@@ -54,11 +54,11 @@ ht-degree: 2%
   </tbody>
 </table>
 
-### 新一代体验 {#modern-ux}
+### 下一代体验 {#modern-ux}
 
 </br>
 
-* **更新了下一代体验中的屏幕**：我们将在下一代体验中提供更多、刷新的屏幕，这些屏幕提供更新的设计和可用性增强功能，可通过切换开关访问：
+* **更新了新一代体验中的Screens**：我们将在下一代体验中提供额外的刷新屏幕，这些屏幕提供更新的设计和可用性增强功能，可通过切换开关访问：
 
    * 登陆页面模板详细信息
    * 电子邮件模板列表
@@ -75,7 +75,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **电子邮件模板详细信息中的“增强的使用者”选项卡**：在新Experience中，您将看到与使用电子邮件模板的资产相关的其他信息，包括资产状态、上次修改时间和上次修改者。 您还可以搜索、排序和筛选资源使用的列表。
+* **电子邮件模板详细信息中的“用于增强功能”选项卡**：在新Experience中，您将看到与使用电子邮件模板的资源相关的其他信息，包括资源状态、上次修改时间和上次修改者。 您还可以搜索、排序和筛选资源使用的列表。
 
 <table> 
   <tr> 
@@ -89,7 +89,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **报表资源筛选模式**：新的报表配置模式设计，在配置菜单中显示了新的资源树，并筛选了创建和修改日期。
+* **报表资产筛选器模式**：新的报表配置模式设计，在配置菜单中显示新的资源树，并为创建和修改日期提供过滤器。
 
 <table> 
   <tr> 
@@ -107,7 +107,7 @@ ht-degree: 2%
 
 </br>
 
-* **批量销售线索导入：销售人员关联**：与Lead REST API实现对等性，以便在批量商机导入过程中将商机与销售人员关联，从而减少所需的API调用的复杂性和次数。
+* **批量销售线索导入：销售人员关联**：与Lead REST API进行奇偶校验，以便在批量商机导入过程中将商机与销售人员关联，从而减少所需的API调用的复杂性和次数。
 
 <table> 
   <tr> 
@@ -127,7 +127,7 @@ ht-degree: 2%
 
 ![(star)](assets/yellow-star.png)
 
-* **Sales Insight与Dynamic Chat集成**：分析功能板现在包括智能网格中的Dynamic Chat活动，以及每周摘要和详细信息卡。
+* **Sales Insight与Dynamic Chat集成**：现在，分析功能板包括智能网格中的Dynamic Chat活动，以及每周摘要和详细信息卡。
 
 <table> 
   <tr> 
@@ -145,7 +145,7 @@ ht-degree: 2%
 
 以下功能遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请检查每个功能下方的状态。
 
-* **自动排列用于Dynamic Chat的对话框流**：通过按按钮通过“自动排列”，将画布上的所有内容整理为干净且易于阅读的格式，从而改进拥挤的对话框画布。
+* **自动排列Dynamic Chat的对话框流**：通过自动排列按按钮将画布上的所有内容整理为干净和易于阅读的格式，从而改善您拥挤的对话框画布。
 
 <table> 
   <tr> 
@@ -159,7 +159,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **Dynamic Chat的会议链接**：用于在发送给访客的每个日历邀请中自动包含Google和Outlook的“团队”或“会议”链接的选项。
+* **用于Dynamic Chat的会议链接**：用于在发送给访客的每个日历邀请中自动包含Google和Outlook的“团队”或“会议”链接的选项。
 
 <table> 
   <tr> 
@@ -173,7 +173,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **支持Dynamic Chat的其他数据类型**：三种新数据类型（布尔值、整数、浮点数）允许您利用Dynamic Chat中更多的现有Marketo Engage字段来解答诸如根据得分定位或询问访客是/否问题。
+* **支持Dynamic Chat的其他数据类型**：三种新数据类型（布尔值、整数、浮点数）允许您利用Dynamic Chat中更多现有的Marketo Engage字段来解答诸如根据得分定位或询问访客是/否问题。
 
 <table> 
   <tr> 

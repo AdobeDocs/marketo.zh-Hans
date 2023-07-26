@@ -29,15 +29,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
-1. 浏览到计算机上将替换当前文件的文件，然后选择该文件。
+1. 浏览到计算机上要替换当前文件的文件，然后选择该文件。
 
    ![](assets/image2014-9-16-11-3a22-3a2.png)
 
    >[!NOTE]
    >
-   >如果无法从共享文件夹中选择文件，请将该文件保存到硬盘驱动器并从那里选择它。
+   >如果无法从共享文件夹中选择文件，请将该文件保存到硬盘驱动器并从那里进行选择。
 
-1. 验证旁边显示的文件 **选择文件** 正确，然后单击 **Replace**.
+1. 验证旁边显示的文件 **选择文件** 是正确的，然后单击 **替换**.
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 
@@ -50,4 +50,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [搜索上传的图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [查找上传的图像或文件的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [查找上载的图像或文件的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)

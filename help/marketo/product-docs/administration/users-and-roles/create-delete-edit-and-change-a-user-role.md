@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
-1. 命名新角色，选中要授予与该角色相关联的用户的所有权限，然后单击 **[!UICONTROL 创建]**.
+1. 命名您的新角色，选中要授予与该角色关联的用户的所有权限，然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您必须首先确保未将任何用户分配给角色，否则无法删除该角色。
+>您必须首先确保没有用户被分配给某个角色，否则无法删除该角色。
 
 ## 编辑现有角色 {#edit-an-existing-role}
 
@@ -101,7 +101,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您是否要更新帐户电子邮件地址？ [在此处了解详情](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >是否要更新帐户电子邮件地址？ [在此处了解详情](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## 更改用户的角色 {#change-a-users-role}
 
@@ -123,4 +123,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您将多个角色保留为选中状态，则Marketo将默认使用最严格的权限。
+>如果您保留选中多个角色，则Marketo将默认使用限制最严格的权限。

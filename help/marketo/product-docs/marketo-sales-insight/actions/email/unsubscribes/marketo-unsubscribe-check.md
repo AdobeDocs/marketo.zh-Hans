@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Marketo取消订阅检查 {#marketo-unsubscribe-check}
 
-Marketo Unsubscribe Check使用您团队与Marketo的连接，防止电子邮件发送给在Marketo的销售线索管理系统中取消订阅的人员。 当销售用户使用Marketo Sales发送电子邮件时，将向Marketo发起API调用以检查电子邮件ID是否已取消订阅。 如果是，我们将阻止发送电子邮件。
+Marketo取消订阅检查使用您的团队与Marketo的连接，防止电子邮件发送给在Marketo的潜在客户管理系统中取消订阅的人员。 当销售用户使用Marketo Sales发送电子邮件时，将对Marketo进行API调用以检查电子邮件ID是否已取消订阅。 如果是，我们将阻止发送电子邮件。
 
 >[!NOTE]
 >

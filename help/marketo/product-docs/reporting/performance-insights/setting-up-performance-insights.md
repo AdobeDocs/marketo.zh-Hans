@@ -33,23 +33,23 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. “归因设置”随即显示。
+1. 此时会显示归因设置。
 
    ![](assets/four-2.png)
 
-   如果Attribution是明确的，请确保已填充机会联系人角色（通过机会角色端点或通过CRM集成）。
+   如果Attribution是明确的，请确保已填充Opportunity Contact Role（通过Opportunity Role端点或通过CRM集成）。
 
-   如果Attribution是隐式的，请确保潜在客户/联系人上的company字段与机会的客户名称相同。
+   如果Attribution是隐式的，请确保商机/联系人上的company字段与商机的客户名称相同。
 
    >[!NOTE]
    >
-   >确保所有机会都已填充了相应的字段：
+   >确保所有机会均已填充相应的字段：
    >
    >* 机会金额
    >* 已关闭
    >* 赢得了
    >* 创建日期（在您的案例中可能未设置此日期）
-   >* 关闭日期（在您的案例中可能未设置此日期）
+   >* 结束日期（在您的案例中可能未设置此日期）
    >* 机会类型
 
 ## 项目设置 {#program-setup}
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    ![](assets/period-cost.png)
 
-1. 将计划月设置为至少12个月前，然后单击 **确定**.
+1. 将计划月份设置为至少12个月前，然后单击 **确定**.
 
    ![](assets/set-period.png)
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
    ![](assets/set-cost.png)
 
-接下来，查看Analytics行为，以指示是否应在Analytics中包含特定渠道。 设置Analytics行为（正常、包含、可操作）。
+接下来，查看Analytics行为，以指示分析中是否应包含特定渠道。 设置Analytics行为（正常、包含、可操作）。
 
 1. 单击 **管理员**.
 
@@ -117,4 +117,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->所做的更改不是立即进行的。 在更改生效之前，需要过夜时间。
+>所做的更改不是立即进行的。 在更改生效之前，需要过一夜的时间。

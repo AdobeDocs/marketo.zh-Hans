@@ -44,7 +44,7 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >用户 _必须_ 添加到产品配置文件中才能访问Marketo Engage。
+   >用户 _必须_ 添加到产品配置文件以访问Marketo Engage。
 
 1. 单击 **[!UICONTROL 保存]**.
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->当用户通过Adobe Admin Console添加到Marketo Engage时，他们将在订阅的默认工作区中获得“标准用户”角色。 如果需要调整用户在工作区中的角色，请在Marketo Engage中执行此操作， [如此处所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>当用户通过Adobe Admin Console添加到Marketo Engage时，将会在订阅的默认工作区中向他们授予“标准用户”角色。 如果需要调整用户在工作区中的角色，此操作将在Marketo Engage中完成， [如此处所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## 删除用户 {#remove-a-user}
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-14.png)
 
-然后，用户将收到一封电子邮件，通知他们不再具有Marketo Engage访问权限。
+然后，用户将收到一封电子邮件，通知他们不再有权限访问Marketo Engage。
 
 >[!MORELIKETHIS]
 >

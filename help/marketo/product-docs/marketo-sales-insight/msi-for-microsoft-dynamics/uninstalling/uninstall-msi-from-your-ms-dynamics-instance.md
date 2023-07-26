@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 从MS Dynamics实例卸载MSI {#uninstall-msi-from-your-ms-dynamics-instance}
 
-要从MS Dynamics实例卸载MSI，您需要在Marketo和MS Dynamics中执行步骤。
+要从MS Dynamics实例卸载MSI，您需要同时在Marketo和MS Dynamics中执行步骤。
 
 >[!PREREQUISITES]
 >

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在自由格式登陆页面中添加指向图像的链接 {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-希望将登陆页面上的图像作为指向其他页面/网站的链接吗？ 下面是具体操作方法。
+希望将登陆页面上的图像作为指向其他页面/网站的链接吗？ 具体方法如下。
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/add-link.png)
 
-   恭喜！您现在已成功添加指向登陆页面上图像的链接。 您现在可以 [预览页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) 看看它的实际效果。
+   恭喜！您现在已成功添加指向登陆页面上图像的链接。 您现在可以 [预览页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) 以实际行动。
 
 >[!TIP]
 >

@@ -6,14 +6,14 @@ exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # 创建基本Web区段 {#create-a-basic-web-segment}
 
-让我们创建一个基本区段，以来自美国和金融服务业的所有Web访客为目标。
+让我们创建一个以来自美国和金融服务业的所有Web访客为目标的基本区段。
 
 1. 转到 **区段**.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/segment-name.png)
 
-1. 拖动 **位置** 从右侧菜单中将其拖放到区段编辑器中。
+1. 拖动 **位置** 将其从右侧菜单拖放到区段编辑器中。
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,15 +39,15 @@ ht-degree: 0%
    >
    >每个区段的城市数量限制为300个。
 
-1. 拖动 **行业** 从右侧菜单中将其拖放到区段编辑器中。
+1. 拖动 **行业** 将其从右侧菜单拖放到区段编辑器中。
 
    ![](assets/industries-hand.jpg)
 
-1. 从下拉列表中选择要添加行业。 选择 **金融服务业**.
+1. 从下拉列表中选择要添加的“行业” 。 选择 **金融服务业**.
 
    ![](assets/segment-industries.png)
 
-   现在，您已为所有访问您网站的美国客户和金融业潜在客户建立了一个基本区段。
+   现在，您已为所有来自美国和金融业的访问您网站的潜在客户建立了基本区段。
 
 1. 单击 **保存** 保存区段或 **保存并定义营销活动** 以转到“营销活动”页面。
 

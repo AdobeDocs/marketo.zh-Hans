@@ -29,4 +29,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您的实例中未显示“禁用同步”按钮，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >如果您在实例中未看到“禁用同步”按钮，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).

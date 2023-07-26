@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >请记住 [批准登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表单创建的草稿发生更改。
+   >请记住 [批准登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 表单创建的草稿发生更改。
 
 您的表单现在将反映您选择的语言。
 

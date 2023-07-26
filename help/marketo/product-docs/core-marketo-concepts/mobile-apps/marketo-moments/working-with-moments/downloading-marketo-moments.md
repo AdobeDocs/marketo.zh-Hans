@@ -6,16 +6,16 @@ exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 # 下载Marketo时刻 {#downloading-marketo-moments}
 
-从App Store或Google Play下载Marketo时刻并观看！ Marketo的魔法就在你手掌里。
+从App Store或Google Play下载Marketo时刻，尽情观看！ Marketo的魔法就在你手掌里。
 
-## 对于iPhone {#for-iphone}
+## 适用于iPhone的 {#for-iphone}
 
 1. 转到 [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 1. 转到 [Google Play](https://play.google.com/store?hl=en).
 
-1. 搜索“Marketo时刻”并点击以下载。
+1. 搜索Marketo时间并点击以下载。
 
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
-1. 点按 **接受**.
+1. 点按 **Accept**.
 
    ![](assets/image2015-7-7-16-3a41-3a47.png)
 
@@ -45,13 +45,13 @@ ht-degree: 0%
 
    ![](assets/image2015-7-7-16-3a43-3a21.png)
 
-尽情享受！
+祝您使用愉快！
 
 >[!NOTE]
 >
 >使用普通的Marketo登录名和密码登录。
 >
->Marketo Ments不支持使用安全声明标记语言(SAML)进行单点登录。
+>Marketo Ments不支持使用安全断言标记语言(SAML)进行单点登录。
 
 >[!MORELIKETHIS]
 >

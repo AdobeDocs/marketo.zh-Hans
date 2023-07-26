@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在Lightbox中使用表单 {#use-a-form-in-a-lightbox}
 
-Lightbox是一种技术，可在您想要显示内容时打开内容前面的表单。 下面是具体操作方法。
+Lightbox是一种技术，可在您想要显示内容时在其前面打开表单。 具体方法如下。
 
 1. 转到 **营销活动**.
 

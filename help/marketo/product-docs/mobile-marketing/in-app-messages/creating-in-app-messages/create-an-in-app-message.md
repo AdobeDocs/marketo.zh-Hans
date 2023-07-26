@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 创建应用程序内消息 {#create-an-in-app-message}
 
-创建完美的应用程序内消息需要多个步骤。 从此处开始，然后按照文章中的顺序执行步骤。
+创建完美的应用程序内消息需要多个步骤。 从此处开始，然后按照这些文章中的顺序执行步骤。
 
 创建应用程序内消息后，转到 [此处](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) 查看如何发送。
 

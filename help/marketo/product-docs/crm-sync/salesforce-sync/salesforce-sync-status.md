@@ -5,16 +5,16 @@ exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '552'
+ht-degree: 3%
 
 ---
 
 # Salesforce同步状态 {#salesforce-sync-status}
 
-使用同步状态仪表板可以查看同步步骤中的同步状态及其成功状态。
+使用同步状态功能板可以查看同步步骤中的同步状态及其成功状态。
 
-同步步骤反映对象架构和数据本身的每种对象类型执行的推送或拉取操作。 统计信息涵盖同步期间的新记录、更新、删除和失败计数。 用户可以按日期、操作类型或对象类型进行过滤。 同步状态仪表板显示过去五天的同步周期状态。
+同步步骤反映按对象架构和数据本身的每种对象类型进行的推送或拉取操作。 统计信息涵盖同步期间的新记录、更新、删除和失败计数。 用户可以按日期、操作类型或对象类型进行过滤。 同步状态仪表板显示过去五天的同步周期状态。
 
 >[!NOTE]
 >
@@ -26,17 +26,17 @@ ht-degree: 0%
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. 在集成下，单击Salesforce，然后单击同步状态选项卡。
+1. 在集成下，单击Salesforce ，然后单击同步状态选项卡。
 
    ![](assets/salesforce-sync-status-2.png)
 
-默认情况下，统计信息将按最近启动进行排序。 您可以通过单击排序图标，按“开始于”或“结束于”（从最近到最旧）进行排序。
+默认情况下，统计信息将按最近启动进行排序。 您可以通过单击排序图标按“开始于”或“结束于”进行排序（从最近到最旧）。
 
 ![](assets/salesforce-sync-status-3.png)
 
 ## 筛选器同步状态 {#filter-sync-status}
 
-1. 要筛选数据，请单击页面最右侧的筛选图标。
+1. 要过滤数据，请单击页面最右侧的过滤器图标。
 
    ![](assets/salesforce-sync-status-4.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1">对象</td> 
    <td colspan="1">对象类型</td> 
-   <td colspan="1">Contact 、 Person 、 Task 、 Opportunity 、 Lead 、 Others ，如下所示</td> 
+   <td colspan="1">Contact 、 Person 、 Task 、 Opportunity 、 Lead和Others ，如下所示</td> 
   </tr>  
   <tr> 
    <td colspan="1">操作</td> 
@@ -89,7 +89,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1">状态</td> 
    <td colspan="1">批次的状态</td> 
-   <td colspan="1">成功、失败、不完整、正在处理、已清理*</td> 
+   <td colspan="1">成功、失败、不完整、处理中、已清理*</td> 
   </tr>
   <tr> 
    <td colspan="1">新</td> 
@@ -98,7 +98,7 @@ ht-degree: 0%
   </tr>  
   <tr> 
    <td colspan="1">已更新</td> 
-   <td colspan="1">已更新记录计数</td> 
+   <td colspan="1">已更新记录的计数</td> 
    <td colspan="1"></td> 
   </tr>  
   <tr> 
@@ -138,7 +138,7 @@ ht-degree: 0%
    <td colspan="1">自定义对象</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Campaign</td> 
+   <td colspan="1">营销活动</td> 
   </tr>  
   <tr> 
    <td colspan="1">营销活动成员状态</td> 
@@ -182,33 +182,33 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th>操作类型</th> 
-   <th>对这些对象找到</th> 
+   <th>对这些对象查找</th> 
    <th>备注</th> 
    <th>操作类型</th>
   </tr> 
   <tr> 
-   <td colspan="1">与项目群之间的初始链接</td> 
-   <td colspan="1">Campaign</td> 
-   <td colspan="1">将营销活动链接到项目群</td> 
+   <td colspan="1">与项目群的初始链接</td> 
+   <td colspan="1">营销活动</td> 
+   <td colspan="1">将营销活动链接到项目</td> 
    <td colspan="1">更新</td>
   </tr>  
   <tr> 
    <td colspan="1">拉取转化</td> 
    <td colspan="1">人员（潜在客户）*</td> 
-   <td colspan="1">提取从SFDC到Marketo的转换操作。 单位（编号）是指转换为联系人的潜在客户</td> 
-   <td colspan="1">更新，失败项目或跳过</td>
+   <td colspan="1">将转换操作从SFDC拉入Marketo。 单位（编号）是转换为联系人的潜在客户</td> 
+   <td colspan="1">更新，失败的项目或已跳过</td>
   </tr> 
   <tr> 
    <td colspan="1">提取删除</td> 
-   <td colspan="1">联系人、人员（潜在客户）、机会、营销活动、营销活动成员、机会联系人、自定义对象、营销活动、营销活动成员状态、机会联系人角色</td> 
+   <td colspan="1">Contact、人员（潜在客户）、Opportunity、Campaign、Campaign成员、Opportunity Contact、Custom Objects、Campaigns、Campaign成员状态、Opportunity Contact角色</td> 
    <td colspan="1">正在同步到Marketo的SFDC的已删除记录</td> 
-   <td colspan="1">已删除、失败项目或已跳过</td>
+   <td colspan="1">已删除、失败的项目或已跳过</td>
   </tr>  
   <tr> 
    <td colspan="1">提取更新</td> 
-   <td colspan="1">任务，人员（销售线索），人员（销售线索）队列，联系人，事件，机会，客户，帐户类型，促销活动成员，自定义对象，促销活动，促销活动成员状态，事件，人员状态，机会，机会联系人角色</td> 
-   <td colspan="1">SFDC中的更新或新记录已同步到Marketo，将事件提取为活动</td> 
-   <td colspan="1">新项、更新项、失败项或已跳过</td>
+   <td colspan="1">任务，人员（潜在客户），人员（潜在客户）队列，联系人，事件，机会，客户，客户类型，促销活动成员，自定义对象，促销活动，促销活动成员状态，事件，人员状态，机会，机会联系人角色</td> 
+   <td colspan="1">SFDC中的更新或新记录已同步到Marketo，将事件拉入为活动</td> 
+   <td colspan="1">新增、更新、失败的项目或跳过的项目</td>
   </tr>  
   <tr> 
    <td colspan="1">推送新内容</td> 
@@ -219,13 +219,13 @@ ht-degree: 0%
   <tr> 
    <td colspan="1">推送更新</td> 
    <td colspan="1">任务、电子邮件模板、人员、联系人、营销活动</td> 
-   <td colspan="1">正在将更新推送到SFDC并删除</td> 
-   <td colspan="1">更新，失败项目或跳过</td>
+   <td colspan="1">将更新推送到SFDC并删除</td> 
+   <td colspan="1">更新，失败的项目或已跳过</td>
   </tr>  
   <tr> 
    <td colspan="1">同步架构</td> 
    <td colspan="1">营销活动成员、自定义对象、营销活动、营销活动成员状态、任务、人员、机会、机会联系人角色、用户</td> 
-   <td colspan="1">同步不同对象的元数据，以确定在下一个周期中同步哪些新字段</td> 
+   <td colspan="1">同步不同对象的元数据，以决定在下一个周期中同步哪些新字段</td> 
    <td colspan="1"></td>
   </tr>  
   <tr> 

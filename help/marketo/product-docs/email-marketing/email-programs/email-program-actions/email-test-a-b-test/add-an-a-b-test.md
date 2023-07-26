@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [创建电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [通过导入列表来定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [通过导入列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 >* [选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [为电子邮件程序创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-测试是优化电子邮件以实现更好参与的绝佳方法。 下面是如何开始操作的。
+测试是优化电子邮件以实现更好参与的绝佳方法。 下面是如何开始的。
 
 1. 转到 **营销活动**.
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您的数据库中存在重复记录，则这些记录将接收 **两者** 测试和入选电子邮件。 为避免发生此情况，请确保您 [查找并合并重复的人员](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) 在数据库中。
+   >如果数据库中的记录重复，这些记录将接收 **两者** 测试和入选的电子邮件。 要防止这种情况发生，请确保您 [查找并合并重复的人员](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) 在数据库中。
 
 >[!MORELIKETHIS]
 >

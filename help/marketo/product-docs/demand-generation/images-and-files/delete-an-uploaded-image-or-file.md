@@ -17,23 +17,23 @@ ht-degree: 0%
 
    ![](assets/designstudio-5.png)
 
-1. 选择 **图像和文件** 然后，在左侧菜单中，单击要删除的文件的名称旁的。
+1. 选择 **图像和文件** 在左侧菜单中，单击要删除的文件的名称旁的。
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. 单击 **文件操作** 下拉菜单并选择 **删除**.
+1. 单击 **文件操作** 下拉并选择 **删除**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
-1. 验证是否选择了正确的文件并单击 **删除**.
+1. 验证您选择了正确的文件并单击 **删除**.
 
    ![](assets/image2014-9-16-11-3a18-3a30.png)
 
    >[!CAUTION]
    >
-   >已删除的图像和文件将从Marketo中完全删除，无法恢复。  它们将不再显示在使用的任何登陆页面或电子邮件中。
+   >已删除的图像和文件将从Marketo中完全删除，并且无法恢复。  它们将不再显示在使用的任何登陆页面或电子邮件中。
 
-1. 您将会返回到 **图像** 和 **文件** 页面，您将看到文件已被删除。
+1. 您将会返回 **图像** 和 **文件** 页面，您将看到文件已被删除。
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 >
 >* [替换上传的图像或文件](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
 >* [搜索上传的图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [查找上传的图像或文件的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [查找上载的图像或文件的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)

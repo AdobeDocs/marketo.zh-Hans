@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 设置事件 {#set-the-event}
 
-1. 选择要与ON24网络研讨会关联的事件，然后单击 **事件操作** 下拉菜单并选择 **事件设置**.
+1. 选择要与ON24网络研讨会关联的事件，然后单击 **事件操作** 下拉并选择 **事件设置**.
 
    ![](assets/one.png)
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## 设置计划 {#set-the-schedule}
 
-当您设置与ON24网络研讨会关联的事件时，事件计划会使用来自ON24的数据填充。 要访问“事件计划”对话框，请执行以下步骤。
+设置与ON24网络研讨会关联的事件时，事件计划会使用来自ON24的数据进行填充。 要访问“事件计划”对话框，请执行以下步骤。
 
-1. 选择事件。 单击 **事件操作** 下拉菜单并选择 **计划。**
+1. 选择事件。 单击 **事件操作** 下拉并选择 **计划。**
 
    ![](assets/five.png)
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果更新ON24中的任何事件信息，则必须单击 **从网络研讨会提供商刷新** “事件操作”菜单查看新数据填充情况。
+   >如果更新ON24中的任何事件信息，则必须单击 **从网络研讨会提供商刷新** 在事件操作菜单中，查看新数据填充情况。
 
-现在，您可以继续下一步了： [创建子营销活动和本地资源](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
+现在您可以转到下一步： [创建子营销活动和本地资源](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

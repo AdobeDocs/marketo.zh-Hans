@@ -6,7 +6,7 @@ exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/one-4.png)
 
-1. 命名您的组并单击 **创建**.
+1. 命名您的群组并单击 **创建**.
 
    ![](assets/two-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能必须点击“刷新”才能查看添加的任何新联系人。
+   >您可能必须点击“刷新”才能看到添加的任何新联系人。
 
 ## 共享组 {#share-a-group}
 
@@ -57,11 +57,11 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 单击圆点（三个垂直的圆点）并选择 **共享**.
+1. 单击圆点（三个垂直的点）并选择 **共享**.
 
    ![](assets/seven.png)
 
-1. 单击下拉列表，然后选择要与组共享的团队。
+1. 单击下拉列表，然后选择要与其共享组的团队。
 
    ![](assets/eight.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-   您仍然拥有该组，但它现在将显示在“团队组”下。
+   您仍拥有该组，但它现在将显示在“团队组”下。
 
 ## 取消共享组 {#unshare-a-group}
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-1. 单击圆点（三个垂直的圆点）并选择 **共享**.
+1. 单击圆点（三个垂直的点）并选择 **共享**.
 
    ![](assets/eleven.png)
 
-1. 单击 **X** 单击与您共享该组的团队旁边，然后单击退出该模式。
+1. 单击 **X** 在与您共享该组的团队旁边，然后单击退出该模式。
 
    ![](assets/twelve.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 单击圆点（三个垂直的圆点）并选择 **重命名**.
+1. 单击圆点（三个垂直的点）并选择 **重命名**.
 
    ![](assets/thirteen.png)
 
@@ -103,11 +103,11 @@ ht-degree: 0%
 
 ## 删除组 {#delete-a-group}
 
-1. 在“人员”页面中，查找并选择要删除的组。
+1. 在“人员”页中，查找并选择要删除的组。
 
    ![](assets/fifteen.png)
 
-1. 单击圆点（三个垂直的圆点）并选择 **删除**.
+1. 单击圆点（三个垂直的点）并选择 **删除**.
 
    ![](assets/sixteen.png)
 

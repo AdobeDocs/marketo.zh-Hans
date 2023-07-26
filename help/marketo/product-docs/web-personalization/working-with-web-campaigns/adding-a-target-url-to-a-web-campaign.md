@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 向Web营销活动添加目标URL {#adding-a-target-url-to-a-web-campaign}
 
-Target URL位于Set Campaign页面下方，用于定义Web营销活动将出现在的特定URL或URL上。
+Target URL位于Set Campaign页面下方，用于定义将显示Web营销活动的特定URL。
 
-## 添加对话框或小组件Web促销活动的目标URL {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
+## 为对话框或构件Web营销活动添加Target URL {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
 1. 转到 **Web营销活动**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 选择 **创建新的Web营销活动**.
+1. 选择 **新建Web营销活动**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
@@ -43,7 +43,7 @@ Target URL位于Set Campaign页面下方，用于定义Web营销活动将出现�
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>匹配时包含URL参数</strong></p></td> 
-   <td colspan="1" rowspan="1">添加URL参数以在包含此参数的URL上匹配和显示促销活动。 例如： campaign=cpc</td> 
+   <td colspan="1" rowspan="1">添加URL参数以在包含此参数的URL上匹配和显示促销活动。 例如 campaign=cpc</td> 
   </tr> 
  </tbody> 
 </table>
@@ -56,17 +56,17 @@ Target URL位于Set Campaign页面下方，用于定义Web营销活动将出现�
 
 >[!NOTE]
 >
->* 对话框和小部件Web营销活动可以使用任意页面和通配符(&#42;)选项。
+>* 对话框和小部件Web营销活动可以使用任何页面和通配符(&#42;)选项。
 >* 在高级用例中，在区域中，Web营销活动可以在URL路径末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL区分大小写
 
-## 为区域内Web营销活动添加目标URL {#adding-a-target-url-for-in-zone-web-campaigns}
+## 为区域Web营销活动添加目标URL {#adding-a-target-url-for-in-zone-web-campaigns}
 
 1. 转到 **Web** **营销活动**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 选择 **创建新的Web营销活动**.
+1. 选择 **新建Web营销活动**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
@@ -74,7 +74,7 @@ Target URL位于Set Campaign页面下方，用于定义Web营销活动将出现�
 
    >[!NOTE]
    >
-   >具有区域内的Target URL必须定义一个或多个URL。 在高级用例中，在区域中，Web营销活动可以在URL路径末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >具有位于区域中的目标URL必须定义一个或多个URL。 在高级用例中，在区域中，Web营销活动可以在URL路径末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 

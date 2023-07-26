@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Sales Insight for Non-Native MS Dynamics集成 {#sales-insight-for-non-native-ms-dynamics-integrations}
 
-如果您的Adobe Marketo Engage帐户通过自定义或非本机集成连接到MS Dynamics，请使用本文配置Sales Insight。
+如果您的Adobe Marketo Engage帐户是通过自定义或非本机集成连接到MS Dynamics，请使用本文配置Sales Insight。
 
 >[!PREREQUISITES]
 >
->* 在开始设置MSI之前，已为您的Marketo实例启用“MSI非本机”功能。 如果不是，并且您已购买该功能，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. 如果您尚未购买此功能，请联系Adobe客户团队（您的客户经理）。
+>* 在开始设置MSI之前，已为您的Marketo实例启用“MSI非本地”功能。 如果不是，并且您已购买该功能，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. 如果您尚未购买此功能，请联系Adobe客户团队（您的客户经理）。
 >* 下载 [用于自定义同步的MSI包](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 >* 具有MSI设置的MS Dynamics订阅(我们仅支持 [Dynamics在线](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} 此时)。
 >* MARKETO REST API [已成功设置](https://developers.marketo.com/rest-api/){target="_blank"}. 公开的CRUD API将是执行非本机同步的基础。
@@ -48,12 +48,12 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 面向销售人员的API文档： [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
-   * 用于同步销售人员的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#！/Sales_Persones/syncSalesPersonesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persones/syncSalesPersonesUsingPOST){target="_blank"}
+   * 销售人员的API文档： [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
+   * 同步销售人员的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#！/Sales_Persones/syncSalesPersonesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persones/syncSalesPersonesUsingPOST){target="_blank"}
 
 1. 将MS Dynamics帐户同步到Marketo。
 
-   需要为MS Dynamics帐户更新Marketo公司。 此 _externalCompanyId_ 和 _externalSalesPersonId_ 字段必须用于本公司之更新植入。
+   需要为MS Dynamics帐户更新Marketo公司。 此 _externalCompanyId_ 和 _externalSalesPersonId_ 字段必须用于公司的更新。
 
    <table> 
     <colgroup> 
@@ -75,7 +75,7 @@ ht-degree: 0%
      <tr> 
       <td>externalSalesPersonId</td> 
       <td>MS Dynamics销售用户不区分大小写的全局唯一标识符</td> 
-      <td>向作为帐户所有者的外部MS Dynamics Sales User对象标识Marketo公司记录。<br><br>还用于在Marketo中将本公司与拥有公司记录的销售人员相关联。 要求在设置此字段之前先同步销售人员。</td> 
+      <td>向作为帐户所有者的外部MS Dynamics销售用户对象标识Marketo公司记录。<br><br>还用于在Marketo中将本公司与拥有公司记录的销售人员相关联。 要求在设置此字段之前先同步销售人员。</td> 
      </tr> 
     </tbody> 
    </table>
@@ -102,7 +102,7 @@ ht-degree: 0%
      <tr> 
       <td>externalPersonId</td> 
       <td>MS Dynamics潜在客户/联系人不区分大小写的全局唯一标识符</td> 
-      <td>将Marketo Lead记录标识到外部MS Dynamics Lead/Contact对象。<br><br>这是为MSI非本机引入的新字段。</td> 
+      <td>将Marketo潜在客户记录标识到外部MS Dynamics潜在客户/联系人对象。<br><br>这是为MSI非本机引入的新字段。</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 1. 将MS Dynamics机会同步到Marketo。
 
-   您需要为MS Dynamics Opportunity更新插入Marketo Opportunity。 此 _externalOpportunityId_， _externalCompanyId_、和 _externalSalesPersonId_ 字段必须用于更新投放Opportunity。
+   您需要为MS Dynamics Opportunity更新插入一个Marketo Opportunity。 此 _externalOpportunityId_， _externalCompanyId_、和 _externalSalesPersonId_ 字段必须用于更新Opportunity。
 
    <table> 
     <colgroup> 
@@ -155,7 +155,7 @@ ht-degree: 0%
    </table>
 
    * 机会的API文档： [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
-   * 用于同步机会的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#！/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
+   * 有关同步机会的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#！/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 将MS Dynamics联系人角色同步到Marketo。
 
@@ -192,13 +192,13 @@ ht-degree: 0%
    </table>
 
    * 机会的API文档： [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
-   * 用于同步机会的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#！/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
+   * 有关同步机会的API文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#！/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
 
-1. 将最后一个有趣的时刻/MSI评分字段同步到MS Dynamics。
+1. 将上一个有趣时刻/MSI评分字段同步到MS Dynamics。
 
-   将MS Dynamics对象正确同步到Marketo后，您就可以利用MSI功能。 MSI最后一个有趣时刻/评分字段将在REST API中向潜在客户公开。 这些字段由MSI计算并且是只读的。
+   将MS Dynamics对象正确同步到Marketo后，您就可以利用MSI功能。 MSI最后一个有趣时刻/评分字段将在潜在客户的REST API中公开。 这些字段由MSI计算并且是只读的。
 
-   Marketo潜在客户的“上一个有趣时刻”/“得分”字段将需要使用REST API潜在客户端点定期同步到MS Dynamics。 使用以下方式查询Marketo潜在客户的此端点 _externalPersonId_ 作为filterType，并将MS Dynamics潜在客户GUID作为filterValue传递。
+   Marketo潜在客户的“上一个有趣时刻”/“得分”字段需要使用REST API潜在客户端点定期同步到MS Dynamics。 使用以下方式查询Marketo潜在客户的此端点 _externalPersonId_ 作为filterType，并将MS Dynamics潜在客户GUID作为filterValue传递。
 
    | GET/rest/v1/leads.json？filterType=externalPersonId&amp;filterValues=MS DynamicsLeadId1，MS DynamicsLeadId2 |
    |---|
@@ -219,18 +219,18 @@ ht-degree: 0%
      </tr> 
      <tr> 
       <td>msiLastInterestedMomentType</td> 
-      <td>标签：上一个有趣时刻类型<br>名称：Last_Interested_Moment_Type__c</td> 
-      <td>潜在客户上一个有趣时刻的类型</td> 
+      <td>标签：上一个有趣的时刻类型<br>名称：Last_Interested_Moment_Type__c</td> 
+      <td>潜在客户最后一个有趣时刻的类型</td> 
      </tr> 
      <tr> 
       <td>msiLastInterestedMomentDate</td> 
-      <td><p>标签：上一个有趣时刻日期</p><p>名称：Last_Interested_Moment_Date__c</p></td> 
+      <td><p>标签：上一个有趣的时刻日期</p><p>名称：Last_Interested_Moment_Date__c</p></td> 
       <td>潜在客户最后一个有趣时刻的日期</td> 
      </tr> 
      <tr> 
       <td>msiLastInterestedMomentDesc</td> 
       <td><p>标签：上一个有趣时刻描述</p><p>名称：Last_Interested_Moment_Desc__c</p></td> 
-      <td>潜在客户最后一个有趣时刻的描述</td> 
+      <td>商机最后有趣时刻的描述</td> 
      </tr> 
      <tr> 
       <td>msiLastInterestedMomentSource</td> 
@@ -239,7 +239,7 @@ ht-degree: 0%
      </tr> 
      <tr> 
       <td>优先级</td> 
-      <td><p>标签：参与度</p><p>名称：优先级__c</p></td> 
+      <td><p>标签：参与度</p><p>名称： Priority__c</p></td> 
       <td>商机的优先级</td> 
      </tr> 
      <tr> 
@@ -257,4 +257,4 @@ ht-degree: 0%
 
    * 潜在客户REST API的文档： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#！/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
 
-   正确使用外部字段是成功进行非本机同步的关键。 如果未能在某些视图中查看数据，则可能是某个字段未正确同步。 例如，如果在查看“帐户”下的MSI构件时，没有显示商机的活动和有趣的时刻，则可能是商机的公司或帐户未正确同步。 在指定外部字段时对此潜在客户执行GET请求将帮助您验证该潜在客户是否正确同步。 此外，Marketo中外部销售人员的电子邮件必须与MS Dynamics中该用户的电子邮件匹配。 如果电子邮件不匹配，数据可能不会显示在MS Dynamics的Marketo选项卡中。
+   正确使用外部字段是成功进行非本机同步的关键。 如果您未能在某些视图中查看数据，则可能是因为某个字段未正确同步。 例如，如果在查看“帐户”下的MSI构件时，没有显示商机的活动和有趣的时刻，则可能是商机的公司或帐户未正确同步。 在指定外部字段时对此潜在客户执行GET请求将帮助您验证该潜在客户是否正确同步。 此外，Marketo中外部销售人员的电子邮件必须与MS Dynamics中该用户的电子邮件匹配。 如果电子邮件不匹配，数据可能不会显示在MS Dynamics的Marketo选项卡中。

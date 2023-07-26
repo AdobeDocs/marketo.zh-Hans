@@ -24,7 +24,7 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. 在集成下，单击 **Salesforce**，则 **同步错误** 选项卡。
+1. 在集成下，单击 **Salesforce**，然后 **同步错误** 选项卡。
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -40,15 +40,15 @@ ht-degree: 1%
 
 >[!TIP]
 >
->单击记录级别记录会显示相关对象的Marketo和Salesforce ID。 在某些情况下，记录中的消息和工作级别错误是直接从Salesforce中获取的。 联机搜索可提供更多详细信息。
+>单击记录级别记录会显示相关对象的Marketo和Salesforce ID。 在某些情况下，记录中的消息和职务级别错误直接来自Salesforce。 联机搜索可提供更多详细信息。
 
 ## 筛选器同步错误 {#filter-sync-errors}
 
-1. 要筛选数据，请单击页面最右侧的筛选图标。
+1. 要过滤数据，请单击页面最右侧的过滤器图标。
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 选择您的日期和时间范围，然后按错误类型筛选（作业级别或记录级别）。 单击 **应用** 完成时。
+1. 选择日期和时间范围，然后按错误类型（作业层或记录层）筛选。 单击 **应用** 完成时。
 
    ![](assets/salesforce-sync-errors-4.png)
 

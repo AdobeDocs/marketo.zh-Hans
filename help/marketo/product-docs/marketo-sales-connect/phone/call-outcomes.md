@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/call-outcomes-3.png)
 
-1. 选择所需的通话结果要求。
+1. 选择所需的呼叫结果要求。
 
    ![](assets/call-outcomes-4.png)
 
@@ -58,11 +58,11 @@ ht-degree: 0%
 
    ![](assets/call-outcomes-8.png)
 
-1. 单击“已应答”下拉列表，然后选择结果类型（在本例中，我们选择“已应答”）。 然后单击 **添加**.
+1. 单击“已应答”下拉列表，然后选择结果类型（在本例中，我们将选择“已应答”）。 然后单击 **添加**.
 
    ![](assets/call-outcomes-9.png)
 
-## 选择通话结果 {#choose-a-call-outcome}
+## 选择呼叫结果 {#choose-a-call-outcome}
 
 启用调用结果后。 用户可以在进行调用时选择一个。
 
@@ -88,5 +88,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [将致电原因和致电结果记录到Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [将呼叫原因和呼叫结果记录到Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [致电原因](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)

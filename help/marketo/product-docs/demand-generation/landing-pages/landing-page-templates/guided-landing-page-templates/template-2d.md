@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
-此模板包含以下内容：
+此模板包括以下内容：
 
 * 带有徽标和按钮的页眉（可选）
 * 主分区
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 一个包含文本和轮询的正文节（可选）
 * 页脚（可选）
 
-**右键单击以下内容可下载此模板：**
+**右键单击以下内容以下载此模板：**
 
 [模板2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

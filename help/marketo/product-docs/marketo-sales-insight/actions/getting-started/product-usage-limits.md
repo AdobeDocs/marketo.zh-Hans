@@ -12,11 +12,11 @@ ht-degree: 12%
 
 # 产品使用限制 {#product-usage-limits}
 
-在下面，您会发现使用Sales Insight Actions中提供的扩展的销售参与功能存在限制。
+在下面，您会发现Sales Insight Actions中提供的扩展销售参与功能在使用方面存在限制。
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是一个基于Web的应用程序，它通过 [Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 它有时称为“Marketo Sales”，或简称为“Actions”。
+>Marketo Sales Insight Actions是一个基于Web的应用程序，它通过 [Marketo销售分析包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 它有时称为“Marketo Sales”，或简称为“Actions”。
 
 <table>
   <th>功能</th>
@@ -78,12 +78,12 @@ ht-degree: 12%
   <td>500</td>
  </tr>
   <td>调用</td>
-  <td>每个用户/每月（跨实例共享）</td>
+  <td>每用户/每月（跨实例共享）</td>
   <td>50分钟</td>
  </tr>
  <tr>
   <td>通话录制</td>
-  <td>每个用户/每月（跨实例共享）</td>
+  <td>每用户/每月（跨实例共享）</td>
   <td>50</td>
  </tr>
  <tr>

@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[创建日历事件(.ics)文件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. 编辑程序的电子邮件时，单击您希望令牌放置的位置，然后单击插入令牌按钮。
+1. 编辑程序的电子邮件时，单击希望令牌放置的位置，然后单击插入令牌按钮。
 
 ![](assets/one-6.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-16-3a53-3a48.png)
 
-任务完成！
+任务完成了！

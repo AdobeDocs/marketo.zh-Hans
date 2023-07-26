@@ -12,13 +12,13 @@ ht-degree: 2%
 
 # 销售活动术语表 {#sales-activity-glossary}
 
-在Sales Connect中，当销售商：将商机添加到销售节奏、向他们发送电子邮件或使呼叫成为活动时，它将被记录在Marketo活动历史记录下。 此外，当潜在客户与电子邮件交互、打开、点击和回复时，也会被记录。
+在Sales Connect中，当销售商：将销售线索添加到销售节奏、向他们发送电子邮件或使呼叫成为活动时，它将被记录在Marketo活动历史记录下。 此外，当潜在客户收到电子邮件、打开、点击和回复时，也会被记录。
 
 以下活动将从Sales Connect记录到Marketo。
 
 >[!NOTE]
 >
->这些活动和属性可从我们的REST和批量API中使用。
+>可以从我们的REST和批量API使用这些活动和属性。
 
 ## 活动 {#activities}
 
@@ -84,7 +84,7 @@ ht-degree: 2%
   <td>Marketo销售人员ID</td>
  </tr>
  <tr>
-  <th rowspan="10">已点击的销售电子邮件</th>
+  <th rowspan="10">点击的销售电子邮件</th>
   <td>链接</td>
  </tr>
  <tr>
@@ -125,7 +125,7 @@ ht-degree: 2%
   <td>Marketo销售人员ID</td>
  </tr>
  <tr>
-  <th rowspan="11">已接的销售电话</th>
+  <th rowspan="11">已收到的销售电话</th>
   <td>销售呼叫发起人</td>
  </tr>
  <tr>
@@ -159,7 +159,7 @@ ht-degree: 2%
   <td>Marketo销售人员ID</td>
  </tr>
  <tr>
-  <th rowspan="6">添加到促销活动</th>
+  <th rowspan="6">添加到销售活动</th>
   <td>促销活动名称</td>
  </tr>
  <tr>
@@ -178,7 +178,7 @@ ht-degree: 2%
   <td>促销活动ID</td>
  </tr>
  <tr>
-  <th rowspan="6">从促销活动中移除</th>
+  <th rowspan="6">从促销活动中删除</th>
   <td>促销活动名称</td>
  </tr>
  <tr>
@@ -248,7 +248,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td><strong>销售呼叫持续时间</strong></td> 
-   <td>呼叫时长（以秒为单位）。</td> 
+   <td>呼叫的长度（以秒为单位）。</td> 
   </tr>
   <tr> 
    <td><strong>销售呼叫发起人</strong></td> 
@@ -280,7 +280,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td><strong>销售电子邮件主题</strong></td> 
-   <td>电子邮件主题行后跟一个唯一ID(例如：我的主题行(MSC-12345678))</td> 
+   <td>电子邮件的主题行后跟一个唯一ID(例如：我的主题行(MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>已呼叫的销售电话号码</strong></td> 
@@ -300,7 +300,7 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td><strong>源</strong></td> 
-   <td>活动的来源。 对于2021年10月版之前的Sales Connect活动，将被设置为“Tout”。 在2021年10月版发布后，将成为Sales Connect活动的“销售应用程序”。</td>
+   <td>活动的源。 对于2021年10月版发行之前的Sales Connect活动，将被设置为“Tout”。 在2021年10月发布之后，将成为Sales Connect活动的“Sales App”。</td>
   </tr> 
   <tr> 
    <td><strong>模板Id</strong></td> 

@@ -16,7 +16,7 @@ ht-degree: 0%
 工作区可用于细分您的公司。 设置工作区的原因包括：
 
 * 地理位置：欧洲营销运营与北美营销运营
-* 业务单位A与业务单位B
+* 业务单元A与业务单元B
 
 以下是如何创建新工作区。
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要了解有关Workspace最佳实践的更多信息，请联系 [Marketo专业服务](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>要了解有关工作区最佳实践的更多信息，请联系 [Marketo专业服务](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. 输入 **[!UICONTROL 名称]**，并选择 **[!UICONTROL 人员分区]** 您想要使用。 选择 **[!UICONTROL 主要人员分区]**. 确保 [创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} 如果你还没有的话。
+1. 输入 **[!UICONTROL 名称]**，然后选择 **[!UICONTROL 人员分区]** 您想要使用。 选择 **[!UICONTROL 主要人员分区]**. 确保 [创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} 如果你还没有的话。
 
    ![](assets/create-a-new-workspace-4.png)
 
@@ -52,11 +52,11 @@ ht-degree: 0%
    >
    >* 此 **[!UICONTROL 所有人员分区]** 复选框表示此工作区可以使用系统中的所有人员分区。
    >
-   >* 此 **[!UICONTROL 主要人员分区]** 充当默认设置，并且是分配所有人员的位置。
+   >* 此 **[!UICONTROL 主要人员分区]** 充当默认值，并为所有人员分配位置。
 
    >[!IMPORTANT]
    >
-   >如果启用了多个品牌域，则必须选择一个主品牌域。
+   >如果启用了多个标记域，则必须选择一个主标记域。
 
 1. 选择工作区语言。
 
@@ -70,8 +70,8 @@ ht-degree: 0%
 
    ![](assets/create-a-new-workspace-6.png)
 
-根据需要创建任意数量的工作区，并为其分配适当的人员分区。
+根据需要创建任意数量的工作区，并为这些工作区分配适当的人员分区。
 
-创建工作区后，您应会看到更新。
+创建工作区后，您应该会看到更新。
 
 ![](assets/create-a-new-workspace-7.png)

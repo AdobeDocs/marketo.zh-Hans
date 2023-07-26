@@ -1,6 +1,6 @@
 ---
 unique-page-id: 27656223
-description: 为Professional Edition客户安装Salesforce Customization - Marketo文档 — 产品文档
+description: 安装面向Professional Edition客户的Salesforce Customization - Marketo文档 — 产品文档
 title: 为Professional Edition客户安装Salesforce Customization
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Sales Connect管理员需要连接其Salesforce和Sales Connect帐户。
->* 使用的Salesforce实例需要具有空间来安装13个自定义活动字段。
+>* Sales Connect管理员需要连接他们的Salesforce和Sales Connect帐户。
+>* 使用的Salesforce实例需要具有空间来安装十三个自定义活动字段。
 
 ## 安装 {#installation}
 
@@ -58,4 +58,4 @@ ht-degree: 0%
 
 [Salesforce Classic安装指南](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Salesforce闪电安装指南](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Salesforce Lightning安装指南](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

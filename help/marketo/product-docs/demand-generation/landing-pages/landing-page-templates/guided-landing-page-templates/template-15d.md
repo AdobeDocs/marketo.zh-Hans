@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ![](assets/image2015-8-13-13-3a56-3a26.png)
 
-此模板包含以下内容：
+此模板包括以下内容：
 
 * 主分区
 
-   * 包括英雄头衔、英雄抽奖和注册按钮
+   * 包括主页标题、主页抽奖和注册按钮
 
 * 五个正文部分（可选）
 * 页脚（可选）
 
-**右键单击以下内容可下载此模板：**
+**右键单击以下内容以下载此模板：**
 
 [模板15D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)

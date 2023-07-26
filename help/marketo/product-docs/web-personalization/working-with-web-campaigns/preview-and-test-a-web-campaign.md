@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10092925
 description: 预览和测试Web营销活动 — Marketo文档 — 产品文档
-title: 预览和测试Web营销活动
+title: 预览和测试Web活动
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 预览和测试Web营销活动 {#preview-and-test-a-web-campaign}
+# 预览和测试Web活动 {#preview-and-test-a-web-campaign}
 
-本文向您展示了预览Web营销活动的不同方式，以及如何使用网站上实时的沙盒区段测试营销活动。
+本文向您说明预览Web营销活动的不同方式，以及如何使用网站上实时显示的沙盒区段测试营销活动。
 
 >[!NOTE]
 >
->预览仅显示促销活动在选定网站上的外观。 链接和小组件将无法使用，因为这样可避免Analytics中的错误点击/查看。
+>预览仅会显示促销活动在选定网站上的外观。 链接和小组件将无法使用，因为会避免Analytics中的错误点击/查看。
 
 ## 在创建页面上预览Web营销活动 {#preview-a-web-campaign-on-the-creation-page}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. 单击 **创建新的Web营销活动** 或图标以编辑现有营销策划。
+1. 单击 **新建Web营销活动** 或图标以编辑现有营销策划。
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您还可以选择安装浏览器插件(可以 [铬黄](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) 或 [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi))，以获得预览营销活动的最佳体验。 请参阅以下部分。
+   >您还可以选择安装浏览器插件(无论是 [铬黄](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) 或 [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi))，以获得预览营销活动的最佳体验。 请参阅以下部分。
 
 ## 使用浏览器插件在“创建”页面上预览Web营销活动 {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## 在Web营销活动页面上预览Web营销活动 {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. 在查看Web营销活动列表时，只需选择一个营销活动，然后单击 **预览** 图标。
+1. 在查看Web营销策划的列表时，只需选择一个营销策划，然后单击 **预览** 图标。
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
 1. 命名区段。
 
-1. 在行为下，将包含页面拖动到画布上。 添加值 &#42;sandbox=1&#42;. 单击 **保存并定义营销活动**.
+1. 在“行为”下，将“包括页面”拖动到画布上。 添加值 &#42;sandbox=1&#42;. 单击 **保存并定义营销活动**.
 
    ![](assets/segment.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->营销活动在访客会话期间仅反应一次。 要再次查看营销活动，请清除您的浏览器Cookie。
+>营销活动在访客会话期间只反应一次。 要再次查看营销活动，请清除您的浏览器Cookie。
 
 >[!NOTE]
 >

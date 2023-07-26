@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # 销售活动触发器和过滤器 {#sales-activity-triggers-and-filters}
 
-如果您希望更好地协调与销售团队的互动，或试图更好地了解他们如何在买方历程中与客户互动，Marketo中的销售活动分析将会对您有所帮助。
+如果您希望更好地协调与销售团队的互动，或试图更好地了解他们在购买者历程中与客户的互动情况，Marketo中的销售活动分析将会对您有所帮助。
 
-请按照以下步骤操作，了解如何在智能营销活动中利用销售活动过滤器和触发器。
+请按照以下步骤了解如何在智能营销活动中利用销售活动过滤器和触发器。
 
 1. 找到并选择所需的Smart Campaign。
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 在 **智能列表** 选项卡，搜索“销售应用程序”。
+1. 在 **智能列表** 选项卡，搜索“Sales Apps”
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 

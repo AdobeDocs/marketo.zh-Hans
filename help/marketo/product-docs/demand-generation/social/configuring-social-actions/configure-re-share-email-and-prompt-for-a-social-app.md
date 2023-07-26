@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2950559
-description: 配置重新共享社交应用程序的电子邮件和提示 — Marketo文档 — 产品文档
+description: 配置重新共享电子邮件并提示社交应用程序 — Marketo文档 — 产品文档
 title: 配置重新共享电子邮件并提示使用社交应用程序
 exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
 feature: Social
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 配置重新共享电子邮件并提示使用社交应用程序 {#configure-re-share-email-and-prompt-for-a-social-app}
 
-当您创建 [反向链接优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以邀请参与者在注册过程中与更多朋友共享您的选件，并提供共享电子邮件的默认文本。
+当您创建 [推荐优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以邀请参与者在注册过程中与更多朋友共享您的选件，也可以为共享电子邮件提供默认文本。
 
 >[!NOTE]
 >
->在推荐选件中，您还可以 [将共享优惠作为要求](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) 以注册。
+>在推荐选件中，您还可以 [将共享优惠作为要求](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) 来注册。
 
 1. 转到 **营销活动**.
 

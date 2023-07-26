@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360403
-description: 使用计划分析器比较计划效果 — Marketo文档 — 产品文档
-title: 使用Program Analyzer比较计划效果
+description: 使用程序分析器比较程序有效性 — Marketo文档 — 产品文档
+title: 使用程序分析器比较程序有效性
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 使用Program Analyzer比较计划效果 {#compare-program-effectiveness-with-the-program-analyzer}
+# 使用程序分析器比较程序有效性 {#compare-program-effectiveness-with-the-program-analyzer}
 
-使用Program Analyzer通过比较计划成本、成员获取、渠道和收入，确定最有效和最无效的计划。
+使用Program Analyzer通过比较项目成本、成员获取、渠道和收入，确定最有效和最不有效的项目。
 
 >[!PREREQUISITES]
 >
@@ -27,23 +27,23 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-18-3a50-3a37.png)
 
-1. 按项目群将视图更改为。
+1. 将“View to By Program（按程序查看）”更改为。
 
    ![](assets/image2014-9-17-18-3a50-3a44.png)
 
-1. 使用渠道筛选器将视图缩小到仅一个或两个渠道。 现在，我们将查看贸易展览渠道中的节目。
+1. 使用渠道筛选器将视图缩小到仅一个或两个渠道。 现在，我们来看一下贸易展览频道中的节目。
 
    ![](assets/image2014-9-17-18-3a51-3a2.png)
 
    >[!TIP]
    >
-   >将程序筛选为仅一个渠道的快速方法是选择 **视图** > **按渠道**，单击该渠道的泡泡，然后在弹出对话框中单击渠道名称。
+   >将程序过滤到某个渠道的快速方法是选择 **视图** > **按渠道**，单击该渠道的泡泡，然后在弹出对话框中单击渠道名称。
 
 1. 使用X轴下拉菜单选择水平轴的量度。 我们将从计划成本开始。
 
    ![](assets/image2014-9-17-18-3a52-3a16.png)
 
-1. 使用Y轴下拉菜单选择垂直轴的量度。 让我们选择“新名称”来查找擅长捕捉新商机的程序。
+1. 使用Y轴下拉菜单选择垂直轴的量度。 让我们选择“新名称”来查找能够捕捉新商机的程序。
 
    ![](assets/image2014-9-17-18-3a52-3a26.png)
 
@@ -53,15 +53,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以尝试通过从线性缩放改为对数缩放来改善视图，反之亦然。 使用 **缩放** 菜单。
+   >您也可以尝试通过从线性缩放更改为对数缩放来改善视图，反之亦然。 使用 **缩放** 菜单。
 
-1. 浏览生成的图形。
+1. 浏览生成的图表。
 
    ![](assets/image2014-9-17-18-3a53-3a49.png)
 
-   在我们的示例中，我们了解到折纸世博会在获取新名称方面远远优于该渠道中的所有其他计划，并且成本适中。 但这还不是故事的全部。 我们将再添加两个量度以加深了解。
+   在我们的例子中，我们了解到折纸世博会在获取新名称方面远远优于该渠道中的所有其他项目，而且成本适中。 但这不是故事的全部。 我们将再添加两个量度以加深了解。
 
-1. 使用“气泡大小”下拉菜单选择要按气泡大小进行比较的量度。 我们将选择(FT) Revenue Won作为示例。
+1. 使用气泡大小下拉列表选择要按气泡大小进行比较的量度。 我们将选择(FT) Revenue Won作为示例。
 
    ![](assets/image2014-9-17-18-3a54-3a25.png)
 
@@ -69,21 +69,21 @@ ht-degree: 0%
    >
    >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解 [ft和MT归因之间的差异](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. 观察图表中的气泡变化大小。
+1. 观看图表中的气泡变化大小。
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   通过添加 **(FT)赢得的收入**，我们很快看到，虽然折纸世博会获得了许多新名字，但带来的收入却相对较少。 此外，我们看到Paper Fest 12节目名次越来越少，但名次却越来越好，因为它会影响更多的收入（更大的泡沫）。
+   通过添加 **(FT)已获得的收入**，我们很快看到，虽然折纸世博会获得了许多新名字，但收入却相对较少。 此外，我们看到Paper Fest 12计划越来越少，但名字越来越好，因为它会影响赢得的更多收入（更大的泡沫）。
 
-1. 使用颜色下拉菜单添加第四个量度。 我们将审视(FT)收入与投资。
+1. 使用颜色下拉菜单添加第四个量度。 我们将了解(FT)收入与投资。
 
    ![](assets/image2014-9-17-18-3a55-3a33.png)
 
-1. 观察图表中的颜色变化。
+1. 观察图形中的颜色变化。
 
    ![](assets/image2014-9-17-18-3a55-3a47.png)
 
-我们看到，“纸化盛宴12期”节目不仅影响更多的收入（更大的泡沫），而且尽管它的节目成本相对较高（位于最右边），但在贸易展览频道的所有节目中，它的投资回报率（最环保的泡沫）是最好的。
+我们看到，纸汇十二节目不仅影响更多的收入（更大的泡沫），而且尽管它的节目成本相对较高（位于最右边），但在贸易展览频道的所有节目中，它的投资回报率（最环保的泡沫）是最好的。
 
 >[!TIP]
 >
@@ -91,5 +91,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用计划分析器探索计划和渠道详细信息](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [使用Program Analyzer比较渠道效率](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [使用计划分析器浏览计划和渠道详细信息](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [使用项目分析器比较渠道有效性](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

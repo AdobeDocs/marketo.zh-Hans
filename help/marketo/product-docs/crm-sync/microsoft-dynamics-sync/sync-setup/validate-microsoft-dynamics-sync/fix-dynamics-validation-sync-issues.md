@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095429
-description: 修复了Dynamics验证同步问题 — Marketo文档 — 产品文档
+description: 修复Dynamics验证同步问题 — Marketo文档 — 产品文档
 title: 修复Dynamics验证同步问题
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ## URL有效 {#url-is-valid}
 
-如果您拥有 ![x](assets/delete.png) 在此处，验证URL是否有效。 请在此处开发人员资源中找到它，并查看组织服务。 URL可能由于多种原因而无效。
+如果您拥有 ![x](assets/delete.png) 在此处，验证URL是否有效。 请在此处开发人员资源中找到该内容，然后查看组织服务。 URL可能由于多种原因而无效。
 
 1. 登录到Dynamics。 单击设置图标并选择 **高级设置**.
 
    ![](assets/one.png)
 
-1. 单击设置并选择 **自定义**.
+1. 单击设置，然后选择 **自定义**.
 
    ![](assets/two.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 用户名和密码有效 {#username-and-password-are-valid}
 
-如果您拥有 ![x](assets/delete.png) 在此，验证您的Microsoft Dynamics凭据是否有效。 对于Web API S2S身份验证，Marketo中的用户名必须匹配 [电子邮件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM中应用程序用户的名称。 对于其他类型，它应该与同步用户的用户名匹配。
+如果您拥有 ![x](assets/delete.png) 在此处，验证您的Microsoft Dynamics凭据是否有效。 对于Web API S2S身份验证，Marketo中的用户名必须匹配 [电子邮件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM中应用程序用户的个人资料。 对于其他类型，它应该与同步用户的用户名匹配。
 
 ## 已将同步用户分配给Marketo同步用户角色 {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
@@ -97,13 +97,13 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-## 解决方案中的所有步骤都已启用 {#all-steps-in-the-solution-are-enabled}
+## 解决方案中的所有步骤均已启用 {#all-steps-in-the-solution-are-enabled}
 
-如果您拥有 ![x](assets/delete.png) 在本例中，确认未停用任何默认步骤。 所有步骤均在安装时自动启用，但可在自定义过程中停用它们。
+如果您拥有 ![x](assets/delete.png) 在此处，验证是否未停用任何默认步骤。 所有步骤在安装时自动启用，但在自定义过程中可以停用它们。
 
 ## 同步用户已分配给Marketo解决方案 {#sync-user-is-assigned-to-the-marketo-solution}
 
-如果您拥有 ![x](assets/delete.png) 在此，确保在Microsoft Dynamics的Marketo默认页面上分配了同步用户。
+如果您拥有 ![x](assets/delete.png) 在此，确保已在Microsoft Dynamics的Marketo默认页面上分配了同步用户。
 
 1. 在Dynamics中，单击“设置”图标并选择 **高级设置**.
 

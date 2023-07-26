@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 通过API将电子邮件活动记录到Salesforce {#logging-email-activity-to-salesforce-via-api}
 
-此功能要求您使用Enterprise/Unlimited版的Salesforce，或者使用Professional版（如果您通过Web服务API购买了集成）。
+此功能要求您使用Enterprise/Unlimited版的Salesforce，或者是Professional版（如果您通过Web Services API购买了集成）。
 
 >[!PREREQUISITES]
 >
@@ -43,13 +43,13 @@ ht-degree: 0%
 
 ## 通过电子邮件将Email Activity记录到Salesforce (BCC) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
-激活“Email to Salesforce (BCC)”后，您将收到销售电子邮件的密件抄送，并且您的电子邮件将记录为有关机会、潜在客户和联系人的活动。
+激活“发送电子邮件至Salesforce （密件抄送）”后，您将收到销售电子邮件的密件抄送，并且您的电子邮件将记录为有关机会、潜在客户和联系人的活动。
 
 >[!PREREQUISITES]
 >
 >Salesforce和Sales Connect必须连接。
 
-**通过电子邮件（密件抄送）在Salesforce中记录电子邮件**
+**通过电子邮件在Salesforce中记录电子邮件（密送）**
 
 1. 在Sales Connect中，单击右上角的齿轮图标，然后选择 **设置**.
 
@@ -63,28 +63,28 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 单击 **发送电子邮件至Salesforce （密件抄送）** 选项卡，然后单击 **激活**.
+1. 单击 **发送到Salesforce的电子邮件（密件抄送）** 选项卡，然后单击 **激活**.
 
    ![](assets/six-2.png)
 
-如果由于某种原因，您的Email to Salesforce地址未拉入，请按照以下步骤在Salesforce帐户中激活密件抄送功能：
+如果由于某种原因导致您发送到Salesforce的电子邮件地址无法提取，请按照以下步骤在Salesforce帐户中激活密件抄送功能：
 
 1. 登录到Salesforce实例。
 1. 在右上角找到您的用户名，然后选择下拉栏。
 1. 选择 **我的设置**.
 1. 选择 **电子邮件**.
-1. 选择 **我给Salesforce的电子邮件**.
+1. 选择 **发送给Salesforce的电子邮件**.
 1. 在此页面上，您将看到一个标记为“Email to Salesforce Address”的字段。 如果旁边未填充任何内容，请向下滚动到“我的可接受电子邮件地址”。
-1. 输入您希望进行密件抄送的电子邮件地址。
+1. 输入您希望密件抄送的电子邮件地址。
 1. 单击 **保存更改**.
 
 **在“我的设置”中找不到发送给Salesforce的电子邮件**
 
-如果您在“设置”下未看到“我发送到Salesforce的电子邮件”，则可能是您的管理员未启用它。 如果您的团队不熟悉Salesforce，或者您的团队从未使用Salesforce提供的密件抄送地址，则可能发生这种情况。
+如果在您的“设置”下未看到“我发送到Salesforce的电子邮件”，则可能是管理员未启用它。 如果您的团队不熟悉Salesforce，或者您的团队从未使用Salesforce提供的密件抄送地址，则可能会发生这种情况。
 
 >[!NOTE]
 >
->您需要具有管理员权限才能进行此设置。
+>您需要管理员权限才能设置此项。
 
 1. 单击 **设置**.
 1. 单击 **电子邮件管理**.

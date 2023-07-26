@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2950530
-description: 配置社交注册/共享流 — Marketo文档 — 产品文档
+description: 配置社交注册/共享流程 — Marketo文档 — 产品文档
 title: 配置社交注册/共享流
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
 feature: Social
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >在视频共享中，将自动生成缩略图。
 
-   如果您选择 **添加动态内容**，页面的 **OpenGraph** 标签（og：title、og：caption和og：description）和缩略图会自动添加到Facebook帖子中。 请参阅下一步。
+   如果您选择 **添加动态内容**，页面的值 **OpenGraph** 标记（og：title、og：caption和og：description）和缩略图会自动添加到Facebook帖子中。 请参阅下一步。
 
-   如果您选择 **添加静态内容**，输入标题、字幕、描述并上传图像。 请参阅接下来的两个步骤。
+   如果您选择 **添加静态内容**，输入标题、标题、描述并上传图像。 请参阅下面的两个步骤。
 
-1. 在“查看和编辑”窗口中，单击 **显示编辑** 和编辑将显示在Facebook帖子中的共享提示和消息。
+1. 在“查看和编辑”窗口中，单击 **显示编辑** 并编辑将显示在Facebook帖子中的共享提示和消息。
 
    >[!TIP]
    >
@@ -63,19 +63,19 @@ ht-degree: 0%
    >
    >此 [共享URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) 自动添加到所有共享消息。
 
-1. 如果您选择 **添加静态内容** 在上面，编辑标题、字幕和描述，并上传自定义图像(从您的 [**Marketo图像和文件**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md))。
+1. 如果您选择 **添加静态内容** 在上面，编辑标题、标题和描述，并上传自定义图像(从您的 [**Marketo图像和文件**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md))。
 
    ![](assets/image2014-9-22-14-3a1-3a11.png)
 
-   参见 [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   请参阅 [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
-   >如果上传图像，则在关闭并重新打开社交应用程序编辑器之前，您将不会在此处看到该图像。
+   >如果上传图像，则直到关闭并重新打开社交应用程序编辑器后，您才会在此处看到该图像。
 
 1. 单击 **下一个**.
 
-如果您选择页面标记的值（og：title、og：caption和og：description），则缩略图会自动添加到Facebook帖子中。 请参阅下一步。
+如果您选择页面标签的值（og：title、og：caption和og：description），则缩略图会自动添加到Facebook帖子中。 请参阅下一步。
 
 ## 配置Twitter消息 {#configure-the-twitter-message}
 
@@ -95,11 +95,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a3-3a8.png)
 
-   如果您选择 **添加动态内容**、页面标记的值（标题和描述）和缩略图会自动添加到LinkedIn帖子中。 请参阅下一步。
+   如果您选择 **添加动态内容**、页面标记的值（标题和描述）以及缩略图会自动添加到LinkedIn帖子中。 请参阅下一步。
 
-   如果您选择 **添加静态内容**，输入标题、字幕和描述，然后上传图像。 请参阅接下来的两个步骤。
+   如果您选择 **添加静态内容**，输入标题、标题和描述，然后上传图像。 请参阅下面的两个步骤。
 
-1. 在 **查看和编辑** 窗口，单击 **显示编辑** 和编辑将显示在LinkedIn帖子中的共享提示和消息。
+1. 在 **查看和编辑** 窗口，单击 **显示编辑** 并编辑将显示在LinkedIn帖子中的共享提示和消息。
 
    ![](assets/image2014-9-22-14-3a4-3a6.png)
 
@@ -107,13 +107,13 @@ ht-degree: 0%
    >
    >使用 {html_title} 在帖子文本中自动显示页面标题。
 
-1. 如果您选择 **添加静态内容** 在上面，编辑标题和描述，并上传自定义图像(从 [**Marketo图像和文件**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md))。
+1. 如果您选择 **添加静态内容** 在上面，编辑标题和描述，并上传自定义图像(从您的 [**Marketo图像和文件**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md))。
 
    ![](assets/image2014-9-22-13-3a55-3a17.png)
 
 >[!NOTE]
 >
->如果上传图像，则在关闭并重新打开社交应用程序编辑器之前，您将不会在此处看到该图像。
+>如果上传图像，则直到关闭并重新打开社交应用程序编辑器后，您才会在此处看到该图像。
 
 >[!MORELIKETHIS]
 >

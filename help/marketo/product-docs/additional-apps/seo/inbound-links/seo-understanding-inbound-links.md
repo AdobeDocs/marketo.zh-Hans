@@ -6,8 +6,8 @@ exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '120'
+ht-degree: 1%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 0%
 |---|---|
 | [!UICONTROL 入站链接的URL] | 有问题的网页。 |
 | [!UICONTROL 优先级] | 此机会对您的页面排名有多大价值。 |
-| [!UICONTROL 到竞争对手的链接] | 竞争对手是否已在该URL中链接到。 |
-| [!UICONTROL 指向我的网站的链接] | 您的网站是否在该URL中链接到。 |
-| [!UICONTROL 来自我的网站的链接] | 指示您的网站是否链接到该URL。 |
-| [!UICONTROL PageRank] | 标识搜索中URL页面排名(1 - 10) |
+| [!UICONTROL 竞争对手的链接] | 竞争对手是否在该URL中链接到。 |
+| [!UICONTROL 指向我的网站的链接] | 您的网站是否已在该URL中链接到。 |
+| [!UICONTROL 我的网站中的链接] | 指示您的网站是否链接到该URL。 |
+| [!UICONTROL PageRank] | 标识URL在搜索中的页面排名(1 - 10) |
 
 真贴心！ 现在，您已了解入站链接，我们可以为您的网站建议更多入站链接机会。
 

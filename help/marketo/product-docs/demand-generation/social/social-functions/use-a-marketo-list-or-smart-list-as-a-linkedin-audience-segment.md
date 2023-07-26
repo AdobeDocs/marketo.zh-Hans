@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 单击 **通过Ad Bridge发送** 图标 ![—](assets/image2015-4-20-18-3a18-3a41.png) ，位于列表底部。
+1. 单击 **通过Ad Bridge发送** 图标 ![—](assets/image2015-4-20-18-3a18-3a41.png) 位于列表底部。
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >使用广告网络集成将受众发送到LinkedIn时，Marketo只发送电子邮件地址。
+   >使用广告网络集成将受众发送到LinkedIn时，Marketo仅发送电子邮件地址通过。
 
 1. 选择 **linkedIn** 并单击 **下一个**.
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >点击 **+新建受众** 将在LinkedIn Campaign Manager中创建受众。
+   >点击 **+新受众** 将在LinkedIn Campaign Manager中创建受众。
 
    ![](assets/6.png)
 
    >[!NOTE]
    >
-   >linkedIn已于2018年3月弃用用于“清除受众并添加潜在客户”推送类型的API。 自Marketo 2018年第1季度发布起，此选项不再可用。
+   >linkedIn已于2018年3月弃用用于“清除受众并添加潜在客户”推送类型的API。 自Marketo 2018年第1季度版本发布起，此选项不再可用。
 
 1. 选择 **推送类型**. 单击 **更新**.
 
@@ -61,6 +61,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >请等待15分钟进行同步。
+   >请留出15分钟时间，以便进行同步。
 
 击掌！ 您的数据现在将与LinkedIn的受众共享。 有关将列表上传到LinkedIn以进行客户和联系人定位的信息，请访问 [linkedIn的营销解决方案帮助中心](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).

@@ -6,7 +6,7 @@ exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 输入团队名称（和可选描述），然后单击 **创建**.
+1. 输入团队名称（和可选说明），然后单击 **创建**.
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 将人员添加到您的子团队 {#add-people-to-your-sub-team}
 
-1. 仍然在“团队管理”中，选择 **每个人** 组。
+1. 仍然在团队管理中，选择 **每个人** 组。
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 单击 **将选定内容添加到团队**.
+1. 单击 **将选定项添加到团队**.
 
    ![](assets/seven.png)
 

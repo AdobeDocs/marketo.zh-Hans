@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # 未显示跟踪活动 {#tracking-activity-not-showing}
 
-如果未显示您的跟踪活动，请确保Sales Connect提供的自定义活动字段在Salesforce中可见/可编辑。 如果您已安装字段但未填充它们，则可能会有字段级安全阻止信息填充。 请联系您的Salesforce管理员。
+如果未显示您的跟踪活动，请确保Sales Connect提供的自定义活动字段在Salesforce中可见/可编辑。 如果您已安装字段但未填充它们，则可能会存在字段级安全功能阻止信息填充。 请与您的Salesforce管理员联系。
 
-详细了解 [字段级安全性](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) 在Salesforce中。
+了解有关 [字段级安全性](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) 在Salesforce中。

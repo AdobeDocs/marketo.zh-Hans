@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 添加 [!DNL GoToWebinar] as a [!DNL LaunchPoint] 服务 {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketo管理您的 [!DNL GoToWebinar] 注册及出席情况。
+Marketo管理您的 [!DNL GoToWebinar] 报名及出席。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Marketo管理您的 [!DNL GoToWebinar] 注册及出席情况。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
-1. 选择 **[!UICONTROL 新]** 和 **[!UICONTROL 新服务]**.
+1. 选择 **[!UICONTROL 新建]** 和 **[!UICONTROL 新建服务]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
@@ -49,13 +49,13 @@ Marketo管理您的 [!DNL GoToWebinar] 注册及出席情况。
 
    >[!NOTE]
    >
-   >如果要将Marketo表单中的公司名称和职称同步到 [!DNL GoToWebinar]，选择 **[!UICONTROL 启用其他字段]** 盒子。
+   >如果要将公司名称和职称从Marketo表单同步到 [!DNL GoToWebinar]，选择 **[!UICONTROL 启用其他字段]** 盒子。
 
 1. 在 [!DNL GoToWebinar] 登录弹出窗口，输入您的 **[!UICONTROL GoTo网络研讨会]** 电子邮件和密码，然后单击 **[!UICONTROL 登录]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
-1. 关闭窗口后，单击 **[!UICONTROL 创建]**.
+1. 窗口关闭后，单击 **[!UICONTROL 创建]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
@@ -65,8 +65,8 @@ Marketo管理您的 [!DNL GoToWebinar] 注册及出席情况。
 
 >[!CAUTION]
 >
->当您在中更新密码时 [!DNL GoToWebinar]，您还必须在Marketo中更新密码。
+>当您在中更新密码时 [!DNL GoToWebinar]，则还必须在Marketo中更新密码。
 
 >[!MORELIKETHIS]
 >
->了解如何 [创建事件，使用 [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"}.
+>了解如何 [创建事件 [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"}.

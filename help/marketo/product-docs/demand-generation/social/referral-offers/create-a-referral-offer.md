@@ -6,20 +6,20 @@ exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
 # 创建反向链接选件 {#create-a-referral-offer}
 
-转介活动鼓励人们转介自己的朋友。 为成功转接创建目标和奖励。 您可以将其拖放到登陆页面、您的网站甚至Facebook上。
+转介优惠会鼓励人们转介自己的朋友。 为成功的推荐创建目标和奖励。 您可以将其拖放到登陆页面、您的网站甚至Facebook上。
 
 >[!AVAILABILITY]
 >
 >并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
 
-1. 在程序内，选择 **新** > **新建本地资产**.
+1. 在程序内，选择 **新建** > **新建本地资产**.
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >为了节省时间，您可以使用 **克隆来源** 选项，用于从现有反向链接选件复制所有设置。
+   >为了节省时间，您可以使用 **克隆** 选项，用于从现有反向链接选件复制所有设置。
 
-   将在新窗口中打开反向链接选件编辑器。 默认设置全部正确，但您需要添加指向优惠规则（条款和条件）的链接。 该链接将显示在共享消息屏幕的底部。 我们将向您展示下一步的操作。
+   将在新窗口中打开引用选件编辑器。 默认设置一切正常，但您需要添加指向选件规则（条款和条件）的链接。 该链接将显示在共享消息屏幕的底部。 我们将向您说明下一步操作方式。
 
 1. 单击 **高级选项**.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在此屏幕上，您还可以添加隐私策略链接。 参见  [将您的隐私策略添加到社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >在此屏幕上，您还可以添加隐私策略链接。 请参阅  [将您的隐私策略添加到社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. 单击 **完成**.
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要更改反向链接选件中的任何默认值，请单击 **返回**. 要保存您的工作以供以后在不批准的情况下使用，请单击 **关闭**.
+   >要更改推荐选件中的任何默认值，请单击 **返回**. 要保存您的工作以供以后在不批准的情况下使用，请单击 **关闭**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->下一步是 [发布您的推荐选件](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 登陆页面、您的网站或Facebook上。
+>下一步是 [发布您的推荐选件](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 登陆页面、网站或Facebook上。

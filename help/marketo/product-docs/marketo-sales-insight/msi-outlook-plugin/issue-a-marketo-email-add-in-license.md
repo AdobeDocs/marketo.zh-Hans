@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # 颁发Marketo电子邮件加载项许可证 {#issue-a-marketo-email-add-in-license}
 
-任何要使用Marketo Email Outlook加载项的人都必须首先获得许可证。 提供许可证的方法有两种。
+任何想要使用Marketo Email Outlook加载项的人都必须首先获得许可证。 提供许可证的方法有两种。
 
-* **[企业密钥安装](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**：当销售代表对其公司笔记本电脑没有管理员权限，并且无法安装插件、软件等时，请使用此方法。 上面。 在这种情况下，Marketo管理员会向授权用户列表颁发许可证。 接下来，IT团队使用企业密钥将插件远程部署到所有授权用户的计算机。 然后，插件用户对其进行授权。
-* **[注册码安装](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**：当销售代表对其公司笔记本电脑拥有管理员权限，并且可以安装插件、软件等时，请使用此方法。 上面。 对于此流程，Marketo管理员会向授权用户列表颁发许可证，并直接向他们发送包含下载链接的注册电子邮件。 销售代表会收到一封电子邮件，其中包含插件下载链接和唯一的注册URL。
+* **[企业密钥安装](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**：当销售代表对其公司笔记本电脑没有管理员权限，并且无法安装插件、软件等时，请使用此方法。 上面。 在这种情况下，Marketo管理员会向授权用户列表颁发许可证。 接下来，IT团队使用企业密钥将插件远程部署到所有授权用户的计算机。 然后，插件用户会授权它。
+* **[注册码安装](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**：当销售代表对其公司笔记本电脑拥有管理员权限并且可以安装插件、软件等时，请使用此方法。 上面。 对于此流程，Marketo管理员会向授权用户列表颁发许可证，并直接向他们发送包含下载链接的注册电子邮件。 销售代表会收到一封电子邮件，其中包含插件下载链接和唯一的注册URL。
 
 >[!AVAILABILITY]
 >
@@ -40,13 +40,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以输入多个电子邮件地址，以逗号分隔。
+   >您可以输入多个电子邮件地址，用逗号分隔。
 
    >[!NOTE]
    >
    >要远程安装插件，请取消选中该复选框，然后将 [企业密钥](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >如果您的销售代表拥有其计算机的管理员访问权限，请选中方框，然后您就完成了！
+   >如果您的销售代表对其计算机具有管理员访问权限，请选中方框并且您已经完成！
 
 >[!MORELIKETHIS]
 >

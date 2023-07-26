@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359669
-description: 激活和取消激活流内容 — Marketo文档 — 产品文档
-title: 激活和取消激活流内容
+description: 激活和停用流内容 — Marketo文档 — 产品文档
+title: 激活和停用流内容
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 1%
 
 ---
 
-# 激活和取消激活流内容 {#activate-and-deactivate-stream-content}
+# 激活和停用流内容 {#activate-and-deactivate-stream-content}
 
-默认情况下，流内容为OFF。 激活内容以在参与投放期间将其发送。
+默认情况下，流内容为OFF。 激活内容以在参与度投放期间发送它们。
 
 ## 激活流内容 {#activate-stream-content}
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >您还可以通过单击顶层的齿轮图标，然后单击 **激活所有内容**.
+   >您还可以通过单击顶级的齿轮图标，然后单击 **激活所有内容**.
 
    做得不错！现在您知道如何激活流中的内容了。
 

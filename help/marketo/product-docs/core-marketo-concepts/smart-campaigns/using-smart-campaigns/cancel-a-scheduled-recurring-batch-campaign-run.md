@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147060
-description: 取消计划的定期批处理营销活动运行 — Marketo文档 — 产品文档
+description: 取消计划的定期批量营销活动运行 — Marketo文档 — 产品文档
 title: 取消计划的定期批处理营销活动运行
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 取消计划的定期批处理营销活动运行 {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-如果您有不希望再出现的重复批处理活动，则可以取消未来的运行。 下面是具体操作方法。
+如果您有不希望再出现的经常性批处理活动，则可以取消将来的运行。 具体方法如下。
 
 1. 选择智能营销活动，然后单击 **计划** 选项卡。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >这会取消未来的运行，但如果智能营销活动正在运行，则无法取消它。
+   >这将取消未来的运行情况，但如果智能营销活动正在运行中，则无法取消它。
 
    >[!MORELIKETHIS]
    >

@@ -24,14 +24,14 @@ Marketo允许您将人员添加到 [Salesforce潜在客户队列](https://help.s
 
 >[!NOTE]
 >
->无法在Marketo中创建或更改队列。
+>您不能在Marketo中创建或更改队列。
 
 ## 如果人员属于队列，则如何存储潜在客户所有者信息？ {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
 
-如果Lead由Salesforce中的队列拥有，则这些销售责任人字段将保留为空，直到将该lead分配给责任人。
+如果Salesforce中的某个队列拥有某个销售线索，则这些销售责任人字段将保留为空，直到将该销售线索分配给责任人。
 
-* 销售所有者名字
-* 销售所有者姓氏
+* 销售负责人名字
+* 销售负责人姓氏
 * 销售所有者职务
 * 销售负责人电话号码
 * 销售负责人电子邮件地址

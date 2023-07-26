@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # 管理人员数据 {#manage-person-data}
 
-通过选择要在分段中使用的人员字段，将人员数据用于Web个性化。
+通过选择要在分段中使用的人员字段，利用人员数据进行Web个性化。
 
 1. 转到 **帐户设置**.
 
@@ -25,7 +25,7 @@ ht-degree: 7%
 
 ## 添加新人员字段 {#adding-a-new-person-field}
 
-1. 选择 **要添加的字段** 从下拉列表中向列表添加人员数据字段。
+1. 选择 **要添加的字段** 从下拉列表中添加人员数据字段。
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 7%
 
 ## 删除人员字段 {#deleting-a-person-field}
 
-1. 单击删除图标( ![—](assets/image2015-3-24-13-3a45-3a56.png))，以从列表中删除字段。 单击 **是** 以确认是否要删除该字段。
+1. 单击删除图标( ![—](assets/image2015-3-24-13-3a45-3a56.png))，以从列表中删除字段。 单击 **是** 以确认您要删除该字段。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -78,7 +78,7 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td><p>商机状态</p></td> 
-   <td><p>商机状态</p></td> 
+   <td><p>潜在客户状态</p></td> 
    <td><p>状态</p></td> 
   </tr> 
   <tr> 
@@ -99,7 +99,7 @@ ht-degree: 7%
  </tbody> 
 </table>
 
-为新的Web个性化帐户现成提供了以下潜在客户字段：
+为新的Web个性化帐户提供的现成可用商机字段如下：
 
 >[!MORELIKETHIS]
 >

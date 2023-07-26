@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 自定义对象元数据导出 {#custom-object-metadata-export}
 
-如果您使用我们的SOAP API或Munchkin API，则可以导出自定义对象元数据架构。 下面是如何获取它的。
+如果您使用我们的SOAP API或Munchkin API，则可以导出自定义对象元数据架构。 下面是如何获取它。
 
 >[!AVAILABILITY]
 >
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. 单击 **[!UICONTROL 自定义对象操作]** 下拉菜单并选择 **[!UICONTROL 导出对象]**.
+1. 单击 **[!UICONTROL 自定义对象操作]** 下拉并选择 **[!UICONTROL 导出对象]**.
 
    ![](assets/custom-object-metadata-export-4.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 >
 >自定义对象必须处于已批准状态才能导出。
 
-现在，您有一个带有自定义对象架构的电子表格，它横跨三个选项卡。
+现在，您有一个包含自定义对象架构的电子表格，可跨三个选项卡。
 
 ![](assets/custom-object-metadata-export-5.png)
 

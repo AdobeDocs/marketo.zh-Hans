@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->TAM帐户分数 [必须配置](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) 首先。
+>TAM帐户得分 [必须配置](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) 首先。
 
 1. 单击 **管理员**.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果 [帐户得分设置](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) 会随时更新，Sales下的配置需要由管理员更新，以确保分数准确反映用户的偏好。 用户需要注销并重新登录才能查看更改。
+   >如果 [帐户得分设置](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) 随时更新，Sales下的配置需要由管理员更新，以确保分数准确反映用户的偏好。 用户需要注销并重新登录才能看到更改。
 
 1. 单击 **保存**.
 

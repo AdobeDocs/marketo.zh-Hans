@@ -1,5 +1,5 @@
 ---
-description: 添加或更新您的电子邮件签名 — Marketo文档 — 产品文档
+description: 添加或更新电子邮件签名 — Marketo文档 — 产品文档
 title: 添加或更新您的电子邮件签名
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 添加或更新您的电子邮件签名 {#add-or-update-your-email-signature}
 
-我们希望通过Marketo Sales的电子邮件在您自己的电子邮件客户端发送时能提供无缝体验。 一种有效的方法是添加您的电子邮件签名。
+我们希望通过Marketo Sales的电子邮件从您自己的电子邮件客户端发送时获得流畅的体验。 一个很好的方法是添加您的电子邮件签名。
 
 1. 单击齿轮图标并选择 **设置**.
 
@@ -36,4 +36,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >确保撰写屏幕中的签名与电子邮件客户端中列出的签名类似。
+   >确保在撰写屏幕中的签名与电子邮件客户端中列出的签名类似。

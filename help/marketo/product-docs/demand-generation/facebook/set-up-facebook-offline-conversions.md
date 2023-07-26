@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* 您必须 [设置Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* 您必须拥有已批准的模型 [收入周期Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>* 您必须在以下位置拥有已批准的模型 [收入周期Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 ## 管理员配置 {#admin-configuration}
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. 转到 **启动点** 和双击您之前创建的Facebook潜在客户广告服务。
+1. 转到 **启动点** 并双击您之前创建的Facebook潜在客户广告服务。
 
    >[!NOTE]
    >
-   >如果你还没有做那件事，就去做 [设置Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)，然后返回此处。
+   >如果你还没有那么做，就去做 [设置Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)，然后返回此处。
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   真贴心！ 您启用Facebook离线转换的工作已进行到一半。 让我们跳转到Revenue Cycle Modeler以映射阶段。
+   真贴心！ 您已经完成了启用Facebook离线转换的步骤。 让我们跳转到收入周期Modeler以映射阶段。
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -68,18 +68,18 @@ ht-degree: 0%
    >
    >目前，有10个Facebook事件可将收入周期阶段映射到：
    >
-   >* 付款信息添加
+   >* 添加付款信息
    >* 添加到购物车
    >* 添加到愿望清单
-   >* 已完成注册
+   >* 注册已完成
    >* 已启动结帐
    >* 人员
    >* 其他
    >* 购买
    >* 搜索
-   >* 内容视图
+   >* 内容查看
 
-1. 选择要映射的阶段，然后从 **facebook转化** 在下拉列表中，选择要将其映射到的Facebook事件。 重复此步骤以将RCM中的所有阶段映射到Facebook上的离线转换阶段。
+1. 选择要映射的阶段，然后从 **facebook转换** 在下拉列表中，选择要将其映射到的Facebook事件。 重复此步骤以将RCM中的所有阶段映射到Facebook上的离线转化阶段。
 
    ![](assets/1-1.png)
 
@@ -87,15 +87,15 @@ ht-degree: 0%
 
    ![](assets/2.png)
 
-1. 批准您的模型并完成！
+1. 批准您的模型即告完成！
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 
-   现在，当潜在客户广告销售线索达到您映射的阶段时，转化会被发送到Facebook进行报告。
+   现在，当潜在客户广告商机达到您映射的阶段时，转化率将发送到Facebook进行报告。
 
    >[!CAUTION]
    >
-   >检查您的Facebook帐户，并确保所有 [广告关联](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) 到Marketo离线转化事件集。 如果没有，则广告归因可能无效。
+   >检查您的Facebook帐户，并确保所有 [广告已关联](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) 到Marketo离线转化事件集。 如果它们无效，则广告归因可能无效。
 
    >[!NOTE]
    >

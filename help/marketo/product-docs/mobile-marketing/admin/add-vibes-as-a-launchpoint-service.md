@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11378845
-description: 添加Vibes作为LaunchPoint服务 — Marketo文档 — 产品文档
-title: 将Vibes添加为LaunchPoint服务
+description: 将访客添加为LaunchPoint服务 — Marketo文档 — 产品文档
+title: 将访客添加为LaunchPoint服务
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 1%
 
 ---
 
-# 将Vibes添加为LaunchPoint服务 {#add-vibes-as-a-launchpoint-service}
+# 将访客添加为LaunchPoint服务 {#add-vibes-as-a-launchpoint-service}
 
-您可以向访客列表中的人员发送短信消息，并使用短信活动触发和筛选营销活动。 首先，您需要将Vibes添加为LaunchPoint服务。
+您可以向访客列表中的人员发送短信消息，并使用短信活动触发和过滤营销活动。 首先，您需要将Vibes添加为LaunchPoint服务。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
-1. 单击 **新** 和 **新服务**.
+1. 单击 **新建** 和 **新建服务**.
 
    ![](assets/image2016-7-27-9-3a34-3a25.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/new-service-vibes.png)
 
-1. 在“设置”下，输入您的Vibes用户名、密码和API公司密钥。 单击&#x200B;**创建**。
+1. 在“设置”下，输入您的访客用户名、密码和API公司密钥。 单击&#x200B;**创建**。
 
    ![](assets/new-service-vibes-settings-2.png)
 

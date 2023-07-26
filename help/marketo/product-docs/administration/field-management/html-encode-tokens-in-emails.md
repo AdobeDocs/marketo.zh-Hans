@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/html-encode-tokens-in-emails-3.png)
 
-1. 查看 **[!UICONTROL 电子邮件中的HTML编码令牌]** 框，取消选中以禁用。
+1. 查看 **[!UICONTROL 电子邮件中的HTML编码令牌]** 复选框以启用，取消选中以禁用。
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 

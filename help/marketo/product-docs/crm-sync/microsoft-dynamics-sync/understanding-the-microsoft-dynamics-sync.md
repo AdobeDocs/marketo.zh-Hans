@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 了解Microsoft Dynamics同步 {#understanding-the-microsoft-dynamics-sync}
 
-Marketo和Microsoft Dynamics共存。 我们保持您的销售和营销数据同步。
+Marketo和Microsoft Dynamics共存。 我们将保持您的销售和营销数据同步。
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ Marketo和Microsoft Dynamics共存。 我们保持您的销售和营销数据同
 >
 >我们当前不支持Marketo Dynamics同步的沙盒刷新。 如果您需要刷新Dynamics CRM沙盒，则需要新的Marketo沙盒。 有关其他详细信息，请联系Adobe客户团队（您的客户经理）。
 
-## 同步的工作原理 {#how-sync-works}
+## 同步的工作方式 {#how-sync-works}
 
-Marketo每天Microsoft Dynamics不断同步数据。 它是使用后台同步批量完成的，而不是实时完成。
+Marketo每天Microsoft Dynamics不断同步数据。 它使用后台同步批量完成，而不是实时完成。
 
 >[!NOTE]
 >
->您的订阅中的首次同步需要几分钟到几小时，具体取决于数据库的大小。 Marketo从Dynamics复制整个数据库。 之后，每次同步通常需要几秒钟或几分钟，并且只同步已更改的数据。
+>您的订阅中第一次同步需要几分钟到几小时，具体取决于数据库的大小。 Marketo从Dynamics复制整个数据库。 之后，每次同步通常需要几秒钟或几分钟，并且只同步已更改的数据。
 
-对于潜在客户和联系人，Marketo和Dynamics之间的同步是双向的。 如果您在Marketo或Dynamics中进行更改，则您的更新将反映在这两个系统中。 所有其他字段（例如客户和商机）仅以单向方式同步，即从Dynamics同步到Marketo。
+对于潜在客户和联系人，Marketo和Dynamics之间的同步是双向的。 如果在Marketo或Dynamics中进行更改，则您的更新将反映在这两个系统中。 所有其他字段（例如客户和商机）仅以单向方式同步，即从Dynamics同步到Marketo。
 
 ## Marketo和Microsoft Dynamics之间同步了哪些内容？ {#what-is-synced-between-marketo-and-microsoft-dynamics}
 

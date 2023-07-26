@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 电子邮件分析概述 {#email-insights-overview}
 
-电子邮件分析根据历史数据为电子邮件营销人员提供强大的分析。 它包含两个独立但关联的部分：Analytics和Sends。
+电子邮件分析根据历史数据为电子邮件营销人员提供强大的分析功能。 它包含两个独立但关联的部分：Analytics和Sends。
 
 要访问电子邮件分析，只需在“我的Marketo”（或Analytics主屏幕）中单击其图块。
 
@@ -49,7 +49,7 @@ ht-degree: 1%
 
 **量度**
 
-单击量度栏可将颜色转换为数字。
+单击量度栏将颜色转换为数字。
 
 ![](assets/delivery-metrics.png)
 

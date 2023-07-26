@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
-   现在已保存该筛选器。
+   现已保存该筛选器。
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   如果你愿意，你可以 [发送副本](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} Marketo定义的所有其他字段。
+   如果你愿意，可以 [发送副本](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} Marketo定义的所有其他字段。
 
    >[!NOTE]
    >

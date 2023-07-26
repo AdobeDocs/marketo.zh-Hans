@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 参与流性能报表 {#engagement-stream-performance-report}
 
-想要了解参与内容的表现如何？ 尝试使用参与流性能报表。
+想要了解参与内容的表现如何？ 尝试参与流性能报表。
 
 ## 创建报告 {#create-the-report}
 
-1. 查找并选择您的参与计划，然后在 **新** 点击 **新建本地资产**.
+1. 查找并选择您的参与计划，然后在 **新建** 单击 **新建本地资产**.
 
    ![](assets/localassetnutring.jpg)
 
-1. 选择 **报告**.
+1. 选择 **报表**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
    >[!TIP]
    >
-   >在项目群下创建报告会自动将其限制为项目群的内容。
+   >在项目群下创建报告会自动将其限制在项目群内容内。
 
    选择Engagement Stream Performance作为报表类型。
    ![](assets/engagementreportchoose.png)
@@ -36,15 +36,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
-   好吧！ 现在，让我们查看设置。
+   好吧！ 现在，让我们检查设置。
 
 ## 编辑设置 {#edit-settings}
 
-1. 查找并选择您的报告。
+1. 查找并选择您的报表。
 
    ![](assets/engagementperformancereport.jpg)
 
-1. 在 **设置** 选项卡，双击 **参与计划电子邮件** 筛选条件。
+1. 在 **设置** 选项卡，双击 **参与计划电子邮件** 筛选。
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
@@ -54,12 +54,12 @@ ht-degree: 0%
 
 ## 运行报告 {#run-report}
 
-1. 要运行报表，只需单击 **报告** 选项卡。
+1. 要运行报表，只需单击 **报表** 选项卡。
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
-   >“参与度分数”是此报告中的一列（尽管没有插图）。 参见 [了解参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) 了解详情。
+   >参与度分数是本报表中的一栏，但并未进行插图。 请参阅 [了解参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) 了解详情。
 
-   做得好！ 请注意，报告按参与计划分组。
+   做得好！请注意，报告按参与计划分组。

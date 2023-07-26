@@ -6,14 +6,14 @@ exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-# SFDC同步：联系同步 {#sfdc-sync-contact-sync}
+# SFDC同步：联系人同步 {#sfdc-sync-contact-sync}
 
-您知道Marketo将您的整个数据库与Salesforce同步吗？ 它同步，然后等待5分钟，然后每天再次同步。 以下是Marketo如何具体对待Salesforce Contacts的一些详细信息。
+您是否知道Marketo会将您的整个数据库与Salesforce同步？ 它同步，然后等待5分钟，然后每天再次同步。 以下是Marketo如何具体处理Salesforce联系人的一些详细信息。
 
 ## 同步方向 {#sync-direction}
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 ## Marketo是否会遵守Salesforce验证规则？ {#will-marketo-respect-the-salesforce-validation-rules}
 
-是，如果存在冲突，它会将结果记录在潜在客户活动日志中。
+是，如果存在冲突，它将在潜在客户活动日志中记录结果。

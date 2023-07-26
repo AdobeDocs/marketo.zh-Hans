@@ -6,14 +6,14 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 # 编辑“Do Not Track”浏览器支持设置 {#edit-do-not-track-browser-support-settings}
 
-“Do Not Track”是浏览器请求，无法在Marketo等系统中跟踪。 您可以通过以下步骤满足该请求。
+“Do Not Track”是一种浏览器请求，不会在Marketo等系统中进行跟踪。 您可以通过以下步骤满足该请求。
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->默认情况下，“Do Not Track”将设置为“Ignore”，因此，如果您希望这样做，则无需执行任何步骤。
+>默认情况下，“Do Not Track”将设置为“Ignore”，因此如果您希望这样做，则无需执行任何步骤。
 
 1. 单击 **[!UICONTROL 管理员]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. 单击 **[!UICONTROL Munchkin]**.
+1. 单击 **[!UICONTROL 蒙奇金]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 

@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-您可以 [删除项目群渠道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) 如果任何程序未使用它。  但是，一旦被使用，我们需要保留它。  但是，如果您不再需要它，则可以将其隐藏。
+您可以 [删除项目频道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) 如果任何程序未使用它。  但是，一旦被使用，我们需要保留它。  但是，如果您不再需要它，则可以将其隐藏。
 
-## 隐藏项目群渠道 {#hide-a-program-channel}
+## 隐藏项目频道 {#hide-a-program-channel}
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 轻一点，轻一点！
 
-## 取消隐藏项目群渠道 {#unhide-a-program-channel}
+## 取消隐藏项目频道 {#unhide-a-program-channel}
 
 1. 通过选中显示隐藏复选框取消隐藏项目频道。
 

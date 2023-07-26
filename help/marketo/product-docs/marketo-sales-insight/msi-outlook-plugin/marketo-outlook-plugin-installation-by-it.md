@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 由IT人员安装的Marketo Outlook插件 {#marketo-outlook-plugin-installation-by-it}
 
-有时，公司政策要求他们的IT团队将所有软件安装在员工的计算机上。 在这些情况下， IT部门通常使用自己的部署软件远程执行此操作。 本文档提供了在远程安装Outlook插件的部署过程中将用作输入的命令行。
+有时，公司政策要求其IT团队在员工计算机上安装所有软件。 在这些情况下， IT通常使用自己的部署软件远程执行这一操作。 本文档提供了在部署过程中用作输入以远程安装Outlook插件的命令行。
 
 >[!PREREQUISITES]
 >
 >[设置](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) 企业密钥。
 
-以“System”或带有/i开关的管理用户帐户身份运行以下命令行，以安装。
+以“System”形式运行以下命令行，或者运行带有/i开关的“管理”用户帐户来安装。
 
 `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn REG=ABC9-123y-WXYZ-4321</pre>`
 
-对于疑难解答，您可以启用日志记录以创建输出日志文件。
+对于疑难解答，可以启用日志记录以创建输出日志文件。
 
 `<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 >
 >日志文件的存储位置必须存在，否则安装将中止。
 
-请参阅 [Microsoft的交换机完整列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您希望尝试使用不同的日志记录级别或用户界面级别。
+请参阅 [Microsoft的交换机完整列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您希望尝试不同的日志记录级别或用户界面级别。
 
 >[!MORELIKETHIS]
 >

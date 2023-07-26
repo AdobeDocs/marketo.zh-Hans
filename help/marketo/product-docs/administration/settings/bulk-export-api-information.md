@@ -5,7 +5,7 @@ exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/bulk-export-api-information-2.png)
 
-1. 向下滚动到“批量导出API信息”卡。 单击“最近7天”旁边的数字，以查看每日/API用户的使用情况。
+1. 向下滚动到“批量导出API信息”卡片。 单击“最近7天”旁边的数字，以查看每日/API用户的使用情况。
 
    ![](assets/bulk-export-api-information-3.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您的Marketo Engage实例的分配每天在中部标准时间凌晨12:00重置。
+>您的Marketo Engage实例的分配每天在CST凌晨12:00重置。

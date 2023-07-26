@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >请确保 [隐藏所有不需要的字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Marketo ，然后再单击“同步字段”。 单击“同步字段”后，将会在Marketo中永久创建用户可以查看的所有字段，并且这些字段无法删除。
+   >请务必 [隐藏所有不需要的字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Marketo ，然后再单击“同步字段”。 单击“同步字段”后，该用户可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
 
 1. 单击 **使用Veeva登录**.
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/step-3-of-3-connect-marketo-engage-3.png)
 
-1. 此时将显示一个包含Salesforce登录页面的弹出窗口。 输入您的“Marketo同步用户”凭据，然后单击 **登录**.
+1. 此时将出现一个显示Salesforce登录页面的弹出窗口。 输入您的“Marketo同步用户”凭据，然后单击 **登录**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-4.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
    ![](assets/step-3-of-3-connect-marketo-engage-5.png)
 
-1. 验证成功后，访问页面将显示请求访问。 单击 **允许**.
+1. 成功验证后，访问页面将显示请求访问。 单击 **允许**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-6.png)
 
-1. 几分钟后，Marketo Engae中将显示一个弹出窗口。 单击 **确认凭据**.
+1. 几分钟后，Marketo Engae中将出现弹出窗口。 单击 **确认凭据**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-7.png)
 
@@ -81,13 +81,13 @@ ht-degree: 0%
 
 ## 验证同步 {#verify-sync}
 
-Marketo在管理区域提供Veeva CRM同步的状态消息。 您可以按照以下步骤验证同步是否正常工作。
+Marketo在管理区域为Veeva CRM同步提供状态消息。 您可以按照以下步骤验证同步是否正常工作。
 
 1. 在Marketo中，单击 **管理员**，则 **Veeva**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-10.png)
 
-1. 同步状态显示在右上角。 它将显示以下三条消息之一：“上次同步”、“正在同步”或“失败”。
+1. 同步状态将显示在右上角。 它将显示以下三条消息之一：“上次同步”、“同步进行中”或“失败”。
 
 >[!MORELIKETHIS]
 >

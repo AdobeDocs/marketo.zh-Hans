@@ -18,21 +18,21 @@ Adobe Experience Cloud界面与Adobe Experience Cloud应用程序和服务的“
 
 如果您尚未登录Adobe Experience Cloud产品，请直接登录 [!DNL Marketo Engage] 此处： [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-如果您 _是_ 已登录Adobe Experience Cloud产品，只需单击菜单图标并选择 **[!DNL Marketo Engage]**.
+如果您 _是_ 登录Adobe Experience Cloud产品后，只需单击菜单图标并选择 **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
->您的下拉菜单可能因您订阅的Adobe Experience Cloud产品而异。
+>您的下拉菜单可能会因您订阅的Adobe Experience Cloud产品而异。
 
 ## 新增功能 {#new-features}
 
-除了更新的外观和感觉外，您还会注意到以下功能：
+除了已更新的外观和感觉外，您还会注意到以下功能：
 
 **集成帮助中心**
 
-从内部访问各种可用的帮助资源 [!DNL Marketo Engage] 应用程序。
+从访问的各种可用的帮助资源 [!DNL Marketo Engage] 应用程序。
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -44,13 +44,13 @@ Adobe Experience Cloud界面与Adobe Experience Cloud应用程序和服务的“
 
 **通知和公告**
 
-直接在应用程序中查看产品特定通知和一般Adobe产品公告，并与之交互。
+直接在应用程序中查看特定于产品的通知和一般Adobe产品公告，并与之交互。
 
 ![](assets/unified-shell-overview-4.png)
 
 **Adobe设置**
 
-单击配置文件图标以更改您的语言或其他Adobe范围的首选项。
+单击配置文件图标以更改您的语言或其他全Adobe首选项。
 
 ![](assets/unified-shell-overview-5.png)
 

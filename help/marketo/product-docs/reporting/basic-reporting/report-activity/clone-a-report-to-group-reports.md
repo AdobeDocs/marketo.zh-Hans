@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512105
 description: 将报表克隆到组报表 — Marketo文档 — 产品文档
-title: 将报告克隆到组报告
+title: 将报表克隆到组报表
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 将报告克隆到组报告 {#clone-a-report-to-group-reports}
+# 将报表克隆到组报表 {#clone-a-report-to-group-reports}
 
-**我的报表**中的任何报表仅对您可见。 如果您希望让所有其他用户均可访问报告，该怎么办？ 您可以采用以下方法做到这一点：
+**我的报表**中的任何报表仅对您可见。 如果您希望让所有其他用户均可访问报表，该怎么办？ 以下是具体操作方法：
 
 1. 在 **分析** 区域，单击所需的 [已保存的报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
 

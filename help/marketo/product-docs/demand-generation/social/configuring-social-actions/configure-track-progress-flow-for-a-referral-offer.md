@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2950573
-description: 配置反向链接选件的跟踪进度流 — Marketo文档 — 产品文档
-title: 为反向链接选件配置跟踪进度流
+description: 配置跟踪反向链接优惠的进度流 — Marketo文档 — 产品文档
+title: 配置反向链接选件的跟踪进度流
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 为反向链接选件配置跟踪进度流 {#configure-track-progress-flow-for-a-referral-offer}
+# 配置反向链接选件的跟踪进度流 {#configure-track-progress-flow-for-a-referral-offer}
 
-当您 [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以配置提示，向参与者显示其获得奖励的进度。
+当您 [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以配置提示以显示参与者获得奖励的进度。
 
 1. 转到 **营销活动**.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. 在 **查看和编辑** 窗口中，编辑提示以提醒参与者登录到他们用于注册优惠的相同社交网络。
+1. 在 **查看和编辑** 窗口，编辑提示信息，提醒参与者登录他们以前注册优惠的社交网络。
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -35,15 +35,15 @@ ht-degree: 0%
    >
    >要突出显示可编辑的文本，请选择 **显示编辑** 在右上角。
 
-1. 编辑鼓励参与者与更多朋友共享链接的提示。
+1. 编辑提示以鼓励参与者与更多朋友共享链接。
 
    ![](assets/image2014-9-22-14-3a36-3a22.png)
 
-1. 编辑提示消息，通知参与者他们已实现实现目标，且应检查其电子邮件。
+1. 编辑提示信息，通知参与者他们已实现实现目标，且应检查其电子邮件。
 
    ![](assets/image2014-9-22-14-3a36-3a36.png)
 
-1. 编辑通知成功参与者兑换其奖励的相关促销代码的消息。
+1. 编辑消息，该消息会通知成功参与者兑换其奖励所需的相关促销代码。
 
    ![](assets/image2014-9-22-14-3a36-3a43.png)
 

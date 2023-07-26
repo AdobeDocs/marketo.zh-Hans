@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 将字段集添加到表单 {#add-a-fieldset-to-a-form}
 
-字段集很酷。 他们把一栈田地组合在一起。 你也可以一次控制整个街区！
+字段集很酷。 他们把一栈田地组合在一起。 你也可以同时控制整个街区！
 
 1. 转到 **营销活动**.
 
@@ -35,12 +35,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. 以下是完成时应该显示的内容。
+1. 以下是完成时应该呈现的外观。
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
 
-给你！
+拿着！
 
 >[!TIP]
 >
->可根据其他字段动态隐藏/显示整个字段集。 了解 [可见性规则](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>您可以根据其他字段动态隐藏/显示整个字段集。 了解 [可见性规则](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

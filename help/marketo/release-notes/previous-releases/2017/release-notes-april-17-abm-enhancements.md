@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 发行说明： 2017年4月ABM增强功能 {#release-notes-april-abm-enhancements}
 
-2017年4月的ABM增强版中包含以下功能。 查看Marketo版本以了解功能可用性。
+2017年4月的ABM增强版本中包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
 ## 同步CRM映射的标准字段 {#synching-of-crm-mapped-standard-fields}
 
-Marketo ABM正在更改与CRM相关的行为。 今后，Marketo ABM将在CRM中的ABM帐户和帐户之间建立并保持1对1关系。 这允许Marketo使映射的帐户字段与CRM保持同步。
+Marketo ABM正在更改与CRM相关的行为。 今后，Marketo ABM会在CRM中的ABM帐户和帐户之间建立并保持1对1关系。 这允许Marketo使映射的帐户字段与CRM保持同步。
 
 ## CRM发现的自定义字段 {#custom-fields-for-crm-discovery}
 
@@ -27,6 +27,6 @@ Marketo ABM正在更改与CRM相关的行为。 今后，Marketo ABM将在CRM中
 
 ## 指定帐户网格中基于帐户的筛选器 {#account-based-filters-in-the-named-account-grid}
 
-现在，您可以根据帐户列表轻松筛选已命名帐户。
+您现在可以根据帐户列表轻松筛选指定帐户。
 
 ![](assets/named-account-filters.png)

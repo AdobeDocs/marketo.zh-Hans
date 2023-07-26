@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 批准表单 {#approve-a-form}
 
-要将表单添加到某个登陆页面，必须获得批准。 下面是操作方法。
+要将表单添加到您的某个登陆页面，该表单必须获得批准。 下面是操作方法。
 
 ## 批准表单 {#approve-a-form-1}
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
-1. 是否注意到绿色复选标记？
+1. 注意到绿色复选标记了吗？
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   它已被批准并准备就绪 [已添加到登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   它已经过批准并准备好 [已添加到登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
-   >在批准后所做的更改可能需要几分钟的时间才能在嵌入式表单上更新。
+   >在批准后所做的更改可能需要几分钟的时间才能在嵌入的表单上更新。
 
 ## 从编辑器中批准表单 {#approve-a-form-from-the-editor}
 

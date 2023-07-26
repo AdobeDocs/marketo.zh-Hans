@@ -1,5 +1,5 @@
 ---
-description: 最佳选择 — Marketo文档 — 产品文档
+description: 最佳匹配 — Marketo文档 — 产品文档
 title: 最佳匹配
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 最佳匹配 {#best-bets}
 
-最佳匹配选项卡包括您所有热门商机的列表（根据它们的优先级），使用紧急性和相对分数计算。
+最佳匹配选项卡包括基于优先级的您所有热门商机的列表，使用紧急程度和相对分数计算。
 
 通过单击“操作”列下的点菜单，您可以使用参与选项，例如：
 * 发送Marketo电子邮件

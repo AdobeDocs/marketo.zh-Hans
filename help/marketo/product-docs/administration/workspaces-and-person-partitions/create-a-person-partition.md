@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/create-a-person-partition-3.png)
 
-1. 命名分区，选择 **[!UICONTROL 工作区]** 在显示的位置，然后单击 **[!UICONTROL 创建]**.
+1. 命名分区，选择 **[!UICONTROL 工作区]** ，然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/create-a-person-partition-4.png)
 

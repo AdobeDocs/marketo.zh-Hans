@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360358
-description: 仅限用户登录SSO - Marketo文档 — 产品文档
-title: 仅限用户登录SSO
+description: 限制用户仅登录SSO - Marketo文档 — 产品文档
+title: 限制用户仅登录SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 仅限用户登录SSO {#restrict-user-login-to-sso-only}
+# 限制用户仅登录SSO {#restrict-user-login-to-sso-only}
 
-如果您是 [使用SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) 并且要确保用户无法绕过SSO安全，请按照以下说明操作。
+如果您是 [使用SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) 并且要确保用户无法绕过SSO安全性，请按照以下说明操作。
 
 >[!IMPORTANT]
 >
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->最佳做法是邀请用户并接受邀请。 _晚于_ 邀请被接受，管理员随后应将其设置为&quot;[!UICONTROL 需要SSO].”
+>最佳做法是邀请用户并接受邀请。 _之后_ 邀请被接受，管理员随后应将其设置为&quot;[!UICONTROL 需要SSO]“
 
 >[!TIP]
 >
@@ -49,12 +49,12 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->邀请新用户时，他们将收到邀请电子邮件。 但是，如果 **[!UICONTROL 需要SSO]** 选中时，用户不会收到这些电子邮件，除非将其分配给设置为的角色 **[!UICONTROL 绕过单点登录]**.
+>邀请新用户时，他们将收到邀请电子邮件。 但是，如果 **[!UICONTROL 需要SSO]** 如果选择，则他们不会收到这些电子邮件，除非他们被分配给设置为的角色 **[!UICONTROL 绕过单点登录]**.
 
-就是这样！ 现在，所有用户（有权绕过单点登录的用户除外）都将被限制为仅使用SSO登录。
+就是这样！ 现在，所有用户（有权绕过单点登录的用户除外）将被限制为仅使用SSO登录。
 
 >[!MORELIKETHIS]
 >
 >* [将单点登录添加到门户](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [使用通用ID进行订阅登录](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [使用通用ID将Marketo用户邀请到两个实例](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [使用通用ID将Marketo用户邀请至两个实例](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)

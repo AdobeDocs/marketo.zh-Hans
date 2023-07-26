@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >[创建新工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
-用户可以更改工作区的名称。 这很简单。
+用户可以更改工作区的名称。 这相当简单。
 
 >[!NOTE]
 >
@@ -43,6 +43,6 @@ ht-degree: 0%
 
    ![](assets/change-the-name-of-a-workspace-4.png)
 
-保存后，您应会看到所做的更改。
+保存后，您应该会看到所做的更改。
 
 ![](assets/change-the-name-of-a-workspace-5.png)

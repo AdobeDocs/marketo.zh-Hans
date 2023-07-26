@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
-1. 选择您的移动应用程序并单击 **编辑草稿**.
+1. 选择您的移动设备应用程序，然后单击 **编辑草稿**.
 
    ![](assets/image2015-4-22-18-3a45-3a13.png)
 
 >[!MORELIKETHIS]
 >
->详细了解 [配置推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) 此处。
+>了解有关 [配置推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) 此处。

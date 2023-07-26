@@ -11,17 +11,17 @@ ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics同步： Opportunity同步 {#microsoft-dynamics-sync-opportunity-sync}
+# Microsoft Dynamics同步：机会同步 {#microsoft-dynamics-sync-opportunity-sync}
 
-Marketo到Dynamics的同步功能非常强大。 以下是opportunity同步的所有详细信息：
+Marketo到Dynamics的同步处理功能非常强大。 下面是机会同步的所有详细信息：
 
 ## 两个系统之间的机会详细信息如何保持同步？ {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-机会同步是一种方式 — Dynamics到Marketo。 如果您在Dynamics中对商机进行了更改，则您的更新将反映在Marketo中。
+机会同步是一种方式 — Dynamics到Marketo。 如果您在Dynamics中更改了业务机会，您的更新将反映在Marketo中。
 
 ## 我可以使用Marketo在Dynamics中创建机会吗？ {#can-i-create-an-opportunity-in-dynamics-using-marketo}
 
-否，您必须在Dynamics中创建机会，该机会将自动同步到Marketo。
+否，您必须在Dynamics中创建机会，该机会会自动同步到Marketo。
 
 ## 哪些字段将同步到Marketo？ {#what-fields-will-sync-to-marketo}
 

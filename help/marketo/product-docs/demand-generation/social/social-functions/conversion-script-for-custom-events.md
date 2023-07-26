@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 自定义事件的转换脚本 {#conversion-script-for-custom-events}
 
-您可以在创建反向链接优惠时定义实现目标。 如果计入目标的操作是您自己网页上的特定事件，则您可以使用转化脚本来调用我们的JavaScript API。
+您可以在创建反向链接优惠时定义实现目标。 如果计入目标的操作是您自己网页上的特定事件，则可以使用转化脚本来调用我们的JavaScript API。
 
 ## 检索转换脚本 {#retrieve-the-conversion-script}
 
@@ -21,15 +21,15 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. 复制灰色框中的顶部脚本，并将其放置在网页内的 `<body>` 标记之间。 底部脚本放在 `<header>` 标记之间。
+1. 复制灰色框中的顶部脚本，并将其放在网页内的 `<body>` 标记之间。 底部脚本放在 `<header>` 标记之间。
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
    >[!NOTE]
    >
-   >如果这两个脚本在非Marketo网站上运行，请记住复制并粘贴它们。
+   >如果这两个脚本在非Marketo网站上运行，请记得复制并粘贴它们。
 
-## 检索加载程序脚本 {#retrieve-the-loader-script}
+## 检索Loader脚本 {#retrieve-the-loader-script}
 
 1. 从树中选择反向链接选件，然后单击 **反向链接选件操作** 和 **嵌入代码**.
 

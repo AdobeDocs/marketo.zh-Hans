@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 请求营销活动 {#request-campaign}
 
-您可以使用将人员放入特定营销策划中 **请求营销活动** 单流程步长。
+您可以使用将人员放入特定营销策划中 **请求营销活动** 单流程步骤。
 
 >[!NOTE]
 >
->您要将人员安排到的营销活动必须处于活动状态并具有 **[已请求营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** 触发器。
+>要将人员投放到的营销策划必须处于活动状态并具有 **[已请求营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** 触发器。
 
 1. 在 **数据库**，查找并选择所需的人员。
 
    ![](assets/one-5.png)
 
-1. 单击 **人员操作**，将鼠标悬停在 **特殊**，并选择 **请求营销活动**.
+1. 单击 **人员操作**，悬停在 **特殊**，并选择 **请求营销活动**.
 
    ![](assets/two-5.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-4.png)
 
-1. 在屏幕的右上角，您将会看到操作完成的时间。 单击 **查看结果**.
+1. 在屏幕的右上角，您将会看到操作何时完成。 单击 **查看结果**.
 
    ![](assets/four-4.png)
 

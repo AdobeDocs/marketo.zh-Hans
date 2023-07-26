@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # 了解收入模型 {#understanding-revenue-models}
 
-收入周期模型将营销提升到新的水平。 它们会对整个收入漏斗的所有阶段进行建模 — 从您首次与潜在客户进行交互一直到该潜在客户成为赢家为止。
+收入周期模型将营销提升到新的水平。 他们对整个收入漏斗的所有阶段进行建模 — 从您首次与潜在客户进行交互时一直到该潜在客户成为赢家为止。
 
-## 心理模型（如何思考这件事） {#mental-model-how-to-think-about-this-thing}
+## 心理模型（如何思考这个问题） {#mental-model-how-to-think-about-this-thing}
 
-“建模器”就像一串装水的桶。 桶底有洞。
+“建模器”就像一串装水的桶。 桶的底部有洞。
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
-建模器将测量每天有多少水（导线）进入桶子以及从孔中流出多少。 （可以有多个孔）
+建模人员将测量每天有多少水（导线）进入桶子以及从孔中流出的量。 （可以有多个孔）
 
-建模器会测量存储桶中任何给定时间的潜在客户数量。 这被称为阶段平衡。
+建模器会测量存储桶中任何给定时间的潜在客户数量。 这叫做阶段平衡。
 
 >[!TIP]
 >
->对于那些更在乎财务的人，你可以将各个阶段视为每天结束时资金进出保持平衡的账户。
+>对于那些更懂财务的人，你可以将各个阶段视为每天结束时资金进出平衡的账户。
 
-模型通常适用于对智能营销活动和项目感到满意，并希望将其分析提升到更高水平的客户。
+模型通常适用于对智能营销活动和项目感到满意，并且希望将其分析提升到更高水平的客户。
 
 ## 开始使用新模型 {#starting-with-a-new-model}
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-请注意，它们都位于绿色背景中。 这称为 **成功路径**. 详细了解成功路径 [此处](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+请注意，它们都位于绿色背景中。 这称为 **成功路径**. 进一步了解成功路径 [此处](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**暂存** 是线索走向目标的里程碑。
+**暂存** 是潜在客户在实现其目标方面取得的进展的里程碑。
 
 **过渡** 显示为箭头，它们控制潜在客户在阶段之间的移动方式。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 自定义 {#customization}
 
-每家公司都不一样。 您可以通过从右上角拖动来将内容添加到模型中。
+每家公司都是不同的。 通过从右上角拖动，可将某些内容添加到模型中。
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
@@ -65,21 +65,21 @@ ht-degree: 0%
 >
 >**示例**
 >
->当潜在客户填写“Contact Me”表单并向销售代表发送警报时，您可能需要72小时的SLA。 您将能够跟踪违规行为，并指责销售代表将有效的销售线索隔离在外。
+>当潜在客户填写“Contact Me”表单并向销售代表发送警报时，您可能需要72小时SLA。 您将能够跟踪违规行为并批评该代表使一个好的潜在客户无法与外界联系。
 
 ## 关口阶段 {#gate-stage}
 
-“Gate”阶段适用于您希望过滤潜在客户以提供多种选择之一的情况。 这是一个高级选项。 初学者应该避开关卡。
+“登陆”阶段适用于您希望将潜在客户筛选为多个选项之一的情况。 这是一个高级选项。 初学者应避免使用门槛。
 
 >[!NOTE]
 >
 >**示例**
 >
->门可用于属于以下类别的潜在客户： **指定帐户列表** 将它与正常过程分离。
+>大门可用于属于 **指定帐户列表** 将它与正常过程分开。
 
 ## 过渡 {#transitions}
 
-使用智能营销活动准确地阐明潜在客户如何从一个阶段移动到另一个阶段，并确保潜在客户不会卡在任何阶段。 请确保对过渡使用触发器过滤器（这是一种评估方法）。
+使用智能营销活动准确地阐明潜在客户如何从一个阶段移动到另一个阶段，并确保潜在客户不会卡在任何阶段。 请确保对的过渡使用触发器过滤器（这是一种评估方法）。
 
 >[!NOTE]
 >
@@ -87,11 +87,11 @@ ht-degree: 0%
 >
 >过渡可以通过填写表单的潜在客户来定义。
 
-为成功之路添加一个舞台
+在快乐的成功路径中添加舞台
 
 ![](assets/image2015-6-12-10-3a10-3a26.png)
 
-“丢失”是一个不错的添加，但请注意，它不在绿色路径中。 那是因为它不是“成功”。
+“丢失”是一个不错的添加，但请注意，它不在绿色路径中。 那是因为这不是一个“成功”。
 
 >[!MORELIKETHIS]
 >
@@ -103,6 +103,6 @@ ht-degree: 0%
 >
 >* [使用收入模型SLA阶段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [报告您的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [收入模型报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
 >* [批准/取消批准收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

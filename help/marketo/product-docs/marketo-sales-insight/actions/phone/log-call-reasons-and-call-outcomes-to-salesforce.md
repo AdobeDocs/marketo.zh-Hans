@@ -1,6 +1,6 @@
 ---
 description: 将致电原因和致电结果记录到Salesforce - Marketo文档 — 产品文档
-title: 将致电原因和致电结果记录到Salesforce
+title: 将呼叫原因和呼叫结果记录到Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# 将致电原因和致电结果记录到Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
+# 将呼叫原因和呼叫结果记录到Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-如果您出于报告或可见性的目的，希望将致电结果记录并致电原因发送到Salesforce，则可以为每个创建自定义活动字段。 每个字段都必须使用特定的API名称（在Salesforce中称为“字段名称”）。
+如果您出于报告或可见性的目的，希望将致电结果记录并致电原因至Salesforce，则可以为每个创建自定义活动字段。 每个字段必须使用特定的API名称（在Salesforce中称为“字段名称”）。
 
-* 呼叫结果字段名称：mktosales_call_outcome
+* 呼叫结果字段名称：mktosales_call_output
 * 致电原因字段名称：mktosales_call_reason
 
 要利用这些字段，您首先需要将字段创建为自定义活动字段。 为了使其对用户可见，您需要将其添加到任务对象页面布局。
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
-1. 在“快速查找”框中键入“Activities”。
+1. 在快速查找框中键入“Activities”。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. 单击 **新**.
+1. 单击 **新建**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
-1. 为自定义字段提供上面定义的字段名称。 字段长度限制为255个字符。 字段标签将是您的销售团队可见的字段，并且可以根据您团队的需求进行自定义。
+1. 为自定义字段提供上面定义的字段名称。 字段长度限制为255个字符。 字段标签将是您的销售团队可见的字段，并且可以自定义以满足您团队的需求。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
@@ -57,17 +57,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >确保自定义字段对Sales Insight Actions用户使用的用户档案可见，以及您希望其可见的任何其他位置均可见。
+   >确保您的Sales Insight Actions用户使用的用户档案能够看到自定义字段，并且您还可以在其他位置看到该字段。
 
-1. 选择要将该字段添加到的页面布局，然后单击 **保存** （可选）您可以单击 **保存并新建** 并对“来电原因”字段重复此过程)。
+1. 选择要将该字段添加到其中的页面布局，然后单击 **保存** (或者，您可以单击 **保存并新建** 对“来电原因”字段重复此过程)。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
-### 在Salesforce Classic中向任务页面布局添加自定义活动字段 {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
+### 在Salesforce Classic中向“任务页面布局”添加自定义活动字段 {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
 >[!NOTE]
 >
->如果您没有在上面的步骤9中选择所需的页面布局，则您只需执行以下步骤即可。
+>如果您没有在上面的步骤9中选择所需的页面布局，则只需执行以下步骤即可。
 
 1. 在Salesforce中，单击 **设置**.
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. 将字段拖放到任务页面布局的所需部分。
+1. 将该字段拖放到任务页面布局的所需部分。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. 在“快速查找”框中键入“Activity”。
+1. 在快速查找框中键入“Activity”。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
@@ -117,7 +117,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. 单击 **新**.
+1. 单击 **新建**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
@@ -143,11 +143,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
-1. 单击您想要将此字段添加到的任务页面布局。
+1. 单击您要将此字段添加到的任务页面布局。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. 将字段拖放到任务页面布局的所需部分。
+1. 将该字段拖放到任务页面布局的所需部分。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 

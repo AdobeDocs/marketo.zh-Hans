@@ -24,12 +24,12 @@ ht-degree: 0%
 
    ![](assets/initial-setup-1.png)
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有， [设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果不能， [设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
    ![](assets/initial-setup-2.png)
 
 ## 添加用户 {#add-users}
 
-1. 登录到Admin Console后，下一步要做的就是添加用户。 我们有这个过程 [在此处记录](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
+1. 登录到Admin Console后，下一步要做的就是添加用户。 我们有这个过程 [此处记录](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
 接下来，是时候 [将Dynamic Chat连接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md).

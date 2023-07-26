@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147126
-description: 使用程序主页选项卡 — Marketo文档 — 产品文档
+description: 使用项目主页选项卡 — Marketo文档 — 产品文档
 title: 使用程序主页选项卡
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用程序主页选项卡 {#using-the-program-home-tab}
 
-程序主页选项卡为您提供了程序运行情况的高级视图。
+项目主页选项卡为您提供项目中所发生情况的高级视图。
 
 ## 摘要视图 {#summary-view}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择一个项目。
+1. 选择项目。
 
    ![](assets/image2014-9-18-17-3a1-3a55.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. 单击 **导出** ，即可下载报告。
+1. 单击 **导出** 位于要下载的报表的摘要的底部。
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -67,8 +67,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**历史** 表示曾参加过该课程的人 **当前** 仅包含当前该计划中的人员。
+   >**历史** 表示曾参加过该课程的人 **当前** 仅包含当前加入该计划的人员。
 
    >[!MORELIKETHIS]
    >
-   >[了解计划会员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[了解计划成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)

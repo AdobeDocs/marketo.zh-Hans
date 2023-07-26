@@ -18,11 +18,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 除了设置SMTP服务器外， [必须验证电子邮件身份](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) 才能发送电子邮件。
->* 我们建议您与IT团队或SMTP服务器供应商合作，以获取SMTP服务器的正确服务器凭据。
+>* 除了设置SMTP服务器外， [必须验证电子邮件身份](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) 再发送电子邮件。
+>* 我们建议与您的IT团队或SMTP服务器供应商合作，以获取SMTP服务器的正确服务器凭据。
 >* 无法使用SMTP服务器凭据连接Gmail和Exchange服务器。 请使用我们的电子邮件连接服务与这些提供商集成。
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标，然后选择 **设置**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
@@ -34,13 +34,13 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 
-1. 输入您的SMTP服务器凭据，然后单击 **Connect**.
+1. 输入您的SMTP服务器凭据并单击 **连接**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-4.png)
 
    >[!NOTE]
    >
-   >Team SMTP服务器将是所有团队成员默认电子邮件标识的默认投放渠道。 此外，它还将作为所有其他电子邮件标识的投放渠道选项提供。
+   >团队SMTP服务器将是所有团队成员默认电子邮件标识的默认投放渠道。 此外，它还将作为所有其他电子邮件身份的投放渠道选项提供。
 
    >[!MORELIKETHIS]
    >

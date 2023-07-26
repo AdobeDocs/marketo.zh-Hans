@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->要将人员从Sales Connect添加到Marketo Campaign，Sales Connect必须具有人员的Marketo潜在客户ID。
+>要将人员从Sales Connect添加到Marketo Campaign，Sales Connect必须具有人员的Marketo商机ID。
 
 1. 单击 **人员** 选项卡。
 
@@ -36,11 +36,11 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-3.png)
 
-1. 在此处步骤
+1. 在此步骤
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果选择此选项，请单击“个人”并键入。 单击 **下一个** 完成时。
+1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果选择此选项，请单击“个人”并键入它们。 单击 **下一个** 完成时。
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -60,7 +60,7 @@ PICC
 
 PICC
 
-1. 您看到的是符合条件的联系人。 单击 **开始** 才能添加这些元素。
+1. 您看到的是符合条件的联系人。 单击 **开始** 以添加它们。
 
 PICC
 
@@ -70,7 +70,7 @@ PICC
 
 PICC
 
-1. 在“我的组”下，选择要添加到营销策划的组。
+1. 在我的群组下，选择要添加到营销策划的群组。
 
 PICC
 
@@ -78,7 +78,7 @@ PICC
 
 PICC
 
-1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果选择此选项，请单击“个人”并键入。 单击 **下一个** 完成时。
+1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果选择此选项，请单击“个人”并键入它们。 单击 **下一个** 完成时。
 
 PICC
 
@@ -88,7 +88,7 @@ PICC
 
 >[!NOTE]
 >
->要将人员从Sales Connect添加到Marketo Campaign，Sales Connect必须具有人员的Marketo潜在客户ID。
+>要将人员从Sales Connect添加到Marketo Campaign，Sales Connect必须具有人员的Marketo商机ID。
 
 1. 单击“工作区”下拉列表，然后选择包含要将组添加到其中的活动的工作区。
 
@@ -102,6 +102,6 @@ PICC
 
 PICC
 
-1. 您看到的是符合条件的联系人。 单击 **开始** 才能添加这些元素。
+1. 您看到的是符合条件的联系人。 单击 **开始** 以添加它们。
 
 PICC

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在审核记录中筛选 {#filtering-in-audit-trail}
 
-按时间范围、资源类型、用户、采取的操作等筛选。
+按时间范围、资源类型、用户、采取的操作等过滤。
 
 1. 单击 **[!UICONTROL 管理员]**.
 
@@ -29,17 +29,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >可能的搜索参数组合有很多。 在此示例中，我们找到： _所有过去七天内的电子邮件 — 由任何人编辑_.
+   >有许多可能的搜索参数组合。 在此示例中，我们找到： _过去七天中的所有电子邮件 — 由任何人编辑_.
 
-1. 单击 **[!UICONTROL 期间]** 下拉菜单并选择 **[!UICONTROL 最近7天]**.
+1. 单击 **[!UICONTROL 期间]** 下拉并选择 **[!UICONTROL 最近7天]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. 单击 **[!UICONTROL 资源类型]** 下拉菜单并选择 **[!UICONTROL 电子邮件]**.
+1. 单击 **[!UICONTROL 资源类型]** 下拉并选择 **[!UICONTROL 电子邮件]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. 单击 **Actions** 下拉菜单并选择 **[!UICONTROL 编辑]**.
+1. 单击 **Actions** 下拉并选择 **[!UICONTROL 编辑]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果启用了工作区，您将看到所有工作区的审核数据。 如果应用工作区过滤器，Marketo会在您每次使用审核跟踪时记住以前的工作区值。 在资源级别强制执行工作区权限。
+   >如果已启用工作区，您将看到所有工作区的审核数据。 如果应用工作区过滤器，Marketo会在每次使用审核跟踪时记住以前的工作区值。 强制实施资源级别的工作区权限。
 
    >[!MORELIKETHIS]
    >

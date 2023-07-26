@@ -34,12 +34,12 @@ ht-degree: 0%
    目前有7个内置主题：
 
    * 简单
-   * 内嵌
+   * 内缩
    * 发光
    * Round
    * 深色
    * 阴影
-   * 普通
+   * Plain
 
    >[!TIP]
    >
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
-这有多容易?!您可以让HTML/CSS书籍现在收集一些灰尘。
+这太简单了?!您可以让您的HTML/CSS书籍现在收集一些灰尘。
 
 >[!MORELIKETHIS]
 >

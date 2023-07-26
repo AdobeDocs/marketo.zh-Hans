@@ -15,7 +15,7 @@ ht-degree: 0%
 
 构建完批处理营销活动后，您可以选择立即运行或稍后运行。 下面是如何立即运行它的。
 
-1. 选择批量智能营销活动，转到 **计划** 选项卡，然后单击 **运行一次**.
+1. 选择批处理智能营销活动，转到 **计划** 选项卡，然后单击 **运行一次**.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 
@@ -32,4 +32,4 @@ ht-degree: 0%
    >[!NOTE]
    >
    >* [安排稍后运行的批量智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
-   >* [计划循环批处理活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
+   >* [计划循环批次活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)

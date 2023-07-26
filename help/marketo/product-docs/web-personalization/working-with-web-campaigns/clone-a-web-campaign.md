@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 克隆Web营销活动 {#clone-a-web-campaign}
 
-使用Web营销活动页面上的克隆功能，可以复制营销活动设置并更改内容以进行剥离测试优化，也可以克隆具有相同内容的营销活动并将其定位到不同的区段。 只需几秒钟即可创建Web营销活动！
+使用“Web营销活动”页面上的克隆功能可以复制营销活动设置并更改内容以进行剥离测试优化，也可以克隆具有相同内容的营销活动并将其定位到不同的区段。 在秒内创建Web营销活动！
 
 ## 创建克隆营销活动 {#create-a-clone-campaign}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >为了更便于查找所需的Web营销活动，请使用 [筛选功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >为了更便于查找所需的Web营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. 对于Web营销活动，单击 **克隆**.
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Web营销活动中的所有内容都会复制到克隆营销活动中，但拆分测试除外，因此，如果您要针对其他活动进行测试，请不要忘记将拆分测试组添加到克隆营销活动中。
+   >Web营销活动中的所有内容都会复制到克隆营销活动中，但拆分测试除外，因此，如果您想要针对其他活动进行测试，请不要忘记向克隆营销活动添加拆分测试组。
 
 >[!MORELIKETHIS]
 >

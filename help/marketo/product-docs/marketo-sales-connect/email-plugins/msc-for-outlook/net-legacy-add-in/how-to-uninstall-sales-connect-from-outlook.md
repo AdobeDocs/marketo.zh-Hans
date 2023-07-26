@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->对.Net加载项的支持已于2019年5月19日终止。 [单击此处](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) 了解更多信息。
+>对.Net加载项的支持已于2019年5月19日停止。 [单击此处](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) 了解更多信息。
 
 1. 单击 **开始** 菜单。
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 1. 导航到控制面板。
 
-1. 拉出“Add/Remove a Program（添加/删除程序）”。
+1. 调出“Add/Remove a Program（添加/删除程序）”。
 
 1. 从列表中选择ToutApp并选择 **删除它**.

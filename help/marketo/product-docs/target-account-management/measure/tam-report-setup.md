@@ -6,7 +6,7 @@ exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ TAM销售报告是一封每周发送给客户团队的个性化电子邮件。
 
    ![](assets/three-3.png)
 
-1. 单击 **日** 下拉列表，然后选择您希望收件人在一周中接收电子邮件的日期。
+1. 单击 **天** 下拉列表，然后选择您希望收件人在一周中收到电子邮件的日期。
 
    ![](assets/four-4.png)
 
@@ -37,7 +37,7 @@ TAM销售报告是一封每周发送给客户团队的个性化电子邮件。
 
    ![](assets/five-3.png)
 
-1. 查看 **用户** 复选框，然后单击下拉菜单并选择您希望接收电子邮件的用户。
+1. 查看 **用户** 复选框，然后单击下拉菜单并选择要接收电子邮件的用户。
 
    ![](assets/six-2.png)
 
@@ -67,7 +67,7 @@ TAM销售报告是一封每周发送给客户团队的个性化电子邮件。
 
    ![](assets/tam-report-setup-10.png)
 
-1. 在每周报告下，单击列为已取消订阅的数字。
+1. 在“每周报告”下，单击列为“已取消订阅”的数字。
 
    ![](assets/nine.png)
 
@@ -75,6 +75,6 @@ TAM销售报告是一封每周发送给客户团队的个性化电子邮件。
 
    ![](assets/ten.png)
 
-1. 再次选择要接收电子邮件的用户，然后单击 **重新订阅**.
+1. 选择要再次接收电子邮件的用户，然后单击 **重新订阅**.
 
    ![](assets/eleven.png)

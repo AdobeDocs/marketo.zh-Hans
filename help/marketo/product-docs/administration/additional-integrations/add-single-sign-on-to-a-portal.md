@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 将单点登录添加到门户 {#add-single-sign-on-to-a-portal}
 
-如果您拥有对用户进行身份验证的目录服务，则可以允许单点登录(SSO)进入Marketo。 我们使用以下方式支持此功能 [!DNL Security Assertion Markup Language] (SAML)版本2.0及更高版本。
+如果您的目录服务对用户进行身份验证，则可以允许单点登录(SSO)进入Marketo。 我们使用以下方式支持此功能 [!DNL Security Assertion Markup Language] (SAML)版本2.0及更高版本。
 
-Marketo充当SAML服务提供商(SP)，依靠外部身份提供程序(IdP)对用户进行身份验证。
+Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)对用户进行身份验证。
 
 启用SSO后，IdP可以验证用户的凭据。 当用户希望使用Marketo软件时，IdP随后会向Marketo发送一条签名的SAML消息，充当SP。 此消息向Marketo保证用户有权使用Marketo软件。
 
@@ -32,7 +32,7 @@ Marketo充当SAML服务提供商(SP)，依靠外部身份提供程序(IdP)对用
 * 将SSO请求（一个SAML响应）发送到 `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
 * 作为SP的受众URL。 使用 `http://saml.marketo.com/sp`
 * 如果使用SPNameQualifier属性，请将Subject的NameID元素设置为 `http://saml.marketo.com/sp`
-* 如果您要将多个Marketo订阅联合到同一个SSO提供商，则可以使用格式为每个Marketo子使用唯一的SP URL `http://saml.marketo.com/sp/<munchkin_id>`
+* 如果您将多个Marketo订阅联合到同一个SSO提供商，则可以对每个Marketo子使用唯一的SP URL，格式为 `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
@@ -41,19 +41,19 @@ Marketo充当SAML服务提供商(SP)，依靠外部身份提供程序(IdP)对用
 ## 其他说明 {#additional-notes}
 
 * **同步时间**  — 对于新用户，在处理初始SSO请求之前，大约会延迟10分钟。
-* **用户设置** - Marketo手动配置用户。
+* **用户设置**  — 由Marketo手动配置用户。
 * **授权**  — 在Marketo中维护用户权限。
 * **OAuth支持** - Marketo当前不支持OAuth。
-* **自动用户传播**  — 也称为“准时配置”，这是指用户首次通过SAML登录时，能够在用户访问的任何网络应用程序(例如Marketo)中创建用户，并且无需手动管理操作的情况。 Marketo目前不支持此功能。
+* **自动用户传播**  — 也称为“准时配置”，这是指用户首次通过SAML登录时，能够在用户访问的任何网络应用程序(例如Marketo)中创建用户，并且无需手动管理操作。 目前Marketo不支持此功能。
 * **加密** - Marketo当前不支持加密。
 
 >[!NOTE]
 >
->在开始之前，请将X.509格式的身份提供程序证书扩展名为.crt、.der或.cer。
+>开始之前，请让您的身份提供程序证书采用X.509格式并具有.crt、.der或.cer扩展名。
 
 ## 更新SAML设置 {#update-saml-settings}
 
-默认情况下，SSO处于禁用状态。 按照以下步骤启用SAML并对其进行配置。
+默认情况下，禁用SSO。 按照以下步骤启用SAML并对其进行配置。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -95,13 +95,13 @@ Marketo充当SAML服务提供商(SP)，依靠外部身份提供程序(IdP)对用
 
    >[!NOTE]
    >
-   >使用通用ID和SSO的客户必须在以下位置输入身份提供程序的登录URL： **[!UICONTROL 登录URL]** 字段。
+   >使用通用ID及SSO的客户必须在以下位置输入身份提供程序的登录URL： **[!UICONTROL 登录URL]** 字段。
 
 1. 输入 **[!UICONTROL 注销URL]**. 这是您希望用户注销Marketo时定向到的URL。
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. 输入 **[!UICONTROL 错误URL]**. 这是您希望用户定向到的URL，以防登录Marketo失败。 单击 **[!UICONTROL 保存]**.
+1. 输入 **[!UICONTROL 错误URL]**. 这是您希望用户在登录Marketo失败时导向到的URL。 单击 **[!UICONTROL 保存]**.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 
@@ -112,5 +112,5 @@ Marketo充当SAML服务提供商(SP)，依靠外部身份提供程序(IdP)对用
 >[!MORELIKETHIS]
 >
 >* [使用通用ID进行订阅登录](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
->* [仅限用户登录SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [使用通用ID将Marketo用户邀请到两个实例](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [限制用户仅登录SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [使用通用ID将Marketo用户邀请至两个实例](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

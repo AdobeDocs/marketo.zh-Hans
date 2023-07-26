@@ -15,9 +15,9 @@ ht-degree: 0%
 
 在此报表中，您可以查看一段时间内关键字的排名情况。
 
-## 加载报告 {#load-report}
+## 加载报表 {#load-report}
 
-1. 转到 **[!UICONTROL 报告]**.
+1. 转到 **[!UICONTROL 报表]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
@@ -29,18 +29,18 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a13-3a22.png)
 
-   所描述的报表项：
+   所描述的报告项：
 
    | 项目 | 描述 |
    |---|---|
    | [!UICONTROL 关键字] | 您正在跟踪的关键字数。 |
-   | [!UICONTROL 排名URL] | 网站排名上的URL数量在您设置的范围中。 |
+   | [!UICONTROL 排名URL] | 网站排名在您设置的范围中的URL数。 |
    | [!UICONTROL 平均 排名] | 在设置的范围中关键字的平均排名。 |
-   | [!UICONTROL 平均 搜索] | 在Google US搜索中，在您设置的范围（过去30天）内发生的对这些关键字的平均搜索次数 |
+   | [!UICONTROL 平均 搜索] | 在Google US搜索中，在您设置的范围（过去30天）内对这些关键字发生的平均搜索次数 |
 
 ## 筛选数据 {#filtering-data}
 
-1. 单击下拉菜单并选择所需的时段。
+1. 单击下拉列表，然后选择所需的时段。
 
    ![](assets/image2014-9-18-14-3a13-3a40.png)
 
@@ -58,8 +58,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   做得好！ 您还可以从关键词排名中了解与竞争对手的对比情况。
+   做得好！您还可以在关键词排名中查看与竞争对手的对比情况。
 
    >[!NOTE]
    >
-   >[使用KW竞争力排名趋势报表](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+   >[使用“KW竞争力排名趋势”报表](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

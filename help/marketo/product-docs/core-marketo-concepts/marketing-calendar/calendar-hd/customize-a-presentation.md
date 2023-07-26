@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7503973
-description: 自定义演示 — Marketo文档 — 产品文档
+description: 自定义演示文稿 — Marketo文档 — 产品文档
 title: 自定义演示
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
@@ -36,15 +36,15 @@ Presentations循环访问不同的 [筛选器定义](/help/marketo/product-docs/
 
 ## 添加目标 {#add-a-goal}
 
-Presentations在展示团队目标时是最棒的。 拖动到不同的位置 [自定义目标](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [smart list goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. 您最多可以使用10个。
+Presentations展示您团队的目标时是最棒的。 拖动到其他位置 [自定义目标](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [smart list goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. 您最多可以使用10个。
 
-1. 从右边的树中，拖入您希望在演示文稿中显示的不同目标。
+1. 从右树中，拖入要在演示文稿中显示的不同目标。
 
    ![](assets/image2015-3-24-14-3a23-3a26.png)
 
 ## 设置旋转频率 {#set-the-frequency-of-rotation}
 
-拉入演示文稿中所需的视图后，请设置视图在不同视图之间旋转的频率。
+在演示文稿中拉入所需的视图后，请设置视图在不同视图之间旋转的频率。
 
 1. 单击 **[!UICONTROL 5分钟]** （这是默认节奏）。
 
@@ -60,9 +60,9 @@ Presentations在展示团队目标时是最棒的。 拖动到不同的位置 [�
 
 ## 设置日历显示 {#set-the-calendar-display}
 
-日历显示可以更改为3周或每月视图。
+日历显示可更改为3周或每月视图。
 
-1. 选择 **[!UICONTROL 日历显示]** 下拉菜单并从中进行选择 **[!UICONTROL 3周]** 或一个 **[!UICONTROL 月]**.
+1. 选择 **[!UICONTROL 日历显示]** 下拉菜单并选择其中 **[!UICONTROL 3周]** 或一个 **[!UICONTROL 月]**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 

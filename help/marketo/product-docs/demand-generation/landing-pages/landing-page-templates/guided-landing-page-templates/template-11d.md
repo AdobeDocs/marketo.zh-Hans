@@ -17,16 +17,16 @@ ht-degree: 0%
 
 ![](assets/template-11d.png)
 
-此模板包含以下内容：
+此模板包括以下内容：
 
-* 标头（可选）
+* 标题（可选）
 * 主分区
 
    * 包括主页标题、主页文本和调查
 
-* 七个正文部分（可选）
+* 七个身体部分（可选）
 * 页脚（可选）
 
-**右键单击以下内容可下载此模板：**
+**右键单击以下内容以下载此模板：**
 
 [模板11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)

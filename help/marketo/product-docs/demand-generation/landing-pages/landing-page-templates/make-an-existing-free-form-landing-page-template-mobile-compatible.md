@@ -45,11 +45,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >升级应该无害，但请确保检查页面中是否存在任何差异。 升级将使用该模板创建任何登陆页面的草稿。
+   >升级应该无害，但请确保检查页面是否有任何差异。 升级将使用该模板创建任何登陆页面的草稿。
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## 什么使模板移动设备兼容？ {#what-makes-a-template-mobile-compatible}
+## 是什么使模板移动设备兼容？ {#what-makes-a-template-mobile-compatible}
 
 好问题！ 您的模板必须具有以下标记：
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
-如果出现错误，将显示错误消息，请单击“修复”以修复问题并重复验证过程。
+如果出现错误，将显示一条错误消息，请单击“修复”以修复问题并重复验证过程。
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
@@ -67,18 +67,18 @@ ht-degree: 0%
 
 ## 从自由格式登陆页面编辑器升级模板 {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
-在编辑登陆页面时，当您单击“移动设备”选项卡时，您有时会注意到模板尚未升级。 不要害怕！ 您可以在此处进行升级。
+在编辑登陆页并单击移动设备选项卡时，您有时会注意到模板尚未升级。 不要害怕！ 你可以在这里升级它。
 
 1. 单击 **移动设备** 选项卡。
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. 单击该复选框并单击 **激活**.
+1. 单击该复选框，然后单击 **激活**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
    >[!NOTE]
    >
-   >激活模板的移动设备版本将创建使用该模板的任何登陆页面的草稿。
+   >激活模板的移动版本将会创建使用该模板的任何登陆页面的草稿。
 
-太棒了！ 您现在可以 [自定义移动设备视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) 您所有使用此模板的登陆页面的URL。
+太棒了！ 您现在可以 [自定义移动设备视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) 您所有使用此模板的登陆页面的ID。

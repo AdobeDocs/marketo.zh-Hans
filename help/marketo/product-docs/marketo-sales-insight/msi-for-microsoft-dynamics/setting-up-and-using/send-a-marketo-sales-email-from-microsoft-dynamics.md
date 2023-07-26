@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953338
-description: 从Microsoft Dynamics发送Marketo销售电子邮件 — Marketo文档 — 产品文档
+description: 从Marketo Dynamics发送Microsoft销售电子邮件 — Marketo文档 — 产品文档
 title: 从Microsoft Dynamics发送Marketo销售电子邮件
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 从Microsoft Dynamics发送Marketo销售电子邮件 {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-您的销售团队可以发送电子邮件，并直接从Microsoft Dynamics中跟踪打开数和点击数。 下面是具体操作方法。
+您的销售团队可以发送电子邮件，并直接从Microsoft Dynamics中跟踪打开数和点击数。 具体方法如下。
 
 1. 在Dynamics中，转到 **销售** 区域。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以 [将电子邮件作为模板发布](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) 供您的销售团队使用。
+   >您可以 [将电子邮件作为模板发布](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) 以供您的销售团队使用。
 
 1. 添加主题、撰写电子邮件并单击 **发送电子邮件**. （如果需要模板，请选择模板。）
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    您可以单击 **发送测试电子邮件** 首先，该电子邮件将在发送实际电子邮件之前发送给您(Microsoft Dynamics中的主电子邮件地址)。
 
-做得好！ 现在，您已知道如何直接从Microsoft Dynamics中发送Marketo跟踪电子邮件。
+做得好！ 现在，您已了解如何直接从Marketo Dynamics中发送Microsoft跟踪电子邮件。
 
 >[!MORELIKETHIS]
 >

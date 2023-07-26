@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 编辑电子邮件的预测内容 {#edit-predictive-content-for-emails}
 
-以下是如何设置电子邮件的预测内容。
+下面是如何为电子邮件设置预测内容的。
 
 >[!PREREQUISITES]
 >
@@ -51,11 +51,11 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 单击并拖动滑块可更改图像大小。 然后，单击并拖动裁剪框以隔离要使用的所需图像区域。 单击 **预览** 完成时。
+1. 单击并拖动滑块可更改图像大小。 然后单击并拖动裁剪框以隔离要使用的所需图像区域。 单击 **预览** 完成时。
 
    ![](assets/six.png)
 
-1. 单击侧面的箭头可在每个电子邮件布局预览中滚动浏览并查看内容（显示两个选项）。
+1. 单击两侧的箭头可在每个电子邮件布局预览中滚动浏览并查看您的内容（显示两个选项）。
 
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
@@ -74,4 +74,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在Marketo电子邮件编辑器v2.0中，您还可以 [查看布局模板](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) 在启用内容时使用。
+   >在Marketo电子邮件编辑器v2.0中，您还可以 [查看布局模板](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) 在启用内容时，您会使用。

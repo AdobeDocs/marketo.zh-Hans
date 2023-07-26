@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 添加页面 {#seo-add-pages}
 
-你有页！ Marketo SEO将自动爬网并跟踪您的网站。 如果我们错过了几个体验片段，请按照以下方式在SEO应用程序中获取它们：
+你有页！ Marketo SEO将自动爬网并跟踪您的网站。 如果我们错过了几个，请按照以下方式在SEO应用程序中获取它们：
 
 1. 转到 **[!UICONTROL 页面]** 部分。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >你知道你可以 [将您的页面添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)？ 看看吧！
+   >你知道你可以 [将您的页面添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)？ 看啊！
 
    加载页面数据可能需要一些时间。 等待绿色警报消息并刷新页面以更新显示。
 

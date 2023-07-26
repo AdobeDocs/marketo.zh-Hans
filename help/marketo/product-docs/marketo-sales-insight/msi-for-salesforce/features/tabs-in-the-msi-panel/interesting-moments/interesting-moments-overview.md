@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949720
-description: 有趣时刻概述 — Marketo文档 — 产品文档
-title: 有趣时刻概述
+description: 有趣的时刻概述 — Marketo文档 — 产品文档
+title: 有趣的时刻概述
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# 有趣时刻概述 {#interesting-moments-overview}
+# 有趣的时刻概述 {#interesting-moments-overview}
 
-您可以使用有趣的时刻流程步骤让您的销售团队了解您的销售线索在Smart Campaign中正在做的有趣事情。
+您可以使用有趣的时刻流程步骤让您的销售团队能够了解您的潜在客户在Smart Campaign中正在执行的有趣操作。
 
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 

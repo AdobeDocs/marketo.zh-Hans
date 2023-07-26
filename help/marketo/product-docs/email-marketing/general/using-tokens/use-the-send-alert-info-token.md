@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->仅当使用发送包含此令牌的电子邮件时，此令牌才会按预期工作 [发送警报](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) 流程步骤。 在“发送电子邮件”流程步骤中使用它时，它将不起作用。
+>仅当使用发送包含该令牌的电子邮件时，此令牌才会按预期工作 [发送警报](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) 流程步骤。 在“发送电子邮件”流程步骤中使用它时，它将不起作用。
 
 示例警报：
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->仅当人员在CRM系统中时（当前在Dynamics CRM中不可用），才会显示指向CRM的链接。 Marketo和非Marketo用户均可访问该链接。
+>仅当人员在CRM系统中（当前在Dynamics CRM中不可用）时，才会显示指向CRM的链接。 Marketo和非Marketo用户均可访问该链接。
 
 ## 将SP_Send_Alert_Info令牌添加到电子邮件中 {#add-the-sp-send-alert-info-token-to-an-email}
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 将光标置于您希望令牌所在的位置，然后单击 **插入令牌** 按钮。
+1. 将光标放在您希望令牌的位置，然后单击 **插入令牌** 按钮。
 
    ![](assets/three-3.png)
 
@@ -64,4 +64,4 @@ ht-degree: 0%
 >
 >别忘了批准您的电子邮件。
 
-好东西！ 此令牌非常有用，您应该将其用于您为销售团队创建的所有警报中。
+好东西！ 此令牌非常有用，您应在为销售团队创建的所有警报中使用它。

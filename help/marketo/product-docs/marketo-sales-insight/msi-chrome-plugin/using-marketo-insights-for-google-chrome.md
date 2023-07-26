@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用Marketo Insights for Google Chrome {#using-marketo-insights-for-google-chrome}
 
-使用Marketo Insights for Google Chrome发送和跟踪任何Google电子邮件。
+使用适用于Google Chrome的Marketo Insights发送和跟踪任何Google电子邮件。
 
 >[!PREREQUISITES]
 >
@@ -23,23 +23,23 @@ ht-degree: 0%
 >
 >Sales Insight Actions功能（包括“发送销售电子邮件”、“添加到Sales Campaign”和“任务”）在Gmail和Outlook的Sales Insight电子邮件插件中不可用。 目前，在使用Sales Insight电子邮件插件时，用户只能从其电子邮件客户端发送可跟踪电子邮件，无论是否包含Marketo电子邮件模板。
 
-## 发送包含Marketo Insights的电子邮件 {#send-an-email-with-marketo-insights}
+## 发送包含Marketo分析的电子邮件 {#send-an-email-with-marketo-insights}
 
 1. 在撰写窗口中，单击Marketo图标。
 
    ![](assets/image2015-10-5-14-3a57-3a53.png)
 
-1. “发送”按钮已变成Marketo紫色！ 现在，此电子邮件将随Marketo一起发送，所有链接都将受到跟踪，并且跟踪像素将插入到电子邮件中。 这将记录为“已发送销售电子邮件”活动。
+1. “发送”按钮已使Marketo变为紫色！ 现在，此电子邮件将随Marketo一起发送，所有链接都将被跟踪，并且电子邮件中将插入一个跟踪像素。 这将记录为“已发送销售电子邮件”活动。
 
    ![](assets/image2015-10-5-15-3a2-3a21.png)
 
    >[!NOTE]
    >
-   >跟踪像素让您知道是谁打开了您的电子邮件。
+   >通过跟踪像素，您可以知道是谁打开了您的电子邮件。
 
    >[!TIP]
    >
-   >（可选）单击双箭头可展开至全屏视图。
+   >（可选）单击双箭头以展开到全屏视图。
 
 1. 如果要使用已发布的Marketo模板预填充电子邮件，请单击 **更多选项** 并选择 **加载Marketo模板**.
 
@@ -55,9 +55,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >仅当满足以下条件时，才会跟踪消息： **发送** 按钮为紫色。
+   >仅当满足以下条件时，才会跟踪消息 **发送** 按钮为紫色。
 
-1. 该电子邮件将很快显示在您的Marketo Sales Insight中，并跟踪任何打开数和点击数。
+1. 此电子邮件将很快显示在您的Marketo Sales Insight中，并跟踪任何打开数和点击数。
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
@@ -76,4 +76,4 @@ ht-degree: 0%
    >[!MORELIKETHIS]
    >
    >* [安装Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-   >* [在Google Mail中查看人员和帐户信息以及活动](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
+   >* [在Google Mail中查看人员和帐户信息和活动](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

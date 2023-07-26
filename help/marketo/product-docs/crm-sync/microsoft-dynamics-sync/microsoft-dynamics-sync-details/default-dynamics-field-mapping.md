@@ -31,25 +31,25 @@ ht-degree: 18%
     <tr>
       <td>Microsoft 创建日期</td>
       <td>创建日期</td>
-      <td>createdon</td>
+      <td>创建</td>
     </tr>
     <tr>
       <td>称谓</td>
       <td>称谓</td>
-      <td>致敬</td>
+      <td>salutation</td>
     </tr>
     <tr>
-      <td>第一个</td>
+      <td>第一</td>
       <td>名字</td>
       <td>名字</td>
     </tr>
     <tr>
       <td>中间</td>
       <td>中间名称</td>
-      <td>中间名</td>
+      <td>middlename</td>
     </tr>
     <tr>
-      <td>最后</td>
+      <td>最后一个</td>
       <td>姓氏</td>
       <td>姓氏</td>
     </tr>
@@ -61,7 +61,7 @@ ht-degree: 18%
     <tr>
       <td>职务</td>
       <td>职务名称</td>
-      <td>jobtitle</td>
+      <td>工作标题</td>
     </tr>
     <tr>
       <td>电话</td>
@@ -71,7 +71,7 @@ ht-degree: 18%
     <tr>
       <td>移动</td>
       <td>手机</td>
-      <td>移动电话</td>
+      <td>手机</td>
     </tr>
     <tr>
       <td>传真</td>
@@ -91,12 +91,12 @@ ht-degree: 18%
     <tr>
       <td>州</td>
       <td>省/市/自治区</td>
-      <td>address1_stateorprovince</td>
+      <td>address1_stateorprovidle</td>
     </tr>
     <tr>
       <td>国家</td>
       <td>国家/地区</td>
-      <td>address1_country</td>
+      <td>地址1_国家/地区</td>
     </tr>
     <tr>
       <td>邮政编码</td>
@@ -150,7 +150,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>Microsoft不发送电子邮件</td>
-      <td>不允许电子邮件</td>
+      <td>不允许发送电子邮件</td>
       <td>donotemail</td>
     </tr>
     <tr>
@@ -171,7 +171,7 @@ ht-degree: 18%
     <tr>
       <td>Microsoft首选联系方式</td>
       <td>首选联系方式</td>
-      <td>preferredcontactmethodode</td>
+      <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
       <td>Microsoft主题</td>
@@ -179,13 +179,13 @@ ht-degree: 18%
       <td>主题</td>
     </tr>
     <tr>
-      <td>上一个有趣时刻的日期</td>
-      <td>上一个有趣时刻的日期</td>
+      <td>上一个有趣的时刻日期</td>
+      <td>上一个有趣的时刻日期</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>上一个有趣时刻描述</td>
-      <td>上一个有趣时刻描述</td>
+      <td>上一个有趣时刻说明</td>
+      <td>上一个有趣时刻说明</td>
       <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
@@ -248,8 +248,8 @@ ht-degree: 18%
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>创建日期</td>
-      <td>createdon</td>
+      <td>创建时间</td>
+      <td>创建</td>
     </tr>
   </tbody>
 </table>
@@ -271,25 +271,25 @@ ht-degree: 18%
     <tr>
       <td>Microsoft 创建日期</td>
       <td>创建日期</td>
-      <td>createdon</td>
+      <td>创建</td>
     </tr>
     <tr>
       <td>称谓</td>
       <td>称谓</td>
-      <td>致敬</td>
+      <td>salutation</td>
     </tr>
     <tr>
-      <td>第一个</td>
+      <td>第一</td>
       <td>名字</td>
       <td>名字</td>
     </tr>
     <tr>
       <td>中间</td>
       <td>中间名称</td>
-      <td>中间名</td>
+      <td>middlename</td>
     </tr>
     <tr>
-      <td>最后</td>
+      <td>最后一个</td>
       <td>姓氏</td>
       <td>姓氏</td>
     </tr>
@@ -301,7 +301,7 @@ ht-degree: 18%
     <tr>
       <td>职务</td>
       <td>职务</td>
-      <td>jobtitle</td>
+      <td>工作标题</td>
     </tr>
     <tr>
       <td>电话</td>
@@ -311,7 +311,7 @@ ht-degree: 18%
     <tr>
       <td>移动</td>
       <td>手机</td>
-      <td>移动电话</td>
+      <td>手机</td>
     </tr>
     <tr>
       <td>地址</td>
@@ -326,12 +326,12 @@ ht-degree: 18%
     <tr>
       <td>州</td>
       <td>地址1：州/省</td>
-      <td>address1_stateorprovince</td>
+      <td>address1_stateorprovidle</td>
     </tr>
     <tr>
       <td>国家</td>
       <td>地址1：国家/地区</td>
-      <td>address1_country</td>
+      <td>地址1_国家/地区</td>
     </tr>
     <tr>
       <td>邮政编码</td>
@@ -370,7 +370,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>Microsoft不发送电子邮件</td>
-      <td>不允许电子邮件</td>
+      <td>不允许发送电子邮件</td>
       <td>donotemail</td>
     </tr>
     <tr>
@@ -381,11 +381,11 @@ ht-degree: 18%
     <tr>
       <td>Microsoft首选联系方式</td>
       <td>首选联系方式</td>
-      <td>preferredcontactmethodode</td>
+      <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
-      <td>上一个有趣时刻的日期</td>
-      <td>上一个有趣时刻的日期</td>
+      <td>上一个有趣的时刻日期</td>
+      <td>上一个有趣的时刻日期</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
@@ -399,8 +399,8 @@ ht-degree: 18%
       <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>上一个有趣时刻描述</td>
-      <td>上一个有趣时刻描述</td>
+      <td>上一个有趣时刻说明</td>
+      <td>上一个有趣时刻说明</td>
       <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
@@ -434,7 +434,7 @@ ht-degree: 18%
       <td>描述 </td>
     </tr>
     <tr>
-      <td>人员得分</td>
+      <td>个人得分</td>
       <td>潜在客户分数</td>
       <td>mkt_leadscore</td>
     </tr>
@@ -446,7 +446,7 @@ ht-degree: 18%
   </tbody>
 </table>
 
-以下“联系人”字段已同步以供内部使用。
+以下Contact字段已同步以供内部使用。
 
 <table>
   <colgroup>
@@ -463,8 +463,8 @@ ht-degree: 18%
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>创建日期</td>
-      <td>createdon</td>
+      <td>创建时间</td>
+      <td>创建</td>
     </tr>
     <tr>
       <td>parentcustomerid</td>
@@ -505,7 +505,7 @@ ht-degree: 18%
     <tr>
       <td>帐单寄送国家</td>
       <td>地址1：国家/地区</td>
-      <td>address1_country</td>
+      <td>地址1_国家/地区</td>
     </tr>
     <tr>
       <td>帐单邮政编码</td>
@@ -607,8 +607,8 @@ ht-degree: 18%
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>创建日期</td>
-      <td>createdon</td>
+      <td>创建时间</td>
+      <td>创建</td>
     </tr>
   </tbody>
 </table>
@@ -703,7 +703,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>Microsoft 类型</td>
-      <td>潜在客户或联系人。 如果为空，则潜在客户仅以Marketo中的人员的身份存在</td>
+      <td>潜在客户或联系人。 如果为空，则商机在Marketo中仅作为人员存在</td>
     </tr>
     <tr>
       <td>Microsoft 创建日期</td>
@@ -711,7 +711,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>Microsoft已删除</td>
-      <td>此人以前在Microsoft，但现在已被删除，仅居住在Marketo</td>
+      <td>此人以前在Microsoft中，但现在已被删除，仅居住在Marketo中</td>
     </tr>
   </tbody>
 </table>

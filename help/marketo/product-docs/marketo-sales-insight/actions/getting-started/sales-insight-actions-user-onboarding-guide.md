@@ -14,14 +14,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是一个基于Web的应用程序，它通过 [Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 它有时称为“Marketo Sales”，或简称为“Actions”。
+>Marketo Sales Insight Actions是一个基于Web的应用程序，它通过 [Marketo销售分析包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 它有时称为“Marketo Sales”，或简称为“Actions”。
 
 >[!PREREQUISITES]
 >
 >* 管理员需要邀请用户开始使用MSI操作。
->* 要通过Salesforce激活您的帐户，您需要在Salesforce配置文件权限中启用“API”。
+>* 要通过Salesforce激活您的帐户，您需要在Salesforce配置文件权限中“启用API”。
 
-新用户需要遵循以下步骤。
+新用户需要执行以下步骤。
 
 1. 在欢迎电子邮件中，单击 **开始使用**.
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
-1. 如果您已登录Salesforce帐户，则会自动将您导向到下一个屏幕。 如果您未登录，请立即登录。
+1. 如果您已经登录Salesforce帐户，系统会自动将您导向到下一个屏幕。 如果您未登录，请立即登录。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-3.png)
 
 >[!NOTE]
 >
->您的Salesforce电子邮件ID和销售帐户电子邮件ID必须相同。
+>您的salesforce电子邮件ID和销售帐户电子邮件ID必须相同。
 
 1. 单击 **允许**.
 
@@ -71,11 +71,11 @@ ht-degree: 0%
 >
 >如果选择Outlook，您将看到Outlook身份验证屏幕，您将在该屏幕中输入电子邮件地址。
 
-1. 您会看到“设置电子邮件连接”成功消息，然后您将被发送到下一个屏幕。
+1. 您会看到设置电子邮件连接成功消息，然后您将被发送到下一个屏幕。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-11.png)
 
-1. 输入自定义签名并单击 **保存** (如果要在以后通过配置文件页面执行此操作，请单击 **跳过**)。
+1. 输入自定义签名并单击 **保存** (如果以后要通过配置文件页面执行此操作，请单击 **跳过**)。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
@@ -83,11 +83,11 @@ ht-degree: 0%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. 您可以看到用于查看Marketo销售操作快速介绍的选项。 单击 **下一个** 查看，或 **不是现在** 以保存供以后使用。
+1. 您将看到用于查看Marketo销售活动快速介绍的选项。 单击 **下一个** 查看，或 **不是现在** 以保存供以后使用。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. 完成导览后，或者如果您跳过了导览，请选择是直接登录Web应用程序，还是登录Salesforce帐户，您可以在其中从MSI面板访问所有功能(在本例中，我们选择 **启动Salesforce**)。
+1. 完成导览后，或者如果您跳过了导览，请选择是直接登录Web应用程序，还是登录Salesforce帐户，您可以在其中访问MSI面板的所有功能(在此示例中，我们将选择 **启动Salesforce**)。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 

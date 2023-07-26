@@ -6,14 +6,14 @@ exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 # 移动电子邮件 {#move-an-email}
 
-是否需要将电子邮件从一个程序移动到另一个程序？ 下面是具体操作方法。
+是否需要将电子邮件从一个程序移动到另一个程序？ 具体方法如下。
 
 1. 转到 **营销活动**.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >在本例中，我们正在将电子邮件移动到另一个程序，但您也可以将电子邮件移动到Design Studio中的文件夹。
 
-   现在，您将看到自己的电子邮件存在于另一个程序中。
+   现在，您将看到您的电子邮件位于另一个程序中。
 
    ![](assets/move-an-email-4.png)
 

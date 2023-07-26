@@ -19,13 +19,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >为了更便于查找所需的Web营销活动，请使用 [筛选功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >为了更便于查找所需的Web营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. 在Web营销活动页面上，单击 **删除** 要删除的营销活动上的标记。
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
-1. 此时将显示确认消息，确认是否要删除Web营销活动。
+1. 此时会显示确认消息，确认您是否要删除Web营销活动。
 
 >[!MORELIKETHIS]
 >

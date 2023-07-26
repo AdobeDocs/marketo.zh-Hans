@@ -17,11 +17,11 @@ ht-degree: 1%
 >
 >[创建代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-您可以将令牌、图像、文件或富文本添加到代码片段中。
+您可以将令牌、图像、文件或富文本添加到代码片段。
 
 >[!NOTE]
 >
->您无法嵌入任何 [Marketo电子邮件语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) 代码片段；它会 **非** 通过电子邮件工作。 代码片段应当只是正文内容(HTML+文本)。
+>您无法嵌入任何 [Marketo电子邮件语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) 在代码片段中；它会 **非** 通过电子邮件工作。 代码片段应当只是正文内容(HTML+文本)。
 
 1. 转到 **Design Studio**.
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您可以将自己的图像或文件添加到Marketo。 详细了解 [图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   >您可以将自己的图像或文件添加到Marketo。 了解有关 [图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. 选择 **图像** ，然后单击 **插入**.
 
@@ -81,7 +81,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >文本版本中删除了图像、链接和格式。
+   >删除了文本版本中的图像、链接和格式。
 
 酷！ 现在，您可以为代码片段创建各种内容。
 

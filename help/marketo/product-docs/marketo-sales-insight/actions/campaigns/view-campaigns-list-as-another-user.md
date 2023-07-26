@@ -26,10 +26,10 @@ ht-degree: 0%
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 
-1. 您现在会以选定用户的身份查看营销活动。
+1. 您现在会以选定用户的身份查看促销活动。
 
    ![](assets/view-campaigns-list-as-another-user-3.png)
 
    >[!NOTE]
    >
-   >您还可以使用筛选器或搜索功能以及查看方式，以查看与您最相关的内容。
+   >您还可以使用筛选器或搜索功能以及查看方式，查看与您最相关的内容。

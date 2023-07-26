@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 删除表单 {#delete-a-form}
 
-如果您的表单不需要并且未被使用，则可以将其删除。 下面是具体操作方法。
+如果您的表单不需要并且未被使用，则可以将其删除。 具体方法如下。
 
 1. 转到 **营销活动**.
 
@@ -35,10 +35,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
-1. 如果该表单正在Marketo登录页面上使用，则将不允许删除该表单。 你必须从它所在的任何登陆页面中移除它。
+1. 如果该表单正在Marketo登录页面上使用，则将不允许您删除该表单。 你必须将它从它所在的任何登陆页面中移除。
 
    ![](assets/image2014-9-15-12-3a1-3a44.png)
 
 >[!CAUTION]
 >
->如果删除公共网站正在使用的表单，您将不会看到警告，并且该表单将损坏。 考虑  [存档它](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 而是。
+>如果删除公共网站正在使用的表单，您将不会看到警告，并且该表单将损坏。 考虑  [将其存档](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 而是。

@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 冠军/挑战者：定义冠军标准 {#champion-challenger-define-champion-criteria}
 
-设置测试类型后，您需要定义冠军标准。 下面是具体操作方法。
+设置测试类型后，您需要定义冠军标准。 具体方法如下。
 
 >[!PREREQUISITES]
 >
@@ -29,7 +29,7 @@ ht-degree: 1%
    >
    >我们将跟踪此量度，并通过电子邮件向您发送包含数据的报表。
 
-1. 如果您选择其中一个默认值 **冠军标准**，继续并转到 [冠军/挑战者：配置报表警报](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)！
+1. 如果您选择了一个默认值 **冠军标准**，请继续并转到 [冠军/挑战者：配置报表警报](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)！
 
 ## 自定义冠军标准 {#custom-champion-criteria}
 
@@ -41,7 +41,7 @@ ht-degree: 1%
    >
    >这允许您使用触发器和过滤器将任何事件设置为转化。
 
-1. 此时将弹出一个窗口 — 找到您选择的触发器并将其拖到画布中。
+1. 此时将弹出一个窗口 — 找到您选择的触发器并将其拖动到画布中。
 
    ![](assets/image2014-9-15-13-3a3-3a38.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 发行说明：2015年3月 {#release-notes-march}
 
-2015年3月版本中包含以下功能。 请检查您的Marketo版本是否提供了相关功能。 发布后，请务必返回以查找每个功能的详细文章链接。
+2015年3月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细文章的链接。
 
 ## 日历HD {#calendar-hd}
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ## Google Adwords集成 {#google-adwords-integration}
 
-关联您的 [Google AdWords帐户到Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) 自动将离线转化数据从Marketo上传到Google AdWords。 然后，通过AdWords UI，您将能够轻松查看哪些点击产生了符合条件的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段）。
+关联您的 [Google AdWords帐户到Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) 自动将离线转化数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够轻松查看哪些点击产生了符合条件的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段）。
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
 ## 收入资源管理器重新设计 {#revenue-explorer-redesign}
 
-Revenue Explorer具有全新的外观，以及新的环状层次图类型！ 我们将在4月的前两周推广此功能。
+Revenue Explorer具有全新的外观，以及新的环状层次图类型！ 我们将在4月的前两周推出此功能。
 
 ## 新资产REST API {#new-asset-rest-apis}
 
@@ -47,10 +47,10 @@ Revenue Explorer具有全新的外观，以及新的环状层次图类型！ 我
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
-## RTP — 使用潜在客户数据的个性化Web参与 {#rtp-personalized-web-engagement-with-lead-data}
+## RTP — 包含潜在客户数据的个性化Web参与 {#rtp-personalized-web-engagement-with-lead-data}
 
-利用 [商机数据字段](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) 您可以在Marketo lead数据库中创建实时分段和个性化内容营销活动。 在RTP中管理您的潜在客户数据字段，并添加/删除相关的潜在客户字段。
+利用 [商机数据字段](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) 您可以在Marketo Lead数据库中创建实时分段和个性化内容促销活动。 在RTP中管理您的潜在客户数据字段并添加/删除相关的潜在客户字段。
 
 ## RTP — 按电子邮件或项目群促销活动名称个性化Web内容 {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-继续跨渠道（从电子邮件到Web）与潜在客户进行对话。 [根据电子邮件促销活动或项目群个性化入站内容](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) 在Marketo的营销活动中使用的名称。
+继续通过从电子邮件到Web的各种渠道与潜在客户进行对话。 [根据电子邮件促销活动或项目群个性化入站内容](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) 在Marketo的营销活动中使用的名称。

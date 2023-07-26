@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ![](assets/one.png)
 
-要按帐户列表进行筛选，请单击“查看”下拉列表……
+要按帐户列表进行筛选，请单击“视图”下拉列表……
 
 ![](assets/two.png)
 
-...并做出选择。 在此示例中，我们选择了“高科技”帐户列表。
+...并做出选择。 在本例中，我们将选择“高科技”帐户列表。
 
 ![](assets/three.png)
 
-要查看 [帐户列表仪表板](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard)中，单击所选帐户列表的名称……
+要查看 [帐户列表仪表板](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard)，单击您选择的帐户列表的名称……
 
 ![](assets/four.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/five.png)
 
-如果不想查看帐户列表仪表板，而想深入查看指定帐户，请单击 **更多详细信息** 在其名称下……
+如果您不想查看帐户列表仪表板，而想深入查看命名帐户，请单击 **更多详细信息** 在其名称下……
 
 ![](assets/six.png)
 

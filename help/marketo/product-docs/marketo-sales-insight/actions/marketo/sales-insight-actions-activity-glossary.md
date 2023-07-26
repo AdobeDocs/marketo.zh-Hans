@@ -1,5 +1,5 @@
 ---
-description: 销售分析操作活动术语表 — Marketo文档 — 产品文档
+description: Sales Insight Actions活动术语表 — Marketo文档 — 产品文档
 title: 销售分析操作活动术语表
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
@@ -12,13 +12,13 @@ ht-degree: 2%
 
 # 销售分析操作活动术语表 {#sales-insight-actions-activity-glossary}
 
-在Sales Insight Actions中，当销售商：向销售促销活动添加销售线索、向他们发送销售电子邮件或发出出站销售呼叫时，该销售线索将记录在该销售线索的Marketo活动历史记录下。 此外，当潜在客户收到电子邮件、打开、点击和回复时，也会被记录。
+在Sales Insight Actions中，当销售商：向销售促销活动添加销售线索、向他们发送销售电子邮件或发出出站销售呼叫时，该销售线索将记录在该销售线索的Marketo活动历史记录下。 此外，当商机收到电子邮件、打开、点击和回复时，也会记录该商机。
 
-以下活动将从Sales Insight操作记录到Marketo。
+以下活动将从Sales Insight Actions记录到Marketo。
 
 >[!NOTE]
 >
->这些活动和属性可从我们的REST和批量API中使用。
+>可以从我们的REST和批量API使用这些活动和属性。
 
 ## 活动 {#activities}
 
@@ -84,7 +84,7 @@ ht-degree: 2%
   <td>Marketo销售人员ID</td>
  </tr>
  <tr>
-  <th rowspan="10">已点击的销售电子邮件</th>
+  <th rowspan="10">点击的销售电子邮件</th>
   <td>链接</td>
  </tr>
  <tr>
@@ -125,7 +125,7 @@ ht-degree: 2%
   <td>Marketo销售人员ID</td>
  </tr>
  <tr>
-  <th rowspan="11">已接的销售电话</th>
+  <th rowspan="11">已收到的销售电话</th>
   <td>销售呼叫发起人</td>
  </tr>
  <tr>
@@ -159,7 +159,7 @@ ht-degree: 2%
   <td>Marketo销售人员ID</td>
  </tr>
  <tr>
-  <th rowspan="6">添加到促销活动</th>
+  <th rowspan="6">添加到销售活动</th>
   <td>促销活动名称</td>
  </tr>
  <tr>
@@ -178,7 +178,7 @@ ht-degree: 2%
   <td>促销活动ID</td>
  </tr>
  <tr>
-  <th rowspan="6">从促销活动中移除</th>
+  <th rowspan="6">从促销活动中删除</th>
   <td>促销活动名称</td>
  </tr>
  <tr>
@@ -236,7 +236,7 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td><strong>Marketo销售人员ID</strong></td> 
-   <td>销售分析操作中人员记录的唯一ID。</td> 
+   <td>销售分析活动中人员记录的唯一ID。</td> 
   </tr> 
   <tr> 
    <td><strong>接收者</strong></td> 
@@ -248,7 +248,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td><strong>销售呼叫持续时间</strong></td> 
-   <td>呼叫时长（以秒为单位）。</td> 
+   <td>呼叫的长度（以秒为单位）。</td> 
   </tr>
   <tr> 
    <td><strong>销售呼叫发起人</strong></td> 
@@ -268,7 +268,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td><strong>促销活动ID</strong></td> 
-   <td>销售分析操作中的促销活动资产的唯一ID。</td> 
+   <td>销售分析操作中促销活动资产的唯一ID。</td> 
   </tr>
   <tr> 
    <td><strong>促销活动名称</strong></td> 
@@ -288,7 +288,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td><strong>销售模板名称</strong></td> 
-   <td>销售分析操作中的电子邮件模板的名称。</td> 
+   <td>销售分析操作中电子邮件模板的名称。</td> 
   </tr>
   <tr> 
    <td><strong>销售模板URL</strong></td> 
@@ -300,7 +300,7 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td><strong>源</strong></td> 
-   <td>活动的来源。 对于2021年10月版之前的销售分析活动将设置为“Tout”。 在2021年10月版发布后，将成为销售分析操作活动的“销售应用程序”。</td>
+   <td>活动的源。 对于2021年10月版发行之前的销售分析活动将设置为“Tout”。 在2021年10月版发布后，将成为用于Sales Insight Actions活动的“销售应用程序”。</td>
   </tr> 
   <tr> 
    <td><strong>模板Id</strong></td> 

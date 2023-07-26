@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147237
-description: 按期间成本过滤项目报告 — Marketo文档 — 产品文档
+description: 按期间成本过滤项目报表 — Marketo文档 — 产品文档
 title: 按期间成本筛选项目报告
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
@@ -27,14 +27,14 @@ ht-degree: 0%
 
    ![](assets/lm-86194-1.png)
 
-1. 输入 **起始日期** 和 **至** 发生成本的日期，然后单击 **应用**.
+1. 输入 **从** 和 **至** 发生成本的日期，然后单击 **应用**.
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. 你完了！ 单击 **报告** 选项卡，以仅查看在指定时间段成本时间范围内的项目。
+1. 你完了！ 单击 **报表** 选项卡，以仅查看在指定时间段成本时间范围内的项目。
 
    ![](assets/lm-86194-report-tab.png)
 
    >[!NOTE]
    >
-   >[按项目群筛选项目群报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
+   >[按项目群过滤项目群报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)

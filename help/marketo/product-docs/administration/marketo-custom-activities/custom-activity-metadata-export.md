@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. 单击 **[!UICONTROL 自定义活动操作]** 下拉菜单并选择 **[!UICONTROL 导出活动]**.
+1. 单击 **[!UICONTROL 自定义活动操作]** 下拉并选择 **[!UICONTROL 导出活动]**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 >
 >自定义活动必须处于“已批准”状态才能导出。
 
-现在，您有一个包含自定义活动架构的电子表格，它横跨三个选项卡。
+现在，您有一个包含自定义活动架构的电子表格，可跨三个选项卡查看。

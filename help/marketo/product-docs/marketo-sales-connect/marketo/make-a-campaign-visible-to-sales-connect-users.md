@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使营销活动对Sales Connect用户可见 {#make-a-campaign-visible-to-sales-connect-users}
 
-仅当营销活动可见时，才能共享这些活动。 下面是如何做到的。
+只有当营销活动可见时，才能共享它们。 以下是具体操作方法。
 
 1. 选择（或创建）要共享的Campaign。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 对于源，请选择“is” **Web服务API**.
+1. 对于源，选择“is” **Web服务API**.
 
    ![](assets/4.png)
 
@@ -39,11 +39,11 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 对于“类型”，选择 **Web**.
+1. 对于Type，选择 **Web**.
 
    ![](assets/seven.png)
 
-1. 在Description框中，向您的销售团队写一条消息。 在此示例中，我们使用令牌指定填写的表单。
+1. 在Description框中，向您的销售团队发送一条消息。 在此示例中，我们使用令牌指定填写的表单。
 
    ![](assets/eight.png)
 

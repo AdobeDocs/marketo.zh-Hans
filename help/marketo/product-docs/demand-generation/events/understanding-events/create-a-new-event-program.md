@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949844
-description: 创建新事件程序 — Marketo文档 — 产品文档
+description: 创建新的事件程序 — Marketo文档 — 产品文档
 title: 创建新的事件程序
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
@@ -19,11 +19,11 @@ ht-degree: 1%
 
    ![](assets/ma.png)
 
-1. 为新项目选择文件夹。 选择 **新** 并单击 **新建项目群**.
+1. 为新项目选择文件夹。 选择 **新建** 并单击 **新建项目群**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. 选择事件的名称。 然后，在下 **项目类型**，选择 **事件**.
+1. 为您的事件选择一个名称。 然后，在下 **项目类型**，选择 **事件**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
@@ -31,7 +31,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >渠道定义了人员在一个项目中可以具有的不同状态。 详细了解 [计划会员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 此处。
+   >渠道定义了人员在一个项目中可以具有的不同状态。 了解有关 [计划会员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 此处。
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
@@ -51,9 +51,9 @@ ht-degree: 1%
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-创建事件后，构建 [登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)， [表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)、和 [电子邮件](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 邀请您的来宾！ 您还需要熟悉 [项目计划视图](https://docs.marketo.com/display/docs/program+schedule+view).
+创建事件后，构建 [登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)， [表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)、和 [电子邮件](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 邀请您的嘉宾！ 您还需要熟悉 [项目计划视图](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >
 >* [营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)
->* [在程序中使用期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+>* [在项目中使用期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)

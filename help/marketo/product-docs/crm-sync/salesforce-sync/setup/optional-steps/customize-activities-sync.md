@@ -44,7 +44,7 @@ ht-degree: 0%
  </thead> 
  <tbody> 
   <tr> 
-   <td>已填写的表单</td> 
+   <td>已填写表单</td> 
    <td>填写任意Marketo表单</td> 
   </tr> 
   <tr> 
@@ -65,7 +65,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已单击电子邮件中的链接</td> 
-   <td>已单击Marketo发送的电子邮件中的链接</td> 
+   <td>单击了Marketo发送的电子邮件中的链接</td> 
   </tr> 
   <tr> 
    <td>已从列表中删除</td> 
@@ -81,7 +81,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已打开销售电子邮件</td> 
-   <td>已打开通过Marketo Sales Insight发送的电子邮件</td> 
+   <td>打开通过Marketo Sales Insight发送的电子邮件</td> 
   </tr> 
   <tr> 
    <td>单击销售电子邮件中的链接</td> 
@@ -96,8 +96,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->“已收到的销售电子邮件”会 **非** 意思是成功了。 对于通过Sales Insight发送的电子邮件，不会捕获已投放状态。
+>“收到的销售电子邮件”会 **非** 意思是送达。 对于通过Sales Insight发送的电子邮件，不会捕获投放状态。
 
 >[!TIP]
 >
->如果您有兴趣将更多Marketo信息放入Salesforce，请查看我们的 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 产品。
+>如果您有兴趣向Salesforce获取更多Marketo信息，请查看我们的 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 产品。

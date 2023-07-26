@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 了解项目群 {#understanding-programs}
 
-项目代表单个营销计划。 您可以将其视为一个容器，其中包含使程序正常运行所需的所有内容 — 这些资源称为本地资产，包括 **登陆页面**， **电子邮件**， **智能营销活动**，等等。 项目做得很多，但很容易开始。
+项目代表单个营销计划。 您可以将其视为一个容器，其中包含使项目正常运行所需的所有内容 — 这些资源称为本地资产，包括 **登陆页面**， **电子邮件**， **智能营销活动**，等等。 程序可以执行很多操作，但很容易开始。
 
 有四种类型的程序：
 
 **事件程序**
 
-**[事件](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** 具有特定的时间和日期。 它们可帮助您协调、促进和跟踪您的实时和在线活动。
+**[活动](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** 具有特定的时间和日期。 它们可帮助您协调、促进和跟踪您的实时和在线活动。
 
 **参与计划**
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 **电子邮件程序**
 
-此 **[经典邮件爆炸](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. 它有酷酷的内置功能，如A/B测试和 **[电子邮件标头开始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
+此 **[经典邮件爆炸](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. 它有酷的内置功能，如A/B测试和 **[电子邮件标头开始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
-**默认程序**
+**默认项目群**
 
-默认计划是非事件、参与或电子邮件计划的任何项目。 发挥创造力。
+默认计划是非事件、参与或电子邮件计划的任意项目。 发挥创意。
 
 让我们开始吧！
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 >
 >* [创建项目](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [了解标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
->* [了解计划会员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>* [了解计划成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)

@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # 适用于Microsoft Dynamics的Marketo插件版本 {#marketo-plugin-releases-for-microsoft-dynamics}
 
-首次同步到Microsoft Dynamics时，您将下载Marketo插件的最新版本。 Marketo会定期更新这些插件，以便您可以返回到同一位置下载新版本。
+首次同步到Microsoft Dynamics时，您将下载Marketo的最新版本插件。 Marketo会定期更新这些插件，以便您能够返回到相同位置下载新版本。
 
 [下载最新的插件](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 与您的Dynamics版本相对应。
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 ## 正在更新您的Dynamics解决方案 {#updating-your-dynamics-solution}
 
-1. 通过现有Dynamics CRM版本导入最新版本的解决方案(例如：如果Dynamics CRM的版本为1.4，而最新版本为1.5，则导入 _超过_ 版本1.4)。
+1. 在现有Dynamics CRM版本的基础上导入最新版本的解决方案(例如：如果Dynamics CRM的版本为1.4，而最新版本为1.5，则导入 _超过_ 版本1.4)。
 
 1. 您将看到以下弹出窗口。 选择 **更新** 和 **维护自定义项**，然后单击 **导入**.
 
@@ -31,7 +31,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->这些版本适用于Dynamics的内部部署和联机版本。
+>这些版本适用于Dynamics的内部部署和在线版本。
 
 <table> 
  <tbody> 
@@ -53,7 +53,7 @@ ht-degree: 7%
   <tr> 
    <td colspan="1">4.0.0.24</td> 
    <td colspan="1">8/22/18</td> 
-   <td colspan="1">为Microsoft Dynamics版本9.x的现成可用潜在客户关联流程添加支持。</td> 
+   <td colspan="1">为开箱即用型添加支持，使潜在客户能够联系Microsoft Dynamics版本9.x的流程。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.23</td> 
@@ -63,7 +63,7 @@ ht-degree: 7%
   <tr> 
    <td colspan="1">4.0.0.22</td> 
    <td colspan="1">9/29/17</td> 
-   <td colspan="1">错误修复：内部修订版。</td> 
+   <td colspan="1">错误修复：内部修订。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
@@ -78,7 +78,7 @@ ht-degree: 7%
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>错误修复：创建机会时，发现了marketo日志中customeropportunityrole上不必要的更新事务。 </p><p>错误修复：删除customeropportunityrole实体时记录了额外的删除事务。</p></td> 
+   <td colspan="1"><p>错误修复：创建机会时，在marketo日志中记录了customeropportunityrole上不必要的更新事务。 </p><p>错误修复：删除customeropportunityrole实体时记录了额外的删除事务。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
@@ -88,12 +88,12 @@ ht-degree: 7%
   <tr> 
    <td colspan="1">4.0.0.17</td> 
    <td colspan="1">4/8/16</td> 
-   <td colspan="1">错误修复：当商机将同步筛选器设置为NO，并且商机和联系人没有同步筛选器时，当商机符合条件时，不会为联系人和商机生成创建日志。</td> 
+   <td colspan="1">错误修复：当商机将同步筛选器设置为NO，并且商机和联系人没有同步筛选器时，当商机符合条件时，不会为联系人和商机生成“创建日志”。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.16</td> 
    <td colspan="1">3/29/16</td> 
-   <td>错误修复：关闭同步筛选器时记录了一个分配事件。</td> 
+   <td>错误修复：关闭同步筛选器时，记录了一个分配事件。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.15</td> 
@@ -113,11 +113,11 @@ ht-degree: 7%
   <tr> 
    <td colspan="1">4.0.0.12</td> 
    <td colspan="1">11/12/15</td> 
-   <td colspan="1">错误修复：当同步筛选器设置为false时，潜在客户记录正在同步到Marketo。</td> 
+   <td colspan="1">错误修复：将同步筛选器设置为false时，潜在客户记录正在同步到Marketo。</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[下载Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[下载Marketo商机管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)

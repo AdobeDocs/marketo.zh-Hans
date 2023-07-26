@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 目标帐户管理 {#target-account-management-overview}
 
-营销人员，满足Target帐户管理要求。 Target客户管理，与营销人员会面。
+营销人员，满足Target帐户管理的要求。 Target客户管理，认识营销人员。
 
 ![](assets/photo-collage.png)
 
@@ -23,7 +23,7 @@ Marketo Target客户管理将销售和营销团队集合在一起，以高度协
 
 为何使用Marketo Target帐户管理？
 
-Marketo将TAM和潜在客户管理统一到一个解决方案中，使得营销人员可以轻松地在一次行动中为客户和潜在客户执行个性化的营销活动。 您还将从接触关键决策者和交易影响者中获益。
+Marketo将TAM和潜在客户管理整合到一个解决方案中，使营销人员能够轻松地在一个移动中为客户和潜在客户执行个性化营销活动。 您还可以从接触关键决策者和交易影响者中获益。
 
 Marketo TAM包含三个组件：
 
@@ -55,10 +55,10 @@ Marketo TAM包含三个组件：
 
 我进来了！ 我该如何入门？
 
-我们以为你绝不会问！ TAM可作为您的Marketo订阅的附加组件提供，因此请与您的销售代表联系以实施它。 一旦您拥有了它，请查看此文章： [TAM快速入门](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
+我们以为你绝不会问的！ TAM可用作您的Marketo订阅的附加组件，因此请联系您的销售代表来实施它。 拥有它后，请查看此文章： [TAM快速入门](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
->根据Web个性化需求，可直接从Web TAM访问Marketo TAM中管理的指定帐户。 了解详情 [此处](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
+>满足Web个性化需求，可以直接从Web TAM访问Marketo TAM中管理的指定帐户。 了解详情 [此处](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
 
 欢迎使用Marketo TAM，体验有针对性的营销！

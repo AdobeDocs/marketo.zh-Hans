@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 创建团队 {#creating-a-team}
 
-通过创建团队，您可以收集一组用户，这些用户可以与共享内容，并且报告可以按筛选。
+通过创建团队，您可以召集一组用户，这些用户可以与共享内容，并且报告可通过这些用户进行过滤。
 
 ## 创建团队 {#create-a-team}
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/creating-a-team-2.png)
 
-1. 在Teams旁边，单击 **+** 图标。
+1. 在“团队”旁边，单击 **+** 图标。
 
    ![](assets/creating-a-team-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 将人员添加到团队 {#add-people-to-a-team}
 
-1. 仍在“团队管理”中，选择 **所有成员**.
+1. 仍然在团队管理中，选择 **所有成员**.
 
    ![](assets/creating-a-team-5.png)
 

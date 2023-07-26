@@ -1,6 +1,6 @@
 ---
-description: 第1步（共4步） — 使用资源所有者密码控制连接安装Marketo解决方案 — Marketo文档 — 产品文档
-title: 第1步（共4步） — 安装具有资源所有者密码控制连接的Marketo解决方案
+description: 第1步（共4步） — 安装具有资源所有者密码控制连接的Marketo解决方案 — Marketo文档 — 产品文档
+title: 步骤4之1 — 安装具有资源所有者密码控制连接的Marketo解决方案
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -17,15 +17,15 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >* 在初始同步完成之前，请勿启用自定义实体同步。 初始同步完成后，您将收到电子邮件通知。
->* 如果您为Dynamics同步启用了多重身份验证(MFA)，则必须禁用它以便Dynamics能够与Marketo正确同步。 欲知更多信息，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
+>* 如果您为Dynamics Sync启用了多重身份验证(MFA)，则必须禁用它以便Dynamics能够与Marketo正确同步。 欲知更多信息，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >
->将Marketo同步到CRM后，如果不替换实例，则无法执行新的同步。
+>将Marketo同步到CRM后，如果不替换该实例，则无法执行新的同步。
 
 >[!PREREQUISITES]
 >
->[下载Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[下载Marketo商机管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
 1. 登录 **[Microsoft Office 365](https://login.microsoftonline.com/)**.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 单击 **选择“文件”。** 选择您的Marketo潜在客户管理解决方案 [已下载](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). 单击 **下一个**.
+1. 单击 **选择“文件”。** 选择适合您的Marketo潜在客户管理解决方案 [已下载](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). 单击 **下一个**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
    >
    >您需要启用浏览器上的弹出窗口才能完成安装过程。
 
-1. 现在等待导入完成。 起来做些伸展运动。
+1. 现在等待导入完成。 起床做些伸展运动。
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能会看到一条消息，显示“Marketo潜在客户管理已完成，但有警告”。 这完全符合预期。
+   >您可能会看到一条消息，显示“Marketo潜在客户管理已完成，但有警告”。 这是完全符合预期的。
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. Marketo Lead Management现在将显示在解决方案列表中。
+1. Marketo潜在客户管理现在将显示在解决方案列表中。
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 

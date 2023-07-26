@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504736
-description: 安装Marketo for Microsoft Dynamics 2015内部部署步骤1/3 - Marketo文档 — 产品文档
-title: 安装Marketo for Microsoft Dynamics 2015内部部署步骤1/3
+description: 安装Marketo for Microsoft Dynamics 2015本地步骤1/3 - Marketo文档 — 产品文档
+title: 安装Marketo for Microsoft Dynamics 2015本地步骤1/3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->将Marketo同步到CRM后，无法将新的CRM同步到现有Marketo实例。
+>将Marketo同步到CRM后，无法将新的CRM同步到现有的Marketo实例。
 
 >[!PREREQUISITES]
 >
->如果您使用的是Microsoft Dynamics On-Premise，则必须具有 [面向互联网的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)替换为 [Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS)已配置。 注意：单击该链接时，会自动下载IFD文档。
+>如果您使用的是Microsoft Dynamics On-Premise，则必须具有 [面向互联网的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)与 [Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 已配置2.0+ (ADFS)。 注意：单击该链接时，会自动下载IFD文档。
 >
->[下载Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 开始之前。
+>[下载Marketo商机管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 开始之前。
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能会看到一条消息，显示“Marketo潜在客户管理已完成，但有警告”。 这完全符合预期。
+   >您可能会看到一条消息，显示“Marketo潜在客户管理已完成，但有警告”。 这是完全符合预期的。
 
    ![](assets/image2015-3-13-9-54-39.png)
 
@@ -91,8 +91,8 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >禁用任何Marketo SDK消息传递进程都将导致安装中断！
+   >禁用任何Marketo SDK消息传递过程都将导致安装中断！
 
    >[!MORELIKETHIS]
    >
-   >[安装Marketo for Microsoft Dynamics 2015内部部署步骤2/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+   >[安装Marketo for Microsoft Dynamics 2015本地步骤2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 12980661
 description: 将Google客户匹配项作为LaunchPoint服务添加 — Marketo文档 — 产品文档
-title: 将Google Customer Match添加为LaunchPoint Service
+title: 将Google客户匹配项添加为LaunchPoint Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 2%
 
 ---
 
-# 将Google Customer Match添加为LaunchPoint Service {#add-google-customer-match-as-a-launchpoint-service}
+# 将Google客户匹配项添加为LaunchPoint Service {#add-google-customer-match-as-a-launchpoint-service}
 
-通过此集成，您可以将Marketo受众发送到Google，以使用Google AdWords进行定位，以及跨YouTube、Search和Gmail重新定位受众。
+利用此集成，您可以将Marketo受众发送到Google以使用Google AdWords进行定位，以及跨YouTube、Search和Gmail重新定位受众。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 2%
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 选择 **新** 则 **新服务**.
+1. 选择 **新建** 则 **新建服务**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
@@ -43,7 +43,7 @@ ht-degree: 2%
 
    >[!CAUTION]
    >
-   >为了使Marketo能够跨多个AdWords帐户发送受众，您执行以下步骤中授权的Google用户需要有权访问 _所有_ 这些账户的10%。
+   >为了使Marketo能够跨多个AdWords帐户发送受众，您在以下步骤中授权的Google用户需要有权访问 _所有_ 这些账号的。
 
    ![](assets/chooseaccount.png)
 
@@ -55,8 +55,8 @@ ht-degree: 2%
 
    ![](assets/authorizesuccess.png)
 
-   太棒了！ 现在，您将在Installed Services选项卡中看到作为LaunchPoint服务列出的Google匹配受众。
+   太棒了！ 现在，您将在Installed Services选项卡中看到Google Matched Audiences作为LaunchPoint服务列出。
 
 >[!NOTE]
 >
->Google Customer Match集成只能容纳一个经理帐户以及该经理帐户内的所有子帐户。 不支持多个管理器帐户。
+>Google客户匹配集成只能容纳一个经理帐户以及该经理帐户内的所有子帐户。 不支持多个管理器帐户。

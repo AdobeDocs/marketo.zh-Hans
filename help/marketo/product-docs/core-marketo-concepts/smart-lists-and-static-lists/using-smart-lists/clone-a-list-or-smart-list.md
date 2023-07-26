@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 克隆列表或智能列表 {#clone-a-list-or-smart-list}
 
-不要从头开始创建智能列表，而是通过克隆类似的列表并进行更改来节省一些时间。 下面是具体操作方法。
+不要从头开始创建智能列表，而是克隆类似的智能列表并进行更改，从而节省一些时间。 具体方法如下。
 
 1. 转到 **营销活动**.
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择要克隆的智能列表。
+1. 选择要复制的智能列表。
 
    ![](assets/smartlist-find.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
    ![](assets/supersmartlist-clonewindow.png)
 
-做得好！ 您也可以使用相同的方式克隆常规列表。
+做得好！ 您也可以按相同方式克隆常规列表。

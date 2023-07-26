@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 在“连接和定制”选项卡中，单击 **Connect**.
+1. 在“连接和定制”选项卡中，单击 **连接**.
 
    ![](assets/seven.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 如果您已登录Salesforce，则会与您建立连接。 否则，将会要求您登录。
+1. 如果您已登录Salesforce，则会连接到网络。 否则，系统将要求您登录。
 
 ## 如何以非管理员身份连接 {#how-to-connect-as-a-non-admin}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 在“连接和定制”选项卡中，单击 **Connect**.
+1. 在“连接和定制”选项卡中，单击 **连接**.
 
    ![](assets/three.png)
 
@@ -53,4 +53,4 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 如果您已登录Salesforce，则会与您建立连接。 否则，将会要求您登录。
+1. 如果您已登录Salesforce，则会连接到网络。 否则，系统将要求您登录。

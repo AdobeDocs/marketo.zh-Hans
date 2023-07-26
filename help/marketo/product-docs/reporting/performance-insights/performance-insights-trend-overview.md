@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 性能分析趋势概述 {#performance-insights-trend-overview}
 
-趋势显示一段时间内渠道的性能。
+趋势显示在一段时间内的渠道性能。
 
 单击 **趋势** 选项卡访问此视图。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-选择要作为性能查看依据的指标。 在此示例中，我们将查看通过以下方式赢得的机会 [首次接触](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过以下方式赢得的机会 [首次接触](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
-量度通过两个图表呈现：圆环图和折线图。
+量度通过两个图表显示：圆环图和折线图。
 
 ![](assets/4-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/5-2.png)
 
-折线图显示过去12个月内所选量度的渠道性能趋势。
+折线图显示过去12个月内所选度量的渠道性能趋势。
 
 ![](assets/6-1.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
 ![](assets/7.png)
 
-下方的数据网格的功能类似于电子表格，显示过去12个月所选指标的所有可用趋势数据。
+下方的数据网格的功能类似于电子表格，其中显示过去12个月选定指标的所有可用趋势数据。
 
 ![](assets/8.png)
 
-展开一个渠道可查看其排名前十的节目，其余的节目则合并在一起。
+展开一个渠道可查看其前10个项目，其余项目合并在一起。
 
 ![](assets/9-1.png)
 

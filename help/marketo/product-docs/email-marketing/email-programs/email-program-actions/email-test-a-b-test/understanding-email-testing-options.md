@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ## A/B测试 {#a-b-testing}
 
-这适用于使用电子邮件程序的一次性电子邮件。 添加 [A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 一小部分人会得到测验，其他人会得到入选者。
+这适用于使用电子邮件程序的一次性电子邮件。 添加 [A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 一小部分人会得到测验，其余的人会得到入选者。
 
 ## 电子邮件冠军/挑战者 {#email-champion-challenger}
 
-对于用于触发智能营销活动或参与计划的持续电子邮件，您可以添加 [电子邮件冠军/挑战者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) 测试。 这将为持续存在的收件人百分比引入变体。
+对于用于触发智能营销活动或参与计划的持续电子邮件，您可以添加 [电子邮件冠军/挑战者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) 测试。 这将会对持续百分比的收件人引入变体。
 
-测试成功！
+测试愉快！

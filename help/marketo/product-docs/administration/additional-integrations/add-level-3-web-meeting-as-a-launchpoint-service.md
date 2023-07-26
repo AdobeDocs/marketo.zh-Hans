@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512292
 description: '"添加 [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] 服务 — Marketo文档 — 产品文档”'
-title: '"添加 [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint Service]”'
+title: "添加 [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint Service]"
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 添加 [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] 服务 {#add-level-three-web-meeting-as-a-launchpoint-service}
 
-Marketo管理您的 [!DNL Level 3 Web Meeting] 注册及出席情况。
+Marketo管理您的 [!DNL Level 3 Web Meeting] 报名及出席。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Marketo管理您的 [!DNL Level 3 Web Meeting] 注册及出席情况。
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-2.png)
 
-1. 选择 **[!UICONTROL 新]** 然后 **[!UICONTROL 新服务]**.
+1. 选择 **[!UICONTROL 新建]** 然后 **[!UICONTROL 新建服务]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
@@ -49,4 +49,4 @@ Marketo管理您的 [!DNL Level 3 Web Meeting] 注册及出席情况。
 
 >[!MORELIKETHIS]
 >
->了解如何 [创建事件，使用 [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"}.
+>了解如何 [创建事件 [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"}.

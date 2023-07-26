@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >仅供紧急使用
 
-有时候，您启动智能营销活动后会立即意识到这是一个错误。 以下是如何在Smart Campaign中途拉动紧急刹车并停止它的。
+有时，您启动智能营销活动后，会立即意识到这是一个错误。 以下是如何在Smart Campaign中途拉动紧急刹车并阻止它的。
 
-1. 选择所需的智能营销活动，然后单击 **计划** 选项卡。
+1. 选择所需的Smart Campaign，然后单击 **计划** 选项卡。
 
    ![](assets/abort-a-smart-campaign-1.png)
 
@@ -39,10 +39,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >查看 **结果** 选项卡中，用于查看在中止之前执行的操作。 您还将找到  [通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) ，并提供其他详细信息。
+   >查看 **结果** 选项卡，以查看在中止之前执行的操作。 您还将找到  [通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) ，并提供其他详细信息。
 
    >[!TIP]
    >
-   >是否希望从触发器营销活动中的流程删除人员？ 签出 [从流中删除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >是否希望从触发营销活动的流程中删除人员？ 签出 [从流中删除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
-请务必仔细检查一下您的工作，但是这个紧急刹车在将来可能会派上用场。
+请务必仔细检查您的工作，但是这个紧急刹车在将来可能会派上用场。

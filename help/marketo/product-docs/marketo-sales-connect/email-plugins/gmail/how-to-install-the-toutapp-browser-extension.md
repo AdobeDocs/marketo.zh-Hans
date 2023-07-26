@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352450
-description: 如何安装ToutApp浏览器扩展 — Marketo文档 — 产品文档
+description: 如何安装Toutapp浏览器扩展 — Marketo文档 — 产品文档
 title: 如何安装ToutApp浏览器扩展
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect

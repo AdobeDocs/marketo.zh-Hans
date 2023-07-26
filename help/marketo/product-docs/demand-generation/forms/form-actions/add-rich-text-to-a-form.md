@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 向表单添加富文本 {#add-rich-text-to-a-form}
 
-在表单中使用富文本可在字段之间添加说明或其他信息。 看看吧。
+在表单中使用富文本可在字段之间添加说明或其他信息。 看吧。
 
 1. 转到 **营销活动**.
 
@@ -51,10 +51,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
-   做得好！ 看看吧。
+   做得好！ 看吧。
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
 >[!TIP]
 >
->您知道您也可以 [添加可见性规则](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) 到富文本块？
+>您知道您还可以 [添加可见性规则](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) 到富文本块？

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359815
 description: 导出包含个性化URL的列表 — Marketo文档 — 产品文档
-title: 导出包含个性化URL的列表
+title: 导出具有个性化URL的列表
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 导出包含个性化URL的列表 {#export-a-list-with-personalized-urls}
+# 导出具有个性化URL的列表 {#export-a-list-with-personalized-urls}
 
 >[!PREREQUISITES]
 >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您看到同一登陆页面有多个URL，则可能是因为您在过去的某个时间点更改了页面URL并创建了重定向。
+   >如果您看到同一登陆页面有多个URL，则可能是因为您在过去的某个时间更改了页面URL并创建了重定向。
 
 1. 选择 **样式** 并单击 **导出**.
 

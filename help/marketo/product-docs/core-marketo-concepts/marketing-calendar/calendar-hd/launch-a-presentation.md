@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504120
-description: 启动演示 — Marketo文档 — 产品文档
+description: 启动演示文稿 — Marketo文档 — 产品文档
 title: 启动演示
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 启动演示 {#launch-a-presentation}
 
-一旦您为演示文稿设置了视图和旋转频率，就应该开始快速演示！
+设置演示文稿的视图和旋转频率后，就到了开始播放的时候了！
 
 >[!AVAILABILITY]
 >
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->确保 _预览演示_ 在启动之前。
+>确保 _预览演示_ 在你启动之前。
 
 1. 单击 **[!UICONTROL Launch]**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. 单击 **[!UICONTROL Launch]** 再来一次。 这将使您退出Marketo，以便能够安全地显示演示文稿。
+1. 单击 **[!UICONTROL Launch]** 再来一次。 这将使您从Marketo中注销，以便安全地显示演示文稿。
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 

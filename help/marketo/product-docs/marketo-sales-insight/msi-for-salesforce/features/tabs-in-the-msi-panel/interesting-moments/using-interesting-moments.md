@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 使用有趣的时刻 {#using-interesting-moments}
 
-有趣的时刻是通过Marketo Sales Insight应用程序与您的销售团队进行沟通的关键。
+有趣的时刻是通过Marketo Sales Insight应用程序与您的销售团队沟通的关键。
 
 >[!AVAILABILITY]
 >
->这些功能可供Marketo Sales Insight和 [Marketo Sales连接](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) 仅限客户。
+>这些功能可用于Marketo Sales Insight和 [Marketo销售连接](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) 仅限客户。
 
 ## 什么是一个有趣的时刻？ {#what-is-an-interesting-moment}
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 * 单击新产品公告电子邮件中的链接
 * 请求产品演示
 
-## 我该如何创造一个有趣的时刻呢？  {#how-do-i-create-an-interesting-moment}
+## 我该如何创造一个有趣的时刻？  {#how-do-i-create-an-interesting-moment}
 
-1. 选择 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的销售团队觉得有意思的一个，如果触发。
+1. 选择 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的销售团队在触发时觉得有趣的一个。
 
    ![](assets/using-interesting-moments-1.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/using-interesting-moments-3.png)
 
-1. 在 **描述** 解释此操作重要原因的字段。
+1. 在 **描述** 说明此操作重要性的字段。
 
    ![](assets/using-interesting-moments-4.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 这怎么会更有趣呢？  {#how-can-this-get-even-more-interesting}
 
-令牌！ 将它们添加到描述字段中，以便为您的销售团队提供更具体的信息，例如商机所打开电子邮件的主题行或发送者。 查看哪些令牌可用于中 [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 术语表。
+令牌！ 将它们添加到描述字段，以便为您的销售团队提供更具体的信息，例如商机所打开电子邮件的主题行或发送者。 查看哪些令牌可用于中 [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 词汇表。
 
 >[!TIP]
 >
@@ -65,11 +65,11 @@ ht-degree: 0%
 
 ## 在Salesforce中，一个有趣的时刻是什么样的？  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-一旦您 [已安装Marketo销售分析应用程序](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)，可在lead 、 contact 、 account或opportunity页面上显示有趣的时刻。 它们还会显示在Lead Feed 、 Best Bets和Watch List的Sales Insight仪表板中。
+一旦 [已安装Marketo销售分析应用程序](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)，感兴趣的时间点将显示在lead 、 contact 、 account或opportunity页面上。 它们还会显示在Lead Feed 、 Best Bets和Watch列表的Sales Insight仪表板中。
 
 ![](assets/using-interesting-moments-6.png)
 
-## Salesforce1中一个有趣的时刻是什么样的？ {#what-does-an-interesting-moment-look-like-in-salesforce-1}
+## 在Salesforce1中，一个有趣的时刻是什么样的？ {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
 安装或更新Marketo Sales Insight for Salesforce1后，潜在客户的相关链接下将显示有趣的时刻。
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
 ## 订阅有趣的时刻 {#subscribe-to-interesting-moments}
 
-您可以通过单击“有趣的时刻”选项卡或“潜在客户源”中的“订阅”按钮来订阅“有趣的时刻”。 以下步骤对两者都是相同的。
+您可以通过在“有趣的时刻”选项卡或“潜在客户”信息源中单击“订阅”按钮来订阅“有趣的时刻”。 以下步骤对两者相同。
 
-1. 单击“订阅”图标。 然后，您将导航到Email Subscribe选项卡。
+1. 单击订阅图标。 随后将导航到Email Subscribe选项卡。
 
-1. 您可以根据“名称”、“帐户”、“类型”或“描述”选择要接收的电子邮件警报类型。
+1. 您可以根据“名称”、“帐户”、“类型”或“说明”选择要接收的电子邮件警报类型。
 
 1. 选择要将警报发送给（您自己/团队成员）的电子邮件地址
 
@@ -89,6 +89,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在订阅有趣时刻类型或描述时，用户将在触发与该类型或描述匹配的有趣时刻时收到其拥有的人员（潜在客户/联系人）的电子邮件通知。
+>在订阅有趣的时刻类型或描述时，用户将在触发与该类型或描述匹配的有趣时刻时收到其拥有的人员（潜在客户/联系人）的电子邮件通知。
 
 ![](assets/using-interesting-moments-8.png)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用人员帐户 {#using-person-accounts}
 
-可在Salesforce中设置人员帐户以满足贵组织的需要。 以下是Marketo处理个人帐户的方式。
+可在Salesforce中设置人员帐户以满足贵组织的需求。 以下是Marketo处理个人帐户的方式。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 人员帐户与Salesforce中的帐户对象非常相似。 但是，人员帐户对帐户字段和联系人字段均具有访问权限。
 
-## 将人员帐户同步到Marketo后会出现什么情况？ {#what-happens-when-a-person-account-is-synced-to-marketo}
+## 将人员帐户同步到Marketo后会发生什么情况？ {#what-happens-when-a-person-account-is-synced-to-marketo}
 
 人员帐户作为公司和人员同步到Marketo。
 
@@ -41,12 +41,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight的 **添加到Marketo Campaign** 和 **发送电子邮件** 选项当前不可用于人员帐户。
+>Marketo销售分析 **添加到Marketo Campaign** 和 **发送电子邮件** 选项当前不适用于人员帐户。
 
 ## 如何将机会与人员帐户关联？ {#how-do-i-associate-opportunities-to-a-person-account}
 
-Marketo依赖于机会联系人角色来确定要将机会与哪个人员相关联。 您需要为每个人员帐户添加机会联系人角色，以将机会连接到Marketo中的适当人员。 我们建议您设置一个工作流以自动添加机会联系人角色。
+Marketo取决于机会联系人角色来确定要将机会与哪个人员关联。 您需要为每个人员帐户添加机会联系人角色，以将机会连接到Marketo中的适当人员。 我们建议您设置工作流以自动添加机会联系人角色。
 
 ## 个人帐户应使用哪个电子邮件字段？ {#which-email-field-should-i-use-for-person-accounts}
 
-人员帐户有两个电子邮件字段。 使用 **电子邮件地址** 表单中的字段(而不是 **人员电子邮件地址**)，以确保Marketo的重复数据消除和其他电子邮件处理正常工作。
+人员帐户有两个电子邮件字段。 使用 **电子邮件地址** 字段(而非 **人员电子邮件地址**)，以确保Marketo的重复数据消除和其他电子邮件处理正常工作。

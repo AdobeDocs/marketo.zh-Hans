@@ -15,7 +15,7 @@ ht-degree: 0%
 
 以下是IT如何远程卸载Marketo Outlook插件。
 
-以“System”或带/x开关的管理用户帐户身份运行以下命令行，以卸载。
+以“System”形式运行以下命令行，或者运行带有/x开关的管理用户帐户来卸载。
 
 `<pre>msiexec.exe /x [File Name] /qn </pre>`
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 >
 >远程卸载插件将强制关闭用户计算机上的Outlook。
 
-请参考 [Microsoft的交换机完整列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您希望尝试使用不同的日志记录级别或用户界面级别。
+请参考 [Microsoft的交换机完整列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您希望尝试不同的日志记录级别或用户界面级别。

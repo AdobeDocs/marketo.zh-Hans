@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1146942
-description: 为智能营销活动定义智能列表 |触发器 — Marketo文档 — 产品文档
-title: 为智能营销活动定义智能列表 |触发器
+description: 为Smart Campaign定义智能列表 |触发器 — Marketo文档 — 产品文档
+title: 为Smart Campaign定义智能列表 |触发器
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 为智能营销活动定义智能列表 |触发器 {#define-smart-list-for-smart-campaign-trigger}
+# 为Smart Campaign定义智能列表 |触发器 {#define-smart-list-for-smart-campaign-trigger}
 
 通过添加触发器，根据实时事件逐人运行Smart Campaign。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >触发器运行的Smart Campaign **触发器** 模式。 它根据触发的事件和任何其他过滤器，每次只针对一个人运行。
+   >带有触发器的Smart Campaign在中运行 **触发器** 模式。 它根据触发的事件和任何其他过滤器，每次只针对一个人运行。
 
    >[!IMPORTANT]
    >
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在同时具有触发器和过滤器的Smart Campaign中，触发器位于顶部，触发时，只有符合筛选条件的用户才会经过该流。
+   >在同时具有触发器和过滤器的Smart Campaign中，触发器位于顶部，触发时，只有符合筛选条件的用户才会流过。
 
 1. 定义触发器。
 
@@ -49,9 +49,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >对于多个触发器，如果符合以下条件，则人员会完成该流程 **任意** 其中一个触发器被激活。
+   >对于多个触发器，如果符合以下条件，人员会完成该流程 **任意** 其中一个触发器被激活。
 
-要同时对一组人员运行营销活动，请了解如何 [为智能营销活动定义智能列表 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+要同时对一组人员运行活动，请了解如何 [为Smart Campaign定义智能列表 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
 >[!MORELIKETHIS]
 >

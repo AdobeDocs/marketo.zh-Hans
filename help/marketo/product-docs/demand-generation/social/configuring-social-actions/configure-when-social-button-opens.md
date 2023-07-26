@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2950551
-description: 社交按钮打开时配置 — Marketo文档 — 产品文档
+description: 社交按钮打开时进行配置 — Marketo文档 — 产品文档
 title: 社交按钮打开时进行配置
 exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
 feature: Social
@@ -32,8 +32,8 @@ ht-degree: 0%
    ![](assets/image2014-9-22-16-3a36-3a21.png)
 
    * **单击：** 当人员单击社交按钮时。
-   * **页面加载时：** 当包含社交按钮的登陆页面加载到用户的浏览器中时。
-   * **在Mouseover：** 将鼠标悬停在社交按钮上时。
+   * **页面加载时：** 在用户的浏览器中加载包含社交按钮的登陆页面之后。
+   * **在鼠标悬停上：** 当个人将鼠标悬停在社交按钮上时。
 
    >[!MORELIKETHIS]
    >

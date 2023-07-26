@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 电子邮件报告 {#email-reports}
 
-要自定义用户将收到的自动化电子邮件报表，请参阅  [“用户设置”部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+要自定义用户将收到的自动电子邮件报表，请参阅  [“用户设置”部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Web个性化电子邮件报表 {#web-personalization-email-reports}
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
 ![](assets/two.png)
 
-每日/每周人员报告会根据人员的电子邮件地址、组织名称、位置、州、人员捕获日期和人员所属的区段，向用户发送网站中最近100人的电子邮件。
+每日/每周人员报表会根据人员的电子邮件地址、组织名称、位置、州、人员捕获日期和该人员所属的区段，从网站向用户发送最近100人的电子邮件。
 
-## 绩效最佳的实时活动 {#top-performing-real-time-campaigns}
+## 表现最佳的实时活动 {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
 最佳表现实时促销活动报表会向用户发送一封包含最佳表现实时促销活动的电子邮件，其中显示了促销活动名称、展示次数、点击次数、促销活动所反应的区段以及促销活动的转化率。
 
-## 最佳绩效资产报表 {#top-performing-assets-report}
+## 表现最佳的资产报表 {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
@@ -61,12 +61,12 @@ ht-degree: 0%
 >
 >**定义**
 >
->**直接转化**：Web访客如果在同一访问会话中单击个性化营销活动或推荐的内容资产，则会继续使用他们的电子邮件地址填写网站上的任何表单。
+>**直接转换**：Web访客如果在同一访问会话中单击个性化促销活动或推荐的内容资产，则会继续使用他们的电子邮件地址填写网站上的任何表单。
 >
 >**辅助转化**：填写网站上的任何表单并保留其电子邮件地址的Web访客，而在之前的访问（过去6个月内）中，单击了个性化的促销活动或推荐的内容资产。
 
 >[!NOTE]
 >
->Marketo Web Personalization会为网站上完成的任何表单捕获Web访客的电子邮件地址。 此标头在Web个性化人员页面中查看，并且是在摘要报表中使用的用户。
+>Marketo Web个性化可捕获网站上填写的任何表单的Web访客电子邮件地址。 该报表可在Web个性化人员页面中查看，并且是在摘要报表中使用的人员。
 
-要自定义用户将收到的自动化电子邮件报表，请参阅 [“用户设置”部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+要自定义用户将收到的自动电子邮件报表，请参阅 [“用户设置”部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

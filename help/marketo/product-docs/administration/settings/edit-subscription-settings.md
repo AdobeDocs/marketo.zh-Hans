@@ -15,7 +15,7 @@ ht-degree: 0%
 
 如果您有权访问多个Marketo订阅，并且希望确保您使用的是哪个订阅，请尝试为每个订阅指定一个唯一的名称。 然后，该名称将显示在订阅页面的顶部。
 
-例如，如果您同时在生产和沙盒实例中工作，则可以命名一个订阅 **Marketo Production** 而另一个 **Marketo Sandbox**.
+例如，如果您同时在生产和沙盒实例中工作，则可以命名一个订阅 **Marketo Production** 和另一个 **Marketo Sandbox**.
 
 1. 转到 **[!UICONTROL 管理员]**.
 

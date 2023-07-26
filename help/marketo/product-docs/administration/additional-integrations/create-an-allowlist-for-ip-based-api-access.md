@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 为基于IP的API访问创建允许列表 {#create-an-allowlist-for-ip-based-api-access}
 
-有时，您只想授予API访问特定IP地址或某个地址范围的权限。 为此，您需要先启用限制，然后指定允许使用API的IP地址。
+有时，您只想授予API访问特定IP地址或某个地址范围的权限。 为此，首先要启用限制，然后指定允许使用API的IP地址。
 
 >[!NOTE]
 >

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 发行说明：2015年6月 {#release-notes-june}
 
-2015年6月版本中包含以下功能。 请检查您的Marketo版本是否提供了相关功能。 发布后，请务必返回以查找指向每个功能的详细文章的链接！
+2015年6月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细文章链接！
 
 ## [归因电子邮件报表](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
 

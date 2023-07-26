@@ -1,6 +1,6 @@
 ---
 description: 第2步（共3步） — 创建Veeva CRM用户以进行Marketo Engage- Marketo文档 — 产品文档
-title: 第2步（共3步） — 创建用于Marketo Engage的Veeva CRM用户
+title: 第2步（共3步） — 创建Veeva CRM用户以进行Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -26,7 +26,7 @@ ht-degree: 4%
 
 执行以下步骤将允许Marketo同步用户更新自定义字段。
 
-1. 单击Nav搜索栏中的“帐户（人员帐户）”页面布局，而不按Enter，然后单击“联系人”下的“页面布局”。
+1. 不按Enter键单击导航搜索栏中的“帐户”（人员帐户）页面布局，然后单击“联系人”下的“页面布局”。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-1.png)
 
@@ -38,13 +38,13 @@ ht-degree: 4%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-3.png)
 
-1. 单击并拖动新的 **章节** 进入页面布局。
+1. 单击并拖动一个新项目 **部分** 放到页面布局中。
 
-1. 在区域名称中输入“Marketo”，然后单击 **确定**.
+1. 在部分名称中输入“Marketo”并单击 **确定**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-4.png)
 
-1. 单击并将得分字段拖动到Marketo部分中。
+1. 单击并将得分字段拖入Marketo部分。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-5.png)
 
@@ -60,11 +60,11 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >这些字段需要在页面布局中，以便Marketo可以对其执行读/写操作。
+   >这些字段需要在页面布局中，以便Marketo能够对其执行读/写操作。
 
    >[!TIP]
    >
-   >通过向下拖到页面右侧，为字段创建两列。 您可以将字段从一侧移动到另一侧，以平衡列长度。
+   >通过向下拖动到页面的右侧，为字段创建两列。 您可以将字段从一侧移动到另一侧，以平衡列长度。
 
 1. 完成HCP专业版面配置后，单击 **保存**.
 
@@ -84,7 +84,7 @@ ht-degree: 4%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-8.png)
 
-1. 单击 **新**.
+1. 单击 **新建**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-9.png)
 
@@ -106,7 +106,7 @@ ht-degree: 4%
    >
    >确保选中“密码永不过期”框。
 
-1. 在“常规用户权限”部分下，确保选中编辑事件和编辑任务。
+1. 在常规用户权限部分下，确保选中编辑事件和编辑任务。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
@@ -114,11 +114,11 @@ ht-degree: 4%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. 在“自定义对象权限”部分下，确保选中Call、Call Key Message和任何其他所需的“自定义对象”的“读取”权限。
+1. 在“自定义对象权限”部分下，确保对Call、Call Key Message和任何其他所需的“自定义对象”检查“读取”权限。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
-1. 完成后，单击 **保存** 页面底部的。
+1. 完成后，单击 **保存** 在页面底部。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-16.png)
 
@@ -142,7 +142,7 @@ ht-degree: 4%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-找到不必要的字段，确保读取权限和编辑权限 **un**&#x200B;已选中。 单击 **保存** 完成时。
+找到不必要的字段，确保读取权限和编辑权限 **取消**&#x200B;已选中。 单击 **保存** 完成时。
 
 ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
@@ -175,13 +175,13 @@ ht-degree: 4%
 
 ## 创建同步用户 {#create-sync-user}
 
-Marketo需要凭据才能访问Veeva CRM。 最好是通过以下步骤创建的专用用户来完成此操作。
+Marketo需要凭据才能访问Veeva CRM。 最好是通过执行以下步骤创建的专用用户来完成此操作。
 
 >[!NOTE]
 >
->如果您的组织没有其他Veeva CRM许可证，则可以使用具有系统管理员配置文件的现有营销用户。
+>如果贵组织没有其他Veeva CRM许可证，则可以使用具有系统管理员配置文件的现有营销用户。
 
-1. 在导航搜索栏中输入“用户”，然后单击 **用户** 在“管理用户”下。
+1. 在导航搜索栏中输入“users”，然后单击 **用户** 在“管理用户”下。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-20.png)
 
@@ -189,7 +189,7 @@ Marketo需要凭据才能访问Veeva CRM。 最好是通过以下步骤创建的
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-21.png)
 
-1. 填写必填字段，选择用户许可证：Salesforce，设置配置文件：Marketo同步用户，然后单击 **保存**.
+1. 填写必填字段，选择User License： Salesforce，设置Profile： Marketo Sync User ，然后单击 **保存**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-22.png)
 
@@ -197,7 +197,7 @@ Marketo需要凭据才能访问Veeva CRM。 最好是通过以下步骤创建的
 >
 >确保您输入的电子邮件地址有效。 您需要以同步用户身份登录才能重置密码。
 
-太棒了！ 现在，您有一个帐户，Marketo Engage可以使用它连接到Veeva CRM。 我们开始吧。
+太棒了！ 现在，您拥有一个帐户，Marketo Engage可以使用它连接到Veeva CRM。 我们开始吧。
 
 >[!MORELIKETHIS]
 >

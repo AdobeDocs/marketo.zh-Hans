@@ -17,24 +17,24 @@ ht-degree: 0%
 
 **什么是活动**
 
-人员可通过多种方式与您的组织交互。 他们可能会访问您公司的网站、参加您的某次贸易展，或者单击您发送给他们的电子邮件中的链接。 这些操作是活动，无论它们执行什么操作，Marketo都会捕获这些操作，以便您的营销团队能够更好地了解如何及时地发送相关通信内容给它们。
+人员可通过多种方式与您的组织交互。 他们可能会访问您公司的网站、参加您的某次贸易展，或者单击您发送给他们的电子邮件中的链接。 这些操作即是活动，无论它们执行什么操作，Marketo都会捕获这些操作，以便您的营销团队能够更好地了解如何及时地向他们发送相关通信。
 
 **自定义活动**
 
-自定义活动可帮助您跟踪与Marketo表单、电子邮件或登陆页面无关的活动。 想要跟踪某人何时存入支票？ 使用自定义活动。 是否希望关注某人何时参加网络研讨会？ 使用自定义活动。
+自定义活动可帮助您跟踪与Marketo表单、电子邮件或登陆页面无关的活动。 想追踪什么时候有人存了支票？ 使用自定义活动。 是否希望关注某人何时参加网络研讨会？ 使用自定义活动。
 
 >[!NOTE]
 >
 >自定义活动与自定义对象不同。 值可以更改时使用自定义对象（即“汽车颜色”从蓝色更改为红色）。 当跟踪已发生并且其详细信息无法更改的时刻（即“购买的汽车”）时，使用自定义活动。
 
-**字段** 您可以添加 [其他字段](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) 您希望与活动关联的属性。 与主要字段一样，它们可用作智能列表中的筛选条件。
+**字段** 您可以添加 [其他字段](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) 您希望将其与活动关联的信息。 与主字段一样，它们也可用作智能列表中的筛选条件。
 
 **快速入门**
 
-自定义活动的功能与标准活动类似。 但是，设置它们需要两个步骤。
+自定义活动的功能与标准活动类似。 但是，设置过程分为两个部分。
 
-步骤1： [创建自定义活动](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) (在您的Marketo帐户中)
+第1步： [创建自定义活动](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) 在您的Marketo帐户中
 
-步骤2：然后，您组织中使用我们API的员工可以开始实施。 有关更多信息，请参阅此处： [自定义活动API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+步骤2：接下来，贵组织中使用我们API的员工可以开始实施。 有关更多信息，请参阅此处： [自定义活动API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
 
-玩得开心点！
+玩得开心！

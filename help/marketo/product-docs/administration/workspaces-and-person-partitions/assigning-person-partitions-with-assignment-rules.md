@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >[创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-使用人员分区时，请设置分配规则以将从CRM创建的人员路由到其各自的分区。
+使用人员分区时，请设置分配规则，以将从CRM创建的人员路由到其各自的分区。
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/assigning-person-partitions-with-assignment-rules-6.png)
 
-1. 选择您希望符合条件的人员归入的人员分区。
+1. 选择您希望满足条件的人员所属的人员分区。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-7.png)
 
@@ -63,8 +63,8 @@ ht-degree: 0%
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
-你拿到了！ 您已经分配了使用人员填充人员分区的规则！
+你拿到了！ 您已分配了用于向人员分区填充人员的规则！
 
 >[!NOTE]
 >
->如果不满足以前的任何条件，则将应用默认选择。
+>如果不满足先前的任何条件，则将应用默认选择。

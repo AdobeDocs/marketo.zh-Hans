@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sales Insight Actions支持哪些浏览器？ {#which-browsers-does-sales-insight-actions-support}
 
-Marketo Sales Insight Actions当前支持以下浏览器。
+Marketo销售分析操作当前支持以下浏览器。
 
 <table> 
  <tbody> 

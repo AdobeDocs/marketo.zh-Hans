@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 创建交互式网络研讨会 {#create-an-interactive-webinar}
 
-只需几个简单的步骤，即可创建交互式网络研讨会。
+通过几个简单的步骤创建交互式网络研讨会。
 
 1. 转到 **营销活动**.
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. 单击渠道下拉列表并选择 **网络研讨会**.
+1. 单击渠道下拉菜单并选择 **网络研讨会**.
 
    ![](assets/create-an-interactive-webinar-4.png)
 

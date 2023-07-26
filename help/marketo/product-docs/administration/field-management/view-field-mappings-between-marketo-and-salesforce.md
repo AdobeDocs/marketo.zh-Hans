@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360344
-description: '"查看Marketo与之间的字段映射 [!DNL Salesforce] - Marketo文档 — 产品文档”'
-title: '"查看Marketo与之间的字段映射 [!DNL Salesforce]”'
+description: “查看Marketo与之间的字段映射 [!DNL Salesforce] - Marketo文档 — 产品文档”
+title: “查看Marketo与之间的字段映射 [!DNL Salesforce]"
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # 查看Marketo与之间的字段映射 [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-您可能想知道哪个 [!DNL Salesforce] 特定Marketo字段关联的字段。 下面是检查方法。
+您可能想知道 [!DNL Salesforce] 特定Marketo字段关联的字段。 下面是检查方法。
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ ht-degree: 0%
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
-1. 找到您感兴趣的字段并单击 **+** 以展开映射。
+1. 找到您感兴趣的字段，然后单击 **+** 以展开映射。
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >
->这显示 [!DNL Salesforce] API名称，而不是标签名称。
+>显示 [!DNL Salesforce] API名称，而不是标签名称。
 
 >[!IMPORTANT]
 >

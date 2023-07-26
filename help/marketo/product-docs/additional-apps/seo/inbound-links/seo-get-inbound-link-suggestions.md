@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 获取入站链接建议 {#seo-get-inbound-link-suggestions}
 
-Marketo可以建议对您有价值的入站链接 [页面外优化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo可以建议对您的网站有价值的入站链接 [离页优化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. 转到 **[!UICONTROL 入站链接]** 部分。
 
@@ -33,7 +33,7 @@ Marketo可以建议对您有价值的入站链接 [页面外优化](/help/market
 
    >[!TIP]
    >
-   >你知道你可以  [将您的链接添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)？ 看看吧！
+   >你知道你可以  [将您的链接添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)？ 看啊！
 
 太棒了！ 现在将跟踪这些添加的链接。
 

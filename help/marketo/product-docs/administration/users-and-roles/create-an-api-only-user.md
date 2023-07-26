@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建仅API用户 {#create-an-api-only-user}
 
-Marketo如果您要通过 [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}，您将需要创建仅API用户。 下面是具体操作方法。
+Marketo如果您要通过 [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}，您将需要创建一个“仅限API用户”。 具体方法如下。
 
 >[!PREREQUISITES]
 >
@@ -41,7 +41,7 @@ Marketo如果您要通过 [REST API](https://developers.marketo.com/documentatio
 
    >[!TIP]
    >
-   >添加可选原因或访问到期日期。 对于短期员工，访问过期日期很方便。
+   >添加可选原因或访问到期日期。 访问过期日期对于短期员工来说是方便的。
 
 1. 选择 **[!UICONTROL 仅API]** 角色并检查 **[!UICONTROL 仅API]** 复选框。 单击 **[!UICONTROL 下一个]**.
 
@@ -53,9 +53,9 @@ Marketo如果您要通过 [REST API](https://developers.marketo.com/documentatio
 
 >[!NOTE]
 >
->弹出窗口显示，“不仅API需要邀请”，但这并不意味着您犯了错误。 这仅意味着我们将创建角色，而无需发送邀请电子邮件。
+>弹出窗口显示，“不仅API需要邀请”，但这并不表示您做了错事。 这仅仅意味着我们将创建角色，而无需发送邀请电子邮件。
 
-那就好！ 现在，让我们继续创建自定义服务。
+那好吧！ 现在，让我们来创建自定义服务。
 
 >[!MORELIKETHIS]
 >

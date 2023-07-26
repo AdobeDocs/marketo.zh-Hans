@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 编辑现有人员分区 {#edit-an-existing-person-partition}
 
-人员分区就像拥有第二个（或第三个）数据库。 分区可以挂接到一个或多个工作区。 下面是如何编辑分区详细信息。
+人员分区就像拥有第二个（或第三个）数据库。 分区可以连接到一个或多个工作区。 下面是如何编辑分区详细信息。
 
 >[!NOTE]
 >
@@ -35,10 +35,10 @@ ht-degree: 0%
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. 输入人员分区 **[!UICONTROL 名称]**，则 **[!UICONTROL 工作区]** 它们属于，然后单击 **[!UICONTROL 保存]**.
+1. 输入人员分区 **[!UICONTROL 名称]**， **[!UICONTROL 工作区]** 它们属于，然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-保存更改后，您应会看到更新！
+保存更改后，您应该会看到更新！
 
 ![](assets/edit-an-existing-person-partition-5.png)

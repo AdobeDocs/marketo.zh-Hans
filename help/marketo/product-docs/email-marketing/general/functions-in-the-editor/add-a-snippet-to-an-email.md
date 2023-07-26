@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 向电子邮件添加代码片段 {#add-a-snippet-to-an-email}
 
-代码片段是可重用的富文本和图形块，您可以在电子邮件和登陆页面中使用它们。
+代码片段是可重用的富文本和图形块，您可以在电子邮件和登陆页面中使用。
 
 >[!PREREQUISITES]
 >
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您无法嵌入任何 [Marketo电子邮件语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)代码片段；它会 **非** 通过电子邮件工作。 代码片段应当只是正文内容(HTML+文本)。
+>您无法嵌入任何 [Marketo电子邮件语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)在代码片段中；它会 **非** 通过电子邮件工作。 代码片段应当只是正文内容(HTML+文本)。
 
-1. 找到您的电子邮件，选择它并单击 **编辑草稿**.
+1. 查找您的电子邮件，选择它并单击 **编辑草稿**.
 
    ![](assets/one-2.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. 选择您选择的代码片段并单击 **保存**.
+1. 选择您选择的代码片段，然后单击 **保存**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >下拉列表中只会显示经过批准的代码片段。
+   >只有经过批准的代码片段会显示在下拉列表中。
 
    ![](assets/four.png)
 

@@ -6,20 +6,20 @@ exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # 将图像和文件添加到Marketo {#add-images-and-files-to-marketo}
 
-可以轻松地同时添加多个图像和文件。
+可以轻松同时添加多个图像和文件。
 
 1. 转到 **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. 下 **新**，单击 **上传图像** 或 **文件**.
+1. 下 **新建**，单击 **上传图像** 或 **文件**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >每个文件的最大大小为100MB。
 
-1. 要添加多个图像和文件，请浏览到计算机上的正确文件夹，然后按 **Ctrl/Cmd** ，单击要添加的每个文件，然后单击 **打开**.
+1. 要添加多个图像和文件，请浏览到计算机上的正确文件夹，然后按 **Ctrl/Cmd** 并单击要添加的每个文件，然后单击 **打开**.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要在上载之前删除任何排队的文件，请单击文件名旁边的x。
+   >要在上载之前删除所有排队的文件，请单击文件名旁边的x。
 
    >[!TIP]
    >
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->虽然Marketo接受上传的所有文件类型，但只有主要图像类型(JPG、PNG、GIF等) 将在我们的电子邮件编辑器中工作。
+>虽然Marketo接受上传的所有文件类型，但只有主要的图像类型(JPG、PNG、GIF等) 将在我们的电子邮件编辑器中正常工作。
 
 >[!MORELIKETHIS]
 >

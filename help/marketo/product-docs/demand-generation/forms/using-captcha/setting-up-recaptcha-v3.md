@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 设置reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
-ReCAPTCHA v3是一种顺畅的体验，它根据表单提交的可疑程度为其评分，而不使用文本、图像或按钮挑战。 [了解详情](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
+ReCAPTCHA v3是一款流畅的体验，它根据表单提交的可疑程度为其打分，而不使用文本、图像或按钮挑战。 [了解详情](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
 
 ## 检索数据中心和Munchkin ID {#retrieve-your-data-center-and-munchkin-id}
 
@@ -26,7 +26,7 @@ ReCAPTCHA v3是一种顺畅的体验，它根据表单提交的可疑程度为�
 
    ![](assets/setting-up-recaptcha-v3-2.png)
 
-1. 向下滚动到“支持信息”。
+1. 向下滚动至“Support Information（支持信息）”。
 
    ![](assets/setting-up-recaptcha-v3-3.png)
 
@@ -40,11 +40,11 @@ ReCAPTCHA v3是一种顺畅的体验，它根据表单提交的可疑程度为�
 
 1. 单击“创建”按钮（+号）以创建新密钥。
 
-1. 创建一个标签以标识用于Marketo Engage的键。
+1. 创建标签以标识用于Marketo Engage的键。
 
 1. 选择类型 **reCAPTCHA v3**. Marketo Engage当前不支持reCAPTCHA v2。
 
-1. 添加Marketo Engage订阅使用的每个域。 此处未设置的域将在启用reCAPTCHA的表单上返回错误。 请记住将“datacenter”和“munchkinID”替换为 [您的订阅中的数据](#retrieve-your-data-center-and-munchkin-id).
+1. 添加Marketo Engage订阅使用的每个域。 此处未设置的域将在启用reCAPTCHA的表单中返回错误。 请记得将“datacenter”和“munchkinID”替换为 [订阅中的数据](#retrieve-your-data-center-and-munchkin-id).
 
    * app-datacenter.marketo.com
    * munchkinID.mktoweb.com
@@ -52,9 +52,9 @@ ReCAPTCHA v3是一种顺畅的体验，它根据表单提交的可疑程度为�
 
    >[!NOTE]
    >
-   >例如，如果您帐户的数据中心为“sjst”，则您要允许列表的域将为 `app-sjst.marketo.com`. 如果您的Munchkin ID是123-ABC-789，则允许列表的域将为 `123-ABC-789.mktoweb.com`.
+   >例如，如果客户的数据中心为“sjst”，则允许列表的域将为 `app-sjst.marketo.com`. 如果Munchkin ID为123-ABC-789，则允许列表的域将为 `123-ABC-789.mktoweb.com`.
 
-1. 设置应接收有关此服务的任何警报的所有者和其他电子邮件地址。
+1. 设置所有者和应接收有关此服务的所有警报的其他电子邮件地址。
 
 1. 接受reCAPTCHA服务条款。
 
@@ -68,13 +68,13 @@ ReCAPTCHA v3是一种顺畅的体验，它根据表单提交的可疑程度为�
 
 >[!IMPORTANT]
 >
->执行以下步骤和 [在第一个Marketo表单中启用验证码](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}，请务必立即测试表单，因为reCAPTCHA设置中的任何类型的错误配置都会破坏表单。
+>执行以下步骤和 [在第一个Marketo表单中启用验证码](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}，请务必立即测试表单，因为reCAPTCHA设置中的任何错误配置都可能会破坏表单。
 
 1. 在Marketo中，单击 **管理员**.
 
    ![](assets/setting-up-recaptcha-v3-4.png)
 
-1. 选择 **验证码** 在树中。
+1. 选择 **验证码** 在树上。
 
    ![](assets/setting-up-recaptcha-v3-5.png)
 

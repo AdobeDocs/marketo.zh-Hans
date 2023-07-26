@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360281
 description: 删除项目渠道 — Marketo文档 — 产品文档
-title: 删除项目群频道
+title: 删除项目频道
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# 删除项目群频道 {#delete-a-program-channel}
+# 删除项目频道 {#delete-a-program-channel}
 
-项目群渠道是潜在客户在项目群中经历的状态或检查点的集合。
+项目群渠道是项目群中潜在客户应通过的状态或检查点的集合。
 
-如果您意外创建了一个模板或者不再需要它，则可以将其删除。
+如果意外制作或不再需要某个，可以将其删除。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 

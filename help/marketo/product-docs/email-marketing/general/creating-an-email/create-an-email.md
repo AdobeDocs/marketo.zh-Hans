@@ -21,13 +21,13 @@ ht-degree: 0%
 
    ![](assets/create-an-email-1.png)
 
-1. 单击 **新** 下拉菜单并选择 **新建电子邮件**.
+1. 单击 **新建** 下拉并选择 **新建电子邮件**.
 
    ![](assets/create-an-email-2.png)
 
    >[!NOTE]
    >
-   >在Design Studio中创建电子邮件时，可在树中的“电子邮件”下找到它。
+   >在Design Studio中创建电子邮件时，可在树中的“电子邮件”下找到该电子邮件。
 
 简单！ 现在换个方式……
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/create-an-email-3.png)
 
-1. 选择要将电子邮件添加到的程序，单击 **新** 下拉菜单并选择 **新建本地资产**.
+1. 选择要将电子邮件添加到的程序，单击 **新建** 下拉并选择 **新建本地资产**.
 
    ![](assets/create-an-email-4.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可以从一组现成的响应式电子邮件模板中进行选择，也可以通过先选择而保存的模板 **我的模板**，并按照相同的步骤操作。
+   >您可以从一系列现成的响应式电子邮件模板中进行选择，也可以选择通过首先选择保存的模板 **我的模板**，并遵循相同的步骤。
 
 1. 输入主题行。 建议的字符限制为50。
 
@@ -67,4 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[编辑您的电子邮件标头](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
+>[编辑电子邮件标题](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)

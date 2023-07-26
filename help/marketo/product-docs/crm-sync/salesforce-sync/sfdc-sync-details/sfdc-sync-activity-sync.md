@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # SFDC同步：活动同步 {#sfdc-sync-activity-sync}
 
-Marketo还通过Salesforce活动数据进行同步。 以下是一些问题和答案。
+Marketo还会通过Salesforce活动数据进行同步。 以下是一些问题和答案。
 
-## Marketo同步哪些类型的活动数据？ {#what-types-of-activity-data-does-marketo-sync-over}
+## Marketo通过哪些类型的活动数据进行同步？ {#what-types-of-activity-data-does-marketo-sync-over}
 
-Marketo可通过与潜在客户或联系人关联的事件和任务进行同步。
+Marketo会同步与潜在客户或联系人关联的事件和任务。
 
-## 活动详细信息如何在这两个系统之间保持同步？ {#how-are-activity-details-kept-in-sync-between-the-two-systems}
+## 两个系统之间的活动详细信息如何保持同步？ {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-从Salesforce到Marketo，同步是单向的。 但是，您可以在Salesforce中使用 [创建任务](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 流程步骤或 [自定义活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) Salesforce。
+同步是单向的，从Salesforce到Marketo。 但是，您可以在Salesforce中使用 [创建任务](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 流程步骤或 [自定义活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) 到Salesforce。
 
 ## 我可以使用Marketo创建任务吗？ {#can-i-create-a-task-using-marketo}
 
-可以，您可以使用 [“创建任务流”操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
+可以，您可以使用 [创建任务流操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
 ## 与活动相关的触发器/过滤器有哪些？ {#what-are-the-triggers-filters-related-to-activity}
 

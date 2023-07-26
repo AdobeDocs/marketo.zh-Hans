@@ -5,18 +5,18 @@ exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 feature: Dynamic Chat
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '857'
+ht-degree: 2%
 
 ---
 
 # Dynamic Chat概述 {#dynamic-chat-overview}
 
-Dynamic Chat允许您利用易于使用的界面来定位访问您网站的人和帐户。 收集相关内容，如姓名、联系信息和自由文本。 网站访客还可以预订与您的销售团队的会议。 Dynamic Chat活动和参与数据可用于将成员添加到Marketo项目群并触发跨渠道活动。
+Dynamic Chat功能允许您利用简单易用的界面来定位访问您网站的用户和帐户。 收集相关内容，如姓名、联系信息和自由文本。 网站访客还可以与您的销售团队预约会议。 Dynamic Chat活动和参与数据可用于将成员添加到Marketo项目并触发跨渠道活动。
 
 >[!NOTE]
 >
->Dynamic Chat正在逐步推出，目前可用性有限。 此页面将在正式发布时进行更新，并提供正式发布版(GA)详细信息。
+>Dynamic Chat正在逐步推出，目前可用性有限。 当此页面可用时，将使用一般可用性(GA)详细信息对其进行更新。
 
 >[!TIP]
 >
@@ -34,7 +34,7 @@ Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo�
 
 ## 对话 {#dialogues}
 
-对话框表示单个聊天参与。 将其视为一个容器，其中包含与网站访客进行引人入胜的聊天对话框所需的所有内容。 在每个对话框中，您可以指定您希望对话框显示的页面、显示给哪个页面，以及对话框本身的内容和流程。 此外，您还可以找到一些量度以查看您的对话框的运行情况。 [了解有关对话框的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
+对话框表示单个聊天项目。 将其视为一个容器，其中包含与网站访客进行引人入胜的聊天对话框所需的所有内容。 在每个对话框中，您可以指定希望对话框显示的页面、显示目标对象以及对话框本身的内容和流程。 此外，您还可以查找量度以查看对话框的执行情况。 [了解有关对话框的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## 配置 {#configuration}
 
@@ -42,7 +42,7 @@ Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo�
 
 ## 日程表 {#calendar}
 
-连接你的Outlook或Gmail日历，以便在聊天机器人中的约会计划中使用。 [了解有关日历的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
+连接你的Outlook或Gmail日历，以用于聊天机器人中的约会计划。 [了解有关日历的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## 会议 {#meetings}
 
@@ -50,31 +50,31 @@ Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo�
 
 ## 路由 {#routing}
 
-在这里，您可以查看已连接其日历的所有代理的列表、它们向网站访客呈现的顺序以及创建自定义路由规则。 [了解有关路由的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+在这里，您可以查看已连接其日历的所有代理的列表，以及它们向网站访客呈现的顺序，还可以创建自定义路由规则。 [了解有关路由的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## 常见问题解答 {#faq}
 
-**我是否可以在公司网站上的任何位置安装Dynamic Chat，或者它是否只能在Marketo登陆页面上工作？**
+**我是否可以在公司网站上的任意位置安装Dynamic Chat，或者它只能在Marketo登陆页面上使用？**
 
 Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆页面上。
 
-**数据会存储多长时间以用于报告？**
+**数据会存储多久以用于报表？**
 
-90天（参见完整的限制列表） [以下](#limits-in-dynamic-chat))。
+90天（请参阅完整的限制列表） [以下](#limits-in-dynamic-chat))。
 
-**Dynamic Chat是否允许实时聊天？**
+**Dynamic Chat允许实时聊天吗？**
 
 否，它仅利用预先确定的响应。
 
 **Dynamic Chat支持英语以外的任何语言吗？**
 
-是. Dynamic Chat支持以下语言：法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、朝鲜语、简体中文和繁体中文。 了解详情，请参阅 [以下部分](#changing-the-language).
+是. Dynamic Chat支持以下语言：法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、朝鲜语、简体中文和繁体中文。 在中了解详情 [以下部分](#changing-the-language).
 
 **是否支持AI/NLP功能？**
 
 我们不支持AI/NLP功能。
 
-**我该如何定位匿名用户？**
+**我如何才能定位匿名用户？**
 
 在对话框中，您将需要使用 _人员电子邮件为空_ 属性。
 
@@ -84,9 +84,9 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
 
 >[!IMPORTANT]
 >
->在配置文件级别更改您的语言将更改 _所有_ Experience Cloud应用程序，而不仅仅是Dynamic Chat。
+>在配置文件级别更改您的语言将更改以下项的语言 _所有_ Experience Cloud应用程序，而不仅仅是Dynamic Chat。
 
-1. 在您的Experience Cloud帐户中，单击设置图标，然后选择 **首选项**.
+1. 在您的Experience Cloud帐户中，单击设置图标并选择 **偏好设置**.
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -94,13 +94,13 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. 选择您的新语言（第二种语言是可选的），然后单击 **保存**.
+1. 选择新语言（第二种语言是可选的），然后单击 **保存**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >有几十种语言可供选择，但是，Dynamic Chat语仅支持以下语言：英语、法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、朝鲜语、简体中文和繁体中文。
+   >有几十种语言可供选择，但是Dynamic Chat语仅支持以下语言：英语、法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、朝鲜语、简体中文和繁体中文。
 
 当您更新语言时，除了您亲自填充的单词（例如，流响应）之外，应用程序本身中的所有内容都会更改。
 
@@ -127,7 +127,7 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
  </tr>
  <tr>
   <td>已发布对话框</td>
-  <td>已保存的已发布对话框数</td>
+  <td>保存的已发布对话框数</td>
   <td>100</td>
  </tr>
  <tr>
@@ -137,7 +137,7 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
  </tr>
  <tr>
   <td>每个对话框的属性</td>
-  <td>可添加到单个对话框的受众条件的属性数量</td>
+  <td>单个对话框可添加到受众条件的属性数量</td>
   <td>100</td>
  </tr>
  <tr>
@@ -162,7 +162,7 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
  </tr>
  <tr>
   <td>目标活动保留期</td>
-  <td>目标活动数据的保留时间</td>
+  <td>目标活动数据保留的时间</td>
   <td>24个月</td>
  </tr>
  <tr>
@@ -182,7 +182,7 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
  </tr>
  <tr>
   <td>已参与的对话</td>
-  <td>Web访客每月可参与的聊天会话数</td>
+  <td>Web访客每月可参与的聊天对话数</td>
   <td>250</td>
  </tr>
  <tr>

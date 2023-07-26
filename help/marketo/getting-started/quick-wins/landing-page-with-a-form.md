@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359412
-description: 带有表单的登陆页面 — Marketo文档 — 产品文档
+description: 带表单的登陆页面 — Marketo文档 — 产品文档
 title: 带有表单的登陆页面
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 带有表单的登陆页面 {#landing-page-with-a-form}
 
-## 任务：创建一个带有表单的登陆页面，以吸引新用户。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
+## 任务：创建一个带有表单的登陆页面，以吸引新人员。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
 >[设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-## 步骤1：创建项目 {#step-create-a-program}
+## 第1步：创建程序 {#step-create-a-program}
 
 1. 转到 **[!UICONTROL 营销活动]** 区域。
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. 选择 **学习** 文件夹创建于 [上一个快速入门](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. 下 **[!UICONTROL 新]**，单击 **[!UICONTROL 新建项目群]**.
+1. 选择 **学习** 文件夹创建于 [上一个快速入选](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. 下 **[!UICONTROL 新建]**，单击 **[!UICONTROL 新建项目群]**.
 
    ![](assets/landing-page-with-a-form-2.png)
 
@@ -35,17 +35,17 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在程序名称的末尾包含您的缩写以使其唯一。
+   >在项目名称的末尾包含您的缩写以使其唯一。
 
    >[!NOTE]
    >
-   >项目是一个特定的营销计划。 此 **渠道** 旨在作为投放机制，如网络研讨会、赞助或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉列表中看到不同的渠道选项。 您还可以 [创建您自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >项目是一项特定的营销计划。 此 **渠道** 旨在作为投放机制，如网络研讨会、赞助或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉列表中看到不同的渠道选项。 您还可以 [创建您自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 做得好！ 现在，我们已经创建了一个项目，接下来让我们创建一些内容。
 
 ## 第2步：创建表单 {#step-create-a-form}
 
-1. 选择项目后，单击 **[!UICONTROL 新]** 下拉菜单并选择 **[!UICONTROL 新建本地资产]**.
+1. 选择项目后，单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 新建本地资产]**.
 
    ![](assets/landing-page-with-a-form-4.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
    >
    >看不到表单编辑器？ 您的浏览器可能阻止了窗口。 启用弹出窗口 `app.marketo.com` ，然后单击顶部菜单栏中的编辑草稿。
 
-1. 选择 **[!UICONTROL 电子邮件地址]** 字段和检查 **[!UICONTROL 必需]**.
+1. 选择 **[!UICONTROL 电子邮件地址]** 字段和检查 **[!UICONTROL 为必填项]**.
 
    ![](assets/landing-page-with-a-form-7.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >“跟进”页面是在填写表单后重定向访客的地方。 外部URL是一个选项，但还有更多选项。 参见 [设置表单感谢页面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
+   >“跟进”页面是在填写表单后重定向访客的位置。 外部URL是一个选项，但还有更多选项。 请参阅 [设置表单感谢页面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
 1. 单击 **[!UICONTROL 完成]**.
 
@@ -101,11 +101,11 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-14.png)
 
-   太棒了！ 现在，您有一个包含表单的程序。 让我们继续并创建一个页面。
+   太棒了！ 现在，您有一个包含表单的程序。 让我们继续并创建页面。
 
 ## 第3步：创建登陆页面并添加表单 {#step-create-a-landing-page-and-add-your-form}
 
-1. 选择项目后，单击 **[!UICONTROL 新]** 下拉菜单并选择 **[!UICONTROL 新建本地资产]**.
+1. 选择项目后，单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 新建本地资产]**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
@@ -117,11 +117,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能有不同的模板，不同于屏幕快照中的模板，没关系，只需选择一个模板并继续操作。
+   >您可能有不同的模板，不同于屏幕快照中的模板，没关系，只要选择一个模板并继续操作即可。
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. 打开登陆页面编辑器后，拖动 [!UICONTROL 表单] 元素贴到画布上。
+1. 打开登陆页面编辑器后，拖动 [!UICONTROL 表单] 元素出现在画布上。
 
    ![](assets/landing-page-with-a-form-18.png)
 
@@ -137,11 +137,11 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-21.png)
 
-   做得好！ 现在，您有一个包含表单的登陆页面。 让我们批准您的页面以使其上线。
+   做得好！现在，您有一个登陆页面，上面有一个表单。 让我们批准您的页面以使其上线。
 
-## 第4步：批准登陆页面 {#step-approve-your-landing-page}
+## 第4步：批准您的登陆页面 {#step-approve-your-landing-page}
 
-1. 选择您的登陆页面并单击 **[!UICONTROL 批准草稿]**.
+1. 选择您的登陆页面，然后单击 **[!UICONTROL 批准草稿]**.
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -155,7 +155,7 @@ ht-degree: 0%
 
 ## 步骤5：测试表单 {#step-test-your-form}
 
-1. 选择您的登陆页面并单击 **[!UICONTROL 查看已批准的页面]**.
+1. 选择您的登陆页面，然后单击 **[!UICONTROL 查看已批准的页面]**.
 
    ![](assets/landing-page-with-a-form-24.png)
 
@@ -171,7 +171,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-27.png)
 
-   就在这儿！ 您创建了新登陆页面，并在该页面上有表单，并使用它生成了一个新人员。
+   就在这儿！ 您创建了一个带有表单的新登陆页面，并使用它生成了一个新人员。
 
    ![](assets/landing-page-with-a-form-28.png)
 
@@ -179,6 +179,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄任务1：发送电子邮件爆料](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄任务1：发送电子邮件爆炸邮件](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
 [任务3：简单评分►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

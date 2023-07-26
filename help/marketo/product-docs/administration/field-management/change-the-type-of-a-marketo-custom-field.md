@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
-1. 查找并选择所需的字段。
+1. 查找并选择所需字段。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >不能更改分数和公式字段。
+   >无法更改得分和公式字段。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您看到的警告消息将因您从/更改为的字段类型而异。
+   >您看到的警告消息将因您从/到更改的字段类型而异。
 
    >[!MORELIKETHIS]
    >

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949170
 description: 将Campaign另存为模板 — Marketo文档 — 产品文档
-title: 将营销活动另存为模板
+title: 将您的营销活动另存为模板
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 将营销活动另存为模板 {#save-your-campaign-as-a-template}
+# 将您的营销活动另存为模板 {#save-your-campaign-as-a-template}
 
-您是否曾花时间创建过完美的Web营销活动？ 您现在可以将其另存为模板，以便将来轻松重复使用。
+您是否曾花时间创建过完美的Web营销活动？ 现在，您可以将其另存为模板，以便将来轻松重复使用。
 
 1. 转到 **Web营销活动**.
 

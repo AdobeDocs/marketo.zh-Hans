@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # 项目群成员自定义字段令牌 {#program-member-custom-field-tokens}
 
-## 项目群成员自定义字段的令牌支持 {#token-support-for-program-member-custom-fields}
+## 程序成员自定义字段的令牌支持 {#token-support-for-program-member-custom-fields}
 
 在程序成员自定义字段功能的背面，对令牌框架中的程序成员自定义字段的支持正在扩展。
 
 PMCF令牌将在令牌家族的成员域下受支持。
 
-成员令牌用于项目群成员范围内的字段。 截至当前状态，还使用成员令牌插入来自综合服务合作伙伴的唯一值。 `{{member.webinar url}}` 令牌会自动解析服务提供商生成的人员的唯一确认URL。 {{member.registration code}} 解析为服务提供商提供的注册码。
+成员令牌用于项目群成员范围内的字段。 截至当前状态，成员令牌还用于插入来自集成服务合作伙伴的唯一值。 `{{member.webinar url}}` 令牌会自动解析服务提供商生成的人员的唯一确认URL。 {{member.registration code}} 解析为服务提供商提供的注册码。
 
 >[!NOTE]
 >
 >* 项目群成员自定义字段只能在项目群上下文中使用。
->* 项目群成员自定义字段令牌不能在以下位置使用：电子邮件标头、等待步骤中的日期令牌或代码片段。
->* 成员令牌不支持项目群成员状态。
+>* 项目群成员自定义字段令牌无法用于：电子邮件标头、等待步骤中的日期令牌或代码片段。
+>* 成员令牌不支持项目成员状态。
 
 ## 在Assets中使用项目群成员自定义字段令牌 {#using-program-member-custom-field-tokens-in-assets}
 
-您可以将项目群成员自定义字段令牌插入电子邮件、登陆页面、短信、推送通知和Webhook中。
+您可以将项目群成员自定义字段令牌插入电子邮件、登陆页、短信、推送通知和Webhook中。
 
 **电子邮件**
 
@@ -55,7 +55,7 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
 **登陆页面**
 
-1. 选择您的登陆页面并单击 **编辑草稿**.
+1. 选择您的登陆页面，然后单击 **编辑草稿**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -63,11 +63,11 @@ PMCF令牌将在令牌家族的成员域下受支持。
    >
    >登陆页面设计器将在新窗口中打开。
 
-1. 双击要向其添加令牌的富文本框。
+1. 双击要向其中添加令牌的富文本框。
 
    ![](assets/program-member-custom-field-tokens-6.png)
 
-1. 单击您希望令牌所在的位置，然后单击插入令牌图标。
+1. 单击您希望令牌的位置，然后单击插入令牌图标。
 
    ![](assets/program-member-custom-field-tokens-7.png)
 
@@ -93,7 +93,7 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. 查找并选择所需的项目群成员自定义字段令牌。 输入默认值，然后单击“插入”。
+1. 查找并选择所需的程序成员自定义字段令牌。 输入默认值，然后单击“插入”。
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
@@ -115,17 +115,17 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 查找并选择所需的项目群成员自定义字段令牌。 输入默认值并单击 **插入**.
+1. 查找并选择所需的程序成员自定义字段令牌。 输入默认值并单击 **插入**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. 单击 **完成** 保存并退出(或 **下一个** ，以首先查看)。
+1. 单击 **完成** 保存并退出(或 **下一个** 以首先查看)。
 
    ![](assets/program-member-custom-field-tokens-19.png)
 
 >[!NOTE]
 >
->如果程序成员的程序成员自定义字段没有值，则令牌将被默认值替换（如果已提供）。
+>如果程序成员的程序成员自定义字段没有值，则令牌将被替换为默认值（如果已提供）。
 
 ## 在营销活动中使用项目成员自定义字段令牌 {#using-program-member-custom-field-tokens-in-campaigns}
 
@@ -135,4 +135,4 @@ PMCF令牌将在令牌家族的成员域下受支持。
 * 在Microsoft中创建任务
 * 有趣的时刻
 * 更改数据值流操作
-* Webhook
+* Webhooks

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在Marketo中创建自定义字段 {#create-a-custom-field-in-marketo}
 
-如果您在Marketo Engage中需要新的自定义字段来存储/捕获数据，以下说明如何创建一个。
+如果您在Marketo Engage中需要新的自定义字段来存储/捕获数据，以下是如何创建一个。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
-1. 选择字段类型。 这将更改它在Marketo中的智能列表和表单中的呈现方式。
+1. 选择字段类型。 这将更改它在Marketo的智能列表和表单中的呈现方式。
 
    >[!TIP]
    >
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. 输入 [!UICONTROL 名称] 您希望它在Marketo中显示的方式。 此 [!UICONTROL API名称] 是自动生成的。 您可以对其进行调整，但设置后即无法重命名。 单击 **[!UICONTROL 创建]** 完成时。
+1. 输入 [!UICONTROL 名称] 您希望它在Marketo中显示的方式。 此 [!UICONTROL API名称] 是自动生成的。 您可以对其进行调整，但设置后无法重命名它。 单击 **[!UICONTROL 创建]** 完成时。
 
 >[!CAUTION]
 >
@@ -51,4 +51,4 @@ ht-degree: 0%
 >
 >API名称由SOAP API和其他后端进程使用。
 
-您现在可以在表单、流程步骤和智能列表中使用此自定义字段！
+现在，您可以在表单、流程步骤和智能列表中使用此自定义字段！

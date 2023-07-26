@@ -19,13 +19,13 @@ ht-degree: 1%
 
 ## 概述 {#overview}
 
-此流程步骤将把由Marketo创建的用户作为潜在客户插入到您的Salesforce CRM中。
+此流程步骤将把由Marketo创建的人作为潜在客户插入您的Salesforce CRM。
 
 ![](assets/sync-person-to-sfdc.png)
 
 ## 使用情况 {#usage}
 
-1. 默认情况下，此流程步骤将根据Salesforce自动分配规则分配给潜在客户责任人。
+1. 默认情况下，此流程步骤将根据Salesforce自动分配规则分配给销售线索责任人。
 
    ![](assets/sync-person-to-sfdc.png)
 

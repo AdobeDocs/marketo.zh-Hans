@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 筛选Web营销活动 {#filter-web-campaigns}
 
-在您创建了数百个Web个性化营销活动后，能够使用过滤器仅查看您感兴趣的营销活动会很有帮助。
+在创建数百个Web个性化营销活动后，能够使用过滤器仅查看您感兴趣的营销活动会很有帮助。
 
 1. 转到 **Web营销活动**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. 在Web营销活动页面上，单击 **筛选条件**.
+1. 在Web营销活动页面上，单击 **筛选**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 

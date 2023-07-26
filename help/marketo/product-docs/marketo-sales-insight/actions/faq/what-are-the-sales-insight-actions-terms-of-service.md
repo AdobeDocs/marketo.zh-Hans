@@ -16,4 +16,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->“ToutApp”是Sales Insight Actions的原始名称。
+>“ToutApp”是Sales Insight操作的原始名称。

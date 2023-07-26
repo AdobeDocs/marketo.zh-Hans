@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ## 搜索成员 {#search-for-a-member}
 
-在“成员”部分的底部，使用搜索字段按名称、电子邮件、职称或公司搜索计划成员。
+在成员部分的底部，使用搜索字段按名称、电子邮件、职称或公司搜索计划成员。
 
-1. 单击 **成员** 选项卡。
+1. 单击 **成员** 选项卡中。
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 导出成员网格 {#export-the-members-grid}
 
-单击搜索字段旁边的Excel图标可导出成员列表。
+通过单击搜索字段旁边的Excel图标，可以导出成员列表。
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
@@ -43,17 +43,17 @@ ht-degree: 0%
 
 ![](assets/image2014-10-1-16-3a25-3a30.png)
 
-右键单击列标题可按字母顺序（升序或降序）排序。
+右键单击列标题可按字母顺序排序，可以升序或降序。
 
 ![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## 选择在网格中可见的列 {#choose-which-columns-are-visible-in-the-grid}
 
-1. 单击 **视图** 下拉菜单并选择 **创建视图**.
+1. 单击 **视图** 下拉并选择 **创建视图**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 命名您的自定义视图。 选择列标题。 单击 **添加** 和 **移除** 移动列和创建视图。
+1. 命名您的自定义视图。 选择列标题。 单击 **添加** 和 **移除** 以移动列并创建视图。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 筛选成员网格  {#filter-the-members-grid}
 
-1. 单击 **筛选条件** 下拉列表，然后选择要作为排序依据的进展步骤。
+1. 单击 **筛选** 下拉列表，并选择要作为排序依据的进度步骤。
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 您可以在成员网格中更改人员的状态。
 
-1. 按住 **Ctrl/Cmd** 并选择人员。
+1. 按住 **Ctrl/Cmd** 选择人员。
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
@@ -83,8 +83,8 @@ ht-degree: 0%
 
    ![](assets/changestatusconfirm.png)
 
-功能很多，但都非常简单。 尽情享受！
+功能很多，但都非常简单。 祝您使用愉快！
 
 >[!MORELIKETHIS]
 >
->[创建项目群绩效报表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+>[创建计划绩效报表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)

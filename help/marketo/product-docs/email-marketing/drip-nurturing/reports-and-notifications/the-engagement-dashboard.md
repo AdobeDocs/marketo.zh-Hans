@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359685
-description: 参与度功能板 — Marketo文档 — 产品文档
+description: 参与仪表板 — Marketo文档 — 产品文档
 title: 参与仪表板
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->参与度得分包括您最近三次投放的数据。 每次演绎版后72小时计算一次新演绎版。 进一步了解 [参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>参与度得分包括您最近三次投射的数据。 每次强制转换后72小时计算一次新的。 了解关于 [参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## 查看参与仪表板 {#view-the-engagement-dashboard}
 
-选择您的参与计划，然后单击 **视图** > **仪表板**.
+选择您的参与计划并单击 **视图** > **仪表板**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -29,27 +29,27 @@ ht-degree: 0%
 >
 >查看 [参与流性能报告](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 了解更详细的统计数据。
 
-## 了解耗尽构件 {#understand-the-exhaustion-widget}
+## 了解用完构件 {#understand-the-exhaustion-widget}
 
-此构件可帮助您预测潜在客户何时将耗尽所有内容。 每次演绎版之后会立即计算用完分数。 下面的示例显示，在1个转换中，195个潜在客户将耗尽所有内容。
+此构件可帮助您预测潜在客户何时将耗尽所有内容。 在每次播放后立即计算耗尽分数。 下面的示例显示，在1个转换中，195个潜在客户将耗尽所有内容。
 
 ![](assets/image2014-9-15-16-3a45-3a10.png)
 
 >[!NOTE]
 >
->您必须进入“设置”选项卡，并确保已用完的内容通知已 **日期** 查看上图。 如果它们关闭，则图表看上去将不同。
+>您必须进入“设置”选项卡并确保已用完的内容通知为 **开启** 查看上图。 如果关闭，则图表看上去将不同。
 
 >[!CAUTION]
 >
->“筋疲力尽”的人在下一季不会收到任何通信。
+>“筋疲力尽”的人在下一阵容中不会收到任何通信。
 
-## 了解随时间变化的参与构件 {#understand-the-engagement-over-time-widget}
+## 了解随时间变化的参与情况 {#understand-the-engagement-over-time-widget}
 
-显示一段时间的平均参与度得分以及内容编辑的影响。
+显示一段时间的平均参与度分数以及内容编辑的影响。
 
 >[!AVAILABILITY]
 >
->此功能作为加载项提供，适用于使用Marketo收入周期资源管理器的客户。 有关其他详细信息，请联系Adobe客户团队（您的客户经理）。
+>此功能作为插件提供，适用于使用Marketo Revenue Cycle Explorer的客户。 有关其他详细信息，请联系Adobe客户团队（您的客户经理）。
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
@@ -71,4 +71,4 @@ _最新_ 和 _Oldest_ 基于上次审批时间。
 
 >[!NOTE]
 >
->了解详情，请参阅 [创建参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 深潜。
+>在中了解详情 [创建参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 深度潜水。

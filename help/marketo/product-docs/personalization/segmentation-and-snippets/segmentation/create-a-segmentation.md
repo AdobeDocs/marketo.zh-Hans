@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359447
-description: 创建区段 — Marketo文档 — 产品文档
+description: 创建分段 — Marketo文档 — 产品文档
 title: 创建分段
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 创建分段 {#create-a-segmentation}
 
-利用分段，可将人员分组为不同的用户档案，以便报告和动态内容。 以下是如何创建它们。
+分段允许您将人员分组到不同的配置文件中，以便生成报告和动态内容。 下面是创建这些规则的方法。
 
 1. 转到 **数据库**.
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. 单击 **新** 然后 **新区段**.
+1. 单击 **新建** 然后 **新区段**.
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >您最多可以创建20个分段。
 
-1. 输入 **名称**，单击 **添加区段** 并命名它。
+1. 输入 **名称**，单击 **添加区段** 并为其命名。
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
@@ -41,17 +41,17 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >可在区段中创建的区段总数取决于使用的过滤器的数量和类型，还取决于区段的逻辑有多复杂。 虽然您可以使用标准字段创建最多100个区段，但使用其他类型的过滤器可能会增加复杂性，并且您的区段可能无法批准。 例如：自定义字段、列表成员、潜在客户所有者字段和收入阶段。
+   >可在区段中创建的区段总数，取决于所使用的过滤器的数量和类型，还取决于区段的逻辑复杂程度。 虽然您可以使用标准字段创建最多100个区段，但使用其他类型的过滤器可能会增加复杂性，并且您的区段可能无法批准。 例如：自定义字段、列表成员、潜在客户所有者字段和收入阶段。
    >
-   >如果您在审批期间收到错误消息，并且需要帮助来降低分段的复杂性，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >如果您在审批期间收到错误消息，并且需要协助降低分段的复杂性，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. 拖放区段以更改其顺序。 完成后，单击 **创建**.
+1. 将区段拖放至周围以更改其顺序。 完成后，单击 **创建**.
 
    ![](assets/image2014-9-15-10-3a1-3a30.png)
 
    >[!NOTE]
    >
-   >人员将符合以下项的第一个匹配区段的条件： [订购](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) 已定义。
+   >人员将有资格在 [订购](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) 已定义。
 
    >[!NOTE]
    >

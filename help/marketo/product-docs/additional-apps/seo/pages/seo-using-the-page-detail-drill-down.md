@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SEO — 使用页面详细信息向下展开 {#seo-using-the-page-detail-drill-down}
 
-您可以使用页面详细信息追溯查看有关页面的许多信息。
+您可以使用页面详细信息向下钻取查看有关页面的许多信息。
 
-## 查找页深入分析 {#find-page-drill-down}
+## 查找页向下展开 {#find-page-drill-down}
 
 1. 转到 **[!UICONTROL 页面] 部分**.
 
@@ -29,22 +29,22 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## [!UICONTROL 页面详细信息] 章节 {#page-detail-section}
+## [!UICONTROL 页面详细信息] 部分 {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
 | 项目 | 描述 |
 |---|---|
-| [!UICONTROL 优化得分] | 秘汁用来向您展示优化页面以搜索（从1到100）的效果。 |
+| [!UICONTROL 优化得分] | 秘汁用于向您展示您的页面在1到100之间优化搜索的力度。 |
 | [!UICONTROL 待办事项] 框 | 显示与您所在的页面有关的未完成问题的数量。 |
 | [!UICONTROL 入站链接总数] | 您网站的入站链接总数。 |
 | [!UICONTROL 入站链接（唯一域）] | 至少具有一个指向您网站的入站链接的其他网站数。 |
 | [!UICONTROL 出站链接] | 从此特定页面转到其他网站的链接数。 |
 | [!UICONTROL facebook共享] | 共享此页面的次数 [!DNL Facebook]. |
-| [!UICONTROL facebook点赞] | 此页面共享被点按的次数 [!DNL Facebook]. |
-| [!UICONTROL facebook点击次数] | 来自的点击次数 [!DNL Facebook share]. |
+| [!UICONTROL facebook点赞] | 此页面共享被点赞的次数 [!DNL Facebook]. |
+| [!UICONTROL facebook单击次数] | 来自 [!DNL Facebook share]. |
 
-## [!UICONTROL 针对页面优化的关键字] {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL 页面针对其优化的关键字] {#keyword-s-that-page-is-optimized-for}
 
 这是您所在的位置 [选择您尝试优化页面的关键词](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ## [!UICONTROL 页面优化结果] {#page-optimization-results}
 
-此 [!UICONTROL 页面优化结果] 将告诉您需要执行的确切步骤，以便提高优化得分/更好地搜索此页面。
+此 [!UICONTROL 页面优化结果] 将告诉您需要执行的确切步骤，以便提高优化分数/更好地搜索此页面。
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
 

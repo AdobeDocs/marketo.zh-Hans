@@ -31,4 +31,4 @@ Marketo需要组织服务URL才能与Dynamics实例同步。 下面是如何在D
 
    ![](assets/four.png)
 
-1. 将该URL复制并粘贴到Marketo中，然后尽情享受其余的同步过程。
+1. 将该URL复制并粘贴到Marketo中，然后尽情体验其余的同步过程。

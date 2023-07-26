@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/five-a.png)
 
-1. 选择您正在使用的Outlook版本，然后单击 **下一个**. 在本例中，我们选择了Outlook Online。
+1. 选择正在使用的Outlook版本，然后单击 **下一个**. 在本例中，我们选择Outlook Online。
 
    ![](assets/six-a.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
       <td>也称为Exchange Online</td> 
      </tr>
      <tr>
-      <td><strong>Exchange On-premise</strong></td> 
+      <td><strong>Exchange内部部署</strong></td> 
       <td>包括Exchange 2013和2016</td> 
      </tr>
     </tbody>
@@ -68,11 +68,11 @@ ht-degree: 0%
 
    ![](assets/seven-a.png)
 
-1. 如果您未登录Outlook，请输入您的登录信息并单击 **下一个**. 如果是，请选择想要连接的帐户，然后单击 **下一个**. 在本例中，我们已经登录。
+1. 如果您未登录Outlook，请输入您的登录信息，然后单击 **下一个**. 如果是，请选择要连接的帐户，然后单击 **下一个**. 在本例中，我们已登录。
 
    ![](assets/eight-a.png)
 
-1. 单击 **接受**.
+1. 单击 **Accept**.
 
    ![](assets/nine-a.png)
 
@@ -106,7 +106,7 @@ ht-degree: 0%
 
    ![](assets/five-a.png)
 
-1. 选择您正在使用的Outlook版本，然后单击 **下一个**. 在此示例中，我们选择了Exchange On-premise。
+1. 选择正在使用的Outlook版本，然后单击 **下一个**. 在此示例中，我们选择了Exchange On-premise。
 
    ![](assets/six-b.png)
 
@@ -117,19 +117,19 @@ ht-degree: 0%
       <td>也称为Exchange Online</td> 
      </tr>
      <tr>
-      <td><strong>Exchange On-premise</strong></td> 
+      <td><strong>Exchange内部部署</strong></td> 
       <td>包括Exchange 2013和2016</td> 
      </tr>
     </tbody>
    </table>
 
-1. 输入您的凭据，然后单击 **Connect**.
+1. 输入您的凭据，然后单击 **连接**.
 
    ![](assets/seven-b.png)
 
    >[!NOTE]
    >
-   >如果您在Exchange版本下拉列表中关闭自动发现，则需要向IT部门询问Exchange URL。
+   >如果在Exchange版本下拉列表中关闭自动发现，则需要向IT部门询问Exchange URL。
 
    您可以使用此连接来跟踪电子邮件，也可以将其用作投放渠道。
 

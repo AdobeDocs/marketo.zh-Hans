@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建用于ReST API的自定义服务 {#create-a-custom-service-for-use-with-rest-api}
 
-如果要通过ReST API与Marketo集成，则需要创建自定义服务。 下面是具体操作方法。
+如果您要通过ReST API与Marketo集成，则需要创建自定义服务。 具体方法如下。
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->请查看我们的开发人员文档，以了解有关 [重设API](https://developers.marketo.com/documentation/rest/). 我们还有 [SOAP API](https://developers.marketo.com/documentation/soap/) 如果你需要的话。
+>有关更多详细信息，请参阅我们的开发人员文档 [重设API](https://developers.marketo.com/documentation/rest/). 我们还有 [SOAP API](https://developers.marketo.com/documentation/soap/) 如果这是你所需要的。
 
 ## 创建自定义服务 {#create-custom-service}
 
@@ -39,23 +39,23 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. 选择 **[!UICONTROL 新]** 然后 **[!UICONTROL 新服务]**.
+1. 选择 **[!UICONTROL 新建]** 然后 **[!UICONTROL 新建服务]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. 输入 **[!UICONTROL 显示名称]** 为这项服务。 选择 **[!UICONTROL 仅API用户]** [以前创建](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. 输入 **[!UICONTROL 显示名称]** 为这项服务。 选择 **[!UICONTROL 仅API用户]** [之前已创建](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
    >[!NOTE]
    >
-   >请注意，我们已经对流行的网络研讨会服务进行了本机集成。
+   >请注意，我们已经对常见网络研讨会服务进行了本机集成。
 
 1. 单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   哦，是的！ 服务现已创建，让我们继续获取所有凭据以提供访问权限。
+   哦，太好了！ 服务现已创建，让我们继续获取所有凭据以提供访问权限。
 
 ## 用于访问API的凭据 {#credentials-for-api-access}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. 单击 **[!UICONTROL 查看详细信息]** （对于自定义） [!UICONTROL 启动点] 服务创建于上面。
+1. 单击 **[!UICONTROL 查看详细信息]** 对于自定义 [!UICONTROL 启动点] 服务创建于上面。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
@@ -81,4 +81,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->不要共享此信息；它是您数据的后门。 保持安全！
+>不要共享此信息；这是您数据的后门。 保持安全！

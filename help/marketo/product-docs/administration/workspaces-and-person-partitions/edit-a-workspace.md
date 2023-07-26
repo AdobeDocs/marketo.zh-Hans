@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 编辑工作区 {#edit-a-workspace}
 
-有时，您需要在Workspace中进行更改。 这很容易。
+有时您需要在工作区中进行更改。 这很容易。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->使用对工作区进行向上笔刷 [了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>使用对工作区进行向上刷新 [了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >此 **[!UICONTROL 主要人员分区]** 充当默认设置，并且是分配所有人员的位置。
+   >此 **[!UICONTROL 主要人员分区]** 充当默认值，并为所有人员分配位置。
 
    如果启用了多个品牌域，则可以更改为其他主品牌域。 单击 **[!UICONTROL 保存]**.
 

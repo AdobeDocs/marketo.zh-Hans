@@ -15,7 +15,7 @@ ht-degree: 0%
 
 在此报表中，您可以查看谁正在访问您的网站，甚至可以订阅该报表的电子邮件版本。
 
-您可以选择在同一个报表中显示已知人员或匿名人员，但不能同时显示这两者。
+您可以选择在同一个报表中显示已知人员或匿名人员，但不能同时显示这两种人员。
 
 >[!PREREQUISITES]
 >
@@ -25,22 +25,22 @@ ht-degree: 0%
 
 1. 选择以 [显示已知或匿名人员](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) 在报表中。
 
-1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 并单击 **报告** 选项卡。
+1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然后单击 **报表** 选项卡。
 
-1. 你拿到了！ 查看您的报告以了解谁正在访问您的网站。
+1. 你拿到了！ 查看您的报告以了解哪些人正在访问您的网站。
 
    ![](assets/image2017-3-29-9-3a21-3a36.png)
 
    >[!NOTE]
    >
-   >数据可能需要24小时才能反映在网页活动报表中。
+   >要在网页活动报表中反映数据，最多可能需要24小时。
 
    >[!TIP]
    >
-   >要了解访问您网站次数最多的用户， [对报告进行排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 在 _页面查看次数_ 列并选择降序排序。
+   >要了解访问您网站次数最多的用户， [对报告进行排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 在 _页面查看次数_ 列并选择“降序排序”。
 
-   [Marketo添加匿名](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 网站访客访问您的数据库，您可以选择在此报表中显示这些访客。 它提供了大量信息，即使它们是不记名的。\
-   [可选择的列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 对于网页活动报表，包括：
+   [Marketo添加匿名](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 网站访客访问您的数据库，您可以选择在此报表中显示这些访客。 它提供了大量的信息，即使它们是不记名的。\
+   [可选择的列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 对于网页活动，报表包括：
 
 <table> 
  <thead> 
@@ -60,11 +60,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>页面查看次数</td> 
-   <td>此访客加载的页面数。<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">单击</a></strong> 以查看访问过的页面。</td> 
+   <td>此访客加载的页数。<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">单击</a></strong> 查看访问过的页面。</td> 
   </tr> 
   <tr> 
    <td>HTTP引用程序</td> 
-   <td>包含访客点击的页面链接的URL。</td> 
+   <td>页面URL，其中包含访客点击的页面链接。</td> 
   </tr> 
   <tr> 
    <td>登入页面</td> 
@@ -72,7 +72,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>推断的公司或ISP</td> 
-   <td>从访客的IP地址推断的公司。 <strong>以粗体显示的名称</strong> 表明这是公司，而不是ISP。 </td> 
+   <td>根据访客的IP地址推断的公司。 <strong>以粗体显示的名称</strong> 表明这是公司，而不是ISP。 </td> 
   </tr> 
   <tr> 
    <td>推断的国家/地区、省/地区和城市</td> 

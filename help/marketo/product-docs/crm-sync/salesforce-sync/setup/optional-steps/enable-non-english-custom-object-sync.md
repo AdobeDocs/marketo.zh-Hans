@@ -6,7 +6,7 @@ exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## 绕开它 {#getting-around-it}
+## 绕过它 {#getting-around-it}
 
-1. 使用Marketo同步用户登录Salesforce。
+1. 使用marketo同步用户登录Salesforce。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. 返回Marketo，在 **管理员> Salesforce >对象** 点击 **刷新架构**.
+1. 返回Marketo，在 **管理员> Salesforce >对象** 单击 **刷新架构**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. 请注意，您的自定义对象现已启用并正在同步。
+1. 请注意，您的自定义对象现已启用并同步。
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 

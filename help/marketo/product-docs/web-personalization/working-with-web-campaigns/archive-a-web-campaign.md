@@ -1,7 +1,7 @@
 ---
 unique-page-id: 12978938
 description: 存档Web营销活动 — Marketo文档 — 产品文档
-title: 存档Web营销活动
+title: 存档Web活动
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 存档Web营销活动 {#archive-a-web-campaign}
+# 存档Web活动 {#archive-a-web-campaign}
 
 1. 转到 **Web营销活动**.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >已存档的Web营销活动将不会显示在默认过滤器中。 要查看这些过滤器，请单击过滤器图标，然后在 **状态**，选择 **已存档** 复选框，然后单击 **应用**.
+   >已存档的Web营销活动将不会显示在默认过滤器中。 要查看这些过滤器，请单击过滤器图标，然后单击 **状态**，选择 **已存档** 复选框，然后单击 **应用**.
 
 >[!MORELIKETHIS]
 >

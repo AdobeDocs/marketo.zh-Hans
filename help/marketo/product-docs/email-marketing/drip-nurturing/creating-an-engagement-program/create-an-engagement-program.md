@@ -6,7 +6,7 @@ exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择要在其中创建参与计划的文件夹，然后单击 **新** 和 **新建项目群**.
+1. 选择要在其中创建参与计划的文件夹，然后单击 **新建** 和 **新建项目群**.
 
    ![](assets/newprogramlifecycle.jpg)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
-1. 好了，现在您已经有了参与计划，让我们继续下去并把它打扮得整齐一点。
+1. 好了，现在您已经有了参与计划，让我们继续努力，将其打扮得更加整洁。
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 

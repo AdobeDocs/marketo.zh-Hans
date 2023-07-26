@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 在智能列表触发器和过滤器中使用Vibes SMS消息 {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-在您之后 [创建Vibes SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)，您将在智能营销活动中使用智能列表触发器和过滤器以获得好处。 下面是具体操作方法。
+在您之后 [创建访客SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)，您将在智能营销活动中使用智能列表触发器和过滤器以获取好处。 具体方法如下。
 
 1. 在“我的Marketo”中，单击 **营销活动**.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. 选择要在其中使用短信资源的智能营销活动。 拖动到触发器上，例如受欢迎的 **填写表单**.
+1. 选择您要使用短信资源的智能营销活动。 拖动到触发器上，例如受欢迎的 **填写表单**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -39,27 +39,27 @@ ht-degree: 0%
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-此 **短信消息中的点击链接** 当人员单击短信消息中的链接时，触发器将启动流。
+此 **点击短信消息中的链接** 当人员单击短信消息中的链接时，触发器将启动流程。
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## 短信过滤器 {#sms-filters}
 
-您还可以在智能列表中使用维贝过滤器。 此 **已订阅的Vibes列表** 筛选器查找具有 *从不* 订阅了Vibes。 这包括已取消订阅和已删除的人员，即使已删除的人员将从流量中忽略。 此过滤器最适合报表。
+您还可以在智能列表中使用维贝过滤器。 此 **订阅的访客列表** 筛选器查找具有 *从不* 订阅了Vibes。 这包括已取消订阅和已删除的人员，即使流程中会忽略已删除的人员。 此过滤器最适合报表。
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-相比之下， **Vibes列表的成员** 筛选查找 _任何人_ 当前已订阅的Vibes，最适合用于智能营销活动或列表。
+相比之下， **Vibes列表的成员** 筛选器查找 _任何人_ 当前订阅的访客，最适合用于智能营销活动或列表。
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->所有短信过滤器都包含 **活动日期** 约束。
+>所有短信过滤器都包含 **活动日期** 缺省情况下受约束。
 
 在智能列表中设置Vibes触发器和过滤器后，您可以 [定义流](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
->* [为智能营销活动定义智能列表 |触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [为Smart Campaign定义智能列表 |触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [查找筛选器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

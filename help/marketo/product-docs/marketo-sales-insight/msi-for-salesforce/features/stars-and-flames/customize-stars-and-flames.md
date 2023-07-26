@@ -39,11 +39,11 @@ Marketo Sales Insight使用星星和火焰来确定潜在客户的优先级。 M
    >
    >**动态**  — 是从中派生的百分比值 [相对数据](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). 太棒了。 建议使用此方法。
    >
-   >**静态**  — 允许您定义确切的分数 — 没有更多百分比，没有更多秘密调味品。
+   >**静态**  — 允许您定义确切的分数数字 — 没有更多百分比，没有更多秘密调味品。
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. 根据您的喜好编辑百分比括号，并且 **保存**.
+1. 根据您的喜好编辑百分比方括号，并且 **保存**.
 
    >[!TIP]
    >
@@ -53,6 +53,6 @@ Marketo Sales Insight使用星星和火焰来确定潜在客户的优先级。 M
 
 >[!NOTE]
 >
->一旦做出改变，重新计算恒星和火焰的过程将需要一些时间。 耐心是一种美德。
+>一旦做出改变，重新计算恒星和火焰的过程将需要一段时间。 耐心是一种美德。
 
-亲爱的！ 您刚刚自定义了Marketo计算星星和火焰的方式，以更好地满足您的业务需求。
+甜心！ 您刚刚自定义了Marketo计算星星和火焰的方式，以更好地满足您的业务需求。

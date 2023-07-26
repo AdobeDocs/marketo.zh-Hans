@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 添加关键字 {#seo-add-keywords}
 
-关键字是用户键入搜索引擎的短语。 添加与您的业务最相关的关键词。
+关键字是人员键入搜索引擎的短语。 添加与您的业务最相关的关键词。
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ ht-degree: 0%
    >
    >[了解关键字（摘要视图）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
-干得好！ 现在，您应该会看到关键词列表中新增的内容。
+做得好！ 现在，您应该会看到关键词列表中新增的内容。

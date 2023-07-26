@@ -6,7 +6,7 @@ exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Lead和Contact列表视图中提供了批量操作的Sales Connect按钮。
+>Lead和Contact列表视图中提供了用于批量操作的Sales Connect按钮。

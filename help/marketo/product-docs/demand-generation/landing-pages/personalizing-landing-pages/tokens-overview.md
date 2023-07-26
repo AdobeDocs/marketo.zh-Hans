@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # 令牌概述 {#tokens-overview}
 
-令牌是一个变量，可用于Marketo智能营销活动流程步骤、电子邮件、登陆页面、代码片段和Web营销活动。
+令牌是一个变量，可在Marketo智能营销活动流程步骤、电子邮件、登陆页面、代码片段和Web营销活动中使用。
 
 ## 了解默认值 {#understanding-default-values}
 
-当您使用令牌时，还需要提供默认值。 这是显示某人是否没有您引用的字段值的文本。
+当您使用令牌时，您还需要提供默认值。 这是显示某人是否不具有您正在引用的字段值的文本。
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-在此示例中，电子邮件将显示“Greetings， (first name)”或“Greetings， earthling”（默认值）。
+在此示例中，电子邮件会显示“Greetings， (first name)”或“Greetings， earthling”（默认值）。
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->使用Marketo的电子邮件编辑器时，令牌在预标头中无法正常工作。 要在预标头中使用令牌，它必须通过您在电子邮件模板中自己的HTML。
+>使用Marketo的电子邮件编辑器时，令牌在预标头中无法使用。 要在预标头中使用令牌，必须通过在电子邮件模板中使用您自己的HTML来使用此令牌。
 
 >[!NOTE]
 >
->这份清单并非详尽无遗。 此外，还会为您在Marketo中拥有的每个自定义字段创建令牌。
+>这份清单并非详尽无遗。 令牌也是为您在Marketo中拥有的每个自定义字段创建的。
 
 ## 人员令牌 {#person-tokens}
 
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->查找更多有关 [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 基于智能营销活动中使用的触发器。
+>查找有关以下内容的更多详细信息 [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 基于智能营销活动中使用的触发器。
 
 ## 项目令牌 {#program-tokens}
 
@@ -159,11 +159,11 @@ ht-degree: 0%
 
 ## 我的令牌 {#my-tokens}
 
-我的Token是在项目中定义的，并且以 `{{my.` 后跟您为令牌创建的名称。 详细了解 [程序中的我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+我的令牌在项目中定义并以开头 `{{my.` 后跟您为令牌创建的名称。 了解有关 [程序中的我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## 成员令牌 {#member-token}
 
-成员令牌用于插入来自集成服务合作伙伴的唯一值。 成员令牌的常见用途是网络研讨会出席者的唯一URL。 每个人都有一个访问网络研讨会的唯一URL，可使用插入 `{{member.webinar url}}` 令牌。 此 `{{member.webinar url}}` 令牌会自动解析服务提供商生成的人员的唯一确认URL。
+成员令牌用于插入来自集成服务合作伙伴的唯一值。 成员令牌的常见用途是用于网络研讨会参与者的唯一URL。 每个人员都有一个访问网络研讨会的唯一URL，可使用插入 `{{member.webinar url}}` 令牌。 此 `{{member.webinar url}}` 令牌会自动解析服务提供商生成的人员的唯一确认URL。
 
 * `{{member.webinar url}}`
 

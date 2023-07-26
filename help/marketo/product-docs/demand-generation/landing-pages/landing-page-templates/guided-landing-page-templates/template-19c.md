@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
-此模板包含以下内容：
+此模板包括以下内容：
 
 * 主分区
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 五个正文部分（可选）
 * 页脚（可选）
 
-**右键单击以下内容可下载此模板：**
+**右键单击以下内容以下载此模板：**
 
 [模板19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)

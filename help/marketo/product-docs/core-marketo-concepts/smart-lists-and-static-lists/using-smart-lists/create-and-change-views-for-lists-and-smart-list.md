@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557337
-description: 创建和更改列表和智能列表视图 — Marketo文档 — 产品文档
+description: 创建和更改列表和智能列表的视图 — Marketo文档 — 产品文档
 title: 创建和更改列表和智能列表的视图
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建和更改列表和智能列表的视图 {#create-and-change-views-for-lists-and-smart-list}
 
-智能列表显示一组默认列。 你知道你可以把这些栏编辑成你心中的内容吗？ 下面是具体操作方法。
+智能列表显示一组默认列。 你知道你可以把这些栏编辑成你心中的内容吗？ 具体方法如下。
 
 ## 创建视图 {#create-a-view}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/smartlist-editcustomview.png)
 
-1. 进行所需的更改并单击 **保存**.
+1. 进行所需的更改，然后单击 **保存**.
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
-只有您才能在“视图”下拉列表中看到您创建的自定义视图，因此请告诉您的朋友，他们需要创建自己的视图！
+只有您才能在“视图”下拉列表中看到您创建的自定义视图，因此请告知您的朋友他们需要创建自己的视图！
 
 >[!MORELIKETHIS]
 >

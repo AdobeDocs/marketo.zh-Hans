@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics同步： Contact同步 {#microsoft-dynamics-sync-contact-sync}
+# Microsoft Dynamics同步：联系人同步 {#microsoft-dynamics-sync-contact-sync}
 
-您是否知道Marketo会将您的整个数据库与Dynamics同步？ 它同步，然后等待5分钟，然后每天再次同步。 以下是Marketo如何专门处理Dynamics联系人的一些详细信息。
+您是否知道Marketo会将您的整个数据库与Dynamics同步？ 它同步，然后等待5分钟，然后每天再次同步。 以下是Marketo如何具体处理Dynamics联系人的一些详细信息。
 
 ## 两个系统之间的详细信息如何保持同步？ {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 如果两个系统中的同一字段同时发生更改，该怎么办？ （数据冲突） {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-尽管这种情况很少见，但Marketo将赢得人们的支持，Dynamics将赢得联系人的支持。 这是因为我们认为营销部门对人具有权威性，而官方的联系人记录系统是在销售(CRM)部门。
+尽管这种情况很少见，但Marketo将赢得员工的青睐，Dynamics将赢得联系人的青睐。 这是因为我们认为营销部门对人具有权威性，而官方的联系人记录系统是在销售(CRM)部门。
 
 ## 我可以使用Marketo创建联系人吗？ {#can-i-create-a-contact-using-marketo}
 
-是. [下面是具体操作方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md).
+是. [以下是具体操作方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md).
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 我可以手动强制同步人员或联系人吗？ {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-不需要，自动后台同步是在Marketo和Dynamics之间同步更新的唯一方法。 此 [将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) 不会强制同步潜在客户。
+不会，自动后台同步是在Marketo和Dynamics之间同步更新的唯一方法。 此 [将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) 不会强制同步潜在客户。
 
 ## 哪些字段将同步到Marketo？ {#what-fields-will-sync-to-marketo}
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 ## Marketo是否会遵守Dynamics验证规则？ {#will-marketo-respect-the-dynamics-validation-rules}
 
-是，如果存在冲突，它会将结果记录在潜在客户活动日志中。
+是，如果存在冲突，它将在潜在客户活动日志中记录结果。

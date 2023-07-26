@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 从Salesforce自动登录 {#auto-login-from-salesforce}
 
-自动登录允许Sales Insight Actions用户在从Salesforce中工作时，自动对Sales Insight Actions进行身份验证。
+自动登录允许Sales Insight Actions用户在从Salesforce中工作时，自动验证Sales Insight Actions。
 
 要使用自动登录，请执行以下操作：
 
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 * 必须已邀请用户使用销售分析操作
 
-* 用户必须通过将其Salesforce帐户连接到其Sales Insight Actions实例来激活帐户
+* 用户必须通过将其Salesforce帐户连接到其Sales Insight Actions实例来激活该帐户
 
-* 用户的Sales Insight Actions用户名必须与其Salesforce用户名匹配（或其Salesforce用户名和电子邮件匹配）
+* 用户的Sales Insight Actions用户名必须与其Salesforce用户名匹配（或者其Salesforce用户名和电子邮件匹配）
 
 >[!MORELIKETHIS]
 >

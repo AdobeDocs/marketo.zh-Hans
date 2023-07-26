@@ -15,19 +15,19 @@ ht-degree: 0%
 
 有时最好只是列出规则。 接下来是：
 
-* 合并两个潜在客户时 **Salesforce**，普通同步会告知Marketo和潜在客户作为Marketo中的人员自动合并。
-* 将两个人员合并到 **Marketo** 实际上调用与将它们作为Salesforce中的潜在客户合并相同的过程。 它仍然自动工作。
-* 合并 **潜在客户（人员）引入联系人** 工作方式相同。 最后两边都只有一个接触点。
-* 合并时，默认分数是总和。
+* 当您合并两个潜在客户时 **Salesforce**，普通同步会告知Marketo和潜在客户作为Marketo中的人员自动合并。
+* 将两个人员合并到 **Marketo** 实际上调用与在Salesforce中将它们合并为潜在客户相同的过程。 它仍然自动工作。
+* 合并 **领导（人员）联系人** 工作方式相同。 最终两边只有一个接触点。
+* 合并时，将汇总默认得分。
 
 >[!NOTE]
 >
->如果将3个各自分数为10的商机（人员）合并，则将得到1个商机（人员）的得分为30分。
+>如果将3个各自得分为10分的潜在客户（人员）合并，则将得到1个潜在客户（人员）的结果，得分为30。
 
 * 从“入选记录”中获取冲突的字段值。 （记录=产生的潜在客户或联系人）
-* 如果“输记录”（正在消失的记录）有价值，而胜记录没有价值，我们将保留输记录。 换句话说，“有价值总比没有价值好。”
-* 所有活动日志项目都会被合并。
+* 如果“失败记录”（正在消失的记录）有价值，而获胜记录没有价值，我们将保留失败记录。 换句话说，“有价值总比没有价值好。”
+* 所有活动日志项都会被合并。
 
 >[!NOTE]
 >
->深入了解，以了解有关 [合并Marketo中的人员](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>深入了解有关 [合并Marketo中的人员](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).

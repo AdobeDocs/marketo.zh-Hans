@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 查看Smart Campaign结果 {#view-smart-campaign-results}
 
-想要查看智能营销活动中发生的所有事情的划分吗？ 很简单，就是这样。
+想要查看智能营销活动中发生的所有事情的划分吗？ 这很简单，就是这样。
 
 1. 在智能营销活动中，单击 **结果**.
 
    >[!TIP]
    >
-   >您可以通过单击，查看智能营销活动处理的人员列表 [查看营销活动成员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md).
+   >您可以通过单击来查看智能营销活动处理的人员列表 [查看营销活动成员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md).
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >您还可以根据活动类型筛选结果。 了解如何 [筛选智能营销活动结果](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
+   >您还可以根据活动类型筛选结果。 了解如何 [过滤智能营销活动结果](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
 
 1. 单击 **ID** 查看有关该特定活动的更多详细信息。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >通过单击人员姓名查看人员详细信息。
 
-   挖掘结果以查看您的营销活动实际执行了什么操作，或只是 [将智能营销活动结果导出到Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
+   挖掘结果以了解您的营销活动实际执行了哪些操作，或者 [将智能营销活动结果导出到Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
 
    >[!MORELIKETHIS]
    >

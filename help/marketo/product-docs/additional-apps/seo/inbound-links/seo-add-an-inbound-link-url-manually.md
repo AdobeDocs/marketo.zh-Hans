@@ -29,8 +29,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >你知道你可以 [将入站链接添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}？ 看看吧！
+   >你知道你可以 [将入站链接添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}？ 看啊！
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
-摇滚！ 现在，您应该会看到新的URL已添加到列表中。 收集所有数据可能需要一些时间。
+摇滚起来！ 现在，您应该会看到新的URL已添加到列表中。 收集所有数据可能需要一些时间。

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 将电子表格中的成员导入程序 {#import-members-from-a-spreadsheet-into-a-program}
 
-您可以导入自动成为项目群成员的人员列表。 接下来该做什么。
+您可以导入自动成为项目群成员的人员列表。 该怎么做呢。
 
 ## 准备CSV文件 {#prepare-your-csv-file}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >将日期导入日期字段时，请使用此格式： 9/29/13（月/日/年）。
+   >将日期导入日期字段时，请使用此格式：2013年9月29日（月/日/年）。
 
 ## 将CSV导入Marketo {#import-your-csv-into-marketo}
 

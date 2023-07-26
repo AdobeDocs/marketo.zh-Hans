@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->了解Marketo的功能 [保护表单安全](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>了解Marketo的功能 [保持表单安全](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. 转到 **营销活动**.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/programseelct.png)
 
-1. 下 **新**，单击 **新** **本地** **资产**.
+1. 下 **新建**，单击 **新建** **本地** **资产**.
 
    ![](assets/newlocalasset.png)
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->大多数客户会为每个登陆页面创建一个新表单，但您也可以创建一个要与多个登陆页面一起使用的表单。 这完全取决于你！
+>大多数客户会为每个登陆页面创建一个新表单，但您也可以创建一个表单以用于多个登陆页面。 完全由您决定！
 
-真贴心！ 现在，表单已创建，让我们继续操作并将其修饰。
+真贴心！ 现在，表单已创建完毕，让我们将其整理一下。
 
 >[!MORELIKETHIS]
 >

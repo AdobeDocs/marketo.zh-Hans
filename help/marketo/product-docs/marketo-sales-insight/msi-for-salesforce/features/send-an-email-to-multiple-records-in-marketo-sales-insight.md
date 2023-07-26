@@ -1,7 +1,7 @@
 ---
 unique-page-id: 5472672
-description: 向Marketo Sales Insight - Marketo Docs — 产品文档中的多个记录发送电子邮件
-title: 向Marketo Sales Insight中的多个记录发送电子邮件
+description: 向Marketo Sales Insight - Marketo文档 — 产品文档中的多个记录发送电子邮件
+title: 向Marketo Sales Insight中的多条记录发送电子邮件
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# 向Marketo Sales Insight中的多个记录发送电子邮件 {#send-an-email-to-multiple-records-in-marketo-sales-insight}
+# 向Marketo Sales Insight中的多条记录发送电子邮件 {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
-使用Marketo Sales Insight向多人发送Marketo电子邮件非常简单。 让我们开始吧。
+使用Marketo Sales Insight向多人发送Marketo电子邮件非常简单。 我们开始吧。
 
 1. 在Salesforce中，单击 **潜在客户** 或 **联系人**.
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-1.png)
 
-1. 单击 **开始** 以查看所有打开的潜在客户。
+1. 单击 **开始** 以查看所有未结潜在客户。
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >没看见按钮吗？ 确保您已 [已将Marketo按钮添加到列表视图](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
+   >没看到按钮吗？ 确保您已 [已将Marketo按钮添加到列表视图](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
 
 1. 继续并撰写电子邮件。 单击 **使用Marketo发送** 完成后。
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >一次最多可以发送200封Marketo电子邮件。
+   >一次最多可发送200封Marketo电子邮件。

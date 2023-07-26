@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360389
-description: 在Revenue Explorer和Analyser中创建一个不含期间成本的计划 — Marketo文档 — 产品文档
+description: 在Revenue Explorer和Analysers - Marketo文档 — 产品文档中提供无期间成本的计划
 title: 使无期间成本的程序在收入浏览器和分析器中可用
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 使无期间成本的程序在收入浏览器和分析器中可用 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-“项目期间成本”允许您为项目定义“多少钱”和“何时”。 这显示在Revenue Cycle Explorer和 [分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+计划期间成本允许您为计划定义“多少钱”和“何时”。 这显示在Revenue Cycle Explorer和 [分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-某些程序可能需要包括在内，即使它们没有期间成本。 虽然您可以输入0作为期间成本，但我们已使纳入这些计划变得更加容易。
+即使没有期间成本，也可能需要纳入某些计划。 虽然您可以输入0作为期间成本，但我们已使纳入这些计划更加容易。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >使用此渠道的所有程序（无论期间成本如何）都将可供收入资源管理器和分析器使用。 此更改将于次日生效。
+   >使用此渠道的所有程序，无论期间成本如何，都将可供收入浏览器和分析器使用。 此更改将在第二天生效。
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
@@ -43,10 +43,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您注意到了“操作”选项吗？ 事实正好相反。 它不包括这些计划，而不考虑期间成本。
+>您注意到了“可操作”选项吗？ 事实正好相反。 它不包括这些计划，而不考虑期间成本。
 
-做得好！ 现在，使用修改后的渠道的任何程序都将包含在收入资源管理器和分析器中，而无需期间成本。
+做得好！ 现在，任何使用修改后的渠道的计划都将包含在收入浏览器和分析器中，而无需支付期间成本。
 
 >[!MORELIKETHIS]
 >
->[覆盖程序级别的Analytics行为](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+>[覆盖项目级别的Analytics行为](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)

@@ -37,4 +37,4 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->此设置仅适用于报表和警报中的链接。 确实如此 **非** 应用于已发送电子邮件 [下载报告](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 链接或营销电子邮件。
+>此设置仅适用于报表和警报中的链接。 确实如此 **非** 应用到已发送电子邮件 [下载报告](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 链接或营销电子邮件。

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 添加/删除自定义对象字段作为智能列表/触发器约束 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage提供对Veeva自定义对象同步的特定控制。 这样，您就可以选择可用作自定义对象过滤器中的约束条件的字段，并在智能营销活动中将其用作触发器。
+Marketo Engage提供对Veeva自定义对象同步的特定控制。 这允许您选择可用作自定义对象过滤器中的约束条件的字段，并在智能营销策划中将其用作触发器。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Marketo Engage提供对Veeva自定义对象同步的特定控制。 这样，您
    >
    >如果“编辑可见字段”按钮呈灰显状态，则表示该对象当前正用于智能列表或智能营销活动中。 删除所有关联以继续。
 
-1. 如果已启用全局同步，请单击 **禁用全局同步**.
+1. 如果启用了全局同步，请单击 **禁用全局同步**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
@@ -44,9 +44,9 @@ Marketo Engage提供对Veeva自定义对象同步的特定控制。 这样，您
 
    >[!NOTE]
    >
-   >默认情况下，选择所有字段作为筛选条件的约束。
+   >默认情况下，选择所有字段作为筛选条件的限制。
 
-1. 单击“字段”选项卡以确认更改。
+1. 单击字段选项卡以确认更改。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 
@@ -54,7 +54,7 @@ Marketo Engage提供对Veeva自定义对象同步的特定控制。 这样，您
 >
 >不要忘记重新启用全局同步！
 
-现在，您的智能列表和智能营销活动具有更大的威力。
+现在，您的智能列表和智能营销活动具有更强的功能。
 
 >[!MORELIKETHIS]
 >

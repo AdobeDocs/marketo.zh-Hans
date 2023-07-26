@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 安装Marketo Insights for Google Chrome {#install-marketo-insights-for-google-chrome}
 
-按照以下步骤开始使用功能强大的Chrome加载项。
+按照以下步骤开始使用功能强大的Chrome插件。
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您无需是Marketo管理员即可安装该扩展。
+>您无需成为Marketo管理员即可安装该扩展。
 
-1. 安装 [Marketo Insights for Google Chrome加载项扩展](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) 从Chrome网上商店。
+1. 安装 [Marketo Insights for Google Chrome插件扩展](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) 从Chrome网上商店。
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. 右键单击Chrome中的Marketo徽标并选择 **选项**.
+1. 右键单击Chrome中的Marketo徽标，然后选择 **选项**.
 
    ![](assets/two.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >注册代码将在Marketo管理员发送后的电子邮件中 [向您颁发Marketo电子邮件加载项许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14天后过期**.
 
-1. 单击 **允许** 以允许脱机访问。
+1. 单击 **允许** 允许脱机访问。
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 

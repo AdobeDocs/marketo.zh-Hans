@@ -6,7 +6,7 @@ exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-1. 从导航树中选择报告，然后单击 **报告** 选项卡。
+1. 从导航树中选择您的报表，然后单击 **报表** 选项卡。
 
    ![](assets/reports2.jpg)
 

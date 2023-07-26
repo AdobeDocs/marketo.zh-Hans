@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 项目计划查看条目类型 {#program-schedule-view-entry-types}
 
-有8种不同的内置条目类型可见，并可在程序计划视图中使用。 您还可以 [创建自定义条目类型](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) 在“管理员”部分中。
+有八种不同的内置条目类型将可见，并可在程序计划视图中使用。 您还可以 [创建自定义条目类型](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) 在管理员部分中。
 
 <table> 
  <thead> 
@@ -44,12 +44,12 @@ ht-degree: 0%
    <td colspan="1" rowspan="1">在计划的电子邮件程序中测试电子邮件。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">订婚演员阵容 <img alt="--" src="assets/image2014-9-24-10-3a5-3a53.png" data-linked-resource-id="3082720" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">参与转换 <img alt="--" src="assets/image2014-9-24-10-3a5-3a53.png" data-linked-resource-id="3082720" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">参与计划的流播放日期。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">网络研讨会 <img alt="--" src="assets/image2014-9-24-10-3a6-3a4.png" data-linked-resource-id="3082721" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">连接到支持的网络研讨会提供商的活动计划的网络研讨会日期。</td> 
+   <td colspan="1" rowspan="1">与受支持的网络研讨会提供商连接的事件程序的网络研讨会日期。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">主事件 <img alt="--" src="assets/image2014-9-24-10-3a6-3a15.png" data-linked-resource-id="3082722" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 

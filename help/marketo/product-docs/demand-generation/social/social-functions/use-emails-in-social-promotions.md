@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在社交促销活动中使用电子邮件 {#use-emails-in-social-promotions}
 
-当您创建 [反向链接优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以包含要在人员注册时发送的电子邮件，以及在人员赢得奖励时再次发送的电子邮件。
+当您创建 [推荐优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以包含要在人员注册时发送的电子邮件，以及在人员赢得奖励时再次发送的电子邮件。
 
 >[!TIP]
 >
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 在电子邮件中，使用以下令牌：
 
-* **注册电子邮件**：使用 **`{{social.Share Url}}`** ，以便向每位参与人员发送个性化共享链接。
+* **注册电子邮件**：使用 **`{{social.Share Url}}`** 以向每位参与人员发送个性化共享链接。
 
 * **履行电子邮件**：使用 **`{{social.Promo Code}}`** ，将每个入选者发送 [促销代码](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
 
 >[!PREREQUISITES]
 >
->在将电子邮件添加到社交应用程序之前，必须 _可操作_ 和 _已批准_. 参见 [编辑电子邮件的设置](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>在将电子邮件添加到社交应用程序之前，必须 _可操作_ 和 _已批准_. 请参阅 [编辑电子邮件的设置](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. 转到 **营销活动**.
 
@@ -53,20 +53,20 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-16-3a15-3a26.png)
 
-1. 在反向链接优惠中，选择是自动还是手动发送履行电子邮件。
+1. 在推荐优惠中，选择是自动还是手动发送履行电子邮件。
 
    ![](assets/image2014-9-19-16-3a15-3a36.png)
 
 >[!NOTE]
 >
->在抽奖活动中，当您 [选择入选者](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>在抽奖活动中，履行电子邮件始终会在您完成任务时自动发送 [选择入选者](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
 
 >[!NOTE]
 >
 >**条件**
 >
->* **目标自动**：当每个参与者满足目标时，将自动发送完成电子邮件。
->* **手动发送**：一旦人们开始实现目标，请返回到您的反向链接选件以手动 [发送履行电子邮件](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **自动完成目标**：当每个参与者满足目标时，将自动发送完成电子邮件。
+>* **手动发送**：一旦人们开始实现目标，请手动返回您的反向链接选件 [发送履行电子邮件](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
 
 >[!MORELIKETHIS]

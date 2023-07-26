@@ -31,6 +31,6 @@ ht-degree: 0%
 
    ![](assets/verify-your-email-4.png)
 
-1. 然后，收件人打开电子邮件，并按照步骤验证电子邮件身份。
+1. 收件人随后会打开电子邮件，并按照以下步骤验证电子邮件身份。
 
    ![](assets/verify-your-email-5.png)

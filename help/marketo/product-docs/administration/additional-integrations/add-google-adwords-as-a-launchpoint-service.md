@@ -13,9 +13,9 @@ ht-degree: 1%
 
 # 添加 [!DNL Google AdWords] as a [!DNL LaunchPoint] 服务 {#add-google-adwords-as-a-launchpoint-service}
 
-关联您的 [!DNL Google AdWords] 帐户到Marketo以自动将离线转化数据从Marketo上传到 [!DNL Google AdWords]. 然后，从 [!DNL AdWords] 在UI中，您将能够轻松地看到哪些点击导致了符合条件的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段） [添加自定义列](https://support.google.com/adwords/answer/3073556){target="_blank"} 在 [!DNL AdWords]. 此信息不会显示在Marketo UI中。
+关联您的 [!DNL Google AdWords] 帐户到Marketo以自动将离线转化数据从Marketo上传到 [!DNL Google AdWords]. 然后，从 [!DNL AdWords] 在UI中，您将能够轻松地看到哪些点击导致了符合条件的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段） [添加自定义列](https://support.google.com/adwords/answer/3073556){target="_blank"} 在 [!DNL AdWords]. 此信息不显示在Marketo UI中。
 
-详细了解 [Google的脱机转换导入功能](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+了解有关 [Google的脱机转换导入功能](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您还可以集成 [[!DNL Google AdWords] as a [!DNL Launchpoint] 经理帐户服务](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
+>您还可以集成 [[!DNL Google AdWords] as a [!DNL Launchpoint] 经理帐户的服务](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-2.png)
 
-1. 选择 **[!UICONTROL 新]** 和 **[!UICONTROL 新服务]**.
+1. 选择 **[!UICONTROL 新建]** 和 **[!UICONTROL 新建服务]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
@@ -57,7 +57,7 @@ ht-degree: 1%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-6.png)
 
-1. 选择 **[!UICONTROL 接受]**.
+1. 选择 **[!UICONTROL Accept]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
@@ -65,7 +65,7 @@ ht-degree: 1%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
-1. 将离线转化从Marketo上传到 [!DNL Google AdWords] **[!UICONTROL 每周]** 或 **[!UICONTROL 每日]**.
+1. 将离线转化从Marketo上传至 [!DNL Google AdWords] **[!UICONTROL 每周]** 或 **[!UICONTROL 每日]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-9.png)
 
@@ -75,8 +75,8 @@ ht-degree: 1%
 
    | 类型 | 条件 |
    |---|---|
-   | [!UICONTROL 首次点击] | 离线转化将归因于 [!DNL AdWords] 过去90天内用户点击的广告 |
-   | [!UICONTROL 最后点击] | 离线转化将归属于最后一个 [!DNL AdWords] 用户点击的 |
+   | [!UICONTROL 首次点击] | 离线转化将归因于 [!DNL AdWords] 某人在过去90天内点击的广告 |
+   | [!UICONTROL 最后点击] | 离线转化将归属于最后一个 [!DNL AdWords] 用户点击的广告 |
 
    >[!NOTE]
    >

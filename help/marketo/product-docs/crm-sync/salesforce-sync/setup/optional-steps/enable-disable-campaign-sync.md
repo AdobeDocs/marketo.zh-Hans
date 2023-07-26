@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-给你。 只需给同步器一些时间，以便从Salesforce中提取数据，您就可以开始了。
+给你。 等待同步器从Salesforce中提取数据即可，您无需等待。
 
 >[!MORELIKETHIS]
 >

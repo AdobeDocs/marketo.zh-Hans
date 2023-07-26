@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360008
-description: 在Web报告中显示人员或匿名访客 — Marketo文档 — 产品文档
+description: 在Web报表中显示人员或匿名访客 — Marketo文档 — 产品文档
 title: 在Web报表中显示人员或匿名访客
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >[将Munchkin跟踪代码添加到您的网站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-在 [网页活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) 和  [公司Web活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) 您可以看到 [人员或匿名访客](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) 访问您网站的人员。 匿名访客已经推断出数据，例如大都会区。  以下是如何选择报告显示的是已知潜在客户还是匿名访客。
+在 [网页活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) 和  [公司Web活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) 您可以看到 [人员或匿名访客](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) 访问您网站的人员。 匿名访客已经推断出数据，如都市区。  以下是如何选择报告显示的是已知潜在客户还是匿名访客。
 
-1. 在“网页活动”报表中，单击 **设置**.
+1. 在网页活动报表中，单击 **设置**.
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
-1. 在弹出窗口中，选择 **已知潜在客户** （人员）或 **匿名访客** 从下拉菜单中。
+1. 在弹出窗口中，选择 **已知潜在客户** （人员）或 **匿名访客** 从下拉菜单中查找。
 
    ![](assets/image2016-2-2-14-3a7-3a8.png)
 
    >[!NOTE]
    >
-   >包含匿名访客的ISP会生成更长的报表，但排除它们可以让您更清楚地了解访客的来源(标准来源，例如Google)以及他们的来源。
+   >包含匿名访客的ISP会生成更长的报表，但排除它们可以更清楚地了解访客的来源(标准来源，如Google)之外。
 
-1. 就这样。 单击 **报告** 制表符，以返回并与已知或匿名人员一起查看您的报告。
+1. 就是这样。 单击 **报表** 制表符，以返回并与已知或匿名人员一起查看您的报告。
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 

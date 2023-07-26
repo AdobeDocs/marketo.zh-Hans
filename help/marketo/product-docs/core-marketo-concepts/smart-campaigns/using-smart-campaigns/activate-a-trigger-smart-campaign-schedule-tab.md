@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 激活触发器智能营销活动 |“计划”选项卡 {#activate-a-trigger-smart-campaign-schedule-tab}
 
-激活触发器智能营销活动与将其打开类似。 接下来该做什么。
+激活触发器智能促销活动与打开触发器类似。 该怎么做呢。
 
-1. 在Smart营销活动的 **计划** 选项卡，单击 **激活**.
+1. 在Smart Campaign **计划** 选项卡，单击 **激活**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
    >
    >在激活之前，请确保营销活动已准备就绪！
 
-从现在开始，任何符合智能列表资格的人都将通过您的Smart Campaign定义的流程。
+从此时起，任何符合智能列表资格的人都将通过您的Smart Campaign定义的流程。

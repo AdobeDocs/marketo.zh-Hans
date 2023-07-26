@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. 单击 **编辑** 在 **潜在客户列表视图** row。
+1. 单击 **编辑** 在 **潜在客户列表视图** 行。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >按住Shift键可同时选择所有三个按钮。
+   >按住Shift键同时选择所有三个按钮。
 
 1. 对“联系人”（所有三个按钮）和“帐户”（只有一个按钮：“添加到观察列表”）重复这些步骤。
 

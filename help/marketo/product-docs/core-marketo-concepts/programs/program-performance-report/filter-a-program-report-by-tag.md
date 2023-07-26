@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147235
-description: 按标记过滤程序报表 — Marketo文档 — 产品文档
-title: 按标记筛选项目报告
+description: 按标记过滤项目报表 — Marketo文档 — 产品文档
+title: 按标记过滤项目报告
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# 按标记筛选项目报告 {#filter-a-program-report-by-tag}
+# 按标记过滤项目报告 {#filter-a-program-report-by-tag}
 
 关注您的 [方案执行情况报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) 特定 [标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. 单击 **设置** 按Tab键并拖动到其中一个 **标记** 过滤器。
+1. 单击 **设置** 制表符并拖动到其中一个 **标记** 过滤器。
 
    ![](assets/prospects.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/prospect2.jpg)
 
-1. 完成! 单击 **报告** 选项卡查看 _只要_ 与报表中所选标记匹配的程序。
+1. 完成! 单击 **报表** 制表符查看 _只要_ 与报表中所选标记匹配的程序。
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 

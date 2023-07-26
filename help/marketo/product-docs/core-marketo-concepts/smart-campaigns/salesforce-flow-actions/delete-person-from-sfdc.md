@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 从SFDC删除人员 {#delete-person-from-sfdc}
 
-如果需要从Salesforce中删除一组特定的潜在客户，但将这些潜在客户保留为Marketo中的人员，则可以使用“从SFDC流程中删除人员”操作。
+如果您需要从Salesforce中删除一组特定的潜在客户，但将这些潜在客户保留为Marketo中的人员，则可以使用“从SFDC流程中删除人员”操作。
 
 >[!NOTE]
 >
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您设置 **在Marketo中删除** 到 **true** 删除Marketo中的人和Salesforce中的销售线索，他们永远消失了。 无法撤消此操作。
+   >如果您设置 **在Marketo中删除** 到 **true** 删除Marketo中的人和Salesforce中的潜在客户，他们永远消失了。 无法撤消此操作。

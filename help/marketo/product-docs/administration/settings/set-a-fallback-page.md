@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359920
-description: 设置回退页 — Marketo文档 — 产品文档
+description: 设置后备页面 — Marketo文档 — 产品文档
 title: 设置回退页
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 设置回退页 {#set-a-fallback-page}
 
-如果登陆页面处于脱机状态或找不到，则回退页面是最后一道防线。 确保您有一个。
+回退页面是登陆页面处于脱机状态或未找到的最后一道防线。 确保您有一个。
 
 >[!NOTE]
 >

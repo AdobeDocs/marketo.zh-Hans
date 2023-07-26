@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900552
-description: 下载电子邮件HTML- Marketo文档 — 产品文档
+description: 下载电子邮件的HTML- Marketo文档 — 产品文档
 title: 下载电子邮件的HTML
 exl-id: e749c520-6ae6-4460-89b7-6de3b39ef2c7
 feature: Email Editor
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 出于备份和其他目的，您可以使用Marketo下载电子邮件的HTML内容。
 
-1. 找到电子邮件并将其选定。 在 **电子邮件操作** 下拉列表单击 **下载HTML**.
+1. 找到电子邮件并将其选定。 在 **电子邮件操作** 下拉式单击 **下载HTML**.
 
    ![](assets/one-4.png)
 
-就这么简单！
+这太简单了！

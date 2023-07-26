@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096158
-description: 身份验证移动访问安全性 — Marketo文档 — 产品文档
+description: 验证移动访问安全性 — Marketo文档 — 产品文档
 title: 验证移动访问安全性
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 验证移动访问安全性 {#authenticate-mobile-access-security}
 
-为了提高移动用户的安全性，Marketo提供了两个新的ID：访问密钥和访问密钥。 这些功能有助于确保登录到您应用程序的用户是真实用户。
+为了提高移动设备用户的安全性，Marketo提供了两个新的ID：访问密钥和访问密钥。 这些功能有助于确保登录到您应用程序的用户是真实用户。
 
 要启用ID，您需要获取代码并将其提供给您的IT部门，以便他们能够设置安全匹配。
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 
-1. Access Security区域现在显示两个新代码。 请务必将这些发送给您的IT部门。
+1. Access Security区域现在显示两个新代码。 请务必将这些文件发送给您的IT部门。
 
    ![](assets/image2015-12-1-14-3a57-3a34.png)

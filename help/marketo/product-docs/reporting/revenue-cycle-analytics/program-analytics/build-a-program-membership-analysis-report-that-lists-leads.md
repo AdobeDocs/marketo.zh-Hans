@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360405
-description: 构建列出潜在客户的计划会员资格分析报告 — Marketo文档 — 产品文档
+description: 构建项目会员资格分析报告，其中列出潜在客户 — Marketo文档 — 产品文档
 title: 构建列出潜在客户的计划会员资格分析报告
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 单击 **新建** 则 **报告**.
+1. 单击 **新建** 则 **报表**.
 
    ![](assets/two.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 找到并双击项目名称yellow点。
+1. 查找并双击程序名称黄色圆点。
 
    ![](assets/four.png)
 
-1. 找到并双击成员蓝点。
+1. 查找并双击成员蓝点。
 
    ![](assets/five.png)
 
-1. 找到并双击Success (Total) blue dot。
+1. 找到并双击Success (Total)(成功（总计）)蓝点。
 
    ![](assets/six.png)
 
@@ -53,10 +53,10 @@ ht-degree: 0%
 >
 >有许多潜在客户/公司属性可供选择。 看看他们！
 
-1. 查找并双击 **全名** 黄色圆点。
+1. 查找并双击 **全名** 黄点。
 
    ![](assets/eight.png)
 
-给你！
+拿着！
 
 ![](assets/nine.png)

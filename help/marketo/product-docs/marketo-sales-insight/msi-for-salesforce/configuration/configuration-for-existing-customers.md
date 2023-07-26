@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 在Marketo中配置Sales Insight {#configure-sales-insight-in-marketo}
 
-1. 在浏览器中打开一个新选项卡，以从您的Marketo帐户中获取Marketo销售分析凭据。
+1. 在浏览器中打开新选项卡，以从您的Marketo帐户获取Marketo销售分析凭据。
 
 1. 转到 **管理员** 区域。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 1. 您将会看到确认弹出窗口。 单击 **确定**.
 
-## 在Salesforce中配置销售分析 {#configure-sales-insight-in-salesforce}
+## 在Salesforce中配置Sales Insight {#configure-sales-insight-in-salesforce}
 
 1. 在Salesforce中，单击 **设置**.
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. 输入远程站点名称（可以类似于“MarketoRestAPI”）和远程站点URL(来自Marketo中“Rest API配置”面板的API URL)。
+1. 输入远程站点名称（可以类似于“MarketoRestAPI”）和远程站点URL(您在Marketo的“Rest API配置”面板中的API URL)。
 
    ![](assets/configuration-for-existing-customers-7.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 访问Marketo Sales Insight {#access-marketo-sales-insight}
 
-1. 从Marketo“Sales Insight管理”页面的Rest API面板中复制凭据。 将它们粘贴到Salesforce的Sales Insight Configuration页的Rest API部分中。
+1. 从Marketo的“Sales Insight管理”页面的“Rest API”面板中复制凭据。 将它们粘贴到Salesforce的Sales Insight配置页面的Rest API部分中。
 
 1. 输入API密钥。
 

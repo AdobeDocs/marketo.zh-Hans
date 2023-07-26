@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360364
-description: 第2步（共3步） — 创建Salesforce用户以使用Marketo (Enterprise/Unlimited) - Marketo文档 — 产品文档
-title: 第2步（共3步） — 创建Salesforce User for Marketo (Enterprise/Unlimited)
+description: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterprise/Unlimited) - Marketo文档 — 产品文档
+title: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 3%
 
 ---
 
-# 第2步（共3步）：创建Salesforce User for Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# 第2步（共3步）：创建Marketo的Salesforce用户(Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 3%
 >
 >[第1步（共3步）：将Marketo字段添加到Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-在本文中，您将在Salesforce配置文件中设置用户权限，并创建一个Marketo-Salesforce集成帐户。
+在本篇文章中，您将在Salesforce配置文件中设置用户权限，并创建一个Marketo-Salesforce集成帐户。
 
 ## 创建配置文件 {#create-a-profile}
 
@@ -33,7 +33,7 @@ ht-degree: 3%
 
    ![](assets/sfdc-profiles-hands.png)
 
-1. 单击 **新**.
+1. 单击 **新建**.
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
@@ -47,10 +47,10 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. 在 **管理权限** 部分，确保选中了以下复选框：
+1. 在 **管理权限** 部分，确保选中以下复选框：
 
    * API已启用
-   * 编辑模板HTML
+   * 编辑HTML模板
    * 管理公共文档
    * 管理公共模板
 
@@ -58,7 +58,7 @@ ht-degree: 3%
 
    >[!TIP]
    >
-   >请务必检查 **密码永不过期** 盒子。
+   >请务必查看 **密码永不过期** 盒子。
 
 1. 在“常规用户权限”部分下，确保选中以下复选框：
 
@@ -68,7 +68,7 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. 在“标准对象权限”部分下，确保选中“读取”、“创建”、“编辑”和“删除”权限：
+1. 在“标准对象权限”部分下，确保检查读取、创建、编辑和删除权限：
 
    * 帐户
    * 营销活动
@@ -82,7 +82,7 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. 完成后，单击 **保存** 页面底部的。
+1. 完成后，单击 **保存** 在页面底部。
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
@@ -94,7 +94,7 @@ ht-degree: 3%
    >
    >此步骤将阻止您不需要的字段显示在Marketo中，这将减少杂乱并加快同步速度。
 
-1. 在配置文件详细信息页面中，转到 **字段级安全性** 部分。 单击 **视图** 要编辑对象的辅助功能，请执行以下操作：
+1. 在用户档案详细信息页面中，转到 **字段级安全性** 部分。 单击 **视图** 要编辑对象的辅助功能，请执行以下操作：
 
    * 商机
    * 联系人
@@ -148,7 +148,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->创建一个专用的Salesforce帐户(例如marketo@yourcompany.com)，以区分Marketo与其他Salesforce用户所做的更改。
+>创建一个专用的Salesforce帐户(例如marketo@yourcompany.com)，以区分Marketo用户与其他Salesforce用户所做的更改。
 
 1. 在导航搜索栏中键入“Manage users”，然后单击 **用户**. 单击 **新用户**.
 

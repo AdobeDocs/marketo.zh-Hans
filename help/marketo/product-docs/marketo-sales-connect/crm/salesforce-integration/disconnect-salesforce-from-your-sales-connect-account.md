@@ -1,7 +1,7 @@
 ---
 unique-page-id: 15368214
-description: 从Sales Connect帐户中断开Salesforce - Marketo文档 — 产品文档
-title: 将Salesforce从您的Sales Connect帐户断开
+description: 断开Salesforce与Sales Connect帐户的连接 — Marketo文档 — 产品文档
+title: 从Sales Connect帐户断开Salesforce
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 将Salesforce从您的Sales Connect帐户断开 {#disconnect-salesforce-from-your-sales-connect-account}
+# 从Sales Connect帐户断开Salesforce {#disconnect-salesforce-from-your-sales-connect-account}
 
-有时您可能需要将Salesforce帐户与Sales Connect帐户断开连接。 下面是具体操作方法。
+有时您可能需要将Salesforce帐户与Sales Connect帐户断开连接。 具体方法如下。
 
 ## 如何以管理员身份与Salesforce断开连接 {#how-to-disconnect-from-salesforce-as-an-admin}
 

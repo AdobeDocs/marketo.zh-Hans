@@ -6,14 +6,14 @@ exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 # 编辑自定义活动 {#edit-a-custom-activity}
 
-是否需要更改已创建的自定义活动？ 下面是具体操作方法。
+是否需要对已创建的自定义活动进行更改？ 具体方法如下。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -39,8 +39,8 @@ ht-degree: 0%
 
    ![](assets/edit-a-custom-activity-6.png)
 
-   您的自定义活动现已编辑！
+   您的自定义活动现在已编辑！
 
    >[!NOTE]
    >
-   >如果您的活动在编辑时为草稿，则它仍为草稿。 如果已发布，则状态将更改为“已发布并草稿”。
+   >如果在编辑时您的活动是草稿，则它仍为草稿。 如果已发布，则状态将更改为已发布并带有草稿。

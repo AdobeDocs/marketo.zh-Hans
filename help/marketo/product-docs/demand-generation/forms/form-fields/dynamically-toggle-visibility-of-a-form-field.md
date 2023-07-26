@@ -55,20 +55,20 @@ Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单
 
    >[!TIP]
    >
-   >在下拉列表打开时，您可以通过单击多个值来选择多个值。 例如，您可以选择“美国”和“加拿大”。
+   >您可以在下拉列表打开时单击多个值来选择它们。 例如，您可以选择“美国”和“加拿大”。
 
    >[!NOTE]
    >
-   >我们以前将“国家/地区”转换为拣选列表字段类型，并且 [已将所有国家/地区添加为值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >我们之前已将国家/地区转换为领料单字段类型，并且 [已将所有国家/地区添加为值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. 单击 **保存**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
-就是这样！ 现在，当人们填写此表单并选择“美国”作为“国家/地区”时，“州”字段将随指定的选项动态显示。
+就是这样！ 现在，当人们填写此表单并选择“美国国家/地区”时，“州”字段将动态显示指定的选项。
 
 >[!IMPORTANT]
 >
->通过自定义脚本使用设置/更新字段值时，表单字段行为将无缝工作 [API函数](https://developers.marketo.com/javascript-api/forms/){target="_blank"} 在Forms 2.0中。
+>通过使用自定义脚本设置/更新字段值时，表单字段行为将无缝工作 [API函数](https://developers.marketo.com/javascript-api/forms/){target="_blank"} 在Forms 2.0中。
 >
 >如果字段值由Forms 2.0 JavaScript API以外的外部脚本修改，则条件字段可能无法按预期工作。

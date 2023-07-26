@@ -6,14 +6,14 @@ exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # 启用内容推荐栏 {#enable-the-content-recommendation-bar}
 
-内容推荐引擎使用预测分析和机器学习算法，向每个Web访客提供相关内容。 推荐引擎可预测哪些内容对每位访客的效果最佳。 引擎的内容在Recommendations页面下受监视和控制，可帮助您优化内容ROI。
+内容推荐引擎使用预测分析和机器学习算法，向每个Web访客提供相关内容。 推荐引擎可预测哪些内容对每位访客的效果最佳。 引擎的内容在Recommendations页面下进行监控和控制，帮助您优化内容ROI。
 
 >[!PREREQUISITES]
 >
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/content-settings-bar-hand.png)
 
-1. 要为URL启用推荐栏，只需单击 **日期** 然后 **保存**.
+1. 要为URL启用推荐栏，只需单击 **开启** 然后 **保存**.
 
    ![](assets/bar-enable.png)
 
-1. 要自定义URL，请选择推荐栏的颜色、样式、格式、箭头以及要包含或排除该栏的页面。 根据您的网站品牌进行自定义。 单击 **保存**.
+1. 要自定义URL，请选择推荐栏的颜色、样式、格式、箭头以及要包含或排除该栏的页面。 自定义以适合您的网站品牌。 单击 **保存**.
 
    ![](assets/bar-customize-details-hands.png)
 
@@ -58,10 +58,10 @@ ht-degree: 0%
 
 ## 推荐栏注意事项 {#recommendation-bar-considerations}
 
-* 要将推荐栏设置为，您至少需要一个内容块 **日期** Recommendations ，推荐引擎才能正常工作。 如果未启用任何内容，并且条形图设置为 **日期**，则箭头效果将显示在网页的右下角，但不会显示推荐的内容。
+* 要将推荐栏设置为，您至少需要一个内容块 **开启** Recommendations ，推荐引擎才能正常工作。 如果未启用任何内容，并且条形图设置为 **开启**，则箭头效果将显示在网页的右下方，但不会显示推荐的内容。
 
-* 推荐引擎中运行的内容越多，算法就越能测试和了解哪些内容最有效。 我们建议从10到20个正在运行和处于活动状态的内容片段开始，并继续添加新内容片段。
-* 您为推荐启用的内容块应包含RTP Javascript标记。 这有助于算法跟踪和优化推荐内容。
+* 推荐引擎中运行的内容越多，算法就越能测试并了解哪些内容最有效。 我们建议从10到20个正在运行和处于活动状态的内容片段开始，并继续添加新内容片段。
+* 您为推荐启用的内容块应包含RTP Javascript标记。 这有助于算法跟踪和优化推荐的内容。
 
 >[!MORELIKETHIS]
 >

@@ -12,7 +12,7 @@ ht-degree: 33%
 
 # 默认Veeva字段映射 {#default-veeva-field-mapping}
 
-当您最初将Marketo Engage帐户与Veeva同步时，Marketo会在您的内置Veeva和Marketo字段之间自动建立这些关联。 Marketo还将同步您的“帐户”和“联系人”中的自定义字段。
+当您最初将Marketo Engage帐户与Veeva同步时，Marketo会自动在内置Veeva和Marketo字段之间建立这些关联。 Marketo还将同步您的“帐户”和“联系人”中的自定义字段。
 
 ## 联系人字段 {#contact-fields}
 
@@ -45,7 +45,7 @@ ht-degree: 33%
       <td>电子邮件地址</td>
     </tr>
     <tr>
-      <td>商务传真</td>
+      <td>公司传真</td>
       <td>传真号码</td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ ht-degree: 33%
       <td>城市</td>
     </tr>
     <tr>
-      <td>邮寄国家/地区</td>
+      <td>MailingCountry</td>
       <td>国家</td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ ht-degree: 33%
       <td>邮政编码</td>
     </tr>
     <tr>
-      <td>Mailingstate</td>
+      <td>MailingState</td>
       <td>州</td>
     </tr>
     <tr>
@@ -138,7 +138,7 @@ ht-degree: 33%
       <td>帐单寄送国家</td>
     </tr>
     <tr>
-      <td>帐单邮编/邮政编码</td>
+      <td>帐单邮编</td>
       <td>帐单邮政编码</td>
     </tr>
     <tr>
@@ -150,7 +150,7 @@ ht-degree: 33%
       <td>帐单寄送地址</td>
     </tr>
     <tr>
-      <td>帐户描述</td>
+      <td>帐户说明</td>
       <td>公司注释</td>
     </tr>
     <tr>
@@ -214,7 +214,7 @@ ht-degree: 33%
     </tr>
     <tr>
       <td>Veeva类型</td>
-      <td>联系。 如果为空，则潜在客户仅以Marketo中的人员的身份存在</td>
+      <td>联系。 如果为空，则商机在Marketo中仅作为人员存在</td>
     </tr>
     <tr>
       <td>Veeva创建日期</td>
@@ -222,7 +222,7 @@ ht-degree: 33%
     </tr>
     <tr>
       <td>Veeva已删除</td>
-      <td>此人以前在SFDC中，但已被删除，现在仅居住在Marketo中</td>
+      <td>此人以前在SFDC工作，但已被删除，现在仅居住在Marketo</td>
     </tr>
   </tbody>
 </table>

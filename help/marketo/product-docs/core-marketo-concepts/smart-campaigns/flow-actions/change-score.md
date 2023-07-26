@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## 概述 {#overview}
 
-为人员评分既简单又强大，可帮助您的销售团队确定优先级。
+对人员打分既简单又强大，可帮助您的销售团队确定优先级。
 
 ![](assets/flowstep-changescore.png)
 
@@ -27,9 +27,9 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >您可以创建多个得分字段。 参见 [在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 了解详细信息。
+   >您可以创建多个得分字段。 请参阅 [在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 以了解详细信息。
 
-1. 输入您想要的分数更改。
+1. 输入您需要的分数更改。
 
    ![](assets/flowstep-changescoretype.png)
 
@@ -37,7 +37,7 @@ ht-degree: 2%
 
    * **+5** 递增
    * **-5** 将递减（允许负数）
-   * **=5** 会让分数达到那个数字
-   * **=-5** 会让得分变成完全负数
+   * **=5** 会让得分与数字完全一致
+   * **=-5** 会让分数变成完全负数
 
 快速获得一些基本分数，然后随着时间的推移调整结果。 我们就是这么做的！

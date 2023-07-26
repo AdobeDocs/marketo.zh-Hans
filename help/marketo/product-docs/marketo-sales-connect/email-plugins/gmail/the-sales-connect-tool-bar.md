@@ -17,7 +17,7 @@ ht-degree: 0%
 
 | 按钮 | 描述 |
 |---|---|
-| **“实时馈送”按钮** | 打开您的Sales Connect [实时信息源](https://toutapp.com/next#live) 从中可获得有关电子邮件的实时跟踪信息。 |
+| **“实时信息源”按钮** | 打开Sales Connect [Live Feed](https://toutapp.com/next#live) 从中可获得电子邮件上的实时跟踪信息。 |
 | **“任务”按钮** | 显示所有任务的下拉列表。 |
-| **“模板”和“对话”按钮** | 打开 [Web应用程序](https://toutapp.com/login)的“模板”页面和“对话”页面。 全部位于您的Gmail页面中。 |
+| **“模板”和“对话”按钮** | 打开 [Web应用程序](https://toutapp.com/login)的“模板”页面和“对话”页面。 全部在您的Gmail页面中。 |
 | **销售活动按钮** | 让您能够与队友庆祝您的成功/成功。 |

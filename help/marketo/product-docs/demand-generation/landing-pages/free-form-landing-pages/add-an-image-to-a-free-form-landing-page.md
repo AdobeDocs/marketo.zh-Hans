@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. 在编辑器中，拖动到 **图像** 元素。
+1. 在编辑器中，将 **图像** 元素。
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   做得好！ 您刚刚向自由格式登陆页面添加了一个图像。
+   做得好！您刚刚向自由格式登陆页面添加了一个图像。
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

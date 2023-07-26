@@ -35,9 +35,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您已登录Salesforce沙盒帐户，则将转到需要允许访问的授权页面。 如果您尚未登录，请继续执行步骤5。
+   >如果您已登录Salesforce沙盒帐户，则将转到授权页面，您需要允许访问。 如果您尚未登录，请继续执行步骤5。
 
-1. 输入您的Salesforce Sandbox帐户的用户名和密码。
+1. 输入您的Salesforce沙盒帐户的用户名和密码。
 
    ![](assets/five-2.png)
 

@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您还可以阻止字段更新。 参见 [阻止对字段的更新](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md) 了解详细信息。
+>您还可以阻止字段更新。 请参阅 [阻止更新字段](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md) 以了解详细信息。
 
 ## 使用情况 {#usage}
 
@@ -39,9 +39,9 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >您可以在中输入“NULL”（无报价，全部大写） **新值** 以清除字段。 参见 [清除字段值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md) 了解详细信息。
+   >您可以在中输入“NULL”（无引号，全部大写） **新值** 以清除字段。 请参阅 [清除字段值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md) 以了解详细信息。
 
    >[!NOTE]
    >
-   >* [流步骤的令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
+   >* [流程步骤的令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
    >* [将数据附加到字段](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)

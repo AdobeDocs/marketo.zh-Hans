@@ -15,7 +15,7 @@ ht-degree: 0%
 
 设置、创建和编辑用户角色，并将其分配给用户。 这样，您就可以控制每个Marketo用户有权访问的区域和功能。
 
-例如，营销用户通常需要在整个应用程序中拥有广泛的访问权限，才能创建、修改和部署电子邮件、登陆页面和程序。 另一方面，Web设计人员几乎将所有时间都花在Design Studio中，创建用于电子邮件和登陆页面的资产。 虽然公司领导在Analytics领域广泛使用Marketo的报告，但他们可能不需要自己创建或推动资源或程序。
+例如，营销用户通常需要在整个应用程序中拥有广泛的访问权限，才能创建、修改和部署电子邮件、登陆页面和程序。 另一方面，Web设计人员几乎将所有时间都花在Design Studio中，创建用于电子邮件和登陆页面的资产。 虽然公司领导可以在Analytics区域广泛使用Marketo的报告，但他们可能不需要自己创建或推动资源或程序。
 
 >[!NOTE]
 >
@@ -24,8 +24,8 @@ ht-degree: 0%
 Marketo提供了多个内置角色，具有不同的访问级别：
 
 * **管理员**  — 应用程序的所有部分，包括管理员部分
-* **标准用户**  — 应用程序的所有部分，管理部分除外
-* **营销用户**  — 应用程序的所有部分，管理部分除外
+* **标准用户**  — 应用程序的所有部分，管理员部分除外
+* **营销用户**  — 应用程序的所有部分，管理员部分除外
 * **Web设计器**  — 仅设计工作室
 * **Analytics用户**  — 仅Analytics部分
 
@@ -37,7 +37,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 ## 将角色分配给用户 {#assign-roles-to-a-user}
 
-在以下情况下，您可以将角色分配给用户： [首次创建用户](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) 或 [编辑现有用户](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+在以下情况下，您可以将角色分配给用户： [首次创建用户](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) 或按 [编辑现有用户](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -47,11 +47,11 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
-1. 从列表中，选择要编辑的用户并单击 **[!UICONTROL 编辑用户]**.
+1. 从列表中选择要编辑的用户，然后单击 **[!UICONTROL 编辑用户]**.
 
    ![](assets/managing-user-roles-and-permissions-3.png)
 
-1. 下 **[!UICONTROL 角色]**，根据所需的权限，选择要分配给用户的角色，然后单击 **[!UICONTROL 保存]**.
+1. 下 **[!UICONTROL 角色]**，根据所需的权限选择要分配给用户的角色，然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/managing-user-roles-and-permissions-4.png)
 
@@ -103,13 +103,13 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. 更改 **[!UICONTROL 角色名称]** 和 **[!UICONTROL 描述]** （如有必要），然后更改关联的选择 **[!UICONTROL 权限]**.
+1. 更改 **[!UICONTROL 角色名称]** 和 **[!UICONTROL 描述]** 如有必要，请更改关联内容的选择 **[!UICONTROL 权限]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
    >[!NOTE]
    >
-   >拥有您编辑的角色的用户将在注销并重新登录后收到修改后的权限。
+   >拥有您编辑的角色的用户在注销并重新登录后将收到修改后的权限。
 
 ## 删除角色 {#delete-a-role}
 

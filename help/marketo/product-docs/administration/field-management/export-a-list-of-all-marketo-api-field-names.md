@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 
-很好！ 现在，您有一个电子表格，其中包含所有字段及其API名称的列表。
+太好了！ 现在，您有一个电子表格，其中包含所有字段及其API名称的列表。
 
 ![](assets/export-a-list-of-all-marketo-api-field-names-4.png)
 

@@ -17,13 +17,13 @@ ht-degree: 0%
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. 在 **Web营销活动** 页面，单击 **编辑** 在要编辑的营销策划上。
+1. 在 **Web营销活动** 页面，单击 **编辑** 在要编辑的营销活动上。
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >为了更便于查找所需的Web营销活动，请使用 [筛选功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >为了更便于查找所需的Web营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >

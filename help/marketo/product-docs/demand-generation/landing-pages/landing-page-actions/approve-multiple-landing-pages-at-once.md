@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359724
-description: 一次批准多个登陆页面 — Marketo文档 — 产品文档
+description: 同时批准多个登陆页面 — Marketo文档 — 产品文档
 title: 一次批准多个登陆页面
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
-   给你！ 您现在可以快速轻松地批准多个登陆页面。
+   好了！ 您现在可以快速轻松地批准多个登陆页面。
 
    ![](assets/image2014-9-17-11-3a35-3a36.png)
 

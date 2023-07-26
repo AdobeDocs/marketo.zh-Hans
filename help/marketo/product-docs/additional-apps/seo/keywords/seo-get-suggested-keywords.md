@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 获取建议的关键字 {#seo-get-suggested-keywords}
 
-Marketo SEO可以建议您应跟踪的关键字。 我们可以根据关键字或网站的URL提供建议。 试试看！
+Marketo SEO可建议您应跟踪的关键字。 我们可以根据关键字或网站的URL提供建议。 试试看！
 
 ## 使用关键词获取关键词建议 {#get-keyword-suggestions-using-a-keyword}
 
@@ -31,7 +31,7 @@ Marketo SEO可以建议您应跟踪的关键字。 我们可以根据关键字�
 
    >[!TIP]
    >
-   >你知道你可以  [将您的关键字添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在这里？
+   >你知道你可以  [将关键字添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在这儿？
 
 1. 选择建议的关键字。 单击 **[!UICONTROL 添加选定项]**.
 
@@ -63,7 +63,7 @@ Marketo SEO可以建议您应跟踪的关键字。 我们可以根据关键字�
 
    >[!TIP]
    >
-   >你知道你可以 [将您的关键字添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在这里？
+   >你知道你可以 [将关键字添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在这儿？
 
 1. 选择建议的关键字。 单击 **[!UICONTROL 添加选定项]**.
 

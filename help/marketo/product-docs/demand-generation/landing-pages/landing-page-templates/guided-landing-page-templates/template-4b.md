@@ -17,16 +17,16 @@ ht-degree: 0%
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 
-此模板包含以下内容：
+此模板包括以下内容：
 
 * 标题部分（可选）
-* 质部分
+* 质数部分
 
    * 包括主页图像和CTA按钮
 
 * 五个正文部分（可选）
 * 页脚（可选）
 
-**右键单击以下内容可下载此模板：**
+**右键单击以下内容以下载此模板：**
 
 [模板4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 关闭发送给潜在客户所有者的电子邮件通知 {#turn-off-email-notifications-to-lead-owner}
 
-您可以在Salesforce中禁用在Lead Assignment时发送给Lead Owners的自动电子邮件通知。 下面是具体操作方法。
+您可以在Salesforce中禁用在Lead Assignment时发送给Lead Owners的自动电子邮件通知。 具体方法如下。
 
 1. 转到 **管理员**.
 

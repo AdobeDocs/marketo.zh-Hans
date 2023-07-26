@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 单击 **新增。**
+1. 单击 **新建。**
 
    ![](assets/four.png)
 
-1. 单击 **添加和许可用户** 在新窗口中。
+1. 单击 **添加和许可用户** 在新窗口中打开。
 
    ![](assets/five.png)
 
@@ -70,17 +70,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这适用于Marketo版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅 [升级Microsoft Dynamics的Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>这适用于Marketo版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅 [升级适用于Microsoft Dynamics的Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
->同步用户的语言设置 [应设置为“英语”](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+>同步用户的语言设置 [应设置为英语](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
 
-1. 返回已启用用户选项卡，并刷新用户列表。
+1. 返回启用用户选项卡并刷新用户列表。
 
    ![](assets/ten.png)
 
-1. 将鼠标悬停在新创建的Marketo同步用户旁边，此时将显示一个复选框。 单击以将其选中。
+1. 将鼠标悬停在新创建的Marketo同步用户旁边，将会显示一个复选框。 单击以将其选中。
 
    ![](assets/eleven.png)
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
 ## 配置Marketo解决方案 {#configure-marketo-solution}
 
-快到了！ 我们只剩下通知Marketo解决方案已创建的新用户。
+快到了！ 我们只剩下通知Marketo解决方案所创建的新用户。
 
 1. 返回高级设置部分，然后单击 ![](assets/image2015-5-13-15-3a49-3a19.png) 图标，然后选择 **Marketo配置**.
 
@@ -106,7 +106,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您没有看到 **Marketo配置** 在“设置”菜单中，刷新页面。 如果这样行不通，请尝试 [发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) 再次登录，或者注销并重新登录。
+   >如果您没有看到 **Marketo配置** 在“设置”菜单中，刷新页面。 如果这样行不通，请尝试 [发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) 再次登录或注销并重新登录。
 
 1. 单击 **默认**.
 
@@ -134,4 +134,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[第3步（共4步）：将Marketo解决方案与资源所有者密码控制连接连接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>[第3步（共4步）：连接Marketo解决方案与资源所有者密码控制连接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)

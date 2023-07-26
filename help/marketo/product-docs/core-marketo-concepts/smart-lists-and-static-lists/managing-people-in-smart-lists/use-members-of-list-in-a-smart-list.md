@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >您可以使用以下方式将人员添加到列表 [导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 或 [添加到列表流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
-使用此筛选器，您可以通过引用智能列表规则中的其他列表，从其他列表中提取成员。 下面是具体操作方法。
+使用此筛选器，您可以通过引用智能列表规则中的成员来从其他列表提取成员。 具体方法如下。
 
 1. 选择一个智能列表，然后单击 **智能列表** 选项卡。
 

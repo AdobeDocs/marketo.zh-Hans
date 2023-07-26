@@ -44,7 +44,7 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >您还可以选择通过单击登录页面顶部的语言下拉列表仅更改您的语言。
+   >您还可以通过单击登录页面顶部的语言下拉列表仅更改您的语言。
 
 1. 更改您的 **[!UICONTROL 区域设置]**.
 
@@ -58,6 +58,6 @@ ht-degree: 4%
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
-做得好！ 您的浏览器将刷新，您应该会看到更改得到反映。
+做得好！ 您的浏览器将进行刷新，您应该会看到更改得到反映。
 
 ![](assets/select-your-language-locale-and-time-zone-8.png)

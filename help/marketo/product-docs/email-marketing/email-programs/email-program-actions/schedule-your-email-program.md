@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359455
-description: 计划您的电子邮件计划 — Marketo文档 — 产品文档
+description: 计划您的电子邮件项目 — Marketo文档 — 产品文档
 title: 计划您的电子邮件计划
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [创建电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [通过导入列表来定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [通过导入列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 >* [选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [为电子邮件程序创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-创建电子邮件程序、定义受众并选择电子邮件后，您想要告诉程序 *时间* 以发送电子邮件。 下面是具体操作方法。
+创建电子邮件程序、定义受众并选择电子邮件后，您将需要告知程序 *时间* 以发送电子邮件。 具体方法如下。
 
 1. 转到 **营销活动**.
 

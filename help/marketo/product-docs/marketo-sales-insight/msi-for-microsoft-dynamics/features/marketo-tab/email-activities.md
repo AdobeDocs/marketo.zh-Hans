@@ -12,6 +12,6 @@ ht-degree: 0%
 
 # 电子邮件活动 {#email-activities}
 
-Email Activities选项卡显示Sales发送给Sales所有者下的潜在客户和联系人的所有Email。 查看发送日期以及收件人是否打开或单击了电子邮件。
+Email Activities选项卡显示Sales向Sales所有者下的潜在客户和联系人发送的所有电子邮件。 查看发送日期以及收件人是否打开或单击了电子邮件。
 
 ![](assets/email-activities-1.png)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 添加 [!DNL Zoom] as a [!DNL LaunchPoint] 服务 {#add-zoom-as-a-launchpoint-service}
 
-Marketo管理您的 [!DNL Zoom] 注册及出席情况。
+Marketo管理您的 [!DNL Zoom] 报名及出席。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Marketo管理您的 [!DNL Zoom] 注册及出席情况。
 
    ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-1. 选择 **[!UICONTROL 新]** 然后 **[!UICONTROL 新服务]**.
+1. 选择 **[!UICONTROL 新建]** 然后 **[!UICONTROL 新建服务]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
@@ -47,11 +47,11 @@ Marketo管理您的 [!DNL Zoom] 注册及出席情况。
 
    ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
-1. 关闭窗口后，单击 **[!UICONTROL 创建]**.
+1. 窗口关闭后，单击 **[!UICONTROL 创建]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
-您的 [!DNL Zoom] 帐户现已与Marketo同步，并且可以在 [!UICONTROL 启动点] 区域。
+您的 [!DNL Zoom] 帐户现已与Marketo同步，可以在 [!UICONTROL 启动点] 区域。
 
 >[!CAUTION]
 >
@@ -59,4 +59,4 @@ Marketo管理您的 [!DNL Zoom] 注册及出席情况。
 
 >[!MORELIKETHIS]
 >
->了解如何 [创建事件，使用 [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>了解如何 [创建事件 [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).

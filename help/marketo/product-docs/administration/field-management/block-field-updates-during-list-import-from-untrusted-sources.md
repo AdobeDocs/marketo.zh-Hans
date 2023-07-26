@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-## 阻止来自不受信任的源的字段更新 {#blocking-field-updates-from-untrusted-sources}
+## 阻止来自不受信任来源的字段更新 {#blocking-field-updates-from-untrusted-sources}
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->通过同时检查，您可以防止所有列表中的字段受到信任和不信任 **[!UICONTROL 列出导入可信源]**.
+>通过同时检查，您可以保护字段免受所有列表的影响，包括受信任和不受信任 **[!UICONTROL 列出导入可信源]**.
 
-对要防止他人进入不受信任列表的任何其他字段重复上述步骤。
+对要防止非受信任列表出现的任何其他字段重复上述步骤。
 
 ## 运行不受信任的列表导入 {#running-an-untrusted-list-import}
 
@@ -51,4 +51,4 @@ ht-degree: 0%
 
 有关导入列表的详细说明，请参阅 [导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
-做得不错！现在，您知道如何保护密钥字段免受不受信任的列表影响。
+做得不错！现在，您知道如何保护密钥字段免受不受信任列表的攻击。

@@ -1,5 +1,5 @@
 ---
-description: 启用通话录制 — Marketo文档 — 产品文档
+description: 启用呼叫记录 — Marketo文档 — 产品文档
 title: 启用通话录制
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 启用通话录制 {#enable-call-recording}
 
-作为管理员，您可以为Sales Insight Actions调用启用调用记录。 记录您团队的呼叫可能是指导销售代表了解最佳呼叫实践的好方法。
+作为管理员，您可以为Sales Insight Actions调用启用调用记录。 记录团队的呼叫可能是指导销售代表了解最佳呼叫实践的好方法。
 
 1. 单击设置图标并选择 **设置**.
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/enable-call-recording-3.png)
 
-1. 如果您希望让销售人员能够自行启用或禁用通话录制，请单击 **所有团队成员的可选录制**. 如果要自动记录所有呼叫，请单击 **记录所有呼叫**.
+1. 如果要让销售者能够自行启用或禁用呼叫录制，请单击 **适用于所有团队成员的可选录制**. 如果要自动记录所有呼叫，请单击 **记录所有呼叫**.
 
    ![](assets/enable-call-recording-4.png)
 

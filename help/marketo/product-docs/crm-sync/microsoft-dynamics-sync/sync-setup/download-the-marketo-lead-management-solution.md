@@ -1,23 +1,23 @@
 ---
 unique-page-id: 6848922
-description: 下载Marketo商机管理解决方案 — Marketo文档 — 产品文档
-title: 下载Marketo潜在客户管理解决方案
+description: 下载Marketo潜在客户管理解决方案 — Marketo文档 — 产品文档
+title: 下载Marketo商机管理解决方案
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# 下载Marketo潜在客户管理解决方案 {#download-the-marketo-lead-management-solution}
+# 下载Marketo商机管理解决方案 {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-您需要下载一个Marketo解决方案并将其安装到您的Microsoft Dynamics帐户中，才能开始同步。
+您需要下载Marketo解决方案并将其安装到您的Microsoft Dynamics帐户中，才能开始同步。
 
 >[!CAUTION]
 >

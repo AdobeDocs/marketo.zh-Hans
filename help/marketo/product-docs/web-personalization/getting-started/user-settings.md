@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 用户配置文件/密码/时区 {#user-profile-passwords-time-zones}
 
-1. 单击您的名称并选择 **用户设置**.
+1. 单击您的姓名并选择 **用户设置**.
 
    ![](assets/one.png)
 
@@ -28,9 +28,9 @@ ht-degree: 0%
    在“用户设置”页面上，您可以：
 
    * 更改您的电子邮件地址
-   * 添加个人详细信息（姓氏、手机号码和时区）
+   * 添加个人详细信息（名字和姓氏、手机号码和时区）
    * 选择在平台中导出表时要导出的行数。 请参阅字段：“Excel导出中的最大行数（限制为10,000）”
-   * 为新人员选择移动通知或与移动应用程序相关的观看列表
+   * 为与移动应用程序相关的新人员或观看列表选择移动通知
    * 通过单击调整个人区域设置 **编辑区域**.
    * 更改密码
    * 为有关组织、人员、营销活动和资产性能的电子邮件报告选择电子邮件报告通知设置
@@ -39,17 +39,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >选择您的区域将仅显示与定义区域的组织和人员相关的数据并发送电子邮件报告。
+   >选择您的地区将仅显示与定义地区的组织和人员相关的数据并发送电子邮件报告。
 
 ## 选择电子邮件报表 {#select-email-reports}
 
-选择哪个 [电子邮件报告](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) 关联到您的用户，以及发送报告的频率（每日、每周或每季度）。
+选择 [通过电子邮件发送报告](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) 关联到您的用户，以及发送报告的频率（每日、每周或每季度）。
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->点击 **保存** 不会将您退出用户设置。 要退出，请单击左上角的Marketo徽标并选择您的目标。
+>点击 **保存** 不会将您退出用户设置。 要退出，请单击左上角的Marketo徽标，然后选择您的目标。
 
 >[!MORELIKETHIS]
 >

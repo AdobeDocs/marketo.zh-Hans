@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 系统令牌术语表 {#system-tokens-glossary}
 
-除了个人令牌之外，您还可以使用一些非常酷的系统令牌。 他们来了。
+除了人员令牌之外，您还可以使用一些非常酷的系统令牌。 他们来了。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## system.date {#system-date}
 
-此 `{{system.date}}` 令牌将在运行时呈现当前日期，如下所示： **2013年8月8日**
+此 `{{system.date}}` 令牌将在运行时呈现当前日期，如下所示： **2013年8月08日**
 
 **在以下位置工作：**
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## system.time {#system-time}
 
-此 `{{system.time}}` 令牌将在运行时呈现当前时间，如下所示： **下午04:34 （格林威治标准时间–0700）**
+此 `{{system.time}}` 令牌将在运行时呈现当前时间，如下所示： **下午04:34 (GMT -0700)**
 
 **在以下位置工作：**
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-此 `{{system.unsubscribeLink}}` 令牌允许您控制取消订阅链接在电子邮件中的放置。
+此 `{{system.unsubscribeLink}}` 令牌允许您控制取消订阅链接在电子邮件中的投放位置。
 
 **在以下位置工作：**
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-此 `{{system.viewAsWebpageLink}}` 通过令牌，可控制电子邮件中以Web页形式查看链接的放置。
+此 `{{system.viewAsWebpageLink}}` 令牌允许您控制“以网页形式查看”链接在电子邮件中的放置位置。
 
 **适用于：**
 

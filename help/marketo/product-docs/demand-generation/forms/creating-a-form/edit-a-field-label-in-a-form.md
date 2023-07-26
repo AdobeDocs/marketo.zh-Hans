@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您想变得精彩，可以单击 ![铅笔](assets/image2014-9-15-17-3a27-3a7.png). 这将打开一个富文本编辑器，允许您前往包含图像、链接等内容的城镇！
+   >如果您想尽情享受，可以单击 ![铅笔](assets/image2014-9-15-17-3a27-3a7.png). 这将打开一个富文本编辑器，允许您转到包含图像、链接等的城镇！
 
 1. 单击 **完成**.
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 >
 >别忘了 [批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表单更改创建。
 
-给你！ 你逐渐成为一名造型设计师的冠军。
+拿着！ 一点一点地成为造型设计冠军。

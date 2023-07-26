@@ -5,14 +5,14 @@ exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '418'
+ht-degree: 2%
 
 ---
 
 # 高级搜索概述 {#advanced-search-overview}
 
-通过利用高级搜索来定位已查看、点击或回复电子邮件的潜在客户，您可以创建最活跃的潜在客户的目标列表。
+通过利用高级搜索来定位已查看、单击或回复电子邮件的潜在客户，您可以创建最活跃的潜在客户的目标列表。
 
 ## 如何访问高级搜索 {#how-to-access-advanced-search}
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 **日期**
 
-选择搜索的日期范围。 预设日期会根据您选择的电子邮件状态（“已发送”、“未送达”、“待定”）而更新。
+选择搜索的日期范围。 预设日期会根据您选择的电子邮件状态（已发送、未送达、待定）而更新。
 
 ![](assets/advanced-search-overview-5.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 <table>
  <tr>
-  <td><strong>下拉列表</strong></td>
+  <td><strong>下拉面板</strong></td>
   <td><strong>描述</strong></td>
  </tr>
  <tr>
@@ -57,7 +57,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td><strong>按组</strong></td>
-  <td>按特定收件人组筛选电子邮件。</td>
+  <td>按特定收件人组过滤电子邮件。</td>
  </tr>
  <tr>
   <td><strong>按人员</strong></td>
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 **时间**
 
-按创建日期、交付日期、失败日期或计划日期选择。 可用选项会根据您选择的电子邮件状态（“已发送”、“未送达”、“待定”）而发生更改。
+按创建日期、交付日期、失败日期或计划日期进行选择。 可用选项会根据您选择的电子邮件状态（“已发送”、“未送达”、“待定”）而发生更改。
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 **状态**
 
-有三个电子邮件状态可供选择。 类型/活动选项会根据选定的状态而更改。
+有三个电子邮件状态可供选择。 类型/活动选项会根据所选状态而发生更改。
 
 ![](assets/advanced-search-overview-9.png)
 
@@ -87,7 +87,7 @@ _**状态：已发送**_
 
 ![](assets/advanced-search-overview-10.png)
 
-按您已发送的电子邮件活动筛选。 您可以选择查看/无查看、点击/无点击和/或回复/无回复。
+按已发送的电子邮件活动筛选。 您可以选择视图/无视图、点击/无点击和/或回复/无回复。
 
 _**状态：待定**_
 
@@ -114,7 +114,7 @@ _**状态：待定**_
  </tr>
 </table>
 
-_**状态：未送达**_
+_**状态：未投放**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -127,15 +127,15 @@ _**状态：未送达**_
  </tr>
  <tr>
   <td><strong>已失败</strong></td>
-  <td>当电子邮件无法从Sales Connect发送时（常见原因包括：电子邮件被发送到未订阅/阻止的联系人，或者填充动态字段时出现问题）。</td>
+  <td>当电子邮件无法从Sales Connect发送时（常见原因包括：电子邮件正在发送给未订阅/阻止的联系人，或者填充动态字段时出现问题）。</td>
  </tr>
  <tr>
   <td><strong>已退回</strong></td>
-  <td>当电子邮件被收件人的服务器拒绝时，该电子邮件会被标记为已退回。 此处仅显示通过Sales Connect服务器发送的电子邮件。</td>
+  <td>当电子邮件被收件人的服务器拒绝时，该电子邮件将标记为已退回。 此处仅显示通过Sales Connect服务器发送的电子邮件。</td>
  </tr>
  <tr>
   <td><strong>垃圾邮件</strong></td>
-  <td>收件人将电子邮件标记为垃圾邮件（非请求电子邮件的常用术语）的时间。 此处仅显示通过Sales Connect服务器发送的电子邮件。</td>
+  <td>当电子邮件被收件人标记为垃圾邮件（未经请求的电子邮件的常用术语）时。 此处仅显示通过Sales Connect服务器发送的电子邮件。</td>
  </tr>
 </table>
 

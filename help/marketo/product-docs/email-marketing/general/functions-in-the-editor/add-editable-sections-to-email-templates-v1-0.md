@@ -6,14 +6,14 @@ exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 1%
 
 ---
 
 # 将可编辑部分添加到电子邮件模板v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
-如果您在电子邮件模板编辑器v1.0中创建模板，则可以通过放置一个特殊的 `<div>` 围着它。
+如果您在电子邮件模板编辑器v1.0中创建模板，则可以通过添加特殊的 `<div>` 围着它。
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 0%
 规则:
 
 1. HTML必须始终有效。
-1. 类 **mktEditable** 必须包含。
+1. 类 **mktEditable** 必须包括。
 1. 该ID在该HTML中必须是唯一的。
 1. ID中没有空格。
 

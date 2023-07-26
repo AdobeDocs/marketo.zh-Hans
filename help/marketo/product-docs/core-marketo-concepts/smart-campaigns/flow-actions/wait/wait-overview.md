@@ -15,23 +15,23 @@ ht-degree: 1%
 
 ## 概述 {#overview}
 
-使用方便项暂停智能营销活动流中的人员 **等待步骤**.
+用手来暂停智能营销活动流中的人员 **等待步骤**.
 
 ![](assets/wait-overview.png)
 
-请注意如何键入自然语言，如“4小时”。 Do **非**&#x200B;但是，缩写这些字（即4小时）。 明智的竞选活动仍将运行，但等待步骤将被忽略。
+请注意如何键入自然语言，如“4小时”。 Do **非**&#x200B;但是，缩写这些字（即4小时）。 智能营销活动仍会运行，但等待步骤将被忽略。
 
 >[!CAUTION]
 >
->更改等待步骤的持续时间不会影响已进入该步骤的人员。 例如：您有一个等待步骤5天，人员进入该步骤，然后您将等待步骤更改为7天 — 该人员仍然只会等待原来的5天，然后再进入下一个流量步骤。
+>更改等待步骤的持续时间不会影响已进入该步骤的人员。 例如：您有一个等待步骤5天，人员进入该步骤，然后您将等待步骤更改为7天 — 该人员仍然只等待原来的5天，然后再进入下一个流量步骤。
 
 >[!TIP]
 >
->如果您已有人处于等待步骤，并且不希望他们在等待期结束后前进，请插入 [从流中删除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) 就在等待步骤之后。 使用指定要删除的人员 [添加选项](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 选项。
+>如果有人已在等待步骤中，不希望他们在等待期结束后前进，请插入 [从流中删除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) 就在等待步骤之后。 使用指定要删除的人员 [添加选项](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 选项。
 
 ## 使用情况 {#usage}
 
-可以使用等待流步骤的三种主要方式：
+使用等待流步骤的主要方法有三种：
 
 1. [在等待流步骤中使用持续时间](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
 1. [在等待流步骤中使用特定日期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)

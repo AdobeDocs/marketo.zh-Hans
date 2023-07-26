@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 将自定义字段同步到Revenue Explorer {#sync-custom-fields-to-the-revenue-explorer}
 
-Revenue Cycle Analytics可以报告自定义Marketo字段，为此，您需要设置要同步的自定义字段。
+收入周期Analytics可以报告自定义Marketo字段，为此，您需要设置要同步的自定义字段。
 
 >[!NOTE]
 >
@@ -45,6 +45,6 @@ Revenue Cycle Analytics可以报告自定义Marketo字段，为此，您需要�
 
    >[!TIP]
    >
-   >启用后，数据将在次日在Revenue Cycle Analytics中可用。
+   >启用后，数据将于第二天在Revenue Cycle Analytics中可用。
 
-   做得好！ 现在您知道如何将自定义字段添加到RCA了。
+   做得好！ 现在您知道如何向RCA添加自定义字段了。

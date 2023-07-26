@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # 编辑表单主题的CSS {#edit-the-css-of-a-form-theme}
 
-您有几个预先构建的 [您可以从中进行选择的主题](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). 但是，如果您喜欢编辑CSS，则可以进行任何所需的更改。 下面是具体操作方法。
+您有几个预建的 [您可从中选择的主题](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). 但是，如果您喜欢编辑CSS，则可以进行任何所需的更改。 具体方法如下。
 
 >[!NOTE]
 >
->如果您希望尝试此操作，请确保您知道CSS，因为Marketo支持未设置为协助自定义编码。 此外，所做的任何更改将仅适用于您当前编辑的表单。
+>如果您希望尝试此操作，请确保您知道CSS，因为Marketo支持未设置为协助自定义编码。 此外，所做的任何更改将仅应用于您当前编辑的表单。
 
 1. 转到 **营销活动**.
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
-1. 输入您的自定义CSS。 你不需要所有的东西，只需要不同的部分。
+1. 输入您的自定义CSS。 你不需要所有的东西，只需要那些不同的部分。
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 

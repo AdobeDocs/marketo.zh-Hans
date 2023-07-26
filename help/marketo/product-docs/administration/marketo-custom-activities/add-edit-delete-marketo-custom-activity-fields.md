@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 添加/编辑/删除Marketo自定义活动字段 {#add-edit-delete-marketo-custom-activity-fields}
 
-您可能需要添加、更改甚至删除自定义活动字段。 下面是具体操作方法。
+您可能需要添加、更改甚至删除自定义活动字段。 具体方法如下。
 
 ## 添加自定义活动字段 {#add-a-custom-activity-field}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
-1. 选择要添加字段的自定义活动。
+1. 选择要向其添加字段的自定义活动。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >不确定要选择什么？ 我们为您提供保护！ 所有可用数据类型均定义于 [本文](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >不确定要选择什么？ 我们为您提供保障！ 所有可用的数据类型均定义于 [本文](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. 为字段命名。 Api名称会自动填充。 完成后，单击 **[!UICONTROL 保存]**.
+1. 命名字段。 Api名称会自动填充。 完成后，单击 **[!UICONTROL 保存]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
@@ -83,17 +83,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >编辑字段时，API名称不会自动填充。 虽然字段名称和API名称不必匹配，但我们建议它们相匹配。
+   >编辑字段时，API名称不会自动填充。 虽然字段名称和API名称不需要匹配，但我们建议二者相匹配。
 
    >[!CAUTION]
    >
-   >如果自定义活动从未发布，则只能编辑Api名称或将字段更改为“主要”。
+   >如果自定义活动从未发布，则只能编辑API名称或将字段更改为“主要”。
 
    >[!NOTE]
    >
-   >如果要更改哪个字段是主字段，则必须首先取消选择现有字段。
+   >如果要更改哪个字段是主字段，必须先取消选择现有字段。
 
-您的字段现在已编辑！
+您的字段现已编辑！
 
 ## 删除自定义活动字段 {#delete-a-custom-activity-field}
 

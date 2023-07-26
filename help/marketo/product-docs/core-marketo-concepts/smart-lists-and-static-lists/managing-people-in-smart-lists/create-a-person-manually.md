@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 手动创建人员 {#create-a-person-manually}
 
-让个人进入Marketo的方法有很多。 如果需要手动创建一个，请参阅以下操作说明。
+可以通过多种方式将人员导入Marketo。 如果您需要手动创建一个，请使用以下操作说明。
 
 >[!CAUTION]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/db-1.png)
 
-1. 下 **新**，单击 **新人员**.
+1. 下 **新建**，单击 **新人员**.
 
    ![](assets/two-2.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-这是在Marketo中添加单个人员的快速轻松的方法！
+这是在Marketo中快速轻松地添加单个人员的方法！

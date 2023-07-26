@@ -15,20 +15,20 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->现有客户，请 [升级MSI包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) 在继续操作之前！
+>现有客户，请 [升级MSI包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) 然后再继续！
 
 >[!PREREQUISITES]
 >
->如果您有Salesforce Enterprise/Unlimited：
+>如果您拥有Salesforce Enterprise/Unlimited：
 >
 >* [第1步（共3步）：将Marketo字段添加到Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [第2步（共3步）：创建Salesforce User for Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [第2步（共3步）：创建Marketo的Salesforce用户(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [第3步（共3步）：连接Marketo和Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
 >* [在Salesforce Enterprise/Unlimited中配置Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 >
 >如果您拥有Salesforce Professional：
 >
->* [在Salesforce Professional Edition中配置Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [在Salesforce专业版中配置Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
 
 >[!NOTE]
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
-1. 选择 **Marketo** 和 **添加** 它对应于 **已选择** 菜单项。
+1. 选择 **Marketo** 和 **添加** 它到 **已选择** 菜单项。
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
@@ -101,7 +101,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >确保为所有所需的配置文件隐藏Marketo选项卡！
+   >请确保为所有所需的配置文件隐藏Marketo选项卡！
 
 ## 自定义选项卡 {#customize-tabs}
 
@@ -113,7 +113,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. 选择 **Marketo** 和 **添加** 将其添加到选定的选项卡中。
+1. 选择 **Marketo** 和 **添加** 将其添加到选定的选项卡。
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
@@ -131,11 +131,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >对您的组织使用的每个页面布局（营销、销售等）重复这些步骤。 Contact 、 Account和Opportunity对象。
+   >对您的组织使用的每个页面布局（营销、销售等）重复这些步骤 对于Contact 、 Account和Opportunity对象。
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
-1. 单击 **编辑** 以更改Lead布局。
+1. 单击 **编辑** 以更改销售线索布局。
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
@@ -143,7 +143,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
-1. 将“高度”更改为66并单击 **确定**.
+1. 将高度更改为66并单击 **确定**.
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
@@ -153,16 +153,16 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在快速查找中键入“Add to”，以便轻松查找添加到Marketo Campaign。
+   >在快速查找中键入“Add to”，以便轻松查找添加到Marketo Campaign的内容。
 
 1. 单击 **保存**.
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-噢！ 您最终完成了安装Marketo Sales Insight for Salesforce1！ 请拍拍自己的背部。
+噢！ 您终于完成了Marketo Sales Insight for Salesforce1的安装！ 请拍拍自己的后背。
 
 >[!MORELIKETHIS]
 >
 >* [Salesforce1中的最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 >* [Salesforce1中的有趣时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [在Salesforce1中发送Marketo电子邮件、Campaign和Watchlist操作](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [在Salesforce1中发送Marketo电子邮件和Campaign及Watchlist操作](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

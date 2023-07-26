@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949716
-description: 使用Outlook的Email Add-In发送和跟踪电子邮件 — Marketo文档 — 产品文档
-title: 使用Outlook的Email Add-In发送和跟踪电子邮件
+description: 使用Outlook的电子邮件加载项发送和跟踪电子邮件 — Marketo文档 — 产品文档
+title: 使用Outlook的电子邮件加载项发送和跟踪电子邮件
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 使用Outlook的Email Add-In发送和跟踪电子邮件 {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# 使用Outlook的电子邮件加载项发送和跟踪电子邮件 {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
 您可以使用Marketo直接从Outlook发送和跟踪电子邮件。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果电子邮件中包含多个收件人，则所有活动都将被跟踪到第一个收件人下。
+   >如果电子邮件中包含多个收件人，则所有活动都将在第一个收件人下被跟踪。
 
 1. 按常规方式撰写电子邮件，然后单击 **Send and Track**.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您将电子邮件发送给不在Marketo实例中的人员，则将自动为其创建人员记录。 他们的姓氏将始终为“mktUnknown”，以便您可以轻松找到他们。
+   >如果您将电子邮件发送给不在Marketo实例中的人员，则将自动为他们创建人员记录。 他们的姓氏将始终为“mktUnknown”，以便您轻松找到他们。
 
    >[!TIP]
    >
@@ -49,13 +49,13 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >反垃圾邮件技术通常会拒绝在发送电子邮件后20秒内发生的打开和点击，因此请在测试时至少等待这么长时间以打开/点击。
+   >反垃圾邮件技术通常会拒绝在发送电子邮件后20秒内发生的打开和单击操作，因此在测试时，请至少等待这么长时间才能打开/单击。
 
-   要查看谁收到了通过Outlook发送的电子邮件，请使用“已发送销售电子邮件”过滤器创建一个智能列表。
+   要查看谁收到了通过Outlook发送的电子邮件，请使用“已发送销售电子邮件”过滤器创建智能列表。
 
    ![](assets/was-sent-sales-email.png)
 
-就这么简单！ 即使此电子邮件是由销售人员的Outlook发送的，但将在Marketo中对其进行跟踪。
+这太简单了！ 即使此电子邮件是由销售人员的Outlook发送的，它仍将在Marketo中进行跟踪。
 
 >[!MORELIKETHIS]
 >

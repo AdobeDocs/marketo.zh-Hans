@@ -23,9 +23,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->* 此集成仅适用于AEM的内部部署，不支持AEM Cloud Service实施。
+>* 此集成仅适用于AEM的内部部署，AEM Cloud Service实施不支持此集成。
 >
->* 目前，仅在Firefox中完全支持此功能。 Safari不支持此功能，根据您的SameSite Cookie设置，此功能在最新版本的Chrome中可能不起作用。
+>* 目前，仅在Firefox中完全支持此功能。 该工具在Safari中不受支持，并且可能在最新版本的Chrome中不起作用，具体取决于您的SameSite Cookie设置。
 
 1. 导航到Adobe Experience Manager （URL特定于您的公司）。
 
@@ -35,15 +35,15 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. In **工具**，单击 **操作** 并选择 **Web控制台**.
+1. 在 **工具**，单击 **操作** 并选择 **Web控制台**.
 
    ![](assets/2a.png)
 
-1. 在浏览器中，搜索(Windows上按ctrl+f，Mac上按cmd+f)“AdobeGranite跨源资源共享策略”。
+1. 在浏览器中搜索(Windows上按ctrl+f，Mac上按cmd+f)“AdobeGranite跨源资源共享策略”。
 
    ![](assets/three.png)
 
-1. 单击 **+** 在右侧登录。
+1. 单击 **+** 在右侧签名。
 
    ![](assets/four.png)
 

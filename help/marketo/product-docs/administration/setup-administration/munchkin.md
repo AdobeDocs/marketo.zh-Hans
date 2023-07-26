@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504874
-description: ”[!DNL Munchkin] - Marketo文档 — 产品文档”
+description: '"[!DNL Munchkin] - Marketo文档 — 产品文档”'
 title: "[!DNL Munchkin]"
 exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
 feature: Administration, Munchkin Tracking Code

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. 运行报告后，单击工作区以返回到 **Analytics主页**.
+1. 运行报表后，单击工作区以返回到 **Analytics主页**.
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 

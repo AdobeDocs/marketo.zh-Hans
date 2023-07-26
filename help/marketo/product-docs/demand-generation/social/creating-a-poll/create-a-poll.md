@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->如果要在轮询中使用图像，请在开始之前将其添加到Marketo图像和文件库。 为每个轮询条目添加60x60px图像。 参见 [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>如果要在轮询中使用图像，请在开始之前将其添加到Marketo图像和文件库。 为每个轮询条目添加60x60px图像。 请参阅 [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. 在程序内，选择 **新** > **新建本地资产**.
+1. 在程序内，选择 **新建** > **新建本地资产**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >为了节省时间，您可以使用 **克隆来源** 选项以复制现有视频共享中的所有设置。
+   >为了节省时间，您可以使用 **克隆** 选项以复制现有视频共享中的所有设置。
 
 1. 给你的投票加上标题（通常是简短的问题）。
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a19-3a23.png)
 
-1. 要添加条目，请单击 **+** 符号并编辑标题和描述。
+1. 要添加条目，请单击 **+** 并编辑标题和描述。
 
    ![](assets/image2014-9-18-18-3a19-3a30.png)
 
-1. 对于每个条目，您可以通过单击编号缩略图来添加图像。
+1. 对于每个条目，您可以通过单击编号的缩略图来添加图像。
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
-将在新窗口中打开轮询编辑器。 默认设置全部正确，但您仍需要添加轮询条目。 我们将向您展示后续步骤中的操作方法。
+将在新窗口中打开轮询编辑器。 默认设置全部正确，但仍需要添加轮询条目。 我们将向您展示后续步骤中的操作方法。
 
 >[!TIP]
 >
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->投票提交后，投票不再可编辑。
+>提交投票后投票不再可编辑。
 
 >[!MORELIKETHIS]
 >

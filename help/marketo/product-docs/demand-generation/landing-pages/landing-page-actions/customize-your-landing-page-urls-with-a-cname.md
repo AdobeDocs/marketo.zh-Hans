@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用CNAME自定义登陆页面URL {#customize-your-landing-page-urls-with-a-cname}
 
-即使Marketo托管您的登陆页面，也可以完全自定义URL。 没有CNAME时的外观：
+即使Marketo托管您的登陆页面，也可以完全自定义URL。 在没有CNAME时的外观：
 
 `https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 ## 选择一个CNAME {#choose-a-cname}
 
-为您的登陆页面选择位于URL开头的单词。 它只是一个词，应该相对较短。 示例:
+为您的登陆页面选择一个URL开头的单词。 只有一个词，应该相对较短。 示例:
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html
 * pages.YourCompany.com/NameOfPage.html
 
-一个单词(加上YourCompany.com)称为CNAME。 稍后您需要此项，请记下它。
+一个字(加上YourCompany.com)称为CNAME。 你以后需要这个，所以记下来吧。
 
 ## 查找您的Munchkin ID {#find-your-munchkin-id}
 
@@ -49,15 +49,15 @@ ht-degree: 0%
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
-## 向IT部门发送请求 {#send-request-to-it}
+## 向IT发送请求 {#send-request-to-it}
 
-要求您的IT员工设置以下CNAME： (将 [CNAME] 和 [Munchkin ID] 使用上一步中的文本。)
+要求您的IT员工设置以下CNAME： (将 [CNAME] 和 [Munchkin ID] （其中包含上一步骤中的文本。）
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## 完成CNAME设置 {#complete-cname-setup}
 
-1. IT部门创建CNAME后，转到 **管理员** 区域。
+1. IT人员创建CNAME后，转到 **管理员** 区域。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
@@ -75,6 +75,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您的Marketo登录页面不可用，您的后备页面将成为潜在客户将重定向到的页面。
+>如果您的Marketo登录页面不可用，您的回退页面将成为潜在客户将被重定向到的页面。
 
 做得好！ 您的登陆页面现在使用您的公司域进行标记。

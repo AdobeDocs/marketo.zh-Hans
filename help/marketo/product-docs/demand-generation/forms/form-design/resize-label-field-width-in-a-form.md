@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 调整表单中的标签/字段宽度 {#resize-label-field-width-in-a-form}
 
-可通过两种方式调整字段标签宽度和字段宽度本身。
+有两种方法既可以调整字段标签宽度，也可以调整字段宽度本身。
 
 ## 拖放宽度 {#drag-and-drop-the-width}
 
-1. 在 [表单编辑器](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)中，选择要调整大小的字段。
+1. 在 [表单编辑器](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)，选择要调整大小的字段。
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
-做得好！ 很简单，对吧？
+做得好！很简单，对吧？

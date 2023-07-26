@@ -13,18 +13,18 @@ ht-degree: 0%
 
 # 使用经理帐户在收入模型中设置Google AdWords转化 {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
-将您的Google AdWords帐户关联到Marketo，以自动将离线转化数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够轻松查看哪些点击导致了符合条件的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段） [添加自定义列](https://support.google.com/adwords/answer/3073556) 在AdWords中。
+将您的Google AdWords帐户关联到Marketo，以自动将离线转化数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够轻松查看哪些点击在您之后产生了符合条件的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段） [添加自定义列](https://support.google.com/adwords/answer/3073556) 在AdWords中。
 
 如果您有多个Google Adwords帐户，则可以使用 [Google AdWords管理器帐户](https://www.google.com/adwords/manager-accounts/) （以前称为“我的客户端中心”）以将它们与Marketo集成。
 
-您可以将AdWords离线转化映射到收入模型的一个或多个阶段。 有两种方式：
+您可以将AdWords离线转化映射到收入模型的一个或多个阶段。 有两种方法可用：
 
 * 暂存操作
 * AdWords映射
 
 >[!PREREQUISITES]
 >
->[使用经理帐户添加Google AdWords作为Launchpoint服务](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
+>[使用Manager帐户添加Google AdWords作为Launchpoint服务](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## 使用暂存操作 {#use-stage-action}
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-27-17-3a16-3a37.png)
 
-   提示：如果您没有任何AdWords转化，请单击进行创建 **+新建转换**.
+   提示：如果您没有任何AdWords转换，请单击进行创建 **+新建转换**.
 
    ![](assets/image2015-3-27-17-3a18-3a58.png)
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 
 ## 专业提示：添加新转化 {#pro-tip-add-a-new-conversion}
 
-专业提示！ 可以从Marketo创建新的AdWords离线转换。
+专业提示！ 可以从Marketo创建新的AdWords离线转化。
 
 >[!CAUTION]
 >
->从Marketo创建的新转化已启用“优化”设置。 这意味着允许AdWords竞价策略优化您对这些转化的竞价。 您可以通过AdWords帐户更改此设置。
+>从Marketo创建的新转化启用了“优化”设置。 这意味着允许AdWords竞价策略优化您对这些转化的竞价。 您可以通过AdWords帐户更改此设置。
 
 1. 在 **暂存操作** 下拉列表，选择 **设置AdWords转换**.
 
@@ -78,7 +78,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-27-17-3a24-3a49.png)
 
-   太棒了！ 此新转换将显示在您的AdWords帐户中。
+   太棒了！ 此新转化将显示在您的AdWords帐户中。
 
 ## 使用AdWords映射 {#use-adwords-mapping}
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 
-1. 选择所需的 **AdWords帐户** 和所需 **AdWords转换** 每个要跟踪的阶段。
+1. 选择所需的 **AdWords帐户** 和所需 **AdWords转换** 跟踪的每个阶段。
 
    ![](assets/image2015-3-27-17-3a30-3a15.png)
 
@@ -100,4 +100,4 @@ ht-degree: 0%
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-要查看离线转化数据，您需要登录AdWords帐户。 我们建议您使用 [自定义列功能](https://support.google.com/adwords/answer/3073556) 为从Marketo导入的每个离线转化创建转化计数列。
+要查看离线转化数据，您需要登录AdWords帐户。 我们建议您使用 [自定义列功能](https://support.google.com/adwords/answer/3073556) 要为从Marketo导入的每个离线转化创建转化计数列。

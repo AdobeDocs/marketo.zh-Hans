@@ -30,12 +30,12 @@ ht-degree: 5%
 * 优先级
 * 紧急
 
-## 潜在客户布局中的Marketo Sales Insight行动动员  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## 潜在客户布局中的Marketo Sales Insight行动动员按钮  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * 添加到Marketo Campaign
 * 发送Marketo电子邮件
 
-## “潜在客户列表”视图中的Marketo Sales Insight批量操作按钮  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## 潜在客户列表视图中的Marketo销售分析批量操作按钮  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * 添加到Marketo Campaign
 * 发送Marketo电子邮件
@@ -55,7 +55,7 @@ ht-degree: 5%
 * 优先级
 * 紧急
 
-## “联系人”布局中的“Marketo销售分析行动动员”按钮  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## 联系人布局中的Marketo销售分析行动号召按钮  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * 添加到Marketo Campaign
 * 发送Marketo电子邮件
@@ -76,7 +76,7 @@ ht-degree: 5%
 ## Marketo最佳匹配页面 {#marketo-best-bets-page}
 
 * 优先级（星星和火焰）
-* 名称（超链接至潜在客户/联系人页面）
+* 名称（超链接到潜在客户/联系人页面）
 * 帐户
 * 有趣的时刻
 * 状态

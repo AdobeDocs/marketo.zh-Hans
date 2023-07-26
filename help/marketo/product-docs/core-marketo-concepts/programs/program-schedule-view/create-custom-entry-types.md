@@ -6,7 +6,7 @@ exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. 单击 **新** 下拉菜单并选择 **条目类型**.
+1. 单击 **新建** 下拉并选择 **条目类型**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
-1. 为您的条目命名并选择一个图标。
+1. 为您的条目命名并选择图标。
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 

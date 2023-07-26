@@ -5,7 +5,7 @@ exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果选择新帐户，您可以通过转到 **管理员** > **Munchkin** (登录后，它也是您的Marketo URL的一部分)。 您应具有的客户端ID/密码应遵循本文顶部的先决条件。
+   >如果选择新帐户，您可以通过转到 **管理员** > **蒙奇金** (登录后，它也是您的Marketo URL的一部分)。 您应该具有的客户端ID/密钥，应遵循本文顶部的先决条件。
 
 1. 选择目标帐户并单击 **选择**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 输入目标 **名称** 和可选描述。 单击人员创建下拉列表，然后选择“匹配现有Marketo人员并在Marketo中创建缺失的人员” _或_ “仅匹配现有Marketo人员”（在本例中，我们选择了前者）。 您还必须选择 **工作区**.
+1. 输入目标 **名称** 和可选描述。 单击人员创建下拉列表，然后选择“匹配现有Marketo人员并在Marketo中创建缺少的人员” _或_ “仅匹配现有Marketo人员”（在本例中，我们选择了前者）。 您还必须选择 **工作区**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -66,11 +66,11 @@ ht-degree: 0%
    >
    >如果您选择“仅匹配现有Marketo人员”，则只需映射电子邮件和/或ECID，因此您可以跳过步骤13至16。
 
-1. 此部分为可选。 单击 **创建** 跳过。
+1. 此部分为可选部分。 单击 **创建** 跳过。
 
    ![](assets/push-an-adobe-experience-platform-segment-10.png)
 
-1. 选择您创建的目标并单击 **下一个**.
+1. 选择您创建的目标，然后单击 **下一个**.
 
    ![](assets/push-an-adobe-experience-platform-segment-11.png)
 
@@ -80,11 +80,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果选择多个区段，则必须在“区段计划”选项卡中将每个区段映射到指定的静态列表。
+   >如果选择多个区段，则必须将每个区段映射到“区段计划”选项卡中的指定静态列表。
 
    >[!IMPORTANT]
    >
-   >首次将区段激活到Marketo目标后，可能需要回填在Marketo目标激活之前区段中已存在的用户档案 **长达24小时**. 今后，每当将用户档案添加到区段时，都会立即将其添加到Marketo。
+   >首次将区段激活到Marketo目标后，可能需要回填在激活Marketo目标之前区段中已存在的用户档案 **长达24小时**. 今后，无论用户档案何时添加到区段，都会立即将其添加到Marketo。
 
 1. 单击 **添加新映射**.
 
@@ -114,7 +114,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-18.png)
 
-1. 单击选择身份命名空间单选按钮，选择  **电子邮件**，然后单击 **选择**.
+1. 单击选择身份命名空间单选按钮，然后选择  **电子邮件**，然后单击 **选择**.
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
@@ -130,7 +130,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-1. 要选择“公司名称”源字段，请单击其行中的光标图标。
+1. 要选择“公司名称”来源字段，请单击该行中的光标图标。
 
    ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
@@ -138,7 +138,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-1. 通过单击每个源字段的光标图标并重复执行两次步骤23，选择 **姓氏** 然后 **名字**.
+1. 通过单击每个源字段的光标图标并重复步骤23两次，选择 **姓氏** 然后 **名字**.
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 

@@ -20,5 +20,5 @@ ht-degree: 0%
 * [更改参与计划流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 流程步骤
 * [更改项目状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 流程步骤
 * 如果人员填写参与计划的本地表单
-* 将成员导入参与计划（通过计划内的“成员”选项卡）
-* 如果您将Salesforce用作CRM，并且将Salesforce营销活动关联到参与计划，则在CRM端将某人添加到Salesforce营销活动也会使其成为参与计划的成员。
+* 将成员导入参与计划（通过计划中的“成员”选项卡）
+* 如果您将Salesforce用作CRM，并且将Salesforce营销活动关联到参与计划，则在CRM端向Salesforce营销活动添加某人也会使其成为参与计划的成员。

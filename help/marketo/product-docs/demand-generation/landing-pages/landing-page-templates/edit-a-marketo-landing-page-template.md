@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4720738
 description: 编辑Marketo登陆页面模板 — Marketo文档 — 产品文档
-title: 编辑Marketo登录页模板
+title: 编辑Marketo登陆页面模板
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# 编辑Marketo登录页模板 {#edit-a-marketo-landing-page-template}
+# 编辑Marketo登陆页面模板 {#edit-a-marketo-landing-page-template}
 
 您可以在Marketo中编辑任何登陆页面模板。
 

@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # Sales Connect的服务条款是什么？ {#what-are-the-sales-connect-terms-of-service}
 
-可以找到Sales Connect的服务条款 [此处](https://documents.marketo.com/toutapp/terms).
+可以找到Sales Connect服务条款 [此处](https://documents.marketo.com/toutapp/terms).
 
 >[!NOTE]
 >
->“ToutApp”是以前的Marketo Sales Connect名称。
+>“ToutApp”是Marketo Sales Connect的先前名称。

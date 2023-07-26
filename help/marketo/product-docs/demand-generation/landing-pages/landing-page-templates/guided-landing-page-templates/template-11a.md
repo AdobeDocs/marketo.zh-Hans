@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 模板11A {#template-11a}
 
-右键单击 [下载模板11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
+右键单击 [下载模板11a](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
-此模板包含以下内容：
+此模板包括以下内容：
 
-* 标头（可选）
+* 标题（可选）
 * 主分区
 
    * 包括主页标题、主页文本和表单
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 四个主体部分（可选）
 * 页脚（可选）
 
-**右键单击以下内容可下载此模板：**
+**右键单击以下内容以下载此模板：**
 
 [模板11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)

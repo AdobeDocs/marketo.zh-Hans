@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 介绍 {#introduction}
 
-对于新的Marketo客户，实时个性化分为四个应用程序，使用这两个图块访问：Web个性化和ContentAI。
+对于新的Marketo客户，实时个性化分为四个应用程序，使用这两个磁贴进行访问：Web个性化和ContentAI。
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >Web个性化和ContentAI提供所有Marketo支持的语言（英语、法语、德语、日语、葡萄牙语、西班牙语）。
 
-现有客户继续通过“实时个性化”拼贴访问应用程序，直到续订为止，届时将使用上面的登录。
+现有客户继续通过实时个性化图块访问应用程序，直到续订为止，届时将使用上述登录。
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
 
 此 **Web个性化** 图块是您创建个性化Web营销活动的访问点。 基于帐户的Web营销和Web重定位。 您可以在Content Analytics页面上添加内容。
 
-**基于帐户的Web营销** 适用于Web个性化和指定帐户功能。 “指定帐户”页提供有关现有客户、参与合计和组织趋势的图形信息以及帐户列表。 您还可以在其中创建新的指定帐户。
+**基于帐户的Web营销** 可与Web个性化和指定帐户功能配合使用。 “指定帐户”页提供有关现有客户、参与合计和组织趋势的图形信息以及帐户列表。 您还可以在其中创建新的指定帐户。
 
-**网站重定位** 使您能够向分段受众进行再营销。 您可以设置区段，但不能在过滤器中使用指定帐户。
+**网站重定位** 使您能够向分段受众进行再营销。 您可以设置区段，但不能在筛选器中使用指定帐户。
 
-**内容人工智能** 是提供内容推荐的地方。 您可以轻松地将内容添加到“内容Recommendations”页面。
+**内容人工智能** 是提供内容推荐的位置。 您可以轻松地将内容添加到“内容Recommendations”页面。
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## 组织 {#organizations}
 
-“组织”选项卡显示给定时间段内访问您网站的组织的所有详细信息（名称、位置、活动和时间戳）。 表格可以按时间、位置、域并通过自由文本搜索进行排序和组织。
+“组织”选项卡显示给定时间段内访问过您网站的组织的所有详细信息（名称、位置、活动和时间戳）。 该表可以按时间、位置、域和通过自由文本搜索进行排序和组织。
 
 ![](assets/image2014-11-10-19-3a23-3a18.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>电子表格图标</strong>：位于面板的右上角，图标会下载CSV格式的“组织”表格以供脱机使用</p><p><strong>设置电子邮件警报</strong>：每次在选定的组织访问网站时，向登录用户发送一封电子邮件</p><p><strong>潜在客户</strong>：打开所选组织的潜在客户表</p><p><strong>共享</strong>：打开一个弹出窗口以发送电子邮件并共享访问过该网页的组织的详细信息</p><p><strong>位置图标</strong>：显示所选组织的国家/地区和城市</p><p><strong>链接</strong>：拼图、Whois、Linkedin、Google、Twitter会打开一个新窗口，其中包含相应网页的其他信息，从而提供有关所选组织的更多洞察</p><p><strong>搜索</strong>：显示访客通过搜索引擎到达时使用的关键词</p><p><strong>反向链接</strong>：显示将流量引向网站的页面的URL链接</p><p><strong>访客</strong>：显示访问次数、所选组织查看的页面数及其电子邮件地址（如果他们完成了提交表单）以及上次访问的时间和日期</p><p><strong>点击流</strong>：显示一个表，其中包含用户活动以及用户在该网站上的URL路径以及他们访问每个页面的时间</p></td> 
+   <td><p><strong>电子表格图标</strong>：位于面板右上角的图标会下载CSV格式的“组织”表格以供脱机使用</p><p><strong>设置电子邮件警报</strong>：每次在选定的组织访问网站时，向登录用户发送一封电子邮件</p><p><strong>潜在客户</strong>：打开所选组织的潜在客户表</p><p><strong>共享</strong>：打开一个弹出窗口以发送电子邮件并共享访问网页的组织的详细信息</p><p><strong>位置图标</strong>：显示所选组织的国家/地区和城市</p><p><strong>链接</strong>：Jigsaw、Whois、Linkedin、Google、Twitter会打开一个新窗口，其中包含相应网页的其他信息，以提供有关所选组织的更多洞察</p><p><strong>Search</strong>：显示访客通过搜索引擎到达时使用的关键词</p><p><strong>反向链接</strong>：显示将流量引向网站的页面的URL链接</p><p><strong>访客</strong>：显示访问次数、所选组织查看的页面数及其电子邮件地址（如果他们已完成提交表单）以及上次访问的时间和日期</p><p><strong>点击流</strong>：显示一个表格，其中包含用户活动以及网站上的URL路径以及他们访问每个页面的时间</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 **共享组织**
 
-想要将网站访客的信息共享给同事？ 单击“Organization（组织）” ，然后单击右侧面板上的“Share（共享）”链接。
+想要将网站访客的信息共享给同事？ 单击组织，然后单击右侧面板上的共享链接。
 
 这会激活“共享此组织”叠加图，您可以在该图上发送电子邮件，共享访问网站的组织的名称和详细信息。
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 ![](assets/image2014-11-10-19-3a45-3a49.png)
 
-“访客”页面的右侧面板提供了以下分析：
+“访客”页面的右侧面板提供了以下见解：
 
 <table> 
  <thead> 
@@ -103,7 +103,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>电子表格图标</strong></td> 
-   <td colspan="1" rowspan="1">位于面板右上角的图标可下载CSV格式的访客表以供脱机使用</td> 
+   <td colspan="1" rowspan="1">图标位于面板的右上角，可下载CSV格式的访客表以供脱机使用</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>组织名称</strong></p></td> 
@@ -111,7 +111,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>设置营销活动</strong></td> 
-   <td colspan="1" rowspan="1">用于设置与所选访客关联的Campaign CTA</td> 
+   <td colspan="1" rowspan="1">用于设置与选定访客关联的Campaign CTA</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>位置</strong></td> 
@@ -128,11 +128,11 @@ ht-degree: 0%
 
 ![](assets/wp-real.jpg)
 
-“实时”页面可实时显示您网站上的访客，并测量其活动情况。
+实时页面实时显示您网站上的访客，并测量活动发生时的情况。
 
 ![](assets/image2014-11-10-19-3a49-3a55.png)
 
-“实时”页面被拆分为6个信息性表格，其中包含现场访客的详细信息：
+实时页面分为现场访客详细信息的6个信息表：
 
 <table> 
  <thead> 
@@ -144,7 +144,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>访客</strong></td> 
-   <td colspan="1" rowspan="1"> 表示您网站上当前访客的数量</td> 
+   <td colspan="1" rowspan="1"> 表示您的网站上当前访客的数量</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>每分钟点击次数</strong></p></td> 
@@ -156,7 +156,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>实时区段</strong></td> 
-   <td colspan="1">当前现场与指定区段匹配的访客数量</td> 
+   <td colspan="1">当前现场与指定区段匹配的访客数</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>当前正在浏览</strong></td> 

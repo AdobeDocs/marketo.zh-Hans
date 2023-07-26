@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->要将人员从Sales Connect添加到Marketo Campaign，Sales Connect必须具有人员的Marketo潜在客户ID。
+>要将人员从Sales Connect添加到Marketo Campaign，Sales Connect必须具有人员的Marketo商机ID。
 
 1. 单击 **人员** 选项卡。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 单击复选框以选择您的联系人。
+1. 单击此复选框以选择您的联系人。
 
    ![](assets/three-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果选择此选项，请单击“个人”并键入。 单击 **下一个** 完成时。
+1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果选择此选项，请单击“个人”并键入它们。 单击 **下一个** 完成时。
 
    ![](assets/five-2.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 您看到的是符合条件的联系人。 单击 **开始** 才能添加这些元素。
+1. 您看到的是符合条件的联系人。 单击 **开始** 以添加它们。
 
    ![](assets/nine.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. 在“我的组”下，选择要添加到营销策划的组。
+1. 在我的群组下，选择要添加到营销策划的群组。
 
    ![](assets/eleven.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果选择此选项，请单击“个人”并键入。 单击 **下一个** 完成时。
+1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果选择此选项，请单击“个人”并键入它们。 单击 **下一个** 完成时。
 
    ![](assets/thirteen.png)
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要将人员从Sales Connect添加到Marketo Campaign，Sales Connect必须具有人员的Marketo潜在客户ID。
+   >要将人员从Sales Connect添加到Marketo Campaign，Sales Connect必须具有人员的Marketo商机ID。
 
 1. 单击“工作区”下拉列表，然后选择包含要将组添加到其中的活动的工作区。
 
@@ -101,6 +101,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 您看到的是符合条件的联系人。 单击 **开始** 才能添加这些元素。
+1. 您看到的是符合条件的联系人。 单击 **开始** 以添加它们。
 
    ![](assets/nine.png)

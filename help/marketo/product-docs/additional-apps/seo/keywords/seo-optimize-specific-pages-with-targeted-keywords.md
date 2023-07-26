@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 使用目标关键词优化特定页面 {#seo-optimize-specific-pages-with-targeted-keywords}
 
-某些关键字与某些页面非常匹配。 这是如何将perfect关键字与其完美页面进行匹配的方法。 这将提供最准确的数据和最佳改进建议。
+某些关键字非常适用于某些页面。 这就是如何将perfect关键字与其完美页面进行匹配的方法。 这将提供最准确的数据和最佳的改进建议。
 
 1. 转到 **[!UICONTROL 页面]** 部分。
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900573
-description: 将系统令牌作为链接添加到电子邮件中 — Marketo文档 — 产品文档
+description: 添加系统令牌作为电子邮件中的链接 — Marketo文档 — 产品文档
 title: 添加系统令牌作为电子邮件中的链接
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
@@ -25,13 +25,13 @@ ht-degree: 0%
 >
 >这些令牌将 **非** 除非位于锚点链接内部，否则为可单击的。 此外，他们可以 **非** 嵌入到“我的令牌”中。
 
-以下是如何将它们添加到电子邮件中：
+以下是如何将它们添加到电子邮件中的：
 
 1. 查找并选择您的电子邮件，然后单击 **编辑草稿**.
 
    ![](assets/one-1.png)
 
-1. 双击可编辑区域。
+1. 在可编辑区域中双击。
 
    ![](assets/two-1.png)
 
@@ -59,4 +59,4 @@ ht-degree: 0%
 >
 >别忘了 [批准您的电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) 完成时。
 
-做得好！ 现在，您知道如何将系统令牌作为链接添加到电子邮件中。
+做得好！ 现在您知道如何在电子邮件中添加系统令牌作为链接了。

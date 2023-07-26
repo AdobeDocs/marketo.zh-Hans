@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095084
-description: 从Revenue Explorer绘制结果图表 — Marketo文档 — 产品文档
+description: 从Revenue Explorer绘制结果 — Marketo文档 — 产品文档
 title: 从收入资源管理器绘制结果图表
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ![](assets/column.png)
 
-**栈叠式柱状图**：表中的每一行在图形中都有一列。
+**栈叠式柱状图**：表中的每一行在图形中均占一列。
 
 ![](assets/stacked-column.png)
 
-**100%栈叠柱状图**：表中的每一行在图表中都有一列，并将其缩放到100%。
+**100%栈叠列**：表中的每一行在图形中都有一列，并且可以缩放为100%。
 
 ![](assets/100-stacked-column.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ![](assets/line.png)
 
-**列 — 行组合框**：柱形图和折线图的组合。
+**列 — 行组合**：柱形图和折线图的组合。
 
 ![](assets/column-line-combo.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 ![](assets/bar.png)
 
-**栈叠条形图**：表中的每一行在图形中占有一行。
+**栈叠条形图**：表中的每一行在图形中占一行。
 
 ![](assets/stacked-bar.png)
 
-**100%栈叠条形图**：表中的每一行在图表中都占一行，并且被缩放到100%。
+**100%栈叠条形图**：表中的每一行在图形中占有一行，并且其比例为100%。
 
 ![](assets/100-stacked-bar.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ![](assets/sunburst.png)
 
-**散点图**：基于使用的属性的气泡。 使用测量对气泡进行颜色编码和/或确定其大小。
+**散点图**：基于所用属性的气泡。 使用测量对气泡进行颜色编码和/或确定其大小。
 
 ![](assets/scatter.png)
 

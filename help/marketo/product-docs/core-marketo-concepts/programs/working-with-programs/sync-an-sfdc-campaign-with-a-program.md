@@ -17,11 +17,11 @@ Marketo允许您将项目与Salesforce营销活动同步，以维护两个系统
 
 >[!PREREQUISITES]
 >
->您将需要 [启用Salesforce Campaign同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) 首先。
+>您将需要 [启用Salesforce营销活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) 首先。
 
 >[!CAUTION]
 >
->将SFDC营销活动与Marketo项目同步时，将对该项目的子营销活动禁用隐含的SFDC操作（例如，添加到SFDC营销活动、同步到SFDC）。
+>将SFDC促销活动与Marketo项目同步时，将为项目的子促销活动禁用隐含的SFDC操作（例如，添加到SFDC促销活动、同步到SFDC）。
 
 1. 转到 **营销活动**.
 
@@ -45,8 +45,8 @@ Marketo允许您将项目与Salesforce营销活动同步，以维护两个系统
 
    ![](assets/image2015-7-22-8-3a57-3a19.png)
 
-1. 现在，您可以在程序摘要页面中验证Campaign同步详细信息。
+1. 现在，您可以在项目摘要页面中验证Campaign同步详细信息。
 
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
-   太棒了！ 现在，Marketo中的任何项目状态更改都会同步到SFDC营销活动，反之亦然。
+   太棒了！ 现在，Marketo中的任何项目状态更改都会同步到SFDC活动，反之亦然。

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 取消A/B测试 {#cancel-the-a-b-test}
 
-如果您已  [添加了A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 并决定不再使用它，它很容易被撤消。 下面是具体操作方法。
+如果您已  [添加了A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 添加到您的电子邮件程序并已决定不再需要它，它很容易被撤消。 具体方法如下。
 
 1. 转到 **营销活动**.
 
@@ -29,6 +29,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在删除A/B测试之前，您的电子邮件程序必须处于未批准状态。 参见 [批准/取消批准电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) 了解详细信息。
+   >您的电子邮件程序必须未获批准，然后才能删除A/B测试。 请参阅 [批准/取消批准电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) 以了解详细信息。
 
 轻松点！

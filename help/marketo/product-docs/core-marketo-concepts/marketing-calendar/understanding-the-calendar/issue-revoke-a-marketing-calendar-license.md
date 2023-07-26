@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-要利用 [营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} 名额，您需要向需要访问的用户颁发许可证。 下面是具体操作方法。
+要利用 [营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} 名额，您需要向需要访问的用户颁发许可证。 具体方法如下。
 
 1. 转到 **[!UICONTROL 管理员]** 部分。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >许可证数量限制为5个。 如果您需要更多，请与您的销售代表联系。
+   >许可证数量限制为5个。 如果您需要更多资源，请与您的销售代表联系。
 
    ![](assets/4.png)
 

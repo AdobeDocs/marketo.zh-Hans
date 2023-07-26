@@ -1,5 +1,5 @@
 ---
-description: 从Sales Insight Actions中断开Salesforce - Marketo文档 — 产品文档
+description: 断开Salesforce与Sales Insight Actions的连接 — Marketo文档 — 产品文档
 title: 从Sales Insight操作中断开Salesforce
 hide: true
 hidefromtoc: true
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # 从Sales Insight操作中断开Salesforce {#disconnect-salesforce-from-sales-insight-actions}
 
-有时您可能需要断开Salesforce帐户与Sales Insight Actions帐户的连接。 下面是具体操作方法。
+有时您可能需要将Salesforce帐户与Sales Insight Actions帐户断开连接。 具体方法如下。
 
 ## 如何以管理员身份与Salesforce断开连接 {#how-to-disconnect-from-salesforce-as-an-admin}
 

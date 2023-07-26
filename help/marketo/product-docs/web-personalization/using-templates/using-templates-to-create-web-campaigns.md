@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. 单击 **创建新的Web营销活动**.
+1. 单击 **新建Web营销活动**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
-1. 为您的营销活动命名。
+1. 命名您的营销活动。
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
@@ -39,11 +39,11 @@ ht-degree: 0%
 
    ![](assets/templates.png)
 
-1. 选择适合您的营销活动的区域，以查看并选择适合您的模板。
+1. 为您的营销活动选择相应的区域以查看并选择适合您的模板。
 
    >[!NOTE]
    >
-   >有一些很酷的模板可供选择，我们以后将添加更多模板。
+   >我们提供了一些很酷的模板供您选择，并且我们将在未来添加更多模板。
 
    ![](assets/select.png)
 

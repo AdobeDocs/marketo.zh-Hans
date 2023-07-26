@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359453
-description: 编辑电子邮件标头 — Marketo文档 — 产品文档
-title: 编辑您的电子邮件标头
+description: 编辑电子邮件标题 — Marketo文档 — 产品文档
+title: 编辑电子邮件标题
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 编辑您的电子邮件标头 {#edit-your-email-header}
+# 编辑电子邮件标题 {#edit-your-email-header}
 
-Marketo中的电子邮件标头是完全可自定义的。 它包含四个字段：
+Marketo中的电子邮件标头是完全可自定义的。 它由四个字段组成：
 
-* **起始日期**  — 您希望显示的发件人名称
+* **从**  — 您希望显示的发件人名称
 * **发件人地址**  — 您希望显示的发件人电子邮件地址
-* **回复**  — 您希望接收人员回复的电子邮件地址（可以不同于发件人地址）
+* **回复**  — 您希望将人员回复发送到的电子邮件地址（可以不同于发件人地址）
 * **主题**  — 电子邮件的主题行
 
 要编辑这些值，请在每个字段中单击并输入您的信息。
@@ -26,9 +26,9 @@ Marketo中的电子邮件标头是完全可自定义的。 它包含四个字段
 
 >[!TIP]
 >
->要设置默认发件人名称和发件人电子邮件，请参阅 [更改默认发件人电子邮件和发件人标签](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
+>要设置默认发件人姓名和发件人电子邮件，请参阅 [更改来自电子邮件和来自标签的默认值](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
 
-如果要使用令牌，请先在所需字段中单击，然后单击令牌图标。
+如果要使用令牌，请首先在所需字段中单击，然后单击令牌图标。
 
 ![](assets/two-3.png)
 
@@ -36,7 +36,7 @@ Marketo中的电子邮件标头是完全可自定义的。 它包含四个字段
 
 ![](assets/three-2.png)
 
-“发件人地址”字段中最右侧的键图标可让您知道您是否使用自定义DKIM签名。
+“发件人地址”字段最右侧的键图标可让您知道您是否使用自定义DKIM签名。
 
 ![](assets/four-2.png)
 

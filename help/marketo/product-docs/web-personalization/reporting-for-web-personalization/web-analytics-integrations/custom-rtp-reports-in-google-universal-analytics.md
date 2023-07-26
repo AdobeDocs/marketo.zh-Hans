@@ -34,13 +34,13 @@ ht-degree: 1%
 
 ## RTP B2B报告 {#rtp-b-b-report}
 
-1. 为报表命名 **RTP B2B报告**.
+1. 命名报告 **RTP B2B报告**.
 
 1. 命名第一个选项卡 **行业**.
 
 >[!NOTE]
 >
->您将 **复制此选项卡** 并创建其他类似的报表 — 步骤5)
+>您会 **复制此选项卡** 并创建其他类似的报表 — 步骤5)
 
 1. 选择 **资源管理器** 报告类型。
 
@@ -101,7 +101,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-1. 不要设置任何过滤器，并设置此报告可用于 **所有网站数据** （如果与特定Analytics帐户相关，则进行更改）。
+1. 不要设置任何过滤器，将此报告设置为可用于 **所有网站数据** （如果与特定Analytics帐户相关，则进行更改）。
 
 1. 单击 **保存**.
 
@@ -109,7 +109,7 @@ ht-degree: 1%
 
 ## RTP参与报告 {#rtp-engagement-report}
 
-1. 为报表命名 **RTP参与报告**.
+1. 命名报告 **RTP参与报告**.
 
 1. 将第一个选项卡名称设置为 **所有参与度**.
 
@@ -121,7 +121,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. 在量度组部分，选择与您的业务相关的量度。 以下是建议：
+1. 在指标组部分，选择与您的业务相关的指标。 以下是建议：
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -130,7 +130,7 @@ ht-degree: 1%
    1. **所有参与度**
    1. **按行业列出的参与情况**
    1. **按组显示的参与情况**
-   1. **按类别显示的参与度**
+   1. **按类别显示的参与情况**
    1. **按ABM列出的参与情况**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
@@ -160,7 +160,7 @@ ht-degree: 1%
    <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>按类别显示的参与度</td> 
+   <td>按类别显示的参与情况</td> 
    <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -197,7 +197,7 @@ ht-degree: 1%
     </div></th> 
    <th colspan="1"> 
     <div>
-      注释 
+      评论 
     </div></th> 
   </tr> 
  </thead> 
@@ -214,7 +214,7 @@ ht-degree: 1%
    <td>事件标签</td> 
    <td>正则表达式</td> 
    <td>#</td> 
-   <td colspan="1">允许您在营销活动名称中使用#从报表营销活动中进行筛选</td> 
+   <td colspan="1">允许使用营销活动名称中的#从报表营销活动中进行筛选</td> 
   </tr> 
  </tbody> 
 </table>

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 了解Marketo On24适配器事件 {#understanding-marketo-on-adapter-events}
 
-如果您的ON24网络研讨会未连接到Marketo，则必须获取Marketo中已存在的与会者信息并将其输入到ON24中。 网络研讨会后，您必须获取ON24中已存在的出席信息，然后将其输入回Marketo。
+如果您的ON24网络研讨会未连接到Marketo，则必须获取已在Marketo中的与会者信息并将其输入到ON24中。 网络研讨会后，您必须获取ON24中已存在的出席信息，然后将其输入回Marketo。
 
 ON24适配器为您传输所有信息。 它将在Marketo登录页面上捕获的注册信息推送到ON24，并将出席信息自动提取到Marketo活动中。
 

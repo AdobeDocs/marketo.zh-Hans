@@ -18,9 +18,9 @@ ht-degree: 0%
 >* [创建智能列表](create-a-smart-list.md)
 >* [查找筛选器并将其添加到智能列表](find-and-add-filters-to-a-smart-list.md)
 
-既然你已经 [已创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 和 [已添加筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) 为此，让我们定义过滤器。 下面是具体操作方法。
+现在你已经 [已创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 和 [已添加过滤器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) 为此，让我们定义过滤器。 具体方法如下。
 
-继续我们的示例，让我们定义这些过滤器以查找得分超过50分的加利福尼亚州的所有人。
+继续我们的示例，让我们定义这些过滤器以查找得分超过50分的加利福尼亚州所有人员。
 
 1. 转到 **营销活动**.
 
@@ -30,13 +30,13 @@ ht-degree: 0%
 
    ![](assets/smarlist-choosefilters.png)
 
-1. 查找并选择 **CA** 对于 **状态** 筛选条件。
+1. 查找并选择 **CA** 对于 **状态** 筛选。
 
    ![](assets/smartlistdefinefilters.png)
 
    >[!NOTE]
    >
-   >您可能存储了这两个 **加利福尼亚** 和 **CA**. 要筛选两个值和包含，请执行以下操作 _所有_ 加州人，学习如何  [向智能列表筛选器添加多个值](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
+   >您可能同时存储了这两个 **加利福尼亚** 和 **CA**. 为了筛选这两个值和包含 _所有_ 来自加利福尼亚的人，学习如何  [向智能列表筛选器添加多个值](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
 1. 选取 **大于** 运算符并输入 **50**.
 
@@ -44,6 +44,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您认为数据库中的某些记录包含不完整的电子邮件地址(例如，只有“@adobe.com”)，请使用 **二** 使用“包含”运算符时的电子邮件地址过滤器。 一个过滤器使用“包含@adobe.com”，另一个过滤器使用“包含adobe.com”（省略@符号）。
+>如果您认为数据库中可能有一些记录包含不完整的电子邮件地址(例如，只有“@adobe.com”)，请使用 **二** 使用“包含”运算符时，会过滤电子邮件地址。 一个带有“contains @adobe.com”的过滤器，和一个带有“contains adobe.com”的单独过滤器（省略@符号）。
 
-您现在知道如何创建智能列表和添加/定义筛选器。
+您现在知道如何创建智能列表以及添加/定义过滤器。

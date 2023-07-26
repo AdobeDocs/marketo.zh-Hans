@@ -12,11 +12,11 @@ ht-degree: 1%
 
 # 概述 {#overview}
 
-欢迎使用Adobe Marketo Engage Modern UX（用户体验），这是一个更新的界面，在整个Marketo Engage平台中提供了增强的可用性以及新的外观。
+欢迎使用Adobe Marketo Engage Modern UX（用户体验），这是一个更新的界面，在提供整个Marketo Engage平台的增强可用性以及新外观。
 
 >[!PREREQUISITES]
 >
->允许列表如果您的IT团队使用限制Web访问，请让他们添加以下域（包括星号）以允许所有Marketo资源和Web套接字：
+>如果您的IT团队使用允许列表限制Web访问，请让他们添加以下域（包括星号）以允许所有Marketo资源和Web套接字：
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 ## 观看导览 {#take-the-tour}
 
-首次登录时，将会出现一个弹出窗口，为您提供新体验的摘要。 注意，如果您选择跳过，它将 **非** 稍后提供。
+首次登录时，将显示一个弹出窗口，为您提供新体验的摘要。 注意，如果您选择跳过它，它将 **非** 稍后提供。
 
 ![](assets/overview-1.png)
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 **图标**
 
-新界面的特点是改进和扩展了图像。 请在此处了解这些规则： [图标术语表](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
+新界面的特点是改进和扩展了图像。 可在此处了解这些内容： [图标术语表](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
 ![](assets/overview-2.png)
 
@@ -48,7 +48,7 @@ ht-degree: 1%
 
 **实例URL**
 
-您还可以快速访问您的munchkin ID，该ID现在会反映在您的实例的URL中（这对拥有多个订阅的用户甚至更有用）。
+您还可以快速访问munchkin ID，该ID现在会反映在您的实例的URL中（这对拥有多个订阅的用户更有用）。
 
 ![](assets/overview-6.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>合并的草稿和批准树节点</td> 
+   <td>合并的草稿和审批树节点</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -85,7 +85,7 @@ ht-degree: 1%
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>双击以展开/折叠树节点</td> 
+   <td>双击可展开/折叠树节点</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -174,7 +174,7 @@ ht-degree: 1%
 
 ## 全局导航 {#global-nav}
 
-请看一下新的全球导航。
+了解新的全球导航。
 
 ![](assets/overview-7.png)
 
@@ -186,7 +186,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>2</td> 
-   <td>已列出所有以前的超级球项目</td> 
+   <td>所有先前的超级球项目都已列出</td> 
   </tr>
   <tr>
   <tr>
@@ -195,17 +195,17 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>4</td> 
-   <td>全局搜索 — 您现在可以从此处搜索整个实例</td> 
+   <td>全局搜索 — 您现在可以从此处搜索您的整个实例</td> 
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->以前存在于超级球下拉列表中的所有内容，现在仍可在“我的Marketo”中作为拼贴使用。
+>以前在Superball下拉列表中生活的所有内容，现在仍可在“我的Marketo”中作为磁贴使用。
 
 >[!TIP]
 >
->在树中使用搜索将仅产生来自您所在部分（例如，营销活动）的结果。 如果要搜索整个实例，请使用全局搜索。
+>在树中使用搜索将只产生来自您所在部分（例如，营销活动）的结果。 如果要搜索整个实例，请使用全局搜索。
 
-享受新的Marketo Engage体验！
+享受全新的Marketo Engage体验！

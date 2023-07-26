@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359777
-description: 查看投票中所投的票 — Marketo文档 — 产品文档
+description: 审核投票表决 — Marketo文档 — 产品文档
 title: 查看投票时投的票
 exl-id: 1877c5d2-0842-468c-826b-8027270ab292
 feature: Social
@@ -13,9 +13,9 @@ ht-degree: 2%
 
 # 查看投票时投的票 {#review-votes-cast-in-poll}
 
-谁投了你民调中的什么票？ 我们来看看吧。
+谁投了你调查中的什么票？ 我们来看看吧。
 
-1. In **营销活动**，选择轮询，然后单击 **参与者** 选项卡。
+1. 在 **营销活动**，选择投票，然后单击 **参与者** 选项卡。
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 

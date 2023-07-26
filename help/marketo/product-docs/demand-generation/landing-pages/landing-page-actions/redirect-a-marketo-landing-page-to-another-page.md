@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359740
 description: 将Marketo登陆页面重定向到其他页面 — Marketo文档 — 产品文档
-title: 将Marketo登录页面重定向到其他页面
+title: 将Marketo登陆页面重定向到其他页面
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 1%
 
 ---
 
-# 将Marketo登录页面重定向到其他页面 {#redirect-a-marketo-landing-page-to-another-page}
+# 将Marketo登陆页面重定向到其他页面 {#redirect-a-marketo-landing-page-to-another-page}
 
-如果您更新了页面的URL并希望旧URL仍然可用，请尝试重定向！ 设置过程很简单。
+如果您曾更新页面的URL并希望旧URL仍然可用，请尝试重定向！ 设置很简单。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. 在 **规则** 选项卡，单击 **新** 然后 **新建重定向规则**.
+1. 在 **规则** 选项卡，单击 **新建** 然后 **新建重定向规则**.
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 1%
    >
    >请记住，您只能重定向以Marketo开头的URL [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. 选择要在第二个页面中重定向的登陆页面 **原始URL** 字段。
+1. 在第二个页面中选择要重定向的登陆页面 **原始URL** 字段。
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 

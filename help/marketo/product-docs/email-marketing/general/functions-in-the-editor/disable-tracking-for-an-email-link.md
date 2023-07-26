@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900579
-description: 禁用电子邮件链接跟踪 — Marketo文档 — 产品文档
+description: 禁用电子邮件链接的跟踪 — Marketo文档 — 产品文档
 title: 禁用电子邮件链接的跟踪
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
@@ -27,17 +27,17 @@ ht-degree: 0%
 
    ![](assets/three-6.png)
 
-1. 在“编辑链接”弹出窗口中，取消选中 **跟踪链接** 复选框。
+1. 在编辑链接弹出窗口中，取消选中 **跟踪链接** 复选框。
 
    ![](assets/four-4.png)
 
-1. 您会注意到 **包括mkt_tok框** 消失。 单击 **应用**.
+1. 您会注意到 **包括mkt_tok框** 就会消失。 单击 **应用**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >取消选中 **包括mkt_tok** 仍允许跟踪链接，但在重定向后，目标URL将不包含mkt_tok查询字符串参数。 此参数由Marketo登录页和Munchkin使用，以确保正确跟踪人员活动（例如，当人员取消订阅电子邮件时）。 您应该避免使用此功能，除非由于参数存在而看到网站上的奇怪行为。
+   >取消选中just **包括mkt_tok** 仍允许跟踪链接，但在重定向后，目标URL将不包含mkt_tok查询字符串参数。 此参数由Marketo登录页面和Munchkin使用，以确保正确跟踪人员活动（例如，当人员取消订阅电子邮件时）。 您应该避免使用此功能，除非您因参数存在而在网站上看到奇怪的行为。
 
 1. 单击 **保存**.
 
@@ -49,4 +49,4 @@ ht-degree: 0%
    >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >如果您需要实施此功能的帮助，请咨询您的Web开发人员。
 
-很好！ 您现在已禁用对链接的跟踪。
+太好了！ 您现在已禁用对链接的跟踪。

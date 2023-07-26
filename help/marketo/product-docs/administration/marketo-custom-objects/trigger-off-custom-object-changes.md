@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >此功能仅可用：
 >
->* 对于 [!DNL Orion] 基础结构
->* 仅用于Marketo自定义对象，而不用于通过本机同步的自定义对象 [!DNL Salesforce] 或 [!DNL Microsoft Dynamics] 集成
->* 作为触发器，而不是筛选器
+>* 对于位于以下网址 [!DNL Orion] 基础结构
+>* 仅用于Marketo自定义对象，而不用于通过本机同步的自定义对象。 [!DNL Salesforce] 或 [!DNL Microsoft Dynamics] 集成
+>* 作为触发器，而不是过滤器
 >
 >请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support) 启用“自定义对象更改触发器”。
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
-1. 创建或打开一个现有的Smart Campaign，然后选择智能列表。
+1. 创建或打开现有的Smart Campaign，然后选择智能列表。
 
    ![](assets/trigger-off-custom-object-changes-2.png)
 
-1. 搜索所需的触发器并将其拖动到画布上。
+1. 搜索所需的触发器，并将其拖动到画布上。
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. 你在这儿。 更改将自动保存。
+1. 你就在那儿。 更改将自动保存。
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 

@@ -23,21 +23,21 @@ Marketo中的社交应用程序拥有自己的特殊触发器和过滤器。
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. 使用社交 _过滤器_，单击 **+** 以展开 **筛选器**.
+1. 使用社交 _过滤器_，单击 **+** 以展开 **过滤器**.
 
    ![](assets/two-282-29.png)
 
-1. 请参阅下表，了解哪些触发器和过滤器适用于每个社交应用程序。
+1. 请参阅下表，了解哪些触发器和过滤器可与每个社交应用程序配合使用。
 
-   | 触发器/筛选器 | 社交按钮 | 投票 | 视频 | 反向链接选件 | 抽奖活动 |
+   | 触发器/筛选器 | 社交按钮 | 投票 | 视频 | 反向链接优惠 | 抽奖活动 |
    |---|---|---|---|---|---|
    | 转介中的已实现目标 |  |  |  | ![（勾号）](assets/check.png) | |
    | 共享内容 | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) |
-   | 点击共享链接 | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) |
+   | 单击共享链接 | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) |
    | 取消抽奖资格 |  |  |  |  | ![（勾号）](assets/check.png) |
    | 在社交应用程序中获取条目 |  |  |  |  | ![（勾号）](assets/check.png) |
-   | 进入抽奖 |  |  |  |  | ![（勾号）](assets/check.png) |
-   | 参考社交应用程序 |  |  |  | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) |
+   | 进入抽奖活动 |  |  |  |  | ![（勾号）](assets/check.png) |
+   | 引用社交应用程序 |  |  |  | ![（勾号）](assets/check.png) | ![（勾号）](assets/check.png) |
    | 注册推荐优惠 |  |  |  | ![（勾号）](assets/check.png) |  |
    | 投票中的投票 |  | ![（勾号）](assets/check.png) |  |  |  |
    | 赢得抽奖 |  |  |  |  | ![（勾号）](assets/check.png) |

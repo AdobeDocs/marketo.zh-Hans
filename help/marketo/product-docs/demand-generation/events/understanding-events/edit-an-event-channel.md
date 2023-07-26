@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # 编辑事件渠道 {#edit-an-event-channel}
 
-您可以从事件的 **摘要** 制表符或从其 **设置** 选项卡。
+您可以从事件的 **摘要** 选项卡或从其 **设置** 选项卡。
 
 >[!NOTE]
 >
->此选项仅适用于没有关联成员的事件。 一旦事件具有成员，您就不能更改渠道类型。
+>此选项仅适用于没有关联成员的事件。 一旦事件具有成员，您就无法更改渠道类型。
 
 >[!NOTE]
 >
->项目是一个特定的营销计划。 此 **渠道** 旨在作为投放机制，例如网络研讨会、贸易展或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉列表中看到不同的渠道选项。 您还可以  [创建您自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+>项目是一项特定的营销计划。 此 **渠道** 旨在作为投放机制，如网络研讨会、贸易展览或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉列表中看到不同的渠道选项。 您还可以  [创建您自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ## 从“摘要”选项卡 {#from-the-summary-tab}
 
-1. 起始日期 **营销活动**，从树中选择事件。
+1. 从 **营销活动**，从树中选择您的事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 导航到 **摘要** 视图。
+1. 导航至 **摘要** 视图。
 
    ![](assets/eventprogramsummary.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/channeltypeevent.png)
 
-1. 从下拉列表中选择一个新渠道。
+1. 从下拉列表中选择新渠道。
 
    ![](assets/tradeshowchange.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/2017-06-13-09-35-53.png)
 
-## 从“设置”选项卡 {#from-the-setup-tab}
+## 在“设置”选项卡中 {#from-the-setup-tab}
 
 也可以从事件的 **设置** 选项卡。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/eventprogramseelct.png)
 
-1. 导航到 **设置** 选项卡。 双击当前 **渠道**.
+1. 导航至 **设置** 选项卡。 双击当前 **渠道**.
 
    ![](assets/setuptabchangechannel.png)
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 
    ![](assets/2017-06-13-09-35-53.png)
 
-恭喜！ 您刚刚编辑了一个频道！
+恭喜！ 您刚刚编辑了一个渠道！

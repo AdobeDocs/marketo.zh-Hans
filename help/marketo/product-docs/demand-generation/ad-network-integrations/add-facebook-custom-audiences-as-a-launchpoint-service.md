@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4720257
 description: 将Facebook自定义受众添加为LaunchPoint服务 — Marketo文档 — 产品文档
-title: 将Facebook自定义受众添加为LaunchPoint服务
+title: 将Facebook自定义受众添加为LaunchPoint Service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,23 +11,23 @@ ht-degree: 0%
 
 ---
 
-# 将Facebook自定义受众添加为LaunchPoint服务 {#add-facebook-custom-audiences-as-a-launchpoint-service}
+# 将Facebook自定义受众添加为LaunchPoint Service {#add-facebook-custom-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-通过此集成，您可以将受众数据从Marketo静态列表和智能列表发送到Facebook，以便在Facebook广告促销活动中用作自定义受众。 下面是设置方法。
+利用此集成，您可以将Marketo中的受众数据静态列表和智能列表发送到Facebook，以在Facebook广告促销活动中用作自定义受众。 下面是设置方法。
 
 1. 转到Marketo **管理员**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. 转到 **启动点**，单击 **新** 并选择 **新服务**.
+1. 转到 **启动点**，单击 **新建** 并选择 **新建服务**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 输入 **显示名称** ，然后选择 **facebook自定义受众** 服务来自 **服务** 下拉菜单。
+1. 输入 **显示名称** ，然后选择 **facebook自定义受众** 来自的服务 **服务** 下拉菜单。
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >为了使Marketo能够跨多个Ad Manager帐户发送受众，您执行以下步骤中授权的Facebook用户需要有权访问 *所有* 这些账户的10%。
+   >为了使Marketo能够跨多个Ad Manager帐户发送受众，您在以下步骤中授权的Facebook用户需要有权访问 *所有* 这些账号的。
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
@@ -45,9 +45,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您 _必须_ 使用Facebook Business Manager帐户以使自定义受众集成正常工作。 要了解如何设置Business Manager帐户，请参阅 [facebook帮助](https://www.facebook.com/business/help/1710077379203657).
+   >您 _必须_ 使用Facebook Business Manager帐户以使您的自定义受众集成正常工作。 要了解如何设置业务经理帐户，请参阅 [facebook帮助](https://www.facebook.com/business/help/1710077379203657).
 
-1. 如果出现提示，请单击 **确定** 以接受将Marketo应用程序安装到Facebook中。
+1. 如果出现提示，请单击 **确定** ，以接受将Marketo应用程序安装到Facebook中。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -59,11 +59,11 @@ ht-degree: 0%
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   做得好！ 您现在可以转到Marketo中的任何静态列表或智能列表，并将受众数据发送到Facebook。
+   做得好！您现在可以转到Marketo中的任何静态列表或智能列表，并将受众数据发送到Facebook。
 
    >[!CAUTION]
    >
-   >在你走之前，一定要相信 [接受Facebook的自定义受众术语](https://www.facebook.com/ads/manage/customaudiences/tos.php) 在您的Facebook帐户中！ 如果不这样做，受众更新将失败。
+   >在你走之前，请确保 [接受Facebook的自定义受众术语](https://www.facebook.com/ads/manage/customaudiences/tos.php) 在您的Facebook帐户中！ 否则，受众更新将失败。
 
 >[!MORELIKETHIS]
 >

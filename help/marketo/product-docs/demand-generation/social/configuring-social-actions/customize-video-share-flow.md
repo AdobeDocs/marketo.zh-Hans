@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2950553
 description: 自定义视频共享流程 — Marketo文档 — 产品文档
-title: 自定义视频共享流
+title: 自定义视频共享流量
 exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 自定义视频共享流 {#customize-video-share-flow}
+# 自定义视频共享流量 {#customize-video-share-flow}
 
 当您 [创建视频共享](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)，您可以自定义共享提示出现的时间和位置。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
-1. 选择应用程序提示用户共享的时间以及提示出现的位置。
+1. 选择应用程序何时提示用户共享，以及提示出现的位置。
 
    ![](assets/image2014-9-22-16-3a41-3a20.png)
 

@@ -33,4 +33,4 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   接下来，只需按照在常规Salesforce帐户中安装自定义项的步骤进行操作。
+   接下来，只需按照在常规Salesforce帐户中安装自定义项的步骤进行操作即可。

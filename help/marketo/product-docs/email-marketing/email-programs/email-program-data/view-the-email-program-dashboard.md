@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 查看电子邮件计划仪表板 {#view-the-email-program-dashboard}
 
-查看您的电子邮件计划（无论是否有A/B测试）如何使用此功能板执行。
+在此仪表板中查看您的电子邮件计划（无论是否有A/B测试）的执行情况。
 
 ## 选择您的电子邮件程序 {#select-your-email-program}
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您的A/B测试或电子邮件计划尚未开始，您将不会看到功能板。
+   >如果您的A/B测试或电子邮件计划尚未开始，您将看不到仪表板。
 
-## 电子邮件计划A/B测试视图 {#email-program-a-b-test-view}
+## 电子邮件程序A/B测试视图 {#email-program-a-b-test-view}
 
 如果您向电子邮件程序添加了A/B测试，并且该测试当前正在运行，您将看到以下内容：
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->将光标悬停在图表小组件上以进行试验。 它将显示其他信息。
+>尝试将光标悬停在图表小组件上。 它将显示附加信息。
 
 >[!MORELIKETHIS]
 >
->* [使用电子邮件计划仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [使用电子邮件程序仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [使用电子邮件程序仪表板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

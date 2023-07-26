@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您无法编辑API名称。
+   >无法编辑API名称。
 
 1. 更改将显示在“字段”列表中。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. 确保在触发触发器之前确实要删除字段！ 单击 **[!UICONTROL 删除]**.
+1. 确保在触发触发器之前确实要删除该字段！ 单击 **[!UICONTROL 删除]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 

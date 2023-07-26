@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 编辑您的默认品牌策略域 {#edit-your-default-branding-domain}
 
-编辑默认品牌推广域是使用品牌推广域的第一步。
+编辑默认品牌策略域是使用品牌策略域的第一步。
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. 在 [!UICONTROL 品牌推广域] 表，选择通用域并单击“编辑”将其更改为贵公司的品牌域。
+1. 在 [!UICONTROL 品牌化域] 表，选择通用域并单击“编辑”将其更改为公司的品牌域。
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
-现在，您可以 [添加任何其他品牌推广域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) 你需要。
+现在，您可以 [添加任何其他品牌策略域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) 你需要。

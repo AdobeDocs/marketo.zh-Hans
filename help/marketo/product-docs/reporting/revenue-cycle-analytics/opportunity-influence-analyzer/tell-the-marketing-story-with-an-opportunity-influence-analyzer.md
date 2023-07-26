@@ -17,31 +17,31 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[创建机会影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[创建Opportunity影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. 转到 **分析** 并选择 **机会影响分析器**.
 
    ![](assets/analytics-opportunityhand.png)
 
-   Opportunity Influence Analyzer直观地呈现了该机会中涉及的交互以及项目和事件成功案例。 让我们浏览一下图表：
+   Opportunity Influence Analyzer直观地呈现了该机会中涉及的交互、项目和事件成功情况。 让我们浏览一下图表：
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **橙色点** 表示机会中的有趣时刻（打开的电子邮件、展位访问、白皮书下载等）。 较大的圆点表示交互次数较多。
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **橙色点** 表示机会中的有趣时刻（打开的电子邮件、展位访问、白皮书下载等）。 点越大，交互作用越强。
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **活页夹图标** 表示项目成功。
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **绑定器图标** 表示项目成功。
 
    * ![—](assets/image2014-10-3-13-3a44-3a40.png) **日历图标** 指示事件成功。
 
-   * **机会期限**. 绿色区域代表机会本身，从机会创建到机会关闭（成功或失败）。
+   * **机会期限**. 从机会创建到机会关闭（成功或失败），绿色区域代表机会本身。
 
    * **机会生命周期**. 绿色商机期前后的灰色区域显示了导致和跟踪商机的交互。
 
-   此 **设置** 面板列出了帐户的人员：
+   此 **设置** 面板会列出帐户中的人员：
 
    * 此 **括号中的数字** 是与该联系人交互的次数。
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)此 **黄色星星** 指示主要联系人。
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)此 **黄色星形** 指示主要联系人。
 
-1. 将鼠标悬停在名称上可查看该人员的工作标题以及他们参与机会的来源。
+1. 将鼠标悬停在姓名上，可查看该人员的工作标题以及他们参与机会的来源。
 
    ![](assets/image2015-6-23-14-3a43-3a1.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-23-14-3a44-3a15.png)
 
-   在我们的示例中，我们了解到CEO Sarah Geller多次访问该网站，甚至订阅了博客。 这表明，MegaCorp对这一机会的兴趣在很大程度上是由营销计划和资产推动的。
+   在我们的示例中，我们了解到CEO Sarah Geller多次访问网站，甚至订阅了博客。 这表明，MegaCorp对这一机遇的兴趣在很大程度上是受到营销项目和资产的推动。
 
    单击时间轴上的更多橙色圆点，填写有助于创建和关闭商机的事件、项目和有趣时刻的故事。
 

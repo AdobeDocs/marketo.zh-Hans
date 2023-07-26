@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # “自定义社交应用程序”按钮 {#customize-social-app-button}
 
-当您创建 [社交按钮](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) 或 [反向链接优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)中，您可以自定义按钮的外观。
+当您创建 [社交按钮](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) 或 [推荐优惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)中，您可以自定义按钮的外观。
 
 1. 转到 **营销活动**.
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. 作出每个选择时，请查看以下文件中的结果： **查看和编辑** 窗口。
+1. 当您作出每个选择时，请查看以下文件中的结果： **查看和编辑** 窗口。
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
@@ -61,4 +61,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->对于社交按钮， [在打开时配置](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). 对于推荐报价， [指定优惠目标](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
+>对于社交按钮， [打开时进行配置](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). 对于推荐报价， [指定优惠目标](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).

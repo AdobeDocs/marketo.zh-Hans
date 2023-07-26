@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # SFDC同步：在Salesforce中将潜在客户转换为联系人 {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-想像一下Salesforce中的三种不同情形：(不使用 [转换人员流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) (在Marketo中)
+想像一下Salesforce中的三种不同场景：(不使用 [转换人员流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) (在Marketo中)
 
-1. 将Lead转换为 **新联系人和新帐户**
-1. 将Lead转换为 **新建联系人** 在 **现有帐户**
+1. 将潜在客户转化为 **新联系人和新帐户**
+1. 将潜在客户转化为 **新建联系人** 在 **现有帐户**
 
-1. 将Lead转换为 **现有联系人** 在 **现有帐户** (此工作方式与 [合并](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md))
+1. 将潜在客户转换为 **现有联系人** 在 **现有帐户** (此工作方式与 [合并](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md))
 
-在所有三个案例中，您最终都会获得 **Salesforce中有1个联系人且没有潜在客户，Marketo中有1个联系人且没有人员。**
+在所有三个案例中 **Salesforce中存在1个联系人且没有潜在客户，Marketo中存在1个联系人且没有人员。**
 
-在Marketo中，记录现在将具有SFDC类型=联系人。
+在Marketo中，记录现在将具有SFDC类型= Contact。
 
 >[!TIP]
 >
 >在Salesforce中转换时，请确保您的 [商机自定义字段映射良好](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm). 您不希望丢失任何数据。
 
-您可以使用“Lead is Converted”和“Lead is Converted”来触发和筛选。
+您可以使用“Lead is Converted”和“Lead was Converted”来触发和筛选。

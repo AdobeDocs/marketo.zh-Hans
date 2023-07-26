@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 将电子邮件发布到Sales Insight {#publish-an-email-to-sales-insight}
 
-启用“发布到Sales Insight”设置，以便在Sales Insight以及Outlook和Gmail加载项中向您的销售团队发送电子邮件。 您还可以为其指定到期日期。
+启用“发布到Sales Insight”设置，使您的销售团队可以在Sales Insight以及Outlook和Gmail加载项中收到电子邮件。 您还可以为其指定到期日期。
 
-1. 找到您的电子邮件，选择它并单击 **编辑草稿**.
+1. 查找您的电子邮件，选择它并单击 **编辑草稿**.
 
    ![](assets/one.png)
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 要设置到期日期（可选），请选中 **设置过期** 并选择一个日期。
+1. 要设置到期日期（可选），请选中 **设置过期时间** 并选择一个日期。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >在过期日期的下午11:59 (CST) （如果您设置了一个），您提供的电子邮件将从Sales Insight及其任何加载项中消失。 当然，您仍然可以在Marketo中访问该区域。
+   >在过期日期晚上11:59 (CST) （如果您设置了），您提供的电子邮件将从Sales Insight及其任何加载项中消失。 当然，您仍然可以在Marketo中访问该站点。
 
 1. 单击 **保存**.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) 在Microsoft Dynamics或Salesforce上从Sales Insight发送电子邮件时无法解析；仅填充标准令牌（潜在客户、公司等）。 但是，令牌的默认值将起作用。
+>[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) 在Microsoft Dynamics或Salesforce上从Sales Insight发送电子邮件时无法解析；仅填充标准令牌（潜在客户、公司等）。 但是，令牌的默认值将有效。
 
 >[!TIP]
 >

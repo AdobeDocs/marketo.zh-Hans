@@ -6,14 +6,14 @@ exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 
 ---
 
 # 添加 [!DNL Webex] as a [!DNL LaunchPoint] 服务 {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage管理您的 [!DNL Webex] 网络研讨会注册和出席。
+Marketo Engage管理 [!DNL Webex] 网络研讨会注册和出席。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Marketo Engage管理您的 [!DNL Webex] 网络研讨会注册和出席。
 
 >[!NOTE]
 >
->现有订阅 [!DNL Webex] 和管理权限对于此步骤是必需的。 拥有以下设置：用户名、密码和站点名称。
+>现有订阅 [!DNL Webex] 和管理权限对于此步骤是必需的。 准备好以下设置：用户名、密码和站点名称。
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Marketo Engage管理您的 [!DNL Webex] 网络研讨会注册和出席。
 
    ![](assets/add-webex-as-a-launchpoint-service-2.png)
 
-1. 选择 **[!UICONTROL 新]** 然后 **[!UICONTROL 新服务]**.
+1. 选择 **[!UICONTROL 新建]** 然后 **[!UICONTROL 新建服务]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
@@ -61,4 +61,4 @@ Marketo Engage管理您的 [!DNL Webex] 网络研讨会注册和出席。
 
 >[!MORELIKETHIS]
 >
->了解如何 [创建事件，使用 [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
+>了解如何 [创建事件 [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.

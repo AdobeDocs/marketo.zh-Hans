@@ -15,4 +15,4 @@ ht-degree: 0%
 
 如果您未看到您对Salesforce的呼叫日志，则可能是因为我们在Salesforce中找不到潜在客户/联系人。
 
-对于要记录到正确的Lead/Contact的呼叫， Sales Connect需要具有Salesforce ID。 将Salesforce ID添加到Sales Connect的最佳方法是使用 [推送到Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md) 功能。 当您使用推送到Sales Connect时，我们会在联系人迁移中包含Salesforce ID。
+对于要记录到正确潜在客户/联系人的呼叫， Sales Connect需要具有Salesforce ID。 将Salesforce ID添加到Sales Connect的最佳方法是使用 [推送到Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md) 功能。 当您使用推送到Sales Connect时，我们会在联系人迁移中包含Salesforce ID。

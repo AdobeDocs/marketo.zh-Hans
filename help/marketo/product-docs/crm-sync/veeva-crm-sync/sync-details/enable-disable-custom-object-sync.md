@@ -52,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. 返回到Veeva选项卡并单击 **启用同步**.
+1. 返回Veeva选项卡并单击 **启用同步**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -60,9 +60,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->不能在带有触发器的智能营销活动中使用自定义对象。
+>您不能在带有触发器的智能营销活动中使用自定义对象。
 
-1. 在智能列表中，拖动到“Has Opportunity”筛选器上并将设置为 **True**.
+1. 在智能列表中，拖到“Has Opportunity”筛选器上，并将设置为 **True**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-太棒了！ 您现在可以在智能营销活动和智能列表中使用此自定义对象的数据。
+太棒了！ 现在，您可以在智能营销活动和智能列表中使用此自定义对象的数据。
 
 >[!MORELIKETHIS]
 >

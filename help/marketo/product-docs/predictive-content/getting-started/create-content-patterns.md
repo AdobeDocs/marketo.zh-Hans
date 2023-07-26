@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建内容模式 {#create-content-patterns}
 
-当您设置内容模式时，当Web访客单击与内容模式相关的HTML网页时，将自动发现内容。 用于将HTML页面（博客文章、新闻稿、新闻文章）作为内容片段添加到“所有内容”页面。 当自动发现基于内容模式时，它会在WebHTML查看或单击指向页面的链接时发现并跟踪与定义的URL模式相关的页面页面。 此内容片段（URL、页面名称和元数据，包括图像URL和描述）将添加到“所有内容”页面中，以准备预测内容。 要自动发现其他内容(如PDF和嵌入式视频)，您需要 [启用内容发现](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+当您设置内容模式时，当Web访客单击与内容模式相关的HTML网页时，将自动发现内容。 它用于将HTML页面（博客文章、新闻稿、新闻文章）作为内容片段添加到“所有内容”页面。 当自动发现基于内容模式时，它会在WebHTML查看或单击指向页面的链接时发现并跟踪与定义的URL模式相关的访客页面。 此内容片段（URL、页面名称和元数据，包括图像URL和描述）将添加到所有内容页面中，以准备预测内容。 要自动发现其他内容(如PDF和嵌入式视频)，您需要 [启用内容发现](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
 1. 转到 **内容设置**.
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >右侧下拉列表中的项目反映您在以下情况下设置的类别： [已创建类别](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >右侧下拉列表中的项目反映了您在执行以下操作时设置的类别： [已创建类别](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
 1. 单击 **+** 以添加其他路径。
 
    ![](assets/url-patterns-add2.png)
 
-1. 为其他路径添加扩展和类别，然后单击 **保存**.
+1. 添加其他路径的扩展和类别，然后单击 **保存**.
 
    ![](assets/url-patterns-save.png)
 
@@ -72,11 +72,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
-   <td><p>发现包含单词“datasheets：”的任何URL</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
+   <td><p>发现任何包含“数据表”一词的URL：</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
-   <td>新闻稿</td> 
-   <td><p>仅发现一个完全匹配HTML页：</p><p>domain.com/press-release</p></td> 
+   <td>新闻发布</td> 
+   <td><p>仅发现一个完全匹配的HTML页：</p><p>domain.com/press-release</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> </td> 

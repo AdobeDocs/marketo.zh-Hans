@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SEO — 了解 [!UICONTROL 关键字] {#seo-understanding-keywords}
 
-[!UICONTROL 关键字] 是SEO策略的支柱。 您的目标是放在第一个页面上，尽可能靠近#1查找与您的业务相关的关键词。
+[!UICONTROL 关键字] 是SEO战略的支柱。 您的目标是位于第一页，尽可能靠近#1与您的业务相关的关键词。
 
-此 [!UICONTROL 关键字] 部分将向您展示网站在达到此目标方面是多么成功，以及您如何栈叠到 [您的竞争对手](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+此 [!UICONTROL 关键字] 部分将向您展示网站在达到此目标方面是如何成功的，以及您如何栈叠 [您的竞争对手](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## [!UICONTROL 关键字]  — 摘要视图 {#keywords-summary-view}
 
@@ -35,11 +35,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><span class="uicontrol">排名和趋势</span></td> 
-   <td colspan="1" rowspan="1"><p>您网站对此关键字的排名。 箭头显示关键词排名在前一周的趋势变化 </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  =排名</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> =降级</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">=排名相同</p></td> 
+   <td colspan="1" rowspan="1"><p>您网站对此关键字的排名。 箭头显示关键词排名在前一周的变化趋势 </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  =排名</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> =降级</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">=排名相同</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><span class="uicontrol">竞争级别</span></td> 
-   <td colspan="1" rowspan="1">难以获得特定关键词的排名。 </td> 
+   <td colspan="1" rowspan="1">难以按特定关键词排名。 </td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><span class="uicontrol">每月搜索</span></td> 
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><span class="uicontrol">关键词短语的最高排名URL</span></td>
-   <td colspan="1" rowspan="1">，这是该关键字排名最高的URL。</td> 
+   <td colspan="1" rowspan="1">中的，它是关键词排名最高的URL。</td> 
   </tr> 
  </tbody> 
 </table>
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-太棒了！ 既然您了解了 [!UICONTROL 关键字] 部分，让我们了解页面和入站链接。
+太棒了！ 现在您已了解 [!UICONTROL 关键字] 部分，我们来了解页面和入站链接。
 
 >[!MORELIKETHIS]
 >

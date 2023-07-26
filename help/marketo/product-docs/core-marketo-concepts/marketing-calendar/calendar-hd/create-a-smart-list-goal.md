@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建智能列表目标 {#create-a-smart-list-goal}
 
-目标是指跟踪进度和激励团队的方法。 它们可以与智能列表结合使用，以跟踪Marketo中的各种内容。 此外，在您设置智能列表目标后，当它在演示文稿中使用时，它将每两小时自动更新一次。
+目标是跟踪进度和激励团队的方法。 它们可以与智能列表结合使用，以跟踪Marketo中的各种内容。 此外，在您设置智能列表目标后，当它在演示文稿中使用时，它将每2小时自动更新一次。
 
 与演示文稿一样，目标为 [工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. 单击 **[!UICONTROL Presentations]** 右下角。
+1. 单击 **[!UICONTROL Presentations]** 在右下角。
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
@@ -41,10 +41,10 @@ ht-degree: 0%
 
    ![](assets/mql.png)
 
-1. 设置完智能列表后，单击 **[!UICONTROL 关闭]** 按钮，然后返回到上一个选项卡。
+1. 设置完智能列表后，单击 **[!UICONTROL 关闭]** 按钮，然后返回上一选项卡。
 
    ![](assets/mql2.png)
 
-   看啊！ 已创建您的智能列表目标。
+   看那个！ 已创建您的智能列表目标。
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)

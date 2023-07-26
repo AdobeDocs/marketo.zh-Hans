@@ -1,5 +1,5 @@
 ---
-description: 对配置文件添加销售分析访问权限 — Marketo文档 — 产品文档
+description: 添加对用户档案的销售分析访问权限 — Marketo文档 — 产品文档
 title: 添加对用户档案的销售分析访问权限
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
@@ -12,21 +12,21 @@ ht-degree: 0%
 
 # 添加对用户档案的销售分析访问权限 {#add-sales-insight-access-to-profiles}
 
-下面是如何创建有权访问Sales Insight的用户档案，同时删除其他用户档案的访问权限。 这适用于已经安装了 [Sales InsightAppExchange包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+下面是如何创建有权访问Sales Insight的用户档案，同时删除对其他用户档案的访问权限。 这适用于已经安装了 [Sales InsightAppExchange包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
 >如果您以前授予了所有用户档案的销售分析访问权限，则您必须 [删除配置文件级别访问权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} 以使用此权限集。
 
-## 为Sales Insight创建新的配置文件 {#create-a-new-profile-for-sales-insight}
+## 为Sales Insight创建新配置文件 {#create-a-new-profile-for-sales-insight}
 
-如果您有专门的Sales Insight用户档案，则可以跳过此步骤。
+如果您有专门针对Sales Insight用户的用户档案，则可以跳过此步骤。
 
 1. 在Salesforce中，转到“设置”页面。
 
 1. 在快速查找中搜索用户档案并选择 **个人资料** 选项。
 
-1. 单击 **新建配置文件** 按钮进行修改。
+1. 单击 **新建配置文件** 按钮进行标记。
 
 1. 选取要克隆的配置文件并为其命名（例如： Sales Insight User）。
 
@@ -36,25 +36,25 @@ ht-degree: 0%
 
 1. 返回您的“配置文件”列表。
 
-1. 单击 **编辑** 您刚刚创建的新用户档案的链接（或者您希望授予Sales Insight访问权限的任何其他现有用户档案的链接）。
+1. 单击 **编辑** 刚刚创建的新资料（或您希望授予Sales Insight访问权限的任何其他现有资料）的链接。
 
 1. 在编辑页面上，您需要更改一些设置。
 
    **对于允许访问销售分析的用户档案**：
 
    * 在选项卡设置中，将Marketo选项卡更改为默认开启
-   * 在“自定义对象权限”中，选中Marketo Sales Insight Config上的读取、创建、编辑和删除（如果用户应有权访问配置设置 — 通常用于管理员）
+   * 在“自定义对象权限”中，选中Marketo Sales Insight Config上的“读取”、“创建”、“编辑”和“删除”（如果用户应有权访问配置设置，通常用于管理员）
 
    **对于不允许访问销售分析的用户档案**：
 
-   * 在选项卡设置中，将Marketo选项卡更改为隐藏选项卡
-   * 在“自定义对象权限”中，取消选中Marketo Sales Insight Config中的“读取”、“创建”、“编辑”和“删除”
+   * 在选项卡设置中，将Marketo选项卡更改为选项卡隐藏
+   * 在“自定义对象权限”中，取消选中“Marketo销售分析配置”中的“读取”、“创建”、“编辑”和“删除”
 
 1. 单击 **保存** 完成时。
 
-## 为销售分析创建布局 {#create-layout-for-sales-insight}
+## 创建销售分析布局 {#create-layout-for-sales-insight}
 
-1. 转到“设置”页面，然后单击 **应用程序设置** > **自定义** > **潜在客户** > **页面布局**. 然后单击 **新** 按钮。
+1. 转到“设置”页面，然后单击 **应用程序设置** > **自定义** > **潜在客户** > **页面布局**. 然后单击 **新建** 按钮。
 
 1. 克隆您选择的布局，并为该布局提供一个适当的名称（例如： Sales Insight Layout ）。
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 
 ## 其他更改 {#other-changes}
 
-下面是其他可能会显示销售分析项目的位置。 由于无法使用用户档案限制其访问，因此您必须直接删除这些用户档案：
+下面是其他可能会显示销售分析项目的位置。 您将必须彻底删除它们，因为无法使用配置文件限制其访问权限：
 
-* 从“搜索布局”中删除“销售分析”按钮，以查找联系人、潜在客户和客户
+* 从“搜索布局”中删除“销售分析”按钮，以查找联系人、潜在客户和帐户
 * 从联系人和潜在客户列表中删除Sales Insight列

@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 高级程序报告概述 {#advanced-program-reporting-overview}
 
-**Revenue Cycle Explorer** 包括几个分析领域和一系列让您能够衡量计划成效的新指标。
+**Revenue Cycle Explorer** 包括几个分析领域和多种新指标，可让您衡量项目有效性。
 
 ![](assets/rev.png)
 
-这里有很多小东西。 我们来看看吧！
+这里有很多好东西。 我们来看看吧！
 
 ![](assets/image2015-4-30-10-3a15-3a17.png)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
 ## 程序分析器 {#program-analyzers}
 
-* **程序分析器**  — 快速识别是否成功的计划，并适当集中您的资源。
+* **程序分析器**  — 快速确定成功或不成功的计划，并适当集中您的资源。
 
-* **机会影响分析器**  — 通过衡量产生机会的项目和关键参与的影响，证明营销的贡献。
+* **机会影响分析器**  — 通过衡量产生机会的项目和关键参与产生的影响，证明营销的贡献。
 
 ## 报表选项 {#report-options}
 
@@ -49,10 +49,10 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->虽然您可以选择显示行/列，其中度量单元格保留为空（第一个复选框），但我们建议不要这样做，因为这样可能会减慢处理速度，甚至可能使报表超时。
+>虽然您可以选择显示测量单元格留空的行/列（第一个复选框），但我们建议不要执行此操作，因为这样做可能会减慢处理速度，甚至可能使报表超时。
 
 >[!NOTE]
 >
->Revenue Cycle Explorer中的数据每晚都会从您的Marketo实例中更新。 因此，您在Marketo中的人员和帐户活动中的任何更改都将在Revenue Cycle Explorer中反映在下一个营业日。
+>Revenue Cycle Explorer中的数据每晚都会从您的Marketo实例中进行更新。 因此，您在Marketo中人员和帐户活动发生的任何更改都将反映在Revenue Cycle Explorer的下一个工作日中。
 
-熟悉Revenue Analytics将使您全面了解您的项目及其影响。
+熟悉Revenue Analytics将使您充分了解您的项目及其影响。

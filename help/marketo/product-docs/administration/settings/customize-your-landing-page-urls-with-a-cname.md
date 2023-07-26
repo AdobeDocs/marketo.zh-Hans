@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-让我们设置你！
+让我们为您做好准备！
 
 1. 选择一个CNAME。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    * **信息**.YourCompany.com/NameOfPage.html
    * **页面**.YourCompany.com/NameOfPage.html
 
-   一个单词(加上YourCompany.com)称为CNAME。 稍后您将需要此项，因此请记下它。
+   一个字(加上YourCompany.com)称为CNAME。 您稍后将需要此项，因此请记下它。
 
 1. 查找您的帐户字符串。
 
@@ -55,17 +55,17 @@ ht-degree: 0%
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
-1. 您稍后也将需要此项，因此请记下它。
+1. 您稍后也将需要它，因此请记下它。
 
-1. 向IT部门发送请求。
+1. 向IT发送请求。
 
-1. 要求您的IT员工设置以下CNAME(将 [CNAME] 和 [帐户字符串] （使用上一步中的文本）：
+1. 要求您的IT员工设置以下CNAME(将 [CNAME] 和 [帐户字符串] （其中包含上一步中的文本）：
 
    [CNAME].YourCompany.com > [帐户字符串].mktoweb.com
 
 1. 完成CNAME设置。
 
-1. 在您的IT部门创建CNAME后，返回到 **[!UICONTROL 管理员]** 区域。
+1. 在IT部门创建CNAME后，返回至 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
@@ -81,6 +81,6 @@ ht-degree: 0%
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
-如果您的Marketo登陆页面不可用，则会在您的后备页面中重定向用户。
+如果您的Marketo登陆页面不可用，则您的回退页是将用户重定向到的页面。
 
 做得好！ 您的登陆页面现在使用您的公司域进行标记。

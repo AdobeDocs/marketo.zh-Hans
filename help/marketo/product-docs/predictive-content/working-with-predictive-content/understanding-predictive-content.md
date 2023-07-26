@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 了解预测内容 {#understanding-predictive-content}
 
-在您之后 [批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)，您在此处处理。 “预测内容”页面会显示您已批准用于预测内容的所有标题。
+在您之后 [批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)，您在此处处理它。 “预测内容”页显示您已批准用于预测内容的所有标题。
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -26,29 +26,29 @@ ht-degree: 0%
 * **转化率**：由直接转化除以点击量计算的百分比。 将鼠标悬停在上面可查看其他数据（请参阅下文）
 * **辅助转化**：在上次访问中单击了推荐内容并在稍后完成表单的访客
 
-## 筛选内容 {#filtering-content}
+## 过滤内容 {#filtering-content}
 
 **类别**
 
-您可以按已创建的类别筛选内容。 单击过滤器图标，然后在 **类别**&#x200B;中，选择一个或多个内容类别。
+您可以按已创建的类别过滤内容。 单击过滤器图标，然后在 **类别**，选择一个或多个内容类别。
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
 **启用的源**
 
-按每种类型的已启用内容进行筛选：电子邮件、富媒体、推荐栏。
+按每种启用的内容类型进行筛选：电子邮件、富媒体、推荐栏。
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
 **按源分析**
 
-通过筛选启用的内容分析，您可以查看每个源的执行情况。
+通过过滤启用的内容分析，您可以查看每个源的执行情况。
 
 ![](assets/image2017-10-3-9-3a25-3a34.png)
 
 ## 按日期显示Analytics {#display-analytics-by-date}
 
-1. 选择右侧的开始日期和结束日期（如图所示）。 单击 **应用**.
+1. 选择右侧的开始日期和结束日期（如所示）。 单击 **应用**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
@@ -68,6 +68,6 @@ ht-degree: 0%
 >
 >**转化率**：由直接转化除以点击量计算的百分比
 >
->**直接转化**：在同一次访问中点击推荐内容并完成表单的访客
+>**直接转换**：在同一次访问中点击推荐内容并完成表单的访客
 >
 >**已单击**：推荐内容的总点击次数（包括所有三个源）

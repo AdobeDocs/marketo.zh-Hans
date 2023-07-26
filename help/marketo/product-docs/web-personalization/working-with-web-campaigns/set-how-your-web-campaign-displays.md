@@ -6,7 +6,7 @@ exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 页面加载 {#page-load}
 
-默认情况下，选中此选项后会在页面加载时仅显示营销活动。
+默认情况下，此选择仅在页面加载时显示营销活动。
 
 ![](assets/pl1.png)
 
 ## 延迟 {#delay}
 
-指定Web营销活动在您的网站上做出反应的时间延迟（以总秒为单位）。
+为Web营销活动指定在您的网站上做出反应的时间延迟（以总秒为单位）。
 
-1. 单击 **显示于** 下拉菜单并选择 **延迟**.
+1. 单击 **显示于** 下拉并选择 **延迟**.
 
    ![](assets/d1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 滚动 {#scroll}
 
-1. 单击 **显示于** 下拉菜单并选择 **滚动**.
+1. 单击 **显示于** 下拉并选择 **滚动**.
 
    ![](assets/s1.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>百分比</strong></td> 
-   <td>当访客滚动到页面的预定百分比时显示营销活动。</td> 
+   <td>在访客滚动到页面的预定百分比时显示促销活动。</td> 
   </tr> 
   <tr> 
    <td><strong>像素</strong></td> 
-   <td><p>当访客滚动到页面上预先指定的顶部像素时显示促销活动。</p></td> 
+   <td><p>当访客滚动到页面上预先指定的顶级像素时显示促销活动。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,14 +64,14 @@ ht-degree: 0%
 
 退出意图将在鼠标光标退出浏览器时显示Web营销活动。
 
-1. 单击 **显示于** 下拉菜单并选择 **退出意图**.
+1. 单击 **显示于** 下拉并选择 **退出意图**.
 
    ![](assets/ei1.png)
 
-1. 出现一条消息，提醒您退出意图与移动设备不兼容。
+1. 此时将显示一条消息，提醒您退出意图与移动设备不兼容。
 
    ![](assets/ei2.png)
 
 >[!TIP]
 >
->想看看你选择的效果未来会怎样？ 通过 [Web营销活动预览](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>想看看你选择的效果将来会怎样？ 通过 [Web营销活动预览](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

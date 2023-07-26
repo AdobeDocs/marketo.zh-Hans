@@ -15,4 +15,4 @@ ht-degree: 0%
 
 我们实际上是在Gmail中使用您的Gmail签名，而不是插入您的 [Sales Connect签名](https://toutapp.com/next#settings).
 
-您可以在Gmail中编辑签名 [此处](https://mail.google.com/mail/u/0/#settings/general).
+您可以在Gmail中编辑您的签名 [此处](https://mail.google.com/mail/u/0/#settings/general).

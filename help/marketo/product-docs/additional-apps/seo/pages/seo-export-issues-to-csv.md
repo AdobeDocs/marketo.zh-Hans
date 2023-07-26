@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 将问题导出到CSV {#seo-export-issues-to-csv}
 
-您可以导出 [页面问题](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) Marketo将数据共享到CSV文件。 下面是具体操作方法。
+您可以导出 [页面问题](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) Marketo将数据共享到CSV文件。 具体方法如下。
 
 1. 转到 **[!UICONTROL 页面]** 部分。
 
