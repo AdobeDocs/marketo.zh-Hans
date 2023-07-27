@@ -4,9 +4,9 @@ description: 了解Marketo时刻 — Marketo文档 — 产品文档
 title: 了解Marketo时刻
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,13 @@ ht-degree: 0%
 
 Marketo的力量现在掌握在你的手中，真的！ 直接从您的手机或iPad预览和重新计划电子邮件。
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >需要访问“移动设备应用程序”权限。 联系Marketo管理员以 [更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
+>[!AVAILABILITY]
+>
+>此应用程序与不兼容 [Adobe身份验证](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此时。
 
 ## 流 {#streams}
 

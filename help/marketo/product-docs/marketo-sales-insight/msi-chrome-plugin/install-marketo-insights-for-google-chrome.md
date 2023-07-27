@@ -4,26 +4,26 @@ description: 安装Marketo Insights for Google Chrome - Marketo文档 — 产品
 title: 安装Marketo Insights for Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
 # 安装Marketo Insights for Google Chrome {#install-marketo-insights-for-google-chrome}
 
-按照以下步骤开始使用功能强大的Chrome插件。
+按照以下步骤开始使用功能强大的Chrome插件。 您无需成为Marketo管理员即可安装该扩展。
 
 >[!NOTE]
 >
 >Sales Insight Actions功能（包括“发送销售电子邮件”、“添加到Sales Campaign”和“任务”）在Gmail和Outlook的Sales Insight电子邮件插件中不可用。 目前，在使用Sales Insight电子邮件插件时，用户只能从其电子邮件客户端发送可跟踪电子邮件，无论是否包含Marketo电子邮件模板。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->您无需成为Marketo管理员即可安装该扩展。
+>此扩展与不兼容 [Adobe身份验证](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此时。
 
-1. 安装 [Marketo Insights for Google Chrome插件扩展](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) 从Chrome网上商店。
+1. 安装 [Marketo Insights for Google Chrome插件扩展](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} 从Chrome网上商店。
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >注册代码将在Marketo管理员发送后的电子邮件中 [向您颁发Marketo电子邮件加载项许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14天后过期**.
+   >注册代码将在Marketo管理员发送后的电子邮件中 [向您颁发Marketo电子邮件加载项许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **14天后过期**.
 
 1. 单击 **允许** 允许脱机访问。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[使用Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[使用Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md){target="_blank"}
