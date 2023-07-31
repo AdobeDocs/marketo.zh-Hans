@@ -4,7 +4,7 @@ title: 参与度图概述
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 参与度图概述 {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->此功能当前适用于Smart Campaigns。 它不适用于“程序”。
-
 参与度图允许您借助直观的可视化图表构建可重复使用的Smart Campaigns 。 它提供了与所有现有Marketo Engage智能营销活动的完全向后兼容性，并且不会丢失任何当前功能。
+
+>[!NOTE]
+>
+>参与度映射当前在Smart Campaigns中可用。 它在“程序”中不可用。
 
 ![](assets/engagement-map-overview-1.png)
 
