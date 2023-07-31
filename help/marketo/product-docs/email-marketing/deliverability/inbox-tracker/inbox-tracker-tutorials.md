@@ -1,23 +1,21 @@
 ---
 description: 收件箱跟踪器Tutorials- Marketo文档 — 产品文档
 title: 收件箱跟踪器Tutorials
-hide: true
-hidefromtoc: true
 feature: Deliverability
-source-git-commit: 95eb2ddf7ecb94a930c59cad57f39d45465bb9c2
+source-git-commit: 1f55f6ae17f4c5a059a7e937f9c115a79514e8db
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # 收件箱跟踪器Tutorials {#inbox-tracker-tutorials.md}
 
-MessageBird的收件箱跟踪器是一个功能强大的第三方工具……
+测试、监控和了解由MessageBird的收件箱跟踪器平台提供支持的Marketo电子邮件投放能力Powerpack的投放能力问题。 收件箱跟踪器是一个应用程序，它将项目的智能与电子邮件渲染/收件箱测试的预见性相结合，以最大限度地提高电子邮件的性能。
 
-MessageBird已创建了多个培训视频来帮助您在平台上导航。
+![](assets/inbox-tracker-tutorials-1.png)
 
-屏幕快照
+MessageBird已创建了多个培训视频来帮助您充分利用这个强大的工具。
 
 ## 收件箱跟踪器概述 {#inbox-tracker-overview}
 
@@ -28,6 +26,8 @@ MessageBird已创建了多个培训视频来帮助您在平台上导航。
 [已智能（配置和下载）](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## “收件箱跟踪器可投放性”部分 {#inbox-tracker-deliverability-section}
+
+![](assets/inbox-tracker-tutorials-2.png)
 
 [功能板概述](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
@@ -62,5 +62,7 @@ MessageBird已创建了多个培训视频来帮助您在平台上导航。
 [Google Postmaster工具](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## 设计跟踪器 {#design-tracker}
+
+![](assets/inbox-tracker-tutorials-3.png)
 
 [设计跟踪器](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
