@@ -3,7 +3,7 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 2%
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 </br>
 
-* **参与图**：参与度图是一种可视化工具，可用于构建和组织可重复使用的营销活动。 它完全向后兼容，因此通过单击按钮，即可在此新结构中查看所有现有营销策划。 可以下载和共享画布。
+* **参与图**：参与度图是一种可视化工具，可用于构建和组织可重复使用的营销活动。 它完全向后兼容，因此通过单击按钮，即可在此新结构中查看所有现有营销策划。 可以下载和共享地图。
 
 <table> 
   <tr> 

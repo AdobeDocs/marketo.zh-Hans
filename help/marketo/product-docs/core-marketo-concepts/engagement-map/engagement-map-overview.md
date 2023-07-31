@@ -4,9 +4,9 @@ title: 参与度图概述
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 参与度图允许您借助直观的可视化图表构建可重复使用的Smart Campaigns 。 它提供了与所有现有Marketo Engage智能营销活动的完全向后兼容性，并且不会丢失任何当前功能。
 
-屏幕快照
+![](assets/engagement-map-overview-1.png)
 
 ## 访问参与图 {#accessing-engagement-map}
 
 导航到任何现有营销策划，然后单击 **参与图** 按钮。
 
-屏幕快照
+![](assets/engagement-map-overview-2.png)
 
 在参与度图中，您将看到两个选项卡： [参与图](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-屏幕快照
+![](assets/engagement-map-overview-3.png)
 
 ## 信息卡描述 {#card-descriptions}
 
@@ -51,11 +51,7 @@ ht-degree: 0%
 
 ## 顶部导航 {#top-navigation}
 
-屏幕快照
-
 顶部导航包含以下功能：
-
-!!!!! 屏幕截屏已过时 — 获取新屏幕截屏
 
 * 营销活动名称以及对“编辑营销活动”模式访问权限，您可以在此处编辑营销活动名称和描述。
 

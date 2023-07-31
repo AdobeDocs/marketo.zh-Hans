@@ -4,9 +4,9 @@ title: “设置”选项卡
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -63,8 +63,6 @@ ht-degree: 1%
 >[!NOTE]
 >
 >如果单击帮助图标后您看到“需要其他权限”，请联系您的Marketo管理员。
-
-冗余，如上所述，我们可以删除 — >如果用户无权编辑营销活动设置，他们也将无权取消任何计划的运行。
 
 ![](assets/settings-tab-5.png)
 

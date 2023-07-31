@@ -4,9 +4,9 @@ title: “参与图”选项卡
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ ht-degree: 0%
 * 一个或多个过滤器中的约束（或缺少约束）出错
 
   ![](assets/engagement-map-tab-20.png)
-
-不输入值（属性）不会导致错误，它将继续运行，就像在“流”选项卡中一样。 因此，不会中断现有的营销活动。 但是，当流程步骤不包含任何属性时，这些属性将显示为警告。
-
-我们是^^^真的需要它，客户不会看到警告???
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >
