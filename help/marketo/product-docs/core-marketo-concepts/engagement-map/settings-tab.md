@@ -1,10 +1,8 @@
 ---
 description: 设置选项卡 — Marketo文档 — 产品文档
 title: “设置”选项卡
-hide: true
-hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -45,7 +43,7 @@ ht-degree: 1%
 
 ![](assets/settings-tab-4.png)
 
-设置选项卡还包括智能列表的简要概述。 包括以下内容：
+设置选项卡还包括您的Smart Campaign的简要概述。 包括以下内容：
 
 * 营销活动状态
 * 创建日期
