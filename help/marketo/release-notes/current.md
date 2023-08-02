@@ -3,7 +3,7 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 2%
@@ -32,8 +32,8 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md">参与度图概述</a></td>
   </tr>
   </tbody>
 </table>

@@ -3,10 +3,10 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 16%
+source-wordcount: '804'
+ht-degree: 7%
 
 ---
 
@@ -119,8 +119,8 @@ ht-degree: 16%
   </tr> 
   <tr> 
    <td>Smart Campaign设置</td> 
-   <td><li>是否存在限制？ 贵企业是否有可能需要通信限制的政策？</li>
-<li>Adobe建议在阻止非运营电子邮件的情况下，将通信限制为每天1次，每7天3次。</li></td>
+   <td><li>您是否对Smart Campaign的大小有限制？</li>
+<li>如果不能，请考虑添加一个。 我们建议将智能营销活动限制为数据库的25%，以避免在工作流程中过度通信或处理整个数据库，这不仅会保护您的品牌，还有助于保护实例的性能。</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -136,18 +136,9 @@ ht-degree: 16%
    <th>列3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>通信限制</td> 
+   <td><li>是否存在限制？ 贵企业是否有可能需要通信限制的政策？</li>
+<li>Adobe建议将通信限制为每天1次，每7天3次，并阻止非操作电子邮件。</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,18 +154,24 @@ ht-degree: 16%
    <th>列3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>标记</td> 
+   <td><li>有多少个标记？ 正在使用多少个标记？ 是否需要添加任何内容？</li>
+<li>您的项目中是否需要标记？</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>渠道</td> 
+   <td><li>有多少个渠道？ 有多少项正在使用？</li>
+<li>是否所有渠道计划状态都合适？ 它们是否在计划中显示进度？</li>
+<li>您的渠道是否与特定项目类型相关？</li>
+<li>哪些状态被视为每个渠道的成功？ 这些是否符合您的营销目标？</li>
+<li>是否正确使用了操作渠道？</li>
+<li>对于高级Report Builder(Revenue Cycle Explorer\RCE)，您的渠道分析行为是否设置为与纳入期间成本的计划实践保持一致？</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>营销日历（如果适用）</td> 
+   <td><li>有多少种日历条目类型？ 它们仍然相关吗？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,18 +187,27 @@ ht-degree: 16%
    <th>列3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>字段管理</td> 
+   <td><li>有多少田？ 单击“导出字段名称”可查看您的字段、自定义字段及其API名称的列表。</li>
+<li>有多少自定义字段？</li>
+<li>使用了多少字段？ 在字段操作下拉列表中选择“导出使用者”，以查看字段的相关资源。</li>
+<li>Marketo Engage与您的CRM之间同步了多少次？</li>
+<li>CRM字段是否已同步到相应的对象？</li>
+<li>是否为人员详细信息设置了自定义视图？ 应该有吗？</li>
+<li>您的字段是否具有基于源的命名约定？ 如果不能，请考虑实施此操作。</li>
+<li>是否存在阻止的字段？ 一定要明白为什么会这样。</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>自定义活动</td> 
+   <td><li>是否有任何自定义活动？</li>
+<li>如果是这样的话，请单击它们以了解哪些活动与Marketo表单、电子邮件或登陆页面无关。</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>自定义对象</td> 
+   <td><li>有多少自定义对象？ 它们如何同步到您的CRM？</li>
+<li>您的程序和列表查询如何使用这些自定义对象？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -229,6 +235,19 @@ ht-degree: 16%
   <tr> 
    <td>1</td> 
    <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>1</td> 
+   <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Marketo Sales Insight （如果适用）</td> 
+   <td><li>是否已安装MSI软件包？</li>
+<li>您是否已升级到最新版本的Sales Insight？</li>
+<li>您是否已完成Sales Insight配置？</li>
+<li>您是否根据已购买的名额授予了用户访问权限？</li></td>
    <td>3</td>
   </tr>
  </tbody> 

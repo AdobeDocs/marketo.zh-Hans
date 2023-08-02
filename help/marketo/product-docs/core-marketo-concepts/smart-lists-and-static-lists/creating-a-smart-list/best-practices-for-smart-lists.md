@@ -4,9 +4,9 @@ description: 智能列表最佳实践 — Marketo文档 — 产品文档
 title: 智能列表的最佳实践
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Marketo可以通过多种方式使用，某些技术更适合您和您的业务。 考虑 [Marketo专业服务](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} 让你的投资光彩照人。
+>Marketo Engage可以用多种方式使用，某些技术更适合您和您的业务。 如果您希望得到帮助，以充分利用您的投资，请联系您的Adobe Professional Services销售代表。
