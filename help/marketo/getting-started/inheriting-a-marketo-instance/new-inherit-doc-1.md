@@ -3,18 +3,20 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 6%
+source-wordcount: '1140'
+ht-degree: 3%
 
 ---
 
 # 继承文档1 {#inherit-doc-1}
 
-对继承的实例进行审计可能看起来像是
+审核继承的实例可能类似于……
 
-您是否从其他管理员继承了现有Marketo Engage实例？ 如果是这样的话，这篇文章是为您准备的。
+您是否从其他管理员继承了现有Marketo Engage实例？ 如果是这样的话，这篇文章是为您准备的……
+
+以下清单已与Marketo Champions的输入相结合，可帮助您在继承实例中快速入门……
 
 >[!TIP]
 >
@@ -37,7 +39,7 @@ ht-degree: 6%
 <li>有多少用户具有管理员权限？</li>
 <li>这些用户中的任何一个是否应更改为其他角色？</li> 
 <li>此实例中的API用户是谁？</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>角色</td> 
@@ -47,19 +49,19 @@ ht-degree: 6%
 <li>用户登录的频率如何？</li>
 <li>每个API用户是否都有自己的用户角色？ 如果不能，请考虑实施此操作以更轻松地排除故障。</li> 
 <li>您的用户角色和权限是否与公司数据隐私政策一致？</li></td>
-   <td>3.2</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>内部文档</td> 
    <td><li>您的组织中是否明确定义了用户和角色？</li>
 <li>您添加新用户/管理员的流程是什么？</li></td>
-   <td>3.3</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>沙盒（如果适用）</td> 
    <td><li>您是否有沙盒实例？ 如果是这样的话，请查看上面针对沙盒的类别。</li>
 <li>项目导入是否与您的沙盒关联？</li></td>
-   <td>3.4</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -76,7 +78,7 @@ ht-degree: 6%
   <tr> 
    <td>审核记录</td> 
    <td><li>谁在实例中工作？</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -230,18 +232,29 @@ ht-degree: 6%
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>登陆页面</td> 
+   <td><li>域设置为什么？</li>
+<li>回退集是什么？</li>
+<li>主页设置为什么？</li>
+<li>是否启用表单预填充？</li>
+<li>是否启用了个性化URL？</li>
+<li>是否为重定向设置了规则？</li>
+<li>您是否已设置域别名？ 您是否正在跟踪如何使用您的域别名的文档？</li>
+<li>是否启用了登陆页面的安全域？ 确认登陆页面资产是否包含“http”URL。</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>蒙奇金</td> 
+   <td><li>您的Munchkin跟踪代码是否在您的网站上(不在Marketo中)？</li>
+<li>是否启用“Do Not Track”浏览器请求？</li>
+<li>您的Munchkin API是否已配置？ 如果您缺少有关munchkin代码在您的网站上的位置的文档，请使用基本“Analytics”中的“Web分析报表”开始快速查看，以了解Munchkin代码在您的网站中的放置位置。</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Web服务</td> 
+   <td><li>是否启用IP限制？ 他们应该这样做吗？</li>
+<li>哪些用户/应用程序正在您的实例中进行API调用？</li>
+<li>您是否达到或接近达到API限制？ 如果是这样的话，请考虑增加调用次数或审核您的实例，以停止这些API调用。</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -265,18 +278,15 @@ ht-degree: 6%
    <th>列3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>宝箱</td> 
+   <td><li>宝藏箱里有什么？</li>
+<li>是否应该打开或关闭某些功能？</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>活动检查器</td> 
+   <td><li>是否启用了活动检查器？</li>
+<li>如果不能，请考虑将其打开以轻松识别哪些营销活动处于活动状态、与您的CRM同步，以及/或删除记录。</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -292,18 +302,24 @@ ht-degree: 6%
    <th>列3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Marketo Engage状态更新</td> 
+   <td><li>您的实例是否已注册Marketo Engage状态更新？</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>授权联系人</td> 
+   <td><li>您在支持门户中设置了相应的授权联系人吗？</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>警报</td> 
+   <td><li>是否有任何活动警报从Marketo Engage发送到内部团队？</li>
+<li>如果是，这些警报是否正常运行？</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>通知</td> 
+   <td><li>您订阅了相应的管理员通知吗？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
