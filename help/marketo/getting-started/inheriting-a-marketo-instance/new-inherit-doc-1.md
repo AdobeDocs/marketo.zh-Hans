@@ -3,10 +3,10 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 7%
+source-wordcount: '851'
+ht-degree: 6%
 
 ---
 
@@ -223,8 +223,10 @@ ht-degree: 7%
    <th>列3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>CRM</td> 
+   <td><li>您正在同步到哪个CRM？ Salesforce? MS Dynamics？ 维耶娃？</li>
+<li>是自定义同步还是双向同步？ （KG：修复语法并检查重要性）</li>
+<li>[仅限Salesforce]您的实例是否实施了自定义同步过滤器？ 请联系Marketo支持以确定自定义同步筛选器或请求实施自定义同步规则。</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -244,10 +246,10 @@ ht-degree: 7%
   </tr>
   <tr> 
    <td>Marketo Sales Insight （如果适用）</td> 
-   <td><li>是否已安装MSI软件包？</li>
-<li>您是否已升级到最新版本的Sales Insight？</li>
+   <td><li>具有 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">已安装MSI包</a>？</li>
+<li>您是否拥有 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">已升级到最新版本的Sales Insight</a>？</li>
 <li>您是否已完成Sales Insight配置？</li>
-<li>您是否根据已购买的名额授予了用户访问权限？</li></td>
+<li>您是否拥有 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">授予您的用户访问权限</a> 根据你买的座位数？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
