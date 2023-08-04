@@ -3,9 +3,9 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1220'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 ## 用户和角色 {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>区域</th> 
@@ -33,22 +33,22 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>用户</td> 
-   <td><li>有多少用户？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">用户数量</a> 有吗？</li>
 <li>是否有任何应过期的用户？</li>
 <li>贵公司是否有删除用户的相关政策？</li> 
-<li>有多少用户具有管理员权限？</li>
-<li>这些用户中的任何一个是否应更改为其他角色？</li> 
+<li>有多少用户 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">管理员权限</a>？</li>
+<li>如果这些用户中的任何一个更改为 <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">其他角色？</a></li> 
 <li>此实例中的API用户是谁？</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>角色</td> 
    <td><li>有多少角色？</li>  
-<li>每个角色具有哪些权限/访问权限？ 是否应对任何内容进行调整？</li>
+<li>什么 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">权限/访问</a> 每个角色都有吗？ 是否应对任何内容进行调整？</li>
 <li>每个角色有多少用户？</li>
-<li>用户登录的频率如何？</li>
-<li>每个API用户是否都有自己的用户角色？ 如果不能，请考虑实施此操作以更轻松地排除故障。</li> 
-<li>您的用户角色和权限是否与公司数据隐私政策一致？</li></td>
+<li>用户的频率 <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">登录</a>？</li>
+<li>每个API用户是否都有 <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">自己的用户角色</a>？ 如果不能，请考虑实施此操作以更轻松地排除故障。</li> 
+<li>您的用户角色和权限是否与公司数据保持一致 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">隐私政策</a>？</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>沙盒（如果适用）</td> 
-   <td><li>您是否有沙盒实例？ 如果是这样的话，请查看上面针对沙盒的类别。</li>
-<li>项目导入是否与您的沙盒关联？</li></td>
+   <td><li>您是否拥有 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">沙盒实例</a>？ 如果是这样的话，请查看上面针对沙盒的类别。</li>
+<li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">项目导入</a> 与您的沙盒相关联？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>审核记录</td> 
-   <td><li>谁在实例中工作？</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">谁在工作</a> 在实例中？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ ht-degree: 3%
 <li>您是否拥有 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">已升级到最新版本的Sales Insight</a>？</li>
 <li>您是否已完成Sales Insight配置？ 企业/无限用户 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">单击此处</a>，专业用户 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">单击此处</a>.</li>
 <li>您是否拥有 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">授予您的用户访问权限</a> 根据你买的座位数？</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>启动点（如果适用）</td> 
+   <td><li>您已配置哪些服务（网络研讨会、广告等）？ 是否有任何产品即将到期？</li>
+<li>您的集成使用多少个API调用？</li>
+<li>您是否针对用例实施了正确的集成？</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhook（如果适用）</td> 
+   <td><li>您设置了哪些连接？</li>
+<li>是否不再使用任何内容？</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>移动设备应用程序（如果适用）</td> 
+   <td><li>您拥有哪些移动设备应用程序？</li>
+<li>添加了哪些测试设备？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
