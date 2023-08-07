@@ -4,9 +4,9 @@ title: 最新发行说明临时
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '929'
 ht-degree: 2%
 
 ---
@@ -313,7 +313,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **触发新活动的令牌**：新的触发器令牌，用于支持Dynamic Chat的新活动。
+* **触发新活动的令牌**：提供新的触发器令牌以支持新的Dynamic Chat活动。
 
 <table> 
   <tr> 

@@ -4,9 +4,9 @@ description: 添加Marketo自定义对象链接字段 — Marketo文档 — 产�
 title: 添加Marketo自定义对象链接字段
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 
 * 对于一对多自定义结构，使用自定义对象中的链接字段将其连接到人员或公司。
 * 对于多对多结构，使用两个链接字段，它们通过单独创建的中间对象（也是一种自定义对象）连接。 一个链接连接到数据库中的人员或公司，另一个链接连接到自定义对象。 在这种情况下，链接字段不在自定义对象本身中。
+
+>[!IMPORTANT]
+>
+>在多对多关系中，Marketo Engage仅支持每个桥接对象的单个边缘对象。 在下面给出的示例中，每个注册只能链接到单门课程。 但是，每个Edge对象可以有许多桥接对象，就像每个课程都有许多学生注册一样（多对一关系）。 如果您对自定义对象数据进行结构化处理，以便每个Bridge对象记录（一对多或多对多）具有多个Edge对象记录，则可以创建多个Bridge对象记录，每个记录引用单个Edge对象记录以在Marketo中表示该数据。
 
 ## 为一对多结构创建链接字段 {#create-a-link-field-for-a-one-to-many-structure}
 
