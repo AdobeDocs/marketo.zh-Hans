@@ -3,9 +3,9 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1225'
 ht-degree: 3%
 
 ---
@@ -94,11 +94,11 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>工作区和分区</td> 
-   <td><li>您有多少工作区和/或分区？</li>
+   <td><li>数量 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">工作区和/或分区</a> 您有吗？</li>
 <li>每个工作区和分区的主要用途是什么？</li>
-<li>它们是否需要审核或更改？</li>
+<li>执行以下任一操作 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">工作区</a> 或 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">分区</a> 需要审核/更改？</li>
 <li>工作区和分区之间的关系是什么？</li>
-<li>每个工作区有多少用户具有访问权限？</li></td>
+<li>用户数量 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">具有访问权限</a> 每个工作区？</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -121,7 +121,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>Smart Campaign设置</td> 
-   <td><li>您是否对Smart Campaign的大小有限制？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">您是否有限制</a> Smart Campaign规模？</li>
 <li>如果不能，请考虑添加一个。 我们建议将智能营销活动限制为数据库的25%，以避免在工作流程中过度通信或处理整个数据库，这不仅会保护您的品牌，还有助于保护实例的性能。</li></td>
    <td>3</td>
   </tr>
@@ -139,8 +139,8 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>通信限制</td> 
-   <td><li>是否存在限制？ 贵企业是否有可能需要通信限制的政策？</li>
-<li>Adobe建议将通信限制为每天1次，每7天3次，并阻止非操作电子邮件。</li></td>
+   <td><li>是否存在 <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通信限制</a> 就位？ 贵企业是否有可能需要通信限制的政策？</li>
+<li>Adobe建议将通信限制为每天1次，每7天3次，使用 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">可操作</a> 电子邮件被阻止。</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,8 +163,8 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>渠道</td> 
-   <td><li>有多少个渠道？ 有多少项正在使用？</li>
-<li>是否所有渠道计划状态都合适？ 它们是否在计划中显示进度？</li>
+   <td><li>数量 <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">渠道</a> 有吗？ 有多少项正在使用？</li>
+<li>全部 <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">渠道计划状态适当</a>？ 它们是否在计划中显示进度？</li>
 <li>您的渠道是否与特定项目类型相关？</li>
 <li>哪些状态被视为每个渠道的成功？ 这些是否符合您的营销目标？</li>
 <li>是否正确使用了操作渠道？</li>
