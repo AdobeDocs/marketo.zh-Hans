@@ -3,16 +3,16 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e07204bc9a0edbd99f4059c6e859f33c75c1f02a
+source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 2%
+source-wordcount: '931'
+ht-degree: 3%
 
 ---
 
-# 发行说明： 2023年7月 {#release-notes-july-23}
+# 发行说明： 2023年9月 {#release-notes-sep-23}
 
-在下方，您会找到2023年7月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2023年9月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
@@ -20,11 +20,11 @@ ht-degree: 2%
 
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，并将于以下日期开始发行 **2023年7月21日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会发生更改。 请检查每个功能下方的状态。
+以下功能属于标准发行周期，并将于以下日期开始发行 **2023年9月8日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会发生更改。 请检查每个功能下方的状态。
 
 </br>
 
-* **参与图**：参与度图是一种可视化工具，可用于构建和组织可重复使用的营销活动。 它完全向后兼容，因此通过单击按钮，即可在此新结构中查看所有现有营销策划。 可以下载和共享地图。
+* **Marketo参考库**：Marketo Engage程序参考库允许用户导入代表Adobe推荐的最佳实践的“示例”程序和其他资源。 我们的产品管理团队已完全更新了库，为那些希望快速启动计划的客户提供了更有价值的工具。
 
 <table> 
   <tr> 
@@ -32,13 +32,13 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">参与度图概述</a></td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
   </tr>
   </tbody>
 </table>
 
-* **通知 — Web服务错误**：Web服务错误通知现在包括订阅名称，这使得管理多个Marketo Engage实例的用户更容易操作。 我们还向包含错误代码和计数的表添加了“用户”列，以便您能够轻松识别在调用Marketo REST API时哪个API用户负责生成特定错误。
+* **由Design Studio Assets的计数列使用**：Design Studio中列表视图的计数使用列突出显示正在使用的资源的计数/数量。 这适用于代码片段、电子邮件模板、Forms和登陆页面模板。
 
 <table> 
   <tr> 
@@ -46,8 +46,36 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发货</td>
-   <td>不适用</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **由Design Studio Assets的选项卡增强功能使用**：用于增强功能选项卡提供了有关资产类型和名称及其使用位置的更详细视图。 这适用于“电子邮件详细信息”和“图像和文件详细信息”。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **计算公式流步骤服务**：计算公式是基于AdobeIO运行时平台构建的流步骤服务，用于Marketo Engage智能营销活动。 具有IO运行时的Adobe客户端可以部署此服务，并将其安装到其Marketo Engage订阅中，从而允许它们在Marketo Smart Campaigns中计算类似Excel的公式。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
   </tr>
   </tbody>
 </table>
@@ -56,11 +84,25 @@ ht-degree: 2%
 
 以下功能遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请检查每个功能下方的状态。
 
+* **Marketo + Workfront集成**：对于拥有Marketo和Workfront的用户，现在可以使用Workfront Fusion Templates集成这两个产品并解锁新的自动化工作流以简化活动执行。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Dynamic Chat的聊天源**：“聊天”现在作为新人员记录和活动的源提供。 此源可用于帮助用户过滤智能列表/营销活动中的活动。 还可以阻止源更新字段。
+* **流设计器中的操作信息卡**：当访客参与对话框时，营销人员可以使用对话框流中的操作卡将隐藏值传递给Marketo Engage人员记录。
 
 <table> 
   <tr> 
@@ -74,7 +116,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **增强的Dynamic Chat活动**：Dynamic Chat活动、筛选器和触发器已通过其他属性和标准命名约定得到增强。
+* **对话流资产页面**：Design Studio资产页面现在列出了Dynamic Chat对话流程。 查看哪些流可以集成到Marketo Engage资源中，并直接深层链接到其编辑器。
 
 <table> 
   <tr> 
@@ -88,11 +130,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-### Marketo Sales Insight {#marketo-sales-insight}
-
-</br>
-
-* **取消订阅追加设置**：现在，通过新的配置选项取消订阅附加，您可以更好地控制取消订阅消息。 新功能使管理员能够控制何时何地以及在您的销售电子邮件中显示取消订阅消息。
+* **使用Marketo EngageForms的对话式Forms**：通过将Marketo EngageForms与Dynamic Chat对话流集成，使它们具有对话性。 使用表单数据或智能列表成员资格即时确定满足预订、白皮书链接或自定义目标的潜在客户。
 
 <table> 
   <tr> 
@@ -106,35 +144,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **动态字段提示**：您现在可以提示销售团队进一步个性化电子邮件的特定部分，在销售分析操作中，为电子邮件模板添加新的字段提示。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">字段提示</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **默认动态字段**：默认动态字段允许您配置一个回退值，如果没有可填充的值，动态字段可以解析该回退值。 这有助于确保电子邮件发出时填写完所有个性化设置。
-
-<table> 
-  <tr> 
-   <td><b>状态</b></td>
-   <td><b>文档更新</b></td>
-  </tr>
-  <tr> 
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">动态字段</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Sales Insight的Dynamic Chat支持**：已进行更新，以支持所有Dynamic Chat用户在此版本中引入的新Dynamic Chat属性。
+* **对话SDK**：将任何表单、登陆页面或几乎任何网页转换为引人入胜的会议预订体验。
 
 <table> 
   <tr> 
@@ -148,7 +158,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **对Sales Insight Actions的Dynamic Chat支持**：我们现在支持潜在客户信息源中的Dynamic Chat活动，以及在将Live Chat路由到代理时的通知。
+* **自定义会议预订设置**：座席可以设置自定义会议预订设置，如可用性、会议长度和会议之间的“缓冲时间”。
 
 <table> 
   <tr> 
@@ -162,7 +172,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **Dynamic Chat触发令牌**：引入了新的触发器令牌，用于有趣的时刻中的Dynamic Chat活动。
+* **回退设置**：管理员可设置自定义回退设置，以定义当代理不可用于聊天时访客会看到的内容。
 
 <table> 
   <tr> 
@@ -170,14 +180,154 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat触发令牌</a></td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **全局性能仪表板**：查看对话框的性能如何，包括参与度和性能量度（总计和一段时间内的性能量度）、性能最佳的页面和性能最佳的对话框。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **实时聊天**：Web访客可与销售代理实时聊天，以获取问题解答。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **实时聊天性能仪表板**：查看您的现场销售人员进行了多少对话，哪些团队的表现最佳。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Marketo Engage智能列表定位**：营销人员可以在DialogMarketo Engage条件中定位受众智能列表的成员。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **会议表现信息板**：查看已预订的会议数量以及正在与谁预订会议。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **新建Dynamic Chat活动**：支持对话流、实时聊天和其他新功能的新活动。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **实时聊天通知**：当访客请求实时聊天时，代理会收到实时应用程序内和浏览器通知。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **销售分析操作通知**：具有Sales Insight Actions的座席将在Sales Insight Actions面板中接收实时聊天请求通知。
+
+<table>
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **团队**：创建可为访客安排以进行实时聊天或会议预订的代理团队。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **触发新活动的令牌**：提供新的触发器令牌以支持新的Dynamic Chat活动。
+
+<table> 
+  <tr> 
+   <td><b>状态</b></td>
+   <td><b>文档更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
   </tr>
   </tbody>
 </table>
 
 ## 公告 {#announcements}
 
-* **升级到Google Analytics4**：Marketo之前支持Universal Analytics，后者将在2023年7月1日之前停止记录数据。 RTP用户将需要遵循其Google Analytics功能板中的迁移过程，以便完全支持RTP中的Google Analytics4集成。 今后，用户将拥有一个独特的字母数字标记(位于 `<head>` 部分)，允许Marketo向Google Analytics发送数据。
+* **切换是否弃用Design Studio资产**：允许用户在Design Studio的经典界面和现代UX体验之间进行切换的切换开关将被弃用，弃用Design Studio体验的旧版本，以便用户能够完全迁移到现代UX体验。
 
 * **_产品发布网络研讨会_**：2023年9月6日太平洋时间上午9:00 /东部时间中午12:00加入我们， [实时网络研讨会](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} 我们的产品团队托管，在那里您将了解如何使用所有最新的产品创新。
