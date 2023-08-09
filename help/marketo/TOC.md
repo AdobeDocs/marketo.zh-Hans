@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
 workflow-type: tm+mt
-source-wordcount: '9008'
+source-wordcount: '9012'
 ht-degree: 0%
 
 ---
@@ -180,6 +180,7 @@ ht-degree: 0%
          + [添加或删除产品管理员](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [添加或删除用户](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [常见问题解答](product-docs/administration/marketo-with-adobe-identity/faq.md)
+         + [迁移到Adobe身份](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
          + [使用Adobe ID进行用户登录](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [了解Marketo订阅和用户迁移到Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + 设置 {#settings}
