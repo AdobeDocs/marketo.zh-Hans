@@ -3,9 +3,9 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '1225'
+source-wordcount: '1240'
 ht-degree: 3%
 
 ---
@@ -233,26 +233,26 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>登陆页面</td> 
-   <td><li>域设置为什么？</li>
-<li>回退集是什么？</li>
-<li>主页设置为什么？</li>
+   <td><li>什么是 <a href="/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md" target="_blank">域集为</a>？</li>
+   <li>主页设置为什么？</li>
+<li>什么是 <a href="/help/marketo/product-docs/administration/settings/set-a-fallback-page.md" target="_blank">回退集为</a>？</li>
 <li>是否启用表单预填充？</li>
-<li>是否启用了个性化URL？</li>
-<li>是否为重定向设置了规则？</li>
+<li>是 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">个性化URL</a> 已启用？</li>
+<li>是否已为以下对象设置规则 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">重定向</a>？</li>
 <li>您是否已设置域别名？ 您是否正在跟踪如何使用您的域别名的文档？</li>
-<li>是否启用了登陆页面的安全域？ 确认登陆页面资产是否包含“http”URL。</li></td>
+<li>是 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">登陆页面的安全域</a> 已启用？ 确认登陆页面资产是否包含“http”URL。</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>蒙奇金</td> 
-   <td><li>您的Munchkin跟踪代码是否在您的网站上(不在Marketo中)？</li>
-<li>是否启用“Do Not Track”浏览器请求？</li>
-<li>您的Munchkin API是否已配置？ 如果您缺少有关munchkin代码在您的网站上的位置的文档，请使用基本“Analytics”中的“Web分析报表”开始快速查看，以了解Munchkin代码在您的网站中的放置位置。</li></td>
+   <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin跟踪代码</a> (不在Marketo中)？</li>
+<li>是 <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">不跟踪</a> 是否启用了浏览器请求？</li>
+<li>是您的 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 已配置？ 如果您缺少有关munchkin代码在您的网站上的位置的文档，请使用基本“Analytics”中的“Web分析报表”开始快速查看，以了解Munchkin代码在您的网站中的放置位置。</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Web服务</td> 
-   <td><li>是否启用IP限制？ 他们应该这样做吗？</li>
+   <td><li>是 <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP限制</a> 已启用？ 他们应该这样做吗？</li>
 <li>哪些用户/应用程序正在您的实例中进行API调用？</li>
 <li>您是否达到或接近达到API限制？ 如果是这样的话，请考虑增加调用次数或审核您的实例，以停止这些API调用。</li></td>
    <td>3</td>
@@ -267,21 +267,21 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>启动点（如果适用）</td> 
-   <td><li>您已配置哪些服务（网络研讨会、广告等）？ 是否有任何产品即将到期？</li>
-<li>您的集成使用多少个API调用？</li>
+   <td><li>您已配置哪些服务(例如， <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>， <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">缩放</a>等)？ 是否有任何产品即将到期？</li>
+<li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">API调用数</a> 您的集成使用的是？</li>
 <li>您是否针对用例实施了正确的集成？</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Webhook（如果适用）</td> 
-   <td><li>您设置了哪些连接？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">哪些连接</a> 您是否已设置？</li>
 <li>是否不再使用任何内容？</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>移动设备应用程序（如果适用）</td> 
-   <td><li>您拥有哪些移动设备应用程序？</li>
-<li>添加了哪些测试设备？</li></td>
+   <td><li>哪个 <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">移动应用程序</a> 您有吗？</li>
+<li>拥有任何 <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">测试设备</a>  已添加？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -298,13 +298,13 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>宝箱</td> 
-   <td><li>宝藏箱里有什么？</li>
+   <td><li>中打开的内容 <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">宝箱</a>？</li>
 <li>是否应该打开或关闭某些功能？</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>活动检查器</td> 
-   <td><li>是否启用了活动检查器？</li>
+   <td><li>是 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">活动检查器</a> 打开？</li>
 <li>如果不能，请考虑将其打开以轻松识别哪些营销活动处于活动状态、与您的CRM同步，以及/或删除记录。</li></td>
    <td>3</td>
   </tr>
@@ -318,28 +318,23 @@ ht-degree: 3%
   <tr> 
    <th>区域</th> 
    <th>审核焦点</th>
-   <th>列3</th>
   </tr> 
   <tr> 
    <td>Marketo Engage状态更新</td> 
-   <td><li>您的实例是否已注册Marketo Engage状态更新？</li></td>
-   <td>3</td>
+   <td><li>您的实例是否已注册 <a href="https://status.adobe.com/" target="_blank">Marketo Engage状态更新</a>？</li></td>
   </tr>
   <tr> 
    <td>授权联系人</td> 
-   <td><li>您在支持门户中设置了相应的授权联系人吗？</li></td>
-   <td>3</td>
+   <td><li>是否已设置适当的 <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">授权联系人</a> 在支持门户中？</li></td>
   </tr>
   <tr> 
    <td>警报</td> 
-   <td><li>是否有任何活动警报从Marketo Engage发送到内部团队？</li>
+   <td><li>是否有任何 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">活动警报</a> 被Marketo Engage派去内部团队吗？</li>
 <li>如果是，这些警报是否正常运行？</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>通知</td> 
-   <td><li>您订阅了相应的管理员通知吗？</li></td>
-   <td>3</td>
+   <td><li>您是否订阅了相应的管理员 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md" target="_blank">通知</a>？</li></td>
   </tr>
  </tbody> 
 </table>

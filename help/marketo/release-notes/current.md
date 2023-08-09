@@ -3,7 +3,7 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 3%
@@ -26,7 +26,7 @@ ht-degree: 3%
 
 * **Marketo参考库**：Marketo Engage程序参考库允许用户导入代表Adobe推荐的最佳实践的“示例”程序和其他资源。 我们的产品管理团队已完全更新了库，为那些希望快速启动计划的客户提供了更有价值的工具。
 
-<table width="400"> 
+<table>
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -40,7 +40,7 @@ ht-degree: 3%
 
 * **由Design Studio Assets的计数列使用**：Design Studio中列表视图的计数使用列突出显示正在使用的资源的计数/数量。 这适用于代码片段、电子邮件模板、Forms和登陆页面模板。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -54,7 +54,7 @@ ht-degree: 3%
 
 * **由Design Studio Assets的选项卡增强功能使用**：用于增强功能选项卡提供了有关资产类型和名称及其使用位置的更详细视图。 这适用于“电子邮件详细信息”和“图像和文件详细信息”。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -68,7 +68,7 @@ ht-degree: 3%
 
 * **计算公式流步骤服务**：计算公式是基于AdobeIO运行时平台构建的流步骤服务，用于Marketo Engage智能营销活动。 具有IO运行时的Adobe客户端可以部署此服务，并将其安装到其Marketo Engage订阅中，从而允许它们在Marketo Smart Campaigns中计算类似Excel的公式。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -86,7 +86,7 @@ ht-degree: 3%
 
 * **Marketo + Workfront集成**：对于拥有Marketo和Workfront的用户，现在可以使用Workfront Fusion Templates集成这两个产品并解锁新的自动化工作流以简化活动执行。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -104,7 +104,7 @@ ht-degree: 3%
 
 * **流设计器中的操作信息卡**：当访客参与对话框时，营销人员可以使用对话框流中的操作卡将隐藏值传递给Marketo Engage人员记录。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -118,7 +118,7 @@ ht-degree: 3%
 
 * **对话流资产页面**：Design Studio资产页面现在列出了Dynamic Chat对话流程。 查看哪些流可以集成到Marketo Engage资源中，并直接深层链接到其编辑器。
 
-<table width="400">
+<table>
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -132,7 +132,7 @@ ht-degree: 3%
 
 * **使用Marketo EngageForms的对话式Forms**：通过将Marketo EngageForms与Dynamic Chat对话流集成，使它们具有对话性。 使用表单数据或智能列表成员资格即时确定满足预订、白皮书链接或自定义目标的潜在客户。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -146,7 +146,7 @@ ht-degree: 3%
 
 * **对话SDK**：将任何表单、登陆页面或几乎任何网页转换为引人入胜的会议预订体验。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -160,7 +160,7 @@ ht-degree: 3%
 
 * **自定义会议预订设置**：座席可以设置自定义会议预订设置，如可用性、会议长度和会议之间的“缓冲时间”。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -174,7 +174,7 @@ ht-degree: 3%
 
 * **回退设置**：管理员可设置自定义回退设置，以定义当代理不可用于聊天时访客会看到的内容。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -188,7 +188,7 @@ ht-degree: 3%
 
 * **全局性能仪表板**：查看对话框的性能如何，包括参与度和性能量度（总计和一段时间内的性能量度）、性能最佳的页面和性能最佳的对话框。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -202,7 +202,7 @@ ht-degree: 3%
 
 * **实时聊天**：Web访客可与销售代理实时聊天，以获取问题解答。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -216,7 +216,7 @@ ht-degree: 3%
 
 * **实时聊天性能仪表板**：查看您的现场销售人员进行了多少对话，哪些团队的表现最佳。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -230,7 +230,7 @@ ht-degree: 3%
 
 * **Marketo Engage智能列表定位**：营销人员可以在DialogMarketo Engage条件中定位受众智能列表的成员。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -244,7 +244,7 @@ ht-degree: 3%
 
 * **会议表现信息板**：查看已预订的会议数量以及正在与谁预订会议。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -258,7 +258,7 @@ ht-degree: 3%
 
 * **新建Dynamic Chat活动**：支持对话流、实时聊天和其他新功能的新活动。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -272,7 +272,7 @@ ht-degree: 3%
 
 * **实时聊天通知**：当访客请求实时聊天时，代理会收到实时应用程序内和浏览器通知。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -286,7 +286,7 @@ ht-degree: 3%
 
 * **销售分析操作通知**：具有Sales Insight Actions的座席将在Sales Insight Actions面板中接收实时聊天请求通知。
 
-<table width="400">
+<table>
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -300,7 +300,7 @@ ht-degree: 3%
 
 * **团队**：创建可为访客安排以进行实时聊天或会议预订的代理团队。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -314,7 +314,7 @@ ht-degree: 3%
 
 * **触发新活动的令牌**：提供新的触发器令牌以支持新的Dynamic Chat活动。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
