@@ -3,10 +3,10 @@ description: 继承文档2 - Marketo文档 — 产品文档
 title: 继承文档2
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 8%
+source-wordcount: '383'
+ht-degree: 1%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 8%
   </tr> 
   <tr> 
    <td>所有人员</td> 
-   <td><li>数据库中有多少人？</li>
+   <td><li>有多少人存在于 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">数据库</a>？</li>
 <li>如果数据库已接近满，您的公司策略是否建议扩大数据库大小或清除历史数据？</li>
 <li>您的总体数据库是否至少有85%是适销的？ 列入阻止列表如果您未达到此阈值，请仔细查看其他系统智能列表（、营销暂停、重复、取消订阅）。</li></td>
   </tr>
   <tr> 
    <td>已取消订阅的人员</td> 
-   <td><li>您对于已取消订阅人员的标准是什么？ 是否有太多未订阅的人员？</li>
+   <td><li>您的标准是什么 <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">已取消订阅的人员</a>？ 是否有太多未订阅的人员？</li>
 <li>您的取消订阅方法是否符合您的数据隐私要求？</li>
 <li>您的取消订阅首选项是否为最新？ 记录在数据库中作为不可销售记录保留多长时间？</li></td>
   </tr>
@@ -72,16 +72,10 @@ ht-degree: 8%
    <th>审核焦点</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>组智能列表</td> 
+   <td><li>存在哪些组智能列表？ 在本例中如何使用它们？</li>
+<li>列表是否以具有凝聚力的文件夹结构组织？ 如果您有孤立列表，请考虑组织您的树，以便轻松找到资产。</li>
+<p>提示：存档组智能列表，查询、报告或引用不再需要这些智能列表，以帮助组织和性能。</td>
   </tr>
  </tbody> 
 </table>
@@ -95,16 +89,9 @@ ht-degree: 8%
    <th>审核焦点</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>组列表</td> 
+   <td><li>有哪些组列表？</li>
+<li>在本例中如何使用它们？</li></td>
   </tr>
  </tbody> 
 </table>
@@ -118,16 +105,10 @@ ht-degree: 8%
    <th>审核焦点</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>分段</td> 
+   <td><li>哪个 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">分段</a> 有吗？ 它们是如何被使用的？</li>
+<li>有太多人在 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">默认区段</a>？</li>
+<li>是否有针对可营销受众的分段？ 如果不能，请考虑创建一个。</li></td>
   </tr>
  </tbody> 
 </table>
