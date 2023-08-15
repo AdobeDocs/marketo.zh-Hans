@@ -4,9 +4,9 @@ description: 帐户分析插件概述 — Marketo文档 — 产品文档
 title: 帐户分析插件概述
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->所有同时拥有TAM和Marketo Sales Insight的客户都可以使用Account Insight。 对于只拥有TAM的客户，客户分析可作为购买的加载项使用。 每个客户最多只能获得250个Account Insight名额。 有关详细信息，请与您的销售代表联系。 它不适用于没有TAM的客户。
+>* 所有同时拥有TAM和Marketo Sales Insight的客户都可以使用Account Insight。 对于只拥有TAM的客户，客户分析可作为购买的加载项使用。 每个客户最多只能获得250个Account Insight名额。 有关详细信息，请与您的销售代表联系。 它不适用于没有TAM的客户。
+>
+>* 此插件与 [Adobe身份验证](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此时。
 
 >[!CAUTION]
 >
