@@ -3,10 +3,10 @@ description: 概述 — Marketo文档 — 产品文档
 title: 概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 1%
+source-wordcount: '434'
+ht-degree: 2%
 
 ---
 
@@ -21,14 +21,6 @@ ht-degree: 1%
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
-
-## 观看导览 {#take-the-tour}
-
-首次登录时，将显示一个弹出窗口，为您提供新体验的摘要。 注意，如果您选择跳过它，它将 **非** 稍后提供。
-
-![](assets/overview-1.png)
-
-该导览会向您介绍您需要了解的所有信息！
 
 ## 新增功能 {#whats-new}
 

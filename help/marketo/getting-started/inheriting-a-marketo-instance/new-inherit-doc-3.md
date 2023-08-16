@@ -3,7 +3,7 @@ description: 继承文档3 - Marketo文档 — 产品文档
 title: 继承文档3
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -28,19 +28,19 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>命名约定</td> 
-   <td><li>您的程序是否具有一致的命名约定？</li></td>
+   <td><li>您的项目是否具有一致性 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#naming-schemes" target="_blank">命名约定</a>？</li></td>
   </tr>
   <tr> 
    <td>文件夹结构</td> 
-   <td><li>您是否拥有一致且易于导航的文件夹结构？</li></td>
+   <td><li>您是否拥有一致且易于导航的 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">文件夹结构</a>？</li></td>
   </tr>
   <tr> 
    <td>程序</td> 
    <td><li>是否有一个拥有计划模板的卓越中心？ 如果是，项目模板对团队的用例是否有意义？</li>
-<li>类似的计划类型是否具有一致的结构化？</li>
-<li>期间成本是否已经到位？</li>
-<li>是否所有项目都已同步到SFDC营销活动（如果适用）？</li>
-<li>您是否具有将客户获取项目分配给人员的流程步骤？</li></td>
+<li>程序类型相似 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">结构一致</a>？</li>
+<li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期间成本</a> 就位？</li>
+<li>是所有项目群 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">已同步到SFDC营销活动</a> （如果适用）？</li>
+<li>您是否具有分配 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">客户获取计划</a> 对人来说？</li></td>
   </tr>
   <tr> 
    <td>存档</td> 
