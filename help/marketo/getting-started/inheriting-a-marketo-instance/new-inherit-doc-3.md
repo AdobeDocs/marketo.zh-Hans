@@ -3,9 +3,9 @@ description: 继承文档3 - Marketo文档 — 产品文档
 title: 继承文档3
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>令牌</td> 
-   <td><li>令牌是否用于定期使用的程序类型？ KG — 双重检查含义如果不是，应考虑使用它们来提高效率。</li>
+   <td><li>令牌是否在您最常用的程序类型中使用？ 否则，应考虑使用它们来提高效率。</li>
 <li>如果实施了令牌，那么是否有全局文件夹令牌？ 它们是如何被使用的？</li></td>
   </tr>
   <tr> 
