@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
 workflow-type: tm+mt
-source-wordcount: '9021'
+source-wordcount: '9027'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
       + [重定向登陆页面](getting-started/quick-wins/redirect-a-landing-page.md)
       + [针对可能存在的重复人员自动发送警报](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + 继承Marketo实例 {#inheriting-a-marketo-instance}
+      + [新建继承概述](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
       + [帮助! 我继承了一个现有的Marketo实例](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [要签出的项目](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [回顾内容：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
@@ -46,6 +47,7 @@ ht-degree: 0%
       + [新建继承文档2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
       + [新建继承文档3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
       + [新建继承文档4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+      + [新建继承文档5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 + 产品文档 {#product-docs}
    + 其他应用程序 {#additional-apps}
       + SEO {#seo}
