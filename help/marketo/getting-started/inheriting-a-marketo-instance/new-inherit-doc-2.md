@@ -3,7 +3,7 @@ description: 继承文档2 - Marketo文档 — 产品文档
 title: 继承文档2
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 1%
@@ -30,7 +30,8 @@ ht-degree: 1%
    <td>所有人员</td> 
    <td><li>有多少人存在于 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">数据库</a>？</li>
 <li>如果数据库已接近满，您的公司策略是否建议扩大数据库大小或清除历史数据？</li>
-<li>您的总体数据库是否至少有85%是适销的？ 列入阻止列表如果您未达到此阈值，请仔细查看其他系统智能列表（、营销暂停、重复、取消订阅）。</li></td>
+<li>您的总体数据库是否至少有85%是适销的？ 
+<br/>列入阻止列表如果您未达到此阈值，请仔细查看其他系统智能列表（、营销暂停、重复、取消订阅）。</li></td>
   </tr>
   <tr> 
    <td>已取消订阅的人员</td> 
@@ -40,9 +41,9 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>营销暂停</td> 
-   <td><li>您的标准是什么 <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">营销已暂停</a>？ 是否有太多人被停职？</li>
+   <td><li>您的标准是什么 <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">营销已暂停</a>？ 营销被暂停的人数是否太多？</li>
 <li>记录保留营销暂停状态多长时间？</li>
-<p>营销暂停使用案例示例：那些积极参与您想要为其抑制营销沟通的后期商机的销售活动的记录。</td>
+<p>营销活动暂停用例示例：积极参与后期商机的销售活动的记录，您要为其抑制营销通信。</td>
   </tr>
    <tr> 
    <td>阻止列表</td> 
@@ -54,11 +55,13 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>可能的重复项</td> 
-   <td><li>数量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">可能重复的记录</a> 有吗？ 请考虑删除或合并它们。</li></td>
+   <td><li>数量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">可能重复的记录</a> 有吗？
+   <br/>请考虑删除或合并它们。</li></td>
   </tr>
    <tr> 
    <td>无客户获取计划</td> 
-   <td><li>有多少人没有 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">客户获取计划</a>？ 如果有很多，请考虑调查原因。</li></td>
+   <td><li>有多少人没有 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">客户获取计划</a>？
+   <br/>如果有很多，请考虑调查原因。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -74,8 +77,8 @@ ht-degree: 1%
   <tr> 
    <td>组智能列表</td> 
    <td><li>存在哪些组智能列表？ 在本例中如何使用它们？</li>
-<li>列表是否以具有凝聚力的文件夹结构组织？ 如果您有孤立列表，请考虑组织您的树，以便轻松找到资产。</li>
-<p>提示： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">存档</a> 组不再需要用于查询、报告或引用的智能列表，以帮助组织和性能。</td>
+<li>列表是否以具有凝聚力的文件夹结构组织？ <br/>如果您有孤立列表，请考虑组织您的树，以便轻松找到资产。</li>
+<p>提示： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">存档</a> 组智能列表，查询、报告或引用不再需要这些智能列表以帮助组织和性能。</td>
   </tr>
  </tbody> 
 </table>
@@ -108,7 +111,8 @@ ht-degree: 1%
    <td>分段</td> 
    <td><li>哪个 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">分段</a> 有吗？ 它们是如何被使用的？</li>
 <li>有太多人在 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">默认区段</a>？</li>
-<li>是否有针对可营销受众的分段？ 如果不能，请考虑创建一个。</li></td>
+<li>是否有针对可营销受众的分段？ 
+<br/>如果不能，请考虑创建一个。</li></td>
   </tr>
  </tbody> 
 </table>

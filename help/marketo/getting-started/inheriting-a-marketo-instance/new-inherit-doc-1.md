@@ -3,7 +3,7 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '1223'
 ht-degree: 1%
@@ -55,7 +55,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>沙盒（如果适用）</td> 
-   <td><li>您是否拥有 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">沙盒实例</a>？ 
+   <td><li>您是否拥有 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">沙盒实例</a>？
    <br/>如果是这样的话，请查看上面针对沙盒的类别。</li>
 <li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">项目导入</a> 与您的沙盒相关联？</li></td>
   </tr>
@@ -187,8 +187,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>自定义活动</td> 
-   <td><li>是否有任何 <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">自定义活动</a>？</li>
-<br/>如果是这样的话，请单击它们以了解哪些活动与Marketo表单、电子邮件或登陆页面无关。</td>
+   <td><li>是否有任何 <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">自定义活动</a>？
+<br/>如果是这样的话，请单击它们以了解哪些活动与Marketo表单、电子邮件或登陆页面无关。</li></td>
   </tr>
   <tr> 
    <td>自定义对象</td> 
@@ -280,8 +280,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>活动检查器</td> 
-   <td><li>是 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">活动检查器</a> 打开？</li>
-<br/>如果不能，请考虑启用它以轻松识别哪些营销活动处于活动状态：活动、与您的CRM同步，以及/或删除记录。</td>
+   <td><li>是 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">活动检查器</a> 打开？
+<br/>如果不能，请考虑启用它以轻松识别哪些营销活动处于活动状态：活动、与您的CRM同步，以及/或删除记录。</li></td>
   </tr>
  </tbody> 
 </table>
