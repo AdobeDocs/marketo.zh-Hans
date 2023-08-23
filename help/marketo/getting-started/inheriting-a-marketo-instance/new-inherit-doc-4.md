@@ -3,20 +3,16 @@ description: 继承文档4 - Marketo文档 — 产品文档
 title: 继承文档4
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
 
 # 继承文档4 {#inherit-doc-4}
 
-您是否从其他管理员继承了现有Marketo Engage实例？ 如果是这样的话，这篇文章是为您准备的。
-
->[!TIP]
->
->如果您是新Marketo Engage用户并且不熟悉许多术语，请查看 [Marketo术语表](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+结构化模板和创建全局表单、代码片段以及图像和文件将有助于最大限度地减少数据错误并简化程序构建的工作流。
 
 ## 登陆页面 {#landing-pages}
 
@@ -35,6 +31,10 @@ ht-degree: 1%
    <td><li>数量 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">登陆页面模板</a> 有吗？ 它们是否正在被利用？</li></td>
   </tr>
   <tr> 
+   <td>测试组</td> 
+   <td><li>数量 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">登陆页面测试组</a> 是吗？ 它们仍然相关吗？</li></td>
+  </tr>
+   <tr> 
    <td>隐私和合规性</td> 
    <td><li>您的所有登陆页面是否都有相应的页脚？</li></td>
   </tr>
@@ -88,6 +88,10 @@ ht-degree: 1%
    <td><li>数量 <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">电子邮件模板</a> 有吗？ 它们是否正在被利用？</li></td>
   </tr>
   <tr> 
+   <td>电子邮件测试</td> 
+   <td><li>您如何使用 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">电子邮件测试</a>？ 你的方法仍然有效吗？</li></td>
+  </tr>
+  <tr> 
    <td>隐私和合规性</td> 
    <td><li>您的所有电子邮件是否都有适当的页脚？ 考虑GDPR、CASL、CAN-SPAM、CCPA等 了解合规影响。</li>
 <p>提示：请记住，请始终就这些合规性问题咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
@@ -135,3 +139,30 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+
+## 所有资产 {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>区域</th> 
+   <th>审核焦点</th>
+  </tr> 
+  <tr> 
+   <td>资源状态</td> 
+   <td><li>有多少资产在 <i>草稿</i> 和 <i>已审批，草稿</i> 状态？
+   <br/>如果有多个文件夹，请考虑删除或批准这些文件夹。</li></td>
+  </tr>
+  <tr> 
+   <td>资产共享</td> 
+   <td><li>哪些资产是 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">在工作区之间共享</a>？</li>
+   <p>注意：了解这一点很重要，因为在一个工作区中执行的操作可能会导致其他用户无法访问其他工作区中的资产。</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[◄审核继承的实例：营销活动](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[审核继承的实例：记录继承的实例设置►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
