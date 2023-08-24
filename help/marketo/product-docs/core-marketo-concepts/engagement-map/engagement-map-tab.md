@@ -2,9 +2,9 @@
 description: 参与度映射选项卡 — Marketo文档 — 产品文档
 title: “参与图”选项卡
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -122,9 +122,17 @@ ht-degree: 0%
 
 ## 错误处理 {#error-handling}
 
-智能列表和流程步骤中的错误将通过信息卡中的错误图标突出显示。 此外，相应的错误消息将反映在滑出面板中。
+智能列表和流程步骤中的错误将通过信息卡中的红色图标突出显示。 此外，相应的错误消息将反映在滑出面板中。
 
-以下是触发器中的错误示例，该示例显示在触发器概述信息卡、滑出面板和详细信息触发器信息卡中。
+智能列表和流量步骤中的警告将通过信息卡中的橙色图标突出显示。 此外，相应的警告消息将反映在滑出面板中。
+
+以下是“选择”卡中的警告示例，该警告显示在“执行Campaign”流程步骤卡、滑出面板和默认选择卡中。
+
+![](assets/engagement-map-tab-18.png)
+
+>[!NOTE]
+>
+>警告是需要审查的建议，但并不表示Smart Campaign中有错误。
 
 **过滤器卡片中的错误可能包括：**
 
