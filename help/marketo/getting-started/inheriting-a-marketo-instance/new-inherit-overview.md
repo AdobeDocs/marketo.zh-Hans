@@ -3,9 +3,9 @@ description: 了解如何优化和扩展您继承的现有Marketo Engage实例�
 title: Jumpstart继承的Marketo Engage实例
 hide: true
 hidefromtoc: true
-source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -55,5 +55,3 @@ ht-degree: 0%
 * 在中与Marketo Engage同仁联系并向他们学习 **[营销国家/地区](https://nation.marketo.com/){target="_blank"}**.
 
 * 要获得充分利用Marketo Engage实例的实践帮助，请联系 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* 要提高Marketo Engage技能，请浏览 **[Marketo Engage课程目录](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.

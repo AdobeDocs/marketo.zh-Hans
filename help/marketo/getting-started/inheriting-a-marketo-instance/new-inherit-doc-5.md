@@ -3,16 +3,16 @@ description: 继承文档5 - Marketo文档 — 产品文档
 title: 继承文档5
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 3%
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
 # 继承文档5 {#inherit-doc-5}
 
-文本
+现在您已了解在继承已建立的实例时要审核的关键产品领域，下一步是创建/更新有关实例配置和技术栈栈的文档。 无论是通过电子表格还是项目管理应用程序创建文档，您的文档都是跟踪进度和记录详细信息的有用资源。
 
 ## 数据 {#data}
 
@@ -51,7 +51,7 @@ ht-degree: 3%
   <tr> 
    <td>组织</td> 
     <td><li>您是否拥有有关Marketo Engage实例的组织方式及其原因的详尽文档？</li>
-   <p>措施项：创建包含文件夹结构、命名惯例和渠道/法规KG - STATURES的文档？ 已在您的实例中使用。</td>
+   <p>措施项：创建包含文件夹结构、命名惯例和实例中使用的渠道的文档。</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -69,3 +69,5 @@ ht-degree: 3%
   </tr>
  </tbody> 
 </table>
+
+[◄审核继承的实例：Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

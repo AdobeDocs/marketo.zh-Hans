@@ -3,20 +3,16 @@ description: 继承文档2 - Marketo文档 — 产品文档
 title: 继承文档2
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '369'
 ht-degree: 1%
 
 ---
 
 # 继承文档2 {#inherit-doc-2}
 
-您是否从其他管理员继承了现有Marketo Engage实例？ 如果是这样的话，这篇文章是为您准备的。
-
->[!TIP]
->
->如果您是新Marketo Engage用户并且不熟悉许多术语，请查看 [Marketo术语表](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+了解您的订阅中的总人数、可营销人员和主要人员获取来源。
 
 ## 系统智能列表 {#system-smart-lists}
 
@@ -116,3 +112,9 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄审核继承的实例：管理员](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[审核继承的实例：营销活动►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)

@@ -3,20 +3,18 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 1%
 
 ---
 
 # 继承文档1 {#inherit-doc-1}
 
-审核继承的实例可能类似于……
+作为新的Adobe Marketo Engage管理员，您将需要执行几项任务，以检查继承实例的运行状况和可行性。
 
-您是否从其他管理员继承了现有Marketo Engage实例？ 如果是这样的话，这篇文章是为您准备的……
-
-以下清单已与Marketo Champions的输入相结合，可帮助您在继承实例中快速入门……
+以下核对清单（链接到每篇文章底部的后续核对清单）与Marketo Champions的输入一起放在一起，帮助您快速上手。 在Marketo Engage继承实例核对清单中记录您的进度。
 
 >[!TIP]
 >
@@ -112,7 +110,7 @@ ht-degree: 1%
   <tr> 
    <td>Smart Campaign设置</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">您是否有限制</a> Smart Campaign规模？ 
-   <br/>如果不能，请考虑添加一个。 我们建议将智能营销活动限制为数据库的25%，以避免在工作流程中过度通信或处理整个数据库；这不仅可以保护您的品牌，还有助于保护实例的性能。 千克 — 这准确吗？</li></td>
+   <br/>如果不能，请考虑添加一个。 我们建议将Smart Campaign限制为数据库的25%，以避免在工作流程中过度通信或处理整个数据库；这不仅可以保护您的品牌，还有助于保护实例的性能。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -128,7 +126,7 @@ ht-degree: 1%
   <tr> 
    <td>通信限制</td> 
    <td><li>是否存在 <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通信限制</a> 就位？ 贵企业是否有可能需要通信限制的政策？</li>
-<p>注意：Adobe建议将通信限制为每天1次，每7天3次，使用 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">可操作</a> 电子邮件被阻止。 千克 — 这准确吗？</td>
+<p>注意：Adobe建议将通信限制为每天1次，每7天3次，使用 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">可操作</a> 电子邮件被阻止。</td>
   </tr>
  </tbody> 
 </table>
@@ -209,7 +207,7 @@ ht-degree: 1%
   <tr> 
    <td>CRM</td> 
    <td><li>您正在同步到哪个CRM？ Salesforce? MS Dynamics？ 维耶娃？</li>
-<li>是自定义同步还是双向同步？ （KG：修复语法并检查重要性）</li>
+<li>您是否在使用自定义同步？</li>
 <li>[仅限Salesforce]您的实例是否实施了自定义同步过滤器？ 
 <p>注意：请联系Marketo支持以确定自定义同步筛选器或请求实施自定义同步规则。</li></td>
   </tr>
@@ -313,3 +311,7 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[审核继承的实例：数据库►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

@@ -3,9 +3,9 @@ description: 执行Campaign - Marketo文档 — 产品文档
 title: 执行营销活动
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 何时使用执行营销活动 {#when-to-use-execute-campaign}
 
-使用可执行活动，您可以执行许多操作。 它们旨在促进常见的操作任务，如商机路由、生命周期管理和评分（等等），并可用于从批量活动或触发的活动中执行相同的工作流。
+您可以使用可执行活动执行许多操作。 它们旨在促进常见的操作任务，如商机路由、生命周期管理和评分（等等），并可用于从批量活动或触发的活动中执行相同的工作流。
 
 当您需要运行单独的流时，也可以使用它们，但您需要在后续的流步骤选择中依赖该流的结果（即，如果这样做，则这样做）。
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 **示例2：False**
 
-在第二个父营销活动的“执行营销活动”过滤器中，“使用父营销活动令牌上下文”设置为 **假**.
+在第二个父营销活动的“执行营销活动”流程步骤中，“使用父营销活动令牌上下文”设置为 **假**.
 
 ![](assets/execute-campaign-8.png)
 

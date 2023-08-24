@@ -3,20 +3,16 @@ description: 继承文档3 - Marketo文档 — 产品文档
 title: 继承文档3
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 0%
 
 ---
 
 # 继承文档3 {#inherit-doc-3}
 
-您是否从其他管理员继承了现有Marketo Engage实例？ 如果是这样的话，这篇文章是为您准备的。
-
->[!TIP]
->
->如果您是新Marketo Engage用户并且不熟悉许多术语，请查看 [Marketo术语表](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+营销活动是您的营销团队可以在其中创建智能营销活动、构建创意资产（例如电子邮件和登陆页面）并查看资产绩效的地方。
 
 ## 组织 {#organization}
 
@@ -45,9 +41,9 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>存档</td> 
-   <td><li>是旧程序 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">已存档</a>？ 
-   <br/>最佳做法是每年进行一次审查。 KG — 是否如此</li>
-<li>您的公司多久审阅一次旧程序并将其存档？</li></td>
+   <td><li>是旧程序 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">已存档</a>？</li>
+<li>您的公司多久审阅一次旧程序并将其存档？</li>
+<p>提示：每年进行一次审查很好。</td>
   </tr>
   <tr> 
    <td>通知</td> 
@@ -83,8 +79,7 @@ ht-degree: 0%
 <li>数量 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">人们筋疲力尽</a>？ 
 <br/>如果有很多人筋疲力尽，请考虑添加内容。</li>
 <li>用户是否参与内容？ 
-<br/>如果没有，请考虑更新它和/或A/B测试。</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">有多少人</a> KG — 是否可以同时查看所有程序？ 不这么认为，但请确保参加多个参与计划？ 它们应该位于多个中吗？</li></td>
+<br/>如果没有，请考虑更新它和/或A/B测试。</li></td>
   </tr>
   <tr> 
    <td>批量活动</td> 
@@ -169,3 +164,9 @@ ht-degree: 0%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄审计继承的实例：数据库](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[审核继承的实例：Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
