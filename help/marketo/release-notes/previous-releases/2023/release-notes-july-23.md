@@ -2,10 +2,10 @@
 description: 发行说明 — 2023年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2023年7月
 feature: Release Information
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 1%
+source-wordcount: '664'
+ht-degree: 2%
 
 ---
 
@@ -67,8 +67,8 @@ ht-degree: 1%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
   </tbody>
 </table>
@@ -81,8 +81,8 @@ ht-degree: 1%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
   </tbody>
 </table>
