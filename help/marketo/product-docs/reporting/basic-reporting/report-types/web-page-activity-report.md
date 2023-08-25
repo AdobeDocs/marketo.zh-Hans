@@ -4,9 +4,9 @@ description: 网页活动报表 — Marketo文档 — 产品文档
 title: 网页活动报表
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [将Munchkin跟踪代码添加到您的网站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [将Munchkin跟踪代码添加到您的网站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
-1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择 **网页活动报表** [报告类型](report-type-overview.md).
+1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 并选择 **网页活动报表** [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+1. 选择以 [显示已知或匿名人员](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"} 在报表中。
 
-1. 选择以 [显示已知或匿名人员](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) 在报表中。
-
-1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然后单击 **报表** 选项卡。
+1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} 然后单击 **报表** 选项卡。
 
 1. 你拿到了！ 查看您的报告以了解哪些人正在访问您的网站。
 
@@ -37,10 +36,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要了解访问您网站次数最多的用户， [对报告进行排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 在 _页面查看次数_ 列并选择“降序排序”。
+   >要了解访问您网站次数最多的用户， [对报告进行排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} 在 _页面查看次数_ 列并选择“降序排序”。
 
-   [Marketo添加匿名](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 网站访客访问您的数据库，您可以选择在此报表中显示这些访客。 它提供了大量的信息，即使它们是不记名的。\
-   [可选择的列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 对于网页活动，报表包括：
+   [Marketo添加匿名](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} 网站访客访问您的数据库，您可以选择在此报表中显示这些访客。 它提供了大量的信息，即使它们是不记名的。\
+   [可选择的列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} 对于网页活动，报表包括：
 
 <table> 
  <thead> 
@@ -60,7 +59,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>页面查看次数</td> 
-   <td>此访客加载的页数。<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">单击</a></strong> 查看访问过的页面。</td> 
+   <td>此访客加载的页数。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">单击</a></strong> 查看访问过的页面。</td> 
   </tr> 
   <tr> 
    <td>HTTP引用程序</td> 
@@ -83,9 +82,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->让您的销售代表激动不已！ [筛选报告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)为他们的领地和 [为他们订阅](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)！
+>让您的销售代表激动不已！ [筛选报告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} for their territory and [subscribe them to it](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}！
 
 >[!MORELIKETHIS]
 >
->* [已查看的网页、网页活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
->* [在Web报表中显示人员或匿名访客](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>* [已查看的网页、网页活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md){target="_blank"}
+>* [在Web报表中显示人员或匿名访客](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}

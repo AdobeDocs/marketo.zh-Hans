@@ -3,9 +3,9 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1209'
 ht-degree: 1%
 
 ---
@@ -126,7 +126,7 @@ ht-degree: 1%
   <tr> 
    <td>通信限制</td> 
    <td><li>是否存在 <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通信限制</a> 就位？ 贵企业是否有可能需要通信限制的政策？</li>
-<p>注意：Adobe建议将通信限制为每天1次，每7天3次，使用 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">可操作</a> 电子邮件被阻止。</td>
+<p>注意：我们建议将您的通信限制为每天1次，每7天3次，使用 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">可操作</a> 电子邮件被阻止。</td>
   </tr>
  </tbody> 
 </table>
@@ -228,7 +228,7 @@ ht-degree: 1%
    <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin跟踪代码</a> (不在Marketo中)？</li>
 <li>是 <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">不跟踪</a> 是否启用了浏览器请求？</li>
 <li>是您的 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 已配置？ 
-<p>提示：如果您缺少有关munchkin代码在您的网站上的位置的文档，请使用基本“Analytics”中的“网站分析报表”开始快速查看，以了解Munchkin代码在您的网站上的放置位置。 公斤 — 这是好小费</li></td>
+<p>提示：如果您缺少有关munchkin代码在您的网站上的位置的文档，则可以通过创建 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">网页活动报表</a>.</li></td>
   </tr>
   <tr> 
    <td>Web服务</td> 

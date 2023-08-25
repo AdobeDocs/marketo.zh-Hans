@@ -3,9 +3,9 @@ description: 继承文档3 - Marketo文档 — 产品文档
 title: 继承文档3
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 0%
    <td>本地Forms</td> 
    <td><li>有多少程序具有本地 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">表单</a>？ 这些形式是否应变成全球形式？</li>
 <li>他们是否为您的营销和销售团队捕获合适的数据？</li>
-<p>提示：限制本地表单的数量，以方便根据数据隐私和选择启用/选择禁用策略进行更新并与更改保持一致。 考虑创建表单时，需要问哪些问题？ 如果收集的信息没有变化，并且高级表单功能没有变化，请考虑使用全局表单，而不是本地表单。 千克 — 验证此</td>
+<p>提示：限制本地表单的数量，以方便根据数据隐私和选择启用/选择禁用策略进行更新并与更改保持一致。 创建表单时，需要问哪些问题？ 如果收集的信息没有变化，并且高级表单功能没有变化，请考虑使用全局表单，而不是本地表单。</td>
   </tr>
   <tr> 
    <td>全局Forms</td> 
@@ -131,11 +131,11 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>数据标准化</td> 
-   <td><li>您是否制定了集中程序来标准化传入数据？ 千克 — 双击此项</li></td>
+   <td><li>您是否制定了集中程序来标准化传入数据？</li></td>
   </tr>
   <tr> 
    <td>退回管理</td> 
-   <td><li>贵机构是否有中央程序来处理 <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">跳出的人群</a>？ 千克 — 这篇2017年的文章是否仍然相关？</li></td>
+   <td><li>贵机构是否有中央程序来处理 <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">跳出的人群</a>？</li></td>
   </tr>
   <tr> 
    <td>隐私和合规性</td> 
