@@ -4,9 +4,9 @@ description: 项目计划查看条目类型 — Marketo文档 — 产品文档
 title: 项目计划查看条目类型
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 项目计划查看条目类型 {#program-schedule-view-entry-types}
 
 有八种不同的内置条目类型将可见，并可在程序计划视图中使用。 您还可以 [创建自定义条目类型](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) 在管理员部分中。
+
+>[!NOTE]
+>
+>定期智能营销活动包括 **非** 在计划视图中受支持。
 
 <table> 
  <thead> 
@@ -33,7 +37,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">带有电子邮件的Smart Campaign <img alt="--" src="assets/image2014-9-24-10-3a5-3a14.png" data-linked-resource-id="3082717" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1"><p>已计划具有至少一个发送电子邮件流程步骤的智能营销活动。</p></td> 
+   <td colspan="1" rowspan="1"><p>已计划具有至少一个发送电子邮件流程步骤的Smart Campaign。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">电子邮件程序 <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 

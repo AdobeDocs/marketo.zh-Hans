@@ -4,20 +4,24 @@ description: 导航营销日历 — Marketo文档 — 产品文档
 title: 导航营销日历
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
 # 导航营销日历 {#navigating-the-marketing-calendar}
 
-在营销日历中轻松导航有1、2、3个！
+在营销日历中导航很容易。 具体方法如下。
 
 >[!PREREQUISITES]
 >
 >确保您拥有 [营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}  — 否则，“营销日历”拼贴将不会显示在“我的Marketo”中。
+
+>[!NOTE]
+>
+>营销日历中不支持定期智能营销活动。
 
 1. 转到 **营销日历**.
 
