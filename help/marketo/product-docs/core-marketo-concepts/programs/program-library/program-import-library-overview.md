@@ -5,18 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: eb68ae803f2e313a7ac35747aacca5eed7089b0f
+source-git-commit: 632f34fa3ab69537703b1f82678955047476d0d3
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # 程序导入库概述 {#program-import-library-overview}
 
-介绍文本。
+Marketo Engage参考库包括多个入门程序，您可以直接导入到Marketo实例中，以快速开始构建将帮助支持您团队的程序。
 
- — 在此处Marketo Engage程序导入库信息 — 
+该库包括以下项目：电子邮件、参与、事件、评分、可投放性和可操作性。 所有计划均由Adobe产品团队制定，并由我们的全球专业服务团队审核，以尽量提高质量和效率。
+
+## 可用程序示例 {#available-program-examples}
 
 * [CT-YYYY-MM-Content非Marketo登录页面](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
 
@@ -51,3 +53,7 @@ ht-degree: 0%
 * [WBN-YYYY-MM-DD — 网络研讨会计划](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 
 * [WR-YYYY-MM-Web请求程序](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+
+>[!MORELIKETHIS]
+>
+>[导入项目群](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}
