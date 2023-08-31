@@ -3,9 +3,9 @@ description: 继承文档2 - Marketo文档 — 产品文档
 title: 继承文档2
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '362'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:25%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -31,7 +31,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>已取消订阅的人员</td> 
-   <td><li>您的标准是什么 <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">已取消订阅的人员</a>？ 是否有太多未订阅的人员？</li>
+   <td><li>您的标准是什么 <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" target="_blank">已取消订阅的人员</a>？ 是否有太多未订阅的人员？</li>
 <li>您的取消订阅方法是否符合您的数据隐私要求？</li>
 <li>您的取消订阅首选项是否为最新？ 记录在数据库中作为不可销售记录保留多长时间？</li></td>
   </tr>
@@ -39,7 +39,7 @@ ht-degree: 1%
    <td>营销暂停</td> 
    <td><li>您的标准是什么 <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">营销已暂停</a>？ 营销被暂停的人数是否太多？</li>
 <li>记录保留营销暂停状态多长时间？</li>
-<p>营销活动暂停用例示例：积极参与后期商机的销售活动的记录，您要为其抑制营销通信。</td>
+<p>“营销已暂停”用例示例：人员记录积极参与您想要为其抑制营销沟通的后期商机的销售。</td>
   </tr>
    <tr> 
    <td>阻止列表</td> 
@@ -62,35 +62,34 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 组智能列表 {#group-smart-lists}
+## 智能列表 {#smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:25%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
-   <td>组智能列表</td> 
-   <td><li>存在哪些组智能列表？ 在本例中如何使用它们？</li>
+   <td>智能列表</td> 
+   <td><li>数量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">智能列表</a> 有吗？ 在本例中如何使用它们？</li>
 <li>列表是否以具有凝聚力的文件夹结构组织？ <br/>如果您有孤立列表，请考虑组织您的树，以便轻松找到资产。</li>
-<p>提示： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">存档</a> 组智能列表，查询、报告或引用不再需要这些智能列表以帮助组织和性能。</td>
+<p>提示： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">正在存档</a> 不再需要的智能列表将有助于组织和性能。</td>
   </tr>
  </tbody> 
 </table>
 
-## 组列表 {#group-lists}
+## 静态列表 {#static-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:25%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
-   <td>组列表</td> 
-   <td><li>有哪些组列表？</li>
-<li>在本例中如何使用它们？</li></td>
+   <td>静态列表</td> 
+   <td><li>数量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">静态列表</a> 有吗？ 在本例中如何使用它们？</li></td>
   </tr>
  </tbody> 
 </table>
@@ -100,7 +99,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:25%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
