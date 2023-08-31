@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event计划 — Marketo文档 — 产品文档
-title: EV-YYYY-MM-DD-Event计划
+description: TS-YYYY-MM-DD-Tradeshow计划 — Marketo文档 — 产品文档
+title: TS-YYYY-MM-DD-Tradeshow计划
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 6%
+source-wordcount: '428'
+ht-degree: 4%
 
 ---
 
-# EV-YYYY-MM-DD-Event计划 {#ev-yyyy-mm-dd-event-program}
+# TS-YYYY-MM-DD-Tradeshow计划 {#ts-yyyy-mm-dd-tradeshow-program}
 
-这是一个活动计划的示例，该活动计划具有注册页面、三封邀请电子邮件以及利用Marketo Engage活动计划的后续电子邮件。 适合您需要注册的所有活动，包括路演、午餐、晚宴或贸易展活动演示。
+这是一个商展计划示例，该商展计划具有利用Marketo Engage活动计划的邀请和跟进电子邮件。
 
 如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
 
@@ -30,10 +30,11 @@ ht-degree: 6%
   <tr> 
    <td>Event</td> 
    <td>01 — 已邀请 
-<br/>02 — 轮候
-<br/>03 — 注册
-<br/>04 — 无节目
-<br/>05 — 出席 — 成功</td>
+   <br/>02 — 轮候
+   <br/>03 — 注册
+   <br/>04人参观的展位
+   <br/>05参与在展示中 — 成功
+   <br/>06参与的Post Show — 成功</td>
    <td>包含</td>
    <td>Event</td>
   </tr>
@@ -59,46 +60,7 @@ ht-degree: 6%
    <td>快速入门电子邮件模板</td>
    <td>02a — 电子邮件 — 邀请</td>
   </tr>
-  <tr> 
-   <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
-   <td>02b — 电子邮件 — 邀请提醒</td>
-  </tr>
-  <tr> 
-   <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
-   <td>02c — 电子邮件 — 邀请提醒最后机会</td>
-  </tr>
-  <tr> 
-   <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
-   <td>03 — 电子邮件 — 参加提醒</td>
-  </tr>
-  <tr> 
-   <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
-   <td>04a — 电子邮件 — 跟进 — 已参加</td>
-  </tr>
-  <tr> 
-   <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
-   <td>04b — 电子邮件 — 跟进 — NoShow</td>
-  </tr>
-  <tr> 
-   <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
-   <td>01a - LP — 注册</td>
-  </tr>
-  <tr> 
-   <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
-   <td>01b - LP — 谢谢</td>
-  </tr>
-  <tr> 
-   <td>表单</td> 
-   <td> </td>
-   <td>FM事件注册</td>
-  </tr>
+  <tr>
   <tr> 
    <td>本地报告</td> 
    <td> </td>
@@ -107,7 +69,7 @@ ht-degree: 6%
   <tr> 
    <td>本地报告</td> 
    <td> </td>
-   <td>登陆页面性能</td>
+   <td>项目绩效</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
@@ -117,37 +79,22 @@ ht-degree: 6%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01 — 流程注册</td>
+   <td>01 — 发送邀请</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02a — 发送邀请</td>
+   <td>02 — 在节目中参与（成功）</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02b — 发送邀请提醒</td>
+   <td>03 — 发送跟进电子邮件</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02c — 发送邀请最后机会</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>03 — 发送参加提醒</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>04 — 已参加（计划成功）</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>05 — 发送跟进电子邮件</td>
+   <td>04 — 通过跟进电子邮件参与（成功）</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
@@ -204,34 +151,18 @@ ht-degree: 6%
   </tr>
    <tr> 
    <td>富文本</td> 
-   <td><code>{{my.Content-Description}}</code></td>
-   <td>双击可查看详细信息  
-<br/><code><--My Content Description Here--></code> 
-<br/>在“我的令牌”选项卡下的程序级别编辑此内容描述。 
-<br/>您将了解： 
-<li>项目符号1</li>
-<li>项目符号2</li>
-<li>项目符号3</li></td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
+   <td><code>{{my.Event-Booth#}}</code></td>
+   <td><code><--My Booth Number--></code></td>
   </tr>
    <tr> 
    <td>文本</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
+   <td><code>{{my.Event-City}}</code></td>
+   <td><code><--My Event City Here--></code></td>
   </tr>
   <tr> 
    <td>文本</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
   </tr>
   <tr> 
    <td>文本</td> 
@@ -246,52 +177,7 @@ ht-degree: 6%
   <tr> 
    <td>文本</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>现场活动</td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.PageURL-Download}}</code></td>
-   <td>my.DownloadURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.PageURL-Registration}}</code></td>
-   <td>my.RegistrationPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Speaker1-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Speaker1-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Speaker2-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Speaker2-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Speaker3-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
- <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Speaker3-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
+   <td>商展</td>
   </tr>
  </tbody> 
 </table>
@@ -333,7 +219,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->不要忘记激活“06人参与（项目成功）”营销活动以跟踪成功！ 执行操作 _早于_ 您的表单已上线并发送电子邮件。
+>不要忘记激活“02参与次数（计划成功）”和“04参与次数(跟踪电子邮件（计划成功）”促销活动以跟踪成功！ 执行操作 _早于_ 您的电子邮件已发送。
 
 >[!IMPORTANT]
 >

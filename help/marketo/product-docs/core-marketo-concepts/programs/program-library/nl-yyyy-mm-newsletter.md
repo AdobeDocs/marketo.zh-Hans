@@ -1,19 +1,19 @@
 ---
-description: EM-YYYY-MM-DD-Single Email Send - Marketo文档 — 产品文档
-title: EM-YYYY-MM-DD-Single电子邮件发送
+description: NL-YYYY-MM-Newsletter - Marketo文档 — 产品文档
+title: NL-YYYY-MM-Newsletter
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '282'
 ht-degree: 4%
 
 ---
 
-# EM-YYYY-MM-DD-Single电子邮件发送 {#em-yyyy-mm-dd-single-email-send}
+# NL-YYYY-MM-Newsletter {#nl-yyyy-mm-newsletter}
 
-此示例利用Marketo Engage电子邮件程序发送一封电子邮件。 电子邮件可以包含或不包含A/B测试。
+此示例利用Marketo Engage电子邮件计划发送一封新闻稿电子邮件。 电子邮件可以包含或不包含A/B测试。
 
 如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
 
@@ -28,7 +28,7 @@ ht-degree: 4%
    <th>项目类型</th>
   </tr> 
   <tr> 
-   <td>电子邮件</td> 
+   <td>新闻稿</td> 
    <td>01个成员 
 <br/>02参与成功</td>
    <td>包含</td>
@@ -49,7 +49,7 @@ ht-degree: 4%
   <tr> 
    <td>电子邮件</td> 
    <td>快速入门电子邮件模板</td>
-   <td>01-Email — 谢谢</td>
+   <td>01 — 电子邮件</td>
   </tr>
   <tr> 
    <td>本地报告</td> 
@@ -65,13 +65,13 @@ ht-degree: 4%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01参与（计划成功）</td>
+   <td>01 — 参与（计划成功）</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
    <td> </td>
    <td>资产 — 容纳所有创意资产 
-<br/>（电子邮件和登陆页面的子文件夹）  </td>
+<br/>（电子邮件的子文件夹）  </td>
   </tr>
   <tr> 
    <td>文件夹</td> 

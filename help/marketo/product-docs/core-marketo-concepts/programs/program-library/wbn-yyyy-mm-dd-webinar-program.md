@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event计划 — Marketo文档 — 产品文档
-title: EV-YYYY-MM-DD-Event计划
+description: WBN-YYYY-MM-DD — 网络研讨会计划 — Marketo文档 — 产品文档
+title: WBN-YYYY-MM-DD — 网络研讨会计划
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 6%
+source-wordcount: '591'
+ht-degree: 5%
 
 ---
 
-# EV-YYYY-MM-DD-Event计划 {#ev-yyyy-mm-dd-event-program}
+# WBN-YYYY-MM-DD — 网络研讨会计划 {#wbn-yyyy-mm-dd-webinar-program}
 
-这是一个活动计划的示例，该活动计划具有注册页面、三封邀请电子邮件以及利用Marketo Engage活动计划的后续电子邮件。 适合您需要注册的所有活动，包括路演、午餐、晚宴或贸易展活动演示。
+这是一个网络研讨会计划示例，其中注册管理、三封邀请电子邮件、提醒参加以及利用Marketo Engage活动计划的跟进电子邮件。
 
 如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
 
@@ -30,12 +30,14 @@ ht-degree: 6%
   <tr> 
    <td>Event</td> 
    <td>01 — 已邀请 
-<br/>02 — 轮候
-<br/>03 — 注册
-<br/>04 — 无节目
-<br/>05 — 出席 — 成功</td>
+   <br/>02 — 轮候
+   <br/>03 — 已注册
+   <br/>04 — 无节目
+   <br/>05 — 已参加 — 成功
+   <br/>06 — 按需参加 — 成功</td>
    <td>包含</td>
-   <td>Event</td>
+   <td>Event
+   <p>（集成：活动与网络研讨会）</td>
   </tr>
  </tbody> 
 </table>
@@ -52,59 +54,65 @@ ht-degree: 6%
   <tr> 
    <td>电子邮件</td> 
    <td>快速入门电子邮件模板</td>
-   <td>01-Email — 谢谢</td>
+   <td>01 — 电子邮件 — 邀请</td>
   </tr>
    <tr> 
    <td>电子邮件</td> 
    <td>快速入门电子邮件模板</td>
-   <td>02a — 电子邮件 — 邀请</td>
+   <td>02 — 电子邮件 — 邀请提醒</td>
+  </tr>
+   <tr> 
+   <td>电子邮件</td> 
+   <td>快速入门电子邮件模板</td>
+   <td>03 — 电子邮件 — 邀请提醒 — 最后机会</td>
   </tr>
   <tr> 
    <td>电子邮件</td> 
    <td>快速入门电子邮件模板</td>
-   <td>02b — 电子邮件 — 邀请提醒</td>
+   <td>04 — 电子邮件 — 注册确认</td>
   </tr>
   <tr> 
    <td>电子邮件</td> 
    <td>快速入门电子邮件模板</td>
-   <td>02c — 电子邮件 — 邀请提醒最后机会</td>
+   <td>05 — 电子邮件 — 参加提醒</td>
   </tr>
   <tr> 
    <td>电子邮件</td> 
    <td>快速入门电子邮件模板</td>
-   <td>03 — 电子邮件 — 参加提醒</td>
+   <td>06 — 电子邮件 — 跟进 — 已参加</td>
   </tr>
   <tr> 
    <td>电子邮件</td> 
    <td>快速入门电子邮件模板</td>
-   <td>04a — 电子邮件 — 跟进 — 已参加</td>
+   <td>07 — 电子邮件 — 跟进 — 不显示 </td>
   </tr>
-  <tr> 
-   <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
-   <td>04b — 电子邮件 — 跟进 — NoShow</td>
-  </tr>
-  <tr> 
-   <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
-   <td>01a - LP — 注册</td>
-  </tr>
-  <tr> 
-   <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
-   <td>01b - LP — 谢谢</td>
-  </tr>
+  <tr>
   <tr> 
    <td>表单</td> 
    <td> </td>
    <td>FM事件注册</td>
   </tr>
   <tr> 
+   <td>登陆页面</td> 
+   <td>快速入门LP模板</td>
+   <td>01 - LP — 注册</td>
+  </tr>
+  <tr> 
+   <td>登陆页面</td> 
+   <td>快速入门LP模板</td>
+   <td>02 - LP — 谢谢</td>
+  </tr>
+  <tr> 
+   <td>登陆页面</td> 
+   <td>快速入门LP模板</td>
+   <td>03 - LP — 按需</td>
+  </tr>
+  <tr> 
    <td>本地报告</td> 
    <td> </td>
    <td>电子邮件性能</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>本地报告</td> 
    <td> </td>
    <td>登陆页面性能</td>
@@ -132,28 +140,33 @@ ht-degree: 6%
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02c — 发送邀请最后机会</td>
+   <td>02c — 发送邀请提醒最后机会</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
    <td>03 — 发送参加提醒</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
    <td>04 — 已参加（计划成功）</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
    <td>05 — 发送跟进电子邮件</td>
   </tr>
   <tr> 
+   <td>Smart Campaign</td> 
+   <td> </td>
+   <td>06 — 按需参加（计划成功）</td>
+  </tr>
+  <tr> 
    <td>文件夹</td> 
    <td> </td>
    <td>资产 — 容纳所有创意资产 
-<br/>（电子邮件和登陆页面的子文件夹）</td>
+<br/>(电子邮件、登陆页面和Forms的子文件夹)</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
@@ -184,6 +197,11 @@ ht-degree: 6%
   </tr>
   <tr> 
    <td>文本</td> 
+   <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
+   <td>my.DownloadURL?without=http:// </td>
+  </tr>
+  <tr> 
+   <td>文本</td> 
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
@@ -204,34 +222,14 @@ ht-degree: 6%
   </tr>
    <tr> 
    <td>富文本</td> 
-   <td><code>{{my.Content-Description}}</code></td>
+   <td><code>{{my.Event-Description}}</code></td>
    <td>双击可查看详细信息  
-<br/><code><--My Content Description Here--></code> 
-<br/>在“我的令牌”选项卡下的程序级别编辑此内容描述。 
+<br/><code><--My Event Description Here--></code> 
+<br/>在“我的令牌”选项卡下的程序级别编辑此事件描述。 
 <br/>您将了解： 
 <li>项目符号1</li>
 <li>项目符号2</li>
 <li>项目符号3</li></td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
-  </tr>
-   <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
-  </tr>
-  <tr> 
-   <td>文本</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
   </tr>
   <tr> 
    <td>文本</td> 
@@ -246,7 +244,7 @@ ht-degree: 6%
   <tr> 
    <td>文本</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>现场活动</td>
+   <td>网络研讨会</td>
   </tr>
   <tr> 
    <td>文本</td> 
@@ -258,7 +256,7 @@ ht-degree: 6%
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>文本</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
@@ -320,6 +318,8 @@ ht-degree: 6%
 
 ## 最佳实践 {#best-practices}
 
+* 如果您使用的是集成的网络研讨会提供商，请不要忘记将Marketo Engage程序连接到托管系统中的网络研讨会。
+
 * 导入网络研讨会程序后，将表单从本地资产移动到位于Design Studio中的全局资产。
    * 减少表单数量并利用Design Studio中的更多全局资产，可在程序设计和管理中实现更大的可扩展性。 它还提供了灵活性，可以定期更新字段、选择加入语言等的合规性。
 
@@ -333,7 +333,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->不要忘记激活“06人参与（项目成功）”营销活动以跟踪成功！ 执行操作 _早于_ 您的表单已上线并发送电子邮件。
+>不要忘记激活“04人参加（项目成功）”和“06人参加（项目成功）”促销活动以跟踪成功！ 执行操作 _早于_ 您的电子邮件已发送。
 
 >[!IMPORTANT]
 >
