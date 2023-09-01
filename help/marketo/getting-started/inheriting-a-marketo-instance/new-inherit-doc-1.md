@@ -3,9 +3,9 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1429'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->如果您是新Marketo Engage用户并且不熟悉许多术语，请查看 [Marketo术语表](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>如果您是新Marketo Engage用户并且不熟悉许多术语，请查看 [Marketo Engage术语表](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## AdobeIdentity Management {#adobe-identity-management}
 

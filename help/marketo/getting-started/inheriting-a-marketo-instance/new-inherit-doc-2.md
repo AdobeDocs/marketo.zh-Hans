@@ -3,14 +3,14 @@ description: 继承文档2 - Marketo文档 — 产品文档
 title: 继承文档2
 hide: true
 hidefromtoc: true
-source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '366'
 ht-degree: 1%
 
 ---
 
-# 继承文档2 {#inherit-doc-2}
+# 审核数据库核对清单 {#inherit-doc-2}
 
 了解您的订阅中的总人数、可营销人员和主要人员获取来源。
 

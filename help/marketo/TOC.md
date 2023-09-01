@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '9065'
+source-wordcount: '9066'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
    + [快速入门](getting-started.md)
    + [什么是Adobe Marketo Engage？](getting-started/what-is-adobe-marketo-engage.md)
    + [帮助中心](getting-started/help-center.md)
-   + [Marketo术语表](getting-started/marketo-glossary.md)
+   + [Marketo Engage术语表](getting-started/marketo-engage-glossary.md)
    + [Classic图标术语表](getting-started/classic-icon-glossary.md)
    + 设置 {#setup}
       + [设置步骤](getting-started/setup/setup-steps.md)
