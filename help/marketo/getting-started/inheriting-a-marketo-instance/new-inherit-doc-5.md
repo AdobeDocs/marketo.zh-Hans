@@ -3,9 +3,9 @@ description: 继承文档5 - Marketo文档 — 产品文档
 title: 继承文档5
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 2%
   <tr> 
    <td>数据字典</td> 
    <td><li>是否有单独的数据字典来解释可用的字段？
-   <br/>     如果不能，请考虑创建一个。</li></td>
+   <br/>     如果没有，请考虑在营销运营团队可访问的文件夹中创建一个。</li></td>
   </tr>
   <tr> 
    <td>组织</td> 
