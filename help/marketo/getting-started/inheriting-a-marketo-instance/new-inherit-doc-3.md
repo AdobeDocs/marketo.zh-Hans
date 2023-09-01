@@ -3,23 +3,23 @@ description: 继承文档3 - Marketo文档 — 产品文档
 title: 继承文档3
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
 
 # 继承文档3 {#inherit-doc-3}
 
-营销活动是您的营销团队可以在其中创建智能营销活动、构建创意资产（例如电子邮件和登陆页面）并查看资产绩效的地方。
+正确组织“营销活动”部分，以帮助其他人查找和管理您的Marketo Engage实例中的各种项目，并确保处理好人员以便将其从“营销”传递到“销售”。
 
 ## 组织 {#organization}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -33,7 +33,7 @@ ht-degree: 0%
   <tr> 
    <td>程序</td> 
    <td><li>公斤 — 这是否仍然相关 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">卓越中心</a> 使用计划模板？ 
-   <br/>如果是，项目模板对团队的用例是否有意义？</li>
+   <br/>     如果是，项目模板对团队的用例是否有意义？</li>
 <li>程序类型相似 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">结构一致</a>？</li>
 <li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期间成本</a> 就位？</li>
 <li>是所有项目群 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">已同步到SFDC营销活动</a> （如果适用）？</li>
@@ -64,22 +64,22 @@ ht-degree: 0%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
    <td>令牌</td> 
-   <td><li>令牌是否在您最常用的程序类型中使用？ 
-   <br/>否则，应考虑使用它们来提高效率。</li>
+   <td><li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">令牌</a> 是否用于您最常用的程序类型？ 
+   <br/>     否则，应考虑使用它们来提高效率。</li>
 <li>如果实施了令牌，那么是否有全局文件夹令牌？ 它们是如何被使用的？</li></td>
   </tr>
   <tr> 
    <td>参与计划</td> 
    <td><li>有实时吗 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">参与计划</a> 正在运行？</li>
 <li>数量 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">人们筋疲力尽</a>？ 
-<br/>如果有很多人筋疲力尽，请考虑添加内容。</li>
-<li>用户是否参与内容？ 
-<br/>如果没有，请考虑更新它和/或A/B测试。</li></td>
+<br/>     如果有很多筋疲力尽的人，请考虑 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">添加内容</a>.</li>
+<li>是否为人员 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">使用内容</a>？ 
+<br/>     如果没有，请考虑更新它和/或A/B测试。</li></td>
   </tr>
   <tr> 
    <td>批量活动</td> 
@@ -116,7 +116,7 @@ ht-degree: 0%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -140,7 +140,7 @@ ht-degree: 0%
   <tr> 
    <td>隐私和合规性</td> 
    <td><li>您是否有确保遵守数据隐私和垃圾邮件法律的程序？ 
-   <br/>考虑 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、 CASL 、 CAN-SPAM 、 CCPA等。</li>
+   <br/>     考虑 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、 CASL 、 CAN-SPAM 、 CCPA等。</li>
 <p>提示：请记住在这些问题上始终咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
   </tr>
   <tr> 

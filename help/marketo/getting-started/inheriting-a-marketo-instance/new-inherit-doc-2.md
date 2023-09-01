@@ -3,7 +3,7 @@ description: 继承文档2 - Marketo文档 — 产品文档
 title: 继承文档2
 hide: true
 hidefromtoc: true
-source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 1%
@@ -19,7 +19,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -27,7 +27,7 @@ ht-degree: 1%
    <td><li>有多少人存在于 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">数据库</a>？</li>
 <li>如果数据库已接近满，您的公司策略是否建议扩大数据库大小或清除历史数据？</li>
 <li>您的总体数据库是否至少有85%是适销的？ 
-<br/>列入阻止列表如果您未达到此阈值，请仔细查看其他系统智能列表（、营销暂停、重复、取消订阅）。</li></td>
+<br/>     列入阻止列表如果您未达到此阈值，请仔细查看其他系统智能列表（、营销暂停、重复、取消订阅）。</li></td>
   </tr>
   <tr> 
    <td>已取消订阅的人员</td> 
@@ -52,12 +52,12 @@ ht-degree: 1%
   <tr> 
    <td>可能的重复项</td> 
    <td><li>数量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">可能重复的记录</a> 有吗？
-   <br/>请考虑删除或合并它们。</li></td>
+   <br/>     请考虑删除或合并它们。</li></td>
   </tr>
    <tr> 
    <td>无客户获取计划</td> 
    <td><li>有多少人没有 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">客户获取计划</a>？
-   <br/>如果有很多，请考虑调查原因。</li></td>
+   <br/>     如果有很多，请考虑调查原因。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -67,13 +67,14 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
    <td>智能列表</td> 
    <td><li>数量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">智能列表</a> 有吗？ 在本例中如何使用它们？</li>
-<li>列表是否以具有凝聚力的文件夹结构组织？ <br/>如果您有孤立列表，请考虑组织您的树，以便轻松找到资产。</li>
+<li>列表是否以具有凝聚力的文件夹结构组织？ 
+<br/>     如果您有孤立列表，请考虑组织您的树，以便轻松找到资产。</li>
 <p>提示： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">正在存档</a> 不再需要的智能列表将有助于组织和性能。</td>
   </tr>
  </tbody> 
@@ -84,7 +85,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -99,7 +100,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -107,7 +108,7 @@ ht-degree: 1%
    <td><li>哪个 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">分段</a> 有吗？ 它们是如何被使用的？</li>
 <li>有太多人在 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">默认区段</a>？</li>
 <li>是否有针对可营销受众的分段？ 
-<br/>如果不能，请考虑创建一个。</li></td>
+<br/>     如果不能，请考虑创建一个。</li></td>
   </tr>
  </tbody> 
 </table>

@@ -3,9 +3,9 @@ description: 继承文档4 - Marketo文档 — 产品文档
 title: 继承文档4
 hide: true
 hidefromtoc: true
-source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '513'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -46,7 +46,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -65,7 +65,7 @@ ht-degree: 1%
   <tr> 
    <td>隐私和合规性</td> 
    <td><li>您的表单策略是否与企业数据隐私和选择加入要求保持一致？ 
-   <br/>考虑 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">通用数据保护条例(GDPR)</a>、CASL（加拿大反垃圾邮件法）、2003年控制非请求性色情制品攻击和营销法案(CAN-SPAM)、加州消费者隐私法案(CCPA)等，以符合法规。</li>
+   <br/>     考虑 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">通用数据保护条例(GDPR)</a>、加拿大的反垃圾邮件法(CASL)、2003年控制非请求的色情制品攻击和营销法案(CAN-SPAM)、加州消费者隐私法案(CCPA)等，以符合法规。</li>
 <p>提示：请记住在这些问题上始终咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
   </tr>
  </tbody> 
@@ -76,7 +76,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -104,13 +104,13 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
    <td>代码片段</td> 
    <td><li>数量 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">片段</a> 有吗？ 它们是否正在被使用？ 
-   <br/>如果没有，请考虑将其用于 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">电子邮件</a> 和 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">登陆页面</a> 页脚内容、徽标等。</li></td>
+   <br/>     如果没有，请考虑将其用于 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">电子邮件</a> 和 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">登陆页面</a> 页脚内容、徽标等。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,7 +120,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -134,7 +134,7 @@ ht-degree: 1%
   <tr> 
    <td>图像和文件</td> 
    <td><li>执行任何图像或文件 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">在网页上引用</a> 是否需要更新？ 
-   <p>示例：硬编码URL结构可能需要更新，例如 <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>示例：硬编码URL结构 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">可能需要更新</a>，例如 <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>请与您的Web开发人员合作，确定可能需要进行更新的位置。</li></td>
   </tr>
  </tbody> 
@@ -145,13 +145,13 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
    <td>资源状态</td> 
    <td><li>有多少资产在 <i>草稿</i> 和 <i>已审批，草稿</i> 状态？
-   <br/>如果有多个文件夹，请考虑删除或批准这些文件夹。</li></td>
+   <br/>     如果有多个文件夹，请考虑删除或批准这些文件夹。</li></td>
   </tr>
   <tr> 
    <td>资产共享</td> 

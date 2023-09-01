@@ -3,7 +3,7 @@ description: 继承文档5 - Marketo文档 — 产品文档
 title: 继承文档5
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>区域</th> 
+   <th style="width:20%">区域</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
    <td>数据字典</td> 
    <td><li>是否有单独的数据字典来解释可用的字段？
-   <br/>如果不能，请考虑创建一个。</li></td>
+   <br/>     如果不能，请考虑创建一个。</li></td>
   </tr>
   <tr> 
    <td>组织</td> 
@@ -60,7 +60,7 @@ ht-degree: 2%
   <tr> 
    <td>行动手册</td> 
     <td><li>您的组织具有用户还是管理员剧本？ 
-    <br/>如果是这样，请相应地更新这些参数。</li></td>
+    <br/>     如果是这样，请相应地更新这些参数。</li></td>
   </tr>
   <tr> 
    <td>与内部利益相关者的对话</td> 
