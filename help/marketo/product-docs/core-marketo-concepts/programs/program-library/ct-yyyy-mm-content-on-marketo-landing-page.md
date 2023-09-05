@@ -4,9 +4,9 @@ title: Marketo登录页面上的CT-YYYY-MM-Content
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '479'
 ht-degree: 3%
 
 ---
@@ -48,23 +48,23 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>01-Email — 谢谢</td>
   </tr>
   <tr> 
    <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入门LP模板</a></td>
    <td>01 - LP — 注册</td>
   </tr>
   <tr> 
    <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入门LP模板</a></td>
    <td>02 - LP — 谢谢</td>
   </tr>
   <tr> 
    <td>表单</td> 
    <td> </td>
-   <td>内容注册表</td>
+   <td>FM — 内容注册表</td>
   </tr>
   <tr> 
    <td>本地报告</td> 
@@ -76,21 +76,26 @@ ht-degree: 3%
    <td> </td>
    <td>登陆页面性能</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01填写表单</td>
+   <td>00 — 捕获客户获取计划</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02参与（计划成功）</td>
+   <td>01 — 填写表单</td>
+  </tr>
+  <tr> 
+   <td>Smart Campaign</td> 
+   <td> </td>
+   <td>02 — 参与（计划成功）</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
    <td> </td>
    <td>资产 — 包含所有创意资产 
-<br/>（电子邮件和登陆页面的子文件夹）  </td>
+<br/>(电子邮件、登陆页面和Forms的子文件夹)  </td>
   </tr>
   <tr> 
    <td>文件夹</td> 

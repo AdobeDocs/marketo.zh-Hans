@@ -4,9 +4,9 @@ title: OA-YYYY-MM-Online Advertising Marketo登录页面
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 3%
 
 ---
@@ -29,8 +29,8 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>在线广告</td> 
-   <td>01个成员 
-<br/>02参与成功</td>
+   <td>01 — 成员 
+<br/>02 — 参与 — 成功</td>
    <td>包含</td>
    <td>默认</td>
   </tr>
@@ -53,17 +53,17 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>01-Email — 谢谢</td>
   </tr>
   <tr> 
    <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入门LP模板</a></td>
    <td>01 - LP — 注册</td>
   </tr>
    <tr> 
    <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入门LP模板</a></td>
    <td>02 - LP — 谢谢</td>
   </tr>
    <tr> 
@@ -84,12 +84,12 @@ ht-degree: 3%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01填写表单</td>
+   <td>01 — 填写表单</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02参与（计划成功）</td>
+   <td>02 — 参与（计划成功）</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
@@ -207,7 +207,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->不要忘记激活“02参与”营销活动以跟踪成功！ 执行操作 _早于_ 您的表单已上线并发送电子邮件。
+>不要忘记激活“02 — 参与（项目成功）”营销活动以跟踪成功！ 执行操作 _早于_ 您的表单已上线并发送电子邮件。
 
 >[!IMPORTANT]
 >

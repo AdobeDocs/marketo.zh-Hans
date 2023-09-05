@@ -4,9 +4,9 @@ title: TS-YYYY-MM-DD-Tradeshow计划
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '416'
 ht-degree: 4%
 
 ---
@@ -52,12 +52,12 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>01-Email — 谢谢</td>
   </tr>
    <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>02a — 电子邮件 — 邀请</td>
   </tr>
   <tr>
@@ -84,17 +84,12 @@ ht-degree: 4%
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02 — 在节目中参与（成功）</td>
+   <td>02 — 发送跟进电子邮件</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>03 — 发送跟进电子邮件</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>04 — 通过跟进电子邮件参与（成功）</td>
+   <td>03 — 通过跟进电子邮件参与（成功）</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
@@ -219,7 +214,7 @@ ht-degree: 4%
 
 >[!TIP]
 >
->不要忘记激活“02参与次数（计划成功）”和“04参与次数(跟踪电子邮件（计划成功）”促销活动以跟踪成功！ 执行操作 _早于_ 您的电子邮件已发送。
+>不要忘记激活“03 — 通过跟进电子邮件参与（计划成功）”营销活动以跟踪成功！ 执行操作 _早于_ 您的电子邮件已发送。
 
 >[!IMPORTANT]
 >
