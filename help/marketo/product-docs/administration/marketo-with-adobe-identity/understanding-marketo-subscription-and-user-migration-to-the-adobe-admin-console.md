@@ -3,7 +3,7 @@ description: 了解Marketo订阅和用户迁移到Adobe Admin Console - Marketo�
 title: 了解Marketo订阅和用户迁移到Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: c3214b440a1bfc9d54551f50e364935d66286764
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Marketo产品管理员将：
 
 >[!NOTE]
 >
->由于迁移的复杂程度，日期更改限制在计划日期后的30天内有效。 如果您需要更晚的日期，请发送电子邮件至marketocares@adobe.com 。
+>由于迁移的复杂程度，日期更改限制在计划日期后的30天内有效。 如果您需要更晚的日期，请发送电子邮件至marketocares@marketo.com 。
 
 * 查看“我的Marketo”中的横幅，其中显示用户迁移开始日期的倒计时。
 
@@ -97,4 +97,4 @@ Marketo产品管理员将：
 
 ## 获取支持 {#get-support}
 
-有关您的订阅或用户迁移的其他支持，请发送电子邮件至marketocares@adobe.com。
+有关您的订阅或用户迁移的其他支持，请发送电子邮件至marketocares@marketo.com。
