@@ -4,7 +4,7 @@ title: 业务线索管理
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 2%
@@ -61,7 +61,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>01 — 电子邮件 — 警报 — MQL</td>
   </tr>
   <tr> 

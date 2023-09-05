@@ -3,9 +3,9 @@ description: 预测过滤器 — Marketo文档 — 产品文档
 title: 预测过滤器
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->“可能参加”和“可能注册”过滤器只能在“事件”或“电子邮件”程序中使用。 “取消订阅的可能性”、“项目成员的相似程度”和“智能列表成员的相似程度”可用于所有项目类型。
+>“可能参加”和“可能注册”过滤器只能在“事件程序”中使用。 “取消订阅的可能性”、“项目成员的相似程度”和“智能列表成员的相似程度”可用于所有项目类型。
 
 ## 出席的可能性 {#likelihood-to-attend}
 

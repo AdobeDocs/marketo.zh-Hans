@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Marketo Engage参考库包括多个入门程序，您可以直接导入到Marketo实例中，以快速开始构建将帮助支持您团队的程序。
 
-该库包括以下项目：电子邮件、参与、事件、评分、可投放性和可操作性。 所有计划均由Adobe产品团队制定，并由我们的全球专业服务团队审核，以尽量提高质量和效率。
+该库包括以下项目：电子邮件、参与、事件、评分、可投放性和可操作性。 所有计划均由Adobe产品团队制定，并由我们的 [全球专业服务](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 才能最大程度地提高质量和效率。
 
 ## 可用程序示例 {#available-program-examples}
 

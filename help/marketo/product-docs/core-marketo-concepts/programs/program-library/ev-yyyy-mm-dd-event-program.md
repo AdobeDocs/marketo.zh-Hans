@@ -4,7 +4,7 @@ title: EV-YYYY-MM-DD-Event计划
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 6%
@@ -51,47 +51,47 @@ ht-degree: 6%
   </tr> 
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>01-Email — 谢谢</td>
   </tr>
    <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>02a — 电子邮件 — 邀请</td>
   </tr>
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>02b — 电子邮件 — 邀请提醒</td>
   </tr>
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>02c — 电子邮件 — 邀请提醒最后机会</td>
   </tr>
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>03 — 电子邮件 — 参加提醒</td>
   </tr>
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>04a — 电子邮件 — 跟进 — 已参加</td>
   </tr>
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>04b — 电子邮件 — 跟进 — NoShow</td>
   </tr>
   <tr> 
    <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入门LP模板</a></td>
    <td>01a - LP — 注册</td>
   </tr>
   <tr> 
    <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入门LP模板</a></td>
    <td>01b - LP — 谢谢</td>
   </tr>
   <tr> 

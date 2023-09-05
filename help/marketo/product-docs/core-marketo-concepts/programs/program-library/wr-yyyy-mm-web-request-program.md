@@ -4,7 +4,7 @@ title: WR-YYYY-MM-Web请求程序
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 3%
@@ -52,17 +52,17 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>警报 — Web请求</td>
   </tr>
   <tr> 
    <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入门LP模板</a></td>
    <td>01 - LP — 请求</td>
   </tr>
   <tr> 
    <td>登陆页面</td> 
-   <td>快速入门LP模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入门LP模板</a></td>
    <td>02 - LP — 谢谢</td>
   </tr>
   <tr> 

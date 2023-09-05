@@ -4,7 +4,7 @@ title: CT-YYYY-MM-Content非Marketo登录页面
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 3%
@@ -48,7 +48,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>电子邮件</td> 
-   <td>快速入门电子邮件模板</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>01-Email — 谢谢</td>
   </tr>
   <tr> 
