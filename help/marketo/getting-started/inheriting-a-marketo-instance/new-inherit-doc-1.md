@@ -3,9 +3,9 @@ description: 继承文档1 - Marketo文档 — 产品文档
 title: 继承文档1
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1433'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 1%
 <li>您是否已被授予“Marketo Engage产品管理员”角色(Marketo Engage/管理员/用户和角色)？</li> 
 <li>您是否已经将Marketo Engage分配给Adobe Admin Console中所有相应的用户的产品配置文件？
 <br/>     如果不能，请确保先为其Adobe IMS产品配置文件分配Marketo Engage，然后再分配其Marketo Engage/管理员/用户和角色角色。</li>
-<p>注意：如果您的订阅具有75个以上的用户，并且您刚刚迁移到Adobe IMS，则您可以选择成批迁移的用户并管理其Adobe标识或一次管理所有用户。 详细了解期待完成的任务 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS迁移日</a>.</td>
+<p><img src="assets/note-icon-25.png" alt="注释图标">注意：如果您的订阅具有75个以上的用户，并且您刚刚迁移到Adobe IMS，则您可以选择分批迁移并管理其Adobe标识的用户，也可以一次性管理这些用户。 详细了解期待完成的任务 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS迁移日</a>.</td>
   </tr>
   <tr> 
    <td>用户管理API</td> 
@@ -261,7 +261,7 @@ ht-degree: 1%
    <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin跟踪代码</a> (不在Marketo中)？</li>
 <li>是 <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">不跟踪</a> 是否启用了浏览器请求？</li>
 <li>是您的 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 已配置？ 
-<p>提示：如果您缺少有关munchkin代码在您的网站上的位置的文档，则可以通过创建 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">网页活动报表</a>.</li></td>
+<p><img src="assets/tip-icon-25.png" alt="注释图标">提示：如果您缺少有关munchkin代码在您的网站上的位置的文档，则可以通过创建 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">网页活动报表</a>.</li></td>
   </tr>
   <tr> 
    <td>Web服务</td> 
