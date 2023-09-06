@@ -3,9 +3,9 @@ description: 继承文档3 - Marketo文档 — 产品文档
 title: 继承文档3
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '806'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
    <td>存档</td> 
    <td><li>是旧程序 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">已存档</a>？</li>
 <li>您的公司多久审阅一次旧程序并将其存档？</li>
-<p>提示：每年进行一次审查很好。</td>
+<p><img src="assets/tip-icon.png" alt="提示图标">提示：每年进行一次审查很好。</td>
   </tr>
   <tr> 
    <td>通知</td> 
@@ -54,7 +54,7 @@ ht-degree: 0%
    <td>智能列表订阅 
    <br/>（“营销活动/订阅”选项卡）</td> 
    <td><li>是否正在进行 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">智能列表订阅</a> 在您的实例中？ 如果是，他们会向谁求助？</li>
-<p>提示：请考虑设置智能列表订阅以转到团队别名，而不是个人。 如果有人不在办公室，这将涵盖您。</td>
+<p><img src="assets/tip-icon.png" alt="提示图标">提示：请考虑设置智能列表订阅以转到团队别名而不是个人。 如果有人不在办公室，这将涵盖您。</td>
   </tr>
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ ht-degree: 0%
    <td>本地Forms</td> 
    <td><li>有多少程序具有本地 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">表单</a>？ 这些形式是否应变成全球形式？</li>
 <li>他们是否为您的营销和销售团队捕获合适的数据？</li>
-<p>提示：限制本地表单的数量，以方便根据数据隐私和选择启用/选择禁用策略进行更新并与更改保持一致。 创建表单时，需要问哪些问题？ 如果收集的信息没有变化，并且高级表单功能没有变化，请考虑使用全局表单，而不是本地表单。</td>
+<p><img src="assets/tip-icon.png" alt="提示图标">提示：限制本地表单的数量，以方便更新并与数据隐私和选择启用/选择禁用策略中的更改保持一致。 创建表单时，需要问哪些问题？ 如果收集的信息没有变化，并且高级表单功能没有变化，请考虑使用全局表单，而不是本地表单。</td>
   </tr>
   <tr> 
    <td>全局Forms</td> 
@@ -127,7 +127,7 @@ ht-degree: 0%
   <tr> 
    <td>人员来源</td> 
    <td><li>您是否有一个集中式程序为人员来源字段分配值？</li>
-<p>注意：无论运行程序如何，Marketo Engage都会自动收集源字段中的数据。</td>
+<p><img src="assets/note-icon.png" alt="注释图标"> 注：无论运行程序如何，Marketo Engage都会自动收集源字段中的数据。</td>
   </tr>
   <tr> 
    <td>数据标准化</td> 
@@ -141,7 +141,7 @@ ht-degree: 0%
    <td>隐私和合规性</td> 
    <td><li>您是否有确保遵守数据隐私和垃圾邮件法律的程序？ 
    <br/>     考虑 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、 CASL 、 CAN-SPAM 、 CCPA等。</li>
-<p>提示：请记住在这些问题上始终咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
+<p><img src="assets/tip-icon.png" alt="提示图标">提示：请记住在这些问题上始终咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
   </tr>
   <tr> 
    <td>生命周期</td> 

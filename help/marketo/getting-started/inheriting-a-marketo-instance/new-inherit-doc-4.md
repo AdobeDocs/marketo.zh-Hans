@@ -3,9 +3,9 @@ description: 继承文档4 - Marketo文档 — 产品文档
 title: 继承文档4
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '521'
 ht-degree: 1%
 
 ---
@@ -60,13 +60,13 @@ ht-degree: 1%
   <tr> 
    <td>数据标准化</td> 
    <td><li>是您的 <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">表单字段</a> 主要是选择列表还是打开文本字段？</li>
-<p>提示：如果它们是打开文本字段，请考虑将其切换到选择列表以防止数据混乱。</td>
+<p><img src="assets/tip-icon.png" alt="提示图标">提示：如果它们是打开文本字段，请考虑将其切换到选择列表以防止数据混乱。</td>
   </tr>
   <tr> 
    <td>隐私和合规性</td> 
    <td><li>您的表单策略是否与企业数据隐私和选择加入要求保持一致？ 
    <br/>     考虑 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">通用数据保护条例(GDPR)</a>、加拿大的反垃圾邮件法(CASL)、2003年控制非请求的色情制品攻击和营销法案(CAN-SPAM)、加州消费者隐私法案(CCPA)等，以符合法规。</li>
-<p>提示：请记住在这些问题上始终咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
+<p><img src="assets/tip-icon.png" alt="提示图标">提示：请记住在这些问题上始终咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ ht-degree: 1%
   <tr> 
    <td>隐私和合规性</td> 
    <td><li>您的所有电子邮件是否都有适当的页脚？ 考虑GDPR、CASL、CAN-SPAM、CCPA等 了解合规影响。</li>
-<p>提示：请记住，请始终就这些合规性问题咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
+<p><img src="assets/tip-icon.png" alt="提示图标">提示：请记住，请始终就这些合规性问题咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ ht-degree: 1%
   <tr> 
    <td>资产共享</td> 
    <td><li>哪些资产是 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">在工作区之间共享</a>？</li>
-   <p>注意：了解这一点很重要，因为在一个工作区中执行的操作可能会导致其他用户无法访问其他工作区中的资产。</td>
+   <p><img src="assets/note-icon.png" alt="注释图标"> 注意：了解这一点很重要，因为在一个工作区中执行的操作可能会导致其他用户无法访问其他工作区中的资产。</td>
   </tr>
  </tbody> 
 </table>

@@ -3,9 +3,9 @@ description: 继承文档2 - Marketo文档 — 产品文档
 title: 继承文档2
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 1%
 
 ---
@@ -75,7 +75,7 @@ ht-degree: 1%
    <td><li>数量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">智能列表</a> 有吗？ 在本例中如何使用它们？</li>
 <li>列表是否以具有凝聚力的文件夹结构组织？ 
 <br/>     如果您有孤立列表，请考虑组织您的树，以便轻松找到资产。</li>
-<p>提示： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">正在存档</a> 不再需要的智能列表将有助于组织和性能。</td>
+<p><img src="assets/tip-icon.png" alt="提示图标">提示： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">正在存档</a> 不再需要的智能列表将有助于组织和性能。</td>
   </tr>
  </tbody> 
 </table>

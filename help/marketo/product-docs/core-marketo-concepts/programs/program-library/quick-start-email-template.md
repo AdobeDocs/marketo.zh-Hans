@@ -4,9 +4,9 @@ title: 快速入门电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Marketo Engage电子邮件编辑器提供了一些功能，可帮助您更改布
    * 模块的底部填充
    * 模块的背景颜色
    * 徽标对齐
-* PICC
+* ![](assets/quick-start-email-template-1.png)
 
 ### 图像模块 {#image-module}
 
@@ -46,7 +46,7 @@ Marketo Engage电子邮件编辑器提供了一些功能，可帮助您更改布
    * 模块顶部填充
    * 模块的底部填充
    * 模块的背景颜色
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### 标题模块 {#headline-module}
 
@@ -58,7 +58,7 @@ Marketo Engage电子邮件编辑器提供了一些功能，可帮助您更改布
    * 标题的字体大小（也可以在富文本编辑器中编辑它）
    * 标题的字体颜色（也可以在富文本编辑器中编辑此颜色）
    * 标题文本的对齐方式（这也可以在富文本编辑器中编辑）
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### 副标题模块 {#subheadline-module}
 
@@ -70,7 +70,7 @@ Marketo Engage电子邮件编辑器提供了一些功能，可帮助您更改布
    * 子标题的字体大小（也可以在富文本编辑器中编辑它）
    * 子标题的字体颜色（也可以在富文本编辑器中编辑它）
    * 副标题文本的对齐方式（这也可以在富文本编辑器中编辑）
-* PICC
+* ![](assets/quick-start-email-template-4.png)
 
 ### 自由文本模块 {#free-text-module}
 
@@ -82,7 +82,7 @@ Marketo Engage电子邮件编辑器提供了一些功能，可帮助您更改布
    * 文本的字体大小（也可以在富文本编辑器中编辑此大小）
    * 文本的字体颜色（也可以在富文本编辑器中编辑此颜色）
    * 文本的对齐方式（这也可以在富文本编辑器中编辑）
-* PICC
+* ![](assets/quick-start-email-template-5.png)
 
 ### CTA模块 {#cta-module}
 
@@ -97,7 +97,7 @@ Marketo Engage电子邮件编辑器提供了一些功能，可帮助您更改布
    * CTA URL
    * CTA文本
    * CTA对齐方式
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### 分隔线模块 {#divider-module}
 
@@ -108,7 +108,7 @@ Marketo Engage电子邮件编辑器提供了一些功能，可帮助您更改布
    * 分隔线颜色
    * 分隔线高度（以像素为单位）
    * 分隔线宽度(%)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### 页脚模块 {#footer-module}
 
@@ -120,4 +120,4 @@ Marketo Engage电子邮件编辑器提供了一些功能，可帮助您更改布
    * 模块的背景颜色
    * 文本颜色
    * 内容对齐方式
-* PICC
+* ![](assets/quick-start-email-template-8.png)

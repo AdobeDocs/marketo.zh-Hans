@@ -4,9 +4,9 @@ title: 快速入门登陆页面模板
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Marketo Engage参考库中的一些入门项目包含一个简单、易于使用
    * 显示或隐藏部分
    * 部分的顶部填充
    * 部分的底部填充
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### 图像部分 {#image-section}
 
@@ -42,7 +42,7 @@ Marketo Engage参考库中的一些入门项目包含一个简单、易于使用
    * 横幅图像链接
    * 横幅宽度 — 通过右下方的其中一个开关，您可以将图像设置为内容容器的宽度或整个浏览器的宽度
    * 显示或隐藏部分
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### 左侧2列文本，右侧窗体 {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Marketo Engage参考库中的一些入门项目包含一个简单、易于使用
    * 显示或隐藏整个部分
    * 仅显示或隐藏表单(隐藏表单会导致左栏中的文本填充页面宽度。 这可用于感谢或确认页面，其中不存在表单。)
    * 显示或隐藏隐私策略文本
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### 视频部分 {#video-section}
 
@@ -66,7 +66,7 @@ Marketo Engage参考库中的一些入门项目包含一个简单、易于使用
    * 视频嵌入代码
    * 显示/隐藏视频标题
    * 显示/隐藏视频
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### 页脚部分 {#footer-section}
 
@@ -76,7 +76,7 @@ Marketo Engage参考库中的一些入门项目包含一个简单、易于使用
    * 部分的背景颜色
    * 社交图标颜色
    * 显示/隐藏部分
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### 其他变量 {#additional-variables}
 
