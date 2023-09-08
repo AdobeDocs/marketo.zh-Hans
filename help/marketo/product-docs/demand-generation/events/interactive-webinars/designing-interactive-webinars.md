@@ -3,9 +3,9 @@ description: 设计交互式网络研讨会 — Marketo文档 — 产品文档
 title: 设计交互式网络研讨会
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ ht-degree: 0%
 1. 您的网络研讨会预览将会出现。
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!TIP]
+   >
+   >您的网络研讨会将设置为Marketo Engage实例中的默认语言，但您可以选择使用预览上方的下拉菜单基于每个网络研讨会更改语言。
 
 1. 您可以选取不同的布局进行预览。 要继续，请单击 **使用模板**.
 

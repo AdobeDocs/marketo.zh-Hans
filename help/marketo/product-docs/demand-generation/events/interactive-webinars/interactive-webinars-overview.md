@@ -3,9 +3,9 @@ description: 交互式网络研讨会概述 — Marketo文档 — 产品文档
 title: 交互式网络研讨会概述
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 0%
 **是否需要单独订阅才能使用交互式网络研讨会？**
 
 否. 使用交互式网络研讨会只需要有效的Marketo Engage订阅。
+
+**交互式网络研讨会有哪些语言可用？**
+
+互动式网络研讨会以Marketo支持的所有六种语言提供：英语、法语、德语、日语、葡萄牙语和西班牙语。 Adobe Connect以及在网络研讨会通过交互式网络研讨会交付内容期间，也支持相同的语言。
 
 **我已用完了所包含的交互式网络研讨会。 如何获得更多会话或更大的容量？**
 
