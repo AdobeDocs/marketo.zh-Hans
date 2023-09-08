@@ -4,9 +4,9 @@ title: 初始设置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -75,106 +75,251 @@ ht-degree: 0%
 
 ### Dynamic Chat触发令牌 {#dynamic-chat-trigger-tokens}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col>
-  <col>
-  <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Page URL}}</code></th> 
-   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
-   <th><code>{{trigger.Conversation Status}}</code></th> 
-   <th><code>{{trigger.Agent Name}}</code></th> 
-   <th><code>{{trigger.Agent Email}}</code></th> 
-   <th><code>{{trigger.Scheduled For}}</code></th> 
-   <th><code>{{trigger.Goal name}}</code></th> 
-   <th><code>{{trigger.Document Name}}</code></th> 
-   <th><code>{{trigger.Document URL}}</code></th>
-   <th><code>{{trigger.Document Opened}}</code></th>
-   <th><code>{{trigger.Document Downloaded}}</code></th>
-  </tr> 
-  <tr> 
-   <td>参与对话</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>对话中计划的会议</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已实现的对话框目标</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
+<table>
+<thead>
+  <tr>
+    <th> </th>
+    <th><code>{{trigger.Agent Email}}</code></th>
+    <th><code>{{trigger.Agent Name}}</code></th>
+    <th><code>{{trigger.Conversation Status}}</code></th>
+    <th><code>{{trigger.Conversation Summary}}</code></th>
+    <th><code>{{trigger.Conversation Transcript}}</code></th>
+    <th><code>{{trigger.Document Downloaded}}</code></th>
+    <th><code>{{trigger.Document Name}}</code></th>
+    <th><code>{{trigger.Document Opened}}</code></th>
+    <th><code>{{trigger.Document URL}}</code></th>
+    <th><code>{{trigger.Goal name}}</code></th>
+    <th><code>{{trigger.meeting status}}</code></th>
+    <th><code>{{trigger.Name}}</code></th>
+    <th><code>{{trigger.Page URL}}</code></th>
+    <th><code>{{trigger.routing queue name}}</code></th>
+    <th><code>{{trigger.Scheduled For}}</code></th>
+    <th><code>{{trigger.source name}}</code></th>
+    <th><code>{{trigger.source type}}</code></th>
+    <th><code>{{trigger.Trigger Name}}</code></th>
+    <th><code>{{trigger.ui type}}</code></th>
   </tr>
-  <tr> 
-   <td>在对话框中与文档交互</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-  </tr> 
- </tbody> 
+</thead>
+<tbody>
+  <tr>
+    <td>参与对话</td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>使用对话表单</td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+  </tr>
+  <tr>
+    <td>与座席对话方块</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>以对话形式与座席接洽</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>对话框中的已计划会议</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>以对话形式排定的会议</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>已实现的对话框目标</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>已达到对话表单目标</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>在对话框中与文档交互</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>以对话形式与文档交互</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
 </table>

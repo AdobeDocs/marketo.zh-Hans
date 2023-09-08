@@ -4,9 +4,9 @@ title: 流设计器
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '980'
 ht-degree: 2%
 
 ---
@@ -48,6 +48,16 @@ ht-degree: 2%
  <tr>
   <td><strong>目标</strong></td>
   <td>这是访客不会看到的唯一一张卡。 由您来确定在特定聊天中实现目标的时间（例如：如果收集访客的电子邮件是您的目标，则将“目标”卡片放在流中信息捕获后的紧跟位置）。</td>
+ </tr>
+ <tr>
+  <td><strong>操作</strong></td>
+  <td>与表单中的隐藏字段类似，使用操作卡，您可以用要针对潜在客户记录捕获的隐式值填充任何潜在客户或公司属性。 您可以在对话的任何位置添加操作卡，并使用自动填充相应值的值或本机令牌更新相应的属性。</td>
+ </tr>
+ <tr>
+  <td><strong>实时聊天</strong></td>
+  <td>当您希望访客与实时座席聊天时，可使用实时聊天卡。
+  <li>实时聊天卡必须是分支中的最后一张卡</li>
+  <li>访客一旦在流中到达此信息卡就会被路由到代理，因此建议在此信息卡前面加一个问答卡，询问访客是否愿意与实时代理聊天</li></td>
  </tr>
 </table>
 
