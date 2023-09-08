@@ -3,9 +3,9 @@ description: 交互式网络研讨会概述 — Marketo文档 — 产品文档
 title: 交互式网络研讨会概述
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7d01503c6cf7c52e9f30b76cedc33e7150557fae
+source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->由Adobe Connect提供支持的交互式网络研讨会是一项与Adobe Connect的内置集成功能。 您对交互式网络研讨会的使用将受其他条款和条件的约束。 请查看您的合同或联系Adobe以查询其他条款和条件。
+>由Adobe Connect提供支持的交互式网络研讨会是一项与Adobe Connect的内置集成功能。 您对交互式网络研讨会的使用将受其他条款和条件的约束。 请查看您的合同或 [联系人Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 以查询附加条款和条件。
 
 ## 什么是交互式网络研讨会？ {#what-is-interactive-webinars}
 
