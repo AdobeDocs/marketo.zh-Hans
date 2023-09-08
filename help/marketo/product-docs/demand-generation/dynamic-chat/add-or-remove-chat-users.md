@@ -3,7 +3,7 @@ description: 添加或删除聊天用户 — Marketo文档 — 产品文档
 title: 添加或删除聊天用户
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -80,7 +80,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您有多个Marketo订阅，请在下一步之前选择所需的订阅)。
+   >如果您有多个Marketo订阅，请在下一步之前选择所需的订阅。
 
 1. 单击 **用户** 选项卡。
 
