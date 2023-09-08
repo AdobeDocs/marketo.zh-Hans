@@ -4,9 +4,9 @@ title: 操作评分行为
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '350'
 ht-degree: 11%
 
 ---
@@ -155,6 +155,8 @@ ht-degree: 11%
  </tbody> 
 </table>
 
+![](assets/op-scoring-behavior-1.png)
+
 ## 我的令牌已包含 {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -242,8 +244,6 @@ ht-degree: 11%
  </tbody> 
 </table>
 
-程序屏幕截图
-
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
@@ -261,8 +261,6 @@ ht-degree: 11%
 * **同名电子邮件模板**
    * 保留两个模板 —  _推荐_
    * 替换现有模板
-
-冲突规则屏幕截图
 
 ## 最佳实践 {#best-practices}
 

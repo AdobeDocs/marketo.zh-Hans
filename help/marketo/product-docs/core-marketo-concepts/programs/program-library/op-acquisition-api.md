@@ -4,9 +4,9 @@ title: OP-Acquisition-API
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
@@ -61,7 +61,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-程序屏幕截图
+![](assets/op-acquisition-api-1.png)
 
 ## 冲突规则 {#conflict-rules}
 
@@ -80,8 +80,6 @@ ht-degree: 1%
 * **同名电子邮件模板**
    * 保留两个模板 —  _推荐_
    * 替换现有模板
-
-冲突规则屏幕截图
 
 ## 最佳实践 {#best-practices}
 

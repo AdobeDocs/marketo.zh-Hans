@@ -4,9 +4,9 @@ title: WR-YYYY-MM-Web请求程序
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '402'
 ht-degree: 3%
 
 ---
@@ -99,6 +99,8 @@ ht-degree: 3%
  </tbody> 
 </table>
 
+![](assets/wr-yyyy-mm-web-request-program-1.png)
+
 ## 我的令牌已包含 {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -136,8 +138,6 @@ ht-degree: 3%
  </tbody> 
 </table>
 
-程序屏幕截图
-
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
@@ -155,8 +155,6 @@ ht-degree: 3%
 * **同名电子邮件模板**
    * 保留两个模板
    * 替换现有模板 —  _推荐_
-
-冲突规则屏幕截图
 
 ## 最佳实践 {#best-practices}
 

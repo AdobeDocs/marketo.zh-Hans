@@ -4,9 +4,9 @@ title: EM-YYYY-MM-DD-Single电子邮件发送
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---
@@ -86,6 +86,8 @@ ht-degree: 4%
  </tbody> 
 </table>
 
+![](assets/em-yyyy-mm-dd-single-email-send-1.png)
+
 ## 我的令牌已包含 {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -113,8 +115,6 @@ ht-degree: 4%
  </tbody> 
 </table>
 
-程序屏幕截图
-
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
@@ -132,8 +132,6 @@ ht-degree: 4%
 * **同名电子邮件模板**
    * 保留两个模板
    * 替换现有模板 —  _推荐_
-
-冲突规则屏幕截图
 
 ## 最佳实践 {#best-practices}
 
