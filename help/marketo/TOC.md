@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 69c2dc58f8ca609702f6e39543d8d72cba6b439c
+source-git-commit: 5d2c7f39805473a94f9d67dd829faf37d87631b1
 workflow-type: tm+mt
-source-wordcount: '9073'
+source-wordcount: '9083'
 ht-degree: 0%
 
 ---
@@ -647,7 +647,11 @@ ht-degree: 0%
          + [将Google客户匹配项添加为LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [将LinkedIn匹配的受众添加为LaunchPoint服务](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [将列表发送到广告网络](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + DYNAMIC CHAT2 {#dynamic-chat-two}
+         + 自动聊天 {#automated-chat}
+            + [对话流量设置](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
       + Dynamic Chat {#dynamic-chat}
+         + [释放插入](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Dynamic Chat概述](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [初始设置](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [添加或删除聊天用户](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
