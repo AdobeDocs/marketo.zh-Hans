@@ -4,9 +4,9 @@ description: Salesforce中的“Marketo Sales Insight配置”选项卡 — Mark
 title: Salesforce中的“Marketo Sales Insight配置”选项卡
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -63,11 +63,17 @@ ht-degree: 0%
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
+## 支持设置 {#support-settings}
+
+选中此复选框将启用Salesforce实例中的调试日志记录。 它可以帮助您排除问题。
+
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
 ## 重置Marketo Sales Insight {#reset-marketo-sales-insight}
 
 选择此操作将擦除SFDC中的所有配置，并且无法恢复它们。 您将必须重新配置所有内容。
 
-![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-6.png)
 
 >[!IMPORTANT]
 >

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 5084013638c4131ebf4c5812e3e4d485ca94419c
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '9086'
+source-wordcount: '9095'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 0%
       + [要签出的项目](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [回顾内容：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [获取帮助的方法](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [新建继承文档1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-      + [新建继承文档2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-      + [新建继承文档3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-      + [新建继承文档4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-      + [新建继承文档5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+      + [继承实例：管理员部分核对清单](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+      + [继承的实例：数据库核对清单](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+      + [继承实例：营销活动核对清单](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+      + [继承实例：Design Studio核对清单](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+      + [继承的实例：记录您的设置](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + 产品文档 {#product-docs}
    + 其他应用程序 {#additional-apps}
       + SEO {#seo}
