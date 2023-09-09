@@ -3,7 +3,7 @@ description: 了解如何优化和扩展您继承的现有Marketo Engage实例�
 title: Jumpstart继承的Marketo Engage实例
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -36,15 +36,15 @@ ht-degree: 0%
 
 您还可以下载电子表格格式的核对清单。
 
-* [“管理员”部分](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+* [“管理员”部分](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-* [数据库](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+* [数据库](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
 
-* [营销活动](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+* [营销活动](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
 
-* [记录继承的实例设置](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+* [记录继承的实例设置](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 
 ## 获取帮助的方法 {#ways-to-get-help}
 

@@ -3,10 +3,10 @@ description: 继承实例文档您的设置 — Marketo文档 — 产品文档
 title: 继承的实例文档您的设置
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 2%
+source-wordcount: '252'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
    <td>输入</td> 
    <td><li>哪些系统会将数据提供给Marketo Engage？</li>
    <li>他们是将数据加载到程序还是数据库？ 如果是程序，哪些程序？</li>
-   <p>措施项：创建系统之间的数据字典/字段映射表。</td>
+   <p><img src="assets/action-item-icon.png" alt="措施项图标">措施项：创建系统之间的数据字典/字段映射表。</td>
   </tr>
   <tr> 
    <td>输出</td> 
@@ -51,7 +51,7 @@ ht-degree: 2%
   <tr> 
    <td>组织</td> 
     <td><li>您是否拥有有关Marketo Engage实例的组织方式及其原因的详尽文档？</li>
-   <p>措施项：创建包含文件夹结构、命名惯例和实例中使用的渠道的文档。</td>
+   <p><p><img src="assets/action-item-icon.png" alt="措施项图标">措施项：创建包含文件夹结构、命名惯例和实例中使用的渠道的文档。</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -70,4 +70,4 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-[◄审核继承的实例：Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[◄审核继承的实例：Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)

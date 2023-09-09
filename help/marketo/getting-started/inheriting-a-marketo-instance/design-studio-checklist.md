@@ -3,7 +3,7 @@ description: 继承实例Design Studio核对清单 — Marketo文档 — 产品�
 title: 继承实例Design Studio核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 1%
@@ -163,6 +163,6 @@ ht-degree: 1%
 
 <br> 
 
-[◄审核继承的实例：营销活动](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[◄审核继承的实例：营销活动](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-[审核继承的实例：记录继承的实例设置►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+[审核继承的实例：记录继承的实例设置►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
