@@ -4,9 +4,9 @@ title: Dynamic Chat概述
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '873'
 ht-degree: 2%
 
 ---
@@ -55,7 +55,7 @@ Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo�
 
 ## 实时聊天 {#live-chat}
 
-提供符合条件的Web访客，以便通过实时聊天与销售代表联系。 链接到文档
+提供符合条件的Web访客，以便通过以下方式与您的销售代表联系： [实时聊天](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
 
 ## 常见问题解答 {#faq}
 
