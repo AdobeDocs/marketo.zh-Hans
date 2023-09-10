@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 1%
@@ -651,14 +651,14 @@ ht-degree: 1%
          + [Dynamic Chat概述](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
          + [聊天机器人行为](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
          + [会议列表](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
-         + [Dynamic Chat活动](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [Dynamic Chat活动](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + 自动聊天 {#automated-chat}
             + [对话流概述](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [创建对话流](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
             + [对话流量设置](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [对话SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
-            + [对话框概述](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [对话框概述](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [创建对话框](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [受众标准](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
             + [流设计器](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)

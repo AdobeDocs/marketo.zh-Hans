@@ -4,16 +4,18 @@ title: 代理设置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 2%
+source-wordcount: '249'
+ht-degree: 3%
 
 ---
 
 # 代理设置 {#agent-settings}
 
 在“日历”选项卡中，连接Outlook或Gmail日历，以便在聊天机器人中安排约会。
+
+## 连接日历 {#connect-calendar}
 
 ![](assets/agent-settings-1.png)
 
@@ -31,7 +33,7 @@ ht-degree: 2%
 >
 >使用令牌图标（大括号）可使用人员或公司属性将会议预订确认电子邮件个性化。
 
-## 权限 {#permissions}
+### 权限 {#permissions}
 
 使用Outlook配置可授予Dynamic Chat以下权限：
 
@@ -47,3 +49,15 @@ ht-degree: 2%
 * 更改您的设置，包括可查看您的活动的人
 * 更改与之共享日历的人员
 * 访问您的姓名、电子邮件地址、语言首选项和配置文件图片
+
+## 实时聊天可用性设置 {#live-chat-availability-settings}
+
+文本
+
+## 会议预订可用性设置 {#meeting-booking-availability-settings}
+
+文本
+
+## 会议长度和缓冲时间 {#meeting-length-and-buffer-time}
+
+文本
