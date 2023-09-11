@@ -4,9 +4,9 @@ title: 代理收件箱
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '250'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ![](assets/agent-inbox-3.png)
 
-### 注意事项{things-to-note}
+### 注意事项 {#things-to-note}
 
 * 在“接受聊天”消息超时之前，工程师有45秒的时间进行响应。
 * 浏览器TIDBIT
