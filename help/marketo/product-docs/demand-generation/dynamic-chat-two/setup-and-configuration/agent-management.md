@@ -4,9 +4,9 @@ title: 代理管理
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ PICC2 — 需要男士的屏幕截图
 
 >[!NOTE]
 >
->选择 **包括会议预订选项** 复选框将为聊天访客生成会议预订构件。
+>选择 **包括会议预订选项** 复选框为聊天访客提供了选项，以便在没有座席可进行实时聊天时预约会议。
 
 >[!TIP]
 >

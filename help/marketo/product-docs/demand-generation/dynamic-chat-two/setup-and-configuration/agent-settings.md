@@ -4,20 +4,24 @@ title: 代理设置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 3%
+source-wordcount: '479'
+ht-degree: 2%
 
 ---
 
 # 代理设置 {#agent-settings}
 
-在“日历配置”选项卡中，连接Outlook或Gmail日历，以在聊天机器人中安排约会。
+配置日历并设置会议/实时聊天可用性。
+
+![](assets/agent-settings-1.png)
 
 ## 连接日历 {#connect-calendar}
 
-![](assets/agent-settings-1.png)
+在“日历配置”选项卡中，连接Outlook或Gmail日历，以在聊天机器人中安排约会。
+
+![](assets/agent-settings-2.png)
 
 用户日历连接到Dynamic Chat后，即会添加到队列中，并且网站访客可以使用他们的日历来安排约会。
 
@@ -27,7 +31,7 @@ ht-degree: 3%
 
 用户还可以在安排用户日历上的约会时自定义发送给访客的邀请的正文。 他们还可以选中底部的复选框，以包含Google会议或Microsoft Teams链接（具体取决于连接的日历）。
 
-![](assets/agent-settings-2.png)
+![](assets/agent-settings-3.png)
 
 >[!TIP]
 >
@@ -52,12 +56,39 @@ ht-degree: 3%
 
 ## 会议预订可用性 {#meeting-booking-availability}
 
-文本
+设置您的时区以及每周时间/日期以接收会议预订。
 
-## 会议长度和缓冲时间 {#meeting-length-and-buffer-time}
+![](assets/agent-settings-4.png)
 
-文本
+<table> 
+ <tbody> 
+  <tr> 
+   <td><b>会议时长</b></td>
+   <td>最大会议长度。  — 发生什么情况？ 自动结束？</td>
+  </tr> 
+  <tr> 
+   <td><b>会议之间的缓冲时间</b></td>
+   <td>会议后设置为缓冲的时间。 如果您设置30分钟，则直到日历上预定的会议结束31分钟后，才能够预约与您见面。 - 31或30???????????</td>
+  </tr>
+ </tbody> 
+</table>
+
+>[!TIP]
+>
+>您可以在同一天选择多个时间块(例如，星期五从8a到12p _和_ 1p-5p) **+** 在右侧签名。
 
 ## 实时聊天可用性 {#live-chat-availability}
 
-文本
+设置您的时区以及每周时间/日期以接收实时聊天。
+
+![](assets/agent-settings-5.png)
+
+如果您已登录到应用程序，您将会收到传入聊天的应用内通知。 如果您未登录，则会收到浏览器通知(在Google Chrome中)。
+
+>[!IMPORTANT]
+>
+>此 [可用性切换](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 在Agent收件箱中 **将覆盖** 您在“实时聊天可用性”选项卡中输入的内容。 因此，如果您被安排在1p到5p之间可用，但需要在3p快速休息，则无需更改代理设置。 可用性切换状态将一直保留，直到您手动切换它，或直到到达您的可用性中的下一个时间块。
+
+>[!TIP]
+>
+>您可以在同一天选择多个时间块(例如，星期五从8a到12p _和_ 1p-5p) **+** 在右侧签名。
