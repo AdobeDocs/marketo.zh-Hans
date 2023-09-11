@@ -4,7 +4,7 @@ title: 流设计器
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 2%
@@ -56,8 +56,8 @@ ht-degree: 2%
  <tr>
   <td><strong>实时聊天</strong></td>
   <td>当您希望访客与实时座席聊天时，可使用实时聊天卡。
-  <li>实时聊天卡必须是分支中的最后一张卡</li>
-  <li>访客一旦在流中到达此信息卡就会被路由到代理，因此建议在此信息卡前面加一个问答卡，询问访客是否愿意与实时代理聊天</li></td>
+  <li>实时聊天卡必须是分支中的最后一张卡。</li>
+  <li>访客一旦在流中到达此信息卡就会被路由到代理，因此建议在此信息卡之前添加一个问题卡，询问访客是否愿意与实时代理聊天。</li></td>
  </tr>
 </table>
 
