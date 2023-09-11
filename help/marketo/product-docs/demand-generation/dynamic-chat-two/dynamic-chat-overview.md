@@ -4,10 +4,10 @@ title: Dynamic Chat概述
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 2%
+source-wordcount: '665'
+ht-degree: 1%
 
 ---
 
@@ -109,90 +109,29 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
 
 当您更新语言时，除了您亲自填充的单词（例如，流响应）之外，应用程序本身中的所有内容都会更改。
 
-## Dynamic Chat限制 {#limits-in-dynamic-chat}
+## Dynamic Chat数据保留限制 {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>参数</th>
-  <th>描述</th>
-  <th>限制</th>
+  <th>数据类型</th>
+  <th>保留期</th>
  <tr>
-  <td>对话框总数</td>
-  <td>对话次数（已发布和草稿）</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>日历总数</td>
-  <td>连接的日历数</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>用户总数（管理员和营销用户）</td>
-  <td>每个Dynamic Chat实例允许的组合用户数</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>已发布对话框</td>
-  <td>保存的已发布对话框数</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>每个对话框的目标URL</td>
-  <td>可添加到单个对话框的目标URL数量</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>每个对话框的属性</td>
-  <td>单个对话框可添加到受众条件的属性数量</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>组</td>
-  <td>可添加到单个对话框的组数</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>每个组的属性</td>
-  <td>可添加到组的属性数量</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>卡片</td>
-  <td>每个对话框可以添加到画布的卡片数量</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>匿名潜在客户数据保留期</td>
-  <td>未参与的任何匿名潜在客户的信息将保留多长时间</td>
+  <td>无任何参与的匿名潜在客户</td>
   <td>90天</td>
  </tr>
  <tr>
-  <td>目标活动保留期</td>
-  <td>目标活动数据保留的时间</td>
+  <td>目标活动</td>
   <td>24个月</td>
  </tr>
  <tr>
-  <td>文档活动保留期</td>
-  <td>文档活动数据保留的时间</td>
+  <td>文档活动</td>
   <td>24个月</td>
  </tr>
  <tr>
-  <td>与对话框活动保留期交互</td>
-  <td>与Dialog活动数据交互的保留时间</td>
+  <td>与对话活动交互</td>
   <td>90天</td>
  </tr>
  <tr>
-  <td>会议预订活动保留期</td>
-  <td>会议预订活动将存储在Dynamic Chat中的时间</td>
+  <td>会议预订活动</td>
   <td>24个月</td>
- </tr>
- <tr>
-  <td>已参与的对话</td>
-  <td>Web访客每月可参与的聊天对话数</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>已触发对话</td>
-  <td>每月可向Web访客显示的聊天对话数</td>
-  <td>25,000</td>
  </tr>
 </table>

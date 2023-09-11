@@ -4,9 +4,9 @@ title: 代理管理
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 此选项卡列出了Dynamic Chat实例中的所有座席，并包括他们的姓名、电子邮件地址、实时聊天状态等信息。
 
-PICC2 — 需要男士的屏幕截图
+![](assets/agent-management-2.png)
 
 ## 团队 {#teams}
 

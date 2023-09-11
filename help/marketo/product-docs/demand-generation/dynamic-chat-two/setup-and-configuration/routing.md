@@ -4,9 +4,9 @@ title: 路由
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 在此示例中，我们将所有推断的状态（CA、OR和WA）的会议发送给John座席。
 
-1. 在Dynamic Chat中，选择 **路由**.
+1. 在配置下，单击 **路由规则**.
 
    ![](assets/routing-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/routing-3.png)
 
-1. 为规则命名，然后单击 **下一个**.
+1. 命名您的规则。 （可选）您可以添加说明并设置其优先级。 单击 **下一个**.
 
    ![](assets/routing-4.png)
 
@@ -54,3 +54,14 @@ ht-degree: 1%
 1. 选择所有所需值后，单击 **保存**.
 
    ![](assets/routing-8.png)
+
+
+## 帐户路由 {#account-routing}
+
+识别并上传您的目标帐户和各自的销售负责人，并将来自这些帐户的访客直接路由到各自的帐户负责人。
+
+![](assets/routing-9.png)
+
+团队路由
+
+智能列表路由的成员
