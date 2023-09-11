@@ -4,9 +4,9 @@ title: 受众标准
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -23,8 +23,6 @@ ht-degree: 2%
 
 ## 事件 {#events}
 
-![](assets/audience-criteria-2.png)
-
 事件允许您根据访客滚动多少或他们在您的页面/网站上的时间长短来定位访客。 在以下示例中，我们的定位是在特定页面上停留超过20秒的访客。
 
 1. 抓住 **页面逗留时间** 事件并将其拖动到右侧。
@@ -40,8 +38,6 @@ ht-degree: 2%
    ![](assets/audience-criteria-5.png)
 
 ## 属性 {#attributes}
-
-![](assets/audience-criteria-6.png)
 
 **已知人员**
 
@@ -96,6 +92,18 @@ ht-degree: 2%
 1. _是_ 默认设置。 在选择值字段中，键入NY （您还可以单击下拉菜单并从列表中选择）。
 
    ![](assets/audience-criteria-15.png)
+
+## 会员资格 {#membership}
+
+将Marketo Engage智能列表用于对话框的目标受众。
+
+1. 在成员身份下，获取 **智能列表的成员** 然后把它放到画布上。
+
+   ![](assets/audience-criteria-15a.png)
+
+1. 选择所需的智能列表。
+
+   ![](assets/audience-criteria-15b.png)
 
 ## 添加组 {#add-groups}
 

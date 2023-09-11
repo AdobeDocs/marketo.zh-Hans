@@ -4,9 +4,9 @@ title: 流设计器
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '1024'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,11 @@ ht-degree: 2%
  </tr>
  <tr>
   <td><strong>预约调度程序</strong></td>
-  <td>为访客提供一个包含可用日期的日历以安排跟进。 日历可用性反映为 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">下一个排队座席</a>.</td>
+  <td>为访客提供一个包含可用日期的日历以安排跟进。 日历可用性反映为 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">下一个排队座席</a>. 还有一个选项可以传递座席姓名或电子邮件地址等属性。</td>
+ </tr>
+ <tr>
+  <td><strong>会议预订</strong></td>
+  <td>为访客提供可用于安排会议的日期的日历。 通过循环调度法、特定代理或使用自定义规则选择日历可用性。</td>
  </tr>
  <tr>
   <td><strong>目标</strong></td>
@@ -68,19 +72,19 @@ ht-degree: 2%
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>为喜欢该视图的用户在背景中添加网格</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>放大，创建更大的卡片</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>缩小，创建较小的卡片</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>打开一个用于测试聊天内容的窗口（按同一按钮关闭）</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>允许您在流中搜索卡片类型或内容</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -211,4 +215,3 @@ ht-degree: 2%
 >* [受众标准](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [报表](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [使用文档信息卡](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-

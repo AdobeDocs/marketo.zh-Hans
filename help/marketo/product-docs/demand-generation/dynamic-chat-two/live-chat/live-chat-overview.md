@@ -4,7 +4,7 @@ title: 实时聊天概述
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 2%
@@ -26,7 +26,7 @@ ht-degree: 2%
 **最佳实践**
 
 * 在实时聊天卡之前使用问题卡询问访客是否愿意连接。
-* 在访客同意连接后，使用信息捕获卡获取他们的某些信息，如名字/姓氏、电子邮件地址、职位等。 （建议至少请求名字和电子邮件地址）
+* 在访客同意连接后，使用信息捕获卡收集其某些信息，如名字/姓氏、电子邮件地址、职位等。 （建议至少请求提供名字和电子邮件地址）。
 
 ## 实时聊天卡选项 {#live-chat-card-options}
 
