@@ -4,9 +4,9 @@ title: 安全设置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,6 @@ ht-degree: 0%
 1. 选择 **启用验证** 滑块可激活您的阻止列表。 最多输入50个域并单击 **保存**.
 
    ![](assets/security-settings-2.png)
-
->[!CAUTION]
->
->请确保 **NOT** 添加 `adobeeventlab.com` 或阻止列表???禁用聊天???
 
 ## 允许的域 {#allowed-domains}
 

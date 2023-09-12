@@ -1,10 +1,8 @@
 ---
 description: CT-YYYY-MM-Content，位于Marketo登录页面 — Marketo文档 — 产品文档
 title: Marketo登录页面上的CT-YYYY-MM-Content
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 3%

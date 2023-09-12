@@ -4,30 +4,28 @@ title: 创建对话流
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # 创建对话流 {#create-a-conversational-flow}
 
-设计对话流，并根据特定操作（例如，单击行动号召按钮、页面加载时、页面逗留时间等）将其触发给任何访客。
-
-提及它与对话的区别???????????
+下面是如何创建新的对话流程。
 
 1. 在“自动聊天”下，单击 **对话流**.
 
-PICC
+   ![](assets/create-a-conversational-flow-1.png)
 
 1. 单击 **创建对话流**.
 
-PICC
+   ![](assets/create-a-conversational-flow-2.png)
 
 1. 选择一个空白的对话流程或一个预填充模板。 输入名称（说明是可选的），更改语言（可选），然后单击 **创建**.
 
-PICC
+   ![](assets/create-a-conversational-flow-3.png)
 
 >[!NOTE]
 >
