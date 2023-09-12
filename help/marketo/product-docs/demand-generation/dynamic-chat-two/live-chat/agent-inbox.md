@@ -4,9 +4,9 @@ title: 代理收件箱
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---
@@ -25,17 +25,24 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->**这将覆盖** 该 [实时聊天可用性](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) 您已在“代理设置”中建立。 状态将一直保留，直到您将其切换回或切换到可用性的下一个时间块。
+>**这将覆盖** 该 [实时聊天可用性](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} 您已在“代理设置”中建立。 状态将一直保留，直到您将其切换回或切换到可用性的下一个时间块。
 
 >[!NOTE]
 >
 >将您的状态设置为不可用不会影响任何活动聊天。
 
-## 接受实时聊天 {#accepting-a-live-chat}
+## 实时聊天通知 {#live-chat-notifications}
 
-当实时聊天被路由到座席时，他们将看到屏幕顶部出现一个蓝色横幅，要求他们接受。
+当实时聊天被路由到座席时，他们将看到屏幕顶部有一条蓝色横幅要求他们接受。
 
 ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>您还可以选择设置浏览器通知，如果您未登录Dynamic Chat，通知会提醒您。
+>
+>* 在中启用浏览器通知 [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* 在中启用浏览器通知 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### 注意事项 {#things-to-note}
 

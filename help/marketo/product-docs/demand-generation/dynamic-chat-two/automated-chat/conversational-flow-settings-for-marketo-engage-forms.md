@@ -4,9 +4,9 @@ title: Marketo EngageForms的对话流设置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->“智能列表成员”或“列表成员”条件需要Dynamic ChatPrime。 Adobe客户团队!!!!!!!!!!!!!!
+>“智能列表成员”或“列表成员”条件需要Dynamic ChatPrime。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 1. 查找并选择您的表单（或创建一个新表单）。
 

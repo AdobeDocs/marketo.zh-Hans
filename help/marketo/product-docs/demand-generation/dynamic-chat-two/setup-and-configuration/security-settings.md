@@ -4,9 +4,9 @@ title: 安全设置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,15 @@ ht-degree: 0%
 
 ## 阻止的电子邮件域 {#blocked-email-domains}
 
+列入阻止列表如果有任何访客具有您不希望代理与之交互（例如，竞争对手）的电子邮件域，请将其电子邮件域添加到。
+
 1. 选择 **启用验证** 滑块可激活您的阻止列表。 最多输入50个域并单击 **保存**.
 
    ![](assets/security-settings-2.png)
 
 ## 允许的域 {#allowed-domains}
+
+添加允许的域可确保第三方无法从您的站点中刮取Javascript并将其添加到自己的站点中。
 
 1. 选择 **启用验证** 滑块可激活您的允许列表。 输入允许的域，然后单击 **保存**.
 

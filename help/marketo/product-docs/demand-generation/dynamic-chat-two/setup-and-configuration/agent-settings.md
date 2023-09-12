@@ -4,9 +4,9 @@ title: 代理设置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '476'
 ht-degree: 2%
 
 ---
@@ -83,7 +83,7 @@ ht-degree: 2%
 
 ![](assets/agent-settings-5.png)
 
-如果您已登录到应用程序，您将会收到传入聊天的应用内通知。 如果您未登录，则会收到浏览器通知(在Google Chrome中)。
+如果您已登录到应用程序，您将会收到传入聊天的应用内通知。 如果您未登录，则会收到浏览器通知。
 
 >[!IMPORTANT]
 >

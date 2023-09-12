@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '9156'
+source-wordcount: '9162'
 ht-degree: 1%
 
 ---
@@ -656,7 +656,7 @@ ht-degree: 1%
          + 自动聊天 {#automated-chat}
             + [对话流概述](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [创建对话流](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
-            + [对话流量设置](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [Marketo EngageForms的对话流设置](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
             + [对话SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
             + [对话框概述](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [创建对话框](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
@@ -1967,6 +1967,7 @@ ht-degree: 1%
 + 发行说明 {#release-notes}
    + [发布计划](release-notes/release-schedule.md)
    + [当前版本](release-notes/current.md)
+   + [当前版本](release-notes/current-test.md)
    + 之前版本 {#previous-releases}
       + 2023 {#2023}
          + [发行说明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
