@@ -4,9 +4,9 @@ title: 最新发行说明测试
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1209'
 ht-degree: 2%
 
 ---
@@ -41,8 +41,8 @@ ht-degree: 2%
 
 <table>
   <tr> 
-   <td><b>功能</b></td>
-   <td><strong>由Design Studio Assets的计数列使用</strong>：Marketo Engage程序参考库允许用户导入代表Adobe推荐的最佳实践的“示例”程序和其他资源。 我们的产品管理团队已完全更新了库，为那些希望快速启动计划的客户提供了更有价值的工具。</td>
+   <td style="width:20%"><b>功能</b></td>
+   <td style="width:80%"><strong>由Design Studio Assets的计数列使用</strong>：Marketo Engage程序参考库允许用户导入代表Adobe推荐的最佳实践的“示例”程序和其他资源。 我们的产品管理团队已完全更新了库，为那些希望快速启动计划的客户提供了更有价值的工具。</td>
   </tr>
   <tr> 
    <td><b>状态</b></td>
@@ -58,9 +58,9 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>功能</th> 
-   <th>状态</th>
-   <th>文档</th>
+   <th style="width:70%">功能</th> 
+   <th style="width:15%">状态</th>
+   <th style="width:15%">文档</th>
   </tr> 
   <tr> 
    <td><strong>Marketo参考库</strong>：Marketo Engage程序参考库允许用户导入代表Adobe推荐的最佳实践的“示例”程序和其他资源。 我们的产品管理团队已完全更新了库，为那些希望快速启动计划的客户提供了更有价值的工具。</td> 
@@ -80,9 +80,44 @@ ht-degree: 2%
  </tbody> 
 </table>
 
+* 空间
 
+* 空间
 
+* 更多空间
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">功能</th> 
+   <th style="width:15%">状态</th>
+   <th style="width:20%">文档</th>
+  </tr> 
+  <tr> 
+   <td><strong>Marketo参考库</strong>：Marketo Engage程序参考库允许用户导入代表Adobe推荐的最佳实践的“示例”程序和其他资源。 我们的产品管理团队已完全更新了库，为那些希望快速启动计划的客户提供了更有价值的工具。</td> 
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">程序导入库概述</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>由Design Studio Assets的计数列使用</strong>：Marketo Engage程序参考库允许用户导入代表Adobe推荐的最佳实践的“示例”程序和其他资源。 我们的产品管理团队已完全更新了库，为那些希望快速启动计划的客户提供了更有价值的工具。</td> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* 空间
+
+* 空间
+
+* 更多空间
+
+* 测试结束……目前
 
 * **由Design Studio Assets的计数列使用**：
 

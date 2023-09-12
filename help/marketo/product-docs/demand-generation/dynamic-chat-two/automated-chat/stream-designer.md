@@ -4,9 +4,9 @@ title: 流设计器
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1084'
 ht-degree: 2%
 
 ---
@@ -39,15 +39,11 @@ ht-degree: 2%
  </tr>
  <tr>
   <td><strong>信息捕获</strong></td>
-  <td>在要收集信息时使用。 从中进行选择的三个字段是“电子邮件地址”、“电话号码”和“文本”（允许访客编写自己的消息）。</td>
- </tr>
- <tr>
-  <td><strong>预约调度程序</strong></td>
-  <td>为访客提供一个包含可用日期的日历以安排跟进。 日历可用性反映为 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">下一个排队座席</a>. 还有一个选项可以传递座席姓名或电子邮件地址等属性。</td>
+  <td>在要收集信息（例如，姓名、电子邮件地址、职务等）时使用。 选择要将访客的响应归因到哪个字段后，您可以选择允许访客键入其响应，或从您确定的选择列表中选择选项（提示：后者有助于保持数据库清洁）。 您还可以选择用用户的响应覆盖当前为其列出的任何数据，或者完全跳过问题（如果您已经为其指定了值）。</td>
  </tr>
  <tr>
   <td><strong>会议预订</strong></td>
-  <td>为访客提供可用于安排会议的日期的日历。 通过循环调度法、特定代理或使用自定义规则选择日历可用性。</td>
+  <td>为访客提供可用于安排会议的日期的日历。 通过循环调度法、特定代理或使用自定义规则选择日历可用性。 单击 <b>添加属性</b> 如果您要捕获代理的姓名或电子邮件地址，并将其分配给聊天访客的个人记录以供将来查询(提示：创建 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自定义字段</a> 将代理的信息映射为以便不覆盖标准Marketo Engage字段)。</td>
  </tr>
  <tr>
   <td><strong>目标</strong></td>
