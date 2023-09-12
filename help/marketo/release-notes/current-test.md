@@ -4,10 +4,10 @@ title: 最新发行说明测试
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
+source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 0%
+source-wordcount: '897'
+ht-degree: 1%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 ## Agile版本功能 {#agile-release-features}
 
 以下所有功能都遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请检查每个功能旁边的状态信息。
-</br>
+
 <table style="border: none">
  <tbody> 
   <tr> 
@@ -97,8 +97,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>流设计器中的操作信息卡</strong>：当访客参与对话框时，营销人员可以使用对话框流中的操作卡将隐藏值传递给Marketo Engage人员记录。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">流设计器卡片</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -107,8 +107,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>使用Marketo EngageForms的对话式Forms</strong>：通过将Marketo EngageForms与Dynamic Chat对话流集成，使它们具有对话性。 使用表单数据或智能列表成员资格即时确定满足预订、白皮书链接或自定义目标的潜在客户。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">会话表单</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -117,8 +117,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>对话SDK</strong>：将任何表单、登陆页面或几乎任何网页转换为引人入胜的会议预订体验。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">对话SDK</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -127,8 +127,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td><strong>自定义会议预订设置</strong>：座席可以设置自定义会议预订设置，如可用性、会议长度和会议之间的“缓冲时间”。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">自定义会议预订设置</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -137,8 +137,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>回退设置</strong>：管理员可设置自定义回退设置，以定义当代理不可用于聊天时访客会看到的内容。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">回退规则</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -147,8 +147,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>全局性能仪表板</strong>：查看对话框的性能如何，包括参与度和性能量度（总计和一段时间内的性能量度）、性能最佳的页面和性能最佳的对话框。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#global-performance-dashboard" target="_blank">全局性能仪表板</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -157,8 +157,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>实时聊天</strong>：Web访客可与销售代理实时聊天，以获取问题解答。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md" target="_blank">实时聊天概述</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -167,8 +167,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>实时聊天性能仪表板</strong>：查看您的现场销售人员进行了多少对话，哪些团队的表现最佳。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#live-chat-performance-dashboard" target="_blank">实时聊天性能仪表板</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -177,8 +177,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>Marketo Engage智能列表定位</strong>：营销人员可以在DialogMarketo Engage条件中定位受众智能列表的成员。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md#membership" target="_blank">会员资格</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -187,8 +187,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td><strong>会议表现信息板</strong>：查看已预订的会议数量以及正在与谁预订会议。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#meeting-performance-dashboard" target="_blank">会议表现信息板</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -197,8 +197,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>新建Dynamic Chat活动</strong>：支持对话流、实时聊天和其他新功能的新活动。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md" target="_blank">Dynamic Chat活动</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -207,8 +207,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>实时聊天通知</strong>：当访客请求实时聊天时，代理会收到实时应用程序内和浏览器通知。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">实时聊天通知</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -217,8 +217,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>团队</strong>：创建可为访客安排以进行实时聊天或会议预订的代理团队。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#teams" target="_blank">团队</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -227,8 +227,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>触发新活动的令牌</strong>：提供新的触发器令牌以支持新的Dynamic Chat活动。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chat触发令牌</a></td>
   </tr>
   <tr> 
    <td> </td> 
