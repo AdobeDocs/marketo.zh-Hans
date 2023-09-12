@@ -4,9 +4,9 @@ title: 对话框概述
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 3%
 
 ## 报表 {#reports}
 
-此 [报表](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} 在对话框的部分中，您将能够查看有关对话框执行情况的量度。
+在“报表”选项卡中，您可以看到有关对话框执行情况的量度。
 
 ![](assets/dialogue-overview-3.png)
 

@@ -4,10 +4,10 @@ title: 路由
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '231'
+ht-degree: 0%
 
 ---
 
@@ -61,6 +61,18 @@ ht-degree: 1%
 
 ![](assets/routing-9.png)
 
-团队路由 — 立即DELETE这些引用
+### 添加帐户 {#add-an-account}
 
-智能列表路由的成员 — 可能延迟
+在本例中，我们将把所有员工从乐高直接转给史蒂芬探员。
+
+1. 在“帐户路由”选项卡中，单击 **+添加帐户**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >您可以通过单击一次创建多个帐户 **上传帐户列表** 和上传CSV。
+
+1. 输入公司的名称、域，然后选择所需的代理。
+
+   ![](assets/routing-11.png)

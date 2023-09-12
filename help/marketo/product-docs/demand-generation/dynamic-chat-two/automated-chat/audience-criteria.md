@@ -4,16 +4,16 @@ title: 受众标准
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 2%
 
 ---
 
 # 受众标准 {#audience-criteria}
 
-与Marketo智能列表类似，受众标准属性允许您定义目标受众。 您可以使用推断的、人员或公司属性（或它们的组合）定位已知或未知人员。
+与Marketo Engage智能列表类似，受众标准属性允许您定义目标受众。 您可以使用推断的、人员或公司属性（或它们的组合）定位已知或未知人员。
 
 ## 优先级 {#priority}
 
