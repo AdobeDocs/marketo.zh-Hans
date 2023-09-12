@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '951'
 ht-degree: 2%
 
 ---
@@ -328,6 +328,6 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* **切换是否弃用Design Studio资产**：允许用户在Design Studio的经典界面和现代UX体验之间进行切换的切换开关将被弃用，弃用Design Studio体验的旧版本，以便用户能够完全迁移到现代UX体验。
+* **切换是否弃用Design Studio资产**：允许用户在Design Studio的经典界面和现代UX体验之间进行切换的切换开关将被弃用，弃用Design Studio体验的旧版本，以便用户能够完全迁移到现代UX体验。 [在此处了解详情](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
 * **_产品发布网络研讨会_**：2023年9月6日太平洋时间上午9:00 /东部时间中午12:00加入我们， [实时网络研讨会](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} 我们的产品团队托管，在那里您将了解如何使用所有最新的产品创新。

@@ -4,9 +4,9 @@ title: Marketo EngageForms的对话流设置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Marketo EngageForms的对话流设置{#conversational-flow-settings-for-marketo-engage-forms}
 
 通过将Marketo EngageForms与Dynamic Chat对话流集成，使它们具有对话性。 使用表单数据或智能列表成员资格即时确定满足预订、白皮书链接或自定义目标的潜在客户。
-
->[!PREREQUISITES]
->
->在此处添加先决条件
 
 >[!AVAILABILITY]
 >

@@ -4,9 +4,9 @@ title: 最新发行说明测试
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 2%
 
 ---
@@ -117,11 +117,9 @@ ht-degree: 2%
 
 * 更多空间
 
-* 测试结束……目前
-
 * **由Design Studio Assets的计数列使用**：
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -135,7 +133,7 @@ ht-degree: 2%
 
 * **由Design Studio Assets的选项卡增强功能使用**：用于增强功能选项卡提供了有关资产类型和名称及其使用位置的更详细视图。 这适用于“电子邮件详细信息”和“图像和文件详细信息”。
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
@@ -146,6 +144,12 @@ ht-degree: 2%
   </tr>
   </tbody>
 </table>
+
+* 空间
+
+* 更多空间
+
+* 测试结束……目前
 
 * **计算公式流步骤服务**：计算公式是基于AdobeIO运行时平台构建的流步骤服务，用于Marketo Engage智能营销活动。 具有IO运行时的Adobe客户端可以部署此服务，并将其安装到其Marketo Engage订阅中，从而允许它们在Marketo Smart Campaigns中计算类似Excel的公式。
 
