@@ -3,9 +3,9 @@ description: Dynamic Chat概述 — Marketo文档 — 产品文档
 title: Dynamic Chat概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '826'
 ht-degree: 2%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 2%
 # Dynamic Chat概述 {#dynamic-chat-overview}
 
 Dynamic Chat功能允许您利用简单易用的界面来定位访问您网站的用户和帐户。 收集相关内容，如姓名、联系信息和自由文本。 网站访客还可以与您的销售团队预约会议。 Dynamic Chat活动和参与数据可用于将成员添加到Marketo项目并触发跨渠道活动。
-
->[!NOTE]
->
->Dynamic Chat正在逐步推出，目前可用性有限。 当此页面可用时，将使用一般可用性(GA)详细信息对其进行更新。
 
 >[!TIP]
 >
