@@ -4,9 +4,9 @@ title: 代理设置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,7 @@ ht-degree: 2%
  <tbody> 
   <tr> 
    <td><b>会议时长</b></td>
-   <td>最大会议长度。  — 发生什么情况？ 自动停下来像缩放一样？</td>
+   <td>确定访客在可用会议槽中看到的时间长度。</td>
   </tr> 
   <tr> 
    <td><b>会议之间的缓冲时间</b></td>
