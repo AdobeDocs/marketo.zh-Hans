@@ -3,9 +3,9 @@ description: 了解如何优化和扩展您继承的现有Marketo Engage实例�
 title: Jumpstart继承的Marketo Engage实例
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,23 @@ ht-degree: 0%
 
 是否启动新作业或从其他管理员接管现有实例？ 接管已运行了一段时间的实时实例似乎有些令人望而却步，但本指南将帮助您快速启动和运行。
 
-## 要签出的项目 {#items-to-check-off}
+## 在Marketing Nation中设置 {#get-set-up-in-the-marketing-nation}
 
-确保您正确设置了正确的访问和信息。
+确保已在Marketo社区中正确设置您。
 
-* 观看的简短概述 **Marketo的功能**  — 千克 — 查找更好的视频或DELETE
+* **[设置配置文件]**(https://nation.marketo.com/){target="_blank"}.
 
-* **设置配置文件** 在 [**营销国家/地区**](https://nation.marketo.com/){target="_blank"} 社区（需要用户名和密码）。
+* [**设置配置文件**](https://nation.marketo.com/){target="_blank"}.
+
+* **[设置配置文件](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[设置配置文件](https://nation.marketo.com/){target="_blank"}**.
 
 * 阅读 [**营销社区准则**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * 单击 **[!UICONTROL 您的地标]** Marketo ，以便查看贵公司的帐户页面。
 
 * 了解如何 [**提交支持案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})。
-
-* [**管理用户**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} 删除离开您公司的人。
 
 ## 继承实例审核指南 {#inherited-instance-audit-guides}
 
