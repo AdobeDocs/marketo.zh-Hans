@@ -4,7 +4,7 @@ title: 最新发行说明测试
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
+source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 0%
@@ -22,7 +22,6 @@ ht-degree: 0%
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
 以下功能属于标准发行周期，并将于以下日期开始发行 **2023年9月8日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
-</br>
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -72,7 +71,7 @@ ht-degree: 0%
 
 以下所有功能都遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请检查每个功能旁边的状态信息。
 </br>
-<table style="table-layout:auto"> 
+<table style="border: none">
  <tbody> 
   <tr> 
    <th style="width:65%">功能</th> 
@@ -89,7 +88,7 @@ ht-degree: 0%
 
 ### Dynamic Chat {#dynamic-chat}
 
-<table style="table-layout:auto"> 
+<table style="border: 0px">
  <tbody> 
   <tr> 
    <th style="width:65%">功能</th> 
