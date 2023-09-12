@@ -4,7 +4,7 @@ title: Dynamic Chat概述
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '627'
 ht-degree: 1%
@@ -17,11 +17,11 @@ Dynamic Chat功能允许您利用简单易用的界面来定位访问您网站�
 
 >[!TIP]
 >
->访问 [此页面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) 查看Dynamic Chat的教程视频。
+>访问 [此页面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} 查看Dynamic Chat的教程视频。
 
 ## 集成 {#integrations}
 
-Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo订阅进行交互。 要利用此集成的完整功能，您首先需要启动数据同步。 根据Marketo数据库的大小，初始数据可能需要长达24小时， [一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) 完成。
+Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo订阅进行交互。 要利用此集成的完整功能，您首先需要启动数据同步。 根据Marketo数据库的大小，初始数据可能需要长达24小时， [一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md){target="_blank"} 完成。
 
 以下内容已同步：
 
@@ -31,27 +31,27 @@ Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo�
 
 ## 对话 {#dialogues}
 
-对话框表示单个聊天项目。 将其视为一个容器，其中包含与网站访客进行引人入胜的聊天对话框所需的所有内容。 在每个对话框中，您可以指定希望对话框显示的页面、显示目标对象以及对话框本身的内容和流程。 此外，您还可以查找量度以查看对话框的执行情况。 [了解有关对话框的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
+对话框表示单个聊天项目。 将其视为一个容器，其中包含与网站访客进行引人入胜的聊天对话框所需的所有内容。 在每个对话框中，您可以指定希望对话框显示的页面、显示目标对象以及对话框本身的内容和流程。 此外，您还可以查找量度以查看对话框的执行情况。 [了解有关对话框的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md){target="_blank"}.
 
 ## 配置 {#configuration}
 
-在“配置”选项卡中，自定义各种对话框的外观。 更改字体、颜色、响应时间等！ [了解有关配置的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
+在“配置”选项卡中，自定义各种对话框的外观。 更改字体、颜色、响应时间等！ [了解有关配置的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/configuration.md){target="_blank"}.
 
 ## 日程表 {#calendar}
 
-连接你的Outlook或Gmail日历，以用于聊天机器人中的约会计划。 [了解有关日历的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
+连接你的Outlook或Gmail日历，以用于聊天机器人中的约会计划。 [了解有关日历的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#connect-calendar){target="_blank"}
 
 ## 会议 {#meetings}
 
-在这里，您可以看到网站访客通过各种对话框安排的所有约会。 [了解有关会议的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
+在这里，您可以看到网站访客通过各种对话框安排的所有约会。 [了解有关会议的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat-two/meeting-list.md){target="_blank"}
 
 ## 路由 {#routing}
 
-在这里，您可以查看已连接其日历的所有代理的列表，以及它们向网站访客呈现的顺序，还可以创建自定义路由规则。 [了解有关路由的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+在这里，您可以查看已连接其日历的所有代理的列表，以及它们向网站访客呈现的顺序，还可以创建自定义路由规则。 [了解有关路由的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/routing.md){target="_blank"}
 
 ## 实时聊天 {#live-chat}
 
-提供符合条件的Web访客，以便通过以下方式与您的销售代表联系： [实时聊天](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
+提供符合条件的Web访客，以便通过以下方式与您的销售代表联系： [实时聊天](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md){target="_blank"}.
 
 ## 常见问题解答 {#faq}
 

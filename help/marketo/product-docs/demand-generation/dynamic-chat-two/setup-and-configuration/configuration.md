@@ -4,7 +4,7 @@ title: 配置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 您将在此处定义显示对话框的聊天机器人的外观，包括：颜色、字体、机器人小部件的放置以及聊天机器人的名称/头像。
 
-每个类别的颜色由 [十六进制颜色值](https://color.adobe.com/create/color-wheel) (例如，white = #ffffff，red = #bf1932等)。
+每个类别的颜色由 [十六进制颜色值](https://color.adobe.com/create/color-wheel){target="_blank"} (例如，white = #ffffff，red = #bf1932等)。
 
 ![](assets/configuration-3.png)
 

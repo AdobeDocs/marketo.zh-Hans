@@ -4,9 +4,9 @@ title: 受众标准
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ## 优先级 {#priority}
 
-优先级确定在符合多个对话框资格的情况下，潜在客户将收到哪个对话框。 它是当你第一次接触时 [创建您的对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. 您可以通过打开现有对话框并转到 **对话框详细信息** 在受众标准选项卡中。
+优先级确定在符合多个对话框资格的情况下，潜在客户将收到哪个对话框。 它是当你第一次接触时 [创建您的对话框](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}. 您可以通过打开现有对话框并转到 **对话框详细信息** 在受众标准选项卡中。
 
 ![](assets/audience-criteria-1.png)
 
@@ -87,7 +87,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >当有人访问您的网站时， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 将他们饼干并放入系统中。 我们在一个特殊的数据库中查找他们的IP，并推断出各种好的信息。
+   >当有人访问您的网站时， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} 将他们饼干并放入系统中。 我们在一个特殊的数据库中查找他们的IP，并推断出各种好的信息。
 
 1. _是_ 默认设置。 在选择值字段中，键入NY （您还可以单击下拉菜单并从列表中选择）。
 
@@ -136,7 +136,5 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->* [创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
->* [流设计器](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* [报表](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-
+>* [创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [流设计器](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}

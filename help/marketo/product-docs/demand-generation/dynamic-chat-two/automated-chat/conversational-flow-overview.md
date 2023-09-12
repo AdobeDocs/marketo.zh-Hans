@@ -4,7 +4,7 @@ title: 对话流概述
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 虽然对话流和对话流具有许多相似之处，但它们是两个独立的特征。
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th style="width:50%">对话</th> 

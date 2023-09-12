@@ -4,7 +4,7 @@ title: 初始设置
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -25,12 +25,12 @@ ht-degree: 0%
 
    ![](assets/initial-setup-1.png)
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果不能， [设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果不能， [设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/initial-setup-2.png)
 
 ## 添加用户 {#add-users}
 
-1. 登录到Admin Console后，下一步要做的就是添加用户。 我们有这个过程 [此处记录](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
+1. 登录到Admin Console后，下一步要做的就是添加用户。 我们有这个过程 [此处记录](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}.
 
-接下来，是时候 [将Dynamic Chat连接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md).
+接下来，是时候 [将Dynamic Chat连接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md){target="_blank"}.
