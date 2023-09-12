@@ -4,9 +4,9 @@ title: 路由
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 轮询：会议按顺序分配给座席。 如果你有5个座席，3个座席，参加上次会议，4个座席，接下一个，5个座席，然后返回1号座席。
 
 自定义规则：您可以根据所选的属性选择特定座席以接收会议。
+
+>[!NOTE]
+>
+>帐户路由被赋予最高优先级。 当访客到达对话点以预约会议或启动实时聊天时， [帐户路由](#account-routing) 首先选中，然后再考虑其它路由选项。
 
 ## 创建自定义规则 {#create-a-custom-rule}
 
