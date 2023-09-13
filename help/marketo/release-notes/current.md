@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 0dce393742df841af88b71614b55c4946c081814
 workflow-type: tm+mt
-source-wordcount: '904'
-ht-degree: 1%
+source-wordcount: '902'
+ht-degree: 2%
 
 ---
 
@@ -41,8 +41,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td><strong>由Design Studio Assets的计数列使用</strong>：Marketo Engage程序参考库允许用户导入代表Adobe推荐的最佳实践的“示例”程序和其他资源。 我们的产品管理团队已完全更新了库，为那些希望快速启动计划的客户提供了更有价值的工具。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -51,8 +51,8 @@ ht-degree: 1%
   </tr>
    <tr> 
    <td><strong>由Design Studio Assets的选项卡增强功能使用</strong>：用于增强功能选项卡提供了有关资产类型和名称及其使用位置的更详细视图。 这适用于“电子邮件详细信息”和“图像和文件详细信息”。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
    <tr> 
    <td> </td> 
