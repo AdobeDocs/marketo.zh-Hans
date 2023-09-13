@@ -2,9 +2,9 @@
 description: Dynamic Chat概述 — Marketo文档 — 产品文档
 title: Dynamic Chat概述
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '654'
 ht-degree: 1%
 
 ---
@@ -50,6 +50,10 @@ Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo�
 ## 实时聊天 {#live-chat}
 
 提供符合条件的Web访客，以便通过以下方式与您的销售代表联系： [实时聊天](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
+
+## 对话流 {#conversational-flow}
+
+[设计对话](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} 这些消息可以由访客根据您指定的操作（例如，填写表单、单击链接等）触发。
 
 ## 常见问题解答 {#faq}
 

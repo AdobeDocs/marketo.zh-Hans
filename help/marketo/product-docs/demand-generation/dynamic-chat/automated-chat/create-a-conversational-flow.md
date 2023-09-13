@@ -2,7 +2,7 @@
 description: 创建对话流 — Marketo文档 — 产品文档
 title: 创建对话流
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -25,9 +25,9 @@ ht-degree: 0%
 
    ![](assets/create-a-conversational-flow-3.png)
 
->[!NOTE]
->
->这将仅更改系统文本的语言。 您负责翻译内容。
+   >[!NOTE]
+   >
+   >这将仅更改系统文本的语言。 您负责翻译内容。
 
 1. 就像在对话中一样，此时是时候 [创建流](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
