@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
+source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
 workflow-type: tm+mt
-source-wordcount: '9158'
-ht-degree: 1%
+source-wordcount: '9107'
+ht-degree: 0%
 
 ---
 
@@ -647,56 +647,34 @@ ht-degree: 1%
          + [将Google客户匹配项添加为LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [将LinkedIn匹配的受众添加为LaunchPoint服务](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [将列表发送到广告网络](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
-      + DYNAMIC CHAT2 {#dynamic-chat-two}
-         + [Dynamic Chat概述](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
-         + [聊天机器人行为](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
-         + [会议列表](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
-         + [Dynamic Chat活动](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
-         + [Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
-         + 自动聊天 {#automated-chat}
-            + [对话流概述](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md)
-            + [创建对话流](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
-            + [Marketo EngageForms的对话流设置](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
-            + [对话框概述](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
-            + [创建对话框](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
-            + [受众标准](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
-            + [流设计器](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
-         + 集成 {#integrations}
-            + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
-            + [Adobe PDF 嵌入式 API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)
-         + 实时聊天 {#live-chat}
-            + [实时聊天概述](product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md)
-            + [代理收件箱](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
-         + 设置和配置 {#setup-and-configuration}
-            + [初始设置](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
-            + [添加或删除聊天用户](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
-            + [配置](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/configuration.md)
-            + [代理设置](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md)
-            + [代理管理](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md)
-            + [安全设置](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/security-settings.md)
-            + [路由](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/routing.md)
       + Dynamic Chat {#dynamic-chat}
-         + [释放插入](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Dynamic Chat概述](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
-         + [初始设置](product-docs/demand-generation/dynamic-chat/initial-setup.md)
-         + [添加或删除聊天用户](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
-         + [浏览器通知](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
-         + [配置](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [聊天机器人行为](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
+         + [会议列表](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat活动](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + 约会计划 {#appointment-scheduling}
-            + [日程表](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
-            + [会议](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
-            + [路由](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
+         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + 自动聊天 {#automated-chat}
+            + [对话流概述](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
+            + [创建对话流](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
+            + [Marketo EngageForms的对话流设置](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
+            + [对话框概述](product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md)
+            + [创建对话框](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
+            + [受众标准](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
+            + [流设计器](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
          + 集成 {#integrations}
-            + [将Dynamic Chat连接到Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
-            + [使用文档信息卡](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
-         + 对话 {#dialogues}
-            + [对话框概述](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
-            + [创建对话框](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
-            + [受众标准](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-            + [流设计器](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [报表](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+            + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
+            + [Adobe PDF 嵌入式 API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
+         + 实时聊天 {#live-chat}
+            + [实时聊天概述](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
+            + [代理收件箱](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+         + 设置和配置 {#setup-and-configuration}
+            + [初始设置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
+            + [添加或删除聊天用户](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [配置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
+            + [代理设置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
+            + [代理管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
+            + [安全设置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
+            + [路由](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
       + 事件 {#events}
          + 了解事件 {#understanding-events}
             + [将成员添加到事件程序](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -1964,7 +1942,6 @@ ht-degree: 1%
 + 发行说明 {#release-notes}
    + [发布计划](release-notes/release-schedule.md)
    + [当前版本](release-notes/current.md)
-   + [当前版本](release-notes/current-test.md)
    + 之前版本 {#previous-releases}
       + 2023 {#2023}
          + [发行说明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
