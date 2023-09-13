@@ -3,7 +3,7 @@ description: 发行说明 — 2022年8月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年8月
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 以下功能已于开始分阶段推出 **2022年8月26日**.
 
-## 跨渠道编排 {#cross-channel-orchestration}
+## 跨渠道编排 {#cross-channel-orchestration}
 
-* **[为Dynamic Chat一次启用/禁用所有已发布的对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**：一次全局启用/禁用“配置”页面中的所有已发布对话框，只需按一下按钮即可。
+* **[为Dynamic Chat一次启用/禁用所有已发布的对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**：一次全局启用/禁用“配置”页面中的所有已发布对话框，只需按一下按钮即可。
 
-* **[Dynamic Chat的自定义头像](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target="_blank"}**：上传自定义聊天机器人头像，以便根据您的品牌进行个性化。
+* **[Dynamic Chat的自定义头像](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#agent-settings){target="_blank"}**：上传自定义聊天机器人头像，以便根据您的品牌进行个性化。
 
 * **用于Dynamic Chat的聊天记录**：查看每个对话的聊天记录，以更深入地了解每个Web访客感兴趣的内容。
 
