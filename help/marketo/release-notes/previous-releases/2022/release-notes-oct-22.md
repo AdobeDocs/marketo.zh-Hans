@@ -3,7 +3,7 @@ description: 发行说明 — 2022年10月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年10月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 2%
@@ -154,7 +154,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">流设计器图标</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer#stream-designer-icons">流设计器图标</a></td>
   </tr>
   </tbody>
 </table>
@@ -168,7 +168,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">日程表</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">日程表</a></td>
   </tr>
   </tbody>
 </table>
