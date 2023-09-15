@@ -3,9 +3,9 @@ description: 了解如何优化和扩展您继承的现有Marketo Engage实例�
 title: Jumpstart继承的Marketo Engage实例
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,9 @@ ht-degree: 0%
 
 ## 在Marketing Nation中设置 {#get-set-up-in-the-marketing-nation}
 
-确保已在Marketo社区中正确设置您。
-
-* **[设置配置文件]**(https://nation.marketo.com/){target="_blank"}.
+确保在营销国家社区中正确设置了您。
 
 * [**设置配置文件**](https://nation.marketo.com/){target="_blank"}.
-
-* **[设置配置文件](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[设置配置文件](https://nation.marketo.com/){target="_blank"}**.
 
 * 阅读 [**营销社区准则**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -32,9 +26,9 @@ ht-degree: 0%
 
 * 了解如何 [**提交支持案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})。
 
-## 继承实例审核指南 {#inherited-instance-audit-guides}
+## 审核继承的实例  {#audit-your-inherited-instance}
 
-以下核对表与Marketo Champions提供的意见相结合，可帮助您快速上手。 了解如何导航不同的Marketo Engage区域并执行执行审核所需的各种任务，其中还包含推荐帮助文档的链接。
+Adobe Professional Services(通过Marketo Champions输入)已整合多个Marketo Engage继承实例审核核对清单，以帮助您快速上手。 了解如何导航不同的Marketo Engage区域并执行执行审核所需的各种任务，其中还包含推荐帮助文档的链接。
 
 您还可以下载电子表格格式的核对清单。
 
