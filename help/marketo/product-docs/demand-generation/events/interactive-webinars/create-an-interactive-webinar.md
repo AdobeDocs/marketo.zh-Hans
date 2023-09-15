@@ -3,9 +3,9 @@ description: 创建交互式网络研讨会 — Marketo文档 — 产品文档
 title: 创建交互式网络研讨会
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0ee9bd4bc9639c452219f9445a88b552617a785f
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,13 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. 单击渠道下拉菜单并选择 **网络研讨会**.
+1. 单击渠道下拉列表，然后选择具有 _网络研讨会活动_ （在它的“应用于”列中）。 在本例中，我们选择 **网络研讨会**.
 
    ![](assets/create-an-interactive-webinar-4.png)
+
+   >[!NOTE]
+   >
+   >要查看哪些渠道适用于 _网络研讨会活动_，转到 **管理员** > **标记**. “应用于”应为中间列。 详细了解的步骤5中的“适用于” [本文](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. 选择 **交互式网络研讨会** 并单击 **下一个**.
 
@@ -46,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-将创建交互式网络研讨会。 现在，是时候 [设计](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+将创建交互式网络研讨会。 现在，是时候 [设计](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 ![](assets/create-an-interactive-webinar-8.png)
