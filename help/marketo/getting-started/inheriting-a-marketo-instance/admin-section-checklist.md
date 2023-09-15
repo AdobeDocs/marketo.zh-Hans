@@ -3,9 +3,9 @@ description: 继承实例管理员核对清单 — Marketo文档 — 产品文�
 title: 继承实例管理员核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
+source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1560'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 1%
    <td><li>您的Marketo Engage订阅是否已迁移到 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> 到现在为止吗？ 
 <br/>     如果是这样，您的“Adobe Admin Console系统管理员”是否已向您授予“Adobe Admin Console产品管理员”角色？ 如果您不确定贵组织中的哪些人具有控制台中的管理员权限，请联系 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客户关怀</a>.</li>
 <li>您是否接受了“Marketo Engage产品管理员”邀请？ 在Adobe Admin Console中分配角色后，将发送电子邮件。
-<br/>     如果不能，请查找 <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">欢迎电子邮件</a> 并接受邀请以激活您的Adobe ID。</li></td>
+<br/>     如果不能，请查找 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">欢迎电子邮件</a> 并接受邀请以激活您的Adobe ID。</li></td>
   </tr>
   <tr> 
    <td>产品配置文件</td> 
