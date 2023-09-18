@@ -3,9 +3,9 @@ description: 继承实例营销活动核对清单 — Marketo文档 — 产品�
 title: 继承实例营销活动核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th style="width:20%">区域</th> 
-   <th>审核焦点</th>
+   <th style="width:80%">审核焦点</th>
   </tr> 
   <tr> 
    <td>命名约定</td> 
@@ -32,12 +32,12 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>程序</td> 
-   <td><li>公斤 — 这是否仍然相关 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">卓越中心</a> 使用计划模板？ 
-   <br/>     如果是，项目模板对团队的用例是否有意义？</li>
-<li>程序类型相似 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">结构一致</a>？</li>
+   <td><li>程序类型相似 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">结构一致</a>？</li>
 <li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期间成本</a> 就位？</li>
 <li>是所有项目群 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">已同步到SFDC营销活动</a> （如果适用）？</li>
-<li>您是否具有分配 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">客户获取计划</a> 对人来说？</li></td>
+<li>您是否具有分配 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">客户获取计划</a> 对人来说？</li>
+<li>是否为项目模板设置了中心位置？ 
+   <br/>     如果不能，请从以下位置选择几个预建的程序示例： <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage计划库</a>.</li></td>
   </tr>
   <tr> 
    <td>存档</td> 
@@ -45,14 +45,14 @@ ht-degree: 0%
 <li>您的公司多久审阅一次旧程序并将其存档？</li>
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：每年进行一次审查很好。</td>
   </tr>
-  <tr> 
+  <tr>
    <td>通知</td> 
    <td><li>中是否有任何促销活动错误 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">“通知”选项卡</a> 位于实例顶部？</li>
 <li>您是否 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">订阅的通知</a> 随时了解未来可能出现的任何错误吗？</li></td>
   </tr>
   <tr> 
    <td>智能列表订阅 
-   <br/>（“营销活动/订阅”选项卡）</td> 
+   <br/>（营销活动/订阅）</td> 
    <td><li>是否正在进行 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">智能列表订阅</a> 在您的实例中？ 如果是，他们会向谁求助？</li>
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：请考虑设置智能列表订阅以转到团队别名而不是个人。 如果有人不在办公室，这将涵盖您。</td>
   </tr>
@@ -65,7 +65,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th style="width:20%">区域</th> 
-   <th>审核焦点</th>
+   <th style="width:80%">审核焦点</th>
   </tr> 
   <tr> 
    <td>令牌</td> 
@@ -79,7 +79,8 @@ ht-degree: 0%
 <li>数量 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">人们筋疲力尽</a>？ 
 <br/>     如果有很多筋疲力尽的人，请考虑 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">添加内容</a>.</li>
 <li>是否为人员 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">使用内容</a>？ 
-<br/>     如果没有，请考虑更新它和/或A/B测试。</li></td>
+<br/>     如果没有，请考虑更新它和/或A/B测试。</li>
+<li>您在多个参与项目中是否遇到过人员？ 它们是否应该位于多个内部？</li></td>
   </tr>
   <tr> 
    <td>批量活动</td> 
@@ -117,7 +118,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th style="width:20%">区域</th> 
-   <th>审核焦点</th>
+   <th style="width:80%">审核焦点</th>
   </tr> 
   <tr> 
    <td>人员得分</td> 
@@ -151,7 +152,7 @@ ht-degree: 0%
   <tr> 
    <td>电子邮件可投放性</td> 
    <td><li>提取 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">电子邮件性能报表</a> 过去几个月的发送次数。 电子邮件可投放性看起来如何？</li>
-<li>如果电子邮件可投放性较差，请考虑调查并实施电子邮件可投放性最佳实践，例如 <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF和DKIM</a>.</li>
+<li>如果您的电子邮件可投放性没有您想要的那么强，请考虑调查并实施电子邮件可投放性最佳实践，例如 <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF和DKIM</a>.</li>
 <li>您是否联系了可销售的完整受众？</li></td>
   </tr>
   <tr> 

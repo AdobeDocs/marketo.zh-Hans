@@ -3,9 +3,9 @@ description: 继承实例管理员核对清单 — Marketo文档 — 产品文�
 title: 继承实例管理员核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '1564'
+source-wordcount: '1566'
 ht-degree: 1%
 
 ---
@@ -147,7 +147,7 @@ ht-degree: 1%
    <th>审核焦点</th>
   </tr> 
   <tr> 
-   <td>Smart Campaign设置</td> 
+   <td>智能营销活动</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">您是否有限制</a> Smart Campaign规模？ 
    <br/>     如果不能，请考虑添加一个。 我们建议将Smart Campaign限制为数据库的25%，以避免在工作流程中过度通信或处理整个数据库；这不仅可以保护您的品牌，还有助于保护实例的性能。</li></td>
   </tr>
@@ -264,7 +264,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>蒙奇金</td> 
-   <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin跟踪代码</a> (不在Marketo中)？</li>
+   <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin跟踪代码</a> (而非Marketo Engage登录页面)中列出的广告？</li>
 <li>是 <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">不跟踪</a> 是否启用了浏览器请求？</li>
 <li>是您的 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 已配置？ 
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：如果您缺少有关munchkin代码在您的网站上的位置的文档，则可以通过创建 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">网页活动报表</a>.</li></td>
