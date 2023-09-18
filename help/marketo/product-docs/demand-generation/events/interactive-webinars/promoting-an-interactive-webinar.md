@@ -2,7 +2,7 @@
 description: 推广交互式网络研讨会 — Marketo文档 — 产品文档
 title: 推广交互式网络研讨会
 feature: Interactive Webinars
-source-git-commit: 346e159bdc2bb8e28cbf87764f4f71577177b636
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 推广交互式网络研讨会 {#promoting-an-interactive-webinar}
 
-推广交互式网络研讨会与通过Launchpoint推广合作伙伴网络研讨会类似。 在创建交互式网络研讨会事件程序时，您可以通过运行活动或将成员导入程序来向程序添加成员。 要检查已添加到交互式网络研讨会事件程序的成员，请单击“成员”选项卡。
+推广交互式网络研讨会与通过Launchpoint推广合作伙伴网络研讨会类似。 在创建交互式网络研讨会事件程序时，您可以通过运行活动或将成员导入程序来向程序添加成员。 要检查已添加到交互式网络研讨会事件程序中的成员，请单击“成员”选项卡。
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 

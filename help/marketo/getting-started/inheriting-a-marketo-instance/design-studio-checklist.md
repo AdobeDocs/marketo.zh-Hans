@@ -3,9 +3,9 @@ description: 继承实例Design Studio核对清单 — Marketo文档 — 产品�
 title: 继承实例Design Studio核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '553'
 ht-degree: 1%
 
 ---
@@ -55,7 +55,11 @@ ht-degree: 1%
 <li>大多数项目使用全球还是本地表单？</li>
 <li>所有表单都在为营销和销售收集正确的数据吗？</li>
 <li>隐藏值是否得到了适当利用？</li>
-<li>您的网站上是否使用了任何Marketo Engage表单(而非Marketo Engage登录页面)？</li></td>
+<li>是否在非Marketo Engage登录页面上使用任何Marketo Engage表单？ 它们是如何被引用的？</li>
+<p><img src="assets/tip-icon.png" alt="提示图标">提示：使用引入的新嵌入代码更新嵌入Marketo Engage表单的页面（需要安全的登陆页面）。
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>数据标准化</td> 

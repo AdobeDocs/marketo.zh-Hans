@@ -3,16 +3,16 @@ description: 继承实例文档您的设置 — Marketo文档 — 产品文档
 title: 继承的实例文档您的设置
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '310'
 ht-degree: 1%
 
 ---
 
 # 继承的实例：记录您的设置 {#inherited-instance-document-your-setup}
 
-现在您已了解在继承已建立的实例时要审核的关键产品领域，下一步是创建/更新有关实例配置和技术栈栈的文档。 无论是通过电子表格还是项目管理应用程序创建文档，您的文档都是跟踪进度和记录详细信息的有用资源。
+现在您已了解在继承已建立的实例时要审核的关键产品领域，下一步是创建/更新有关实例配置和技术栈栈的文档。 无论是通过电子表格还是项目管理应用程序创建实例，您的文档都将是跟踪进展和记录详细信息以及保持实例结构化和可持续性的有用资源。
 
 ## 数据 {#data}
 
@@ -51,11 +51,12 @@ ht-degree: 1%
   <tr> 
    <td>组织</td> 
     <td><li>您是否拥有有关Marketo Engage实例的组织方式及其原因的详尽文档？</li>
-   <p><p><img src="assets/action-item-icon.png" alt="措施项图标">措施项：创建包含文件夹结构、命名惯例和实例中使用的渠道的文档。</td>
+   <p><img src="assets/action-item-icon.png" alt="措施项图标">措施项：创建包含文件夹结构、命名惯例和实例中使用的渠道的文档。</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
-    <td><li>您是否有更改日志，您可以在其中记录实例中的更改内容以及更改原因？</li></td>
+    <td><li>您是否有更改日志，您可以在其中记录实例中的更改内容以及更改原因？</li>
+    <p><img src="assets/action-item-icon.png" alt="措施项图标">措施项：下载此示例以创建更改日志，并记录对实例设置的更改。</td>
   </tr>
   <tr> 
    <td>行动手册</td> 
@@ -65,7 +66,8 @@ ht-degree: 1%
   <tr> 
    <td>与内部利益相关者的对话</td> 
     <td><li>您公司的营销团队的内部期望是什么？ 它们是否与交付的Marketo Engage相匹配？</li>
-   <li>哪些团队是您Marketo Engage实例中的利益相关者？</li></td>
+   <li>哪些团队是您Marketo Engage实例中的利益相关者？</li>
+   <p><img src="assets/action-item-icon.png" alt="措施项图标">操作项：下载此项 <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">内部利益相关者沟通指南模板</a> 记录关键利益相关者的目标和期望。</td>
   </tr>
  </tbody> 
 </table>

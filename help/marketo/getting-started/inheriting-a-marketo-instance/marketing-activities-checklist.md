@@ -3,7 +3,7 @@ description: 继承实例营销活动核对清单 — Marketo文档 — 产品�
 title: 继承实例营销活动核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## 组织 {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">区域</th> 
-   <th style="width:80%">审核焦点</th>
+   <th style="width:30%">区域</th> 
+   <th style="width:70%">审核焦点</th>
   </tr> 
   <tr> 
    <td>命名约定</td> 
@@ -61,12 +61,12 @@ ht-degree: 0%
 
 ## 资产 {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">区域</th> 
-   <th style="width:80%">审核焦点</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">区域</th>
+   <th style="width:70%">审核焦点</th>
+  </tr>
   <tr> 
    <td>令牌</td> 
    <td><li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">令牌</a> 是否用于您最常用的程序类型？ 
@@ -114,12 +114,12 @@ ht-degree: 0%
 
 ## 运行程序 {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">区域</th> 
-   <th style="width:80%">审核焦点</th>
-  </tr> 
+   <th style="width:30%">区域</th> 
+   <th style="width:70%">审核焦点</th>
+  </tr>
   <tr> 
    <td>人员得分</td> 
    <td><li>您是否拥有集中化的 <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">人员得分</a> 项目已就绪？</li>
