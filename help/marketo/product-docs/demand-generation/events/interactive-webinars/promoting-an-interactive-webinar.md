@@ -1,12 +1,10 @@
 ---
 description: 推广交互式网络研讨会 — Marketo文档 — 产品文档
 title: 推广交互式网络研讨会
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d747305b4571cfbf8e40c46824d1e4bc148fca7e
+source-git-commit: 346e159bdc2bb8e28cbf87764f4f71577177b636
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -33,4 +31,6 @@ ht-degree: 0%
 
 您可以使用令牌在电子邮件促销活动中向个人成员包含网络研讨会URL，以告知他们已在事件中注册，并使用加入URL在计划时间进入网络研讨会。 日历令牌可用于同一电子邮件营销活动，以确保可以将网络研讨会计划添加到成员的日历中。
 
-中提供了相关链接 [“概述”页面](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) 创建登陆页面以及电子邮件营销活动。 与活动相关的其余促销活动与使用Launchpoint集成的合作伙伴网络研讨会相同。
+事件程序中“概述”选项卡右侧的可用链接，可用于创建登陆页面和电子邮件营销活动。 与活动相关的其余促销活动与使用Launchpoint集成的合作伙伴网络研讨会相同。
+
+![](assets/promoting-an-interactive-webinar-2.png)
