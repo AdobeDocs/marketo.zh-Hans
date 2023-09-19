@@ -3,9 +3,9 @@ description: 继承实例Design Studio核对清单 — Marketo文档 — 产品�
 title: 继承实例Design Studio核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '560'
 ht-degree: 1%
 
 ---
@@ -41,6 +41,31 @@ ht-degree: 1%
  </tbody> 
 </table>
 
+## 图像和文件 {#images-and-files}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">区域</th> 
+   <th>审核焦点</th>
+  </tr> 
+  <tr> 
+   <td>命名约定</td> 
+   <td><li>Do <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">图像和文件</a> 是否具有一致的命名约定？</li></td>
+  </tr>
+  <tr> 
+   <td>文件夹结构</td> 
+   <td><li>是图像和文件 <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">组织得当</a> 而且易于搜索？</li></td>
+  </tr>
+  <tr> 
+   <td>图像和文件</td> 
+   <td><li>执行任何图像或文件 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">在网页上引用</a> 是否需要更新？ 
+   <p>示例：硬编码URL结构 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">可能需要更新</a>，例如 <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>请与您的Web开发人员合作，确定可能需要进行更新的位置。</li></td>
+  </tr>
+ </tbody> 
+</table>
+
 ## Forms {#forms}
 
 <table style="table-layout:auto"> 
@@ -57,8 +82,8 @@ ht-degree: 1%
 <li>隐藏值是否得到了适当利用？</li>
 <li>是否在非Marketo Engage登录页面上使用任何Marketo Engage表单？ 它们是如何被引用的？</li>
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：使用引入的新嵌入代码更新嵌入Marketo Engage表单的页面（需要安全的登陆页面）。
-<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
+<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
 </td>
   </tr>
   <tr> 
@@ -120,31 +145,6 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 图像和文件 {#images-and-files}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">区域</th> 
-   <th>审核焦点</th>
-  </tr> 
-  <tr> 
-   <td>命名约定</td> 
-   <td><li>Do <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">图像和文件</a> 是否具有一致的命名约定？</li></td>
-  </tr>
-  <tr> 
-   <td>文件夹结构</td> 
-   <td><li>是图像和文件 <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">组织得当</a> 而且易于搜索？</li></td>
-  </tr>
-  <tr> 
-   <td>图像和文件</td> 
-   <td><li>执行任何图像或文件 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">在网页上引用</a> 是否需要更新？ 
-   <p>示例：硬编码URL结构 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">可能需要更新</a>，例如 <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
-   <p>请与您的Web开发人员合作，确定可能需要进行更新的位置。</li></td>
-  </tr>
- </tbody> 
-</table>
-
 ## 所有资产 {#all-assets}
 
 <table style="table-layout:auto"> 
@@ -155,7 +155,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>资源状态</td> 
-   <td><li>有多少资产在 <i>草稿</i> 和 <i>已审批，草稿</i> 状态？
+   <td><li>有多少资产在 <i>草稿</i> 和 <i>已审批，草稿</i> 状态(例如， <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">电子邮件</a>， <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">登陆页面</a>， <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">表单</a>， <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">片段</a>)？
    <br/>     如果有多个文件夹，请考虑删除或批准这些文件夹。</li></td>
   </tr>
   <tr> 
