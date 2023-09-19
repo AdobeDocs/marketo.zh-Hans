@@ -4,9 +4,9 @@ description: 为Marketo配置协议 — Marketo文档 — 产品文档
 title: 为Marketo配置协议
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 232895f3d07b2b076100eeaaabaea0ed7560c7b2
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '1028'
 ht-degree: 3%
 
 ---

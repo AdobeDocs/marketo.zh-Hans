@@ -3,9 +3,9 @@ description: 继承实例文档您的设置 — Marketo文档 — 产品文档
 title: 继承的实例文档您的设置
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '305'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 1%
   <tr> 
    <td>Changelog</td> 
     <td><li>您是否有更改日志，您可以在其中记录实例中的更改内容以及更改原因？</li>
-    <p><img src="assets/action-item-icon.png" alt="措施项图标">措施项：下载此示例以创建更改日志，并记录对实例设置的更改。</td>
+    <p><img src="assets/action-item-icon.png" alt="措施项图标">措施项：创建更改日志，并记录对实例配置所做的更改。</td>
   </tr>
   <tr> 
    <td>行动手册</td> 
@@ -67,7 +67,7 @@ ht-degree: 1%
    <td>与内部利益相关者的对话</td> 
     <td><li>您公司的营销团队的内部期望是什么？ 它们是否与交付的Marketo Engage相匹配？</li>
    <li>哪些团队是您Marketo Engage实例中的利益相关者？</li>
-   <p><img src="assets/action-item-icon.png" alt="措施项图标">操作项：下载此项 <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">内部利益相关者沟通指南模板</a> 记录关键利益相关者的目标和期望。</td>
+   <p><img src="assets/action-item-icon.png" alt="措施项图标">措施项目：记录关键利益相关者的目标和期望，并在全年与交易方签到时进行更新。</td>
   </tr>
  </tbody> 
 </table>

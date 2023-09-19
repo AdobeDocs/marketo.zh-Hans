@@ -3,9 +3,9 @@ description: 继承实例管理员核对清单 — Marketo文档 — 产品文�
 title: 继承实例管理员核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1592'
 ht-degree: 1%
 
 ---
@@ -231,6 +231,21 @@ ht-degree: 1%
    <td>自定义对象</td> 
    <td><li>数量 <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">自定义对象</a> 有吗？ 它们如何同步到您的CRM？</li>
 <li>您的程序和列表查询如何使用这些自定义对象？</li></td>
+  </tr>
+ </tbody> 
+</table>
+
+## 电子邮件 {#email}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">区域</th>
+   <th>审核焦点</th>
+  </tr> 
+  <tr> 
+   <td>电子邮件默认设置</td> 
+   <td><li>在管理员&gt;电子邮件中，所有默认设置均为最新(例如， <a href="/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md" target="_blank">"from"电子邮件/标签</a>， <a href="/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md" target="_blank">品牌策略域</a>， <a href="/help/marketo/product-docs/administration/email-setup/edit-the-unsubscribe-message.md" target="_blank">取消订阅消息</a>等)？</li></td>
   </tr>
  </tbody> 
 </table>

@@ -3,7 +3,7 @@ description: 继承实例Design Studio核对清单 — Marketo文档 — 产品�
 title: 继承实例Design Studio核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 1%
@@ -94,6 +94,7 @@ ht-degree: 1%
   <tr> 
    <td>电子邮件测试</td> 
    <td><li>您如何使用 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">电子邮件测试</a>？ 你的方法仍然有效吗？</li></td>
+  </tr>
   </tr>
   <tr> 
    <td>隐私和合规性</td> 

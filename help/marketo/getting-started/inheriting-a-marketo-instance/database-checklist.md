@@ -3,9 +3,9 @@ description: 继承实例数据库核对清单 — Marketo文档 — 产品文�
 title: 继承实例数据库核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '421'
 ht-degree: 1%
 
 ---
@@ -74,6 +74,7 @@ ht-degree: 1%
   <tr> 
    <td>智能列表</td> 
    <td><li>数量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">智能列表</a> 有吗？ 在本例中如何使用它们？</li>
+   <p><img src="assets/note-icon.png" alt="注释图标"> 注：在“数据库”部分中，“组智能列表”是用户生成的，而“系统智能列表”是通过Marketo Engage创建的默认列表。
 <li>列表是否以具有凝聚力的文件夹结构组织？ 
 <br/>     如果您有孤立列表，请考虑组织您的树，以便轻松找到资产。</li>
 <p><img src="assets/tip-icon.png" alt="提示图标">提示： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">正在存档</a> 不再需要的智能列表将有助于组织和性能。</td>
@@ -91,7 +92,8 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>静态列表</td> 
-   <td><li>数量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">静态列表</a> 有吗？ 在本例中如何使用它们？</li></td>
+   <td><li>数量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">静态列表</a> 有吗？ 在本例中如何使用它们？</li>
+   <p><img src="assets/note-icon.png" alt="注释图标"> 注：在“数据库”部分中，组列表是静态列表。</td>
   </tr>
  </tbody> 
 </table>
