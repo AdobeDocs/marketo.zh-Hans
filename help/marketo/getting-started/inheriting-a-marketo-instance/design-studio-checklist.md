@@ -3,7 +3,7 @@ description: 继承实例Design Studio核对清单 — Marketo文档 — 产品�
 title: 继承实例Design Studio核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 1%
@@ -30,7 +30,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>模板</td> 
-   <td><li>数量 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">登陆页面模板</a> 有吗？ 它们是否正在被利用？</li></td>
+   <td><li>数量 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">登陆页面模板</a> 有吗？ 它们是否正在被利用？</li></td>
   </tr>
   <tr> 
    <td>测试组</td> 
@@ -84,7 +84,7 @@ ht-degree: 1%
 <li>隐藏值是否得到了适当利用？</li>
 <li>是否在非Marketo Engage登录页面上使用任何Marketo Engage表单？ 它们是如何被引用的？</li>
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：使用引入的新嵌入代码更新嵌入Marketo Engage表单的页面（需要安全的登陆页面）。
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="代码缩略图"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="代码缩略图"></a>
 </td>
   </tr>
   <tr> 

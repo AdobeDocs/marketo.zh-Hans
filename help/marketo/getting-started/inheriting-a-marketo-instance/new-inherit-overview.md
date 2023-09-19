@@ -3,9 +3,9 @@ description: 了解如何优化和扩展您继承的现有Marketo Engage实例�
 title: Jumpstart继承的Marketo Engage实例
 hide: true
 hidefromtoc: true
-source-git-commit: 2f0f92fdd439d5119d577096c5bf6c034bcd2be5
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 0%
 * [**设置配置文件**](https://nation.marketo.com/){target="_blank"}.
 
 * 阅读 [**营销社区准则**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
-
-* 单击 **[!UICONTROL 您的地标]** Marketo ，以便查看贵公司的帐户页面。
 
 * 了解如何 [**提交支持案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})。
 
@@ -46,7 +44,7 @@ ht-degree: 0%
 
 Adobe通过Marketo Champions的输入汇集了若干Marketo Engage继承实例审核核对清单，帮助您快速上手。 了解如何导航不同的Marketo Engage区域并执行执行审核所需的各种任务，其中还包含推荐帮助文档的链接。
 
-您还可以下载电子表格格式的核对清单。
+您还可以 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) 以电子表格形式显示。
 
 * [“管理员”部分](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
