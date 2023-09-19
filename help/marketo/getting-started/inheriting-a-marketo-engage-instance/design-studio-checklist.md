@@ -2,7 +2,7 @@
 description: 继承实例Design Studio核对清单 — Marketo文档 — 产品文档
 title: 继承实例Design Studio核对清单
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 1%
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # 继承实例：Design Studio核对清单 {#inherited-instance-design-studio-checklist}
 
-结构化模板和创建全局表单、代码片段以及图像和文件将有助于最大限度地减少数据错误并简化程序构建的工作流。 请记住 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 并跟踪您的进度。
+结构化模板和创建全局表单、代码片段以及图像和文件将有助于最大限度地减少数据错误并简化程序构建的工作流。 请记住 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 并跟踪您的进度。
 
 ## 登陆页面 {#landing-pages}
 
@@ -83,7 +83,7 @@ ht-degree: 1%
 <li>隐藏值是否得到了适当利用？</li>
 <li>是否在非Marketo Engage登录页面上使用任何Marketo Engage表单？ 它们是如何被引用的？</li>
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：使用引入的新嵌入代码更新嵌入Marketo Engage表单的页面（需要安全的登陆页面）。
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="代码缩略图"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="代码缩略图"></a>
 </td>
   </tr>
   <tr> 
@@ -168,6 +168,6 @@ ht-degree: 1%
 
 <br> 
 
-[◄审核继承的实例：营销活动](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[◄审核继承的实例：营销活动](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-[审核继承的实例：记录继承的实例设置►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+[审核继承的实例：记录继承的实例设置►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)

@@ -2,7 +2,7 @@
 description: 继承实例营销活动核对清单 — Marketo文档 — 产品文档
 title: 继承实例营销活动核对清单
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 继承实例：营销活动核对清单 {#inherited-instance-marketing-activities-checklist}
 
-正确组织“营销活动”部分，以帮助其他人查找和管理您的Marketo Engage实例中的各种项目，并确保处理好人员以便将其从“营销”传递到“销售”。 请记住 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 并跟踪您的进度。
+正确组织“营销活动”部分，以帮助其他人查找和管理您的Marketo Engage实例中的各种项目，并确保处理好人员以便将其从“营销”传递到“销售”。 请记住 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 并跟踪您的进度。
 
 ## 组织 {#organization}
 
@@ -167,6 +167,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄审计继承的实例：数据库](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[◄审计继承的实例：数据库](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-[审核继承的实例：Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[审核继承的实例：Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

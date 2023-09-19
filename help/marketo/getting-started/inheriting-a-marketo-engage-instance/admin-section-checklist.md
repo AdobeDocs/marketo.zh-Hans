@@ -2,7 +2,7 @@
 description: 继承实例管理员核对清单 — Marketo文档 — 产品文档
 title: 继承实例管理员核对清单
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 1%
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # 继承实例：管理员部分核对清单 {#inherited-instance-admin-section-checklist}
 
-以下核对清单（链接到每篇文章底部的后续核对清单）由Adobe Professional Services与Marketo Champions的输入汇总在一起，可帮助您快速上手。 您还可以 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 并跟踪您的进度。
+以下核对清单（链接到每篇文章底部的后续核对清单）由Adobe Professional Services与Marketo Champions的输入汇总在一起，可帮助您快速上手。 您还可以 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 并跟踪您的进度。
 
 >[!TIP]
 >
@@ -364,4 +364,4 @@ ht-degree: 1%
 
 <br> 
 
-[审核继承的实例：数据库►](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[审核继承的实例：数据库►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

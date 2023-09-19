@@ -2,7 +2,7 @@
 description: 继承实例数据库核对清单 — Marketo文档 — 产品文档
 title: 继承实例数据库核对清单
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 1%
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # 继承的实例：数据库核对清单 {#inherited-instance-database-checklist}
 
-了解您的订阅中的总人数、可营销人员和主要人员获取来源。 请记住 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 并跟踪您的进度。
+了解您的订阅中的总人数、可营销人员和主要人员获取来源。 请记住 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 并跟踪您的进度。
 
 ## 系统智能列表 {#system-smart-lists}
 
@@ -117,6 +117,6 @@ ht-degree: 1%
 
 <br> 
 
-[◄审核继承的实例：管理员](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+[◄审核继承的实例：管理员](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-[审核继承的实例：营销活动►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[审核继承的实例：营销活动►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

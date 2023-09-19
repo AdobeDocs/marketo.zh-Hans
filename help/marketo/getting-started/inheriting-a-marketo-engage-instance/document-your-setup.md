@@ -2,7 +2,7 @@
 description: 继承实例文档您的设置 — Marketo文档 — 产品文档
 title: 继承的实例文档您的设置
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 1%
@@ -71,4 +71,4 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-[◄审核继承的实例：Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[◄审核继承的实例：Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
