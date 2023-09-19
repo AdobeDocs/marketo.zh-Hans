@@ -3,9 +3,9 @@ description: 继承实例Design Studio核对清单 — Marketo文档 — 产品�
 title: 继承实例Design Studio核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
+source-git-commit: de7dcdfc580d9d6b01a55d366c895fc6c696975c
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '580'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,9 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>全局登陆页面</td> 
-   <td><li>全球有多少个 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">登陆页面</a> 有吗？ 它们是否被程序使用？</li></td>
+   <td><li>全球有多少个 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">登陆页面</a> 有吗？ 它们是否被程序使用？</li>
+   <li>您是否拥有 <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">订阅中心</a> 设置？
+   <br/>     如果不能，请考虑创建一个。</li></td>
   </tr>
   <tr> 
    <td>模板</td> 
@@ -83,7 +85,8 @@ ht-degree: 1%
 <li>是否在非Marketo Engage登录页面上使用任何Marketo Engage表单？ 它们是如何被引用的？</li>
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：使用引入的新嵌入代码更新嵌入Marketo Engage表单的页面（需要安全的登陆页面）。
 <br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
+<blockquote><form id="mktoForm_1"></form></blockquote>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
 </td>
   </tr>
   <tr> 
