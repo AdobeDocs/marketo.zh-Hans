@@ -3,7 +3,7 @@ description: 继承实例Design Studio核对清单 — Marketo文档 — 产品�
 title: 继承实例Design Studio核对清单
 hide: true
 hidefromtoc: true
-source-git-commit: de7dcdfc580d9d6b01a55d366c895fc6c696975c
+source-git-commit: e859c6b7c968f93b11bbd8dc281661824236fbaf
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 1%
@@ -84,9 +84,9 @@ ht-degree: 1%
 <li>隐藏值是否得到了适当利用？</li>
 <li>是否在非Marketo Engage登录页面上使用任何Marketo Engage表单？ 它们是如何被引用的？</li>
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：使用引入的新嵌入代码更新嵌入Marketo Engage表单的页面（需要安全的登陆页面）。
-<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<blockquote><form id="mktoForm_1"></form></blockquote>
-<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<form id="mktoForm_1"></form>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
 </td>
   </tr>
   <tr> 
