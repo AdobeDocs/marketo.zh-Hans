@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
 workflow-type: tm+mt
-source-wordcount: '9114'
+source-wordcount: '9098'
 ht-degree: 0%
 
 ---
@@ -37,17 +37,14 @@ ht-degree: 0%
       + [更新人员数据](getting-started/quick-wins/update-person-data.md)
       + [重定向登陆页面](getting-started/quick-wins/redirect-a-landing-page.md)
       + [针对可能存在的重复人员自动发送警报](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
-   + 继承Marketo实例 {#inheriting-a-marketo-instance}
-      + [新建继承概述](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
-      + [帮助! 我继承了一个现有的Marketo实例](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
-      + [要签出的项目](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
-      + [回顾内容：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
-      + [获取帮助的方法](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [继承实例：管理员部分核对清单](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
-      + [继承的实例：数据库核对清单](getting-started/inheriting-a-marketo-instance/database-checklist.md)
-      + [继承实例：营销活动核对清单](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
-      + [继承实例：Design Studio核对清单](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
-      + [继承的实例：记录您的设置](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+   + 继承Marketo Engage实例 {#inheriting-a-marketo-engage-instance}
+      + [从何处开始](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)
+      + [继承实例：管理员部分核对清单](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+      + [继承的实例：数据库核对清单](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+      + [继承实例：营销活动核对清单](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+      + [继承实例：Design Studio核对清单](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [继承的实例：记录您的设置](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+      + [审核核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + 产品文档 {#product-docs}
    + 其他应用程序 {#additional-apps}
       + SEO {#seo}
