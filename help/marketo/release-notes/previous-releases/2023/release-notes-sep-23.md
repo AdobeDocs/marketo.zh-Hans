@@ -2,9 +2,9 @@
 description: 发行说明 — 2023年9月 — Marketo文档 — 产品文档
 title: 发行说明 — 2023年9月
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 1%
 
 ---
@@ -52,16 +52,6 @@ ht-degree: 1%
    <td><strong>由Design Studio Assets的选项卡增强功能使用</strong>：用于增强功能选项卡提供了有关资产类型和名称及其使用位置的更详细视图。 这适用于“电子邮件详细信息”和“图像和文件详细信息”。</td> 
    <td>已发货</td>
    <td>不适用</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>计算公式流步骤服务</strong>：计算公式是基于AdobeIO运行时平台构建的流步骤服务，用于Marketo Engage智能营销活动。 具有IO运行时的Adobe客户端可以部署此服务，并将其安装到其Marketo Engage订阅中，从而允许它们在Marketo Smart Campaigns中计算类似Excel的公式。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
   </tr>
  </tbody> 
 </table>
