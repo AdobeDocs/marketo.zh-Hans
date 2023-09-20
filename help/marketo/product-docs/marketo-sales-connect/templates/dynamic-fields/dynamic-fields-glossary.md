@@ -4,10 +4,10 @@ description: 动态字段术语表 — Marketo文档 — 产品文档
 title: 动态字段术语表
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 | 动态字段 | 电子邮件中显示内容示例 |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | 如果你不想再听到我的消息，请让我知道 |
-| `{{my_name}}` | 艾伦·布拉德利 |
+| `{{friendly_unsubscribe}}` | 如果你不想再收到我的信，请让我知道 |
+| `{{my_name}}` | 基思·弗林 |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | 高级技术撰稿人 |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **注意事项**：
 
