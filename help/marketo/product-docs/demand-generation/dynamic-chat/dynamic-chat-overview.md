@@ -2,9 +2,9 @@
 description: Dynamic Chat概述 — Marketo文档 — 产品文档
 title: Dynamic Chat概述
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '641'
 ht-degree: 1%
 
 ---
@@ -64,10 +64,6 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
 **数据会存储多久以用于报表？**
 
 90天。
-
-**Dynamic Chat允许实时聊天吗？**
-
-否，它仅利用预先确定的响应。
 
 **Dynamic Chat支持英语以外的任何语言吗？**
 

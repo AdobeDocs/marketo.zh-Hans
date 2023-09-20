@@ -2,9 +2,9 @@
 description: 发行说明 — 2023年9月 — Marketo文档 — 产品文档
 title: 发行说明 — 2023年9月
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 1%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>由Design Studio Assets的计数列使用</strong>：Marketo Engage程序参考库允许用户导入代表Adobe推荐的最佳实践的“示例”程序和其他资源。 我们的产品管理团队已完全更新了库，为那些希望快速启动计划的客户提供了更有价值的工具。</td> 
+   <td><strong>由Design Studio Assets的计数列使用</strong>：Design Studio中列表视图的“用于计数”列突出显示正在使用的资源数。 这适用于代码片段、电子邮件模板、Forms和登陆页面模板。</td> 
    <td>已发货</td>
    <td>不适用</td>
   </tr>
