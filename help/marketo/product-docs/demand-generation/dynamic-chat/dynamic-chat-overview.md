@@ -2,9 +2,9 @@
 description: Dynamic Chat概述 — Marketo文档 — 产品文档
 title: Dynamic Chat概述
 feature: Dynamic Chat
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '689'
 ht-degree: 1%
 
 ---
@@ -55,28 +55,6 @@ Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo�
 
 [设计对话](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} 这些消息可以由访客根据您指定的操作（例如，填写表单、单击链接等）触发。
 
-## 常见问题解答 {#faq}
-
-**我是否可以在公司网站上的任意位置安装Dynamic Chat，或者它只能在Marketo登陆页面上使用？**
-
-Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆页面上。
-
-**数据会存储多久以用于报表？**
-
-90天。
-
-**Dynamic Chat支持英语以外的任何语言吗？**
-
-是. Dynamic Chat支持以下语言：法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、朝鲜语、简体中文和繁体中文。 在中了解详情 [以下部分](#changing-the-language).
-
-**是否支持AI/NLP功能？**
-
-我们不支持AI/NLP功能。
-
-**我如何才能定位匿名用户？**
-
-在对话框中，您将需要使用 _人员电子邮件为空_ 属性。
-
 ## 更改语言 {#changing-the-language}
 
 按照以下步骤更改Dynamic Chat语言。
@@ -105,6 +83,8 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
 
 ## Dynamic Chat数据保留限制 {#dynamic-chat-data-retention-limits}
 
+以下只是Dynamic Chat中的一些限制/参数。 有关完整列表，请参阅Marketo Engage [产品描述页面](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+
 <table>
   <th>数据类型</th>
   <th>保留期</th>
@@ -129,3 +109,25 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
   <td>24个月</td>
  </tr>
 </table>
+
+## 常见问题 {#faq}
+
+**我是否可以在公司网站上的任意位置安装Dynamic Chat，或者它只能在Marketo登陆页面上使用？**
+
+Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆页面上。
+
+**数据会存储多久以用于报表？**
+
+90天。 有关限制/参数的完整列表，请访问Marketo Engage [产品描述页面](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+
+**Dynamic Chat支持英语以外的任何语言吗？**
+
+是的。 Dynamic Chat支持以下语言：法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、朝鲜语、简体中文和繁体中文。 在中了解详情 [以下部分](#changing-the-language).
+
+**是否支持AI/NLP功能？**
+
+我们不支持AI/NLP功能。
+
+**我如何才能定位匿名用户？**
+
+在对话框中，您将需要使用 _人员电子邮件为空_ 属性。
