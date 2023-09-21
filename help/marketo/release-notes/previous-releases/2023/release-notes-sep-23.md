@@ -2,9 +2,9 @@
 description: 发行说明 — 2023年9月 — Marketo文档 — 产品文档
 title: 发行说明 — 2023年9月
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '872'
 ht-degree: 1%
 
 ---
@@ -52,6 +52,26 @@ ht-degree: 1%
    <td><strong>由Design Studio Assets的选项卡增强功能使用</strong>：用于增强功能选项卡提供了有关资产类型和名称及其使用位置的更详细视图。 这适用于“电子邮件详细信息”和“图像和文件详细信息”。</td> 
    <td>已发货</td>
    <td>不适用</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>交互式网络研讨会的本地化</strong>：这可让您使用所需的语言查看Marketo交互式网络研讨会事件程序详细信息，并选择交付语言，以便与创建事件程序的Marketo用户的语言不同。</td> 
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">交互式网络研讨会常见问题解答</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>交互式网络研讨会的用户访问管理</strong>：用户访问管理允许交互式网络研讨会的用户仅访问他们获准访问的事件程序，这有助于防止未经授权的访问。</td> 
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">用户访问</a></td>
   </tr>
  </tbody> 
 </table>
