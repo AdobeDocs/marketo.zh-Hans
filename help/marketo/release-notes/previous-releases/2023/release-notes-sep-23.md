@@ -2,7 +2,7 @@
 description: 发行说明 — 2023年9月 — Marketo文档 — 产品文档
 title: 发行说明 — 2023年9月
 feature: Release Information
-source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
+source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 1%
@@ -59,7 +59,7 @@ ht-degree: 1%
    <td> </td>
   </tr>
    <tr> 
-   <td><strong>交互式网络研讨会的本地化</strong>：这可让您使用所需的语言查看Marketo交互式网络研讨会事件程序详细信息，并选择交付语言，以便与创建事件程序的Marketo用户的语言不同。</td> 
+   <td><strong>交互式网络研讨会的本地化</strong>：您可以使用此功能以所需的语言查看Marketo交互式网络研讨会事件程序详细信息，如果希望交付语言与创建事件程序的Marketo用户的语言不同，则还可以选择交付语言。</td> 
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">交互式网络研讨会常见问题解答</a></td>
   </tr>
