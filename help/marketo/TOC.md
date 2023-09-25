@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
-ht-degree: 0%
+source-wordcount: '9107'
+ht-degree: 1%
 
 ---
 
@@ -181,7 +181,7 @@ ht-degree: 0%
          + [为启用Adobe IMS的订阅添加“仅API用户”](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [添加或删除产品管理员](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [添加或删除用户](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [常见问题解答](product-docs/administration/marketo-with-adobe-identity/faq.md)
+         + [常见问题](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [迁移到Adobe身份](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
          + [使用Adobe ID进行用户登录](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [了解Marketo订阅和用户迁移到Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
@@ -667,6 +667,7 @@ ht-degree: 0%
          + 设置和配置 {#setup-and-configuration}
             + [初始设置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [添加或删除聊天用户](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [权限](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [配置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [代理设置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [代理管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -1257,7 +1258,7 @@ ht-degree: 0%
             + [发送跟踪的电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [通过群电子邮件发送电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [在撰写窗口中使用模板](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + 常见问题解答 {#faq}
+      + 常见问题 {#faq}
          + [是否可以恢复我删除的联系人或组？](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [内容和文件附件常见问题解答](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect具有iPhone或Android应用程序吗？](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1418,7 +1419,7 @@ ht-degree: 0%
                + [连接到Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [连接到Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + 常见问题解答 {#faq}
+         + 常见问题 {#faq}
             + [是否可以恢复我删除的联系人或组？](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [我能否使用抄送/密送跟踪多个收件人？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [内容和文件附件常见问题解答](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1832,7 +1833,7 @@ ht-degree: 0%
          + [设置帐户分析](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [帐户分析插件概述](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [邀请用户访问帐户分析](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + 目标 {#target}
+      + Target {#target}
          + 指定帐户 {#named-accounts}
             + [指定帐户概述](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [导入指定帐户](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
