@@ -4,16 +4,18 @@ title: 权限
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: ca158295a492edfa74c97f98196021767364f692
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 5%
+source-wordcount: '301'
+ht-degree: 4%
 
 ---
 
 # 权限 {#permissions}
 
 管理用户对Dynamic Chat中各个区域的访问权限。
+
+## 自定义权限 {#customize-permissions}
 
 1. 在 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}，单击 **Dynamic Chat**.
 
@@ -49,7 +51,7 @@ ht-degree: 5%
 
 ## 权限列表 {#list-of-permissions}
 
-在下方，您将找到按区域排序的所有可用权限的列表。
+在下方，您将找到每个区域的所有可用权限列表。
 
 <table>
 <thead>
@@ -73,8 +75,8 @@ ht-degree: 5%
     <td><li>代理收件箱</li>
     <li>查看我的对话</li>
     <li>查看所有对话</li>
-    <li>查看对话摘要<b>*</b></li>
-    <li>查看辅助响应<b>*</b></li></td>
+    <li>查看对话摘要 <b>*</b></li>
+    <li>查看辅助响应 <b>*</b></li></td>
   </tr>
   <tr>
     <td>会议</td>
@@ -96,21 +98,21 @@ ht-degree: 5%
   </tr>
   <tr>
     <td>管理员设置</td>
-    <td><li>查看工作区<b>*</b></li>
-    <li>管理工作区（创建、编辑、删除）<b>*</b></li>
+    <td><li>查看工作区 <b>*</b></li>
+    <li>管理工作区（创建、编辑、删除） <b>*</b></li>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>管理自定义规则（添加、编辑、删除）</li>
-    <li>查看帐户列表<b>*</b></li>
-    <li>管理帐户（添加、编辑、删除）<b>*</b></li>
+    <li>查看帐户列表 <b>*</b></li>
+    <li>管理帐户（添加、编辑、删除） <b>*</b></li>
     <li>管理聊天机器人设置</li>
     <li>管理对话流设置</li>
     <li>管理隐私和安全性</li>
     <li>管理集成</li>
-    <li>管理语言<b>*</b></li>
+    <li>管理语言 <b>*</b></li>
     <li>管理代理</li>
-    <li>查看代理团队<b>*</b></li>
-    <li>管理代理团队（添加、编辑、删除）<b>*</b></li>
+    <li>查看代理团队 <b>*</b></li>
+    <li>管理代理团队（添加、编辑、删除） <b>*</b></li>
     <li>查看使用限制</li></td>
   </tr>
 </tbody>
