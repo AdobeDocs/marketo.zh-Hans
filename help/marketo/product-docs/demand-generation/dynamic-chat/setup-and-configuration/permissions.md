@@ -2,9 +2,9 @@
 description: 权限 — Marketo文档 — 产品文档
 title: 权限
 feature: Dynamic Chat
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+source-git-commit: d60b506f0c84fc2883054be628817374d3a1a09b
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '397'
 ht-degree: 4%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 4%
 
    ![](assets/permissions-6.png)
 
-您现在可以对任何其他Dynamic Chat区域重复此过程。
+您现在可以对任何/所有其他Dynamic Chat区域重复此过程。
 
 ![](assets/permissions-7.png)
 
@@ -75,7 +75,7 @@ ht-degree: 4%
 <table>
 <thead>
   <tr>
-    <th>Dynamic Chat区域</th>
+    <th style="width:30%">Dynamic Chat区域</th>
     <th>权限</th>
   </tr>
 </thead>
