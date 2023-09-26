@@ -1,21 +1,19 @@
 ---
 description: 权限 — Marketo文档 — 产品文档
 title: 权限
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ca158295a492edfa74c97f98196021767364f692
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '396'
 ht-degree: 4%
 
 ---
 
 # 权限 {#permissions}
 
-管理用户对Dynamic Chat中各个区域的访问权限。
+有五个默认配置文件具有预定义权限，您可以在Dynamic Chat中编辑。 您还可以创建具有自定义权限集的自定义用户档案。 我们来看看这两个。
 
-## 自定义权限 {#customize-permissions}
+## 编辑现有权限 {#edit-existing-permissions}
 
 1. 在 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}，单击 **Dynamic Chat**.
 
@@ -29,11 +27,11 @@ ht-degree: 4%
 
    ![](assets/permissions-3.png)
 
-1. 选择要编辑的Dynamic Chat区域。 因为我们选择了实时代理配置文件，所以我们选择了实时聊天。 单击铅笔图标。
+1. 选择要编辑的配置文件的区域。 在本例中，我们选择“实时聊天”。 单击铅笔图标。
 
    ![](assets/permissions-4.png)
 
-1. 所有可用权限项都位于左侧。 您可以选择逐个添加权限，也可以一次添加所有权限。 在本例中，我们选择全部。 单击 **+全部添加** 按钮。
+1. 左侧列出了可用的权限项。 您可以选择逐个添加权限，也可以一次添加所有权限。 在本例中，只有一个可用，因此我们将添加该一个。 单击 **+** 签名。
 
    ![](assets/permissions-5.png)
 
@@ -45,9 +43,30 @@ ht-degree: 4%
 
    ![](assets/permissions-6.png)
 
-现在，您可以对所有其他Dynamic Chat区域重复此过程。
+您现在可以对任何其他Dynamic Chat区域重复此过程。
 
 ![](assets/permissions-7.png)
+
+## 创建配置文件 {#create-a-profile}
+
+1. 在 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}，单击 **Dynamic Chat**.
+
+   ![](assets/permissions-8.png)
+
+1. 在 **产品配置文件** 选项卡，单击 **新建配置文件**.
+
+   ![](assets/permissions-9.png)
+
+1. **名称** 您的产品配置文件。 （可选）您可以为其提供显示名称和/或描述，并选择在添加/删除用户时通知用户。 单击 **保存** 完成时。
+
+   ![](assets/permissions-10.png)
+
+1. 您的新配置文件将显示在产品配置文件选项卡中。 选择它。
+
+   ![](assets/permissions-11.png)
+
+1. 现在，请按照中的步骤3-6操作 [上一节](#edit-existing-permissions) 适用于每个所需区域。
+
 
 ## 权限列表 {#list-of-permissions}
 

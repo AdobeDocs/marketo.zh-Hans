@@ -4,7 +4,7 @@ title: 自动附加取消订阅消息设置
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,4 +35,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果禁用附加取消订阅消息设置，我们建议向模板添加取消订阅页脚，以确保您的通信具有选择退出选项。 为此，您可以向每个模板添加自己的自定义消息，或使用 `{{team_unsubscribe}}` 动态字段。
+>如果禁用附加取消订阅消息设置，我们建议向模板添加取消订阅页脚，以确保您的通信具有选择退出选项。 为此，您可以向每个模板添加自己的自定义消息，或使用 `{{team_unsubscribe}}` [动态字段](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.
