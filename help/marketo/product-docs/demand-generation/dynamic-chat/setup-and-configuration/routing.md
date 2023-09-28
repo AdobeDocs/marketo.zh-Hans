@@ -2,10 +2,11 @@
 description: 路径 — Marketo文档 — 产品文档
 title: 路由
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/routing-3.png)
 
-1. 命名您的规则。 （可选）您可以添加说明并设置其优先级。 单击 **下一个**.
+1. 命名您的规则。 （可选）您可以添加说明并设置其优先级。 单击&#x200B;**下一步**。
 
    ![](assets/routing-4.png)
 

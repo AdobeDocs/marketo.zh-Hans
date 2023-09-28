@@ -1,7 +1,8 @@
 ---
 description: 发行说明 — 2023年5月 — Marketo文档 — 产品文档
 title: 发行说明 — 2023年5月
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 1%
@@ -10,7 +11,7 @@ ht-degree: 1%
 
 # 发行说明： 2023年5月 {#release-notes-may-23}
 
-在下方，您会找到2023年5月版本中包含的所有功能。 查看Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2023年5月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
@@ -18,13 +19,13 @@ ht-degree: 1%
 
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，并将于以下日期开始发行 **2023年5月12日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会有变动。 请检查每个功能下方的状态。
+以下功能属于标准发行周期，并将于以下日期开始发行 **2023年5月12日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会发生更改。 请检查每个功能下方的状态。
 
 ### 现代UXMarketo Engage {#modern-ux}
 
 </br>
 
-* **Adobe Experience Cloud界面**：使Marketo Engage与Experience Cloud保持一致，以便在单次Experience Cloud会话中跨多个用户解决方案创建一致的导航体验。
+* **Adobe Experience Cloud界面**：使Marketo Engage与Experience Cloud保持一致，以便在单个用户会话中跨多个Experience Cloud解决方案创建一致的导航体验。
 
 <table> 
   <tr> 
@@ -38,7 +39,7 @@ ht-degree: 1%
   </tbody>
 </table>
 
-* **Marketo Engage帮助中心**：帮助中心为Marketo Engage用户提供一个中心位置，以便在产品中查找帮助资源。 此外，帮助中心还让用户能够激活产品内指南，这些指南说明了如何利用关键功能。
+* **Marketo Engage帮助中心**：帮助中心为Marketo Engage用户提供一个中心位置，以便在产品中查找帮助资源。 此外，帮助中心使用户能够激活产品内指南，这些指南说明了如何利用关键功能。
 
 <table> 
   <tr> 
@@ -62,9 +63,9 @@ ht-degree: 1%
 
 * **交互式网络研讨会（最初有限提供）**：
 
-交互式网络研讨会通过为营销人员在Marketo Engage内创建、管理和交付活动提供原生、无缝的体验，增强了现有活动和网络研讨会的体验。 根据活动类型自定义网络研讨会，甚至根据需要添加演示者。 通过Adobe Connect功能（如实时投票、聊天、问答会话、Web链接点击、文档下载等）获取丰富的参与度洞察。 直接在Marketo Engage中检索网络研讨会录像并通过丰富的仪表板量度评估其表现。
+交互式网络研讨会通过为营销人员在Marketo Engage内创建、管理和交付活动提供原生、无缝的体验，来增强现有的活动和网络研讨会体验。 根据活动类型自定义网络研讨会，甚至根据需要添加演示者。 通过Adobe Connect的各种功能（如实时投票、聊天、问答会议、Web链接点击次数、文档下载等）获得丰富的参与度洞察。 直接在Marketo Engage中检索网络研讨会录像，并通过丰富的仪表板指标评估其效果。
 
-互动式网络研讨会将逐步推出。 要请求提前访问，请填写 [此表单](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+交互式网络研讨会将逐步推出。 要请求提前访问，请填写 [此表单](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
@@ -72,7 +73,7 @@ ht-degree: 1%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td>转出已开始</td>
+   <td>已开始推出</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">交互式网络研讨会概述</a></td>
   </tr>
   </tbody>

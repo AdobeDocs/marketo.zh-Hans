@@ -2,7 +2,8 @@
 description: 了解如何优化和扩展您继承的现有Marketo Engage实例。 按照核对清单检查管理员设置并维护数据库卫生。
 title: 从何处开始
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: a7abbfe3-c2ac-489f-bc4b-9e8d3412b419
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 0%

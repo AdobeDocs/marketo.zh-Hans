@@ -2,10 +2,11 @@
 description: 添加或删除聊天用户 — Marketo文档 — 产品文档
 title: 添加或删除聊天用户
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: d6fd64d5-25ea-4190-bfb8-8ead9b89c4f1
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -43,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/add-or-remove-chat-users-7.png)
 
@@ -99,5 +100,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console用户](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Adobe Admin Console用户](https://helpx.adobe.com/cn/enterprise/using/users.html){target="_blank"}
 >* [单独管理用户](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

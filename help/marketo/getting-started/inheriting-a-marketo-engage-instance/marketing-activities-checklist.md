@@ -2,7 +2,8 @@
 description: 继承实例营销活动核对清单 — Marketo文档 — 产品文档
 title: 继承实例营销活动核对清单
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: 3a23d7ae-aae9-4138-afcc-1d7830a5aeed
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%

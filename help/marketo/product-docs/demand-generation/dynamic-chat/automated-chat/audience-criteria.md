@@ -2,7 +2,8 @@
 description: 受众标准 — Marketo文档 — 产品文档
 title: 受众标准
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: ffe62cb7-707d-4b6d-8a66-9240d111191a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 2%
@@ -111,7 +112,7 @@ ht-degree: 2%
 
 ![](assets/audience-criteria-17.png)
 
-## 目标 {#target}
+## Target {#target}
 
 您可以在此处输入希望特定对话框显示的URL。 您还可以选择添加排除项。
 

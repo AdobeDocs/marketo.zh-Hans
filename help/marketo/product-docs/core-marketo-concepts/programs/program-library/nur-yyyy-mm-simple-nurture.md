@@ -2,7 +2,8 @@
 description: nur-YYYY-MM-Simple Nurture - Marketo文档 — 产品文档
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 4%
@@ -26,7 +27,7 @@ ht-degree: 4%
    <th>项目类型</th>
   </tr> 
   <tr> 
-   <td>培养</td> 
+   <td>客户培养</td> 
    <td>01 — 成员 
 <br/>02 — 参与 — 成功</td>
    <td>包含</td>

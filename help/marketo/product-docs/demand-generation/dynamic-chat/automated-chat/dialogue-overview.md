@@ -2,7 +2,8 @@
 description: 对话框概述 — Marketo文档 — 产品文档
 title: 对话框概述
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 13acba58-fe66-4153-ad90-f433ef316342
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 5%

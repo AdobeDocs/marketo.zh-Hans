@@ -1,7 +1,8 @@
 ---
 description: 在Salesforce中使用批量添加到Sales Campaign - Marketo文档 — 产品文档
 title: 在Salesforce中使用批量添加到Sales Campaign
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+exl-id: 49bdd22f-f313-497b-af8d-8308eb905b8f
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Salesforce强制限制一次只能选择200条记录。
+>Salesforce强制实施一次可选择200条记录的限制。
 
 >[!PREREQUISITES]
 >
@@ -30,19 +31,19 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以创建新视图，方法是单击右侧的齿轮图标并选择 **新**. 在为该视图指定新名称并保存它后，您可以单击右侧的过滤器图标，以帮助向下过滤到要通过电子邮件发送的潜在客户/联系人集。
+   >您可以创建新视图，方法是单击右侧的齿轮图标并选择 **新建**. 为视图指定新名称并保存它后，您可以单击右侧的过滤器图标以帮助向下过滤到要通过电子邮件发送的潜在客户/联系人集。
 
-1. 选择所需的潜在客户或联系人列表，然后单击 **添加到促销活动** 按钮。
+1. 选择所需的潜在客户或联系人列表，然后单击 **添加到销售活动** 按钮。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-2.png)
 
-1. 您将导航到Actions Sales Campaign模式窗口，并显示您已添加的收件人。
+1. 此时您将会导航到Actions Sales Campaign模式窗口，并显示您选择的收件人。
 
-1. 进行任何删除人员或组所需的编辑，然后单击 **下一个**.
+1. 进行任何必要的编辑以删除人员或组，然后单击 **下一个**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-3.png)
 
-1. 从“类别”下拉列表中选择要使用的销售促销活动类别。
+1. 从“类别”下拉列表中选择要使用的销售活动类别。
 
 1. 选择要将选定人员添加到的销售活动，然后单击 **下一个**.
 
@@ -52,11 +53,11 @@ ht-degree: 0%
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-5.png)
 
-1. 同样，如果您的第一步是发送电子邮件，并且您将其配置为允许您选择何时启动促销活动，则您将可以选择执行以下操作 **立即开始** 或 **计划新的开始时间**. 完成后，单击 **开始**.
+1. 同样地，如果您的第一步是发送电子邮件，并且您将其配置为允许您选择何时启动促销活动，则您将可以选择执行以下操作 **立即开始** 或 **安排新的开始时间**. 完成后，单击 **开始**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-6.png)
 
-单击“开始”后，您将看到一个确认屏幕，让您知道已添加多少用户。
+单击“开始”后，您将看到一个确认屏幕，让您知道添加了多少人员。
 
 ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-7.png)
 
@@ -70,15 +71,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以单击“创建新视图”并配置可用过滤器来缩小要向其发送电子邮件的收件人列表，从而创建新视图。
+   >您可以通过单击创建新视图并配置可用过滤器来缩小要发送电子邮件的收件人列表来创建新视图。
 
-1. 选择所需的潜在客户或联系人列表，然后单击 **添加到促销活动** 按钮。
+1. 选择所需的潜在客户或联系人列表，然后单击 **添加到销售活动** 按钮。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
 
 1. 您将导航到Actions Sales Campaign模式窗口，并显示您选择添加的人员。
 
-1. 进行任何删除人员或组所需的编辑，然后单击 **下一个**.
+1. 进行任何必要的编辑以删除人员或组，然后单击 **下一个**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
@@ -92,10 +93,10 @@ ht-degree: 0%
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
-1. 同样地，如果您的第一步是发送电子邮件，并且您将其配置为允许您选择何时启动促销活动，则您将可以选择执行以下操作 **立即开始** 或 **计划新的开始时间**. 完成后，单击 **开始**.
+1. 同样地，如果您的第一步是发送电子邮件，并且您将其配置为允许您选择何时启动促销活动，则您将可以选择执行以下操作 **立即开始** 或 **安排新的开始时间**. 完成后，单击 **开始**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 
-单击“开始”后，您将看到一个确认屏幕，让您知道已添加多少用户。
+单击“开始”后，您将看到一个确认屏幕，让您知道添加了多少人员。
 
 ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-14.png)

@@ -2,7 +2,8 @@
 description: 聊天机器人行为 — Marketo文档 — 产品文档
 title: 聊天机器人行为
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -38,11 +39,11 @@ ht-degree: 0%
    </tbody>
 </table>
 
-## 方案 {#scenarios}
+## 场景 {#scenarios}
 
 <table>
   <tr>
-      <th>方案</th>
+      <th>场景</th>
       <th>预期的聊天机器人行为</th>
       <th>后端操作</th>
     </tr>
@@ -405,4 +406,3 @@ ht-degree: 0%
     </tr>
   </tbody>
 </table>
-
