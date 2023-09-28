@@ -3,7 +3,7 @@ description: 权限 — Marketo文档 — 产品文档
 title: 权限
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 4%
@@ -67,7 +67,6 @@ ht-degree: 4%
    ![](assets/permissions-11.png)
 
 1. 现在，请按照中的步骤3-6操作 [上一节](#edit-existing-permissions) 适用于每个所需区域。
-
 
 ## 权限列表 {#list-of-permissions}
 

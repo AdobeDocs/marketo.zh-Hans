@@ -3,7 +3,7 @@ description: 默认动态字段映射 — Marketo文档 — 产品文档
 title: 默认动态字段映射
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 18%
@@ -579,8 +579,8 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>公司</td>
-      <td>name</td>
       <td>帐户名称</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>员工数</td>
