@@ -3,7 +3,7 @@ description: 权限 — Marketo文档 — 产品文档
 title: 权限
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
+source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -148,7 +148,6 @@ ht-degree: 8%
   <tr>
     <td>营销用户</td>
     <td><i>对话管理</i>
-    <p>
     <li>查看对话框</li>
     <li>管理对话框（创建、删除）</li>
     <li>发布对话框</li>
@@ -156,21 +155,21 @@ ht-degree: 8%
     <li>管理对话流（创建、删除）</li>
     <li>发布对话流</li>
     <p>
-    <p><i>实时聊天</i></p>
+    <i>实时聊天</i>
     <li>不适用</li>
     <p>
-    <p><i>会议</i></p>
+    <br/><i>会议</i>
     <li>不适用</li>
     <p>
-    <p><i>Analytics</i></p>
+    <br/><i>Analytics</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
     <p>
-    <p><i>代理设置</i></p>
+    <br/><i>代理设置</i>
     <li>不适用</li>
     <p>
-    <p><i>管理员设置</i></p>
+    <br/><i>管理员设置</i>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>查看帐户列表 <b>*</b></li>
