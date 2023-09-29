@@ -3,7 +3,7 @@ description: 权限 — Marketo文档 — 产品文档
 title: 权限
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
+source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -75,7 +75,7 @@ ht-degree: 8%
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Dynamic Chat区域</th>
+    <th style="width:25%">Dynamic Chat区域</th>
     <th>权限</th>
   </tr>
 </thead>
@@ -140,7 +140,7 @@ ht-degree: 8%
 <table>
 <thead>
   <tr>
-    <th style="width:30%">用户档案</th>
+    <th style="width:25%">用户档案</th>
     <th>默认权限</th>
   </tr>
 </thead>
@@ -154,22 +154,22 @@ ht-degree: 8%
     <li>查看对话流</li>
     <li>管理对话流（创建、删除）</li>
     <li>发布对话流</li>
-    <p>
+    <br/>
+    <br/>
     <i>实时聊天</i>
     <li>不适用</li>
-    <p>
+    <br>
     <br/><i>会议</i>
     <li>不适用</li>
-    <p>
-    <br/><i>Analytics</i>
+    <br>
+    <br><i>Analytics</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
-    <p>
-    <br/><i>代理设置</i>
+    <br>
+    <br><i>代理设置</i>
     <li>不适用</li>
-    <p>
-    <br/><i>管理员设置</i>
+    <br><i>管理员设置</i>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>查看帐户列表 <b>*</b></li>
