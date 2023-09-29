@@ -3,7 +3,7 @@ description: 权限 — Marketo文档 — 产品文档
 title: 权限
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
+source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -154,22 +154,22 @@ ht-degree: 8%
     <li>查看对话流</li>
     <li>管理对话流（创建、删除）</li>
     <li>发布对话流</li>
-    <br/>
-    <br/>
+    <br>
     <i>实时聊天</i>
     <li>不适用</li>
     <br>
-    <br/><i>会议</i>
+    <i>会议</i>
     <li>不适用</li>
     <br>
-    <br><i>Analytics</i>
+    <i>Analytics</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
     <br>
-    <br><i>代理设置</i>
+    <i>代理设置</i>
     <li>不适用</li>
-    <br><i>管理员设置</i>
+    <br>
+    <i>管理员设置</i>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>查看帐户列表 <b>*</b></li>
@@ -179,27 +179,26 @@ ht-degree: 8%
   <tr>
     <td><b>实时代理</b></td>
     <td><i>对话管理</i>
-    <p>
     <li>查看对话框</li>
     <li>查看对话流</li>
-    <p>
-    <p><i>实时聊天</i></p>
+    <br>
+    <i>实时聊天</i>
     <li>查看我的对话</li>
-    <p>
-    <p><i>会议</i></p>
+    <br>
+    <i>会议</i>
     <li>不适用</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
-    <p>
-    <p><i>代理设置</i></p>
+    <br>
+    <i>代理设置</i>
     <li>管理实时聊天可用性</li>
     <li>连接日历</li>
     <li>管理日历可用性</li>
-    <p>
-    <p><i>管理员设置</i></p>
+    <br>
+    <i>管理员设置</i>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>查看帐户列表 <b>*</b></li>
@@ -209,26 +208,25 @@ ht-degree: 8%
   <tr>
     <td><b>日历代理</b></td>
     <td><i>对话管理</i>
-    <p>
     <li>查看对话框</li>
     <li>查看对话流</li>
-    <p>
-    <p><i>实时聊天</i></p>
+    <br>
+    <i>实时聊天</i>
     <li>不适用</li>
-    <p>
-    <p><i>会议</i></p>
+    <br>
+    <i>会议</i>
     <li>不适用</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
-    <p>
-    <p><i>代理设置</i></p>
+    <br>
+    <i>代理设置</i>
     <li>连接日历</li>
     <li>管理日历可用性</li>
-    <p>
-    <p><i>管理员设置</i></p>
+    <br>
+    <i>管理员设置</i>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>查看帐户列表 <b>*</b></li>
@@ -238,30 +236,29 @@ ht-degree: 8%
   <tr>
     <td><b>营销管理员</b></td>
     <td><i>对话管理</i>
-    <p>
     <li>查看对话框</li>
     <li>管理对话框（创建、删除）</li>
     <li>发布对话框</li>
     <li>查看对话流</li>
     <li>管理对话流（创建、删除）</li>
     <li>发布对话流</li>
-    <p>
-    <p><i>实时聊天</i></p>
+    <br>
+    <i>实时聊天</i>
     <li>不适用</li>
-    <p>
-    <p><i>会议</i></p>
+    <br>
+    <i>会议</i>
     <li>不适用</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
     <li>导出报告</li>
-    <p>
-    <p><i>代理设置</i></p>
+    <br>
+    <i>代理设置</i>
     <li>不适用</li>
-    <p>
-    <p><i>管理员设置</i></p>
+    <br>
+    <i>管理员设置</i>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>管理自定义规则（添加、编辑、删除）</li>
@@ -277,29 +274,28 @@ ht-degree: 8%
   <tr>
     <td><b>销售管理员</b></td>
     <td><i>对话管理</i>
-    <p>
     <li>查看对话框</li>
     <li>查看对话流</li>
-    <p>
-    <p><i>实时聊天</i></p>
+    <br>
+    <i>实时聊天</i>
     <li>查看我的对话</li>
     <li>查看所有对话</li>
-    <p>
-    <p><i>会议</i></p>
+    <br>
+    <i>会议</i>
     <li>管理所有会议</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
     <li>导出报告</li>
-    <p>
-    <p><i>代理设置</i></p>
+    <br>
+    <i>代理设置</i>
     <li>管理实时聊天可用性</li>
     <li>连接日历</li>
     <li>管理日历可用性</li>
-    <p>
-    <p><i>管理员设置</i></p>
+    <br>
+    <i>管理员设置</i>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>管理自定义规则（添加、编辑、删除）</li>
