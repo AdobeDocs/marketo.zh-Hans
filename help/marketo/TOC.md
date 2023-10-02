@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '9107'
+source-wordcount: '9111'
 ht-degree: 1%
 
 ---
@@ -1408,6 +1408,7 @@ ht-degree: 1%
                + [自定义取消订阅链接消息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo取消订阅检查](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [正在与Salesforce同步取消订阅](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+               + [事务性销售电子邮件模板](product-docs/marketo-sales-insight/actions/email/unsubscribes/transactional-sales-email-templates.md)
             + 使用撰写窗口 {#using-the-compose-window}
                + [向电子邮件添加附件或可跟踪内容](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [批量发送电子邮件选项](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)

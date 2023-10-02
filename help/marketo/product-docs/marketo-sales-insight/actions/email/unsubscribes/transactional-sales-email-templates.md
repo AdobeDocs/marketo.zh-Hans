@@ -4,9 +4,9 @@ title: 事务性销售电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -25,34 +25,32 @@ ht-degree: 0%
 
 1. 在标题中，单击 **模板**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. 搜索要更新的模板。
+1. 查找并选择要更新的模板。
 
-PICC
-
-1. 选择模板。
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. 在“模板设置”下启用非商业电子邮件切换。
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## 发送非商业电子邮件 {#send-a-non-commercial-email}
 
-选择取消订阅的人员时，他们将会突出显示为橙色。
+>[!NOTE]
+>
+>选择取消订阅的人员时，他们将会突出显示为橙色。
 
-1. 在撰写窗口中，选择要查看的非商业模板。
+1. 在标题中，单击 **撰写**. 查找并选择所需的非商业模板。
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
-1. 用户将看到一个横幅，显示他们当前选择了非商业电子邮件模板。
+1. 用户将看到一个横幅，显示他们已选择非商业电子邮件模板。
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. 单击 **发送**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 即使此人已取消订阅，仍会发送电子邮件。
