@@ -4,9 +4,9 @@ description: 通过平板电脑将人员登记到您的活动中 — Marketo文�
 title: 通过平板电脑将访客登记到您的活动中
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,15 @@ ht-degree: 0%
 
 当人们出现在您的活动上时，您可在应用程序中查找他们的信息。 签入后，当您同步到Marketo时，这些受众将提升为已参与状态。
 
+>[!IMPORTANT]
+>
+>2023年10月2日，Adobe从所有应用商店中删除了Marketo事件应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 将您的Marketo Engage实例迁移到Adobe身份以进行Marketo身份验证后，您将无法再访问该应用程序。 [了解详情](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 该应用程序在iPad和Android上的工作方式相同，只是布局和设计略有差异。
 
 >[!PREREQUISITES]
 >
 >* 在Marketo中创建事件，并在其中填充受邀和已注册的人员。
->* 下载平板电脑应用程序，用于 [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) 或 [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 ## 签入已注册的来宾 {#check-in-registered-guests}
 

@@ -4,9 +4,9 @@ description: 授予用户对登记应用程序的访问权限 — Marketo文档 
 title: 授予用户对签入应用程序的访问权限
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 授予用户对签入应用程序的访问权限 {#grant-users-access-to-the-check-in-app}
 
 Marketo具有事件签入应用程序的特殊用户角色。 下面是如何创建具有应用程序使用权限的新角色。
+
+>[!IMPORTANT]
+>
+>2023年10月2日，Adobe从所有应用商店中删除了Marketo事件应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 将您的Marketo Engage实例迁移到Adobe身份以进行Marketo身份验证后，您将无法再访问该应用程序。 [了解详情](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## 为移动设备创建新的用户角色 {#create-a-new-user-role-for-mobile}
 

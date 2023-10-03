@@ -4,9 +4,9 @@ description: 准备活动 — Marketo文档 — 产品文档
 title: 准备您的活动
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 准备您的活动 {#prepare-for-your-event}
 
 要准备此次活动，您必须完成几项操作。
+
+>[!IMPORTANT]
+>
+>2023年10月2日，Adobe从所有应用商店中删除了Marketo事件应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 将您的Marketo Engage实例迁移到Adobe身份以进行Marketo身份验证后，您将无法再访问该应用程序。 [了解详情](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## 创建新的Marketo角色 {#create-a-new-marketo-role}
 

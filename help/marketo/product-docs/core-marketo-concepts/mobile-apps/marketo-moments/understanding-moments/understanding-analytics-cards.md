@@ -4,9 +4,9 @@ description: 了解Analytics信息卡 — Marketo文档 — 产品文档
 title: 了解Analytics信息卡
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 了解Analytics信息卡 {#understanding-analytics-cards}
 
 每月初，Marketo时刻提供三种不同的报表卡：已获得的潜在客户、新潜在客户和取消订阅。 每个报表均显示六个月的每月绩效和趋势。
+
+>[!IMPORTANT]
+>
+>2023年10月2日，Adobe从所有应用商店中删除了Marketo Ments应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 将您的Marketo Engage实例迁移到Adobe身份以进行Marketo身份验证后，您将无法再访问该应用程序。 [了解详情](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Analytics卡片 {#analytics-cards}
 

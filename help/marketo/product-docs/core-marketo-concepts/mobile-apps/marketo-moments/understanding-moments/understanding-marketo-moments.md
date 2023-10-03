@@ -4,9 +4,9 @@ description: 了解Marketo时刻 — Marketo文档 — 产品文档
 title: 了解Marketo时刻
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Marketo的力量现在掌握在你的手中，真的！ 直接从您的手机或iPad预览和重新计划电子邮件。
 
+>[!IMPORTANT]
+>
+>2023年10月2日，Adobe从所有应用商店中删除了Marketo Ments应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 将您的Marketo Engage实例迁移到Adobe身份以进行Marketo身份验证后，您将无法再访问该应用程序。 [了解详情](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 >[!NOTE]
 >
->需要访问“移动设备应用程序”权限。 联系Marketo管理员以 [更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
->[!AVAILABILITY]
->
->此应用程序与不兼容 [Adobe身份验证](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此时。
+>_访问移动设备应用程序_ 需要权限。 联系Marketo管理员以 [更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## 流 {#streams}
 
@@ -31,7 +31,7 @@ Marketo的力量现在掌握在你的手中，真的！ 直接从您的手机或
 
 >[!NOTE]
 >
->**条件**
+>**定义**
 >
 >* 时刻：刚刚运行或即将运行的任何内容都将在此处显示。
 >* 收藏夹：您制作收藏夹的任何内容都将放在此处。
@@ -80,7 +80,7 @@ Marketo时刻会为您提供三种不同的信息卡，以跟踪电子邮件的�
 
 >[!NOTE]
 >
->**条件**
+>**定义**
 >
 >* 收藏：如果您将最及时、最重要的内容设为收藏，则很容易引起人们的注意。
 >* 已完成：完成操作可使其从您的Marketo时间视图中脱离(但可将其保留在Marketo中，安全无虞)。

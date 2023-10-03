@@ -4,16 +4,20 @@ description: 了解智能营销活动信息卡 — Marketo文档 — 产品文�
 title: 了解智能营销活动信息卡
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
 
 # 了解智能营销活动信息卡 {#understanding-smart-campaign-cards}
 
-使用Marketo时刻从智能手机或iPad查看每次运行的智能营销活动。 Marketo时刻智能营销活动信息卡表示营销活动的一次运行；每次运行智能营销活动时，都会显示一张新信息卡。 智能营销活动卡在左上角标有一个灯泡。
+使用Marketo时刻从智能手机或iPad查看每次运行的智能营销活动。 Marketo时刻智能营销活动信息卡表示营销活动的一次运行；每次运行智能营销活动时，都会显示一张新信息卡。 Smart Campaign卡在左上角标有一个灯泡。
+
+>[!IMPORTANT]
+>
+>2023年10月2日，Adobe从所有应用商店中删除了Marketo Ments应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 将您的Marketo Engage实例迁移到Adobe身份以进行Marketo身份验证后，您将无法再访问该应用程序。 [了解详情](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 对于已计划但尚未运行的未来智能营销活动， Marketo时刻卡不会显示任何营销活动统计数据。 它们将显示在将来的版本中。
 
@@ -51,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. 看到底下的那两个点了吗？ 它们表示有两封电子邮件连接到此智能营销活动。 要查看另一封电子邮件的结果，请向左滑动屏幕。 以下是第二封电子邮件的结果。
+1. 看到底下的那两个点了吗？ 它们指示有两个电子邮件连接到此Smart Campaign。 要查看另一封电子邮件的结果，请向左滑动屏幕。 以下是第二封电子邮件的结果。
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -73,9 +77,9 @@ ht-degree: 0%
 
 ## 确认智能营销活动运行 {#confirming-a-smart-campaign-run}
 
-未确认的智能营销活动的卡片为灰色，直到您确认为止。 然后，它们会变成橙色。
+未确认的智能营销活动的卡片呈灰色，直到您确认为止。 然后，它们会变成橙色。
 
-1. 要确认未确认的智能营销活动信息卡，请点按三点操作菜单。
+1. 要确认未确认的Smart Campaign信息卡，请点按三点操作菜单。
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
@@ -93,7 +97,7 @@ ht-degree: 0%
 
 ## 取消智能营销活动运行 {#canceling-a-smart-campaign-run}
 
-您可以取消已确认的已计划智能营销活动运行。
+您可以取消已确认的已计划Smart Campaign运行。
 
 1. 点按三点操作菜单。
 
@@ -103,13 +107,13 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. 点按 **取消运行**. 如果您在最后一分钟决定不取消运行，请点击 **没关系**，智能营销活动将按计划运行。
+1. 点按 **取消运行**. 如果您在最后一分钟决定不取消运行，请点击 **没关系**，Smart Campaign将按计划运行。
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
 ## 重新计划智能营销活动 {#rescheduling-a-smart-campaign}
 
-您可以重新计划尚未运行的已确认智能营销活动。
+您可以重新计划尚未运行的已确认Smart Campaign。
 
 1. 点按三点操作菜单。
 
