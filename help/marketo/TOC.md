@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
+source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
 workflow-type: tm+mt
-source-wordcount: '9111'
+source-wordcount: '9104'
 ht-degree: 1%
 
 ---
@@ -481,7 +481,6 @@ ht-degree: 1%
             + [通过平板电脑将访客登记到您的活动中](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [授予用户对签入应用程序的访问权限](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [准备您的活动](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-            + [设置iPad或Android平板电脑](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Marketo时刻 {#marketo-moments}
             + 了解时刻 {#understanding-moments}
                + [了解Marketo时刻](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
