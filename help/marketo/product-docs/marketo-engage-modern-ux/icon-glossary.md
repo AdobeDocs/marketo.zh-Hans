@@ -3,9 +3,9 @@ description: 图标术语表 — Marketo文档 — 产品文档
 title: 图标术语表
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b635cecbdca47944dd92127b668a956fdc8c9509
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 20%
 
 ---
@@ -97,6 +97,11 @@ ht-degree: 20%
    <td><img src="assets/classic-archive-folder.png"></td> 
    <td><img src="assets/folder-archive.png"></td> 
    <td>文件夹 — 已存档</td> 
+  </tr>
+  <tr>
+   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/folder-shared.png"></td> 
+   <td>文件夹 — 已共享</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 
@@ -376,7 +381,7 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
    <td><img src="assets/inapp-approved.png"></td> 
-   <td>已批准</td> 
+   <td>已审批</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program.png"></td> 
@@ -413,7 +418,7 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
    <td><img src="assets/approved.png"></td> 
-   <td>已批准</td> 
+   <td>已审批</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-draft.png"></td> 
