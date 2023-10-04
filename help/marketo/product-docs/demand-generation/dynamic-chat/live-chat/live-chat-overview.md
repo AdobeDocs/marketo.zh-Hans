@@ -2,10 +2,10 @@
 description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
-exl-id: f6563e73-4b6e-437d-bf8b-ec72a9b8bcb3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 44e8b249-b534-4cec-a612-daa184acd266
+source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '348'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 1%
 要开始实时聊天，您需要将实时聊天代理添加为 [Adobe Admin Console中的用户](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. 完成此操作后，您可以添加 [实时聊天卡](#using-the-live-chat-card) 到新的或现有的对话框。
 
 当访客通过Dialog请求与座席聊天时，座席将拥有多个 [通知选项](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} 在那里他们可以和访客聊天。
+
+>[!NOTE]
+>
+>实时座席头像使用座席的Adobe帐户个人资料中的个人资料图片。 要更新图像，请按照以下步骤操作 [这些步骤](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## 使用实时聊天卡 {#using-the-live-chat-card}
 
