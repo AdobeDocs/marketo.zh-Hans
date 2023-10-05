@@ -3,9 +3,9 @@ description: 动态字段 — Marketo文档 — 产品文档
 title: 动态字段
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 0%
 * 两者之间的差异 `{{company}}` 和 `{{company_friendly}}` 就是 `{{company_friendly}}` 将从您联系人的公司名称中删除任何正式标题，如Inc. 、 LLC等。
 * 使用时 `{{company_friendly}}`，请确保在联系人详细信息中用逗号分隔Inc.或Co. 。 这就是Sales Insight Actions在提取值时知道要删除什么内容的方式。
 * 我们允许您使用预定义的属性(例如 `{{my_name}}` 或 `{{my_title}}`. 这些字段允许您在电子邮件模板中快速引用自己。
-* 如果您使用 `{{my_signature}}` 动态字段，系统将不会自动附加用户的签名以防止重复。
+* 系统会自动将用户的签名附加到发送的每封电子邮件中。 如果用户将模板与 `{{my_signature}}` 动态字段，系统将填充签名，其中 `{{my_signature}}` 已放置动态字段。 只是为了避免重复而添加它。 系统将处理 `{{team_unsubscribe}}` 与启用“全局附加取消订阅”设置时相同。
 
 >[!TIP]
 >

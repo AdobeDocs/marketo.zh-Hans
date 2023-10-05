@@ -4,9 +4,9 @@ description: 动态字段术语表 — Marketo文档 — 产品文档
 title: 动态字段术语表
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 * 如果联系人信息输入错误或从“人员”页面中丢失，则无法将联系人信息正确提取到您的模板中。
 * 两者之间的差异 `{{company}}` 和 `{{company_friendly}}` 就是 `{{company_friendly}}` 将从您联系人的公司名称中删除任何正式标题，如Inc. 、 LLC等。
 * 使用时 `{{company_friendly}}`，请确保在联系人详细信息中用逗号分隔Inc.或Co. 。 这是Sales Connect在提取值时知道要移除什么内容的方法。
-* 如果您使用 `{{my_signature}}` 动态字段，系统将不会自动附加用户的签名以防止重复。
+* 系统会自动将用户的签名附加到发送的每封电子邮件中。 如果用户将模板与 `{{my_signature}}` 动态字段，系统将填充签名，其中 `{{my_signature}}` 已放置动态字段。 只是为了避免重复而添加它。 系统将处理 `{{team_unsubscribe}}` 与启用“全局附加取消订阅”设置时相同。
 
 >[!TIP]
 >
