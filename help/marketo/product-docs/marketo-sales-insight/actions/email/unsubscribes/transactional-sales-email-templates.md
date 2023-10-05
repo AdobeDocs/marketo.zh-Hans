@@ -1,10 +1,9 @@
 ---
 description: 事务性销售电子邮件模板 — Marketo文档 — 产品文档
 title: 事务性销售电子邮件模板
-hide: true
-hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
+exl-id: 0178155e-f01c-449f-b510-40adf718e177
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
