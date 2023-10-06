@@ -4,9 +4,9 @@ description: 发行计划 - Marketo 文档 - 产品文档
 title: 发布计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
+source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '142'
 ht-degree: 5%
 
 ---
@@ -37,39 +37,45 @@ _发行日期可能会有变动_
    <th width="250px">发行日期</th>
    <th width="250px">状态</th>
   </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">’22年10月</a></td>
-   <td>2022年10月14</td>
-   <td>已发货</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-jan-23.md">’23年1月</a></td>
-   <td>2023年1月20日</td>
-   <td>已发货</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-mar-23.md">’23年3月</a></td>
-   <td>2023年3月31日</td>
-   <td>已发货</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-may-23.md">’23年5月</a></td>
-   <td>2023年5月12日</td>
-   <td>已发货</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-july-23.md">’23年7月</a></td>
-   <td>2023年7月21日</td>
-   <td>已发货</td>
-  </tr>
-  <tr>
+
+<tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">’23年9月</a></td>
    <td>2023年9月8日</td>
-   <td>进行中</td>
+   <td>已发货</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">’23年10月</a></td>
    <td>2023年10月6日</td>
+   <td>进行中</td>
+  </tr>
+  <tr> 
+   <td>’24年1月</td>
+   <td>2024年1月12日</td>
+   <td>按计划</td>
+  </tr>
+  <tr> 
+   <td>’24年3月</td>
+   <td>2024年3月8日</td>
+   <td>按计划</td>
+  </tr>
+  <tr> 
+   <td>’24年4月</td>
+   <td>2024年4月26日</td>
+   <td>按计划</td>
+  </tr>
+  <tr>
+   <td>’24年6月</td>
+   <td>2024年6月7日</td>
+   <td>按计划</td>
+  </tr>
+  <tr> 
+   <td>’24年8月</td>
+   <td>2024年8月9日</td>
+   <td>按计划</td>
+  </tr>
+  <tr> 
+   <td>’24年10月</td>
+   <td>2024年10月4</td>
    <td>按计划</td>
   </tr>
  </tbody>
