@@ -4,9 +4,9 @@ description: 设置LinkedIn潜在客户群Forms - Marketo文档 — 产品文档
 title: 设置LinkedIn潜在客户Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**需要管理员权限**
+
+>[!NOTE]
+>
+>如果LinkedIn商机与Marketo中与使用公司API创建的公司记录关联的现有人员记录匹配，并且Marketo订阅未连接到CRM，则它不会Marketo Engage。
 
 1. 转到Marketo **管理员**.
 
@@ -47,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. 您会发现您现在已获得授权。 单击 **下一个**.
+1. 您会发现您现在已获得授权。 单击&#x200B;**下一步**。
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
