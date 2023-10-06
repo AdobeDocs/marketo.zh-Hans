@@ -4,10 +4,10 @@ description: 发行计划 - Marketo 文档 - 产品文档
 title: 发布计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
+source-git-commit: aa7008300a32e3e6e311224ece73200add708e65
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 **版本**：每个版本的月份/年份。 发行说明一经发布，即会链接到下表。
 
-**发行日期**：转出通常从发布周的星期二开始，大部分升级在星期五晚上进行。 将发送包含特定日期和发行详细信息的电子邮件。 列出的日期用于星期五更新。
+**发行日期**：转出通常从发布周的周二开始，更多升级在周五晚上进行。 列出的日期用于星期五更新。
 
 **状态**:
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 * 进行中 — 我们正在推出此版本的功能
 * 已发货 — 版本已完成
 
-_发行日期可能会有变动_
+_发行日期/功能可能会发生更改_
 
 <table> 
  <colgroup> 
