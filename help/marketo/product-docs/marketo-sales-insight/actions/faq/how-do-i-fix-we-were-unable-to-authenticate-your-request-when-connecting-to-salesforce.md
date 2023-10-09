@@ -3,9 +3,9 @@ description: 如何修复在连接到Salesforce时“我们无法验证您的请
 title: 如何修复连接到Salesforce时“我们无法验证您的请求”的问题
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: b09bff5fe72e5cce86ab4664e264edb181fa3e5c
+source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 如果您尝试连接的实例是Salesforce沙盒域并且收到错误，则需要执行其他步骤以将实例更新为可与Salesforce沙盒兼容的实例。 [了解详情](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
-## 解决被阻止的Oauth应用程序和其他错误类型 {#resolve-oauth-app-blocked-and-other-error-types}
+## 已阻止解析Oauth应用程序 {#resolve-oauth-app-blocked}
 
 如果您收到错误消息“我们无法验证您的请求”，其中包含Oauth应用程序被阻止的错误类型或URL中的其他类型，则您对Salesforce API的访问可能会受到限制。 请咨询您的Salesforce管理员，确保具备以下条件。
 
