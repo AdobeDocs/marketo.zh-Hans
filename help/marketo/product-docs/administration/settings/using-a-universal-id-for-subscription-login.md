@@ -4,9 +4,9 @@ description: 使用通用ID进行订阅登录 — Marketo文档 — 产品文档
 title: 使用通用ID进行订阅登录
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: b633a81cce39c89d63c2445fa197dbd6d7e6c57c
+source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ## 移动平台 {#mobile-platform}
 
-具有通用ID的用户可以在以下位置查看其数据： [Marketo时刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} 他们上次登录的订阅中的区段。 您无法从Mobile平台本身更改订阅。
+具有通用ID的用户可以在以下位置查看其数据： [Marketo时刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} 他们上次登录到的订阅。 您无法从Mobile平台本身更改订阅。
 
 >[!MORELIKETHIS]
 >
