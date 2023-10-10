@@ -4,7 +4,7 @@ description: 使用标准智能列表规则逻辑 — Marketo文档 — 产品�
 title: 使用标准智能列表规则逻辑
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -15,26 +15,26 @@ ht-degree: 0%
 
 在构建Campaign智能列表时，您可能已经注意到“使用过滤器”选项。 通过此设置，可决定是需要使用AND运算符还是使用OR运算符来评估过滤器。
 
-![](assets/image2014-9-22-14-3a12-3a42.png)
+![](assets/using-standard-smart-list-rule-logic-1.png)
 
 >[!NOTE]
 >
 >更改智能列表规则逻辑仅适用于筛选器， **非** 触发器。
 
-触发器始终被评估为OR，即使上述设置被设置为ALL也是如此。  示例如下：
+触发器始终被评估为OR，即使上述设置被设置为ALL也是如此。 示例如下：
 
-![](assets/image2014-9-22-14-3a12-3a57.png)
+![](assets/using-standard-smart-list-rule-logic-2.png)
 
 以上智能列表用词表示：
 
 ```box
-IF person fills out My Form
+IF person fills out Great Form
 OR
-IF person visits My Page 
+IF person visits Keith's Landing Page 
 AND 
-Industry is Marketing 
+Industry is Energy 
 AND 
-Country is USA 
+Country is US 
 THEN follow the campaign's flow step(s)
 ```
 
