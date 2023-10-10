@@ -3,7 +3,7 @@ description: 如何修复在连接到Salesforce时“我们无法验证您的请
 title: 如何修复连接到Salesforce时“我们无法验证您的请求”的问题
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
+source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 已阻止解析Oauth应用程序 {#resolve-oauth-app-blocked}
 
-如果您收到错误消息“我们无法验证您的请求”，其中包含Oauth应用程序被阻止的错误类型或URL中的其他类型，则您对Salesforce API的访问可能会受到限制。 请咨询您的Salesforce管理员，确保具备以下条件。
+如果您在URL中收到错误消息“我们无法验证您的请求”，消息中显示Oauth应用程序被阻止的错误类型（或其他类型），则您对Salesforce API的访问可能会受到限制。 请咨询您的Salesforce管理员，确保以下事项均已准备就绪。
 
 ### 在用户权限中启用API {#enable-api-in-user-permissions}
 
