@@ -3,9 +3,9 @@ description: 事件工作流 — Marketo文档 — 产品文档
 title: 事件工作流
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -32,30 +32,41 @@ ht-degree: 0%
 
 **单击并文件下载活动**：提供在网络研讨会期间，由Adobe Connect提供支持的、由参加网络研讨会并执行该特定操作的各个成员单击的文件和网络链接的下载计数。
 
+## 网络研讨会录像 {#webinar-recording}
+
+转到“概述”选项卡以查看录制的网络研讨会，获取其链接以进行共享，甚至下载副本。
+
+![](assets/event-workflows-2.png)
+
+>[!NOTE]
+>
+>* 录制以MP4格式下载。
+>* 在共享录制时，拥有链接的任何人都可以查看，因此请确保与预期受众共享。
+
 ## 触发器和过滤器 {#triggers-and-filters}
 
 使用与交互式网络研讨会相关的触发器和过滤器来查找事件程序中的特定人员组。
 
-![](assets/event-workflows-2.png)
+![](assets/event-workflows-3.png)
 
 每个触发器/过滤器都附带其他约束，使您能够捕获该组的集中子集。
 
 **在活动期间提出问题** （过滤器版本：在活动期间询问过问题）
 
-![](assets/event-workflows-3.png)
+![](assets/event-workflows-4.png)
 
 **出席活动** （过滤器版本：已出席活动）
 
-![](assets/event-workflows-4.png)
+![](assets/event-workflows-5.png)
 
 **链接点击次数** （过滤器版本：已单击链接）
 
-![](assets/event-workflows-5.png)
+![](assets/event-workflows-6.png)
 
 **下载资产** （过滤器版本：已下载资源）
 
-![](assets/event-workflows-6.png)
+![](assets/event-workflows-7.png)
 
 **响应投票** （筛选器版本：已响应投票）
 
-![](assets/event-workflows-7.png)
+![](assets/event-workflows-8.png)

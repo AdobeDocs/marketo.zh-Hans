@@ -3,9 +3,9 @@ description: 创建交互式网络研讨会 — Marketo文档 — 产品文档
 title: 创建交互式网络研讨会
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 0ee9bd4bc9639c452219f9445a88b552617a785f
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-将创建交互式网络研讨会。 现在，是时候 [设计](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+将创建交互式网络研讨会。 您可以添加演示者和/或联合主机。
 
 ![](assets/create-an-interactive-webinar-8.png)
+
+现在，是时候 [设计您的网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.

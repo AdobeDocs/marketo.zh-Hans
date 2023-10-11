@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '340'
 ht-degree: 2%
 
 ---
@@ -53,8 +53,9 @@ ht-degree: 2%
   </tr>
    <tr> 
    <td><strong>在交互式网络研讨会中下载录制内容并分配联合主持人</strong>：如果原始主机不可用，现在可为网络研讨会添加外部联合主机。 您现在还可以下载该网络研讨会录像了。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">下载录制</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">创建交互式网络研讨会</a></li></td>
   </tr>
  </tbody> 
 </table>
