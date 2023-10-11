@@ -3,7 +3,7 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 2%
@@ -26,8 +26,8 @@ ht-degree: 2%
  <tbody> 
   <tr> 
    <th style="width:65%">功能</th> 
-   <th style="width:15%">状态</th>
-   <th style="width:20%">文档</th>
+   <th style="width:10%">状态</th>
+   <th style="width:25%">文档</th>
   </tr> 
   <tr> 
    <td><strong>新版UX中报表配置的新设计</strong>：设置报表资源时，您将拥有 <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">新建资源树</a> 以及按创建和修改日期进行筛选的功能。</td> 

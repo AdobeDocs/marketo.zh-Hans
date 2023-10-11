@@ -3,7 +3,7 @@ description: 事件工作流 — Marketo文档 — 产品文档
 title: 事件工作流
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 网络研讨会录像 {#webinar-recording}
 
-转到“概述”选项卡以查看录制的网络研讨会，获取其链接以进行共享，甚至下载副本。
+转到“概述”选项卡，查看录制的网络研讨会，获取共享该研讨会的链接，甚至下载副本。
 
 ![](assets/event-workflows-2.png)
 
