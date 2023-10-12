@@ -4,16 +4,16 @@ description: 完成标记 — Marketo文档 — 产品文档
 title: 将其标记为“完成”
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
 
 # 将其标记为“完成” {#marking-it-done}
 
-将电子邮件程序、事件或分析卡标记为“完成”，以将其从流中删除。 有两种方法可以做到这一点。
+将电子邮件程序、事件或分析卡标记为 [!UICONTROL 完成] 以将其从流中删除。 有两种方法可以做到这一点。
 
 >[!IMPORTANT]
 >
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. 点按 **完成**.
+1. 点按 **[!UICONTROL 完成]**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
@@ -34,5 +34,3 @@ ht-degree: 1%
    >[!NOTE]
    >
    >将信息卡标记为“完成”不会删除电子邮件、事件或智能营销活动。 它只会将其从“时刻”/“稍后”流移到“完成”流中。
-
-一块蛋糕！

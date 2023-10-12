@@ -4,9 +4,9 @@ description: 了解事件信息卡 — Marketo文档 — 产品文档
 title: 了解事件信息卡
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,9 @@ ht-degree: 1%
 * [将事件标记为完成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [共享事件时刻卡片](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-有两张活动卡片。 在活动开始前几个小时发送的On-Deck卡显示了注册人数。 随后发送的结果卡显示实际参加的人数。
+有两张活动卡片。 此 [!UICONTROL 板载] 信息卡会在活动开始前几小时发送，用于显示注册的用户数量。 此 [!UICONTROL 结果] 随后发送的卡片会显示实际参加的人数。
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
-
-你没事了！
 
 >[!MORELIKETHIS]
 >

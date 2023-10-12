@@ -4,9 +4,9 @@ description: 了解Analytics信息卡 — Marketo文档 — 产品文档
 title: 了解Analytics信息卡
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -51,17 +51,15 @@ ht-degree: 0%
 
 ## 新潜在客户 {#new-leads}
 
-此 **新潜在客户** 卡片会向您显示过去6个月实例中新商机总数的月度趋势报表。
+此 **[!UICONTROL 新潜在客户]** 卡片会向您显示过去6个月实例中新商机总数的月度趋势报表。
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## 取消订阅 {#unsubscribes}
 
-此 **取消订阅** 卡片会向您显示过去六个月取消订阅率的月度趋势报告。
+此 **[!UICONTROL 取消订阅]** 卡片会向您显示过去六个月取消订阅率的月度趋势报告。
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
-
-现在你知道了。
 
 >[!MORELIKETHIS]
 >
