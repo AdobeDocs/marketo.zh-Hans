@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
+source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -42,8 +42,8 @@ ht-degree: 2%
   </tr>
    <tr> 
    <td><strong>计算公式流步骤服务</strong>：计算公式是基于Adobe的IO运行时平台构建的流步骤服务，用于Marketo Engage智能营销活动。 那些具有IO运行时的用户可以部署服务并将其安装到其Marketo Engage订阅中，从而允许他们在Marketo Engage智能营销活动中计算类似Excel的公式。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">计算公式用户指南</a></td>
   </tr>
   <tr> 
    <td> </td> 
