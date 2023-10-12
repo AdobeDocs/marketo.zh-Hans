@@ -4,7 +4,7 @@ description: Marketo Engage术语表 — Marketo文档 — 产品文档
 title: Marketo Engage术语表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
 workflow-type: tm+mt
 source-wordcount: '4176'
 ht-degree: 1%
@@ -72,7 +72,7 @@ ht-degree: 1%
    <td colspan="1">一组预定义协议，用于在操作系统或应用程序(本例中为Marketo)中执行单个或批量功能。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>已批准</strong></td> 
+   <td colspan="1"><strong>已审批</strong></td> 
    <td colspan="1">用于确认何时 <strong>资产</strong> 已准备好使用。 在获得批准之前，无法公开查看资产。</td> 
   </tr> 
   <tr> 
@@ -132,7 +132,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>营销活动</strong></td> 
+   <td colspan="1"><strong>Campaign</strong></td> 
    <td colspan="1">在Marketo，“Campaign”可能意味着一些事情。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">营销活动</a> 是smart campaign的较短术语。 在 <strong>Marketo销售连接</strong>， <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">营销活动</a> 是一系列多渠道通信步骤。 在 <strong>Web个性化</strong>， web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">营销活动</a> 是与特定区段关联的自定义反应。</td> 
   </tr> 
   <tr> 
@@ -172,7 +172,7 @@ ht-degree: 1%
    <td colspan="1">在Marketo中，您可以对实例中的多种不同类型的实体创建重复项。 您可以克隆 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">程序</a>，和 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">项目中的资产</a>， a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">流</a>，等等。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">URL的前部。 一个字(加上YourCompany.com)称为CNAME(例如， <em>信息</em>.YourCompany.com/)。</td> 
   </tr> 
   <tr> 
@@ -654,7 +654,7 @@ ht-degree: 1%
    <td>（以前称为ContentAI）作为一项附加功能，它帮助Marketo用户更好地与具有最相关性的Web访客和电子邮件收件人互动 <strong>内容</strong>，使用由机器学习和预测分析提供支持的推荐。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">项目</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">计划</a></strong></td> 
    <td colspan="1">一个容器，其中包含执行营销计划所需的一切。 有四种不同的类型： <strong>事件程序</strong>， <strong>参与计划</strong>， <strong>电子邮件程序</strong>、和 <strong>默认项目群</strong>)</td> 
   </tr> 
   <tr> 
@@ -708,7 +708,7 @@ ht-degree: 1%
    <td colspan="1">在中使用的工具 <strong>Revenue Cycle Analytics (RCA)</strong> 该功能使用一系列阶段，允许您跟踪 <strong>商机</strong> 在转换这些量度的任何给定时间点。</td> 
   </tr> 
   <tr> 
-   <td><strong>职位</strong></td> 
+   <td><strong>角色</strong></td> 
    <td>分配给用户的标题，用于将多个权限组合在一起（例如，管理员、营销用户）。</td> 
   </tr> 
   <tr> 
