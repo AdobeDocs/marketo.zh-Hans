@@ -3,7 +3,7 @@ description: 了解目标跟踪和预计注册 — Marketo文档 — 产品文�
 title: 了解目标跟踪和预计注册
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -44,17 +44,17 @@ ht-degree: 0%
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
-所有成员（已注册和未注册）均根据其注册可能性进行分类。 将鼠标悬停在信息图标上可查看这些可能性类别的定义方式。
+所有成员（已注册和未注册）均根据其注册可能性进行分类。 将鼠标悬停在信息图标上可查看这些可能性类别的定义方式。
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
->预测数字每24小时更新一次，直到事件发生的那天为止。 任何成员列为 _正在处理_ 将被包含在下一个计算周期中。
+>预测数字每24小时更新一次，直到事件发生的那天为止。 任何成员列为 _正在处理_ 将被包含在下一个计算周期中。
 
 ## 类似计划
 
-您可以通过查看类似程序在过去中的执行情况，深入了解当前事件。 此部分向您显示过去6个月内多达5个类似的计划，以及符合以下条件的成员数量/百分比 _已注册_ 或更高。
+您可以通过查看类似程序在过去中的执行情况，深入了解当前事件。 此部分向您显示过去6个月内多达5个类似的计划，以及符合以下条件的成员数量/百分比 _已注册_ 或更高。
 
 在计算类似程序时，我们特别包括以下因素：
 
@@ -69,13 +69,13 @@ ht-degree: 0%
 
 ## 推荐
 
-在报告页面顶部，您可以根据自己的进度找到由AI/ML驱动的推荐。 请定期回来查看以获取有用的提示和见解！
+在顶部 [!UICONTROL 报表] 页面上，您可以根据自己的进度找到由AI/ML驱动的推荐。 请定期回来查看以获取有用的提示和见解！
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## 人员级别预测
 
-单击 **[!UICONTROL 成员]** 选项卡查看您的所有计划成员。 将鼠标悬停在 **[!UICONTROL 注册可能性]** 或 **[!UICONTROL 出席可能性]** 栏查看精确的百分比和分类。 然后，您可以对特定类别中的成员（例如，“不太可能”注册类别中的每个人）执行操作，并明确定向这些成员，以便潜在地提高您的注册数量。
+单击 **[!UICONTROL 成员]** 选项卡查看您的所有计划成员。 将鼠标悬停在 **[!UICONTROL 注册可能性]** 或 **[!UICONTROL 出席可能性]** 栏查看精确的百分比和分类。 然后，您可以对特定类别中的成员（例如，“不太可能”注册类别中的每个人）执行操作，并明确定向这些成员，以便潜在地提高您的注册数量。
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 >
 >个人可能性会考虑40多个人员因素，包括个人资料属性、人员活动以及过去受邀/注册/参加的活动。
 
-## 常见问题解答
+## 常见问题
 
 **问：什么是区段？**
 

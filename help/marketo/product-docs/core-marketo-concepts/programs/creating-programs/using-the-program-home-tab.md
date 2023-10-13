@@ -4,7 +4,7 @@ description: 使用项目主页选项卡 — Marketo文档 — 产品文档
 title: 使用程序主页选项卡
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 摘要视图 {#summary-view}
 
-1. 转到 **营销活动**.
+1. 转到 **[!UICONTROL 营销活动]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,31 +33,31 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. 单击 **导出** 位于要下载的报表的摘要的底部。
+1. 单击 **[!UICONTROL 导出]** 位于要下载的报表的摘要的底部。
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## 由视图使用 {#used-by-view}
 
-1. 在营销活动中，选择一个项目。
+1. 在 **[!UICONTROL 营销活动]**，选择一个项目。
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. 单击 **视图** 下拉菜单。 选择 **使用者**.
+1. 单击 **[!UICONTROL 视图]** 下拉菜单。 选择 **[!UICONTROL 使用者]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
-   此视图显示正在使用哪些智能营销活动。
+   此视图显示正在使用哪些Smart Campaigns。
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
 ## 成员资格视图 {#membership-view}
 
-1. 在营销活动中，选择一个项目。
+1. 在 **[!UICONTROL 营销活动]**，选择一个项目。
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. 单击 **视图** 下拉菜单。 选择 **会员资格**.
+1. 单击 **[!UICONTROL 视图]** 下拉菜单。 选择 **[!UICONTROL 会员资格]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**历史** 表示曾参加过该课程的人 **当前** 仅包含当前加入该计划的人员。
+   >**[!UICONTROL 历史]** 表示曾参加过该课程的人 **[!UICONTROL 当前]** 仅包含当前加入该计划的人员。
 
    >[!MORELIKETHIS]
    >
-   >[了解计划成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[了解计划成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

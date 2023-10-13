@@ -4,9 +4,9 @@ description: 了解程序 — Marketo文档 — 产品文档
 title: 了解项目群
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 有四种类型的程序：
 
-**事件程序**
+## 事件程序 {#event-programs}
 
-**[活动](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** 具有特定的时间和日期。 它们可帮助您协调、促进和跟踪您的实时和在线活动。
+**[活动](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}** 具有特定的时间和日期。 它们可帮助您协调、促进和跟踪您的实时和在线活动。
 
-**参与计划**
+## 参与计划 {#engagement-programs}
 
-**[滴管培养](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** 用于按照一定的周期培养人。
+**[滴管培养](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}** 用于按照一定的周期培养人。
 
-**电子邮件程序**
+## 电子邮件程序 {#email-programs}
 
-此 **[经典邮件爆炸](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. 它有酷的内置功能，如A/B测试和 **[电子邮件标头开始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
+此 **[经典邮件爆炸](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}**. It has cool built-in features like A/B testing and **[Email Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}**.
 
-**默认项目群**
+## 默认项目群 {#default-programs}
 
 默认计划是非事件、参与或电子邮件计划的任意项目。 发挥创意。
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [创建项目](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [了解标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
->* [了解计划成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>* [创建项目](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
+>* [了解标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}
+>* [了解计划成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
