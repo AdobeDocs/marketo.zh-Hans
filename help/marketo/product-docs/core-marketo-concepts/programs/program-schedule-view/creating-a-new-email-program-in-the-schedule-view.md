@@ -4,9 +4,9 @@ description: 在“计划”视图中创建新电子邮件程序 — Marketo文�
 title: 在“计划”视图中创建新电子邮件程序
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以从项目计划视图内构建电子邮件项目。 具体方法如下。
 
-1. 转到 **营销活动**.
+1. 转到 **[!UICONTROL 营销活动]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. 输入名称。 选择 **电子邮件程序**.
+1. 输入名称。 选择 **[!UICONTROL 电子邮件程序]**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,8 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [设置您的电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 并单击 **批准项目**.
+1. [设置您的电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} 并单击 **[!UICONTROL 批准项目]**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   除了详细仪表板之外，使用 [电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) 能够轻松实施 [A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). 祝您使用愉快！
+   除了详细仪表板之外，使用 [电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} instead of a smart campaign is the ability to easily implement an [A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. 祝您使用愉快！

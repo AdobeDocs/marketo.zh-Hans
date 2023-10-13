@@ -4,7 +4,7 @@ description: 在项目计划视图中重新运行Smart Campaign - Marketo文档 
 title: 在项目计划视图中重新运行Smart Campaign
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 在项目计划视图中重新运行Smart Campaign {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
-您可以轻松地直接从项目计划视图创建现有智能营销活动的新运行。
+您可以直接从项目计划视图轻松创建现有Smart Campaign的新运行。
 
-1. 转到 **营销活动**.
+1. 转到 **[!UICONTROL 营销活动]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 选择包含您的智能营销策划的项目。
+1. 选择包含Smart Campaign的程序。
 
    ![](assets/image2015-4-16-14-3a40-3a11.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-16-14-3a42-3a0.png)
 
-1. 选择条目类型菜单下拉列表，然后选取要重新运行的智能营销活动。
+1. 选择条目类型菜单下拉列表，然后选取要重新运行的Smart Campaign。
 
    ![](assets/image2015-4-16-15-3a26-3a33.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
    >
    >您还可以从以下位置执行此操作： [项目集中](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
-砰！ 同样，您已为该智能营销活动计划了另一轮运行。 如果该智能营销活动包含发送电子邮件步骤，那么您也会看到这些步骤！
+砰！ 同样，您已计划为该Smart Campaign再次运行。 如果该Smart Campaign包含发送电子邮件步骤，您也会看到这些步骤！

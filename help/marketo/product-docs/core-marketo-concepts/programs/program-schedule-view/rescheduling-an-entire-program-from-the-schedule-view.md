@@ -4,7 +4,7 @@ description: 从计划视图重新计划整个项目 — Marketo文档 — 产�
 title: 从计划视图中重新计划整个项目
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. 选择事件操作下拉列表。 选择 **重新计划条目**.
+1. 选择事件操作下拉列表。 选择 **[!UICONTROL 重新计划条目]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. 单击 **重新计划**.
+1. 单击 **[!UICONTROL 重新计划]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

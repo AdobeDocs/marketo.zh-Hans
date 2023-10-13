@@ -4,10 +4,10 @@ description: 项目群成员自定义字段令牌 — Marketo文档 — 产品�
 title: 项目群成员自定义字段令牌
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,7 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
 **电子邮件**
 
-1. 选择所需的电子邮件并单击 **编辑草稿**.
+1. 选择所需的电子邮件并单击 **[!UICONTROL 编辑草稿]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,11 +41,11 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. 查找并选择所需的程序成员自定义字段令牌，输入默认值，然后单击 **插入**.
+1. 查找并选择所需的程序成员自定义字段令牌，输入默认值，然后单击 **[!UICONTROL 插入]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -55,7 +55,7 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
 **登陆页面**
 
-1. 选择您的登陆页面，然后单击 **编辑草稿**.
+1. 选择您的登陆页面，然后单击 **[!UICONTROL 编辑草稿]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,17 +75,17 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. 输入默认值并单击 **插入**.
+1. 输入默认值并单击 **[!UICONTROL 插入]**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **短信**
 
-1. 选择所需的短信并单击 **编辑草稿**.
+1. 选择所需的短信并单击 **[!UICONTROL 编辑草稿]**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -97,17 +97,17 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. 单击短信操作下拉列表并选择 **批准并关闭**.
+1. 单击短信操作下拉列表并选择 **[!UICONTROL 批准并关闭]**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **推送通知**
 
-1. 选择所需的推送通知并单击 **编辑草稿**.
+1. 选择所需的推送通知并单击 **[!UICONTROL 编辑草稿]**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. 单击 **推送通知**.
+1. 单击 **[!UICONTROL 推送通知]**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
@@ -115,11 +115,11 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 查找并选择所需的程序成员自定义字段令牌。 输入默认值并单击 **插入**.
+1. 查找并选择所需的程序成员自定义字段令牌。 输入默认值并单击 **[!UICONTROL 插入]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. 单击 **完成** 保存并退出(或 **下一个** 以首先查看)。
+1. 单击 **[!UICONTROL 完成]** 保存并退出(或 **[!UICONTROL 下一个]** 以首先查看)。
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

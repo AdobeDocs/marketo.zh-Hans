@@ -4,7 +4,7 @@ description: 了解项目中的我的令牌 — Marketo文档 — 产品文档
 title: 了解项目中的我的令牌
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 令牌是一个变量，您可以在电子邮件、登陆页面和智能营销活动中使用它来简化您的工作。
 
-除了“我的令牌”之外，您还可以在程序中使用任何内置令牌。 查看 [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+除了“我的令牌”之外，您还可以在程序中使用任何内置令牌。 查看 [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## 我的令牌  {#my-tokens}
 
-我的令牌是任何人都可以创建的自定义变量。 他们是 [已创建](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) 在营销活动文件夹或项目中。
+我的令牌是任何人都可以创建的自定义变量。 他们是 [已创建](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} 在营销活动文件夹或项目中。
 
 我的令牌显示如下： `{{my.Name Of Token}}`
 
@@ -93,5 +93,5 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [管理我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [管理我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

@@ -4,10 +4,10 @@ description: 在“项目计划”视图中编辑条目 — Marketo文档 — �
 title: 在项目群计划视图中编辑条目
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. 键入新名称并按 **输入/返回** 确认更改。
+1. 键入新名称并按 **[!UICONTROL 输入/返回]** 确认更改。
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. 编辑您的描述。 单击 **保存**.
+1. 编辑您的描述。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -53,4 +53,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 已运行的智能营销活动和电子邮件程序条目不能移到过去。
+> 已运行的Smart Campaign和电子邮件程序条目不能移到过去。

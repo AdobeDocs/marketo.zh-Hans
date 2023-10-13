@@ -4,7 +4,7 @@ description: 了解暂定/确认日期 — Marketo文档 — 产品文档
 title: 了解暂定/确认日期
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 了解暂定/确认日期 {#understanding-tentative-confirmed-dates}
 
-智能营销活动和电子邮件程序具有强大的功能，可标记为 **暂定** 或 **已确认**. 以下是它们的工作方式。
+智能营销活动和电子邮件程序具有强大的功能，可标记为 **[!UICONTROL 暂定]** 或 **[!UICONTROL 已确认]**. 以下是它们的工作方式。
 
 ## 暂定 {#tentative}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 已完成  {#finished}
 
-已运行完成的条目。 它们只能是过去（显然）。 条目运行后，并为 **已完成**，则无法移动它或将其设为暂定状态。 （不会改变现实和破坏时间流连续体。 ）
+已运行完成的条目。 它们只能是过去（显然）。 条目运行后，并为 **[!UICONTROL 已完成]**，则无法移动它或将其设为暂定状态。 （不会改变现实和破坏时间流连续体。 ）
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
