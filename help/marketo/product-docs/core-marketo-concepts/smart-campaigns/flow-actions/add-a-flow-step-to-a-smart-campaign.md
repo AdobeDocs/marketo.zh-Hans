@@ -4,7 +4,7 @@ description: 向Smart Campaign添加流程步骤 — Marketo文档 — 产品文
 title: 向智能营销活动添加流量步骤
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: e7211ff1336e0b7dc730ed113ce8b7cbfe986c70
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->流程步骤按其列出的顺序执行。 [对流程步骤重新排序](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} 确保它们按正确的顺序排列。
+>流程步骤按其列出的顺序执行。 [对流程步骤重新排序](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} 确保它们按正确的顺序排列。
 
 >[!TIP]
 >
@@ -44,4 +44,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [在流程步骤中使用添加选项](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [重新排序智能营销活动中的流量步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [重新排序智能营销活动中的流量步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
