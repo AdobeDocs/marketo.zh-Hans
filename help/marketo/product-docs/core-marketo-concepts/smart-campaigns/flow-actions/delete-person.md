@@ -4,9 +4,9 @@ description: 删除人员 — Marketo文档 — 产品文档
 title: 删除人员
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## 概述 {#overview}
 
-在智能营销策划中使用流程步骤。
+在Smart Campaign中使用流程步骤。
 
 ![](assets/one-4.png)
 
@@ -31,10 +31,10 @@ ht-degree: 1%
 
 ![](assets/two-4.png)
 
-您可以从Marketo中删除，但不能从CRM中删除，如下所示：
+您可以从Marketo Engage中删除，但不能从CRM中删除，如下所示：
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->从您的CRM中删除人员 **仅适用于Salesforce**. 如果您从Marketo中删除人员并选择将他们保留在Salesforce中，则当他们的Salesforce记录更新时，将在Marketo中重新创建他们。
+>从您的CRM中删除人员 _仅适用于[!DNL Salesforce]_. 如果您从Marketo中删除人员并选择将其保留在 [!DNL Salesforce]，则它们将在Marketo中重新创建，如果 [!DNL Salesforce] 记录会随时更新。

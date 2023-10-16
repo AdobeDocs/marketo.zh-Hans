@@ -4,7 +4,7 @@ description: 为Smart Campaign定义智能列表 |触发器 — Marketo文档 �
 title: 为Smart Campaign定义智能列表 |触发器
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 通过添加触发器，根据实时事件逐人运行Smart Campaign。
 
-1. 在Smart Campaign中，单击 **智能列表** 选项卡。
+1. 在Smart Campaign中，单击 **[!UICONTROL 智能列表]** 选项卡。
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >带有触发器的Smart Campaign在中运行 **触发器** 模式。 它根据触发的事件和任何其他过滤器，每次只针对一个人运行。
+   >带有触发器的Smart Campaign在中运行 _触发器_ 模式。 它根据触发的事件和任何其他过滤器，每次只针对一个人运行。
 
    >[!IMPORTANT]
    >
-   >在触发器营销活动智能列表中使用布尔字段时，必须将其明确设置为“false”，以便该字段在执行营销活动期间正确评估。
+   >在触发器促销活动智能列表中使用布尔字段时，必须将其明确设置为“false”，以便该字段在执行促销活动期间正确评估。
 
 1. 单击下拉菜单并选择运算符。
 
@@ -49,10 +49,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >对于多个触发器，如果符合以下条件，人员会完成该流程 **任意** 其中一个触发器被激活。
+   >对于多个触发器，如果符合以下条件，人员会完成该流程 _任意_ 其中一个触发器被激活。
 
-要同时对一组人员运行活动，请了解如何 [为Smart Campaign定义智能列表 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+要同时对一组人员运行活动，请了解如何 [为Smart Campaign定义智能列表 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[向智能营销活动添加流量步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[向智能营销活动添加流量步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

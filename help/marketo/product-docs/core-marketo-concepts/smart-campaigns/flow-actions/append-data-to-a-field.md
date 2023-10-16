@@ -4,7 +4,7 @@ description: 将数据附加到字段 — Marketo文档 — 产品文档
 title: 将数据附加到字段
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[创建活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[创建活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
 
 >[!NOTE]
 >
->以下步骤也适用于 [更改项目群成员数据](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+>以下步骤也适用于 [更改项目群成员数据](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. 在 **流量** 选项卡，拖入 **更改数据值** 流程步骤。
+1. 在 **[!UICONTROL 流量]** 选项卡，拖入 **[!UICONTROL 更改数据值]** 流程步骤。
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 

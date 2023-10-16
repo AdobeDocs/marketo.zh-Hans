@@ -4,9 +4,9 @@ description: 了解期间成本 — Marketo文档 — 产品文档
 title: 了解期间成本
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >如果你花1000美元聘请一位插图师，为今年7月推出的电子书做插图，那么今年7月电子书计划的期间成本将为1000美元。
 >
->如果您每月在Google Adwords上支出$200 - Google Adwords程序的时段成本为$200 **每月**.
+>如果你每个月花200美元 [!DNL Google Adwords] - [!DNL Google Adwords] 方案的期间费用为200美元 _每月_.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: 将SFDC营销活动与项目同步 — Marketo文档 — 产品文�
 title: 将SFDC Campaign与程序同步
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Engage允许您与同步程序 [!DNL Salesforce] 营销活动，用于�
 
 >[!PREREQUISITES]
 >
->您将需要 [启用 [!DNL Salesforce] campaign同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) 首先。
+>您将需要 [启用 [!DNL Salesforce] campaign同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} 首先。
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Marketo Engage允许您与同步程序 [!DNL Salesforce] 营销活动，用于�
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. 选择 **[!UICONTROL 新建]** 或选择现有的Salesforce营销活动。
+1. 选择 **[!UICONTROL 新建]** 或选择现有的 [!DNL Salesforce] 营销活动。
 
    >[!TIP]
    >
-   >如果选择现有Salesforce营销活动，请确保 [匹配Salesforce营销活动和Marketo项目的项目状态](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >如果您选择现有 [!DNL Salesforce] 营销活动，确保 [匹配以下项目的项目状态 [!DNL Salesforce] 营销活动和Marketo项目](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. 输入新营销活动的名称，然后单击 **[!UICONTROL 保存]**.
 

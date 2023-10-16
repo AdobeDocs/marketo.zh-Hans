@@ -4,9 +4,9 @@ description: 新建Smart Campaign - Marketo文档 — 产品文档
 title: 创建新的Smart Campaign
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >了解有关 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. 转到 **营销活动**.
+1. 转到 **[!UICONTROL 营销活动]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. 右键单击所需的程序，然后选择 **新建智能营销活动**.
+1. 右键单击所需的程序，然后选择 **[!UICONTROL 新建智能营销活动]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
    >
    >您可以将Smart Campaigns创建为任何项目的本地资产。
 
-1. 输入智能营销活动名称，然后单击 **创建**.
+1. 输入智能营销活动名称，然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/create-a-new-smart-campaign-3.png)
 
-   接下来，了解如何使用智能列表定义哪些人要通过Smart Campaign运行。
+   接下来，了解如何使用智能列表定义要通过Smart Campaign运行的人员。
 
    >[!MORELIKETHIS]
    >

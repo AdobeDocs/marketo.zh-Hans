@@ -4,16 +4,16 @@ description: 了解标记 — Marketo文档 — 产品文档
 title: 了解标记
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 2%
 
 ---
 
 # 了解标记 {#understanding-tags}
 
-您现在可能知道，程序就像Marketo中的构建基块。 利用标记和渠道将帮助您过滤用于报告的数据。
+您现在可能已经知道，程序就像Marketo Engage中的构建块。 利用标记和渠道将帮助您过滤用于报告的数据。
 
 标记用于描述程序。 您可以根据需要进行任意数量的更改，每个更改都有唯一值。 渠道可识别项目中的投放机制，例如网络研讨会、赞助或在线广告。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->与您的 [Marketo管理员](/help/marketo/product-docs/administration/tags/create-custom-tags.md) 如果您要创建自定义标记。
+>如果您想创建，请联系Marketo管理员 [自定义标记](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 渠道 {#channel}
 
-渠道用于报告您的 [成员](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 已移动您的项目。 每个渠道都有一组进展状态和一个设置为等同成功的状态。
+渠道用于报告您的 [成员](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} 已移动您的项目。 每个渠道都有一组进展状态和一个设置为等同成功的状态。
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [创建自定义标记](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [创建项目频道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [创建自定义标记](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [创建项目频道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

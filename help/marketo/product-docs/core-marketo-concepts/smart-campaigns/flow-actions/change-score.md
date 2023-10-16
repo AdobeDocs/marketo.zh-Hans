@@ -4,7 +4,7 @@ description: 更改分数 — Marketo文档 — 产品文档
 title: 更改得分
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 2%
@@ -27,7 +27,7 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >您可以创建多个得分字段。 请参阅 [在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 以了解详细信息。
+   >您可以创建多个得分字段。 请参阅 [在Marketo中创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} 以了解详细信息。
 
 1. 输入您需要的分数更改。
 

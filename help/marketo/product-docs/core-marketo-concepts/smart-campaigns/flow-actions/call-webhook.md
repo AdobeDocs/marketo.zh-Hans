@@ -4,7 +4,7 @@ description: 调用Webhook - Marketo文档 — 产品文档
 title: 调用Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->[创建Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
+>[创建Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}
 
 ## 概述 {#overview}
 
@@ -25,11 +25,11 @@ Webhook允许您与第三方服务进行交互。 通过在智能营销活动流
 
 >[!NOTE]
 >
->了解许多有趣的事情 [Webhooks](https://developers.marketo.com/documentation/webhooks/) 可以帮你。
+>了解许多有趣的事情 [Webhooks](https://developers.marketo.com/documentation/webhooks/){target="_blank"} 可以帮你。
 
 ## 使用情况 {#usage}
 
-选择 **Webhook** 从下拉菜单中查找。
+从下拉列表中选择Webhook。
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
@@ -37,4 +37,4 @@ Webhook允许您与第三方服务进行交互。 通过在智能营销活动流
 
 >[!MORELIKETHIS]
 >
->[在Smart Campaign中使用Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
+>[在Smart Campaign中使用Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md){target="_blank"}
