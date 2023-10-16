@@ -3,10 +3,10 @@ description: 项目群成员自定义字段同步 — Marketo文档 — 产品�
 title: 程序成员自定义字段同步
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 5%
+source-wordcount: '353'
+ht-degree: 6%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 5%
 
 ## 将Salesforce字段映射到项目群成员自定义字段 {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. 在Marketo中，单击 **管理员**.
+1. 在Marketo中，单击 **[!UICONTROL 管理员]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 单击 **Salesforce**，然后单击 **编辑** “程序成员自定义字段同步”旁边。
+1. 单击 **[!DNL Salesforce]**，然后单击 **[!UICONTROL 编辑]** “程序成员自定义字段同步”旁边。
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 5%
 
 1. 对于其他字段映射，请清除搜索框并重复步骤3至5。
 
-1. 单击 **保存** 完成时。
+1. 单击 **[!UICONTROL 保存]** 完成时。
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 5%
 
 如果您希望释放字段以替换它，或只是进行常规更改，则必须先执行取消映射。 具体方法如下。
 
-1. 在Marketo中，单击 **管理员**.
+1. 在Marketo中，单击 **[!UICONTROL 管理员]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 单击 **Salesforce**，然后单击 **编辑** “程序成员自定义字段同步”旁边。
+1. 单击 **[!DNL Salesforce]**，然后单击 **[!UICONTROL 编辑]** “程序成员自定义字段同步”旁边。
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ ht-degree: 5%
 
    >[!TIP]
    >
-   >您可以选择 **已映射** 复选框，以便仅查看映射的字段。
+   >您可以选择 **[!UICONTROL 已映射]** 复选框，以便仅查看映射的字段。
 
 1. 通过单击 **X** 在栏位旁边。
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. 该映射现已删除。 单击 **保存**.
+1. 该映射现已删除。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/program-member-custom-field-sync-11.png)
 

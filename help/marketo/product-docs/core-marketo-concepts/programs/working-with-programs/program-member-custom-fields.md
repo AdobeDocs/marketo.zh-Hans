@@ -4,7 +4,7 @@ description: 项目群成员自定义字段 — Marketo文档 — 产品文档
 title: 项目群成员自定义字段
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 1%
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 ## 创建项目群成员自定义字段 {#create-a-program-member-custom-field}
 
-1. 在Marketo中，单击 **管理员**.
+1. 在Marketo中，单击 **[!UICONTROL 管理员]**.
 
    ![](assets/one.png)
 
-1. 单击 **字段管理**.
+1. 单击 **[!UICONTROL 字段管理]**.
 
    ![](assets/two.png)
 
-1. 单击 **新建自定义字段**.
+1. 单击 **[!UICONTROL 新建自定义字段]**.
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ ht-degree: 1%
    >
    >人员和项目群成员自定义字段不能共享相同的名称。
 
-1. 填写其余字段，然后单击 **创建**.
+1. 填写其余字段，然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/five.png)
 

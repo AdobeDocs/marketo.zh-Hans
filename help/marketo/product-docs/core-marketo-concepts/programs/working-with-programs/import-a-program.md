@@ -4,7 +4,7 @@ description: 导入程序 — Marketo文档 — 产品文档
 title: 导入项目群
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 导入项目群 {#importing-a-program}
 
-1. 转到 **营销活动**.
+1. 转到 **[!UICONTROL 营销活动]**.
 
    ![](assets/import-a-program-1.png)
 
-1. 单击 **新建** 下拉并选择 **导入项目群**.
+1. 单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 导入项目群]**.
 
    ![](assets/import-a-program-2.png)
 
@@ -31,19 +31,19 @@ ht-degree: 0%
    >
    >要将沙盒帐户连接到您的实时订阅，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. 选择Marketo **订阅** 以及要导入的程序。 单击&#x200B;**下一步**。
+1. 选择Marketo **[!UICONTROL 订阅]** 以及要导入的程序。 单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/import-a-program-3.png)
 
-1. 指定 **Campaign文件夹** 用于导入的程序。 单击 **下一个。**
+1. 指定 **[!UICONTROL Campaign文件夹]** 用于导入的程序。 单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >确保 **使用默认冲突** 已选择规则。 将项目导入具有相同名称的实例时，需要冲突规则。
+   >确保 **[!UICONTROL 使用默认冲突]** 已选择规则。 将项目导入具有相同名称的实例时，需要冲突规则。
 
-1. 选择所需的冲突详细信息，然后单击 **下一个**.
+1. 选择所需的冲突详细信息，然后单击 **[!UICONTROL 下一个]**.
 
    ![](assets/import-a-program-5.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >将使用自定义流程步骤或从“流程步骤服务”派生的智能列表规则的程序导入到目标实例中，其中存在多个兼容服务提供程序，将提示导入用户将步骤或规则分配给目标实例中的正确服务提供程序。
 
-1. 预览详细信息和 **导入** 程序。
+1. 预览详细信息和 **[!UICONTROL 导入]** 程序。
 
    ![](assets/import-a-program-6.png)
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->程序导入不支持图像类型我的令牌。 如果导入了图像类型为我的令牌的程序， **否** 令牌将通过。
+>程序导入不支持图像类型我的令牌。 如果导入了图像类型为我的令牌的程序， _否_ 令牌将通过。
 
 **项目标记：** 您可以使用冲突规则来控制如何处理目标帐户中不存在的程序标记。 使用默认规则将创建程序标记，或者您可以选择忽略标记。
 

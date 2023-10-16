@@ -4,9 +4,9 @@ description: 删除项目 — Marketo文档 — 产品文档
 title: 删除项目群
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. 单击 **项目操作**. 单击 **删除**.
+1. 单击 **[!UICONTROL 项目操作]** 下拉并选择 **[!UICONTROL 删除]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. 选择全部删除选项。 查看程序删除的副作用，然后单击 **删除** 以确认。
+1. 选择“全部删除……”单选按钮。 查看删除程序的影响，然后单击 **[!UICONTROL 删除]** 以确认。
 
 >[!TIP]
 >
->**存档程序** 会保留程序数据，但会阻止程序运行。 选择该选项，然后单击 **下一个** 查看有关归档的更多详细信息。
+>存档程序会保留程序数据，但会阻止程序的运行。 选择该选项，然后单击 **[!UICONTROL 下一个]** 查看有关归档的更多详细信息。
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
 程序可以包含系统中其他位置使用的资产 — 这将阻止您删除程序。
 
-要解决此问题，您可能需要深入分析，然后取消批准/删除。 请按照以下步骤操作。
+要解决此问题，可能需要深入分析并取消批准/删除。 请按照以下步骤操作。
 
 1. 单击链接以转到资产。
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. 单击 **使用者** 以查看资产的使用位置。
+1. 单击 **[!UICONTROL 使用者]** 以查看资产的使用位置。
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

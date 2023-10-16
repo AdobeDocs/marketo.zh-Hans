@@ -4,7 +4,7 @@ description: 帐户得分 — Marketo文档 — 产品文档
 title: 帐户得分
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 1. 单击 **管理员**.
 
-   ![](assets/one-1.png)
+   ![](assets/account-score-1.png)
 
 1. 单击 **目标帐户管理**.
 
@@ -75,12 +75,12 @@ ht-degree: 0%
 
 1. 输入帐户得分名称，单击 **选择人员得分** 下拉列表并选择相应的得分。
 
-   ![](assets/four.png)
+   ![](assets/account-score-4.png)
 
 1. 单击 **+添加** 以添加更多得分。
 
-   ![](assets/five.png)
+   ![](assets/account-score-5.png)
 
 1. 添加所有所需分数。 单击 **保存** 完成时。
 
-   ![](assets/six.png)
+   ![](assets/account-score-6.png)
