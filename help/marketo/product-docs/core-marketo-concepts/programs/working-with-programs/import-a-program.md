@@ -4,34 +4,34 @@ description: 导入程序 — Marketo文档 — 产品文档
 title: 导入项目群
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
 
 # 导入项目群 {#import-a-program}
 
-程序可以从一个Marketo订阅导入到另一个订阅。 例如，您可以在沙盒中创建程序，然后将其导入您的实时订阅。 此外，您可以从Marketo项目库导入预建项目。
+程序可以从一个Marketo订阅导入到另一个订阅。 例如，您可以在沙盒中创建程序，然后将其导入您的实时订阅。 此外，您还可以从导入预建程序 [Marketo项目库](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 ## 导入项目群 {#importing-a-program}
 
-1. 转到 **营销活动。**
+1. 转到 **营销活动**.
 
    ![](assets/import-a-program-1.png)
 
-1. 单击 **新建** 下拉菜单。 选择 **导入项目群**.
+1. 单击 **新建** 下拉并选择 **导入项目群**.
 
    ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
-   >“程序导入”仅适用于启用了导入程序权限的角色的用户。 了解有关 [管理用户角色和权限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >“程序导入”仅适用于启用了导入程序权限的角色的用户。 了解有关 [管理用户角色和权限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >要将沙盒帐户连接到您的实时订阅，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >要将沙盒帐户连接到您的实时订阅，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. 选择Marketo **订阅** 以及要导入的程序。 单击 **下一个**.
+1. 选择Marketo **订阅** 以及要导入的程序。 单击&#x200B;**下一步**。
 
    ![](assets/import-a-program-3.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 **登陆页面/Forms：** 如果Design Studio中存在具有相同名称的表单或登陆页面，则仍会导入这些表单或登陆页面，但会在其名称后附加一个数字（例如：登陆页面 — 1）。
 
-**图像：** 登陆页面使用的图像将导入设计工作室中，除非存在具有相同名称的图像。
+**图像：** 登陆页面使用的图像将导入到设计工作室中，除非存在具有相同名称的图像。
 
 **令牌：** 位于项目之外的令牌将在导入过程中转换为本地令牌。
 
@@ -81,4 +81,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->导入项目时，包含电子邮件/登陆页面 [动态内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) 将被跳过。
+>导入项目时，包含电子邮件/登陆页面 [动态内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} 将被跳过。
