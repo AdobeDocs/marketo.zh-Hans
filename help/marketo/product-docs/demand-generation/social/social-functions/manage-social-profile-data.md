@@ -4,9 +4,9 @@ description: 管理社交个人资料数据 — Marketo文档 — 产品文档
 title: 管理社交个人资料数据
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '310'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 >[!AVAILABILITY]
 >
->并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 ## 通过社交应用程序捕获 {#captured-via-social-app}
 

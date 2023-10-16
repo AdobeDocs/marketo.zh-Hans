@@ -4,9 +4,9 @@ description: 启用社交表单填写表单（社交） - Marketo文档 — 产�
 title: 启用社交表单填写表单(Social)
 exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 1. 转到 **营销活动**.
 

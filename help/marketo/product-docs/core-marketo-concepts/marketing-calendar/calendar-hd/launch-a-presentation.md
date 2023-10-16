@@ -4,9 +4,9 @@ description: 启动演示文稿 — Marketo文档 — 产品文档
 title: 启动演示
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 >[!PREREQUISITES]
 >

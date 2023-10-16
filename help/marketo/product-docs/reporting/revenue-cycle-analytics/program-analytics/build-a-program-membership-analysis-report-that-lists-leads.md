@@ -4,9 +4,9 @@ description: 构建项目会员资格分析报告，其中列出潜在客户 —
 title: 构建列出潜在客户的计划会员资格分析报告
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 1. 启动Revenue Explorer。
 

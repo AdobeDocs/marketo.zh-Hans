@@ -4,9 +4,9 @@ description: 将社交按钮添加到自由表单登陆页面 — Marketo文档 
 title: 向自由表单登陆页面添加Social按钮
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 1. 导航到您的自由格式登陆页面并单击 **编辑草稿**.
 

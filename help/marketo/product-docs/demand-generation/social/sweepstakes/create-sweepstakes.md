@@ -3,22 +3,22 @@ unique-page-id: 2359795
 description: 创建抽奖 — Marketo文档 — 产品文档
 title: 创建抽奖
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
 # 创建抽奖 {#create-sweepstakes}
 
-抽奖让人们有机会赢得奖品，作为回报，他们向朋友讲述了你。 您可以将其放置到登陆页面、您的网站，甚至Facebook。
+抽奖活动可以让人们有机会赢得奖品，作为回报，他们会把你的事情告诉他们的朋友。 您可以将其拖放到登陆页面、您的网站甚至Facebook上。
 
 >[!AVAILABILITY]
 >
->并非所有客户都购买了此功能。 有关详细信息，请联系您的销售代表。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. 在您的项目中，选择 **新建** > **新建本地资产**.
+1. 在程序内，选择 **新建** > **新建本地资产**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
@@ -26,15 +26,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
-1. 举出您的抽奖活动。
+1. 请为您的抽奖活动命名。
 
    ![](assets/image2014-9-25-17-3a29-3a50.png)
 
    >[!TIP]
    >
-   >为了节省时间，您可以使用 **克隆自** 选项，以复制现有抽奖中的所有设置。
+   >为了节省时间，您可以使用 **克隆** 从现有抽奖活动复制所有设置的选项。
 
-   抽奖编辑器在新窗口中打开。 默认设置都不错，但您仍需要配置一些详细信息。 我们将在后续步骤中向您展示如何操作。
+   抽奖活动编辑在新窗口中打开。 默认设置一切正常，但您仍需要配置一些详细信息。 我们将向您展示后续步骤中的操作方法。
 
 1. 单击 **抽奖详细信息**.
 
@@ -46,21 +46,21 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >对于每日和每周绘图，开始时间和结束时间分别固定在上午12点和晚上11:59。 对于一次性绘图，您可以选择自己的开始和结束时间。
+   >对于每日和每周绘图，开始和结束时间分别固定在上午12点和晚上11:59。 对于一次性绘图，可以选择自己的开始时间和结束时间。
 
 1. 单击 **高级选项**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
-1. 添加指向抽奖规则的链接。 输入URL。 此链接是必需的。
+1. 添加抽奖规则的链接。 输入URL。 此链接为必填项。
 
    ![](assets/image2014-9-25-17-3a33-3a30.png)
 
-   链接将显示在共享消息屏幕的底部。
+   该链接将显示在共享消息屏幕的底部。
 
    >[!NOTE]
    >
-   >在此屏幕上，您还可以添加隐私政策链接。 请参阅 [将隐私政策添加到社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >在此屏幕上，您还可以添加隐私策略链接。 请参阅 [将您的隐私策略添加到社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. 单击 **完成**.
 
@@ -72,12 +72,12 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要更改抽奖中的任何默认值，请单击 **返回**. 若要保存您的工作以供以后不批准，请单击 **关闭**.
+   >要更改抽奖中的任何默认值，请单击 **返回**. 要保存您的工作以供以后在不批准的情况下使用，请单击 **关闭**.
 
-如果抽奖中存在任何问题，系统会提示您在抽奖获得批准前解决这些问题。
+如果抽奖活动出现任何问题，系统将提示您在抽奖活动获得批准之前解决这些问题。
 
-祝贺您！您已创建抽奖活动。
+恭喜！你办了个抽奖活动。
 
 >[!MORELIKETHIS]
 >
->下一步是 [发布抽奖活动](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)，但您可以更改抽奖的外观和设置。 开始于 [自定义抽奖样式](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>下一步是 [发布您的抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)，但您可以更改抽奖的外观和设置。 开始于 [自定义您的抽奖方式](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).

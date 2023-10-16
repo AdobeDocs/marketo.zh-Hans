@@ -4,9 +4,9 @@ description: '"添加 [!DNL Google AdWords] as a [!DNL LaunchPoint] 服务 — M
 title: '"添加 [!DNL Google AdWords] as a [!DNL LaunchPoint] 服务”'
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->并非所有客户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ ht-degree: 1%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-10.png)
 
-   | 类型 | 条件 |
+   | 类型 | 定义 |
    |---|---|
    | [!UICONTROL 首次点击] | 离线转化将归因于 [!DNL AdWords] 某人在过去90天内点击的广告 |
    | [!UICONTROL 最后点击] | 离线转化将归属于最后一个 [!DNL AdWords] 用户点击的广告 |

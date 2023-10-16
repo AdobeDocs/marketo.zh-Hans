@@ -4,9 +4,9 @@ description: 自定义演示文稿 — Marketo文档 — 产品文档
 title: 自定义演示
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 >[!PREREQUISITES]
 >
@@ -50,7 +50,7 @@ Presentations展示您团队的目标时是最棒的。 拖动到其他位置 [�
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. 使用分钟输入时间。 单击 **[!UICONTROL 保存]**.
+1. 使用分钟输入时间。 单击&#x200B;**[!UICONTROL 保存]**。
 
    >[!NOTE]
    >

@@ -4,10 +4,10 @@ description: 添加移动应用程序 — Marketo文档 — 产品文档
 title: 添加移动应用程序
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 0%
+source-wordcount: '198'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 1. 单击 **管理员**.
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. 输入名称。 在 **类型** 下拉列表中，选择您所使用的环境类型 — 沙盒或生产。 单击 **保存**.
+1. 输入名称。 在 **类型** 下拉列表中，选择您所使用的环境类型 — 沙盒或生产。 单击&#x200B;**保存**。
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 

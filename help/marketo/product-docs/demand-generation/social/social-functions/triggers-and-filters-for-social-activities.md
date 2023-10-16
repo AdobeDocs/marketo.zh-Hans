@@ -4,9 +4,9 @@ description: 社交活动的触发器和过滤器 — Marketo文档 — 产品�
 title: 社交活动的触发器和过滤器
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo中的社交应用程序拥有自己的特殊触发器和过滤器。
 
 >[!AVAILABILITY]
 >
->并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 1. 使用社交 _触发器_，选择您的智能营销活动，然后单击 **智能列表** 选项卡。 在右侧，单击+以展开 **触发器**，则 **Social**.
 

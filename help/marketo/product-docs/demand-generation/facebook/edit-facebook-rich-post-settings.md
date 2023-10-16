@@ -4,9 +4,9 @@ description: 编辑Facebook富帖子设置 — Marketo文档 — 产品文档
 title: 编辑Facebook富帖子设置
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) 允许您的潜在客户与其在Facebook、Twitter等社交网络上的连接共享您的登陆页面。 facebook OpenGraph标记（OG标记）允许您指定登陆页面中的哪些信息包含在Facebook帖子中。
+Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) 允许您的潜在客户与其在社交网络(如Facebook、Twitter等)上的连接共享您的登陆页面。 facebook OpenGraph标记（OG标记）允许您指定登陆页面中的哪些信息包含在Facebook帖子中。
 
 ## 选择富发布选项 {#select-rich-post-options}
 

@@ -4,9 +4,9 @@ description: 自定义星星和火焰 — Marketo文档 — 产品文档
 title: 自定义星星和火焰
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Sales Insight使用星星和火焰来确定潜在客户的优先级。 M
 
 >[!AVAILABILITY]
 >
->并非所有客户都已购买此功能。 有关详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Marketo Sales Insight使用星星和火焰来确定潜在客户的优先级。 M
 
    >[!NOTE]
    >
-   >**条件**
+   >**定义**
    >
    >**动态**  — 是从中派生的百分比值 [相对数据](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). 太棒了。 建议使用此方法。
    >
