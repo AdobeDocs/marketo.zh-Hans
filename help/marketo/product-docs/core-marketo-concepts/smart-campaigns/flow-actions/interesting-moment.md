@@ -4,7 +4,7 @@ description: 有趣的时刻 — Marketo文档 — 产品文档
 title: 有趣的时刻
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 2%
@@ -21,21 +21,21 @@ ht-degree: 2%
 
 ## 使用情况 {#usage}
 
-1. 选择有趣的时刻 **type** 您想要使用。
+1. 选择有趣的时刻 **[!UICONTROL type]** 您想要使用。
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. 创建 **描述** 这就解释了您的销售团队会遇到的一个有趣时刻。
+1. 创建 **[!UICONTROL 描述]** 这就解释了您的销售团队会遇到的一个有趣时刻。
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
    >[!TIP]
    >
-   >**少即多**. 与您的销售团队合作，确保有趣的时刻确实有趣。
+   >_少即多_. 与您的销售团队合作，确保有趣的时刻确实有趣。
 
-您还可以使用 [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 才能做出真正有用的动态描述。
+您还可以使用 [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} 才能做出真正有用的动态描述。
 
 >[!MORELIKETHIS]
 >
->* [使用有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
+>* [使用有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
+>* [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}

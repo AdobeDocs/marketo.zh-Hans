@@ -3,7 +3,7 @@ description: 执行Campaign - Marketo文档 — 产品文档
 title: 执行营销活动
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 0%
@@ -32,17 +32,17 @@ ht-degree: 0%
 
 ## 如何创建可执行活动 {#how-to-create-an-executable-campaign}
 
-1. 右键单击所需的项目并选择 **新建智能营销活动**.
+1. 右键单击所需的项目并选择 **[!UICONTROL 新建智能营销活动]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. 为其命名，选择 **可执行文件** 复选框，然后单击 **创建**.
+1. 为其命名，选择 **[!UICONTROL 可执行文件]** 复选框，然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. 与任何其他智能营销活动一样，定义智能列表和流量。
 
-您还可以克隆现有的Smart Campaign。 如果克隆现有的可执行活动，则仍必须选择 **可执行文件** 复选框。
+您还可以克隆现有的Smart Campaign。 如果克隆现有的可执行活动，则仍必须选择 **[!UICONTROL 可执行文件]** 复选框。
 
 >[!NOTE]
 >
@@ -73,11 +73,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->切勿使可执行营销活动的智能列表无效，否则 **无人** 将符合条件。 最佳实践是创建单独的智能列表资产，完整定义这些资产并确保其有效。 然后，使用可执行活动中的“智能列表的成员”过滤器，以便交换智能列表定义。
+>切勿使可执行营销活动的智能列表无效，否则 _无人_ 将符合条件。 最佳实践是创建单独的智能列表资产，完整定义这些资产并确保其有效。 然后，使用可执行活动中的“智能列表的成员”过滤器，以便交换智能列表定义。
 
 ## 令牌继承示例 {#token-inheritance-example}
 
-下面是一个可执行营销活动和两个父营销活动中令牌继承的可视示例：一个将令牌上下文设置为 **True**，其他到 **假**.
+下面是一个可执行营销活动和两个父营销活动中令牌继承的可视示例：一个将令牌上下文设置为 **[!UICONTROL True]**，其他到 **[!UICONTROL 假]**.
 
 具有标记化更改分数的子营销活动。
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
 ![](assets/execute-campaign-4.png)
 
-**示例1 - True**
+### 示例1 - True {#example-one-true}
 
 在第一个父营销活动的“执行营销活动”流程步骤中，“使用父营销活动令牌上下文”设置为 **True**.
 
@@ -101,7 +101,7 @@ ht-degree: 0%
 
 ![](assets/execute-campaign-7.png)
 
-**示例2：False**
+### 示例2：False {#example-two-false}
 
 在第二个父营销活动的“执行营销活动”流程步骤中，“使用父营销活动令牌上下文”设置为 **假**.
 

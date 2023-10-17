@@ -4,9 +4,9 @@ description: 在等待流步骤中使用日期令牌 — Marketo文档 — 产�
 title: 在等待流步骤中使用日期令牌
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这仅适用于触发营销活动。 您无法在批量营销活动中使用此功能。
+>这仅适用于触发营销活动。 您无法在“批处理营销活动”中使用此功能。
 
-1. 在您的智能营销活动中 **流量** 选项卡，拖动到 **等待** 流程步骤。
+1. 在您的Smart Campaign中 **[!UICONTROL 流量]** 选项卡，拖动到 **[!UICONTROL 等待]** 流程步骤。
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
-1. 单击右侧的齿轮图标。
+1. 单击齿轮图标。
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. 从 **类型** 下拉列表，选择 **日期令牌**.
+1. 从 **[!UICONTROL 类型]** 下拉列表，选择 **[!UICONTROL 日期令牌]**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -56,11 +56,11 @@ ht-degree: 0%
    >
    >您还可以使用指定天数 `{{lead.` 或 `{{company.` 表示整数字段的令牌，或 `{{my.` 数字类型的令牌。
 
-1. 单击 **保存**.
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
    >[!MORELIKETHIS]
    >
-   >* [在等待流步骤中使用持续时间](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-   >* [在等待流步骤中使用特定日期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [在等待流步骤中使用持续时间](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [在等待流步骤中使用特定日期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

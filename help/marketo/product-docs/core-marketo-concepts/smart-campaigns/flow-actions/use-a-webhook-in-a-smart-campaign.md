@@ -4,28 +4,28 @@ description: 在Smart Campaign中使用Webhook - Marketo文档 — 产品文档
 title: 在Smart Campaign中使用Webhook
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # 在Smart Campaign中使用Webhook {#use-a-webhook-in-a-smart-campaign}
 
-要使用 [webhook](https://developers.marketo.com/documentation/webhooks/)，将其添加到 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) 作为流操作。
+要使用 [webhook](https://developers.marketo.com/documentation/webhooks/){target="_blank"}, add it to a [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} 作为流操作。
 
 >[!AVAILABILITY]
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. [创建智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [创建Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >Webhook只能用于触发营销活动。
+   >Webhook只能在触发器营销活动中使用。
 
-1. 转到 **流量** 制表符并拖入 **调用Webhook** flow操作。
+1. 转到 **[!UICONTROL 流量]** 制表符并拖入 **[!UICONTROL 调用Webhook]** flow操作。
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. 最后，您可以在以下位置使用Webhooks： **添加选项** 在流程步骤中。
+1. 最后，您可以在以下位置使用Webhooks： **[!UICONTROL 添加选项]** 在流程步骤中。
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)

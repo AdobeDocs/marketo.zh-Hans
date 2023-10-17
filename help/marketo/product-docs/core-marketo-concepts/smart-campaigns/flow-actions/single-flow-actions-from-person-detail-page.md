@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 除了从智能列表中运行单个流程操作外，您还可以直接在“人员详细信息”页面上运行它们。
 
-1. 单击 **数据库**.
+1. 单击 **[!UICONTROL 数据库]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -24,14 +24,14 @@ ht-degree: 0%
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. 单击 **人员操作** 下拉列表并选择您选择的流程步骤。 在此示例中，我们将使用 [发送电子邮件](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. 单击 **[!UICONTROL 人员操作]** 下拉列表并选择您选择的流程步骤。 在此示例中，我们将使用 [发送电子邮件](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. 选择所需的电子邮件并单击 **立即运行**.
+1. 选择所需的电子邮件并单击 **[!UICONTROL 立即运行]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 
 >[!NOTE]
 >
->如果您的实例包含工作区/分区，并且您直接导航到“人员详细信息”页面（即，通过链接），而不是来自与工作区关联的页面/资产，则您还必须在步骤4中选择工作区。
+>如果您的实例包含工作区/分区，并且您直接导航到“人员详细信息”页面（例如，通过链接），而不是来自与工作区关联的页面/资产，则您还必须在步骤4中选择工作区。

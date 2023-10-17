@@ -4,18 +4,18 @@ description: 移动智能营销活动的触发器和过滤器 — Marketo文档 
 title: 移动智能营销活动的触发器和过滤器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '820'
 ht-degree: 0%
 
 ---
 
 # 移动智能营销活动的触发器和过滤器 {#triggers-and-filters-for-mobile-smart-campaigns}
 
-您可以为移动设备应用程序智能促销活动设置触发器和过滤器。
+您可以为移动设备应用程序Smart Campaign设置触发器和过滤器。
 
-对于大多数活动，都有一个触发器、一个过滤器和一个非活动状态过滤器。 使用非活动过滤器跟踪具有以下特征的操作，例如点击推送通知 *没有* 发生。
+对于大多数活动，都有一个触发器、一个过滤器和一个非活动状态过滤器。 使用非活动过滤器跟踪具有以下特征的操作，例如点击推送通知 _没有_ 发生。
 
 * 已安装移动设备应用程序
 * 移动设备应用程序已打开
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 * 已发送推送通知 — 筛选器和非活动筛选器
 
-搜索 **移动应用程序** 在右侧面板中列出所有移动设备应用程序触发器和过滤器。
+在右侧面板中搜索“移动设备应用程序”，可列出所有移动设备应用程序触发器和过滤器。
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 具有/曾经具有移动设备应用程序活动
 
-这提供了一种强大的方法来跟踪自定义移动活动。 您需要与开发人员合作才能设置跟踪 [适用于Android的](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) 和 [适用于iOS的](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+这提供了一种强大的方法来跟踪自定义移动活动。 您需要与开发人员合作才能设置跟踪 [适用于Android的](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
 
 * 具有移动设备应用程序活动 — 触发器
 
@@ -192,5 +192,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [向智能列表筛选器添加约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [在智能列表中使用非活动筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [向智能列表筛选器添加约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [在智能列表中使用非活动筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}
