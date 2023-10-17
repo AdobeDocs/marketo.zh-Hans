@@ -4,7 +4,7 @@ description: 取消计划的批量活动运行 — Marketo文档 — 产品文�
 title: 取消计划的批处理营销活动运行
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 如果您计划了某个批次营销活动的运行，并且希望取消该操作，请按照以下步骤操作。
 
-1. 选择营销策划，然后转到 **计划** 选项卡。
+1. 选择营销策划，然后转到 **[!UICONTROL 计划]** 选项卡。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. 单击以确认取消 **确定**.
+1. 单击以确认取消 **[!UICONTROL 确定]**.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 
