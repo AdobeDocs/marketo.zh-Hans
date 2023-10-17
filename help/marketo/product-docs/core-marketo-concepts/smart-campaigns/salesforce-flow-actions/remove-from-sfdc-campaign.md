@@ -4,26 +4,22 @@ description: 从SFDC Campaign中删除 — Marketo文档 — 产品文档
 title: 从SFDC营销活动中删除
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 1%
+source-wordcount: '100'
+ht-degree: 0%
 
 ---
 
 # 从SFDC营销活动中删除 {#remove-from-sfdc-campaign}
 
->[!NOTE]
->
->仅在与Salesforce集成时可用。
-
-## 概述 {#overview}
-
-就象你能 [添加到SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md) 和 [在SFDC Campaign中更改状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)，您也可以从Salesforce营销策划中删除人员或潜在客户。
+就象你能 [添加到SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} and [Change Status in SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}，您也可以从Salesforce营销策划中删除人员或潜在客户。
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
-## 使用情况 {#usage}
+>[!NOTE]
+>
+>仅在与Salesforce集成时可用。
 
 1. 在流程步骤中拖动后，查找并选择您要从中删除人员或潜在客户的Salesforce营销活动。
 

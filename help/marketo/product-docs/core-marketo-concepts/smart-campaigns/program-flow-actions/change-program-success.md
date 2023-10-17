@@ -4,7 +4,7 @@ description: 更改计划成功 — Marketo文档 — 产品文档
 title: 更改项目成功
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%
@@ -29,7 +29,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. 选择 **成功** 或 **成功日期** 作为属性。
+1. 选择 **[!UICONTROL 成功]** 或 **[!UICONTROL 成功日期]** 作为属性。
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +37,7 @@ ht-degree: 1%
    >
    >将“成功日期”设置为任何值都会自动将“成功”设置为true。 将Success设置为true会自动将成功日期设置为当前日期。
 
-1. 设置 **新值** 到 **True** 或 **假**.
+1. 设置 **[!UICONTROL 新值]** 到 **[!UICONTROL True]** 或 **[!UICONTROL 假]**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 

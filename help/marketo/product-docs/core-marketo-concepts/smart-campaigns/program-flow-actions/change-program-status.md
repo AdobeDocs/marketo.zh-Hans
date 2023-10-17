@@ -4,9 +4,9 @@ description: 更改项目状态 — Marketo文档 — 产品文档
 title: 更改项目状态
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ## 概述 {#overview}
 
-项目状态可帮助您跟踪人员通过项目或事件的进展情况。 欲知更多信息，请参阅 [自定义、创建和管理渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+项目状态可帮助您跟踪人员通过项目或事件的进展情况。 欲知更多信息，请参阅 [自定义、创建和管理渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 >[!CAUTION]
 >
@@ -23,11 +23,11 @@ ht-degree: 1%
 
 ## 使用情况 {#usage}
 
-1. 拖入 **更改项目状态** 流程步骤。
+1. 拖入 **[!UICONTROL 更改项目状态]** 流程步骤。
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. 选择 **新建状态** 您要设置。 此人如果还不是计划成员，则也将成为该计划成员。
+1. 选择 **[!UICONTROL 新建状态]** 您要设置。 此人如果还不是计划成员，则也将成为该计划成员。
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
@@ -37,4 +37,4 @@ ht-degree: 1%
 >
 >人员无法向后移动到“管理员”渠道编辑器中定义的早期项目状态。
 
-状态是用于跟踪人员和报告的强大工具。 这值得你的时间。
+状态是用于跟踪人员和报告的强大工具。

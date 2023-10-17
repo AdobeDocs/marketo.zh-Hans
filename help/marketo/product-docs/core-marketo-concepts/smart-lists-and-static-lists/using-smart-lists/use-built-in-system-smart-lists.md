@@ -4,9 +4,9 @@ description: 使用内置/系统智能列表 — Marketo文档 — 产品文档
 title: 使用内置/系统智能列表
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # 使用内置/系统智能列表 {#use-built-in-system-smart-lists}
 
 Marketo有一些非常有用的内置智能列表。 我们来看看吧！
-
->[!NOTE]
->
->Marketo正在将黑名单和白名单等术语更改为产品中的阻止列表和允许列表。 在此更新过程中，您可能会在UI和文档屏幕截图中看到旧术语，并在文档文本中看到新术语。 造成任何混淆，我们深表歉意。
 
 1. 转到 **数据库**.
 

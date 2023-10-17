@@ -3,7 +3,7 @@ description: 更改项目成员数据 — Marketo文档 — 产品文档
 title: 更改项目群成员数据
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >您还可以阻止字段更新。 有关详细信息，请参阅阻止字段更新。
 
-1. 在Smart Campaign的流量选项卡中，将 **更改项目群成员数据** 流程步骤并选择所需的程序。
+1. 在Smart Campaign的流量选项卡中，将 **[!UICONTROL 更改项目群成员数据]** 流程步骤并选择所需的程序。
 
    ![](assets/change-program-member-data-1.png)
 
@@ -32,15 +32,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您还可以在“新值”中使用令牌。
+>您还可以在中使用令牌 [!UICONTROL 新值].
 
 现在，只需运行Smart Campaign，您就完成了！
 
 >[!TIP]
 >
->如果要清除字段而不是更新它们，则可以输入“NULL”（无引号，全部大写）作为“新值”。
+>如果要清除字段而不是更新它们，可以输入“NULL”（无引号，全部大写）作为 [!UICONTROL 新值].
 
 >[!MORELIKETHIS]
 >
->* [在流程步骤中使用令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
->* [将数据附加到字段](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+>* [在流程步骤中使用令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+>* [将数据附加到字段](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}

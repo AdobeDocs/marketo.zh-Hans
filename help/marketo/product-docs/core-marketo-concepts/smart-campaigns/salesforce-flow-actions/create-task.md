@@ -4,7 +4,7 @@ description: 创建任务 — Marketo文档 — 产品文档
 title: 创建任务
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->当Marketo同步用户创建任务时， **到期时间** 是在Salesforce中创建的任务的必填字段。 如果没有值，Marketo将默认输入5天。
+>当Marketo同步用户创建任务时， **[!UICONTROL 到期时间]** 是在Salesforce中创建的任务的必填字段。 如果没有值，Marketo将默认输入5天。
 
 默认情况下，流程步骤将如下所示：
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以使用 `{{lead.tokens}}`， `{{company.tokens}}`， `{{campaign.tokens}}` 和 `{{system.tokens}}` 在 **主题** 和 **描述**. 请参阅 [流程步骤的令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) 以了解更多详细信息。
+>您可以使用 `{{lead.tokens}}`， `{{company.tokens}}`， `{{campaign.tokens}}` 和 `{{system.tokens}}` 在 **[!UICONTROL 主题]** 和 **[!UICONTROL 描述]**. 请参阅 [流程步骤的令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} 以了解更多详细信息。

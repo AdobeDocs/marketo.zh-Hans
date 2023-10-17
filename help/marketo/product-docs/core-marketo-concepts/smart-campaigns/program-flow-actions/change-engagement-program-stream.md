@@ -4,7 +4,7 @@ description: 更改参与计划流 — Marketo文档 — 产品文档
 title: 更改参与计划流
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## 概述 {#overview}
 
-通常您会使用 [流过渡规则](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) 要实现此目的，但是如果您想要手动将人员从一个流移动到另一个流，则需使用此流步骤。
+通常情况下，您会使用 [流过渡规则](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) 以实现这一目标。 但是，如果您想要手动将人员从一个流移动到另一个流，则需要使用此流步骤。
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 

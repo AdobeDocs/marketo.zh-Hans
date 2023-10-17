@@ -4,9 +4,9 @@ description: Marketo Engage术语表 — Marketo文档 — 产品文档
 title: Marketo Engage术语表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '4176'
+source-wordcount: '4128'
 ht-degree: 1%
 
 ---
@@ -118,10 +118,6 @@ ht-degree: 1%
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->Marketo正在将黑名单和白名单等术语更改为产品中的阻止列表和允许列表。 在此更新过程中，您可能会在UI和文档屏幕截图中看到旧术语，并在文档文本中看到新术语。 造成任何混淆，我们深表歉意。
 
 ## C {#c}
 

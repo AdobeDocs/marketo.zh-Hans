@@ -4,22 +4,22 @@ description: 将Smart Campaign结果导出到Excel - Marketo文档 — 产品文
 title: 将Smart Campaign结果导出到Excel
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 # 将Smart Campaign结果导出到Excel {#export-smart-campaign-results-to-excel}
 
-将智能营销活动结果导出到Excel以供在Marketo之外使用。
+将Smart Campaign结果导出到Excel以供在Marketo之外使用。
 
-1. 在智能营销活动中，单击 **结果** 然后是底部的导出图标。
+1. 在Smart Campaign中，单击 **[!UICONTROL 结果]** 选项卡，然后单击底部的导出图标。
 
    ![](assets/exportexcel-hands.png)
 
-   很快即可导出结果并准备使用！
+   您的结果已导出并可供使用！
 
    >[!NOTE]
    >

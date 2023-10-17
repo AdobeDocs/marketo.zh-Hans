@@ -4,9 +4,9 @@ description: 了解取消订阅 — Marketo文档 — 产品文档
 title: 了解取消订阅
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '217'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # 了解取消订阅 {#understanding-unsubscribe}
 
 Marketo中实际上有多种不同类型的内置取消订阅。 它们全部由人员对象上的字段表示，就像“名字”一样。
-
->[!NOTE]
->
->Marketo正在将黑名单和白名单等术语更改为产品中的阻止列表和允许列表。 在此更新过程中，您可能会在UI和文档屏幕截图中看到旧术语，并在文档文本中看到新术语。 造成任何混淆，我们深表歉意。
 
 所有这些字段均内置到您的Marketo订阅中。 它们是布尔型（复选框）类型。 它们可以在Forms中使用，或者 [更改数据值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 流程步骤。
 
