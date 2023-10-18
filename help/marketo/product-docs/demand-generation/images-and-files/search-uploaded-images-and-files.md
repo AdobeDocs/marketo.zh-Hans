@@ -4,22 +4,22 @@ description: 搜索上传的图像和文件 — Marketo文档 — 产品文档
 title: 搜索上传的图像和文件
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # 搜索上传的图像和文件 {#search-uploaded-images-and-files}
 
-在Marketo中，轻松查找图像和文件。
+了解如何搜索图像或文件。
 
-1. 转到 **Design Studio**.
+1. 转到 **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. 单击 **图像和文件** 以获取所有已上传文件的完整列表。
+1. 单击 **[!UICONTROL 图像和文件]** 以获取所有已上传文件的完整列表。
 
    ![](assets/search-uploaded-images-and-files-2.png)
 

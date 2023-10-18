@@ -4,31 +4,33 @@ description: 查找已上传图像或文件的URL - Marketo文档 — 产品文�
 title: 查找上载的图像或文件的URL
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 # 查找上载的图像或文件的URL {#find-the-url-of-an-uploaded-image-or-file}
 
-正在查找您上传的图像或文件的网址(URL)？ Marketo给你安排了时间。
+正在查找您上传的图像或文件的网址(URL)？
 
-1. 转到 **Design Studio**.
+1. 转到 **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-4.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. 单击 **图像和文件** 在左侧菜单中，然后选择需要URL的文件。
+1. 单击 **[!UICONTROL 图像和文件]**.
 
-   ![](assets/image2014-9-25-14-3a47-3a53.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
-1. 此 **URL** 将显示在详细信息页面上。 右键单击 **URL** 并单击 **复制** 在出现的菜单中。
+1. 选择所需的资源。
 
-   ![](assets/image2014-9-25-14-3a48-3a16.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-拍拍你自己的后背，看你干得漂亮！
+1. 此 **[!UICONTROL URL]** 将显示在详细信息页面上。
+
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[替换上传的图像或文件](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>[替换上传的图像或文件](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
