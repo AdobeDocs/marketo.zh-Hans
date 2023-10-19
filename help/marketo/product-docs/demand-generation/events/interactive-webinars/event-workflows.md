@@ -3,9 +3,9 @@ description: 事件工作流 — Marketo文档 — 产品文档
 title: 事件工作流
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
+>* 交互式网络研讨会不会自动录制。 网络研讨会开始后，单击网络研讨会名称旁边的下拉菜单并选择 **录制会话**.
 >* 录制以MP4格式下载。
 >* 在共享录制时，拥有链接的任何人都可以查看，因此请确保与预期受众共享。
 

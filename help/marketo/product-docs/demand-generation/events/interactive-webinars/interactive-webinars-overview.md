@@ -3,9 +3,9 @@ description: 交互式网络研讨会概述 — Marketo文档 — 产品文档
 title: 交互式网络研讨会概述
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 网络研讨会后，访问 [事件性能分析](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} 通过包含潜在客户和汇总参与数据的报表和功能板。 交互式网络研讨会特定的过滤器和触发器允许您查找执行特定操作（例如，单击链接、下载资产等）的特定人员组。
 
-## 常见问题解答 {#faq}
+## 常见问题 {#faq}
 
 **是否需要单独订阅才能使用交互式网络研讨会？**
 
@@ -47,3 +47,7 @@ ht-degree: 0%
 **是否需要将由Adobe Connect提供的网络研讨会关联回交互式网络研讨会活动计划，如与Launchpoint活动计划关联？**
 
 否，交互式网络研讨会活动程序可为您建立关联。
+
+**我的交互式网络研讨会是否会自动录制？**
+
+但事实并非如此。 网络研讨会开始后，单击网络研讨会名称旁边的下拉菜单并选择 **录制会话**.
