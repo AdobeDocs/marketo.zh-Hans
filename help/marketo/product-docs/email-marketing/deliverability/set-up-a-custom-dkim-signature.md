@@ -4,10 +4,10 @@ description: 设置自定义DKIM签名 — Marketo文档 — 产品文档
 title: 设置自定义DKIM签名
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 9e731fa02cd20b34f48c7f85241b97f4c507d4a9
+source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 1%
+source-wordcount: '345'
+ht-degree: 0%
 
 ---
 
@@ -33,9 +33,9 @@ ht-degree: 1%
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1，单击 **SPF/DKIM** 选项卡，然后 **添加域**.
+1. 单击 **SPF/DKIM** 选项卡，然后 **添加域**.
 
-![](assets/set-up-a-custom-dkim-signature-3.png)
+   ![](assets/set-up-a-custom-dkim-signature-3.png)
 
 1. 输入将在Marketo电子邮件中使用的域作为发件人地址。 选择一个选择器和一个密钥大小。 单击 **添加** 完成时。
 
@@ -45,6 +45,18 @@ ht-degree: 1%
    >
    >* 我们建议的关键规模为2048年。
    >* 如果您在发件人地址中使用其他域，我们将使用Marketo共享DKIM签名。
+
+   <table> 
+   <tr>
+   <td width="20%"><b>选择器</b></td>
+   <td>用于定位DKIM记录的公钥部分的唯一字符串/标识符。 它可以是一个任意字符串，也可以是一个唯一标识符，用于分隔和标识该DKIM密钥/记录的用途。</td>
+   </tr>
+   <tr> 
+   <td width="20%"><b>密钥大小</b></td>
+   <td>您希望对DKIM签名进行加密的安全级别。</td>
+   </tr>
+   </tbody>
+   </table>
 
 1. 发送 **主机记录** 和 **TXT值** 到你的IT。 要求他们为您创建记录，并确保该记录传播到与来自域关联的所有名称服务器。 Marketo的DKIM验证要求将DKIM密钥传播到与DKIM签名的域关联的所有名称服务器。
 
