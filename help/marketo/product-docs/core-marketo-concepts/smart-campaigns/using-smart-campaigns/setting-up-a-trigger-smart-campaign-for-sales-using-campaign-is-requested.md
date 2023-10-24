@@ -4,7 +4,7 @@ description: 使用“已请求营销活动”设置触发器智能营销活动 
 title: 使用“Campaign is Requested”设置触发器智能促销活动
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -24,21 +24,21 @@ Marketo最酷的功能之一是允许销售人员参与营销工作。 他们站
 >
 >发挥创造力。 销售人员希望实现什么自动化？ 只要问问他们，然后把它接上去！
 
-1. 创建 **Smart Campaign。**
+1. 创建智能营销活动。
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. 查找并拖动 **已请求营销活动** 触发画布。
+1. 查找并拖动 **[!UICONTROL 已请求营销活动]** 触发画布。
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. 源选择指示将接受哪种请求。 对于Salesforce功能，请确保选择 **销售** **Insight**.
+1. 源选择指示将接受哪种请求。 对于Salesforce功能，请确保选择 **[!UICONTROL 销售分析]**.
 
    >[!TIP]
    >
-   >源操作符用于安全目的。 您可以将营销活动限制为仅由特定来源（如其他智能营销活动或开发人员）发出的请求。 选择 **为任意** ，以允许您允许来自所有源的请求。
+   >源操作符用于安全目的。 您可以将营销活动限制为仅由特定来源（如其他智能营销活动或开发人员）发出的请求。 选择 **[!UICONTROL 为任意]** ，以允许您允许来自所有源的请求。
    >
-   >**记住**，通过选择Sales Insight ，它将神奇地显示在销售框中。 不要做得过火。 太多的人会被他们忽视。
+   >_记住_，通过选择Sales Insight ，它将神奇地显示在销售框中。 不要做得过火。 太多的人会被他们忽视。
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

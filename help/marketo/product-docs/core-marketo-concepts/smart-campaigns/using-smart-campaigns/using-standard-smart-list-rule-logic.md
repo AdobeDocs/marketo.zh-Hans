@@ -4,7 +4,7 @@ description: 使用标准智能列表规则逻辑 — Marketo文档 — 产品�
 title: 使用标准智能列表规则逻辑
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->更改智能列表规则逻辑仅适用于筛选器， **非** 触发器。
+>更改智能列表规则逻辑仅适用于筛选器， _非_ 触发器。
 
 触发器始终被评估为OR，即使上述设置被设置为ALL也是如此。 示例如下：
 
@@ -38,8 +38,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-所以，如果有人填写表格 **或** 访问页面，活动将根据以下条件评估该人员： **所有** 或 **任意** 的设置而定，具体取决于使用的设置。
+所以，如果有人填写表格 _或_ 访问页面，活动将根据以下条件评估该人员： _所有_ 或 _任意_ 的设置而定，具体取决于使用的设置。
 
 >[!MORELIKETHIS]
 >
->[使用高级智能列表规则逻辑](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[使用高级智能列表规则逻辑](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

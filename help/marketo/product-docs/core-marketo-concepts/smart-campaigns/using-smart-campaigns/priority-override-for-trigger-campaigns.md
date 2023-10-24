@@ -3,16 +3,16 @@ description: 触发器活动的优先级覆盖 — Marketo文档 — 产品文�
 title: 触发器活动的优先级覆盖
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
 # 触发器活动的优先级覆盖 {#priority-override-for-trigger-campaigns}
 
-管理员可以覆盖Marketo为触发营销活动确定的优先级，以设置更好地与业务目标一致的优先级。
+管理员可以覆盖Marketo Engage为触发营销活动确定的优先级，以设置更好地与业务目标一致的优先级。
 
 >[!NOTE]
 >
@@ -36,13 +36,13 @@ ht-degree: 0%
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. 下 [!UICONTROL 访问营销活动]，选择 **[!UICONTROL 编辑触发器营销活动优先级]**. 单击 **[!UICONTROL 保存]**.
+1. 下 [!UICONTROL 访问营销活动]，选择 **[!UICONTROL 编辑触发器营销活动优先级]**. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
 ## 覆盖优先级 {#override-priority}
 
-1. 找到您的触发器营销活动。 右键单击并选择 **[!UICONTROL 覆盖营销活动优先级]**.
+1. 找到您的触发器促销活动。 右键单击并选择 **[!UICONTROL 覆盖营销活动优先级]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
@@ -58,4 +58,4 @@ ht-degree: 0%
 >
 >* 您可以在以下位置查看营销活动的默认优先级： [!UICONTROL 营销活动队列] 下 [!UICONTROL 营销活动]. 为了提高执行率，我们建议将营销活动优先级设置为比默认优先级高一个级别。
 >* 用户集优先级仅适用于符合营销活动条件的新用户；已排队的用户不会受到影响。
->* 优先级覆盖捕获于 [审核记录](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
+>* 优先级覆盖捕获于 [审核记录](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.

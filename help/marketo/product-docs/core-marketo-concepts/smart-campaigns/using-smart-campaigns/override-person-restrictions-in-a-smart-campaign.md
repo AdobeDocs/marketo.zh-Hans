@@ -4,9 +4,9 @@ description: 覆盖Smart Campaign中的人员限制 — Marketo文档 — 产品
 title: 覆盖智能营销活动中的人员限制
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Marketo Engage允许您设置符合Smart Campaign资格的最大人数；这有�
 >
 >请务必 [为智能营销活动启用人员限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} 在Marketo Admin中。
 
-1. 在营销活动中，转到您的智能营销活动并单击 **计划**.
+1. 在 **[!UICONTROL 营销活动]**，转到您的Smart Campaign并单击 **[!UICONTROL 计划]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
@@ -31,7 +31,7 @@ Marketo Engage允许您设置符合Smart Campaign资格的最大人数；这有�
    >
    >默认限制为在Admin中设置的限制。
 
-1. 输入新限制，然后单击 **[!UICONTROL 保存]**.
+1. 输入新限制并单击 **[!UICONTROL 保存]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 

@@ -4,7 +4,7 @@ description: 设置自定义DKIM签名 — Marketo文档 — 产品文档
 title: 设置自定义DKIM签名
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -57,6 +57,8 @@ ht-degree: 0%
    </tr>
    </tbody>
    </table>
+
+   <p>
 
 1. 发送 **主机记录** 和 **TXT值** 到你的IT。 要求他们为您创建记录，并确保该记录传播到与来自域关联的所有名称服务器。 Marketo的DKIM验证要求将DKIM密钥传播到与DKIM签名的域关联的所有名称服务器。
 
