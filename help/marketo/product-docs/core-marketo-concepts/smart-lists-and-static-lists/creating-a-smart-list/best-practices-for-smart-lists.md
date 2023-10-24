@@ -4,7 +4,7 @@ description: 智能列表最佳实践 — Marketo文档 — 产品文档
 title: 智能列表的最佳实践
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 0e68da238100f3816c2e64e1fbe4a5a2892bb3e1
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 智能列表是营销领域功能最强大的查询工具。 他们以神奇的速度轻松找到您要找的人。
 
-为了使其易于使用并优化性能，我们创建了一个良好实践列表。 祝您使用愉快！
+为了使这些规则易于使用并优化性能，我们创建了一个最佳实践列表。 祝您使用愉快！
 
 >[!NOTE]
 >
