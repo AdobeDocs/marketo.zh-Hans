@@ -4,7 +4,7 @@ description: 跨工作区引用列表或智能列表 — Marketo文档 — 产�
 title: 跨工作区引用列表或智能列表
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->人员分区规则适用(工作区中的智能列表和静态列表仅显示同时是该列表成员的人员 *和* 成员)。
+>人员分区规则适用(工作区中的智能列表和静态列表仅显示同时是该列表成员的人员 _和_ 成员)。
 
-## 共享列表或智能列表  {#share-a-list-or-smart-list}
+## 共享列表或智能列表 {#share-a-list-or-smart-list}
 
-1. 转到 **数据库**.
+1. 转到 **[!UICONTROL 数据库]**.
 
    ![](assets/db-1.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/three-4.png)
 
-1. 右键单击 **新建文件夹** 并选择 **共享文件夹**.
+1. 右键单击 **[!UICONTROL 新建文件夹]** 并选择 **[!UICONTROL 共享文件夹]**.
 
    ![](assets/four-3.png)
 
-1. 选择 **工作区** 以共享。 选择 **保存**.
+1. 选择 **[!UICONTROL 工作区]** 以共享。 选择 **[!UICONTROL 保存]**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 

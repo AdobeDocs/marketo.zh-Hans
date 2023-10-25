@@ -4,7 +4,7 @@ description: 推断的过滤器 — Marketo文档 — 产品文档
 title: 推断的筛选器
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 推断的筛选器 {#inferred-filters}
 
-当有人访问您的网站时， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 将他们饼干并放入系统中。 我们在一个特殊的数据库中查找他们的IP，并推断出各种好的信息。
+当有人访问您的网站时， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} 将他们饼干并放入系统中。 我们在一个特殊的数据库中查找他们的IP，并推断出各种好的信息。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/image2015-4-27-13-3a30-3a48.png)
 
-当您在智能列表中使用这些过滤器时，结果将产生具有此推断信息的用户。
+当您在智能列表中使用这些筛选器时，结果将产生具有此推断信息的用户。
 
 >[!TIP]
 >
@@ -46,4 +46,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->了解有关 [匿名活动和潜在客户](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>了解有关 [匿名活动和潜在客户](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md){target="_blank"}.

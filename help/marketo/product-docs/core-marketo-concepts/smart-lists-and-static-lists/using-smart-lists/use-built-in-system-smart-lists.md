@@ -4,32 +4,32 @@ description: 使用内置/系统智能列表 — Marketo文档 — 产品文档
 title: 使用内置/系统智能列表
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '195'
 ht-degree: 1%
 
 ---
 
 # 使用内置/系统智能列表 {#use-built-in-system-smart-lists}
 
-Marketo有一些非常有用的内置智能列表。 我们来看看吧！
+Marketo Engage有一些非常有用的内置智能列表。 我们来看看吧！
 
-1. 转到 **数据库**.
+1. 转到 **[!UICONTROL 数据库]**.
 
    ![](assets/db.png)
 
-1. 打开 **系统智能列表** 文件夹以显示收藏集。
+1. 打开 **[!UICONTROL 系统智能列表]** 文件夹以显示收藏集。
 
    ![](assets/two.png)
 
-1. 查看一个示例：选择 **所有人员**，然后单击 **人员** 选项卡。
+1. 查看一个示例：选择 **[!UICONTROL 所有人员]**，然后单击 **[!UICONTROL 人员]** 选项卡。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >无需将系统智能列表中的过滤器应用于每个智能列表/营销策划。 它们的内容会被自动识别。
+   >系统智能列表中的筛选器不需要应用于每个智能列表/营销活动。 它们的内容会被自动识别。
 
 以下是内置智能列表的用途摘要：
 
@@ -48,4 +48,4 @@ Marketo有一些非常有用的内置智能列表。 我们来看看吧！
 
 >[!MORELIKETHIS]
 >
->[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

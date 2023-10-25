@@ -4,7 +4,7 @@ description: Opportunity Filters and Triggers - Marketo文档 — 产品文档
 title: 机会过滤器和触发器
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Opportunity筛选器和触发器允许您跟踪Salesforce中的opportunity事件
 
 ## 机会过滤器 {#opportunity-filters}
 
-机会筛选器允许您深入查看具有机会的Salesforce潜在客户。 编辑智能列表时，您可以在Palette的Opportunities文件夹中找到它们。 它们有几种味道。
+机会筛选器允许您深入查看具有机会的Salesforce潜在客户。 编辑智能列表时，可以在“组件面板”的“业务机会”文件夹中找到它们。 它们有几种味道。
 
 * 选件数
 * 总商机金额
@@ -59,7 +59,7 @@ Opportunity筛选器和触发器允许您跟踪Salesforce中的opportunity事件
 
 **机会已更新**
 
-此 **机会已更新** 过滤器在更新特定opportunity字段时查找任何opportunity。 选取要与“触发器属性”下拉列表一起检查的字段，然后使用约束来缩小更改集。
+此 **机会已更新** 过滤器在更新特定opportunity字段时查找任何opportunity。 选取要与“触发器属性”下拉菜单一起检查的字段，然后使用约束来缩小更改集。
 
 例如，此过滤器将显示其关闭日期在过去30天内发生更改的所有潜在客户：
 
