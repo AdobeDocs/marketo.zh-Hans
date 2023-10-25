@@ -4,9 +4,9 @@ description: SEO — 添加关键字 — Marketo文档 — 产品文档
 title: SEO — 添加关键字
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!MORELIKETHIS]
-   >
-   >[了解关键字（摘要视图）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
 做得好！ 现在，您应该会看到关键词列表中新增的内容。
+
+>[!NOTE]
+>
+>仅显示排名第1-100的关键字的数据。
+
+>[!MORELIKETHIS]
+>
+>[了解关键字（摘要视图）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

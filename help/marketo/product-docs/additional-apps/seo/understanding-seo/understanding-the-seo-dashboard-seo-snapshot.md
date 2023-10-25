@@ -4,9 +4,9 @@ description: 了解SEO功能板 — SEO快照 — Marketo文档 — 产品文档
 title: 了解SEO功能板 — SEO快照
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,9 @@ ht-degree: 0%
 >
 >您还可以查看 [特定列表](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) 正在执行的关键字的。 单击下拉列表，然后选择您感兴趣的用户。
 
-摇滚起来！ 我们继续行动吧。
+>[!NOTE]
+>
+>仅显示排名第1-100的关键字的数据。
 
 ## [!UICONTROL 平均页面优化得分] {#average-page-optimization-score}
 

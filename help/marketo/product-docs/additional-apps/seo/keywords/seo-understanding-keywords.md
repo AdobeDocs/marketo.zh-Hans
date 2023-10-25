@@ -4,9 +4,9 @@ description: SEO — 了解关键字 — Marketo文档 — 产品文档
 title: SEO — 了解关键字
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,10 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>仅显示排名第1-100的关键字的数据。
 
 ## [!UICONTROL 关键字]  — 竞争对手视图 {#keywords-competitor-view}
 
