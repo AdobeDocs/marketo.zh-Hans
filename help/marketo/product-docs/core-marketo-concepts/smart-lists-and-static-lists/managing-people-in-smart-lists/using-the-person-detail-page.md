@@ -4,7 +4,7 @@ description: 使用人员详细信息页面 — Marketo文档 — 产品文档
 title: 使用人员详细信息页面
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 22%
@@ -20,7 +20,7 @@ ht-degree: 22%
 有很多方式可以打开特定的人。 一些示例包括：
 
 * 从 **数据库**，您可以在快速查找中搜索
-* 任何智能 **列表** 或列表
+* 任何 **智能列表** 或列表
 * **成员** 项目群选项卡
 * **查看营销活动成员** 在智能营销活动中
 * 部分 **报表**
@@ -84,10 +84,10 @@ ht-degree: 22%
 | Marketo Social Facebook照片URL | Marketo Social Facebook配置文件URL | Marketo Social Facebook范围 | Marketo Social Facebook引用的注册 | Marketo Social Facebook反向访问 |
 | Marketo社会性别 | Marketo Social上次引用的注册 | Marketo Social上次反向访问 | Marketo Social LinkedIn显示名称 | Marketo Social LinkedIn Id |
 | Marketo Social LinkedIn照片URL | Marketo Social LinkedIn配置文件URL | Marketo Social LinkedIn范围 | Marketo Social LinkedIn引用的注册 | Marketo Social LinkedIn反向访问 |
-| Marketo社交联合ID | Marketo Social 反向注册次数总计 | Marketo Social 反向访问次数总计 | Marketo Social Twitter显示名称 | Marketo Social Twitter Id |
-| Marketo Social Twitter照片URL | Marketo Social Twitter配置文件URL | Marketo Social Twitter范围 | Marketo Social Twitter引用的注册 | Marketo Social Twitter反向访问 |
+| Marketo社交联合ID | Marketo Social 反向注册次数总计 | Marketo Social 反向访问次数总计 | Marketo社交Twitter显示名称 | Marketo社交TwitterID |
+| Marketo社交Twitter照片URL | Marketo社交Twitter配置文件URL | Marketo社交Twitter范围 | Marketo社交Twitter引用的注册 | Marketo社交Twitter反向访问 |
 | 中间名称 | 手机号码 | 员工数 | 电话号码 | 邮政编码 |
-| 优先级 | 相对分数 | 职位 | 称谓 | 标准产业分类(SIC)代码 |
+| 优先级 | 相对分数 | 角色 | 称谓 | 标准产业分类(SIC)代码 |
 | 现场 | 州 | 退订 | 退订原因 | 更新时间 |
 | 紧急 | 网站 |  |  |  |
 
@@ -100,8 +100,8 @@ ht-degree: 22%
 >* SFDC联系人的机会
 >* 特定于Marketo的字段，如“创建日期”和“原始源类型”。
 >
->了解有关 [系统管理的字段](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>了解有关 [系统管理的字段](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[创建人员详细信息页面的自定义选项卡](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[创建人员详细信息页面的自定义选项卡](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

@@ -4,9 +4,9 @@ description: 删除智能列表或列表中的人员 — Marketo文档 — 产�
 title: 删除智能列表或列表中的人员
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 转到 **营销活动**.
+1. 转到 **[!UICONTROL 营销活动]**.
 
    ![](assets/ma-1.png)
 
-1. 选择包含要删除的所有人员的列表/智能列表，然后转到 **人员** 选项卡。
+1. 选择包含要删除的所有人员的列表/智能列表，然后转到 **[!UICONTROL 人员]** 选项卡。
 
    ![](assets/two-1.png)
 
@@ -31,19 +31,19 @@ ht-degree: 0%
    >
    >删除人员时，您不仅要从列表中将其删除，还会将其从数据库中完全删除。
 
-1. 单击 **全选**. 您也可以使用Ctrl/Cmd并单击手选一些记录。
+1. 单击 **[!UICONTROL 全选]**. 您也可以使用Ctrl/Cmd并单击手选一些记录。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >如果结果跨多个页面，请单击 **全选** 将选择所有页面中的所有人员。
+   >如果结果跨多个页面，请单击 **[!UICONTROL 全选]** 将选择所有页面中的所有人员。
 
-1. 要从Marketo中完全删除人员，请单击 **删除人员**.
+1. 要从Marketo中完全删除人员，请单击 **[!UICONTROL 删除人员]**.
 
    ![](assets/four-1.png)
 
-1. 设置 **从CRM中删除** 到 **true** 如果您还想从CRM中删除记录。
+1. 设置 **[!UICONTROL 从CRM中删除]** 到 **[!UICONTROL true]** 如果您还想从CRM中删除记录。
 
    ![](assets/five.png)
 
@@ -55,16 +55,16 @@ ht-degree: 0%
    >
    >如果您的Marketo未与CRM关联，则该选项将灰显，如屏幕快照中所示。
 
-1. 单击 **立即运行**.
+1. 单击 **[!UICONTROL 立即运行]**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. 如果您删除超过50人，您将看到此内容。 键入要删除的人员数，检查 **无法撤消** 框，然后单击 **删除**.
+1. 如果您删除超过50人，您将看到此内容。 键入要删除的人员数，检查 **[!UICONTROL 无法撤消]** 框，然后单击 **[!UICONTROL 删除]**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >要查看批量删除的结果，请单击 **查看结果** 在屏幕右上角的“单流量操作”弹出框中。 删除时间可能会大不相同，具体取决于多个因素。
+   >要查看批量删除的结果，请单击 **[!UICONTROL 查看结果]** 在屏幕右上角的“单流量操作”弹出框中。 删除时间可能会大不相同，具体取决于多个因素。
 
-   这是一个绝佳的功能，使用它时要格外小心！
+   这是一个绝佳的功能，使用它时要小心！

@@ -4,7 +4,7 @@ description: 查找并合并重复人员 — Marketo文档 — 产品文档
 title: 查找并合并重复的人员
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 查找并合并重复的人员 {#find-and-merge-duplicate-people}
 
-当新用户进入系统时，Marketo会自动删除重复项。 但是，您的CRM可能最初向Marketo发送了重复项。 下面是如何将它们合并的。
+当新人员进入Marketo Engage时，系统会自动删除重复项。 但是，您的CRM最初可能通过重复项发送。 下面是如何将它们合并的。
 
 >[!CAUTION]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 查找重复项 {#find-duplicates}
 
-1. 转到 **数据库** 区域。
+1. 转到 **[!UICONTROL 数据库]** 区域。
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >如果使用Salesforce人员帐户，则在Marketo中合并人员可能无法正常工作。 如果可能，请合并Salesforce中的记录。
 
-1. 选择 **可能的重复项** 系统智能列表，然后单击 **人员** 选项卡。
+1. 选择 **[!UICONTROL 可能的重复项]** 系统智能列表，然后单击 **[!UICONTROL 人员]** 选项卡。
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -49,9 +49,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->在合并人员时，如果失败人员具有Marketo自定义对象，则将 **非** 重新关联到入选人员。 在执行合并之前，请重新为自定义对象添加父级。
+>在合并人员时，如果失败人员具有Marketo自定义对象，则将 _非_ 重新关联到入选人员。 在执行合并之前，请重新为自定义对象添加父级。
 
-1. 按住Ctrl/Cmd并单击以选择重复项，然后单击 **合并人员**.
+1. 按住Ctrl/Cmd并单击以选择重复项，然后单击 **[!UICONTROL 合并人员]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >您可以为同一人员创建两个或多个重复项 — 一次选择所有重复项。
 
-1. 您将看到以下记录之间的值： _不要_ 匹配。 为每个字段选择要保留的值。 单击 **合并** 完成时。 如果您不希望获得这两个值，则可以选中 **自定义** 并输入您选择的值。
+1. 您将看到以下记录之间的值： _不要_ 匹配。 为每个字段选择要保留的值。 单击 **[!UICONTROL 合并]** 完成时。 如果您不希望获得这两个值，则可以选中 **[!UICONTROL 自定义]** 并输入您选择的值。
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 

@@ -4,9 +4,9 @@ description: 了解静态列表 — Marketo文档 — 产品文档
 title: 了解静态列表
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -32,20 +32,20 @@ ht-degree: 0%
 
 ## 在列表中添加/删除人员的方法 {#ways-to-add-remove-people-from-a-list}
 
-1. 智能营销活动流程步骤([添加到列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)， [从列表中删除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. 智能营销活动流程步骤([添加到列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
-1. [单个操作流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [单个操作流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. 将人拖到树中的列表中
-1. [列表导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+1. [列表导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## 静态列表的一些用途 {#some-uses-of-a-static-list}
 
 * 已预先选定用于接收营销消息的列表。
 * 你用来发送恶作剧的反情报消息的“竞争对手”列表。
-* 处于特定状态人员的临时列表，这些人员退出该状态后，智能营销活动会将其删除。
+* 处于特定状态人员的临时列表，智能营销活动会在他们退出该状态时删除这些人员。
 
 尽情享受清单的强大功能！
 
 >[!MORELIKETHIS]
 >
->[创建静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
+>[创建静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}
