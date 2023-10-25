@@ -3,16 +3,16 @@ description: 默认动态字段映射 — Marketo文档 — 产品文档
 title: 默认动态字段映射
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '830'
 ht-degree: 18%
 
 ---
 
 # 默认动态字段映射 {#default-dynamics-field-mapping}
 
-当您最初将Marketo帐户与Microsoft同步时，Marketo会自动在内置的Dynamics和Marketo字段之间建立这些关联。  Marketo还将同步您的Leads、Accounts、Opportunities和Contacts上的自定义字段。
+当您最初将Marketo Engage帐户与Microsoft同步时，Marketo会自动在内置的Dynamics和Marketo字段之间建立这些关联。  Marketo还将同步您的Leads、Accounts、Opportunities和Contacts上的自定义字段。
 
 ## 潜在客户字段 {#lead-fields}
 
@@ -244,7 +244,7 @@ ht-degree: 18%
       <th>MS Dynamics API名称</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -431,7 +431,7 @@ ht-degree: 18%
     <tr>
       <td>人员备注</td>
       <td>描述</td>
-      <td>描述 </td>
+      <td>描述</td>
     </tr>
     <tr>
       <td>个人得分</td>
@@ -441,7 +441,7 @@ ht-degree: 18%
     <tr>
       <td>人员备注</td>
       <td>描述</td>
-      <td>描述 </td>
+      <td>描述</td>
     </tr>
   </tbody>
 </table>
@@ -459,7 +459,7 @@ ht-degree: 18%
       <th>MS Dynamics API名称</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -603,7 +603,7 @@ ht-degree: 18%
       <th>MS Dynamics API名称</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ ht-degree: 18%
       <th>MS Dynamics API名称</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>

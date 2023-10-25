@@ -3,9 +3,9 @@ description: Campaign同步概述 — Marketo文档 — 产品文档
 title: Campaign同步概述
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -16,23 +16,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->更新到适用于Marketo的Dynamics插件的最新版本。
+>更新到最新版本的Dynamics插件以进行Marketo Engage。
 
 以下流操作可用：
 
-* 添加到Microsoft Campaign
-* 从Microsoft营销活动中删除
+* [!UICONTROL 添加到Microsoft Campaign]
+* [!UICONTROL 从Microsoft营销活动中删除]
 
 >[!NOTE]
 >
->**从Microsoft营销活动中删除** 将仅删除使用Marketo中的流量操作添加的人员。
+>**[!UICONTROL 从Microsoft营销活动中删除]** 将仅删除使用Marketo中的流量操作添加的人员。
 
 此外还有两个触发因素：
 
-* 已添加到Microsoft Campaign
-* 从Microsoft Campaign中移除
+* [!UICONTROL 已添加到Microsoft Campaign]
+* [!UICONTROL 从Microsoft Campaign中移除]
 
-触发器将根据Marketo流量操作“添加到Microsoft Campaign”和“从Microsoft Campaign中删除”中的操作执行。
+触发器将根据来自Marketo流量操作»[!UICONTROL 添加到Microsoft Campaign]”和“[!UICONTROL 从Microsoft Campaign中移除]“
 
 >[!NOTE]
 >
@@ -40,5 +40,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [启用Campaign同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
->* [添加或删除Dynamics营销活动中的人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
+>* [启用Campaign同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
+>* [添加或删除Dynamics营销活动中的人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}

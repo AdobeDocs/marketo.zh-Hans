@@ -4,7 +4,7 @@ description: 创建自定义Dynamics同步过滤器 — Marketo文档 — 产品
 title: 创建自定义动态同步筛选器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Marketo在自动后台同步期间查找此字段，并根据此逻辑确定要�
 
 ## 创建SyncToMkto字段 {#create-synctomkto-field}
 
-1. 登录Dynamics CRM。 单击 **设置** 然后单击 **自定义**.
+1. 登录您的Dynamics CRM。 单击 **设置**，然后单击 **自定义**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
@@ -67,7 +67,7 @@ Marketo在自动后台同步期间查找此字段，并根据此逻辑确定要�
 
    >[!NOTE]
    >
-   >为该字段选择任意显示名称，但“名称”字段必须完全符合 **new_synctomkto**. 您必须使用 **新建** 作为默认前缀。 如果您更改了默认值，请转到此处 [重置自定义字段名的默认前缀](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). 创建新字段后，可以更改回原始字段。
+   >为该字段选择任意显示名称，但“名称”字段必须完全符合 **new_synctomkto**. 您必须使用 **新建** 作为默认前缀。 如果您更改了默认值，请转到此处 [重置自定义字段名的默认前缀](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}. 创建新字段后，可以更改回原始字段。
 
    >[!NOTE]
    >
@@ -79,15 +79,15 @@ Marketo在自动后台同步期间查找此字段，并根据此逻辑确定要�
 
 即使您已完成初始同步，请转到并选择要与Marketo同步的字段。
 
-1. 转到管理员并选择 **Microsoft Dynamics**.
+1. 转到管理员并选择 **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 单击 **编辑** 在字段同步详细信息中。
+1. 单击 **[!UICONTROL 编辑]** 在字段同步详细信息中。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 向下滚动到字段并选中。 实际名称必须是new_synctomkto ，但“显示名称”可以是任何内容。 单击 **保存**.
+1. 向下滚动到字段并选中。 实际名称必须是new_synctomkto ，但“显示名称”可以是任何内容。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
@@ -103,7 +103,7 @@ Marketo在自动后台同步期间查找此字段，并根据此逻辑确定要�
 >
 >Dynamics工作流仅适用于以后创建的新记录，而不适用于历史数据。 使用批次更新在现有记录上移动。
 
-1. 转到Dynamics CRM。 单击 **设置** 然后单击 **进程**.
+1. 转到您的Dynamics CRM。 单击 **设置**，则 **进程**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
@@ -129,26 +129,26 @@ Marketo在自动后台同步期间查找此字段，并根据此逻辑确定要�
 
    >[!TIP]
    >
-   >请参阅 [电子邮件地址的自定义同步筛选规则](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) 设置规则以仅同步具有电子邮件地址的人员的记录。
+   >请参阅 [电子邮件地址的自定义同步筛选规则](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} 设置规则以仅同步具有电子邮件地址的人员的记录。
 
 ## 同步筛选器详细信息 {#sync-filter-details}
 
 以下是我们认为您应了解的一些实施详细信息：
 
-1. 启动同步操作
+* 启动同步操作
 
-   当 **SyncToMkto** 值更改自 **否** 到 **是**，Dynamics会立即通知Marketo开始同步此记录。 如果记录已存在，则Marketo会更新它。 否则，Marketo将创建记录。
+  当 **SyncToMkto** 值更改自 **否** 到 **是**，Dynamics会立即通知Marketo开始同步此记录。 如果记录已存在，则Marketo会更新它。 否则，Marketo将创建记录。
 
-   >[!TIP]
-   >
-   >A `Create [StartSync]` 发生此情况时，操作将添加到Marketo日志。
+  >[!TIP]
+  >
+  >A `Create [StartSync]` 发生此情况时，操作将添加到Marketo日志。
 
-1. 停止同步操作
+* 停止同步操作
 
-   当记录将其SyncToMkto值从“是”更改为“否”时，Marketo将收到停止同步此记录的通知。 但是，不会删除记录，而是会停止获取更新并变得过时。
+  当记录将其SyncToMkto值从“是”更改为“否”时，Marketo将收到停止同步此记录的通知。 但是，不会删除记录，而是会停止获取更新并变得过时。
 
 >[!MORELIKETHIS]
 >
->* [Microsoft Dynamics同步筛选器：符合条件](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Microsoft Dynamics同步筛选器：合并](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [电子邮件地址的自定义同步筛选规则](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
+>* [Microsoft Dynamics同步筛选器：符合条件](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
+>* [Microsoft Dynamics同步筛选器：合并](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
+>* [电子邮件地址的自定义同步筛选规则](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}

@@ -4,16 +4,16 @@ description: Microsoft Dynamics同步筛选器 — 资格 — Marketo文档 — 
 title: Microsoft Dynamics同步筛选器 — 限定
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 6%
 
 ---
 
 # Microsoft Dynamics同步筛选器：符合条件 {#microsoft-dynamics-sync-filter-qualify}
 
-当您想要在Microsoft Dynamics中将潜在客户转换为联系人时，请确保使用此默认的“限定”流程。 然后，将其同步到Marketo。
+当您想要在Microsoft Dynamics中将潜在客户转换为联系人时，请确保使用此默认的“限定”流程。 然后，将其同步到Marketo Engage。
 
 ## 转换过程 {#the-conversion-process}
 

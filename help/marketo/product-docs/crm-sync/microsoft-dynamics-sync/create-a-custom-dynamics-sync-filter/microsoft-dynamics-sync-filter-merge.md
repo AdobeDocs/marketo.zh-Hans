@@ -4,7 +4,7 @@ description: Microsoft Dynamics同步筛选器 — 合并 — Marketo文档 — 
 title: Microsoft Dynamics同步筛选器 — 合并
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 4%
@@ -22,6 +22,6 @@ ht-degree: 4%
 | 如果丢失记录的同步筛选器为： | 并且入选记录的同步过滤器为： | 这是Marketo中的结果 |
 |---|---|---|
 | True | True | 入选记录将继续与Marketo同步 |
-| False | False | 获胜记录将继续 **非** 与Marketo同步 |
+| False | False | 获胜记录将继续 _非_ 与Marketo同步 |
 | False | True | 入选记录将与Marketo同步 |
 | True | False | 入选记录将不会与Marketo同步 |

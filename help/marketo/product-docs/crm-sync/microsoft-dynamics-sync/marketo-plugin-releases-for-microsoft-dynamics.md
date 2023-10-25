@@ -4,7 +4,7 @@ description: 适用于Microsoft Dynamics的Marketo插件版本 — Marketo文档
 title: 适用于Microsoft Dynamics的Marketo插件版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 首次同步到Microsoft Dynamics时，您将下载Marketo的最新版本插件。 Marketo会定期更新这些插件，以便您能够返回到相同位置下载新版本。
 
-[下载最新的插件](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 与您的Dynamics版本相对应。
+[下载最新的插件](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} 与您的Dynamics版本相对应。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
@@ -38,7 +38,7 @@ ht-degree: 7%
   <tr> 
    <th colspan="1">版本</th> 
    <th colspan="1">发行日期</th> 
-   <th>注释</th> 
+   <th>备注</th> 
   </tr> 
   <tr> 
    <td colspan="1">5.0.1.1</td> 
@@ -120,4 +120,4 @@ ht-degree: 7%
 
 >[!MORELIKETHIS]
 >
->[下载Marketo商机管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[下载Marketo商机管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

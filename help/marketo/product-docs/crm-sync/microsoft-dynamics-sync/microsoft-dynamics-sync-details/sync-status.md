@@ -4,7 +4,7 @@ description: 同步状态 — Marketo文档 — 产品文档
 title: 同步状态
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## “同步状态”选项卡 {#sync-status-tab}
 
-1. 单击 **管理员** 和 **Microsoft Dynamics**.
+1. 单击 **[!UICONTROL 管理员]**，则 **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. 单击 **同步状态** 选项卡。
+1. 单击 **[!UICONTROL 同步状态]** 选项卡。
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 单击 **查看：** 下拉并选择 **上一小时** 查看吞吐量信息。
+1. 单击 **[!UICONTROL 视图]** 下拉并选择 **[!UICONTROL 上一小时]** 查看吞吐量信息。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[通知类型](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[通知类型](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

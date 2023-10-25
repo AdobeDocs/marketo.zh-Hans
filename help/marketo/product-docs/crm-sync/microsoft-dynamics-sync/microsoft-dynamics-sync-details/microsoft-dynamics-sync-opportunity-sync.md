@@ -4,16 +4,16 @@ description: Microsoft Dynamics同步 — Opportunity同步 — Marketo文档 �
 title: Microsoft Dynamics同步 — 机会同步
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # Microsoft Dynamics同步：机会同步 {#microsoft-dynamics-sync-opportunity-sync}
 
-Marketo到Dynamics的同步处理功能非常强大。 下面是机会同步的所有详细信息：
+对Dynamics同步的Marketo Engage功能非常强大。 下面是机会同步的所有详细信息。
 
 ## 两个系统之间的机会详细信息如何保持同步？ {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -25,4 +25,4 @@ Marketo到Dynamics的同步处理功能非常强大。 下面是机会同步的�
 
 ## 哪些字段将同步到Marketo？ {#what-fields-will-sync-to-marketo}
 
-您可以 [选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 设置期间。
+您可以 [选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} 设置期间。
