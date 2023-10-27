@@ -4,9 +4,9 @@ description: 为Marketo配置协议 — Marketo文档 — 产品文档
 title: 为Marketo配置协议
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '968'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 3%
 
 如果您或您的组织使用限制性的防火墙或代理服务器设置，则您或您的网络管理员可能需要允许列表某些域和IP地址范围，以确保Adobe Marketo Engage按预期工作。
 
-## 品牌营销活动登陆页面和电子邮件 {#branded-campaign-landing-pages-and-emails}
-
-您的营销团队正在使用Marketo创建品牌营销活动登陆页和电子邮件。 要确保这些登陆页面和电子邮件正常工作，他们需要IT部门提供一些帮助。 请设置以下协议，并提供您的营销组应通过电子邮件发送给您的信息。
-
-本文应与希望实施这些协议的公司的IT部门共享。
-
-如果您的IT团队使用允许列表限制Web访问，请让他们添加以下域（包括星号）以允许所有Marketo资源和Web套接字：
+为帮助实施以下协议，请与您的IT部门分享本文。 如果他们使用允许列表限制Web访问，请确保他们添加以下域（包括星号）以允许所有Marketo资源和Web套接字：
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
