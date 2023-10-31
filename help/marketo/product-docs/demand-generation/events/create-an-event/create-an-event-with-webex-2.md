@@ -4,14 +4,16 @@ title: 使用Webex创建事件
 hide: true
 hidefromtoc: true
 feature: Events
-source-git-commit: 286e1b7b563be70e932206adec6f80b4877b7953
+source-git-commit: eb7bea86a5696ff2699b38b27291deeb5cbe7ab2
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
 
 # 使用Webex创建事件 {#create-an-event-with-webex}
+
+在Webex中创建网络研讨会后，您需要将活动与Marketo Engage同步。
 
 >[!PREREQUISITES]
 >
@@ -19,13 +21,9 @@ ht-degree: 0%
 >* [创建新的事件程序](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 设置适当的 [流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) 以跟踪参与情况
 
-## 安排网络研讨会 {#schedule-a-webinar}
+## 安排您的网络研讨会 {#schedule-your-webinar}
 
-首先，在中创建网络研讨会 [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
-
->[!NOTE]
->
->您可以在Webex中选择首选设置，但在Marketo Engage中只能查看以下信息：网络研讨会名称、开始/结束日期和时间、时区和描述。
+您可以安排活动并在中选择首选设置 [Webex](https://www.webex.com/){target="_blank"}. Only the following information is viewable in Marketo: webinar name, start/end date & time, time zone, and description. Additional information about Webex Webinars [can be found here](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 ### 基本信息 {#basic-information}
 
@@ -71,11 +69,9 @@ ht-degree: 0%
 >
 >Marketo-Webex集成不支持从Webex发送确认电子邮件。 确认必须通过Marketo发送。 计划活动后，请确保将活动信息复制到Marketo确认电子邮件中，并将电子邮件设置为 _可操作_.
 
-现在我们准备跳入Marketo Engage了！
-
 ## 将活动与Marketo Engage同步 {#sync-your-event-with-marketo-engage}
 
-1. 在Marketo中，查找并选择您创建的事件程序。 在 **事件操作** 下拉列表，选择 **事件设置**.
+1. 在Marketo中，查找并选择所需的事件程序。 在 **事件操作** 下拉列表，选择 **事件设置**.
 
    ![](assets/create-an-event-with-webex-5.png)
 
@@ -99,7 +95,7 @@ ht-degree: 0%
 
    ![](assets/create-an-event-with-webex-9.png)
 
-您的Webex活动现在已与您的Marketo活动同步。 注册您的网络研讨会的用户将通过 _更改项目状态_ flow步骤。 没有其他状态会将该人员推倒。 请务必 _更改项目状态_ 流程步骤#1和 _发送电子邮件_ 流程步骤#2。
+您的Webex事件现在已与您的Marketo事件程序同步。 注册您的网络研讨会的用户将通过 _更改项目状态_ flow步骤。 没有其他状态会将该人员推倒。 请务必 _更改项目状态_ 流程步骤#1和 _发送电子邮件_ 流程步骤#2。
 
 ## 注意事项 {#things-to-note}
 
