@@ -4,9 +4,9 @@ description: 在电子邮件报表中筛选资源 — Marketo文档 — 产品�
 title: 在电子邮件报表中筛选资源
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 在电子邮件报表中筛选资源 {#filter-assets-in-an-email-report}
 
 关注您的 [电子邮件性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 或 [电子邮件链接性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) 报告程序（“本地资产”）中的电子邮件、Design Studio中的电子邮件（“全局资产”）或已存档的电子邮件。
+
+>[!NOTE]
+>
+>卫星模式（资源详细信息页面右侧的“在新窗口中打开”图标）不支持在报表中筛选资源。
 
 1. 转到 **分析** (或 **营销活动**)区域。
 

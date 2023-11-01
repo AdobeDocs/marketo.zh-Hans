@@ -4,9 +4,9 @@ description: 在营销活动电子邮件报表中过滤资源 — Marketo文档 
 title: 在营销活动电子邮件报表中筛选资源
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 在营销活动电子邮件报表中筛选资源 {#filter-assets-in-a-campaign-email-reports}
 
 关注您的 [营销活动电子邮件效果](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) 特定报表 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) 在您的项目（“本地资产”）或已存档的项目中。
+
+>[!NOTE]
+>
+>卫星模式（资源详细信息页面右侧的“在新窗口中打开”图标）不支持在报表中筛选资源。
 
 1. 转到 **分析** (或 **营销活动**)区域。
 

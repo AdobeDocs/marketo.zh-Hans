@@ -4,9 +4,9 @@ description: 过滤促销活动报表 — Marketo文档 — 产品文档
 title: 过滤促销活动报表
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 过滤促销活动报表 {#filter-a-campaign-activity-report}
 
 关注您的 [营销活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)特定 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+
+>[!NOTE]
+>
+>卫星模式（资源详细信息页面右侧的“在新窗口中打开”图标）不支持在报表中筛选资源。
 
 1. 转到 **营销活动** (或 **分析**)，然后选择促销活动报表。
 
