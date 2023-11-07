@@ -2,10 +2,10 @@
 description: 发行说明 — 2023年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2023年7月
 feature: Release Information
-exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '654'
 ht-degree: 2%
 
 ---
@@ -92,7 +92,7 @@ ht-degree: 2%
 
 </br>
 
-* **取消订阅追加设置**：现在，通过新的配置选项取消订阅附加，您可以更好地控制取消订阅消息。 新功能使管理员能够控制何时何地以及在您的销售电子邮件中显示取消订阅消息。
+* **取消订阅Sales Insight操作的附加设置**：现在，通过新的配置选项取消订阅附加，您可以更好地控制取消订阅消息。 新功能使管理员能够控制何时何地以及在您的销售电子邮件中显示取消订阅消息。
 
 <table> 
   <tr> 
@@ -100,13 +100,13 @@ ht-degree: 2%
    <td><b>文档更新</b></td>
   </tr>
   <tr> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">自动附加取消订阅消息设置</a></td>
   </tr>
   </tbody>
 </table>
 
-* **动态字段提示**：您现在可以提示销售团队进一步个性化电子邮件的特定部分，在销售分析操作中，为电子邮件模板添加新的字段提示。
+* **销售分析操作的动态字段提示**：您现在可以提示销售团队进一步个性化电子邮件的特定部分，在销售分析操作中，为电子邮件模板添加新的字段提示。
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **默认动态字段**：默认动态字段允许您配置一个回退值，如果没有可填充的值，动态字段可以解析该回退值。 这有助于确保电子邮件发出时填写完所有个性化设置。
+* **销售分析操作的默认动态字段**：默认动态字段允许您配置一个回退值，如果没有可填充的值，动态字段可以解析该回退值。 这有助于确保电子邮件发出时填写完所有个性化设置。
 
 <table> 
   <tr> 
