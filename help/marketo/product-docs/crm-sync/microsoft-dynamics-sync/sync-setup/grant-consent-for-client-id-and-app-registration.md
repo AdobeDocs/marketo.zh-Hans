@@ -3,14 +3,16 @@ description: 同意客户端Id和应用程序注册 — Marketo文档 — 产品
 title: 同意客户端ID和应用程序注册
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # 同意客户端ID和应用程序注册 {#grant-consent-for-client-id-and-app-registration}
+
+请按照以下步骤了解如何授予必要的同意/权限。
 
 ## 为同步用户授予委派的用户权限 {#grant-delegated-user-permissions-for-the-sync-user}
 
@@ -63,7 +65,7 @@ ht-degree: 0%
    >
    >如果您已在其他选项卡中作为管理员登录Azure，则需要使用其他浏览器或无痕模式以同步用户的身份登录。
 
-1. 单击 **Accept**.
+1. 单击 **[!UICONTROL Accept]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -73,15 +75,14 @@ ht-degree: 0%
 
 1. 在Azure门户中，导航到应用程序主页。
 
-1. 在管理下，单击 **API权限**.
+1. 在管理下，单击 **[!UICONTROL API权限]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. 单击 **授予管理员同意** （适用于租户）按钮。
+1. 单击 **[!UICONTROL 授予管理员同意]** （适用于租户）按钮。
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. 单击 **是** 以确认。
+1. 单击 **[!UICONTROL 是]** 以确认。
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
-
