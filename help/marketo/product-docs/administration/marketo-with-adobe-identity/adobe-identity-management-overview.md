@@ -3,22 +3,16 @@ description: AdobeIdentity Management概述 — Marketo文档 — 产品文档
 title: AdobeIdentity Management概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # AdobeIdentity Management概述 {#adobe-identity-management-overview}
 
-如果您从2022年2月15日起拥有使用Adobe Marketo Engage的新帐户（新帐户，而不仅仅是现有帐户的新实例），则它可能会与AdobeIdentity Management System集成，具体取决于购买的产品包。 要了解您是否拥有该产品，请联系Adobe客户团队（您的客户经理）。
-
-现有Marketo订阅将在2023年下半年开始迁移到AdobeIdentity Management System。
-
-如果您拥有 [新帐户](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} Adobe Marketo Engage （不仅是现有帐户的新实例）自2022年2月15日起，它可能会与AdobeIdentity Management System (IMS)集成，具体取决于购买的产品包。 要了解您是否拥有该产品，请联系Adobe客户团队（您的客户经理）。
-
-现有Marketo订阅将在2023年末开始迁移到AdobeIdentity Management System。 最初，这些迁移只能在您重新签订Marketo订阅合同后进行。 Adobe计划大约在2024年年中开始在Marketo重新签约活动之外迁移用户。
+所有新的Adobe Marketo Engage订阅（2023年7月31日或更高版本）都与AdobeIdentity Management System集成。 现有Marketo订阅目前正在续订和/或重新签约活动时迁移到AdobeIdentity Management System。 目前不支持在续订或重新承包事件之外进行迁移。
 
 >[!NOTE]
 >
