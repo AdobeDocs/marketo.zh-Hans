@@ -4,9 +4,9 @@ description: 设置步骤 — Marketo文档 — 产品文档
 title: 设置步骤
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a5cda002c4b8805d3ecd0adb0a08128ce7c91629
 workflow-type: tm+mt
-source-wordcount: '2043'
+source-wordcount: '2062'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,10 @@ ht-degree: 0%
 
 ## 登录并创建其他Marketo用户 {#log-in-and-create-additional-marketo-users}
 
+>[!IMPORTANT]
+>
+>如果您的Marketo订阅是在2023年7月31日/之后创建的，或者已迁移到 [AdobeIdentity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} 而是。
+
 登录到Marketo [此处](https://app.marketo.com/){target="_blank"} 使用您通过电子邮件收到的凭据。
 
 ![](assets/setup-steps-1.png)
@@ -62,7 +66,7 @@ ht-degree: 0%
 
 ![](assets/setup-steps-4.png)
 
-填写同事的电子邮件地址、名字和姓氏。 _设置访问过期日期是可选的_. 单击 **[!UICONTROL 下一个]**.
+填写同事的电子邮件地址、名字和姓氏。 _设置访问过期日期是可选的_. 单击&#x200B;**[!UICONTROL 下一步]**。
 
 ![](assets/setup-steps-5.png)
 
@@ -151,7 +155,7 @@ ht-degree: 0%
 可以采取多种措施确保电子邮件可送达尽可能多的用户。
 
 * **将您的跟踪链接品牌化**. 您可以在来自Marketo的电子邮件中包含的链接中，选择使用您自己的域(而不是Marketo)的CNAME。 这加强了您的域品牌化，并增加了与收件人的信任和可投放性。
-* **将Marketo添加到您的公司电子邮件允许列表。** 向实际用户发送电子邮件之前，通常会先向测试帐户发送测试电子邮件。 通过列入允许列表Marketo，您可以防止这些测试电子邮件被阻止或标记为垃圾邮件。
+* **将Marketo添加到您的公司电子邮件允许列表。** 通常的最佳做法是，先向测试帐户发送测试电子邮件，然后再向实际用户发送电子邮件。 通过列入允许列表Marketo，您可以防止这些测试电子邮件被阻止或标记为垃圾邮件。
 * **设置SPF和DKIM。** 这些技术可确保收件人您的Marketo电子邮件不是垃圾邮件。 要帮助防止收件人的垃圾邮件过滤器拒绝您Marketo电子邮件，请执行以下步骤： [为您的电子邮件可投放性设置SPF和DKIM](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
 * **为您的域设置MX记录。** 利用MX记录，可接收发往您发送电子邮件的域的邮件，以处理回复和自动回复。 如果您从公司域发送，则可能已配置此域。 如果没有，您通常可以设置映射到企业域的MX记录。
 * **发件人地址的建议设置。** 您必须在所有电子邮件营销活动的“发件人地址”中使用有效的、现有的和工作电子邮件域。 配置公司域的子域而不是从公司域发送可能很有用。 这将确保公司邮件流中的问题不会影响您的Marketo邮件流，反之亦然。 此外，发送来自 `something@nonexistentdomain.com` 将导致过滤或阻止电子邮件。 发件人的“发件人地址”中使用的任何域都必须具有有效且有效的邮递员@和滥用@帐户。
@@ -313,7 +317,7 @@ include：mktomail.com
 
 在域字段中，输入电子邮件跟踪域。 其形式应为：
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. 单击 **[!UICONTROL 保存]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. 单击&#x200B;**[!UICONTROL 保存]**。
 
 ![](assets/setup-steps-21.png)
 
