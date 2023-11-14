@@ -3,9 +3,9 @@ description: AdobeIdentity Management常见问题解答 — Marketo文档 — �
 title: AdobeIdentity Management常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: eca77d8426c8f696dc35dbfb9e20abcb46e53127
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '1180'
 ht-degree: 1%
 
 ---
@@ -89,3 +89,23 @@ Adobe IMS当前不支持Marketo的设备授权功能等任何功能。
 **Adobe Admin Console支持哪些产品卡？**
 
 支持的产品卡包括：Marketo Engage、Marketo Measure、MarketoDynamic Chat、Marketo Sales Connect和Marketo Sales Insight Actions。
+
+**如果我迁移到Adobe身份后，我的用户登录名与电子邮件不匹配，该怎么办？**
+
+登录名不同于其电子邮件地址的当前Marketo用户，在迁移到Adobe身份后，将不再使用该凭据登录。 Adobe身份始终使用用户的电子邮件地址进行身份验证。
+
+**如果我的订阅使用IP限制设置，则在迁移Adobe身份后会发生什么情况？**
+
+将订阅登记到Adobe身份后，IP限制设置不会迁移到Adobe Admin Console。 Marketo的IP限制设置包括仅允许从特定IP地址访问，以及阻止特定IP地址访问。 目前，AdobeIdentity Management System不支持IP限制功能。
+
+Identity Management SystemAdobe将于2024年发布，该功能将支持仅允许特定IP地址，并支持当前使用此功能的Marketo用户的过渡。 在功能发布之前，当前使用此功能的用户将不会进行用户迁移。 交付功能后，用户将收到其迁移已安排的通知。 有关该功能的更多信息，将在可用时提供。
+
+当前使用IP限制并阻止特定地址访问的用户在迁移到Adobe身份后将无法再使用此功能，因为AdobeIdentity Management System不支持此功能。
+
+**如果我的Adobe具有“绕过单点登录”的选项，则在用户身份迁移后会发生什么情况？**
+
+将订阅登记到Adobe身份后，将在Adobe组织级别为所有用户设置单点登录(SSO)。 设置单点登录后，将对该Adobe组织中的所有Marketo用户/所有Marketo实例强制实施该设置。以前，Marketo支持将用户角色设置为“绕过单点登录”选项。 AdobeIdentity Management System不支持此功能。
+
+**我有多个订阅，但并非所有订阅都启用了单点登录。 迁移Adobe身份后会发生什么？**
+
+将订阅登记到Adobe身份后，将在Adobe组织级别设置单点登录(SSO)。 这意味着SSO适用于Adobe组织中的所有产品实例。设置SSO后，它将应用于该Adobe组织中的所有Marketo实例。以前，Marketo在实例级别支持此设置。 AdobeIdentity Management System不支持此功能。
