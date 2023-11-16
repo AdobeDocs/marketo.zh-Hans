@@ -4,9 +4,9 @@ description: 创建自定义Dynamics同步过滤器 — Marketo文档 — 产品
 title: 创建自定义动态同步筛选器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,13 @@ ht-degree: 0%
 要设置Dynamics同步筛选器，请执行以下操作：
 
 1. 在Dynamics CRM中为任何对象（潜在客户、联系人、帐户、机会和其他自定义实体）创建一个名为new_synctomkto的自定义两个选项（布尔值）字段。
-1. 为此字段分配一个“是/否”值或将其留空。
+1. 为此字段分配一个“是”/“否”值。
 
->[!NOTE]
+您必须在Dynamics CRM(而非您的数据库或Marketo)中进行这些更改。
+
+>[!CAUTION]
 >
->您必须在Dynamics CRM(而非您的数据库或Marketo)中进行这些更改。
+>如果不分配该字段并将其留空/NULL，它将同步但不会更新。
 
 Marketo在自动后台同步期间查找此字段，并根据此逻辑确定要同步哪些记录：
 
