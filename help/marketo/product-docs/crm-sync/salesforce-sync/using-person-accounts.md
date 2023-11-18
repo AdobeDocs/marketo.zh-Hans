@@ -4,16 +4,16 @@ description: 使用人员帐户 — Marketo文档 — 产品文档
 title: 使用人员帐户
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
 # 使用人员帐户 {#using-person-accounts}
 
-可在Salesforce中设置人员帐户以满足贵组织的需求。 以下是Marketo处理个人帐户的方式。
+可在Salesforce中设置人员帐户以满足贵组织的需求。 以下是Marketo Engage处理个人账户的方式。
 
 >[!NOTE]
 >
@@ -33,15 +33,15 @@ ht-degree: 0%
 
 ## 如何区分业务帐户和个人帐户？ {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-使用 **是人员帐户** 在智能列表中进行筛选，以将人员帐户与标准业务帐户分开。
+使用智能列表中的“是人员帐户”筛选器将人员帐户与标准业务帐户分开。
 
 ## 我的个人帐户信息在Marketo Sales Insight中的什么位置显示？ {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-与人员帐户相关的活动显示在 **帐户** 面板。
+与人员帐户相关的活动显示在 **[!UICONTROL 帐户]** 面板。
 
 >[!NOTE]
 >
->Marketo销售分析 **添加到Marketo Campaign** 和 **发送电子邮件** 选项当前不适用于人员帐户。
+>Marketo销售分析 **[!UICONTROL 添加到Marketo Campaign]** 和 **[!UICONTROL 发送电子邮件]** 选项当前不适用于人员帐户。
 
 ## 如何将机会与人员帐户关联？ {#how-do-i-associate-opportunities-to-a-person-account}
 

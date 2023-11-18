@@ -4,7 +4,7 @@ description: 第2步（共3步） — 使用服务器到服务器连接设置Mar
 title: 第2步（共3步） — 设置具有服务器到服务器连接的Marketo解决方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 1. 按照以下步骤授予管理员同意 [本文内容](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
-1. 通过单击在管理中心生成客户端密钥 **证书和密钥**.
+1. 通过单击在管理中心生成客户端密钥 **[!UICONTROL 证书和密钥]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. 单击 **新客户端密码** 按钮。
+1. 单击 **[!UICONTROL 新客户端密码]** 按钮。
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. 输入客户端密码说明，然后单击 **添加**.
+1. 输入客户端密码说明，然后单击 **[!UICONTROL 添加]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
@@ -65,19 +65,19 @@ Federated Azure AD到ADFS Onprem需要为特定应用程序创建主领域发现
 
 快到了！ 我们只剩下通知Marketo解决方案所创建的新用户。
 
-1. 返回高级设置部分，然后单击 ![](assets/image2015-5-13-15-3a49-3a19.png) 图标，然后选择 **Marketo配置**.
+1. 返回高级设置部分，然后单击 ![](assets/image2015-5-13-15-3a49-3a19.png) 图标，然后选择 **[!UICONTROL Marketo配置]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >如果您没有看到 **Marketo配置** 在“设置”菜单中，刷新页面。 如果这样行不通，请尝试 [发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} 再次登录或注销并重新登录。
+   >如果在“设置”菜单中看不到“Marketo配置”，请刷新页面。 如果这样行不通，请尝试 [发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} 再次登录或注销并重新登录。
 
-1. 单击 **默认**.
+1. 单击 **[!UICONTROL 默认]**.
 
    ![](assets/fifteen.png)
 
-1. 单击 **Marketo用户** 字段并选择您创建的同步用户。
+1. 单击 **[!UICONTROL Marketo用户]** 字段并选择您创建的同步用户。
 
    ![](assets/sixteen.png)
 
@@ -89,11 +89,11 @@ Federated Azure AD到ADFS Onprem需要为特定应用程序创建主领域发现
 
    ![](assets/seventeen.png)
 
-1. 单击 ![](assets/image2015-5-13-15-3a49-3a19-1.png) 图标，然后选择 **解决方案**.
+1. 单击 ![](assets/image2015-5-13-15-3a49-3a19-1.png) 图标，然后选择 **[!UICONTROL 解决方案]**.
 
    ![](assets/eighteen.png)
 
-1. 单击 **发布所有自定义项** 按钮。
+1. 单击 **[!UICONTROL 发布所有自定义项]** 按钮。
 
    ![](assets/nineteen.png)
 

@@ -3,7 +3,7 @@ description: Salesforce同步错误 — Marketo文档 — 产品文档
 title: Salesforce同步错误
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 1%
@@ -20,11 +20,11 @@ ht-degree: 1%
 
 ## 查看同步错误 {#view-sync-errors}
 
-1. 单击 **管理员**.
+1. 单击 **[!UICONTROL 管理员]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. 在集成下，单击 **Salesforce**，然后 **同步错误** 选项卡。
+1. 在集成下，单击 **Salesforce**，然后 **[!UICONTROL 同步错误]** 选项卡。
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -48,10 +48,10 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 选择日期和时间范围，然后按错误类型（作业层或记录层）筛选。 单击 **应用** 完成时。
+1. 选择日期和时间范围，然后按错误类型（作业层或记录层）筛选。 单击 **[!UICONTROL 应用]** 完成时。
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**可选步骤**：要导出同步错误，请单击 **导出**. 数据将导出为CSV。
+**可选步骤**：要导出同步错误，请单击 **[!UICONTROL 导出]**. 数据将导出为CSV。
 
 ![](assets/salesforce-sync-errors-5.png)
