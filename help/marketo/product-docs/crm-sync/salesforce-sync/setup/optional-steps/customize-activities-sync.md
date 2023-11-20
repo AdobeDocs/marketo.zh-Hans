@@ -4,7 +4,7 @@ description: 自定义活动同步 — Marketo文档 — 产品文档
 title: 自定义活动同步
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 自定义活动同步 {#customize-activities-sync}
 
-如果您不使用Marketo Sales Insight，Marketo可以为某些事件创建Salesforce活动历史记录。 下面是如何启用它们。
+如果您不使用Marketo Sales Insight，则Marketo Engage可以为某些事件创建Salesforce活动历史记录。 下面是如何启用它们。
 
-1. 转到 **管理员**.
+1. 转到 **[!UICONTROL 管理员]**.
 
    ![](assets/admin.png)
 
-1. 单击 **Salesforce**，然后单击 **编辑同步选项**.
+1. 单击 **[!DNL Salesforce]**，然后单击 **[!UICONTROL 编辑同步选项]**.
 
    ![](assets/two-1.png)
 
-1. 选中您希望Marketo推送到Salesforce的活动旁边的复选框，然后单击 **保存**.
+1. 选中您希望Marketo推送到Salesforce的活动旁边的复选框，然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/three-1.png)
 
@@ -96,8 +96,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->“收到的销售电子邮件”会 **非** 意思是送达。 对于通过Sales Insight发送的电子邮件，不会捕获投放状态。
+>“收到的销售电子邮件”会 _非_ 意思是送达。 对于通过Sales Insight发送的电子邮件，不会捕获投放状态。
 
 >[!TIP]
 >
->如果您有兴趣向Salesforce获取更多Marketo信息，请查看我们的 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 产品。
+>如果您有兴趣向Salesforce获取更多Marketo信息，请查看我们的 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 产品。

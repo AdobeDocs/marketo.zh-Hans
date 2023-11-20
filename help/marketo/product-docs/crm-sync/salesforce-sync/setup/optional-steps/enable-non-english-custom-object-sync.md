@@ -4,10 +4,10 @@ description: 启用非英语自定义对象同步 — Marketo文档 — 产品�
 title: 启用非英语自定义对象同步
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 1%
 
 ---
 
@@ -21,35 +21,35 @@ ht-degree: 0%
 
 ## 绕过它 {#getting-around-it}
 
-1. 使用marketo同步用户登录Salesforce。
+1. 登录 [!DNL Salesforce] 使用marketo同步用户。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. 在用户名下，转到 **设置**.
+1. 在用户名下，转到 **[!UICONTROL 设置]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. 下 **个人信息**，单击 **我的个人信息**.
+1. 下 **[!UICONTROL 个人信息]**，单击 **[!UICONTROL 我的个人信息]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. 单击 **编辑**.
+1. 单击 **[!UICONTROL 编辑]**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. 更改 **语言** 到 **英语**.
+1. 更改 **[!UICONTROL 语言]** 到 **[!UICONTROL 英语]**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. 返回Marketo，在 **管理员> Salesforce >对象** 单击 **刷新架构**.
+1. 返回Marketo，在 **[!UICONTROL 管理员]** > **[!UICONTROL Salesforce]** > **[!UICONTROL 对象]**，单击 **[!UICONTROL 刷新架构]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. 这将拉取英文的对象列表。 现在，选择您选择的对象并单击 **启用同步**.
+1. 这将拉取英文的对象列表。 现在，选择您选择的对象并单击 **[!UICONTROL 启用同步]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
