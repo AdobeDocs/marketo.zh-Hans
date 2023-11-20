@@ -4,7 +4,7 @@ description: 将现有Salesforce字段添加到Marketo同步 — Marketo文档 �
 title: 将现有Salesforce字段添加到Marketo同步
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-通常，Salesforce中的新自定义字段会自动同步到Marketo。 如果不能，这些字段可能对Marketo同步用户不可见。 下面是如何解决此问题的。
+通常，Salesforce中的新自定义字段会自动同步到Marketo Engage。 如果不能，这些字段可能对Marketo同步用户不可见。 下面是如何解决此问题的。
 
-1. 单击您的姓名，然后选择 **设置**.
+1. 单击您的姓名，然后选择 **[!UICONTROL 设置]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. 输入 **个人资料** 在左搜索栏中单击 **配置文件** 下 **管理用户**.
+1. 在左侧搜索栏中输入“profile”，然后单击 **[!UICONTROL 配置文件]** 下 **[!UICONTROL 管理用户]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
@@ -31,19 +31,19 @@ ht-degree: 0%
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. 在 **字段级安全性** 部分，单击 **视图** 在包含字段的对象旁边。
+1. 在 **[!UICONTROL 字段级安全性]** 部分，单击 **[!UICONTROL 视图]** 在包含字段的对象旁边。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
-1. 单击 **编辑**.
+1. 单击 **[!UICONTROL 编辑]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
-1. 查看 **可见** 要添加到同步的字段对应的复选框，然后单击 **保存**.
+1. 查看 **[!UICONTROL 可见]** 要添加到同步的字段对应的复选框，然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 
-   真贴心！ 在下一个同步周期中，Marketo将看到该字段并开始施展魔术。
+   在下一个同步周期中，Marketo将看到该字段并开始施展魔术。
 
    >[!NOTE]
    >

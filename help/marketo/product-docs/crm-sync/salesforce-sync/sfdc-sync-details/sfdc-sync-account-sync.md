@@ -4,16 +4,16 @@ description: SFDC同步 — 帐户同步 — Marketo文档 — 产品文档
 title: SFDC同步 — 帐户同步
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：帐户同步 {#sfdc-sync-account-sync}
 
-Marketo还会将您的帐户信息与Salesforce同步。 以下是一些您应了解的具体事项！
+Marketo Engage还会将您的帐户信息与Salesforce同步。 以下是一些您应了解的具体事项！
 
 ## 信息以何种方式同步？ {#which-way-does-the-information-sync}
 
@@ -29,7 +29,7 @@ Marketo还会将您的帐户信息与Salesforce同步。 以下是一些您应�
 
 ## 我能否从Marketo创建帐户？ {#can-i-create-accounts-from-marketo}
 
-大多没有。 但是，如果您使用 [转换人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) 流程步骤，它将创建一个新Contact、一个新Account和一个新Opportunity。
+大多没有。 但是，如果您使用 [转换人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} 流程步骤，它将创建一个新Contact、一个新Account和一个新Opportunity。
 
 >[!CAUTION]
 >

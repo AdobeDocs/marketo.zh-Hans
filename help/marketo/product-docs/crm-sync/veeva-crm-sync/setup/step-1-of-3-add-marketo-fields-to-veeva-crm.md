@@ -3,10 +3,10 @@ description: 第1步（共3步） — 将Marketo字段添加到Veeva CRM - Marke
 title: 第1步（共3步） — 将Marketo字段添加到Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -30,23 +30,23 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 
 要添加Score字段，请执行以下步骤。
 
-1. 登录到Veeva CRM并单击 **设置**.
+1. 登录到Veeva CRM并单击 **[!UICONTROL 设置]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. 单击对象和字段，然后选择对象管理器。
+1. 单击 **[!UICONTROL 对象和字段]** 并选择 **[!UICONTROL 对象管理器]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
-1. 在搜索栏中，搜索联系人。
+1. 在搜索栏中，搜索“联系人”。
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. 单击“联系人”对象。
+1. 单击 **[!UICONTROL 联系人]** 对象。
 
-1. 选择字段和关系。
+1. 选择 **[!UICONTROL 字段和关系]**.
 
-1. 单击 **新建**.
+1. 单击 **[!UICONTROL 新建]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -54,11 +54,11 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. 输入字段的字段标签、长度和字段名称，如下表所示。
+1. 输入 **[!UICONTROL 字段标签]**， **[!UICONTROL 长度]**、和 **[!UICONTROL 字段名称]** ，如下表所示。
 
 <table>
  <tbody>
@@ -88,11 +88,11 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 >
 >文本和数字字段需要长度，但日期/时间字段不需要。说明是可选的。
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. 指定访问设置，然后单击 **下一个**.
+1. 指定访问设置，然后单击 **[!UICONTROL 下一个]**.
 
 1. 将所有角色设置为“可见”和“只读”。
 
@@ -105,9 +105,9 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 
 1. 选择应显示该字段的页面布局。
 
-1. 单击 **保存并新建** 以返回并创建另外两个自定义字段。
+1. 单击 **[!UICONTROL 保存并新建]** 以返回并创建另外两个自定义字段。
 
-1. 单击 **保存** 等你都搞定了。
+1. 单击 **[!UICONTROL 保存]** 等你都搞定了。
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

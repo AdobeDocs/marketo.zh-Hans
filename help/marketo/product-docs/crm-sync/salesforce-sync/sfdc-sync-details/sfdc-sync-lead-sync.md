@@ -4,16 +4,16 @@ description: SFDC同步 — 潜在客户同步 — Marketo文档 — 产品文�
 title: SFDC同步 — 潜在客户同步
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：潜在客户同步 {#sfdc-sync-lead-sync}
 
-您是否知道Salesforce数据库中的Marketo同步？ 它会同步，等待5分钟，然后再次同步。 一整天，每天。 以下是Marketo如何特别对待Salesforce潜在客户的一些详细信息。
+您是否知道Salesforce数据库中的Marketo Engage同步？ 它会同步，等待5分钟，然后再次同步。 一整天，每天。 以下是Marketo如何特别对待Salesforce潜在客户的一些详细信息。
 
 ## 同步方向 {#sync-direction}
 
@@ -25,11 +25,11 @@ Marketo胜出。 这种数据冲突很少发生。
 
 ## 我可以使用Marketo在Salesforce中创建潜在客户吗？ {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-是，使用 [将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) flow操作。 如果商机不存在，这将在Salesforce中创建商机。
+是，使用 [将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} flow操作。 如果商机不存在，这将在Salesforce中创建商机。
 
 ## 我能否手动强制将Marketo中的人员同步到Salesforce中的潜在客户？ {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-是，使用 [将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) flow操作，它将实时同步。
+是，使用 [将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} flow操作，它将实时同步。
 
 ## 每个标准字段是否都会同步到Marketo？ {#does-every-single-standard-field-sync-to-marketo}
 
@@ -41,4 +41,4 @@ Marketo胜出。 这种数据冲突很少发生。
 
 ## Marketo是否会遵守Salesforce验证规则？ {#will-marketo-respect-the-salesforce-validation-rules}
 
-是. 如果数据格式错误或缺少必填字段信息，同步将失败。 如果发生这种情况，Marketo将在潜在客户活动日志中记录结果。
+是的。 如果数据格式错误或缺少必填字段信息，同步将失败。 如果发生这种情况，Marketo将在潜在客户活动日志中记录结果。

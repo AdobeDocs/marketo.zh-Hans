@@ -4,7 +4,7 @@ description: 如何在同步之前匹配项目状态和Salesforce促销活动状
 title: 如何在同步之前匹配项目状态和Salesforce Campaign状态
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,4 +27,4 @@ ht-degree: 0%
 1. 您可以取消，修复状态错误，并在错误修复后尝试同步。 要修复状态错误，请执行下列操作之一：
 
    * 登录Salesforce，删除或重命名不兼容的Campaign成员状态，以映射到用于与您的Marketo项目关联的渠道类型的Marketo项目状态。
-   * 修改Marketo中的项目状态，以映射到您现有的Salesforce Campaign成员状态。 这是Marketo管理员功能。 有关详细信息，请参阅 [创建项目频道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   * 修改Marketo中的项目状态，以映射到您现有的Salesforce Campaign成员状态。 这是Marketo管理员功能。 有关详细信息，请参阅 [创建项目频道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.

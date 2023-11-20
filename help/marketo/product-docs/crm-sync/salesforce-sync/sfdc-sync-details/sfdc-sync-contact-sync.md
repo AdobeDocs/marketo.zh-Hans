@@ -4,16 +4,16 @@ description: SFDC同步 — 联系人同步 — Marketo文档 — 产品文档
 title: SFDC同步 — 联系人同步
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：联系人同步 {#sfdc-sync-contact-sync}
 
-您是否知道Marketo会将您的整个数据库与Salesforce同步？ 它同步，然后等待5分钟，然后每天再次同步。 以下是Marketo如何具体处理Salesforce联系人的一些详细信息。
+您知道Marketo Engage将您的整个数据库与Salesforce同步吗？ 它同步，然后等待5分钟，然后每天再次同步。 以下是Marketo如何具体处理Salesforce联系人的一些详细信息。
 
 ## 同步方向 {#sync-direction}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 能否在Marketo中将人员转换为联系人？ {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-是，使用 **[转换人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** flow操作。
+是，使用 **[转换人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}** flow操作。
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 我可以手动强制同步联系人吗？ {#can-i-manually-force-a-sync-of-a-contact}
 
-是，使用 **[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** flow操作，它将实时同步。
+是，使用 **[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}** flow操作，它将实时同步。
 
 ## 每个标准字段是否都会同步到Marketo？ {#does-every-single-standard-field-sync-to-marketo}
 

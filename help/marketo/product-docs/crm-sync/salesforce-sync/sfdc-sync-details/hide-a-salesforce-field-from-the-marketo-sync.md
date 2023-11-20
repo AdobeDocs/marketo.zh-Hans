@@ -4,10 +4,10 @@ description: 从Marketo同步中隐藏Salesforce字段 — Marketo文档 — 产
 title: 从Marketo同步中隐藏Salesforce字段
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-Salesforce并非每个字段都对Marketing有用。 您可以通过仅包含所需的字段来优化同步性能。 下面是如何从Marketo隐藏字段的。
+Salesforce并非每个字段都对Marketing有用。 您可以通过仅包含所需的字段来优化同步性能。 下面是隐藏字段以防Marketo Engage的方法。
 
-1. 单击名称菜单，然后选择 **设置**.
+1. 单击名称菜单，然后选择 **[!UICONTROL 设置]**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. 输入 **用户档案** 在搜索栏中单击 **配置文件** 下 **管理用户**.
+1. 在搜索栏中输入“profiles”，然后单击 **[!UICONTROL 配置文件]** 下 **[!UICONTROL 管理用户]**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,15 +31,15 @@ Salesforce并非每个字段都对Marketing有用。 您可以通过仅包含所
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. 在 **字段级安全性** 部分，单击 **视图** 下一个是包含目标字段的对象。
+1. 在 **[!UICONTROL 字段级安全性]** 部分，单击 **[!UICONTROL 视图]** 下一个是包含目标字段的对象。
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. 单击 **编辑**.
+1. 单击 **[!UICONTROL 编辑]**.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. 取消选中 **可见** 选中您要隐藏的字段旁边的复选框。 单击 **保存**.
+1. 取消选中 **[!UICONTROL 可见]** 选中您要隐藏的字段旁边的复选框。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
@@ -51,4 +51,4 @@ Salesforce并非每个字段都对Marketing有用。 您可以通过仅包含所
 
    >[!MORELIKETHIS]
    >
-   >[隐藏和取消隐藏字段](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
+   >[隐藏和取消隐藏字段](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}

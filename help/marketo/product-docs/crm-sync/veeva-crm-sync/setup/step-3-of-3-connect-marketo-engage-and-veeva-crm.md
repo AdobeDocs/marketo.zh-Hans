@@ -3,7 +3,7 @@ description: 第3步（共3步） — ConnectMarketo Engage和Veeva CRM - Market
 title: 第3步（共3步） — 连接Marketo Engage和Veeva CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 使用OAuth连接到Veeva CRM {#connect-to-veeva-crm-using-oauth}
 
-1. 在Marketo中，单击 **管理员**. 选择 **CRM** 并单击 **与Veeva同步**.
+1. 在Marketo中，单击 **[!UICONTROL 管理员]**. 选择 **[!UICONTROL CRM]** 并单击 **[!UICONTROL 与Veeva同步]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >请务必 [隐藏所有不需要的字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Marketo ，然后再单击“同步字段”。 单击“同步字段”后，该用户可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
 
-1. 单击 **使用Veeva登录**.
+1. 单击 **[!UICONTROL 使用Veeva登录]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-2.png)
 
@@ -41,29 +41,29 @@ ht-degree: 0%
    >
    >如果您正在将Marketo沙盒同步到Veeva CRM沙盒，请选中沙盒。
 
-1. 单击 **确认凭据**.
+1. 单击 **[!UICONTROL 确认凭据]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-3.png)
 
-1. 此时将出现一个显示Salesforce登录页面的弹出窗口。 输入您的“Marketo同步用户”凭据，然后单击 **登录**.
+1. 此时将出现一个显示Salesforce登录页面的弹出窗口。 输入您的“Marketo同步用户”凭据，然后单击 **[!UICONTROL 登录]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-4.png)
 
-1. 输入您通过电子邮件收到的验证码（由Salesforce发送），然后单击 **验证**.
+1. 输入您通过电子邮件收到的验证码（由Salesforce发送），然后单击 **[!UICONTROL 验证]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-5.png)
 
-1. 成功验证后，访问页面将显示请求访问。 单击 **允许**.
+1. 成功验证后，访问页面将显示请求访问。 单击 **[!UICONTROL 允许]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-6.png)
 
-1. 几分钟后，Marketo Engae中将出现弹出窗口。 单击 **确认凭据**.
+1. 几分钟后，Marketo Engae中将出现弹出窗口。 单击 **[!UICONTROL 确认凭据]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-7.png)
 
 ## 启动Veeva同步 {#start-veeva-sync}
 
-1. 单击 **启动Veeva同步** 开始永久性Marketo-Veeva CRM同步。
+1. 单击 **[!UICONTROL 启动Veeva同步]** 开始永久性Marketo-Veeva CRM同步。
 
    ![](assets/step-3-of-3-connect-marketo-engage-8.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
    >
    >Marketo不会针对Veeva CRM同步或手动输入潜在客户时自动执行重复数据删除。
 
-1. 单击 **开始同步**.
+1. 单击 **[!UICONTROL 开始同步]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-9.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 Marketo在管理区域为Veeva CRM同步提供状态消息。 您可以按照以下步骤验证同步是否正常工作。
 
-1. 在Marketo中，单击 **管理员**，则 **Veeva**.
+1. 在Marketo中，单击 **[!UICONTROL 管理员]**，则 **[!UICONTROL Veeva]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-10.png)
 

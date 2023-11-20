@@ -4,16 +4,16 @@ description: SFDC同步 — 字段同步 — Marketo文档 — 产品文档
 title: SFDC同步 — 字段同步
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：字段同步 {#sfdc-sync-field-sync}
 
-Marketo将从Salesforce同步字段信息。 详情如下。
+Marketo Engage从Salesforce同步字段信息。 详情如下。
 
 ## 哪些字段已同步？ {#which-fields-are-synced}
 
@@ -57,7 +57,7 @@ SFDC中的查找字段会同步ID，但不会同步引用的名称。
 
 ## SFDC公式字段呢？ {#what-about-sfdc-formula-fields}
 
-公式字段已同步，但在更新之前，不会同步公式中引用的更新 [系统模块图章](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US).
+公式字段已同步，但在更新之前，不会同步公式中引用的更新 [系统模块图章](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}.
 
 ## 从Salesforce中删除之前与Marketo同步的字段时会发生什么情况？ {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 

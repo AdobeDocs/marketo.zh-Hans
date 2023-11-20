@@ -4,16 +4,16 @@ description: 默认Salesforce字段映射 — Marketo文档 — 产品文档
 title: 默认Salesforce字段映射
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '363'
 ht-degree: 43%
 
 ---
 
 # 默认Salesforce字段映射 {#default-salesforce-field-mapping}
 
-当您最初将Marketo帐户与Salesforce同步时，Marketo会在您内置的Salesforce和Marketo字段之间自动建立这些关联。 Marketo还将同步您的Leads、Accounts、Opportunities和Contacts上的自定义字段。
+当您最初将Marketo Engage帐户与Salesforce同步时，Marketo会在您内置的Salesforce和Marketo字段之间自动建立这些关联。 Marketo还将同步您的Leads、Accounts、Opportunities和Contacts上的自定义字段。
 
 ## 潜在客户字段 {#lead-fields}
 

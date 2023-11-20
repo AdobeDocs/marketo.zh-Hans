@@ -4,23 +4,23 @@ description: SFDC同步 — 潜在客户队列 — Marketo文档 — 产品文�
 title: SFDC同步 — 潜在客户队列
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：潜在客户队列 {#sfdc-sync-lead-queue}
 
-Marketo允许您将人员添加到 [Salesforce潜在客户队列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) 以帮助进行商机分配。 详情如下。
+Marketo Engage允许您添加人员到 [Salesforce潜在客户队列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} 以帮助进行商机分配。 详情如下。
 
 ## 如何在Marketo中为队列分配人员？ {#how-to-assign-a-person-to-a-queue-in-marketo}
 
 您可以使用以下任一流操作将人员分配给Salesforce潜在客户队列：
 
-* [将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [更改所有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
+* [更改所有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
 
 >[!NOTE]
 >
