@@ -4,9 +4,9 @@ description: 将访客添加为LaunchPoint服务 — Marketo文档 — 产品文
 title: 将访客添加为LaunchPoint服务
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2dc19295bcea7efc38b7bf50ee802335bff8b12c
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 1%
 
 ---
@@ -23,22 +23,26 @@ ht-degree: 1%
 >
 >您需要Marketo管理员权限和活动的Vibes帐户才能完成此设置。 下面步骤4中请求的凭据是来自您的Vibes帐户的凭据。
 
-1. 在“我的Marketo”中，单击 **管理员** 然后 **启动点**.
+1. 在“我的Marketo”中，转到 **管理员** 区域。
 
-   ![](assets/image2016-7-27-9-3a31-3a17.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-1.png)
+
+1. 单击 **启动点**.
+
+   ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
 1. 单击 **新建** 和 **新建服务**.
 
-   ![](assets/image2016-7-27-9-3a34-3a25.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
 1. 输入显示名称，然后在下拉列表中选择 **Vibes**.
 
-   ![](assets/new-service-vibes.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
 1. 在“设置”下，输入您的访客用户名、密码和API公司密钥。 单击&#x200B;**创建**。
 
-   ![](assets/new-service-vibes-settings-2.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
    新的SMS服务现在显示在Installed Services列表中。
 
-   ![](assets/image2016-7-27-9-3a45-3a1.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-6.png)
