@@ -2,10 +2,10 @@
 description: Adobe Marketo Engage - Marketo文档 — 产品文档
 title: Adobe Marketo Engage
 feature: Dynamic Chat
-exl-id: 5e341040-70ff-49f2-a954-b609d24e6006
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
+source-git-commit: a8369dc36d5d2baae1091b2417615d1e642e364f
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '279'
 ht-degree: 2%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 2%
 ## 正在连接Dynamic Chat {#connecting-dynamic-chat}
 
 在您完成 [初始设置](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}，现在该执行一次sync连接Dynamic Chat以连接到Adobe Marketo Engage订阅了。
+
+>[!NOTE]
+>
+>Dynamic Chat支持同步 [Marketo本机](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} 和自定义人员字段和公司字段。
 
 1. 在“我的Marketo”中，单击 **Dynamic Chat** 磁贴。
 
