@@ -4,16 +4,16 @@ description: 创建自定义Dynamics同步过滤器 — Marketo文档 — 产品
 title: 创建自定义动态同步筛选器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
 
 # 创建自定义动态同步筛选器 {#create-a-custom-dynamics-sync-filter}
 
-不想将Dynamics CRM中的所有内容同步到Marketo中？ 别担心！ Marketo允许您设置同步过滤器，并仅同步部分记录。
+不想将Dynamics CRM中的所有内容同步到Marketo Engage中吗？ 别担心！ Marketo允许您设置同步过滤器，并仅同步部分记录。
 
 ## 概述 {#overview}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果不分配该字段并将其留空/NULL，它将同步但不会更新。
+>如果不分配该字段并将其留空/NULL，它将同步但不会更新。 Dynamics CRM中字段值为空/空的记录将在Marketo中将此字段值显示为“false”。
 
 Marketo在自动后台同步期间查找此字段，并根据此逻辑确定要同步哪些记录：
 

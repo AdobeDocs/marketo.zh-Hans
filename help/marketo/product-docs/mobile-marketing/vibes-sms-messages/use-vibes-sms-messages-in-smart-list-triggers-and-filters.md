@@ -4,7 +4,7 @@ description: 在智能列表触发器和过滤器中使用Vibes SMS消息 — Ma
 title: 在智能列表触发器和过滤器中使用Vibes SMS消息
 exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 1. 在“我的Marketo”中，单击 **营销活动**.
 
-   ![](assets/image2016-7-28-9-3a48-3a32.png)
+   ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
 1. 选择您要使用短信资源的智能营销活动。 拖动到触发器上，例如受欢迎的 **填写表单**.
 

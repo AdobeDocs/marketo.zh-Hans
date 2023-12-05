@@ -4,7 +4,7 @@ description: 添加短信的流程步骤 — Marketo文档 — 产品文档
 title: 为短信添加流程步骤
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Marketo有三个流程步骤可用于短信智能营销活动：
 
 1. 在“我的Marketo”中，单击 **营销活动**.
 
-   ![](assets/image2016-7-28-11-3a41-3a17.png)
+   ![](assets/add-a-flow-step-for-sms-1.png)
 
 1. 查找要将短信流程添加到的智能营销活动。 单击 **流量** 选项卡。
 

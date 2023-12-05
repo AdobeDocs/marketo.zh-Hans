@@ -4,9 +4,9 @@ description: 创建访客短信消息 — Marketo文档 — 产品文档
 title: 创建访客SMS消息
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能可用作您的Adobe Marketo Engage帐户的加载项。 为了进行正确配置，必须通过Adobe购买。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+>此功能可用作您的Adobe Marketo Engage帐户的加载项。 为了进行正确配置，必须通过Adobe购买它。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 >[!NOTE]
 >
