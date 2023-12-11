@@ -3,9 +3,9 @@ description: 发行说明 — 2022年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年6月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '640'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * **公开自定义对象的CreatedAt/UpdatedAt字段**：使您能够在“人员详细信息”屏幕中检查这些字段以获得更多洞察。
 
-## 跨渠道编排 {#cross-channel-orchestration}
+## 跨渠道编排 {#cross-channel-orchestration}
 
 * **改进了Dynamic Chat的流设计器可用性**：直接从流设计器画布添加卡片，而无需拖放。 Dynamic Chat界面也得到了改进，可更好地显示各个信息卡中的内容。
 

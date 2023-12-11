@@ -4,20 +4,34 @@ title: 为短信添加流程步骤
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
 # 为短信添加流程步骤 {#add-a-flow-step-for-sms}
 
-Marketo Engage包含三个流程步骤，您可以在短信智能营销活动中使用：
+Marketo Engage包含三个流程步骤，您可以在短信智能促销活动中使用：
 
-* **发送短信消息**  — 此流操作将消息从Marketo智能列表发送给订阅了用户选择加入的Vibes订阅列表的用户。 它不会启动订阅流程。
-* **订阅体验列表**  — 此流程操作通过用户选择的Vibes客户获取促销活动启动短信订阅流程。 然后，Vibes发送确认消息；收件人必须回复“Y”才能在24小时内确认选择加入。 用户选择加入后，他们将成为关联的Vibes订阅列表的成员。
-* **取消订阅访客列表**  — 此流操作将从用户选择加入的Vibes订阅列表中取消订阅每个人。 当用户向您的代码发送文本“停止”时，其人员记录将更新，以反映他们不再是Vibes订阅列表的成员。
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">发送短信消息</td>
+    <td>此流操作会将消息从Marketo智能列表中发送给订阅了用户选择加入的Vibes订阅列表的用户。 它不会启动订阅流程。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">了解详情</a>.</td>
+  </tr>
+
+<tr>
+    <td style="width:25%">订阅体验列表</td>
+    <td>此流程操作通过用户选择的Vibes客户获取促销活动启动短信订阅流程。 然后，Vibes发送确认消息，收件人必须在24小时内使用“Y”回复该消息以确认选择加入。 用户选择加入后，他们将成为关联的Vibes订阅列表的成员。</td>
+  </tr>
+  <tr>
+    <td style="width:25%">取消订阅访客列表</td>
+    <td>此流操作将从用户选择加入的Vibes订阅列表中取消订阅每个人。 当用户向您的代码发短信“STOP”时，其人员记录会更新，以反映他们不再是Vibes订阅列表的成员。</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >

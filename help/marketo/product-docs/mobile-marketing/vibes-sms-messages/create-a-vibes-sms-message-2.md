@@ -4,9 +4,9 @@ title: 创建访客SMS消息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -19,72 +19,65 @@ ht-degree: 0%
 >
 >此功能可用作您的Adobe Marketo Engage帐户的加载项。 为了进行正确配置，必须通过Adobe购买它。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. 转到 **营销活动**.
+1. 转到 **[!UICONTROL 营销活动]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-1.png)
 
-1. 右键单击项目并选择 **新建本地资产**.
+1. 右键单击所需的程序，然后选择 **[!UICONTROL 新建本地资产]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-2.png)
 
-1. 单击 **新建本地资产**.
+1. 选择 **SMS消息**.
 
-   ![](assets/new-local-asset-hand.jpg)
-
-   >[!TIP]
-   >
-   >或者，您可以单击 **新建** 下拉菜单。
-
-1. 单击 **SMS消息**.
-
-   ![](assets/new-local-asset-selection-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-3.png)
 
 1. 输入新短信消息的名称和可选描述，然后单击 **创建**.
 
-   ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-4.png)
 
-1. 单击 **编辑草稿**.
+1. 在编辑器中，单击蓝色气泡并开始输入文本。
 
-   ![](assets/edit-draft-hand.jpg)
-
-1. 在消息编辑器中，单击蓝色气泡并开始输入文本。
-
-   ![](assets/message-text-pencil.jpg)
+   ![](assets/create-a-vibes-sms-message-5.png)
 
    >[!NOTE]
    >
    >使用标准ASCII字符集时，短信消息的字符限制为160个字符。 如果超过160个字符，则消息将根据字符总数进行拆分。
 
-1. 单击 **令牌** 在插入菜单中，向消息中添加令牌。
+1. 要在消息中添加令牌，请编写快速问候语，然后单击 **令牌**.
 
-   ![](assets/add-token-real-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-6.png)
 
    >[!NOTE]
    >
-   >添加令牌可能会导致消息超出字符限制。 然后，该消息将被拆分，从而导致其他消息。
+   >添加令牌可能会导致消息超出字符限制。 然后，该消息将被拆分，从而创建一个额外的消息。
 
    >[!IMPORTANT]
    >
    >SMS合规性：所有出站SMS消息必须包含品牌名称或程序描述。 对于定期消息程序，每个订阅者应至少每月提供一次HELP和STOP指令。
 
-   ??????使用Marketo URL缩短程序将导致消息中使用X个字符??????
+1. 选择所需的 **令牌**，输入可选的 **默认值**，然后单击 **创建**.
 
-1. 单击 **链接** 在“插入”菜单中添加指向消息的链接。
+   ![](assets/create-a-vibes-sms-message-7.png)
 
-   ![](assets/full-message-link-hand.jpg)
+1. 要添加链接，请选择消息中要显示该链接的位置，然后单击 **链接**.
 
-1. 选择链接类型。 默认“Marketo登录页面”。 如果您选择登陆页面，则需要从下拉列表中选择该登陆页面，然后单击 **插入**.
+   ![](assets/create-a-vibes-sms-message-8.png)
 
-   ![](assets/insert-link-real-hands.jpg)
+1. 选择链接类型。 默认“Marketo登录页面”。 如果您选择此选项，请单击登陆页面下拉列表，然后选择所需的页面。 单击 **插入** 完成时。
+
+   ![](assets/create-a-vibes-sms-message-9.png)
 
    >[!NOTE]
    >
-   >* 默认情况下，将选择两个跟踪链接。
-   >* 使用Marketo URL缩短程序将导致消息中使用X个字符。??????????????????
+   >默认情况下，将选择两个跟踪链接。 取消选中仅包含mkt_tok仍允许跟踪链接，但在重定向后，目标URL将不包含mkt_tok查询字符串参数。 此参数由Marketo登录页面和Munchkin使用，以确保正确跟踪人员活动（如人员选择退出时）。
 
-1. 如果要改用外部URL，请单击 **外部URL** 按钮，并在URL字段中输入URL。 单击 **插入**.
+1. 如果要改用外部URL，请选择 **外部URL**，输入/粘贴URL，然后单击 **插入**.
 
-   ![](assets/insert-link-url-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-10.png)
+
+   >[!NOTE]
+   >
+   >在保持选中“跟踪链接”的状态时，Marketo将自动修改URL以进行跟踪。 如果您选择禁用跟踪，则消息中将会显示未更改的URL(例如， `www.adobe.com`)。
 
    >[!CAUTION]
    >
@@ -92,18 +85,10 @@ ht-degree: 0%
 
 1. 该链接将显示在消息中。
 
-   ![](assets/link-added.jpg)
+   ![](assets/create-a-vibes-sms-message-11.png)
 
    >[!NOTE]
    >
-   >Marketo显示品牌跟踪域的链接预览。 如果清除mkt_tok链接复选框，则链接会更改。 同时清除跟踪链接复选框，URL将缩短为其基本长度(例如，www.mygooglepage.com)。
+   >Marketo显示品牌跟踪域的链接预览。 如果清除mkt_tok链接复选框，则链接会更改。
 
-   ![](assets/image2016-7-27-16-3a20-3a16.png)
-
-   >[!NOTE]
-   >
-   >字符数仅反映最低级别消息中包含的字符。
-
-如果插入的内容超过美国的限制，编辑器会将您的消息分成多个部分。 绝对总限制为900个字符。 达到该限制后，在将消息发送到其受众时，该消息将自动被截断。
-
-美国限制????????
+如果插入的字符数超过160个，编辑器会将短信分成多个部分。 每条消息的总限制为900个字符。 如果超过此值，则消息将在投放时被截断。

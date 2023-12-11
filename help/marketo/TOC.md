@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '9099'
-ht-degree: 1%
+source-wordcount: '9267'
+ht-degree: 0%
 
 ---
 
@@ -671,7 +671,7 @@ ht-degree: 1%
             + [代理管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
             + [安全设置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
             + [路由](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
-      + 事件 {#events}
+      + 活动 {#events}
          + 了解事件 {#understanding-events}
             + [将成员添加到事件程序](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
             + [创建新的事件程序](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
@@ -706,7 +706,7 @@ ht-degree: 1%
             + [推广交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [修改或删除交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [事件工作流](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
-      + Facebook {#facebook}
+      + facebook {#facebook}
          + [在Facebook中将潜在客户添加到自定义受众](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [在Facebook中创建自定义受众](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
          + [编辑Facebook富帖子设置](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
@@ -935,7 +935,7 @@ ht-degree: 1%
             + [令牌概述](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [在登陆页面中使用动态内容](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [使用URL生成器](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
-      + 社交 {#social}
+      + Social {#social}
          + 配置社交操作 {#configuring-social-actions}
             + [配置共享后提示](product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)
             + [为社交应用程序配置人员捕获](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
@@ -974,7 +974,7 @@ ht-degree: 1%
             + [在Smart Campaign中使用LinkedIn Lead Gen表单过滤器和触发器](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [使用促销代码完成优惠](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [查看社交绩效](product-docs/demand-generation/social/social-functions/view-social-performance.md)
-         + 抽奖活动 {#sweepstakes}
+         + 抽奖 {#sweepstakes}
             + [创建抽奖](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [自定义抽奖样式](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
             + [发布抽奖](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
@@ -1144,7 +1144,7 @@ ht-degree: 1%
          + [通过Sales Connect中的SAML 2.0设置SSO](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [共享设置](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [用户访问详细信息](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analytics {#analytics}
+      + 分析 {#analytics}
          + [Analytics页面概述](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [了解“内容”选项卡](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [了解“我”选项卡](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1257,7 +1257,7 @@ ht-degree: 1%
             + [发送跟踪的电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [通过群电子邮件发送电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [在撰写窗口中使用模板](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + 常见问题 {#faq}
+      + 常见问题解答 {#faq}
          + [是否可以恢复我删除的联系人或组？](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [内容和文件附件常见问题解答](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect具有iPhone或Android应用程序吗？](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1355,7 +1355,7 @@ ht-degree: 1%
             + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [将销售活动数据与Marketo和Salesforce同步](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [用户访问详细信息](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analytics {#analytics}
+         + 分析 {#analytics}
             + [Analytics页面概述](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [了解“内容”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [了解“我”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1419,7 +1419,7 @@ ht-degree: 1%
                + [连接到Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [连接到Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + 常见问题 {#faq}
+         + 常见问题解答 {#faq}
             + [是否可以恢复我删除的联系人或组？](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [我能否使用抄送/密送跟踪多个收件人？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [内容和文件附件常见问题解答](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1510,7 +1510,7 @@ ht-degree: 1%
          + 正在卸载 {#uninstalling}
             + [禁用全局MS Dynamics同步](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [从MS Dynamics实例卸载MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
-         + 更新中 {#updating}
+         + 正在更新 {#updating}
             + [升级Marketo Sales Insight Solution for Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + 适用于Salesforce的MSI {#msi-for-salesforce}
          + 安装 {#installation}
@@ -1679,7 +1679,7 @@ ht-degree: 1%
          + [编辑电子邮件的预测内容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [编辑富媒体的预测内容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [编辑推荐栏的预测内容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + 报告 {#reporting}
+   + 报表 {#reporting}
       + [报表概述](product-docs/reporting/reporting-overview.md)
       + 基本报告 {#basic-reporting}
          + 创建报告 {#creating-reports}
@@ -1943,6 +1943,7 @@ ht-degree: 1%
 + 发行说明 {#release-notes}
    + [发布计划](release-notes/release-schedule.md)
    + [当前版本](release-notes/current.md)
+   + [当前版本临时页面](release-notes/current-temp.md)
    + 之前版本 {#previous-releases}
       + 2023 {#2023}
          + [发行说明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
