@@ -4,9 +4,9 @@ title: 在智能列表触发器和过滤器中使用Vibes SMS消息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
+source-git-commit: 6b8c54dbe95c7bc6e2f68a48de11306f3f678cb6
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 新建文档
 
-在您之后 [创建访客SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}，您将需要在Smart Campaign中使用智能列表触发器和过滤器以获取好处。 具体方法如下。
+在您之后 [创建短信消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}，您将需要在Smart Campaign中使用智能列表触发器和过滤器以获取好处。 具体方法如下。
 
 1. 在“我的Marketo”中，单击 **营销活动**.
 
