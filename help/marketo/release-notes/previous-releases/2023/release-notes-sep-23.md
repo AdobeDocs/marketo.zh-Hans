@@ -2,10 +2,10 @@
 description: 发行说明 — 2023年9月 — Marketo文档 — 产品文档
 title: 发行说明 — 2023年9月
 feature: Release Information
-exl-id: fe00a1cf-c4bd-4513-bd39-ed81ea02c23d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '922'
 ht-degree: 1%
 
 ---
@@ -248,8 +248,8 @@ ht-degree: 1%
   </tr>
     <tr> 
    <td><strong>对话流资产页面</strong>：Design Studio资产页面现在列出了Dynamic Chat对话流程。 查看哪些流可以集成到Marketo Engage资源中，并直接深层链接到其编辑器。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
   <tr> 
    <td> </td> 

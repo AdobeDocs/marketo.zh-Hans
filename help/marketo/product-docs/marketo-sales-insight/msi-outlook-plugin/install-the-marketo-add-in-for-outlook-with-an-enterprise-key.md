@@ -4,9 +4,9 @@ description: 使用企业密钥安装适用于Outlook的Marketo加载项 — Mar
 title: 使用企业密钥安装适用于Outlook的Marketo加载项
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Sales Insight Actions功能（包括“发送销售电子邮件”、“添加到Sales Campaign”和“任务”）在Gmail和Outlook的Sales Insight电子邮件插件中不可用。 目前，在使用Sales Insight电子邮件插件时，用户只能从其电子邮件客户端发送可跟踪电子邮件，无论是否包含Marketo电子邮件模板。
+
+>[!IMPORTANT]
+>
+>Microsoft已发布 [适用于Windows的Outlook的新版本](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. 在“我的Marketo”中，单击 **管理员** 然后 **销售分析**.
 
