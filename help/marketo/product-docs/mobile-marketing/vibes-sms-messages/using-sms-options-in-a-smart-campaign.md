@@ -4,7 +4,7 @@ title: 在智能营销活动中使用短信选项
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
+source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ## SMS触发器 {#sms-triggers}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
   </tr>
 </table>
 
@@ -42,10 +42,10 @@ ht-degree: 0%
 
 ## 短信过滤器 {#sms-filters}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
   </tr>
 </table>
 
@@ -66,16 +66,16 @@ ht-degree: 0%
 <table>
 <tbody>
   <tr>
-    <td style="width:25%">发送短信消息</td>
+    <td style="width:20%"><b>发送短信消息</b></td>
     <td>此流操作会将消息从Marketo智能列表中发送给订阅了用户选择加入的Vibes订阅列表的用户。 它不会启动订阅流程。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">了解详情</a>.</td>
   </tr>
 
 <tr>
-    <td style="width:25%">订阅体验列表</td>
+    <td style="width:20%"><b>订阅体验列表</b></td>
     <td>此流程操作通过用户选择的Vibes客户获取促销活动启动短信订阅流程。 然后，Vibes发送确认消息，收件人必须在24小时内使用“Y”回复该消息以确认选择加入。 用户选择加入后，他们将成为关联的Vibes订阅列表的成员。</td>
   </tr>
   <tr>
-    <td style="width:25%">取消订阅访客列表</td>
+    <td style="width:20%"><b>取消订阅访客列表</b></td>
     <td>此流操作将从用户选择加入的Vibes订阅列表中取消订阅每个人。 当用户向您的代码发短信“STOP”时，其人员记录会更新，以反映他们不再是Vibes订阅列表的成员。</td>
   </tr>
   </tbody>
