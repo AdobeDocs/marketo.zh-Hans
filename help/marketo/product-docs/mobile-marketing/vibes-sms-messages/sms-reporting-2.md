@@ -4,16 +4,16 @@ title: 短信报告
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 96bc28212ef275920fb106d69293958522cb4eb0
+source-git-commit: b9973d8bc5bf7d9e6944d05e6cf084966a31fcdb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # 短信报告 {#sms-reporting}
 
-短信消息仪表板提供有关消息的有用报告分析。
+短信消息仪表板对您的消息提供有用的分析。
 
 ## 访问功能板 {#access-the-dashboard}
 
