@@ -4,7 +4,7 @@ title: 发送短信消息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: 6731d6fca4b6547f1f709e45f32f766e0e0e30b4
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 发送短信消息 {#send-a-vibes-sms-message}
 
-您已 [已创建您的短信消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md)，现在该发送它了。 您可以通过批量或触发营销活动来发送营销活动。
+您已 [已创建您的短信消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)，现在该发送它了。 您可以通过批量或触发营销活动来发送营销活动。
 
 >[!NOTE]
 >
