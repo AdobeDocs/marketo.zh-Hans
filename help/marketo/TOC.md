@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 164fcc02570e421b10d52a2be002ddbab70843bd
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '9267'
+source-wordcount: '9298'
 ht-degree: 0%
 
 ---
@@ -1591,6 +1591,7 @@ ht-degree: 0%
       + 管理员 {#admin}
          + [添加移动应用程序](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [将访客添加为LaunchPoint服务](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
+         + [TEMP将访客添加为LaunchPoint服务](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service-2.md)
          + [验证移动访问安全性](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [在创建推送通知和应用程序内消息之前](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [配置移动应用程序Android推送访问](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
@@ -1630,6 +1631,11 @@ ht-degree: 0%
          + [为短信添加流程步骤](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [短信消息仪表板](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [在智能列表触发器和过滤器中使用Vibes SMS消息](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
+         + [TEMP创建短信消息](product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)
+         + [TEMP发送短信消息](product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
+         + [在智能营销活动中使用短信选项的TEMP](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
+         + [TEMP SMS术语表](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
+         + [临时短信报告](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting-2.md)
    + 个性化 {#personalization}
       + 分段和代码片段 {#segmentation-and-snippets}
          + 分段 {#segmentation}

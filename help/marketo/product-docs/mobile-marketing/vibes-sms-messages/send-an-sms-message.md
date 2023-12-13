@@ -4,9 +4,9 @@ title: 发送短信消息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8e56b571a34451d6b0436dc041efaf0fd575db36
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 >
 >* 按电话号码Marketo Engage重复数据消除。 因此，如果多人拥有相同的电话号码，则只有一人会收到消息，前提是他们仅属于一个Vibes订阅列表。 重复数据消除是在Vibes Subscription列表级别，而不是Marketo项目级别完成的。
 >* Marketo不会发送给被列入阻止列表或营销暂停的人员。
+>* 如果任何未订阅的用户不在Vibes移动数据库列表中，则不会向其发送短信消息。
 
 ## 发送批量短信 {#send-a-batch-sms}
 
