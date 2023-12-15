@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -26,15 +26,15 @@ ht-degree: 0%
 
 ## 启用自定义对象 {#enable-custom-object}
 
-1. 在Marketo中，单击 **管理员**，则 **Veeva对象同步**.
+1. 在Marketo中，单击 **[!UICONTROL 管理员]**，则 **[!UICONTROL Veeva对象同步]**.
 
    ![](assets/custom-object-sync-1.png)
 
-1. 如果这是您的第一个自定义对象，请单击 **同步架构**.
+1. 如果这是您的第一个自定义对象，请单击 **[!UICONTROL 同步架构]**.
 
    ![](assets/custom-object-sync-2.png)
 
-1. 单击 **禁用全局同步**.
+1. 单击 **[!UICONTROL 禁用全局同步]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ ht-degree: 0%
    >
    >自定义对象必须具有唯一的名称。 Marketo不支持具有相同名称的两个其他自定义对象。
 
-1. 单击 **启用同步**.
+1. 单击 **[!UICONTROL 启用同步]**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. 单击 **启用同步** 再来一次。
+1. 单击 **[!UICONTROL 启用同步]** 再来一次。
 
    ![](assets/custom-object-sync-6.png)
 
-1. 返回 **Veeva** 选项卡。
+1. 返回 **[!UICONTROL Veeva]** 选项卡。
 
    ![](assets/custom-object-sync-7.png)
 
-1. 单击 **启用同步**.
+1. 单击 **[!UICONTROL 启用同步]**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. 要查看所有Veeva自定义对象，请单击管理员和Veeva对象同步。
+1. 要查看所有Veeva自定义对象，请单击 **[!UICONTROL 管理员]** 和 **[!UICONTROL Veeva对象同步]**.
 
    ![](assets/custom-object-sync-9.png)
 

@@ -4,38 +4,38 @@ description: 将Google客户匹配项作为LaunchPoint服务添加 — Marketo�
 title: 将Google客户匹配项添加为LaunchPoint Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 2%
+source-wordcount: '196'
+ht-degree: 0%
 
 ---
 
 # 将Google客户匹配项添加为LaunchPoint Service {#add-google-customer-match-as-a-launchpoint-service}
 
-利用此集成，您可以将Marketo受众发送到Google以使用Google AdWords进行定位，以及跨YouTube、Search和Gmail重新定位受众。
+利用此集成，您可以将Marketo Engage受众发送到Google以使用Google AdWords进行定位，以及跨YouTube、Search和Gmail重新定位受众。
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 转到 **管理员**.
+1. 转到 **[!UICONTROL 管理员]**.
 
    ![](assets/admin.png)
 
-1. 单击 **启动点**.
+1. 单击 **[!UICONTROL 启动点]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 选择 **新建** 则 **新建服务**.
+1. 选择 **[!UICONTROL 新建]** 则 **[!UICONTROL 新建服务]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 输入 **显示名称** 并选择 **Google客户匹配** 从 **服务** 下拉菜单。 单击&#x200B;**创建**。
+1. 输入 **[!UICONTROL 显示名称]** 并选择 **[!UICONTROL Google客户匹配]** 从 **[!UICONTROL 服务]** 下拉菜单。 单击 **[!UICONTROL 创建]**.
 
    ![](assets/chooseservice.png)
 
-1. 要连接Google AdWords帐户，请单击 **授权**.
+1. 要连接Google AdWords帐户，请单击 **[!UICONTROL 授权]**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -47,11 +47,11 @@ ht-degree: 2%
 
    ![](assets/chooseaccount.png)
 
-1. 查看请求的权限，然后单击 **允许**.
+1. 查看请求的权限，然后单击 **[!UICONTROL 允许]**.
 
    ![](assets/reviewpermissions.png)
 
-1. 您的Google AdWords帐户现已连接到Marketo。 单击&#x200B;**创建**。
+1. 您的Google AdWords帐户现已连接到Marketo。 单击 **[!UICONTROL 创建]**.
 
    ![](assets/authorizesuccess.png)
 

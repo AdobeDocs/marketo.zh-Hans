@@ -4,10 +4,10 @@ description: 将LinkedIn匹配的受众添加为LaunchPoint服务 — Marketo文
 title: 将LinkedIn匹配的受众添加为LaunchPoint服务
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 2%
+source-wordcount: '179'
+ht-degree: 0%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 2%
 >
 >**需要管理员权限**
 
-将您的Marketo帐户与LinkedIn匹配受众连接起来，以使用Marketo静态列表或智能列表作为LinkedIn受众区段。
+将您的Marketo Engage帐户与LinkedIn匹配的受众连接起来，以使用Marketo静态列表或智能列表作为LinkedIn受众区段。
 
-1. 转到 **管理员** 部分。
+1. 转到 **[!UICONTROL 管理员]** 部分。
 
    ![](assets/admin.png)
 
-1. 选择 **启动点**.
+1. 选择 **[!UICONTROL 启动点]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 选择 **新建** 和 **新建服务**.
+1. 选择 **[!UICONTROL 新建]** 和 **[!UICONTROL 新建服务]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 输入 **显示名称** 并选择 **linkedIn匹配的受众**. 单击&#x200B;**创建**。
+1. 输入 **[!UICONTROL 显示名称]** 并选择 **[!UICONTROL linkedIn匹配的受众]**. 单击 **[!UICONTROL 创建]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. 要连接LinkedIn帐户，请单击 **授权**.
+1. 要连接LinkedIn帐户，请单击 **[!UICONTROL 授权]**.
 
    ![](assets/authorizeaccount.png)
 
@@ -47,11 +47,11 @@ ht-degree: 2%
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. 查看请求的权限，然后单击 **允许**.
+1. 查看请求的权限，然后单击 **[!UICONTROL 允许]**.
 
    ![](assets/li-permissions.png)
 
-1. 您的LinkedIn帐户现已连接到Marketo。 单击&#x200B;**创建**。
+1. 您的LinkedIn帐户现已连接到Marketo。 单击 **[!UICONTROL 创建]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
@@ -61,4 +61,4 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->[使用Marketo列表或智能列表作为LinkedIn受众区段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[使用Marketo列表或智能列表作为LinkedIn受众区段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}

@@ -3,9 +3,9 @@ description: 了解Veeva CRM同步 — Marketo文档 — 产品文档
 title: 了解Veeva CRM同步
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,4 @@ Veeva和Marketo Engage之间的同步仅针对Person帐户对象上的Contact字
 
 * Veeva CRM基于force.com ，此同步中继承了平台所具有的丰富体验Marketo Engage。
 
-* Veeva CRM显示：潜在客户、联系人、客户（业务帐户、机会、营销活动和活动）。 但是，“与Marketo Engage同步”中不支持这两个参数。
+* Veeva CRM显示：潜在客户、联系人、客户、业务客户、机会、营销活动和活动。 但是，“与Marketo Engage同步”中不支持这两个参数。

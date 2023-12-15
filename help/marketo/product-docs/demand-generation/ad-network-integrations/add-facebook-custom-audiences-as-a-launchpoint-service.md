@@ -4,9 +4,9 @@ description: 将Facebook自定义受众添加为LaunchPoint服务 — Marketo文
 title: 将Facebook自定义受众添加为LaunchPoint Service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-利用此集成，您可以将Marketo中的受众数据静态列表和智能列表发送到Facebook，以在Facebook广告促销活动中用作自定义受众。 下面是设置方法。
+利用此集成，您可以将受众数据从Marketo Engage静态列表和智能列表发送到Facebook，以在Facebook广告促销活动中用作自定义受众。 下面是设置方法。
 
-1. 转到Marketo **管理员**.
+1. 转到Marketo **[!UICONTROL 管理员]**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. 转到 **启动点**，单击 **新建** 并选择 **新建服务**.
+1. 转到 **[!UICONTROL 启动点]**，单击 **[!UICONTROL 新建]** 并选择 **[!UICONTROL 新建服务]**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 输入 **显示名称** ，然后选择 **facebook自定义受众** 来自的服务 **服务** 下拉菜单。
+1. 输入 **[!UICONTROL 显示名称]** ，然后选择 **[!UICONTROL facebook自定义受众]** 来自的服务 **[!UICONTROL 服务]** 下拉菜单。
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. 在同一浏览器中打开新选项卡，然后转到 [facebook.com](https://www.facebook.com/). 使用要用于集成的帐户登录Facebook。
+1. 在同一浏览器中打开新选项卡，然后转到 [facebook.com](https://www.facebook.com/){target="_blank"}. 使用要用于集成的帐户登录Facebook。
 
    >[!CAUTION]
    >
@@ -39,19 +39,19 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. 登录Facebook后，请返回Marketo。 单击 **授权**.
+1. 登录Facebook后，请返回Marketo。 单击 **[!UICONTROL 授权]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >您 _必须_ 使用Facebook Business Manager帐户以使您的自定义受众集成正常工作。 要了解如何设置业务经理帐户，请参阅 [facebook帮助](https://www.facebook.com/business/help/1710077379203657).
+   >您 _必须_ 使用Facebook Business Manager帐户以使您的自定义受众集成正常工作。 要了解如何设置业务经理帐户，请参阅 [facebook帮助](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
 
-1. 如果出现提示，请单击 **确定** ，以接受将Marketo应用程序安装到Facebook中。
+1. 如果出现提示，请单击 **[!UICONTROL 确定]** ，以接受将Marketo应用程序安装到Facebook中。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. 您现在已获得授权！ 选择匹配模式并单击 **创建**.
+1. 您现在已获得授权！ 选择匹配模式并单击 **[!UICONTROL 创建]**.
 
    >[!NOTE]
    >
@@ -63,10 +63,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >在你走之前，请确保 [接受Facebook的自定义受众术语](https://www.facebook.com/ads/manage/customaudiences/tos.php) 在您的Facebook帐户中！ 否则，受众更新将失败。
+   >在你走之前，请确保 [接受Facebook的自定义受众术语](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} 在您的Facebook帐户中！ 否则，受众更新将失败。
 
 >[!MORELIKETHIS]
 >
->* [在Facebook中创建自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [在Facebook中创建自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
 >
->* [设置Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [设置Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md){target="_blank"}
