@@ -4,9 +4,9 @@ description: 了解工作区和人员分区 — Marketo文档 — 产品文档
 title: 了解工作区和人员分区
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -84,12 +84,16 @@ ht-degree: 0%
 
 ## 跨工作区克隆 {#cloning-across-workspaces}
 
-对于不是模板的资源，最好在项目内将它们克隆为本地资源。  通过适当的访问级别，您可以将这些资产拖放到另一个工作区中：
+对于不是模板的资源，最好在项目内将它们克隆为本地资源。 通过适当的访问级别，您可以将这些资产拖放到另一个工作区中：
 
 * 程序
 * 电子邮件
 * 登陆页面
 * Forms
+
+>[!IMPORTANT]
+>
+>虽然上面列出的所有项目都可以跨工作区、电子邮件、表单和登陆页面进行克隆 _必须位于项目内_ 在克隆时。
 
 >[!NOTE]
 >
