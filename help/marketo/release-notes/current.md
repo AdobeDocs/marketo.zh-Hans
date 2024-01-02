@@ -3,7 +3,7 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e33b6f995ca8535d69505cf38e9b03f2aff09149
+source-git-commit: 6e121b10c38517aabc9dd46235aed3103525a551
 workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 2%
@@ -59,6 +59,18 @@ ht-degree: 2%
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>批量商机导入API更新</strong>：在以下情况下，已对批量潜在客户导入API的行为进行了细微调整： <b>id</b> 指定为 <b>lookupField</b> 在创建作业期间。 如果人员记录链接到提供的 <b>id</b> 在Marketo Engage数据库中找不到，将不会进行记录更新，因为无法找到该记录。 更新后的行为现在包括增加 <b>numOfRowsFailed</b> 响应中的属性，表示在这种情况下操作失败。</td> 
+   <td><i>即将推出</i></td>
+   <td>不适用</td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -83,18 +95,6 @@ ht-degree: 2%
    <td><strong>可展开的合成窗口</strong>：现在，撰写电子邮件窗口将自动压缩未使用的空间，以便在编辑器中留出更多空间。 此外，该窗口将弹出并进一步扩展，从而为用户提供所需的最大空间，以便对其电子邮件进行编辑。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>批量商机导入API更新</strong>：在以下情况下，已对批量潜在客户导入API的行为进行了细微调整： <b>id</b> 指定为 <b>lookupField</b> 在创建作业期间。 如果人员记录链接到提供的 <b>id</b> 在Marketo Engage数据库中找不到，将不会进行记录更新，因为无法找到该记录。 更新后的行为现在包括增加 <b>numOfRowsFailed</b> 响应中的属性，表示在这种情况下操作失败。</td> 
-   <td><i>即将推出</i></td>
-   <td>不适用</td>
   </tr>
  </tbody> 
 </table>
