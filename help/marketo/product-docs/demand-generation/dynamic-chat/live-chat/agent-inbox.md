@@ -2,10 +2,10 @@
 description: 代理收件箱 — Marketo文档 — 产品文档
 title: 代理收件箱
 feature: Dynamic Chat
-exl-id: 656f8716-d982-4c02-8311-17add0fcd924
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
@@ -32,21 +32,7 @@ ht-degree: 1%
 
 ## 实时聊天通知 {#live-chat-notifications}
 
-当实时聊天被路由到座席时，他们将看到屏幕顶部有一条蓝色横幅要求他们接受。
-
-![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->您还可以选择设置浏览器通知，如果您未登录Dynamic Chat，通知会提醒您。
->
->* 在中启用浏览器通知 [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* 在中启用浏览器通知 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### 注意事项 {#things-to-note}
-
-* 在“接受聊天”消息超时之前，工程师有45秒的时间进行响应。
-* 目前每个代理最多只能进行10次实时聊天
+要了解有关通知的更多信息，请参阅 [实时聊天概述](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## 对话 {#conversations}
 
