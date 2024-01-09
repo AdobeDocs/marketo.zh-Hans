@@ -3,10 +3,10 @@ description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
+source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 1%
+source-wordcount: '550'
+ht-degree: 0%
 
 ---
 
@@ -65,6 +65,44 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+
+## 实时聊天通知 {#live-chat-notifications}
+
+为了接收用于实时聊天的浏览器通知，所有实时聊天代理必须在出现提示时启用Dynamic Chat的浏览器通知。
+
+### 启用通知 {#enabling-notifications}
+
+实时聊天代理登录时，会在屏幕顶部看到一条横幅，上面显示“请启用浏览器通知以接收实时聊天通知”。 单击 **启用**.
+
+![](assets/live-chat-overview-4.png)
+
+随后，浏览器将提示实时聊天代理显示通知。 单击 **允许**.
+
+![](assets/live-chat-overview-5.png)
+
+如果座席在允许浏览器进入后仍未收到浏览器通知，则可能需要在操作系统通知设置中为浏览器启用通知：
+
+[Mac的步骤](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[适用于Windows的步骤](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### 当实时聊天路由到座席时 {#when-a-live-chat-is-routed-to-an-agent}
+
+当实时聊天被路由到座席时，他们将看到屏幕顶部有一条蓝色横幅要求他们接受。
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>您还可以选择设置浏览器通知，如果您未登录Dynamic Chat，通知会提醒您。
+>
+>* 在中启用浏览器通知 [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* 在中启用浏览器通知 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### 注意事项 {#things-to-note}
+
+* 在“接受聊天”消息超时之前，工程师有45秒的时间进行响应
+* 目前每个代理最多只能进行10次实时聊天
 
 >[!MORELIKETHIS]
 >
