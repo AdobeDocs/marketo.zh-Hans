@@ -4,16 +4,16 @@ description: 创建并使用连接字符串（公式）字段 — Marketo文档 
 title: 创建并使用串联字符串（公式）字段
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # 创建并使用串联字符串（公式）字段 {#create-and-use-a-concatenated-string-formula-field}
 
-您可以组合多个字段中的值，或使用Marketo公式字段构建条件值。
+您可以组合多个字段中的值或使用Marketo Engage公式字段构建条件值。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->公式字段可用于登陆页面、电子邮件和智能列表列（不导出它们）。 包含公式字段的电子邮件可以 _非_ 使用批量营销活动发送。 请使用 [电子邮件脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) 在此方案中。
+>公式字段可用于登陆页面、电子邮件和智能列表列。 包含公式字段的电子邮件可以 _非_ 使用批量营销活动发送。 请使用 [电子邮件脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) 在此方案中。
 
 做得好！ 现在，你有一个聪明的领域，知道根据性别应该包括什么称谓。 玩得开心，发挥创意。
