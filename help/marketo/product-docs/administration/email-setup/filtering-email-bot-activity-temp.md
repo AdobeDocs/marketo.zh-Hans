@@ -4,9 +4,9 @@ title: 筛选电子邮件机器人活动
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,23 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 选择以 **[!UICONTROL 与IAB列表匹配]**， **[!UICONTROL 与邻近模式匹配]**，或同时使用两者。 选择是否 [!UICONTROL 记录机器人活动] _或_ [!UICONTROL 过滤机器人活动]. 设置秒数 **活动之间的持续时间** 长度从0秒到3秒（默认值为0）。
+1. 有两个滑块可供选择。 您可以只启用一个或同时启用两者。 如果您启用 **[!UICONTROL 与IAB列表匹配]**，选择是否 [!UICONTROL 记录机器人活动] _或_ [!UICONTROL 过滤机器人活动].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. 如果您启用 **[!UICONTROL 与邻近模式匹配]**，选择是否 [!UICONTROL 记录机器人活动] _或_ [!UICONTROL 过滤机器人活动]. 您还可以为以下对象设置秒数 **活动之间的持续时间** （默认值为0，最大值为3）。
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >替换为 **活动之间的持续时间** 设置为0秒，我们将识别在同一秒发生的电子邮件活动。 如果在指定的秒数内发生了多个电子邮件活动，则会将其识别为机器人活动。
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* 如果您选择 [!UICONTROL 过滤机器人活动]，您可能会看到电子邮件打开次数和点击次数出现下降，因为虚假活动被淘汰了。
 
-**可选步骤**：要禁用此功能，只需取消选择滑块即可。 如果禁用，则不会重置数据。
+**可选步骤**：要禁用任一功能，只需取消选择相应的滑块即可。 如果这样做，数据将不会重置。
 
 >[!TIP]
 >
