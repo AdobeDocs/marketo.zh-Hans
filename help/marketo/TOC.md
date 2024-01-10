@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '9298'
 ht-degree: 0%
@@ -136,7 +136,8 @@ ht-degree: 0%
          + [启用通信限制](product-docs/administration/email-setup/enable-communication-limits.md)
          + [为智能营销活动启用人员限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [筛选电子邮件机器人活动](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [从“管理员 — >电子邮件”部分删除取消订阅文本](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [筛选电子邮件机器人活动TEMP](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
+         + [删除取消订阅文本](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + 字段管理 {#field-management}
          + [在从不受信任的源导入列表期间阻止字段更新](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [阻止更新字段](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -251,25 +252,25 @@ ht-degree: 0%
          + 创建智能营销活动 {#creating-a-smart-campaign}
             + [了解批量处理和触发智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
             + [创建新的Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-            + [为Smart Campaign定义智能列表 |批次](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-            + [为Smart Campaign定义智能列表 |触发器](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+            + [为Smart Campaign定义智能列表 | 批次](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+            + [为Smart Campaign定义智能列表 | 触发器](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
             + [智能营销活动核对清单](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
          + 使用智能营销活动 {#using-smart-campaigns}
             + [中止智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
-            + [激活触发器智能营销活动 |“计划”选项卡](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
+            + [激活触发器智能营销活动 | “计划”选项卡](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
             + [将通信限制应用于Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
             + [自动触发营销活动清理](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
             + [活动操作：克隆智能活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
             + [营销活动操作：删除智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
             + [取消计划的批处理营销活动运行](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
             + [取消计划的定期批处理营销活动运行](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run.md)
-            + [取消激活“触发器智能营销活动” |“计划”选项卡](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
+            + [取消激活“触发器智能营销活动” | “计划”选项卡](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
             + [在智能营销活动中编辑资格规则](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [移动智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [覆盖智能营销活动中的人员限制](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
             + [触发器活动的优先级覆盖](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/priority-override-for-trigger-campaigns.md)
             + [重命名Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
-            + [立即运行批量智能营销活动 |“计划”选项卡](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
+            + [立即运行批量智能营销活动 | “计划”选项卡](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [安排稍后运行的批量智能营销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [计划循环批次活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [使用“Campaign is Requested”设置触发器智能促销活动](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)

@@ -4,14 +4,14 @@ description: 从管理员电子邮件部分删除取消订阅文本 — Marketo�
 title: 从管理员电子邮件部分删除取消订阅文本
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# 从管理员电子邮件部分删除取消订阅文本 {#remove-unsubscribe-text-from-the-admin-email-section}
+# 从“管理员”>“电子邮件”部分删除取消订阅文本 {#remove-unsubscribe-text-from-the-admin-email-section}
 
 您应从完全删除取消订阅内容的唯一原因 **[!UICONTROL 管理员]** > **[!UICONTROL 电子邮件]** 区域是指，如果您选择将取消订阅链接构建到电子邮件模板本身。 该文本框具有验证，不允许您保存而不保存任何内容。 您可以通过添加小的HTML评论来解决此问题。 HTML注释将不会显示在电子邮件客户端中，因为它以HTML呈现电子邮件，并且会忽略这些注释。 下面是操作方法。
 
