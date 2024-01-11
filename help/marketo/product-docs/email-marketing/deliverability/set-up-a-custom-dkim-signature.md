@@ -4,9 +4,9 @@ description: 设置自定义DKIM签名 — Marketo文档 — 产品文档
 title: 设置自定义DKIM签名
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,6 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   >[!TIP]
-   >
-   >* 我们建议的关键规模为2048年。
-   >* 如果您在发件人地址中使用其他域，我们将使用Marketo共享DKIM签名。
-
    <table> 
    <tr>
    <td width="20%"><b>选择器</b></td>
@@ -59,6 +54,17 @@ ht-degree: 0%
    </table>
 
    <p>
+
+   >[!TIP]
+   >
+   >* 我们建议的关键规模为2048年。
+   >* 如果您在发件人地址中使用其他域，我们将使用Marketo共享DKIM签名。
+
+   >[!IMPORTANT]
+   >
+   >如果您需要更新域的DKIM选择器或DKIM加密大小，则必须删除现有记录并使用新值重新发布新生成的记录。
+   >
+   >请注意，执行此操作时，在您的新记录发布并通过我们的系统验证之前，不会为您的域签署DKIM。 相应地规划您的更改，因为新的DKIM记录可能需要24到48小时才能在互联网上完全传播。
 
 1. 发送 **主机记录** 和 **TXT值** 到你的IT。 要求他们为您创建记录，并确保该记录传播到与来自域关联的所有名称服务器。 Marketo的DKIM验证要求将DKIM密钥传播到与DKIM签名的域关联的所有名称服务器。
 
