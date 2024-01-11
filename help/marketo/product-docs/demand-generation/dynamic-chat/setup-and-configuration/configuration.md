@@ -3,10 +3,10 @@ description: 配置 — Marketo文档 — 产品文档
 title: 配置
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 1%
+source-wordcount: '310'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 了解如何自定义聊天机器人对话框窗口的外观。
 
-要开始配置，请单击 **配置**.
+要开始配置，请单击 **聊天机器人设置** 下 **配置**.
 
 ![](assets/configuration-1.png)
 
@@ -36,9 +36,9 @@ ht-degree: 1%
 
 ![](assets/configuration-4.png)
 
-### 代理设置 {#agent-settings}
+### 机器人设置 {#agent-settings}
 
-在“代理设置”中，您可以向聊天盒添加标签(例如：“Adobe机器人”)，标签将显示在聊天盒顶部。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。 要上传您自己的头像图像，请单击 **+** 按钮。
+在“机器人设置”中，您可以向聊天盒添加标签(例如：“Adobe助手”)，该标签将显示在聊天盒顶部。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。 要上传您自己的头像图像，请单击 **+** 按钮。
 
 ![](assets/configuration-5.png)
 
@@ -64,11 +64,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->如果您的网站使用内容安全策略，则可能需要允许列表以下URL以便聊天机器人按预期工作：
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>在您的网站使用Content-Security-Policy (CSP)时，请查看代码下方以查找要添加的内容。
 
 >[!NOTE]
 >

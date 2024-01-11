@@ -4,9 +4,9 @@ title: 按需网络研讨会
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Connect技术为交互式网络研讨会提供支持，可跟踪与观看�
 
 Marketo在功能板选项卡上为按需网络研讨会提供监视统计数据，以下小组件提供了帮助：
 
-* 按需摘要：提供在事件后观看录制的访客计数（不显示）的逐日摘要。
+* 按需摘要：提供在活动结束后的指定日期观看录制的访客计数（不显示）的摘要
 
 * 按需统计数据：此构件提供有关以下项的信息：
    * 要查看的按需录制的天数 — 帮助营销人员执行操作，例如在录制30天的可用性持续时间接近结束时执行电子邮件营销活动。
