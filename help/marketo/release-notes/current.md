@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 0180723fdbe8dbf4855666b5c465ce17709afda4
+source-git-commit: 5f44192438ace61e234925a756def6ca88004cff
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '650'
 ht-degree: 2%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 2%
   </tr>
     <tr> 
    <td><strong>交互式网络研讨会的按需网络研讨会</strong>：点播网络研讨会允许您发布网络研讨会录像并跟踪其访问/观看次数。 这有助于您通过未参加网络研讨会（不作秀）但仍想了解更多详情和观看录制的注册者获得更多机会。</td> 
-   <td>已发货</td>
+   <td>今天送货</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">按需网络研讨会</a></td>
   </tr>
    <tr> 
@@ -56,7 +56,7 @@ ht-degree: 2%
    </tr>
     <tr> 
    <td><strong>筛选电子邮件机器人活动</strong>：通过允许您选择希望机器人活动识别过滤的积极程度，改进为电子邮件参与捕获机器人活动的功能。</td> 
-   <td>已发货</td>
+   <td>今天送货</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">筛选电子邮件机器人活动</a></td>
   </tr>
   <tr> 
@@ -125,7 +125,7 @@ ht-degree: 2%
    </tr>
     <tr> 
    <td><strong>聊天机器人字体颜色选项</strong>：自定义聊天机器人配置中的字体颜色。</td> 
-   <td>已发货</td>
+   <td>今天送货</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">配置</a></td>
   </tr>
   <tr> 
@@ -147,7 +147,7 @@ ht-degree: 2%
     </tr>
     <tr> 
    <td><strong>手动实时聊天终止</strong>：访客和座席现在都可以手动终止实时聊天会话。</td> 
-   <td>已发货</td>
+   <td>今天送货</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">代理收件箱</a></td>
   </tr>
   <tr> 
