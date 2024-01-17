@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+source-git-commit: c38af227139a1c34be5f59f63e8b71f63b930da5
 workflow-type: tm+mt
-source-wordcount: '9295'
+source-wordcount: '9299'
 ht-degree: 0%
 
 ---
@@ -182,9 +182,10 @@ ht-degree: 0%
          + [添加或删除产品管理员](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [添加或删除用户](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [常见问题](product-docs/administration/marketo-with-adobe-identity/faq.md)
-         + [迁移到Adobe身份](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
          + [使用Adobe ID进行用户登录](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [了解Marketo订阅和用户迁移到Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
+         + 订阅和用户迁移 {#subscription-and-user-migration}
+            + [迁移到Adobe身份](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
       + 设置 {#settings}
          + [批量导出API信息](product-docs/administration/settings/bulk-export-api-information.md)
          + [活动检查器](product-docs/administration/settings/campaign-inspector.md)
