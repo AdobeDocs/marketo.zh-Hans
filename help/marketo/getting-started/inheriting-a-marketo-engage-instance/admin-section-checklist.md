@@ -2,10 +2,10 @@
 description: 继承实例管理员核对清单 — Marketo文档 — 产品文档
 title: 继承实例管理员核对清单
 feature: Getting Started
-exl-id: 4840d1a8-306b-4b53-917d-2262ae903a42
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '1592'
+source-wordcount: '1832'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->这仅适用于登记到的订阅 [AdobeIdentity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} 在Marketo Engage>管理员>用户和角色中。
+>这仅适用于登记到的Marketo Engage订阅 [AdobeIdentity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} 在Marketo Engage>管理员>用户和角色中。
 
 <table> 
  <tbody> 
@@ -260,7 +260,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>CRM</td> 
-   <td><li>您正在同步到哪个CRM？ Salesforce? MS Dynamics？ 维耶娃？</li>
+   <td><li>您正在同步到哪个CRM？ Salesforce？ MS Dynamics？ 维耶娃？</li>
 <li>您是否正在利用 <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">自定义同步</a>？</li>
 <li>[仅限Salesforce]您的实例是否实施了自定义同步过滤器？ 
 <p><img src="assets/note-icon.png" alt="注释图标"> 注意：请联系Marketo支持以确定自定义同步筛选器或请求实施自定义同步规则。</li></td>
@@ -288,11 +288,31 @@ ht-degree: 1%
    <td>Web服务</td> 
    <td><li>是 <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP限制</a> 已启用？ 他们应该这样做吗？</li>
 <li>哪些用户/应用程序正在您的实例中进行API调用？</li>
-<li>您是否达到或接近达到API限制？ 
+<li>您是否达到或接近达到API限制？
 <br/>     如果是这样的话，请考虑增加调用次数或审核您的实例，以停止这些API调用。</li></td>
   </tr>
   <tr> 
-   <td>Marketo Sales Insight （如果适用）</td> 
+   <td>Adobe Dynamic Chat（如果适用）</td> 
+<td><li>您是否接受了 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat产品管理员</a> 邀请？ 当您的Marketo Engage实例中启用了Dynamic Chat，并且您被指定为系统管理员时，将发送电子邮件。
+<br/>     如果没有，请在收件箱中查找欢迎电子邮件，并接受邀请来设置您的Adobe ID。</li>   
+<li>您是否添加了 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">所需用户</a> Adobe Admin Console中的Dynamic Chat产品配置文件？
+<ul>
+<li>确保您的合格用户已将Dynamic Chat产品配置文件添加到其Adobe身份。 如果将“访问Dynamic Chat”角色添加到产品配置文件，则您无法在“Marketo Engage”&gt;“管理员”&gt;“用户和角色”中分配这些角色。</li>
+<li>在“产品配置文件”选项卡中，默认配置文件权限是否与您的组织需求保持一致？<br/> 
+如果没有，请编辑特定配置文件的权限。 </li>
+<li>如果您有多个订阅，您的用户是否会添加到正确的订阅？</li>
+</ul>
+</li>
+完成对“用户和角色”设置的审核后，请登录Dynamic Chat以继续审核。  
+<li>在“集成”选项卡中，是否仍启用Marketo Engage和Dynamic Chat同步？</li>
+<li>具有预定义权限的五个默认配置文件是否适用于您的组织？<br/> 
+     如果不能，您可以 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">在Dynamic Chat中编辑它们</a>. 您还可以 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">创建自定义配置文件</a> 具有自定义权限集。</li>
+<li>要向用户提供对Dynamic Chat的访问权限，您是否在“管理员”&gt;“用户和角色”&gt;“Dynamic Chat”下选中了适用的Marketo Engage角色的“访问角色”？
+<br/><img src="assets/note-icon.png" alt="注释图标"> 注意： “管理员”和“营销用户”角色应具有对Dynamic Chat的访问权限。</li>
+<li>您是否拥有 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">已连接您的Marketo Engage实例</a> Dynamic Chat？</li>
+</td>
+  </tr>
+  <td>Marketo Sales Insight （如果适用）</td> 
    <td><li>具有 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">已安装MSI包</a>？</li>
 <li>您是否拥有 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">已升级到最新版本的Sales Insight</a>？</li>
 <li>您是否已完成Sales Insight配置？ <br/>     企业/无限用户 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">单击此处</a>，专业用户 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">单击此处</a>.</li>
