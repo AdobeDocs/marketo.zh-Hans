@@ -4,7 +4,7 @@ description: 适用于Microsoft Dynamics的Marketo插件版本 — Marketo文档
 title: 适用于Microsoft Dynamics的Marketo插件版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -36,99 +36,99 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">版本</th> 
-   <th colspan="1">发行日期</th> 
+   <th>版本</th> 
+   <th>发行日期</th> 
    <th>备注</th> 
   </tr>
   <tr> 
-   <td colspan="1">5.0.2.1</td> 
-   <td colspan="1">10/13/23</td> 
-   <td colspan="1">错误修复：修复了与自定义实体同步相关的错误。</td> 
+   <td>5.0.2.1</td> 
+   <td>10/13/23</td> 
+   <td>错误修复：修复了与自定义实体同步相关的错误。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">5.0.2.0</td> 
-   <td colspan="1">03/24/23</td> 
-   <td colspan="1">错误修复：修复了阻止在MS Dynamics上合并联系人的错误。</td> 
+   <td>5.0.2.0</td> 
+   <td>03/24/23</td> 
+   <td>错误修复：修复了阻止在MS Dynamics上合并联系人的错误。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">5.0.1.8</td> 
-   <td colspan="1">03/27/23</td> 
-   <td colspan="1">错误修复：阻止插件覆盖MS Dynamics中UI元素上的其他自定义项。</td> 
+   <td>5.0.1.8</td> 
+   <td>03/27/23</td> 
+   <td>错误修复：阻止插件覆盖MS Dynamics中UI元素上的其他自定义项。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">5.0.1.1</td> 
-   <td colspan="1">02/04/21</td> 
-   <td colspan="1">支持多选选项集字段同步（此功能仅适用于V9.X及更高版本）。</td> 
+   <td>5.0.1.1</td> 
+   <td>02/04/21</td> 
+   <td>支持多选选项集字段同步（此功能仅适用于V9.X及更高版本）。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.2.0.0</td> 
-   <td colspan="1">10/16/20</td> 
-   <td colspan="1">添加了对Campaign与MS Dynamics同步的支持。</td> 
+   <td>4.2.0.0</td> 
+   <td>10/16/20</td> 
+   <td>添加了对Campaign与MS Dynamics同步的支持。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.24</td> 
-   <td colspan="1">8/22/18</td> 
-   <td colspan="1">为开箱即用型添加支持，使潜在客户能够联系Microsoft Dynamics版本9.x的流程。</td> 
+   <td>4.0.0.24</td> 
+   <td>8/22/18</td> 
+   <td>为开箱即用型添加支持，使潜在客户能够联系Microsoft Dynamics版本9.x的流程。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.23</td> 
-   <td colspan="1">6/27/18</td> 
-   <td colspan="1">错误修复：尝试安装适用于Dynamics 2013的Marketo解决方案时出现业务流程错误。</td> 
+   <td>4.0.0.23</td> 
+   <td>6/27/18</td> 
+   <td>错误修复：尝试安装适用于Dynamics 2013的Marketo解决方案时出现业务流程错误。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.22</td> 
-   <td colspan="1">9/29/17</td> 
-   <td colspan="1">错误修复：内部修订。</td> 
+   <td>4.0.0.22</td> 
+   <td>9/29/17</td> 
+   <td>错误修复：内部修订。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>4.0.0.21</p></td> 
-   <td colspan="1">11/9/16</td> 
-   <td colspan="1">错误修复：插件未订阅捕获自定义对象状态更改的事件。 此修复特定于Dynamics CRM On Premise 2011。</td> 
+   <td><p>4.0.0.21</p></td> 
+   <td>11/9/16</td> 
+   <td>错误修复：插件未订阅捕获自定义对象状态更改的事件。 此修复特定于Dynamics CRM On Premise 2011。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.20</td> 
-   <td colspan="1">7/22/16</td> 
-   <td colspan="1">错误修复：未完全捕获机会联系人角色的更新。</td> 
+   <td>4.0.0.20</td> 
+   <td>7/22/16</td> 
+   <td>错误修复：未完全捕获机会联系人角色的更新。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.19</td> 
-   <td colspan="1">6/28/16</td> 
-   <td colspan="1">错误修复：创建机会时，在marketo日志中记录了customeropportunityrole上不必要的更新事务。<p>错误修复：删除customeropportunityrole实体时记录了额外的删除事务。</td> 
+   <td>4.0.0.19</td> 
+   <td>6/28/16</td> 
+   <td>错误修复：创建机会时，在marketo日志中记录了customeropportunityrole上不必要的更新事务。<p>错误修复：删除customeropportunityrole实体时记录了额外的删除事务。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.18</td> 
-   <td colspan="1">5/31/16</td> 
-   <td colspan="1">错误修复：使自定义对象的更新和删除成为异步操作。</td> 
+   <td>4.0.0.18</td> 
+   <td>5/31/16</td> 
+   <td>错误修复：使自定义对象的更新和删除成为异步操作。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.17</td> 
-   <td colspan="1">4/8/16</td> 
-   <td colspan="1">错误修复：当商机将同步筛选器设置为NO，并且商机和联系人没有同步筛选器时，当商机符合条件时，不会为联系人和商机生成“创建日志”。</td> 
+   <td>4.0.0.17</td> 
+   <td>4/8/16</td> 
+   <td>错误修复：当商机将同步筛选器设置为NO，并且商机和联系人没有同步筛选器时，当商机符合条件时，不会为联系人和商机生成“创建日志”。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.16</td> 
-   <td colspan="1">3/29/16</td> 
+   <td>4.0.0.16</td> 
+   <td>3/29/16</td> 
    <td>错误修复：关闭同步筛选器时，记录了一个分配事件。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.15</td> 
-   <td colspan="1">3/3/16</td> 
-   <td colspan="1">错误修复：客户无法在CRM中创建潜在客户，因为登录用户没有Marketo配置权限。</td> 
+   <td>4.0.0.15</td> 
+   <td>3/3/16</td> 
+   <td>错误修复：客户无法在CRM中创建潜在客户，因为登录用户没有Marketo配置权限。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.14</td> 
-   <td colspan="1">1/18/16</td> 
-   <td colspan="1">错误修复：为普通Dynamics用户创建了访问限制以解决安全问题。</td> 
+   <td>4.0.0.14</td> 
+   <td>1/18/16</td> 
+   <td>错误修复：为普通Dynamics用户创建了访问限制以解决安全问题。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.13</td> 
-   <td colspan="1">12/30/15</td> 
+   <td>4.0.0.13</td> 
+   <td>12/30/15</td> 
    <td>错误修复： Dynamics中的更新未同步到Marketo以获取步骤和图像。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.12</td> 
-   <td colspan="1">11/12/15</td> 
-   <td colspan="1">错误修复：将同步筛选器设置为false时，潜在客户记录正在同步到Marketo。</td> 
+   <td>4.0.0.12</td> 
+   <td>11/12/15</td> 
+   <td>错误修复：将同步筛选器设置为false时，潜在客户记录正在同步到Marketo。</td> 
   </tr> 
  </tbody> 
 </table>

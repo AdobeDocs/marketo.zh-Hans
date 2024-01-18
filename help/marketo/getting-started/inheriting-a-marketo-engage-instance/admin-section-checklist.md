@@ -3,9 +3,9 @@ description: 继承实例管理员核对清单 — Marketo文档 — 产品文�
 title: 继承实例管理员核对清单
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '1832'
+source-wordcount: '1817'
 ht-degree: 1%
 
 ---
@@ -298,18 +298,17 @@ ht-degree: 1%
 <li>您是否添加了 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">所需用户</a> Adobe Admin Console中的Dynamic Chat产品配置文件？
 <ul>
 <li>确保您的合格用户已将Dynamic Chat产品配置文件添加到其Adobe身份。 如果将“访问Dynamic Chat”角色添加到产品配置文件，则您无法在“Marketo Engage”&gt;“管理员”&gt;“用户和角色”中分配这些角色。</li>
-<li>在“产品配置文件”选项卡中，默认配置文件权限是否与您的组织需求保持一致？<br/> 
+<li>在“产品配置文件”选项卡中，默认配置文件权限是否符合您组织的需求？<br/> 
 如果没有，请编辑特定配置文件的权限。 </li>
 <li>如果您有多个订阅，您的用户是否会添加到正确的订阅？</li>
 </ul>
 </li>
 完成对“用户和角色”设置的审核后，请登录Dynamic Chat以继续审核。  
-<li>在“集成”选项卡中，是否仍启用Marketo Engage和Dynamic Chat同步？</li>
+<li>您是否拥有 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">已连接您的Marketo Engage实例</a> Dynamic Chat？</li>
 <li>具有预定义权限的五个默认配置文件是否适用于您的组织？<br/> 
      如果不能，您可以 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">在Dynamic Chat中编辑它们</a>. 您还可以 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">创建自定义配置文件</a> 具有自定义权限集。</li>
 <li>要向用户提供对Dynamic Chat的访问权限，您是否在“管理员”&gt;“用户和角色”&gt;“Dynamic Chat”下选中了适用的Marketo Engage角色的“访问角色”？
 <br/><img src="assets/note-icon.png" alt="注释图标"> 注意： “管理员”和“营销用户”角色应具有对Dynamic Chat的访问权限。</li>
-<li>您是否拥有 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">已连接您的Marketo Engage实例</a> Dynamic Chat？</li>
 </td>
   </tr>
   <td>Marketo Sales Insight （如果适用）</td> 

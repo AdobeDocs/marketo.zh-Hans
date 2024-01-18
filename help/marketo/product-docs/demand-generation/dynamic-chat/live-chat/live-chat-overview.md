@@ -3,9 +3,9 @@ description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # 实时聊天概述 {#live-chat-overview}
 
 通过实时聊天，网站访客可与您的销售代理进行实时聊天对话。
+
+>[!NOTE]
+>
+>对话流和实时聊天是共享试用功能，Dynamic ChatSelect程序包上的参与的总生命周期限制为100次。 当达到此限制时，所有发布的对话流将停止触发，并且请求与实时代理进行聊天的访客将收到全局回退消息。 要增加此限制，请联系您的客户代表以讨论包升级选项。
 
 ## 添加实时聊天代理 {#add-live-chat-agents}
 

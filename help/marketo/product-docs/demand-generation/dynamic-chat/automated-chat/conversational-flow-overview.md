@@ -2,10 +2,10 @@
 description: 对话流概述 — Marketo文档 — 产品文档
 title: 对话流概述
 feature: Dynamic Chat
-exl-id: a48f78c8-77d6-4c83-9dbd-c905cd9b6b47
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c741886d-d672-471f-8902-208d25898afa
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 设计对话流，并根据特定操作（例如，单击行动号召按钮、页面加载时、页面逗留时间等）将其触发给任何访客。
 
 ![](assets/conversational-flow-overview-1.png)
+
+>[!NOTE]
+>
+>对话流和实时聊天是共享试用功能，Dynamic ChatSelect程序包上的参与的总生命周期限制为100次。 当达到此限制时，所有发布的对话流将停止触发，并且请求与实时代理进行聊天的访客将收到全局回退消息。 要增加此限制，请联系您的客户代表以讨论包升级选项。
 
 ## 对话框与对话流 {#dialogues-vs-conversational-flows}
 
