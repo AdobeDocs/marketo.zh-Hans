@@ -4,10 +4,10 @@ description: 适用于Microsoft Dynamics的Marketo插件版本 — Marketo文档
 title: 适用于Microsoft Dynamics的Marketo插件版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 7%
+source-wordcount: '464'
+ht-degree: 0%
 
 ---
 
@@ -39,11 +39,26 @@ ht-degree: 7%
    <th colspan="1">版本</th> 
    <th colspan="1">发行日期</th> 
    <th>备注</th> 
+  </tr>
+  <tr> 
+   <td colspan="1">5.0.2.1</td> 
+   <td colspan="1">10/13/23</td> 
+   <td colspan="1">错误修复：修复了与自定义实体同步相关的错误。</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.2.0</td> 
+   <td colspan="1">03/24/23</td> 
+   <td colspan="1">错误修复：修复了阻止在MS Dynamics上合并联系人的错误。</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.8</td> 
+   <td colspan="1">03/27/23</td> 
+   <td colspan="1">错误修复：阻止插件覆盖MS Dynamics中UI元素上的其他自定义项。</td> 
   </tr> 
   <tr> 
    <td colspan="1">5.0.1.1</td> 
    <td colspan="1">02/04/21</td> 
-   <td colspan="1">支持多选选项集字段同步（此功能仅适用于V9.X及更高版本）。.</td> 
+   <td colspan="1">支持多选选项集字段同步（此功能仅适用于V9.X及更高版本）。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
@@ -68,7 +83,7 @@ ht-degree: 7%
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">11/9/16</td> 
-   <td colspan="1">错误修复：插件未订阅捕获自定义对象状态更改的事件。 此修复特定于Dynamics CRM On Premise 2011。 </td> 
+   <td colspan="1">错误修复：插件未订阅捕获自定义对象状态更改的事件。 此修复特定于Dynamics CRM On Premise 2011。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
@@ -78,7 +93,7 @@ ht-degree: 7%
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>错误修复：创建机会时，在marketo日志中记录了customeropportunityrole上不必要的更新事务。 </p><p>错误修复：删除customeropportunityrole实体时记录了额外的删除事务。</p></td> 
+   <td colspan="1">错误修复：创建机会时，在marketo日志中记录了customeropportunityrole上不必要的更新事务。<p>错误修复：删除customeropportunityrole实体时记录了额外的删除事务。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
