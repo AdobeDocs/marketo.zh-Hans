@@ -3,9 +3,9 @@ description: 继承实例管理员核对清单 — Marketo文档 — 产品文�
 title: 继承实例管理员核对清单
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1846'
 ht-degree: 1%
 
 ---
@@ -293,16 +293,16 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat（如果适用）</td> 
-<td><li>您是否接受了 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat产品管理员</a> 邀请？ 当您的Marketo Engage实例中启用了Dynamic Chat，并且您被指定为系统管理员时，将发送电子邮件。
+<td>执行以下步骤需要访问 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. 如果您尚未设置Adobe ID， <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">在此处了解如何执行此操作</a>.
+<br/>
+<li>您是否接受了 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat产品管理员</a> 邀请？ 当您的Marketo Engage实例中启用了Dynamic Chat，并且您被指定为系统管理员时，将发送电子邮件。
 <br/>     如果没有，请在收件箱中查找欢迎电子邮件，并接受邀请来设置您的Adobe ID。</li>   
 <li>您是否添加了 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">所需用户</a> Adobe Admin Console中的Dynamic Chat产品配置文件？
-<ul>
 <li>确保您的合格用户已将Dynamic Chat产品配置文件添加到其Adobe身份。 如果将“访问Dynamic Chat”角色添加到产品配置文件，则您无法在“Marketo Engage”&gt;“管理员”&gt;“用户和角色”中分配这些角色。</li>
 <li>在“产品配置文件”选项卡中，默认配置文件权限是否符合您组织的需求？<br/> 
 如果没有，请编辑特定配置文件的权限。 </li>
 <li>如果您有多个订阅，您的用户是否会添加到正确的订阅？</li>
-</ul>
-</li>
+<br>
 完成对“用户和角色”设置的审核后，请登录Dynamic Chat以继续审核。  
 <li>您是否拥有 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">已连接您的Marketo Engage实例</a> Dynamic Chat？</li>
 <li>具有预定义权限的五个默认配置文件是否适用于您的组织？<br/> 
