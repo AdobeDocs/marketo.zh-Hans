@@ -4,9 +4,9 @@ description: 适用于Microsoft Dynamics的Marketo插件版本 — Marketo文档
 title: 适用于Microsoft Dynamics的Marketo插件版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
+source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
-   <td>10/13/23</td> 
+   <td>1/19/24</td> 
    <td>错误修复：修复了与自定义实体同步相关的错误。</td> 
   </tr> 
   <tr> 
@@ -53,7 +53,9 @@ ht-degree: 0%
   <tr> 
    <td>5.0.1.8</td> 
    <td>03/27/23</td> 
-   <td>错误修复：阻止插件覆盖MS Dynamics中UI元素上的其他自定义项。</td> 
+   <td>错误修复：阻止插件覆盖MS Dynamics中UI元素上的其他自定义项。
+   <p>
+   错误修复：恢复了5.0.1.1中缺失的导航图块。</td> 
   </tr> 
   <tr> 
    <td>5.0.1.1</td> 
