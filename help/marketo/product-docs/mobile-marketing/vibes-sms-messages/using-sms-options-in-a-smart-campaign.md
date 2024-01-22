@@ -2,7 +2,7 @@
 description: 在智能营销活动中使用短信选项 — Marketo文档 — 产品文档
 title: 在智能营销活动中使用短信选项
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 在智能营销活动中使用短信选项 {#using-sms-options-in-a-smart-campaign}
 
-在您之后 [创建短信消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md){target="_blank"}，您将需要在Smart Campaign中使用智能列表触发器和过滤器以获取好处。
+在您之后 [创建短信消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}，您将需要在Smart Campaign中使用智能列表触发器和过滤器以获取好处。
 
 >[!NOTE]
 >
