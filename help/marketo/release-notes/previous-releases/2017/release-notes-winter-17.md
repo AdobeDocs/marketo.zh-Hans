@@ -4,9 +4,9 @@ description: 发行说明 — 2017年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2017年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Web个性化、预测内容和电子邮件分析应用程序现在提供日语�
 
 **[按源筛选分析](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-针对特定源筛选预测内容分析 — 电子邮件、富媒体或推荐栏。
+针对特定源（电子邮件、富媒体或推荐栏）筛选预测内容分析。
 
 ![](assets/predictive-content-analytics-by-source.png)
 
@@ -85,7 +85,7 @@ Web个性化、预测内容和电子邮件分析应用程序现在提供日语�
 
 现在，开发人员通过添加新的SDK API调用（允许开发人员删除推送令牌），对推送通知的交付进行了额外控制。
 
-## [Vibes SMS LaunchPoint集成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Vibes SMS LaunchPoint集成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 使用新的筛选器选项“Member of Vibes List”改进您的定位。
 
