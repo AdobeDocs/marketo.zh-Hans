@@ -1,19 +1,17 @@
 ---
 description: 发送短信消息 — Marketo文档 — 产品文档
 title: 发送短信消息
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 6731d6fca4b6547f1f709e45f32f766e0e0e30b4
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # 发送短信消息 {#send-a-vibes-sms-message}
 
-您已 [已创建您的短信消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)，现在该发送它了。 您可以通过批量或触发营销活动来发送营销活动。
+您已 [已创建您的短信消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}，现在该发送它了。 您可以通过批量或触发营销活动来发送营销活动。
 
 >[!NOTE]
 >
@@ -77,6 +75,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [创建Vibes消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
->* Vibes流步骤
-
+>* [创建Vibes消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [在智能营销活动中使用短信选项](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

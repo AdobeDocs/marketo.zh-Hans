@@ -1,19 +1,17 @@
 ---
-description: 文档 — Marketo文档 — 产品文档
-title: 文档
-hide: true
-hidefromtoc: true
+description: 短信术语表 — Marketo文档 — 产品文档
+title: SMS术语表
 feature: Mobile Marketing
-source-git-commit: ce43fe1848bb333caa2f73fde4c6ce8403b3e1e8
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
 
 # SMS术语表 {#sms-glossary}
 
-以下是您在将Vibes SMS消息与Marketo Engage结合使用时将遇到的常用术语。
+以下是您在将Vibes SMS消息与Marketo Engage结合使用时将遇到的一些常用术语。
 
 <table>
 <thead>
