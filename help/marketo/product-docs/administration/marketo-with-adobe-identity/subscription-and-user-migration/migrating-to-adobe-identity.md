@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
+source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2270'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Marketo自助用户迁移控制台工具包含两个选项卡。
 
 管理员可以查看订阅的电子邮件验证状态、订阅中已完成电子邮件验证的用户百分比，以及标记为跳过的用户的数量。 将报告订阅中所有用户的电子邮件验证状态的状态。 管理员可以单击跳过的用户的数量，并将导航到“用户迁移”选项卡以查看跳过的用户。
 
-验证电子邮件可由管理员在迁移控制台的用户迁移选项卡和Marketo管理区域的用户和角色选项卡中重新发送，或由用户在其帐户设置中重新发送。 与用户邀请电子邮件类似，验证电子邮件中的链接将在3天后过期。 有关电子邮件验证的更多信息，请访问 [社区](nation.marketo.com) 和 [电子邮件验证文档](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
+验证电子邮件可由管理员在迁移控制台的用户迁移选项卡和Marketo管理区域的用户和角色选项卡中重新发送，或由用户在其帐户设置中重新发送。 与用户邀请电子邮件类似，验证电子邮件中的链接将在3天后过期。 有关电子邮件验证的更多信息，请访问 [社区](https://nation.marketo.com/) 和 [电子邮件验证文档](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
 >[!IMPORTANT]
 >
