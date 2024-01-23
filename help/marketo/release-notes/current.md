@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
+source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 2%
 
 ---
@@ -176,6 +176,8 @@ ht-degree: 2%
 <br/>
 
 ## 公告 {#announcements}
+
+* [2024年1月Marketo Engage发布网络研讨会](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
 
 * **同步潜在客户API更新**：和 [同步潜在客户API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}的行为已进行了轻微调整，更新 `unsubscribed` 字段。 现在，当你经过 `null` 作为值，它等于传递值 `false`.
 
