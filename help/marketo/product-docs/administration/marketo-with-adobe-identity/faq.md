@@ -3,7 +3,7 @@ description: AdobeIdentity Management常见问题解答 — Marketo文档 — �
 title: AdobeIdentity Management常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
 workflow-type: tm+mt
 source-wordcount: '1202'
 ht-degree: 0%
@@ -74,7 +74,7 @@ AdobeIdentity Management System包含三个组件。
 
 是的。 Marketo与Adobe IMS的集成支持通用ID用户和SSO。 SSO现在由Adobe IMS驱动，在Adobe Admin Console的组织级别设置。 [在此处了解详情](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **我已经登记使用Adobe身份，现在我要实施SSO。 我该怎么办？**
+**我已经登记使用Adobe身份，现在我要实施SSO。 我该怎么办？**
 
 如果您希望实施单点登录，并且您的订购已登记到Adobe身份而无需Adobe组织中实施SSO，请将票证提交到 [Marketo支持](https://nation.marketo.com/){target="_blank"} 并将主题指定为“Admin Console上的Marketo，实现SSO”。
 
