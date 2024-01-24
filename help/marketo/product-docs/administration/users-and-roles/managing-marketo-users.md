@@ -4,9 +4,9 @@ description: 管理Marketo用户 — Marketo文档 — 产品文档
 title: 管理Marketo用户
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ ht-degree: 0%
 
 ## 删除用户 {#delete-users}
 
+>[!NOTE]
+>
+>如果要删除的用户也是Dynamic Chat用户，则必须 [从Dynamic Chat中删除它们](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) 在Marketo Engage中删除它们之前，请先在Admin Console中将其删除。
+
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
    ![](assets/managing-marketo-users-10.png)
@@ -123,7 +127,7 @@ ht-degree: 0%
 
    ![](assets/managing-marketo-users-20.png)
 
-1. 您可以编辑用户信息并更改关联的角色。 单击 **[!UICONTROL 保存]**.
+1. 您可以编辑用户信息并更改关联的角色。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/managing-marketo-users-21.png)
 

@@ -4,9 +4,9 @@ description: 将单点登录添加到门户 — Marketo文档 — 产品文档
 title: 将单点登录添加到门户
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 >[!NOTE]
 >
 >**需要管理员权限**
+
+>[!IMPORTANT]
+>
+>这不适用于登记到Adobe身份的预订。 对于登记到Adobe身份的预订，单点登录在Adobe Admin Console的Adobe组织级别设置。 [在此处了解详情](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -44,7 +48,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 * **用户设置**  — 由Marketo手动配置用户。
 * **授权**  — 在Marketo中维护用户权限。
 * **OAuth支持** - Marketo当前不支持OAuth。
-* **自动用户传播**  — 也称为“准时配置”，这是指用户首次通过SAML登录时，能够在用户访问的任何网络应用程序(例如Marketo)中创建用户，并且无需手动管理操作。 目前Marketo不支持此功能。
+* **自动用户传播**  — 也称为“准时配置”，这是指用户首次通过SAML登录时，即能够在用户访问的任何网络应用程序(例如Marketo)中创建用户，并且无需手动管理操作。 目前Marketo不支持此功能。
 * **加密** - Marketo当前不支持加密。
 
 >[!NOTE]
@@ -83,7 +87,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. 单击 **[!UICONTROL 保存]**.
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
@@ -101,7 +105,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. 输入 **[!UICONTROL 错误URL]**. 这是您希望用户在登录Marketo失败时导向到的URL。 单击 **[!UICONTROL 保存]**.
+1. 输入 **[!UICONTROL 错误URL]**. 这是您希望用户在登录Marketo失败时导向到的URL。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

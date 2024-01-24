@@ -4,9 +4,9 @@ description: 创建仅API用户 — Marketo文档 — 产品文档
 title: 创建仅API用户
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Marketo如果您要通过 [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}，您将需要创建一个“仅限API用户”。 具体方法如下。
 
->[!NOTE]
+>[!IMPORTANT]
 >
->如果您在预订中创建的仅API用户已载入到Adobe标识，则您的步骤如下 [可在此处找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>如果您在预订中创建的API Only用户已登记到Adobe身份，则您的步骤不相同，并且 [可在此处找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >

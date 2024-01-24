@@ -3,10 +3,10 @@ description: AdobeIdentity Management常见问题解答 — Marketo文档 — �
 title: AdobeIdentity Management常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: eca77d8426c8f696dc35dbfb9e20abcb46e53127
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1180'
-ht-degree: 1%
+source-wordcount: '1202'
+ht-degree: 0%
 
 ---
 
@@ -48,7 +48,7 @@ AdobeIdentity Management System包含三个组件。
 
 **Marketo用户角色（位于工作区中）是否在Adobe Admin Console中进行管理？**
 
-否. 用户Marketo Engage管理（在工作区中）已完成。
+不适用。 用户Marketo Engage管理（在工作区中）已完成。
 
 **我是IMS集成订阅中的Marketo管理员，无权访问Admin Console。 如何获取访问权限？**
 
@@ -60,7 +60,7 @@ AdobeIdentity Management System包含三个组件。
 
 **在哪里可以了解有关Adobe Admin Console的更多信息？**
 
-[https://helpx.adobe.com/cn/enterprise/admin-guide.html](https://helpx.adobe.com/cn/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/cn/enterprise/admin-guide.html){target="_blank"}.
 
 **我是否仍要转到Marketo中的“管理员”部分，以便对我的帐户进行用户帐户更改？**
 
@@ -74,13 +74,17 @@ AdobeIdentity Management System包含三个组件。
 
 是的。 Marketo与Adobe IMS的集成支持通用ID用户和SSO。 SSO现在由Adobe IMS驱动，在Adobe Admin Console的组织级别设置。 [在此处了解详情](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
+* **我已经登记使用Adobe身份，现在我要实施SSO。 我该怎么办？**
+
+如果您希望实施单点登录，并且您的订购已登记到Adobe身份而无需Adobe组织中实施SSO，请将票证提交到 [Marketo支持](https://nation.marketo.com/){target="_blank"} 并将主题指定为“Admin Console上的Marketo，实现SSO”。
+
 **设备授权的工作原理是什么？**
 
 Adobe IMS当前不支持Marketo的设备授权功能等任何功能。
 
 **是否仍可以使用“在邀请用户对话框中登录”功能，使用户的登录在其电子邮件中是唯一的？**
 
-否. 订阅启用了IMS时，用户邀请工作流不再有效，因此功能不再有效。 Adobe身份要求用户的身份由其电子邮件驱动。
+不适用。 订阅启用了IMS时，用户邀请工作流不再有效，因此功能不再有效。 Adobe身份要求用户的身份由其电子邮件驱动。
 
 **对于Adobe IMS，我们是否可以选择使用Adobe ID、Enterprise ID或Federated ID？**
 
