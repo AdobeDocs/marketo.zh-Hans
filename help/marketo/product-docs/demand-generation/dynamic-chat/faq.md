@@ -3,9 +3,9 @@ description: Dynamic Chat常见问题解答 — Marketo文档 — 产品文档
 title: Dynamic Chat常见问题解答
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: a7404dc5c3f2014f53d49fd033f7e4002b9b2203
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '837'
 ht-degree: 0%
 
 ---
@@ -86,6 +86,13 @@ Dynamic Chat通过Marketo EngageSalesforce集成与Salesforce集成。
 
 是！[了解如何](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
+**“参与”或“已获得人员”等术语的含义是什么？**
+
+Dynamic Chat中使用多个术语。 其中许多的定义可在各自区域的帮助文章中找到。
+* Analytics术语，如“已获得人员” [可在此处找到](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
+* 智能列表触发器/筛选器定义 [可在此处找到](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
+* 各种流设计器信息卡的描述 [可在此处找到](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
 **我可以在没有Marketo Engage的情况下使用Dynamic Chat吗？**
 
-否. 虽然Dynamic Chat是独立于Marketo Engage的应用程序，但两者之间有着密不可分的联系。
+不适用。 虽然Dynamic Chat是独立于Marketo Engage的应用程序，但两者之间有着密不可分的联系。

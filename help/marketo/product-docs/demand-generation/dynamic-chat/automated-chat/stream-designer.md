@@ -3,10 +3,10 @@ description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 2%
+source-wordcount: '1108'
+ht-degree: 1%
 
 ---
 
@@ -24,36 +24,36 @@ ht-degree: 2%
 
 <table>
  <tr>
-  <td><strong>消息</strong></td>
+  <td style="width:25%"><strong>消息</strong></td>
   <td>当您想在不做任何响应的情况下发表声明时(例如：“您好！ 使用优惠码SAVE25”，现享所有项目现享25%优惠)。
 </td>
  </tr>
  <tr>
-  <td><strong>问题</strong></td>
+  <td style="width:25%"><strong>问题</strong></td>
   <td>当您想询问多选问题时使用，您可以提供其中可用的回答(例如：您感兴趣的车辆类型是什么？ 响应= SUV、紧凑型、卡车等)。</td>
  </tr>
  <tr>
-  <td><strong>文档</strong></td>
+  <td style="width:25%"><strong>文档</strong></td>
   <td>允许将PDF文档嵌入对话框并跟踪访客的文档参与活动（查看了多少页、是否下载了文档以及/或者使用了任何搜索词）。</td>
  </tr>
  <tr>
-  <td><strong>信息捕获</strong></td>
+  <td style="width:25%"><strong>信息捕获</strong></td>
   <td>在要收集信息（例如，姓名、电子邮件地址、职务等）时使用。 选择要将访客的响应归因到哪个字段后，您可以选择允许访客键入其响应，或从您确定的选择列表中选择选项（提示：后者有助于保持数据库清洁）。 您还可以选择用用户的响应覆盖当前为其列出的任何数据，或者完全跳过问题（如果您已经为其指定了值）。</td>
  </tr>
  <tr>
-  <td><strong>会议预订</strong></td>
+  <td style="width:25%"><strong>会议预订</strong></td>
   <td>为访客提供可用于安排会议的日期的日历。 通过循环调度法、特定代理或使用自定义规则选择日历可用性。 单击 <b>添加属性</b> 如果您要捕获代理的姓名或电子邮件地址，并将其分配给聊天访客的个人记录以供将来查询(提示：创建 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自定义字段</a> 将代理的信息映射为以便不覆盖标准Marketo Engage字段)。</td>
  </tr>
  <tr>
-  <td><strong>目标</strong></td>
+  <td style="width:25%"><strong>目标</strong></td>
   <td>这是访客不会看到的唯一一张卡。 由您来确定在特定聊天中实现目标的时间（例如：如果收集访客的电子邮件是您的目标，则将“目标”卡片放在流中信息捕获后的紧跟位置）。</td>
  </tr>
  <tr>
-  <td><strong>操作</strong></td>
+  <td style="width:25%"><strong>操作</strong></td>
   <td>与表单中的隐藏字段类似，使用操作卡，您可以填充任何潜在客户或公司属性(具有 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">字符串数据类型</a>)，其中包含您要针对潜在客户记录捕获的隐式值。 您可以在对话的任何位置添加操作卡，并使用自动填充相应值的值或本机令牌更新相应的属性。</td>
  </tr>
  <tr>
-  <td><strong>实时聊天</strong></td>
+  <td style="width:25%"><strong>实时聊天</strong></td>
   <td>当您希望访客与实时座席聊天时，可使用实时聊天卡。
   <li>实时聊天卡必须是分支中的最后一张卡。</li>
   <li>访客一旦在流中到达此信息卡就会被路由到代理，因此建议在此信息卡之前添加一个问题卡，询问访客是否愿意与实时代理聊天。</li></td>
@@ -66,23 +66,23 @@ ht-degree: 2%
 
 <table>
  <tr>
-  <td><img src="assets/stream-designer-1.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-1.png"></td>
   <td>放大，创建更大的卡片</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-2.png"></td>
   <td>缩小，创建较小的卡片</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-3.png"></td>
   <td>打开一个用于测试聊天内容的窗口（按同一按钮关闭）</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-4.png"></td>
   <td>允许您在流中搜索卡片类型或内容</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-5.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-5.png"></td>
   <td>排列您的流中的所有卡片</td>
  </tr>
 </table>
@@ -161,19 +161,19 @@ ht-degree: 2%
 
    <table>
     <tr>
-     <td><strong>类型</strong></td>
+     <td style="width:30%"><strong>类型</strong></td>
      <td>要捕获的信息类型：电话、文本、电子邮件。</td>
     </tr>
     <tr>
-     <td><strong>聊天机器人消息</strong></td>
+     <td style="width:30%"><strong>聊天机器人消息</strong></td>
      <td>访客看到的提示他们提供信息的消息。</td>
     </tr>
     <tr>
-     <td><strong>占位符</strong></td>
+     <td style="width:30%"><strong>占位符</strong></td>
      <td>帮助访客查看要输入内容的示例文本。</td>
     </tr>
     <tr>
-     <td><strong>将响应映射到属性</strong></td>
+     <td style="width:30%"><strong>将响应映射到属性</strong></td>
      <td>允许您将访客的响应同步到Marketo订阅中其人员记录中的相应字段。</td>
     </tr>
    </table>
@@ -210,4 +210,4 @@ ht-degree: 2%
 >
 >* [创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
 >* [受众标准](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [Adobe PDF 嵌入式 API](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
+>* [Adobe PDF嵌入API](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
