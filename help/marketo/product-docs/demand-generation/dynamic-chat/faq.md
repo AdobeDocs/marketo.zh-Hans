@@ -3,7 +3,7 @@ description: Dynamic Chat常见问题解答 — Marketo文档 — 产品文档
 title: Dynamic Chat常见问题解答
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -89,9 +89,10 @@ Dynamic Chat通过Marketo EngageSalesforce集成与Salesforce集成。
 **“参与”或“已获得人员”等术语的含义是什么？**
 
 Dynamic Chat中使用多个术语。 其中许多的定义可在各自区域的帮助文章中找到。
-* Analytics术语，如“已获得人员” [可在此处找到](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* 智能列表触发器/筛选器定义 [可在此处找到](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* 各种流设计器信息卡的描述 [可在此处找到](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* Analytics术语，如“已获得人员” [可在此处找到](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* 智能列表触发器/筛选器定义 [可在此处找到](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* 各种流设计器信息卡的描述 [可在此处找到](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **我可以在没有Marketo Engage的情况下使用Dynamic Chat吗？**
 

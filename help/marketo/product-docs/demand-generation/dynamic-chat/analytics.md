@@ -3,7 +3,7 @@ description: Analytics - Marketo文档 — 产品文档
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 2%
@@ -54,12 +54,12 @@ ht-degree: 2%
 <thead>
 <tbody>
   <tr>
-    <td><b>已完成</b></td>
+    <td style="width:25%"><b>已完成</b></td>
     <td>当访客到达对话中的最后一个提示时，即会发生已完成的事件 <i>或</i> 访客耗尽对话中的所有内容时。
     <br>每个访客、每个会话一个已完成事件。</td>
   </tr>
   <tr>
-    <td><b>已获取用户</b></td>
+    <td style="width:25%"><b>已获取用户</b></td>
     <td>在访客提交其电子邮件地址时发生。
     <br>每个访客、每个会话一个客户获取。</td>
   </tr>
