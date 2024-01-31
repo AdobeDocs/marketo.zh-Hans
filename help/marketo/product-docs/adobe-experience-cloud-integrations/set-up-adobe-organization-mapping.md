@@ -4,24 +4,25 @@ description: 设置Adobe组织映射 — Marketo文档 — 产品文档
 title: 设置Adobe组织映射
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # 设置Adobe组织映射 {#set-up-adobe-organization-mapping}
 
-为了与Adobe应用程序同步，例如Audience Manager、B2B CDP Marketo连接器、 [!DNL Dynamic Chat]等，您必须先在Marketo中输入Adobe IMS组织凭据。
+为了与Adobe应用程序同步，例如Audience Manager、B2B CDP Marketo连接器、 [!DNL Dynamic Chat]等，您必须首先在Marketo Engage中输入Adobe IMS组织凭据。
 
 >[!NOTE]
 >
->Marketo实例的适用于HIPAA的部署无法使用此集成。
+>* Marketo实例的适用于HIPAA的部署无法使用此集成。
+>* 为使集成正常工作，Marketo和您的其他Adobe应用程序必须位于同一组织中。
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->对于已登记到Adobe业务平台和Identity Management System的客户，与订阅关联的组织ID将被填充，并且为只读字段。
+>对于已登记到Adobe业务平台和Identity Management System的用户，与订阅关联的组织ID将被填充，并且为只读字段。 因此，本条中的步骤不适用。
 
 1. 在Marketo中，单击 **[!UICONTROL 管理员]**.
 

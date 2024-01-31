@@ -3,7 +3,7 @@ description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
 source-wordcount: '1108'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ## 流设计器卡片 {#stream-designer-cards}
 
-流设计器包含多个可添加的卡片，用于塑造聊天对话。
+流设计器包含多个卡片，您可以添加这些卡片来塑造聊天对话。
 
 <table>
  <tr>
