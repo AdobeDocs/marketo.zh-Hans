@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Marketo自助用户迁移控制台工具包含两个选项卡。
 * **用户迁移和激活**：订阅中用户的用户迁移和激活(迁移并有权使用Marketo Engage产品)状态。
 * **迁移确认**：订阅的迁移完成状态。
 
-**用户电子邮件验证**
+#### 用户电子邮件验证 {#user-email-verification}
 
 在用户电子邮件验证部分，管理员可以在迁移到Adobe身份之前，为订阅中的用户查找电子邮件验证的当前状态。
 
@@ -87,13 +87,13 @@ Marketo自助用户迁移控制台工具包含两个选项卡。
 >
 >如果Marketo Engage用户不验证其电子邮件地址，则无法将其迁移到Adobe ID，并且在迁移完成后，他们将失去对Marketo订阅的访问权限。 要重新获得访问权限，Marketo产品管理员需要将用户添加为新用户。
 
-**用户迁移和激活**
+#### 用户迁移和激活 {#user-migration-and-activation}
 
 在“用户迁移和激活”部分，管理员可以找到用户迁移总量和AdobeIdentity Management系统权利的当前状态。
 
 管理员可以查看其订阅中已迁移到Adobe ID或标记为已跳过的用户的百分比。 所有用户迁移到订阅中Adobe ID的状态都将报告状态，或标记为已跳过，将不迁移。 当用户迁移并获得Marketo Engage或跳过权限时，此状态将更新。
 
-**迁移确认**
+#### 迁移确认 {#migration-confirmation}
 
 在“迁移确认”部分中，需要管理员确认订阅的用户迁移已完成。
 
