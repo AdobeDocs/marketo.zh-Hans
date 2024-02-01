@@ -4,9 +4,9 @@ description: 更改登陆页面URL - Marketo文档 — 产品文档
 title: 更改登陆页面URL
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,17 @@ ht-degree: 0%
 
 您可以修改登陆页面的URL。 这有助于使URL更容易记住并改进SEO。
 
-1. 选择您的登陆页面。 单击 **登陆页面操作** 下拉列表，滚动到 **URL工具** 并选择 **编辑URL**.
+1. 查找并选择所需的登陆页面。
 
-   ![](assets/one.png)
+   ![](assets/change-the-landing-page-url-1.png)
+
+1. 单击 **登陆页面操作** 下拉列表，滚动到 **URL工具** 并选择 **URL设置**.
+
+   ![](assets/change-the-landing-page-url-2.png)
 
 1. 输入 **新URL**，选择丢弃或重新定向旧URL，然后单击 **保存**.
 
-   ![](assets/two.png)
+   ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
