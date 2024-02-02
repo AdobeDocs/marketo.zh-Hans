@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '718'
 ht-degree: 2%
 
 ---
@@ -176,6 +176,8 @@ ht-degree: 2%
 <br/>
 
 ## 公告 {#announcements}
+
+* **一键式列表取消订阅更新**：Gmail和Yahoo已实施若干新的发件人要求，自2024年2月1日起生效。 学习 [它们是什么以及它们如何影响您](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
 * **同步潜在客户API更新**：和 [同步潜在客户API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}的行为已进行了轻微调整，更新 `unsubscribed` 字段。 现在，当你经过 `null` 作为值，它等于传递值 `false`.
 
