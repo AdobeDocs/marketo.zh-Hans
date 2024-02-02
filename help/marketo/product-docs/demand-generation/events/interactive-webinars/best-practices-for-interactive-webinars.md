@@ -4,9 +4,9 @@ title: 交互式网络研讨会的最佳实践
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 * 自定义Pod是第三方应用程序，可用于扩展Adobe Connect聊天室的功能。 可以从以下位置下载自定义Pod： `apps.adobeconnect.com` 作为.pod或.zip文件，这些文件随后可以在“共享”面板中共享。
    * 一些流行的定制吊舱有倒计时器、时钟、石纸剪刀、Word Cloud、Titler。
-   * 单击此处观看有关如何使用自定义pod的简短视频。
+   * [单击此处](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} 观看有关如何使用自定义pod的简短视频。
 
 **隐私：要保持参与者信息的机密性，请检查以下设置：**
 

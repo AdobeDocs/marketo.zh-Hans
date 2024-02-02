@@ -3,9 +3,9 @@ description: 电子邮件验证 — Marketo文档 — 产品文档
 title: 电子邮件验证
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,19 @@ Marketo Engage正在继续推出电子邮件验证，以便为将客户迁移到
 
 >[!IMPORTANT]
 >
->上述情况的例外情况是，在仅限SSO的订阅中，管理员将收到新的用户邀请，但非管理员用户不会收到邀请。 非管理员必须完成电子邮件验证过程，以确保迁移其用户记录。 管理员可以通过单击 **重新发送电子邮件验证** 按钮。
-
-## 验证电子邮件 {#verification-email}
-
-在为订阅激活电子邮件验证时，或者由管理员/用户触发时，用户将收到以下电子邮件：
+>上述的例外是， _在仅限SSO的订阅中_，管理员将收到新的用户邀请，但非管理员用户不会收到。 不是管理员的用户还必须完成电子邮件验证过程，以确保迁移其记录。 用户可以转到以下位置向自己发送电子邮件验证链接 **管理员** > **我的帐户** > **帐户设置** 并单击 **重新发送验证**.
 
 ![](assets/email-verification-1.png)
 
->[!NOTE]
+## 验证电子邮件 {#verification-email}
+
+在为订阅激活电子邮件验证时，或者由管理员/用户触发时，用户将收到以下电子邮件。
+
+电子邮件验证成功需要活动用户会话。 用户必须先使用标识提供程序(IdP) URL登录到其Marketo订阅。 一旦会议成立，他们将 _则_ 单击 **验证电子邮件地址** 电子邮件中的链接。
+
+![](assets/email-verification-2.png)
+
+>[!TIP]
 >
 >要向未验证的用户重新发送验证电子邮件，只需选择用户的记录并单击 **[!UICONTROL 验证电子邮件]** 按钮。
 
@@ -40,15 +44,15 @@ Marketo Engage正在继续推出电子邮件验证，以便为将客户迁移到
 
 更改用户的电子邮件地址后，该地址将变为未验证状态。 将向他们发送电子邮件，以便他们重新验证。 用户可以通过单击手动重新发送该电子邮件 **[!UICONTROL 重新发送验证]**.
 
-![](assets/email-verification-2.png)
-
 ![](assets/email-verification-3.png)
+
+![](assets/email-verification-4.png)
 
 ## 用户和角色 {#users-and-roles}
 
 在 **[!UICONTROL 管理员]** > **[!UICONTROL 用户和角色]**，电子邮件状态列显示每个用户的验证状态。
 
-![](assets/email-verification-4.png)
+![](assets/email-verification-5.png)
 
 ## 多个用户登录ID {#multiple-user-login-ids}
 
@@ -58,7 +62,7 @@ Marketo Engage正在继续推出电子邮件验证，以便为将客户迁移到
 * 使用新电子邮件作为当前用户登录ID
 * 将决策延迟到下次登录
 
-  ![](assets/email-verification-5.png)
+  ![](assets/email-verification-6.png)
 
 >[!NOTE]
 >
