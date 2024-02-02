@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
 workflow-type: tm+mt
-source-wordcount: '9262'
+source-wordcount: '9267'
 ht-degree: 0%
 
 ---
@@ -701,6 +701,7 @@ ht-degree: 0%
                + [了解网络研讨会计划状态](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + 交互式网络研讨会 {#interactive-webinars}
             + [交互式网络研讨会概述](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
+            + [交互式网络研讨会的最佳实践](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [用户和许可证管理](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [创建交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [设计交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
