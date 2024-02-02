@@ -1,13 +1,12 @@
 ---
-description: 设计交互式网络研讨会 — Marketo文档 — 产品文档
-title: 设计交互式网络研讨会
-exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
+description: 交互式网络研讨会的最佳实践 — Marketo文档 — 产品文档
+title: 交互式网络研讨会的最佳实践
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
+source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1648'
 ht-degree: 0%
 
 ---
