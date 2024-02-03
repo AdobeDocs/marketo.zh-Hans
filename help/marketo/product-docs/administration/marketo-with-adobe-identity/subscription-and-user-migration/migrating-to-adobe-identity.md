@@ -3,9 +3,9 @@ description: 迁移到Adobe身份 — Marketo文档 — 产品文档
 title: 迁移到Adobe身份
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 1663f2e5fab9c5d5157d0e50d20fe527bd57d31a
+source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
 workflow-type: tm+mt
-source-wordcount: '2253'
+source-wordcount: '2230'
 ht-degree: 0%
 
 ---
@@ -167,7 +167,7 @@ Adobe要求客户在30天内完成自助迁移。 如果过期日期，则不会
 
 ### 将Marketo用户迁移到AdobeID {#migrating-marketo-users-to-adobe-ids}
 
-对于那些希望在用户迁移过程中加强控制的用户，Marketo支持对具有75个或更多用户的订阅采用自助服务方法。 Marketo产品管理员将能够选择要批量迁移的用户，或者一次性选择所有符合条件的用户。 选择用户后，管理员可以选择“立即迁移”或“计划迁移”以供日后使用，从而让管理员能够灵活控制迁移的用户以及迁移时间。 在订阅中，管理员还可以选择“迁移所有用户”。
+Marketo产品管理员将能够选择要批量迁移的用户，或者一次性选择所有符合条件的用户。 选择用户后，管理员可以选择“立即迁移”或“计划迁移”以供日后使用，从而让管理员能够灵活控制迁移的用户以及迁移时间。 在订阅中，管理员还可以选择“迁移所有用户”。
 
 例如，管理员可以选择要首先迁移的一组“超级用户”。 成功完成这些用户迁移后，他们可以根据变量（如工作区/业务或功能/角色）选择不同的用户组，以进一步按批次进行用户迁移。 或者，他们可以决定在第一个批次成功后迁移订阅中的其余用户。 目标是尽可能灵活地将AdobeID转出给用户。
 
