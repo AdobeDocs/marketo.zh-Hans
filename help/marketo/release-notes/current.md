@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,6 @@ ht-degree: 2%
    <th style="width:65%">功能</th> 
    <th style="width:10%">状态</th>
    <th style="width:25%">文档</th>
-  </tr> 
   </tr>
     <tr> 
    <td><strong>交互式网络研讨会的按需网络研讨会</strong>：点播网络研讨会允许您发布网络研讨会录像并跟踪其访问/观看次数。 这有助于您通过未参加网络研讨会（不作秀）但仍想了解更多详情和观看录制的注册者获得更多机会。</td> 
@@ -40,8 +39,6 @@ ht-degree: 2%
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-  </tr>
     <tr> 
    <td><strong>对话式登陆页面</strong>：将Dynamic Chat对话流直接嵌入到Marketo Engage登录页面，以便访客通过Dynamic Chat安排会议，而无需填写表单或与聊天机器人交互。</td> 
    <td><i>即将推出</i></td>
@@ -52,8 +49,6 @@ ht-degree: 2%
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-   </tr>
     <tr> 
    <td><strong>筛选电子邮件机器人活动</strong>：通过允许您选择希望机器人活动识别过滤的积极程度，改进为电子邮件参与捕获机器人活动的功能。</td> 
    <td>已发货</td>
@@ -63,11 +58,29 @@ ht-degree: 2%
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
    </tr>
     <tr> 
    <td><strong>批量商机导入API更新</strong>：在以下情况下，已对批量潜在客户导入API的行为进行了细微调整： <b>id</b> 指定为 <b>lookupField</b> 在创建作业期间。 如果人员记录链接到提供的 <b>id</b> 在Marketo Engage数据库中找不到，将不会进行记录更新，因为无法找到该记录。 更新后的行为现在包括增加 <b>numOfRowsFailed</b> 响应中的属性，表示在这种情况下操作失败。</td> 
+   <td>已发货</td>
+   <td>不适用</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+   </tr>
+  <tr> 
+   <td><strong>联合主办交互式网络研讨会</strong>：交互式网络研讨会的网络研讨会团队部分中的共同主机允许事件创建者将内部或外部用户添加到交互式网络研讨会项目，以共享管理和交付责任。</td> 
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">添加网络研讨会团队</a></td>
+  </tr>
+  <tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>在交互式网络研讨会中删除用户</strong>：Marketo Engage管理员现在可以在交互式网络研讨会中删除特定用户。</td> 
    <td>已发货</td>
    <td>不适用</td>
   </tr>
