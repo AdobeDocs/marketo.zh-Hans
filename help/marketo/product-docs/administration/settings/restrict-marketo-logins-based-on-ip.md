@@ -4,9 +4,9 @@ description: 基于IP限制Marketo登录 — Marketo文档 — 产品文档
 title: 基于IP限制Marketo登录
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
->[!NOTE]
+>[!IMPORTANT]
 >
->本文中的信息仅适用于login.marketo.com上的直接登录。 目前无法对单点登录(SSO)登录强制执行IP限制。
+>本文中的信息适用于直接在login.marketo.com登录的用户，不适用于使用Adobe ID进行身份验证的用户。 目前无法对单点登录(SSO)登录实施IP限制。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**条件**
+   >**定义**
    >
    >* **[!UICONTROL 允许的IP地址]**：添加允许的IP地址具有包容性。 它将包含指定的所有IP地址，并排除其他所有地址。
    >* **[!UICONTROL 阻止IP地址]**：阻止特定IP访问Marketo。
