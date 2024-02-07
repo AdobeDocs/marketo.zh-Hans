@@ -4,9 +4,9 @@ title: 最新发行说明
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
+source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 3%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>API活动元数据</strong>：用户代理、平台、浏览器和设备等元数据现在包含在中 <i>所有</i> 基于浏览器的活动，帮助通过Marketo REST API对基于浏览器的活动提供一致的见解。</td> 
+   <td><strong>API活动元数据</strong>：Web和电子邮件活动现在包含用户代理、平台和设备等元数据，这有助于通过Marketo REST API提供有关这些活动的一致见解。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
