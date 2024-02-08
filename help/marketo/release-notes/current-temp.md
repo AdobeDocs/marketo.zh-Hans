@@ -4,9 +4,9 @@ title: 最新发行说明
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
+source-git-commit: 83cd2466d7be84d3f1dceb7fae17ca0cb53d7408
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '260'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,27 @@ ht-degree: 3%
    <th style="width:10%">状态</th>
    <th style="width:25%">文档</th>
   </tr>
+  <tr> 
+   <td><strong>高级对话流逻辑</strong>：添加其他字段以供在单个选项中进行评估，以进行对话流跟进。</td> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>重新排序对话流逻辑</strong>：在Marketo EngageForms中，您现在可以重新排序对话流程选项，而不必删除并重新添加。</td> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
     <tr> 
    <td><strong>交互式网络研讨会中的自定义模板</strong>：您现在可以在交互式网络研讨会上为文件室布局创建自定义模板。</td> 
    <td><i>即将推出</i></td>
@@ -49,42 +70,6 @@ ht-degree: 3%
 </table>
 <br/>
 
-## Agile版本功能 {#agile-release-features}
-
-以下所有功能都遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请检查每个功能旁边的状态信息。
-
-### Dynamic Chat {#dynamic-chat}
-
-<table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">功能</th> 
-   <th style="width:15%">状态</th>
-   <th style="width:20%">文档</th>
-  </tr> 
-  </tr>
-    <tr> 
-   <td><strong>高级对话流逻辑</strong>：添加其他字段以供在单个选项中进行评估，以进行对话流跟进。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>重新排序对话流逻辑</strong>：您现在可以重新排序配置对话流条件逻辑的逻辑，而不必删除和读取。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-   </tr>
- </tbody> 
-</table>
-<br/>
-
 ## 公告 {#announcements}
 
-* **弃用帐户分析浏览器插件**：Adobe正在删除 [帐户分析浏览器插件](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md) 从Chrome网络商店，2024年3月18日。 现有用户：您可以继续使用插件，直到将Marketo Engage实例迁移到Adobe身份和Admin Console为止。
-
-{target="_blank"}
+* **弃用帐户分析浏览器插件**：Adobe正在删除Target帐户管理 [帐户分析浏览器插件](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} 从Chrome网络商店，2024年3月18日。 现有用户：您可以继续使用插件，直到将Marketo Engage实例迁移到Adobe身份和Admin Console为止。
