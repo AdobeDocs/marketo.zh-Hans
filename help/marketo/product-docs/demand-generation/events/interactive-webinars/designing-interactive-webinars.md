@@ -3,9 +3,9 @@ description: 设计交互式网络研讨会 — Marketo文档 — 产品文档
 title: 设计交互式网络研讨会
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ ht-degree: 0%
 1. 您的网络研讨会预览将会出现。
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!NOTE]
+   >
+   >默认情况下，“交互式网络研讨会会议室名称”字段中指示的会议室名称与您的交互式网络研讨会活动计划相同。 由于您的受众可以看到此名称，因此您可以选择更改它以反映网络研讨会本身的标题。
 
    >[!TIP]
    >
