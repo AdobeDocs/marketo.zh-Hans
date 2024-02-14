@@ -1,10 +1,8 @@
 ---
 description: 添加网络研讨会团队 — Marketo文档 — 产品文档
 title: 添加网络研讨会团队
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 15dc1923dbd8e50f0975206838b9f77b74f106b2
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -17,9 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在Adobe Connect的网络研讨会交付过程中，Marketo中的演示者和联合主机将完全映射为演示者和联合主机的角色。
+>在Adobe Connect的网络研讨会交付过程中，Marketo中的演示者和联合主机将完全映射到演示者和主持者的角色。
 
-演示者是参与提供网络研讨会体验的外部角色，而共同主持人可以充当演示者并处理网络研讨会交付的管理问题。 联合主机可以是内部主机，也可以是外部主机。 外部联合主机将无法访问Marketo中的交互式网络研讨会活动程序，但是在在Adobe Connect中进行交付期间拥有联合主机权限。 内部共同主机在交付期间将有权访问Marketo中的交互式网络研讨会活动计划以及共同主机权限。 当交互式网络研讨会计划的原始创建者不再隶属于交互式网络研讨会用户集，甚至不再是Marketo用户时，这有助于确保内部联合主持人可以掌管交互式网络研讨会事件计划。
+演示者是参与提供网络研讨会体验的外部角色，而共同主持人可以充当演示者并处理网络研讨会交付的管理问题。 联合主机可以是内部主机，也可以是外部主机。 外部联合主机将无法访问Marketo中的交互式网络研讨会活动程序，但在Adobe Connect中进行交付期间拥有主机权限。 内部联合主机在交付期间将有权访问Marketo中的交互式网络研讨会活动计划以及主机权限。 当交互式网络研讨会计划的原始创建者不再隶属于交互式网络研讨会用户集，甚至不再是Marketo用户时，这有助于确保内部联合主持人可以掌管交互式网络研讨会事件计划。
 
 >[!PREREQUISITES]
 >

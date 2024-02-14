@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '236'
 ht-degree: 3%
 
 ---
@@ -46,16 +46,6 @@ ht-degree: 3%
    <td><i>即将推出</i></td>
    </tr>
   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-    <tr> 
-   <td><strong>交互式网络研讨会中的自定义模板</strong>：您现在可以在交互式网络研讨会上为文件室布局创建自定义模板。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-   <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
