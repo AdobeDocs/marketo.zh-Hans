@@ -4,9 +4,9 @@ description: 使用通用ID进行订阅登录 — Marketo文档 — 产品文档
 title: 使用通用ID进行订阅登录
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
+source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 当您使用通用ID登录以接受第二个订阅的邀请时，您将看到选择加入登录页面。 在这里，您必须选中复选框以接受条款和条件。 接受之后，您将看到任何后续登录的常规重置页面，而不是此页面。 通过接受这些条款和条件，您可以允许Marketo将您的基本配置文件数据（如名字、姓氏和电子邮件地址）分发到托管您的订阅的其他位置的数据中心。
 
-![](assets/new-login-reduced-hands-name.png)
+![](assets/using-a-universal-id-for-subscription-login-1.png)
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 使用通用ID，您可以查看已登录的订阅，并选择您有权登录的其他订阅。 在大多数情况下，您无需注销再重新登录，即可在它们之间切换。
 
-![](assets/image2016-11-3-15-3a10-3a16.png)
+![](assets/using-a-universal-id-for-subscription-login-2.png)
 
 当您注销并重新登录时，Marketo会自动将您登录到上次登录的订阅。 然后，您可以根据需要切换到其他订阅。
 
