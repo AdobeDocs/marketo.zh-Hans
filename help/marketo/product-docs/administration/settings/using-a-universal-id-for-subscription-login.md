@@ -4,9 +4,9 @@ description: 使用通用ID进行订阅登录 — Marketo文档 — 产品文档
 title: 使用通用ID进行订阅登录
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,6 @@ ht-degree: 0%
 ## 社区配置文件 {#community-profiles}
 
 如果您有多个订阅，则可能有多个社区用户档案。 我们建议您选择与最活跃的社区用户档案关联的登录名。
-
-## 移动平台 {#mobile-platform}
-
-具有通用ID的用户可以在以下位置查看其数据： [Marketo时刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} 他们上次登录到的订阅。 您无法从Mobile平台本身更改订阅。
 
 >[!MORELIKETHIS]
 >
