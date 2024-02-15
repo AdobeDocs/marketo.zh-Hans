@@ -3,9 +3,9 @@ description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: b05ae6f1b5a63cdf5a0d5da1cb1a6a3641d973c1
+source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 ### 注意事项 {#things-to-note}
 
-* 在“接受聊天”消息超时之前，工程师有45秒的时间进行响应。 之后，访客将收到 [回退消息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. 对于将路由选项设置为的Dynamic Prime订阅者 **团队**，则会在显示回退消息之前再尝试一个代理。
+* 在“接受聊天”消息超时之前，工程师有45秒的时间进行响应。 之后，访客将收到 [回退消息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. 对于将路由选项设置为的Dynamic Chat主要订阅者 **团队**，则会在显示回退消息之前再尝试一个代理。
 * 目前每个代理最多只能进行10次实时聊天。
 
 >[!MORELIKETHIS]
