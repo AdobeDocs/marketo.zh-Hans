@@ -4,9 +4,9 @@ description: 触发自定义对象更改 — Marketo文档 — 产品文档
 title: 触发自定义对象更改
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,12 @@ ht-degree: 0%
 >
 >此功能仅可用：
 >
->* 对于位于以下网址 [!DNL Orion] 基础结构
 >* 仅用于Marketo自定义对象，而不用于通过本机同步的自定义对象。 [!DNL Salesforce] 或 [!DNL Microsoft Dynamics] 集成
 >* 作为触发器，而不是过滤器
 >
 >请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support) 启用“自定义对象更改触发器”。
 
-在智能营销活动的智能列表中，您可以在将自定义对象添加到人员或公司时触发流量操作。 您还可以创建使用 *更改* 在自定义对象中作为触发器。 例如，使用它可在课程名称更新时发送电子邮件。
+在智能营销活动的智能列表中，您可以在将自定义对象添加到人员或公司时触发流量操作。 您还可以创建使用 _更改_ 在自定义对象中作为触发器。 例如，使用它可在课程名称更新时发送电子邮件。
 
 >[!NOTE]
 >
