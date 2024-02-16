@@ -4,10 +4,10 @@ description: Microsoft Dynamics MSI的插件版本 — Marketo文档 — 产品�
 title: Microsoft Dynamics MSI的插件版本
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 8%
+source-wordcount: '400'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 8%
 >
 >示例：如果您的Dynamics CRM版本为2.0.0.20，而最新版本为2.0.0.21，则您将导入 _超过_ 版本2.0.0.20。
 
-1. 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 单击 **[!UICONTROL 下一个]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 8%
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 单击 **[!UICONTROL 下一个]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -52,66 +52,83 @@ ht-degree: 8%
 ## 版本更新 {#version-updates}
 
 <table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">发行日期</th> 
-   <th colspan="1">版本</th> 
-   <th colspan="1">备注</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">02/03/22</td> 
-   <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">Insights的帐户布局：有趣的时刻、得分更改、Web活动、电子邮件活动</td> 
+   <th>发行日期</th> 
+   <th>版本</th> 
+   <th>备注</th> 
   </tr>
   <tr> 
-   <td colspan="1">01/05/22</td> 
-   <td colspan="1">2.0.0.26</td> 
-   <td colspan="1">发送电子邮件的项目采用分数</td> 
+   <td>02/14/24</td> 
+   <td>2.00.31</td> 
+   <td>更改了匿名Web活动上的分页。
+   <p>
+   从用户视图中加密密钥信息。 导入新包后需要更改密码才能进行加密。</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/28/21</td> 
-   <td colspan="1">2.0.0.25</td> 
-   <td colspan="1">产品采用率得分指标，新的全球功能板（Web活动、电子邮件、最佳匹配）</td> 
+   <td>10/18/23</td> 
+   <td>2.00.30</td> 
+   <td>合并MSI错误日志，并删除Marketo错误实体上显示的信息通知。</td> 
   </tr>
   <tr> 
-   <td colspan="1">02/10/21</td> 
-   <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">删除对MSI解决方案启用的自动审核和文档更改</td> 
+   <td>05/19/23</td> 
+   <td>2.00.29</td> 
+   <td>修复了全局功能板上的Web活动和兴趣时刻分页问题。</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/01/20</td> 
-   <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">错误修复：为具有销售分析角色的用户分配对MSI API配置字段的访问权限</td> 
+   <td>03/23/23</td> 
+   <td>2.00.28</td> 
+   <td>已创建 <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">新建包</a> CRM的非本机连接的MSI。</td> 
+  </tr>
+  <tr> 
+   <td>02/03/22</td> 
+   <td>2.0.0.27</td> 
+   <td>Insights的帐户布局：有趣的时刻、得分更改、Web活动、电子邮件活动。</td> 
+  </tr>
+  <tr> 
+   <td>01/05/22</td> 
+   <td>2.0.0.26</td> 
+   <td>发送电子邮件的项目采用分数。</td> 
+  </tr>
+  <tr> 
+   <td>10/28/21</td> 
+   <td>2.0.0.25</td> 
+   <td>产品采用率得分指标、新的全局功能板（Web活动、电子邮件、最佳匹配）。</td> 
+  </tr>
+  <tr> 
+   <td>02/10/21</td> 
+   <td>2.0.0.22</td> 
+   <td>删除对MSI解决方案启用的自动审核和文档更改。</td> 
+  </tr>
+  <tr> 
+   <td>10/01/20</td> 
+   <td>2.0.0.21</td> 
+   <td>错误修复：为具有Sales Insight角色的用户分配对MSI API配置字段的访问权限。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">07/20/20</td> 
-   <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">错误修复：为非同步记录添加验证消息</td> 
+   <td>07/20/20</td> 
+   <td>2.0.0.20</td> 
+   <td>错误修复：为非同步记录添加验证消息。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">06/12/20</td> 
-   <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">错误修复：在MSD API配置上隐藏MSI密码密码</td> 
+   <td>06/12/20</td> 
+   <td>2.0.0.19</td> 
+   <td>错误修复：在MSD API配置上隐藏MSI密码密码。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/26/20</td> 
-   <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">错误修复：更改用于显示MSI按钮的MSI角色ID验证</td> 
+   <td>05/26/20</td> 
+   <td>2.0.0.18</td> 
+   <td>错误修复：更改用于显示MSI按钮的MSI角色ID验证。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/21/20</td> 
-   <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">错误修复：取消隐藏所有者字段，并将字段设为非必填字段</td> 
+   <td>05/21/20</td> 
+   <td>2.0.0.17</td> 
+   <td>错误修复：取消隐藏所有者字段，并将字段设为非必填字段。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">04/28/20</td> 
-   <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">错误修复：正在删除MSD CRM Sitemap设置链接依赖关系</td> 
+   <td>04/28/20</td> 
+   <td>2.0.0.16</td> 
+   <td>错误修复：正在删除MSD CRM Sitemap设置链接依赖关系。</td> 
   </tr> 
  </tbody> 
 </table>
