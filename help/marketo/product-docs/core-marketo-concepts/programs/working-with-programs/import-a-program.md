@@ -4,16 +4,20 @@ description: 导入程序 — Marketo文档 — 产品文档
 title: 导入项目群
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
 
 # 导入项目群 {#import-a-program}
 
-程序可以从一个Marketo订阅导入到另一个订阅。 例如，您可以在沙盒中创建程序，然后将其导入您的实时订阅。 此外，您还可以从导入预建程序 [Marketo项目库](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+程序可以从一个Marketo Engage订阅导入到另一个订阅。 例如，您可以在沙盒中创建程序，然后将其导入您的实时订阅。 此外，您还可以从导入预建程序 [Marketo项目库](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+
+>[!CAUTION]
+>
+>如果程序具有包含“自定义对象已更新”触发器的智能列表，将导致导入失败。 在执行以下列出的步骤之前，请从所有智能列表中删除此触发器。
 
 ## 导入项目群 {#importing-a-program}
 
@@ -27,15 +31,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >“程序导入”仅适用于启用了导入程序权限的角色的用户。 了解有关 [管理用户角色和权限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* “程序导入”仅适用于启用了导入程序权限的角色的用户。 了解有关 [管理用户角色和权限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >要将沙盒帐户连接到您的实时订阅，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* 要将沙盒帐户连接到您的实时订阅，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. 选择Marketo **[!UICONTROL 订阅]** 以及要导入的程序。 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 选择Marketo **[!UICONTROL 订阅]** 以及要导入的程序。 单击 **[!UICONTROL 下一个]**.
 
    ![](assets/import-a-program-3.png)
 
-1. 指定 **[!UICONTROL Campaign文件夹]** 用于导入的程序。 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 指定 **[!UICONTROL Campaign文件夹]** 用于导入的程序。 单击 **[!UICONTROL 下一个]**.
 
    ![](assets/import-a-program-4.png)
 
