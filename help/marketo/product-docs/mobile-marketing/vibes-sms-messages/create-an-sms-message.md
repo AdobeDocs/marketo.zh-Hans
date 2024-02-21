@@ -2,7 +2,7 @@
 description: 创建短信消息 — Marketo文档 — 产品文档
 title: 创建短信消息
 feature: Mobile Marketing
-source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
+source-git-commit: 5ec5e462d76cf6de45378cc2293bd37e7ac24510
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能可用作您的Adobe Marketo Engage帐户的加载项。 为了进行正确配置，必须通过Adobe购买它。 有关详细信息，请联系Adobe客户团队（您的客户经理）。 Marketo Vibes SMS原生集成在美国和加拿大提供。 对于其他国家/地区，可以利用通过Marketo Webhook的连接 [直接联系Vibes](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>此功能可用作您的Adobe Marketo Engage帐户的加载项。 为了进行正确配置，必须通过Adobe购买它。 有关详细信息，请联系Adobe客户团队（您的客户经理）。 Marketo Vibes SMS原生集成在美国和加拿大提供。 对于其他国家/地区，可以利用通过Marketo Webhook的连接 [直接联系Vibes](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >

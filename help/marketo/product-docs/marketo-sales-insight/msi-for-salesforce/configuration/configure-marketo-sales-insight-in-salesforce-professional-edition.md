@@ -4,9 +4,9 @@ description: 在Salesforce Professional Edition中配置Marketo Sales Insight - 
 title: 在Salesforce专业版中配置Marketo Sales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
+source-git-commit: 1ce807ce99e3551ffc29e59ed356423633dc2276
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '850'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,8 @@ ht-degree: 0%
 ## 在Marketo中配置Sales Insight {#configure-sales-insight-in-marketo}
 
 1. 打开新的浏览器窗口，以从您的Marketo帐户获取Marketo Sales Insight凭据。
-1. 转到管理区域并选择 **销售分析**.
+
+1. 转到 **管理员** 区域并选择 **销售分析**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -48,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
-1. 您将看到一个确认弹出窗口。 单击 **确定**.
+1. 您将会看到确认弹出窗口。 单击 **确定**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
@@ -76,52 +77,6 @@ ht-degree: 0%
 
 1. 输入远程站点名称（可以是“MarketoRestAPI”之类的名称）。 输入远程站点URL，它是您在Marketo的Rest API配置面板中的API URL。 单击 **保存**. 您现在已为Rest API创建了远程站点设置。
 
-## 设置Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. 登录到您的Marketo实例，然后单击 **管理员**.
-
-   ![](assets/login-admin-1.png)
-
-1. 单击 **销售分析**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33-1.png)
-
-1. 单击 **编辑API配置**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0-1.png)
-
-1. 输入 **API密钥** 并单击 **保存**.
-
-   >[!CAUTION]
-   >
-   >请勿在API密钥中使用&amp;符号。
-
-   ![](assets/image2015-5-27-16-3a36-3a56-1.png)
-
-   >[!TIP]
-   >
-   >保持这个窗口打开。 稍后您需要在Salesforce中获取此信息。
-
-1. 返回Salesforce，单击 **设置**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39-1.png)
-
-1. 搜索“远程站点”并单击 **远程站点设置** 下 **安全控制**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. 单击 **新建远程站点**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. 输入 **远程站点名称** 和 **远程站点URL**，然后单击 **保存**.
-
-   ![](assets/remote-site-1.png)
-
-   >[!NOTE]
-   >
-   >您选择您的 **远程站点名称** （此处使用MarketoAPI）。 此 **远程站点URL** 可以在步骤4中“编辑API配置”对话框的“Marketo主机”字段中找到。
-
 ## 授予对标准Salesforce对象的Sales Insight用户配置文件访问权限 {#grant-sales-insight-users-profile-access}
 
 由于Saleforce安全增强，应用程序Exchange包无法再向标准对象授予权限，需要从Salesforce用户的配置文件向相关的Salesforce对象授予访问权限。 请按照以下步骤授予必要的权限。
@@ -134,7 +89,7 @@ ht-degree: 0%
 
 1. 在“标准对象权限”部分下，启用以下对象的读取权限：潜在客户、联系人、帐户和机会。
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
 ## 自定义页面布局 {#customize-page-layouts}
 

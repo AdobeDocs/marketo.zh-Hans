@@ -4,9 +4,9 @@ description: 发行说明 — 2016年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年春季
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## [电子邮件分析](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-电子邮件分析是全新的历史汇总数据电子邮件分析体验 — 作为Project Orion的一部分，为提供闪电般的快速性能而进行了端到端重新设计。 它配有全新的用户界面设计，已针对电子邮件营销人员的需求和工作流程进行了优化。
+电子邮件分析是全新的历史汇总数据电子邮件分析体验 — 重新设计了端到端结构，实现了闪电般的快速性能。 它配有全新的用户界面设计，已针对电子邮件营销人员的需求和工作流程进行了优化。
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Marketo REST API现在支持对Marketo登陆页面、登陆页面模板和表单
 
 ## [新的高速Microsoft Dynamics同步连接器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-全新的高速动态连接器构建于Orion体系结构之上，可提供高达20倍的初始同步速度，以及高达5倍的增量同步速度。 所有新客户都将在发布日期加入此连接器，我们将在夏季发布时间范围内逐步向现有客户推出。
+新的高速Dynamics连接器提供初始同步速度提高20倍，增量同步速度提高5倍。 所有新客户都将在发布日期加入此连接器，我们将在夏季发布时间范围内逐步向现有客户推出。
 
 **刷新新字段的数据**：现在您可以随时启用新同步字段，此字段的所有数据值将从Dynamics CRM刷新到Marketo中。 不必再担心在初始设置期间必须选择所有字段。 如果禁用现有的同步字段并稍后重新启用它，则该字段的所有数据值都将从Dynamics CRM刷新到Marketo中。
 
