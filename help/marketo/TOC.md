@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: c4ac853f552142a245ba3fe754551b0f1b3cb3fa
+source-git-commit: 7d8cdb2da42769ee0326a3d585ad32a3405dfac1
 workflow-type: tm+mt
-source-wordcount: '9281'
+source-wordcount: '9287'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,9 @@ ht-degree: 0%
       + [继承实例：Design Studio核对清单](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [继承的实例：记录您的设置](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [审核核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
+   + TEMP入门区域 {#temp-getting-started-area}
+      + [管理员](getting-started/temp-getting-started-area/admin.md)
+      + [数据库](getting-started/temp-getting-started-area/database.md)
 + 产品文档 {#product-docs}
    + 其他应用程序 {#additional-apps}
       + SEO {#seo}
