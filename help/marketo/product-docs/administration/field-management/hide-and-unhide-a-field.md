@@ -4,9 +4,9 @@ description: 隐藏和取消隐藏字段 — Marketo文档 — 产品文档
 title: 隐藏和取消隐藏字段
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
+source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
    >
    >* 要隐藏字段，该字段不得与任何其他资产（包括已存档的资产）关联。 在隐藏之前，请确保从所有智能列表、流程步骤选择、表单、电子邮件等中删除该字段。
    >* 您不能隐藏标准（系统）字段。
+   >* 无法隐藏机会信息字段。
 
 1. 单击 **[!UICONTROL 隐藏]** 以确认。
 
