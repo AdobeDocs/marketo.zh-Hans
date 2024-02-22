@@ -4,9 +4,9 @@ description: '"添加 [!DNL Munchkin] 将代码跟踪到您的网站 — Marketo
 title: '"添加 [!DNL Munchkin] 将代码跟踪到您的网站”'
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Marketo的自定义JavaScript跟踪代码，称为 [!DNL Munchkin]，可跟踪�
 
 >[!NOTE]
 >
->Adobe Experience Cloud客户还可以在Adobe Launch中使用Marketo的集成来包括 [!DNL Munchkin] 脚本。 获取应用程序 [此处](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
+>Adobe Experience Cloud用户还可以使用 [Adobe Launch中的Marketo集成](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} 要包含 [!DNL Munchkin] 脚本。 如果您使用Adobe启动项， _该 [!DNL Munchkin] 脚本自动添加_，因此您无需自行添加。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
@@ -59,7 +59,7 @@ Marketo的自定义JavaScript跟踪代码，称为 [!DNL Munchkin]，可跟踪�
 
    >[!TIP]
    >
-   >对于访问量大的网站（即每月访问数十万次），我们建议您选择不跟踪匿名人员。 [了解详情](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   >对于访问量大的网站（即每月访问数十万次），我们建议您选择不跟踪匿名人员。 [了解详情](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
 
 ## 使用多个工作区时添加跟踪代码 {#add-tracking-code-when-using-multiple-workspaces}
 
