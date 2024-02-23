@@ -3,10 +3,10 @@ description: 受众标准 — Marketo文档 — 产品文档
 title: 受众标准
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '593'
-ht-degree: 2%
+source-wordcount: '597'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 ## 优先级 {#priority}
 
-优先级确定在符合多个对话框资格的情况下，潜在客户将收到哪个对话框。 它是当你第一次接触时 [创建您的对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. 您可以通过打开现有对话框并转到 **对话框详细信息** 在受众标准选项卡中。
+优先级确定在符合多个对话框资格的情况下，潜在客户将收到哪个对话框。 它是当你第一次接触时 [创建您的对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. 您可以通过打开现有对话框并转到 **[!UICONTROL 对话框详细信息]** 在受众标准选项卡中。
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 事件允许您根据访客滚动多少或他们在您的页面/网站上的时间长短来定位访客。 在以下示例中，我们的定位是在特定页面上停留超过20秒的访客。
 
-1. 抓住 **页面逗留时间** 事件并将其拖动到右侧。
+1. 抓住 **[!UICONTROL 页面逗留时间]** 事件并将其拖动到右侧。
 
    ![](assets/audience-criteria-3.png)
 
@@ -40,9 +40,9 @@ ht-degree: 2%
 
 **已知人员**
 
-有 _许多_ 属性组合以供选择。 在下面的示例中，我们以 **已知人员** 在加州一家员工超过50人的公司工作。
+有 _许多_ 属性组合以供选择。 在下面的示例中，我们定位了在加利福尼亚州一家拥有50名以上员工的公司工作的所有已知人员。
 
-1. 抓住 **人员状态** 属性，并将其拖动到右侧。
+1. 抓住 **[!UICONTROL 人员状态]** 属性，并将其拖动到右侧。
 
    ![](assets/audience-criteria-7.png)
 
@@ -50,7 +50,7 @@ ht-degree: 2%
 
    ![](assets/audience-criteria-8.png)
 
-1. 抓住 **公司规模** 归因并将其拖动到上面写着 _将属性拖放到此处_.
+1. 抓住 **[!UICONTROL 公司规模]** 归因并将其拖动到上面写着 _将属性拖放到此处_.
 
    ![](assets/audience-criteria-9.png)
 
@@ -58,7 +58,7 @@ ht-degree: 2%
    >
    >您还可以通过单击属性的 **+** 图标。
 
-1. 单击运算符下拉列表，然后选择 **大于**.
+1. 单击运算符下拉列表，然后选择 **[!UICONTROL 大于]**.
 
    ![](assets/audience-criteria-10.png)
 
@@ -70,17 +70,17 @@ ht-degree: 2%
 
 **匿名人员**
 
-有一种简便的方法可以专门定向尚未出现在数据库中的用户。 在本例中，我们以 **匿名人员** 位于纽约地区。
+有一种简便的方法可以专门定向尚未出现在数据库中的用户。 在此示例中，我们定位了位于纽约区域的所有匿名人员。
 
-1. 抓住 **人员电子邮件** 属性，并将其拖动到右侧。
+1. 抓住 **[!UICONTROL 人员电子邮件]** 属性，并将其拖动到右侧。
 
    ![](assets/audience-criteria-12.png)
 
-1. 单击运算符下拉列表，然后选择 **为空**.
+1. 单击运算符下拉列表，然后选择 **[!UICONTROL 为空]**.
 
    ![](assets/audience-criteria-13.png)
 
-1. 抓住 **推断的状态** 归因并将其拖动到上面写着 _将属性拖放到此处_.
+1. 抓住 **[!UICONTROL 推断的状态]** 归因并将其拖动到上面写着 _将属性拖放到此处_.
 
    ![](assets/audience-criteria-14.png)
 
@@ -100,7 +100,7 @@ ht-degree: 2%
 >
 >“智能列表成员”或“列表成员”条件需要Dynamic ChatPrime。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. 在成员身份下，获取 **智能列表的成员** 然后把它放到画布上。
+1. 在成员身份下，获取 **[!UICONTROL 智能列表的成员]** 然后把它放到画布上。
 
    ![](assets/audience-criteria-15a.png)
 
@@ -133,7 +133,7 @@ ht-degree: 2%
 
 **排除项**
 
-使用排除项确保您的对话框 **非** 会显示在您网站的特定页面/区域。 排除项遵循与包含项相同的格式。
+使用排除项确保您的对话框 _非_ 会显示在您网站的特定页面/区域。 排除项遵循与包含项相同的格式。
 
 ![](assets/audience-criteria-18.png)
 

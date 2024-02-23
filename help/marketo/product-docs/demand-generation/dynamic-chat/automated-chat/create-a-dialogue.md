@@ -2,11 +2,11 @@
 description: 创建对话框 — Marketo文档 — 产品文档
 title: 创建对话框
 feature: Dynamic Chat
-exl-id: 337fbb0b-9cc9-41ef-be13-b7aa68ede4be
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 5%
 
 下面是如何创建新对话框。
 
-1. 单击 **对话框**.
+1. 单击 **[!UICONTROL 对话框]**.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. 单击 **新建** 按钮。
+1. 单击 **[!UICONTROL 新建]** 按钮。
 
    ![](assets/create-a-dialogue-2.png)
 
-1. 选择一个空白对话框，或其中一个预填充模板。 输入名称（说明是可选的），更改优先级（可选），然后单击 **创建**.
+1. 选择一个空白对话框，或其中一个预填充模板。 输入名称（说明是可选的），更改优先级（可选），然后单击 **[!UICONTROL 创建]**.
 
    ![](assets/create-a-dialogue-3.png)
 

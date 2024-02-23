@@ -2,11 +2,11 @@
 description: 添加或删除聊天用户 — Marketo文档 — 产品文档
 title: 添加或删除聊天用户
 feature: Dynamic Chat
-exl-id: d6fd64d5-25ea-4190-bfb8-8ead9b89c4f1
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 4%
+source-wordcount: '223'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 4%
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. 单击 **Dynamic Chat**.
+1. 单击 **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -28,11 +28,11 @@ ht-degree: 4%
    >
    >如果您有多个Marketo订阅，请在下一步之前选择所需的订阅。
 
-1. 单击 **用户** 选项卡。
+1. 单击 **[!UICONTROL 用户]** 选项卡。
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. 单击 **添加用户** 按钮。
+1. 单击 **[!UICONTROL 添加用户]** 按钮。
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -44,7 +44,7 @@ ht-degree: 4%
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-or-remove-chat-users-7.png)
 
@@ -52,19 +52,19 @@ ht-degree: 4%
 
 如果新添加的聊天用户的Marketo角色还没有Dynamic Chat权限，请参阅以下添加方法。
 
-1. 在Marketo中，单击 **管理员** 并选择 **用户和角色**.
+1. 在Marketo中，单击 **[!UICONTROL 管理员]** 并选择 **[!UICONTROL 用户和角色]**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. 单击 **角色** 选项卡。
+1. 单击 **[!UICONTROL 角色]** 选项卡。
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. 从列表中，选择要修改的角色，然后单击 **编辑角色**.
+1. 从列表中，选择要修改的角色，然后单击 **[!UICONTROL 编辑角色]**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. 选择 **访问Dynamic Chat** 并单击 **保存**.
+1. 选择 **[!UICONTROL 访问Dynamic Chat]** 并单击 **[!UICONTROL 保存]**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -74,7 +74,7 @@ ht-degree: 4%
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. 单击 **Dynamic Chat**.
+1. 单击 **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -82,7 +82,7 @@ ht-degree: 4%
    >
    >如果您有多个Marketo订阅，请在下一步之前选择所需的订阅。
 
-1. 单击 **用户** 选项卡。
+1. 单击 **[!UICONTROL 用户]** 选项卡。
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -90,11 +90,11 @@ ht-degree: 4%
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. 单击 **删除用户** 按钮。
+1. 单击 **[!UICONTROL 删除用户]** 按钮。
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. 单击 **删除用户** 以确认。
+1. 单击 **[!UICONTROL 删除用户]** 以确认。
 
    ![](assets/add-or-remove-chat-users-17.png)
 

@@ -3,7 +3,7 @@ description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '1108'
 ht-degree: 1%
@@ -91,15 +91,15 @@ ht-degree: 1%
 
 可以为对话框创建流或 [对话式Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. 在本例中，我们将为对话框创建一个。
 
-1. 在您拥有 [已创建您的对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}，单击 **流设计器** 选项卡。
+1. 在您拥有 [已创建您的对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}，单击 **[!UICONTROL 流设计器]** 选项卡。
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放问题卡。
+1. 拖放 [!UICONTROL 问题] 卡片。
 
    ![](assets/stream-designer-7.png)
 
-1. 在“聊天机器人响应”下，说出您想要如何回答的问题。
+1. 下 [!UICONTROL 聊天机器人响应]问你喜欢什么吧。
 
    ![](assets/stream-designer-8.png)
 
@@ -111,51 +111,51 @@ ht-degree: 1%
    >
    >默认情况下，Poke设置为on，它会在聊天图标旁边显示开始的问题，访客无需单击该图标即可查看。 Poke仅在对话的第一张卡片中可用。
 
-1. 输入用户响应并单击 **保存**.
+1. 输入用户响应并单击 **[!UICONTROL 保存]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**编辑存储的值** 对于希望为问题卡中的映射属性在数据库中存储与聊天机器人中向访客显示的值不同的值的人来说，这是一个可选步骤（例如：访客看到“搜索引擎优化”，即将该值存储为“SEO”）。
+   >**[!UICONTROL 编辑存储的值]** 对于希望为问题卡中的映射属性在数据库中存储与聊天机器人中向访客显示的值不同的值的人来说，这是一个可选步骤（例如：访客看到“搜索引擎优化”，即将该值存储为“SEO”）。
 
 1. 对于“是”，我们需要安排约会，因此在该选项的下方将拖到Appointment Scheduler卡。
 
    ![](assets/stream-designer-10.png)
 
-1. 在右侧的列中，单击 **保存**.
+1. 在右侧的列中，单击 **[!UICONTROL 保存]**.
 
    ![](assets/stream-designer-11.png)
 
-1. 由于这是目标，因此请将目标卡拖动到约会计划程序下。
+1. 由于这是目标，因此请拖动 [!UICONTROL 目标] 卡在约会计划程序下方。
 
    ![](assets/stream-designer-12.png)
 
-1. 命名您的目标（或选择现有目标），然后单击 **保存**.
+1. 命名您的目标（或选择现有目标），然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/stream-designer-13.png)
 
-1. 对于“否”，我们希望查看他们是否将加入邮件列表，因此在该选项下拖动到另一个问题卡上。
+1. 对于“否”，我们希望查看他们是否将加入邮件列表，因此在该选项下拖动到另一个选项上 [!UICONTROL 问题] 卡片。
 
    ![](assets/stream-designer-14.png)
 
-1. 输入您的响应，并为访客添加响应选项。 单击 **保存** 完成时。
+1. 输入您的响应，并为访客添加响应选项。 单击 **[!UICONTROL 保存]** 完成时。
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >您可以通过单击 **添加响应**.
+   >您可以通过单击 **[!UICONTROL 添加响应]**.
 
 1. 在“是”响应下方，将拖到“信息捕获”卡上，以便收集访客的电子邮件。
 
    ![](assets/stream-designer-16.png)
 
-1. 单击 **类型** 下拉并选择 **电子邮件**.
+1. 单击 **[!UICONTROL 类型]** 下拉并选择 **[!UICONTROL 电子邮件]**.
 
    ![](assets/stream-designer-17.png)
 
-1. 输入聊天机器人消息和占位符。 确保将该属性映射到Marketo中的相应字段，然后单击 **保存**.
+1. 输入聊天机器人消息和占位符。 确保将该属性映射到Marketo中的相应字段，然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -178,11 +178,11 @@ ht-degree: 1%
     </tr>
    </table>
 
-1. 由于收集其电子邮件是一个目标，因此请将“目标”卡片拖动到“信息捕获”下方。
+1. 由于收集其电子邮件是一个目标，因此请拖动 [!UICONTROL 目标] 信息捕获下的信息卡。
 
    ![](assets/stream-designer-19.png)
 
-1. 命名您的目标（或选择现有目标），然后单击 **保存**.
+1. 命名您的目标（或选择现有目标），然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/stream-designer-20.png)
 
@@ -190,21 +190,21 @@ ht-degree: 1%
 
    ![](assets/stream-designer-21.png)
 
-1. 在本例中，我们将创建一个新文档。 为其命名，输入已托管PDF的URL，然后单击 **保存**.
+1. 在本例中，我们将创建一个新文档。 为其命名，输入已托管PDF的URL，然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/stream-designer-22.png)
 
-1. 选择 **预览** 切换可预览您的对话框。
+1. 选择 **[!UICONTROL 预览]** 切换可预览您的对话框。
 
    ![](assets/stream-designer-23.png)
 
-1. 准备好激活对话框时，请单击 **Publish**.
+1. 准备好激活对话框时，请单击 **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->在单击“发布”之前，请记住确保 [已输入您的目标URL](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>单击之前 [!UICONTROL Publish]，请记住确保 [已输入您的目标URL](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

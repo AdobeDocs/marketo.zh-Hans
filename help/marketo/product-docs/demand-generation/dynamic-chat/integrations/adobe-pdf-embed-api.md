@@ -2,10 +2,10 @@
 description: Adobe PDF嵌入API - Marketo文档 — 产品文档
 title: Adobe PDF 嵌入式 API
 feature: Dynamic Chat
-exl-id: 0c8c4e7c-6576-40b6-b96b-cfd0bae5d27d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 5%
 
 1. 导航到 [Adobe PDF嵌入API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. 单击 **获取凭据**.
+1. 单击 **[!UICONTROL 获取凭据]**.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 5%
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. 输入凭据，接受条款，然后单击 **创建凭据**.
+1. 输入凭据，接受条款，然后单击 **[!UICONTROL 创建凭据]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,15 +32,15 @@ ht-degree: 5%
    >
    >您需要使用将在其上托管聊天机器人的域(例如，如果您在mycompany.com上托管该聊天机器人，请确保在步骤4中输入)。
 
-1. 单击 **复制** 以复制您的客户端ID。
+1. 单击 **[!UICONTROL 复制]** 以复制您的客户端ID。
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. 返回Dynamic Chat，单击 **集成**. 在Adobe PDF Embed API信息卡中，单击 **激活**.
+1. 返回Dynamic Chat，单击 **[!UICONTROL 集成]**. 在Adobe PDF Embed API信息卡中，单击 **[!UICONTROL 激活]**.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. 粘贴您的客户端ID并单击 **保存**.
+1. 粘贴您的 [!UICONTROL 客户端ID] 并单击 **[!UICONTROL 保存]**.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 

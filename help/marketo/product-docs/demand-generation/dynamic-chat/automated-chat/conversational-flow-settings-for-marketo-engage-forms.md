@@ -2,8 +2,8 @@
 description: Marketo EngageForms的对话流设置 — Marketo文档 — 产品文档
 title: Marketo EngageForms的对话流设置
 feature: Dynamic Chat
-exl-id: 28d509c8-e967-43fa-ba80-c6619c647144
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -22,19 +22,19 @@ ht-degree: 0%
 
    ![](assets/conversational-flow-settings-1.png)
 
-1. 单击 **编辑草稿**.
+1. 单击 **[!UICONTROL 编辑草稿]**.
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. 在表单编辑页面上，单击 **表单设置**，则 **设置**.
+1. 在表单编辑页面上，单击 **[!UICONTROL 表单设置]**，则 **[!UICONTROL 设置]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. 单击 **对话流量设置** 要启用的滑块。
+1. 单击 **[!UICONTROL 对话流量设置]** 要启用的滑块。
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. 此时将显示“默认选择”模式窗口。 选择您的首选项。 在本例中，我们选择 **使用对话流**.
+1. 此时将显示“默认选择”模式窗口。 选择您的首选项。 在本例中，我们选择 **[!UICONTROL 使用对话流]**.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,6 +54,6 @@ ht-degree: 0%
    >
    >在提交表单之前，访客的浏览器必须是以已知人员身份使用Cookie，以便有资格成为静态/智能列表的成员。
 
-1. 单击 **完成** 完成时。
+1. 单击 **[!UICONTROL 完成]** 完成时。
 
    ![](assets/conversational-flow-settings-8.png)

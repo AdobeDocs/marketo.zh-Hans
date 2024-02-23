@@ -3,9 +3,9 @@ description: 最佳匹配 — Marketo文档 — 产品文档
 title: 最佳匹配
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # 最佳匹配 {#best-bets}
 
 最佳匹配选项卡包括基于优先级的所有热门商机的列表，使用紧急程度和相对分数计算。
+
+>[!CAUTION]
+>
+>请注意不要超过1,000个最佳匹配，否则页面可能会停止加载。 如果发生这种情况，请使用过滤器来缩小最佳匹配总数。
 
 **筛选器选项**
 
