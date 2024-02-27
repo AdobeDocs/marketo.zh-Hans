@@ -4,9 +4,9 @@ description: 将单点登录添加到门户 — Marketo文档 — 产品文档
 title: 将单点登录添加到门户
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: 48f280eef0fb5762b8032307c5442906f7ceaae3
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
 >[!NOTE]
 >
->您是 [!DNL Microsoft Azure] 用户？ 查看他们的 [集成教程](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
+>您是 [!DNL Microsoft Azure] 用户？ 查看他们的 [集成教程](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. 仅供参考，其教程的步骤5c中存在打字错误。 请使用 `https://<munchkinid>.mktoweb.com`， **_非_** `https://<munchkinid>.marketo.com`.
 
 ## 如何发送请求 {#how-to-send-the-request}
 
