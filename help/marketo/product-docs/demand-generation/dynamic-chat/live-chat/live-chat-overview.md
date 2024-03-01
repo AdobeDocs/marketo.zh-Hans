@@ -3,7 +3,7 @@ description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -72,7 +72,9 @@ ht-degree: 0%
 
 ## 实时聊天通知 {#live-chat-notifications}
 
-为了接收用于实时聊天的浏览器通知，所有实时聊天代理必须在出现提示时启用Dynamic Chat的浏览器通知。
+>[!IMPORTANT]
+>
+>为了接收用于实时聊天的浏览器通知，所有实时聊天代理必须在出现提示时启用Dynamic Chat的浏览器通知。
 
 ### 启用通知 {#enabling-notifications}
 
