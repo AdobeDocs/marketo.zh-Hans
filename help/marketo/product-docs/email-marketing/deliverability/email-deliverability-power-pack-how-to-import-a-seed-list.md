@@ -4,9 +4,9 @@ description: 电子邮件投放能力增强 — 如何导入种子列表 — Mar
 title: 电子邮件可投放性功能包 — 如何导入种子列表
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 种子列表是多个邮箱提供商(包括Google应用程序、Hotmail、Yahoo！等)的电子邮件帐户列表，用于估计收件箱投放率与垃圾邮件文件夹投放率。 下面是如何将该列表放入您的Marketo实例。
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+>本文适用于目前拥有活跃珠穆朗玛峰订阅的用户。 如果您使用“Inbox Tracker by Bird”（以前称为MessageBird），则您的教程 [可在此处找到](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## 导入种子列表 {#import-a-seed-list}
 

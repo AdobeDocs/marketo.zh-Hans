@@ -1,20 +1,24 @@
 ---
-description: 收件箱跟踪器Tutorials- Marketo文档 — 产品文档
+description: 测试、监控和了解Marketo EngageEmail Deliverability Powerpack的可投放性问题。
 title: 收件箱跟踪器Tutorials
 feature: Deliverability
-exl-id: b7c0c315-5255-4b16-b50d-241f018a7da9
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# 收件箱跟踪器Tutorials {#inbox-tracker-tutorials.md}
+# 收件箱跟踪器Tutorials {#inbox-tracker-tutorials}
 
-测试、监控和了解由MessageBird的收件箱跟踪器平台提供支持的Marketo电子邮件投放能力Powerpack的投放能力问题。 收件箱跟踪器是一个应用程序，它将项目的智能与电子邮件渲染/收件箱测试的预见性相结合，以最大限度地提高电子邮件的性能。
+测试、监控和了解由Bird（以前称为MessageBird）收件箱跟踪器平台提供支持的Marketo Engage电子邮件投放能力Powerpack的投放问题。 收件箱跟踪器是一个应用程序，它将项目的智能与电子邮件渲染/收件箱测试的预见性相结合，以最大限度地提高电子邮件的性能。
 
-MessageBird已创建了多个培训视频来帮助您充分利用这个强大的工具。
+>[!AVAILABILITY]
+>
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+
+Bird已创建多个培训视频来帮助您充分利用这个强大的工具。
 
 ## 收件箱跟踪器概述 {#inbox-tracker-overview}
 
