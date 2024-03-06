@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099077
-description: 电子邮件投放能力增强 — 如何导入种子列表 — Marketo文档 — 产品文档
+description: 了解如何将种子列表导入Marketo Engage实例。
 title: 电子邮件可投放性功能包 — 如何导入种子列表
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # 电子邮件可投放性功能包：如何导入种子列表 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-种子列表是多个邮箱提供商(包括Google应用程序、Hotmail、Yahoo！等)的电子邮件帐户列表，用于估计收件箱投放率与垃圾邮件文件夹投放率。 下面是如何将该列表放入您的Marketo实例。
+种子列表是多个邮箱提供商(包括Google应用程序、Hotmail、Yahoo！等)的电子邮件帐户列表，用于估计收件箱投放率与垃圾邮件文件夹投放率。 以下是将该列表导入Marketo Engage实例的步骤。
 
 >[!IMPORTANT]
 >

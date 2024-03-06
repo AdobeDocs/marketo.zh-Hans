@@ -4,7 +4,7 @@ description: 将Google客户匹配项作为LaunchPoint服务添加 — Marketo�
 title: 将Google客户匹配项添加为LaunchPoint Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->由于最近更新了Google Ads API，Adobe和Google之间的同步功能已暂时禁用。  Adobe目前正在审查Google与更新相关的要求。
+>由于最近更新了Google Ads API，Adobe和Google之间的同步功能已暂时禁用。 Adobe目前正在审查Google与更新相关的要求。
 
 >[!NOTE]
 >
