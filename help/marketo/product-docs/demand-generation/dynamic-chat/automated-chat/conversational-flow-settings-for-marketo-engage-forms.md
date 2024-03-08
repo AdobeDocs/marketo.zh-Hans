@@ -3,9 +3,9 @@ description: Marketo EngageForms的对话流设置 — Marketo文档 — 产品�
 title: Marketo EngageForms的对话流设置
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. 选择所需的对话流程和投放类型。
+1. 选择所需的 **[!UICONTROL 对话流]** 和 **[!UICONTROL 投放类型]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,14 +46,26 @@ ht-degree: 0%
    >
    >[了解有关对话流的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **可选步骤**：您可以单击添加选择以定位符合特定标准的聊天访客。
+   **可选步骤**：您可以单击 **[!UICONTROL 添加选项]** 定位符合特定条件的聊天访客。 最多可以为10个选项添加9个选项。
 
    ![](assets/conversational-flow-settings-7.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >在提交表单之前，访客的浏览器必须是以已知人员身份使用Cookie，以便有资格成为静态/智能列表的成员。
 
-1. 单击 **[!UICONTROL 完成]** 完成时。
+   **可选步骤**：单击 **+** 在每个步骤中签名以添加更多属性，从而缩小目标受众范围（可用的属性是您为表单选择的字段）。 在此示例中，我们的目标是加利福尼亚州的Adobe技术撰稿人。
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >将标准逻辑设置为“全部”意味着必须符合每个属性才能符合条件。 标准逻辑设置为“任意”表示任意一个属性都将足够。
+
+   **可选步骤**：如果添加两个或更多选项，则可以通过单击它们的上/下箭头来重新排列它们。
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. 单击 **[!UICONTROL 完成]** 完成时。
+
+   ![](assets/conversational-flow-settings-10.png)

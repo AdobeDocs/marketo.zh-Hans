@@ -4,9 +4,9 @@ description: 发行计划 - Marketo 文档 - 产品文档
 title: 发布计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: ed4c454c89b5579649b0a1184a29ed2dcdfff8f8
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 5%
 
 ---
@@ -40,12 +40,12 @@ _发行日期/功能可能会发生更改_
   <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">’24年1月</a></td>
    <td>2024年1月12日</td>
-   <td>进行中</td>
+   <td>已发货</td>
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">’24年3月</a></td>
    <td>2024年3月8日</td>
-   <td>按计划</td>
+   <td>进行中</td>
   </tr>
   <tr> 
    <td>’24年4月</td>
