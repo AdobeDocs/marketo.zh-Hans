@@ -4,9 +4,9 @@ description: Salesforce诊断 — Marketo文档 — 产品文档
 title: Salesforce诊断
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1427'
+source-wordcount: '1354'
 ht-degree: 0%
 
 ---
@@ -154,7 +154,7 @@ ht-degree: 0%
 
 **错误：** 无效类型\
 **类别：** 访问/验证\
-**消息：** CreatedDate， （从任务中选择ID）来自潜在客户，其中Email=&#39;emailid&#39;^ERROR位于行:1:Column：53sObject类型“潜在客户”不受支持。 如果您尝试使用自定义对象，请确保在实体名称后附加“__c”。 请参考您的WSDL或描述调用以获取适当的名称
+**消息：** CreatedDate， （从任务中选择ID）来自潜在客户，其中Email=&#39;emailid&#39;^ERROR `Row:1:Column:53sObject` 不支持类型“Lead”。 如果您尝试使用自定义对象，请确保在实体名称后附加“__c”。 请参考您的WSDL或描述调用以获取适当的名称
 **正在发生的情况：** 我们正在尝试从Salesforce查询用户无权访问的对象类型。 这很可能与用户无权访问Lead对象有关。\
 **疑难解答步骤：** 授予对Salesforce中Lead对象的“读取”和“更新”访问权限，或者关闭对Lead记录的电子邮件日志记录和最近活动日志记录。
 

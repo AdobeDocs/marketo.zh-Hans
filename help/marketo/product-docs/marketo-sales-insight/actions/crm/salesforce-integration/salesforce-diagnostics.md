@@ -3,9 +3,9 @@ description: Salesforce诊断 — Marketo文档 — 产品文档
 title: Salesforce诊断
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1445'
+source-wordcount: '1374'
 ht-degree: 0%
 
 ---
@@ -143,7 +143,7 @@ ht-degree: 0%
 
 **错误：** 无效类型\
 **类别：** 访问/验证\
-**消息：** CreatedDate， （从任务中选择ID）来自潜在客户，其中Email=&#39;emailid&#39;^ERROR位于行:1:Column：53sObject类型“潜在客户”不受支持。 如果您尝试使用自定义对象，请确保在实体名称后附加“__c”。 请参考您的WSDL或描述调用以获取适当的名称
+**消息：** CreatedDate， （从任务中选择ID）来自潜在客户，其中Email=&#39;emailid&#39;^ERROR `Row:1:Column:53sObject` 不支持类型“Lead”。 如果您尝试使用自定义对象，请确保在实体名称后附加“__c”。 请参考您的WSDL或描述调用以获取适当的名称
 **正在发生的情况：** 我们正在尝试从Salesforce查询用户无权访问的对象类型。 这很可能与用户无权访问Lead对象有关。\
 **疑难解答步骤：** 授予对Salesforce中Lead对象的“读取”和“更新”访问权限，或者关闭对Lead记录的电子邮件日志记录和最近活动日志记录。
 
@@ -180,7 +180,8 @@ ht-degree: 0%
 
 **错误：** TXN_SECURITY_NO_ACCESS\
 **类别：** 访问/验证\
-**消息：** 由于组织中存在安全策略，不允许执行您请求的操作。 请联系您的管理员。**正在发生的情况：** 已设置某种安全限制 — 请参阅https://developer.salesforce.com/forums/?id=“记录ID”\
+**消息：** 由于组织中存在安全策略，不允许执行您请求的操作。 请与管理员联系。
+**正在发生的情况：** 已设置某种安全限制 — 请参阅https://developer.salesforce.com/forums/?id=“记录ID”\
 **疑难解答步骤：** 与Salesforce管理员交谈，了解具体限制是什么。
 
 **错误：** UNABLE_TO_LOCK_ROW\
