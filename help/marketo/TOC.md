@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: abfdda5b42df9d01e1ad723c58fe6128048d4023
 workflow-type: tm+mt
-source-wordcount: '9288'
+source-wordcount: '9282'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,7 @@ ht-degree: 0%
    + TEMP入门区域 {#temp-getting-started-area}
       + [管理员](getting-started/temp-getting-started-area/admin.md)
       + [数据库](getting-started/temp-getting-started-area/database.md)
+      + [营销活动](getting-started/temp-getting-started-area/marketing-activities.md)
 + 产品文档 {#product-docs}
    + 其他应用程序 {#additional-apps}
       + SEO {#seo}
@@ -108,7 +109,6 @@ ht-degree: 0%
          + [下一代Munchkin跟踪常见问题解答](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [将单点登录添加到门户](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [将Webex添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
-         + [通过Facebook作为LaunchPoint服务添加工作区](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [将缩放添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [配置SOAP API设置](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [将BrightTALK连接到Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
