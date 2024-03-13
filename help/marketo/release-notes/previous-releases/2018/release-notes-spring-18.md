@@ -4,9 +4,9 @@ description: 发行说明 — 2018年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2018年春季
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -76,10 +76,6 @@ ht-degree: 0%
 设置ContentAI优化算法的目标以推动更多查看、点击或转化。
 
 ## 集成和API {#integration-and-apis}
-
-[facebook工作区集成](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-将系统通知和有趣的时间发送到Facebook Workplace。
 
 [静态列表API](https://developers.marketo.com/rest-api/assets/static-lists/)
 
