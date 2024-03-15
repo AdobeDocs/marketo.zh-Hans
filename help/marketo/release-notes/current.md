@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 4%
+source-wordcount: '296'
+ht-degree: 3%
 
 ---
 
@@ -60,5 +60,7 @@ ht-degree: 4%
 <br/>
 
 ## 公告 {#announcements}
+
+* **获取项目成员API修复**：最近进行了更改以更正的行为 [获取计划成员](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} 端点。 以前，当使用更新的At过滤器类型指定日期范围时，在该范围内更新的项目成员资格记录可能未包含在响应中。 此外，指定日期范围之外更新的项目成员资格记录可能会错误地包含在响应中。 这两个问题均已得到解决。
 
 * **弃用帐户分析浏览器插件**：Adobe正在删除Target帐户管理 [帐户分析浏览器插件](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
