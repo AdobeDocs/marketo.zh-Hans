@@ -4,7 +4,7 @@ title: 新建区域设计工作室
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 4%
@@ -141,7 +141,7 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>文件夹结构</td>
-    <td><li>为每种类型的资源创建子文件夹并 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">组织全局资产</a>（即电子邮件模板、电子邮件、表单、图像和文件、登陆页面和登陆页面模板）可正确且轻松地搜索。</li></td>
+    <td><li>为每种类型的资源创建子文件夹并 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">组织全局资产</a> （即电子邮件模板、电子邮件、表单、图像和文件、登陆页面和登陆页面模板）可正确且轻松地搜索。</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">使用文件夹组织图像和文件</a></td>
   </tr>
 </tbody>

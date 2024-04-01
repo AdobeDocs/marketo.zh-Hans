@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 3%
+source-wordcount: '380'
+ht-degree: 2%
 
 ---
 
@@ -68,3 +68,70 @@ ht-degree: 3%
  </tbody> 
 </table>
 <br/>
+
+## 公告 {#announcements}
+
+* **活动API更新**： 4月26日，我们将向基于Web和基于电子邮件的活动添加几个新属性，当您使用检索活动时，将返回这些属性 [MARKETO REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} 端点可查看每个活动的属性详细信息。
+
+**基于Web的活动**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">活动</th> 
+   <th style="width:70%">新添加的属性</th>
+   </tr>
+  <tr> 
+   <td>访问网页</td> 
+   <td>浏览器、平台、设备</td>
+  </tr>
+   <tr> 
+   <td>填写表单</td> 
+   <td>浏览器、平台、设备</td>
+  </tr>
+  <tr> 
+   <td>单击链接</td> 
+   <td>浏览器、平台、设备</td>
+  </tr>
+ </tbody> 
+</table>
+
+**基于电子邮件的活动**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">活动</th> 
+   <th style="width:70%">新添加的属性</th>
+  </tr>
+   <tr> 
+   <td>发送电子邮件</td> 
+   <td>浏览器、平台、设备、用户代理</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>电子邮件已送达</td> 
+   <td>浏览器、平台、设备、用户代理</td>
+  </tr>
+   <tr> 
+   <td>电子邮件已退回</td> 
+   <td>浏览器、平台、设备、用户代理</td>
+  </tr>
+  <tr> 
+   <td>取消订阅电子邮件</td> 
+   <td>浏览器、平台、设备</td>
+  </tr>
+  <tr> 
+   <td>打开电子邮件</td> 
+   <td>浏览器</td>
+  </tr>
+   <tr> 
+   <td>单击电子邮件</td> 
+   <td>浏览器</td>
+  </tr>
+  <tr> 
+   <td>电子邮件软退回</td> 
+   <td>浏览器、平台、设备、用户代理</td>
+  </tr>
+ </tbody> 
+</table>
