@@ -3,9 +3,9 @@ description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
+source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -156,7 +156,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-17.png)
 
-1. 输入聊天机器人消息和占位符。 确保将该属性映射到Marketo中的相应字段，然后单击 **[!UICONTROL 保存]**.
+1. 输入聊天机器人消息和占位符。 确保将属性映射到Marketo Engage中的相应字段，然后单击 **[!UICONTROL 保存]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -175,7 +175,7 @@ ht-degree: 1%
     </tr>
     <tr>
      <td style="width:30%"><strong>将响应映射到属性</strong></td>
-     <td>允许您将访客的响应同步到Marketo订阅中其人员记录中的相应字段。</td>
+     <td>允许您将访客的响应同步到您Marketo Engage订阅中其人员记录中的相应字段。</td>
     </tr>
    </table>
 
