@@ -2,7 +2,8 @@
 description: 发行说明 — 2024年3月 — Marketo文档 — 产品文档
 title: 发行说明 — 2024年3月
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
+source-git-commit: fd92f5307880019f54bb2f1778093c110a53ed2c
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -62,4 +63,4 @@ ht-degree: 0%
 
 * **获取项目成员API修复**：最近进行了更改以更正的行为 [获取计划成员](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} 端点。 以前，在使用 `updatedAt` 筛选器类型要指定日期范围，该范围内更新的计划成员资格记录可能未包含在响应中。 此外，指定日期范围之外更新的项目成员资格记录可能会错误地包含在响应中。 这两个问题均已得到解决。
 
-* **弃用帐户分析浏览器插件**：Adobe正在删除Target帐户管理 [帐户分析浏览器插件](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
+* **弃用帐户分析浏览器插件**：Adobe正在删除Target帐户管理 [帐户分析浏览器插件](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on April 8, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
