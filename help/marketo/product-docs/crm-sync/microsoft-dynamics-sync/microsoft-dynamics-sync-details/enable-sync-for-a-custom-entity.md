@@ -4,9 +4,9 @@ description: 为自定义实体启用同步 — Marketo文档 — 产品文档
 title: 为自定义实体启用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 28d8dc35b3f265728c31516e3082fd55a83a045f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,11 @@ ht-degree: 0%
    >
    >要启用或禁用自定义实体，必须暂时禁用全局同步。
 
-1. 在数据库管理下，单击 **[!UICONTROL Dynamics实体同步]** 链接。
+1. 在数据库管理下，单击 **[!UICONTROL Dynamics实体同步]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. 单击 **[!UICONTROL 同步架构]** 链接。
+1. 单击 **[!UICONTROL 同步架构]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. 选择要同步或用作的字段 [约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} 和/或触发智能列表。 完成后，单击 **[!UICONTROL 启用同步]**.
+1. 选择要同步或用作的字段 [约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 和/或触发器(对于添加的记录， _非_ 更新)。 完成后，单击 **[!UICONTROL 启用同步]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    >
    >在同步过程中，您可能会注意到“[!UICONTROL 动态实体同步]“项目从导航树中消失。 这是预期行为，同步完成后它将重新显示。
 
-1. 现在，实体上有一个绿色复选标记。
+1. 实体现在具有绿色复选标记。
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
