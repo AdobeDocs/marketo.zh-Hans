@@ -4,9 +4,9 @@ description: 为自定义实体启用同步 — Marketo文档 — 产品文档
 title: 为自定义实体启用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 28d8dc35b3f265728c31516e3082fd55a83a045f
+source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要启用或禁用自定义实体，必须暂时禁用全局同步。
+   >必须暂时禁用全局同步才能启用或禁用自定义实体。
 
 1. 在数据库管理下，单击 **[!UICONTROL Dynamics实体同步]**.
 
