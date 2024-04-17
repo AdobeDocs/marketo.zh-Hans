@@ -3,9 +3,9 @@ description: 交互式网络研讨会概述 — Marketo文档 — 产品文档
 title: 交互式网络研讨会概述
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 **是否需要单独订阅才能使用交互式网络研讨会？**
 
-否. 使用交互式网络研讨会只需要有效的Marketo Engage订阅。
+不适用。 使用交互式网络研讨会只需要有效的Marketo Engage订阅。
 
 **交互式网络研讨会有哪些语言可用？**
 
@@ -47,6 +47,10 @@ ht-degree: 0%
 **是否需要将由Adobe Connect提供的网络研讨会关联回交互式网络研讨会活动计划，如与Launchpoint活动计划关联？**
 
 否，交互式网络研讨会活动程序可为您建立关联。
+
+**为什么我的某些潜在客户具有“注册错误”状态而不是“已注册”状态？**
+
+如果商机的“名字”字段为空，则他们无法注册网络研讨会。 您可以通过输入有效的名字来解决此问题。
 
 **我的交互式网络研讨会是否会自动录制？**
 
