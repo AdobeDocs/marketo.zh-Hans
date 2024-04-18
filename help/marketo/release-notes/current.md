@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 2%
+source-wordcount: '356'
+ht-degree: 3%
 
 ---
 
@@ -29,17 +29,6 @@ ht-degree: 2%
    <th style="width:10%">状态</th>
    <th style="width:25%">文档</th>
   </tr>
-   <tr> 
-   <td><strong>交互式网络研讨会模板</strong>：通过为房间布局创建定制模板（采用适合您组织的规范）来节省时间。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>交互式网络研讨会增强功能</strong>：现在，您可以让主机和演示者在事件投放后添加网络研讨会标题、重命名聊天室和手动同步参与数据。</td> 
    <td><i>即将推出</i></td>

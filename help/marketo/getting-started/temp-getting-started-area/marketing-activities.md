@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 1%
@@ -135,7 +135,7 @@ ht-degree: 1%
   <tr>
     <td>隐私和合规性</td>
     <td><li>创建程序以确保遵守数据隐私和垃圾邮件法律，例如 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html">GDPR、CASL、CAN-SPAM、CCPA等</a></li>
-    <br>注意：请始终记住就这些问题咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。 </td>
+    <br>注意：请始终记住就这些问题咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
   </tr>
   <tr>
     <td>生命周期</td>
