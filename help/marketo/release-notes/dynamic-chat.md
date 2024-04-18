@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: e2fcd5587df8776a07b092cd03f081a88480353e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1203'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Adobe Dynamic Chat版本在持续交付模型上运行，该模型允许采用�
 
 **发行日期： 2024年4月16日**
 
-### 现在为Select包上的用户提供了对话流 {#conversational-flows-select-package}
+### 对话流现在可供所有用户使用 {#conversational-flows-available-to-all-users}
 
-当我们去年发布Conversational Flows时，Dynamic ChatSelect程序包上的用户只能利用此功能作为100次终生参与的试用。 现在，会话流完全可供选择资源包中的每个用户使用。
+允许符合条件的潜在客户在提交表单后立即与销售人员预约会议或聊天，从而使您的表单和登陆页更具对话性并缩短销售漏斗。对话式Forms现已完全可用&#42; 适用于所有Dynamic Chat用户。
 
-会话流参与将计入Select包中用户每月最多参与250次的会话中。
+_&#42;以前作为试用功能提供，有100个生命周期参与。 会话流参与现在将计入Select包上用户250次参与会话的每月限制。_
 
 ### 回调函数 {#callback-functions}
 

@@ -3,9 +3,9 @@ description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->对话流和实时聊天是共享试用功能，Dynamic ChatSelect程序包上的参与的总生命周期限制为100次。 当达到此限制时，所有发布的对话流将停止触发，并且请求与实时代理进行聊天的访客将收到全局回退消息。 要增加此限制，请联系您的客户代表以讨论包升级选项。
+>对于Dynamic ChatSelect程序包上的用户，实时聊天是一项试用功能，其生命周期限制为100次参与。 当达到此限制时，任何请求与实时代理进行聊天的访客都不会连接，而是会收到全局回退消息。 要提高限制，请联系您的Adobe客户代表以讨论包升级选项。
 
 ## 添加实时聊天代理 {#add-live-chat-agents}
 

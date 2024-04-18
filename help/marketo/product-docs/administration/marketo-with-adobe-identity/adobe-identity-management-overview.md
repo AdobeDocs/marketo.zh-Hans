@@ -3,16 +3,16 @@ description: AdobeIdentity Management概述 — Marketo文档 — 产品文档
 title: AdobeIdentity Management概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 6f9790c2243407f2622970d228c9de6be7697df6
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
 # AdobeIdentity Management概述 {#adobe-identity-management-overview}
 
-所有新的Adobe Marketo Engage订阅（2023年7月31日或更高版本）都与AdobeIdentity Management System集成。 现有Marketo订阅目前正在续订和/或重新签约活动时迁移到AdobeIdentity Management System。 目前不支持在续订或重新承包事件之外进行迁移。
+所有新的Adobe Marketo Engage订阅（2023年7月31日或更高版本）都与AdobeIdentity Management System集成。 现有Marketo Engage订阅当前在发生任何Adobe活动时迁移到Identity Management System，其中包括续订、重新签约活动和/或附录。 目前不支持在销售事件之外进行迁移。
 
 >[!NOTE]
 >
