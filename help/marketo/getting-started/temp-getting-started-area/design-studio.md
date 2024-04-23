@@ -4,9 +4,9 @@ title: 新建区域设计工作室
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
+source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '309'
 ht-degree: 3%
 
 ---
@@ -28,8 +28,7 @@ ht-degree: 3%
   <tr>
     <td>全局登陆页面</td>
     <td><li>创建全局登陆页面（自由格式/引导式）。</li>
-    <li>创建一个测试页面，用于A/B测试入选的登陆页面模板（如果适用）。</li>
-    <li>在Marketo Engage（如果适用）中设置您的订阅中心登陆页面。</li></td>
+    <li>创建一个测试页面，用于A/B测试入选的登陆页面模板（如果适用）。</li></td>
   </tr>
   <tr>
     <td>模板</td>
@@ -37,7 +36,7 @@ ht-degree: 3%
   </tr>
   <tr>
     <td>隐私和合规性</td>
-    <td><li>使用以下方式包括相应的页脚 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">代码片段</a> 或登陆页面中的令牌以了解隐私合规性。</li></td>
+    <td><li>使用以下方式创建页脚 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">代码片段</a> 或登陆页面中的令牌以了解隐私合规性。</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,7 +53,7 @@ ht-degree: 3%
 <tbody>
   <tr>
     <td>全局Forms</td>
-    <td><li>设置 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank" rel="noopener noreferrer">全局表单</a> 用例，例如订阅首选项、封闭内容下载、演示请求、网络研讨会注册等。</li></td>
+    <td><li>设置 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">全局表单</a> 用例，例如订阅首选项、封闭内容下载、演示请求、网络研讨会注册等</li></td>
   </tr>
   <tr>
     <td>隐私和合规性</td>
@@ -62,7 +61,7 @@ ht-degree: 3%
   </tr>
   <tr>
     <td>数据标准化</td>
-    <td><li>考虑将选择列表应用于 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank" rel="noopener noreferrer">表单字段</a> 而不是打开文本字段以防止出现乱码。</li></td>
+    <td><li>考虑将选择列表应用于 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">表单字段</a> 而不是打开文本字段以防止出现乱码。</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,12 +82,12 @@ ht-degree: 3%
   </tr>
   <tr>
     <td>模板</td>
-    <td><li>设计基于模块的应用程序 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank" rel="noopener noreferrer">电子邮件模板</a> 请咨询设计师/开发人员，或插入自己的HTML。</li>
-    <li>创建经过测试的电子邮件模板以A/B测试入选的电子邮件模板（如果适用）。</li></td>
+    <td><li>设计基于模块的应用程序 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">电子邮件模板</a> 或使用您自己的HTML时，发送电子邮件给开发人员。</li>
+    <li>创建经过测试的电子邮件模板以A/B测试入选模板（如果适用）。</li></td>
   </tr>
   <tr>
     <td>隐私和合规性</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank" rel="noopener noreferrer">添加代码片段</a> 您的电子邮件模板以控制可重复使用的块，如版权年、全球位置和特定于法规遵从性的语言。 添加令牌以根据目标受众对内容进行个性化。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">添加代码片段</a> 以控制可重复使用的块，如版权年、全球位置和特定于法规遵从性的语言。 添加令牌以根据目标受众对内容进行个性化。</li></td>
   </tr>
 </tbody>
 </table>
@@ -105,7 +104,7 @@ ht-degree: 3%
 <tbody>
   <tr>
     <td>代码片段</td>
-    <td><li>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">代码片段</a> 创建可重复使用的内容块，这些内容块可用于多种用例，如电子邮件和登陆页中的联系信息、社交媒体链接、品牌信息以及隐私和合规性说明。</li></td>
+    <td><li>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">代码片段</a> 在电子邮件和登陆页面中，设置可用于多个用例的可重用内容块，例如联系信息、社交媒体链接、品牌信息以及隐私和合规性说明。</li></td>
   </tr>
 </tbody>
 </table>
@@ -142,7 +141,7 @@ ht-degree: 3%
 <tbody>
   <tr>
     <td>文件夹结构 </td>
-    <td><li>为每种类型的资产创建子文件夹并 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">组织全局资产</a> （例如，对话流、电子邮件模板、电子邮件、表单、图像和文件、登陆页面、登陆页面模板、代码片段）适当且易于搜索。</li></td>
+    <td><li>为每种类型的资源创建子文件夹并 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">组织全局资产</a> （例如，对话流、电子邮件模板、电子邮件、表单、图像和文件、登陆页面、登陆页面模板、代码片段等） 适当地。</li></td>
   </tr>
 </tbody>
 </table>
