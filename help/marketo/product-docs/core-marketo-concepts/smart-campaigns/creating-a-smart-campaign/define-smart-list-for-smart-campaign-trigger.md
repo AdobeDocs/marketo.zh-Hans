@@ -1,19 +1,23 @@
 ---
 unique-page-id: 1146942
-description: 为Smart Campaign定义智能列表 |触发器 — Marketo文档 — 产品文档
-title: 为Smart Campaign定义智能列表 |触发器
+description: 为Smart Campaign定义智能列表 | 触发器 — Marketo文档 — 产品文档
+title: 为Smart Campaign定义智能列表 | 触发器
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
-# 为Smart Campaign定义智能列表 |触发器 {#define-smart-list-for-smart-campaign-trigger}
+# 为Smart Campaign定义智能列表 | 触发器 {#define-smart-list-for-smart-campaign-trigger}
 
 通过添加触发器，根据实时事件逐人运行Smart Campaign。
+
+>[!CAUTION]
+>
+>对活动营销活动进行智能列表或流程步骤编辑可能会破坏其功能。 如果您选择这么做，请谨慎操作。
 
 1. 在Smart Campaign中，单击 **[!UICONTROL 智能列表]** 选项卡。
 
@@ -51,7 +55,7 @@ ht-degree: 0%
    >
    >对于多个触发器，如果符合以下条件，人员会完成该流程 _任意_ 其中一个触发器被激活。
 
-要同时对一组人员运行活动，请了解如何 [为Smart Campaign定义智能列表 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+要同时对一组人员运行活动，请了解如何 [为Smart Campaign定义智能列表 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
