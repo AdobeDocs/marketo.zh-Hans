@@ -2,10 +2,10 @@
 description: 推广交互式网络研讨会 — Marketo文档 — 产品文档
 title: 推广交互式网络研讨会
 feature: Interactive Webinars
-exl-id: 1f0777fe-fded-4629-b074-9a1ec94ba996
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -35,3 +35,5 @@ ht-degree: 0%
 事件程序中“概述”选项卡右侧的可用链接，可用于创建登陆页面和电子邮件营销活动。 与活动相关的其余促销活动与使用Launchpoint集成的合作伙伴网络研讨会相同。
 
 ![](assets/promoting-an-interactive-webinar-2.png)
+
+交互式网络研讨会允许您在网络研讨会之前、期间或之后请求注册。 在所有情况下，您只需要与潜在客户共享网络研讨会URL即可。 在网络研讨会开始前单击该链接，会将其发送到网络研讨会前的登陆页面。 在网络研讨会期间单击该链接会引导他们参加正在进行的网络研讨会。 网络研讨会后单击该按钮可将其转到网络研讨会的录像。

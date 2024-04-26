@@ -3,9 +3,9 @@ description: 创建交互式网络研讨会 — Marketo文档 — 产品文档
 title: 创建交互式网络研讨会
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -42,16 +42,26 @@ ht-degree: 0%
    >
    >有关合作伙伴网络研讨会的信息可在此处找到。
 
-1. 设置网络研讨会的最大受众规模以及持续时间。
+1. 为您的网络研讨会提供一个标题。 设置其最大受众规模及其持续时间。
 
    ![](assets/create-an-interactive-webinar-6.png)
+
+   >[!NOTE]
+   >
+   >* 网络研讨会的标题在参与者加入时可见。 标题必须与您Marketo Engage实例中的交互式网络研讨会活动计划的名称以及网络研讨会室的名称不同，这一点很重要。
+   >
+   >* 您无法重复使用网络研讨会标题。 每个变量在您的Marketo实例中必须唯一。
+   >
+   >* 如有需要，可在以后的阶段更改网络研讨会标题。
 
 1. 安排网络研讨会的日期/时间并单击 **创建**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-将创建交互式网络研讨会。 [了解如何添加演示者和/或联合主机](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}.
-
-<br>
+<p>
 
 现在，是时候 [设计您的网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+
+>[!MORELIKETHIS]
+>
+>[了解如何添加演示者和/或联合主机](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

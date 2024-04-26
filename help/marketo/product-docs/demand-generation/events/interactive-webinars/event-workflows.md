@@ -3,9 +3,9 @@ description: 事件工作流 — Marketo文档 — 产品文档
 title: 事件工作流
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >如果网络研讨会尚未完成或由于任何原因尚未收到数据，则“功能板”选项卡将不可用。
+
+## 手动同步 {#manual-sync}
+
+交互式网络研讨会允许您从Adobe Connect获取网络研讨会的参与数据（如果在网络研讨会完成后两小时内未自动获取该数据）。 “概述”页面中会显示“立即同步”按钮。 点击 **立即同步** 触发从Adobe Connect的拉取以填充Marketo Engage中的数据。 进行同步后，按钮将消失，并且会填充“功能板”选项卡。
 
 ## 仪表板小组件 {#dashboard-widgets}
 

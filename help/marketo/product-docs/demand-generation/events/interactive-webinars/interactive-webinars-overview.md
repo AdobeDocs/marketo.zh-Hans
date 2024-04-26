@@ -3,7 +3,7 @@ description: 交互式网络研讨会概述 — Marketo文档 — 产品文档
 title: 交互式网络研讨会概述
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: a92ad77514a827e7a227d0548ab75a6a65831220
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 0%
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 如果商机的“名字”字段为空，则他们无法注册网络研讨会。 您可以通过输入有效的名字来解决此问题。
 
-**在演示网络研讨会并访问我组织的VPN时，我遇到音频/视频问题。 我该怎么办？**
+**在访问我组织的VPN时，我在演示网络研讨会时遇到音频/视频问题。 我该怎么办？**
 
 Adobe Connect是交互式网络研讨会的交付平台，使用WebRTC进行音频/视频/屏幕共享。 贵组织的网络防火墙可能会阻止我们用于基于WebRTC的通信的IP地址/端口。 您的IT团队需要允许这些端口使WebRTC正常工作。 [了解详情](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
