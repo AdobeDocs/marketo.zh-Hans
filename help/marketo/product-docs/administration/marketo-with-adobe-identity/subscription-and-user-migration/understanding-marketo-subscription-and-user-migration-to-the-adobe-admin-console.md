@@ -3,9 +3,9 @@ description: 了解Marketo订阅和用户迁移到Adobe Admin Console - Marketo�
 title: 了解Marketo订阅和用户迁移到Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
 workflow-type: tm+mt
-source-wordcount: '1327'
+source-wordcount: '1370'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式，从而�
 
 * **系统管理员将管理Adobe Admin Console上的订阅**. 在一个控制台中查看您的所有Adobe产品。
 
-* **产品管理员将管理用户及其对Adobe Admin Console的访问权限**. 添加和删除所有Adobe订阅的用户。
+* **产品管理员将管理用户及其对Adobe Admin Console的访问权限**. 添加和删除所有Adobe订阅的用户。 Adobe Admin Console不支持基于用户的访问过期。 对于计划在迁移后过期的Marketo Engage访问权限的用户，仍会迁移并授予非过期访问权限。 迁移后，必须在所需的到期日期（或之前）手动删除它们。
 
 * **用户将使用Adobe身份登录**. Adobe会将现有用户迁移到Adobe Admin Console。 用户将使用其新的Adobe身份(Adobe ID或AdobeFederated ID(SSO))登录到其Marketo订阅。
 
