@@ -3,16 +3,18 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 3%
+source-wordcount: '399'
+ht-degree: 2%
 
 ---
 
 # 发行说明： 2024年4月 {#release-notes-apr-24}
 
 在下方，您会找到2024年4月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+
+专门用于Adobe Dynamic Chat的发行说明 [可在此处找到](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -31,8 +33,9 @@ ht-degree: 3%
   </tr>
      <tr> 
    <td><strong>交互式网络研讨会增强功能</strong>：现在，您可以让主机和演示者在事件投放后添加网络研讨会标题、重命名聊天室和手动同步参与数据。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">创建交互式网络研讨会</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手动同步</a></li></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -50,9 +53,9 @@ ht-degree: 3%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>新用户和角色权限</strong>：提供了新权限，为用户提供了更细粒度的Marketo Engage访问权限。 控制以前未控制的管理员部分（如新体验和预测受众），拆分权限以分别授予对资产审核记录和管理审核记录的访问权限，并利用资产和文件夹的新创建和移动权限来防止只读用户进行更改。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td><strong>新用户和角色权限</strong>：提供了新权限，为用户提供了更细粒度的Marketo Engage访问权限。 控制以前未控制的管理员部分（如新体验和预测受众），拆分权限以分别授予对资产审核记录和管理审核记录的访问权限，并利用资产和文件夹的新创建和移动权限来防止只读用户进行更改。 虽然新权限将从4月26日起显示在您的Marketo Engage实例中，但目前它们处于被动状态，本季度晚些时候将可供访问。</td> 
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">角色权限描述</a></td>
   </tr>
  </tbody> 
 </table>
