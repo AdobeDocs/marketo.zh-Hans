@@ -1,11 +1,12 @@
 ---
-description: 帮助中心 — Marketo文档 — 产品文档
+description: 帮助中心 — Marketo Engage文档 — 产品文档
 title: 帮助中心
+hide: true
+hidefromtoc: true
 feature: Getting Started
-exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
 source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '160'
 ht-degree: 4%
 
 ---
@@ -18,39 +19,39 @@ Adobe Marketo Engage中的帮助中心是获取帮助的集中位置。 除了�
 
 登录Marketo Engage后，单击帮助图标。
 
-![](assets/help-center-1.png)
+屏幕快照
 
 ### 指南 {#guides}
 
 指南是常见功能的快速演练。
 
-![](assets/help-center-2.png)
+屏幕快照
 
 1. 单击所需的指南以查看它。
 
-   ![](assets/help-center-3.png)
+屏幕快照
 
 1. 单击 **开始使用**.
 
-   ![](assets/help-center-4.png)
+屏幕快照
 
 1. 单击 **下一个** 以继续。
 
-   ![](assets/help-center-5.png)
+屏幕快照
 
 1. 单击 **完成** 退出演练。
 
-   ![](assets/help-center-6.png)
+屏幕快照
 
-   >[!TIP]
-   >
-   >可随时退出指南，方法是单击 **取消**.
+>[!TIP]
+>
+>可随时退出指南，方法是单击 **取消**.
 
 ### 新增功能 {#whats-new}
 
 “新增功能”选项卡包含Marketo Engage最新版本的完整详细信息。
 
-![](assets/help-center-7.png)
+屏幕快照
 
 >[!TIP]
 >
@@ -60,4 +61,4 @@ Adobe Marketo Engage中的帮助中心是获取帮助的集中位置。 除了�
 
 通过“资源”选项卡，您可以快速而直接地访问各种方式，以获取有关Marketo Engage实例的其他帮助。
 
-![](assets/help-center-8.png)
+屏幕快照

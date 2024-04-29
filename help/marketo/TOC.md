@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '9281'
+source-wordcount: '9346'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,24 @@ ht-degree: 0%
       + [继承实例：Design Studio核对清单](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [继承的实例：记录您的设置](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [审核核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
++ Marketo 2快速入门 {#getting-started-with-marketo-2}
+   + [什么是Adobe Marketo Engage？](getting-started-2/what-is-adobe-marketo-engage.md)
+   + 初始设置 {#initial-setup}
+      + [初始设置任务](getting-started-2/initial-setup/initial-setup-tasks.md)
+      + [设置步骤](getting-started-2/initial-setup/setup-steps.md)
+      + [用户设置](getting-started-2/initial-setup/user-setup.md)
+   + 实施新的Marketo Engage实例 {#implementing-a-new-marketo-engage-instance}
+      + [从何处开始](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [新实例：管理员部分核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新实例：数据库核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新实例：营销活动核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [新实例：设计工作室核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新实例：记录您的设置](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + 注意事项 {#things-to-know}
+      + [Marketo Engage术语表](getting-started-2/things-to-know/marketo-engage-glossary.md)
+      + [图标术语表](getting-started-2/things-to-know/icon-glossary.md)
+      + [Classic图标术语表](getting-started-2/things-to-know/classic-icon-glossary.md)
+      + [帮助中心](getting-started-2/things-to-know/help-center.md)
 + 产品文档 {#product-docs}
    + 其他应用程序 {#additional-apps}
       + SEO {#seo}
