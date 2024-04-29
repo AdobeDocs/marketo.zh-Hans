@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9356'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 0%
       + [用户设置](getting-started-2/initial-setup/user-setup.md)
    + 实施新的Marketo Engage实例 {#implementing-a-new-marketo-engage-instance}
       + [从何处开始](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [新实例：管理员部分核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [新实例：数据库核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新实例：营销活动核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [新实例：设计工作室核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [新实例：记录您的设置](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [新实例最佳实践：管理员部分核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新实例最佳实践：数据库核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新实例最佳实践：营销活动核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [新实例最佳实践：设计工作室核对清单](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新实例最佳实践：记录您的设置](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 注意事项 {#things-to-know}
       + [Marketo Engage术语表](getting-started-2/things-to-know/marketo-engage-glossary.md)
       + [图标术语表](getting-started-2/things-to-know/icon-glossary.md)

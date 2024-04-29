@@ -1,17 +1,17 @@
 ---
 description: 为您的新Marketo Engage实例设置“管理员”部分。
-title: 新实例 — 管理员部分核对清单
+title: 新实例最佳实践 — 管理员部分核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: '1099'
 ht-degree: 1%
 
 ---
 
-# 新实例：管理员部分核对清单 {#new-instance-admin-section-checklist}
+# 新实例最佳实践：管理员部分核对清单 {#new-instance-best-practices-admin-section-checklist}
 
 作为新管理员，请应用以下清单来帮助指导您完成实施Marketo Engage。 与所有这些指南一样，您可以下载核对清单 [链接] 并跟踪您的进度。
 

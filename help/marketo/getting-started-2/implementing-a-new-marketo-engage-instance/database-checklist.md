@@ -1,17 +1,17 @@
 ---
 description: 为新Marketo Engage实例设置“数据库”部分。
-title: 新实例 — 数据库核对清单
+title: 新实例最佳实践 — 数据库核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 2%
 
 ---
 
-# 新实例：数据库核对清单 {#new-instance-database-checklist}
+# 新实例最佳实践：数据库核对清单 {#new-instance-best-practices-database-checklist}
 
 “数据库”部分为您提供有关实例中人员的关键属性的快照。 了解更多有关在数据库中的不同列表和分段中导航以及管理人员记录所需的步骤。
 

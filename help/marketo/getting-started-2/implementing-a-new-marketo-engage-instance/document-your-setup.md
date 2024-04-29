@@ -1,17 +1,17 @@
 ---
 description: 记录新Marketo Engage实例的设置。
-title: 新建实例 — 记录您的设置
+title: 新实例最佳实践 — 记录您的设置
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '379'
 ht-degree: 1%
 
 ---
 
-# 新实例：记录您的设置 {#new-instancei-document-your-setup}
+# 新实例最佳实践：记录您的设置 {#new-instance-best-practices-document-your-setup}
 
 现在您已经了解了为新的Marketo Engage实例设置的关键产品领域，下一步是创建实例配置和技术栈栈的文档。 无论是通过电子表格还是项目管理应用程序创建实例，您的文档都将是跟踪进展和记录详细信息以及保持实例结构化和可持续性的有用资源，可供组织内的未来营销人员使用。
 

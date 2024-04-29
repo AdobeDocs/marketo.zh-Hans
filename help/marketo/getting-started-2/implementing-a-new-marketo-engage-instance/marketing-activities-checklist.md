@@ -1,17 +1,17 @@
 ---
 description: 为新Marketo Engage实例设置“营销活动”部分。
-title: 新实例 — 营销活动核对清单
+title: 新实例最佳实践 — 营销活动核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '724'
 ht-degree: 1%
 
 ---
 
-# 新实例：营销活动核对清单 {#new-instance-marketing-activities-checklist}
+# 新实例最佳实践：营销活动核对清单 {#new-instance-best-practices-marketing-activities-checklist}
 
 营销活动包含构成自动营销计划的所有资源和内容。 在设置新的Marketo Engage实例时，一个简洁明了的机构可确保所有用户都能轻松找到和管理各种程序。
 

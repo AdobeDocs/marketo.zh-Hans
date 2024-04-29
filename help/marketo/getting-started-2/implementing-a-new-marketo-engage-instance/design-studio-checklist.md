@@ -1,17 +1,17 @@
 ---
 description: 为新Marketo Engage实例设置Design Studio部分。
-title: 新实例 — Design Studio清单
+title: 新实例最佳实践 — 设计工作室核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 3%
 
 ---
 
-# 新实例：设计工作室核对清单 {#new-instance-design-studio-checklist}
+# 新实例最佳实践：设计工作室核对清单 {#new-instance-best-practices-design-studio-checklist}
 
 Design Studio部分是可重复使用的“全局资产”应驻留的位置。 创建您的组织计划在程序中使用的全局资产，使用一致的命名约定，并将它们组织在子文件夹中以便轻松搜索。
 
