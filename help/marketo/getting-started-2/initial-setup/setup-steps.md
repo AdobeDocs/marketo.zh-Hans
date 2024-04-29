@@ -4,9 +4,9 @@ title: 设置步骤
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
-source-wordcount: '1696'
+source-wordcount: '1735'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ ht-degree: 0%
 
 要检索要使用登陆页面CNAME替换的Munchkin ID，请转到管理区域。
 
-![](assets/setup-steps-9.png)
+屏幕快照： setup-steps-9.png
 
 单击 **我的帐户**.
 
-![](assets/setup-steps-10.png)
+屏幕快照： setup-steps-10.png
 
 复制 [!UICONTROL 帐户字符串] 登陆页面设置中的。
 
-![](assets/setup-steps-11.png)
+屏幕快照： setup-steps-11.png
 
 这是 `[Munchkin ID]`. 保存它。 在步骤5中，您需要将它提供给IT。
 
@@ -100,17 +100,17 @@ ht-degree: 0%
 
 要查找您的Marketo跟踪链接，请转到 **[!UICONTROL 管理员]** 区域。
 
-![](assets/setup-steps-12.png)
+屏幕快照： setup-steps-12.png
 
 单击 **[!UICONTROL 电子邮件]**.
 
-![](assets/setup-steps-13.png)
+屏幕快照： setup-steps-13.png
 
 复制 [!UICONTROL 跟踪链接] 来自您的电子邮件设置。
 
 此 [!UICONTROL 跟踪链接] 采用以下形式： `mkto-[a-z][4 digits].com`.
 
-![](assets/setup-steps-14.png)
+屏幕快照： setup-steps-14.png
 
 这是您的 `[MktoTrackingLink]`. 保存它。 在步骤5中，您需要将它提供给IT。
 
@@ -215,35 +215,35 @@ include：mktomail.com
 
 转到 **[!UICONTROL 管理员]** 区域以添加您的登陆页面CNAME
 
-![](assets/setup-steps-15.png)
+屏幕快照：setup-steps-15.png
 
 选择登陆页面并单击 **[!UICONTROL 编辑]** 在 [!UICONTROL 设置] 区域。
 
-![](assets/setup-steps-16.png)
+屏幕快照：setup-steps-16.png
 
 在字段中输入新域名 **[!UICONTROL 登陆页面的域名]**. 其形式应为：
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
-![](assets/setup-steps-17.png)
+屏幕快照： setup-steps-17.png
 
 在 **[!UICONTROL 回退]** 字段，输入当登陆页面不可用时用户转到的URL。 如果您没有回退页，则可以使用公司主页。 在 **[!UICONTROL 主页]** 字段中，输入您的公司网站。
 
-![](assets/setup-steps-18.png)
+屏幕快照： setup-steps-18.png
 
 在 [!UICONTROL 管理员] 区域，选择 **[!UICONTROL 电子邮件]** 添加电子邮件CNAME
 
-![](assets/setup-steps-19.png)
+屏幕快照： setup-steps-19.png
 
 向下滚动到 [!UICONTROL 品牌化域]. 选择您的域并单击 **[!UICONTROL 编辑]**.
 
-![](assets/setup-steps-20.png)
+屏幕快照：setup-steps-20.png
 
 在域字段中，输入电子邮件跟踪域。 其形式应为：
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. 单击&#x200B;**[!UICONTROL 保存]**。
 
-![](assets/setup-steps-21.png)
+屏幕快照：setup-steps-21.png
 
 ## 集成您的CRM {#integrate-your-crm}
 
