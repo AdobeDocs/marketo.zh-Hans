@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
 workflow-type: tm+mt
-source-wordcount: '9356'
+source-wordcount: '9358'
 ht-degree: 0%
 
 ---
@@ -690,6 +690,7 @@ ht-degree: 0%
             + [代理管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
             + [安全设置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
             + [路由](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+            + [回调函数](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
       + 活动 {#events}
          + 了解事件 {#understanding-events}
             + [将成员添加到事件程序](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
