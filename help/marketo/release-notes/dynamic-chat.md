@@ -3,7 +3,7 @@ description: Dynamic Chat发行说明 — Marketo文档 — 产品文档
 title: Dynamic Chat发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
+source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ _&#42;以前作为试用功能提供，有100个生命周期参与。 会话流�
 
 ### 回调函数 {#callback-functions}
 
-回调函数允许您在访客与Dynamic Chat对话进行交互时，收集外部系统(如Adobe Analytics或Google Analytics)中的Dynamic Chat分析事件。 您可以通过在API中注册回调来侦听事件，从而启用Dynamic Chat分析事件。 这样，您就可以更全面地了解Dynamic Chat参与情况，因为它与其他关键数据（如Web流量）相关。
+[回调函数](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} 允许您在访客参与Dynamic Chat对话时收集外部系统(如Adobe Analytics或Google Analytics)中的Dynamic Chat分析事件。 您可以通过在API中注册回调来侦听事件，从而启用Dynamic Chat分析事件。 这样，您就可以更全面地了解Dynamic Chat参与情况，因为它与其他关键数据（如Web流量）相关。
 
 ### 向条件分支添加了实时代理可用性条件 {#live-agent-availability-conditional-branching}
 

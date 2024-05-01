@@ -1,12 +1,11 @@
 ---
 description: 回调函数 — Marketo文档 — 产品文档
 title: 回调函数
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 3%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-事件中的“event”参数是一个包含与对话相关的元数据的对象。 您可以按event.data访问元数据
+此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
 
 以下是您可以访问的一些关键元数据值：
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-事件中的“event”参数是一个包含与对话相关的元数据的对象。 您可以按event.data访问元数据
+此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
 
 以下是您可以访问的一些关键元数据值。
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-事件中的“event”参数是一个包含与对话相关的元数据的对象。 您可以按event.data访问元数据
+此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
 
 以下是您可以访问的一些关键元数据值。
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-事件中的“event”参数是一个包含与对话相关的元数据的对象。 您可以按event.data访问元数据
+此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
 
 以下是您可以访问的一些关键元数据值。
 
@@ -338,7 +337,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </tbody>
 </table>
 
-如果您希望将任意这些事件发送到Adobe Analytics或Google Analytics等第三方平台，则需要在这些Dynamic Chat事件中添加各自的跟踪调用。 它类似于下面的示例。
+如果要将任意这些事件发送到Adobe Analytics或Google Analytics等Analytics平台，则需要在这些Dynamic Chat事件中添加其各自的跟踪调用。 它类似于下面的示例。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
