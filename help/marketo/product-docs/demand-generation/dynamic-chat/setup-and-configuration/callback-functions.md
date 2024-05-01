@@ -3,7 +3,7 @@ description: 回调函数 — Marketo文档 — 产品文档
 title: 回调函数
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: fd070322b6741268595d460318246abd3768dd3d
+source-git-commit: f355022fb7e6f733bb7485229e395b0fe1a9818f
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 3%
@@ -21,7 +21,7 @@ ht-degree: 3%
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
     // code here will execute when chatbot scripts are loaded in a webpage 
-});
+}); 
 ```
 
 ## 对话事件 {#conversation-events}
@@ -34,11 +34,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
-
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
-// code here will execute when chatbot is loaded for a visitor 
-   });
-});
+ // code here will execute when the chatbot is loaded for a visitor 
+    }); 
+});  
 ```
 
 ### 已参与对话 {#conversation-engaged}
@@ -47,10 +47,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => { 
- // code here will execute when visitor engages with chatbot 
-    });
-});
+ // code here will execute when a visitor engages with the chatbot 
+     }); 
+}); 
 ```
 
 ### 对话已完成 {#conversation-completed}
@@ -59,10 +60,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => { 
- // code here will execute when conversation is completed 
-    });
-});
+ // code here will execute when a conversation is completed 
+     }); 
+}); 
 ```
 
 ### 对话已关闭
@@ -71,10 +73,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_CLOSED, (event) => { 
- // code here will execute when conversation is closed 
-    });
-});
+ // code here will execute when a conversation is closed 
+    }); 
+}); 
 ```
 
 此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
@@ -122,10 +125,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => { 
-  // code here will execute when a visitor provides their phone number 
+ // code here will execute when a visitor provides their phone number 
     }); 
-}); 
+});  
 ```
 
 ### 电子邮件ID {#email-id}
@@ -134,15 +138,16 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => { 
  // code here will execute when a visitor provides their email address 
     }); 
-});
+}); 
 ```
 
 此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
 
-以下是您可以访问的一些关键元数据值。
+以下是您可以访问的一些关键元数据值：
 
 <table>
 <thead>
@@ -187,15 +192,16 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => { 
  // code here will execute when a meeting is booked 
     }); 
-});
+}); 
 ```
 
 此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
 
-以下是您可以访问的一些关键元数据值。
+以下是您可以访问的一些关键元数据值：
 
 <table>
 <thead>
@@ -252,10 +258,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => { 
- // code here will execute when a visitor requests for live chat 
+ // code here will execute when a visitor requests a live chat 
     }); 
-});
+}); 
 ```
 
 ### 实时聊天已启动 {#live-chat-initiated}
@@ -264,10 +271,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => { 
- // code here will execute after a live agent accepted the chat 
+ // code here will execute after a live agent accepts the chat 
     }); 
-});
+}); 
 ```
 
 ### 实时聊天已结束 {#live-chat-ended}
@@ -276,10 +284,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => { 
  // code here will execute when a live chat is ended 
     }); 
-});
+}); 
 ```
 
 ### 实时聊天超时 {#live-chat-timeout}
@@ -288,15 +297,16 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => { 
- // code here will execute when a visitor abandoned live chat 
+ // code here will execute when a visitor abandons a live chat 
     }); 
-});
+}); 
 ```
 
 此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
 
-以下是您可以访问的一些关键元数据值。
+以下是您可以访问的一些关键元数据值：
 
 <table>
 <thead>
@@ -341,6 +351,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
  // Enter Adobe Analytics or Google Analytics function here 
     ga('send', 'event', { 
@@ -349,5 +360,5 @@ window.addEventListener('adobedx.conversations.ready', () => {
       eventLabel: event.data.payload.id, 
     }); 
     }); 
-});
+}); 
 ```
