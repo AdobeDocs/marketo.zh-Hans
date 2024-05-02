@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 欢迎使用新的Adobe Marketo Engage实例！ 借助强大的营销自动化功能，准备好简化、自动化和衡量营销任务和工作流。
 
 在此“实施新Marketo Engage实例”指南中，了解无缝实施实例的最佳实践，以确保长期卫生和运营效率。 每个核对清单都提供了宝贵的步骤，可供您跟踪配置进度。 使用可下载的核对表来记录您所做的工作，以便将来进行实例审核和用户载入。
+
+## 所需步骤
+
+WORD此分区并重命名
 
 ## 新Marketo Engage实例的最佳实践核对清单 {#best-practice-checklists-new-instance}
 

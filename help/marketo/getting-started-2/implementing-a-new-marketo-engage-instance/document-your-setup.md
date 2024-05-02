@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '409'
 ht-degree: 1%
 
 ---
@@ -53,11 +53,16 @@ ht-degree: 1%
     <td><li>记录 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">当前用户</a> 出于安全原因，在您的实例中。 以下详细信息应至少包含在内(转到Adobe Admin Console &gt;用户即可全部看到)：</li>
     <br>名称
     <br>电子邮件
-    <br>ID类型
-    <br>产品配置文件
-    <p>
-    <li>作为Marketo Engage产品管理员，制定定期审核和更新Marketo Engage用户列表的内部流程。 要更改Adobe Admin Console中的用户列表，请考虑 <a href="https://helpx.adobe.com/cn/enterprise/using/users.html" target="_blank">批量操作</a>，例如上传.CSV、使用用户管理REST API等。</li></td>
-  </tr>
+    <br>登录
+    <br>角色
+    <br>访问到期日期
+    <br>用户创建日期
+    <br>最近登录日期
+
+注意：客户还可以展开此项以包含有关角色/权限的文档。
+<p>
+<li>作为Marketo Engage产品管理员，制定定期审核和更新Marketo Engage用户列表的内部流程。 要更改Adobe Admin Console中的用户列表，请考虑 <a href="https://helpx.adobe.com/cn/enterprise/using/users.html" target="_blank">批量操作</a>，例如上传.CSV、使用用户管理REST API等。</li></td>
+</tr>
   <tr>
     <td>组织</td>
     <td><li>记录商定的文件夹结构、程序、资产等的标准命名惯例以及做出决策的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在此处详细了解最佳实践。</a></li></td>

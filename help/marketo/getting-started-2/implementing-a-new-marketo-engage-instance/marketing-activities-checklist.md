@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 1%
 
 ---
@@ -54,9 +54,9 @@ ht-degree: 1%
 
 ## 资源 {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->要将营销资产（如项目、登陆页面和电子邮件）存储在单独的区域，请参考“管理员部分”核对清单 [链接] 以了解如何设置工作区。
+>要将营销资产（如项目、登陆页面和电子邮件）存储在单独的区域，请参阅 [管理员部分核对清单](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) 以了解如何设置工作区。
 
 <table>
 <thead>
