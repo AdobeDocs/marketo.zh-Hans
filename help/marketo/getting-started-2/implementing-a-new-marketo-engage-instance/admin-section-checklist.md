@@ -4,9 +4,10 @@ title: 新实例最佳实践 — 管理员部分核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
+source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
 workflow-type: tm+mt
-source-wordcount: '1099'
+source-wordcount: '772'
 ht-degree: 1%
 
 ---
@@ -29,7 +30,7 @@ ht-degree: 1%
     <td>角色</td>
     <td><li>查看预建角色，并确认每个角色具有哪些权限/访问权限。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">创建新角色</a> 或 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">编辑角色</a> 根据贵组织的需求而定。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">将用户分配给适当的角色</a>. 必须先将用户添加到Adobe Admin Console中的订阅，然后才能授予他们在角色中的角色。 请参阅“初始设置”核对清单[LINK]中的“用户”一节。</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">将用户分配给适当的角色</a>. 必须先将用户添加到Adobe Admin Console中的订阅，然后才能授予他们在角色中的角色。 请参阅的“用户”部分 <a href="/help/marketo/getting-started-2/initial-setup/user-setup.md">初始设置核对清单</a>.</li>
     <li>为用户分配角色后，查看每个角色的用户数。</li>
     <li>为每个API用户实施唯一的角色，以便轻松进行故障排除。</li></td>
   </tr>
@@ -198,15 +199,6 @@ ht-degree: 1%
     <li>确定您的CRM管理员以进行疑难解答。</li></td>
   </tr>
   <tr>
-    <td>登陆页面</td>
-    <td>注意：您是否为Launch Pack客户？ 您可以跳过此步骤。 您的顾问将在您的启动电话中为您提供IT设置说明文档。 <br>使用设置登陆页面域 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">CNAME</a> 和 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">输入域和页面信息</a>. 其格式应为： [LandingPageCNAME]。[公司域].com <br>为您的登陆页面选择一个CNAME。 一些示例： <br>* **开始**。[公司域].com <br>* **www2**。[公司域].com <br>* **lp**。[公司域].com <br><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console">联系Marketo支持</a> 开始预配SSL证书的进程。 完成此过程最多可能需要3个工作日。 <br>提示：简明扼要！ 较短的URL更容易记忆。 我们建议“开始”作为域。 <br>将Analytics跟踪代码(例如Google Analytics或Adobe Analytics)添加到您的登陆页面模板。 </td>
-  </tr>
-  <tr>
-    <td>蒙奇金</td>
-    <td>注：如果您是Launch Pack客户，请跳过此步骤。 您的顾问将在IT设置说明文档中为您提供Munchkin代码说明。
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">添加Munchkin跟踪代码</a> 到您的网站。 Munchkin代码可以是 <a href="https://developers.marketo.com/javascript-api/lead-tracking/">硬编码</a> 或通过Google Tag Manager部署。</li></td>
-  </tr>
-  <tr>
     <td>Web服务</td>
     <td><li>确定可以进行的用户/应用程序 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API调用</a> 在您的实例中。</li>
     <li>审查将发起API调用的所有应用程序，并确定是否需要增加或减少API调用。</li></td>
@@ -222,7 +214,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>Adobe Dynamic Chat（如果适用）</td>
-    <td>使用 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>，即Marketo Engage中的本机对话自动化渠道，请按照以下有关上的步骤继续设置用户权限 <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>确认您的Adobe组织系统管理员是否向您授予Adobe产品管理员角色。 联系人 <a href="https://helpx.adobe.com/contact.html">Adobe客户关怀</a> 以了解贵组织中的哪些人员具有控制台中的管理员权限。 <br>Accept <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">“Dynamic Chat产品管理员”邀请</a>. 此 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">欢迎电子邮件</a> 当您在Marketo Engage实例中启用了Dynamic Chat并且您被指定为系统管理员时，将会发送此事件。  <br>在Adobe Admin Console中为Dynamic Chat的产品配置文件分配所有适当的用户。 <br>如果将不需要的用户添加到多个产品配置文件，则必须从所有产品配置文件中删除该用户。 否则，他们仍可以访问Dynamic Chat。 <br>您可以 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">在Dynamic Chat中编辑产品配置文件</a> 并创建具有自定义集的自定义配置文件 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">您的订阅中可用的权限</a>. <br>将用户分配到 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">“访问Dynamic Chat”角色</a> 位于“Marketo Engage”/“管理员”/“用户和角色”。 </td>
+    <td><li>将用户分配到 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">“访问Dynamic Chat”角色</a> 在Marketo Engage&gt;管理员&gt;用户和角色中。</li></td>
   </tr>
   <tr>
     <td>销售分析（如果适用）</td>
@@ -235,6 +227,11 @@ ht-degree: 1%
     <td>Sales Connect （如果适用）</td>
     <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">邀请适当的Marketo Engage管理员加入Sales Connect实例</a>.</li>
     <li>完成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">其他Sales Connect管理员设置</a> Sales Connect和Salesforce中的。</li></td>
+  </tr>
+  <tr>
+    <td>Webhook（如果适用）</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html">创建任何所需的Webhook</a> 为了你的生意。</li>
+    </td>
   </tr>
 </tbody>
 </table>
