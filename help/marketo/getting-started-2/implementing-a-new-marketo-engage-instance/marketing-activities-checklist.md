@@ -4,9 +4,10 @@ title: 新实例最佳实践 — 营销活动核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '758'
 ht-degree: 1%
 
 ---
@@ -29,20 +30,20 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>命名约定</td>
-    <td><li>在构建文件夹结构之前，为订阅定义一致的命名约定。</li></td>
+    <td><li>定义 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes">一致的命名约定</a> ，然后再构建文件夹结构。</li></td>
   </tr>
   <tr>
     <td>文件夹结构</td>
-    <td><li>通过引用此示例，构建一致且易于导航的文件夹结构。</td>
+    <td><li>通过引用构建一致且易于导航的文件夹结构 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders">此示例</a>.</td>
   </tr>
   <tr>
     <td>程序</td>
-    <td><li>为您在管理员部分创建的每个渠道创建项目模板。 通过从“程序库”导入程序，可以轻松启动。 请参阅下表“Assets”中的详细信息。</li>
-    <li>确定智能营销活动的哪些流程步骤可以在全球项目中而不是在本地项目中。</li> <li>将客户获取、会员资格和成功跟踪纳入项目模板，以便标准化流程。</li></td>
+    <td><li>创建项目模板 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">每个渠道</a> 您已在“管理员”部分创建。 您可以以下列方式开始 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">导入程序</a> 程序库中的。 请参阅下表“Assets”中的详细信息。</li>
+    <li>确定哪些 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign">Smart Campaigns的流程步骤</a> 可以在全球项目中与本地项目中进行。</li> <li>将客户获取、会员资格和成功跟踪纳入项目模板，以便标准化流程。</li></td>
   </tr>
   <tr>
     <td>存档</td>
-    <td><li>确定何时存档程序和资产的策略。 请注意，存档后，它会从选择列表以及报表中删除项目。</li></td>
+    <td><li>确定何时执行策略 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder">存档项目和资产</a>. 请注意，存档后，它会从选择列表以及报表中删除项目。</li></td>
   </tr>
   <tr>
     <td>通知</td>
@@ -52,6 +53,10 @@ ht-degree: 1%
 </table>
 
 ## 资源 {#assets}
+
+>[!TIP]
+>
+>要将营销资产（如项目、登陆页面和电子邮件）存储在单独的区域，请参考“管理员部分”核对清单 [链接] 以了解如何设置工作区。
 
 <table>
 <thead>
@@ -65,13 +70,14 @@ ht-degree: 1%
     <td>程序类型</td>
     <td><li>了解 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs">四种程序类型</a>.</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">导入项目模板</a> 从 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview">项目库</a> 开始。</li>
-    <li>电子邮件程序：在“设置”选项卡下， <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">启用通信限制</a>（推荐）。</li>
-    <li>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">交互式网络研讨会</a>，内置网络研讨会平台，使用事件程序和 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">将会议室与交互式网络研讨会关联</a> 程序（推荐）。  <li>设置 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">评分项目</a> 关注您网站上的购买信号以及您的内容。</li></td>
+    <li>电子邮件程序：在“设置”选项卡下， <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">启用通信限制</a> （推荐）。</li>
+    <li>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">交互式网络研讨会</a>，内置网络研讨会平台，使用事件程序和 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">将会议室与交互式网络研讨会关联</a> 程序（推荐）。</li>
+    <li>设置 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">评分项目</a> 关注您网站上的购买信号以及您的内容。</li></td>
   </tr>
   <tr>
     <td>令牌</td>
-    <td><li>设置 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">令牌</a></li>.
-    <li>在经常使用的程序类型中使用令牌以提高效率。 考虑实施组织在中经常需要的令牌 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html#nesting-tokens">全局文件夹</a>.</li></td>
+    <td><li>设置 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">令牌</a>.</li>
+    <li>在经常使用的程序类型中使用令牌以提高效率。 考虑实施组织在中经常需要的令牌 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program#nesting-tokens">全局文件夹</a>.</li></td>
   </tr>
   <tr>
     <td>批量活动</td>
@@ -80,7 +86,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>触发活动</td>
-    <td><li>设置 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html#trigger-campaign">触发智能营销活动</a> 在“智能列表”部分至少使用一个触发器。</li>
+    <td><li>设置 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns#trigger-campaign">触发智能营销活动</a> 在“智能列表”部分至少使用一个触发器。</li>
     <li>在“计划”选项卡中激活智能营销活动以运行营销活动操作。</li></td>
   </tr>
   <tr>
@@ -120,8 +126,8 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>人员来源</td>
-    <td><li>创建集中式程序，为中的潜在客户/人员来源分配值 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management.html" target="_blank"> 系统管理的字段</a></li>.  
-    <li>导入运行数据管理程序</a> 从Marketo程序库启动。</li></td>
+    <td><li>创建一个集中式程序，在“系统管理”字段中为潜在客户/人员来源分配值。</li>  
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management">导入运行数据管理程序</a> 从Marketo程序库启动。</li></td>
   </tr>
   <tr>
     <td>数据标准化</td>
@@ -131,7 +137,7 @@ ht-degree: 1%
   <tr>
     <td>退回管理</td>
     <td><li>创建用于退回管理的操作程序，以捕获所有退回详细信息。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.html">导入可投放性管理程序</a> 从Marketo程序库启动。</li></td>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management">导入可投放性管理程序</a> 从Marketo程序库启动。</li></td>
   </tr>
   <tr>
     <td>隐私和合规性</td>
@@ -153,7 +159,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>电子邮件可投放性</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html">创建电子邮件性能报表</a> 用于监控电子邮件发送和可投放性趋势。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report">创建电子邮件性能报表</a> 用于监控电子邮件发送和可投放性趋势。</li></td>
   </tr>
 </tbody>
 </table>

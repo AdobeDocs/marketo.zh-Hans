@@ -4,9 +4,10 @@ title: 新实例最佳实践 — 记录您的设置
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '388'
 ht-degree: 1%
 
 ---
@@ -55,7 +56,7 @@ ht-degree: 1%
     <br>ID类型
     <br>产品配置文件
     <p>
-    <li>作为Marketo Engage产品管理员，制定定期审核和更新Marketo Engage用户列表的内部流程。 要更改Adobe Admin Console中的用户列表，请考虑 <a href="https://helpx.adobe.com/cn/enterprise/using/users.html" target="_blank">上传.csv</a> 批量。</li></td>
+    <li>作为Marketo Engage产品管理员，制定定期审核和更新Marketo Engage用户列表的内部流程。 要更改Adobe Admin Console中的用户列表，请考虑 <a href="https://helpx.adobe.com/cn/enterprise/using/users.html" target="_blank">批量操作</a>，例如上传.CSV、使用用户管理REST API等。</li></td>
   </tr>
   <tr>
     <td>组织</td>

@@ -4,16 +4,17 @@ title: 新实例最佳实践 — 数据库核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---
 
 # 新实例最佳实践：数据库核对清单 {#new-instance-best-practices-database-checklist}
 
-“数据库”部分为您提供有关实例中人员的关键属性的快照。 了解更多有关在数据库中的不同列表和分段中导航以及管理人员记录所需的步骤。
+在“数据库”部分中，您可以找到实例中人员的关键属性。 了解更多有关在数据库中的不同列表和分段中导航以及管理人员记录所需的步骤。
 
 请记得下载核对清单 [链接] 并跟踪您的进度。
 
@@ -38,7 +39,7 @@ ht-degree: 2%
   </tr>
   <tr>
     <td>营销暂停</td>
-    <td><li>定义 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html#marketing-suspended" target="_blank">营销已暂停</a> 标准。</li></td>
+    <td><li>定义 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">营销已暂停</a> 标准。</li></td>
   </tr>
   <tr>
     <td>退回的电子邮件地址 </td>
@@ -49,7 +50,7 @@ ht-degree: 2%
     <td>可能的重复项</td>
     <td><li>查看可能重复项列表中的人员。</li> 
     <li>定义复制管理策略以确定是否要 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">手动合并人员</a>.</li>  
-    <li>如果您拥有CRM集成，请定义流程和帐户 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html#effect-in-salesforce" target="_blank">在CRM中合并潜在客户的影响</a>.</li></td>
+    <li>如果您拥有CRM集成，请定义流程和帐户 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">在CRM中合并潜在客户的影响</a>.</li></td>
   </tr>
   <tr>
     <td>无客户获取计划</td>

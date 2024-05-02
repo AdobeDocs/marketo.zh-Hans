@@ -4,9 +4,10 @@ title: 新实例最佳实践 — 设计工作室核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 3%
 
 ---
@@ -29,8 +30,8 @@ Design Studio部分是可重复使用的“全局资产”应驻留的位置。 
 <tbody>
   <tr>
     <td>全局登陆页面</td>
-    <td><li>创建全局登陆页面（自由格式/引导式）。</li>
-    <li>创建一个测试页面，用于A/B测试入选的登陆页面模板（如果适用）。</li></td>
+    <td><li>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">全局登陆页面（自由格式/引导式）</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">创建测试页面</a> ，以测试入选的登陆页面模板（如果适用）。</li></td>
   </tr>
   <tr>
     <td>模板</td>
@@ -38,7 +39,7 @@ Design Studio部分是可重复使用的“全局资产”应驻留的位置。 
   </tr>
   <tr>
     <td>隐私和合规性</td>
-    <td><li>使用以下方式创建页脚 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">代码片段</a> 或登陆页面中的令牌以了解隐私合规性。</li></td>
+    <td><li>使用以下方式创建页脚 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">代码片段</a> 或 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">令牌</a> 隐私合规性。</li></td>
   </tr>
 </tbody>
 </table>
@@ -125,8 +126,8 @@ Design Studio部分是可重复使用的“全局资产”应驻留的位置。 
     <td>命名约定</td>
     <td><li>对图像和文件使用一致的命名约定。</li>  
     <br>示例：  
-    <br>文件命名约定：资产类型 — 资产名称（例如：White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board） 
-    <p>图像命名约定：图像类型 — 资产类型 — 资产名称（例如：Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board）</td>
+    <br><ul><li>文件命名约定：资产类型 — 资产名称（例如：White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board）</li>
+    <p><li>图像命名约定：图像类型 — 资产类型 — 资产名称（例如：Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board）</li></td>
   </tr>
 </tbody>
 </table>
