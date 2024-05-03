@@ -3,9 +3,9 @@ description: 设计交互式网络研讨会 — Marketo文档 — 产品文档
 title: 设计交互式网络研讨会
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ ht-degree: 0%
    >* 会议室是用于举行会议的在线空间。
    >
    >* 如果您选择现有的网络研讨会聊天室并需要对其进行重命名，只需单击 **重命名网络研讨会会议室** 按钮右侧。
+   >
+   >* 下拉列表只显示您之前创建的现有文件室，而不显示其他主机的文件室。
 
 1. 选择模板。
 

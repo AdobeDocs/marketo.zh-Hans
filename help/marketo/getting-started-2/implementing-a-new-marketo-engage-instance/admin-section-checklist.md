@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 1%
@@ -41,7 +41,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>沙盒（如果适用）</td>
-    <td><li>查看以上类别中的 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">沙盒</a>.</li></td>
+    <td><li>查看以上类别中的 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">沙盒</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -172,12 +172,12 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>自定义活动</td>
-    <td><li>定义 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html">自定义活动</a> 特定于您的业务。</li></td>
+    <td><li>定义 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html" target="_blank">自定义活动</a> 特定于您的业务。</li></td>
   </tr>
   <tr>
     <td>自定义对象</td>
-    <td><li>查看数量 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html">自定义对象</a> 你需要。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html">将这些自定义对象同步到您的CRM</a>.</li></td>
+    <td><li>查看数量 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html" target="_blank">自定义对象</a> 你需要。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html" target="_blank">将这些自定义对象同步到您的CRM</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -194,43 +194,43 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>CRM </td>
-    <td><li>启动CRM同步。 根据贵公司使用的CRM，从以下内容中进行选择： <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html">Microsoft Dynamics</a>.</li>
+    <td><li>启动CRM同步。 根据贵公司使用的CRM，从以下内容中进行选择： <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html" target="_blank">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html" target="_blank">Microsoft Dynamics</a>.</li>
     <li>确定访问CRM所需的访问权限类型。</li>
     <li>确定您的CRM管理员以进行疑难解答。</li></td>
   </tr>
   <tr>
     <td>Web服务</td>
-    <td><li>确定可以进行的用户/应用程序 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API调用</a> 在您的实例中。</li>
+    <td><li>确定可以进行的用户/应用程序 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html" target="_blank">API调用</a> 在您的实例中。</li>
     <li>审查将发起API调用的所有应用程序，并确定是否需要增加或减少API调用。</li></td>
   </tr>
   <tr>
     <td>启动点</td>
-    <td><li>设置 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">启动点</a> 服务您的业务。 每个LaunchPoint都应与唯一的API用户配对，以帮助进行故障排除。</li></td>
+    <td><li>设置 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html" target="_blank">启动点</a> 服务您的业务。 每个LaunchPoint都应与唯一的API用户配对，以帮助进行故障排除。</li></td>
   </tr>
   <tr>
     <td>交互式网络研讨会（如果适用）</td>
     <td>注意：交互式网络研讨会仅提供给生产实例。
-    <li>要创建交互式网络研讨会，内置网络研讨会功能， <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">将用户添加到“用户”部分</a> 在交互式网络研讨会选项卡上。</li></td>
+    <li>要创建交互式网络研讨会，内置网络研讨会功能， <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management" target="_blank">将用户添加到“用户”部分</a> 在交互式网络研讨会选项卡上。</li></td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat（如果适用）</td>
-    <td><li>将用户分配到 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">“访问Dynamic Chat”角色</a> 在Marketo Engage&gt;管理员&gt;用户和角色中。</li></td>
+    <td><li>将用户分配到 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role" target="_blank">“访问Dynamic Chat”角色</a> 在Marketo Engage&gt;管理员&gt;用户和角色中。</li></td>
   </tr>
   <tr>
     <td>销售分析（如果适用）</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">设置销售分析操作</a> “销售分析”&gt;“操作配置”中的。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">将名额发给适当的用户</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">配置API</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">自定义潜在客户得分</a>.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account" target="_blank">设置销售分析操作</a> “销售分析”&gt;“操作配置”中的。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions" target="_blank">将名额发给适当的用户</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html" target="_blank">配置API</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html" target="_blank">自定义潜在客户得分</a>.</li></td>
   </tr>
   <tr>
     <td>Sales Connect （如果适用）</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">邀请适当的Marketo Engage管理员加入Sales Connect实例</a>.</li>
-    <li>完成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">其他Sales Connect管理员设置</a> Sales Connect和Salesforce中的。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance" target="_blank">邀请适当的Marketo Engage管理员加入Sales Connect实例</a>.</li>
+    <li>完成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins" target="_blank">其他Sales Connect管理员设置</a> Sales Connect和Salesforce中的。</li></td>
   </tr>
   <tr>
     <td>Webhook（如果适用）</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html">创建任何所需的Webhook</a> 为了你的生意。</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html" target="_blank">创建任何所需的Webhook</a> 为了你的生意。</li>
     </td>
   </tr>
 </tbody>
@@ -248,12 +248,12 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>宝箱 </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html">启用Treasure Chest</a> 以试用功能。</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html" target="_blank">启用Treasure Chest</a> 以试用功能。</li>
     <li>确定要打开或关闭的功能。</li></td>
   </tr>
   <tr>
     <td>活动检查器 </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html">打开活动检查器</a> 一次查看您的所有Smart Campaigns。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html" target="_blank">打开活动检查器</a> 一次查看您的所有Smart Campaigns。</li></td>
   </tr>
 </tbody>
 </table>

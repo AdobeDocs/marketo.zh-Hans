@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,13 @@ ht-degree: 0%
 
 在此“实施新Marketo Engage实例”指南中，了解无缝实施实例的最佳实践，以确保长期卫生和运营效率。 每个核对清单都提供了宝贵的步骤，可供您跟踪配置进度。 使用可下载的核对表来记录您所做的工作，以便将来进行实例审核和用户载入。
 
-## 所需步骤
+## 初始设置 {#initial-setup}
 
-WORD此分区并重命名
+在尝试使用下面的“最佳实践检查列表”之前，请确保您已执行了“初始设置”区域中的步骤。
+
+* [初始设置任务](/help/marketo/getting-started-2/initial-setup/initial-setup-tasks.md)
+
+* [用户设置](/help/marketo/getting-started-2/initial-setup/user-setup.md)
 
 ## 新Marketo Engage实例的最佳实践核对清单 {#best-practice-checklists-new-instance}
 

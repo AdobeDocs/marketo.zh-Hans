@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 3%
@@ -30,8 +30,8 @@ Design Studio部分是可重复使用的“全局资产”应驻留的位置。 
 <tbody>
   <tr>
     <td>全局登陆页面</td>
-    <td><li>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">全局登陆页面（自由格式/引导式）</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">创建测试页面</a> ，以测试入选的登陆页面模板（如果适用）。</li></td>
+    <td><li>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">全局登陆页面（自由格式/引导式）</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">创建测试页面</a> ，以测试入选的登陆页面模板（如果适用）。</li></td>
   </tr>
   <tr>
     <td>模板</td>
@@ -39,7 +39,7 @@ Design Studio部分是可重复使用的“全局资产”应驻留的位置。 
   </tr>
   <tr>
     <td>隐私和合规性</td>
-    <td><li>使用以下方式创建页脚 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">代码片段</a> 或 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">令牌</a> 隐私合规性。</li></td>
+    <td><li>使用以下方式创建页脚 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">代码片段</a> 或 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">令牌</a> 隐私合规性。</li></td>
   </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ Design Studio部分是可重复使用的“全局资产”应驻留的位置。 
 <tbody>
   <tr>
     <td>文件夹结构 </td>
-    <td><li>为每种类型的资源创建子文件夹并 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">组织全局资产</a> （例如，对话流、电子邮件模板、电子邮件、表单、图像和文件、登陆页面、登陆页面模板、代码片段等） 适当地。</li></td>
+    <td><li>为每种类型的资源创建子文件夹并 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">组织全局资产</a> （例如，对话流、电子邮件模板、电子邮件、表单、图像和文件、登陆页面、登陆页面模板、代码片段等） 适当地。</li></td>
   </tr>
 </tbody>
 </table>
