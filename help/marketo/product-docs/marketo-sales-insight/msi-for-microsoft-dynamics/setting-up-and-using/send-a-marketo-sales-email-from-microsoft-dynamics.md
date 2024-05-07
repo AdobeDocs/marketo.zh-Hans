@@ -4,9 +4,9 @@ description: 从Marketo Dynamics发送Microsoft销售电子邮件 — Marketo文
 title: 从Microsoft Dynamics发送Marketo销售电子邮件
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,13 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   您可以单击 **发送测试电子邮件** 首先，该电子邮件将在发送实际电子邮件之前发送给您(Microsoft Dynamics中的主电子邮件地址)。
+   >[!TIP]
+   >
+   >您可以单击 **发送测试电子邮件** 首先，该电子邮件将在发送实际电子邮件之前发送给您(Microsoft Dynamics中的主电子邮件地址)。
+
+   >[!NOTE]
+   >
+   >一次最多可发送2000封Marketo电子邮件。
 
 做得好！ 现在，您已了解如何直接从Marketo Dynamics中发送Microsoft跟踪电子邮件。
 
