@@ -3,7 +3,7 @@ description: 为新Marketo Engage实例设置Design Studio部分。
 title: 新实例最佳实践 — 设计工作室核对清单
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Design Studio部分是可重复使用的“全局资产”应驻留的位置。 创建您的组织计划在程序中使用的全局资产，使用一致的命名约定，并将它们组织在子文件夹中以便轻松搜索。
 
-请记住 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 并跟踪您的进度。
+请记住 [下载核对清单](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 并跟踪您的进度。
 
 ## 登陆页面 {#landing-pages}
 

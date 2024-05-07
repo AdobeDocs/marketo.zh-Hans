@@ -3,7 +3,7 @@ description: 为新Marketo Engage实例设置“数据库”部分。
 title: 新实例最佳实践 — 数据库核对清单
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 在“数据库”部分中，您可以找到实例中人员的关键属性。 了解更多有关在数据库中的不同列表和分段中导航以及管理人员记录所需的步骤。
 
-请记住 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 并跟踪您的进度。
+请记住 [下载核对清单](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 并跟踪您的进度。
 
 ## 系统智能列表 {#system-smart-lists}
 

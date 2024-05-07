@@ -3,7 +3,7 @@ description: 为您的新Marketo Engage实例设置“管理员”部分。
 title: 新实例最佳实践 — 管理员部分核对清单
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 新实例最佳实践：管理员部分核对清单 {#new-instance-best-practices-admin-section-checklist}
 
-作为新管理员，请应用以下清单来帮助指导您完成实施Marketo Engage。 与所有这些指南一样，您还可以 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 并跟踪您的进度。
+作为新管理员，请应用以下清单来帮助指导您完成实施Marketo Engage。 与所有这些指南一样，您还可以 [下载核对清单](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 并跟踪您的进度。
 
 ## 角色 {#roles}
 

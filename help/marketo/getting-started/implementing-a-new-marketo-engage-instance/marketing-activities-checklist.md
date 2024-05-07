@@ -3,7 +3,7 @@ description: 为新Marketo Engage实例设置“营销活动”部分。
 title: 新实例最佳实践 — 营销活动核对清单
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 营销活动包含构成自动营销计划的所有资源和内容。 在设置新的Marketo Engage实例时，一个简洁明了的机构可确保所有用户都能轻松找到和管理各种程序。
 
-请记住 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 并跟踪您的进度。
+请记住 [下载核对清单](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 并跟踪您的进度。
 
 ## 组织 {#organization}
 
