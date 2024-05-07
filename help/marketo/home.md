@@ -2,10 +2,10 @@
 title: Marketo产品文档
 description: Marketo Engage产品文档
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 3%
+source-wordcount: '53'
+ht-degree: 7%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 3%
 
 ## 快速入门
 
-* [设置步骤](/help/marketo/getting-started/setup/setup-steps.md)
+* [设置步骤](/help/marketo/getting-started/initial-setup/setup-steps.md)
 * [设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-* [为Marketo配置协议](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
-* [Marketo Engage术语表](/help/marketo/getting-started/marketo-engage-glossary.md)
+* [配置用于Marketo Engage的协议](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
+* [Marketo Engage术语表](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
 
 ## 受欢迎的文章
 

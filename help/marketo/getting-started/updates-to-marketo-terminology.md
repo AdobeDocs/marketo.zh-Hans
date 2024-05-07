@@ -1,25 +1,27 @@
 ---
 unique-page-id: 11387674
 description: Marketo术语更新 — Marketo文档 — 产品文档
+hide: true
+hidefromtoc: true
 title: Marketo术语更新
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '328'
 ht-degree: 1%
 
 ---
 
 # Marketo术语更新 {#updates-to-marketo-terminology}
 
-我们正在对平台进行一些更改，这将影响一些所谓的内容。 如果您自2016年3月起有新的Marketo实例，或者如果您的公司在2016年7月后续订，则现在可能会看到新术语。
+我们正在对我们的平台进行一些更改，这些更改将影响某些项目的名称。 如果您在2016年3月拥有新的Marketo实例，或者贵公司在2016年7月之后续订，则您现在可能看到新术语。
 
-虽然您可能会在Marketo文档中看到不同的术语，但请确保每篇文章都会很快更新，以反映这些更改。 所有说明都相同。
+虽然您在Marketo文档中可能会看到不同的术语，但请放心，每篇文章都将很快更新以反映这些更改。 所有指令都相同。
 
-那么，有什么变化？
+那么，有什么变化呢？
 
-## “潜在客户”现在为“人员” {#lead-is-now-person}
+## 潜在客户现在是人员 {#lead-is-now-person}
 
-最大的变化是将潜在客户/潜在客户重命名为“人员/人员”。
+最大的变化是将潜在客户/潜在客户重命名为人员/人员。
 
 <table> 
  <colgroup> 
@@ -44,7 +46,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-在某些情况下，“Lead”一词被简单地删除。
+在某些情况下，“Lead”一词会被简单地删除。
 
 <table> 
  <colgroup> 
@@ -69,19 +71,19 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-潜在客户和人员 **是一样的**.
+商机和人员 **都是同样的事**.
 
 ## 令牌 {#tokens}
 
-带前导字的令牌 **未更改**. 我们为任何混乱表示歉意；但是，如果更改所有令牌以匹配新术语，则会损坏当前使用的整个令牌。 因此，您仍会看到令牌，例如“`{{lead.First Name}}`.&quot; 没有特定于人员的令牌。
+包含单词lead的令牌 **未更改**. 很抱歉会造成任何混淆；但是，更改所有令牌以匹配新术语会破坏当前正在使用的令牌。 因此您仍将会看到“`{{lead.First Name}}`“ 没有特定于人员的令牌。
 
 >[!NOTE]
 >
->那里 *is* 名为“人员备注”的令牌，但该令牌始终存在。 它通常用于CRM中的描述字段（如果根本不用）。
+>那里 *是* 一个名为“人员备注”的令牌，但该令牌始终存在。 它通常用于CRM中的描述字段（如果有的话）。
 
 ## 字段管理 {#field-management}
 
-包含术语“Lead”的字段已被“Person”替换，或“Lead”一词已被删除。 但“潜在客户所有者”字段是一个值得注意的例外。 它现在称为“销售所有者”。
+包含术语Lead的字段已替换为Person，或者单词Lead已删除。 但是，“Lead Owner”字段是一个显着例外。 它现在被称为“销售负责人”。
 
 <table> 
  <colgroup> 
@@ -108,9 +110,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->有关受影响的字段名称的完整列表，请访问此 [支持文章](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}。
+>有关受影响的字段名称的完整列表，请访问此 [支持文章](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## 实时个性化(RTP)现在是Web个性化 {#real-time-personalization-rtp-is-now-web-personalization}
+## 实时个性化(RTP)现在更名为Web个性化 {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -135,16 +137,16 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-除了名称更改之外，它现在还包含四个单独的应用程序：
+除了名称更改之外，该应用程序现在还包括四个单独的应用程序：
 
-| **[Web个性化](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | 在主屏幕上有自己的图块 |
+| **[Web个性化](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 在主屏幕上拥有自己的图块 |
 |---|---|
-| **[基于帐户的Web营销](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | 可通过Web个性化拼贴访问 |
-| **[个性化重定位](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | 可通过Web个性化拼贴访问 |
-| **[预测内容](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | 在主屏幕上有自己的图块 |
+| **[基于帐户的Web营销](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 可通过Web个性化拼贴访问 |
+| **[个性化重定位](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 可通过Web个性化拼贴访问 |
+| **[预测内容](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | 在主屏幕上拥有自己的图块 |
 
 >[!NOTE]
 >
->主屏幕上显示的图块将反映已购买的模块。
+>主屏幕上显示的图块将反映您购买的模块。
 
-感谢您在此更新期间的耐心等待。
+感谢您耐心等待本次更新。

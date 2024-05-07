@@ -3,7 +3,7 @@ description: 继承实例管理员核对清单 — Marketo文档 — 产品文�
 title: 继承实例管理员核对清单
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 1%
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->如果您是新Marketo Engage用户并且不熟悉许多术语，请查看 [Marketo Engage术语表](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
+>如果您是新Marketo Engage用户并且不熟悉许多术语，请查看 [Marketo Engage术语表](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## AdobeIdentity Management {#adobe-identity-management}
 
@@ -83,7 +83,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>支持用户</td> 
-   <td><li>是否已设置适当的 <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">授权联系人</a> 在支持门户中？</li></td>
+   <td><li>是否已设置适当的 <a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">授权联系人</a> 在支持门户中？</li></td>
   </tr>
   <tr> 
    <td>内部文档</td> 

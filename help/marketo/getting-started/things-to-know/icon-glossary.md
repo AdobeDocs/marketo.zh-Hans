@@ -1,18 +1,18 @@
 ---
-description: 图标术语表 — Marketo文档 — 产品文档
+description: 图标术语表 — Marketo Engage文档 — 产品文档
 title: 图标术语表
-exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-feature: Modern UX
+feature: Getting Started
+exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '242'
 ht-degree: 21%
 
 ---
 
-# 图标术语表 {#new-icon-glossary}
+# Marketo Engage图标术语表 {#icon-glossary}
 
-以下是新Adobe Marketo Engage界面的图标。 如果您需要引用Marketo Classic图标，它们可以 [在此处找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+以下是当前Adobe Marketo Engage界面的图标。 如果您需要引用Marketo Classic图标，它们可以 [在此处找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## 常规图标 {#general-icons}
 

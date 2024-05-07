@@ -3,7 +3,7 @@ description: Marketo Engage现代UX概述 — Marketo文档 — 产品文档
 title: Marketo Engage现代UX概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 1%
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 **图标**
 
-新界面的特点是改进和扩展了图像。 可在此处了解这些内容： [图标术语表](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
+新界面的特点是改进和扩展了图像。 可在此处了解这些内容： [图标术语表](/help/marketo/product-docs/getting-started/things-to-know/icon-glossary.md).
 
 ![](assets/overview-2.png)
 
