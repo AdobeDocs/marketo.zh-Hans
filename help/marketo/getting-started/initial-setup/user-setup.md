@@ -3,16 +3,16 @@ description: 在深入了解新的Marketo Engage实例之前，您需要完成�
 title: 用户设置核对清单
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
 
 # 用户设置核对清单 {#user-setup-checklist}
 
-现在您已完成了所有 [初始设置步骤](/help/marketo/getting-started/initial-setup/setup-steps.md)，现在需要建立一些基本元素以确保顺利进行使用。 这将为您的Marketo Engage旅程奠定基础，并帮助您充分利用其功能。 让我们开始吧！
+现在您已完成了所有 [初始设置步骤](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}，现在需要建立一些基本元素以确保顺利进行使用。 这将为您的Marketo Engage旅程奠定基础，并帮助您充分利用其功能。 让我们开始吧！
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
     <td>订阅和Marketo Engage产品管理员</td>
     <td><li>确认您的Adobe组织系统管理员已向您授予Adobe产品管理员角色。</li>  
     <ul>
-    <li>联系人 <a href="https://helpx.adobe.com/contact.html">Adobe客户关怀</a> 了解贵组织中的人员 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console系统管理员</a> 权限。</li></ul>
+    <li>联系Adobe客户团队（您的客户经理）或发送电子邮件至 <code>customercare@marketo.com</code> 或发送电子邮件至customercare@marketo.comto ，以了解贵组织中的哪些人员 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console系统管理员</a> 权限。</li></ul>
     <li>接受“Marketo Engage产品管理员”邀请以激活您的Adobe ID。 此 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">欢迎电子邮件</a> 在Adobe Admin Console中分配角色后发送。</li></td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## AdobeIdentity Management设置的Dynamic Chat {#dynamic-chat-on-adobe-identity-management}
 
-使用 [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html)，即Marketo Engage中的本机对话自动化渠道，请按照以下步骤继续设置用户权限： [Adobe Admin Console](https://adminconsole.adobe.com/).
+使用 [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html)，即Marketo Engage中的本机对话自动化渠道，请按照以下步骤继续设置用户权限： [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>
@@ -79,7 +79,8 @@ ht-degree: 0%
 <tbody>
   <tr>
     <td>订阅和Dynamic Chat产品管理员（如果适用）</td>
-    <td><li>确认您的Adobe组织系统管理员已向您授予Adobe产品管理员角色。 联系人 <a href="https://helpx.adobe.com/contact.html">Adobe客户关怀</a> 以了解贵组织中的哪些人员具有控制台中的管理员权限。</li>
+    <td><li>确认您的Adobe组织系统管理员已向您授予Adobe产品管理员角色。</li> 
+    <ul><li>联系Adobe客户团队（您的客户经理）或发送电子邮件至 <code>customercare@marketo.com</code> 了解贵组织中的人员 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console系统管理员</a> 权限。</li></ul>
     <li>接受 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">'Dynamic Chat产品管理员'</a> 邀请。 此 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">欢迎电子邮件</a> 当您在Marketo Engage实例中启用了Dynamic Chat并且您被指定为系统管理员时，将会发送此事件。</li></td>
   </tr>
   <tr>
@@ -121,4 +122,4 @@ ht-degree: 0%
 
 <p>
 
-现在您的Marketo Engage帐户已准备就绪，请查看我们的 [新Marketo Engage实例的最佳实践](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md) 充分利用您的投资并为长期成功做好准备。
+现在您的Marketo Engage帐户已准备就绪，请查看我们的 [新Marketo Engage实例的最佳实践](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} 充分利用您的投资并为长期成功做好准备。
