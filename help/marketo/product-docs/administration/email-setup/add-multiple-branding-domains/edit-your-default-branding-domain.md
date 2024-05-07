@@ -4,7 +4,7 @@ description: 编辑默认品牌策略域 — Marketo文档 — 产品文档
 title: 编辑您的默认品牌策略域
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->确保您已 [在DNS中设置CNAME](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) 在Marketo中添加品牌策略域之前。
+>确保您已 [在DNS中设置CNAME](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) 在Marketo中添加品牌策略域之前。
 
 1. 转到 **[!UICONTROL 管理员]** 区域。
 
