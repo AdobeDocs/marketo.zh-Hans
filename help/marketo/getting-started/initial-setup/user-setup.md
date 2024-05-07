@@ -3,9 +3,9 @@ description: 在深入了解新的Marketo Engage实例之前，您需要完成�
 title: 用户设置核对清单
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
     <td>订阅和Marketo Engage产品管理员</td>
     <td><li>确认您的Adobe组织系统管理员已向您授予Adobe产品管理员角色。</li>  
     <ul>
-    <li>联系Adobe客户团队（您的客户经理）或发送电子邮件至 <code>customercare@marketo.com</code> 或发送电子邮件至customercare@marketo.comto ，以了解贵组织中的哪些人员 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console系统管理员</a> 权限。</li></ul>
+    <li>联系Adobe客户团队（您的客户经理）或发送电子邮件至 <code>customercare@marketo.com</code> 了解贵组织中的人员 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console系统管理员</a> 权限。</li></ul>
     <li>接受“Marketo Engage产品管理员”邀请以激活您的Adobe ID。 此 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">欢迎电子邮件</a> 在Adobe Admin Console中分配角色后发送。</li></td>
   </tr>
   <tr>
