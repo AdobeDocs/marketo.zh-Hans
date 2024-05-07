@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
 workflow-type: tm+mt
-source-wordcount: '9327'
+source-wordcount: '9332'
 ht-degree: 0%
 
 ---
@@ -649,6 +649,7 @@ ht-degree: 0%
          + [将Google客户匹配项添加为LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [将LinkedIn匹配的受众添加为LaunchPoint服务](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [将列表发送到广告网络](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+         + [向Google发送列表](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
       + Dynamic Chat {#dynamic-chat}
          + [Dynamic Chat概述](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [聊天机器人行为](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
