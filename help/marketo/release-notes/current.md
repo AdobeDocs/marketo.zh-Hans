@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
+source-git-commit: 0d2416651da183460ad1f60ff5d566cbfc7abd12
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '428'
 ht-degree: 2%
 
 ---
@@ -53,7 +53,18 @@ ht-degree: 2%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>新用户和角色权限</strong>：提供了新权限，为用户提供了更细粒度的Marketo Engage访问权限。 控制以前未控制的管理员部分（如新体验和预测受众），拆分权限以分别授予对资产审核记录和管理审核记录的访问权限，并利用资产和文件夹的新创建和移动权限来防止只读用户进行更改。 虽然新权限将从4月26日起显示在您的Marketo Engage实例中，但目前它们处于被动状态，本季度晚些时候将可供访问。</td> 
+   <td><strong>新用户和角色权限</strong>：提供了新权限，为用户提供了更细粒度的Marketo Engage访问权限。 控制以前未控制的管理员部分（如新体验和预测受众），拆分权限以分别授予对资产审核记录和管理审核记录的访问权限，并利用资产和文件夹的新创建和移动权限来防止只读用户进行更改。 
+   <p>虽然新权限将从4月26日起显示在您的Marketo Engage实例中，但目前它们处于被动状态，本季度晚些时候将可供访问。
+   <li>访问Adobe Experience Manager</li>
+   <li>访问Adobe组织映射</li>
+   <li>访问管理员审核记录</li>
+   <li>访问资产审核记录</li>
+   <li>访问新体验</li>
+   <li>访问预测受众</li>
+   <li>创建报告</li>
+   <li>创建列表</li>
+   <li>导出营销活动活动</li>
+   </td> 
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">角色权限描述</a></td>
   </tr>
