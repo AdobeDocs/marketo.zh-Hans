@@ -4,7 +4,7 @@ description: 过滤促销活动报表 — Marketo文档 — 产品文档
 title: 过滤促销活动报表
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0a4c889d22232f7da8f4dda2f077bba1873cd1b2
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 1. 转到 **营销活动** (或 **分析**)，然后选择促销活动报表。
 
-   ![](assets/image2014-9-16-16-3a13-3a56.png)
+   ![](assets/filter-a-campaign-activity-report-1.png)
 
 1. 单击 **设置** 制表符并双击 **营销活动**.
 
-   ![](assets/image2014-9-16-16-3a14-3a1.png)
+   ![](assets/filter-a-campaign-activity-report-2.png)
 
 1. 选择要包含在报表中的文件夹和特定的智能营销活动。 单击 **应用**.
 
-   ![](assets/image2014-9-16-16-3a14-3a11.png)
+   ![](assets/filter-a-campaign-activity-report-3.png)
 
    >[!TIP]
    >
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 1. 你完了！ 单击 **报表** 制表符查看 _只要_ 报表中选定的智能营销活动。
 
-   ![](assets/image2014-9-16-16-3a14-3a32.png)
+   ![](assets/filter-a-campaign-activity-report-4.png)
 
 >[!MORELIKETHIS]
 >
