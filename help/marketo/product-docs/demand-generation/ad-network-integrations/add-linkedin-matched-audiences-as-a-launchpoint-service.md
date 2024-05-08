@@ -4,14 +4,18 @@ description: 将LinkedIn匹配的受众添加为LaunchPoint服务 — Marketo文
 title: 将LinkedIn匹配的受众添加为LaunchPoint服务
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # 将LinkedIn匹配的受众添加为LaunchPoint服务 {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+
+>[!IMPORTANT]
+>
+>linkedIn正在升级其由Marketo EngageLinkedIn集成使用的营销API。 这些更改将需要重新验证您网站上的所有LinkedIn LaunchPoint服务 **管理员** > **启动点** 2024年6月7日至12月15日之间的菜单，避免服务中断。 欲知更多信息，请参见 [迁移常见问题解答](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >

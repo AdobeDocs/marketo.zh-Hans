@@ -2,11 +2,13 @@
 unique-page-id: 10098238
 description: linkedIn社交表单填写常见问题解答 — Marketo文档 — 产品文档
 title: linkedIn社交表单填写常见问题解答
+hide: true
+hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -35,11 +37,11 @@ linkedIn对其开发人员计划进行了一些重大更改。 作为这些更�
 
 ## linkedIn社交共享按钮是否仍然有效？ {#do-linkedin-social-sharing-buttons-still-work}
 
-是. 此更改仅影响LinkedIn社交表单填写功能。
+是的。 此更改仅影响LinkedIn社交表单填写功能。
 
 ## facebook和Twitter社交表单填写是否仍然有效？ {#do-facebook-and-twitter-social-form-fill-still-work}
 
-是. facebook和Twitter社交表单填写未更改。
+是的。 facebook和Twitter社交表单填写未更改。
 
 ## 已通过LinkedIn Social表单填写捕获的数据发生了什么情况？ {#did-anything-happen-to-the-data-we-already-captured-via-linkedin-social-form-fill}
 
@@ -61,11 +63,11 @@ linkedIn对其开发人员计划进行了一些重大更改。 作为这些更�
 
 否，我们将仅从您的表单中删除LinkedIn按钮。 每当将社交表单填充应用于表单时，都有一个在表单上方创建的容器，其中包含社交表单填充按钮。 2016年4月28日之前，如果LinkedIn是唯一选项，则容器外观类似于以下图像：
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 2016年4月28日之后，任何表单的顶部现在都留有一个空容器，其中的LinkedIn社交表单填充已被删除：
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
@@ -73,4 +75,4 @@ linkedIn对其开发人员计划进行了一些重大更改。 作为这些更�
 
 ## 如果LinkedIn是我唯一选择的网络，如何删除表单上方的空容器？ {#if-linkedin-was-my-only-selected-network-how-can-i-remove-the-empty-container-above-my-form}
 
-您可以通过编辑表单、选择Facebook或Twitter作为Social表单填充的选项，然后取消选择Facebook或Twitter作为Social表单填充的选项来移除空容器。 这将重置表单填写容器中的社交选项，并将其从表单中删除。
+您可以通过编辑表单、选择Facebook或Twitter作为“社交表单填充”的选项，然后取消选择Facebook或Twitter作为“社交表单填充”的选项来移除空容器。 这将重置表单填写容器中的社交选项，并将其从表单中删除。

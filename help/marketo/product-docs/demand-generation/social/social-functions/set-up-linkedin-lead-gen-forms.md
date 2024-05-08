@@ -4,9 +4,9 @@ description: 设置LinkedIn潜在客户群Forms - Marketo文档 — 产品文档
 title: 设置LinkedIn潜在客户Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 设置LinkedIn潜在客户Gen Forms {#set-up-linkedin-lead-gen-forms}
 
 使用LinkedIn潜在客户Gen Forms在LinkedIn中运行广告营销活动并为Marketo生成潜在客户。
+
+>[!IMPORTANT]
+>
+>linkedIn正在升级其由Marketo EngageLinkedIn集成使用的营销API。 这些更改将需要重新验证您网站上的所有LinkedIn LaunchPoint服务 **管理员** > **启动点** 2024年6月7日至12月15日之间的菜单，避免服务中断。 欲知更多信息，请参见 [迁移常见问题解答](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -51,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. 您会发现您现在已获得授权。 单击&#x200B;**下一步**。
+1. 您会发现您现在已获得授权。 单击 **下一个**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
