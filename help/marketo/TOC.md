@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 1679d8fa3d4d58685471c7869a6d73689c9b4a51
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9332'
 ht-degree: 0%
 
 ---
@@ -1736,6 +1736,7 @@ ht-degree: 0%
             + [订阅基本报表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [订阅智能列表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + 报表类型 {#report-types}
+            + [营销活动报表](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [营销活动电子邮件性能报表](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [公司Web活动报表](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [按状态人员报表](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)

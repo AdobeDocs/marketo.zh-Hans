@@ -3,9 +3,9 @@ description: Marketo Engage术语表 — Marketo文档 — 产品文档
 title: Marketo Engage术语表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4085'
 ht-degree: 1%
 
 ---
@@ -129,11 +129,7 @@ ht-degree: 1%
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
    <td colspan="1">在Marketo，“Campaign”可能意味着一些事情。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">营销活动</a> 是smart campaign的较短术语。 在 <strong>Marketo销售连接</strong>， <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">营销活动</a> 是一系列多渠道通信步骤。 在 <strong>Web个性化</strong>， web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">营销活动</a> 是与特定区段关联的自定义反应。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">营销活动报表</a></strong></td> 
-   <td colspan="1">显示如何操作的报表类型 <strong>智能营销活动</strong> 正在执行。</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">营销活动电子邮件性能报表</a></strong></td> 
    <td colspan="1">显示电子邮件绩效指标的报表类型，按指标分组 <strong>智能营销活动</strong>.</td> 
