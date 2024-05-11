@@ -4,16 +4,16 @@ title: 问题生成
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
 
 # 问题生成 {#question-generation}
 
-查看您的所有任务及其百分比详细信息，例如生成时间、问题总数、审批状态等。
+查看您的所有任务及其相关详细信息，例如何时生成任务、问题总数、审批状态等。
 
 ## 生成问题 {#generate-questions}
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->页面上的状态不会实时更新。 点击刷新以查看从“正在处理”到“完成”的时间。
+   >[!TIP]
+   >
+   >页面上的状态不会实时更新。 点击刷新以查看从“正在处理”到“完成”的时间。
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## 下载问题和回答 {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/question-generation-6.png)
 
-1. 在浏览器中找到downloads文件夹，然后选择该文件。 根据您的浏览器，这可能看起来有所不同。
+1. 在浏览器中找到downloads文件夹，然后选择该文件。 根据您使用的浏览器，这可能看起来有所不同。
 
    ![](assets/question-generation-7.png)
 
