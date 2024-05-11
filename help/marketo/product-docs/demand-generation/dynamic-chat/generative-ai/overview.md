@@ -4,10 +4,10 @@ title: 创作AI概述
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 5%
+source-wordcount: '130'
+ht-degree: 6%
 
 ---
 
@@ -17,24 +17,24 @@ Adobe Dynamic Chat中的创新型人工智能可让您加快营销活动的创�
 
 ## 问题生成 {#question-generation}
 
-使用经过销售、营销和产品知识培训的界面，通过人工智能辅助对话提升访客的入站体验。
+[提升入站体验](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) 使用经过销售、营销和产品知识培训的界面，为访客进行AI辅助对话。
 
-屏幕快照
+![](assets/generative-ai-overview-1.png)
 
 ## 回复库 {#response-library}
 
-生成自定义的问题和答案集合，所有问题和答案均由您预先批准，以便在创作AI聊天营销活动中使用。
+[生成自定义收藏集](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) 问题和答案均由您预先批准，用于创作AI聊天营销活动中。
 
-屏幕快照
+![](assets/generative-ai-overview-2.png)
 
 ## 活动日志 {#activity-log}
 
-查看所有任务的列表及其随附的详细信息，包括名称、所有者、类型以及编辑这些任务的人和时间。
+[查看所有任务的列表](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) 以及随附的详细信息，包括姓名、所有者、类型、编辑人员和编辑时间。
 
-屏幕快照
+![](assets/generative-ai-overview-3.png)
 
 ## 未解答的问题 {#unanswered-questions}
 
-使用人工智能，根据之前对话中未回答的问题存储库，为您的响应库创建其他预批准的响应。
+[创建其他预批准的响应](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 用于您的响应库，该库基于以前对话中未回答的问题存储库。
 
-屏幕快照
+![](assets/generative-ai-overview-4.png)

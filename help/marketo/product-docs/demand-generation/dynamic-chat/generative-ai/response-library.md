@@ -4,10 +4,10 @@ title: 响应库
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '366'
+ht-degree: 0%
 
 ---
 
@@ -57,24 +57,49 @@ ht-degree: 2%
 
 ## 批量编辑和上传问题/响应 {#bulk-edit-and-upload-questions-responses}
 
-1. 文本
+下面是如何在下载的Excel文件中进行批量编辑的说明。 它们还可以在文件的Task details选项卡中查看。
 
-屏幕快照
+<table>
+<thead>
+  <tr>
+    <th>操作</th>
+    <th>说明</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>编辑问题</td>
+    <td>在“editedQuestion”列（H列）中输入新问题</td>
+  </tr>
+  <tr>
+    <td>编辑响应</td>
+    <td>在“editedResponse”列中输入新响应（列I）</td>
+  </tr>
+  <tr>
+    <td>添加新问题</td>
+    <td>在“editedQuestion”列（列H）中输入新问题，并将questionResponse留空。 您还必须在列“主题”（列C）中输入适当的主题，并在列“sourceUr！”中输入源URL</td>
+  </tr>
+  <tr>
+    <td>添加问题和答案</td>
+    <td>在“editedQuestion”列（列H）中输入新问题，在“editedResponse”列（列I）中输入新响应，并将questionResponse留空。 您还必须在列“主题”（列C）中输入适当的主题</td>
+  </tr>
+</tbody>
+</table>
 
-1. 文本
+1. 在文件中完成编辑后，返回响应库选项卡，然后单击上载响应。
 
-屏幕快照
+   ![](assets/response-library-9.png)
 
-1. 文本
+1. 输入适用的任务名称。 拖放文件，或浏览到设备上并选择该文件。 单击 **保存** 完成时。
 
-屏幕快照
+   ![](assets/response-library-10.png)
 
-1. 文本
+1. 确认即会出现，您已准备就绪。
 
-屏幕快照
+   ![](assets/response-library-11.png)
 
 ## 过滤您的问题 {#filter-your-questions}
 
 默认情况下，问题按创建时间/日期顺序列出，最新的问题显示在最前。 如果您正在查找特定问题，请应用过滤器以缩小搜索范围。 按主题、任务名称和/或审批状态过滤。
 
-屏幕快照
+![](assets/response-library-12.png)
