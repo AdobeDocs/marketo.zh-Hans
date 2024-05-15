@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9355'
 ht-degree: 0%
 
 ---
@@ -675,12 +675,14 @@ ht-degree: 0%
             + [创建对话框](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [受众标准](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
             + [流设计器](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
+            + [流设计器临时](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer-temp.md)
          + 集成 {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [Adobe PDF 嵌入式 API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
          + 实时聊天 {#live-chat}
             + [实时聊天概述](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [代理收件箱](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+            + [代理收件箱温度](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox-temp.md)
             + [通知](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + 创作AI {#generative-ai}
             + [创作AI概述](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)

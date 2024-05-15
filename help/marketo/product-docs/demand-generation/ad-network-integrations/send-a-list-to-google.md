@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
    >
    >* 选择 **保持受众成员资格同步** 当列表在实例中发生更改时，它保持为最新。 我们在将人员添加到静态列表/从静态列表中移除人员后，从受众中添加/移除人员。
    >
-   >* 选中底部的复选框会将发送到Google Ads的用户数据的同意状态发送为GRANTED，以进行广告和广告个性化。 将其保留为未选中将发送同意状态为未指定。 对于那些计划为欧洲经济区(EEA)用户上传数据的用户，Google汇总了一份 [常见问题解答](https://support.google.com/google-ads/answer/14310715)，以及概述了 [欧盟用户同意政策](https://www.google.com/about/company/user-consent-policy/).
+   >* 选中底部的复选框会将发送到Google Ads的用户数据的同意状态发送为GRANTED，以进行广告和广告个性化。 将其保留为未选中将发送同意状态为未指定。 对于那些计划为欧洲经济区(EEA)用户上传数据的用户，Google汇总了一份 [常见问题解答](https://support.google.com/google-ads/answer/14310715){target="_blank"}, as well as additional details outlining the [EU user consent policy](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. 单击 **更新**.
 

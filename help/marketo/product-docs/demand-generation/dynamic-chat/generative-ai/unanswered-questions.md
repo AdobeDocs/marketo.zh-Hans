@@ -4,9 +4,10 @@ title: 未回答的问题
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
+exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,13 +18,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->未回答的问题列表每24小时自动刷新一次。
+>未回答的问题列表每24小时（太平洋标准时间午夜）自动刷新一次。
 
-1. 在“生成AI”下，单击 **辅助响应**.
+1. 在“生成AI”下，单击 **[!UICONTROL 辅助响应]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. 单击 **未回答的问题** 选项卡。
+1. 单击 **[!UICONTROL 未回答的问题]** 选项卡。
 
    ![](assets/unanswered-questions-2.png)
 
@@ -31,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/unanswered-questions-3.png)
 
-1. 输入您的响应。 分配主题并添加用户可与访客共享的可选URL。 单击 **保存** 完成时。
+1. 输入您的响应。 分配主题并添加用户可与访客共享的可选URL。 单击 **[!UICONTROL 保存]** 完成时。
 
    ![](assets/unanswered-questions-4.png)
 
