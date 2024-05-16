@@ -3,7 +3,7 @@ description: 用户和许可证管理 — Marketo文档 — 产品文档
 title: 用户和许可证管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -69,31 +69,31 @@ ht-degree: 0%
 <table> 
   <tr>
    <td width="20%"><b>开始日期</b></td>
-   <td>许可证开始日期。</td>
+   <td width="80%">许可证开始日期。</td>
   </tr>
   <tr> 
    <td width="20%"><b>到期日期</b></td>
-   <td>许可证到期日期。</td>
+   <td width="80%">许可证到期日期。</td>
   </tr>
   <tr> 
    <td width="20%"><b>类型</b></td>
-   <td>购买的许可证类型。 有三种可用类型：共享事件许可证、共享房间许可证、附加存储许可证。</td>
+   <td width="80%">购买的许可证类型。 有三种可用类型：共享事件许可证、共享房间许可证、附加存储许可证。</td>
   </tr>
   <tr> 
    <td width="20%"><b>事件容量</b></td>
-   <td>事件中可容纳的最大参与者数。</td>
+   <td width="80%">事件中可容纳的最大参与者数。</td>
   </tr>
   <tr> 
    <td width="20%"><b>事件总数</b></td>
-   <td>已使用此许可证配置的事件总数。</td>
+   <td width="80%">已使用此许可证配置的事件总数。</td>
   </tr>
   <tr> 
    <td width="20%"><b>使用的事件</b></td>
-   <td>已完成事件的总数。</td>
+   <td width="80%">已完成事件的总数。</td>
   </tr>
   <tr> 
    <td width="20%"><b>存储容量</b></td>
-   <td>可用于存储记录、抵押品、hero images、文档和其他资源的存储量。</td>
+   <td width="80%">可用于存储记录、抵押品、hero images、文档和其他资源的存储量。</td>
   </tr>
   </tbody>
 </table>
