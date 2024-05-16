@@ -3,7 +3,7 @@ description: Dynamic Chat发行说明 — Marketo文档 — 产品文档
 title: Dynamic Chat发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
+source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
 workflow-type: tm+mt
 source-wordcount: '1343'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Adobe Dynamic Chat版本在持续交付模型上运行，该模型允许采用�
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
-## 未解答的问题 {#unanswered-questions}
+### 未解答的问题 {#unanswered-questions}
 
 [使用未回答问题的存储库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} 从以前的对话中生成新的预批准响应，并维护包含最新信息的响应库。
 
