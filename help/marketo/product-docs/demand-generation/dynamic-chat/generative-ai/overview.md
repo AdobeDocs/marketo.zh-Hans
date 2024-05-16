@@ -1,14 +1,12 @@
 ---
 description: 创作AI概述 — Marketo文档 — 产品文档
 title: 创作AI概述
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: ed8f0f5543e66ab6e6df5a97ac9a6cf55931daba
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 3%
+source-wordcount: '429'
+ht-degree: 2%
 
 ---
 
@@ -30,33 +28,45 @@ Adobe Dynamic Chat中的创新型人工智能可实时处理意图信号、用�
 
 ## 对话摘要 {#conversation-summary}
 
-通常，要获取访客对话的完整上下文，您必须滚动浏览整个聊天记录。 对话摘要会实时为您生成摘要，甚至包括访客表示感兴趣的主题。 这对于需要在与多个访客的聊天之间切换时快速了解对话上下文的聊天代理特别有用。
+通常，要获取访客对话的完整上下文，您必须滚动浏览整个聊天记录。 对话摘要会实时为您生成摘要，甚至包括访客表示感兴趣的主题。 这对于需要在与多个访客的聊天之间切换时快速了解对话上下文的聊天代理特别有用。 除了在“代理收件箱”聊天屏幕中显示外，还可以在访客的Marketo Engage数据库中个人记录的活动日志中找到已完成的对话摘要。
 
 ![](assets/generative-ai-overview-3.png)
+
+![](assets/generative-ai-overview-4.png)
+
+>[!NOTE]
+>
+>将为实时和自动聊天生成对话摘要。
 
 ## 问题生成 {#question-generation}
 
 [提升入站体验](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) 使用经过销售、营销和产品知识培训的界面，为访客进行AI辅助对话。
 
-![](assets/generative-ai-overview-4.png)
+![](assets/generative-ai-overview-5.png)
 
 ## 回复库 {#response-library}
 
 [生成自定义收藏集](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) 问题和答案均由您预先批准，用于创作AI聊天营销活动中。
 
-![](assets/generative-ai-overview-5.png)
+![](assets/generative-ai-overview-6.png)
 
 ## 活动日志 {#activity-log}
 
 [查看所有任务的列表](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) 以及随附的详细信息，包括姓名、所有者、类型、编辑人员和编辑时间。
 
-![](assets/generative-ai-overview-6.png)
+![](assets/generative-ai-overview-7.png)
 
 ## 未解答的问题 {#unanswered-questions}
 
 [创建其他预批准的响应](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 对于您的响应库，使用基于存储库的AI使用先前对话中未回答问题的不同词。
 
-![](assets/generative-ai-overview-7.png)
+![](assets/generative-ai-overview-8.png)
+
+## 讨论的主题 {#discussed-topics}
+
+讨论的主题将作为约束显示在智能列表触发器和过滤器中，允许您进一步深入到Dynamic Chat分析中。
+
+![](assets/generative-ai-overview-9.png)
 
 >[!IMPORTANT]
 >

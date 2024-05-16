@@ -1,11 +1,12 @@
 ---
 description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -51,22 +52,13 @@ ht-degree: 1%
  <tr>
   <td style="width:25%"><strong>操作*</strong></td>
   <td>与表单中的隐藏字段类似，使用操作卡，您可以填充任何潜在客户或公司属性(具有 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">字符串数据类型</a>)，其中包含您要针对潜在客户记录捕获的隐式值。 您可以在对话的任何位置添加操作卡，并使用自动填充相应值的值或本机令牌更新相应的属性。
-  <p><i>*此卡需要Dynamic ChatPrime。 有关详细信息，请联系Adobe客户团队（您的客户经理）。</i></td>
+  <p><i>* “操作”卡需要Dynamic ChatPrime。 有关详细信息，请联系Adobe客户团队（您的客户经理）。</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>实时聊天</strong></td>
   <td>当您希望访客与实时座席聊天时，可使用实时聊天卡。
   <li>实时聊天卡必须是分支中的最后一张卡。</li>
   <li>访客一旦在流中到达此信息卡就会被路由到代理，因此建议在此信息卡之前添加一个问题卡，询问访客是否愿意与实时代理聊天。</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>生成的响应*</strong></td>
-  <td>为访客在对话中到达某个时间点时创建消息。 设置他们一次可以提出的一系列问题，以获得您所需的关键绩效指标。
-  <p><i>*此卡需要Dynamic ChatPrime。 有关详细信息，请联系Adobe客户团队（您的客户经理）。</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>条件分支</strong></td>
-  <td>根据不同的条件，在对话框流中创建分支。 根据Marketo Engage中的商机和公司属性，在同一对话框中向不同人员展示不同的内容。</td>
  </tr>
 </table>
 

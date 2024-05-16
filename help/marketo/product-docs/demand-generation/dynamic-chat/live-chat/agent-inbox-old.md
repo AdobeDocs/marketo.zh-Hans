@@ -1,12 +1,13 @@
 ---
 description: 代理收件箱 — Marketo文档 — 产品文档
 title: 代理收件箱
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 0%
+source-wordcount: '301'
+ht-degree: 1%
 
 ---
 
@@ -56,45 +57,11 @@ ht-degree: 0%
 
 ![](assets/agent-inbox-6.png)
 
-## 快捷键 {#shortcuts}
-
->[!NOTE]
->
->此功能属于创作AI，可通过Dynamic ChatPrime订阅获取。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
-
-快捷方式，由创作AI提供支持 [响应库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)，是在与访客聊天时快速获取帮助的好方法。 只需键入正斜杠(`/`)，然后选择 `ask` 或 `search`.
-
-![](assets/agent-inbox-7.png)
-
-**询问** 用于帮助回答问题。
-
-1. 键入或选择 `/ask` 在文本框中。 键入您的问题并在键盘上按Enter键。
-
-   ![](assets/agent-inbox-8.png)
-
-1. 出现答案。 单击复制图标以将其粘贴到文本框中。 您可以在将文本发送给访客之前对其进行编辑。
-
-   ![](assets/agent-inbox-9.png)
-
-**Search** 用于帮助查找与特定文本相关的页面。
-
-1. 键入或选择 `/search` 在文本框中。
-
-   ![](assets/agent-inbox-10.png)
-
-1. 键入要搜索的内容，然后在键盘上按Enter。
-
-   ![](assets/agent-inbox-11.png)
-
-1. 此时会显示适用的链接。 单击复制图标以将其粘贴到文本框中。 您可以在向访客发送信息之前进行编辑。
-
-   ![](assets/agent-inbox-12.png)
-
 ## 活动历史记录 {#activity-history}
 
 访客信息下面是活动历史记录。 查看活动类型和日期，甚至查看聊天记录。
 
-![](assets/agent-inbox-13.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -106,26 +73,13 @@ ht-degree: 0%
 
 1. 单击日历图标。
 
-   ![](assets/agent-inbox-14.png)
+   ![](assets/agent-inbox-8.png)
 
 1. 选择所需的代理日历，然后单击 **发送**.
 
-   ![](assets/agent-inbox-15.png)
+   ![](assets/agent-inbox-9.png)
 
 1. 聊天访客将能够预约会议。
 
-   ![](assets/agent-inbox-16.png)
+   ![](assets/agent-inbox-10.png)
 
-## 对话摘要 {#conversation-summary}
-
->[!NOTE]
->
->此功能属于创作AI，可通过Dynamic ChatPrime订阅获取。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
-
-对话摘要会实时为您生成快速摘要，包括访客表示感兴趣的主题。 它位于每个聊天屏幕的右下角。
-
-![](assets/agent-inbox-17.png)
-
->[!NOTE]
->
->您还可以在活动数据库中访客个人记录的Marketo Engage日志中找到已完成的对话摘要。

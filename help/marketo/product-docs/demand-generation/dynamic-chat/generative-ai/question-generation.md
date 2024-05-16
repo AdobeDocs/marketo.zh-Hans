@@ -1,13 +1,11 @@
 ---
 description: 问题生成 — Marketo文档 — 产品文档
 title: 问题生成
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -72,16 +70,51 @@ ht-degree: 0%
 
 ## 要允许列表的IP地址 {#ip-addresses-to-allowlist}
 
-为了能够在生成问题和响应期间从Web URL提取内容，请确保以下所有IP地址都已被您的Web团队列入允许列表。
+为了能够在生成问题和响应期间从Web URL提取内容，请在下面找到您的地区，并确保与其关联的所有IP地址都由您的Web团队列入允许列表。
 
-<table width="150">
+<table width="450">
+<thead>
   <tr>
-    <td>20.167.0.149</td>
+    <th>北美</th>
+    <th>欧洲</th>
+    <th>亚太地区</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>20.10.235.188</td>
+    <td>20.76.246.248</td>
+    <td>20.167.0.195</td>
   </tr>
   <tr>
-    <td>20.248.129.111</td>
+    <td>20.10.235.189</td>
+    <td>20.76.247.92</td>
+    <td>20.248.128.31</td>
   </tr>
   <tr>
-    <td>20.167.0.146</td>
+    <td>20.10.235.246</td>
+    <td>20.76.247.134</td>
+    <td>20.167.1.48</td>
   </tr>
+  <tr>
+    <td>20.10.235.248</td>
+    <td>20.76.247.244</td>
+    <td>20.167.1.63</td>
+  </tr>
+  <tr>
+    <td>20.10.235.255</td>
+    <td>20.93.168.10</td>
+    <td>20.167.1.92</td>
+  </tr>
+  <tr>
+    <td>20.10.236.96</td>
+    <td>20.93.168.44</td>
+    <td>20.167.1.155</td>
+  </tr>
+  <tr>
+    <td>20.119.144.14</td>
+    <td>20.105.224.16</td>
+    <td>20.211.64.11</td>
+  </tr>
+</tbody>
 </table>
