@@ -3,9 +3,9 @@ description: Dynamic Chat发行说明 — Marketo文档 — 产品文档
 title: Dynamic Chat发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
+source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
 workflow-type: tm+mt
-source-wordcount: '1203'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,44 @@ ht-degree: 0%
 Adobe Dynamic Chat版本在持续交付模型上运行，该模型允许采用更具可扩展性的方法来部署功能。 有时，一个月内会发布多个版本，因此请定期查看以获取最新信息。
 
 用于Marketo Engage的标准发行说明页面 [可在此处找到](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## 2024年5月版 {#may-release}
+
+**发行日期： 2024年5月15日**
+
+### 预批准的响应库 {#pre-approved-response-library}
+
+[创建营销批准的库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} 在几分钟内即可完成人工智能生成的问题和答案的创建，以帮助建立创新型人工智能聊天。
+
+![](assets/dynamic-chat-may-2024-release-1.png)
+
+## 未解答的问题 {#unanswered-questions}
+
+[使用未回答问题的存储库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} 从以前的对话中生成新的预批准响应，并维护包含最新信息的响应库。
+
+![](assets/dynamic-chat-may-2024-release-2.png)
+
+### 对话摘要 {#conversation-summaries}
+
+[向销售代理提供总结对话](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} 在会议召开前对关键讨论主题进行深入分析，以缩短准备时间，并更好地向销售代理提供最新信息。
+
+![](assets/dynamic-chat-may-2024-release-3.png)
+
+### GenAI销售快捷方式 {#genai-sales-shortcuts}
+
+[以更快的方式提供实时聊天代理](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} 要访问AI生成的响应，请编辑现有生成的响应并搜索要在对话期间发送给购买者的其他内容。
+
+![](assets/dynamic-chat-may-2024-release-4.png)
+
+### 对话助手 {#conversation-assist}
+
+使用您的营销团队预批准的响应，帮助销售代理在实时对话中做出准确响应。
+
+### 对话轻推 {#conversation-nudges}
+
+通过行动号召来推动Web访客，以促使对话结束。
+
+<p>
 
 ## 2024年4月版 {#april-release}
 
