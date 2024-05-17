@@ -3,10 +3,10 @@ description: Dynamic Chat概述 — Marketo文档 — 产品文档
 title: Dynamic Chat概述
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 1%
+source-wordcount: '595'
+ht-degree: 2%
 
 ---
 
@@ -56,9 +56,13 @@ Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo�
 
 [设计对话](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} 这些消息可以由访客根据您指定的操作（例如，填写表单、单击链接等）触发。
 
+## 生成式 AI {#generative-ai}
+
+[创作AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} 在Adobe Dynamic Chat中，实时处理意图信号、用户偏好和过去行为，以便为聊天访客生成相关的个性化消息。
+
 ## 更改语言 {#changing-the-language}
 
-按照以下步骤更改Dynamic Chat语言。
+请按照以下步骤更改Dynamic Chat语言。
 
 >[!IMPORTANT]
 >
