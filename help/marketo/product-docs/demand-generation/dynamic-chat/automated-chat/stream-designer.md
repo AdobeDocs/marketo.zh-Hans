@@ -3,7 +3,7 @@ description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
 workflow-type: tm+mt
 source-wordcount: '1212'
 ht-degree: 1%
@@ -115,7 +115,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >您可以使用令牌为已知聊天访客个性化体验(例如：Hello `{{lead.leadFirstName:""}}`)。 只需单击右侧的花括号图标即可进行选择。 如果您希望匿名访客看到通用内容（例如：Hello），请在引用之间添加默认值 `{{lead.leadFirstName:"there"}}`)。
+   >您可以使用令牌为已知聊天访客个性化体验(例如：Hello `{{lead.leadFirstName:""}}`)。 只需单击右侧的花括号图标即可进行选择。 如果您希望匿名访客看到通用内容（例如：Hello），请在引号之间添加默认值 `{{lead.leadFirstName:"there"}}`)。
 
    >[!NOTE]
    >
