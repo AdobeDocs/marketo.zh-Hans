@@ -4,9 +4,9 @@ description: 管理Marketo用户 — Marketo文档 — 产品文档
 title: 管理Marketo用户
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->本文仅适用于拥有这些权限的用户 _非_ 使用 [具有Adobe身份的Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If you do, please follow the steps in [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} 而是。
+>本文仅适用于拥有这些权限的用户 _非_ 使用 [具有Adobe身份的Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. 如果您这样做，请按照中的步骤操作 [本文](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## 创建用户 {#create-users}
 

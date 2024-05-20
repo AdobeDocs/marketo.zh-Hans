@@ -4,16 +4,20 @@ description: 选择语言、区域设置和时区 — Marketo文档 — 产品�
 title: 选择语言、区域设置和时区
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '156'
+ht-degree: 5%
 
 ---
 
 # 选择语言、区域设置和时区 {#select-your-language-locale-and-time-zone}
 
-英语不是你的母语吗？ 别担心，我们已经为您做好了准备。 以下是如何更改您自己的语言、区域设置和时区。
+英语不是你的母语吗？ 别担心，我们已经为您做好了准备。 以下是如何更改Marketo Engage实例的语言、区域设置和时区。
+
+>[!IMPORTANT]
+>
+>本文仅适用于拥有这些权限的用户 _非_ 使用 [具有Adobe身份的Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). 如果这样做，则可以在以下页面访问以下列出的设置： [Adobe帐户配置文件](https://account.adobe.com/profile).
 
 ## 支持的语言 {#supported-languages}
 
@@ -54,7 +58,7 @@ ht-degree: 4%
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. 单击 **[!UICONTROL 保存]**.
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
