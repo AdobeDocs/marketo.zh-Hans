@@ -4,9 +4,9 @@ description: 了解电子邮件程序 — Marketo文档 — 产品文档
 title: 了解电子邮件程序
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -36,15 +36,19 @@ ht-degree: 0%
 
 ## 仪表板 {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->与通过智能营销活动发送电子邮件相比，一些人更喜欢使用电子邮件程序，因为程序具有详细的报表仪表板。
+>为了提供准确的报告，请避免通过智能营销活动重用电子邮件程序中先前使用的电子邮件，或避免将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将添加到原始电子邮件计划仪表板中的报表编号。 如果需要重复使用同一电子邮件， [克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 而是。
 
 享受劳动果实。 功能板为您显示电子邮件计划和A/B测试性能概览。
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>由于程序的详细报表仪表板，因此有些人更喜欢使用电子邮件程序，而不是通过Smart Campaign发送电子邮件。
 
 ## 嵌套 {#nesting}
 

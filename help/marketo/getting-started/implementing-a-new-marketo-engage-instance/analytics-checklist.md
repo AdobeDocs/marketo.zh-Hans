@@ -4,7 +4,7 @@ title: 新实例最佳实践 — 分析核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
 source-wordcount: '1424'
 ht-degree: 0%
@@ -109,7 +109,7 @@ Analytics部分提供可分析营销工作性能的全局报表。 了解导航�
     <td>注意：此报表要求您在中定义渠道、进展状态和成功步骤。 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">管理员&gt;标记区域</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">衡量营销策略的有效性</a> 在选择性程序中。</li>
     <li>根据营销活动中的最佳实践管理项目成员资格（使用智能营销活动更新客户获取项目、状态、成功状态）。</li>
     <li>按本年度和连续12个月的成本计量。
-    <ul><li>请记住，维护 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">期间成本</a> 对充分利用项目执行情况报告至关重要。</li>
+    <ul><li>请记住，维护 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">期间成本</a> 对充分利用项目执行情况报告至关重要。</li></ul>
     <br>提示：要聚合和查看任意 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">导入的列表</a> 在项目性能报表中，确保您的团队选择适当的客户获取项目进行标记。 考虑 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">创建默认程序</a> 导入的列表不适用于任何渠道时，选择作为客户获取项目的客户获取计划。 这可确保导入的任何人员都拥有与其来源、业务部门、渠道等相关的有效客户获取计划。 而不是空白值。</td>
   </tr>
   <tr>

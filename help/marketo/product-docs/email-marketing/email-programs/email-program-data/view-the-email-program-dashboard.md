@@ -4,9 +4,9 @@ description: 查看电子邮件计划仪表板 — Marketo文档 — 产品文�
 title: 查看电子邮件计划仪表板
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 查看电子邮件计划仪表板 {#view-the-email-program-dashboard}
 
 在此仪表板中查看您的电子邮件计划（无论是否有A/B测试）的执行情况。
+
+>[!CAUTION]
+>
+>为了提供准确的报告，请避免通过智能营销活动重用电子邮件程序中先前使用的电子邮件，或避免将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将添加到原始电子邮件计划仪表板中的报表编号。 如果需要重复使用同一电子邮件， [克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 而是。
 
 ## 选择您的电子邮件程序 {#select-your-email-program}
 

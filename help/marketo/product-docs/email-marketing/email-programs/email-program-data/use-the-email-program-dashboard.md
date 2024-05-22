@@ -4,9 +4,9 @@ description: 使用电子邮件计划仪表板 — Marketo文档 — 产品文�
 title: 使用电子邮件程序仪表板
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 查看您的电子邮件程序在此仪表板视图中的执行情况。
 
+>[!CAUTION]
+>
+>为了提供准确的报告，请避免通过智能营销活动重用电子邮件程序中先前使用的电子邮件，或避免将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将添加到原始电子邮件计划仪表板中的报表编号。 如果需要重复使用同一电子邮件， [克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 而是。
+
 >[!NOTE]
 >
->如果您的程序进行了A/B测试，请查看 [电子邮件计划仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>如果您的程序进行了A/B测试，请查看 [电子邮件计划仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +51,7 @@ ht-degree: 0%
 
 ## 摘要 — 参与度 {#summary-engagement}
 
-这向您展示了整个 [参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+这向您展示了整个 [参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -63,7 +67,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**条件**
+>**定义**
 >
 >**打开次数** 当电子邮件收件人下载电子邮件的图像(包括插入Marketo的跟踪像素)时，会计入该数量。 如果收件人查看了电子邮件，但选择不下载其图像，则不会将其计为已打开。 如果图像在收件人的预览窗格中加载，则通常将被计为打开图像，但实际打开图像的情况因电子邮件客户端而异。
 >
@@ -77,4 +81,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[使用电子邮件程序仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[使用电子邮件程序仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}
