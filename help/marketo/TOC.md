@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: c7b46fe06e9bdd2cf3437ee6be741a72c69830b8
+source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9350'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,14 @@ ht-degree: 0%
       + [新实例最佳实践：数据库核对清单](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
       + [新实例最佳实践：营销活动核对清单](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [新实例最佳实践：设计工作室核对清单](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新实例最佳实践：Analytics清单](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [新实例最佳实践：记录您的设置](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 注意事项 {#things-to-know}
       + [Marketo Engage术语表](getting-started/things-to-know/marketo-engage-glossary.md)
       + [图标术语表](getting-started/things-to-know/icon-glossary.md)
       + [Classic图标术语表](getting-started/things-to-know/classic-icon-glossary.md)
       + [帮助中心](getting-started/things-to-know/help-center.md)
+      + [营销国家社区](getting-started/things-to-know/community.md)
    + 快速入门 {#quick-wins}
       + [设置并添加人员](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [发送电子邮件](getting-started/quick-wins/send-an-email.md)

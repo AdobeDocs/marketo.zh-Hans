@@ -4,40 +4,68 @@ title: Marketo Engage社区
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
 # Marketo Engage社区 {#marketo-engage-community}
 
-此 [营销国家社区](https://nation.marketo.com/){target="_blank"} 是从Marketo Engage员工和同事那里了解有关您的Marketo Engage实例的更多信息的位置。
+此 [营销国家社区](https://nation.marketo.com/){target="_blank"} 是向同事和Marketo员工详细了解Marketo Engage实例的地方。 在开始之前，请花些时间熟悉 [社区准则](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+## 注册您的用户名 {#register-your-username}
+
+ — 注册用户名
+
+屏幕快照
 
 ## 设置配置文件 {#set-up-your-profile}
 
- — 注册用户名 — 添加照片
+登录“营销国家/地区”后，单击您的默认头像图标并选择“我的设置”以更新您的偏好设置、更改您的头像照片、控制标记等。
 
-## 提交问题 {#submit-a-question}
-
-文本
-
-## 阅读博客帖子 {#read-blog-posts}
-
--champions -marketo总理
-
-## 提交想法 {#submit-an-idea}
-
-文本
+屏幕快照
 
 ## 使用搜索 {#using-the-search}
 
- — 筛选
+在提交问题之前，请使用强大的搜索功能查看是否已询问/回答该问题。 使用筛选选项缩小搜索结果。
+
+屏幕快照
+
+>[!TIP]
+>
+>为了获得更宽泛的结果，请使用重点关键词搜索而不是长尾(例如，搜索“Dynamic Chat”而不是“如何在Dynamic Chat中添加代理”)
+
+## 提交问题 {#submit-a-question}
+
+这是您通常寻求帮助的地方。 当您寻求有关特定问题的反馈时，可以启动讨论会话（或搜索现有会话），或者跳到其他人的会话中，以协助他们处理您了解的问题。
+
+屏幕快照
+
+## 阅读博客帖子 {#read-blog-posts}
+
+此部分充满了来自Marketo Engage用户（包括几名支持者）和Marketo员工的有用信息。 需要其他信息时，请在底部留下注释。
+
+屏幕快照
+
+## 提交想法 {#submit-an-idea}
+
+如果您想出了一个可以改进Marketo Engage的想法，请在本节中提交。 你也可以就现有的想法进行投票。
+
+屏幕快照
+
+## Marketo用户组 {#marketo-user-groups}
+
+Marketo用户组(MUG)是在全球不同地区召开的聚会。 它们为您提供了联谊、讨论最新趋势、了解新功能等机会。 查看您所在区域是否有这样一个用户组。 如果没有，请加入虚拟用户组！
+
+屏幕快照
 
 ## 订阅每周摘要 {#subscribe-to-the-weekly-digest}
 
 文本
+
+屏幕快照
 
 ## 合并Marketo Engage预订 {#merging-marketo-engage-subscriptions}
 
@@ -57,22 +85,6 @@ ht-degree: 0%
 
 我们的社区团队将在4-6个工作日内合并您的社区配置文件。 完成后，您将在登录时在主社区配置文件中看到参与历史记录。 如果没有，请注销帐户并重新登录以进行确认。
 
+<p>
 
-
-《乔纳森邮报》：
-
-欢迎来到营销国家社区！
-
-如果您是这里的新用户，请不要忘记查看我们的准则，以确保您能够充分利用我们的社区。
-
-第一次使用Marketo？ 在“产品讨论”页面中提问，或访问我们的“支持”页面与我们的支持团队交谈。 您也可以访问我们的Marketo Engage文档或Marketo Measure文档页面以开始使用，并且不要忘记使用我们的搜索栏来查看其他人以前是否遇到过类似的问题！
-
-我们的Marketo用户组(MUG)是由热心的MUG负责人组织的本地聚会，向任何人提供联网、讨论最新趋势、了解新功能、发布本地机会等机会。 查看超过70个Marketo用户组章节的可用性，并查看您所在的区域是否有用户组聚会！
-
-有改进我们产品的强烈想法吗？ 在“创意”页面中提交您的创意；您还可以浏览并对同行提交的创意进行投票。
-
-最后，Marketo提供了多种培训和认证，以提升您对产品的专业技能。 您可以访问“Marketo EngageExperience League”页面以了解更多详细信息。
-
-
-
- — 设置配置文件/注册用户名 — 添加照片 — 提交问题（讨论线程） — 阅读冠军博客 — 提交想法 — 使用搜索（过滤） — 订阅每周摘要（必须登录）
+欢迎使用Marketo Engage，尽情体验营销之国！
