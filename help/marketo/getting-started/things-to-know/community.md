@@ -4,9 +4,9 @@ title: Marketo Engage社区
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 设置配置文件 {#set-up-your-profile}
 
-登录“营销国家/地区”后，单击您的默认头像图标并选择“我的设置”以更新您的偏好设置、更改您的头像照片、控制标记等。
+登录Marketing Nation后，单击您的默认头像图标并选择 **[!UICONTROL 我的设置]** 要更新您的偏好设置，请更改您的头像照片、控制标记等。
 
 屏幕快照
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## Marketo用户组 {#marketo-user-groups}
 
-Marketo用户组(MUG)是在全球不同地区召开的聚会。 它们为您提供了联谊、讨论最新趋势、了解新功能等机会。 查看您所在区域是否有这样一个用户组。 如果没有，请加入虚拟用户组！
+Marketo用户组(MUG)是在全球不同地区召开的聚会。 它们为您提供了联谊、讨论最新趋势、了解新功能等机会。 查看您所在区域是否有这样一个用户组。 如果没有，您可以加入虚拟用户组！
 
 屏幕快照
 
@@ -85,6 +85,6 @@ Marketo用户组(MUG)是在全球不同地区召开的聚会。 它们为您提�
 
 我们的社区团队将在4-6个工作日内合并您的社区配置文件。 完成后，您将在登录时在主社区配置文件中看到参与历史记录。 如果没有，请注销帐户并重新登录以进行确认。
 
-<p>
+<br>
 
 欢迎使用Marketo Engage，尽情体验营销之国！
