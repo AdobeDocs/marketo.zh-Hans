@@ -1,0 +1,127 @@
+---
+description: 新区域ANALYTICS - Marketo文档 — 产品文档
+title: 新实例最佳实践 — 分析核对清单
+hide: true
+hidefromtoc: true
+feature: Getting Started
+source-git-commit: ae40e26966ed85da9c55fc510732841fa1e5212a
+workflow-type: tm+mt
+source-wordcount: '1419'
+ht-degree: 0%
+
+---
+
+# 新区域：Analytics核对清单 {#new-area-analytics-checklist}
+
+Analytics部分提供可分析营销工作性能的全局报表。 了解导航所需的步骤。
+
+请记住 [下载核对清单](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 并跟踪您的进度。
+
+## 树 {#tree}
+
+<table>
+<thead>
+  <tr>
+    <th style="width:20%">区域</th>
+    <th style="width:80%">操作项</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>组织：命名、文件夹和存档 <br> </td>
+    <td>使用报告命名惯例来区分“全局报告”选项卡中的报告。 <br>良好命名惯例的示例是[报告类型] [全局与特定于BU的标记] [报告描述]，如[电子邮件性能]-[全局]-[180天电子邮件参与]。  <br>确定应与您组织中不同用户组（例如，销售团队、营销领导层）共享的报表，并在Analytics for Global Reports的“组报表”文件夹内按文件夹整理报表。 <br>存档应限制为全局报告文件夹，因为这些报告始终处于开启状态。   <br>将存档限制为组织更改，例如，如果您根据业务部门结构报告，则减少或添加相关的业务部门。</td>
+  </tr>
+  <tr>
+    <td>工作区（如果适用） </td>
+    <td>如果使用工作区，请跨工作区复制全局报表和文件夹结构，以保持团队报告的一致性。 这些报告将包含在“组报告”文件夹中。</td>
+  </tr>
+  <tr>
+    <td>我的报表 </td>
+    <td>确定并创建在中使用所需的报告 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports">我的报表</a> 部分。 使用此专用报表分区作为全局报表的沙盒。 这些选项仅对创建报告的用户可用。   <br>使用您组织的命名惯例来标识报告和用法，以便您可以将“我的报告”中的报告与“组报告”中的报告相协调。</td>
+  </tr>
+  <tr>
+    <td>组报表 </td>
+    <td>组报告是您组织的全局报告，应报告Marketo Engage组织的整体活动。   <br>考虑创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports" target="_blank" rel="noopener noreferrer">可克隆的核心报告</a> 您希望每个业务部门最大限度地利用数据，以减少提取报表所需的时间并确保数据的正确性。 请参阅“基本报表 — 全局报表”表[将链接插入到已添加书签的部分]中的详细信息。 <br>人员绩效报表（全时性和基于时间） — 按来源、月份 <br>项目执行情况报告（按成本月份，基于时间） <br>电子邮件性能报表（基于时间） <br><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces" target="_blank" rel="noopener noreferrer">打开“全局报告”</a> 在报表的“设置”选项卡中，将来自所有工作区的数据包括在电子邮件性能和电子邮件链接性能报表中。 如果您有多个工作区，则只需在默认工作区中启用此功能。  <br>提示：创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists" target="_blank" rel="noopener noreferrer">智能列表</a> ，其中包含您要包含在大多数报表中的“数据库”部分中的过滤器。 当需要更新智能列表条件时，可以在一个位置更新它，而不是在所有全局报告中更新它。</td>
+  </tr>
+</tbody>
+</table>
+
+## 订阅 {#subscriptions}
+
+<table>
+<thead>
+  <tr>
+    <th>区域 </th>
+    <th>操作项</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>订阅 </td>
+    <td>与您的营销负责人保持一致，了解哪些人应该审查报告结果以及他们在实施过程中的节奏。 <br>使用订阅将数据分发给组织中的需要了解的人员，而不用用耗尽指定的用户许可证。 <br>提示：订阅电子邮件通常在夜间发送。 如果您希望用户访问实时报表数据，则需要将用户添加为用户，以便他们可以直接查看报表。 <br><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report">设置订阅</a> 根据每个小组持续监测的适当节奏（每日/每周/每月）。 您还可以 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions">查看您的所有订阅</a> 在Analytics的“订阅”选项卡下的一个位置。</td>
+  </tr>
+</tbody>
+</table>
+
+## 全局报告 {#global-reports}
+
+确定应与您组织内的不同用户组（例如，销售团队、营销领导层）共享的报表。 为每个团队/用户组/业务部门创建适当的文件夹结构，以便在克隆报告时在“组报告”中组织报告。 请考虑设置全局报表，例如：
+
+<table>
+<thead>
+  <tr>
+    <th style="width:20%">报告类型</th>
+    <th style="width:80%">操作项</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>电子邮件性能报表 </td>
+    <td>使用选定的正确电子邮件创建全局、工作区/业务部门范围的报告。  <br>在所有可克隆的计划模板中创建本地电子邮件性能报告。 <br><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame">使用相关时间范围</a> （即年、最近180天、最近90天）以让您准确了解标准电子邮件参与度和可投放性指标。 <br>提示： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity">在“管理员&gt;电子邮件”中打开“机器人活动”筛选功能</a> 以避免日志记录或识别是否为机器人活动启用了日志记录。 <a href="https://nation.marketo.com/t5/product-documents/filtering-email-bot-activity-feature-latest-release/ta-p/324860">包括过滤器，以仅允许已打开/已单击且将“是机器人活动”约束设置为“False”的活动</a> 可克隆全局报表的智能列表中。</td>
+  </tr>
+  <tr>
+    <td>人员绩效报表</td>
+    <td>注意：建议最好拥有 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">渠道和标记策略</a> Marketo Engage ，然后才能跟踪通过每个渠道获得的人员，以及您的营销投资的ROI。 <br>确定将用于衡量商机获取计划绩效的标准，并根据这些指标创建基于时间（当前年份、最近连续12个月或180天）的标准报表： <br>客户获取计划：为获取潜在客户而贷记的Marketo Engage计划。  <br>人员来源：您的数据库了解记录的来源类别（基于CRM中的源值列表） <br>按周或月衡量创建的人员。 此报告将为您提供数据库增长率的测量结果，以及您是否接近或即将超过数据库大小限制。 <br>人员绩效报表中的量度过滤依据 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">将智能列表用作自定义列。</a>  <br>提示：为您希望添加到“数据库”而不是“营销活动”中的人员绩效报表的自定义列创建智能列表，以便您能够正确清楚地查看在报表中选择了智能列表时的名称。</td>
+  </tr>
+  <tr>
+    <td>项目执行情况报告</td>
+    <td>注意：此报表要求您在中定义渠道、进展状态和成功步骤。 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">管理员&gt;标记区域</a>. <br><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">衡量营销策略的有效性</a> 在选择性程序中。 <br>根据营销活动中的最佳实践管理项目成员资格（使用智能营销活动更新客户获取项目、状态、成功状态）。  <br>按本年度和连续12个月的成本计量。  <br>请记住，维护 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">期间成本</a> 对充分利用项目执行情况报告至关重要。 <br>提示：要聚合和查看任意 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">导入的列表</a> 在项目性能报表中，确保您的团队选择适当的客户获取项目进行标记。 考虑 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">创建默认程序</a> 导入的列表不适用于任何渠道时，选择作为客户获取项目的客户获取计划。 这可确保导入的任何人员都拥有与其来源、业务部门、渠道等相关的有效客户获取计划。 而不是空白值。</td>
+  </tr>
+  <tr>
+    <td>登陆页面性能报表</td>
+    <td> 创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report">登陆页面性能报表</a> 作为全局报告，以便 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report">筛选并查看数字</a> 所有Design Studio登陆页面或营销活动登陆页面中的一个。 <br>对于具有登陆页面的程序，请考虑 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report">在项目模板中创建专用本地报告</a> 这样您就可以在项目级别查看绩效。</td>
+  </tr>
+  <tr>
+    <td>网页活动报表 </td>
+    <td>Marketo注意：仅限具有 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website">Munchkin JavaScript</a> 启用的将在此报告中进行跟踪。 考虑将JavaScript代码放置在Tag Management平台中，例如 <a href="https://developers.marketo.com/blog/integrating-munchkin-with-google-tag-manager/">Google Tag Manager</a>，避免在每个网页上硬编码代码。  <br>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/web-page-activity-report">网页活动报表</a> 作为全局报表，以便在一个位置查看所有网页的数量。 请注意，您的外部网页活动仅反映在网页活动报表中。 </td>
+  </tr>
+</tbody>
+</table>
+
+## 本地报表 {#local-reports}
+
+某些Marketo Engage报表最好部署为“营销活动”中特定项目内的本地资源，因为它们的最佳使用方式是一组较为有限的项目和资源。 考虑设置基本报表，例如：
+
+<table>
+<thead>
+  <tr>
+    <th style="width:20%">报告类型</th>
+    <th style="width:80%">操作项</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>电子邮件链接性能报表</td>
+    <td>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report" target="_blank" rel="noopener noreferrer">电子邮件链接性能报表</a> 在程序发送电子邮件和您的滴答营销活动中，为您提供有关用户在电子邮件中点击的链接的洞察。</td>
+  </tr>
+  <tr>
+    <td>营销活动报表</td>
+    <td>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank" rel="noopener noreferrer">营销活动报表</a> 并在“营销活动”的操作文件夹中选择一个期间。 <br>设置报告以监控每个用例的触发器，以及 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank" rel="noopener noreferrer">应用营销活动过滤器</a>例如，行为评分触发器、生命周期资格触发器、兴趣时刻触发器。</td>
+  </tr>
+  <tr>
+    <td>参与流性能报表（如果适用）</td>
+    <td>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report" target="_blank" rel="noopener noreferrer">参与流性能报表</a> 衡量在参与项目中部署的内容和流的有效性。 <br>考虑 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank" rel="noopener noreferrer">使用报表“设置”选项卡中的“分段”过滤器</a> 并按对报表数据进行分组 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank" rel="noopener noreferrer">区段</a> （例如，人员来源、行业）。 这将有助于更深入地了解每个区段的参与模式，指导您进行战略更改以改进参与计划（内容、流、流节奏等）。</td>
+  </tr>
+</tbody>
+</table>
