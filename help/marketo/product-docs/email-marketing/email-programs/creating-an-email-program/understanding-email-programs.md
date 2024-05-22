@@ -4,16 +4,16 @@ description: 了解电子邮件程序 — Marketo文档 — 产品文档
 title: 了解电子邮件程序
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # 了解电子邮件程序 {#understanding-email-programs}
 
-向您的新Marketo朋友（电子邮件程序）问好。 在一个地方发送电子邮件、创建A/B测试并跟踪您的结果。
+在一个地方发送电子邮件、创建A/B测试并跟踪您的结果。
 
 ## 控制面板 {#control-panel}
 
