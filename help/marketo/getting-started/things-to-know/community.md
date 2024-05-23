@@ -4,16 +4,16 @@ title: Marketo Engage社区
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
 
-# Marketo Engage社区 {#marketo-engage-community}
+# Adobe Marketo Engage社区 {#marketo-engage-community}
 
-此 [营销国家社区](https://nation.marketo.com/){target="_blank"} 是向同事和Marketo员工详细了解Marketo Engage实例的地方。 在开始之前，请花些时间熟悉 [社区准则](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+此 [Adobe Marketo Engage社区](https://nation.marketo.com/) （也称为“营销国家/地区”）是向同事和Marketo员工详细了解Marketo Engage实例的地方。 在开始之前，请花些时间熟悉 [社区准则](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## 注册您的用户名 {#register-your-username}
 
