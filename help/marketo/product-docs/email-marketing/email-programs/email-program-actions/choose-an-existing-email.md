@@ -4,9 +4,9 @@ description: 选择现有电子邮件 — Marketo文档 — 产品文档
 title: 选择现有电子邮件
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->为了提供准确的报告，请避免通过智能营销活动重用电子邮件程序中先前使用的电子邮件，或避免将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将添加到原始电子邮件计划仪表板中的报表编号。 如果需要重复使用同一电子邮件， [克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 而是。
+>要获得准确的报告，请避免 _重用_ 电子邮件程序中的电子邮件，方法是在Smart Campaign中引用它，或将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将所有数据汇总到附加到该电子邮件的每个报告仪表板中。 如果您需要重新使用电子邮件，请 [克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 相反，因为这样会复制电子邮件，但会创建一个具有新电子邮件ID的新电子邮件。
 
 一旦 [已创建电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 并定义了您的受众，您将需要决定要发送的电子邮件。 您可以 [为电子邮件程序创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 从头开始或挑选已存在的项目。 下面是如何选择已存在的项目。
 
