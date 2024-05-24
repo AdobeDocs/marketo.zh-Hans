@@ -4,7 +4,7 @@ title: 新实例最佳实践 — 分析核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 0%
@@ -31,9 +31,7 @@ Analytics部分提供可分析营销工作性能的全局报表。 了解导航�
   <tr>
     <td>组织：命名、文件夹和存档</td>
     <td><li>使用报告命名惯例来区分“全局报告”选项卡中的报告。</li>
-    <ul>
-    <li>良好命名惯例的示例是[报告类型] [全局与特定于BU的标记] [报告描述]，如[电子邮件性能]-[全局]-[180天电子邮件参与]。</li>
-    </ul> 
+    <ul><li>良好命名惯例的示例是[报告类型] [全局与特定于BU的标记] [报告描述]，如[电子邮件性能]-[全局]-[180天电子邮件参与]。</li></ul><br>
     <li>确定应与您组织中不同用户组（例如，销售团队、营销领导层）共享的报表，并在Analytics for Global Reports的“组报表”文件夹内按文件夹整理报表。</li> 
     <li>存档应限制为全局报告文件夹，因为这些报告始终处于开启状态。   <ul>
     <li>将存档限制为组织更改，例如，如果您根据业务部门结构报告，则减少或添加相关的业务部门。</li>
@@ -104,7 +102,7 @@ Analytics部分提供可分析营销工作性能的全局报表。 了解导航�
     <td>人员绩效报表</td>
     <td><img src="assets/note-icon.png" alt="注释图标"> 注意：建议最好拥有 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">渠道和标记策略</a> Marketo Engage ，然后才能按渠道跟踪已获得的人员和营销投资的ROI。
     <p>
-    <li>确定将用于衡量商机获取计划绩效的标准，并根据这些指标创建基于时间（当前年份、最近连续12个月或180天）的标准报表：</li> <ul><li>客户获取计划：为获取人员而贷记的Marketo Engage计划。
+    <li>确定将用于衡量商机获取计划绩效的标准，并根据这些指标创建基于时间（当前年份、最近连续12个月或180天）的标准报表：</li> <ul><li>客户获取计划：为获取人员而贷记的Marketo Engage计划。</li>
     <li>人员来源：数据库了解记录的来源类别（基于CRM中的源值列表）
     </li></ul>
     <li>按周或月衡量创建的人员。 该报告将为您提供数据库增长率的衡量标准以及您是否接近数据库大小限制。</li>
