@@ -2,10 +2,10 @@
 description: 了解如何优化和扩展您继承的现有Marketo Engage实例。 按照核对清单检查管理员设置并维护数据库卫生。
 title: 从何处开始
 feature: Getting Started
-exl-id: a7abbfe3-c2ac-489f-bc4b-9e8d3412b419
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 * 阅读 [**营销社区准则**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
-* 了解如何 [**提交支持案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})。
+* 了解如何 [**提交支持案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (并确认您 [**设置为授权支持联系人**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})。
 
 ## 合并您的营销国家/地区配置文件 {#merge-your-marketing-nation-profile}
 
@@ -46,15 +46,15 @@ Adobe通过Marketo Champions的输入汇总了多个Marketo Engage继承实例�
 
 您还可以 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 以电子表格形式显示。
 
-* [“管理员”部分](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+* [“管理员”部分](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [数据库](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+* [数据库](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [营销活动](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+* [营销活动](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [记录继承的实例设置](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+* [记录继承的实例设置](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## 获取帮助的方法 {#ways-to-get-help}
 
@@ -62,7 +62,7 @@ Adobe通过Marketo Champions的输入汇总了多个Marketo Engage继承实例�
 
 * 要获得某个功能无法正常工作的技术援助，请联系 **[Marketo Engage客户支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-* 在中与Marketo Engage同仁联系并向他们学习 **[营销国家/地区](https://nation.marketo.com/){target="_blank"}**.
+* 在中与Marketo Engage同仁联系并向他们学习 **[Adobe Marketo Engage社区](https://nation.marketo.com/){target="_blank"}**.
 
 * 要获得充分利用Marketo Engage实例的实践帮助，请联系 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 

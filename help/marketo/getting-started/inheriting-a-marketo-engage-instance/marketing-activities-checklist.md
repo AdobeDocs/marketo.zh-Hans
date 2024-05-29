@@ -2,10 +2,10 @@
 description: 继承实例营销活动核对清单 — Marketo文档 — 产品文档
 title: 继承实例营销活动核对清单
 feature: Getting Started
-exl-id: 3a23d7ae-aae9-4138-afcc-1d7830a5aeed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 资产 {#assets}
+## 资源 {#assets}
 
 <table> 
  <tbody> 
@@ -165,9 +165,3 @@ ht-degree: 0%
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄审计继承的实例：数据库](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-
-[审核继承的实例：Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

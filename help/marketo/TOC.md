@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
       + [从何处开始](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [新实例最佳实践：管理员部分核对清单](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [新实例最佳实践：数据库核对清单](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新实例最佳实践：营销活动核对清单](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [新实例最佳实践：设计工作室核对清单](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新实例最佳实践：营销活动核对清单](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [新实例最佳实践：Analytics清单](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [新实例最佳实践：记录您的设置](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 注意事项 {#things-to-know}
@@ -51,8 +51,8 @@ ht-degree: 0%
       + [从何处开始](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [继承实例：管理员部分核对清单](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [继承的实例：数据库核对清单](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-      + [继承实例：营销活动核对清单](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [继承实例：Design Studio核对清单](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [继承实例：营销活动核对清单](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [继承的实例：记录您的设置](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [审核核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + 产品文档 {#product-docs}

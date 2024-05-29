@@ -3,9 +3,9 @@ description: 了解在实施新的Marketo Engage实例时的最佳实践。 跟�
 title: 从何处开始
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -34,17 +34,19 @@ ht-degree: 0%
 
 * [数据库](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
+* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+
 * [营销活动](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Analytics](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
 * [记录您的新实例设置](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## 与同行建立联系 {#connect-with-your-peers}
 
-访问 [营销国家社区](https://nation.marketo.com/){target="_blank"} 以从Marketo Engage员工和同事那里了解有关您的Marketo Engage实例的更多信息。
+访问 [Adobe Marketo Engage社区](https://nation.marketo.com/){target="_blank"} （也称为Marketing Nation），以从Marketo Engage员工和同事那里了解有关您的Marketo Engage实例的更多信息。
 
-营销国家社区入门：
+社区入门：
 
 1. 单击 **继续使用Adobe ID** 并在登录页面中选择您的主订阅。
 1. 登录后，填写您的社区个人资料。

@@ -1,10 +1,8 @@
 ---
 description: 为您的新Marketo Engage实例设置Analytics部分。
 title: 新实例最佳实践 — 分析核对清单
-hide: true
-hidefromtoc: true
 feature: Getting Started
-source-git-commit: 00656b2167435d51da55537d251d84910002e46d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 0%

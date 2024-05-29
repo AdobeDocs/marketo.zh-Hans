@@ -3,9 +3,9 @@ description: 继承实例管理员核对清单 — Marketo文档 — 产品文�
 title: 继承实例管理员核对清单
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1858'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->这仅适用于登记到的Marketo Engage订阅 [AdobeIdentity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} 在Marketo Engage>管理员>用户和角色中。
+>这仅适用于登记到的Marketo Engage订阅 [AdobeIdentity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. 如果您的订阅尚未载入Adobe IMS，请继续 [旧版用户角色和权限体验](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} 在Marketo Engage>管理员>用户和角色中。
 
 <table> 
  <tbody> 
@@ -381,7 +381,3 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[审核继承的实例：数据库►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

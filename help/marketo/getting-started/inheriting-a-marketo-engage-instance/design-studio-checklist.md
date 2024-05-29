@@ -3,9 +3,9 @@ description: 继承实例Design Studio核对清单 — Marketo文档 — 产品�
 title: 继承实例Design Studio核对清单
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '561'
 ht-degree: 1%
 
 ---
@@ -166,9 +166,3 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄审核继承的实例：营销活动](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
-
-[审核继承的实例：记录继承的实例设置►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
