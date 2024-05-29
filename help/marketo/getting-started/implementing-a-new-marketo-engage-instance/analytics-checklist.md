@@ -4,9 +4,9 @@ title: 新实例最佳实践 — 分析核对清单
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
 workflow-type: tm+mt
-source-wordcount: '1393'
+source-wordcount: '1615'
 ht-degree: 0%
 
 ---
@@ -117,7 +117,8 @@ Analytics部分提供可分析营销工作性能的全局报表。 了解导航�
     <li>根据营销活动中的最佳实践管理项目成员资格（使用智能营销活动更新客户获取项目、状态、成功状态）。</li>
     <li>按本年度和连续12个月的成本计量。
     <ul><li>请记住，维护 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">期间成本</a> 对充分利用项目执行情况报告至关重要。</li></ul>
-    <p><img src="assets/tip-icon.png" alt="注释图标"> 提示：要聚合和查看任意 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">导入的列表</a> 在项目性能报表中，确保您的团队选择适当的客户获取项目进行标记。 考虑 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">创建默认程序</a> 导入的列表不适用于任何渠道时，选择作为客户获取项目的客户获取计划。 这可确保导入的任何人员都具备与来源、业务部门、渠道等相关的有效客户获取计划，而不是空白值。</td>
+    <br>
+    <br><img src="assets/tip-icon.png" alt="注释图标"> 提示：要聚合和查看任意 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">导入的列表</a> 在项目性能报表中，确保您的团队选择适当的客户获取项目进行标记。 考虑 <a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">创建默认程序</a> 导入的列表不适用于任何渠道时，选择作为客户获取项目的客户获取计划。 这可确保导入的任何人员都具备与来源、业务部门、渠道等相关的有效客户获取计划，而不是空白值。</td>
   </tr>
   <tr>
     <td>登陆页面性能报表</td>
@@ -152,7 +153,7 @@ Analytics部分提供可分析营销工作性能的全局报表。 了解导航�
   <tr>
     <td>营销活动报表</td>
     <td><li>创建 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">营销活动报表</a> 并在Marketing Activities的操作文件夹中选择一个期间。</li>
-    <li>设置报告以监控每个用例的触发器，以及 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">应用营销活动过滤器</a> （例如，行为评分触发器、生命周期资格触发器、有趣的时刻触发器）。</li></td>
+    <li>设置报告以监控每个用例的触发器，以及 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">应用营销活动过滤器</a> （例如，行为评分触发器、生命周期资格触发器、有趣的时刻触发器）。</li></td>
   </tr>
   <tr>
     <td>参与流性能报表（如果适用）</td>
@@ -160,4 +161,41 @@ Analytics部分提供可分析营销工作性能的全局报表。 了解导航�
     <li>考虑使用 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">报表的“设置”选项卡中的“分段”过滤器</a> 并按对报表数据进行分组 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">区段</a> （例如，人员来源、行业）。 这将有助于更深入地了解每个区段的参与模式，指导您进行战略更改以改进参与计划（内容、流、流节奏等）。</li></td>
   </tr>
 </tbody>
+</table>
+
+带工作项目符号的表
+
+<table>
+<tbody>
+<tr>
+    <td>组报表</td>
+    <td><img src="assets/note-icon.png" alt="注释图标"> 注：文本。
+    <p>
+    <li>文本。</li>
+    <li>文本。
+    <ul><li>文本</li>
+    <li>文本</li></ul>
+    <li>文本。</li>
+    <li>文本。</li>
+    <p><img src="assets/tip-icon.png" alt="注释图标"> 提示：文本。</td>
+  </tr>
+  </tbody>
+</table>
+
+测试修复1
+
+<table>
+<tbody>
+<tr>
+    <td>人员绩效报表</td>
+    <td><img src="assets/note-icon.png" alt="注释图标"> 注意：建议最好拥有 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">渠道和标记策略</a> Marketo Engage ，然后才能按渠道跟踪已获得的人员和营销投资的ROI。
+    <p>
+    <li>确定将用于衡量商机获取计划绩效的标准，并根据这些指标创建基于时间（当前年份、最近连续12个月或180天）的标准报表：</li>
+    <ul><li>客户获取计划：为获取人员而贷记的Marketo Engage计划</li>
+    <li>人员来源：数据库了解记录的来源类别（基于CRM中的源值列表）</li></ul>
+    <li>按周或月衡量创建的人员。 该报告将为您提供数据库增长率的衡量标准以及您是否接近数据库大小限制。</li>
+    <li>人员绩效报表中的量度过滤依据 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">将智能列表用作自定义列。</a></li>
+    <p><img src="assets/tip-icon.png" alt="注释图标"> 提示：为要添加到数据库中的“人员绩效报表”而不是“营销活动”的自定义列创建智能列表，以便您在报表中选择智能列表后能够正确而清楚地查看智能列表名称。</td>
+  </tr>
+  </tbody>
 </table>
