@@ -4,9 +4,9 @@ title: Marketo Engage社区
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,17 @@ ht-degree: 0%
 
 ## 注册您的用户名 {#register-your-username}
 
- — 注册用户名
+1. 登录到您的Marketo Engage实例。
+
+1. 在“我的Marketo”中，单击“社区”拼贴。
+
+1. 如果这是您首次登录，将指示您注册社区用户名。
+
+   >[!NOTE]
+   >
+   >您的用户名可以随时更改，但此时必须注册。
+
+1. 注册用户名后，您将导航到社区主页，并可在社区内进行交互和发帖。
 
 屏幕快照
 
@@ -87,4 +97,4 @@ Marketo用户组(MUG)是在全球不同地区召开的聚会。 它们为您提�
 
 <br>
 
-欢迎使用Marketo Engage，尽情体验营销之国！
+欢迎使用Marketo Engage，并尽情探索营销国家！
