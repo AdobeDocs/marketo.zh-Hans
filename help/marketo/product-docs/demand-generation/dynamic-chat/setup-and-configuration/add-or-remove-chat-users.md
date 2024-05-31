@@ -3,10 +3,10 @@ description: 添加或删除聊天用户 — Marketo文档 — 产品文档
 title: 添加或删除聊天用户
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 2%
+source-wordcount: '251'
+ht-degree: 1%
 
 ---
 
@@ -47,6 +47,10 @@ ht-degree: 2%
 1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-or-remove-chat-users-7.png)
+
+   >[!NOTE]
+   >
+   >在Adobe管理控制台中添加用户后，这些用户可能需要长达两个小时才能显示在“Dynamic Chat代理管理”页面中。
 
 ## 添加Dynamic Chat对Marketo角色的访问权限 {#add-dynamic-chat-access-to-marketo-role}
 

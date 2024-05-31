@@ -2,11 +2,11 @@
 description: 代理管理 — Marketo文档 — 产品文档
 title: 代理管理
 feature: Dynamic Chat
-exl-id: 6518a0bd-cdd2-4489-b414-d84e0ed2f61f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
+source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 2%
+source-wordcount: '211'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 2%
 此选项卡列出了Dynamic Chat实例中的所有座席，并包括他们的姓名、电子邮件地址、实时聊天状态等信息。
 
 ![](assets/agent-management-2.png)
+
+>[!NOTE]
+>
+>没有看到您的代理 _只要_ 添加了？ 在Adobe管理控制台中添加这些配置文件后，它们可能需要长达两个小时才能显示在此处。
 
 ## 团队 {#teams}
 
@@ -42,7 +46,7 @@ ht-degree: 2%
 
    ![](assets/agent-management-6.png)
 
-1. 单击&#x200B;**创建**。
+1. 单击 **创建**.
 
    ![](assets/agent-management-7.png)
 
