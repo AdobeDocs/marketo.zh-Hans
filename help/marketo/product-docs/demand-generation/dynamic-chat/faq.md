@@ -3,9 +3,9 @@ description: Dynamic Chat常见问题解答 — Marketo文档 — 产品文档
 title: Dynamic Chat常见问题解答
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,11 @@ ht-degree: 0%
 
 请参阅以下内容，了解有关Dynamic Chat的一些常见问题的答案。
 
-**我是否可以在公司网站上的任意位置安装Dynamic Chat，或者它只能在Marketo登陆页面上使用？**
+**我似乎没有Dynamic Chat的权限。 我怎么弄到？**
+
+请联系您的Marketo Engage管理员，确保他们 [已将您添加为用户](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} 在Adobe Admin Console中。
+
+**我是否可以在公司网站上的任意位置安装Dynamic Chat，或者它是否只能在Marketo登陆页面上使用？**
 
 Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆页面上。
 
