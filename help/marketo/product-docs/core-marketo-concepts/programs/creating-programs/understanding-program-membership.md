@@ -4,7 +4,7 @@ description: 了解计划成员资格 — Marketo文档 — 产品文档
 title: 了解计划成员资格
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -64,5 +64,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在项目中使用标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}
+>* [在项目中使用标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}
 >* [创建计划绩效报表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
