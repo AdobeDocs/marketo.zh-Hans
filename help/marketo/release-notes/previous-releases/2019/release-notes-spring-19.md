@@ -4,9 +4,9 @@ description: 发行说明 — 2019年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年春季
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * **轮候：** 需要时等待成员的新程序/事件状态 [让他们保持原样](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 直到空缺打开。 这适用于与Marketo Classic中的活动项目关联的渠道，以及与Marketo Sky中的网络研讨会项目关联的活动和活动。 默认情况下，“轮候”具有与“已注册”相同的步骤值。
 * **[自定义通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理员现在可以设置自定义的每日或每周通信限制。
-* **[Smart Campaign资产API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**：通过按更新的日期和ID检索智能营销活动记录，在Marketo之外扩充您的分析。
+* **[Smart Campaign资产API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：通过按更新的日期和ID检索智能营销活动记录，在Marketo之外扩充您的分析。
 * **电子邮件的HTTPS跟踪链接：** 对于已购买“用于跟踪链接的安全域”的客户，品牌跟踪链接现在可以作为HTTPS显示在您的电子邮件中。
 * **电子邮件可投放性Powerpack更新**：能够标记和评论特定测试结果、通过URL与利益相关者共享结果，以及跟踪更改以查看在利益相关者编辑内容时电子邮件的演变。
 

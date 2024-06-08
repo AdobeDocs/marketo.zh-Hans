@@ -4,7 +4,7 @@ description: 发行说明 — 2014年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年7月
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Marketo销售线索管理将进行更新，采用新外观，既现代又时尚�
 
 ## ReST API中的列表操作 {#list-operations-in-the-rest-api}
 
-我们添加了以下与ReST中的列表操作相关的调用。 请参阅 [developers.marketo.com](https://developers.marketo.com/documentation/rest/) 以获取完整文档。
+我们添加了以下与ReST中的列表操作相关的调用。 请参阅 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) 以获取完整文档。
 
 * 按ID获取列表
 * 获取多个列表
@@ -78,7 +78,7 @@ Marketo销售线索管理将进行更新，采用新外观，既现代又时尚�
 
 ## RTP：JavaScript API增强功能 {#rtp-javascript-api-enhancements}
 
-用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 查看我们的 [开发人员网站](https://developers.marketo.com/documentation/websites/rtp-js-api/) 获取完整文档。
+用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 查看我们的 [开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 获取完整文档。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

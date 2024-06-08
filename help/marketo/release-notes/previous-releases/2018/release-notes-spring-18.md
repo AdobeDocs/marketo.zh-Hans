@@ -4,7 +4,7 @@ description: 发行说明 — 2018年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2018年春季
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -77,12 +77,12 @@ ht-degree: 0%
 
 ## 集成和API {#integration-and-apis}
 
-[静态列表API](https://developers.marketo.com/rest-api/assets/static-lists/)
+[静态列表API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 使用新的双向API更轻松地管理Marketo和其他系统之间的列表，无需在Marketo UI中执行任何操作，即可远程创建、读取、更新和删除静态列表。
 
 ## 隐私增强功能 {#privacy-enhancements}
 
-[Web跟踪隐私](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Web跟踪隐私](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 增强的Munchkin跟踪通过匿名处理Web访客的IP地址并允许他们永久选择退出Web跟踪，从而符合本地和国际隐私法规。

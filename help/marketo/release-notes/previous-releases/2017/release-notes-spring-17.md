@@ -4,9 +4,9 @@ description: 发行说明 — 2017年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2017年春季
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Marketo与LinkedIn Lead Gen Forms的集成会自动捕获商机在Lead Gen表单
 
 ![](assets/four-281-29.png)
 
-## [批量提取人员和活动的API](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [批量提取人员和活动的API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 轻松地将大量人员和活动数据从Marketo传输到外部系统。
 
@@ -49,7 +49,7 @@ Marketo ABM现在允许您在指定帐户中创建最多10个自定义字段。 
 
 命名帐户得分可能差别很大。 Marketo ABM现在会自动计算每个得分的百分位数，以便您一眼就能看到每个指定帐户在其他指定帐户中的排名。
 
-**[ABM帐户列表API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[ABM帐户列表API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 利用丰富而强大的ABM合作伙伴集成，以及针对指定帐户列表的增强API支持。
 

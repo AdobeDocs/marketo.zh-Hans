@@ -3,16 +3,16 @@ description: 批量导出API信息 — Marketo文档 — 产品文档
 title: 批量导出API信息
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # 批量导出API信息 {#bulk-export-api-information}
 
-了解如何检查多少 [批量提取API](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} 在过去七天内，您的Marketo Engage实例已占用容量。
+了解如何检查多少 [批量提取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} 在过去七天内，您的Marketo Engage实例已占用容量。
 
 >[!NOTE]
 >

@@ -3,7 +3,7 @@ description: Adobe Marketo Engage - Marketo文档 — 产品文档
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 2%
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Dynamic Chat支持同步 [Marketo本机](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} 和自定义人员字段和公司字段。
+>Dynamic Chat支持同步 [Marketo本机](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} 和自定义人员字段和公司字段。
 
 1. 在“我的Marketo”中，单击 **[!UICONTROL Dynamic Chat]** 磁贴。
 

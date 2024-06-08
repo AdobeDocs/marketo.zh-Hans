@@ -4,9 +4,9 @@ description: 在网站上嵌入表单 — Marketo文档 — 产品文档
 title: 将表单嵌入到您的网站
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Marketo允许您将我们的表单嵌入到您自己的网站上。 以下是如
 
 >[!NOTE]
 >
->如果您的开发人员想要自定义外观或访问高级API功能，请向他们显示 [Forms 2.0开发人员页面](https://developers.marketo.com/documentation/websites/forms-2-0/).
+>如果您的开发人员想要自定义外观或访问高级API功能，请向他们显示 [Forms 2.0开发人员页面](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
 做得好！您是否希望 [嵌入代码以包含Lightbox代码](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)？ 这也很容易！

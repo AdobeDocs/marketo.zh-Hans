@@ -4,9 +4,9 @@ description: 在创建推送通知和应用程序内消息之前 — Marketo文�
 title: 在创建推送通知和应用程序内消息之前
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 1. Marketo管理员 [向开发人员发送一个代码片段](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
 
-1. 开发人员下载SDK，并包括用于代码片断和其他方法 [Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) 或 [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/).
+1. 开发人员下载SDK，并包括用于代码片断和其他方法 [Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) 或 [iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
 
 1. 默认情况下，应用程序内消息会在应用程序打开时触发。 如果要触发其他事件的消息，例如查看特定页面或按下特定按钮时，开发人员需要向代码添加自定义事件(请参阅 [应用程序内消息的自定义事件](#CustomEvents) 下)。
 
-1. 开发人员 [为Android生成服务器API密钥和项目编号](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) 或 [iOS的认证和密码](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) 并将其发送给Marketo管理员。
+1. 开发人员 [为Android生成服务器API密钥和项目编号](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) 或 [iOS的认证和密码](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) 并将其发送给Marketo管理员。
 
 1. Marketo管理员配置推送通知访问 [使用服务器API密钥(Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) 或 [使用证书(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 

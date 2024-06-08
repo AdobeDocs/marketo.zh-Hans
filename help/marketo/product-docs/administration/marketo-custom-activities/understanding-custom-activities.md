@@ -4,9 +4,9 @@ description: 了解自定义活动 — Marketo文档 — 产品文档
 title: 了解自定义活动
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **什么是活动**
 
-人员可通过多种方式与您的组织交互。 他们可能会访问您公司的网站、参加您的某次贸易展，或者单击您发送给他们的电子邮件中的链接。 这些操作即是活动，无论它们执行什么操作，Marketo都会捕获这些操作，以便您的营销团队能够更好地了解如何及时地向他们发送相关通信。
+人员可通过多种方式与您的组织交互。 他们可能会访问您公司的网站、参加您的某次贸易展，或者单击您发送给他们的电子邮件中的链接。 这些操作即是活动，无论它们执行了什么操作，Marketo都会捕获这些操作，以便您的营销团队能够更好地了解如何及时地向它们发送相关通信。
 
 **自定义活动**
 
@@ -35,6 +35,6 @@ ht-degree: 0%
 
 第1步： [创建自定义活动](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) 在您的Marketo帐户中
 
-步骤2：接下来，贵组织中使用我们API的员工可以开始实施。 有关更多信息，请参阅此处： [自定义活动API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+步骤2：接下来，贵组织中使用我们API的员工可以开始实施。 有关更多信息，请参阅此处： [自定义活动API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 玩得开心！

@@ -4,9 +4,9 @@ description: 创建用于ReST API的自定义服务 — Marketo文档 — 产品
 title: 创建用于ReST API的自定义服务
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->有关更多详细信息，请参阅我们的开发人员文档 [重设API](https://developers.marketo.com/documentation/rest/). 我们还有 [SOAP API](https://developers.marketo.com/documentation/soap/) 如果这是你所需要的。
+>有关更多详细信息，请参阅我们的开发人员文档 [REST API](https://developer.adobe.com/marketo-apis/). 我们还有 [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) 如果这是你所需要的。
 
 ## 创建自定义服务 {#create-custom-service}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >请注意，我们已经对常见网络研讨会服务进行了本机集成。
 
-1. 单击&#x200B;**[!UICONTROL 创建]**。
+1. 单击 **[!UICONTROL 创建]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 

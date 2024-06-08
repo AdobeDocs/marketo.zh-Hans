@@ -4,9 +4,9 @@ description: 发行说明 — 2014年12月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年12月
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -65,7 +65,7 @@ Lead &amp; Activity ReST API的三个新调用：
 
 ·合并潜在客户
 
-发布后，即可在以下位置获得完整的详细信息： [developers.marketo.com](https://developers.marketo.com/)
+发布后，即可在以下位置获得完整的详细信息： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Munchkin Javascript兼容性增强 {#munchkin-javascript-compatibility-enhancements}
 

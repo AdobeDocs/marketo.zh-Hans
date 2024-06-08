@@ -4,9 +4,9 @@ description: 将SDK代码发送给开发人员 — Marketo文档 — 产品文�
 title: 将SDK代码发送给开发人员
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 在创建应用程序内消息或推送通知之前，必须让开发人员设置并初始化适用于Android和iOS平台的移动应用程序SDK。
 
-* [Android说明](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
-* [iOS说明](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+* [Android说明](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [iOS说明](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## 将SDK代码发送给开发人员 {#send-sdk-code-to-a-developer-1}
 

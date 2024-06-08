@@ -2,7 +2,8 @@
 description: 发行说明 — 2024年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2024年1月
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 1%
@@ -191,7 +192,7 @@ ht-degree: 1%
 
 * **一键式列表取消订阅更新**：Gmail和Yahoo已实施若干新的发件人要求，自2024年2月1日起生效。 学习 [它们是什么以及它们如何影响您](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **同步潜在客户API更新**：和 [同步潜在客户API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}的行为已进行了轻微调整，更新 `unsubscribed` 字段。 现在，当你经过 `null` 作为值，它等于传递值 `false`.
+* **同步潜在客户API更新**：和 [同步潜在客户API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}的行为已进行了轻微调整，更新 `unsubscribed` 字段。 现在，当你经过 `null` 作为值，它等于传递值 `false`.
 
 * **Marketo EngageForms jQuery 1.x**：在2024年1月版中，我们将将FormsMarketo Engage的jQuery更新为jQuery 3.x。这可能会影响依赖旧版jQuery的自定义Form实施。 [在此处了解详情](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 

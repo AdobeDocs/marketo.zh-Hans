@@ -4,9 +4,9 @@ description: 将表单嵌入到Web营销活动 — Marketo文档 — 产品文�
 title: 将表单嵌入到Web营销活动
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 要在Set Campaign中更改对话框或小组件颜色，请执行以下操作：
 
-1. 在富文本编辑器中，选择对话框营销活动类型和对话框样式、标题颜色和背景颜色，以自定义表单的背景颜色。 单击 **保存**.
+1. 在富文本编辑器中，选择对话框营销活动类型和对话框样式、标题颜色和背景颜色，以自定义表单的背景颜色。 单击&#x200B;**保存**。
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -85,4 +85,4 @@ ht-degree: 0%
 >
 >* [编辑表单主题的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [显示感谢信息，但不显示后续登陆页面](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

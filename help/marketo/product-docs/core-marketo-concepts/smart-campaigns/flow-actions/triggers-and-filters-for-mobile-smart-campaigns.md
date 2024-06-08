@@ -4,7 +4,7 @@ description: 移动智能营销活动的触发器和过滤器 — Marketo文档 
 title: 移动智能营销活动的触发器和过滤器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '820'
 ht-degree: 0%
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 具有/曾经具有移动设备应用程序活动
 
-这提供了一种强大的方法来跟踪自定义移动活动。 您需要与开发人员合作才能设置跟踪 [适用于Android的](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
+这提供了一种强大的方法来跟踪自定义移动活动。 您需要与开发人员合作才能设置跟踪 [适用于Android的](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} 和 [适用于iOS的](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * 具有移动设备应用程序活动 — 触发器
 

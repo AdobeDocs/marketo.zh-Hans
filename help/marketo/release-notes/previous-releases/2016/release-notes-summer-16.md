@@ -4,7 +4,7 @@ description: 发行说明 — 2016年夏天 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年夏天
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
@@ -100,11 +100,11 @@ ht-degree: 0%
 
 脱机查看内容分析和推荐数据。
 
-## [电子邮件编辑器2.0的API支持](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [电子邮件编辑器2.0的API支持](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 以前仅与v1.0电子邮件和模板兼容的预先存在的Asset API现在为v2.0电子邮件资产启用。
 
-## [Marketo开发人员网站](https://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 新增功能和改进功能！
 

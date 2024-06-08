@@ -4,7 +4,7 @@ description: 创建仅API用户角色 — Marketo文档 — 产品文档
 title: 创建仅API用户角色
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 45475b06e4070bbfacf61230465179d7bd445cfb
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 创建仅API用户角色 {#create-an-api-only-user-role}
 
-Marketo如果您要通过 [REST API](https://developers.marketo.com/documentation/rest/)，最佳做法是 [为用户分配仅API角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 然后 [创建自定义服务以与REST API一起使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). 以下是如何创建仅限API的用户角色。
+Marketo如果您要通过 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)，最佳做法是 [为用户分配仅API角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 然后 [创建自定义服务以与REST API一起使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). 以下是如何创建仅限API的用户角色。
 
 >[!NOTE]
 >

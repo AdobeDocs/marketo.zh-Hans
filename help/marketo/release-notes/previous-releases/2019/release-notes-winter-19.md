@@ -4,9 +4,9 @@ description: 发行说明 — 2019年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年冬
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '1109'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 * **资产API的多品牌域支持：** 批准和克隆资产会在API和UI中产生相同的结果。
 * **资产API的电子邮件抄送支持**：用户通过API克隆、批准和处理电子邮件将保持与UI设置的对等性。
 
-**[Munchkin v155（测试版）](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155（测试版）](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
 
 * **仅限API模式**：用户现在可以通过允许单页Web应用程序在要记录网页访问时显式调用，而不是依赖Marketo的自动跟踪，来确定何时以及如何跟踪其数据库的成员。
 * **选择退出管理**：通过将选择退出Cookie域与Munchkin跟踪Cookie域进行匹配，轻松管理选择退出。
@@ -105,8 +105,7 @@ ht-degree: 0%
 
 我们已将适用于Android的SDK更新为更现代、更稳定和可扩展的框架，其中包含更多灵活性和新的工程功能。 Android应用程序开发人员现在可以直接使用Google的 [Firebase云消息](https://firebase.google.com/docs/cloud-messaging/) (FCM)集成了此新SDK。
 
-* [开发人员说明](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [开发人员常见问题解答](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [开发人员说明]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 
 >[!NOTE]
 >

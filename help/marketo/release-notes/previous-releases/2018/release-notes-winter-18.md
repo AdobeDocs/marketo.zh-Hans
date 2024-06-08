@@ -4,7 +4,7 @@ description: 发行说明 — 2018年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2018年冬季
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -87,7 +87,7 @@ Web个性化现在可以为已知的Web访客个性化内容，该访客属于�
 
 ## 集成 {#integration}
 
-**[激活/取消激活Campaign API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[激活/取消激活Campaign API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 此新API允许您远程激活和取消激活触发器营销活动，因此您现在可以创建完全自动化的项目模板。 只需创建一次项目模板，即可自动执行克隆、营销宣传材料更新，现在即可激活/计划智能营销活动。
 
@@ -103,4 +103,4 @@ Web个性化现在可以为已知的Web访客个性化内容，该访客属于�
 
 **人员详细信息视图更新**
 
-改进的People Detail View (PDV)通过汇总您的Tout和Salesforce CRM联系人详细信息，提供了您联系人的全面视图。
+改进的People Detail View (PDV)通过将您的Tout和Salesforce CRM联系人详细信息汇集在一起，提供了您联系人的全面视图。

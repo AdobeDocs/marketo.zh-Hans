@@ -3,7 +3,7 @@ description: 将Adobe Experience Platform区段推送到Marketo静态列表 — 
 title: 将Adobe Experience Platform区段推送到Marketo静态列表
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -100,7 +100,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可以将属性从Experience Platform映射到Marketo Engage中您的组织有权访问的任何属性。 使用 [描述API请求](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} 以检索您的组织有权访问的属性字段。
+   >您可以将属性从Experience Platform映射到Marketo Engage中您的组织有权访问的任何属性。 使用 [描述API请求](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} 以检索您的组织有权访问的属性字段。
 
 1. 通过单击映射姓氏和公司名称 **[!UICONTROL 添加新映射]** 再次重复步骤15两次，选择 **[!UICONTROL 姓氏]** 然后 **[!UICONTROL companyName]**.
 
@@ -142,7 +142,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 单击 **[!UICONTROL 下一个]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 

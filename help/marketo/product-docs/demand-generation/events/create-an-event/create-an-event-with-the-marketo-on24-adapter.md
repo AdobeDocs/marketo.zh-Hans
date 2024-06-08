@@ -4,7 +4,7 @@ description: 使用Marketo ON24适配器创建事件 — Marketo文档 — 产�
 title: 使用Marketo ON24适配器创建事件
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -18,11 +18,11 @@ ht-degree: 0%
 * [Marketo项目](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} 以及事件和它们之间的差异
 * [渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
 * [本地资产](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
-* [子营销活动](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} and [Program Statuses](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
+* [子营销活动](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} 和 [项目状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 
 >[!NOTE]
 >
->请参阅 [Marketo API文档](https://developers.marketo.com/documentation/rest/){target="_blank"} 有关Marketo API的更多信息。
+>请参阅 [Marketo API文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} 有关Marketo API的更多信息。
 
 ## 先决条件 {#prerequisites}
 

@@ -4,7 +4,7 @@ description: 发行说明 — 2015年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年7月
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **通过REST API访问公司对象**：REST API现在提供对Marketo Company (a.k.a. Account)对象的访问权限。 这意味着您可以读取、更新和删除在Marketo中创建的公司对象，并使用更新的潜在客户API将潜在客户与此类公司关联。
 
-学习 [更多](https://developers.marketo.com/documentation/company-api/) 我们公司API参考指南中的。
+学习 [更多]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies)的参考指南。
 
 ## 访问电子邮件可投放性 {#access-email-deliverability}
 

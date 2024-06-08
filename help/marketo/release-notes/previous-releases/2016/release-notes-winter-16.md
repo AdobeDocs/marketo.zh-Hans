@@ -4,9 +4,9 @@ description: 发行说明 — 2016年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年冬
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
@@ -49,13 +49,13 @@ Lead Database更新了Summary Dashboard ，其中包括总人员数据库大小�
 
 ## [移动营销增强功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**phonegap支持：** 我们现在为您的移动应用程序提供PhoneGap支持。 [了解详情](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**phonegap支持：** 我们现在为您的移动应用程序提供PhoneGap支持。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **支持沙盒应用程序**：
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [程序API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [程序API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 通过REST API创建、更新和克隆程序。 这不包括创建或更新项目中的智能列表和智能营销策划。
 

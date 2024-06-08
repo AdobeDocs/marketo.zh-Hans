@@ -4,9 +4,9 @@ description: 创建Marketo自定义对象 — Marketo文档 — 产品文档
 title: 创建Marketo自定义对象
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >您可以在创建这些字段时对其进行编辑，但在保存之后，您只能编辑 [!UICONTROL 复数名称] 字段和 **[!UICONTROL 在潜在客户详细信息中显示]** 滑块。
 
-1. 拉出 **[!UICONTROL 在潜在客户详细信息中显示]** 滑出以显示 **[!UICONTROL 显示]** 如果要查看“数据库”页上的自定义对象数据。 单击 **[!UICONTROL 保存]**.
+1. 拉出 **[!UICONTROL 在潜在客户详细信息中显示]** 滑出以显示 **[!UICONTROL 显示]** 如果要查看“数据库”页上的自定义对象数据。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo您只能通过列表导入或 [API](https://developers.marketo.com/documentation/rest/).
+   >Marketo您只能通过列表导入或 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## 为多对多结构创建自定义对象 {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -93,7 +93,7 @@ ht-degree: 0%
    >
    >您可以在创建这些字段时对其进行编辑，但在保存之后，您只能编辑 [!UICONTROL 复数名称] 字段和 **[!UICONTROL 在潜在客户详细信息中显示]** 滑块。
 
-1. 拉出 **[!UICONTROL 在潜在客户详细信息中显示]** 滑出以显示 **[!UICONTROL 显示]** 如果要查看“数据库”页上的自定义对象数据。 单击 **[!UICONTROL 保存]**.
+1. 拉出 **[!UICONTROL 在潜在客户详细信息中显示]** 滑出以显示 **[!UICONTROL 显示]** 如果要查看“数据库”页上的自定义对象数据。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo您只能通过列表导入或 [API](https://developers.marketo.com/documentation/rest/).
+   >Marketo您只能通过列表导入或 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 下一步是创建中间对象（见下文）。 但在之前，您需要创建一个字段以链接到它。
 
@@ -135,7 +135,7 @@ ht-degree: 0%
    >
    >您可以在创建这些字段时对其进行编辑，但在保存之后，您只能编辑 [!UICONTROL 复数名称] 字段和 [!UICONTROL 在潜在客户详细信息中显示] 滑块。
 
-1. 拉出 **[!UICONTROL 在潜在客户详细信息中显示]** 滑出以显示 **显示** 如果要查看“数据库”页上的自定义对象数据。 单击 **保存**.
+1. 拉出 **[!UICONTROL 在潜在客户详细信息中显示]** 滑出以显示 **显示** 如果要查看“数据库”页上的自定义对象数据。 单击&#x200B;**保存**。
 
    ![](assets/create-marketo-custom-objects-17.png)
 

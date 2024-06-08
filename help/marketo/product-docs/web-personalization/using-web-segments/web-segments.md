@@ -4,9 +4,9 @@ description: Web区段 — Marketo文档 — 产品文档
 title: Web区段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2051'
 ht-degree: 0%
 
 ---
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->命名帐户列表名称旁边方括号中的数字将用作Web个性化列表的索引引用 [读取API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>命名帐户列表名称旁边方括号中的数字将用作Web个性化列表的索引引用 [读取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **排除ISP**
 
@@ -286,7 +286,7 @@ Web个性化与您的Marketo数据库集成，允许您按已知人员属性和�
 
 **用户上下文API**
 
-Web个性化API调用  [请在此处阅读更多相关信息。](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Web个性化API调用  [请在此处阅读更多相关信息。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
@@ -302,7 +302,7 @@ Web个性化API调用  [请在此处阅读更多相关信息。](https://develop
 
 1. 在 **区段** 表格中，单击编辑图标( ![](assets/segment-edit.png))。 此 **设置区段** 此时将打开页面，其中包含选定的区段。
 1. 应用您想要对区段所做的任何编辑或更改。
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
 ## 删除区段 {#delete-segments}
 
@@ -314,13 +314,13 @@ Web个性化API调用  [请在此处阅读更多相关信息。](https://develop
 
 >[!NOTE]
 >
->您无法删除与营销活动关联的区段。 首先，您需要删除营销活动，然后删除区段。
+您无法删除与营销活动关联的区段。 首先，您需要删除营销活动，然后删除区段。
 
 太棒了！ 现在，您已了解区段部分，接下来让我们了解促销活动。
 
 >[!MORELIKETHIS]
 >
->* [创建基本Web区段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [新建Dialog Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [在区域中创建新的Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [创建新的构件Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [创建基本Web区段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [新建Dialog Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [在区域中创建新的Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [创建新的构件Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

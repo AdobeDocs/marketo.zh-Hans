@@ -3,9 +3,9 @@ description: 发行说明 — 2022年10月 — Marketo文档 — 产品文档
 title: 发行说明 — 2022年10月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '603'
 ht-degree: 2%
 
 ---
@@ -116,7 +116,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td>已发货</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">批量商机导入</a></td>
+   <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">批量商机导入</a></td>
   </tr>
   </tbody>
 </table>

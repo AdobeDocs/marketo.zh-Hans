@@ -4,9 +4,9 @@ description: 项目群成员自定义字段 — Marketo文档 — 产品文档
 title: 项目群成员自定义字段
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '416'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 1%
 
 ## 触发器和过滤器 {#triggers-and-filters}
 
-您可以通过以下方式在智能列表中利用此程序特定的数据 [触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
+您可以通过以下方式在智能列表中利用此程序特定的数据 [触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} 和/或 [过滤器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -68,7 +68,7 @@ ht-degree: 1%
 * 程序成员对象最多可以有20个自定义字段。 这些字段适用于任何项目。
 * 当您删除某个项目的成员时，如果他们的项目群成员自定义字段中包含任何数据，则将从该字段中清除该数据。
 * 要查看数据，请单击程序中的成员选项卡，然后创建包含这些字段的自定义视图。
-* 通过以下方式导入和导出 [列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} 受支持。 导出仅对项目群成员列表有效，对静态列表无效。
+* 通过以下方式导入和导出 [列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} 和 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} 受支持。 导出仅对项目群成员列表有效，对静态列表无效。
 * 合并两个人员时，将使用入选者的项目群成员自定义字段数据。 但是，如果获胜方没有赢家，将使用失败方的价值。
 * 项目群成员信息字段不允许更改类型。
 * 程序成员自定义字段不支持“包含”智能列表约束。

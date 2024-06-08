@@ -4,9 +4,9 @@ description: 发行说明 — 2017年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 2017年秋季
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -86,10 +86,10 @@ Marketo ABM现在同步并显示没有联系人的CRM帐户。 包括以前没�
 
 ## 集成  {#integration}
 
-**[电子邮件预览API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[电子邮件预览API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 现在，您可以在Marketo之外远程预览电子邮件，从而简化电子邮件内容本地化的过程并减少错误。
 
-**[替换HTMLAPI](https://developers.marketo.com/rest-api/assets/emails/)**
+**[替换HTMLAPI](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 开发人员可以远程更新电子邮件资源的HTML内容，使他们能够在单个系统中维护资源。

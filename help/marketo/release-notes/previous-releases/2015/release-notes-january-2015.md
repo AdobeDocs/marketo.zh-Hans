@@ -4,9 +4,9 @@ description: 发行说明 — 2015年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年1月
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Lead &amp; Activity ReST API的三个新调用：
 * 按项目ID获取潜在客户
 * 获取已删除的潜在客户
 
-此外，还为Sync Lead提供了一个新选项，用于异步写入潜在客户更改以实现更快的API调用。 发布后，即可在以下位置获得完整的详细信息： [developers.marketo.com](https://developers.marketo.com)
+此外，还为Sync Lead提供了一个新选项，用于异步写入潜在客户更改以实现更快的API调用。 发布后，即可在以下位置获得完整的详细信息： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 **电子邮件脚本自定义对象支持**
 
@@ -62,6 +62,6 @@ Lead &amp; Activity ReST API的三个新调用：
 1. 不具有CDN的异步标记
 1. 不带CDN的同步标记
 
-为获得最佳性能，建议将标记放在网页中标题的顶部，之后 `<head>`. 所有标记均允许使用 [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). 有关如何部署RTP标记的信息，请参阅 [此处](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+为获得最佳性能，建议将标记放在网页中标题的顶部，之后 `<head>`. 所有标记均允许使用 [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). 有关如何部署RTP标记的信息，请参阅 [此处](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

@@ -4,9 +4,9 @@ description: 为Web富媒体启用预测内容 — Marketo文档 — 产品文�
 title: 为Web富媒体启用预测内容
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 自定义Javascript代码并将其嵌入您的网站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-请参阅有关富媒体推荐模板的文档 [在Marketo开发人员网站上](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. 本部分说明如何自定义网站的模板。
+请参阅有关富媒体推荐模板的文档 [在Marketo开发人员网站上](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. 本部分说明如何自定义网站的模板。
 
 将JavaScript代码粘贴到网站中您希望显示模板的位置。
 

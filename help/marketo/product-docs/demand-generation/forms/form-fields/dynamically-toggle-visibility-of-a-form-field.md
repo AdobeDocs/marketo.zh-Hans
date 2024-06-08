@@ -4,9 +4,9 @@ description: 动态切换表单字段的可见性 — Marketo文档 — 产品�
 title: 动态切换表单字段的可见性
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单
    >
    >我们之前已将国家/地区转换为领料单字段类型，并且 [已将所有国家/地区添加为值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单
 
 >[!IMPORTANT]
 >
->通过使用自定义脚本设置/更新字段值时，表单字段行为将无缝工作 [API函数](https://developers.marketo.com/javascript-api/forms/){target="_blank"} 在Forms 2.0中。
+>通过使用自定义脚本设置/更新字段值时，表单字段行为将无缝工作 [API函数](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} 在Forms 2.0中。
 >
 >如果字段值由Forms 2.0 JavaScript API以外的外部脚本修改，则条件字段可能无法按预期工作。

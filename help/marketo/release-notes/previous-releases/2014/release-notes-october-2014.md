@@ -4,9 +4,9 @@ description: 发行说明 — 2014年10月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年10月
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 * 获取活动类型
 * 获取分页令牌
 
-发布后，即可在以下位置获得完整的详细信息： [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+发布后，即可在以下位置获得完整的详细信息： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI — 发送适用于Microsoft Dynamics的Marketo电子邮件 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ ht-degree: 0%
 * 感兴趣的产品
 * 他们所看到的RTP营销活动
 
-访问 [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) 以了解全部详细信息。
+访问 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 以了解全部详细信息。

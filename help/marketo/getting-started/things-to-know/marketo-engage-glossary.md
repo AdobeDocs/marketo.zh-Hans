@@ -3,9 +3,9 @@ description: Marketo Engage术语表 — Marketo文档 — 产品文档
 title: Marketo Engage术语表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '4085'
+source-wordcount: '4083'
 ht-degree: 1%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 1%
    <td>从未填写表单或在网站上保留其详细信息的Web访客。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">应用程序编程接口</a> (API)</strong></td> 
+   <td colspan="1"><strong><a href="https://developer.adobe.com/marketo-apis/" rel="nofollow">应用程序编程接口</a> (API)</strong></td> 
    <td colspan="1">一组预定义协议，用于在操作系统或应用程序(本例中为Marketo)中执行单个或批量功能。</td> 
   </tr> 
   <tr> 
@@ -260,7 +260,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong>文档</strong></td> 
-   <td colspan="1">作为文档的简称，文档是帮助客户更好地了解产品的文章。 Marketo具有多种不同类型的文档：产品文档（您当前所在的站点）、 <a href="https://developers.marketo.com/" rel="nofollow">开发人员</a> 文档，以及 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支持</a> 文档。</td> 
+   <td colspan="1">作为文档的简称，文档是帮助客户更好地了解产品的文章。 Marketo具有多种不同类型的文档：产品文档（您当前所在的站点）、 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">开发人员</a> 文档，以及 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支持</a> 文档。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>基于域的消息身份验证、报告和符合性(DMARC)</strong></td> 
@@ -443,7 +443,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>已知人员</strong></a></td> 
-   <td><p>Marketo中的任何人员数据 <strong>数据库</strong> 被视为已知人员数据。 用户可以通过多种方式输入数据库，包括：CRM同步、填写表单、列表导入/手动输入、程序化（rest API/合作伙伴集成）等。 Web访客最初 <strong>已编码</strong> （且匿名）通过Marketo <strong>蒙奇金</strong> 然后，当发生可识别的操作时(例如，单击Marketo电子邮件中的跟踪链接，使用他们的电子邮件地址填写表单，或者通过两者中的Marketo关联潜在客户API手动映射)，Web跟踪和随后映射到相应的已知人员记录 <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">蒙奇金</a> 和 <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Marketo中的任何人员数据 <strong>数据库</strong> 被视为已知人员数据。 用户可以通过多种方式输入数据库，包括：CRM同步、填写表单、列表导入/手动输入、程序化（rest API/合作伙伴集成）等。 Web访客最初 <strong>已编码</strong> （且匿名）通过Marketo <strong>蒙奇金</strong> 然后，当发生可识别的操作时(例如，单击Marketo电子邮件中的跟踪链接，使用他们的电子邮件地址填写表单，或者通过两者中的Marketo关联潜在客户API手动映射)，Web跟踪和随后映射到相应的已知人员记录 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">蒙奇金</a> 和 <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -534,7 +534,7 @@ ht-degree: 1%
    <td>也称为MSD。 Marketo与具有本机集成的两个CRM之一(请参阅 <a href="#c"><strong>CRM</strong></a>)。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">蒙奇金</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">蒙奇金</a></strong></td> 
    <td>Marketo的自定义JavaScript跟踪代码。 它跟踪访问您网站的所有个人。 这包括匿名访客（以及其IP地址和其他信息）。 </td> 
   </tr> 
   <tr> 
