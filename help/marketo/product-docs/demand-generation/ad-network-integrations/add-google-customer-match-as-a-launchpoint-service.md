@@ -4,9 +4,9 @@ description: 将Google客户匹配项作为LaunchPoint服务添加 — Marketo�
 title: 将Google客户匹配项添加为LaunchPoint Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 583e08fdc2e7d3fa743faf35e96c6d10f38a6ea0
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # 将Google客户匹配项添加为LaunchPoint Service {#add-google-customer-match-as-a-launchpoint-service}
 
 利用此集成，您可以将Marketo Engage受众发送到Google以使用Google AdWords进行定位，以及跨YouTube、Search和Gmail重新定位受众。
-
->[!IMPORTANT]
->
->由于最近更新了Google Ads API，Adobe和Google之间的同步功能已暂时禁用。 Adobe目前正在审查Google与更新相关的要求。
 
 >[!NOTE]
 >
