@@ -4,7 +4,7 @@ description: 电子邮件模板选取器概述 — Marketo文档 — 产品文�
 title: 电子邮件模板选取器概述
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 当您 [创建电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)，您有多个可供选择的自由模板。 您还可以创建自己的模板并将其保存以供将来使用。
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **名称** 将是您基于模板创建的电子邮件的名称，而不是模板本身。 **描述** 也适用于电子邮件，并且是可选的。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 **入门模板** 包含一系列现成的响应式电子邮件模板。 您可以按原样使用它们，也可以根据自己的喜好对其进行自定义。
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **我的模板** 包含您已创建的所有模板。 您可能还会有文件夹。
 
