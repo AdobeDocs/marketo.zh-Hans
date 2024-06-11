@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 3%
+source-wordcount: '277'
+ht-degree: 4%
 
 ---
 
@@ -33,8 +33,8 @@ ht-degree: 3%
   </tr>
      <tr> 
    <td><strong>交互式网络研讨会模板</strong>：营销人员现在可以在交互式网络研讨会上为文件室布局创建自定义模板。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">模板</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ ht-degree: 3%
   </tr>
      <tr> 
    <td><strong>Forms中的推断字段</strong>：更新了用于在通过表单填写创建人员（之前没有Web活动）时填充推断字段的数据源，以使用与其他人员收集方法相同的数据源。 推断的字段数据现在在所有收集点上是一致的。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
  </tbody> 
 </table>
