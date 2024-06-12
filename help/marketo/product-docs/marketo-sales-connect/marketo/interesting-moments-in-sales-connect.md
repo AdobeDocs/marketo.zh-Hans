@@ -4,9 +4,9 @@ description: Sales Connect中的有趣时刻 — Marketo文档 — 产品文档
 title: Sales Connect中的有趣时刻
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3a3287ed20962a052e0015161e34e33a95dd450a
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,12 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >这些组件可用于 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 和Marketo Sales Connect客户。
+
+>[!PREREQUISITES]
+>
+>* 您必须拥有 [与Salesforce CRM的连接](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* 您必须是Salesforce中的潜在客户或联系人所有者
+>* 您必须有权访问 [授予对Marketo Engage连接的访问权限](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
 
 ## 什么是一个有趣的时刻？ {#what-is-an-interesting-moment}
 
@@ -49,7 +55,7 @@ ht-degree: 0%
    >
    >Marketo还将添加发生的日期以及添加有趣时刻的方式（即潜在客户操作>流程步骤、SOAP API）。
 
-## Marketo中一个有趣的时刻是什么样的？  {#what-does-an-interesting-moment-look-like-in-marketo}
+## 在Marketo中，一个有趣的时刻是什么样的？  {#what-does-an-interesting-moment-look-like-in-marketo}
 
 有趣的时刻将显示在 [商机的活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
