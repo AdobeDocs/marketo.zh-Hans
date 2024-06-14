@@ -3,10 +3,10 @@ description: 流设计器 — Marketo文档 — 产品文档
 title: 流设计器
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1212'
-ht-degree: 1%
+source-wordcount: '1229'
+ht-degree: 2%
 
 ---
 
@@ -67,6 +67,10 @@ ht-degree: 1%
  <tr>
   <td style="width:25%"><strong>条件分支</strong></td>
   <td>根据不同的条件，在对话框流中创建分支。 根据Marketo Engage中的商机和公司属性，在同一对话框中向不同人员展示不同的内容。</td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>会话流</strong></td>
+  <td>使用对话流卡简化对话框中流中的多个步骤。</td>
  </tr>
 </table>
 

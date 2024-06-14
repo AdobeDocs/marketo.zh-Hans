@@ -3,9 +3,9 @@ description: Dynamic Chat发行说明 — Marketo文档 — 产品文档
 title: Dynamic Chat发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 Adobe Dynamic Chat版本在持续交付模型上运行，该模型允许采用更具可扩展性的方法来部署功能。 有时，一个月内会发布多个版本，因此请定期查看以获取最新信息。
 
 用于Marketo Engage的标准发行说明页面 [可在此处找到](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## 2024年6月版 {#june-release}
+
+**发布日期： 2024年6月6日**
+
+### 对话流卡 {#conversational-flow-card}
+
+利用对话流卡简化对话框中流中的多个步骤。
+
+示例：如果您的目标是通过多个对话框推动网络研讨会的注册，则必须在所有具有该目标的对话框中重新创建相同的流程。 如果您必须更新任何详细信息，则必须逐个编辑每个对话框。 现在情况已发生了变化，这要归功于“对话流”卡。
+
+除了跨多个对话框重新调整流用途之外，您还可以使用相同的过渡流触发其他渠道，如表单和登陆页面。
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### 使用限制 {#usage-limits}
+
+“使用限制”页面会显示重要信息，例如包详细信息和使用限制状态。
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## 2024年5月版 {#may-release}
 
