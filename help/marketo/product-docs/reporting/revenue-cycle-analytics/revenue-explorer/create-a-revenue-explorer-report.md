@@ -4,9 +4,9 @@ description: 创建收入资源管理器报表 — Marketo文档 — 产品文�
 title: 创建收入浏览器报表
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Revenue Explorer报表允许您跟踪营销计划的ROI。
 >[!AVAILABILITY]
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+
+>[!IMPORTANT]
+>
+>由于错误，收入循环资源管理器中的“垃圾桶”文件夹已暂时隐藏。 我们目前正在修复此问题，您的文件是安全的。 请联系 [Adobe支持](https://nation.marketo.com/t5/support/ct-p/Support) 如果有任何文件需要恢复。
 
 1. 转到 **收入浏览器** 区域。
 
