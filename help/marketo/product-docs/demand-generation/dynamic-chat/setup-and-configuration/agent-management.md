@@ -3,9 +3,9 @@ description: 代理管理 — Marketo文档 — 产品文档
 title: 代理管理
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,10 @@ ht-degree: 0%
 ## 团队 {#teams}
 
 管理员可以创建座席小组，以便于路由到特定的销售座席组。
+
+>[!AVAILABILITY]
+>
+>访问Teams需要Dynamic ChatPrime订阅。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 ![](assets/agent-management-3.png)
 
