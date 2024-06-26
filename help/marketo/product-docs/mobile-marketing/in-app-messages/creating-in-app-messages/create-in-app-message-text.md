@@ -4,9 +4,9 @@ description: 创建应用程序内消息文本 — Marketo文档 — 产品文�
 title: 创建应用程序内消息文本
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 创建应用程序内消息文本 {#create-in-app-message-text}
 
 单击文本区域以处理您的文本样式和内容。
+
+>[!CAUTION]
+>
+>我们建议不要在您的文本中使用表情符号，因为目前不完全支持这些表情符号。
 
 1. 单击主文本以编辑内联。
 
@@ -53,7 +57,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >对于点按操作，您可以为Apple和Android平台设置其他操作。 例如，对于Apple和Android，深层链接的处理方式不同。 如果您的消息仅发送到一个平台或另一个平台，您可以将另一个平台保留在默认设置中，或选择无。
+   >对于点按操作，您可以为Apple和Android平台设置其他操作。 例如，Apple和Android处理深层链接的方式有所不同。 如果您的消息仅发送到一个平台或另一个平台，您可以将另一个平台保留在默认设置中，或选择无。
 
 1. 单击支持文本以内联编辑它。 它的工作方式与编辑主文本相同，但默认文本大小较小。
 

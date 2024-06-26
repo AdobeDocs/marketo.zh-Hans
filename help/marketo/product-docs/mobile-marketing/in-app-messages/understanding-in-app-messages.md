@@ -4,18 +4,19 @@ description: 了解应用程序内消息 — Marketo文档 — 产品文档
 title: 了解应用程序内消息
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
 # 了解应用程序内消息 {#understanding-in-app-messages}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->应用程序内消息传送是一个加载项应用程序。 与您的Marketo客户经理确认，以确保其已激活。
+>
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 使用应用程序内消息可在客户使用您的应用程序时直接与他们互动。 当客户打开或执行自定义操作时，您可以提供促销选件。 只需单击一次，即可将他们转到登陆页面、外部网站或深层链接，他们可以在其中了解更多信息并购物。 或者，单击该按钮可以简单地消除该消息。  例如，您还可以使用应用程序内消息提醒客户完成个人资料，或告知他们应用程序新增功能。
 
