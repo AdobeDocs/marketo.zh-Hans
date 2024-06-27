@@ -2,9 +2,10 @@
 description: 按需网络研讨会 — Marketo文档 — 产品文档
 title: 按需网络研讨会
 feature: Interactive Webinars
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
+source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,9 @@ ht-degree: 0%
 
 在活动之前与注册者共享的网络研讨会加入URL可用于观看即时录制。 一旦注册者未参加实时活动（例如，计划状态为“不显示”的潜在客户），单击网络研讨会加入URL，该潜在客户的计划状态将从“不显示”更改为“已参加（按需）”。 如果观看了现场活动且状态为“已参加”的潜在客户的决定访问加入URL并观看按需录制，则他们的项目状态不会受到影响。
 
-Adobe Connect技术为交互式网络研讨会提供支持，可跟踪与观看录像的商机相关的访问和观看持续时间，并每天向Marketo报告信息。 事件后30天内，该录制内容均可在“加入URL”中获取。 无法修改持续时间。
+Adobe Connect技术为交互式网络研讨会提供支持，可跟踪与观看录像的商机相关的访问和观看持续时间，并每天向Marketo Engage报告信息。 对按需网络研讨会的跟踪在事件发生30天后停止。 无法修改持续时间。
 
-Marketo在功能板选项卡上为按需网络研讨会提供监视统计数据，以下小组件提供了帮助：
+Marketo Engage在功能板选项卡上提供按需网络研讨会的观看统计信息，可通过以下小组件获得帮助：
 
 * 按需摘要：提供在活动结束后的指定日期观看录制的访客计数（不显示）的摘要
 
