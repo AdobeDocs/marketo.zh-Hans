@@ -3,7 +3,7 @@ description: 修改或删除交互式网络研讨会 — Marketo文档 — 产�
 title: 修改或删除交互式网络研讨会
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -64,7 +64,7 @@ ht-degree: 0%
    >
    >您还可以右键单击树中的Event Program并选择 **克隆** 从那里。
 
-1. 为克隆的程序提供一个名称，设置工作区和目标（如果您希望程序在其他位置运行），然后单击 **保存**.
+1. 为克隆的程序命名，设置Workspace和目标（如果您希望程序在其他位置运行），然后单击 **保存**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
