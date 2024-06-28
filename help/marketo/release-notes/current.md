@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 2%
+source-wordcount: '465'
+ht-degree: 1%
 
 ---
 
@@ -30,6 +30,39 @@ ht-degree: 2%
    <th style="width:65%">功能</th> 
    <th style="width:10%">状态</th>
    <th style="width:25%">文档</th>
+  </tr>
+     <tr> 
+   <td><strong>交互式网络研讨会的参与仪表板</strong>：在网络研讨会期间获取每位与会者的汇总网络研讨会性能视图和参与情况的全面视图，以便您能够通过Marketo Engage编排工具确定目标销售线索。</td> 
+    <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>交互式网络研讨会的会议室管理</strong>：访问已创建的各个文件室（并根据需要进行修改），以及访问内容和录制（并根据需要清除它们以优化存储）。</td> 
+    <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>网络研讨会自定义交互式网络研讨会</strong>：通过使用公共会议室界面、中间屏幕（如与会者入门屏幕背景）以及自定义视频背景，提供组织批准的统一品牌体验，以便网络研讨会策略可以更轻松地与品牌策略保持一致。</td> 
+    <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Marketo REST API更改</strong>：我们正在对 <a href="https://developers.marketo.com/rest-api/user-management/">用户管理API</a>. 两者都是 <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">浏览用户</a> 和 <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">删除用户</a> 现在支持端点 <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">目标帐户管理</a> 用户。</td> 
