@@ -4,16 +4,20 @@ description: 在项目中使用标记 — Marketo文档 — 产品文档
 title: 在项目中使用标记
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
+source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 4%
+source-wordcount: '164'
+ht-degree: 3%
 
 ---
 
 # 在项目中使用标记 {#use-tags-in-a-program}
 
 标记是描述程序的属性，用于在报表中对程序类型进行分组。
+
+>[!NOTE]
+>
+>如果您使用收入周期浏览器，则必须定义期间成本（即使它为0），以便报表可用于该程序。
 
 ## 在项目中使用标记 {#use-a-tag-in-a-program}
 
