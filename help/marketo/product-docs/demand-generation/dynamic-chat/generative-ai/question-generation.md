@@ -3,9 +3,9 @@ description: 问题生成 — Marketo文档 — 产品文档
 title: 问题生成
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 0%
    >[!IMPORTANT]
    >
    >要确保Marketo Engage列入允许列表能够从提供的URL中擦除内容，您必须先多个IP地址。 [有关详细信息，请参阅下文](#ip-addresses-to-allowlist).
+
+   >[!NOTE]
+   >
+   >站点/页面必须是公共的（即，不隐藏在登录名后面），以便刮取其信息。
 
 1. 根据您的内容，生成问题和响应最多可能需要30分钟。 单击 **[!UICONTROL 确定]**.
 
