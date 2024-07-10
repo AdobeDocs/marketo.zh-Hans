@@ -4,22 +4,22 @@ description: 了解智能营销活动 — Marketo文档 — 产品文档
 title: 了解智能营销活动
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 1%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 
 # 了解智能营销活动 {#understanding-smart-campaigns}
 
-如果Marketo是一辆强大的汽车，那么智能营销活动就是真正的引擎。 开始使用很简单，但几乎可以执行您要求的任何操作。
+如果Marketo Engage是一辆汽车，那么Smart Campaign就是它的引擎。 智能营销活动可执行的功能超出您的想象，并且可轻松开始使用它们。
 
-智能营销活动有3个主要区域： [智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 选项卡。
+Smart Campaign有3个主要区域： [智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}， [流量](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} 和 [计划](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 选项卡。
 
 ## 智能列表 {#smart-list}
 
-智能列表是您定义的方式 _谁_ 您希望使用智能营销活动进行定位。 它具有过滤器和触发器。
+智能列表是您定义的方式 _谁_ 您希望使用Smart Campaign进行定位。 它具有过滤器和触发器。
 
 <table> 
  <tbody> 
@@ -29,7 +29,7 @@ ht-degree: 1%
    <th>说明</th> 
   </tr> 
   <tr> 
-   <td>筛选器</td> 
+   <td>筛选条件</td> 
    <td>已单击的链接</td> 
    <td><p>收集批次中当前符合条件的所有人员。</p></td> 
   </tr> 
@@ -49,9 +49,9 @@ ht-degree: 1%
 
 ## 计划 {#schedule}
 
-最后，这将控制您运行智能营销活动的时间。 您甚至可以设置循环以便它按重复计划运行。
+最后，这将控制您运行Smart Campaign的时间。 您甚至可以设置循环以便它按重复计划运行。
 
-明智的竞选团队能做的事情有很多。 掌握其中的奥秘，您就会发现Marketo中的所有内容变得更容易理解。
+Smart Campaign能做的事情有很多。 掌握其中的奥秘，您就会发现Marketo中的所有内容变得更容易理解。
 
 >[!CAUTION]
 >
