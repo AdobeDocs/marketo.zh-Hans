@@ -3,7 +3,7 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
+source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 发行说明： 2024年7月 {#release-notes-july-24}
 
-在下方，您会找到2024年6月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2024年7月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
 
 专门用于Adobe Dynamic Chat的发行说明 [可在此处找到](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
