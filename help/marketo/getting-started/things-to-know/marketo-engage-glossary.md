@@ -1,11 +1,12 @@
 ---
 description: Marketo Engage术语表 — Marketo文档 — 产品文档
+short-description: 了解Marketo Engage术语及其定义，以帮助您快速入门。
 title: Marketo Engage术语表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '4083'
+source-wordcount: '4098'
 ht-degree: 1%
 
 ---
@@ -52,7 +53,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>广告网络集成 </strong></a></td> 
-   <td colspan="1">（以前称为Ad Bridge）一种将Marketo独特的受众数据连接到您的付费媒体系统的方法，以便您可以运行更具针对性的个性化数字广告活动。</td> 
+   <td colspan="1">(以前称为Ad Bridge)一种将Marketo独特的受众数据连接到您的付费媒体系统的方法，以便您可以运行更有针对性、个性化的数字广告营销活动。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
@@ -72,7 +73,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong>已批准</strong></td> 
-   <td colspan="1">用于确认何时 <strong>资产</strong> 已准备好使用。 在获得批准之前，无法公开查看资产。</td> 
+   <td colspan="1">用于确认何时 <strong>资产</strong> 已准备好使用。 在获得批准之前，无法公开查看Assets。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>资产</strong></td> 
@@ -128,7 +129,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
-   <td colspan="1">在Marketo，“Campaign”可能意味着一些事情。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">营销活动</a> 是smart campaign的较短术语。 在 <strong>Marketo销售连接</strong>， <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">营销活动</a> 是一系列多渠道通信步骤。 在 <strong>Web个性化</strong>， web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">营销活动</a> 是与特定区段关联的自定义反应。</td> 
+   <td colspan="1">在Marketo，“Campaign”可能意味着一些事情。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">营销活动</a> 是smart campaign的较短术语。 在 <strong>Marketo销售连接</strong>， <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">营销活动</a> 是一系列多渠道通信步骤。 在 <strong>Web Personalization</strong>， web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">营销活动</a> 是与特定区段关联的自定义反应。</td> 
   </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">营销活动电子邮件性能报表</a></strong></td> 
@@ -184,7 +185,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>内容分析</strong></a></td> 
-   <td colspan="1">区域 <strong>Web个性化</strong> 显示从您的网站搜索到的现有内容以及内容性能。</td> 
+   <td colspan="1">区域 <strong>Web Personalization</strong> 显示从您的网站搜索到的现有内容以及内容性能。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>内容参与度级别</strong></td> 
@@ -362,7 +363,7 @@ ht-degree: 1%
    <td colspan="1">当ISP将收件人的投诉转发给发送电子邮件的组织时。</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>筛选器</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>筛选条件</strong></a></td> 
    <td>在中使用的工具 <strong>智能列表</strong> 这允许您缩小受众范围（例如，数据库中居住在加利福尼亚的每个人）。 筛选器可在以下两种情况下使用 <strong>批次</strong> 和 <strong>触发活动</strong>.</td> 
   </tr> 
   <tr> 
@@ -393,8 +394,8 @@ ht-degree: 1%
    <td><p>欧盟立法于2018年5月25日生效，旨在赋予欧盟公民更多控制个人数据的权力。</p></td> 
   </tr> 
   <tr> 
-   <td><strong>全局资产</strong></td> 
-   <td>在中创建的资源 <strong>Design Studio</strong> 用于 <strong>程序</strong> 跨您的Marketo实例。 </td> 
+   <td><strong>全局Assets</strong></td> 
+   <td>在中创建的Assets <strong>Design Studio</strong> 用于 <strong>程序</strong> 跨您的Marketo实例。 </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>引导式登陆页面</strong></td> 
@@ -483,8 +484,8 @@ ht-degree: 1%
    <td colspan="1">一群人。 Marketo中有智能列表和静态列表。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">智能列表</a> 是可以不断更改的动态人员列表，因为它基于您定义的过滤器（例如，数据库中居住在加利福尼亚的每个人）。 当新用户符合标准时（或现有用户不再符合标准），列表将更改。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">静态列表</a> 是静态的。 除非手动添加/删除某人，否则不会发生更改。</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>本地资产</strong></a></td> 
-   <td><strong>资产</strong> 在特定 <strong>项目</strong>.</td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>本地Assets</strong></a></td> 
+   <td><strong>Assets</strong> 在特定 <strong>项目</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -861,14 +862,14 @@ ht-degree: 1%
     <div> 
      <p><strong> Web营销活动</strong></p> 
     </div></td> 
-   <td colspan="1">与特定区段关联的自定义反应。 在 <strong>Web个性化</strong>， Web营销活动包括 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">对话框</a>， <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">在区域中</a>、和 <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">小组件</a></strong>.</td> 
+   <td colspan="1">与特定区段关联的自定义反应。 在 <strong>Web Personalization</strong>， Web营销活动包括 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">对话框</a>， <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">在区域中</a>、和 <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">小组件</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">网页活动报表</a></strong></td> 
    <td>Marketo中的报表类型。 它允许您查看已知 <i>或</i> 访问您网站的匿名人员。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web个性化</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web Personalization</strong></td> 
    <td>一个附加功能，可提供一个定位和个性化平台，帮助Marketo用户根据他们的身份和行为实时吸引已知和匿名访客。</td> 
   </tr>
   <tr> 
@@ -889,7 +890,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td><strong>通配符</strong></td> 
-   <td>字符(*用于 <strong>Web个性化</strong>)，用于在字符串之前或之后替换字符串中的任何其他字符。</td> 
+   <td>字符(*用于 <strong>Web Personalization</strong>)，用于在字符串之前或之后替换字符串中的任何其他字符。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">工作区</a></strong></td> 

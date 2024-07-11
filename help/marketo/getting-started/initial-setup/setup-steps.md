@@ -1,11 +1,12 @@
 ---
 description: 设置步骤 — Marketo文档 — 产品文档
+short-description: 刚刚开始使用Adobe Marketo Engage？ 了解跳入前需要完成的步骤。
 title: 设置步骤
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '1675'
+source-wordcount: '1708'
 ht-degree: 0%
 
 ---
@@ -269,7 +270,7 @@ Marketo Engage具有自定义跟踪JavaScript(称为 [!DNL Munchkin])，可用�
 
 ## 性能期望 {#performance-expectations}
 
-从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，您可以预期在 [Marketo Engage产品描述](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，您可以预期在 [Marketo Engage产品描述](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. “性能”和“性能提升”列是指提供 [更高的性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
