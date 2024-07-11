@@ -3,16 +3,16 @@ description: 创作AI概述 — Marketo文档 — 产品文档
 title: 创作AI概述
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '445'
 ht-degree: 2%
 
 ---
 
 # 创作AI概述 {#generative-ai-overview}
 
-Adobe Dynamic Chat中的创新型人工智能可实时处理意图信号、用户偏好和过去行为，以便为聊天访客生成相关的个性化消息。
+利用Adobe Dynamic Chat中由创新型人工智能支持的功能，可优化销售代理的工作效率、深入了解网站访客意图并以安全的方式回应访客问题。
 
 ## 权限 {#permissions}
 
