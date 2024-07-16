@@ -3,9 +3,9 @@ description: 按需网络研讨会 — Marketo文档 — 产品文档
 title: 按需网络研讨会
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,9 @@ Marketo Engage在功能板选项卡上提供按需网络研讨会的观看统计
    * 所有访客的平均观看持续时间（以分钟为单位） — 使营销人员能够了解观看了多少录像，以及可以使用哪些智能营销活动来定位超过特定观看持续时间的潜在客户。
 
 ![](assets/on-demand-webinars-1.png)
+
+>[!NOTE]
+>
+>仅当观看持续时间超过一分钟时，才会计算查看次数。
 
 交互式网络研讨会的过滤器和触发器已修改，以适应按需网络研讨会。 添加了触发器“出席事件”和过滤器“已出席事件”，并增加了附加限制（“事件模式”），营销人员可以在其中选择目标为实时受众还是按需受众。 如果未选择“事件模式”限制，则将定位实时和按需受众。 其他限制，如“关注日期”和“关注持续时间”，可与“按需”事件模式一起使用。 非活动过滤器“尚未参加活动”也可用于具有“按需”事件模式的按需网络研讨会。
