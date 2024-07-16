@@ -4,7 +4,7 @@ description: 更改数据值 — Marketo文档 — 产品文档
 title: 更改数据值
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 1%
@@ -15,33 +15,33 @@ ht-degree: 1%
 
 ## 概述 {#overview}
 
-您可以使用Marketo更新字段的值。 为此，您将使用 **[!UICONTROL 更改数据值]** flow操作。
+您可以使用Marketo更新字段的值。 为此，您将使用&#x200B;**[!UICONTROL 更改数据值]**&#x200B;流程操作。
 
-![](assets/image2014-9-22-11-3a15-3a34.png)
+![](assets/change-data-value-1.png)
 
 >[!NOTE]
 >
->您还可以阻止字段更新。 请参阅 [阻止更新字段](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"} 以了解详细信息。
+>您还可以阻止字段更新。 有关详细信息，请参阅[阻止更新字段](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"}。
 
 ## 使用情况 {#usage}
 
 1. 查找并选择要更改其值的字段。
 
-   ![](assets/image2014-9-22-11-3a18-3a29.png)
+   ![](assets/change-data-value-2.png)
 
 1. 输入所需的值，即完成！
 
-   ![](assets/image2014-9-22-11-3a18-3a38.png)
+   ![](assets/change-data-value-3.png)
 
    >[!NOTE]
    >
-   >您还可以在中使用令牌 **[!UICONTROL 新值]**.
+   >您还可以在&#x200B;**[!UICONTROL 新值]**&#x200B;中使用令牌。
 
    >[!TIP]
    >
-   >您可以在中输入“NULL”（无引号，全部大写） **[!UICONTROL 新值]** 以清除字段。 请参阅 [清除字段值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md){target="_blank"} 以了解详细信息。
+   >您可以在&#x200B;**[!UICONTROL 新值]**&#x200B;中输入“NULL”（无引号，全部大写）以清除该字段。 有关详细信息，请参阅[清除字段值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"}。
 
    >[!NOTE]
    >
-   >* [流程步骤的令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+   >* 流步骤的[令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
    >* [将数据附加到字段](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}
