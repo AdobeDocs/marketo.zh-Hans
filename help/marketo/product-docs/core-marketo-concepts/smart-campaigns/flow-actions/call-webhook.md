@@ -4,10 +4,10 @@ description: 调用Webhook - Marketo文档 — 产品文档
 title: 调用Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 2%
+source-wordcount: '74'
+ht-degree: 0%
 
 ---
 
@@ -17,8 +17,6 @@ ht-degree: 2%
 >
 >[创建Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}
 
-## 概述 {#overview}
-
 Webhook允许您与第三方服务进行交互。 通过在智能营销活动流中调用webhook来发送/接收信息。
 
 ![](assets/call-webhook-1.png)
@@ -27,9 +25,7 @@ Webhook允许您与第三方服务进行交互。 通过在智能营销活动流
 >
 >了解[Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以为您完成的许多有趣内容。
 
-## 使用情况 {#usage}
-
-从下拉列表中选择Webhook。
+1. 从下拉列表中选择Webhook。
 
 ![](assets/call-webhook-2.png)
 

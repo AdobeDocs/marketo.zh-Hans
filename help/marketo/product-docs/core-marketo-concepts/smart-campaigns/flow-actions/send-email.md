@@ -4,28 +4,24 @@ description: 发送电子邮件 — Marketo文档 — 产品文档
 title: 发送电子邮件
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 2%
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
 
 # 发送电子邮件 {#send-email}
 
-## 概述 {#overview}
+“[!UICONTROL 发送电子邮件]”流程步骤可以用作营销活动的一部分，也可以用作向您的联系人发送电子邮件的单一流程步骤。
 
-“[!UICONTROL 发送电子邮件]“流程步骤可用作营销策划的一部分，或用作向您的人员发送电子邮件的单个流程步骤。
-
-![](assets/image2014-9-22-10-3a8-3a11.png)
-
-## 使用情况 {#usage}
+![](assets/send-email-1.png)
 
 可以直接从流程步骤预览所选电子邮件。
 
 1. 查找并选择您要发送的电子邮件。
 
-   ![](assets/image2014-9-22-10-3a8-3a15.png)
+   ![](assets/send-email-2.png)
 
    >[!NOTE]
    >
@@ -33,6 +29,6 @@ ht-degree: 2%
 
 1. 单击预览图标以查看当前选定的电子邮件。
 
-   ![](assets/image2014-9-22-10-3a8-3a22.png)
+   ![](assets/send-email-3.png)
 
 此时将打开一个新选项卡/窗口，您可以在其中查看电子邮件。

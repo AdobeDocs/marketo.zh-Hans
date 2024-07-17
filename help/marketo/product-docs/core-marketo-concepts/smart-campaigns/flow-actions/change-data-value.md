@@ -4,16 +4,14 @@ description: 更改数据值 — Marketo文档 — 产品文档
 title: 更改数据值
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 1%
+source-wordcount: '110'
+ht-degree: 0%
 
 ---
 
 # 更改数据值 {#change-data-value}
-
-## 概述 {#overview}
 
 您可以使用Marketo更新字段的值。 为此，您将使用&#x200B;**[!UICONTROL 更改数据值]**&#x200B;流程操作。
 
@@ -22,8 +20,6 @@ ht-degree: 1%
 >[!NOTE]
 >
 >您还可以阻止字段更新。 有关详细信息，请参阅[阻止更新字段](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"}。
-
-## 使用情况 {#usage}
 
 1. 查找并选择要更改其值的字段。
 
