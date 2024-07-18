@@ -4,32 +4,32 @@ description: 查看Smart Campaign成员 — Marketo文档 — 产品文档
 title: 查看智能营销活动成员
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4fbc339a7aeb9d8a34ca3935d45f19538d362751
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # 查看智能营销活动成员 {#view-smart-campaign-members}
 
-查看已运行Smart Campaign流程的人员；即Smart Campaign成员。
+查看已运行Smart Campaign流的人员。
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
-![](assets/login-marketing-activities.png)
+   ![](assets/view-smart-campaign-members-1.png)
 
-1. 在Smart Campaign中，单击 **[!UICONTROL 查看营销活动成员]**.
+1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL 查看营销活动成员]**。
 
-   ![](assets/changescore-hands.png)
+   ![](assets/view-smart-campaign-members-2.png)
 
->[!TIP]
->
->您可以在Smart Campaign中的任意位置查看营销活动成员。
+   >[!TIP]
+   >
+   >您可以在Smart Campaign中的任意位置查看营销活动成员。
 
-1. 此 **[!UICONTROL 营销活动成员]** 选项卡显示已通过Smart Campaign流运行的人员。
+1. **[!UICONTROL 营销活动成员]**&#x200B;选项卡显示已通过Smart Campaign流程运行的人员。
 
-   ![](assets/smartcampaignheader-complete.jpg)
+   ![](assets/view-smart-campaign-members-3.png)
 
    >[!NOTE]
    >
