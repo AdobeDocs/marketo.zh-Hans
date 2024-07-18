@@ -4,7 +4,7 @@ description: 创建智能列表 — Marketo文档 — 产品文档
 title: 创建智能列表
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -15,25 +15,25 @@ ht-degree: 0%
 
 智能列表允许您使用简单过滤器查找特定人员组。 以下是如何创建一个。
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-smart-list-1.png)
 
 1. 选择要在其中创建智能列表的程序。
 
-   ![](assets/image2014-8-11-10-3a17-3a8.png)
+   ![](assets/create-a-smart-list-2.png)
 
-1. 下 **[!UICONTROL 新建]**，单击 **[!UICONTROL 新建本地资产]**.
+1. 在&#x200B;**[!UICONTROL 新建]**&#x200B;下，单击&#x200B;**[!UICONTROL 新建本地资产]**。
 
-   ![](assets/image2014-9-9-16-3a26-3a28.png)
+   ![](assets/create-a-smart-list-3.png)
 
-1. 选择 **[!UICONTROL 智能列表]**.
+1. 选择&#x200B;**[!UICONTROL 智能列表]**。
 
-   ![](assets/image2014-9-9-16-3a27-3a18.png)
+   ![](assets/create-a-smart-list-4.png)
 
-1. 输入 **[!UICONTROL 名称]** 并单击 **[!UICONTROL 创建]**.
+1. 输入&#x200B;**[!UICONTROL 名称]**&#x200B;并单击&#x200B;**[!UICONTROL 创建]**。
 
-   ![](assets/image2014-9-9-16-3a27-3a39.png)
+   ![](assets/create-a-smart-list-5.png)
 
    太棒了！ 现在，让我们添加和定义一些过滤器。
 

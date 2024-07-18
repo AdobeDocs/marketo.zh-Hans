@@ -4,7 +4,7 @@ description: 了解智能列表 — Marketo文档 — 产品文档
 title: 了解智能列表
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 智能列表允许您使用简单过滤器查找特定人员组。 它们可在Marketo中使用，例如在Smart Campaigns、项目、报表、分段、业务模型、参与项目、动态内容等中使用。 根据您的需求，可以在Marketo中的两个位置创建智能列表：
 
-1. 在 **数据库**，可供共享/全局使用（例如，“所有已取消订阅的人员”）。
-1. 在 **程序** 作为本地资产，负责查找与该特定计划相关的一组人员（例如“参加贸易展”）。
+1. 在&#x200B;**数据库**&#x200B;中，可供共享/全局使用（例如，“所有已取消订阅的人员”）。
+1. 在&#x200B;**计划**&#x200B;中作为本地资产，在此类资产中，他们可找到与该特定计划相关的一组人员（例如，“参加过贸易展”）。
 
 创建智能列表的主要步骤包括：
 
@@ -28,21 +28,21 @@ ht-degree: 0%
 
 ## 主选项卡 {#main-tab}
 
-在这里，您可以 [编辑智能列表名称](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md){target="_blank"} 并查看有关智能列表的信息。
+在这里，您可以[编辑智能列表名称](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md){target="_blank"}并查看有关智能列表的信息。
 
-![](assets/smartlist.png)
+![](assets/understanding-smart-lists-1.png)
 
 ## “人员”选项卡 {#people-tab}
 
-您可以在此处查看结果；例如，所有符合您筛选条件的人员 [已添加和定义](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} 在“智能列表”选项卡下。
+这是您查看结果的位置；即，所有符合您在“智能列表”选项卡下[添加和定义的筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}资格的人员。
 
-![](assets/smartlist-people.png)
+![](assets/understanding-smart-lists-2.png)
 
 ## “智能列表”选项卡 {#smart-list-tab}
 
 您可以添加和定义过滤器，以在“人员”选项卡中查看特定人员组。
 
-![](assets/smartlist-filters.png)
+![](assets/understanding-smart-lists-3.png)
 
 好，我们开始吧！
 
