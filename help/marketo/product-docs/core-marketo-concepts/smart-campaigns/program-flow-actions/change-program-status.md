@@ -4,32 +4,28 @@ description: 更改项目状态 — Marketo文档 — 产品文档
 title: 更改项目状态
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 1%
+source-wordcount: '129'
+ht-degree: 0%
 
 ---
 
 # 更改项目状态 {#change-program-status}
 
-## 概述 {#overview}
-
-项目状态可帮助您跟踪人员通过项目或事件的进展情况。 欲知更多信息，请参阅 [自定义、创建和管理渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+项目状态可帮助您跟踪人员通过项目或事件的进展情况。 在[自定义、创建和管理渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}中查找更多信息。
 
 >[!CAUTION]
 >
 >更改参与计划中的计划状态会自动将其添加到第一个流。 他们将开始接收内容。
 
-## 使用情况 {#usage}
+1. 拖入&#x200B;**[!UICONTROL 更改项目状态]**&#x200B;流程步骤。
 
-1. 拖入 **[!UICONTROL 更改项目状态]** 流程步骤。
+   ![](assets/change-program-status-1.png)
 
-   ![](assets/image2014-9-22-14-3a43-3a34.png)
+1. 选择要设置的&#x200B;**[!UICONTROL 新状态]**。 此人如果还不是计划成员，则也将成为该计划成员。
 
-1. 选择 **[!UICONTROL 新建状态]** 您要设置。 此人如果还不是计划成员，则也将成为该计划成员。
-
-   ![](assets/image2014-9-22-14-3a43-3a45.png)
+   ![](assets/change-program-status-2.png)
 
 选项仅限于该程序的有效状态。
 
