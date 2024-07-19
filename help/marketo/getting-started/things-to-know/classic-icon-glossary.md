@@ -2,10 +2,8 @@
 description: Classic图标术语表 — Marketo文档 — 产品文档
 title: Classic图标术语表
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 6%
@@ -14,15 +12,15 @@ ht-degree: 6%
 
 # Classic图标术语表 {#classic-icon-glossary}
 
-以下是Marketo Classic界面中的旧图标。 当前图标术语表可以是 [在此处找到](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
+以下是Marketo Classic界面中的旧图标。 当前图标术语表可在[此处](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}找到。
 
 **常规图标**
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">图标</th>
-   <th style="width:90%">名称</th>
+   <th style="width:15%">图标</th>
+   <th style="width:85%">名称</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td> 
@@ -51,7 +49,7 @@ ht-degree: 6%
   <tr> 
    <td><img width="25" src="assets/share-from.png"> 
     </td> 
-   <td>从其他工作区共享的目标文件夹 <br>（挂锁表示无法进行编辑）</td> 
+   <td>从另一个工作区<br>共享的目标文件夹（挂锁表示无法进行编辑）</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a23-3a11.png"> 
@@ -111,8 +109,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">图标</th>
-   <th style="width:90%">名称</th>
+   <th style="width:15%">图标</th>
+   <th style="width:85%">名称</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-15-3a58-3a8.png"> 
@@ -237,8 +235,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">图标</th>
-   <th style="width:90%">名称</th> 
+   <th style="width:15%">图标</th>
+   <th style="width:85%">名称</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2014-12-18-16-3a45-3a45.png"> 
@@ -303,7 +301,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </td> 
-   <td>电子邮件程序 <br>（红色标记已关闭=电子邮件尚未发送）</td> 
+   <td>电子邮件程序<br>（红色标记已关闭=尚未发送电子邮件）</td> 
   </tr> 
   <tr> 
    <td><img src="assets/hs-icon.png"> 
@@ -503,8 +501,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">图标</th>
-   <th style="width:90%">名称</th> 
+   <th style="width:15%">图标</th>
+   <th style="width:85%">名称</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png"> 
@@ -529,7 +527,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </td> 
-   <td>发布到Facebook</td> 
+   <td>Publish到Facebook</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-12-11-3a0-3a49.png"> 
@@ -639,8 +637,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">图标</th>
-   <th style="width:90%">名称</th>
+   <th style="width:15%">图标</th>
+   <th style="width:85%">名称</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a50-3a24.png"> 
@@ -720,8 +718,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">图标</th>
-   <th style="width:90%">名称</th> 
+   <th style="width:15%">图标</th>
+   <th style="width:85%">名称</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a53-3a27.png"> 
@@ -771,8 +769,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">图标</th>
-   <th style="width:90%">名称</th>
+   <th style="width:15%">图标</th>
+   <th style="width:85%">名称</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a18-3a8.png"> 
@@ -827,8 +825,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">图标</th>
-   <th style="width:90%">名称</th> 
+   <th style="width:15%">图标</th>
+   <th style="width:85%">名称</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png"> 

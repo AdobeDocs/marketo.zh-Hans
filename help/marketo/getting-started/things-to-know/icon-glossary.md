@@ -2,10 +2,8 @@
 description: 图标术语表 — Marketo Engage文档 — 产品文档
 title: 图标术语表
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 21%
@@ -14,16 +12,16 @@ ht-degree: 21%
 
 # Marketo Engage图标术语表 {#icon-glossary}
 
-以下是当前Adobe Marketo Engage界面的图标。 如果您需要引用Marketo Classic图标，它们可以 [在此处找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+以下是当前Adobe Marketo Engage界面的图标。 如果您需要引用Marketo Classic图标，可以[在此找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)。
 
 ## 常规图标 {#general-icons}
 
 <table> 
  <tbody>
   <tr>
-   <th>旧图标</th> 
-   <th> 新建图标</th> 
-   <th>描述</th> 
+   <th style="width:25%">旧图标</th>
+   <th style="width:25%">新建图标</th> 
+   <th style="width:50%">描述</th> 
   </tr>
   <tr>
    <td><strong>不适用</strong></td> 
@@ -83,7 +81,7 @@ ht-degree: 21%
   <tr>
    <td><img src="assets/classic-filter.png"></td> 
    <td><img src="assets/filter.png"></td> 
-   <td>筛选器</td> 
+   <td>筛选条件</td> 
   </tr>
   <tr>
    <td><strong>不适用</strong></td> 
@@ -243,9 +241,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>旧图标</th> 
-   <th> 新建图标</th> 
-   <th>描述</th> 
+   <th style="width:25%">旧图标</th> 
+   <th style="width:25%"> 新建图标</th> 
+   <th style="width:50%">描述</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -290,9 +288,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>旧图标</th> 
-   <th> 新建图标</th> 
-   <th>描述</th> 
+   <th style="width:25%">旧图标</th> 
+   <th style="width:25%"> 新建图标</th> 
+   <th style="width:50%">描述</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -322,9 +320,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>旧图标</th> 
-   <th> 新建图标</th> 
-   <th>描述</th> 
+   <th style="width:25%">旧图标</th> 
+   <th style="width:25%"> 新建图标</th> 
+   <th style="width:50%">描述</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -354,9 +352,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>旧图标</th> 
-   <th> 新建图标</th> 
-   <th>描述</th> 
+   <th style="width:25%">旧图标</th> 
+   <th style="width:25%"> 新建图标</th> 
+   <th style="width:50%">描述</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -376,9 +374,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>旧图标</th> 
-   <th> 新建图标</th> 
-   <th>描述</th> 
+   <th style="width:25%">旧图标</th> 
+   <th style="width:25%"> 新建图标</th> 
+   <th style="width:50%">描述</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -413,9 +411,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>旧图标</th> 
-   <th> 新建图标</th> 
-   <th>描述</th> 
+   <th style="width:25%">旧图标</th> 
+   <th style="width:25%"> 新建图标</th> 
+   <th style="width:50%">描述</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -440,9 +438,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>旧图标</th> 
-   <th> 新建图标</th> 
-   <th>描述</th> 
+   <th style="width:25%">旧图标</th> 
+   <th style="width:25%"> 新建图标</th> 
+   <th style="width:50%">描述</th> 
   </tr>
   <tr>
    <td><strong>不适用</strong></td> 
