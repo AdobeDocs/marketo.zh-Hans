@@ -4,9 +4,9 @@ description: Opportunity Filters and Triggers - Marketo文档 — 产品文档
 title: 机会过滤器和触发器
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -27,31 +27,31 @@ Opportunity筛选器和触发器允许您跟踪Salesforce中的opportunity事件
 * 机会已删除
 * 机会已更新
 
-如果您正在查找Opportunity字段（自定义或标准），请使用 **具有机会** 筛选或 **机会是`[Added/Removed/Updated]`** 过滤器或触发器。
+如果您正在查找Opportunity字段（自定义或标准），请使用&#x200B;**Has Opportunity**&#x200B;筛选器或&#x200B;**Opportunity是`[Added/Removed/Updated]`**&#x200B;个筛选器或触发器。
 
-**商机数量、总商机金额、总商机预期收入**
+**商机数，总商机金额，总商机预期收入**
 
 通过这些过滤器，您可以根据销售机会的总数、金额或预期收入来查找销售线索。
 
-![](assets/image2015-6-11-12-3a29-3a34.png)
+![](assets/opportunity-filters-and-triggers-1.png)
 
-**已将Has Opportunity添加到Opportunity中，已从机会中删除**
+**Has Opportunity Added To Opportunity Was Removed From Opportunity**
 
-如果您要根据一系列标准来寻找具有机会的潜在客户，请使用 **具有机会**， **已添加到机会**，或 **已从机会中删除** 筛选。 他们会告诉你：
+如果您要查找根据条件组合而拥有机会的潜在客户，请使用&#x200B;**Has Opportunity**、**Was Added To Opportunity**&#x200B;或&#x200B;**Was Removed from Opportunity**&#x200B;筛选器。 他们会告诉你：
 
-* **具有机会**：如果此潜在客户当前具有任何匹配的商机
-* **已添加到机会**：如果此商机已添加到匹配商机
-* **已从机会中删除**：如果此潜在客户已从匹配机会中删除
+* **具有机会**：如果此潜在客户当前具有任何匹配的机会
+* **已添加到Opportunity**：如果此潜在客户已添加到匹配机会
+* **已从商机中删除**：如果此商机已从匹配商机中删除
 
-将搜索条件添加为 **约束** 在筛选器上。 这些限制包括您的机会标准字段和自定义字段：
+将搜索条件添加为筛选器上的&#x200B;**约束**。 这些限制包括您的机会标准字段和自定义字段：
 
-![](assets/image2015-6-11-12-3a31-3a0.png)
+![](assets/opportunity-filters-and-triggers-2.png)
 
-![](assets/image2015-6-11-12-3a31-3a46.png)
+![](assets/opportunity-filters-and-triggers-3.png)
 
-例如，假设您要查找具有至少$5,000的未完成销售机会的潜在客户。 拖入 **具有机会** 过滤并使用 **已关闭** 和 **数量** 约束：
+例如，假设您要查找具有至少$5,000的未完成销售机会的潜在客户。 拖入&#x200B;**Has Opportunity**&#x200B;筛选器并使用&#x200B;**Is Closed**&#x200B;和&#x200B;**Amount**&#x200B;约束：
 
-![](assets/image2015-6-11-12-3a32-3a0.png)
+![](assets/opportunity-filters-and-triggers-4.png)
 
 >[!NOTE]
 >
@@ -59,11 +59,11 @@ Opportunity筛选器和触发器允许您跟踪Salesforce中的opportunity事件
 
 **机会已更新**
 
-此 **机会已更新** 过滤器在更新特定opportunity字段时查找任何opportunity。 选取要与“触发器属性”下拉菜单一起检查的字段，然后使用约束来缩小更改集。
+**Opportunity已更新**&#x200B;筛选器在更新特定的opportunity字段时查找任何opportunity。 选取要与“触发器属性”下拉菜单一起检查的字段，然后使用约束来缩小更改集。
 
 例如，此过滤器将显示其关闭日期在过去30天内发生更改的所有潜在客户：
 
-![](assets/image2015-6-11-12-3a33-3a7.png)
+![](assets/opportunity-filters-and-triggers-5.png)
 
 ## 机会触发器 {#opportunity-triggers}
 
@@ -75,8 +75,8 @@ Opportunity筛选器和触发器允许您跟踪Salesforce中的opportunity事件
 
 例如，您可以使用此智能列表在任意商机中添加任何商机时触发。 在流中，您可以将用户添加到“营销已挂起”列表，或向他们发送定向电子邮件。
 
-![](assets/image2015-6-11-12-3a33-3a48.png)
+![](assets/opportunity-filters-and-triggers-6.png)
 
-要触发您的opportunity自定义字段，请使用 **机会已更新** 触发并选取下拉列表中的字段：
+要触发您的Opportunity自定义字段，请使用&#x200B;**Opportunity is Updated**&#x200B;触发器并选取下拉列表中的字段：
 
-![](assets/image2015-6-11-12-3a33-3a34.png)
+![](assets/opportunity-filters-and-triggers-7.png)
