@@ -18,15 +18,15 @@ ht-degree: 0%
 >
 >需要管理员权限
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. 选择 **[!UICONTROL 用户和角色]**.
+1. 选择&#x200B;**[!UICONTROL 用户和角色]**。
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. 单击 **[!UICONTROL 角色]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡。
 
    ![](assets/export-roles-and-permissions-3.png)
 

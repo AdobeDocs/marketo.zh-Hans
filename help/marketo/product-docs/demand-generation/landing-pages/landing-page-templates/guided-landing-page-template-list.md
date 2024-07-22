@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 引导式登陆页面模板列表 {#guided-landing-page-template-list}
 
-浏览我们的示例模板集合，以用于 [引导式登陆页面编辑器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 每个模板均完全响应，并基于Bootstrap框架。
+浏览我们的示例模板集合，以用于[引导式登陆页面编辑器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)。 每个模板均完全响应，并基于Bootstrap框架。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 1. 单击模板名称以查看大图。
 1. 下载所选模板。
-1. 在Marketo中，导航到 **Design Studio。**
-1. 单击 **登陆页面** 在左侧树中，然后选择 **模板。**
+1. 在Marketo中，导航到&#x200B;**设计工作室。**
+1. 单击左侧树中的&#x200B;**登录页面**，然后选择&#x200B;**模板。**
 
-1. 在菜单栏中，单击 **导入模板。**
-1. 选择下载的文件，输入模板名称，然后单击 **导入** (请确保选取一个描述性名称并指明编辑模式为 **引导式**)。
+1. 在菜单栏中，单击&#x200B;**导入模板。**
+1. 选择下载的文件，输入模板名称，然后单击&#x200B;**导入**（确保选择描述性名称并指示编辑模式为&#x200B;**引导式**）。
 
 <table>
 <tr>

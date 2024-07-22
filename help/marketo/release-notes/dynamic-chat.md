@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Adobe Dynamic Chat版本在持续交付模型上运行，该模型允许采用更具可扩展性的方法来部署功能。 有时，一个月内会发布多个版本，因此请定期查看以获取最新信息。
 
-用于Marketo Engage的标准发行说明页面 [可在此处找到](/help/marketo/release-notes/current.md){target="_blank"}.
+可以在此处](/help/marketo/release-notes/current.md){target="_blank"}找到Marketo Engage[的标准发行说明页面。
 
 ## 2024年6月版 {#june-release}
 
-**发布日期： 2024年6月6日**
+**发行日期： 2024年6月6日**
 
 ### 对话流卡 {#conversational-flow-card}
 
@@ -42,25 +42,25 @@ Adobe Dynamic Chat版本在持续交付模型上运行，该模型允许采用�
 
 ### 预批准的响应库 {#pre-approved-response-library}
 
-[创建营销批准的库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} 在几分钟内即可完成人工智能生成的问题和答案的创建，以帮助建立创新型人工智能聊天。
+[创建营销批准的库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} AI生成的问题和答案，以帮助在几分钟内设置创作AI聊天。
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
 ### 未解答的问题 {#unanswered-questions}
 
-[使用未回答问题的存储库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} 从以前的对话中生成新的预批准响应，并维护包含最新信息的响应库。
+[使用以前对话中未回答问题的存储库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"}生成新的预批准响应，并维护包含最新信息的响应库。
 
 ![](assets/dynamic-chat-may-2024-release-2.png)
 
 ### 对话摘要 {#conversation-summaries}
 
-[向销售代理提供总结对话](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} 在会议召开前对关键讨论主题进行深入分析，以缩短准备时间，并更好地向销售代理提供最新信息。
+[为销售代理提供总结的对话](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"}，包括会议前对关键讨论主题的深入分析，以缩短准备时间，更好地为销售代理提供最新信息。
 
 ![](assets/dynamic-chat-may-2024-release-3.png)
 
 ### GenAI销售快捷方式 {#genai-sales-shortcuts}
 
-[以更快的方式提供实时聊天代理](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} 要访问AI生成的响应，请编辑现有生成的响应并搜索要在对话期间发送给购买者的其他内容。
+[以更快的方式提供实时聊天代理](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"}以访问AI生成的响应、编辑现有生成的响应并搜索要在对话期间发送给购买者的其他内容。
 
 ![](assets/dynamic-chat-may-2024-release-4.png)
 
@@ -80,13 +80,13 @@ Adobe Dynamic Chat版本在持续交付模型上运行，该模型允许采用�
 
 ### 对话流现在可供所有用户使用 {#conversational-flows-available-to-all-users}
 
-允许符合条件的潜在客户在提交表单后立即与销售人员预约会议或聊天，从而使您的表单和登陆页更具对话性并缩短销售漏斗。对话式Forms现已完全可用&#42; 适用于所有Dynamic Chat用户。
+允许符合条件的潜在客户在提交表单后立即通过Conversational Forms预约会议或与Sales聊天，从而使您的表单和登陆页更具对话性并缩短销售漏斗。现在，所有Dynamic Chat用户均可完全使用&#42;。
 
 _&#42;以前作为试用功能提供，有100个生命周期参与。 会话流参与现在将计入Select包上用户250次参与会话的每月限制。_
 
 ### 回调函数 {#callback-functions}
 
-[回调函数](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} 允许您在访客参与Dynamic Chat对话时收集外部系统(如Adobe Analytics或Google Analytics)中的Dynamic Chat分析事件。 您可以通过在API中注册回调来侦听事件，从而启用Dynamic Chat分析事件。 这样，您就可以更全面地了解Dynamic Chat参与情况，因为它与其他关键数据（如Web流量）相关。
+[回调函数](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"}允许您在外部系统(如Adobe Analytics或Google Analytics)中收集Dynamic Chat分析事件，因为访客将参与Dynamic Chat对话。 您可以通过在API中注册回调来侦听事件，从而启用Dynamic Chat分析事件。 这样，您就可以更全面地了解Dynamic Chat参与情况，因为它与其他关键数据（如Web流量）相关。
 
 ### 向条件分支添加了实时代理可用性条件 {#live-agent-availability-conditional-branching}
 

@@ -5,7 +5,7 @@ exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '464'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ### 在Salesforce Classic中创建自定义活动字段  {#create-custom-activity-field-in-salesforce-classic}
 
-1. 在Salesforce中，单击 **设置**.
+1. 在Salesforce中，单击&#x200B;**设置**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. 单击 **活动自定义字段**.
+1. 单击&#x200B;**活动自定义字段**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. 单击 **新建**.
+1. 单击&#x200B;**新建**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-1. 选择数据类型“文本”并单击 **下一个**.
+1. 选择数据类型“文本”并单击&#x200B;**下一步**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
-1. 其余设置是可选的。 完成配置后，单击 **下一个**.
+1. 其余设置是可选的。 完成配置后，单击&#x200B;**下一步**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
-1. 为此字段选择所需的字段级安全设置，然后单击 **下一个** （下图只是一个示例）。
+1. 为此字段选择所需的字段级安全设置，然后单击&#x200B;**下一步**（下面的图像只是一个示例）。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-8.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >确保您的Sales Connect用户所使用的配置文件能够看到自定义字段，并且您还可以在其他位置看到该字段。
 
-1. 选择要将该字段添加到其中的页面布局，然后单击 **保存** (或者，您可以单击 **保存并新建** 对“来电原因”字段重复此过程)。
+1. 选择要将该字段添加到哪些页面布局，然后单击&#x200B;**保存** （或者，您可以单击&#x200B;**保存并新建**，然后对“致电原因”字段重复该过程）。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 >
 >如果您没有在上面的步骤9中选择所需的页面布局，则只需执行以下步骤即可。
 
-1. 在Salesforce中，单击 **设置**.
+1. 在Salesforce中，单击&#x200B;**设置**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. 单击 **任务页面布局**.
+1. 单击&#x200B;**任务页面布局**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
-1. 单击 **编辑** 在要添加此字段的任务页面布局旁边。
+1. 单击您要将此字段添加到的任务页面布局旁的&#x200B;**编辑**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
@@ -97,11 +97,11 @@ ht-degree: 0%
 
 ### 在Salesforce Lightning中创建自定义活动字段 {#create-custom-activity-field-in-salesforce-lightning}
 
-1. 在Salesforce中，单击右上角的齿轮图标，然后选择 **设置**.
+1. 在Salesforce中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
-1. 单击 **对象管理器**.
+1. 单击&#x200B;**对象管理器**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
@@ -109,25 +109,25 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. 单击 **活动** 标签。
+1. 单击&#x200B;**活动**&#x200B;标签。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. 单击 **字段和关系**.
+1. 单击&#x200B;**字段和关系**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. 单击 **新建**.
+1. 单击&#x200B;**新建**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ### 在Salesforce Lightning中将自定义活动字段添加到任务页面布局 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. 在Salesforce中，单击右上角的齿轮图标，然后选择 **设置**.
+1. 在Salesforce中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. 单击 **对象管理器**.
+1. 单击&#x200B;**对象管理器**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
@@ -135,11 +135,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. 单击 **任务** 标签。
+1. 单击&#x200B;**任务**&#x200B;标签。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. 单击 **页面布局**.
+1. 单击&#x200B;**页面布局**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
@@ -151,10 +151,10 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
->[在活动历史记录中安装Sales Connect事件字段](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
+>[在活动历史记录上安装Sales Connect事件字段](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)

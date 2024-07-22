@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您可以导出关键词结果以与团队共享或创建报告。
 
-1. 转到 **[!UICONTROL 关键字]** 部分。
+1. 转到&#x200B;**[!UICONTROL 关键字]**&#x200B;部分。
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. 单击 **[!UICONTROL 导出]**.
+1. 单击&#x200B;**[!UICONTROL 导出]**。
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 

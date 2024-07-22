@@ -6,14 +6,14 @@ exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # 使无期间成本的程序在收入浏览器和分析器中可用 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-计划期间成本允许您为计划定义“多少钱”和“何时”。 这显示在Revenue Cycle Explorer和 [分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+计划期间成本允许您为计划定义“多少钱”和“何时”。 这显示在收入周期资源管理器和[分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)中。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >计划分析器按期间成本存储计划成功。 如果没有可用的期间成本，则无论项目的分析行为如何，都不会显示“项目成功”。 如果设置了Analytics行为，将显示机会量度（管道机会、获得的收入等）的数据。
 
-1. 在管理员部分下，单击 **标记**.
+1. 在“管理员”部分下，单击&#x200B;**标记**。
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. 将Analytics行为更改为“包含” ，然后单击 **保存**.
+1. 将Analytics行为更改为“包含”，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[覆盖项目级别的Analytics行为](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+>[覆盖程序级别的Analytics行为](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)

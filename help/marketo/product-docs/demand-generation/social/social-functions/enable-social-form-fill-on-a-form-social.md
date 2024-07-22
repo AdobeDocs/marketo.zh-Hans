@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 选择您的表单并单击 **编辑表单**.
+1. 选择您的表单并单击&#x200B;**编辑表单**。
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. 在“表单设置”下，单击 **设置**.
+1. 在“表单设置”下，单击&#x200B;**设置**。
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >查看内容 [Marketo将捕获的数据](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) 如果人们使用社交按钮。
+   >如果人们使用社交按钮，请查看Marketo将捕获哪些[数据](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)。
 
-1. 单击 **完成**.
+1. 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. 单击 **批准并关闭**.
+1. 单击&#x200B;**批准并关闭**。
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

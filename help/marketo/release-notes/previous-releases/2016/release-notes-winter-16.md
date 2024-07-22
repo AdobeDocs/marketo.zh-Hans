@@ -17,21 +17,21 @@ ht-degree: 0%
 
 ## [是匿名筛选器](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-已为智能列表删除了Is匿名筛选器。 请参阅 [下一代Munchkin跟踪常见问题解答](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) 详细信息的文档。 此更改不会影响Web个性化(RTP)，RTP会继续识别匿名和已知的Web访客，并实时为这些访客个性化内容。
+已为智能列表删除了Is匿名筛选器。 有关详细信息，请参阅[下一代Munchkin跟踪常见问题解答](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)文档。 此更改不会影响Web Personalization (RTP)，RTP会继续识别匿名和已知的Web访客，并实时为这些访客个性化内容。
 
-## [数据库功能板](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
+## [数据库仪表板](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
 Lead Database更新了Summary Dashboard ，其中包括总人员数据库大小、可销售的潜在客户数以及按前五个来源划分的潜在客户细目。
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## [Microsoft Edge浏览器](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-我们已将Microsoft边缘添加到 [浏览器列表](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) 受Marketo支持。
+我们已将Microsoft Edge添加到Marketo支持的[浏览器](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)列表。
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 现在受支持。
+现在支持[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
 
 ## [电子邮件计划头开始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -49,7 +49,7 @@ Lead Database更新了Summary Dashboard ，其中包括总人员数据库大小�
 
 ## [移动营销增强功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**phonegap支持：** 我们现在为您的移动应用程序提供PhoneGap支持。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
+**PhoneGap支持：**&#x200B;我们现在为您的移动设备应用程序提供PhoneGap支持。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap)。
 
 **支持沙盒应用程序**：
 
@@ -59,9 +59,9 @@ Lead Database更新了Summary Dashboard ，其中包括总人员数据库大小�
 
 通过REST API创建、更新和克隆程序。 这不包括创建或更新项目中的智能列表和智能营销策划。
 
-## [Microsoft Dynamics增强](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## [Microsoft Dynamics增强功能](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[同步状态](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**：密切关注同步进程的当前吞吐量和积压。 按插入数和更新数按对象细分。
+**[同步状态](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**：继续关注同步进程的当前吞吐量和积压工作。 按插入数和更新数按对象细分。
 
 ![](assets/pending-backog-cropped.png)
 
@@ -75,13 +75,13 @@ Lead Database更新了Summary Dashboard ，其中包括总人员数据库大小�
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[facebook潜在客户广告](https://www.facebook.com/business/a/lead-ads) 是企业在Facebook上开展商机挖掘活动的更直接方式。 人们填写表格来表达对产品或服务的兴趣，以便企业能够跟进他们。 Marketo与Facebook潜在客户广告的集成会自动捕获潜在客户在潜在客户广告表单中提供的信息。 然后，可以使用新的“填写Facebook潜在客户广告”触发器自动执行跟进操作和通知。
+[Facebook潜在客户广告](https://www.facebook.com/business/a/lead-ads)是企业在Facebook上开展潜在客户挖掘活动的更直接方式。 人们填写表格来表达对产品或服务的兴趣，以便企业能够跟进他们。 Marketo与Facebook潜在客户广告的集成会自动捕获潜在客户在潜在客户广告表单中提供的信息。 然后，可以使用新的“填写Facebook潜在客户广告”触发器自动执行跟进操作和通知。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
-## [Web（实时个性化）活动计划程序](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
+## [Web (实时Personalization)营销活动计划程序](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
 
 提前计划您的营销活动。 设置个性化Web内容的开始和结束日期，并在特定日期和时间重复营销活动。 个性化计划，以根据Web访客的时间或所选时区显示活动。
 

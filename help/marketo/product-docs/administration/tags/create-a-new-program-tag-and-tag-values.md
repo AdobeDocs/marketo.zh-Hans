@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-您可以创建自定义 [标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 并为标记分配值。
+您可以为程序创建自定义[标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)，并为标记分配值。
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ ht-degree: 0%
 >
 >计划标记值：中小型企业、企业、中端市场
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. 单击 **[!UICONTROL 标记]**.
+1. 单击&#x200B;**[!UICONTROL 标记]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. 单击 **[!UICONTROL 新建]** 并选择 **[!UICONTROL 新标记类型]**.
+1. 单击&#x200B;**[!UICONTROL 新建]**&#x200B;并选择&#x200B;**[!UICONTROL 新建标记类型]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. 输入 **[!UICONTROL 标记类型]** 和标记 **[!UICONTROL 值]**. 然后单击 **[!UICONTROL 添加其他]**.
+1. 输入&#x200B;**[!UICONTROL 标记类型]**&#x200B;和标记&#x200B;**[!UICONTROL 值]**。 然后单击&#x200B;**[!UICONTROL 添加其他]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -51,13 +51,13 @@ ht-degree: 0%
    >
    >您可以选择多种程序类型。 生成新程序时，此标记类型将可用。
 
-1. Check **[!UICONTROL 必填]** 并单击 **[!UICONTROL 创建]**.
+1. 选中&#x200B;**[!UICONTROL 必需]**&#x200B;并单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >如果标记类型为 **[!UICONTROL 必填]**，用户在创建新程序时需要输入标记的值。
+   >如果标记类型为&#x200B;**[!UICONTROL 必需]**，则在创建新程序时，用户需要输入标记的值。
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

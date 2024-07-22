@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您可以根据每封电子邮件覆盖主品牌域。 这将更改发送电子邮件时链接的品牌方式。
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 
-1. 选择电子邮件并单击 **[!UICONTROL 编辑草稿]**.
+1. 选择电子邮件并单击&#x200B;**[!UICONTROL 编辑草稿]**。
 
    ![](assets/overwrite-primary-domain-for-emails-2.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >并非所有用户都有权根据每封电子邮件设置品牌域。 如果您没有看到 [!UICONTROL 品牌域] 下拉菜单。
+   >并非所有用户都有权根据每封电子邮件设置品牌域。 如果您没有看到[!UICONTROL 品牌域]下拉列表，请与您的管理员联系。

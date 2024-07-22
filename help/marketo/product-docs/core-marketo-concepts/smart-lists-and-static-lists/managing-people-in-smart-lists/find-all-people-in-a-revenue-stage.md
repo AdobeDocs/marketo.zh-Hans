@@ -19,23 +19,23 @@ ht-degree: 0%
 
 ## 查找特定收入阶段的所有成员 {#find-all-members-of-a-specific-revenue-stage}
 
-1. 在智能列表中，单击 **[!UICONTROL 智能列表]** 选项卡，查找 **[!UICONTROL 收入阶段]** 筛选，并将其拖到画布中。
+1. 在智能列表中，单击&#x200B;**[!UICONTROL 智能列表]**&#x200B;选项卡，找到&#x200B;**[!UICONTROL 收入阶段]**&#x200B;筛选器，然后将其拖到画布中。
 
    ![](assets/draginrevenuefilter.png)
 
-1. 选择 **[!UICONTROL 收入阶段]**.
+1. 选择&#x200B;**[!UICONTROL 收入阶段]**。
 
    ![](assets/two.jpg)
 
-1. 转到 **[!UICONTROL 人员]** 选项卡以查看结果。
+1. 转到&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡以查看结果。
 
    ![](assets/peopleresults.jpg)
 
 ## 对收入阶段成员运行流程步骤 {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-现在您已经知道哪些人处于收入阶段，您可以直接向他们进行营销。 除了选择 **[!UICONTROL 收入阶段]** 作为智能列表筛选器，您还可以在流中选择它作为“if”筛选器。
+现在您已经知道哪些人处于收入阶段，您可以直接向他们进行营销。 除了选择&#x200B;**[!UICONTROL 收入阶段]**&#x200B;作为智能列表筛选器外，您还可以选择它作为流中的“if”筛选器。
 
-1. 在所需的流程步骤中，单击 **[!UICONTROL 添加选项]** 并选择 **[!UICONTROL 收入阶段]** 从下拉菜单中查找。
+1. 在所需的流程步骤中，单击&#x200B;**[!UICONTROL 添加选项]**，然后从下拉列表中选择&#x200B;**[!UICONTROL 收入阶段]**。
 
    ![](assets/six.png)
 

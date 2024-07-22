@@ -6,7 +6,7 @@ exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## “同步状态”选项卡 {#sync-status-tab}
 
-1. 单击 **[!UICONTROL 管理员]**，则 **[!UICONTROL Microsoft Dynamics]**.
+1. 单击&#x200B;**[!UICONTROL 管理员]**，然后单击&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. 单击 **[!UICONTROL 同步状态]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL 同步状态]**&#x200B;选项卡。
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 单击 **[!UICONTROL 视图]** 下拉并选择 **[!UICONTROL 上一小时]** 查看吞吐量信息。
+1. 单击&#x200B;**[!UICONTROL 查看]**&#x200B;下拉列表并选择&#x200B;**[!UICONTROL 上一小时]**&#x200B;以查看吞吐量信息。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 

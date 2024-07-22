@@ -24,20 +24,20 @@ ht-degree: 0%
 >
 >**示例1**：打开应用程序时显示“夏季促销”促销。
 >
->**示例2**：在观看医疗视频时，安排看医生，这会触发一笔40美元的优惠券。
+>**示例2**：观看医疗视频时，安排看医生，这会触发优惠券$40。
 
 在为移动设备应用程序创建和发送应用程序内消息之前，您需要由Marketo管理员和移动设备应用程序开发人员执行一些设置。  生成应用程序内消息的过程包括三个步骤：
 
 ## 步骤1：管理员和开发人员执行初始设置 {#step-admin-and-developer-perform-initial-setups}
 
-Marketo管理员和移动设备应用程序开发人员共同为您进行设置。 请参阅 [在创建推送通知和应用程序内消息之前](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) 以了解详细信息。
+Marketo管理员和移动设备应用程序开发人员共同为您进行设置。 有关详细信息，请参阅创建推送通知和应用内消息之前的[](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)。
 
 ## 步骤2：创建应用程序内消息 {#step-create-an-in-app-message}
 
-您 [创建应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) 使用在线编辑器。
+您[使用联机编辑器创建应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)。
 
 ## 步骤3：发送！ {#step-send}
 
-创建项目以 [发送消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+您创建程序以[发送消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)。
 
 你马上就来。

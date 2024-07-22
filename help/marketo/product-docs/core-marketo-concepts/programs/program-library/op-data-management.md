@@ -2,10 +2,10 @@
 description: 操作数据管理 — Marketo文档 — 产品文档
 title: 操作数据管理
 feature: Programs
-exl-id: 21cd86b2-e924-4326-bbf7-32a03a3eb224
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 这是一个使用默认程序的简单操作数据管理最佳实践工作流的示例，可帮助您管理Marketo Engage数据库中记录的数据一致性。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -35,7 +35,7 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -77,7 +77,7 @@ ht-degree: 2%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>在线广告</td>
+   <td>在线Advertising</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
@@ -112,7 +112,7 @@ ht-degree: 2%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>来自在线广告的新人员</td>
+   <td>在线Advertising的新用户</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
@@ -137,17 +137,17 @@ ht-degree: 2%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>夜间人员来源批处理（适用于高流量实例）</td>
+   <td>人员Source夜间批处理（适用于高流量实例）</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>人员来源已触发（对于低流量实例）</td>
+   <td>Source触发的人员（适用于低流量实例）</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>捕获人员来源</td>
+   <td>捕获人员Source</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
@@ -172,19 +172,19 @@ ht-degree: 2%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
-   * 复制原始模板 —  _推荐_
+   * 复制原始模板 — _推荐_
    * 使用目标模板
 
 * **具有相同名称的图像**
-   * 保留两个文件 —  _推荐_
+   * 保留两个文件 — _推荐_
    * 替换此订阅中的项目
 
 * **同名电子邮件模板**
-   * 保留两个模板 —  _推荐_
+   * 保留两个模板 — _推荐_
    * 替换现有模板
 
 ## 最佳实践 {#best-practices}

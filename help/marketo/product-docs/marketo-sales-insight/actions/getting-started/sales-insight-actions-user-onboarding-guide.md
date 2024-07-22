@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是一个基于Web的应用程序，它通过 [Marketo销售分析包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 它有时称为“Marketo Sales”，或简称为“Actions”。
+>Marketo Sales Insight Actions是一个基于Web的应用程序，它通过[Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}与Salesforce用户界面集成。 它有时称为“Marketo Sales”，或简称为“Actions”。
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 新用户需要执行以下步骤。
 
-1. 在欢迎电子邮件中，单击 **开始使用**.
+1. 在欢迎电子邮件中，单击&#x200B;**开始**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-1.png)
 
-1. 单击 **使用Salesforce激活帐户**.
+1. 单击&#x200B;**使用Salesforce激活帐户**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
@@ -39,31 +39,31 @@ ht-degree: 0%
 >
 >您的salesforce电子邮件ID和销售帐户电子邮件ID必须相同。
 
-1. 单击 **允许**.
+1. 单击&#x200B;**允许**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-4.png)
 
-1. 单击 **开始**.
+1. 单击&#x200B;**开始**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 
-1. 选择您使用的电子邮件客户端（Gmail或Outlook），然后单击 **下一个**.
+1. 选择您使用的电子邮件客户端（Gmail或Outlook），然后单击&#x200B;**下一步**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-7.png)
 
-1. 输入您的电子邮件地址，然后单击 **下一个**.
+1. 输入您的电子邮件地址，然后单击&#x200B;**下一步**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-8.png)
 
-1. 输入密码，然后单击 **下一个**.
+1. 输入密码，然后单击&#x200B;**下一步**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-9.png)
 
-1. 单击 **继续**.
+1. 单击&#x200B;**继续**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-10.png)
 
@@ -75,19 +75,19 @@ ht-degree: 0%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-11.png)
 
-1. 输入自定义签名并单击 **保存** (如果以后要通过配置文件页面执行此操作，请单击 **跳过**)。
+1. 输入您的自定义签名，然后单击&#x200B;**保存** （如果您稍后要通过配置文件页面执行此操作，请单击&#x200B;**跳过**）。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
-1. 单击 **完成**.
+1. 单击&#x200B;**完成**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. 您将看到用于查看Marketo销售活动快速介绍的选项。 单击 **下一个** 查看，或 **不是现在** 以保存供以后使用。
+1. 您将看到用于查看Marketo销售活动快速介绍的选项。 单击&#x200B;**下一步**&#x200B;进行查看，或单击&#x200B;**当前不支持**&#x200B;进行保存以供将来使用。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. 完成导览后，或者如果您跳过了导览，请选择是直接登录Web应用程序，还是登录Salesforce帐户，您可以在其中访问MSI面板的所有功能(在此示例中，我们将选择 **启动Salesforce**)。
+1. 完成导览后，或者如果您跳过了导览，请选择是直接登录Web应用程序，还是登录Salesforce帐户，您可以在其中访问MSI面板的所有功能（在本例中，我们选择&#x200B;**Launch Salesforce**）。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 

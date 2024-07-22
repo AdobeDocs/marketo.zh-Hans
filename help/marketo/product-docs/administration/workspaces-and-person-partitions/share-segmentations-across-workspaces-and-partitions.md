@@ -6,7 +6,7 @@ exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -23,25 +23,25 @@ Marketo非常善于为项目或明智的营销活动挑选合适的人员。 但
 
 >[!NOTE]
 >
->学习 [如何创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>了解[如何创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
 
-设置这些角色后(_和_ 如果您使用工作区)，则您需要在工作区之间共享这些工作区。 以下是一些需要了解的好事情：
+设置这些角色（_和_&#x200B;使用工作区）后，您将在工作区之间共享它们。 以下是一些需要了解的好事情：
 
 ## 规则和提示 {#rules-tips}
 
-* 每个Marketo订阅最多可以包含跨多个工作区的20个分段“总计”(**每个工作区不是20**)。
+* 每个Marketo订阅最多可以包含跨多个工作区的20个分段“总计”（**不是每个工作区** 20个）。
 * 您只能与您有权访问的工作区共享分段。
-* 确保创建和利用 **对所有分区具有可见性的默认工作区**.
+* 确保创建并利用对所有分区&#x200B;**具有可见性的**&#x200B;默认工作区。
 
 * 分段处理仅对创建分段的工作区中的人员运行。
 
-   * 创建要在默认工作区中共享的分段。
+   * 创建要在默认Workspace中共享的分段。
       * 批准分段
       * 共享工作区将看到一个锁定的文件夹，并且分段为只读。
       * 无法编辑共享版本。 您只能编辑创建它的原始分段。
 
    * 当您单击共享区段中的区段（例如，医疗保健）时，您看到的人员将只是与正在查看的工作区相关联的分区中的人员。
-      * 如果在Workspace 1 (WS1)中创建分段并与WS2共享，而WS1无权访问WS2的分区，则不会重新计算分段。
+      * 如果在Workspace 1 (WS1)中创建分段并将其与WS2共享，并且WS1无权访问WS2的分区，则不会重新计算分段。
       * 如果在具有有限分区的工作区中创建分段，然后将其与另一个工作区共享，则接收共享分段的工作区将仅看到重叠的人员。
 
 >[!NOTE]
@@ -56,15 +56,15 @@ Marketo非常善于为项目或明智的营销活动挑选合适的人员。 但
 
 ## 共享分段 {#share-a-segmentation}
 
-1. 转到 **[!UICONTROL 数据库]**.
+1. 转到&#x200B;**[!UICONTROL 数据库]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. 右键单击 **[!UICONTROL 分段]** 并选择 **[!UICONTROL 新建文件夹]**.
+1. 右键单击&#x200B;**[!UICONTROL 分段]**&#x200B;并选择&#x200B;**[!UICONTROL 新建文件夹]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. 命名要在工作区之间共享的文件夹（例如：共享分段），然后单击 **[!UICONTROL 创建]**.
+1. 命名要跨工作区共享的文件夹（例如：共享分段），然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -72,11 +72,11 @@ Marketo非常善于为项目或明智的营销活动挑选合适的人员。 但
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. 右键单击文件夹，然后选择 **[!UICONTROL 共享文件夹]**.
+1. 右键单击文件夹，然后选择&#x200B;**[!UICONTROL 共享文件夹]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. 选择要与其共享文件夹的工作区。 单击 **[!UICONTROL 保存]**.
+1. 选择要与其共享文件夹的工作区。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

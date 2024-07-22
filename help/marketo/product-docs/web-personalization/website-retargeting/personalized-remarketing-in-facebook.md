@@ -6,7 +6,7 @@ exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '291'
 ht-degree: 1%
 
 ---
@@ -17,38 +17,38 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* 完成 [使用Web个性化数据重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 设置
->* 查看 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [关于自定义受众的Facebook文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 和再营销。
+>* 使用Web Personalization数据完成[重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)设置
+>* 查看有关自定义受众](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)和再营销的[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook文档。
 
 ## 在Facebook中创建受众 {#creating-an-audience-in-facebook}
 
-1. 在Facebook中，转到 [“受众”选项卡](https://www.facebook.com/ads/audience_manager) 在广告管理器中。
+1. 在Facebook中，转到广告管理器中的[受众选项卡](https://www.facebook.com/ads/audience_manager)。
 
-1. 单击 **工具** 并选择 **受众**.
+1. 单击&#x200B;**工具**&#x200B;并选择&#x200B;**受众**。
 
    ![](assets/one-1.png)
 
-1. 单击 **创建自定义受众**.
+1. 单击&#x200B;**创建自定义受众**。
 
    ![](assets/two-1.png)
 
-1. 选择 **网站流量**.
+1. 选择&#x200B;**网站流量**。
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. 在网站流量列表中，选择 **自定义组合**.
+1. 在网站流量列表中，选择&#x200B;**自定义组合**。
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. 在包含列表中，选择 **事件**.
+1. 在包含列表中，选择&#x200B;**事件**。
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. 在Event列表中，选择 **RTP再营销** 并选择一个参数。
+1. 在“事件”列表中，选择&#x200B;**RTP再营销**&#x200B;并选择参数。
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. 对于此示例，请选择要包含的行业 **教育**. 输入 **教育**，并编辑 **过去** 180天。 输入受众名称： **教育行业**. 单击 **创建受众**.
+1. 对于此示例，请选择“行业”以包含&#x200B;**教育**。 输入&#x200B;**教育**，并在最近&#x200B;**内将**&#x200B;编辑为180天。 输入受众名称： **教育行业**。 单击&#x200B;**创建受众**。
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -103,13 +103,13 @@ ht-degree: 1%
 
 ## 使用广告定位受众 {#target-your-audience-with-an-ad}
 
-有关其他详细信息，请参阅 [facebook的文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
+有关其他详细信息，请参阅[Facebook的文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)。
 
-1. 转到广告管理器，单击 **创建广告**.
+1. 转到广告管理器，单击&#x200B;**创建广告**。
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. 选择 **将人员发送到您的网站** 作为您的营销活动的目标。
+1. 选择&#x200B;**将联系人发送到您的网站**&#x200B;作为您的营销活动的目标。
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -129,5 +129,5 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [使用Web个性化数据重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [Google中的个性化再营销](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+>* [使用Web Personalization数据重新定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* 在Google中[个性化再营销](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

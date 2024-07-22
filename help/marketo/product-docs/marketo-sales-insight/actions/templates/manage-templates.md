@@ -5,7 +5,7 @@ exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 ## 创建模板 {#create-a-new-template}
 
-1. 导航至 **模板** 选项卡。
+1. 导航到&#x200B;**模板**&#x200B;选项卡。
 
    ![](assets/manage-templates-1.png)
 
-1. 单击 **创建模板**.
+1. 单击&#x200B;**创建模板**。
 
    ![](assets/manage-templates-2.png)
 
-1. 选择 **名称** 和 **类别** （对于您的电子邮件模板），然后单击 **创建**.
+1. 为您的电子邮件模板选择&#x200B;**名称**&#x200B;和&#x200B;**类别**，然后单击&#x200B;**创建**。
 
    ![](assets/manage-templates-3.png)
 
-1. 在模板编辑器中，为电子邮件创建主题行并键入所需的消息。 使用编辑工具（字体、文本大小等） 定制外观。 单击 **保存** 以完成更改。
+1. 在模板编辑器中，为电子邮件创建主题行并键入所需的消息。 使用编辑工具（字体、文本大小等） 定制外观。 单击&#x200B;**保存**&#x200B;以完成更改。
 
    ![](assets/manage-templates-4.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 如果您使用我们的某个团队帐户，则默认情况下您的所有模板仍为私有。
 
-1. 导航至 **模板** 选项卡。
+1. 导航到&#x200B;**模板**&#x200B;选项卡。
 
    ![](assets/manage-templates-5.png)
 
@@ -71,19 +71,19 @@ ht-degree: 0%
 
    ![](assets/manage-templates-6.png)
 
-1. 单击 **共享** 按钮。
+1. 单击&#x200B;**共享**&#x200B;按钮。
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >与您共享的模板将显示在 **团队模板** 标题来显示模板页面的左侧。 团队仅适用于Premium用户。
+   >与您共享的模板将显示在“模板”页面左侧的&#x200B;**团队模板**&#x200B;标题下。 团队仅适用于Premium用户。
 
 1. 单击共享方式下拉列表，然后选择要与其共享的团队。
 
    ![](assets/manage-templates-8.png)
 
-1. 您可以选择将模板保留在当前类别中或将其移动到其他类别。 在本例中，我们将其保留在当前版本中。 单击 **共享** 完成时。
+1. 您可以选择将模板保留在当前类别中或将其移动到其他类别。 在本例中，我们将其保留在当前版本中。 完成后，单击&#x200B;**共享**。
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 您可以将任何类别的模板添加到“收藏夹”列表中。 这会自动在列表顶部生成一个新类别，以便您可以快速访问最常用的模板。
 
-1. 导航至 **模板** 选项卡。
+1. 导航到&#x200B;**模板**&#x200B;选项卡。
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 ## 自定义模板视图 {#customize-template-view}
 
-从 **视图** 从下拉列表中可以看到：所有模板、您的模板、收藏夹模板、共享模板、非共享模板或未使用的模板（过去90天内未使用的模板）。
+从&#x200B;**视图**&#x200B;下拉列表中，您可以选择查看所有模板、您的模板、收藏模板、共享模板、非共享模板或未使用的模板（过去90天内未使用的模板）。
 
 ![](assets/manage-templates-13.png)
 
@@ -121,11 +121,11 @@ ht-degree: 0%
 
    ![](assets/manage-templates-14.png)
 
-1. 单击 **存档**.
+1. 单击&#x200B;**存档**。
 
    ![](assets/manage-templates-15.png)
 
-1. 单击 **存档** 以确认。
+1. 单击&#x200B;**存档**&#x200B;以确认。
 
    ![](assets/manage-templates-16.png)
 
@@ -147,10 +147,10 @@ ht-degree: 0%
 
    ![](assets/manage-templates-17.png)
 
-1. 单击 **删除**.
+1. 单击&#x200B;**删除**。
 
    ![](assets/manage-templates-18.png)
 
-1. 单击 **删除** 以确认。
+1. 单击&#x200B;**删除**&#x200B;以确认。
 
    ![](assets/manage-templates-19.png)

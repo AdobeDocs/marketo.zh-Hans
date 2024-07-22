@@ -6,7 +6,7 @@ exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 ## 创建电子邮件程序 {#create-an-email-program}
 
-1. 转到 **[!UICONTROL 营销活动]** 区域。
+1. 转到&#x200B;**[!UICONTROL 营销活动]**&#x200B;区域。
 
    ![](assets/send-an-email-1.png)
 
-1. 选择您的 **[!UICONTROL 学习]** 文件夹。 单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 新建项目群]**.
+1. 选择您的&#x200B;**[!UICONTROL 学习]**&#x200B;文件夹。 单击&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 新建项目]**。
 
    ![](assets/send-an-email-2.png)
 
-1. 输入 **[!UICONTROL 名称]** 并选择 **[!UICONTROL 电子邮件]** 对象 **[!UICONTROL 项目类型]**.
+1. 输入&#x200B;**[!UICONTROL 名称]**&#x200B;并为&#x200B;**[!UICONTROL 计划类型]**&#x200B;选择&#x200B;**[!UICONTROL 电子邮件]**。
 
    >[!TIP]
    >
@@ -37,23 +37,23 @@ ht-degree: 0%
 
    ![](assets/send-an-email-3.png)
 
-1. 下 **[!UICONTROL 渠道]**，选择 **[!UICONTROL 电子邮件发送]** 并单击 **[!UICONTROL 创建]**.
+1. 在&#x200B;**[!UICONTROL 渠道]**&#x200B;下，选择&#x200B;**[!UICONTROL 电子邮件发送]**，然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/send-an-email-4.png)
 
 ## 定义受众 {#define-your-audience}
 
-1. 单击 **[!UICONTROL 编辑智能列表]** 在 [!UICONTROL 受众] 磁贴。
+1. 单击[!UICONTROL 受众]拼贴下的&#x200B;**[!UICONTROL 编辑智能列表]**。
 
    ![](assets/send-an-email-5.png)
 
-1. 查找并拖动 [!UICONTROL 电子邮件地址] 过滤到画布上。
+1. 查找[!UICONTROL 电子邮件地址]筛选器并将其拖动到画布上。
 
    ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >使用 **[!UICONTROL Search]** 函数以便更轻松地查找过滤器。
+   >使用&#x200B;**[!UICONTROL 搜索]**&#x200B;功能更轻松地查找筛选器。
 
 1. 查找并选择您的电子邮件地址。
 
@@ -61,13 +61,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您的电子邮件未自动填充，则您可能忘记了 [完成设置并添加潜在客户。](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+   >如果您的电子邮件未自动填充，则您可能忘记[设置并添加潜在客户。](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
    >[!NOTE]
    >
    >在本例中，我们将让您仅向自己发送电子邮件，但您可以根据需要自定义受众。
 
-1. 返回主程序选项卡，然后单击的刷新图标 **[!UICONTROL 人员]**.
+1. 返回主项目选项卡，然后单击&#x200B;**[!UICONTROL 人员]**&#x200B;的刷新图标。
 
    ![](assets/send-an-email-8.png)
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
 ## 创建电子邮件 {#create-an-email}
 
-1. 在电子邮件拼贴下，单击 **[!UICONTROL 新建电子邮件]**.
+1. 在“电子邮件”图标下，单击&#x200B;**[!UICONTROL 新建电子邮件]**。
 
    ![](assets/send-an-email-9.png)
 
-1. 输入 **[!UICONTROL 名称]**，选择一个 **模板**，然后单击 **[!UICONTROL 创建]**.
+1. 输入&#x200B;**[!UICONTROL 名称]**，选择&#x200B;**模板**，然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/send-an-email-10.png)
 
@@ -89,35 +89,35 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您有弹出窗口阻止程序，请单击 **[!UICONTROL 编辑草稿]** 以输入电子邮件编辑器。
+   >如果您有弹出窗口阻止程序，请单击&#x200B;**[!UICONTROL 编辑草稿]**&#x200B;以进入电子邮件编辑器。
 
-1. 选择要编辑的区域，单击右侧的齿轮图标，然后选择 **[!UICONTROL 编辑]** （也可以双击可编辑部分进行编辑）。
+1. 选择要编辑的区域，单击右侧的齿轮图标，然后选择&#x200B;**[!UICONTROL 编辑]**（也可以双击可编辑部分进行编辑）。
 
    ![](assets/send-an-email-12.png)
 
-1. 输入所需的内容并单击 **[!UICONTROL 保存]**.
+1. 输入所需的内容，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/send-an-email-13.png)
 
-1. 单击 **[!UICONTROL 电子邮件操作]** 下拉并选择 **[!UICONTROL 批准并关闭]**.
+1. 单击&#x200B;**[!UICONTROL 电子邮件操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 批准并关闭]**。
 
    ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
-   >希望向您自己发送一个快速示例，以了解您的电子邮件在启动之前的显示方式？ 选择 **[!UICONTROL 发送示例]** （在上面的菜单中，或单击） **[!UICONTROL 电子邮件操作]** 则 [**[!UICONTROL 发送示例]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
+   >希望向您自己发送一个快速示例，以了解您的电子邮件在启动之前的显示方式？ 在上面的菜单中选择&#x200B;**[!UICONTROL 发送样本]**，或单击&#x200B;**[!UICONTROL 电子邮件操作]**&#x200B;和[**[!UICONTROL 发送样本]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}。
 
 1. 在左侧树中选择Email Program。
 
    ![](assets/send-an-email-15.png)
 
-1. 在 [!UICONTROL 计划] 图块，将电子邮件的启动日期设置为 **[!UICONTROL 今天]**.
+1. 在[!UICONTROL 计划]拼贴下，将电子邮件的启动日期设置为&#x200B;**[!UICONTROL 今天]**。
 
    ![](assets/send-an-email-16.png)
 
    >[!NOTE]
    >
-   >了解有关 [收件人时区](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} and [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
+   >了解有关[收件人时区](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"}和[Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}的更多信息。
 
 1. 选择未来至少15分钟的时间。
 
@@ -125,9 +125,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >默认时区不是您的时区吗？ 了解如何 [在此处更新它](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
+   >默认时区不是您的时区吗？ 在此处了解如何[更新它](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}。
 
-1. 单击 **[!UICONTROL 批准项目]** 在 [!UICONTROL 批准] 磁贴，你完了！
+1. 单击[!UICONTROL 批准]图块下的&#x200B;**[!UICONTROL 批准项目]**，操作已完成！
 
    ![](assets/send-an-email-18.png)
 

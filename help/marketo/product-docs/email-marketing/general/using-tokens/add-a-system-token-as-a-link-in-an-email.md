@@ -23,11 +23,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这些令牌将 **非** 除非位于锚点链接内部，否则为可单击的。 此外，他们可以 **非** 嵌入到“我的令牌”中。
+>除非位于锚点链接内部，否则这些令牌将&#x200B;**无法**&#x200B;点击。 此外，它们&#x200B;**不能**&#x200B;嵌入到“我的令牌”中。
 
 以下是如何将它们添加到电子邮件中的：
 
-1. 查找并选择您的电子邮件，然后单击 **编辑草稿**.
+1. 查找并选择您的电子邮件，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/one-1.png)
 
@@ -35,28 +35,28 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 突出显示要转换为具有令牌的链接的文本，然后单击 **插入/编辑链接** 按钮。
+1. 突出显示要转换为具有令牌的链接的文本，然后单击&#x200B;**插入/编辑链接**&#x200B;按钮。
 
    ![](assets/three-1.png)
 
-1. 在链接URL中输入令牌，然后单击 **插入**.
+1. 在链接URL中输入令牌，然后单击&#x200B;**插入**。
 
    ![](assets/four-1.png)
 
    >[!TIP]
    >
-   >复制/粘贴所需的令牌： **`{{system.forwardToFriendLink}}`** 或 **`{{system.unsubscribeLink}}`** 或 **`{{system.viewAsWebpageLink}}`**
+   >复制/粘贴所需的令牌： **`{{system.forwardToFriendLink}}`**、**`{{system.unsubscribeLink}}`**&#x200B;或&#x200B;**`{{system.viewAsWebpageLink}}`**
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
 >[!IMPORTANT]
 >
->如果您使用此方法添加“viewAsWebPageLink”系统令牌，则可以 **非** 使用令牌覆盖它。 请改用 [将视图作为网页链接添加到电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) 方法，允许您使用令牌覆盖“viewAsWebPageLink”。
+>如果您使用此方法添加“viewAsWebPageLink”系统令牌，则&#x200B;**不能**&#x200B;使用令牌覆盖它。 请改为使用[将视图作为网页链接添加到电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)方法，此方法允许您使用令牌覆盖“viewAsWebPageLink”。
 
 >[!NOTE]
 >
->别忘了 [批准您的电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) 完成时。
+>完成时，不要忘记[批准您的电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
 
 做得好！ 现在您知道如何在电子邮件中添加系统令牌作为链接了。

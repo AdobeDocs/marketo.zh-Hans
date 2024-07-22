@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 删除智能列表错误 {#get-rid-of-smart-list-errors}
 
-在Smart Campaign中，单击 **[!UICONTROL 智能列表]**. 通过修复错误来消除您看到的任何红色弯曲线。
+在Smart Campaign中，单击&#x200B;**[!UICONTROL 智能列表]**。 通过修复错误来消除您看到的任何红色弯曲线。
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->使用 **[!UICONTROL 智能列表的成员]** 其他列表中可能存在错误。 也请检查。
+>使用&#x200B;**[!UICONTROL 智能列表的成员]**&#x200B;可能会在其他列表中出现错误。 也请检查。
 
 ## 删除流错误 {#get-rid-of-flow-errors}
 
-在Smart Campaign中，单击 **[!UICONTROL 流量]**. 通过修复错误来消除您看到的任何红色弯曲线。
+在Smart Campaign中，单击&#x200B;**[!UICONTROL 流量]**。 通过修复错误来消除您看到的任何红色弯曲线。
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,24 +43,24 @@ ht-degree: 0%
 
 ## 查看“计划”选项卡 {#review-the-schedule-tab}
 
-在 **[!UICONTROL 计划]** 选项卡，选中 **[!UICONTROL 智能列表状态]** Smart Campaign中需要修复的任何错误。
+在&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡中，检查&#x200B;**[!UICONTROL 智能列表状态]**&#x200B;以了解智能营销活动中需要修复的任何错误。
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## 检查人员限制限制 {#check-person-restrictions-limit}
 
-在 **[!UICONTROL 计划]** 选项卡，确保符合条件的人数不超过人员限制限制。
+在&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡中，确保合格人员的数量不超过人员限制限制。
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->如果需要，您可以 [覆盖智能营销活动中的人员限制](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>如果需要，您可以[在Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)中覆盖人员限制。
 
 >[!NOTE]
 >
 >**提醒**
 >
->如果Smart Campaign仍然失败，请了解如何 [了解通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 找出错误以及如何修复。
+>如果Smart Campaign仍然失败，请了解如何[了解通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)以确定哪里出错误以及如何修复错误。
 
 做得好！在运行Smart Campaign之前，请准备好此核对清单。

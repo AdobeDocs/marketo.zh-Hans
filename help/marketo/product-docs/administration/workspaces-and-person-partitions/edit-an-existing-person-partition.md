@@ -23,19 +23,19 @@ ht-degree: 0%
 >
 >[创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. 单击 **[!UICONTROL 工作区和分区]**.
+1. 单击&#x200B;**[!UICONTROL 工作区和分区]**。
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. 在 **[!UICONTROL 人员分区]** 选项卡，选择要编辑的人员分区，然后单击 **[!UICONTROL 编辑人员分区]**.
+1. 在&#x200B;**[!UICONTROL 人员分区]**&#x200B;选项卡下，选择要编辑的人员分区，然后单击&#x200B;**[!UICONTROL 编辑人员分区]**。
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. 输入人员分区 **[!UICONTROL 名称]**， **[!UICONTROL 工作区]** 它们属于，然后单击 **[!UICONTROL 保存]**.
+1. 输入人员分区&#x200B;**[!UICONTROL 名称]**&#x200B;及其所属的&#x200B;**[!UICONTROL 工作区]**，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

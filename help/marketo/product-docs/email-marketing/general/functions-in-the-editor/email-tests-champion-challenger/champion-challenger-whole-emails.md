@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[添加电子邮件冠军/挑战者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 在电子邮件测试编辑器中，选择 **整个电子邮件** 在 **测试类型** 下拉菜单。
+1. 在电子邮件测试编辑器中，从&#x200B;**测试类型**&#x200B;下拉列表中选择&#x200B;**整个电子邮件**。
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >请记住：原始电子邮件是冠军。 挑战者与它竞争。
 
-1. 查找并选择 **挑战者** 电子邮件，然后单击 **克隆**.
+1. 查找并选择&#x200B;**挑战者**&#x200B;电子邮件，然后单击&#x200B;**克隆**。
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    为了获得统计置信度，请确保分配给挑战者的百分比包含足够的人员，以保证您的测试有效。 不要被无定论的结果所愚弄。
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 

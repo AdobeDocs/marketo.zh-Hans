@@ -6,7 +6,7 @@ exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Marketo Sales Insight会根据您的优先顺序选择您最好的潜在客户�
 
 >[!NOTE]
 >
->如果最佳匹配与您拥有的最佳潜在客户和联系人不匹配，请与公司中有权访问Marketo的人员联系，了解如何更新您的 [评分规则](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>如果最佳匹配与您拥有的最佳潜在客户和联系人不匹配，请与公司中有权访问Marketo的人员联系，了解如何更新[评分规则](/help/marketo/getting-started/quick-wins/simple-scoring.md)。
 
 ### 紧急程度和相对分数的计算方式
 

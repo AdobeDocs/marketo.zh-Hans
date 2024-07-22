@@ -6,7 +6,7 @@ exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -36,12 +36,12 @@ facebook潜在客户广告营销活动可生成潜在客户并将它们发送到
 >
 >如果没有离线转化，广告商可能会在Ad 3上投入更多资金。 有了离线转化数据，广告商更有可能投资于广告1。
 
-您可以 [设置Facebook离线转化](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) 将离线广告效果发送到Facebook。
+您可以[设置Facebook离线转化](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)以将离线广告性能发送到Facebook。
 
-1. 确保 [facebook LaunchPoint集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 是最新的。
+1. 确保您的[Facebook LaunchPoint集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)是最新的。
 1. 将收入周期模型中的阶段映射到Facebook上的离线转化阶段。
 1. 当从Facebook Lead广告生成Facebook Lead并到达映射阶段时，Marketo每天都会通过安全、自动的API将离线转化数据发送回Facebook多次。 数据显示在Facebook广告管理器报表中。
 
 >[!MORELIKETHIS]
 >
->[设置Facebook离线转化](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[设置Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

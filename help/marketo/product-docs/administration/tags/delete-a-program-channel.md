@@ -17,15 +17,15 @@ ht-degree: 0%
 
 如果意外制作或不再需要某个，可以将其删除。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/delete-a-program-channel-1.png)
 
-1. 单击 **[!UICONTROL 标记]**.
+1. 单击&#x200B;**[!UICONTROL 标记]**。
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. 选择要删除的渠道。 在 **[!UICONTROL 标记操作]** 下拉列表，单击 **[!UICONTROL 删除]**.
+1. 选择要删除的渠道。 在&#x200B;**[!UICONTROL 标记操作]**&#x200B;下拉列表中，单击&#x200B;**[!UICONTROL 删除]**。
 
    >[!TIP]
    >
@@ -33,4 +33,4 @@ ht-degree: 0%
 
    ![](assets/delete-a-program-channel-3.png)
 
-您还可以 [从渠道中删除特定状态](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+您也可以[从渠道](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md)中删除特定状态。

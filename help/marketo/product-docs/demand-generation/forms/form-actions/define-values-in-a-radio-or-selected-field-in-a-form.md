@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 定义表单中单选或选定字段的值 {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-一旦 [设置字段类型](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) 要成为单选按钮或选择类型，您将需要定义用户可以从中选取的值。 具体方法如下。
+一旦您[将字段类型](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)设置为单选按钮或选择类型，您将需要定义用户可选择的值。 具体方法如下。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/ma.png)
 
-1. 选择您的表单并单击 **编辑表单**.
+1. 选择您的表单并单击&#x200B;**编辑表单**。
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. 选择字段并单击 **编辑**.
+1. 选择字段并单击&#x200B;**编辑**。
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**条件**
+   >**定义**
    >
-   >**显示值：** 向访客显示的内容。
+   >**显示值：**&#x200B;向访客显示的内容。
    >
-   >**存储值：** Marketo中的录像。
+   >**存储值：** Marketo中记录的内容。
 
-1. 添加所需数量的值，然后单击 **保存**.
+1. 添加所需数量的值，然后单击&#x200B;**保存**。
 
    >[!NOTE]
    >
@@ -53,13 +53,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >单击 **高级编辑器** 以复制/粘贴值列表（如果需要）。 它可以实时节省成本。
+   >单击&#x200B;**高级编辑器**，根据需要复制/粘贴值列表。 它可以实时节省成本。
 
-1. 单击 **完成**.
+1. 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. 单击 **批准并关闭**.
+1. 单击&#x200B;**批准并关闭**。
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

@@ -6,7 +6,7 @@ exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->查找和合并重复项需要使用 [内置/系统智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>查找和合并重复项需要使用[内置/系统智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}。
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 查找重复项 {#find-duplicates}
 
-1. 转到 **[!UICONTROL 数据库]** 区域。
+1. 转到&#x200B;**[!UICONTROL 数据库]**&#x200B;区域。
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,21 +37,21 @@ ht-degree: 0%
    >
    >如果使用Salesforce人员帐户，则在Marketo中合并人员可能无法正常工作。 如果可能，请合并Salesforce中的记录。
 
-1. 选择 **[!UICONTROL 可能的重复项]** 系统智能列表，然后单击 **[!UICONTROL 人员]** 选项卡。
+1. 选择&#x200B;**[!UICONTROL 可能的重复项]**&#x200B;系统智能列表，然后单击&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡。
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
-   >您还可以 [使用自定义逻辑查找重复的人员](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
+   >您还可以[使用自定义逻辑](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}查找重复的人员。
 
 ## 手动合并人员 {#merge-people-manually}
 
 >[!CAUTION]
 >
->在合并人员时，如果失败人员具有Marketo自定义对象，则将 _非_ 重新关联到入选人员。 在执行合并之前，请重新为自定义对象添加父级。
+>在合并人员时，如果落选人员具有Marketo自定义对象，则将&#x200B;_不_&#x200B;与入选人员重新关联。 在执行合并之前，请重新为自定义对象添加父级。
 
-1. 按住Ctrl/Cmd并单击以选择重复项，然后单击 **[!UICONTROL 合并人员]**.
+1. 按住Ctrl/Cmd并单击，然后单击&#x200B;**[!UICONTROL 合并人员]**，选择重复项。
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >您可以为同一人员创建两个或多个重复项 — 一次选择所有重复项。
 
-1. 您将看到以下记录之间的值： _不要_ 匹配。 为每个字段选择要保留的值。 单击 **[!UICONTROL 合并]** 完成时。 如果您不希望获得这两个值，则可以选中 **[!UICONTROL 自定义]** 并输入您选择的值。
+1. 您将看到&#x200B;_不符合_&#x200B;的记录之间的值。 为每个字段选择要保留的值。 完成后单击&#x200B;**[!UICONTROL 合并]**。 如果您不想使用其中一个值，可以选中&#x200B;**[!UICONTROL 自定义]**&#x200B;并输入您选择的值。
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
@@ -80,8 +80,8 @@ ht-degree: 0%
 
 有关合并潜在客户或联系人时Salesforce行为的详细信息，请查看以下Salesforce文档：
 
-* [合并重复的潜在客户](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
-* [合并重复的联系人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
+* [正在合并重复的潜在客户](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [正在合并重复的联系人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## 批量合并 {#bulk-merging}
 

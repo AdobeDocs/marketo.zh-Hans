@@ -7,7 +7,7 @@ feature: Social
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ Marketo中的社交应用程序拥有自己的特殊触发器和过滤器。
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. 使用社交 _触发器_，选择您的智能营销活动，然后单击 **智能列表** 选项卡。 在右侧，单击+以展开 **触发器**，则 **Social**.
+1. 要使用社交&#x200B;_触发器_，请选择您的智能营销活动，然后单击&#x200B;**智能列表**&#x200B;选项卡。 在右侧，单击+展开&#x200B;**触发器**，然后单击&#x200B;**社交**。
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. 使用社交 _过滤器_，单击 **+** 以展开 **过滤器**.
+1. 若要使用社交&#x200B;_筛选器_，请单击&#x200B;**+**&#x200B;以展开&#x200B;**筛选器**。
 
    ![](assets/two-282-29.png)
 
@@ -44,4 +44,4 @@ Marketo中的社交应用程序拥有自己的特殊触发器和过滤器。
 
    >[!MORELIKETHIS]
    >
-   >[查看社交绩效](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
+   >[查看社交表现](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)

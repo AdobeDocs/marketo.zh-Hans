@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # 电子邮件列和电子邮件页面布局 {#email-columns-and-email-page-layout}
 
-您可以将任何可用列配置为在 [指挥中心](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). 将为每个电子邮件子文件夹（例如，已投放、失败、已计划等）保存您的配置设置。
+您可以将任何可用列配置为在[命令中心](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)的电子邮件部分中可见。 将为每个电子邮件子文件夹（例如，已投放、失败、已计划等）保存您的配置设置。
 
 ## 电子邮件列 {#email-columns}
 
@@ -28,7 +28,7 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td><strong>人员</td> 
-   <td>Sales Connect中人员的姓名和电子邮件。 单击此字段将在人员详细信息视图中打开关于选项卡。</td> 
+   <td>Sales Connect人员的姓名和电子邮件。 单击此字段将在人员详细信息视图中打开关于选项卡。</td> 
   </tr> 
   <tr> 
    <td><strong>名称</td> 
@@ -39,7 +39,7 @@ ht-degree: 2%
    <td>Sales Connect中人员的主要电子邮件地址。</td> 
   </tr> 
   <tr> 
-   <td><strong>营销活动</td> 
+   <td><strong>Campaign</td> 
    <td>如果电子邮件作为营销活动的一部分发送，则会显示营销活动的名称。 单击此字段将转到该营销活动的设置页面。</td> 
   </tr> 
   <tr> 
@@ -117,11 +117,11 @@ ht-degree: 2%
 
 您可以按照以下步骤配置布局。
 
-1. 在Web应用程序中，单击 **指挥中心**.
+1. 在Web应用程序中，单击&#x200B;**命令中心**。
 
    ![](assets/email-columns-and-email-page-layout-1.png)
 
-1. 选择 **电子邮件** 部分。
+1. 选择&#x200B;**电子邮件**&#x200B;部分。
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 

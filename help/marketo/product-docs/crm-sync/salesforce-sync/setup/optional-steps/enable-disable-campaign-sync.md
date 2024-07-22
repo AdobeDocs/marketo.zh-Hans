@@ -19,15 +19,15 @@ ht-degree: 0%
 
 此选项允许Marketo Engage将其项目会员资格和状态与Salesforce促销活动同步，反之亦然。
 
-1. 转到 **[!UICONTROL 管理员]** 并单击 **[!DNL Salesforce]**.
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;并单击&#x200B;**[!DNL Salesforce]**。
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. 单击 **[!UICONTROL 编辑同步设置]**.
+1. 单击&#x200B;**[!UICONTROL 编辑同步设置]**。
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Check **[!UICONTROL 启用Salesforce Campaign同步]** 并单击 **[!UICONTROL 保存]**.
+1. 选中&#x200B;**[!UICONTROL 启用Salesforce Campaign同步]**，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 

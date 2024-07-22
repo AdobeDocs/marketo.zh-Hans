@@ -31,4 +31,4 @@ ht-degree: 0%
    >
    >要选择其他消息，请在应用程序内消息字段中删除该消息。 随后，新的应用程序内消息链接将返回过来。 单击该按钮并选择其他消息。
 
-你说的没错。 结束时间 [计划发送](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
+你说的没错。 [计划发送](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)的时间。

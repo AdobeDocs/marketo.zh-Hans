@@ -6,7 +6,7 @@ exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**重叠营销活动**
+>**重叠的营销活动**
 >
 >在以下情况下，会发生Web营销活动重叠：
 >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >为了更便于查找所需的Web营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >若要更轻松地查找所需的Web营销活动，请使用[筛选功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 1. 在“编辑促销活动”页面中，设置优先级得分（9999 =最高优先级1 =最低优先级）。
 

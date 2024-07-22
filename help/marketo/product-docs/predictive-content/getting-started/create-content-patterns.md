@@ -6,24 +6,24 @@ exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
 
 # 创建内容模式 {#create-content-patterns}
 
-当您设置内容模式时，当Web访客单击与内容模式相关的HTML网页时，将自动发现内容。 它用于将HTML页面（博客文章、新闻稿、新闻文章）作为内容片段添加到“所有内容”页面。 当自动发现基于内容模式时，它会在WebHTML查看或单击指向页面的链接时发现并跟踪与定义的URL模式相关的访客页面。 此内容片段（URL、页面名称和元数据，包括图像URL和描述）将添加到所有内容页面中，以准备预测内容。 要自动发现其他内容(如PDF和嵌入式视频)，您需要 [启用内容发现](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+当您设置内容模式时，当Web访客单击与内容模式相关的HTML网页时，将自动发现内容。 它用于将HTML页面（博客文章、新闻稿、新闻文章）作为内容片段添加到“所有内容”页面。 当自动发现基于内容模式时，它会在WebHTML查看或单击指向页面的链接时发现并跟踪与定义的URL模式相关的访客页面。 此内容片段（URL、页面名称和元数据，包括图像URL和描述）将添加到所有内容页面中，以准备预测内容。 对于自动发现其他内容(如PDF和嵌入的视频)，您需要[启用内容发现](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)。
 
-1. 转到 **内容设置**.
+1. 转到&#x200B;**内容设置**。
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. 单击 **URL模式**.
+1. 单击&#x200B;**URL模式**。
 
    ![](assets/click-url-patterns-hand.png)
 
-1. 单击 **+** 以打开可输入信息的行。
+1. 单击&#x200B;**+**&#x200B;可打开一个您可输入信息的行。
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -33,28 +33,28 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >右侧下拉列表中的项目反映了您在执行以下操作时设置的类别： [已创建类别](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >右侧下拉列表中的项目反映您[创建类别](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)时设置的类别。
 
-1. 单击 **+** 以添加其他路径。
+1. 单击&#x200B;**+**&#x200B;添加其他路径。
 
    ![](assets/url-patterns-add2.png)
 
-1. 添加其他路径的扩展和类别，然后单击 **保存**.
+1. 为其他路径添加扩展和类别，然后单击&#x200B;**保存**。
 
    ![](assets/url-patterns-save.png)
 
 ## 内容模式规则 {#content-pattern-rules}
 
-* 您可以在表达式中的任意位置使用通配符(示例： _domain.com/&#42;_， _domain.com/&#42;博客&#42;_)
+* 您可以在表达式中的任意位置使用通配符（示例： _domain.com/&#42;_、_domain.com/&#42;blog&#42;_）
 
-* 我们建议使用/&#42; 在表达式末尾继续模式发现(示例： _domain.com/blog/&#42;_ 发现博客文件夹中的所有帖子)
-* 内容模式不区分大小写(例如： _domain.com/Blog/&#42;_ 发现上的所有html页面 _domain.com/Blog_ 和 _domain.com/blog_)
+* 我们建议在表达式末尾使用/&#42;来继续模式发现(示例： _domain.com/blog/&#42;_&#x200B;可发现Blog文件夹中的所有帖子)
+* 内容模式不区分大小写(示例： _domain.com/Blog/&#42;_&#x200B;发现&#x200B;_domain.com/Blog_&#x200B;和&#x200B;_domain.com/blog_&#x200B;上的所有html页面)
 
 * 未发现URL参数（这可以避免使用相同的内容URL但不同的参数发现多个项目）
 
 ## 示例 {#examples}
 
-对象 _domain.com_：
+对于&#x200B;_domain.com_：
 
 <table> 
  <tbody> 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## [!UICONTROL 添加站点] {#add-a-site}
 
-1. 单击“管理员”下拉菜单并选择 **[!UICONTROL 管理员]**.
+1. 单击“管理员”下拉菜单并选择&#x200B;**[!UICONTROL 管理员]**。
 
    >[!NOTE]
    >
@@ -29,15 +29,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 单击 **[!UICONTROL 添加站点]**.
+1. 单击&#x200B;**[!UICONTROL 添加站点]**。
 
    ![](assets/two.png)
 
-1. 输入 **[!UICONTROL 名称]， [!UICONTROL 网站URL]** 并单击 **[!UICONTROL 保存]**.
+1. 输入&#x200B;**[!UICONTROL 名称]，[!UICONTROL 网站URL]**，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    >[!TIP]
    >
-   >您还可以添加 **[!UICONTROL 博客URL]** 如果你有的话。
+   >您还可以添加&#x200B;**[!UICONTROL 博客URL]**（如果有）。
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 如果您跟踪多个网站，则还可以删除对优化不再感兴趣的网站。
 
-1. 单击“管理员”下拉菜单并选择 **[!UICONTROL 管理员]**.
+1. 单击“管理员”下拉菜单并选择&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/one.png)
 
@@ -57,14 +57,14 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 单击 **[!UICONTROL 删除]**.
+1. 单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/seven.png)
 
-1. 确认您希望 **[!UICONTROL 删除]**.
+1. 确认您要&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >仅当拥有多个站点时才能删除站点。 如果您只有一个，则可以通过选择该站点并单击 **[!UICONTROL 重置]**. 重置站点将 _删除所有网站数据_ 并重新创建站点。
+   >仅当拥有多个站点时才能删除站点。 如果您只有一个，则可以通过选择站点并单击&#x200B;**[!UICONTROL 重置]**&#x200B;来执行重置。 重置站点将&#x200B;_删除所有站点数据_&#x200B;并重新创建站点。

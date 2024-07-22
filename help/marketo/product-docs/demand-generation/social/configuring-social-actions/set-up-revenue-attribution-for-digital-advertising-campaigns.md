@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098812
-description: 设置数字广告促销活动的收入归因 — Marketo文档 — 产品文档
-title: 设置数字广告促销活动的收入归因
+description: 设置数字Advertising促销活动的收入归因 — Marketo文档 — 产品文档
+title: 设置数字Advertising促销活动的收入归因
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
 
-# 设置数字广告促销活动的收入归因 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# 设置数字Advertising促销活动的收入归因 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 下面是如何设置数字广告渠道和营销活动的收入归因。 完成设置后，您可以像在其他Marketo程序中一样，对数字广告进行首次接触和多接触点收入归因。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 设置具有状态值和项目成功的渠道标记（例如，数字广告或社交付费和PPC）
+>* 设置具有状态值和项目成功的渠道标记(例如，Digital Advertising或Social付费和PPC)
 >* 创建或编辑表单以传递查询字符串给人员
 >* 确保您有权访问一些Revenue Cycle Analytics功能以报告广告渠道和营销活动
 
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 与某些程序（如电子邮件）可能定期运行特定时间段不同，默认程序始终处于打开状态。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 单击 **新建** 并选择 **新建项目群**.
+1. 单击&#x200B;**新建**&#x200B;并选择&#x200B;**新建程序**。
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. 如果您已设置程序，则可以 [克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. 如果您已设置程序，则可以[克隆该程序](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)。
 
    >[!TIP]
    >
@@ -65,9 +65,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >两个触发器和中使用的查询字符串 **捕获名称的程序** 过滤器对于您是唯一的。 此处显示的查询字符串仅为示例。 如果克隆了字段，则只需替换这些字段即可。
+   >在两个触发程序和&#x200B;**捕获了名称**&#x200B;的程序过滤器中使用的查询字符串对于您是唯一的。 此处显示的查询字符串仅为示例。 如果克隆了字段，则只需替换这些字段即可。
 
-1. 创建流程步骤以将属性更改为 **客户获取计划** 并将新值设置为您为付费社交营销活动定义的值。
+1. 创建流程步骤以将属性更改为&#x200B;**客户获取计划**，并将新值设置为您为付费社交营销活动定义的值。
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 您需要第二个智能营销活动来更改人员的状态，以便他们能够实现项目成功并包含在收入归因计算中。
 
-1. 在 **填写表单** 触发器，在查询字符串中输入程序名称。 如果要克隆程序，只需将旧的查询字符串名称替换为新的查询字符串名称即可。
+1. 在&#x200B;**填写表单**&#x200B;触发器中，在查询字符串中输入程序名称。 如果要克隆程序，只需将旧的查询字符串名称替换为新的查询字符串名称即可。
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >上面的示例显示 **已转换**，但这取决于您的状态/成功值。
+   >以上示例显示了&#x200B;**已转换**，但这取决于您的状态/成功值。
 
 1. 计划和激活营销活动。
 
@@ -108,16 +108,16 @@ ht-degree: 0%
    >
    >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >* **源** 是用作渠道标识符的人员来源
-   >* **注释** 是为每个项目创建的唯一标识符
-   >* **camp** 是Facebook、LinkedIn或Google中的营销活动
-   >* **kk** 是要捕获的关键字或资源名称
+   >* **source**&#x200B;是用作渠道标识符的人员Source
+   >* **注释**&#x200B;是为每个项目创建的唯一标识符
+   >* **camp**&#x200B;是Facebook、LinkedIn或Google中的营销活动
+   >* **kk**&#x200B;是要捕获的关键字或资产名称
    >
-   >**这四个术语必须全部小写，并且URL中不能有任何空格才能捕获此信息。**
+   >**这四个术语必须全部为小写，并且URL中不能有任何空格以便捕获此信息。**
 
 ## 最佳实践 {#best-practices}
 
-使用单个渠道标记来表示所有数字广告，或者，如果您希望与其他营销渠道进行更细微的比较（例如，社交 — 付费、搜索 — 付费、显示、重新定位），请使用多个渠道标记。
+使用单个渠道标记表示所有数字Advertising，或者，如果您希望与其他营销渠道进行更细微的比较（例如，社交 — 付费、搜索 — 付费、显示、重新定位），则使用多个渠道标记。
 
 然后，为所需的每个报表视图设置不同的程序。 如果您有10个区域同时启动了“Big Campaign”，并且希望能够跨区域查看结果，请使用公共ID作为查询字符串中URL的参数（例如BC）。
 

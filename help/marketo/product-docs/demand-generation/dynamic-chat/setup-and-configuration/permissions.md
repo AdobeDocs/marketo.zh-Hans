@@ -2,11 +2,11 @@
 description: 权限 — Marketo文档 — 产品文档
 title: 权限
 feature: Dynamic Chat
-exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
+exl-id: 06798ac4-636b-476e-bbb1-498062844406
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 8%
+ht-degree: 4%
 
 ---
 
@@ -16,15 +16,15 @@ ht-degree: 8%
 
 ## 编辑现有权限 {#edit-existing-permissions}
 
-1. 在 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}，单击 **Dynamic Chat**.
+1. 在[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}中，单击&#x200B;**Dynamic Chat**。
 
    ![](assets/permissions-1.png)
 
-1. 在 **产品配置文件** 选项卡，选择要编辑的配置文件。 在本例中，我们选择 **实时代理**.
+1. 在&#x200B;**产品配置文件**&#x200B;选项卡中，选择要编辑的配置文件。 在此示例中，我们选择&#x200B;**实时代理**。
 
    ![](assets/permissions-2.png)
 
-1. 单击 **权限** 选项卡。
+1. 单击&#x200B;**权限**&#x200B;选项卡。
 
    ![](assets/permissions-3.png)
 
@@ -32,7 +32,7 @@ ht-degree: 8%
 
    ![](assets/permissions-4.png)
 
-1. 左侧列出了可用的权限项。 您可以选择逐个添加权限，也可以一次添加所有权限。 在本例中，只有一个可用，因此我们将添加该一个。 单击 **+** 签名。
+1. 左侧列出了可用的权限项。 您可以选择逐个添加权限，也可以一次添加所有权限。 在本例中，只有一个可用，因此我们将添加该一个。 单击&#x200B;**+**&#x200B;符号。
 
    ![](assets/permissions-5.png)
 
@@ -50,15 +50,15 @@ ht-degree: 8%
 
 ## 创建配置文件 {#create-a-profile}
 
-1. 在 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}，单击 **Dynamic Chat**.
+1. 在[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}中，单击&#x200B;**Dynamic Chat**。
 
    ![](assets/permissions-8.png)
 
-1. 在 **产品配置文件** 选项卡，单击 **新建配置文件**.
+1. 在&#x200B;**产品配置文件**&#x200B;选项卡中，单击&#x200B;**新建配置文件**。
 
    ![](assets/permissions-9.png)
 
-1. **名称** 您的产品配置文件。 （可选）您可以为其提供显示名称和/或描述，并选择在添加/删除用户时通知用户。 单击 **保存** 完成时。
+1. **名称**&#x200B;您的产品配置文件。 （可选）您可以为其提供显示名称和/或描述，并选择在添加/删除用户时通知用户。 完成后单击&#x200B;**保存**。
 
    ![](assets/permissions-10.png)
 
@@ -66,7 +66,7 @@ ht-degree: 8%
 
    ![](assets/permissions-11.png)
 
-1. 现在，请按照中的步骤3-6操作 [上一节](#edit-existing-permissions) 适用于每个所需区域。
+1. 现在，对每个所需区域执行上述[部分](#edit-existing-permissions)中的步骤3-6。
 
 ## 权限列表 {#list-of-permissions}
 
@@ -84,10 +84,10 @@ ht-degree: 8%
     <td>对话管理</td>
     <td><li>查看对话框</li>
     <li>管理对话框（创建、删除）</li>
-    <li>发布对话框</li>
+    <li>Publish对话框</li>
     <li>查看对话流</li>
     <li>管理对话流（创建、删除）</li>
-    <li>发布对话流</li></td>
+    <li>Publish对话流</li></td>
   </tr>
   <tr>
     <td>实时聊天</td>
@@ -116,20 +116,20 @@ ht-degree: 8%
     <td><li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>管理自定义规则（添加、编辑、删除）</li>
-    <li>查看帐户列表 <b>*</b></li>
-    <li>管理帐户（添加、编辑、删除） <b>*</b></li>
+    <li>查看帐户列表<b>*</b></li>
+    <li>管理帐户（添加、编辑、删除）<b>*</b></li>
     <li>管理聊天机器人设置</li>
     <li>管理对话流设置</li>
     <li>管理隐私和安全性</li>
     <li>管理集成</li>
     <li>管理代理</li>
-    <li>查看代理团队 <b>*</b></li>
-    <li>管理代理团队（添加、编辑、删除） <b>*</b></li></td>
+    <li>查看代理团队<b>*</b></li>
+    <li>管理代理团队（添加、编辑、删除）<b>*</b></li></td>
   </tr>
 </tbody>
 </table>
 
-**&#42;** 目前仅适用于Dynamic Prime用户
+**&#42;**&#x200B;当前仅适用于Dynamic Prime用户
 
 <p>
 
@@ -150,10 +150,10 @@ ht-degree: 8%
     <td><i>对话管理</i>
     <li>查看对话框</li>
     <li>管理对话框（创建、删除）</li>
-    <li>发布对话框</li>
+    <li>Publish对话框</li>
     <li>查看对话流</li>
     <li>管理对话流（创建、删除）</li>
-    <li>发布对话流</li>
+    <li>Publish对话流</li>
     <br>
     <i>实时聊天</i>
     <li>不适用</li>
@@ -161,7 +161,7 @@ ht-degree: 8%
     <i>会议</i>
     <li>不适用</li>
     <br>
-    <i>Analytics</i>
+    <i>分析</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
@@ -172,8 +172,8 @@ ht-degree: 8%
     <i>管理员设置</i>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
-    <li>查看帐户列表 <b>*</b></li>
-    <li>查看代理团队 <b>*</b></li>
+    <li>查看帐户列表<b>*</b></li>
+    <li>查看代理团队<b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -188,7 +188,7 @@ ht-degree: 8%
     <i>会议</i>
     <li>不适用</li>
     <br>
-    <i>Analytics</i>
+    <i>分析</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
@@ -201,8 +201,8 @@ ht-degree: 8%
     <i>管理员设置</i>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
-    <li>查看帐户列表 <b>*</b></li>
-    <li>查看代理团队 <b>*</b></li>
+    <li>查看帐户列表<b>*</b></li>
+    <li>查看代理团队<b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -217,7 +217,7 @@ ht-degree: 8%
     <i>会议</i>
     <li>不适用</li>
     <br>
-    <i>Analytics</i>
+    <i>分析</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
@@ -229,8 +229,8 @@ ht-degree: 8%
     <i>管理员设置</i>
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
-    <li>查看帐户列表 <b>*</b></li>
-    <li>查看代理团队 <b>*</b></li>
+    <li>查看帐户列表<b>*</b></li>
+    <li>查看代理团队<b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -238,10 +238,10 @@ ht-degree: 8%
     <td><i>对话管理</i>
     <li>查看对话框</li>
     <li>管理对话框（创建、删除）</li>
-    <li>发布对话框</li>
+    <li>Publish对话框</li>
     <li>查看对话流</li>
     <li>管理对话流（创建、删除）</li>
-    <li>发布对话流</li>
+    <li>Publish对话流</li>
     <br>
     <i>实时聊天</i>
     <li>不适用</li>
@@ -249,7 +249,7 @@ ht-degree: 8%
     <i>会议</i>
     <li>不适用</li>
     <br>
-    <i>Analytics</i>
+    <i>分析</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
@@ -262,13 +262,13 @@ ht-degree: 8%
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>管理自定义规则（添加、编辑、删除）</li>
-    <li>查看帐户列表 <b>*</b></li>
-    <li>管理帐户（添加、编辑、删除） <b>*</b></li>
+    <li>查看帐户列表<b>*</b></li>
+    <li>管理帐户（添加、编辑、删除）<b>*</b></li>
     <li>管理聊天机器人设置</li>
     <li>管理对话流设置</li>
     <li>管理隐私和安全性</li>
     <li>管理集成</li>
-    <li>查看代理团队 <b>*</b></li>
+    <li>查看代理团队<b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -284,7 +284,7 @@ ht-degree: 8%
     <i>会议</i>
     <li>管理所有会议</li>
     <br>
-    <i>Analytics</i>
+    <i>分析</i>
     <li>查看全局性能报表</li>
     <li>查看实时聊天报告</li>
     <li>查看会议报告</li>
@@ -299,14 +299,14 @@ ht-degree: 8%
     <li>查看循环调度程序</li>
     <li>查看自定义规则</li>
     <li>管理自定义规则（添加、编辑、删除）</li>
-    <li>查看帐户列表 <b>*</b></li>
-    <li>管理帐户（添加、编辑、删除） <b>*</b></li>
+    <li>查看帐户列表<b>*</b></li>
+    <li>管理帐户（添加、编辑、删除）<b>*</b></li>
     <li>管理代理</li>
-    <li>查看代理团队 <b>*</b></li>
-    <li>管理代理团队 <b>*</b></li>
+    <li>查看代理团队<b>*</b></li>
+    <li>管理代理团队<b>*</b></li>
     </td>
   </tr>
 </tbody>
 </table>
 
-**&#42;** 目前仅适用于Dynamic Prime用户
+**&#42;**&#x200B;当前仅适用于Dynamic Prime用户

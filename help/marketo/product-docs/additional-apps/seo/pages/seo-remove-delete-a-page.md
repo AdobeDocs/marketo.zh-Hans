@@ -15,11 +15,11 @@ ht-degree: 0%
 
 要删除页面？ 别出汗，这是怎么回事。
 
-1. 转到 **[!UICONTROL 页面]** 部分。
+1. 转到&#x200B;**[!UICONTROL 页面]**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. 在 [!UICONTROL 页面] 选项卡，将鼠标悬停在要删除的页面上，单击 **[!UICONTROL 删除]**，然后单击 **[!UICONTROL 移除]**.
+1. 在[!UICONTROL 页面]选项卡上，将鼠标悬停在要删除的页面上，单击&#x200B;**[!UICONTROL 删除]**，然后单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 

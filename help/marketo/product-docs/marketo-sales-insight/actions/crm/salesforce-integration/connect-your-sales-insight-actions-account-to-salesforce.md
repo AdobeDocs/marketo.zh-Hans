@@ -16,19 +16,19 @@ ht-degree: 0%
 
 ## 如何以管理员身份连接 {#how-to-connect-as-an-admin}
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. 在管理设置下，单击 **Salesforce**.
+1. 在“管理员设置”下，单击&#x200B;**Salesforce**。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. 在“连接和定制”选项卡中，单击 **Salesforce** 则 **连接**.
+1. 在“连接和自定义项”选项卡中，单击&#x200B;**Salesforce**，然后单击&#x200B;**连接**。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
-1. 单击 **确定**.
+1. 单击&#x200B;**确定**。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
@@ -36,17 +36,17 @@ ht-degree: 0%
 
 ## 如何以非管理员身份连接 {#how-to-connect-as-a-non-admin}
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
-1. 在我的帐户下，选择 **Salesforce**.
+1. 在我的帐户下，选择&#x200B;**Salesforce**。
 
-1. 在“连接和定制”选项卡中，单击 **Salesforce** 则 **连接**.
+1. 在“连接和自定义项”选项卡中，单击&#x200B;**Salesforce**，然后单击&#x200B;**连接**。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
-1. 单击 **确定**.
+1. 单击&#x200B;**确定**。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 

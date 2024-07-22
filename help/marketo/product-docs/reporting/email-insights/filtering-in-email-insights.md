@@ -6,7 +6,7 @@ exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -59,10 +59,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->日期范围同时适用于Analytics页面和“发送”页面。 此 **比较** 选项仅适用于Analytics页面。
+>日期范围同时适用于Analytics页面和“发送”页面。 但是，**比较**&#x200B;选项仅适用于Analytics页面。
 
 ## 基于帐户的营销 {#account-based-marketing}
 
-如果您使用 [目标帐户管理](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，提供了专门为您设计的过滤器。
+如果您使用[Target帐户管理](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，则有专门为您设置的过滤器。
 
 ![](assets/abm.png)

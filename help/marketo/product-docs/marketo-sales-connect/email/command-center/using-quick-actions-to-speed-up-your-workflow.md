@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 电子邮件快速操作是动态和更新的，具体取决于您所查看电子邮件状态的最相关操作。 每个电子邮件状态最多可显示两个电子邮件快速操作。 您可以在下文中看到每种状态有哪些电子邮件快速操作可用。
 
-**已送达**
+**已投放**
 
 | 状态 | 描述 |
 |---|---|
@@ -40,7 +40,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>删除</td> 
-   <td><p>将删除电子邮件。<br><strong>注意：</strong> 无法删除作为营销活动的一部分发送的电子邮件。</p></td> 
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -59,7 +59,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>删除</td> 
-   <td><p>将删除电子邮件。<br><strong>注意：</strong> 无法删除作为营销活动的一部分发送的电子邮件。</p></td> 
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -78,7 +78,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>删除</td> 
-   <td><p>将删除电子邮件。<br><strong>注意：</strong> 无法删除作为营销活动的一部分发送的电子邮件。</p></td> 
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td> 
   </tr> 
  </tbody> 
 </table>

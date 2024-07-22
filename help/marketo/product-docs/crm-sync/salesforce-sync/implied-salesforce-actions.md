@@ -6,7 +6,7 @@ exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 当特定于Salesforce的流程步骤运行时，有时会自动执行额外的步骤。 规则如下，您知道：
 
-当人员当前不在时，将应用这些规则 [Salesforce.com](https://Salesforce.com){target="_blank"} 作为联系人或潜在客户。
+当人员当前不是在[Salesforce.com](https://Salesforce.com){target="_blank"}中作为联系人或潜在客户时，将应用这些规则。
 
 <table> 
  <thead> 
@@ -31,7 +31,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>在SFDC Campaign中更改状态</td> 
-   <td>将人员同步到SFDC<br>添加到SFDC Campaign</td> 
+   <td>将人员同步到SFDC<br>添加到SFDC促销活动</td> 
   </tr> 
   <tr> 
    <td>更改所有者</td> 
@@ -48,6 +48,6 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-您可以使用以下代码过滤掉智能列表中的SFDC记录 **[!UICONTROL SFDC类型]** 运算符设置为“不为空”的筛选条件。 所有SFDC记录在此字段中都有一个值。
+您可以使用运算符设置为“不为空”的&#x200B;**[!UICONTROL SFDC Type]**&#x200B;筛选器筛选出智能列表中的SFDC记录。 所有SFDC记录在此字段中都有一个值。
 
-请记住，仅当潜在客户当前不在中时，才会发生这些自动操作 [Salesforce.com](https://salesforce.com){target="_blank"}
+请记住，仅当潜在客户当前不在[Salesforce.com](https://salesforce.com){target="_blank"}中时，才会发生这些自动操作

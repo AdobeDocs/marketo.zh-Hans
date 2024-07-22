@@ -5,7 +5,7 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '478'
 ht-degree: 2%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 2%
 * 已更新呼叫
 * 已更新呼叫密钥消息
 
-过滤器:
+过滤器：
 
 * 具有呼叫
 * 具有呼叫键消息
@@ -118,7 +118,7 @@ ht-degree: 2%
       <td>调用</td>
       <td>查找呼叫。 每个关键消息都与呼叫相关联。</td>
       <td>Call2_vod__c</td>
-      <td>主控详细信息（调用）</td>
+      <td>Master-Detail（调用）</td>
     </tr>
     <tr>
       <td>呼叫关键消息</td>

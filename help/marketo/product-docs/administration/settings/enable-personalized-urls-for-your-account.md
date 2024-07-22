@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. 单击 **[!UICONTROL 登陆页面]**.
+1. 单击&#x200B;**[!UICONTROL 登陆页面]**。
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
-1. 单击 **[!UICONTROL 编辑]**.
+1. 单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. 查看 **[!UICONTROL 启用个性化URL]** 框并单击 **[!UICONTROL 保存]**.
+1. 选中&#x200B;**[!UICONTROL 启用个性化URL]**&#x200B;框并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-做得好！现在您已经为帐户启用了PURL，您可以 [为各个登陆页面启用它们](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+做得好！现在您已为帐户启用PURL，您可以[为各个登陆页面启用它们](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)。
 
 >[!NOTE]
 >

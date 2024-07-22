@@ -6,7 +6,7 @@ exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 ## 仪表板 {#dashboard}
 
-功能板汇总指定帐户内所有人员的帐户级别关键见解，因此无需联系每个人来评估其进度。 您可以使用更深入地了解电子邮件活动 [电子邮件分析](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+功能板汇总指定帐户内所有人员的帐户级别关键见解，因此无需联系每个人来评估其进度。 您可以使用[电子邮件分析](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)更深入地了解电子邮件活动。
 
 >[!NOTE]
 >
 >图表显示过去90天的见解。
 
-**随时间变化的帐户参与度** 单击 **视图** 右侧的下拉菜单以更改查看内容。 除了帐户得分之外，您还可以按总收入查看……
+**随时间变化的帐户参与度**&#x200B;单击右侧的&#x200B;**查看**&#x200B;下拉列表以更改查看内容。 除了帐户得分之外，您还可以按总收入查看……
 
 ![](assets/two-new.png)
 
@@ -50,21 +50,21 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-**有趣的时刻**
+**个有趣的时刻**
 
 Marketo Sales Insight用户可以查看在帐户级别汇总的有趣时刻。
 
 ![](assets/int-mom.png)
 
-**顶级人员**
+**热门用户**
 
-这些人员是根据指定帐户人员显示的回访间隔或紧急程度来计算的优先级(与 [最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) ，或用户定义的分数。 **优先级** 仅供Marketo Sales Insight的用户使用。
+这些用户是根据指定帐户的用户显示的回访间隔或紧急程度（与Sales Insight中的[最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)相同）或用户定义的分数来计算的。 **优先级**&#x200B;仅适用于Marketo Sales Insight的用户。
 
 ![](assets/top-ten.png)
 
-**包括子项**
+**包含子项**
 
-单击 **包括子项** 查看和选择所选指定帐户的子帐户并查看其聚合分析。
+单击&#x200B;**包括子项**&#x200B;可查看和选择所选命名帐户的子帐户，并查看其聚合分析。
 
 ![](assets/abm.png)
 
@@ -92,7 +92,7 @@ Marketo Sales Insight用户可以查看在帐户级别汇总的有趣时刻。
 
 >[!NOTE]
 >
->要添加列出的任何人员，请选择他们并单击 **添加人员**.
+>要添加列出的任何人员，请选择他们并单击&#x200B;**添加人员**。
 
 ## 使用者 {#used-by}
 
@@ -108,10 +108,10 @@ Marketo Sales Insight用户可以查看在帐户级别汇总的有趣时刻。
 
 >[!NOTE]
 >
->单击 **客户团队操作** 下拉列表以添加/删除帐户成员，或分配帐户所有者。
+>单击&#x200B;**帐户团队操作**&#x200B;下拉列表以添加/删除帐户成员，或分配帐户所有者。
 
 ## ICP指示器 {#icp-indicators}
 
-查看您选择在执行以下操作时导出的ICP指示器 [调整您的模型](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+查看您在[调整模型](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)时选择导出的ICP指示器。
 
 ![](assets/eight.png)

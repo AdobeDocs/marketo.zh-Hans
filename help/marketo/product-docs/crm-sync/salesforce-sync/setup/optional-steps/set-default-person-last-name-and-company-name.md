@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Salesforce要求其Leads和Contacts具有（最小）姓氏和公司名称。 不完整的记录将不会同步到Salesforce。 如果要同步部分记录，必须设置Marketo的默认值以与Salesforce一起使用。
 
-1. 转到 **[!UICONTROL 管理员]** 并单击 **[!DNL Salesforce]**.
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;并单击&#x200B;**[!DNL Salesforce]**。
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. 单击 **[!UICONTROL 编辑同步选项]**.
+1. 单击&#x200B;**[!UICONTROL 编辑同步选项]**。
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. 输入 **[!UICONTROL 默认人员姓氏]** 和 **[!UICONTROL 默认人员公司]**，然后单击 **[!UICONTROL 保存]**.
+1. 输入&#x200B;**[!UICONTROL 默认人员姓氏]**&#x200B;和&#x200B;**[!UICONTROL 默认人员公司]**，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/sync-options-hands.png)
 

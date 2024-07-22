@@ -20,11 +20,11 @@ ht-degree: 1%
 
 ## 查看同步错误 {#view-sync-errors}
 
-1. 单击 **[!UICONTROL 管理员]**.
+1. 单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. 在集成下，单击 **Salesforce**，然后 **[!UICONTROL 同步错误]** 选项卡。
+1. 在“集成”下，单击&#x200B;**Salesforce**，然后单击&#x200B;**[!UICONTROL 同步错误]**&#x200B;选项卡。
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 
 | 字段 | 描述 |
 |---|---|
-| 失败日期 | 记录级别 _或_ 作业级别 |
+| 失败日期 | 记录级别&#x200B;_或_&#x200B;作业级别 |
 | 失败的日期/时间 | 错误详细信息 |
 | 错误类型 | SFDC返回消息 |
 
@@ -48,10 +48,10 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 选择日期和时间范围，然后按错误类型（作业层或记录层）筛选。 单击 **[!UICONTROL 应用]** 完成时。
+1. 选择日期和时间范围，然后按错误类型（作业层或记录层）筛选。 完成后单击&#x200B;**[!UICONTROL 应用]**。
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**可选步骤**：要导出同步错误，请单击 **[!UICONTROL 导出]**. 数据将导出为CSV。
+**可选步骤**：若要导出同步错误，请单击&#x200B;**[!UICONTROL 导出]**。 数据将导出为CSV。
 
 ![](assets/salesforce-sync-errors-5.png)

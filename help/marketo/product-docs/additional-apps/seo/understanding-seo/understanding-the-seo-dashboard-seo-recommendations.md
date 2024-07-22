@@ -15,17 +15,17 @@ ht-degree: 0%
 
 使用功能板全面了解关键词排名趋势以及您的网站针对SEO的优化程度。
 
-您也可以使用 [!UICONTROL Recommendations] 部分。 让我们跳进去！
+您还可以通过[!UICONTROL Recommendations]部分了解如何改进。 让我们跳进去！
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
 ## [!UICONTROL 热门页面优化问题] {#top-page-optimization-issues}
 
-这会向您展示五种高效的方法来立即开始优化您的网站！ 只需单击任意链接即可查看完整内容 [页面详细信息向下钻取](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+这会向您展示五种高效的方法来立即开始优化您的网站！ 只需单击任意链接，即可查看完整的[页面详细信息深入分析](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}。
 
 >[!TIP]
 >
->您可以单击 [!UICONTROL 热门页面优化问题] 以查看完整列表。
+>您可以单击[!UICONTROL 热门页面优化问题]以查看完整列表。
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
@@ -35,10 +35,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以单击 [!UICONTROL 顶级链接优化] 以查看完整列表。
+>您可以单击[!UICONTROL 热门链接优化]查看完整列表。
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 
 >[!MORELIKETHIS]
 >
->[页面详细信息向下钻取](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}
+>[页面详细信息深入分析](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}

@@ -2,10 +2,10 @@
 description: NUR-YYYY-MM-Advanced Nurture - Marketo文档 — 产品文档
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
-exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '490'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 这是利用Marketo Engage参与计划的高级培养计划的示例。 嵌套电子邮件程序阻止用户接收他们已使用的内容，或控制他们应在每个流中使用的内容类型。 可以为每个嵌套电子邮件程序运行归因报表。 渠道：“Nurture”以及嵌套电子邮件程序的专用“Nurture电子邮件”渠道使用Marketo Engage电子邮件程序发送一封新闻稿电子邮件。 电子邮件可以包含或不包含A/B测试。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -29,7 +29,7 @@ ht-degree: 3%
   <tr> 
    <td>客户培养</td> 
    <td>01 — 成员 
-<br/>02 — 参与 — 成功</td>
+<br/>02 — 已参与 — 成功</td>
    <td>包含</td>
    <td>参与</td>
   </tr>
@@ -37,14 +37,14 @@ ht-degree: 3%
    <td>培养电子邮件</td> 
    <td>01 — 跳过 
 <br/>02 — 已发送
-<br/>03 — 参与 — 成功</td>
+<br/>03 — 已参与 — 成功</td>
    <td>包含</td>
    <td>默认</td>
   </tr>
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -132,12 +132,12 @@ ht-degree: 3%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>资产（包含嵌套程序，并且资产文件夹也位于嵌套程序中以包含电子邮件）</td>
+   <td>Assets（包含嵌套程序和Asset文件夹也位于嵌套程序中以包含电子邮件）</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>嵌套程序（位于Assets文件夹下）</td>
+   <td>嵌套程序(位于Assets文件夹下)</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
@@ -147,7 +147,7 @@ ht-degree: 3%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>报表</td>
+   <td>报告</td>
   </tr>
  </tbody> 
 </table>
@@ -184,20 +184,20 @@ ht-degree: 3%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
    * 复制原始模板
-   * 使用目标模板 —  _推荐_
+   * 使用目标模板 — _推荐_
 
 * **具有相同名称的图像**
    * 保留两个文件
-   * 替换此订阅中的项目 —  _推荐_
+   * 替换此订阅中的项目 — _推荐_
 
 * **同名电子邮件模板**
    * 保留两个模板
-   * 替换现有模板 —  _推荐_
+   * 替换现有模板 — _推荐_
 
 ## 最佳实践 {#best-practices}
 
@@ -213,4 +213,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
->不要忘记激活“04 — 参与（项目成功）”营销活动以跟踪成功！ 执行操作 _早于_ 您的电子邮件已发送。
+>不要忘记激活“04 — 参与（项目成功）”营销活动以跟踪成功！ 请在发送电子邮件前&#x200B;_执行_&#x200B;操作。

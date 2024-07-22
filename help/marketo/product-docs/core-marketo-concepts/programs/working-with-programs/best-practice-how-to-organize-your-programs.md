@@ -6,8 +6,8 @@ exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 1%
+source-wordcount: '847'
+ht-degree: 0%
 
 ---
 
@@ -55,15 +55,15 @@ ht-degree: 1%
 
 >[!TIP]
 >
->“存档”文件夹是一种特殊类型的文件夹，旨在从选定列表以及报表中删除项目。 这将帮助您的系统更快地运行。 学习 [有关文件夹的详细信息](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>“存档”文件夹是一种特殊类型的文件夹，旨在从选定列表以及报表中删除项目。 这将帮助您的系统更快地运行。 了解[有关文件夹](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}的更多信息。
 
 您当然可以按照自己的需要添加更多文件夹。 请记住，贵公司中未来的营销人员将服从您关于如何命名/组织产品的决策。
 
 ## 命名方案 {#naming-schemes}
 
-命名至关重要，因为Marketo的功能都使用通用语言进行通信。 对于项目，您应该为其命名一些唯一的名称。 **任何两个程序都不能具有相同的名称**. 最佳实践为使用以下格式：
+命名至关重要，因为Marketo的功能都使用通用语言进行通信。 对于项目，您应该为其命名一些唯一的名称。 **任何两个程序不能具有相同的名称**。 最佳实践为使用以下格式：
 
-[程序类型的缩写] [YYYY]-[毫米]-[可选DD] [简要说明]
+[程序类型]的缩写[YYYY]-[MM]-[可选DD] [简要说明]
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ ht-degree: 1%
 >1. NL 2015-06新闻稿
 >1. WBN 2015-12-01网络研讨会主题
 
-计划名称在您的订阅中必须是唯一的，即使在 [工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  对于程序内的本地资产，规则为 **保持名称简单**. 只需将邀请命名为“邀请”，而不是“2015年6月网络研讨会邀请”。 由于这些程序位于程序中，因此当从其他位置选择父程序时，父程序会自动成为名称的一部分。 换言之，本地资产只需在项目中是唯一的。 你可以拥有数百个名为“邀请”的资产，每个资产都位于不同的程序中，这不会让你一团糟。
+您的订阅中的程序名称必须是唯一的，即使是在不同的[工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}中。  对于程序内的本地资产，规则是&#x200B;**保持名称简单**。 只需将邀请命名为“邀请”，而不是“2015年6月网络研讨会邀请”。 由于这些程序位于程序中，因此当从其他位置选择父程序时，父程序会自动成为名称的一部分。 换言之，本地资产只需在项目中是唯一的。 你可以拥有数百个名为“邀请”的资产，每个资产都位于不同的程序中，这不会让你一团糟。
 
 ## 令牌 {#tokens}
 
@@ -87,7 +87,7 @@ ht-degree: 1%
 >
 >**示例**
 >
->**您的公司地址**. 使用令牌，而不是每次都写入令牌。 这样，您就可以在一个位置更新它，而无需创建大量草稿。 然后根据需要覆盖较低级别文件夹中的令牌。
+>**您的公司地址**。 使用令牌，而不是每次都写入令牌。 这样，您就可以在一个位置更新它，而无需创建大量草稿。 然后根据需要覆盖较低级别文件夹中的令牌。
 
 ## 事件 {#events}
 
@@ -97,7 +97,7 @@ ht-degree: 1%
 
 ## 参与计划 {#engagement-programs}
 
-学习 [关于参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. 组织参与计划的最佳方法是使用文件夹。 为每个流创建一个文件夹，然后将电子邮件或程序放入该文件夹。 当内容过期并且您想要删除它时，请在每个流中包含一个存档文件夹。
+了解[所有参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}。 组织参与计划的最佳方法是使用文件夹。 为每个流创建一个文件夹，然后将电子邮件或程序放入该文件夹。 当内容过期并且您想要删除它时，请在每个流中包含一个存档文件夹。
 
 ## 运行程序 {#operational-programs}
 
@@ -119,6 +119,6 @@ Marketo中最酷的功能之一是克隆程序。 这意味着您可以设置项
 
 有些人甚至将电子邮件和登陆页面中的大部分文本抽象为令牌。 这允许您克隆并编辑令牌。 最后，转到项目计划视图，调整日期并且您结束。 看！
 
-## 概要 {#summary}
+## 摘要 {#summary}
 
-如你所见，Marketo权力很大。 我们在这里介绍了基础知识，但请考虑来自的附加服务 [Marketo Engage专家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} 微调并做好准备以取得成功。
+如你所见，Marketo权力很大。 我们在此介绍了基本知识，但请考虑由[Marketo Engage专家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}提供的其他服务以进行微调并为获得成功做好准备。

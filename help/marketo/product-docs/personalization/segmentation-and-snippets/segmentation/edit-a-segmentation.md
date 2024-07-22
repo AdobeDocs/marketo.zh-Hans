@@ -17,21 +17,21 @@ ht-degree: 0%
 
 ## 创建分段草稿 {#create-a-segmentation-draft}
 
-1. 转到 **数据库**.
+1. 转到&#x200B;**数据库**。
 
    ![](assets/db.png)
 
-1. 在分段中，单击 **分段操作** 然后 **创建草稿**.
+1. 在分段中，单击&#x200B;**分段操作**，然后单击&#x200B;**创建草稿**。
 
    ![](assets/two.png)
 
-1. 此 **状态** 将更改更改为“已批准，但有草稿”。 A **草稿** 会在您的分段中创建文件夹。
+1. **状态**&#x200B;更改为已批准草稿。 在分段中创建&#x200B;**草稿**&#x200B;文件夹。
 
    ![](assets/three.png)
 
 ## 添加、编辑或删除区段 {#add-edit-or-delete-segments}
 
-1. 在分段中，单击 **分段操作** 然后 **编辑区段**.
+1. 在分段中，单击&#x200B;**分段操作**，然后单击&#x200B;**编辑分段**。
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您只能编辑草稿的区段，不能编辑已批准的分段。
 
-1. **添加区段**， **编辑** 现有（重命名或更改顺序）或 **删除** 任何区段。
+1. **添加区段**，**编辑**&#x200B;现有的（重命名或更改顺序）或&#x200B;**删除**&#x200B;任何区段。
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >删除操作会影响电子邮件、登陆页面和代码片段中所有关联的动态内容。 **没有撤消操作**. 查看 **使用者** 选项卡以了解该区段的用途。
+   >删除操作会影响电子邮件、登陆页面和代码片段中所有关联的动态内容。 **没有撤消**。 检查&#x200B;**使用者**&#x200B;选项卡以查看该区段的用途。
 
 ## 编辑区段规则 {#edit-segment-rules}
 
-1. 在您的草稿中 **区段**，转到 **智能列表**. 应用类似于 [定义区段规则](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. 在草稿&#x200B;**区段**&#x200B;中，转到&#x200B;**智能列表**。 应用类似于[定义区段规则](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)的规则。
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 

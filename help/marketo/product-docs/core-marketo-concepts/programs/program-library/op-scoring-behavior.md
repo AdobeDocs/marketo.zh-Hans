@@ -2,10 +2,10 @@
 description: 操作评分行为 — Marketo文档 — 产品文档
 title: 操作评分行为
 feature: Programs
-exl-id: 7822c362-c134-4471-b9a5-4d4f06e989ed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '347'
 ht-degree: 11%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 11%
 
 此示例是使用Marketo Engage默认程序的行为评分的高级（标记化）操作程序。 在项目的“我的令牌”选项卡下查看和编辑评分值。 需要名为“行为得分”的自定义得分字段。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -52,7 +52,7 @@ ht-degree: 11%
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -246,19 +246,19 @@ ht-degree: 11%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
-   * 复制原始模板 —  _推荐_
+   * 复制原始模板 — _推荐_
    * 使用目标模板
 
 * **具有相同名称的图像**
-   * 保留两个文件 —  _推荐_
+   * 保留两个文件 — _推荐_
    * 替换此订阅中的项目
 
 * **同名电子邮件模板**
-   * 保留两个模板 —  _推荐_
+   * 保留两个模板 — _推荐_
    * 替换现有模板
 
 ## 最佳实践 {#best-practices}

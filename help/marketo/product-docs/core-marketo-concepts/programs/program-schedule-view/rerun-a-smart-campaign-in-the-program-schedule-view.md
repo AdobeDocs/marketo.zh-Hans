@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以直接从项目计划视图轻松创建现有Smart Campaign的新运行。
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您还可以从以下位置执行此操作： [项目集中](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >您也可以从[项目焦点](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)开始操作。
 
 砰！ 同样，您已计划为该Smart Campaign再次运行。 如果该Smart Campaign包含发送电子邮件步骤，您也会看到这些步骤！

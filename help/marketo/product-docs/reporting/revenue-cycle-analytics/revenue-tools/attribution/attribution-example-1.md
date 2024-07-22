@@ -6,7 +6,7 @@ exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 请阅读以下方案，并尝试确定网格中应包含的数字。
 
-* 4月11 |弗雷德被（商展）收购
-* 4月15日 | Margo出席（网络研讨会） — 成功
-* 4月22日 | Fred与机会关联（角色）
-* 4月22日 | Opportunity创建费用为$3,000
+* 4月11 | 弗雷德被（贸易展）收购
+* 4月15日 | Margo attends（网络研讨会） — 成功
+* 4月22日 | Fred与此机会相关联（角色）
+* 4月22日 | 机会创建费用为$3,000
 
 | 项目名称 | （商展） | （网络研讨会） |
 |---|---|---|
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**说明**
+>**解释**
 >
 >首先要了解的是，某些类型是COUNTS，而其他类型是CURRENCY。 创建的选项是一个计数，一个整数。 Pipeline是一种货币。 在Marketo中，货币将符合您的管理员区域设置。
 >

@@ -2,11 +2,11 @@
 description: OP-Acquisition-API - Marketo文档 — 产品文档
 title: OP-Acquisition-API
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -65,19 +65,19 @@ ht-degree: 1%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
-   * 复制原始模板 —  _推荐_
+   * 复制原始模板 — _推荐_
    * 使用目标模板
 
 * **具有相同名称的图像**
-   * 保留两个文件 —  _推荐_
+   * 保留两个文件 — _推荐_
    * 替换此订阅中的项目
 
 * **同名电子邮件模板**
-   * 保留两个模板 —  _推荐_
+   * 保留两个模板 — _推荐_
    * 替换现有模板
 
 ## 最佳实践 {#best-practices}

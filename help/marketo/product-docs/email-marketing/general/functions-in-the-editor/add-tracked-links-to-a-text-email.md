@@ -6,8 +6,8 @@ exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 1%
+source-wordcount: '118'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 1%
 
    ![](assets/two-8.png)
 
-1. 输入带有双括号的URL，如下所示： `[[www.domain.com/path/page.html]]`.
+1. 输入带有双括号的URL，如下所示： `[[www.domain.com/path/page.html]]`。
 
    ![](assets/three-8.png)
 
@@ -42,4 +42,4 @@ ht-degree: 1%
 >
 >测试一下，仔细检查。 确保正确输入了括号。
 
-做得不错！
+做得好！

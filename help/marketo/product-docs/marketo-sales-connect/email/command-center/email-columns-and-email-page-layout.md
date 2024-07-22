@@ -29,7 +29,7 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td>人员</td> 
-   <td>Sales Connect中人员的姓名和电子邮件。 单击此字段将在人员详细信息视图中打开关于选项卡。</td> 
+   <td>Sales Connect人员的姓名和电子邮件。 单击此字段将在人员详细信息视图中打开关于选项卡。</td> 
   </tr> 
   <tr> 
    <td>名称</td> 
@@ -40,7 +40,7 @@ ht-degree: 2%
    <td>Sales Connect中人员的主要电子邮件地址。</td> 
   </tr> 
   <tr> 
-   <td>营销活动</td> 
+   <td>Campaign</td> 
    <td>如果电子邮件作为营销活动的一部分发送，则会显示营销活动的名称。 单击此字段将转到该营销活动的设置页面。</td> 
   </tr> 
   <tr> 
@@ -122,7 +122,7 @@ ht-degree: 2%
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. 选择 **电子邮件** 部分。
+1. 选择&#x200B;**电子邮件**&#x200B;部分。
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 

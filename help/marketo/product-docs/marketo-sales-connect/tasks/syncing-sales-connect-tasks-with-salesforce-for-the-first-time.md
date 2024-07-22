@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 首次将Sales Connect任务与Salesforce同步 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-当您首次打开Sales Connect和Salesforce任务之间的同步时，我们会导入您的Salesforce任务。 我们会 **非** 将您在Sales Connect中拥有的任何当前任务推送到Salesforce。 为了减少杂乱和重复项，从Sales Connect同步到Salesforce中的唯一任务是创建任务 *之后* 将Sales Connect与SFDC同步。
+当您首次打开Sales Connect和Salesforce任务之间的同步时，我们会导入您的Salesforce任务。 我们&#x200B;**不会**&#x200B;推送您在Sales Connect to Salesforce中拥有的任何当前任务。 为了减少杂乱和重复项，从Sales Connect同步到Salesforce中的唯一任务是在您将Sales Connect与SFDC同步的&#x200B;*之后*&#x200B;创建的任务。
 
 以下是同步Sales Connect和SFDC任务时所发生的情况：
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 初始同步后，您在Sales Connect中创建、编辑、完成或删除的任何任务都将同步到Salesforce中的任务列表中。 在Salesforce中创建、编辑、完成或删除的任何内容都将更新Sales Connect中的任务列表。
 
-要打开此同步，只需选中您的页面中的 [“设置”页面](https://toutapp.com/login) 在Web应用程序中。
+若要启用此同步，只需在Web应用程序的[设置页面](https://toutapp.com/login)中选中同步框即可。

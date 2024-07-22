@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->内容必须为 [已批准预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) （在所有内容页面上）。
+>在“所有内容”页面上，预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为[批准。
 
-1. 在 **预测内容** 页面上，单击标题以打开编辑器。
+1. 在&#x200B;**预测内容**&#x200B;页面上，单击标题以打开编辑器。
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. 单击 **富媒体**.
+1. 单击&#x200B;**富媒体**。
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. 键入 **描述**.
+1. 键入&#x200B;**描述**。
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. 单击 **类别** 用于选择/添加的框 [您已设置的类别](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) （可选）。
+1. 单击&#x200B;**类别**&#x200B;框以选择/添加您已设置的[类别](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)（可选）。
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -51,6 +51,6 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/save.png)

@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >将人员列表直接导入事件程序中，会阻止这些记录被计入目标跟踪报表和事件上限进展报表中的实际注册中。 请按照下面的说明确保记录被计数。
 
-1. 创建和 [将人员添加到静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+1. 创建并[将人员添加到静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)。
 
-1. [创建智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [创建智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
 
-1. 在步骤2中创建的智能营销活动的智能列表中，查找并添加 **列表成员** 筛选。
+1. 在步骤2中创建的智能营销活动的智能列表中，查找并添加&#x200B;**列表**&#x200B;的成员。
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在流程中，查找并添加 **更改项目状态** 流程步骤。
+1. 在流程中，查找并添加&#x200B;**更改项目状态**&#x200B;流程步骤。
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 在“计划”选项卡中，单击 **运行一次**.
+1. 在“计划”选项卡中，单击&#x200B;**运行一次**。
 
    ![](assets/eight.png)
 
-1. 选择 **立即运行** 并单击 **运行**.
+1. 选择&#x200B;**立即运行**，然后单击&#x200B;**运行**。
 
    ![](assets/nine.png)
 

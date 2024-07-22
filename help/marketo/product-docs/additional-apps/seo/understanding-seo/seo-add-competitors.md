@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. 单击 **[!UICONTROL 竞争对手]** 选项卡。
+1. 单击“**[!UICONTROL 竞争对手]**”选项卡。
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. 单击 **[!UICONTROL 添加竞争对手]**.
+1. 单击&#x200B;**[!UICONTROL 添加竞争对手]**。
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. 键入 **[!UICONTROL 名称]** 和 **[!UICONTROL URL]** 您的竞争对手。
+1. 键入竞争对手的&#x200B;**[!UICONTROL Name]**&#x200B;和&#x200B;**[!UICONTROL URL]**。
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 

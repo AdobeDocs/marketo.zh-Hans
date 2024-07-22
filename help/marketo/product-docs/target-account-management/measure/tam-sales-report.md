@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->了解如何设置此报表 [此处](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>在[此处](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md)了解如何设置此报告。
 
 报告将分享：
 

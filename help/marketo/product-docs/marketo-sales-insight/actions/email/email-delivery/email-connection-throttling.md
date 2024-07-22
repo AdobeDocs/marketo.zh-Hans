@@ -20,7 +20,7 @@ ht-degree: 0%
 
 当始终超过限制时，有时可能会被视为投放渠道提供商的可疑行为，从而导致电子邮件失败，有时甚至导致帐户被禁用。
 
-**注释/高亮**
+**备注/亮点**
 
 * 用户连接到Gmail或Exchange后自动启用
 * 如果要增加或减少推荐中的设置以满足您的需求，可对其进行自定义
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 **配置电子邮件连接限制设置**
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/email-connection-throttling-1.png)
 
-1. 在管理设置下，单击 **常规**.
+1. 在“管理员设置”下，单击&#x200B;**常规**。
 
    ![](assets/email-connection-throttling-2.png)
 
-1. 在右侧的电子邮件连接限制卡中，单击 **启用电子邮件限制** 滑块。
+1. 在右侧的电子邮件连接限制卡中，单击&#x200B;**启用电子邮件限制**&#x200B;滑块。
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 * 每分钟30次
 * 每封电子邮件500个收件人
 
-更多信息 [可在此处找到](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+可在此处](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)找到更多信息[。
 
 **Gmail**
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 * 每秒2封电子邮件（API限制）
 * 每封邮件2,000个收件人（外部收件人最多500个）
 
-更多信息 [可在此处找到](https://support.google.com/a/answer/166852?hl=en).
+可在此处](https://support.google.com/a/answer/166852?hl=en)找到更多信息[。
 
 **Microsoft Exchange Server (2010， 2013)**
 
@@ -82,5 +82,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [投放渠道概述](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
->* [Gmail用户的电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook用户的电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* Gmail用户的[电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* Outlook用户的[电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

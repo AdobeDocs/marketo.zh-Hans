@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必须拥有 [营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} 以使用此功能。
+>您必须拥有[营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}才能使用此功能。
 
 ## 使用全局叠加 {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. 选择 **[!UICONTROL 叠加]** 在右下角。
+1. 选择右下角的&#x200B;**[!UICONTROL 叠加]**。
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## 使用保存的过滤器作为叠加 {#use-a-saved-filter-as-an-overlay}
 
-如果您已 [在营销日历中保存了过滤器](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}中，您可以将其用作项目计划视图中的叠加。
+如果您[在营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}中保存了筛选器，则可以将其用作项目计划视图中的叠加图。
 
-1. 单击 **[!UICONTROL 叠加]** 下拉列表并选择您的筛选器定义。
+1. 单击&#x200B;**[!UICONTROL 叠加]**&#x200B;下拉列表并选择您的筛选器定义。
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
@@ -51,4 +51,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[在项目计划视图中创建自定义叠加](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}
+   >[在项目计划视图中创建自定义叠加图](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

@@ -15,21 +15,21 @@ ht-degree: 0%
 
 如果您不使用Marketo Sales Insight，则Marketo Engage可以为某些事件创建Salesforce活动历史记录。 下面是如何启用它们。
 
-1. 转到 **[!UICONTROL 管理员]**.
+1. 转到&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/admin.png)
 
-1. 单击 **[!DNL Salesforce]**，然后单击 **[!UICONTROL 编辑同步选项]**.
+1. 单击&#x200B;**[!DNL Salesforce]**，然后单击&#x200B;**[!UICONTROL 编辑同步选项]**。
 
    ![](assets/two-1.png)
 
-1. 选中您希望Marketo推送到Salesforce的活动旁边的复选框，然后单击 **[!UICONTROL 保存]**.
+1. 选中您希望Marketo推送到Salesforce的活动旁边的复选框，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >启用后，Marketo将推送三个月的活动历史记录。 根据数据量， _这可能需要几天才能完成_. 在初始活动推送期间发生的更新可能会延迟到初始活动同步完成后。
+   >启用后，Marketo将推送三个月的活动历史记录。 根据数据量，_这可能需要几天才能完成_。 在初始活动推送期间发生的更新可能会延迟到初始活动同步完成后。
 
 <table> 
  <colgroup> 
@@ -96,8 +96,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->“收到的销售电子邮件”会 _非_ 意思是送达。 对于通过Sales Insight发送的电子邮件，不会捕获投放状态。
+>“已接收销售电子邮件”的&#x200B;_不是_&#x200B;表示已送达。 对于通过Sales Insight发送的电子邮件，不会捕获投放状态。
 
 >[!TIP]
 >
->如果您有兴趣向Salesforce获取更多Marketo信息，请查看我们的 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 产品。
+>如果您有兴趣将更多Marketo信息放入Salesforce，请查看我们的[Marketo销售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}产品。

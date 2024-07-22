@@ -6,7 +6,7 @@ exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## 用于资产 {#used-by-for-assets}
+## 用于Assets {#used-by-for-assets}
 
 我们在资产摘要页面中新增了一个选项卡，名为“使用者！
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## 等待步骤 — 潜在客户令牌和我的令牌 {#wait-step-lead-token-and-my-token}
 
-在5月版本中，我们在等待流步骤中添加了高级选项。 通过这些更改，您可以指定工作日、日期和时间。 在此版本中，我们增加了在等待步骤中使用令牌的功能。 例如，您可能要使用 `{{lead.Birthday}}` 在他们的生日当天发送电子邮件，或使用 `{{my.Event Date}}` 发送最终网络研讨会提醒。
+在5月版本中，我们在等待流步骤中添加了高级选项。 通过这些更改，您可以指定工作日、日期和时间。 在此版本中，我们增加了在等待步骤中使用令牌的功能。 例如，您可能希望使用`{{lead.Birthday}}`在他们的生日当天发送电子邮件，或使用`{{my.Event Date}}`发送最终的网络研讨会提醒。
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

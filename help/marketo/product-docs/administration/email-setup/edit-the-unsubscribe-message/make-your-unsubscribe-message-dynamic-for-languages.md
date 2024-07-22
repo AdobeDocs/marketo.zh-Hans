@@ -21,23 +21,23 @@ ht-degree: 1%
 
 ## 准备数据 {#prepare-your-data}
 
-1. [创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 命名为“首选语言”。 （如果您希望同步此字段，请在CRM中设置它）。
+1. [创建名为“首选语言”的自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)。 （如果您希望同步此字段，请在CRM中设置它）。
 
    >[!TIP]
    >
-   >将来，在下列情况下使用此字段： [创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) 以捕获语言首选项。
+   >将来，当您[创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)以捕获语言首选项时，使用此字段。
 
 ## 创建分段 {#create-segmentation}
 
-1. 转到 **[!UICONTROL 数据库]**.
+1. 转到&#x200B;**[!UICONTROL 数据库]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. 在 **[!UICONTROL 新建]** 下拉列表，单击 **[!UICONTROL 新区段]**.
+1. 在&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表中，单击&#x200B;**[!UICONTROL 新建分段]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. 命名分段 **[!UICONTROL 首选语言]**. 单击 **[!UICONTROL 添加区段]**. 键入语言。
+1. 命名分段&#x200B;**[!UICONTROL 首选语言]**。 单击&#x200B;**[!UICONTROL 添加区段]**。 键入语言。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. 转到 **[!UICONTROL 智能列表]** 选项卡。 输入 **[!UICONTROL 首选语言]** 进入搜索字段。 将过滤器拖放到画布上。
+1. 转到&#x200B;**[!UICONTROL 智能列表]**&#x200B;选项卡。 在搜索字段中输入&#x200B;**[!UICONTROL 首选语言]**。 将过滤器拖放到画布上。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -61,21 +61,21 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. 对所有不同的语言重复此操作。 然后，选择 **[!UICONTROL 分段操作]** 下拉列表，然后单击 **[!UICONTROL 批准]**.
+1. 对所有不同的语言重复此操作。 然后，选择&#x200B;**[!UICONTROL 分段操作]**&#x200B;下拉列表，然后单击&#x200B;**[!UICONTROL 批准]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
 ## 创建代码片段 {#create-a-snippet}
 
-1. 转到 **[!UICONTROL Design Studio]**.
+1. 转到&#x200B;**[!UICONTROL 设计工作室]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. 在 **[!UICONTROL 新建]** 下拉列表，单击 **[!UICONTROL 新建代码片段]**.
+1. 在&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表中，单击&#x200B;**[!UICONTROL 新建代码片段]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. 命名代码片段 **取消订阅消息**. 单击&#x200B;**[!UICONTROL 创建]**。
+1. 将代码片段命名为&#x200B;**取消订阅消息**。 单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
@@ -83,15 +83,15 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. 复制并粘贴此令牌： `{{system.unsubscribeLink}}` 到 **[!UICONTROL URL]** 字段。 单击 **[!UICONTROL 插入]**.
+1. 将此令牌： `{{system.unsubscribeLink}}`复制并粘贴到&#x200B;**[!UICONTROL URL]**&#x200B;字段中。 单击&#x200B;**[!UICONTROL 插入]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. 选择 **[!UICONTROL 分段依据]** 在 **[!UICONTROL 分段]** 部分。
+1. 在&#x200B;**[!UICONTROL 分段]**&#x200B;部分中选择&#x200B;**[!UICONTROL 分段依据]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. 从 **[!UICONTROL 分段]** 下拉列表，键入 **[!UICONTROL 首选]** 并选择 **[!UICONTROL 首选语言]**. 单击 **[!UICONTROL 保存]**.
+1. 从&#x200B;**[!UICONTROL 分段]**&#x200B;下拉列表中，键入&#x200B;**[!UICONTROL 首选语言]**&#x200B;并选择&#x200B;**[!UICONTROL 首选语言]**。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
@@ -99,11 +99,11 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. 确保 `{{system.unsubscribeLink}}` 仍在 **[!UICONTROL URL]** 字段。 编辑 **[!UICONTROL 显示文本]** 以匹配您选择的语言。 单击 **[!UICONTROL 应用]**.
+1. 确保`{{system.unsubscribeLink}}`仍然在&#x200B;**[!UICONTROL URL]**&#x200B;字段中。 编辑&#x200B;**[!UICONTROL 显示文本]**&#x200B;以匹配您选择的语言。 单击&#x200B;**[!UICONTROL 应用]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. 对所有区段重复执行上述操作。 然后，返回 **[!UICONTROL Design Studio]**，单击 **[!UICONTROL 代码片段操作]** 下拉列表，然后单击 **[!UICONTROL 批准]**.
+1. 对所有区段重复执行上述操作。 然后，返回&#x200B;**[!UICONTROL 设计工作室]**，单击&#x200B;**[!UICONTROL 代码片段操作]**&#x200B;下拉列表，然后单击&#x200B;**[!UICONTROL 批准]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
@@ -111,19 +111,19 @@ ht-degree: 1%
 
 ## 在电子邮件中使用代码片段 {#use-snippet-in-an-email}
 
-1. 在电子邮件编辑器中，单击可编辑的元素。 然后单击齿轮图标并选择 **[!UICONTROL 替换为代码片段]**. 如果要选择可编辑的代码片段元素，请单击齿轮图标并选择 **[!UICONTROL 编辑]**.
+1. 在电子邮件编辑器中，单击可编辑的元素。 然后单击齿轮图标并选择&#x200B;**[!UICONTROL 替换为代码片段]**。 如果要选择可编辑的代码片段元素，请单击齿轮图标，然后选择&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
-1. 从下拉列表中选择您的代码片段，然后单击 **[!UICONTROL 保存]**.
+1. 从下拉列表中查找并选择您的代码片段，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. 要测试它，请单击 **[!UICONTROL 返回]**...
+1. 要测试它，请单击&#x200B;**[!UICONTROL 上一步]**...
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
-1. ...然后 **[!UICONTROL 动态]** 选项卡。
+1. ...然后&#x200B;**[!UICONTROL 动态]**&#x200B;选项卡。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
@@ -139,23 +139,23 @@ ht-degree: 1%
 
 如果您希望您的用户使用首选语言访问取消订阅页面，则可以在登陆页面和确认页面上使用动态内容。
 
-1. 导航至 **[!UICONTROL Design Studio]**.
+1. 导航到&#x200B;**[!UICONTROL 设计工作室]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. 键入 _取消订阅_ 在搜索字段中，选择所需的“取消订阅”页面。
+1. 在搜索字段中键入&#x200B;_取消订阅_，然后选择所需的“取消订阅”页面。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
-1. 单击 **[!UICONTROL 编辑草稿]**.
+1. 单击&#x200B;**[!UICONTROL 编辑草稿]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-26.png)
 
-1. 选择 **[!UICONTROL 分段依据]**.
+1. 选择&#x200B;**[!UICONTROL 分段依据]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. 查找 **[!UICONTROL 首选语言]** 区段。 单击 **[!UICONTROL 保存]**.
+1. 查找&#x200B;**[!UICONTROL 首选语言]**&#x200B;区段。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
@@ -163,4 +163,4 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >了解有关 [动态内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) 还有你能做的所有很酷的事。
+   >了解有关[动态内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)以及您可以执行的所有精彩内容的更多信息。

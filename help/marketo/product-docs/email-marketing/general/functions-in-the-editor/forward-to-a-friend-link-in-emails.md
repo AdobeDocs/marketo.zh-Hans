@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ## 添加指向电子邮件模板的链接 {#add-the-link-to-an-email-template}
 
-1. 转到 **Design Studio**.
+1. 转到&#x200B;**设计工作室**。
 
    ![](assets/one-8.png)
 
-1. 查找并选择要为其添加链接的电子邮件模板。 单击 **编辑草稿**.
+1. 查找并选择要为其添加链接的电子邮件模板。 单击&#x200B;**编辑草稿**。
 
    ![](assets/two-7.png)
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >我们不建议使用样式 **position：relative** 在电子邮件模板中。 这可能会导致“转发给朋友”框的位置和显示出现问题。
+   >不建议在电子邮件模板中使用样式&#x200B;**position：relative**。 这可能会导致“转发给朋友”框的位置和显示出现问题。
 
-1. 单击 **预览草稿** 以确保模板与所需的样式一致。
+1. 单击&#x200B;**预览草稿**，确保模板看起来与您要的一样。
 
    ![](assets/four-5.png)
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
    ![](assets/five-4.png)
 
-1. 将光标放在您希望链接出现的位置，然后单击 **插入令牌** 按钮。
+1. 将光标放在您希望链接出现的位置，然后单击&#x200B;**插入令牌**&#x200B;按钮。
 
    ![](assets/six-2.png)
 
-1. 选择 **`{{system.forwardToFriendLink}}`** 令牌。
+1. 选择&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;令牌。
 
    ![](assets/seven-1.png)
 
@@ -80,11 +80,11 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-1. 剪下 **`{{system.forwardToFriendLink}}`** 使用Ctrl+X (Windows)或Cmd+X (Mac)的令牌。 突出显示“转发给朋友”并单击 **插入/编辑链接** 按钮。
+1. 使用Ctrl+X (Windows)或Cmd+X (Mac)剪切&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;令牌。 突出显示“转发给朋友”并单击&#x200B;**插入/编辑链接**&#x200B;按钮。
 
    ![](assets/eight-1.png)
 
-1. 粘贴 **`{{system.forwardToFriendLink}}`** 将令牌导入 **URL** 框中使用Ctrl/Cmd+V ，然后单击 **插入**.
+1. 使用Ctrl/Cmd+V将&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;令牌粘贴到&#x200B;**URL**&#x200B;框中，然后单击&#x200B;**插入**。
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
 您可以在用户的活动日志中查看转发和接收电子邮件的用户。
 
-1. 转到 **`Database`**.
+1. 转到&#x200B;**`Database`**。
 
    ![](assets/db.png)
 
@@ -108,13 +108,13 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. 转到 **活动日志** 选项卡。 双击 **已接收转发给朋友的电子邮件** 或 **转发给朋友的电子邮件** 查看详细信息。
+1. 转到&#x200B;**活动日志**&#x200B;选项卡。 双击&#x200B;**已接收转发给好友的电子邮件**&#x200B;或&#x200B;**已转发给好友的电子邮件**&#x200B;以查看详细信息。
 
    ![](assets/fifteen.png)
 
    >[!NOTE]
    >
-   >**条件**
+   >**定义**
    >
    >对于已接收的“转发给朋友”电子邮件，人员ID是转发电子邮件的人员。
    >
@@ -122,20 +122,20 @@ ht-degree: 0%
 
    ![](assets/sixteen.png)
 
-1. 要按ID查看人员，请复制并粘贴 **人员ID** 到该URL的结尾(上述URL的开头将取决于您的Marketo实例)：
+1. 要按ID查看人员，请将&#x200B;**人员ID**&#x200B;复制并粘贴到URL的末尾(上述URL的开头将取决于您的Marketo实例)：
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
    >[!NOTE]
    >
-   >我们将做出 **人员ID** 点击，并直接链接到即将发布的修补程序中的人员。
+   >我们将在即将到来的修补程序中使&#x200B;**人员ID**&#x200B;可点击并直接链接到该人员。
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >如果接收转发的朋友是未知人员，则会创建一个新人员，并标记该人员的“转发给朋友” **来源**.
-   >如果电子邮件是项目的本地资产，则项目将标记为人员的 **客户获取计划**.
+   >如果接收转发的朋友是未知人员，则会创建一个新人员，其中的“转发给朋友”标记为此人员的&#x200B;**Source**。
+   >如果电子邮件是计划的本地资产，则该计划将标记为人员的&#x200B;**客户获取计划**。
 
 ## 使用转发活动触发或过滤 {#trigger-or-filter-using-forwarding-activity}
 
@@ -147,4 +147,4 @@ ht-degree: 0%
 
 ## 测试转发给朋友 {#test-forward-to-friend}
 
-要测试“转发给朋友”，请给自己发送一封包含转发链接的电子邮件。 确保通过 **发送电子邮件** 流程步骤， *非* 到 **发送测试电子邮件**.
+要测试“转发给朋友”，请给自己发送一封包含转发链接的电子邮件。 确保通过&#x200B;**发送电子邮件**&#x200B;流程步骤发送，*不是*&#x200B;通过&#x200B;**发送测试电子邮件**。

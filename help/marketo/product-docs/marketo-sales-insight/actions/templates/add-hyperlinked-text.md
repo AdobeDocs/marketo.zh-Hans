@@ -18,7 +18,7 @@ ht-degree: 0%
 
    ![](assets/add-hyperlinked-text-1.png)
 
-1. 单击 **编辑**.
+1. 单击&#x200B;**编辑**。
 
    ![](assets/add-hyperlinked-text-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 输入您希望其链接的URL(即 `https://experienceleague.adobe.com/docs/marketo/using/home.html`)。 选择要在同一窗口还是新窗口中打开URL，然后单击 **保存**.
+1. 输入您希望它链接的URL（即`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。 选择您想在同一窗口还是新窗口中打开URL，然后单击&#x200B;**保存**。
 
    ![](assets/add-hyperlinked-text-4.png)
 
-1. 单击 **保存** 再来一次。
+1. 再次单击&#x200B;**保存**。
 
    ![](assets/add-hyperlinked-text-5.png)
 

@@ -6,7 +6,7 @@ exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->本文不是关于创建纯文本电子邮件的文章。 有关信息，请参阅 [创建纯文本电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>本文不是关于创建纯文本电子邮件的文章。 有关信息，请参阅[创建纯文本电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)。
 
-1. 在电子邮件编辑器中，单击 **文本** 选项卡。
+1. 在电子邮件编辑器中，单击电子邮件底部的&#x200B;**文本**&#x200B;选项卡。
 
    ![](assets/one-5.png)
 
-1. 取消选中 **自动从HTML复制** 进行更改。
+1. 取消选中&#x200B;**自动从HTML**&#x200B;复制以进行更改。
 
    ![](assets/two-5.png)
 

@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->了解有关 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
+>了解有关[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}的更多信息。
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. 右键单击所需的程序，然后选择 **[!UICONTROL 新建智能营销活动]**.
+1. 右键单击所需的项目并选择&#x200B;**[!UICONTROL 新建Smart Campaign]**。
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >您可以将Smart Campaigns创建为任何项目的本地资产。
 
-1. 输入智能营销活动名称，然后单击 **[!UICONTROL 创建]**.
+1. 输入Smart Campaign名称，然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/create-a-new-smart-campaign-3.png)
 
@@ -39,5 +39,5 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [为Smart Campaign定义智能列表 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
-   >* [为Smart Campaign定义智能列表 |触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [为智能营销活动定义智能列表 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [为智能营销活动定义智能列表 | 触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}

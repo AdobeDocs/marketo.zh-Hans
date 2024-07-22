@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Salesforce1中的最佳匹配 {#best-bets-in-salesforce}
 
-您的 [最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) 您的潜在客户和联系人是否具有最高的紧急程度和相对分数？ 只有您拥有的潜在客户会显示在列表中，并且列表会随着潜在客户分数的更改而更新。
+您的[最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)是紧急性和相对分数最高的潜在客户和联系人。 只有您拥有的潜在客户会显示在列表中，并且列表会随着潜在客户分数的更改而更新。
 
 1. 转到Salesforce应用程序中的Marketo区域。
 
@@ -23,5 +23,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce1中的有趣时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [在Salesforce1中发送Marketo电子邮件和Campaign及Watchlist操作](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* Salesforce中的[有趣时刻1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [在Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)中发送Marketo电子邮件和Campaign及监视列表操作

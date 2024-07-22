@@ -14,15 +14,15 @@ ht-degree: 0%
 
 在下方，您会找到2024年4月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
 
-专门用于Adobe Dynamic Chat的发行说明 [可在此处找到](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+可以在此处](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到专门用于Adobe Dynamic Chat[的发行说明。
 
 >[!AVAILABILITY]
 >
->以星号(![星形](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，并将于以下日期开始发行 **2024年4月26日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
+以下功能属于标准发行周期，将于&#x200B;**2024年4月26日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,7 +32,7 @@ ht-degree: 0%
    <th style="width:25%">文档</th>
   </tr>
      <tr> 
-   <td><strong>交互式网络研讨会增强功能</strong>：现在，您可以让主机和演示者在事件投放后添加网络研讨会标题、重命名聊天室和手动同步参与数据。</td> 
+   <td><strong>交互式网络研讨会增强功能</strong>：您现在可以为主持人和演示者提供以下功能：添加网络研讨会标题、重命名聊天室，以及在事件交付后手动同步参与数据。</td> 
    <td>已发货</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">创建交互式网络研讨会</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手动同步</a></li></td>
@@ -43,7 +43,8 @@ ht-degree: 0%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>审核记录增强功能</strong>：现在可以在审核记录中捕获新类型的操作，这些操作涉及在字段管理中所做的更改、对用户和角色所做的更改以及从列表和智能列表导出的人员计数。</td> 
+   <td><strong>审核记录增强功能</strong>： 
+   现在，可以在审计跟踪中捕获新类型的操作，这些操作涉及在字段管理中所做的更改、对用户和角色所做的更改以及从列表和智能列表导出的人员计数。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -53,7 +54,7 @@ ht-degree: 0%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>新用户和角色权限</strong>：提供了新权限，为用户提供了更细粒度的Marketo Engage访问权限。 控制以前未控制的管理员部分（如新体验和预测受众），拆分权限以分别授予对资产审核记录和管理审核记录的访问权限，并利用资产和文件夹的新创建和移动权限来防止只读用户进行更改。 
+   <td><strong>新用户和角色权限</strong>：新权限可用，为用户提供了对Marketo Engage的更细粒度访问权限。 控制以前未控制的管理员部分（如新体验和预测受众），拆分权限以分别授予对资产审核记录和管理审核记录的访问权限，并利用资产和文件夹的新创建和移动权限来防止只读用户进行更改。 
    <p>虽然新权限将从4月26日起显示在您的Marketo Engage实例中，但目前它们处于被动状态，本季度晚些时候将可供访问。
    <li>访问Adobe Experience Manager</li>
    <li>访问Adobe组织映射</li>
@@ -74,7 +75,7 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-* **活动API更新**： 4月26日，我们将向基于Web和基于电子邮件的活动添加几个新属性，当您使用检索活动时，将返回这些属性 [MARKETO REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. 下面列出的活动现在包括“浏览器”、“平台”、“设备”和“用户代理”属性。 调用 [获取活动类型](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} 端点可查看每个活动的属性详细信息。
+* **活动API更新**： 4月26日，我们将向使用[Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}检索活动时返回的基于Web和基于电子邮件的活动添加几个新属性。 下面列出的活动现在包括“浏览器”、“平台”、“设备”和“用户代理”属性。 调用[获取活动类型](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"}端点以查看每个活动的属性详细信息。
 
 **基于Web的活动**
 

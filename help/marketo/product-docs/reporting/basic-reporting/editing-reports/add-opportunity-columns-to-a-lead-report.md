@@ -15,23 +15,23 @@ ht-degree: 0%
 
 要查看人员报表中有关业务机会的统计数据，您可以添加业务机会列。
 
-1. 转到 **营销活动** 区域。
+1. 转到&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/ma.png)
 
-1. 从导航树中选择您的报表，然后单击 **设置** 选项卡。
+1. 从导航树中选择您的报告，然后单击&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/two.png)
 
-1. 双击 **机会列**.
+1. 双击&#x200B;**机会列**。
 
    ![](assets/three.png)
 
-1. 选择 **显示** 从下拉菜单中。
+1. 从下拉菜单中选择&#x200B;**显示的**。
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. 单击 **报表** 选项卡以查看包含业务机会量度的报表。
+1. 单击&#x200B;**报表**&#x200B;选项卡可查看包含商机量度的报表。
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >向右滚动查看更多列。
 
-1. 至 [在报表中添加或删除列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)，单击任意列标题并选择 **列**.
+1. 要[在报表中添加或删除列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)，请单击任意列标题并选择&#x200B;**列**。
 
    ![](assets/six.png)
 
@@ -51,8 +51,8 @@ ht-degree: 0%
 
    | 列 | 描述 |
    |---|---|
-   | 无机会 | 符合以下条件的人数： *非* 主要机会联系人。 |
-   | 没有机会的天数 | 符合以下条件的人的平均年龄（以天为单位） *非* 主要联系人。 |
+   | 无机会 | *不是*&#x200B;主要机会联系人的人数。 |
+   | 没有机会的天数 | *不是*&#x200B;主要联系人的平均年龄（以天为单位）。 |
    | 具有机会 | 作为主要机会联系人的人员数。 |
    | 具有机会% | 作为主要机会联系人的人员的百分比。 |
    | 距机会结束的天数 | 从人员转换为主要机会联系人的平均天数。 |
@@ -68,4 +68,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >了解如何 [管理报告的大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >了解如何[管理报表的大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。

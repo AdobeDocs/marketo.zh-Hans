@@ -5,7 +5,7 @@ exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 配置共享设置 {#configure-your-sharing-settings}
 
-1. 在 [Web应用程序](https://toutapp.com/login)，单击齿轮图标并选择 **设置**.
+1. 在[Web应用程序](https://toutapp.com/login)中，单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/sharing-settings-1.png)
 
-1. 在管理设置下，选择 **共享访问权限**.
+1. 在“管理员设置”下，选择&#x200B;**共享访问权限**。
 
    ![](assets/sharing-settings-2.png)
 
-1. 确保 **共享设置** 已启用。 这意味着默认情况下，只有管理员能够共享模板类别中的模板。
+1. 确保已启用&#x200B;**共享设置**。 这意味着默认情况下，只有管理员能够共享模板类别中的模板。
 
    ![](assets/sharing-settings-3.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/sharing-settings-4.png)
 
-1. 单击 **添加团队以进行访问**.
+1. 单击&#x200B;**添加团队以访问**。
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >
    >如果您没有看到任何团队，则需要转到团队管理并创建用户团队。
 
-1. 单击 **添加团队以进行访问** 以保存。
+1. 单击&#x200B;**添加团队以访问**&#x200B;以进行保存。
 
    ![](assets/sharing-settings-7.png)
 

@@ -16,9 +16,9 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [创建电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [通过导入列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)或[通过导入列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [为电子邮件程序创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)或[为电子邮件计划创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
 >* [计划您的电子邮件计划](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 现在您的项目已准备就绪，最后一步是批准它。 方法如下：
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >如果不批准您的电子邮件程序，电子邮件将不会发出。
 
-1. 在 **批准** 图块并点击 **批准项目**.
+1. 在&#x200B;**批准**&#x200B;图标下，单击&#x200B;**批准计划**。
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 如果您改变主意并决定不希望它退出，则可以取消批准电子邮件程序。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. 在 **批准** 图块，只需单击 **取消批准项目**.
+1. 在&#x200B;**批准**&#x200B;图块下，只需单击&#x200B;**取消批准程序**&#x200B;即可。
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

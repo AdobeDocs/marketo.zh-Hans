@@ -6,7 +6,7 @@ exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 ## 第1步：创建程序 {#step-create-a-program}
 
-1. 转到 **[!UICONTROL 营销活动]** 区域。
+1. 转到&#x200B;**[!UICONTROL 营销活动]**&#x200B;区域。
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. 选择 **学习** 文件夹创建于 [上一个快速入选](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. 下 **[!UICONTROL 新建]**，单击 **[!UICONTROL 新建项目群]**.
+1. 选择在[上一个快速入门](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}中创建的&#x200B;**学习**&#x200B;文件夹。 在&#x200B;**[!UICONTROL 新建]**&#x200B;下，单击&#x200B;**[!UICONTROL 新建程序]**。
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. 输入项目群 **[!UICONTROL 名称]**，选择一个 **[!UICONTROL 渠道]**，然后单击 **[!UICONTROL 创建]**.
+1. 输入节目&#x200B;**[!UICONTROL 名称]**，选择&#x200B;**[!UICONTROL 频道]**，然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/landing-page-with-a-form-3.png)
 
@@ -39,37 +39,37 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >项目是一项特定的营销计划。 此 **渠道** 旨在作为投放机制，如网络研讨会、赞助或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉列表中看到不同的渠道选项。 您还可以 [创建您自己的渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >项目是一项特定的营销计划。 **渠道**&#x200B;旨在作为投放机制，如网络研讨会、赞助或在线广告。 根据您自己的实例中提供的内容，您可能会在下拉列表中看到不同的渠道选项。 您也可以[创建自己的频道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}。
 
 做得好！ 现在，我们已经创建了一个项目，接下来让我们创建一些内容。
 
 ## 第2步：创建表单 {#step-create-a-form}
 
-1. 选择项目后，单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 新建本地资产]**.
+1. 选择项目后，单击&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 新建本地资产]**。
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. 选择 **[!UICONTROL 表单]**.
+1. 选择&#x200B;**[!UICONTROL 表单]**。
 
    ![](assets/landing-page-with-a-form-5.png)
 
-1. 输入表单 **[!UICONTROL 名称]** 并单击 **[!UICONTROL 创建]**.
+1. 输入表单&#x200B;**[!UICONTROL 名称]**&#x200B;并单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
-   >确保 **[!UICONTROL 在编辑器中打开]** 复选框。 如果不是，则需要单击 **[!UICONTROL 编辑表单]** 选项卡。
+   >确保选中&#x200B;**[!UICONTROL 在编辑器中打开]**&#x200B;框。 如果不是，则需要单击&#x200B;**[!UICONTROL 编辑表单]**&#x200B;选项卡。
 
    >[!TIP]
    >
-   >看不到表单编辑器？ 您的浏览器可能阻止了窗口。 启用弹出窗口 `app.marketo.com` ，然后单击顶部菜单栏中的编辑草稿。
+   >看不到表单编辑器？ 您的浏览器可能阻止了窗口。 在浏览器中启用`app.marketo.com`中的弹出窗口，然后单击顶部菜单栏中的编辑草稿。
 
-1. 选择 **[!UICONTROL 电子邮件地址]** 字段和检查 **[!UICONTROL 为必填项]**.
+1. 选择&#x200B;**[!UICONTROL 电子邮件地址]**&#x200B;字段，并选中&#x200B;**[!UICONTROL 为必填项]**。
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. 单击 **[!UICONTROL 下一个]**.
+1. 单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. 单击 **[!UICONTROL 下一个]**.
+1. 单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. 在感谢页面部分下，选择 **[!UICONTROL 外部URL]** 对象 **[!UICONTROL 跟进]**.
+1. 在“感谢页面”部分下，为&#x200B;**[!UICONTROL 跟进]**&#x200B;选择&#x200B;**[!UICONTROL 外部URL]**。
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -91,13 +91,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >“跟进”页面是在填写表单后重定向访客的位置。 外部URL是一个选项，但还有更多选项。 请参阅 [设置表单感谢页面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
+   >“跟进”页面是在填写表单后重定向访客的位置。 外部URL是一个选项，但还有更多选项。 请参阅[设置表单感谢页面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}。
 
-1. 单击 **[!UICONTROL 完成]**.
+1. 单击&#x200B;**[!UICONTROL 完成]**。
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. 单击 **[!UICONTROL 批准并关闭]**.
+1. 单击&#x200B;**[!UICONTROL 批准并关闭]**。
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -105,15 +105,15 @@ ht-degree: 0%
 
 ## 第3步：创建登陆页面并添加表单 {#step-create-a-landing-page-and-add-your-form}
 
-1. 选择项目后，单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 新建本地资产]**.
+1. 选择项目后，单击&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 新建本地资产]**。
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. 选择 **[!UICONTROL 登陆页面]**.
+1. 选择&#x200B;**[!UICONTROL 登陆页面]**。
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. 输入页面 **[!UICONTROL 名称]**，选择模板并单击 **[!UICONTROL 创建]**.
+1. 输入页面&#x200B;**[!UICONTROL 名称]**，选择一个模板并单击&#x200B;**[!UICONTROL 创建]**。
 
    >[!NOTE]
    >
@@ -121,11 +121,11 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. 打开登陆页面编辑器后，拖动 [!UICONTROL 表单] 元素出现在画布上。
+1. 登录页编辑器打开后，将[!UICONTROL 表单]元素拖动到画布上。
 
    ![](assets/landing-page-with-a-form-18.png)
 
-1. 查找并选择您的表单，然后单击 **[!UICONTROL 插入]**.
+1. 查找并选择您的表单，然后单击&#x200B;**[!UICONTROL 插入]**。
 
    ![](assets/landing-page-with-a-form-19.png)
 
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 ## 第4步：批准您的登陆页面 {#step-approve-your-landing-page}
 
-1. 选择您的登陆页面，然后单击 **[!UICONTROL 批准草稿]**.
+1. 选择您的登陆页面，然后单击&#x200B;**[!UICONTROL 批准草稿]**。
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -155,15 +155,15 @@ ht-degree: 0%
 
 ## 步骤5：测试表单 {#step-test-your-form}
 
-1. 选择您的登陆页面，然后单击 **[!UICONTROL 查看已批准的页面]**.
+1. 选择您的登陆页面，然后单击&#x200B;**[!UICONTROL 查看已批准的页面]**。
 
    ![](assets/landing-page-with-a-form-24.png)
 
-1. 在表单中填写您知道独特的信息，然后单击 **[!UICONTROL 提交]**.
+1. 使用您知道唯一的信息填写表单，然后单击&#x200B;**[!UICONTROL 提交]**。
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. 转到 **[!UICONTROL 数据库]** 区域。
+1. 转到&#x200B;**[!UICONTROL 数据库]**&#x200B;区域。
 
    ![](assets/landing-page-with-a-form-26.png)
 

@@ -21,11 +21,11 @@ ht-degree: 0%
 
 使用“自定义对象操作”菜单编辑或删除自定义对象。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
-1. 单击 **[!UICONTROL Marketo自定义对象]**.
+1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
@@ -33,29 +33,29 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
-1. 单击 **[!UICONTROL 自定义对象操作]** 选项卡，然后单击 **[!UICONTROL 编辑对象]**.
+1. 单击&#x200B;**[!UICONTROL 自定义对象操作]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 编辑对象]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-1. 进行所需的更改。 如果要在“潜在客户详细信息”页面上显示对象，请将滑块拖动到上方。 单击 **[!UICONTROL 保存]**.
+1. 进行所需的更改。 如果要在“潜在客户详细信息”页面上显示对象，请将滑块拖动到上方。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. 确保批准 [已编辑的对象](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
+1. 确保批准[编辑的对象](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)。
 
 ## 删除自定义对象 {#delete-a-custom-object}
 
-删除自定义对象很容易，但您需要小心。 自定义对象可以连接到其他对象或智能列表。 因此，Marketo会在允许您单击之前警告您 **[!UICONTROL 删除]**.
+删除自定义对象很容易，但您需要小心。 自定义对象可以连接到其他对象或智能列表。 因此，Marketo会在您单击&#x200B;**[!UICONTROL 删除]**&#x200B;之前警告您。
 
 >[!CAUTION]
 >
 >删除自定义对象后，无法恢复该对象。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 
-1. 单击 **[!UICONTROL Marketo自定义对象]**.
+1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
@@ -63,19 +63,19 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
-1. 单击 **[!UICONTROL 自定义对象操作]** 并选择 **[!UICONTROL 删除对象]**.
+1. 单击&#x200B;**[!UICONTROL 自定义对象操作]**&#x200B;并选择&#x200B;**[!UICONTROL 删除对象]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
    >[!TIP]
    >
-   >也可以右键单击对象并选择 **[!UICONTROL 删除对象]**.
+   >您还可以右键单击该对象并选择&#x200B;**[!UICONTROL 删除对象]**。
 
-1. 如果自定义对象为草稿形式，且尚未批准，您将收到此警告。 如果您确定，请单击 **[!UICONTROL 删除]**.
+1. 如果自定义对象为草稿形式，且尚未批准，您将收到此警告。 如果确定，请单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. 如果该自定义对象已被批准，则将其删除的风险更大。 所以你会得到更严厉的警告。 输入 **[!UICONTROL 我理解]**，查看 **[!UICONTROL 无法撤消]** 复选框，然后单击 **[!UICONTROL 删除]**.
+1. 如果该自定义对象已被批准，则将其删除的风险更大。 所以你会得到更严厉的警告。 输入&#x200B;**[!UICONTROL 我了解]**，选中&#x200B;**[!UICONTROL 无法撤消]**&#x200B;复选框，然后单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

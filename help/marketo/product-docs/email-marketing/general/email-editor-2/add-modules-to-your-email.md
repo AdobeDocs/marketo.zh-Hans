@@ -6,7 +6,7 @@ exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >大多数Marketo入门模板都包含模块。 您也可以 [创建您自己的](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >大多数Marketo入门模板都包含模块。 您也可以[创建您自己的](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)。
 
-1. 在电子邮件的最右侧，单击 **模块**.
+1. 单击电子邮件最右侧的&#x200B;**模块**。
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/nine-2.png)
 
-1. 单击齿轮图标，然后选择 **上移** 或 **下移**，具体取决于您希望模块转到的位置。
+1. 单击齿轮图标，然后选择&#x200B;**上移**&#x200B;或&#x200B;**下移**，具体取决于您希望模块移动的位置。
 
    ![](assets/ten-2.png)
 

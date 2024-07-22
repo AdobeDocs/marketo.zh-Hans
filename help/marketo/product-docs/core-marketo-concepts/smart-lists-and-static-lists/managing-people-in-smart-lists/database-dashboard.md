@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >每个工作区都有自己的数据库功能板。
 
-要到达该位置，请选择 **[!UICONTROL 数据库]** 从我的Marketo里拿的。
+要到达该位置，请从“我的Marketo”中选择&#x200B;**[!UICONTROL 数据库]**。
 
 ![](assets/database-dashboard-1.png)
 
@@ -29,8 +29,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->想要获取有关您员工的更具体或及时的信息？ 尝试 [人员绩效报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>想要获取有关您员工的更具体或及时的信息？ 尝试[人员绩效报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}。
 
-**总人数：** 列出的工作区的全职人员数。
+**总人数：**&#x200B;列出的工作区所有时间的人数。
 
-**可销售人员：** 列出的工作区的全职人员数， _减去以下各项_：没有电子邮件地址的人员、电子邮件已硬退信的人员、已列入阻止列表的人员、已取消订阅的人员、当前设置为“营销已暂停”的人员。
+**可营销的人员：**&#x200B;列出的工作区所有时间联系人的数量，_减去以下各项_：没有电子邮件地址的人员、电子邮件已硬退信的人员、已列入阻止列表的人员、已取消订阅的人员、当前设置为“营销已暂停”的人员。

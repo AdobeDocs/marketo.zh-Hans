@@ -6,7 +6,7 @@ exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 按照以下简单步骤禁用MS Dynamics同步。
 
-1. 在Marketo中，单击 **管理员**.
+1. 在Marketo中，单击&#x200B;**管理员**。
 
    ![](assets/one.png)
 
-1. 在集成下，单击 **Microsoft Dynamics**.
+1. 在集成下，单击&#x200B;**Microsoft Dynamics**。
 
    ![](assets/two.png)
 
-1. 单击 **禁用同步**.
+1. 单击&#x200B;**禁用同步**。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >如果您在实例中未看到“禁用同步”按钮，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >如果您在实例中未看到“禁用同步”按钮，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)。

@@ -18,7 +18,7 @@ Marketo Engage提供对Veeva自定义对象同步的特定控制。 这允许您
 >
 >**需要管理员权限**
 
-1. 单击 **[!UICONTROL 管理员]**，则 **[!UICONTROL Veeva对象同步]**.
+1. 单击&#x200B;**[!UICONTROL 管理员]**，然后单击&#x200B;**[!UICONTROL Veeva对象同步]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -26,7 +26,7 @@ Marketo Engage提供对Veeva自定义对象同步的特定控制。 这允许您
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-2.png)
 
-1. 单击 **[!UICONTROL 编辑可见字段]**.
+1. 单击&#x200B;**[!UICONTROL 编辑可见字段]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-3.png)
 
@@ -34,11 +34,11 @@ Marketo Engage提供对Veeva自定义对象同步的特定控制。 这允许您
    >
    >如果编辑可见字段按钮呈灰显状态，则表示该对象当前正用于智能列表或智能营销活动中。 删除所有关联以继续。
 
-1. 如果启用了全局同步，请单击 **[!UICONTROL 禁用全局同步]**.
+1. 如果已启用全局同步，请单击&#x200B;**[!UICONTROL 禁用全局同步]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. 选中所需的过滤器/触发器约束旁边的框，然后单击 **[!UICONTROL 保存]**.
+1. 选中所需的筛选器/触发器约束旁边的框，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -46,7 +46,7 @@ Marketo Engage提供对Veeva自定义对象同步的特定控制。 这允许您
    >
    >默认情况下，选择所有字段作为筛选条件的限制。
 
-1. 单击 **[!UICONTROL 字段]** 选项卡以确认更改。
+1. 单击&#x200B;**[!UICONTROL 字段]**&#x200B;选项卡以确认更改。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 

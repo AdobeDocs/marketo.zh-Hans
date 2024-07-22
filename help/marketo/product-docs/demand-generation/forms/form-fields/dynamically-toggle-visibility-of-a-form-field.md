@@ -15,25 +15,25 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在表单中添加国家/地区选择列表](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [向表单中添加国家/地区选择列表](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单字段或 [字段集](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单字段或[字段集](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)。
 
 >[!NOTE]
 >
 >**示例**
 >
->在此示例中，让我们隐藏 **状态** 字段unless **国家/地区** 选为“美国”。
+>在本例中，除非选择&#x200B;**国家/地区**&#x200B;作为“美国”，否则我们将隐藏&#x200B;**国家/地区**&#x200B;字段。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-8.png)
 
-1. 选择您的表单并单击 **编辑表单**.
+1. 选择您的表单并单击&#x200B;**编辑表单**。
 
    ![](assets/editform-1.png)
 
-1. 选择要动态隐藏/显示的字段，然后单击链接 **可见性规则**.
+1. 选择要动态隐藏/显示的字段，然后单击&#x200B;**可见性规则**&#x200B;的链接。
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -59,7 +59,7 @@ Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单
 
    >[!NOTE]
    >
-   >我们之前已将国家/地区转换为领料单字段类型，并且 [已将所有国家/地区添加为值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >我们以前将“国家/地区”转换为选择列表字段类型，并且[已将所有国家/地区添加为值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)。
 
 1. 单击&#x200B;**保存**。
 
@@ -69,6 +69,6 @@ Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单
 
 >[!IMPORTANT]
 >
->通过使用自定义脚本设置/更新字段值时，表单字段行为将无缝工作 [API函数](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} 在Forms 2.0中。
+>在Forms 2.0中使用[API函数](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}通过自定义脚本设置/更新字段值时，表单字段行为将无缝工作。
 >
 >如果字段值由Forms 2.0 JavaScript API以外的外部脚本修改，则条件字段可能无法按预期工作。

@@ -16,27 +16,27 @@ ht-degree: 0%
 
 ## 生成问题 {#generate-questions}
 
-1. 在“生成AI”下，单击 **[!UICONTROL 辅助响应]**.
+1. 在“生成AI”下，单击&#x200B;**[!UICONTROL 辅助响应]**。
 
    ![](assets/question-generation-1.png)
 
-1. 单击 **[!UICONTROL 生成问题]**.
+1. 单击&#x200B;**[!UICONTROL 生成问题]**。
 
    ![](assets/question-generation-2.png)
 
-1. 为您的任务提供一个名称并输入源URL（最多10个），将从其中提取所有内容。 输入所需的主题/关键字，然后在键盘上按Enter键。 完成后，单击 **[!UICONTROL 生成]**.
+1. 为您的任务提供一个名称并输入源URL（最多10个），将从其中提取所有内容。 输入所需的主题/关键字，然后在键盘上按Enter键。 完成后，单击&#x200B;**[!UICONTROL 生成]**。
 
    ![](assets/question-generation-3.png)
 
    >[!IMPORTANT]
    >
-   >要确保Marketo Engage列入允许列表能够从提供的URL中擦除内容，您必须先多个IP地址。 [有关详细信息，请参阅下文](#ip-addresses-to-allowlist).
+   >要确保Marketo Engage列入允许列表能够从提供的URL中擦除内容，您必须先多个IP地址。 [有关详细信息，请参阅下文](#ip-addresses-to-allowlist)。
 
    >[!NOTE]
    >
    >站点/页面必须是公共的（即，不隐藏在登录名后面），以便刮取其信息。
 
-1. 根据您的内容，生成问题和响应最多可能需要30分钟。 单击 **[!UICONTROL 确定]**.
+1. 根据您的内容，生成问题和响应最多可能需要30分钟。 单击&#x200B;**[!UICONTROL 确定]**。
 
    ![](assets/question-generation-4.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->生成的问题和响应也可在 [响应库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>生成的问题和响应也可在[响应库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)中查看。
 
 1. 找到所需的任务，然后单击其名称旁边的下载图标。
 
@@ -60,15 +60,15 @@ ht-degree: 0%
 
    ![](assets/question-generation-7.png)
 
-1. 在Excel文件中， **[!DNL Task details]** 显示了有关任务的各种详细信息，包括有关如何添加/编辑问题和/或响应的说明。
+1. 在Excel文件中，**[!DNL Task details]**&#x200B;仅显示该任务的各种详细信息，包括有关如何添加/编辑问题和/或响应的说明。
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >如果您确实决定批量添加/编辑问题和/或响应， [在此处了解如何重新上传它们](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >如果您确实决定批量添加/编辑问题和/或响应，请[了解如何在此处重新上传它们](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)。
 
-1. 此 **[!DNL Q&Rs]** 选项卡提供了其他详细信息，包括生成的问题和响应。
+1. **[!DNL Q&Rs]**&#x200B;选项卡提供了其他详细信息，包括生成的问题和响应。
 
    ![](assets/question-generation-9.png)
 

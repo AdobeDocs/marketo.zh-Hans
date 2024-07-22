@@ -6,7 +6,7 @@ exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## 我可以更改Marketo中的潜在客户所有者吗？ {#can-i-change-the-lead-owner-in-marketo}
 
-当然，只要使用 [更改所有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"} flow操作。
+当然，只需使用[更改所有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}流程操作即可。
 
 >[!NOTE]
 >
->您不能使用更改所有者信息 [使用人员详细信息页面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+>您不能使用[使用人员详细信息页面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}更改所有者信息。
 
 ## 我可以如何处理此数据？ {#what-can-i-do-with-this-data}
 
@@ -46,6 +46,6 @@ ht-degree: 0%
 * 发送包含销售负责人签名的个性化电子邮件
 * 筛选特定的销售代表，以进行营销甚至分析效果
 * Marketo中的分配（和重新分配）规则
-* 在中使用它们 [更改所有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, and [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} 流程操作
+* 在[更改所有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}、[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}和[创建任务](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}流程操作中使用它们
 
 Marketo拥有出色的Salesforce同步功能。 没有人能做得这么好！

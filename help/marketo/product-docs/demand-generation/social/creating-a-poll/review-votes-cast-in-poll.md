@@ -15,11 +15,11 @@ ht-degree: 2%
 
 谁投了你调查中的什么票？ 我们来看看吧。
 
-1. 在 **营销活动**，选择投票，然后单击 **参与者** 选项卡。
+1. 在&#x200B;**营销活动**&#x200B;中，选择投票，然后单击&#x200B;**参与者**&#x200B;选项卡。
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. 单击 **投票** 列。
+1. 单击&#x200B;**票**&#x200B;列中的数字。
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -29,4 +29,4 @@ ht-degree: 2%
 
    >[!MORELIKETHIS]
    >
-   >在中详细了解应用程序的社交范围和影响 [查看社交绩效](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >在[查看社交效果](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)中了解有关您应用的社交范围和影响的更多信息。

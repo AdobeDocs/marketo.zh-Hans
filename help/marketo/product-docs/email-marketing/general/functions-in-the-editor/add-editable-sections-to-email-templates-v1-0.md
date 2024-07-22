@@ -7,13 +7,13 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # 将可编辑部分添加到电子邮件模板v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
-如果您在电子邮件模板编辑器v1.0中创建模板，则可以通过添加特殊的 `<div>` 围着它。
+如果您在电子邮件模板编辑器v1.0中创建模板，则可以通过在任意部分周围放置特殊`<div>`来使其可编辑。
 
 >[!NOTE]
 >
@@ -21,10 +21,10 @@ ht-degree: 1%
 >
 >`<pre> <div class="mktEditable" id="UNIQUE_ID">This part is editable</div></pre>`
 
-规则:
+规则：
 
 1. HTML必须始终有效。
-1. 类 **mktEditable** 必须包括。
+1. 必须包括&#x200B;**mktEditable**&#x200B;类。
 1. 该ID在该HTML中必须是唯一的。
 1. ID中没有空格。
 
@@ -32,4 +32,4 @@ ht-degree: 1%
 >
 >无法嵌套mktEditable语句。
 
-如果您想在电子邮件模板编辑器v2.0中了解如何执行此操作，请查看 [电子邮件模板语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).
+如果要在电子邮件模板编辑器v2.0中了解如何执行此操作，请查看[电子邮件模板语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)。

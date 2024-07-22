@@ -20,15 +20,15 @@ ht-degree: 0%
 >
 >您必须具有管理员权限才能为Sales Insight Actions实例启用Highspot。
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/highspot-integration-1.png)
 
-1. 下 **管理员设置**，选择 **常规**.
+1. 在&#x200B;**管理员设置**&#x200B;下，选择&#x200B;**常规**。
 
    ![](assets/highspot-integration-2.png)
 
-1. 滚动到 **集成** 单击滑块以启用Highspot。
+1. 滚动到&#x200B;**集成**&#x200B;卡并单击滑块启用Highspot。
 
    ![](assets/highspot-integration-3.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 从Sales Insight Actions撰写窗口、模板编辑器和销售活动电子邮件编辑器访问Highspot并将内容添加到电子邮件中。 以下是如何从撰写窗口访问内容的步骤。
 
-1. 创建您的电子邮件草稿(可通过多种方法执行此操作，在本例中，我们将选择 **撰写** （在标题中）。
+1. 创建您的电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**撰写**）。
 
    ![](assets/highspot-integration-5.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/highspot-integration-6.png)
 
-1. 写下您的留言。 单击电子邮件中要插入Highspot内容的位置。 单击箭头下拉列表（图像图标旁边）并选择 **高光**.
+1. 写下您的留言。 单击电子邮件中要插入Highspot内容的位置。 单击箭头下拉列表（图像图标旁边）并选择&#x200B;**高点**。
 
    ![](assets/highspot-integration-7.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/highspot-integration-8.png)
 
-1. 选择所需的内容，然后单击 **添加内容** 按钮。
+1. 选择所需的内容，然后单击&#x200B;**添加内容**&#x200B;按钮。
 
    ![](assets/highspot-integration-9.png)
 

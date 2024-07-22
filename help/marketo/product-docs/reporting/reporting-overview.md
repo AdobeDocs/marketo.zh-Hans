@@ -16,15 +16,15 @@ Marketo提供了多种报表模块来满足不同需求。
 
 ## 基本报告 {#basic-reporting}
 
-您可以设置 [基本报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} 在程序或Analytics区域中。 基本报表由不同类型的现成报表组成，可以灵活地筛选、排序和调整时间跨度。
+您可以在程序或Analytics区域中设置[基本报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}。 基本报表由不同类型的现成报表组成，可以灵活地筛选、排序和调整时间跨度。
 
 ## 电子邮件分析 {#email-insights}
 
-使用Analytics和发送功能获取 [强大的洞察](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} 来自历史数据的电子邮件中。
+使用Analytics和Sends从历史数据中获取有关电子邮件的[强大洞察](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"}。
 
 ## 性能分析 {#performance-insights}
 
-[性能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} 涵盖渠道绩效和项目绩效，以实现参与、渠道和收入创造。
+[绩效分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"}涵盖了参与、管道和收入生成的渠道绩效和项目绩效。
 
 ## 高级BI Analytics报告 {#advanced-bi-analytics-reporting}
 

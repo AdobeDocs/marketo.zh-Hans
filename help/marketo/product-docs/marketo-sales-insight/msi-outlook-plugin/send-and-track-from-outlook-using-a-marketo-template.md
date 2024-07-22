@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >Sales Insight Actions功能（包括“发送销售电子邮件”、“添加到Sales Campaign”和“任务”）在Gmail和Outlook的Sales Insight电子邮件插件中不可用。 目前，在使用Sales Insight电子邮件插件时，用户只能从其电子邮件客户端发送可跟踪电子邮件，无论是否包含Marketo电子邮件模板。
 
-1. 打开Microsoft Outlook并单击 **Marketo消息**.
+1. 打开Microsoft Outlook，然后单击&#x200B;**Marketo消息**。
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. 选择所需的模板，预览该模板，然后单击 **确定**.
+1. 选择所需的模板并预览，然后单击&#x200B;**确定**。
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. 进行所有编辑，然后单击 **Send and Track**.
+1. 进行所有编辑，然后单击&#x200B;**发送并跟踪**。
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >该加载项不支持令牌。 删除模板中可能包含的任何内容。
 
-1. 查看预览，确保它看起来正常，然后单击 **发送**.
+1. 查看预览，确保它看起来正常，然后单击&#x200B;**发送**。
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 

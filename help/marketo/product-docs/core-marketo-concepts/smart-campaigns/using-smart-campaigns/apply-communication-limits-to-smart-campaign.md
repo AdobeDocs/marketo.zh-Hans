@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >当任何人超过设置的通信限制时，Marketo会阻止非操作电子邮件（始终发送操作电子邮件）。
 
-1. 在Smart Campaign中，单击 **[!UICONTROL 计划]** 选项卡，然后 **[!UICONTROL 编辑设置]**.
+1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 编辑设置]**。
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. 查看 **[!UICONTROL 阻止非运营电子邮件]** 复选框，然后单击 **[!UICONTROL 保存]**.
+1. 选中&#x200B;**[!UICONTROL 阻止非操作电子邮件]**&#x200B;复选框，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要使其成为默认值，请编辑您的 [通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} 在管理员部分中。
+>若要将此设为默认值，请在“管理员”部分编辑您的[通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}。
 
 现在，您可以放心，不会意外向受众发送过多电子邮件。

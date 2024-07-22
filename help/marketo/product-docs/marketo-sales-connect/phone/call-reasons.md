@@ -5,7 +5,7 @@ exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 启用致电原因 {#enable-call-reasons}
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/call-reasons-1.png)
 
-1. 在管理设置下，选择 **拨号器**.
+1. 在“管理员设置”下，选择&#x200B;**拨号器**。
 
    ![](assets/call-reasons-2.png)
 
-1. 选择 **启用致电原因**.
+1. 选择&#x200B;**启用致电原因**。
 
    ![](assets/call-reasons-3.png)
 
@@ -42,19 +42,19 @@ ht-degree: 0%
 >
 >您最多可以创建15个致电原因。
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/call-reasons-5.png)
 
-1. 在管理设置下，选择 **拨号器**.
+1. 在“管理员设置”下，选择&#x200B;**拨号器**。
 
    ![](assets/call-reasons-6.png)
 
-1. 单击 **管理致电原因**.
+1. 单击&#x200B;**管理致电原因**。
 
    ![](assets/call-reasons-7.png)
 
-1. 在文本字段中输入所需的致电原因名称，然后单击 **添加**.
+1. 在文本字段中输入所需的致电原因名称，然后单击&#x200B;**添加**。
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    ![](assets/call-reasons-9.png)
 
-1. 在拨号器中输入呼叫信息，然后单击 **调用**.
+1. 在拨号器中输入呼叫信息，然后单击&#x200B;**呼叫**。
 
    ![](assets/call-reasons-10.png)
 
@@ -84,5 +84,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [将呼叫原因和呼叫结果记录到Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [调用结果](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)
+>* [将致电原因和致电结果记录到Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [呼叫结果](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)

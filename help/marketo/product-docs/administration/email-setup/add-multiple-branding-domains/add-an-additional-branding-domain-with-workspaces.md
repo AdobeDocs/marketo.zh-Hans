@@ -17,23 +17,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必须 [编辑默认品牌策略域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) 首先。
+>您必须[首先编辑默认品牌策略域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)。
 >
->您必须首先 [替换通用跟踪链接](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) 品牌化域，然后再添加其他品牌化域。
+>在添加其他品牌化域之前，必须先[将通用跟踪链接](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)替换为品牌化域。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 
-1. 单击 **[!UICONTROL 电子邮件]**.
+1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-2.png)
 
-1. 单击 **[!UICONTROL 添加]** 以添加其他品牌策略域。
+1. 单击&#x200B;**[!UICONTROL 添加]**&#x200B;可添加其他品牌推广域。
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-3.png)
 
-1. 输入新的品牌策略域。 单击 **[!UICONTROL 下一个]**.
+1. 输入新的品牌策略域。 单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-4.png)
 
@@ -41,6 +41,6 @@ ht-degree: 0%
    >
    >您可以选择将此域设置为一个或多个工作区的主域，并将所有现有未发送电子邮件设置为“默认”，所有新创建的电子邮件都将默认设置为主域。 您可以逐封电子邮件覆盖此项。
 
-1. 选择新品牌策略域并单击 **[!UICONTROL 保存]**.
+1. 选择新的品牌策略域并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-5.png)

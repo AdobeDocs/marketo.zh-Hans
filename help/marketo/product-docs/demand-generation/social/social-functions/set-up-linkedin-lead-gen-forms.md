@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->linkedIn正在升级其由Marketo EngageLinkedIn集成使用的营销API。 这些更改将需要重新验证您网站上的所有LinkedIn LaunchPoint服务 **管理员** > **启动点** 2024年6月7日至12月15日之间的菜单，避免服务中断。 欲知更多信息，请参见 [迁移常见问题解答](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>linkedIn正在升级其由Marketo EngageLinkedIn集成使用的营销API。 在2024年6月7日至12月15日之间，这些更改将需要重新验证您&#x200B;**管理员** > **LaunchPoint**&#x200B;菜单中的所有LinkedIn LaunchPoint服务，以避免服务中断。 有关详细信息，请参阅[迁移常见问题解答](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}。
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ ht-degree: 0%
 >
 >如果LinkedIn商机与Marketo中与使用公司API创建的公司记录关联的现有人员记录匹配，并且Marketo订阅未连接到CRM，则它不会Marketo Engage。
 
-1. 转到Marketo **管理员**.
+1. 转到Marketo **管理员**。
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. 转到 **启动点**，单击 **新建** 并选择 **新建服务**.
+1. 转到&#x200B;**LaunchPoint**，单击&#x200B;**新建**&#x200B;并选择&#x200B;**新建服务**。
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 输入 **显示名称** 对于您的服务，选择 **linkedIn潜在客户** 服务，然后单击 **下一个**.
+1. 为您的服务输入&#x200B;**显示名称**，从下拉列表中选择&#x200B;**LinkedIn Lead Gen**&#x200B;服务，然后单击&#x200B;**下一步**。
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo在同一浏览器中打开一个新选项卡，并执行以下操作 [linkedin.com](https://www.linkedin.com). 使用要用于集成的帐户登录LinkedIn。
+1. Marketo在同一浏览器中打开一个新标签页，以访问[linkedin.com](https://www.linkedin.com)。 使用要用于集成的帐户登录LinkedIn。
 
    >[!NOTE]
    >
@@ -47,23 +47,23 @@ ht-degree: 0%
 
    ![](assets/linkedin-login.png)
 
-1. 登录LinkedIn后，请返回Marketo并单击 **授权**.
+1. 登录LinkedIn后，返回Marketo并单击&#x200B;**授权**。
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. 出现提示时，单击 **允许** ，以接受将Marketo应用程序安装到LinkedIn中。
+1. 出现提示时，单击&#x200B;**允许**&#x200B;接受Marketo应用程序安装到LinkedIn中。
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. 您会发现您现在已获得授权。 单击 **下一个**.
+1. 您会发现您现在已获得授权。 单击&#x200B;**下一步**。
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
    >[!CAUTION]
    >
-   >该服务在获得授权后一年自动过期。 要重新获得访问权限，只需单击 **重新授权**. 根据浏览器设置，您可能需要重新输入LinkedIn密码。
+   >该服务在获得授权后一年自动过期。 要重新获得访问权限，只需单击&#x200B;**重新授权**。 根据浏览器设置，您可能需要重新输入LinkedIn密码。
 
-1. 选择您希望LinkedIn潜在客户可以进入Marketo的帐户，然后单击 **下一个**.
+1. 选择要让LinkedIn潜在客户进入Marketo的帐户，然后单击&#x200B;**下一步**。
 
    >[!TIP]
    >
@@ -71,17 +71,17 @@ ht-degree: 0%
 
    ![](assets/linkedin-pages-to-capture.png)
 
-1. 要接受默认的LinkedIn到Marketo字段映射，只需单击 **创建**. 如果要更改默认字段映射、删除字段映射或添加新字段映射，可以通过以下模式基于每个字段执行此操作。
+1. 要接受默认的LinkedIn到Marketo字段映射，只需单击&#x200B;**创建**。 如果要更改默认字段映射、删除字段映射或添加新字段映射，可以通过以下模式基于每个字段执行此操作。
 
    >[!CAUTION]
    >
-   >Marketo支持将两个LinkedIn字段映射到一个Marketo字段， **但只有在** 两个LinkedIn字段不在同一表单上。 如果将同一LinkedIn表单中的两个字段映射到单个Marketo字段，则用户可能无法输入Marketo数据库。
+   >Marketo支持将两个LinkedIn字段映射到一个Marketo字段&#x200B;**，但仅当**&#x200B;两个LinkedIn字段不在同一表单上时。 如果将同一LinkedIn表单中的两个字段映射到单个Marketo字段，则用户可能无法输入Marketo数据库。
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
    >[!NOTE]
    >
-   >仅限已保存至的LinkedIn字段 [表单模板](https://www.linkedin.com/help/lms/answer/79634) 在LinkedIn中，Campaign Manager将显示为可映射到LinkedIn字段的Marketo字段。
+   >只有已保存到LinkedIn Campaign Manager中的[表单模板](https://www.linkedin.com/help/lms/answer/79634)的LinkedIn字段才会显示为“可映射到Marketo字段的LinkedIn字段”。
 
    ![](assets/linkedin-installed-services.png)
 

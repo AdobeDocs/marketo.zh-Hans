@@ -6,7 +6,7 @@ exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->请更新到Sales Connect产品包的最新版本，并在潜在客户/联系人视图上安装批量操作按钮。 [单击此处获取说明](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+>请更新到Sales Connect产品包的最新版本，并在潜在客户/联系人视图上安装批量操作按钮。 [单击此处获取说明](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)。
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ## 批量电子邮件 {#bulk-email}
 
-1. 在Salesforce中，单击 **潜在客户** 选项卡，然后 **开始** 按钮。
+1. 在Salesforce中，单击&#x200B;**潜在客户**&#x200B;选项卡，然后单击&#x200B;**转到**&#x200B;按钮。
 
    ![](assets/one-5.png)
 
-1. 选择所需的潜在客户，然后单击 **使用MSC发送电子邮件（经典）** 按钮。
+1. 选择所需的潜在客户，然后单击&#x200B;**Email with MSC (Classic)**&#x200B;按钮。
 
    ![](assets/two-5.png)
 
@@ -45,29 +45,29 @@ ht-degree: 0%
 
 ## 添加到营销活动 {#add-to-campaign}
 
-1. 在Salesforce中，单击 **潜在客户** 选项卡，然后 **开始** 按钮。
+1. 在Salesforce中，单击&#x200B;**潜在客户**&#x200B;选项卡，然后单击&#x200B;**转到**&#x200B;按钮。
 
    ![](assets/four-3.png)
 
-1. 选择所需的潜在客户，然后单击 **添加到MSC Campaign (Classic)** 按钮。
+1. 选择所需的潜在客户，然后单击&#x200B;**添加到MSC Campaign (Classic)**&#x200B;按钮。
 
    ![](assets/five-3.png)
 
-1. 此时会出现“将人员添加到您的营销活动”弹出窗口。 单击 **下一个** 并完成典型的促销活动流程以触发MSC促销活动。
+1. 此时会出现“将人员添加到您的营销活动”弹出窗口。 单击&#x200B;**下一步**，然后查看典型的促销活动流程以触发MSC促销活动。
 
    ![](assets/six.png)
 
 ## 推送到Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. 在Salesforce中，单击 **潜在客户** 选项卡，然后 **开始** 按钮。
+1. 在Salesforce中，单击&#x200B;**潜在客户**&#x200B;选项卡，然后单击&#x200B;**转到**&#x200B;按钮。
 
    ![](assets/seven-1.png)
 
-1. 选择所需的潜在客户，然后单击 **推送到MSC（经典）** 按钮。
+1. 选择所需的潜在客户，然后单击&#x200B;**推送到MSC (Classic)**&#x200B;按钮。
 
    ![](assets/eight-1.png)
 
-1. 将打开一个名为“Salesforce Bridge”的新选项卡。 单击 **前往组→** 按钮。
+1. 将打开一个名为“Salesforce Bridge”的新选项卡。 单击&#x200B;**继续到组→**&#x200B;按钮。
 
    ![](assets/nine-1.png)
 
@@ -82,4 +82,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [通过群电子邮件发送电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [使用“选择并发送”撰写批量电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [使用Select和Send编写批量电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

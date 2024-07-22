@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
-1. 单击 **[!UICONTROL 字段管理]**.
+1. 单击&#x200B;**[!UICONTROL 字段管理]**。
 
    ![](assets/edit-field-aliases-for-list-import-2.png)
 
@@ -31,17 +31,17 @@ ht-degree: 0%
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. 在 **[!UICONTROL 字段操作]** 下拉列表，单击 **[!UICONTROL 编辑导入别名]**.
+1. 在&#x200B;**[!UICONTROL 字段操作]**&#x200B;下拉列表中，单击&#x200B;**[!UICONTROL 编辑导入别名]**。
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
-1. 输入别名，然后单击 **[!UICONTROL 保存]**.
+1. 输入别名，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/edit-field-aliases-for-list-import-5.png)
 
 >[!TIP]
 >
->单击 **[!UICONTROL 添加其他]** 并输入更多别名（如果需要）。
+>单击&#x200B;**[!UICONTROL 添加其他]**，然后根据需要输入更多别名。
 
 看那个！ 现在，如果您导入的电子表格具有名为“DOB”的列，Marketo会自动将其识别为“出生日期”，并将数据导入到正确的字段中。
 

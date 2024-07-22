@@ -16,17 +16,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在配置Sales Insight Actions时，Marketo会自动将您的凭据发送到Actions，并将您的实例连接到Marketo。 此步骤是必需的 **仅当未看到建立连接时** 配置Sales Connect实例之后。 如果连接已建立，您将在Marketo管理员设置页面上看到输入的凭据，以及断开连接的选项。
+>在配置Sales Insight Actions时，Marketo会自动将您的凭据发送到Actions，并将您的实例连接到Marketo。 只有在配置Sales Connect实例后未看到已建立的连接&#x200B;**时，才需要**&#x200B;执行此步骤。 如果连接已建立，您将在Marketo管理员设置页面上看到输入的凭据，以及断开连接的选项。
 
 ## 在将Sales Connect连接到Marketo之前获取凭据 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 您需要从Marketo中获取一组凭据。 Sales Connect管理员稍后将使用这些凭据将Marketo与Sales Connect连接。
 
-1. 在Marketo中，单击 **管理员**.
+1. 在Marketo中，单击&#x200B;**管理员**。
 
 PICC
 
-1. 在树中，单击 **Sales Connect**.
+1. 在树中，单击&#x200B;**Sales Connect**。
 
 PICC
 
@@ -40,14 +40,14 @@ PICC
 
 ## 将Sales Connect连接到Marketo {#connect-sales-connect-to-marketo}
 
-1. 在Sales Connect中，单击齿轮图标并选择 **设置**.
+1. 在Sales Connect中，单击齿轮图标并选择&#x200B;**设置**。
 
 PICC
 
-1. 在管理设置下，选择 **Marketo**.
+1. 在“管理设置”下，选择&#x200B;**Marketo**。
 
 PICC
 
-1. 输入由Marketo管理员提供的Marketo凭据，然后单击 **连接**.
+1. 输入Marketo管理员提供的Marketo凭据，然后单击&#x200B;**连接**。
 
 PICC

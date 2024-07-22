@@ -16,19 +16,19 @@ ht-degree: 0%
 
 ## 启用活动检查器 {#enable-campaign-inspector}
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/campaign-inspector-1.png)
 
-1. 单击 **[!UICONTROL 宝箱]**.
+1. 单击&#x200B;**[!UICONTROL Treasure Chest]**。
 
    ![](assets/campaign-inspector-2.png)
 
-1. 单击 **[!UICONTROL 编辑]** 活动检查员旁边。
+1. 单击营销活动检查器旁边的&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/campaign-inspector-3.png)
 
-1. 选择 **[!UICONTROL 已启用]** 复选框，然后单击 **[!UICONTROL 保存]**.
+1. 选中&#x200B;**[!UICONTROL 已启用]**&#x200B;复选框，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/campaign-inspector-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ![](assets/campaign-inspector-5.png)
 
-单击 **[!UICONTROL 活动的营销活动]** 下拉列表，按不同类型的营销活动进行筛选。
+单击&#x200B;**[!UICONTROL 活动营销活动]**&#x200B;下拉列表以按不同类型的营销活动进行筛选。
 
 ![](assets/campaign-inspector-6.png)
 

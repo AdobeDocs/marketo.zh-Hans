@@ -15,11 +15,11 @@ ht-degree: 0%
 
 按照以下步骤手动创建指定帐户。
 
-1. 在指定帐户中，单击 **新建** 下拉并选择 **创建指定帐户**.
+1. 在指定帐户中，单击&#x200B;**新建**&#x200B;下拉列表，然后选择&#x200B;**创建指定帐户**。
 
    ![](assets/two-1.png)
 
-1. 填写所需字段并单击 **创建**.
+1. 填写所需字段并单击&#x200B;**创建**。
 
    ![](assets/three-1.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[将人员添加到指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+>[将联系人添加到指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)

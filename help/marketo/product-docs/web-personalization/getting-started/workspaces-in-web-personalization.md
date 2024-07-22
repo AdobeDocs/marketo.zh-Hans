@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17727499
-description: Web个性化中的工作区 — Marketo文档 — 产品文档
-title: Web个性化中的工作区
+description: Web Personalization中的工作区 — Marketo文档 — 产品文档
+title: Web Personalization中的工作区
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Web个性化中的工作区 {#workspaces-in-web-personalization}
+# Web Personalization中的工作区 {#workspaces-in-web-personalization}
 
-Web个性化支持Web营销活动和Web区段的多个工作区。
+Web Personalization支持Web营销活动和Web区段使用多个工作区。
 
 ## 切换工作区 {#switch-workspaces}
 
@@ -21,13 +21,13 @@ Web个性化支持Web营销活动和Web区段的多个工作区。
 
 ![](assets/ss7.png)
 
-## 更改区段的工作区 {#change-a-segments-workspace}
+## 更改区段的Workspace {#change-a-segments-workspace}
 
-1. 转到 **区段** 页面上，选择一个区段，然后单击编辑图标。
+1. 转到&#x200B;**区段**&#x200B;页面，选择一个区段，然后单击编辑图标。
 
    ![](assets/ss4.png)
 
-1. 从中选择其他工作区 **工作区** 下拉菜单。
+1. 从&#x200B;**Workspace**&#x200B;下拉列表中选择其他工作区。
 
    ![](assets/ss6.png)
 
@@ -35,4 +35,4 @@ Web个性化支持Web营销活动和Web区段的多个工作区。
 
 >[!NOTE]
 >
->用户将只能查看与其有权访问的工作区相关联的Web营销活动和区段。 以下是操作说明 [授予用户访问一个或多个工作区的权限](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>用户将只能查看与其有权访问的工作区相关联的Web营销活动和区段。 下面是如何[授予用户访问一个或多个工作区的权限](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)。

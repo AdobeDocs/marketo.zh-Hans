@@ -6,7 +6,7 @@ exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 图1. 指定要在工作日结束的等待步骤
 
-## 已存档的资产已隐藏 {#archived-assets-hidden}
+## 已存档Assets隐藏 {#archived-assets-hidden}
 
 存档的资产会自动从自动建议、下拉列表和报告中进行过滤，以便更轻松地找到您要查找的内容！
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ## 增强型网络研讨会确认URL {#enhanced-webinar-confirmation-url}
 
-ON24和Adobe Connect现已推出！ 在确认电子邮件中为每个已注册的与会者添加一个唯一链接(使用新的 `{{member.webinar URL}}` 令牌。 Adobe Connect增强功能还包括打开/关闭包含用户AdobeID和密码的登录帐户信息电子邮件的功能。
+ON24和Adobe Connect现已推出！ 在使用新`{{member.webinar URL}}`令牌的每个已注册与会者的确认电子邮件中包含唯一链接。 Adobe Connect增强功能还包括打开/关闭包含用户AdobeID和密码的登录帐户信息电子邮件的功能。
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -117,7 +117,7 @@ ON24和Adobe Connect现已推出！ 在确认电子邮件中为每个已注册�
 
 ## 从Sales Insight访问Opportunity Analyzer {#access-opportunity-analyzer-from-sales-insight}
 
-通过直接访问Marketo Sales Insight中的Opportunity Analyzer ，让您的销售代表深入了解哪些营销活动在推动参与。 注释. 需要Revenue Cycle Analytics许可证。
+通过直接访问Marketo Sales Insight中的Opportunity Analyzer ，让您的销售代表深入了解哪些营销活动在推动参与。 注意。 需要Revenue Cycle Analytics许可证。
 
 ## 联系人状态的自定义字段 {#custom-field-for-contact-status}
 

@@ -6,7 +6,7 @@ exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Sales Connect为您提供了多种电子邮件发送选项。 本文将�
 
 ## 建议：通过电子邮件连接发送Gmail或Exchange {#recommended-gmail-or-exchange-via-email-connection}
 
-Sales Connect允许通过我们的电子邮件连接服务简化设置和增强可投放性。 电子邮件连接允许每个用户连接到 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 或 [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 帐户到Sales Connect ，用作所有Sales Connect电子邮件选择的投放渠道。
+Sales Connect允许通过我们的电子邮件连接服务简化设置和增强可投放性。 电子邮件连接允许每个用户连接到他们的[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)或[Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)帐户，以将其用作所有Sales Connect电子邮件的首选传递渠道。
 
 与其他投放渠道选项相比，利用Gmail或Exchange具有一些明显的优势：
 
@@ -25,13 +25,13 @@ Sales Connect允许通过我们的电子邮件连接服务简化设置和增强�
 * SPF和DKIM等身份验证方法已由IT团队配置和管理，因此无需进行其他设置。
 * 在给定的电子邮件网络中发送电子邮件（即，以Exchange用户身份向通过Exchange接收电子邮件的公司发送电子邮件）可以帮助您进一步增强可投放性。
 
-请务必注意，这些投放渠道具有其自身的发送限制，这些限制由Microsoft和Google强制实施。 为了应对这种情况，我们使用限制机制来帮助用户保持在这些限制之内。 了解有关 [在此对电子邮件进行限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+请务必注意，这些投放渠道具有其自身的发送限制，这些限制由Microsoft和Google强制实施。 为了应对这种情况，我们使用限制机制来帮助用户保持在这些限制之内。 在此处了解有关[电子邮件限制的详细信息](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)。
 
 >[!NOTE]
 >
 >默认情况下，O365插件将始终使用您的Exchange投放渠道，Gmail插件将始终使用Gmail投放渠道从插件投放电子邮件。
 
-**退回跟踪**：MSC可以通过检测发送到发件人收件箱的退回消息来检测Exchange Online或Gmail用户的退回。 这些退回通知将汇总到用户的模板分析、营销活动分析和实时信息源通知中。 Exchange内部部署客户不支持退回跟踪。
+**退回跟踪**： MSC可以通过检测发送到发件人收件箱的退回邮件来检测Exchange Online或Gmail用户的退回。 这些退回通知将汇总到用户的模板分析、营销活动分析和实时信息源通知中。 Exchange内部部署客户不支持退回跟踪。
 
 ## 通过SMTP自定义投放渠道 {#custom-delivery-channel-via-smtp}
 
@@ -53,7 +53,7 @@ Marketo电子邮件服务器不与Sales Connect集成。 Marketo服务器针对�
 
 >[!MORELIKETHIS]
 >
->* [Gmail用户的电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook用户的电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* Gmail用户的[电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* Outlook用户的[电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 >* [设置自定义投放渠道](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
 >* [电子邮件连接限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

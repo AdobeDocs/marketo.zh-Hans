@@ -25,7 +25,7 @@ ht-degree: 11%
 
 在您IT团队的帮助下，您可以迅速完成工作。
 
-[开始设置](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+[开始安装](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## 快速入门 {#get-some-quick-wins}
 
@@ -46,7 +46,7 @@ ht-degree: 11%
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="导入" src="getting-started/assets/getting-started.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. 发送电子邮件</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2。 发送电子邮件</a>
     </div>
     <br>
   </td>
@@ -55,7 +55,7 @@ ht-degree: 11%
       <img alt="电子邮件" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. 带有表单的登陆页面</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3。 带有表单</a>的登陆页面
     </div>
     <br>
   </td>
@@ -64,7 +64,7 @@ ht-degree: 11%
       <img alt="连接" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4. 简单评分</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4。 简单得分</a>
     </div>
     <br>
   </td>
@@ -72,7 +72,7 @@ ht-degree: 11%
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="导入" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5. 电子邮件自动响应</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5。 电子邮件自动响应</a>
     </div>
     <br>
   </td>
@@ -83,7 +83,7 @@ ht-degree: 11%
       <img alt="电子邮件" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. 导入人员列表</a>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6。 导入人员列表</a>
     </div>
     <br>
   </td>
@@ -92,7 +92,7 @@ ht-degree: 11%
       <img alt="连接" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 滴管培养</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7。 滴管培养</a>
     </div>
     <br>
   </td>
@@ -100,7 +100,7 @@ ht-degree: 11%
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="导入" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. 电子邮件个性化</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8。 使电子邮件个性化</a>
     </div>
     <br>
   </td>
@@ -109,7 +109,7 @@ ht-degree: 11%
       <img alt="电子邮件" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. 提醒销售代表</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9。 提醒销售代表</a>
     </div>
     <br>
   </td>
@@ -118,7 +118,7 @@ ht-degree: 11%
       <img alt="连接" src="getting-started/assets/getting-started-10.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/update-person-data.md">10. 更新人员数据</a>
+    <a href="getting-started/quick-wins/update-person-data.md">10。 更新人员数据</a>
     </div>
     <br>
   </td>
@@ -127,4 +127,4 @@ ht-degree: 11%
 
 ## 步骤4恭喜！ 你准备好迎接国家了  {#congrats-youre-ready-for-the-nation}
 
-查看 [营销国家/地区](https://nation.marketo.com){target="_blank"}！
+查看[营销国家](https://nation.marketo.com){target="_blank"}！

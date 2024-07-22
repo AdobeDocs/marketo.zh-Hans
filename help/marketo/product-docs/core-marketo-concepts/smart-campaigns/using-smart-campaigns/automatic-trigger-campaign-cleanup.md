@@ -6,7 +6,7 @@ exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Marketo提供了一项好的/免费的服务，用于停用已触发的“智能
 
 当然！ 每季度一次，您会提前一周收到通知，显示我们计划停用的每个营销活动。
 
-1. 单击 **[!UICONTROL 通知]** 图标。
+1. 单击&#x200B;**[!UICONTROL 通知]**&#x200B;图标。
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. 单击 **[!UICONTROL 已计划空闲触发器活动清理]**. 然后单击 **[!UICONTROL 这些空闲触发器营销活动将被停用]** 链接。
+1. 单击&#x200B;**[!UICONTROL 空闲触发器活动清理已计划]**。 然后单击&#x200B;**[!UICONTROL 这些空闲触发器营销活动将被停用]**&#x200B;链接。
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
@@ -39,7 +39,7 @@ Marketo提供了一项好的/免费的服务，用于停用已触发的“智能
 
 我们将仅取消激活已激活超过6个月但在此期间有0人符合条件的触发营销活动。
 
-## 等待! 不是此营销活动！ {#wait-not-this-campaign}
+## 等等！ 不是此营销活动！ {#wait-not-this-campaign}
 
 不必担心 — 任何Smart Campaign的时钟都可以通过以下方式重置：
 
@@ -52,7 +52,7 @@ Marketo提供了一项好的/免费的服务，用于停用已触发的“智能
 
 绝对 — 在原始通知发布一周后，我们将停用列出的营销活动（减去任何至少符合一个人条件或已停用/重新激活的营销活动），并发布确认通知。
 
-1. 选择 **[!UICONTROL 已计划空闲触发器活动清理]** 通知。 单击 **[!UICONTROL 这些空闲触发活动]** 链接。
+1. 选择&#x200B;**[!UICONTROL 空闲触发器活动清理计划]**&#x200B;通知。 单击&#x200B;**[!UICONTROL 这些空闲触发器营销活动]**&#x200B;链接。
 
    ![](assets/automatic-trigger-campaign-cleanup-4.png)
 

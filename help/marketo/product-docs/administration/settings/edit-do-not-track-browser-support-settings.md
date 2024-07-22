@@ -6,7 +6,7 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,19 +23,19 @@ ht-degree: 0%
 >
 >默认情况下，“Do Not Track”将设置为“Ignore”，因此如果您希望这样做，则无需执行任何步骤。
 
-1. 单击 **[!UICONTROL 管理员]**.
+1. 单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. 单击 **[!UICONTROL 蒙奇金]**.
+1. 单击&#x200B;**[!UICONTROL Munchkin]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. 下 **[!UICONTROL 人员跟踪]**，单击 **[!UICONTROL 编辑]**.
+1. 在&#x200B;**[!UICONTROL 人员跟踪]**&#x200B;下，单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. 选择 **[!UICONTROL 支持]** 并单击 **[!UICONTROL 保存]**.
+1. 选择&#x200B;**[!UICONTROL 支持]**&#x200B;并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要了解有关“不跟踪”及其工作方式的更多信息，请访问 [此页面](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >若要了解有关“不跟踪”及其工作方式的更多信息，请访问[此页面](https://en.wikipedia.org/wiki/Do_Not_Track)。

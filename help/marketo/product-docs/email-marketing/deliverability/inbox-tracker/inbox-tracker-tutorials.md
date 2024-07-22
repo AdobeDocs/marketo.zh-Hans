@@ -28,15 +28,15 @@ Bird已创建多个培训视频来帮助您充分利用这个强大的工具。
 
 * [用户和帐户设置](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
 
-* [已智能（配置和下载）](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
+* [Intelliseed（配置和下载）](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## “收件箱跟踪器可投放性”部分 {#inbox-tracker-deliverability-section}
 
 ![](assets/inbox-tracker-tutorials-2.png)
 
-* [功能板概述](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
+* [仪表板概述](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
-* [功能板（可投放性）](https://veed.io/view/f5dc2e22-3ed1-4024-b6c5-bf346adcc07d){target="_blank"}
+* [仪表板（可投放性）](https://veed.io/view/f5dc2e22-3ed1-4024-b6c5-bf346adcc07d){target="_blank"}
 
 * [仪表板（信誉和身份验证）](https://veed.io/view/ec237f9d-7923-4ddc-8a58-15d58774d382){target="_blank"}
 
@@ -44,7 +44,7 @@ Bird已创建多个培训视频来帮助您充分利用这个强大的工具。
 
 * [警报](https://veed.io/view/1d968a33-e565-4cd2-b25f-53cca61b4823){target="_blank"}
 
-* [Campaign跟踪器概述](https://veed.io/view/8c92bdc5-4131-498c-a450-a518f2e91b17){target="_blank"}
+* [促销活动跟踪器概述](https://veed.io/view/8c92bdc5-4131-498c-a450-a518f2e91b17){target="_blank"}
 
 * [营销活动跟踪器（营销活动审核）](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
 

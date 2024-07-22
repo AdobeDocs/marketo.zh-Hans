@@ -6,14 +6,14 @@ exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
 # 发行说明： 2014年1月 {#release-notes-january}
 
-2014年1月版本中包含以下功能。 请检查您的 [Marketo版本](https://www.marketo.com/pricing/) 了解功能可用性。
+2014年1月版本中包含以下功能。 请检查您的[Marketo版](https://www.marketo.com/pricing/)是否提供相关功能。
 
 ## Forms 2.0 {#forms}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 控制表单创建过程并让Web开发人员喘口气。 Forms 2.0旨在使营销人员能够创建既具有视觉又功能强大的表单，而无需了解编程。
 
-**为您的Forms提供其应有的可视化改造：**
+**为您的Forms提供他们应得的可视化改造：**
 
 通过主题设计、按钮自定义和灵活的布局，您可以设计符合您站点外观的现代外观表单。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
-**轻松地将Forms嵌入到您自己的登陆页面上：**
+**轻松地将Forms嵌入到您自己的登陆页中：**
 
 从放置在Marketo登陆页面上的表单中提取html代码并将它们放置到iFrame中的日子一去不复返了。 只需获取嵌入代码，并将其放在您希望表单呈现的登陆页面上。 两种模式（普通模式和灯箱模式）可让您在网站上使用Marketo表单更加灵活。
 
@@ -41,12 +41,12 @@ ht-degree: 0%
 
 ## 电子邮件程序的通信限制 {#communication-limits-for-email-program}
 
-[设置电子邮件程序的通信限制](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) 以确保不会与数据库过度通信。 如果人员超出定义的限制，她将不会收到电子邮件。
+[对电子邮件程序设置通信限制](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md)以确保不会与数据库过度通信。 如果人员超出定义的限制，她将不会收到电子邮件。
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## 计划会员资格分析中的其他字段 {#additional-fields-in-program-membership-analysis}
 
-现在，您可以添加和分组 [计划会员资格分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 按潜在客户和公司属性列出的指标。 例如，您可以添加行业字段以查看项目成员和成功的分割。
+现在，您可以按潜在客户和公司属性添加您的[计划会员资格分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)量度，并对其进行分组。 例如，您可以添加行业字段以查看项目成员和成功的分割。
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

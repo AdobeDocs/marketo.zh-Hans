@@ -6,7 +6,7 @@ exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 运行报表以分析人员、程序、登陆页面、电子邮件和社交资产。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,23 +25,23 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您还可以从以下位置创建报告 **分析** 选项卡。
+   >您还可以从&#x200B;**Analytics**&#x200B;选项卡创建报告。
 
-1. 右键单击项目并选择 **新建本地资产**.
+1. 右键单击项目并选择&#x200B;**新建本地资产**。
 
    ![](assets/programrightclick-asset.png)
 
-1. 单击 **报表**.
+1. 单击&#x200B;**报告**。
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. 选择报表 **类型**.
+1. 选择报告&#x200B;**类型**。
 
    ![](assets/choosereport.png)
 
    >[!TIP]
    >
-   >请参阅 [报表类型概述](https://docs.marketo.com/display/DOCS/Report+Type+Overview) ，以了解每种体验的简短说明。
+   >有关每种报表类型的简短说明，请参阅[报表类型概述](https://docs.marketo.com/display/DOCS/Report+Type+Overview)。
 
 1. 为您的报告命名。
 
@@ -51,9 +51,9 @@ ht-degree: 0%
    >
    >为了便于以后导航报表，请在名称中包含对报表类型的引用。
 
-1. 设置报告的时间范围。 请参阅 [更改报表时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 以了解更多详细信息。
+1. 设置报告的时间范围。 有关更多详细信息，请参阅[更改报表时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)。
 
-1. 单击 **报表** 选项卡以查看您的统计信息。
+1. 单击&#x200B;**报告**&#x200B;选项卡查看您的统计数据。
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 
@@ -63,8 +63,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您很快就会收到大量报告。 请记住 [删除报告](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) 你不再需要了。
+   >您很快就会收到大量报告。 请记住[删除不再需要的报表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)。
 
    >[!MORELIKETHIS]
    >
-   >您可以 [更改报表时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)， [订阅基本报表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)， [将报表导出到Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)， [使用智能列表筛选报表中的人员](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)，等等。
+   >您可以[更改报表时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)、[订阅基本报表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)、[将报表导出到Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)、[筛选具有智能列表的报表中的人员](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)等等。

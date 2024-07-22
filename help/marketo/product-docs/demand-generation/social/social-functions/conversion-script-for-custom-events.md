@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 检索转换脚本 {#retrieve-the-conversion-script}
 
-1. 在反向链接选件编辑器中，单击 **优惠详细信息** 然后选择 **客户JavaScript事件** “实现目标”下拉列表中的值。
+1. 在反向链接优惠编辑器中，单击&#x200B;**优惠详细信息**，然后从实现目标下拉列表中选择&#x200B;**客户JavaScript事件**。
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. 复制灰色框中的顶部脚本，并将其放在网页内的 `<body>` 标记之间。 底部脚本放在 `<header>` 标记之间。
+1. 复制灰色框中的顶部脚本，并将其放在网页的`<body>`标记内。 底部脚本放在`<header>`标记中。
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 ## 检索Loader脚本 {#retrieve-the-loader-script}
 
-1. 从树中选择反向链接选件，然后单击 **反向链接选件操作** 和 **嵌入代码**.
+1. 从树中选择引用选件，然后单击&#x200B;**引用选件操作**&#x200B;和&#x200B;**嵌入代码**。
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. 右键单击 **页眉代码** 并将其插入网页标题。 然后对 **正文代码**.
+1. 右键单击&#x200B;**页眉代码**&#x200B;并将其插入到网页页眉。 然后对&#x200B;**正文代码**&#x200B;执行相同操作。
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
@@ -57,6 +57,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [指定反向链接选件的目标](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [指定推荐选件的目标](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [创建推荐选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 >* [在您的网站上部署Social](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

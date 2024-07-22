@@ -6,7 +6,7 @@ exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 如果您希望将来自Sales Phone的呼叫自动记录到Salesforce，请确保已实施以下操作。
 
-您需要将Sales Connect帐户连接到 [Salesforce帐户](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) 通过API连接。
+您需要将Sales Connect帐户通过API连接连接到[Salesforce帐户](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)。
 
-如果您从 [Web应用程序](https://toutapp.com/login)，则需要将Salesforce ID保存到该联系人。 [单击此处](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) 了解如何确保所有Sales Connect联系人都有一个与之关联的Salesforce ID。
+如果您是从[Web应用程序](https://toutapp.com/login)中调用，则需要将一个Salesforce ID保存到该联系人。 [单击此处](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)查看如何确保所有Sales Connect联系人都有一个与其关联的Salesforce ID。
 
 >[!NOTE]
 >

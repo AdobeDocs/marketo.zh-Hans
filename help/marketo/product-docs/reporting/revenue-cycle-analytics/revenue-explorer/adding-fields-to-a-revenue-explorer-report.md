@@ -50,4 +50,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[在收入浏览器报表中删除字段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[在收入资源管理器报表中删除字段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
 source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '665'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 ## 添加实时聊天代理 {#add-live-chat-agents}
 
-要开始实时聊天，您需要将实时聊天代理添加为 [Adobe Admin Console中的用户](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. 完成此操作后，您可以添加 [实时聊天卡](#using-the-live-chat-card) 到新的或现有的对话框。
+要开始实时聊天，您需要将实时聊天代理添加为[Adobe Admin Console中的用户](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}，并授予他们[实时聊天权限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}。 完成此操作后，您可以将[实时聊天卡](#using-the-live-chat-card)添加到新的或现有的对话框中。
 
-当访客通过Dialog请求与座席聊天时，座席将拥有多个 [通知选项](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} 在那里他们可以和访客聊天。
+当访客通过Dialog请求与代理聊天时，代理将有多个[通知选项](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}。 当他们单击通知时，会被转到其[代理收件箱](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}，以便开始与访客聊天。
 
 >[!NOTE]
 >
->实时座席头像使用座席的Adobe帐户个人资料中的个人资料图片。 要更新图像，请按照以下步骤操作 [这些步骤](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>实时座席头像使用座席的Adobe帐户个人资料中的个人资料图片。 要更新图像，请执行[这些步骤](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}。
 
 ## 使用实时聊天卡 {#using-the-live-chat-card}
 
-使用中的实时聊天卡 [流设计器](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 您希望访客与实时座席聊天的情况。
+当您希望访客与实时代理聊天时，请使用[流Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}中的实时聊天卡。
 
 ![](assets/live-chat-overview-1.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><b>自定义规则</b></td>
-   <td>在考虑将访客路由到何处时，所有自定义规则都将循环使用。 如果访客不符合任何自定义规则的条件，他们将获得 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">实时聊天后备消息</a>.</td>
+   <td>在考虑将访客路由到何处时，所有自定义规则都将循环使用。 如果访客不符合任何自定义规则的条件，他们将获得<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">实时聊天后备消息</a>。</td>
   </tr> 
   <tr> 
    <td><b>团队</b></td>
@@ -78,19 +78,19 @@ ht-degree: 0%
 
 ### 启用通知 {#enabling-notifications}
 
-实时聊天代理登录时，会在屏幕顶部看到一条横幅，上面显示“请启用浏览器通知以接收实时聊天通知”。 单击 **启用**.
+实时聊天代理登录时，会在屏幕顶部看到一条横幅，上面显示“请启用浏览器通知以接收实时聊天通知”。 单击&#x200B;**启用**。
 
 ![](assets/live-chat-overview-4.png)
 
-随后，浏览器将提示实时聊天代理显示通知。 单击 **允许**.
+随后，浏览器将提示实时聊天代理显示通知。 单击&#x200B;**允许**。
 
 ![](assets/live-chat-overview-5.png)
 
 如果座席在允许浏览器进入后仍未收到浏览器通知，则可能需要在操作系统通知设置中为浏览器启用通知：
 
-[Mac的步骤](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+Mac的[步骤](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
-[适用于Windows的步骤](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+用于Windows的[步骤](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
 ### 当实时聊天路由到座席时 {#when-a-live-chat-is-routed-to-an-agent}
 
@@ -102,12 +102,12 @@ ht-degree: 0%
 >
 >您还可以选择设置浏览器通知，如果您未登录Dynamic Chat，通知会提醒您。
 >
->* 在中启用浏览器通知 [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* 在中启用浏览器通知 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+>* 在[Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}中启用浏览器通知
+>* 在[Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}中启用浏览器通知
 
 ### 注意事项 {#things-to-note}
 
-* 在“接受聊天”消息超时之前，工程师有45秒的时间进行响应。 之后，访客将收到 [回退消息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. 对于将路由选项设置为的Dynamic Chat主要订阅者 **团队**，则会在显示回退消息之前再尝试一个代理。
+* 在“接受聊天”消息超时之前，工程师有45秒的时间进行响应。 之后，访客将收到[回退消息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}。 对于路由选项设置为&#x200B;**团队**&#x200B;的Dynamic ChatPrime订阅者，将在显示回退消息之前再尝试一个代理。
 * 目前每个代理最多只能进行10次实时聊天。
 
 >[!MORELIKETHIS]

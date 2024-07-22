@@ -4,8 +4,8 @@ title: 隐私请求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 2%
+source-wordcount: '336'
+ht-degree: 0%
 
 ---
 
@@ -19,16 +19,16 @@ ht-degree: 2%
 >
 >* Marketo Engage已登记使用Identity Management System的Adobe用户
 >
->**-或-**
+>**— 或 —**
 >
 >* Marketo EngageAdobeIdentity Management System中已存在的其他Experience Cloud产品的用户(例如，RT-CDP、B2B和B2P版本、Audience Manager)。
 
 您可以通过两种方式提交单个请求以从Marketo Engage访问和删除消费者数据：
 
-* 通过 [PRIVACY SERVICEUI](https://privacyui.cloud.adobe.io/). 请参阅文档 [此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hans){target="_blank"}.
-* 通过Privacy ServiceAPI。 请参阅文档 [此处](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* 通过[Privacy ServiceUI](https://privacyui.cloud.adobe.io/)。 请参阅文档[此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hans){target="_blank"}。
+* 通过Privacy ServiceAPI。 请参阅文档[此处](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}和[此处](https://developer.adobe.com/experience-platform-apis/){target="_blank"}。
 
-此 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} 支持两种类型的请求：数据访问和数据删除。
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"}支持两种类型的请求：数据访问和数据删除。
 
 我们来看看如何创建访问和删除请求。
 
@@ -41,7 +41,7 @@ ht-degree: 2%
    a. IMS组织ID<br/>
 b.要执行操作的人员的电子邮件地址
 
-   IMS组织ID是由24个字符组成的字母数字字符串，其后附加有@AdobeOrg。 如果您的营销团队或内部Adobe系统管理员不知道您组织的IMS组织ID，请通过以下方式联系Adobe客户关怀团队： `gdprsupport@adobe.com`. 您需要IMS组织ID才能向隐私API提交请求。
+   IMS组织ID是由24个字符组成的字母数字字符串，其后附加有@AdobeOrg。 如果您的营销团队或内部Adobe系统管理员不知道您组织的IMS组织ID，请通过`gdprsupport@adobe.com`联系Adobe客户关怀部门。 您需要IMS组织ID才能向隐私API提交请求。
 
 1. 在Privacy Service中，您可以将访问和删除请求提交给Marketo Engage，并检查现有请求的状态。
 
@@ -54,19 +54,19 @@ b.要执行操作的人员的电子邮件地址
 
 &quot;users&quot;：
 
-* &quot;action&quot;： **访问** 或 **删除**
+* &quot;action&quot;： **访问**&#x200B;或&#x200B;**删除**
 * &quot;userIDs&quot;：
-   * &quot;namespace&quot;： **电子邮件**
-   * &quot;type&quot;： **标准**
+   * &quot;namespace&quot;：**电子邮件**
+   * &quot;type&quot;： **standard**
    * &quot;value&quot;： `<Data Subject's Email Address>`
 
 &quot;include&quot;：
 
-* **marketo** (适用于该请求的Adobe产品)
+* **marketo**(适用于该请求的Adobe产品)
 
 “监管”：
 
-* **gdpr**， **ccpa**， **pdpa**， **lgpd_bra**，或 **nzpa_nzl**  （即适用于该请求的隐私法规）
+* **gdpr**、**ccpa**、**pdpa**、**lgpd_bra**&#x200B;或&#x200B;**nzpa_nzl**（适用于该请求的隐私法规）
 
 ## 示例1：GDPR删除请求 {#gdpr-delete-request}
 

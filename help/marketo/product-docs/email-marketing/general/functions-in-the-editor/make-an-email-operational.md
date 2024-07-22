@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >运营电子邮件不受通信限制的约束。
 
-1. 查找您的电子邮件，选择它并单击 **编辑草稿**.
+1. 找到您的电子邮件，选择它，然后单击&#x200B;**编辑草稿**。
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 >
 >您应仅将运营电子邮件用于关键电子邮件和自动响应者。 它们不适用于营销电子邮件。
 
-1. 打开编辑器后，单击 **电子邮件设置**.
+1. 编辑器打开后，单击&#x200B;**电子邮件设置**。
 
    ![](assets/two-1.png)
 
-1. Check **操作电子邮件** 并单击 **保存**.
+1. 检查&#x200B;**操作电子邮件**&#x200B;并单击&#x200B;**保存**。
 
    ![](assets/three.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 >
 >运营电子邮件不适合参与计划。 因此，参与计划将忽略电子邮件的操作状态。 与他们合作时，请记住这一点。
 
-请别忘了批准此电子邮件，以使更改生效。 了解如何  [批准电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+请别忘了批准此电子邮件，以使更改生效。 了解如何[批准电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。

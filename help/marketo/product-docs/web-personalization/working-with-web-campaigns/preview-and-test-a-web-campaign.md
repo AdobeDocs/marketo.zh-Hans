@@ -6,7 +6,7 @@ exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -21,43 +21,43 @@ ht-degree: 0%
 
 ## 在创建页面上预览Web营销活动 {#preview-a-web-campaign-on-the-creation-page}
 
-1. 转到 **Web营销活动**.
+1. 转到&#x200B;**网络营销活动**。
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. 单击 **新建Web营销活动** 或图标以编辑现有营销策划。
+1. 单击&#x200B;**新建Web营销活动**&#x200B;或图标以编辑现有营销活动。
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. 在网站预览中，添加页面URL并单击 **预览**. 此时将打开一个新窗口/选项卡，其中显示了营销活动预览。
+1. 在网站预览中，添加页面URL并单击&#x200B;**预览**。 此时将打开一个新窗口/选项卡，其中显示了营销活动预览。
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >单击 **共享** 以打开具有促销活动预览的固定URL的电子邮件。
+   >单击&#x200B;**共享**&#x200B;以打开包含促销活动预览的固定URL的电子邮件。
 
    >[!NOTE]
    >
-   >您还可以选择安装浏览器插件(无论是 [铬黄](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) 或 [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi))，以获得预览营销活动的最佳体验。 请参阅以下部分。
+   >您还可以选择安装浏览器插件([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)或[Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi))，以获得预览促销活动的最佳体验。 请参阅以下部分。
 
 ## 使用浏览器插件在“创建”页面上预览Web营销活动 {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. 按照上节中的步骤1和2操作。
 
-1. 单击指向浏览器插件的链接（在本例中，我们使用的是Chrome）。
+1. 单击指向浏览器插件的链接(在本例中，我们使用的是Chrome)。
 
    ![](assets/4-1.png)
 
-1. 此时将打开一个新窗口/选项卡。 单击 **添加到Chrome**.
+1. 此时将打开一个新窗口/选项卡。 单击&#x200B;**添加到Chrome**。
 
    ![](assets/five.png)
 
-1. 单击 **添加扩展**.
+1. 单击&#x200B;**添加扩展**。
 
    ![](assets/six.png)
 
-1. 返回Marketo。 添加页面URL并单击 **预览**.
+1. 返回Marketo。 添加页面URL并单击&#x200B;**预览**。
 
    ![](assets/seven.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## 在Web营销活动页面上预览Web营销活动 {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. 在查看Web营销策划的列表时，只需选择一个营销策划，然后单击 **预览** 图标。
+1. 在查看Web促销活动列表时，只需选择一个促销活动并单击&#x200B;**预览**&#x200B;图标即可。
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -77,17 +77,17 @@ ht-degree: 0%
 
 创建沙盒区段和营销活动。
 
-1. 转到 **区段**.
+1. 转到&#x200B;**区段**。
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. 单击 **新建**.
+1. 单击&#x200B;**新建**。
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. 命名区段。
 
-1. 在“行为”下，将“包括页面”拖动到画布上。 添加值 &#42;sandbox=1&#42;. 单击 **保存并定义营销活动**.
+1. 在“行为”下，将“包括页面”拖动到画布上。 添加值&#42;sandbox=1&#42;。 单击&#x200B;**保存并定义营销活动**。
 
    ![](assets/segment.png)
 
@@ -95,11 +95,11 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. 完成活动创意并单击 **Launch**.
+1. 完成活动创意并单击&#x200B;**启动**。
 
    ![](assets/click-launch.jpg)
 
-1. 转到您的网站，在URL的末尾添加URL参数“？sandbox=1”。 示例： `www.marketo.com?sandbox=1`.
+1. 转到您的网站，在URL的末尾添加URL参数“？sandbox=1”。 示例： `www.marketo.com?sandbox=1`。
 
 1. 请参阅您网站上的营销活动反应。
 
@@ -109,4 +109,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->无法预览重定向营销活动。 测试这些受众的唯一方法是使用沙盒区段(按特定页面定位 —  &#42;sandbox=redirect&#42;)
+>无法预览重定向营销活动。 测试它们的唯一方法是使用沙盒区段（按特定页面定位 — &#42;沙盒=重定向&#42;）

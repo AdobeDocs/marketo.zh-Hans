@@ -15,19 +15,19 @@ ht-degree: 0%
 
 静态列表是数据库中已经存在的一组人员。 以下是如何创建一个。
 
-1. 转到 **[!UICONTROL 数据库]**.
+1. 转到&#x200B;**[!UICONTROL 数据库]**。
 
    ![](assets/db.png)
 
-1. 单击 **[!UICONTROL 新建]** 下拉并选择 **[!UICONTROL 新建列表]**.
+1. 单击&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 新建列表]**。
 
    ![](assets/two.png)
 
-1. 选择目标文件夹，为新列表命名，然后单击 **[!UICONTROL 创建]**.
+1. 选择目标文件夹，为新列表命名，然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/three.png)
 
-   您现在有一个空列表可供填写。 了解如何添加人员 [此处](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}.
+   您现在有一个空列表可供填写。 了解如何在[此处](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}添加用户。
 
    >[!NOTE]
    >

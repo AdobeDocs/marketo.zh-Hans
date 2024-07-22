@@ -36,15 +36,15 @@ ht-degree: 0%
 
 用户可以决定是希望与Marketo也可以同步的标准电子邮件选择退出字段同步其取消订阅，还是可以与Marketo销售人员选择退出字段同步，以便区分销售人员取消订阅和营销人员取消订阅。
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. 在管理设置下，选择 **取消订阅**.
+1. 在管理设置下，选择&#x200B;**取消订阅**。
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. 单击 **集成** 选项卡。 在“同步到Salesforce”下，启用夜间同步。
+1. 单击&#x200B;**集成**&#x200B;选项卡。 在“同步到Salesforce”下，启用夜间同步。
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
    | 字段 | 描述 |
    |---|---|
    | **同步到Salesforce选择退出字段** | 默认情况下处于选中状态，只会更新Salesforce选择退出字段。 |
-   | **同步到“Marketo销售人员选择退出”字段** | 如果要将销售和营销取消订阅分开，请选择此选项以更新其他 [Marketo Sales Opt Out字段。](#msoo) |
+   | **同步到Marketo Sales Opt Out字段** | 如果要将销售和营销取消订阅分开，请选择此选项以更新其他[Marketo销售选择退出字段。](#msoo) |
 
 ## 在页面布局中安装选择退出字段 {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
 电子邮件选择退出是Salesforce中的一个标准字段，可从Salesforce安装。 您必须是Salesforce管理员才能安装此软件。
 
-1. 转到 [Salesforce.com](https://salesforce.com) 并登录。
+1. 转到[Salesforce.com](https://salesforce.com)并登录。
 
    ![](assets/syncing-unsubscribes-with-salesforce-5.png)
 
-1. 单击您的用户名并选择 **设置**.
+1. 单击您的用户名并选择&#x200B;**设置**。
 
    ![](assets/syncing-unsubscribes-with-salesforce-6.png)
 
@@ -75,15 +75,15 @@ ht-degree: 0%
 
    ![](assets/syncing-unsubscribes-with-salesforce-7.png)
 
-1. 选择 **页面布局**.
+1. 选择&#x200B;**页面布局**。
 
    ![](assets/syncing-unsubscribes-with-salesforce-8.png)
 
-1. 选择 **编辑** 在页面布局旁边，您需要添加字段。
+1. 选择您要添加该字段的页面布局旁边的&#x200B;**编辑**。
 
    ![](assets/syncing-unsubscribes-with-salesforce-9.png)
 
-1. 选择 **字段**.
+1. 选择&#x200B;**字段**。
 
    ![](assets/syncing-unsubscribes-with-salesforce-10.png)
 
@@ -91,12 +91,12 @@ ht-degree: 0%
 
    ![](assets/syncing-unsubscribes-with-salesforce-11.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 
 ## Marketo销售人员选择退出 {#marketo-sales-opt-out}
 
-Marketo销售人员选择退出字段是一个自定义字段，可供已安装Marketo销售人员分析包的用户使用 [从AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Marketo Sales Opt Out字段是一个自定义字段，适用于已从AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}安装Marketo Sales Insight包[的用户。
 
 成功将Marketo Sales Insight程序包从AppExchange安装到Salesforce中后，您将看到可供您使用的Marketo Sales选择退出字段。

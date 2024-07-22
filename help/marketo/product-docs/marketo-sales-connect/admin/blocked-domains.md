@@ -19,18 +19,18 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在Web应用程序中，单击齿轮图标并选择 **设置**.
+1. 在Web应用程序中，单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/one-3.png)
 
-1. 在管理设置下，单击 **常规**.
+1. 在“管理员设置”下，单击&#x200B;**常规**。
 
    ![](assets/two-3.png)
 
-1. 输入要阻止的域，然后单击 **阻止域**.
+1. 输入要阻止的域，然后单击&#x200B;**阻止域**。
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >属于的电子邮件 [群组电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) 由于发送到被阻止的电子邮件域而导致发送失败将静默失败，并且不会显示在失败的电子邮件文件夹中。
+   >属于[组电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)发送的电子邮件因发送到被阻止的电子邮件域而失败时，这些电子邮件将以静默方式失败，并且不会显示在失败的电子邮件文件夹中。

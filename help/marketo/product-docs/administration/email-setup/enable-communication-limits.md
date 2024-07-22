@@ -6,8 +6,8 @@ exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -19,43 +19,43 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/enable-communication-limits-1.png)
 
-1. 单击 **[!UICONTROL 通信限制]**.
+1. 单击&#x200B;**[!UICONTROL 通信限制]**。
 
    ![](assets/enable-communication-limits-2.png)
 
-1. 单击 **[!UICONTROL 编辑]**.
+1. 单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL 每天] 基于订阅时区的日历日（午夜 — 午夜）。
+   >[!UICONTROL 每日]基于订阅时区的日历日（午夜 — 午夜）。
 
-1. 单击 **[!UICONTROL 每天]** 下拉列表并选择所需的限制。 在本例中，我们选择1。
+1. 单击&#x200B;**[!UICONTROL 每日]**&#x200B;下拉列表并选择所需限制。 在本例中，我们选择1。
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >您还可以选择 **[!UICONTROL 自定义]** 如果预设选项均不适用。
+   >如果预设选项都不适合您，您还可以选择&#x200B;**[!UICONTROL 自定义]**。
 
-1. 单击 **[!UICONTROL 每7天]** 下拉列表并选择所需的限制。 在本例中，我们选择5个。
+1. 单击&#x200B;**[!UICONTROL 每7天]**&#x200B;下拉列表并选择所需限制。 在本例中，我们选择5个。
 
    ![](assets/enable-communication-limits-5.png)
 
-1. 选择 **[!UICONTROL 阻止非运营电子邮件]**.
+1. 选择&#x200B;**[!UICONTROL 阻止非操作电子邮件]**。
 
    ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
-   >详细了解内容 [操作电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) 是。
+   >详细了解[操作电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)是什么。
 
-1. 单击 **[!UICONTROL 保存]**.
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/enable-communication-limits-7.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
    >
    >**示例**
    >
-   >上述设置意味着用户不会收到 **每天1封电子邮件** 或大于 **任何七天期间为5**.
+   >上述设置意味着在任何七天期间&#x200B;**内，用户每天收到的电子邮件不会超过** 1封&#x200B;**或超过** 5封。
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[将通信限制应用于Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[将通信限制应用于智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->要获得准确的报告，请避免 _重用_ 电子邮件程序中的电子邮件，方法是在Smart Campaign中引用它，或将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将所有数据汇总到附加到该电子邮件的每个报告仪表板中。 如果您需要重新使用电子邮件，请 [克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 相反，因为这样会复制电子邮件，但会创建一个具有新电子邮件ID的新电子邮件。
+>要获得准确的报告，请避免&#x200B;_重复使用电子邮件程序中的_&#x200B;电子邮件，方法是在智能营销活动中引用该电子邮件，或者将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将所有数据汇总到附加到该电子邮件的每个报告仪表板中。 如果需要重新使用电子邮件，请改为复制它[克隆](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}，因为这样会复制电子邮件，但会创建一个具有新电子邮件ID的新电子邮件。
 
 ## 选择您的电子邮件程序 {#select-your-email-program}
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 电子邮件项目群视图 {#email-program-view}
 
-或者，如果您未添加A/B测试 *或* 如果测试结束，应显示以下内容：
+或者，如果您未添加A/B测试&#x200B;*或*（如果测试结束），则应该显示以下内容：
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
@@ -51,5 +51,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用电子邮件程序仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [使用电子邮件程序仪表板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [使用电子邮件计划仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [使用电子邮件计划仪表板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

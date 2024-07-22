@@ -6,7 +6,7 @@ exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[创建演示](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>[创建演示文稿](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
-1. 右键单击演示文稿并选择 **[!UICONTROL 查看设置]**.
+1. 右键单击演示文稿并选择&#x200B;**[!UICONTROL 查看设置]**。
 
    >[!NOTE]
    >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. 拖放 **[!UICONTROL 背景图像]** 从右边的树进入画布。
+1. 将&#x200B;**[!UICONTROL 背景图像]**&#x200B;从右树拖放到画布中。
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要获得最干净的外观，请使用 **1920 x 1080** 或 **1280 x 720**.
+   >若要获得最干净的外观，请使用图像&#x200B;**1920 x 1080**&#x200B;或&#x200B;**1280 x 720**。
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. 单击 **[!UICONTROL 预览]** 去查一下。
+1. 单击&#x200B;**[!UICONTROL 预览]**&#x200B;以将其签出。
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 

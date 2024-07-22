@@ -80,7 +80,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
+`event`参数是一个包含与对话相关的元数据的对象。 您可以通过访问`event.data`来访问此元数据。
 
 以下是您可以访问的一些关键元数据值：
 
@@ -145,7 +145,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
+`event`参数是一个包含与对话相关的元数据的对象。 您可以通过访问`event.data`来访问此元数据。
 
 以下是您可以访问的一些关键元数据值：
 
@@ -199,7 +199,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
+`event`参数是一个包含与对话相关的元数据的对象。 您可以通过访问`event.data`来访问此元数据。
 
 以下是您可以访问的一些关键元数据值：
 
@@ -304,7 +304,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-此 `event` 参数是一个对象，其中包含与对话相关的元数据。 您可以通过访问以下内容访问此元数据： `event.data`.
+`event`参数是一个包含与对话相关的元数据的对象。 您可以通过访问`event.data`来访问此元数据。
 
 以下是您可以访问的一些关键元数据值：
 

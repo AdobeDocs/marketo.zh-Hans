@@ -7,7 +7,7 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 您可以通过几种不同的方式对Web营销活动进行排序。
 
-1. 转到 **Web营销活动**.
+1. 转到&#x200B;**网络营销活动**。
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -23,11 +23,11 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >**条件**
+   >**定义**
    >
-   >**最新**  — 将根据营销策划的创建日期进行排序。 顶部的最新营销活动。
+   >**最新** — 将根据营销活动的创建日期进行排序。 顶部的最新营销活动。
    >
-   >**表现最佳**  — 将根据点进率对营销活动进行排序。 顶部的最高点进。
+   >**最佳表现** — 将根据点进率对营销活动进行排序。 顶部的最高点进。
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 

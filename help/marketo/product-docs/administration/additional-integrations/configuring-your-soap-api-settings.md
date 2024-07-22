@@ -15,27 +15,27 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->我们建议使用REST API。 详细了解 [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
+>我们建议使用REST API。 在[developer.adobe.com](https://developer.adobe.com/marketo-apis/)上了解详情。
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. 单击 **[!UICONTROL Web服务]**.
+1. 单击&#x200B;**[!UICONTROL Web服务]**。
 
    ![](assets/configuring-your-soap-api-settings-2.png)
 
-1. 设置适当的 **[!UICONTROL 加密密钥]**，单击 **[!UICONTROL 保存更改]**，并将所有信息传递给您的开发人员。
+1. 设置适当的&#x200B;**[!UICONTROL 加密密钥]**，单击&#x200B;**[!UICONTROL 保存更改]**，然后将所有信息传递给开发人员。
 
    ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
->您的SOAP端点和 [!UICONTROL 用户标识] 是唯一的；请勿将本文中的屏幕快照发送给您的开发人员。
+>您的SOAP端点和[!UICONTROL 用户ID]将是唯一的；请勿将此文章中的屏幕快照发送给您的开发人员。
 
 >[!MORELIKETHIS]
 >

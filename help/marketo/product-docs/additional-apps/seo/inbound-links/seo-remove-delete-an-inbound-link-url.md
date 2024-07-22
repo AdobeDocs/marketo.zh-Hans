@@ -15,7 +15,7 @@ ht-degree: 0%
 
 有时候，您需要删除入站链接。 方法如下：
 
-1. 转到 **[!UICONTROL 入站链接]** 部分。
+1. 转到&#x200B;**[!UICONTROL 入站链接]**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
-1. 单击 **[!UICONTROL 移除]**.
+1. 单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 

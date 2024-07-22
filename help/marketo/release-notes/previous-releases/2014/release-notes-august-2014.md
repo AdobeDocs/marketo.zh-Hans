@@ -6,7 +6,7 @@ exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ## 营销日历许可证 {#marketing-calendar-licenses}
 
-2014年9月5日之后，只有5名用户可免费访问营销日历。 请务必 [发布/撤销营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 之前发送给您选择的用户，以实现无中断访问。
+2014年9月5日之后，只有5名用户可免费访问营销日历。 请务必[为您选择的用户](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)颁发/撤销营销日历许可证，以便无中断访问。
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## 新用户权限 {#new-user-permissions}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 从管理员中导出用户和角色 {#export-users-and-roles-from-admin}
 
-您现在可以 [导出用户和角色列表](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) 来自Marketo的。 您还可以包含要包含在导出中的“上次登录”时间戳。
+您现在可以从Marketo [导出用户和角色列表](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)。 您还可以包含要包含在导出中的“上次登录”时间戳。
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 >
 >DKIM将缓慢推出，您可能几周内看不到它。
 
-## 实时个性化更新 {#real-time-personalization-updates}
+## Personalization实时更新 {#real-time-personalization-updates}
 
 我们在营销活动页面中添加了标签，以便您能够为自己的内容添加标签。
 
@@ -93,6 +93,6 @@ ht-degree: 0%
 
 ## 跟踪控制 {#tracking-control}
 
-您现在可以在实时个性化中将特定IP从所有跟踪和报告中排除。
+您现在可以从Real-Time Personalization的所有跟踪和报告中排除特定IP。
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)

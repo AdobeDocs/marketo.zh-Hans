@@ -6,14 +6,14 @@ exl-id: aabbc957-5eed-4db6-b107-0a8226371820
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # 模板2C {#template-2c}
 
-右键单击 [下载模板2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+右键单击以[下载模板2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 

@@ -15,15 +15,15 @@ ht-degree: 1%
 
 Marketo Engage有一些非常有用的内置智能列表。 我们来看看吧！
 
-1. 转到 **[!UICONTROL 数据库]**.
+1. 转到&#x200B;**[!UICONTROL 数据库]**。
 
    ![](assets/db.png)
 
-1. 打开 **[!UICONTROL 系统智能列表]** 文件夹以显示收藏集。
+1. 打开&#x200B;**[!UICONTROL 系统智能列表]**&#x200B;文件夹以显示集合。
 
    ![](assets/two.png)
 
-1. 查看一个示例：选择 **[!UICONTROL 所有人员]**，然后单击 **[!UICONTROL 人员]** 选项卡。
+1. 要查看示例：选择&#x200B;**[!UICONTROL 所有人员]**，然后单击&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡。
 
    ![](assets/three.png)
 

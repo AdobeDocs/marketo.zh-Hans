@@ -21,14 +21,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建项目](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [创建程序](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [创建电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 >[!CAUTION]
 >
->Champion/Challenger电子邮件仅适用于触发营销活动和参与计划流。 对于批量邮件，请使用电子邮件程序的 [A/B测试功能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Champion/Challenger电子邮件仅适用于触发营销活动和参与计划流。 对于批量邮件，请使用电子邮件程序的[A/B测试功能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >对于一次性邮件爆炸，了解有关 [电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
+   >对于一次性邮件爆炸，了解有关[电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)的更多信息。
 
-1. 下 **电子邮件操作**，单击 **新建测试**.
+1. 在&#x200B;**电子邮件操作**&#x200B;下，单击&#x200B;**新建测试**。
 
    ![](assets/chmapion2.jpg)
 
@@ -50,4 +50,4 @@ ht-degree: 0%
    >
    >* [冠军/挑战者：整个电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
    >* [冠军/挑战者：主题行](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [冠军/挑战者：发自地址](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [冠军/挑战者：发件人地址](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

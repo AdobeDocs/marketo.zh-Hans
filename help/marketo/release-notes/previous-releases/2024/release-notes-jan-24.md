@@ -16,11 +16,11 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->以星号(![星形](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，并将于以下日期开始发行 **2024年1月12日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
+以下功能属于标准发行周期，将于&#x200B;**2024年1月12日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -30,7 +30,7 @@ ht-degree: 1%
    <th style="width:25%">文档</th>
   </tr>
     <tr> 
-   <td><strong>交互式网络研讨会的按需网络研讨会</strong>：点播网络研讨会允许您发布网络研讨会录像并跟踪其访问/观看次数。 这有助于您通过未参加网络研讨会（不作秀）但仍想了解更多详情和观看录制的注册者获得更多机会。</td> 
+   <td><strong>交互式网络研讨会的点播网络研讨会</strong>：点播网络研讨会允许您发布网络研讨会录制并跟踪其访问/观看次数。 这有助于您通过未参加网络研讨会（不作秀）但仍想了解更多详情和观看录制的注册者获得更多机会。</td> 
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">按需网络研讨会</a></td>
   </tr>
@@ -40,7 +40,7 @@ ht-degree: 1%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>对话式登陆页面</strong>：将Dynamic Chat对话流直接嵌入到Marketo Engage登录页面，以便访客通过Dynamic Chat安排会议，而无需填写表单或与聊天机器人交互。</td> 
+   <td><strong>对话登录页面</strong>：将Dynamic Chat对话流直接嵌入到Marketo Engage登录页面，以便访客通过Dynamic Chat安排会议，而无需填写表单或与聊天机器人交互。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -50,7 +50,7 @@ ht-degree: 1%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>筛选电子邮件机器人活动</strong>：通过允许您选择希望机器人活动识别过滤的积极程度，改进为电子邮件参与捕获机器人活动的功能。</td> 
+   <td><strong>筛选电子邮件机器人活动</strong>：通过允许您选择希望机器人活动识别筛选的积极程度，改进捕获电子邮件参与度的机器人活动。</td> 
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">筛选电子邮件机器人活动</a></td>
   </tr>
@@ -60,7 +60,7 @@ ht-degree: 1%
    <td> </td>
    </tr>
     <tr> 
-   <td><strong>批量商机导入API更新</strong>：在以下情况下，已对批量潜在客户导入API的行为进行了细微调整： <b>id</b> 指定为 <b>lookupField</b> 在创建作业期间。 如果人员记录链接到提供的 <b>id</b> 在Marketo Engage数据库中找不到，将不会进行记录更新，因为无法找到该记录。 更新后的行为现在包括增加 <b>numOfRowsFailed</b> 响应中的属性，表示在这种情况下操作失败。</td> 
+   <td><strong>批量潜在客户导入API更新</strong>：在创建作业期间将<b>id</b>指定为<b>lookupField</b>时，已对批量潜在客户导入API的行为进行了细微调整。 如果在Marketo Engage数据库中未找到链接到所提供的<b>id</b>的人员记录，则不会进行记录更新，因为无法找到该记录。 更新后的行为现在包括增加响应中<b>numOfRowsFailed</b>属性的计数，表示在此类情况下操作失败。</td> 
    <td>已发货</td>
    <td>不适用</td>
   </tr>
@@ -70,7 +70,7 @@ ht-degree: 1%
    <td> </td>
    </tr>
   <tr> 
-   <td><strong>联合主办交互式网络研讨会</strong>：交互式网络研讨会的网络研讨会团队部分中的共同主机允许事件创建者将内部或外部用户添加到交互式网络研讨会项目，以共享管理和交付责任。</td> 
+   <td><strong>交互式网络研讨会的联合主持人</strong>：交互式网络研讨会的“网络研讨会团队”部分中的联合主持人允许事件创建者向交互式网络研讨会程序添加内部或外部用户，以共享管理和交付责任。</td> 
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">添加网络研讨会团队</a></td>
   </tr>
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 ### 销售分析操作 {#sales-insight-actions}
 
-![(star)](assets/yellow-star.png)
+![（星形）](assets/yellow-star.png)
 
 <table style="border: 0px">
  <tbody> 
@@ -105,7 +105,7 @@ ht-degree: 1%
   </tr> 
   </tr>
     <tr> 
-   <td><strong>可展开的合成窗口</strong>：现在，撰写电子邮件窗口将自动压缩未使用的空间，以便在编辑器中留出更多空间。 此外，该窗口将弹出并进一步扩展，从而为用户提供所需的最大空间，以便对其电子邮件进行编辑。</td> 
+   <td><strong>可扩展的撰写窗口</strong>：撰写电子邮件窗口现在将自动压缩未使用的空间，从而可在编辑器中留出更多空间。 此外，该窗口将弹出并进一步扩展，从而为用户提供所需的最大空间，以便对其电子邮件进行编辑。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -126,7 +126,7 @@ ht-degree: 1%
   </tr> 
   </tr>
     <tr> 
-   <td><strong>用于对话式Forms的聊天机器人UI</strong>：网站访客现在可以请求对话流中的实时聊天。</td> 
+   <td><strong>用于对话Forms的聊天机器人UI</strong>：网站访客现在可以在对话流中请求实时聊天。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -148,7 +148,7 @@ ht-degree: 1%
   </tr>
    </tr>
     <tr> 
-   <td><strong>重复对话框选项</strong>：现在，您可以在访客到达结尾后从头重新启动对话框。</td> 
+   <td><strong>用于重复对话框的选项</strong>：现在，您可以在访客到达结尾后从头重新启动对话框。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -170,7 +170,7 @@ ht-degree: 1%
   </tr>
     </tr>
     <tr> 
-   <td><strong>代理收件箱中最近的Marketo Engage活动</strong>：最近的Marketo Engage活动，如“已打开的电子邮件”和“已填写的表单”，将显示在“代理收件箱”中。</td> 
+   <td><strong>代理收件箱中最近的Marketo Engage活动</strong>：代理收件箱中将显示潜在客户的最近Marketo Engage活动，例如“已打开的电子邮件”和“已填写的表单”。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -190,12 +190,12 @@ ht-degree: 1%
 
 ## 公告 {#announcements}
 
-* **一键式列表取消订阅更新**：Gmail和Yahoo已实施若干新的发件人要求，自2024年2月1日起生效。 学习 [它们是什么以及它们如何影响您](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
+* **One-Click List-Unsubscribe更新**： Gmail和Yahoo已实施多个新发件人要求，已于2024年2月1日生效。 了解[它们是什么以及它们如何影响您](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}。
 
-* **同步潜在客户API更新**：和 [同步潜在客户API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}的行为已进行了轻微调整，更新 `unsubscribed` 字段。 现在，当你经过 `null` 作为值，它等于传递值 `false`.
+* **同步潜在客户API更新**： [同步潜在客户API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}的行为已稍作调整，涉及`unsubscribed`字段的更新。 现在，当您传递`null`作为值时，它等于传递值`false`。
 
-* **Marketo EngageForms jQuery 1.x**：在2024年1月版中，我们将将FormsMarketo Engage的jQuery更新为jQuery 3.x。这可能会影响依赖旧版jQuery的自定义Form实施。 [在此处了解详情](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
+* **Marketo EngageForms jQuery 1.x**：在2024年1月版本中，我们将将FormsMarketo Engage的jQuery更新为jQuery 3.x。这可能会影响依赖旧版jQuery的自定义Form实施。 [在此了解详情](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}。
 
-* **仅SSO用户的电子邮件验证**：仅用于自动验证的SSO用户，以便他们使用无法访问的电子邮件帐户。 从1月中旬开始，所有现有的“仅SSO”用户将被要求通过我们发送到电子邮件帐户的链接重新验证其电子邮件，并且不会被验证。 所有新的SSO Only用户以后都需要验证其电子邮件地址。
+* **仅用于SSO用户的电子邮件验证**：仅用于SSO的用户以前是自动验证的，允许他们使用无法访问的email帐户。 从1月中旬开始，所有现有的“仅SSO”用户将被要求通过我们发送到电子邮件帐户的链接重新验证其电子邮件，并且不会被验证。 所有新的SSO Only用户以后都需要验证其电子邮件地址。
 
-* 观看 [2024年1月Marketo Engage发布网络研讨会](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
+* 观看[2024年1月Marketo Engage发布网络研讨会](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}。

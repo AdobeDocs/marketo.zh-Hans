@@ -5,8 +5,8 @@ exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 0%
+source-wordcount: '697'
+ht-degree: 1%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* Salesforce和Marketo Sales Connect [必须连接](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* 通过API记录电子邮件活动 [必须启用](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* 必须启用通过API [记录电子邮件活动](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 活动详细信息自定义允许管理员配置在Sales Connect活动/提醒任务同步到Salesforce时记录到Salesforce Task - Subject Field的信息。
 
 >[!NOTE]
 >
->* 如果您使用的是，对提醒任务的Sales Connect主题字段所做的更新将反映在对应Salesforce任务的主题字段中 `{{activity_subject}}` 活动详细信息自定义中的动态字段。
+>* 如果您在活动详细信息自定义中使用`{{activity_subject}}`动态字段，则在提醒任务的Sales Connect中对主题字段所做的更新将反映在对应Salesforce任务的主题字段中。
 >* 将信息记录到Salesforce主题字段时不支持换行符。 更新销售任务主题时，将删除活动详细信息自定义编辑器中的任何换行符。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -107,15 +107,15 @@ ht-degree: 0%
 
 在配置活动详细信息时，请考虑在Salesforce中查看任务历史记录时哪些数据与销售最相关。
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. 单击 **Salesforce**.
+1. 单击&#x200B;**Salesforce**。
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. 单击 **同步设置**.
+1. 单击&#x200B;**同步设置**。
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
    >
    >尽管不是必需的，但将添加的文本换行到直括号中可以让某些人在数据填充到Salesforce中的主题字段时更容易识别这些数据。 示例： `[Sales Connect] - {{Activity_type}}`
 
-1. 通过单击 **添加动态字段** 按钮。
+1. 通过单击&#x200B;**添加动态字段**&#x200B;按钮，添加您想要的任何其他动态字段。
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
@@ -146,5 +146,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [同步设置](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [与Salesforce同步提醒任务](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [CRM的Sales Connect自定义](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [提醒任务与Salesforce同步](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* CRM的[Sales Connect自定义](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

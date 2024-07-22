@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 向列表添加入站链接URL {#add-an-inbound-link-url-to-a-list}
 
-1. 转到 **[!UICONTROL 入站链接]** 部分。
+1. 转到&#x200B;**[!UICONTROL 入站链接]**&#x200B;部分。
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. 将鼠标悬停在要分类的入站链接URL上。 单击 **[!UICONTROL 在列表中添加/删除]**.
+1. 将鼠标悬停在要分类的入站链接URL上。 单击&#x200B;**[!UICONTROL 添加/删除列表]**。
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -31,21 +31,21 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您还可以为要转移的关键字创建一个新列表。 只需在中键入所需的名称 [!UICONTROL 创建新列表].
+>您还可以为要转移的关键字创建一个新列表。 只需在[!UICONTROL 创建新列表]中键入所需的名称。
 
 ## 从列表中删除入站链接URL {#remove-an-inbound-link-url-from-a-list}
 
 有时，您需要从列表中删除入站链接URL。
 
-1. 单击 **[!UICONTROL 入站链接]**.
+1. 单击&#x200B;**[!UICONTROL 入站链接]**。
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. 单击 **[!UICONTROL 按列表筛选]** 下拉菜单。 单击要清理的列表。
+1. 单击&#x200B;**[!UICONTROL 按列表]**&#x200B;筛选下拉列表。 单击要清理的列表。
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. 将鼠标悬停在要删除的入站链接URL上。 单击 **[!UICONTROL 在列表中添加/删除]**.
+1. 将鼠标悬停在要删除的入站链接URL上。 单击&#x200B;**[!UICONTROL 添加/删除列表]**。
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 

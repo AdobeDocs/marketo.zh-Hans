@@ -6,7 +6,7 @@ exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>ABM指定帐户</strong></td> 
-   <td colspan="1">如果您使用的是Marketo ABM，则所有指定帐户都将同步到MPI，并通过“ABM指定帐户”筛选器可见。 您可以选择指定帐户来筛选这些帐户的结果。<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">了解有关ABM指定帐户的更多信息。</a></td> 
+   <td colspan="1">如果您使用的是Marketo ABM，则所有指定帐户都将同步到MPI，并通过“ABM指定帐户”筛选器可见。 您可以选择指定帐户来筛选这些帐户的结果。<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">了解有关ABM命名帐户的更多信息。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>自定义属性</strong></td> 
-   <td colspan="1"><p>这些由您决定。 所有字段 <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">您启用</a> 对于机会分析，可以在性能分析中进行过滤。</p></td> 
+   <td colspan="1"><p>这些由您决定。 您为机会分析启用的<a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">的所有字段</a>都可以在Performance Insights中进行筛选。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>投资期</strong></p></td> 

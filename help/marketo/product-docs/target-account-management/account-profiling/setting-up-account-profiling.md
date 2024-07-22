@@ -17,28 +17,28 @@ ht-degree: 2%
 
 >[!CAUTION]
 >
->以下字段必须 **非** 为了使“帐户分析”正常运行，将隐藏。
+>以下字段必须&#x200B;**不**&#x200B;隐藏，帐户分析才能正常运行。
 >
 >* 网站
 >* 公司
 >* 电子邮件
 >* 国家
 >
->了解如何 [在此处取消隐藏字段](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>在此处了解如何[取消隐藏字段](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field)。
 
-1. 在“我的Marketo”中，打开 **目标帐户管理**.
+1. 在“我的Marketo”中，打开&#x200B;**目标帐户管理**。
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. 单击 **帐户分析** 选项卡。
+1. 单击“**帐户分析**”选项卡。
 
    ![](assets/two-1.png)
 
-1. 默认情况下，“模型”选项卡处于打开状态。 单击 **开始使用**.
+1. 默认情况下，“模型”选项卡处于打开状态。 单击&#x200B;**开始**。
 
    ![](assets/three.png)
 
-1. 为您的模型提供一个名称，然后选择将用作理想客户配置文件(ICP)基础的列表类型/人员列表。 单击 **创建模型** 完成时。
+1. 为您的模型提供一个名称，然后选择将用作理想客户配置文件(ICP)基础的列表类型/人员列表。 完成后，单击&#x200B;**创建模型**。
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -46,7 +46,7 @@ ht-degree: 2%
 
    ![](assets/five.png)
 
-1. 要查看模型的结果，请单击 **查看模型结果**.
+1. 要查看模型结果，请单击&#x200B;**查看模型结果**。
 
    ![](assets/six.png)
 
@@ -56,4 +56,4 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >现在您的模型已创建完毕， [了解如何对其进行调整](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >现在您的模型已创建，[了解如何对其进行调整](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)。

@@ -14,15 +14,15 @@ ht-degree: 0%
 
 请按照以下步骤自定义您的电子邮件跟踪链接标头。
 
-1. 在Marketo中，单击 **[!UICONTROL 管理员]**.
+1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. 单击 **[!UICONTROL 电子邮件]**.
+1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. 向下滚动到“自定义标题选项”。 选择所需的设置，然后单击 **[!UICONTROL 保存更改]**.
+1. 向下滚动到“自定义标题选项”。 选择所需的设置，然后单击&#x200B;**[!UICONTROL 保存更改]**。
 
    ![](assets/email-tracking-link-headers-3.png)
 

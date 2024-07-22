@@ -6,7 +6,7 @@ exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 ## 我可以使用Marketo创建用户吗？ {#can-i-create-an-user-using-marketo}
 
-否. Marketo无法在Dynamics中创建用户。
+不适用。 Marketo无法在Dynamics中创建用户。
 
 ## 哪些字段将同步到Marketo？ {#which-fields-will-sync-to-marketo}
 
-您可以 [选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} 设置期间。 但Marketo将仅同步Dynamics同步用户有权访问的字段。
+您可以[选择要在安装过程中同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}。 但Marketo将仅同步Dynamics同步用户有权访问的字段。

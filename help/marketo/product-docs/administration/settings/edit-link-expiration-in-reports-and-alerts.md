@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,22 +19,22 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 部分。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;部分。
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
-1. 单击 **[!UICONTROL 登录设置]**.
+1. 单击&#x200B;**[!UICONTROL 登录设置]**。
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
-1. 单击 **[!UICONTROL 编辑URL过期]**.
+1. 单击&#x200B;**[!UICONTROL 编辑URL过期]**。
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
-1. 在下拉列表中，选择链接过期前的天数。 单击 **[!UICONTROL 保存]**.
+1. 在下拉列表中，选择链接过期前的天数。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >
->此设置仅适用于报表和警报中的链接。 确实如此 **非** 应用到已发送电子邮件 [下载报告](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 链接或营销电子邮件。
+>此设置仅适用于报表和警报中的链接。 它&#x200B;**不**&#x200B;适用于通过电子邮件发送的[下载报表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message)链接或营销电子邮件。

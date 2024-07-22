@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >您还可以阻止字段更新。 有关详细信息，请参阅阻止字段更新。
 
-1. 在Smart Campaign的流量选项卡中，将 **[!UICONTROL 更改项目群成员数据]** 流程步骤并选择所需的程序。
+1. 在Smart Campaign的“流量”选项卡中，引入&#x200B;**[!UICONTROL 更改项目成员数据]**&#x200B;流量步骤，然后选择所需的项目。
 
    ![](assets/change-program-member-data-1.png)
 
@@ -32,13 +32,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您还可以在中使用令牌 [!UICONTROL 新值].
+>您还可以在[!UICONTROL 新值]中使用令牌。
 
 现在，只需运行Smart Campaign，您就完成了！
 
 >[!TIP]
 >
->如果要清除字段而不是更新它们，可以输入“NULL”（无引号，全部大写）作为 [!UICONTROL 新值].
+>如果要清除字段而不是更新它们，可以输入“NULL”（无引号，全部大写）作为[!UICONTROL 新值]。
 
 >[!MORELIKETHIS]
 >

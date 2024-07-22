@@ -17,23 +17,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必须 [设置Facebook潜在客户广告集成](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>您必须[设置Facebook潜在客户广告集成](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)。
 
-1. 在Facebook功能编辑器中，选择营销活动和广告，然后单击 **编辑**.
+1. 在Facebook超级编辑器中，选择营销活动和广告，然后单击&#x200B;**编辑**。
 
-1. 下 **链接**，单击 **在移动应用程序上查看** 链接。
+1. 在&#x200B;**链接**&#x200B;下，单击&#x200B;**在移动应用程序上查看**&#x200B;链接。
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
-1. 将向您可在具有授权帐户的移动设备上访问的Facebook帐户发送新通知。 单击 **确定**.
+1. 将向您可在具有授权帐户的移动设备上访问的Facebook帐户发送新通知。 单击&#x200B;**确定**。
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. 在移动设备上，点击 **通知** 在Facebook移动设备应用程序中。
+1. 在移动设备上，点按Facebook移动设备应用程序中的&#x200B;**通知**。
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
-1. 在通知中，点按 **您的广告已准备好预览**.
+1. 在通知中，点按&#x200B;**您的广告已准备好预览**。
 
    ![](assets/image2016-3-11-8-3a41-3a59.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >这只是一个使用了解更多行动号召的示例。 您的潜在客户广告单元行动号召可能不同。
 
-1. 这就是魔法发生的地方！ 一旦你提交了表格， [在Marketo中构建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 作为项目的一部分或在使用 **已填写Facebook潜在客户广告表单** 筛选。 插入您刚刚提交的表单的潜在客户广告表单名称。
+1. 这就是魔法发生的地方！ 在提交表单后，作为程序的一部分或使用&#x200B;**填写的Marketo潜在客户广告表单**&#x200B;过滤器的潜在客户数据库的一部分，在Facebook](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中构建智能列表。 [插入您刚刚提交的表单的潜在客户广告表单名称。
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 

@@ -6,7 +6,7 @@ exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -23,27 +23,27 @@ ht-degree: 0%
 
 连接到Outlook意味着您将获得回复跟踪、对Outlook投放渠道的访问权限、在Outlook中计划电子邮件的能力以及发送合规性。
 
-1. 在Sales Connect中，单击齿轮图标并选择 **设置**.
+1. 在Sales Connect中，单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/one.png)
 
-1. 在我的帐户下，选择 **电子邮件设置**.
+1. 在“我的帐户”下，选择&#x200B;**电子邮件设置**。
 
    ![](assets/two.png)
 
-1. 单击 **电子邮件连接** 选项卡。
+1. 单击&#x200B;**电子邮件连接**&#x200B;选项卡。
 
    ![](assets/three.png)
 
-1. 单击 **开始使用**.
+1. 单击&#x200B;**开始**。
 
    ![](assets/four.png)
 
-1. 选择 **我使用Outlook发送电子邮件** 并单击 **下一个**.
+1. 选择&#x200B;**我使用Outlook发送电子邮件**，然后单击&#x200B;**下一步**。
 
    ![](assets/five-a.png)
 
-1. 选择正在使用的Outlook版本，然后单击 **下一个**. 在本例中，我们选择Outlook Online。
+1. 选择您正在使用的Outlook版本，然后单击&#x200B;**下一步**。 在本例中，我们选择Outlook Online。
 
    ![](assets/six-a.png)
 
@@ -64,15 +64,15 @@ ht-degree: 0%
    >
    >Marketo目前不支持Exchange混合帐户。
 
-1. 单击 **确定**.
+1. 单击&#x200B;**确定**。
 
    ![](assets/seven-a.png)
 
-1. 如果您未登录Outlook，请输入您的登录信息，然后单击 **下一个**. 如果是，请选择要连接的帐户，然后单击 **下一个**. 在本例中，我们已登录。
+1. 如果未登录Outlook，请输入登录信息，然后单击&#x200B;**下一步**。 如果是，请选择要连接的帐户，然后单击&#x200B;**下一步**。 在本例中，我们已登录。
 
    ![](assets/eight-a.png)
 
-1. 单击 **Accept**.
+1. 单击&#x200B;**接受**。
 
    ![](assets/nine-a.png)
 
@@ -80,33 +80,33 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Outlook Online (Office365)强制执行其自身的发送限制。 [在此处了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >Outlook Online (Office365)强制执行其自身的发送限制。 [在此了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
 
 ## 连接到Exchange On-Premise {#connecting-to-exchange-on-premise}
 
 连接到Exchange内部部署意味着您将获得回复跟踪、对Outlook投放渠道的访问权限、在Outlook中计划电子邮件的能力以及发送合规性。
 
-1. 在Sales Connect中，单击齿轮图标并选择 **设置**.
+1. 在Sales Connect中，单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/one.png)
 
-1. 在我的帐户下，选择 **电子邮件设置**.
+1. 在“我的帐户”下，选择&#x200B;**电子邮件设置**。
 
    ![](assets/two.png)
 
-1. 单击 **电子邮件连接** 选项卡。
+1. 单击&#x200B;**电子邮件连接**&#x200B;选项卡。
 
    ![](assets/three.png)
 
-1. 单击 **开始使用**.
+1. 单击&#x200B;**开始**。
 
    ![](assets/four.png)
 
-1. 选择 **我使用Outlook发送电子邮件** 并单击 **下一个**.
+1. 选择&#x200B;**我使用Outlook发送电子邮件**，然后单击&#x200B;**下一步**。
 
    ![](assets/five-a.png)
 
-1. 选择正在使用的Outlook版本，然后单击 **下一个**. 在此示例中，我们选择了Exchange On-premise。
+1. 选择您正在使用的Outlook版本，然后单击&#x200B;**下一步**。 在此示例中，我们选择了Exchange On-premise。
 
    ![](assets/six-b.png)
 
@@ -123,7 +123,7 @@ ht-degree: 0%
     </tbody>
    </table>
 
-1. 输入您的凭据，然后单击 **连接**.
+1. 输入您的凭据，然后单击&#x200B;**连接**。
 
    ![](assets/seven-b.png)
 

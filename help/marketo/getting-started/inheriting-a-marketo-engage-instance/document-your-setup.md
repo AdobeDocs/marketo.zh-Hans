@@ -19,7 +19,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">区域</th> 
+   <th style="width:20%">面积图</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -40,7 +40,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">区域</th> 
+   <th style="width:20%">面积图</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 

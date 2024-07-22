@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 如何编辑富文本元素 {#how-to-edit-the-rich-text-element}
 
-1. 查找您的电子邮件，选择它并单击 **编辑草稿**.
+1. 找到您的电子邮件，选择它，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/one-edited.png)
 
-1. 此时将打开电子邮件编辑器。 选择富文本，单击齿轮图标并选择 **编辑**.
+1. 此时将打开电子邮件编辑器。 选择富文本，单击齿轮图标，然后选择&#x200B;**编辑**。
 
    ![](assets/two.png)
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 添加/编辑文本并按 **保存**.
+1. 添加/编辑文本，然后按&#x200B;**保存**。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >您还可以添加图像、令牌、表和其他元素。 请参阅 [使用富文本编辑器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >您还可以添加图像、令牌、表和其他元素。 请参阅[使用富文本编辑器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 单击要编辑的图像元素，然后单击齿轮图标并选择 **编辑**.
+1. 单击要编辑的图像元素，然后单击齿轮图标并选择&#x200B;**编辑**。
 
    ![](assets/six.png)
 
@@ -67,13 +67,13 @@ ht-degree: 0%
    >
    >如果要使用Marketo令牌，请使用此选项。 请记住，使用令牌时，图像在编辑器中将显示为损坏，但将在预览模式和发送示例电子邮件中呈现。
 
-   要使用外部URL，请首先粘贴图像的URL。 根据您的需求更改维度，并添加一些替换文本（可选）。 然后按下 **交换**.
+   要使用外部URL，请首先粘贴图像的URL。 根据您的需求更改维度，并添加一些替换文本（可选）。 然后按&#x200B;**交换**。
 
    ![](assets/eight.png)
 
    **我的电脑**
 
-   要从计算机上传图像，请单击 **浏览**.
+   若要从计算机上传图像，请单击&#x200B;**浏览**。
 
    ![](assets/nine.png)
 
@@ -81,21 +81,21 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-   根据需要更改尺寸，更改Alt文本（可选），然后按 **交换**.
+   根据需要更改尺寸，更改Alt文本（可选），然后按&#x200B;**交换**。
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >如果要替换图像，您需要检查 **覆盖现有图像** 方框。
+   >如果要替换图像，则需要选中图像URL/名称下方显示的&#x200B;**覆盖现有图像**&#x200B;框。
 
-   **Design Studio**
+   **设计工作室**
 
    若要从设计工作室插入图像，只需找到它……
 
    ![](assets/twelve.png)
 
-   ...并插入它。 根据需要更改尺寸，更改Alt文本（可选），然后按 **交换**.
+   ...并插入它。 根据需要更改尺寸，更改Alt文本（可选），然后按&#x200B;**交换**。
 
    ![](assets/thirteen.png)
 
@@ -105,11 +105,11 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. 单击代码片段元素，然后单击齿轮图标并选择 **编辑**.
+1. 单击“代码片段”元素，然后单击齿轮图标，然后选择&#x200B;**编辑**。
 
    ![](assets/fifteen.png)
 
-1. 找到您的代码片段，将其选中，然后单击 **保存**.
+1. 找到您的代码片段，选择它，然后单击&#x200B;**保存**。
 
    ![](assets/sixteen.png)
 
@@ -123,11 +123,11 @@ ht-degree: 0%
 
    ![](assets/nineteen.png)
 
-1. 单击视频元素，然后单击齿轮图标并选择 **编辑**.
+1. 单击“视频”元素，然后单击齿轮图标，然后选择&#x200B;**编辑**。
 
    ![](assets/twenty.png)
 
-1. 将Vimeo或YouTube中的视频URL粘贴。 然后，单击退出URL框以加载预览。 根据需要更改尺寸，添加替换文本（可选），然后按 **插入**.
+1. 将Vimeo或YouTube中的视频URL粘贴。 然后，单击退出URL框以加载预览。 根据需要更改尺寸，添加替换文本（可选），然后按&#x200B;**插入**。
 
    ![](assets/twentyone.png)
 

@@ -15,27 +15,27 @@ ht-degree: 0%
 
 您可以组合多个字段中的值或使用Marketo Engage公式字段构建条件值。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. 单击 **[!UICONTROL 字段管理]**.
+1. 单击&#x200B;**[!UICONTROL 字段管理]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. 单击 **[!UICONTROL 新建自定义字段]**.
+1. 单击&#x200B;**[!UICONTROL 新建自定义字段]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. 选择 **[!UICONTROL 公式]** 对于 **[!UICONTROL 类型]**.
+1. 为&#x200B;**[!UICONTROL Type]**&#x200B;选择&#x200B;**[!UICONTROL 公式]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. 输入 **[!UICONTROL 名称]** （对于您的字段），然后单击 **[!UICONTROL 创建]**.
+1. 为您的字段输入&#x200B;**[!UICONTROL 名称]**，然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. 查找并选择公式字段，然后单击 **[!UICONTROL 编辑规则]**.
+1. 查找并选择公式字段，然后单击&#x200B;**[!UICONTROL 编辑规则]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >了解有关 [流程步骤的令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >了解有关流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的[令牌的更多信息。
 
 1. 现在，您可以在电子邮件中添加公式字段作为令牌。
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->公式字段可用于登陆页面、电子邮件和智能列表列。 包含公式字段的电子邮件可以 _非_ 使用批量营销活动发送。 请使用 [电子邮件脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) 在此方案中。
+>公式字段可用于登陆页面、电子邮件和智能列表列。 带有公式字段的电子邮件&#x200B;_不能_&#x200B;使用批处理营销活动发送。 请在此方案中使用[电子邮件脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)。
 
 做得好！ 现在，你有一个聪明的领域，知道根据性别应该包括什么称谓。 玩得开心，发挥创意。

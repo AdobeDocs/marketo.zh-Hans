@@ -6,7 +6,7 @@ exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1913'
+source-wordcount: '1902'
 ht-degree: 10%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="15"><strong>默认项目群</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>创建</td> 
-   <td>渠道类型“渠道类型”<br>或<br>从“program name”克隆</td> 
+   <td>渠道类型“渠道类型”<br>或<br>克隆自“项目名称”</td> 
   </tr> 
   <tr> 
    <td>重命名</td> 
@@ -40,7 +40,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到工作区“工作区名称” <br>位置“Campaign文件夹”或“参与计划” <br>克隆的程序名称“新名称”</td> 
+   <td>已克隆到工作区“工作区名称”<br>位置“Campaign文件夹”或“参与计划”<br>已克隆的计划名称“新名称”</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -93,7 +93,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="19"><strong>电子邮件</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>创建</td> 
-   <td>使用模板“模板名称”创建 <br>或 <br>从“资产名称”克隆</td> 
+   <td>使用模板“模板名称”<br>或从“资产名称”克隆的<br>创建</td> 
   </tr> 
   <tr> 
    <td>编辑</td> 
@@ -149,11 +149,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到“Design Studio”到文件夹“foldername”中 <br>克隆的资产名称“名称”<br>或<br>已克隆到“营销活动”中的项目“项目名称”<br>克隆的资产名称“名称”</td> 
+   <td>克隆到“Design Studio”到文件夹“foldername”<br>克隆的资产名称“name”<br>或<br>克隆到“营销活动”到程序“程序名称”<br>克隆的资产名称“name”</td> 
   </tr> 
   <tr> 
    <td>移动</td> 
-   <td>已移至“Design Studio”文件夹“文件夹名称”<br>或<br>已移至“营销活动”项目“项目名称”中</td> 
+   <td>已移至“Design Studio”文件夹“文件夹名称”<br>或<br>已移至“营销活动”项目“项目名称”</td> 
   </tr> 
   <tr> 
    <td>审批</td> 
@@ -165,11 +165,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>草稿</td> 
-   <td>之所以起草电子邮件，是因为代码片段“代码片段名称”获得批准<br>或<br>由于模板“模板名称”获得批准，因此起草了电子邮件</td> 
+   <td>起草电子邮件是因为批准了代码片段“代码片段名称”<br>或者<br>起草电子邮件是因为批准了模板“模板名称”</td> 
   </tr> 
    <td rowspan="17">电子邮件程序</td> 
    <td>创建</td> 
-   <td>渠道类型“渠道类型”<br>或<br>从“program name”克隆</td> 
+   <td>渠道类型“渠道类型”<br>或<br>克隆自“项目名称”</td> 
   </tr> 
   <tr> 
    <td colspan="1">重命名</td> 
@@ -177,7 +177,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到工作区“工作区名称” <br>位置“Campaign文件夹或参与计划” <br>克隆的程序名称“新名称”</td> 
+   <td>已克隆到工作区“工作区名称”<br>位置“Campaign文件夹或参与计划”<br>已克隆的计划名称“新名称”</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -258,7 +258,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到“文件夹名称” <br> 克隆的资产名称“名称”</td> 
+   <td>已克隆到“文件夹名称”<br>已克隆资产名称“名称”</td> 
   </tr> 
   <tr> 
    <td>审批</td> 
@@ -271,7 +271,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="23">参与计划</td> 
    <td>创建</td> 
-   <td>渠道类型“渠道类型”<br> 或<br> 从“program name”克隆</td> 
+   <td>渠道类型“渠道类型”<br>或<br>从“项目名称”克隆</td> 
   </tr> 
   <tr> 
    <td>重命名</td> 
@@ -279,7 +279,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到工作区“工作区名称” <br>位置“Campaign文件夹或参与计划” <br>克隆的程序名称“新名称”</td> 
+   <td>已克隆到工作区“工作区名称”<br>位置“Campaign文件夹或参与计划”<br>已克隆的计划名称“新名称”</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -303,7 +303,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>修改程序流</td> 
-   <td>添加内容<br>流名称“流名称”<br>键入“Email”或“Program”<br>名称“电子邮件名称”或“项目名称”<br>智能营销活动“智能营销活动名称”</td> 
+   <td>添加内容<br>流名称“流名称”<br>键入“电子邮件”或“项目”<br>名称“电子邮件名称”或“项目名称”<br>智能促销活动“智能促销活动名称”</td> 
   </tr> 
   <tr> 
    <td>修改程序流</td> 
@@ -311,11 +311,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>修改程序流</td> 
-   <td>取消激活内容<br>流名称“流名称”<br>内容名称“电子邮件名称”或“项目名称”</td> 
+   <td>停用内容<br>流名称“流名称”<br>内容名称“电子邮件名称”或“程序名称”</td> 
   </tr> 
   <tr> 
    <td>修改程序流</td> 
-   <td>删除内容<br>流名称“流名称”<br>内容名称“电子邮件名称”或“项目名称”</td> 
+   <td>删除内容<br>流名称“流名称”<br>内容名称“电子邮件名称”或“程序名称”</td> 
   </tr> 
   <tr> 
    <td>修改程序令牌</td> 
@@ -364,7 +364,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="18">活动计划</td> 
    <td>创建</td> 
-   <td>渠道类型“渠道类型”<br>或<br>从“program name”克隆</td> 
+   <td>渠道类型“渠道类型”<br>或<br>克隆自“项目名称”</td> 
   </tr> 
   <tr> 
    <td>重命名</td> 
@@ -376,7 +376,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到工作区“工作区名称” <br>位置“campaign文件夹”或“参与计划” <br>克隆的程序名称“新名称”</td> 
+   <td>已克隆到工作区“工作区名称”<br>位置“campaign文件夹”或“参与计划”<br>已克隆计划名称“新名称”</td> 
   </tr> 
   <tr> 
    <td>编辑渠道</td> 
@@ -482,11 +482,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到“Design Studio”到文件夹“foldername”中 <br>克隆的资产名称“名称”<br>或<br>已克隆到“营销活动”中的项目“项目名称”<br>克隆的资产名称“名称”</td> 
+   <td>克隆到“Design Studio”到文件夹“foldername”<br>克隆的资产名称“name”<br>或<br>克隆到“营销活动”到程序“程序名称”<br>克隆的资产名称“name”</td> 
   </tr> 
   <tr> 
    <td>移动</td> 
-   <td>已移至“Design Studio”文件夹“文件夹名称”<br>或<br>已移至“营销活动”项目“项目名称”中</td> 
+   <td>已移至“Design Studio”文件夹“文件夹名称”<br>或<br>已移至“营销活动”项目“项目名称”</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -496,7 +496,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="9">登陆页面</td> 
    <td>创建</td> 
-   <td>使用模板“模板名称”创建 <br>或 <br>从“资产名称”克隆</td> 
+   <td>使用模板“模板名称”<br>或从“资产名称”克隆的<br>创建</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -520,11 +520,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到“Design Studio”到文件夹“foldername”中<br>克隆的资产名称“名称”<br>克隆的资产URL "www.url.com"<br>或<br>已克隆到“营销活动”中的项目“项目名称” <br>克隆的资产名称“名称”<br>克隆的资产URL "www.url.com"</td> 
+   <td>克隆到“Design Studio”到文件夹“foldername”<br>克隆的资产名称“name”<br>克隆的资产URL“www.url.com”<br>或<br>克隆到“营销活动”到程序“程序名称”<br>克隆的资产名称“name”<br>克隆的资产URL“www.url.com”</td> 
   </tr> 
   <tr> 
    <td>移动</td> 
-   <td>已移至“Design Studio”文件夹“文件夹名称”<br> 或<br> 已移至“营销活动”项目“项目名称”中</td> 
+   <td>已移至“Design Studio”文件夹“文件夹名称”<br>或<br>已移至“营销活动”项目“项目名称”</td> 
   </tr> 
   <tr> 
    <td>审批</td> 
@@ -541,7 +541,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="8">登陆页面模板</td> 
    <td>创建</td> 
-   <td><p>空白<br>或<br>从“资产名称”克隆</p></td> 
+   <td><p>空白<br>或<br>克隆自“资产名称”</p></td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -557,7 +557,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到“文件夹名称” <br>克隆的资产名称“名称”</td> 
+   <td>已克隆到“文件夹名称”<br>已克隆资产名称“名称”</td> 
   </tr> 
   <tr> 
    <td>导出</td> 
@@ -582,7 +582,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到“人员数据库”的文件夹“foldername”中 <br>克隆的资产名称“名称”<br>或<br>已克隆到“营销活动”中的项目“项目名称”<br>克隆的资产名称“名称”</td> 
+   <td>已克隆到“人员数据库”并放入文件夹“foldername”<br>已克隆资产名称“name”<br>或<br>已克隆到“营销活动”并放入程序“程序名称”<br>已克隆资产名称“name”</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -611,7 +611,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>移动</td> 
-   <td>已移至“计划”中的“计划名称”<br>或<br>已移动到“文件夹”中的文件夹“文件夹名称”</td> 
+   <td>已移至“程序”到程序“程序名称”<br>或<br>已移至“文件夹”到文件夹“文件夹名称”</td> 
   </tr> 
   <tr> 
    <td>重命名</td> 
@@ -627,7 +627,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到“程序”程序“程序名称”中 <br>克隆的资产名称“名称”<br>或<br>已克隆到“文件夹”中的文件夹“文件夹名称”<br>克隆的资产名称“名称”</td> 
+   <td>克隆到“程序”到程序“程序名称”<br>克隆的资产名称“名称”<br>或<br>克隆到“文件夹”到文件夹“文件夹名称”<br>克隆的资产名称“名称”</td> 
   </tr> 
   <tr> 
    <td>修改smartlist设置</td> 
@@ -664,7 +664,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到“人员数据库”的文件夹“foldername”中 <br>克隆的资产名称“名称”<br>或<br>已克隆到“营销活动”中的项目“项目名称” <br>克隆的资产名称“名称”</td> 
+   <td>已克隆到“人员数据库”并放入文件夹“foldername”<br>已克隆资产名称“name”<br>或<br>已克隆到“营销活动”并放入程序“程序名称”<br>已克隆资产名称“name”</td> 
   </tr> 
   <tr> 
    <td>修改smartlist设置</td> 
@@ -673,7 +673,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="11">代码片段</td> 
    <td>创建</td> 
-   <td><p>空白<br>或<br>从“代码片段名称”克隆</p></td> 
+   <td><p>从“代码片段名称”克隆的Blank<br>或<br></p></td> 
   </tr> 
   <tr> 
    <td>编辑</td> 
@@ -701,7 +701,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已克隆到“文件夹名称” <br>克隆的代码片段名称“name”</td> 
+   <td>已克隆到“文件夹名称”<br>已克隆的代码片段名称“名称”</td> 
   </tr> 
   <tr> 
    <td>审批</td> 
@@ -752,9 +752,9 @@ ht-degree: 10%
    <td>密码安全性已更改为模板：标准安全性，最小长度： #，上小写： #，数字： #，大小写混合： #，到期： #，会话超时： #</td> 
   </tr> 
   <tr> 
-   <td rowspan="3">职位<br><br></td> 
+   <td rowspan="3">角色<br><br></td> 
    <td>创建</td> 
-   <td>使用“角色名称”创建的角色（注意：如果您需要有关已添加权限的详细信息，请联系支持人员） —  <br>显示分配给角色的权限快照</td> 
+   <td>使用“角色名称”创建的角色（注意：如果您需要有关所添加权限的详细信息，请联系支持人员） — <br>显示分配给角色的权限快照</td> 
   </tr> 
   <tr> 
    <td>删除</td> 
@@ -762,7 +762,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>编辑</td> 
-   <td>角色已从“之前的名称”编辑为“新名称”（注意：如果您需要有关已编辑权限的详细信息，请联系支持人员） —  <br>显示分配给角色的权限快照<br></td> 
+   <td>角色已从“先前名称”编辑为“新名称”（注意：如果您需要有关已编辑权限的详细信息，请联系支持人员） — <br>显示分配给角色的权限快照<br></td> 
   </tr> 
   <tr> 
    <td>智能列表报告</td> 
@@ -772,7 +772,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="7">用户<br><br><br><br></td> 
    <td>创建（邀请）</td> 
-   <td>邀请的用户：电子邮件“电子邮件地址”、姓名“名字和姓氏”、访问过期时间“空白或带日期”、API用户“true或false” —  <br>显示分配给用户的角色和工作区的快照</td> 
+   <td>邀请的用户：电子邮件“电子邮件地址”，姓名“名字和姓氏”，访问过期时间“空白或带日期”，API用户“true或false” — <br>显示分配给用户的角色和工作区的快照</td> 
   </tr> 
   <tr> 
    <td colspan="1">删除</td> 
@@ -801,7 +801,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="2">工作区</td> 
    <td>创建</td> 
-   <td>以名称“工作区名称”创建的工作区</td> 
+   <td>已使用名称“工作区名称”创建Workspace</td> 
   </tr> 
   <tr> 
    <td>删除</td> 

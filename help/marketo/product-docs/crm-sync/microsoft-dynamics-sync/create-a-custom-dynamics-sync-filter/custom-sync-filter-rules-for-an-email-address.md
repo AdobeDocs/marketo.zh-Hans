@@ -15,10 +15,10 @@ ht-degree: 0%
 
 要防止同步没有电子邮件地址的记录，请遵循这些规则。
 
-* 在创建潜在客户或更新该潜在客户的电子邮件地址字段时，检查该潜在客户是否具有电子邮件地址，如果具有，则将“同步”更改为“Mkto” **[!UICONTROL True]**. 否则更改为 **[!UICONTROL 假]**.
+* 在创建潜在客户或更新潜在客户的电子邮件地址字段时，检查该潜在客户是否有电子邮件地址，如果有，则将“同步到Mkto”更改为&#x200B;**[!UICONTROL True]**。 否则更改为&#x200B;**[!UICONTROL False]**。
 
-* 创建联系人或更新联系人的电子邮件地址字段时，检查联系人是否有电子邮件地址，如果有，则将“同步”更改为“Mkto” **[!UICONTROL True]** 并将同步更改为Mkto **[!UICONTROL True]** 在帐户记录上。 否则，将更改为 **[!UICONTROL 假]**.
+* 创建联系人或更新联系人的电子邮件地址字段时，检查联系人是否有电子邮件地址，如果有，则在帐户记录中将“同步到Mkto”更改为&#x200B;**[!UICONTROL True]**，并将“同步到Mkto”更改为&#x200B;**[!UICONTROL True]**。 否则，将更改为&#x200B;**[!UICONTROL False]**。
 
-* 更新联系人的“公司名称”(parentcustomerid)字段后，检查联系人的“同步到Mkto”字段是否为true。 如果是，则将帐户上的Sync更改为Mkto **[!UICONTROL True]** 另外。
+* 更新联系人的“公司名称”(parentcustomerid)字段后，检查联系人的“同步到Mkto”字段是否为true。 如果是，则将该帐户上的Sync to更改为Mkto也更改为&#x200B;**[!UICONTROL True]**。
 
-* 更新商机的潜在客户(customerid)字段或联系人(parentcontactid)后，检查帐户的“同步到Mkto”字段是否为true，或联系人的“同步到Mkto”字段是否为true。 如果是，则将机会上的同步更改为Mkto **[!UICONTROL True]** 另外。
+* 更新商机的潜在客户(customerid)字段或联系人(parentcontactid)后，检查帐户的“同步到Mkto”字段是否为true，或联系人的“同步到Mkto”字段是否为true。 如果是，则将此机会上的Sync更改为Mkto也更改为&#x200B;**[!UICONTROL True]**。

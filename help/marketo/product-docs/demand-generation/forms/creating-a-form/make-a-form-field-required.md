@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 将表单字段设为必填 {#make-a-form-field-required}
 
-时间 [向表单添加字段](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) 您可能希望填写这些文档的人需要填写其中的几个。 具体方法如下。
+向[表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)添加字段时，您可能希望填写这些字段的人员需要填写其中的一些字段。 具体方法如下。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 选择您的表单并单击 **编辑表单**.
+1. 选择您的表单并单击&#x200B;**编辑表单**。
 
    ![](assets/editform-2.png)
 
@@ -27,16 +27,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. 做得好！ 单击 **完成**.
+1. 做得好！ 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. 单击 **批准并关闭**.
+1. 单击&#x200B;**批准并关闭**。
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->别忘了 [批准任何登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 此表单会保留更改以供启用。
+>不要忘记[批准此表单的所有登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)，以使更改生效。
 
-是否需要 [对添加到表单中的字段重新排序](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)？
+是否需要[对添加到表单中的字段重新排序](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)？

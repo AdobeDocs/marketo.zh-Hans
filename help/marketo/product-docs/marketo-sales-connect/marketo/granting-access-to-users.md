@@ -14,13 +14,13 @@ ht-degree: 0%
 
 按照本文中的步骤授予Sales Connect用户访问Marketo连接的权限。 这将解锁实时信息源中令人感兴趣的时刻等功能以及营销活动的访问权限。
 
-您需要邀请用户加入Sales Connect [此处](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)，然后才会在Marketo >团队访问页面（在Sales Connect中）中显示，其中授予了Marketo连接的访问权限。
+您需要邀请用户访问[此处](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)的Sales Connect，用户才能显示在Marketo > Team Access页面（在Sales Connect中），该页面授予了对Marketo连接的访问权限。
 
 >[!CAUTION]
 >
 >将Sales Connect与Marketo连接后，请等待10分钟再执行这些步骤。
 
-1. 选择一个或多个用户，然后单击 **连接**.
+1. 选择一个或多个用户，然后单击&#x200B;**连接**。
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. 单击工作区下拉列表，选择所需的工作区，然后单击 **连接**.
+1. 单击Workspace下拉列表，选择所需的工作区，然后单击&#x200B;**连接**。
 
    ![](assets/granting-access-to-users-3.png)
 

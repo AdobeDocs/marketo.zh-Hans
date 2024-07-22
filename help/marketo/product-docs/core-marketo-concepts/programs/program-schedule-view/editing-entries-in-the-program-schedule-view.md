@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. 键入新名称并按 **[!UICONTROL 输入/返回]** 确认更改。
+1. 键入新名称，然后按键盘上的&#x200B;**[!UICONTROL Enter/Return]**&#x200B;以确认更改。
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 

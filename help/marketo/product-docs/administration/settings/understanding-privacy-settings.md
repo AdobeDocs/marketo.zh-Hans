@@ -6,7 +6,7 @@ exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -22,21 +22,21 @@ Marketo为营销人员提供获取Web访客同意进行跟踪的方法。 有两
 
 或者，营销人员可以跟踪用户，但使用匿名化的IP。
 
-这些方法可能会影响Marketo在特定区域中的价值和功能。 但是，如果营销人员 _不会_ 更改Marketo配置中的任何内容，Marketo功能保持不变。
+这些方法可能会影响Marketo在特定区域中的价值和功能。 但是，如果营销人员&#x200B;_未_&#x200B;更改Marketo配置中的任何内容，则Marketo功能将保持不变。
 
 ## “不跟踪”的浏览器设置 {#browser-settings-for-do-not-track}
 
 Web访客可以通过选择“不跟踪”(DNT)来设置浏览器，以防止任何网站进行跟踪。 这样可防止跟踪此特定浏览器和设备。 有关完整的详细信息，请参阅浏览器的隐私设置。
 
-在 [!DNL Munchkin]，营销人员可以 [决定是支持还是忽略浏览器的DNT设置](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
+在[!DNL Munchkin]中，营销人员可以[决定是支持还是忽略浏览器的DNT设置](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)。
 
-在Web个性化中，营销人员可以决定是否要 [支持或忽略浏览器的DNT设置](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
+在Web Personalization中，营销人员可以决定是[支持还是忽略浏览器的DNT设置](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)。
 
 ## 从特定网站选择退出 {#opt-out-from-a-specific-website}
 
-您还可以允许网站访客选择退出对您网站的网站跟踪，无论是否退出 **浏览器不跟踪** 设置已配置。 这允许网站访客直接从您的网站指定其跟踪偏好设置。
+您还可以允许网站访客从您的网站选择退出网站跟踪，无论是否配置了&#x200B;**浏览器不跟踪**&#x200B;设置。 这允许网站访客直接从您的网站指定其跟踪偏好设置。
 
-要实现此目的，您必须在具有以下特征的网页上向选择退出链接添加参数 [!DNL Munchkin] 已启用跟踪。 这可以是任何网页，但网页链接必须包含以下参数：
+为此，必须在启用[!DNL Munchkin]跟踪的网页上向选择退出链接添加参数。 这可以是任何网页，但网页链接必须包含以下参数：
 
 ？marketo_opt_out=true
 
@@ -50,15 +50,15 @@ Web访客可以通过选择“不跟踪”(DNT)来设置浏览器，以防止任
 
 ![](assets/understanding-privacy-settings-2.png)
 
-在单击该链接时，Marketo会添加一个名为的Cookie **mkto_opt_out** 访问访客的禁用浏览器 [!DNL Munchkin] 跟踪使用上述参数单击链接的网站访客。
+单击该链接时，Marketo会向访客的浏览器添加一个名为&#x200B;**mkto_opt_out**&#x200B;的Cookie，以禁用对使用上述参数单击该链接的网站访客的[!DNL Munchkin]跟踪。
 
-要验证是否可以植入Cookie，请确认您是Cookie潜在客户，然后单击链接。 然后，检查浏览器Cookie以验证 **mkto_opt_out** 已添加Cookie。
+要验证是否可以植入Cookie，请确认您是Cookie潜在客户，然后单击链接。 然后，检查浏览器Cookie以验证是否已添加&#x200B;**mkto_opt_out** Cookie。
 
 ![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >
->目前仅适用于 [!DNL Munchkin] 版本152及更高版本。
+>这当前仅适用于[!DNL Munchkin]版本152及更高版本。
 
 ## 选择启用 {#opt-in}
 
@@ -66,14 +66,14 @@ Web访客可以通过选择“不跟踪”(DNT)来设置浏览器，以防止任
 
 ## 使用匿名化IP进行跟踪 {#tracking-using-an-anonymized-ip}
 
-营销人员可以通过使用匿名处理的IP地址跟踪用户来维护隐私。 为此，请将此代码添加到RTP或 [!DNL Munchkin] 嵌入到网站中的Javascript。
+营销人员可以通过使用匿名处理的IP地址跟踪用户来维护隐私。 为此，请将此代码添加到嵌入到网站中的RTP或[!DNL Munchkin] Javascript中。
 
-* 对象 [!DNL Munchkin]，只需将{&quot;anonymizeIP&quot;，true}添加到init函数中。
+* 对于[!DNL Munchkin]，只需将{&quot;anonymizeIP&quot;，true}添加到init函数中。
 
   >[!NOTE]
   >
-  >使用此参数需要 [!DNL Munchkin] V2已启用。 要为您的订阅启用它，请联系 [Marketo支持](https://nation.marketo.com/community/support_solutions).
+  >使用此参数需要启用[!DNL Munchkin] V2。 要为您的订阅启用此功能，请联系[Marketo支持](https://nation.marketo.com/community/support_solutions)。
 
-* 对于Web个性化(RTP)，请将其添加到Javascript：
+* 对于Web Personalization (RTP)，请将其添加到Javascript：
 
 `anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`

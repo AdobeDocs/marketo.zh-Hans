@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/set-a-fallback-page-1.png)
 
-1. 单击 **[!UICONTROL 登陆页面]**.
+1. 单击&#x200B;**[!UICONTROL 登陆页面]**。
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. 在 **[!UICONTROL 登陆页面]** 选项卡，单击 **[!UICONTROL 编辑]**.
+1. 在&#x200B;**[!UICONTROL 登录页面]**&#x200B;选项卡下，单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/set-a-fallback-page-3.png)
 
-1. 输入 **[!UICONTROL 回退页]** 在对话框中，然后单击 **[!UICONTROL 保存]**.
+1. 在对话框中输入&#x200B;**[!UICONTROL 回退页]**，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/set-a-fallback-page-4.png)
 

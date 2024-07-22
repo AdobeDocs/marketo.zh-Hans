@@ -15,11 +15,11 @@ ht-degree: 0%
 
 正在查找您上传的图像或文件的网址(URL)？
 
-1. 转到 **[!UICONTROL Design Studio]**.
+1. 转到&#x200B;**[!UICONTROL 设计工作室]**。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. 单击 **[!UICONTROL 图像和文件]**.
+1. 单击&#x200B;**[!UICONTROL 图像和文件]**。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
@@ -27,10 +27,10 @@ ht-degree: 0%
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-1. 此 **[!UICONTROL URL]** 将显示在详细信息页面上。
+1. **[!UICONTROL URL]**&#x200B;显示在详细信息页面上。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[替换上传的图像或文件](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>[替换上载的图像或文件](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

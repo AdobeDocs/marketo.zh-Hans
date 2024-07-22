@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 使用电子邮件程序仪表板 — A/B测试视图 {#use-the-email-program-dashboard-a-b-test-view}
 
-了解您的 [电子邮件程序A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 正在使用此功能板执行。
+查看您的[电子邮件计划A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)如何使用此仪表板。
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ![](assets/image2014-9-12-16-3a16-3a2.png)
 
-## 单击次数 {#clicks}
+## 点击次数 {#clicks}
 
 在这里，您可以看到每个变体具有的点击量。
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
 ![](assets/image2014-9-12-16-3a16-3a36.png)
 
-## 概要 {#summary}
+## 摘要 {#summary}
 
 在这里，您可以按变体查看点击和取消订阅的细分，以便轻松进行比较。
 
@@ -45,4 +45,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[使用电子邮件程序仪表板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>[使用电子邮件计划仪表板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

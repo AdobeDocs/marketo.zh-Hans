@@ -7,7 +7,7 @@ feature: Partitions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,21 +25,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->只有在Marketo中通过CRM和SOAP API创建的人员才会应用分配规则。
+>只有在Marketo中通过SOAP API从CRM创建的人员才会应用分配规则。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. 单击 **[!UICONTROL 工作区和分区]**.
+1. 单击&#x200B;**[!UICONTROL 工作区和分区]**。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. 在 **[!UICONTROL 人员分区]** 选项卡，单击 **[!UICONTROL 分配规则]**.
+1. 在&#x200B;**[!UICONTROL 人员分区]**&#x200B;选项卡下，单击&#x200B;**[!UICONTROL 分配规则]**。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. 单击 **[!UICONTROL 添加选项]** 添加将人员路由到人员分区的条件。
+1. 单击&#x200B;**[!UICONTROL 添加选择]**&#x200B;可添加将人员路由到人员分区的条件。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >您可以添加任意多个选项。
 
-1. 单击 **[!UICONTROL 保存]**.
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

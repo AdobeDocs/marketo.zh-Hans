@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以为移动设备应用程序Smart Campaign设置触发器和过滤器。
 
-对于大多数活动，都有一个触发器、一个过滤器和一个非活动状态过滤器。 使用非活动过滤器跟踪具有以下特征的操作，例如点击推送通知 _没有_ 发生。
+对于大多数活动，都有一个触发器、一个过滤器和一个非活动状态过滤器。 使用非活动筛选器跟踪未发生&#x200B;_的操作，例如点击推送通知。_
 
 * 已安装移动设备应用程序
 * 移动设备应用程序已打开
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 * 应用程序版本 — 一种定位未使用最新版本的用户的方法。 例如，如果最新的应用程序版本为2.0，则可以使用该版本查找未在应用程序版本2.0上运行的人员
 
-* 安装源 — 目前，唯一的选项是API
+* 安装Source — 当前，唯一选项是API
 
 * 区域设置 — 设备上的设置
 
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 * 会话时长（秒） — 应用程序处于前台时的会话时间
 
-* 是否启用推送 —  **True** 意味着可以发送推送通知。 **假** 这意味着他们无法；例如，用户可能选择不接收推送通知
+* 是否启用推送 — **True**&#x200B;表示可以发送推送通知。 **False**&#x200B;表示他们无法接收推送通知；例如，用户可能选择不接收推送通知
 
 ## 触发器和过滤器 {#triggers-and-filters}
 
-**具有移动设备应用程序**
+**具有移动应用**
 
 使用此过滤器查找曾安装过您的应用程序的所有人员。 这仅作为过滤器提供。
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 >
 >由于Marketo不会跟踪应用程序的卸载情况，因此过滤器会找到当前安装次数和以前安装次数。
 
-**约束**  — 设备类型、平台、移动应用程序、移动应用程序版本、设备类型、安装源、已启用推送以及区域设置
+**约束** — 设备类型、平台、移动应用程序、移动应用程序版本、设备类型、安装Source、启用推送以及区域设置
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 * 未安装移动设备应用程序 — 非活动状态过滤器
 
-**约束**  — 设备类型、平台、应用程序版本、区域设置和安装源
+**约束** — 设备类型、平台、应用程序版本、区域设置和安装Source
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -97,13 +97,13 @@ ht-degree: 0%
 
 * 未打开移动设备应用程序 — 非活动状态过滤器
 
-**约束**  — 设备类型和平台
+**约束** — 设备类型和平台
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 具有/曾经具有移动设备应用程序活动
 
-这提供了一种强大的方法来跟踪自定义移动活动。 您需要与开发人员合作才能设置跟踪 [适用于Android的](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} 和 [适用于iOS的](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+这提供了一种强大的方法来跟踪自定义移动活动。 您需要与开发人员合作，为Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}设置跟踪[，为iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}设置[。
 
 * 具有移动设备应用程序活动 — 触发器
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 * 没有移动设备应用程序活动 — 非活动过滤器
 
-**约束**  — 设备类型、平台、移动设备应用程序版本、区域设置、平台版本以及五个其他项：
+**约束** — 设备类型、平台、移动应用程序版本、区域设置、平台版本以及五个其他限制：
 
 * 操作 — 自定义移动活动
 
@@ -129,7 +129,7 @@ ht-degree: 0%
 >
 >**示例**
 >
->在操作类型下 *购物*，这是一个非常具体的操作，其他限制条件定义了该操作：
+>在&#x200B;*Shopping*&#x200B;的操作类型下，以下是一个非常具体的操作，其他约束定义了该操作：
 >
 >* 买了一件衬衫
 >   * 是红色的
@@ -152,7 +152,7 @@ ht-degree: 0%
 >| 操作详细信息 | 颜色 | 颜色 |
 >| 操作量度 | 价格 | 价格 |
 
-**具有/曾具有移动设备应用程序会话**
+**已/有移动应用会话**
 
 * 具有移动应用程序会话 — 触发器
 
@@ -160,7 +160,7 @@ ht-degree: 0%
 
 * 没有移动应用程序会话 — 非活动过滤器
 
-**约束**  — 设备类型、平台和会话长度（秒）
+**约束** — 设备类型、平台和会话长度（秒）
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -172,7 +172,7 @@ ht-degree: 0%
 
 * 未点击推送通知 — 非活动过滤器
 
-**约束**  — 设备类型、平台、移动应用程序版本、推送通知和平台版本
+**约束** — 设备类型、平台、移动应用程序版本、推送通知和平台版本
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -180,13 +180,13 @@ ht-degree: 0%
 >
 >使用未点击推送通知不活动过滤器查找最近发送给他们的未点击推送通知的用户，以便您可以通过电子邮件进行跟踪。
 
-**已发送推送通知** 此活动只能作为过滤器使用。
+**已发送推送通知**&#x200B;此活动仅可作为过滤器使用。
 
 * 已发送推送通知 — 过滤器
 
 * 未发送推送通知 — 非活动过滤器
 
-**约束**  — 推送通知和移动应用程序
+**约束** — 推送通知和移动应用
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 

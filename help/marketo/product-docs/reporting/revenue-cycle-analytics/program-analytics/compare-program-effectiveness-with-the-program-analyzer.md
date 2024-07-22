@@ -6,7 +6,7 @@ exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[创建程序分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. 单击 **分析**.
+1. 单击&#x200B;**分析**。
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >将程序过滤到某个渠道的快速方法是选择 **视图** > **按渠道**，单击该渠道的泡泡，然后在弹出对话框中单击渠道名称。
+   >将程序筛选为仅包含一个渠道的快速方法是选择&#x200B;**查看** > **按渠道**，单击该渠道的气泡，然后在弹出对话框中单击渠道名称。
 
 1. 使用X轴下拉菜单选择水平轴的量度。 我们将从计划成本开始。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以尝试通过从线性缩放更改为对数缩放来改善视图，反之亦然。 使用 **缩放** 菜单。
+   >您也可以尝试通过从线性缩放更改为对数缩放来改善视图，反之亦然。 使用顶部的&#x200B;**缩放**&#x200B;菜单。
 
 1. 浏览生成的图表。
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解 [ft和MT归因之间的差异](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解FT和MT归因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之间的[差异很重要。
 
 1. 观看图表中的气泡变化大小。
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   通过添加 **(FT)已获得的收入**，我们很快看到，虽然折纸世博会获得了许多新名字，但收入却相对较少。 此外，我们看到Paper Fest 12计划越来越少，但名字越来越好，因为它会影响赢得的更多收入（更大的泡沫）。
+   通过添加&#x200B;**(FT) Revenue Won**，我们很快发现，尽管Origami Expo获得了许多新名称，但产生的收入相对较少。 此外，我们看到Paper Fest 12计划越来越少，但名字越来越好，因为它会影响赢得的更多收入（更大的泡沫）。
 
 1. 使用颜色下拉菜单添加第四个量度。 我们将了解(FT)收入与投资。
 
@@ -87,9 +87,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以快速将一个渠道中的项目与另一个渠道中的项目进行比较。 只需使用 **渠道筛选器** 以添加更多渠道。
+>您可以快速将一个渠道中的项目与另一个渠道中的项目进行比较。 只需使用窗口顶部的&#x200B;**渠道筛选器**&#x200B;添加更多渠道即可。
 
 >[!MORELIKETHIS]
 >
 >* [使用计划分析器浏览计划和渠道详细信息](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [使用项目分析器比较渠道有效性](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [与项目分析器比较渠道有效性](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

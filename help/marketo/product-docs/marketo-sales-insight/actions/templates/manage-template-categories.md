@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ## 创建类别 {#create-a-category}
 
-1. 单击 **模板** 选项卡。
+1. 单击&#x200B;**模板**&#x200B;选项卡。
 
    ![](assets/manage-template-categories-1.png)
 
-1. 单击 **+** 图标旁边 **类别**.
+1. 单击&#x200B;**类别**&#x200B;旁边的&#x200B;**+**&#x200B;图标。
 
    ![](assets/manage-template-categories-2.png)
 
-1. 输入新类别的名称，然后单击 **创建**.
+1. 输入新类别的名称，然后单击&#x200B;**创建**。
 
    ![](assets/manage-template-categories-3.png)
 
 ## 重命名模板类别 {#rename-a-template-category}
 
-1. 单击 **模板** 选项卡。
+1. 单击&#x200B;**模板**&#x200B;选项卡。
 
    ![](assets/manage-template-categories-4.png)
 
-1. 将鼠标悬停在要重命名的模板上，然后单击圆点（三个圆点）。 选择 **重命名**.
+1. 将鼠标悬停在要重命名的模板上，然后单击圆点（三个圆点）。 选择&#x200B;**重命名**。
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## 删除模板类别 {#delete-a-template-category}
 
-1. 单击 **模板** 选项卡。
+1. 单击&#x200B;**模板**&#x200B;选项卡。
 
    ![](assets/manage-template-categories-7.png)
 
-1. 将鼠标悬停在要重命名的模板上，然后单击圆点（三个圆点）。 选择 **删除**.
+1. 将鼠标悬停在要重命名的模板上，然后单击圆点（三个圆点）。 选择&#x200B;**删除**。
 
    ![](assets/manage-template-categories-8.png)
 
-1. 单击 **删除** 以确认。
+1. 单击&#x200B;**删除**&#x200B;以确认。
 
    ![](assets/manage-template-categories-9.png)
 

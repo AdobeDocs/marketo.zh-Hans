@@ -16,23 +16,23 @@ ht-degree: 0%
 
 ## 手动添加问题 {#manually-add-a-question}
 
-1. 在“生成AI”下，单击 **[!UICONTROL 辅助响应]**.
+1. 在“生成AI”下，单击&#x200B;**[!UICONTROL 辅助响应]**。
 
    ![](assets/response-library-1.png)
 
-1. 单击 **[!UICONTROL 响应库]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL 响应库]**&#x200B;选项卡。
 
    ![](assets/response-library-2.png)
 
-1. 单击 **[!UICONTROL 添加问题]**.
+1. 单击&#x200B;**[!UICONTROL 添加问题]**。
 
    ![](assets/response-library-3.png)
 
-1. 输入您的问题和回答。 分配主题并添加用户可与访客共享的可选URL。 单击 **[!UICONTROL 保存]** 完成时。
+1. 输入您的问题和回答。 分配主题并添加用户可与访客共享的可选URL。 完成后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/response-library-4.png)
 
-1. 单击刷新，您的新问题将出现在顶部，其状态为&quot;[!UICONTROL 正在处理]“
+1. 单击刷新，您的新问题将显示在顶部，状态为“[!UICONTROL 正在处理]”。
 
    ![](assets/response-library-5.png)
 
@@ -44,13 +44,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->所有生成的问题和响应都将被分配“[!UICONTROL 需要审核]默认情况下，“状态。 仅限&quot;[!UICONTROL 已批准]”问题和响应可供聊天访客使用。
+>默认情况下，所有生成的问题和响应都分配有&quot;[!UICONTROL 需要审阅]&quot;状态。 仅向聊天访客提供“[!UICONTROL 已批准]”的问题和回复。
 
-1. 在 **[!UICONTROL 响应库]**，单击所需的问题。
+1. 在&#x200B;**[!UICONTROL 响应库]**&#x200B;中，单击所需的问题。
 
    ![](assets/response-library-7.png)
 
-1. 进行编辑并单击 **[!UICONTROL 保存]**.
+1. 进行编辑并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/response-library-8.png)
 
@@ -85,11 +85,11 @@ ht-degree: 0%
 </tbody>
 </table>
 
-1. 在文件中完成编辑后，返回到 **[!UICONTROL 响应库]** 选项卡，然后单击 **[!UICONTROL 上载响应]**.
+1. 在文件中完成编辑后，返回&#x200B;**[!UICONTROL 响应库]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 上载响应]**。
 
    ![](assets/response-library-9.png)
 
-1. 输入适用的任务名称。 拖放文件，或浏览到设备上并选择该文件。 单击 **[!UICONTROL 保存]** 完成时。
+1. 输入适用的任务名称。 拖放文件，或浏览到设备上并选择该文件。 完成后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/response-library-10.png)
 

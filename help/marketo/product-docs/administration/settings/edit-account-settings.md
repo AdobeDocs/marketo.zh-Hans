@@ -19,18 +19,18 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/edit-account-settings-1.png)
 
-1. 选择 **[!UICONTROL 我的帐户]**.
+1. 选择&#x200B;**[!UICONTROL 我的帐户]**。
 
    ![](assets/edit-account-settings-2.png)
 
-1. 选择 **[!UICONTROL 编辑帐户设置]**.
+1. 选择&#x200B;**[!UICONTROL 编辑帐户设置]**。
 
    ![](assets/edit-account-settings-3.png)
 
-1. 进行编辑并单击 **[!UICONTROL 保存]**.
+1. 进行编辑并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/edit-account-settings-4.png)

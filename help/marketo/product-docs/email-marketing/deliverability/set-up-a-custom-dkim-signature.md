@@ -21,7 +21,7 @@ ht-degree: 0%
 
 您可以个性化DKIM签名以反映您选择的域。 具体方法如下。
 
-1. 转到 **管理员** 部分。
+1. 转到&#x200B;**管理员**&#x200B;部分。
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -29,15 +29,15 @@ ht-degree: 0%
    >
    >如果您以传统方式设置自定义DKIM签名，它将继续工作，并且应该在此处显示。
 
-1. 单击 **电子邮件**.
+1. 单击&#x200B;**电子邮件**。
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. 单击 **SPF/DKIM** 选项卡，然后 **添加域**.
+1. 单击&#x200B;**SPF/DKIM**&#x200B;选项卡，然后单击&#x200B;**添加域**。
 
    ![](assets/set-up-a-custom-dkim-signature-3.png)
 
-1. 输入将在Marketo电子邮件中使用的域作为发件人地址。 选择一个选择器和一个密钥大小。 单击 **添加** 完成时。
+1. 输入将在Marketo电子邮件中使用的域作为发件人地址。 选择一个选择器和一个密钥大小。 完成后单击&#x200B;**添加**。
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
@@ -66,11 +66,11 @@ ht-degree: 0%
    >
    >请注意，执行此操作时，在您的新记录发布并通过我们的系统验证之前，不会为您的域签署DKIM。 相应地规划您的更改，因为新的DKIM记录可能需要24到48小时才能在互联网上完全传播。
 
-1. 发送 **主机记录** 和 **TXT值** 到你的IT。 要求他们为您创建记录，并确保该记录传播到与来自域关联的所有名称服务器。 Marketo的DKIM验证要求将DKIM密钥传播到与DKIM签名的域关联的所有名称服务器。
+1. 将&#x200B;**主机记录**&#x200B;和&#x200B;**TXT值**&#x200B;发送到您的IT。 要求他们为您创建记录，并确保该记录传播到与来自域关联的所有名称服务器。 Marketo的DKIM验证要求将DKIM密钥传播到与DKIM签名的域关联的所有名称服务器。
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. 确认创建了记录后，请返回Marketo并选择您的域，然后单击 **检查DNS**.
+1. 确认创建记录后，返回Marketo，选择您的域，然后单击&#x200B;**检查DNS**。
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 

@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >为了更便于找到所需的营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >若要更轻松地找到所需的营销活动，请使用[筛选器功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 1. 选择要使用标签标记的营销活动。
 

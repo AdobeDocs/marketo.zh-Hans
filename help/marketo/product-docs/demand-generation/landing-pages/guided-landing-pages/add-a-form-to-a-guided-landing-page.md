@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[创建引导式登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. 转到 **营销活动** 区域。
+1. 转到&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/one.png)
 
-1. 查找并选择您的登陆页面，然后单击 **编辑草稿**.
+1. 查找并选择您的登陆页面，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >引导式登陆页面中的可用元素由模板定义。 如果在元素面板中看不到表单，请选择新模板或与模板创建者交谈。
 
-1. 双击 **表单** 在元素面板中。
+1. 双击元素面板中的&#x200B;**表单**。
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
    >
    >跟进页面是用户提交表单后看到的页面。
 
-1. 在本例中，我们将使用“定义的表单”。 单击 **插入**.
+1. 在本例中，我们将使用“定义的表单”。 单击&#x200B;**插入**。
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -57,4 +57,4 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-现在，只需关闭登陆页面编辑器并 [批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+现在，只需关闭登陆页面编辑器并[批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **电子邮件模板选取器**
 
-创建新电子邮件时，您会转到 [电子邮件模板选取器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+创建新电子邮件时，您会进入[电子邮件模板选取器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)。
 
 ![](assets/email-editor-v2-overview-1.png)
 
@@ -27,21 +27,21 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-2.png)
 
-**模块**
+**个模块**
 
-编辑器右侧的这些内容称为模块。 了解如何 [将模块添加到电子邮件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+编辑器右侧的这些内容称为模块。 了解如何[将模块添加到电子邮件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)。
 
 ![](assets/email-editor-v2-overview-3.png)
 
 **文本版本**
 
-现在，在电子邮件的HTML版本和文本版本之间切换时，位于底部的方便选项卡中。 了解如何 [编辑电子邮件的文本版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+现在，在电子邮件的HTML版本和文本版本之间切换时，位于底部的方便选项卡中。 了解如何[编辑电子邮件的文本版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)。
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**电子邮件标题**
+**电子邮件标头**
 
-需要更多设计空间吗？ 完成后，可以隐藏电子邮件标题 [编辑它](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). 只需单击此图标……
+需要更多设计空间吗？ 电子邮件标头在您完成[编辑后](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)可以隐藏。 只需单击此图标……
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-8.png)
 
-要获得更大的预览，请单击 **预览** 在电子邮件的右上角。
+若要查看更大的预览，请单击电子邮件右上角的&#x200B;**预览**。
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...但是您还可以看到它在移动设备上的外观。 您还可以预览文本版本！ 只需单击 **编辑草稿** 以继续编辑。
+...但是您还可以看到它在移动设备上的外观。 您还可以预览文本版本！ 只需单击右上角的&#x200B;**编辑草稿**&#x200B;即可继续编辑。
 
 ![](assets/email-editor-v2-overview-11.png)
 
 **电子邮件操作**
 
-下 **电子邮件操作**，您会注意到一些新增功能。 **上传图像或文件**、和 **从Web获取图像**. 您还可以将电子邮件本身另存为新电子邮件模板。 你只要给它一个名字和一个目的地。
+在&#x200B;**电子邮件操作**&#x200B;下，您将注意到一些新功能。 **上载图像或文件**，并&#x200B;**从Web获取图像**。 您还可以将电子邮件本身另存为新电子邮件模板。 你只要给它一个名字和一个目的地。
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,9 +83,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**[从Web获取图像](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** 就像在Design Studio中一样。
+>**[从Web获取图像](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**&#x200B;的工作方式与在Design Studio中一样。
 
-**禁用打开跟踪** 下 **电子邮件设置**&#x200B;中，您可以根据需要禁用打开跟踪。
+在&#x200B;**电子邮件设置**&#x200B;下&#x200B;**禁用打开跟踪**，您可以根据需要禁用打开跟踪。
 
 ![](assets/email-editor-v2-overview-13.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您想更深入地进行研究，请查看以下内容 [视频](https://nation.marketo.com/videos/1463).
+>如果您想更深入地进行研究，请查看此[视频](https://nation.marketo.com/videos/1463)。
 
 >[!MORELIKETHIS]
 >

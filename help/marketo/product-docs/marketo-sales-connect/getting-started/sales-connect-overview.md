@@ -21,13 +21,13 @@ Marketo Sales Connect是一个多方面的销售支持解决方案，具有多�
 
 ## 实时信息源 {#the-live-feed}
 
-销售代表可以查看 [实时参与](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) 营销和销售内容。
+销售代表可以查看营销和销售内容的[实时参与](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)。
 
 ![](assets/engagement.jpg)
 
 ## 人员详细信息视图 {#person-detail-view}
 
-访问 [详细人员统计信息](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+访问[详细的人员统计信息](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)。
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -61,7 +61,7 @@ Marketo Sales Connect是一个多方面的销售支持解决方案，具有多�
   </tr> 
   <tr> 
    <td colspan="1"><p>接听销售电话</p></td> 
-   <td colspan="1"><p>潜在客户收到销售人员的电话时，使用 <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">销售电话</a>.</p></td> 
+   <td colspan="1"><p>商机已收到销售人员使用<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">销售电话</a>打来的电话。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>添加到销售活动</p></td> 
@@ -80,7 +80,7 @@ Marketo Sales Connect是一个多方面的销售支持解决方案，具有多�
 
 ## 共享营销活动 {#share-marketing-campaigns}
 
-创建一个简单的智能营销活动，让您的销售用户能够访问 [Marketo促销活动数据](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+创建一个简单的智能促销活动，让您的销售用户能够访问[Marketo促销活动数据](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)。
 
 ![](assets/campaign-is-requested.jpg)
 

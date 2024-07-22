@@ -15,15 +15,15 @@ ht-degree: 0%
 
 了解如何搜索图像或文件。
 
-1. 转到 **[!UICONTROL Design Studio]**.
+1. 转到&#x200B;**[!UICONTROL 设计工作室]**。
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. 单击 **[!UICONTROL 图像和文件]** 以获取所有已上传文件的完整列表。
+1. 单击&#x200B;**[!UICONTROL 图像和文件]**&#x200B;以获取所有已上载文件的完整列表。
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
-1. 在“搜索”框中，键入文件以开头的词并点击 **输入**.
+1. 在“搜索”框中，键入文件以开头的词并按&#x200B;**Enter**。
 
    ![](assets/search-uploaded-images-and-files-3.png)
 
@@ -33,5 +33,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [替换上传的图像或文件](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
->* [使用文件夹组织图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
+>* [替换上载的图像或文件](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [使用文件夹组织您的图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

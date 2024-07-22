@@ -6,7 +6,7 @@ exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 计划机会分析归因措施（蓝点） {#program-opportunity-analysis-attribution-measures-blue-dots}
 
-可用于分析的测量通常为数字，并以蓝点表示。 Dimension是给出度量不同视图的属性，由黄点表示。
+可用于分析的度量通常为数字，由蓝点表示。 Dimension是给出度量不同视图的属性，由黄点表示。
 
 所有指标（蓝点）均与归因相关，即商机收购或与商机相关的销售成功的“点数”。
 
@@ -100,11 +100,11 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-_&#42;(FT) =首次接触归因，用于商机获取衡量；(MT) =多点接触归因，用于商机成功衡量_
+_&#42;(FT) =首次接触归因，用于潜在客户获取衡量；(MT) =多点接触归因，用于潜在客户成功衡量_
 
 以下方案描述了当有两个项目生成了销售线索，但这些销售线索从同一帐户生成了一个Opportunity时，如何计算Opportunity Units。
 
-**方案1**
+**项目1**
 
 * 生成一个潜在客户：潜在客户1
 * 潜在客户1来自帐户1
@@ -169,15 +169,15 @@ Marketo会适当地提供点数，而不会在项目间重复计算机会。 因
   </tr> 
   <tr> 
    <td>机会属性</td> 
-   <td>机会已关闭<br>机会名称*<br>机会所有者名称<br>机会阶段<br>机会类型</td> 
+   <td>商机已结束<br>商机名称*<br>商机所有者名称<br>商机阶段<br>商机类型</td> 
   </tr> 
   <tr> 
    <td>机会时间范围</td> 
-   <td>Opportunity Closed Year/Quarter/Month<br>Opportunity创建年份/季度/月</td> 
+   <td>Opportunity Closed Year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</td> 
   </tr> 
   <tr> 
    <td>项目群属性</td> 
-   <td>项目频道<br>项目名称</td> 
+   <td>节目频道<br>节目名称</td> 
   </tr> 
   <tr> 
    <td>项目成本时间范围</td> 
@@ -186,8 +186,8 @@ Marketo会适当地提供点数，而不会在项目间重复计算机会。 因
  </tbody> 
 </table>
 
-*&#42;将任何类型的归因点数提供给项目的所有机会。 机会可能受一个或多个潜在客户以及一个或多个项目的影响。*
+*&#42;所有将任何类型的归因点数提供给项目的机会。 机会可能受一个或多个潜在客户以及一个或多个项目的影响。*
 
 >[!MORELIKETHIS]
 >
->[创建收入浏览器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[创建收入资源管理器报告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

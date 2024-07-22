@@ -5,7 +5,7 @@ exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/recommended-templates-2.png)
 
-1. 在“推荐的模板”信息卡中，单击 **编辑**.
+1. 在“推荐的模板”卡片中，单击&#x200B;**编辑**。
 
    ![](assets/recommended-templates-3.png)
 
-1. 选择 **制作建议的模板** 复选框，然后单击 **保存**.
+1. 选中“**创建建议的模板**”复选框，然后单击“**保存**”。
 
    ![](assets/recommended-templates-4.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## 全部与任何 {#all-vs-any}
 
-选择 **全部** 是否希望在满足所有条件时推荐您的模板。 选择 **任何** 是否希望在满足任意标准时推荐您的模板。
+如果希望在满足所有条件时推荐您的模板，请选择&#x200B;**全部**。 如果希望在满足任意一个条件时推荐您的模板，请选择&#x200B;**任意**。
 
 ## 设置标准 {#setting-criteria}
 
@@ -46,13 +46,13 @@ ht-degree: 0%
 
 现在，选择您的条件。 当满足您的动态字段条件时，将推荐该模板。 从4个不同的条件中进行选择。
 
-**等于**：值必须是完全匹配的(例如，Marketo等于Marketo)
+**等于**：值必须为完全匹配(例如，Marketo等于Marketo)
 
-**不等于**：值必须为除精确匹配项之外的任何内容（例如，“营销国家/地区”不等于“营销”）
+**不等于**：值必须为完全匹配之外的任何值（例如，“营销国家/地区”不等于“营销”）
 
-**包含**：只需要包含值(例如Marketo Rocks！ 包含Marketo)
+**Contains**：只需要包含值(例如，Marketo Rocks！ 包含Marketo)
 
-**不包含**：值不得位于动态字段中(例如，Marketo Rocks！ 不包含“棒极了”)
+**Does Not Contain**：该值不能位于动态字段中(如Marketo Rocks！ 不包含“棒极了”)
 
 ## 推荐的模板的外观 {#what-a-recommended-template-looks-like}
 

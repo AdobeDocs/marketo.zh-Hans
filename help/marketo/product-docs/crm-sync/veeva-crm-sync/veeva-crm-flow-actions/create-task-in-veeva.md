@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->当Marketo同步用户创建任务时， **到期时间** 是在Veeva中创建的任务的必填字段。 如果没有值，Marketo将默认输入5天。
+>当Marketo同步用户创建任务时，**在**&#x200B;中到期是将在Veeva中创建的任务的必填字段。 如果没有值，Marketo将默认输入5天。
 
 默认情况下，流程步骤将如下所示：
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以使用 `{{lead.tokens}}`， `{{company.tokens}}`， `{{campaign.tokens}}` 和 `{{system.tokens}}` 在“主题和描述”中。 请参阅 [流程步骤的令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} 以了解更多详细信息。
+>您可以在主题和描述中使用`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`和`{{system.tokens}}`。 有关更多详细信息，请参阅流程步骤[令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}。

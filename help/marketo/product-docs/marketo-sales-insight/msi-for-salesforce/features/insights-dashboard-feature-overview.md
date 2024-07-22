@@ -6,7 +6,7 @@ exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1525'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必须具有最新的MSI SFDC软件包和 [配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>您必须具有最新的MSI SFDC包和[配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)。
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 
 ## 联系人布局 {#contact-layout}
 
-**参与速度网格**
+**参与Velocity网格**
 
 * 此智能网格包含过去90天中的“有趣时刻”、“电子邮件”和“Web活动”
 * 用户可以选择“显示帐户”活动，这将把所有帐户级别的“有趣时刻”、“电子邮件”和“Web活动”都叠加在联系人视图中
@@ -39,7 +39,7 @@ ht-degree: 0%
 * 每周摘要栏将显示该周有趣的时刻、电子邮件和Web活动。 每个图标均可点击，并且可用作过滤器来显示特定活动
 * 默认视图：这是当前视图的活动列表
 
-**即将推出的电子邮件营销活动和活动**
+**即将开始的电子邮件营销活动和活动**
 
 电子邮件营销活动选项卡：
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 ## 潜在客户布局 {#lead-layout}
 
-**参与速度网格**
+**参与Velocity网格**
 
 * 此智能网格包含过去90天中的“有趣时刻”、“电子邮件”和“Web活动”
 * 用户可以突出显示特定的一周，以查看该周内的活动
@@ -80,7 +80,7 @@ ht-degree: 0%
 * 每周摘要栏将显示该周有趣的时刻、电子邮件和Web活动。 每个图标均可点击，并且可用作过滤器来显示特定活动
 * 默认视图：这是当前视图的活动列表
 
-**即将推出的电子邮件营销活动和活动：**
+**即将开始的电子邮件营销活动和活动：**
 
 电子邮件营销活动选项卡：
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 ## 帐户布局 {#account-layout}
 
-**参与速度网格**
+**参与Velocity网格**
 
 * 此智能网格包括帐户中所有联系人过去90天中的“有趣时刻”、“电子邮件”和“Web活动”
 * 用户可以突出显示特定的一周，以查看该周内的活动
@@ -120,7 +120,7 @@ ht-degree: 0%
 * 每周摘要栏将显示该周有趣的时刻、电子邮件和Web活动。 每个图标均可点击，并且可用作过滤器来显示特定活动
 * 默认视图：这是当前视图的活动列表
 
-**即将推出的电子邮件营销活动和活动**
+**即将开始的电子邮件营销活动和活动**
 
 电子邮件营销活动选项卡：
 
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 ## 机会布局 {#opportunity-layout}
 
-**参与速度网格**
+**参与Velocity网格**
 
 * 此智能网格包括Opportunity中所有联系人过去90天中的“有趣时刻”、“电子邮件”和“Web活动”
 * 用户可以突出显示特定的一周，以查看该周内的活动
@@ -156,7 +156,7 @@ ht-degree: 0%
 * 每周摘要栏将显示该周有趣的时刻、电子邮件和Web活动。 每个图标均可点击，并且可用作过滤器来显示特定活动
 * 默认视图：这是当前视图的活动列表
 
-**即将推出的电子邮件营销活动和活动** 电子邮件营销活动选项卡：
+**即将开始的电子邮件营销活动和活动**&#x200B;电子邮件营销活动选项卡：
 
 * 包括计划在未来90天内成为电子邮件计划或默认计划一部分的营销活动
 * 不特定于联系人/潜在客户(即，营销活动列表是在Marketo实例中计划的所有电子邮件营销活动的通用列表)。 所有潜在客户、联系人、客户和机会面板中的促销活动列表将相同

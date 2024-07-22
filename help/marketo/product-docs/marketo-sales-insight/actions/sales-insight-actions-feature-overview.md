@@ -5,7 +5,7 @@ exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是一个基于Web的应用程序，它通过 [Marketo销售分析包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 它有时称为“Marketo Sales”，或简称为“Actions”。
+>Marketo Sales Insight Actions是一个基于Web的应用程序，它通过[Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}与Salesforce用户界面集成。 它有时称为“Marketo Sales”，或简称为“Actions”。
 
 >[!AVAILABILITY]
 >
->此功能当前正在向所有Sales Insight用户推出。 如果您希望在推广中排定优先级，请发送电子邮件至 `sales-insights(at)adobe(dot)com`.
+>此功能当前正在向所有Sales Insight用户推出。 如果您希望在推广中排定优先级，请发送电子邮件至`sales-insights(at)adobe(dot)com`。
 
-有关Sales Insight操作的视频概述， [单击此处](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+有关销售分析操作的视频概述，[单击此处](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 * 发送销售电子邮件
    * 销售电子邮件具有查看、点击和回复跟踪（设置投放渠道时）
-   * 包括电子邮件个性化、自定义签名和附件
+   * 包括电子邮件Personalization、自定义签名和附件
    * 模板共享和报告
    * 团队共享、群发电子邮件和抄送/密件抄送功能
    * 销售电子邮件活动将记录在Marketo人员记录中
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 * 发送销售电子邮件 — 能够将个性化或模板化的群组电子邮件发送到与帐户/机会关联的所有联系人，包括查看、点击和回复跟踪
    * 销售电子邮件具有查看、点击和回复跟踪（设置投放渠道时）
-   * 包括电子邮件个性化、自定义签名和附件
+   * 包括电子邮件Personalization、自定义签名和附件
    * 模板共享和报告
    * 团队共享、群发电子邮件和抄送/密件抄送功能
    * 销售电子邮件活动将记录在Marketo人员记录中
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 ## Marketo全局选项卡 {#marketo-global-tab}
 
-**“最佳匹配”选项卡**
+**最佳匹配选项卡**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
@@ -148,13 +148,13 @@ ht-degree: 0%
 * 列包括“主题”、“打开”、“单击”、“已回复”（仅适用于设置了投放渠道的销售电子邮件）、“发件人”和“日期”
 * 包括弹出卡片，以及发件人、模板、销售活动和预览电子邮件等更多详细信息
 
-**“呼叫”选项卡**
+**调用选项卡**
 
 * 使用销售拨号器功能拨打的所有电话都将记录在此处。 活动也将记录在Marketo人员记录中
 * 列包括名称、结果、注释、呼叫时间、持续时间和录制链接
 * 包括弹出卡，其中提供了更多详细信息，如呼叫发起者、呼叫应答者、电话号码和状态
 
-**“任务”选项卡**
+**任务选项卡**
 
 * 创建和完成的电子邮件、呼叫、InMail和自定义任务将可用于此选项卡中的任务管理。 包含添加任务的功能
 * 使用Sales Campaigns自动创建任务
@@ -163,7 +163,7 @@ ht-degree: 0%
 
   ![](assets/sales-insight-actions-feature-overview-6.png)
 
-**Live Feed**
+**实时信息源**
 
 * 能够查看销售活动的实时更新以及屏幕停靠功能
 * 嵌入的电子邮件、呼叫和节奏按钮使每个客户分析都可操作

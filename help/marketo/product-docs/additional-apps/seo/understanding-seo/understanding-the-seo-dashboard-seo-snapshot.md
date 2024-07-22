@@ -6,7 +6,7 @@ exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 使用功能板全面了解关键词排名的趋势以及您的网站针对SEO优化的程度。
 
-要了解在改进SEO方面应重点关注哪些方面，请使用 [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) 部分。
+要了解要重点改进您的SEO工作，请使用此仪表板的[[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)部分。
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## [!UICONTROL 关键词排名摘要] {#keyword-rank-summary}
+## [!UICONTROL 关键字排名摘要] {#keyword-rank-summary}
 
-本部分向您展示网站在 [要定位的关键字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+此部分将向您展示网站针对您定位的[关键字的排名](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)。
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您还可以查看 [特定列表](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) 正在执行的关键字的。 单击下拉列表，然后选择您感兴趣的用户。
+>您还可以查看[特定关键字列表](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)的执行方式。 单击下拉列表，然后选择您感兴趣的用户。
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## [!UICONTROL 关键词排名趋势] {#keyword-rank-trends}
 
-此 [!UICONTROL 关键词排名趋势] 图表从搜索量最高的五个月中提取关键字，并绘制它们随时间变化的排名图表。
+[!UICONTROL 关键字排名趋势]图表从每个月搜索量最高的五个关键字中提取关键字，并绘制这些关键字随时间变化的排名图表。
 
 >[!TIP]
 >
@@ -61,8 +61,8 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-现在，让我们查看 [!UICONTROL Recommendations] 部分。
+现在，让我们查看一下此仪表板的[!UICONTROL Recommendations]部分。
 
 >[!MORELIKETHIS]
 >
->[了解功能板：SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[了解仪表板： SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

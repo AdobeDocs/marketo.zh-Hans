@@ -18,17 +18,17 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [创建自由表单登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [创建自由格式登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 找到您的登陆页面，然后单击 **编辑草稿**.
+1. 找到您的登陆页面，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. 拖放 **表单** 元素添加到页面中。
+1. 将&#x200B;**Form**&#x200B;元素拖放到页面上。
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,20 +38,20 @@ ht-degree: 0%
 
 1. 选择跟进页面时，有三个选项：
 
-   * **登陆页面**  — 选择Marketo登录页面
-   * **外部URL**  — 选择所需的任何URL
-   * **已定义表单**  — 使用在表单级别定义的设置
+   * **登陆页面** — 选择Marketo登陆页面
+   * **外部URL** — 选择所需的任何URL
+   * **表单已定义** — 使用表单级别定义的设置
 
    >[!NOTE]
    >
-   >**条件**
+   >**定义**
    >
    >跟进页面是用户提交表单后看到的页面。
 
-1. 单击 **插入**.
+1. 单击&#x200B;**插入**。
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
    做得好！
 
-只需关闭登陆页面编辑器并 [批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+只需关闭登陆页面编辑器并[批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。

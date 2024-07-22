@@ -15,15 +15,15 @@ ht-degree: 0%
 
 若要从网页添加图像，请复制包含所需图像的网页的网址(URL)，然后执行以下简单步骤。
 
-1. 转到 **Design Studio**.
+1. 转到&#x200B;**设计工作室**。
 
    ![](assets/designstudio-2.png)
 
-1. 单击 **新建** 和 **从Web获取图像**.
+1. 单击&#x200B;**新建**&#x200B;和&#x200B;**从Web获取图像**。
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. 选择 **图像和文件** 文件夹，将网址(URL)粘贴到URL文本框中，然后单击 **下一个**.
+1. 选择&#x200B;**图像和文件**&#x200B;文件夹，将网址(URL)粘贴到URL文本框中，然后单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >此功能不适用于直接指向图像的URL。 使用包含图像的网页的URL。
 
-1. 选择要添加的图像，然后单击 **导入**.
+1. 选择要添加的图像，然后单击&#x200B;**导入**。
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,15 +39,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. 您可在以下位置查看所有可用的图像： **图像和文件**.
+1. 您可以在&#x200B;**图像和文件**&#x200B;中看到所有可用的图像。
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
-做得好，形象主控！
+干得好，图像管理员！
 
 >[!MORELIKETHIS]
 >
 >* [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
->* [使用文件夹组织图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [使用文件夹组织您的图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 >* [查找上载的图像或文件的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 >* [从盒子上载图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)

@@ -21,19 +21,19 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**相同的顶级域 — 好！ Cookie已共享**.<br/> **转到**.mycompany.com > **信息**.mycompany.com
+>**相同顶级域 — 好！ Cookie已共享**.<br/> **转到**.mycompany.com > **信息**.mycompany.com
 >
->**不同的顶级域 — 错误！ Cookie包括 _非_ 共享**.<br/> 去吧。**我的公司**.com >开始。**mynewcompany**.com
+>**其他顶级域 — 错误！ Cookie是&#x200B;_非_共享**。<br/>开始。**mycompany**.com >开始。**mynewcompany**.com
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 转到 **管理员** 区域。
+1. 转到&#x200B;**管理员**&#x200B;区域。
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
-1. 单击 **我的帐户**.
+1. 单击&#x200B;**我的帐户**。
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
@@ -43,25 +43,25 @@ ht-degree: 0%
 
 ## 向IT发送请求 {#send-request-to-it}
 
-1. 要求您的IT部门设置以下CNAME： (将 [CNAME] 以及您选择的CNAME [Munchkin ID] （其中包含上一步骤中的文本）。
+1. 要求您的IT部门设置以下CNAME： （将单词[CNAME]替换为您选择的CNAME，将[Munchkin ID]替换为您上一步中的文本）。
 
    [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## 添加新CNAME {#add-a-new-cname}
 
-1. IT部门创建CNAME后，请转到 **管理员** 区域。
+1. IT部门创建CNAME后，转到&#x200B;**管理员**&#x200B;区域。
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
-1. 单击 **登陆页面**.
+1. 单击&#x200B;**登陆页面**。
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. 单击 **新建** 然后选择 **新建域别名**.
+1. 单击&#x200B;**新建**，然后选择&#x200B;**新建域别名**。
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. 输入您的 **域别名。** 此 **默认页面** 如果访客未置入URL，则会显示。 输入在这种情况下，他们应该前往的位置。
+1. 输入您的&#x200B;**域别名。**&#x200B;如果访客未置入URL，则显示&#x200B;**默认页面**。 输入在这种情况下，他们应该前往的位置。
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. 输入您的 **默认页面** 并单击 **创建**.
+1. 输入您的&#x200B;**默认页面**&#x200B;并单击&#x200B;**创建**。
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

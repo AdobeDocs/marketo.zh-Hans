@@ -21,7 +21,7 @@ ht-degree: 4%
 
 | 如果丢失记录的同步筛选器为： | 并且入选记录的同步过滤器为： | 这是Marketo中的结果 |
 |---|---|---|
-| True | True | 入选记录将继续与Marketo同步 |
-| False | False | 获胜记录将继续 _非_ 与Marketo同步 |
-| False | True | 入选记录将与Marketo同步 |
-| True | False | 入选记录将不会与Marketo同步 |
+| 真 | 真 | 入选记录将继续与Marketo同步 |
+| 假 | 假 | 获胜记录仍将&#x200B;_非_&#x200B;与Marketo同步 |
+| 假 | 真 | 入选记录将与Marketo同步 |
+| 真 | 假 | 入选记录将不会与Marketo同步 |

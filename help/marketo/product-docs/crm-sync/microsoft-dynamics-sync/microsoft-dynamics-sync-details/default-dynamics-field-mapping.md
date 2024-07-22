@@ -5,7 +5,7 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: '823'
 ht-degree: 18%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 18%
     <tr>
       <td>电子邮件</td>
       <td>电子邮件</td>
-      <td>emailaddress1</td>
+      <td>电子邮件地址1</td>
     </tr>
     <tr>
       <td>职务</td>
@@ -104,7 +104,7 @@ ht-degree: 18%
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>人员来源</td>
+      <td>Source人员</td>
       <td>潜在客户来源</td>
       <td>leadsourcecode</td>
     </tr>
@@ -166,7 +166,7 @@ ht-degree: 18%
     <tr>
       <td>Microsoft家庭电话</td>
       <td>住宅电话</td>
-      <td>telephone2</td>
+      <td>电话2</td>
     </tr>
     <tr>
       <td>Microsoft首选联系方式</td>
@@ -296,7 +296,7 @@ ht-degree: 18%
     <tr>
       <td>电子邮件</td>
       <td>电子邮件</td>
-      <td>emailaddress1</td>
+      <td>电子邮件地址1</td>
     </tr>
     <tr>
       <td>职务</td>
@@ -376,7 +376,7 @@ ht-degree: 18%
     <tr>
       <td>Microsoft家庭电话</td>
       <td>住宅电话</td>
-      <td>telephone2</td>
+      <td>电话2</td>
     </tr>
     <tr>
       <td>Microsoft首选联系方式</td>

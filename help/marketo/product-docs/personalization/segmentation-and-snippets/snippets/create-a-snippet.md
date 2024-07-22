@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 创建代码片段 {#create-a-snippet}
 
-代码片段可用作上的动态内容块 **电子邮件** 和 **登陆页面**.
+代码片段可以用作&#x200B;**电子邮件**&#x200B;和&#x200B;**登陆页面**&#x200B;上的动态内容块。
 
-1. 转到 **Design Studio。**
+1. 转到&#x200B;**设计工作室。**
 
    ![](assets/designstudio.png)
 
-1. 单击 **新建** 然后 **新建代码片段**.
+1. 单击&#x200B;**新建**，然后单击&#x200B;**新建代码片段**。
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. 输入所需的详细信息，然后单击 **创建**.
+1. 输入所需的详细信息，然后单击&#x200B;**创建**。
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-做得好！ 通过为动态内容创建代码片段来简化您的工作。 现在，您可以继续 [向新代码片段添加内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+做得好！ 通过为动态内容创建代码片段来简化您的工作。 现在您可以[将内容添加到您的新代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)。
 
 >[!MORELIKETHIS]
 >

@@ -6,7 +6,7 @@ exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## 首次联系(FT)归因 {#first-touch-ft-attribution}
 
-首次联系(FT)归因回答 **简单的业务问题**，“哪些程序擅长收购有利可图的新公司？”
+首次联系(FT)归因回答了&#x200B;**简单的业务问题**：“哪些程序擅长获取有利可图的新名称？”
 
 ## 多点触控归因 {#multi-touch-attribution}
 
-多点触控回答 **复杂的业务问题**，“哪些计划对于在销售周期中逐渐推陈出新最具影响力？”
+多点触控回答了&#x200B;**个复杂的业务问题**：“哪些程序在销售周期中对于推动人员向前发展最具影响力？”
 
 ## 归因规则 {#rules-of-attribution}
 

@@ -5,7 +5,7 @@ exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
 source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -22,21 +22,21 @@ ht-degree: 0%
 
 ## 出席的可能性 {#likelihood-to-attend}
 
-此筛选器用于有效地缩小受众范围。 这有助于您定位和邀请具有较高出现以下情况的潜在客户 **出席** 您的网络研讨会或活动。 请注意，您的“参加计划的可能性”将是您当前的活动计划。
+此筛选器用于有效地缩小受众范围。 这有助于您定位和邀请具有较高&#x200B;**可能参加**&#x200B;您的网络研讨会或活动的潜在客户。 请注意，您的“参加计划的可能性”将是您当前的活动计划。
 
 ![图像2](assets/predictive-filters-2.png)
 
 ## 注册的可能性 {#likelihood-to-register}
 
-类似于 _出席的可能性_ 过滤器，使用此过滤器来缩小受众范围并定位具有较高出现以下情况的潜在客户： **注册** ，以用于您的网络研讨会或活动。
+与&#x200B;_参加_&#x200B;的可能性过滤器类似，使用此过滤器可缩小受众范围，并定位具有较高&#x200B;**注册率**&#x200B;以用于网络研讨会或活动的潜在客户。
 
-![图像3](assets/predictive-filters-3.png)
+![图像三](assets/predictive-filters-3.png)
 
 ## 取消订阅的可能性 {#likelihood-to-unsubscribe}
 
 该功能会根据受众在接下来的两周内取消订阅的可能性高低来过滤受众。 您可以使用此功能以不同方式更有效地定位高疲劳线索。 取消订阅阈值是动态的，并且由AI模型驱动，该模型考虑多个属性，包括数据库中的提前期和潜在客户活动。
 
-![图像4](assets/predictive-filters-4.png)
+![图像四](assets/predictive-filters-4.png)
 
 >[!NOTE]
 >
@@ -46,11 +46,11 @@ ht-degree: 0%
 
 这两个筛选器可帮助您通过定位与其他项目或智能列表成员相似的其他潜在客户来扩展当前受众。 相似人群拓展过滤器考虑了50多种因素，包括商机属性、电子邮件活动、Web活动和参与。
 
-单击 **[!UICONTROL 添加约束]** 为所选计划的成员选择成功标准。
+单击&#x200B;**[!UICONTROL 添加约束]**&#x200B;为所选计划的成员选择成功标准。
 
-单击 **+** 图标，以轻松地将多个程序/智能列表添加到一个过滤器。
+单击&#x200B;**+**&#x200B;图标可轻松将多个程序/智能列表添加到一个筛选器中。
 
-![图像5](assets/predictive-filters-5.png)
+![图像五](assets/predictive-filters-5.png)
 
 ## 注意事项 {#things-to-note}
 

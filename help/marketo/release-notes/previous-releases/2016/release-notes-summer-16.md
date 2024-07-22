@@ -19,9 +19,9 @@ ht-degree: 0%
 
 基于Marketo帐户的营销在一个统一的平台上提供所有必需品：
 
-* **Target**  — 帐户发现、商机帐户匹配和指定帐户列表
-* **参与**  — 基于帐户的个性化、跨渠道参与和特定于帐户的工作流
-* **衡量**  — 帐户和列表级别的洞察、帐户参与度得分以及管道和收入影响
+* **Target** — 帐户发现、潜在客户与帐户匹配和指定帐户列表
+* **参与** — 基于帐户的Personalization、跨渠道参与和特定于帐户的工作流
+* **衡量标准** — 帐户和列表级别的洞察、帐户参与度得分以及管道和收入影响
 
 ![](assets/abm-5-acme.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ![](assets/vibes-sms2.png)
 
-## [Email 2.0增强](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
+## [Email 2.0增强功能](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
 
 **模块级变量**
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 **语法更新**
 
 * 现在，您可以在Email 2.0模板中指定的模块上使用“mktoAddByDefault”，以指示默认情况下应在新电子邮件中显示哪些模块。 如果您要构建包含大量模块的电子邮件模板，这会方便得多。
-* 在图像元素上，您现在可以指定基础 `<img>` HTML元素的“height”和“width”属性应该对最终用户进行锁定或编辑。 mktoLockImgSize=&quot;true&quot;将导致高度/宽度被锁定（即使图像已更改）。 同样，mktoLockImgStyle=&quot;true&quot;将导致锁定&quot;style&quot;属性。
+* 在图像元素上，您现在可以指定是应锁定基础`<img>`HTML元素的“高度”和“宽度”属性，还是应该对最终用户进行编辑。 mktoLockImgSize=&quot;true&quot;将导致高度/宽度被锁定（即使图像已更改）。 同样，mktoLockImgStyle=&quot;true&quot;将导致锁定&quot;style&quot;属性。
 
 **代码搜索**
 
@@ -68,9 +68,9 @@ ht-degree: 0%
 
 ![](assets/2nd-screenshot.png)
 
-**图像元素中的令牌支持**
+图像元素中支持&#x200B;**令牌**
 
-令牌现在可用于插入图像体验的“外部URL”区域！ 如果您已指定图像 `{{my.tokens}}`中，您现在可以在电子邮件编辑器2.0中引用这些令牌。请注意，在电子邮件编辑器2.0画布中，图像仍显示为已损坏。 但是，在发送电子邮件之前，您会在预览和发送示例中看到这些幻灯片。
+令牌现在可用于插入图像体验的“外部URL”区域！ 如果您已使用`{{my.tokens}}`指定图像，则现在可以在电子邮件编辑器2.0中引用这些令牌。请注意，在电子邮件编辑器2.0画布中，图像仍显示为已损坏。 但是，在发送电子邮件之前，您会在预览和发送示例中看到这些幻灯片。
 
 ## 多个品牌化域 {#multiple-branding-domains}
 
@@ -78,7 +78,7 @@ ht-degree: 0%
 
 ![](assets/multiple-branding-domains.png)
 
-## [项目令牌](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
+## [计划令牌](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
 
 我们为项目创建了新令牌类型。 您现在可以在资源和智能营销活动流程步骤中呈现项目名称、描述和ID。
 
@@ -90,7 +90,7 @@ ht-degree: 0%
 
 ![](assets/enterprise-key.png)
 
-## [Web个性化营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
+## [Web Personalization营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
 
 指定Web营销活动在您的网站上做出反应的时间延迟。
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
 脱机查看内容分析和推荐数据。
 
-## [电子邮件编辑器2.0的API支持](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## 电子邮件编辑器2.0](https://developer.adobe.com/marketo-apis/api/asset/)的[API支持 {#api-support-for-email-editor}
 
 以前仅与v1.0电子邮件和模板兼容的预先存在的Asset API现在为v2.0电子邮件资产启用。
 
@@ -110,6 +110,6 @@ ht-degree: 0%
 
 ## [隐私设置](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-营销人员可以使用隐私设置确定是否使用Munchkin和Web个性化功能跟踪访客。 跟踪级别可通过使用浏览器的Do Not Track设置、选择退出Cookie或非特定IP来控制。 这些方法可能会影响Marketo在特定领域中的价值和功能，但是，如果营销人员不更改任何内容，则Marketo功能将保持不变。
+营销人员可以使用隐私设置确定是否使用Munchkin和Web Personalization功能跟踪访客。 跟踪级别可通过使用浏览器的Do Not Track设置、选择退出Cookie或非特定IP来控制。 这些方法可能会影响Marketo在特定领域中的价值和功能，但是，如果营销人员不更改任何内容，则Marketo功能将保持不变。
 
 该功能将在六周后逐步向客户发布。 如果您需要立即获取帮助，请联系Marketo支持部门。

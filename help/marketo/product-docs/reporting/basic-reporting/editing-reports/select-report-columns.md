@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以选择哪些列包含在报表中，哪些列不包含在报表中。
 
-1. 转到 **分析** (或 **营销活动**)区域。
+1. 转到&#x200B;**Analytics**（或&#x200B;**营销活动**）区域。
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,10 +23,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. 单击 **报表** 选项卡，然后单击任意列标题并选择 **列**，然后选择要包含的列。
+1. 单击&#x200B;**报表**&#x200B;选项卡，单击任意列标题并选择&#x200B;**列**，然后选择要包含的列。
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
    >[!MORELIKETHIS]
    >
-   >[按列排序报告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
+   >[对列报告排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)

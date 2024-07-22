@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在Salesforce1中发送Marketo电子邮件和Campaign及Watchlist操作 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. 转到Salesforce1中的Lead Detail区域，然后单击 **相关** 选项卡。
+1. 转到Salesforce1中的Lead Detail区域，然后单击&#x200B;**Related**&#x200B;选项卡。
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >将显示哪些智能营销活动？ 具有“已请求Campaign”触发器的受众。 了解如何设置 [使用“Campaign is Requested”触发的营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)“。
+   >将显示哪些智能营销活动？ 具有“已请求Campaign”触发器的受众。 了解如何使用“Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)”设置[触发的营销活动。
 
 酷，现在您的销售人员可以积极参与营销工作了。
 

@@ -19,15 +19,15 @@ Marketo Engage提供对Salesforce自定义对象同步的细粒度控制。 这�
 >
 >**需要管理员权限**
 
-1. 单击 **[!UICONTROL 管理员]**.
+1. 单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. 单击 **[!UICONTROL 管理员]** 然后 **[!UICONTROL Salesforce对象同步]**.
+1. 单击&#x200B;**[!UICONTROL 管理员]**，然后单击&#x200B;**[!UICONTROL Salesforce对象同步]**。
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **[!UICONTROL Salesforce对象同步]** 显示在左列。
+1. **[!UICONTROL Salesforce Objects Sync]**&#x200B;显示在左列。
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,19 +35,19 @@ Marketo Engage提供对Salesforce自定义对象同步的细粒度控制。 这�
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. 单击 **[!UICONTROL 编辑可见字段]**.
+1. 单击&#x200B;**[!UICONTROL 编辑可见字段]**。
 
    >[!TIP]
    >
-   >如果 **[!UICONTROL 编辑可见字段]** 按钮呈灰显状态，此对象当前正用于智能列表或智能营销活动中。 删除所有关联以继续。
+   >如果&#x200B;**[!UICONTROL 编辑可见字段]**&#x200B;按钮呈灰显状态，则该对象当前正用于智能列表或智能营销活动中。 删除所有关联以继续。
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. 如果启用了全局同步，请单击 **[!UICONTROL 禁用全局同步]**.
+1. 如果已启用全局同步，请单击&#x200B;**[!UICONTROL 禁用全局同步]**。
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. 选中所需的过滤器/触发器约束旁边的框，然后单击 **[!UICONTROL 保存]**.
+1. 选中所需的筛选器/触发器约束旁边的框，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
@@ -55,7 +55,7 @@ Marketo Engage提供对Salesforce自定义对象同步的细粒度控制。 这�
    >
    >默认情况下，选择所有字段作为筛选条件的限制。
 
-1. 单击 **[!UICONTROL 字段]** 选项卡以确认更改。
+1. 单击&#x200B;**[!UICONTROL 字段]**&#x200B;选项卡以确认更改。
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 

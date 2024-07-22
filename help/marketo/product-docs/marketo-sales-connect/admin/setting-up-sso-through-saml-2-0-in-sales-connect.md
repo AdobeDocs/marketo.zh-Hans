@@ -6,7 +6,7 @@ exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这仅适用于 **Marketo销售连接** 用户。 如果您没有Sales Connect但想了解更多信息，请联系Adobe客户团队（您的客户经理）。
+>这仅适用于&#x200B;**Marketo Sales Connect**&#x200B;用户。 如果您没有Sales Connect但想了解更多信息，请联系Adobe客户团队（您的客户经理）。
 
 ## 要求 {#requirements}
 
@@ -29,8 +29,8 @@ ht-degree: 0%
 
 您团队的SSO实例中的metadata.xml应包含颁发者URL、验证端点和公钥。
 
-我们还需要贵公司的SSO帐户的SSO位置作为唯一域。 例如，我们需要唯一的子域，如 `toutapp.pingidentity.com` 或类似者。 如果没有此类唯一标识符，我们将无法从仪表板设置SAML。
+我们还需要贵公司的SSO帐户的SSO位置作为唯一域。 例如，我们需要唯一的子域，如`toutapp.pingidentity.com`或类似项。 如果没有此类唯一标识符，我们将无法从仪表板设置SAML。
 
-在分配URL时，一个Login和Okta并不总是提供唯一标识符。 如果您使用Okta或“一次登录”，这意味着我们将无法从仪表板按钮设置一次登录。 我们仍然可以通过 [Web应用程序](https://toutapp.com/login).
+在分配URL时，一个Login和Okta并不总是提供唯一标识符。 如果您使用Okta或“一次登录”，这意味着我们将无法从仪表板按钮设置一次登录。 我们仍可以通过[Web应用程序](https://toutapp.com/login)上的“单点登录”按钮进行设置。
 
 收到该信息后，我们将与工程团队合作，为您的订阅设置此项。

@@ -14,11 +14,11 @@ ht-degree: 0%
 
 提醒任务是了解客户和潜在客户参与情况的好方法。 要创建任务，请执行以下步骤。
 
-1. 单击 **指挥中心**.
+1. 单击&#x200B;**命令中心**。
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. 默认情况下会打开任务。 单击 **添加任务**.
+1. 默认情况下会打开任务。 单击&#x200B;**添加任务**。
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
@@ -46,6 +46,6 @@ ht-degree: 0%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 添加您希望在完成任务时可以使用的任务的任何详细信息，例如通话笔记、InMail消息模板甚至有关人员的笔记。 单击 **创建** 完成时。
+1. 添加您希望在完成任务时可以使用的任务的任何详细信息，例如通话笔记、InMail消息模板甚至有关人员的笔记。 完成后单击&#x200B;**创建**。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

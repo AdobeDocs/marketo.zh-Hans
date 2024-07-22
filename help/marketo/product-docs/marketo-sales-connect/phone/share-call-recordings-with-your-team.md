@@ -6,7 +6,7 @@ exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 从Web应用程序中的人员详细信息复制录制链接 {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. 导航至 [Web应用程序](https://toutapp.com/login).
+1. 导航到[Web应用程序](https://toutapp.com/login)。
 
 1. 打开人员详细信息。
 

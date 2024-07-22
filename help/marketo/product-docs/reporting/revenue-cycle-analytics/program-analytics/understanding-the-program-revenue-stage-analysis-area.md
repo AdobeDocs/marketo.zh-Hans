@@ -74,7 +74,7 @@ Dimension和测量按功能分类，并以系统中的黄色或蓝色圆点表�
  </tbody> 
 </table>
 
-**项目群属性**
+**项目属性**
 
 <table> 
  <tbody> 
@@ -93,7 +93,7 @@ Dimension和测量按功能分类，并以系统中的黄色或蓝色圆点表�
  </tbody> 
 </table>
 
-**项目成本时间范围**
+**计划成本时间范围**
 
 <table> 
  <tbody> 
@@ -153,4 +153,4 @@ Dimension和测量按功能分类，并以系统中的黄色或蓝色圆点表�
 
 >[!MORELIKETHIS]
 >
->[创建收入浏览器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[创建收入资源管理器报告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

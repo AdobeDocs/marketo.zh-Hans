@@ -2,10 +2,10 @@
 description: WBN-YYYY-MM-DD — 网络研讨会计划 — Marketo文档 — 产品文档
 title: WBN-YYYY-MM-DD — 网络研讨会计划
 feature: Programs
-exl-id: af2febb3-1773-4507-a694-c6c0f3d65a22
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '591'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 这是一个网络研讨会计划示例，其中注册管理、三封邀请电子邮件、提醒参加以及利用Marketo Engage活动计划的跟进电子邮件。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -27,21 +27,21 @@ ht-degree: 5%
    <th>项目类型</th>
   </tr> 
   <tr> 
-   <td>Event</td> 
+   <td>活动</td> 
    <td>01 — 已邀请 
-   <br/>02 — 轮候
+   <br/>02 — 已轮候
    <br/>03 — 已注册
    <br/>04 — 无节目
    <br/>05 — 已参加 — 成功
-   <br/>06 — 按需参加 — 成功</td>
+   <br/>06 — 已出席按需会议 — 成功</td>
    <td>包含</td>
-   <td>Event
+   <td>活动
    <p>（集成：活动与网络研讨会）</td>
   </tr>
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -159,8 +159,8 @@ ht-degree: 5%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>资产 — 容纳所有创意资产 
-<br/>(电子邮件、登陆页面和Forms的子文件夹)</td>
+   <td>Assets — 容纳所有创意资源 
+<br/>(电子邮件、登陆页和Forms的子文件夹)</td>
   </tr>
   <tr> 
    <td>文件夹</td> 
@@ -170,7 +170,7 @@ ht-degree: 5%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>报表</td>
+   <td>报告</td>
   </tr>
  </tbody> 
 </table>
@@ -293,20 +293,20 @@ ht-degree: 5%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
    * 复制原始模板
-   * 使用目标模板 —  _推荐_
+   * 使用目标模板 — _推荐_
 
 * **具有相同名称的图像**
    * 保留两个文件
-   * 替换此订阅中的项目 —  _推荐_
+   * 替换此订阅中的项目 — _推荐_
 
 * **同名电子邮件模板**
    * 保留两个模板
-   * 替换现有模板 —  _推荐_
+   * 替换现有模板 — _推荐_
 
 ## 最佳实践 {#best-practices}
 
@@ -325,7 +325,7 @@ ht-degree: 5%
 
 >[!TIP]
 >
->不要忘记激活“05 — 已参加（项目成功）”活动以跟踪成功！ 执行操作 _早于_ 您的电子邮件已发送。
+>不要忘记激活“05 — 已参加（项目成功）”活动以跟踪成功！ 请在发送电子邮件前&#x200B;_执行_&#x200B;操作。
 
 >[!IMPORTANT]
 >

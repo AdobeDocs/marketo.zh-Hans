@@ -15,20 +15,20 @@ ht-degree: 0%
 
 如果您有权访问多个Marketo订阅，并且希望确保您使用的是哪个订阅，请尝试为每个订阅指定一个唯一的名称。 然后，该名称将显示在订阅页面的顶部。
 
-例如，如果您同时在生产和沙盒实例中工作，则可以命名一个订阅 **Marketo Production** 和另一个 **Marketo Sandbox**.
+例如，如果您同时在生产和沙盒实例中工作，则可以命名一个订阅&#x200B;**Marketo生产**&#x200B;和另一个&#x200B;**Marketo沙盒**。
 
-1. 转到 **[!UICONTROL 管理员]**.
+1. 转到&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. 单击 **[!UICONTROL 我的帐户]**.
+1. 单击&#x200B;**[!UICONTROL 我的帐户]**。
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. 单击 **[!UICONTROL 编辑订阅信息]**.
+1. 单击&#x200B;**[!UICONTROL 编辑订阅信息]**。
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. 进行编辑并单击 **[!UICONTROL 保存]**.
+1. 进行编辑并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/edit-subscription-settings-4.png)

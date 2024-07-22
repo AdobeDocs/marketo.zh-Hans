@@ -6,16 +6,16 @@ exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # 电子邮件报告 {#email-reports}
 
-要自定义用户将收到的自动电子邮件报表，请参阅  [“用户设置”部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+若要自定义用户收到的自动电子邮件报表，请参阅[用户设置部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
 
-## Web个性化电子邮件报表 {#web-personalization-email-reports}
+## Web Personalization电子邮件报表 {#web-personalization-email-reports}
 
 每日或每周电子邮件报告会发送到用户的电子邮件地址，并提供最新的组织、人员、营销活动和资产性能数据。
 
@@ -39,17 +39,17 @@ ht-degree: 0%
 
 最佳表现实时促销活动报表会向用户发送一封包含最佳表现实时促销活动的电子邮件，其中显示了促销活动名称、展示次数、点击次数、促销活动所反应的区段以及促销活动的转化率。
 
-## 表现最佳的资产报表 {#top-performing-assets-report}
+## 表现最佳的Assets报表 {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
-最佳性能资产报表会向用户发送一封包含最佳性能内容资产的电子邮件，其中显示资产名称以及与其他资产相比较的匹配百分比。
+最佳性能Assets报表会向用户发送一封包含最佳性能内容资源的电子邮件，其中显示资源名称和与其他资源匹配的百分比。
 
-## 推荐的资产报表 {#recommended-assets-report}
+## 推荐的Assets报表 {#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
-推荐资产报表会向用户发送一封电子邮件，其中包含所有内容和来自内容推荐引擎中显示内容的点击次数。
+推荐的Assets报表会向用户发送一封电子邮件，其中包含所有内容以及来自内容推荐引擎中显示内容的点击次数。
 
 ## 摘要报告 {#summary-report}
 
@@ -61,12 +61,12 @@ ht-degree: 0%
 >
 >**定义**
 >
->**直接转换**：Web访客如果在同一访问会话中单击个性化促销活动或推荐的内容资产，则会继续使用他们的电子邮件地址填写网站上的任何表单。
+>**直接转化**：点击个性化促销活动或推荐的内容资产并在同一访问会话中继续点击的Web访客将使用其电子邮件地址填写网站上的任何表单。
 >
->**辅助转化**：填写网站上的任何表单并保留其电子邮件地址的Web访客，而在之前的访问（过去6个月内）中，单击了个性化的促销活动或推荐的内容资产。
+>**辅助转化**：填写网站上的任何表单并保留其电子邮件地址的Web访客，而在之前的访问（过去6个月内）中，单击了个性化促销活动或推荐的内容资产。
 
 >[!NOTE]
 >
->Marketo Web个性化可捕获网站上填写的任何表单的Web访客电子邮件地址。 该报表可在Web个性化人员页面中查看，并且是在摘要报表中使用的人员。
+>Marketo Web Personalization可捕获Web访客在网站上完成的任何表单的电子邮件地址。 该报表可在Web Personalization的“人员”页面中查看，并且是在摘要报表中使用的人员。
 
-要自定义用户将收到的自动电子邮件报表，请参阅 [“用户设置”部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+若要自定义用户收到的自动电子邮件报表，请参阅[用户设置部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。

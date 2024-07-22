@@ -19,11 +19,11 @@ ht-degree: 22%
 
 有很多方式可以打开特定的人。 一些示例包括：
 
-* 从 **数据库**，您可以在快速查找中搜索
-* 任何 **智能列表** 或列表
-* **成员** 项目群选项卡
-* **查看营销活动成员** 在智能营销活动中
-* 部分 **报表**
+* 在&#x200B;**数据库**&#x200B;中，您可以在快速查找中进行搜索
+* 任何&#x200B;**智能列表**&#x200B;或列表
+* 计划的&#x200B;**成员**&#x200B;选项卡
+* 在Smart Campaign中&#x200B;**查看营销活动成员**
+* 某些&#x200B;**报告**
   <br> 
 
 1. 双击任意人员或单击左侧的ID。
@@ -60,7 +60,7 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->您还可以查看机会信息 [通过API插入](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) 用于未与CRM同步的实例。
+>您还可以看到通过API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)插入的未与CRM同步的实例的Opportunity信息[。
 
 ## 编辑字段 {#editing-a-field}
 
@@ -80,7 +80,7 @@ ht-degree: 22%
 | 行业 | 推断的城市 | 推断公司 | 推断国家 | 推断的都市区 |
 | 推断的电话区号 | 推断的邮政编码 | 推断的状态区域 | 匿名 | 是客户 |
 | 是合作伙伴 | 职务 | 姓 | 评级 | 得分 |
-| 人员来源 | 状态 | 主要电话 | Marketo Social Facebook显示名称 | Marketo Social Facebook Id |
+| Source人员 | 状态 | 主要电话 | Marketo Social Facebook显示名称 | Marketo Social Facebook Id |
 | Marketo Social Facebook照片URL | Marketo Social Facebook配置文件URL | Marketo Social Facebook范围 | Marketo Social Facebook引用的注册 | Marketo Social Facebook反向访问 |
 | Marketo社会性别 | Marketo Social上次引用的注册 | Marketo Social上次反向访问 | Marketo Social LinkedIn显示名称 | Marketo Social LinkedIn Id |
 | Marketo Social LinkedIn照片URL | Marketo Social LinkedIn配置文件URL | Marketo Social LinkedIn范围 | Marketo Social LinkedIn引用的注册 | Marketo Social LinkedIn反向访问 |
@@ -93,14 +93,14 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->某些字段为 _非_ 可编辑：
+>某些字段&#x200B;_不_&#x200B;可编辑：
 >
 >* 活动日志
 >* 公司信息
 >* SFDC联系人的机会
->* 特定于Marketo的字段，如“创建日期”和“原始源类型”。
+>* 特定于Marketo的字段，如“创建日期”和“原始Source类型”。
 >
->了解有关 [系统管理的字段](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
+>了解有关[系统托管字段](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}的详细信息。
 
 >[!MORELIKETHIS]
 >

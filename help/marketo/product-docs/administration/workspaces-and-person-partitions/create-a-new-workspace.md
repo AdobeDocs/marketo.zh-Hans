@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360311
-description: 创建新工作区 — Marketo文档 — 产品文档
-title: 创建新工作区
+description: 创建新的Workspace - Marketo文档 — 产品文档
+title: 创建新的Workspace
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# 创建新工作区 {#create-a-new-workspace}
+# 创建新的Workspace {#create-a-new-workspace}
 
 工作区可用于细分您的公司。 设置工作区的原因包括：
 
@@ -26,33 +26,33 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->首先了解 [了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>首先了解[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}。
 
 >[!TIP]
 >
->要了解有关工作区最佳实践的更多信息，请联系 [Marketo专业服务](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>要了解有关Workspace最佳实践的更多信息，请联系[Marketo专业服务](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. 单击 **[!UICONTROL 工作区和分区]**.
+1. 单击&#x200B;**[!UICONTROL 工作区和分区]**。
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. 单击 **[!UICONTROL 新建工作区]**.
+1. 单击&#x200B;**[!UICONTROL 新建Workspace]**。
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. 输入 **[!UICONTROL 名称]**，然后选择 **[!UICONTROL 人员分区]** 您想要使用。 选择 **[!UICONTROL 主要人员分区]**. 确保 [创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} 如果你还没有的话。
+1. 输入&#x200B;**[!UICONTROL 名称]**，然后选择要使用的&#x200B;**[!UICONTROL 人员分区]**。 选择&#x200B;**[!UICONTROL 主要人员分区]**。 确保[创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}（如果尚未创建）。
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* 此 **[!UICONTROL 所有人员分区]** 复选框表示此工作区可以使用系统中的所有人员分区。
+   >* **[!UICONTROL 所有人员分区]**&#x200B;复选框意味着此工作区可以使用系统中的所有人员分区。
    >
-   >* 此 **[!UICONTROL 主要人员分区]** 充当默认值，并为所有人员分配位置。
+   >* **[!UICONTROL 主要人员分区]**&#x200B;充当默认分区，并且是所有人员的分配位置。
 
    >[!IMPORTANT]
    >

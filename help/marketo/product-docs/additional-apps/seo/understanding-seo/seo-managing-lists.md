@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 添加关键字、页面、页面问题或入站链接时，可以将内容添加到列表中。 列表可帮助您保持井然有序，并允许您过滤报表以仅查看该列表上的数据。 这是如何制作它们。
 
-1. 单击 **[!UICONTROL 添加关键字]**.
+1. 单击&#x200B;**[!UICONTROL 添加关键字]**。
 
    >[!NOTE]
    >
@@ -31,6 +31,6 @@ ht-degree: 0%
    >
    >您可以在下拉菜单中创建新列表。 输入标题，点击返回键。
 
-1. 单击 **[!UICONTROL 保存]**.
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)

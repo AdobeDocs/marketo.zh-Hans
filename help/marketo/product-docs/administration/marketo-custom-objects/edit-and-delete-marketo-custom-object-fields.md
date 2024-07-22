@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. 在 [!UICONTROL 字段] 选项卡，单击 **[!UICONTROL 字段操作]** 和 **[!UICONTROL 编辑字段]**.
+1. 在[!UICONTROL 字段]选项卡中，单击&#x200B;**[!UICONTROL 字段操作]**&#x200B;和&#x200B;**[!UICONTROL 编辑字段]**。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. 进行更改并单击 **[!UICONTROL 保存]**.
+1. 进行更改并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 当您不再需要自定义对象中的字段时，可以将其删除。
 
-1. 在字段选项卡中，单击 **[!UICONTROL 字段操作]** 和 **[!UICONTROL 删除字段]**.
+1. 在字段选项卡中，单击&#x200B;**[!UICONTROL 字段操作]**&#x200B;和&#x200B;**[!UICONTROL 删除字段]**。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. 确保在触发触发器之前确实要删除该字段！ 单击 **[!UICONTROL 删除]**.
+1. 确保在触发触发器之前确实要删除该字段！ 单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 

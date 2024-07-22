@@ -15,11 +15,11 @@ ht-degree: 0%
 
 流程步骤告知Marketo Engage您希望对符合条件的一组人发生的情况。
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. 选择您的Smart Campaign并单击 **[!UICONTROL 流量]**.
+1. 选择您的Smart Campaign并单击&#x200B;**[!UICONTROL 流量]**。
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->流程步骤按其列出的顺序执行。 [对流程步骤重新排序](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} 确保它们按正确的顺序排列。
+>流程步骤按其列出的顺序执行。 [重新排序流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}以确保它们按正确的顺序排列。
 
 >[!TIP]
 >
 >如果条目无效，将出现红色弯折线。 将鼠标悬停在该行上以查看如何更正该行。
 
-太棒了！ 请务必 [查看并验证Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} 在计划或激活它之前。
+太棒了！ 在计划或激活智能营销活动之前，请务必[查看并验证该活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >
 >* [在流程步骤中使用添加选项](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [重新排序智能营销活动中的流量步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [在智能营销活动中重新排序流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}

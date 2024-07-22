@@ -19,7 +19,7 @@ Opportunity Influence Analyzer允许您查看整个故事。 甚至可以在Sale
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**请注意绿色支票**. 它们指示在右侧勾选的一个名称的计划是否成功。 绿色区域表示机会的开始和结束。
+**请注意绿色支票**。 它们指示在右侧勾选的一个名称的计划是否成功。 绿色区域表示机会的开始和结束。
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ Marketo使用CRM ID唯一标识帐户。
 
 >[!MORELIKETHIS]
 >
->* [用Opportunity Influence Analyzer讲述营销故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [创建Opportunity影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>* [使用机会影响分析器讲述营销故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [创建机会影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

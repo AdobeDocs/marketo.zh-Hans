@@ -19,10 +19,10 @@ ht-degree: 0%
 
    ![](assets/image2015-3-26-12-3a26-3a41.png)
 
-1. 右键单击并选择 **[!UICONTROL 删除]**.
+1. 右键单击并选择&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. 单击 **[!UICONTROL 删除]** 以确认。
+1. 单击&#x200B;**[!UICONTROL 删除]**&#x200B;以确认。
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)

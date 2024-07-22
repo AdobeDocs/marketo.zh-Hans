@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您可以创建自定义叠加以查看与您的需求相关的条目。
 
-1. 单击 **[!UICONTROL 日程安排]** 下拉菜单。
+1. 单击&#x200B;**[!UICONTROL 议程]**&#x200B;下拉列表。
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. 选择 **[!UICONTROL 叠加]**.
+1. 选择&#x200B;**[!UICONTROL 叠加]**。
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. 您还可以按以下项过滤 [项目标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
+1. 您还可以按[项目标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}进行筛选。
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

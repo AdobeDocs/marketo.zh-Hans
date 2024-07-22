@@ -6,7 +6,7 @@ exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 2%
 
 ## 授权 {#authorization}
 
-符合 [GDPR](https://eugdpr.org/)，使用授权指示您是如何获得与这些联系人接触的权限的。
+为符合[GDPR](https://eugdpr.org/)，请使用授权来指示您是如何获得与这些联系人接触的权限的。
 
 ![](assets/authorization.png)
 
@@ -49,6 +49,6 @@ ht-degree: 2%
 
 ## 删除 {#delete}
 
-批量删除联系人。 可以找到完整步骤 [此处](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
+批量删除联系人。 您可以在[此处](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)找到完整步骤。
 
 ![](assets/delete.png)

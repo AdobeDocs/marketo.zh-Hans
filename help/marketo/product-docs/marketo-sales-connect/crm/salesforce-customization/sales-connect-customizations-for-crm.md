@@ -6,14 +6,14 @@ exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 1%
+source-wordcount: '701'
+ht-degree: 0%
 
 ---
 
 # CRM的Sales Connect自定义项 {#sales-connect-customizations-for-crm}
 
-下面的字段和按钮由Salesforce CRM中的元数据API创建。 创建字段后，管理员必须在其CRM中配置页面布局以公开它们。 可以找到说明 [此处](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+下面的字段和按钮由Salesforce CRM中的元数据API创建。 创建字段后，管理员必须在其CRM中配置页面布局以公开它们。 可在[此处](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)找到说明。
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ ht-degree: 1%
 
 ## 如何在Salesforce中安装自定义项 {#how-to-install-customizations-in-salesforce}
 
-1. 在Sales Connect中，单击齿轮图标并选择 **设置**.
+1. 在Sales Connect中，单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/one.png)
 
-1. 在管理设置下，选择 **Salesforce**.
+1. 在“管理设置”下，选择&#x200B;**Salesforce**。
 
    ![](assets/two.png)
 
-1. 单击 **Marketo Sales Connect自定义**.
+1. 单击&#x200B;**Marketo Sales Connect自定义项**。
 
    ![](assets/three.png)
 
-1. 单击 **连接到Salesforce**.
+1. 单击&#x200B;**连接到Salesforce**。
 
    ![](assets/four.png)
 
@@ -49,19 +49,19 @@ Salesforce自定义包的更新将包括增强功能和错误修复。 要检查
 >
 >**需要管理员权限。**
 
-1. 在 [Web应用程序](https://www.toutapp.com)，单击齿轮图标并选择 **设置**.
+1. 在[Web应用程序](https://www.toutapp.com)中，单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. 在管理设置下，单击 **Salesforce**.
+1. 在“管理员设置”下，单击&#x200B;**Salesforce**。
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Sales Connect Customization卡将显示是否有可用更新。 单击 **更新自定义项**.
+1. Sales Connect Customization卡将显示是否有可用更新。 单击&#x200B;**更新自定义项**。
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. 单击 **升级**.
+1. 单击&#x200B;**升级**。
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -75,7 +75,7 @@ Salesforce自定义包的更新将包括增强功能和错误修复。 要检查
 
 ## 自定义活动字段 {#custom-activity-fields}
 
-Marketo将检测新字段的创建，然后执行一次性数据回填、重新映射和将值持续同步到 **新建** 仅字段。 不会更新旧字段。
+Marketo将检测新字段的创建，然后执行一次性数据回填、重新映射和仅将值持续同步到&#x200B;**新**&#x200B;字段。 不会更新旧字段。
 
 | **字段名称** | **描述** |
 |---|---|
@@ -118,8 +118,8 @@ Marketo将检测新字段的创建，然后执行一次性数据回填、重新�
    <td>预订的描述。</td> 
   </tr> 
   <tr> 
-   <td>MSE — 上次营销参与来源</td> 
-   <td>营销参与度的来源。</td> 
+   <td>MSE — 上次营销参与Source</td> 
+   <td>Source营销参与度。</td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE — 上次营销参与类型</td> 
@@ -166,8 +166,8 @@ Marketo将检测新字段的创建，然后执行一次性数据回填、重新�
 
 ## 用户指南 {#user-guides}
 
-[Salesforce中的MSE自定义报表](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+Salesforce中的[MSE自定义报告](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[适用于Salesforce的MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+Salesforce的[MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[用于Salesforce Lightning的MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+Salesforce Lightning的[MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

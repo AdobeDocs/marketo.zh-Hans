@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >* 此集成仅适用于AEM的内部部署，AEM Cloud Service实施不支持此集成。
 >
->* 目前，仅在Firefox中完全支持此功能。 该工具在Safari中不受支持，并且可能在最新版本的Chrome中不起作用，具体取决于您的SameSite Cookie设置。
+>* 目前，仅在Firefox中完全支持此功能。 该功能在Safari中不受支持，并且可能在最新版本的Chrome中不起作用，具体取决于您的SameSite Cookie设置。
 
 1. 导航到Adobe Experience Manager （URL特定于您的公司）。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 在 **[!UICONTROL 工具]**，单击 **[!UICONTROL 操作]** 并选择 **[!UICONTROL Web控制台]**.
+1. 在&#x200B;**[!UICONTROL 工具]**&#x200B;中，单击&#x200B;**[!UICONTROL 操作]**&#x200B;并选择&#x200B;**[!UICONTROL Web控制台]**。
 
    ![](assets/2a.png)
 
@@ -43,38 +43,38 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 单击 **+** 在右侧签名。
+1. 单击右侧的&#x200B;**+**&#x200B;符号。
 
    ![](assets/four.png)
 
-1. 在 **[!UICONTROL 允许的源（正则表达式）]** 文本框，键入 `https://.*\.marketo\.com` 并单击 **[!UICONTROL 保存]**.
+1. 在&#x200B;**[!UICONTROL 允许的源(Regexp)]**&#x200B;文本框中，键入`https://.*\.marketo\.com`并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/five-psd.png)
 
-1. 在页面顶部的标题中，单击 **[!UICONTROL Web控制台]** 并选择 **[!UICONTROL 系统信息]**.
+1. 在页面顶部的标题中，单击&#x200B;**[!UICONTROL Web控制台]**&#x200B;并选择&#x200B;**[!UICONTROL 系统信息]**。
 
    ![](assets/six.png)
 
-1. 在“服务器信息”下，单击 **[!UICONTROL 重新启动]** 按钮。
+1. 在“服务器信息”下，单击&#x200B;**[!UICONTROL 重新启动]**&#x200B;按钮。
 
    ![](assets/seven.png)
 
-1. 单击 **[!UICONTROL 确定]** 以确认。
+1. 单击&#x200B;**[!UICONTROL 确定]**&#x200B;确认。
 
    ![](assets/eight.png)
 
-1. 在Marketo Engage中，单击 **[!UICONTROL 管理员]**.
+1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/nine.png)
 
-1. 在集成下，选择 **[!UICONTROL Adobe Experience Manager]**.
+1. 在集成下，选择&#x200B;**[!UICONTROL Adobe Experience Manager]**。
 
    ![](assets/ten.png)
 
-1. 单击 **[!UICONTROL 编辑]**.
+1. 单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/eleven.png)
 
-1. 输入您的AEM URL并单击 **[!UICONTROL 确定]**.
+1. 输入您的AEM URL并单击&#x200B;**[!UICONTROL 确定]**。
 
    ![](assets/twelve.png)

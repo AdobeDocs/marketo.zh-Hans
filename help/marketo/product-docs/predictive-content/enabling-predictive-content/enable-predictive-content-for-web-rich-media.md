@@ -23,33 +23,33 @@ ht-degree: 0%
 >
 >在启用预测内容之前，您必须：
 >
->* **准备预测内容**
+>* **准备您的预测内容**
 >
->   * [编辑电子邮件的预测内容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} 或
->   * [编辑富媒体的预测内容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} 或
+>   * [编辑电子邮件的预测内容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"}或
+>   * [编辑富媒体的预测内容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"}或
 >   * [编辑推荐栏的预测内容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
 >* [批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 准备好富媒体的内容标题、描述和图像后，您可以启用单个或多个内容片段。
 
-1. 要启用单个标题，请单击标题以打开编辑器。 单击富媒体，然后检查 **启用富媒体中的预测内容** 框并单击 **保存**.
+1. 要启用单个标题，请单击标题以打开编辑器。 单击富媒体，然后选中&#x200B;**启用富媒体中的预测内容**&#x200B;框并单击&#x200B;**保存**。
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. 对于多个内容，在 **预测内容** 页面，选中标题旁边的复选框。
+1. 对于多个内容，在&#x200B;**预测内容**&#x200B;页面上，选中标题旁边的复选框。
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. 单击 **内容操作** 下拉并选择 **为Web富媒体启用**.
+1. 单击&#x200B;**内容操作**&#x200B;下拉列表，然后选择&#x200B;**为Web富媒体启用**。
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## 自定义Javascript代码并将其嵌入您的网站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-请参阅有关富媒体推荐模板的文档 [在Marketo开发人员网站上](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. 本部分说明如何自定义网站的模板。
+请参阅Marketo开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上有关富媒体推荐模板[的文档。 本部分说明如何自定义网站的模板。
 
-将JavaScript代码粘贴到网站中您希望显示模板的位置。
+将JavaScript代码粘贴到网站中您希望显示该模板的位置。
 
 **模板示例**
 

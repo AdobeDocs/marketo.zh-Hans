@@ -6,7 +6,7 @@ exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/change-your-password-security-settings-1.png)
 
-1. 单击 **[!UICONTROL 登录设置]**.
+1. 单击&#x200B;**[!UICONTROL 登录设置]**。
 
    ![](assets/change-your-password-security-settings-2.png)
 
-1. 下 **[!UICONTROL 安全设置]**，单击 **[!UICONTROL 编辑]**.
+1. 在&#x200B;**[!UICONTROL 安全设置]**&#x200B;下，单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/change-your-password-security-settings-3.png)
 
-1. 选择 **[!UICONTROL 模板]**. 对于高级选项，单击 **[!UICONTROL 高级]** 下拉菜单。
+1. 选择&#x200B;**[!UICONTROL 模板]**。 有关高级选项，请单击&#x200B;**[!UICONTROL 高级]**&#x200B;下拉列表。
 
    ![](assets/change-your-password-security-settings-4.png)
 
@@ -41,16 +41,16 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在 **[!UICONTROL 自定义]**，请勾选方框以指示您希望用户在创建密码时包含哪些特征。
+   >在&#x200B;**[!UICONTROL 自定义]**&#x200B;中，选中方框以指示用户创建密码时要包含哪些特性。
 
-1. 设置 **[!UICONTROL 过期]**. 此功能自动要求用户在一定时间后重置密码。 这包括管理员用户。
+1. 设置&#x200B;**[!UICONTROL 过期]**。 此功能自动要求用户在一定时间后重置密码。 这包括管理员用户。
 
    ![](assets/change-your-password-security-settings-5.png)
 
    >[!CAUTION]
    >
-   >现有用户不会收到更改的通知。 设置 **[!UICONTROL 过期]** 第一天为30天，以确保每个人都已更新到新设置，然后将此设置更改回您的原始节奏。
+   >现有用户不会收到更改的通知。 首先将&#x200B;**[!UICONTROL 过期]**&#x200B;设置为30天，以确保所有人都已更新到新设置，然后将其更改回原始节奏。
 
-1. 设置 **[!UICONTROL 非活动会话超时]**. 此值确定用户在必须重新登录Marketo之前可以处于非活动状态的时长。
+1. 设置&#x200B;**[!UICONTROL 非活动会话超时]**。 此值确定用户在必须重新登录Marketo之前可以处于非活动状态的时长。
 
    ![](assets/change-your-password-security-settings-6.png)

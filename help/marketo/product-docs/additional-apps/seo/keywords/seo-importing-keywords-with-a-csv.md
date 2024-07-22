@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # SEO — 使用CSV导入关键字 {#seo-importing-keywords-with-a-csv}
 
-1. 您可以 [添加关键字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) 手动， [获取关键词建议](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) 甚至可以从CSV文件导入关键字。 下面是如何导入的。
+1. 您可以[手动添加关键字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)、[获取关键字建议](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)，甚至可以从CSV文件导入关键字。 下面是如何导入的。
 
-1. 转到 **[!UICONTROL 关键字]** 部分。
+1. 转到&#x200B;**[!UICONTROL 关键字]**&#x200B;部分。
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. 单击 **[!UICONTROL 导入]**.
+1. 单击&#x200B;**[!UICONTROL 导入]**。
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. 单击 **[!UICONTROL 选择文件]**.
+1. 单击&#x200B;**[!UICONTROL 选择文件]**。
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >导入限制因您的订阅而异。 有关更多信息，请与您的销售代表联系。
 
-1. 单击 **[!UICONTROL 导入]**.
+1. 单击&#x200B;**[!UICONTROL 导入]**。
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 

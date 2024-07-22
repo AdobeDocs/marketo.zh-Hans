@@ -5,8 +5,8 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 7%
+source-wordcount: '527'
+ht-degree: 6%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 7%
 
 Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 如果您希望在Veeva CRM中使用此数据，请按照以下说明操作。
 
-`1.` 在Veeva CRM中为联系人对象创建一个自定义字段：分数
+`1.`在Veeva CRM中为联系人对象创建一个自定义字段：分数
 
-`2.` 如果需要，您可以创建其他字段（请参阅下表）。
+`2.`如果需要，您可以创建其他字段（请参阅下表）。
 
 所有这些自定义字段都是可选的，并且不是同步Marketo Engage和Veeva CRM的必需字段。
 
@@ -30,11 +30,11 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 
 要添加Score字段，请执行以下步骤。
 
-1. 登录到Veeva CRM并单击 **[!UICONTROL 设置]**.
+1. 登录到Veeva CRM，然后单击&#x200B;**[!UICONTROL 设置]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. 单击 **[!UICONTROL 对象和字段]** 并选择 **[!UICONTROL 对象管理器]**.
+1. 单击&#x200B;**[!UICONTROL 对象和字段]**&#x200B;并选择&#x200B;**[!UICONTROL 对象管理器]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -42,11 +42,11 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. 单击 **[!UICONTROL 联系人]** 对象。
+1. 单击&#x200B;**[!UICONTROL 联系人]**&#x200B;对象。
 
-1. 选择 **[!UICONTROL 字段和关系]**.
+1. 选择&#x200B;**[!UICONTROL 字段和关系]**。
 
-1. 单击 **[!UICONTROL 新建]**.
+1. 单击&#x200B;**[!UICONTROL 新建]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -58,7 +58,7 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. 输入 **[!UICONTROL 字段标签]**， **[!UICONTROL 长度]**、和 **[!UICONTROL 字段名称]** ，如下表所示。
+1. 为字段输入&#x200B;**[!UICONTROL 字段标签]**、**[!UICONTROL 长度]**&#x200B;和&#x200B;**[!UICONTROL 字段名称]**，如下表所示。
 
 <table>
  <tbody>
@@ -92,7 +92,7 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. 指定访问设置，然后单击 **[!UICONTROL 下一个]**.
+1. 指定访问设置，然后单击&#x200B;**[!UICONTROL 下一步]**。
 
 1. 将所有角色设置为“可见”和“只读”。
 
@@ -105,9 +105,9 @@ Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 �
 
 1. 选择应显示该字段的页面布局。
 
-1. 单击 **[!UICONTROL 保存并新建]** 以返回并创建另外两个自定义字段。
+1. 单击&#x200B;**[!UICONTROL 保存并新建]**&#x200B;以返回并创建其他两个自定义字段。
 
-1. 单击 **[!UICONTROL 保存]** 等你都搞定了。
+1. 完成全部三个操作后，单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

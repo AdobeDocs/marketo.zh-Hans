@@ -6,7 +6,7 @@ exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->要使用自定义对象，必须将其关联到 [商机](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}, or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} Salesforce中的对象。
+>要使用自定义对象，必须将其关联到Salesforce中的[潜在客户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}、[联系人](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}或[帐户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}对象。
 
 >[!IMPORTANT]
 >
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 ## 启用自定义对象  {#enable-custom-object}
 
-1. 单击 **[!UICONTROL 管理员]** 和 **[!UICONTROL Salesforce对象同步]** 链接。
+1. 单击&#x200B;**[!UICONTROL 管理员]**&#x200B;和&#x200B;**[!UICONTROL Salesforce对象同步]**&#x200B;链接。
 
-   ![](assets/image2015-11-19-10-3a28-3a5.png).
+   ![](assets/image2015-11-19-10-3a28-3a5.png)。
 
-1. 如果这是您的第一个自定义对象，请单击 **[!UICONTROL 同步架构]**.
+1. 如果这是您的第一个自定义对象，请单击&#x200B;**[!UICONTROL 同步架构]**。
 
    ![](assets/rtaimage-2.png)
 
-1. 单击 **[!UICONTROL 禁用全局同步]**.
+1. 单击&#x200B;**[!UICONTROL 禁用全局同步]**。
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -55,11 +55,11 @@ ht-degree: 0%
    >
    >自定义对象必须具有唯一的名称。 Marketo不支持具有相同名称的两个其他自定义对象。
 
-1. 单击 **[!UICONTROL 启用同步]**.
+1. 单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. 单击 **[!UICONTROL 启用同步]** 再来一次。
+1. 再次单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -67,15 +67,15 @@ ht-degree: 0%
    >
    >不要忘记重新启用全局同步！
 
-1. 返回 **Salesforce** 选项卡。
+1. 返回&#x200B;**Salesforce**&#x200B;选项卡。
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. 单击 **[!UICONTROL 启用同步]**.
+1. 单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. 要查看所有Salesforce自定义对象，请单击 **[!UICONTROL 管理员]** 和 **[!UICONTROL Salesforce对象同步]** 链接（与上面步骤1相同）。
+1. 要查看您的所有Salesforce自定义对象，请单击&#x200B;**[!UICONTROL 管理员]**&#x200B;和&#x200B;**[!UICONTROL Salesforce对象同步]**&#x200B;链接（与上述步骤1相同）。
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

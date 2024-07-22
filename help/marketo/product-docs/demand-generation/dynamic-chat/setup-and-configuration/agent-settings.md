@@ -2,10 +2,10 @@
 description: 代理设置 — Marketo文档 — 产品文档
 title: 代理设置
 feature: Dynamic Chat
-exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
+exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->确保您的座席已被授予 [权限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>请确保已授予您的代理相应的[权限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}。
 
 ![](assets/agent-settings-1.png)
 
@@ -78,7 +78,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->您可以在同一天选择多个时间块(例如，星期五从8a到12p _和_ 1p-5p) **+** 在右侧签名。
+>通过单击右侧的&#x200B;**+**&#x200B;符号，可选择同一天的多个时间块（例如，8a-12p _和_ 1p-5p之间的星期五）。
 
 ## 实时聊天可用性 {#live-chat-availability}
 
@@ -86,12 +86,12 @@ ht-degree: 2%
 
 ![](assets/agent-settings-5.png)
 
-如果您已登录到应用程序，您将会收到传入聊天的应用内通知。 如果您未登录，将会收到浏览器通知(如果您已 [设置](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"})。
+如果您已登录到应用程序，您将会收到传入聊天的应用内通知。 如果您未登录，则将收到浏览器通知（如果您已[设置](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}）。
 
 >[!IMPORTANT]
 >
->此 [可用性切换](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 在Agent收件箱中 **将覆盖** 您在“实时聊天可用性”选项卡中输入的内容。 因此，如果您被安排在1p到5p之间可用，但需要在3p快速休息，则无需更改代理设置。 可用性切换状态将一直保留，直到您手动更改它或到达您的可用性中的下一个时间块为止。
+>代理收件箱&#x200B;**中的[可用性切换](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}将覆盖您在“实时聊天可用性”选项卡中输入的内容**。 因此，如果您被安排在1p到5p之间可用，但需要在3p快速休息，则无需更改代理设置。 可用性切换状态将一直保留，直到您手动更改它或到达您的可用性中的下一个时间块为止。
 
 >[!TIP]
 >
->您可以在同一天选择多个时间块(例如，星期五从8a到12p _和_ 1p-5p) **+** 在右侧签名。
+>通过单击右侧的&#x200B;**+**&#x200B;符号，可选择同一天的多个时间块（例如，8a-12p _和_ 1p-5p之间的星期五）。

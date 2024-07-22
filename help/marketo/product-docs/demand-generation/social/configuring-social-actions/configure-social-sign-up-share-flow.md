@@ -6,7 +6,7 @@ exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 选择要共享的网络 {#select-networks-for-sharing}
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/ma-1.png)
 
-1. 选择应用程序，然后单击 **编辑草稿**.
+1. 选择应用程序，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/image2014-9-22-13-3a57-3a43.png)
 
-1. 在社交应用程序编辑器中，单击 **注册流程** > **社交网络**.
+1. 在社交应用编辑器中，单击&#x200B;**注册流程** > **社交网络**。
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 配置Facebook消息 {#configure-the-facebook-message}
 
-1. 转到 **注册流程** > **共享消息**.
+1. 转到&#x200B;**注册流程** > **共享邮件**。
 
    ![](assets/five.png)
 
@@ -47,33 +47,33 @@ ht-degree: 0%
    >
    >在视频共享中，将自动生成缩略图。
 
-   如果您选择 **添加动态内容**，页面的值 **OpenGraph** 标记（og：title、og：caption和og：description）和缩略图会自动添加到Facebook帖子中。 请参阅下一步。
+   如果选择&#x200B;**添加动态内容**，则页面的&#x200B;**OpenGraph**&#x200B;标记（og：title、og：caption和og：description）和缩略图的值将自动添加到Facebook帖子中。 请参阅下一步。
 
-   如果您选择 **添加静态内容**，输入标题、标题、描述并上传图像。 请参阅下面的两个步骤。
+   如果选择&#x200B;**添加静态内容**，请输入标题、标题、描述并上传图像。 请参阅下面的两个步骤。
 
-1. 在“查看和编辑”窗口中，单击 **显示编辑** 并编辑将显示在Facebook帖子中的共享提示和消息。
+1. 在“查看和编辑”窗口中，单击&#x200B;**显示编辑内容**&#x200B;并编辑共享提示和将显示在Facebook帖子中的消息。
 
    >[!TIP]
    >
-   >有关更多信息，请参阅 [编辑Facebook富帖子设置](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
+   >有关详细信息，请参阅[编辑Facebook富帖子设置](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)。
 
    ![](assets/image2014-9-22-13-3a59-3a57.png)
 
    >[!NOTE]
    >
-   >此 [共享URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) 自动添加到所有共享消息。
+   >[共享URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)已自动添加到所有共享消息中。
 
-1. 如果您选择 **添加静态内容** 在上面，编辑标题、标题和描述，并上传自定义图像(从您的 [**Marketo图像和文件**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md))。
+1. 如果选择上述&#x200B;**添加静态内容**，请编辑标题、标题和描述，并上传自定义图像(来自&#x200B;[**Marketo图像和文件**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md))。
 
    ![](assets/image2014-9-22-14-3a1-3a11.png)
 
-   请参阅 [将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   请参阅[将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
 
    >[!NOTE]
    >
    >如果上传图像，则直到关闭并重新打开社交应用程序编辑器后，您才会在此处看到该图像。
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
 如果您选择页面标签的值（og：title、og：caption和og：description），则缩略图会自动添加到Facebook帖子中。 请参阅下一步。
 
@@ -85,9 +85,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >使用 {html_title} 在推文文本中自动显示页面标题。
+   >在推文文本中使用{html_title}自动显示页面标题。
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
 ## 配置LinkedIn消息 {#configure-the-linkedin-message}
 
@@ -95,19 +95,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a3-3a8.png)
 
-   如果您选择 **添加动态内容**、页面标记的值（标题和描述）以及缩略图会自动添加到LinkedIn帖子中。 请参阅下一步。
+   如果选择&#x200B;**添加动态内容**，则页面标记的值（标题和描述）以及缩略图会自动添加到LinkedIn帖子中。 请参阅下一步。
 
-   如果您选择 **添加静态内容**，输入标题、标题和描述，然后上传图像。 请参阅下面的两个步骤。
+   如果选择&#x200B;**添加静态内容**，请输入标题、标题和描述，然后上载图像。 请参阅下面的两个步骤。
 
-1. 在 **查看和编辑** 窗口，单击 **显示编辑** 并编辑将显示在LinkedIn帖子中的共享提示和消息。
+1. 在&#x200B;**查看和编辑**&#x200B;窗口中，单击&#x200B;**显示编辑内容**&#x200B;并编辑共享提示和将显示在LinkedIn帖子中的消息。
 
    ![](assets/image2014-9-22-14-3a4-3a6.png)
 
    >[!TIP]
    >
-   >使用 {html_title} 在帖子文本中自动显示页面标题。
+   >在您的帖子文本中使用{html_title}自动显示页面标题。
 
-1. 如果您选择 **添加静态内容** 在上面，编辑标题和描述，并上传自定义图像(从您的 [**Marketo图像和文件**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md))。
+1. 如果您选择了上面的&#x200B;**添加静态内容**，请编辑标题和描述，并上传自定义图像(从&#x200B;[**Marketo图像和文件**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md))。
 
    ![](assets/image2014-9-22-13-3a55-3a17.png)
 
@@ -117,4 +117,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->接下来，您可以单击 **完成** > **批准并关闭** 将您的社交应用程序放在登陆页面上。 您还可以配置 [人员捕获](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md) 或 [重新共享提示](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md).
+>接下来，您可以单击&#x200B;**完成** > **批准并关闭**，并将您的社交应用程序置于登陆页面上。 您还可以配置[人员捕获](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)或[重新共享提示](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md)。

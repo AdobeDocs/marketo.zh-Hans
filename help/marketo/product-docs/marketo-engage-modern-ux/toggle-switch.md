@@ -22,11 +22,11 @@ ht-degree: 0%
 
 为单个角色或所有角色启用切换开关。 具体方法如下。
 
-1. 在Marketo Engage中，单击 **管理员**.
+1. 在Marketo Engage中，单击&#x200B;**管理员**。
 
    ![](assets/toggle-switch-1.png)
 
-1. 单击 **新体验**.
+1. 单击&#x200B;**新建体验**。
 
    ![](assets/toggle-switch-2.png)
 
@@ -46,11 +46,11 @@ ht-degree: 0%
 
 ![](assets/toggle-switch-5.png)
 
-要为以下项启用它 _所有_ 特征时，单击切换开关旁边的齿轮图标。
+要为&#x200B;_所有_&#x200B;功能启用它，请单击切换开关旁边的齿轮图标。
 
 ![](assets/toggle-switch-6.png)
 
-选择 **为所有可用功能启用** 并单击 **确定**.
+选择&#x200B;**启用所有可用功能**，然后单击&#x200B;**确定**。
 
 ![](assets/toggle-switch-7.png)
 

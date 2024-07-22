@@ -5,7 +5,7 @@ exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
 source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '626'
 ht-degree: 3%
 
 ---
@@ -16,17 +16,17 @@ ht-degree: 3%
 
 >[!AVAILABILITY]
 >
->以星号(![星形](assets/yellow-star.png))是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，并将于以下日期开始发行 **2023年1月20日**，在接下来的几周内分阶段推出剩余的功能。 发行功能和日期可能会发生更改。 请检查每个功能下方的状态。
+以下功能属于标准发行周期，将于&#x200B;**2023年1月20日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能下方的状态。
 
 ### 现代UXMarketo Engage {#modern-ux}
 
 </br>
 
-* **更新了现代UX中的屏幕**：在现代UX（以前称为下一代体验）中，我们提供额外的刷新屏幕，这些屏幕提供更新的设计和可用性增强功能，可通过切换开关访问：
+* **已更新新版UX中的Screens**：新版UX（以前称为下一代体验）中，我们将提供额外的刷新屏幕，这些屏幕提供更新的设计和可用性增强功能，可通过切换开关进行访问：
 
    * 代码片段列表视图
    * 登陆页面模板列表
@@ -43,7 +43,7 @@ ht-degree: 3%
   </tbody>
 </table>
 
-* **组件用于电子邮件模板详细信息和代码片段详细信息的增强功能**：新增的“用于UI”选项卡提供有关每个“用于”资源的附加信息，例如上次修改时间和修改者。 您可以通过搜索、排序和筛选功能轻松执行分析。 将从电子邮件模板和代码片段资产开始合并此新UI组件。
+* **组件用于电子邮件模板详细信息和代码片段详细信息的增强功能**：“新用于UI”选项卡提供有关每个用于资源的附加信息，例如上次修改时间和修改者。 您可以通过搜索、排序和筛选功能轻松执行分析。 将从电子邮件模板和代码片段资产开始合并此新UI组件。
 
 <table> 
   <tr> 
@@ -61,7 +61,7 @@ ht-degree: 3%
 
 </br>
 
-* **重新设计了报表资产的模式**：现代UX中针对报告配置模式的新设计，提供了更新的外观和风格，并改进了辅助功能。
+* **重新设计了报表Assets的模式**：新设计的现代UX中的报表配置模式，提供了更新的外观，以及改进的辅助功能。
 
 <table> 
   <tr> 
@@ -79,7 +79,7 @@ ht-degree: 3%
 
 </br>
 
-* **Marketo Measure Ultimate**：为具有多个CRM和/或Marketo Engage实例且源数据需求不同的企业实现完整的B2B归因。 它还通过共享AEP数据为AdobeRT-CDP提供了B2B归因解决方案。
+* **Marketo Measure Ultimate**：为具有多个CRM和/或Marketo Engage实例且源数据需求不同的企业启用完整的B2B归因。 它还通过共享AEP数据为AdobeRT-CDP提供了B2B归因解决方案。
 
 <table> 
   <tr> 
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 </br>
 
-* **通过添加批量导出API信息增强了“Web服务”选项卡**：您现在可以查看订阅的每日容量分配，并查看过去7天内使用的每日容量分配量。
+* **通过添加批量导出API信息增强了Web服务选项卡**：您现在可以查看订阅的每日容量分配，并查看过去7天已使用的每日容量分配量。
 
 <table> 
   <tr> 
@@ -119,7 +119,7 @@ ht-degree: 3%
 
 </br>
 
-* **在信息捕获卡中定义用于Dynamic Chat的选取列表**：为了确保数据干净，您可以定义信息捕获卡的选择列表，以便访客只能从预定义的选项列表中进行选择。
+* **在信息捕获卡中为Dynamic Chat定义选择列表**：为帮助确保数据整洁，您可以为信息捕获卡定义选择列表，以便访客只能从预定义的选项列表中进行选择。
 
 <table> 
   <tr> 
@@ -133,7 +133,7 @@ ht-degree: 3%
   </tbody>
 </table>
 
-* **在会议确认中为Dynamic Chat进行个性化**：工程师可以使用“Marketo Engage人员”和“公司”字段对会议预订电子邮件确认进行个性化设置，以便更好地与访客接洽（例如：在自动会议预订通知电子邮件中按访客的名字向其问候）。
+* **Dynamic Chat会议确认中的Personalization**：座席可使用Marketo Engage人员和公司字段对会议预订电子邮件确认进行个性化设置，以便更好地与访客接洽（例如：在自动会议预订通知电子邮件中按访客的名字向其问候访客）。
 
 <table> 
   <tr> 
@@ -147,7 +147,7 @@ ht-degree: 3%
   </tbody>
 </table>
 
-* **在流设计器中搜索**：轻松地在流设计器中搜索内容，以便快速查找流中所有卡片/节点的内容（例如：搜索“SEO”，它将突出显示包含该字符串的所有节点）。
+* **在流Designer中搜索**：在流Designer中轻松搜索内容，以便在流中的所有卡片/节点中快速查找内容（例如：搜索“SEO”，它将突出显示包含该字符串的所有节点）。
 
 <table> 
   <tr> 
@@ -161,7 +161,7 @@ ht-degree: 3%
   </tbody>
 </table>
 
-* **用于Dynamic Chat的聊天机器人日期/时间选取器**：Web访客可以使用日历选择器选择日期和时间，而不是手动输入日期。
+* **Dynamic Chat的聊天机器人日期/时间选择器**： Web访客可以使用日历选择器选择日期和时间，而不是手动输入日期。
 
 <table> 
   <tr> 
@@ -175,7 +175,7 @@ ht-degree: 3%
   </tbody>
 </table>
 
-* **Dynamic Chat的计划会议电子邮件通知**：在座席日历上预订会议时，座席将收到一封有关预订的电子邮件通知，其中包括有关访客Dynamic Chat参与的详细信息。
+* **Dynamic Chat的计划会议电子邮件通知**：在座席的日历上预订会议时，座席将收到有关预订的电子邮件通知，其中包括有关访客Dynamic Chat参与的详细信息。
 
 <table> 
   <tr> 
@@ -191,6 +191,6 @@ ht-degree: 3%
 
 ## 公告 {#announcements}
 
-* **Marketo REST API更改**：在2022年10月版中，我们对Marketo REST API响应消息进行了细微更改。 请查看此 [《Marketo国家邮报》](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} 以了解更多详细信息。
+* **Marketo REST API更改**：在2022年10月版本中，我们对Marketo REST API响应消息进行了细微更改。 有关详细信息，请参阅此[Marketo Nation帖子](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"}。
 
-* **_产品发布网络研讨会_**： [2022年10月和2023年1月Marketo Engage发布网络研讨会](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_产品发布网络研讨会_**：[2022年10月和2023年1月Marketo Engage发布网络研讨会](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

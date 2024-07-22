@@ -18,16 +18,16 @@ ht-degree: 0%
 ## 在用户权限中启用API {#enable-api-in-user-permissions}
 
 1. 让Salesforce管理员登录SFDC。
-1. 选择 **设置**.
-1. 选择 **管理用户**.
-1. 选择 **配置文件**.
-1. 找到ToutApp用户位于下的配置文件，然后单击 **编辑**.
-1. 向下滚动到 **管理权限** 并确保 **API已启用** 已选中。
+1. 选择&#x200B;**设置**。
+1. 选择&#x200B;**管理用户**。
+1. 选择&#x200B;**配置文件**。
+1. 查找ToutApp用户所属的配置文件，然后单击&#x200B;**编辑**。
+1. 向下滚动到&#x200B;**管理权限**&#x200B;并确保选中&#x200B;**已启用API**。
 
 ## 检查Salesforce是否阻止Sales Connect连接 {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
 1. 让Salesforce管理员登录SFDC。
-1. 选择 **设置**.
-1. 选择 **管理应用程序**.
-1. 选择 **连接的应用程序OAuth使用情况**.
+1. 选择&#x200B;**设置**。
+1. 选择&#x200B;**管理应用程序**。
+1. 选择&#x200B;**连接的应用程序OAuth使用情况**。
 1. 确保Sales Connect旁边显示“Block”。 如果您看到“取消阻止”，请单击按钮以取消阻止Sales Connect访问Salesforce。

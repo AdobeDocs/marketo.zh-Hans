@@ -6,7 +6,7 @@ exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Marketo中的电子邮件标头是完全可自定义的。 它由四个字段组成：
 
-* **从**  — 您希望显示的发件人名称
-* **发件人地址**  — 您希望显示的发件人电子邮件地址
-* **回复**  — 您希望将人员回复发送到的电子邮件地址（可以不同于发件人地址）
-* **主题**  — 电子邮件的主题行
+* **从** — 您希望显示的发件人名称
+* **发件人地址** — 您希望显示的发件人电子邮件地址
+* **回复** — 您希望接收人员回复的电子邮件地址（可能不同于发件人地址）
+* **主题** — 电子邮件的主题行
 
 要编辑这些值，请在每个字段中单击并输入您的信息。
 
@@ -26,7 +26,7 @@ Marketo中的电子邮件标头是完全可自定义的。 它由四个字段组
 
 >[!TIP]
 >
->要设置默认发件人姓名和发件人电子邮件，请参阅 [更改来自电子邮件和来自标签的默认值](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
+>若要设置“发件人姓名”和“发件人电子邮件”的默认值，请参阅[将默认值从“电子邮件”和“发件人标签”更改为](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)。
 
 如果要使用令牌，请首先在所需字段中单击，然后单击令牌图标。
 

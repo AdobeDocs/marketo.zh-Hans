@@ -20,19 +20,19 @@ ht-degree: 0%
 
 以下流操作可用：
 
-* [!UICONTROL 添加到Microsoft Campaign]
-* [!UICONTROL 从Microsoft营销活动中删除]
+* [!UICONTROL 添加至Microsoft Campaign]
+* [!UICONTROL 从Microsoft Campaign中删除]
 
 >[!NOTE]
 >
->**[!UICONTROL 从Microsoft营销活动中删除]** 将仅删除使用Marketo中的流量操作添加的人员。
+>**[!UICONTROL 从Microsoft Campaign中删除]**&#x200B;将只删除使用Marketo中的流量操作添加的人员。
 
 此外还有两个触发因素：
 
-* [!UICONTROL 已添加到Microsoft Campaign]
-* [!UICONTROL 从Microsoft Campaign中移除]
+* [!UICONTROL 已添加至Microsoft Campaign]
+* [!UICONTROL 已从Microsoft Campaign中删除]
 
-触发器将根据来自Marketo流量操作»[!UICONTROL 添加到Microsoft Campaign]”和“[!UICONTROL 从Microsoft Campaign中移除]“
+将根据Marketo流程操作“[!UICONTROL 添加到Microsoft Campaign]”和“[!UICONTROL 从Microsoft Campaign中删除]”中的操作执行触发器。
 
 >[!NOTE]
 >
@@ -41,4 +41,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [启用Campaign同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
->* [添加或删除Dynamics营销活动中的人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
+>* [在Dynamics Campaign中添加或删除人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}

@@ -15,13 +15,13 @@ ht-degree: 0%
 
 2017年春季发行版中包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
-请单击标题链接以查看每个功能的详细文章。 **注意**：如果一个主题有多个子标题，则链接会放在该处。
+请单击标题链接以查看每个功能的详细文章。 **注意**：如果一个主题有多个子标题，则链接会放在那里。
 
-## [linkedIn负责人Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn负责人Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 是企业在LinkedIn上开展商机挖掘活动的更直接方式。 人员可以填写一些表单来表达对产品或服务的兴趣，这样，企业就可以捕获人员的详细信息，并将这些详细信息同步到Marketo，以便进行自动的跟进流程和潜在客户传递活动。
+[LinkedIn潜在客户生成Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)是企业在LinkedIn上开展潜在客户生成活动的更直接方式。 人员可以填写一些表单来表达对产品或服务的兴趣，这样，企业就可以捕获人员的详细信息，并将这些详细信息同步到Marketo，以便进行自动的跟进流程和潜在客户传递活动。
 
-Marketo与LinkedIn Lead Gen Forms的集成会自动捕获商机在Lead Gen表单中提供的信息。 然后，可以使用新的自动跟进操作和通知 **填写LinkedIn潜在客户生成表单** 触发器和过滤器。
+Marketo与LinkedIn Lead Gen Forms的集成会自动捕获商机在Lead Gen表单中提供的信息。 然后，可以使用新的&#x200B;**填写LinkedIn潜在客户生成表单**&#x200B;触发器和过滤器自动执行跟进操作和通知。
 
 ![](assets/release-notes-image.png)
 
@@ -41,11 +41,11 @@ Marketo与LinkedIn Lead Gen Forms的集成会自动捕获商机在Lead Gen表单
 
 ## ABM增强功能 {#abm-enhancements}
 
-**[ABM指定帐户上的自定义字段](https://docs.marketo.com/x/1wnG)**
+ABM命名帐户上的&#x200B;**[自定义字段](https://docs.marketo.com/x/1wnG)**
 
 Marketo ABM现在允许您在指定帐户中创建最多10个自定义字段。 您可以将这些自定义字段映射到CRM帐户对象中的字段，Marketo ABM将同步数据，从而允许您扩展ABM指定帐户并帮助推动营销。
 
-**[ABM指定帐户上的百分位数评分](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+ABM命名帐户的&#x200B;**[百分点评分](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 命名帐户得分可能差别很大。 Marketo ABM现在会自动计算每个得分的百分位数，以便您一眼就能看到每个指定帐户在其他指定帐户中的排名。
 
@@ -53,11 +53,11 @@ Marketo ABM现在允许您在指定帐户中创建最多10个自定义字段。 
 
 利用丰富而强大的ABM合作伙伴集成，以及针对指定帐户列表的增强API支持。
 
-## Web个性化增强功能 {#web-personalization-enhancements}
+## Web Personalization增强功能 {#web-personalization-enhancements}
 
 ![](assets/dialogoptions.png)
 
-**[滚动时Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
+滚动时&#x200B;**[Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 新的Web促销活动效果为您的Web访客提供了更加个性化的体验。 将您的个性化Web促销活动设置为仅当Web访客在网页上向下滚动时才显示。 您可以根据以下条件将您的Dialog Web营销活动设置为在滚动时显示：
 
@@ -69,7 +69,7 @@ Marketo ABM现在允许您在指定帐户中创建最多10个自定义字段。 
 
 在访客关闭您的页面之前捕获访客的注意力。 将您的个性化Web促销活动设置为仅在鼠标手势指示访客离开页面时显示。
 
-**[Web营销活动的动画效果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+网络营销活动的&#x200B;**[动画效果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 设置Dialog Web Campaign的动画效果，以自定义活动在进入或退出网页时的显示方式。 您可以从6种不同的效果中进行选择，并控制对话框的时间和方向。
 
@@ -89,7 +89,7 @@ Marketo ABM现在允许您在指定帐户中创建最多10个自定义字段。 
 
 **[本地化](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-Web个性化现在以所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）提供。
+Web Personalization现在以所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）提供。
 
 ## 预测性增强功能 {#predictive-enhancements}
 

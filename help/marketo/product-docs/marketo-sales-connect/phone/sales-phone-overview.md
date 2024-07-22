@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 如何快速设置Sales Phone？ {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**电话号码：** 您只需键入一次。 Sales Connect将会记住您今后所有呼叫的号码。
+**电话号码：**&#x200B;您只需键入一次。 Sales Connect将会记住您今后所有呼叫的号码。
 
-**本地存在：** 您只需选中“使用本地存在”并记录首次呼叫的呼叫。 Sales Connect将记住您未来所有呼叫的设置。
+**本地存在：**&#x200B;您只需选中“使用本地存在”并记录第一次呼叫的呼叫。 Sales Connect将记住您未来所有呼叫的设置。
 
-如果希望Sales Connect在Salesforce中自动创建呼叫活动，请签出 [本文](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
+如果希望Sales Connect在Salesforce中自动创建呼叫活动，请查看[本文](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)。
 
 ## 如何使用销售电话进行呼叫？ {#how-do-i-make-a-call-with-sales-phone}
 
@@ -33,10 +33,10 @@ ht-degree: 0%
 
 您可以从Niko致电，但我们尚不支持从那里进行通话录制或本地存在。
 
-在“指挥中心”中，您可以使用“已发送”选项卡中的“呼叫列表”。
+在指挥中心，您可以从已发送选项卡中使用“呼叫列表”。
 
 一旦您拨打了电话或打了电话， Sales Connect就会从Salesforce中提取您的潜在客户/联系人的电话号码。 如果Salesforce中未列出任何号码， Sales Connect将提取帐户记录上的电话号码。
 
-对于使用其他CRMS的团队， Sales Connect将从Sales Connect中记录的电话号码中提取电话号码。 此数据可通过以下方式轻松获取 [CSV上传](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+对于使用其他CRMS的团队， Sales Connect将从Sales Connect中记录的电话号码中提取电话号码。 可以通过[CSV上传](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)轻松使用此数据。
 
-击中大绿色 **调用** 按钮。 然后，您的电话将开始响铃。 拿起电话， Sales Connect将自动致电潜在客户/联系人。
+按绿色的大按钮&#x200B;**呼叫**。 然后，您的电话将开始响铃。 拿起电话， Sales Connect将自动致电潜在客户/联系人。

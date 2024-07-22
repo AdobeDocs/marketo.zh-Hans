@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 了解自由表单与引导式登陆页面 {#understanding-free-form-vs-guided-landing-pages}
 
-您选择的模板决定了您将使用的登陆页面编辑模式。 有两种可能的路径： [自由格式](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) 和 [引导式](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 下面您将找到重要差异的快速摘要。
+您选择的模板决定了您将使用的登陆页面编辑模式。 有两种可能的路径：[自由格式](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)和[引导式](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)。 下面您将找到重要差异的快速摘要。
 
 ## 自由格式页面 {#free-form-pages}
 

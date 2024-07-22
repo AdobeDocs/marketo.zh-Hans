@@ -6,7 +6,7 @@ exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 社交个人资料 {#social-profiles}
 
-现在，当潜在客户共享内容或使用其社交个人资料填写表单时，您可以收集有关他们的信息。 其中包括Facebook、LinkedIn和Twitter可处理任务、拥有的朋友数量等。
+现在，当潜在客户共享内容或使用其社交个人资料填写表单时，您可以收集有关他们的信息。 其中包括Facebook、LinkedIn和Twitter句柄、他们拥有的朋友数量等。
 
 ## 收入浏览器报表订阅 {#revenue-explorer-report-subscriptions}
 

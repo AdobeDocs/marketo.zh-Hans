@@ -15,11 +15,11 @@ ht-degree: 1%
 
 您需要为用户设置权限才能使用TAM。 具体方法如下。
 
-1. 单击 **管理员**.
+1. 单击&#x200B;**管理员**。
 
    ![](assets/one-2.png)
 
-1. 单击 **用户和角色**.
+1. 单击&#x200B;**用户和角色**。
 
    ![](assets/two-2.png)
 
@@ -27,15 +27,15 @@ ht-degree: 1%
    >
    >您可以为现有角色添加TAM权限，或创建全新的角色。 此示例使用新角色。
 
-1. 单击 **角色**，则 **新建角色**.
+1. 单击&#x200B;**角色**，然后单击&#x200B;**新建角色**。
 
    ![](assets/three-2.png)
 
-1. 输入角色名称，然后单击 **+** 图标（位于访问Target帐户管理复选框旁边）。
+1. 输入角色名称，然后单击“访问目标帐户管理”复选框旁边的&#x200B;**+**&#x200B;图标。
 
    ![](assets/permissions-4.png)
 
-1. 选择 _所有_ 权限，只需检查 **访问Target帐户管理** 复选框。
+1. 要选择&#x200B;_所有_&#x200B;权限，只需选中&#x200B;**访问Target帐户管理**&#x200B;复选框。
 
    ![](assets/permissions-5.png)
 
@@ -43,8 +43,8 @@ ht-degree: 1%
    >
    >您还可以选择仅选择部分选项。 分别选中每个复选框即可执行此操作。
 
-1. 单击 **+** 以打开访问管理员菜单。 查看 **访问ABM管理员** 复选框（ABM是TAM的先前名称），然后单击 **创建**.
+1. 单击&#x200B;**+**&#x200B;以打开“访问管理员”菜单。 选中&#x200B;**访问ABM管理员**&#x200B;复选框（ABM是TAM的先前名称），然后单击&#x200B;**创建**。
 
    ![](assets/permissions-6.png)
 
-   您的新TAM角色现已准备就绪 [已分配给用户](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)！
+   您的新TAM角色现已准备就绪，可[分配给用户](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)！

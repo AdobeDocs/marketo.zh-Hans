@@ -17,10 +17,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 在开始设置MSI之前，已为您的Marketo实例启用“MSI非本地”功能。 如果不是，并且您已购买该功能，请联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. 如果您尚未购买此功能，请联系Adobe客户团队（您的客户经理）。
->* 具有的Salesforce帐户 [MSI包设置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
->* MARKETO REST API [已成功设置](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. 公开的CRUD API将是执行非本机同步的基础。
->* 读取 [此博客帖子](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} 以便了解对象和关系。
+>* 在开始设置MSI之前，已为您的Marketo实例启用“MSI非本地”功能。 如果不是，并且您已购买该功能，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 如果您尚未购买此功能，请联系Adobe客户团队（您的客户经理）。
+>* 设置[MSI包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}的Salesforce帐户。
+>* Marketo REST API [已成功设置](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。 公开的CRUD API将是执行非本机同步的基础。
+>* 阅读[这篇博客文章](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"}以了解对象和关系。
 >* 设置Salesforce对象以显示18个字符不区分大小写的全局唯一标识符，而不是15个字符区分大小写的全局唯一标识符。
 
 >[!NOTE]
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 1. 将Salesforce Sales用户同步到Marketo。
 
-   Salesforce销售用户是拥有Salesforce中的潜在客户/联系人的外部用户。 需要为Salesforce Sales用户更新Marketo销售人员。 此 *externalSalesPersonId* 字段是销售人员更新插入的必备字段。
+   Salesforce销售用户是拥有Salesforce中的潜在客户/联系人的外部用户。 需要为Salesforce Sales用户更新Marketo销售人员。 *externalSalesPersonId*&#x200B;字段必须用于更新销售人员。
 
    <table> 
     <colgroup> 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 1. 将Salesforce帐户同步到Marketo。
 
-   需要为Salesforce帐户更新Marketo公司。 此 _externalCompanyId_ 和 _externalSalesPersonId_ 字段必须用于公司的更新。
+   需要为Salesforce帐户更新Marketo公司。 _externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;字段强制用于公司的更新插入。
 
    <table> 
     <colgroup> 
@@ -80,17 +80,17 @@ ht-degree: 0%
      <tr> 
       <td>externalSalesPersonId</td> 
       <td>Salesforce销售用户不区分大小写的全局唯一标识符</td> 
-      <td>向作为帐户所有者的外部Salesforce Sales User对象标识Marketo公司记录。<br><br>还用于在Marketo中将本公司与拥有公司记录的销售人员相关联。 要求在设置此字段之前先同步销售人员。</td> 
+      <td>向作为帐户所有者的外部Salesforce Sales User对象标识Marketo公司记录。<br><br>在Marketo中还用于将公司关联到拥有公司记录的销售人员。 要求在设置此字段之前先同步销售人员。</td> 
      </tr> 
     </tbody> 
    </table>
 
-   * 适用于公司的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * 公司的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * 同步公司的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. 将Salesforce潜在客户/联系人同步到Marketo。
 
-   您需要为Salesforce潜在客户/联系人更新插入一个Marketo潜在客户。 此 _externalPersonId_， _externalSalesPersonId_、和 _externalCompanyId_ 字段必须用于Lead的更新。
+   您需要为Salesforce潜在客户/联系人更新插入一个Marketo潜在客户。 _externalPersonId_、_externalSalesPersonId_&#x200B;和&#x200B;_externalCompanyId_&#x200B;字段强制用于潜在客户的上行插入。
 
    <table> 
     <colgroup> 
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 1. 将Salesforce Opportunities同步到Marketo。
 
-   您需要为Salesforce Opportunity更新Marketo Opportunity 。 此 _externalOpportunityId_， _externalCompanyId_、和 _externalSalesPersonId_ 字段必须用于更新Opportunity。
+   您需要为Salesforce Opportunity更新Marketo Opportunity 。 _externalOpportunityId_、_externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;字段必须用于更新该机会。
 
    <table> 
     <colgroup> 
@@ -160,11 +160,11 @@ ht-degree: 0%
    </table>
 
    * 机会的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
-   * 有关同步机会的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
+   * 同步机会的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 将Salesforce联系人角色同步到Marketo。
 
-   随后，可以通过Marketo Opportunity Role同步Salesforce Opportunity的Salesforce联系人角色。 机会角色记录要求 _externalOpportunityId_， _角色_、和 _leadId_ 字段。
+   随后，可以通过Marketo Opportunity Role同步Salesforce Opportunity的Salesforce联系人角色。 机会角色记录授权&#x200B;_externalOpportunityId_、_role_&#x200B;和&#x200B;_leadId_&#x200B;字段。
 
    <table> 
     <colgroup> 
@@ -186,7 +186,7 @@ ht-degree: 0%
      <tr> 
       <td>leadId</td> 
       <td>不适用，这将是Marketo潜在客户ID</td> 
-      <td>这将是同步的Salesforce联系人的Marketo潜在客户ID。<br><br>联系人在Marketo中同步后，您可以使用不区分大小写的Salesforce联系人全局唯一标识符作为externalPersonId，并使用Marketo REST API查询Marketo潜在客户。</td> 
+      <td>这将是同步的Salesforce联系人的Marketo潜在客户ID。<br><br>联系人在Marketo中同步后，您可以使用Salesforce联系人不区分大小写的全局唯一标识符作为externalPersonId，并使用Marketo REST API查询Marketo潜在客户。</td> 
      </tr> 
      <tr> 
       <td>角色</td> 
@@ -197,13 +197,13 @@ ht-degree: 0%
    </table>
 
    * 机会的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
-   * 有关同步机会的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
+   * 同步机会的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 将上一个有趣时刻/MSI评分字段同步到SFDC。
 
    将Salesforce对象正确同步到Marketo后，您就可以利用MSI功能。 MSI最后一个有趣时刻/评分字段将在潜在客户的REST API中公开。 这些字段由MSI计算并且是只读的。
 
-   Marketo潜在客户的“上一个有趣时刻”/评分字段需要使用REST API潜在客户端点定期同步到Salesforce。 使用以下方式查询Marketo潜在客户的此端点 _externalPersonId_ 作为filterType，并将Salesforce潜在客户GUID作为filterValue传递。
+   Marketo潜在客户的“上一个有趣时刻”/评分字段需要使用REST API潜在客户端点定期同步到Salesforce。 使用&#x200B;_externalPersonId_&#x200B;作为filterType，并将Salesforce潜在客户GUID作为filterValue传递，查询此Marketo潜在客户的端点。
 
    | GET/rest/v1/leads.json？filterType=externalPersonId&amp;filterValues=salesforceLeadId1，salesforceLeadId2 |
    |---|
@@ -239,8 +239,8 @@ ht-degree: 0%
      </tr> 
      <tr> 
       <td>msiLastInterestedMomentSource</td> 
-      <td><p>标签：上一个有趣时刻源</p><p>名称：Last_Interested_Moment_Source__c</p></td> 
-      <td>潜在客户最后一个有趣时刻的来源</td> 
+      <td><p>标签：Source上一个有趣的时刻</p><p>名称：Last_Interested_Moment_Source__c</p></td> 
+      <td>Lead最后一个有趣时刻的Source</td> 
      </tr> 
      <tr> 
       <td>优先级</td> 
@@ -260,6 +260,6 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   潜在客户REST API的文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}.
+   潜在客户REST API的文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}。
 
    正确使用外部字段是成功进行非本机同步的关键。 如果您未能在某些视图中查看数据，则可能是因为某个字段未正确同步。 例如，如果在查看“帐户”下的MSI构件时，没有显示商机的活动和有趣的时刻，则可能是商机的公司或帐户未正确同步。 在指定外部字段时对此潜在客户执行GET请求将帮助您验证该潜在客户是否正确同步。 此外，Marketo中外部销售人员的电子邮件必须与Salesforce中该用户的电子邮件匹配。 如果电子邮件不匹配，数据可能不会显示在Salesforce的Marketo选项卡中。

@@ -6,8 +6,8 @@ exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 8%
+source-wordcount: '335'
+ht-degree: 10%
 
 ---
 
@@ -117,11 +117,11 @@ ht-degree: 8%
  </tbody> 
 </table>
 
-&#42;Office 365版本：仅限Windows客户端（在Windows 10、Enterprise或Pro上）。
+&#42;Office 365版本：仅限Windows客户端（在Windows 10、企业版或Pro上）。
 
 ## 升级 {#upgrade}
 
-1. 识别您的 [Microsoft Outlook版本](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. 识别您的[Microsoft Outlook版本](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)。
 
 1. 从上面的列表中选择您的版本。
 
@@ -129,7 +129,7 @@ ht-degree: 8%
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -141,7 +141,7 @@ ht-degree: 8%
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. 您会注意到所有信息都已预填。 只需单击 **下一个**.
+1. 您会注意到所有信息都已预填。 只需单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,11 +149,11 @@ ht-degree: 8%
    >
    >如果安装失败，请与IT部门合作，确保不会阻止HTTPS流量。 安装程序要求打开HTTPS流量。
 
-1. 单击 **下一个** 以安装在默认位置。
+1. 单击&#x200B;**下一步**&#x200B;安装在默认位置。
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 

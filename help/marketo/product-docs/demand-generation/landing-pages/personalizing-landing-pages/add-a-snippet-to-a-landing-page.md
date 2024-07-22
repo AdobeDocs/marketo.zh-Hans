@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[创建代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-1. 选择您的登陆页面，然后单击 **编辑草稿**.
+1. 选择您的登陆页面，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. 在登陆页面编辑器中，将 **代码片段** 元素。
+1. 在登陆页编辑器中，将&#x200B;**代码片段**&#x200B;元素拖到上方。
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. 找到您的代码片段，将其选中，然后单击 **保存**.
+1. 找到您的代码片段，选择它，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果要向引导式登陆页面添加代码片段，请参阅 [本文](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >如果要向引导式登陆页面添加代码片段，请参阅[本文](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)。
 
 干得漂亮！ 现在，您已了解如何向登陆页面添加代码片段。

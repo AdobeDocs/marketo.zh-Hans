@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 直接从营销策划中删除人员 {#remove-a-person-directly-from-a-campaign}
 
-1. 在Sales Connect中单击 **营销活动** 选项卡。
+1. 在Sales Connect中，单击&#x200B;**促销活动**&#x200B;选项卡。
 
    ![](assets/one.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 查找要删除的人员，然后单击 **移除**.
+1. 查找要删除的人员，然后单击&#x200B;**删除**。
 
    ![](assets/four.png)
 
-1. （可选步骤）您也可以通过单击多个用户名称旁边的复选框并单击 **移除** 按钮。
+1. （可选步骤）您也可以通过单击多个人员的名称旁边的复选框并单击顶部的&#x200B;**删除**&#x200B;按钮，一次删除多个人员。
 
    ![](assets/five.png)
 
 ## 在人员页面中，从营销活动中删除人员 {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. 在Sales Connect中单击 **人员** 选项卡。
+1. 在Sales Connect中，单击&#x200B;**人员**&#x200B;选项卡。
 
    ![](assets/one-a.png)
 
@@ -51,17 +51,17 @@ ht-degree: 0%
 
    ![](assets/two-a.png)
 
-1. 将在右侧打开其“人员详细信息”视图面板。 单击 **历史记录** 选项卡，然后 **移除** 按钮。
+1. 将在右侧打开其“人员详细信息”视图面板。 单击&#x200B;**历史记录**&#x200B;选项卡，然后单击&#x200B;**删除**&#x200B;按钮。
 
    ![](assets/three-a.png)
 
 ## 从营销活动中删除人员组 {#remove-a-group-of-people-from-a-campaign}
 
-1. 在Sales Connect中单击 **人员** 选项卡。
+1. 在Sales Connect中，单击&#x200B;**人员**&#x200B;选项卡。
 
    ![](assets/one-b.png)
 
-1. 在以下位置查找并选择您的组： **我的组**.
+1. 在&#x200B;**我的组**&#x200B;下查找并选择您的组。
 
    ![](assets/two-b.png)
 
@@ -69,6 +69,6 @@ ht-degree: 0%
 
    ![](assets/three-b.png)
 
-1. 单击 **操作** 并选择 **从营销活动中删除选定项**.
+1. 单击&#x200B;**操作**&#x200B;并选择&#x200B;**从营销活动中删除选定项**。
 
    ![](assets/four-b.png)

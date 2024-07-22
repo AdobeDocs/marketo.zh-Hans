@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512944
 description: 使用Marketo Insights for Google Chrome - Marketo文档 — 产品文档
-title: 使用Marketo Insights for Google Chrome
+title: 将Marketo Insights用于Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 使用Marketo Insights for Google Chrome {#using-marketo-insights-for-google-chrome}
+# 将Marketo Insights用于Google Chrome {#using-marketo-insights-for-google-chrome}
 
-使用适用于Google Chrome的Marketo Insights发送和跟踪任何Google电子邮件。
+使用Google Chrome的Marketo Insights发送和跟踪任何Google电子邮件。
 
 >[!PREREQUISITES]
 >
@@ -41,21 +41,21 @@ ht-degree: 0%
    >
    >（可选）单击双箭头以展开到全屏视图。
 
-1. 如果要使用已发布的Marketo模板预填充电子邮件，请单击 **更多选项** 并选择 **加载Marketo模板**.
+1. 如果要使用已发布的Marketo模板预填充电子邮件，请单击&#x200B;**更多选项**，然后选择&#x200B;**加载Marketo模板**。
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. 选择 **可用模板** 并单击 **确定**.
+1. 选择&#x200B;**可用模板**&#x200B;并单击&#x200B;**确定**。
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. 输入您的内容和电子邮件地址，然后单击 **发送**.
+1. 输入您的内容和电子邮件地址，然后单击&#x200B;**发送**。
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >仅当满足以下条件时，才会跟踪消息 **发送** 按钮为紫色。
+   >仅当&#x200B;**发送**&#x200B;按钮为紫色时才会跟踪消息。
 
 1. 此电子邮件将很快显示在您的Marketo Sales Insight中，并跟踪任何打开数和点击数。
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 您可以在商机的活动历史记录中记录回复和旧活动。
 
-1. 在Google Mail的预览窗格中，单击 **使用Marketo登录**.
+1. 在Google Mail的预览窗格中，单击&#x200B;**使用Marketo登录**。
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 

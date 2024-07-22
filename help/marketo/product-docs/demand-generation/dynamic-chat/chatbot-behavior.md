@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1623'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
   <tbody>
     <tr>
       <th>缩写</th>
-      <th>详细信息</th>
+      <th>详情</th>
     </tr>
     <tr>
       <td>D1、D2、D3等</td>
@@ -185,7 +185,7 @@ ht-degree: 0%
         <p>V1在D1上点击但未响应</p>
         <p>V1访问WP2</p>
       </td>
-      <td>D1将在WP1上解析<br/>
+      <td>D1将在WP1<br/>上解析
       D2将在WP2上解析</td>
       <td>
         <p>D1的触发器计数将增加1</p>
@@ -200,7 +200,7 @@ ht-degree: 0%
         <p>V1单击D1并完成D1</p>
         <p>V1访问WP2</p>
       </td>
-      <td>D1将在WP1和完成后解决<br/>D2将在WP2上解析</td>
+      <td>D1将在WP1上解析，<br/>D2将在WP2上解析</td>
       <td>
         <p>D1的触发器计数、参与计数和完成计数将增加1</p>
         <p>D2的触发器计数将增加1</p>
@@ -215,7 +215,7 @@ ht-degree: 0%
         <p>V1访问WP2</p>
         <p>D2上的V1点击提供了第一个响应</p>
       </td>
-      <td>D1将在WP1和完成后解决<br/>D2将在WP2上解析</td>
+      <td>D1将在WP1上解析，<br/>D2将在WP2上解析</td>
       <td>
         <p>D1的触发器计数、参与计数和完成计数将增加1</p>
         <p>D2的触发器和参与计数将增加1</p>
@@ -329,7 +329,7 @@ ht-degree: 0%
         <p>针对WP1的D2，优先级为2</p>
         <p>V1首次访问WP1</p>
         <p>V1单击D1并完成D1</p>
-        <p>V1刷新WP1并参见D2<br/>V1单击D2并完成D2</p>
+        <p>V1刷新WP1并查看D2<br/>V1在D2上的点击并完成D2</p>
         <p>营销人员对D1进行了更改并重新发布</p>
         <p>V1刷新WP1</p>
       </td>

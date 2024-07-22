@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 自定义视频共享流量 {#customize-video-share-flow}
 
-当您 [创建视频共享](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)，您可以自定义共享提示出现的时间和位置。
+当您[创建视频共享](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)时，您可以自定义共享提示出现的时间和位置。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 选择应用程序，然后单击 **编辑草稿**.
+1. 选择应用程序，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. 在视频共享编辑器中，转到 **应用程序设置** > **高级选项**.
+1. 在视频共享编辑器中，转到&#x200B;**应用程序设置** > **高级选项**。
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->下一步是 [配置视频共享后发生的情况](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>下一步是[配置视频共享](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)后发生的情况。

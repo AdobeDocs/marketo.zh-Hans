@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 删除Web活动 {#delete-a-web-campaign}
 
-1. 转到 **Web营销活动**.
+1. 转到&#x200B;**网络营销活动**。
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >为了更便于查找所需的Web营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >若要更轻松地查找所需的Web营销活动，请使用[筛选功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
-1. 在Web营销活动页面上，单击 **删除** 要删除的营销活动上的标记。
+1. 在Web营销活动页面上，单击要删除的营销活动上的&#x200B;**删除**。
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [编辑Web活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
+>* [编辑Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
 >* [启动/暂停Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)

@@ -21,15 +21,15 @@ ht-degree: 0%
 >
 >[将Sales Connect连接到您的Salesforce沙盒](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. 在Sales Connect中，单击右上角的齿轮图标，然后选择 **设置**.
+1. 在Sales Connect中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/one-3.png)
 
-1. 在管理设置下，单击 **Salesforce。**
+1. 在“管理员设置”下，单击&#x200B;**Salesforce。**
 
    ![](assets/two-3.png)
 
-1. 单击 **安装自定义项**.
+1. 单击&#x200B;**安装自定义项**。
 
    ![](assets/three-3.png)
 

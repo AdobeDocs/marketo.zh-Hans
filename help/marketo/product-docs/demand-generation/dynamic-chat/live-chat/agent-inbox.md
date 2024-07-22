@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->**这将覆盖** 该 [实时聊天可用性](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} 您已在“代理设置”中建立。 状态将一直保留，直到您将其切换回或切换到可用性的下一个时间块。
+>**这将覆盖**&#x200B;您在“代理设置”中建立的[实时聊天可用性](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}。 状态将一直保留，直到您将其切换回或切换到可用性的下一个时间块。
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 实时聊天通知 {#live-chat-notifications}
 
-要了解有关通知的更多信息，请参阅 [实时聊天概述](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+在[实时聊天概述](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}中了解有关通知的更多信息。
 
 ## 对话 {#conversations}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## 结束会话 {#end-a-session}
 
-座席只需通过单击 **结束会话** 按钮来访问访客信息。
+代理只需单击访客信息旁边的&#x200B;**结束会话**&#x200B;按钮即可手动终止会话。
 
 ![](assets/agent-inbox-6.png)
 
@@ -62,13 +62,13 @@ ht-degree: 0%
 >
 >此功能属于创作AI，可通过Dynamic ChatPrime订阅获取。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-快捷方式，由创作AI提供支持 [响应库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)，是在与访客聊天时快速获取帮助的好方法。 只需键入正斜杠(`/`)，然后选择 `ask` 或 `search`.
+由创作AI [响应库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)提供的快捷方式是在与访客聊天时快速获取帮助的好方法。 只需在文本框中键入正斜杠(`/`)并选择`ask`或`search`即可。
 
 ![](assets/agent-inbox-7.png)
 
-**询问** 用于帮助回答问题。
+**提问**&#x200B;是为了帮助回答问题。
 
-1. 键入或选择 `/ask` 在文本框中。 键入您的问题并在键盘上按Enter键。
+1. 在文本框中键入或选择`/ask`。 键入您的问题并在键盘上按Enter键。
 
    ![](assets/agent-inbox-8.png)
 
@@ -76,9 +76,9 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-9.png)
 
-**Search** 用于帮助查找与特定文本相关的页面。
+**搜索**&#x200B;可帮助查找与特定文本相关的页面。
 
-1. 键入或选择 `/search` 在文本框中。
+1. 在文本框中键入或选择`/search`。
 
    ![](assets/agent-inbox-10.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-14.png)
 
-1. 选择所需的代理日历，然后单击 **发送**.
+1. 选择所需的代理日历，然后单击&#x200B;**发送**。
 
    ![](assets/agent-inbox-15.png)
 

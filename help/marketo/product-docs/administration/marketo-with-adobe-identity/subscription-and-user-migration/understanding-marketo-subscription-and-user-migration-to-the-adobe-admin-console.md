@@ -5,7 +5,7 @@ exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
 source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
 workflow-type: tm+mt
-source-wordcount: '1370'
+source-wordcount: '1379'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式，从而�
 
 >[!TIP]
 >
->了解如何使用Adobe Admin Console通过管理您整个组织的Adobe权利 [企业和团队管理指南](https://helpx.adobe.com/cn/enterprise/admin-guide.html){target="_blank"}.
+>了解如何使用Adobe Admin Console通过[企业和团队管理指南](https://helpx.adobe.com/cn/enterprise/admin-guide.html){target="_blank"}管理整个组织的Adobe权限。
 
 ## 有什么变化？ {#what-is-changing}
 
 作为迁移的一部分，您的订阅和用户管理将从Marketo应用程序移至Adobe Admin Console。
 
-* **系统管理员将管理Adobe Admin Console上的订阅**. 在一个控制台中查看您的所有Adobe产品。
+* **系统管理员将管理Adobe Admin Console**&#x200B;上的订阅。 在一个控制台中查看您的所有Adobe产品。
 
-* **产品管理员将管理用户及其对Adobe Admin Console的访问权限**. 添加和删除所有Adobe订阅的用户。 Adobe Admin Console不支持基于用户的访问过期。 对于计划在迁移后过期的Marketo Engage访问权限的用户，仍会迁移并授予非过期访问权限。 迁移后，必须在所需的到期日期（或之前）手动删除它们。
+* **产品管理员将管理Adobe Admin Console**&#x200B;上的用户及其访问权限。 添加和删除所有Adobe订阅的用户。 Adobe Admin Console不支持基于用户的访问过期。 对于计划在迁移后过期的Marketo Engage访问权限的用户，仍会迁移并授予非过期访问权限。 迁移后，必须在所需的到期日期（或之前）手动删除它们。
 
-* **用户将使用Adobe身份登录**. Adobe会将现有用户迁移到Adobe Admin Console。 用户将使用其新的Adobe身份(Adobe ID或AdobeFederated ID(SSO))登录到其Marketo订阅。
+* **用户将使用Adobe标识**&#x200B;登录。 Adobe会将现有用户迁移到Adobe Admin Console。 用户将使用其新的Adobe身份(Adobe ID或AdobeFederated ID(SSO))登录到其Marketo订阅。
 
 ## 哪些方面没有改变？ {#what-is-not-changing}
 
-* **您管理所有其他功能的方式没有变化** Marketo Engage应用程序本身，包括对功能、用户角色、工作区、功能和行为的管理。
+* **在Marketo Engage应用程序本身中管理所有其他功能的方式没有变化**，包括功能、用户角色、工作区、功能和行为的管理。
 
 ## 迁移历程时间线 {#migration-journey-timeline}
 
@@ -52,7 +52,7 @@ Adobe将首先将Marketo Engage订阅迁移到Adobe Admin Console，然后使用
 
 >[!NOTE]
 >
->如果您当前未使用SSO，但考虑实施SSO，我们建议在用户迁移开始之前实施。 如果您希望实施单点登录，并且您的订购已登记到Adobe身份而无需Adobe组织中实施SSO，请将票证提交到 [Marketo支持](https://nation.marketo.com/){target="_blank"} 并将主题指定为“Admin Console上的Marketo，实现SSO”。
+>如果您当前未使用SSO，但考虑实施SSO，我们建议在用户迁移开始之前实施。 如果您希望实施单点登录并且您的订阅已登记到Adobe身份，但未在Adobe组织中实施SSO，请将票证提交到[Marketo支持](https://nation.marketo.com/){target="_blank"}，并将主题指定为“Admin Console上的Marketo，实施SSO”。
 
 ### 计划用户迁移 {#schedule-user-migration}
 
@@ -66,7 +66,7 @@ Marketo产品管理员将：
 
 >[!NOTE]
 >
->由于迁移的复杂程度，日期更改限制在计划日期后的30天内有效。 发送电子邮件至 `marketocares@marketo.com` 如果您需要更晚的日期。
+>由于迁移的复杂程度，日期更改限制在计划日期后的30天内有效。 如果您需要更晚的日期，请向`marketocares@marketo.com`发送电子邮件。
 
 * 查看“我的Marketo”中的横幅，其中显示用户迁移开始日期的倒计时。
 
@@ -76,7 +76,7 @@ Marketo产品管理员将：
 
 作为Marketo产品管理员，我们建议您确保所有用户都为迁移日期做好准备。
 
-* Check [电子邮件验证](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} Marketo管理区域中所有用户的状态。 鼓励尚未验证电子邮件地址的用户验证其电子邮件地址，并帮助用户解决完成验证过程时遇到的任何挑战。
+* 检查Marketo管理区域中所有用户的[电子邮件验证](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"}状态。 鼓励尚未验证电子邮件地址的用户验证其电子邮件地址，并帮助用户解决完成验证过程时遇到的任何挑战。
 
 * 为所有用户准备即将迁移到Adobe身份。
 
@@ -92,11 +92,11 @@ Marketo产品管理员将：
 
 以美国时区为时区的所有Marketo订阅都将从迁移开始日期的太平洋标准时间午夜开始迁移。 所有其他订阅的用户迁移将从订阅指定时区的午夜开始。
 
-**Adobe将首先自动迁移Marketo管理员**. 将Marketo管理员迁移到Adobe身份后，将会在Marketo应用程序中为他们分配Adobe产品管理员角色，以及他们之前具有的任何其他角色。
+**Adobe将首先自动迁移Marketo管理员**。 将Marketo管理员迁移到Adobe身份后，将会在Marketo应用程序中为他们分配Adobe产品管理员角色，以及他们之前具有的任何其他角色。
 
-**如果您的Marketo订阅用户数少于75个，并且Marketo和/或您的Adobe组织中没有SSO**，Adobe将自动迁移其余用户。 此工作流旨在实现最高级别的自动化，以最大程度地减少AdobeMarketo用户的开销。 无需执行任何操作即可执行迁移。
+**如果您的Marketo订阅用户数少于75个，并且在Marketo和/或Adobe组织**&#x200B;中没有SSO，则Adobe将自动迁移其余用户。 此工作流旨在实现最高级别的自动化，以最大程度地减少AdobeMarketo用户的开销。 无需执行任何操作即可执行迁移。
 
-**如果您的Marketo订阅拥有超过75个用户，或者在Marketo和/或您的Adobe组织中具有SSO**&#x200B;中，Marketo产品管理员将获得对Marketo迁移控制台的“自助用户迁移”区域的访问权限，该区域位于Marketo管理区域中。 对于在用户迁移过程中需要加强控制的用户，Marketo产品管理员将能够开始批量或一次性选择要迁移的用户。 选择用户后，管理员可以选择“立即迁移”或“计划迁移”以供日后使用，从而让管理员在迁移哪些用户时拥有最大的灵活性和控制能力。
+**如果您的Marketo订阅在Marketo和/或Adobe组织**&#x200B;中有超过75名用户或具有SSO，Marketo产品管理员将获得对Marketo迁移控制台的“自助用户迁移”区域的访问权限，该区域位于Marketo管理区域。 对于在用户迁移过程中需要加强控制的用户，Marketo产品管理员将能够开始批量或一次性选择要迁移的用户。 选择用户后，管理员可以选择“立即迁移”或“计划迁移”以供日后使用，从而让管理员在迁移哪些用户时拥有最大的灵活性和控制能力。
 
 >[!NOTE]
 >
@@ -104,7 +104,7 @@ Marketo产品管理员将：
 
 在迁移用户时，他们将会收到Adobe的电子邮件，通知他们登录Marketo的方式发生了更改。 将邀请用户接受首次使用Adobe身份进行登录的邀请，方法是使用现有Adobe ID登录，或使用同一电子邮件地址设置新的Adobe ID。
 
-欲知更多信息，请访问 [迁移到Adobe身份](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}, and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+有关详细信息，请参阅[迁移到Adobe身份](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}、[Adobe登录用户](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}和[AdobeIdentity Management常见问题解答](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}。
 
 ## 用户迁移完成 {#user-migration-complete}
 
@@ -112,10 +112,10 @@ Marketo产品管理员将：
 
 ## 获取支持 {#get-support}
 
-有关您的订阅或用户迁移的其他支持，请发送电子邮件至 `marketocares@marketo.com`.
+有关订阅或用户迁移的其他支持，请发送电子邮件至`marketocares@marketo.com`。
 
 >[!MORELIKETHIS]
 >
->* [迁移到Adobe身份](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
->* [使用Adobe登录的用户](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
+>* [正在迁移到Adobe标识](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [用户使用Adobe登录](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [AdobeIdentity Management常见问题解答](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

@@ -19,11 +19,11 @@ ht-degree: 0%
 
 代码片段在使用之前需要获得批准。
 
-1. 转到 **Design Studio**.
+1. 转到&#x200B;**设计工作室**。
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. 单击您的 **代码片段**. 下 **代码片段操作**，单击 **批准**.
+1. 单击您的&#x200B;**代码片段**。 在&#x200B;**代码片段操作**&#x200B;下，单击&#x200B;**批准**。
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[批准带有非草稿的代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[批准无草稿的代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)

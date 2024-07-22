@@ -18,11 +18,11 @@ ht-degree: 0%
 
 确保在营销国家社区中正确设置了您。
 
-* [**设置配置文件**](https://nation.marketo.com/){target="_blank"}.
+* [**设置您的个人资料**](https://nation.marketo.com/){target="_blank"}。
 
-* 阅读 [**营销社区准则**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* 阅读&#x200B;[**营销社区指南**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}。
 
-* 了解如何 [**提交支持案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (并确认您 [**设置为授权支持联系人**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})。
+* 了解如何&#x200B;[**提交支持案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"}（并确认您&#x200B;[**设置为授权支持联系人**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}）。
 
 ## 合并您的营销国家/地区配置文件 {#merge-your-marketing-nation-profile}
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 1. 使用您的电子邮件地址创建用户名/社区配置文件，该配置文件有权访问您当前的Marketo Engage订阅。
 
-1. [创建配置文件后](https://nation.marketo.com/){target="_blank"} 使用新的公司信息，提交请求至 `ccare@marketo.com` 将旧社区用户档案中的数据与新社区用户档案中的数据合并。
+1. [在您使用新公司信息创建个人资料后](https://nation.marketo.com/){target="_blank"}，向`ccare@marketo.com`提交请求，将旧社区个人资料中的数据与新社区个人资料中的数据合并。
 
 1. 在您的请求中，请指定以下详细信息：
 
@@ -44,13 +44,13 @@ ht-degree: 0%
 
 Adobe通过Marketo Champions的输入汇总了多个Marketo Engage继承实例审核核对清单，帮助您全力以赴。 了解如何导航不同的Marketo Engage区域并执行执行审核所需的各种任务，其中还包含推荐帮助文档的链接。
 
-您还可以 [下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 以电子表格形式显示。
+您还可以[下载电子表格形式的核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)。
 
-* [“管理员”部分](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
+* [管理员部分](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
 * [数据库](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [设计工作室](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
 * [营销活动](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
@@ -60,10 +60,10 @@ Adobe通过Marketo Champions的输入汇总了多个Marketo Engage继承实例�
 
 需要更多帮助？ 通过以下链接与我们或Marketo Engage同仁用户联系。
 
-* 要获得某个功能无法正常工作的技术援助，请联系 **[Marketo Engage客户支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
+* 有关某些无法正常工作的技术协助，请联系&#x200B;**[Marketo Engage客户支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**。
 
-* 在中与Marketo Engage同仁联系并向他们学习 **[Adobe Marketo Engage社区](https://nation.marketo.com/){target="_blank"}**.
+* 与&#x200B;**[Adobe Marketo Engage社区](https://nation.marketo.com/){target="_blank"}**&#x200B;中的Marketo Engage同事联系并向他们学习。
 
-* 要获得充分利用Marketo Engage实例的实践帮助，请联系 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* 如需充分利用Marketo Engage实例的实践帮助，请联系&#x200B;**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**。
 
-* 观看 **[策划的教程视频](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** 有关Marketo Engage的各个方面。
+* 观看&#x200B;**[精选的Marketo Engage视频](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}**。

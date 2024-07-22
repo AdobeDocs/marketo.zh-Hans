@@ -2,10 +2,10 @@
 description: CT-YYYY-MM-Content非Marketo登录页面 — Marketo文档 — 产品文档
 title: CT-YYYY-MM-Content非Marketo登录页面
 feature: Programs
-exl-id: 22b53312-ac62-4172-a719-c98fe1547d45
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '395'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 这是一个内容程序示例，该内容程序具有Marketo Engage表单，用于利用Marketo Engage默认程序在非Marketo Engage登录页上下载内容。 此程序适用于嵌入到您网站上的Marketo Engage表单。 优惠/内容的链接可以通过感谢电子邮件发送。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -29,14 +29,14 @@ ht-degree: 3%
   <tr> 
    <td>Web内容</td> 
    <td>01个成员 
-<br/>02参与成功</td>
+<br/>02 — 参与成功</td>
    <td>包含</td>
    <td>默认</td>
   </tr>
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -78,7 +78,7 @@ ht-degree: 3%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>资产 — 包含所有创意资产 
+   <td>Assets — 包含所有创意资产 
 <br/>（电子邮件和登陆页面的子文件夹）  </td>
   </tr>
   <tr> 
@@ -89,7 +89,7 @@ ht-degree: 3%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>报表</td>
+   <td>报告</td>
   </tr>
  </tbody> 
 </table>
@@ -141,20 +141,20 @@ ht-degree: 3%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
    * 复制原始模板
-   * 使用目标模板 —  _推荐_
+   * 使用目标模板 — _推荐_
 
 * **具有相同名称的图像**
    * 保留两个文件
-   * 替换此订阅中的项目 —  _推荐_
+   * 替换此订阅中的项目 — _推荐_
 
 * **同名电子邮件模板**
    * 保留两个模板
-   * 替换现有模板 —  _推荐_
+   * 替换现有模板 — _推荐_
 
 ## 最佳实践 {#best-practices}
 
@@ -171,4 +171,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
->不要忘记激活“02参与”营销活动以跟踪成功！ 执行操作 _早于_ 您的表单已上线并发送电子邮件。
+>不要忘记激活“02参与”营销活动以跟踪成功！ _before_&#x200B;执行此操作您的表单已上线且已发送电子邮件。

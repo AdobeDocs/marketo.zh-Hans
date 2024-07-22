@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >如果文本大小过大，可能会将您的内容推送到最多三行可见文本的上方。
 
-1. 选择可选的文字样式，以强调： **粗体**， _斜体_&#x200B;或下划线。
+1. 选择可选的类型样式，用于强调： **粗体**、_斜体_&#x200B;或下划线。
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. 从下拉列表中选择一个我的令牌，添加默认值，然后单击 **插入**.
+1. 从下拉列表中选择一个我的令牌，添加默认值，然后单击&#x200B;**插入**。
 
    ![](assets/mytoken.png)
 
@@ -81,9 +81,9 @@ ht-degree: 0%
 
    您对已批准应用程序内消息程序中使用的令牌所做的任何更改都不会在应用程序内消息中生效，直至该程序暂停然后恢复。
 
-你是金人。 接下来，您需要 [设置应用程序内消息按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+你是金人。 接下来，您需要[设置应用程序内消息按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)。
 
 >[!MORELIKETHIS]
 >
 >* [了解应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [选择应用程序内消息的布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [为您的应用程序内消息选择布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

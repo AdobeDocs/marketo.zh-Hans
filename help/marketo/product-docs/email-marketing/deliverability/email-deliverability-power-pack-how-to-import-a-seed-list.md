@@ -17,23 +17,23 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->本文适用于目前拥有活跃珠穆朗玛峰订阅的用户。 如果您使用“Inbox Tracker by Bird”（以前称为MessageBird），则您的教程 [可在此处找到](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>本文适用于目前拥有活跃珠穆朗玛峰订阅的用户。 如果您使用Inbox Tracker by Bird （以前称为MessageBird），则可以在此处](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}找到您的教程[。
 
 ## 导入种子列表 {#import-a-seed-list}
 
-1. 在“我的Marketo”中，选择 **可投放性工具**.
+1. 在“我的Marketo”中，选择&#x200B;**可投放性工具**。
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Everest应用程序将会打开。 在左侧导航中，单击 **In-Flight** 并选择 **收件箱位置**.
+1. Everest应用程序将会打开。 在左侧导航中，单击&#x200B;**外部测试版**，然后选择&#x200B;**收件箱位置**。
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. 单击 **管理种子列表** 选项卡。
+1. 单击&#x200B;**管理种子列表**&#x200B;选项卡。
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. 单击操作下拉列表并选择 **每行下载一个**.
+1. 单击“操作”下拉列表，然后选择&#x200B;**每行下载一个**。
 
    ![](assets/email-deliverability-power-pack-4.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
    >
    >如果您希望Everest为您优化列表，请使用种子列表优化器（位于页面顶部）。
 
-1. 导出后，该列表将在浏览器的下载文件夹中显示为.txt文件。 检索它，并且 [导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 将其作为静态列表输入到Marketo实例中。
+1. 导出后，该列表将在浏览器的下载文件夹中显示为.txt文件。 检索它，然后将其作为静态列表[导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)到您的Marketo实例中。
 
    ![](assets/email-deliverability-power-pack-5.png)
 

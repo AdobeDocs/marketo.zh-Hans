@@ -6,7 +6,7 @@ exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[设置](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) 企业密钥。
+>[设置](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)企业密钥。
 
 以“System”形式运行以下命令行，或者运行带有/i开关的“管理”用户帐户来安装。
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 >
 >日志文件的存储位置必须存在，否则安装将中止。
 
-请参阅 [Microsoft的交换机完整列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您希望尝试不同的日志记录级别或用户界面级别。
+如果要尝试不同的日志记录级别或用户界面级别，请参阅[Microsoft的交换机完整列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)。
 
 >[!MORELIKETHIS]
 >
->[Marketo Outlook插件由IT卸载](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[由IT卸载Marketo Outlook插件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

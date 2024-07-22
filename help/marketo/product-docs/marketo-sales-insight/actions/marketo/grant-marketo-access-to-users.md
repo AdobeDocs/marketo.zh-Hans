@@ -14,21 +14,21 @@ ht-degree: 0%
 
 按照本文中的步骤操作，向Sales Insight Actions用户授予对Marketo连接的访问权限。 这将解锁实时信息源中令人感兴趣的时刻等功能以及营销活动的访问权限。
 
-您需要邀请用户访问 [销售分析操作](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) （在Sales Insight Actions中）的“Marketo”>“团队访问”页面中显示这些内容，并在此页面中授予对Marketo连接的访问权限。
+您需要邀请用户[Sales Insight操作](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users)，用户才能显示在Marketo >团队访问页面（位于Sales Insight操作中）中，该页面授予了对Marketo连接的访问权限。
 
 >[!CAUTION]
 >
 >请在将Sales Insight Actions与Marketo连接之后等待10分钟，然后再执行这些步骤。
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. 在管理设置下，单击 **Marketo**.
+1. 在“管理员设置”下，单击&#x200B;**Marketo**。
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. 单击 **用户访问** 选项卡。 选择一个或多个用户，然后单击 **连接**.
+1. 单击&#x200B;**用户访问**&#x200B;选项卡。 选择一个或多个用户，然后单击&#x200B;**连接**。
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **可选步骤**：单击工作区下拉列表，然后选择所需的工作区。
+   **可选步骤**：单击Workspace下拉列表并选择所需的工作区。
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. 单击 **连接**.
+1. 单击&#x200B;**连接**。
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

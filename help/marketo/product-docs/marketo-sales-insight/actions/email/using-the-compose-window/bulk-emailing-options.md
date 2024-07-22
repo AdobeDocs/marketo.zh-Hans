@@ -12,9 +12,9 @@ ht-degree: 3%
 
 # 批量发送电子邮件选项 {#bulk-emailing-options}
 
-批量发送电子邮件是加快潜在客户参与的有效方法。 Marketo Sales提供两种批量发送电子邮件的方式： **群组电子邮件** 和 **选择并发送**. 群组电子邮件是快速向目标群组发送数百封电子邮件的好方法。 使用选择并发送意味着降低了电子邮件限制，但为用户提供了更多的自定义机会。
+批量发送电子邮件是加快潜在客户参与的有效方法。 Marketo Sales提供两种批量发送电子邮件的方式：**群电子邮件**&#x200B;和&#x200B;**选择并发送**。 群组电子邮件是快速向目标群组发送数百封电子邮件的好方法。 使用选择并发送意味着降低了电子邮件限制，但为用户提供了更多的自定义机会。
 
-**群组电子邮件与选择并发送**
+**群电子邮件与选择并发送**
 
 <table> 
  <colgroup> 
@@ -63,5 +63,5 @@ ht-degree: 3%
 
 >[!MORELIKETHIS]
 >
->* [使用“选择并发送”撰写批量电子邮件](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [使用Select和Send编写批量电子邮件](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 >* [通过群电子邮件发送电子邮件](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)

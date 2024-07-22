@@ -13,30 +13,30 @@ ht-degree: 0%
 
 # 从“管理员”>“电子邮件”部分删除取消订阅文本 {#remove-unsubscribe-text-from-the-admin-email-section}
 
-您应从完全删除取消订阅内容的唯一原因 **[!UICONTROL 管理员]** > **[!UICONTROL 电子邮件]** 区域是指，如果您选择将取消订阅链接构建到电子邮件模板本身。 该文本框具有验证，不允许您保存而不保存任何内容。 您可以通过添加小的HTML评论来解决此问题。 HTML注释将不会显示在电子邮件客户端中，因为它以HTML呈现电子邮件，并且会忽略这些注释。 下面是操作方法。
+之所以应从&#x200B;**[!UICONTROL 管理员]** > **[!UICONTROL 电子邮件]**&#x200B;区域完全删除取消订阅内容，唯一的原因是您选择在电子邮件模板中构建取消订阅链接。 该文本框具有验证，不允许您保存而不保存任何内容。 您可以通过添加小的HTML评论来解决此问题。 HTML注释将不会显示在电子邮件客户端中，因为它以HTML呈现电子邮件，并且会忽略这些注释。 下面是操作方法。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
-1. 单击 **[!UICONTROL 电子邮件]**.
+1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 
-1. 选择所有文本并按 **[!UICONTROL 删除]** 键。
+1. 选择所有文本并按&#x200B;**[!UICONTROL Delete]**&#x200B;键。
 
    >[!CAUTION]
    >
    >在删除之前，请将此文件作为备份复制/粘贴到文本文档中。
 
-1. 键入 `<!--This is a comment -->`.
+1. 键入`<!--This is a comment -->`。
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
-1. 单击 **[!UICONTROL 保存更改]**.
+1. 单击&#x200B;**[!UICONTROL 保存更改]**。
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-4.png)
 
 >[!NOTE]
 >
->对于 **取消订阅文本** 必须添加单个字符。 使用短划线或句点。
+>对于&#x200B;**取消订阅文本**，必须添加单个字符。 使用短划线或句点。

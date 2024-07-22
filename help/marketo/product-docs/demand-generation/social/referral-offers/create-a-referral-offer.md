@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. 在程序内，选择 **新建** > **新建本地资产**.
+1. 在程序内，选择&#x200B;**新建** > **新建本地资产**。
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. 在 **本地资产库**，单击 **推荐选件**.
+1. 在&#x200B;**本地资产库**&#x200B;中，单击&#x200B;**反向链接选件**。
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -33,31 +33,31 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >为了节省时间，您可以使用 **克隆** 选项，用于从现有反向链接选件复制所有设置。
+   >为了节省时间，您可以使用&#x200B;**从**&#x200B;克隆选项从现有反向链接选件复制所有设置。
 
    将在新窗口中打开引用选件编辑器。 默认设置一切正常，但您需要添加指向选件规则（条款和条件）的链接。 该链接将显示在共享消息屏幕的底部。 我们将向您说明下一步操作方式。
 
-1. 单击 **高级选项**.
+1. 单击&#x200B;**高级选项**。
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. 添加指向优惠规则的链接。 输入 **URL**.
+1. 添加指向优惠规则的链接。 输入&#x200B;**URL**。
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >在此屏幕上，您还可以添加隐私策略链接。 请参阅  [将您的隐私策略添加到社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >在此屏幕上，您还可以添加隐私策略链接。 请参阅[将您的隐私策略添加到社交应用](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)。
 
-1. 单击 **完成**.
+1. 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. 单击 **批准并关闭**.
+1. 单击&#x200B;**批准并关闭**。
 
    >[!TIP]
    >
-   >要更改推荐选件中的任何默认值，请单击 **返回**. 要保存您的工作以供以后在不批准的情况下使用，请单击 **关闭**.
+   >要更改推荐选件中的任何默认值，请单击&#x200B;**上一步**。 若要保存您的工作以供以后不批准使用，请单击&#x200B;**关闭**。
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->下一步是 [发布您的推荐选件](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 登陆页面、网站或Facebook上。
+>下一步是在[登陆页面、网站或Facebook上发布您的反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。

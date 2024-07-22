@@ -16,7 +16,7 @@ ht-degree: 5%
 
 ## 区域导航 {#area-navigation}
 
-| 键盘快捷键 | 区域 |
+| 键盘快捷键 | 面积图 |
 |---|---|
 | Alt/Opt + A | Analytics |
 | Alt/Opt + C | 日程表 |

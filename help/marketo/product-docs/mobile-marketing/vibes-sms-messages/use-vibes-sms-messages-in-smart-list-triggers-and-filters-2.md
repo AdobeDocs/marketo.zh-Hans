@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 在智能列表触发器和过滤器中使用Vibes SMS消息 {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-在您之后 [创建访客SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}，您将需要在Smart Campaign中使用智能列表触发器和过滤器以获取好处。 具体方法如下。
+在您[创建Vibes SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}后，您将需要在智能营销活动中使用智能列表触发器和过滤器以获取好处。 具体方法如下。
 
-1. 在“我的Marketo”中，单击 **营销活动**.
+1. 在“我的Marketo”中，单击&#x200B;**营销活动**。
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
-1. 选择您要使用短信资产的智能营销活动。 拖动到触发器上。 在此示例中，我们使用 **填写表单**.
+1. 选择您要使用短信资产的智能营销活动。 拖动到触发器上。 在此示例中，我们使用&#x200B;**填写表单**。
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -42,35 +42,35 @@ ht-degree: 0%
 
 下面是一些示例：
 
-此 **短信消息退回** 当短信消息退回时，触发器会启动流程，例如发送电子邮件。
+**SMS消息退回**&#x200B;触发器会在短信消息退回时启动流程，例如发送电子邮件。
 
 ![](assets/sms-message-bounces-real.jpg)
 
-此 **Vibes列表的订阅次数** 触发器会在人员订阅时启动流。
+**Subscripts to Vibes List**&#x200B;触发器会在人员订阅时启动流。
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-此 **点击短信消息中的链接** 当人员单击短信消息中的链接时，触发器将启动流程。
+当某人单击短信消息中的链接时，**点击短信消息中的链接**&#x200B;触发器将启动流程。
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## 短信过滤器 {#sms-filters}
 
-您还可以在智能列表中使用维贝过滤器。 此 **订阅的访客列表** 筛选器查找具有 *从不* 订阅了Vibes。 这包括已取消订阅和已删除的人员，即使流程中会忽略已删除的人员。 此过滤器最适合报表。
+您还可以在智能列表中使用维贝过滤器。 **订阅的Vibes列表**&#x200B;筛选器查找&#x200B;*ever*&#x200B;订阅了Vibes的任何人。 这包括已取消订阅和已删除的人员，即使流程中会忽略已删除的人员。 此过滤器最适合报表。
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-相比之下， **Vibes列表的成员** 筛选器查找 _任何人_ 当前订阅了访客，最适合在智能营销活动或列表中使用。
+相反，**Vibes列表的成员**&#x200B;筛选器将查找当前订阅了Vibes的&#x200B;_任何人_，该筛选器最适合于在智能营销活动或列表中使用。
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->所有短信过滤器都包含 **活动日期** 缺省情况下受约束。
+>默认情况下，所有SMS筛选器都包含&#x200B;**活动日期**&#x200B;约束。
 
-在智能列表中设置Vibes触发器和过滤器后，您可以 [定义流](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
+在智能列表中设置Vibes触发器和筛选器后，您可以[定义流](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)。
 
 >[!MORELIKETHIS]
 >
->* [为Smart Campaign定义智能列表 | 触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [为智能营销活动定义智能列表 | 触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [查找筛选器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 销售分析报表 {#sales-insight-reports}
 
-此 [销售分析电子邮件绩效报表](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) 允许您按电子邮件和销售代表查看电子邮件指标。 它支持通过Salesforce、Microsoft Dynamics、Outlook插件和Gmail插件发送的电子邮件。
+[销售分析电子邮件绩效报表](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)允许您按电子邮件和销售代表查看电子邮件指标。 它支持通过Salesforce、Microsoft Dynamics、Outlook插件和Gmail插件发送的电子邮件。
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## facebook自定义受众 {#facebook-custom-audiences}
 
-添加您的Marketo管理员后 [facebook（通过管理员> Launchpoint）](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)，您可以轻松创建、更新或 [将一个Facebook自定义受众替换为Marketo静态或智能列表中的潜在客户](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). 在任何静态或智能列表的商机网格底部查找新的Facebook图标。
+一旦您的Marketo管理员通过“管理员”>“启动点”添加了[Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)，您就可以轻松地创建、更新或[使用Marketo静态或智能列表中的潜在客户替换Facebook自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何静态或智能列表的商机网格底部查找新的Facebook图标。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## 改进了跨工作区的克隆  {#improved-cloning-across-workspaces}
 
-[克隆程序](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 到另一个工作区从未像现在这样简单！ 单击“克隆”时，可以选择目标工作区。 无需先克隆到文件夹，然后再移动文件夹！
+[将程序](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)克隆到另一个工作区从未如此容易！ 单击“克隆”时，可以选择目标工作区。 无需先克隆到文件夹，然后再移动文件夹！
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 ## 引用智能列表 {#reference-smart-list}
 
-[可以引用与其他工作区共享的智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) 构建智能列表或流时。
+[在生成智能列表或流时，可以引用与其他工作区共享的智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)。
 
 ## 列表导入改进 {#list-import-improvements}
 
-[导入文件](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 使用UTF-16、Shift-JIS或EUC-JP进行编码。 我们将继续支持UTF-8编码文件。
+[导入以UTF-16、Shift-JIS或EUC-JP编码的文件](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)。 我们将继续支持UTF-8编码文件。
 
 ## 电子邮件脚本中的链接跟踪 {#link-tracking-in-email-scripting}
 
@@ -65,11 +65,11 @@ Lead &amp; Activity ReST API的三个新调用：
 
 ·合并潜在客户
 
-发布后，即可在以下位置获得完整的详细信息： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)上获得完整的详细信息
 
 ## Munchkin Javascript兼容性增强 {#munchkin-javascript-compatibility-enhancements}
 
-我们对Munchkin进行了一些细微的增强，以确保其继续快速加载，并在与页面上的其他JavaScript一起使用时按需正常运行。
+我们对Munchkin进行了一些细微的增强，以确保其继续快速加载，并在与页面上的其他JavaScript一起使用时根据需要正常运行。
 
 推出将从12月中旬开始，并在未来几个月持续。
 

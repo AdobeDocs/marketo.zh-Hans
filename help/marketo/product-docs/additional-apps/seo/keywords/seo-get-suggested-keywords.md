@@ -17,23 +17,23 @@ Marketo SEO可建议您应跟踪的关键字。 我们可以根据关键字或�
 
 ## 使用关键词获取关键词建议 {#get-keyword-suggestions-using-a-keyword}
 
-1. 转到 **[!UICONTROL 关键字]** 部分。
+1. 转到&#x200B;**[!UICONTROL 关键字]**&#x200B;部分。
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. 单击 **[!UICONTROL 获取建议]**.
+1. 单击&#x200B;**[!UICONTROL 获取建议]**。
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. 输入 **[!UICONTROL 关键词]**. 单击 **[!UICONTROL 建议关键字]**.
+1. 输入&#x200B;**[!UICONTROL 关键字]**。 单击&#x200B;**[!UICONTROL 建议关键字]**。
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >你知道你可以  [将关键字添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在这儿？
+   >您是否知道可以[在此处将您的关键字添加到新的或现有的列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)？
 
-1. 选择建议的关键字。 单击 **[!UICONTROL 添加选定项]**.
+1. 选择建议的关键字。 单击&#x200B;**[!UICONTROL 添加选定项]**。
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -45,27 +45,27 @@ Marketo SEO可建议您应跟踪的关键字。 我们可以根据关键字或�
 
 ## 从URL获取关键词建议  {#get-keyword-suggestions-from-a-url}
 
-1. 转到 **[!UICONTROL 关键字]** 部分。
+1. 转到&#x200B;**[!UICONTROL 关键字]**&#x200B;部分。
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. 单击 **[!UICONTROL 获取建议]**.
+1. 单击&#x200B;**[!UICONTROL 获取建议]**。
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. 设置 **[!UICONTROL 建议者]** 到 **[!UICONTROL URL]**.
+1. 将&#x200B;**[!UICONTROL Suggest by]**&#x200B;设置为&#x200B;**[!UICONTROL URL]**。
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. 输入 **[!UICONTROL URL]** 并单击 **[!UICONTROL 建议关键字]**.
+1. 输入&#x200B;**[!UICONTROL URL]**&#x200B;并单击&#x200B;**[!UICONTROL 建议关键字]**。
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >你知道你可以 [将关键字添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在这儿？
+   >您是否知道可以[在此处将您的关键字添加到新的或现有的列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)？
 
-1. 选择建议的关键字。 单击 **[!UICONTROL 添加选定项]**.
+1. 选择建议的关键字。 单击&#x200B;**[!UICONTROL 添加选定项]**。
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 

@@ -4,9 +4,10 @@ title: 新建添加图像文档
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 2154c444be9654474fcc2d1b8e9983983f44846f
+exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
+source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '291'
 ht-degree: 2%
 
 ---
@@ -17,15 +18,15 @@ ht-degree: 2%
 
 ## 上传图像或文件 {#upload-image-or-file}
 
-1. 转到 **Design Studio**.
+1. 转到&#x200B;**设计工作室**。
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. 选择 **[!UICONTROL 图像和文件]**
+1. 选择&#x200B;**[!UICONTROL 图像和文件]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. 单击 **[!UICONTROL 图像和文件操作]** 下拉并选择 **[!UICONTROL 上传图像或文件]**.
+1. 单击&#x200B;**[!UICONTROL 映像和文件操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 上传映像或文件]**。
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -33,7 +34,7 @@ ht-degree: 2%
 
    ![](assets/add-images-and-files-to-marketo-4.png)
 
-1. 选择资源后，单击 **上传**.
+1. 选择资产后，单击&#x200B;**上传**。
 
    ![](assets/add-images-and-files-to-marketo-5.png)
 
@@ -45,17 +46,17 @@ ht-degree: 2%
 
 文本
 
-1. 执行步骤1和2 [自上面](#upload-image-or-file).
+1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
 
-1. 单击 **[!UICONTROL 图像和文件操作]** 下拉并选择 **[!UICONTROL 导入图像或文件]**.
+1. 单击&#x200B;**[!UICONTROL 映像和文件操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 导入映像或文件]**。
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. 选择 **[!UICONTROL Web]** 选项并单击 **[!UICONTROL 下一个]**.
+1. 选择&#x200B;**[!UICONTROL Web]**&#x200B;选项，然后单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. 在URL中键入或粘贴到所需图像并单击 **下一个**.
+1. 在URL中键入或粘贴到所需图像，然后单击&#x200B;**下一步**。
 
 PICC
 
@@ -67,13 +68,13 @@ PICC
 
 文本
 
-1. 执行步骤1和2 [自上面](#upload-image-or-file).
+1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
 
-1. 单击 **[!UICONTROL 图像和文件操作]** 下拉并选择 **[!UICONTROL 导入图像或文件]**.
+1. 单击&#x200B;**[!UICONTROL 映像和文件操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 导入映像或文件]**。
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. 选择 **[!UICONTROL 盒子]** 选项并单击 **[!UICONTROL 下一个]**.
+1. 选择&#x200B;**[!UICONTROL 框]**&#x200B;选项，然后单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/add-images-and-files-to-marketo-11.png)
 
@@ -81,15 +82,15 @@ PICC
    >
    >如果您之前未这样做，则将要求您登录您的Box帐户以授予访问权限。
 
-1. 选择所需的Box文件夹并单击 **[!UICONTROL 下一个]**.
+1. 选择所需的Box文件夹并单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/add-images-and-files-to-marketo-12.png)
 
-1. 选择所需的图像并单击 **[!UICONTROL 下一个]**.
+1. 选择所需的图像并单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
-1. 选择要将图像保存到的Marketo Engage文件夹。 在本例中，我们将保留为“Images and Files（图像和文件）”（默认）。 单击 **导入**.
+1. 选择要将图像保存到的Marketo Engage文件夹。 在本例中，我们将保留为“Images and Files（图像和文件）”（默认）。 单击&#x200B;**导入**。
 
    ![](assets/add-images-and-files-to-marketo-14.png)
 
@@ -97,13 +98,13 @@ PICC
 
 文本
 
-1. 执行步骤1和2 [自上面](#upload-image-or-file).
+1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
 
-1. 单击 **[!UICONTROL 图像和文件操作]** 下拉并选择 **[!UICONTROL 导入图像或文件]**.
+1. 单击&#x200B;**[!UICONTROL 映像和文件操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 导入映像或文件]**。
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. 选择 **[!UICONTROL Adobe Experience Manager]** 选项并单击 **[!UICONTROL 下一个]**.
+1. 选择&#x200B;**[!UICONTROL Adobe Experience Manager]**&#x200B;选项，然后单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

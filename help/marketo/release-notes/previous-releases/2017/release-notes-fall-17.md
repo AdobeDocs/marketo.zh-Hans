@@ -43,7 +43,7 @@ ht-degree: 0%
 
 在发送示例电子邮件以供审阅时，Marketo新增了一个用于选取区段的选项。 您不再需要手动确定商机属于哪个区段，从而更轻松地向不同区段发送包含动态内容的电子邮件。
 
-## [linkedIn领导小组自定义问题](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [LinkedIn潜在客户一般自定义问题](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
 自定义您的LinkedIn潜在客户群表单，以收集自定义潜在客户属性。 现在，您最多可以为每个表单询问三个自定义问题，从单行文本输入或多选问题中进行选择，然后映射回Marketo潜在客户字段。
 
@@ -62,7 +62,7 @@ Marketo ABM现在同步并显示没有联系人的CRM帐户。 包括以前没�
 
 ## ContentAI分析 {#contentai-analytics}
 
-**[新建ABM帐户列表筛选器](https://docs.marketo.com/x/1BPG)**
+**[新ABM帐户列表筛选器](https://docs.marketo.com/x/1BPG)**
 
 查看和比较ABM帐户列表中的内容性能，以优化现有内容。 ContentAI向您显示：
 
@@ -70,15 +70,15 @@ Marketo ABM现在同步并显示没有联系人的CRM帐户。 包括以前没�
 * 排名最前的转化内容
 * AI支持的营销活动建议内容
 
-## Web个性化增强功能 {#web-personalization-enhancements}
+## Web Personalization增强功能 {#web-personalization-enhancements}
 
-**[Web营销活动令牌](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+Web营销活动的&#x200B;**[令牌](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 令牌现在可在Web营销活动中使用。 利用令牌提供个性化的消息和内容，以提高Web促销活动的参与度。
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-**[在Web Campaign编辑器中设计Studio图像](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[在Web Campaign编辑器中设计工作室图像](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 通过在Marketo中跨多个渠道重复使用创意资源和图像，节省时间。
 

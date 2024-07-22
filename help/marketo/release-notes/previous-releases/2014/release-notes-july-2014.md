@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 营销日历 {#marketing-calendar}
 
-跨程序查看您的所有活动、电子邮件等。 [此新产品](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 将免费提供给拥有10个或更少Marketo潜在客户管理或Dialogue用户的客户。
+跨程序查看您的所有活动、电子邮件等。 [此新产品](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)将免费提供给拥有10个或更少Marketo潜在客户管理或Dialogue用户的客户。
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -31,7 +31,7 @@ Marketo销售线索管理将进行更新，采用新外观，既现代又时尚�
 
 ## 日期运算符 {#date-operators}
 
-[高级过滤器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) “In past before”、“in future”和“in future after”。 例如，查找出生日期在未来3个月内的潜在客户或出生日期在6个月后到期的合同。
+[高级筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)：“过去早于”、“将来”和“将来晚于”。 例如，查找出生日期在未来3个月内的潜在客户或出生日期在6个月后到期的合同。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -47,7 +47,7 @@ Marketo销售线索管理将进行更新，采用新外观，既现代又时尚�
 
 ## ReST API中的列表操作 {#list-operations-in-the-rest-api}
 
-我们添加了以下与ReST中的列表操作相关的调用。 请参阅 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) 以获取完整文档。
+我们添加了以下与ReST中的列表操作相关的调用。 请参阅完整文档[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)。
 
 * 按ID获取列表
 * 获取多个列表
@@ -56,7 +56,7 @@ Marketo销售线索管理将进行更新，采用新外观，既现代又时尚�
 
 ## 快速列表导入 {#fast-list-import}
 
-超过 **速度提高50倍**，您的文件将放大Marketo！ 旧的“正常”和“针对新商机进行了优化”导入选项已替换为“默认（快速导入）”。
+速度提高&#x200B;**50倍**，您的文件将放大Marketo！ 旧的“正常”和“针对新商机进行了优化”导入选项已替换为“默认（快速导入）”。
 
 “跳过新的潜在客户和更新”选项保持不变。
 
@@ -68,9 +68,9 @@ Marketo销售线索管理将进行更新，采用新外观，既现代又时尚�
 * 与网站上的其他JavaScript更兼容
 * 过去一年已在许多网站上进行了全面测试！
 
-## RTP：实时个性化营销活动模板 {#rtp-real-time-personalization-campaign-templates}
+## RTP：实时Personalization营销活动模板 {#rtp-real-time-personalization-campaign-templates}
 
-现在，“RTP设置营销活动”页面 [包括现成的模板](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). 从各种不同的方式中进行选择，包括网络研讨会、案例研究、电子书。
+RTP集营销活动页面现在[包含现成的模板](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)。 从各种不同的方式中进行选择，包括网络研讨会、案例研究、电子书。
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
@@ -78,7 +78,7 @@ Marketo销售线索管理将进行更新，采用新外观，既现代又时尚�
 
 ## RTP：JavaScript API增强功能 {#rtp-javascript-api-enhancements}
 
-用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 查看我们的 [开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 获取完整文档。
+用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 有关完整文档，请参阅我们的[开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

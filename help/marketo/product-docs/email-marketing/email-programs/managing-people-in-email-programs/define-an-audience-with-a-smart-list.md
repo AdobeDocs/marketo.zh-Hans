@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 使用智能列表定义受众 {#define-an-audience-with-a-smart-list}
 
-一旦您 [创建电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)，则您需要告诉它发送电子邮件的收件人。 您可以执行以下操作来实现此目标 [导入人员列表](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) 或者使用智能列表。 以下是如何使用智能列表完成此任务的。
+在您[创建电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)后，您将需要告诉该程序要将电子邮件发送到的用户。 您可以通过[导入人员列表](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)或使用智能列表来执行此操作。 以下是如何使用智能列表完成此任务的。
 
 >[!PREREQUISITES]
 >
@@ -23,17 +23,17 @@ ht-degree: 1%
 >
 >仅当电子邮件程序未获批准时，定义受众才能正常工作。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择您的电子邮件程序，然后单击 **编辑智能列表** 在 **受众** 磁贴。
+1. 选择您的电子邮件程序，然后单击&#x200B;**受众**&#x200B;图块下的&#x200B;**编辑智能列表**。
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >确保视图设置为 **控制面板** 以查找此设置。
+   >确保视图设置为&#x200B;**控制面板**&#x200B;以查找此设置。
 
 1. 查找要使用的过滤器，并将其拖到画布中。
 
@@ -47,11 +47,11 @@ ht-degree: 1%
 
    ![](assets/myemailprogram.jpg)
 
-   做得好！ 现在，是时候 [选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 寄给这些人。
+   做得好！ 现在可以[选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)或[创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)以发送给这些人。
 
 >[!NOTE]
 >
->**条件**
+>**定义**
 >
 >你注意到被阻止的号码了吗？ 此数字是限定的人员的子集，表示无法发送此电子邮件的人员，因为他们是：
 >
@@ -61,9 +61,9 @@ ht-degree: 1%
 >* 电子邮件无效
 >* 空电子邮件
 >
->单击此号码可获取阻止发送邮件的人员的详细列表。 **请注意：** 操作电子邮件仍会发送给标记为已取消订阅和营销已暂停的人员。
+>单击此号码可获取阻止发送邮件的人员的详细列表。 **请注意：**&#x200B;操作电子邮件仍会发送给标记为已取消订阅和营销已暂停的人员。
 >
->使用 ![—](assets/image2014-10-23-16-3a32-3a36.png) “受众”拼贴上的按钮，以查看将接收电子邮件的人员数量。
+>使用“受众”拼贴上的![—](assets/image2014-10-23-16-3a32-3a36.png)按钮查看有多少人将会收到电子邮件。
 
 >[!MORELIKETHIS]
 >

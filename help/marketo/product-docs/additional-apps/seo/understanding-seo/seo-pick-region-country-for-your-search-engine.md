@@ -19,15 +19,15 @@ SEO管理员将能够为您要获取关键词排名信息的搜索引擎选择�
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 部分。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;部分。
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. 单击 **[!UICONTROL 搜索引擎]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL 搜索引擎]**&#x200B;选项卡。
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. 选择要优化的国家/城市，然后单击 **[!UICONTROL 保存]**.
+1. 选择要优化的国家/城市，然后单击&#x200B;**[!UICONTROL 保存]**。
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ SEO管理员将能够为您要获取关键词排名信息的搜索引擎选择�
 
 >[!MORELIKETHIS]
 >
->* [了解仪表板：SEO快照](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
->* [了解功能板：SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
+>* [了解仪表板： SEO快照](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
+>* [了解仪表板： SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}

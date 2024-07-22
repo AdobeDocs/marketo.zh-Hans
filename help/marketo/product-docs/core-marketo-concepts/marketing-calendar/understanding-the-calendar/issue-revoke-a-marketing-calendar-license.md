@@ -6,7 +6,7 @@ exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-要利用 [营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} 名额，您需要向需要访问的用户颁发许可证。 具体方法如下。
+若要使用您的[营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}名额，您需要向需要访问的用户颁发许可证。 具体方法如下。
 
-1. 转到 **[!UICONTROL 管理员]** 部分。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;部分。
 
    ![](assets/adminhand.png)
 
-1. 单击 **[!UICONTROL 用户和角色]**.
+1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
 
    ![](assets/2.png)
 
-1. 选择用户并单击 **[!UICONTROL 颁发许可证]**.
+1. 选择用户并单击&#x200B;**[!UICONTROL 颁发许可证]**。
 
    >[!TIP]
    >
-   >使用 **按住Ctrl/Cmd并单击** 以一次选择多个用户。
+   >使用&#x200B;**Ctrl/Cmd+单击**&#x200B;一次选择多个用户。
 
    ![](assets/3.png)
 
-1. Check **[!UICONTROL 启用许可证]** 并单击 **[!UICONTROL 保存]**.
+1. 选中&#x200B;**[!UICONTROL 启用许可证]**&#x200B;并单击&#x200B;**[!UICONTROL 保存]**。
 
    >[!NOTE]
    >

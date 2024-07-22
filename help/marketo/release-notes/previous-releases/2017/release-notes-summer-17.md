@@ -6,7 +6,7 @@ exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 请单击标题链接以查看每个功能的详细文章。 注意：此版本中包含的某些功能没有关联的文章。 如果一个主题有多个子标题，则链接会放置在该处。
 
-## [其他Facebook离线转化阶段](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## [其他Facebook离线转换阶段](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
 选择最多7个额外的离线转化阶段以映射到Marketo生命周期阶段（超出目前可用的3个）。 根据客户历程中的转化优化您的Facebook广告支出，以实现更好的ROI。
 
@@ -31,21 +31,21 @@ ht-degree: 0%
 
 ## ABM增强功能 {#abm-enhancements}
 
-**日本公司查找的数据源**
+**用于日本公司查找的Data Source**
 
 用当地语言将人员与日本公司的名称匹配。
 
-**[ABM与LeanData集成](https://docs.marketo.com/x/pKmt)**
+**[ABM和LeanData集成](https://docs.marketo.com/x/pKmt)**
 
 LeanData集成现在允许在Marketo中进行商机帐户匹配。 通过将相同的潜在客户与记录销售和营销系统中的客户关联起来，使营销和销售保持一致。 更灵活的选项使营销和销售运营部门能够更好地控制商机与客户的匹配规则，以便他们达到所需的精确级别。
 
-## Web个性化增强功能 {#web-personalization-enhancements}
+## Web Personalization增强功能 {#web-personalization-enhancements}
 
-**[营销活动预览增强功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
+**[促销活动预览增强功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-营销从业者现在可以确保其Web营销活动在任何设备上都具有出色的外观 *早于* 发射它们。 借助这些增强功能，了解您的Web营销活动在台式机、移动设备和平板电脑上的呈现方式。 适用于Chrome的新插件还提供了更一致、更准确的预览。
+营销从业者现在可以确保其Web营销活动在启动任何设备&#x200B;*之前*&#x200B;都具有出色的外观。 借助这些增强功能，了解您的Web营销活动在台式机、移动设备和平板电脑上的呈现方式。 适用于Chrome的新插件还提供了更一致、更准确的预览。
 
-**[构件营销活动增强功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
+**[构件促销活动增强功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
 现在提供了构件营销活动的新选项，包括：
 

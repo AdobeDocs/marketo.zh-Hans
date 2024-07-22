@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 可用权限 {#available-permissions}
 
-当您 [创建或编辑角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)，您可以通过选中相应的框来选择为该角色授予以下哪些权限。
+当您[创建或编辑角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)时，可以通过选中相应的框来选择允许该角色使用的以下权限之一。
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
@@ -32,16 +32,16 @@ ht-degree: 0%
 查看管理员的“我的帐户”部分中的设置并进行更改。
 
 * 访问Adobe Connect — 允许用户访问Adobe Connect屏幕
-* 访问Adobe Experience Manager&#42;  — 允许用户访问Adobe Experience Manager屏幕
-* 访问Adobe组织映射&#42;  — 允许用户访问“Adobe组织映射”屏幕
-* 访问管理员审核记录&#42;  — 赋予用户访问“管理员审核记录”屏幕的权限
-* 访问审核记录&#42;  — 赋予用户访问审核追踪的权限
+* 访问Adobe Experience Manager&#42; — 允许用户访问Adobe Experience Manager屏幕
+* 访问Adobe组织映射&#42; — 允许用户访问Adobe组织映射屏幕
+* 访问管理员审核记录&#42; — 授予用户访问管理员审核记录屏幕的权限
+* 访问审核记录&#42; — 授予用户访问审核记录的权限
 * 访问审核记录 — 让用户可以访问资产审核记录和管理员审核记录
 * 访问CAPTCHA — 访问CAPTCHA屏幕
 * 访问渠道 — 仅授予用户修改渠道标记的权限，而不授予其他自定义标记的权限
 * 访问通信限制 — 授予用户在管理员中启用通信限制的权限
-* 访问CRM — 授予用户访问CRM的权限，例如 [!DNL Salesforce] 或 [!DNL Microsoft Dynamics]，在管理员中
-* 访问 [[!DNL Data.com]](https://data.com)  — 授予用户访问Data.com流操作的权限
+* 访问CRM — 授予用户在管理员中访问CRM （如[!DNL Salesforce]或[!DNL Microsoft Dynamics]）的权限
+* 访问[[!DNL Data.com]](https://data.com) — 授予用户访问Data.com流操作的权限
 * 访问电子邮件管理员 — 赋予用户访问电子邮件管理员的权限，以更改默认设置，如取消订阅和品牌化域
 * 访问事件合作伙伴 — 以管理员身份授予用户访问LaunchPoint的权限
 * 访问字段管理 — 允许用户访问管理员中的字段管理
@@ -50,34 +50,34 @@ ht-degree: 0%
 * 访问位置 — 允许用户访问管理员中的位置，以设置默认语言、区域设置、时区和货币
 * 访问登录历史记录 — 允许用户访问审核记录中的用户登录历史记录
 * 访问登录设置 — 允许用户访问“管理员”中的“登录设置”，以获取安全性、IP限制和智能列表报表设置
-* 访问新体验&#42;  — 允许用户访问“新体验”屏幕
+* 访问新体验&#42; — 允许用户访问新体验屏幕
 * 访问Marketo自定义活动 — 允许用户在“管理员”中访问Marketo自定义活动
 * 访问Marketo自定义对象 — 允许用户在管理员中访问Marketo自定义对象
-* 访问 [!DNL Munchkin]  — 允许用户访问 [!DNL Munchkin] 在管理员中，用于设置跟踪代码、人员跟踪和启用API配置
-* 访问预测受众&#42;  — 允许用户访问“预测受众”屏幕
+* 访问[!DNL Munchkin] — 授予用户在管理员中访问[!DNL Munchkin]的权限，以设置跟踪代码、人员跟踪和启用API配置
+* 访问Predictive Audiences&#42; — 允许用户访问Predictive Audiences屏幕
 * 访问Revenue Cycle Analytics — 让用户可以访问Admin中的Revenue Cycle Analytics，以设置同步摘要和归因
 * 访问角色 — 授予用户管理和编辑角色的权限，但不授予用户
 * 访问Sales Insight — 使用户能够在Admin中管理Sales Insight，以用于设置状态、API配置、人员评分和其他设置
 * 访问单点登录 — 让用户可以在Admin中管理单点登录，以便启用SAML并使用SAML设置和重定向页面URL
 * 访问Smart Campaign — 让用户在管理员中访问Smart Campaign，以限制对合格人员的限制
-* 访问SOAP API — 授予用户在管理员中管理Web服务中SOAP API的权限
+* 访问SOAP API — 允许用户在Admin中管理Web服务中的SOAP API
 * 访问标记 — 允许用户访问除渠道标记以外的所有自定义标记
 * 访问Treasure Check — 让用户能够在Admin中访问Treasure Check中的实验功能
 * 访问用户 — 授予用户在管理员中编辑和管理用户（而非角色）的权限
 * 访问Webhook — 为用户提供Admin中的Webhook，用于设置详细信息和响应映射
 * 访问工作区和分区 — 使用户可以在Admin中创建、编辑和删除工作区和分区
 
-_&#42;为避免对现有用户造成中断，此权限将在被动模式下引入，此时可见但无法访问。 我们将介绍2024年年中该工具生效时如何实施该工具。_
+_&#42;为避免现有用户中断，此权限将在被动模式下引入，此时可见但不可访问。 我们将传达该工具在2024年年中成为活动状态时如何实施该工具。_
 
 ## 访问API  {#access-api}
 
-向用户提供 **仅API** **角色** 访问下面列出的单个API。
+授予具有&#x200B;**仅API** **角色**&#x200B;的用户访问下面列出的各个API的权限。
 
-* 批准资产
+* 批准Assets
 * 执行营销活动
 * 只读活动
 * 只读活动元数据
-* 只读资产
+* 只读Assets
 * 只读营销活动
 * 只读公司
 * 只读自定义对象
@@ -87,7 +87,7 @@ _&#42;为避免对现有用户造成中断，此权限将在被动模式下引�
 * 只读销售人员
 * 读写活动
 * 读写活动元数据
-* 读写资产
+* 读写Assets
 * 读写营销活动
 * 读写公司
 * 读写自定义对象
@@ -101,11 +101,11 @@ _&#42;为避免对现有用户造成中断，此权限将在被动模式下引�
 允许用户访问Analytics选项卡、电子邮件分析、报表以及下面的三个项目，除非未选中它们。
 
 * 访问Revenue Explorer — 取消选中将删除用户对Revenue Explorer的访问权限
-* 创建报告&#42;  — 允许用户在Analytics和Marketing Activities中创建、克隆、读取、更新和移动报表资产，以及收入周期Modeler资产
+* 创建报表&#42; — 赋予用户在Analytics和Marketing Activities以及Revenue Cycle Modeler资产中创建、克隆、读取、更新和移动报表资产的权限
 * 删除报告 — 取消选中此项将删除用户删除报告的能力
 * 导出Analytics数据 — 取消选中此项会删除用户导出Analytics数据的能力
 
-_&#42;为避免对现有用户造成中断，此权限将在被动模式下引入，此时可见但无法访问。 我们将介绍2024年年中该工具生效时如何实施该工具。_
+_&#42;为避免现有用户中断，此权限将在被动模式下引入，此时可见但不可访问。 我们将传达该工具在2024年年中成为活动状态时如何实施该工具。_
 
 ## 访问日历Presentations {#access-calendar-presentations}
 
@@ -119,11 +119,11 @@ _&#42;为避免对现有用户造成中断，此权限将在被动模式下引�
 
 * 访问电子邮件
    * 编辑电子邮件 — 授予用户编辑、创建和克隆电子邮件的权限
-      * 使电子邮件可操作 — 授予用户使电子邮件可操作的权限。 请参阅： [使电子邮件正常运行](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * 使电子邮件可操作 — 授予用户使电子邮件可操作的权限。 请参阅：[使电子邮件正常运行](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * 批准电子邮件 — 允许用户批准电子邮件。
       * 删除电子邮件 — 允许用户删除电子邮件。
-      * 设置品牌域 — 使用户能够使用品牌域。 请参阅： [添加附加品牌策略域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * 设置品牌域 — 使用户能够使用品牌域。 请参阅：[添加附加品牌推广域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * 访问电子邮件模板
 
@@ -186,11 +186,11 @@ _&#42;为避免对现有用户造成中断，此权限将在被动模式下引�
 * 导入自定义对象
 * 导入列表
 * 合并人员
-* 运行单流操作 — 允许用户运行 **更改数据值** 对数据库中的人员执行流程步骤
+* 运行单流操作 — 使用户能够对数据库中的人员运行&#x200B;**更改数据值**&#x200B;流步骤
 
 * 查看机会数据 — 在人员详细信息页面上隐藏机会信息
 
-_&#42;为避免对现有用户造成中断，此权限将在被动模式下引入，此时可见但无法访问。 我们将介绍2024年年中该工具生效时如何实施该工具。_
+_&#42;为避免现有用户中断，此权限将在被动模式下引入，此时可见但不可访问。 我们将传达该工具在2024年年中成为活动状态时如何实施该工具。_
 
 ## 访问营销活动 {#access-marketing-activities}
 
@@ -225,17 +225,17 @@ _&#42;为避免对现有用户造成中断，此权限将在被动模式下引�
 * 管理SEO
 * 标准SEO
 
-_&#42;为避免对现有用户造成中断，此权限将在被动模式下引入，此时可见但无法访问。 我们将介绍2024年年中该工具生效时如何实施该工具。_
+_&#42;为避免现有用户中断，此权限将在被动模式下引入，此时可见但不可访问。 我们将传达该工具在2024年年中成为活动状态时如何实施该工具。_
 
-## 定位和个性化 {#targeting-and-personalization}
+## 定位和Personalization {#targeting-and-personalization}
 
-* 管理Web个性化
+* 管理Web Personalization
 * CRE营销活动编辑器
 * CRE Campaign启动器
 * Web营销活动编辑器
 * Web营销活动启动器
 
-工作区管理
+Workspace管理
 
-* 特定工作区的管理员访问权限（仅当启用了工作区时）
+* 特定Workspace的管理员访问权限（仅当启用了工作区时）
 * 在工作区之间移动资产（仅在启用了工作区的情况下）

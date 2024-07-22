@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
 
    ![](assets/one-5.png)
 
-1. 滚动浏览并选择所需的列(您还可以单击 **全选** 如果您需要每一栏)。 完成后，从列表中单击。
+1. 滚动浏览并选择所需的列（如果需要每列，您还可以单击&#x200B;**全选**）。 完成后，从列表中单击。
 
    ![](assets/two-4.png)
 
@@ -39,10 +39,10 @@ ht-degree: 8%
   </tr> 
   <tr> 
    <td>名字（默认）</td> 
-   <td>名</td> 
+   <td>名字</td> 
   </tr> 
   <tr> 
-   <td>姓 （默认）</td> 
+   <td>姓氏（默认）</td> 
    <td>姓氏</td> 
   </tr> 
   <tr> 
@@ -66,7 +66,7 @@ ht-degree: 8%
    <td>人员当前所在的市场活动</td> 
   </tr> 
   <tr> 
-   <td># 营销活动</td> 
+   <td>促销活动数</td> 
    <td>人员参与的促销活动总数</td> 
   </tr> 
   <tr> 
@@ -102,7 +102,7 @@ ht-degree: 8%
    <td>此人查看的总数</td> 
   </tr> 
   <tr> 
-   <td># 单击次数</td> 
+   <td>点击次数</td> 
    <td>此人的总点击次数</td> 
   </tr> 
   <tr> 
@@ -119,7 +119,7 @@ ht-degree: 8%
   </tr> 
   <tr> 
    <td>源</td> 
-   <td>人员创建来源的来源</td> 
+   <td>人员创建来源的Source</td> 
   </tr> 
   <tr> 
    <td>组（默认）</td> 

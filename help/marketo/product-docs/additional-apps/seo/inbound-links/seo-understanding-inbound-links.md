@@ -6,14 +6,14 @@ exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 1%
+source-wordcount: '122'
+ht-degree: 0%
 
 ---
 
-# SEO — 了解 [!UICONTROL 入站链接] {#seo-understanding-inbound-links}
+# SEO — 了解[!UICONTROL 入站链接] {#seo-understanding-inbound-links}
 
-[!UICONTROL 入站链接] 向搜索引擎指示您的网站值得引用。 太好了！
+[!UICONTROL 入站链接]向搜索引擎指示您的网站值得引用。 太好了！
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
@@ -21,11 +21,11 @@ ht-degree: 1%
 
 | 列标题 | 描述 |
 |---|---|
-| [!UICONTROL 入站链接的URL] | 有问题的网页。 |
+| 入站链接的[!UICONTROL URL] | 有问题的网页。 |
 | [!UICONTROL 优先级] | 此机会对您的页面排名有多大价值。 |
-| [!UICONTROL 竞争对手的链接] | 竞争对手是否在该URL中链接到。 |
+| [!UICONTROL 指向竞争对手的链接] | 竞争对手是否在该URL中链接到。 |
 | [!UICONTROL 指向我的网站的链接] | 您的网站是否已在该URL中链接到。 |
-| [!UICONTROL 我的网站中的链接] | 指示您的网站是否链接到该URL。 |
+| [!UICONTROL 来自我的网站的链接] | 指示您的网站是否链接到该URL。 |
 | [!UICONTROL PageRank] | 标识URL在搜索中的页面排名(1 - 10) |
 
 真贴心！ 现在，您已了解入站链接，我们可以为您的网站建议更多入站链接机会。

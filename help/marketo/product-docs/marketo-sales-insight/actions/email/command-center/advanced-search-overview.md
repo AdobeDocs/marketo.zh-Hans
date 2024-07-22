@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 2%
 
 ## 如何访问高级搜索 {#how-to-access-advanced-search}
 
-1. 在Web应用程序中，单击 **指挥中心**.
+1. 在Web应用程序中，单击&#x200B;**命令中心**。
 
    ![](assets/advanced-search-overview-1.png)
 
-1. 单击 **电子邮件**.
+1. 单击&#x200B;**电子邮件**。
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -89,7 +89,7 @@ _**状态：已发送**_
 
 按已发送的电子邮件活动筛选。 您可以选择视图/无视图、点击/无点击和/或回复/无回复。
 
-_**状态：待定**_
+_**状态：待处理**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ _**状态：待定**_
  </tr>
 </table>
 
-_**状态：未投放**_
+_**状态：未传递**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -143,11 +143,11 @@ _**状态：未投放**_
 
 以下是如何创建保存的搜索。
 
-1. 所有筛选器都就绪后，单击 **将筛选器另存为**.
+1. 所有筛选器都就绪后，单击&#x200B;**筛选器另存为**。
 
    ![](assets/advanced-search-overview-13.png)
 
-1. 为您的搜索提供一个名称，然后单击 **保存**.
+1. 为您的搜索提供一个名称，然后单击&#x200B;**保存**。
 
    ![](assets/advanced-search-overview-14.png)
 

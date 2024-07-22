@@ -15,15 +15,15 @@ ht-degree: 0%
 
 克隆代码片段，以创建可根据需要修改的代码片段副本。
 
-1. 转到 **Design Studio**.
+1. 转到&#x200B;**设计工作室**。
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. 转到您的代码片段，然后在 **代码片段操作**，单击 **克隆**.
+1. 转到您的代码片段，然后在&#x200B;**代码片段操作**&#x200B;下，单击&#x200B;**克隆**。
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. 输入代码片段详细信息并单击 **克隆**.
+1. 输入代码片段详细信息，然后单击&#x200B;**克隆**。
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[使用动态内容编辑代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
+>[编辑包含动态内容的代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)

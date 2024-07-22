@@ -29,16 +29,16 @@ Marketo管理员在Sales Insight中具有某些权限。 了解以下内容。
 
 ## 人员得分设置 {#person-score-settings}
 
-* **星级**：星级表示与其他商机相比的总商机分数。
-* **火焰**：火焰表示紧迫性 — 商机分数最近发生了多大变化。
+* **星**：星代表与其他潜在客户相比的总潜在客户得分。
+* **火焰**：火焰代表紧迫性 — 商机分数最近发生了多少变化。
 
 默认情况下， Marketo Sales Insight使用“商机得分”字段计算星星和火焰。 但是，如果您想选择其他字段，请执行以下操作：
 
-1. 在 **管理员** Marketo区域，单击 **销售分析**.
+1. 在Marketo的&#x200B;**管理员**&#x200B;区域中，单击&#x200B;**销售分析**。
 
    ![](assets/four.png)
 
-1. 在潜在客户评分设置下，单击 **编辑**.
+1. 在潜在客户评分设置下，单击&#x200B;**编辑**。
 
    ![](assets/five.png)
 
@@ -50,13 +50,13 @@ Marketo管理员在Sales Insight中具有某些权限。 了解以下内容。
 
    ![](assets/seven.png)
 
-1. 单击 **保存**. 重新计算销售分析将需要一些时间。 您可以稍后查看CRM以查看星星和火焰。
+1. 单击&#x200B;**保存**。 重新计算销售分析将需要一些时间。 您可以稍后查看CRM以查看星星和火焰。
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >如果您还没有自定义得分字段，请采用以下方法 [创建它们](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >如果您还没有自定义得分字段，下面是如何[创建它们](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)。
 
    >[!MORELIKETHIS]
    >
@@ -85,7 +85,7 @@ Marketo管理员在Sales Insight中具有某些权限。 了解以下内容。
 
 **令牌过期：**
 
-可在功能管理器中控制令牌过期时间。 要启用/禁用此功能，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support). 启用后，所有Marketo令牌将在10分钟内过期。 禁用后，Marketo令牌将不会过期。
+可在功能管理器中控制令牌过期时间。 要启用/禁用此功能，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)。 启用后，所有Marketo令牌将在10分钟内过期。 禁用后，Marketo令牌将不会过期。
 
 在启用令牌过期之前生成的令牌将不会具有可供验证的过期时间，因此即使当前启用了功能，它们也不会过期。
 

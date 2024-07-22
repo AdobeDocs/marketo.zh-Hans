@@ -2,10 +2,10 @@
 description: 操作线索管理 — Marketo文档 — 产品文档
 title: 业务线索管理
 feature: Programs
-exl-id: 28db1a91-a559-4dcb-b2e3-9cb2c0c23f9f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 >
 >在Marketo Engage中，数据库中的记录称为人员/人员。 此示例中的商机管理是引用CRM中的记录。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) 页面。
+要获得进一步的策略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html)页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -39,7 +39,7 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -81,19 +81,19 @@ ht-degree: 2%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
-   * 复制原始模板 —  _推荐_
+   * 复制原始模板 — _推荐_
    * 使用目标模板
 
 * **具有相同名称的图像**
-   * 保留两个文件 —  _推荐_
+   * 保留两个文件 — _推荐_
    * 替换此订阅中的项目
 
 * **同名电子邮件模板**
-   * 保留两个模板 —  _推荐_
+   * 保留两个模板 — _推荐_
    * 替换现有模板
 
 ## 最佳实践 {#best-practices}

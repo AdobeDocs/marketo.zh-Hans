@@ -14,11 +14,11 @@ ht-degree: 0%
 
 按照以下步骤导出自定义活动元数据架构。
 
-1. 在“我的Marketo”中，单击 **[!UICONTROL 管理员]**.
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. 单击 **[!UICONTROL Marketo自定义活动]**.
+1. 单击&#x200B;**[!UICONTROL Marketo自定义活动]**。
 
    ![](assets/custom-activity-metadata-export-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. 单击 **[!UICONTROL 自定义活动操作]** 下拉并选择 **[!UICONTROL 导出活动]**.
+1. 单击&#x200B;**[!UICONTROL 自定义活动操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 导出活动]**。
 
    ![](assets/custom-activity-metadata-export-4.png)
 

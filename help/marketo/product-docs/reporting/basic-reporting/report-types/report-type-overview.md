@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 报表类型概述 {#report-type-overview}
 
-当您 [在项目中创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)中，选择所需的报表类型。
+在程序[中创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)时，请选择所需的报告类型。
 
 ## 最常用报表 {#most-used-reports}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">按收入阶段列出的人员报表</a></strong></td> 
-   <td>收入模型的基本报表。 请参阅 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入周期分析</a> 进行更深入的报告。</td> 
+   <td>收入模型的基本报表。 有关更深入的报告，请参阅<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入周期分析</a>。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">登陆页面性能</a>  </strong></td> 
@@ -55,7 +55,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">项目绩效</a>  </strong></td> 
-   <td>基本的计划指标，如成员和成功。 请参阅 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入周期分析</a> 进行更深入的报告。</td> 
+   <td>基本的计划指标，如成员和成功。 有关更深入的报告，请参阅<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入周期分析</a>。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="company-web-activity-report.md">公司Web活动</a></strong></td> 
@@ -67,11 +67,11 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">参与流性能报表</a> </strong></td> 
-   <td>了解您的 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">参与计划</a> 正在工作。</td> 
+   <td>查看<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">参与计划</a>的工作情况。</td> 
   </tr>
    <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">营销活动电子邮件效果</a> </strong></td> 
-   <td>了解您的 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">参与计划</a> 正在工作。</td> 
+   <td>查看<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">参与计划</a>的工作情况。</td> 
   </tr>
  </tbody> 
 </table>

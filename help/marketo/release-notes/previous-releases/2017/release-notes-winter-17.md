@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >如果一个主题有多个子标题，则链接会放置在该处。
 
-## [适用于Facebook自定义受众的高级匹配](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Facebook自定义受众的高级匹配](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 基本匹配仅使用电子邮件地址，但新的高级匹配使用额外的七个字段，从而提高匹配率以实现更多转化。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 此API提供了一个更快的界面，用于将自定义对象同步到Marketo中。 您可以将CSV、TSV或SSV电子表格文件作为自定义对象导入Marketo。
 
-## [Web个性化营销活动导出](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [Web Personalization促销活动导出](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
 以CSV格式导出所有Web Campaign详细信息和分析。 然后，您便可以用方便的布局查看数据。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 本地化 {#localization}
 
-Web个性化、预测内容和电子邮件分析应用程序现在提供日语、德语和西班牙语版本。 您 [选择您的语言和区域设置](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 查看您在这些语言中的内容。
+Web Personalization、Predictive Content和Email Insights应用程序现在提供日语、德语和西班牙语版本。 您[选择语言和区域设置](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)以查看您在这些语言中的内容。
 
 ![](assets/japanese-web-personalization.png)
 
@@ -59,13 +59,13 @@ Web个性化、预测内容和电子邮件分析应用程序现在提供日语�
 
 ## 预测性内容增强功能 {#predictive-content-enhancements}
 
-**[按启用的源筛选](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[按启用的Source筛选](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 筛选为电子邮件、富媒体或推荐栏启用的预测内容片段。
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[按源筛选分析](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[按Source筛选分析](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 针对特定源（电子邮件、富媒体或推荐栏）筛选预测内容分析。
 
@@ -77,11 +77,11 @@ Web个性化、预测内容和电子邮件分析应用程序现在提供日语�
 
 ![](assets/predictive-content-editor.png)
 
-**[自动发现内容以进行预测](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
+**[预测的自动发现内容](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
 
 图像URL和元数据现在用于内容自动发现过程。
 
-## [SDK增强](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [SDK增强功能](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 现在，开发人员通过添加新的SDK API调用（允许开发人员删除推送令牌），对推送通知的交付进行了额外控制。
 

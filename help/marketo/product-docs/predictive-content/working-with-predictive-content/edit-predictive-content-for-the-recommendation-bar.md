@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->内容必须为 [已批准预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) （在所有内容页面上）。
+>在“所有内容”页面上，预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为[批准。
 
-1. 在 **预测内容** 页面上，单击标题以打开编辑器。
+1. 在&#x200B;**预测内容**&#x200B;页面上，单击标题以打开编辑器。
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. 单击 **条形图**.
+1. 单击&#x200B;**栏**。
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -31,6 +31,6 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/save.png)

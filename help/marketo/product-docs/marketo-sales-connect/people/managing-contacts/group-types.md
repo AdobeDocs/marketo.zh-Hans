@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><p>动态组</p></td> 
-   <td colspan="1">我的联系人：您拥有的所有联系人。<br>取消订阅：已选择退出接收信件的联系人。</td> 
+   <td colspan="1">我的联系人：您拥有的所有联系人。<br>取消订阅：已选择退出接收通信的联系人。</td> 
   </tr> 
   <tr> 
    <td><p>我的组</p></td> 

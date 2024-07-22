@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 添加选取列表值 {#adding-picklist-values}
 
-1. 如果在Salesforce中为选取列表字段类型添加了其他值，您将收到 [通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} 确定将会影响哪些表单。
+1. 如果在Salesforce中为选择列表字段类型添加了其他值，您将收到一个[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"}，用于标识将影响哪些表单。
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. 转到表单编辑器并 [添加其他值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} 到您的建议列表中。
+1. 转到表单编辑器，然后[将附加值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"}添加到您的建议列表中。
 
 ## 删除选择列表值 {#remove-picklist-values}
 

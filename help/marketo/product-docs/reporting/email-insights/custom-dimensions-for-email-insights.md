@@ -6,7 +6,7 @@ exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->自定义维度 **无法** 被删除或替换，因此请仔细选择您的10项。
+>不能删除或替换自定义维度&#x200B;****，因此请仔细选择您的10个维度。
 
 1. 在电子邮件分析中，单击页面右上角的齿轮图标。
 
    ![](assets/cd1.png)
 
-1. 单击 **系统**.
+1. 单击&#x200B;**系统**。
 
    ![](assets/cd2.png)
 
-1. 单击 **+** 旁边 **添加维度**.
+1. 单击&#x200B;**添加维度**&#x200B;旁边的&#x200B;**+**。
 
    ![](assets/cd3.png)
 
@@ -41,6 +41,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**按受众**：显示所有已批准的区段（从数据库中）
+   >按受众&#x200B;****：显示所有已批准的分段（从数据库中）
    >
    >**按内容**：显示所有项目标记

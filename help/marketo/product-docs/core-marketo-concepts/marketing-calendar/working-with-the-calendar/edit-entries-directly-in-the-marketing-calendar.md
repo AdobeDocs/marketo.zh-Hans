@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 启用项目群 {#enable-program-focus}
 
-1. 单击 **[!UICONTROL 日历]** 磁贴。
+1. 单击&#x200B;**[!UICONTROL 日历]**&#x200B;拼贴。
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. 选择属于要关注的项目的条目，然后单击 **[!UICONTROL 显示项目群焦点]**.
+1. 选择属于要关注的项目的条目，然后单击&#x200B;**[!UICONTROL 显示项目焦点]**。
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 

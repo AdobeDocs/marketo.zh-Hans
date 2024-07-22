@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 PMCF令牌将在令牌家族的成员域下受支持。
 
-成员令牌用于项目群成员范围内的字段。 截至当前状态，成员令牌还用于插入来自集成服务合作伙伴的唯一值。 `{{member.webinar url}}` 令牌会自动解析服务提供商生成的人员的唯一确认URL。 {{member.registration code}} 解析为服务提供商提供的注册码。
+成员令牌用于项目群成员范围内的字段。 截至当前状态，成员令牌还用于插入来自集成服务合作伙伴的唯一值。 `{{member.webinar url}}`令牌自动解析服务提供商生成的人员的唯一确认URL。 {{member.registration code}}解析为服务提供商提供的注册码。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
 **电子邮件**
 
-1. 选择所需的电子邮件并单击 **[!UICONTROL 编辑草稿]**.
+1. 选择所需的电子邮件并单击&#x200B;**[!UICONTROL 编辑草稿]**。
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,7 +41,7 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. 查找并选择所需的程序成员自定义字段令牌，输入默认值，然后单击 **[!UICONTROL 插入]**.
+1. 查找并选择所需的程序成员自定义字段令牌，输入默认值，然后单击&#x200B;**[!UICONTROL 插入]**。
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -55,7 +55,7 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
 **登陆页面**
 
-1. 选择您的登陆页面，然后单击 **[!UICONTROL 编辑草稿]**.
+1. 选择您的登陆页面，然后单击&#x200B;**[!UICONTROL 编辑草稿]**。
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,7 +75,7 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. 输入默认值并单击 **[!UICONTROL 插入]**.
+1. 输入默认值并单击&#x200B;**[!UICONTROL 插入]**。
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
@@ -85,11 +85,11 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
 **短信**
 
-1. 选择所需的短信并单击 **[!UICONTROL 编辑草稿]**.
+1. 选择所需的短信，然后单击&#x200B;**[!UICONTROL 编辑草稿]**。
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. 单击 **`{{ Token`** 按钮。
+1. 单击&#x200B;**`{{ Token`**&#x200B;按钮。
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -97,29 +97,29 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. 单击短信操作下拉列表并选择 **[!UICONTROL 批准并关闭]**.
+1. 单击短信操作下拉列表，然后选择&#x200B;**[!UICONTROL 批准并关闭]**。
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **推送通知**
 
-1. 选择所需的推送通知并单击 **[!UICONTROL 编辑草稿]**.
+1. 选择所需的推送通知并单击&#x200B;**[!UICONTROL 编辑草稿]**。
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. 单击 **[!UICONTROL 推送通知]**.
+1. 单击&#x200B;**[!UICONTROL 推送通知]**。
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. 单击编辑器中的消息，然后单击 `{{` 按钮以获取令牌选择器。
+1. 单击编辑器中的消息，然后单击`{{`按钮以获取令牌选择器。
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 查找并选择所需的程序成员自定义字段令牌。 输入默认值并单击 **[!UICONTROL 插入]**.
+1. 查找并选择所需的程序成员自定义字段令牌。 输入默认值并单击&#x200B;**[!UICONTROL 插入]**。
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. 单击 **[!UICONTROL 完成]** 保存并退出(或 **[!UICONTROL 下一个]** 以首先查看)。
+1. 单击&#x200B;**[!UICONTROL 完成]**&#x200B;以保存并退出（或单击&#x200B;**[!UICONTROL 下一步]**&#x200B;以首先查看）。
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

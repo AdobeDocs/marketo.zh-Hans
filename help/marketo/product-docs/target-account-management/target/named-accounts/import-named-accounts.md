@@ -15,27 +15,27 @@ ht-degree: 0%
 
 CSV中已经满是潜在的目标帐户吗？ 将它们直接导入TAM！
 
-1. 单击 **新建** 下拉并选择 **导入指定帐户**.
+1. 单击&#x200B;**新建**&#x200B;下拉列表并选择&#x200B;**导入指定帐户**。
 
    ![](assets/inaone.png)
 
-1. 此时将打开一个新窗口。 单击 **浏览**，然后选择要导入的命名帐户的文件。
+1. 此时将打开一个新窗口。 单击&#x200B;**浏览**，然后选择要导入的命名帐户的文件。
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >在您的文件中，提供 [尽可能多的信息](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) 尽可能。 您只能添加固件信息；Marketo不计算任何内容（如Pipeline）。 要基于CRM帐户创建命名帐户，只需将帐户名和CRM ID从CRM导出到CSV文件中，使用帐户名选项，并在导入过程中映射CRM ID即可。 要将CRM帐户正确链接到指定帐户，您必须提供CRM帐户的准确名称。
+   >在您的文件中，提供[尽可能多的信息](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes)。 您只能添加固件信息；Marketo不计算任何内容（如Pipeline）。 要基于CRM帐户创建命名帐户，只需将帐户名和CRM ID从CRM导出到CSV文件中，使用帐户名选项，并在导入过程中映射CRM ID即可。 要将CRM帐户正确链接到指定帐户，您必须提供CRM帐户的准确名称。
 
-1. 从两种重复数据消除模式中选择：帐户名或域名。 在本例中，我们将选择“帐户”。 单击 **模式** 下拉并选择 **按帐户名称**.
+1. 从两种重复数据消除模式中选择：帐户名或域名。 在本例中，我们将选择“帐户”。 单击&#x200B;**模式**&#x200B;下拉列表并选择&#x200B;**按帐户名**。
 
    ![](assets/inathree.png)
 
    >[!NOTE]
    >
-   >如果您选择 **按域模式**，命名帐户和域字段都必须包含在内。
+   >如果选择&#x200B;**按域模式**，则必须同时包含指定帐户和域字段。
 
-1. 要选择将指定帐户添加到哪个帐户列表，请单击 **帐户列表** 下拉菜单并进行选择。
+1. 要选择指定帐户将添加到哪个帐户列表，请单击&#x200B;**帐户列表**&#x200B;下拉列表并进行选择。
 
    ![](assets/inafour.png)
 
@@ -43,19 +43,19 @@ CSV中已经满是潜在的目标帐户吗？ 将它们直接导入TAM！
    >
    >您还只需在下拉框中键入帐户列表的名称，即可创建全新的帐户列表。
 
-1. 要发送导入通知，请单击 **发送警报到** 下拉列表，然后选择Marketo用户。 您 _无法_ 手动输入电子邮件地址。
+1. 若要发送导入通知，请单击&#x200B;**将警报发送到**&#x200B;下拉列表，然后选择Marketo用户。 您&#x200B;_无法_&#x200B;手动输入电子邮件地址。
 
    ![](assets/inafive-2.png)
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
    ![](assets/inasix-2.png)
 
-1. 通过双击 **Marketo字段** 并选择相应的字段。 单击 **下一个** 完成时。
+1. 通过双击&#x200B;**Marketo字段**&#x200B;下拉列表并选择相应的字段来映射每个字段。 完成后单击&#x200B;**下一步**。
 
    ![](assets/inaseven.png)
 
-   成功!
+   成功！
 
    ![](assets/inanine.png)
 

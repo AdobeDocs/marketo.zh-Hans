@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 分段顺序优先级 {#segmentation-order-priority}
 
-了解如何 **订购** 设置分段中人员的评估优先级。
+了解&#x200B;**订单**&#x200B;如何设置分段中人员的评估优先级，这一点很重要。
 
 >[!PREREQUISITES]
 >
@@ -24,11 +24,11 @@ ht-degree: 0%
 >
 >您只能在草稿模式下编辑分段。
 
-1. 转到 **数据库**.
+1. 转到&#x200B;**数据库**。
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. 选择您的 **分段**. 在 **分段操作**，单击 **编辑区段**.
+1. 选择您的&#x200B;**分段**。 在&#x200B;**分段操作**&#x200B;中，单击&#x200B;**编辑区段**。
 
    ![](assets/segmentation-order-priority-2.png)
 

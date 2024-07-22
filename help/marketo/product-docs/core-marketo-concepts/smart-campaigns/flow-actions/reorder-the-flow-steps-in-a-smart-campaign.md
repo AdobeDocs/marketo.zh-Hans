@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[向智能营销活动添加流量步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[向智能营销活动添加流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. 在您的Smart Campaign中 **[!UICONTROL 流量]** 选项卡，只需将流程步骤拖放到所需的位置。
+1. 在Smart Campaign **[!UICONTROL 流量]**&#x200B;选项卡中，只需将流量步骤拖放到所需的位置。
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 

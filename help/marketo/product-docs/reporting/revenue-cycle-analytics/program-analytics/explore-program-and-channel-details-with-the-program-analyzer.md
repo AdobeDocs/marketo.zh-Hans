@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->并非所有Marketo版本都包含此功能。 有关更多详细信息，请与您的客户经理联系。
+>并非所有Marketo版本都包含此功能。 有关更多详细信息，请联系您的客户经理。
 
-1. 单击 **分析**.
+1. 单击&#x200B;**分析**。
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. 查看渠道或项目群的特定统计信息(取决于 **视图** 选择)，单击相应的气泡。
+1. 要查看某个渠道或项目群的特定统计信息（取决于您选择的&#x200B;**视图**），请单击相应的气泡。
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解 [ft和MT归因之间的差异](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解FT和MT归因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之间的[差异很重要。
 
 1. 要比较单个频道中的所有节目，请单击弹出对话框中的频道名称。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >单击单个渠道可将您的视图切换为“按项目群”，仅对该渠道进行过滤。 要返回到所有渠道，请选择 **视图** > **按渠道**.
+   >单击单个渠道可将您的视图切换为“按项目群”，仅对该渠道进行过滤。 若要返回所有频道，请选择&#x200B;**查看** > **按频道**。
 
 1. 要打开Revenue Cycle Explorer以更深入地挖掘统计数据，请在弹出对话框中单击该数字。
 

@@ -20,15 +20,15 @@ Marketo取消订阅检查使用您的团队与Marketo的连接，防止电子邮
 
 ## 打开 {#turning-it-on}
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. 在管理设置下，单击 **取消订阅**.
+1. 在“管理员设置”下，单击&#x200B;**取消订阅**。
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. 单击 **集成** 选项卡。 在Marketo取消订阅检查部分中，单击滑块以激活该检查。
+1. 单击&#x200B;**集成**&#x200B;选项卡。 在Marketo取消订阅检查部分中，单击滑块以激活该检查。
 
    ![](assets/marketo-unsubscribe-check-3.png)
 

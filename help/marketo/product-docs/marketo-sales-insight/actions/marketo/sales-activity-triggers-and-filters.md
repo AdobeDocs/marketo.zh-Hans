@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 在 **智能列表** 选项卡，搜索“Sales Apps”
+1. 在&#x200B;**智能列表**&#x200B;选项卡中，搜索“销售应用”。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->有关活动、约束和定义的完整列表，请查看我们的 [销售分析操作活动术语表](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>有关活动、约束和定义的完整列表，请查看我们的[销售分析操作活动术语表](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)。

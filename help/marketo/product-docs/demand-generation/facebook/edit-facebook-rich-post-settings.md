@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) 允许您的潜在客户与其在社交网络(如Facebook、Twitter等)上的连接共享您的登陆页面。 facebook OpenGraph标记（OG标记）允许您指定登陆页面中的哪些信息包含在Facebook帖子中。
+Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)允许您的潜在客户与其在Facebook、Twitter等社交网络上的连接共享您的登陆页面。 facebook OpenGraph标记（OG标记）允许您指定登陆页面中的哪些信息包含在Facebook帖子中。
 
 ## 选择富发布选项 {#select-rich-post-options}
 
 您可以指定要在由登录页中的共享生成的Facebook富帖子中使用的页面信息类型。
 
-1. 选择 **facebook消息** 在的编辑器中 **YouTube** 视频或社交按钮。
+1. 在编辑器中为&#x200B;**YouTube**&#x200B;视频或社交按钮选择&#x200B;**Facebook消息**。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -35,7 +35,7 @@ Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * 添加动态内容：您的社交应用程序可以使用登陆页面的 `<TITLE>`， `<CAPTION>`、和 `<DESCRIPTION>` 标记以填充您的富帖。
+   * 添加动态内容：您的社交应用可以使用登陆页面的`<TITLE>`、`<CAPTION>`和`<DESCRIPTION>`标记填充您的富文章。
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
@@ -51,13 +51,13 @@ Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social
 
 要通过登陆页控制将包含在Facebook共享中的页面元素，您可以向登陆页添加标题、描述和描述的Facebook OG（开放图形）标记。
 
-1. 打开包含您的 **YouTube视频** 或社交按钮。
+1. 打开包含您的&#x200B;**YouTube视频**&#x200B;或社交按钮的登陆页面。
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   此 **登陆页设计器** 将在新窗口中打开。
+   将在新窗口中打开&#x200B;**登陆页面Designer**。
 
-1. 选择 **登陆页面操作** > **编辑页面元标记**.
+1. 选择&#x200B;**登陆页面操作** > **编辑页面元标记**。
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

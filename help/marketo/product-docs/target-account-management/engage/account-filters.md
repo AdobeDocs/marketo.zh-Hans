@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## TAM筛选器 {#tam-filters}
 
-1. 选择您的智能营销活动并单击 **智能列表**.
+1. 选择您的智能营销活动并单击&#x200B;**智能列表**。
 
    ![](assets/one.png)
 
-1. 单击 **+** 以展开 **帐户筛选器** 文件夹。
+1. 单击&#x200B;**+**&#x200B;以展开&#x200B;**帐户筛选器**&#x200B;文件夹。
 
    ![](assets/two.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 指定帐户的成员 {#member-of-named-account}
 
-首先，选择一个限定符。 **是** 特定指定帐户或 **为任意** 任何指定帐户的密码。
+首先，选择一个限定符。 特定命名帐户的&#x200B;**是**&#x200B;或任何命名帐户的&#x200B;**是任何**。
 
 ![](assets/six.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ![](assets/eight.png)
 
-如果您使用“是任何”限定词，则可能需要使用 [约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 以缩小搜索结果。 添加任意所需数量！
+如果您使用“是任何”限定符，则可能需要使用[约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)来缩小搜索结果范围。 添加任意所需数量！
 
 ![](assets/nine.png)
 

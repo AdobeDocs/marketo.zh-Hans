@@ -6,7 +6,7 @@ exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 具有电子邮件分析的比率指标与其他Marketo电子邮件报表之间是否有任何差异？ {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
-是. 电子邮件分析将参与量度与计算参与量度比率（打开率、点击打开率、取消订阅率）时发送的同一电子邮件的相应投放量度相关联。 例如，在电子邮件分析中，查看过去一周包含点击率每日细分的时间系列图表时，我们现在会根据相应的投放量度显示打开/点击/取消订阅事件的真实相关比率。 这与Revenue Explorer中的行为形成对比，后者只是将所有内容汇总起来。 电子邮件分析可更准确地查看参与率。
+是的。 电子邮件分析将参与量度与计算参与量度比率（打开率、点击打开率、取消订阅率）时发送的同一电子邮件的相应投放量度相关联。 例如，在电子邮件分析中，查看过去一周包含点击率每日细分的时间系列图表时，我们现在会根据相应的投放量度显示打开/点击/取消订阅事件的真实相关比率。 这与Revenue Explorer中的行为形成对比，后者只是将所有内容汇总起来。 电子邮件分析可更准确地查看参与率。
 
 ## 为什么电子邮件分析仅支持10个自定义Dimension？ {#why-does-email-insights-only-support-custom-dimensions}
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 ## 电子邮件分析是否支持Marketo销售分析电子邮件？ {#does-email-insights-support-marketo-sales-insight-emails}
 
-是. 通过Marketo Sales Insights发送的所有电子邮件都包含在电子邮件分析中。
+是的。 通过Marketo Sales Insights发送的所有电子邮件都包含在电子邮件分析中。
 
 ## 电子邮件分析是否支持操作电子邮件？ {#does-email-insights-support-operational-emails}
 
-是. 默认情况下，查看和查询会隐藏操作电子邮件。 但是，您可以在“个人设置”面板下更改此设置。
+是的。 默认情况下，查看和查询会隐藏操作电子邮件。 但是，您可以在“个人设置”面板下更改此设置。
 
 ## 电子邮件分析会捕获定期计划还是重新运行Smart Campaign电子邮件流程步骤？ {#does-email-insights-capture-recurring-scheduled-or-re-run-smart-campaign-email-flow-steps}
 

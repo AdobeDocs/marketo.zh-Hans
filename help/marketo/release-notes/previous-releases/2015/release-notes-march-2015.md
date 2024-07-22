@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Google Adwords集成 {#google-adwords-integration}
 
-关联您的 [Google AdWords帐户到Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) 自动将离线转化数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够轻松查看哪些点击产生了符合条件的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段）。
+将您的[Google AdWords帐户关联到Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)，以便自动将离线转化数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够轻松查看哪些点击产生了符合条件的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段）。
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -39,18 +39,18 @@ Revenue Explorer具有全新的外观，以及新的环状层次图类型！ 我
 
 [新资产REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-我们现在支持创建和编辑电子邮件、模板、我的令牌、文件和代码片段 [通过API](https://developer.adobe.com/marketo-apis/api/asset/)！
+我们现在支持通过API ](https://developer.adobe.com/marketo-apis/api/asset/)创建和编辑电子邮件、模板、我的令牌、文件和代码片段[！
 
 ## Microsoft Dynamics 2015内部部署 {#microsoft-dynamics-on-premise}
 
-最新安装程序现在支持 [可通过应用程序访问](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+最新安装程序支持，现在[可通过应用程序](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)访问。
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP — 包含潜在客户数据的个性化Web参与 {#rtp-personalized-web-engagement-with-lead-data}
 
-利用 [商机数据字段](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) 您可以在Marketo Lead数据库中创建实时分段和个性化内容促销活动。 在RTP中管理您的潜在客户数据字段并添加/删除相关的潜在客户字段。
+利用您在Marketo潜在客户数据库中拥有的[潜在客户数据字段](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)创建实时分段和个性化内容营销活动。 在RTP中管理您的潜在客户数据字段并添加/删除相关的潜在客户字段。
 
 ## RTP — 按电子邮件或项目群促销活动名称个性化Web内容 {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-继续通过从电子邮件到Web的各种渠道与潜在客户进行对话。 [根据电子邮件促销活动或项目群个性化入站内容](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) 在Marketo的营销活动中使用的名称。
+继续通过从电子邮件到Web的各种渠道与潜在客户进行对话。 [根据Marketo营销活动中使用的电子邮件促销活动或项目](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)名称对入站内容进行个性化设置。

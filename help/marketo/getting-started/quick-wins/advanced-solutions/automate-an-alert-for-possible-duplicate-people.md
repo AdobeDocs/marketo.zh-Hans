@@ -15,10 +15,10 @@ ht-degree: 0%
 
 是否希望每次创建可能的重复人员时都显示警报？ 下面是如何设置Smart Campaign来执行此操作。
 
-1. [创建新的智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. 定义以下智能列表：
+1. [创建新的智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。 定义以下智能列表：
 
 * 触发器： **[!UICONTROL 人员已创建]**
-* 筛选器： **[!UICONTROL 重复字段]**. 字段名称 **[!UICONTROL 是] [!UICONTROL 全名]**
+* 筛选器： **[!UICONTROL 重复字段]**。 字段名&#x200B;**[!UICONTROL 是] [!UICONTROL 全名]**
 
   ![](assets/automate-an-alert-1.png)
 
@@ -26,13 +26,13 @@ ht-degree: 0%
   >
   >发挥创造力。 对不同字段进行实验，获得更好的过滤效果。
 
-1. 在流程步骤中，选择 [[!UICONTROL 发送警报]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} flow操作。
+1. 在流程步骤中，选择[[!UICONTROL 发送警报]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"}流程操作。
 
    ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
-   >使用 [发送警报信息令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} 以添加指向您的CRM中的人员的链接。
+   >使用[发送警报信息令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}在CRM中包含指向此人的链接。
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
    >
    >此外，两个同名的人并不自动意味着他们是同一个人。
 
-1. 在中激活营销活动 **[!UICONTROL 计划]** 选项卡。
+1. 在&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡中激活该营销活动。
 
    ![](assets/automate-an-alert-3.png)
 

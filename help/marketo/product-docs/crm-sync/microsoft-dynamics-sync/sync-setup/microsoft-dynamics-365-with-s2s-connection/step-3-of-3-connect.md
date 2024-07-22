@@ -6,8 +6,8 @@ exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 1%
+source-wordcount: '438'
+ht-degree: 0%
 
 ---
 
@@ -26,45 +26,45 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->如果您要从基本身份验证升级到OAuth，您需要联系 [Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 以获取有关更新其他参数的帮助。 启用此功能将暂时停止同步，直到输入新凭据并重新启用同步为止。 如果您希望恢复到旧的身份验证模式，可以禁用该功能（直到2022年4月）。
+>如果您要从基本身份验证升级到OAuth，则需要联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以获取有关更新其他参数的帮助。 启用此功能将暂时停止同步，直到输入新凭据并重新启用同步为止。 如果您希望恢复到旧的身份验证模式，可以禁用该功能（直到2022年4月）。
 
 >[!NOTE]
 >
->在输入新凭据之前，您可以 [在此处验证它们](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
+>在输入新凭据之前，您可以[在此处](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}验证它们。
 
 ## 输入Dynamics同步用户信息 {#enter-dynamics-sync-user-information}
 
-1. 登录Marketo并单击 **[!UICONTROL 管理员]**.
+1. 登录到Marketo并单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/login-admin.png)
 
-1. 单击 **[!UICONTROL CRM]**.
+1. 单击&#x200B;**[!UICONTROL CRM]**。
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. 选择 **[!DNL Microsoft]**.
+1. 选择&#x200B;**[!DNL Microsoft]**。
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. 单击 **[!UICONTROL 编辑]** 在 **[!UICONTROL 输入凭据]**.
+1. 在&#x200B;**[!UICONTROL 输入凭据]**&#x200B;中单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >请确保您的组织URL正确，因为提交后我们无法还原后续架构更改。 如果使用的组织URL不正确，您将必须获取新的Marketo订阅。 如果你不知道这个URL， [在此处了解如何查找它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >请确保您的组织URL正确，因为提交后我们无法还原后续架构更改。 如果使用的组织URL不正确，您将必须获取新的Marketo订阅。 如果您不知道该URL，[请在此处了解如何查找该URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
-1. 输入Dynamics同步用户信息并单击 **[!UICONTROL 保存]** 完成时。
+1. 输入Dynamics同步用户信息，完成后，单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
-   >Marketo中的用户名必须匹配 [电子邮件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} CRM中应用程序用户的个人资料。 格式可以是 `user@domain.com` 或DOMAIN\user。
+   >Marketo中的用户名必须与CRM中应用程序用户的[电子邮件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"}匹配。 格式可以是`user@domain.com`或DOMAIN\user。
 
 ## 选择要同步的字段 {#select-fields-to-sync}
 
-1. 单击 **[!UICONTROL 编辑]** 在 **[!UICONTROL 选择要同步的字段]**.
+1. 在&#x200B;**[!UICONTROL 选择要同步的字段]**&#x200B;中单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -74,17 +74,17 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo存储对要同步的字段的引用。 如果您删除Dynamics中的字段，我们建议您使用 [已禁用同步](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+>Marketo存储对要同步的字段的引用。 如果删除Dynamics中的字段，我们建议在禁用[同步](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}的情况下执行此操作。 然后通过编辑并保存[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}来刷新Marketo中的架构。
 
 ## 同步自定义筛选器的字段 {#sync-fields-for-a-custom-filter}
 
 如果已创建自定义筛选器，请确保进入并选择要与Marketo同步的新字段。
 
-1. 转到管理员并选择 **[!DNL Microsoft Dynamics]**.
+1. 转到管理员并选择&#x200B;**[!DNL Microsoft Dynamics]**。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 单击 **[!UICONTROL 编辑]** 在字段同步详细信息中。
+1. 单击字段同步详细信息上的&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 ## 启用同步 {#enable-sync}
 
-1. 单击 **[!UICONTROL 编辑]** 在 **[!UICONTROL 启用同步]**.
+1. 在&#x200B;**[!UICONTROL 启用同步]**&#x200B;中单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -102,7 +102,7 @@ ht-degree: 1%
    >
    >Marketo不会针对Microsoft Dynamics同步或手动输入人员或潜在客户时自动执行重复数据删除。
 
-1. 阅读弹出窗口中的所有内容，输入您的电子邮件地址，然后单击 **[!UICONTROL 开始同步]**.
+1. 读取弹出窗口中的所有内容，输入您的电子邮件地址，然后单击&#x200B;**[!UICONTROL 开始同步]**。
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 

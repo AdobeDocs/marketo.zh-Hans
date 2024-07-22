@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 设置核对清单 {#setup-checklist}
 
-欢迎使用Marketo！ 请随时使用以下清单作为开始操作的可视待办事项列表。 详情请见 [设置步骤](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+欢迎使用Marketo！ 请随时使用以下清单作为开始操作的可视待办事项列表。 可在[设置步骤](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}中找到详细信息。
 
 ## 登录到Marketo并创建其他用户 {#log-in-to-marketo-and-create-additional-users}
 
@@ -35,8 +35,8 @@ ht-degree: 0%
 1. 为品牌跟踪链接选择电子邮件CNAME
 1. 请求IT为您的电子邮件CNAME设置DNS记录
 1. 要求IT允许列表Marketo
-1. 在中设置DKIM和SPF [!UICONTROL 管理员] 区域
-1. 为设置MX `[FromDomain1]`
+1. 在[!UICONTROL 管理员]区域设置DKIM和SPF
+1. 为`[FromDomain1]`设置MX
 1. 使用电子邮件CNAME完成后，在Marketo中设置您的电子邮件CNAME
 
 ## 为登陆页面和电子邮件模板提交URL {#submit-a-url-for-landing-page-and-email-templates}

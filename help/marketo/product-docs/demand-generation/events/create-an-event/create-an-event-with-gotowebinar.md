@@ -6,7 +6,7 @@ exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [将GoToWebinar添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
->* [创建新的事件程序](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 设置适当的 [流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与情况
+>* [创建新的活动计划](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* 设置相应的[流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与情况
 
 首先在GoToWebinar中创建网络研讨会。 GoTo网络研讨会创建过程中的某些设置由Marketo使用，而某些设置仅由GoTo网络研讨会使用。
 
@@ -27,25 +27,25 @@ ht-degree: 0%
 
 ## 标题和描述 {#title-and-description}
 
-**网络研讨会名称**  — 输入网络研讨会的名称。 此名称将显示在Marketo中。
+**网络研讨会名称** — 输入网络研讨会的名称。 此名称将显示在Marketo中。
 
-**描述** （可选） — 输入网络研讨会的说明。 该描述将显示在Marketo中。
+**描述**（可选） — 输入网络研讨会的描述。 该描述将显示在Marketo中。
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 
 ## 日期和时间 {#date-time}
 
-为您的网络研讨会输入以下信息，这些信息将通过适配器拉入Marketo。 如果您对此信息进行了任何更改，则必须单击链接&#39;&#39;**从网络研讨会提供商刷新**“，在 **事件操作**，以便Marketo查看更改情况。
+为您的网络研讨会输入以下信息，这些信息将通过适配器拉入Marketo。 如果您对此信息进行了任何更改，则必须单击&#x200B;**事件操作**&#x200B;下的链接“**从网络研讨会提供程序刷新**”，以便Marketo能够看到这些更改。
 
-**开始日期**  — 输入开始日期。 该屏幕将显示在Marketo中。
+**开始日期** — 输入您的开始日期。 该屏幕将显示在Marketo中。
 
-**开始时间**  — 输入您的开始时间。 该屏幕将显示在Marketo中。
+**开始时间** — 输入您的开始时间。 该屏幕将显示在Marketo中。
 
-**结束时间**  — 输入您的结束时间。 该屏幕将显示在Marketo中。
+**结束时间** — 输入您的结束时间。 该屏幕将显示在Marketo中。
 
-**时区**  — 选择适用的时区。 该可视化图表将在Marketo中可见。
+**时区** — 选择适用的时区。 该可视化图表将在Marketo中可见。
 
-**类型 —** 设置为 **一个会话**.
+**类型 —**&#x200B;设置为&#x200B;**一个会话**。
 
 ![](assets/image2015-5-28-15-3a7-3a1.png)
 
@@ -55,19 +55,19 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您需要其他GoTo网络研讨会帮助，请访问 [帮助站点](https://support.logmeininc.com/gotowebinar).
+>如果您需要其他GoTo网络研讨会帮助，请访问他们的[帮助站点](https://support.logmeininc.com/gotowebinar)。
 
 现在，让我们跳入Marketo！
 
-1. 选择一个事件。 单击 **事件操作** 并选择 **事件设置**.
+1. 选择一个事件。 单击&#x200B;**事件操作**&#x200B;并选择&#x200B;**事件设置**。
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
    >[!NOTE]
    >
-   >所选事件的渠道类型必须为 **网络研讨会**.
+   >所选事件的渠道类型必须是&#x200B;**网络研讨会**。
 
-1. 选择 **GoTo网络研讨会** 从 **活动合作伙伴** 列表。
+1. 从&#x200B;**事件合作伙伴**&#x200B;列表中选择&#x200B;**GoToWebinar**。
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -79,11 +79,11 @@ ht-degree: 0%
 
    ![](assets/image2015-5-14-14-3a57-3a31.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. 太棒了！ 现在，该事件已由同步并计划 **GoTo网络研讨会**.
+1. 太棒了！ 现在，该事件已由&#x200B;**GoToWebinar**&#x200B;同步并计划。
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -93,9 +93,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要使用此唯一URL填充确认电子邮件，请在电子邮件中使用以下令牌： `{{member.webinar url}}`. 在发送确认URL时，此令牌会自动解析为人员的唯一确认URL。
+   >若要使用此唯一URL填充确认电子邮件，请在电子邮件中使用以下令牌： `{{member.webinar url}}`。 在发送确认URL时，此令牌会自动解析为人员的唯一确认URL。
    >
-   >将确认电子邮件设置为 **可操作** 以确保已注册和可能取消订阅的人员仍会收到其确认信息。
+   >将您的确认电子邮件设置为&#x200B;**操作**，以确保注册和可能取消订阅的用户仍会收到其确认信息。
 
    ![](assets/goto-webinar.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >数据可能需要48小时才能显示在Marketo中。 如果经过这么长的时间后仍未看到任何内容，请选择 **从网络研讨会提供商刷新** 从“事件操作”菜单 **摘要** 选项卡。
+   >数据可能需要48小时才能显示在Marketo中。 如果经过这么长时间后仍未看到任何内容，请从事件的&#x200B;**摘要**&#x200B;选项卡的“事件操作”菜单中选择&#x200B;**从网络研讨会提供程序刷新**。
 
 当新状态设置为“已注册”时，注册您的网络研讨会的用户将通过“更改项目状态”流程步骤推送至您的网络研讨会提供商。 没有其他状态会将该人员推倒。 此外，请确保将“更改项目状态”流程步骤#1和“发送电子邮件”流程步骤#2设置为。
 

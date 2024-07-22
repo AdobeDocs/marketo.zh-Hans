@@ -16,7 +16,7 @@ ht-degree: 0%
 
 我们使用两种不同的方法来确认机器人活动：
 
-* 匹配 [Interactive Advertising Bureau机器人列表](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}：与IAB UA/IP（用户代理/IP地址）列表上的任何内容匹配的活动将被标记为机器人。
+* 与[Interactive Advertising Bureau机器人列表](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}匹配：与IAB UA/IP（用户代理/IP地址）列表中的任何内容匹配的活动将被标记为机器人。
 * 与邻近模式匹配：当两个或多个活动同时发生（在一秒之内）时，它们将被识别为机器人。 比较过程中考虑的属性包括：
    * 商机ID（应相同）
    * 电子邮件资源（应相同）
@@ -31,33 +31,33 @@ ht-degree: 0%
 
 ## 选择筛选器类型 {#select-filter-type}
 
-1. 单击 **[!UICONTROL 管理员]**.
+1. 单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. 单击 **[!UICONTROL 电子邮件]**.
+1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 单击 **[!UICONTROL 机器人活动]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL 机器人活动]**&#x200B;选项卡。
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 有两个滑块可供选择。 您可以只启用一个或同时启用两者。 如果您启用 **[!UICONTROL 与IAB列表匹配]**，选择是否 [!UICONTROL 记录机器人活动] _或_ [!UICONTROL 过滤机器人活动].
+1. 有两个滑块可供选择。 您可以只启用一个或同时启用两者。 如果启用了&#x200B;**[!UICONTROL 与IAB列表]**&#x200B;匹配，请选择是[!UICONTROL 记录机器人活动] _还是_ [!UICONTROL 筛选机器人活动]。
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. 如果您启用 **[!UICONTROL 与邻近模式匹配]**，选择是否 [!UICONTROL 记录机器人活动] _或_ [!UICONTROL 过滤机器人活动]. 您还可以为以下对象设置秒数 **活动之间的持续时间** （默认值为0，最大值为3）。
+1. 如果启用了&#x200B;**[!UICONTROL 与邻近关系模式匹配]**，请选择是[!UICONTROL 记录机器人活动] _还是_ [!UICONTROL 筛选机器人活动]。 您还可以设置&#x200B;**活动之间的持续时间**&#x200B;的秒数（默认值为0，最大值为3）。
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->替换为 **活动之间的持续时间** 设置为0秒，我们将识别在同一秒发生的电子邮件活动。 如果在指定的秒数内发生了多个电子邮件活动，则会将其识别为机器人活动。
+>如果将&#x200B;**Duration Between Activities**&#x200B;设置为0秒，我们将识别在同一秒发生的电子邮件活动。 如果在指定的秒数内发生了多个电子邮件活动，则会将其识别为机器人活动。
 
 >[!IMPORTANT]
 >
->* 如果您选择 [!UICONTROL 过滤机器人活动]，您可能会看到电子邮件打开次数和点击次数出现下降，因为虚假活动被淘汰了。
+>* 如果选择[!UICONTROL 过滤机器人活动]，您可能会看到电子邮件打开次数和点击次数出现下降，因为虚假活动被淘汰。
 
 **可选步骤**：要禁用任一功能，只需取消选择相应的滑块即可。 如果这样做，数据将不会重置。
 

@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >未回答的问题列表每24小时（太平洋标准时间午夜）自动刷新一次。
 
-1. 在“生成AI”下，单击 **[!UICONTROL 辅助响应]**.
+1. 在“生成AI”下，单击&#x200B;**[!UICONTROL 辅助响应]**。
 
    ![](assets/unanswered-questions-1.png)
 
-1. 单击 **[!UICONTROL 未回答的问题]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL 未回答的问题]**&#x200B;选项卡。
 
    ![](assets/unanswered-questions-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/unanswered-questions-3.png)
 
-1. 输入您的响应。 分配主题并添加用户可与访客共享的可选URL。 单击 **[!UICONTROL 保存]** 完成时。
+1. 输入您的响应。 分配主题并添加用户可与访客共享的可选URL。 完成后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/unanswered-questions-4.png)
 

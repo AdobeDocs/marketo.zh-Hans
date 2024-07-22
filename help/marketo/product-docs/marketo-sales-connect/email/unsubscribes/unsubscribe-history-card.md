@@ -32,7 +32,7 @@ ht-degree: 2%
    <td><p>显示取消订阅/重新订阅的日期。</p></td> 
   </tr> 
   <tr> 
-   <td><strong>详细信息</strong></td> 
+   <td><strong>详情</strong></td> 
    <td><p>重新订阅： Sales Connect管理员从联系人记录中手动删除了取消订阅。 它也可能显示与联系人取消订阅原因相关的一些详细信息。</p><p>取消订阅：联系人已取消订阅。</p></td> 
   </tr> 
   <tr> 

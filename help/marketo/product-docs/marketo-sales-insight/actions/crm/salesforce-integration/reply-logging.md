@@ -7,7 +7,7 @@ exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Sales Insight Actions使您能够自动将潜在客户的回复记录到Salesfor
 ## 要求 {#requirements}
 
 * 必须通过API日志记录来记录电子邮件
-* 必须能够 [跟踪回复](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
+* 必须能够[跟踪回复](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
 * 必须与Salesforce连接
-* 必须具有Salesforce [API调用](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) 可用
+* 必须有Salesforce [API调用](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)可用
 
 ## 启用回复日志记录 {#enable-reply-logging}
 
-1. 要启用回复日志记录，您可以转到Salesforce设置页面。 勾选API日志记录后，您将看到要勾选的选项 _记录回复_.
+1. 要启用回复日志记录，您可以转到Salesforce设置页面。 签出API日志记录后，您将看到用于检查&#x200B;_日志回复_&#x200B;的选项。
 
    >[!NOTE]
    >
@@ -33,12 +33,12 @@ Sales Insight Actions使您能够自动将潜在客户的回复记录到Salesfor
 
 ## 在Salesforce中设置要回复的类型 {#setting-type-to-reply-in-salesforce}
 
-从Salesforce报表中获取有意义的数据很重要。 由于能够将类型字段填充为“回复”，因此您可以通过报表获取这些数据。 与您的 `Salesforce admin` 进行此设置。
+从Salesforce报表中获取有意义的数据很重要。 由于能够将类型字段填充为“回复”，因此您可以通过报表获取这些数据。 与您的`Salesforce admin`合作以获取此设置。
 
-1. 转到 **设置** > **自定义** > **活动** > **任务字段**.
-1. 单击 **类型**.
-1. 在任务类型选择列表值下，单击 **新建**.
-1. 在空框中键入“Reply”。 确保将“R”大写，然后单击 **保存**.
+1. 转到&#x200B;**设置** > **自定义** > **活动** > **任务字段**。
+1. 单击&#x200B;**类型**。
+1. 在任务类型选择列表值下，单击&#x200B;**新建**。
+1. 在空框中键入“Reply”。 确保将&#39;R&#39;大写，然后单击&#x200B;**保存**。
 
    >[!NOTE]
    >

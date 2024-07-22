@@ -6,7 +6,7 @@ exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 要实施RTP标记，请按照以下安装说明操作：
 
-1. 转到 **帐户设置**.
+1. 转到&#x200B;**帐户设置**。
 
-   a.如果您已从支持部门收到JavaScript标记，请继续执行步骤3。
+   a.如果您已从支持部门收到JavaScript标记 — 请继续执行步骤3。
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. 在“域”下，找到相关域并单击 **生成标记**.
+1. 在“域”下，找到相关域，然后单击&#x200B;**生成标记**。
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 1. 以管理员用户身份登录到您的WordPress帐户
 
-   a.下 **外观**，转到 **自定义JavaScript**.
+   a.在&#x200B;**外观**&#x200B;下，转到&#x200B;**自定义JavaScript**。
 b.将RTP Javascript标记粘贴到现有代码的后面。
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -45,4 +45,4 @@ b.将RTP Javascript标记粘贴到现有代码的后面。
    >
    >仅插入脚本本身。
 
-1. 单击 **更新**.
+1. 单击&#x200B;**更新**。

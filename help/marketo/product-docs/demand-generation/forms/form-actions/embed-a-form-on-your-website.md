@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo允许您将我们的表单嵌入到您自己的网站上。 以下是如何获取对嵌入代码的访问权限。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,19 +23,19 @@ Marketo允许您将我们的表单嵌入到您自己的网站上。 以下是如
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. 下 **表单操作**，单击 **嵌入代码**.
+1. 在&#x200B;**表单操作**&#x200B;下，单击&#x200B;**嵌入代码**。
 
    >[!NOTE]
    >
-   >该表单必须获得批准 **嵌入代码** 项目可见/可用。
+   >表单必须获得批准，才能使&#x200B;**嵌入代码**&#x200B;项目可见/可用。
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >**[表单预填](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** 在您自己的页面上使用表单嵌入代码时不起作用 _或_ Marketo登陆页面。 仅当表单通过“插入元素”选项用于Marketo登录页面时，表单预填充才起作用。
+   >在您自己的页面&#x200B;_或_ Marketo登录页面上使用表单嵌入代码时，**[表单预填充](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)**&#x200B;不起作用。 仅当表单通过“插入元素”选项用于Marketo登录页面时，表单预填充才起作用。
 
-1. 选择/复制嵌入代码，然后单击 **关闭**.
+1. 选择/复制嵌入代码，然后单击&#x200B;**关闭**。
 
    ![](assets/image2014-9-15-12-3a12-3a31.png)
 
@@ -47,6 +47,6 @@ Marketo允许您将我们的表单嵌入到您自己的网站上。 以下是如
 
 >[!NOTE]
 >
->如果您的开发人员想要自定义外观或访问高级API功能，请向他们显示 [Forms 2.0开发人员页面](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>如果您的开发人员想要自定义外观或访问高级API功能，请向他们显示[Forms 2.0开发人员页面](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。
 
-做得好！您是否希望 [嵌入代码以包含Lightbox代码](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)？ 这也很容易！
+做得好！是否希望[嵌入代码包含Lightbox代码](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)？ 这也很容易！

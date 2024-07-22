@@ -18,28 +18,28 @@ ht-degree: 0%
 
 ## 如何以管理员身份与Salesforce断开连接 {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. 在销售分析操作中，单击右上角的齿轮图标，然后选择 **设置**.
+1. 在Sales Insight Actions中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
-1. 在管理设置下，单击 **Salesforce**.
+1. 在“管理员设置”下，单击&#x200B;**Salesforce**。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. 在“连接和定制”选项卡中，单击 **断开连接**.
+1. 在“连接和自定义项”选项卡中，单击&#x200B;**断开连接**。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
 ## 如何以非管理员身份从Salesforce断开连接 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. 在销售分析操作中，单击右上角的齿轮图标，然后选择 **设置**.
+1. 在Sales Insight Actions中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
-1. 在我的帐户下，选择 **Salesforce**.
+1. 在我的帐户下，选择&#x200B;**Salesforce**。
 
 PICC
 
-1. 在“连接和定制”选项卡中，单击 **断开连接**.
+1. 在“连接和自定义项”选项卡中，单击&#x200B;**断开连接**。
 
 PICC

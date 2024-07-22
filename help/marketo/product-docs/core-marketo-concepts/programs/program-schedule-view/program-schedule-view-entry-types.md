@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 项目计划查看条目类型 {#program-schedule-view-entry-types}
 
-有八种不同的内置条目类型将可见，并可在程序计划视图中使用。 您还可以 [创建自定义条目类型](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) 在管理员部分中。
+有八种不同的内置条目类型将可见，并可在程序计划视图中使用。 您还可以在管理员部分中[创建自定义条目类型](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)。
 
 >[!NOTE]
 >
->定期智能营销活动包括 **非** 在计划视图中受支持。
+>计划视图中&#x200B;**不支持**&#x200B;周期性智能营销活动。
 
 <table> 
  <thead> 

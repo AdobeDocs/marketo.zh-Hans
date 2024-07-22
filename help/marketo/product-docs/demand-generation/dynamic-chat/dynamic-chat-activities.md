@@ -28,22 +28,22 @@ Dynamic Chat提供了多个过滤器和触发器以用于您的智能列表。
   </tr>
   <tr>
     <td style="width:25%"><b>已参与会话流/对话</b></td>
-    <td>Web访客首次单击对话框或对话流中的提示时（单击多选选项、提交信息、预订会议、打开文档等），就会发生参与。 如果访客打开对话框或对话流，但未单击提示，则参与为 <b>非</b> 已记录。 
+    <td>Web访客首次单击对话框或对话流中的提示时（单击多选选项、提交信息、预订会议、打开文档等），就会发生参与。 如果访客打开了对话框或对话流，但未单击提示，则将<b>未记录参与情况</b>。 
     <br>每个访客、每个会话一个参与事件。</td>
   </tr>
    <tr>
     <td style="width:25%"><b>与代理接洽</b></td>
     <td>当访客成功连接到实时聊天代理时发生。
-    <br>每个访客、每个会话的代理事件参与者。</td>
+    <br>每个访客、每个会话的代理事件参与人。</td>
   </tr>
   <tr>
     <td style="width:25%"><b>与文档交互</b></td>
     <td>当访客单击文档信息卡中的文档时发生。
-    <br>每个访客、每个会话可以有多个文档交互。</td>
+    <br>每个访客、每个会话可能存在多个文档交互。</td>
   </tr>
   <tr>
     <td style="width:25%"><b>已实现的目标</b></td>
-    <td>当访客实现目标时发生。 <br>每个访客、每个会话可以有多个目标实现事件。</td>
+    <td>当访客实现目标时发生。 <br>每个访客、每个会话可以有多个目标实现的事件。</td>
   </tr>
   <tr>
     <td style="width:25%"><b>已安排的会议</b></td>
@@ -56,5 +56,5 @@ Dynamic Chat提供了多个过滤器和触发器以用于您的智能列表。
 ## 注意事项 {#things-to-note}
 
 * Dynamic Chat流步骤中支持条件
-* Dynamic Chat活动可以同步到 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
+* Dynamic Chat活动可以同步到[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
 * 您可以在人员记录的Dynamic Chat日志中查看单个活动活动

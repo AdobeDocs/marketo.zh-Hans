@@ -23,25 +23,25 @@ ht-degree: 0%
 >
 >本文中的信息适用于直接在login.marketo.com登录的用户，不适用于使用Adobe ID进行身份验证的用户。 目前无法对单点登录(SSO)登录实施IP限制。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. 单击 **[!UICONTROL 登录设置]**.
+1. 单击&#x200B;**[!UICONTROL 登录设置]**。
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. 单击 **[!UICONTROL 编辑IP限制]**.
+1. 单击&#x200B;**[!UICONTROL 编辑IP限制]**。
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. 选择是否要 **允许** 或 **块** 指定地址，输入地址，然后单击 **[!UICONTROL 保存]**.
+1. 选择要&#x200B;**允许**&#x200B;还是&#x200B;**阻止**&#x200B;特定地址，输入地址，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    >[!NOTE]
    >
    >**定义**
    >
-   >* **[!UICONTROL 允许的IP地址]**：添加允许的IP地址具有包容性。 它将包含指定的所有IP地址，并排除其他所有地址。
+   >* **[!UICONTROL 允许的IP地址]**：添加允许的IP地址具有包含性。 它将包含指定的所有IP地址，并排除其他所有地址。
    >* **[!UICONTROL 阻止IP地址]**：阻止特定IP访问Marketo。
    >* **[!UICONTROL 禁用IP限制]**：选中此项将停止任何/所有限制规则的工作。 将其用于测试目的。
 

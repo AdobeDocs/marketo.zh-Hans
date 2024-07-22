@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 了解动态内容 {#understanding-dynamic-content}
 
-要个性化，不仅仅是“嗨 `{{First_Name}}`“。 借助Marketo动态内容，您可以自定义不同人员查看登陆页面或电子邮件的方式。
+要个性化的内容比“您好`{{First_Name}}`”多得多。 借助Marketo动态内容，您可以自定义不同人员查看登陆页面或电子邮件的方式。
 
 ![](assets/artboard-1.png)
 
 ## 分段 {#segmentation}
 
-首先，您需要将您的用户划分为多个子组。 这称为 [分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+首先，您需要将您的用户划分为多个子组。 这称为[分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
 
 >[!NOTE]
 >
->**条件**
+>**定义**
 >
->分段根据 [智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) 规则。 这些组称为区段。
+>分段根据[智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)规则将受众分类为不同的子组。 这些组称为区段。
 
 例如，如果我们有一个称为行业的分段，那么一些区段可以是：医疗保健、技术、金融、消费品等。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 代码片段 {#snippets}
 
-[代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) 是Marketo中的一个有用工具。 只需创建一次，即可在多个位置使用！ 如果您更新代码片段，则将自动更新使用该代码片段的所有资产（登陆页面或电子邮件）。
+[代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)是Marketo中的一个有用工具。 只需创建一次，即可在多个位置使用！ 如果您更新代码片段，则将自动更新使用该代码片段的所有资产（登陆页面或电子邮件）。
 
 >[!NOTE]
 >

@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >要启用此功能，请联系支持部门并请求“Vespa安全模式”。
 
-1. 在Marketo中，选择 **管理员** 并单击 **移动应用程序和设备**.
+1. 在Marketo中，选择&#x200B;**管理员**，然后单击&#x200B;**移动设备应用程序和设备**。
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. 向下滚动，在Access Security部分中，单击 **编辑**.
+1. 向下滚动，在“访问安全性”部分中，单击&#x200B;**编辑**。
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. 查看 **启用安全性** 复选框。 单击 **保存**.
+1. 选中&#x200B;**启用安全性**&#x200B;复选框。 单击&#x200B;**保存**。
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

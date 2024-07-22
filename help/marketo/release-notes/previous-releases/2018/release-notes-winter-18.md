@@ -25,9 +25,9 @@ Marketo正在利用我们的大数据架构提高触发活动吞吐量和改进W
 
 我们对Salesforce CRM集成进行了两项增强：
 
-* [Marketo管理通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 对于某些CRM同步失败（凭据已过期、达到API限制等），
+* 针对某些CRM同步失败（凭据已过期、达到API限制等），[Marketo管理员通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
 
-* [能够关闭电子邮件通知](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 销售线索分配时至销售线索责任人
+* [能够在潜在客户分配时关闭向潜在客户所有者的电子邮件通知](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
 
 这些改进将在2018年推出。
 
@@ -55,29 +55,29 @@ Marketo正在利用我们的大数据架构提高触发活动吞吐量和改进W
 
 **收件人时区**
 
-* **[每月培养节奏](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**：我们添加了按月安排培养计划的功能。
+* **[每月培养节奏](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**：我们添加了每月安排培养计划的功能。
 
-* **[停止投放](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**：您现在可以在运行时停止任何剩余的发送。
+* **[停止投放](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**：您现在可以停止运行期间剩余的任何发送。
 
 ## 广告网络集成 {#ad-network-integrations}
 
-**[Google Customer Match集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+**[Google客户匹配集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
 利用此集成，您可以将Marketo受众发送到Google以使用Google AdWords进行定位，以及跨YouTube、Search和Gmail重新定位受众。
 
-**[linkedIn Matched Audiences API增强](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[LinkedIn Matched Audiences API增强功能](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 现在，您可以使用我们新的LinkedIn API跨多个Marketo Campaign Manager帐户重新定位LinkedIn数据库中的人员。
 
-## Web个性化 {#web-personalization}
+## Web Personalization {#web-personalization}
 
-**用于Web个性化的日语数据源**
+适用于Web Personalization的&#x200B;**日语数据Source**
 
-Marketo正在为Web个性化添加另一个日本数据源，以改进来自日本的访客的Web访客识别（反向IP查找）和个性化。 组织名称将以日语显示。
+Marketo正在为Web Personalization添加另一个日本数据源，以改进来自日本的访客的Web访客识别（反向IP查找）和个性化。 组织名称将以日语显示。
 
-**[使用静态列表创建Web段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
+**[使用静态列表创建Web区段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-Web个性化现在可以为已知的Web访客个性化内容，该访客属于营销活动(MLM)中定义的静态列表。 借助此增强功能，您现在可以跨渠道向静态列表进行营销，并通过网站上的个性化内容定位这些列表上的人员。
+Web Personalization现在可以为已知的Web访客个性化内容，该访客属于营销活动(MLM)中定义的静态列表。 借助此增强功能，您现在可以跨渠道向静态列表进行营销，并通过网站上的个性化内容定位这些列表上的人员。
 
 ## 内容人工智能 {#contentai}
 
@@ -87,7 +87,7 @@ Web个性化现在可以为已知的Web访客个性化内容，该访客属于�
 
 ## 集成 {#integration}
 
-**[激活/取消激活Campaign API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[激活/停用营销活动API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 此新API允许您远程激活和取消激活触发器营销活动，因此您现在可以创建完全自动化的项目模板。 只需创建一次项目模板，即可自动执行克隆、营销宣传材料更新，现在即可激活/计划智能营销活动。
 
@@ -95,7 +95,7 @@ Web个性化现在可以为已知的Web访客个性化内容，该访客属于�
 
 **取消订阅更新**
 
-从2018年3月1日开始，发送自 [ToutApp.com](https://ToutApp.com) (通过使用Salesforce中的“Email with Tout”按钮，可以在底部附加取消订阅链接。
+从2018年3月1日开始，从[ToutApp.com](https://ToutApp.com)（并使用Salesforce中的“Email with Tout”按钮）发送的所有电子邮件都将有一个取消订阅链接附加到底部。
 
 **实时信息源更新**
 

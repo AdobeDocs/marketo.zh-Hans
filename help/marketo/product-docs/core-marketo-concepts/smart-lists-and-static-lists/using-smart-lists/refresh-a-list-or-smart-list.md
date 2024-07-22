@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 刷新结果 {#refresh-results}
 
-1. 要更新中的数据 **[!UICONTROL 人员]** 选项卡上，单击刷新图标。
+1. 要更新智能列表的&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡中的数据，请单击刷新图标。
 
    ![](assets/refreshbutton.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[将人员从列表或智能列表导出到Excel](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}
+>[从列表或智能列表将人员导出到Excel](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}

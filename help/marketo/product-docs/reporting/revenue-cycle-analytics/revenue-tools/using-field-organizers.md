@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -25,15 +25,15 @@ ht-degree: 1%
 
 ## 如何创建字段组织者 {#how-to-create-field-organizers}
 
-1. 单击 **数据库**.
+1. 单击&#x200B;**数据库**。
 
    ![](assets/db.png)
 
-1. 下 **新建**，选择 **新建字段管理器**.
+1. 在&#x200B;**新建**&#x200B;下，选择&#x200B;**新建字段管理器**。
 
    ![](assets/two-1.png)
 
-1. 下 **字段**&#x200B;中，选择属性。 描述是可选的。
+1. 在&#x200B;**字段**&#x200B;下，选择一个属性。 描述是可选的。
 
    ![](assets/three-1.png)
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. 命名组并输入相应的数据（这取决于所选字段的数据类型）。 单击 **添加组**.
+1. 命名组并输入相应的数据（这取决于所选字段的数据类型）。 单击&#x200B;**添加群组**。
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

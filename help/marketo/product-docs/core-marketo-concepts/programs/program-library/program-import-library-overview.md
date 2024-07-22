@@ -2,10 +2,10 @@
 description: 程序导入库概述 — Marketo文档 — 产品文档
 title: 程序导入库概述
 feature: Programs
-exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Marketo Engage参考库包括多个入门程序，您可以直接导入到Marketo实例中，以快速开始构建将帮助支持您团队的程序。
 
-该库包括以下项目：电子邮件、参与、事件、评分、可投放性和可操作性。 所有计划均由Adobe产品团队制定，并由我们的 [全球专业服务](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 才能最大程度地提高质量和效率。
+该库包括以下项目：电子邮件、参与、事件、评分、可投放性和可操作性。 所有计划均由Adobe产品团队开发，并由[全球专业服务](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}团队审核，以最大限度地提高质量和效率。
 
 ## 可用程序示例 {#available-program-examples}
 
@@ -30,9 +30,9 @@ Marketo Engage参考库包括多个入门程序，您可以直接导入到Market
 
 * [NUR-YYYY-MM-Simple Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md){target="_blank"}
 
-* [NUR-YYYY-MM-Advanced Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md){target="_blank"}
+* [NUR-YYYY-MM — 高级培养](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md){target="_blank"}
 
-* [Marketo登录页面上的CT-YYYY-MM-Content](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md){target="_blank"}
+* Marketo登录页面上的[CT-YYYY-MM-Content](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md){target="_blank"}
 
 * [CT-YYYY-MM-Content非Marketo登录页面](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
 
@@ -42,16 +42,16 @@ Marketo Engage参考库包括多个入门程序，您可以直接导入到Market
 
 * [操作数据管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md){target="_blank"}
 
-* [业务线索管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md){target="_blank"}
+* [潜在客户管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md){target="_blank"}
 
 * [操作评分行为](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md){target="_blank"}
 
-* [OP — 评分 — 人口统计](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md){target="_blank"}
+* [OP-Scoring-Dentialog](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md){target="_blank"}
 
 * [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md){target="_blank"}
 
-* [操作可投放性管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
+* [OP-Deliverability Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
 
 >[!MORELIKETHIS]
 >
->[导入项目群](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}
+>[导入程序](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}

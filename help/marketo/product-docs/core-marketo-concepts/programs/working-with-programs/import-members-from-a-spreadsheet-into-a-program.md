@@ -6,7 +6,7 @@ exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -27,31 +27,31 @@ ht-degree: 0%
 
 ## 将CSV导入Marketo {#import-your-csv-into-marketo}
 
-1. 在您的项目中，转到 **[!UICONTROL 成员]** 部分。
+1. 在您的项目中，转到&#x200B;**[!UICONTROL 成员]**&#x200B;部分。
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. 单击 **[!UICONTROL 导入成员]**.
+1. 单击&#x200B;**[!UICONTROL 导入成员]**。
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. 选择CSV并单击 **[!UICONTROL 下一个]**.
+1. 选择CSV并单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/importlist1.png)
 
-1. 将列表中的数据值映射到其对应的Marketo字段，然后单击 **[!UICONTROL 下一个]**.
+1. 将列表中的数据值映射到它们对应的Marketo字段，然后单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >如果有任何您不想导入的字段，请选择 **[!UICONTROL 忽略]** “Marketo字段”下拉菜单中。
+   >如果有任何您不想导入的字段，请在“Marketo字段”下拉菜单中选择&#x200B;**[!UICONTROL 忽略]**。
 
-1. 选择 **[!UICONTROL 成员状态]** 你的名单。
+1. 为您的列表选择&#x200B;**[!UICONTROL 成员状态]**。
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. 单击 **[!UICONTROL 导入]**.
+1. 单击&#x200B;**[!UICONTROL 导入]**。
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 

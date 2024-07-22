@@ -20,15 +20,15 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在Marketo中，单击 **[!UICONTROL 管理员]**，则 **[!UICONTROL Veeva对象同步]**.
+1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**，然后单击&#x200B;**[!UICONTROL Veeva对象同步]**。
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. 如果这是您的第一个自定义对象，请单击“同步架构”。 如果没有，请单击 **[!UICONTROL 刷新架构]** 以确保您拥有最新版本。
+1. 如果这是您的第一个自定义对象，请单击“同步架构”。 如果没有，请单击&#x200B;**[!UICONTROL 刷新架构]**&#x200B;以确保您拥有最新的架构。
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. 如果全局同步正在运行，请单击 **[!UICONTROL 禁用全局同步]**.
+1. 如果全局同步正在运行，请单击&#x200B;**[!UICONTROL 禁用全局同步]**&#x200B;来禁用它。
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >
    >同步Veeva自定义对象架构可能需要几分钟时间。
 
-1. 单击 **[!UICONTROL 刷新架构]**.
+1. 单击&#x200B;**[!UICONTROL 刷新架构]**。
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
@@ -48,11 +48,11 @@ ht-degree: 0%
 >
 >Marketo只能同步自定义对象，前提是它与Veeva CRM中的联系人或帐户对象存在直接关系。
 
-1. 单击 **[!UICONTROL 启用同步]** 再来一次。
+1. 再次单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. 返回Veeva选项卡并单击 **[!UICONTROL 启用同步]**.
+1. 返回Veeva选项卡，然后单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 >
 >您不能在带有触发器的智能营销活动中使用自定义对象。
 
-1. 在智能列表中，拖到“Has Opportunity”筛选器上，并将设置为 **[!UICONTROL True]**.
+1. 在“智能列表”中，拖到“具有机会”筛选器上，并设置为&#x200B;**[!UICONTROL True]**。
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 

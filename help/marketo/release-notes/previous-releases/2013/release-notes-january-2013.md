@@ -6,18 +6,18 @@ exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # 发行说明： 2013年1月 {#release-notes-january}
 
-1月版扩展了我们的社交服务 **反向链接优惠**. 此外，Marketo潜在客户管理用户可以设置其时区、语言和区域设置首选项。 请注意，功能已标记 &#42; 仅在Select Edition中可用。
+1月版本通过&#x200B;**推荐选件**&#x200B;扩展了我们的社交选件。 此外，Marketo潜在客户管理用户可以设置其时区、语言和区域设置首选项。 请注意，标有&#42;的功能仅在Select版本中可用。
 
 ## 反向链接优惠 {#referral-offers}
 
-A **推荐选件** 会激励你的潜在客户推荐他们的朋友。 为成功的推荐创建目标和奖励。 您可以在登陆页面、您的网站甚至Facebook上使用它。
+**推荐选件**&#x200B;会激励您的潜在客户推荐他们的朋友。 为成功的推荐创建目标和奖励。 您可以在登陆页面、您的网站甚至Facebook上使用它。
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 

@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >您的报表中至少需要一个量度，但它不一定是要用于定义自定义量度的量度之一。
 
-1. 调出您报告所需的字段。 请参阅 [将字段添加到收入资源管理器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) 以了解详细信息。
+1. 调出您报告所需的字段。 有关详细信息，请参阅[将字段添加到收入资源管理器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)。
 
-1. 右键单击现有量度（蓝色单元格），然后单击 **用户定义的度量** 并选择 **计算度量**.
+1. 右键单击现有度量（蓝色单元格），单击&#x200B;**用户定义的度量**，然后选择&#x200B;**计算的度量**。
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您可以自行键入数学符号，也可以使用选择框。
 
-1. 完成后，单击 **确定**.
+1. 完成后，单击&#x200B;**确定**。
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

@@ -6,7 +6,7 @@ exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
 source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '532'
 ht-degree: 1%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->你一定是 [颁发了Marketo电子邮件加载项许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>您必须是[颁发的Marketo电子邮件加载项许可证](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)。
 
 >[!IMPORTANT]
 >
->在Windows用户文件夹包含非英语字符的PC上不支持安装。 此文件夹由Windows在 `<System Root>\Users\` 基于Windows用户名，如果Windows用户名是非英文名称，则可能包含非英文字符。 请与您的IT团队合作，验证您是否遇到安装问题。
+>在Windows用户文件夹包含非英语字符的PC上不支持安装。 此文件夹由Windows在`<System Root>\Users\`下基于Windows用户名自动生成，如果Windows用户名是非英文名称，则可能包含非英文字符。 请与您的IT团队合作，验证您是否遇到安装问题。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 1%
 
 ## 下载安装程序 {#download-installer}
 
-1. 识别您的 [Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. 识别您的[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
 1. 单击该链接以下载适用于您的Microsoft Outlook版本的安装程序。
 
@@ -56,7 +56,7 @@ ht-degree: 1%
 
    >[!IMPORTANT]
    >
-   >Microsoft已发布 [适用于Windows的Outlook的新版本](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+   >Microsoft已发布适用于Windows的[新版本的Outlook](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}。 此新版本不支持现有的MSI Outlook插件。 MSI Outlook插件将继续用于运行经典版本的Outlook的Windows桌面。 若要了解有关适用于组织的新Outlook for Windows的详细信息，请[单击此处](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
 
 ## 复制您的注册码 {#copy-your-registration-code}
 
@@ -76,13 +76,13 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >如果您收到安全警告，请不要担心！ 只需单击 **运行**.
+   >如果您收到安全警告，请不要担心！ 只需单击&#x200B;**运行**。
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. 填写 **名字**， **姓氏**， **电子邮件地址**，然后复制并粘贴 **注册码** 从电子邮件导入到表单中，然后单击 **下一个**.
+1. 填写&#x200B;**名字**、**姓氏**、**电子邮件地址**，然后将电子邮件中的&#x200B;**注册码**&#x200B;复制并粘贴到表单中，然后单击&#x200B;**下一步**。
 
    ![](assets/enter-your-information-hands.png)
 
@@ -90,19 +90,19 @@ ht-degree: 1%
    >
    >如果安装失败，请与IT部门联系，以确保不会阻止HTTPS流量。 安装程序要求打开HTTPS流量。
 
-1. 单击 **下一个** 以安装在默认位置。
+1. 单击&#x200B;**下一步**&#x200B;安装在默认位置。
 
    ![](assets/select-installation-folder-hand.png)
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >如果收到有关未知发布者的安全提示，请单击 **是**.
+   >如果收到有关未知发布者的安全提示，请单击&#x200B;**是**。
 
-1. 安装现已完成，请单击 **关闭**.
+1. 安装现已完成，请单击&#x200B;**关闭**。
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 

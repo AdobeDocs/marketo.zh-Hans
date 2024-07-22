@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 编辑“以网页形式查看”消息 {#edit-the-view-as-web-page-message}
 
-如果您需要编辑&quot;[以网页形式查看](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)“文本，下面是具体操作方法。
+如果需要编辑&quot;[以网页形式查看](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;文本，请按以下步骤操作。
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 编辑“以网页形式查看”消息 {#edit-the-view-as-web-page-message-1}
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. 单击 **[!UICONTROL 电子邮件]**.
+1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >第二部分 `##MKT_TOK##` 是 [!UICONTROL munchkin] 该人员的Cookie。 它确保访客在单击链接时获得适当的确认。
+   >第二部分`##MKT_TOK##`是该人员的[!UICONTROL munchkin] Cookie。 它确保访客在单击链接时获得适当的确认。
 
-1. 编辑 **[!UICONTROL 以网页HTML查看]** 和 **[!UICONTROL 以网页文本查看]** 您喜欢的版本，然后单击 **[!UICONTROL 保存更改]**.
+1. 编辑&#x200B;**[!UICONTROL 以网页HTML查看]**&#x200B;和&#x200B;**[!UICONTROL 以网页文本查看]**&#x200B;版本，然后单击&#x200B;**[!UICONTROL 保存更改]**。
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## 默认“以网页形式查看”文本 {#default-view-as-web-page-text}
 
-如果您需要还原到默认系统”[!UICONTROL 以网页形式查看]“”，复制/粘贴以下内容：
+如果您需要还原到默认系统“[!UICONTROL 以网页形式查看]”，请复制/粘贴以下内容：
 
 **[!UICONTROL 以网页HTML查看]**：
 

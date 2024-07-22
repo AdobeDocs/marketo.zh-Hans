@@ -6,7 +6,7 @@ exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -36,27 +36,27 @@ ht-degree: 0%
 
 ## 创建智能列表订阅 {#create-a-smart-list-subscription}
 
-1. 转到 **数据库** 或 **营销活动**.
+1. 转到&#x200B;**数据库**&#x200B;或&#x200B;**营销活动**。
 
    ![](assets/db.png)
 
-1. 选择要为其创建订阅的智能列表。 单击 **列出操作** 并选择 **新建智能列表订阅**.
+1. 选择要为其创建订阅的智能列表。 单击&#x200B;**列出操作**&#x200B;并选择&#x200B;**新建智能列表订阅**。
 
    ![](assets/three.png)
 
-1. 为您的订阅提供 **名称**，然后选择或输入 **收件人**.
+1. 为您的订阅提供&#x200B;**名称**，然后选择或输入&#x200B;**收件人**&#x200B;的电子邮件地址。
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. 单击 **频率** 列出并选择频率。
+1. 单击&#x200B;**频率**&#x200B;列表并选择频率。
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. 设置 **结束投放** 日期。 您可以选择 **从不** 或日历日期。
+1. 设置&#x200B;**结束投放**&#x200B;日期。 您可以选择&#x200B;**从不**&#x200B;或日历日期。
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. 单击 **格式** 并从列表中选择。
+1. 单击&#x200B;**格式**&#x200B;并从列表中选择。
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. 您的新智能列表订阅将显示在“订阅”选项卡的列表顶部。 单击 **发送** 如果您希望立即发送，而不是等到计划的电子邮件发送。
+1. 您的新智能列表订阅将显示在“订阅”选项卡的列表顶部。 如果要立即发送，而不是等到计划的电子邮件发送，请单击&#x200B;**发送**。
 
    ![](assets/eight.png)
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果 [安全订阅管理](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) 设置已设置为 **是**，则只有有权访问Marketo实例的用户才能下载报表。
+>如果[安全订阅管理员](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)设置设置为&#x200B;**是**，则只有有权访问Marketo实例的用户才能下载报表。
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -103,4 +103,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [编辑智能列表订阅](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
->* [保护订阅管理员设置](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+>* [保护订阅管理设置](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

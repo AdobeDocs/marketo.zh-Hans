@@ -5,7 +5,7 @@ exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -77,13 +77,13 @@ ht-degree: 0%
 
 1. 登录到您的Salesforce帐户。
 
-1. 单击 **设置**.
+1. 单击&#x200B;**设置**。
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. 在Administrator下，单击 **管理用户**，则 **配置文件**.
+1. 在“管理员”下，单击&#x200B;**管理用户**，然后单击&#x200B;**配置文件**。
 
-1. 单击要更新的用户档案，然后 **编辑**.
+1. 单击要更新的配置文件，然后&#x200B;**编辑**。
 
 1. 向下滚动到“选项卡设置”下的“自定义选项卡设置”。
 
@@ -109,27 +109,27 @@ ht-degree: 0%
    * 值
    * WebActivityCache
 
-1. 向下滚动到“已启用Apex类访问”部分。 单击 **编辑**.
+1. 向下滚动到“已启用Apex类访问”部分。 单击&#x200B;**编辑**。
 
 1. 从“已启用的Apex类”部分，选择以“mkto_si”开头的所有类。 这最多可添加159个类。
 
-1. 单击 **移除**，则 **保存**.
+1. 单击&#x200B;**删除**，然后单击&#x200B;**保存**。
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. 向下滚动到“已启用Visualforce页面访问”部分。 单击 **编辑**.
+1. 向下滚动到“已启用Visualforce页面访问”部分。 单击&#x200B;**编辑**。
 
 1. 从“启用的Visualforce页面”部分，选择以“mkto_si”开头的所有页面。 最多可加64页。
 
-1. 单击 **移除**，则 **保存**.
+1. 单击&#x200B;**删除**，然后单击&#x200B;**保存**。
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. 向下滚动到“启用的自定义设置定义访问权限”部分。 单击 **编辑**.
+1. 向下滚动到“启用的自定义设置定义访问权限”部分。 单击&#x200B;**编辑**。
 
 1. 选择“Marketo Sales Insight.mkto_si.Marketo设置”和“Marketo Sales Insight.mkto_si.User首选项”。
 
-1. 单击 **移除**，则 **保存**.
+1. 单击&#x200B;**删除**，然后单击&#x200B;**保存**。
 
    ![](assets/remove-sales-insight-access-6.png)
 

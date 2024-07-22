@@ -6,7 +6,7 @@ exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,9 @@ ht-degree: 0%
 * 4月11 | Steve下载（内容） — 成功
 * 4月22日 | Opportunity创建费用为3,000美元（Steve和Jason都有角色）
 * 4月25日 | Jason出席（网络研讨会） — 成功
-* 4月30日 |商机非赢即败
+* 4月30日 | 机会已结束 — 已结束
 
-| 归因量度 | (内容) | （网络研讨会） |
+| 归因量度 | （内容） | （网络研讨会） |
 |---|---|---|
 | (MT)已创建权限 | `<pre>1</pre>` | `<pre>0</pre>` |
 | (MT)管道已创建 | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**说明**
+>**解释**
 >
 >记住归因规则#3。 Jason在创建选件后获得了项目成功。 因此，网络研讨会不能因为机会的创造而获得点数。 只有奥提赢了。
 >

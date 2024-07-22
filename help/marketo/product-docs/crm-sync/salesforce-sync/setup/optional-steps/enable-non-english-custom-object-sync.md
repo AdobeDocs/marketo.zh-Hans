@@ -21,23 +21,23 @@ ht-degree: 1%
 
 ## 绕过它 {#getting-around-it}
 
-1. 登录 [!DNL Salesforce] 使用marketo同步用户。
+1. 使用marketo同步用户登录[!DNL Salesforce]。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. 在用户名下，转到 **[!UICONTROL 设置]**.
+1. 在用户名下，转到&#x200B;**[!UICONTROL 设置]**。
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. 下 **[!UICONTROL 个人信息]**，单击 **[!UICONTROL 我的个人信息]**.
+1. 在&#x200B;**[!UICONTROL 个人信息]**&#x200B;下，单击&#x200B;**[!UICONTROL 我的个人信息]**。
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. 单击 **[!UICONTROL 编辑]**.
+1. 单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. 更改 **[!UICONTROL 语言]** 到 **[!UICONTROL 英语]**.
+1. 将&#x200B;**[!UICONTROL 语言]**&#x200B;更改为&#x200B;**[!UICONTROL 英语]**。
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -45,11 +45,11 @@ ht-degree: 1%
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. 返回Marketo，在 **[!UICONTROL 管理员]** > **[!UICONTROL Salesforce]** > **[!UICONTROL 对象]**，单击 **[!UICONTROL 刷新架构]**.
+1. 返回Marketo，在&#x200B;**[!UICONTROL 管理员]** > **[!UICONTROL Salesforce]** > **[!UICONTROL 对象]**&#x200B;下，单击&#x200B;**[!UICONTROL 刷新架构]**。
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. 这将拉取英文的对象列表。 现在，选择您选择的对象并单击 **[!UICONTROL 启用同步]**.
+1. 这将拉取英文的对象列表。 现在选择您选择的对象并单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 

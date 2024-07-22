@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 隐藏自定义条目类型 {#hide-a-custom-entry-type}
 
-1. 转到 **[!UICONTROL 管理员]** 部分并单击 **[!UICONTROL 日历条目类型]**.
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;部分，然后单击&#x200B;**[!UICONTROL 日历条目类型]**。
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. 右键单击您的自定义条目，然后单击 **[!UICONTROL 隐藏]**.
+1. 右键单击您的自定义条目，然后单击&#x200B;**[!UICONTROL 隐藏]**。
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 如果要取消隐藏自定义条目类型，这也很容易。
 
-1. 右键单击您的条目并选择 **[!UICONTROL 取消隐藏]**.
+1. 右键单击您的条目并选择&#x200B;**[!UICONTROL 取消隐藏]**。
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

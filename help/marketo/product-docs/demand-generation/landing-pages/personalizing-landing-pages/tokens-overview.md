@@ -87,7 +87,7 @@ ht-degree: 0%
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* 如果您使用其显示名称，自定义人员字段也可正常工作，例如， `{{lead.Custom Field Name}}`
+* 如果您使用其显示名称（例如，`{{lead.Custom Field Name}}`），自定义人员字段也可正常工作
 
 ## 公司令牌 {#company-tokens}
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* 如果您使用自定义公司字段的显示名称，例如 `{{Company.Custom Field Name}}`
+* 如果您使用自定义公司字段的显示名称，例如`{{Company.Custom Field Name}}`
 
 ## 营销活动令牌 {#campaign-tokens}
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->要了解有关这些令牌的更多信息，请参阅 [系统令牌术语表](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>在[系统令牌术语表](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)中了解有关这些令牌的更多信息。
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->查找有关以下内容的更多详细信息 [有趣时刻的令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 基于智能营销活动中使用的触发器。
+>根据智能营销活动中使用的触发器，查找有关有趣时刻的[令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)的更多详细信息。
 
 ## 项目令牌 {#program-tokens}
 
@@ -159,14 +159,14 @@ ht-degree: 0%
 
 ## 我的令牌 {#my-tokens}
 
-我的令牌在项目中定义并以开头 `{{my.` 后跟您为令牌创建的名称。 了解有关 [程序中的我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+我的令牌在程序中定义，以`{{my.`开头，后跟您为该令牌创建的名称。 了解有关程序中[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)的更多信息。
 
 ## 成员令牌 {#member-token}
 
-成员令牌用于插入来自集成服务合作伙伴的唯一值。 成员令牌的常见用途是用于网络研讨会参与者的唯一URL。 每个人员都有一个访问网络研讨会的唯一URL，可使用插入 `{{member.webinar url}}` 令牌。 此 `{{member.webinar url}}` 令牌会自动解析服务提供商生成的人员的唯一确认URL。
+成员令牌用于插入来自集成服务合作伙伴的唯一值。 成员令牌的常见用途是用于网络研讨会参与者的唯一URL。 每个人员都有一个访问网络研讨会的唯一URL，可使用`{{member.webinar url}}`令牌插入该URL。 `{{member.webinar url}}`令牌自动解析服务提供商生成的人员的唯一确认URL。
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->此 `{{member.webinar url}}` 仅当发送电子邮件的智能营销活动是事件程序的子资产时，才会填充令牌。
+>仅当发送电子邮件的智能营销活动是事件程序的子资产时，`{{member.webinar url}}`令牌才会填充。

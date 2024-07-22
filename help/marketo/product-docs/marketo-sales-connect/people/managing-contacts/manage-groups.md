@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 创建组 {#create-a-group}
 
-1. 在“人员”页面中，单击 **+** “组”旁边。
+1. 在“人员”页面中，单击“组”旁边的&#x200B;**+**。
 
    ![](assets/one-4.png)
 
-1. 命名您的群组并单击 **创建**.
+1. 命名您的群组，然后单击&#x200B;**创建**。
 
    ![](assets/two-3.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-1. 单击 **组操作** 并选择 **创建联系人**.
+1. 单击&#x200B;**组操作**&#x200B;并选择&#x200B;**创建联系人**。
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >这将一次添加一个联系人。 要同时添加多个联系人，请按照 [这些步骤](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >这将一次添加一个联系人。 要同时添加多个联系人，请执行[这些步骤](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)。
 
-1. 填写联系人信息并单击 **创建** (或 **创建和新增** 以添加另一个)。
+1. 填写联系人信息，然后单击&#x200B;**创建**（或单击&#x200B;**创建并添加新项**&#x200B;以添加其他项）。
 
    ![](assets/five-3.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 单击圆点（三个垂直的点）并选择 **共享**.
+1. 单击圆点（三个垂直点）并选择&#x200B;**共享**。
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 单击 **共享**.
+1. 单击&#x200B;**共享**。
 
    ![](assets/nine.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-1. 单击圆点（三个垂直的点）并选择 **共享**.
+1. 单击圆点（三个垂直点）并选择&#x200B;**共享**。
 
    ![](assets/eleven.png)
 
-1. 单击 **X** 在与您共享该组的团队旁边，然后单击退出该模式。
+1. 单击您与其共享该组的团队旁边的&#x200B;**X**，然后单击退出该模式窗口。
 
    ![](assets/twelve.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 单击圆点（三个垂直的点）并选择 **重命名**.
+1. 单击圆点（三个垂直点）并选择&#x200B;**重命名**。
 
    ![](assets/thirteen.png)
 
@@ -107,10 +107,10 @@ ht-degree: 0%
 
    ![](assets/fifteen.png)
 
-1. 单击圆点（三个垂直的点）并选择 **删除**.
+1. 单击圆点（三个垂直的点）并选择&#x200B;**删除**。
 
    ![](assets/sixteen.png)
 
-1. 单击 **删除** 以确认。
+1. 单击&#x200B;**删除**&#x200B;以确认。
 
    ![](assets/seventeen.png)

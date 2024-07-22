@@ -4,7 +4,8 @@ title: 通知
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+exl-id: b06da576-39a4-41db-8e29-302083baca36
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 1%
@@ -15,11 +16,11 @@ ht-degree: 1%
 
 为了接收用于实时聊天的浏览器通知，所有实时聊天代理必须在出现提示时启用Dynamic Chat的浏览器通知。
 
-实时聊天代理登录时，会在屏幕顶部看到一条横幅，上面显示“请启用浏览器通知以接收实时聊天通知”。 单击 **启用**.
+实时聊天代理登录时，会在屏幕顶部看到一条横幅，上面显示“请启用浏览器通知以接收实时聊天通知”。 单击&#x200B;**启用**。
 
 ![](assets/live-chat-overview-4.png)
 
-随后，浏览器将提示实时聊天代理显示通知。 单击 **允许**.
+随后，浏览器将提示实时聊天代理显示通知。 单击&#x200B;**允许**。
 
 ![](assets/live-chat-overview-5.png)
 
@@ -27,7 +28,7 @@ ht-degree: 1%
 
 ### 适用于Windows的Chrome
 
-Google概述了在中为Windows启用浏览器通知的步骤 [本文](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
+Google在[本文](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}中概述了启用Windows浏览器通知的步骤。
 
 ### 适用于Mac操作系统的Chrome
 
@@ -35,7 +36,7 @@ Google概述了在中为Windows启用浏览器通知的步骤 [本文](https://s
 
 ## 在Firefox中启用通知{#enable-notifications-in-firefox}
 
-Firefox概述了适用于中各种浏览器版本和操作系统的步骤 [本文](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
+Firefox在[本文](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}中概述了各种浏览器版本和操作系统的步骤。
 
 ## 操作系统通知 {#os-notifications}
 

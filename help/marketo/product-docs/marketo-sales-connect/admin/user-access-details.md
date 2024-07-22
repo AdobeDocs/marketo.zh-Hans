@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 管理员用户权限 {#admin-user-permissions}
 
-管理员可以 [查看所有模板](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
+管理员可以[查看所有模板](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)。
 
 ![](assets/templates.jpg)
 
-管理员可以 [查看所有营销活动](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+管理员可以[查看所有营销活动](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)。
 
 ![](assets/campaigns.jpg)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 非管理员用户权限 {#non-admin-user-permissions}
 
-* Analytics:
+* Analytics：
 
    * 用户可以查看团队分析
    * 用户可以只深入查看他们所属的团队
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    * 用户可以与所有人共享组
    * 用户可以仅与他们所属的团队共享组
-   * 删除某个用户后，其共享联系人会将所有权转移给删除该用户的主控管理员
+   * 删除某个用户后，其共享联系人会将所有权转移给删除该用户的主管理员
 
 * 销售节拍 — 下一个和实时信息源：
 
@@ -69,4 +69,4 @@ ht-degree: 0%
    * 用户可以与所有人共享模板
    * 用户可以在管理员允许的类别中共享模板
    * 从团队中删除用户后，其模板将取消与该团队共享
-   * 从团队中删除用户后，其模板会将所有权转移给删除该用户的主控管理员
+   * 从团队中删除用户后，其模板会将所有权转移给删除该用户的主管理员

@@ -6,7 +6,7 @@ exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Marketo提供六种布局用于构建应用程序内消息。
 
 三个弹出布局都提供了预设的设计元素，包括图像、文本、按钮和背景。
 
-第一个弹出窗口布局是默认选项，原因很清楚：它适合大多数用途。 对于分辨率较低的图像，它工作正常。 此布局使用您平台的标准字体(适用于Apple的Helvetica、适用于Android的Roboto)，因此它始终显示在手机或平板电脑上。 您可以上传并放置主图像和背景图像，编写您自己的主文本和支持文本，以及配置主按钮和取消按钮。 文本限制为24像素的三行。 较大的文字大小会减少行数。
+第一个弹出窗口布局是默认选项，原因很清楚：它适合大多数用途。 对于分辨率较低的图像，它工作正常。 此布局使用您平台的标准字体(Helvetica for Apple、Roboto for Android)，因此它始终显示在手机或平板电脑上。 您可以上传并放置主图像和背景图像，编写您自己的主文本和支持文本，以及配置主按钮和取消按钮。 文本限制为24像素的三行。 较大的文字大小会减少行数。
 
 ![](assets/image2016-5-9-13-3a3-3a48.png)
 
@@ -58,7 +58,7 @@ Marketo提供六种布局用于构建应用程序内消息。
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-现在您已了解这些模板，接下来该选择一个 [创建应用程序内消息图像](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
+现在您已经知道了这些模板，在[创建应用程序内消息图像](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)时，可以选择一个模板。
 
 >[!MORELIKETHIS]
 >

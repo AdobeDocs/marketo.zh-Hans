@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->确保您已 [在DNS中设置CNAME](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) 在Marketo中添加品牌策略域之前。
+>在Marketo中添加品牌策略域之前，请确保已在DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)中[设置CNAME。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
-1. 单击 **[!UICONTROL 电子邮件]**.
+1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. 在 [!UICONTROL 品牌化域] 表，选择通用域并单击“编辑”将其更改为公司的品牌域。
+1. 在[!UICONTROL 品牌化域]表中，选择通用域，然后单击“编辑”以将其更改为贵公司的品牌化域。
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -35,8 +35,8 @@ ht-degree: 0%
    >
    >在首次编辑通用域之前，您无法添加其他域。
 
-1. 输入默认域的名称，然后单击 **[!UICONTROL 保存]**.
+1. 输入默认域的名称，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
-现在，您可以 [添加任何其他品牌策略域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) 你需要。
+现在，您可以[添加所需的任何其他品牌推广域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)。

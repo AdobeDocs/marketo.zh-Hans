@@ -6,7 +6,7 @@ exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Marketo Performance Insights可帮助您优化渠道组合以最大限度地提�
 
 ## 贡献 {#contribution}
 
-评估营销 [收入贡献](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) 这是客户获取、影响、转化、甚至客户群增长的函数。
+评估营销对收入的[贡献](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)与客户获取、影响、转化甚至客户群增长之间的关系。
 
 ![](assets/two.png)
 
@@ -37,19 +37,19 @@ Marketo Performance Insights可帮助您优化渠道组合以最大限度地提�
 
 ## 趋势 {#trend}
 
-发现 [长期趋势](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) 找出一贯的获胜策略。
+发现[长期趋势](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md)以发现一致的入选策略。
 
 ![](assets/4.png)
 
 ## 设置 {#settings}
 
-在收入和管道功能板中，单击 [设置](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) 图标来设置其他参数。
+在收入和管道功能板中，单击[设置](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md)图标以设置其他参数。
 
 ![](assets/5.png)
 
 ## 导出数据 {#export-data}
 
-可以在PowerPoint或Excel中导出数据和图表。 您还可以将它们另存为 [快速图表](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+可以在PowerPoint或Excel中导出数据和图表。 您还可以将它们另存为[快速图表](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md)。
 
 ![](assets/6.png)
 

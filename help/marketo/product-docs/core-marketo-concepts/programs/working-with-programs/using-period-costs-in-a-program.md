@@ -13,23 +13,23 @@ ht-degree: 1%
 
 # 在项目中使用期间成本 {#using-period-costs-in-a-program}
 
-A [期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} 就是你花在项目上的钱。 它可以持续一个或更多月，并用于报告ROI。
+[期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}是您在计划上花费的金额。 它可以持续一个或更多月，并用于报告ROI。
 
 ## 添加期间成本  {#add-a-period-cost}
 
-1. 转到 **[!UICONTROL 设置]** 选项卡中。
+1. 转到程序的&#x200B;**[!UICONTROL 设置]**&#x200B;选项卡。
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. 拖放 **[!UICONTROL 期间成本]** 在画布上。
+1. 将&#x200B;**[!UICONTROL 期间成本]**&#x200B;拖放到画布中。
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. 单击日历图标。 选择月份。 单击 **[!UICONTROL 确定]**.
+1. 单击日历图标。 选择月份。 单击&#x200B;**[!UICONTROL 确定]**。
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. 输入 **[!UICONTROL 期间成本]** （不含小数或逗号）。 单击&#x200B;**[!UICONTROL 保存]**。
+1. 输入&#x200B;**[!UICONTROL 期间成本]**（不含小数或逗号）。 单击&#x200B;**[!UICONTROL 保存]**。
 
    >[!NOTE]
    >
@@ -49,11 +49,11 @@ A [期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/worki
 
 1. 如果支出比最初预计的要多或少，则可以编辑期间成本。
 
-1. 转到 **[!UICONTROL 设置]** 选项卡中。
+1. 转到程序的&#x200B;**[!UICONTROL 设置]**&#x200B;选项卡。
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. 右键单击 **[!UICONTROL 期间成本]**. 选择 **[!UICONTROL 编辑]**.
+1. 右键单击&#x200B;**[!UICONTROL 期间成本]**。 选择&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
@@ -63,15 +63,15 @@ A [期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/worki
 
 ## 删除期间成本 {#delete-a-period-cost}
 
-1. 转到 **[!UICONTROL 设置]** 选项卡中。
+1. 转到程序的&#x200B;**[!UICONTROL 设置]**&#x200B;选项卡。
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. 右键单击 **[!UICONTROL 期间成本]**. 选择 **[!UICONTROL 删除]**.
+1. 右键单击&#x200B;**[!UICONTROL 期间成本]**。 选择&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 单击 **[!UICONTROL 删除]** 以确认。
+1. 单击&#x200B;**[!UICONTROL 删除]**&#x200B;以确认。
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 

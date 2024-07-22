@@ -6,7 +6,7 @@ exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 创建基本条目 {#create-a-basic-entry}
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择您的项目。 单击 **[!UICONTROL 视图]** 下拉菜单。 选择 **[!UICONTROL 计划]**.
+1. 选择您的项目。 单击&#x200B;**[!UICONTROL 视图]**&#x200B;下拉列表。 选择&#x200B;**[!UICONTROL 计划]**。
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. 命名条目。 按 **[!UICONTROL 输入]** 以确认名称。
+1. 命名条目。 按&#x200B;**[!UICONTROL Enter]**&#x200B;确认名称。
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. 输入您的说明，然后单击 **[!UICONTROL 保存]**.
+1. 输入您的描述，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -51,15 +51,15 @@ ht-degree: 0%
 
 ## 更改条目类型 {#change-entry-type}
 
-1. 从中选择基本条目 **[!UICONTROL 日程安排]** 视图。
+1. 从&#x200B;**[!UICONTROL 议程]**&#x200B;视图中选择一个基本条目。
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. 选择 **[!UICONTROL 类型]** 下拉菜单。 选择新的条目类型。
+1. 选择&#x200B;**[!UICONTROL 类型]**&#x200B;下拉列表。 选择新的条目类型。
 
    >[!NOTE]
    >
-   >待办事项是 [自定义条目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}. 您可以创建待办事项和其他自定义条目，以帮助跟踪非Marketo议程项目。
+   >待办事项是[自定义条目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}。 您可以创建待办事项和其他自定义条目，以帮助跟踪非Marketo议程项目。
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +69,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 您还可以创建 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} or [email program](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} 从“计划”视图中。
+> 您还可以从计划视图创建[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"}或[电子邮件项目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"}。

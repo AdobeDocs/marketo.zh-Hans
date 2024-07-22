@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## 创建克隆营销活动 {#create-a-clone-campaign}
 
-1. 转到 **Web营销活动**.
+1. 转到&#x200B;**网络营销活动**。
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >为了更便于查找所需的Web营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >若要更轻松地查找所需的Web营销活动，请使用[筛选功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
-1. 对于Web营销活动，单击 **克隆**.
+1. 对于Web营销活动，单击&#x200B;**克隆**。
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. 营销活动克隆过程可将现有Web营销活动中的所有内容复制到新的克隆营销活动中。 新的克隆Web营销活动的标题为“[营销活动名称] 复制”。
+1. 营销活动克隆过程可将现有Web营销活动中的所有内容复制到新的克隆营销活动中。 新的克隆Web营销活动的标题为“[营销活动名称]副本”。
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 

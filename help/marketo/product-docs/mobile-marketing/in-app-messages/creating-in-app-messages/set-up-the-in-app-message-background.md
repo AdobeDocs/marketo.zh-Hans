@@ -6,7 +6,7 @@ exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. 要设置颜色，请单击 **颜色**，然后选择颜色选择方框。 通过单击颜色，或在拾色器上输入十六进制或RGB代码来选择颜色。
+1. 若要设置颜色，请单击&#x200B;**颜色**，然后单击颜色选择方框。 通过单击颜色，或在拾色器上输入十六进制或RGB代码来选择颜色。
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
    >
    >白纸黑字通常是赢家。
 
-1. 如果要使用背景，请单击 **图像** 然后 **选择图像** 链接。
+1. 如果要使用背景，请单击&#x200B;**图像**，然后单击&#x200B;**选择图像**&#x200B;链接。
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. 从上载到Design Studio的文件中进行选择。 单击 **选择**.
+1. 从上载到Design Studio的文件中进行选择。 单击&#x200B;**选择**。
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. 应用可选的图像边框。 默认设置为 **关闭**. 首先，通过单击颜色或在拾色器上输入十六进制或RGB号来选择颜色。
+1. 应用可选的图像边框。 默认设置为&#x200B;**关闭**。 首先，通过单击颜色或在拾色器上输入十六进制或RGB号来选择颜色。
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
@@ -65,12 +65,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >对于后台点按操作，您可以为Apple和Android平台设置其他操作。 例如，对于Apple和Android，深层链接的处理方式不同。 如果您的消息仅发送到一个平台或另一个平台，请将另一个平台保留为默认设置或选择 **无**.
+   >对于针对背景的点按操作，您可以为Apple和Android平台设置其他操作。 例如，Apple和Android处理深层链接的方式有所不同。 如果您的消息只发送到一个平台或另一个平台，请将另一个平台保留为默认设置，或选择&#x200B;**无**。
 
-   要完成这项工作，您的最后一步是 [设置解除按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   要完成此作业，您的最后一步是[设置“解除”按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)。
 
    >[!MORELIKETHIS]
    >
    >* [了解应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
    >* [发送应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
-   >* [选择应用程序内消息的布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+   >* [为您的应用程序内消息选择布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

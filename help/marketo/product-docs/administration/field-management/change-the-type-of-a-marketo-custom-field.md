@@ -15,11 +15,11 @@ ht-degree: 0%
 
 以下是如何更改自定义字段的字段类型。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. 单击 **[!UICONTROL 字段管理]**.
+1. 单击&#x200B;**[!UICONTROL 字段管理]**。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. 在 **[!UICONTROL 字段操作]** 下拉列表，单击 **[!UICONTROL 更改类型]**.
+1. 在&#x200B;**[!UICONTROL 字段操作]**&#x200B;下拉列表中，单击&#x200B;**[!UICONTROL 更改类型]**。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. 阅读警告，然后单击 **[!UICONTROL 更改]** 以确认。
+1. 阅读警告，然后单击&#x200B;**[!UICONTROL 更改]**&#x200B;以确认。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 

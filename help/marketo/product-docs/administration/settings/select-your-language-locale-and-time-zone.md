@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->本文仅适用于拥有这些权限的用户 _非_ 使用 [具有Adobe身份的Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). 如果这样做，则可以在以下页面访问以下列出的设置： [Adobe帐户配置文件](https://account.adobe.com/profile).
+>本文仅适用于&#x200B;_不_&#x200B;使用Adobe标识](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)的[Marketo的用户。 如果这样做，则可在[Adobe帐户配置文件](https://account.adobe.com/profile)中访问下面列出的设置。
 
 ## 支持的语言 {#supported-languages}
 
@@ -30,19 +30,19 @@ ht-degree: 5%
 
 ## 更改用户语言、区域设置和时区 {#change-user-language-locale-and-time-zone}
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. 选择 **[!UICONTROL 我的帐户]**.
+1. 选择&#x200B;**[!UICONTROL 我的帐户]**。
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. 在“我的帐户”下，单击 **[!UICONTROL 编辑位置设置]**.
+1. 在“我的帐户”下，单击&#x200B;**[!UICONTROL 编辑位置设置]**。
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. 更改您的 **[!UICONTROL 语言]**.
+1. 更改您的&#x200B;**[!UICONTROL 语言]**。
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -50,11 +50,11 @@ ht-degree: 5%
    >
    >您还可以通过单击登录页面顶部的语言下拉列表仅更改您的语言。
 
-1. 更改您的 **[!UICONTROL 区域设置]**.
+1. 更改您的&#x200B;**[!UICONTROL 区域设置]**。
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. 更改您的 **[!UICONTROL 时区]**.
+1. 更改您的&#x200B;**[!UICONTROL 时区]**。
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 

@@ -6,7 +6,7 @@ exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此 [您在Marketo中为Salesforce输入的凭据](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} 用于同步数据。 仅包含这些凭据有权访问的数据。
+>您在Marketo中为Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}输入的[凭据用于同步数据。 仅包含这些凭据有权访问的数据。
 
 ## 我可以启动Opportunity同步吗？ {#can-i-initiate-an-opportunity-sync}
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 ## Marketo是否支持在机会金额中使用多种货币？ {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-不支持，Marketo仅支持一种货币。 机会金额将从Salesforce同步，但货币将为 [默认货币](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription){target="_blank"} 在您的Marketo订阅中。
+不支持，Marketo仅支持一种货币。 机会金额将从Salesforce同步，但货币将是您的Marketo订阅中的[默认货币](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription){target="_blank"}。
 
 ## Marketo如何关联机会和联系人？ {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo使用以下方式关联机会和联系人 [机会联系人角色](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}. 未分配任何联系人角色的机会将同步到Marketo，但不会属于任何人。 例如，人员将不符合具有机会过滤器的条件。
+Marketo使用[机会联系人角色](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}关联机会和联系人。 未分配任何联系人角色的机会将同步到Marketo，但不会属于任何人。 例如，人员将不符合具有机会过滤器的条件。
 
 ## 我如何才能看到一个人的所有机会？ {#how-can-i-see-all-the-opportunities-of-a-person}
 
-您可以在 **机会信息** 选项卡 [人员详细信息](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} 页面。
+您可以在[人员详细信息](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}页面的&#x200B;**机会信息**&#x200B;选项卡中查看机会列表。
 
 ## 与机会相关的触发器/过滤器有哪些？ {#what-are-the-triggers-filters-related-to-opportunity}
 
@@ -45,7 +45,7 @@ Marketo使用以下方式关联机会和联系人 [机会联系人角色](https:
 * 已从机会中移除
 * 机会已更新
 
-过滤器:
+过滤器：
 
 * 具有机会
 * Opportunity已更新/Not Opportunity已更新

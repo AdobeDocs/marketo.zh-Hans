@@ -5,8 +5,8 @@ exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 2%
+source-wordcount: '557'
+ht-degree: 5%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 2%
   <td>源</td>
  </tr>
  <tr>
-  <td>模板Id</td>
+  <td>模板 ID</td>
  </tr>
  <tr>
   <td>销售模板URL</td>
@@ -63,7 +63,7 @@ ht-degree: 2%
   <td>源</td>
  </tr>
  <tr>
-  <td>模板Id</td>
+  <td>模板 ID</td>
  </tr>
  <tr>
   <td>销售模板URL</td>
@@ -94,7 +94,7 @@ ht-degree: 2%
   <td>源</td>
  </tr>
  <tr>
-  <td>模板Id</td>
+  <td>模板 ID</td>
  </tr>
  <tr>
   <td>销售模板URL</td>
@@ -198,7 +198,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <th rowspan="5">销售电子邮件退回</th>
-  <td>详细信息</td>
+  <td>详情</td>
  </tr>
  <tr>
   <td>电子邮件</td>
@@ -210,7 +210,7 @@ ht-degree: 2%
   <td>Marketo销售人员ID</td>
  </tr>
  <tr>
-  <td>模板Id</td>
+  <td>模板 ID</td>
  </tr>
 </table>
 
@@ -223,7 +223,7 @@ ht-degree: 2%
  </tr>
  <tbody> 
  <tr> 
-   <td><strong>详细信息</strong></td> 
+   <td><strong>详情</strong></td> 
    <td>退回错误消息详细信息。</td> 
   </tr> 
   <tr> 
@@ -300,10 +300,10 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td><strong>源</strong></td> 
-   <td>活动的源。 对于2021年10月版发行之前的销售分析活动将设置为“Tout”。 在2021年10月版发布后，将成为用于Sales Insight Actions活动的“销售应用程序”。</td>
+   <td>活动的Source。 对于2021年10月版发行之前的销售分析活动将设置为“Tout”。 在2021年10月版发布后，将成为用于Sales Insight Actions活动的“销售应用程序”。</td>
   </tr> 
   <tr> 
-   <td><strong>模板Id</strong></td> 
+   <td><strong>模板 ID</strong></td> 
    <td>当源为Tout时，模板ID将为Marketo Sales Insight操作模板ID。 使用此项来定位特定模板，而不是可能存在于多个模板中的主题行。
 </td> 
   </tr> 

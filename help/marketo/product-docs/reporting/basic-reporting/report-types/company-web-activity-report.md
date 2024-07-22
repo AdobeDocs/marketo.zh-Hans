@@ -15,17 +15,17 @@ ht-degree: 1%
 
 查看哪些公司正在访问您的网站。 您可以选择在同一报表中显示已知访客或匿名访客，但不能同时显示两者。
 
-创建 [网页活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) 查看访问您网站的个人。
+创建[网页活动报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)以查看访问您网站的个人。
 
 >[!PREREQUISITES]
 >
->要在Marketo中从您的网站捕获活动，您首先需要设置 [在您的网站上上传Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>若要在Marketo中从您的网站捕获活动，您首先需要在您的网站上设置[ Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
-1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 并选择公司网站活动报表 [报告类型](report-type-overview.md).
+1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择公司网站活动报告[报告类型](report-type-overview.md)。
 
-1. 选择以 [显示已知或匿名人员](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) 在报表中。
+1. 选择在报告中[显示已知或匿名人员](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)。
 
-1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然后单击 **报表** 选项卡。
+1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)并单击&#x200B;**报告**&#x200B;选项卡。
 
 1. 就是这样！ 查看您的报告以了解哪些公司正在访问您的网站。
 
@@ -33,9 +33,9 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >要查找访问您网站次数最多的公司， [对报告进行排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 在 _页面查看次数_ 列并选择 **降序排序**.
+   >要查找访问您网站次数最多的公司，请在&#x200B;_页面查看次数_&#x200B;列上[对您的报告进行排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)，然后选择&#x200B;**降序排序**。
 
-   [可选择的列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 对于公司Web活动报表，包括：
+   可为公司网站活动报告选择[列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)包括：
 
 <table> 
  <thead> 
@@ -47,11 +47,11 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td>公司</td> 
-   <td>访客的公司。<br> <strong>以粗体显示的名称</strong> 至少一名人士确认其为公司名称。</td> 
+   <td>访客的公司。<br> <strong>以粗体显示的名称</strong>已至少被一个人员确认为公司名称。</td> 
   </tr> 
   <tr> 
    <td>推断的公司或ISP</td> 
-   <td>根据访客的IP地址推断的公司。 <br> <strong>以粗体显示的名称</strong> 表明这是公司，而不是ISP。 </td> 
+   <td>根据访客的IP地址推断的公司。 <br> <strong>粗体显示名称</strong>表示这是公司，而不是ISP。 </td> 
   </tr> 
   <tr> 
    <td>页面查看次数</td> 
@@ -74,4 +74,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[在Web报表中显示人员或匿名访客](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>[在Web报告中显示联系人或匿名访客](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)

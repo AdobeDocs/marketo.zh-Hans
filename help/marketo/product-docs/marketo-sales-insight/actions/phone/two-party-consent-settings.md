@@ -5,7 +5,7 @@ exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->在执行以下步骤之前，必须首先 [启用通话录制](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
+>在执行以下步骤之前，必须先[启用呼叫录制](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)。
 
-1. 单击设置图标并选择 **设置**.
+1. 单击“设置”图标并选择&#x200B;**设置**。
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. 在管理设置下，单击 **常规**.
+1. 在“管理员设置”下，单击&#x200B;**常规**。
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. 在呼叫记录卡中，单击 **管理录制通知**.
+1. 在“电话录音”卡中，单击&#x200B;**管理录音通知**。
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. 单击 **导入录制**.
+1. 单击&#x200B;**导入录制**。
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. 上传完成后，在文件管理器中选择圆点（三个点），然后单击 **选择作为同意通知**. 单击 **确定** 完成时。
+1. 上传完成后，在文件管理器中选择圆点（三个圆点），然后单击&#x200B;**选择作为同意通知**。 完成后单击&#x200B;**确定**。
 
    ![](assets/two-party-consent-settings-6.png)
 

@@ -21,11 +21,11 @@ ht-degree: 0%
 
 1. 单击设置图标。
 
-1. 单击 **电子邮件设置**.
+1. 单击&#x200B;**电子邮件设置**。
 
-1. 单击 **添加身份**.
+1. 单击&#x200B;**添加标识**。
 
-1. 输入您的信息（电子邮件和名称是必填字段），然后单击 **创建** 完成时。
+1. 输入您的信息（电子邮件和名称是必填字段），完成后，单击&#x200B;**创建**。
 
 1. 单击您收到的验证电子邮件中的链接。
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[添加您的电子邮件签名](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).
+>[添加您的电子邮件签名](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)。

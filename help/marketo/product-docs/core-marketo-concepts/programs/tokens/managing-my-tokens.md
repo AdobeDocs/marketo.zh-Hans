@@ -13,23 +13,23 @@ ht-degree: 2%
 
 # 管理我的令牌 {#managing-my-tokens}
 
-使用令牌可以简化您在Marketo中的工作。 您可以使用 [我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} 流步骤、Webhook、电子邮件和登陆页面中的（自定义令牌）。 这是如何制作它们。
+使用令牌可以简化您在Marketo中的工作。 您可以在流程步骤、Webhook、电子邮件和登陆页面中使用[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}（自定义令牌）。 这是如何制作它们。
 
 >[!TIP]
 >
->进一步了解中已有哪些令牌 [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+>进一步了解[令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}中已提供哪些令牌。
 
 ## 创建我的令牌 {#create-a-my-token}
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择项目或营销策划文件夹。 单击 **[!UICONTROL 我的令牌]**.
+1. 选择项目或营销策划文件夹。 单击&#x200B;**[!UICONTROL 我的令牌]**。
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. 选择 **[!UICONTROL 我的令牌]** 类型。 将其拖放到画布上。
+1. 选择&#x200B;**[!UICONTROL 我的令牌]**&#x200B;类型。 将其拖放到画布上。
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -47,7 +47,7 @@ ht-degree: 2%
 
 ## 编辑我的令牌 {#edit-a-my-token}
 
-1. 双击 **[!UICONTROL 我的令牌]** 进行更改。 单击&#x200B;**保存**。
+1. 双击&#x200B;**[!UICONTROL 我的令牌]**&#x200B;并进行更改。 单击&#x200B;**保存**。
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -57,16 +57,16 @@ ht-degree: 2%
 >
 >删除“我的令牌”时，请确保您未在任何资产中引用该令牌。 如果删除，则被引用的任何位置将显示一个空格。
 
-1. 右键单击 **[!UICONTROL 我的令牌]**. 选择 **[!UICONTROL 删除令牌]**.
+1. 右键单击&#x200B;**[!UICONTROL 我的令牌]**。 选择&#x200B;**[!UICONTROL 删除令牌]**。
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. 单击 **[!UICONTROL 删除]**.
+1. 单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 
    >[!MORELIKETHIS]
    >
    >* [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
-   >* [了解项目中的我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
+   >* [了解项目群中的我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
    >* [在我的令牌中使用URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md){target="_blank"}

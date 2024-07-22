@@ -6,7 +6,7 @@ exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->仅当使用“触发营销活动”时，才支持在电子邮件中的动态内容中使用变量。 它是 **非** 使用批量活动时支持。
+>仅当使用“触发营销活动”时，才支持在电子邮件中的动态内容中使用变量。 使用批量营销活动时&#x200B;**不支持**。
 
 ## 添加分段 {#add-segmentation}
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择您的电子邮件并单击 **编辑草稿**.
+1. 选择您的电子邮件并单击&#x200B;**编辑草稿**。
 
    ![](assets/1.2.png)
 
-1. 在本例中，我们将使“主题行”成为动态的。 单击“主题”字段，然后单击 **设为动态** 按钮。
+1. 在本例中，我们将使“主题行”成为动态的。 单击“主题”字段，然后单击“**制作动态**”按钮。
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >您还可以使电子邮件中的元素成为动态元素。 要实现此目的，请选择该区域，单击齿轮图标，然后选择 **设为动态** (或 [替换为代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，具体取决于您所执行的操作)。
+   >您还可以使电子邮件中的元素成为动态元素。 为此，请选择该区域，单击齿轮图标，然后选择&#x200B;**生成动态**（或[替换为代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，具体取决于您正在执行的操作）。
 
-1. 输入分段名称，将其选定，然后单击 **保存**.
+1. 输入分段名称，将其选定，然后单击&#x200B;**保存**。
 
    ![](assets/1.4.png)
 

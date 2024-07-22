@@ -6,7 +6,7 @@ exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -27,17 +27,17 @@ ht-degree: 0%
 >
 >如果已打开取消订阅同步，则必须从ToutApp中删除取消订阅，并在Salesforce中取消选中选择退出，以使人员记录不再同步。
 
-1. 转到 [Web应用程序](https://toutapp.com/login) 并单击 **人员**.
+1. 转到[Web应用程序](https://toutapp.com/login)并单击&#x200B;**人员**。
 
 1. 选择人员以打开人员详细信息视图。
 
    ![](assets/two.png)
 
-1. 单击人员详细信息视图中的三个圆点，然后选择 **删除取消订阅**.
+1. 单击人员详细信息视图中的三个圆点，然后选择&#x200B;**删除取消订阅**。
 
    ![](assets/three.png)
 
-1. 选择人员重新选择接收电子邮件的原因，然后单击 **删除取消订阅**.
+1. 选择选择人员重新加入以接收电子邮件的原因，然后单击&#x200B;**删除取消订阅**。
 
    ![](assets/four.png)
 

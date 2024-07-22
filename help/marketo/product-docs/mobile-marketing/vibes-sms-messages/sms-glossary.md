@@ -2,7 +2,8 @@
 description: 短信术语表 — Marketo文档 — 产品文档
 title: SMS术语表
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
@@ -39,7 +40,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>自定义短域</td>
-    <td>如果您使用的是Vibes链接缩短程序，则默认情况下，缩短的URL将显示在Vibes短URL： https://vbs.cm/xxxxxx下。 自定义短域是您的品牌特有的域。 <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">了解有关自定义短域的更多信息</a>.<p>
+    <td>如果您使用的是Vibes链接缩短程序，则默认情况下，缩短的URL将显示在Vibes短URL： https://vbs.cm/xxxxxx下。 自定义短域是您的品牌特有的域。 <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">了解有关自定义短域的详细信息</a>。<p>
     这仅适用于从Vibes平台发送的消息，特别是客户获取促销活动消息和短代码默认消息。<p>
     推荐使用Marketo URL缩短器，以便在Marketo程序中包含点击数据。</td>
   </tr>
@@ -57,7 +58,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>活动</td>
-    <td>事件是可以提交到Vibes平台并用于触发API触发的操作（包括消息发送）的已定义发生次数。 每个事件都包含特定于事件的数据，包括一个event_type ，用于确定它对应于哪个API触发的消息营销活动。 事件API可以通过Marketo Engage中的Webhook触发。 通过我们的 <a href="https://developer-platform.vibes.com/reference/event-api">事件API参考</a>.</td>
+    <td>事件是可以提交到Vibes平台并用于触发API触发的操作（包括消息发送）的已定义发生次数。 每个事件都包含特定于事件的数据，包括一个event_type ，用于确定它对应于哪个API触发的消息营销活动。 事件API可以通过Marketo Engage中的Webhook触发。 通过我们的<a href="https://developer-platform.vibes.com/reference/event-api">事件API引用</a>了解更多信息。</td>
   </tr>
   <tr>
     <td>关键词</td>
@@ -81,7 +82,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>人员记录</td>
-    <td>人员记录是特定手机号码的数据集合。 还为每个人员记录分配了一个唯一的person_key用于标识。 Marketo ID使用external_person_id字段链接到Vibes。 在中了解有关人员记录的更多信息 <a href="https://developer-platform.vibes.com/reference/person-api">Vibes人员API文档</a>.</td>
+    <td>人员记录是特定手机号码的数据集合。 还为每个人员记录分配了一个唯一的person_key用于标识。 Marketo ID使用external_person_id字段链接到Vibes。 在<a href="https://developer-platform.vibes.com/reference/person-api">Vibes人员API文档</a>中了解有关人员记录的更多信息。</td>
   </tr>
   <tr>
     <td>短代码</td>
@@ -101,7 +102,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>Vibes Platform</td>
-    <td>您登录以管理营销活动的网站。 转到 <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> 访问Vibes平台。</td>
+    <td>您登录以管理营销活动的网站。 转到<a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a>以访问Vibes平台。</td>
   </tr>
 </tbody>
 </table>

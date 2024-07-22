@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->删除操作并不总是自动双向同步。 请参阅 [删除潜在客户或联系人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md){target="_blank"}.
+>删除操作并不总是自动双向同步。 请参阅[删除潜在客户或联系人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md){target="_blank"}。
 
 ## 如果两个系统中的同一字段同时发生更改，该怎么办？ （数据冲突） {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 我可以使用Marketo在Dynamics中创建商机吗？ {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-是，使用 [将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} flow操作。 如果商机不存在，这将在Dynamics中创建商机。 如果潜在客户确实存在，则流程步骤将不会执行任何操作。
+是，使用[将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"}流程操作。 如果商机不存在，这将在Dynamics中创建商机。 如果潜在客户确实存在，则流程步骤将不会执行任何操作。
 
 >[!NOTE]
 >
@@ -37,11 +37,11 @@ ht-degree: 0%
 
 ## 我能否在Dynamics中手动强制将人员从Marketo同步到潜在客户？ {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-不会，自动后台同步是在Marketo和Dynamics之间同步更新的唯一方法。 此 [将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} flow操作不会强制同步潜在客户。
+不会，自动后台同步是在Marketo和Dynamics之间同步更新的唯一方法。 [将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"}流程操作不会强制同步潜在客户。
 
 ## 哪些字段将同步到Marketo？ {#what-fields-will-sync-to-marketo}
 
-您可以 [选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} 设置期间。
+您可以[选择要在安装过程中同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}。
 
 ## Marketo是否会遵守Dynamics验证规则？ {#will-marketo-respect-the-dynamics-validation-rules}
 

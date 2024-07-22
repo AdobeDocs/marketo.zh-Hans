@@ -2,10 +2,10 @@
 description: EV-YYYY-MM-DD-Event计划 — Marketo文档 — 产品文档
 title: EV-YYYY-MM-DD-Event计划
 feature: Programs
-exl-id: 3688317f-228c-4fc2-accd-3e1d541525d2
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '561'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 这是一个活动计划的示例，该活动计划具有注册页面、三封邀请电子邮件以及利用Marketo Engage活动计划的后续电子邮件。 适合您需要注册的所有活动，包括路演、午餐、晚宴或贸易展活动演示。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -27,19 +27,19 @@ ht-degree: 6%
    <th>项目类型</th>
   </tr> 
   <tr> 
-   <td>Event</td> 
+   <td>活动</td> 
    <td>01 — 已邀请 
 <br/>02 — 轮候
-<br/>03 — 注册
+<br/>03已注册
 <br/>04 — 无节目
-<br/>05 — 出席 — 成功</td>
+<br/>05 — 已参加 — 成功</td>
    <td>包含</td>
-   <td>Event</td>
+   <td>活动</td>
   </tr>
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -151,7 +151,7 @@ ht-degree: 6%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>资产 — 容纳所有创意资产 
+   <td>Assets — 容纳所有创意资源 
 <br/>（电子邮件和登陆页面的子文件夹）</td>
   </tr>
   <tr> 
@@ -162,7 +162,7 @@ ht-degree: 6%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>报表</td>
+   <td>报告</td>
   </tr>
  </tbody> 
 </table>
@@ -300,20 +300,20 @@ ht-degree: 6%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
    * 复制原始模板
-   * 使用目标模板 —  _推荐_
+   * 使用目标模板 — _推荐_
 
 * **具有相同名称的图像**
    * 保留两个文件
-   * 替换此订阅中的项目 —  _推荐_
+   * 替换此订阅中的项目 — _推荐_
 
 * **同名电子邮件模板**
    * 保留两个模板
-   * 替换现有模板 —  _推荐_
+   * 替换现有模板 — _推荐_
 
 ## 最佳实践 {#best-practices}
 
@@ -330,7 +330,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->不要忘记激活“06人参与（项目成功）”营销活动以跟踪成功！ 执行操作 _早于_ 您的表单已上线并发送电子邮件。
+>不要忘记激活“06人参与（项目成功）”营销活动以跟踪成功！ _before_&#x200B;执行此操作您的表单已上线且已发送电子邮件。
 
 >[!IMPORTANT]
 >

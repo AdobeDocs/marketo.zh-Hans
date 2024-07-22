@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-编辑搜索到的内容时，在编辑屏幕中添加类别。 单击 **类别** 字段并从下拉列表中选择它们。
+编辑搜索到的内容时，在编辑屏幕中添加类别。 单击&#x200B;**类别**&#x200B;字段，然后从下拉列表中选择它们。
 
 ![](assets/two.png)
 
@@ -29,23 +29,23 @@ ht-degree: 0%
 
 以下是如何创建类别标记。
 
-1. 转到 **内容设置**.
+1. 转到&#x200B;**内容设置**。
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. 单击 **类别**.
+1. 单击&#x200B;**类别**。
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. 将显示现有类别标记。 输入新的类别标记并单击 **新建**.
+1. 将显示现有类别标记。 输入新的类别标记，然后单击&#x200B;**新建**。
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. 您可以通过单击 **x** 旁边的。
+1. 您可以通过单击类别标记旁边的&#x200B;**x**&#x200B;来删除该类别标记。
 
    ![](assets/remove-category-tag-updated.png)
 
-1. 单击 **保存** 等你完事了。
+1. 完成后，单击&#x200B;**保存**。
 
    ![](assets/save-new.png)
 

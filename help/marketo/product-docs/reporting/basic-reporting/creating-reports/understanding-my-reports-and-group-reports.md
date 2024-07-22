@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 了解我的报表和组报表 {#understanding-my-reports-and-group-reports}
 
-您可以创建 **我的报表** 和 **组报表** 从 [Analytics主页](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
+您可以从[Analytics主页](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)创建&#x200B;**我的报告**&#x200B;和&#x200B;**群组报告**。
 
-**我的报表** 仅对您可见。
+**我的报告**&#x200B;仅对您可见。
 
-**组报表** 对该工作区中的所有用户可见。
+**组报表**&#x200B;对该工作区中的所有用户可见。
 
 >[!NOTE]
 >
->每个工作区都有一组 **我的报表** 和 **组报表**.
+>每个工作区都有一组&#x200B;**我的报表**&#x200B;和&#x200B;**组报表**。
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
 >[!MORELIKETHIS]
 >
 >* [保存报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
->* [将报表克隆到组报表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
+>* [将报告克隆到组报告](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)

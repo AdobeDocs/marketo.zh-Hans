@@ -6,7 +6,7 @@ exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 ## 步骤1：下载并编辑电子表格 {#step-download-and-edit-a-spreadsheet}
 
-1. 要开始，请下载我们的实践电子表格文件([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"})到您的计算机。
+1. 若要开始，请将我们的练习电子表格文件([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"})下载到您的计算机。
 
    ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
-   >导入日期时，请使用此格式： **9/21/20** （月/日/年）。
+   >导入日期时，请使用此格式：**9/21/20**（月/日/年）。
 
    >[!NOTE]
    >
@@ -41,45 +41,45 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo会 **非** 支持包含表情符号的电子邮件地址。
+   >Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
 
 ## 第2步：创建项目 {#step-create-a-program}
 
-1. 转到 **[!UICONTROL 营销活动]** 区域。
+1. 转到&#x200B;**[!UICONTROL 营销活动]**&#x200B;区域。
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. 选择您的 **学习** 文件夹，然后在 **[!UICONTROL 新建]** 单击 **[!UICONTROL 新建项目群]**.
+1. 选择您的&#x200B;**学习**&#x200B;文件夹，然后在&#x200B;**[!UICONTROL 新建]**&#x200B;下单击&#x200B;**[!UICONTROL 新建计划]**。
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **名称** “我的贸易展计划”并选择“事件”作为 **[!UICONTROL 项目类型]**.
+1. **命名**&#x200B;节目“我的商展节目”并为&#x200B;**[!UICONTROL 节目类型]**&#x200B;选择“事件”。
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. 选择 **[!UICONTROL 商展]** 对于 **[!UICONTROL 渠道]** 并单击 **[!UICONTROL 创建]**.
+1. 为&#x200B;**[!UICONTROL 渠道]**&#x200B;选择&#x200B;**[!UICONTROL 商展]**&#x200B;并单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
->事件程序在特定日期发生。 了解有关 [**活动**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
+>事件程序在特定日期发生。 了解有关&#x200B;[**事件**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}&#x200B;的详细信息。
 
 ## 步骤3：将电子表格导入Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. 在 **我的贸易展览计划**，单击 **[!UICONTROL 新建]** 并选择 **[!UICONTROL 新建本地资产]**.
+1. 在&#x200B;**我的商展计划**&#x200B;中，单击&#x200B;**[!UICONTROL 新建]**，然后选择&#x200B;**[!UICONTROL 新建本地资产]**。
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. 选择 **[!UICONTROL 列表]**.
+1. 选择&#x200B;**[!UICONTROL 列表]**。
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **名称** “贸易展览与会者”列表并单击 **[!UICONTROL 创建]**.
+1. **将**&#x200B;命名为“商展与会者”列表，然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. 在您的 **[!UICONTROL 贸易展览与会者]** 列表，单击 **[!UICONTROL 列出操作]** 并选择 **[!UICONTROL 导入列表]**.
+1. 在您的&#x200B;**[!UICONTROL 商展与会者]**&#x200B;列表中，单击&#x200B;**[!UICONTROL 列表操作]**&#x200B;并选择&#x200B;**[!UICONTROL 导入列表]**。
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -91,31 +91,31 @@ ht-degree: 0%
    >
    >CSV文件的大小限制为100MB。
 
-1. **[!UICONTROL 浏览]** 到 **tradeshow-attendees.csv** 电子表格文件，然后单击 **[!UICONTROL 下一个]**.
+1. **[!UICONTROL 浏览]**&#x200B;到您计算机上的&#x200B;**tradeshow-attendees.csv**&#x200B;电子表格文件，然后单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >在列表导入模式下，选择 **[!UICONTROL 跳过新人员和更新]** 意味着您不会影响现有人员记录或记录任何活动。 如果您希望在营销活动中使用的现有人员的快速、预过滤静态列表，请使用此模式。 选择此模式将：
+   >在列表导入模式下，选择&#x200B;**[!UICONTROL 跳过新人员和更新]**&#x200B;意味着您将不会影响现有人员记录或记录任何活动。 如果您希望在营销活动中使用的现有人员的快速、预过滤静态列表，请使用此模式。 选择此模式将：
    >
    > * 跳过新人员创建
    > * 跳过人员字段更新
    > * 跳过活动日志记录
 
-1. 映射您的 [!UICONTROL 列表列] 字段到它们各自的Marketo字段并单击 **[!UICONTROL 下一个]**.
+1. 将您的[!UICONTROL 列表列]字段映射到它们各自的Marketo字段，然后单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
-   >列标题应始终与字段完全匹配（区分大小写），以获得最佳自动映射结果。 如果您使用的是自定义字段，但在下拉列表中看不到它们，请返回并 [创建它们](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} 这样它们就可以变成选项。
+   >列标题应始终与字段完全匹配（区分大小写），以获得最佳自动映射结果。 如果您正在使用自定义字段，但未在下拉列表中看到它们，请返回并[创建它们](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}，以便它们可以成为选项。
 
    >[!NOTE]
    >
-   >如果有任何您不想导入的字段，请选择 **忽略** “Marketo字段”下拉菜单中。
+   >如果有任何您不想导入的字段，请在Marketo字段下拉菜单中选择&#x200B;**忽略**。
 
-1. 选择 **我的贸易展览计划** 对于 **[!UICONTROL 客户获取计划]**，然后单击 **[!UICONTROL 导入]**.
+1. 为&#x200B;**[!UICONTROL 客户获取计划]**&#x200B;选择&#x200B;**我的商展计划**，然后单击&#x200B;**[!UICONTROL 导入]**。
 
    ![](assets/import-a-list-of-people-13.png)
 
@@ -123,13 +123,13 @@ ht-degree: 0%
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. 返回 **我的贸易展览计划**，单击 **[!UICONTROL 成员]** 选项卡。 您将看到所有您刚刚导入的人员。
+1. 返回&#x200B;**我的商展计划**，单击&#x200B;**[!UICONTROL 成员]**&#x200B;选项卡。 您将看到所有您刚刚导入的人员。
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->您可以通过跟踪计划会员资格来分析计划是否成功。 了解有关 [**程序**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>您可以通过跟踪计划会员资格来分析计划是否成功。 了解有关&#x200B;[**程序**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}&#x200B;的更多信息。
 
 ## 任务完成 {#mission-complete}
 

@@ -5,14 +5,14 @@ exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
 source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1207'
+source-wordcount: '1210'
 ht-degree: 0%
 
 ---
 
 # 流程步骤服务 {#flow-step-service}
 
-自助服务流程步骤是用于创作、发布和将Web服务集成到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南面向希望安装和使用已创建和发布的服务的最终Marketo Engage。 有关创作和发布您自己的服务的信息，请参阅 [服务提供商界面的GitHub存储库](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+自助服务流程步骤是用于创作、发布和将Web服务集成到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南面向希望安装和使用已创建和发布的服务的最终Marketo Engage。 有关创作和发布您自己的服务的信息，请参阅服务提供商界面的[GitHub存储库](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}。 在[此处](https://github.com/adobe/mkto-flow-lookup){target="_blank"}可以找到概念验证查找表实施。
 
 ## 入门和管理服务 {#onboarding-and-managing-services}
 
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 安装URL {#installation-url}
 
-要开始安装，您需要首先获取定义服务的OpenAPI文档的URL。 您的服务提供商应能够为您提供此链接，并且通常具有以结尾的URL `/openapi.json`. 完整的URL类似于 `https://www.example.com/OpenAPI.json`. 获得此URL后，转到管理员部分中的服务提供商菜单。
+要开始安装，您需要首先获取定义服务的OpenAPI文档的URL。 您的服务提供商应能够为您提供此内容，并且通常具有以`/openapi.json`结尾的URL。 完整的URL类似于`https://www.example.com/OpenAPI.json`。 获得此URL后，转到管理员部分中的服务提供商菜单。
 
-单击 **[!UICONTROL 下一个]** 转至“输入服务身份证明”部分。
+单击&#x200B;**[!UICONTROL 下一步]**&#x200B;以转到“输入服务凭据”部分。
 
 ![](assets/flow-step-service-1.png)
 
 ## 输入服务凭据 {#enter-service-credentials}
 
-要访问正在安装的服务，Marketo必须具有有效的API凭据。 您的服务提供商应向您提供这些凭据。 服务有三种不同的身份验证选项，因此您可能会看到三种不同的凭据提示之一： **API密钥** 只有一个输入字段， **基本身份验证** 需要用户名和口令，并且可能还需要名为“领域”的字段，并且 **OAuth2** 使用 _客户端凭据_ 授予，即需要 _客户端ID_ 和 _客户端密码_.
+要访问正在安装的服务，Marketo必须具有有效的API凭据。 您的服务提供商应向您提供这些凭据。 服务具有三个不同的身份验证选项，因此您可能会看到以下三种不同的凭据提示之一：**API密钥**，它只有一个输入字段；**基本身份验证**，它需要用户名和密码，可能还需要一个名为“领域”的字段；使用&#x200B;_客户端凭据_&#x200B;授权的&#x200B;**OAuth2**，它需要&#x200B;_客户端ID_&#x200B;和&#x200B;_客户端密钥_。
 
 在保存凭据时，Marketo将尝试调用服务的状态端点以验证它们是否有效。 如果提供的凭据无效，您将看到指示此内容的错误。
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 字段映射 {#field-mapping}
 
-要接收或返回来自特定商机字段的数据，必须映射该字段。 虽然映射是载入期间的必需步骤，但您以后可能始终会返回更改映射。 在单独的屏幕中配置了两种类型的映射： **传出字段**，在Marketo调用流步骤时发送到该服务，以及 **传入字段** 这些字段在将数据返回到Marketo时可能会从服务接收数据。
+要接收或返回来自特定商机字段的数据，必须映射该字段。 虽然映射是载入期间的必需步骤，但您以后可能始终会返回更改映射。 在单独的屏幕中配置两种类型的映射：**传出字段**&#x200B;和&#x200B;**传入字段**，前者是在Marketo调用流程步骤时发送到服务，后者是在服务将数据返回到Marketo时可能从服务接收数据的字段。
 
 >[!NOTE]
 >
@@ -48,13 +48,13 @@ ht-degree: 0%
 
 ## 服务驱动映射 {#service-driven-mappings}
 
-具有固定输入和输出集的服务（如事件注册流步骤）使用 **服务驱动映射**. 对于此类映射，服务提供商将以API名称的形式提供数据类型和提示。 如果提示与现有潜在客户字段的API名称匹配，则该字段将自动填充到映射部分中。 对于没有匹配提示的字段，您将需要从具有匹配数据类型的字段列表中手动填充映射。 必须填充所需的映射才能完成载入。
+具有固定输入和输出集的服务（如事件注册流程步骤）使用&#x200B;**服务驱动映射**。 对于此类映射，服务提供商将以API名称的形式提供数据类型和提示。 如果提示与现有潜在客户字段的API名称匹配，则该字段将自动填充到映射部分中。 对于没有匹配提示的字段，您将需要从具有匹配数据类型的字段列表中手动填充映射。 必须填充所需的映射才能完成载入。
 
 ![](assets/flow-step-service-2.png)
 
 ## 用户驱动映射 {#user-driven-mappings}
 
-没有固定输入和输出集的服务（如日期格式服务）使用 **用户驱动映射**. 这意味着每个传入和传出字段都必须由管理员配置。
+没有固定输入和输出集的服务（如日期格式服务）使用&#x200B;**用户驱动映射**。 这意味着每个传入和传出字段都必须由管理员配置。
 
 ![](assets/flow-step-service-3.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## 弃用服务 {#retiring-a-service}
 
-为了在不中断活动使用的情况下促进向服务的新版本或替代版本的转换，可以从服务提供商菜单中停用服务。 **弃用服务** 从智能营销活动流量面板中删除相应的流量步骤，以便不能创建新用途。 在大多数情况下，当您选择停用服务时，您应该准备替换服务，以替换现有服务。
+为了在不中断活动使用的情况下促进向服务的新版本或替代版本的转换，可以从服务提供商菜单中停用服务。 **弃用服务**&#x200B;会从Smart Campaign流量托盘中删除相应的流量步骤，因此不能创建该服务的新用途。 在大多数情况下，当您选择停用服务时，您应该准备替换服务，以替换现有服务。
 
 ## 服务弃用 {#service-deprecation}
 

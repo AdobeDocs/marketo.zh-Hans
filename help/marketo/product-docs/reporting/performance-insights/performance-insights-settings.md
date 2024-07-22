@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 上一时段配置 {#previous-period-configuration}
 
-**参与度、管道、收入功能板 — 仅贡献**
+**参与度、管道、收入仪表板 — 仅贡献**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 受营销影响的机会 {#marketing-influenced-opportunities}
 
-**管道功能板 — 贡献和趋势**
+**管道仪表板 — 贡献和趋势**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-**收入功能板 — 贡献和趋势**
+**收入信息板 — 贡献和趋势**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 ## 成本计算 {#cost-calculation}
 
-**管道和收入功能板 — 贡献和趋势**
+**管道和收入仪表板 — 贡献和趋势**
 
 <table> 
  <tbody> 

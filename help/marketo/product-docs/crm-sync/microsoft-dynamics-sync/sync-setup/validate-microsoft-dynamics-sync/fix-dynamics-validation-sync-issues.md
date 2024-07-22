@@ -6,7 +6,7 @@ exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 ## 验证同步工具结果 {#validate-sync-tool-results}
 
-运行Dynamics Validate Sync时，它将生成一个报表。 如果有 ![x](assets/delete.png) 在步骤旁边，请参阅以下选项以识别和修复问题。 然后，重新运行同步验证步骤，直到结果仅显示绿色复选标记。
+运行Dynamics Validate Sync时，它将生成一个报表。 如果步骤旁边有![x](assets/delete.png)，请参阅以下选项以识别和修复问题。 然后，重新运行同步验证步骤，直到结果仅显示绿色复选标记。
 
 ![](assets/image2015-9-22-15-3a58-3a12.png)
 
 ## URL有效 {#url-is-valid}
 
-如果您拥有 ![x](assets/delete.png) 在此处，验证URL是否有效。 请在此处开发人员资源中找到该内容，然后查看组织服务。 URL可能由于多种原因而无效。
+如果此处有![x](assets/delete.png)，请验证URL是否有效。 请在此处开发人员资源中找到该内容，然后查看组织服务。 URL可能由于多种原因而无效。
 
-1. 登录到Dynamics。 单击设置图标并选择 **高级设置**.
+1. 登录到Dynamics。 单击“设置”图标并选择&#x200B;**高级设置**。
 
    ![](assets/one.png)
 
-1. 单击设置，然后选择 **自定义**.
+1. 单击“设置”并选择&#x200B;**自定义项**。
 
    ![](assets/two.png)
 
-1. 单击 **开发人员资源**.
+1. 单击&#x200B;**开发人员资源**。
 
    ![](assets/three.png)
 
@@ -41,23 +41,23 @@ ht-degree: 0%
 
 ## 用户名和密码有效 {#username-and-password-are-valid}
 
-如果您拥有 ![x](assets/delete.png) 在此处，验证您的Microsoft Dynamics凭据是否有效。 对于Web API S2S身份验证，Marketo中的用户名必须匹配 [电子邮件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM中应用程序用户的个人资料。 对于其他类型，它应该与同步用户的用户名匹配。
+如果此处具有![x](assets/delete.png)，请验证您的Microsoft Dynamics凭据是否有效。 对于Web API S2S身份验证，Marketo中的用户名必须与CRM中应用程序用户的[电子邮件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user)匹配。 对于其他类型，它应该与同步用户的用户名匹配。
 
 ## 已将同步用户分配给Marketo同步用户角色 {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-如果您拥有 ![x](assets/delete.png) 在此，它可能是以下三个问题之一。
+如果您在此处使用![x](assets/delete.png)，则它可能是以下三个问题之一。
 
 **选项一 — 验证是否已在Microsoft Dynamics中选中Marketo同步用户角色**：
 
-1. 在Dynamics中，单击“设置”图标并选择 **高级设置**.
+1. 在Dynamics中，单击“设置”图标并选择&#x200B;**高级设置**。
 
    ![](assets/one.png)
 
-1. 单击 **设置** 并选择 **安全性**.
+1. 单击&#x200B;**设置**&#x200B;并选择&#x200B;**安全性**。
 
    ![](assets/six.png)
 
-1. 单击 **用户。**
+1. 单击&#x200B;**用户。**
 
    ![](assets/image2015-9-24-9-3a47-3a25.png)
 
@@ -65,31 +65,31 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 单击 **管理角色**.
+1. 单击&#x200B;**管理角色**。
 
    ![](assets/eight.png)
 
-1. 验证是否已选中Marketo同步用户角色。 如果没有，选中它并单击 **好的。**
+1. 验证是否已选中Marketo同步用户角色。 如果没有，请检查并单击&#x200B;**确定。**
 
    ![](assets/image2015-9-24-9-3a59-3a21.png)
 
 **选项二 — 确认授予同意**：
 
-1. 查看 [同意客户端ID和应用程序注册](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) 以确认应用程序同意调用API。
+1. 查看[针对客户端ID和应用程序注册授予同意](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)，以确认应用程序具有调用API的管理员同意。
 
-**选项3 — 同步用户**：
+**选项三 — 同步用户**：
 
 1. 验证是否已将同步用户添加到Marketo配置。
 
 ## Marketo解决方案安装正确 {#marketo-solution-is-properly-installed}
 
-如果您拥有 ![x](assets/delete.png) 此处，转到Microsoft Dynamics以验证是否安装了Marketo。 请参阅Microsoft Dynamics设置文档中的步骤1。
+如果此处有![x](assets/delete.png)，请转到Microsoft Dynamics以验证是否安装了Marketo。 请参阅Microsoft Dynamics设置文档中的步骤1。
 
-1. 在Dynamics中，单击“设置”图标并选择 **高级设置**.
+1. 在Dynamics中，单击“设置”图标并选择&#x200B;**高级设置**。
 
    ![](assets/one.png)
 
-1. 单击 **设置** 并选择 **解决方案。**
+1. 单击&#x200B;**设置**&#x200B;并选择&#x200B;**解决方案。**
 
    ![](assets/eleven.png)
 
@@ -99,17 +99,17 @@ ht-degree: 0%
 
 ## 解决方案中的所有步骤均已启用 {#all-steps-in-the-solution-are-enabled}
 
-如果您拥有 ![x](assets/delete.png) 在此处，验证是否未停用任何默认步骤。 所有步骤在安装时自动启用，但在自定义过程中可以停用它们。
+如果此处有![x](assets/delete.png)，请验证未停用任何默认步骤。 所有步骤在安装时自动启用，但在自定义过程中可以停用它们。
 
 ## 同步用户已分配给Marketo解决方案 {#sync-user-is-assigned-to-the-marketo-solution}
 
-如果您拥有 ![x](assets/delete.png) 在此，确保已在Microsoft Dynamics的Marketo默认页面上分配了同步用户。
+如果此处为![x](assets/delete.png)，请确保在Microsoft Dynamics的Marketo默认页面上分配了同步用户。
 
-1. 在Dynamics中，单击“设置”图标并选择 **高级设置**.
+1. 在Dynamics中，单击“设置”图标并选择&#x200B;**高级设置**。
 
    ![](assets/one.png)
 
-1. 单击 **设置** 并选择 **Marketo配置**.
+1. 单击&#x200B;**设置**&#x200B;并选择&#x200B;**Marketo配置**。
 
    ![](assets/thirteen.png)
 
@@ -119,7 +119,7 @@ ht-degree: 0%
 
 ## 同步用户匹配用户名和密码 {#sync-user-matches-username-and-password}
 
-如果您拥有 ![x](assets/delete.png) 在此，请确保在Microsoft Dynamics的Marketo配置默认设置步骤的Marketo用户字段中分配正确的同步用户。
+如果您在此处具有![x](assets/delete.png)，请确保在Microsoft Dynamics的Marketo配置默认设置步骤的Marketo用户字段中分配正确的同步用户。
 
 >[!MORELIKETHIS]
 >

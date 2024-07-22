@@ -17,15 +17,15 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-当您发送营销电子邮件时(非[可操作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md))，取消订阅文本和链接将附加到底部。 您可以更改默认值。 具体方法如下。
+当您发送营销电子邮件（非[可操作的](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)）时，取消订阅文本和链接将附加到底部。 您可以更改默认值。 具体方法如下。
 
 ## 进行编辑的位置 {#where-to-make-the-edit}
 
-1. 转到 **[!UICONTROL 管理员]** 部分。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;部分。
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. 单击 **[!UICONTROL 电子邮件]**.
+1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 
@@ -36,15 +36,15 @@ ht-degree: 0%
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. 编辑 **[!UICONTROL 取消订阅HTML]** 和 **[!UICONTROL 取消订阅文本]** 您喜欢的版本，然后单击 **[!UICONTROL 保存更改]**.
+1. 编辑您喜欢的&#x200B;**[!UICONTROL 取消订阅HTML]**&#x200B;和&#x200B;**[!UICONTROL 取消订阅文本]**&#x200B;版本，然后单击&#x200B;**[!UICONTROL 保存更改]**。
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
-   给你。 _务必进行测试！_ 您不希望营销电子邮件具有中断的取消订阅链接。
+   给你。 _确保测试！_&#x200B;您不希望营销电子邮件具有中断的取消订阅链接。
 
 >[!TIP]
 >
->您可以使用自定义取消订阅HTML在电子邮件中的位置 [令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>您可以使用[令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)自定义取消订阅HTML在电子邮件中的位置。
 
 ## 默认取消订阅文本 {#default-unsubscribe-text}
 

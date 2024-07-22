@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 配置Opportunity Influence Analyzer {#configure-an-opportunity-influence-analyzer}
 
-一旦您 [创建Opportunity影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)，您可以配置 [有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 已包括在内。
+在您[创建Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)后，您可以配置包含的[兴趣时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)的类型。
 
 >[!PREREQUISITES]
 >
->[创建Opportunity影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[创建机会影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. 单击 **分析**.
+1. 单击&#x200B;**分析**。
 
    ![](assets/login-to-analytics.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   如果分析器图中有太多有趣的时刻，您可以通过取消选择 **设置** 面板，或者通过减少有趣时刻的类型。
+   如果分析器图形中有太多有趣的时刻，您可以通过取消选择&#x200B;**设置**&#x200B;面板中的人员或减少有趣时刻的类型来减少它们。
 
 1. 要配置要包含哪些类型的有趣时刻，请转到“设置”选项卡，然后拖入“有趣时刻”过滤器。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. 单击您想要的每种有趣时刻。 然后单击 **保存**.
+1. 单击您想要的每种有趣时刻。 然后单击&#x200B;**保存**。
 
 1. 单击主选项卡可查看仅包含所选兴趣时刻类型的商机的历史记录。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[用Opportunity Influence Analyzer讲述营销故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[使用机会影响分析器讲述营销故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

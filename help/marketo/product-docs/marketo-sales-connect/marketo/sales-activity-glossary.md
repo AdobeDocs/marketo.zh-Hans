@@ -5,8 +5,8 @@ exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 5%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 2%
   <td>源</td>
  </tr>
  <tr>
-  <td>模板Id</td>
+  <td>模板 ID</td>
  </tr>
  <tr>
   <td>销售模板URL</td>
@@ -63,7 +63,7 @@ ht-degree: 2%
   <td>源</td>
  </tr>
  <tr>
-  <td>模板Id</td>
+  <td>模板 ID</td>
  </tr>
  <tr>
   <td>销售模板URL</td>
@@ -94,7 +94,7 @@ ht-degree: 2%
   <td>源</td>
  </tr>
  <tr>
-  <td>模板Id</td>
+  <td>模板 ID</td>
  </tr>
  <tr>
   <td>销售模板URL</td>
@@ -198,7 +198,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <th rowspan="5">销售电子邮件退回</th>
-  <td>详细信息</td>
+  <td>详情</td>
  </tr>
  <tr>
   <td>电子邮件</td>
@@ -210,7 +210,7 @@ ht-degree: 2%
   <td>Marketo销售人员ID</td>
  </tr>
  <tr>
-  <td>模板Id</td>
+  <td>模板 ID</td>
  </tr>
 </table>
 
@@ -223,7 +223,7 @@ ht-degree: 2%
  </tr>
  <tbody> 
  <tr> 
-   <td><strong>详细信息</strong></td> 
+   <td><strong>详情</strong></td> 
    <td>退回错误消息详细信息。</td> 
   </tr> 
   <tr> 
@@ -300,10 +300,10 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td><strong>源</strong></td> 
-   <td>活动的源。 对于2021年10月版发行之前的Sales Connect活动，将被设置为“Tout”。 在2021年10月发布之后，将成为Sales Connect活动的“Sales App”。</td>
+   <td>活动的Source。 对于2021年10月版发行之前的Sales Connect活动，将被设置为“Tout”。 在2021年10月发布之后，将成为Sales Connect活动的“Sales App”。</td>
   </tr> 
   <tr> 
-   <td><strong>模板Id</strong></td> 
+   <td><strong>模板 ID</strong></td> 
    <td>当源为Tout时，模板ID将为Marketo Sales Connect模板ID。 使用此项来定位特定模板，而不是可能存在于多个模板中的主题行。
 </td> 
   </tr> 

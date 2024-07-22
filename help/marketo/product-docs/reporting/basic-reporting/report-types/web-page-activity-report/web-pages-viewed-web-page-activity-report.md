@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 已查看的网页、网页活动报表 {#web-pages-viewed-web-page-activity-report}
 
-从 [网页活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，则可以在报表中查看人员查看的特定页面。
+从[网页活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)中，您可以查看该报表中的人员查看的特定页面。
 
 >[!PREREQUISITES]
 >
->要在Marketo中从您的网站捕获活动，您首先需要  [在您的网站上设置Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>若要在Marketo中从您的网站捕获活动，您首先需要在您的网站上[设置Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
-1. 在您的 [网页活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，单击页面查看次数列中的数字。
+1. 在[网页活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)中，单击“页面查看次数”列中的数字。
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >创建  [公司Web活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) 查看哪些公司访问您的网站。
+   >创建[公司Web活动报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)，以查看哪些公司正在访问您的网站。

@@ -18,15 +18,15 @@ ht-degree: 0%
 
 购买Sales Connect后，您的Marketo实例中将显示一个新的集成页面。 使用此页可邀请您的第一个用户并配置其Sales Connect实例。
 
-1. 在Marketo中，单击 **管理员**.
+1. 在Marketo中，单击&#x200B;**管理员**。
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. 单击 **Sales Connect**.
+1. 单击&#x200B;**销售连接**。
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. 从要邀请的Marketo管理员列表中选择并单击 **发送邀请**.
+1. 从要邀请的Marketo管理员列表中选择并单击&#x200B;**发送邀请**。
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->其他用户将 **非** 通过Marketo添加，而是通过Sales Connect的User Management页面添加。 [单击此处](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) 了解有关添加其他用户的更多信息。
+>其他用户&#x200B;**不会**&#x200B;通过Marketo添加，而是通过Sales Connect的“用户管理”页面添加。 [单击此处](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)了解有关添加其他用户的更多信息。

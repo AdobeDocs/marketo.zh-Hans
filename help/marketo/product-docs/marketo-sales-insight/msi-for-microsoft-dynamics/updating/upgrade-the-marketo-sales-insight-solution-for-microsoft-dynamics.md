@@ -6,7 +6,7 @@ exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **管理员** 区域。
+1. 转到&#x200B;**管理员**&#x200B;区域。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. 单击 **Microsoft Dynamics**.
+1. 单击&#x200B;**Microsoft Dynamics**。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
-1. 选择 **下载Marketo解决方案**.
+1. 选择&#x200B;**下载Marketo解决方案**。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 
@@ -39,8 +39,8 @@ ht-degree: 0%
 
 ## 执行升级 {#performing-the-upgrade}
 
-1. 在现有Dynamics CRM版本的基础上导入最新版本的解决方案(例如：如果Dynamics CRM的版本为1.4，而最新版本为1.5，则导入 _超过_ 版本1.4)。
+1. 在现有Dynamics CRM版本上导入最新版本的解决方案（例如：如果Dynamics CRM的版本为1.4，而最新版本为1.5，则您将导入&#x200B;_而不是_&#x200B;版本1.4）。
 
-2. 您将看到以下弹出窗口。 选择 **暂存升级** 和 **维护自定义项**，然后单击 **导入**.
+2. 您将看到以下弹出窗口。 选择&#x200B;**升级阶段**&#x200B;和&#x200B;**维护自定义项**，然后单击&#x200B;**导入**。
 
 ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-5.png)

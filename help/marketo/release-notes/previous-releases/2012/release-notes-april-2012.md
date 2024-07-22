@@ -6,7 +6,7 @@ exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics}
 
-**收入周期Modeler中的增强型关口阶段**
+收入周期Modeler中的&#x200B;**增强关口阶段**
 
 允许用户定义其过渡规则的顺序。
 

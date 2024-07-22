@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 1%
 
 将人员添加到您的阻止列表会阻止他们接收您的信件。
 
-1. 新建 [默认程序](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} 将其命名为“添加到阻止列表”。
+1. 创建新的[默认程序](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"}并将其命名为“添加到阻止列表”。
 
-1. 单击 **[!UICONTROL 新建]** 并选择 **[!UICONTROL 新建本地资产]**.
+1. 单击&#x200B;**[!UICONTROL 新建]**&#x200B;并选择&#x200B;**[!UICONTROL 新建本地资产]**。
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. 选择 **[!UICONTROL 智能列表]**.
+1. 选择&#x200B;**[!UICONTROL 智能列表]**。
 
    ![](assets/add-person-to-blocklist-2.png)
 
-1. 命名您的列表，然后单击 **[!UICONTROL 创建]**.
+1. 命名您的列表，然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/add-person-to-blocklist-3.png)
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
    ![](assets/add-person-to-blocklist-5.png)
 
-1. 单击 **[!UICONTROL 新建]** 并选择 **[!UICONTROL 新建智能营销活动]**.
+1. 单击&#x200B;**[!UICONTROL 新建]**，然后选择&#x200B;**[!UICONTROL 新建Smart Campaign]**。
 
    ![](assets/add-person-to-blocklist-6.png)
 
@@ -49,7 +49,7 @@ ht-degree: 1%
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. 拖放 **[!UICONTROL 智能列表的成员]**.
+1. 拖放智能列表&#x200B;]**的**[!UICONTROL &#x200B;成员。
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,23 +57,23 @@ ht-degree: 1%
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. 单击 **[!UICONTROL 流量]** 选项卡。 拖放 **[!UICONTROL 更改数据值]** 流程操作。
+1. 单击&#x200B;**[!UICONTROL 流量]**&#x200B;选项卡。 拖放&#x200B;**[!UICONTROL 更改数据值]**&#x200B;流程操作。
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. 在 **[!UICONTROL 属性]** 下拉选择 **[!UICONTROL 已列出阻止]** 并设置 **[!UICONTROL 新值]** 到 **[!UICONTROL true]**.
+1. 在&#x200B;**[!UICONTROL 属性]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL 已列出]**&#x200B;块，并将&#x200B;**[!UICONTROL 新值]**&#x200B;设置为&#x200B;**[!UICONTROL true]**。
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. 单击 **[!UICONTROL 计划]** 选项卡并选择 **[!UICONTROL 运行一次]**.
+1. 单击&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡并选择&#x200B;**[!UICONTROL 运行一次]**。
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. 选择 **[!UICONTROL 立即运行]** 并单击 **[!UICONTROL 运行]**.
+1. 选择&#x200B;**[!UICONTROL 立即运行]**，然后单击&#x200B;**[!UICONTROL 运行]**。
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. 单击 **[!UICONTROL 运行]** 再来一次。
+1. 再次单击&#x200B;**[!UICONTROL 运行]**。
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ ht-degree: 1%
 
 >[!TIP]
 >
->创建 [触发营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} 使用 **更改数据值** 替换为 **列入阻止为true** 面向所有未来具有阻止列表属性的人。
+>使用&#x200B;**更改数据值**&#x200B;创建一个[触发器营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}，其中列出的&#x200B;**块为true**，适用于将来具有可阻止列表属性的所有人员。

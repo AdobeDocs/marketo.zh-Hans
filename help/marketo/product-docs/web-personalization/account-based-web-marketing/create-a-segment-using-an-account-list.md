@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[创建新的帐户列表](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. 转到 **区段**.
+1. 转到&#x200B;**区段**。
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. 单击 **新建**.
+1. 单击&#x200B;**新建**。
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. 输入段名称。 拖放 **帐户列表** 从 **Firmographics** 部分。
+1. 输入段名称。 从&#x200B;**Firmographics**&#x200B;部分拖放&#x200B;**帐户列表**。
 
    ![](assets/set-segment-hands.jpg)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >帐户列表会从ABM同步到Web个性化，以便在分段中使用。 从下拉列表中选择它们。 同步过程最多可能需要五分钟。 仅当帐户列表中存在一个或多个指定帐户时，它才会同步。
+   >帐户列表会从ABM同步到Web Personalization，以便用于分段。 从下拉列表中选择它们。 同步过程最多可能需要五分钟。 仅当帐户列表中存在一个或多个指定帐户时，它才会同步。
 
-1. 单击 **保存**，或单击 **保存并定义营销活动** 以转到“营销活动”页面。
+1. 单击&#x200B;**保存**，或单击&#x200B;**保存并定义营销活动**&#x200B;以转到“营销活动”页面。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

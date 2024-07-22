@@ -6,7 +6,7 @@ exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ ht-degree: 0%
 >
 >远程卸载插件将强制关闭用户计算机上的Outlook。
 
-请参考 [Microsoft的交换机完整列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您希望尝试不同的日志记录级别或用户界面级别。
+如果要尝试不同的日志记录级别或用户界面级别，请参阅[Microsoft的完整交换机列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)。

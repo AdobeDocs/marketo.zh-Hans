@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 拖放宽度 {#drag-and-drop-the-width}
 
-1. 在 [表单编辑器](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)，选择要调整大小的字段。
+1. 在[表单编辑器](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)中，选择要调整大小的字段。
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 

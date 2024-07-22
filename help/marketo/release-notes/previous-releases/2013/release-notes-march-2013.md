@@ -6,7 +6,7 @@ exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Marketo日历文件 {#marketo-calendar-files}
 
-创建日历文件作为 **我的令牌** 用于事件确认和提醒电子邮件中。 此集成的日历文件（例如.ics文件）将渲染所有令牌，包括“我的令牌”和 `{{member.webinar URL}}` 令牌。
+创建日历文件作为&#x200B;**我的令牌**，用于事件确认和提醒电子邮件中。 此集成的日历文件（如.ics文件）将渲染所有令牌，包括“我的令牌”和`{{member.webinar URL}}`令牌。
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

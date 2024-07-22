@@ -6,7 +6,7 @@ exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ SFDC中的查找字段会同步ID，但不会同步引用的名称。
 
 ## SFDC公式字段呢？ {#what-about-sfdc-formula-fields}
 
-公式字段已同步，但在更新之前，不会同步公式中引用的更新 [系统模块图章](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}.
+公式字段已同步，但在更新[系统模块戳](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}之前，不会同步对公式中引用的更新。
 
 ## 从Salesforce中删除之前与Marketo同步的字段时会发生什么情况？ {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 

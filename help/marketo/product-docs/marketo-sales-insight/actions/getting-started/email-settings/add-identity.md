@@ -22,19 +22,19 @@ ht-degree: 0%
 
    ![](assets/add-identity-1.png)
 
-1. 单击 **电子邮件设置**.
+1. 单击&#x200B;**电子邮件设置**。
 
    ![](assets/add-identity-2.png)
 
-1. 单击 **添加身份**.
+1. 单击&#x200B;**添加标识**。
 
    ![](assets/add-identity-3.png)
 
-1. 输入信息（电子邮件和名称是必填字段），然后单击 **创建**.
+1. 输入信息（电子邮件和名称是必填字段），然后单击&#x200B;**创建**。
 
    ![](assets/add-identity-4.png)
 
-1. 然后，您将收到“请验证电子邮件地址”电子邮件。 要进行验证，请单击 **验证电子邮件地址**.
+1. 然后，您将收到“请验证电子邮件地址”电子邮件。 若要验证，请单击&#x200B;**验证电子邮件地址**。
 
    ![](assets/add-identity-5.png)
 
@@ -46,4 +46,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[添加或更新您的电子邮件签名](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).
+>[添加或更新您的电子邮件签名](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)。

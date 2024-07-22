@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能仅在初次同步到Salesforce之前才可访问。 一旦 **[!UICONTROL 立即同步]** 按钮时，无法再执行此操作。
+>此功能仅在初次同步到Salesforce之前才可访问。 按下&#x200B;**[!UICONTROL 立即同步]**&#x200B;按钮后，无法再执行此操作。
 
 在首次同步到Salesforce期间，Marketo Engage会自动将名称类似的自定义字段组合到Marketo端的单个字段中，以确保数据可以与CRM中的Lead和Contact对象交换。 本文介绍如何自定义这些映射。
 
 ## 映射未映射的字段 {#map-unmapped-fields}
 
-当您在中看到字段 [!UICONTROL 未映射字段] 文件夹，这意味着它未映射到Salesforce中的Lead或Contact上的类似字段。 你可以解决的。
+当您在[!UICONTROL 未映射的字段]文件夹中看到某个字段时，这意味着该字段未映射到Salesforce中的潜在客户或联系人上的类似字段。 你可以解决的。
 
-1. 单击 **[!UICONTROL 编辑映射]**.
+1. 单击&#x200B;**[!UICONTROL 编辑映射]**。
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. 打开 **[!UICONTROL 未映射的自定义字段]** 文件夹。
+1. 打开&#x200B;**[!UICONTROL 未映射的自定义字段]**&#x200B;文件夹。
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 单击 **[!UICONTROL 完成映射]** 完成时。
+1. 完成后，单击&#x200B;**[!UICONTROL 完成映射]**。
 
    ![](assets/four.png)
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
 如果您在潜在客户和联系人对象中具有名称相似的字段，Marketo会自动将它们映射到一起。 您可能会认为它们是不同的并包含不同的数据。 像这样中断映射。
 
-1. 单击 **[!UICONTROL 编辑映射]**.
+1. 单击&#x200B;**[!UICONTROL 编辑映射]**。
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. 突出显示映射的字段并单击 **[!UICONTROL 中断映射]** 以分隔字段。
+1. 突出显示映射的字段，然后单击&#x200B;**[!UICONTROL Break Mapping]**&#x200B;以分隔字段。
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. 单击 **[!UICONTROL 完成映射]** 等你完事了。
+1. 完成后，单击&#x200B;**[!UICONTROL 完成映射]**。
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 重置架构 {#reset-schema}
 
-1. 如果在处理映射时对Salesforce中的架构进行了一些更改，则可以通过单击 **[!UICONTROL 重置架构]**.
+1. 如果您在处理映射时对Salesforce中的架构进行了一些更改，则可以通过单击&#x200B;**[!UICONTROL 重置架构]**&#x200B;来提取这些更改。
 
    * 将重置所有映射更改！
    * 重置架构只会添加字段，而不会删除字段（即使您对同步用户隐藏了字段）。

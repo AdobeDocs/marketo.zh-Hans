@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->签出 [了解标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 以了解更多信息。
+>有关详细信息，请查看[了解标记](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)。
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 要创建新标记类型，请执行以下操作：
 
-1. 转到 **[!UICONTROL 管理员]** 部分。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;部分。
 
    ![](assets/create-custom-tags-1.png)
 
-1. 单击 **[!UICONTROL 标记]**.
+1. 单击&#x200B;**[!UICONTROL 标记]**。
 
    ![](assets/create-custom-tags-2.png)
 
-1. 单击 **[!UICONTROL 新建]** 并选择 **[!UICONTROL 新标记类型]**.
+1. 单击&#x200B;**[!UICONTROL 新建]**&#x200B;并选择&#x200B;**[!UICONTROL 新建标记类型]**。
 
    ![](assets/create-custom-tags-3.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/create-custom-tags-4.png)
 
-1. 为标签类型输入所需的值。 单击 **[!UICONTROL 添加其他]** 以输入附加值。
+1. 为标签类型输入所需的值。 单击&#x200B;**[!UICONTROL 添加其他]**&#x200B;以输入其他值。
 
    ![](assets/create-custom-tags-5.png)
 
@@ -57,12 +57,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* 选择“[!UICONTROL 必填]”如果您希望随时添加新标记。
-   >* 从“ ”中删除程序类型[!UICONTROL 应用于]”列表将从该类型的所有现有程序中删除标记及其值。 如果要保留现有标记值，并将此标记设为向前移动的可选标记 _所有_ 列出程序类型，将“必需”复选框保留为未选中状态。
+   >* 如果要随时添加新标记，请选择“[!UICONTROL 必需]”。
+   >* 从“[!UICONTROL 应用于]”列表中删除程序类型将删除该类型的所有现有程序中的标记及其值。 如果要保留现有标记值，并为列出&#x200B;_所有_&#x200B;程序类型将此标记设为可选标记，请将“必需”复选框保留为未选中状态。
 
    >[!TIP]
    >
-   >如果要使类似的标记对于某些程序类型是必需的，但对于其他程序类型是可选的，您需要设置两个单独的标记，每个标记应用于不同的程序类型，一个带有&quot;[!UICONTROL 必填]已选中“，而另一个具有“[!UICONTROL 必填]未选择“”。
+   >如果要使类似的标记对于某些程序类型是必需的，但对于其他程序类型是可选的，则需要设置两个单独的标记，每个标记应用于不同的程序类型，其中一个标记为“[!UICONTROL 必需]”已选中，而另一个标记为“[!UICONTROL 必需]”未选中。
 
 1. 单击&#x200B;**[!UICONTROL 创建]**。
 

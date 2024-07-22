@@ -6,7 +6,7 @@ exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Content Analytics页面可显示您从网站搜索到的现有内容（案例研
 
 ## 查看内容分析 {#view-content-analytics}
 
-转到 **内容分析**.
+转到&#x200B;**Content Analytics**。
 
 ![](assets/one.png)
 
@@ -45,11 +45,11 @@ Analytics表提供了以下详细信息：
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>标题</strong></td> 
-   <td colspan="1" rowspan="1">数字内容资产的名称。 单击 <strong>标题</strong> 以在新选项卡中打开内容URL。</td> 
+   <td colspan="1" rowspan="1">数字内容资产的名称。 单击<strong>标题</strong>以在新选项卡中打开内容URL。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>推荐 </strong><strong>图标</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">表示是否已为添加内容块 <a href="#">内容Recommendations</a>.</td> 
+   <td colspan="1"><p><strong>推荐</strong><strong>图标</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1">表示是否已为<a href="#">内容Recommendations</a>添加该内容块。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>视图</strong></p></td> 
@@ -84,13 +84,13 @@ Analytics表提供了以下详细信息：
 
 **Analytics**
 
-* **视图**：所选时间范围内该内容段的视图
+* **个视图**：所选时间范围中该内容段的视图
 * **直接转化**：在同一次访问中查看了内容并填写了表单的Web访客。
 * **转化率****：**由直接转化除以点击量计算的百分比转化率
 
 **趋势**
 
-* A **趋势** 显示特定内容块最近30天的查看次数的图形。 将鼠标悬停在折线图上可查看特定日期的内容查看次数
+* 显示特定内容片段过去30天视图的&#x200B;**趋势**&#x200B;图。 将鼠标悬停在折线图上可查看特定日期的内容查看次数
 
 ## 删除内容 {#delete-content}
 
@@ -101,4 +101,4 @@ Analytics表提供了以下详细信息：
 >[!MORELIKETHIS]
 >
 >* [启用内容推荐栏](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [为Web富媒体启用预测内容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [启用Web富媒体的预测内容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

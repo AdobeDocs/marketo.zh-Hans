@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->深入了解 [计划会员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>深入了解[计划会员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}。
 
 ## 搜索成员 {#search-for-a-member}
 
 在成员部分的底部，使用搜索字段按名称、电子邮件、职称或公司搜索计划成员。
 
-1. 单击 **[!UICONTROL 成员]** 选项卡中。
+1. 单击程序的&#x200B;**[!UICONTROL 成员]**&#x200B;选项卡。
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
 ## 选择在网格中可见的列 {#choose-which-columns-are-visible-in-the-grid}
 
-1. 单击 **[!UICONTROL 视图]** 下拉并选择 **[!UICONTROL 创建视图]**.
+1. 单击&#x200B;**[!UICONTROL 视图]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL 创建视图]**。
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 命名您的自定义视图。 选择列标题。 单击 **[!UICONTROL 添加]** 和 **[!UICONTROL 移除]** 以移动列并创建视图。
+1. 命名您的自定义视图。 选择列标题。 单击&#x200B;**[!UICONTROL 添加]**&#x200B;和&#x200B;**[!UICONTROL 删除]**&#x200B;以移动列并创建视图。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 筛选成员网格  {#filter-the-members-grid}
 
-1. 单击 **[!UICONTROL 筛选]** 下拉列表，并选择要作为排序依据的进度步骤。
+1. 单击&#x200B;**[!UICONTROL 筛选器]**&#x200B;下拉列表并选择要作为排序依据的进度步骤。
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ ht-degree: 0%
 
 您可以在成员网格中更改人员的状态。
 
-1. 按住 **[!UICONTROL Ctrl/Cmd]** 选择人员。
+1. 按住&#x200B;**[!UICONTROL Ctrl/Cmd]**&#x200B;并选择联系人。
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. 单击 **[!UICONTROL 更改状态]** 下拉列表并选择状态。
+1. 单击&#x200B;**[!UICONTROL 更改状态]**&#x200B;下拉列表并选择状态。
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
@@ -87,4 +87,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[创建计划绩效报表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>[创建项目性能报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

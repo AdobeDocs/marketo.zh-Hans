@@ -15,15 +15,15 @@ ht-degree: 0%
 
 使用条目类型、程序标记或工作区过滤日历上显示的信息。
 
-1. 单击 **[!UICONTROL 日历]** 磁贴。
+1. 单击&#x200B;**[!UICONTROL 日历]**&#x200B;拼贴。
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. 单击 **[!UICONTROL 条目类型]** 下拉菜单。
+1. 单击&#x200B;**[!UICONTROL 条目类型]**&#x200B;下拉列表。
 
    >[!NOTE]
    >
-   >默认条目类型将为 **[!UICONTROL 电子邮件]** **[!UICONTROL 程序]** 和 **[!UICONTROL 包含电子邮件的智能营销活动]**.
+   >默认条目类型是&#x200B;**[!UICONTROL 电子邮件]** **[!UICONTROL 程序]**&#x200B;和带有电子邮件的智能营销活动&#x200B;]**。**[!UICONTROL 
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >有关标准条目类型的说明，请检出 [项目计划查看条目类型](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >有关标准条目类型的说明，请查看[程序计划视图条目类型](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}。
 
 1. 选择您感兴趣的项目标记。
 
@@ -47,4 +47,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[在营销日历中保存过滤器定义](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[在营销日历中保存筛选器定义](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

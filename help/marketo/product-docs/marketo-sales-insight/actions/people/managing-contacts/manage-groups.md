@@ -32,7 +32,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>动态组</td> 
-   <td>我的联系人：您拥有的所有联系人。<br>取消订阅：已选择退出接收信件的联系人。</td> 
+   <td>我的联系人：您拥有的所有联系人。<br>取消订阅：已选择退出接收通信的联系人。</td> 
   </tr> 
   <tr> 
    <td>我的组</td> 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
 ## 创建组 {#create-a-group}
 
-1. 在“人员”页面中，单击 **+** “组”旁边。
+1. 在“人员”页面中，单击“组”旁边的&#x200B;**+**。
 
    ![](assets/manage-groups-1.png)
 
-1. 命名您的群组并单击 **创建**.
+1. 命名您的群组，然后单击&#x200B;**创建**。
 
    ![](assets/manage-groups-2.png)
 
@@ -63,15 +63,15 @@ ht-degree: 0%
 
    ![](assets/manage-groups-3.png)
 
-1. 单击 **组操作** 并选择 **创建联系人并添加到组**.
+1. 单击&#x200B;**组操作**&#x200B;并选择&#x200B;**创建联系人并添加到组**。
 
    ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
-   >这将一次添加一个联系人。 要同时添加多个联系人，请按照 [这些步骤](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
+   >这将一次添加一个联系人。 要同时添加多个联系人，请执行[这些步骤](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)。
 
-1. 填写联系人信息并单击 **创建** (或 **创建和新增** 以添加另一个)。
+1. 填写联系人信息，然后单击&#x200B;**创建**（或单击&#x200B;**创建并添加新项**&#x200B;以添加其他项）。
 
    ![](assets/manage-groups-5.png)
 
@@ -87,15 +87,15 @@ ht-degree: 0%
 
    ![](assets/manage-groups-6.png)
 
-1. 单击圆点（三个垂直的点）并选择 **共享**.
+1. 单击圆点（三个垂直点）并选择&#x200B;**共享**。
 
    ![](assets/manage-groups-7.png)
 
-1. 单击下拉列表，选择要与其共享组的团队，然后单击 **共享**.
+1. 单击下拉列表，选择要与其共享组的团队，然后单击&#x200B;**共享**。
 
    ![](assets/manage-groups-8.png)
 
-   您仍拥有该组，但它现在将显示在下 _团队组_.
+   您仍拥有该组，但它现在将显示在&#x200B;_团队组_&#x200B;下。
 
 ## 取消共享组 {#unshare-a-group}
 
@@ -103,11 +103,11 @@ ht-degree: 0%
 
    ![](assets/manage-groups-9.png)
 
-1. 单击圆点（三个垂直的点）并选择 **共享**.
+1. 单击圆点（三个垂直点）并选择&#x200B;**共享**。
 
    ![](assets/manage-groups-10.png)
 
-1. 单击 **X** 在与您共享该组的团队旁边，然后单击退出该模式。
+1. 单击您与其共享该组的团队旁边的&#x200B;**X**，然后单击退出该模式窗口。
 
    ![](assets/manage-groups-11.png)
 
@@ -119,11 +119,11 @@ ht-degree: 0%
 
    ![](assets/manage-groups-12.png)
 
-1. 单击圆点（三个垂直的点）并选择 **编辑**.
+1. 单击圆点（三个垂直的点）并选择&#x200B;**编辑**。
 
    ![](assets/manage-groups-13.png)
 
-1. 键入新名称并单击 **保存**.
+1. 键入新名称，然后单击&#x200B;**保存**。
 
    ![](assets/manage-groups-14.png)
 
@@ -133,10 +133,10 @@ ht-degree: 0%
 
    ![](assets/manage-groups-15.png)
 
-1. 单击圆点（三个垂直的点）并选择 **删除**.
+1. 单击圆点（三个垂直的点）并选择&#x200B;**删除**。
 
    ![](assets/manage-groups-16.png)
 
-1. 单击 **删除** 以确认。
+1. 单击&#x200B;**删除**&#x200B;以确认。
 
    ![](assets/manage-groups-17.png)

@@ -49,11 +49,11 @@ linkedIn对其开发人员计划进行了一些重大更改。 作为这些更�
 
 ## 在哪里可以找到有关LinkedIn API政策的更多信息？ {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
-请访问以下链接，详细了解LinkedIn对其API策略所做的更改： [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
+请访问以下链接，以详细了解LinkedIn对其API策略所做的更改：[https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
 ## 有问题时如何联系LinkedIn？ {#how-can-i-contact-linkedin-with-questions}
 
-单击此链接，联系LinkedIn了解其营销解决方案： [https://business.linkedin.com/marketing-solutions/contact-us](https://business.linkedin.com/marketing-solutions/contact-us)
+按照此链接联系LinkedIn以了解其营销解决方案：[https://business.linkedin.com/marketing-solutions/contact-us](https://business.linkedin.com/marketing-solutions/contact-us)
 
 ## 如果Marketo在4月28日从我的表单中删除了此功能，那么我的表单和受影响的登陆页面是否会进入草稿模式？ {#if-marketo-removed-this-functionality-from-my-forms-on-april-were-my-forms-and-the-affected-landing-pages-put-into-draft-mode}
 

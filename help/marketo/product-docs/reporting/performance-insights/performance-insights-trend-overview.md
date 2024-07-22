@@ -6,7 +6,7 @@ exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 趋势显示在一段时间内的渠道性能。
 
-单击 **趋势** 选项卡访问此视图。
+单击&#x200B;**趋势**&#x200B;选项卡访问此视图。
 
 ![](assets/1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过以下方式赢得的机会 [首次接触](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过[首次联系](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)赢得的机会。
 
 ![](assets/3-2.png)
 

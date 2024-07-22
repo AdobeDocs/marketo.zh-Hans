@@ -6,7 +6,7 @@ exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >本文会介绍如何使用旧的Google Standard Analytics，但我们建议您切换到Universal Analytics。
 >
->如果您尚未使用 [analytics.js跟踪代码](https://developers.google.com/analytics/devguides/collection/analyticsjs/)，Google强烈建议您重新标记网站以使用它。 Google将弃用以下内容：
+>如果您尚未使用[analytics.js跟踪代码](https://developers.google.com/analytics/devguides/collection/analyticsjs/)，Google强烈建议您重新标记网站以使用它。 Google将弃用以下内容：
 >
 >* ga.js
 >* urchin.js
@@ -28,13 +28,13 @@ ht-degree: 0%
 >* 自定义变量
 >* 用户定义的变量
 >
->了解如何集成 [使用Universal Analytics进行Web个性化](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>了解如何将[Web Personalization与Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)集成
 
-## 介绍 {#introduction}
+## 简介 {#introduction}
 
-使用从Marketo实时个性化(RTP)到Google Analytics(GA)帐户的直接数据流，从新的角度分析您的Web分析。 根据组织、行业和RTP促销活动衡量GA中的Web访问量。 查看量度，例如GA中的行业类型或RTP区段，以及它们如何根据不同的流量源（社交、付费、有机）执行和生成商机，分析促销活动的点击率，以及衡量个性化促销活动对您网站的影响。 利用这一能力，从您的RTP帐户中获得最大的好处
+使用从Marketo Real-Time Personalization (RTP)到Google Analytics(GA)帐户的直接数据流，从新的角度分析您的Web分析。 根据组织、行业和RTP促销活动衡量GA中的Web访问量。 查看量度，例如GA中的行业类型或RTP区段，以及它们如何根据不同的流量源（社交、付费、有机）执行和生成商机，分析促销活动的点击率，以及衡量个性化促销活动对您网站的影响。 利用这一能力，从您的RTP帐户中获得最大的好处
 
-**RTPAUDIENCE ANALYTICS**
+**RTPAudience Analytics**
 
 通过集成，您可以在GA帐户中创建一个新维度。 RTP通过以下方式自动增强您的功能板：
 
@@ -64,32 +64,32 @@ RTP B2B仪表板可帮助您根据垂直和RTP分段了解访客的细分情况�
 
 ## 使用Google Analytics设置RTP {#setting-up-rtp-with-google-analytics}
 
-1. 将电子邮件rtp.ga2@gmail.com作为读取和分析用户添加到您的GA帐户。 有关更多详细信息，请参阅 [此处](https://support.google.com/analytics/answer/2884495?hl=en).
+1. 将电子邮件rtp.ga2@gmail.com作为读取和分析用户添加到您的GA帐户。 有关详细信息，请参阅[此处](https://support.google.com/analytics/answer/2884495?hl=en)。
 
-1. 在您的RTP帐户中。 转到 **帐户设置**.
+1. 在您的RTP帐户中。 转到&#x200B;**帐户设置**。
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. 下 **帐户设置**， **域** 和 **分析**.
+1. 在&#x200B;**帐户设置**、**域**&#x200B;和&#x200B;**Analytics**&#x200B;下。
 
-1. 单击 **Google Analytics**.
+1. 单击&#x200B;**Google Analytics**。
 
-1. 打开相关 **自定义变量** 和 **活动** 将此数据从RTP附加到Google Analytics。
+1. 打开相关的&#x200B;**自定义变量**&#x200B;和&#x200B;**事件**&#x200B;以将此数据从RTP附加到Google Analytics。
 
-1. 输入 **插槽** 用于发送自定义变量数据的数量（默认值为1,2）。
+1. 输入&#x200B;**插槽**&#x200B;编号以发送自定义变量数据（默认值为1,2）。
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
 >[!NOTE]
 >
->要将区段数据发送到GA，请在 [“编辑区段”页面](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) 在RTP平台中，选中复选框 **在区段匹配时向Google Analytics发送事件**.
+>要将区段数据发送到GA，请在RTP平台的[编辑区段页面](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)下，选中复选框&#x200B;**在区段匹配时将事件发送到Google Analytics**。
 
 ## 使用RTP数据设置Google Analytics报表 {#setting-up-google-analytics-reports-with-rtp-data}
 
 在Google Analytics中，您可以使用功能板、GA分段和报表来查看RTP数据：
 
-* [仪表板](https://support.google.com/analytics/answer/1068216?hl=en) 提供网站性能的概述。
-* GA区段用于在GA界面中过滤访客，并查看每个区段的流量。 了解如何构建区段 [此处](https://support.google.com/analytics/answer/3124493?hl=en).
-* 正在创建 [自定义报表](https://support.google.com/analytics/answer/1033013?hl=en) 查看和/或设置计划的电子邮件。 请参阅“自定义”>“新建自定义报表”下的。
+* [功能板](https://support.google.com/analytics/answer/1068216?hl=en)提供网站性能的概述。
+* GA区段用于在GA界面中过滤访客，并查看每个区段的流量。 在[此处](https://support.google.com/analytics/answer/3124493?hl=en)查看如何生成区段。
+* 正在创建[自定义报告](https://support.google.com/analytics/answer/1033013?hl=en)以查看和/或设置计划的电子邮件。 请参阅“自定义”>“新建自定义报表”下的。

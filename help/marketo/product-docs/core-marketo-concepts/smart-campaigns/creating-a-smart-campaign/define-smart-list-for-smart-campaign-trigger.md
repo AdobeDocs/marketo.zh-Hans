@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >对活动营销活动进行智能列表或流程步骤编辑可能会破坏其功能。 如果您选择这么做，请谨慎操作。
 
-1. 在Smart Campaign中，单击 **[!UICONTROL 智能列表]** 选项卡。
+1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL 智能列表]**&#x200B;选项卡。
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >带有触发器的Smart Campaign在中运行 _触发器_ 模式。 它根据触发的事件和任何其他过滤器，每次只针对一个人运行。
+   >带有触发器的Smart Campaign在&#x200B;_触发器_&#x200B;模式下运行。 它根据触发的事件和任何其他过滤器，每次只针对一个人运行。
 
    >[!IMPORTANT]
    >
@@ -53,10 +53,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >对于多个触发器，如果符合以下条件，人员会完成该流程 _任意_ 其中一个触发器被激活。
+   >对于多个触发器，如果激活了&#x200B;_ANY_&#x200B;其中一个触发器，则人员会通过流程。
 
-要同时对一组人员运行活动，请了解如何 [为Smart Campaign定义智能列表 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+若要同时对一组人员运行营销活动，请了解如何[为智能营销活动定义智能列表 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >
->[向智能营销活动添加流量步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>[向智能营销活动添加流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

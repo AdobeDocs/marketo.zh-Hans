@@ -6,7 +6,7 @@ exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 创建Web营销活动以实时个性化您的Web内容，并在适当的时间向适当的用户提供适当的消息。
 
-Web营销活动是与特定区段关联的自定义反应。 响应可以是您网站上的对话框，也可以是 [区域替换中](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)， a [构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) 或电子邮件通知。
+Web营销活动是与特定区段关联的自定义反应。 响应可以是您网站上的对话框、区域替换](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、[构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或电子邮件警报。
 
-1. 转到 **Web营销活动**.
+1. 转到&#x200B;**网络营销活动**。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. 选择 **新建Web营销活动**.
+1. 选择&#x200B;**新建Web营销活动**。
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. 选择 **对话框** Web营销活动类型。 在编辑器中设计和添加您的创意。 单击 **预览** 以查看Web营销活动在您的网站上将如何反应。
+1. 选择&#x200B;**Dialog** Web营销活动类型。 在编辑器中设计和添加您的创意。 单击&#x200B;**预览**&#x200B;查看Web营销活动在您的网站上将如何反应。
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Web营销活动是与特定区段关联的自定义反应。 响应可以是您�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>显示于</strong></td> 
-   <td colspan="1">允许您 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">自定义时间和方式</a> 此时将显示您的Web营销活动。</td> 
+   <td colspan="1">允许您<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">自定义网络营销活动的显示时间和方式</a>。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>对话框样式</strong></td> 
@@ -111,15 +111,15 @@ Web营销活动是与特定区段关联的自定义反应。 响应可以是您�
   </tr> 
   <tr> 
    <td colspan="1"><strong>富文本编辑器</strong></td> 
-   <td colspan="1"><p>富文本编辑器允许设置文本格式、链接和插入图像。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">在此处了解更多信息</a>.</p></td> 
+   <td colspan="1"><p>富文本编辑器允许设置文本格式、链接和插入图像。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">在此阅读更多</a>。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>在站点上预览</strong></td> 
-   <td colspan="1">在启动营销活动之前进行预览。<br> 
+   <td colspan="1">在启动营销活动之前对其进行预览。<br> 
     <ul> 
      <li>URL — 输入营销活动将运行的示例URL，以查看营销活动实时效果的预览示例。</li> 
      <li>设备 — 按设备预览营销活动的显示方式：桌面、移动设备纵向、移动设备横向、平板电脑纵向、纵向横向。<br></li> 
-     <li>预览 — 单击 <strong>预览 </strong>打开示例URL的新窗口以查看营销活动的反应方式。 </li> 
+     <li>预览 — 单击<strong>预览</strong>可打开示例URL的新窗口，以查看营销活动的反应方式。 </li> 
      <li>共享 — 使用“共享”按钮向同事发送电子邮件，其中包含查看代理营销活动的链接。</li> 
     </ul></td> 
   </tr> 
@@ -128,31 +128,31 @@ Web营销活动是与特定区段关联的自定义反应。 响应可以是您�
 
 >[!TIP]
 >
->通过使用我们的 [内置模板](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 或按 [保存现有营销活动](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 作为模板供重复使用。
+>通过使用我们的[内置模板](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)或[将现有营销活动](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)另存为模板以供重复使用，加快并简化营销活动创建过程。
 
 ## 编辑Web活动 {#edit-a-web-campaign}
 
-1. 从 **Web营销活动** 页面，单击 **编辑** 在Web营销活动中。
+1. 从&#x200B;**Web营销活动**&#x200B;页面，单击Web营销活动上的&#x200B;**编辑**。
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->为了更便于查找所需的Web营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>若要更轻松地查找所需的Web营销活动，请使用[筛选功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 ## 预览Web活动 {#preview-a-web-campaign}
 
-1. 从 **Web营销活动** 页面，单击 **预览** 在要查看的Web营销活动上。
+1. 从&#x200B;**Web营销活动**&#x200B;页面，单击要查看的Web营销活动上的&#x200B;**预览**。
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
 ## 克隆Web营销活动 {#clone-a-web-campaign}
 
-请参阅 [克隆Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+请参阅[克隆Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
 ## 删除Web活动 {#delete-a-web-campaign}
 
-1. 从 **Web营销活动** 页面，单击 **删除** 要删除的Web营销活动上的日志。
+1. 在&#x200B;**Web营销活动**&#x200B;页面中，单击要删除的Web营销活动上的&#x200B;**删除**。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

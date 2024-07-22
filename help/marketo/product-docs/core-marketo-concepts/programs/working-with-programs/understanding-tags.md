@@ -7,7 +7,7 @@ feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->如果您想创建，请联系Marketo管理员 [自定义标记](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>如果要创建[自定义标记](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}，请联系Marketo管理员。
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 2%
 
 ## 渠道 {#channel}
 
-渠道用于报告您的 [成员](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} 已移动您的项目。 每个渠道都有一组进展状态和一个设置为等同成功的状态。
+渠道用于报告[成员](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}如何在您的项目中移动。 每个渠道都有一组进展状态和一个设置为等同成功的状态。
 
 >[!NOTE]
 >
@@ -62,4 +62,4 @@ ht-degree: 2%
 >[!MORELIKETHIS]
 >
 >* [创建自定义标记](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
->* [创建项目频道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
+>* [创建节目频道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

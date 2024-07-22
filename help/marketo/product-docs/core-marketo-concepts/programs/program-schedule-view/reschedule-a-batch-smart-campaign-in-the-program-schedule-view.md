@@ -23,10 +23,10 @@ ht-degree: 0%
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. 太棒了！ Smart Campaign已重新计划。 时间也可以从 **[!UICONTROL 日期]** 条目详细信息中的下拉列表。
+1. 太棒了！ Smart Campaign已重新计划。 时间也可以从条目详细信息中的&#x200B;**[!UICONTROL 日期]**&#x200B;下拉列表中进行更改。
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[从计划视图中重新计划整个项目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
+>[从计划视图重新计划整个计划](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

@@ -2,7 +2,8 @@
 description: 短信报告 — Marketo文档 — 产品文档
 title: 短信报告
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 ## 访问功能板 {#access-the-dashboard}
 
-1. 要查看报表，请选择所需的短信消息。 单击 **视图** 下拉并选择 **仪表板**.
+1. 要查看报表，请选择所需的短信消息。 单击&#x200B;**视图**&#x200B;下拉菜单并选择&#x200B;**仪表板**。
 
    ![](assets/sms-reporting-1.png)
 
@@ -31,7 +32,7 @@ ht-degree: 0%
 
 ![](assets/sms-reporting-3.png)
 
-### 概要 {#summary}
+### 摘要 {#summary}
 
 以百分比显示计算的跳出率。 将鼠标悬停在存档栏上，以查看按金额和百分比列出的投放率。 将鼠标悬停在栏的橙色跳出率部分上可查看软跳出率和硬跳出率金额/百分比。
 

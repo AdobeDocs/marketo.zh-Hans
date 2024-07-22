@@ -29,7 +29,7 @@ ht-degree: 0%
 
 此错误通常表示您有一个自定义域，我们无法路由到该域。 要解决此错误，请尝试先登录到要连接的Salesforce实例。 然后，完成连接到Salesforce的步骤。
 
-如果您尝试连接的实例是Salesforce沙盒域并且收到错误，则需要执行其他步骤以将实例更新为可与Salesforce沙盒兼容的实例。 [了解详情](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
+如果您尝试连接的实例是Salesforce沙盒域并且收到错误，则需要执行其他步骤以将实例更新为可与Salesforce沙盒兼容的实例。 [了解更多](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}。
 
 ## 已阻止解析Oauth应用程序 {#resolve-oauth-app-blocked}
 
@@ -38,16 +38,16 @@ ht-degree: 0%
 ### 在用户权限中启用API {#enable-api-in-user-permissions}
 
 1. 让Salesforce管理员登录Salesforce。
-1. 选择 **设置**.
-1. 选择 **管理用户**.
-1. 选择 **配置文件**.
-1. 找到ToutApp用户位于下的配置文件，然后单击 **编辑**.
-1. 向下滚动到 **管理权限** 并确保 **API已启用** 已选中。
+1. 选择&#x200B;**设置**。
+1. 选择&#x200B;**管理用户**。
+1. 选择&#x200B;**配置文件**。
+1. 查找ToutApp用户所属的配置文件，然后单击&#x200B;**编辑**。
+1. 向下滚动到&#x200B;**管理权限**&#x200B;并确保选中&#x200B;**已启用API**。
 
 ### 检查Salesforce是否阻止连接Sales Insight操作 {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 
 1. 让Salesforce管理员登录Salesforce。
-1. 选择 **设置**.
-1. 选择 **管理应用程序**.
-1. 选择 **连接的应用程序OAuth使用情况**.
+1. 选择&#x200B;**设置**。
+1. 选择&#x200B;**管理应用程序**。
+1. 选择&#x200B;**连接的应用程序OAuth使用情况**。
 1. 确保Sales Insight Actions旁边显示“块”。 如果看到“取消阻止”，请单击按钮以取消阻止Sales Insight Actions访问Salesforce。

@@ -15,23 +15,23 @@ ht-degree: 0%
 
 有时，您可能需要保存默认报表才能稍后再次查看。 以下是具体操作方法：
 
-1. 转到 **分析** 区域。
+1. 转到&#x200B;**Analytics**&#x200B;区域。
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. 选择 [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. 选择[报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. 单击 **报表操作** 并选择 **另存为**.
+1. 单击&#x200B;**报告操作**&#x200B;并选择&#x200B;**另存为**。
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **保存到** 位置并选择 **文件夹**.
+1. **保存到**&#x200B;位置并选择&#x200B;**文件夹**。
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **名称** 报告并单击 **保存**.
+1. **为报告命名**，然后单击&#x200B;**保存**。
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->了解如何 [将报表克隆到组报表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>了解如何[将报告克隆到组报告](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)。

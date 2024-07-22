@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以轻松地手动将内容添加到“所有内容”页面。
 
-1. 单击 **添加内容** 下拉并选择 **添加内容**.
+1. 单击&#x200B;**添加内容**&#x200B;下拉列表，然后选择&#x200B;**添加内容**。
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. 单击 **添加**.
+1. 单击&#x200B;**添加**。
 
    ![](assets/all-content-add-hand.png)
 
-1. 新标题现在显示在 **所有内容** 页面。 请注意，它尚未被批准用于预测内容。
+1. 新标题现在显示在&#x200B;**所有内容**&#x200B;页面上。 请注意，它尚未被批准用于预测内容。
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. 以下是如何将其添加到 [预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
+1. 以下是如何将其添加到[预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)。

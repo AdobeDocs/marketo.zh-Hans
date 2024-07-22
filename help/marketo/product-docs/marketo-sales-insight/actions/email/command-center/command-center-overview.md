@@ -5,7 +5,7 @@ exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 1%
  <tr>
   <td>草稿</td>
   <td>已另存为草稿的电子邮件。<br/>
-  <strong>注意</strong>：只有单个电子邮件可以另存为草稿。 批量电子邮件（选择和发送电子邮件及群电子邮件）将不会另存为草稿。</td>
+  <strong>注意</strong>：只有一封电子邮件可以另存为草稿。 批量电子邮件（选择和发送电子邮件及群电子邮件）将不会另存为草稿。</td>
  </tr>
  <tr>
   <td>进行中</td>
@@ -60,12 +60,12 @@ ht-degree: 1%
  <tr>
   <td>已退回</td>
   <td>已从收件人电子邮件服务器拒绝的电子邮件。<br/>
-  <strong>注意</strong>：仅当您是旧版ToutApp用户并且有权将MSC服务器作为投放渠道访问时，才会检测到此情况。</td>
+  <strong>注意</strong>：仅当您是旧版ToutApp用户并且有权访问MSC服务器作为投放渠道时，才会检测到此情况。</td>
  </tr>
  <tr>
   <td>垃圾邮件</td>
   <td>收件人手动标记为垃圾邮件的电子邮件。<br/>
-  <strong>注意</strong>：仅当您是旧版ToutApp用户并且有权将MSC服务器作为投放渠道访问时，才会检测到此情况。</td>
+  <strong>注意</strong>：仅当您是旧版ToutApp用户并且有权访问MSC服务器作为投放渠道时，才会检测到此情况。</td>
  </tr>
 </table>
 

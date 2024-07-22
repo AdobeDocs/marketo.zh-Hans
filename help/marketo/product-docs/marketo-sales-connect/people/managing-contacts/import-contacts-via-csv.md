@@ -6,7 +6,7 @@ exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 单击 **组操作** 并选择 **导入CSV**.
+1. 单击&#x200B;**组操作**&#x200B;并选择&#x200B;**导入CSV**。
 
    ![](assets/two.png)
 
-1. 单击 **浏览**.
+1. 单击&#x200B;**浏览**。
 
    ![](assets/three.png)
 
@@ -33,10 +33,10 @@ ht-degree: 0%
    >
    >组限制为1000个联系人。
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
    ![](assets/four.png)
 
-1. 将CSV中的列映射到Sales Connect中各自的字段。 单击 **下一个** 完成时。
+1. 将CSV中的列映射到Sales Connect中各自的字段。 完成后单击&#x200B;**下一步**。
 
    ![](assets/five.png)

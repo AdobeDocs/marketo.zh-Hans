@@ -5,7 +5,7 @@ exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -16,29 +16,29 @@ ht-degree: 0%
 
 借助销售促销活动，您可以：
 
-* **组织**：在一个地方简化所有外联活动以实现高效执行。
-* **缩放**：安排所有外联工作，以便您可以扩大工作范围，最大程度地减少手动工作，并根据需要进行个性化。
-* **衡量**：在一个位置跟踪所有电子邮件和任务的成功，同时自动将其登录到Salesforce。 通过了解哪些因素能引起共鸣并导致结果，您可以持续测试和改进结果。
+* **组织**：在一个地方简化所有外联活动，以便有效执行。
+* **扩展**：计划所有外联工作，以便您可以根据需要扩展工作范围、最大程度地减少手动工作和进行个性化。
+* **度量**：在自动将您的所有电子邮件和任务登录到Salesforce时，在一个位置跟踪它们是否成功。 通过了解哪些因素能引起共鸣并导致结果，您可以持续测试和改进结果。
 
 那么，如何设置促销活动？
 
-1. 单击 **营销活动** 选项卡。
+1. 单击&#x200B;**营销活动**&#x200B;选项卡。
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. 选择类别并单击 **创建新营销活动** 按钮。
+1. 选择类别并单击&#x200B;**新建营销活动**&#x200B;按钮。
 
    ![](assets/create-a-sales-campaign-2.png)
 
    >[!NOTE]
    >
-   >通过单击 **+** 旁边 **类别**.
+   >通过单击&#x200B;**类别**&#x200B;旁边的&#x200B;**+**&#x200B;创建新类别。
 
-1. 将选择您选择的类别。 如果您改变了主意，请单击下拉菜单并选择另一个下拉菜单。 完成后，单击 **继续**.
+1. 将选择您选择的类别。 如果您改变了主意，请单击下拉菜单并选择另一个下拉菜单。 完成后，单击&#x200B;**继续**。
 
    ![](assets/create-a-sales-campaign-3.png)
 
-1. 单击 **添加步骤**.
+1. 单击&#x200B;**添加步骤**。
 
    ![](assets/create-a-sales-campaign-4.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. 当您 [使用完您的电子邮件](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}，单击 **添加**.
+1. 当您[完成电子邮件](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}时，请单击&#x200B;**添加**。
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -56,9 +56,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >“天”不是操作之间的间隔天数，而是序列中的天。 例如，如果您的促销活动将持续7天，则输入“3”意味着该操作将在7天的第3天结束， **非** 3天后。
+   >“天”不是操作之间的间隔天数，而是序列中的天。 例如，如果您的促销活动将持续7天，则输入“3”意味着该操作将在7天的第3天结束，**而不是** 3天后结束。
 
-1. 确保自定义计划和回复选项，如通过访问 **“设置”选项卡** 用于您的促销活动。
+1. 请确保通过访问促销活动的&#x200B;**设置选项卡**&#x200B;自定义计划和回复选项，例如跳过周末（这太棒了）。
 
    ![](assets/create-a-sales-campaign-8.png)
 

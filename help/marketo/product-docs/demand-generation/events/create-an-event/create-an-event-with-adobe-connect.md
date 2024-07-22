@@ -6,7 +6,7 @@ exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -18,37 +18,37 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [链接Adobe Connect和Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
->* [创建新的事件程序](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [创建新的活动计划](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-首先，确保您已在Adobe Connect中创建了会议或研讨会。 如果您需要帮助，请查看 [Adobe Connect用户指南](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+首先，确保您已在Adobe Connect中创建了会议或研讨会。 如果您需要帮助，请查看[Adobe Connect用户指南](https://help.adobe.com/en_US/connect/9.0/using/index.html)。
 
 您在Adobe Connect中创建的会议和研讨会必须在您在Marketo中输入凭据时指定的文件夹下创建。 创建会议或研讨会后，记下任何相关的后勤信息（如电话号码），以便在确认电子邮件和ICS文件中使用。
 
 >[!CAUTION]
 >
->作为事件主机，请确保从应用程序中加入，并且 **非** 通过发送给与会者的链接。
+>作为活动主持人，请确保从应用程序内加入，并且&#x200B;**不能通过发送给与会者的链接加入**。
 
 >[!NOTE]
 >
 >我们目前不支持现场Adobe Connect。
 
-1. 在新事件的主页上，选择 **事件操作**，然后 **事件设置**.
+1. 在新事件的主页上，选择&#x200B;**事件操作**，然后选择&#x200B;**事件设置**。
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >如果您没有看到 **事件设置** 在下拉列表中，确保事件的渠道具有 **网络研讨会活动** 在“应用于”下选中。
+   >如果您在下拉列表中未看到&#x200B;**事件设置**，请确保该事件的渠道在“应用于”下已选中&#x200B;**网络研讨会事件**。
 
-1. 下 **活动合作伙伴**，选择 **Adobe Connect**.
+1. 在&#x200B;**活动合作伙伴**&#x200B;下，选择&#x200B;**Adobe Connect**。
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. 选择您的 **登录** ID并选择 **事件**.
+1. 选择您的&#x200B;**登录** ID并选择您的&#x200B;**事件**。
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/event-settings-overview.png)
 
@@ -60,9 +60,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要将人员的唯一URL插入到电子邮件中，请使用此令牌： `{{member.webinar url}}`. 在发送电子邮件时，此令牌会自动从Adobe Connect中解析人员的唯一确认URL。
+   >若要将人员的唯一URL插入到电子邮件中，请使用此令牌： `{{member.webinar url}}`。 在发送电子邮件时，此令牌会自动从Adobe Connect中解析人员的唯一确认URL。
    >
-   >将确认电子邮件设置为 **可操作** 以确保已注册和可能取消订阅的人员仍会收到其确认信息。
+   >将您的确认电子邮件设置为&#x200B;**操作**，以确保注册和可能取消订阅的用户仍会收到其确认信息。
 
    当新状态设置为“已注册”时，注册您的网络研讨会的用户将通过“更改项目状态”流程步骤推送至您的网络研讨会提供商。 没有其他状态会将该人员推倒。 此外，请确保将“更改项目状态”流程步骤#1和“发送电子邮件”流程步骤#2设置为。
 
@@ -74,9 +74,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >数据可能需要48小时才能显示在Marketo中。 如果经过这么长的时间后仍未看到任何内容，请选择 **从网络研讨会提供商刷新** 从事件的“摘要”选项卡中的“事件操作”菜单。
+   >数据可能需要48小时才能显示在Marketo中。 如果经过这么长时间后仍未看到任何内容，请从事件的“摘要”选项卡的“事件操作”菜单中选择&#x200B;**从网络研讨会提供程序刷新**。
 
    >[!MORELIKETHIS]
    >
    >* [将Adobe Connect添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   >* [编辑事件渠道](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   >* [编辑事件频道](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)

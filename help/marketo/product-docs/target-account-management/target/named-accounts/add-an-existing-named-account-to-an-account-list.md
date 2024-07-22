@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这仅适用于帐户列表， **非** 动态帐户列表。
+>这仅适用于帐户列表，**而不是**&#x200B;动态帐户列表。
 
 1. 选择要添加到的命名帐户的行。
 
    ![](assets/four-1.png)
 
-1. 单击 **指定帐户操作** 下拉并选择 **添加到帐户列表**.
+1. 单击&#x200B;**命名帐户操作**&#x200B;下拉列表，然后选择&#x200B;**添加到帐户列表**。
 
    ![](assets/five-1.png)
 
-1. 单击 **帐户列表** 从下拉列表中选择所需的帐户列表，然后单击 **添加**.
+1. 单击&#x200B;**帐户列表**&#x200B;下拉列表，选择所需的帐户列表，然后单击&#x200B;**添加**。
 
    ![](assets/six-1.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[创建指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[创建命名帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

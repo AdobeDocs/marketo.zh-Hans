@@ -6,7 +6,7 @@ exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 首先检查您是否已设置正确的选取列表值。 您需要Salesforce管理员的帮助才能对选择列表进行任何更改。
 
-1. 导航到 [Salesforce.com](https://salesforce.com) 然后单击右上角的设置。
+1. 导航到[Salesforce.com](https://salesforce.com)，然后单击右上角的“设置”。
 1. 单击“自定义”。
 1. 单击“活动”。
 1. 单击“任务字段”。
@@ -38,8 +38,8 @@ ht-degree: 0%
 1. 您现在位于任务类型选择列表。 确保未选择“默认”。
 1. 确保为“电子邮件”、“呼叫”和“回复”列出“类型”值。
 
-现在，您已完成，接下来会看到类型字段填充了记录的电子邮件、呼叫和回复的相应值。 这些值将 _非_ 在Sales Connect提醒任务上填充。
+现在，您已完成，接下来会看到类型字段填充了记录的电子邮件、呼叫和回复的相应值。 Sales Connect提醒任务将&#x200B;_不填充_&#x200B;这些值。
 
 >[!NOTE]
 >
->如果您未看到“回复”值，请单击以添加该值 **新建**. “回复”不是Salesforce中的标准值。
+>如果您未看到“回复”作为值，请单击&#x200B;**新建**&#x200B;以添加它。 “回复”不是Salesforce中的标准值。

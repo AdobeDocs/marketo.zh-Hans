@@ -71,15 +71,15 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-商机和人员 **都是同样的事**.
+潜在客户和人员&#x200B;**是同一回事**。
 
 ## 令牌 {#tokens}
 
-包含单词lead的令牌 **未更改**. 很抱歉会造成任何混淆；但是，更改所有令牌以匹配新术语会破坏当前正在使用的令牌。 因此您仍将会看到“`{{lead.First Name}}`“ 没有特定于人员的令牌。
+包含单词lead **的令牌未更改**。 很抱歉会造成任何混淆；但是，更改所有令牌以匹配新术语会破坏当前正在使用的令牌。 因此您仍会看到“`{{lead.First Name}}`”之类的令牌。 没有特定于人员的令牌。
 
 >[!NOTE]
 >
->那里 *是* 一个名为“人员备注”的令牌，但该令牌始终存在。 它通常用于CRM中的描述字段（如果有的话）。
+>*有*&#x200B;个名为“人员笔记”的令牌，但该令牌始终存在。 它通常用于CRM中的描述字段（如果有的话）。
 
 ## 字段管理 {#field-management}
 
@@ -110,9 +110,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->有关受影响的字段名称的完整列表，请访问此 [支持文章](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
+>有关受影响的字段名称的完整列表，请访问此[支持文章](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}。
 
-## 实时个性化(RTP)现在更名为Web个性化 {#real-time-personalization-rtp-is-now-web-personalization}
+## 实时Personalization (RTP)现在更名为Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,10 +139,10 @@ ht-degree: 1%
 
 除了名称更改之外，该应用程序现在还包括四个单独的应用程序：
 
-| **[Web个性化](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 在主屏幕上拥有自己的图块 |
+| **[Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 在主屏幕上拥有自己的图块 |
 |---|---|
-| **[基于帐户的Web营销](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 可通过Web个性化拼贴访问 |
-| **[个性化重定位](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 可通过Web个性化拼贴访问 |
+| **[基于帐户的Web营销](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 可通过Web Personalization拼贴访问 |
+| **[个性化重定位](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 可通过Web Personalization拼贴访问 |
 | **[预测内容](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | 在主屏幕上拥有自己的图块 |
 
 >[!NOTE]

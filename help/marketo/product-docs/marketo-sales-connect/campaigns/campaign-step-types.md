@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->了解关于您的产品的详细信息 [发送选项](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>了解有关[发送选项](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)的详细信息。
 
 ## 调用 {#call}
 

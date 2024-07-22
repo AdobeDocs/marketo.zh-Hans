@@ -19,11 +19,11 @@ ht-degree: 0%
 
 您已创建一个全新的自定义对象。 下面是如何批准它的。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. 单击 **[!UICONTROL Marketo自定义对象]**.
+1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -31,23 +31,23 @@ ht-degree: 0%
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. 单击 **[!UICONTROL 自定义对象操作]** 下拉并选择 **[!UICONTROL 批准对象]**.
+1. 单击&#x200B;**[!UICONTROL 自定义对象操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 批准对象]**。
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. 状态更改为 [!UICONTROL 已批准].
+1. 状态更改为[!UICONTROL 已批准]。
 
    ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
-   >中使用的自定义对象 _一对多结构_ 必须具有至少一个要批准的重复数据删除字段、链接字段、链接对象名称和链接字段名称。
+   >在&#x200B;_一对多结构_&#x200B;中使用的自定义对象必须具有至少一个要批准的重复数据删除字段、链接字段、链接对象名称和链接字段名称。
    >
-   >中使用的自定义对象 _多对多结构_ **不会** 批准链接对象时需要链接字段、链接对象名称或链接字段名称（因为它们位于中间对象中）。
+   >在&#x200B;_多对多结构_ **中使用的自定义对象在批准时不需要链接字段、链接对象名称或链接字段名称（因为它们位于中间对象中）。**
    >
-   >用作的自定义对象 _中间对象_ 需要链接字段、链接对象名称和链接字段名称，但是 **不会** 需要重复数据删除字段。
+   >用作&#x200B;_中间对象_&#x200B;的自定义对象需要链接字段、链接对象名称和链接字段名称，但&#x200B;**不**&#x200B;需要重复数据删除字段。
    >
-   >请参阅 [了解Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) 以了解更多信息。
+   >有关详细信息，请参阅[了解Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
 就是这样！ 现在，您可以在筛选器和触发器的限制中选择自定义对象以在营销活动中使用。
 
@@ -55,14 +55,14 @@ ht-degree: 0%
 
 编辑已批准的自定义对象后，必须批准草稿才能将自定义对象恢复到“已批准”状态。
 
-1. 编辑已批准的自定义对象时，它会收到 [!UICONTROL 已审批，草稿] 省/州。
+1. 编辑已批准的自定义对象时，它将收到[!UICONTROL 已批准草稿]状态。
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. 准备好批准草稿后，单击 **[!UICONTROL 自定义对象操作]** 下拉并选择 **[!UICONTROL 批准对象]**.
+1. 准备好批准草稿后，单击&#x200B;**[!UICONTROL 自定义对象操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 批准对象]**。
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. 预览显示草稿中更改的项目。 单击 **[!UICONTROL 批准]**.
+1. 预览显示草稿中更改的项目。 单击&#x200B;**[!UICONTROL 批准]**。
 
    ![](assets/approve-a-custom-object-8.png)

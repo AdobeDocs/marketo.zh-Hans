@@ -34,16 +34,16 @@ Analytics页面每10分钟更新一次。
 
 ## “我”选项卡 {#me-tab}
 
-此 [“我”选项卡](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} 是一个检查电子邮件、模板和链接参与情况的绝佳位置。 如果您是Sales Insight Actions的管理员，则可以按团队中的任何用户进行筛选以查看其统计信息。
+[我选项卡](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}是检查电子邮件、模板和链接参与情况的绝佳位置。 如果您是Sales Insight Actions的管理员，则可以按团队中的任何用户进行筛选以查看其统计信息。
 
 ## “团队”选项卡 {#team-tab}
 
-在 [“团队”选项卡](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}，查看整个团队的统计和排名。 您还可以按已创建的任何子团队进行筛选。
+在[团队选项卡](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}中，查看您整个团队的统计数据和排名。 您还可以按已创建的任何子团队进行筛选。
 
 ## “内容”选项卡 {#content-tab}
 
-此 [“内容”选项卡](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} 包含有关模板、内容和链接的统计信息。 您可以按每个人或管理员创建的团队进行筛选。
+[内容选项卡](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"}包含有关模板、内容和链接的统计信息。 您可以按每个人或管理员创建的团队进行筛选。
 
-如果您在“主题”列下看到蓝色文本，则表示模板已共享。 您可以单击要带到该模板的蓝色文本。 通过单击查看其使用情况 **模板分析**.
+如果您在“主题”列下看到蓝色文本，则表示模板已共享。 您可以单击要带到该模板的蓝色文本。 通过单击&#x200B;**模板分析**&#x200B;查看其使用情况。
 
 当收件人单击您的电子邮件中的链接时，会计入“内容点击次数”。

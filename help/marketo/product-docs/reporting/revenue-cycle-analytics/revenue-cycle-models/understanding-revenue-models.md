@@ -6,7 +6,7 @@ exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 心理模型（如何思考这个问题） {#mental-model-how-to-think-about-this-thing}
 
-“建模器”就像一串装水的桶。 桶的底部有洞。
+Modeler就像一串装水的桶。 桶的底部有洞。
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-请注意，它们都位于绿色背景中。 这称为 **成功路径**. 进一步了解成功路径 [此处](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+请注意，它们都位于绿色背景中。 这称为&#x200B;**成功路径**。 在[此处](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)了解有关成功路径的更多信息。
 
-**暂存** 是潜在客户在实现其目标方面取得的进展的里程碑。
+**阶段**&#x200B;是潜在客户向其目标进展的里程碑。
 
-**过渡** 显示为箭头，它们控制潜在客户在阶段之间的移动方式。
+**过渡**&#x200B;显示为箭头，它们控制潜在客户在阶段之间的移动方式。
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## SLA阶段 {#sla-stage}
 
-这是缩写 **服务水平协议** 暂存。 这里的目的是要执行某些阶段的时间限制。
+这是&#x200B;**服务级别协议**&#x200B;阶段的缩写。 这里的目的是要执行某些阶段的时间限制。
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ ht-degree: 0%
 >
 >**示例**
 >
->大门可用于属于 **指定帐户列表** 将它与正常过程分开。
+>对于属于&#x200B;**命名帐户列表**&#x200B;的潜在客户，可以使用关口将其与正常流程分开。
 
 ## 过渡 {#transitions}
 
@@ -103,6 +103,6 @@ ht-degree: 0%
 >
 >* [使用收入模型SLA阶段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [收入模型报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [收入模型报告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
 >* [批准/取消批准收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

@@ -6,7 +6,7 @@ exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 2%
 
 编辑引导式登陆页面时，如果元素在模板中被标记为可编辑，则会显示这些元素。 元素将具有以下图标：
 
-* ![--](assets/image2015-5-20-12-3a30-3a48.png) 图像
+* ![—](assets/image2015-5-20-12-3a30-3a48.png)图像
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Marketo表单
-* ![--](assets/image2015-5-20-12-3a41-3a21.png)文本
+* ![—](assets/image2015-5-20-12-3a41-3a21.png)文本
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)视频
-* ![—](assets/image2015-5-20-12-3a44-3a17.png)“Marketo共享”按钮
+* ![—](assets/image2015-5-20-12-3a44-3a17.png)Marketo共享按钮
 * ![—](assets/image2015-5-20-12-3a43-3a21.png)Marketo投票
 * ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo引用
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo抽奖

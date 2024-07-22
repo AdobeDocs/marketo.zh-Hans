@@ -6,26 +6,26 @@ exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '200'
 ht-degree: 7%
 
 ---
 
 # 管理人员数据 {#manage-person-data}
 
-通过选择要在分段中使用的人员字段，利用人员数据进行Web个性化。
+通过选择要在分段中使用的人员字段，为Web Personalization利用人员数据。
 
-1. 转到 **帐户设置**.
+1. 转到&#x200B;**帐户设置**。
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. 转到 **数据库**.
+1. 转到&#x200B;**数据库**。
 
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## 添加新人员字段 {#adding-a-new-person-field}
 
-1. 选择 **要添加的字段** 从下拉列表中添加人员数据字段。
+1. 从下拉列表中选择&#x200B;**要添加的字段**&#x200B;以将人员数据字段添加到列表。
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,13 +35,13 @@ ht-degree: 7%
 
 ## 删除人员字段 {#deleting-a-person-field}
 
-1. 单击删除图标( ![—](assets/image2015-3-24-13-3a45-3a56.png))，以从列表中删除字段。 单击 **是** 以确认您要删除该字段。
+1. 单击删除图标(![—](assets/image2015-3-24-13-3a45-3a56.png))可从列表中删除字段。 单击&#x200B;**是**&#x200B;确认要删除该字段。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
    >
-   >**管理人员数据字段**
+   >**管理您的人员数据字段**
    >
    >* 只能包含人员数据字段
    >* 您最多可以添加30个人数据字段
@@ -89,7 +89,7 @@ ht-degree: 7%
   <tr> 
    <td><p>leadRole</p></td> 
    <td><p>潜在客户角色</p></td> 
-   <td><p>职位</p></td> 
+   <td><p>角色</p></td> 
   </tr> 
   <tr> 
    <td><p>已取消订阅</p></td> 
@@ -99,7 +99,7 @@ ht-degree: 7%
  </tbody> 
 </table>
 
-为新的Web个性化帐户提供的现成可用商机字段如下：
+为新的Web Personalization帐户现成提供了以下潜在客户字段：
 
 >[!MORELIKETHIS]
 >

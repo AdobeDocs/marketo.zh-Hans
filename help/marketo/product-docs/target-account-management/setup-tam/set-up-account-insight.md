@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->TAM帐户得分 [必须配置](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) 首先。
+>必须先配置TAM帐户得分[](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
 
-1. 单击 **管理员**.
+1. 单击&#x200B;**管理员**。
 
    ![](assets/admin-1.png)
 
-1. 单击 **目标帐户管理** 在树中，然后 **销售** 选项卡。
+1. 单击树中的&#x200B;**目标帐户管理**，然后单击&#x200B;**Sales**&#x200B;选项卡。
 
    ![](assets/set-up-account-insight-2.png)
 
-1. 单击 **编辑**.
+1. 单击&#x200B;**编辑**。
 
    ![](assets/set-up-account-insight-3.png)
 
@@ -37,8 +37,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果 [帐户得分设置](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) 随时更新，Sales下的配置需要由管理员更新，以确保分数准确反映用户的偏好。 用户需要注销并重新登录才能看到更改。
+   >如果[帐户得分设置](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)随时更新，则Sales下的配置需要由管理员更新，以确保得分准确反映用户的偏好。 用户需要注销并重新登录才能看到更改。
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/five-4.png)

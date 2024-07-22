@@ -21,15 +21,15 @@ Marketo取消订阅检查使用您的团队与Marketo的连接，防止电子邮
 
 ## 打开 {#turning-it-on}
 
-1. 在Web应用程序中，单击齿轮图标并选择 **设置**.
+1. 在Web应用程序中，单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/one-2.png)
 
-1. 在管理设置下，单击 **取消订阅**.
+1. 在“管理员设置”下，单击&#x200B;**取消订阅**。
 
    ![](assets/two-3.png)
 
-1. 单击 **集成**.
+1. 单击&#x200B;**集成**。
 
    ![](assets/three-3.png)
 
@@ -45,4 +45,4 @@ Marketo取消订阅检查……
 * 需要建立Marketo连接
 * 是全局设置
 * 阻止从Web应用程序、电子邮件客户端和Salesforce发送的电子邮件
-* 在为所有工作流（电子邮件插件发送、单个发送、销售活动发送、多选和发送）尝试发送时，将记录失败的电子邮件或阻止用户发送，但 [群组电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)，我们将阻止以静默方式发送电子邮件
+* 将记录失败的电子邮件，或阻止用户在尝试发送所有工作流（电子邮件插件发送、单个发送、销售活动发送、多个选择和发送）时发送，但[组电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)除外，我们将阻止以静默方式发送电子邮件

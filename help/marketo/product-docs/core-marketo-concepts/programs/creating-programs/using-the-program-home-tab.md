@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 摘要视图 {#summary-view}
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. 单击 **[!UICONTROL 导出]** 位于要下载的报表的摘要的底部。
+1. 单击摘要底部的&#x200B;**[!UICONTROL 导出]**&#x200B;以下载报告。
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## 由视图使用 {#used-by-view}
 
-1. 在 **[!UICONTROL 营销活动]**，选择一个项目。
+1. 在&#x200B;**[!UICONTROL 营销活动]**&#x200B;中，选择一个计划。
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. 单击 **[!UICONTROL 视图]** 下拉菜单。 选择 **[!UICONTROL 使用者]**.
+1. 单击&#x200B;**[!UICONTROL 视图]**&#x200B;下拉列表。 选择&#x200B;**[!UICONTROL 由]**&#x200B;使用。
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 ## 成员资格视图 {#membership-view}
 
-1. 在 **[!UICONTROL 营销活动]**，选择一个项目。
+1. 在&#x200B;**[!UICONTROL 营销活动]**&#x200B;中，选择一个计划。
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. 单击 **[!UICONTROL 视图]** 下拉菜单。 选择 **[!UICONTROL 会员资格]**.
+1. 单击&#x200B;**[!UICONTROL 视图]**&#x200B;下拉列表。 选择&#x200B;**[!UICONTROL 成员资格]**。
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**[!UICONTROL 历史]** 表示曾参加过该课程的人 **[!UICONTROL 当前]** 仅包含当前加入该计划的人员。
+   >**[!UICONTROL 历史]**&#x200B;表示曾参加过该计划的任何人，而&#x200B;**[!UICONTROL 当前]**&#x200B;仅包含当前参加该计划的人员。
 
    >[!MORELIKETHIS]
    >

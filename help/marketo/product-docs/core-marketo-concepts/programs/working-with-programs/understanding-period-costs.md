@@ -6,7 +6,7 @@ exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >如果你花1000美元聘请一位插图师，为今年7月推出的电子书做插图，那么今年7月电子书计划的期间成本将为1000美元。
 >
->如果你每个月花200美元 [!DNL Google Adwords] - [!DNL Google Adwords] 方案的期间费用为200美元 _每月_.
+>如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3}。_
 
 >[!NOTE]
 >
->[了解项目群](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
+>[了解程序](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
 >[了解计划成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/graph1.png)
 
-   ...之前和之后几个月添加的联系人将 *仅限* 数到3月。
+   ...之前和之后几个月添加的联系人将&#x200B;*仅*&#x200B;计为3月份。
 
    ![](assets/graph2.png)
 
@@ -61,9 +61,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >总之，没有定义期间成本的月份将“后退”到定义的最后一个期间。 如果没有前期成本，则月份将“前转”到已定义的下一个月份。 如果尚未定义期间成本 _任意_ 月报表时，RCE中的报表将不可用于该计划。
+   >总之，没有定义期间成本的月份将“后退”到定义的最后一个期间。 如果没有前期成本，则月份将“前转”到已定义的下一个月份。 如果尚未为&#x200B;_任何_&#x200B;个月定义期间成本，则程序将无法使用RCE报告。
 
    >[!MORELIKETHIS]
    >
-   >* [在项目中使用期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [在计划中使用期间成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
    >* [按期间成本筛选项目报告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

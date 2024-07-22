@@ -6,7 +6,7 @@ exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 1%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 1%
   <tr> 
    <td title="背景颜色：灰色"><br></td> 
    <td title="背景颜色：灰色">草稿</td> 
-   <td title="背景颜色：灰色"><p>已另存为草稿的电子邮件。<br><strong>注意：</strong> 只有一封电子邮件可以另存为草稿。 批量电子邮件（选择和发送电子邮件及群电子邮件）将不会另存为草稿。</p></td> 
+   <td title="背景颜色：灰色"><p>已另存为草稿的电子邮件。<br><strong>注意：</strong>只有一封电子邮件可以另存为草稿。 批量电子邮件（选择和发送电子邮件及群电子邮件）将不会另存为草稿。</p></td> 
   </tr> 
   <tr> 
    <td title="背景颜色：灰色"><br></td> 
@@ -68,12 +68,12 @@ ht-degree: 1%
   <tr> 
    <td title="背景颜色：蓝色"><br></td> 
    <td title="背景颜色：蓝色">已退回</td> 
-   <td title="背景颜色：蓝色"><p>已从收件人电子邮件服务器拒绝的电子邮件。 <br><strong>注意：</strong> 仅当您是旧版ToutApp用户并且有权将MSC服务器作为投放渠道访问时，才会检测到此情况。</p></td> 
+   <td title="背景颜色：蓝色"><p>已从收件人电子邮件服务器拒绝的电子邮件。 <br><strong>注意：</strong>只有当您是旧版ToutApp用户并且有权访问MSC服务器作为投放渠道时，才会检测到此情况。</p></td> 
   </tr> 
   <tr> 
    <td title="背景颜色：蓝色"><br></td> 
    <td title="背景颜色：蓝色">垃圾邮件</td> 
-   <td title="背景颜色：蓝色"><p>收件人手动标记为垃圾邮件的电子邮件。<br><strong>注意：</strong> 仅当您是旧版ToutApp用户并且有权将MSC服务器作为投放渠道访问时，才会检测到此情况。</p></td> 
+   <td title="背景颜色：蓝色"><p>收件人手动标记为垃圾邮件的电子邮件。<br><strong>注意：</strong>只有当您是旧版ToutApp用户并且有权访问MSC服务器作为投放渠道时，才会检测到此情况。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -96,4 +96,4 @@ ht-degree: 1%
 >
 >* [任务](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
 >* [高级搜索概述](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [使用“选择并发送”撰写批量电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+>* [使用Select和Send编写批量电子邮件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

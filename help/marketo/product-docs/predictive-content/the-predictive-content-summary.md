@@ -6,14 +6,14 @@ exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # 预测内容摘要 {#the-predictive-content-summary}
 
-“预测内容概要”以表格、图形和当前数字的形式快速显示有关预测内容所需的信息。
+“预测内容概要”以表格、图形和当前数字的形式显示您需要的有关预测内容的信息。
 
 ## 顶部栏 {#top-bar}
 

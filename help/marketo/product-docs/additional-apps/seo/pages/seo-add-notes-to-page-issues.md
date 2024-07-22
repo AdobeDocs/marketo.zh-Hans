@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 在页面问题部分添加注释 {#adding-notes-in-page-issues-section}
 
-1. 转到 **[!UICONTROL 页面]** 部分。
+1. 转到&#x200B;**[!UICONTROL 页面]**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. 在页面选项卡上，单击 **[!UICONTROL 问题]**.
+1. 在“页面”选项卡上，单击&#x200B;**[!UICONTROL 问题]**。
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. 将鼠标悬停在要向其添加注释的问题上。 单击 **[!UICONTROL 添加便笺]**.
+1. 将鼠标悬停在要向其添加注释的问题上。 单击&#x200B;**[!UICONTROL 添加附注]**。
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以通过单击小的 **x** 左上角。
+>您可以通过单击左上角的小&#x200B;**x**&#x200B;来删除注释。
 
 ## 在页面详细信息向下钻取中添加注释 {#add-notes-in-page-detail-drill-down}
 
-1. 转到 **[!UICONTROL 页面]** 部分。
+1. 转到&#x200B;**[!UICONTROL 页面]**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. 将鼠标悬停在要向其添加注释的页面问题上，然后单击 **[!UICONTROL 添加注释]**.
+1. 将鼠标悬停在要添加注释的页面问题上，然后单击&#x200B;**[!UICONTROL 添加注释]**。
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. 输入注释。 单击 **[!UICONTROL 保存]**.
+1. 输入注释。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 

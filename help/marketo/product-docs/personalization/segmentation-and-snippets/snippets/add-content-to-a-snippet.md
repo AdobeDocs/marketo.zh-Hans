@@ -21,13 +21,13 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您无法嵌入任何 [Marketo电子邮件语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) 在代码片段中；它会 **非** 通过电子邮件工作。 代码片段应当只是正文内容(HTML+文本)。
+>您不能在代码片段中嵌入任何[Marketo电子邮件语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)；它将&#x200B;**在电子邮件中无效**。 代码片段应当只是正文内容(HTML+文本)。
 
-1. 转到 **Design Studio**.
+1. 转到&#x200B;**设计工作室**。
 
    ![](assets/designstudio-2.png)
 
-1. 选择您的 **代码片段** 并单击 **编辑草稿**.
+1. 选择您的&#x200B;**代码片段**&#x200B;并单击&#x200B;**编辑草稿**。
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -35,25 +35,25 @@ ht-degree: 1%
 
 ## 添加令牌 {#add-token}
 
-1. 拖放 **令牌** 元素。
+1. 拖放&#x200B;**Token**&#x200B;元素。
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. 输入 **令牌** 并单击 **插入**.
+1. 输入&#x200B;**令牌**&#x200B;并单击&#x200B;**插入**。
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## 添加图像/文件 {#add-image-file}
 
-1. 拖放 **图像/文件** 元素。
+1. 拖放&#x200B;**Image/File**&#x200B;元素。
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
    >[!NOTE]
    >
-   >您可以将自己的图像或文件添加到Marketo。 了解有关 [图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   >您可以将自己的图像或文件添加到Marketo。 了解有关[图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)的详细信息。
 
-1. 选择 **图像** ，然后单击 **插入**.
+1. 选择要使用的&#x200B;**图像**，然后单击&#x200B;**插入**。
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,11 +71,11 @@ ht-degree: 1%
    >
    >使用格式设置工具自定义文本。
 
-1. 对于电子邮件，请单击 **文本版本** 选项卡。
+1. 对于电子邮件，请单击&#x200B;**文本版本**&#x200B;选项卡。
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. 单击 **从HTML复制**.
+1. 单击&#x200B;**从HTML复制**。
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

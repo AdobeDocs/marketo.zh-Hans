@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## 生成报表 {#generate-a-report}
 
-1. 单击 **分析**.
+1. 单击&#x200B;**分析**。
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. 单击 **Sales Insight电子邮件性能**.
+1. 单击&#x200B;**Sales Insight Email Performance**。
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. 单击 **设置** 选项卡，然后选择所需的值。
+1. 单击&#x200B;**设置**&#x200B;选项卡，然后选择所需的值。
 
    ![](assets/three.png)
 
-1. 单击 **报表** 选项卡。
+1. 单击&#x200B;**报表**&#x200B;选项卡。
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -47,19 +47,19 @@ ht-degree: 0%
 
 您可以通过更改设置来查看按销售代表分组的此报告。
 
-1. 单击 **设置**. 双击 **电子邮件**.
+1. 单击&#x200B;**设置**。 双击&#x200B;**电子邮件**。
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. 选择电子邮件分组依据 **销售代表**.
+1. 选择&#x200B;**销售代表**&#x200B;的组电子邮件。
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. 单击 **报表** 选项卡。
+1. 单击&#x200B;**报表**&#x200B;选项卡。
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

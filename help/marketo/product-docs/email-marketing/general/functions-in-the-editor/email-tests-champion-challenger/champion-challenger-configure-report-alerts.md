@@ -6,7 +6,7 @@ exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Marketo将向您发送有关电子邮件测试进展的报告。 下面是如何
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. 验证所有信息是否正确，然后单击 **关闭**.
+1. 验证所有信息是否正确，然后单击&#x200B;**关闭**。
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 选择一个CNAME {#choose-a-cname}
 
-为您的登陆页面选择一个URL开头的单词。 只有一个词，应该相对较短。 示例:
+为您的登陆页面选择一个URL开头的单词。 只有一个词，应该相对较短。 示例：
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## 查找您的Munchkin ID {#find-your-munchkin-id}
 
-1. 转到 **管理员** 区域。
+1. 转到&#x200B;**管理员**&#x200B;区域。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. 单击 **我的帐户**.
+1. 单击&#x200B;**我的帐户**。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
@@ -51,25 +51,25 @@ ht-degree: 0%
 
 ## 向IT发送请求 {#send-request-to-it}
 
-要求您的IT员工设置以下CNAME： (将 [CNAME] 和 [Munchkin ID] （其中包含上一步骤中的文本。）
+请您的IT员工设置以下CNAME： （将单词[CNAME]和[Munchkin ID]替换为上一步中的文本。）
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## 完成CNAME设置 {#complete-cname-setup}
 
-1. IT人员创建CNAME后，转到 **管理员** 区域。
+1. IT部门创建CNAME后，转到&#x200B;**管理员**&#x200B;区域。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. 单击 **登陆页面**.
+1. 单击&#x200B;**登陆页面**。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. 在 **设置** 部分，单击 **编辑**.
+1. 在&#x200B;**设置**&#x200B;部分下，单击&#x200B;**编辑**。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. 在中输入您的CNAME **登陆页面的域名**，输入您的 **回退页**，输入您的 **主页** 并单击 **保存**.
+1. 在&#x200B;**登录页的域名**&#x200B;中输入您的CNAME，输入您的&#x200B;**回退页**，输入您的&#x200B;**主页**，然后单击&#x200B;**保存**。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

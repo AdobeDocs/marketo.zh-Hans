@@ -5,7 +5,7 @@ exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,8 @@ ht-degree: 0%
 
 ## User Management {#user-management}
 
-添加和删除用户。 由产品管理员（或系统管理员）完成。
+添加和删除用户。 由产品管理员（或系统）完成
+管理员)。
 
 [添加用户](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
 仅限Marketo EngageAPI必须在Marketo Engage中创建和管理用户。
 
-[为启用Adobe IMS的订阅添加“仅API用户”](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
+[为启用Adobe IMS的订阅添加仅API用户](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 
 ## 通过CSV添加用户 {#add-users-via-csv}
 
@@ -42,7 +43,7 @@ ht-degree: 0%
 
 ## 用户登录 {#user-sign-in}
 
-[使用Adobe ID进行用户登录](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
+使用Adobe ID的[用户登录](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 
 ## 常见问题 {#faq}
 

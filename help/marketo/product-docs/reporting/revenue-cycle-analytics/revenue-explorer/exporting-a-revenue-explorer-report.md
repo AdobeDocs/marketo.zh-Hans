@@ -15,7 +15,7 @@ ht-degree: 1%
 
 您可以导出任何收入资源管理器报表并与任何人共享。
 
-1. 单击齿轮图标，选择 **导出** 并选择文件格式。
+1. 单击“齿轮”图标，选择&#x200B;**导出**&#x200B;并选择文件格式。
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -27,7 +27,7 @@ ht-degree: 1%
    >* Excel
    >* CSV
 
-1. 选择所需的 **页面格式** 和 **方向**，然后单击 **导出**.
+1. 选择所需的&#x200B;**页面格式**&#x200B;和&#x200B;**方向**，然后单击&#x200B;**导出**。
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[订阅收入浏览器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[订阅Revenue Explorer报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

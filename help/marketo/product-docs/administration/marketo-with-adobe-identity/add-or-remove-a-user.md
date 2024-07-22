@@ -5,8 +5,8 @@ exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 0%
+source-wordcount: '230'
+ht-degree: 2%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## 添加用户 {#add-a-user}
 
-1. 登录到 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. 登录到[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. 单击 **Marketo Engage**.
+1. 单击&#x200B;**Marketo Engage**。
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. 单击 **[!UICONTROL 用户]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL 用户]**&#x200B;选项卡。
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. 单击 **[!UICONTROL 添加用户]** 按钮。
+1. 单击&#x200B;**[!UICONTROL 添加用户]**&#x200B;按钮。
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,15 +38,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. 单击 **+** 图标，然后选择所需的产品配置文件。
+1. 单击&#x200B;**+**&#x200B;图标并选择所需的产品配置文件。
 
    ![](assets/add-or-remove-a-user-7.png)
 
    >[!IMPORTANT]
    >
-   >用户 _必须_ 添加到产品配置文件以访问Marketo Engage。
+   >必须将用户&#x200B;_添加到产品配置文件中才能访问Marketo Engage。_
 
-1. 单击 **[!UICONTROL 保存]**.
+1. 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-or-remove-a-user-8.png)
 
@@ -54,15 +54,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->当用户通过Adobe Admin Console添加到Marketo Engage时，将会在订阅的默认工作区中向他们授予“标准用户”角色。 如果需要调整用户在工作区中的角色，此操作将在Marketo Engage中完成， [如此处所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>当用户通过Adobe Admin Console添加到Marketo Engage时，将会在订阅的默认工作区中向他们授予“标准用户”角色。 如果需要调整用户在工作区中的角色，则按照](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}所述，在Marketo Engage[中完成此操作。
 
 ## 删除用户 {#remove-a-user}
 
-1. 登录到 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. 登录到[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. 单击 **Marketo Engage**.
+1. 单击&#x200B;**Marketo Engage**。
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -70,15 +70,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. 单击 **[!UICONTROL 用户]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL 用户]**&#x200B;选项卡。
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. 选择要删除的用户，然后单击 **[!UICONTROL 移除]** 按钮。
+1. 选择要删除的用户并单击&#x200B;**[!UICONTROL 删除]**&#x200B;按钮。
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. 单击 **[!UICONTROL 删除用户]** 以确认。
+1. 单击&#x200B;**[!UICONTROL 删除用户]**&#x200B;以确认。
 
    ![](assets/add-or-remove-a-user-14.png)
 
@@ -86,5 +86,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console用户](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Adobe Admin Console用户](https://helpx.adobe.com/cn/enterprise/using/users.html){target="_blank"}
 >* [单独管理用户](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

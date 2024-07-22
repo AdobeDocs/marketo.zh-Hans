@@ -19,28 +19,28 @@ ht-degree: 0%
 >
 >一旦删除，映像/文件将从Marketo Engage中完全删除，并且无法恢复。
 
-1. 转到 **[!UICONTROL Design Studio]**.
+1. 转到&#x200B;**[!UICONTROL 设计工作室]**。
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. 选择 **[!UICONTROL 图像和文件]**
+1. 选择&#x200B;**[!UICONTROL 图像和文件]**
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. 查找并选择所需的图像/文件。 单击 **[!UICONTROL 图像和文件操作]** 下拉并选择 **[!UICONTROL 删除]**.
+1. 查找并选择所需的图像/文件。 单击&#x200B;**[!UICONTROL 图像和文件操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-1. 验证您选择了正确的文件并单击 **[!UICONTROL 删除]**.
+1. 验证是否选择了正确的文件并单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/delete-an-uploaded-image-or-file-4.png)
 
    >[!NOTE]
    >
-   >资产不会被删除，如果它们当前正在使用中。
+   >Assets不会删除当前正在使用的文件。
 
 >[!MORELIKETHIS]
 >
->* [替换上传的图像或文件](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
->* [搜索上传的图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [替换上载的图像或文件](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [搜索上载的图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
 >* [查找上载的图像或文件的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

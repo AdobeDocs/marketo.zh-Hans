@@ -65,6 +65,6 @@ ht-degree: 3%
  </tbody>
 </table>
 
-**可选步骤**：要使用筛选，只需选择所需的选项即可。
+**可选步骤**：若要利用筛选功能，只需选择所需选项即可。
 
 ![](assets/using-the-global-search-7.png)

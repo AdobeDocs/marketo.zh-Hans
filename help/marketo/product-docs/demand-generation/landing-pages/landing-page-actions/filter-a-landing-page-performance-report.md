@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 筛选登陆页面性能报表 {#filter-a-landing-page-performance-report}
 
-关注您的 [登陆页面性能报表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) 在项目（本地资产）的登陆页面上、Design Studio中的登陆页面上（全局资产）上或已存档的项目上。
+将[登陆页面性能报表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)集中到程序（本地资产）中的登陆页面、Design Studio中的登陆页面（全局资产）或已存档的登陆页面。
 
-1. 转到 **分析** (或 **营销活动**)。
+1. 转到&#x200B;**Analytics**（或&#x200B;**营销活动**）。
 
    ![](assets/analyticstile.png)
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. 单击 **设置** 在筛选器中拖动。
+1. 单击&#x200B;**设置**&#x200B;选项卡并拖入筛选器。
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Design Studio登陆页面：** 全局资产，在设计工作室中进行管理。
-   * **营销活动登陆页面：** 营销活动选项卡上项目中的本地资产。
-   * **已存档的登陆页面：** 停用、已弃用的登陆页面。
+   * **Design Studio登陆页面：**&#x200B;全局资产，在Design Studio中管理。
+   * **营销活动登陆页面：“营销活动”选项卡上项目中的**&#x200B;本地资产。
+   * **已存档的登陆页面：**&#x200B;不活动、已弃用的登陆页面。
 
 1. 选择要包含在报表中的文件夹和特定登陆页面。
 
@@ -39,6 +39,6 @@ ht-degree: 0%
    >
    >如果选择文件夹，则报表将包含该文件夹在报表运行时包含的所有内容。
 
-1. 你完了！ 单击 **报表** 选项卡，以查看已过滤的报告。
+1. 你完了！ 单击&#x200B;**报告**&#x200B;选项卡查看已过滤的报告。
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

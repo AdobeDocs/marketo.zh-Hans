@@ -6,7 +6,7 @@ exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 已自动保存图形、文本和按钮的所有选择。 现在，您已准备好完成此工作。
 
-1. 要预览应用程序内消息，请单击 **消息操作** 下拉并选择 **预览**.
+1. 要预览应用程序内消息，请单击&#x200B;**消息操作**&#x200B;下拉列表，然后选择&#x200B;**预览**。
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. 如果您对应用程序内消息感到满意，请单击 **批准并关闭**.
+1. 如果您对应用程序内消息感到满意，请单击&#x200B;**批准并关闭**。
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >您还可以选择 **批准并关闭** 直接从消息操作下拉列表（请参阅步骤1），但为安全起见，为何不先预览消息？
+   >您也可以直接从“消息操作”下拉列表中选择&#x200B;**批准并关闭**（请参阅步骤1），但为安全起见，为什么不先预览消息？
 
 1. 要在不批准的情况下关闭编辑器，只需关闭选项卡。 它会自动保存，以便您稍后可以返回并批准。
 
@@ -71,9 +71,9 @@ ht-degree: 0%
 
 选项太多，但现在您收到了一则美观的应用程序内消息，可以开始使用了！
 
-现在，是时候 [发送您的消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+现在是[发送您的消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)的时间。
 
 >[!MORELIKETHIS]
 >
 >* [了解应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [选择应用程序内消息的布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [为您的应用程序内消息选择布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

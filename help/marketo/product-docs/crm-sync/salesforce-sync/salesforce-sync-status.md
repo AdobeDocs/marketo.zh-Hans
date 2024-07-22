@@ -22,11 +22,11 @@ ht-degree: 4%
 
 ## 查看同步状态 {#view-sync-status}
 
-1. 单击 **[!UICONTROL 管理员]**.
+1. 单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. 下 [!UICONTROL 集成]，单击 **Salesforce**，然后 **[!UICONTROL 同步状态]** 选项卡。
+1. 在[!UICONTROL 集成]下，单击&#x200B;**Salesforce**，然后单击&#x200B;**[!UICONTROL 同步状态]**&#x200B;选项卡。
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,15 +40,15 @@ ht-degree: 4%
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. 选择您的日期和时间范围，然后单击要作为筛选依据的下拉列表 [!UICONTROL 对象类型]， [!UICONTROL 操作类型]，和/或 [!UICONTROL 状态类型].
+1. 选择您的日期和时间范围，然后单击下拉列表以按[!UICONTROL 对象类型]、[!UICONTROL 操作类型]和/或[!UICONTROL 状态类型]进行筛选。
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. 单击 **[!UICONTROL 应用]**.
+1. 单击&#x200B;**[!UICONTROL 应用]**。
 
    ![](assets/salesforce-sync-status-6.png)
 
-**可选步骤**：要导出同步错误，请单击 **[!UICONTROL 导出]**. 数据将导出为CSV。
+**可选步骤**：若要导出同步错误，请单击&#x200B;**[!UICONTROL 导出]**。 数据将导出为CSV。
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -150,7 +150,7 @@ ht-degree: 4%
    <td colspan="1">电子邮件模板</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Event</td> 
+   <td colspan="1">活动</td> 
   </tr> 
   <tr> 
    <td colspan="1">人员（潜在客户）</td> 

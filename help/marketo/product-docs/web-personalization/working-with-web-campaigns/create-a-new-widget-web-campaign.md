@@ -6,26 +6,26 @@ exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
 
 # 创建新的构件Web营销活动 {#create-a-new-widget-web-campaign}
 
-Web营销活动是与特定区段关联的自定义反应，可以是 [对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) 在您的网站上， [区域替换中](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、小组件功能或电子邮件警报。 Widget Web营销活动是出现在网页垂直侧的文本或横幅，能够展开和收缩，同时在整个访问期间都固定在网站页面上。
+Web营销活动是与特定区段关联的自定义反应，可以是您网站上的[对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、区域替换](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、小组件功能或电子邮件警报。 Widget Web营销活动是出现在网页垂直侧的文本或横幅，能够展开和收缩，同时在整个访问期间都固定在网站页面上。
 
 ## 创建构件Web营销活动 {#create-a-widget-web-campaign}
 
-1. 转到 **Web营销活动**.
+1. 转到&#x200B;**网络营销活动**。
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. 选择 **新建Web营销活动**.
+1. 选择&#x200B;**新建Web营销活动**。
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. 选择 **构件** 营销活动类型。
+1. 选择&#x200B;**小组件**&#x200B;营销活动类型。
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ Web营销活动是与特定区段关联的自定义反应，可以是 [对话框
 
    ![](assets/4.png)
 
-1. 单击 **预览** 以查看Web营销活动在您的网站上将如何反应。
+1. 单击&#x200B;**预览**&#x200B;查看Web营销活动在您的网站上将如何反应。
 
    ![](assets/preview.png)
 
@@ -51,7 +51,7 @@ Web营销活动是与特定区段关联的自定义反应，可以是 [对话框
   </tr> 
   <tr> 
    <td colspan="1"><strong>显示于</strong></td> 
-   <td colspan="1">允许您 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">自定义时间和方式</a> 此时将显示您的Web营销活动。</td> 
+   <td colspan="1">允许您<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">自定义网络营销活动的显示时间和方式</a>。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>动画输入/输出</strong></td> 
@@ -63,7 +63,7 @@ Web营销活动是与特定区段关联的自定义反应，可以是 [对话框
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>构件颜色</strong></td> 
-   <td colspan="1" rowspan="1"><p>从颜色图中选择构件颜色，或将其输入为RGB代码。 也可以通过沿任一方向移动底部栏来选择小组件背景的透明度级别。</p></td> 
+   <td colspan="1" rowspan="1"><p>从颜色图中选择构件颜色，或将其输入为RGB代码。 也可以通过沿任一方向移动底部栏来选择构件背景的透明度级别。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>小组件按钮</strong><br></p></td> 
@@ -83,10 +83,10 @@ Web营销活动是与特定区段关联的自定义反应，可以是 [对话框
   </tr> 
   <tr> 
    <td colspan="1"><strong>在站点上预览 </strong></td> 
-   <td colspan="1">在启动营销活动之前进行预览。<br> 
+   <td colspan="1">在启动营销活动之前对其进行预览。<br> 
     <ul> 
      <li>URL — 输入营销活动将运行的示例URL，以查看营销活动实时效果的预览示例。</li> 
-     <li>预览 — 单击 <strong>预览 </strong>打开示例URL的新窗口以查看营销活动的反应方式(添加 <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome扩展</a> 以获得最佳的Web营销活动预览体验。)。 </li> 
+     <li>预览 — 单击<strong>预览</strong>可打开示例URL的新窗口，以查看营销活动的反应方式(添加<a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome扩展</a>以获得最佳的Web营销活动预览体验。) </li> 
      <li>共享 — 使用“共享”按钮向同事发送电子邮件，其中包含查看代理营销活动的链接。</li> 
     </ul></td> 
   </tr> 
@@ -95,31 +95,31 @@ Web营销活动是与特定区段关联的自定义反应，可以是 [对话框
 
 >[!NOTE]
 >
->**是否希望对您的Web营销活动进行A/B测试？** 一个或多个Web营销活动可以是 [A/B测试以获得最佳结果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). 借助自动调整功能，平台会自动识别表现较好的营销活动，继续提供转化率最高的营销活动，并暂停其他营销活动。
+>**是否希望对您的Web营销活动进行A/B测试？**&#x200B;一个或多个网站营销活动可以[A/B测试以获得最佳结果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)。 借助自动调整功能，平台会自动识别表现较好的营销活动，继续提供转化率最高的营销活动，并暂停其他营销活动。
 
 ## 编辑Web活动 {#edit-a-web-campaign}
 
-在Web营销活动页面中，单击 **编辑** 在营销策划中。
+在Web营销活动页面中，单击营销活动上的&#x200B;**编辑**。
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->为了更便于找到所需的营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>若要更轻松地找到所需的营销活动，请使用[筛选器功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 ## 克隆Web营销活动 {#clone-a-web-campaign}
 
-请参阅 [克隆Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+请参阅[克隆Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
 ## 预览Web活动 {#preview-a-web-campaign}
 
-在Web营销活动页面中，单击 **预览** 在要预览的Web营销活动上
+在Web营销活动页面中，单击要预览的Web营销活动上的&#x200B;**预览**
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## 删除Web活动 {#delete-a-web-campaign}
 
-1. 在Web营销活动页面中，单击 **删除** 要删除的Web营销活动上的日志。
+1. 在Web营销活动页面中，单击要删除的Web营销活动上的&#x200B;**删除**。
 
    ![](assets/widget-campaign-delete-hand.png)
 

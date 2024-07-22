@@ -15,19 +15,19 @@ ht-degree: 0%
 
 活动日志是最终的真实来源。 这是一个人在Marketo Engage中的旅程的完整故事。
 
-1. 转到 **[!UICONTROL 数据库]**.
+1. 转到&#x200B;**[!UICONTROL 数据库]**。
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. 选择 **[!UICONTROL 所有人员]**.
+1. 选择&#x200B;**[!UICONTROL 所有人员]**。
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. 单击 **[!UICONTROL 人员]** 选项卡。 选择人员 **[!UICONTROL Id]** 数字。
+1. 单击&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡。 选择人员&#x200B;**[!UICONTROL Id]**&#x200B;编号。
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. 单击 **[!UICONTROL 活动日志]**.
+1. 单击&#x200B;**[!UICONTROL 活动日志]**。
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >了解有关 [筛选活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} 查看特定人员活动。
+   >了解有关[筛选活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"}以查看特定人员活动的详细信息。

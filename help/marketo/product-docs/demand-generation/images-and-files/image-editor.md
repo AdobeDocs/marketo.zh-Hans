@@ -1,7 +1,8 @@
 ---
 description: 图像编辑器 — Marketo文档 — 产品文档
 title: 图像编辑器
-source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
+exl-id: fef96635-3011-4549-9c40-e92c3f33c398
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -10,9 +11,9 @@ ht-degree: 0%
 
 # 图像编辑器 {#image-editor}
 
-利用图像编辑器，可对Marketo Engage的图像进行快速、轻松的编辑。
+图像编辑器允许您对Marketo Engage的图像进行快速、轻松的编辑。
 
-1. 转到 **[!UICONTROL Design Studio]**.
+1. 转到&#x200B;**[!UICONTROL 设计工作室]**。
 
    ![](assets/image-editor-1.png)
 
@@ -20,10 +21,10 @@ ht-degree: 0%
 
    ![](assets/image-editor-2.png)
 
-1. 单击 **[!UICONTROL 编辑图像]** 按钮。
+1. 单击&#x200B;**[!UICONTROL 编辑图像]**&#x200B;按钮。
 
    ![](assets/image-editor-3.png)
 
-1. 从顶部工具栏中的各种功能中进行选择。 单击 **[!UICONTROL 保存]** 完成时。
+1. 从顶部工具栏中的各种功能中进行选择。 完成后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image-editor-4.png)

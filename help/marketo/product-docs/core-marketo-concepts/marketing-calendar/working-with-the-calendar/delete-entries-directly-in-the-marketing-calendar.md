@@ -6,20 +6,20 @@ exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 # 直接在营销日历中删除条目 {#delete-entries-directly-in-the-marketing-calendar}
 
-此外 [创建](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} 之后，您可以直接在“营销日历”中删除这些条目。 具体方法如下。
+除了[创建](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}和[编辑](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}条目之外，您还可以直接在营销日历中删除它们。 具体方法如下。
 
-1. 单击 **MU** 磁贴。
+1. 单击&#x200B;**MU**&#x200B;磁贴。
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. 选择要删除的项目并单击 **[!UICONTROL 显示项目群焦点]**.
+1. 选择要删除的项目，然后单击&#x200B;**[!UICONTROL 显示项目焦点]**。
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 

@@ -19,16 +19,16 @@ ht-degree: 0%
 >
 >[冠军/挑战者：批准您的电子邮件测试](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 查找并右键单击您的电子邮件测试，然后单击 **放弃测试**.
+1. 查找并右键单击您的电子邮件测试，然后单击&#x200B;**放弃测试**。
 
    ![](assets/champion5.jpg)
 
-1. 单击 **删除** 以确认。
+1. 单击&#x200B;**删除**&#x200B;以确认。
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   你完了！ 如果您决定要再次设置测试，请继续 [添加电子邮件冠军/挑战者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).
+   你完了！ 如果您决定要再次设置测试，请继续[添加电子邮件冠军/挑战者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)。

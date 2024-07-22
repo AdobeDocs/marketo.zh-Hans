@@ -5,7 +5,7 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '355'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->* 创建 [项目群成员自定义字段](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* 创建[项目群成员自定义字段](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
 >* [将Salesforce营销活动与项目同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
@@ -23,11 +23,11 @@ ht-degree: 6%
 
 ## 将Salesforce字段映射到项目群成员自定义字段 {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. 在Marketo中，单击 **[!UICONTROL 管理员]**.
+1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 单击 **[!DNL Salesforce]**，然后单击 **[!UICONTROL 编辑]** “程序成员自定义字段同步”旁边。
+1. 单击“**[!DNL Salesforce]**”，然后单击“程序成员自定义字段同步”旁边的“**[!UICONTROL 编辑]**”。
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 6%
 
 1. 对于其他字段映射，请清除搜索框并重复步骤3至5。
 
-1. 单击 **[!UICONTROL 保存]** 完成时。
+1. 完成后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 6%
 
 如果您希望释放字段以替换它，或只是进行常规更改，则必须先执行取消映射。 具体方法如下。
 
-1. 在Marketo中，单击 **[!UICONTROL 管理员]**.
+1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 单击 **[!DNL Salesforce]**，然后单击 **[!UICONTROL 编辑]** “程序成员自定义字段同步”旁边。
+1. 单击“**[!DNL Salesforce]**”，然后单击“程序成员自定义字段同步”旁边的“**[!UICONTROL 编辑]**”。
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,9 +79,9 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >您可以选择 **[!UICONTROL 已映射]** 复选框，以便仅查看映射的字段。
+   >您可以选中&#x200B;**[!UICONTROL 已映射]**&#x200B;复选框以仅查看已映射字段。
 
-1. 通过单击 **X** 在栏位旁边。
+1. 通过单击字段旁边的&#x200B;**X**&#x200B;取消映射。
 
    ![](assets/program-member-custom-field-sync-10.png)
 
@@ -127,7 +127,7 @@ ht-degree: 6%
     </tr>
     <tr>
       <td>数字(m，n)</td>
-      <td>浮动</td>
+      <td>浮点值</td>
     </tr>
     <tr>
       <td>复选框</td>
@@ -150,7 +150,7 @@ ht-degree: 6%
       <td>字符串</td>
     </tr>
     <tr>
-      <td>Base64</td>
+      <td>比值64</td>
       <td>字符串</td>
     </tr>
   </tbody>
@@ -158,6 +158,6 @@ ht-degree: 6%
 
 >[!MORELIKETHIS]
 >
->* [更改项目群成员数据](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
->* [在程序成员网格上查看数据](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [更改计划成员数据](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [查看项目群成员网格上的数据](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
 >* [SFDC同步 — Campaign同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

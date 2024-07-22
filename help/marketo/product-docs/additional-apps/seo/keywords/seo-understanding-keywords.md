@@ -6,18 +6,18 @@ exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-# SEO — 了解 [!UICONTROL 关键字] {#seo-understanding-keywords}
+# SEO — 了解[!UICONTROL 关键字] {#seo-understanding-keywords}
 
-[!UICONTROL 关键字] 是SEO战略的支柱。 您的目标是位于第一页，尽可能靠近#1与您的业务相关的关键词。
+[!UICONTROL 关键字]是SEO策略的骨干。 您的目标是位于第一页，尽可能靠近#1与您的业务相关的关键词。
 
-此 [!UICONTROL 关键字] 部分将向您展示网站在达到此目标方面是如何成功的，以及您如何栈叠 [您的竞争对手](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+[!UICONTROL 关键字]部分将向您展示您的网站在达到此目标方面是多么成功，以及您如何与竞争对手[进行竞争](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)。
 
-## [!UICONTROL 关键字]  — 摘要视图 {#keywords-summary-view}
+## [!UICONTROL 关键字] — 摘要视图 {#keywords-summary-view}
 
 ![](assets/image2014-9-17-21-3a44-3a25.png)
 
@@ -56,13 +56,13 @@ ht-degree: 0%
 >
 >仅显示排名第1-100的关键字的数据。
 
-## [!UICONTROL 关键字]  — 竞争对手视图 {#keywords-competitor-view}
+## [!UICONTROL 关键字] — 竞争者视图 {#keywords-competitor-view}
 
 您还可以通过单击查看下拉列表并选择竞争对手，查看您的竞争对手使用相同量度的表现。
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-太棒了！ 现在您已了解 [!UICONTROL 关键字] 部分，我们来了解页面和入站链接。
+太棒了！ 现在您已了解[!UICONTROL 关键字]部分，让我们了解页面和入站链接。
 
 >[!MORELIKETHIS]
 >

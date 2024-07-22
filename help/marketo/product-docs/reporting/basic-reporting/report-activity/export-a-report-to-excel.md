@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可以将任何报表导出到Excel文件，以便在其他软件中处理数据。
 
-1. 转到 **营销活动** 区域。
+1. 转到&#x200B;**营销活动**&#x200B;区域。
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. 从导航树中选择您的报表，然后单击 **报表** 选项卡。
+1. 从导航树中选择您的报告，然后单击&#x200B;**报告**&#x200B;选项卡。
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. 单击 **导出** 按钮。
+1. 单击&#x200B;**导出**&#x200B;按钮。
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >如果下载的文件太大，您可以 [更改报表大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >如果下载的文件太大，您可以[更改报表大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。

@@ -6,7 +6,7 @@ exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 查找计划视图 {#find-the-schedule-view}
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择您的项目。 单击 **[!UICONTROL 视图]** 下拉菜单。 选择 **[!UICONTROL 计划]**.
+1. 选择您的项目。 单击&#x200B;**[!UICONTROL 视图]**&#x200B;下拉列表。 选择&#x200B;**[!UICONTROL 计划]**。
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 在模式之间更改 {#changing-between-modes}
 
-1. 单击 **[!UICONTROL 3周]** 或 **[!UICONTROL 月]** 将更改显示的可见日期。
+1. 单击&#x200B;**[!UICONTROL 3周]**&#x200B;或&#x200B;**[!UICONTROL 月]**&#x200B;将更改显示的可见日期。
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 

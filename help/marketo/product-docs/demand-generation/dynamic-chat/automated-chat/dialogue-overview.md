@@ -16,13 +16,13 @@ ht-degree: 5%
 
 ## 受众标准 {#audience-criteria}
 
-此 [受众标准](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} 对话框的部分用于定义聊天对话的显示位置和对象
+在对话的[受众条件](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}部分，您将定义聊天对话的显示位置和对象
 
 ![](assets/dialogue-overview-1.png)
 
 ## 流设计器 {#stream-designer}
 
-此 [流设计器](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} “对话”的部分用于设计要与网站访客进行的对话。
+在对话的[流Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}部分，您将设计要与网站访客进行的对话。
 
 ![](assets/dialogue-overview-2.png)
 
@@ -64,10 +64,10 @@ ht-degree: 5%
 
 您可以同时禁用（和重新启用）所有已发布的对话框。
 
-1. 在Dynamic Chat中，单击 **[!UICONTROL 配置]** 选项卡。
+1. 在Dynamic Chat中，单击&#x200B;**[!UICONTROL 配置]**&#x200B;选项卡。
 
    ![](assets/dialogue-overview-4.png)
 
-1. 切换 **[!UICONTROL 聊天已启用]** 切换到关闭以禁用（再打开以重新启用）所有对话框。
+1. 将&#x200B;**[!UICONTROL Chat Enabled]**&#x200B;开关切换为off以禁用（重新启用）所有对话框。
 
    ![](assets/dialogue-overview-5.png)

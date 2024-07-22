@@ -16,14 +16,14 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [创建自由表单登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [将新表单添加到自由表单登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [创建自由格式登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [向自由表单登陆页面添加新表单](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 在登陆页面中使用动态内容让用户获得有针对性的信息。
 
 ## 添加分段 {#add-segmentation}
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
 ## 使元素成为动态元素 {#make-element-dynamic}
 
-1. 将元素从“静态”拖放到 **动态**.
+1. 将元素从Static拖放到&#x200B;**Dynamic**。
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. 您还可以使元素成为静态或动态 **设置**.
+1. 您还可以将元素&#x200B;**设置**&#x200B;中的元素设为“静态”或“动态”。
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## 应用动态内容 {#apply-dynamic-content}
 
-1. 在区段下选择元素，然后单击 **编辑**. 对每个区段重复执行上述步骤。
+1. 在区段下选择一个元素，然后单击&#x200B;**编辑**。 对每个区段重复执行上述步骤。
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 

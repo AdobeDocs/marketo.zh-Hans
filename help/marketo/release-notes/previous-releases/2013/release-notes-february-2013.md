@@ -6,7 +6,7 @@ exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Apple Safari for Mac和Windows的最新版本完全支持与Marketo潜在客户�
 
 ## 更新了SOAP API端点 {#updated-soap-api-endpoint}
 
-首选的SOAP API端点已更新，如管理员 — > SOAP API中所示。 请更新您的调用以使用此新端点。 对旧端点的API调用已弃用，但将继续正常运行。 （Spark SMB Edition中不提供SOAP API）
+首选的SOAP API端点已更新，如管理员 — > SOAP API中所示。 请更新您的调用以使用此新端点。 对旧端点的API调用已弃用，但将继续正常运行。 (SOAP API在Spark SMB版本中不可用)
 
 ## facebook选项卡的移动设备支持 {#mobile-support-for-facebook-tabs}
 
@@ -33,4 +33,4 @@ Apple Safari for Mac和Windows的最新版本完全支持与Marketo潜在客户�
 
 ## 即将推出：支持多种模型 {#coming-soon-support-for-multiple-models}
 
-我们正在为支持多种收入周期模型奠定基础，在未来的版本中，我们投票支持社区中#1RCA的构想。 在此版本中，您会注意到一些更改，包括 [智能列表筛选器和在流程步骤中添加选项](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) 支持模型和阶段的选择。 我们还将潜在客户收入阶段和潜在客户收入周期模型字段移出“智能列表潜在客户网格”选项卡。
+我们正在为支持多种收入周期模型奠定基础，在未来的版本中，我们投票支持社区中#1RCA的构想。 在此版本中，您会注意到一些更改，包括[智能列表筛选器以及在流程步骤](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)中添加选项，以支持模型和阶段的选择。 我们还将潜在客户收入阶段和潜在客户收入周期模型字段移出“智能列表潜在客户网格”选项卡。

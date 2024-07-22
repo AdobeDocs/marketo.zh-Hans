@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/one.png)
 
-使用 [筛选](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) 以指定要查看的电子邮件。
+使用[筛选](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)指定要查看的电子邮件。
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-**类型** 指示使用的资源类型。
-**收件人** 数字是已发送电子邮件的人员数量。
-**投放量度** 可让您快速查看已投放、待处理或已退回的电子邮件数量。\
-**参与量度** 让您快速了解已打开、单击和取消订阅电子邮件的收件人数量。
-**分数** 是您电子邮件的 [参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**类型**指示使用的资源类型。
+**Recipient**数字是电子邮件发送的人数。
+**投放指标**&#x200B;可让您快速查看已投放、待处理或已退回的电子邮件数量。\
+**参与量度**可让您快速查看打开、点击和取消订阅电子邮件的收件人数量。
+**得分**&#x200B;是您电子邮件的[参与度得分](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 默认情况下，您的电子邮件按最新电子邮件排序，但您可以按任何可用量度对这些电子邮件排序。
 

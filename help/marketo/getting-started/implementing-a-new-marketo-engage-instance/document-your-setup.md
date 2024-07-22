@@ -19,15 +19,15 @@ ht-degree: 1%
 <table>
 <thead>
   <tr>
-    <th style="width:20%">区域</th>
+    <th style="width:20%">面积图</th>
     <th style="width:80%">操作项</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>列表导入</td>
-    <td><li>收集将从中提取记录的数据源列表 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">导入到Marketo Engage</a>.</li>
-    <li>如果要从多个数据源导入，请考虑使用“主列表”或 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">创建自定义字段</a> 在人员记录上表示数据源。</li></td>
+    <td><li>收集将从其中提取记录的数据源列表，以<a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">导入到Marketo Engage</a>。</li>
+    <li>如果要从多个数据源导入，请考虑使用主列表或在人员记录上创建<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">自定义字段</a>来表示数据源。</li></td>
   </tr>
   <tr>
     <td>数据库集成</td>
@@ -41,14 +41,14 @@ ht-degree: 1%
 <table>
 <thead>
   <tr>
-    <th style="width:20%">区域</th>
+    <th style="width:20%">面积图</th>
     <th style="width:80%">操作项</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>用户</td>
-    <td><li>记录 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">当前用户</a> 出于安全原因，在您的实例中。 以下详细信息应至少包含在内（通过转至“管理员”&gt;“用户和角色”可全部显示）：</li>
+    <td><li>出于安全原因，在您的实例中记录<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">当前用户</a>。 以下详细信息应至少包含在内（通过转至“管理员”&gt;“用户和角色”可全部显示）：</li>
     <ul>
     <li>名称</li>
     <li>电子邮件</li>
@@ -59,15 +59,15 @@ ht-degree: 1%
     <li>最近登录日期</li></ul>
     <p><img src="assets/note-icon.png" alt="注释图标"> 注意：您还可以展开此项，以包含有关角色/权限的文档。
     <p>
-    <li>作为Marketo Engage产品管理员，制定定期审核和更新Marketo Engage用户列表的内部流程。 要更改Adobe Admin Console中的用户列表，请考虑 <a href="https://helpx.adobe.com/cn/enterprise/using/users.html" target="_blank">批量操作</a>，例如上传.CSV、使用用户管理REST API等。</li></td>
+    <li>作为Marketo Engage产品管理员，制定定期审核和更新Marketo Engage用户列表的内部流程。 要更改Adobe Admin Console中的用户列表，请考虑<a href="https://helpx.adobe.com/cn/enterprise/using/users.html" target="_blank">批量操作</a>，例如上传.CSV、使用用户管理REST API等</li></td>
   </tr>
   <tr>
     <td>组织</td>
-    <td><li>记录商定的文件夹结构、程序、资产等的标准命名惯例以及做出决策的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在此处详细了解最佳实践。</a></li></td>
+    <td><li>记录商定的文件夹结构、程序、资产等的标准命名惯例以及做出决策的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在此处了解关于最佳实践的更多信息。</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>创建一个更改日志，您可以在其中记录实例中的更改内容以及进行修改的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">在此处详细了解最佳实践。</a></li></td>
+    <td><li>创建一个更改日志，您可以在其中记录实例中的更改内容以及进行修改的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">在此处了解关于最佳实践的更多信息。</a></li></td>
   </tr>
   <tr>
     <td>行动手册</td>

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 有时，您可能会将错误的字段拖入报表中。 下面是如何删除它：
 
-1. 将要删除的字段拖到 **垃圾桶** 图标（位于报表的右下方）。
+1. 将要删除的字段拖到报告右下角的&#x200B;**垃圾桶**&#x200B;图标上。
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[保存收入浏览器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[保存收入资源管理器报告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. 要更改标准按钮的颜色，请单击 **颜色** 按钮。
+1. 要更改标准按钮的颜色，请单击&#x200B;**颜色**&#x200B;按钮。
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. 如果要将自己的图像用于按钮，请单击“图像”按钮，然后单击 **选择图像**.
+1. 如果要将自己的图像用于按钮，请单击“图像”按钮，然后单击&#x200B;**选择图像**。
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. 选择图像并单击 **选择**.
+1. 选择图像并单击&#x200B;**选择**。
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. 选择强调的字体样式： **粗体**， _斜体_&#x200B;或下划线。
+1. 选择强调的字体样式： **粗体**、_斜体_&#x200B;或下划线。
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -71,9 +71,9 @@ ht-degree: 0%
    >
    >按钮始终具有点按操作，因此点按操作复选框会自动选中，默认消息为“解除消息”。
 
-快到了。 您的最后一步是 [配置应用程序内消息背景并关闭按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+快到了。 您的最后一步是[配置应用程序内消息后台并关闭按钮](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)。
 
 >[!MORELIKETHIS]
 >
 >* [了解应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [选择应用程序内消息的布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [为您的应用程序内消息选择布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

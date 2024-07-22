@@ -14,17 +14,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->配置MSC时，Marketo会自动将您的凭据发送到Sales Connect，并将您的实例连接到Marketo。 此步骤是必需的 **仅当未看到建立连接时** 配置Sales Connect实例之后。 如果已建立连接，您将在Marketo管理设置页面上看到所输入的凭据。
+>配置MSC时，Marketo会自动将您的凭据发送到Sales Connect，并将您的实例连接到Marketo。 只有在配置Sales Connect实例后未看到已建立的连接&#x200B;**时，才需要**&#x200B;执行此步骤。 如果已建立连接，您将在Marketo管理设置页面上看到所输入的凭据。
 
 ## 在将Sales Connect连接到Marketo之前获取凭据 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 您需要从Marketo中获取一组凭据。 Sales Connect管理员稍后将使用这些凭据将Marketo与Sales Connect连接。
 
-1. 在Marketo中，单击 **管理员**.
+1. 在Marketo中，单击&#x200B;**管理员**。
 
    ![](assets/manually-set-up-your-marketo-connection-1.png)
 
-1. 在树中，单击 **Sales Connect**.
+1. 在树中，单击&#x200B;**Sales Connect**。
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
@@ -38,14 +38,14 @@ ht-degree: 0%
 
 ## 将Sales Connect连接到Marketo {#connect-sales-connect-to-marketo}
 
-1. 在Sales Connect中，单击齿轮图标并选择 **设置**.
+1. 在Sales Connect中，单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. 在管理设置下，选择 **Marketo**.
+1. 在“管理设置”下，选择&#x200B;**Marketo**。
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 
-1. 输入由Marketo管理员提供的Marketo凭据，然后单击 **连接**.
+1. 输入Marketo管理员提供的Marketo凭据，然后单击&#x200B;**连接**。
 
    ![](assets/manually-set-up-your-marketo-connection-6.png)

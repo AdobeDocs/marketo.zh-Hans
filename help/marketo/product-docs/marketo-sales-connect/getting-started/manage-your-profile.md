@@ -5,7 +5,7 @@ exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,17 @@ ht-degree: 0%
 
 您可以在此处更新您的姓名和/或密码。
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/manage-your-profile-1.png)
 
-1. 默认情况下，将打开您的“我的配置文件”页面。 要更新您的名称，只需键入更改并单击 **保存**.
+1. 默认情况下，将打开您的“我的配置文件”页面。 要更新您的姓名，只需键入更改并单击&#x200B;**保存**&#x200B;即可。
 
    ![](assets/manage-your-profile-2.png)
 
 >[!NOTE]
 >
->您的电子邮件地址设置为仅查看。 如果您也需要更改此内容，请联系 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support).
+>您的电子邮件地址设置为仅查看。 如果您还需要更改此设置，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 您还可以在此部分中更改密码。 本文档概述了这些步骤。
 
@@ -50,23 +50,23 @@ ht-degree: 0%
 >
 >支持的语言：英语、法语、德语、日语、葡萄牙语、西班牙语。
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/manage-your-profile-4.png)
 
-1. 要更改您的语言，请单击 **语言** 下拉菜单中进行选择。
+1. 若要更改语言，请单击&#x200B;**语言**&#x200B;下拉列表并进行选择。
 
    ![](assets/manage-your-profile-5.png)
 
-1. 此处区域设置是指使用该语言的地区。 单击 **区域设置** 下拉菜单中进行选择。
+1. 此处区域设置是指使用该语言的地区。 单击&#x200B;**区域设置**&#x200B;下拉列表并进行选择。
 
    ![](assets/manage-your-profile-6.png)
 
-1. 单击 **您的时区** 下拉菜单中进行选择。
+1. 单击&#x200B;**您的时区**&#x200B;下拉列表并进行选择。
 
    ![](assets/manage-your-profile-7.png)
 
-1. 单击 **保存** 完成时。
+1. 完成后单击&#x200B;**保存**。
 
    ![](assets/manage-your-profile-8.png)
 

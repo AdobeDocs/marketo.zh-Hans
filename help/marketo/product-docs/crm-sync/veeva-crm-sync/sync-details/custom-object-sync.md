@@ -26,15 +26,15 @@ ht-degree: 0%
 
 ## 启用自定义对象 {#enable-custom-object}
 
-1. 在Marketo中，单击 **[!UICONTROL 管理员]**，则 **[!UICONTROL Veeva对象同步]**.
+1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**，然后单击&#x200B;**[!UICONTROL Veeva对象同步]**。
 
    ![](assets/custom-object-sync-1.png)
 
-1. 如果这是您的第一个自定义对象，请单击 **[!UICONTROL 同步架构]**.
+1. 如果这是您的第一个自定义对象，请单击&#x200B;**[!UICONTROL 同步架构]**。
 
    ![](assets/custom-object-sync-2.png)
 
-1. 单击 **[!UICONTROL 禁用全局同步]**.
+1. 单击&#x200B;**[!UICONTROL 禁用全局同步]**。
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ ht-degree: 0%
    >
    >自定义对象必须具有唯一的名称。 Marketo不支持具有相同名称的两个其他自定义对象。
 
-1. 单击 **[!UICONTROL 启用同步]**.
+1. 单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/custom-object-sync-5.png)
 
-1. 单击 **[!UICONTROL 启用同步]** 再来一次。
+1. 再次单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/custom-object-sync-6.png)
 
-1. 返回 **[!UICONTROL Veeva]** 选项卡。
+1. 返回&#x200B;**[!UICONTROL Veeva]**&#x200B;选项卡。
 
    ![](assets/custom-object-sync-7.png)
 
-1. 单击 **[!UICONTROL 启用同步]**.
+1. 单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/custom-object-sync-8.png)
 
-1. 要查看所有Veeva自定义对象，请单击 **[!UICONTROL 管理员]** 和 **[!UICONTROL Veeva对象同步]**.
+1. 要查看您的所有Veeva自定义对象，请单击&#x200B;**[!UICONTROL 管理员]**&#x200B;和&#x200B;**[!UICONTROL Veeva对象同步]**。
 
    ![](assets/custom-object-sync-9.png)
 
@@ -78,5 +78,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [同步呼叫和呼叫关键消息](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [正在同步呼叫和呼叫关键消息](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 >* [添加/删除自定义对象字段作为智能列表/触发器约束](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

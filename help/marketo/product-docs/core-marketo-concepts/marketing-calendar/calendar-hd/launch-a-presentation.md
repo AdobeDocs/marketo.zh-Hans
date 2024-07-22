@@ -22,21 +22,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [创建演示](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
->* [自定义演示](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
+>* [创建演示文稿](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [自定义演示文稿](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 >[!TIP]
 >
->确保 _预览演示_ 在你启动之前。
+>确保在启动之前&#x200B;_预览演示_。
 
-1. 单击 **[!UICONTROL Launch]**.
+1. 单击&#x200B;**[!UICONTROL 启动]**。
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. 单击 **[!UICONTROL Launch]** 再来一次。 这将使您从Marketo中注销，以便安全地显示演示文稿。
+1. 再次单击&#x200B;**[!UICONTROL 启动]**。 这将使您从Marketo中注销，以便安全地显示演示文稿。
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
    >[!TIP]
    >
-   >您的演示文稿将在新选项卡中启动。 如果需要，将选项卡移至外部显示器进行显示，然后单击 **[!UICONTROL 全屏]**.
+   >您的演示文稿将在新选项卡中启动。 如果需要，请将选项卡移动到外部监视器以供显示，然后单击&#x200B;**[!UICONTROL 全屏]**。

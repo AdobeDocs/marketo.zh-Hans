@@ -6,7 +6,7 @@ exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '834'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->2023年10月2日，Adobe从所有应用商店中删除了Marketo事件应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 将您的Marketo Engage实例迁移到Adobe身份以进行Marketo身份验证后，您将无法再访问该应用程序。 [了解详情](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>2023年10月2日，Adobe从所有应用商店中删除了Marketo事件应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 将您的Marketo Engage实例迁移到Adobe身份以进行Marketo身份验证后，您将无法再访问该应用程序。 [了解更多](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
-应用程序对两者的工作方式相同 [!DNL iPad] 和 [!DNL Android]中，只有布局和设计方面的细微差异除外。
+应用程序在[!DNL iPad]和[!DNL Android]上的工作方式相同，只是布局和设计上略有差异。
 
 >[!PREREQUISITES]
 >
@@ -27,19 +27,19 @@ ht-degree: 0%
 
 ## 签入已注册的来宾 {#check-in-registered-guests}
 
-1. 点按应用程序图标上的 [!DNL iPad] 或 [!DNL Android] 平板电脑。
+1. 点按[!DNL iPad]或[!DNL Android]平板电脑上的应用程序图标。
 
-1. 点按 **[!UICONTROL 登录]** 以启动Marketo事件应用程序。
+1. 点按&#x200B;**[!UICONTROL 登录]**&#x200B;以启动Marketo活动应用。
 
    ![](assets/1.jpg)
 
-1. 输入您的Marketo用户名和密码，然后单击 **[!UICONTROL 登录]**.
+1. 输入您的Marketo用户名和密码，然后单击&#x200B;**[!UICONTROL 登录]**。
 
    >[!NOTE]
    >
    >您必须拥有有权访问数据库的角色，才能查看应用程序中的人员。
 
-1. 选择 **[!UICONTROL 事件]**.
+1. 选择&#x200B;**[!UICONTROL 事件]**。
 
    ![](assets/2.jpg)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在上，过程相同 [!DNL iPad] 和 [!DNL Android]，但屏幕不同，并且项目可能位于不同的位置。 本文重点介绍 [!DNL iPad] 界面。 比较 [!DNL Android] 屏幕以供参考。
+   >[!DNL iPad]和[!DNL Android]上的进程相同，但屏幕不同，项目可能位于不同的位置。 本文重点介绍[!DNL iPad]界面。 比较本节中的[!DNL Android]屏幕以供参考。
 
    **[!DNL iPad]**
 
@@ -65,11 +65,11 @@ ht-degree: 0%
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. 点按选定的名称，然后在人员记录上点按 **[!UICONTROL 签入]**.
+1. 点按选定的名称，然后在人员记录上点按&#x200B;**[!UICONTROL 签入]**。
 
    ![](assets/img-0068-35-hands.png)
 
-来宾现在处于“已参加”状态，并会收到复选标记。 与Marketo同步时，人员记录会更新。 “同步”按钮上的红色计数器递增以显示自上次与Marketo同步以来签入的次数。 “ Sync（同步）”按钮的外观不同，并且位于不同的位置 [!DNL iPad] 和 [!DNL Android]：
+来宾现在处于“已参加”状态，并会收到复选标记。 与Marketo同步时，人员记录会更新。 “同步”按钮上的红色计数器递增以显示自上次与Marketo同步以来签入的次数。 “同步”按钮的外观不同，并且在[!DNL iPad]和[!DNL Android]的不同位置：
 
 **[!DNL iPad]**
 
@@ -81,13 +81,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果某人受邀但未注册，则可以通过单击以下链接搜索其姓名： **[!UICONTROL 在服务器上搜索]**，位于搜索框的正下方。 “已邀请”状态更改为 **[!UICONTROL 已参加]** 为活动准备的。
+>如果某人受邀但未注册，则可以通过单击“搜索”框正下方的“在服务器上搜索”****&#x200B;来搜索该名称。 对于该事件，“已邀请”状态更改为&#x200B;**[!UICONTROL 已参加]**。
 
 ## 在平板电脑上创建新人员 {#create-a-new-person-on-the-tablet}
 
 您可以手动添加Marketo数据库中不存在人员的来宾。 当您与Marketo同步时，系统会自动将它们签入并添加到您的数据库中。
 
-1. 单击 **[!UICONTROL 添加]**.
+1. 单击&#x200B;**[!UICONTROL 添加]**。
 
    **[!DNL iPad]**
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. 填写尽可能多的基本信息字段，然后点击 **[!UICONTROL 完成]**.
+1. 请填写尽可能多的基本信息字段，然后点按&#x200B;**[!UICONTROL 完成]**。
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -113,9 +113,9 @@ ht-degree: 0%
 
 ## 撤消签入 {#reverse-a-check-in}
 
-如果你不小心签到了一个人， _在与Marketo同步之前_，您可以撤消已参与状态。
+如果在与Marketo _同步之前错误地签入了人员_，则可以撤销“已参加”状态。
 
-1. 点按列表中的名称，然后在人员记录中，点按 **[!UICONTROL 还原]**.
+1. 点按列表中的名称，然后在人员记录中，点按&#x200B;**[!UICONTROL 撤消]**。
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -125,17 +125,17 @@ ht-degree: 0%
 
 您可以在活动期间添加和修改来宾信息！
 
-1. 点按人员列表中的名称，然后点按 **[!UICONTROL 编辑]**.
+1. 点按人员列表中的名称，然后点按&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. 编辑信息并将其添加到字段中，然后点击 **[!UICONTROL 完成]**.
+1. 编辑信息并将其添加到字段，然后点按&#x200B;**[!UICONTROL 完成]**。
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >在 [!DNL Android]， **[!UICONTROL 完成]** 按钮可能处于隐藏状态。 向下滚动以找到它。
+   >在[!DNL Android]中，**[!UICONTROL Done]**&#x200B;按钮可能处于隐藏状态。 向下滚动以找到它。
 
 在将应用程序与Marketo同步时，将会更新信息。
 
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 1. 在平板电脑上，打开应用程序并导航到您的活动。
 
-1. 点按 **[!UICONTROL 同步]**.
+1. 点按&#x200B;**[!UICONTROL 同步]**。
 
    您的事件将通过Marketo数据库中的新签入进行更新。 “同步”按钮上的红色计数器将清除，直到您签入其他人。
 

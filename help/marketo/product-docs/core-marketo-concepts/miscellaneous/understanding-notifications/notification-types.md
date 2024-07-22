@@ -46,7 +46,7 @@ CRM同步通知会提醒您发现CRM同步存在的严重问题，例如权限�
 
 ## 空闲触发器活动清理 {#idle-trigger-campaign-cleanup}
 
-停用触发的智能营销活动不再获取任何活动。 了解有关  [自动触发营销活动清理](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+停用触发的智能营销活动不再获取任何活动。 了解有关[自动触发器营销活动清理](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)的更多信息。
 
 ## LinkedIn {#linkedin}
 
@@ -60,4 +60,4 @@ CRM同步通知会提醒您发现CRM同步存在的严重问题，例如权限�
 
 >[!NOTE]
 >
->您可能会收到的一些错误代码概述在 [开发人员文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>我们在[开发人员文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes)中列出了您可能会收到的某些错误代码。

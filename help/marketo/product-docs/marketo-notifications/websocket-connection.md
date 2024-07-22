@@ -3,7 +3,8 @@ description: 通知 — Websocket连接 — Marketo文档 — 产品文档
 title: 通知 — Websocket连接
 hide: true
 hidefromtoc: true
-source-git-commit: 77300e8d620887b5c1d14a4f979a96488b6eec87
+exl-id: 00c754f8-3850-4209-803d-5cdb108dc6dc
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 通知： Websocket连接 {#notification-websocket-connection}
 
-本文适用于在其Marketo实例中收到以下通知的Marketo Engage用户： `"We were unable to establish a websocket connection to <some-server.adobe.net>. We are ending support of the servers you are connected to now on March 3, 2024. Please work with your IT team to allowlist required Marketo Engage and Adobe domains and ports to prevent access disruptions."`
+本文适用于在其Marketo实例中收到以下通知的Marketo Engage用户：`"We were unable to establish a websocket connection to <some-server.adobe.net>. We are ending support of the servers you are connected to now on March 3, 2024. Please work with your IT team to allowlist required Marketo Engage and Adobe domains and ports to prevent access disruptions."`
 
 如果您或您的组织使用限制性的防火墙或代理服务器设置，则您或您的网络管理员可能需要允许列表某些域和IP地址范围，以确保Adobe Marketo Engage按预期工作。
 

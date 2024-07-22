@@ -15,15 +15,15 @@ ht-degree: 0%
 
 首次同步到Microsoft Dynamics时，您将下载Marketo的最新版本插件。 Marketo会定期更新这些插件，以便您能够返回到相同位置下载新版本。
 
-[下载最新的插件](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} 与您的Dynamics版本相对应。
+[下载与您的Dynamics版本对应的最新插件](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
 ## 正在更新您的Dynamics解决方案 {#updating-your-dynamics-solution}
 
-1. 在现有Dynamics CRM版本的基础上导入最新版本的解决方案(例如：如果Dynamics CRM的版本为1.4，而最新版本为1.5，则导入 _超过_ 版本1.4)。
+1. 在现有Dynamics CRM版本上导入最新版本的解决方案（例如：如果Dynamics CRM的版本为1.4，而最新版本为1.5，则您将导入&#x200B;_而不是_&#x200B;版本1.4）。
 
-1. 您将看到以下弹出窗口。 选择 **更新** 和 **维护自定义项**，然后单击 **导入**.
+1. 您将看到以下弹出窗口。 选择&#x200B;**更新**&#x200B;和&#x200B;**维护自定义项**，然后单击&#x200B;**导入**。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 
@@ -137,4 +137,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[下载Marketo商机管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
+>[下载Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

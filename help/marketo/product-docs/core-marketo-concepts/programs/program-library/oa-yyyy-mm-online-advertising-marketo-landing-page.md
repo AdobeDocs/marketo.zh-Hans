@@ -2,10 +2,10 @@
 description: OA-YYYY-MM-Online Advertising Marketo登录页面 — Marketo文档 — 产品文档
 title: OA-YYYY-MM-Online Advertising Marketo登录页面
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '485'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 这是一个在线广告跟踪程序的示例，跟踪程序包括具有注册表单的Marketo登录页面和使用Marketo默认程序。 选件的链接可显示在感谢页面上、以感谢电子邮件发送或同时显示两者。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -27,16 +27,16 @@ ht-degree: 3%
    <th>项目类型</th>
   </tr> 
   <tr> 
-   <td>在线广告</td> 
+   <td>在线Advertising</td> 
    <td>01 — 成员 
-<br/>02 — 参与 — 成功</td>
+<br/>02 — 已参与 — 成功</td>
    <td>包含</td>
    <td>默认</td>
   </tr>
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,7 +93,7 @@ ht-degree: 3%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>资产 — 包含所有创意资产 
+   <td>Assets — 包含所有创意资产 
 <br/>（电子邮件和登陆页面的子文件夹）  </td>
   </tr>
   <tr> 
@@ -104,7 +104,7 @@ ht-degree: 3%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>报表</td>
+   <td>报告</td>
   </tr>
  </tbody> 
 </table>
@@ -174,20 +174,20 @@ ht-degree: 3%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
    * 复制原始模板
-   * 使用目标模板 —  _推荐_
+   * 使用目标模板 — _推荐_
 
 * **具有相同名称的图像**
    * 保留两个文件
-   * 替换此订阅中的项目 —  _推荐_
+   * 替换此订阅中的项目 — _推荐_
 
 * **同名电子邮件模板**
    * 保留两个模板
-   * 替换现有模板 —  _推荐_
+   * 替换现有模板 — _推荐_
 
 冲突规则屏幕截图
 
@@ -198,7 +198,7 @@ ht-degree: 3%
 
 * 请考虑更新导入项目中的模板以使用当前品牌模板，或者通过添加代码片段或适当的徽标/页脚信息来更新新导入的模板以反映您的品牌。
 
-* 使用项目标记，按各种在线广告源筛选报表。
+* 使用项目标记，按各种在线Advertising来源筛选报表。
 
 * 请考虑更新此程序示例的命名约定，以符合您的命名约定。
 
@@ -208,7 +208,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->不要忘记激活“02 — 参与（项目成功）”营销活动以跟踪成功！ 执行操作 _早于_ 您的表单已上线并发送电子邮件。
+>不要忘记激活“02 — 参与（项目成功）”营销活动以跟踪成功！ _before_&#x200B;执行此操作您的表单已上线且已发送电子邮件。
 
 >[!IMPORTANT]
 >

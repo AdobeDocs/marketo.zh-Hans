@@ -18,7 +18,7 @@ ht-degree: 0%
 在参与计划中，可以轻松地将电子邮件添加到流中，并且效果不错。 但是，如果您的业务需求更复杂，则可能适合将电子邮件置于项目中。 例如，您可能希望：
 
 * 向流中的子组人员发送电子邮件
-* 发送 *不同* 发送给流中子组的电子邮件
+* 向流中的子组发送&#x200B;*个不同的*&#x200B;电子邮件
 * 将登陆页面、表单或其他资产包含在培养中
 * 启用多点触控归因
 * 添加额外的流量步骤，如提醒电子邮件
@@ -31,17 +31,17 @@ ht-degree: 0%
 * 如果您是计划的成员，将不会收到电子邮件
 * 如果您不再是会员，但之前已通过该计划收到电子邮件，则您将不会收到电子邮件
 
-当您在流中使用程序时，您以前是否收到过该特定电子邮件并不重要。 只要电子邮件以前没有发出 *在特定程序中*，您可以再次收到该邮件。
+当您在流中使用程序时，您以前是否收到过该特定电子邮件并不重要。 只要该特定程序&#x200B;*中的电子邮件未在*&#x200B;之前发出，您就可以再次收到该电子邮件。
 
 在参与计划中，它可能会把电子邮件和程序巧妙地混合在一起。 您可能要使用其中一个。
 
 >[!TIP]
 >
->确保使用 **参与计划成员** 在智能列表中进行筛选。
+>确保在智能列表中使用&#x200B;**参与计划成员**&#x200B;筛选器。
 
 ## 不符合智能列表条件的用户会出现什么情况？ {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-如果从嵌套项目智能营销策划的智能列表中过滤出了某人，则其在当前播放过程中不会转到下一段内容。 他们将继续观看流中的下一段内容 *关注* 演员阵容。
+如果从嵌套项目智能营销策划的智能列表中过滤出了某人，则其在当前播放过程中不会转到下一段内容。 他们将继续观看流中&#x200B;*following*&#x200B;演绎版的下一段内容。
 
 ## 嵌套程序包含什么？ {#what-does-a-nested-program-contain}
 
@@ -58,4 +58,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [将内容添加到流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [了解项目群](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
+>* [了解程序](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

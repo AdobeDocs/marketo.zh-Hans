@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 在人员业绩报表中进行追溯以查看附加人员信息。
 
-1. 单击 **报表** 选项卡，以查看任何现有报表。
+1. 单击&#x200B;**报告**&#x200B;选项卡以查看任何现有报告。
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 单击 **深入分析**.
+1. 单击&#x200B;**向下钻取**。
 
    ![](assets/three.png)
 
-1. 在 **深入分析** 弹出窗口，选择要向下钻取到的属性。 然后单击 **深入分析**.
+1. 在&#x200B;**向下钻取**&#x200B;弹出窗口中，选择要向下钻取到的属性。 然后单击&#x200B;**向下钻取**。
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 要保存结果（可选），请单击 **导出** 图标（位于左下角）。
+1. 要保存结果（可选），请单击左下角的&#x200B;**导出**&#x200B;图标。
 
    ![](assets/six.png)

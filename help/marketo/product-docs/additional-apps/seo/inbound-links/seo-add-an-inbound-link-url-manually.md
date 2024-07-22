@@ -15,21 +15,21 @@ ht-degree: 0%
 
 您可以手动添加入站链接。 方法如下：
 
-1. 转到 **[!UICONTROL 入站链接]** 部分。
+1. 转到&#x200B;**[!UICONTROL 入站链接]**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. 单击 **[!UICONTROL 添加URL]**.
+1. 单击&#x200B;**[!UICONTROL 添加URL]**。
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. 键入URL。 单击 **[!UICONTROL 添加]**.
+1. 键入URL。 单击&#x200B;**[!UICONTROL 添加]**。
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >你知道你可以 [将入站链接添加到新列表或现有列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}？ 看啊！
+   >您是否知道您可以[将入站链接添加到新的或现有的列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}？ 看啊！
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 

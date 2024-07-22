@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 按现有标签筛选 {#filter-by-existing-labels}
 
-1. 转到 **Web营销活动**.
+1. 转到&#x200B;**网络营销活动**。
 
    ![](assets/web-campaigns-hand-4.jpg)
 

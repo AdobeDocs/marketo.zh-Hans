@@ -15,18 +15,18 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->了解如何使用 [有趣的时刻流步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>学习使用[有趣的时刻流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
 
 ## 可用令牌 {#available-tokens}
 
-签出 [令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 查看您能放入有趣时刻的所有令牌。
+查看[令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)，查看您可以放进有趣时刻的所有令牌。
 
 ## 触发器令牌 {#trigger-tokens}
 
 根据智能营销活动中使用的触发器，可以使用其他触发器令牌。
 
-* `{{trigger.Trigger Name}}` 它总是真正的触发器。 例如：单击电子邮件中的链接。
-* `{{trigger.Name}}` 是触发营销活动的资源的名称。 例如：网页上的点击链接是URL本身、Salesforce触发器的主题等。
+* `{{trigger.Trigger Name}}`，始终是实际的触发器本身。 例如：单击电子邮件中的链接。
+* `{{trigger.Name}}`是触发营销活动的资源的名称。 例如：网页上的点击链接是URL本身、Salesforce触发器的主题等。
 * 基于下面列出的约束，提供了其他触发器。
 
 ### 电子邮件触发器 {#email-triggers}
@@ -1055,9 +1055,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果它没有支票 ![（勾号）](assets/check.png) 则它会在有趣的时刻返回空字符串（无）。
+>如果它没有检查![（勾号）](assets/check.png)，则它会在有趣的时刻返回空字符串（无）。
 
-&#42;触发器 **访问网页** 具有一些额外的令牌：
+&#42;触发器&#x200B;**访问网页**&#x200B;具有几个额外的令牌：
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

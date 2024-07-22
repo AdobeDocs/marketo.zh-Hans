@@ -17,23 +17,23 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-您可以 [删除项目频道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) 如果任何程序未使用它。  但是，一旦被使用，我们需要保留它。  但是，如果您不再需要它，则可以将其隐藏。
+如果任何节目未使用某个节目频道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)，您可以[删除该频道。  但是，一旦被使用，我们需要保留它。  但是，如果您不再需要它，则可以将其隐藏。
 
 ## 隐藏项目频道 {#hide-a-program-channel}
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
-1. 单击 **[!UICONTROL 标记]**.
+1. 单击&#x200B;**[!UICONTROL 标记]**。
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 
-1. 单击 **[!UICONTROL 渠道]** 下拉菜单并选择 **[!UICONTROL 渠道]** 藏起来。
+1. 单击&#x200B;**[!UICONTROL 频道]**&#x200B;下拉列表并选择要隐藏的&#x200B;**[!UICONTROL 频道]**。
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. 下 **[!UICONTROL 标记操作]**，单击 **[!UICONTROL 隐藏]**.
+1. 在&#x200B;**[!UICONTROL 标记操作]**&#x200B;下，单击&#x200B;**[!UICONTROL 隐藏]**。
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 

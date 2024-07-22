@@ -22,7 +22,7 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 >
 >启用“跳过周末”后，将按5天一周安排电子邮件。 这意味着，在计划步骤时，周末将忽略为天。
 
-1. 单击 **营销活动**.
+1. 单击&#x200B;**促销活动**。
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. 单击 **设置** 选项卡。
+1. 单击&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. 选择 **跳过周末** 复选框。
+1. 选中&#x200B;**跳过周末**&#x200B;复选框。
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 
 如果您使用的是电子邮件连接，我们将根据发送到用户收件箱的退回消息检测退回。 此外，我们可以在检测到退回时从销售活动中删除人员。
 
-1. 单击 **营销活动**.
+1. 单击&#x200B;**促销活动**。
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,11 +50,11 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. 单击 **设置** 选项卡。
+1. 单击&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. 选择 **退回时删除** 复选框。
+1. 选中&#x200B;**弹回时删除**&#x200B;复选框。
 
    ![](assets/sales-campaign-settings-8.png)
 
@@ -62,7 +62,7 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 
 如果您为Gmail或Exchange启用了回复跟踪，那么在收件人回复您的电子邮件时，我们可以自动结束您的促销活动。
 
-1. 单击 **营销活动**.
+1. 单击&#x200B;**促销活动**。
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,16 +70,16 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. 单击 **设置** 选项卡。
+1. 单击&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. 下 **如果回复**，进行所需的选择。
+1. 在&#x200B;**下，如果发生回复**，则进行所需的选择。
 
    ![](assets/sales-campaign-settings-12.png)
 
 >[!MORELIKETHIS]
 >
->* [创建销售活动](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>* [创建促销活动](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >* [了解电子邮件步骤的Sales Campaign发送选项](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
 >* [销售活动步骤类型和提醒任务](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

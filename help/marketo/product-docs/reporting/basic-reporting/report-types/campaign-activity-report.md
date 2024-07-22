@@ -13,11 +13,11 @@ ht-degree: 2%
 
 # 营销活动报表 {#campaign-activity-report}
 
-了解您的 [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) 正在执行。
+查看[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)的执行情况。
 
-1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 并选择 **营销活动** [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**促销活动** [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
-1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然后单击 **报表** 选项卡。
+1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)并单击&#x200B;**报告**&#x200B;选项卡。
 
 1. 太棒了！ 浏览您的报告以确定按活动类型分组的最有效的活动。
 
@@ -25,15 +25,15 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >例如，要查找处理最多人员的营销活动， [对报告进行排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 日期 _处理的人员总数_ 并选择 **降序排序**.
+   >要查找处理最多人员的营销活动，例如，按&#x200B;_处理人员总数_&#x200B;对报表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)进行排序，然后选择&#x200B;**降序排序**。[
 
-   单击智能营销活动的名称以将其打开。  [可选择的列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 促销活动报表包括：
+   单击智能营销活动的名称以将其打开。  您可以为促销活动报告选择[列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)包括：
 
    | 列 | 描述 |
    |---|---|
    | 批处理运行计数 | 营销活动运行的次数。 |
    | 处理的人员总数 | 已访问营销活动流的人数。 |
-   | 等待步骤中的人员 | 如果营销活动仍在运行，则保留在 *等待* 步骤。 |
+   | 等待步骤中的人员 | 如果营销活动仍在运行，则保留&#x200B;*等待*&#x200B;步骤中的人数。 |
    | 已从流中删除 | 已从营销活动中移除的人数。 |
    | 上一个活动 | 营销活动上次处理人员的时间。 |
 
@@ -41,11 +41,11 @@ ht-degree: 2%
 
    | 类型 | 描述 |
    |---|---|
-   | 批次 | 在中批量处理营销活动 **营销活动** 选项卡。 |
-   | 运行操作 | 人员活动从运行 **数据库**. |
-   | 已触发（活动） | 中当前触发的营销活动 **营销活动** 选项卡。 |
-   | 已触发（不活动） | 非活动触发了中的营销活动 **营销活动** 选项卡。 |
+   | 批次 | 在&#x200B;**营销活动**&#x200B;选项卡中批量处理营销活动。 |
+   | 运行操作 | 从&#x200B;**数据库**&#x200B;运行人员操作。 |
+   | 已触发（活动） | 在&#x200B;**营销活动**&#x200B;选项卡中当前触发的营销活动。 |
+   | 已触发（不活动） | 非活动在&#x200B;**营销活动**&#x200B;选项卡中触发了营销活动。 |
 
 >[!MORELIKETHIS]
 >
->[过滤促销活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
+>[筛选促销活动报告](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)

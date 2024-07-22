@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 哪些字段将同步到Marketo？ {#what-fields-will-sync-to-marketo}
 
-您可以 [选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} 设置期间。
+您可以[选择要在安装过程中同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}。
 
 ## 客户/联系人如何与业务机会关联？ {#how-is-an-account-contact-associated-with-an-opportunity}
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 * 在创建业务机会时，可以设置Contact （要联系的表单上的查找字段）和/或Account （要联系的表单上的查找字段）。 在任一情况下，这些值都存储在Dynamics的潜在客户(customerid)字段中。 此字段未显示在机会表单上，但可从设置添加。 此字段只能包含1个值，即联系人或帐户。 Marketo执行以下操作：
 
-   * 如果设置了联系人值并且帐户留空，Marketo将创建 `opportunitycontactrole` 并将商机的帐户设置为联系人的帐户。 如果联系人没有帐户，此字段将留空。
+   * 如果设置了联系人值并且帐户为空，则Marketo将创建一个`opportunitycontactrole`并将商机上的帐户设置为联系人的帐户。 如果联系人没有帐户，此字段将留空。
    * 如果设置了account值并且contact留空，则Marketo将只为该帐户设置商机上的帐户。
    * 如果同时设置了这两个值，则Dynamics会选择帐户作为customerid的值，因此其行为将与上面相同。
 
 
-* 通过利益干系人： Dynamics使用连接从机会创建页面将机会连接到利益干系人。 为此，我们将创建一个 `opportunitycontactrole` 记录每个新的利益相关者。
+* 通过利益干系人： Dynamics使用连接从机会创建页面将机会连接到利益干系人。 为此，我们将为每个新利益相关者创建一个`opportunitycontactrole`记录。

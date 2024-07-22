@@ -16,16 +16,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo支持部门无法提供任何有关Adobe IMS迁移的更新。 Adobe客户团队将在未来几个月内完成估计的时间表。 有关详细信息，请参阅 [本文](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}，和 [常见问题解答](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketo支持部门无法提供任何有关Adobe IMS迁移的更新。 Adobe客户团队将在未来几个月内完成估计的时间表。 有关详细信息，请参阅[本文](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}和[常见问题](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}。
 
 对于登记到Adobe身份的预订，Adobe Admin Console用于用户管理。 与身份相关的概念（如单点登录）也在Admin Console中进行管理。
 
-* 查找有关 [Adobe Admin Console](https://helpx.adobe.com/cn/enterprise/using/admin-console.html){target="_blank"}.
-* 查找有关 [设置与您的Marketo订阅相关的Adobe组织](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+* 查找有关[Adobe Admin Console](https://helpx.adobe.com/cn/enterprise/using/admin-console.html){target="_blank"}的更多信息。
+* 查找有关[设置与您的Marketo订阅相关的Adobe组织的更多信息](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
 
 >[!NOTE]
 >
->如果您希望实施单点登录，并且您的订购已登记到Adobe身份而无需Adobe组织中实施SSO，请将票证提交到 [Marketo支持](https://nation.marketo.com/){target="_blank"} 并将主题指定为“Admin Console上的Marketo，实现SSO”。
+>如果您希望实施单点登录并且您的订阅已登记到Adobe身份，但未在Adobe组织中实施SSO，请将票证提交到[Marketo支持](https://nation.marketo.com/){target="_blank"}，并将主题指定为“Admin Console上的Marketo，实施SSO”。
 
 ## 配置文件级别 {#profile-levels}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td><strong>Marketo Engage管理员</strong></td>
-  <td>被授予具有管理权限的Marketo Engage访问权限的用户。 已授予Marketo Engage中的角色，而不是Adobe Admin Console（在中显示为“管理员”） <b>编辑用户</b> 模式)。</td>
+  <td>被授予具有管理权限的Marketo Engage访问权限的用户。 已在Marketo Engage中授予角色，而不是Adobe Admin Console（在<b>编辑用户</b>模式中显示为“管理员”）。</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage用户</strong></td>
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 常见问题 {#faq}
 
-常见问题解答 [可在此处找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+常见问题解答[可在此找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

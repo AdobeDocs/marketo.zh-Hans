@@ -21,7 +21,7 @@ ht-degree: 3%
 
 ## 在项目中使用标记 {#use-a-tag-in-a-program}
 
-1. 选择您的项目。 单击 **设置**.
+1. 选择您的项目。 单击&#x200B;**设置**。
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 3%
 
 ## 编辑标记 {#edit-a-tag}
 
-1. 转到 **设置** 选项卡。 右键单击标记。 选择 **编辑**.
+1. 转到&#x200B;**设置**&#x200B;选项卡。 右键单击标记。 选择&#x200B;**编辑**。
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -61,11 +61,11 @@ ht-degree: 3%
 
 ## 删除标记  {#delete-a-tag}
 
-1. 转到 **设置** 选项卡。 右键单击标记并选择 **删除**.
+1. 转到&#x200B;**设置**&#x200B;选项卡。 右键单击标记并选择&#x200B;**删除**。
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. 单击 **删除** 以确认。
+1. 单击&#x200B;**删除**&#x200B;以确认。
 
    ![](assets/use-tags-in-a-program-11.png)
 

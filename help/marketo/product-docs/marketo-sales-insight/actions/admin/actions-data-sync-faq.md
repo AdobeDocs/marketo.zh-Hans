@@ -16,15 +16,15 @@ Sales Insight Actions的数据统一字段同步使系统可以将Marketo Engage
 
 这在Sales Insight Actions Web应用程序中提供了最新的人员数据，并允许系统收集Marketo中相应人员记录的唯一ID以及Salesforce中的潜在客户/联系人/帐户/机会记录，以便能够正确引用记录以供记录数据使用。
 
-可以从Marketo Engage中“管理员”部分的“Sales Insight操作配置”选项卡启用此同步。 有关详细信息，请查看 [启动数据同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
+可以从Marketo Engage中“管理员”部分的“Sales Insight操作配置”选项卡启用此同步。 有关详细信息，请查看[启动数据同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)。
 
 ![](assets/actions-data-sync-faq-1.png)
 
 上图显示了人员活动和任务数据如何在系统之间同步。 需要注意以下几点：
 
 * 人员记录从Marketo Engage同步到Sales Insight Actions ，使Marketo Engage成为Sales Insight Actions人员数据的真实来源
-* Marketo Engage和销售分析操作 [有一个机制](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 用于收集取消订阅状态并将其同步到Salesforce
-* 取消订阅状态不会从Sales Actions同步到Marketo Engage，但可以将Sales Insight Actions配置为在允许销售者发送电子邮件之前检查人员的Marketo取消订阅状态 [Marketo取消订阅检查](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* Marketo Engage和Sales Insight操作[都有一个机制](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)用于收集取消订阅状态并将其同步到Salesforce
+* 取消订阅状态不会从Sales Actions同步到Marketo Engage，但可以将Sales Insight Actions配置为先检查人员的Marketo Unsubscribe状态，然后再允许销售人员发送包含[Marketo Unsubscribe Check](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)的电子邮件。
 
 以下是有关数据统一同步如何工作的一些常见问题。
 
@@ -72,7 +72,7 @@ Sales Insight Actions的数据统一字段同步使系统可以将Marketo Engage
 
 ## 为什么Sales Insight Actions有自己的数据库？ {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions有其自己的Web应用程序，该应用程序具有专用的人员和活动数据库，可提供为销售团队构建和设计的优化工作区。 这样，销售经理和销售人员就可以腾出空间来构建和管理他们的参与策略，而无需向主要Marketo Engage工作区授予访问权限或特权，而工作区已经为营销运营专家进行了优化。
+Sales Insight Actions有其自己的Web应用程序，该应用程序具有专用的人员和活动数据库，可提供为销售团队构建和设计的优化工作区。 这使销售经理和销售人员能够腾出空间来构建和管理他们的参与策略   无需授予主Marketo Engage工作区的访问权限或特权，该工作区已针对营销操作专家进行了优化。
 
 ## 如何处理重复项？ {#how-are-duplicates-handled}
 
@@ -113,13 +113,13 @@ Sales Insight Actions有其自己的Web应用程序，该应用程序具有专�
 
 ![](assets/actions-data-sync-faq-6.png)
 
-上图显示了记录到Salesforce中的信息。 电子邮件和呼叫等活动记录到Salesforce中的 [单向同步](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [取消订阅](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 和 [提醒任务](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) 通过双向同步保持最新。 其中每个数据同步都可以从Sales Insight Actions Web应用程序界面中进行配置。
+上图显示了记录到Salesforce中的信息。 电子邮件和呼叫等活动在[单向同步](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)中记录到Salesforce。 [取消订阅](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)和[提醒任务](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)通过双向同步保持最新。 其中每个数据同步都可以从Sales Insight Actions Web应用程序界面中进行配置。
 
 >[!MORELIKETHIS]
 >
 >* [正在与Salesforce同步取消订阅](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Marketo取消订阅检查](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce同步设置](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
->* [与Salesforce同步提醒任务](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [提醒任务与Salesforce同步](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [启动数据同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
 

@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->登陆页面模式由其模板定义。 [了解详情](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 关于自由格式和引导式登陆页面模板。
+>登陆页面模式由其模板定义。 [了解更多](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)自由格式和引导式登陆页面模板。
 
 ## 在项目中创建自由格式登陆页面 {#create-a-free-form-landing-page-in-a-program}
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ ht-degree: 2%
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. 单击 **新建**. 选择 **新建本地资产**.
+1. 单击&#x200B;**新建**。 选择&#x200B;**新建本地资产**。
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. 单击 **登陆页面**.
+1. 单击&#x200B;**登陆页面**。
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -51,15 +51,15 @@ ht-degree: 2%
 
 >[!TIP]
 >
->URL自动根据项目和登陆页面名称构建。 要更改URL，请编辑 **页面URL** 字段。
+>URL自动根据项目和登陆页面名称构建。 要更改URL，请编辑&#x200B;**页面URL**&#x200B;字段。
 
 ## 在Design Studio中创建自由表单登陆页面 {#create-a-free-form-landing-page-in-design-studio}
 
-1. 转到 **Design Studio**.
+1. 转到&#x200B;**设计工作室**。
 
    ![](assets/designstudio.png)
 
-1. 单击 **新建**，则 **新建登陆页面**.
+1. 单击&#x200B;**新建**，然后单击&#x200B;**新建登陆页面**。
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -73,4 +73,4 @@ ht-degree: 2%
 
 >[!TIP]
 >
->如果不想在单击后立即打开编辑器，请取消选中“打开新页面的登陆页面编辑器” **创建**.
+>如果不想在单击&#x200B;**创建**&#x200B;后立即打开登陆页面编辑器，请取消选中“打开新页面的登陆页面编辑器”。

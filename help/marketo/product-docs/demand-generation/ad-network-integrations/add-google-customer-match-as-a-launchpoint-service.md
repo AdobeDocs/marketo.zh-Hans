@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]**.
+1. 转到&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/admin.png)
 
-1. 单击 **[!UICONTROL 启动点]**.
+1. 单击&#x200B;**[!UICONTROL 启动点]**。
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 选择 **[!UICONTROL 新建]** 则 **[!UICONTROL 新建服务]**.
+1. 选择&#x200B;**[!UICONTROL 新建]**，然后选择&#x200B;**[!UICONTROL 新服务]**。
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 输入 **[!UICONTROL 显示名称]** 并选择 **[!UICONTROL Google客户匹配]** 从 **[!UICONTROL 服务]** 下拉菜单。 单击 **[!UICONTROL 创建]**.
+1. 输入&#x200B;**[!UICONTROL 显示名称]**&#x200B;并从&#x200B;**[!UICONTROL 服务]**&#x200B;下拉列表中选择&#x200B;**[!UICONTROL Google客户匹配]**。 单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/chooseservice.png)
 
-1. 要连接Google AdWords帐户，请单击 **[!UICONTROL 授权]**.
+1. 要连接Google AdWords帐户，请单击&#x200B;**[!UICONTROL 授权]**。
 
    ![](assets/authorizeaccount-1.png)
 
@@ -43,15 +43,15 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >为了使Marketo能够跨多个AdWords帐户发送受众，您在以下步骤中授权的Google用户需要有权访问 _所有_ 这些账号的。
+   >为了使Marketo能够跨多个AdWords帐户发送受众，您在以下步骤中授权的Google用户需要有权访问这些帐户中的&#x200B;_所有_。
 
    ![](assets/chooseaccount.png)
 
-1. 查看请求的权限，然后单击 **[!UICONTROL 允许]**.
+1. 查看请求的权限，然后单击&#x200B;**[!UICONTROL 允许]**。
 
    ![](assets/reviewpermissions.png)
 
-1. 您的Google AdWords帐户现已连接到Marketo。 单击 **[!UICONTROL 创建]**.
+1. 您的Google AdWords帐户现已连接到Marketo。 单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/authorizesuccess.png)
 

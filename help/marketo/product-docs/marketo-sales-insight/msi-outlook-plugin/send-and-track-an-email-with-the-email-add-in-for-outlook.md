@@ -6,7 +6,7 @@ exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->如果尚未安装，请安装 [适用于Outlook的Marketo电子邮件加载项](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>如果尚未安装，请安装适用于Outlook的[Marketo电子邮件加载项](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >如果电子邮件中包含多个收件人，则所有活动都将在第一个收件人下被跟踪。
 
-1. 按常规方式撰写电子邮件，然后单击 **Send and Track**.
+1. 按常规方式撰写电子邮件，然后单击&#x200B;**发送并跟踪**。
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果要使用Marketo模板，请参阅 [使用模板从Outlook发送和跟踪](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >如果要使用Marketo模板，请参阅[使用模板从Outlook中发送和跟踪](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)。
 
-1. 查看预览并单击 **发送**.
+1. 查看预览并单击&#x200B;**发送**。
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 

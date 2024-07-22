@@ -15,19 +15,19 @@ ht-degree: 0%
 
 如果您有循环的批处理市场活动，并且不再需要它，则可以取消将来的运行。 具体方法如下。
 
-1. 选择Smart Campaign并单击 **计划** 选项卡。
+1. 选择Smart Campaign并单击&#x200B;**计划**&#x200B;选项卡。
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. 单击 **计划周期性**.
+1. 单击&#x200B;**计划周期性**。
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >您可以通过单击 ![红色x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) 旁边的。 了解如何 [取消计划的批处理营销活动运行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
+   >单击单个运行旁边的![红色x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png)可取消该运行。 了解如何[取消计划的批处理营销活动运行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}。
 
-1. 将计划设置为 **[!UICONTROL 无]** 并单击 **[!UICONTROL 保存]**.
+1. 将计划设置为&#x200B;**[!UICONTROL 无]**&#x200B;并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 

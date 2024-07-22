@@ -6,7 +6,7 @@ exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 - 这可能是显而易见的，但请尝试退出浏览器并打开一个全新的窗口。
 
-- 前往 [Web应用程序](https://toutapp.com/login) 并确保您已登录该页面。
+- 前往[Web应用程序](https://toutapp.com/login)并确保您已登录该应用程序。
 
-- 确保已启用Cookie。 如果您使用的是Chrome，请转到设置>显示高级设置>内容设置>取消选中“阻止第三方Cookie和网站数据”。
+- 确保已启用Cookie。 如果您使用的是Chrome，请转到“设置”>“显示高级设置”>“内容设置”>取消选中“阻止第三方Cookie和网站数据”。
 
 - 请尝试断开连接，然后重新连接Sales Connect浏览器扩展。
 
-如果以上提示都没有帮助，请 [提交案例](https://nation.marketo.com/community/support_solutions) 以支持。
+如果以上提示均无效，请[提交案例](https://nation.marketo.com/community/support_solutions)以寻求支持。

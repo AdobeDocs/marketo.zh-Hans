@@ -2,11 +2,11 @@
 description: 路径 — Marketo文档 — 产品文档
 title: 路由
 feature: Dynamic Chat
-exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,21 +20,21 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->帐户路由被赋予最高优先级。 当访客到达对话点以预约会议或启动实时聊天时， [帐户路由](#account-routing) 首先选中，然后再考虑其它路由选项。
+>帐户路由被赋予最高优先级。 当访客到达对话点以预约会议或启动实时聊天时，首先会选中[帐户路由](#account-routing)，然后再考虑其他路由选项。
 
 ## 创建自定义规则 {#create-a-custom-rule}
 
 在此示例中，我们将所有推断的状态（CA、OR和WA）的会议发送给John座席。
 
-1. 在配置下，单击 **路由规则**.
+1. 在配置下，单击&#x200B;**路由规则**。
 
    ![](assets/routing-1.png)
 
-1. 单击 **自定义规则** 选项卡。
+1. 单击&#x200B;**自定义规则**&#x200B;选项卡。
 
    ![](assets/routing-2.png)
 
-1. 单击 **创建规则**.
+1. 单击&#x200B;**创建规则**。
 
    ![](assets/routing-3.png)
 
@@ -54,7 +54,7 @@ ht-degree: 1%
 
    ![](assets/routing-7.png)
 
-1. 选择所有所需值后，单击 **保存**.
+1. 选择所有所需值后，单击&#x200B;**保存**。
 
    ![](assets/routing-8.png)
 
@@ -68,13 +68,13 @@ ht-degree: 1%
 
 在本例中，我们将把所有员工从乐高直接转给史蒂芬探员。
 
-1. 在“帐户路由”选项卡中，单击 **+添加帐户**.
+1. 在“帐户路由”选项卡中，单击&#x200B;**+添加帐户**。
 
    ![](assets/routing-10.png)
 
    >[!TIP]
    >
-   >您可以通过单击一次创建多个帐户 **上传帐户列表** 和上传CSV。
+   >通过单击&#x200B;**上传帐户列表**&#x200B;并上传CSV，您可以一次创建多个帐户。
 
 1. 输入公司的名称、域，然后选择所需的代理。
 

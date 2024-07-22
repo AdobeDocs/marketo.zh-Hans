@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Dimension**  — 属性（由黄色圆点表示），可显示各种衡量标准的不同视图。
+>**Dimension** — 为度量提供不同视图的属性（由黄点表示）。
 
 ![](assets/one-2.png)
 

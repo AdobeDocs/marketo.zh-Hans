@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # 销售分析操作用户入门核对清单 {#sales-insight-actions-user-onboarding-checklist}
 
-如果您正在寻找有关如何开始使用Marketo Sales Insight Actions的资源，请 [下载载入清单](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+如果您正在寻找有关如何开始使用Marketo销售分析操作的资源，请[下载入门核对清单](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)。
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是一个基于Web的应用程序，它通过 [Marketo销售分析包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 它有时称为“Marketo Sales”，或简称为“Actions”。
+>Marketo Sales Insight Actions是一个基于Web的应用程序，它通过[Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}与Salesforce用户界面集成。 它有时称为“Marketo Sales”，或简称为“Actions”。
 
 [![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
 

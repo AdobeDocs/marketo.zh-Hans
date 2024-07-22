@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 单流量操作 {#single-flow-action}
 
-1. 单击 **数据库**.
+1. 单击&#x200B;**数据库**。
 
    ![](assets/one-2.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 单击人员以将其选定。 单击 **人员操作** 下拉列表，单击 **营销** 并选择 **添加到指定帐户**.
+1. 单击人员以将其选定。 单击&#x200B;**人员操作**&#x200B;下拉列表，单击&#x200B;**营销**，然后选择&#x200B;**添加到指定帐户**。
 
    ![](assets/three.png)
 
-1. 单击 **指定帐户** 在下拉列表中，选择所需的命名帐户，然后单击 **立即运行**.
+1. 单击&#x200B;**命名帐户**&#x200B;下拉列表，选择所需的命名帐户，然后单击&#x200B;**立即运行**。
 
    ![](assets/four.png)
 
 ## 智能营销活动流量步骤 {#smart-campaign-flow-step}
 
-1. 选择您的Smart Campaign并单击 **流量**.
+1. 选择您的Smart Campaign并单击&#x200B;**流量**。
 
    ![](assets/five.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 单击 **指定帐户** 下拉列表，然后选择所需的指定帐户。
+1. 单击&#x200B;**命名帐户**&#x200B;下拉列表并选择所需的命名帐户。
 
    ![](assets/eight.png)
 
@@ -55,22 +55,22 @@ ht-degree: 0%
 
 ## 列表导入 {#list-import}
 
-1. 选择您的列表，单击 **列出操作** 下拉并选择 **导入列表**.
+1. 选择您的列表，单击&#x200B;**列表操作**&#x200B;下拉列表，然后选择&#x200B;**导入列表**。
 
    ![](assets/nine.png)
 
-1. 选择文件和设置后，单击 **下一个**.
+1. 选择文件和设置后，单击&#x200B;**下一步**。
 
    ![](assets/ten.png)
 
-1. 映射所需的字段。 确保 **指定帐户** 字段已映射。
+1. 映射所需的字段。 确保映射&#x200B;**命名帐户**&#x200B;字段。
 
    ![](assets/eleven.png)
 
-1. 选择所需的设置，然后单击 **导入**.
+1. 选择所需的设置，然后单击&#x200B;**导入**。
 
    ![](assets/twelve.png)
 
 >[!MORELIKETHIS]
 >
->[商机帐户匹配](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[潜在客户帐户匹配](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

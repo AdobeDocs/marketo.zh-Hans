@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -15,18 +15,18 @@ ht-degree: 4%
 
 您可以在Salesforce中禁用在Lead Assignment时发送给Lead Owners的自动电子邮件通知。 具体方法如下。
 
-1. 转到 **[!UICONTROL 管理员]**.
+1. 转到&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/admin-1.png)
 
-1. 单击 **[!DNL Salesforce]**.
+1. 单击&#x200B;**[!DNL Salesforce]**。
 
    ![](assets/adminsalesforce.png)
 
-1. 下 **[!UICONTROL 同步选项]**，单击 **[!UICONTROL 编辑]**.
+1. 在&#x200B;**[!UICONTROL 同步选项]**&#x200B;下，单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/salesforcesummary2.jpg)
 
-1. 取消选中 **[!UICONTROL 在潜在客户分配时向Salesforce中的所有者发送电子邮件通知]** 盒子。 单击&#x200B;**[!UICONTROL 保存]**。
+1. 取消选中&#x200B;**[!UICONTROL 在潜在客户分配时向Salesforce中的所有者发送电子邮件通知]**&#x200B;框。 单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/new-screen.png)

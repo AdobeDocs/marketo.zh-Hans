@@ -6,7 +6,7 @@ exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 ## 设置节奏 {#set-cadence}
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 查找并选择您的参与计划，单击 **流** 选项卡，然后单击 **设置流节奏**.
+1. 查找并选择您的参与计划，单击&#x200B;**流**&#x200B;选项卡，然后单击&#x200B;**设置流节奏**。
 
    ![](assets/selectstreamcadence.jpg)
 
-1. 选择您希望节奏再现的频率。 您可以选择 **每周** 或 **每月**.
+1. 选择您希望节奏再现的频率。 您可以选择每周&#x200B;**或**&#x200B;每月&#x200B;**。**
 
 ## 每周 {#weekly}
 
-1. 选择 **每周**.
+1. 选择&#x200B;**每周**。
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >选择 **无** 会切断溪流。
+   >选择&#x200B;**无**&#x200B;将关闭流。
 
 1. 选择第一次演出的日期。
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以通过选择将节奏设置为每天运行 **重复：每周** / **每：1周** / **开启**：所有天。
+   >您可以通过选择&#x200B;**重复： Weekly** / **Every： 1周** / **On**：所有天，将您的节奏设置为每天运行。
 
-   现在选择时间。 如果要使用，请勾选方框 [收件人时区](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（即根据本地时区投放），然后单击 **保存**.
+   现在选择时间。 如果要使用[收件人时区](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（即根据本地时区投放），请选中该框，然后单击&#x200B;**保存**。
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ## 每月 {#monthly}
 
-1. 选择 **每月** 重复多少次。
+1. 选择&#x200B;**每月**&#x200B;重复频率。
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
    >
    >或者，您可以选择一周的某天。
 
-1. 选取 **时间** 并单击 **保存**.
+1. 选择&#x200B;**时间**&#x200B;并单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 

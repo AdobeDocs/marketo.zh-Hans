@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/rename-a-field-1.png)
 
-1. 单击 **[!UICONTROL 字段管理]**.
+1. 单击&#x200B;**[!UICONTROL 字段管理]**。
 
    ![](assets/rename-a-field-2.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >单击 **[!UICONTROL 使用者]** 链接以查找引用此字段的资源。
+   >单击&#x200B;**[!UICONTROL 使用者]**&#x200B;链接查找引用此字段的资源。
 
-1. 重命名该字段并单击 **[!UICONTROL 保存]**.
+1. 重命名该字段并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/rename-a-field-4.png)
 

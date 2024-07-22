@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 添加附件 {#add-an-attachment}
 
-1. 创建您的电子邮件草稿(可通过多种方法执行此操作，在本例中，我们将选择 **撰写** （在标题中）。
+1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**撰写**）。
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
@@ -32,13 +32,13 @@ ht-degree: 0%
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. 选择要附加的文件，然后单击 **插入**.
+1. 选择要附加的文件，然后单击&#x200B;**插入**。
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
-   >如果您需要上传文件，请单击 **上传内容** 按钮来打开窗口。
+   >如果需要上传文件，请单击窗口右上角的&#x200B;**上传内容**&#x200B;按钮。
 
    附件显示在电子邮件的底部。
 
@@ -58,13 +58,13 @@ ht-degree: 0%
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. 选择要添加的内容，单击 **内容已跟踪** 滑块，然后单击 **插入**.
+1. 选择要添加的内容，单击&#x200B;**已跟踪的内容**&#x200B;滑块，然后单击&#x200B;**插入**。
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >如果您需要上传文件，请单击 **上传内容** 按钮来打开窗口。
+   >如果需要上传文件，请单击窗口右上角的&#x200B;**上传内容**&#x200B;按钮。
 
    该内容将作为链接显示在您的电子邮件中。 收件人可以单击链接以下载内容。
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 ![](assets/add-an-attachment-or-trackable-content-14.png)
 
-**实时信息源中的可跟踪内容事件**
+实时信息源中的&#x200B;**可跟踪的内容事件**
 
 当潜在客户单击我们文档的链接时，您将看到一个单击事件。 您可以单击该链接以查看内容。 只要您在浏览器中登录到您的Actions帐户，我们就不会将这些点击计为事件。
 

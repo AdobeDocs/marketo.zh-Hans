@@ -6,7 +6,7 @@ exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以在此处选择和自定义应用程序内消息图像。
 
-1. 选择应用程序内消息并单击 **编辑草稿**.
+1. 选择应用程序内消息并单击&#x200B;**编辑草稿**。
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >模板之间有何区别？ 请参阅 [选择应用程序内消息的布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) 在开始之前。
+   >模板之间有何区别？ 在开始之前，请参阅[为您的应用程序内消息选择布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)。
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. 单击 **样式** 选项卡，然后单击模板的图像区域。
+1. 单击&#x200B;**样式**&#x200B;选项卡，然后单击模板的图像区域。
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. 单击 **选择图像**.
+1. 单击&#x200B;**选择图像**。
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. 从设计工作室中选择您的图像并单击 **选择**.
+1. 从Design Studio中选择您的图像，然后单击&#x200B;**选择**。
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
    >
    >图像大小限制为1440 x 2560像素，5MB。
 
-1. 改变主意想改用别的图像吗？ 没问题。 单击 **X** 在图像文件名旁边。
+1. 改变主意想改用别的图像吗？ 没问题。 单击图像文件名旁边的&#x200B;**X**。
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. 单击 **移除**. 现在，你可以选另一个了。
+1. 单击&#x200B;**删除**。 现在，你可以选另一个了。
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. （可选）应用图像边框。 默认设置为 **关闭**. 首先，通过单击颜色或在拾色器上输入十六进制或RGB号来选择颜色。
+1. （可选）应用图像边框。 默认设置为&#x200B;**关闭**。 首先，通过单击颜色或在拾色器上输入十六进制或RGB号来选择颜色。
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. 选择边距（打开或关闭）。 **开启** 是默认设置。
+1. 选择边距（打开或关闭）。 **On**&#x200B;是默认设置。
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -85,11 +85,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >对于图像、按钮或背景的点按操作，您可以为Apple和Android平台设置其他操作。 例如，对于Apple和Android，深层链接的处理方式不同。 如果您的消息仅发送到一个平台或另一个平台，请将另一个平台保留为默认设置或选择 **无**.
+   >对于图像、按钮或背景的点按操作，您可以为Apple和Android平台设置其他操作。 例如，Apple和Android处理深层链接的方式有所不同。 如果您的消息只发送到一个平台或另一个平台，请将另一个平台保留为默认设置，或选择&#x200B;**无**。
 
-做得好！ 现在，是时候 [为应用程序内消息创建文本](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
+做得好！ 现在是[为您的应用程序内消息创建文本的时间](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)。
 
 >[!MORELIKETHIS]
 >
 >* [了解应用程序内消息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [选择应用程序内消息的布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [为您的应用程序内消息选择布局](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

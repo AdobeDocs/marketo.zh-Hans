@@ -6,7 +6,7 @@ exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Marketo Engage还会将您的帐户信息与Salesforce同步。 以下是一些�
 
 ## 联系人是否可以属于多个帐户？  {#can-a-contact-belong-to-multiple-accounts}
 
-否. 一个帐户可以有多个联系人，一个联系人只能有一个帐户。
+不适用。 一个帐户可以有多个联系人，一个联系人只能有一个帐户。
 
 ## 我能否从Marketo创建帐户？ {#can-i-create-accounts-from-marketo}
 
-大多没有。 但是，如果您使用 [转换人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} 流程步骤，它将创建一个新Contact、一个新Account和一个新Opportunity。
+大多没有。 但是，如果您对人员使用[转化人员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}流程步骤，它将创建新联系人、新帐户和新的机会。
 
 >[!CAUTION]
 >

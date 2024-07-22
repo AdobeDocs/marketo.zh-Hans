@@ -13,39 +13,39 @@ ht-degree: 0%
 
 # 向表单字段添加工具提示说明 {#add-tooltip-instructions-to-a-form-field}
 
-[提示](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) 和说明帮助人们填写表格。 以下是如何添加工具提示说明。
+[提示](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)和说明可帮助人们填写表单。 以下是如何添加工具提示说明。
 
 >[!NOTE]
 >
->**条件**
+>**定义**
 >
->表单 **提示** 是位于字段中的文本，当访客开始在字段中键入内容时该文本消失。
+>表单&#x200B;**提示**&#x200B;是当访客开始在字段中键入内容时字段中消失的文本。
 >
->表单 **说明** 是访客将鼠标悬停在字段上时弹出的一些小工具提示。
+>表单&#x200B;**说明**&#x200B;是当访客将鼠标悬停在该字段上时弹出的小工具提示。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-6.png)
 
-1. 选择您的 **表单** 并单击 **编辑表单**.
+1. 选择您的&#x200B;**表单**&#x200B;并单击&#x200B;**编辑表单**。
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. 选择您的字段并输入 **说明**.
+1. 选择您的字段并输入&#x200B;**说明**。
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. 单击 **完成**.
+1. 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. 单击 **批准并关闭**.
+1. 单击&#x200B;**批准并关闭**。
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
    >[!NOTE]
    >
-   >别忘了 [批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表单更改创建。
+   >不要忘记[批准由表单更改创建的登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 

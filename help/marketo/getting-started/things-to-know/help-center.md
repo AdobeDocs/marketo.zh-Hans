@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # 帮助中心 {#help-center}
 
-Adobe Marketo Engage中的帮助中心是获取帮助的集中位置。 除了链接到各种资源(例如 [产品文档](/help/marketo/home.md){target="_blank"}， [发行信息](/help/marketo/release-notes/current.md){target="_blank"}， [营销国家社区](https://nation.marketo.com/){target="_blank"})，您可以访问按体验级别组织的有用产品内演练。
+Adobe Marketo Engage中的帮助中心是获取帮助的集中位置。 除了链接到各种资源（例如[产品文档](/help/marketo/home.md){target="_blank"}、[发行信息](/help/marketo/release-notes/current.md){target="_blank"}、[营销国家社区](https://nation.marketo.com/){target="_blank"}）之外，您还可以访问按体验级别组织的有用产品内演练。
 
 ## 如何访问 {#how-to-access}
 
@@ -30,21 +30,21 @@ Adobe Marketo Engage中的帮助中心是获取帮助的集中位置。 除了�
 
    ![](assets/help-center-3.png)
 
-1. 单击 **开始使用**.
+1. 单击&#x200B;**开始**。
 
    ![](assets/help-center-4.png)
 
-1. 单击 **下一个** 以继续。
+1. 单击&#x200B;**下一步**&#x200B;继续。
 
    ![](assets/help-center-5.png)
 
-1. 单击 **完成** 退出演练。
+1. 单击&#x200B;**完成**&#x200B;退出演练。
 
    ![](assets/help-center-6.png)
 
    >[!TIP]
    >
-   >可随时退出指南，方法是单击 **取消**.
+   >随时通过单击&#x200B;**解除**&#x200B;退出该指南。
 
 ### 新增功能 {#whats-new}
 

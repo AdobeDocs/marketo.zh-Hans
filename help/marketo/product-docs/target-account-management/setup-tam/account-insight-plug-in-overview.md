@@ -6,24 +6,24 @@ exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
 source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # 帐户分析插件概述 {#account-insight-plug-in-overview}
 
-帐户分析是一个Chrome插件，可向您的销售团队展示可操作的TAM和帐户分析，从而让他们能够更有效地与帐户互动。
+“帐户分析”是一个Chrome插件，可向您的销售团队展示切实可行的营销策划和帐户分析，从而让他们能够更有效地与帐户互动。
 
 >[!AVAILABILITY]
 >
 >* 所有同时拥有TAM和Marketo Sales Insight的客户都可以使用Account Insight。 对于只拥有TAM的客户，客户分析可作为购买的加载项使用。 每个客户最多只能获得250个Account Insight名额。 有关详细信息，请与您的销售代表联系。 它不适用于没有TAM的客户。
 >
->* 此插件与 [Adobe身份验证](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此时。
+>* 此插件目前与[Adobe身份验证](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}不兼容。
 
 >[!CAUTION]
 >
->帐户分析插件不适用于具有以下特征的订阅： [仅限SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) （单点登录）已启用。
+>帐户分析插件无法在启用了[仅限SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)（单点登录）的订阅中运行。
 
 >[!CAUTION]
 >
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ![](assets/af1.png)
 
-单击 **筛选** 下拉菜单以按不同的活动类型进行过滤。
+单击&#x200B;**筛选器**&#x200B;下拉列表以按不同的活动类型进行筛选。
 
 ![](assets/af2.png)
 

@@ -1,10 +1,10 @@
 ---
 description: 参与度图概述 — Marketo文档 — 产品文档
 title: 参与度图概述
-exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 访问参与图 {#accessing-engagement-map}
 
-导航到任何现有营销策划，然后单击 **参与图** 按钮。
+导航到任何现有的促销活动，然后单击&#x200B;**参与图**&#x200B;按钮。
 
 ![](assets/engagement-map-overview-2.png)
 
-在参与度图中，您将看到两个选项卡： [参与图](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+在参与映射中，您将看到两个选项卡：[参与映射](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}和[设置](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}。
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 **过滤器**：在包含过滤器的营销活动中，映射将包含过滤器概述信息卡。 单击它将显示一个滑出面板，其中包含有关每个过滤器的其他信息。
 
-**流程步骤**：每个营销活动都将包含用于每个流量步骤的信息卡。 单击它们将显示一个包含其他信息的滑出面板。
+**流程步骤**：每个营销活动将包含每个流程步骤的信息卡。 单击它们将显示一个包含其他信息的滑出面板。
 
 **选项**：如果流程步骤包含一个或多个选项，则单击流程卡将显示每个选项的卡片，以及包含其他信息的滑出面板。
 
@@ -71,21 +71,21 @@ ht-degree: 0%
 
 ## 常见问题 {#faq}
 
-**我是否必须在参与度图中重建所有营销活动？**
+**我是否必须在参与度映射中重新生成所有营销活动？**
 
-否. 参与图具有完全向后兼容性。 通过单击按钮，您可以在可视化参与度图界面中查看每个现有营销活动。
+不适用。 参与图具有完全向后兼容性。 通过单击按钮，您可以在可视化参与度图界面中查看每个现有营销活动。
 
-**Marketo Engage中具有参与度映射是否意味着我将失去对文件夹结构的访问权限，并且必须重新学习如何构建Smart Campaign？**
+**Marketo Engage中具有参与映射是否意味着我将失去对文件夹结构的访问权限，并且必须重新学习如何构建Smart Campaign？**
 
-否. 参与度图的好处在于，它可以让您做到两全其美；它是当前构建营销活动的方式的补充。 所有用户仍可获得Marketo Engage的强大功能集，该功能集现在由清晰的视觉效果作为补充。
+不适用。 参与度图的好处在于，它可以让您做到两全其美；它是当前构建营销活动的方式的补充。 所有用户仍可获得Marketo Engage的强大功能集，该功能集现在由清晰的视觉效果作为补充。
 
-**参与度映射是否为付费加载项？**
+**参与映射是否为付费加载项？**
 
-否. 所有订阅下的所有现有和新Marketo Engage用户都将有权访问此免费功能。
+不适用。 所有订阅下的所有现有和新Marketo Engage用户都将有权访问此免费功能。
 
 **作为Marketo Engage管理员，我是否负责打开/关闭参与图？**
 
-否. 参与度映射将适用于其实例中的所有用户。 您将无法为某些用户、工作区等打开/关闭此功能。
+不适用。 参与度映射将适用于其实例中的所有用户。 您将无法为某些用户、工作区等打开/关闭此功能。
 
 **这与其他可视化生成器有何不同？**
 
@@ -99,5 +99,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [“参与图”选项卡](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
->* [“设置”选项卡](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}
+>* [参与映射选项卡](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [设置选项卡](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

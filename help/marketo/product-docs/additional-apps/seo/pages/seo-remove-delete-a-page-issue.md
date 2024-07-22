@@ -15,19 +15,19 @@ ht-degree: 0%
 
 并非所有页面问题都可能对您有用。 下面是如何删除一个。
 
-1. 转到 **[!UICONTROL 页面]** 部分。
+1. 转到&#x200B;**[!UICONTROL 页面]**&#x200B;部分。
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. 在 [!UICONTROL 页面] 部分，单击 **[!UICONTROL 问题]**.
+1. 在[!UICONTROL 页面]分区中，单击&#x200B;**[!UICONTROL 问题]**。
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. 将鼠标悬停在要删除的页面问题上。 单击 **[!UICONTROL 移除]**.
+1. 将鼠标悬停在要删除的页面问题上。 单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. 点击 **[!UICONTROL 删除]** 将永久删除此页面问题。
+1. 单击&#x200B;**[!UICONTROL 删除]**&#x200B;将永久删除此页面问题。
 
    >[!CAUTION]
    >

@@ -6,7 +6,7 @@ exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,6 @@ ht-degree: 0%
 >
 >Marketo界面最多只显示10个级别（父帐户的子帐户和孙帐户），但是您可以创建的子帐户数量没有限制。
 
-定位并报告整个层级，使用 [一键单击](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+单击[即可定位并报告整个层次结构](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account)。
 
 ![](assets/member.png)

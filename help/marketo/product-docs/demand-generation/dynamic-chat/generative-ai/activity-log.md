@@ -14,11 +14,11 @@ ht-degree: 0%
 
 查看所有任务的列表及其随附的详细信息，包括名称、所有者、类型以及编辑这些任务的人和时间。
 
-1. 在“生成AI”下，单击 **[!UICONTROL 辅助响应]**.
+1. 在“生成AI”下，单击&#x200B;**[!UICONTROL 辅助响应]**。
 
    ![](assets/activity-log-1.png)
 
-1. 单击 **[!UICONTROL 活动日志]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL 活动日志]**&#x200B;选项卡。
 
    ![](assets/activity-log-2.png)
 

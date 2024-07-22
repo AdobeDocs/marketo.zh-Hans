@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/results.png)
 
-虽然可选，但我们仍建议您选中自动提升复选框，因为这将为您节省大量时间。 但是，如果您想查看每个帐户和 [手动添加它们](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)，则只需取消选中该框即可。
+虽然可选，但我们仍建议您选中自动提升复选框，因为这将为您节省大量时间。 但是，如果您想查看每个帐户并[手动添加它们](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)，只需取消选中该框即可。
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ ht-degree: 0%
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>帐户 (%)</strong></td> 
+   <td><strong>帐户(%)</strong></td> 
    <td> 
     <div>
       模型输入中具有此排名的帐户的百分比。 
@@ -106,7 +106,7 @@ ht-degree: 0%
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>方法</strong></td> 
+   <td><strong>意图</strong></td> 
    <td> 
     <div>
       意图指示器。 
@@ -158,13 +158,13 @@ ht-degree: 0%
 
 ![](assets/add-icp.png)
 
-通过选中导出框，您可以在指定帐户详细信息页面上查看ICP指示符，并将选定的ICP指示符用作中的约束条件 [指定帐户筛选器](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+通过选中导出框，可在“指定帐户详细信息”页面上查看ICP指示器，并将选定的ICP指示器用作[指定帐户筛选器](/help/marketo/product-docs/target-account-management/engage/account-filters.md)中的约束。
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP指标作为约束包含在中 **指定帐户的成员** 筛选器和触发器。
+>ICP指示符作为约束包含在指定帐户&#x200B;**筛选器和触发器的**&#x200B;成员中。
 
 指标权重是控制每个指标在模型中接收的重要性级别的内容。
 
@@ -174,6 +174,6 @@ ht-degree: 0%
 
 ![](assets/refresh-button.png)
 
-完成模型调整（刷新模型后）后，返回模型结果选项卡并单击 **保存并应用排名**.
+完成模型调整（刷新模型后）后，返回模型结果选项卡，然后单击&#x200B;**保存并应用排名**。
 
 ![](assets/ranks.png)

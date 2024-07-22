@@ -29,15 +29,15 @@ ht-degree: 2%
 
 ## 导出对象元数据 {#export-object-metadata}
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. 单击 **[!UICONTROL 字段管理]**.
+1. 单击&#x200B;**[!UICONTROL 字段管理]**。
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. 单击 **[!UICONTROL 导出所有对象]**.
+1. 单击&#x200B;**[!UICONTROL 导出所有对象]**。
 
    ![](assets/export-all-object-metadata-3.png)
 

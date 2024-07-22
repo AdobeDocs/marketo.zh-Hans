@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在Web应用程序中，单击 **营销活动**.
+1. 在Web应用程序中，单击&#x200B;**促销活动**。
 
    ![](assets/view-campaigns-list-as-another-user-1.png)
 
-1. 单击 **查看方式** 下拉列表并选择所需的用户。
+1. 单击&#x200B;**查看方式**&#x200B;下拉列表并选择所需的用户。
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 

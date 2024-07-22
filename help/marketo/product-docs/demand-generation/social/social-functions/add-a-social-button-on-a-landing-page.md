@@ -19,38 +19,38 @@ ht-degree: 0%
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. 导航到您的登陆页面并单击 **编辑草稿**.
+1. 导航到您的登陆页面，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. 拖动到 **社交按钮** 从右边的元素。
+1. 从右侧的元素中拖动到&#x200B;**社交按钮**&#x200B;上。
 
    ![](assets/image2014-9-17-10-3a35-3a6.png)
 
-1. 选择 **社交按钮（使用Analytics）**.
+1. 选择&#x200B;**社交按钮（使用Analytics）**。
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   在登陆页面处于活动状态后，查看由您生成的活动 **社交按钮** （使用Analytics） [社交信息板](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   登陆页面激活后，请在[社交仪表板](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)上查看&#x200B;**社交按钮**（包含Analytics）生成的活动。
 
-   如果添加 **点赞/推荐按钮(Lite)** 取而代之，请参见 [登陆页面性能报表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   如果您改为添加&#x200B;**类似/推荐按钮(Lite)**，请在[登陆页面性能报表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)中查看共享数量。
 
-1. 选择 **新建** 从下拉菜单中查找。
+1. 从下拉列表中选择&#x200B;**新建**。
 
    >[!NOTE]
    >
-   >您还可以通过选择在项目中创建社交按钮 **新建** > **新建本地资产**.
+   >您还可以通过选择&#x200B;**新建** > **新建本地资产**，在项目中创建社交按钮。
 
-1. 命名您的社交按钮，选择 **无** 从 **克隆** **从**，然后单击 **插入**.
+1. 命名您的社交按钮，从&#x200B;**克隆** **克隆**&#x200B;中选择&#x200B;**无**，然后单击&#x200B;**插入**。
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-恭喜！您已将社交按钮添加到登陆页面。 确保批准登陆页面。 您还可以 [将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 或 [将社交按钮放置到您的网站上](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+恭喜！您已将社交按钮添加到登陆页面。 确保批准登陆页面。 您还可以[将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或[将社交按钮放置到您的网站上](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
 
 >[!TIP]
 >
->为了节省时间，您可以使用 **克隆** 用于从现有社交按钮复制所有设置的选项。
+>为了节省时间，您可以使用&#x200B;**从**&#x200B;克隆选项从现有的社交按钮复制所有设置。
 
 >[!MORELIKETHIS]
 >
->已完成，但您可以根据需要更改社交按钮的设置。 开始于 [自定义按钮样式](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) 和 [编辑共享消息](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 它呈现。
+>已完成，但您可以根据需要更改社交按钮的设置。 首先[自定义按钮样式](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)和[编辑它显示的共享消息](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)。

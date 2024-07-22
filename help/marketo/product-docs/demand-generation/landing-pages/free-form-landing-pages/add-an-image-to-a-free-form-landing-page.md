@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >[将图像和文件添加到Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. 选择您的自由格式登陆页面并单击 **编辑** **草稿**.
+1. 选择您的自由格式登陆页面，然后单击&#x200B;**编辑** **草稿**。
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. 在编辑器中，将 **图像** 元素。
+1. 在编辑器中，拖动&#x200B;**Image**&#x200B;元素。
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. 单击 **插入**.
+1. 单击&#x200B;**插入**。
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 

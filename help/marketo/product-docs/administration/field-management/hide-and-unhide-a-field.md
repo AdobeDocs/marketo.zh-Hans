@@ -21,15 +21,15 @@ ht-degree: 1%
 >
 >**需要管理员权限**
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. 单击 **[!UICONTROL 字段管理]**.
+1. 单击&#x200B;**[!UICONTROL 字段管理]**。
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. 找到该字段，选择它，然后在 **[!UICONTROL 字段操作]** 单击 **[!UICONTROL 隐藏字段]**.
+1. 找到该字段并选择它，然后在&#x200B;**[!UICONTROL 字段操作]**&#x200B;下单击&#x200B;**[!UICONTROL 隐藏字段]**。
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 1%
    >* 您不能隐藏标准（系统）字段。
    >* 无法隐藏机会信息字段。
 
-1. 单击 **[!UICONTROL 隐藏]** 以确认。
+1. 单击&#x200B;**[!UICONTROL 隐藏]**&#x200B;以确认。
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -49,15 +49,15 @@ ht-degree: 1%
 
 ## 取消隐藏字段 {#unhide-a-field}
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. 单击 **[!UICONTROL 字段管理]**.
+1. 单击&#x200B;**[!UICONTROL 字段管理]**。
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. 查找并选择字段。 在 [!UICONTROL 字段操作] 下拉列表，单击 **[!UICONTROL 取消隐藏字段]**.
+1. 查找并选择字段。 在[!UICONTROL 字段操作]下拉列表中，单击&#x200B;**[!UICONTROL 取消隐藏字段]**。
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

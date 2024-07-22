@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. 选择 **嵌入代码** 来自社交应用程序操作。
+1. 从社交应用程序操作中选择&#x200B;**嵌入代码**。
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. 复制网站页眉的代码(`<head>`)和正文(`<body>`)。
+1. 复制网站页眉(`<head>`)和正文(`<body>`)的代码。
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. 如果您需要将社交应用程序的大小设置为页面上的特定维度，请添加 **outerheight** 和 **外部宽度** 选项到第二个代码片段。 例如，您可以添加 `options='{"outerHeight":400, "outerWidth":600}'`，如下所示：
+1. 如果需要将社交应用程序的大小设置为页面上的特定维度，请将&#x200B;**outerHeight**&#x200B;和&#x200B;**outerWidth**&#x200B;选项添加到第二个代码片段中。 例如，您可以添加`options='{"outerHeight":400, "outerWidth":600}'`，如下所示：
 
    ![](assets/socialonsite-resizewidget2.png)
 
@@ -49,6 +49,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [“自定义社交应用程序”按钮](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [自定义社交应用按钮](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
    >* [设置社交共享要求](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-   >* [将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Publish登录页面到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)

@@ -2,11 +2,11 @@
 description: 操作评分人口统计 — Marketo文档 — 产品文档
 title: OP — 评分 — 人口统计
 feature: Programs
-exl-id: c0e69f35-a3b7-496d-a9b6-b3e7168b07f4
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 16%
+source-wordcount: '310'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 这是一个高级（标记化）操作程序的示例，该程序利用Marketo Engage默认程序进行人口统计评分。 在项目的“我的令牌”选项卡下查看和编辑评分值。 需要名为“人口统计分数”的自定义分数字段。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -52,7 +52,7 @@ ht-degree: 16%
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -236,19 +236,19 @@ ht-degree: 16%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
-   * 复制原始模板 —  _推荐_
+   * 复制原始模板 — _推荐_
    * 使用目标模板
 
 * **具有相同名称的图像**
-   * 保留两个文件 —  _推荐_
+   * 保留两个文件 — _推荐_
    * 替换此订阅中的项目
 
 * **同名电子邮件模板**
-   * 保留两个模板 —  _推荐_
+   * 保留两个模板 — _推荐_
    * 替换现有模板
 
 ## 最佳实践 {#best-practices}

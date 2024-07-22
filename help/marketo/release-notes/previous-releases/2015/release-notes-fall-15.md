@@ -6,7 +6,7 @@ exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 [Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-我们很高兴地宣布推出Google Mail Sales Insight扩展的更新版本！ 在中查看它  [Chrome商店](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+我们很高兴地宣布推出Google Mail Sales Insight扩展的更新版本！ 在[Chrome应用商店](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中查看它。
 
 此更新包括许多新特性和功能：
 
-* 在接洽之前，销售人员可以直接在Google Mail中查看其潜在客户的相关信息，包括职称、twitter个人资料、公司信息、照片等。
+* 在参与之前，销售人员可以直接在Google Mail中查看其潜在客户的相关信息，包括职称、twitter资料、公司信息、照片等。
 * 销售人员可以实时查看跨渠道的潜在客户参与的内容，例如打开或单击电子邮件、参加在线或面对面活动、访问网页、下载电子书等等。
 * 通过Google Mail发送的电子邮件记录在Marketo中并实时跟踪。 这可以让销售人员查看潜在客户何时查看其电子邮件，以便他们在适当的时间进行跟踪。 通过Google Mail的Marketo销售分析，销售人员还可以轻松地利用营销人员创建的模板，发送精美的邀请、优惠和其他类型的内容。
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 * [发送示例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [预览](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-使用轻松个性化推送通知 [令牌](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+使用[令牌](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)轻松个性化推送通知。
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-您还可以 [预览](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) 或发送 [示例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) 在将推送通知部署到客户之前。
+您还可以[预览](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)，或者在将其部署到客户之前发送[示例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)推送通知。
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 ## RTP - Content Analytics和Recommendations {#rtp-content-analytics-and-recommendations}
 
-[内容分析](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 和Recommendations
+[内容分析](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)和Recommendations
 
 RTP内容分析通过常规Web访问以及通过RTP内容推荐引擎生成的访问来显示Web内容资产的性能。
 
@@ -94,10 +94,10 @@ RTP内容分析通过常规Web访问以及通过RTP内容推荐引擎生成的�
 * 通过在RTP的预测内容引擎中启用内容来自动向合适的访客推荐最佳内容，增加内容使用量
 * 深入查看每个内容资产以了解更深入的量度、图形和性能
 
-RTP的“资源”页面现在分为Content Analytics和Content Recommendations。
+RTP的Assets页面现在分为内容分析和内容Recommendations。
 
-* **内容分析：** 显示所有已发现和定义的Web内容的视图和直接潜在客户，帮助您分析表现最佳的内容
-* **内容Recommendations**：显示RTP推荐内容的展示次数和点击次数以及关联的商机归因。 您还可以在此页面中为编辑和启用内容推荐 [条形图](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 和 [富媒体](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) recommendations.
+* **内容分析：**&#x200B;显示所有已发现和定义的网页内容的视图和直接潜在客户，帮助您分析表现最佳的内容
+* **内容Recommendations**：显示RTP推荐内容中的展示次数和点击次数以及相关潜在客户归因。 您还可以编辑和启用此页面中的[栏](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)和[富媒体](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)推荐的内容推荐。
 
 * 自年初（2015年1月1日）以来，已追溯更新这两个页面中的所有直接销售线索数据。
 
@@ -125,7 +125,7 @@ RTP的“资源”页面现在分为Content Analytics和Content Recommendations�
 
 `<!--[if gte mso 9]> <![endif]-->`
 
-* 不要用填充空表单元格 `&nbsp;`
+* 不要用`&nbsp;`填充空表单元格
 
 * 已向HTML源代码编辑器中添加“最大化/最小化”按钮
 * 现在可在“表属性”对话框中识别和显示预先存在的表属性
@@ -172,6 +172,6 @@ RTP的“资源”页面现在分为Content Analytics和Content Recommendations�
 
 此新插件以异步模式运行各种操作，以帮助提高性能。
 
-## 在Design Studio中按URL搜索登陆页面 {#search-by-url-of-landing-page-in-design-studio}
+## 在Design Studio中按登陆页面的URL搜索 {#search-by-url-of-landing-page-in-design-studio}
 
 在Design Studio登陆页面网格中，您现在可以按页面URL进行搜索以查找登陆页面。 该内容也可以导出。

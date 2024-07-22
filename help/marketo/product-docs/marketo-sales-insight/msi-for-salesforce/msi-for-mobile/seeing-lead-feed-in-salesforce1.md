@@ -15,7 +15,7 @@ ht-degree: 0%
 
 潜在客户信息源是潜在客户开展的重要活动的最新列表。
 
-1. 转到 **Marketo** 区域。
+1. 转到Salesforce1中的&#x200B;**Marketo**&#x200B;区域。
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. 点按 **商机馈送**.
+1. 点按&#x200B;**潜在客户源**。
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce1中的有趣时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [在Salesforce1中发送Marketo电子邮件和Campaign及Watchlist操作](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Salesforce1中的最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* Salesforce中的[有趣时刻1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [在Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)中发送Marketo电子邮件和Campaign及监视列表操作
+>* [Salesforce中的最佳匹配1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

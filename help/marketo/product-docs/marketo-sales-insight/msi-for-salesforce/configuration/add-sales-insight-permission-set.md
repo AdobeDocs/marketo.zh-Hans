@@ -5,7 +5,7 @@ exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[更新Sales Insight Salesforce包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} 版本1.8000或更高版本，以便使用此功能。
+>[将您的Sales Insight Salesforce包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}更新到1.8000或更高版本，以便使用此功能。
 
 >[!IMPORTANT]
 >
->如果您之前已授予所有用户档案的Sales Insight访问权限和/或为所有用户实施了Sales Insight ，您必须 [删除配置文件级别访问权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} 以使用此权限集。
+>如果您以前授予了所有配置文件的Sales Insight访问权限和/或为所有用户实施了Sales Insight ，则您必须[删除配置文件级访问权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}才能使用此权限集。
 
 ## 概述 {#overview}
 
-“Marketo应用程序”权限是Sales Insight Salesforce包的一部分。 它包括访问以下提及的对象、Apex类和Visualforce页面。 要访问所有Sales Insight功能，需要使用这些功能。
+“Marketo应用程序”权限是Sales Insight Salesforce包的一部分。 它包括访问以下提及的对象、Apex类和Visualforce页面。 要访问所有Sales Insight功能，必须具备这些权限。
 
 **对象设置**
 
@@ -85,23 +85,23 @@ ht-degree: 0%
 
 1. 登录到您的Salesforce帐户。
 
-1. 单击 **设置**.
+1. 单击&#x200B;**设置**。
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. 在Administrator下，单击以展开 **管理用户**，则 **用户**.
+1. 在“管理员”下，单击以展开&#x200B;**管理用户**，然后单击&#x200B;**用户**。
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. 在所有用户下，选择要提供访问权限的用户，然后单击 **权限集分配**.
+1. 在“所有用户”下，选择要提供访问权限的用户，然后单击&#x200B;**权限集分配**。
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. 单击 **编辑分配**.
+1. 单击&#x200B;**编辑分配**。
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. 选择 **Marketo应用程序访问权限** 从可用权限集中，然后 **添加**. 单击 **保存**.
+1. 从可用权限集中选择&#x200B;**Marketo应用程序访问权限**，然后选择&#x200B;**添加**。 单击&#x200B;**保存**。
 
    ![](assets/add-sales-insight-permission-set-5.png)
 

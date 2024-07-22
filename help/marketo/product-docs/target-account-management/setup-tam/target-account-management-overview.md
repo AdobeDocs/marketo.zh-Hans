@@ -6,7 +6,7 @@ exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -35,11 +35,11 @@ Marketo TAM包含三个组件：
 
 **2)参与**
 
-* 基于帐户的个性化
+* 基于帐户的Personalization
 * Cross-Channel Engagement
 * 特定于帐户的工作流
 
-**3)衡量**
+**3)度量值**
 
 * 帐户和列表级别的洞察
 * 帐户参与度分数
@@ -47,18 +47,18 @@ Marketo TAM包含三个组件：
 
 基于Marketo帐户的营销还提供各种工具，以跨渠道个性化指定帐户体验。
 
-* 电子邮件和登陆页面个性化
-* Web个性化
-* URL [个性化](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
-* 广告 [个性化](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [个性化](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 再营销
+* 电子邮件和登录页面Personalization
+* Web Personalization
+* URL [Personalization](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* 广告[Personalization](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [个性化](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)再营销
 
 我进来了！ 我该如何入门？
 
-我们以为你绝不会问的！ TAM可用作您的Marketo订阅的附加组件，因此请联系您的销售代表来实施它。 拥有它后，请查看此文章： [TAM快速入门](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
+我们以为你绝不会问的！ TAM可用作您的Marketo订阅的附加组件，因此请联系您的销售代表来实施它。 拥有它后，请查看此文章：[TAM入门](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md)。
 
 >[!NOTE]
 >
->满足Web个性化需求，可以直接从Web TAM访问Marketo TAM中管理的指定帐户。 了解详情 [此处](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
+>满足Web个性化需求，可以直接从Web TAM访问Marketo TAM中管理的指定帐户。 在[此处](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)了解详情。
 
 欢迎使用Marketo TAM，体验有针对性的营销！

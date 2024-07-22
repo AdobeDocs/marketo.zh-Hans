@@ -61,7 +61,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td><strong>SIC 代码</strong></td> 
-   <td><span><strong>S</strong>标准 <strong>I</strong>工业 <strong>C</strong>分类 — 用于分类行业的四位数代码<br></span></td> 
+   <td><span><strong>S</strong>标准<strong>I</strong>行业<strong>C</strong>分类 — 用于分类行业的四位数代码<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>收入</strong></td> 

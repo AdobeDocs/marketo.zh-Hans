@@ -6,7 +6,7 @@ exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -15,25 +15,25 @@ ht-degree: 0%
 
 帐户列表是可一起定位的指定帐户集合。 帐户列表允许您按行业、位置或公司规模定位指定帐户。
 
-除了帐户列表之外，您还可以创建从公共CRM帐户视图生成的动态帐户列表。 CRM帐户视图是一组规则，在显示帐户时充当过滤器。 例如，您可以使用它查找行业代表医疗保健的客户 *和* 营收超过1亿美元。
+除了帐户列表之外，您还可以创建从公共CRM帐户视图生成的动态帐户列表。 CRM帐户视图是一组规则，在显示帐户时充当过滤器。 例如，您可以使用它查找行业为医疗保健&#x200B;*且*&#x200B;收入超过1亿美元的帐户。
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->在中构建智能列表和Web营销活动时，在Marketo Target帐户管理中创建的帐户列表会自动可用 [Web个性化](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>在[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中构建智能列表和Web营销活动时，在Marketo Target帐户管理中创建的帐户列表会自动可用。
 
 ## 创建新的帐户列表 {#create-a-new-account-list}
 
-1. 单击 **新建** 下拉并选择 **新建帐户列表**.
+1. 单击&#x200B;**新建**&#x200B;下拉列表，然后选择&#x200B;**新建帐户列表**。
 
    ![](assets/1a.png)
 
-1. 为列表命名，然后单击 **创建**.
+1. 为列表命名，然后单击&#x200B;**创建**。
 
    ![](assets/three-0.png)
 
-1. 创建帐户列表后，开始使用 [向其中添加指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)！
+1. 创建帐户列表后，开始向[添加指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)！
 
    >[!NOTE]
    >
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 ## 创建新的动态帐户列表 {#create-a-new-dynamic-account-list}
 
-1. 单击 **新建** 下拉并选择 **创建新动态列表**.
+1. 单击&#x200B;**新建**&#x200B;下拉列表，然后选择&#x200B;**新建动态列表**。
 
    ![](assets/1.png)
 
-1. 在对话框中，选择 **CRM帐户视图** ，或键入名称以搜索它。
+1. 在对话框中，从下拉列表中选择&#x200B;**CRM帐户视图**，或者键入名称以搜索它。
 
    ![](assets/image2017-7-18-9-48-23.png)
 
@@ -61,13 +61,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这些步骤仅适用于帐户列表。 _动态_ 帐户列表会使用其关联的CRM帐户视图的名称。
+>这些步骤仅适用于帐户列表。 _动态_&#x200B;帐户列表使用其关联的CRM帐户视图的名称。
 
-1. 选择要重命名的帐户，单击 **帐户列表操作** 下拉并选择 **重命名帐户列表**.
+1. 选择要重命名的帐户，单击&#x200B;**帐户列表操作**&#x200B;下拉列表，然后选择&#x200B;**重命名帐户列表**。
 
    ![](assets/three.png)
 
-1. 输入新名称，然后单击 **重命名**.
+1. 输入新名称，然后单击&#x200B;**重命名**。
 
    ![](assets/four.png)
 
@@ -81,15 +81,15 @@ ht-degree: 0%
 >
 >这些步骤对于帐户列表和动态帐户列表均相同。
 
-1. 选择要删除的帐户，单击 **帐户列表操作** 下拉并选择 **删除帐户列表**.
+1. 选择要删除的帐户，单击&#x200B;**帐户列表操作**&#x200B;下拉列表，然后选择&#x200B;**删除帐户列表**。
 
    ![](assets/five.png)
 
-1. 单击 **删除**.
+1. 单击&#x200B;**删除**。
 
    ![](assets/six.png)
 
 >[!MORELIKETHIS]
 >
->* [将现有的指定帐户添加到帐户列表](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [将现有的命名帐户添加到帐户列表](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [帐户列表分析](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

@@ -6,8 +6,8 @@ exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -25,29 +25,29 @@ ht-degree: 1%
 
 ## Analytics {#analytics}
 
-使用 [分析](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) 探索电子邮件投放和参与量度的聚合时间序列数据。
+使用[Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)浏览电子邮件投放和参与量度的聚合时间序列数据。
 
 ![](assets/emailanalytics.jpg)
 
-**过滤器**
+**筛选器**
 
-使用高级 [过滤器](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) 以按受众、内容或平台划分结果。 相同的筛选条件同时适用于Analytics和“发送”。
+已使用高级[筛选器](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)按受众、内容或平台划分结果。 相同的筛选条件同时适用于Analytics和“发送”。
 
 ![](assets/filter.png)
 
 **快速图表**
 
-[快速图表](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) 是您创建和保存的缩略图，可以快速查看对您很重要的图表。
+[快速图表](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md)是您创建和保存的缩略图，可快速查看对您很重要的图表。
 
 ![](assets/three.png)
 
 ## 发送 {#sends}
 
-在 [发送](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) 页面，检查最近电子邮件通信的特征。
+在[发送](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)页中，检查最近电子邮件通信的特征。
 
 ![](assets/two.png)
 
-**量度**
+**个量度**
 
 单击量度栏将颜色转换为数字。
 
@@ -59,7 +59,7 @@ ht-degree: 1%
 
 ## 自定义Dimension {#custom-dimensions}
 
-虽然包括所有标准Marketo维度，但您可以选择最多添加10个自定义维度。 [自定义维度](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) 包括分段和项目标记。
+虽然包括所有标准Marketo维度，但您可以选择最多添加10个自定义维度。 [自定义维度](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)包含分段和程序标记。
 
 >[!MORELIKETHIS]
 >

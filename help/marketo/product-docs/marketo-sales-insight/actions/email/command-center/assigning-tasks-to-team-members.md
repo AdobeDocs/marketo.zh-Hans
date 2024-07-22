@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >您只能为共享联系人分配任务。
 
-1. 在Web应用程序中，单击 **指挥中心**.
+1. 在Web应用程序中，单击&#x200B;**命令中心**。
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. 单击 **添加任务**.
+1. 单击&#x200B;**添加任务**。
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. 添加任何与队友相关的重要详细信息（可选），然后单击 **创建**.
+1. 添加与您的队友相关的任何重要详细信息（可选），然后单击&#x200B;**创建**。
 
    ![](assets/assigning-tasks-to-team-members-9.png)

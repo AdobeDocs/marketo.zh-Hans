@@ -734,7 +734,7 @@ ht-degree: 0%
       + facebook {#facebook}
          + [在Facebook中将潜在客户添加到自定义受众](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [在Facebook中创建自定义受众](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [编辑Facebook Rich Post设置](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [编辑Facebook富帖子设置](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [Publish登录页面到Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [设置Facebook潜在客户广告](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [将自定义字段映射到Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)

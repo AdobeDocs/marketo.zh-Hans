@@ -19,31 +19,31 @@ ht-degree: 0%
 >
 >[冠军/挑战者：批准您的电子邮件测试](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 查找并右键单击您的电子邮件测试，然后单击 **声明冠军**.
+1. 查找并右键单击您的电子邮件测试，然后单击&#x200B;**声明冠军**。
 
    ![](assets/champion4.jpg)
 
-1. 选择 **入选者** 你自己选择的。
+1. 选择您选择的&#x200B;**入选者**。
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. 设置 **声明日期**.
+1. 设置&#x200B;**声明日期**。
 
    >[!NOTE]
    >
-   >直到 **声明日期**，Marketo将继续派出老牌冠军和挑战者。 一旦到达日期/时间，将仅发送新冠军。
+   >在&#x200B;**声明日期**&#x200B;之前，Marketo将继续发送旧冠军和挑战者。 一旦到达日期/时间，将仅发送新冠军。
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >请注意，默认 **声明日期** 是明天，不是今天。
+   >请注意，默认&#x200B;**声明日期**&#x200B;为明天，而不是今天。
 
-1. 选择时间并单击 **保存**.
+1. 选择时间，然后单击&#x200B;**保存**。
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 

@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >测试由App Open触发的应用程序内消息时，请确保将应用程序下载到手机，然后将其打开并关闭。 这会初始化SDK代码。 下次打开应用程序时，将会显示应用程序内消息。 自定义事件在首次打开应用程序时触发。
 
-1. 在营销活动中，单击要让项目处于活动状态的文件夹，然后选择 **新建项目群**.
+1. 在“营销活动”中，单击您希望项目活动所在的文件夹，然后选择&#x200B;**新建项目**。
 
    ![图像1](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
 
@@ -26,12 +26,12 @@ ht-degree: 0%
 
    ![图像2](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-2.png)
 
-1. 从下拉列表中选择应用程序内程序类型，然后单击 **创建**.
+1. 从下拉列表中选择应用程序内程序类型，然后单击&#x200B;**创建**。
 
-   ![图像3](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
+   ![图像三](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
 1. 使用控制面板可定义应用程序内消息的人员、内容和时间，以及在完成后，批准该消息。 每个步骤都有一篇单独的文章。
 
-   ![图像4](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
+   ![图像四](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-就绪? 开始于 [设置受众](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+准备好了吗？ 从[设置受众](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)开始。

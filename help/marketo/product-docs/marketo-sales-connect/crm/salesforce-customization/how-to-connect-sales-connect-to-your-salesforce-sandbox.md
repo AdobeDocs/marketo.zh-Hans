@@ -6,7 +6,7 @@ exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->建立与沙盒的连接时，您的Sales Connect帐户不能已连接到Salesforce。 如果是， [确保断开连接](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) 执行本文中的步骤之前。
+>建立与沙盒的连接时，您的Sales Connect帐户不能已连接到Salesforce。 如果是，[请确保断开连接](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)，然后再执行本文中的步骤。
 
-1. 在Sales Connect中，单击右上角的齿轮图标，然后选择 **设置**.
+1. 在Sales Connect中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
 
    ![](assets/one-2.png)
 
-1. 在集成下，单击 **CRM**.
+1. 在集成下，单击&#x200B;**CRM**。
 
    ![](assets/two-2.png)
 
-1. 在Salesforce信息卡中，单击 **更多信息**.
+1. 在Salesforce信息卡中，单击&#x200B;**更多信息**。
 
    ![](assets/three-2.png)
 
-1. 在页面底部，单击 **连接到沙盒**.
+1. 在页面底部，单击&#x200B;**连接到沙盒**。
 
    ![](assets/four-2.png)
 

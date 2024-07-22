@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->默认情况下，将为Sales Insight Actions实例选择“仅限Salesforce”选项。 我们建议使用此设置，以便用户可以 [自动登录](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) 来自Salesforce。
+>默认情况下，将为Sales Insight Actions实例选择“仅限Salesforce”选项。 我们建议使用此设置，以便用户能够从Salesforce [自动登录](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)。
 
 ## 更新登录管理设置 {#update-login-management-settings}
 
@@ -26,15 +26,15 @@ ht-degree: 0%
 
 更新您的登录管理首选项，请执行以下步骤。
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/login-management-settings-1.png)
 
-1. 在管理设置下，单击 **常规**.
+1. 在“管理员设置”下，单击&#x200B;**常规**。
 
    ![](assets/login-management-settings-2.png)
 
-1. 向下滚动到登录管理卡并选择所需的设置（在本例中，我们选择“仅限Salesforce”）。 单击 **保存** 完成时。
+1. 向下滚动到登录管理卡并选择所需的设置（在本例中，我们选择“仅限Salesforce”）。 完成后单击&#x200B;**保存**。
 
    ![](assets/login-management-settings-3.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ### 选择“仅限Salesforce”时，我实例的新用户如何激活其帐户？ {#activate-when-salesforce-only-is-selected}
 
-单击 **快速入门** 邀请电子邮件中的按钮，新用户将被发送到帐户激活屏幕，要求他们连接其Salesforce实例以激活其Sales Insight Actions帐户。
+单击邀请电子邮件中的&#x200B;**入门**&#x200B;按钮后，新用户将被发送到帐户激活屏幕，要求他们连接其Salesforce实例以激活其Sales Insight Actions帐户。
 
 ![](assets/login-management-settings-4.png)
 
@@ -54,13 +54,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这仅适用于直接导航到登录屏幕的用户。 从Salesforce访问Actions的用户将登录 [自动登录](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+>这仅适用于直接导航到登录屏幕的用户。 从Salesforce访问Actions的用户将使用[自动登录](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)登录。
 
 ![](assets/login-management-settings-5.png)
 
 ### 当用户从Salesforce访问“操作”功能且选择了“仅限Salesforce”时，如何处理“操作”的用户身份验证？ {#how-is-user-authentication-handled}
 
-当用户单击其中一个操作（“呼叫”、“电子邮件”、“促销活动”、“任务”、“促销活动列表”等）时，我们将使用其SFDC身份验证自动将其登录到其“销售分析操作”帐户。 我们称之为身份验证 [自动登录](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+当用户单击其中一个操作（“呼叫”、“电子邮件”、“促销活动”、“任务”、“促销活动列表”等）时，我们将使用其SFDC身份验证自动将其登录到其“销售分析操作”帐户。 我们将此身份验证称为[自动登录](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)。
 
 ## 所有登录方法常见问题解答 {#all-login-methods-faq}
 

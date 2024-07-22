@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 将视图作为网页链接添加到电子邮件 {#add-a-view-as-web-page-link-to-an-email}
 
-电子邮件的功能有限（CSS有限，无JavaScript或表单）。 使用“以网页形式查看”来提供链接，以在浏览器中显示您的电子邮件。 这将使用Munchkin对收件人Cookie。
+电子邮件的功能有限(CSS有限，无JavaScript或表单)。 使用“以网页形式查看”来提供链接，以在浏览器中显示您的电子邮件。 这将使用Munchkin对收件人Cookie。
 
 >[!NOTE]
 >
 >创建新电子邮件时，未启用以网页形式查看。 如果启用它并克隆电子邮件，则会复制此设置。
 
-1. 选择您的电子邮件并单击 **编辑草稿**.
+1. 选择您的电子邮件并单击&#x200B;**编辑草稿**。
 
    ![](assets/one-5.png)
 
-1. 在电子邮件编辑器中，单击 **电子邮件设置**.
+1. 在电子邮件编辑器中，单击&#x200B;**电子邮件设置**。
 
    ![](assets/two-5.png)
 
-1. 查看 **以网页形式包含视图** 框并单击 **保存**.
+1. 选中“**以网页形式包含视图**”框，然后单击“**保存**”。
 
    ![](assets/three-4.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 >
 >在发送电子邮件之前，您将不会看到“以网页形式查看”链接。 向您自己发送要查看的测试。
 
-要更改默认文本，请参阅 [编辑“以网页形式查看”消息](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+要更改默认文本，请参阅[编辑“以网页形式查看”消息](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)。

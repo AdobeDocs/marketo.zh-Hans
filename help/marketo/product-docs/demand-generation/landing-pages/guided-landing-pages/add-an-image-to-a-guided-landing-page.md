@@ -15,7 +15,7 @@ ht-degree: 0%
 
 与自由格式登陆页面不同，引导式登陆页面在添加图像的位置具有预定义的锁定空间。
 
-1. 选择引导式登陆页面。 单击 **编辑草稿**.
+1. 选择引导式登陆页面。 单击&#x200B;**编辑草稿**。
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. 选择所需的图像并单击 **插入**.
+1. 选择所需的图像，然后单击&#x200B;**插入**。
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >图像大小的调整方式取决于模板。 了解有关 [引导式登陆页面模板](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >图像大小的调整方式取决于模板。 了解有关[引导式登陆页面模板](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)的更多信息。
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

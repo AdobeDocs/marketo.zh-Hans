@@ -5,7 +5,7 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -65,24 +65,24 @@ ht-degree: 0%
    >
    >如果您已在其他选项卡中作为管理员登录Azure，则需要使用其他浏览器或无痕模式以同步用户的身份登录。
 
-1. 单击 **[!UICONTROL Accept]**.
+1. 单击&#x200B;**[!UICONTROL 接受]**。
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
 ## 授予所有用户同意 {#grant-consent-for-all-users}
 
-作为管理员，您还可以代表租户中的所有用户同意应用程序的委派权限。 管理同意可防止为租户中的每个用户显示同意对话框，并且可由具有管理员角色的用户在Azure门户中完成。 了解哪些管理员角色可以 [同意此处委托的权限](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+作为管理员，您还可以代表租户中的所有用户同意应用程序的委派权限。 管理同意可防止为租户中的每个用户显示同意对话框，并且可由具有管理员角色的用户在Azure门户中完成。 在此处了解哪些管理员角色可以[同意委派权限](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference)。
 
 1. 在Azure门户中，导航到应用程序主页。
 
-1. 在管理下，单击 **[!UICONTROL API权限]**.
+1. 在“管理”下，单击&#x200B;**[!UICONTROL API权限]**。
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. 单击 **[!UICONTROL 授予管理员同意]** （适用于租户）按钮。
+1. 单击&#x200B;**[!UICONTROL 授予管理员同意]** （适用于租户）按钮。
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. 单击 **[!UICONTROL 是]** 以确认。
+1. 单击&#x200B;**[!UICONTROL 是]**&#x200B;确认。
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

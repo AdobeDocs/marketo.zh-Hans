@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 创建电子邮件脚本令牌 {#create-an-email-script-token}
 
-对于高级开发人员，您可以使用 [Velocity脚本](https://velocity.apache.org/engine/1.7/user-guide.html) 在电子邮件中。 下面是操作方法。
+对于高级开发人员，您可以在电子邮件中使用[Velocity脚本](https://velocity.apache.org/engine/1.7/user-guide.html)。 下面是操作方法。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. 在 **我的令牌** 选项卡，拖入 **电子邮件脚本** 令牌。
+1. 在&#x200B;**我的令牌**&#x200B;选项卡下，拖入&#x200B;**电子邮件脚本**&#x200B;令牌。
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. 命名您的电子邮件脚本令牌，并 **单击以编辑** 其内容。
+1. 命名您的电子邮件脚本令牌，然后&#x200B;**单击以编辑**&#x200B;其内容。
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. 使用右侧的树以拖入 **人员，机会**，或 **自定义对象** 令牌。
+1. 使用右侧的树拖入&#x200B;**人员、机会**&#x200B;或&#x200B;**自定义对象**&#x200B;令牌。
 
    ![](assets/five-2.png)
 
@@ -54,11 +54,11 @@ ht-degree: 0%
    * [Velocity参考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity工具Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. 脚本完成后，单击 **保存**.
+1. 脚本完成后，单击&#x200B;**保存**。
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. 单击 **保存** 再来一次。
+1. 再次单击&#x200B;**保存**。
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
@@ -66,4 +66,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[向电子邮件添加电子邮件脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
+>[向您的电子邮件添加电子邮件脚本令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)

@@ -6,7 +6,7 @@ exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->确保您拥有 [营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}  — 否则，“营销日历”拼贴将不会显示在“我的Marketo”中。
+>确保您具有[营销日历许可证](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} — 否则“营销日历”拼贴将不会显示在“我的Marketo”中。
 
 >[!NOTE]
 >
 >营销日历中不支持定期智能营销活动。
 
-1. 转到 **营销日历**.
+1. 转到&#x200B;**营销日历**。
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 在模式之间更改 {#change-between-modes}
 
-1. 单击 **[!UICONTROL 3周]** 或 **[!UICONTROL 月]** 选项卡以在模式之间切换。
+1. 单击&#x200B;**[!UICONTROL 3周]**&#x200B;或&#x200B;**[!UICONTROL 月]**&#x200B;选项卡以在不同模式之间切换。
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 日程视图以列表形式显示所有条目。
 
-1. 单击 **[!UICONTROL 筛选]** 下拉菜单。
+1. 单击&#x200B;**[!UICONTROL 筛选器]**&#x200B;下拉列表。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. 选择 **[!UICONTROL 日程安排]** 视图。
+1. 选择&#x200B;**[!UICONTROL 议程]**&#x200B;视图。
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[筛选营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[正在筛选营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

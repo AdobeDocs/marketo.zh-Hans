@@ -6,7 +6,7 @@ feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 33%
+ht-degree: 34%
 
 ---
 
@@ -179,7 +179,7 @@ ht-degree: 33%
     </tr>
     <tr>
       <td>帐户站点</td>
-      <td>网站</td>
+      <td>地点</td>
     </tr>
     <tr>
       <td>帐户类型</td>

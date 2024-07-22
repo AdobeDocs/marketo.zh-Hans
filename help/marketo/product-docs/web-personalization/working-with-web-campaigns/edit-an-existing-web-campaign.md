@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 编辑现有Web营销活动 {#edit-an-existing-web-campaign}
 
-1. 转到 **Web营销活动**.
+1. 转到&#x200B;**网络营销活动**。
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. 在 **Web营销活动** 页面，单击 **编辑** 在要编辑的营销活动上。
+1. 在&#x200B;**Web营销活动**&#x200B;页面上，单击要编辑的营销活动上的&#x200B;**编辑**。
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >为了更便于查找所需的Web营销活动，请使用 [过滤功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >若要更轻松地查找所需的Web营销活动，请使用[筛选功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 >[!MORELIKETHIS]
 >
->* [删除Web活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
->* [启动/暂停营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).
+>* [删除Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>* [启动/暂停营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)。

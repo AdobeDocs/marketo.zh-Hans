@@ -6,7 +6,7 @@ exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## 机会设置 {#opportunity-setup}
 
-1. 单击 **管理员**.
+1. 单击&#x200B;**管理员**。
 
    ![](assets/admin.png)
 
-1. 单击 **收入周期分析**.
+1. 单击&#x200B;**收入周期Analytics**。
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >如果您没有RCA，则需要选择 **项目分析** 步骤2.
+   >如果您没有RCA，则需要为步骤2选择&#x200B;**项目分析**。
 
-1. 在归因下，单击 **编辑**.
+1. 在“归因”下，单击&#x200B;**编辑**。
 
    ![](assets/three-1.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 更新计划成本至少12个月。 您可以手动或使用程序API执行此操作。 在本例中，我们手动执行此操作。
 
-1. 单击 **营销活动**.
+1. 单击&#x200B;**营销活动**。
 
    ![](assets/ma.png)
 
@@ -64,33 +64,33 @@ ht-degree: 0%
 
    ![](assets/select-program.png)
 
-1. 单击 **设置** 选项卡。
+1. 单击&#x200B;**设置**&#x200B;选项卡。
 
    ![](assets/setup-tab.png)
 
-1. 拖动 **期间成本** 到画布上。
+1. 将&#x200B;**期间成本**&#x200B;拖到画布上。
 
    ![](assets/period-cost.png)
 
-1. 将计划月份设置为至少12个月前，然后单击 **确定**.
+1. 将计划月份设置为至少12个月前，然后单击&#x200B;**确定**。
 
    ![](assets/set-period.png)
 
-1. 设置期间成本并单击 **保存**.
+1. 设置期间成本，然后单击&#x200B;**保存**。
 
    ![](assets/set-cost.png)
 
 接下来，查看Analytics行为，以指示分析中是否应包含特定渠道。 设置Analytics行为（正常、包含、可操作）。
 
-1. 单击 **管理员**.
+1. 单击&#x200B;**管理员**。
 
    ![](assets/admin.png)
 
-1. 单击 **标记**.
+1. 单击&#x200B;**标记**。
 
    ![](assets/tags.png)
 
-1. 单击 **+** 以展开“渠道”列表。
+1. 单击&#x200B;**+**&#x200B;以展开渠道列表。
 
    ![](assets/channel.png)
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
    ![](assets/channel-click.png)
 
-1. 单击 **Analytics行为** 下拉列表并选择所需的行为。
+1. 单击&#x200B;**Analytics行为**&#x200B;下拉列表并选择所需的行为。
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ ht-degree: 0%
 
    ![](assets/success.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/save.png)
 

@@ -6,7 +6,7 @@ exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **纯文本电子邮件**
 
-现在您可以发送 [只是文本版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) 电子邮件的。 请记住，使用此选项时，不会修饰链接。
+现在，您可以只发送电子邮件的[文本版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)。 请记住，使用此选项时，不会修饰链接。
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ### 忽略已用完的内容 {#ignore-exhausted-content}
 
-将参与计划配置到 [忽略耗尽](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)，包括禁止发送任何通知。
+将参与计划配置为[忽略耗尽](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)，包括禁止显示任何通知。
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## 参与流测试 {#engagement-stream-testing}
 
-使用 [新的测试功能](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) 以模拟演绎版，并测试新添加的内容到实时流。
+使用[新测试功能](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)来模拟演绎版，并测试新添加的内容到实时流。
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
 ## “以网页形式查看电子邮件”和“取消订阅”系统令牌 {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-利用这些 [新令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) 更好地控制它们在电子邮件中的位置。
+利用这[个新令牌](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)更好地控制它们在电子邮件中的位置。
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## 自动触发营销活动清理 {#automatic-trigger-campaign-cleanup}
 
-Marketo现在将定期通知您并 [自动取消激活触发器营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) 过去6个月从未出现过这种现象。
+Marketo现在将定期通知您，并[自动停用过去六个月未运行的触发营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

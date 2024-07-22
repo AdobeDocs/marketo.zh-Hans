@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->要获得准确的报告，请避免 _重用_ 电子邮件程序中的电子邮件，方法是在Smart Campaign中引用它，或将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将所有数据汇总到附加到该电子邮件的每个报告仪表板中。 如果您需要重新使用电子邮件，请 [克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 相反，因为这样会复制电子邮件，但会创建一个具有新电子邮件ID的新电子邮件。
+>要获得准确的报告，请避免&#x200B;_重复使用电子邮件程序中的_&#x200B;电子邮件，方法是在智能营销活动中引用该电子邮件，或者将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将所有数据汇总到附加到该电子邮件的每个报告仪表板中。 如果需要重新使用电子邮件，请改为复制它[克隆](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}，因为这样会复制电子邮件，但会创建一个具有新电子邮件ID的新电子邮件。
 
 >[!NOTE]
 >
->如果您的程序进行了A/B测试，请查看 [电子邮件计划仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
+>如果您的项目具有A/B测试，请查看[电子邮件项目仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}。
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 摘要 — 参与度 {#summary-engagement}
 
-这向您展示了整个 [参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+这显示了总体[参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}。
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -63,15 +63,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此 **取消订阅** 上例中的比率非常小，Marketo放大以更好地查看。 栏中的第二个数字只是为了缩放而添加的。
+>上例中的&#x200B;**取消订阅**&#x200B;比率太小，Marketo放大以更好地查看内容。 栏中的第二个数字只是为了缩放而添加的。
 
 >[!NOTE]
 >
 >**定义**
 >
->**打开次数** 当电子邮件收件人下载电子邮件的图像(包括插入Marketo的跟踪像素)时，会计入该数量。 如果收件人查看了电子邮件，但选择不下载其图像，则不会将其计为已打开。 如果图像在收件人的预览窗格中加载，则通常将被计为打开图像，但实际打开图像的情况因电子邮件客户端而异。
+>电子邮件收件人下载电子邮件的图像(包括Marketo插入的跟踪像素)时，会计入&#x200B;**打开次数**。 如果收件人查看了电子邮件，但选择不下载其图像，则不会将其计为已打开。 如果图像在收件人的预览窗格中加载，则通常将被计为打开图像，但实际打开图像的情况因电子邮件客户端而异。
 >
->**单击以打开** 测量在电子邮件中同时打开和点击了链接的电子邮件的百分比。 我们取唯一点击数除以唯一打开数，然后乘以100以百分比形式显示。
+>**单击以打开**&#x200B;测量在电子邮件中同时打开和点击了链接的电子邮件的百分比。 我们取唯一点击数除以唯一打开数，然后乘以100以百分比形式显示。
 
 ## 刷新仪表板 {#refresh-dashboard}
 
@@ -81,4 +81,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[使用电子邮件程序仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}
+>[使用电子邮件计划仪表板 — A/B测试视图](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

@@ -5,7 +5,7 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## 查找和使用模板 {#finding-and-using-templates}
 
-1. 创建您的电子邮件草稿(可通过多种方法执行此操作，在本例中，我们将选择 **撰写** （在标题中）。
+1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**撰写**）。
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
@@ -40,17 +40,17 @@ ht-degree: 0%
 
 ## 在撰写窗口中固定模板类别 {#pinning-template-categories-in-the-compose-window}
 
-收藏 **最多五个** 特定模板类别，以便快速访问您最常用的模板。
+收藏最多&#x200B;**个**&#x200B;特定模板类别，以便快速访问您最常用的模板。
 
-1. 创建您的电子邮件草稿(可通过多种方法执行此操作，在本例中，我们将选择 **撰写** （在标题中）。
+1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**撰写**）。
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. 单击 **+** 图标（位于收藏夹旁）。
+1. 单击收藏夹旁边的&#x200B;**+**&#x200B;图标。
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. 单击 **固定类别** 下拉列表并选择所需的类别。
+1. 单击&#x200B;**固定类别**&#x200B;下拉列表并选择所需的类别。
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
    >
    >我们建议固定“全部”类别，以便让您能够快速搜索整个模板库，因为您可能通常需要搜索所有模板来找到要查找的内容。 如果您选择了固定类别并单击搜索图标，则搜索将默认使用选定固定类别中的搜索。
 
-1. 单击 **保存更改** 完成后（可选：重复步骤3以添加更多）。
+1. 完成后单击&#x200B;**保存更改**（可选：重复步骤3以添加更多更改）。
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 
@@ -70,6 +70,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**收藏夹** 默认存在。 它包含最喜爱的电子邮件模板，而不是类别。
+   >默认情况下，**收藏夹**&#x200B;存在。 它包含最喜爱的电子邮件模板，而不是类别。
 
    您选择的类别现已固定。

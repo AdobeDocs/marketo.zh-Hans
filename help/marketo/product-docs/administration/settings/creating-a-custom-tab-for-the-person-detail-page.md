@@ -15,15 +15,15 @@ ht-degree: 0%
 
 如果您发现自己需要在人员详细信息中反复查找一组特定的字段，请考虑创建自定义布局以简化操作。
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. 单击 **[!UICONTROL 字段管理]**.
+1. 单击&#x200B;**[!UICONTROL 字段管理]**。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. 单击 **[!UICONTROL 自定义布局设计器]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL 自定义布局Designer]**&#x200B;选项卡。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您有两列要处理。
 
-   如果决定要删除字段，请右键单击要删除的字段，然后单击 **[!UICONTROL 删除]**.
+   如果决定要删除字段，请右键单击要删除的字段，然后单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

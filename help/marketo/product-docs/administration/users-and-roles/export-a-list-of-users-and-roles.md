@@ -19,11 +19,11 @@ ht-degree: 0%
 
 导出用户和用户角色的完整列表相当容易。 具体方法如下。
 
-1. 转到 **[!UICONTROL 管理员]**.
+1. 转到&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. 单击 **[!UICONTROL 用户和角色]**.
+1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要导出角色，请转到 **[!UICONTROL 角色]** 按Tab键，然后导出。
+   >要导出角色，请先转到&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡，然后导出。
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. 单击 **[!UICONTROL 导出]** 图标。
+1. 单击&#x200B;**[!UICONTROL 导出]**&#x200B;图标。
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 

@@ -6,14 +6,14 @@ exl-id: db998446-12a1-4fd9-9709-3ac08b8ceefa
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 # 模板18D {#template-18d}
 
-右键单击 [下载模板18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
+右键单击以[下载模板18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 * 标题（可选）
 * 主分区
 
-   * 包括主页文本和抽奖
+   * 包括主图文本和抽奖
 
 * 五个正文部分（可选）
 * 页脚（可选）

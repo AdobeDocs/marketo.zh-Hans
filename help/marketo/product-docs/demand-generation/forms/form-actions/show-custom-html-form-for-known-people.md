@@ -15,23 +15,23 @@ ht-degree: 0%
 
 如果访客（以前提供过电子邮件地址的已知人员）已进行编码，那么为什么要麻烦填写表单？ 只要给他们下载按钮就行。 具体方法如下。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 下 **营销活动**，选择您的表单并单击 **编辑表单**.
+1. 在&#x200B;**营销活动**&#x200B;下，选择您的表单并单击&#x200B;**编辑表单**。
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. 下 **表单设置**，单击 **设置**.
+1. 在&#x200B;**表单设置**&#x200B;下，单击&#x200B;**设置**。
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. 设置If **已知访客，节目**：至 **自定义HTML**.
+1. 将If **已知访客Show**：设置为&#x200B;**自定义HTML**。
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. 单击 ![—](assets/image2014-9-25-14-3a1-3a26.png) 以编辑 **自定义HTML** 向已知人展示。
+1. 单击![—](assets/image2014-9-25-14-3a1-3a26.png)以编辑将向已知人员显示的&#x200B;**自定义HTML**。
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,18 +45,18 @@ ht-degree: 0%
    |---|---|
    | `{{lead.FirstName}}` | 这将显示人员的名字。 |
    | `{{lead.LastName}}` | 这将显示人员的姓氏。 |
-   | `{{form.Button:default=Download}}` | 这将显示表单按钮。 将区域替换在 `=` 更改按钮文本。 |
-   | `{{form.NotYou:default=Not you?}}` | 该链接会显示该人员是其他人时的链接。 将区域替换在 `=` 以更改链接文本。 |
+   | `{{form.Button:default=Download}}` | 这将显示表单按钮。 替换`=`之后的区域以更改按钮文本。 |
+   | `{{form.NotYou:default=Not you?}}` | 该链接会显示该人员是其他人时的链接。 替换`=`之后的区域以更改链接文本。 |
 
    >[!CAUTION]
    >
    >只能使用以上四个令牌。 此处无法使用任何其他令牌。
 
-1. 单击 **完成**.
+1. 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. 单击 **批准并关闭**.
+1. 单击&#x200B;**批准并关闭**。
 
    >[!NOTE]
    >
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >请记住 [批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表单更改创建。
+   >请记住[批准由表单更改创建的登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
 
    一块蛋糕！ 查看人员返回同一表单时会看到的内容：
 

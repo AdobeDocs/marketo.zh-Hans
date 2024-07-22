@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 高级程序报告概述 {#advanced-program-reporting-overview}
 
-**Revenue Cycle Explorer** 包括几个分析领域和多种新指标，可让您衡量项目有效性。
+**Revenue Cycle Explorer**&#x200B;包括几个分析领域和各种新的量度，使您能够衡量计划的有效性。
 
 ![](assets/rev.png)
 
@@ -27,19 +27,19 @@ ht-degree: 0%
 
 ## 项目分析领域 {#program-analysis-areas}
 
-* **[项目成本分析](understanding-the-program-cost-analysis-area.md)**  — 查看所有项目的ROI。
+* **[项目成本分析](understanding-the-program-cost-analysis-area.md)** — 查看所有项目的ROI。
 
-* **[计划会员资格分析](understanding-the-program-membership-analysis-area.md)**  — 按渠道、参与率、成功标准等查看结果。
+* **[计划会员资格分析](understanding-the-program-membership-analysis-area.md)** — 按渠道、参与率、成功标准等查看结果。
 
-* **[计划机会分析](understanding-the-program-opportunity-analysis-area.md)**  — 根据分配、收入和ROI创造的机会。
+* **[计划机会分析](understanding-the-program-opportunity-analysis-area.md)** — 根据分配、收入和ROI生成的机会。
 
-* **[项目收入阶段分析](understanding-the-program-revenue-stage-analysis-area.md)**  — 在收入周期模型中达到特定成功阶段的新名称。
+* **[计划收入阶段分析](understanding-the-program-revenue-stage-analysis-area.md)** — 在收入周期模型中已达到特定成功阶段的新名称。
 
 ## 程序分析器 {#program-analyzers}
 
-* **程序分析器**  — 快速确定成功或不成功的计划，并适当集中您的资源。
+* **项目分析器** — 快速识别成功或不成功的项目，并适当集中您的资源。
 
-* **机会影响分析器**  — 通过衡量产生机会的项目和关键参与产生的影响，证明营销的贡献。
+* **机会影响分析器** — 通过衡量产生机会的计划和关键参与的影响来证明营销的贡献。
 
 ## 报表选项 {#report-options}
 

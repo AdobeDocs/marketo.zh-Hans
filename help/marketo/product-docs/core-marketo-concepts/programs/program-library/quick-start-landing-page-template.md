@@ -2,10 +2,10 @@
 description: 快速入门登陆页面模板 — Marketo文档 — 产品文档
 title: 快速入门登陆页面模板
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Marketo Engage参考库中的一些入门项目包含一个简单、易于使用
 
 >[!TIP]
 >
->了解有关 [引导式登陆页面模板](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>详细了解[引导式登陆页面模板](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 区域概要 {#sections-summary}
 
@@ -49,7 +49,8 @@ Marketo Engage参考库中的一些入门项目包含一个简单、易于使用
 * 更新段落副本的段落文本元素
 * 要在表单中添加的表单元素
 * 表单下方的文本元素，用于编辑隐私策略文本和链接
-* 要编辑的变量：部分的背景颜色
+* 要编辑的变量：
+部分的背景颜色
    * 表单正后方的背景颜色
    * 表单周围框的边框半径（使其具有弯曲的角，如果设置为“0”，则使角平方）
    * 显示或隐藏整个部分
@@ -82,6 +83,6 @@ Marketo Engage参考库中的一些入门项目包含一个简单、易于使用
 * **按钮边框半径**：将表单按钮调整为圆角或矩形
 * **按钮颜色**：更新表单上按钮的颜色
 * **按钮悬停颜色**：更改表单上按钮的悬停状态颜色
-* **链接颜色**：更新整个页面中链接的颜色
-* **区域顶部间距**：在每个部分上方添加空格，但徽标部分除外
-* **截面底部间距**：在每个部分下添加空格，但logos部分除外
+* **链接颜色**：更新整个页面的链接颜色
+* **节顶部间距**：在每个节上方添加空格，但徽标节除外
+* **节底部间距**：在除徽标节之外的每个节下添加空格

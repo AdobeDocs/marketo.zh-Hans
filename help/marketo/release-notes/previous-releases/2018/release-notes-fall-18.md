@@ -6,7 +6,7 @@ exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -19,26 +19,26 @@ ht-degree: 0%
 
 ## 核心平台增强功能 {#core-platform-enhancements}
 
-**[Web个性化](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
+**[Web Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 Web个性化现在支持多个工作区。
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **SFDC闪电支持**：迁移到或当前使用Lightning的用户可以利用MSE在购买者历程中实现更智能的参与。
+* **SFDC Lightning支持**：迁移到Lightning或当前使用Lightning的用户可以利用MSE更智能地参与购买者历程。
 
-* **扩展的支持：Microsoft Office**
+* **扩展的支持： Microsoft Office**
 
    * Outlook作为投放渠道：营销人员现在可以利用Outlook进行电子邮件互动，从而提高投放率和响应跟踪。
    * Office 365电子邮件支持改进：适用于Mac的Outlook、适用于Windows的Outlook和适用于Office 365电子邮件客户端的Outlook Web应用程序中直接提供了Marketo Sales Engage，这使得所有Office用户都可以更方便地使用Marketo Sales Engage。
 
-* **改进了管理员和用户登录体验**
+* **已改进管理员和用户登录体验**
 
    * 改进了管理工作流：管理员在通过“一般管理员设置”启用团队功能时，会发现更加高效的工作流。
 
 ## Marketo Sky {#marketo-sky}
 
-有关更多详细信息和更新，请查看我们的 [Sky发行说明](https://help.marketo.com).
+有关更多详细信息和更新，请查看我们的[Sky发行说明](https://help.marketo.com)。
 
 * **设计系统更新**
 
@@ -47,22 +47,22 @@ Web个性化现在支持多个工作区。
 * 增强了树导航的设计：有目的地使用颜色、更清晰的排版、新的图标和徽章以快速检查状态
 * 重新设计了程序摘要屏幕
 
-* **营销活动主页**：可直接从“营销活动”主页快速访问常用功能。
+* **营销活动主页**：从营销活动主页快速访问常用功能。
 
    * 执行特定操作（例如，启动新项目和智能营销活动）并查看有关当前项目的重要信息，例如计划今天运行的项目和营销活动、最近更新的项目和资产，以及活动触发器营销活动的总数。
 
-* **Design Studio更新**：我们重新设计了Design Studio体验，以帮助您更快地行动并提高工作效率。
+* **Design Studio更新**：我们重新设计了Design Studio体验，以帮助您更快速地移动并提高工作效率。
 * Design Studio主页：创建新资源，拖放图像和文件，以及管理所有现有资源。
 * Design Studio列表视图：用户现在能够查看列表视图格式的登陆页面模板和电子邮件模板，从而允许对单个资产类型执行快速导航和批量操作。
 * Design Studio资产详细信息页面：在一个位置查看、组织和执行所有资产的批量操作，从而节省时间和减少麻烦。
-* **默认程序现在可在Marketo Sky中使用**：Marketo Sky现在支持默认程序，这是一种通用的程序样式，允许您创建可以想象的任何营销活动。
-* **电子邮件程序 — 阶段1**：您现在可以在Sky中查看电子邮件程序。 了解新设计和 [让我们知道您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Marketo Sky中现在提供默认程序**：Marketo Sky现在支持默认程序，这是一种通用的程序样式，允许您创建可以想象的任何营销活动。
+* **电子邮件程序 — 阶段1**：您现在可以在Sky中查看电子邮件程序。 查看新设计并[告诉我们您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)。
 
 ## Analytics {#analytics}
 
 **Bizible**
 
-* **减少对CRM的必需依赖性**
+* **降低对CRM的必需依赖性**
 
    * 有了在Bizible设置中定义Campaign规则的新选项，客户不再需要在CRM中安装包或解决方案来快速开始使用Bizible。 现在，设置帐户、设置广告和CRM连接，然后完成标准设置和配置等操作都很轻松。 我们希望这将显着缩短销售工程团队的入职时间。
 
@@ -83,8 +83,8 @@ Web个性化现在支持多个工作区。
    * 缩放到适合设置：主仪表板条形图更易于读取，以帮助比较一段时间内的项目绩效。
    * 警报图标：新警报图标可显示有关数据质量问题和设置通知的所有活动警报。
 
-* **按活动日期列出的参与**：用户可以选择按活动日期或成本期查看参与量度。
-* **ABM指定帐户筛选器**：按特定的指定帐户筛选管道和收入功能板。
+* **按活动日期列出的参与度**：用户可以选择按活动日期或成本期查看参与度指标。
+* **ABM指定帐户筛选器**：按特定指定帐户筛选管道和收入仪表板。
 
 ## 广告网络 {#ad-networks}
 
@@ -94,7 +94,7 @@ Web个性化现在支持多个工作区。
 
 ## API {#api}
 
-**商机图REST API**
+**潜在客户地图REST API**
 
 Marketo现在支持在Lead API上使用电子邮件处置字段（包括“黑名单”、“营销暂停”、“电子邮件暂停”和“相对紧急程度”）。
 

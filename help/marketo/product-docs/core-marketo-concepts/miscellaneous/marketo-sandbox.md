@@ -5,7 +5,7 @@ title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Marketo Engage沙盒是在生产环境中实施之前用于测试目的的附加
 ## 关于沙盒的注意事项 {#things-to-know-about-sandboxes}
 
 * 一旦Adobe帐户团队设置好沙盒并向您发送邀请，您必须使用其他电子邮件地址登录Marketo生产实例。
-* 如果要添加用户，则过程与相同 [在生产环境中添加用户](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). 同样，如果他们已具有Marketo登录信息，则必须使用其他电子邮件地址。
+* 如果要添加用户，该过程与[在生产环境中添加用户](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users)的过程相同。 同样，如果他们已具有Marketo登录信息，则必须使用其他电子邮件地址。
 * 您的Marketo沙盒最初将是空的，但具有与生产实例相同的可用功能。
-* 如果您在沙盒中创建程序并希望将其移至生产环境，则可以执行 [项目导入](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
+* 如果您在沙盒中创建程序并希望将其移至生产环境，则可以执行[程序导入](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)。
 * 沙盒会被限制，以便生产实例不会受到测试环境的不利影响。 每次营销活动运行最多可发送20封电子邮件。
 
 >[!CAUTION]
@@ -34,7 +34,7 @@ Marketo Engage沙盒是在生产环境中实施之前用于测试目的的附加
 
 ## 实例复制 {#instance-copy}
 
-您可以提交支持案例，请求一次性实例副本以填充沙盒。 实例副本将不会传入 _全部_，但是。 请查阅 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support) 以了解详细信息。
+您可以提交支持案例，请求一次性实例副本以填充沙盒。 但是，实例副本不会带来&#x200B;_所有_。 有关详细信息，请参阅[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 >[!NOTE]
 >

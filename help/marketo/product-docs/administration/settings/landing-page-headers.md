@@ -14,19 +14,19 @@ ht-degree: 0%
 
 请按照以下步骤自定义登陆页面域上的某些HTTP标头。
 
-1. 在Marketo中，单击 **[!UICONTROL 管理员]**.
+1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/landing-page-headers-1.png)
 
-1. 单击 **[!UICONTROL 登陆页面]**.
+1. 单击&#x200B;**[!UICONTROL 登陆页面]**。
 
    ![](assets/landing-page-headers-2.png)
 
-1. 单击 **[!UICONTROL 编辑]** 位于登陆页面HTTP标头旁。
+1. 单击登陆页面HTTP标题旁边的&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/landing-page-headers-3.png)
 
-1. 选择所需的设置，然后单击 **[!UICONTROL 保存]** 完成时。
+1. 选择所需的设置，完成后，单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/landing-page-headers-4.png)
 

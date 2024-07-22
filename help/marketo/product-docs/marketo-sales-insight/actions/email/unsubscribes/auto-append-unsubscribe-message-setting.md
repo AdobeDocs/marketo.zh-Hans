@@ -16,15 +16,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您使用 `{{team_unsubscribe}}` 电子邮件模板中的动态字段并且启用了取消订阅消息附加设置，团队取消订阅动态字段将填充您的取消订阅消息 _而不是_ 正在附加您的取消订阅消息。
+>如果您在电子邮件模板中使用`{{team_unsubscribe}}`动态字段并且启用了取消订阅消息附加设置，则团队取消订阅动态字段将填充您的取消订阅消息&#x200B;_，而不是_&#x200B;附加您的取消订阅消息。
 
 ## 启用/禁用取消订阅附加 {#enable-disable-unsubscribe-append}
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. 在管理设置下，单击 **取消订阅**.
+1. 在“管理员设置”下，单击&#x200B;**取消订阅**。
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果禁用附加取消订阅消息设置，我们建议向模板添加取消订阅页脚，以确保您的通信具有选择退出选项。 为此，您可以向每个模板添加自己的自定义消息，或使用 `{{team_unsubscribe}}` [动态字段](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.
+>如果禁用附加取消订阅消息设置，我们建议向模板添加取消订阅页脚，以确保您的通信具有选择退出选项。 您可通过向每个模板添加自己的自定义消息或使用`{{team_unsubscribe}}` [动态字段](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}来执行此操作。

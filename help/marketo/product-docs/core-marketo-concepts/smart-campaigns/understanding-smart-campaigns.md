@@ -15,11 +15,11 @@ ht-degree: 2%
 
 如果Marketo Engage是一辆汽车，那么Smart Campaign就是它的引擎。 智能营销活动可执行的功能超出您的想象，并且可轻松开始使用它们。
 
-Smart Campaign有3个主要区域： [智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}， [流量](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} 和 [计划](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 选项卡。
+智能营销活动有3个主要区域：[智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}、[流量](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}和[计划](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}选项卡。
 
 ## 智能列表 {#smart-list}
 
-智能列表是您定义的方式 _谁_ 您希望使用Smart Campaign进行定位。 它具有过滤器和触发器。
+智能列表是您定义&#x200B;_要用Smart Campaign定位的_&#x200B;的方式。 它具有过滤器和触发器。
 
 <table> 
  <tbody> 
@@ -55,7 +55,7 @@ Smart Campaign能做的事情有很多。 掌握其中的奥秘，您就会发�
 
 >[!CAUTION]
 >
->如果您将智能营销策划从一个项目移动到另一个项目，并且该营销策划的智能列表或流程步骤引用了原始项目，则必须手动更新信息以反映其新项目，就像它一样 **非** 自动更新。
+>如果您将智能营销活动从一个项目移动到另一个项目，并且该营销活动的智能列表或流程步骤引用了原始项目，则必须手动更新信息以反映其新项目，因为它将&#x200B;**不会**&#x200B;自动更新。
 
 >[!MORELIKETHIS]
 >

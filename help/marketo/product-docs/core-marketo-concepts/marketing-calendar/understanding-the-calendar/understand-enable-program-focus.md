@@ -6,20 +6,20 @@ exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 # 了解/启用项目聚焦 {#understand-enable-program-focus}
 
-营销日历可让您以鸟瞰图查看各种物品，但它也允许进行一些交互。 您可以 [创建](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [edit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}, and [confirm](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} 个条目。 要与条目交互，您必须先关注项目。
+营销日历可让您以鸟瞰图查看各种物品，但它也允许进行一些交互。 您可以[创建](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[编辑](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[删除](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}和[确认](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}条目。 要与条目交互，您必须先关注项目。
 
-1. 转到 **营销日历**.
+1. 转到&#x200B;**营销日历**。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. 选择一个条目，然后单击 **[!UICONTROL 显示项目群焦点]**.
+1. 选择一个条目，然后单击&#x200B;**[!UICONTROL 显示项目焦点]**。
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 

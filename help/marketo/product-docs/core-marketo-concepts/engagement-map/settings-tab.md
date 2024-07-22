@@ -1,8 +1,8 @@
 ---
 description: 设置选项卡 — Marketo文档 — 产品文档
 title: “设置”选项卡
-exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 包括以下三个部分。
 
-* **资格规则**：确定每个人可以通过Smart Campaign流的次数。
+* **资格规则**：确定每个人在智能营销活动流程中可以运行的次数。
 
-* **单个运行**：可用于安排立即运行或将来的单次运行。
+* **单次运行**：可用于立即或将来计划单次运行。
 
-* **周期性**：用于计划每日、每周或每月重复。
+* **重复**：用于安排每日、每周或每月重复。
 
   ![](assets/settings-tab-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
 * 营销活动状态
 * 创建日期
-* 上次修改时间
+* 上次修改日期
 * 智能列表模式
 * 智能列表状态：
    * 预计受影响的人员

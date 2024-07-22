@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >Marketo不支持包含表情符号的电子邮件地址。
 
-1. 转到 **[!UICONTROL 数据库]**.
+1. 转到&#x200B;**[!UICONTROL 数据库]**。
 
    ![](assets/db-1.png)
 
-1. 下 **[!UICONTROL 新建]**，单击 **[!UICONTROL 新人员]**.
+1. 在&#x200B;**[!UICONTROL 新建]**&#x200B;下，单击&#x200B;**[!UICONTROL 新建人员]**。
 
    ![](assets/two-2.png)
 
-1. 输入人员信息，然后单击 **[!UICONTROL 创建]**.
+1. 输入人员信息，然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/three-2.png)
 

@@ -15,18 +15,18 @@ ht-degree: 0%
 
 程序是Marketo中最重要的元素之一。 你会经常使用它们！
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 为新项目选择文件夹。 选择 **[!UICONTROL 新建]** 并单击 **[!UICONTROL 新建项目群]**.
+1. 为新项目选择文件夹。 选择&#x200B;**[!UICONTROL 新建]**，然后单击&#x200B;**[!UICONTROL 新建程序]**。
 
    ![](assets/leadlifecycle.jpg)
 
-1. 输入 **[!UICONTROL 名称]**，选择一个 **[[!UICONTROL 渠道]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** ，然后单击 **[!UICONTROL 创建]**.
+1. 输入&#x200B;**[!UICONTROL 名称]**，在下拉列表中选择&#x200B;**[[!UICONTROL 渠道]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}**，然后单击&#x200B;**[!UICONTROL 创建]**。
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
 >[!MORELIKETHIS]
 >
->[了解项目群](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>[了解程序](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}。

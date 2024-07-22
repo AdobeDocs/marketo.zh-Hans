@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[为您的自由表单登陆页面添加移动视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
+>[为您的自由格式登陆页面添加移动视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 自由格式登陆页面的移动设备视图大多是自动的，但您可以对其进行自定义。 具体方法如下。
 
@@ -23,17 +23,17 @@ ht-degree: 0%
 
    ![](assets/selectlandingapge.jpg)
 
-1. 单击 **编辑草稿**.
+1. 单击&#x200B;**编辑草稿**。
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. 单击 **移动设备** 选项卡。
+1. 单击&#x200B;**移动设备**&#x200B;选项卡。
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
 ## 移动设备视图与桌面视图 {#mobile-vs-desktop-view}
 
-在“页面元素”下，您将看到 ![](assets/image2015-1-22-18-3a39-3a53.png) （桌面）图标和 ![](assets/image2015-1-22-18-3a40-3a31.png) （移动设备）图标。 这允许您动态显示/隐藏不同的元素。
+在“页面元素”下，您会看到![](assets/image2015-1-22-18-3a39-3a53.png)（桌面）图标和![](assets/image2015-1-22-18-3a40-3a31.png)（移动设备）图标。 这允许您动态显示/隐藏不同的元素。
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -83,15 +83,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->移动设备视图也可以具有不同的页面元素排列。 在自由格式登陆页面上四处移动，或重新排序下列出的对象 **页面元素** 使用拖放。
+>移动设备视图也可以具有不同的页面元素排列。 在自由格式登陆页面上四处移动，或者使用拖放功能对&#x200B;**页面元素**&#x200B;下列出的对象重新排序。
 
 ## 预览移动设备视图 {#preview-mobile-view}
 
-1. 单击 **预览草稿**.
+1. 单击&#x200B;**预览草稿**。
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. 想看点很酷的东西吗？ 选择 **并排**.
+1. 想看点很酷的东西吗？ 选择&#x200B;**并排**。
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. 如果您喜欢，请单击 **批准并关闭**.
+1. 如果您喜欢它，请单击&#x200B;**批准并关闭**。
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -111,4 +111,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[使现有的自由表单登陆页面模板与移动设备兼容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[使现有的自由表单登陆页面模板移动设备兼容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 下面是如何批准已准备就绪的现有表单。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. 下 **表单操作**，单击 **批准**.
+1. 在&#x200B;**表单操作**&#x200B;下，单击&#x200B;**批准**。
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   它已经过批准并准备好 [已添加到登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   它已被批准并准备好[添加到登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
 
    >[!NOTE]
    >
@@ -49,10 +49,10 @@ ht-degree: 0%
 >
 >[编辑表单](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. 单击 **完成**.
+1. 单击&#x200B;**完成**。
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. 单击 **批准并关闭**.
+1. 单击&#x200B;**批准并关闭**。
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

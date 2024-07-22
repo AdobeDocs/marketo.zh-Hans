@@ -28,14 +28,14 @@ ht-degree: 0%
 >
 >**需要管理员权限。**
 
-1. 单击齿轮图标并选择 **设置**.
+1. 单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. 在管理设置下，选择 **跟踪**.
+1. 在“管理员设置”下，选择&#x200B;**跟踪**。
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. 在自定义域跟踪选项卡中，输入您的CNAME并单击 **连接**.
+1. 在自定义域跟踪选项卡中，输入您的CNAME并单击&#x200B;**连接**。
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

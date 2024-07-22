@@ -6,7 +6,7 @@ exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >此功能将于4月28日星期二发布。
 
-新 [Analytics主页](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) 支持跨可用报表类型运行临时报表的快速访问。
+新的[Analytics主页](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)允许快速访问跨可用报表类型运行临时报表。
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## Marketo移动参与 {#marketo-mobile-engagement}
 
-**Marketo移动参与**
+**Marketo Mobile Engagement**
 
 通过Marketo Mobile Engagement，可以轻松提供引人入胜的移动体验。 创建高度个性化的营销活动，这些活动提供引人入胜的内容，而无需依赖应用程序开发团队。 新的过滤器和触发器允许您通过推送通知在移动渠道上侦听和响应。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 [linkedIn Lead Accelerator集成](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-将您的潜在客户培养策略扩展到付费展示广告和社交广告。 此 [广告网络集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) 通过使用LinkedIn潜在客户加速器，您可以根据任何智能或静态列表的成员，在LinkedIn中安全地创建受众区段。 linkedIn受众区段中的成员随后可以通过一系列相关广告得到培养。
+将您的潜在客户培养策略扩展到付费展示广告和社交广告。 通过[广告网络集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)与LinkedIn潜在客户加速器，您可以根据任何智能或静态列表的成员，在LinkedIn中安全地创建受众区段。 linkedIn受众区段中的成员随后可以通过一系列相关广告得到培养。
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

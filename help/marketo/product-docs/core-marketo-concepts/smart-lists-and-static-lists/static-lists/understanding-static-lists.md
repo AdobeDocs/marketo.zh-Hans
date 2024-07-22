@@ -6,7 +6,7 @@ exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -23,16 +23,16 @@ ht-degree: 0%
 
 | 类型 | 逻辑 |
 |---|---|
-| 智能列表 | 基于 **定义的规则** |
-| 静态列表 | 基于 **添加/删除每个人** |
+| 智能列表 | 基于&#x200B;**定义的规则** |
+| 静态列表 | 基于&#x200B;**添加/删除每个人** |
 
 >[!CAUTION]
 >
->最常见的错误之一是，认为您只需通过“删除人员”即可将人员从列表中删除。 **这是错误的**. 删除人员会从中删除他们 **整个数据库**，而不仅仅是列表。
+>最常见的错误之一是，认为您只需通过“删除人员”即可将人员从列表中删除。 **这是错误的**。 删除人员会将其从&#x200B;**整个数据库**&#x200B;中删除，而不只是删除列表。
 
 ## 在列表中添加/删除人员的方法 {#ways-to-add-remove-people-from-a-list}
 
-1. 智能营销活动流程步骤([添加到列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
+1. 智能营销活动流程步骤（[添加到列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}，[从列表中删除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"}）
 
 1. [单个操作流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. 将人拖到树中的列表中

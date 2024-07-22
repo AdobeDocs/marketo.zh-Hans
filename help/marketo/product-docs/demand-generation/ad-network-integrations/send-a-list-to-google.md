@@ -18,11 +18,11 @@ ht-degree: 0%
 
    ![](assets/send-a-list-to-google-1.png)
 
-1. 单击 **列出操作** 下拉并选择 **发送到广告网络**.
+1. 单击&#x200B;**列出操作**&#x200B;下拉列表，然后选择&#x200B;**发送到广告网络**。
 
    ![](assets/send-a-list-to-google-2.png)
 
-1. 选择Google并单击 **下一个**.
+1. 选择Google并单击&#x200B;**下一步**。
 
    ![](assets/send-a-list-to-google-3.png)
 
@@ -36,14 +36,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* 选择 **保持受众成员资格同步** 当列表在实例中发生更改时，它保持为最新。 我们在将人员添加到静态列表/从静态列表中移除人员后，从受众中添加/移除人员。
+   >* 选择&#x200B;**使受众成员资格保持同步**&#x200B;可使列表在实例中更改时保持最新。 我们在将人员添加到静态列表/从静态列表中移除人员后，从受众中添加/移除人员。
    >
-   >* 选中底部的复选框会将发送到Google Ads的用户数据的同意状态发送为GRANTED，以进行广告和广告个性化。 将其保留为未选中将发送同意状态为未指定。 对于那些计划为欧洲经济区(EEA)用户上传数据的用户，Google汇总了一份 [常见问题解答](https://support.google.com/google-ads/answer/14310715){target="_blank"}，以及概述了 [欧盟用户同意政策](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* 选中底部的复选框会将发送到Google Ads的用户数据的同意状态发送为GRANTED，以进行广告和广告个性化。 将其保留为未选中将发送同意状态为未指定。 对于计划为欧洲经济区(EEA)用户上传数据的用户，Google已汇总了[常见问题解答](https://support.google.com/google-ads/answer/14310715){target="_blank"}的列表，以及概述了[欧盟用户同意政策](https://www.google.com/about/company/user-consent-policy/){target="_blank"}的其他详细信息。
 
-1. 单击 **更新**.
+1. 单击&#x200B;**更新**。
 
    ![](assets/send-a-list-to-google-6.png)
 
-1. 单击 **确定** 以退出。
+1. 单击&#x200B;**确定**&#x200B;退出。
 
    ![](assets/send-a-list-to-google-7.png)

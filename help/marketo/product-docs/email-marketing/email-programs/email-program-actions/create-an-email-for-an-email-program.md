@@ -16,19 +16,19 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [创建电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [通过导入列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [使用智能列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)或[通过导入列表定义受众](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
-创建电子邮件程序并定义受众后，您将需要决定要发送的电子邮件。 您可以 [选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或从头开始创建。 以下是如何创建新电子邮件。
+创建电子邮件程序并定义受众后，您将需要决定要发送的电子邮件。 您可以[选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)或从头开始创建电子邮件。 以下是如何创建新电子邮件。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/one.png)
 
-1. 选择您的电子邮件程序。 在 **电子邮件** 图块，单击 **新建电子邮件**.
+1. 选择您的电子邮件程序。 在&#x200B;**电子邮件**&#x200B;图块下，单击&#x200B;**新建电子邮件**。
 
    ![](assets/newemaildashboard.png)
 
-1. 输入 **名称**，选择您选择的模板并单击 **创建**.
+1. 输入&#x200B;**名称**，选择您选择的模板并单击&#x200B;**创建**。
 
    ![](assets/three.png)
 
@@ -38,10 +38,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >了解如何 [编辑电子邮件中的元素](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
+   >了解如何[编辑电子邮件中的元素](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)。
 
 1. 别忘了批准您的电子邮件。
 
    ![](assets/five.png)
 
-太棒了！ 现在，我们已创建要发送的电子邮件，让我们  [添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 或直接跳至 [计划您的电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+太棒了！ 现在我们已创建要发送的电子邮件，让我们[添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)或直接跳至[计划您的电子邮件计划](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)。

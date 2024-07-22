@@ -41,14 +41,14 @@ ht-degree: 0%
   </tr>
   <tr>
    <td>聊天机器人对话由对话框提供支持。</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">对话式Forms</a> Marketo Engage由对话流提供支持。</td>
+   <td>Marketo Engage中的<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">对话Forms</a>由对话流提供支持。</td>
   </tr>
  </tbody> 
 </table>
 
-## “流设计器”选项卡 {#stream-designer-tab}
+## “流式传输Designer”选项卡 {#stream-designer-tab}
 
-用于对话流的流设计器与用于对话框的流设计器几乎相同。 [在此处了解所有相关信息](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
+用于对话流的流Designer与用于对话框的流几乎完全相同。 [在此了解所有相关信息](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}。
 
 ![](assets/conversational-flow-overview-2.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->请参阅 [对话SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} 行动起来！
+>查看[对话SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}正在执行中！
 
 >[!MORELIKETHIS]
 >

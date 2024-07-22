@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147124
-description: 使用“资源”选项卡 — Marketo文档 — 产品文档
-title: 使用“资源”选项卡
+description: 使用“Assets”选项卡 — Marketo文档 — 产品文档
+title: 使用“Assets”选项卡
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 使用“资源”选项卡 {#using-the-assets-tab}
+# 使用“Assets”选项卡 {#using-the-assets-tab}
 
 资产画布是默认或事件程序的可视表示形式。 您可以使用该功能添加本地资源以及与现有资源交互。
 
-## 添加资源 {#adding-assets}
+## 添加Assets {#adding-assets}
 
-单击 **[!UICONTROL 资产]** 选项卡。 选择以下任何资源并将它们添加到您的项目中。
+单击所需程序中的&#x200B;**[!UICONTROL Assets]**&#x200B;选项卡。 选择以下任何资源并将它们添加到您的项目中。
 
 ![](assets/programassets.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 >
 >拖放以重新排列资源列。
 
-项目非本地的资产将如下所示：
+不是您项目本地的Assets将来的外观：
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 

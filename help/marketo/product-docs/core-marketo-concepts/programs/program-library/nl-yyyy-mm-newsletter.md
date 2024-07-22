@@ -2,10 +2,10 @@
 description: NL-YYYY-MM-Newsletter - Marketo文档 — 产品文档
 title: NL-YYYY-MM-Newsletter
 feature: Programs
-exl-id: 97078562-6c1f-4f76-a456-9bff8ed6cd21
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bce05e0f-e288-4614-9d05-c14844615454
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 4%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 此示例利用Marketo Engage电子邮件计划发送一封新闻稿电子邮件。 电子邮件可以包含或不包含A/B测试。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -29,14 +29,14 @@ ht-degree: 4%
   <tr> 
    <td>新闻稿</td> 
    <td>01个成员 
-<br/>02参与成功</td>
+<br/>02 — 参与成功</td>
    <td>包含</td>
    <td>电子邮件</td>
   </tr>
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -69,7 +69,7 @@ ht-degree: 4%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>资产 — 容纳所有创意资产 
+   <td>Assets — 容纳所有创意资源 
 <br/>（电子邮件的子文件夹）  </td>
   </tr>
   <tr> 
@@ -80,7 +80,7 @@ ht-degree: 4%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>报表</td>
+   <td>报告</td>
   </tr>
  </tbody> 
 </table>
@@ -117,20 +117,20 @@ ht-degree: 4%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
    * 复制原始模板
-   * 使用目标模板 —  _推荐_
+   * 使用目标模板 — _推荐_
 
 * **具有相同名称的图像**
    * 保留两个文件
-   * 替换此订阅中的项目 —  _推荐_
+   * 替换此订阅中的项目 — _推荐_
 
 * **同名电子邮件模板**
    * 保留两个模板
-   * 替换现有模板 —  _推荐_
+   * 替换现有模板 — _推荐_
 
 ## 最佳实践 {#best-practices}
 
@@ -144,4 +144,4 @@ ht-degree: 4%
 
 >[!TIP]
 >
->不要忘记激活“01参与”营销活动以跟踪成功！ 执行操作 _早于_ 您的表单已上线并发送电子邮件。
+>不要忘记激活“01参与”营销活动以跟踪成功！ _before_&#x200B;执行此操作您的表单已上线且已发送电子邮件。

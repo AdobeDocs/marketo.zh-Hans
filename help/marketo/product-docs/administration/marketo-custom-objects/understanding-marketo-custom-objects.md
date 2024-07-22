@@ -21,13 +21,13 @@ ht-degree: 0%
 
 在智能营销活动中将自定义对象用作过滤器和触发器。 例如：
 
-* **筛选**：仅向特定车辆品牌的所有者发送电子邮件
+* **筛选器**：仅向特定车辆品牌的所有者发送电子邮件
 * **触发器**：将自定义对象添加到人员或公司时发送电子邮件。
 
 您可以在一对多或多对多关系中设置自定义对象。 例如：
 
-* **一对多**：一人拥有多辆汽车
-* **多对多**：多个学生从课程目录注册了多个课程
+* **一对多**：一个人拥有几辆汽车
+* **多对多**：多个学生注册了课程目录中的多个课程
 
 一对多结构使用单个链接字段将自定义对象连接到人员或公司。
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
 ## 访问Marketo自定义对象 {#accessing-marketo-custom-objects}
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. 单击 **[!UICONTROL Marketo自定义对象]**.
+1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,17 +69,17 @@ ht-degree: 0%
 
 ## 查看与人员关联的自定义对象 {#view-custom-objects-associated-to-a-person}
 
-创建自定义对象结构后，当您上载特定的自定义对象数据时，自定义对象会自动使用自定义对象中的链接字段与数据库中的人员关联。 您可以从以下位置查看信息： [!UICONTROL 自定义对象] 选项卡。
+创建自定义对象结构后，当您上载特定的自定义对象数据时，自定义对象会自动使用自定义对象中的链接字段与数据库中的人员关联。 您可以在人员详细信息页面上查看[!UICONTROL 自定义对象]选项卡中的信息。
 
-1. 转到 **[!UICONTROL 数据库]**.
+1. 转到&#x200B;**[!UICONTROL 数据库]**。
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. 打开数据库，然后单击 **[!UICONTROL 人员]** 选项卡。 双击与自定义对象关联的人员的记录。
+1. 打开数据库，然后单击&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡。 双击与自定义对象关联的人员的记录。
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. 在人员详细信息页面上，单击 **[!UICONTROL 自定义对象]** 选项卡。 从下拉列表中选择对象。
+1. 在人员详细信息页面上，单击&#x200B;**[!UICONTROL 自定义对象]**&#x200B;选项卡。 从下拉列表中选择对象。
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
 自定义对象只能直接链接到单个记录。 这意味着，当您的自定义对象类型由公司字段链接时，如果您使用Marketo的REST API管理公司，则应确保通过CRM中的联系人转换或使用externalCompanyId字段将人员记录与公司关联。 对于未明确链接到公司记录的人员记录，即使公司字段的值在多个人员之间共享，使用公司链接的自定义对象也将随机链接到单个记录。
 
-请参阅 [导入自定义对象数据](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) 以了解更多信息。
+有关详细信息，请参阅[导入自定义对象数据](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)。
 
 >[!MORELIKETHIS]
 >

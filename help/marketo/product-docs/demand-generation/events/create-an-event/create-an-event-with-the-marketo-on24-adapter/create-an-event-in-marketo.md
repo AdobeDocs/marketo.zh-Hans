@@ -19,9 +19,9 @@ Marketo事件可跟踪您的人员通过项目的进展情况。 它使用ON24�
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-创建Marketo事件时，选择 **网络研讨会** 作为渠道类型。 您可以在“管理员”中编辑此渠道，并创建新渠道。 如果创建新渠道，其类型必须是 **网络研讨会活动** 以便集成正常工作。 请参阅 [创建项目频道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} 以了解更多信息。
+创建Marketo活动时，选择&#x200B;**网络研讨会**&#x200B;作为渠道类型。 您可以在“管理员”中编辑此渠道，并创建新渠道。 如果创建新渠道，该渠道必须是&#x200B;**网络研讨会事件**&#x200B;类型，集成才能正常工作。 有关详细信息，请参阅[创建节目频道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}。
 
-您的下一步是 [配置事件设置并将Marketo与您的网络研讨会同步](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
+下一步是[配置事件设置并将Marketo与您的网络研讨会同步](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

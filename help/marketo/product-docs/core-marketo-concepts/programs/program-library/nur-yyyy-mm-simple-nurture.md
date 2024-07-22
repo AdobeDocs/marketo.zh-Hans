@@ -2,10 +2,10 @@
 description: nur-YYYY-MM-Simple Nurture - Marketo文档 — 产品文档
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
-exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '347'
 ht-degree: 4%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 这是一个简单的Nurture Programs示例，它利用Marketo Engage参与计划，有节奏的内容随时间滴到数据库中，同时利用流根据行为引导记录历程。
 
-如需进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 页面。
+有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -29,14 +29,14 @@ ht-degree: 4%
   <tr> 
    <td>客户培养</td> 
    <td>01 — 成员 
-<br/>02 — 参与 — 成功</td>
+<br/>02 — 已参与 — 成功</td>
    <td>包含</td>
    <td>参与</td>
   </tr>
  </tbody> 
 </table>
 
-## 程序包含以下资产 {#program-contains-the-following-assets}
+## 程序包含以下Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -94,7 +94,7 @@ ht-degree: 4%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>资产 — 容纳所有创意资产
+   <td>Assets — 容纳所有创意资源
    <br/>（电子邮件的子文件夹）</td>
   </tr>
   <tr> 
@@ -105,7 +105,7 @@ ht-degree: 4%
   <tr> 
    <td>文件夹</td> 
    <td> </td>
-   <td>报表</td>
+   <td>报告</td>
   </tr>
  </tbody> 
 </table>
@@ -142,20 +142,20 @@ ht-degree: 4%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 —  _推荐_
+   * 在此订阅中创建标记 — _推荐_
    * 忽略
 
 * **同名登陆页面模板**
    * 复制原始模板
-   * 使用目标模板 —  _推荐_
+   * 使用目标模板 — _推荐_
 
 * **具有相同名称的图像**
    * 保留两个文件
-   * 替换此订阅中的项目 —  _推荐_
+   * 替换此订阅中的项目 — _推荐_
 
 * **同名电子邮件模板**
    * 保留两个模板
-   * 替换现有模板 —  _推荐_
+   * 替换现有模板 — _推荐_
 
 ## 最佳实践 {#best-practices}
 
@@ -171,4 +171,4 @@ ht-degree: 4%
 
 >[!TIP]
 >
->不要忘记激活“04 — 参与（项目成功）”营销活动以跟踪成功！ 执行操作 _早于_ 您的电子邮件已发送。
+>不要忘记激活“04 — 参与（项目成功）”营销活动以跟踪成功！ 请在发送电子邮件前&#x200B;_执行_&#x200B;操作。

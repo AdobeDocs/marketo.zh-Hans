@@ -31,35 +31,35 @@ Marketo Sales Insight按语言存储。 因此，如果您希望它适用于多�
 
 ## 为Marketo Sales Insight添加新语言 {#adding-a-new-language-for-marketo-sales-insight}
 
-1. 登录Salesforce。 在右上角的名称下方的下拉菜单中，单击 **设置**.
+1. 登录Salesforce。 在右上角您姓名下的下拉菜单中，单击&#x200B;**设置**。
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. 下 **我的个人信息**，单击 **个人信息**.
+1. 在&#x200B;**我的个人信息**&#x200B;下，单击&#x200B;**个人信息**。
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. 单击 **编辑**.
+1. 单击&#x200B;**编辑**。
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
-1. 选择语言并单击 **保存**.
+1. 选择语言并单击&#x200B;**保存**。
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. 您的Salesforce界面现在使用选定语言。 您可以单击 **+** 图标，以查看所有可用的选项卡。
+1. 您的Salesforce界面现在使用选定语言。 您可以单击&#x200B;**+**&#x200B;图标以查看所有可用选项卡。
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. 单击 **配置Marketo Sales Insight** （使用所选语言）。
+1. 单击&#x200B;**配置Marketo Sales Insight**（使用选定的语言）。
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. 转到Marketo。 找到您的 [Marketo Sales Insight **API配置** 详细信息](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. 转到Marketo。 找到您的[Marketo销售分析&#x200B;**API配置**&#x200B;详细信息](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)。
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. 输入Marketo中的API详细信息，然后单击 **保存**.
+1. 输入Marketo中的API详细信息，然后单击&#x200B;**保存**。
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
@@ -71,19 +71,19 @@ Marketo Sales Insight按语言存储。 因此，如果您希望它适用于多�
 >
 >以下屏幕截图为法语，并附有英语说明。  您将看到与上一步中选择的语言文本相同的屏幕。
 
-1. 在您的名称下，单击 **设置**.
+1. 在你的名称下，单击&#x200B;**设置**。
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. 单击 **个人信息** 下 **我的个人信息**.
+1. 单击&#x200B;**我的个人信息**&#x200B;下的&#x200B;**个人信息**。
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. 单击 **编辑**.
+1. 单击&#x200B;**编辑**。
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. 选择 **英语** 从“语言”下拉列表中，单击 **保存**.
+1. 从“语言”下拉列表中选择&#x200B;**英语**，然后单击&#x200B;**保存**。
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 

@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >删除之前请务必确认。 删除Smart Campaign后，无法恢复它。
 
-1. 转到 **[!UICONTROL 营销活动]** 区域。
+1. 转到&#x200B;**[!UICONTROL 营销活动]**&#x200B;区域。
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. 导航到不活动的Smart Campaign。 在 **[!UICONTROL 营销活动操作]** 下拉列表，选择 **[!UICONTROL 删除]**.
+1. 导航到不活动的Smart Campaign。 在&#x200B;**[!UICONTROL 促销活动操作]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >要取消处理活动的智能营销活动而不完全删除它，了解如何 [中止智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >要取消处理活动的智能营销活动而不将其完全删除，了解如何[中止智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)。
 
-1. 单击 **[!UICONTROL 删除]** 以确认。
+1. 单击&#x200B;**[!UICONTROL 删除]**&#x200B;以确认。
 
    ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 

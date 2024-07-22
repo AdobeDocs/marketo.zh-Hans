@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您是否曾花时间创建过完美的Web营销活动？ 现在，您可以将其另存为模板，以便将来轻松重复使用。
 
-1. 转到 **Web营销活动**.
+1. 转到&#x200B;**网络营销活动**。
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/my-campaign-edit.jpg)
 
-1. 选中用作模板并单击 **保存**.
+1. 选中“用作模板”并单击&#x200B;**保存**。
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 

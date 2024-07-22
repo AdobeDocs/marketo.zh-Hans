@@ -27,14 +27,14 @@ ht-degree: 0%
 >
 >自定义活动与自定义对象不同。 值可以更改时使用自定义对象（即“汽车颜色”从蓝色更改为红色）。 当跟踪已发生并且其详细信息无法更改的时刻（即“购买的汽车”）时，使用自定义活动。
 
-**字段** 您可以添加 [其他字段](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) 您希望将其与活动关联的信息。 与主字段一样，它们也可用作智能列表中的筛选条件。
+**字段**&#x200B;您可以添加要与活动关联的[其他字段](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)。 与主字段一样，它们也可用作智能列表中的筛选条件。
 
 **快速入门**
 
 自定义活动的功能与标准活动类似。 但是，设置过程分为两个部分。
 
-第1步： [创建自定义活动](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) 在您的Marketo帐户中
+步骤1：在您的Marketo帐户中[创建自定义活动](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
 
-步骤2：接下来，贵组织中使用我们API的员工可以开始实施。 有关更多信息，请参阅此处： [自定义活动API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
+步骤2：接下来，贵组织中使用我们API的员工可以开始实施。 可在此处找到更多信息： [自定义活动API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 玩得开心！

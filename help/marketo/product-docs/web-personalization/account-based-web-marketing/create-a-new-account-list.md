@@ -6,7 +6,7 @@ exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->本文仅适用于旧版Web ABM客户。 如果您是在2016年9月之后获得Web ABM，请按照中的步骤操作 [本文](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) 而是。
+>本文仅适用于旧版Web ABM客户。 如果您是在2016年9月之后获得Web ABM，请按照[本文](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)中的步骤进行操作。
 
 ## 创建新的帐户列表 {#create-a-new-account-list-1}
 
-1. 转到 **帐户列表**.
+1. 转到&#x200B;**帐户列表**。
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. 选择 **新建**.
+1. 选择&#x200B;**新建**。
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. 选择 **浏览** 并上传CSV文件（确保csv文件符合条件）。 添加 **名称** 和 **描述**. 单击 **保存**.
+1. 选择&#x200B;**浏览**&#x200B;并上传CSV文件（确保csv文件符合条件）。 添加&#x200B;**名称**&#x200B;和&#x200B;**描述**。 单击&#x200B;**保存**。
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
 ## 编辑帐户列表 {#edit-an-account-list}
 
-在 **帐户列表** 页面上，单击 **编辑** 图标。
+在&#x200B;**帐户列表**&#x200B;页面上，单击列表上的&#x200B;**编辑**&#x200B;图标。
 
 ![](assets/create-new-account-list-edit.jpg)
 
-选择 **浏览** 并上传新的CSV文件。 此文件将替换原始文件。 单击 **保存**. 新上传的文件将处于待处理状态，直到Marketo支持批准为止，当处于待处理状态时，原始文件将保持活动状态。
+选择&#x200B;**浏览**&#x200B;并上传新的CSV文件。 此文件将替换原始文件。 单击&#x200B;**保存**。 新上传的文件将处于待处理状态，直到Marketo支持批准为止，当处于待处理状态时，原始文件将保持活动状态。
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -76,14 +76,14 @@ CSV文件将替换现有文件。 在新文件处理完成之前，现有列表�
 
 ## 删除指定帐户列表 {#delete-a-named-account-list}
 
-1. 在 **帐户列表** 页面上，单击要删除的列表的删除图标。
+1. 在&#x200B;**帐户列表**&#x200B;页面上，单击要删除的列表的“删除”图标。
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. 此时将显示一条消息，确认您是否要删除该列表。 单击 **确定**.
+1. 此时将显示一条消息，确认您是否要删除该列表。 单击&#x200B;**确定**。
 
    ![](assets/delete-notification-hand.jpg)
 
 >[!MORELIKETHIS]
 >
->[使用帐户列表创建段](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
+>[使用帐户列表创建区段](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

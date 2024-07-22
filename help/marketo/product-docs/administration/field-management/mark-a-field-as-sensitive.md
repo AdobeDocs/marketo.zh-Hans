@@ -5,7 +5,7 @@ exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >此功能将于5月11日星期二晚间为所有Marketo实例启用。
 
-1. 单击 **[!UICONTROL 管理员]**.
+1. 单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. 单击 **[!UICONTROL 字段管理]**.
+1. 单击&#x200B;**[!UICONTROL 字段管理]**。
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. 选择 **[!UICONTROL 将字段标记为敏感字段]** 复选框。
+1. 选中&#x200B;**[!UICONTROL 将字段标记为敏感字段]**&#x200B;复选框。
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 

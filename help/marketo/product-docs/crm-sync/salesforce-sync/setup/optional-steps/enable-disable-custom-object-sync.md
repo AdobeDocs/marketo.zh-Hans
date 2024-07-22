@@ -21,19 +21,19 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 单击 **[!UICONTROL 管理员]**.
+1. 单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/one.png)
 
-1. 在数据库管理菜单中，单击 **[!UICONTROL Salesforce对象同步]**.
+1. 在“数据库管理”菜单中，单击&#x200B;**[!UICONTROL Salesforce对象同步]**。
 
    ![](assets/two-2.png)
 
-1. 如果这是您的第一个自定义对象，请单击 **[!UICONTROL 同步架构]**. 否则，请单击 **[!UICONTROL 刷新架构]** 以确保您拥有最新版本。
+1. 如果这是您的第一个自定义对象，请单击&#x200B;**[!UICONTROL 同步架构]**。 否则，请单击&#x200B;**[!UICONTROL 刷新架构]**&#x200B;以确保您拥有最新的架构。
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. 如果全局同步正在运行，则必须通过单击 **[!UICONTROL 禁用全局同步]**.
+1. 如果全局同步正在运行，则必须通过单击&#x200B;**[!UICONTROL 禁用全局同步]**&#x200B;来禁用它。
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
    >
    >同步Salesforce自定义对象架构可能需要几分钟时间。
 
-1. 单击 **[!UICONTROL 刷新架构]**.
+1. 单击&#x200B;**[!UICONTROL 刷新架构]**。
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. 选择要同步的对象，然后单击 **[!UICONTROL 启用同步]**.
+1. 选择要同步的对象，然后单击&#x200B;**[!UICONTROL 启用同步]**。
 
    >[!TIP]
    >
@@ -53,11 +53,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. 单击 **[!UICONTROL 启用同步]** 再来一次。
+1. 再次单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. 返回 **[!DNL Salesforce]** 选项卡，然后单击 **[!UICONTROL 启用同步]**.
+1. 返回&#x200B;**[!DNL Salesforce]**&#x200B;选项卡并单击&#x200B;**[!UICONTROL 启用同步]**。
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 >
 >不能将智能营销活动中的自定义对象与触发器一起使用。
 
-1. 在智能列表中，将 **[!UICONTROL 具有机会]** 筛选并设置为 **[!UICONTROL true]**.
+1. 在智能列表中，拖到&#x200B;**[!UICONTROL Has Opportunity]**&#x200B;筛选器上并设置为&#x200B;**[!UICONTROL true]**。
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 

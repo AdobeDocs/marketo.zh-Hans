@@ -6,7 +6,7 @@ exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 发送群电子邮件 {#sending-a-group-email}
 
-1. 单击 **人员** 选项卡。
+1. 单击&#x200B;**人员**&#x200B;选项卡。
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 单击Group Actions按钮并选择 **电子邮件组**.
+1. 单击“组操作”按钮并选择&#x200B;**电子邮件组**。
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 编辑组电子邮件 {#editing-a-group-email}
 
-1. 创建群组电子邮件，使用 [以上步骤1-3](#sending-a-group-email).
+1. 使用上述[步骤1-3创建群电子邮件](#sending-a-group-email)。
 
 1. 选择模板或填写电子邮件。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/edit-four.png)
 
-1. 单击 **预览动态字段**，并在右侧查看预览。
+1. 单击&#x200B;**预览动态字段**，然后在右侧查看预览。
 
    ![](assets/edit-five.png)
 

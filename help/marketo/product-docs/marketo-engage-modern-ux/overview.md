@@ -50,7 +50,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->在树中执行搜索将仅显示前250个结果。 如果在搜索后无法找到您的资产，请使用 [全局搜索](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) 函数。
+>在树中执行搜索将仅显示前250个结果。 如果在搜索后找不到您的资产，请使用[全局搜索](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md)功能。
 
 **Marketo Classic与新Marketo**
 

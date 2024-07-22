@@ -6,7 +6,7 @@ exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->这适用于具有Select版本或 [收入周期分析](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) 加载项。 有关详细信息，请与您的销售代表联系。
+>这适用于具有Select Edition或[Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)加载项的用户。 有关详细信息，请与您的销售代表联系。
 
 ## 电子邮件点击活动热网格 {#email-click-activity-heat-grid}
 

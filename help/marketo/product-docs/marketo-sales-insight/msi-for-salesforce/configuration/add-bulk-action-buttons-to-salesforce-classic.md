@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. 单击 **设置**. 搜索“搜索布局”并单击 **搜索布局** 下 **潜在客户**.
+1. 单击&#x200B;**设置**。 搜索“搜索布局”并单击&#x200B;**潜在客户**&#x200B;下的&#x200B;**搜索布局**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. 单击 **编辑** 在 **潜在客户列表视图** 行。
+1. 在&#x200B;**潜在客户列表视图**&#x200B;行中单击&#x200B;**编辑**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. 添加 **添加到Marketo Campaign**， **发送Marketo电子邮件**、和 **添加到观察列表** 按钮 **选定的按钮** 和 **保存**.
+1. 将&#x200B;**添加至Marketo Campaign**、**发送Marketo电子邮件**&#x200B;以及&#x200B;**添加到观察列表**&#x200B;按钮添加到&#x200B;**选定的按钮**&#x200B;和&#x200B;**保存**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

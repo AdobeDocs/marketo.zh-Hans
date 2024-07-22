@@ -15,18 +15,18 @@ ht-degree: 0%
 
 正在查找使用特定区段的Web营销活动？
 
-1. 转到 **区段**.
+1. 转到&#x200B;**区段**。
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. 搜索 **区段**. 选择 **区段名称**. 在右侧面板中，单击 **关联的营销活动** 查看与此特定区段关联的促销活动。
+1. 搜索&#x200B;**区段**。 选择&#x200B;**区段名称**。 在右侧面板中，单击&#x200B;**关联的促销活动**&#x200B;以查看与此特定区段关联的促销活动。
 
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. 查看 **营销活动** 与选定区段相关联。
+1. 查看与所选区段关联的&#x200B;**营销活动**。
 
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!MORELIKETHIS]
 >
->了解有关 [区段](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) 以及操作方法 [创建基本区段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).
+>了解有关[区段](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)以及如何[创建基本区段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)的更多信息。

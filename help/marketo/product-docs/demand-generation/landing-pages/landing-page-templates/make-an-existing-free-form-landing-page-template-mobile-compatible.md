@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ## 从模板编辑器升级 {#upgrade-from-the-template-editor}
 
-1. 转到 **Design Studio**.
+1. 转到&#x200B;**设计工作室**。
 
    ![](assets/designstudio-1.png)
 
-1. 选择 **模板**.
+1. 选择&#x200B;**模板**。
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. 选择模板，其中 **移动设备兼容** 是 **否**.
+1. 选择&#x200B;**移动设备兼容**&#x200B;为&#x200B;**否**&#x200B;的模板。
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. 单击 **编辑草稿**.
+1. 单击&#x200B;**编辑草稿**。
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. 单击 **使移动设备兼容**.
+1. 单击&#x200B;**使移动设备兼容**。
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. 单击 **升级**.
+1. 单击&#x200B;**升级**。
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 在编辑登陆页并单击移动设备选项卡时，您有时会注意到模板尚未升级。 不要害怕！ 你可以在这里升级它。
 
-1. 单击 **移动设备** 选项卡。
+1. 单击&#x200B;**移动设备**&#x200B;选项卡。
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. 单击该复选框，然后单击 **激活**.
+1. 单击该复选框，然后单击&#x200B;**激活**。
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -81,4 +81,4 @@ ht-degree: 0%
    >
    >激活模板的移动版本将会创建使用该模板的任何登陆页面的草稿。
 
-太棒了！ 您现在可以 [自定义移动设备视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) 您所有使用此模板的登陆页面的ID。
+太棒了！ 您现在可以[自定义使用此模板的所有登陆页面的移动设备视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)。

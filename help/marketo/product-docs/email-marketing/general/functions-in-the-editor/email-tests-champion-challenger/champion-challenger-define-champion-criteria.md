@@ -21,7 +21,7 @@ ht-degree: 1%
 
 ## 标准冠军标准 {#standard-champion-criteria}
 
-1. 选择一个可用的 **冠军标准**.
+1. 选择一个可用的&#x200B;**冠军标准**。
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -29,11 +29,11 @@ ht-degree: 1%
    >
    >我们将跟踪此量度，并通过电子邮件向您发送包含数据的报表。
 
-1. 如果您选择了一个默认值 **冠军标准**，请继续并转到 [冠军/挑战者：配置报表警报](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)！
+1. 如果您选择了默认的&#x200B;**冠军标准**&#x200B;之一，请继续并转到[冠军/挑战者：配置报告警报](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)！
 
 ## 自定义冠军标准 {#custom-champion-criteria}
 
-1. 如果您想要变得花哨，可以通过选择 **自定义转换** 并单击 **编辑**.
+1. 如果您想变得花哨，可以通过选择&#x200B;**自定义转化**&#x200B;并单击&#x200B;**编辑**&#x200B;进行自定义。
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 

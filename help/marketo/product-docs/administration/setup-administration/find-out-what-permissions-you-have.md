@@ -15,11 +15,11 @@ ht-degree: 0%
 
 如果您想知道Marketo中是否具有权限，可以轻松找到答案。
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/find-out-what-permissions-you-have-1.png)
 
-1. 单击 **[!UICONTROL 完全访问]** 查看您拥有的权限。
+1. 单击&#x200B;**[!UICONTROL 完全访问]**&#x200B;查看您拥有的权限。
 
    ![](assets/find-out-what-permissions-you-have-2.png)
 

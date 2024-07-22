@@ -5,7 +5,7 @@ exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 发送群电子邮件 {#sending-a-group-email}
 
-1. 单击 **人员** 选项卡。
+1. 单击&#x200B;**人员**&#x200B;选项卡。
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. 单击Group Actions按钮并选择 **电子邮件组**.
+1. 单击“组操作”按钮并选择&#x200B;**电子邮件组**。
 
    ![](assets/sending-emails-via-group-email-3.png)
 
@@ -34,9 +34,9 @@ ht-degree: 0%
 
 ## 编辑组电子邮件 {#editing-a-group-email}
 
-1. 创建群组电子邮件，使用 [以上步骤1-3](#sending-a-group-email).
+1. 使用上述[步骤1-3创建群电子邮件](#sending-a-group-email)。
 
-1. [选择模板](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)，或填写您的电子邮件。
+1. [选择模板](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)，或填写电子邮件。
 
    ![](assets/sending-emails-via-group-email-5.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. 选择所需的收件人，然后单击 **预览动态字段**. 在右侧查看预览。
+1. 选择所需的收件人，然后单击&#x200B;**预览动态字段**。 在右侧查看预览。
 
    ![](assets/sending-emails-via-group-email-7.png)
 

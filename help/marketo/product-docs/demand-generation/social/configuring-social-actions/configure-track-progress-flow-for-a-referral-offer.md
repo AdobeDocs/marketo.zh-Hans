@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # 配置反向链接选件的跟踪进度流 {#configure-track-progress-flow-for-a-referral-offer}
 
-当您 [创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以配置提示以显示参与者获得奖励的进度。
+当您[创建推荐选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，您可以配置提示以向参与者显示其奖励进度。
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 选择反向链接选件，然后单击 **编辑草稿**.
+1. 选择推荐选件，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. 在反向链接选件编辑器中，转到 **跟踪进度流** > **社交网络**.
+1. 在反向链接选件编辑器中，转到&#x200B;**跟踪进度流** > **社交网络**。
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. 在 **查看和编辑** 窗口，编辑提示信息，提醒参与者登录他们以前注册优惠的社交网络。
+1. 在&#x200B;**查看和编辑**&#x200B;窗口中，编辑提示以提醒参与者登录到他们用于注册优惠的同一社交网络。
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >要突出显示可编辑的文本，请选择 **显示编辑** 在右上角。
+   >要突出显示可以编辑的文本，请选择右上角的&#x200B;**显示编辑内容**。
 
 1. 编辑提示以鼓励参与者与更多朋友共享链接。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->接下来，单击 **完成** > **批准并关闭** 和 [发布您的推荐选件](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>接下来，单击&#x200B;**完成** > **批准并关闭**&#x200B;并[发布您的推荐选件](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。

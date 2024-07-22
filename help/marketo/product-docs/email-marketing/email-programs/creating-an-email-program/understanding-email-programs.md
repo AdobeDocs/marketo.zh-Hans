@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 控制面板 {#control-panel}
 
-四个盒子能让你保持专注。 **受众** 定义“谁” **电子邮件** 提供“什么” **计划** 定义“何时”和 **批准** 让它准备就绪。
+四个盒子能让你保持专注。 **受众**&#x200B;定义“谁”，**电子邮件**&#x200B;提供“什么”，**计划**&#x200B;定义“何时”，**批准**&#x200B;使其准备就绪。
 
 ![](assets/emailprogram.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->要获得准确的报告，请避免 _重用_ 电子邮件程序中的电子邮件，方法是在Smart Campaign中引用它，或将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将所有数据汇总到附加到该电子邮件的每个报告仪表板中。 如果您需要重新使用电子邮件，请 [克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 相反，因为这样会复制电子邮件，但会创建一个具有新电子邮件ID的新电子邮件。
+>要获得准确的报告，请避免&#x200B;_重复使用电子邮件程序中的_&#x200B;电子邮件，方法是在智能营销活动中引用该电子邮件，或者将资产从启动的电子邮件程序移至新的电子邮件程序。 这样做会将所有数据汇总到附加到该电子邮件的每个报告仪表板中。 如果需要重新使用电子邮件，请改为复制它[克隆](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}，因为这样会复制电子邮件，但会创建一个具有新电子邮件ID的新电子邮件。
 
 享受劳动果实。 功能板为您显示电子邮件计划和A/B测试性能概览。
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->电子邮件程序无法嵌套 [参与计划](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). 它们也无法重新发送，一次只能运行一个测试。
+>电子邮件程序不能嵌套在[参与程序](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)中。 它们也无法重新发送，一次只能运行一个测试。
 
 ## 计划设置 {#schedule-settings}
 

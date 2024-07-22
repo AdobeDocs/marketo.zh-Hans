@@ -6,7 +6,7 @@ exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Marketo会同步与潜在客户或联系人关联的事件和任务。
 
 ## 两个系统之间的活动详细信息如何保持同步？ {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-同步是单向的，从Salesforce到Marketo。 但是，您可以在Salesforce中使用 [创建任务](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flow step or [Customize Activities Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"} 到Salesforce。
+同步是单向的，从Salesforce到Marketo。 但您可以使用[创建任务](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}流程步骤或[自定义活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"}到Salesforce在Salesforce中创建任务。
 
 ## 我可以使用Marketo创建任务吗？ {#can-i-create-a-task-using-marketo}
 
-可以，您可以使用 [创建任务流操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
+可以，您可以使用[创建任务流操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}。
 
 ## 与活动相关的触发器/过滤器有哪些？ {#what-are-the-triggers-filters-related-to-activity}
 
@@ -41,4 +41,4 @@ Marketo会同步与潜在客户或联系人关联的事件和任务。
 
 >[!TIP]
 >
->不确定“非活动”的措辞吗？ “非”是指非活动筛选器。 可在此处详细了解它们： [在智能列表中使用非活动筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}
+>不确定“非活动”的措辞吗？ “非”是指非活动筛选器。 在此处了解有关它们的更多信息：[在智能列表中使用非活动筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

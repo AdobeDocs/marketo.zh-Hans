@@ -15,15 +15,15 @@ ht-degree: 0%
 
 如果您计划了某个批次营销活动的运行，并且希望取消该操作，请按照以下步骤操作。
 
-1. 选择营销策划，然后转到 **[!UICONTROL 计划]** 选项卡。
+1. 选择营销活动，然后转到&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. 找到要取消的计划运行，然后单击 **x** 旁边的。
+1. 找到要取消的计划运行，然后单击其旁边的&#x200B;**x**。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. 单击以确认取消 **[!UICONTROL 确定]**.
+1. 单击&#x200B;**[!UICONTROL 确定]**&#x200B;确认取消。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

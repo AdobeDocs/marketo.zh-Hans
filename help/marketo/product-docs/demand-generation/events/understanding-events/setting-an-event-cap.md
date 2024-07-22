@@ -31,22 +31,22 @@ ht-degree: 0%
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. 在“概述”中，查找 [!UICONTROL 事件上限] 并单击 **[!UICONTROL 未设置]**.
+1. 在概述中，找到[!UICONTROL 事件上限]并单击&#x200B;**[!UICONTROL 未设置]**。
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. 输入您希望能够注册参加活动的最大人数，然后单击 **[!UICONTROL 下一个]**.
+1. 输入您希望能够注册参加活动的最大人数，然后单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. 单击 [!UICONTROL 注册页面] 下拉列表并选择将用作注册页面的登陆页面。
+1. 单击[!UICONTROL 注册页面]下拉列表并选择将用作注册页面的登陆页面。
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. 单击 **[!UICONTROL 注册整页]** 下拉列表并选择将用作注册完整页面的登陆页面。 单击 **[!UICONTROL 设置并启用]** 完成时。
+1. 单击&#x200B;**[!UICONTROL 注册完整页面]**&#x200B;下拉列表并选择将作为注册完整页面的登陆页面。 完成后单击&#x200B;**[!UICONTROL 设置并启用]**。
 
    ![](assets/setting-an-event-cap-5.png)
 
-   一切就绪。 如果决定要编辑事件上限详细信息，请单击旁边的蓝色文本 [!UICONTROL 事件上限].
+   一切就绪。 如果您决定要编辑事件上限详细信息，请单击[!UICONTROL 事件上限]旁边的蓝色文本。
 
    ![](assets/setting-an-event-cap-6.png)

@@ -6,7 +6,7 @@ exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 此版本包括备受期待的集成式社交功能和商机管理实用组件！ 注意：社交功能作为加载项或选定捆绑的一部分提供。
 
-## 通过社交共享发布YouTube视频 {#publish-a-youtube-video-with-social-sharing}
+## 带有社交共享的Publish a YouTube视频 {#publish-a-youtube-video-with-social-sharing}
 
 通过在您的登陆页面上使用新的视频共享，鼓励您的访客在社交上共享视频，从而扩大视频的受众。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## 将登陆页面发布到Facebook {#publish-landing-pages-to-facebook}
+## Publish登录页面到Facebook {#publish-landing-pages-to-facebook}
 
 通过将登陆页面直接发布到Facebook来扩展这些登陆页面的访问范围，并使用社交应用程序、表单和Marketo登陆页面的完整功能。
 

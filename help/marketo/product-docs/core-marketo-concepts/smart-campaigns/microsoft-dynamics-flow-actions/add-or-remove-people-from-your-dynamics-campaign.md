@@ -29,9 +29,9 @@ ht-degree: 0%
 >如果在营销活动列表中看不到Dynamics营销活动：
 >
 >* 确保Campaign同步正常运行
->* 该营销活动在中处于非活动状态 [!DNL Microsoft Dynamics]
+>* 该营销活动在[!DNL Microsoft Dynamics]中处于非活动状态
 
-系统会自动创建特定于营销活动的静态营销列表，每个列表用于潜在客户和联系人，以将人员添加到。 这是一次性操作，后续同步到营销活动时，将会使用相同的营销列表。 静态营销列表名称采用的命名标准为 `Mkto-leads-<uniqueID>` 潜在客户和 `Mkto-contacts-<uniqueID>` 用于联系人。
+系统会自动创建特定于营销活动的静态营销列表，每个列表用于潜在客户和联系人，以将人员添加到。 这是一次性操作，后续同步到营销活动时，将会使用相同的营销列表。 为潜在客户采用的静态营销列表名称命名标准为`Mkto-leads-<uniqueID>`，为联系人使用的命名标准为`Mkto-contacts-<uniqueID>`。
 
 将这些Marketo生成的营销列表与其他活动关联可能会导致混淆行为。 例如：添加到一个营销活动也会导致添加到第二个营销活动。 同样，也不建议在Dynamics中将Marketo生成的营销列表与Campaign分离。
 
@@ -52,4 +52,4 @@ ht-degree: 0%
 >如果在营销活动列表中未看到Dynamics营销活动：
 >
 >* 确保Campaign同步正常运行
->* 该营销活动在中处于非活动状态 [!DNL Microsoft Dynamics]
+>* 该营销活动在[!DNL Microsoft Dynamics]中处于非活动状态

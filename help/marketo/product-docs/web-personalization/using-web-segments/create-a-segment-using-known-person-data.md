@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[管理人员数据](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. 转到 **区段**.
+1. 转到&#x200B;**区段**。
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. 单击 **新建**.
+1. 单击&#x200B;**新建**。
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. 在个人资料分段中，拖动 **数据库** 到画布上。
+1. 在配置文件分段中，将&#x200B;**数据库**&#x200B;拖到画布上。
 
    ![](assets/four-1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 选择多个人员数据字段 {#selecting-multiple-person-data-fields}
 
-1. 单击 **+** 以添加另一个人员数据字段。
+1. 单击&#x200B;**+**&#x200B;以添加另一个人员数据字段。
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 单击 **保存** 保存区段或 **保存并定义营销活动** 以保存并转到“营销活动”页面。
+1. 单击&#x200B;**保存**&#x200B;以保存区段，或单击&#x200B;**保存并定义营销活动**&#x200B;以保存并转到“营销活动”页面。
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

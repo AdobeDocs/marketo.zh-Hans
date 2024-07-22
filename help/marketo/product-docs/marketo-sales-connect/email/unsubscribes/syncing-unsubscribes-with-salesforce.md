@@ -6,7 +6,7 @@ exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ ht-degree: 0%
 
 用户可以决定是希望与Marketo也可以同步的标准电子邮件选择退出字段同步其取消订阅，还是可以与Marketo销售人员选择退出字段同步，以便区分销售人员取消订阅和营销人员取消订阅。
 
-1. 转到 [Web应用程序](https://toutapp.com/login)，单击齿轮图标并选择 **设置**.
+1. 转到[Web应用程序](https://toutapp.com/login)，单击齿轮图标并选择&#x200B;**设置**。
 
    ![](assets/one-1.png)
 
-1. 在管理设置下，选择 **取消订阅**.
+1. 在管理设置下，选择&#x200B;**取消订阅**。
 
    ![](assets/two-2.png)
 
-1. 单击 **正在同步到Salesforce**，然后启用“夜间同步”。
+1. 单击&#x200B;**同步到Salesforce**，然后启用夜间同步。
 
    ![](assets/three-2.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
    | 字段 | 描述 |
    |---|---|
    | **同步到Salesforce选择退出字段** | 默认情况下处于选中状态，只会更新Salesforce选择退出字段。 |
-   | **同步到“Marketo销售人员选择退出”字段** | 如果要将销售和营销取消订阅分开，请选择此选项以更新其他 [Marketo Sales Opt Out字段。](#msoo) |
+   | **同步到Marketo Sales Opt Out字段** | 如果要将销售和营销取消订阅分开，请选择此选项以更新其他[Marketo销售选择退出字段。](#msoo) |
 
 ## 在页面布局中安装选择退出字段 {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -58,11 +58,11 @@ ht-degree: 0%
 
 电子邮件选择退出是Salesforce中的一个标准字段，可从Salesforce安装。 您必须是Salesforce管理员才能安装此软件。
 
-1. 转到 [Salesforce.com](https://salesforce.com) 并登录。
+1. 转到[Salesforce.com](https://salesforce.com)并登录。
 
    ![](assets/five-1.png)
 
-1. 单击您的用户名并选择 **设置**.
+1. 单击您的用户名并选择&#x200B;**设置**。
 
    ![](assets/six-1.png)
 
@@ -70,15 +70,15 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-1. 选择 **页面布局**.
+1. 选择&#x200B;**页面布局**。
 
    ![](assets/eight-1.png)
 
-1. 选择 **编辑** 在页面布局旁边，您需要添加字段。
+1. 选择您要添加该字段的页面布局旁边的&#x200B;**编辑**。
 
    ![](assets/nine.png)
 
-1. 选择 **字段**.
+1. 选择&#x200B;**字段**。
 
    ![](assets/ten.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
    ![](assets/11.png)
 
-1. 单击 **保存**.
+1. 单击&#x200B;**保存**。
 
    ![](assets/twelve.png)
 

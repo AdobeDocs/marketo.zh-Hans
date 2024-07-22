@@ -27,14 +27,14 @@ ht-degree: 0%
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-单击 **[!UICONTROL 计划]** 选项卡将确认Smart Campaign设置为“批处理”。
+单击&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡将确认Smart Campaign设置为“批处理”。
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **批量智能营销活动**
 
 * 可以安排为重复事件，例如每天、每周和每月。 也可以让它们只运行一次。
-* 在 [项目计划视图](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Smart Campaign中“等待”步骤之后的任何内容都不会包含在视图中。
+* 在[项目计划视图](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}中可见。 Smart Campaign中“等待”步骤之后的任何内容都不会包含在视图中。
 
 <br> 
 
@@ -50,15 +50,15 @@ ht-degree: 0%
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-单击 **[!UICONTROL 计划]** 选项卡将确认Smart Campaign设置为“已触发”。
+单击&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡将确认Smart Campaign设置为“已触发”。
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
-**触发活动**
+**触发营销活动**
 
 * 无法安排重复发生。 它们只能设置为活动或非活动。
 * 您可以设置多个触发器。 但是，如果触发了任何触发器，则将运行营销活动操作。
 
 >[!TIP]
 >
->使用 [活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} 用于查看Smart Campaigns中逐步发生的情况。 您可以在人员详细信息页面的最后一个选项卡中找到活动日志。
+>使用[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}查看Smart Campaigns中逐步发生的情况。 您可以在人员详细信息页面的最后一个选项卡中找到活动日志。

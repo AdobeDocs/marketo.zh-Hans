@@ -17,21 +17,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[将图像添加到自由表单登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[将图像添加到自由格式登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. 单击要向其添加链接的图像。
 
    ![](assets/click-on-image.png)
 
-1. 展开 **属性表**.
+1. 展开&#x200B;**属性表**。
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. 将链接复制或键入到 **linkUrl** 盒子。
+1. 将链接复制或键入到&#x200B;**linkUrl**&#x200B;框中。
 
    ![](assets/add-link.png)
 
-   恭喜！您现在已成功添加指向登陆页面上图像的链接。 您现在可以 [预览页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) 以实际行动。
+   恭喜！您现在已成功添加指向登陆页面上图像的链接。 您现在可以[预览页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)以查看其实际操作情况。
 
 >[!TIP]
 >

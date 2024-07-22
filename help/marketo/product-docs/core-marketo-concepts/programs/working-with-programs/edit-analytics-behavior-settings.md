@@ -13,9 +13,9 @@ ht-degree: 1%
 
 # 编辑Analytics行为设置 {#edit-analytics-behavior-settings}
 
-您可以设置 [对渠道的管理员级别的Analytics行为](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}，但您也可以在项目级别对其进行编辑。 具体方法如下。
+您可以在渠道](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}上的管理员级别设置[分析行为，但也可以在项目级别对其进行编辑。 具体方法如下。
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 在 **[!UICONTROL 设置]** 选项卡，拖动 [!UICONTROL Analytics行为] 到画布上。
+1. 在&#x200B;**[!UICONTROL 设置]**&#x200B;选项卡中，将[!UICONTROL Analytics行为]拖动到画布上。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,9 +35,9 @@ ht-degree: 1%
 >
 >**定义**
 >
->**[!UICONTROL 包含]**  — 此选项将确保程序可用于在收入资源管理器和分析器中报告，无论您是否包括期间成本。
+>**[!UICONTROL 包含]** — 此选项将确保程序可用于在收入资源管理器和分析器中报告，无论您是否包含期间成本。
 >
->**[!UICONTROL 可操作]**  — 此选项导致该程序不会显示在收入资源管理器或分析器中。
+>**[!UICONTROL 可操作的]** — 此选项导致程序未显示在收入资源管理器或分析器中。
 
 >[!NOTE]
 >

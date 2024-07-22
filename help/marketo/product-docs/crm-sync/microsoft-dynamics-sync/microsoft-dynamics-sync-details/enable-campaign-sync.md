@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在“我的Marketo”中，单击 **[!UICONTROL 管理员]**.
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL 管理员]**。
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. 单击 **[!UICONTROL Microsoft Dynamics]**.
+1. 单击&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. 在同步选项下，单击 **[!UICONTROL 编辑]**.
+1. 在“同步选项”下，单击&#x200B;**[!UICONTROL 编辑]**。
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. 选择 **[!UICONTROL 启用Microsoft Dynamics Campaign同步]** 复选框，然后单击 **[!UICONTROL 保存]**.
+1. 选中&#x200B;**[!UICONTROL 启用Microsoft Dynamics促销活动同步]**&#x200B;复选框，然后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/enable-campaign-sync-4.png)
 

@@ -6,7 +6,7 @@ exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 查找需要更新的人员 {#find-the-person-you-need-to-update}
 
-1. 转到您的 **[!UICONTROL 数据库]**.
+1. 转到&#x200B;**[!UICONTROL 数据库]**。
 
    ![](assets/update-person-data-1.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在Marketo中，可通过多种方式更新人员数据。 请参阅 [导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+   >在Marketo中，可通过多种方式更新人员数据。 请参阅[导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}和[更改数据值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}。
 
 ## 更新人员数据 {#update-the-person-data}
 

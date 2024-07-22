@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->由于规则不会更改，因此如果营销策划的智能列表或流程步骤引用原始项目，则必须手动更新该信息以反映其新项目，如下所示 _非_ 自动更新。
+>由于规则不会更改，因此如果营销活动的智能列表或流程步骤引用原始项目，则必须手动更新该信息以反映其新项目，因为它将&#x200B;_不会_&#x200B;自动更新。
 
-1. 转到 **[!UICONTROL 营销活动]**.
+1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. 找到要移动的Smart Campaign，右键单击并选择 **[!UICONTROL 移动]**.
+1. 找到要移动的Smart Campaign，右键单击它并选择&#x200B;**[!UICONTROL 移动]**。
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. 选择 **[!UICONTROL 至]** （目标）， **[!UICONTROL 项目]**、和可选 **[!UICONTROL 文件夹]**. 选择 **[!UICONTROL 移动]**.
+1. 选择&#x200B;**[!UICONTROL To]** （目标）、**[!UICONTROL 计划]**&#x200B;和可选的&#x200B;**[!UICONTROL 文件夹]**。 选择&#x200B;**[!UICONTROL 移动]**。
 
    ![](assets/move-a-smart-campaign-3.png)
 

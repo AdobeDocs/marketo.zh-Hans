@@ -25,21 +25,21 @@ ht-degree: 0%
 
 为Web营销活动指定在您的网站上做出反应的时间延迟（以总秒为单位）。
 
-1. 单击 **显示于** 下拉并选择 **延迟**.
+1. 单击&#x200B;**显示日期**&#x200B;下拉菜单并选择&#x200B;**延迟**。
 
    ![](assets/d1.png)
 
-1. 单击 **等待** 下拉列表并选择所需的时间。
+1. 单击&#x200B;**等待**&#x200B;下拉列表并选择所需的时间。
 
    ![](assets/d2.png)
 
 ## 滚动 {#scroll}
 
-1. 单击 **显示于** 下拉并选择 **滚动**.
+1. 单击&#x200B;**显示日期**&#x200B;下拉菜单并选择&#x200B;**滚动**。
 
    ![](assets/s1.png)
 
-1. 单击 **时间** 下拉列表，然后选择您希望何时显示Web营销活动。
+1. 单击&#x200B;**时间**&#x200B;下拉列表，然后选择您希望显示网络营销活动的时间。
 
    ![](assets/s2.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 退出意图将在鼠标光标退出浏览器时显示Web营销活动。
 
-1. 单击 **显示于** 下拉并选择 **退出意图**.
+1. 单击&#x200B;**显示于**&#x200B;下拉列表，然后选择&#x200B;**退出意图**。
 
    ![](assets/ei1.png)
 
@@ -74,4 +74,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->想看看你选择的效果将来会怎样？ 通过 [Web营销活动预览](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>想看看你选择的效果将来会怎样？ 通过[Web促销活动预览](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)查看它们。

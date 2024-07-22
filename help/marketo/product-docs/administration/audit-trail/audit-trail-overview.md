@@ -6,7 +6,7 @@ exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 我们审核的内容 {#what-we-audit}
 
-Marketo将审核 [创建、编辑和删除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) 针对以下对象的操作：
+Marketo将审核以下对象的[创建、编辑和删除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)操作：
 
 * Design Studio资产
 * 所有Marketo项目
@@ -41,12 +41,12 @@ Marketo将审核 [创建、编辑和删除](/help/marketo/product-docs/administr
 * 列表（智能/静态）
 * 用户（管理员）
 * 角色和权限（管理员）
-* 工作区和分区（管理员）
+* Workspace和分区（管理员）
 * 用户登录历史记录
 
 >[!NOTE]
 >
->Marketo是 _非_ 审核目前在Web Personalization、Predictive Content或Sales Insight中所做的更改。
+>目前，Marketo正在&#x200B;_而不是_&#x200B;审核在Web Personalization、Predictive Content或Sales Insight中所做的更改。
 
 ## 审核记录组件 {#audit-trail-components}
 
@@ -66,7 +66,7 @@ Marketo将审核 [创建、编辑和删除](/help/marketo/product-docs/administr
 
 >[!TIP]
 >
->您可以使用“审核记录”审核的次数太多，请务必利用 [正在筛选](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)！
+>您可以使用审核记录审核的内容太多，请务必利用[筛选](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)！
 
 ## 导出数据 {#exporting-data}
 
@@ -76,9 +76,9 @@ Marketo将审核 [创建、编辑和删除](/help/marketo/product-docs/administr
 
 >[!NOTE]
 >
->**条件**
+>**定义**
 >
->**未知：** 在 [!DNL Webhook]，您可能会看到用户名称和电子邮件列为“未知”。 当您在CRM中更改选择列表值时，会发生这种情况。 这些值显示在Marketo表单和登陆页中。 在CRM端执行此更新将自动草稿引用表单的登陆页面。 在 [!DNL Webhook]，我们将捕获登陆页面已草稿，但用户的名称和电子邮件将显示为“未知”，因为我们无法从CRM端捕获用户信息。
+>**未知：**&#x200B;在[!DNL Webhook]中，您可能会看到用户名称和电子邮件被列为“未知”。 当您在CRM中更改选择列表值时，会发生这种情况。 这些值显示在Marketo表单和登陆页中。 在CRM端执行此更新将自动草稿引用表单的登陆页面。 在[!DNL Webhook]中，我们将捕获登陆页面已草稿，但用户的名称和电子邮件将显示为“未知”，因为无法从CRM端捕获用户信息。
 
 >[!MORELIKETHIS]
 >

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用潜在客户馈送 {#using-the-lead-feed}
 
-潜在客户信息源是潜在客户开展的重要活动的最新列表。 单击Marketo选项卡时，您会在右侧找到该页面。 它类似于RSS或Twitter信息源 — 最新更新位于列表顶部。 当你还在他们脑海里时，用这个跳到潜在客户身上。
+潜在客户信息源是潜在客户开展的重要活动的最新列表。 单击Marketo选项卡时，您会在右侧找到该页面。 它类似于RSS或Twitter信息源 — 最新的更新位于列表顶部。 当你还在他们脑海里时，用这个跳到潜在客户身上。
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您公司的Marketo管理员必须 [启用RSS源](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) 才能使它正常工作。
+>您公司的Marketo管理员必须[启用RSS源](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)才能使此功能正常工作。
 
 要获取RSS更新，您需要以下两项： RSS链接和RSS馈送读取器。 您可以通过单击潜在客户信息源中的RSS图标来获取RSS链接：
 

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 要从收入周期资源管理器报表接收更新并共享这些更新，您可以订阅现有报表的任意电子邮件地址。
 
-1. 转到 **分析** 并选择 **新建** > **新建报表订阅**.
+1. 转到&#x200B;**Analytics**&#x200B;并选择&#x200B;**新建** > **新报表订阅**。
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >要订阅您在项目群中创建的基本报表，请参阅 [订阅基本报表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
+   >要订阅您在项目中创建的基本报表，请参阅[订阅基本报表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)。
 
-1. 对于报表源，选择 **收入浏览器**.
+1. 对于报表Source，选择&#x200B;**收入资源管理器**。
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->了解如何 [管理您的所有报告订阅](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 在一个地方。
+>了解如何在一个位置[管理您的所有报表订阅](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。

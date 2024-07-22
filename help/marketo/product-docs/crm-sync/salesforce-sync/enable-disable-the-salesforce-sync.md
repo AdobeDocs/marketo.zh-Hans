@@ -15,11 +15,11 @@ ht-degree: 0%
 
 对同步或字段设置进行重大更改时，应在配置时禁用同步。 方法如下：
 
-1. 转到 **[!UICONTROL 管理员]** 部分。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;部分。
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. 下 **[!UICONTROL Salesforce]**，单击 **[!UICONTROL 禁用同步]**.
+1. 在&#x200B;**[!UICONTROL Salesforce]**&#x200B;下，单击&#x200B;**[!UICONTROL 禁用同步]**。
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 

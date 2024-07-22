@@ -7,7 +7,7 @@ exl-id: 6fb6c48a-054b-45e3-ae52-e857485044f4
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![](assets/import-contacts-via-csv-1.png)
 
-1. 单击 **组操作** 并选择 **导入CSV**.
+1. 单击&#x200B;**组操作**&#x200B;并选择&#x200B;**导入CSV**。
 
    ![](assets/import-contacts-via-csv-2.png)
 
-1. 单击 **浏览**.
+1. 单击&#x200B;**浏览**。
 
    ![](assets/import-contacts-via-csv-3.png)
 
@@ -34,10 +34,10 @@ ht-degree: 0%
    >
    >组限制为1000个联系人。
 
-1. 单击 **下一个**.
+1. 单击&#x200B;**下一步**。
 
    ![](assets/import-contacts-via-csv-4.png)
 
-1. 将CSV中的列映射到Sales Connect中各自的字段。 单击 **下一个** 完成时。
+1. 将CSV中的列映射到Sales Connect中各自的字段。 完成后单击&#x200B;**下一步**。
 
    ![](assets/import-contacts-via-csv-5.png)

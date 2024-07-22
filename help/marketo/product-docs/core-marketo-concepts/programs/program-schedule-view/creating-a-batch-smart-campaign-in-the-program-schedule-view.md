@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在项目计划视图中创建批智能营销活动 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-您可以创建新的智能营销活动和 [重新运行现有受众](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} 从项目计划视图进入您的项目。
+您可以从项目计划视图创建新的Smart Campaigns并在项目内[重新运行现有项目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"}。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. 为您的条目选择一个名称，该名称将成为您的新Smart Campaign。 按 **[!UICONTROL 输入/返回]** 键以确认名称。
+1. 为您的条目选择一个名称，该名称将成为您的新Smart Campaign。 按&#x200B;**[!UICONTROL Enter/Return]**&#x200B;键确认名称。
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. 单击 **[!UICONTROL 类型]** 下拉并选择 **[!UICONTROL Smart Campaign]**.
+1. 单击&#x200B;**[!UICONTROL 类型]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL 智能营销活动]**。
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 选择您的 [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} 规则。
+1. 选择您的[Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}规则。
 
    ![](assets/changeprogramstatus-hands.png)
 

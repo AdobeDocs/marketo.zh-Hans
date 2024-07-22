@@ -20,11 +20,11 @@ ht-degree: 0%
 >* [在登陆页面中使用动态内容](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [预览登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
-1. 选择登陆页面并单击 **预览页面**.
+1. 选择一个登陆页面，然后单击&#x200B;**预览页面**。
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. 单击下拉菜单并选择 **区段** 以预览。
+1. 单击下拉菜单并选择&#x200B;**区段**&#x200B;进行预览。
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 

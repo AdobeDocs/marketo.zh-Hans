@@ -16,7 +16,7 @@ ht-degree: 2%
 
 ## 权限 {#permissions}
 
-要使用创作AI，请确保向所需用户授予适当的 [权限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+若要使用创作AI，请确保向所需用户授予适当的[权限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)。
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -40,25 +40,25 @@ ht-degree: 2%
 
 ## 问题生成 {#question-generation}
 
-[提升入站体验](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) 使用经过销售、营销和产品知识培训的界面，为访客进行AI辅助对话。
+使用经过销售、营销和产品知识培训的界面，通过人工智能辅助对话提升访客的入站体验](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)。[
 
 ![](assets/generative-ai-overview-5.png)
 
 ## 回复库 {#response-library}
 
-[生成自定义收藏集](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) 问题和答案均由您预先批准，用于创作AI聊天营销活动中。
+[生成自定义的问题和答案集合](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)，全部由您预先批准，用于创作AI聊天营销活动中。
 
 ![](assets/generative-ai-overview-6.png)
 
 ## 活动日志 {#activity-log}
 
-[查看所有任务的列表](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) 以及随附的详细信息，包括姓名、所有者、类型、编辑人员和编辑时间。
+[查看所有任务的列表](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)及其随附的详细信息，包括名称、所有者、类型以及编辑这些任务的人和时间。
 
 ![](assets/generative-ai-overview-7.png)
 
 ## 未解答的问题 {#unanswered-questions}
 
-[创建其他预批准的响应](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 用于您的响应库，该库基于以前对话中未回答的问题存储库。
+[使用基于先前对话未回答问题库的人工智能，为您的响应库创建其他预批准的响应](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)。
 
 ![](assets/generative-ai-overview-8.png)
 
@@ -70,7 +70,7 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->使用创作AI时，您必须遵守 [Adobe Experience Cloud Generative AI用户准则](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) 因此，我们可以确保以安全和负责任的方式使用包含创作AI的Adobe Experience Cloud功能。
+>使用创作AI时，您必须遵守[Adobe Experience Cloud创作AI用户准则](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，以便我们能够确保以安全负责的方式使用包含创作AI的Adobe Experience Cloud功能。
 
 ## 常见问题 {#faq}
 
@@ -82,6 +82,6 @@ ht-degree: 2%
 
 是的。 此时的生命周期限制为1000。
 
-**创作AI中有哪些语言？**
+**生成AI中有哪些语言？**
 
 目前，创成式人工智能仅支持英语。

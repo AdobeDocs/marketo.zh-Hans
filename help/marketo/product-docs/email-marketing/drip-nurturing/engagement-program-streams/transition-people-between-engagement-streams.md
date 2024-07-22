@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 在参与流之间过渡人员 {#transition-people-between-engagement-streams}
 
-参与计划可以有多个流。 如果您 [添加流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您将需要定义一种方式，让用户能够从一个流移动到另一个流。 这些称为 **过渡规则。**
+参与计划可以有多个流。 如果您[添加流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您将需要定义用户从一个流移动到另一个流的方法。 这些规则称为&#x200B;**过渡规则。**
 
-1. 转到 **营销活动**.
+1. 转到&#x200B;**营销活动**。
 
    ![](assets/ma.png)
 
-1. 选择您的多流参与计划，然后转到 **流**.
+1. 选择您的多流参与项目并转到&#x200B;**流**。
 
    ![](assets/multistream.jpg)
 
-1. 单击 **过渡规则** 对于要从其他流拉入的流，请单击 **编辑过渡规则**.
+1. 对于要从其他流拉入的流，单击&#x200B;**过渡规则**，然后单击&#x200B;**编辑过渡规则**。
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. 让我们将运算符设置为 **为任意** 这样人们就可以移居别处，寻找更多机会。
+1. 让我们将运算符设置为&#x200B;**为任意**，这样用户就可以移过该运算符来获取任何添加的机会。
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
@@ -53,4 +53,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >上述步骤 *do* 适用于以下人员 [暂停时](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) 也一样。
+   >上述&#x200B;*do*&#x200B;步骤也适用于[暂停时](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)的人员。

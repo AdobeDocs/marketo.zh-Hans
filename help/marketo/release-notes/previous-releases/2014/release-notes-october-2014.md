@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 营销日历中的项目聚焦 {#program-focus-in-marketing-calendar}
 
-[创建和编辑条目](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) 直接来自营销日历。
+[直接从营销日历创建和编辑条目](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)。
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -30,21 +30,21 @@ ht-degree: 0%
 * 获取活动类型
 * 获取分页令牌
 
-发布后，即可在以下位置获得完整的详细信息： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)上获得完整的详细信息。
 
 ## MSI — 发送适用于Microsoft Dynamics的Marketo电子邮件 {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[发送和跟踪销售电子邮件](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) 到Microsoft Dynamics的潜在客户和联系人。
+从Microsoft Dynamics [向潜在客户和联系人](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)发送和跟踪销售电子邮件。
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI — 添加到Microsoft Dynamics的Marketo营销活动 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[将潜在客户和联系人添加到Marketo智能营销活动](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 直接从Microsoft Dynamics中访问。 营销人员可以选择向销售人员提供Marketo促销活动。
+[直接从Microsoft Dynamics中将潜在客户和联系人添加到Marketo智能营销活动](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)。 营销人员可以选择向销售人员提供Marketo促销活动。
 
 ## Microsoft Dynamics Sync的自定义实体支持 {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[使用自定义对象数据](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) 从Microsoft Dynamics中过滤和触发智能列表、智能营销活动、项目……
+[使用Microsoft Dynamics中的自定义对象数据](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)在智能列表、智能营销活动、程序中过滤和触发……
 
 ## Microsoft Dynamics同步的股东支持 {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## RTP — 新的营销活动移动模板 {#rtp-new-mobile-templates-for-campaigns}
 
-快速轻松 [创建移动营销活动](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 这些新的模板。
+使用这些新模板快速轻松[创建移动营销活动](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)。
 
 ## RTP — 用户上下文API {#rtp-user-context-api}
 
@@ -70,4 +70,4 @@ ht-degree: 0%
 * 感兴趣的产品
 * 他们所看到的RTP营销活动
 
-访问 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 以了解全部详细信息。
+有关完整的详细信息，请访问[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。

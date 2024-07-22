@@ -18,6 +18,6 @@ ht-degree: 0%
 * 发送Marketo电子邮件
 * 添加到Marketo Campaign
 
-您还可以从“最佳匹配”选项卡中选择多个潜在客户，然后选择 _发送Marketo电子邮件_ 或 _添加到Marketo Campaign_.
+您还可以从“最佳匹配”选项卡中选择多个潜在客户，然后选择&#x200B;_发送Marketo电子邮件_&#x200B;或&#x200B;_添加到Marketo营销活动_。
 
 ![](assets/best-bets-1.png)

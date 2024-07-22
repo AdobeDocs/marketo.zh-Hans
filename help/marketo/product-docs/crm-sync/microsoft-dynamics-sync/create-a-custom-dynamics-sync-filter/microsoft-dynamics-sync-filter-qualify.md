@@ -21,10 +21,10 @@ ht-degree: 6%
 
 | 如果潜在客户同步过滤器为： | 联系人同步筛选器为： | 这是Marketo中的结果 |
 |---|---|---|
-| False | False | Marketo中未同步任何内容 |
-| True | True | 该联系人已在Marketo中同步 |
-| False | True | 在Marketo中创建新联系人记录 |
-| True | False | MS Dynamics在Marketo中更新潜在客户信息，但联系人记录未同步 |
+| 假 | 假 | Marketo中未同步任何内容 |
+| 真 | 真 | 该联系人已在Marketo中同步 |
+| 假 | 真 | 在Marketo中创建新联系人记录 |
+| 真 | 假 | MS Dynamics在Marketo中更新潜在客户信息，但联系人记录未同步 |
 
 >[!CAUTION]
 >

@@ -36,7 +36,7 @@ ht-degree: 0%
 
    * 例如，人员搜索、查看和单击广告，然后在线填写表单。 之后，他将收到离线演示并成为CRM机会。 广告商就是在这里攻击他的
 
-* 重新定位网站访客，使用 [Web个性化](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}，以将其驱回您的网站
+* 使用[Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}重新定位网站访客，以驱使他们返回您的网站
 
    * 按区段或纵向进行个性化
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 * [将Google AdWords添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
 * [在Facebook中将潜在客户添加到自定义受众](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
 * [在Facebook中创建自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
-* [设置Facebook离线转化](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
+* [设置Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
 * [使用Marketo列表或智能列表作为LinkedIn受众区段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   | 受众数据 | 商机引入 | 脱机转换 |

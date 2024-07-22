@@ -37,11 +37,11 @@ ht-degree: 0%
 
 ## 我的个人帐户信息在Marketo Sales Insight中的什么位置显示？ {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-与人员帐户相关的活动显示在 **[!UICONTROL 帐户]** 面板。
+与人员帐户相关的活动显示在&#x200B;**[!UICONTROL 帐户]**&#x200B;面板中。
 
 >[!NOTE]
 >
->Marketo销售分析 **[!UICONTROL 添加到Marketo Campaign]** 和 **[!UICONTROL 发送电子邮件]** 选项当前不适用于人员帐户。
+>Marketo Sales Insight的&#x200B;**[!UICONTROL 添加到Marketo Campaign]**&#x200B;和&#x200B;**[!UICONTROL 发送电子邮件]**&#x200B;选项当前不适用于个人帐户。
 
 ## 如何将机会与人员帐户关联？ {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -49,4 +49,4 @@ Marketo取决于机会联系人角色来确定要将机会与哪个人员关联�
 
 ## 个人帐户应使用哪个电子邮件字段？ {#which-email-field-should-i-use-for-person-accounts}
 
-人员帐户有两个电子邮件字段。 使用 **电子邮件地址** 字段(而非 **人员电子邮件地址**)，以确保Marketo的重复数据消除和其他电子邮件处理正常工作。
+人员帐户有两个电子邮件字段。 请使用表单中的&#x200B;**电子邮件地址**&#x200B;字段（不是&#x200B;**人员电子邮件地址**）来确保Marketo的重复数据消除和其他电子邮件处理正常工作。

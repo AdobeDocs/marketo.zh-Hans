@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 删除品牌策略域 {#delete-a-branding-domain}
 
-1. 转到 **[!UICONTROL 管理员]** 区域。
+1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. 单击 **[!UICONTROL 电子邮件]**.
+1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
 
    ![](assets/delete-a-branding-domain-2.png)
 
-1. 在“品牌策略域”表格中，选择要删除的域，然后单击 **[!UICONTROL 删除]**.
+1. 在“品牌策略域”表中，选择要删除的域，然后单击&#x200B;**[!UICONTROL 删除]**。
 
    ![](assets/delete-a-branding-domain-3.png)
 
