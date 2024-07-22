@@ -69,7 +69,7 @@ ht-degree: 0%
 
 如果无法强制执行[营销活动限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)，为什么要设置这些限制？ 当您将营销活动限制设置设置为限制数据库中可通过单个营销活动进行定位的人员数量时，您现在能够限制哪些用户在计划营销活动时可以覆盖这些设置。
 
-## 移动推送通知的[声音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## [移动推送通知的声音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
 通过启用声音功能，为您的iOS推送通知增添丰富内容。 这项新功能允许您在移动设备上显示推送通知时触发声音。
 
