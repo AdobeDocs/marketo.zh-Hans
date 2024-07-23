@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo沙盒 — Marketo文档 — 产品文档
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ Marketo Engage沙盒是在生产环境中实施之前用于测试目的的附加
 
 ## 关于沙盒的注意事项 {#things-to-know-about-sandboxes}
 
-* 一旦Adobe帐户团队设置好沙盒并向您发送邀请，您必须使用其他电子邮件地址登录Marketo生产实例。
 * 如果要添加用户，该过程与[在生产环境中添加用户](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users)的过程相同。 同样，如果他们已具有Marketo登录信息，则必须使用其他电子邮件地址。
 * 您的Marketo沙盒最初将是空的，但具有与生产实例相同的可用功能。
 * 如果您在沙盒中创建程序并希望将其移至生产环境，则可以执行[程序导入](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)。
