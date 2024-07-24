@@ -1,6 +1,6 @@
 ---
-description: Marketo Engage术语表 — Marketo文档 — 产品文档
-short-description: 了解Marketo Engage术语及其定义，以帮助您快速入门。
+description: Marketo Engage 词汇表 - Marketo Docs - 产品文档
+short-description: 了解 Marketo Engage 术语及其定义，以帮助您快速掌握。
 title: Marketo Engage术语表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed

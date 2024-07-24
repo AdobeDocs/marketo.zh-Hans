@@ -1,13 +1,13 @@
 ---
-description: 在深入了解新的Marketo Engage实例之前，您需要完成一些基础步骤才能继续使用。 这些步骤包括用户帐户设置、支持管理员设置和订阅正在进行的系统更新。
-short-description: 完成初始设置步骤后，了解如何建立基本元素以确保顺利进行使用。
+description: 在深入了解新的 Marketo Engage 实例之前，您需要完成一些基础步骤以便持续使用。这些步骤包括用户帐户设置、支持管理员设置以及订阅持续的系统更新。
+short-description: 完成初始设置步骤后，了解如何建立基础元素以确保持续顺利使用。
 title: 用户设置核对清单
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '811'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

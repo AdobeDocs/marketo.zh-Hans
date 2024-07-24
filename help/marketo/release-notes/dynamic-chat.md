@@ -1,5 +1,5 @@
 ---
-description: Dynamic Chat发行说明 — Marketo文档 — 产品文档
+description: Dynamic Chat 发行说明 - Marketo Docs - 产品文档
 title: Dynamic Chat发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
