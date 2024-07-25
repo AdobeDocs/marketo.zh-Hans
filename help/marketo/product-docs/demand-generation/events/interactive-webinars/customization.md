@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,17 @@ ht-degree: 0%
 
 ## 自定义交互式网络研讨会屏幕 {#customize-interactive-webinar-screens}
 
-1. 单击&#x200B;**设计工作室**。
+1. 转到&#x200B;**设计工作室**。
+
+   ![](assets/interactive-webinars-customization-1.png)
 
 1. 单击&#x200B;**交互式网络研讨会**，然后选择&#x200B;**自定义网络研讨会**。
 
-1. 通过菜单栏自定义文件室界面、即时屏幕或虚拟视频背景。
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. 您可以自定义“房间”界面、“立即”屏幕或“虚拟视频背景”。
+
+   ![](assets/interactive-webinars-customization-3.png)
 
 ### 自定义文件室界面 {#customize-the-room-interface}
 
@@ -41,27 +47,25 @@ ht-degree: 0%
 
 1. 从右侧面板中，自定义以下首选项：
 
-屏幕快照
+   ![](assets/interactive-webinars-customization-4.png)
 
-**自定义徽标**：选择“上传徽标”并从设备浏览图像。 图像大小不得超过50 x 31像素，并且可以采用不同的文件格式： .svg、.gif、.jpg和.png。 您可以更改或删除您的徽标。
+   **自定义徽标**：选择“上传徽标”并从设备浏览图像。 图像大小不得超过50 x 31像素，并且可以采用不同的文件格式： .svg、.gif、.jpg和.png。 您可以更改或删除您的徽标。
 
-**重定向链接**：添加一个URL以在与会者单击徽标后对其进行重定向。
+   **重定向链接**：添加一个URL以在与会者单击徽标后对其进行重定向。
 
-**替换文本**：使用辅助功能为与会者添加替换文本。
+   **替换文本**：使用辅助功能为与会者添加替换文本。
 
-**颜色**：选择房间栏、房间图标、房间背景、Pod栏和Pod拼贴/图标的颜色以更改不同部分的颜色。
+   **颜色**：选择房间栏、房间图标、房间背景、Pod栏和Pod拼贴/图标的颜色以更改不同部分的颜色。
 
-您还可以使用“十六进制”选项输入十六进制颜色代码。
+   您还可以使用“十六进制”选项输入十六进制颜色代码。
 
-选择&#x200B;**[!UICONTROL 查看模板]**&#x200B;以更改聊天室的主题。
+   选择&#x200B;**[!UICONTROL 查看模板]**&#x200B;以更改聊天室的主题。
 
-进行更改后，您可以在“预览”中检查徽标和颜色。
+   进行更改后，您可以在“预览”中检查徽标和颜色。
 
-1. 选择&#x200B;**[!UICONTROL 应用]**&#x200B;以保存更改。
+1. 选择&#x200B;**[!UICONTROL 应用]**&#x200B;以保存更改。 要重置为默认设置，请单击“重置为默认设置”****。
 
->[!NOTE]
->
->要重置为默认设置，请单击“重置为默认设置”****。
+   ![](assets/interactive-webinars-customization-5.png)
 
 ### 自定义中间屏幕 {#customize-intermediate-screens}
 
@@ -71,19 +75,13 @@ ht-degree: 0%
 
 1. 从右侧面板中，通过选择&#x200B;**上传图像**&#x200B;自定义背景图像，并浏览徽标图像。 图像大小不得超过1920 x 1080像素，并且可以采用不同的文件格式： .svg、.gif、.jpg和.png。 您可以根据需要更改或删除徽标。
 
-进行更改后，在“预览”中查看背景。
+   ![](assets/interactive-webinars-customization-6.png)
 
-屏幕快照
+   >[!NOTE]
+   >
+   >上传的图像会应用于“登入”、“退出”和“等待”屏幕。
 
->[!NOTE]
->
->上传的图像会应用于“登入”、“退出”和“等待”屏幕。
-
-1. 选择&#x200B;**[!UICONTROL 应用]**&#x200B;以保存更改。
-
->[!NOTE]
->
->要重置为默认设置，请单击“重置为默认设置”****。
+1. 选择&#x200B;**[!UICONTROL 应用]**&#x200B;以保存更改。 要重置为默认设置，请单击“重置为默认设置”****。
 
 ### 自定义虚拟视频背景 {#Customize-virtual-video-backgrounds}
 
@@ -91,11 +89,11 @@ ht-degree: 0%
 
 **自定义背景**
 
-使用切换开关可在您的事件和聊天室中允许自定义背景。
+1. 单击切换开关可在事件和文件室中允许自定义背景。
+
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. 选择&#x200B;**上传背景**&#x200B;以上传自定义背景。 图像大小不得超过1920 x 1080像素，并且可以采用不同的文件格式： .svg、.gif、.jpg和.png。
-
-屏幕快照
 
 将鼠标悬停在自定义背景图像上以将其从视频背景中删除。
 
@@ -103,11 +101,7 @@ ht-degree: 0%
 
 您可以使用预览屏幕中的滑块放大或缩小虚拟背景，以测试用户是否靠近或远离摄像头。 如果背景中有任何文本，这将有助于确保文本保持可见。
 
-1. 选择&#x200B;**应用**&#x200B;以保存更改。
-
->[!NOTE]
->
->要重置为默认设置，请单击“重置为默认设置”****。
+1. 选择&#x200B;**[!UICONTROL 应用]**&#x200B;以保存更改。 要重置为默认设置，请单击“重置为默认设置”****。
 
 **Adobe Connect背景**
 
@@ -115,6 +109,6 @@ Adobe Connect提供了9个随时可用的默认背景。 可以在“预览”�
 
 使用切换开关控制事件和文件室中这些默认背景的可用性。
 
-屏幕快照
+![](assets/interactive-webinars-customization-8.png)
 
-选择&#x200B;**应用**&#x200B;以保存更改，或选择&#x200B;**重置为默认值**&#x200B;以重置默认设置。
+选择&#x200B;**应用**&#x200B;以保存更改，或选择&#x200B;**重置为默认值**&#x200B;以重置为默认设置。
