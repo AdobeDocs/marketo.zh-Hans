@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: '1742'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
-   屏幕快照
+   ![](assets/engagement-dashboard-1.png)
 
 1. 选择所需的事件。
 
-   屏幕快照
+   ![](assets/engagement-dashboard-2.png)
 
 1. 在概述中，单击&#x200B;**[!UICONTROL 查看参与仪表板]**。
 
-   屏幕快照
+   ![](assets/engagement-dashboard-3.png)
 
    >[!NOTE]
    >
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 此界面提供实时和按需会议活动性能的综合视图。 从左侧面板中，选择事件摘要以查看整体量度。
 
-屏幕快照
+![](assets/engagement-dashboard-4.png)
 
 <table><tbody>
   <tr>
@@ -107,13 +107,13 @@ ht-degree: 0%
 
 从左侧面板中，选择&#x200B;**[!UICONTROL 参与]**&#x200B;以查看实时会话的性能。 **[!UICONTROL 单击参与摘要(PDF)]**&#x200B;以下载实时会话的性能摘要。 概述以不同的部分提供数据。
 
-屏幕快照
+![](assets/engagement-dashboard-5.png)
 
 **关键量度**
 
 查看实时会话中的注册数、出席人数和参与度。
 
-屏幕快照
+![](assets/engagement-dashboard-6.png)
 
 <table><tbody>
   <tr>
@@ -144,7 +144,7 @@ ht-degree: 0%
 
 通过参与度图表了解实时会话期间一段时间的平均参与度。 主机可以监测参与度水平如何波动，从而识别高交互或低交互的关键时刻。 查看不同布局的参与参与参与者的平均参与度得分情况。
 
-屏幕快照
+![](assets/engagement-dashboard-7.png)
 
 通过将鼠标悬停在图形上，查看以下信息：
 
@@ -161,7 +161,7 @@ ht-degree: 0%
 
 您可以从不同的Pod查看与会者的交互。 它提供已回答的投票、提问、与聊天交互、单击至少一个链接以及下载至少一个文件等信息。
 
-屏幕快照
+![](assets/engagement-dashboard-8.png)
 
 选择&#x200B;**[!UICONTROL 转到交互]**&#x200B;以查看会话期间来自轮询、QnA量度和与会者反应的响应。 从交互中查看与会者在Pod中的参与情况，并从以下部分下载交互报表。
 
@@ -171,7 +171,7 @@ ht-degree: 0%
 
 从左侧面板中选择&#x200B;**[!UICONTROL 交互]**&#x200B;以查看与会者如何跨Pod参与。
 
-屏幕快照
+![](assets/engagement-dashboard-9.png)
 
 从菜单栏选择&#x200B;**[!UICONTROL 轮询]**&#x200B;选项卡以查看添加到轮询的问题和响应。 此选项卡显示以下信息：
 
@@ -182,7 +182,7 @@ ht-degree: 0%
 
 从菜单栏中选择&#x200B;**[!UICONTROL 其他交互]**&#x200B;选项卡以查看其他Pod中的参与并下载其报告。
 
-屏幕快照
+![](assets/engagement-dashboard-10.png)
 
 从下拉列表中选择&#x200B;**[!UICONTROL 下载交互报表]**&#x200B;以下载不同pod的报表。 从此处下载问题与解答报表、链接和文件报表以及反应报表，以便更好地跟踪。
 
@@ -192,7 +192,7 @@ ht-degree: 0%
 
 查看Q&amp;A面板的以下属性。
 
-屏幕快照
+![](assets/engagement-dashboard-11.png)
 
 * 提问的总数。
 * 未回答的问题数。
@@ -204,7 +204,7 @@ ht-degree: 0%
 
 在此观看与会者的反应，如同意、不同意、掌声和开怀大笑。
 
-屏幕快照
+![](assets/engagement-dashboard-12.png)
 
 从反应图形中，查看以下详细信息：
 
@@ -218,7 +218,7 @@ ht-degree: 0%
 
 查看会话期间添加到Web链接面板的链接以及共享链接的点击次数。 网络链接面板允许您从网络研讨会之外的来源添加链接以产生参与。
 
-屏幕快照
+![](assets/engagement-dashboard-13.png)
 
 从图形中，查看以下详细信息：
 
@@ -231,7 +231,7 @@ ht-degree: 0%
 
 查看会话期间添加到文件面板的文件以及唯一下载的次数。 文件pod允许您添加文件并提供资源以产生参与。
 
-屏幕快照
+![](assets/engagement-dashboard-14.png)
 
 从图形中，查看以下详细信息：
 
@@ -243,7 +243,7 @@ ht-degree: 0%
 
 从左侧面板中选择&#x200B;**[!UICONTROL 按需活动]**&#x200B;以查看录制摘要。 您还可以下载按需活动报表。
 
-屏幕快照
+![](assets/engagement-dashboard-15.png)
 
 在按需活动中，查看以下量度：
 
@@ -258,7 +258,7 @@ ht-degree: 0%
 
 从左侧面板中选择&#x200B;**[!UICONTROL 参与者活动]**&#x200B;以查看有关每个参与者的参与级别的合并信息。 查看如何从参与者参与级别将此参与分类。 单击&#x200B;**[!UICONTROL 用户活动报告(CSV)]**&#x200B;可下载报告以进行更好的跟踪。
 
-屏幕快照
+![](assets/engagement-dashboard-16.png)
 
 从表中查看以下详细信息：
 
@@ -277,7 +277,7 @@ ht-degree: 0%
 
 1. 选择&#x200B;**[!UICONTROL 全部下载(.zip)]**&#x200B;可一次性下载所有活动和pod的报表。
 
-屏幕快照
+   ![](assets/engagement-dashboard-17.png)
 
 >[!NOTE]
 >

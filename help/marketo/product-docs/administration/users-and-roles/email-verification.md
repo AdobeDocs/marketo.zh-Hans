@@ -3,9 +3,9 @@ description: 电子邮件验证 — Marketo文档 — 产品文档
 title: 电子邮件验证
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Marketo Engage正在继续推出电子邮件验证，以便为将客户迁移到
 
 >[!IMPORTANT]
 >
->上述情况的例外是&#x200B;_，在仅限SSO的订阅_&#x200B;中，管理员将收到新的用户邀请，但非管理员用户不会收到新的用户邀请。 不是管理员的用户还必须完成电子邮件验证过程，以确保迁移其记录。 用户可以通过单击其“个人资料”图标并转到&#x200B;**我的帐户** > **帐户设置**，然后单击&#x200B;**重新发送验证**&#x200B;向自己发送电子邮件验证链接。
+>上述情况的例外是&#x200B;_，在仅限SSO的订阅_&#x200B;中，管理员将收到新的用户邀请，但非管理员用户不会收到新的用户邀请。 不是管理员的用户还必须完成电子邮件验证过程，以确保迁移其记录。 用户可以通过单击其“我的个人资料”图标并导航到&#x200B;**我的帐户** > **帐户设置** > **重新发送验证**，向自己发送电子邮件验证链接。
 
 ![](assets/email-verification-1.png)
 
