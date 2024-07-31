@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,43 @@ ht-degree: 0%
 * 徽标
 * 虚拟视频背景
 
+## 授予权限 {#grant-permissions}
+
+在您组织中的任何用户能够自定义交互式网络研讨会之前，Marketo Engage管理员必须先添加对所需角色的访问权限。
+
+1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL 管理员]**。
+
+   ![](assets/interactive-webinars-customization-1.png)
+
+1. 单击&#x200B;**[!UICONTROL 用户和角色]**，然后单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡。
+
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. 双击要添加权限的角色。
+
+   ![](assets/interactive-webinars-customization-3.png)
+
+1. 单击以打开&#x200B;**[!UICONTROL Access Design Studio]**。
+
+   ![](assets/interactive-webinars-customization-4.png)
+
+1. 选中&#x200B;**[!UICONTROL 访问交互式网络研讨会自定义]**&#x200B;复选框。
+
+   ![](assets/interactive-webinars-customization-5.png)
+
 ## 自定义交互式网络研讨会屏幕 {#customize-interactive-webinar-screens}
 
 1. 转到&#x200B;**设计工作室**。
 
-   ![](assets/interactive-webinars-customization-1.png)
+   ![](assets/interactive-webinars-customization-6.png)
 
 1. 单击&#x200B;**交互式网络研讨会**，然后选择&#x200B;**自定义网络研讨会**。
 
-   ![](assets/interactive-webinars-customization-2.png)
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. 您可以自定义“房间”界面、“立即”屏幕或“虚拟视频背景”。
 
-   ![](assets/interactive-webinars-customization-3.png)
+   ![](assets/interactive-webinars-customization-8.png)
 
 ### 自定义文件室界面 {#customize-the-room-interface}
 
@@ -47,7 +71,7 @@ ht-degree: 0%
 
 1. 从右侧面板中，自定义以下首选项：
 
-   ![](assets/interactive-webinars-customization-4.png)
+   ![](assets/interactive-webinars-customization-9.png)
 
    **自定义徽标**：选择“上传徽标”并从设备浏览图像。 图像大小不得超过50 x 31像素，并且可以采用不同的文件格式： .svg、.gif、.jpg和.png。 您可以更改或删除您的徽标。
 
@@ -65,7 +89,7 @@ ht-degree: 0%
 
 1. 选择&#x200B;**[!UICONTROL 应用]**&#x200B;以保存更改。 要重置为默认设置，请单击“重置为默认设置”****。
 
-   ![](assets/interactive-webinars-customization-5.png)
+   ![](assets/interactive-webinars-customization-10.png)
 
 ### 自定义中间屏幕 {#customize-intermediate-screens}
 
@@ -75,7 +99,7 @@ ht-degree: 0%
 
 1. 从右侧面板中，通过选择&#x200B;**上传图像**&#x200B;自定义背景图像，并浏览徽标图像。 图像大小不得超过1920 x 1080像素，并且可以采用不同的文件格式： .svg、.gif、.jpg和.png。 您可以根据需要更改或删除徽标。
 
-   ![](assets/interactive-webinars-customization-6.png)
+   ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]
    >
@@ -91,7 +115,7 @@ ht-degree: 0%
 
 1. 单击切换开关可在事件和文件室中允许自定义背景。
 
-   ![](assets/interactive-webinars-customization-7.png)
+   ![](assets/interactive-webinars-customization-12.png)
 
 1. 选择&#x200B;**上传背景**&#x200B;以上传自定义背景。 图像大小不得超过1920 x 1080像素，并且可以采用不同的文件格式： .svg、.gif、.jpg和.png。
 
@@ -109,6 +133,6 @@ Adobe Connect提供了9个随时可用的默认背景。 可以在“预览”�
 
 使用切换开关控制事件和文件室中这些默认背景的可用性。
 
-![](assets/interactive-webinars-customization-8.png)
+![](assets/interactive-webinars-customization-13.png)
 
 选择&#x200B;**应用**&#x200B;以保存更改，或选择&#x200B;**重置为默认值**&#x200B;以重置为默认设置。

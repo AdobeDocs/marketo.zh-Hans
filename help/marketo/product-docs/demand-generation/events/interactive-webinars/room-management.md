@@ -5,16 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
 # 房间管理 {#room-management}
 
-由Adobe Connect提供支持的交互式网络研讨会室，旨在促进开展引人入胜的协作在线活动。 这些网络研讨会将大量内容和录制内容存储在授权组织成员创建的网络研讨会室中。 作为有权创建文件室的成员，您可以从集中位置访问和管理文件室。
+由Adobe Connect提供支持的交互式网络研讨会室，旨在促进开展引人入胜的协作在线活动。 这些网络研讨会存储网络研讨会期间创建和使用的内容和录像。 作为有权创建文件室的成员，您可以从中心位置访问和管理文件室。
+
+>[!NOTE]
+>
+>您只能访问您为网络研讨会创建的工作室，而无法访问组织中其他成员的工作室。
 
 ## 管理和访问会议室和录制 {#manage-and-access-rooms-and-recordings}
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472490
 description: 发行计划 - Marketo 文档 - 产品文档
-title: 发布计划
+title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: aa04752e471a6bc5fbb78f1e5cdfae199e3134be
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 5%
+source-wordcount: '126'
+ht-degree: 9%
 
 ---
 
-# 发布计划 {#release-schedule}
+# 发行计划 {#release-schedule}
 
 **版本**：每个版本的月份/年份。 发行说明一经发布，即会链接到下表。
 
@@ -50,12 +50,12 @@ _发行日期/功能可能会发生更改_
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">’24年6月</a></td>
    <td>2024年6月7日</td>
-   <td>进行中</td>
+   <td>已发货</td>
   </tr>
   <tr> 
    <td>’24年7月</td>
    <td>2024年7月26日</td>
-   <td>按计划</td>
+   <td>进行中</td>
   </tr>
   <tr> 
    <td>’24年10月</td>
