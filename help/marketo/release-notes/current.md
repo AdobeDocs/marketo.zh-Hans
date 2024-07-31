@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
+source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 1%
+source-wordcount: '523'
+ht-degree: 3%
 
 ---
 
@@ -76,6 +76,16 @@ ht-degree: 1%
 ## 公告 {#announcements}
 
 * **新的开发人员文档网站**：作为我们努力改进Marketo Engage用户体验的一部分，我们将在2024年7月将所有开发人员文档迁移到Adobe Experience League和Adobe Developer网站。 [了解详情](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+
+* **弃用社交功能**：2024年7月31日星期三，Marketo Engage将开始弃用产品中的以下社交功能：
+
+   * 投票
+   * 社交按钮
+   * 推荐优惠
+   * 分享视频
+   * 抽奖活动
+
+用户将无法再在Marketo Engage中创建、克隆或嵌入任何这些Social功能。 现有社会资产将继续运作到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **查询参数弃用中的访问令牌**：在未来版本中，将移除对Marketo EngageREST API调用的查询参数中使用访问令牌的身份验证的支持（具体日期待定）。 现有集成应迁移到此处](https://developers.marketo.com/rest-api/authentication/){target="_blank"}描述的授权标头[的使用情况。 新开发应仅使用Authorization标头进行Marketo Engage身份验证。
 
