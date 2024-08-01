@@ -3,9 +3,9 @@ description: 销售分析操作功能概述 — Marketo文档 — 产品文档
 title: 销售分析操作功能概述
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
-source-wordcount: '1388'
+source-wordcount: '1361'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是一个基于Web的应用程序，它通过[Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}与Salesforce用户界面集成。 它有时称为“Marketo Sales”，或简称为“Actions”。
-
->[!AVAILABILITY]
->
->此功能当前正在向所有Sales Insight用户推出。 如果您希望在推广中排定优先级，请发送电子邮件至`sales-insights(at)adobe(dot)com`。
+>Marketo Sales Insight Actions是一个基于Web的应用程序，它通过[Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}专门与Salesforce CRM集成。 它有时称为“Marketo Sales”，或简称为“Actions”。
 
 有关销售分析操作的视频概述，[单击此处](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}。
 
