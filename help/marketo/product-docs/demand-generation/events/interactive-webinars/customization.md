@@ -1,11 +1,9 @@
 ---
 description: 交互式网络研讨会自定义 — Marketo文档 — 产品文档
 title: 交互式网络研讨会自定义
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 0%
