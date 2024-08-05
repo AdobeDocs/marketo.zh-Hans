@@ -1,43 +1,43 @@
 ---
 unique-page-id: 2359791
-description: 指定推荐服务的目标 — Marketo文档 — 产品文档
-title: 指定推荐服务的目标
+description: 指定反向链接选件的目标 — Marketo文档 — 产品文档
+title: 指定反向链接选件的目标
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# 指定推荐服务的目标 {#specify-goal-for-referral-offer}
+# 指定反向链接选件的目标 {#specify-goal-for-referral-offer}
 
-当您[创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，需要定义完成目标。 目标可以通过网页上的人员活动（如页面访问或注册）来定义。 您甚至可以使用[自定义JavaScript事件](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)。
+当您[创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，需要定义完成目标。 目标可由网页上的人员活动定义，如页面访问或注册。 您甚至可以使用[自定义JavaScript事件](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)。
 
 >[!IMPORTANT]
 >
->2024年7月31日，我们启动了停用此功能的过程。 您将无法创建新资源。 现有资产将继续运作至2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>2024年7月31日，我们开始了弃用此功能的过程。 无法再创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-或者，您可以在Marketo Engage中使用智能列表触发器等待任何里程碑，例如为被引用人员创建的业务机会。
+或者，您也可以在Marketo Engage中使用智能列表触发器，等待任何里程碑，例如为被引荐人员创建的商机。
 
 目标示例：
 
 * 10次转介访问
-* 5个推荐注册
-* 已创建1个被推荐商机
-* 2个推荐的电子商务购买
+* 5个引用的注册
+* 已创建1个引用的机会
+* 2次引用的电子商务购买
 * 5位推荐的网络研讨会与会者
 
 1. 转到&#x200B;**营销活动**。
 
    ![](assets/ma.png)
 
-1. 选择推荐优惠，然后单击&#x200B;**编辑草稿**。
+1. 选择推荐选件，然后单击&#x200B;**编辑草稿**。
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. 在推荐优惠编辑器中，转到&#x200B;**应用程序设置** > **优惠详细信息**。
+1. 在反向链接选件编辑器中，转到&#x200B;**应用程序设置** > **选件详细信息**。
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您计划使用&#x200B;**向推荐人提供信用**&#x200B;流程步骤，则必须在此处选择&#x200B;**智能列表触发器**&#x200B;作为履行目标类型。
+>如果您计划使用&#x200B;**将点数提供给反向链接**&#x200B;流程步骤，则必须在此选择&#x200B;**智能列表触发器**&#x200B;作为履行目标类型。
 
-* 转荐访问：每当好友访问托管您的优惠的页面时，优惠参与者就会获得积分。
-* 引荐注册：优惠参与者会为注册优惠的每个朋友获得积分。
-* 智能列表触发器：对于在[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)中满足[智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)触发条件的每个朋友，优惠参与者均可获取积分。 例如，您可以使用被引用的目标客户注册网络研讨会时触发的触发器。
+* 反向访问：对于朋友访问您的选件所在的页面，每次访问都向选件参与者提供点数。
+* 引用的注册：优惠参与者可以获得每个注册优惠的朋友的点数。
+* 智能列表触发器：在[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)中，为符合[智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)触发器条件的每位好友提供优惠参与者，为其获取点数。 例如，您可以使用触发器，该触发器在被引用的潜在客户注册参加网络研讨会时触发。
 
-* 自定义JavaScript事件：为参与人提供积分给在页面上触发已定义JavaScript事件的每个好友。 查看自定义事件的[转换脚本](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)。
+* 自定义JavaScript事件：为触发您页面上定义的JavaScript事件的每位好友提供点数。 查看自定义事件的[转换脚本](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)。
 
 >[!NOTE]
 >
@@ -61,4 +61,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->接下来，您可以[从您的推荐优惠中选择要发送的注册和履行电子邮件](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)。
+>接下来，您可以[选择注册和履行电子邮件](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)，以从您的推荐优惠中发送。

@@ -4,9 +4,9 @@ description: 配置重新共享电子邮件并提示社交应用程序 — Marke
 title: 配置重新共享电子邮件并提示使用社交应用程序
 exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>2024年7月31日，我们开始了弃用此功能的过程。 无法再创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!NOTE]
 >

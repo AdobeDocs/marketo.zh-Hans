@@ -4,9 +4,9 @@ description: 选择社交应用程序的共享URL - Marketo文档 — 产品文�
 title: 选择社交应用程序的共享URL
 exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>2024年7月31日，我们开始了弃用此功能的过程。 无法再创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. 转到&#x200B;**营销活动**。
 

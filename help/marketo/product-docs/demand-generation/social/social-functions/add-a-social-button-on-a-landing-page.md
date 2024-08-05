@@ -4,9 +4,9 @@ description: 在登陆页面上添加社交按钮 — Marketo文档 — 产品�
 title: 在登陆页面上添加社交按钮
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '276'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>2024年7月31日，我们开始了弃用此功能的过程。 无法再创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

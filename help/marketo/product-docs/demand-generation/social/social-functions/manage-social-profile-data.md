@@ -4,9 +4,9 @@ description: 管理社交个人资料数据 — Marketo文档 — 产品文档
 title: 管理社交个人资料数据
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>2024年7月31日，我们开始了弃用此功能的过程。 无法再创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 社交表单填写和社交应用程序捕获的字段集略有不同；请参阅下面每个字段的部分。
 
