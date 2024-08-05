@@ -4,9 +4,9 @@ description: 设置数字Advertising促销活动的收入归因 — Marketo文�
 title: 设置数字Advertising促销活动的收入归因
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 设置数字Advertising促销活动的收入归因 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 下面是如何设置数字广告渠道和营销活动的收入归因。 完成设置后，您可以像在其他Marketo程序中一样，对数字广告进行首次接触和多接触点收入归因。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 在Marketo中设置第一个广告程序后，您可以克隆并更新其他渠道的该程序。 例如，将LinkedIn程序克隆到Facebook程序。
 

@@ -4,9 +4,9 @@ description: 在网站上部署Social - Marketo文档 — 产品文档
 title: 在您的网站上部署Social
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 在非Marketo页面上嵌入社交应用程序。
 
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
->有关更多详细信息，请与您的销售代表联系。
+>并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 您可以在自己的网站上部署社交应用程序，以吸引受众，并使每个人都参与社交网络上的大型对话。 当人们在社交网络上与好友共享您的促销活动和内容时，您会在网站上生成更多流量。
 

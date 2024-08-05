@@ -4,9 +4,9 @@ description: 配置跟踪反向链接优惠的进度流 — Marketo文档 — �
 title: 配置反向链接选件的跟踪进度流
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 配置反向链接选件的跟踪进度流 {#configure-track-progress-flow-for-a-referral-offer}
 
 当您[创建推荐选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，您可以配置提示以向参与者显示其奖励进度。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. 转到&#x200B;**营销活动**。
 

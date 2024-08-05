@@ -4,16 +4,20 @@ description: 使用促销代码进行优惠履行 — Marketo文档 — 产品�
 title: 使用促销代码完成优惠
 exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 1%
 
 ---
 
 # 使用促销代码完成优惠 {#use-promo-codes-for-offer-fulfillment}
 
 在创建推荐选件或抽奖活动时，您可以向每位入选者发送促销（优惠券）代码。 为了兑现奖励，他们会使用代码，例如，在您的网站上购买的结账页面上。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## 上传促销代码 {#upload-promo-codes}
 

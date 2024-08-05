@@ -4,9 +4,9 @@ description: 查看社交效果 — Marketo文档 — 产品文档
 title: 查看社交绩效
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 查看社交绩效 {#view-social-performance}
 
 查看您的社交应用程序生成的社交活动。 “社交仪表板”可让您深入了解社交应用程序生成的各种社交互动，并允许您跟踪社交应用程序的性能。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

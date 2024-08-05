@@ -4,16 +4,20 @@ description: 自定义轮询设置 — Marketo文档 — 产品文档
 title: 自定义轮询设置
 exl-id: 72379bc7-9457-4285-9cc2-02dc0c1f3966
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 1%
 
 ---
 
 # 自定义轮询设置 {#customize-poll-settings}
 
 当您[创建投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)时，您可以限制每个社交个人资料允许的投票数。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. 转到&#x200B;**营销活动**。
 

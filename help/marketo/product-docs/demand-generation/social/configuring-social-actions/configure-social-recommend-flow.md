@@ -4,9 +4,9 @@ description: 配置社交推荐流程 — Marketo文档 — 产品文档
 title: 配置社交推荐流程
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 配置社交推荐流程 {#configure-social-recommend-flow}
 
 在创建社交应用程序时，您可以配置社交网络选项，并在用户注册时提示用户遇到这些选项。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## 选择要共享的网络 {#select-networks-for-sharing}
 
@@ -29,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. 在社交应用编辑器中，转到&#x200B;**推荐流程** > **社交网络**。
+1. 在社交应用编辑器中，转到&#x200B;**建议流** > **社交网络**。
 
    ![](assets/recommendedflow.png)
 
@@ -45,17 +49,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在视频共享中，将自动生成缩略图。
+   >在视频共享中，会自动生成缩略图。
 
-   如果选择&#x200B;**添加动态内容**，则页面的OpenGraph标记（og：title、og：caption和og：description）和缩略图的值将自动添加到Facebook帖子中。 请参阅下一步。
+   如果选择&#x200B;**添加动态内容**，则页面的OpenGraph标记（og：title、og：caption和og：description）和缩览图的值将自动添加到Facebook帖子中。 查看下一步。
 
-   如果选择&#x200B;**添加静态内容**，请输入标题、标题和描述，然后上载图像。 请参阅下面的两个步骤。
+   如果选择&#x200B;**添加静态内容**，请输入标题、题注和描述，然后上传图像。 查看接下来的两个步骤。
 
-1. 在“查看和编辑”窗口中，单击&#x200B;**显示编辑内容**&#x200B;以自定义共享提示和将显示在Facebook帖子中的消息。
+1. 在“查看和编辑”窗口中，单击&#x200B;**显示编辑**&#x200B;以自定义将显示在Facebook帖子中的共享提示和消息。
 
    >[!TIP]
    >
-   >有关详细信息，请参阅[编辑Facebook富帖子设置](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)。
+   >有关详细信息，请参阅[编辑Facebook富媒体帖子设置](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)。
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
@@ -95,19 +99,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   如果选择&#x200B;**添加动态**&#x200B;内容，则页面标记的值（标题和描述）以及缩略图会自动添加到LinkedIn帖子中。 请参阅下一步。
+   如果选择&#x200B;**添加动态**&#x200B;内容，则页面标记的值（标题和描述）以及缩览图将自动添加到LinkedIn帖子中。 查看下一步。
 
-   如果选择&#x200B;**添加静态**&#x200B;内容，请输入标题、标题和描述，然后上载图像。 请参阅下面的两个步骤。
+   如果选择&#x200B;**添加静态**&#x200B;内容，请输入标题、题注和描述，然后上传图像。 查看接下来的两个步骤。
 
-1. 在&#x200B;**查看和编辑**&#x200B;窗口中，单击&#x200B;**显示编辑内容**&#x200B;并编辑共享提示和将显示在LinkedIn帖子中的消息。
+1. 在&#x200B;**查看并编辑**&#x200B;窗口中，单击&#x200B;**显示编辑**&#x200B;并编辑将显示在LinkedIn帖子中的共享提示和消息。
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
    >[!TIP]
    >
-   >在您的帖子文本中使用{html_title}自动显示页面标题。
+   >在帖子文本中使用{html_title}自动显示页面的标题。
 
-1. 如果您选择了上面的&#x200B;**添加静态**&#x200B;内容，请编辑标题和描述，并上传自定义图像(从Marketo图像和文件)。
+1. 如果选择了&#x200B;**“添加静态**&#x200B;内容”，请编辑标题和描述，并(从Marketo图像和文件)上传自定义图像。
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
@@ -115,7 +119,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果上传图像，则直到关闭并重新打开社交应用程序编辑器后，您才会在此处看到该图像。
+   >如果上传图像，则直到关闭并重新打开社交应用程序编辑器后才会在此处看到该图像。
 
 1. 单击&#x200B;**下一步**。
 

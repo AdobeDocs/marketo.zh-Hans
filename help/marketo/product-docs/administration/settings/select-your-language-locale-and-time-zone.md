@@ -4,7 +4,7 @@ description: 选择语言、区域设置和时区 — Marketo文档 — 产品�
 title: 选择语言、区域设置和时区
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 5%
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->本文仅适用于&#x200B;_不_&#x200B;使用Adobe标识](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)的[Marketo的用户。 如果这样做，则可在[Adobe帐户配置文件](https://account.adobe.com/profile)中访问下面列出的设置。
+>本文仅适用于&#x200B;_不_&#x200B;使用Adobe标识](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的[Marketo的用户。 如果这样做，则可在[Adobe帐户配置文件](https://account.adobe.com/cn/profile){target="_blank"}中访问下面列出的设置。
 
 ## 支持的语言 {#supported-languages}
 

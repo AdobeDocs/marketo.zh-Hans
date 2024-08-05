@@ -4,16 +4,20 @@ description: 创建反向链接选件 — Marketo文档 — 产品文档
 title: 创建反向链接选件
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 0%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
 # 创建反向链接选件 {#create-a-referral-offer}
 
-转介优惠会鼓励人们转介自己的朋友。 为成功的推荐创建目标和奖励。 您可以将其拖放到登陆页面、您的网站甚至Facebook上。
+引荐优惠会激励人们引荐他们的朋友。 为成功的推荐创建目标和奖励。 您可以将其拖放到登陆页面、您的网站甚至Facebook上。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -35,7 +39,7 @@ ht-degree: 0%
    >
    >为了节省时间，您可以使用&#x200B;**从**&#x200B;克隆选项从现有反向链接选件复制所有设置。
 
-   将在新窗口中打开引用选件编辑器。 默认设置一切正常，但您需要添加指向选件规则（条款和条件）的链接。 该链接将显示在共享消息屏幕的底部。 我们将向您说明下一步操作方式。
+   此时将在新窗口中打开推荐优惠编辑器。 虽然默认设置全部正确，但您需要添加优惠规则（条款和条件）的链接。 该链接将显示在共享消息屏幕的底部。 我们将向您说明下一步操作方式。
 
 1. 单击&#x200B;**高级选项**。
 
@@ -61,9 +65,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
-如果反向链接选件中存在任何问题，系统将提示您先解决这些问题，然后再批准该选件。
+如果推荐优惠有任何问题，系统将会提示您在批准优惠之前解决这些问题。
 
-恭喜！您已创建反向链接选件。
+恭喜！您已创建推荐优惠。
 
 >[!NOTE]
 >

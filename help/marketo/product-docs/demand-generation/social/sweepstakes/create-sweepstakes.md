@@ -3,16 +3,20 @@ unique-page-id: 2359795
 description: 创建抽奖 — Marketo文档 — 产品文档
 title: 创建抽奖
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 0%
+source-wordcount: '329'
+ht-degree: 1%
 
 ---
 
 # 创建抽奖 {#create-sweepstakes}
 
 抽奖活动可以让人们有机会赢得奖品，作为回报，他们会把你的事情告诉他们的朋友。 您可以将其拖放到登陆页面、您的网站甚至Facebook上。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

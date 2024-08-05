@@ -3,16 +3,20 @@ unique-page-id: 2359799
 description: Publish a抽奖 — Marketo文档 — 产品文档
 title: Publish抽奖
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
 # Publish抽奖 {#publish-a-sweepstakes}
 
 在您[创建抽奖活动](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)之后，您可以将其发布到Marketo登录页面、网站和Facebook中。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

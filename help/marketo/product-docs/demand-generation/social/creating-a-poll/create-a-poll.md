@@ -4,9 +4,9 @@ description: 创建投票 — Marketo文档 — 产品文档
 title: 创建投票
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 创建投票 {#create-a-poll}
 
 通过投票让人们参与投票，并在社交网络上与朋友分享。 您可以将其添加到登陆页面、网站和Facebook等位置。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!PREREQUISITES]
 >

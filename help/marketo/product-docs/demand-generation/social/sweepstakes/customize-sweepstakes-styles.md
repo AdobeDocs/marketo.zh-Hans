@@ -3,16 +3,20 @@ unique-page-id: 2359807
 description: 自定义抽奖样式 — Marketo文档 — 产品文档
 title: 自定义抽奖样式
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 0%
+source-wordcount: '189'
+ht-degree: 1%
 
 ---
 
 # 自定义抽奖样式 {#customize-sweepstakes-styles}
 
 当您[创建抽奖活动](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)时，您可以自定义它在登陆页面上的外观。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

@@ -4,9 +4,9 @@ description: 为社交应用程序配置人员捕获 — Marketo文档 — 产�
 title: 为社交应用程序配置人员捕获
 exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 为社交应用程序配置人员捕获 {#configure-person-capture-for-a-social-app}
 
 创建[推荐选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)或[抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)时，您可以配置请求哪些信息以及需要他人提供哪些信息以便参与。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!NOTE]
 >

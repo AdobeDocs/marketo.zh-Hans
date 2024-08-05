@@ -4,16 +4,20 @@ description: 设置社交共享要求 — Marketo文档 — 产品文档
 title: 设置社交共享要求
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 
 ---
 
 # 设置社交共享要求 {#set-social-share-requirement}
 
 当您[创建反向链接选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)时，您可以要求人员共享该选件以注册，或使其成为可选选件。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. 转到&#x200B;**营销活动**。
 

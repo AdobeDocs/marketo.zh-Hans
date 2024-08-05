@@ -4,16 +4,20 @@ description: 自定义事件的转化脚本 — Marketo文档 — 产品文档
 title: 自定义事件的转换脚本
 exl-id: 202b7e66-af83-42fd-8067-a5808eba7c32
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 0%
+source-wordcount: '305'
+ht-degree: 1%
 
 ---
 
 # 自定义事件的转换脚本 {#conversion-script-for-custom-events}
 
 您可以在创建反向链接优惠时定义实现目标。 如果计入目标的操作是您自己网页上的特定事件，则可以使用转化脚本来调用我们的JavaScript API。
+
+>[!IMPORTANT]
+>
+>2024年7月31日，我们开始了弃用此功能的过程。 您将无法创建新资产。 现有资产将继续使用到2025年1月31日。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## 检索转换脚本 {#retrieve-the-conversion-script}
 
