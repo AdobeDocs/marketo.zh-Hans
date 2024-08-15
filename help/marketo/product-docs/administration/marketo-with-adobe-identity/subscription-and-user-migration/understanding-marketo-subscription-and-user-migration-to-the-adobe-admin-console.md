@@ -3,9 +3,9 @@ description: 了解Marketo订阅和用户迁移到Adobe Admin Console - Marketo�
 title: 了解Marketo订阅和用户迁移到Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
 workflow-type: tm+mt
-source-wordcount: '1379'
+source-wordcount: '1440'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,10 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式，从而�
 * **产品管理员将管理Adobe Admin Console**&#x200B;上的用户及其访问权限。 添加和删除所有Adobe订阅的用户。 Adobe Admin Console不支持基于用户的访问过期。 对于计划在迁移后过期的Marketo Engage访问权限的用户，仍会迁移并授予非过期访问权限。 迁移后，必须在所需的到期日期（或之前）手动删除它们。
 
 * **用户将使用Adobe标识**&#x200B;登录。 Adobe会将现有用户迁移到Adobe Admin Console。 用户将使用其新的Adobe身份(Adobe ID或AdobeFederated ID(SSO))登录到其Marketo订阅。
+
+* **URL在迁移**&#x200B;后看起来将不同。 但是，资产的ID号保持不变。 以前保存的书签仍会将您带到正确的位置。 与您的IT团队沟通，确保他们在下面添加域（包括星号）以允许所有Marketo Engage资源和Web套接字：
+
+_*.experience.adobe.com_
 
 ## 哪些方面没有改变？ {#what-is-not-changing}
 
@@ -116,6 +120,7 @@ Marketo产品管理员将：
 
 >[!MORELIKETHIS]
 >
->* [正在迁移到Adobe标识](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [迁移至Adobe身份概述](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [用户使用Adobe登录](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [AdobeIdentity Management常见问题解答](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
+>* [迁移到AdobeIdentity Management教程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
