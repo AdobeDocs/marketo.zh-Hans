@@ -3,9 +3,9 @@ description: AdobeIdentity Management常见问题解答 — Marketo文档 — �
 title: AdobeIdentity Management常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1279'
+source-wordcount: '1342'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,13 @@ AdobeIdentity Management System包含三个组件。
 
 **迁移后，Marketo EngageURL是否将保持不变？**
 
-不适用。 迁移后URL的外观将有所不同。 但是，资产的ID号保持不变。 以前保存的书签仍会将您带到正确的位置。
+不会。迁移后URL的外观将有所不同。
 
 **需要执行任何操作以准备进行URL更改吗？**
 
-是的。 与您的IT团队沟通，确保他们在下面添加域（包括星号）以允许所有Marketo Engage资源和Web套接字：
+可以。迁移后，Marketo Engage将从experience.adobe.com提供给Adobe Experience Cloud。 您需要与IT团队合作，允许列表本文顶部[列出的所有Adobe域](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止对Marketo Engage访问的中断。
 
-_*.experience.adobe.com_
+以前在engage-xx.marketo.com域&#x200B;_上Marketo Engage资源的链接和书签将继续正常运行。_&#x200B;但是，您必须首先登录到要导航到的URL的Marketo Engage实例。 例如，要导航到Munchkin ID为123-ABC-456的Smart Campaign实例书签，您需要先登录Munchkin ID为123-ABC-456的Marketo Engage实例。
 
 **Adobe产品管理员和Marketo Engage管理员之间有何区别？**
 
@@ -46,7 +46,7 @@ _*.experience.adobe.com_
 
 **用户管理API客户端支持是否有任何更改？**
 
-是的。 已载入Adobe IMS的用户无法使用所有现有的Marketo用户管理API。 对于用户邀请、更新和删除操作，应使用Adobe[IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"}。 对于角色管理，Marketo用户管理API仍然适用。 除此之外，对Marketo REST API客户端支持没有其他更改。
+可以。已载入Adobe IMS的用户无法使用所有现有的Marketo用户管理API。 对于用户邀请、更新和删除操作，应使用Adobe[IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"}。 对于角色管理，Marketo用户管理API仍然适用。 除此之外，对Marketo REST API客户端支持没有其他更改。
 
 **如果我们与IMS集成，我们应当联系谁获取支持？**
 
@@ -58,7 +58,7 @@ _*.experience.adobe.com_
 
 **Marketo用户角色（位于工作区中）是否在Adobe Admin Console中进行管理？**
 
-不适用。 用户Marketo Engage管理（在工作区中）已完成。
+不会。用户Marketo Engage管理（在工作区中）已完成。
 
 **我是IMS集成订阅中的Marketo管理员，无权访问该Admin Console。 如何获取访问权限？**
 
@@ -82,7 +82,7 @@ _*.experience.adobe.com_
 
 **此项是否适用于SSO？**
 
-是的。 Marketo与Adobe IMS的集成支持通用ID用户和SSO。 SSO现在由Adobe IMS驱动，在Adobe Admin Console的组织级别设置。 [在此了解详情](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
+可以。Marketo与Adobe IMS的集成支持通用ID用户和SSO。 SSO现在由Adobe IMS驱动，在Adobe Admin Console的组织级别设置。 [在此了解详情](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
 **我已登记使用Adobe身份，现在我要实施SSO。 我该怎么办？**
 
@@ -94,11 +94,11 @@ Adobe IMS当前不支持Marketo的设备授权功能等任何功能。
 
 **仍然可以使用“在邀请用户对话框中登录”功能来使用户的登录在其电子邮件中是唯一的？**
 
-不适用。 订阅启用了IMS时，用户邀请工作流不再有效，因此功能不再有效。 Adobe身份要求用户的身份由其电子邮件驱动。
+不会。订阅启用了IMS时，用户邀请工作流不再有效，因此功能不再有效。 Adobe身份要求用户的身份由其电子邮件驱动。
 
 **对于Adobe IMS，我们是否可以选择使用Adobe ID、Enterprise ID或Federated ID？**
 
-是，您可以确定组织支持的身份类型。 可在以下位置找到更多信息： [身份概述](https://helpx.adobe.com/enterprise/using/identity.html)和此处： [设置身份](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
+是，您可以确定组织支持的身份类型。 可在以下位置找到更多信息： [身份概述](https://helpx.adobe.com/cn/enterprise/using/identity.html)和此处： [设置身份](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
 **Adobe Admin Console支持哪些产品卡？**
 
