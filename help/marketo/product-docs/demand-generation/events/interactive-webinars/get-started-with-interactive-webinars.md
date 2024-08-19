@@ -4,7 +4,7 @@ title: 交互式网络研讨会入门
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
+source-git-commit: fefe046ca3bcb61ecdffa7a0b9c8477d050aa704
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -14,6 +14,8 @@ ht-degree: 0%
 # 交互式网络研讨会入门 {#get-started-with-interactive-webinars}
 
 您已阅读[交互式网络研讨会概述](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"}，可随时开始深入了解。 请按照以下步骤开始。
+
+<p>
 
 **第一步**：[添加用户](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} — 了解如何添加（以后如果需要，还可以删除）用户以访问交互式网络研讨会。
 
@@ -26,6 +28,8 @@ ht-degree: 0%
 **第五步**：[推广您的网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} — 了解有关如何推广即将举行的活动的宝贵技巧。
 
 **步骤六**：[交付交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — 关于演示网络研讨会所需了解的一切。
+
+<p>
 
 操作完成！网络研讨会结束后，使用有用的[参与仪表板](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}查看其执行情况。
 
