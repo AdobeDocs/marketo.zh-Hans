@@ -2,9 +2,9 @@
 description: 交互式网络研讨会入门 — Marketo文档 — 产品文档
 title: 交互式网络研讨会入门
 feature: Interactive Webinars
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: bdb91148499f2f84160a48c62cd111a4c6883f9f
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 
-<p>
+## 要做什么 {#what-to-do}
 
 **第一步**：[添加用户](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} — 了解如何添加（以后如果需要，还可以删除）用户以访问交互式网络研讨会。
 
@@ -29,9 +29,11 @@ ht-degree: 0%
 
 **步骤六**：[交付交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — 关于演示网络研讨会所需了解的一切。
 
-<br>
+就是这样！
 
-操作完成！网络研讨会结束后，使用事件概述屏幕中的有用仪表板查看研讨会的执行情况。 您可以在[参与仪表板](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}中查看受众的详细参与情况。 您可以利用网络研讨会参与，通过[事件工作流](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}中的智能过滤器和触发器以个性化的方式定位受众。 并通过[按需网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}了解如何跟踪您的按需效果。
+## 其他文档 {#additional-documentation}
+
+网络研讨会结束后，使用事件概述屏幕中的有用仪表板查看研讨会的执行情况。 您可以在[参与仪表板](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}中查看受众的详细参与情况。 您可以利用网络研讨会参与，通过[事件工作流](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}中的智能过滤器和触发器以个性化的方式定位受众。 并通过[按需网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}了解如何跟踪您的按需效果。
 
 我们提供了更多有关此主题的帮助文章，包括[交互式网络研讨会的最佳实践](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}，如何[自定义网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"}以反映您的需求/品牌化，使用[交互式网络研讨会模板](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"}创建组织范围的模板，以及如何在[会议室管理](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"}中管理会议室和录制。
 
