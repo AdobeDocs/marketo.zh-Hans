@@ -4,16 +4,20 @@ description: 更改表单的语言 — Marketo文档 — 产品文档
 title: 更改表单的语言
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 1%
 
 ---
 
 # 更改表单的语言 {#change-the-language-of-a-form}
 
 了解如何更改表单的语言。
+
+>[!IMPORTANT]
+>
+>按照本文中的步骤，更改Marketo标准字段的语言，以及提交按钮标签中使用的措辞。 它不会翻译[自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}。
 
 1. 转到&#x200B;**营销活动**。
 
@@ -49,7 +53,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >请记住[批准表单更改创建的登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)草稿。
+   >请记住[批准由表单更改创建的登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)草稿。
 
 您的表单现在将反映您选择的语言。
 
