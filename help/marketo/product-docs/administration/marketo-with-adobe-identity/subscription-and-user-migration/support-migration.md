@@ -2,19 +2,17 @@
 description: Marketo Engage支持迁移 — Marketo文档 — 产品文档
 title: Marketo Engage支持迁移
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
 
 # Marketo Engage支持迁移 {#marketo-engage-support-migration}
 
-详细了解即将对您的Adobe Marketo Engage支持体验进行的更改。 这些更改旨在增强用户体验并简化管理任务。
+详细了解即将更改的Adobe Marketo Engage支持流程。 这些更新旨在简化您的管理任务并提升您的整体体验。
 
 ## Marketo EngageAdmin Console {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ ht-degree: 1%
 
 ## 我如何知道支持迁移何时完成？ {#support-migration-has-been-completed}
 
-在所有订阅的用户迁移完成后，将进行支持迁移。 如果您在支持迁移中被添加为PSA，则在用户迁移完成后，您将收到一封电子邮件，指示您已被添加为支持管理员，以便与支持人员联系获取这些特定订阅。 这将触发从营销国家/地区到Adobe Experience League的自动重定向，以便提交所有案例。 请继续通过营销国家提交支持案例，直到激活自动重定向为止。
+在所有订阅的用户迁移完成后，将进行支持迁移。 如果您在支持迁移中被添加为PSA，则在Adobe迁移完成后，您将收到一封电子邮件，指示您已被添加为支持管理员，以便就这些特定订阅与用户支持部门联系。 这将触发从营销国家/地区到Adobe Experience League的自动重定向，以便提交所有案例。 请继续通过营销国家提交支持案例，直到激活自动重定向为止。
 
 ## 其他资源 {#additional-resources}
 
