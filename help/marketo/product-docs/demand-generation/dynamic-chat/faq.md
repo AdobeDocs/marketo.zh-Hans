@@ -3,9 +3,9 @@ description: Dynamic Chat常见问题解答 — Marketo文档 — 产品文档
 title: Dynamic Chat常见问题解答
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '882'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
 
 **Dynamic Chat是否支持英语以外的任何语言？**
 
-是的。 Dynamic Chat支持以下语言：法语、西班牙语、德语、日语、荷兰语、意大利语、巴西葡萄牙语、朝鲜语、简体中文和繁体中文。 请参阅[更改语言](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}以了解详情。
+可以。Dynamic Chat支持以下语言：法语、西班牙语、德语、日语、荷兰语、意大利语、巴西葡萄牙语、朝鲜语、简体中文和繁体中文。 请参阅[更改语言](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}以了解详情。
 
 **是否支持AI/NLP功能？**
 
@@ -68,7 +68,7 @@ Dynamic ChatJavaScript代码片段可以安装在任何网站以及Marketo登陆
 
 **如何访问参与对话的记录？**
 
-可以通过Marketo Engage中的“参与对话”活动访问任何已参与Dynamic Chat对话的已知潜在客户的Dynamic Chat成绩单。
+任何已知潜在客户均可以通过Marketo Engage中的“参与对话”活动参与Dynamic Chat对话，其Dynamic Chat状态为“已完成”或“已丢弃”。
 
 **访客参与对话后，是否可以重新开始对话或返回上一个问题？**
 
@@ -100,4 +100,4 @@ Dynamic Chat中使用多个术语。 其中许多的定义可在各自区域的�
 
 **我是否可以在没有Marketo Engage的情况下使用Dynamic Chat？**
 
-不适用。 虽然Dynamic Chat是独立于Marketo Engage的应用程序，但两者之间有着密不可分的联系。
+不会。虽然Dynamic Chat是独立于Marketo Engage的应用程序，但两者之间有着密不可分的联系。
