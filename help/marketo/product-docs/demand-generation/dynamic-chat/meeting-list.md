@@ -3,9 +3,9 @@ description: 会议列表 — Marketo文档 — 产品文档
 title: 会议列表
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,3 +19,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >在座席日历上预订会议时，座席将收到一封有关预订的电子邮件通知，其中包括有关访客Dynamic Chat参与的详细信息。
+
+## 失败的操作通知 {#failed-action-notifications}
+
+当会议预订或实时聊天等操作失败时，会通过电子邮件通知用户。
+
+![](assets/meeting-list-2.png)
+

@@ -3,9 +3,9 @@ description: Designer流 — Marketo文档 — 产品文档
 title: 流设计器
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1250'
 ht-degree: 2%
 
 ---
@@ -119,7 +119,11 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
 
    >[!TIP]
    >
-   >您可以使用令牌为已知的聊天访客个性化体验（例如： Hello `{{lead.leadFirstName:""}}`）。 只需单击右侧的花括号图标即可进行选择。 如果您希望匿名访客看到一些通用内容（例如： Hello `{{lead.leadFirstName:"there"}}`），请在引号之间添加默认值。
+   >您可以自定义聊天访客的体验！
+   >
+   >* 单击“插入HTML”图标`</>`可插入您自己的HTML，以了解所需的对话外观。
+   >
+   >* 使用已知聊天访客的令牌来个性化其体验（例如： Hello `{{lead.leadFirstName:""}}`）。 单击花括号图标`{}`并进行选择。 如果您希望匿名访客看到一些通用内容（例如： Hello `{{lead.leadFirstName:"there"}}`），请在引号之间添加默认值。
 
    >[!NOTE]
    >

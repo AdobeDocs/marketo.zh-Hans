@@ -3,9 +3,9 @@ description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->实时座席头像使用座席的Adobe帐户个人资料中的个人资料图片。 要更新图像，请执行[这些步骤](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}。
+>实时座席头像使用座席的Adobe帐户个人资料中的个人资料图片。 要更新图像，请执行[这些步骤](https://helpx.adobe.com/cn/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}。
 
 ## 使用实时聊天卡 {#using-the-live-chat-card}
 
@@ -104,6 +104,12 @@ Mac的[步骤](https://support.apple.com/guide/mac-help/change-notifications-set
 >
 >* 在[Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}中启用浏览器通知
 >* 在[Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}中启用浏览器通知
+
+### 失败的操作通知 {#failed-action-notifications}
+
+当会议预订或实时聊天等操作失败时，会通过电子邮件通知用户。
+
+![](assets/live-chat-overview-6.png)
 
 ### 注意事项 {#things-to-note}
 
