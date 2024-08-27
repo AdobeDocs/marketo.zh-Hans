@@ -3,10 +3,10 @@ description: 添加网络研讨会团队 — Marketo文档 — 产品文档
 title: 添加网络研讨会团队
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 0%
+source-wordcount: '393'
+ht-degree: 1%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果选择&#x200B;**内部交互式网络研讨会用户**，您只需单击&#x200B;**可用主机**&#x200B;下拉列表，并从已添加为Marketo Engage中的交互式网络研讨会用户的人员列表中进行选择即可。
+   >如果选择&#x200B;**内部交互式网络研讨会用户**，您只需单击&#x200B;**可用主机**&#x200B;下拉列表，并从已添加为Marketo Engage中的交互式网络研讨会用户的人员列表中进行选择即可。 现有主机将无法在此下拉列表中看到自身，因为它们已经是主机。
 
 1. 输入所需共同主机的名字、姓氏和电子邮件地址。 单击&#x200B;**添加**。
 

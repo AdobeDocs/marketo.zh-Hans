@@ -3,9 +3,9 @@ description: 交互式网络研讨会的最佳实践 — Marketo文档 — 产�
 title: 交互式网络研讨会的最佳实践
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '1650'
+source-wordcount: '1691'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 0%
 ## 事件前准备 {#pre-event-preparation}
 
 ### 创建事件 {#creating-an-event}
+
+>[!TIP]
+>
+>交互式网络研讨会移动Web体验无响应性，因此我们建议使用Adobe Connect应用程序在您的移动设备上无缝地召开网络研讨会。 请注意，Adobe Connect应用程序目前在中国应用商店中不可用。
 
 * 创建一个示例交互式网络研讨会(IW)，每次都进行克隆，以避免从头开始。
 
