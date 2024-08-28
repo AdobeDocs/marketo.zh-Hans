@@ -4,9 +4,9 @@ description: 更新人员数据 — Marketo文档 — 产品文档
 title: 更新人员数据
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,12 @@ ht-degree: 0%
 1. 键入您收到的新信息，然后关闭选项卡。
 
 ![](assets/update-person-data-4.png)
+
+>[!CAUTION]
+>
+>* 确保电子邮件地址仅包含ASCII字符。
+>
+>* Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
 
 >[!NOTE]
 >

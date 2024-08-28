@@ -4,9 +4,9 @@ description: 设置并添加人员 — Marketo文档 — 产品文档
 title: 设置并添加人员
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 在开始执行任务之前，有几件事要做。
 
-## 步骤1：登录Marketo {#step-log-in-to-marketo}
+## 步骤1：登录Marketo Engage {#step-log-in-to-marketo}
 
-1. [使用通过电子邮件收到的凭据登录Marketo](https://app.marketo.com){target="_blank"}。
+1. [使用通过电子邮件收到的凭据登录Marketo Engage](https://app.marketo.com){target="_blank"}。
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -59,7 +59,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
+   >* 确保电子邮件地址仅包含ASCII字符。
+   >
+   >* Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
 
 1. 要查看您的联系人，请在左侧菜单中打开[!UICONTROL 系统智能列表]，然后单击&#x200B;**[!UICONTROL 所有联系人]**。
 

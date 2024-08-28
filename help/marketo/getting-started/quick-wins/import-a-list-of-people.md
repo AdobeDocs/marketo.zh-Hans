@@ -4,9 +4,9 @@ description: 导入人员列表 — Marketo文档 — 产品文档
 title: 导入人员列表
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
+   >* 确保电子邮件地址仅包含ASCII字符。
+   >
+   >* Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
 
 ## 第2步：创建项目 {#step-create-a-program}
 
