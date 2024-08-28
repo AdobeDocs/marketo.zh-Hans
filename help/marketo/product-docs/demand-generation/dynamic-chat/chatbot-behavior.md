@@ -3,9 +3,9 @@ description: 聊天机器人行为 — Marketo文档 — 产品文档
 title: 聊天机器人行为
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '1623'
+source-wordcount: '1680'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
    </tbody>
 </table>
 
-## 场景 {#scenarios}
+## 方案 {#scenarios}
 
 <table>
   <tr>
@@ -406,3 +406,7 @@ ht-degree: 0%
     </tr>
   </tbody>
 </table>
+
+## 实时商机解决方案 {#real-time-lead-resolution}
+
+在与匿名潜在客户进行对话并提供电子邮件ID期间，我们将解决是否存在具有该电子邮件ID的已知潜在客户记录，并使用该记录实时进行个性化。 如果我们找到多个记录，我们会实时合并它们。 此行为对对话框和对话流均实施。

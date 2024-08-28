@@ -3,9 +3,9 @@ description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
@@ -94,7 +94,7 @@ Mac的[步骤](https://support.apple.com/guide/mac-help/change-notifications-set
 
 ### 当实时聊天路由到座席时 {#when-a-live-chat-is-routed-to-an-agent}
 
-当实时聊天被路由到座席时，他们将看到屏幕顶部有一条蓝色横幅要求他们接受。
+当实时聊天被路由到座席时，他们将看到屏幕顶部有一个蓝色横幅让他们接受，以及一个通知音以帮助防止错过通知。
 
 ![](assets/live-chat-overview-3.png)
 

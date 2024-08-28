@@ -3,7 +3,7 @@ description: Dynamic Chat 发行说明 - Marketo Docs - 产品文档
 title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
 source-wordcount: '1869'
 ht-degree: 2%
@@ -68,7 +68,7 @@ Adobe Dynamic Chat版本在持续交付模型上运行，该模型允许采用�
 
 ### 添加到代理浏览器通知的声音 {#sound-added-to-agent-browser-notification}
 
-当实时聊天分配给座席时，座席将收到浏览器通知。 但他们偶尔会看不到他们。 我们添加了通知声音，以帮助防止以后丢失通知。
+当实时聊天分配给座席时，座席将收到浏览器通知。 但他们偶尔会看不到他们。 我们添加了一个[通知声音](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"}，以帮助防止以后错过通知。
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
