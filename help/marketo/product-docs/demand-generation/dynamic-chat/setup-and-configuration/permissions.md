@@ -3,9 +3,9 @@ description: 权限 — Marketo文档 — 产品文档
 title: 权限
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '712'
 ht-degree: 4%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 4%
 
    ![](assets/permissions-4.png)
 
-1. 左侧列出了可用的权限项。 您可以选择逐个添加权限，也可以一次添加所有权限。 在本例中，只有一个可用，因此我们将添加该一个。 单击&#x200B;**+**&#x200B;符号。
+1. 左侧列出了可用的权限项。 您可以选择逐个添加权限，也可以一次添加所有权限。 单击&#x200B;**+**&#x200B;符号。
 
    ![](assets/permissions-5.png)
 
@@ -140,7 +140,7 @@ ht-degree: 4%
 <table>
 <thead>
   <tr>
-    <th style="width:25%">用户档案</th>
+    <th style="width:25%">配置文件</th>
     <th>默认权限</th>
   </tr>
 </thead>
