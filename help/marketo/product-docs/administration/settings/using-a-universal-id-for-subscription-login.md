@@ -4,9 +4,9 @@ description: 使用通用ID进行订阅登录 — Marketo文档 — 产品文档
 title: 使用通用ID进行订阅登录
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
+source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ ht-degree: 0%
 ## 在订阅之间切换 {#switching-between-subscriptions}
 
 使用通用ID，您可以查看已登录的订阅，并选择您有权登录的其他订阅。 在大多数情况下，您无需注销再重新登录，即可在它们之间切换。
+
+如果同时启用了[单点登录](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)和通用ID，则必须设置“绕过单点登录”权限以在订阅之间切换。
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 

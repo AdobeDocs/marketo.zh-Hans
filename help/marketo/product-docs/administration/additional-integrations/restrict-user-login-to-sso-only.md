@@ -4,9 +4,9 @@ description: 限制用户仅登录SSO - Marketo文档 — 产品文档
 title: 限制用户仅登录SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果选择&#x200B;**[!UICONTROL 要求SSO]**，则可以通过在设置角色时选中&#x200B;**[!UICONTROL 绕过单点登录]**&#x200B;选项来将[用户角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)从此限制中排除。 这将允许用户正常登录。 例如，管理员用户可能仍需要通过登录屏幕登录Marketo。
+>如果选择&#x200B;**[!UICONTROL 要求SSO]**，则可以通过在设置角色时选中&#x200B;**[!UICONTROL 绕过单点登录]**&#x200B;选项来将[用户角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)从此限制中排除。 这将允许用户正常登录。 例如，管理员用户可能仍需要通过登录屏幕登录Marketo。 如果同时启用了SSO和通用ID，则必须设置“绕过单点登录”权限以在订阅之间切换。
 
 >[!CAUTION]
 >
 >邀请新用户时，他们将收到邀请电子邮件。 但是，如果选择&#x200B;**[!UICONTROL 要求SSO]**，他们将不会收到这些电子邮件，除非将其分配给设置为&#x200B;**[!UICONTROL 绕过单点登录]**&#x200B;的角色。
 
-就是这样！ 现在，所有用户（有权绕过单点登录的用户除外）将被限制为仅使用SSO登录。
+操作完成！现在，所有用户（有权绕过单点登录的用户除外）将被限制为仅使用SSO登录。
 
 >[!MORELIKETHIS]
 >
