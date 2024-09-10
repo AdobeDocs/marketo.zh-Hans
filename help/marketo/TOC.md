@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9341'
 ht-degree: 0%
 
 ---
@@ -1460,7 +1460,6 @@ ht-degree: 0%
             + [如何修复连接到Salesforce时“我们无法验证您的请求”的问题？](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [如何防止自我观点？](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置跟踪的工作原理是什么？](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
-            + [Sales Insight操作如何处理电子邮件重复数据消除？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [我的帐户被锁住了。 我该怎么办？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Sales Insight Actions是否与Salesforce Lightning兼容？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Sales Insight Actions支持哪些浏览器？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
@@ -1487,7 +1486,6 @@ ht-degree: 0%
             + [Sales Insight Actions和GDPR合规性](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + 管理联系人{#managing-contacts}
                + [对人员执行批量操作](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-               + [创建和删除联系人](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [管理组](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [人员页面列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + 电话{#phone}
@@ -1974,6 +1972,7 @@ ht-degree: 0%
          + [发行说明： 2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
          + [发行说明： 2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [发行说明： 2024年6月](release-notes/previous-releases/2024/release-notes-june-24.md)
+         + [发行说明： 2024年7月](release-notes/previous-releases/2024/release-notes-july-24.md)
       + 2023 {#2023}
          + [发行说明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [发行说明： 2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)

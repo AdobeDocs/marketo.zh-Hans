@@ -3,9 +3,9 @@ description: 管理组 — Marketo文档 — 产品文档
 title: 管理组
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -66,10 +66,6 @@ ht-degree: 0%
 1. 单击&#x200B;**组操作**&#x200B;并选择&#x200B;**创建联系人并添加到组**。
 
    ![](assets/manage-groups-4.png)
-
-   >[!NOTE]
-   >
-   >这将一次添加一个联系人。 要同时添加多个联系人，请执行[这些步骤](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)。
 
 1. 填写联系人信息，然后单击&#x200B;**创建**（或单击&#x200B;**创建并添加新项**&#x200B;以添加其他项）。
 
