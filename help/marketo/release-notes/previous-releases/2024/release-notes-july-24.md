@@ -2,9 +2,9 @@
 description: 发行说明 — 2024年7月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 7 月
 feature: Release Information
-source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 3%
 
 ---
@@ -65,8 +65,8 @@ ht-degree: 3%
   </tr>
      <tr> 
    <td><strong>Marketo REST API更改</strong>：我们即将对<a href="https://developers.marketo.com/rest-api/user-management/">用户管理API</a>进行细微更改。 <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">浏览用户</a>和<a href="https://developers.marketo.com/rest-api/user-management/#delete_user">删除用户</a>端点现在都支持<a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">目标帐户管理</a>用户。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
  </tbody> 
 </table>

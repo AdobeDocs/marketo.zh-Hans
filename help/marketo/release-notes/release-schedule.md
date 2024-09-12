@@ -4,9 +4,9 @@ description: 发行计划 - Marketo 文档 - 产品文档
 title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '130'
 ht-degree: 9%
 
 ---
@@ -33,33 +33,33 @@ _发行日期/功能可能会发生更改_
    <th width="250px">状态</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">’24年1月</a></td>
-   <td>2024年1月12日</td>
-   <td>已发货</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-mar-24.md">’24年3月</a></td>
-   <td>2024年3月8日</td>
-   <td>已发货</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-apr-24.md">’24年4月</a></td>
-   <td>2024年4月26日</td>
-   <td>已发货</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/current.md">’24年6月</a></td>
-   <td>2024年6月7日</td>
-   <td>已发货</td>
-  </tr>
-  <tr> 
-   <td>’24年7月</td>
+   <td><a href="/help/marketo/release-notes/current.md">’24年7月</a></td>
    <td>2024年7月26日</td>
    <td>进行中</td>
   </tr>
   <tr> 
    <td>’24年10月</td>
    <td>2024年10月4</td>
+   <td>按计划</td>
+  </tr>
+  <tr> 
+   <td>’25年1月</td>
+   <td>2025年1月17日</td>
+   <td>按计划</td>
+  </tr>
+  <tr> 
+   <td>’25年3月</td>
+   <td>2025年3月7日</td>
+   <td>按计划</td>
+  </tr>
+  <tr> 
+   <td>’25年4月</td>
+   <td>2025年4月25日</td>
+   <td>按计划</td>
+  </tr>
+  <tr> 
+   <td>’25年6月</td>
+   <td>2025年6月6日</td>
    <td>按计划</td>
   </tr>
  </tbody>
