@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
+source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '420'
 ht-degree: 2%
 
 ---
@@ -74,6 +74,10 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* **新Munchkin版本**：从2024年9月17日开始，[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164将开始推广到&#x200B;**管理员** > **Treasure Chest**&#x200B;中启用了“Munchkin Beta”设置的Marketo Engage实例。 该应用程序计划于10月29日开始推广到所有其他实例。 此版本会更新Munchkin Cookie的创建。 功能没有变化。
-
 * **QR代码弃用**： 2024年10月4日，将弃用推送通知和应用程序内消息传送资产中使用的该QR代码功能。 这包括为新的测试设备使用二维码，以及创建具有二维码的新资产。 弃用使用率较低的功能使我们能够将其资源重新分配到Marketo Engage的整体维护中。
+
+* **Munchkin更改**
+
+   * **新版本**：从2024年9月17日开始，[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164将开始推广到&#x200B;**管理员** > **Treasure Chest**&#x200B;中启用了“Munchkin Beta”设置的Marketo Engage实例。 该应用程序计划于10月29日开始推广到所有其他实例。 此版本会更新Munchkin Cookie的创建。 功能没有变化。
+
+   * **已移除URL中的字符**：Munchkin JS创建的“访问网页”和“点击链接”活动现在将从所有URL字段中移除非URL编码的控制字符。 此更改旨在防止与这些类型的字符传播到不支持这些字符且在Marketo Engage中没有有效使用的系统相关的错误。
