@@ -3,7 +3,7 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 2%
@@ -32,7 +32,7 @@ ht-degree: 2%
    <th style="width:25%">文档</th>
   </tr>
     <tr> 
-   <td><strong>增强了交互式网络研讨会参与信息板中的注册数据</strong>：现在，您可以在参与信息板中提供的报表中，查看哪些公司的出席率最高，并了解公司、标题和行业的最新情况。</td> 
+   <td><strong>增强了交互式网络研讨会参与信息板中的注册数据</strong>：您现在可以在参与信息板中提供的报表中，查看哪些公司的出席人数最多，并了解公司、职称和行业的最新情况。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
