@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9345'
 ht-degree: 0%
 
 ---
@@ -627,6 +627,7 @@ ht-degree: 0%
          + [启用/禁用Salesforce同步](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [隐含的Salesforce操作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [使用OAuth 2.0登录](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce同步积压量度](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
          + [Salesforce同步错误](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce同步状态](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [使用人员帐户](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
@@ -1748,7 +1749,6 @@ ht-degree: 0%
             + [按状态人员报表](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人员绩效报表](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [报表类型概述](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [Salesforce同步可观察性指标仪表板](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [网页活动报表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [已查看的网页、网页活动报表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + 电子邮件分析{#email-insights}
