@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
+source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 1%
+source-wordcount: '485'
+ht-degree: 2%
 
 ---
 
@@ -72,18 +72,6 @@ ht-degree: 1%
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong>Salesforce同步积压量度</strong>：您现在可以监视同步吞吐量和积压趋势，以计划和计划CRM更新以获得最佳的同步体验。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
   </tr>
    <tr> 
    <td><strong>电子邮件性能报表增强功能</strong>：对电子邮件报表量度和活动跟踪进行了多项改进，提供了更多见解并提高了准确性。
