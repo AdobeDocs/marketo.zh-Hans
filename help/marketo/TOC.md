@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
-source-wordcount: '9345'
+source-wordcount: '9370'
 ht-degree: 0%
 
 ---
@@ -1099,6 +1099,11 @@ ht-degree: 0%
          + 了解电子邮件编辑器{#understanding-the-email-editor}
             + [了解电子邮件事件日志](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [使用富文本编辑器](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+         + Beta新电子邮件编辑器{#beta-new-email-editor}
+            + [创建电子邮件](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
+            + [创建电子邮件模板](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
+            + [如何访问电子邮件](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
+            + [如何访问电子邮件模板](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
          + 创建电子邮件{#creating-an-email}
             + [批准电子邮件](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [创建纯文本电子邮件](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1231,7 +1236,7 @@ ht-degree: 0%
             + [Gmail用户的电子邮件连接](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail未提取Sales Connect签名](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [如何添加模板](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
-            + [如何安装ToutApp浏览器扩展](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
+            + [安装适用于Gmail的Sales Connect电子邮件插件](product-docs/marketo-sales-connect/email-plugins/gmail/install-the-sales-connect-email-plugin-for-gmail.md)
             + [如何从Gmail发送电子邮件](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
             + [如何从Gmail卸载Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
             + [阻止次要Gmail地址与Sales Connect集成](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
@@ -1246,7 +1251,7 @@ ht-degree: 0%
                + [如何从Outlook卸载Sales Connect](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365加载项{#office-365-add-in}
                + [将电子邮件添加到Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-               + [安装适用于Office365 Mac OS、Windows和Online的Sales Connect](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
+               + [安装Sales Connect Email Plugin for Outlook(Online、Mac和Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
       + 电子邮件{#email}
          + 指挥中心{#command-center}
             + [命令中心概述](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)

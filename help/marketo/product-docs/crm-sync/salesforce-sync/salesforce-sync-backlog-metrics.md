@@ -4,7 +4,7 @@ title: Salesforce同步积压量度
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -93,7 +93,7 @@ ht-degree: 0%
 
 当进行大量更新（例如更改字段值）时，许多记录会更改，从而导致出现新的SysModStamps。 然后，大量人员记录更新需要在Marketo Engage和您的CRM之间重新同步，有时会创建临时积压。
 
-## 管理同步积压的最佳实践 {#best-practices-for-managing-sync-backlogs}
+## 管理同步积压的最佳实践 {#best-practices}
 
 **同步下的字段**：确保同步下的字段仅为需要同步的字段。 更改字段会增加同步积压，而优先级较低的字段可能会停止或减慢正在同步的更重要的字段。 联系[Marketo Engage支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以移除同步下的字段。
 
@@ -105,4 +105,4 @@ ht-degree: 0%
 
 **在非关键时间安排批量更新**：查看您的数据同步模式以识别非关键时间段。 查看是否可以在这些非关键期间计划批量更新。
 
-如果您遵循上述所有最佳实践，但仍遇到大量积压问题，请联系[Marketo Engage支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+如果您正在遵循上述所有最佳实践，但仍遇到大量积压问题，请联系[Marketo Engage支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
