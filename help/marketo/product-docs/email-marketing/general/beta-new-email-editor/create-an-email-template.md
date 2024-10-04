@@ -4,10 +4,10 @@ title: 创建电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 5%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
@@ -39,13 +39,21 @@ ht-degree: 5%
 
 ## 设计模板 {#design-your-template}
 
-在设计屏幕中，您可以选择几个选项。 从头开始设计，导入您自己的HTML，或选择保存的模板（我们的示例或您自己的模板）。
+在“设计模板”页面中，可以从几个选项中进行选择。 从头开始设计，导入您自己的HTML，或选择现有模板（我们的示例或您已保存的模板）。
 
 >[!BEGINTABS]
 
 >[!TAB 从头开始设计]
 
-1. 从头开始选择&#x200B;**设计**。
+通过简单的拖放操作添加和移动结构元素来定义内容。
+
+## 从头开始设计 {#design-from-scratch}
+
+1. 在“设计您的模板”页面中，选择&#x200B;**从头开始设计**。
+
+   屏幕快照
+
+1. 文本。
 
    屏幕快照
 
@@ -55,13 +63,39 @@ ht-degree: 5%
 
 >[!TAB 导入HTML]
 
-1. 选择导入HTML。
+您可以导入现有HTML内容来设计电子邮件模板。 内容可以是：
+
+* 具有合并样式表的HTML文件
+
+* 包含HTML文件、样式表(.css)和图像的.zip文件
+
+>[!NOTE]
+>
+>.zip文件结构没有限制。 但是，引用必须是相对的，并且适合.zip文件夹的树结构。
+
+## 导入您的HTML {#import-your-html}
+
+1. 在“设计模板”页中，选择&#x200B;**导入HTML**。
 
    屏幕快照
 
-1. 文本.
+1. 拖放所需的HTML或.zip文件并单击&#x200B;**导入**。
 
    屏幕快照
+
+   >[!CAUTION]
+   >
+   >在HTML文件中使用`<table>`标记作为第一层可能会导致样式丢失，包括顶层标记中的背景和宽度设置。
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+在TEST ACCOUNT中： SETTINGS/STYLES/HTML转换器
 
 >[!TAB 示例模板]
 
