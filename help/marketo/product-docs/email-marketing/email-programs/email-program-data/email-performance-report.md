@@ -4,9 +4,9 @@ description: 电子邮件性能报表 — Marketo文档 — 产品文档
 title: 电子邮件性能报表
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 2cfb8381d3207efb00b7d4751e21244a188a411e
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -91,5 +91,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在营销活动电子邮件报告中筛选Assets](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [电子邮件链接性能报告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+>* [在营销活动电子邮件报告中筛选Assets](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
+>* [筛选电子邮件性能报告中删除/合并的记录](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
+>* [电子邮件链接性能报告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}

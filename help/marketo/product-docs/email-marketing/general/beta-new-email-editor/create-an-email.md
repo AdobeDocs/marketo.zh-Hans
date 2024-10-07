@@ -4,9 +4,9 @@ title: 创建电子邮件
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '357'
 ht-degree: 3%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 3%
 >
 >本文仅面向新Marketo Engage电子邮件编辑器封闭测试版的成员。 请不要传播。
 
-1. 登录到[Adobe Experience Cloud](https://experiencecloud.adobe.com/)。
-
-   屏幕快照???
-
-   列出GETMARKETO之前的每个步骤???
+1. 通过[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登录Marketo Engage。
 
 1. 在“我的Marketo”中，选择&#x200B;**设计工作室**。
 
