@@ -4,9 +4,9 @@ title: 创建电子邮件
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '363'
 ht-degree: 3%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 3%
 # 创建电子邮件 {#create-an-email}
 
 在此处介绍文本。
+
+>[!IMPORTANT]
+>
+>本文仅面向新Marketo Engage电子邮件编辑器封闭测试版的成员。 请不要传播。
 
 1. 登录到[Adobe Experience Cloud](https://experiencecloud.adobe.com/)。
 
@@ -36,6 +40,8 @@ ht-degree: 3%
 1. 输入电子邮件名称和主题行。 单击&#x200B;**创建**。
 
    ![](assets/create-an-email-4.png)
+
+就是这样。 现在该设计您的电子邮件了。
 
 ## 设计电子邮件 {#design-your-email}
 
@@ -138,3 +144,7 @@ In this mode, you can only personalize your text, add links, or include assets t
    屏幕快照
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[如何访问电子邮件](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}

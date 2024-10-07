@@ -4,10 +4,10 @@ title: 概述
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 12%
+source-wordcount: '102'
+ht-degree: 1%
 
 ---
 
@@ -15,14 +15,18 @@ ht-degree: 12%
 
 在此处介绍文本。
 
-重要标记：Beta文档，请勿分发
+>[!IMPORTANT]
+>
+>本文仅面向新Marketo Engage电子邮件编辑器封闭测试版的成员。 请不要传播。
 
-链接到所有文档
+**可用文章**
 
-* [创建电子邮件](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}
+* [创建电子邮件](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}：了解如何在新的编辑器中创建和设计电子邮件。
 
-* [如何访问电子邮件](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
+* [如何访问电子邮件](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}：了解如何从Marketo Engage访问您的新编辑器电子邮件。
 
-* [创建电子邮件模板](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}
+* [创建电子邮件模板](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}：了解如何在新的编辑器中创建和设计电子邮件模板。
 
-* [如何访问电子邮件模板](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}
+* [如何访问电子邮件模板](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}：了解如何从Marketo Engage访问您的新编辑器电子邮件。
+
+^^^需要最后一份文件吗？

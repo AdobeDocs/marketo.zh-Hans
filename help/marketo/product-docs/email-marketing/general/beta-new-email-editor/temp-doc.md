@@ -4,7 +4,7 @@ title: 临时文档
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 3%
@@ -39,6 +39,7 @@ ht-degree: 3%
 单击启用条件内容以添加动态内容，并根据条件规则将内容调整到目标用户档案。
 单击左窗格中的链接选项卡，以显示要跟踪的内容的所有URL。 您可以根据需要修改其跟踪类型或标签并添加标记。
 如果需要，您可以通过单击高级菜单中的“切换到代码编辑器”，进一步个性化电子邮件。 这允许您编辑电子邮件源代码，例如添加跟踪或自定义HTML标签。
+
 注意
 切换到代码编辑器后，无法还原到此电子邮件的可视设计器。
 
