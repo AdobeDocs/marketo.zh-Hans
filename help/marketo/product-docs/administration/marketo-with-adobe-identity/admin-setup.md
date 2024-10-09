@@ -3,10 +3,10 @@ description: 管理员设置 — Marketo文档 — 产品文档
 title: 管理员设置
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '222'
+ht-degree: 2%
 
 ---
 
@@ -44,9 +44,11 @@ ht-degree: 0%
 
    ![](assets/admin-setup-5.png)
 
-1. 为您的产品配置文件提供一个名称（显示名称和描述是可选的），然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 为您的产品配置文件提供一个名称（显示名称和描述是可选的），然后单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/admin-setup-6.png)
+
+1. 无需选择任何服务。 单击&#x200B;**[!UICONTROL 保存]**。
 
 >[!NOTE]
 >
