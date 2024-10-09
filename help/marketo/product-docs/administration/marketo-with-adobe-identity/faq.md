@@ -3,9 +3,9 @@ description: AdobeIdentity Management常见问题解答 — Marketo文档 — �
 title: AdobeIdentity Management常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '1342'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ AdobeIdentity Management System包含三个组件。
 
 **现有Marketo Engage订阅何时将与IMS集成？**
 
-现有的Marketo订阅将在今年晚些时候迁移到AdobeIdentity Management System。 Marketo支持部门将无法提供有关Adobe IMS迁移的任何更新。 Adobe客户团队将在未来几个月内完成估计的时间表。
+现有Marketo Engage订阅目前正在根据任何销售活动迁移到Adobe IMS，包括续订、重新签约活动和/或附录。 从2024年10月起，支持销售活动以外的迁移。
 
 **迁移后，Marketo EngageURL是否将保持不变？**
 
@@ -34,7 +34,7 @@ AdobeIdentity Management System包含三个组件。
 
 可以。迁移后，Marketo Engage将从experience.adobe.com提供给Adobe Experience Cloud。 您需要与IT团队合作，允许列表本文顶部[列出的所有Adobe域](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止对Marketo Engage访问的中断。
 
-以前在engage-xx.marketo.com域&#x200B;_上Marketo Engage资源的链接和书签将继续正常运行。_&#x200B;但是，您必须首先登录到要导航到的URL的Marketo Engage实例。 例如，要导航到Munchkin ID为123-ABC-456的Smart Campaign实例书签，您需要先登录Munchkin ID为123-ABC-456的Marketo Engage实例。
+以前在engage-xx.marketo.com域&#x200B;_上Marketo Engage资源的链接和书签将继续正常运行。_&#x200B;但是，您必须首先登录到要导航到的URL的Marketo Engage实例。 例如，要导航到Munchkin ID为123-ABC-456的实例中Smart Campaign的书签，您需要先登录Munchkin ID为123-ABC-456的Marketo Engage实例。
 
 **Adobe产品管理员和Marketo Engage管理员之间有何区别？**
 
@@ -50,7 +50,13 @@ AdobeIdentity Management System包含三个组件。
 
 **如果我们与IMS集成，我们应当联系谁获取支持？**
 
-您应遵循联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的标准流程。
+* 预用户迁移： [营销国家社区](https://nation.marketo.com/t5/support/ct-p/Support)或电子邮件`customercare@marketo.com`中的文件支持案例。
+
+* 用户迁移后： [营销国家社区](https://nation.marketo.com/t5/support/ct-p/Support)或电子邮件`customercare@marketo.com`中的文件支持案例。
+
+* 支持后迁移完成：产品支持管理员可以通过Experience League支持门户提交案例。
+
+如果您获得最终成功，则可以访问Admin Console迁移白手套服务。 请联系Adobe客户团队（您的客户经理）寻求帮助。
 
 **如果我使用Adobe身份访问其他Adobe应用程序，能否使用该身份访问Marketo？**
 
@@ -106,13 +112,13 @@ Adobe IMS当前不支持Marketo的设备授权功能等任何功能。
 
 **如果我迁移到Adobe身份后，我的用户登录与电子邮件不符，该怎么办？**
 
-登录名不同于其电子邮件地址的当前Marketo用户，在迁移到Adobe身份后，将不再使用该凭据登录。 Adobe身份始终使用用户的电子邮件地址进行身份验证。
+登录名不同于其电子邮件地址的当前Marketo Engage用户在迁移到Adobe身份后，将不再使用该凭据登录。 Adobe身份始终使用用户的电子邮件地址进行身份验证。 您可以在[account.adobe.com](https://account.adobe.com){target="_blank"}上更新Adobe身份电子邮件地址。
 
 **如果我的订阅使用IP限制设置，则在Adobe身份迁移之后会发生什么情况？**
 
 将订阅登记到Adobe身份后，IP限制设置不会迁移到Adobe Admin Console。 Marketo的IP限制设置包括仅允许从特定IP地址访问，以及阻止特定IP地址访问。 目前，AdobeIdentity Management System不支持IP限制功能。
 
-Identity Management SystemAdobe将于2024年发布，该功能将支持仅允许特定IP地址，并支持当前使用此功能的Marketo用户的过渡。 在功能发布之前，当前使用此功能的用户将不会进行用户迁移。 交付功能后，用户将收到其迁移已安排的通知。 有关该功能的更多信息，将在可用时提供。
+Identity Management SystemAdobe功能将于2025年初推出，将发布一项支持仅允许特定IP地址的功能，支持当前使用此功能的Marketo用户进行过渡。 在功能发布之前，当前使用此功能的用户将不会进行用户迁移。 交付功能后，用户将收到其迁移已安排的通知。 有关该功能的更多信息，将在可用时提供。
 
 当前使用IP限制并阻止特定地址访问的用户在迁移到Adobe身份后将无法再使用此功能，因为AdobeIdentity Management System不支持此功能。
 
@@ -123,3 +129,9 @@ Identity Management SystemAdobe将于2024年发布，该功能将支持仅允许
 **我有多个订阅，但并非所有订阅都启用了单点登录。 Adobe身份迁移后会发生什么情况？**
 
 将订阅登记到Adobe身份后，将在Adobe组织级别设置单点登录(SSO)。 这意味着SSO适用于Adobe组织中的所有产品实例。设置SSO后，它将应用于该Adobe组织中的所有Marketo实例。以前，Marketo在实例级别支持此设置。 AdobeIdentity Management System不支持此功能。
+
+**我现在必须导航到Experience Cloud才能访问Marketo Engage。 是否有办法简化此流程？**
+
+可以。您可以为单击Marketo Engage实例入口页面上的&#x200B;**启动**&#x200B;按钮后启动的链接创建浏览器书签，以绕过该页面。
+
+![](assets/faq-1.png)

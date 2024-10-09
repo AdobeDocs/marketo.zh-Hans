@@ -3,9 +3,9 @@ description: 迁移到Adobe身份 — Marketo文档 — 产品文档
 title: 迁移到Adobe身份
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '2252'
+source-wordcount: '2300'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,12 @@ Marketo自助用户迁移控制台工具包含两个选项卡。
 
 * **“迁移状态”选项卡**
 * **用户迁移选项卡**
+
+完成自助服务迁移需要3个主要步骤。
+
+1. 迁移所有符合条件的电子邮件地址验证用户（“用户迁移”选项卡）
+1. 跳过所有不符合条件的用户和任何不符合条件的用户（“用户迁移”选项卡）
+1. 完成步骤1和2后，完成迁移确认（“迁移状态”选项卡）
 
 ### “迁移状态”选项卡 {#migration-status-tab}
 
