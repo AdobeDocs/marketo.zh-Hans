@@ -3,16 +3,20 @@ description: 添加网络研讨会团队 — Marketo文档 — 产品文档
 title: 添加网络研讨会团队
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '411'
+ht-degree: 0%
 
 ---
 
 # 添加网络研讨会团队 {#add-a-webinar-team}
 
 交互式网络研讨会中的网络研讨会团队包含所有有助于在Adobe Connect中成功举办网络研讨会的角色。 这包括演示者和联合主机。
+
+>[!IMPORTANT]
+>
+>强烈建议您[设计网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} __&#x200B;之前，添加演示者或联合主持人。
 
 >[!NOTE]
 >
@@ -22,7 +26,9 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[创建交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [创建交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [设计交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## 添加联主机 {#add-a-co-host}
 
@@ -70,4 +76,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[创建交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[创建交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
