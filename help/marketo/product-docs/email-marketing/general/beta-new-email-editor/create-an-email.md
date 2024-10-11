@@ -4,10 +4,10 @@ title: 创建电子邮件
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 3%
+source-wordcount: '1063'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 3%
 
 就是这样。 现在该设计您的电子邮件了。
 
-## 设计电子邮件 {#design-your-email}
+## 选择您的内容类型 {#choose-your-content-type}
 
 1. 在刚刚创建的电子邮件中，单击&#x200B;**+添加电子邮件内容**。
 
@@ -47,27 +47,25 @@ ht-degree: 3%
 
 1. 加载“创建电子邮件”页面。 您可以从以下几个选项中进行选择：
 
-* [从头开始设计](#design-from-scratch)
+* [使用电子邮件编辑器从头开始设计](#design-from-scratch)
 
-* [导入您自己的HTML](#import-html)
+* [通过HTML或zip文件导入您自己的HTML](#import-html)
 
 * [选择现有模板](#choose-a-template)（我们的一个示例或您已保存的示例）
 
 ### 从头开始设计 {#design-from-scratch}
 
-简要介绍
+在电子邮件编辑器中从头开始时，请使用以下选项来定义您的内容。
 
-1. 文本
+1. 在“设计您的模板”主页中，选择&#x200B;**从头开始设计**。
 
-   屏幕快照
+向电子邮件添加结构和内容。
 
-1. 文本
+添加图像。
 
-   屏幕快照
+个性化您的内容。
 
-1. 文本
-
-   屏幕快照
+查看和更新链接。
 
 ### 导入HTML {#import-html}
 
@@ -89,13 +87,11 @@ ht-degree: 3%
 
    屏幕快照
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+>[!NOTE]
+>
+>上传HTML内容后，您的内容将处于兼容模式。 在此模式下，您只能对文本进行个性化，向内容添加链接或包含资源。
 
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+您可以使用[电子邮件编辑器工具](#add-structure-and-content)对导入的内容进行所需的更改。
 
 ### 选择模板 {#choose-a-template}
 
@@ -109,9 +105,9 @@ In this mode, you can only personalize your text, add links, or include assets t
 
 >[!TAB 示例模板]
 
-从四个现成模板中选择一个模板，为您的电子邮件设计抢先体验。
+选择我们的其中一个现成模板，为您的电子邮件设计抢先一步。
 
-1. 在创建电子邮件页面中，选择“示例模板”。
+1. 在“创建电子邮件”页面中，选择&#x200B;**示例模板**。
 
    屏幕快照
 
@@ -141,6 +137,97 @@ In this mode, you can only personalize your text, add links, or include assets t
 
 >[!ENDTABS]
 
->[!MORELIKETHIS]
+## 添加结构和内容 {#add-structure-and-content}
+
+1. 要开始创建或修改内容，请将项目从“结构”拖放到画布上。 在右侧的窗格中编辑其设置。
+
+   >[!TIP]
+   >
+   >选择n：n列组件以定义所选列数（3到10之间）。 您还可以通过移动列下方的箭头来定义每列的宽度。
+
+   屏幕快照
+
+   >[!NOTE]
+   >
+   >每个列大小不能小于结构组件总宽度的10%。 只能删除空列。
+
+1. 从内容部分中，将所需项目拖放到一个或多个结构组件中。
+
+   屏幕快照
+
+1. 可通过“设置”或“样式”选项卡自定义每个组件。 更改字体、文本样式、边距等。
+
+屏幕快照
+
+### 添加Assets {#add-assets}
+
+从Asset选取器中，您可以直接选择存储在Assets库中的资源。 双击包含资产的文件夹。 将它们拖放到结构组件中。
+
+插入个性化字段以根据用户档案属性、受众成员资格、上下文属性等自定义您的内容。
+
+单击启用条件内容以添加动态内容，并根据条件规则将内容调整到目标用户档案。
+
+单击左窗格中的链接选项卡，以显示要跟踪的内容的所有URL。 您可以根据需要修改其跟踪类型或标签并添加标记。
+
+如果需要，您可以通过单击高级菜单中的“切换到代码编辑器”，进一步个性化电子邮件。 这允许您编辑电子邮件源代码，例如添加跟踪或自定义HTML标签。
+
+注意
+切换到代码编辑器后，无法还原到此电子邮件的可视设计器。
+
+内容准备就绪后，单击模拟内容按钮以检查渲染。 您可以选择桌面视图或移动设备视图。
+
+准备就绪后，单击保存
+
+
+
+
+
+## 检查警报 {#check-alerts}
+
+设计内容时，如果缺少关键设置，会在界面（屏幕右上方）中显示警报。
+
+警报有两种类型：
+
+**个警告**
+
+警告指代建议和最佳实践，例如：
+
+* **电子邮件正文中不存在选择退出链接**：虽然取消订阅链接是必需的，但最佳做法是将它们添加到电子邮件正文中。
+
+>[!NOTE]
 >
->[如何访问电子邮件](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
+>[操作电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)（非营销）不需要添加取消订阅选项。
+
+* **HTML的文本版本为空**：您必须为无法显示HTML内容时定义电子邮件正文的文本版本。
+
+* **电子邮件正文中存在空链接**：验证电子邮件中的所有链接是否正确。
+
+* **电子邮件大小已超出100KB的限制**：若要获得最佳投放，请确保电子邮件大小不超过100KB。
+
+**个错误**
+
+在解决错误之前，您无法发送或测试电子邮件：
+
+* **主题行缺失**：需要电子邮件主题行。
+
+* **邮件的电子邮件版本为空**：当尚未配置电子邮件内容时，会发生此错误。
+
+## 测试电子邮件
+
+定义消息内容后，您可以使用测试用户档案对其进行预览、发送校样并控制它在常用桌面、移动和基于Web的客户端中的呈现方式。 如果插入个性化内容，则可以使用测试用户档案数据检查该内容在消息中的显示方式。
+
+要预览电子邮件内容，请单击&#x200B;**模拟内容**，然后添加测试用户档案，以使用测试用户档案数据检查邮件。
+
+屏幕快照
+
+## 引用电子邮件 {#reference-an-email}
+
+在新编辑器中创建电子邮件后，您可以在智能营销活动或智能列表中引用该电子邮件，就像在引用任何其他电子邮件时一样。
+
+* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，[在智能列表中引用它。
+
+* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，[在Smart Campaign中引用它。
+
+>[!NOTE]
+>
+>只能引用保存的电子邮件。 新电子邮件编辑器中没有“已批准”状态。

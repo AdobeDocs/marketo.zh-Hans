@@ -4,9 +4,9 @@ title: 创建电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 2%
 >[!IMPORTANT]
 >
 >本文仅面向新Marketo Engage电子邮件编辑器封闭测试版的成员。 请不要传播。
+
+>[!NOTE]
+>
+>新电子邮件编辑器中的电子邮件模板只能用于在新电子邮件编辑器中创建电子邮件。 在旧电子邮件编辑器中无法引用它们。
 
 1. 通过[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登录Marketo Engage。
 
@@ -79,17 +83,19 @@ ht-degree: 2%
 
    屏幕快照
 
+   >[!NOTE]
+   >
+   >上传HTML内容后，您的内容将处于兼容模式。 在此模式下，您只能对文本进行个性化，向内容添加链接或包含资源。
+
+1. 要利用Email Designer内容组件，请访问HTML转换器选项卡，然后单击转换。
+
+   屏幕快照
+
    >[!CAUTION]
    >
    >在HTML文件中使用`<table>`标记作为第一层可能会导致样式丢失，包括顶层标记中的背景和宽度设置。
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+现在，您可以根据需要使用可视电子邮件编辑器对导入的文件进行个性化设置。
 
 ### 选择模板 {#choose-a-template}
 
@@ -124,7 +130,3 @@ In this mode, you can only personalize your text, add links, or include assets t
    屏幕快照
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[如何访问电子邮件模板](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

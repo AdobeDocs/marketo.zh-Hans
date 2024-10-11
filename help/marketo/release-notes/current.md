@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '483'
 ht-degree: 2%
 
 ---
@@ -54,8 +54,8 @@ ht-degree: 2%
   </tr>
    <tr> 
    <td><strong>智能列表“设置为影响”计数</strong>：查看编辑Smart Campaign的资格规则时受影响的人员数量。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -65,8 +65,8 @@ ht-degree: 2%
   </tr>
    <tr> 
    <td>导航边栏中的<strong>我的帐户按钮</strong>：对于已迁移到AdobeIdentity Management System的用户，左侧导航边栏中新增的“我的帐户”按钮允许您配置时区并访问订阅详细信息。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
   <tr> 
    <td> </td> 

@@ -4,30 +4,22 @@ title: 如何访问电子邮件
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '80'
 ht-degree: 10%
 
 ---
 
 # 如何访问电子邮件 {#how-to-access-an-email}
 
-在此处介绍文本。
+在新编辑器中创建电子邮件后，您可以在智能营销活动或智能列表中引用该电子邮件。
 
 >[!IMPORTANT]
 >
 >本文仅面向新Marketo Engage电子邮件编辑器封闭测试版的成员。 请不要传播。
 
-1. 登录到[Adobe Experience Cloud](https://experiencecloud.adobe.com/)。
-
-   屏幕快照
-
-   列出GETMARKETO之前的每个步骤？
-
-1. 在“我的Marketo”中，选择“设计工作室”。
-
-   屏幕快照
+1. 通过[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登录Marketo Engage。
 
 1. 文本
 
