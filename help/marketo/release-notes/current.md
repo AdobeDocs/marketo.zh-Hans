@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '487'
 ht-degree: 2%
 
 ---
@@ -78,7 +78,7 @@ ht-degree: 2%
    <ul>
    <li>从电子邮件性能量度中过滤删除和合并的人员</li>
    <li>电子邮件在等待响应活动三天后现在被分类为<i>已中止</i></li>
-   <li>在营销活动级别打开的帐户电子邮件</li>
+   <li>每个智能营销活动将电子邮件打开数计为单独唯一打开</li>
    <li>通过细化跟踪像素位置改进了电子邮件活动跟踪</li>
    </td> 
    <td>已发货</td>

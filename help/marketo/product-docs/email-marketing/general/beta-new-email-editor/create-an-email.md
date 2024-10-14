@@ -4,9 +4,9 @@ title: 创建电子邮件
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1064'
 ht-degree: 0%
 
 ---
@@ -222,7 +222,7 @@ ht-degree: 0%
 
 ## 引用电子邮件 {#reference-an-email}
 
-在新编辑器中创建电子邮件后，您可以在智能营销活动或智能列表中引用该电子邮件，就像在引用任何其他电子邮件时一样。
+在新编辑器中创建电子邮件后，您可以在智能营销活动和/或智能列表中引用该电子邮件，就像您在处理任何其他电子邮件时所做的那样。
 
 * 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，[在智能列表中引用它。
 
