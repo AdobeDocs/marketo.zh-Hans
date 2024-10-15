@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9370'
 ht-degree: 0%
 
 ---
@@ -1100,10 +1100,9 @@ ht-degree: 0%
             + [了解电子邮件事件日志](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [使用富文本编辑器](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + Beta新电子邮件编辑器{#beta-new-email-editor}
-            + [创建电子邮件](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
-            + [创建电子邮件模板](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
-            + [如何访问电子邮件](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
-            + [如何访问电子邮件模板](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
+            + [新的电子邮件编辑器概述（测试版）](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
+            + [电子邮件创作](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
+            + [电子邮件模板](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
          + 创建电子邮件{#creating-an-email}
             + [批准电子邮件](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [创建纯文本电子邮件](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
