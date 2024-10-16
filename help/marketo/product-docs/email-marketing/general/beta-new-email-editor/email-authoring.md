@@ -4,9 +4,9 @@ title: 电子邮件创作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1474'
 ht-degree: 1%
 
 ---
@@ -196,14 +196,38 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY?
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-打开导航树以访问特定结构及其列/组件以进行更细粒度的编辑。
+打开导航树以访问特定结构及其列/组件以进行更细粒度的编辑。 要访问，请单击导航树图标。
 
-1. 要访问，请单击导航树图标。
+![](assets/authoring-layers-settings-styles-1.png)
 
-屏幕快照
+下面的示例概述了在由列组成的结构组件内调整填充和垂直对齐的步骤。
 
+1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
+1. 在列工具栏中，单击&#x200B;_[!UICONTROL 选择列]_&#x200B;工具，然后选择要编辑的工具。
 
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL 设置]_&#x200B;和&#x200B;_[!UICONTROL 样式]_&#x200B;选项卡中。
+
+   ![](assets/authoring-layers-settings-styles-2.png)
+
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL 样式]_&#x200B;选项卡，然后根据需要进行更改：
+
+   * 对于&#x200B;**[!UICONTROL 背景]**，根据需要更改背景颜色。
+
+     清除透明背景的复选框。 启用&#x200B;**[!UICONTROL 背景图像]**&#x200B;设置以使用图像作为背景，而不是纯色。
+
+   * 对于&#x200B;**[!UICONTROL 对齐方式]**，请选择&#x200B;_Top_、_Middle_&#x200B;或&#x200B;_Bottom_&#x200B;图标。
+   * 对于&#x200B;**[!UICONTROL 内边距]**，定义所有边的内边距。
+
+     如果要调整边距，请选择&#x200B;**[!UICONTROL 每边不同的边距]**。 单击&#x200B;_锁定_&#x200B;图标中断同步。
+
+   * 展开&#x200B;**[!UICONTROL 高级]**&#x200B;部分以定义列的内联样式。
+
+   ![](assets/authoring-layers-settings-styles-3.png)
+
+1. 根据需要重复这些步骤以调整组件中其他列的对齐和填充。
+
+1. 保存更改。
 
 ### 使内容个性化 {#personalize-content}
 

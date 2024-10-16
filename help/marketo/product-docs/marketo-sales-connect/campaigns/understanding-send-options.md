@@ -4,7 +4,7 @@ description: 了解发送选项 — Marketo文档 — 产品文档
 title: 了解发送选项
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
@@ -63,3 +63,4 @@ ht-degree: 0%
 **将此电子邮件跟至上一封电子邮件**
 
 * 此发送选项将是您上一封电子邮件的“跟进”，并将上一封电子邮件正文附加到此电子邮件的底部。
+
