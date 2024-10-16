@@ -4,30 +4,26 @@ title: Salesforce同步积压量度
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: 38929abef0f64762c92b153630ce75373ba7a300
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
 # Salesforce同步积压量度  {#salesforce-sync-backlog-metrics}
 
-同步积压表示从Salesforce到Marketo Engage的待同步记录，反之亦然。 确保积压问题得到控制将实现顺利和及时的同步。
-
->[!NOTE]
->
->积压工作包括两端的待处理同步后更新数，而不是同步流程步骤(如[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}或[将人员同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"}流程步骤)执行的数量。
+同步积压是用于挂起同步的记录的名称。 它考虑从Salesforce到Marketo Engage的待同步记录，反之亦然。 确保积压事项得到控制将实现平稳的时间同步。 积压事项包括两侧的待处理同步发布更新的数量，而不是同步流程步骤(如Sync Lead to SFDC流程步骤)处理的数量。
 
 ## 如何访问 {#how-to-access}
 
 1. 在Marketo Engage中，转到&#x200B;**管理员**&#x200B;区域。
 
-   屏幕快照
+   ![](assets/salesforce-sync-backlog-metrics-1.png)
 
 1. 选择&#x200B;**Salesforce**。
 
-   屏幕快照
+   ![](assets/salesforce-sync-backlog-metrics-2.png)
 
 ## 同步积压事项趋势 {#sync-backlog-trend}
 
@@ -35,7 +31,7 @@ ht-degree: 0%
 
 在x轴上以特定的4小时间隔观察积压。 此值适用于正在同步的所有对象。 这是Salesforce和Marketo Engage中等待同步的积压工作总数。
 
-屏幕快照
+![](assets/salesforce-sync-backlog-metrics-3.png)
 
 ## 同步吞吐量和积压 {#sync-throughput-and-backlog}
 
@@ -45,7 +41,7 @@ ht-degree: 0%
 >
 >统计信息是按滚动日期更新的，而不是按日历日更新。
 
-屏幕快照
+![](assets/salesforce-sync-backlog-metrics-4.png)
 
 <table><thead>
   <tr>
@@ -95,14 +91,18 @@ ht-degree: 0%
 
 ## 管理同步积压的最佳实践 {#best-practices}
 
-**同步下的字段**：确保同步下的字段仅为需要同步的字段。 更改字段会增加同步积压，而优先级较低的字段可能会停止或减慢正在同步的更重要的字段。 联系[Marketo Engage支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以移除同步下的字段。
+对同步用户可见的&#x200B;**字段**：确保对同步可见的字段仅为需要同步且对营销工作有价值的字段。 如果对Salesforce中的记录所做的任何更新更新更新了上次修改的时间戳，则会将记录排队到同步积压中，并且不必要的字段同步可能会减慢同步下更重要的字段的速度。 如果对同步用户隐藏不必要的字段，则对这些字段的更新将导致跳过，其速度比更新快得多。 请与Salesforce管理员合作以在此处查看最佳实践，并更新哪些字段对Marketo同步用户可见。
 
-**敏感字段**：某些字段容易频繁更新（例如，可能会发生货币更改的货币字段）。 检查是否需要同步这些字段，或者是否需要以不同的方式设计字段。
+**隐藏或筛选不必要的记录**：如果记录不可销售，则可能会浪费同步资源。 如果同步用户看不到它，则不会浪费尝试同步它的资源。 [Marketo Engage支持](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}可以协助设置同步筛选器，以根据其他条件禁止同步记录。 有关设置自定义同步筛选器[的详细信息，请参阅此处](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 强烈建议在Salesforce中使用索引字段（请联系Salesforce以了解更多信息）。
 
-**自定义对象**：定期查看正在同步的自定义对象，并删除不再需要同步的任何自定义对象。
+**在非关键时间安排批量更新**：查看您的数据同步模式以识别非关键时间段。 如果可能，检查是否可以在这些非关键时段中计划批量更新。
 
-**活动**：检查同步下是否存在可以从同步中删除的任何活动。
+**频繁更新的字段**：某些字段容易频繁更新。 例如，货币字段可能会发生货币更改。 检查这些字段是否需要同步，或者字段的设计是否应不同。 如果您有其他频繁更新且不需要的字段，请向同步用户隐藏它们。 请务必与您的SFDC管理员集成讨论可能会更新字段的问题。
 
-**在非关键时间安排批量更新**：查看您的数据同步模式以识别非关键时间段。 查看是否可以在这些非关键期间计划批量更新。
+**自定义对象**：定期查看[自定义对象](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，这些自定义对象已启用同步功能，并禁用不再需要同步的自定义对象。
 
-如果您正在遵循上述所有最佳实践，但仍遇到大量积压问题，请联系[Marketo Engage支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+**活动**： [检查是否有任何活动](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}启用了可从同步中删除的同步。  每个潜在客户每天只能同步一次这些活动。
+
+**查看同步错误**：异常处理可能会减慢同步速度。 查看用户通知并解决错误可以改善同步运行状况。
+
+**联系支持人员**：如果您正在遵循上述所有最佳实践并且仍然遇到大量积压问题，请联系[Marketo Engage支持人员](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}。
