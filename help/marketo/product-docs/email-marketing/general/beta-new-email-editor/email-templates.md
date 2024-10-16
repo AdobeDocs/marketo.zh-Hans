@@ -4,16 +4,16 @@ title: 电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1592'
 ht-degree: 1%
 
 ---
 
 # 电子邮件模板 {#email-templates}
 
-在此处介绍文本。
+为了加快并改进设计过程，您可以创建独立的电子邮件模板以轻松重用自定义内容。
 
 >[!IMPORTANT]
 >
@@ -47,13 +47,13 @@ ht-degree: 1%
 
 在&#x200B;_设计模板_&#x200B;页面中，可以从几个选项中进行选择。 [从头开始设计](#design-from-scratch)、[导入您自己的HTML](#import-html)或[选择现有模板](#choose-a-template)（我们的示例之一或您已保存的示例）。
 
+![](assets/design-your-template-1.png)
+
 ### 从头开始设计 {#design-from-scratch}
 
 通过简单的拖放操作添加和移动结构元素来定义内容。
 
 1. 在&#x200B;_设计模板_&#x200B;页面中，选择&#x200B;**从头开始设计**。
-
-   屏幕快照
 
 1. 添加[结构和内容](#add-structure-and-content)。
 
@@ -71,11 +71,9 @@ ht-degree: 1%
 
 1. 在&#x200B;_设计模板_&#x200B;页中，选择&#x200B;**导入HTML**。
 
-   屏幕快照
+1. 拖放所需的HTML或.zip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
 
-1. 拖放所需的HTML或.zip文件并单击&#x200B;**导入**。
-
-   屏幕快照
+   ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
@@ -103,25 +101,31 @@ ht-degree: 1%
 
 >[!TAB 示例模板]
 
-从四个现成模板中选择一个模板，以抢先一步进行电子邮件模板设计。
+选择其中一个现成的模板，以抢先一步进行电子邮件模板设计。
 
-1. 选择示例模板。
+1. 默认情况下，“示例模板”选项卡处于打开状态。
 
-   屏幕快照
+1. 选择要使用的模板。
 
-1. 文本.
+   ![](assets/sample-templates-1.png)
 
-   屏幕快照
+1. 单击&#x200B;**使用此模板**。
+
+   ![](assets/sample-templates-2.png)
+
+1. 使用可视内容设计器根据需要编辑内容。
 
 >[!TAB 已保存模板]
 
-1. 选择已保存的模板。
+1. 单击&#x200B;**保存的模板**&#x200B;选项卡，然后选择所需的模板。
 
-   屏幕快照
+   ![](assets/saved-templates-1.png)
 
-1. 文本.
+1. 单击&#x200B;**使用此模板**。
 
-   屏幕快照
+   ![](assets/saved-templates-2.png)
+
+1. 使用可视内容设计器根据需要编辑内容。
 
 >[!ENDTABS]
 
@@ -133,7 +137,7 @@ ht-degree: 1%
    >
    >选择n：n列组件以定义所选列数（3到10之间）。 您还可以通过移动列下方的箭头来定义每列的宽度。
 
-   屏幕快照
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -141,7 +145,7 @@ ht-degree: 1%
 
 1. 从内容部分中，将所需项目拖放到一个或多个结构组件中。
 
-   屏幕快照
+   ![](assets/add-structure-and-content-2.png)
 
 1. 可通过“设置”或“样式”选项卡自定义每个组件。 更改字体、文本样式、边距等。
 
@@ -194,6 +198,30 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 屏幕快照
 
+
+以下示例概述了在由三列组成的结构组件内如何调整填充和垂直对齐。
+
+直接在电子邮件中或使用左侧菜单中提供的导航树选择结构组件。
+
+在工具栏中，单击选择列，然后选择要编辑的列。 也可以从结构树中选择它。
+
+该列的可编辑参数将显示在“样式”选项卡中。
+
+
+
+在“对齐”下，选择“顶部”、“中间”或“底部”。
+
+
+
+在“填充”下，定义所有边的填充。
+
+如果要微调边距，请选择“每侧不同的边距”。 单击锁定图标可中断同步。
+
+
+
+以类似方式继续调整其他列的对齐和填充。
+
+保存更改。
 
 
 

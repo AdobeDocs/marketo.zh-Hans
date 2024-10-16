@@ -4,9 +4,9 @@ title: 电子邮件创作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1259'
 ht-degree: 1%
 
 ---
@@ -43,9 +43,9 @@ ht-degree: 1%
 
 ## 选择您的内容类型 {#choose-your-content-type}
 
-1. 在刚刚创建的电子邮件中，单击&#x200B;**+添加电子邮件内容**。
+1. 在刚刚创建的电子邮件中，单击&#x200B;**添加电子邮件内容**。
 
-   屏幕快照
+   ![](assets/choose-your-content-type-1.png)
 
 1. 加载&#x200B;_创建电子邮件_&#x200B;页面。 您可以从以下几个选项中进行选择：
 
@@ -83,11 +83,9 @@ ht-degree: 1%
 
 1. 在“设计模板”页中，选择&#x200B;**导入HTML**。
 
-   屏幕快照
+1. 拖放所需的HTML或.zip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
 
-1. 拖放所需的HTML或.zip文件并单击&#x200B;**导入**。
-
-   屏幕快照
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -107,35 +105,31 @@ ht-degree: 1%
 
 >[!TAB 示例模板]
 
-选择我们的其中一个现成模板，为您的电子邮件设计抢先一步。
+选择其中一个现成的模板，以抢先一步进行电子邮件模板设计。
 
-1. 在“创建电子邮件”页面中，选择&#x200B;**示例模板**。
+1. 默认情况下，“示例模板”选项卡处于打开状态。
 
-   屏幕快照
+1. 选择要使用的模板。
 
-1. 选择所需的模板。
+   ![](assets/authoring-sample-templates-1.png)
 
-   屏幕快照
+1. 单击&#x200B;**使用此模板**。
 
-1. 会出现预览。 要确认您的选择，请单击&#x200B;**使用此模板**。
+   ![](assets/authoring-sample-templates-2.png)
 
-   屏幕快照
+1. 使用可视内容设计器根据需要编辑内容。
 
 >[!TAB 已保存模板]
 
-选择您之前创建的模板之一。
+1. 单击&#x200B;**保存的模板**&#x200B;选项卡，然后选择所需的模板。
 
-1. 在“创建电子邮件”页面中，选择&#x200B;**保存的模板**。
+   ![](assets/authoring-saved-templates-1.png)
 
-   屏幕快照
+1. 单击&#x200B;**使用此模板**。
 
-1. 选择所需的模板。
+   ![](assets/authoring-saved-templates-2.png)
 
-   屏幕快照
-
-1. 会出现预览。 要确认您的选择，请单击&#x200B;**使用此模板**。
-
-   屏幕快照
+1. 使用可视内容设计器根据需要编辑内容。
 
 >[!ENDTABS]
 
@@ -213,25 +207,29 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 ### 使内容个性化 {#personalize-content}
 
-令牌在新编辑器中的工作方式与在旧编辑器中的工作方式相同，但图标的外观不同。
+令牌在新编辑器中的工作方式与在旧编辑器中的工作方式相同，但图标的外观不同。 以下示例概述了如何使用回退文本添加名字令牌。
 
-1. 选择文本组件并单击&#x200B;**添加个性化**&#x200B;图标。
+1. 选择文本组件。 将光标放在您希望令牌出现的位置，然后单击&#x200B;**添加个性化**&#x200B;图标。
 
-   屏幕快照
+   ![](assets/authoring-personalize-content-1.png)
 
 1. 单击所需的[令牌类型](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}。
 
-   屏幕快照
+   ![](assets/authoring-personalize-content-2.png)
 
-1. 单击+或……向空格添加令牌。
+1. 找到所需的令牌，然后单击&#x200B;**...**&#x200B;图标（改为单击+图标可添加不含回退文本的令牌）。
 
-   屏幕快照
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >“回退文本”是适用于默认值的新编辑器术语。 示例：``{{lead.First Name:default=Friend}}``
+   >“回退文本”是适用于默认值的新编辑器术语。 示例： ``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
 
-1. 完成后单击&#x200B;**保存**。
+1. 设置您的回退文本，然后单击&#x200B;**添加**。
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. 单击&#x200B;**保存**。
 
 ### 编辑URL跟踪 {#edit-url-tracking}
 
