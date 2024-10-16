@@ -4,16 +4,16 @@ title: 电子邮件创作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
+source-wordcount: '1271'
 ht-degree: 1%
 
 ---
 
 # 电子邮件创作 {#email-authoring}
 
-在此处介绍文本。
+了解如何在新的Marketo Engage电子邮件Designer中创建、个性化和预览电子邮件。
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 * **邮件的电子邮件版本为空**：当尚未配置电子邮件内容时，会发生此错误。
 
-## 测试电子邮件
+## 测试电子邮件 {#test-your-email}
 
 定义消息内容后，您可以使用测试用户档案对其进行预览、发送校样并控制它在常用桌面、移动和基于Web的客户端中的呈现方式。 如果插入个性化内容，则可以使用测试用户档案数据检查该内容在消息中的显示方式。
 
