@@ -4,9 +4,9 @@ title: 电子邮件创作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1477'
 ht-degree: 1%
 
 ---
@@ -141,7 +141,7 @@ ht-degree: 1%
    >
    >选择n：n列组件以定义所选列数（3到10之间）。 您还可以通过移动列下方的箭头来定义每列的宽度。
 
-   屏幕快照
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ ht-degree: 1%
 
 1. 从内容部分中，将所需项目拖放到一个或多个结构组件中。
 
-   屏幕快照
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. 可通过“设置”或“样式”选项卡自定义每个组件。 更改字体、文本样式、边距等。
-
-屏幕快照
 
 ### 添加Assets {#add-assets}
 
@@ -261,11 +259,13 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 1. 单击链接图标以显示电子邮件中的所有URL。
 
-   屏幕快照
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. 单击铅笔图标可编辑任何所需链接的跟踪。
 
-   屏幕快照
+1. 单击&#x200B;**跟踪类型**&#x200B;下拉列表并进行选择。
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 要预览电子邮件内容，请单击&#x200B;**模拟内容**，然后添加测试用户档案，以使用测试用户档案数据检查邮件。
 
-屏幕快照
+![](assets/test-your-email-1.png)
 
 ## 引用电子邮件 {#reference-an-email}
 

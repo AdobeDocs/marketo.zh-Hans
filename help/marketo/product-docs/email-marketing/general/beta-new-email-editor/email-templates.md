@@ -4,9 +4,9 @@ title: 电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1728'
 ht-degree: 1%
 
 ---
@@ -149,8 +149,6 @@ ht-degree: 1%
 
 1. 可通过“设置”或“样式”选项卡自定义每个组件。 更改字体、文本样式、边距等。
 
-屏幕快照
-
 ### 添加Assets {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 ### 使内容个性化 {#personalize-content}
 
-令牌在新编辑器中的工作方式与在旧编辑器中的工作方式相同，但图标的外观不同。
+令牌在新编辑器中的工作方式与在旧编辑器中的工作方式相同，但图标的外观不同。 以下示例概述了如何使用回退文本添加名字令牌。
 
-1. 选择文本组件并单击&#x200B;**添加个性化**&#x200B;图标。
+1. 选择文本组件。 将光标放在您希望令牌出现的位置，然后单击&#x200B;**添加个性化**&#x200B;图标。
 
-   屏幕快照
+   ![](assets/personalize-content-1.png)
 
 1. 单击所需的[令牌类型](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}。
 
-   屏幕快照
+   ![](assets/personalize-content-2.png)
 
-1. 单击+或……向空格添加令牌。
+1. 找到所需的令牌，然后单击&#x200B;**...**&#x200B;图标（改为单击+图标可添加不含回退文本的令牌）。
 
-   屏幕快照
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >“回退文本”是适用于默认值的新编辑器术语。 示例：``{{lead.First Name:default=Friend}}``
+   >“回退文本”是适用于默认值的新编辑器术语。 示例： ``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
 
-1. 完成后单击&#x200B;**保存**。
+1. 设置您的回退文本，然后单击&#x200B;**添加**。
+
+   ![](assets/personalize-content-4.png)
+
+1. 单击&#x200B;**保存**。
 
 ### 编辑URL跟踪 {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 1. 单击链接图标以显示电子邮件中的所有URL。
 
-   屏幕快照
+   ![](assets/edit-url-tracking-1.png)
 
 1. 单击铅笔图标可编辑任何所需链接的跟踪。
 
-   屏幕快照
+1. 单击&#x200B;**跟踪类型**&#x200B;下拉列表并进行选择。
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?
