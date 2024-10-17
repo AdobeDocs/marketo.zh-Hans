@@ -3,9 +3,9 @@ description: 创建交互式网络研讨会 — Marketo文档 — 产品文档
 title: 创建交互式网络研讨会
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ ht-degree: 0%
    >* 您无法重复使用网络研讨会标题。 每个变量在您的Marketo实例中必须唯一。
    >
    >* 如有需要，可在以后的阶段更改网络研讨会标题。
+   >
+   >* 如果您创建测试网络研讨会，则需要在开始时间之前删除它，以确保不会使用该网络研讨会的许可证。
 
 1. 安排网络研讨会的日期/时间并单击&#x200B;**创建**。
 

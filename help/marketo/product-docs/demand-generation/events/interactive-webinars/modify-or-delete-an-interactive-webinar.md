@@ -3,9 +3,9 @@ description: 修改或删除交互式网络研讨会 — Marketo文档 — 产�
 title: 修改或删除交互式网络研讨会
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -81,6 +81,10 @@ ht-degree: 0%
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
 ## 删除交互式网络研讨会 {#delete-an-interactive-webinar}
+
+>[!NOTE]
+>
+>如果您创建测试网络研讨会，则需要在开始时间之前删除它，以确保不会使用该网络研讨会的许可证。
 
 1. 选择所需的事件程序。
 
