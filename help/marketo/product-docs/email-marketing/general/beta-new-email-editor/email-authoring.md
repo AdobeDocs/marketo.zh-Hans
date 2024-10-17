@@ -4,7 +4,7 @@ title: 电子邮件创作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 1%
@@ -97,9 +97,9 @@ ht-degree: 1%
 
 有两种类型的模板可供选择。
 
-* 示例模板：Marketo Engage提供了四个现成的电子邮件模板。
+* **示例模板**：Marketo Engage提供了四个现成的电子邮件模板。
 
-* 保存的模板：这些是使用“模板”菜单从头创建的模板，或者您创建并选择另存为模板的电子邮件。
+* **保存的模板**：这些模板是您使用“模板”菜单从头创建的模板，或者您创建并选择另存为模板的电子邮件。
 
 >[!BEGINTABS]
 
