@@ -2,9 +2,9 @@
 description: Salesforce同步积压量度 — Marketo文档 — 产品文档
 title: Salesforce同步积压量度
 feature: Reporting
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 ## 管理同步积压的最佳实践 {#best-practices}
 
-对同步用户可见的&#x200B;**字段**：确保对同步可见的字段仅为需要同步且对营销工作有价值的字段。 如果对Salesforce中的记录所做的任何更新更新更新了上次修改的时间戳，则会将记录排队到同步积压中，并且不必要的字段同步可能会减慢同步下更重要的字段的速度。 如果对同步用户隐藏不必要的字段，则对这些字段的更新将导致跳过，其速度比更新快得多。 请与Salesforce管理员合作以在此处查看最佳实践，并更新哪些字段对Marketo同步用户可见。
+对同步用户可见的&#x200B;**字段**：确保对同步可见的字段仅为需要同步且对营销工作有价值的字段。 如果对Salesforce中的记录所做的任何更新更新更新了上次修改的时间戳，则会将记录排队到同步积压中，并且不必要的字段同步可能会减慢同步下更重要的字段的速度。 如果对同步用户隐藏不必要的字段，则对这些字段的更新将导致跳过，其速度比更新快得多。 与您的Salesforce管理员合作查看[此处](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}的最佳实践，并更新Marketo同步用户可见的字段。
 
 **隐藏或筛选不必要的记录**：如果记录不可销售，则可能会浪费同步资源。 如果同步用户看不到它，则不会浪费尝试同步它的资源。 [Marketo Engage支持](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}可以协助设置同步筛选器，以根据其他条件禁止同步记录。 有关设置自定义同步筛选器[的详细信息，请参阅此处](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 强烈建议在Salesforce中使用索引字段（请联系Salesforce以了解更多信息）。
 
