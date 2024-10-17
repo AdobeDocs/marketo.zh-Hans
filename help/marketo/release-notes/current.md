@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
+source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '515'
 ht-degree: 2%
 
 ---
@@ -83,6 +83,17 @@ ht-degree: 2%
    </td> 
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">电子邮件性能报表</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Salesforce同步积压量度</strong>：监视同步吞吐量和积压趋势，以计划和计划CRM更新以获得最佳同步体验。
+   </td> 
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce同步积压量度</a></td>
   </tr>
  </tbody> 
 </table>
