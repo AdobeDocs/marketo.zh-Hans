@@ -3,7 +3,7 @@ description: Marketo Engage支持迁移 — Marketo文档 — 产品文档
 title: Marketo Engage支持迁移
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 1%
@@ -48,4 +48,4 @@ ht-degree: 1%
 
 ## 还有问题吗？ {#still-have-questions}
 
-如果您对订阅和/或支持迁移仍有疑问，请通过`marketocares@adobe.com`联系我们。
+如果您对订阅和/或支持迁移仍有疑问，请通过`customercare@marketo.com`联系我们。

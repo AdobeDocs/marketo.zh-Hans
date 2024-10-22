@@ -4,9 +4,9 @@ description: 为自定义实体启用同步 — Marketo文档 — 产品文档
 title: 为自定义实体启用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -67,3 +67,9 @@ ht-degree: 0%
 1. 不要忘记重新启用全局同步！
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
+
+   >[!NOTE]
+   >
+   >* Marketo仅支持链接到一到两级深度标准实体的自定义实体。
+   >
+   >* 自定义对象树可以多次显示同一对象，因为它与主要对象之一（例如，潜在客户、联系人或帐户，或通过中间对象间接连接）的直接连接。 在这种情况下，请选择最接近主对象的对象，然后只选择一个对象。 多次选择同一对象可能会妨碍该自定义对象的同步。

@@ -4,9 +4,9 @@ description: SFDC同步 — 自定义对象同步 — Marketo文档 — 产品�
 title: SFDC同步 — 自定义对象同步
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Salesforce自定义对象架构的初始同步可能需要几分钟时间。
+   >Salesforce自定义对象架构的初始同步可能需要几分钟。
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -81,7 +81,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo仅支持链接到一到两级深度标准实体的自定义实体。
+   >* Marketo仅支持链接到一到两级深度标准实体的自定义实体。
+   >
+   >* 自定义对象树可以多次显示同一对象，因为它与主要对象之一（例如，潜在客户、联系人或帐户，或通过中间对象间接连接）的直接连接。 在这种情况下，请选择最接近主对象的对象，然后只选择一个对象。 多次选择同一对象可能会妨碍该自定义对象的同步。
 
 ### 后续内容： {#whats-next}
 
