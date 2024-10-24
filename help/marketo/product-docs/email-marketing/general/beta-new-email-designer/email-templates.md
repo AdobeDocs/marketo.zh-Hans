@@ -4,9 +4,9 @@ title: 电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1775'
+source-wordcount: '1755'
 ht-degree: 1%
 
 ---
@@ -330,12 +330,6 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL A
 此操作可从以下位置执行：
 
 * 详细信息选项卡 — 单击&#x200B;**编辑电子邮件模板**。
-
-* _电子邮件模板_&#x200B;列表页面 — 单击所需电子邮件模板的“更多操作”图标（三个圆点），然后选择“编辑”。
-
-```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
-```
 
 此操作会将您引导至&#x200B;_根据电子邮件模板的上次保存状态设计您的模板_&#x200B;页面或可视内容编辑器页面。 在此处，您可以根据需要编辑电子邮件模板内容。 有关编辑选项的信息，请参阅创建电子邮件模板。
 

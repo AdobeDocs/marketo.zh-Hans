@@ -3,9 +3,9 @@ description: 流程步骤服务 — Marketo文档 — 产品文档
 title: 流程步骤服务
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1234'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 0%
 要访问正在安装的服务，Marketo必须具有有效的API凭据。 您的服务提供商应向您提供这些凭据。 服务具有三个不同的身份验证选项，因此您可能会看到以下三种不同的凭据提示之一：**API密钥**，它只有一个输入字段；**基本身份验证**，它需要用户名和密码，可能还需要一个名为“领域”的字段；使用&#x200B;_客户端凭据_&#x200B;授权的&#x200B;**OAuth2**，它需要&#x200B;_客户端ID_&#x200B;和&#x200B;_客户端密钥_。
 
 在保存凭据时，Marketo将尝试调用服务的状态端点以验证它们是否有效。 如果提供的凭据无效，您将看到指示此内容的错误。
+
+>[!CAUTION]
+>
+>如果创建并删除了服务提供程序，以后将无法重用其服务提供程序、API、触发器或过滤器名称。
 
 ## 入门指南（可选） {#onboarding-guide}
 
