@@ -4,9 +4,9 @@ title: 电子邮件创作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1524'
+source-wordcount: '1455'
 ht-degree: 1%
 
 ---
@@ -155,38 +155,23 @@ ht-degree: 1%
 
 ### 添加Assets {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
-```
+添加存储在Marketo Engage实例的[图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"}部分中的图像。
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
-```
+>[!NOTE]
+>
+>您现在只能在新设计器中添加图像，不能添加其他文件类型。
 
 1. 要访问您的图像，请单击资产选择器图标。
 
-   屏幕快照
+   ![](assets/authoring-add-assets-1.png)
 
 1. 将所需的图像拖放到结构组件中。
 
-   屏幕快照
+   ![](assets/authoring-add-assets-2.png)
 
    >[!NOTE]
    >
    >要替换现有图像，请选择该图像，然后在右侧的“设置”选项卡中单击&#x200B;**选择资产**。
-
-单击启用条件内容以添加动态内容，并根据条件规则将内容调整到目标用户档案。
-
-
-
-如果需要，您可以通过单击高级菜单中的“切换到代码编辑器”，进一步个性化电子邮件。 这允许您编辑电子邮件源代码，例如添加跟踪或自定义HTML标签。
-
-注意
-切换到代码编辑器后，无法还原到此电子邮件的可视设计器。
-
-内容准备就绪后，单击模拟内容按钮以检查渲染。 您可以选择桌面视图或移动设备视图。
-
-准备就绪后，单击保存
 
 ### 图层、设置和样式 {#layers-settings-styles}
 

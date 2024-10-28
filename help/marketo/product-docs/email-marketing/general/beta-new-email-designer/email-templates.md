@@ -4,9 +4,9 @@ title: 电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1683'
 ht-degree: 1%
 
 ---
@@ -81,8 +81,6 @@ ht-degree: 1%
 
 1. 若要利用Email Designer内容组件，请单击&#x200B;**HTML转换器**&#x200B;选项卡，然后单击&#x200B;**转换**。
 
-   屏幕快照
-
    >[!CAUTION]
    >
    >在HTML文件中使用`<table>`标记作为第一层可能会导致样式丢失，包括顶层标记中的背景和宽度设置。
@@ -151,38 +149,23 @@ ht-degree: 1%
 
 ### 添加Assets {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
-```
+添加存储在Marketo Engage实例的[图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"}部分中的图像。
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
-```
+>[!NOTE]
+>
+>您现在只能在新设计器中添加图像，不能添加其他文件类型。
 
 1. 要访问您的图像，请单击资产选择器图标。
 
-   屏幕快照
+   ![](assets/add-assets-1.png)
 
 1. 将所需的图像拖放到结构组件中。
 
-   屏幕快照
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
    >要替换现有图像，请选择该图像，然后在右侧的“设置”选项卡中单击&#x200B;**选择资产**。
-
-单击启用条件内容以添加动态内容，并根据条件规则将内容调整到目标用户档案。
-
-
-
-如果需要，您可以通过单击高级菜单中的“切换到代码编辑器”，进一步个性化电子邮件。 这允许您编辑电子邮件源代码，例如添加跟踪或自定义HTML标签。
-
-注意
-切换到代码编辑器后，无法还原到此电子邮件的可视设计器。
-
-内容准备就绪后，单击模拟内容按钮以检查渲染。 您可以选择桌面视图或移动设备视图。
-
-准备就绪后，单击保存
 
 ### 图层、设置和样式 {#layers-settings-styles}
 
@@ -295,7 +278,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL A
 
 在内容编辑器的&#x200B;**更多**&#x200B;选项中，您可以执行以下操作：
 
-屏幕快照
+![](assets/more-options-1.png)
 
 * **重置模板**：选择此项可将可视电子邮件设计器画布清除为空白并重新启动内容生成。
 
@@ -307,7 +290,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL A
 
 在&#x200B;_电子邮件模板_&#x200B;列表页中，单击电子邮件模板名称以查看其详细信息。
 
-屏幕快照
+(assets/view-template-details-1.png
 
 可以编辑名称和描述等基本详细信息。 在编辑的字段外单击，以保存更改。
 
@@ -323,7 +306,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL A
 
 在电子邮件模板摘要中，单击&#x200B;**使用者**&#x200B;选项卡查看在Marketo Engage中使用此电子邮件模板位置的详细信息。
 
-屏幕快照
+![](assets/email-template-used-by-references-1.png)
 
 ## 编辑电子邮件模板 {#edit-email-templates}
 
@@ -339,7 +322,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL A
 
 * 从右侧的电子邮件模板详细信息中，单击&#x200B;**更多**&#x200B;并选择&#x200B;**复制**。
 
-屏幕快照
+  ![](assets/duplicate-email-templates-1.png)
 
 * 在&#x200B;_电子邮件模板_&#x200B;列表页面中，单击所需电子邮件模板的“更多操作”图标（三个圆点），然后选择&#x200B;**复制**。
 
@@ -357,7 +340,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL A
 
 * 从右侧的电子邮件模板详细信息中，单击&#x200B;**更多**&#x200B;并选择&#x200B;**删除**。
 
-屏幕快照
+  ![](assets/delete-email-templates-1.png)
 
 * 在&#x200B;_电子邮件模板_&#x200B;列表页面中，单击所需电子邮件模板的“更多操作”图标（三个圆点），然后选择&#x200B;**删除**。
 
