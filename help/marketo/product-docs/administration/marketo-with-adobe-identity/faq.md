@@ -3,9 +3,9 @@ description: AdobeIdentity Management常见问题解答 — Marketo文档 — �
 title: AdobeIdentity Management常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1484'
 ht-degree: 0%
 
 ---
@@ -129,6 +129,10 @@ Identity Management SystemAdobe功能将于2025年初推出，将发布一项支
 **我有多个订阅，但并非所有订阅都启用了单点登录。 Adobe身份迁移后会发生什么情况？**
 
 将订阅登记到Adobe身份后，将在Adobe组织级别设置单点登录(SSO)。 这意味着SSO适用于Adobe组织中的所有产品实例。设置SSO后，它将应用于该Adobe组织中的所有Marketo实例。以前，Marketo在实例级别支持此设置。 AdobeIdentity Management System不支持此功能。
+
+Marketo Engage **迁移Adobe身份后，是否需要对CNAME、SPF或DKIM进行任何更改？**
+
+不，这些配置不会受到影响。
 
 **我现在必须导航到Experience Cloud才能访问Marketo Engage。 是否有办法简化此流程？**
 
