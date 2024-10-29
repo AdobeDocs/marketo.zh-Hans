@@ -4,7 +4,7 @@ title: 电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '1683'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->本文仅面向新Marketo Engage电子邮件Designer测试版的成员。 请不要传播。
+>本文仅适用新Marketo Engage电子邮件Designer测试版的成员。 请不要传播。
 
 >[!NOTE]
 >
