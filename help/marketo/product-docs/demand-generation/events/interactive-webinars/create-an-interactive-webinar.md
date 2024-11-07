@@ -3,9 +3,9 @@ description: 创建交互式网络研讨会 — Marketo文档 — 产品文档
 title: 创建交互式网络研讨会
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-2.png)
 
+   >[!CAUTION]
+   >
+   >[移动设备推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}资源&#x200B;**在交互式网络研讨会中不支持**。
+
 1. 命名项目。 在项目类型下，选择&#x200B;**事件**。
 
    ![](assets/create-an-interactive-webinar-3.png)
@@ -37,10 +41,6 @@ ht-degree: 0%
 1. 选择&#x200B;**交互式网络研讨会**，然后单击&#x200B;**下一步**。
 
    ![](assets/create-an-interactive-webinar-5.png)
-
-   >[!NOTE]
-   >
-   >有关合作伙伴网络研讨会的信息可在此处找到。
 
 1. 为您的网络研讨会提供一个标题。 设置其最大受众规模及其持续时间。
 
