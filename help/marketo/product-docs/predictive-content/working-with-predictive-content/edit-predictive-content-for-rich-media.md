@@ -4,10 +4,10 @@ description: 编辑富媒体的预测内容 — Marketo文档 — 产品文档
 title: 编辑富媒体的预测内容
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,10 @@ ht-degree: 1%
 1. 您会注意到，您可以为电子邮件和富媒体创建单独的图像。 要添加/更改图像，请将图像URL粘贴到其文本框中。
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
+
+   >[!NOTE]
+   >
+   >富媒体不支持使用JPEG模型CMYK的彩色图像。 必须使用JPEG配置文件将颜色转换为sRGB。 从图像编辑器导出时，请务必选择此设置。
 
 1. 键入&#x200B;**描述**。
 
