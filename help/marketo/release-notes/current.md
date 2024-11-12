@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '548'
 ht-degree: 2%
 
 ---
@@ -79,7 +79,6 @@ ht-degree: 2%
    <li>从电子邮件性能量度中过滤删除和合并的人员</li>
    <li>电子邮件在等待响应活动三天后现在被分类为<i>已中止</i></li>
    <li>每个智能营销活动将电子邮件打开数计为单独唯一打开</li>
-   <li>通过细化跟踪像素位置改进了电子邮件活动跟踪</li>
    </td> 
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">电子邮件性能报表</a></td>

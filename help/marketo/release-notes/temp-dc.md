@@ -4,10 +4,10 @@ title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 3%
+source-wordcount: '446'
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 3%
 
 屏幕快照
 
-### 对话得分
+### 对话得分 {#conversation-scoring}
 
 根据潜在客户聊天交互的质量对其量化并将该指标用作Marketo Engage智能营销活动中的触发器/过滤器。 在下列活动中使用新属性&#x200B;_对话分数_：
 
@@ -68,3 +68,21 @@ ht-degree: 3%
 因此，当具有Cookie abc的访客登陆页面并提供电子邮件ID为`abc@p.com`时：
 
 表
+
+### 优化会话流加载时间 {#optimized-conversation-flow-load-time}
+
+为了改善用户体验，在加载对话流程时，现在会显示闪烁的加载器，而不是空格。 对话或对话???
+
+**早于**
+
+GIF
+
+**After**
+
+GIF
+
+### 用于继承字体的选项 {#option-to-inherit-font}
+
+作为用户，我希望我的聊天机器人能够直接从正在加载的网页中继承字体，而不是在Dynamic Chat中管理我的品牌字体
+
+注意：启用此选项后，聊天机器人将使用在页面的body标记上定义的字体
