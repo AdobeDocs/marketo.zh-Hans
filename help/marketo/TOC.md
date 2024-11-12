@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9376'
 ht-degree: 0%
 
 ---
@@ -103,7 +103,7 @@ ht-degree: 0%
       + 设置{#setup}
          + [了解您拥有的权限](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [最低系统要求](product-docs/administration/setup-administration/minimum-system-requirements.md)
-         + [蒙奇金](product-docs/administration/setup-administration/munchkin.md)
+         + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [支持的浏览器](product-docs/administration/setup-administration/supported-browsers.md)
       + 其他集成{#additional-integrations}
          + [将Adobe Connect添加为LaunchPoint服务](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
@@ -144,6 +144,7 @@ ht-degree: 0%
          + [编辑“以网页形式查看”消息](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [启用通信限制](product-docs/administration/email-setup/enable-communication-limits.md)
          + [为智能营销活动启用人员限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [营销活动级别的电子邮件打开跟踪](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [筛选电子邮件机器人活动](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [删除取消订阅文本](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + 字段管理{#field-management}
@@ -408,7 +409,7 @@ ht-degree: 0%
             + [管理和查看成员](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [项目群成员自定义字段](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [程序成员自定义字段同步](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
-            + [将SFDC Campaign与程序同步](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
+            + [将SFDC促销活动与项目同步](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [了解期间成本](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [了解标记](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
             + [在项目中使用标记](product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md)
@@ -529,7 +530,7 @@ ht-degree: 0%
       + Microsoft Dynamics同步{#microsoft-dynamics}
          + [了解Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [适用于Microsoft Dynamics的Marketo插件版本](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
-         + [Microsoft Dynamics MSI的插件版本](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
+         + [适用于Microsoft Dynamics MSI的插件版本](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [修复Dynamics验证同步问题](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 同步安装程序{#sync-setup}
             + [下载Marketo商机管理解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
@@ -571,7 +572,7 @@ ht-degree: 0%
             + [在Dynamics中删除字段之前编辑要同步的字段](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
             + [Microsoft Dynamics同步：潜在客户同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
             + [在Microsoft Dynamics中创建联系人](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)
-            + [Microsoft Dynamics同步：机会同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+            + [Microsoft Dynamics同步： Opportunity同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
             + [Microsoft Dynamics同步：用户同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [同步状态](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Campaign同步概述](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
@@ -589,7 +590,7 @@ ht-degree: 0%
          + 设置{#setup}
             + Enterprise/Unlimited版本{#enterprise-unlimited-edition}
                + [第1步（共3步）：将Marketo字段添加到Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-               + [第2步（共3步）：创建Marketo的Salesforce用户(Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+               + [第2步（共3步）：为Marketo创建Salesforce用户(Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
                + [第3步（共3步）：连接Marketo和Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
             + 专业版{#professional-edition}
                + [第1步（共3步）：将Marketo字段添加到Salesforce（专业）](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
@@ -614,7 +615,7 @@ ht-degree: 0%
             + [SFDC同步：活动同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
             + [SFDC同步： Campaign同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
             + [SFDC同步：联系人同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-            + [SFDC同步：在Salesforce中将潜在客户转换为联系人](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+            + [SFDC同步：在Salesforce中将潜在客户转化为联系人](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
             + [SFDC同步：自定义对象同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
             + [SFDC同步：删除潜在客户/联系人](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
             + [SFDC同步：字段同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
@@ -622,7 +623,7 @@ ht-degree: 0%
             + [SFDC同步：潜在客户队列](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
             + [SFDC同步：潜在客户同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
             + [SFDC同步：合并潜在客户/联系人/人员](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
-            + [SFDC同步：机会同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+            + [SFDC同步： Opportunity同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
          + [添加/删除选取列表值](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [启用/禁用Salesforce同步](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [隐含的Salesforce操作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
@@ -1199,8 +1200,8 @@ ht-degree: 0%
          + [以其他用户身份查看营销活动列表](product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
          + Salesforce自定义{#salesforce-customization}
-            + [任务上的活动类型字段(SFDC)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
-            + [将Sales连接按钮添加到Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
+            + [任务的活动类型字段(SFDC)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
+            + [将Sales Connect按钮添加到Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
             + [使用Sales Connect数据创建Salesforce优先呼叫报告](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
             + [在Salesforce中创建工作流规则](product-docs/marketo-sales-connect/crm/salesforce-customization/creating-workflow-rules-in-salesforce.md)
             + [自定义版本](product-docs/marketo-sales-connect/crm/salesforce-customization/customization-versions.md)
@@ -1210,9 +1211,9 @@ ht-degree: 0%
             + [如何在Salesforce中安装Sales Connect按钮](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)
             + [将Salesforce ID导入Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [在活动历史记录中安装Sales Connect事件字段](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
-            + [为Professional Edition客户安装Salesforce Customization](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
+            + [安装面向Professional Edition客户的Salesforce自定义](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
             + [推送到Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
-            + [Salesforce中的报告仪表板](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
+            + [Salesforce中的报表功能板](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [CRM的Sales Connect自定义项](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [在Salesforce Classic中使用批量操作](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [在Salesforce Lightning中使用批量操作](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
@@ -1221,7 +1222,7 @@ ht-degree: 0%
          + Salesforce集成{#salesforce-integration}
             + [配置Salesforce活动详细信息自定义](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [将您的Sales Connect帐户连接到Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
-            + [从Sales Connect帐户断开Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
+            + [从您的Sales Connect帐户断开Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [如何修复连接到Salesforce时“我们无法验证您的请求”的问题](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [回复日志记录](product-docs/marketo-sales-connect/crm/salesforce-integration/reply-logging.md)
             + [Salesforce诊断](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-diagnostics.md)
@@ -1343,7 +1344,7 @@ ht-degree: 0%
          + [双方同意设置](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
       + 任务{#tasks}
          + [创建和分配提醒任务](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
-         + [与Salesforce同步提醒任务](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+         + [提醒任务与Salesforce同步](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [首次将Sales Connect任务与Salesforce同步](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + 模板{#templates}
          + [向模板添加自动取消订阅](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
@@ -1417,7 +1418,7 @@ ht-degree: 0%
                + [回复日志记录](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce诊断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [设置Sales Insight操作沙盒](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
-               + [将Sales Activities同步到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+               + [将销售活动同步到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Salesforce包配置{#salesforce-package-configuration}
                + [Salesforce中的Sales Insight操作配置](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [将销售活动属性记录到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
@@ -1476,7 +1477,7 @@ ht-degree: 0%
             + [为什么我的所有联系人都没有被推送到Sales Insight操作中？](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [为什么我的电子邮件会被标记为垃圾邮件？](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
             + [我的营销活动为什么会结束？](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
-            + [为什么Salesforce活动中不显示跟踪活动？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+            + [Salesforce活动中为何不显示跟踪活动？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 集成{#integrations}
             + [Highspot集成](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
@@ -1529,7 +1530,7 @@ ht-degree: 0%
                + [电子邮件活动](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
                + [Web活动](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + 正在安装{#installing}
-            + [下载Marketo Sales Insight Solution for Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [下载适用于Microsoft Dynamics的Marketo Sales Insight Solution](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [在Microsoft Dynamics 2011中安装和配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
             + [在Microsoft Dynamics 2013中安装和配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [在Microsoft Dynamics 2015中安装和配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
@@ -1544,15 +1545,15 @@ ht-degree: 0%
             + [禁用全局MS Dynamics同步](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [从MS Dynamics实例卸载MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + 正在更新{#updating}
-            + [升级Marketo Sales Insight Solution for Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [升级适用于Microsoft Dynamics的Marketo Sales Insight Solution](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + Salesforce {#msi-for-salesforce}的MSI
          + 安装{#installation}
             + [在SalesforceAppExchange中安装Marketo Sales Insight包](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 配置 {#configuration}
             + [在Salesforce Enterprise/Unlimited中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-            + [在Salesforce专业版中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [在Marketo Professional Edition中配置Salesforce Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [现有客户的配置](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
-            + [Salesforce中的“Marketo Sales Insight配置”选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Salesforce中的Marketo Sales Insight的“配置”选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [将Marketo选项卡添加到Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
             + [面向Marketo管理员的Sales Insight页面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [添加销售分析权限集](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
@@ -1572,7 +1573,7 @@ ht-degree: 0%
                + [Publish发送电子邮件至Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [发送测试电子邮件](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 语言支持{#language-support}
-               + [为Salesforce中的多语言支持准备销售见解](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
+               + [为Salesforce中的多语言支持准备Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo选项卡{#marketo-tab}
                + [最佳匹配](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [使用潜在客户馈送](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
@@ -1595,7 +1596,7 @@ ht-degree: 0%
             + [在Salesforce1中安装和配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
             + [Salesforce1中的有趣时刻](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
             + [在Salesforce1中查看潜在客户馈送](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
-            + [在Salesforce1中发送Marketo电子邮件和Campaign及Watchlist操作](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+            + [在Salesforce1中发送Marketo电子邮件和促销活动以及关注列表操作](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
          + 正在升级{#upgrading}
             + [升级MSI包](product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)
       + MSI Outlook插件{#msi-outlook-plugin}
