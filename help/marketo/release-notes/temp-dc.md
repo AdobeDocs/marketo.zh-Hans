@@ -4,9 +4,9 @@ title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '495'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 * 已连接的实时聊天总数：已连接的访客数与“与代理聊天”请求的总数
 
-* 错过的实时聊天请求总数：“与代理聊天”的无人参与访客数与请求总数
+* 错过的实时聊天请求总数：无人参与的访客数与“与座席聊天”请求的总数
 
 * 以分钟为单位的平均聊天时长：分析访客与代理之间的“平均聊天时长”
 
@@ -45,7 +45,7 @@ ht-degree: 2%
 
 * 得分值将介于0、1、2、3之间（默认值为null）
 
-* 完成或删除对话后，在活动中保存评分值并发布无法编辑的帖子????????????????????????????????（这是什么意思）
+* 完成或删除对话后，在活动中保存评分值并发布无法编辑的帖子?????（这句句子是什么意思）
 
 * 设置得分：
 
@@ -63,7 +63,7 @@ ht-degree: 2%
 
 如果某个商机使用电子邮件`abc@test.com`填写表单并作为xyz进行Cookie，然后使用电子邮件`def@test.com`填写同一表单，则会创建新商机，但Cookie xyz会与新商机关联并从商机`abc@test.com`中删除。
 
-从那时起，`abc@test.com`将成为无Cookie的潜在客户。 匿名线索??
+从那时起，`abc@test.com`将成为无Cookie的潜在客户。 匿名潜在客户??
 
 因此，当具有Cookie abc的访客登陆页面并提供电子邮件ID为`abc@p.com`时：
 
@@ -83,6 +83,12 @@ GIF
 
 ### 用于继承字体的选项 {#option-to-inherit-font}
 
-作为用户，我希望我的聊天机器人能够直接从正在加载的网页中继承字体，而不是在Dynamic Chat中管理我的品牌字体
+您现在可以启用聊天机器人直接从托管该聊天机器人的网页中继承字体，而不是在Dynamic Chat中管理品牌字体。 启用此选项后，聊天机器人将采用在页面的`<body>`标记上定义的字体。
 
-注意：启用此选项后，聊天机器人将使用在页面的body标记上定义的字体
+屏幕快照
+
+### Demandbase与Dynamic Chat集成 {#demandbase-integration-with-dynamic-chat}
+
+Demandbase用户能够自带Demandbase许可证并激活集成。 使用Demandbase人员属性进行对话框定位、条件品牌推广和自定义路由。
+
+针对潜在客户的这些属性值的解析将实时完成，并存储在相应的潜在客户配置文件中。
