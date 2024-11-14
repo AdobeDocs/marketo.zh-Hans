@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '507'
 ht-degree: 2%
 
 ---
@@ -32,19 +32,9 @@ ht-degree: 2%
    <th style="width:25%">文档</th>
   </tr>
     <tr> 
-   <td><strong>增强了交互式网络研讨会参与信息板中的注册数据</strong>：您现在可以在参与信息板中提供的报表中，查看哪些公司的出席人数最多，并了解公司、职称和行业的最新情况。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-    <tr> 
    <td><strong>交互式网络研讨会的令牌化</strong>：您现在可以使用令牌在电子邮件和登陆页面中推广交互式网络研讨会，而无需手动添加网络研讨会详细信息。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">推广交互式网络研讨会</a></td>
   </tr>
   <tr> 
    <td> </td> 
