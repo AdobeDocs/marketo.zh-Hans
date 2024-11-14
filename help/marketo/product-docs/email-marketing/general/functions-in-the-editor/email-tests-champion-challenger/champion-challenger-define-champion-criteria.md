@@ -4,7 +4,7 @@ description: 冠军/挑战者 — 定义冠军标准 — Marketo文档 — 产�
 title: 冠军/挑战者 — 定义冠军标准
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,7 +29,7 @@ ht-degree: 1%
    >
    >我们将跟踪此量度，并通过电子邮件向您发送包含数据的报表。
 
-1. 如果您选择了默认的&#x200B;**冠军标准**&#x200B;之一，请继续并转到[配置报表警报](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts)！
+1. 如果您选择了默认的&#x200B;**冠军标准**&#x200B;之一，请继续并转到[配置报表警报](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)！
 
 ## 自定义冠军标准 {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ ht-degree: 1%
 
    >[!MORELIKETHIS]
    >
-   >[冠军/挑战者： Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)
+   >[冠军/挑战者： Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
