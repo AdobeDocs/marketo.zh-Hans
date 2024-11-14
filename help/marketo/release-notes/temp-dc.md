@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
-source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 2%
@@ -46,7 +46,7 @@ ht-degree: 2%
 
 * 得分值将介于0、1、2、3之间（默认值为null）
 
-* 完成或删除对话后，在活动中保存评分值并发布无法编辑的帖子?????（这句句子是什么意思）
+* 完成或删除对话后，在活动中保存评分值并发布无法编辑的帖子   ?????（这句句子是什么意思）
 
 * 设置得分：
 
