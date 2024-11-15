@@ -3,9 +3,9 @@ description: 了解Marketo订阅和用户迁移到Adobe Admin Console - Marketo�
 title: 了解Marketo订阅和用户迁移到Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1513'
+source-wordcount: '1553'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式，从而�
 
 * **URL在迁移**&#x200B;后看起来将不同。 迁移后，Marketo Engage将从experience.adobe.com提供给Adobe Experience Cloud。 您需要与IT团队合作，允许列表本文顶部[列出的所有Adobe域](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止对Marketo Engage访问的中断。
 
-资产的ID号保持不变。 而且，以前在engage-xx.marketo.com域&#x200B;_上Marketo Engage资源的链接和书签将继续运行。_&#x200B;但是，您必须首先登录到要导航到的URL的Marketo Engage实例。 例如，要导航到Munchkin ID为123-ABC-456的Smart Campaign实例书签，您需要先登录Munchkin ID为123-ABC-456的Marketo Engage实例。
+资产的ID号保持不变。 而且，以前在engage-xx.marketo.com域&#x200B;_上Marketo Engage资源的链接和书签将继续运行。_&#x200B;但是，您必须首先登录到要导航到的URL的Marketo Engage实例。 例如，要导航到Munchkin ID为123-ABC-456的实例中Smart Campaign的书签，您需要先登录Munchkin ID为123-ABC-456的Marketo Engage实例。
 
 ## 哪些方面没有改变？ {#what-is-not-changing}
 
@@ -82,6 +82,8 @@ Marketo产品管理员将：
 
 * 检查Marketo管理区域中所有用户的[电子邮件验证](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"}状态。 鼓励尚未验证电子邮件地址的用户验证其电子邮件地址，并帮助用户解决完成验证过程时遇到的任何挑战。
 
+* 在电子邮件收件箱中搜索“已锁定”的用户通知。 建议已被锁定的用户重置密码，以便在迁移日期之前重新建立对Marketo Engage的访问权限。
+
 * 为所有用户准备即将迁移到Adobe身份。
 
 >[!NOTE]
@@ -90,7 +92,7 @@ Marketo产品管理员将：
 
 >[!IMPORTANT]
 >
->如果Marketo Engage用户不验证其电子邮件地址，则不会将其迁移到Adobe ID，并且在迁移到Marketo订阅完成后，他们将失去对AppMeasurement的访问权限。 要重新获得访问权限，Marketo产品管理员需要将用户添加为新用户。
+>如果Marketo Engage用户未验证其电子邮件地址，或在迁移用户时锁定，则不会将其迁移到Adobe ID，并且在完成迁移Marketo订阅后，将无法访问该订阅。 要重新获得访问权限，Marketo产品管理员需要将用户添加为新用户。
 
 ### 迁移日期待完成的任务 {#what-to-expect-on-migration-day}
 
