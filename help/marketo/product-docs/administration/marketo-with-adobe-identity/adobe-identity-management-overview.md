@@ -3,16 +3,16 @@ description: AdobeIdentity Management概述 — Marketo文档 — 产品文档
 title: AdobeIdentity Management概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 8d4a542687119e7e4044b26eeafcc71315609f19
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # AdobeIdentity Management概述 {#adobe-identity-management-overview}
 
-所有新的Adobe Marketo Engage订阅（2023年7月31日或更高版本）都与AdobeIdentity Management System集成。 现有Marketo Engage订阅当前在发生任何Adobe活动时迁移到Identity Management System，其中包括续订、重新签约活动和/或附录。 目前不支持在销售事件之外进行迁移。
+所有新的Adobe Marketo Engage订阅（2023年7月31日或更高版本）都与AdobeIdentity Management System集成。 现有Marketo Engage订阅当前在发生任何Adobe活动时迁移到Identity Management System，其中包括续订、重新签约活动和/或附录。 从2024年10月起，支持在销售活动之外进行迁移。 如果计划在销售活动之外迁移订阅，Marketo管理员将提前2-4周收到通知。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 对于登记到Adobe身份的预订，Adobe Admin Console用于用户管理。 与身份相关的概念（如单点登录）也在Admin Console中进行管理。
 
 * 查找有关[Adobe Admin Console](https://helpx.adobe.com/cn/enterprise/using/admin-console.html){target="_blank"}的更多信息。
-* 查找有关[设置与您的Marketo订阅相关的Adobe组织的更多信息](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
+* 查找有关[设置与您的Marketo订阅相关的Adobe组织的更多信息](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ ht-degree: 0%
  </tr>
 </table>
 
-## 常见问题 {#faq}
+## 常见问题解答 {#faq}
 
 常见问题解答[可在此找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}。
 
