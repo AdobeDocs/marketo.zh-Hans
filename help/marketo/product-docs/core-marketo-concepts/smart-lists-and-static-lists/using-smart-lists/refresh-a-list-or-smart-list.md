@@ -4,7 +4,7 @@ description: 刷新列表或智能列表 — Marketo文档 — 产品文档
 title: 刷新列表或智能列表
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 1. 要更新智能列表的&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡中的数据，请单击刷新图标。
 
-   ![](assets/refreshbutton.png)
+   ![](assets/refresh-a-list-or-smart-list-1.png)
 
 1. 智能列表会重新运行并显示一个最新的结果集。
 
-   ![](assets/loadingrefresh.png)
+   ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
