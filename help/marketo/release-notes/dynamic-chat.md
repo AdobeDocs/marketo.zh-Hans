@@ -3,7 +3,7 @@ description: Dynamic Chat 发行说明 - Marketo Docs - 产品文档
 title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
+source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 1%
@@ -120,29 +120,29 @@ Adobe Dynamic Chat版本在持续交付模型上运行，该模型允许采用�
   </tr>
 </tbody></table>
 
-### 优化会话流加载时间 {#optimized-conversation-flow-load-time}
-
-为了改善用户体验，在加载对话流时，现在会显示闪烁的加载器，而不是空格。
-
-**早于**
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**After**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### 用于继承字体的选项 {#option-to-inherit-font}
 
 您现在可以启用聊天机器人直接从托管该聊天机器人的网页中继承字体，而不是在Dynamic Chat中管理品牌字体。 启用此选项后，聊天机器人将采用在页面的`<body>`标记上定义的字体。
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Demandbase与Dynamic Chat集成 {#demandbase-integration-with-dynamic-chat}
 
 Demandbase用户能够自带Demandbase许可证并激活集成。 使用Demandbase人员属性进行对话框定位、条件品牌推广和自定义路由。
 
 针对人员的这些属性值的解析将实时完成，并存储在相应的人员配置文件中。
+
+### 优化会话流加载时间 {#optimized-conversation-flow-load-time}
+
+为了改善用户体验，在加载对话流时，现在会显示闪烁的加载器，而不是空格。
+
+**早于**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**After**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## 2024 年 8 月版 {#august-release}
 
