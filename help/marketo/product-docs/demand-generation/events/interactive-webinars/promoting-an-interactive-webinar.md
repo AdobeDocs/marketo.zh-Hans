@@ -3,20 +3,20 @@ description: 推广交互式网络研讨会 — Marketo文档 — 产品文档
 title: 推广交互式网络研讨会
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # 推广交互式网络研讨会 {#promoting-an-interactive-webinar}
 
-推广交互式网络研讨会与通过Launchpoint推广合作伙伴网络研讨会类似。 在创建交互式网络研讨会事件程序时，您可以通过运行活动或将成员导入程序来向程序添加成员。 要检查已添加到交互式网络研讨会事件程序中的成员，请单击“成员”选项卡。
+推广交互式网络研讨会与通过Launchpoint推广合作伙伴网络研讨会类似。 创建交互式网络研讨会事件程序时，可以通过运行活动或将成员导入程序来添加成员。 要检查已添加到交互式网络研讨会事件程序的成员，请单击&#x200B;**成员**&#x200B;选项卡。
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-将成员添加或导入项目群后，您可以在交互式网络研讨会活动项目群内创建一个电子邮件促销活动，向所有项目群成员发送邀请，并在发送电子邮件后将成员状态更改为“已邀请”。
+添加或导入成员后，您可以在交互式网络研讨会活动项目群内创建一个电子邮件促销活动，向所有项目群成员发送邀请，并在发送电子邮件后将其状态更改为“已邀请”。
 
 >[!NOTE]
 >
