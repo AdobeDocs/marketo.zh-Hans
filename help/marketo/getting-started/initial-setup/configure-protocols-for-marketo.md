@@ -4,9 +4,9 @@ description: 配置Marketo Engage协议 — Marketo Engage文档 — 产品文�
 title: 配置用于Marketo Engage的协议
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
 workflow-type: tm+mt
-source-wordcount: '2145'
+source-wordcount: '2148'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
 
 ## 步骤3：设置SPF和DKIM {#step-set-up-spf-and-dkim}
 
-您的营销团队还应向您发送要添加到DNS资源记录的DKIM（域密钥识别邮件）信息（也如下所列）。 按照步骤成功配置DKIM和SPF (Sender Policy Framework)，然后通知您的营销团队此策略已更新。
+您的营销团队还应该向您发送DKIM (Domain Keys Identified Mail)信息，以将其添加到DNS资源记录（也如下所列）。 按照以下步骤成功配置DKIM和SPF (Sender Policy Framework)，然后通知您的营销团队此策略已更新。
 
 1. 要设置SPF，请将以下行添加到我们的DNS条目中：
 
@@ -110,7 +110,7 @@ CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
 
 ## 步骤4：设置DMARC {#set-up-dmarc}
 
-DMARC（基于域的消息身份验证、报告和符合性）是一种身份验证协议，用于帮助组织保护其域免遭未经授权的使用。 DMARC扩展了现有的身份验证协议（如SPF和DKIM），以通知收件人服务器如果在其域上发生身份验证失败时应采取的操作。 尽管DMARC当前是可选的，但强烈建议使用，因为它可以更好地保护您组织的品牌和声誉。 从2024年2月开始，Google和Yahoo等主要提供商将要求对批量发件人使用DMARC。
+DMARC（基于域的消息身份验证、报告和符合性）是一种身份验证协议，用于帮助组织保护其域免遭未经授权的使用。 DMARC扩展了现有的身份验证协议(如SPF和DKIM)，以通知收件人服务器如果在他们的域中发生身份验证失败，他们应该采取的操作。 尽管DMARC当前是可选的，但强烈建议使用，因为它可以更好地保护您组织的品牌和声誉。 从2024年2月开始，Google和Yahoo等主要提供商将要求对批量发件人使用DMARC。
 
 要使DMARC正常运行，您必须至少具有以下DNS TXT记录之一：
 
@@ -119,7 +119,7 @@ DMARC（基于域的消息身份验证、报告和符合性）是一种身份验
 
 此外，您的FROM：域必须具有特定于DMARC的DNS TXT记录。 （可选）您可以定义您选择的电子邮件地址，以指示DMARC报表在组织内的放置位置，从而监控报表。
 
-作为最佳实践，建议您逐步推出DMARC实施，方法是将DMARC政策从p=none提升到p=quarantine和p=reject，因为您可以了解DMARC的潜在影响，并将DMARC政策设置为放松在SPF和DKIM上的保持一致。
+作为最佳实践，建议您逐步推出DMARC实施，方法是将DMARC策略从p=none提升到p=quarantine和p=reject，因为您可以了解DMARC的潜在影响，并将DMARC策略设置为放松在SPF和DKIM上的保持一致。
 
 ### DMARC示例工作流 {#dmarc-example-workflow}
 
@@ -131,7 +131,7 @@ DMARC（基于域的消息身份验证、报告和符合性）是一种身份验
 
    三、 确定SPF或DKIM是否一致，并通过所有合法电子邮件的身份验证。
 
-   四、 审阅报告以确保根据SPF/DKIM策略得出的结果符合您的预期。
+   四、 查看报告以确保根据SPF/DKIM策略得出的结果符合您的预期。
 
 1. 继续将策略调整为(p=quarantine)，以告知接收电子邮件服务器隔离身份验证失败的电子邮件（这通常意味着将这些邮件放入垃圾邮件文件夹）。
 
@@ -145,7 +145,7 @@ DMARC（基于域的消息身份验证、报告和符合性）是一种身份验
 
 ### DMARC报表 {#dmarc-reporting}
 
-DMARC提供接收有关SPF/DKIM失败的电子邮件的报表的功能。 在身份验证过程中，ISP服务生成了两个不同的报告，发件人可以通过其DMARC策略中的RUA/RUF标记接收这些报告。
+DMARC提供接收未通过SPF/DKIM的电子邮件报表的功能。 在身份验证过程中，ISP服务生成了两个不同的报告，发件人可以通过其DMARC策略中的RUA/RUF标记接收这些报告。
 
 * 汇总报表(RUA)：不包含任何对GDPR（《通用数据保护条例》）敏感的PII（个人身份信息）。
 
@@ -229,7 +229,7 @@ DMARC记录具有多个名为DMARC标记的组件。 每个标记都有一个值
   <tr>
     <td>adkim</td>
     <td>可选</td>
-    <td>可以是严格(s)或宽松®。 松弛对齐意味着DKIM签名中使用的域可以是“发件人”地址的子域。 严格对齐意味着DKIM签名中使用的域必须与发件人地址中使用的域完全匹配。</td>
+    <td>可以是严格(s)或宽松®。 宽松的对齐意味着DKIM签名中使用的域可以是“发件人”地址的子域。 严格对齐意味着DKIM签名中使用的域必须与发件人地址中使用的域完全匹配。</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
@@ -247,15 +247,15 @@ DMARC记录具有多个名为DMARC标记的组件。 每个标记都有一个值
 
 ### DMARC和Marketo Engage {#dmarc-and-marketo-engage}
 
-DMARC有两种对齐方式 — DKIM对齐和SPF对齐。
+DMARC有两种对齐方式 — DKIM对齐方式和SPF对齐方式。
 
 >[!NOTE]
 >
 >建议在DKIM与SPF上对DMARC进行对齐以进行Marketo Engage。
 
-* 与DKIM一致的DMARC — 要设置DKIM一致的DMARC，您必须：
+* 与DKIM关联的DMARC — 要设置DKIM关联的DMARC，您必须：
 
-   * 为消息的FROM：域设置DKIM。 使用本文](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的说明[。
+   * 为消息的“发件人：域”设置DKIM。 使用本文](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的说明[。
    * 为之前配置的FROM：/DKIM域配置DMARC
 
 * DMARC对齐的SPF — 要通过品牌返回路径设置DMARC对齐的SPF，您必须：
@@ -369,13 +369,20 @@ Marketo Engage[Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesfor
    <tr>
    <td>54.237.141.197</td>
   </tr>
+  <tr>
+   <td>124.47.174.193</td>
   </tr>
-   <tr>
+  <tr>
    <td>130.248.168.16</td>
-  </tr>
   </tr>
    <tr>
    <td>130.248.168.17</td>
+  </tr>
+  <tr>
+   <td>199.15.213.245</td>
+  </tr>
+  <tr>
+   <td>199.15.215.245</td>
   </tr>
  </tbody>
 </table>
