@@ -4,9 +4,9 @@ description: 手动创建人员 — Marketo文档 — 产品文档
 title: 手动创建人员
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,12 @@ ht-degree: 0%
 
 1. 转到&#x200B;**[!UICONTROL 数据库]**。
 
-   ![](assets/db-1.png)
+   ![](assets/create-a-person-manually-1.png)
 
 1. 在&#x200B;**[!UICONTROL 新建]**&#x200B;下，单击&#x200B;**[!UICONTROL 新建人员]**。
 
-   ![](assets/two-2.png)
+   ![](assets/create-a-person-manually-2.png)
 
 1. 输入人员信息，然后单击&#x200B;**[!UICONTROL 创建]**。
 
-   ![](assets/three-2.png)
-
-这是在Marketo中快速轻松地添加单个人员的方法！
+   ![](assets/create-a-person-manually-3.png)

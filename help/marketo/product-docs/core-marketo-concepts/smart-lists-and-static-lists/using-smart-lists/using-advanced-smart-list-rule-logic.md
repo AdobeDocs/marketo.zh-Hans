@@ -4,7 +4,7 @@ description: 使用高级智能列表规则逻辑 — Marketo文档 — 产品�
 title: 使用高级智能列表规则逻辑
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 从下拉列表中选择&#x200B;**[!UICONTROL 使用高级筛选器]**。
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
@@ -40,11 +40,11 @@ ht-degree: 0%
 
 1. **[!UICONTROL 高级筛选器]**&#x200B;文本框将显示“和”作为所有筛选器之间的默认值。
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. 在“2和3”周围键入一对圆括号。
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -52,19 +52,19 @@ ht-degree: 0%
 
 1. 将“2和3”之间的“和”更改为“或”。
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## 混合“And”和“Or”时使用圆括号 {#use-parentheses-when-mixing-and-and-or}
 
 将“and”和“or”逻辑混合在一起时，需要用括号明确表达您的意图。
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## 如果需要，可为四个或更多过滤器使用嵌套括号 {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 根据您的意图，在使用四个或更多过滤器时，您可能需要添加嵌套括号。
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >

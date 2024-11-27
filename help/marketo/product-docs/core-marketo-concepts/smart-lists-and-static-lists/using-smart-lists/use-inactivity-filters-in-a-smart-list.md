@@ -4,7 +4,7 @@ description: 在智能列表中使用非活动筛选器 — Marketo文档 — �
 title: 在智能列表中使用非活动筛选器
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 1. 转到&#x200B;**[!UICONTROL 营销活动]**。
 
-   ![](assets/login-marketing-activities-3.png)
+   ![](assets/use-inactivity-filters-in-a-smart-list-1.png)
 
 1. 选择要编辑的智能列表，然后单击&#x200B;**[!UICONTROL 智能列表]**&#x200B;选项卡。
 
-   ![](assets/smartlist-choose.png)
+   ![](assets/use-inactivity-filters-in-a-smart-list-2.png)
 
 1. 查找您选择的非活动筛选器并将其拖到画布中。 例如，我们查找尚未访问过您任何页面的人员。
 
-   ![](assets/draginactivityfilter.png)
+   ![](assets/use-inactivity-filters-in-a-smart-list-3.png)
 
    >[!TIP]
    >
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 1. 选择&#x200B;**[!UICONTROL 是any]**&#x200B;运算符。 这会查找过去30天内未访问任何页面的所有人员。
 
-   ![](assets/mysmartlist-people.jpg)
+   ![](assets/use-inactivity-filters-in-a-smart-list-4.png)
