@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512270
-description: "添加Adobe Connect即 [!DNL LaunchPoint] 服务 — Marketo文档 — 产品文档"
-title: “将Adobe Connect添加为 [!DNL LaunchPoint] 服务”
+description: 添加Adobe Connect即 [!DNL LaunchPoint] 服务 — Marketo文档 — 产品文档
+title: 将Adobe Connect添加为 [!DNL LaunchPoint] 服务
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b

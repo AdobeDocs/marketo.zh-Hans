@@ -1,6 +1,6 @@
 ---
-description: "更改 [!DNL Velocity Scripting] - Marketo文档 — 产品文档中的自定义对象检索限制"
-title: “更改 [!DNL Velocity Scripting]中的自定义对象检索限制”
+description: 在 [!DNL Velocity Scripting] - Marketo文档 — 产品文档中更改自定义对象检索限制
+title: 更改 [!DNL Velocity Scripting]中的自定义对象检索限制
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f

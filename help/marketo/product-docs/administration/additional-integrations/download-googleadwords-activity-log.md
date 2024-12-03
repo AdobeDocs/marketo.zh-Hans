@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512607
-description: “下载 [!DNL GoogleAdwords Activity Log] - Marketo文档 — 产品文档”
-title: "下载 [!DNL GoogleAdwords Activity Log]"
+description: 下载 [!DNL GoogleAdwords Activity Log] - Marketo文档 — 产品文档
+title: 下载 [!DNL GoogleAdwords Activity Log]
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f

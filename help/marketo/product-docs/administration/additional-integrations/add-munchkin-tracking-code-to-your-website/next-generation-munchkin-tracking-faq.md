@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10096583
-description: “下一代 [!DNL Munchkin] 跟踪常见问题解答 — Marketo文档 — 产品文档”
-title: “下一代 [!DNL Munchkin] 跟踪常见问题解答”
+description: 新一代 [!DNL Munchkin] 跟踪常见问题解答 — Marketo文档 — 产品文档
+title: 下一代 [!DNL Munchkin] 跟踪常见问题解答
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 我是否需要对我网站上的[!DNL Munchkin]跟踪进行任何更改？ {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-不适用。 [!DNL Munchkin]跟踪代码保持不变。 无需对您的网站进行更改。
+不会。[!DNL Munchkin]跟踪代码保持不变。 无需对您的网站进行更改。
 
 >[!NOTE]
 >

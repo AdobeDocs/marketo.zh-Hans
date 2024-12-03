@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504893
-description: “使用经理帐户添加 [!DNL Google AdWords] 作为 [!DNL Launchpoint] 服务 — Marketo文档 — 产品文档”
-title: “使用经理帐户添加 [!DNL Google AdWords] 作为 [!DNL Launchpoint] 服务”
+description: 使用经理帐户添加 [!DNL Google AdWords] 作为 [!DNL Launchpoint] 服务 — Marketo文档 — 产品文档
+title: 添加 [!DNL Google AdWords] 作为经理帐户的 [!DNL Launchpoint] 服务
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15695874
-description: "将 [!DNL BrightTALK] 连接到Marketo - Marketo文档 — 产品文档"
-title: “连接 [!DNL BrightTALK] 到Marketo”
+description: 将 [!DNL BrightTALK] 连接到Marketo - Marketo文档 — 产品文档
+title: 连接 [!DNL BrightTALK] 到Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
