@@ -3,9 +3,9 @@ description: 添加或删除用户 — Marketo文档 — 产品文档
 title: 添加或删除用户
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -58,6 +58,10 @@ ht-degree: 2%
 
 ## 删除用户 {#remove-a-user}
 
+>[!NOTE]
+>
+>您必须是系统管理员才能删除用户。
+
 1. 登录到[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
 
    ![](assets/add-or-remove-a-user-9.png)
@@ -87,4 +91,4 @@ ht-degree: 2%
 >[!MORELIKETHIS]
 >
 >* [Adobe Admin Console用户](https://helpx.adobe.com/cn/enterprise/using/users.html){target="_blank"}
->* [单独管理用户](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [单独管理用户](https://helpx.adobe.com/cn/enterprise/using/manage-users-individually.html){target="_blank"}

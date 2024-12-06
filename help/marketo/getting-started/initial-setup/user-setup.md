@@ -4,9 +4,9 @@ short-description: 完成初始设置步骤后，了解如何建立基础元素�
 title: 用户设置核对清单
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '823'
 ht-degree: 7%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 7%
 <table>
 <thead>
   <tr>
-    <th style="width:20%">面积图</th>
+    <th style="width:20%">面积</th>
     <th style="width:80%">操作项</th>
   </tr>
 </thead>
@@ -48,6 +48,7 @@ ht-degree: 7%
   <tr>
     <td>用户</td>
     <td><li>创建有关何时<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">创建用户</a>的策略。</li> <li>创建有关何时删除用户的策略。</li>
+    <p><img src="assets/note-icon.png" alt="注释图标"> 注意：您必须是系统管理员才能删除用户。
     <li>确定谁应具有<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe的系统管理员和Marketo Engage产品管理员权限。</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">将用户</a>添加到所需的产品配置文件。</li>
     <li>为每个API用例创建一个API用户。</li></td>
   </tr>
@@ -73,7 +74,7 @@ ht-degree: 7%
 <table>
 <thead>
   <tr>
-    <th style="width:20%">面积图</th>
+    <th style="width:20%">面积</th>
     <th style="width:80%">操作项</th>
   </tr>
 </thead>
@@ -105,7 +106,7 @@ ht-degree: 7%
 <table>
 <thead>
   <tr>
-    <th style="width:20%">面积图</th>
+    <th style="width:20%">面积</th>
     <th style="width:80%">操作项</th>
   </tr>
 </thead>
