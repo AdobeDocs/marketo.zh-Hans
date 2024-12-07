@@ -4,20 +4,16 @@ description: CRM的Sales Connect自定义项 — Marketo文档 — 产品文档
 title: CRM的Sales Connect自定义项
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
 workflow-type: tm+mt
-source-wordcount: '701'
-ht-degree: 0%
+source-wordcount: '690'
+ht-degree: 1%
 
 ---
 
 # CRM的Sales Connect自定义项 {#sales-connect-customizations-for-crm}
 
-下面的字段和按钮由Salesforce CRM中的元数据API创建。 创建字段后，管理员必须在其CRM中配置页面布局以公开它们。 可在[此处](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)找到说明。
-
->[!NOTE]
->
->这会影响ToutApp和Sales Connect客户。
+下面的字段和按钮由Salesforce CRM中的元数据API创建。 创建字段后，管理员必须在其CRM中配置页面布局以公开它们。 可以在此找到[说明](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)。
 
 ## 如何在Salesforce中安装自定义项 {#how-to-install-customizations-in-salesforce}
 
@@ -77,97 +73,166 @@ Salesforce自定义包的更新将包括增强功能和错误修复。 要检查
 
 Marketo将检测新字段的创建，然后执行一次性数据回填、重新映射和仅将值持续同步到&#x200B;**新**&#x200B;字段。 不会更新旧字段。
 
-| **字段名称** | **描述** |
-|---|---|
-| MSE调用本地存在ID | 作为用户，当您从MSE电话进行呼叫时，可以选择“本地存在”作为选项。 来电将显示接收者的本地号码。 |
-| MSE呼叫录音URL | 可以录制呼叫，并在此处记录录制链接。 |
-| MSE活动 | 联系人/潜在客户所属的MSE营销活动的日志名称。 |
-| MSE营销活动URL | 记录在MSE中创建的营销活动的URL。 单击此项将在MSE Web应用程序中打开营销活动。 |
-| MSE营销活动当前步骤 | 如果联系人/潜在客户属于营销策划，此字段将记录该潜在客户/联系人当前所在步骤的名称。 |
-| 已查看MSE电子邮件附件 | 在发送带有附件的电子邮件且收件人查看附件时记录数据。 |
-| 已单击MSE电子邮件 | 当收件人单击电子邮件中的链接时，记录复选标记。 |
-| MSE电子邮件已回复 | 在收件人回复电子邮件时记录复选标记。 |
-| MSE电子邮件状态 | 显示电子邮件是否已发送/进行中/退回（跟踪退回的电子邮件取决于使用的投放渠道）。 |
-| MSE电子邮件模板 | 发送给潜在客户/联系人的电子邮件中使用的MSE模板的日志名称。 |
-| MSE电子邮件模板URL | 将指向MSE中创建的模板的URL记录下来。 单击此项将在MSE Web应用程序中打开模板。 |
-| MSE电子邮件URL | 单击此URL将在MSE中打开命令中心，并拉出“人员详细信息”视图历史记录选项卡，您可以在其中查看已发送的电子邮件。 |
-| 已查看MSE电子邮件 | 在收件人查看电子邮件时记录复选标记。 |
+<table><thead>
+  <tr>
+    <th>字段名称</th>
+    <th>描述</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>MSE调用本地存在ID</td>
+    <td>作为用户，当您从MSE电话进行呼叫时，可以选择“本地存在”作为选项。 来电将显示接收者的本地号码。</td>
+  </tr>
+  <tr>
+    <td>MSE呼叫录音URL</td>
+    <td>可以录制呼叫，并在此处记录录制链接。</td>
+  </tr>
+  <tr>
+    <td>MSE活动</td>
+    <td>联系人/潜在客户所属的MSE营销活动的日志名称。</td>
+  </tr>
+  <tr>
+    <td>MSE营销活动URL</td>
+    <td>记录在MSE中创建的营销活动的URL。 单击此项将在MSE Web应用程序中打开营销活动。</td>
+  </tr>
+  <tr>
+    <td>MSE营销活动当前步骤</td>
+    <td>如果联系人/潜在客户属于营销策划，此字段将记录该潜在客户/联系人当前所在步骤的名称。</td>
+  </tr>
+  <tr>
+    <td>已查看MSE电子邮件附件</td>
+    <td>在发送带有附件的电子邮件且收件人查看附件时记录数据。</td>
+  </tr>
+  <tr>
+    <td>已单击MSE电子邮件</td>
+    <td>当收件人单击电子邮件中的链接时，记录复选标记。</td>
+  </tr>
+  <tr>
+    <td>MSE电子邮件已回复</td>
+    <td>在收件人回复电子邮件时记录复选标记。</td>
+  </tr>
+  <tr>
+    <td>MSE电子邮件状态</td>
+    <td>显示电子邮件是否已发送/进行中/退回（跟踪退回的电子邮件取决于使用的投放渠道）。</td>
+  </tr>
+  <tr>
+    <td>MSE电子邮件模板</td>
+    <td>发送给潜在客户/联系人的电子邮件中使用的MSE模板的日志名称。</td>
+  </tr>
+  <tr>
+    <td>MSE电子邮件模板URL</td>
+    <td>将指向MSE中创建的模板的URL记录下来。 单击此项将在MSE Web应用程序中打开模板。</td>
+  </tr>
+  <tr>
+    <td>MSE电子邮件URL</td>
+    <td>单击此URL将在MSE中打开命令中心，并拉出“人员详细信息”视图历史记录选项卡，您可以在其中查看已发送的电子邮件。</td>
+  </tr>
+  <tr>
+    <td>已查看MSE电子邮件</td>
+    <td>在收件人查看电子邮件时记录复选标记。</td>
+  </tr>
+</tbody></table>
 
 ## 汇总日志记录字段 {#roll-up-logging-fields}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>字段名称</strong></td> 
-   <td><strong>描述</strong></td> 
-  </tr> 
-  <tr> 
-   <td>MSE — 上次营销活动</td> 
-   <td>上次来自营销的传入参与。 </td> 
-  </tr> 
-  <tr> 
-   <td>MSE — 上次营销参与日期</td> 
-   <td>营销活动的参与时间戳。</td> 
-  </tr> 
-  <tr> 
-   <td>MSE — 上次营销参与说明</td> 
-   <td>预订的描述。</td> 
-  </tr> 
-  <tr> 
-   <td>MSE — 上次营销参与Source</td> 
-   <td>Source营销参与度。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE — 上次营销参与类型</td> 
-   <td colspan="1">参与类型。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE — 按销售列出的最近活动<br></td> 
-   <td colspan="1">销售团队执行的最后一次传出活动。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE — 上次回复</td> 
-   <td colspan="1">销售电子邮件的最后一个电子邮件回复。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE — 当前促销活动</td> 
-   <td colspan="1">记录潜在客户/联系人所属的MSE营销活动的名称。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE — 上次销售参与</td> 
-   <td colspan="1">来自销售人员的最后一次传入预订。 </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE — 选择退出</td> 
-   <td colspan="1">“选择禁用”字段。</td> 
-  </tr> 
- </tbody> 
-</table>
+<table><thead>
+  <tr>
+    <th>字段名称</th>
+    <th>描述</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>MSE — 上次营销活动</td>
+    <td>上次来自营销的传入参与。</td>
+  </tr>
+  <tr>
+    <td>MSE — 上次营销参与日期</td>
+    <td>营销活动的参与时间戳。</td>
+  </tr>
+  <tr>
+    <td>MSE — 上次营销参与说明</td>
+    <td>预订的描述。</td>
+  </tr>
+  <tr>
+    <td>MSE — 上次营销参与Source</td>
+    <td>Source营销参与度。</td>
+  </tr>
+  <tr>
+    <td>MSE — 上次营销参与类型</td>
+    <td>参与类型。</td>
+  </tr>
+  <tr>
+    <td>MSE — 按销售列出的最近活动</td>
+    <td>销售团队执行的最后一次传出活动。</td>
+  </tr>
+  <tr>
+    <td>MSE — 上次回复</td>
+    <td>销售电子邮件的最后一个电子邮件回复。</td>
+  </tr>
+  <tr>
+    <td>MSE — 当前促销活动</td>
+    <td>记录潜在客户/联系人所属的MSE营销活动的名称。</td>
+  </tr>
+  <tr>
+    <td>MSE — 上次销售参与</td>
+    <td>来自销售人员的最后一次传入预订。</td>
+  </tr>
+  <tr>
+    <td>MSE — 选择退出</td>
+    <td>“选择禁用”字段。</td>
+  </tr>
+</tbody></table>
 
 ## 按钮 {#buttons}
 
-| **按钮名称** | **描述** |
-|---|---|
-| 发送MSE电子邮件 | 从Salesforce发送销售电子邮件。 |
-| 添加到MSE营销活动 | 从Salesforce添加到MSE营销活动。 |
-| 推送到MSE | 将联系人从Salesforce推送到MSE。 |
-| 使用MSE调用 | 从Salesforce发出销售调用。 |
+<table><thead>
+  <tr>
+    <th>按钮名称</th>
+    <th>描述</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>发送MSE电子邮件</td>
+    <td>从Salesforce发送销售电子邮件。</td>
+  </tr>
+  <tr>
+    <td>添加到MSE营销活动</td>
+    <td>从Salesforce添加到MSE营销活动。</td>
+  </tr>
+  <tr>
+    <td>推送到MSE</td>
+    <td>将联系人从Salesforce推送到MSE。</td>
+  </tr>
+  <tr>
+    <td>使用MSE调用</td>
+    <td>从Salesforce发出销售呼叫。</td>
+  </tr>
+</tbody>
+</table>
 
 ## 批量操作按钮 {#bulk-action-buttons}
 
-| **按钮名称** | **描述** |
-|---|---|
-| 添加到MSE营销活动 | 从Salesforce添加到MSE营销活动。 |
-| 推送到MSE | 将联系人从Salesforce推送到MSE。 |
+<table><thead>
+  <tr>
+    <th>按钮名称</th>
+    <th>描述</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>添加到MSE营销活动</td>
+    <td>从Salesforce添加到MSE营销活动。</td>
+  </tr>
+  <tr>
+    <td>推送到MSE</td>
+    <td>将联系人从Salesforce推送到MSE。</td>
+  </tr>
+</tbody>
+</table>
 
 ## 用户指南 {#user-guides}
 
-Salesforce中的[MSE自定义报告](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Salesforce中的MSE自定义报表](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/reports-and-dashboards.pdf)
 
-Salesforce的[MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[适用于Salesforce Classic的MSE](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)
 
-Salesforce Lightning的[MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[适用于Salesforce Lightning的MSE](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/sfdc-guide-lightning.pdf)
