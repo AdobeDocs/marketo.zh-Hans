@@ -4,7 +4,7 @@ description: 在电子邮件中转发到朋友链接 — Marketo文档 — 产�
 title: 在电子邮件中转发到朋友链接
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 1. 将以下HTML代码粘贴到您希望显示“转发给朋友”链接的位置（如果您需要有关此部件的帮助，请咨询您的Web开发人员）：
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+   `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
    ![](assets/three-7.png)
 
@@ -122,9 +122,9 @@ ht-degree: 0%
 
    ![](assets/sixteen.png)
 
-1. 要按ID查看人员，请将&#x200B;**人员ID**&#x200B;复制并粘贴到URL的末尾(上述URL的开头将取决于您的Marketo实例)：
+1. 要按ID查看人员，请将&#x200B;**人员ID**&#x200B;复制并粘贴到URL的末尾(URL的开头将取决于您的Marketo实例)：
 
-   `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
+   `...marketo.com/Database/loadPersonDetail?personId=`
 
    >[!NOTE]
    >

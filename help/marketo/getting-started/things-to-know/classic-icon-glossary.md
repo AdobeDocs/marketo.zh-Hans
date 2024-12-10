@@ -3,10 +3,10 @@ description: Classic图标术语表 — Marketo文档 — 产品文档
 title: Classic图标术语表
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -185,7 +185,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-8-18-3a25-3a25.png"> 
     </td> 
-   <td>蒙奇金</td> 
+   <td>Munchkin</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-18-3a26-3a58.png"> 
@@ -376,7 +376,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a50-3a30.png"> 
     </td> 
-   <td>删除</td> 
+   <td>Delete</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a53-3a0.png"> 
@@ -401,7 +401,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a56-3a46.png"> 
     </td> 
-   <td>审批</td> 
+   <td>批准</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a57-3a27.png"> 
@@ -411,7 +411,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a58-3a0.png"> 
     </td> 
-   <td>删除</td> 
+   <td>Delete</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-15-3a15-3a42.png"> 
@@ -431,7 +431,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-15-3a17-3a53.png"> 
     </td> 
-   <td>审批</td> 
+   <td>批准</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-15-3a18-3a20.png"> 
@@ -441,7 +441,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-15-3a19-3a46.png"> 
     </td> 
-   <td>删除</td> 
+   <td>Delete</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-15-3a20-3a13.png"> 
@@ -461,7 +461,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a3-3a21.png"> 
     </td> 
-   <td>删除</td> 
+   <td>Delete</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a3-3a30.png"> 
@@ -617,7 +617,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </td> 
-   <td>新</td> 
+   <td>新增</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png"> 
@@ -668,7 +668,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </td> 
-   <td>报告</td> 
+   <td>报表</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a56-3a29.png"> 
@@ -734,12 +734,12 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a27-3a2.png"> 
     </td> 
-   <td>数字</td> 
+   <td>数值</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce（也适用于所有SFDC相关项目）</td> 
+   <td>Salesforce(也适用于所有SFDC相关项目)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a44-3a30.png"> 
@@ -790,7 +790,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce（也适用于所有SFDC相关项目）</td> 
+   <td>Salesforce(也适用于所有SFDC相关项目)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a33-3a11.png"> 
@@ -871,7 +871,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </td> 
-   <td>新</td> 
+   <td>新增</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png"> 
@@ -885,3 +885,4 @@ ht-degree: 6%
   </tr> 
  </tbody> 
 </table>
+ 

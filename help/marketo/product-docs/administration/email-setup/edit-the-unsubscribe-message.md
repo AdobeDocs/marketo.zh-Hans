@@ -4,7 +4,7 @@ description: 编辑取消订阅消息 — Marketo文档 — 产品文档
 title: 编辑取消订阅消息
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -51,8 +51,8 @@ ht-degree: 0%
 如果您需要恢复为默认系统取消订阅，请复制/粘贴以下内容：
 
 [!UICONTROL 取消订阅HTML]：
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL 取消订阅文本]：
-`<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
+`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL 取消订阅文本]：
+`%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 >[!MORELIKETHIS]
 >

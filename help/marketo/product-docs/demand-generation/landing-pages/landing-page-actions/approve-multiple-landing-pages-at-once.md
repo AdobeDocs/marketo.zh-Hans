@@ -4,9 +4,9 @@ description: 同时批准多个登陆页面 — Marketo文档 — 产品文档
 title: 一次批准多个登陆页面
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 1. 转到&#x200B;**设计工作室**。
 
-   ![](assets/image2014-9-17-11-3a35-3a5.png)
+   ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
 1. 单击&#x200B;**登陆页面**。
 
-   ![](assets/image2014-9-17-11-3a35-3a11.png)
+   ![](assets/approve-multiple-landing-pages-at-once-2.png)
 
-1. 按住Ctrl键(Windows)或Command键(Mac)，然后单击以选择多个登陆页面。
+1. 选择所需的登陆页面。
 
-   ![](assets/image2014-9-17-11-3a35-3a19.png)
+   ![](assets/approve-multiple-landing-pages-at-once-3.png)
 
    >[!TIP]
    >
    >请不要单击实际的登陆页面名称，这些是链接，会将您转到页面本身。
 
-1. 选择登陆页面后，转到&#x200B;**登陆页面操作**，然后单击&#x200B;**批准**。
+1. 选择登陆页面后，单击&#x200B;**登陆页面操作**&#x200B;下拉列表，然后选择&#x200B;**批准**。
 
-   ![](assets/image2014-9-17-11-3a35-3a27.png)
+   ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-   好了！ 您现在可以快速轻松地批准多个登陆页面。
+1. 单击&#x200B;**批准**。
 
-   ![](assets/image2014-9-17-11-3a35-3a36.png)
+   ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
    >[!TIP]
    >
