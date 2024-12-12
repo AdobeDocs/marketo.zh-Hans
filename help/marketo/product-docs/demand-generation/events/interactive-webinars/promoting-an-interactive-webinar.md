@@ -3,9 +3,9 @@ description: 推广交互式网络研讨会 — Marketo文档 — 产品文档
 title: 推广交互式网络研讨会
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 在注册后的几分钟内，成员的网络研讨会URL将填充到成员选项卡中。 如果您无法找到网络研讨会URL的列，请确保该列已添加到您的视图中。 这是一个个性化的URL，每个注册成员都可以在计划的时间参加网络研讨会，而无需任何身份验证。 内部交换的令牌负责为成员提供身份验证。
 
-您可以使用令牌在电子邮件促销活动中向个人成员包含网络研讨会URL，以告知他们已在事件中注册，并使用加入URL在计划时间进入网络研讨会。 日历令牌可用于同一电子邮件营销活动，以确保可以将网络研讨会计划添加到成员的日历中。
+您可以使用`{{member.webinar url}}` [令牌](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}将网络研讨会URL包含到电子邮件促销活动中的个别成员，以告知他们已在事件中注册，并使用加入URL在计划时间进入网络研讨会。 日历令牌可用于同一电子邮件营销活动，以确保可以将网络研讨会计划添加到成员的日历中。
 
 事件程序中“概述”选项卡右侧的可用链接，可用于创建登陆页面和电子邮件营销活动。 与活动相关的其余促销活动与使用Launchpoint集成的合作伙伴网络研讨会相同。
 
