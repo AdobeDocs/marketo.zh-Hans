@@ -4,9 +4,9 @@ description: 使用缩放创建事件 — Marketo文档 — 产品文档
 title: 使用缩放创建事件
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >* [将缩放添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [创建新的活动计划](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 设置相应的[流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与情况
+>* 设置适当的[流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与
 
 首先在Zoom中创建网络研讨会。 创建缩放时，Marketo会使用某些设置，而某些设置仅供Zoom使用。
 
@@ -103,4 +103,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >数据可能需要48小时才能显示在Marketo中。 如果经过这么长时间后仍未看到任何内容，请从事件的&#x200B;**摘要**&#x200B;选项卡的“事件操作”菜单中选择&#x200B;**从网络研讨会提供程序刷新**。
+   >数据可能需要48小时才能显示在Marketo中。 如果等待了这么长时间，仍看不到任何内容，请从事件的&#x200B;**摘要**&#x200B;选项卡的“事件操作”菜单中选择&#x200B;**从网络研讨会提供程序刷新**，然后单击屏幕右下方的刷新图标。

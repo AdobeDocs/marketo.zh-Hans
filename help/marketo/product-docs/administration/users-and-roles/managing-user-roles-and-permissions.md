@@ -4,9 +4,9 @@ description: 管理用户角色和权限 — Marketo文档 — 产品文档
 title: 管理用户角色和权限
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -103,7 +103,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. 如有必要，请更改&#x200B;**[!UICONTROL 角色名称]**&#x200B;和&#x200B;**[!UICONTROL 描述]**，然后更改相关&#x200B;**[!UICONTROL 权限]**&#x200B;的选择。
+1. 更改&#x200B;**[!UICONTROL 角色名称]**&#x200B;和&#x200B;**[!UICONTROL 描述]**（如有必要），更改相关&#x200B;**[!UICONTROL 权限]**&#x200B;的选择，并在完成后单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
