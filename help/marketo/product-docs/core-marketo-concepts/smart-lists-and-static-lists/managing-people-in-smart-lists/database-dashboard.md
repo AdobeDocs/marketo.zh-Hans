@@ -4,9 +4,9 @@ description: 数据库功能板 — Marketo文档 — 产品文档
 title: 数据库功能板
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: a3a75e5eaebc081a96ff9a9e1490d520b40ae4ec
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->每个工作区都有自己的数据库功能板。
+>* 数据库仪表板每24-32小时自动更新一次。 您可以随时通过单击屏幕右侧的“上次更新”文本来执行手动更新。
+>
+>* 每个工作区都有自己的数据库功能板。
 
 要到达该位置，请从“我的Marketo”中选择&#x200B;**[!UICONTROL 数据库]**。
 
