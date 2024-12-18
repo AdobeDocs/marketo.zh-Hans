@@ -3,7 +3,7 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 2%
@@ -41,23 +41,21 @@ ht-degree: 2%
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong>在交互式网络研讨会中取消注册注册者</strong>：现在，如果您由于任何原因不想在网络研讨会中注册者，则可以取消注册。 该工作流会从Marketo事件项目和Adobe Connect中删除注册者。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong>存档时禁用营销活动</strong>：在存档时禁用活动触发器营销活动并取消文件夹中任何计划的营销活动批量运行。 由于对包含活动营销活动（激活触发器营销活动和计划批量营销活动）的存档文件夹进行了额外的权限检查，因此此功能在此版本中默认处于禁用状态，可以通过导航到Marketo Engage订阅中的<b>管理员</b> &gt; <b>Treasure Chest</b>来启用此功能。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
