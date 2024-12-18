@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: b97888aba47d98e26f9a7c6afb7d7fc60a3eb31b
+source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9383'
 ht-degree: 0%
 
 ---
@@ -1019,7 +1019,7 @@ ht-degree: 0%
          + [电子邮件可投放性功能包：如何导入种子列表](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [电子邮件中的硬退信和软退信](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [设置自定义DKIM签名](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
-         + [为您的电子邮件可投放性设置SPF和DKIM](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
+         + [为电子邮件可投放性设置SPF和DKIM](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
          + [共享和专用IP地址](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [了解取消订阅](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [使用您的专用IP地址发送电子邮件](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
@@ -1982,6 +1982,7 @@ ht-degree: 0%
          + [发行说明： 2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [发行说明： 2024年6月](release-notes/previous-releases/2024/release-notes-june-24.md)
          + [发行说明： 2024年7月](release-notes/previous-releases/2024/release-notes-july-24.md)
+         + [发行说明： 2024年10月](release-notes/previous-releases/2024/release-notes-oct-24.md)
       + 2023 {#2023}
          + [发行说明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [发行说明： 2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
