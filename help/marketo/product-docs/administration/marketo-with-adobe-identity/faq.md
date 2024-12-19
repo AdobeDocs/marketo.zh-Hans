@@ -3,9 +3,9 @@ description: AdobeIdentity Management常见问题解答 — Marketo文档 — �
 title: AdobeIdentity Management常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
+source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
 workflow-type: tm+mt
-source-wordcount: '1484'
+source-wordcount: '1521'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ AdobeIdentity Management System包含三个组件。
 
 * 支持后迁移完成：产品支持管理员可以通过Experience League支持门户提交案例。
 
-如果您获得最终成功，则可以访问Admin Console迁移白手套服务。 请联系Adobe客户团队（您的客户经理）寻求帮助。
+如果您成功实施了Ultimate，则可以访问Admin Console迁移白手套服务。 请联系Adobe客户团队（您的客户经理）寻求帮助。
 
 **如果我使用Adobe身份访问其他Adobe应用程序，能否使用该身份访问Marketo？**
 
@@ -130,9 +130,13 @@ Identity Management SystemAdobe功能将于2025年初推出，将发布一项支
 
 将订阅登记到Adobe身份后，将在Adobe组织级别设置单点登录(SSO)。 这意味着SSO适用于Adobe组织中的所有产品实例。设置SSO后，它将应用于该Adobe组织中的所有Marketo实例。以前，Marketo在实例级别支持此设置。 AdobeIdentity Management System不支持此功能。
 
-Marketo Engage **迁移Adobe身份后，是否需要对CNAME、SPF或DKIM进行任何更改？**
+**迁移Adobe身份后，是否需要对CNAME、SPF或DKIM进行任何更改？当前用于Marketo Engage的SPF或SPF是否需要任何更改？**
 
 不，这些配置不会受到影响。
+
+**如何防止会话超时？**
+
+在[高级设置](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings)中，您可以自定义所需的最长会话寿命（需要系统管理员权限）。 建议在产品迁移之后、用户迁移之前建立此设置。
 
 **我现在必须导航到Experience Cloud才能访问Marketo Engage。 是否有办法简化此流程？**
 
