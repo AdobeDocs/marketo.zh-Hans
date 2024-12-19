@@ -3,7 +3,7 @@ description: AdobeIdentity Management常见问题解答 — Marketo文档 — �
 title: AdobeIdentity Management常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '1521'
 ht-degree: 0%
@@ -136,7 +136,7 @@ Identity Management SystemAdobe功能将于2025年初推出，将发布一项支
 
 **如何防止会话超时？**
 
-在[高级设置](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings)中，您可以自定义所需的最长会话寿命（需要系统管理员权限）。 建议在产品迁移之后、用户迁移之前建立此设置。
+在[高级设置](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}中，您可以自定义所需的最长会话寿命（需要系统管理员权限）。 建议在产品迁移之后、用户迁移之前建立此设置。
 
 **我现在必须导航到Experience Cloud才能访问Marketo Engage。 是否有办法简化此流程？**
 

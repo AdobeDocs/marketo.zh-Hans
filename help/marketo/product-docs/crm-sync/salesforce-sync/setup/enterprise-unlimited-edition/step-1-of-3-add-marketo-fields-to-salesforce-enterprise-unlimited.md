@@ -4,7 +4,7 @@ description: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enter
 title: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '766'
 ht-degree: 7%
@@ -15,23 +15,23 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->您必须拥有Salesforce API的访问权限，才能在Marketo Engage和Salesforce之间同步。
+>您必须有权访问Salesforce API，才能在Marketo Engage和Salesforce之间同步。
 
-Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您希望在Salesforce中使用此数据，请按照下面的说明操作。
+Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您希望在Salesforce中使用此数据，请按照以下说明操作。
 
-1. 在Salesforce中创建有关潜在客户和联系对象的三个自定义字段：“得分”、“客户获取计划”和“客户获取日期”。
-1. 在潜在客户和联系人之间映射这些自定义字段，以便在Salesforce中进行转换时，值会延续。
+1. 在Salesforce中针对潜在客户和联系人对象创建三个自定义字段：“得分”、“客户获取计划”和“客户获取日期”。
+1. 在潜在客户和联系人之间映射这些自定义字段，以便在Salesforce中进行转化时，值会延续。
 1. 如有必要，您可以创建其他附加字段（请参阅下表）。
 
 所有这些自定义字段都是可选的，并且不是同步Marketo和Salesforce的必需字段。 作为最佳实践，我们建议您为“得分”、“客户获取计划”和“客户获取日期”创建字段。
 
 ## 将Marketo字段添加到Salesforce {#add-marketo-fields-to-salesforce}
 
-在上面列出的Salesforce中的潜在客户和联系人对象上添加三个自定义字段。 如果要添加更多字段，请参阅本节末尾的可用字段表。
+在上面列出的Salesforce中的潜在客户和联系人对象中添加三个自定义字段。 如果要添加更多字段，请参阅本节末尾的可用字段表。
 
 对三个自定义字段中的每一个执行以下步骤以添加它们。 从得分开始。
 
-1. 登录Salesforce并单击&#x200B;**[!UICONTROL 设置]**。
+1. 登录到Salesforce，然后单击&#x200B;**[!UICONTROL 设置]**。
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
@@ -78,7 +78,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
   <tr> 
    <td>得分</td> 
    <td>mkto71_Lead_Score</td> 
-   <td>数字</td> 
+   <td>数值</td> 
    <td>长度10<br>小数位0 </td> 
   </tr> 
   <tr> 
@@ -98,7 +98,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 >[!NOTE]
 >
->Salesforce在创建API名称时将__c附加到字段名称。
+>当Salesforce使用字段名称创建API名称时，会将__c附加到字段名称。
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -158,7 +158,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
   <tr> 
    <td>客户获取计划ID</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
-   <td>数字</td> 
+   <td>数值</td> 
    <td>长度18<br>小数位0 </td> 
   </tr> 
   <tr> 
@@ -238,11 +238,11 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 >[!NOTE]
 >
->创建新字段后，Marketo自动分配的字段中的值将无法立即在Salesforce中使用。 在下次更新任一系统上的记录时(即更新在Marketo和Salesforce之间同步的任何字段)，Marketo会将数据同步到Salesforce。
+>创建新字段后，Marketo自动分配的字段中的值将无法立即在Salesforce中使用。 下次更新任一系统上的记录时(即，更新在Salesforce和Marketo之间同步的任何字段)，Marketo都会将数据同步到Salesforce。
 
 ## 映射用于转换的自定义字段 {#map-custom-fields-for-conversions}
 
-Salesforce中商机对象上的自定义字段应映射到联系对象上的联系字段，以便在发生转化时保留数据。
+Salesforce中商机对象上的自定义字段应映射到联系人对象上的联系人字段，以便在发生转化时保留数据。
 
 1. 单击右上角的&#x200B;**[!UICONTROL 设置]**。
 
