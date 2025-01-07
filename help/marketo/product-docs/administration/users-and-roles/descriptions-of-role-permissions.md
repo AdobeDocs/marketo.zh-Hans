@@ -4,9 +4,9 @@ description: 角色权限描述 — Marketo文档 — 产品文档
 title: 角色权限描述
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
+source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1448'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 0%
 * 访问[[!DNL Data.com]](https://data.com) — 授予用户访问Data.com流操作的权限
 * 访问电子邮件管理员 — 赋予用户访问电子邮件管理员的权限，以更改默认设置，如取消订阅和品牌化域
 * 访问事件合作伙伴 — 以管理员身份授予用户访问LaunchPoint的权限
+* 访问Experience Cloud受众共享 — 让用户可以访问将受众从Adobe Experience Cloud同步到Marketo Engage
 * 访问字段管理 — 允许用户访问管理员中的字段管理
 * 访问文件上传 — 使用户能够将图像和文件上传到Design Studio
 * 访问登陆页面 — 允许用户在Admin中访问登陆页面
