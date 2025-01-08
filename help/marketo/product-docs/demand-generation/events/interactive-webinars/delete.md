@@ -2,16 +2,17 @@
 description: 推广交互式网络研讨会 — Marketo文档 — 产品文档
 title: 推广交互式网络研讨会
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # 推广交互式网络研讨会 {#promoting-an-interactive-webinar}
 
-推广交互式网络研讨会与通过Launchpoint推广合作伙伴网络研讨会类似。 创建交互式网络研讨会事件程序时，可以通过运行活动或将成员导入程序来添加成员。 要检查已添加到交互式网络研讨会事件程序的成员，请单击&#x200B;**[!UICONTROL 成员]**&#x200B;选项卡。
+推广交互式网络研讨会与通过Launchpoint推广合作伙伴网络研讨会类似。 创建交互式网络研讨会事件程序时，可以通过运行活动或将成员导入程序来添加成员。 要检查已添加到交互式网络研讨会事件程序的成员，请单击&#x200B;**成员**&#x200B;选项卡。
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -49,50 +50,13 @@ ht-degree: 0%
 
 **令牌列表**
 
-<table><thead>
-  <tr>
-    <th>令牌</th>
-    <th>定义</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>可参加交互式网络研讨会的最大与会者数量。</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>交互式网络研讨会计划的持续时间。</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>已安排的交互式网络研讨会的结束日期。</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>交互式网络研讨会的计划结束时间。</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>可在网络研讨会后与受众共享的通用录制URL。 此URL不适用于参加实时网络研讨会，且不会跟踪受众的活动。</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>举行网络研讨会的语言。</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>已安排的交互式网络研讨会的开始日期。</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>交互式网络研讨会的计划开始时间。</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>安排交互式网络研讨会的时区。</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>交互式网络研讨会的标题，受众可在网络研讨会登录Screens中看到。</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
