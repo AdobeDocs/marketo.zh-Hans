@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
+source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 2%
+source-wordcount: '471'
+ht-degree: 3%
 
 ---
 
@@ -61,6 +61,16 @@ ht-degree: 2%
 <br/>
 
 ## 公告 {#announcements}
+
+* **弃用社交功能**：在2024年7月31日星期三，Marketo Engage开始弃用产品中的以下社交功能：
+
+   * 投票
+   * 社交按钮
+   * 推荐优惠
+   * 分享视频
+   * 抽奖活动
+
+截至那时，用户无法在Marketo Engage中创建、克隆或嵌入任何这些Social功能。 现有社会资产继续运作至2025年1月31日。 2025年2月1日，Social资产将停止运行。 需要删除嵌入到登陆页面中的社交功能。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **获取计划成员API更新**：我们已增强[获取计划成员](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API以支持检索计划成员标识符的功能。 这是通过向在API请求的字段参数中指定的字段列表添加ID来完成的。
 
