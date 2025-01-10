@@ -4,7 +4,7 @@ description: 配置移动推送通知 — Marketo文档 — 产品文档
 title: 配置移动推送通知
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >有三种类型的点按操作：
    >
-   >**启动应用程序** - **此应用程序**&#x200B;在点按通知时打开应用程序的主页。 **自定义**&#x200B;使用深层链接打开应用程序的其他区域或您拥有该链接的任何其他应用程序（有关详细信息，请参阅下面的[深层链接URI](#Deeplink)）。
+   >**启动应用程序** - **此应用程序**&#x200B;在点按通知时打开应用程序的主页。 **自定义**&#x200B;使用深层链接打开应用程序的其他区域或您拥有该链接的任何其他应用程序（有关详细信息，请参阅下面的[深层链接URI](#deep-link-uris)）。
    >
    >**登录页面** — 将您转到指定的Marketo登录页面。
    >
    >**外部URL** — 将您转到非Marketo登录页面。
 
-1. 要为自定义点击操作插入深层链接，请单击“自定义”并在字段中输入[深层链接URI](#Deeplink)。
+1. 要为自定义点击操作插入深层链接，请单击“自定义”并在字段中输入[深层链接URI](#deep-link-uris)。
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
