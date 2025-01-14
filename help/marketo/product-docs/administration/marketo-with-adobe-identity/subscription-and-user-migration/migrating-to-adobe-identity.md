@@ -3,9 +3,9 @@ description: 迁移到Adobe身份 — Marketo文档 — 产品文档
 title: 迁移到Adobe身份
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
 workflow-type: tm+mt
-source-wordcount: '2300'
+source-wordcount: '2317'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,10 @@ ht-degree: 0%
 以美国时区为时区的所有Marketo订阅都将从用户迁移开始日期的太平洋标准时间午夜开始迁移。 所有其他订阅的用户迁移将在订阅指定时区的午夜开始。 当订阅的用户迁移开始时，用户管理在Marketo管理区域中不再可用，仅在Adobe Admin Console中可用。 角色管理仍保留在“Marketo管理”区域的“用户和角色”选项卡中，以及本地（仅限API）用户管理中。
 
 Adobe将首先使用已验证的电子邮件自动迁移所有Marketo管理员。 在将Marketo管理员迁移到Adobe身份后，他们将会作为Marketo订阅的产品管理员添加到订阅的Adobe Admin Console中，并将在Marketo应用程序中分配Adobe产品管理员角色（以及他们以前具有的任何其他角色），并且其Adobe ID将有权使用该订阅。 管理员将收到两封电子邮件。 一个指示作为Adobe产品管理员分配，另一个指示其Adobe ID有权使用Marketo产品。
+
+>[!IMPORTANT]
+>
+>您必须单击授权电子邮件中的&#x200B;**接受邀请**&#x200B;按钮，才能访问与Adobe ID的Marketo Engage。
 
 **Marketo产品管理员电子邮件**
 
@@ -177,7 +181,7 @@ Marketo产品管理员将能够选择要批量迁移的用户，或者一次性�
 
 例如，管理员可以选择要首先迁移的一组“超级用户”。 成功完成这些用户迁移后，他们可以根据变量（如工作区/业务或功能/角色）选择不同的用户组，以进一步按批次进行用户迁移。 或者，他们可以决定在第一个批次成功后迁移订阅中的其余用户。 目标是尽可能灵活地将AdobeID转出给用户。
 
-所有用户迁移同时发生，并且应在六十秒内成功完成。 当针对特定用户进行用户迁移时，用户最多可能失去1分钟的访问权限，仅当用户登录应用程序时才会发生这种情况。 用户迁移完成后，用户将收到一封电子邮件，说明如何使用Adobe身份登录Marketo Engage。 用户需要通过电子邮件中的按钮链接接受邀请。 接受邀请后，用户应使用Adobe ID登录。 有关如何使用Adobe ID [登录Marketo Engage的说明，请参阅此处](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)。
+所有用户迁移同时发生，并且应在六十秒内成功完成。 当针对特定用户进行用户迁移时，用户最多可能失去1分钟的访问权限，仅当用户登录应用程序时才会发生这种情况。 用户迁移完成后，用户将收到一封电子邮件，说明如何使用Adobe身份登录Marketo Engage。 用户需要通过电子邮件&#x200B;_中的按钮链接接受邀请，然后才能使用Adobe ID登录。有关如何使用Adobe ID登录Marketo Engage的说明[可在此处找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)。_
 
 ![](assets/migrating-to-adobe-identity-18.png)
 

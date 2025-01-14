@@ -3,9 +3,9 @@ description: 了解Marketo订阅和用户迁移到Adobe Admin Console - Marketo�
 title: 了解Marketo订阅和用户迁移到Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
+source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1573'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,9 @@ Marketo产品管理员将：
 
 >[!NOTE]
 >
->在用户迁移期间，不会失去对产品的访问权限。 如果用户在其迁移期间登录，则在迁移完成后，用户将被注销，并提示用户在几分钟内使用Adobe标识重新登录。
+>在用户迁移期间，不会失去对产品的访问权限。 如果用户在其迁移期间登录，则在迁移完成后，用户将被注销，并提示用户在几分钟内使用Adobe标识重新登录。 用户必须通过单击授权电子邮件中的链接来接受邀请，该链接会在成功用户迁移结束时发送。
 
-在迁移用户时，他们将会收到Adobe的电子邮件，通知他们登录Marketo的方式发生了更改。 将邀请用户接受首次使用Adobe身份进行登录的邀请，方法是使用现有Adobe ID登录，或使用同一电子邮件地址设置新的Adobe ID。
+在迁移用户时，他们将会收到Adobe的电子邮件，通知他们登录Marketo的方式发生了更改。 用户&#x200B;**必须**&#x200B;接受邀请以首次使用Adobe身份登录，方法是使用现有Adobe ID登录，或使用同一电子邮件地址设置新的Adobe ID
 
 有关详细信息，请参阅[迁移到Adobe身份](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}、[Adobe登录用户](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}和[AdobeIdentity Management常见问题解答](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}。
 
