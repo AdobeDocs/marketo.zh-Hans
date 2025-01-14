@@ -4,9 +4,9 @@ description: 配置移动推送通知 — Marketo文档 — 产品文档
 title: 配置移动推送通知
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
+source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -15,31 +15,27 @@ ht-degree: 0%
 
 1. 转到&#x200B;**营销活动**&#x200B;区域。
 
-![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
+   ![](assets/configure-mobile-push-notification-1.png)
 
 1. 选择您的推送资源并单击&#x200B;**编辑草稿**。
 
-   ![](assets/image2016-8-23-16-3a49-3a48.png)
+   ![](assets/configure-mobile-push-notification-2.png)
 
-1. 转到&#x200B;**安装程序**。
+1. 在&#x200B;**设置**&#x200B;中，选择所需的应用程序。 Android和Apple平台默认处于启用状态。
 
-   ![](assets/image2016-8-23-16-3a51-3a56.png)
+   ![](assets/configure-mobile-push-notification-3.png)
 
-1. 选择所需的应用程序。 Android和Apple平台默认处于启用状态。
-
-   ![](assets/image2016-8-23-16-3a53-3a33.png)
-
-1. 如果您的推送消息仅应用于一个平台（例如，iPhone的情况），则可以通过将其选择器滑动到“已禁用”来排除另一个平台。
-
-   ![](assets/image2016-8-23-16-3a41-3a48.png)
+   >[!NOTE]
+   >
+   >如果您的推送消息仅应用于一个平台(例如iOS)，则可以通过手动将其选择器滑动到&#x200B;**已禁用**&#x200B;来排除另一个平台。
 
 1. 单击&#x200B;**下一步**。
 
-   ![](assets/image2016-8-23-16-3a43-3a28.png)
+   ![](assets/configure-mobile-push-notification-4.png)
 
-1. 输入消息文本或选择令牌图标以添加令牌。 然后，选择&#x200B;**点按操作**。
+1. 输入消息文本或选择令牌图标以添加令牌（在此编辑器中，令牌的格式为[，因为它们通常为](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) — 您可以使用多个令牌）。 选择&#x200B;**点按操作**。
 
-   ![](assets/image2015-9-14-16-3a7-3a43.png)
+   ![](assets/configure-mobile-push-notification-5.png)
 
    >[!NOTE]
    >
@@ -55,17 +51,9 @@ ht-degree: 0%
    >
    >**外部URL** — 将您转到非Marketo登录页面。
 
-1. 要为自定义点击操作插入深层链接，请单击“自定义”并在字段中输入[深层链接URI](#deep-link-uris)。
+1. 要为自定义点击操作插入深层链接，请选择&#x200B;**自定义**&#x200B;并在字段中输入[深层链接URI](#deep-link-uris)。
 
-   ![](assets/image2016-7-28-16-3a19-3a13.png)
-
-1. 要插入令牌，请选择令牌，输入默认值，然后单击“插入”。
-
-   >[!NOTE]
-   >
-   >将光标置于文本框中的位置会显示令牌。 您可以使用多个令牌。
-
-   ![](assets/image2015-8-10-14-3a48-3a52.png)
+   ![](assets/configure-mobile-push-notification-6.png)
 
    >[!NOTE]
    >
@@ -73,15 +61,15 @@ ht-degree: 0%
 
 1. 仅对于iOS，选中此复选框可告知应用程序在消息到达时播放提示音。 Android会自动播放声音。
 
-   ![](assets/ios-tap-and-notification-hand.png)
+   ![](assets/configure-mobile-push-notification-7.png)
 
 1. 预览其他平台，然后单击&#x200B;**完成**。
 
-   ![](assets/image2015-9-14-16-3a12-3a34.png)
+   ![](assets/configure-mobile-push-notification-8.png)
 
 1. 单击&#x200B;**批准并关闭**。
 
-   ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
+   ![](assets/configure-mobile-push-notification-9.png)
 
 恭喜！现在，推送通知已准备好发送。
 
@@ -91,7 +79,7 @@ ht-degree: 0%
 
 深层链接URI由方案名称、路径和标识符三部分组成。 在以下示例中，“myappname”是方案。 “products”是路径，“purple-shirt”是标识符。 当客户点按时，它们会被特别引入到应用程序产品页面中的紫色衬衫项目中。
 
-![](assets/image2016-7-29-12-3a49-3a1.png)
+![](assets/configure-mobile-push-notification-10.png)
 
 也就是说，您应用程序的深层链接结构可能与上述示例不同。 您的开发人员在定义深层链接URI时有很多选项，因此请让您的开发人员向您发送您有兴趣使用的页面的URI（链接）。 这将确保您在推送消息中输入的URI指向正确的位置。 您的开发人员可以[在此查找更多信息](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
 
