@@ -4,9 +4,9 @@ description: 编辑电子邮件的文本版本 — Marketo文档 — 产品文�
 title: 编辑电子邮件的文本版本
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,6 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-现在你知道了！
+>[!CAUTION]
+>
+>选择&#x200B;**从HTML**&#x200B;复制，或重新选择&#x200B;**在包含动态HTML的电子邮件中自动从HTML**&#x200B;复制，会将该电子邮件的“内容”和“文本”版本中所有区段的“已审核”标志设置为&#x200B;_true_。
