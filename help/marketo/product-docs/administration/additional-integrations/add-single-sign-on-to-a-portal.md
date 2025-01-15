@@ -4,9 +4,9 @@ description: 将单点登录添加到门户 — Marketo文档 — 产品文档
 title: 将单点登录添加到门户
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
 >[!IMPORTANT]
 >
->这不适用于登记到Adobe身份的预订。 对于登记到Adobe身份的预订，单点登录在Adobe Admin Console的Adobe组织级别设置。 [在此了解详情](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
+>这不适用于登记到Adobe身份的预订。 对于登记到Adobe身份的预订，单点登录在Adobe Admin Console的Adobe组织级别设置。 Adobe Admin Console目前仅支持SP启动。 [在此了解详情](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
 >[!NOTE]
 >
->Marketo仅支持身份提供程序启动的（也称为IdP启动的），用户在该操作中首先启动Idp登录页面，进行身份验证，然后导航到“我的Marketo”。
+>Marketo仅支持身份提供程序启动的（也称为IdP启动的），用户在该操作中首先启动IdP登录页面，进行身份验证，然后导航到“我的Marketo”。 如果您的Marketo订阅已移至Admin Console，则Adobe Admin Console目前仅支持由服务提供商启动（也称为SP启动）。 您的SSO体验可能会发生变化。
 
 ## 其他说明 {#additional-notes}
 

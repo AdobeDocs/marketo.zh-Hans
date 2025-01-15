@@ -3,9 +3,9 @@ description: AdobeIdentity Management常见问题解答 — Marketo文档 — �
 title: AdobeIdentity Management常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '1521'
+source-wordcount: '1595'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ AdobeIdentity Management System包含三个组件。
 
 **现有Marketo Engage订阅何时将与IMS集成？**
 
-现有Marketo Engage订阅目前正在根据任何销售活动迁移到Adobe IMS，包括续订、重新签约活动和/或附录。 从2024年10月起，支持销售活动以外的迁移。
+现有Marketo Engage订阅目前正在根据任何销售活动迁移到Adobe IMS，包括续订、重新签约活动和/或附录。 从2024年10月起，支持在销售活动之外进行迁移。
 
 **迁移后，Marketo EngageURL是否将保持不变？**
 
@@ -35,6 +35,10 @@ AdobeIdentity Management System包含三个组件。
 可以。迁移后，Marketo Engage将从experience.adobe.com提供给Adobe Experience Cloud。 您需要与IT团队合作，允许列表本文顶部[列出的所有Adobe域](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止对Marketo Engage访问的中断。
 
 以前在engage-xx.marketo.com域&#x200B;_上Marketo Engage资源的链接和书签将继续正常运行。_&#x200B;但是，您必须首先登录到要导航到的URL的Marketo Engage实例。 例如，要导航到Munchkin ID为123-ABC-456的实例中Smart Campaign的书签，您需要先登录Munchkin ID为123-ABC-456的Marketo Engage实例。
+
+**此项是否适用于SSO？**
+
+可以。与Adobe IMS的集成支持通用ID用户和SSO。 SSO现在由Adobe IMS驱动，在Adobe Admin Console的组织级别设置。 但是，Marketo EngageIdP启动的支持与AdobeSP启动的支持存在差异（[在此了解详情](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}）。 如果您在迁移到Admin Console后需要有关SSO差异的帮助，请联系[Adobe客户关怀](https://helpx.adobe.com/contact.html){target="_blank"}。
 
 **Adobe产品管理员和Marketo Engage管理员之间有何区别？**
 
