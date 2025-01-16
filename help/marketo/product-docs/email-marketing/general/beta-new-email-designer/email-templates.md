@@ -4,9 +4,10 @@ title: 电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1732'
 ht-degree: 1%
 
 ---
@@ -18,6 +19,10 @@ ht-degree: 1%
 >[!IMPORTANT]
 >
 >本文仅适用新Marketo Engage电子邮件Designer测试版的成员。 请不要传播。
+
+>[!PREREQUISITES]
+>
+>要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[AdobeIdentity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的请求，而您希望请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 >[!NOTE]
 >
