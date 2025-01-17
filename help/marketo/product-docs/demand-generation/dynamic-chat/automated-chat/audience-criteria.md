@@ -3,9 +3,9 @@ description: 受众标准 — Marketo文档 — 产品文档
 title: 受众标准
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ![](assets/audience-criteria-1.png)
 
-## 事件 {#events}
+## 活动 {#events}
 
 事件允许您根据访客滚动多少或他们在您的页面/网站上的时间长短来定位访客。 在以下示例中，我们的定位是在特定页面上停留超过20秒的访客。
 
@@ -98,7 +98,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->“智能列表成员”或“列表成员”条件需要Dynamic ChatPrime。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+>“智能列表的成员”或“列表的成员”条件需要Dynamic ChatPrime。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 1. 在“成员资格”下，获取&#x200B;**[!UICONTROL 智能列表的成员]**&#x200B;并将其放到画布上。
 
@@ -116,7 +116,7 @@ ht-degree: 1%
 
 ![](assets/audience-criteria-17.png)
 
-## Target {#target}
+## 目标 {#target}
 
 您可以在此处输入希望特定对话框显示的URL。 您还可以选择添加排除项。
 
@@ -129,7 +129,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->使用星号就像一个全面的通配符。 因此，`https://*.website.com`将对话框置于网站的每个页面上，包括子域（例如： `support.website.com`）。 并且`https://website.com/folder/*`会将对话框放置到后续文件夹中的每个HTML页面上(例如：在此示例中，假设文件夹为“sports”，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>* 使用星号就像一个全面的通配符。 因此，`https://*.website.com`将对话框置于网站的每个页面上，包括子域（例如： `support.website.com`）。 并且`https://website.com/folder/*`会将对话框放置到后续文件夹中的每个HTML页面上(例如：在此示例中，假设文件夹为“sports”，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>
+>* 目前不支持URL参数。
 
 **排除项**
 
