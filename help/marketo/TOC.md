@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bd3c3a9252c47b868ad64f69da42a552015e6b11
 workflow-type: tm+mt
-source-wordcount: '9383'
+source-wordcount: '9388'
 ht-degree: 0%
 
 ---
@@ -802,6 +802,7 @@ ht-degree: 0%
       + 图像和文件{#images-and-files}
          + [新建添加图像文档](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [将图像和文件添加到Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+         + [使用Adobe Express编辑Assets](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [删除上传的图像或文件](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [查找上载的图像或文件的URL](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [从网页中获取图像](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
