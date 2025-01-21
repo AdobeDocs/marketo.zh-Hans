@@ -4,7 +4,7 @@ description: 发行说明 — 2020年10月 — Marketo文档 — 产品文档
 title: 发行说明 — 2020年10月
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 电子邮件营销 {#email-marketing}
 
-* **批量电子邮件提升![（星型）](assets/yellow-star.png)**：发送更多电子邮件，每小时吞吐量最多可达500万封批量电子邮件。 广泛的电子邮件可投放性选项消除了在电子邮件批次之间等待的必要性 — 按计划按时发送所有电子邮件。
+* **批量电子邮件提升** ![（星型）](assets/yellow-star.png)：发送更多电子邮件，每小时吞吐量最多可达500万封批量电子邮件。 广泛的电子邮件可投放性选项消除了在电子邮件批次之间等待的必要性 — 按计划按时发送所有电子邮件。
 
 ## 网站营销 {#website-marketing}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## CRM集成 {#crm-integration}
 
-* **Salesforce CRM同步**：使用两个新的Salesforce同步和错误仪表板识别并修复同步错误和失败。 监视新记录更新、删除、失败和同步过程的完成。 可以按日期、操作类型或对象类型过滤报告。
+* **Salesforce CRM Sync**：使用两个新的Salesforce Sync和Errors功能板识别并修复同步错误和失败。 监视新记录更新、删除、失败和同步过程的完成。 可以按日期、操作类型或对象类型过滤报告。
 
 * **Microsoft Dynamics 365集成**：自动将潜在客户和联系人注册到Microsoft Dynamics 365营销活动中。 通过新的智能营销活动流程操作，轻松添加或删除MS Dynamics营销活动的Marketo Engage潜在客户和联系人。 将销售线索从营销人员无缝地传递到销售人员，并更快地完成交易。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 * **新元数据导出选项**：将选定自定义对象的自定义对象元数据导出到电子表格中以便轻松共享。 此外，还可以导出任何或所有订阅对象的元数据，例如商机、公司、标准和自定义活动、标记和渠道。 管理员可以提取数据并快速与工程团队共享，以用于分析和设计目的。
 
-* **Opportunity自定义字段**：使用Marketo Engage中显示的机会自定义字段获得对Opportunity记录的更多洞察。 从Salesforce CRM、Microsoft Dynamics 365 CRM、Sales本机集成或通过其他API集成查看机会自定义字段数据。 全面了解商机详情和渠道使您能够与销售人员协调协调工作，提高转化率，并帮助更快地完成交易。
+* **Opportunity自定义字段**：使用Marketo Engage中显示的机会自定义字段获得对Opportunity记录的更多洞察。 从Salesforce CRM、Microsoft Dynamics 365 CRM、Sales本机集成或通过其他API集成查看Opportunity自定义字段数据。 全面了解商机详情和渠道使您能够与销售人员协调协调工作，提高转化率，并帮助更快地完成交易。
 
 ## 将在整个季度中发布 {#releasing-throughout-the-quarter}
 

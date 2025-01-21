@@ -4,7 +4,7 @@ description: 了解Content Analytics - Marketo文档 — 产品文档
 title: 了解内容分析
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 1%
@@ -48,7 +48,7 @@ Analytics表提供了以下详细信息：
    <td colspan="1" rowspan="1">数字内容资产的名称。 单击<strong>标题</strong>以在新选项卡中打开内容URL。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>推荐</strong><strong>图标</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>推荐</strong><strong>图标</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">表示是否已为<a href="#">内容Recommendations</a>添加该内容块。</td> 
   </tr> 
   <tr> 
@@ -60,7 +60,7 @@ Analytics表提供了以下详细信息：
    <td colspan="1" rowspan="1">在同一次访问中查看了内容并填写了表单的Web访客</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Analytics图标</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Analytics图标</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">在内容片段上查看更多分析</td> 
   </tr> 
   <tr> 

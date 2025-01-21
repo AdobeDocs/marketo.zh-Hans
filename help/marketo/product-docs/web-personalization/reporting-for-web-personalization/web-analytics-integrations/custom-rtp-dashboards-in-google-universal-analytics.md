@@ -4,7 +4,7 @@ description: Google Universal Analytics中的自定义RTP功能板 — Marketo�
 title: Google Universal Analytics中的自定义RTP功能板
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 仪表板由3列组成
 
 * 流量源
-* 分段
+* 区段
 * 第一层向下扩展
 
 1. 创建一个名为&#x200B;**RTP B2B仪表板**&#x200B;的新仪表板，并定义以下小组件：
@@ -132,7 +132,7 @@ ht-degree: 0%
      <li>类型：条形图<br></li> 
      <li>创建条形图，其中显示：会话</li> 
      <li>分组依据： RTP-Group</li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
   </tr> 
   <tr> 
    <th> </th> 
@@ -142,7 +142,7 @@ ht-degree: 0%
      <li>类型：表<br></li> 
      <li>显示以下列：<br>事件标签 | 会话 | 目标转化率</li> 
      <li>筛选器：<br>仅显示 | 事件类别（包含）RTP区段</li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> </th> 
   </tr> 
  </tbody> 
@@ -178,18 +178,18 @@ ht-degree: 0%
   <tr> 
    <td> 
     <ul> 
-     <li>名称： <strong>CTA总数（参与度）</strong></li> 
+     <li>名称：<strong>CTA参与总数</strong></li> 
      <li>类型： <strong>2.1指标</strong></li> 
      <li>显示以下量度：<strong>总事件</strong></li> 
-     <li>筛选器：<br><strong>[仅显示]事件类别（包含）： RTP-Campaigns</strong><br><strong>[仅显示]事件操作（完全匹配）： Impression</strong><strong>[不显示]事件标签（包含）： #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+     <li>筛选器：<br><strong>[仅显示]事件类别（包含）： RTP-Campaigns</strong><br><strong>[仅显示]事件操作（完全匹配）： Impression</strong>[不显示]事件标签（包含）： #</li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>名称： <strong>CTA总数（点进）</strong></li> 
      <li>类型： <strong>2.1指标</strong></li> 
      <li>显示以下量度：<strong>总事件</strong></li> 
      <li>筛选器：<br><strong>[仅显示]事件类别（包含）： RTP-Campaigns</strong><br><strong>[仅显示]事件操作（完全匹配）：点击次数</strong><strong>[不显示]事件标签（包含）： #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>名称： <strong>CRE — 总点击次数</strong></li> 
@@ -205,14 +205,14 @@ ht-degree: 0%
      <li>类型： <strong>2.1指标</strong></li> 
      <li>显示以下量度： <strong>平均 会话持续时间</strong></li> 
      <li>筛选器：<br><strong>[仅显示]事件类别（完全匹配）： RTP-Campaigns</strong><br><strong>[仅显示]事件操作（完全匹配）： impression</strong><strong>[不显示]事件标签（包含）： #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>名称： <strong>平均 会话持续时间（点进）</strong></li> 
      <li>类型： <strong>2.1指标</strong></li> 
      <li>显示以下量度： <strong>平均 会话持续时间</strong></li> 
      <li>筛选器：<br><strong>[仅显示]事件类别（完全匹配）： RTP-Campaigns</strong><br><strong>[仅显示]事件操作（完全匹配）：点击次数</strong><strong>[不显示]事件标签（包含）： #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>名称： <strong>CRE — 最推荐的内容</strong></li> 
@@ -239,20 +239,20 @@ ht-degree: 0%
      <li>筛选器：<br><strong>[仅显示]事件类别（完全匹配）： RTP — 促销活动</strong></li> 
      <li><strong>[仅显示]事件操作（完全匹配）：点击次数</strong></li> 
      <li><strong>[不显示]事件标签（包含）： #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
-     <li>名称：<strong>CTA的展示次数</strong></li> 
+     <li>名称：<strong>CTA展示次数</strong></li> 
      <li>类型： <strong>表</strong></li> 
      <li>显示以下列：<strong>事件标签 | 事件总数 | 用户</strong></li> 
      <li>筛选器：<br><strong>[仅显示]事件类别（完全匹配）： RTP-Campaigns</strong><br><strong>[仅显示]事件操作（完全匹配）： impression</strong><strong>[不显示]事件标签（包含）： #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>名称：<strong>由CTA点进</strong></li> 
+     <li>名称：<strong>CTA点进</strong></li> 
      <li>类型： <strong>表</strong></li> 
      <li>显示以下列：<strong>事件标签 | 事件总数 | 用户</strong></li> 
      <li>筛选器：<br><strong>[仅显示]事件类别（完全匹配）： RTP — 营销活动</strong><br><strong>[仅显示]事件操作（完全匹配）：点击次数</strong></li> 
