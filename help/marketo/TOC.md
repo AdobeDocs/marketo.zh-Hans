@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: bd3c3a9252c47b868ad64f69da42a552015e6b11
+source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
 workflow-type: tm+mt
 source-wordcount: '9388'
 ht-degree: 0%
@@ -1486,7 +1486,7 @@ ht-degree: 0%
          + Marketo {#marketo}
             + [向用户授予Marketo访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Insight操作中的有趣时刻](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [使营销活动对Sales Connect用户可见](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+            + [使营销活动对Sales Connect用户可见](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [销售活动触发器和过滤器](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [销售分析操作活动术语表](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [设置您的Marketo连接](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
