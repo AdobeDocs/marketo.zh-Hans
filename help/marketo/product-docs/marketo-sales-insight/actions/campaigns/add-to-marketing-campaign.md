@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 282c2772ce5ba1be381e91cec7e4041315a7f8c9
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[使营销活动对销售用户可见](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[使营销活动对销售用户可见](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
 
 ## 将个人添加到营销活动 {#add-individuals-to-a-campaign}
 
