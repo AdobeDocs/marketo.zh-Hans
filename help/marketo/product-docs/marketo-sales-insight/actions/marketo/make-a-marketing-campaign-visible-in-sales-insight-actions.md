@@ -3,9 +3,9 @@ description: 在“销售分析操作 — Marketo文档 — 产品文档”中�
 title: 使营销活动在销售分析操作中可见
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果要向使用toutapp.com Web应用程序中的&#x200B;_Add to Marketing Campaign_&#x200B;的用户显示营销活动(这还包括您通过Marketo Sales Outbox对象将Web应用程序嵌入到CRM中的情况)，请将其设置为“Web Service API”。 如果希望当用户使用Salesforce中潜在客户、联系人、客户页面的MSI面板上的操作，或者潜在客户和联系人列表视图中的批量操作按钮时显示营销活动，请将其更新为“销售分析”
+   >如果要向使用toutapp.com Web应用程序中的&#x200B;_Add to Marketing Campaign_&#x200B;的用户显示营销活动(这还包括您通过Marketo Sales Outbox对象将Web应用程序嵌入到CRM中的情况)，请将Campaign请求的源设置为“Web Service API”。 如果希望当用户使用Salesforce中潜在客户、联系人、客户页面的MSI面板上的操作，或者潜在客户和联系人列表视图中的批量操作按钮时显示营销活动，请将营销活动请求的源更新为“销售分析”
 
 1. 单击&#x200B;**流量**&#x200B;选项卡。
 
