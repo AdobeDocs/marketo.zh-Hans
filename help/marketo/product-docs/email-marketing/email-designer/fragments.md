@@ -3,7 +3,7 @@ title: 片段
 description: 了解如何创建可视化内容片段，并将其用作电子邮件和电子邮件模板的可重用组件。
 hide: true
 hidefromtoc: true
-source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '2428'
 ht-degree: 3%
@@ -76,13 +76,13 @@ ht-degree: 3%
 
 ### 筛选片段列表 {#filter-the-fragments-list}
 
-使用搜索栏按名称查找片段。 单击&#x200B;_筛选器_&#x200B;图标（![显示或隐藏筛选器图标](../assets/do-not-localize/icon-filter.svg)）以显示可用的筛选器选项并选择所需的设置。
+使用搜索栏按名称查找片段。 单击&#x200B;_筛选器_&#x200B;图标（![显示或隐藏筛选器图标](assets/icon-filter.svg)）以显示可用的筛选器选项并选择所需的设置。
 
 屏幕快照
 
 ### 自定义列显示 {#customize-the-column-display}
 
-通过单击右上角的&#x200B;_自定义表_&#x200B;图标（![自定义表图标](../assets/do-not-localize/icon-column-settings.svg)）自定义要在表中显示的列。
+通过单击右上角的&#x200B;_自定义表_&#x200B;图标（![自定义表图标](assets/icon-column-settings.svg)）自定义要在表中显示的列。
 
 在对话框中，选择所需的列，然后单击&#x200B;**[!UICONTROL 应用]**。
 

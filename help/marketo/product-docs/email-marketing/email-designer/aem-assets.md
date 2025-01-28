@@ -3,7 +3,7 @@ title: 使用 Experience Manager Assets
 description: 了解如何在Adobe Marketo Engage中创作内容时使用连接的AEM Assets存储库中的图像资源。
 hide: true
 hidefromtoc: true
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 1%
