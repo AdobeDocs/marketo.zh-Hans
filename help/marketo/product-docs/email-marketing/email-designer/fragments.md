@@ -3,9 +3,9 @@ title: 片段
 description: 了解如何创建可视化内容片段，并将其用作电子邮件和电子邮件模板的可重用组件。
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
 workflow-type: tm+mt
-source-wordcount: '2428'
+source-wordcount: '2429'
 ht-degree: 3%
 
 ---
@@ -236,7 +236,7 @@ ht-degree: 3%
 
 1. 如果要更新内容，请单击右上方的&#x200B;**[!UICONTROL 创建草稿版本]**。
 
-   在对话框中单击&#x200B;**[!UICONTROL 确定]**&#x200B;以在可视设计器中打开草稿版本。 您可以根据需要更改[图像源](./assets-overview.md#choose-an-asset-source)。
+   在对话框中单击&#x200B;**[!UICONTROL 确定]**&#x200B;以在可视设计器中打开草稿版本。 您可以根据需要更改`image source`公斤 — 链接此处。
 
 屏幕快照
 
