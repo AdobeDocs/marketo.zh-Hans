@@ -3,10 +3,11 @@ title: 片段
 description: 了解如何创建可视化内容片段，并将其用作电子邮件和电子邮件模板的可重用组件。
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2429'
-ht-degree: 3%
+source-wordcount: '2371'
+ht-degree: 1%
 
 ---
 
@@ -25,13 +26,13 @@ ht-degree: 3%
 
 ## 访问和管理片段 {#access-and-manage-fragments}
 
-要访问可视片段，请转到左侧导航并单击&#x200B;**[!UICONTROL 内容管理]** > **[!UICONTROL 片段]**。 此操作将打开一个列表页面，其中包含实例中创建的所有片段在表中列出。
+要访问可视化片段，请转到Design Studio。 在左侧的树中，单击&#x200B;**[!UICONTROL 片段（新）]**。
 
 屏幕快照
 
-该表按&#x200B;_[!UICONTROL Modified]_&#x200B;列排序，最近更新的片段默认位于顶部。 单击列标题可在升序和降序之间更改。
+默认情况下，该表按&#x200B;_[!UICONTROL Modified]_&#x200B;列排序，最近更新的片段位于顶部。 单击其他列标题以更改排序。 再次单击可在升序和降序之间切换。
 
-### 片段状态和生命周期
+### 片段状态 {#fragment-status}
 
 片段状态决定了在电子邮件或电子邮件模板中使用的可用性，以及您可以对片段进行的更改。
 
@@ -121,17 +122,7 @@ ht-degree: 3%
 
 ### 添加结构和内容 {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="添加结构组件"
->abstract="结构组件定义片段的版面。拖放&#x200B;**结构**&#x200B;组件到画布中，开始设计您的片段内容。"
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="关于内容组件"
->abstract="内容组件是空的内容占位符，您可用它来创建片段的版面。"
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### 添加资源
 
@@ -327,7 +318,7 @@ ht-degree: 3%
 
 1. 导航到&#x200B;**[!UICONTROL 帐户历程]**&#x200B;并打开现有历程或创建新历程。 &lt; — 仔细检查这个
 
-----------已停止在此处编辑---------
+---------已停止在此处编辑---------
 
 1. 创建[_[!UICONTROL 发送电子邮件&#x200B;]_节点](./email-authoring.md#add-an-email-action-in-an-account-journey)。
 

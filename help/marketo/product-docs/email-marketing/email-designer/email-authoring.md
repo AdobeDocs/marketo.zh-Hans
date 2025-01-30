@@ -4,9 +4,10 @@ title: 电子邮件创作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '1486'
+source-wordcount: '1611'
 ht-degree: 1%
 
 ---
@@ -20,6 +21,12 @@ ht-degree: 1%
 >要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[AdobeIdentity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的请求，而您希望请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ## 创建电子邮件 {#create-an-email}
+
+来自电子邮件Designer的电子邮件目前只能在Design Studio中创建并在智能营销活动/列表中引用，或直接在电子邮件程序中创建/使用。
+
+>[!BEGINTABS]
+
+>[!TAB 设计工作室]
 
 1. 通过[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登录Marketo Engage。
 
@@ -38,6 +45,28 @@ ht-degree: 1%
 1. 输入电子邮件名称和主题行。 单击&#x200B;**创建**。
 
    ![](assets/create-an-email-4.png)
+
+>[!TAB 电子邮件程序]
+
+1. 通过[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登录Marketo Engage。
+
+1. 查找并选择（或创建）您的电子邮件程序。
+
+   ![](assets/create-an-email-5.png)
+
+1. 要创建新电子邮件，您有两个选项。 右键单击您的电子邮件计划名称并选择&#x200B;**新建本地资产**，或者单击仪表板“电子邮件”框中的&#x200B;**+新建电子邮件**&#x200B;按钮。 在本例中，我们将执行前者。
+
+   ![](assets/create-an-email-6.png)
+
+1. 选择&#x200B;**电子邮件（新编辑器）**。
+
+   ![](assets/create-an-email-7.png)
+
+1. 输入电子邮件名称和主题行。 单击&#x200B;**创建**。
+
+   ![](assets/create-an-email-8.png)
+
+>[!ENDTABS]
 
 就是这样。 现在该设计您的电子邮件了。
 
@@ -308,7 +337,7 @@ ht-degree: 1%
 
 ## 引用电子邮件 {#reference-an-email}
 
-在新编辑器中创建电子邮件后，您可以在智能营销活动和/或智能列表中引用该电子邮件，就像您在处理任何其他电子邮件时所做的那样。
+如果您在电子邮件程序中创建了电子邮件，则只能在该程序中使用该电子邮件。 如果您在Design Studio中创建了电子邮件，则可以从智能营销活动和/或智能列表中引用该电子邮件，就像使用任何其他电子邮件一样。
 
 * 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，[在智能列表中引用它。
 
@@ -320,4 +349,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[电子邮件模板](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}：了解如何在新的设计器中创建、设计和访问电子邮件模板。
+>[电子邮件模板](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}：了解如何在新的设计器中创建、设计和访问电子邮件模板。
