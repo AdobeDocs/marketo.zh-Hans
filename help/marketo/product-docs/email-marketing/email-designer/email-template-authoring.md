@@ -1,106 +1,66 @@
 ---
-description: 电子邮件创作 — Marketo文档 — 产品文档
-title: 电子邮件创作
+description: 电子邮件模板 — Marketo文档 — 产品文档
+title: 电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Email Editor
-exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '1739'
+source-wordcount: '1842'
 ht-degree: 1%
 
 ---
 
-# 电子邮件创作 {#email-authoring}
+# 电子邮件模板 {#email-templates}
 
-了解如何在新的Marketo Engage电子邮件Designer中创建、个性化和预览电子邮件。
+为了加快并改进设计过程，您可以创建独立的电子邮件模板以轻松重用自定义内容。
 
 >[!PREREQUISITES]
 >
 >要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[AdobeIdentity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的请求，而您希望请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
-## 创建电子邮件 {#create-an-email}
+>[!NOTE]
+>
+>新电子邮件设计器中的电子邮件模板只能用于新电子邮件设计器中的创建电子邮件。 在旧电子邮件编辑器中无法引用它们。
 
-来自电子邮件Designer的电子邮件目前只能在Design Studio中创建并在智能营销活动/列表中引用，或直接在电子邮件程序中创建/使用。
-
->[!BEGINTABS]
-
->[!TAB 设计工作室]
+## 创建电子邮件模板 {#create-an-email-template}
 
 1. 通过[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登录Marketo Engage。
 
 1. 在“我的Marketo”中，选择&#x200B;**设计工作室**。
 
-   ![](assets/create-an-email-1.png)
+   ![](assets/create-an-email-template-1.png)
 
-1. 在树中选择&#x200B;**电子邮件（新编辑器）**。
+1. 在树中选择&#x200B;**电子邮件模板（新编辑器）**。
 
-   ![](assets/create-an-email-2.png)
+   ![](assets/create-an-email-template-2.png)
 
-1. 单击&#x200B;**创建电子邮件**&#x200B;按钮。
+1. 单击&#x200B;**创建模板**&#x200B;按钮。
 
-   ![](assets/create-an-email-3.png)
+   ![](assets/create-an-email-template-3.png)
 
-1. 输入电子邮件名称和主题行。 单击&#x200B;**创建**。
+1. 输入模板名称和可选说明。 单击&#x200B;**创建**。
 
-   ![](assets/create-an-email-4.png)
+   ![](assets/create-an-email-template-4.png)
 
->[!TAB 电子邮件程序]
+## 设计模板 {#design-your-template}
 
-1. 通过[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登录Marketo Engage。
+在&#x200B;_设计模板_&#x200B;页面中，可以从几个选项中进行选择。 [从头开始设计](#design-from-scratch)、[导入您自己的HTML](#import-html)或[选择现有模板](#choose-a-template)（我们的示例之一或您已保存的示例）。
 
-1. 查找并选择（或创建）您的电子邮件程序。
-
-   ![](assets/create-an-email-5.png)
-
-1. 要创建新电子邮件，您有两个选项。 右键单击您的电子邮件计划名称并选择&#x200B;**新建本地资产**，或者单击仪表板“电子邮件”框中的&#x200B;**+新建电子邮件**&#x200B;按钮。 在本例中，我们将执行前者。
-
-   ![](assets/create-an-email-6.png)
-
-1. 选择&#x200B;**电子邮件（新编辑器）**。
-
-   ![](assets/create-an-email-7.png)
-
-1. 输入电子邮件名称和主题行。 单击&#x200B;**创建**。
-
-   ![](assets/create-an-email-8.png)
-
->[!ENDTABS]
-
-就是这样。 现在该设计您的电子邮件了。
-
-## 选择您的内容类型 {#choose-your-content-type}
-
-1. 在刚刚创建的电子邮件中，单击&#x200B;**添加电子邮件内容**。
-
-   ![](assets/choose-your-content-type-1.png)
-
-1. 加载&#x200B;_创建电子邮件_&#x200B;页面。 您可以从以下几个选项中进行选择：
-
-* [使用可视电子邮件编辑器从头开始设计](#design-from-scratch)
-
-* [通过HTML或zip文件导入您自己的HTML](#import-html)
-
-* [选择现有模板](#choose-a-template)（我们的一个示例或您已保存的示例）
+![](assets/design-your-template-1.png)
 
 ### 从头开始设计 {#design-from-scratch}
 
-在电子邮件编辑器中从头开始时，请使用以下选项来定义您的内容。
+通过简单的拖放操作添加和移动结构元素来定义内容。
 
-1. 在&#x200B;_创建电子邮件_&#x200B;页面中，选择&#x200B;**从头开始设计**。
+1. 在&#x200B;_设计模板_&#x200B;页面中，选择&#x200B;**从头开始设计**。
 
-1. 将[结构和内容](#add-structure-and-content)添加到您的电子邮件中。
+1. 添加[结构和内容](#add-structure-and-content)。
 
-1. 添加[图像](#add-assets)。
+### 导入您的HTML {#import-your-html}
 
-1. [个性化](#personalize-content)您的内容。
-
-1. 查看链接并[编辑跟踪](#edit-url-tracking)。
-
-### 导入HTML {#import-html}
-
-您可以导入现有HTML内容来设计电子邮件。 内容可以是：
+您可以导入现有HTML内容来设计电子邮件模板。 内容可以是：
 
 * 具有合并样式表的HTML文件
 
@@ -110,17 +70,23 @@ ht-degree: 1%
 >
 >.zip文件结构没有限制。 但是，引用必须是相对的，并且适合.zip文件夹的树结构。
 
-1. 在“设计模板”页中，选择&#x200B;**导入HTML**。
+1. 在&#x200B;_设计模板_&#x200B;页中，选择&#x200B;**导入HTML**。
 
 1. 拖放所需的HTML或.zip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
 
-   ![](assets/authoring-import-your-html-1.png)
+   ![](assets/import-your-html-1.png)
 
->[!NOTE]
->
->上传HTML内容后，您的内容将处于兼容模式。 在此模式下，您只能个性化文本、添加链接或向内容添加资产。
+   >[!NOTE]
+   >
+   >上传HTML内容后，您的内容将处于兼容模式。 在此模式下，您只能个性化文本、添加链接或向内容添加资产。
 
-您可以使用[可视电子邮件编辑器工具](#add-structure-and-content)对导入的内容进行所需的更改。
+1. 若要利用Email Designer内容组件，请单击&#x200B;**HTML转换器**&#x200B;选项卡，然后单击&#x200B;**转换**。
+
+   >[!CAUTION]
+   >
+   >在HTML文件中使用`<table>`标记作为第一层可能会导致样式丢失，包括顶层标记中的背景和宽度设置。
+
+现在，您可以根据需要使用可视电子邮件编辑器对导入的文件进行个性化设置。
 
 ### 选择模板 {#choose-a-template}
 
@@ -140,11 +106,11 @@ ht-degree: 1%
 
 1. 选择要使用的模板。
 
-   ![](assets/authoring-sample-templates-1.png)
+   ![](assets/sample-templates-1.png)
 
 1. 单击&#x200B;**使用此模板**。
 
-   ![](assets/authoring-sample-templates-2.png)
+   ![](assets/sample-templates-2.png)
 
 1. 使用可视内容设计器根据需要编辑内容。
 
@@ -152,11 +118,11 @@ ht-degree: 1%
 
 1. 单击&#x200B;**保存的模板**&#x200B;选项卡，然后选择所需的模板。
 
-   ![](assets/authoring-saved-templates-1.png)
+   ![](assets/saved-templates-1.png)
 
 1. 单击&#x200B;**使用此模板**。
 
-   ![](assets/authoring-saved-templates-2.png)
+   ![](assets/saved-templates-2.png)
 
 1. 使用可视内容设计器根据需要编辑内容。
 
@@ -170,7 +136,7 @@ ht-degree: 1%
    >
    >选择n：n列组件以定义所选列数（3到10之间）。 您还可以通过移动列下方的箭头来定义每列的宽度。
 
-   ![](assets/authoring-add-structure-and-content-1.png)
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -178,7 +144,7 @@ ht-degree: 1%
 
 1. 从内容部分中，将所需项目拖放到一个或多个结构组件中。
 
-   ![](assets/authoring-add-structure-and-content-2.png)
+   ![](assets/add-structure-and-content-2.png)
 
 1. 可通过“设置”或“样式”选项卡自定义每个组件。 更改字体、文本样式、边距等。
 
@@ -208,11 +174,11 @@ ht-degree: 1%
 
 1. 要访问您的图像，请单击资产选择器图标。
 
-   ![](assets/authoring-add-assets-1.png)
+   ![](assets/add-assets-1.png)
 
 1. 将所需的图像拖放到结构组件中。
 
-   ![](assets/authoring-add-assets-2.png)
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
@@ -222,7 +188,7 @@ ht-degree: 1%
 
 打开导航树以访问特定结构及其列/组件以进行更细粒度的编辑。 要访问，请单击导航树图标。
 
-![](assets/authoring-layers-settings-styles-1.png)
+![](assets/layers-settings-styles-1.png)
 
 下面的示例概述了在由列组成的结构组件内调整填充和垂直对齐的步骤。
 
@@ -232,7 +198,7 @@ ht-degree: 1%
 
    也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL 设置]_&#x200B;和&#x200B;_[!UICONTROL 样式]_&#x200B;选项卡中。
 
-   ![](assets/authoring-layers-settings-styles-2.png)
+   ![](assets/layers-settings-styles-2.png)
 
 1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL 样式]_&#x200B;选项卡，然后根据需要进行更改：
 
@@ -247,7 +213,7 @@ ht-degree: 1%
 
    * 展开&#x200B;**[!UICONTROL 高级]**&#x200B;部分以定义列的内联样式。
 
-   ![](assets/authoring-layers-settings-styles-3.png)
+   ![](assets/layers-settings-styles-3.png)
 
 1. 根据需要重复这些步骤以调整组件中其他列的对齐和填充。
 
@@ -259,15 +225,15 @@ ht-degree: 1%
 
 1. 选择文本组件。 将光标放在您希望令牌出现的位置，然后单击&#x200B;**添加个性化**&#x200B;图标。
 
-   ![](assets/authoring-personalize-content-1.png)
+   ![](assets/personalize-content-1.png)
 
 1. 单击所需的[令牌类型](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}。
 
-   ![](assets/authoring-personalize-content-2.png)
+   ![](assets/personalize-content-2.png)
 
 1. 找到所需的令牌，然后单击&#x200B;**...**&#x200B;图标（改为单击+图标可添加不含回退文本的令牌）。
 
-   ![](assets/authoring-personalize-content-3.png)
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
@@ -275,7 +241,7 @@ ht-degree: 1%
 
 1. 设置您的回退文本，然后单击&#x200B;**添加**。
 
-   ![](assets/authoring-personalize-content-4.png)
+   ![](assets/personalize-content-4.png)
 
 1. 单击&#x200B;**保存**。
 
@@ -285,13 +251,13 @@ ht-degree: 1%
 
 1. 单击链接图标以显示电子邮件中的所有URL。
 
-   ![](assets/authoring-edit-url-tracking-1.png)
+   ![](assets/edit-url-tracking-1.png)
 
 1. 单击铅笔图标可编辑任何所需链接的跟踪。
 
 1. 单击&#x200B;**跟踪类型**&#x200B;下拉列表并进行选择。
 
-   ![](assets/authoring-edit-url-tracking-2.png)
+   ![](assets/edit-url-tracking-2.png)
 
    <table><tbody>
      <tr>
@@ -313,56 +279,94 @@ ht-degree: 1%
 
 1. 完成后单击&#x200B;**保存**。
 
-## 检查警报 {#check-alerts}
+### 查看选项 {#view-options}
 
-设计内容时，如果缺少关键设置，屏幕右上角会显示警报。
+利用可视电子邮件编辑器中提供的视图和内容验证选项。
 
-警报有两种类型：
+* 使用预设的缩放选项放大/缩小内容。
 
-**个警告**
+* 在桌面、移动设备或纯文本/纯文本中查看内容。
 
-警告指代建议和最佳实践，例如：
+   * 单击实时视图（眼睛）图标可跨设备预览内容。
 
-* **电子邮件正文中不存在选择退出链接**：虽然取消订阅链接是必需的，但最佳做法是将它们添加到电子邮件正文中。
+   * 选择其中一个现成的设备或输入自定义维度以预览您的内容。
 
->[!NOTE]
->
->[操作电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)（非营销）不需要添加取消订阅选项。
+### 更多选项 {#more-options}
 
-* **HTML的文本版本为空**：您必须为无法显示HTML内容时定义电子邮件正文的文本版本。
+在内容编辑器的&#x200B;**更多**&#x200B;选项中，您可以执行以下操作：
 
-* **电子邮件正文中存在空链接**：验证电子邮件中的所有链接是否正确。
+![](assets/more-options-1.png)
 
-* **电子邮件大小已超出100KB的限制**：若要获得最佳投放，请确保电子邮件大小不超过100KB。
+* **重置模板**：选择此项可将可视电子邮件设计器画布清除为空白并重新启动内容生成。
 
-**个错误**
+* **更改您的设计**：返回到&#x200B;_设计您的模板_&#x200B;页面。 从此处，您可以按照[设计模板](#design-your-template)部分中概述的步骤执行任何操作。
 
-在解决错误之前，您无法发送或测试电子邮件：
+* **导出HTML**：将可视画布中的内容以HTML格式下载到本地系统，并打包为zip文件。
 
-* **主题行缺失**：需要电子邮件主题行。
+## 查看模板详细信息 {#view-template-details}
 
-* **邮件的电子邮件版本为空**：当尚未配置电子邮件内容时，会发生此错误。
+在&#x200B;_电子邮件模板_&#x200B;列表页中，单击电子邮件模板名称以查看其详细信息。
 
-## 测试电子邮件 {#test-your-email}
+(assets/view-template-details-1.png
 
-定义消息内容后，您可以使用测试用户档案对其进行预览、发送校样并控制它在常用桌面、移动和基于Web的客户端中的呈现方式。 如果插入个性化内容，则可以使用测试用户档案数据检查该内容在消息中的显示方式。
+可以编辑名称和描述等基本详细信息。 在编辑的字段外单击，以保存更改。
 
-要预览电子邮件内容，请单击&#x200B;**模拟内容**，然后添加测试用户档案，以使用测试用户档案数据检查邮件。
+单击&#x200B;**更多**&#x200B;可快速删除或复制您的模板。
 
-![](assets/test-your-email-1.png)
-
-## 引用电子邮件 {#reference-an-email}
-
-如果您在电子邮件程序中创建了电子邮件，则只能在该程序中使用该电子邮件。 如果您在Design Studio中创建了电子邮件，则可以从智能营销活动和/或智能列表中引用该电子邮件，就像使用任何其他电子邮件一样。
-
-* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，[在智能列表中引用它。
-
-* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，[在Smart Campaign中引用它。
+如果有任何活动警报（电子邮件模板的错误/警告），请单击警报以查看相关信息。
 
 >[!NOTE]
 >
->只能引用保存的电子邮件。 新电子邮件设计工具中没有“已批准”状态。
+>虽然这些警报不禁止使用电子邮件模板创建电子邮件，但信息可提供在电子邮件可用于投放之前可能不起作用的内容和所需更新的可见性。
+
+## 查看引用使用的电子邮件模板 {#email-template-used-by-references}
+
+在电子邮件模板摘要中，单击&#x200B;**使用者**&#x200B;选项卡查看在Marketo Engage中使用此电子邮件模板位置的详细信息。
+
+![](assets/email-template-used-by-references-1.png)
+
+## 编辑电子邮件模板 {#edit-email-templates}
+
+此操作可从以下位置执行：
+
+* 详细信息选项卡 — 单击&#x200B;**编辑电子邮件模板**。
+
+此操作会将您引导至&#x200B;_根据电子邮件模板的上次保存状态设计您的模板_&#x200B;页面或可视内容编辑器页面。 在此处，您可以根据需要编辑电子邮件模板内容。 有关编辑选项的信息，请参阅创建电子邮件模板。
+
+## 重复的电子邮件模板 {#duplicate-email-templates}
+
+复制电子邮件模板的方法有两种：
+
+* 从右侧的电子邮件模板详细信息中，单击&#x200B;**更多**&#x200B;并选择&#x200B;**复制**。
+
+  ![](assets/duplicate-email-templates-1.png)
+
+* 在&#x200B;_电子邮件模板_&#x200B;列表页面中，单击所需电子邮件模板的“更多操作”图标（三个圆点），然后选择&#x200B;**复制**。
+
+在对话框中，输入唯一名称和可选描述。 完成后单击&#x200B;**复制**。
+
+然后，复制的电子邮件模板出现在&#x200B;_电子邮件模板_&#x200B;列表页中。
+
+## 删除电子邮件模板 {#delete-email-templates}
+
+可通过两种方式删除电子邮件模板。
+
+>[!CAUTION]
+>
+>无法撤消删除电子邮件模板的操作。
+
+* 从右侧的电子邮件模板详细信息中，单击&#x200B;**更多**&#x200B;并选择&#x200B;**删除**。
+
+  ![](assets/delete-email-templates-1.png)
+
+* 在&#x200B;_电子邮件模板_&#x200B;列表页面中，单击所需电子邮件模板的“更多操作”图标（三个圆点），然后选择&#x200B;**删除**。
+
+## 批量操作 {#bulk-actions}
+
+从&#x200B;_电子邮件模板_&#x200B;列表页面中，选中左侧的复选框以选择多个模板。 底部会显示一条横幅。
+
+**删除**：一次最多可以删除20个模板。 确认对话框允许您中止操作或确认删除。
 
 >[!MORELIKETHIS]
 >
->[电子邮件模板](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}：了解如何在新的设计器中创建、设计和访问电子邮件模板。
+>[电子邮件创作](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：了解如何在新的设计器中创建、设计和引用电子邮件。
