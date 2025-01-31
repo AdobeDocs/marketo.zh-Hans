@@ -1,11 +1,9 @@
 ---
 description: 电子邮件创作 — Marketo文档 — 产品文档
 title: 电子邮件创作
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 1%
@@ -22,7 +20,7 @@ ht-degree: 1%
 
 ## 创建电子邮件 {#create-an-email}
 
-来自电子邮件Designer的电子邮件目前只能在Design Studio中创建并在智能营销活动/列表中引用，或直接在电子邮件程序中创建/使用。
+来自电子邮件设计器的电子邮件目前只能在Design Studio中创建并在智能营销活动/列表中引用，或直接在电子邮件程序中创建/使用。
 
 >[!BEGINTABS]
 

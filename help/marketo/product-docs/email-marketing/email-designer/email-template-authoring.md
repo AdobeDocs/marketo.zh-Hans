@@ -1,11 +1,9 @@
 ---
 description: 电子邮件模板 — Marketo文档 — 产品文档
 title: 电子邮件模板
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1842'
 ht-degree: 1%
