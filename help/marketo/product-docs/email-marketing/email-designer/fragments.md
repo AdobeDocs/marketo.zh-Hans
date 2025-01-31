@@ -4,9 +4,9 @@ description: 了解如何创建可视化内容片段，并将其用作电子邮�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 7076f020035b5751328e34620f3992f49da82290
 workflow-type: tm+mt
-source-wordcount: '2395'
+source-wordcount: '2396'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 要访问可视化片段，请转到Design Studio。 在左侧的树中，单击&#x200B;**[!UICONTROL 片段（新）]**。
 
-屏幕快照
+![访问片段](assets/fragments-1.png){width="600" zoomable="yes"}
 
 默认情况下，该表按&#x200B;_[!UICONTROL Modified]_&#x200B;列排序。 单击其他列标题以更改表的排序依据。 再次单击可在升序和降序之间切换。
 
