@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 1%
@@ -365,4 +365,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[电子邮件模板](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}：了解如何在新的设计器中创建、设计和访问电子邮件模板。
+>[电子邮件模板](/help/marketo/product-docs/email-marketing/email-designer/email-template.md){target="_blank"}：了解如何在新的设计器中创建、设计和访问电子邮件模板。
