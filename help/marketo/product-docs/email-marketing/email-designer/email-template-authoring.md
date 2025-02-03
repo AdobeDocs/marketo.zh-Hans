@@ -2,8 +2,10 @@
 description: 电子邮件模板 — Marketo文档 — 产品文档
 title: 电子邮件模板
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 1%
@@ -162,7 +164,7 @@ ht-degree: 1%
 
 保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL 使用者]_&#x200B;选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
 
-### 添加Assets {#add-assets}
+### 添加资源 {#add-assets}
 
 添加存储在Marketo Engage实例的[图像和文件](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"}部分中的图像。
 

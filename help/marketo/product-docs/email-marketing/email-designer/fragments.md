@@ -4,9 +4,9 @@ description: 了解如何创建可视化内容片段，并将其用作电子邮�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7076f020035b5751328e34620f3992f49da82290
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2402'
 ht-degree: 1%
 
 ---
@@ -314,7 +314,7 @@ ht-degree: 1%
 
 >[!TAB 向电子邮件添加片段]
 
-1. 导航到&#x200B;**[!UICONTROL 帐户历程]**&#x200B;并打开现有历程或创建新历程。 &lt; — 仔细检查这个
+1. 导航到&#x200B;**[!UICONTROL 帐户历程]**&#x200B;并打开现有历程或创建新历程。 &lt; — 仅当电子邮件或电子邮件模板内时
 
 ---------已停止在此处编辑---------
 

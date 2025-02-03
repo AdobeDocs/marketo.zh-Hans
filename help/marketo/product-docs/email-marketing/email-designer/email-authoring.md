@@ -2,8 +2,10 @@
 description: 电子邮件创作 — Marketo文档 — 产品文档
 title: 电子邮件创作
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 1%
