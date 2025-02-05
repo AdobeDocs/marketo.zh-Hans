@@ -4,9 +4,9 @@ description: 导入人员列表 — Marketo文档 — 产品文档
 title: 导入人员列表
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >* Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
    >
-   >* 通过CSV导入`NULL`值可能会为人员的[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}、_中的数值字段生成“更改数据值”，即使这些字段已经为空_。 如果您有任何[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}使用“数据值已更改”筛选器或“数据值更改”触发器，请确保使用[约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}以确保在执行导入时不会不必要地触发这些约束。
+   >* 通过CSV导入`NULL`值可能会为人员的[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}、_中的数值字段生成“更改数据值”，即使这些字段已经为空_。 如果您有任何[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}使用“数据值已更改”过滤器或“数据值更改”触发器，那么即使数据实际上并未更改，也可能导致人员符合这些营销活动的资格。 您可以使用[约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}来确保在导入时没有任何人符合这些促销活动的条件。
 
 ## 第2步：创建项目 {#step-create-a-program}
 

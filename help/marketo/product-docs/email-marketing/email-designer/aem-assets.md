@@ -4,7 +4,7 @@ description: 了解如何在Adobe Marketo Engage中创作内容时使用连接�
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 1%
@@ -53,13 +53,13 @@ ht-degree: 1%
 
 选择所需的存储库。
 
-![选择AEM Assets存储库以访问图像资源](assets/work-with-experience-manager-assets-five.png)
+![选择AEM Assets存储库以访问图像资源](assets/work-with-experience-manager-assets-5.png)
 
 有多种方法可以将图像资产添加到可视画布：
 
 * 从左侧导航中拖放图像缩略图。
 
-![选择AEM Assets存储库以访问图像资源](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![选择AEM Assets存储库以访问图像资源](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * 将图像组件添加到画布并单击&#x200B;**[!UICONTROL 浏览]**&#x200B;以打开&#x200B;_[!UICONTROL 选择Assets]_&#x200B;对话框。
 
@@ -67,7 +67,7 @@ ht-degree: 1%
 
   有多个工具可帮助您找到所需的资源。
 
-![使用“选择Assets”对话框中的工具查找并选择图像资源](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![使用“选择Assets”对话框中的工具查找并选择图像资源](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * 更改右上角的&#x200B;**[!UICONTROL 存储库]**。
 
@@ -83,4 +83,4 @@ ht-degree: 1%
 
 * 在搜索字段中输入文本，以筛选显示的项目以匹配资源名称。
 
-![使用筛选器和搜索字段查找资源](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![使用筛选器和搜索字段查找资源](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
