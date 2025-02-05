@@ -4,16 +4,16 @@ description: 了解如何在Adobe Marketo Engage中创作内容时使用连接�
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '598'
 ht-degree: 1%
 
 ---
 
 # 使用Experience Manager资源 {#work-with-experience-manager-assets}
 
-当&#x200B;_Adobe Experience Manager Assetsas a Cloud Service_&#x200B;与Adobe Marketo Engage集成时，您可以轻松访问数字资源以用于营销内容。 创作内容时，可从左侧导航栏中的&#x200B;_[!UICONTROL Experience Manager Assets]_&#x200B;项访问资源。
+当&#x200B;_Adobe Experience Manager Assetsas a Cloud Service_&#x200B;与Adobe Marketo Engage集成时，您可以轻松访问数字资源以用于营销内容。
 
 >[!PREREQUISITES]
 >
