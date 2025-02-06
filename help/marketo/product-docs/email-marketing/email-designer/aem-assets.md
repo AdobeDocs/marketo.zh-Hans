@@ -1,12 +1,10 @@
 ---
 title: 使用 Experience Manager Assets
 description: 了解如何在Adobe Marketo Engage中创作内容时使用连接的AEM Assets存储库中的图像资源。
-hide: true
-hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
@@ -17,13 +15,13 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->连接MKTO/AEM文档。
+>[将您的Adobe Experience ManagerCloud Service连接到Adobe Marketo Engage实例](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->目前，Marketo Engage仅支持&#x200B;_Adobe Experience Manager Assets_&#x200B;中的图像资源。 必须在Adobe Experience Manager Assets中央存储库中更改资源。 [了解详情](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>目前，Marketo Engage仅支持&#x200B;_Adobe Experience Manager Assets_&#x200B;中的图像资源。 必须在Adobe Experience Manager Assets中央存储库中更改资源。 [了解详情](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-当您使用这些数字资源时，_Assetsas a Cloud Service_&#x200B;中的最新更改会通过链接的引用自动传播到实时电子邮件促销活动。 如果在&#x200B;_Adobe Experience Manager Assetsas a Cloud Service_&#x200B;中删除了图像，则这些图像在电子邮件中会以损坏的引用出现。 当当前在Marketo Engage中使用的资源被修改或删除时，会通知电子邮件作者图像发生了更改。 对资源的所有更改必须在Adobe Experience Manager Assets中央存储库中完成。
+当您使用这些数字资源时，_Assetsas a Cloud Service_&#x200B;中的最新更改会通过链接的引用自动传播到实时电子邮件促销活动。 如果在&#x200B;_Adobe Experience Manager Assetsas a Cloud Service_&#x200B;中删除了图像，则这些图像会在您的电子邮件中以损坏的引用出现。 当当前在Marketo Engage中使用的资源被修改或删除时，会通知电子邮件作者图像发生了更改。 对资源的所有更改必须在Adobe Experience Manager Assets中央存储库中完成。
 
 ## 使用AEM Assets作为图像源 {#use-aem-assets-as-the-image-source}
 
