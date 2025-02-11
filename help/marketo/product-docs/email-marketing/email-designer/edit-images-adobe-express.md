@@ -6,18 +6,19 @@ description: 了解如何使用Adobe Express在Adobe Marketo Engage电子邮件�
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 803ab5d02f1e2f66ca0fe9176a8dd248fd91b564
+exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
 
 # 使用 Adobe Express 编辑图像 {#edit-images-with-adobe-express}
 
-Adobe Marketo Engage与Adobe Express进行原生集成，使您能够访问各种图像编辑工具。 您可以使用这些工具在Marketo Engage设计工作室中修改图像。 该集成具有以下主要优势：
+Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像编辑工具。 您可以使用这些工具在Marketo Engage Design Studio中修改图像。 该集成具有以下主要优势：
 
-* 通过编辑新图像并将其保存在Marketo Engage中，增加了内容重复使用。
+* 通过在Marketo Engage中编辑和保存新图像来提高内容重复使用率。
 
 * 减少了更新图像或创建现有图像的新版本的时间和精力。
 
@@ -81,7 +82,7 @@ Adobe Marketo Engage与Adobe Express进行原生集成，使您能够访问各�
 
 ## 拥有企业许可证的用户 {#users-with-an-enterprise-license}
 
-如果您拥有用于Adobe Express的企业版许可证，则可以访问Express编辑器。 您可以调整图像颜色、亮度、锐度、对比度、大小等设置。 “AI魔术”选项允许您移除背景、插入和移除对象以及拭除图像的部分。
+如果您拥有Adobe Express的企业版许可证，则有权访问完整的Express编辑器。 您可以调整图像设置，如颜色、亮度、锐度、对比度、大小等。 “AI魔术”选项允许您删除背景、插入和移除对象以及拭除图像的部分。
 
 >[!IMPORTANT]
 >
@@ -126,7 +127,7 @@ Adobe Marketo Engage与Adobe Express进行原生集成，使您能够访问各�
 
 在新电子邮件Designer中，选择要编辑的图像。
 
-将会显示一个选项“使用Adobe Express编辑”。 单击按钮以继续。
+此时将显示一个选项“使用Adobe Express编辑”。 单击按钮以继续。
 
 注意：此操作适用于最初源自Marketo Design Studio存储库的图像。
 

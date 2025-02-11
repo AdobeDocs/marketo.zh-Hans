@@ -5,9 +5,9 @@ description: 概述 — Marketo文档 — 产品文档
 title: 概述
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 
-Email Designer是Marketo Engage领域的最新创新，旨在提供经过改版的电子邮件和电子邮件模板创建体验，通过提供可视化的拖放编辑器和标准的现成模板来提高工作效率和效率。 轻松创建自定义的电子邮件模板，无需花钱购买供应商。
+电子邮件设计器是Marketo Engage中的一项最新创新，旨在提供经过改版的电子邮件和电子邮件模板创建体验，通过提供可视化的拖放编辑器和标准的现成模板来提高工作效率和效率。 轻松创建自定义的电子邮件模板，无需花钱购买供应商。
 
 在新设计器中创建的电子邮件可用于电子邮件程序以及智能列表/营销策划。 即将推出针对设计器的强大新增强功能。
 
@@ -24,7 +24,7 @@ Email Designer是Marketo Engage领域的最新创新，旨在提供经过改版�
 
 +++了解如何访问电子邮件设计器
 
-要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[AdobeIdentity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的请求，而您希望请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 添加用户 {#add-users}
 
@@ -48,9 +48,9 @@ Email Designer是Marketo Engage领域的最新创新，旨在提供经过改版�
 
 * [电子邮件模板创作](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：了解如何在新的编辑器中创建、设计和访问电子邮件模板。
 
-* [使用AEM资源](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：了解如何轻松访问AEM数字资源以用于Marketo Engage。
+* [使用AEM资源](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：了解如何轻松访问AEM数字资源，以便在Marketo Engage中使用。
 
-* [使用AI Assistant内容加速器](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}：利用Adobe的创作AI技术，向电子邮件中添加有用的文本和/或图像。
+* [使用AI助手](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}：利用Adobe的创作AI技术，向电子邮件中添加有用的文本和/或图像。
 
 * [在电子邮件模板中锁定内容](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：了解如何在电子邮件模板中锁定内容，从而帮助防止无意编辑或删除。
 
