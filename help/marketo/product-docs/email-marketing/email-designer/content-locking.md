@@ -3,13 +3,12 @@ solution: Marketo Engage
 product: marketo engage
 title: 锁定电子邮件模板中的内容
 description: 了解如何在电子邮件模板中锁定内容。
-hide: true
-hidefromtoc: true
 level: Beginner, Intermediate
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
-source-wordcount: '919'
-ht-degree: 11%
+source-wordcount: '891'
+ht-degree: 9%
 
 ---
 
@@ -41,11 +40,9 @@ Marketo Engage允许您通过锁定整个模板或特定结构/组件来锁定�
 
 无论您是要创建新模板还是要编辑现有模板，都可以直接在Email Designer中为电子邮件模板启用内容锁定。
 
- — 已停止在此编辑 — 
-
 1. 打开或创建电子邮件模板，并在电子邮件Designer中访问内容编辑屏幕。
 
-1. 在右侧的&#x200B;**[!UICONTROL 正文]**&#x200B;窗格中，打开&#x200B;**[!UICONTROL 管理]**&#x200B;选项。
+1. 在右侧的&#x200B;**[!UICONTROL 正文]**&#x200B;窗格中，启用&#x200B;**[!UICONTROL 治理]**&#x200B;选项。
 
 1. 从&#x200B;**[!UICONTROL 模式]**&#x200B;下拉列表中，为模板选择所需的锁定模式：
 
@@ -54,18 +51,18 @@ Marketo Engage允许您通过锁定整个模板或特定结构/组件来锁定�
 
    ![](assets/content-locking-1.png){width="800" zoomable="yes"}
 
-1. 如果您选择了&#x200B;**[!UICONTROL 内容锁定]**&#x200B;模式，则可以进一步定义用户与模板的交互方式。 打开&#x200B;**[!UICONTROL 启用内容版本]**&#x200B;选项并选择以下选项之一：
+1. 如果您选择了&#x200B;**[!UICONTROL 内容锁定]**&#x200B;模式，则可以进一步定义用户与模板的交互方式。 启用&#x200B;**[!UICONTROL 启用内容版本]**&#x200B;选项并选择以下选项之一：
 
    * **[!UICONTROL 允许结构和内容添加]**：用户可以在现有结构之间添加结构，并在可编辑的结构中添加内容组件或片段。
 
    * **[!UICONTROL 仅允许添加内容]**：用户可以在可编辑的结构中添加内容组件或片段，但无法添加或复制结构。
 
-1. 选择锁定模式后，您可以定义在选择了&#x200B;**[!UICONTROL 内容锁定]**&#x200B;模式时要锁定的结构和/或组件：
+1. 选择锁定模式后，您可以定义在选择&#x200B;**[!UICONTROL 内容锁定]**&#x200B;模式时要锁定的结构和/或组件：
 
    * [了解如何锁定结构](#lock-structures)
    * [了解如何锁定组件](#lock-components)
 
-   如果您选择&#x200B;**[!UICONTROL 只读]**&#x200B;模式，您可以照常完成并保存模板。
+   如果您选择&#x200B;**[!UICONTROL 只读]**&#x200B;模式，则可以继续完成并保存模板。
 
 通过选择模板正文，您可以在设计模板时随时调整&#x200B;**[!UICONTROL 管理]**&#x200B;设置。 为此，请单击位于右侧窗格顶部的导航边栏中的&#x200B;**[!UICONTROL 正文]**&#x200B;链接。
 
@@ -89,7 +86,7 @@ Marketo Engage允许您通过锁定整个模板或特定结构/组件来锁定�
 
 1. 选择要解锁的组件。
 
-1. 打开&#x200B;**[!UICONTROL 使用特定锁定]**&#x200B;选项。
+1. 启用&#x200B;**[!UICONTROL 使用特定锁定]**&#x200B;选项。
 
 1. 在&#x200B;**[!UICONTROL 锁定类型]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL 可编辑]**。 要在锁定样式时允许编辑内容，请选择&#x200B;**[!UICONTROL 仅可编辑的内容]**。 [了解如何锁定组件](#lock-components)
 
@@ -126,16 +123,11 @@ Marketo Engage允许您通过锁定整个模板或特定结构/组件来锁定�
 
 使用包含锁定内容的模板时，右侧窗格中会显示&#x200B;**[!UICONTROL 启用管理]**&#x200B;消息。
 
-根据应用于模板的锁定类型，您可以对模板的结构和组件执行不同的操作。要快速识别模板内的所有可编辑区域，请切换&#x200B;**[!UICONTROL 突出可编辑区域]**&#x200B;选项。
+根据应用于模板的锁定类型，您可以对模板的结构和组件执行不同的操作。要快速识别模板中的所有可编辑区域，请启用&#x200B;**[!UICONTROL 突出显示可编辑区域]**&#x200B;选项。
 
-例如，在下面的模板中，除了已锁定的顶部图像之外，所有区域都是可编辑的，这意味着您无法编辑或删除它。
+例如，在下面的模板中，除了已锁定的顶部图像之外，所有区域都可以编辑，这意味着您无法编辑或删除它。
 
 ![](assets/content-locking-7.png){width="800" zoomable="yes"}
-
-有关可应用的不同锁定类型的详细信息，请参阅以下章节：
-
-* [锁定结构](#lock-structures)
-* [锁定组件](#lock-components)
 
 以下是已设置的电子邮件编辑和相关内容锁定配置的一些示例：
 
