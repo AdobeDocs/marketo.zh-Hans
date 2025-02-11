@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -36,11 +36,11 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. 在Marketo Engage中，转到&#x200B;**[!UICONTROL 设计工作室]**&#x200B;并选择&#x200B;**[!UICONTROL 图像和文件]**。
 
-   ![选择Design Studio左侧导航中的图像和文件](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![选择Design Studio左侧导航中的图像和文件](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. 选择要编辑的图像（或创建新图像）。
 
-   屏幕快照
+   屏幕快照2a
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. 在图像&#x200B;_详细信息_&#x200B;选项卡中，单击&#x200B;**在Adobe Express中编辑**。
 
-   屏幕快照
+   屏幕快照3a
 
    >[!CAUTION]
    >
@@ -60,7 +60,7 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. 在Marketo Engage中，转到&#x200B;**[!UICONTROL 设计工作室]**&#x200B;并选择&#x200B;**[!UICONTROL 图像和文件]**。
 
-   ![选择Design Studio左侧导航中的图像和文件](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![选择Design Studio左侧导航中的图像和文件](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. 选中要编辑的图像旁边的复选框。
 
-   屏幕快照
+   屏幕快照2b
 
 1. 在&#x200B;**[!UICONTROL 图像和文件操作]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL 在Adobe Express中编辑]**。
 
@@ -80,7 +80,9 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 >[!ENDTABS]
 
-## 拥有企业许可证的用户 {#users-with-an-enterprise-license}
+## Adobe Express企业许可证 {#adobe-express-enterprise-license}
+
+### 拥有企业许可证的用户 {#users-with-an-enterprise-license}
 
 如果您拥有Adobe Express的企业版许可证，则有权访问完整的Express编辑器。 您可以调整图像设置，如颜色、亮度、锐度、对比度、大小等。 “AI魔术”选项允许您删除背景、插入和移除对象以及拭除图像的部分。
 
@@ -88,25 +90,56 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 >
 >购买的许可证必须与您的Marketo Engage订阅属于同一个IMS组织，才能访问所有Adobe Express编辑功能。 此外，每个用户都必须在Adobe Express中拥有许可证。 没有许可证的用户[只能访问Adobe Express中的快速操作。](#users-without-an-enterprise-license)
 
-单击使用Adobe Express编辑以打开图像。
-
-屏幕快照
-
-执行所需的更改并保存文件。
-
-屏幕快照
-
-单击保存以完成操作。
-
 ## 没有企业许可证的用户 {#users-without-an-enterprise-license}
 
 对于没有Enterprise许可证的用户，您仍然可以访问多个快速操作编辑功能。 这些功能包括：
 
-* 调整图像大小
-* 删除背景
-* 裁切图像
-* 转换为PNG
-* 转换为JPEG
+* [调整图像大小](#resize-image)
+* [删除背景](#remove-background)
+* [裁切图像](#crop-image)
+* [转换为PNG/JPEG](#convert-to-png-jpeg)
+
+可在图像页面的左上角访问这些功能。
+
+屏幕快照
+
+### 调整图像大小 {#resize-image}
+
+进行所需的更改，完成后单击&#x200B;**应用**。
+
+屏幕快照
+
+<table><tbody>
+  <tr>
+    <td><b>宽高比</b></td>
+    <td>在<b>宽高比</b>下拉列表中，选择<b>标准</b>到空白，或选择<b>自定义</b>以设置您自己的宽度/高度。</td>
+  </tr>
+  <tr>
+    <td><b>宽度和高度</b></td>
+    <td>默认情况下，将锁定长宽比，这样在调整图像大小时，图像比例将保持不变。 如果需要，可以选择锁定按钮以解锁纵横比。</td>
+  </tr>
+  <tr>
+    <td><b>重置</b></td>
+    <td>单击<b>重置</b>可删除对图像所做的任何编辑并将其恢复为原始状态。</td>
+  </tr>
+  <tr>
+    <td><b>缩放和裁切</b></td>
+    <td>单击缩放和裁切可放大图像的特定区域。</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+### 删除背景 {#remove-background}
+
+文本
+
+### 裁切图像 {#crop-image}
+
+文本
+
+### 转换为PNG/JPEG {#convert-to-png-jpeg}
 
 单击页面上的裁切图像。
 
