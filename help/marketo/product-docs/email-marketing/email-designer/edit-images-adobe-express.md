@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '804'
 ht-degree: 1%
 
 ---
@@ -44,11 +44,11 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
    >[!NOTE]
    >
-   >* 要按工作区和文件夹查看资源，请单击左上角的&#x200B;**显示文件夹**&#x200B;图标以打开结构。
+   >* 要按工作区和文件夹查看资源，请单击左上角的&#x200B;**[!UICONTROL 显示文件夹]**&#x200B;图标以打开结构。
    >
    >* 要按任意列对表进行排序，请单击列标题。 标题行中的箭头指示当前排序列和顺序。
 
-1. 在图像&#x200B;_详细信息_&#x200B;选项卡中，单击&#x200B;**在Adobe Express中编辑**。
+1. 在图像&#x200B;_详细信息_&#x200B;选项卡中，单击&#x200B;**[!UICONTROL 在Adobe Express中编辑]**。
 
    屏幕快照3a
 
@@ -64,7 +64,7 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
    >[!NOTE]
    >
-   >* 要按工作区和文件夹查看资源，请单击左上角的&#x200B;**显示文件夹**&#x200B;图标以打开结构。
+   >* 要按工作区和文件夹查看资源，请单击左上角的&#x200B;**[!UICONTROL 显示文件夹]**&#x200B;图标以打开结构。
    >
    >* 要按任意列对表进行排序，请单击列标题。 标题行中的箭头指示当前排序列和顺序。
 
@@ -90,7 +90,7 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 >
 >购买的许可证必须与您的Marketo Engage订阅属于同一个IMS组织，才能访问所有Adobe Express编辑功能。 此外，每个用户都必须在Adobe Express中拥有许可证。 没有许可证的用户[只能访问Adobe Express中的快速操作。](#users-without-an-enterprise-license)
 
-## 没有企业许可证的用户 {#users-without-an-enterprise-license}
+### 没有企业许可证的用户 {#users-without-an-enterprise-license}
 
 对于没有Enterprise许可证的用户，您仍然可以访问多个快速操作编辑功能。 这些功能包括：
 
@@ -103,9 +103,11 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 屏幕快照
 
-### 调整图像大小 {#resize-image}
+#### 调整图像大小 {#resize-image}
 
-进行所需的更改，完成后单击&#x200B;**应用**。
+1. 单击&#x200B;**调整图像大小**。
+
+1. 进行所需的更改，完成后单击&#x200B;**应用**。
 
 屏幕快照
 
@@ -124,22 +126,42 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
   </tr>
   <tr>
     <td><b>缩放和裁切</b></td>
-    <td>单击缩放和裁切可放大图像的特定区域。</td>
+    <td>单击<b>缩放和裁切</b>可放大图像的特定区域。</td>
   </tr>
 </tbody>
 </table>
 
+#### 删除背景 {#remove-background}
 
+1. 单击&#x200B;**删除背景**。
 
-### 删除背景 {#remove-background}
+1. Adobe Express显示没有背景的图像。 单击&#x200B;**应用**。
 
-文本
+PIC
 
-### 裁切图像 {#crop-image}
+>[!TIP]
+>
+>若要还原背景，请选择图像，然后再次选择&#x200B;**删除背景**。
 
-文本
+#### 裁切图像 {#crop-image}
 
-### 转换为PNG/JPEG {#convert-to-png-jpeg}
+1. 单击裁切图像。
+
+1. 拖动图像的角以创建所需的裁切。
+
+屏幕快照
+
+1. 完成后单击&#x200B;**应用**。
+
+#### 转换为PNG/JPEG {#convert-to-png-jpeg}
+
+将PNG转换为JPEG，或将JPEG转换为PNG。
+
+1. 单击&#x200B;**转换为PNG/JPEG**。
+
+1. 单击&#x200B;**应用**。
+
+裁切下面的内容
 
 单击页面上的裁切图像。
 
@@ -151,21 +173,10 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 单击保存以完成操作。
 
-从图像和文件列表页面访问编辑器
-在列表页面上，选择要编辑的图像，然后单击页面上的V形图标和文件操作按钮。
+## 保存您所做的工作 {#save-your-work}
 
-单击使用Adobe Express编辑
+完成所有编辑后，单击“保存”以保存您所做的工作。
 
-访问Email Designer中的编辑器
+屏幕快照
 
-在新电子邮件Designer中，选择要编辑的图像。
-
-此时将显示一个选项“使用Adobe Express编辑”。 单击按钮以继续。
-
-注意：此操作适用于最初源自Marketo Design Studio存储库的图像。
-
-如果该图像正在使用中，则会出现一个警报对话框，通知您所做的任何更改都将影响该内容。 单击继续以进入Adobe Express编辑器。
-
-在Adobe Express上完成编辑
-
-单击保存以完成操作。  编辑后的图像将保存在与原始图像相同的文件夹中，并且还将更新到电子邮件编辑画布上。
+编辑后的图像将保存在与原始图像相同的文件夹中。
