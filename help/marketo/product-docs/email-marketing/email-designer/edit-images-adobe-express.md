@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '841'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,10 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 ## 访问Adobe Express编辑器 {#access-the-adobe-express-editor}
 
-可通过两种方式访问Adobe Express编辑器。
+可通过两种方式访问Adobe Express编辑器：
+
+* 单击图像名称
+* _图像和文件操作_&#x200B;下拉菜单
 
 >[!BEGINTABS]
 
@@ -82,7 +85,7 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 ### 拥有企业许可证的用户 {#users-with-an-enterprise-license}
 
-如果您拥有Adobe Express的企业版许可证，则有权访问完整的Express编辑器。 您可以调整图像设置，如颜色、亮度、锐度、对比度、大小等。 “AI魔术”选项允许您删除背景、插入和移除对象以及拭除图像的部分。
+如果您拥有Adobe Express的企业版许可证，则有权访问完整的Express编辑器。 您可以调整图像设置，如颜色、亮度、锐度、对比度、大小等。 “AI魔术”选项允许您删除背景、插入和移除对象以及拭除图像的部分。 访问[Adobe Express用户指南](https://helpx.adobe.com/express/user-guide.html){target="_blank"}以了解每个设置。
 
 >[!IMPORTANT]
 >
@@ -107,12 +110,12 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. 进行所需的更改，完成后单击&#x200B;**应用**。
 
-![文本文本](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![调整显示所有可用选项的图像窗口大小](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>宽高比</b></td>
-    <td>在<b>宽高比</b>下拉列表中，选择<b>标准</b>到空白，或选择<b>自定义</b>以设置您自己的宽度/高度。</td>
+    <td>在<b>宽高比</b>下拉列表中，选择<b>标准</b>以从预先计算的常用照片大小中进行选择，或选择<b>自定义</b>以设置您自己的宽度/高度。 您还可以选择特定社交媒体平台的标准大小(Pinterest、Snapchat等)。</td>
   </tr>
   <tr>
     <td style="width:25%"><b>宽度和高度</b></td>
@@ -135,11 +138,11 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. Adobe Express显示没有背景的图像。 如果它符合您的需要，请单击&#x200B;**应用**。
 
-![文本文本](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![只狗的背景图像已移除](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->若要还原背景，请选择图像，然后再次选择&#x200B;**删除背景**。
+>如果对结果不满意，只需单击&#x200B;**X**&#x200B;关闭窗口即可。
 
 #### 裁切图像 {#crop-image}
 
@@ -147,7 +150,7 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. 拖动图像的角以创建所需的裁切。
 
-![文本文本](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![拖动照片边角以裁切图像](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. 完成后单击&#x200B;**[!UICONTROL 应用]**。
 
@@ -157,26 +160,14 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. 单击&#x200B;**[!UICONTROL 转换为PNG/JPEG]**。
 
-![文本文本](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![转换为PNG/JPEG窗口](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. 单击&#x200B;**[!UICONTROL 应用]**。
 
- — 裁切下面的内容 — 
-
-单击页面上的裁切图像。
-
-在Adobe Express编辑器中，对图像执行裁剪，然后单击“保存”。
-
-注意：此操作不会覆盖图像，但会显示图像以供进一步编辑。
-
-您可以使用左侧面板中的另一个选项执行进一步更新，单击保存以覆盖现有图像，或者单击另存为新资产以另存为新图像。
-
-单击保存以完成操作。
-
 ## 保存您所做的工作 {#save-your-work}
 
-完成所有编辑后，单击“保存”以保存您所做的工作。
+完成所有编辑后，单击&#x200B;**保存**&#x200B;以保存您所做的工作。
 
-屏幕快照
+![保存按钮](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 编辑后的图像将保存在与原始图像相同的文件夹中。
