@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
+source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 1%
 
 ---
@@ -38,9 +38,9 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
    ![选择Design Studio左侧导航中的图像和文件](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. 选择要编辑的图像（或创建新图像）。
+1. 选择要编辑的图像。
 
-   屏幕快照2a
+   ![单击映像的名称](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. 在图像&#x200B;_详细信息_&#x200B;选项卡中，单击&#x200B;**[!UICONTROL 在Adobe Express中编辑]**。
 
-   屏幕快照3a
+   ![单击“在Adobe Express中编辑”按钮](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -68,11 +68,9 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
    >
    >* 要按任意列对表进行排序，请单击列标题。 标题行中的箭头指示当前排序列和顺序。
 
-1. 选中要编辑的图像旁边的复选框。
+1. 选中要编辑的图像旁边的复选框。 在&#x200B;**[!UICONTROL 图像和文件操作]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL 在Adobe Express中编辑]**。
 
-   屏幕快照2b
-
-1. 在&#x200B;**[!UICONTROL 图像和文件操作]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL 在Adobe Express中编辑]**。
+   ![选中图像名称旁边的复选框，然后使用图像和文件操作下拉列表](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -99,9 +97,9 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 * [裁切图像](#crop-image)
 * [转换为PNG/JPEG](#convert-to-png-jpeg)
 
-可在图像页面的左上角访问这些功能。
+可在图像页面的左侧访问这些功能。
 
-屏幕快照
+![显示Adobe Express编辑选项的图像页面](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### 调整图像大小 {#resize-image}
 
@@ -109,24 +107,24 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. 进行所需的更改，完成后单击&#x200B;**应用**。
 
-屏幕快照
+![文本文本](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>宽高比</b></td>
+    <td style="width:25%"><b>宽高比</b></td>
     <td>在<b>宽高比</b>下拉列表中，选择<b>标准</b>到空白，或选择<b>自定义</b>以设置您自己的宽度/高度。</td>
   </tr>
   <tr>
-    <td><b>宽度和高度</b></td>
+    <td style="width:25%"><b>宽度和高度</b></td>
     <td>默认情况下，将锁定长宽比，这样在调整图像大小时，图像比例将保持不变。 如果需要，可以选择锁定按钮以解锁纵横比。</td>
   </tr>
   <tr>
-    <td><b>重置</b></td>
+    <td style="width:25%"><b>重置</b></td>
     <td>单击<b>重置</b>可删除对图像所做的任何编辑并将其恢复为原始状态。</td>
   </tr>
   <tr>
-    <td><b>缩放和裁切</b></td>
-    <td>单击<b>缩放和裁切</b>可放大图像的特定区域。</td>
+    <td style="width:25%"><b>缩放和裁切</b></td>
+    <td>单击<b>缩放和裁切</b>可放大图像的特定区域。 缩放后单击<b>应用</b>可将图像裁剪为当前显示的内容。</td>
   </tr>
 </tbody>
 </table>
@@ -135,9 +133,9 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 1. 单击&#x200B;**删除背景**。
 
-1. Adobe Express显示没有背景的图像。 单击&#x200B;**应用**。
+1. Adobe Express显示没有背景的图像。 如果它符合您的需要，请单击&#x200B;**应用**。
 
-PIC
+![文本文本](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -145,21 +143,23 @@ PIC
 
 #### 裁切图像 {#crop-image}
 
-1. 单击裁切图像。
+1. 单击&#x200B;**[!UICONTROL 裁切图像]**。
 
 1. 拖动图像的角以创建所需的裁切。
 
-屏幕快照
+![文本文本](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. 完成后单击&#x200B;**应用**。
+1. 完成后单击&#x200B;**[!UICONTROL 应用]**。
 
 #### 转换为PNG/JPEG {#convert-to-png-jpeg}
 
-将PNG转换为JPEG，或将JPEG转换为PNG。
+将PNG文件转换为JPEG文件，或将JPEG文件转换为PNG文件。
 
-1. 单击&#x200B;**转换为PNG/JPEG**。
+1. 单击&#x200B;**[!UICONTROL 转换为PNG/JPEG]**。
 
-1. 单击&#x200B;**应用**。
+![文本文本](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. 单击&#x200B;**[!UICONTROL 应用]**。
 
  — 裁切下面的内容 — 
 
