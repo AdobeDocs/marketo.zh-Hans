@@ -4,10 +4,10 @@ description: 向您的电子邮件添加电子邮件脚本令牌 — Marketo文�
 title: 向电子邮件添加电子邮件脚本令牌
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '164'
+ht-degree: 2%
 
 ---
 
@@ -43,10 +43,6 @@ ht-degree: 1%
 
    ![](assets/five-1.png)
 
-   >[!TIP]
-   >
-   >需要时，添加默认值。
-
 1. 单击&#x200B;**保存**。
 
    ![](assets/six.png)
@@ -55,4 +51,4 @@ ht-degree: 1%
 >
 >不要忘记[批准电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
 
-就是这样！ 在发送此电子邮件时，令牌后的脚本将运行并填充内容。
+操作完成！在发送此电子邮件时，令牌后的脚本将运行并填充内容。
