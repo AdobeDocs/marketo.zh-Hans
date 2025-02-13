@@ -4,10 +4,10 @@ description: 了解如何创建可视化内容片段，并将其用作电子邮�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '2052'
-ht-degree: 1%
+source-wordcount: '1909'
+ht-degree: 0%
 
 ---
 
@@ -114,37 +114,11 @@ ht-degree: 1%
 
    此时会打开可视设计器，并显示一个空画布。
 
-1. 使用内容设计工具创建可视化片段内容：
-
-   * [添加结构和内容](#add-structure-and-content)
-   * [添加Assets](#add-assets)
-   * [导航图层、设置和样式](#navigate-the-layers-settings-and-styles)
-   * [使内容个性化](#personalize-content)
-   * [编辑链接的URL跟踪](#edit-linked-url-tracking)
+1. 使用[内容设计工具](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}创建可视片段内容。
 
 1. 随时单击&#x200B;**[!UICONTROL 保存]**&#x200B;以保存草稿片段。
 
 1. 准备好在电子邮件或电子邮件模板中使用片段时，单击&#x200B;**[!UICONTROL 发布]**。
-
-### 添加结构和内容 {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### 添加资源
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### 导航图层、设置和样式
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### 使内容个性化
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### 编辑链接的URL跟踪
-
-{{$include /help/_includes/content-design-links.md}}
 
 ## 查看片段详细信息 {#view-fragment-details}
 
@@ -205,19 +179,11 @@ ht-degree: 1%
 
    ![具有草稿状态的片段的详细信息](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. 要对可视设计器中的内容进行更改，请单击&#x200B;**[!UICONTROL 编辑片段]**。
+1. 要对可视设计器中的内容进行更改，请单击&#x200B;**[!UICONTROL 编辑片段]**。 完成后单击&#x200B;**保存**。
 
-   根据需要使用可视设计器工具：
+1. 单击&#x200B;**[!UICONTROL 保存]**，或单击&#x200B;**[!UICONTROL 保存并关闭]**&#x200B;以返回片段详细信息。
 
-   * [添加结构和内容](#add-structure-and-content)
-   * [添加Assets](#add-assets)
-   * [导航图层、设置和样式](#navigate-the-layers-settings-and-styles)
-   * [使内容个性化](#personalize-content)
-   * [编辑链接的URL跟踪](#edit-linked-url-tracking)
-
-   单击&#x200B;**[!UICONTROL 保存]**，或单击&#x200B;**[!UICONTROL 保存并关闭]**&#x200B;以返回片段详细信息。
-
-1. 如果片段符合您的条件并且您想在电子邮件或电子邮件模板中使用它，请单击&#x200B;**[!UICONTROL 发布]**。
+1. 如果要使片段可用于电子邮件或电子邮件模板，请单击&#x200B;**[!UICONTROL 发布]**。
 
 >[!TAB 已发布]
 
@@ -235,19 +201,13 @@ ht-degree: 1%
 
    ![创建草稿版本对话框](assets/fragments-create-draft-version.png){width="300"}
 
-   根据需要使用可视设计器工具：
+1. 单击&#x200B;**[!UICONTROL 保存]**，或单击&#x200B;**[!UICONTROL 保存并关闭]**&#x200B;以返回片段详细信息。
 
-   * [添加结构和内容](#add-structure-and-content)
-   * [添加Assets](#add-assets)
-   * [导航图层、设置和样式](#navigate-the-layers-settings-and-styles)
-   * [使内容个性化](#personalize-content)
-   * [编辑链接的URL跟踪](#edit-linked-url-tracking)
+1. 如果要使片段可用于电子邮件或电子邮件模板，请单击&#x200B;**[!UICONTROL 发布]**。
 
-   单击&#x200B;**[!UICONTROL 保存]**，或单击&#x200B;**[!UICONTROL 保存并关闭]**&#x200B;以返回片段详细信息。
-
-1. 当草稿片段符合您的条件并且您想要使更改可用于电子邮件或电子邮件模板时，请单击&#x200B;**[!UICONTROL 发布]**。
-
-   发布草稿版本时，草稿版本会替换当前已发布的版本，并且内容会在电子邮件和电子邮件模板中更新（该模板已在使用中）。
+>[!NOTE]
+>
+>发布草稿版本时，草稿版本会替换当前已发布的版本，并且内容会在电子邮件和电子邮件模板中更新（该模板已在使用中）。
 
 >[!TAB 已发布草稿]
 
@@ -259,23 +219,19 @@ ht-degree: 1%
 
 * 单击片段名称以将其打开。 然后，单击右上方的&#x200B;**[!UICONTROL 打开草稿版本]**。
 
-  将显示草稿版本的可视内容预览，其中片段详细信息位于右侧。
+将显示草稿版本的可视内容预览，其中片段详细信息位于右侧。
 
 要更新内容，请执行以下操作：
 
-1. 单击右上方的&#x200B;**[!UICONTROL 编辑片段]**。 根据需要使用可视设计器工具：
+1. 单击右上方的&#x200B;**[!UICONTROL 编辑片段]**。 完成后单击&#x200B;**保存**。
 
-   * [添加结构和内容](#add-structure-and-content)
-   * [添加Assets](#add-assets)
-   * [导航图层、设置和样式](#navigate-the-layers-settings-and-styles)
-   * [使内容个性化](#personalize-content)
-   * [编辑链接的URL跟踪](#edit-linked-url-tracking)
+1. 单击&#x200B;**[!UICONTROL 保存]**，或单击&#x200B;**[!UICONTROL 保存并关闭]**&#x200B;以返回片段详细信息。
 
-   单击&#x200B;**[!UICONTROL 保存]**，或单击&#x200B;**[!UICONTROL 保存并关闭]**&#x200B;以返回片段详细信息。
+1. 如果要使片段可用于电子邮件或电子邮件模板，请单击&#x200B;**[!UICONTROL 发布]**。
 
-1. 当草稿片段符合您的条件并且您想要使更改可用于电子邮件或电子邮件模板时，请单击&#x200B;**[!UICONTROL 发布]**。
-
-   发布草稿版本时，草稿版本会替换当前已发布的版本，并且内容会在电子邮件和电子邮件模板中更新（该模板已在使用中）。
+>[!NOTE]
+>
+>发布草稿版本时，草稿版本会替换当前已发布的版本，并且内容会在电子邮件和电子邮件模板中更新（该模板已在使用中）。
 
 >[!ENDTABS]
 
@@ -288,7 +244,7 @@ ht-degree: 1%
 
 ![复制片段](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-在对话框中，输入唯一名称和可选描述。 单击&#x200B;**[!UICONTROL 复制]**&#x200B;以完成操作。
+在对话框中，输入唯一名称和可选描述。 单击&#x200B;**[!UICONTROL 复制]**。
 
 ![输入复制的片段的名称和描述](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -296,7 +252,7 @@ ht-degree: 1%
 
 ## 从电子邮件或模板内容保存新片段 {#save-a-new-fragment-from-email-or-template-content}
 
-在可视内容编辑器中创建/编辑电子邮件或电子邮件模板时，可以将全部或部分内容另存为片段，以便重用。
+在可视内容编辑器中创建/编辑电子邮件或电子邮件模板时，可以将所有或部分内容另存为片段以供重用。
 
 1. 要将内容另存为片段，请单击&#x200B;**[!UICONTROL 更多]**，然后选择&#x200B;**[!UICONTROL 另存为片段]**。
 
@@ -304,13 +260,13 @@ ht-degree: 1%
 
    按住Shift或Control按钮选择多个结构。
 
-   您只能选择彼此相邻的结构，并且接口不允许您选择非相邻元素。
+   只能选取彼此相邻的结构。
 
 1. 选择内容后，单击右上方的&#x200B;**[!UICONTROL 创建]**。
 
 1. 在对话框中，输入片段的名称和可选描述，然后单击&#x200B;**[!UICONTROL 创建]**。
 
-   然后，片段将显示在&#x200B;_片段_&#x200B;列表页面中，并可用于电子邮件和电子邮件模板。
+然后，片段将显示在&#x200B;_片段_&#x200B;列表页面中，并可用于电子邮件和电子邮件模板。
 
 ## 将可视化片段添加到您的电子邮件或模板内容 {#add-visual-fragments-to-your-email-or-template-content}
 
