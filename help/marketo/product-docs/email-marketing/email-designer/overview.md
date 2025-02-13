@@ -5,9 +5,9 @@ description: 概述 — Marketo文档 — 产品文档
 title: 概述
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: e5d02f0a288cbd5c3f234c9bd5d202b60fdc629e
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,11 @@ ht-degree: 0%
 
 * [电子邮件模板创作](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：了解如何在新的编辑器中创建、设计和访问电子邮件模板。
 
+* [片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：了解如何创建和使用可视化内容片段，作为电子邮件和电子邮件模板的可重用组件。
+
 * [使用AEM资源](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：了解如何轻松访问AEM数字资源，以便在Marketo Engage中使用。
+
+* [使用Adobe Express编辑图像](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}：了解如何使用Adobe Express在Adobe Marketo Engage电子邮件编辑器中编辑图像。
 
 * [使用AI助手](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}：利用Adobe的创作AI技术，向电子邮件中添加有用的文本和/或图像。
 
