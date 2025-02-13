@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: 参数化片段
 description: 了解如何通过使其某些字段可编辑来自定义片段。
 feature: Email Editor
@@ -8,9 +8,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 可视片段和表达式片段均可以标记为可自定义。 有关如何继续处理每种类型片段的详细说明，请参阅以下部分。
 
-屏幕快照
+屏幕快照 — GIF？
 
  — 已停止在此编辑 — 
 
@@ -45,17 +45,17 @@ ht-degree: 0%
 
    在以下示例中，我们允许编辑“单击此处”按钮URL。
 
-屏幕快照
+   ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. 单击&#x200B;**概述**&#x200B;以检查所有可编辑的字段及其默认值。
 
    在此示例中，按钮URL字段显示在组件中定义的默认值中。 在将片段添加到用户的内容后，用户可以自定义此值。
 
-屏幕快照
+   ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. 准备就绪后，保存更改以更新片段。
 
-1. 将片段添加到电子邮件后，用户将能够自定义片段中配置的所有可编辑字段。 [了解如何自定义可视化片段中的可编辑字段](../email/use-visual-fragments.md#customize-fields)
+1. 将片段添加到电子邮件后，用户将能够自定义片段中配置的所有可编辑字段。
 
 ## 在HTML组件和表达式片段中添加可编辑字段 {#expression}
 
@@ -75,6 +75,6 @@ ht-degree: 0%
 
 例如，在下面的代码中，每个以红色高亮显示的元素都可以成为属性：
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++

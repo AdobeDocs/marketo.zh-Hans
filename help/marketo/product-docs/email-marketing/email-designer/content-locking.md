@@ -1,11 +1,11 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: 锁定电子邮件模板中的内容
 description: 了解如何在电子邮件模板中锁定内容。
 level: Beginner, Intermediate
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
 source-wordcount: '891'
 ht-degree: 9%
