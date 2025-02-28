@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: a2186f054e7b7a780098157927651a084e353bd8
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
@@ -32,7 +32,7 @@ _分辨率_：
 
 ### Gmail无效字符 {#gmail-invalid-character}
 
-_根本原因_：根据Adobe安全策略，Gmail电子邮件地址中不允许使用字符`.`和`+`。 这两个字符仅允许在非Gmail电子邮件地址中使用。
+_根本原因_：根据Adobe安全策略，Gmail电子邮件地址中不允许使用字符`.`和`+`。 非Gmail电子邮件地址中允许使用这两个字符。
 
 _分辨率_：
 

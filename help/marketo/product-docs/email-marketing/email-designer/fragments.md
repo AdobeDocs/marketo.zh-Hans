@@ -5,9 +5,9 @@ title: 片段
 description: 了解如何创建可视化内容片段，并将其用作电子邮件和电子邮件模板的可重用组件。
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
-source-wordcount: '1909'
+source-wordcount: '1911'
 ht-degree: 0%
 
 ---
@@ -299,3 +299,7 @@ ht-degree: 0%
 在编辑器页面上选择片段时，可以从右侧的上下文工具栏和属性面板中执行这些操作。
 
 ![将操作应用于所选片段](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
+
+>[!MORELIKETHIS]
+>
+>[可自定义的片段](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)
