@@ -4,9 +4,9 @@ description: 发现帐户 — Marketo文档 — 产品文档
 title: 发现帐户
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dd4c8472ec3f453462bd8046daf70c89c587724a
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -76,8 +76,6 @@ ht-degree: 0%
    >* 将大多数Internet服务提供商和公共域(例如yahoo.com、gmail.com)过滤为公司名称
    >
    >* 对CRM帐户进行重复数据删除。 如果您有一条记录中包含“Acme”和“Acme Inc”（或以下任一后缀： Co， Corp， Corporation， Gmbh， Inc， Incorporated， LLC， LLP， LP， Ltd， PA， PC， PLC， PLLC），我们将在TAM中将它们合并为“Acme”
-   >
-   >如果您希望Marketo按CRM ID或帐户所有者而不是按公司名称来删除重复帐户，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 1. 单击“Named Account（指定帐户）”列下的向下箭头以显示下拉列表。
 
