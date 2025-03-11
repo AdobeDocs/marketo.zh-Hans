@@ -5,9 +5,9 @@ description: 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 title: 概述
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: b7e378af0d606202f022848d2a099d5170061024
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ ht-degree: 0%
 
 ### 添加用户 {#add-users}
 
-1. 在Marketo Engage中，转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域并选择&#x200B;**[!UICONTROL 新电子邮件Designer]**。
+1. 在Marketo Engage中，转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域并选择&#x200B;**[!UICONTROL New Email Designer]**。
 
    ![在管理员的左侧导航栏中选择新电子邮件Designer](assets/overview-1.png){width="600" zoomable="yes"}
 
-1. 单击&#x200B;**[!UICONTROL 添加用户]**。
+1. 单击 **[!UICONTROL Add Users]**。
 
    ![“添加用户”按钮](assets/overview-2.png){width="600" zoomable="yes"}
 
-1. 在&#x200B;**[!UICONTROL 添加新值]**&#x200B;下拉列表中，选择所需的用户。 完成后单击&#x200B;**[!UICONTROL 确定]**。
+1. 在&#x200B;**[!UICONTROL Add New Values]**&#x200B;下拉列表中，选择所需的用户。 完成后单击&#x200B;**[!UICONTROL OK]**。
 
    ![从列表中选择用户](assets/overview-3.png){width="600" zoomable="yes"}
 
@@ -86,6 +86,10 @@ ht-degree: 0%
 **新的电子邮件设计工具是否支持AMP语言？**
 
 目前不支持AMP。
+
+**能否在新的电子邮件设计器中通过API编辑资源？**
+
+目前，新的电子邮件设计器不支持通过API编辑的Assets。
 
 **按属性分类的动态内容很好，但按区段分类的动态内容是否仍然有效？**
 
