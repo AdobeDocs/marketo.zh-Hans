@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 709c5f3c0009763f8ab7778278c6a2fe6db10a08
+source-git-commit: 7a583a482af64290d08644945e569612f4be8ab9
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '438'
 ht-degree: 4%
 
 ---
@@ -33,6 +33,16 @@ ht-degree: 4%
   </tr>
     <tr> 
    <td><strong>所有程序中都有Email Designer</strong>：现在可在“参与”、“默认”和“事件”程序中访问新的Email Designer电子邮件（交互式网络研讨会程序除外）。 以前，它们仅在电子邮件程序中可用。</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>交互式网络研讨会中的GenAI功能</strong>：您现在可以为按需网络研讨会生成章节和摘要。 编辑并导出数据的HTML文件。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -70,7 +80,7 @@ ht-degree: 4%
    * 分享视频
    * 抽奖活动
 
-截至那时，用户无法在Marketo Engage中创建、克隆或嵌入任何这些Social功能。 现有社会资产继续运作至2025年1月31日。 2025年2月1日，Social资产将停止运行。 需要删除嵌入到登陆页面中的社交功能。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+截至那时，用户无法在Marketo Engage中创建、克隆或嵌入任何这些Social功能。 现有社会资产继续运作至2025年1月31日。 2025年2月1日，Social Assets停止运行。 需要删除登陆页面中嵌入的任何社交功能。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2025年6月30日之后不可用。 所有新的和现有的集成都应使用“授权”标头[来验证REST API调用，如此处](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}所述。
 
