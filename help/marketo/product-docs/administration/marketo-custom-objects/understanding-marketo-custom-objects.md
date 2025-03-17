@@ -4,9 +4,9 @@ description: 了解Marketo自定义对象 — Marketo文档 — 产品文档
 title: 了解Marketo自定义对象
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 0%
 
 ## 访问Marketo自定义对象 {#accessing-marketo-custom-objects}
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
+1. 单击 **[!UICONTROL Marketo Custom Objects]**。
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,23 +69,27 @@ ht-degree: 0%
 
 ## 查看与人员关联的自定义对象 {#view-custom-objects-associated-to-a-person}
 
-创建自定义对象结构后，当您上载特定的自定义对象数据时，自定义对象会自动使用自定义对象中的链接字段与数据库中的人员关联。 您可以在人员详细信息页面上查看[!UICONTROL 自定义对象]选项卡中的信息。
+创建自定义对象结构后，当您上载特定的自定义对象数据时，自定义对象会自动使用自定义对象中的链接字段与数据库中的人员关联。 您可以在人员详细信息页面的[!UICONTROL Custom Objects]选项卡中查看信息。
 
-1. 转到&#x200B;**[!UICONTROL 数据库]**。
+1. 转到&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. 打开数据库，然后单击&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡。 双击与自定义对象关联的人员的记录。
+1. 打开数据库，然后单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡。 双击与自定义对象关联的人员的记录。
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. 在人员详细信息页面上，单击&#x200B;**[!UICONTROL 自定义对象]**&#x200B;选项卡。 从下拉列表中选择对象。
+1. 在人员详细信息页面上，单击&#x200B;**[!UICONTROL Custom Objects]**&#x200B;选项卡。 从下拉列表中选择对象。
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. 现在，您可以查看与该人员关联的所有该类型自定义对象的列表。
 
    ![](assets/understanding-marketo-custom-objects-8.png)
+
+   >[!NOTE]
+   >
+   >在人员记录中，“自定义对象”选项卡可以显示最多100条记录，按ID降序排序。
 
 ## 在公司中使用自定义对象 {#using-custom-objects-with-companies}
 
