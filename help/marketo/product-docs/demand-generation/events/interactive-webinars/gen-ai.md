@@ -4,9 +4,10 @@ title: GenAI功能
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
+exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
+source-git-commit: c00d6bbe7b7c4589446a42bbd31087bf6d4e8ddf
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -57,10 +58,11 @@ ht-degree: 0%
 
      ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
-
    >[!NOTE]
    >
-   >如果需要，您可以使用&#x200B;_竖起缩略图_ ![竖起缩略图图标](assets/icon-thumbs-up.png)或&#x200B;_竖下缩略图_ ![竖下缩略图图标](assets/icon-thumbs-down.png)图标来评价生成的章节/摘要的质量。 您还可以通过单击标记图标![标记图标](assets/icon-flag.png)来标记任何有问题的内容。
+   >* 如果需要，您可以使用&#x200B;_竖起缩略图_ ![竖起缩略图图标](assets/icon-thumbs-up.png)或&#x200B;_竖下缩略图_ ![竖下缩略图图标](assets/icon-thumbs-down.png)图标来评价生成的章节/摘要的质量。 您还可以通过单击标记图标![标记图标](assets/icon-flag.png)来标记任何有问题的内容。
+   >
+   >* 如果您对初始摘要不满意，可以单击&#x200B;**重新生成摘要**&#x200B;按钮，并生成另一个版本。
 
 1. 单击屏幕右上方的&#x200B;**保存**&#x200B;按钮以保存更改。
 
@@ -88,4 +90,4 @@ ht-degree: 0%
 
 * 删除网络研讨会也会删除GenAI内容。
 
-* 有关进一步说明或数据删除请求，请联系Adobe客户团队（您的客户经理），或发送电子邮件至：`marketo-webinar-genai-alerts@adobe.com`。
+* 如果您想在不删除网络研讨会的情况下删除GenAI内容，请联系Adobe客户团队（您的客户经理），或发送数据删除请求到：`marketo-webinar-genai-alerts@adobe.com`。
