@@ -4,7 +4,7 @@ title: GenAI功能
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 1. 查看生成的章节和摘要。
 
-2. 如果需要更改，请单击&#x200B;**编辑**&#x200B;按钮。
+1. 如果需要更改，请单击&#x200B;**编辑**&#x200B;按钮。
 
    要进行修改，请执行以下操作：
 
