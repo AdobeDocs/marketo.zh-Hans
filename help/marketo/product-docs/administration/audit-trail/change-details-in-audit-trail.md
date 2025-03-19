@@ -4,7 +4,7 @@ description: 有关更改详细信息，请参阅审核记录 — Marketo文档 
 title: 审核记录中的更改详细信息
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1477b889f74597396b3467371229a511e4390f91
 workflow-type: tm+mt
 source-wordcount: '1902'
 ht-degree: 10%
@@ -43,7 +43,7 @@ ht-degree: 10%
    <td>已克隆到工作区“工作区名称”<br>位置“Campaign文件夹”或“参与计划”<br>已克隆的计划名称“新名称”</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -96,51 +96,51 @@ ht-degree: 10%
    <td>使用模板“模板名称”<br>或从“资产名称”克隆的<br>创建</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已将“From Name”更新为“new from name”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已将“From Email”更新为“newemail@name.com”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已将“回复”更新为“newreplytoemail@name.com”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已将“主题”更新为“新主题行”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>添加了分段“segmentation_name”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>删除的分段</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>添加了代码片段“snippet_name”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已删除的代码片段</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>编辑操作中断了来自模板“template_name”的电子邮件（注意：如果您直接编辑代码，将会立即发生这种情况）</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>新描述“新描述”旧描述“旧描述”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
-   <td>编辑模块 <module name><attribute> 更改为“value”</td> 
+   <td>Edit</td> 
+   <td>将模块<code>"&lt;module name&gt;" &lt;attribute&gt;</code>编辑为“value”</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -156,7 +156,7 @@ ht-degree: 10%
    <td>已移至“Design Studio”文件夹“文件夹名称”<br>或<br>已移至“营销活动”项目“项目名称”</td> 
   </tr> 
   <tr> 
-   <td>审批</td> 
+   <td>批准</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -180,7 +180,7 @@ ht-degree: 10%
    <td>已克隆到工作区“工作区名称”<br>位置“Campaign文件夹或参与计划”<br>已克隆的计划名称“新名称”</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -241,15 +241,15 @@ ht-degree: 10%
    <td>空白或从“模板名称”克隆</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>新描述“新描述”，上一描述“上一描述”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已编辑HTML</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -261,7 +261,7 @@ ht-degree: 10%
    <td>已克隆到“文件夹名称”<br>已克隆资产名称“名称”</td> 
   </tr> 
   <tr> 
-   <td>审批</td> 
+   <td>批准</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -282,7 +282,7 @@ ht-degree: 10%
    <td>已克隆到工作区“工作区名称”<br>位置“Campaign文件夹或参与计划”<br>已克隆的计划名称“新名称”</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -371,7 +371,7 @@ ht-degree: 10%
    <td>新名称“新名称”，以前名称“以前名称”</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -440,19 +440,19 @@ ht-degree: 10%
    <td>不适用</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>添加了令牌“token_name”、值“value”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>编辑了令牌“token_name”新值“token_value”旧值“old_token_value”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已删除令牌“token_name”</td> 
   </tr> 
   <tr> 
@@ -461,7 +461,7 @@ ht-degree: 10%
    <td>即将推出。 了解更多信息或从“表单名称”克隆</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -469,15 +469,15 @@ ht-degree: 10%
    <td>新名称“新名称”，以前名称“以前名称”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>新描述“新描述”旧描述“旧描述”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已编辑表单设置 </td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已编辑字段详细信息</td> 
   </tr> 
   <tr> 
@@ -490,7 +490,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>Forms</td> 
-   <td>审批</td> 
+   <td>批准</td> 
    <td>由#个资源使用 </td> 
   </tr> 
   <tr> 
@@ -499,7 +499,7 @@ ht-degree: 10%
    <td>使用模板“模板名称”<br>或从“资产名称”克隆的<br>创建</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -507,15 +507,15 @@ ht-degree: 10%
    <td>新名称“新名称”，以前名称“以前名称”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>新描述“新描述”上一个“描述”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>添加了“图像”，删除了“图像”，编辑了图像组件</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>添加了“富文本”、删除了“富文本”、编辑了富文本组件</td> 
   </tr> 
   <tr> 
@@ -527,7 +527,7 @@ ht-degree: 10%
    <td>已移至“Design Studio”文件夹“文件夹名称”<br>或<br>已移至“营销活动”项目“项目名称”</td> 
   </tr> 
   <tr> 
-   <td>审批</td> 
+   <td>批准</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -544,7 +544,7 @@ ht-degree: 10%
    <td><p>空白<br>或<br>克隆自“资产名称”</p></td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -552,7 +552,7 @@ ht-degree: 10%
    <td>新名称“新名称”，以前名称“以前名称”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>新描述“新描述”前描述“前描述”</td> 
   </tr> 
   <tr> 
@@ -564,7 +564,7 @@ ht-degree: 10%
    <td>不适用</td> 
   </tr> 
   <tr> 
-   <td>审批</td> 
+   <td>批准</td> 
    <td>由#个资源使用 </td> 
   </tr> 
   <tr> 
@@ -585,7 +585,7 @@ ht-degree: 10%
    <td>已克隆到“人员数据库”并放入文件夹“foldername”<br>已克隆资产名称“name”<br>或<br>已克隆到“营销活动”并放入程序“程序名称”<br>已克隆资产名称“name”</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -618,11 +618,11 @@ ht-degree: 10%
    <td>新名称“新名称”，以前名称“以前名称”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>新描述“新描述”上一个“描述”</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -655,11 +655,11 @@ ht-degree: 10%
    <td>新名称“新名称”，以前名称“以前名称”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>新描述“新描述”上一个“描述”</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -676,19 +676,19 @@ ht-degree: 10%
    <td><p>从“代码片段名称”克隆的Blank<br>或<br></p></td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>添加了分段“segmentation_name”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>删除的分段</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已编辑</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>不适用</td> 
   </tr> 
   <tr> 
@@ -696,7 +696,7 @@ ht-degree: 10%
    <td>新名称“新名称”，以前名称“以前名称”</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>新描述“新描述”上一个“描述”</td> 
   </tr> 
   <tr> 
@@ -704,7 +704,7 @@ ht-degree: 10%
    <td>已克隆到“文件夹名称”<br>已克隆的代码片段名称“名称”</td> 
   </tr> 
   <tr> 
-   <td>审批</td> 
+   <td>批准</td> 
    <td>由#个资源使用</td> 
   </tr> 
   <tr> 
@@ -734,7 +734,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>IP限制</td> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>编辑了以下内容的IP限制：允许/阻止的“阻止”、IP地址“#”、禁用的IP限制“”</td> 
   </tr> 
   <tr> 
@@ -743,12 +743,12 @@ ht-degree: 10%
    <td>已创建名为“分区名称”的分区</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>已删除“分区名称”分区</td> 
   </tr> 
   <tr> 
    <td>密码强度</td> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>密码安全性已更改为模板：标准安全性，最小长度： #，上小写： #，数字： #，大小写混合： #，到期： #，会话超时： #</td> 
   </tr> 
   <tr> 
@@ -757,16 +757,16 @@ ht-degree: 10%
    <td>使用“角色名称”创建的角色（注意：如果您需要有关所添加权限的详细信息，请联系支持人员） — <br>显示分配给角色的权限快照</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>已删除“角色名称”角色</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>角色已从“先前名称”编辑为“新名称”（注意：如果您需要有关已编辑权限的详细信息，请联系支持人员） — <br>显示分配给角色的权限快照<br></td> 
   </tr> 
   <tr> 
    <td>智能列表报告</td> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>编辑登录以下载的SmarList：“true或false”</td> 
   </tr> 
   <tr> 
@@ -775,19 +775,19 @@ ht-degree: 10%
    <td>邀请的用户：电子邮件“电子邮件地址”，姓名“名字和姓氏”，访问过期时间“空白或带日期”，API用户“true或false” — <br>显示分配给用户的角色和工作区的快照</td> 
   </tr> 
   <tr> 
-   <td colspan="1">删除</td> 
+   <td colspan="1">Delete</td> 
    <td colspan="1">已删除“用户名”用户</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>用户已使用“email”（电子邮件）从“old name”（旧名称）重命名为“new name”（新名称），apiUser：“true or false”（真或假）访问过期：“blank”或“with a date”（带日期）</td> 
   </tr> 
   <tr> 
-   <td>编辑</td> 
+   <td>Edit</td> 
    <td>已编辑用户的电子邮件：“电子邮件”，apiUser：“true或false”，访问过期：“空白或使用日期”</td> 
   </tr> 
   <tr> 
-   <td colspan="1">编辑</td> 
+   <td colspan="1">Edit</td> 
    <td colspan="1">显示当前状态的快照，包括分配给用户的角色和工作区</td> 
   </tr> 
   <tr> 
@@ -804,7 +804,7 @@ ht-degree: 10%
    <td>已使用名称“工作区名称”创建Workspace</td> 
   </tr> 
   <tr> 
-   <td>删除</td> 
+   <td>Delete</td> 
    <td>已删除“工作区名称”工作区</td> 
   </tr> 
  </tbody> 
