@@ -4,9 +4,9 @@ description: 禁用电子邮件链接的跟踪 — Marketo文档 — 产品文�
 title: 禁用电子邮件链接的跟踪
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 # 禁用电子邮件链接的跟踪 {#disable-tracking-for-an-email-link}
 
 有时，您不希望通过电子邮件在链接上启用&#x200B;**Marketo跟踪URL**。 当目标页面不支持URL参数并且可能导致链接断开时，这将很有用。
+
+此外，如果电子邮件是在&#x200B;**和** 365天之前发送的，且过去180天内无人单击任何链接，则Marketo Engage会从我们的数据库中修剪指向URL的路由，这会导致链接断开。 因此，如果您需要永久性链接，则应当禁用跟踪。
 
 1. 选择您的电子邮件并单击&#x200B;**编辑草稿**。
 
@@ -37,7 +39,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >仅取消选中&#x200B;**包含mkt_tok**&#x200B;仍允许跟踪链接，但在重定向后，目标URL将不包含mkt_tok查询字符串参数。 此参数由Marketo登录页面和Munchkin使用，以确保正确跟踪人员活动（例如，当人员取消订阅电子邮件时）。 您应该避免使用此功能，除非您因参数存在而在网站上看到奇怪的行为。
+   >仅取消选中&#x200B;**包含mkt_tok**&#x200B;仍允许跟踪链接，但在重定向后，目标URL将不包含mkt_tok查询字符串参数。 此参数供Marketo登陆页面和Munchkin使用，以确保正确跟踪人员活动（例如，当人员取消订阅电子邮件时）。 您应该避免使用此功能，除非您因参数存在而在网站上看到奇怪的行为。
 
 1. 单击&#x200B;**保存**。
 

@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 43ecb24bd051fe49b41ef61448234b8704f8ab88
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 ## 注意事项 {#things-to-note}
 
-* 删除或合并章节仅影响章节栈栈，不影响视频内容本身。 这些操作是不可逆的
+* 删除或合并章节仅影响章节栈栈，不影响视频内容本身。 这些操作是永久性的。
 
 * GenAI功能非常灵活，可与各种网页编辑器一起使用，而不仅仅是Marketo Engage中的编辑器。
 

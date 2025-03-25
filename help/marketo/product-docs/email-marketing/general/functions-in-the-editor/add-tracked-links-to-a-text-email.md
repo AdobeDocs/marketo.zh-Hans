@@ -4,9 +4,9 @@ description: 将跟踪链接添加到文本电子邮件 — Marketo文档 — �
 title: 将跟踪链接添加到文本电子邮件
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,9 @@ ht-degree: 0%
 >* [创建纯文本电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [编辑电子邮件中的元素](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
-可在Marketo中跟踪文本电子邮件链接。 让我们看看它是如何运作的。 1.选择您的电子邮件，然后单击“编辑草稿”。
+可在Marketo中跟踪文本电子邮件链接。 让我们看看它是如何运作的。
+
+1. 选择您的电子邮件并单击&#x200B;**编辑草稿**。
 
 ![](assets/one-9.png)
 
@@ -30,6 +32,10 @@ ht-degree: 0%
 
    ![](assets/three-8.png)
 
+   >[!CAUTION]
+   >
+   >如果在365天前&#x200B;**和**&#x200B;发送了一封电子邮件，且过去180天内没有人点击过该电子邮件的任何链接，则Marketo Engage会从我们的数据库中修剪指向URL的路由，从而导致链接断开。 如果您需要永久性链接，请勿使用跟踪。
+
 1. 关闭编辑器，别忘了批准草稿。
 
    ![](assets/four-6.png)
@@ -37,9 +43,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >mktNoTok类功能不适用于文本电子邮件中的可跟踪链接。 仅适用于HTML电子邮件。
-
->[!TIP]
->
->测试一下，仔细检查。 确保正确输入了括号。
-
-做得好！
