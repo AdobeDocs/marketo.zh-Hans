@@ -4,9 +4,9 @@ description: 在我的令牌中使用URL - Marketo文档 — 产品文档
 title: 在我的令牌中使用URL
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >若要确保跟踪电子邮件中的点击量，请&#x200B;**不要**&#x200B;在令牌值内输入https://。
+   >**正在使用http/https...**
+   >
+   >* 若要确保跟踪电子邮件中的点击量，请&#x200B;**不**&#x200B;输入https:// _内部_&#x200B;令牌的值。 在令牌之外使用它，如步骤7中所示。
+   >
+   >* 我们强烈建议不要忽略http/https。 这样做可能会导致电子邮件的[Web版本](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"}无法正确呈现。
 
 1. 选择项目中的电子邮件。
 
@@ -43,13 +47,13 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 在电子邮件中的任意位置，键入“https://”（后面不留空格）并单击“插入令牌”图标。
+1. 在电子邮件中的任意位置，键入`https://`（后面不留空格）并单击“插入令牌”图标。
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >如果您的网站使用“https”，您当然也可以选择输入“https”。
+   >如果您的网站不使用https，您当然也可以选择输入`http://`。
 
 1. 找到您的“我的令牌”，选择它，然后单击&#x200B;**插入**。
 
