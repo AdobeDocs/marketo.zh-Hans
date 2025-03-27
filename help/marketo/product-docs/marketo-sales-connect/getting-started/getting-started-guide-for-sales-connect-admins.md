@@ -3,7 +3,7 @@ description: Sales Connect管理员入门指南 — Marketo文档 — 产品文�
 title: Sales Connect管理员入门指南
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9a43f9bce9664523334b55dcca3d9ea79d5f5093
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -30,9 +30,9 @@ ht-degree: 0%
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## 连接到Salesforce {#connecting-to-salesforce}
+## 正在连接到Salesforce {#connecting-to-salesforce}
 
-所有用户都需要单独连接到Salesforce，以便能够将log sales activities发送到salesforce，如电子邮件、呼叫和任务。 但是，当您以管理员身份连接到Salesforce时，您将有机会为整个团队配置活动日志记录设置，以便全局日志记录设置将应用于所有Sales Connect用户。
+所有用户都需要单独连接到Salesforce，以便能够将log sales activities记录到salesforce，如电子邮件、呼叫和任务。 但是，当您以管理员身份连接到Salesforce时，您将有机会为整个团队配置活动日志记录设置，以便全局日志记录设置将应用于所有Sales Connect用户。
 
 要以管理员或非管理员身份将Sales Connect实例连接到Salesforce实例，请按照[本文](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)中的步骤操作。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 * 将[个有趣的时刻](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)推送到实时信息源
 * 将销售活动记录到Marketo
 
-要详细了解如何连接到Marketo并授予销售用户访问连接的权限，请单击此处。
+要详细了解如何连接到Marketo并授予Sales用户访问连接的权限，[单击此处](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)。
 
 ## 安装Salesforce自定义包 {#installing-salesforce-customization-package}
 
