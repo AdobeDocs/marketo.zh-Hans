@@ -4,7 +4,7 @@ description: 持久取消订阅 — Marketo文档 — 产品文档
 title: 持久取消订阅
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
+source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Marketo改进了取消订阅功能的行为，使其具有“持久性”。 我
 
 可通过多种方式重新订阅用户。
 
-在Salesforce中，**清除**&#x200B;潜在客户/联系人的记录中的“电子邮件选择退出”字段。 这将同步到Marketo。
+在Salesforce中，清除潜在客户/联系人记录上的Email Opt Out字段。 这将同步到Marketo。
 
 ![Salesforce屏幕](assets/durable-unsubscribe-1.png)
 
-在Marketo中，在人员记录的“信息”选项卡中&#x200B;**清除**&#x200B;取消订阅的框。
+在Marketo中，清除人员记录的“信息”选项卡中的取消订阅框。
 
 ![清除人员记录中的取消订阅框](assets/durable-unsubscribe-2.png)
 
-对一个或多个用户运行&#x200B;**更改数据值**&#x200B;流程步骤，如下所示。
+对一个或多个用户运行&#x200B;_更改数据值_&#x200B;流程步骤，如下所示。
 
 ![更改数据值流程步骤](assets/durable-unsubscribe-3.png)
 
