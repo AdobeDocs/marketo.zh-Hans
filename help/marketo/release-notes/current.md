@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f8d75117254b20672fde3bcfd4fbbd4d8a6506e1
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 4%
 
 ---
@@ -33,8 +33,8 @@ ht-degree: 4%
   </tr>
     <tr> 
    <td><strong>所有程序中都有Email Designer</strong>：现在可在“参与”、“默认”和“事件”程序中访问新的Email Designer电子邮件（交互式网络研讨会程序除外）。 以前，它们仅在电子邮件程序中可用。 通过此更新，克隆功能也将可用。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
   <tr> 
    <td> </td> 

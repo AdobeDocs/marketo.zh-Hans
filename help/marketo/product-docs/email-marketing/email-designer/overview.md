@@ -5,9 +5,9 @@ description: 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 title: 概述
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b7e378af0d606202f022848d2a099d5170061024
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,6 @@ ht-degree: 0%
 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 
 电子邮件设计器是Marketo Engage中的一项最新创新，旨在提供经过改版的电子邮件和电子邮件模板创建体验，通过提供可视化的拖放编辑器和标准的现成模板来提高工作效率和效率。 轻松创建自定义的电子邮件模板，无需花钱购买供应商。
-
-在新设计器中创建的电子邮件可用于电子邮件程序以及智能列表/营销策划。 即将推出针对设计器的强大新增强功能。
 
 ## 如何访问 {#how-to-access}
 
@@ -65,6 +63,10 @@ ht-degree: 0%
 **旧电子邮件编辑器是否会继续工作？ 如果是，持续多长时间？**
 
 是的，旧（经典）电子邮件编辑器将与新电子邮件设计器共存。 在经典编辑器中创建的电子邮件将保留。 目前暂无传统编辑器何时被弃用的日期，但其在整个2025年将继续运行。
+
+**我可以在哪些程序中使用新的电子邮件Designer电子邮件？**
+
+所有程序均可访问新的电子邮件Designer电子邮件（交互式网络研讨会程序除外）。 克隆功能也可用。
 
 **我们现有的电子邮件模板是否可以在新设计器中工作？ 如果没有，我们是否需要使用新的设计器创建模板，以便所有节/模块对应于我们希望内容的外观？**
 

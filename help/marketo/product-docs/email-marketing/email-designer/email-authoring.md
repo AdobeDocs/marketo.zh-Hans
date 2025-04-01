@@ -3,20 +3,20 @@ description: 电子邮件创作 — Marketo文档 — 产品文档
 title: 电子邮件创作
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1739'
+source-wordcount: '1723'
 ht-degree: 1%
 
 ---
 
 # 电子邮件创作 {#email-authoring}
 
-了解如何在新的Marketo Engage电子邮件Designer中创建、个性化和预览电子邮件。
+了解如何在新的Marketo Engage Email Designer中创建、个性化和预览电子邮件。
 
 >[!PREREQUISITES]
 >
->要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[AdobeIdentity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的请求，而您希望请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+>要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ## 创建电子邮件 {#create-an-email}
 
@@ -100,7 +100,7 @@ ht-degree: 1%
 
 您可以导入现有HTML内容来设计电子邮件。 内容可以是：
 
-* 具有合并样式表的HTML文件
+* 包含合并样式表的HTML文件
 
 * 包含HTML文件、样式表(.css)和图像的.zip文件
 
@@ -108,7 +108,7 @@ ht-degree: 1%
 >
 >.zip文件结构没有限制。 但是，引用必须是相对的，并且适合.zip文件夹的树结构。
 
-1. 在“设计模板”页中，选择&#x200B;**导入HTML**。
+1. 在“设计模板”页面中，选择&#x200B;**导入HTML**。
 
 1. 拖放所需的HTML或.zip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
 
@@ -124,7 +124,7 @@ ht-degree: 1%
 
 有两种类型的模板可供选择。
 
-* **示例模板**：Marketo Engage提供了四个现成的电子邮件模板。
+* **示例模板**： Marketo Engage提供了四个现成的电子邮件模板。
 
 * **保存的模板**：这些模板是您使用“模板”菜单从头创建的模板，或者您创建并选择另存为模板的电子邮件。
 
@@ -194,7 +194,7 @@ ht-degree: 1%
 >
 >如果希望片段占据电子邮件中的整个水平布局，请添加1:1列结构，然后将片段拖放到其中。
 
-保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL 使用者]_&#x200B;选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
+保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
 
 ### 添加Assets {#add-assets}
 
@@ -226,24 +226,24 @@ ht-degree: 1%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 在列工具栏中，单击&#x200B;_[!UICONTROL 选择列]_&#x200B;工具，然后选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL 设置]_&#x200B;和&#x200B;_[!UICONTROL 样式]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL 样式]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
-   * 对于&#x200B;**[!UICONTROL 背景]**，根据需要更改背景颜色。
+   * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 
-     清除透明背景的复选框。 启用&#x200B;**[!UICONTROL 背景图像]**&#x200B;设置以使用图像作为背景，而不是纯色。
+     清除透明背景的复选框。 启用&#x200B;**[!UICONTROL Background image]**&#x200B;设置以使用图像作为背景而不是纯色。
 
-   * 对于&#x200B;**[!UICONTROL 对齐方式]**，请选择&#x200B;_Top_、_Middle_&#x200B;或&#x200B;_Bottom_&#x200B;图标。
-   * 对于&#x200B;**[!UICONTROL 内边距]**，定义所有边的内边距。
+   * 对于&#x200B;**[!UICONTROL Alignment]**，选择&#x200B;_Top_、_Middle_&#x200B;或&#x200B;_Bottom_&#x200B;图标。
+   * 对于&#x200B;**[!UICONTROL Padding]**，定义所有边的填充。
 
-     如果要调整边距，请选择&#x200B;**[!UICONTROL 每边不同的边距]**。 单击&#x200B;_锁定_&#x200B;图标中断同步。
+     如果要调整填充，请选择&#x200B;**[!UICONTROL Different padding for each side]**。 单击&#x200B;_锁定_&#x200B;图标中断同步。
 
-   * 展开&#x200B;**[!UICONTROL 高级]**&#x200B;部分以定义列的内联样式。
+   * 展开&#x200B;**[!UICONTROL Advanced]**&#x200B;部分以定义列的内联样式。
 
    ![](assets/authoring-layers-settings-styles-3.png)
 
@@ -351,7 +351,7 @@ ht-degree: 1%
 
 ## 引用电子邮件 {#reference-an-email}
 
-如果您在电子邮件程序中创建了电子邮件，则只能在该程序中使用该电子邮件。 如果您在Design Studio中创建了电子邮件，则可以从智能营销活动和/或智能列表中引用该电子邮件，就像使用任何其他电子邮件一样。
+电子邮件Designer电子邮件可通过电子邮件、参与、默认和事件程序（交互式网络研讨会程序除外）访问。 如果您在Design Studio中创建了电子邮件，则可以从智能营销活动和/或智能列表中引用该电子邮件，就像使用任何其他电子邮件一样。
 
 * 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，[在智能列表中引用它。
 
