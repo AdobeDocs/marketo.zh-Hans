@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 # GenAI功能 {#gen-ai-features}
 
 为您的录制的网络研讨会自动生成章节和摘要，使受众更容易访问和导航这些章节和摘要。
-
->[!PREREQUISITES]
->
->在使用这些功能之前，必须首先接受Adobe GenAI条款和条件。 如果您尚未这样做，请联系Adobe客户团队（您的客户经理）以了解详细信息。
 
 * **自动生成章节**： AI支持的技术为您的网络研讨会内容创建章节。
 
@@ -28,15 +24,25 @@ ht-degree: 0%
 
 * **轻松集成**：通过将HTML代码复制到您选择的网页编辑器，轻松地将章节和摘要添加到您的登陆页面。
 
+## 启用GenAI {#enable-genai}
+
+>[!PREREQUISITES]
+>
+>在使用这些功能之前，必须首先接受Adobe GenAI条款和条件。 如果您尚未这样做，请联系Adobe客户团队（您的客户经理）以了解详细信息。
+
+在您接受Adobe GenAI条款和条件后，下一步是为个人用户启用它。 为此，请转到&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]**，并选择哪些用户应有权访问GenAI。
+
+![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+
 ## 如何访问 {#how-to-access}
 
 1. 导航到Marketo Engage交互式网络研讨会中的“概述”页面。
 
 1. 进行按需网络研讨会后，等待30到60分钟，让AI处理您的录制。 当“生成”按钮可用时，该按钮将变为可单击状态。
 
-1. 单击&#x200B;**生成**。
+1. 单击 **[!UICONTROL Generate]**。
 
-   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
+   ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
 1. 此时将打开一个新选项卡，其中显示AI生成的章节和文本摘要。
 
@@ -44,7 +50,7 @@ ht-degree: 0%
 
 1. 查看生成的章节和摘要。
 
-1. 如果需要更改，请单击&#x200B;**编辑**&#x200B;按钮。
+1. 如果需要更改，请单击&#x200B;**[!UICONTROL Edit]**&#x200B;按钮。
 
    进行修改：
 
@@ -52,23 +58,23 @@ ht-degree: 0%
 
    * 如有必要，可通过编辑时间戳字段中的值来调整时间戳。
 
-   * 通过选择不需要的章节并单击&#x200B;**删除**&#x200B;来删除它们。
+   * 通过选择不需要的章节并单击&#x200B;**[!UICONTROL Delete]**&#x200B;来删除它们。
 
-   * 通过选择两个连续章节并单击&#x200B;**合并**&#x200B;将其合并。
+   * 通过选择两个连续章节并单击&#x200B;**[!UICONTROL Merge]**&#x200B;将其合并。
 
       * AI会生成一个包含两个选定章节的复合章节
 
       * 要合并多个章节，必须一次合并两个
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* 如果需要，您可以使用&#x200B;_竖起缩略图_ ![竖起缩略图图标](assets/icon-thumbs-up.png)或&#x200B;_竖下缩略图_ ![竖下缩略图图标](assets/icon-thumbs-down.png)图标来评价生成的章节/摘要的质量。 您还可以通过单击标记图标![标记图标](assets/icon-flag.png)来标记任何有问题的内容。
    >
-   >* 如果您对初始摘要不满意，可以单击&#x200B;**重新生成摘要**&#x200B;按钮，并生成另一个版本。
+   >* 如果您对初始摘要不满意，可以单击&#x200B;**[!UICONTROL Regenerate summary]**&#x200B;按钮，并生成另一个版本。
 
-1. 单击屏幕右上方的&#x200B;**保存**&#x200B;按钮以保存更改。
+1. 单击屏幕右上方的&#x200B;**[!UICONTROL Save]**&#x200B;按钮保存更改。
 
 ## 使用生成的内容 {#use-generated-content}
 
@@ -76,13 +82,13 @@ ht-degree: 0%
 
 ### 摘要 {#summary}
 
-**复制HTML** — 单击“复制HTML”**按钮**&#x200B;以获取所有文本，并在表中使用HTML代码设置其格式。
+**复制HTML** — 单击“**[!UICONTROL Copy HTML]**”按钮获取所有文本，并在表中使用HTML代码设置文本格式。
 
 **仅限文本** — 如果只想复制文本，只需突出显示它并选择Ctrl/Cmd+C（或右键单击）进行复制。
 
 ### 章节 {#chapters}
 
-**复制HTML** — 单击&#x200B;**复制HTML**&#x200B;按钮以在视频播放器中格式化所有录制及其章节。
+**复制HTML** — 单击“**[!UICONTROL Copy HTML]**”按钮，在视频播放器中格式化所有录制及其章节。
 
 ## 注意事项 {#things-to-note}
 
