@@ -4,10 +4,10 @@ description: 网页活动报表 — Marketo文档 — 产品文档
 title: 网页活动报表
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 0%
+source-wordcount: '322'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 1. 你拿到了！ 查看您的报告以了解哪些人正在访问您的网站。
 
-   ![](assets/image2017-3-29-9-3a21-3a36.png)
+   ![](assets/web-page-activity-report-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -51,15 +51,15 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>人员</td> 
-   <td>访客的名称、职称和公司。<br><strong>单击</strong>查看人员详细信息和活动历史记录。</td> 
+   <td>访客的名称、职称和公司。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">单击</a></strong>查看访问的页面。</td>
   </tr> 
   <tr> 
    <td>首次/上次访问（时区）</td> 
    <td>此公司中任何人的首次/上次访问的日期和时间。</td> 
   </tr> 
   <tr> 
-   <td>页面查看次数</td> 
-   <td>此访客加载的页数。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">单击</a></strong>查看访问过的页面。</td> 
+   <td>Page Views</td> 
+   <td>此访客加载的页数。</td>
   </tr> 
   <tr> 
    <td>HTTP引用程序</td> 
