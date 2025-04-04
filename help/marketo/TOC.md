@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
 workflow-type: tm+mt
-source-wordcount: '9427'
+source-wordcount: '9429'
 ht-degree: 1%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 1%
       + [设置步骤](getting-started/initial-setup/setup-steps.md)
       + [配置协议](getting-started/initial-setup/configure-protocols-for-marketo.md)
       + [用户设置](getting-started/initial-setup/user-setup.md)
-   + 实施新的Marketo Engage实例{#implementing-a-new-marketo-engage-instance}
-      + [从何处开始](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [新实例最佳实践：管理员部分核对清单](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [新实例最佳实践：数据库核对清单](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新实例最佳实践：设计工作室核对清单](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+   + 正在实现新的Marketo Engage实例{#implementing-a-new-marketo-engage-instance}
+      + [从何入手](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [新实例最佳实践：管理员部分清单](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新实例最佳实践：数据库核对表](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新实例最佳实践：Design Studio清单](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
       + [新实例最佳实践：营销活动核对清单](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [新实例最佳实践：Analytics清单](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [新实例最佳实践：记录您的设置](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
@@ -48,11 +48,11 @@ ht-degree: 1%
       + [重定向登陆页面](getting-started/quick-wins/redirect-a-landing-page.md)
       + [针对可能存在的重复人员自动发送警报](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + 继承Marketo Engage实例{#inheriting-a-marketo-engage-instance}
-      + [从何处开始](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
-      + [继承实例：管理员部分核对清单](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+      + [从何入手](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
+      + [继承的实例：管理员部分清单](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [继承的实例：数据库核对清单](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-      + [继承实例：Design Studio核对清单](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
-      + [继承实例：营销活动核对清单](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+      + [继承实例：Design Studio清单](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [继承例程：市场营销活动核对清单](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [继承的实例：记录您的设置](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [审核核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + 产品文档{#product-docs}
@@ -183,7 +183,7 @@ ht-degree: 1%
          + [导入自定义对象数据](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [触发自定义对象更改](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
          + [自定义对象元数据导出](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
-      + 具有Adobe标识{#marketo-with-adobe-identity}的Marketo
+      + Adobe标识为{#marketo-with-adobe-identity}的Marketo
          + [快速指南](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
          + [Adobe Identity Management概述](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [管理员设置](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
@@ -209,9 +209,9 @@ ht-degree: 1%
          + [编辑“Do Not Track”浏览器支持设置](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [编辑登陆页面设置](product-docs/administration/settings/edit-landing-page-settings.md)
          + [在报告和警报中编辑链接过期](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
-         + [电子邮件跟踪链接标题](product-docs/administration/settings/email-tracking-link-headers.md)
+         + [电子邮件跟踪链接标头](product-docs/administration/settings/email-tracking-link-headers.md)
          + [编辑订阅设置](product-docs/administration/settings/edit-subscription-settings.md)
-         + [启用或禁用“宝箱”功能](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
+         + [启用或禁用宝藏胸部特征](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [为您的帐户启用个性化URL](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [全局表单验证规则](product-docs/administration/settings/global-form-validation-rules.md)
          + [登陆页标题](product-docs/administration/settings/landing-page-headers.md)
@@ -224,8 +224,8 @@ ht-degree: 1%
       + 标记 {#tags}
          + [创建新的程序标记和标记值](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [创建项目频道](product-docs/administration/tags/create-a-program-channel.md)
-         + [创建自定义标记](product-docs/administration/tags/create-custom-tags.md)
-         + [删除项目频道](product-docs/administration/tags/delete-a-program-channel.md)
+         + [创建自定义标签](product-docs/administration/tags/create-custom-tags.md)
+         + [删除节目频道](product-docs/administration/tags/delete-a-program-channel.md)
          + [从项目群渠道中删除项目群状态](product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md)
          + [隐藏/取消隐藏项目频道](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [管理标记值](product-docs/administration/tags/managing-tag-values.md)
@@ -242,14 +242,14 @@ ht-degree: 1%
          + [为代码片段启用无草稿](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + 工作区和人员分区{#workspaces-and-person-partitions}
          + [了解工作区和人员分区](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
-         + [允许用户访问Workspace](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
+         + [允许用户访问工作区](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [将人员分区分配给工作区](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
          + [使用分配规则分配人员分区](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
          + [更改Workspace的名称](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
-         + [创建新的Workspace](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+         + [创建新工作区](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
          + [创建人员分区](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
-         + [删除Workspace](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
-         + [编辑Workspace](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
+         + [删除工作区](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
+         + [编辑工作区](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [编辑现有人员分区](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [跨工作区和分区共享分段](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + Adobe Experience Cloud集成{#adobe-experience-cloud-integrations}
@@ -290,7 +290,7 @@ ht-degree: 1%
          + 流程操作{#flow-actions}
             + [向智能营销活动添加流量步骤](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [重新排序智能营销活动中的流量步骤](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
-            + [添加到列表](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
+            + [添加到 List](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [将数据附加到字段](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [调用Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
             + [更改数据值](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
@@ -306,7 +306,7 @@ ht-degree: 1%
             + [将点数提供给反向链接](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [有趣的时刻](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [从流中删除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
-            + [从列表中删除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
+            + [从列表中移除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
             + [在流程步骤中重新排序“添加选项”](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
             + [请求营销活动](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [发送警报](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
@@ -450,11 +450,11 @@ ht-degree: 1%
             + [在项目计划视图中创建自定义叠加](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
             + [在项目群计划视图中编辑条目](product-docs/core-marketo-concepts/programs/program-schedule-view/editing-entries-in-the-program-schedule-view.md)
             + [隐藏和取消隐藏自定义条目类型](product-docs/core-marketo-concepts/programs/program-schedule-view/hiding-and-unhiding-custom-entry-types.md)
-            + [在项目群计划视图中移动条目](product-docs/core-marketo-concepts/programs/program-schedule-view/moving-entries-in-the-program-schedule-view.md)
-            + [浏览项目群计划视图](product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)
+            + [在方案计划视图中移动条目](product-docs/core-marketo-concepts/programs/program-schedule-view/moving-entries-in-the-program-schedule-view.md)
+            + [浏览计划日程表视图](product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)
             + [项目计划查看条目类型](product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)
-            + [在项目计划视图中重新运行Smart Campaign](product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md)
-            + [在项目计划视图中重新计划批量智能营销活动](product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)
+            + [在计划计划视图中重新运行Smart Campaign](product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md)
+            + [在项目群计划视图中重新计划批量智能市场活动](product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)
             + [从计划视图中重新计划整个项目](product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
             + [了解暂定/确认日期](product-docs/core-marketo-concepts/programs/program-schedule-view/understanding-tentative-confirmed-dates.md)
             + [使用全局叠加](product-docs/core-marketo-concepts/programs/program-schedule-view/using-a-global-overlay.md)
@@ -675,9 +675,9 @@ ht-degree: 1%
             + [回调函数](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
             + [使用限制](product-docs/demand-generation/dynamic-chat/setup-and-configuration/usage-limits.md)
          + 自动聊天{#automated-chat}
-            + [对话流概述](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
+            + [对话流程概述](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [创建对话流](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
-            + [Marketo Engage Forms的对话流设置](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
+            + [Marketo EngageForms的对话流设置](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
             + [对话框概述](product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md)
             + [创建对话框](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [受众标准](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
@@ -708,7 +708,7 @@ ht-degree: 1%
          + 创建事件{#create-an-event}
             + [使用Adobe Connect创建活动](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [使用GotoWebinar创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
-            + [创建具有第3级Web会议的事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
+            + [创建具有3级Web会议的事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [使用Webex创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [使用缩放创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + 使用Marketo ON24适配器{#create-an-event-with-the-marketo-on24-adapter}创建事件
@@ -845,9 +845,9 @@ ht-degree: 1%
             + [使用CNAME自定义登陆页面URL](product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
             + [编辑登陆页面标题和元数据](product-docs/demand-generation/landing-pages/landing-page-actions/edit-landing-page-title-and-metadata.md)
             + [筛选登陆页面性能报表](product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md)
-            + [预览包含动态内容的登陆页面](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+            + [预览具有动态内容的登陆页面](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [预览登陆页面](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
-            + [将Marketo登陆页面重定向到其他页面](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
+            + [将Marketo登陆页面重定向到另一页面](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
          + 登陆页面模板{#landing-page-templates}
             + [创建自由表单登陆页面模板](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [创建引导式登陆页面模板](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
@@ -855,7 +855,7 @@ ht-degree: 1%
             + [使现有的自由表单登陆页面模板与移动设备兼容](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
             + [了解引导式模板中的元素和变量](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
             + [引导式登陆页面模板列表](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
-            + 引导式登陆页面模板{#guided-landing-page-templates}
+            + 引导式登录页面模板{#guided-landing-page-templates}
                + [模板1A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1a.md)
                + [模板1B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1b.md)
                + [模板1C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1c.md)
@@ -1065,6 +1065,7 @@ ht-degree: 1%
             + [删除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 向Designer {#email-designer}发送电子邮件
          + [概述](product-docs/email-marketing/email-designer/overview.md)
+         + [功能比较](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [使用AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
@@ -1111,7 +1112,7 @@ ht-degree: 1%
          + 管理电子邮件程序中的人员{#managing-people-in-email-programs}
             + [通过导入列表定义受众](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
             + [使用智能列表定义受众](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
-            + [导入非拉丁文字符列表](product-docs/email-marketing/email-programs/managing-people-in-email-programs/import-a-non-latin-characters-list.md)
+            + [导入非拉丁字符列表](product-docs/email-marketing/email-programs/managing-people-in-email-programs/import-a-non-latin-characters-list.md)
       + 常规{#general}
          + 了解电子邮件编辑器{#understanding-the-email-editor}
             + [了解电子邮件事件日志](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
@@ -1137,24 +1138,24 @@ ht-degree: 1%
             + [电子邮件模板语法](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
             + [过渡到电子邮件编辑器2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
          + 编辑器{#functions-in-the-editor}中的函数
-            + [在电子邮件中转发到朋友链接](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
+            + [在电子邮件中转发给朋友链接](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
             + [在电子邮件中包含日历事件(.ics)](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
-            + [使电子邮件正常运行](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+            + [使电子邮件可操作](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
             + [预览包含动态内容的电子邮件](product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
             + [从潜在客户所有者发送电子邮件](product-docs/email-marketing/general/functions-in-the-editor/send-emails-from-the-lead-owner.md)
             + [在电子邮件中使用动态内容](product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-            + [向电子邮件添加代码片段](product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
+            + [将片段添加到电子邮件](product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
             + [将视图作为网页链接添加到电子邮件](product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)
             + [将可编辑部分添加到电子邮件模板v1.0](product-docs/email-marketing/general/functions-in-the-editor/add-editable-sections-to-email-templates-v1-0.md)
-            + [将跟踪链接添加到文本电子邮件](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
+            + [向文本电子邮件添加跟踪链接](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [创建日历事件(.ics)文件](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [禁用电子邮件链接的跟踪](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
             + [下载电子邮件的HTML](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
             + [编辑电子邮件的HTML](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + 电子邮件测试 — 冠军 — 挑战者{#email-tests-champion-challenger}
-               + [添加电子邮件冠军/挑战者](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+               + [添加电子邮件拥护者/挑战者](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [冠军/挑战者：批准您的电子邮件测试](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
-               + [冠军/挑战者：Analytics](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
+               + [冠军/挑战者：分析](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
                + [冠军/挑战者：宣布冠军](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
                + [冠军/挑战者：定义冠军标准](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
                + [冠军/挑战者：放弃电子邮件测试](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
@@ -1269,7 +1270,7 @@ ht-degree: 1%
                + [将电子邮件添加到Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [安装Sales Connect Email Plugin for Outlook(Online、Mac和Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
       + 电子邮件{#email}
-         + 指挥中心{#command-center}
+         + 命令中心{#command-center}
             + [命令中心概述](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [高级搜索概述](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
             + [将任务分配给团队成员](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
@@ -1278,7 +1279,7 @@ ht-degree: 1%
          + 常见跟踪问题{#common-tracking-questions}
             + [回复跟踪的工作方式](product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
             + [如何设置自定义域跟踪](product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-set-up-custom-domain-tracking.md)
-            + [如何跟踪您的电子邮件附件](product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md)
+            + [如何跟踪电子邮件附件](product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md)
             + [视图跟踪的工作方式](product-docs/marketo-sales-connect/email/common-tracking-questions/how-view-tracking-works.md)
             + [阻止自我查看](product-docs/marketo-sales-connect/email/common-tracking-questions/preventing-self-views.md)
             + [测试电子邮件未显示为已查看](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
@@ -1313,25 +1314,25 @@ ht-degree: 1%
             + [通过群电子邮件发送电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [在撰写窗口中使用模板](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + 常见问题解答 {#faq}
-         + [是否可以恢复我删除的联系人或组？](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
+         + [是否可以恢复已删除的联系人或组？](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [内容和文件附件常见问题解答](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect是否有iPhone或Android应用程序？](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [如何在我的服务器上允许列表Sales Connect？](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
          + [我的帐户被锁住了。 我该怎么办？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect是否与Salesforce Lightning兼容？](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
-         + [Sales Connect的服务条款是什么？](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
+         + [什么是Sales Connect服务条款？](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [什么是Sales Connect和Highspot集成？](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
          + [Sales Connect支持哪些浏览器和电子邮件客户端？](product-docs/marketo-sales-connect/faq/which-browsers-and-email-clients-are-supported-with-sales-connect.md)
-         + [为什么我的任何联系人都没有推送到Sales Connect？](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
+         + [为什么我的任何联系人没有被推入Sales Connect？](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [为什么无法删除联系人？](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [为什么没有将所有联系人推送到Sales Connect？](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
       + 集成{#integrations}
          + [如何将电子邮件记录到其他CRM](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
-         + [设置您的Marketo连接](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
-         + [授予用户访问权限](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
+         + [设置Marketo连接](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
+         + [向用户授予访问权限](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Sales Connect中的有趣时刻](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [使营销活动对Sales Connect用户可见](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [使Sales Connect用户可看到营销活动](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [销售活动术语表](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [销售活动触发器和过滤器](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + 人员{#people}
@@ -1346,12 +1347,12 @@ ht-degree: 1%
             + [管理组](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [人员页面列](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + 电话{#phone}
-         + [调用未登录到Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
-         + [调用结果](product-docs/marketo-sales-connect/phone/call-outcomes.md)
-         + [致电原因](product-docs/marketo-sales-connect/phone/call-reasons.md)
-         + [未登录到活动历史记录](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
+         + [呼叫未记录到Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
+         + [呼叫结果](product-docs/marketo-sales-connect/phone/call-outcomes.md)
+         + [呼叫原因](product-docs/marketo-sales-connect/phone/call-reasons.md)
+         + [未记录到活动历史记录](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [未登录到Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
-         + [启用通话录制](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
+         + [启用通话录音](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
          + [将呼叫原因和呼叫结果记录到Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [销售电话国际呼叫](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [销售电话本地存在](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
@@ -1362,7 +1363,7 @@ ht-degree: 1%
          + [创建和分配提醒任务](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
          + [提醒任务与Salesforce同步](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [首次将Sales Connect任务与Salesforce同步](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
-      + 模板{#templates}
+      + 模板 {#templates}
          + [向模板添加自动取消订阅](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [添加超链接文本](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
          + [存档模板](product-docs/marketo-sales-connect/templates/archive-templates.md)
@@ -1486,7 +1487,7 @@ ht-degree: 1%
             + [Sales Insight Actions是否与Salesforce Lightning兼容？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Sales Insight Actions支持哪些浏览器？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [Sales Insight Actions的服务条款是什么？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
-            + [为什么我的任何联系人都没有被推送到Sales Insight操作中？](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [为什么我的任何联系人都没有推送到Sales Insight操作中？](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [为什么我的动态字段没有填写？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [为什么我的销售活动和活动字段没有同步到Salesforce？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [为什么无法删除联系人？](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
@@ -1522,7 +1523,7 @@ ht-degree: 1%
             + [电子邮件跟踪概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + 任务{#tasks}
             + [提醒任务与Salesforce同步](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-         + 模板{#templates}
+         + 模板 {#templates}
             + [添加超链接文本](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [动态字段](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [字段提示](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
@@ -1561,13 +1562,13 @@ ht-degree: 1%
             + [禁用全局MS Dynamics同步](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [从MS Dynamics实例卸载MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + 正在更新{#updating}
-            + [升级适用于Microsoft Dynamics的Marketo Sales Insight Solution](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
-      + Salesforce {#msi-for-salesforce}的MSI
+            + [升级适用于Microsoft Dynamics的Marketo Sales Insight解决方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+      + 用于Salesforce {#msi-for-salesforce}的MSI
          + 安装{#installation}
             + [在Salesforce AppExchange中安装Marketo Sales Insight包](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 配置 {#configuration}
             + [在Salesforce Enterprise/Unlimited中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-            + [在Marketo Professional Edition中配置Salesforce Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [在Salesforce Professional Edition中配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [现有客户的配置](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Salesforce中的Marketo Sales Insight的“配置”选项卡](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [将Marketo选项卡添加到Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
@@ -1579,11 +1580,11 @@ ht-degree: 1%
             + [Salesforce Lightning中的批量操作](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
          + 功能 {#features}
             + [MSI功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
-            + [分析功能板功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+            + [Insights仪表板功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + [Dynamic Chat集成](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
-            + [向Marketo Sales Insight中的多条记录发送电子邮件](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
+            + [向Marketo Sales Insight中的多个记录发送电子邮件](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + MSI面板{#actions-in-the-msi-panel}中的操作
-               + [在Sales Insight中选择活动](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
+               + [在Sales Insight中选择操作](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [在Marketo Sales Insight中配置取消订阅页脚](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [锁定销售模板](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [将电子邮件发布到Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
@@ -1757,33 +1758,33 @@ ht-degree: 1%
             + [按属性分组人员报表](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [跨工作区报告电子邮件、营销活动效果](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [跨工作区共享模型](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
-            + [跟踪匿名活动和人员](product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
+            + [跟踪匿名活动和人物](product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
          + 报告订阅{#report-subscriptions}
             + [编辑智能列表订阅](product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
-            + [管理报表订阅](product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)
-            + [保护订阅管理员设置](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
-            + [订阅基本报表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+            + [管理报告订阅](product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)
+            + [确保订阅管理设置的安全](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+            + [订阅基本报告](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [订阅智能列表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + 报表类型 {#report-types}
-            + [营销活动报表](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+            + [促销活动报表](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [营销活动电子邮件性能报表](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [公司Web活动报表](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [按状态人员报表](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-            + [人员绩效报表](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-            + [报表类型概述](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [网页活动报表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
-            + [已查看的网页、网页活动报表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
-      + 电子邮件分析{#email-insights}
-         + [电子邮件分析概述](product-docs/reporting/email-insights/email-insights-overview.md)
-         + [电子邮件分析的自定义维度](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
-         + [电子邮件分析Analytics概述](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+            + [人员绩效报告](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+            + [报告类型概述](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+            + [网页活动报告](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+            + [已查看网页，网页活动报告](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+      + 电子邮件见解{#email-insights}
+         + [电子邮件见解概述](product-docs/reporting/email-insights/email-insights-overview.md)
+         + [电子邮件见解的自定义Dimension](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
+         + [电子邮件见解分析概述](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
          + [电子邮件分析常见问题解答](product-docs/reporting/email-insights/email-insights-faq.md)
          + [电子邮件分析快速图表](product-docs/reporting/email-insights/email-insights-quick-charts.md)
          + [电子邮件分析发送概述](product-docs/reporting/email-insights/email-insights-sends-overview.md)
          + [在电子邮件分析中进行筛选](product-docs/reporting/email-insights/filtering-in-email-insights.md)
       + 性能分析{#performance-insights}
-         + [性能分析概述](product-docs/reporting/performance-insights/performance-insights-overview.md)
-         + [在性能分析中进行筛选](product-docs/reporting/performance-insights/filtering-in-performance-insights.md)
+         + [性能洞察概述](product-docs/reporting/performance-insights/performance-insights-overview.md)
+         + [在Performance Insights中筛选](product-docs/reporting/performance-insights/filtering-in-performance-insights.md)
          + [性能分析贡献概述](product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
          + [性能分析功能板](product-docs/reporting/performance-insights/performance-insights-dashboards.md)
          + [性能分析常见问题解答](product-docs/reporting/performance-insights/performance-insights-faq.md)
@@ -1800,11 +1801,11 @@ ht-degree: 1%
             + [了解Opportunity Influence Analyzer](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/understanding-the-opportunity-influence-analyzer.md)
             + [配置Opportunity Influence Analyzer](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
             + [创建Opportunity影响分析器](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
-            + [导出Opportunity Impact Analyzer数据](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
-            + [用Opportunity Influence Analyzer讲述营销故事](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
-         + 项目分析{#program-analytics}
-            + [高级程序报告概述](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
-            + [构建列出潜在客户的计划会员资格分析报告](product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)
+            + [导出业务机会影响Analyser数据](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
+            + [用Opportunity Influence Analyser讲述营销故事](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+         + 计划分析{#program-analytics}
+            + [高级计划报告概述](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
+            + [构建列出潜在客户的计划成员资格分析报告](product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)
             + [克隆程序分析器](product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
             + [使用项目分析器比较渠道有效性](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
             + [使用程序分析器比较程序有效性](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
@@ -1932,17 +1933,17 @@ ht-degree: 1%
          + [使用Tealium标签管理器实施RTP](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
       + Web Personalization {#reporting-for-web-personalization}报表
          + [电子邮件报告](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
-         + [启用/禁用报表订阅](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
+         + [启用/禁用报告订阅](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
          + [排除要跟踪的特定IP](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
          + [Sales Intelligence](product-docs/web-personalization/reporting-for-web-personalization/sales-intelligence.md)
-         + [了解摘要报告](product-docs/web-personalization/reporting-for-web-personalization/understanding-the-summary-report.md)
+         + [了解汇总报告](product-docs/web-personalization/reporting-for-web-personalization/understanding-the-summary-report.md)
          + 网站分析集成{#web-analytics-integrations}
             + [Google Universal Analytics中的自定义RTP功能板](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
             + [Google Universal Analytics中的自定义RTP报表](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
             + [将RTP与Google Analytics集成](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [将RTP与Google Universal Analytics集成](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [与Adobe Analytics集成](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
-      + 了解Web Personalization {#understanding-web-personalization}
+      + 了解Web个性化{#understanding-web-personalization}
          + [了解内容分析](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Web Personalization术语表](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [Web Personalization概述](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
@@ -1964,8 +1965,8 @@ ht-degree: 1%
          + [使用Web Personalization数据重新定位](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + 使用Web营销活动{#working-with-web-campaigns}
          + [AB测试您的Web营销活动](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
-         + [向Web营销活动添加目标URL](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
-         + [存档Web活动](product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)
+         + [向Web市场活动添加目标URL](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
+         + [存档Web营销活动](product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)
          + [克隆Web营销活动](product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
          + [新建Dialog Web营销活动](product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
          + [在区域中创建新的Web营销活动](product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
@@ -1993,22 +1994,22 @@ ht-degree: 1%
       + 2025 {#2025}
          + [发行说明： 2025年1月](release-notes/previous-releases/2025/release-notes-jan-25.md)
       + 2024 {#2024}
-         + [发行说明： 2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
-         + [发行说明： 2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
-         + [发行说明： 2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
-         + [发行说明： 2024年6月](release-notes/previous-releases/2024/release-notes-june-24.md)
+         + [发行说明：2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
+         + [发行说明：2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
+         + [发行说明：2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
+         + [发行说明：2024年6月](release-notes/previous-releases/2024/release-notes-june-24.md)
          + [发行说明： 2024年7月](release-notes/previous-releases/2024/release-notes-july-24.md)
-         + [发行说明： 2024年10月](release-notes/previous-releases/2024/release-notes-oct-24.md)
+         + [发行说明：2024年10月](release-notes/previous-releases/2024/release-notes-oct-24.md)
       + 2023 {#2023}
-         + [发行说明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
-         + [发行说明： 2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
-         + [发行说明： 2023年5月](release-notes/previous-releases/2023/release-notes-may-23.md)
-         + [发行说明： 2023年7月](release-notes/previous-releases/2023/release-notes-july-23.md)
-         + [发行说明： 2023年9月](release-notes/previous-releases/2023/release-notes-sep-23.md)
-         + [发行说明： 2023年10月](release-notes/previous-releases/2023/release-notes-oct-23.md)
+         + [发行说明：2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
+         + [发行说明：2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
+         + [发行说明：2023年5月](release-notes/previous-releases/2023/release-notes-may-23.md)
+         + [发行说明：2023年7月](release-notes/previous-releases/2023/release-notes-july-23.md)
+         + [发行说明：2023年9月](release-notes/previous-releases/2023/release-notes-sep-23.md)
+         + [发行说明：2023年10月](release-notes/previous-releases/2023/release-notes-oct-23.md)
       + 2022 {#2022}
-         + [发行说明： 2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
-         + [发行说明： 2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
+         + [发行说明：2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [发行说明：2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [发行说明： 2022年5月](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [发行说明： 2022年6月](release-notes/previous-releases/2022/release-notes-june-22.md)
          + [发行说明： 2022年8月](release-notes/previous-releases/2022/release-notes-aug-22.md)
