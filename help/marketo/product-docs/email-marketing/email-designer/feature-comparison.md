@@ -6,10 +6,8 @@ description: 使用下表比较了我们以前的电子邮件编辑器(Email Edi
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
+source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%
@@ -32,7 +30,7 @@ ht-degree: 9%
 <tbody>
   <tr>
     <td>OOTB入门电子邮件模板</td>
-    <td>能够使用电子邮件Designer提供的OOTB模板。</td>
+    <td>能够使用Email Designer提供的现成模板。</td>
     <td>可用</td>
     <td>可用</td>
   </tr>
@@ -98,7 +96,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>AI 助手</td>
-    <td>能够通过创作AI模型生成主题行、部分内容或整个电子邮件。</td>
+    <td>能够通过<a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">生成AI</a>模型生成主题行、部分内容或整个电子邮件。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
@@ -110,7 +108,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>内容锁定</td>
-    <td>能够在电子邮件模板中锁定内容，以便在创建电子邮件时无法修改内容。</td>
+    <td>能够<a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">锁定电子邮件模板中的内容</a>，以便在创建电子邮件时无法对其进行修改。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
@@ -164,7 +162,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>与 Adobe Express 集成</td>
-    <td>能够使用Adobe Express创建/修改图像。</td>
+    <td>能够使用<a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>创建/修改图像。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
@@ -178,7 +176,7 @@ ht-degree: 9%
     <td>模块</td>
     <td>能够预先创建要在电子邮件中重复使用的特定结构和内容预设。</td>
     <td>可用</td>
-    <td>可用作可自定义的片段</td>
+    <td>可用作<a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">可自定义的片段</a></td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Service集成</td>
@@ -241,6 +239,18 @@ ht-degree: 9%
     <td>即将推出</td>
   </tr>
   <tr>
+    <td>Velocity脚本</td>
+    <td>能够在电子邮件中使用Velocity脚本。</td>
+    <td>可用</td>
+    <td>不需要</td>
+  </tr>
+   <tr>
+    <td>手柄栏脚本</td>
+    <td>能够在电子邮件中使用Handlebar脚本。</td>
+    <td>不可用</td>
+    <td>计划于2025年第3季度推出</td>
+  </tr>
+  <tr>
     <td>Litmus集成</td>
     <td>能够与Litmus集成，以了解您的电子邮件在不同电子邮件客户端中的呈现方式。</td>
     <td>不可用</td>
@@ -255,12 +265,6 @@ ht-degree: 9%
   <tr>
     <td>Spam Assassin集成</td>
     <td>能够在投放之前检测标记为垃圾邮件的电子邮件的可能性。</td>
-    <td>不可用</td>
-    <td>计划于2025年第3季度推出</td>
-  </tr>
-  <tr>
-    <td>手柄栏脚本</td>
-    <td>能够在电子邮件中使用Handlebar脚本。</td>
     <td>不可用</td>
     <td>计划于2025年第3季度推出</td>
   </tr>
@@ -300,10 +304,5 @@ ht-degree: 9%
     <td>可用</td>
     <td>不可用</td>
   </tr>
-  <tr>
-    <td>Velocity脚本</td>
-    <td>能够在电子邮件中使用Velocity脚本。</td>
-    <td>可用</td>
-    <td>不需要</td>
-  </tr>
 </tbody></table>
+
