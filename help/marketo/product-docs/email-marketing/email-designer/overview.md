@@ -5,9 +5,9 @@ description: 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 title: 概述
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -57,6 +57,8 @@ ht-degree: 0%
 * [使用AI助手](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}：利用Adobe的创作AI技术，向电子邮件中添加有用的文本和/或图像。
 
 * [在电子邮件模板中锁定内容](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：了解如何在电子邮件模板中锁定内容，从而帮助防止无意编辑或删除。
+
+* [功能比较](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：比较以前的电子邮件编辑器(Email Editor 2.0)和新电子邮件编辑器Designer中各项功能的可用性。
 
 ## 常见问题解答 {#faq}
 

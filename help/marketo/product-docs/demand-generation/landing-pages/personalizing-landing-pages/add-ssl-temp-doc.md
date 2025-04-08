@@ -4,9 +4,9 @@ title: 将SSL添加到登陆页面
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -41,8 +41,8 @@ ht-degree: 0%
 
 屏幕快照
 
-注释：
-
-列表中的“SSL证书”列将显示在此功能发布后创建的所有域别名的SSL证书状态。 如果您通过支持为域启用了SSL，则相应的SSL证书将继续存在，但此表仅反映使用此功能添加的域的SSL证书
-
-SSL处于“就绪”状态最多可能需要3分钟，并且用户需要刷新页面才能将更改传播到UI上。
+>[!NOTE]
+>
+>* 列表中的“SSL证书”列显示在此功能发布后创建的所有域别名的证书状态(DATE)。 如果您通过Marketo支持为域启用了SSL，则该证书将继续存在，但不会显示在表中。 此表仅反映使用本文中的步骤添加的域的SSL证书。
+>
+>* SSL可能最多需要3分钟才能处于“就绪”状态。 必须刷新页面才能显示更改。
