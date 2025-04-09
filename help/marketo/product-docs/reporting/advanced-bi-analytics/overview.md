@@ -1,13 +1,11 @@
 ---
 description: 高级BI Analytics概述 — Marketo文档 — 产品文档
 title: 高级BI Analytics概述
-hide: true
-hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
 workflow-type: tm+mt
-source-wordcount: '969'
+source-wordcount: '989'
 ht-degree: 0%
 
 ---
@@ -22,53 +20,57 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 >
 >要访问此功能，您必须已购买高级BI Analytics加载项。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
+>[!NOTE]
+>
+>如果您对此功能处于测试版（至2025年6月1日）有任何疑问，请发送电子邮件至：`adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`。
+
 ## 主要功能和优势 {#key-features-and-benefits}
 
-* **高性能查询引擎**：在大型数据集上的性能提升了5倍，从而加快数据处理速度、加快报告加载速度，并提供更流畅的分析体验。
+* **高性能查询引擎**：在大型数据集上的性能提升了5倍，从而实现了更快的数据处理、更快的报告加载和更流畅的分析体验。
 
-* **丰富且引人注目的可视化图表**：包含图表、地图和KPI指标在内的一系列内置可视化图表选项进行了大量扩展，使功能板更具洞察力和影响力，并显着提升数据故事讲述能力。
+* **丰富而引人入胜的可视化**：包含图表、地图和KPI指示器在内的大量扩展的内置可视化选项集合，这些选项使仪表板更具洞察力和影响力，并显着增强了数据故事讲述功能。
 
-* **高级交互性和动态筛选**：跨可视化应用动态切片器、交叉筛选和相互依赖的筛选器。 多页报表支持高级向下钻取、向上钻取和穿透钻取，从而确保轻松地探索数据。
+* **高级交互性和动态筛选**：跨视觉对象应用动态切片器、交叉筛选和相互依赖的筛选器。 多页报告支持高级的向下钻取、向上钻取和穿透钻取，从而确保轻松浏览数据。
 
-* **直观的报表创作界面**：点击式体验简化了报表创建过程，包括多页面穿透钻取报表。 该界面允许用户设计复杂的交互式报表，而无需具备深厚的技术专业知识。
+* **直观的报告创作界面**：点击式体验简化了报告创建，包括多页穿透钻取报告。 该界面允许用户设计复杂的交互式报告，而无需具备深厚的技术专业知识。
 
-* **轻松共享，包括PowerPoint导出**：内置共享功能使共享见解变得轻而易举。 除其他目标外，用户还可以轻松地生成演示就绪的PowerPoint幻灯片。
+* **轻松共享，包括PowerPoint导出**：内置的共享功能使共享见解变得轻松无比。 除其他目标外，用户还可以轻松地生成演示就绪的PowerPoint幻灯片。
 
 ## 创建报告 {#create-a-report}
 
-1. 在“我的Marketo”中，单击&#x200B;**高级BI Analytics (Beta)**&#x200B;磁贴。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Advanced BI Analytics (Beta)]**&#x200B;磁贴。
 
-   屏幕快照
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
-1. 在&#x200B;**报表**&#x200B;选项卡中，单击&#x200B;**创建报表**。
+1. 在“**[!UICONTROL Reports]**”选项卡中，单击“**[!UICONTROL Create Report]**”。
 
-   屏幕快照
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. 选择所需的度量。
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
-1. Select the desired dimensions.
+1. 选择所需的尺寸。
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
-1. Choose your preferred visualization.
+1. 选择您的首选可视化图表。
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
-1. Add filters by drag-and-dropping a dimension attribute.
+1. 通过拖放维度属性来添加过滤器。
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
-## Video demo {#video}
+## 视频演示 {#video}
 
-Watch the following video to see an example of a multi-page, drill-through report experience.
+观看以下视频，了解多页面、穿透钻取报表体验的示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
-## Standard Reports in Advanced BI Analytics {#standard-reports}
+## 高级BI Analytics中的标准报表 {#standard-reports}
 
-The following standard reports are included as examples for your custom reports.
+以下标准报表作为示例包含在自定义报表中。
 
 <table>
   <thead>
@@ -86,7 +88,7 @@ The following standard reports are included as examples for your custom reports.
       <td>电子邮件 — 点击活动(CST)</td>
     </tr>
     <tr>
-      <td>Email - Open Activity (in CST)</td>
+      <td>电子邮件 — 打开活动(CST)</td>
     </tr>
     <tr>
       <td>电子邮件 — 点击时间分布(CST)</td>
@@ -133,7 +135,7 @@ The following standard reports are included as examples for your custom reports.
       <td>10大成功计划</td>
     </tr>
     <tr>
-      <td>Top 10 Programs By Total Pipeline</td>
+      <td>按总管道列出的10大项目</td>
     </tr>
     <tr>
       <td>项目群收入阶段报表</td>
@@ -184,37 +186,37 @@ _在公开测试期间：_
 
   >[!IMPORTANT]
   >
-  >自定义报表的复制将在同类群组中执行。 将自定义报表复制到新Experience中后，为确保两个体验之间的一致性，经典体验中所做的任何更改还需要手动应用到新Experience中的相应报表。 在复制客户报告后，上述信息备注将在经典Experience中显示。
+  >自定义报表的复制将以组形式执行。 将自定义报表复制到新Experience中后，为确保两个体验之间的一致性，经典体验中所做的任何更改还需要手动应用到新Experience中的相应报表。 在复制客户报告后，上述信息备注将在经典Experience中显示。
 
-   * 经典体验中的仪表板不可传输，并且需要在新体验中进行重新创建。 它们应该重新创建，因为新体验中的报告和新体验中的过滤器会自动提取可能的值，而不是要求您在传统体验中单独手动输入所有可能的值。
+   * 经典体验中的仪表板不可转让，需要在新体验中重新创建。 应将其重新创建为新体验中的报告，新体验中的过滤器会自动提取可能的值，而不是要求您在传统体验中单独手动输入所有可能的值。
 
      >[!NOTE]
      >
-     >新版Experience中的功能板只是单个页面上的报表集合。 新版Experience中仪表板的主要价值在于，允许您跨不同的报告区域提供分析见解。
+     >新体验中的信息板只是单个页面上的报告集合。 新体验中，“信息板”的主要价值是允许您提供不同报告领域的分析洞见。
 
-* 您在经典Experience中的电子邮件订阅将被复制到新Experience。 经典体验中的电子邮件订阅将继续正常运行，直到经典体验在2025年6月1日弃用。
+* 经典体验中的电子邮件订阅将被复制到新体验中。 经典体验中的电子邮件订阅将继续运行，直到2025年6月1日经典体验被弃用。
 
-* 现有Revenue Explorer用户自动拥有对新的高级BI Analytics (Beta)体验的访问权限。
+* 现有的Revenue Explorer用户可自动访问新的高级BI Analytics (Beta)体验。
 
 ## 了解新体验 {#learning-the-new-experience}
 
-The new visualization experience is delivered via embedded Power BI service.
+新的可视化体验通过嵌入式Power BI服务提供。
 
-[](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/)
+有关可视化体验的快速教程，请访问Microsoft的[在Power BI中使用视觉效果](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}文档。 请注意，您可能无法在Marketo Engage中看到所有这些功能。
 
-### Notable experience changes {#notable-experience-changes}
+### 显着的体验更改 {#notable-experience-changes}
 
-The following are changes in the new experience (Advanced BI Analytics) from the classic experience (Revenue Explorer/Advanced Report Builder).
+以下是新体验（高级BI Analytics）与传统体验(收入资源管理器/高级Report Builder)相比所做的更改。
 
-* The date-type filter functions equivalently; however, the syntax for specifying values changed. In your existing custom reports, all date-type filter values—except for &quot;Day of the Week&quot;—are automatically converted to their corresponding equivalents in the new experience. Support for &quot;Day of the Week&quot; values has been discontinued.
+* 日期类型筛选器的功能是等效的；但是，指定值的语法发生了变化。 在现有的自定义报表中，除“每周时间”之外的所有日期类型筛选器值都会自动转换为新Experience中对应的等效值。 已停止对“每周时间”值的支持。
 
-* The string-type filters are now case-sensitive.
+* 字符串类型过滤器现在区分大小写。
 
-* Runtime formula field in the classic experience is no longer supported.
+* 经典Experience中的运行时公式字段不再受支持。
 
-* Email subscription includes the PDF export rather than the HTML of the report. The new email subscription will not include the report definition.
+* 电子邮件订阅包括PDF导出，而不是报表的HTML。 新的电子邮件订阅将不包含报告定义。
 
-* Deep link of report is not supported at this time.
+* 目前不支持报告的深层链接。
 
 * 报表文件夹体验此时不可用，暂时被显示提前键入搜索的平面列表所取代。 已复制报表的名称将带有文件夹路径，如`/folder1/folder2/report`。
 
@@ -226,5 +228,4 @@ The following are changes in the new experience (Advanced BI Analytics) from the
 
 >[!MORELIKETHIS]
 >
->[指标和维度](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
-
+>[指标和维度](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
