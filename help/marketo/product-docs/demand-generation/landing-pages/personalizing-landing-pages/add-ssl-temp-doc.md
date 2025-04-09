@@ -4,16 +4,21 @@ title: 将SSL添加到登陆页面
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
+source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # 将SSL添加到登陆页面 {#add-ssl-to-your-landing-pages}
 
-了解如何将品牌域的别名（例如，`http://business.adobe.com`）添加到Marketo Engage中创建的登陆页面，以便能够在其品牌域下访问这些页面。
+SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登陆页面安全。
+
+在填写Web表单或访问Marketo Engage托管的登陆页时，默认情况下，信息会通过非安全协议(HTTP)发送。 根据贵公司的策略，您可能希望保护通过(HTTPS)提交到Marketo的信息。 例如，当您访问`http://info.mydomain.com/`时，它现在将为`https://info.mydomain.com/`。
+
+默认情况下，Marketo Engage会通过非安全HTTP协议跟踪“访问的网页”和“单击网页上的链接”。 如果您希望使用自己的证书来保护跟踪链接，则需要让Marketo构建单独的非共享服务器来启用它。 要确保联系人与您交互的各个方面的安全，通常意味着同时保护登陆页面和跟踪链接。
 
 屏幕快照
 
@@ -37,7 +42,7 @@ ht-degree: 0%
 
 屏幕快照
 
-## 为默认域启用SSL
+## 为默认域启用SSL {#enable-ssl-default-domain}
 
 屏幕快照
 
