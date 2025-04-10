@@ -4,26 +4,30 @@ description: 自定义活动同步 — Marketo文档 — 产品文档
 title: 自定义活动同步
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 2%
 
 ---
 
 # 自定义活动同步 {#customize-activities-sync}
 
-如果您不使用Marketo Sales Insight，则Marketo Engage可以为某些事件创建Salesforce活动历史记录。 下面是如何启用它们。
+如果您不使用Marketo Sales Insight，Marketo Engage可以为某些事件创建Salesforce活动历史记录。 下面是如何启用它们。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**。
+>[!NOTE]
+>
+>Salesforce/Marketo Engage同步不会将用户推送到Salesforce之前发生的任何活动推送到Salesforce。
 
-   ![](assets/admin.png)
+1. 转到&#x200B;**[!UICONTROL Admin]**。
 
-1. 单击&#x200B;**[!DNL Salesforce]**，然后单击&#x200B;**[!UICONTROL 编辑同步选项]**。
+   ![](assets/customize-activities-sync-1.png)
+
+1. 单击 **[!DNL Salesforce]**，然后单击 **[!UICONTROL Edit Sync Options]**。
 
    ![](assets/two-1.png)
 
-1. 选中您希望Marketo推送到Salesforce的活动旁边的复选框，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 选中您希望Marketo推送到Salesforce的活动旁边的复选框，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three-1.png)
 
@@ -77,11 +81,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已发送销售电子邮件</td> 
-   <td>通过Marketo Sales Insight发送了一封电子邮件</td> 
+   <td>已通过Marketo Sales Insight发送电子邮件</td> 
   </tr> 
   <tr> 
    <td>已打开销售电子邮件</td> 
-   <td>打开通过Marketo Sales Insight发送的电子邮件</td> 
+   <td>已打开通过Marketo Sales Insight发送的电子邮件</td> 
   </tr> 
   <tr> 
    <td>单击销售电子邮件中的链接</td> 
@@ -100,4 +104,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您有兴趣将更多Marketo信息放入Salesforce，请查看我们的[Marketo销售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}产品。
+>如果您有兴趣在Salesforce中获取更多Marketo信息，请查看我们的[Marketo销售Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}产品。

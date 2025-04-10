@@ -4,9 +4,9 @@ description: 启用/禁用自定义对象同步 — Marketo文档 — 产品文�
 title: 启用/禁用自定义对象同步
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 单击&#x200B;**[!UICONTROL 管理员]**。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
-   ![](assets/one.png)
+   ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. 在“数据库管理”菜单中，单击&#x200B;**[!UICONTROL Salesforce对象同步]**。
+1. 在“数据库管理”菜单中，单击&#x200B;**[!UICONTROL Salesforce Objects Sync]**。
 
-   ![](assets/two-2.png)
+   ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. 如果这是您的第一个自定义对象，请单击&#x200B;**[!UICONTROL 同步架构]**。 否则，请单击&#x200B;**[!UICONTROL 刷新架构]**&#x200B;以确保您拥有最新的架构。
+1. 如果这是您的第一个自定义对象，请单击&#x200B;**[!UICONTROL Sync schema]**。 否则，请单击&#x200B;**[!UICONTROL Refresh Schema]**&#x200B;以确保您拥有最新版本。
 
-   ![](assets/image2014-12-10-10-3a14-3a44.png)
+   ![](assets/enable-disable-custom-object-sync-3.png)
 
-1. 如果全局同步正在运行，则必须通过单击&#x200B;**[!UICONTROL 禁用全局同步]**&#x200B;来禁用它。
+1. 如果全局同步正在运行，则必须通过单击&#x200B;**[!UICONTROL Disable Global Sync]**&#x200B;将其禁用。
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -41,23 +41,23 @@ ht-degree: 0%
    >
    >同步Salesforce自定义对象架构可能需要几分钟时间。
 
-1. 单击&#x200B;**[!UICONTROL 刷新架构]**。
+1. 单击 **[!UICONTROL Refresh Schema]**。
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. 选择要同步的对象，然后单击&#x200B;**[!UICONTROL 启用同步]**。
+1. 选择要同步的对象，然后单击&#x200B;**[!UICONTROL Enable Sync]**。
 
    >[!TIP]
    >
-   >Marketo只能同步自定义对象，前提是它与Salesforce中的Lead、Contact或Account对象存在直接关系。
+   >Marketo只能同步自定义对象，前提是它与Salesforce中的潜在客户、联系人或帐户对象存在直接关系。
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. 再次单击&#x200B;**[!UICONTROL 启用同步]**。
+1. 再次单击&#x200B;**[!UICONTROL Enable Sync]**。
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. 返回&#x200B;**[!DNL Salesforce]**&#x200B;选项卡并单击&#x200B;**[!UICONTROL 启用同步]**。
+1. 返回&#x200B;**[!DNL Salesforce]**&#x200B;选项卡并单击&#x200B;**[!UICONTROL Enable Sync]**。
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 >
 >不能将智能营销活动中的自定义对象与触发器一起使用。
 
-1. 在智能列表中，拖到&#x200B;**[!UICONTROL Has Opportunity]**&#x200B;筛选器上并设置为&#x200B;**[!UICONTROL true]**。
+1. 在智能列表中，拖动到&#x200B;**[!UICONTROL Has Opportunity]**&#x200B;筛选器上并设置为&#x200B;**[!UICONTROL true]**。
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
