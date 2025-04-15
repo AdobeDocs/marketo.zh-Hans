@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 618aeadcdc032b005514387eb0a0e5f61990ed5d
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 4%
 
 ---
@@ -53,8 +53,8 @@ ht-degree: 4%
   </tr>
   <tr> 
    <td><strong>全局和Workspace我的令牌</strong>：在工作区和全球级别配置我的令牌，以便提高生产效率，更好地控制Marketo Engage工作区乃至整个实例中的品牌和营销宣传资料。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
   </tbody> 
 </table>
