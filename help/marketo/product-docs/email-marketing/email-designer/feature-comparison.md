@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%
@@ -35,7 +35,7 @@ ht-degree: 9%
     <td>可用</td>
   </tr>
   <tr>
-    <td>已保存的模板/我的模板</td>
+    <td>保存的模板/我的模板</td>
     <td>能够保存模板并使用它们创建电子邮件。</td>
     <td>可用</td>
     <td>可用</td>
@@ -125,14 +125,14 @@ ht-degree: 9%
     <td>可用</td>
   </tr>
   <tr>
-    <td>发送示例/校样</td>
-    <td>能够在最终发送之前发送电子邮件作为验证证据。</td>
+    <td>发送样本/验证</td>
+    <td>能够发送电子邮件作为最终发送前验证的证明。</td>
     <td>可用</td>
     <td>可用</td>
   </tr>
   <tr>
     <td>将电子邮件另存为模板</td>
-    <td>能够将电子邮件保存为电子邮件模板。</td>
+    <td>能够将电子邮件另存为电子邮件模板。</td>
     <td>可用</td>
     <td>可用</td>
   </tr>
@@ -145,6 +145,12 @@ ht-degree: 9%
   <tr>
     <td>电子邮件生命周期</td>
     <td>能够将电子邮件、模板和片段从<i>草稿</i>移动到<i>已发布</i>到<i>已发布草稿</i>。</td>
+    <td>可用</td>
+    <td>可用</td>
+  </tr>
+  <tr>
+    <td>电子邮件报告</td>
+    <td>能够在Marketo Engage Analytics中查看电子邮件。</td>
     <td>可用</td>
     <td>可用</td>
   </tr>
@@ -222,12 +228,12 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>支持移动、删除和导入包含电子邮件资产的程序</td>
-    <td>能够移动、删除和导入电子邮件程序以及电子邮件资源。</td>
+    <td>能够移动、删除和导入电子邮件程序以及电子邮件资产。</td>
     <td>可用</td>
     <td>即将推出</td>
   </tr>
   <tr>
-    <td>Marketo Template Converter/Import</td>
+    <td>Marketo模板转换器/导入</td>
     <td>能够转换现有Marketo模板以适合新的电子邮件Designer。</td>
     <td>不需要</td>
     <td>即将推出</td>
@@ -245,14 +251,14 @@ ht-degree: 9%
     <td>不需要</td>
   </tr>
    <tr>
-    <td>工具栏脚本</td>
+    <td>手柄栏脚本</td>
     <td>能够在电子邮件中使用Handlebar脚本。</td>
     <td>不可用</td>
-    <td>计划于2025年第三季度发布</td>
+    <td>计划于2025年第3季度推出</td>
   </tr>
   <tr>
-    <td>裂隙整合</td>
-    <td>能够与Litmus集成以查看您的电子邮件在不同电子邮件客户端中的呈现方式。</td>
+    <td>Litmus集成</td>
+    <td>能够与Litmus集成，以了解您的电子邮件在不同电子邮件客户端中的呈现方式。</td>
     <td>不可用</td>
     <td>计划于2025年第3季度推出</td>
   </tr>
@@ -277,12 +283,6 @@ ht-degree: 9%
   <tr>
     <td>试验（A/B测试）</td>
     <td>能够在将电子邮件发送给受众之前对其进行测试。</td>
-    <td>可用</td>
-    <td>待定</td>
-  </tr>
-  <tr>
-    <td>电子邮件报告</td>
-    <td>能够在Marketo Engage Analytics中查看电子邮件。</td>
     <td>可用</td>
     <td>待定</td>
   </tr>
