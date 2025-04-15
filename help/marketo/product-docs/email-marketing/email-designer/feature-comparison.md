@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%
@@ -30,12 +30,12 @@ ht-degree: 9%
 <tbody>
   <tr>
     <td>OOTB入门电子邮件模板</td>
-    <td>能够使用Email Designer提供的现成模板。</td>
+    <td>能够使用电子邮件Designer提供的<a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">现成模板</a>。</td>
     <td>可用</td>
     <td>可用</td>
   </tr>
   <tr>
-    <td>保存的模板/我的模板</td>
+    <td>已保存的模板/我的模板</td>
     <td>能够保存模板并使用它们创建电子邮件。</td>
     <td>可用</td>
     <td>可用</td>
@@ -72,7 +72,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>上传图像/文件</td>
-    <td>能够从本地系统上传图像。</td>
+    <td>能够从本地系统<a href="/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-assets" target="_blank">上传图像</a>。</td>
     <td>可用</td>
     <td>可用</td>
   </tr>
@@ -96,7 +96,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>AI 助手</td>
-    <td>能够通过<a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">生成AI</a>模型生成主题行、部分内容或整个电子邮件。</td>
+    <td>能够通过<a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">生成AI</a>模型生成主题行、部分内容或整个电子邮件。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
@@ -108,7 +108,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>内容锁定</td>
-    <td>能够<a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">锁定电子邮件模板中的内容</a>，以便在创建电子邮件时无法对其进行修改。</td>
+    <td>能够<a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">锁定电子邮件模板中的内容</a>，以便在创建电子邮件时无法对其进行修改。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
@@ -125,20 +125,20 @@ ht-degree: 9%
     <td>可用</td>
   </tr>
   <tr>
-    <td>发送样本/验证</td>
-    <td>能够发送电子邮件作为最终发送前验证的证明。</td>
+    <td>发送示例/校样</td>
+    <td>能够在最终发送之前发送电子邮件作为验证证据。</td>
     <td>可用</td>
     <td>可用</td>
   </tr>
   <tr>
     <td>将电子邮件另存为模板</td>
-    <td>能够将电子邮件另存为电子邮件模板。</td>
+    <td>能够将电子邮件保存为电子邮件模板。</td>
     <td>可用</td>
     <td>可用</td>
   </tr>
   <tr>
     <td>将内容另存为片段</td>
-    <td>能够将内容的一部分另存为片段。</td>
+    <td>能够将<a href="/help/marketo/product-docs/email-marketing/email-designer/fragments.md#save-a-new-fragment-from-email-or-template-content" target="_blank">内容的一部分另存为片段</a>。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
@@ -162,7 +162,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>与 Adobe Express 集成</td>
-    <td>能够使用<a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>创建/修改图像。</td>
+    <td>能够使用<a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a>创建/修改图像。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
@@ -176,7 +176,7 @@ ht-degree: 9%
     <td>模块</td>
     <td>能够预先创建要在电子邮件中重复使用的特定结构和内容预设。</td>
     <td>可用</td>
-    <td>可用作<a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">可自定义的片段</a></td>
+    <td>可用作<a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md" target="_blank">可自定义的片段</a></td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Service集成</td>
@@ -222,12 +222,12 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>支持移动、删除和导入包含电子邮件资产的程序</td>
-    <td>能够移动、删除和导入电子邮件程序以及电子邮件资产。</td>
+    <td>能够移动、删除和导入电子邮件程序以及电子邮件资源。</td>
     <td>可用</td>
     <td>即将推出</td>
   </tr>
   <tr>
-    <td>Marketo模板转换器/导入</td>
+    <td>Marketo Template Converter/Import</td>
     <td>能够转换现有Marketo模板以适合新的电子邮件Designer。</td>
     <td>不需要</td>
     <td>即将推出</td>
@@ -245,14 +245,14 @@ ht-degree: 9%
     <td>不需要</td>
   </tr>
    <tr>
-    <td>手柄栏脚本</td>
+    <td>工具栏脚本</td>
     <td>能够在电子邮件中使用Handlebar脚本。</td>
     <td>不可用</td>
-    <td>计划于2025年第3季度推出</td>
+    <td>计划于2025年第三季度发布</td>
   </tr>
   <tr>
-    <td>Litmus集成</td>
-    <td>能够与Litmus集成，以了解您的电子邮件在不同电子邮件客户端中的呈现方式。</td>
+    <td>裂隙整合</td>
+    <td>能够与Litmus集成以查看您的电子邮件在不同电子邮件客户端中的呈现方式。</td>
     <td>不可用</td>
     <td>计划于2025年第3季度推出</td>
   </tr>

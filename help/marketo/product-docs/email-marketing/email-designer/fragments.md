@@ -5,16 +5,20 @@ title: 片段
 description: 了解如何创建可视化内容片段，并将其用作电子邮件和电子邮件模板的可重用组件。
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
-source-wordcount: '1911'
-ht-degree: 0%
+source-wordcount: '1850'
+ht-degree: 1%
 
 ---
 
 # 片段
 
 片段是可重用组件，可在一个或多个电子邮件和电子邮件模板中引用。 它通常是可快速插入到项目中的内容块（文本、图像或两者）。 利用此功能，您可以预构建多个自定义内容块以组合电子邮件内容，从而改进设计过程。 常见用例包括电子邮件的页眉/页脚内容块、事件邀请横幅、季节性消息等。
+
+>[!NOTE]
+>
+>片段相当于旧电子邮件编辑器中的[片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"}。
 
 要在工作流中充分利用片段，请执行以下操作：
 
@@ -27,11 +31,11 @@ ht-degree: 0%
 
 ## 访问和管理片段 {#access-and-manage-fragments}
 
-要访问可视化片段，请转到Marketo Engage中的&#x200B;**设计工作室**。 在左侧的树中，单击&#x200B;**[!UICONTROL 片段（新）]**。
+要访问可视化片段，请转到Marketo Engage中的&#x200B;**设计工作室**。 在左侧的树中，单击&#x200B;**[!UICONTROL Fragments (New)]**。
 
 ![访问片段](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
-默认情况下，该表按&#x200B;_[!UICONTROL Modified]_&#x200B;列排序。 单击其他列标题以更改表的排序依据。 再次单击同一标题可在升序和降序之间切换。
+默认情况下，该表按&#x200B;_[!UICONTROL Modified]_列排序。 单击其他列标题以更改表的排序依据。 再次单击同一标题可在升序和降序之间切换。
 
 ### 查找和筛选
 
@@ -43,7 +47,7 @@ ht-degree: 0%
 
 通过单击右上角的&#x200B;_自定义表_&#x200B;图标（![自定义表图标](assets/icon-column-settings.svg)）自定义要在表中显示的列。
 
-选择所需的列，然后单击&#x200B;**[!UICONTROL 应用]**。
+选择所需的列，然后单击&#x200B;**[!UICONTROL Apply]**。
 
 ![自定义表模式](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
@@ -60,8 +64,8 @@ ht-degree: 0%
     <li>编辑所有详细信息</li>
     <li>在可视设计器中编辑</li>
     <li>发布</li>
-    <li>复制</li>
-    <li>Delete</li>
+    <li>重复</li>
+    <li>删除</li>
   </td>
   <tr>
     <td><b>发布日期</b></td>
@@ -70,7 +74,7 @@ ht-degree: 0%
     <li>编辑描述</li>
     <li>添加到电子邮件或模板</li>
     <li>创建草稿版本</li>
-    <li>复制</li>
+    <li>重复</li>
     <li>删除（如果未使用）</li>
     </td>
   </tr>
@@ -82,7 +86,7 @@ ht-degree: 0%
     <li>添加到电子邮件或模板</li>
     <li>在可视设计器中编辑草稿版本</li>
     <li>发布草稿版本</li>
-    <li>复制</li>
+    <li>重复</li>
     <li>删除（如果未使用）</li>
     </td>
   </tr>
@@ -91,11 +95,11 @@ ht-degree: 0%
 
 ## 创建片段 {#create-fragments}
 
-1. 要创建新的可视片段，请单击片段列表页面右上角的&#x200B;**[!UICONTROL 创建片段]**。
+1. 要创建新的可视片段，请单击片段列表页面右上角的&#x200B;**[!UICONTROL Create fragment]**。
 
    ![创建片段按钮](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-1. 为您的片段提供&#x200B;**[!UICONTROL 名称]**&#x200B;和可选的&#x200B;**[!UICONTROL 描述]**。
+1. 为片段提供&#x200B;**[!UICONTROL Name]**&#x200B;和可选的&#x200B;**[!UICONTROL Description]**。
 
    _片段要求_
 
@@ -106,7 +110,7 @@ ht-degree: 0%
 
    ![创建片段模式](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
-1. 单击&#x200B;**[!UICONTROL 创建]**。
+1. 单击 **[!UICONTROL Create]**。
 
    ![创建片段模式](assets/create-fragments-3.png){width="400" zoomable="yes"}
 
@@ -118,9 +122,9 @@ ht-degree: 0%
 
 1. 使用[内容设计工具](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}创建可视片段内容。
 
-1. 随时单击&#x200B;**[!UICONTROL 保存]**&#x200B;以保存草稿片段。
+1. 随时单击&#x200B;**[!UICONTROL Save]**&#x200B;以保存草稿片段。
 
-1. 准备好在电子邮件或电子邮件模板中使用片段时，单击&#x200B;**[!UICONTROL 发布]**。
+1. 当您准备好使片段可用于电子邮件或电子邮件模板时，请单击&#x200B;**[!UICONTROL Publish]**。
 
 ## 查看片段详细信息 {#view-fragment-details}
 
@@ -132,13 +136,13 @@ ht-degree: 0%
 
 ![查看已发布片段的详细信息](assets/view-fragment-details-1.png){width="600" zoomable="yes"}
 
-单击&#x200B;**[!UICONTROL 编辑片段]**&#x200B;以在可视内容编辑器中打开该片段。
+单击&#x200B;**[!UICONTROL Edit fragment]**&#x200B;以在可视内容编辑器中打开片段。
 
 单击左上角的&#x200B;_返回_&#x200B;箭头可随时退出视图，该箭头将返回到&#x200B;_片段_&#x200B;列表页面。
 
 ## 引用使用的视图片段 {#view-fragment-used-by-references}
 
-在片段详细信息页面中，单击&#x200B;**[!UICONTROL 使用者]**&#x200B;选项卡以查看片段在Marketo Engage中使用位置的详细信息。
+在片段详细信息页面中，单击&#x200B;**[!UICONTROL Used By]**&#x200B;选项卡以查看有关在Marketo Engage中使用片段的位置的详细信息。
 
 >[!IMPORTANT]
 >
@@ -154,10 +158,10 @@ ht-degree: 0%
 
 您可以使用以下任一方法删除片段：
 
-* 从右侧的片段详细信息中，单击&#x200B;**[!UICONTROL 删除]**。
-* 从&#x200B;_[!UICONTROL 片段]_&#x200B;列表页面，单击片段旁边的省略号并选择&#x200B;**[!UICONTROL 删除]**。
+* 从右侧的片段详细信息中，单击&#x200B;**[!UICONTROL Delete]**。
+* 从&#x200B;_[!UICONTROL Fragments]_列表页面，单击片段旁边的省略号并选择&#x200B;**[!UICONTROL Delete]**。
 
-此操作将打开确认对话框。 您可以通过单击&#x200B;**[!UICONTROL 取消]**&#x200B;或单击&#x200B;**[!UICONTROL 删除]**&#x200B;确认删除来中止该进程。
+此操作将打开确认对话框。 您可以通过单击&#x200B;**[!UICONTROL Cancel]**&#x200B;或单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认删除来中止该进程。
 
 ![删除片段对话框](assets/fragment-delete-dialog.png){width="400"}
 
@@ -173,7 +177,7 @@ ht-degree: 0%
 
 >[!TAB 草稿]
 
-1. 从&#x200B;_[!UICONTROL 片段]_&#x200B;列表页面，单击片段名称以将其打开。
+1. 从&#x200B;_[!UICONTROL Fragments]_列表页面中，单击片段名称以将其打开。
 
    随后将显示可视内容的预览，其中片段详细信息位于右侧。
 
@@ -181,15 +185,15 @@ ht-degree: 0%
 
    ![具有草稿状态的片段的详细信息](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. 要对可视设计器中的内容进行更改，请单击&#x200B;**[!UICONTROL 编辑片段]**。 完成后单击&#x200B;**保存**。
+1. 要对可视设计器中的内容进行更改，请单击&#x200B;**[!UICONTROL Edit fragment]**。 完成后单击&#x200B;**保存**。
 
-1. 单击&#x200B;**[!UICONTROL 保存]**，或单击&#x200B;**[!UICONTROL 保存并关闭]**&#x200B;以返回片段详细信息。
+1. 单击&#x200B;**[!UICONTROL Save]**&#x200B;或&#x200B;**[!UICONTROL Save & close]**&#x200B;以返回片段详细信息。
 
-1. 如果要使片段可用于电子邮件或电子邮件模板，请单击&#x200B;**[!UICONTROL 发布]**。
+1. 如果要使片段可在电子邮件或电子邮件模板中使用，请单击&#x200B;**[!UICONTROL Publish]**。
 
 >[!TAB 已发布]
 
-1. 从&#x200B;_[!UICONTROL 片段]_&#x200B;列表页面，单击片段名称以将其打开。
+1. 从&#x200B;_[!UICONTROL Fragments]_列表页面中，单击片段名称以将其打开。
 
    随后将显示可视内容的预览，其中片段详细信息位于右侧。
 
@@ -197,15 +201,15 @@ ht-degree: 0%
 
    对于已发布的片段，无法更改所有其他详细信息。
 
-1. 如果要更新内容，请单击右上方的&#x200B;**[!UICONTROL 创建草稿版本]**。
+1. 如果要更新内容，请单击右上方的&#x200B;**[!UICONTROL Create draft version]**。
 
-   在对话框中单击&#x200B;**[!UICONTROL 确定]**&#x200B;以在可视设计器中打开草稿版本。 您可以根据需要更改`image source`公斤 — 链接此处。
+   在对话框中单击&#x200B;**[!UICONTROL OK]**&#x200B;以在可视设计器中打开草稿版本。 您可以根据需要更改`image source`公斤 — 链接此处。
 
    ![创建草稿版本对话框](assets/fragments-create-draft-version.png){width="300"}
 
-1. 单击&#x200B;**[!UICONTROL 保存]**，或单击&#x200B;**[!UICONTROL 保存并关闭]**&#x200B;以返回片段详细信息。
+1. 单击&#x200B;**[!UICONTROL Save]**&#x200B;或&#x200B;**[!UICONTROL Save & close]**&#x200B;以返回片段详细信息。
 
-1. 如果要使片段可用于电子邮件或电子邮件模板，请单击&#x200B;**[!UICONTROL 发布]**。
+1. 如果要使片段可在电子邮件或电子邮件模板中使用，请单击&#x200B;**[!UICONTROL Publish]**。
 
 >[!NOTE]
 >
@@ -213,23 +217,23 @@ ht-degree: 0%
 
 >[!TAB 已发布草稿]
 
-有两种方法可以打开草稿版本以从&#x200B;_[!UICONTROL 片段]_&#x200B;列表页面进行编辑：
+有两种方法可以打开草稿版本以便从&#x200B;_[!UICONTROL Fragments]_列表页面进行编辑：
 
-* 单击片段名称旁边的&#x200B;_更多_&#x200B;图标(**...**)，然后选择&#x200B;**[!UICONTROL 打开草稿版本]**。
+* 单击片段名称旁边的&#x200B;_更多_&#x200B;图标(**...**)，然后选择&#x200B;**[!UICONTROL Open draft version]**。
 
   ![打开草稿版本](assets/fragments-create-draft-version.png){width="300"}
 
-* 单击片段名称以将其打开。 然后，单击右上方的&#x200B;**[!UICONTROL 打开草稿版本]**。
+* 单击片段名称以将其打开。 然后，单击右上方的&#x200B;**[!UICONTROL Open draft version]**。
 
 将显示草稿版本的可视内容预览，其中片段详细信息位于右侧。
 
 要更新内容，请执行以下操作：
 
-1. 单击右上方的&#x200B;**[!UICONTROL 编辑片段]**。 完成后单击&#x200B;**保存**。
+1. 单击右上方的&#x200B;**[!UICONTROL Edit fragment]**。 完成后单击&#x200B;**保存**。
 
-1. 单击&#x200B;**[!UICONTROL 保存]**，或单击&#x200B;**[!UICONTROL 保存并关闭]**&#x200B;以返回片段详细信息。
+1. 单击&#x200B;**[!UICONTROL Save]**&#x200B;或&#x200B;**[!UICONTROL Save & close]**&#x200B;以返回片段详细信息。
 
-1. 如果要使片段可用于电子邮件或电子邮件模板，请单击&#x200B;**[!UICONTROL 发布]**。
+1. 如果要使片段可在电子邮件或电子邮件模板中使用，请单击&#x200B;**[!UICONTROL Publish]**。
 
 >[!NOTE]
 >
@@ -241,12 +245,12 @@ ht-degree: 0%
 
 您可以使用以下任一方法复制片段：
 
-* 从&#x200B;_[!UICONTROL 片段]_&#x200B;列表页面，单击片段名称旁边的&#x200B;_更多_&#x200B;图标(**...**)，然后选择&#x200B;**[!UICONTROL 复制]**。
-* 在片段详细信息页面的右上方，单击&#x200B;**[!UICONTROL ...更多]**&#x200B;并选择&#x200B;**[!UICONTROL 复制]**。
+* 从&#x200B;_[!UICONTROL Fragments]_列表页面，单击片段名称旁边的_&#x200B;更多&#x200B;_图标(**...**)，然后选择&#x200B;**[!UICONTROL Duplicate]**。
+* 在片段详细信息页面的右上方，单击&#x200B;**[!UICONTROL ... More]**&#x200B;并选择&#x200B;**[!UICONTROL Duplicate]**。
 
 ![复制片段](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-在对话框中，输入唯一名称和可选描述。 单击&#x200B;**[!UICONTROL 复制]**。
+在对话框中，输入唯一名称和可选描述。 单击 **[!UICONTROL Duplicate]**。
 
 ![输入复制的片段的名称和描述](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -256,7 +260,7 @@ ht-degree: 0%
 
 在可视内容编辑器中创建/编辑电子邮件或电子邮件模板时，可以将所有或部分内容另存为片段以供重用。
 
-1. 要将内容另存为片段，请单击&#x200B;**[!UICONTROL 更多]**，然后选择&#x200B;**[!UICONTROL 另存为片段]**。
+1. 要将内容另存为片段，请单击&#x200B;**[!UICONTROL More]**&#x200B;并选择&#x200B;**[!UICONTROL Save as Fragment]**。
 
 1. 选择要包含在片段中的不同元素。
 
@@ -264,9 +268,9 @@ ht-degree: 0%
 
    只能选取彼此相邻的结构。
 
-1. 选择内容后，单击右上方的&#x200B;**[!UICONTROL 创建]**。
+1. 选定内容后，单击右上方的&#x200B;**[!UICONTROL Create]**。
 
-1. 在对话框中，输入片段的名称和可选描述，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 在对话框中，输入片段的名称和可选描述，然后单击&#x200B;**[!UICONTROL Create]**。
 
 然后，片段将显示在&#x200B;_片段_&#x200B;列表页面中，并可用于电子邮件和电子邮件模板。
 
@@ -282,19 +286,19 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果希望片段占据电子邮件中的整个水平布局，请添加[!UICONTROL 1:1列]结构，然后将片段拖放到其中。
+>如果希望片段占据电子邮件中的整个水平布局，请添加[!UICONTROL 1:1 column]结构，然后将片段拖放到其中。
 
-保存电子邮件/电子邮件模板后，在选择&#x200B;_[!UICONTROL 使用者]_&#x200B;选项卡时，该模板会显示在片段详细信息页面中。 添加的片段在电子邮件或模板中不可编辑 — 发布的源片段定义内容。
+保存电子邮件/电子邮件模板后，在选择&#x200B;_[!UICONTROL Used By]_选项卡时，该模板会显示在片段详细信息页面中。 添加的片段在电子邮件或模板中不可编辑 — 发布的源片段定义内容。
 
 ## 电子邮件和模板创作期间的片段操作 {#fragment-actions-during-email-and-template-authoring}
 
 将片段添加到电子邮件或电子邮件模板时，无法在电子邮件或模板中编辑其内容。 但是，您可以应用以下操作：
 
-* **[!UICONTROL 删除]** — 这将从当前电子邮件或电子邮件模板内容中删除片段（片段源不受影响）。
-* **[!UICONTROL 刷新]** — 这将刷新当前电子邮件或电子邮件模板中片段的内容。 当您想要反映在添加到电子邮件或电子邮件模板之后对片段进行的任何最近编辑时，刷新很有用。
-* **[!UICONTROL 重复]** — 这会在编辑器的同一电子邮件或电子邮件模板中复制片段。 复制的片段将添加到原始片段的正下方。
-* **[!UICONTROL 打开片段]** — 这将打开一个新的浏览器选项卡，其中包含片段编辑器页面和详细信息。
-* **[!UICONTROL 中断继承]** — 这将中断片段从源的继承（及其更改）。 使用此操作可以在电子邮件或电子邮件模板中作为独立的可编辑内容使用片段内容。 此操作还会从原始片段的&#x200B;_Used By_&#x200B;引用中删除电子邮件或电子邮件模板。
+* **[!UICONTROL Delete]** — 这将从当前电子邮件或电子邮件模板内容中删除片段（片段源不受影响）。
+* **[!UICONTROL Refresh]** — 这将刷新当前电子邮件或电子邮件模板中片段的内容。 当您想要反映在添加到电子邮件或电子邮件模板之后对片段进行的任何最近编辑时，刷新很有用。
+* **[!UICONTROL Duplicate]** — 这会在编辑器的同一电子邮件或电子邮件模板中复制片段。 复制的片段将添加到原始片段的正下方。
+* **[!UICONTROL Open Fragment]** — 这将打开一个新的浏览器选项卡，其中包含片段编辑器页面和详细信息。
+* **[!UICONTROL Break inheritance]** — 这将中断来自源的片段（及其更改）继承。 使用此操作可以在电子邮件或电子邮件模板中作为独立的可编辑内容使用片段内容。 此操作还会从原始片段的&#x200B;_Used By_&#x200B;引用中删除电子邮件或电子邮件模板。
 
 在编辑器页面上选择片段时，可以从右侧的上下文工具栏和属性面板中执行这些操作。
 
