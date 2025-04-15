@@ -3,26 +3,26 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 3%
+source-wordcount: '474'
+ht-degree: 4%
 
 ---
 
 # 发行说明：2025年3月 {#release-notes-mar-25}
 
-您将在下方找到2025年3月版中包含的所有功能。 检查您的Adobe Marketo Engage版本是否提供了相关功能。
+在下方，您会找到2025年3月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
 
-可在此处](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到专门用于Adobe Dynamic Chat[的发行说明。
+可以在此处](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到特定于Adobe Dynamic Chat [的发行说明。
 
 >[!AVAILABILITY]
 >
->以星形（![星形](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解详情。
+>以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
 ## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2025年3月28日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发布功能和日期可能会发生变化。 请检查每个功能旁边的状态信息。
+以下功能属于标准发行周期，将于&#x200B;**2025年3月28日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,8 +32,8 @@ ht-degree: 3%
    <th style="width:25%">文档</th>
   </tr>
     <tr> 
-   <td><strong>所有程序都提供电子邮件Designer</strong>：现在，可以在参与、默认和活动程序中访问新电子邮件Designer电子邮件（交互式网络研讨会程序是唯一例外）。 以前，它们只在电子邮件程序中可用。 在此更新中，克隆功能也将可用。</td>
-   <td>已装运</td>
+   <td><strong>所有程序中都有Email Designer</strong>：现在可在“参与”、“默认”和“事件”程序中访问新的Email Designer电子邮件（交互式网络研讨会程序除外）。 以前，它们仅在电子邮件程序中可用。 通过此更新，克隆功能也将可用。</td>
+   <td>已发货</td>
    <td>不适用</td>
   </tr>
   <tr> 
@@ -52,27 +52,17 @@ ht-degree: 3%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>全局和工作区我的令牌</strong>：在工作区和全局级别配置我的令牌，以提高工作效率并控制整个Marketo Engage工作区乃至整个实例的品牌和营销资料。</td> 
+   <td><strong>全局和Workspace我的令牌</strong>：在工作区和全球级别配置我的令牌，以便提高生产效率，更好地控制Marketo Engage工作区乃至整个实例中的品牌和营销宣传资料。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td>任何触发器属性的<strong>令牌</strong>：仅从<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank">此文档</a>中的列表扩展可用触发器令牌列表，以支持使用来自营销活动流字段中任何触发活动属性的数据。 将活动属性中的数据打印到“有趣的时刻”中，或将自定义活动中商机的最新交易ID设置为商机字段。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
- </tbody> 
+  </tbody> 
 </table>
 <br/>
 
 ## 公告 {#announcements}
 
-* **弃用社交功能**：2024年7月31日星期三，Marketo Engage开始弃用产品中的以下社交功能：
+* **弃用社交功能**：在2024年7月31日星期三，Marketo Engage开始弃用产品中的以下社交功能：
 
    * 投票
    * 社交按钮
@@ -86,6 +76,6 @@ ht-degree: 3%
 
 * **SOAP API弃用**：对Marketo SOAP API的支持将于2025年10月31日终止。 使用SOAP API功能的服务应迁移到[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
-* **新Analytics功能 — 公共Beta**：[高级BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}(以前称为Revenue Explorer和Advanced Report Builder)在4月中旬开始向所有当前Revenue Cycle Explorer用户推出。 此新工具提供了有关Marketo Engage数据的灵活报表和可视化界面，提供了有关进度、性能等内容的精细详细信息。 它具备更丰富的交互和可视化、更快的性能以及更无缝且直观的用户体验。
+* **新Analytics功能 — 公共Beta**：[高级BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}(以前称为Revenue Explorer和Advanced Report Builder)在4月中旬开始向所有当前Revenue Cycle Explorer用户推出。 此新工具提供了有关Marketo Engage数据的灵活报表和可视化界面，提供了有关进度、性能等内容的精细详细信息。 它具有更丰富的交互性和可视化功能、更快的性能以及更顺畅和直观的用户体验。
 
-要访问此功能，您必须已购买高级BI Analytics插件。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+要访问此功能，您必须已购买高级BI Analytics加载项。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
