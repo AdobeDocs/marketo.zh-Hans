@@ -4,10 +4,10 @@ description: 了解项目中的本地Assets - Marketo文档 — 产品文档
 title: 了解项目中的本地Assets
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 5%
 
 ---
 
@@ -19,21 +19,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->并非每个人都有权访问每个可用资源。 请联系Adobe客户团队（您的客户经理）以了解更多信息。
+>并非每个人都有权访问每个可用资源。 联系Adobe客户团队（您的客户经理）以了解更多信息。
 
 * [智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}
 * [列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md){target="_blank"}
 * [智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
-* [报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
-* [电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}
+* [报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+* [电子邮件计划](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}
 * [电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md){target="_blank"}
 * [推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}
 * [登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
-* [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
+* [表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
 * [测试组](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
-* [社交按钮](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
-* [Youtube视频](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
-* [轮询](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
-* [推荐选件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
-* [抽奖](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
 * [Vibes SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}

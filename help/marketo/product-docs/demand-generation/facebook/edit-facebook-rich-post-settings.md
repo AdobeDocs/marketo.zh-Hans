@@ -3,8 +3,10 @@ unique-page-id: 2950555
 description: 编辑Facebook富帖子设置 — Marketo文档 — 产品文档
 title: 编辑Facebook富帖子设置
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+hide: true
+hidefromtoc: true
 feature: Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -13,13 +15,13 @@ ht-degree: 0%
 
 # 编辑Facebook富帖子设置 {#edit-facebook-rich-post-settings}
 
-自定义用户在Facebook上共享您的帖子。
+当有人在Facebook上共享您时，自定义帖子。
 
 >[!AVAILABILITY]
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)允许您的潜在客户与其在Facebook、Twitter等社交网络上的连接共享您的登陆页面。 facebook OpenGraph标记（OG标记）允许您指定登陆页面中的哪些信息包含在Facebook帖子中。
+Marketo _社交应用程序_&#x200B;允许您的潜在客户与其在Facebook、Twitter等社交网络上的连接共享您的登陆页面。 Facebook OpenGraph标记（OG标记）允许您指定将登陆页面中的哪些信息包含在Facebook帖子中。
 
 ## 选择富发布选项 {#select-rich-post-options}
 
@@ -41,15 +43,15 @@ Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social
 
    >[!NOTE]
    >
-   >这些标签应已存在于页面源中，但为了更好地控制，您可以向登陆页面添加特定的Facebook OG标签。
+   >这些标签应该已存在于页面源中，但为了更好地控制，您可以向登陆页面添加特定的Facebook OG标签。
 
-   * 请勿添加丰富的内容：将登陆页面中的Facebook帖子限制为仅添加主消息和链接。
+   * 请勿添加丰富的内容：将Facebook登陆页面中的帖子限制为仅添加主消息和链接。
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## 将Facebook OG标记添加到登陆页面 {#add-facebook-og-tags-to-a-landing-page}
 
-要通过登陆页控制将包含在Facebook共享中的页面元素，您可以向登陆页添加标题、描述和描述的Facebook OG（开放图形）标记。
+要控制将从登陆页面包含在Facebook共享中的页面元素，您可以向登陆页面添加用于标题、描述和描述的Facebook OG （开放图形）标记。
 
 1. 打开包含您的&#x200B;**YouTube视频**&#x200B;或社交按钮的登陆页面。
 
@@ -73,4 +75,4 @@ Marketo [社交应用程序](/help/marketo/product-docs/demand-generation/social
 
 >[!NOTE]
 >
->在添加OGHTML时，请务必注意使用正确的标记语法。
+>在添加OG标记时，请注意使用正确的HTML语法。

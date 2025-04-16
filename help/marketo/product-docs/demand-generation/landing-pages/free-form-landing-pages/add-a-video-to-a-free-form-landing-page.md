@@ -3,8 +3,10 @@ unique-page-id: 2359722
 description: 将视频添加到自由格式登陆页面 — Marketo文档 — 产品文档
 title: 将视频添加到自由格式登陆页面
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+hide: true
+hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -43,8 +45,8 @@ ht-degree: 0%
 >
 >为了节省时间，您可以使用&#x200B;**从**&#x200B;克隆选项从现有视频共享复制所有设置。
 
-恭喜！您已将视频共享添加到自由格式登陆页面。 批准登陆页面，并且您的视频共享已上线。 您还可以[将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或[将视频共享放在您的网站上](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
+恭喜！您已将视频共享添加到自由格式登陆页面。 批准登陆页面，并且您的视频共享已上线。 您还可以[将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或&#x200B;_将视频共享放在您的网站上_。
 
 >[!MORELIKETHIS]
 >
->已完成，但您可以根据需要更改视频共享的设置。 从[自定义共享流](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)开始（共享提示打开的时间和位置）。
+>已完成，但您可以根据需要更改视频共享的设置。 从&#x200B;_自定义共享流_&#x200B;开始（共享提示打开的时间和位置）。

@@ -3,11 +3,13 @@ unique-page-id: 2359616
 description: 启用社交表单填写表单 — Marketo文档 — 产品文档
 title: 启用社交表单填写表单
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
+hide: true
+hidefromtoc: true
 feature: Forms
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,7 +39,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果人们使用社交按钮，请查看Marketo将捕获哪些[数据](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)。
+   >如果人们使用社交按钮，请查看Marketo将捕获哪些&#x200B;_数据_。
 
 1. 单击&#x200B;**完成**。
 
