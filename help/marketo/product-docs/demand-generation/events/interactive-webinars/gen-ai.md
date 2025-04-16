@@ -3,9 +3,9 @@ description: GenAI功能 — Marketo文档 — 产品文档
 title: GenAI功能
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: a4db7dbc6d62edd3d2efdba08c402d762fdaf921
+source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,22 @@ ht-degree: 0%
 ### 章节 {#chapters}
 
 **复制HTML** — 单击“**[!UICONTROL Copy HTML]**”按钮，在视频播放器中格式化所有录制及其章节。
+
+## 定位受众
+
+利用Smart Campaign/List过滤器和/或触发器查看每个查看者观看了哪些内容，观看了多少次等，从而实现个性化的跟进。
+
+![](assets/gen-ai-features-4.png){width="800" zoomable="yes"}
+
+* **触发器**： _点击网页上的链接_，_访问网页_
+
+* **筛选器**：_已点击网页上的链接_，_已访问网页_
+
+“链接”是章节的名称，“网页”是承办On Demand网络研讨会的页面。
+
+>[!TIP]
+>
+>使用[约束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}进一步优化目标受众。
 
 ## 注意事项 {#things-to-note}
 
