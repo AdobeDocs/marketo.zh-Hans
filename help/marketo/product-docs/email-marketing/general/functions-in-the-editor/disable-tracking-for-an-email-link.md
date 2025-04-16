@@ -4,9 +4,9 @@ description: 禁用电子邮件链接的跟踪 — Marketo文档 — 产品文�
 title: 禁用电子邮件链接的跟踪
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -45,10 +45,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
-   >[!TIP]
+   >[!CAUTION]
    >
-   >想要禁用电子邮件&#x200B;**模板**中链接的点击跟踪？ 使用此格式：
-   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
-   >如果您需要实施此功能的帮助，请咨询您的Web开发人员。
-
-太好了！ 您现在已禁用对链接的跟踪。
+   >如果要禁用电子邮件模板中链接或电子邮件的[文本版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"}的点击跟踪，请在字符串的&#x200B;*开头*&#x200B;处添加`mktNoTrack`，而不是在结尾处添加，如以下示例所示：`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`。 否则，可能会导致链接消失。 如果您需要有关实施上述代码的帮助，请咨询您的Web开发人员。
