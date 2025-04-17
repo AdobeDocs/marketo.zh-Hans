@@ -3,7 +3,7 @@ description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->对于Dynamic ChatSelect程序包上的用户，实时聊天是一项试用功能，其生命周期限制为100次参与。 当达到此限制时，任何请求与实时代理进行聊天的访客都不会连接，而是会收到全局回退消息。 要提高限制，请联系您的Adobe客户代表以讨论包升级选项。
+>对于Dynamic Chat Select程序包上的用户，实时聊天是一项试用功能，其生命周期限制为100次参与。 当达到此限制时，任何请求与实时代理进行聊天的访客都不会连接，而是会收到全局回退消息。 要增加限制，请联系您的Adobe客户代表以讨论包升级选项。
 
 ## 添加实时聊天代理 {#add-live-chat-agents}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->实时座席头像使用座席的Adobe帐户个人资料中的个人资料图片。 要更新图像，请执行[这些步骤](https://helpx.adobe.com/cn/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}。
+>实时座席头像使用来自座席的Adobe帐户个人资料的个人资料图片。 要更新图像，请执行[这些步骤](https://helpx.adobe.com/cn/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}。
 
 ## 使用实时聊天卡 {#using-the-live-chat-card}
 
@@ -100,7 +100,7 @@ Mac的[步骤](https://support.apple.com/guide/mac-help/change-notifications-set
 
 >[!TIP]
 >
->您还可以选择设置浏览器通知，如果您未登录Dynamic Chat，通知会提醒您。
+>您还可以选择设置浏览器通知，以在您未登录Dynamic Chat时提醒您。
 >
 >* 在[Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}中启用浏览器通知
 >* 在[Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}中启用浏览器通知
@@ -113,7 +113,7 @@ Mac的[步骤](https://support.apple.com/guide/mac-help/change-notifications-set
 
 ### 注意事项 {#things-to-note}
 
-* 在“接受聊天”消息超时之前，工程师有45秒的时间进行响应。 之后，访客将收到[回退消息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}。 对于路由选项设置为&#x200B;**团队**&#x200B;的Dynamic ChatPrime订阅者，将在显示回退消息之前再尝试一个代理。
+* 在“接受聊天”消息超时之前，工程师有100秒的时间进行响应。 之后，访客将收到[回退消息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}。 对于将路由选项设置为&#x200B;**团队**&#x200B;的Dynamic Chat Prime订阅者，将在显示回退消息之前再尝试一个代理。
 * 目前每个代理最多只能进行10次实时聊天。
 
 >[!MORELIKETHIS]
