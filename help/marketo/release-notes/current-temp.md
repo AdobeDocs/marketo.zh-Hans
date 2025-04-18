@@ -4,9 +4,9 @@ title: 最新发行说明
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '429'
 ht-degree: 4%
 
 ---
@@ -43,17 +43,7 @@ ht-degree: 4%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>标题</strong>：文本。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>标题</strong>：文本。</td> 
+   <td><strong>安全套接字层(SSL)自助服务</strong>： SSL加密允许您使Marketo Engage实例的登录页安全。 启用此功能过去需要Adobe支持团队的帮助。 Marketo用户现在可以自行启用该功能，从而节省宝贵的时间。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
