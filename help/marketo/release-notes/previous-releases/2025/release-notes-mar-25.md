@@ -2,10 +2,11 @@
 description: 发行说明 — 2025年3月 — Marketo文档 — 产品文档
 title: 发行说明 - 2025 年 3 月
 feature: Release Information
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
+source-git-commit: 0fa36f119e26b7bc1882a2ed1f73d71e6af42c5f
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 4%
+source-wordcount: '478'
+ht-degree: 3%
 
 ---
 
@@ -53,7 +54,7 @@ ht-degree: 4%
   <tr> 
    <td><strong>全局和Workspace我的令牌</strong>：在工作区和全球级别配置我的令牌，以便提高生产效率，更好地控制Marketo Engage工作区乃至整个实例中的品牌和营销宣传资料。</td> 
    <td>已发货</td>
-   <td>不适用</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">创建全局我的令牌</a></td>
   </tr>
   </tbody> 
 </table>

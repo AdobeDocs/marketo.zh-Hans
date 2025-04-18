@@ -4,10 +4,10 @@ description: 了解项目中的我的令牌 — Marketo文档 — 产品文档
 title: 了解项目中的我的令牌
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 0%
+source-wordcount: '417'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 我的令牌  {#my-tokens}
 
-我的令牌是任何人都可以创建的自定义变量。 它们是在Campaign文件夹或程序中[创建的](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}。
+我的令牌是任何人都可以创建的自定义变量。 在本地，它们是在campaign文件夹或程序中[创建的](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}。
 
 我的令牌显示如下： `{{my.Name Of Token}}`
 
@@ -61,12 +61,12 @@ ht-degree: 0%
    <td>在<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">更改得分流步骤</a>中使用此令牌。 </td> 
   </tr> 
   <tr> 
-   <td colspan="1">SFDC营销活动 <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
+   <td colspan="1">SFDC Campaign <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
    <td colspan="1">使用此令牌可允许将成为Marketo项目一部分的潜在客户也添加到任何已添加的SFDC Campaign中。</td> 
   </tr> 
   <tr> 
    <td>文本 <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>只是一些文字。 在HTML过度使用时使用它。 文本令牌的大小限制为524,288个字符(UTF-8)或2 MB。</td> 
+   <td>只是一些文字。 在HTML处理过度时使用。 文本令牌的大小限制为524,288个字符(UTF-8)或2 MB。</td> 
   </tr> 
  </tbody> 
 </table>

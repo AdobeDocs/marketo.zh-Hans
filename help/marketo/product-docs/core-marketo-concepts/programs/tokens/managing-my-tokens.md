@@ -4,66 +4,90 @@ description: 管理我的令牌 — Marketo文档 — 产品文档
 title: 管理我的令牌
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 2%
+source-wordcount: '197'
+ht-degree: 1%
 
 ---
 
 # 管理我的令牌 {#managing-my-tokens}
 
-使用令牌可以简化您在Marketo中的工作。 您可以在流程步骤、Webhook、电子邮件和登陆页面中使用[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}（自定义令牌）。 这是如何制作它们。
+使用令牌可以简化您在Marketo Engage中的工作。 您可以在流程步骤、Webhook、电子邮件和登陆页面中使用[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}（自定义令牌）。 这是如何制作它们。
 
 >[!TIP]
 >
 >进一步了解[令牌概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}中已提供哪些令牌。
 
-## 创建我的令牌 {#create-a-my-token}
+## 创建本地或全局我的令牌 {#create-a-my-token}
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+>[!BEGINTABS]
 
-   ![](assets/login-marketing-activities.png)
+>[!TAB 本地My令牌]
 
-1. 选择项目或营销策划文件夹。 单击&#x200B;**[!UICONTROL 我的令牌]**。
+1. 在&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;中，选择所需的项目或营销策划文件夹，然后单击其&#x200B;**[!UICONTROL My Tokens]**&#x200B;选项卡。
 
-   ![](assets/image2014-9-18-12-3a4-3a27.png)
+   ![](assets/create-a-local-my-token-1.png)
 
-1. 选择&#x200B;**[!UICONTROL 我的令牌]**&#x200B;类型。 将其拖放到画布上。
+1. 将所需的“我的令牌”拖动到画布上。
 
-   ![](assets/image2014-9-18-12-3a4-3a39.png)
+   ![](assets/create-a-local-my-token-2.png)
 
-1. 键入唯一的名称。 为令牌输入相关值。
+1. 键入唯一名称并输入相关值。
 
-   ![](assets/image2014-9-18-12-3a4-3a53.png)
+   ![](assets/create-a-local-my-token-3.png)
 
-1. 单击&#x200B;**[!UICONTROL 保存]**。
+1. 单击 **[!UICONTROL Save]**。
 
-   ![](assets/image2014-9-18-12-3a5-3a5.png)
+   ![](assets/create-a-local-my-token-4.png)
 
-   好耶！ 你做了我的令牌。
+>[!TAB 全局我的令牌]
 
-   ![](assets/image2014-9-18-12-3a5-3a15.png)
+>[!NOTE]
+>
+>需要管理员权限。
+
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域并选择&#x200B;**[!UICONTROL My Tokens]**。
+
+   ![](assets/create-a-global-my-token-1.png)
+
+1. 将所需的“我的令牌”拖动到画布上。
+
+   ![](assets/create-a-global-my-token-2.png)
+
+1. 键入唯一名称并输入相关值。
+
+   ![](assets/create-a-global-my-token-3.png)
+
+1. 单击 **[!UICONTROL Save]**。
+
+   ![](assets/create-a-global-my-token-4.png)
+
+>[!ENDTABS]
 
 ## 编辑我的令牌 {#edit-a-my-token}
 
-1. 双击&#x200B;**[!UICONTROL 我的令牌]**&#x200B;并进行更改。 单击&#x200B;**保存**。
+1. 选择要编辑的令牌并单击&#x200B;**[!UICONTROL Edit Token]**。
 
-   ![](assets/image2014-9-18-12-3a5-3a45.png)
+   ![](assets/edit-a-my-token-1.png)
+
+1. 进行所需的编辑。 完成后单击&#x200B;**[!UICONTROL Save]**。
+
+   ![](assets/edit-a-my-token-2.png)
 
 ## 删除我的令牌 {#delete-a-my-token}
 
 >[!CAUTION]
 >
->删除“我的令牌”时，请确保您未在任何资产中引用该令牌。 如果删除，则被引用的任何位置将显示一个空格。
+>删除“我的令牌”时，请确保该令牌当前未在任何资产中引用。 如果删除，则被引用的任何位置将显示一个空格。
 
-1. 右键单击&#x200B;**[!UICONTROL 我的令牌]**。 选择&#x200B;**[!UICONTROL 删除令牌]**。
+1. 选择要删除的令牌并单击&#x200B;**[!UICONTROL Delete Token]**。
 
-   ![](assets/image2014-9-18-12-3a7-3a24.png)
+   ![](assets/delete-a-my-token-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 删除]**。
+1. 单击 **[!UICONTROL Delete]**。
 
-   ![](assets/image2014-9-18-12-3a7-3a31.png)
+   ![](assets/delete-a-my-token-2.png)
 
    >[!MORELIKETHIS]
    >
