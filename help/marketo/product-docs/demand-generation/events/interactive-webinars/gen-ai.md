@@ -3,7 +3,7 @@ description: GenAI功能 — Marketo文档 — 产品文档
 title: GenAI功能
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 1. 进行按需网络研讨会后，等待30到60分钟，让AI处理您的录制。 当“生成”按钮可用时，该按钮将变为可单击状态。
 
-1. 单击 **[!UICONTROL Generate]**。
+1. 单击 **[!UICONTROL View GenAI Content]**。
 
    ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
