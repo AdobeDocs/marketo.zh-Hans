@@ -2,12 +2,10 @@
 description: Demandbase - Marketo文档 — 产品文档
 title: Demandbase
 feature: Dynamic Chat
-hide: true
-hidefromtoc: true
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -33,6 +31,8 @@ Demandbase用户可以使用Demandbase人员属性在Dynamic Chat中进行对话
 1. 单击&#x200B;**创建**。
 
 1. 使用&#x200B;_复制_&#x200B;图标，复制页面底部的API令牌字符串。
+
+1. 提交具有[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)的票证，并提供API令牌字符串以激活Demandbase集成。
 
 >[!NOTE]
 >
