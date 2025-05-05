@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 将报表克隆到组报表 {#clone-a-report-to-group-reports}
 
-**我的报表**中的任何报表仅对您可见。 如果您希望让所有其他用户均可访问报表，该怎么办？ 以下是具体操作方法：
+**我的报表**&#x200B;中的任何报表仅对您可见。 如果您希望让所有其他用户均可访问报表，该怎么办？ 以下是具体操作方法：
 
 1. 在&#x200B;**Analytics**&#x200B;区域中，单击所需的[保存的报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)。
 

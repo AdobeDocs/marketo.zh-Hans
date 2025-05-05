@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >了解有关流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的[令牌的更多信息。
+   >了解有关流程步骤[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的令牌的更多信息。
 
 1. 现在，您可以在电子邮件中添加公式字段作为令牌。
 

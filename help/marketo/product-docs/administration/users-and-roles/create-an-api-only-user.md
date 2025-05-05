@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->如果您在预订中创建API Only用户，而该预订已登记到Adobe标识，则您的步骤不尽相同，您可在此处](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}找到[。
+>如果您在预订中创建API Only用户，而该预订已登记到Adobe标识，则您的步骤不尽相同，您可在此处[&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}找到。
 
 >[!PREREQUISITES]
 >

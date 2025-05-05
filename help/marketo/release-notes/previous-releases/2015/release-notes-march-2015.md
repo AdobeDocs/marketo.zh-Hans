@@ -39,7 +39,7 @@ Revenue Explorer具有全新的外观，以及新的环状层次图类型！ 我
 
 [新资产REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-我们现在支持通过API ](https://developer.adobe.com/marketo-apis/api/asset/)创建和编辑电子邮件、模板、我的令牌、文件和代码片段[！
+我们现在支持通过API [&#128279;](https://developer.adobe.com/marketo-apis/api/asset/)创建和编辑电子邮件、模板、我的令牌、文件和代码片段！
 
 ## Microsoft Dynamics 2015内部部署 {#microsoft-dynamics-on-premise}
 

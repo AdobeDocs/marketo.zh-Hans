@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-如果任何节目未使用某个节目频道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)，您可以[删除该频道。  但是，一旦被使用，我们需要保留它。  但是，如果您不再需要它，则可以将其隐藏。
+如果任何节目未使用某个节目频道[&#128279;](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)，您可以删除该频道。  但是，一旦被使用，我们需要保留它。  但是，如果您不再需要它，则可以将其隐藏。
 
 ## 隐藏项目频道 {#hide-a-program-channel}
 

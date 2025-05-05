@@ -83,7 +83,7 @@ ht-degree: 0%
 
 “主持人和演示者区域”（也称为“后台”）是位于会议室右侧的专用区域，只有主持人和演示者才能看到。 它可用于在事件之前、期间和之后进行协作。 在主机和演示者区域内，使用聊天、备注和其他Pod作为后渠道。
 
-若要访问，请从会议室下拉菜单中选择&#x200B;**主机和演示者区域**。 观看以下视频[](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}，了解有关此区域的更多信息。
+若要访问，请从会议室下拉菜单中选择&#x200B;**主机和演示者区域**。 观看以下视频[&#128279;](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}，了解有关此区域的更多信息。
 
 ### 广播控制 {#broadcast-controls}
 
@@ -91,7 +91,7 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 可以将“广播控制”设置为在您离开绿色房间后自动开始录制。 这可确保主机不必记得手动启动和停止录制。 暂停或停止广播也会暂停或停止录制。 一切都是自动的。
 
-在此视频](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中了解有关广播控制[的更多信息。
+在此视频[&#128279;](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中了解有关广播控制的更多信息。
 
 ### 录制中的聊天 {#chats-in-recordings}
 
@@ -121,7 +121,7 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 这将关闭准备模式并返回到活动布局。
 
-在此视频](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中了解有关准备模式[的更多信息。
+在此视频[&#128279;](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中了解有关准备模式的更多信息。
 
 >[!NOTE]
 >

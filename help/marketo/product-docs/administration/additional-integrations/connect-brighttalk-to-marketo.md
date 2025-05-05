@@ -63,7 +63,7 @@ ht-degree: 1%
 
    ![](assets/connect-brighttalk-to-marketo-6.png)
 
-1. 复制（并保存）客户端ID **[!UICONTROL 和客户端密钥****。]**&#x200B;单击&#x200B;**[!UICONTROL 关闭]**。
+1. 复制（并保存）客户端ID **[!UICONTROL 和客户端密钥**&#x200B;**。]**&#x200B;单击&#x200B;**[!UICONTROL 关闭]**。
 
    ![](assets/connect-brighttalk-to-marketo-7.png)
 
@@ -71,7 +71,7 @@ ht-degree: 1%
 
    ![](assets/connect-brighttalk-to-marketo-8.png)
 
-1. 在&#x200B;**[!UICONTROL Rest API]**&#x200B;下，复制（并保存）终结点&#x200B;**[!UICONTROL 和**[!UICONTROL &#x200B;标识&#x200B;]**。]**
+1. 在&#x200B;**[!UICONTROL Rest API]**&#x200B;下，复制（并保存）终结点&#x200B;**[!UICONTROL 和**&#x200B;[!UICONTROL &#x200B;标识&#x200B;]&#x200B;**。]**
 
    ![](assets/connect-brighttalk-to-marketo-9.png)
 

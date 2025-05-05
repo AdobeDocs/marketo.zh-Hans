@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->如果您的Marketo Engage订阅已迁移到具有Adobe标识](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的[Marketo，则本文中只有[时区](#change-your-time-zone)适用于您。 要更改您的语言和/或区域设置，必须在[Adobe帐户配置文件](https://account.adobe.com/cn/profile){target="_blank"}中访问这些设置。
+>如果您的Marketo Engage订阅已迁移到具有Adobe标识[&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo，则本文中只有[时区](#change-your-time-zone)适用于您。 要更改您的语言和/或区域设置，必须在[Adobe帐户配置文件](https://account.adobe.com/cn/profile){target="_blank"}中访问这些设置。
 
 ## 支持的语言 {#supported-languages}
 

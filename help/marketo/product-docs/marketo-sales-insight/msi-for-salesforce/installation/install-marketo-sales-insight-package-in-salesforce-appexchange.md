@@ -23,13 +23,13 @@ ht-degree: 0%
 >
 >Marketo Sales Insight与Salesforce Platform (Shield)加密兼容。
 
-1. 转到Marketo Sales Insight ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)的[AppExchange页面，然后单击&#x200B;**立即获取**。
+1. 转到Marketo Sales Insight [&#128279;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)的AppExchange页面，然后单击&#x200B;**立即获取**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
 1. 单击&#x200B;**登录到AppExchange**&#x200B;按钮，然后使用您的Salesforce凭据登录。
 
-1. 输入已连接的Salesforce帐户登录，然后单击“在生产中安装”****。
+1. 输入已连接的Salesforce帐户登录，然后单击“在生产中安装”**&#x200B;**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 

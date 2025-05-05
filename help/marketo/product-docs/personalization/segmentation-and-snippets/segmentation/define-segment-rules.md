@@ -69,7 +69,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->人员可能有资格使用不同的区段，但最终仅属于一个区段，这取决于区段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)的[优先级顺序。
+>人员可能有资格使用不同的区段，但最终仅属于一个区段，这取决于区段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)的优先级顺序。
 
 >[!NOTE]
 >

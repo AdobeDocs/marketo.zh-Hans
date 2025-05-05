@@ -15,7 +15,7 @@ ht-degree: 0%
 
 要查看电子邮件使用已投放、已打开、已单击等统计信息时的性能，请创建电子邮件性能报表。
 
-1. [在程序中创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**电子邮件性能**[报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [在程序中创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**电子邮件性能**&#x200B;[报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 1. [更改报表时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)并单击&#x200B;**报表**&#x200B;选项卡。
 1. 你在那儿！ 现在，浏览报表以查看电子邮件的执行情况。
 

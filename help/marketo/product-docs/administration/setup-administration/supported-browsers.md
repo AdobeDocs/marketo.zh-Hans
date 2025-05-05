@@ -25,6 +25,6 @@ Marketo当前支持以下浏览器：
 
 >[!NOTE]
 >
->对于已迁移到具有Adobe标识](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的[Marketo的用户，Mac和Windows均支持所有浏览器，但Strict模式下的Microsoft Edge除外。
+>对于已迁移到具有Adobe标识[&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo的用户，Mac和Windows均支持所有浏览器，但Strict模式下的Microsoft Edge除外。
 
 为获得最佳体验，**保持浏览器更新**！

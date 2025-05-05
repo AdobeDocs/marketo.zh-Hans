@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这些参数有点技术性，不是吗？ 一旦你得到它们，它们就会变得强大。 查询字符串](https://en.wikipedia.org/wiki/Query_string)上的此[Wikipedia页面有些帮助。
+>这些参数有点技术性，不是吗？ 一旦你得到它们，它们就会变得强大。 查询字符串[&#128279;](https://en.wikipedia.org/wiki/Query_string)上的此Wikipedia页面有些帮助。
 
 1. 为&#x200B;**获取值类型**&#x200B;选择&#x200B;**URL参数**。
 

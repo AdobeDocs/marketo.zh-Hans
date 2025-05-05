@@ -35,7 +35,7 @@ Veeva和Marketo Engage之间的同步仅针对Person帐户对象上的Contact字
 
 ## 注意事项 {#things-to-know}
 
-* 您在Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}Marketo Engage中输入的[凭据用于同步数据。 仅包含这些凭据有权访问的数据。
+* 您在Veeva[&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}Marketo Engage中输入的凭据用于同步数据。 仅包含这些凭据有权访问的数据。
 
 * Veeva CRM基于force.com ，此同步中继承了平台所具有的丰富体验Marketo Engage。
 

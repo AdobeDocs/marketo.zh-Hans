@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->在“所有内容”页面上，预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为[批准。
+>在“所有内容”页面上，预测内容[&#128279;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为批准。
 
 1. 在&#x200B;**预测内容**&#x200B;页面上，单击标题以打开编辑器。
 

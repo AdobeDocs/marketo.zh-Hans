@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >仅第一个匹配选择应用于流程步骤。 了解如何在流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}中[重新排序“添加选择”。
+   >仅第一个匹配选择应用于流程步骤。 了解如何在流程操作[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}中重新排序“添加选择”。
 
    太棒了！ 您现在可以创建具有流程步骤选择的单个智能营销活动，而不是为每个选择创建多个智能营销活动。
 

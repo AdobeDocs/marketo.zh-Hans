@@ -32,11 +32,11 @@ ht-degree: 0%
 
 <table>
  <tr>
-  <td><strong>[！UICONTROL严格传输安全]</strong></td>
+  <td><strong>[!UICONTROL 严格传输安全]</strong></td>
   <td>使用此项可保证始终通过HTTPS提供到登陆页面的连接（应仅针对登陆页面受SSL保护的订阅进行设置）</td>
  </tr>
  <tr>
-  <td><strong>[！UICONTROL X-Frame-Options]</strong></td>
+  <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
   <td>用于定义是否可以在外部网页中嵌入Marketo Engage托管的资源</td>
  </tr>
 </table>

@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/delete-person-from-sfdc-2.png)
 
-1. 请确保Marketo ]**中的**[!UICONTROL &#x200B;删除设置为&#x200B;**[!UICONTROL false]**，然后单击&#x200B;**[!UICONTROL 立即运行]**。
+1. 请确保Marketo **中的**&#x200B;删除设置为&#x200B;**[!UICONTROL false]**，然后单击&#x200B;**[!UICONTROL 立即运行]**。
 
    ![](assets/delete-person-from-sfdc-3.png)
 

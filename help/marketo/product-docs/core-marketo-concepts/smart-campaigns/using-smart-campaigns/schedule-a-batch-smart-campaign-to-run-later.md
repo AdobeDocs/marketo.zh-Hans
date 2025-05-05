@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->您还可以在项目计划视图](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"}中[重新计划批量智能营销活动。
+>您还可以在项目计划视图[&#128279;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"}中重新计划批量智能营销活动。
 
 1. 选择要运行的批处理智能营销活动，转到&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 运行一次]**。
 

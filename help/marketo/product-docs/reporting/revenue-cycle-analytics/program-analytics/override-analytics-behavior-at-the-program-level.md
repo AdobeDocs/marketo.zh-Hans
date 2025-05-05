@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 覆盖项目级别的Analytics行为 {#override-analytics-behavior-at-the-program-level}
 
-您可以在渠道](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)上的管理员级别设置[分析行为，但也可以在项目级别覆盖它。 方法如下：
+您可以在渠道[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)上的管理员级别设置分析行为，但也可以在项目级别覆盖它。 方法如下：
 
 1. 转到&#x200B;**营销活动**&#x200B;区域。
 

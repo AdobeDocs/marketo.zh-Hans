@@ -98,7 +98,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果未看到该角色，请返回3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)的[步骤1并导入解决方案。
+   >如果未看到该角色，请返回3[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)的步骤1并导入解决方案。
 
    >[!NOTE]
    >

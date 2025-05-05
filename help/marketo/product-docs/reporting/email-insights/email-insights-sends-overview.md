@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-**类型**指示使用的资源类型。
-**Recipient**数字是电子邮件发送的人数。
+**类型**&#x200B;指示使用的资源类型。
+**Recipient**&#x200B;数字是电子邮件发送的人数。
 **投放指标**&#x200B;可让您快速查看已投放、待处理或已退回的电子邮件数量。\
-**参与量度**可让您快速查看打开、点击和取消订阅电子邮件的收件人数量。
+**参与量度**&#x200B;可让您快速查看打开、点击和取消订阅电子邮件的收件人数量。
 **得分**&#x200B;是您电子邮件的[参与度得分](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 默认情况下，您的电子邮件按最新电子邮件排序，但您可以按任何可用量度对这些电子邮件排序。

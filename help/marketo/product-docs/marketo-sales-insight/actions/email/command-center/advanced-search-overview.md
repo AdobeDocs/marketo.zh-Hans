@@ -83,13 +83,13 @@ ht-degree: 1%
 
 ![](assets/advanced-search-overview-9.png)
 
-_**状态：已发送**_
+_&#x200B;**状态：已发送**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 按已发送的电子邮件活动筛选。 您可以选择视图/无视图、点击/无点击和/或回复/无回复。
 
-_**状态：待处理**_
+_&#x200B;**状态：待处理**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ _**状态：待处理**_
  </tr>
 </table>
 
-_**状态：未传递**_
+_&#x200B;**状态：未传递**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

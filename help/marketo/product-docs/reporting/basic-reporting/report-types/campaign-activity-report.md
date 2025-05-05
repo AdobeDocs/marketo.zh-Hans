@@ -29,7 +29,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->要查找处理最多人员的营销活动，例如，按&#x200B;_处理人员总数_&#x200B;对报表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}进行排序，然后选择&#x200B;**降序排序**。[
+>要查找处理最多人员的营销活动，例如，按&#x200B;_处理人员总数_&#x200B;对报表[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}进行排序，然后选择&#x200B;**降序排序**。
 
 **[您可以为促销活动报告包括选择](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)的列**：
 

@@ -22,7 +22,7 @@ Sales Insight Actions中有三种类型的动态字段： Basic 、 Custom和Sal
 
 Salesforce字段：例如`{{sfdc_account_name}}`
 
-* 确保正确地将其与Sales Insight Actions联系起来。 转到[设置](https://toutapp.com/login{target="_blank"}页面，然后单击CRM旁边的&#x200B;**管理**。
+* 确保正确地将其与Sales Insight Actions联系起来。 转到[设置] (https://toutapp.com/login{target="_blank"}页面，然后单击CRM旁边的&#x200B;**管理**。
 
 **基本和自定义字段疑难解答**
 

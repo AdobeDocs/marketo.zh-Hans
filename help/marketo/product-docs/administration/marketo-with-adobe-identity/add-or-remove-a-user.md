@@ -54,7 +54,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->当用户通过Adobe Admin Console添加到Marketo Engage时，将会在订阅的默认工作区中向他们授予“标准用户”角色。 如果需要调整用户在工作区中的角色，则按照](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}所述，在Marketo Engage[中完成此操作。
+>当用户通过Adobe Admin Console添加到Marketo Engage时，将会在订阅的默认工作区中向他们授予“标准用户”角色。 如果需要调整用户在工作区中的角色，则按照[&#128279;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}所述，在Marketo Engage中完成此操作。
 
 ## 删除用户 {#remove-a-user}
 

@@ -36,7 +36,7 @@ Marketo电子邮件语法仅适用于模板和单个电子邮件；如果嵌入�
 
 ## 富文本 {#rich-text}
 
-如果将区域定义为富文本，用户将可以使用Marketo的富文本编辑器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)编辑其内容[。 可通过两种方式在电子邮件模板中定义富文本元素：mktEditable和mktoText。 请记住，富文本元素始终可以在电子邮件编辑器中转换为代码片段。
+如果将区域定义为富文本，用户将可以使用Marketo的富文本编辑器[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)编辑其内容。 可通过两种方式在电子邮件模板中定义富文本元素：mktEditable和mktoText。 请记住，富文本元素始终可以在电子邮件编辑器中转换为代码片段。
 
 ### 选项1 - mktEditable {#option-mkteditable}
 

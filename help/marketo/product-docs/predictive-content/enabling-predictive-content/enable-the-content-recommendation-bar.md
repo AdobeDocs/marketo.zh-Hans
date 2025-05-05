@@ -52,9 +52,9 @@ ht-degree: 0%
    >* 显示URL应为域的路径
    >* 不包括https://或https://
    >* 将&#42;用于通配符
-   * 使用分号作为分隔符
-   * 示例： /contact_us&#42;； &#42;action=logout&#42;
-   * 此字段区分大小写
+   >* 使用分号作为分隔符
+   >* 示例： /contact_us&#42;； &#42;action=logout&#42;
+   >* 此字段区分大小写
 
 ## 推荐栏注意事项 {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
-[启用Web富媒体的预测内容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[启用Web富媒体的预测内容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

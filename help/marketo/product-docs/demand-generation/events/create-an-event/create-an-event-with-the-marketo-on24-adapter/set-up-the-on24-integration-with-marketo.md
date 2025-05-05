@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 创建新用户 {#create-a-new-user}
 
-1. 仍然在“用户和角色”中，单击“用户”****&#x200B;选项卡，然后单击“邀请新用户”****。
+1. 仍然在“用户和角色”中，单击“用户”**&#x200B;**&#x200B;选项卡，然后单击“邀请新用户”**&#x200B;**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 选择显示名称。 单击&#x200B;**服务**&#x200B;下拉菜单并选择&#x200B;**自定义**。 输入说明。 单击“仅API用户”下拉列表，然后选择在上述步骤](#create-a-new-user)中创建的用户[。 单击&#x200B;**创建**。
+1. 选择显示名称。 单击&#x200B;**服务**&#x200B;下拉菜单并选择&#x200B;**自定义**。 输入说明。 单击“仅API用户”下拉列表，然后选择在上述步骤[&#128279;](#create-a-new-user)中创建的用户。 单击&#x200B;**创建**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

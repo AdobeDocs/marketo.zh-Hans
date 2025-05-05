@@ -15,7 +15,7 @@ ht-degree: 0%
 
 通过检查每个月在每个&#x200B;_人员状态_&#x200B;值中出现的人员数量，查看您在流程中移动人员的效果。
 
-1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**按状态列出的人员**[报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**按状态列出的人员**&#x200B;[报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
 1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)并单击&#x200B;**报告**&#x200B;选项卡。
 

@@ -82,7 +82,7 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-* **更新到订阅通用ID设置**：为了支持即将对现有用户进行的Marketo Engage和Adobe身份集成，所有Marketo Engage订阅将在启用通用ID支持时统一起来。 可在此处](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)找到更多信息[。
+* **更新到订阅通用ID设置**：为了支持即将对现有用户进行的Marketo Engage和Adobe身份集成，所有Marketo Engage订阅将在启用通用ID支持时统一起来。 可在此处[&#128279;](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)找到更多信息。
 
 **_产品发布网络研讨会_**
 

@@ -261,7 +261,7 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td colspan="1"><strong>文档</strong></td> 
-   <td colspan="1">作为文档的简称，文档是帮助客户更好地了解产品的文章。 Marketo具有多种不同类型的文档：产品文档（您当前所在的站点）、<a href="https://experienceleague.adobe.com/zh-hans/docs/ marketo-developer/marketo/home" rel="nofollow">开发人员</a>文档和<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支持</a>文档。</td> 
+   <td colspan="1">作为文档的简称，文档是帮助客户更好地了解产品的文章。 Marketo具有多种不同类型的文档：产品文档（您当前所在的站点）、<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home" rel="nofollow">开发人员</a>文档和<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支持</a>文档。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>基于域的消息身份验证、报告和符合性(DMARC)</strong></td> 

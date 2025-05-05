@@ -314,13 +314,13 @@ Web Personalization API调用[在此处阅读更多相关信息。](https://expe
 
 >[!NOTE]
 >
-您无法删除与营销活动关联的区段。 首先，您需要删除营销活动，然后删除区段。
+>您无法删除与营销活动关联的区段。 首先，您需要删除营销活动，然后删除区段。
 
 太棒了！ 现在，您已了解区段部分，接下来让我们了解促销活动。
 
 >[!MORELIKETHIS]
 >
-* [创建基本Web区段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-* [新建Dialog Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [在区域中创建新的Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [创建新的构件Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [创建基本Web区段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [新建Dialog Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [在区域中创建新的Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [创建新的构件Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

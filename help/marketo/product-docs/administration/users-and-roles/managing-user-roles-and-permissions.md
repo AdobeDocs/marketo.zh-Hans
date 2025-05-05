@@ -33,7 +33,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 ## 具有Adobe身份的Marketo {#marketo-with-adobe-identity}
 
-如果您正在将Marketo与Adobe标识一起使用，则可以在此处](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels)找到配置文件描述列表[。
+如果您正在将Marketo与Adobe标识一起使用，则可以在此处[&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels)找到配置文件描述列表。
 
 ## 将角色分配给用户 {#assign-roles-to-a-user}
 

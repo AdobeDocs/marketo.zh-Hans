@@ -57,8 +57,8 @@ Target URL位于Set Campaign页面下方，用于定义将显示Web营销活动�
 >[!NOTE]
 >
 >* 对话框和小部件Web营销活动可以使用任何页面和通配符(&#42;)选项。
-* 在高级用例中，在区域中，Web营销活动可以在URL路径末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
-* URL区分大小写
+>* 在高级用例中，在区域中，Web营销活动可以在URL路径末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* URL区分大小写
 
 ## 为区域Web营销活动添加目标URL {#adding-a-target-url-for-in-zone-web-campaigns}
 
@@ -74,12 +74,12 @@ Target URL位于Set Campaign页面下方，用于定义将显示Web营销活动�
 
    >[!NOTE]
    >
-   具有位于区域中的目标URL必须定义一个或多个URL。 在高级用例中，在区域中，Web营销活动可以在URL路径末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >具有位于区域中的目标URL必须定义一个或多个URL。 在高级用例中，在区域中，Web营销活动可以在URL路径末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
 >
-* [创建对话营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [在区域营销活动中创建RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [创建RTP构件营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [创建对话营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [在区域营销活动中创建RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [创建RTP构件营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

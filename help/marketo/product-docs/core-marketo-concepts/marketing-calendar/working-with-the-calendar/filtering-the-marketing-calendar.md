@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >默认条目类型是&#x200B;**[!UICONTROL 电子邮件]** **[!UICONTROL 程序]**&#x200B;和带有电子邮件的智能营销活动&#x200B;]**。**[!UICONTROL 
+   >默认条目类型是&#x200B;**[!UICONTROL 电子邮件]** **[!UICONTROL 程序]**&#x200B;和带有电子邮件的智能营销活动&#x200B;**。**
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 

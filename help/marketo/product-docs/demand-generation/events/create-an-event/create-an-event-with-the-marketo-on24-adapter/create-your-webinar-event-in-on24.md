@@ -27,7 +27,7 @@ ht-degree: 0%
 * 实时活动开始 — 开始日期和时间。 该屏幕将显示在Marketo中。
 * 实时结束时间 — 完成日期和时间。 该屏幕将显示在Marketo中。
 
-下一步是在Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}中[创建一个事件。
+下一步是在Marketo[&#128279;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}中创建一个事件。
 
 >[!MORELIKETHIS]
 >

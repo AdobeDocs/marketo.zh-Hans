@@ -40,7 +40,7 @@ ht-degree: 2%
 
 ## 问题生成 {#question-generation}
 
-使用经过销售、营销和产品知识培训的界面，通过人工智能辅助对话提升访客的入站体验](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)。[
+使用经过销售、营销和产品知识培训的界面，通过人工智能辅助对话提升访客的入站体验[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)。
 
 ![](assets/generative-ai-overview-5.png)
 

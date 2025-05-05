@@ -72,7 +72,7 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-11.png)
 
-   我们将设置此营销活动，每当有人使用表单&#x200B;**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}填写您在[**&#x200B;登陆页面中创建的表单时运行。
+   我们将设置此营销活动，每当有人使用表单&#x200B;**[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}填写您在**&#x200B;登陆页面中创建的表单时运行。
 
 1. 查找&#x200B;**[!UICONTROL 填写表单]**&#x200B;触发器并将其拖到画布上。
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-16.png)
 
-1. 每次选择&#x200B;****&#x200B;并单击&#x200B;**[!UICONTROL 保存]**。
+1. 每次选择&#x200B;**&#x200B;**&#x200B;并单击&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/email-auto-response-17.png)
 
@@ -112,7 +112,7 @@ ht-degree: 0%
 
 ## 第3步：填写表单 {#step-fill-out-the-form}
 
-1. 选择&#x200B;**我的页面**（该页面是在具有表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入选的[登陆页面中创建的），然后单击&#x200B;**[!UICONTROL 预览]**。
+1. 选择&#x200B;**我的页面**（该页面是在具有表单[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入选的登陆页面中创建的），然后单击&#x200B;**[!UICONTROL 预览]**。
 
    ![](assets/email-auto-response-20.png)
 

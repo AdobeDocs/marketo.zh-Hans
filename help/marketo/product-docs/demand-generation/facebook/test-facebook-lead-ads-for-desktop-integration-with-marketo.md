@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. 这就是魔法发生的地方！ 提交表单后，在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中构建智能列表，作为程序的一部分或在使用“已填写Facebook潜在客户广告表单”过滤器的数据库中构建。 [插入您刚刚提交的表单的潜在客户广告表单名称。
+1. 这就是魔法发生的地方！ 提交表单后，在Marketo[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中构建智能列表，作为程序的一部分或在使用“已填写Facebook潜在客户广告表单”过滤器的数据库中构建。 插入您刚刚提交的表单的潜在客户广告表单名称。
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 

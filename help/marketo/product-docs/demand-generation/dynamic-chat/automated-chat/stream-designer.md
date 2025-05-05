@@ -109,7 +109,7 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放&#x200B;_[!UICONTROL Question]_信息卡。
+1. 拖放&#x200B;_[!UICONTROL Question]_&#x200B;信息卡。
 
    ![](assets/stream-designer-7.png)
 

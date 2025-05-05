@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >这只是一个使用了解更多行动号召的示例。 您的潜在客户广告单元行动号召可能不同。
 
-1. 这就是魔法发生的地方！ 在提交表单后，作为程序的一部分或使用&#x200B;**填写的Marketo潜在客户广告表单**&#x200B;过滤器的潜在客户数据库的一部分，在Facebook](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中构建智能列表。 [插入您刚刚提交的表单的潜在客户广告表单名称。
+1. 这就是魔法发生的地方！ 在提交表单后，作为程序的一部分或使用&#x200B;**填写的Marketo潜在客户广告表单**&#x200B;过滤器的潜在客户数据库的一部分，在Facebook[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中构建智能列表。 插入您刚刚提交的表单的潜在客户广告表单名称。
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 

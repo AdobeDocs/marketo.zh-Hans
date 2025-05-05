@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >将显示哪些智能营销活动？ 具有“已请求Campaign”触发器的受众。 了解如何使用“Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)”设置[触发的营销活动。
+   >将显示哪些智能营销活动？ 具有“已请求Campaign”触发器的受众。 了解如何使用“Campaign is Requested[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)”设置触发的营销活动。
 
 酷，现在您的销售人员可以积极参与营销工作了。
 

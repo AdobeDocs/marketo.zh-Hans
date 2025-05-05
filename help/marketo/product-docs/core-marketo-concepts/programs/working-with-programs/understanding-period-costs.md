@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >如果你花1000美元聘请一位插图师，为今年7月推出的电子书做插图，那么今年7月电子书计划的期间成本将为1000美元。
 >
->如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3}。_
+>如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3&rbrace;。_
 
 >[!NOTE]
 >

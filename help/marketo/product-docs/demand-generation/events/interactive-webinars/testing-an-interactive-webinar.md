@@ -18,7 +18,7 @@ ht-degree: 0%
 
 任何交互式网络研讨会都可以用作测试网络研讨会。 测试可以通过添加不超过10位主持人和演示者（参与者）来执行。
 
-创建测试网络研讨会的工作流程与创建任何其他网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)的交互式网络研讨会事件程序相同。 [建议将选定的交货日期设在遥远的将来。
+创建测试网络研讨会的工作流程与创建任何其他网络研讨会[&#128279;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)的交互式网络研讨会事件程序相同。 建议将选定的交货日期设在遥远的将来。
 
 >[!CAUTION]
 >

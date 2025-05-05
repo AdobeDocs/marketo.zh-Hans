@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->本文仅适用于&#x200B;_不_&#x200B;使用Adobe标识](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的[Marketo的用户。 如果是，请按照[本文章](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}中的步骤操作。
+>本文仅适用于&#x200B;_不_&#x200B;使用Adobe标识[&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo的用户。 如果是，请按照[本文章](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}中的步骤操作。
 
 ## 创建用户 {#create-users}
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果要删除的用户也是Dynamic Chat用户，则必须先从Admin Console中的Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"}中[删除用户，然后才能在Marketo Engage中删除用户。
+>如果要删除的用户也是Dynamic Chat用户，则必须先从Admin Console中的Dynamic Chat[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"}中删除用户，然后才能在Marketo Engage中删除用户。
 
 1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 

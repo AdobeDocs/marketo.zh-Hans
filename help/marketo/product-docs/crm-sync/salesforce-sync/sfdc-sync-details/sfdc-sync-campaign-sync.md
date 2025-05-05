@@ -57,7 +57,7 @@ Marketo **计划成员**&#x200B;及其&#x200B;**[进度状态](/help/marketo/pro
 
 ## 我可以使用Marketo更改营销活动成员状态吗？ {#can-i-change-campaign-member-status-using-marketo}
 
-是，在SFDC促销活动流操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}中使用[更改状态。
+是，在SFDC促销活动流操作[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}中使用更改状态。
 
 ## 为什么我看不到任何Salesforce营销活动？ {#why-cant-i-see-any-of-my-salesforce-campaigns}
 

@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-6.png)
 
-1. 如果要更改大量人员的数据值，您可能需要通过键入数字来确认更改。 单击&#x200B;****。
+1. 如果要更改大量人员的数据值，您可能需要通过键入数字来确认更改。 单击&#x200B;**&#x200B;**。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 

@@ -60,7 +60,7 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->您还可以看到通过API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)插入的未与CRM同步的实例的Opportunity信息[。
+>您还可以看到通过API[&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)插入的未与CRM同步的实例的Opportunity信息。
 
 ## 编辑字段 {#editing-a-field}
 

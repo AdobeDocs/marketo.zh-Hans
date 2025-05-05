@@ -44,7 +44,7 @@ ReCAPTCHA v3是一款流畅的体验，它根据表单提交的可疑程度为�
 
 1. 选择类型&#x200B;**reCAPTCHA v3**。 Marketo Engage当前不支持reCAPTCHA v2。
 
-1. 添加Marketo Engage订阅使用的每个域。 此处未设置的域将在启用reCAPTCHA的表单中返回错误。 请记得将单词“datacenter”和“munchkinID”替换为订阅](#retrieve-your-data-center-and-munchkin-id)中的[数据。
+1. 添加Marketo Engage订阅使用的每个域。 此处未设置的域将在启用reCAPTCHA的表单中返回错误。 请记得将单词“datacenter”和“munchkinID”替换为订阅[&#128279;](#retrieve-your-data-center-and-munchkin-id)中的数据。
 
    * app-datacenter.marketo.com
    * munchkinID.mktoweb.com

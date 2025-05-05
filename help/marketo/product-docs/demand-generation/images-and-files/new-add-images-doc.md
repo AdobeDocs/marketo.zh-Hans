@@ -46,7 +46,7 @@ ht-degree: 2%
 
 文本
 
-1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
+1. 按照以上[&#128279;](#upload-image-or-file)中的步骤1和2 操作。
 
 1. 单击&#x200B;**[!UICONTROL 映像和文件操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 导入映像或文件]**。
 
@@ -68,7 +68,7 @@ PICC
 
 文本
 
-1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
+1. 按照以上[&#128279;](#upload-image-or-file)中的步骤1和2 操作。
 
 1. 单击&#x200B;**[!UICONTROL 映像和文件操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 导入映像或文件]**。
 
@@ -98,7 +98,7 @@ PICC
 
 文本
 
-1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
+1. 按照以上[&#128279;](#upload-image-or-file)中的步骤1和2 操作。
 
 1. 单击&#x200B;**[!UICONTROL 映像和文件操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 导入映像或文件]**。
 

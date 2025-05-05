@@ -17,7 +17,7 @@ ht-degree: 0%
 
 创建Web营销活动以实时个性化您的Web内容，并在适当的时间向适当的用户提供适当的消息。
 
-Web营销活动是与特定区段关联的自定义反应。 响应可以是您网站上的对话框、区域替换](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、[构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或电子邮件警报。
+Web营销活动是与特定区段关联的自定义反应。 响应可以是您网站上的对话框、区域替换[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、[构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或电子邮件警报。
 
 1. 转到&#x200B;**网络营销活动**。
 

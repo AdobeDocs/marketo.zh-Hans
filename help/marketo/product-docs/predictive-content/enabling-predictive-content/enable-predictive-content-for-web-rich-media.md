@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 自定义Javascript代码并将其嵌入您的网站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-请参阅Marketo开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上有关富媒体推荐模板[的文档。 本部分说明如何自定义网站的模板。
+请参阅Marketo开发人员网站[&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上有关富媒体推荐模板的文档。 本部分说明如何自定义网站的模板。
 
 将JavaScript代码粘贴到网站中您希望显示该模板的位置。
 

@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. 拖放智能列表&#x200B;]**的**[!UICONTROL &#x200B;成员。
+1. 拖放智能列表&#x200B;**的**&#x200B;成员。
 
    ![](assets/add-person-to-blocklist-8.png)
 

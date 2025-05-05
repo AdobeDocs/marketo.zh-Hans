@@ -55,7 +55,7 @@ Marketo Engage具有许多可帮助您实现营销目标的卓越功能。 比�
 
 ## 是否有涵盖范围的事项列表，例如我一周可以发送多少封电子邮件？ {#list-of-limits}
 
-有。 静态限制（和其他参数）在本文中概述为[](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}。
+有。 静态限制（和其他参数）在本文中概述为[&#128279;](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}。
 
 ## Marketo会将我的数据保留多长时间？ {#data-retention-policy}
 

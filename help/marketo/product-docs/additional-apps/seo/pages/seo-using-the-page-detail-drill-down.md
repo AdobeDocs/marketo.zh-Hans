@@ -44,7 +44,7 @@ ht-degree: 0%
 | [!UICONTROL Facebook点赞] | 此页面共享在[!DNL Facebook]上的点赞次数。 |
 | [!UICONTROL Facebook点击次数] | 来自[!DNL Facebook share]的点击次数。 |
 
-## 页面已针对]优化的[!UICONTROL 关键字 {#keyword-s-that-page-is-optimized-for}
+## 页面已针对优化的关键字 {#keyword-s-that-page-is-optimized-for}
 
 在此处，您[选择您尝试为](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)优化页面的关键字。
 

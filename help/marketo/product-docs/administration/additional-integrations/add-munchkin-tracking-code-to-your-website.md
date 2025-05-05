@@ -23,7 +23,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
 >[!NOTE]
 >
->Adobe Experience Cloud用户还可以使用Adobe启动项](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}中的[Marketo集成以在其网页上包含[!DNL Munchkin]脚本。 如果您使用Adobe启动项，_将自动添加[!DNL Munchkin]脚本_，因此您无需自行添加。
+>Adobe Experience Cloud用户还可以使用Adobe启动项[&#128279;](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}中的Marketo集成以在其网页上包含[!DNL Munchkin]脚本。 如果您使用Adobe启动项，_将自动添加[!DNL Munchkin]脚本_，因此您无需自行添加。
 
 1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
 

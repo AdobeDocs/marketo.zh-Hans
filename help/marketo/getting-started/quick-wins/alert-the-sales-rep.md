@@ -107,7 +107,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >每次&#x200B;]**将**[!UICONTROL &#x200B;资格规则&#x200B;]**设置为**[!UICONTROL （通过编辑Smart Campaign），以允许同一人员多次触发警报。
+   >每次&#x200B;**将**&#x200B;[!UICONTROL &#x200B;资格规则&#x200B;]&#x200B;**设置为**（通过编辑Smart Campaign），以允许同一人员多次触发警报。
 
 1. 在确认屏幕上单击&#x200B;**[!UICONTROL 激活]**。
 

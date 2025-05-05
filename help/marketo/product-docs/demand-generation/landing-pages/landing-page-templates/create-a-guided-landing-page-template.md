@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 文本 {#text}
 
-如果将区域定义为富文本，用户将可以使用Marketo的富文本编辑器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)编辑其内容[。
+如果将区域定义为富文本，用户将可以使用Marketo的富文本编辑器[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)编辑其内容。
 
 必需属性：\
 **类**： &quot;mktoText&quot;\
