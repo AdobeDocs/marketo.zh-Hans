@@ -66,7 +66,7 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
 观看以下视频，了解多页面、穿透钻取报表体验的示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451692/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 高级BI Analytics中的标准报表 {#standard-reports}
 
