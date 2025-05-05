@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * **轮候：**&#x200B;轮候成员的新程序/事件状态，在您想[将其置于保留状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)直到空缺打开为止。 这适用于与Marketo Classic中的活动项目关联的渠道，以及与Marketo Sky中的网络研讨会项目关联的活动和活动。 默认情况下，“轮候”具有与“已注册”相同的步骤值。
 * **[自定义通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理员现在可以设置自定义每日或每周通信限制。
-* **[Smart Campaign Asset API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：通过按更新的日期和ID检索智能营销活动记录，扩充您在Marketo之外的分析。
+* **[Smart Campaign Asset API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：通过按更新的日期和ID检索智能营销活动记录，扩充您在Marketo之外的分析。
 * **电子邮件的HTTPS跟踪链接：**&#x200B;对于已购买“跟踪链接的安全域”的客户，品牌跟踪链接现在可以作为HTTPS显示在您的电子邮件中。
 * **电子邮件可投放性Powerpack更新**：能够标记和评论特定测试结果，通过URL与利益相关者共享结果，以及跟踪更改以查看在利益相关者编辑内容时电子邮件的演变。
 

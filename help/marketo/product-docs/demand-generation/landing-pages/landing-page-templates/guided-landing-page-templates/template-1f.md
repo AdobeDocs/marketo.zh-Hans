@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板1F {#template-1f}
 
-右键单击以[下载模板1F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html)
+右键单击以[下载模板1F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html?lang=zh-Hans)
 
 ![](assets/image2015-5-29-9-3a9-3a19.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板1F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html)
+[模板1F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html?lang=zh-Hans)

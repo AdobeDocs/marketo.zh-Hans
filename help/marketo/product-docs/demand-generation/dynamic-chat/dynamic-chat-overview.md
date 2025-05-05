@@ -16,7 +16,7 @@ Dynamic Chat功能允许您利用简单易用的界面来定位访问您网站�
 
 >[!TIP]
 >
->请访问[此页面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}查看Dynamic Chat的教程视频。
+>请访问[此页面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=zh-Hans){target="_blank"}查看Dynamic Chat的教程视频。
 
 ## 集成 {#integrations}
 
@@ -88,7 +88,7 @@ Adobe Dynamic Chat中的[生成人工智能](/help/marketo/product-docs/demand-g
 
 ## Dynamic Chat数据保留限制 {#dynamic-chat-data-retention-limits}
 
-以下只是Dynamic Chat中的一些限制/参数。 有关完整列表，请参阅Marketo Engage[产品描述页](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
+以下只是Dynamic Chat中的一些限制/参数。 有关完整列表，请参阅Marketo Engage[产品描述页](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
 
 <table>
   <th>数据类型</th>

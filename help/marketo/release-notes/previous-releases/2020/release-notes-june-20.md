@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 核心Marketo Engage {#core-marketo-engage}
 
-* **[预测受众](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![（星型）](assets/yellow-star.png)：通过Adobe Sensei提供的新智能列表和智能营销活动过滤器，可为电子邮件、事件和网络研讨会营销项目创建AI支持的受众区段。 使用AI帮助您根据潜在客户注册事件、参加事件或取消订阅的可能性细分受众。 根据过去的计划构建相似受众以高效地复制以前的成功案例。 通过预测目标跟踪实现转化目标，并获得有关如何优化事件项目的受众区段的建议。
+* **[预测受众](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=zh-Hans#predictive-audiences)** ![（星型）](assets/yellow-star.png)：通过Adobe Sensei提供的新智能列表和智能营销活动过滤器，可为电子邮件、事件和网络研讨会营销项目创建AI支持的受众区段。 使用AI帮助您根据潜在客户注册事件、参加事件或取消订阅的可能性细分受众。 根据过去的计划构建相似受众以高效地复制以前的成功案例。 通过预测目标跟踪实现转化目标，并获得有关如何优化事件项目的受众区段的建议。
 * **批量电子邮件提升** ![(star)](assets/yellow-star.png)：增强了我们的电子邮件营销功能，允许您每小时最多发送300万封批量电子邮件。 我们重新设计了批量活动和电子邮件报表处理，以增强电子邮件项目和批量电子邮件活动的性能。 这缩短了发送的前置时间，并缩短了完成时间。 按照常规方式设置电子邮件发送，不会增加复杂性。 此增强功能作为产品加载项提供，它还包含一个Delivery Services Launch Pack、电子邮件投放工具和多个专用IP地址。
 * **[与Adobe Experience Cloud (AEC)的受众集成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：新的Adobe Experience Cloud (AEC)集成，允许您从具有多个AEC应用程序的Marketo Engage中同步已知商机的静态列表，以增强现有计划、解锁新用例并编排多渠道营销活动。 此集成包括Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager和Adobe Advertising Cloud。
 * **[项目群成员自定义字段](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**：捕获并利用项目群成员的相关自定义字段。 在Marketo Engage表单中使用这些新字段，在项目的成员列表中查看它们，在智能列表过滤器和触发器中使用它们，并将它们包含在新的智能营销活动流量操作中，以增强自动化和更精细的个性化。 这些也可以通过UI和API导入和导出。 增强了我们的自定义数据对象和字段功能。

@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## Marketo Sky {#marketo-sky}
 
-* [图像编辑](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：无需离开Marketo Engage即可访问Adobe的编辑功能。 这项新功能允许您直接在Design Studio中轻松执行增强、裁切和向图像添加文本等操作。
+* [图像编辑](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=zh-Hans#design-studio)：无需离开Marketo Engage即可访问Adobe的编辑功能。 这项新功能允许您直接在Design Studio中轻松执行增强、裁切和向图像添加文本等操作。
 
 ## 销售分析 {#sales-insight}
 

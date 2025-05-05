@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在Smart Campaign中使用Webhook {#use-a-webhook-in-a-smart-campaign}
 
-要使用[webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}，请将其作为流程操作添加到[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}。
+要使用[webhook](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}，请将其作为流程操作添加到[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}。
 
 >[!AVAILABILITY]
 >

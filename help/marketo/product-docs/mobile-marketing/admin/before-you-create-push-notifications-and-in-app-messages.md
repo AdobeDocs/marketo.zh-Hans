@@ -19,11 +19,11 @@ ht-degree: 0%
 
 1. 然后Marketo管理员[向开发人员](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)发送一个代码片段。
 
-1. 开发人员下载适用于[Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)的SDK，并包含代码片段和其他方法。
+1. 开发人员下载适用于[Android](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)的SDK，并包含代码片段和其他方法。
 
 1. 默认情况下，应用程序内消息会在应用程序打开时触发。 如果要触发其他事件的消息，例如查看特定页面或按下特定按钮时，开发人员需要向代码添加自定义事件（请参阅下面的[应用程序内消息的自定义事件](#CustomEvents)）。
 
-1. 开发人员[为Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)生成服务器API密钥和项目编号，并将其发送给Marketo管理员。
+1. 开发人员[为Android](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)生成服务器API密钥和项目编号，并将其发送给Marketo管理员。
 
 1. Marketo管理员使用服务器API密钥(Android) [&#128279;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)配置推送通知访问[，或使用证书(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)配置。
 

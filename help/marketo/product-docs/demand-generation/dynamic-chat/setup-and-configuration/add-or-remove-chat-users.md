@@ -109,4 +109,4 @@ ht-degree: 1%
 >[!MORELIKETHIS]
 >
 >* [Adobe Admin Console用户](https://helpx.adobe.com/cn/enterprise/using/users.html){target="_blank"}
->* [单独管理用户](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [单独管理用户](https://helpx.adobe.com/cn/enterprise/using/manage-users-individually.html){target="_blank"}

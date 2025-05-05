@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 通过CSV添加用户 {#add-users-via-csv}
 
-[导入CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[导入CSV](https://helpx.adobe.com/cn/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## 用户登录 {#user-sign-in}
 

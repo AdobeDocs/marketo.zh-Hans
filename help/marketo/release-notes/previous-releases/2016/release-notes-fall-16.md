@@ -53,7 +53,7 @@ ht-degree: 0%
 
 **REST API**
 
-此版本还允许您使用Marketo REST API在ABM中管理指定帐户属性和帐户分数。 有关API操作的更多详细信息，请访问[Marketo开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts)。
+此版本还允许您使用Marketo REST API在ABM中管理指定帐户属性和帐户分数。 有关API操作的更多详细信息，请访问[Marketo开发人员网站](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/named-accounts)。
 
 ## [审核记录增强功能](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -84,11 +84,11 @@ ht-degree: 0%
 
 Market Sales Insight现在与Salesforce Shield Encryption兼容。 所有Sales Insight客户都应升级到此最新的托管包（版本1.4359.2），此包在Appexchange[&#128279;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上有可用。
 
-## [命名帐户API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [命名帐户API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 在此版本中，Marketo ABM用户可以通过指定帐户API管理指定帐户。 用户可以创建、更新和删除指定帐户，也可以读取和更新ABM指定帐户分数。
 
-## [电子邮件编辑器v2.0 API支持](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [电子邮件编辑器v2.0 API支持](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 使用Marketo REST API管理v2.0格式的电子邮件变量和模块。
 

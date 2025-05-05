@@ -30,7 +30,7 @@ ht-degree: 0%
 * 获取活动类型
 * 获取分页令牌
 
-发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)上获得完整的详细信息。
+发布后，可在[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)上获得完整的详细信息。
 
 ## MSI — 发送适用于Microsoft Dynamics的Marketo电子邮件 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ ht-degree: 0%
 * 感兴趣的产品
 * 他们所看到的RTP营销活动
 
-有关完整的详细信息，请访问[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+有关完整的详细信息，请访问[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。

@@ -68,7 +68,7 @@ ht-degree: 1%
 * 程序成员对象最多可以有20个自定义字段。 这些字段适用于任何项目。
 * 当您删除某个项目的成员时，如果他们的项目群成员自定义字段中包含任何数据，则将从该字段中清除该数据。
 * 要查看数据，请单击程序中的成员选项卡，然后创建包含这些字段的自定义视图。
-* 支持通过[list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}和[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"}导入和导出。 导出仅对项目群成员列表有效，对静态列表无效。
+* 支持通过[list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}和[API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home){target="_blank"}导入和导出。 导出仅对项目群成员列表有效，对静态列表无效。
 * 合并两个人员时，将使用入选者的项目群成员自定义字段数据。 但是，如果获胜方没有赢家，将使用失败方的价值。
 * 项目群成员信息字段不允许更改类型。
 * 程序成员自定义字段不支持“包含”智能列表约束。

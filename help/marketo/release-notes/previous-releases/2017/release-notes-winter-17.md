@@ -81,7 +81,7 @@ Web Personalization、Predictive Content和Email Insights应用程序现在提�
 
 图像URL和元数据现在用于内容自动发现过程。
 
-## [SDK增强功能](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [SDK增强功能](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 现在，开发人员通过添加新的SDK API调用（允许开发人员删除推送令牌），对推送通知的交付进行了额外控制。
 

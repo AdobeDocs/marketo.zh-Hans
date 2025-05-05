@@ -35,7 +35,7 @@ Marketo与LinkedIn Lead Gen Forms的集成会自动捕获商机在Lead Gen表单
 
 ![](assets/four-281-29.png)
 
-## [批量提取人员和活动的API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [批量提取人员和活动的API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 轻松地将大量人员和活动数据从Marketo传输到外部系统。
 
@@ -49,7 +49,7 @@ ABM命名帐户的&#x200B;**[百分点评分](https://docs.marketo.com/display/d
 
 命名帐户得分可能差别很大。 Marketo ABM现在会自动计算每个得分的百分位数，以便您一眼就能看到每个指定帐户在其他指定帐户中的排名。
 
-**[ABM帐户列表API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[ABM帐户列表API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 利用丰富而强大的ABM合作伙伴集成，以及针对指定帐户列表的增强API支持。
 

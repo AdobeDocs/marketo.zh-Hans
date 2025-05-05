@@ -66,4 +66,4 @@ Adobe通过Marketo Champions的输入汇总了多个Marketo Engage继承实例�
 
 * 如需充分利用Marketo Engage实例的实践帮助，请联系&#x200B;**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**。
 
-* 观看&#x200B;**[精选的Marketo Engage视频](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}**。
+* 观看&#x200B;**[精选的Marketo Engage视频](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}**。

@@ -49,13 +49,13 @@ Lead Database更新了Summary Dashboard ，其中包括总人员数据库大小�
 
 ## [移动营销增强功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap支持：**&#x200B;我们现在为您的移动设备应用程序提供PhoneGap支持。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap)。
+**PhoneGap支持：**&#x200B;我们现在为您的移动设备应用程序提供PhoneGap支持。 [了解更多](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/phonegap)。
 
 **支持沙盒应用程序**：
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [程序API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [程序API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 通过REST API创建、更新和克隆程序。 这不包括创建或更新项目中的智能列表和智能营销策划。
 

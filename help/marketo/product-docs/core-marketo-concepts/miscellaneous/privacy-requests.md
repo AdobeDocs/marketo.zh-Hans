@@ -28,7 +28,7 @@ ht-degree: 0%
 * 通过[Privacy ServiceUI](https://privacyui.cloud.adobe.io/)。 请参阅文档[此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hans){target="_blank"}。
 * 通过Privacy ServiceAPI。 请参阅文档[此处](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}和[此处](https://developer.adobe.com/experience-platform-apis/){target="_blank"}。
 
-[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"}支持两种类型的请求：数据访问和数据删除。
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hans){target="_blank"}支持两种类型的请求：数据访问和数据删除。
 
 我们来看看如何创建访问和删除请求。
 

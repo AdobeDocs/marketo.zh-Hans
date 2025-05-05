@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->有关Marketo API的更多信息，请参阅[Marketo API文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+>有关Marketo API的更多信息，请参阅[Marketo API文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
 ## 先决条件 {#prerequisites}
 

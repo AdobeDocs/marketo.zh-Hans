@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **API交互**
 
-在API[&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)中使用计划或请求营销活动时，两者都允许您传递“我的令牌”的值，这会覆盖在调用营销活动中为这些令牌设置的值。 如果该营销活动随后执行另一个营销活动并设置“使用父上下文设置为True”，则它将使用通过API传递的值，而不是在应用程序中设置的值。
+在API[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)中使用计划或请求营销活动时，两者都允许您传递“我的令牌”的值，这会覆盖在调用营销活动中为这些令牌设置的值。 如果该营销活动随后执行另一个营销活动并设置“使用父上下文设置为True”，则它将使用通过API传递的值，而不是在应用程序中设置的值。
 
 ## 注意事项 {#things-to-note}
 

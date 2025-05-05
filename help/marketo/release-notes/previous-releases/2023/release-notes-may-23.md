@@ -74,7 +74,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>已开始推出</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">交互式网络研讨会概述</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=zh-Hans">交互式网络研讨会概述</a></td>
   </tr>
   </tbody>
 </table>

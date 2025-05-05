@@ -87,7 +87,7 @@ Web Personalization现在可以为已知的Web访客个性化内容，该访客�
 
 ## 集成 {#integration}
 
-**[激活/停用营销活动API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[激活/停用营销活动API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 此新API允许您远程激活和取消激活触发器营销活动，因此您现在可以创建完全自动化的项目模板。 只需创建一次项目模板，即可自动执行克隆、营销宣传材料更新，现在即可激活/计划智能营销活动。
 
