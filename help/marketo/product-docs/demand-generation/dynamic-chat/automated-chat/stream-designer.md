@@ -3,10 +3,10 @@ description: Designer流 — Marketo文档 — 产品文档
 title: 流设计器
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 2%
+source-wordcount: '1175'
+ht-degree: 1%
 
 ---
 
@@ -109,7 +109,7 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放&#x200B;_[!UICONTROL Question]_&#x200B;信息卡。
+1. 拖放&#x200B;_[!UICONTROL Question]_信息卡。
 
    ![](assets/stream-designer-7.png)
 
@@ -141,15 +141,15 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
 
    ![](assets/stream-designer-10.png)
 
-1. 在右侧的列中，单击&#x200B;**[!UICONTROL Save]**。
+1. 选择路由选项，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-11.png)
 
-1. 由于这是目标，请将[!UICONTROL Goal]卡拖动到约会计划程序下。
+1. 由于这是目标，请将&#x200B;_[!UICONTROL Goal]_卡拖动到会议预订下。
 
    ![](assets/stream-designer-12.png)
 
-1. 命名您的目标（或选择现有目标），然后单击&#x200B;**[!UICONTROL Save]**。
+1. 命名您的目标（或选择现有目标），然后单击&#x200B;**[!UICONTROL Save]**。 分配对话分数是可选的。
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
    >
    >您可以通过单击&#x200B;**[!UICONTROL Add Response]**&#x200B;添加更多响应。
 
-1. 在“是”响应下方，将拖到“信息捕获”卡上，以便收集访客的电子邮件。
+1. 在“是”响应下方，拖到&#x200B;_信息捕获_&#x200B;信息卡上，以便收集访客的电子邮件。
 
    ![](assets/stream-designer-16.png)
 
-1. 单击&#x200B;**[!UICONTROL Type]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Email]**。
+1. 单击下拉菜单并选择&#x200B;**[!UICONTROL Email Address]**。
 
    ![](assets/stream-designer-17.png)
 
-1. 输入聊天机器人消息和占位符。 确保该属性映射到Marketo Engage中的相应字段，然后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入聊天机器人消息和占位符。 如果数据库中已存在此属性的值，请选择是要跳过还是让此数据覆盖它。 完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>类型</strong></td>
-     <td>要捕获的信息类型：电话、文本、电子邮件。</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>聊天机器人消息</strong></td>
-     <td>访客看到的提示他们提供信息的消息。</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>占位符</strong></td>
-     <td>帮助访客查看要输入内容的示例文本。</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>将响应映射到属性</strong></td>
-     <td>允许您将访客的响应同步到Marketo Engage订阅中其人员记录中的相应字段。</td>
-    </tr>
-   </table>
-
-1. 由于收集其电子邮件是一个目标，因此请将[!UICONTROL Goal]信息卡拖动到“信息捕获”下方。
+1. 由于收集其电子邮件是一个目标，因此请将&#x200B;_[!UICONTROL Goal]_信息卡拖动到“信息捕获”下方。
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
 
    ![](assets/stream-designer-22.png)
 
-1. 选择&#x200B;**[!UICONTROL Preview]**&#x200B;切换可预览您的对话框。
-
-   ![](assets/stream-designer-23.png)
-
 1. 准备好激活对话框后，请单击&#x200B;**[!UICONTROL Publish]**。
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
