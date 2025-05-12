@@ -1,18 +1,18 @@
 ---
 description: 创作AI概述 — Marketo文档 — 产品文档
-title: 创作AI概述
+title: Dynamic Chat中的创新型人工智能
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
+source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '449'
 ht-degree: 2%
 
 ---
 
-# 创作AI概述 {#generative-ai-overview}
+# Dynamic Chat中的创新型人工智能 {#generative-ai-overview}
 
-利用Adobe Dynamic Chat中由创新型人工智能支持的功能，可优化销售代理的工作效率、深入了解网站访客意图并以安全的方式回应访客问题。
+利用Adobe Dynamic Chat中由AI提供支持的创新型功能，您可以优化销售代理的生产力，获得有关网站访客意图的洞察，并以安全的方式响应访客问题。
 
 ## 权限 {#permissions}
 
@@ -28,7 +28,7 @@ ht-degree: 2%
 
 ## 对话摘要 {#conversation-summary}
 
-通常，要获取访客对话的完整上下文，您必须滚动浏览整个聊天记录。 对话摘要会实时为您生成摘要，甚至包括访客表示感兴趣的主题。 这对于需要在与多个访客的聊天之间切换时快速了解对话上下文的聊天代理特别有用。 除了在“代理收件箱”聊天屏幕中显示外，还可以在访客的Marketo Engage数据库中个人记录的活动日志中找到已完成的对话摘要。
+通常，要获取访客对话的完整上下文，您必须滚动浏览整个聊天记录。 对话摘要会实时为您生成摘要，甚至包括访客表示感兴趣的主题。 这对于需要在与多个访客的聊天之间切换时快速了解对话上下文的聊天代理特别有用。 除了在“代理收件箱”聊天屏幕中显示外，还可以在访客Marketo Engage数据库中人员记录的活动日志中找到已完成的对话摘要。
 
 ![](assets/generative-ai-overview-3.png)
 
@@ -40,7 +40,7 @@ ht-degree: 2%
 
 ## 问题生成 {#question-generation}
 
-使用经过销售、营销和产品知识培训的界面，通过人工智能辅助对话提升访客的入站体验[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)。
+使用经过销售、营销和产品知识培训的界面，通过人工智能辅助对话提升访客的入站体验](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)。[
 
 ![](assets/generative-ai-overview-5.png)
 
@@ -64,23 +64,23 @@ ht-degree: 2%
 
 ## 讨论的主题 {#discussed-topics}
 
-讨论的主题将作为约束显示在智能列表触发器和过滤器中，允许您进一步深入到Dynamic Chat分析中。
+讨论的主题将作为限制条件包含在智能列表触发器和过滤器中，允许您进一步深入了解Dynamic Chat分析。
 
 ![](assets/generative-ai-overview-9.png)
 
 >[!IMPORTANT]
 >
->使用创作AI时，您必须遵守[Adobe Experience Cloud创作AI用户准则](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，以便我们能够确保以安全负责的方式使用包含创作AI的Adobe Experience Cloud功能。
+>使用创作AI时，您必须遵守[Adobe Experience Cloud创作AI用户准则](https://www.adobe.com/cn/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，以便我们能够确保以安全负责的方式使用包含创作AI的Adobe Experience Cloud功能。
 
-## 常见问题 {#faq}
+## 常见问题解答 {#faq}
 
 **创作AI是否适用于所有Dynamic Chat用户？**
 
-生成人工智能仅适用于Dynamic ChatPrime订阅者。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+创作AI仅适用于Dynamic Chat Prime订阅者。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 **我可以生成的问题和答案的数量是否存在限制？**
 
-是的。 此时的生命周期限制为1000。
+可以。此时的生命周期限制为1000。
 
 **生成AI中有哪些语言？**
 
