@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2953338
-description: 从Marketo Dynamics发送Microsoft销售电子邮件 — Marketo文档 — 产品文档
+description: 从Microsoft Dynamics发送Marketo销售电子邮件 — Marketo文档 — 产品文档
 title: 从Microsoft Dynamics发送Marketo销售电子邮件
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
+source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -45,10 +45,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >一次最多可发送2000封Marketo电子邮件。
+   >您一次最多可以发送300封Marketo电子邮件。
 
-做得好！ 现在，您已了解如何直接从Marketo Dynamics中发送Microsoft跟踪电子邮件。
+做得好！ 现在您知道如何直接从Microsoft Dynamics发送Marketo跟踪电子邮件了。
 
 >[!MORELIKETHIS]
 >
->[从Microsoft Dynamics向Marketo营销活动添加潜在客户/联系人](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[从Microsoft Dynamics将潜在客户/联系人添加到Marketo营销活动](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
