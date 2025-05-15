@@ -1,18 +1,18 @@
 ---
-description: 迁移到Adobe身份 — Marketo文档 — 产品文档
-title: 迁移到Adobe身份
+description: 迁移到Adobe Identity - Marketo文档 — 产品文档
+title: 迁移到Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: c8b243bc90175e92aa163032b2d368bf80ff3f81
+source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
 workflow-type: tm+mt
-source-wordcount: '2317'
+source-wordcount: '2319'
 ht-degree: 0%
 
 ---
 
-# 迁移到Adobe身份 {#migrating-to-adobe-identity}
+# 迁移到Adobe Identity {#migrating-to-adobe-identity}
 
-当Adobe计划订阅的Marketo Engage迁移时，用户产品管理员将获得对迁移控制台的访问权限，该控制台可在集成下管理区域的导航菜单中找到。
+当Adobe计划订阅的用户迁移时，Marketo Engage产品管理员将获得对迁移控制台的访问权限，该权限可在集成下管理区域的导航菜单中找到。
 
 ![](assets/migrating-to-adobe-identity-1.png)
 
@@ -30,15 +30,15 @@ ht-degree: 0%
 >
 >若要请求在8天之前或超过30天的日期，或者如果您需要在迁移前控制台锁定之后调整日期，请向`marketocares@marketo.com`发送电子邮件。
 
-## 迁移到Adobe标识 {#migrations-to-adobe-identity}
+## 迁移到Adobe Identity {#migrations-to-adobe-identity}
 
 以美国时区为时区的所有Marketo订阅都将从用户迁移开始日期的太平洋标准时间午夜开始迁移。 所有其他订阅的用户迁移将在订阅指定时区的午夜开始。 当订阅的用户迁移开始时，用户管理在Marketo管理区域中不再可用，仅在Adobe Admin Console中可用。 角色管理仍保留在“Marketo管理”区域的“用户和角色”选项卡中，以及本地（仅限API）用户管理中。
 
-Adobe将首先使用已验证的电子邮件自动迁移所有Marketo管理员。 在将Marketo管理员迁移到Adobe身份后，他们将会作为Marketo订阅的产品管理员添加到订阅的Adobe Admin Console中，并将在Marketo应用程序中分配Adobe产品管理员角色（以及他们以前具有的任何其他角色），并且其Adobe ID将有权使用该订阅。 管理员将收到两封电子邮件。 一个指示作为Adobe产品管理员分配，另一个指示其Adobe ID有权使用Marketo产品。
+Adobe将首先使用已验证的电子邮件自动迁移所有Marketo管理员（具有标准管理员角色）。 将Marketo管理员迁移到Adobe Identity后，他们将会作为Marketo订阅的产品管理员添加到订阅的Adobe Admin Console中，并将在Marketo应用程序中分配Adobe产品管理员角色（以及他们以前具有的任何其他角色），并且其Adobe ID将有权使用该订阅。 管理员将收到两封电子邮件。 一个指示作为Admin Console产品管理员分配，另一个指示其Adobe ID有权使用Marketo产品。
 
 >[!IMPORTANT]
 >
->您必须单击授权电子邮件中的&#x200B;**接受邀请**&#x200B;按钮，才能访问与Adobe ID的Marketo Engage。
+>您必须单击授权电子邮件中的&#x200B;**接受邀请**&#x200B;按钮，才能使用Adobe ID访问Marketo Engage。
 
 **Marketo产品管理员电子邮件**
 
@@ -48,9 +48,9 @@ Adobe将首先使用已验证的电子邮件自动迁移所有Marketo管理员�
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**如果您的Marketo订阅用户数少于75个，并且在Marketo和/或Adobe组织**&#x200B;中没有SSO，则Adobe将自动迁移其余用户。 此工作流旨在实现最高级别的自动化，无需执行任何操作即可执行迁移。 迁移完成后，Marketo迁移控制台将不再显示在Marketo管理导航区域中，所有用户都将使用Adobe ID访问Marketo。
+**如果您的Marketo订阅在Marketo和/或Adobe组织**&#x200B;中没有SSO，Adobe将自动迁移其余用户。 此工作流旨在实现最高级别的自动化，无需执行任何操作即可执行迁移。 迁移完成后，Marketo迁移控制台将不再显示在Marketo管理导航区域中，所有用户都将使用Adobe ID访问Marketo。
 
-**如果您的Marketo订阅具有75个或更多用户，或者在Marketo和/或Adobe组织**&#x200B;中具有SSO，则Marketo产品管理员将在用户迁移开始时获得对迁移控制台的自助用户迁移工具的访问权限，并在登录“我的Marketo”页面时通过横幅收到警报。 管理员将负责使用自助用户迁移工具完成用户迁移。
+**如果您的Marketo订阅在Marketo和/或Adobe组织**&#x200B;中具有SSO，Marketo管理员将在用户迁移开始后访问迁移控制台的自助用户迁移工具，并在登录“我的Marketo”页面时通过横幅发送警报。 管理员将负责使用自助用户迁移工具完成用户迁移。
 
 ![](assets/migrating-to-adobe-identity-6.png)
 
@@ -80,12 +80,12 @@ Marketo自助用户迁移控制台工具包含两个选项卡。
 接下来，向管理员显示“状态”的三个部分。
 
 * **用户电子邮件验证**：订阅中用户的验证状态。
-* **用户迁移和激活**：订阅中用户的用户迁移和激活(迁移和对Marketo Engage产品的权限)状态。
+* **用户迁移和激活**：订阅中用户的用户迁移和激活(迁移和授予Marketo Engage产品的权限)状态。
 * **迁移确认**：订阅的迁移完成状态。
 
 #### 用户电子邮件验证 {#user-email-verification}
 
-在用户电子邮件验证部分，管理员可以在迁移到Adobe身份之前，为订阅中的用户查找电子邮件验证的当前状态。
+在用户电子邮件验证部分，管理员可以在迁移到Adobe Identity之前找到订阅中用户的电子邮件验证的当前状态。
 
 管理员可以查看订阅的电子邮件验证状态、订阅中已完成电子邮件验证的用户百分比，以及标记为跳过的用户的数量。 将报告订阅中所有用户的电子邮件验证状态的状态。 管理员可以单击跳过的用户的数量，并将导航到“用户迁移”选项卡以查看跳过的用户。
 
@@ -97,9 +97,9 @@ Marketo自助用户迁移控制台工具包含两个选项卡。
 
 #### 用户迁移和激活 {#user-migration-and-activation}
 
-在“用户迁移和激活”部分，管理员可以找到用户迁移总量和AdobeIdentity Management系统权利的当前状态。
+在“用户迁移和激活”部分，管理员可以找到总用户迁移和Adobe Identity Management系统权利的当前状态。
 
-管理员可以查看其订阅中已迁移到Adobe ID或标记为已跳过的用户的百分比。 所有用户迁移到订阅中Adobe ID的状态都将报告状态，或标记为已跳过，将不迁移。 当用户迁移并获得Marketo Engage或跳过权限时，此状态将更新。
+管理员可以查看其订阅中已迁移到Adobe ID或标记为已跳过的用户的百分比。 所有用户迁移到订阅中Adobe ID的状态都将报告状态，或标记为已跳过，将不迁移。 当用户已迁移并有权使用Marketo Engage或被跳过时，此状态将会更新。
 
 #### 迁移确认 {#migration-confirmation}
 
@@ -127,7 +127,7 @@ Adobe要求客户在30天内完成自助迁移。 如果过期日期，则不会
 
 ![](assets/migrating-to-adobe-identity-12.png)
 
-如果您未在到期日期之前完成迁移，则将触发Adobe。
+如果您未在到期日之前完成迁移，Adobe将会与您联系。
 
 ### “用户迁移”选项卡 {#user-migration-tab}
 
@@ -155,7 +155,7 @@ Adobe要求客户在30天内完成自助迁移。 如果过期日期，则不会
 
 **跳过和取消跳过用户迁移**
 
-在用户迁移期间，需要迁移或跳过所有用户。 Adobe要求管理员确认不会迁移用户，管理员需要将用户标记为已跳过。 如果管理员未确认，他们将无法确认用户迁移已完成。 一旦用户迁移完成，所有跳过的用户都将失去对Marketo的访问权限。
+在用户迁移期间，需要迁移或跳过所有用户。 Adobe要求管理员确认不会迁移用户，并且管理员需要将用户标记为已跳过。 如果管理员未确认，他们将无法确认用户迁移已完成。 一旦用户迁移完成，所有跳过的用户都将失去对Marketo的访问权限。
 
 >[!IMPORTANT]
 >
@@ -175,17 +175,17 @@ Adobe要求客户在30天内完成自助迁移。 如果过期日期，则不会
 >
 >只有所有选定用户都具有“已跳过”迁移状态时，“未跳过迁移”按钮才会处于活动状态。
 
-### 将Marketo用户迁移到AdobeID {#migrating-marketo-users-to-adobe-ids}
+### 将Marketo用户迁移到Adobe ID {#migrating-marketo-users-to-adobe-ids}
 
 Marketo产品管理员将能够选择要批量迁移的用户，或者一次性选择所有符合条件的用户。 选择用户后，管理员可以选择“立即迁移”或“计划迁移”以供日后使用，从而让管理员能够灵活控制迁移的用户以及迁移时间。 在订阅中，管理员还可以选择“迁移所有用户”。
 
-例如，管理员可以选择要首先迁移的一组“超级用户”。 成功完成这些用户迁移后，他们可以根据变量（如工作区/业务或功能/角色）选择不同的用户组，以进一步按批次进行用户迁移。 或者，他们可以决定在第一个批次成功后迁移订阅中的其余用户。 目标是尽可能灵活地将AdobeID转出给用户。
+例如，管理员可以选择要首先迁移的一组“超级用户”。 成功完成这些用户迁移后，他们可以根据变量（如工作区/业务或功能/角色）选择不同的用户组，以进一步按批次进行用户迁移。 或者，他们可以决定在第一个批次成功后迁移订阅中的其余用户。 我们的目标是尽可能灵活地将Adobe ID转出给用户。
 
-所有用户迁移同时发生，并且应在六十秒内成功完成。 当针对特定用户进行用户迁移时，用户最多可能失去1分钟的访问权限，仅当用户登录应用程序时才会发生这种情况。 用户迁移完成后，用户将收到一封电子邮件，说明如何使用Adobe身份登录Marketo Engage。 用户需要通过电子邮件&#x200B;_中的按钮链接接受邀请，然后才能使用Adobe ID登录_。 有关如何使用Adobe ID [登录Marketo Engage的说明，请参阅此处](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)。
+所有用户迁移同时发生，并且应在六十秒内成功完成。 当针对特定用户进行用户迁移时，用户最多可能失去1分钟的访问权限，仅当用户登录应用程序时才会发生这种情况。 用户迁移完成后，用户将收到一封电子邮件，介绍如何使用Adobe身份登录Marketo Engage。 用户需要通过电子邮件&#x200B;_中的按钮链接接受邀请，然后才能使用Adobe ID登录_。 有关如何使用Adobe ID [登录Marketo Engage的说明，请参阅此处](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)。
 
 ![](assets/migrating-to-adobe-identity-18.png)
 
-用户迁移是独立处理的，因此，如果用户迁移失败，Adobe将继续处理其他用户迁移。 如果发生用户迁移失败，则管理员无需执行任何操作。 管理员将收到一封有关该错误的电子邮件通知，并告知Adobe正在努力立即解决问题。 如果用户迁移失败且已登录Marketo Engage，则在迁移重试期间，用户最多可能会丢失两分钟的访问权限。 如果用户迁移失败，则用户可以继续使用其Marketo身份访问Marketo Engage，直到收到电子邮件通知表明其迁移成功，并且他们被邀请使用Adobe ID登录。
+用户迁移是独立处理的，因此，如果用户迁移失败，Adobe将继续处理其他用户迁移。 如果发生用户迁移失败，则管理员无需执行任何操作。 管理员将收到一封关于该错误的电子邮件通知，并提醒Adobe正在努力立即解决问题。 如果用户迁移失败且已登录到Marketo Engage，则在迁移重试期间，用户最多可能会丢失两分钟的访问权限。 如果用户迁移失败，则用户可以继续使用其Marketo身份访问Marketo Engage，直到收到电子邮件通知表明其迁移成功，并且他们被邀请使用Adobe ID登录。
 
 ![](assets/migrating-to-adobe-identity-19.png)
 
@@ -211,7 +211,7 @@ Marketo产品管理员将能够选择要批量迁移的用户，或者一次性�
 
 >[!NOTE]
 >
->只有所有选定用户的验证状态为“已验证”时，“计划迁移”按钮才会处于活动状态。
+>只有所有用户的验证状态为“已验证”，迁移状态为“未启动”或“Adobe ID已创建”时，“计划迁移”按钮才会处于活动状态。
 
 单击&#x200B;**计划迁移**&#x200B;按钮后，将提示管理员选择所选用户的所需迁移日期。 管理员只能选择订阅的迁移到期日期之前的日期。 管理员确认后，用户迁移将安排在选定的日期开始处理。
 
@@ -227,6 +227,6 @@ Marketo产品管理员将能够选择要批量迁移的用户，或者一次性�
 
 ![](assets/migrating-to-adobe-identity-24.png)
 
-单击“迁移所有用户”**&#x200B;**&#x200B;按钮后，将提示管理员&#x200B;**确认所有符合条件的用户的**&#x200B;迁移。 管理员确认后，将尽快开始处理用户迁移。
+单击“迁移所有用户”****&#x200B;按钮后，将提示管理员&#x200B;**确认所有符合条件的用户的**&#x200B;迁移。 管理员确认后，将尽快开始处理用户迁移。
 
 ![](assets/migrating-to-adobe-identity-25.png)
