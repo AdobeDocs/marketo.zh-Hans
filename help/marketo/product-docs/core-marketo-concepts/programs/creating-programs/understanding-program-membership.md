@@ -4,9 +4,9 @@ description: 了解计划成员资格 — Marketo文档 — 产品文档
 title: 了解计划成员资格
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -15,26 +15,22 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo现在正在对所有订阅进行语言标准化，因此您可能会在订阅中看到潜在客户，并在我们的文档中看到相关人员。 这些术语具有相同的含义；它不会影响文章说明。 另外还有一些其它的改变。 [了解更多](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}。
-
->[!NOTE]
->
 >**定义：**&#x200B;成员是在项目中拥有状态的人员。
 
 ## 人员如何成为计划成员 {#how-people-become-members-of-a-program}
 
-1. 某人在程序中的登陆页面[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}上填写表单。
+1. 某人在程序中的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}上填写[表单。
 
-   1. 人员将自动具有进程中的第一个状态。
+   * 人员将自动具有进程中的第一个状态。
 
 1. 您从CSV文件[将成员导入程序](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"}。
 
-   1. 人员将自动具有进程中的第一个状态。
+   * 人员将自动具有进程中的第一个状态。
 
 1. 您使用[更改程序状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}流程步骤。
-1. 人员注册或参加与活动计划[&#128279;](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}同步的网络研讨会。
-1. 已使用Marketo iPad签入应用程序[&#128279;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}创建人员。
-1. 向SFDC营销活动添加了一个人员，该营销活动已[同步到项目](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}。
+1. 人员注册或参加与活动计划](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}同步的[网络研讨会。
+1. 已使用Marketo iPad签入应用程序](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}创建人员[。
+1. 已将人员添加到SFDC营销活动，该营销活动已[同步到项目](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}。
 
 >[!NOTE]
 >
