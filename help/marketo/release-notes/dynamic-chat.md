@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Adobe Dynamic Chat版本在持续交付模型上运行，通过该模型可采用更具可扩展性的方法来部署功能。 有时，一个月内会发布多个版本，因此请定期查看以获取最新信息。
 
-可以在此处](/help/marketo/release-notes/current.md){target="_blank"}找到Marketo Engage [的标准发行说明页面。
+可以在此处[&#128279;](/help/marketo/release-notes/current.md){target="_blank"}找到Marketo Engage 的标准发行说明页面。
 
 ## 2025年4/5月版 {#apr-may-25-release}
 
