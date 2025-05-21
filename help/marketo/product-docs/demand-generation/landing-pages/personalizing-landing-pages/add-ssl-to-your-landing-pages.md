@@ -4,9 +4,9 @@ description: 将SSL添加到登陆页面 — Marketo文档 — 产品文档
 title: 将SSL添加到登陆页面
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,58 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 
 >[!NOTE]
 >
->* 列表中的“SSL证书”列显示在此功能发布后创建的所有域别名的证书状态(DATE)。 如果您通过Marketo支持为域启用了SSL，则该证书将继续存在，但不会显示在表中。 此表仅反映使用本文中的步骤添加的域的SSL证书。
+>* 列表中的“SSL证书”列显示在发布此功能后创建的所有域别名的证书状态（2025年4月25日）。 如果您通过Marketo支持为域启用了SSL，则该证书将继续存在，但不会显示在表中。 此表仅反映使用本文中的步骤添加的域的SSL证书。
 >
 >* SSL可能最多需要3分钟才能处于“就绪”状态。 必须刷新页面才能显示更改。
+
+## 错误消息 {#error-messages}
+
+在下方，您将找到可能收到的错误消息及其定义。
+
+<table><thead>
+  <tr>
+    <th>错误</th>
+    <th>详细信息</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><i>创建域时遇到意外错误。 请联系支持人员以获取帮助。</i></td>
+    <td>发生意外错误。 请收集日志和错误详细信息，然后将问题提交给支持部门。</td>
+  </tr>
+  <tr>
+    <td><i>未找到默认域。 请联系支持人员以获取帮助。</i></td>
+    <td>尝试查找默认域时出现问题。 请联系支持部门以便他们进行调查。</td>
+  </tr>
+  <tr>
+    <td><i>已颁发SSL证书。</i></td>
+    <td>此自定义域已存在SSL证书。 除非证书已过期或需要重新颁发，否则无需执行进一步操作。</td>
+  </tr>
+  <tr>
+    <td><i>域未映射到默认域。</i></td>
+    <td>自定义域未正确映射到默认域。 请验证域映射设置并确保DNS配置指向正确的默认域。</td>
+  </tr>
+  <tr>
+    <td><i>域已存在。</i></td>
+    <td>具有相同名称的域已存在。</td>
+  </tr>
+  <tr>
+    <td><i>添加更多域之前需要一次性配置IP。 请联系支持人员以完成设置并重新尝试添加其他域。</i></td>
+    <td>默认域之后的第一个自定义域需要一次性设置由您启动。 请提出“支持”票证以完成设置，并在完成设置后添加域。</td>
+  </tr>
+</tbody></table>
+
+## 注意事项 {#things-to-note}
+
+* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+
+* **自定义SSL**：如果您需要自定义SSL，请提交[支持票证](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 请勿使用自助复选框来创建SSL。
+
+* **预先存在的SSL**：在添加域时，系统会检查预先存在的SSL，这些SSL可能在之前已手动创建。 如果您遇到此验证，请在不选择SSL创建的情况下创建您的域，我们将为您连接它们。 [联系支持人员](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}其他详细信息/选项。
+
+* **首次跟踪域**：首次创建电子邮件跟踪链接域将需要[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的手动干预。 UI中允许在同一域下后续创建子域。
+
+* **仅限Marketo内部部署**：目前，此功能仅适用于内部部署。 Marketo Engage on Cloud Services需要通过联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}来设置SSL。
+
+* **向现有域添加证书**：目前不支持向现有域添加证书。 对于预先存在的域，或者如果您未选中SSL证书框，则必须联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以添加证书。
+
+* **删除域**：删除域此时不会自动删除SSL证书。 将在未来版本中解决此问题。
