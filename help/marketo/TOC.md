@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
+source-git-commit: bc0d69105d7848e6068e552245dabbf28a69bacb
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9259'
 ht-degree: 1%
 
 ---
@@ -526,7 +526,6 @@ ht-degree: 1%
          + [Predictive Audiences快速入门](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [模型和见解](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [预测过滤器](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-         + [了解目标跟踪和预计注册](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM同步 {#crm-sync}
       + Microsoft Dynamics同步 {#microsoft-dynamics}
          + [了解Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
