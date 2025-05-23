@@ -32,13 +32,13 @@ Adobe GenStudio for Performance Marketing是一个创新型人工智能应用程
 
    屏幕快照
 
-1. [将HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}导出的模板上载到GenStudio for Performance Marketing。
+1. [将HTML](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}导出的模板上载到GenStudio for Performance Marketing。
 
 1. 在GenStudio中，使用此模板创建多个具有AI提示的电子邮件变体并保存它们。
 
 >[!NOTE]
 >
->在[GenStudio专用部分](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}中了解如何创建电子邮件体验。
+>在[GenStudio专用部分](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}中了解如何创建电子邮件体验。
 
 ## 在Marketo Engage中利用GenStudio体验 {#leverage-genstudio-experiences}
 
