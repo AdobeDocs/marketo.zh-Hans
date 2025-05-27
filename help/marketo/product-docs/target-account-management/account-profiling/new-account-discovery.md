@@ -4,16 +4,20 @@ description: 新帐户发现 — Marketo文档 — 产品文档
 title: 新帐户发现
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 0%
+source-wordcount: '301'
+ht-degree: 1%
 
 ---
 
 # 新帐户发现 {#new-account-discovery}
 
 新帐户发现可以通过使用理想客户配置文件中由AI提供支持的推荐来帮助您查找要定位的新帐户。
+
+>[!IMPORTANT]
+>
+>从2025年开始，帐户分析不再适用于新用户。 它将继续用于现有用户。
 
 >[!PREREQUISITES]
 >
@@ -73,4 +77,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >保存帐户后，您可以使用LinkedIn[&#128279;](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上的匹配受众来定位这些帐户。
+   >保存帐户后，您可以使用LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上的[匹配受众来定位这些帐户。

@@ -4,9 +4,9 @@ description: 设置帐户分析 — Marketo文档 — 产品文档
 title: 设置帐户分析
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 2%
 
 按照以下步骤开始使用“帐户分析”。
 
+>[!IMPORTANT]
+>
+>从2025年开始，帐户分析不再适用于新用户。 它将继续用于现有用户。
+
 >[!CAUTION]
 >
 >以下字段必须&#x200B;**不**&#x200B;隐藏，帐户分析才能正常运行。
@@ -22,7 +26,7 @@ ht-degree: 2%
 >* 网站
 >* 公司
 >* 电子邮件
->* 国家
+>* 国家/地区
 >
 >在此处了解如何[取消隐藏字段](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field)。
 

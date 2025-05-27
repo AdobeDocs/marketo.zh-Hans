@@ -4,16 +4,20 @@ description: 帐户分析排名和调整 — Marketo文档 — 产品文档
 title: 帐户分析排名和调整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 1%
 
 ---
 
 # 帐户分析排名和调整 {#account-profiling-ranking-and-tuning}
 
 帐户分析标识您的理想客户配置文件(ICP)，根据ICP对数据库中的公司进行排名，并将ICP指示符数据添加到提升为指定帐户的帐户。
+
+>[!IMPORTANT]
+>
+>从2025年开始，帐户分析不再适用于新用户。 它将继续用于现有用户。
 
 ## 模型结果 {#model-results}
 
