@@ -3,9 +3,9 @@ description: 配置 — Marketo文档 — 产品文档
 title: 配置
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 了解如何自定义聊天机器人对话框窗口的外观。
 
-若要开始，请单击&#x200B;**配置**&#x200B;下的&#x200B;**聊天机器人设置**。
+若要开始，请单击&#x200B;**配置**&#x200B;下的&#x200B;**聊天机器人**。
 
 ![](assets/configuration-1.png)
 
@@ -46,21 +46,35 @@ ht-degree: 0%
 >
 >自定义头像应为小于256kb且小于200x200像素的方形图像。 支持的文件类型包括： .jpg、.png、.gif、.webp、.svg。
 
-完成更改后，请记得单击&#x200B;**保存**。
+**新消息通知声音**
+
+单击下拉菜单以在每次在会话中触发聊天机器人时为访客选择提示音。 有多种声音可供选择。
+
+**在移动设备上启用Poke消息**
+
+选择滑块可启用“探查”（该选项在聊天图标旁边显示开头的问题，访客无需单击该图标即可查看），以供访客从移动设备中聊天。
 
 ![](assets/configuration-6.png)
+
+>[!NOTE]
+>
+>Poke仅在对话中的前[张卡片](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}上可用。
+
+完成更改后，请记得单击&#x200B;**保存**。
+
+![](assets/configuration-7.png)
 
 ## “隐私”选项卡 {#privacy-tab}
 
 单击&#x200B;**隐私**&#x200B;选项卡以添加/编辑网站隐私策略的URL（可选）。
 
-![](assets/configuration-7.png)
+![](assets/configuration-8.png)
 
 ## “安装”选项卡 {#installation-tab}
 
-要在您的网站上显示聊天机器人，您首先需要安装Dynamic ChatJavaScript代码片段。 单击此选项卡以查找/复制必要的代码。 如果您不熟悉此操作，请与您的Web团队或IT部门联系以获取帮助。
+要在您的网站上显示聊天机器人，您首先需要安装Dynamic Chat JavaScript代码片段。 单击此选项卡以查找/复制必要的代码。 如果您不熟悉此操作，请与您的Web团队或IT部门联系以获取帮助。
 
-![](assets/configuration-8.png)
+![](assets/configuration-9.png)
 
 >[!TIP]
 >
@@ -68,4 +82,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo支持未设置为协助对HTML进行故障诊断。 如需HTML帮助，请咨询Web开发人员。
+>未设置Marketo支持以帮助对HTML进行故障排除。 如需HTML帮助，请咨询Web开发人员。

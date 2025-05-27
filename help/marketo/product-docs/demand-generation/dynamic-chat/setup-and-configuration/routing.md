@@ -3,16 +3,16 @@ description: 路径 — Marketo文档 — 产品文档
 title: 路由
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
 # 路由 {#routing}
 
-以Dynamic Chat预订的会议可以采用两种方式路由。 循环调度法，或使用自定义规则。
+在Dynamic Chat中预订的会议可以采用两种方式路由。 循环调度法，或使用自定义规则。
 
 轮询：会议按顺序分配给座席。 如果你有5个座席，3个座席，参加上次会议，4个座席，接下一个，5个座席，然后返回1号座席。
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/routing-1.png)
 
-1. 单击&#x200B;**自定义规则**&#x200B;选项卡。
+1. 默认情况下将打开&#x200B;**自定义规则**&#x200B;选项卡。
 
    ![](assets/routing-2.png)
 
