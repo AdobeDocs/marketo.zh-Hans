@@ -3,7 +3,7 @@ description: Demandbase - Marketo文档 — 产品文档
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 2%
@@ -19,6 +19,8 @@ Demandbase用户可以使用Demandbase人员属性在Dynamic Chat中进行对话
 以下步骤将在您的Demandbase帐户&#x200B;_中完成_。
 
 1. 在Demandbase中，单击&#x200B;_设置_&#x200B;图标。
+
+   ![](assets/demandbase-1.png)
 
 1. 在&#x200B;_集成_&#x200B;下，选择&#x200B;**帐户连接器**。
 
@@ -42,12 +44,12 @@ Demandbase用户可以使用Demandbase人员属性在Dynamic Chat中进行对话
 
 在创建对话框或对话流时，除了本机属性和自定义属性之外，还根据Demandbase属性定位受众。
 
-![](assets/demandbase-1.png)
+![](assets/demandbase-2.png)
 
 使用Demandbase属性作为条件分支、对话框或对话流中的条件。
 
-![](assets/demandbase-2.png)
+![](assets/demandbase-3.png)
 
 在定义任何自定义路由逻辑时，请使用Demandbase属性。
 
-![](assets/demandbase-3.png)
+![](assets/demandbase-4.png)
