@@ -14,7 +14,7 @@ ht-degree: 3%
 
 在下方，您会找到2025年4月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
 
-可以在此处](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到特定于Adobe Dynamic Chat [的发行说明。
+可以在此处[&#128279;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到特定于Adobe Dynamic Chat 的发行说明。
 
 >[!AVAILABILITY]
 >
