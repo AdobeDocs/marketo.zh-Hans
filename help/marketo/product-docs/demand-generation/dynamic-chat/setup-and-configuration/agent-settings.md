@@ -3,9 +3,9 @@ description: 代理设置 — Marketo文档 — 产品文档
 title: 代理设置
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '543'
 ht-degree: 2%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 2%
 
 ### 权限 {#permissions}
 
-使用Outlook配置可授予Dynamic Chat以下权限：
+使用Outlook配置可向Dynamic Chat授予以下权限：
 
 * 完全访问您的日历
 * 登录并阅读您的个人资料
@@ -95,3 +95,11 @@ ht-degree: 2%
 >[!TIP]
 >
 >通过单击右侧的&#x200B;**+**&#x200B;符号，可选择同一天的多个时间块（例如，8a-12p _和_ 1p-5p之间的星期五）。
+
+## 代理配置文件照片
+
+虽然座席能够上传自己的个人资料照片，但该操作不会在Dynamic Chat中执行。 他们需要导航到`account.adobe.com/profile`。 在此处了解详情： [更新您的帐户资料](https://helpx.adobe.com/cn/manage-account/using/edit-adobe-account-personal-profile.html)。
+
+>[!NOTE]
+>
+>`experience.adobe.com`中显示的配置文件图像是&#x200B;**不支持**。

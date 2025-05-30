@@ -3,16 +3,20 @@ description: Analytics - Marketo文档 — 产品文档
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 2%
+source-wordcount: '259'
+ht-degree: 3%
 
 ---
 
 # Analytics {#analytics}
 
 虽然可在对话框级别进行报告，但可使用以下三个功能板检查总体参与情况。
+
+>[!NOTE]
+>
+>来自Dynamic Chat的数据可能需要24小时才能反映在您的Marketo Engage实例中。
 
 访问左侧导航栏中&#x200B;**Analytics**&#x200B;下的每个仪表板。
 

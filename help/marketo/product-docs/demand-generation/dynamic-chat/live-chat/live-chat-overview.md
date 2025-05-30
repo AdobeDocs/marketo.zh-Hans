@@ -3,9 +3,9 @@ description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -115,6 +115,10 @@ Mac的[步骤](https://support.apple.com/guide/mac-help/change-notifications-set
 
 * 在“接受聊天”消息超时之前，工程师有100秒的时间进行响应。 之后，访客将收到[回退消息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}。 对于将路由选项设置为&#x200B;**团队**&#x200B;的Dynamic Chat Prime订阅者，将在显示回退消息之前再尝试一个代理。
 * 目前每个代理最多只能进行10次实时聊天。
+* 代理收件箱仅用于实时聊天对话。 如果座席不接受聊天，则它不会出现在“座席收件箱”中，因为它不符合“实时聊天”的条件。
+* “对话”选项卡显示所有对话，包括“实时”和“自动聊天”。 因此，如果座席不接受对话，该对话将列在“对话”选项卡中。 由于“对话”选项卡不是实时的，因此会延迟24小时。 但是，“代理收件箱”是实时的。
+* 如果10分钟后没有聊天活动（座席或访客），则聊天将超时。
+* 如果代理在&#x200B;_实时聊天期间{account.adobe.com}更改了其配置文件图像，则访客在聊天结束前仍会看到旧图像。_&#x200B;访客下次登录并获取代理时，将会看到新图像。
 
 >[!MORELIKETHIS]
 >
