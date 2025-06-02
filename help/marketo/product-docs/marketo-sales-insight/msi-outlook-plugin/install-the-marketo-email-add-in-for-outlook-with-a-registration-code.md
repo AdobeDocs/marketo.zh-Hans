@@ -4,10 +4,10 @@ description: 安装适用于Outlook的Marketo电子邮件加载项，并提供�
 title: 使用注册码安装适用于Outlook的Marketo电子邮件加载项
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
 workflow-type: tm+mt
-source-wordcount: '532'
-ht-degree: 1%
+source-wordcount: '551'
+ht-degree: 3%
 
 ---
 
@@ -31,32 +31,80 @@ ht-degree: 1%
 
 ## 下载安装程序 {#download-installer}
 
-1. 识别您的[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. 识别您的[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}。
 
-1. 单击该链接以下载适用于您的Microsoft Outlook版本的安装程序。
+1. 在下表中，单击链接以下载适用于您的Microsoft Outlook版本的.ZIP文件。
+
+1. 解压缩文件以访问所需的.MSI文件，然后继续安装。
 
    >[!NOTE]
    >
    >目前，以下链接仅在Microsoft Edge中有效，或者通过在Chrome中右键单击有效。 造成任何不便，敬请见谅。
 
-   | Outlook版本 | 32位Outlook | 64位Outlook |
-   |---|---|---|
-   | Outlook 2000 | 不支持 | 不适用 |
-   | 2003年展望 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 不适用 |
-   | Outlook 2007 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 不适用 |
-   | Outlook 2010 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | 适用于Mac的Outlook | 不支持 | 不支持 |
-   | Outlook Web App | 不支持 | 不支持 |
-   | Office 365* | [下载](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下载](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+<table><thead>
+  <tr>
+    <th>Outlook版本</th>
+    <th>32位Outlook</th>
+    <th>64位Outlook</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Outlook 2000</td>
+    <td>不支持</td>
+    <td>不适用</td>
+  </tr>
+  <tr>
+    <td>2003年展望</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下载</a></td>
+    <td>不适用</td>
+  </tr>
+  <tr>
+    <td>Outlook 2007</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下载</a></td>
+    <td>不适用</td>
+  </tr>
+  <tr>
+    <td>Outlook 2010</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下载</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">下载</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2013</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下载</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">下载</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2016</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下载</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">下载</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2019</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下载</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">下载</a></td>
+  </tr>
+  <tr>
+    <td>适用于Mac的Outlook</td>
+    <td>不支持</td>
+    <td>不支持</td>
+  </tr>
+  <tr>
+    <td>Outlook Web App</td>
+    <td>不支持</td>
+    <td>不支持</td>
+  </tr>
+  <tr>
+    <td>Office 365*</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下载</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">下载</a></td>
+  </tr>
+</tbody></table>
 
-   *Office 365版本：仅限Windows客户端（在Windows 10、Enterprise或Pro上）。
+*Office 365版本：仅限Windows客户端（在Windows 10、Enterprise或Pro上）。
 
-   >[!IMPORTANT]
-   >
-   >Microsoft已发布适用于Windows的[新版本的Outlook](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}。 此新版本不支持现有的MSI Outlook插件。 MSI Outlook插件将继续用于运行经典版本的Outlook的Windows桌面。 若要了解有关适用于组织的新Outlook for Windows的详细信息，请[单击此处](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
+>[!IMPORTANT]
+>
+>Microsoft已发布适用于Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}的[新版Outlook。 此新版本不支持现有的MSI Outlook插件。 MSI Outlook插件将继续用于运行经典版本的Outlook的Windows桌面。 若要了解有关适用于组织的新Outlook for Windows的详细信息，请[单击此处](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
 
 ## 复制您的注册码 {#copy-your-registration-code}
 
