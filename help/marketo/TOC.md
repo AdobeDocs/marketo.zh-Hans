@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
-source-wordcount: '9264'
+source-wordcount: '9269'
 ht-degree: 1%
 
 ---
@@ -1034,6 +1034,7 @@ ht-degree: 1%
          + [使用 Adobe Express 编辑图像](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [片段](product-docs/email-marketing/email-designer/fragments.md)
          + [可自定义的片段](product-docs/email-marketing/email-designer/customizable-fragments.md)
+         + [适用于Marketo Engage的GenStudio集成](product-docs/email-marketing/email-designer/genstudio.md)
          + [内容锁定](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI 助手](product-docs/email-marketing/email-designer/ai-assistant.md)
       + 电子邮件程序 {#email-programs}

@@ -5,7 +5,7 @@ title: Personalization令牌
 description: 了解如何在新的Marketo Engage电子邮件Designer中使用个性化令牌
 level: Beginner, Intermediate
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 主要用例 {#primary-use-case}
 
-此增强功能主要使那些从[Velocity脚本](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting){target="_blank"}转换到Handlebar脚本的用户受益。 新的电子邮件设计工具仅支持新的令牌格式。 更新的格式消除了空格并引入了修订的默认文本结构，从而确保更顺畅、更有效的脚本编写体验。
+此增强功能主要使那些从[Velocity脚本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}转换到Handlebar脚本的用户受益。 新的电子邮件设计工具仅支持新的令牌格式。 更新的格式消除了空格并引入了修订的默认文本结构，从而确保更顺畅、更有效的脚本编写体验。
 
 ## 令牌体验 {#token-experience}
 
@@ -32,13 +32,13 @@ ht-degree: 0%
 
 在经典电子邮件编辑器中，您可以添加带空格的令牌，如`lead.Anonymous IP`或`member.registration code`。 默认文本的格式为： `{{lead.City:default=fallback}}`
 
-![](assets/personalization-tokens-1.png){width="500" zoomable="yes"}
+![](assets/personalization-tokens-1.png){width="800" zoomable="yes"}
 
 ### 新建格式 {#new-format}
 
 在电子邮件设计器中，必须为令牌使用[驼峰式大小写](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case)或下划线（例如，`lead.anonymousIP`或`member.registration_code`）。 默认文本的格式也更改为`{%=lead.city ?: "fallback" %}`。
 
-![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
+![](assets/personalization-tokens-2.png){width="800" zoomable="yes"}
 
 ## 注意事项 {#things-to-note}
 
