@@ -4,9 +4,9 @@ description: 发行计划 - Marketo 文档 - 产品文档
 title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
+source-git-commit: c06b4b0c648d1f464994926dd17cbc412823a37c
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '138'
 ht-degree: 8%
 
 ---
@@ -53,13 +53,8 @@ _发行日期/功能可能会发生更改_
    <td>进行中</td>
   </tr>
   <tr> 
-   <td>’25年6月</td>
-   <td>2025年6月27日</td>
-   <td>按计划</td>
-  </tr>
-  <tr> 
    <td>’25年7月</td>
-   <td>2025年7月25日</td>
+   <td>2025年7月11日</td>
    <td>按计划</td>
   </tr>
   <tr> 
