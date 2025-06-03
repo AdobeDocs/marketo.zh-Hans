@@ -4,9 +4,9 @@ description: 使用专用IP地址发送电子邮件 — Marketo文档 — 产品
 title: 使用您的专用IP地址发送电子邮件
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1ba9524b4136f50e5b4fc17e87466d6452913df6
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->专用IP是一种附加产品。 并非每个人都有资格为其程序添加专用IP。 您需要每月发送超过100,000封电子邮件，并且具有稳定的活动节奏以维护专用IP。 有关如何将专用IP添加到Marketo项目的更多信息，请联系Adobe客户团队（您的客户经理）。
+>专用IP是一种附加产品。 并非每个人都有资格为其程序添加专用IP。 您需要每月发送超过100,000封电子邮件，并且具有稳定的活动节奏以维护专用IP。 有关如何将专用IP添加到Marketo项目的更多信息，请与您的客户团队联系。
 >
 >如果您每月发送的电子邮件数量少于100,000，并且/或者您的促销活动量是可变的，并且/或者您是季节性发件人，则您将无法维护专用IP。 Marketo确实为遵守严格最佳实践的客户维护一个单独的受信任IP共享池。 如有兴趣，请填写[此调查表](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html)以申请Marketo的受信任IP计划。
 
