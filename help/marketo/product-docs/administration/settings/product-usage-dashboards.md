@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -64,21 +64,26 @@ Marketo Engage产品使用情况功能板能够根据某些限制或积压的数
 >
 >* 仪表板仅显示前20个活动类型，而其余活动类型分类为名为“其他”的类别。
 
-![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
-
 活动使用情况可向您显示正在进行多少营销，并有助于对照已订约产品级别确定的增长，实现可视化。 仪表板还可用作指南，以确定通过减少所更新的字段可以/应该进行多少优化。
 
 ### 按类型 {#by-type}
 
 按过去七天内出现的最常见活动类型对活动进行分组。 这可能包括&#x200B;_更改数据值_、_添加到列表_&#x200B;或&#x200B;_发送电子邮件_&#x200B;等类别。 这使您能够查看Marketo Engage帐户中经常发生哪些类型的活动。
 
+![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
+
+
 ### 通过更改数据值属性 {#by-change-data-value-attribute}
 
 _更改数据值_&#x200B;是最常见的活动类型。 它指示人员/潜在客户记录中的一段信息何时更新。 在本例中，我们按照更改最频繁的字段进行分组，以便您可以确定哪些信息对营销操作有用、是否有机会优化平台使用情况等。
 
+![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
+
 ### 按营销活动 {#by-campaign}
 
 营销活动在其中产生最多活动的组。 这样，您就可以查看是否存在任何特别“嘈杂”的营销活动，这些营销活动会创建超出所需数量的活动。 快速了解应停用的营销活动或完成的工作超出预期营销活动。
+
+![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
 
 ### 由Source提供（即将推出） {#by-source}
 
