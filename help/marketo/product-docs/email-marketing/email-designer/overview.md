@@ -5,9 +5,9 @@ description: 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 title: 概述
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
+source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++了解如何访问电子邮件设计器
 
-要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 添加用户 {#add-users}
 
@@ -76,11 +76,19 @@ ht-degree: 0%
 
 **我们现有的电子邮件模板是否可以在新设计器中工作？ 如果没有，我们是否需要使用新的设计器创建模板，以便所有节/模块对应于我们希望内容的外观？**
 
-不能，新设计器中无法引用经典编辑器中的电子邮件模板。 您需要在新设计器中创建新模板。 但是，您&#x200B;_可以_&#x200B;将模板HTML导入新设计器中，然后进行必要的调整。 我们还正在努力研究一种将模板从经典编辑器轻松迁移到新设计器的方法。
+新设计器中无法引用经典编辑器中的电子邮件模板。 您需要在新设计器中创建新模板。 但是，您&#x200B;_可以_&#x200B;将模板HTML导入新设计器中，然后进行必要的调整。 **注意**：即将推出与新设计器兼容的经典编辑器模板。
+
+**我能否轻松地将新的设计器资源移动到其他程序？**
+
+目前不可以。 但是，此功能即将推出。
+
+**能否在新的电子邮件设计器中通过API编辑资源？**
+
+目前，新的电子邮件设计器不支持通过API编辑的Assets。
 
 **是否有办法强制执行品牌策略（字体、徽标和颜色）？**
 
-锁定内容节是新设计器的一部分，锁定样式、颜色等将在今年晚些时候推出。
+锁定内容节是新设计器的一部分，并且锁定样式、颜色等即将推出。
 
 **是否使模板的模块更可自定义和可扩展？**
 
@@ -88,16 +96,11 @@ ht-degree: 0%
 
 **电子邮件模板创建过程在新设计器中如何工作？ 是WYSIWYG还是需要HTML知识？**
 
-它是WYSIWYG；不需要HTML知识。 您可以轻松创建
-减少了外部Web开发人员的需求。 但是，您仍然可以选择通过HTML更新CSS和编辑各个部分。 我们还正在努力研究一种将模板从经典编辑器轻松迁移到新设计器的方法。
+它是WYSIWYG；不需要HTML知识。 您可以轻松地在设计器中创建模板，从而减少外部Web开发人员的需求。 但是，您仍然可以选择通过HTML更新CSS和编辑各个部分。 我们还正在努力研究一种将模板从经典编辑器轻松迁移到新设计器的方法。
 
 **新的电子邮件设计工具是否支持AMP语言？**
 
 目前不支持AMP。
-
-**能否在新的电子邮件设计器中通过API编辑资源？**
-
-目前，新的电子邮件设计器不支持通过API编辑的Assets。
 
 **按属性分类的动态内容很好，但按区段分类的动态内容是否仍然有效？**
 
