@@ -3,9 +3,9 @@ description: 高级BI Analytics概述 — Marketo文档 — 产品文档
 title: 高级BI Analytics概述
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
+source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1138'
 ht-degree: 0%
 
 ---
@@ -58,11 +58,74 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
    ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
+## 导出报告 {#export-a-report}
+
+导出完整报表时，您的导出选项为PDF和PPT。 如果您需要使用XLS或CSV格式的数据，可以通过导出单个可视化图表来执行此操作（[请参阅下面的](#export-a-visualization)）。
+
+>[!BEGINTABS]
+
+>从报告页面[!TAB ]
+
+1. 在“报告”页面上，单击所需报告的“更多”图标(...)，然后选择&#x200B;**导出**。
+
+   ![](assets/export-a-report-1a.png)
+
+1. 选择PDF或PPT，然后单击&#x200B;**导出**。
+
+   ![](assets/export-a-report-2a.png)
+
+>[!TAB 在报表中]
+
+1. 在报表中，单击右上角的“更多”图标(**...**)，然后选择&#x200B;**导出**。
+
+   ![](assets/export-a-report-1b.png)
+
+1. 选择PDF或PPT，然后单击&#x200B;**导出**。
+
+   ![](assets/export-a-report-2b.png)
+
+>[!ENDTABS]
+
+### 导出可视化图表 {#export-a-visualization}
+
+了解如何导出报告的特定部分。
+
+1. 选择所需的报表。
+
+   ![](assets/export-a-visualization-1.png){width="600" zoomable="yes"}
+
+1. 将鼠标悬停在显示的可视化图表上以显示三个图标。
+
+   ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
+
+1. 单击“更多”图标(**...**)
+
+   ![](assets/export-a-visualization-3.png)
+
+1. 选择&#x200B;**导出数据**。
+
+   ![](assets/export-a-visualization-4.png)
+
+1. 选择所需的数据格式。
+
+   ![](assets/export-a-visualization-5.png)
+
+   >[!NOTE]
+   >
+   >* _当前布局为_&#x200B;的数据仅适用于表和矩阵可视化图表。
+   * _基础数据_&#x200B;在Marketo Engage中不可用。
+
+1. 选择所需的文件格式(.XLS、.CSV)。
+
+   ![](assets/export-a-visualization-6.png)
+
+1. 单击&#x200B;**导出**。
+
 ## 视频演示 {#video}
 
 观看以下视频，了解多页面、穿透钻取报表体验的示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451692/?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 高级BI Analytics中的标准报表 {#standard-reports}
 
