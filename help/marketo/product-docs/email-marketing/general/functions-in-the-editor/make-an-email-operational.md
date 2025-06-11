@@ -4,20 +4,20 @@ description: 使电子邮件可操作 — Marketo文档 — 产品文档
 title: 使电子邮件正常运行
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # 使电子邮件正常运行 {#make-an-email-operational}
 
-运营电子邮件忽略取消订阅和营销暂停状态。 无论如何他们都会发送。
+运营电子邮件忽略取消订阅和营销暂停状态。 他们也不受通信限制的约束。 无论如何他们都会发送。
 
 >[!NOTE]
 >
->运营电子邮件不受通信限制的约束。
+>运营电子邮件不计入通信限制。 例如，如果某人每周只能收到一封电子邮件，而您已经向他们发送了营销电子邮件，则您仍然可以在必要时向他们发送操作电子邮件。
 
 1. 找到您的电子邮件，选择它，然后单击&#x200B;**编辑草稿**。
 
