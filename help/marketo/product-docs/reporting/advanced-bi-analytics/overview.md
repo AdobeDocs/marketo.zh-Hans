@@ -63,8 +63,7 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 导出完整报表时，您的导出选项为PDF和PPT。 如果您需要使用XLS或CSV格式的数据，可以通过导出单个可视化图表来执行此操作（[请参阅下面的](#export-a-visualization)）。
 
 >[!BEGINTABS]
-
->从报告页面[!TAB ]
+>[!TAB 从报告页面] 
 
 1. 在“报告”页面上，单击所需报告的“更多”图标(...)，然后选择&#x200B;**导出**。
 
@@ -113,7 +112,7 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
    >[!NOTE]
    >
    >* _当前布局为_&#x200B;的数据仅适用于表和矩阵可视化图表。
-   * _基础数据_&#x200B;在Marketo Engage中不可用。
+   >* _基础数据_&#x200B;在Marketo Engage中不可用。
 
 1. 选择所需的文件格式(.XLS、.CSV)。
 
