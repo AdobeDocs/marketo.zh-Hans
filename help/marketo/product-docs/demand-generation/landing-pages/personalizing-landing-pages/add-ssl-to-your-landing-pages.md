@@ -4,9 +4,9 @@ description: 将SSL添加到登陆页面 — Marketo文档 — 产品文档
 title: 将SSL添加到登陆页面
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '669'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 <tbody>
   <tr>
     <td><i>创建域时遇到意外错误。 请联系支持人员以获取帮助。</i></td>
-    <td>发生意外错误。 请收集日志和错误详细信息，然后将问题提交给支持部门。</td>
+    <td>发生意外错误。 请收集日志和错误详细信息，并将问题升级至<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo支持</a>。</td>
   </tr>
   <tr>
     <td><i>未找到默认域。 请联系支持人员以获取帮助。</i></td>
@@ -89,22 +89,16 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
     <td><i>域已存在。</i></td>
     <td>具有相同名称的域已存在。</td>
   </tr>
-  <tr>
-    <td><i>添加更多域之前需要一次性配置IP。 请联系支持人员以完成设置并重新尝试添加其他域。</i></td>
-    <td>默认域之后的第一个自定义域需要一次性设置由您启动。 请提出“支持”票证以完成设置，并在完成设置后添加域。</td>
-  </tr>
 </tbody></table>
 
 ## 注意事项 {#things-to-note}
 
-* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自定义SSL**：如果您需要自定义SSL，请提交[支持票证](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 请勿使用自助复选框来创建SSL。
 
 * **预先存在的SSL**：在添加域时，系统会检查预先存在的SSL，这些SSL可能在之前已手动创建。 如果您遇到此验证，请在不选择SSL创建的情况下创建您的域，我们将为您连接它们。 [联系支持人员](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}其他详细信息/选项。
 
-* **首次跟踪域**：首次创建电子邮件跟踪链接域将需要[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的手动干预。 UI中允许在同一域下后续创建子域。
-
 * **向现有域添加证书**：目前不支持向现有域添加证书。 对于预先存在的域，或者如果您未选中SSL证书框，则必须联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以添加证书。
 
-* **删除域**：删除域此时不会自动删除SSL证书。 将在未来版本中解决此问题。
+* **删除域**：删除域会自动删除SSL证书。
