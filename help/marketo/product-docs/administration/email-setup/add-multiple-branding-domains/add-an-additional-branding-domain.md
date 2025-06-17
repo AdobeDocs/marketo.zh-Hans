@@ -4,9 +4,9 @@ description: 添加其他品牌推广域 — Marketo文档 — 产品文档
 title: 添加附加品牌策略域
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 ## 注意事项 {#things-to-note}
 
-* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自定义SSL**：如果您需要自定义SSL，请提交[支持票证](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 请勿使用自助复选框来创建SSL。
 
@@ -86,6 +86,8 @@ ht-degree: 0%
 * **首次跟踪域**：首次创建电子邮件跟踪链接域将需要[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的手动干预。 UI中允许在同一域下后续创建子域。
 
 * **向现有域添加证书**：目前不支持向现有域添加证书。 对于预先存在的域，或者如果您未选中SSL证书框，则必须联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以添加证书。
+
+* **编辑或删除现有域上的证书**：如果您需要更新或删除现有SSL，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
 * **删除域**：删除域此时不会自动删除SSL证书。 将在未来版本中解决此问题。
 
