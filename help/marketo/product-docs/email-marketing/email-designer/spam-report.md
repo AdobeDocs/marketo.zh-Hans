@@ -42,4 +42,4 @@ SpamAssassin会分析您的内容并根据各种标准分配分数。 得分越�
 
 >[!NOTE]
 >
->垃圾邮件分数通过SpamAssassin获得，而规则不归Adobe所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank)。 可以在此处](https://spamassassin.apache.org/old/tests_3_0_x.html?utm_source=chatgpt.com)查看错误[的完整列表。
+>垃圾邮件分数通过SpamAssassin获得，而规则不归Adobe所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank)。 可以在此处[&#128279;](https://spamassassin.apache.org/old/tests_3_0_x.html?utm_source=chatgpt.com)查看错误的完整列表。
