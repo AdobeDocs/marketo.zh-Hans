@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '9269'
-ht-degree: 1%
+source-wordcount: '9279'
+ht-degree: 2%
 
 ---
 
@@ -1029,6 +1029,7 @@ ht-degree: 1%
          + [功能比较](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [使用Litmus测试电子邮件渲染](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization令牌](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [使用AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [使用 Adobe Express 编辑图像](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
@@ -1037,6 +1038,7 @@ ht-degree: 1%
          + [适用于Marketo Engage的GenStudio集成](product-docs/email-marketing/email-designer/genstudio.md)
          + [内容锁定](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI 助手](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [使用SpamAssassin的电子邮件垃圾邮件报告](product-docs/email-marketing/email-designer/spam-report.md)
       + 电子邮件程序 {#email-programs}
          + 创建电子邮件程序 {#creating-an-email-program}
             + [创建电子邮件程序](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

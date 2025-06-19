@@ -3,13 +3,13 @@ solution: Marketo Engage
 product: marketo
 title: 可自定义的片段
 description: 了解如何通过使其某些字段可编辑来自定义片段。
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '622'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 1. 选择片段中要配置可编辑字段的组件。
 
-1. 组件属性窗格将在右侧打开。 选择&#x200B;**[!UICONTROL 可编辑字段]**&#x200B;选项卡，然后切换&#x200B;**[!UICONTROL 启用版本]**&#x200B;选项。
+1. 组件属性窗格将在右侧打开。 选择&#x200B;**[!UICONTROL Editable fields]**&#x200B;选项卡，然后切换&#x200B;**[!UICONTROL Enable edition]**&#x200B;选项。
 
 1. 窗格中列出了可为选定组件编辑的所有字段。 可供编辑的字段取决于所选的组件类型。
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
-1. 单击&#x200B;**[!UICONTROL 概述]**&#x200B;以检查所有可编辑的字段及其默认值。
+1. 单击&#x200B;**[!UICONTROL Overview]**&#x200B;以检查所有可编辑的字段及其默认值。
 
    在此示例中，按钮URL字段显示在组件中定义的默认值中。 在将片段添加到用户的内容后，用户可以自定义此值。
 

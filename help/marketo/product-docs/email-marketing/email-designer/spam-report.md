@@ -4,10 +4,10 @@ product: marketo
 title: 垃圾邮件杀手
 description: 此处显示文本
 level: Beginner, Intermediate
-feature: Email Editor
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 3%
@@ -42,4 +42,4 @@ SpamAssassin会分析您的内容并根据各种标准分配分数。 得分越�
 
 >[!NOTE]
 >
->垃圾邮件分数通过SpamAssassin获得，而规则不归Adobe所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank)。 可以在此处[&#128279;](https://spamassassin.apache.org/old/tests_3_0_x.html?utm_source=chatgpt.com)查看错误的完整列表。
+>垃圾邮件分数通过SpamAssassin获得，而规则不归Adobe所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank)。 可以在此处](https://spamassassin.apache.org/old/tests_3_0_x.html?utm_source=chatgpt.com)查看错误[的完整列表。

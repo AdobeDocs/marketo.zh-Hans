@@ -4,8 +4,9 @@ product: marketo
 title: Personalization令牌
 description: 了解如何在新的Marketo Engage电子邮件Designer中使用个性化令牌
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 ## 主要用例 {#primary-use-case}
 
-此增强功能主要使那些从[Velocity脚本](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting){target="_blank"}转换到Handlebar脚本的用户受益。 新的电子邮件设计工具仅支持新的令牌格式。 更新的格式消除了空格并引入了修订的默认文本结构，从而确保更顺畅、更有效的脚本编写体验。
+此增强功能主要使那些从[Velocity脚本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}转换到Handlebar脚本的用户受益。 新的电子邮件设计工具仅支持新的令牌格式。 更新的格式消除了空格并引入了修订的默认文本结构，从而确保更顺畅、更有效的脚本编写体验。
 
 ## 令牌体验 {#token-experience}
 

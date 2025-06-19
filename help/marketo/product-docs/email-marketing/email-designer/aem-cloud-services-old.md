@@ -1,18 +1,20 @@
 ---
 title: 连接Experience Manager文档
-description: 了解如何将Adobe Experience ManagerCloud Service连接到Adobe Marketo Engage，以便您能够利用AEM资源。
+description: 了解如何将Adobe Experience Manager Cloud Services连接到Adobe Marketo Engage，以便您能够利用AEM资源。
+level: Beginner, Intermediate
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 3a3c3dae689760b720c4823bc1d11bf39da998fe
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# 连接Adobe Experience ManagerCloud Service {#connect-adobe-experience-manager-cloud-services}
+# 连接Adobe Experience Manager云服务 {#connect-adobe-experience-manager-cloud-services}
 
-了解如何将您的AEM AssetsCloud Service帐户连接到Adobe Marketo Engage实例，以便您可以在Marketo Engage电子邮件Designer中利用AEM资源存储库。
+了解如何将您的AEM Assets Cloud Services帐户连接到Adobe Marketo Engage实例，以便您可以在Marketo Engage Email Designer中使用AEM资源存储库。
 
 >[!NOTE]
 >
@@ -22,7 +24,7 @@ ht-degree: 0%
 
 屏幕快照
 
-1. 单击&#x200B;_Adobe Experience ManagerCloud Service_&#x200B;旁边的&#x200B;**编辑**。
+1. 单击&#x200B;_Adobe Experience Manager云服务_&#x200B;旁边的&#x200B;**编辑**。
 
 屏幕快照
 
@@ -32,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->仅列出与您的Marketo Engage订阅在同一IMS组织中关联的存储库。
+>仅列出在与Marketo Engage订阅相同的IMS组织中关联的存储库。
 
 1. 必须添加[服务凭据证书](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)才能配置存储库。 单击&#x200B;**+添加证书**&#x200B;按钮。
 
@@ -46,7 +48,7 @@ ht-degree: 0%
 
 屏幕快照
 
-现在，可从Marketo EngageEmail Designer访问该存储库中数字资产管理库的所有图像。
+现在，可以从Marketo Engage Email Designer访问该存储库中数字资产管理库的所有图像。
 
 >[!MORELIKETHIS]
 >

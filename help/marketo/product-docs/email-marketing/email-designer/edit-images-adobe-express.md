@@ -4,10 +4,11 @@ product: marketo
 title: 使用 Adobe Express 编辑图像
 description: 了解如何使用Adobe Express在Adobe Marketo Engage电子邮件编辑器中编辑图像。
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '807'
 ht-degree: 1%
 
 ---
@@ -35,7 +36,7 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 >[!TAB 单击图像名称]
 
-1. 在Marketo Engage中，转到&#x200B;**[!UICONTROL 设计工作室]**&#x200B;并选择&#x200B;**[!UICONTROL 图像和文件]**。
+1. 在Marketo Engage中，转到&#x200B;**[!UICONTROL Design Studio]**&#x200B;并选择&#x200B;**[!UICONTROL Images and Files]**。
 
    ![选择Design Studio左侧导航中的图像和文件](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
@@ -45,11 +46,11 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
    >[!NOTE]
    >
-   >* 要按工作区和文件夹查看资源，请单击左上角的&#x200B;**[!UICONTROL 显示文件夹]**&#x200B;图标以打开结构。
+   >* 要按工作区和文件夹查看资源，请单击左上角的&#x200B;**[!UICONTROL Show Folders]**&#x200B;图标以打开结构。
    >
    >* 要按任意列对表进行排序，请单击列标题。 标题行中的箭头指示当前排序列和顺序。
 
-1. 在图像&#x200B;_详细信息_&#x200B;选项卡中，单击&#x200B;**[!UICONTROL 在Adobe Express中编辑]**。
+1. 在图像&#x200B;_详细信息_&#x200B;选项卡中，单击&#x200B;**[!UICONTROL Edit in Adobe Express]**。
 
    ![单击“在Adobe Express中编辑”按钮](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
@@ -59,17 +60,17 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 >[!TAB 映像和文件操作]
 
-1. 在Marketo Engage中，转到&#x200B;**[!UICONTROL 设计工作室]**&#x200B;并选择&#x200B;**[!UICONTROL 图像和文件]**。
+1. 在Marketo Engage中，转到&#x200B;**[!UICONTROL Design Studio]**&#x200B;并选择&#x200B;**[!UICONTROL Images and Files]**。
 
    ![选择Design Studio左侧导航中的图像和文件](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
-   >* 要按工作区和文件夹查看资源，请单击左上角的&#x200B;**[!UICONTROL 显示文件夹]**&#x200B;图标以打开结构。
+   >* 要按工作区和文件夹查看资源，请单击左上角的&#x200B;**[!UICONTROL Show Folders]**&#x200B;图标以打开结构。
    >
    >* 要按任意列对表进行排序，请单击列标题。 标题行中的箭头指示当前排序列和顺序。
 
-1. 选中要编辑的图像旁边的复选框。 在&#x200B;**[!UICONTROL 图像和文件操作]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL 在Adobe Express中编辑]**。
+1. 选中要编辑的图像旁边的复选框。 在&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL Edit in Adobe Express]**。
 
    ![选中图像名称旁边的复选框，然后使用图像和文件操作下拉列表](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
@@ -144,23 +145,23 @@ Adobe Marketo Engage与Adobe Express原生集成，可让您访问各种图像�
 
 #### 裁切图像 {#crop-image}
 
-1. 单击&#x200B;**[!UICONTROL 裁切图像]**。
+1. 单击 **[!UICONTROL Crop Image]**。
 
 1. 拖动图像的角以创建所需的裁切。
 
 ![拖动照片边角以裁切图像](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. 完成后单击&#x200B;**[!UICONTROL 应用]**。
+1. 完成后单击&#x200B;**[!UICONTROL Apply]**。
 
 #### 转换为PNG/JPEG {#convert-to-png-jpeg}
 
 将PNG文件转换为JPEG文件，或将JPEG文件转换为PNG文件。
 
-1. 单击&#x200B;**[!UICONTROL 转换为PNG/JPEG]**。
+1. 单击 **[!UICONTROL Convert to PNG/JPEG]**。
 
 ![转换为PNG/JPEG窗口](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
-1. 单击&#x200B;**[!UICONTROL 应用]**。
+1. 单击 **[!UICONTROL Apply]**。
 
 ## 保存您所做的工作 {#save-your-work}
 
