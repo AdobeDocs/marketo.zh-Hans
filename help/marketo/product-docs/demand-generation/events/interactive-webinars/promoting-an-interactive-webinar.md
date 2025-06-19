@@ -3,16 +3,16 @@ description: 推广交互式网络研讨会 — Marketo文档 — 产品文档
 title: 推广交互式网络研讨会
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
 
 # 推广交互式网络研讨会 {#promoting-an-interactive-webinar}
 
-推广交互式网络研讨会与通过Launchpoint推广合作伙伴网络研讨会类似。 创建交互式网络研讨会事件程序时，可以通过运行活动或将成员导入程序来添加成员。 要检查已添加到交互式网络研讨会事件程序的成员，请单击&#x200B;**[!UICONTROL 成员]**&#x200B;选项卡。
+推广交互式网络研讨会与通过Launchpoint推广合作伙伴网络研讨会类似。 创建交互式网络研讨会事件程序时，可以通过运行活动或将成员导入程序来添加成员。 要检查已添加到交互式网络研讨会事件程序的成员，请单击&#x200B;**[!UICONTROL Members]**&#x200B;选项卡。
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -46,9 +46,13 @@ ht-degree: 0%
 
 ## 交互式网络研讨会令牌 {#interactive-webinars-tokens}
 
-使用令牌在电子邮件和登陆页面中推广交互式网络研讨会，而无需手动添加网络研讨会详细信息。 这提高了整体效率，因为对网络研讨会元数据（如网络研讨会标题、开始日期等）所做的任何更改都将自动反映在您的资源中。
+使用令牌在电子邮件中推广交互式网络研讨会，而无需手动添加网络研讨会详细信息。 这提高了整体效率，因为对网络研讨会元数据（如网络研讨会标题、开始日期等）所做的任何更改都将自动反映在您的资源中。
 
 ![](assets/promoting-an-interactive-webinar-3.png)
+
+>[!NOTE]
+>
+>目前，交互式网络研讨会令牌在登陆页面中不受支持。
 
 **令牌列表**
 

@@ -5,9 +5,10 @@ title: 使用Litmus测试电子邮件渲染
 description: Marketo Engage用户可以将他们的Litmus帐户集成在一起，无缝地测试各种电子邮件客户端中的内容呈现。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
+source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 ## 使用方法 {#how-to-use}
 
-1. 在&#x200B;_编辑电子邮件内容_&#x200B;屏幕中，单击&#x200B;**模拟内容**&#x200B;按钮。
+1. 在&#x200B;_编辑电子邮件内容_&#x200B;屏幕上，单击&#x200B;**模拟内容**&#x200B;按钮。
 
    ![](assets/test-email-rendering-with-litmus-1.png)
 
@@ -54,10 +55,10 @@ ht-degree: 0%
    >
    >了解如何[自定义您的默认电子邮件客户端列表](https://help.litmus.com/article/227-change-your-default-email-clients-list)。
 
-1. 完成测试后，单击屏幕左上角的向后箭头可返回&#x200B;_模拟内容_&#x200B;屏幕。
+1. 完成测试后，单击左上角的向后箭头返回&#x200B;_模拟内容_&#x200B;屏幕。
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**可选步骤**：如果您决定更改电子邮件，请单击&#x200B;**渲染电子邮件**&#x200B;查看更改后，请务必同时单击Litmus屏幕右上角的&#x200B;**重新测试**&#x200B;按钮。
+**可选步骤**：如果您决定更改电子邮件，在单击&#x200B;**渲染电子邮件**&#x200B;查看更改后，请务必也单击Litmus _电子邮件预览_&#x200B;屏幕右上角的&#x200B;**重新测试**&#x200B;按钮。
 
 ![](assets/test-email-rendering-with-litmus-7.png)

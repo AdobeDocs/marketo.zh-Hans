@@ -5,14 +5,14 @@ description: 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 title: 概述
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '861'
 ht-degree: 0%
 
 ---
 
-# 概述 {#overview}
+# 通过电子邮件发送Designer概述 {#overview}
 
 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++了解如何访问电子邮件设计器
 
-要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 添加用户 {#add-users}
 
@@ -54,6 +54,8 @@ ht-degree: 0%
 
 * [可自定义的片段](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：了解如何通过使其某些字段可编辑来自定义片段。
 
+* [Personalization令牌](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}：了解新电子邮件设计器中个性化令牌的新格式。
+
 * [使用AEM资源](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：了解如何轻松访问AEM数字资源，以便在Marketo Engage中使用。
 
 * [使用Adobe Express编辑图像](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}：了解如何使用Adobe Express在Adobe Marketo Engage电子邮件编辑器中编辑图像。
@@ -61,6 +63,8 @@ ht-degree: 0%
 * [使用AI助手](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}：利用Adobe的创作AI技术，向电子邮件中添加有用的文本和/或图像。
 
 * [在电子邮件模板中锁定内容](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：了解如何在电子邮件模板中锁定内容，从而帮助防止无意编辑或删除。
+
+* [使用Litmus测试电子邮件呈现](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}：利用您在Marketo Engage中的Litmus帐户，即时查看您的电子邮件在常用电子邮件客户端中的呈现方式。
 
 * [功能比较](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：比较以前的电子邮件编辑器(Email Editor 2.0)和新电子邮件编辑器Designer中各项功能的可用性。
 
@@ -112,4 +116,4 @@ ht-degree: 0%
 
 **哪些浏览器可以与新电子邮件Designer一起使用？**
 
-建议使用Google Chrome、Apple Safari或Microsoft Edge。 以后将提供对Mozilla Firefox的完全支持。
+建议使用Google Chrome、Apple Safari或Microsoft Edge。 即将提供对Mozilla Firefox的完全支持。
