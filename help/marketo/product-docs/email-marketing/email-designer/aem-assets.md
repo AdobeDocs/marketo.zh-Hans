@@ -75,7 +75,7 @@ ht-degree: 1%
 
 ![在“创建”对话框中选择AEM Assets作为图像源](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* 打开现有内容资源时，请在右侧的&#x200B;_[!UICONTROL Body]_部分中选择`AEM Assets`。
+* 打开现有内容资源时，请在右侧的&#x200B;_[!UICONTROL Body]_&#x200B;部分中选择`AEM Assets`。
 
 ![在属性中选择AEM Assets作为图像源](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
@@ -103,7 +103,7 @@ ht-degree: 1%
 
 ![选择AEM Assets存储库以访问图像资源](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
-* 将图像组件添加到画布并单击&#x200B;**[!UICONTROL Browse]**&#x200B;以打开&#x200B;_[!UICONTROL Select Assets]_对话框。
+* 将图像组件添加到画布并单击&#x200B;**[!UICONTROL Browse]**&#x200B;以打开&#x200B;_[!UICONTROL Select Assets]_&#x200B;对话框。
 
   从该对话框中，可以从所选存储库中选择图像。
 
