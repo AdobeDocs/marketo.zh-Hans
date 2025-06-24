@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## REST API中的列表操作 {#list-operations-in-the-rest-api}
 
-我们添加了以下与ReST中的列表操作相关的调用。 请参阅完整文档[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)。
+我们添加了以下与ReST中的列表操作相关的调用。 请参阅完整文档[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)。
 
 * 按ID获取列表
 * 获取多个列表
@@ -78,7 +78,7 @@ RTP集营销活动页面现在[包含现成的模板](/help/marketo/product-docs
 
 ## RTP：JavaScript API增强功能 {#rtp-javascript-api-enhancements}
 
-用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 有关完整文档，请参阅我们的[开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 有关完整文档，请参阅我们的[开发人员网站](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

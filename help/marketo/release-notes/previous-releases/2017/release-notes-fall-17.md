@@ -86,10 +86,10 @@ Web营销活动的&#x200B;**[令牌](/help/marketo/product-docs/web-personalizat
 
 ## 集成  {#integration}
 
-**[电子邮件预览API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[电子邮件预览API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)**
 
 现在，您可以在Marketo之外远程预览电子邮件，从而简化电子邮件内容本地化的过程并减少错误。
 
-**[替换HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[替换HTML API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)**
 
 开发人员可以远程更新电子邮件资产的HTML内容，从而能够在单个系统中维护资产。

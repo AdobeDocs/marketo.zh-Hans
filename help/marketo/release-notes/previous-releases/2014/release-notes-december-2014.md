@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ·合并潜在客户
 
-发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
+发布后，可在[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
 
 ## [!DNL Munchkin Javascript]兼容性增强 {#munchkin-javascript-compatibility-enhancements}
 
