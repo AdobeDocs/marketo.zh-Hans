@@ -56,7 +56,7 @@ ht-degree: 0%
    * 通过允许管理员编辑订阅和团队，_团队管理_&#x200B;支持无缝的帐户设置过程。
    * _Salesforce管理设置_&#x200B;可帮助团队以前所未有的速度更轻松地设置SFDC同步。
 
-* 适用于&#x200B;[!DNL Windows]**的** OWA插件：通过一个加载项，Sales Engage将支持所有[!DNL Windows Office365]客户端，从而能够在Outlook中使用Live Feed。 新的插件将显示在Microsoft Store中。
+* 适用于&#x200B;[!DNL Windows]&#x200B;**的** OWA插件：通过一个加载项，Sales Engage将支持所有[!DNL Windows Office365]客户端，从而能够在Outlook中使用Live Feed。 新的插件将显示在Microsoft Store中。
 * **活动推送器**：将Sales Engage同步到核心Marketo平台，以利用实时营销见解。
 
 ## [!DNL Marketo Sky] {#marketo-sky}

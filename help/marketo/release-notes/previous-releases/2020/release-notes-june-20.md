@@ -55,7 +55,7 @@ ht-degree: 0%
 * **Marketo Engage活动集成(BETA)**：将Marketo Engage活动数据直接引入[!DNL Bizible]，以在客户历程和所有归因模型中创建接触点。 示例包括商机得分更改、有趣的时刻、电子邮件点击或任何自定义活动。 增强了Marketo Engage集成。
 * **[!DNL Bizible]B2B客户属性集成(BETA)**：这是与Adobe Analytics的Adobe Experience Cloud集成，允许您将选定的Bizible数据直接引入Adobe Analytics以进行更深入的分析。 示例包括基于帐户的网站流量和按公司名称、帐户属性、CRM机会以及由[!DNL Bizible]归因收入和漏斗阶段定义的高价值个人的内容分析。
 * **[!DNL Bizible]发现过滤器和增强功能**：跨功能板使用渠道、子渠道、营销活动和区段过滤器分析您的数据。 使用更多向下钻取属性增强数据可见性。 这是对探索讨论区的增强。
-* [!DNL Microsoft Dynamics]**的**&#x200B;活动同步：通过将[!DNL Microsoft Dynamics]个CRM活动引入接触点历程来归因销售交互，并跟踪与潜在客户或联系人关联的呼叫、约会或任务等事件。 增强我们的[!DNL Microsoft Dynamics] CRM集成。
+* [!DNL Microsoft Dynamics]&#x200B;**的**&#x200B;活动同步：通过将[!DNL Microsoft Dynamics]个CRM活动引入接触点历程来归因销售交互，并跟踪与潜在客户或联系人关联的呼叫、约会或任务等事件。 增强我们的[!DNL Microsoft Dynamics] CRM集成。
 
 ## [!DNL Sales Insight] {#sales-insight}
 

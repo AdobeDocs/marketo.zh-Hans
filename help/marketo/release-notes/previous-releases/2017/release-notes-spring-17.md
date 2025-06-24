@@ -68,7 +68,7 @@ ABM命名帐户的&#x200B;**[百分点评分](https://docs.marketo.com/display/d
 
 在访客关闭您的页面之前捕获访客的注意力。 将您的个性化[!UICONTROL Web Campaigns]设置为仅在鼠标手势指示访客离开页面时显示。
 
-[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**[&#x200B;动画效果
+[!UICONTROL Web Campaigns][&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**&#x200B;动画效果
 
 设置Dialog Web Campaign的动画效果，以自定义活动在进入或退出网页时的显示方式。 您可以从6种不同的效果中进行选择，并控制对话框的时间和方向。
 

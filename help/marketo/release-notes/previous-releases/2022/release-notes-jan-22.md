@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-[!DNL Salesforce] CRM **的**[!DNL Sales Insight]
+[!DNL Salesforce] CRM **的**&#x200B;[!DNL Sales Insight]
 
 * **适用于[!UICONTROL Best Bets]**&#x200B;的新类型列：销售商将通过标记为“类型”的新列快速获得见解，以区分[!UICONTROL Best Bets]页面上的潜在客户和联系人。
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 * **已更新品牌**：正在更新所有[!DNL Sales Insight]页面，以与Adobe品牌保持一致。
 
-[!DNL Microsoft Dynamics]**的**[!DNL Sales Insight]
+[!DNL Microsoft Dynamics]&#x200B;**的**&#x200B;[!DNL Sales Insight]
 
 * **更新了帐户布局**：销售人员可以获取热门活动的集体视图，例如：电子邮件活动、Web活动、有趣的时刻以及帐户中所有联系人的得分更改。
 

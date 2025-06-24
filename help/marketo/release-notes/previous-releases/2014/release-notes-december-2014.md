@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## [!DNL Facebook]自定义受众 {#facebook-custom-audiences}
 
-一旦您的Marketo管理员通过[!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)添加了[[!DNL Facebook] ，您就可以轻松地创建、更新或[使用Marketo静态或智能列表中的潜在客户替换 [!DNL Facebook] 自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任意静态或智能列表的商机网格底部查找新的[!DNL Facebook]图标。
+一旦您的Marketo管理员通过[!UICONTROL Admin] > [!UICONTROL LaunchPoint][&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)添加了[!DNL Facebook] ，您就可以轻松地创建、更新或[使用Marketo静态或智能列表中的潜在客户替换 [!DNL Facebook] 自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任意静态或智能列表的商机网格底部查找新的[!DNL Facebook]图标。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 

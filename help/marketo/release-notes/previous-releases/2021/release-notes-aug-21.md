@@ -75,13 +75,13 @@ ht-degree: 0%
 
 * **[!DNL Bizible]与Adobe Privacy Service**&#x200B;的集成（2021年9月推出）： [!DNL Bizible]与Adobe Privacy Service的集成可跨Adobe Experience Cloud应用程序集中管理对关键数据隐私法规（如GDPR）的合规性。 现在，您可以利用此服务并集中管理所有隐私请求，以便跨应用程序反映传入[!DNL Bizible]和其他Adobe产品的更改请求。
 
-* Adobe Unified Shell **上的**[!DNL Bizible]： [!DNL Bizible]采用Adobe Unified Shell为用户提供了新的功能，这些功能将显示在[!DNL Bizible]应用程序标题栏中，并包括更好地访问支持资源和应用程序切换。 Adobe Unified Shell有助于在[!DNL Bizible]和其他Adobe Experience Cloud应用程序之间创建一致的体验。
+* Adobe Unified Shell **上的**&#x200B;[!DNL Bizible]： [!DNL Bizible]采用Adobe Unified Shell为用户提供了新的功能，这些功能将显示在[!DNL Bizible]应用程序标题栏中，并包括更好地访问支持资源和应用程序切换。 Adobe Unified Shell有助于在[!DNL Bizible]和其他Adobe Experience Cloud应用程序之间创建一致的体验。
 
 * **[!DNL Bizible]域所有权和自我管理**： [!DNL Bizible]用户可以利用Adobe Admin Console管理他们希望[!DNL Bizible]跟踪的域。 这可以为之前手动执行的流程引入自助服务，并提供有关如何跨Adobe Experience Cloud应用程序管理域所有权和跟踪的一致体验。
 
 ## 公告 {#announcements}
 
-* **更新到订阅通用ID设置**：为了支持现有用户即将集成的Marketo Engage和Adobe标识，所有Marketo Engage订阅将在启用通用ID支持时统一起来。 可在此处](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)找到更多信息[。
+* **更新到订阅通用ID设置**：为了支持现有用户即将集成的Marketo Engage和Adobe标识，所有Marketo Engage订阅将在启用通用ID支持时统一起来。 可在此处[&#128279;](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)找到更多信息。
 
 **_产品发布网络研讨会_**
 

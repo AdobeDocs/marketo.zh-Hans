@@ -77,7 +77,7 @@ ht-degree: 0%
 
 **_公告和弃用_**
 
-* 所有用户都必须在2021年1月15日&#x200B;**之前升级到Sales Insight**&#x200B;的最新版本。 如果您尚未完成升级，则在登录应用程序时会提示您完成升级。 按照本指南](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的说明[操作。 更新版本包括一个针对已识别安全漏洞的修补程序。 该修补程序最初于2016年4月6日发布。 注意：**版本1.4363或更高版本**&#x200B;不需要执行升级。
+* 所有用户都必须在2021年1月15日&#x200B;**之前升级到Sales Insight**&#x200B;的最新版本。 如果您尚未完成升级，则在登录应用程序时会提示您完成升级。 按照本指南[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的说明操作。 更新版本包括一个针对已识别安全漏洞的修补程序。 该修补程序最初于2016年4月6日发布。 注意：**版本1.4363或更高版本**&#x200B;不需要执行升级。
 * Form 1.0服务的弃用将在&#x200B;**2021年5月**&#x200B;版本中生效。 Forms 1.0服务将被完全弃用，从而导致仍在使用的所有其余Forms 1.0资源失去功能。 此外，通过不受支持的方法（如向leadCapture/save和leadCapture/save2端点提供的程序化表单POST ）提交的表单将被拒绝。 有关更多信息和修正，请参阅[我们在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)的帖子。
 * 2021年，Marketo Engage将更改登陆页面、表单以及图像和文件资源的URL结构。 对于现有Marketo Engage订购，我们将从2021年4月1日开始逐步推出。 有关推出时间表的更多详细信息将于2021年3月发布。 有关每个受影响的资产类型将如何更改的详细信息，请参阅[我们在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)中的帖子。
 

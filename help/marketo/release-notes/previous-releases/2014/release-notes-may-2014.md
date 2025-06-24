@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 计划会员资格分析中的计划状态和成功时间范围 {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-查看每个计划状态](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)中有多少[成员，以及他们更改为每个状态的时间，包括他们获得计划成功的日期。
+查看每个计划状态[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)中有多少成员，以及他们更改为每个状态的时间，包括他们获得计划成功的日期。
 
 ## [!UICONTROL Email Analysis]中的A/B测试电子邮件 {#a-b-test-emails-in-email-analysis}
 

@@ -50,13 +50,13 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-[!DNL Microsoft Dynamics 365]销售额&#x200B;**的**[!DNL Sales Insight]
+[!DNL Microsoft Dynamics 365]销售额&#x200B;**的**&#x200B;[!DNL Sales Insight]
 
 * **[!UICONTROL Best Bets]增强功能**： [!DNL Sales Insight]中的[!UICONTROL Best Bets]选项卡为销售人员提供按质量和紧迫性排定优先顺序的最热门联系人和潜在客户的实时视图。 我们增加了销售代表执行操作的功能，例如：直接从[!DNL Best Bets]页面查看人员得分、发送电子邮件或将潜在客户添加到指定的Marketo Engage营销活动，从而提高效率并加快响应时间。
 
 * **新电子邮件、Web活动、匿名Web活动仪表板**：我们添加了新销售仪表板，以便通知销售商有关其潜在客户和联系人最近电子邮件和Web活动的信息。 通过新的筛选功能，功能板现在可将insight用于电子邮件打开、点击和网页访问，以获取完整的帐户列表或特定帐户。 Marketo Engage会跟踪所有Web活动，并为销售人员提供关键信息，从而将匿名流量转化为潜在客户。 销售人员能够个性化参与并更快地将潜在客户转化为销售人员，因为他们能够更好地了解潜在客户行为，并根据所有接触点的相关性行事。
 
-[!DNL Salesforce]**的**[!DNL Sales Insight]
+[!DNL Salesforce]&#x200B;**的**&#x200B;[!DNL Sales Insight]
 
 * **帐户和机会级别[!UICONTROL Best Bets]**： [!DNL Sales Insight]现在允许销售代表查看他们拥有的帐户或机会的所有联系人的最佳匹配，即使联系人已分配给其他团队成员。 这可以让客户和机会所有者全面了解相关联系人的活动，并有助于他们基于对客户或机会的更全面的了解而采取行动。
 
