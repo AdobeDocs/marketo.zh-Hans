@@ -3,10 +3,10 @@ description: 设置ON24与Marketo的集成 — Marketo文档 — 产品文档
 title: 设置ON24与Marketo的集成
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 0%
+source-wordcount: '263'
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 创建新用户 {#create-a-new-user}
 
-1. 仍然在“用户和角色”中，单击“用户”**&#x200B;**&#x200B;选项卡，然后单击“邀请新用户”**&#x200B;**。
+1. 仍然在“用户和角色”中，单击“用户”****&#x200B;选项卡，然后单击“邀请新用户”****。
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 选择显示名称。 单击&#x200B;**服务**&#x200B;下拉菜单并选择&#x200B;**自定义**。 输入说明。 单击“仅API用户”下拉列表，然后选择在上述步骤[&#128279;](#create-a-new-user)中创建的用户。 单击&#x200B;**创建**。
+1. 选择显示名称。 单击&#x200B;**服务**&#x200B;下拉菜单并选择&#x200B;**自定义**。 输入说明。 单击“仅API用户”下拉列表，然后选择在上述步骤](#create-a-new-user)中创建的用户[。 单击&#x200B;**创建**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
@@ -84,4 +84,4 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. 使用保存的客户端ID、客户端密钥和身份，导航到您的ON24帐户。 其余步骤均在此执行，并[在此列出](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}。
+1. 使用保存的客户端ID、客户端密钥和身份，导航到您的ON24帐户。 其余步骤均在此处执行，可在[ON24文档](https://support.on24.com/hc/en-us/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"}中找到。

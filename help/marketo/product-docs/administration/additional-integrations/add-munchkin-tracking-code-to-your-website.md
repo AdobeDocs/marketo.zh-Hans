@@ -4,10 +4,10 @@ description: 将 [!DNL Munchkin] 跟踪代码添加到您的网站 — Marketo�
 title: 将 [!DNL Munchkin] 跟踪代码添加到您的网站
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 0%
+source-wordcount: '634'
+ht-degree: 1%
 
 ---
 
@@ -23,17 +23,17 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
 >[!NOTE]
 >
->Adobe Experience Cloud用户还可以使用Adobe启动项[&#128279;](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}中的Marketo集成以在其网页上包含[!DNL Munchkin]脚本。 如果您使用Adobe启动项，_将自动添加[!DNL Munchkin]脚本_，因此您无需自行添加。
+>Adobe Experience Cloud用户还可以使用Adobe Launch中的[Marketo集成](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}以在其网页上包含[!DNL Munchkin]脚本。 如果您使用Adobe Launch，_将自动添加[!DNL Munchkin]脚本_，因此您无需自行添加。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Munchkin]**。
+1. 单击 **[!UICONTROL Munchkin]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. 为&#x200B;**[!UICONTROL 跟踪代码类型]**&#x200B;选择&#x200B;**[!UICONTROL 异步]**。
+1. 为&#x200B;**[!UICONTROL Tracking Code Type]**&#x200B;选择&#x200B;**[!UICONTROL Asynchronous]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
@@ -59,17 +59,17 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    >[!TIP]
    >
-   >对于访问量大的网站（即每月访问数十万次），我们建议您选择不跟踪匿名人员。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}。
+   >对于访问量大的网站（即每月访问数十万次），我们建议您选择不跟踪匿名人员。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}。
 
 ## 使用多个工作区时添加跟踪代码 {#add-tracking-code-when-using-multiple-workspaces}
 
 如果您在Marketo帐户中使用工作区，则可能还会有与您的工作区对应的单独Web存在。 在这种情况下，您可以使用[!DNL Munchkin]跟踪Javascript将匿名用户分配到正确的工作区和分区。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. 单击&#x200B;**[!UICONTROL Munchkin]**。
+1. 单击 **[!UICONTROL Munchkin]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
@@ -79,9 +79,9 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    >[!NOTE]
    >
-   >如果不使用特殊工作区[!DNL Munchkin]代码，则将向帐户设置时创建的默认分区分配用户。 它最初名为“[!UICONTROL 默认值]”，但您可能在自己的Marketo帐户中更改了此名称。
+   >如果不使用特殊工作区[!DNL Munchkin]代码，则将向帐户设置时创建的默认分区分配用户。 它最初名为“[!UICONTROL Default]”，但您可能已在自己的Marketo帐户中更改了名称。
 
-1. 为&#x200B;**[!UICONTROL 跟踪代码类型]**&#x200B;选择&#x200B;**[!UICONTROL 异步]**。
+1. 为&#x200B;**[!UICONTROL Tracking Code Type]**&#x200B;选择&#x200B;**[!UICONTROL Asynchronous]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
@@ -109,9 +109,9 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
 有三种类型的[!DNL Munchkin]跟踪代码可供选择。 每种方法都会以不同的方式影响网页加载时间。
 
-1. **[!UICONTROL Simple]**：代码行数最少，但无法优化网页加载时间。 每次加载网页时，此代码都会加载jQuery库。
-1. **[!UICONTROL 异步]**：缩短网页加载时间。
-1. **[!UICONTROL 异步jQuery]**：减少了网页加载时间，也提高了系统性能。 此代码假定您已经拥有jQuery，并且不检查以加载它。
+1. **[!UICONTROL Simple]**：具有最少的代码行，但无法优化网页加载时间。 每次加载网页时，此代码都会加载jQuery库。
+1. **[!UICONTROL Asynchronous]**：缩短网页加载时间。
+1. **[!UICONTROL Asynchronous jQuery]**：减少网页加载时间，同时提高系统性能。 此代码假定您已经拥有jQuery，并且不检查以加载它。
 
 ## 测试您的[!DNL Munchkin]代码是否正常工作 {#test-if-your-munchkin-code-is-working}
 
@@ -123,19 +123,19 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. 单击&#x200B;**[!UICONTROL 网页活动]**。
+1. 单击 **[!UICONTROL Web Page Activity]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. 单击&#x200B;**[!UICONTROL 设置]**&#x200B;选项卡，双击&#x200B;**[!UICONTROL 活动Source]**。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡，双击&#x200B;**[!UICONTROL Activity Source]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. 将[!UICONTROL 活动Source]更改为&#x200B;**[!UICONTROL 匿名访客（包括ISP）]**，然后单击&#x200B;**[!UICONTROL 应用]**。
+1. 将[!UICONTROL Activity Source]更改为&#x200B;**[!UICONTROL Anonymous Visitors (including ISPs)]**&#x200B;并单击&#x200B;**[!UICONTROL Apply]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. 单击&#x200B;**[!UICONTROL 报表]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 

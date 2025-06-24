@@ -4,9 +4,9 @@ description: 将单点登录添加到门户 — Marketo文档 — 产品文档
 title: 将单点登录添加到门户
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
 >[!IMPORTANT]
 >
->这不适用于登记到Adobe身份的预订。 对于登记到Adobe身份的预订，单点登录在Adobe Admin Console的Adobe组织级别设置。 Adobe Admin Console目前仅支持SP启动。 [在此了解详情](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
+>这不适用于登记到Adobe Identity的订阅。 对于登记到Adobe Identity的订阅，将在Adobe Admin Console中的Adobe组织级别设置单点登录。 Adobe Admin Console目前仅支持SP启动。 [在此了解详情](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
 >[!NOTE]
 >
->您是[!DNL Microsoft Azure]用户吗？ 查看他们的[集成教程](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}。 仅供参考，其教程的步骤5c中存在打字错误。 请将中继状态设置为`https://<munchkinid>.mktoweb.com`，**_不是_** `https://<munchkinid>.marketo.com`。
+>您是[!DNL Microsoft Azure]用户吗？ 查看他们的[集成教程](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}。 仅供参考，其教程的步骤5c中存在打字错误。 请将中继状态设置为`https://<munchkinid>.mktoweb.com`，**_不是_** `https://<munchkinid>.marketo.com`。
 
 ## 如何发送请求 {#how-to-send-the-request}
 
@@ -59,53 +59,53 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
 默认情况下，禁用SSO。 按照以下步骤启用SAML并对其进行配置。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 单点登录]**。
+1. 单击 **[!UICONTROL Single Sign-On]**。
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >如果您在&#x200B;**[!UICONTROL 管理员]**&#x200B;下看不到&#x200B;**[!UICONTROL 单点登录]**，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
+   >如果在&#x200B;**[!UICONTROL Admin]**&#x200B;下未看到&#x200B;**[!UICONTROL Single Sign-On]**，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
 
-1. 在&#x200B;**[!UICONTROL SAML设置]**&#x200B;部分下，单击&#x200B;**[!UICONTROL 编辑]**。
+1. 在&#x200B;**[!UICONTROL SAML Settings]**&#x200B;部分下，单击&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
-1. 将&#x200B;**[!UICONTROL SAML单点登录]**&#x200B;更改为&#x200B;**[!UICONTROL 已启用]**。
+1. 将&#x200B;**[!UICONTROL SAML Single Sign-On]**&#x200B;更改为&#x200B;**[!UICONTROL Enabled]**。
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. 输入您的&#x200B;**[!UICONTROL 颁发者ID]**，**[!UICONTROL 实体ID]**，选择&#x200B;**[!UICONTROL 用户ID位置]**，然后单击&#x200B;**[!UICONTROL 浏览]**。
+1. 输入您的&#x200B;**[!UICONTROL Issuer ID]**，**[!UICONTROL Entity ID]**，选择&#x200B;**[!UICONTROL User ID Location]**，然后单击&#x200B;**[!UICONTROL Browse]**。
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
-1. 选择您的&#x200B;**[!UICONTROL 身份提供程序证书]**&#x200B;文件。
+1. 选择您的&#x200B;**[!UICONTROL Identity Provider Certificate]**&#x200B;文件。
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. 单击&#x200B;**[!UICONTROL 保存]**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
 ## 更新重定向页面设置 {#update-redirect-page-settings}
 
-1. 在&#x200B;**[!UICONTROL 重定向页面]**&#x200B;部分下，单击&#x200B;**[!UICONTROL 编辑]**。
+1. 在&#x200B;**[!UICONTROL Redirect Pages]**&#x200B;部分下，单击&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
-   >使用通用ID和SSO的客户必须在&#x200B;**[!UICONTROL 登录URL]**&#x200B;字段中输入身份提供程序的登录URL。
+   >使用通用ID和SSO的客户必须在&#x200B;**[!UICONTROL Login URL]**&#x200B;字段中输入身份提供程序的登录URL。
 
-1. 输入&#x200B;**[!UICONTROL 注销URL]**。 这是您希望用户注销Marketo时定向到的URL。
+1. 输入&#x200B;**[!UICONTROL Logout URL]**。 这是您希望用户注销Marketo时定向到的URL。
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. 输入&#x200B;**[!UICONTROL 错误URL]**。 这是您希望用户在登录Marketo失败时导向到的URL。 单击&#x200B;**[!UICONTROL 保存]**。
+1. 输入&#x200B;**[!UICONTROL Error URL]**。 这是您希望用户在登录Marketo失败时导向到的URL。 单击 **[!UICONTROL Save]**。
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

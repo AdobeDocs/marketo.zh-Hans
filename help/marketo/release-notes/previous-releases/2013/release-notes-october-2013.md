@@ -4,9 +4,9 @@ description: 发行说明 — 2013年10月 — Marketo文档 — 产品文档
 title: 发行说明 - 2013 年 10 月
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 3%
 
 ---
@@ -29,4 +29,4 @@ ht-degree: 3%
 
 ## Android Tablet事件签入应用程序 {#android-tablet-event-check-in-app}
 
-使用我们在[Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&hl=en)上提供的基于Android的新签到应用[签到应用](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)，将注册者签到您的活动中。
+使用Google Play上提供的基于Android的新签到应用程序，将注册者签到您的事件中。

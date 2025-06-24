@@ -4,9 +4,9 @@ description: 角色权限描述 — Marketo文档 — 产品文档
 title: 角色权限描述
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1447'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 * 访问Adobe Connect — 允许用户访问Adobe Connect屏幕
 * 访问Adobe Experience Manager&#42; — 允许用户访问Adobe Experience Manager屏幕
-* 访问Adobe组织映射&#42; — 允许用户访问Adobe组织映射屏幕
+* 访问Adobe组织映射&#42; — 授予用户访问Adobe组织映射屏幕的权限
 * 访问管理员审核记录&#42; — 授予用户访问管理员审核记录屏幕的权限
 * 访问审核记录&#42; — 授予用户访问审核记录的权限
 * 访问审核记录 — 让用户可以访问资产审核记录和管理员审核记录
@@ -41,10 +41,10 @@ ht-degree: 0%
 * 访问渠道 — 仅授予用户修改渠道标记的权限，而不授予其他自定义标记的权限
 * 访问通信限制 — 授予用户在管理员中启用通信限制的权限
 * 访问CRM — 授予用户在管理员中访问CRM （如[!DNL Salesforce]或[!DNL Microsoft Dynamics]）的权限
-* 访问[[!DNL Data.com]](https://data.com) — 授予用户访问Data.com流操作的权限
+* 访问`Data.com` — 授予用户访问Data.com流操作的权限
 * 访问电子邮件管理员 — 赋予用户访问电子邮件管理员的权限，以更改默认设置，如取消订阅和品牌化域
 * 访问事件合作伙伴 — 以管理员身份授予用户访问LaunchPoint的权限
-* 访问Experience Cloud受众共享 — 让用户可以访问将受众从Adobe Experience Cloud同步到Marketo Engage
+* 访问Experience Cloud受众共享 — 通过受众，用户可以将受众从Adobe Experience Cloud同步到Marketo Engage
 * 访问字段管理 — 允许用户访问管理员中的字段管理
 * 访问文件上传 — 使用户能够将图像和文件上传到Design Studio
 * 访问登陆页面 — 允许用户在Admin中访问登陆页面
@@ -58,7 +58,7 @@ ht-degree: 0%
 * 访问Predictive Audiences&#42; — 允许用户访问Predictive Audiences屏幕
 * 访问Revenue Cycle Analytics — 让用户可以访问Admin中的Revenue Cycle Analytics，以设置同步摘要和归因
 * 访问角色 — 授予用户管理和编辑角色的权限，但不授予用户
-* 访问Sales Insight — 使用户能够在Admin中管理Sales Insight，以用于设置状态、API配置、人员评分和其他设置
+* 访问Sales Insight — 授予用户在管理员中管理Sales Insight的权限，用于设置状态、API配置、人员评分和其他设置
 * 访问单点登录 — 让用户可以在Admin中管理单点登录，以便启用SAML并使用SAML设置和重定向页面URL
 * 访问Smart Campaign — 让用户在管理员中访问Smart Campaign，以限制对合格人员的限制
 * 访问SOAP API — 允许用户在Admin中管理Web服务中的SOAP API
@@ -108,11 +108,11 @@ _&#42;为避免现有用户中断，此权限将在被动模式下引入，此�
 
 _&#42;为避免现有用户中断，此权限将在被动模式下引入，此时可见但不可访问。 我们将传达该工具在2024年年中成为活动状态时如何实施该工具。_
 
-## 访问日历Presentations {#access-calendar-presentations}
+## 访问日历演示 {#access-calendar-presentations}
 
-允许用户访问日历演示文稿 — 允许在底部显示Presentations按钮。
+使用户能够访问“日历”演示文稿 — 允许显示在底部的“演示文稿”按钮。
 
-* 编辑日历Presentations — 允许用户在日历中编辑演示文稿
+* 编辑日历演示文稿 — 允许用户编辑日历中的演示文稿
 
 ## 访问Design Studio {#access-design-studio}
 

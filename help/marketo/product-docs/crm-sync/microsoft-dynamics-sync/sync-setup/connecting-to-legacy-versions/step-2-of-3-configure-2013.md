@@ -4,9 +4,9 @@ description: 第2步（共3步） — 为Marketo配置同步用户（2013年内�
 title: 第2步（共3步） — 为Marketo配置同步用户（2013年内部部署）
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这适用于Marketo插件版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅[升级Microsoft Dynamics的Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}。
+>这适用于Marketo插件版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅[升级MarketoMicrosoft Dynamics解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}。
 
 >[!IMPORTANT]
 >
->同步用户[的语言设置应设置为英语](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}。
+>同步用户[的语言设置应设置为“英语](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}”。
 
 1. 在&#x200B;**设置**&#x200B;下，单击&#x200B;**管理**。
 
@@ -43,17 +43,17 @@ ht-degree: 0%
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. 选择同步用户。 单击![](assets/image2015-3-26-11-3a16-3a22.png)并选择&#x200B;**[!UICONTROL 管理角色]**。
+1. 选择同步用户。 单击![](assets/image2015-3-26-11-3a16-3a22.png)并选择&#x200B;**[!UICONTROL Manage Roles]**。
 
    ![](assets/image2015-3-26-11-3a18-3a6.png)
 
-1. 检查&#x200B;**[!UICONTROL Marketo同步用户]**&#x200B;并单击&#x200B;**[!UICONTROL 确定]**。
+1. 检查&#x200B;**[!UICONTROL Marketo Sync User]**&#x200B;并单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/image2014-12-11-11-3a14-3a52.png)
 
    >[!TIP]
    >
-   >如果未看到该角色，请返回3[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md){target="_blank"}的步骤1并导入解决方案。
+   >如果未看到该角色，请返回3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md){target="_blank"}的[步骤1并导入解决方案。
 
    >[!NOTE]
    >
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 快完成了！ 在转到下一篇文章之前，我们仅做了最后几段配置。
 
-1. 在&#x200B;**[!UICONTROL 设置]**&#x200B;下，单击&#x200B;**[!UICONTROL Marketo配置]**。
+1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;下，单击&#x200B;**[!UICONTROL Marketo Config]**。
 
    ![](assets/image2014-12-11-11-3a15-3a1.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
    >
    >如果缺少“Marketo配置”，请尝试刷新页面。 如果问题仍然存在，请[再次发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)或尝试注销并重新登录。
 
-1. 单击&#x200B;**[!UICONTROL 默认值]**。
+1. 单击 **[!UICONTROL Default]**。
 
    ![](assets/image2015-3-26-11-3a30-3a20.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-11-3a15-3a32.png)
 
-1. 单击&#x200B;**[!UICONTROL Publish所有自定义项]**。
+1. 单击 **[!UICONTROL Publish All Customizations]**。
 
    ![](assets/publish-all-customizations1.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 * 如果要限制同步记录数，请立即[设置自定义同步筛选器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}。
 * 运行[验证Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}进程。 它验证初始设置是否正确完成。
-* 登录到Microsoft Dynamics CRM中的“Marketo同步用户”。
+* 登录到Microsoft Dynamics CRM中的Marketo同步用户。
 
 做得好！
 

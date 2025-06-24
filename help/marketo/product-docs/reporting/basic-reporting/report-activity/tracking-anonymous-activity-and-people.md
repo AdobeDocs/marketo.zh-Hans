@@ -4,7 +4,7 @@ description: 跟踪匿名活动和人员 — Marketo文档 — 产品文档
 title: 跟踪匿名活动和人员
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 跟踪匿名活动和人员 {#tracking-anonymous-activity-and-people}
 
-首次访问Marketo [登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)（或网站上具有[Munchkin跟踪代码](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)的页面）时，Marketo会创建一个&#x200B;_匿名活动_&#x200B;并使用浏览器Cookie对其进行跟踪。 在识别访客后，访客会变成用户，并且与浏览器Cookie关联的历史记录将合并到中。
+首次访问Marketo [登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)(或网站上具有[Munchkin跟踪代码](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)的页面)时，Marketo会创建一个&#x200B;_匿名活动_&#x200B;并使用浏览器Cookie对其进行跟踪。 在识别访客后，访客会变成用户，并且与浏览器Cookie关联的历史记录将合并到中。
 
 1. 当有人出现以下情况时，将创建匿名活动：
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 
    当某人出现以下情况时，匿名活动会合并到新人员或现有人员中：
 
-   * 单击Marketo电子邮件[&#128279;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)中的链接。
+   * 单击Marketo电子邮件](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)中的[链接。
    * 填写Marketo [表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)。
-   * 使用Marketo的[REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/leads)或[Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API（适用于开发人员）将匿名活动与已知记录相关联。
+   * 使用Marketo的[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)或[Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API（适用于开发人员）将匿名活动与已知记录相关联。
 
    数据库中的某个名称可能与许多Cookie相关联，因为人们通常使用不同的设备和浏览器访问您的网站。
 

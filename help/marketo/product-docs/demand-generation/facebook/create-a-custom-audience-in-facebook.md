@@ -4,9 +4,9 @@ description: 在Facebook中创建自定义受众 — Marketo文档 — 产品文
 title: 在Facebook中创建自定义受众
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >facebook API允许每个Facebook广告帐户最多500个自定义受众。
+   >Facebook API允许每个Facebook广告帐户最多500个自定义受众。
 
 1. 键入&#x200B;**受众名称**。 单击&#x200B;**更新**。
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您有多个Facebook广告帐户，则会看到一个额外的下拉列表，允许您选择创建受众的广告帐户。
+   >如果您有多个Facebook广告帐户，您将看到一个额外的下拉列表，允许您选择创建此受众的广告帐户。
 
    >[!TIP]
    >
@@ -64,11 +64,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您推送到Facebook的所有列表都将变为静态。 Marketo中的智能列表不会自动更新Facebook中的受众列表，以反映传输后所做的任何更改。
-
-   >[!TIP]
-   >
-   >查看Marketo客户的[Facebook学习路径](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}。 它涵盖了您需要了解的所有信息，从创建Facebook页面到使用Marketo的广告网络集成定向Facebook广告。
+   >您推送到Facebook的所有列表都会变为静态。 Marketo中的智能列表不会自动更新Facebook中的受众列表以反映传输后所做的任何更改。
 
    >[!MORELIKETHIS]
    >

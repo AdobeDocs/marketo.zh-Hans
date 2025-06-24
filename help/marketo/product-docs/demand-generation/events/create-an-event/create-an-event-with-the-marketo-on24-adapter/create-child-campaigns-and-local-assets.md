@@ -4,7 +4,7 @@ description: 创建子营销活动和本地Assets - Marketo文档 — 产品文�
 title: 创建子营销活动和本地Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -50,7 +50,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->您可以配置ON24以发送确认、提醒或跟进电子邮件。 有关详细信息，请参阅[ON24帮助站点](https://www.on24.com/live-webcast-elite/){target="_blank"}。
+>您可以配置ON24以发送确认、提醒或跟进电子邮件。 有关详细信息，请参阅[ON24帮助站点](https://support.on24.com/hc/en-us/categories/26127314569115-Webcast-Elite){target="_blank"}。
 
 ## 注册子营销活动要求 {#registration-child-campaign-requirements}
 
@@ -64,7 +64,7 @@ ht-degree: 1%
 
 **注册/确认（触发营销活动）**
 
-* 智能列表
+* Smart List
 * 触发器基于&#x200B;**填写表单**。 确保使用&#x200B;**添加约束**&#x200B;来包含表单所在的登陆页面，尤其是在多个登陆页面上使用相同表单的情况下。
 
 >[!CAUTION]
