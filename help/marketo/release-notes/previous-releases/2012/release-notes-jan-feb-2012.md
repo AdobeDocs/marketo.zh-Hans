@@ -4,9 +4,9 @@ description: 发行说明 — 2012年1月/2月 — Marketo文档 — 产品文�
 title: 发行说明 — 2012年1月/2月
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ _适用于Pro和Enterprise版本_
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## 分段  {#segmentation}
+## 区段  {#segmentation}
 
 _适用于Pro和Enterprise版本_
 
@@ -31,7 +31,7 @@ _适用于Pro和Enterprise版本_
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## 代码片段 {#snippets}
+## 片段 {#snippets}
 
 _适用于Pro和Enterprise版本_
 
@@ -61,7 +61,7 @@ _适用于Pro和Enterprise版本_
 
 电子邮件和登陆页面编辑器经过重新设计，具有更吸引人的界面、直观的导航和显着改进的用户体验，其中包括：
 
-并排HTML和文本视图
+并排的HTML和文本视图
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
@@ -69,10 +69,10 @@ _适用于Pro和Enterprise版本_
 
 ## 浏览器支持 {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8和9
-* **注意**：我们不再支持Internet Explorer 7
+* [!DNL Mozilla Firefox] 9.0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8和9
+* **注意**：我们不再支持[!DNL Internet Explorer] 7
 
 ## 项目管理 {#program-management}
 
@@ -96,6 +96,6 @@ _适用于Pro和Enterprise版本_
 
 ## 项目收入阶段分析 {#program-revenue-stage-analysis}
 
-通过了解哪些计划获得了快速推进器，深入了解计划领先速度
+通过了解哪些程序获得了快速推进器，使insight提升到程序领先速度
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)

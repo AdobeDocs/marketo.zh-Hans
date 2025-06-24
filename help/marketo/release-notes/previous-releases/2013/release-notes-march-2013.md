@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951101
 description: 发行说明 — 2013年3月 — Marketo文档 — 产品文档
-title: 发行说明 — 2013年3月
+title: 发行说明 - 2013 年 3 月
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 0%
+source-wordcount: '228'
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## 其他表单错误消息语言 {#additional-form-error-message-languages}
+## 其他表单[!UICONTROL Error Message]语言 {#additional-form-error-message-languages}
 
 表单错误消息中添加了十多种语言！
 

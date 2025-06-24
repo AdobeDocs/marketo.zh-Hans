@@ -4,9 +4,9 @@ description: 简单评分 — Marketo文档 — 产品文档
 title: 简单评分
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 步骤1：创建评分营销活动 {#step-create-a-scoring-campaign}
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
 
    ![](assets/simple-scoring-1.png)
 
-1. 右键单击您的&#x200B;**学习**&#x200B;文件夹，然后单击&#x200B;**[!UICONTROL 新建Campaign文件夹]**。
+1. 右键单击您的&#x200B;**学习**&#x200B;文件夹，然后单击&#x200B;**[!UICONTROL New Campaign Folder]**。
 
    ![](assets/simple-scoring-2.png)
 
-1. 将营销活动文件夹命名为“评分”，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 将营销活动文件夹命名为“Scoring”，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/simple-scoring-3.png)
 
@@ -36,21 +36,21 @@ ht-degree: 0%
    >
    >如果您已经有一个评分文件夹，请将其命名为其他名称，例如评分1。 文件夹名称必须是唯一的。
 
-1. 右键单击您的&#x200B;**评分**&#x200B;文件夹并选择&#x200B;**[!UICONTROL 新建智能营销活动]**。
+1. 右键单击您的&#x200B;**评分**&#x200B;文件夹并选择&#x200B;**[!UICONTROL New Smart Campaign]**。
 
    ![](assets/simple-scoring-4.png)
 
-1. 将营销活动命名为“更改得分”，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 将营销活动命名为“Change Score”，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/simple-scoring-5.png)
 
-1. 单击&#x200B;**[!UICONTROL 智能列表]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡。
 
    ![](assets/simple-scoring-6.png)
 
    我们希望每当有人填写您的&#x200B;**试用申请表**&#x200B;时运行此营销活动。
 
-1. 查找&#x200B;**[!UICONTROL 填写表单]**&#x200B;触发器并将其拖动到左画布上。
+1. 查找&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;触发器并将其拖动到左画布上。
 
    ![](assets/simple-scoring-7.png)
 
@@ -60,17 +60,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您使用表单[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入选完成了登陆页面，则您应该拥有表单。 如果表单使用了其他名称，请选择该名称。
+   >如果您使用表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入选完成了[登陆页面，则您应该拥有表单。 如果表单使用了其他名称，请选择该名称。
 
-1. 单击&#x200B;**[!UICONTROL 流量]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Flow]**&#x200B;选项卡。
 
    ![](assets/simple-scoring-9.png)
 
-1. 将&#x200B;**更改得分**&#x200B;流程操作拖动到左画布上。
+1. 将&#x200B;**[!UICONTROL Change Score]**&#x200B;流程操作拖动到左画布上。
 
    ![](assets/simple-scoring-10.png)
 
-1. 您可以键入要添加到人员得分的任何值。 让我们在&#x200B;**[!UICONTROL 更改]**&#x200B;字段中输入“+5”。
+1. 您可以键入要添加到人员得分的任何值。 让我们在&#x200B;**[!UICONTROL Change]**&#x200B;字段中输入“+5”。
 
    ![](assets/simple-scoring-11.png)
 
@@ -78,11 +78,11 @@ ht-degree: 0%
    >
    >良好的评分活动是向销售人员提供高质量人员的关键。 阅读&#x200B;[**引导评分的最终指南**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}。
 
-1. 单击&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡和&#x200B;**[!UICONTROL 激活]**&#x200B;按钮。
+1. 单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡和&#x200B;**[!UICONTROL Activate]**&#x200B;按钮。
 
    ![](assets/simple-scoring-12.png)
 
-1. 在确认屏幕上单击&#x200B;**[!UICONTROL 激活]**。
+1. 在确认屏幕上单击&#x200B;**[!UICONTROL Activate]**。
 
    ![](assets/simple-scoring-13.png)
 
@@ -96,11 +96,11 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-14.png)
 
-1. 单击&#x200B;**[!UICONTROL 预览]**。 登陆页面将在新选项卡中打开。
+1. 单击&#x200B;**[!UICONTROL Preview]**。 登陆页面将在新选项卡中打开。
 
    ![](assets/simple-scoring-15.png)
 
-1. 填写您的名字、姓氏和电子邮件地址，然后单击&#x200B;**[!UICONTROL 提交]**。
+1. 用您的名字、姓氏和电子邮件地址填写表单，然后单击&#x200B;**[!UICONTROL Submit]**。
 
    ![](assets/simple-scoring-16.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ## 步骤3：查看人员信息 {#step-view-the-person-info}
 
-1. 转到&#x200B;**[!UICONTROL 数据库]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Database]**&#x200B;区域。
 
    ![](assets/simple-scoring-17.png)
 

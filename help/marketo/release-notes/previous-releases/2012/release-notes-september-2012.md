@@ -4,9 +4,9 @@ description: 发行说明 — 2012年9月 — Marketo文档 — 产品文档
 title: 发行说明 — 2012年9月
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 此版本包括备受期待的集成式社交功能和商机管理实用组件！ 注意：社交功能作为加载项或选定捆绑的一部分提供。
 
-## 带有社交共享的Publish a YouTube视频 {#publish-a-youtube-video-with-social-sharing}
+## 通过社交共享发布YouTube视频 {#publish-a-youtube-video-with-social-sharing}
 
 通过在您的登陆页面上使用新的视频共享，鼓励您的访客在社交上共享视频，从而扩大视频的受众。
 
@@ -29,23 +29,23 @@ ht-degree: 0%
 
 ## 社交登录 {#social-sign-on}
 
-通过允许潜在客户使用社交网络中的信息预填充表单，获得洞察并减少摩擦。
+获取insight并通过允许潜在客户使用来自其社交网络的信息预填充表单来减少摩擦。
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publish登录页面到Facebook {#publish-landing-pages-to-facebook}
+## 将登陆页面发布到[!DNL Facebook] {#publish-landing-pages-to-facebook}
 
-通过将登陆页面直接发布到Facebook来扩展这些登陆页面的访问范围，并使用社交应用程序、表单和Marketo登陆页面的完整功能。
+通过将登陆页面直接发布到[!DNL Facebook]中来扩展这些登陆页面的访问范围，并使用社交应用程序、表单和Marketo登陆页面的完整功能。
 
-## ReadyTalk事件适配器 {#readytalk-event-adapter}
+## [!DNL ReadyTalk]事件适配器 {#readytalk-event-adapter}
 
-将Marketo活动无缝连接到ReadyTalk会议。 使用Marketo表单来捕获注册者，并在ReadyTalk中自动注册他们。 双向同步允许将出勤信息填充到Marketo中。
+将Marketo事件无缝连接到[!DNL ReadyTalk]会议。 使用Marketo表单捕获注册者并自动在[!DNL ReadyTalk]中注册他们。 双向同步允许将出勤信息填充到Marketo中。
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
+## Microsoft [!DNL Dynamics]内部部署 {#microsoft-dynamics-on-premise}
 
-现在，我们通过面向Internet的部署支持内部部署的Microsoft Dynamics 2011。
+现在，我们通过面向Internet的部署来支持Microsoft [!DNL Dynamics] 2011内部部署。
 
 ## Webhooks (Treasure Check) {#webhooks-treasure-chest}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514821
 description: 发行说明 — 2015年5月 — Marketo文档 — 产品文档
-title: 发行说明 — 2015年5月
+title: 发行说明 - 2015 年 5 月
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 ## 电子邮件可投放性  {#email-deliverability}
 
-Marketo现在将对您添加的域运行每周一次的自动SPF和DKIM检查。 通过检查您的通知随时了解此信息。
+Marketo现在将对您添加的域运行每周一次的自动[!DNL SPF]和[!DNL DKIM]检查。 通过检查您的通知随时了解此信息。
 
 ## 电子邮件模板行为更改 {#email-template-behavior-change}
 
-自此版本起，现在允许使用有效的HTML注释，并且在创建新电子邮件时不会删除这些注释。
+自此版本起，现在允许使用有效的HTML评论，并且在创建新电子邮件时不会将其删除。
 
 ## RTP：拖放区段编辑器 {#rtp-drag-and-drop-segment-editor}
 
@@ -43,8 +43,8 @@ RTP： [拖放区段编辑器](/help/marketo/product-docs/web-personalization/us
 
 将您的条件拖放到区段生成器中，定义相应的值，这样您便可以顺利创建实时区段。
 
-## RTP： Predictive Content Recommendations {#rtp-predictive-content-recommendations}
+## RTP：预测内容推荐 {#rtp-predictive-content-recommendations}
 
-[Predictive Content Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+[预测内容推荐](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 使用RTP的机器学习和预测分析算法向正确的潜在客户推荐正确的内容。 使用图像和文本描述以可视方式增强内容资产，并推荐多个内容资产。

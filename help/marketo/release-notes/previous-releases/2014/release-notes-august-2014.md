@@ -4,9 +4,9 @@ description: 发行说明 — 2014年8月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年8月
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 | 激活触发器营销活动 | 控制谁可以和谁无法激活触发营销活动。 |
 | 计划批处理活动 | 控制谁可以计划批处理营销活动运行，谁不能计划。 |
 
-## 从管理员中导出用户和角色 {#export-users-and-roles-from-admin}
+## 从[!UICONTROL Admin]导出用户和角色 {#export-users-and-roles-from-admin}
 
 您现在可以从Marketo [导出用户和角色列表](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)。 您还可以包含要包含在导出中的“上次登录”时间戳。
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## 自动DKIM {#automated-dkim}
+## 自动化[!DNL DKIM] {#automated-dkim}
 
-为了提高可投放性，所有传出电子邮件都将经过DKIM（域名识别邮件）签名。 默认情况下，电子邮件将使用Marketo的共享DKIM签名。 您将可以选择自定义此签名。
+为了提高可投放性，所有传出电子邮件都将经过[!DNL DKIM] (DomainKeys Identified Mail)签名。 默认情况下，电子邮件将使用Marketo的共享[!DNL DKIM]签名。 您将可以选择自定义此签名。
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM将缓慢推出，您可能几周内看不到它。
+>[!DNL DKIM]将缓慢转出，您可能几周内看不到它。
 
 ## Personalization实时更新 {#real-time-personalization-updates}
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## 移动定位 {#mobile-targeting}
 
-您向社区提问，我们完成了任务！ 您现在可以包含、排除或设置用于移动设备和平板电脑用户的特定行动号召。
+您向社区提问，我们完成了任务！ 现在，您可以为移动设备用户和平板电脑用户添加、排除或设置特定的call to action。
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 

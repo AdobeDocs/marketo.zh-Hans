@@ -1,11 +1,11 @@
 ---
 description: 发行说明 — 2021年5月 — Marketo文档 — 产品文档
-title: 发行说明 — 2021年5月
+title: 发行说明 - 2021 年 5 月
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '1450'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 新一代用户体验 {#next-generation-user-experience}
 
-通过全局搜索预览，营销人员可以快速查看共享资产在其实例中的位置。 浏览器选项卡显示位置以改进营销活动或设计工作室中的导航。 其他树和全局搜索筛选器有助于优化您的搜索条件。 树中的拖放功能已恢复，允许您在主应用程序区域中快速高效地移动文件夹和资产。 最新更新的图标(符合Adobe的辅助功能标准)和状态徽章允许营销人员在树中快速轻松地区分文件夹和资源，并识别项目和资源的状态。
+通过全局搜索预览，营销人员可以快速查看共享资产在其实例中的位置。 浏览器选项卡显示位置以改进[!UICONTROL Marketing Activities]或[!UICONTROL Design Studio]中的导航。 其他树和全局搜索筛选器有助于优化您的搜索条件。 树中的拖放功能已恢复，允许您在主应用程序区域中快速高效地移动文件夹和资产。 最新更新的图标(符合Adobe的辅助功能标准)和状态徽章允许营销人员在树中快速轻松地区分文件夹和资源，并识别项目和资源的状态。
 
 ## 体验自动化 {#experience-automation}
 
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
-* **Forms中的敏感数据字段**：通过将数据字段定义为敏感字段，并限制这些字段的表单预填充，Protect客户的个人身份信息(PII)不会显示在Adobe Marketo Engage表单中。 每当访客在登陆页面上查看表单时，定义为敏感的字段将不显示任何预填数据。
+* **Forms中的敏感数据字段**：通过将数据字段定义为敏感字段，并限制这些字段的表单预填充，保护客户的个人身份信息(PII)不显示在Adobe Marketo Engage表单中。 每当访客在登陆页面上查看表单时，定义为敏感的字段将不显示任何预填数据。
 
-* **阻止垃圾邮件表单提交**： Protect您的Adobe Marketo Engage数据库会包含垃圾数据，这些垃圾邮件可能导致向销售人员发出无效警报、触发营销活动积压并创建不需要的活动。 新的验证机制会拒绝无效的表单提交并阻止机器人攻击。 您的数据更干净，营销活动按预期运行，从而最大限度地降低将不合格的潜在客户推向销售的风险。
+* **阻止垃圾邮件表单提交**：保护您的Adobe Marketo Engage数据库，使其免受垃圾数据的攻击，这些垃圾数据可能会导致向销售人员发出无效警报、触发营销活动积压并创建不需要的活动。 新的验证机制会拒绝无效的表单提交并阻止机器人攻击。 您的数据更干净，营销活动按预期运行，从而最大限度地降低将不合格的潜在客户推向销售的风险。
 
 * **电子邮件项目批准警告**：在对先前批准的项目进行新编辑时，阻止发送错误的电子邮件。  当营销人员将更改应用于已批准的电子邮件，但随后忘记批准最新更改时，警告充当护栏，并向没有内容、不良内容或旧内容的大型受众发送电子邮件。
 
@@ -54,17 +54,17 @@ ht-degree: 0%
 
 * **计划成员资格**：营销人员可以根据不同的条件（如计划成员状态）查询选定计划的所有计划成员记录。 与外部应用程序、商业智能工具或Adobe Experience Cloud共享此信息，以改进细分并创建更有针对性的参与。
 
-* **批量自定义对象提取**：批量数据导出补充了数据分析人员在Adobe Marketo Engage中已有的导入功能。 现在，他们可以批量提取存储在第一级Adobe Marketo Engage自定义对象中的数据，将此数据加载到其他应用程序、数据仓库或BI(Business Intelligence)工具中，以便更好地了解Adobe Marketo Engage实例中的数据。  自定义对象批量数据移动是双向的，可以在方便的时间进行调度。
+* **批量自定义对象提取**：批量数据导出补充了数据分析人员在Adobe Marketo Engage中已有的导入功能。 现在，他们可以批量提取存储在第一级Adobe Marketo Engage自定义对象中的数据，并将该数据加载到其他应用程序、数据仓库或BI (Business Intelligence)工具中，以便更好地了解Adobe Marketo Engage实例中的数据。  自定义对象批量数据移动是双向的，可以在方便的时间进行调度。
 
 * **自定义字段元数据API**：在设置您的Adobe Marketo Engage与第三方应用程序的集成时，通过自动创建自定义字段来节省时间。 这种自动化尤其使具有多个Adobe Marketo Engage实例的客户受益，现在这些客户能够简化自定义字段创建，以前这些字段在每个实例中都需要手动工作。 简化自定义字段创建并节省此资源消耗活动的时间。
 
 * **批量活动提取API**：在执行批量提取时获得对数据量和类型的控制。 过滤掉不必要的数据点并控制批量提取活动数据所需的API调用数。  例如，选择打开的电子邮件、访问网页或更改潜在客户得分，并保留您不希望分析的值中的其他更改。 简化流程，减少API调用和数据清理的次数。
 
-* **潜在客户API**：识别Adobe Marketo Engage中具有AdobeECID(Experience CloudID)的潜在客户。  Adobe Marketo Engage客户可以通过选定的营销活动创建潜在客户列表，并使用ECID(Experience CloudID)在Adobe Analytics中为该特定列表创建报表。 Adobe Marketo Engage与Adobe Experience Cloud之间的集成为分段、定位和报表带来了无限商机。
+* **潜在客户API**：识别Adobe Marketo Engage中与Adobe ECID (Experience Cloud ID)关联的潜在客户。  Adobe Marketo Engage客户可以通过选定的营销活动创建潜在客户列表，并使用ECID (Experience Cloud ID)在Adobe Analytics中为该特定列表创建报表。 Adobe Marketo Engage与Adobe Experience Cloud之间的集成为分段、定位和报表带来了无限商机。
 
 * **批量潜在客户导入API**：控制批量潜在客户导入及其使用的资源。 此增强功能在批量商机导入过程中在商机与公司之间创建了关联。 如果API调用，则提高处理数据的效率和效率，并减少用量。
 
-* **适用于Microsoft Dynamics Online客户的基于Web API的集成**： MS Dynamics Web API是随8.0版REST协议引入的，用于实现OData（开放数据协议）v4。 OData是OASIS （结构化信息标准促进组织）标准，用于在富数据上构建和使用RESTful服务。 需要使用此方法与Microsoft Dynamics集成的Adobe Marketo Engage客户当前正在从SOAP (Simple Object Access Protocol)迁移到基于Web API的连接。
+* 针对[!DNL Microsoft Dynamics Online]客户的&#x200B;**基于Web API的集成**： [!DNL MS Dynamics] Web API是通过8.0 REST协议引入的，并且实现了OData（开放数据协议）v4。 OData是OASIS （结构化信息标准促进组织）标准，用于在富数据上构建和使用RESTful服务。 需要使用此方法与[!DNL Microsoft Dynamics]集成的Adobe Marketo Engage客户当前正在从SOAP (Simple Object Access Protocol)迁移到基于Web API的连接。
 
 ## 营销数据环境 {#marketing-data-environment}
 
@@ -76,13 +76,13 @@ ht-degree: 0%
 
 ![](assets/yellow-star.png)
 
-* **与LinkedIn Lead Gen Forms (Beta)集成**：通过Bizible Premium归因解决方案，深入了解您的LinkedIn渠道支出和ROI。 通过与LinkedIn的Lead Gen Forms的最新集成，Bizible可深入了解在LinkedIn平台中提交的表单。 这些表单填写会根据您的CRM（客户关系管理）或Adobe Marketo Engage实例中的潜在客户进行匹配，以便他们符合归因条件，并且可以根据您的其他营销参与进行跟踪。
+* **与[!DNL LinkedIn] Lead Gen Forms (Beta)集成**：通过Bizible Premium归因解决方案深入了解您的[!DNL LinkedIn]渠道支出和ROI。 通过与[!DNL LinkedIn]的Lead Gen Forms的最新集成，Bizible将insight纳入已在[!DNL LinkedIn]平台中提交的表单中。 这些表单填写会根据您的CRM（客户关系管理）或Adobe Marketo Engage实例中的潜在客户进行匹配，以便他们符合归因条件，并且可以根据您的其他营销参与进行跟踪。
 
 ## 公告 {#announcements}
 
-* **Marketo产品文档切换平台**：我们很高兴地宣布，自5月7日星期五起，Marketo产品文档已加入Adobe Experience League。 您仍可以使用URL： docs.marketo.com，如果您有任何已添加书签的现有文章，您将被重定向。 新平台上提供了所有产品文档，并计划在今年晚些时候进行增强。
+* **Marketo产品文档切换平台**：我们很高兴地宣布，从5月7日星期五起，Marketo产品文档已加入Adobe Experience League。 您仍可以使用URL： docs.marketo.com，如果您有任何已添加书签的现有文章，您将被重定向。 新平台上提供了所有产品文档，并计划在今年晚些时候进行增强。
 
-* **由AdobeIdentity System提供支持的简化用户管理和单点登录**：从2021年7月开始，将使用Adobe用户凭据登记新的Adobe Marketo Engage客户。 在2022年年中之前不会将当前客户迁移到集成的Identity System，在进一步通知之前，无需客户采取任何行动。 通过单点登录，IT/安全管理员可以管理多个Adobe Marketo Engage产品实例及其他Experience Cloud解决方案，并通过通用控制台配置SSO (Shared Services Organization)。 管理员可以通过公共Admin Console方便地管理用户组和用户权限。
+* **由Adobe Identity System提供支持的简化用户管理和单点登录**：从2021年7月开始，将使用Adobe Marketo Engage用户凭据登记新的Adobe客户。 在2022年年中之前不会将当前客户迁移到集成的Identity System，在进一步通知之前，无需客户采取任何行动。 通过单点登录，IT/安全管理员可以管理多个Adobe Marketo Engage产品实例及其他Experience Cloud解决方案，并通过通用控制台配置SSO (Shared Services Organization)。 管理员可以通过公共Admin Console方便地管理用户组和用户权限。
 
 **_产品发布网络研讨会_**
 

@@ -3,10 +3,9 @@ unique-page-id: 12255606
 description: 发行说明 — 2017年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2017年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -27,7 +26,7 @@ ht-degree: 0%
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [自定义对象导入API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
+## [自定义对象导入API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 此API提供了一个更快的界面，用于将自定义对象同步到Marketo中。 您可以将CSV、TSV或SSV电子表格文件作为自定义对象导入Marketo。
 
@@ -39,7 +38,7 @@ ht-degree: 0%
 
 ## 本地化 {#localization}
 
-Web Personalization、Predictive Content和Email Insights应用程序现在提供日语、德语和西班牙语版本。 您[选择语言和区域设置](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)以查看您在这些语言中的内容。
+Web Personalization、[!UICONTROL Predictive Content]和电子邮件分析应用程序现在提供日语、德语和西班牙语版本。 您[选择语言和区域设置](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)以查看您在这些语言中的内容。
 
 ![](assets/japanese-web-personalization.png)
 
@@ -47,33 +46,33 @@ Web Personalization、Predictive Content和Email Insights应用程序现在提�
 
 **[导入指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
-使用“指定帐户导入”选项，通过CSV上传一次创建或更新多个记录。
+使用[!UICONTROL Named Account]导入选项，通过CSV上传一次创建或更新多个记录。
 
 ![](assets/inatwo.png)
 
 **[电子邮件分析支持](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
-在电子邮件分析中使用指定帐户或帐户列表作为维度。
+在电子邮件分析中使用[!UICONTROL Named Account]或[!UICONTROL Account List]作为维度。
 
 ![](assets/ei.png)
 
-## 预测性内容增强功能 {#predictive-content-enhancements}
+## [!UICONTROL Predictive Content]增强功能 {#predictive-content-enhancements}
 
-**[按启用的Source筛选](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[按[!UICONTROL Enabled Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**&#x200B;筛选
 
-筛选为电子邮件、富媒体或推荐栏启用的预测内容片段。
+筛选为[!UICONTROL Email]、[!UICONTROL Rich Media]或[!UICONTROL Recommendation Bar]启用的[!UICONTROL Predictive Content]部分。
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[按Source筛选分析](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[筛选器[!UICONTROL Analytics by Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-针对特定源（电子邮件、富媒体或推荐栏）筛选预测内容分析。
+为特定源（[!UICONTROL Email]、[!UICONTROL Rich Media]或[!UICONTROL Recommendation Bar]）筛选[!UICONTROL Predictive Content]分析。
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**预测内容编辑器**
+**[!UICONTROL Predictive Content]编辑器**
 
-改进了编辑体验和布局，可按源（电子邮件、富媒体或推荐栏）拆分内容准备。
+改进了按源（[!UICONTROL Email]、[!UICONTROL Rich Media]或[!UICONTROL Recommendation Bar]）拆分内容准备的编辑体验和布局。
 
 ![](assets/predictive-content-editor.png)
 
@@ -81,11 +80,11 @@ Web Personalization、Predictive Content和Email Insights应用程序现在提�
 
 图像URL和元数据现在用于内容自动发现过程。
 
-## [SDK增强功能](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [SDK增强功能](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
-现在，开发人员通过添加新的SDK API调用（允许开发人员删除推送令牌），对推送通知的交付进行了额外控制。
+现在，开发人员通过添加新的SDK API调用（允许开发人员删除推送令牌），对推送通知的投放进行了额外控制。
 
-## [Vibes SMS LaunchPoint集成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
+## Vibes SMS LaunchPoint集成
 
 使用新的筛选器选项“Member of Vibes List”改进您的定位。
 

@@ -4,9 +4,9 @@ description: 发行说明 — 2019年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年6月
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 ## Marketo核心服务 {#marketo-core-services}
 
 * **批量提取文件校验和**：通过比较文件哈希和已完成提取作业的校验和字符串，验证是否检索到了完整文件。
-* **从Email 1.0自动迁移到Email 2.0**： Email 2.0与Email 1.0电子邮件和模板完全兼容。 享受新功能，例如对内容元素（图像、文本等）进行分组的功能 在模块中，定义字符串、颜色、图像等变量 在模板中，并利用完全响应的入门模板。 还包括一个可视电子邮件模板选取器。
+* **从Email 1.0自动迁移到Email 2.0**： Email 2.0与Email 1.0电子邮件和模板完全兼容。 享受新功能，例如将内容元素（图像、文本等）分组到模块中，定义字符串、颜色、图像等变量的功能。 在模板中，并利用完全响应的入门模板。 还包括一个可视电子邮件模板选取器。
 
 >[!CAUTION]
 >
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## Account-Based Marketing {#account-based-marketing}
 
-* **LinkedIn帐户匹配(BETA)** ：现已推出测试版中的新ABM功能，通过该功能，您可以直接从Marketo将已知和空白帐户列表发送到LinkedIn。 此功能自动包含在所有Marketo ABM客户中。
+* **[!DNL LinkedIn]帐户匹配(BETA)** ：现已推出测试版中的新ABM功能，通过该功能，您可以直接从Marketo将已知和空白帐户列表发送到LinkedIn。 此功能自动包含在所有Marketo ABM客户中。
 
 <br> 
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 
 预计将在整个日历季度以及2019年第三季度初发布以下功能。
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
-* **活动上限**&#x200B;和&#x200B;**活动目标**&#x200B;通常在Premium Events加载项下的Marketo Sky中提供。
+* **事件上限**&#x200B;和&#x200B;**事件目标**&#x200B;通常在[!DNL Marketo Sky]的Premium Events加载项下提供。
 
    * 事件上限：通过注册上限、页面重定向和轮候表功能优化活动和网络研讨会的客户体验。
    * 活动目标：设置活动注册和出勤目标并实时跟踪进度。
@@ -53,19 +53,19 @@ ht-degree: 0%
 * **更多智能列表信息卡**：使用其他智能列表信息卡（包括“创建任务”流程步骤、CRM智能列表规则等）适当地划分和目标区段。
 * **电子邮件冠军/挑战者详细信息页面**：查看获胜标准、创建时间等数据。 来自您的电子邮件冠军/挑战者测试。
 
-## Marketo销售连接 {#marketo-sales-connect}
+## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
-* **Salesforce自定义中的批量操作**：通过Salesforce自定义向营销活动批量发送电子邮件和添加联系人，从而最大限度地提高工作效率。
-* **设置 — 管理员和非管理员的Salesforce页面**：通过清楚地查看连接到Sales Connect的Salesforce实例以及我发送电子邮件给Salesforce的更新，管理您的Sales Connect实例。 未来几个月将发布针对管理员、非管理员和团队范围同步的增强同步设置。
+* 在[!DNL Salesforce]自定义项中执行&#x200B;**批量操作**：通过发送电子邮件和通过[!DNL Salesforce]自定义项将联系人批量添加到营销活动，最大限度地提高工作效率。
+* **设置 — “管理员和非管理员”的[!DNL Salesforce]页面**：通过与[!DNL Sales Connect]连接的[!DNL Salesforce]实例的清晰视图以及“我的电子邮件至[!DNL Salesforce]更新”来管理您的[!DNL Sales Connect]实例。 未来几个月将发布针对管理员、非管理员和团队范围同步的增强同步设置。
 * **设置 — 集成页面**：针对您的所有集成提供一站式服务，以便您能够充分利用我们开放的生态系统。
 * **设置 — 配置文件页面**：查看并更新帐户详细信息，更改密码，并在此新的配置文件页面上检查实例的实施状态。
 
 * **系统电子邮件模板**：更新了设计、响应能力和国际化功能。
 
-## Bizible by Marketo {#bizible-by-marketo}
+## Marketo的[!DNL Bizible] {#bizible-by-marketo}
 
-* **Dynamics的多货币支持**： Bizible现在可适应Microsoft Dynamics货币表，因此您可以轻松地在公司货币和本地货币之间切换。 （注意：对SFDC的支持已于2019年第1季度发布。）
-* **漂移集成**：了解漂移对话如何影响客户的历程。 Bizible还将从对话中提取电子邮件地址，以创建新潜在客户或将接触点连接到现有潜在客户。
-* **本地化**： Bizible现在提供所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）版本。
+* **对[!DNL Dynamics]**&#x200B;的多货币支持：[!DNL Bizible]现在可适应[!DNL Microsoft Dynamics]货币表，因此您可以轻松地在公司货币和本地货币之间切换。 (注意：对SFDC的支持已于2019年第一季度发布。)
+* **漂移集成**：了解漂移对话如何影响客户的历程。 [!DNL Bizible]还将从对话中提取电子邮件地址，以创建新潜在客户或将接触点连接到现有潜在客户。
+* **本地化**： [!DNL Bizible]现在提供所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）版本。
 
 ***产品发布网络研讨会***&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。

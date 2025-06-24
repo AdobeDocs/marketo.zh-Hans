@@ -4,9 +4,9 @@ description: 发行说明 — 2020年10月 — Marketo文档 — 产品文档
 title: 发行说明 — 2020年10月
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -33,21 +33,21 @@ ht-degree: 0%
 
 ## 网站营销 {#website-marketing}
 
-* **嵌入表单代码自动化**：通过嵌入到Marketo以外托管的安全Marketo Engage页面中的登录表单，获取更多潜在客户。 表单嵌入代码会自动更新以包含登陆页面域名，从而无需由Web开发人员手动操作。 代码链接中的自定义域可改善网站导航体验和表单利用率。
+* **嵌入表单代码自动化**：通过Marketo Engage表单获取更多潜在客户，该表单嵌入到托管在Marketo外部的安全登陆页面中。 表单嵌入代码会自动更新以包含登陆页面域名，从而无需由Web开发人员手动操作。 代码链接中的自定义域可改善网站导航体验和表单利用率。
 
 ## Experience Cloud集成 {#experience-cloud-integration}
 
-* **从Adobe Experience Cloud到Marketo Engage的Continuous Audience Sync**： Target潜在客户具有基于Adobe Analytics、Adobe Audience Manager或Adobe Real-Time CDP中的第一方意图数据的Marketo Engage。 通过连续同步自动更新Marketo Engage静态列表，将潜在客户添加到参与或电子邮件计划，并在潜在客户准备就绪时提醒销售人员。
+* **从Adobe Experience Cloud到Marketo Engage的Continuous Audience Sync**：根据来自Marketo Engage、Adobe Audience Manager或Adobe Analytics的第一方意图数据，使用Adobe Real-Time CDP的Target潜在客户。 通过连续同步自动更新Marketo Engage静态列表，将潜在客户添加到参与或电子邮件计划，并在潜在客户准备好时提醒销售人员。
 
 ## CRM集成 {#crm-integration}
 
-* **Salesforce CRM Sync**：使用两个新的Salesforce Sync和Errors功能板识别并修复同步错误和失败。 监视新记录更新、删除、失败和同步过程的完成。 可以按日期、操作类型或对象类型过滤报告。
+* **[!DNL Salesforce]CRM同步**：使用两个新的[!DNL Salesforce]同步和错误仪表板识别并修复同步错误和失败。 监视新记录更新、删除、失败和同步过程的完成。 可以按日期、操作类型或对象类型过滤报告。
 
-* **Microsoft Dynamics 365集成**：自动将潜在客户和联系人注册到Microsoft Dynamics 365营销活动中。 通过新的智能营销活动流程操作，轻松添加或删除MS Dynamics营销活动的Marketo Engage潜在客户和联系人。 将销售线索从营销人员无缝地传递到销售人员，并更快地完成交易。
+* **[!DNL Microsoft Dynamics 365]集成**：自动将潜在客户和联系人注册到[!DNL Microsoft Dynamics 365]营销活动中。 通过新的智能营销活动流程操作，轻松添加或删除[!DNL MS Dynamics]营销活动的Marketo Engage潜在客户和联系人。 将销售线索从营销人员无缝地传递到销售人员，并更快地完成交易。
 
 ## 付费媒体定位 {#paid-media-targeting}
 
-* **Facebook潜在客户广告集成**：现在可以通过LaunchPoint服务为Facebook潜在客户广告捕获Facebook表单跟踪参数。 这些隐藏字段现在可以映射到Marketo字段，允许营销人员存储宝贵的营销活动跟踪数据并对其执行操作。
+* **[!DNL Facebook]潜在客户广告集成**：现在可以通过LaunchPoint服务为[!DNL Facebook]个潜在客户广告捕获[!DNL Facebook]表单跟踪参数。 这些隐藏字段现在可以映射到Marketo字段，允许营销人员存储宝贵的营销活动跟踪数据并对其执行操作。
 
 ## 管理 {#administration}
 
@@ -59,25 +59,25 @@ ht-degree: 0%
 
 * **新元数据导出选项**：将选定自定义对象的自定义对象元数据导出到电子表格中以便轻松共享。 此外，还可以导出任何或所有订阅对象的元数据，例如商机、公司、标准和自定义活动、标记和渠道。 管理员可以提取数据并快速与工程团队共享，以用于分析和设计目的。
 
-* **Opportunity自定义字段**：使用Marketo Engage中显示的机会自定义字段获得对Opportunity记录的更多洞察。 从Salesforce CRM、Microsoft Dynamics 365 CRM、Sales本机集成或通过其他API集成查看Opportunity自定义字段数据。 全面了解商机详情和渠道使您能够与销售人员协调协调工作，提高转化率，并帮助更快地完成交易。
+* **Opportunity自定义字段**：通过Marketo Engage中显示的商机自定义字段，让insight更多地了解商机记录。 从[!DNL Salesforce] CRM、[!DNL Microsoft Dynamics 365] CRM、Sales本机集成或通过其他API集成查看机会自定义字段数据。 全面了解商机详情和渠道使您能够与销售人员协调协调工作，提高转化率，并帮助更快地完成交易。
 
 ## 将在整个季度中发布 {#releasing-throughout-the-quarter}
 
 以下功能采用非季度周期，并将在未来几个月发布。
 
-## 销售分析 {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![（星形）](assets/yellow-star.png)
 
-* **API优化和新的管理配置选项**：通过增强的API优化和添加的管理功能，改善Sales Insight用户体验。 通过配置设置，管理员可以定义如何将营销活动和事件加载到销售分析功能板。 灵活的日历活动显示选项可减少API使用并改善整体体验。
+* **API优化和新的治理配置选项**：通过增强的API优化和添加的治理功能改进[!DNL Sales Insight]用户体验。 通过配置设置，管理员可以定义如何将营销活动和事件加载到Sales Insight功能板。 灵活的日历活动显示选项可减少API使用并改善整体体验。
 
 ## 公告和弃用 {#announcements-deprecations}
 
-* **新Marketo Engage外观**：折线图、条形图、柱形图和饼形图的新版本提供了整个Marketo Engage的最新可视化图表，包括营销活动和所有报表功能，以及营销活动中显示的数据可视化图表。 此更新是针对2020年12月31日终止的AdobeFlash而进行的。
+* **新Marketo Engage外观**：折线图、条形图、柱形图和饼形图的新版本提供了整个Marketo Engage的更新可视化图表，包括营销活动和所有报表功能以及在营销活动中显示的数据可视化图表。 此更新是针对2020年12月31日结束的Adobe Flash而发布的。
 
 * **用户角色和权限更新**：即将发布的版本中将弃用高级列表导入权限，以简化角色和权限管理。 营销活动和潜在客户数据库中的现有列表导入权限在其各自的应用程序区域中启用必要的列表导入选项。
 
-* **字段管理**：为增强我们的基础架构安全性，引入了对同步更改Marketo Engage中的自定义字段类型的限制。 对多个字段类型进行更改时，必须先完成第一个字段更改，然后才能移至下一个字段。 此新流程可确保环境更加稳定，并将更改类型的操作失败风险降至最低。
+* **字段管理**：为增强我们的基础架构安全性，引入了Marketo Engage中对自定义字段类型同步更改的限制。 对多个字段类型进行更改时，必须先完成第一个字段更改，然后才能移至下一个字段。 此新流程可确保环境更加稳定，并将更改类型的操作失败风险降至最低。
 
 * **提高了资源API URI大小限制**：在删除“_method”参数之前，统一资源标识符(URI)大小限制将从8 KB增加到65 KB。 增加大小限制后，使用长查询字符串的客户可以更轻松地传递数据。 删除“_method”参数是即将进行的安全升级的一部分。
 

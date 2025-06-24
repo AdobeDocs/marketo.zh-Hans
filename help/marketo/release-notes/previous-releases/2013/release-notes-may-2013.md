@@ -4,9 +4,9 @@ description: 发行说明 — 2013年5月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年5月
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## “模型成员资格”选项卡 {#model-membership-tab}
 
-在一个位置查看模型成员的所有数据，以便轻松进行监控和故障诊断。 当您选择已批准的收入周期模型时，新的“成员”选项卡是一个只读视图。
+在一个位置查看模型成员的所有数据，以便轻松进行监控和故障诊断。 新的[!UICONTROL Members]选项卡是只读视图，当您选择批准的收入周期模型时可用。
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
@@ -35,6 +35,6 @@ ht-degree: 0%
 
 ## 重命名的流量操作 {#renamed-flow-actions}
 
-“更改进度状态”现在为“更改项目状态”。 “更改项目数据”现在是“更改项目成功”
+更改进度状态现在为[!UICONTROL Change Program Status]。 更改项目数据现在为[!UICONTROL Change Program Success]。
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)

@@ -4,9 +4,9 @@ description: 发行说明 — 2014年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年1月
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-是否希望仅在用户选择美国作为其“国家/地区”时显示“州”？ 根据客户如何回答您表格中的问题，向客户展示不同的白皮书，您觉得如何？ 直接从编辑器将条件逻辑构建到表单中。 不需要javascript！
+是否希望仅在用户选择美国作为其“国家/地区”时显示“州”？ 根据客户如何回答您表格中的问题，向客户展示不同的白皮书，您觉得如何？ 直接从编辑器将条件逻辑构建到表单中。 不需要[!DNL javascript]！
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
 **轻松地将Forms嵌入到您自己的登陆页中：**
 
-从放置在Marketo登陆页面上的表单中提取html代码并将它们放置到iFrame中的日子一去不复返了。 只需获取嵌入代码，并将其放在您希望表单呈现的登陆页面上。 两种模式（普通模式和灯箱模式）可让您在网站上使用Marketo表单更加灵活。
+从放置在Marketo登陆页面上的表单中提取html代码并将其放入[!DNL iFrame]中的日子已经一去不复返了。 只需获取嵌入代码，并将其放在您希望表单呈现的登陆页面上。 两种模式（普通模式和灯箱模式）可让您在网站上使用Marketo表单更加灵活。
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 

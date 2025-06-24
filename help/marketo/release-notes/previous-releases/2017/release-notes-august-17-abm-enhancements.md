@@ -4,9 +4,9 @@ description: 发行说明 — 2017年8月ABM增强 — Marketo文档 — 产品�
 title: 发行说明 — 2017年8月ABM增强功能
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 请单击标题链接以查看每个功能的详细文章。
 
-## 帐户分析 {#account-insight}
+## [!DNL Account Insight] {#account-insight}
 
-**[Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)**&#x200B;是一个Google Chrome插件，可为您的销售团队提供可操作的ABM和帐户分析，从而使他们能够与营销部门密切合作，从而有效地吸引客户。 销售团队将了解为其拥有的每个指定帐户生成的数据和见解。 这将包括帐户分数百分比、其指定帐户的优先级列表、这些帐户中的参与人员以及帐户中近期活动的实时活动流。
+**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)**&#x200B;是一个[!DNL Google Chrome]插件，可为您的销售团队提供可操作的ABM和帐户分析，从而使他们能够与营销部门密切合作，从而有效地吸引帐户。 销售团队将了解为其拥有的每个指定帐户生成的数据和见解。 这将包括帐户分数百分比、其指定帐户的优先级列表、这些帐户中的参与人员以及帐户中近期活动的实时活动流。
 
 ![](assets/image001.png) ![](assets/image002.png)
 

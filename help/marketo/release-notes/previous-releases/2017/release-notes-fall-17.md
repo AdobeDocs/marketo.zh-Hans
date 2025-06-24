@@ -4,9 +4,9 @@ description: 发行说明 — 2017年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 2017年秋季
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ## 系统可靠性 {#system-reliability}
 
-我们进一步改进了Marketo的核心基础架构，包括优化排序、减少不匹配和提高Munchkin稳定性。
+我们进一步改进了核心Marketo基础架构，包括优化排序、减少不匹配和提高[!DNL Munchkin]稳定性。
 
 ## SFDC同步性能 {#sfdc-sync-performance}
 
-利用Marketo和Salesforce之间更丰富、更快的同步。 需要批量更新帐户或潜在客户的数据更改可以拆分为并行队列以避免积压。 事件和任务的同步速度也加快了50%。
+利用Marketo和[!DNL Salesforce]之间更丰富、更快的同步。 需要批量更新帐户或潜在客户的数据更改可以拆分为并行队列以避免积压。 事件和任务的同步速度也加快了50%。
 
 ## Analytics性能改进 {#analytics-performance-improvements}
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 
 ## [LinkedIn潜在客户一般自定义问题](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-自定义您的LinkedIn潜在客户群表单，以收集自定义潜在客户属性。 现在，您最多可以为每个表单询问三个自定义问题，从单行文本输入或多选问题中进行选择，然后映射回Marketo潜在客户字段。
+自定义您的[!UICONTROL LinkedIn Lead Gen]表单以收集自定义潜在客户属性。 现在，您最多可以为每个表单询问三个自定义问题，从单行文本输入或多选问题中进行选择，然后映射回Marketo潜在客户字段。
 
 ## Slack集成 {#slack-integration}
 
-作为新Slack集成的一部分，我们发布了两项功能：
+作为新的Slack集成的一部分，我们发布了两项功能：
 
-* 系统通知：获取有关Marketo实例中重要事件的Slack通知，例如有关当前营销活动状态的警报以及任何需要立即关注的问题。
-* 有趣的时刻：当某个销售帐户中的已知个人触发了Marketo Insight时，可以通过Slack通知潜在所有者。 通知包括潜在客户信息以及有关销售帐户的详细信息。
+* 系统通知：获取有关Marketo实例中的重要事件的Slack通知，例如有关当前营销活动状态的警报以及任何需要立即关注的问题。
+* 有趣的时刻：当销售帐户中的已知个人触发了Marketo Insight时，可以通过Slack通知潜在所有者。 通知包括潜在客户信息以及有关销售帐户的详细信息。
 
 ## ABM增强功能 {#abm-enhancements}
 
@@ -86,10 +86,10 @@ Web营销活动的&#x200B;**[令牌](/help/marketo/product-docs/web-personalizat
 
 ## 集成  {#integration}
 
-**[电子邮件预览API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)**
+**[电子邮件预览API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 现在，您可以在Marketo之外远程预览电子邮件，从而简化电子邮件内容本地化的过程并减少错误。
 
-**[替换HTMLAPI](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)**
+**[替换HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
-开发人员可以远程更新电子邮件资源的HTML内容，使他们能够在单个系统中维护资源。
+开发人员可以远程更新电子邮件资产的HTML内容，从而能够在单个系统中维护资产。

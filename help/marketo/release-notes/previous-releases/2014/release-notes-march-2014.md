@@ -4,9 +4,9 @@ description: 发行说明 — 2014年3月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年3月
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 适用于Analytics的包容性和可操作性计划 {#inclusive-and-operational-programs-for-analytics}
 
-现在，通过编辑项目渠道时将Analytics Behavior选项设置为“包含”，您可以在收入资源管理器和分析程序中[包含没有期间成本的程序](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)。 您还可以通过选择“操作”将操作程序排除在报告之外。
+现在，通过编辑项目渠道时将Analytics Behavior选项设置为“Inclusive”，您可以[在[!UICONTROL Revenue Explorer]和分析程序中包含没有期间成本的项目](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)。 您还可以通过选择“操作”将操作程序排除在报告之外。
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951109
 description: 发行说明 — 2012年10月 — Marketo文档 — 产品文档
-title: 发行说明 — 2012年10月
+title: 发行说明 - 2012 年 10 月
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 0%
+source-wordcount: '346'
+ht-degree: 1%
 
 ---
 
@@ -47,14 +47,14 @@ ht-degree: 0%
 
 ## 社交个人资料 {#social-profiles}
 
-现在，当潜在客户共享内容或使用其社交个人资料填写表单时，您可以收集有关他们的信息。 其中包括Facebook、LinkedIn和Twitter句柄、他们拥有的朋友数量等。
+现在，当潜在客户共享内容或使用其社交个人资料填写表单时，您可以收集有关他们的信息。 这包括[!DNL Facebook]、[!DNL LinkedIn]和[!DNL Twitter]句柄、他们拥有的朋友数量等。
 
-## 收入浏览器报表订阅 {#revenue-explorer-report-subscriptions}
+## [!UICONTROL Revenue Explorer]报告订阅 {#revenue-explorer-report-subscriptions}
 
-创建报告订阅并定期将Revenue Explorer报告发送给关键利益相关者，包括非Marketo用户。 该电子邮件包含报表数据表或图表的预览，以及包含所有报表数据的Excel电子表格。
+创建报告订阅并定期将[!UICONTROL Revenue Explorer]报告发送给关键利益相关者，包括非Marketo用户。 该电子邮件包含报表数据表或图表的预览，以及包含所有报表数据的[!DNL Excel]电子表格。
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
 >[!NOTE]
 >
->仅适用于通过Enterprise或Select Edition购买Revenue Cycle Analytics来拥有Revenue Explorer的用户。
+>仅适用于通过Enterprise或Select Edition购买Revenue Cycle Analytics而拥有[!UICONTROL Revenue Explorer]的用户。

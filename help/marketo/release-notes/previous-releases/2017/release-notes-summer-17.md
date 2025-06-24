@@ -4,9 +4,9 @@ description: 发行说明 — 2017年夏天 — Marketo文档 — 产品文档
 title: 发行说明 — 2017年夏天
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ## [其他Facebook离线转换阶段](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-选择最多7个额外的离线转化阶段以映射到Marketo生命周期阶段（超出目前可用的3个）。 根据客户历程中的转化优化您的Facebook广告支出，以实现更好的ROI。
+选择最多7个额外的离线转化阶段以映射到Marketo生命周期阶段（超出目前可用的3个）。 根据客户历程中的转化优化您的[!DNL Facebook]广告支出，以实现更好的ROI。
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [锁定销售分析模板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## [锁定Sales Insight模板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
 通过阻止对销售模板进行编辑，确保消息和内容的一致性。 这有助于标准化模板和维护专业通信。
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
 **[ABM和LeanData集成](https://docs.marketo.com/x/pKmt)**
 
-LeanData集成现在允许在Marketo中进行商机帐户匹配。 通过将相同的潜在客户与记录销售和营销系统中的客户关联起来，使营销和销售保持一致。 更灵活的选项使营销和销售运营部门能够更好地控制商机与客户的匹配规则，以便他们达到所需的精确级别。
+[!DNL LeanData]集成现在允许在Marketo中进行商机帐户匹配。 通过将相同的潜在客户与记录销售和营销系统中的客户关联起来，使营销和销售保持一致。 更灵活的选项使营销和销售运营部门能够更好地控制商机与客户的匹配规则，以便他们达到所需的精确级别。
 
 ## Web Personalization增强功能 {#web-personalization-enhancements}
 
 **[促销活动预览增强功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-营销从业者现在可以确保其Web营销活动在启动任何设备&#x200B;*之前*&#x200B;都具有出色的外观。 借助这些增强功能，了解您的Web营销活动在台式机、移动设备和平板电脑上的呈现方式。 适用于Chrome的新插件还提供了更一致、更准确的预览。
+营销从业者现在可以确保其Web营销活动在启动任何设备&#x200B;*之前*&#x200B;都具有出色的外观。 借助这些增强功能，了解您的Web营销活动在台式机、移动设备和平板电脑上的呈现方式。 [!DNL Chrome]的新插件还提供了更一致且更准确的预览。
 
 **[构件促销活动增强功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -61,10 +61,10 @@ LeanData集成现在允许在Marketo中进行商机帐户匹配。 通过将相�
 
 ## Analytics {#analytics}
 
-**电子邮件分析增强功能**
+**[!UICONTROL Email Insights]增强功能**
 
-通过准备和共享数据的新方法从电子邮件分析体验中获得更多信息。 您现在可以将电子邮件分析结果下载到Microsoft Excel和PowerPoint中，以便处理Marketo之外的数据。
+用新的方法准备和共享数据，从您的[!UICONTROL Email Insights]体验中获得更多好处。 您现在可以将您的[!UICONTROL Email Insights]结果下载到[!DNL Microsoft Excel]和[!DNL PowerPoint]中以处理Marketo之外的数据。
 
 ## 联合身份配置支持 {#federated-identity-configuration-support}
 
-在云中继续使用Microsoft Dynamics CRM的同时，将身份验证(Active Directory)保留在防火墙内部部署中。
+将身份验证(Active Directory)保留在防火墙内部部署之后，同时继续在云中使用[!DNL Microsoft Dynamics] CRM。

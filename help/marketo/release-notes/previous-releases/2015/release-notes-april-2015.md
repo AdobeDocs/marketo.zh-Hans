@@ -4,9 +4,9 @@ description: 发行说明 — 2015年4月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年4月
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >此功能将于4月28日星期二发布。
 
-新的[Analytics主页](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)允许快速访问跨可用报表类型运行临时报表。
+新[[!UICONTROL Analytics]主页](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)允许快速访问跨可用报告类型运行临时报告。
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-此外，现在还提供私有报表组织与共享报表组织。 创建报告或将报告拖到您的“我的报告”文件夹中，以锁定其他用户，使其无法查看、编辑或删除。 组报告可在所有用户之间共享。
+此外，现在还提供私有报表组织与共享报表组织。 创建报告或将报告拖到您的[!UICONTROL My Reports]文件夹中，以阻止其他用户查看、编辑或删除报告。 [!UICONTROL Group Reports]在所有用户之间共享。
 
 ## Marketo移动参与 {#marketo-mobile-engagement}
 
@@ -37,17 +37,17 @@ ht-degree: 0%
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
-## linkedIn Lead Accelerator集成
+## [!DNL LinkedIn]潜在客户加速器集成
 
-[linkedIn Lead Accelerator集成](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+[[!DNL LinkedIn]潜在客户加速器集成](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-将您的潜在客户培养策略扩展到付费展示广告和社交广告。 通过[广告网络集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)与LinkedIn潜在客户加速器，您可以根据任何智能或静态列表的成员，在LinkedIn中安全地创建受众区段。 linkedIn受众区段中的成员随后可以通过一系列相关广告得到培养。
+将您的潜在客户培养策略扩展到付费展示广告和社交广告。 [广告网络集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)与[!DNL LinkedIn]潜在客户加速器允许您根据任何智能或静态列表的成员，在[!DNL LinkedIn]内安全地创建受众区段。 然后，可以使用[!DNL LinkedIn]受众区段中的一系列相关广告来培养成员。
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## Marketo Sales Insight for Salesforce1 {#marketo-sales-insight-for-salesforce}
+## 用于[!DNL Salesforce1]的Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-salesforce}
 
-您最喜爱的Sales Insight功能(潜在客户信息源、最佳答案、有趣的时刻，以及添加到Marketo Campaign)都可在Salesforce1应用程序上找到。
+您最喜爱的[!DNL Sales Insight]功能 — 潜在客户源、最佳答案、有趣的时刻，以及添加到Marketo Campaign — 所有这些功能在[!DNL Salesforce1]应用程序上可用。
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 

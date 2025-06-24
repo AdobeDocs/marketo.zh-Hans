@@ -3,10 +3,9 @@ unique-page-id: 11384018
 description: 发行说明 — 2016年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年秋季
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 2016年秋季版本中包含以下功能。 检查您的Marketo版本以了解功能可用性。 请单击标题链接以查看每个功能的详细文章。
 
-## 电子邮件中的预测内容 {#predictive-content-in-email}
+## 电子邮件中的[!UICONTROL Predictive Content] {#predictive-content-in-email}
 
-我们的预测内容应用程序通过机器学习和预测算法在Web和电子邮件渠道中跟踪、管理和推荐您的内容提供了新的用户体验。
+我们的[!UICONTROL Predictive Content]应用程序现在有了新的用户体验，可以通过我们的机器学习和预测算法跨Web和电子邮件渠道跟踪、管理和推荐您的内容。
 
 >[!NOTE]
 >
@@ -29,9 +28,9 @@ ht-degree: 0%
 
 ![](assets/predictive.png)
 
-## [Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Facebook离线转化](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-通过Facebook离线转化集成，Marketo中的转化数据（适用于潜在广告商机）会自动发送回Facebook，以便您的广告团队可以更好地优化其广告支出。 在此Facebook Ad Manager报表中，离线转化会被突出显示。
+通过[!DNL Facebook]离线转化集成，Marketo中的转化数据（适用于潜在广告商机）会自动发送回[!DNL Facebook]，以便您的广告团队可以更好地优化其广告支出。 在此[!DNL Facebook]广告管理器报表中，脱机转化突出显示。
 
 ![](assets/facebook.png)
 
@@ -47,19 +46,19 @@ ht-degree: 0%
 
 ## 基于Marketo帐户的营销增强功能 {#marketo-account-based-marketing-enhancements}
 
-现在，您可以在基于帐户的营销(ABM)中将帐户团队分配给指定帐户，例如帐户所有者、销售开发代表、业务开发代表和帐户经理。 您还可以构建特定于帐户所有者的帐户列表，并向帐户团队发送个性化的每周ABM报告。
+现在，您可以将帐户团队分配给基于帐户的营销(ABM)中的指定帐户，例如帐户所有者、销售开发代表、业务开发代表和客户成功经理。 您还可以构建特定于帐户所有者的帐户列表，并向帐户团队发送个性化的每周ABM报告。
 
 ![](assets/account-team-11-15-16.png)
 
 **REST API**
 
-此版本还允许您使用Marketo REST API在ABM中管理指定帐户属性和帐户分数。 有关API操作的更多详细信息，请访问[Marketo开发人员网站](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/named-accounts)。
+此版本还允许您使用Marketo REST API在ABM中管理指定帐户属性和帐户分数。 有关API操作的更多详细信息，请访问[Marketo开发人员网站](https://developers.marketo.com/rest-api/lead-database/named-accounts)。
 
 ## [审核记录增强功能](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 审核记录提供了Marketo订购中所做更改的全面历史记录。 我们为项目添加了其他跟踪功能，并展示了智能营销活动、智能列表以及对用户和角色所做更改的重要更改详细信息。
 
-## [新权限](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
+## 新权限
 
 **使电子邮件正常工作**
 
@@ -69,7 +68,7 @@ ht-degree: 0%
 
 如果无法强制执行[营销活动限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)，为什么要设置这些限制？ 当您将营销活动限制设置设置为限制数据库中可通过单个营销活动进行定位的人员数量时，您现在能够限制哪些用户在计划营销活动时可以覆盖这些设置。
 
-## [移动推送通知的声音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## 移动推送通知的[声音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
 通过启用声音功能，为您的iOS推送通知增添丰富内容。 这项新功能允许您在移动设备上显示推送通知时触发声音。
 
@@ -80,18 +79,18 @@ ht-degree: 0%
 
 ![](assets/sound-for-push-notifications.png)
 
-## [与Salesforce加密兼容的Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [与Salesforce Encryption兼容的Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight现在与Salesforce Shield Encryption兼容。 所有Sales Insight客户都应升级到此最新的托管包（版本1.4359.2），此包在Appexchange[&#128279;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上有可用。
+市场[!DNL Sales Insight]现在与[!DNL Salesforce] Shield Encryption兼容。 所有[!DNL Sales Insight]客户都应升级到此最新的托管包（版本1.4359.2），该包在 [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上有[可用。
 
-## [命名帐户API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [命名帐户API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 在此版本中，Marketo ABM用户可以通过指定帐户API管理指定帐户。 用户可以创建、更新和删除指定帐户，也可以读取和更新ABM指定帐户分数。
 
-## [电子邮件编辑器v2.0 API支持](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [电子邮件编辑器v2.0 API支持](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 使用Marketo REST API管理v2.0格式的电子邮件变量和模块。
 
 ## [对Marketo Salesforce Sync的更改](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo的Salesforce集成正在不断发展，以改进Marketo字段与Salesforce同步的方式。 现在，您无需同步大量您可能需要（也可能不需要）的字段，而是可以选择您要包括的字段。 请在此处查看我们的文档以了解更多信息：[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
+Marketo的[!DNL Salesforce]集成正在不断发展，以改进Marketo字段与[!DNL Salesforce]同步的方式。 现在，您无需同步大量您可能需要（也可能不需要）的字段，而是可以选择您要包括的字段。 请在此处查看我们的文档以了解更多信息：[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。

@@ -3,10 +3,9 @@ unique-page-id: 11380218
 description: 发行说明 — 2016年夏天 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年夏天
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '773'
 ht-degree: 0%
 
 ---
@@ -39,13 +38,13 @@ ht-degree: 0%
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint集成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## Marketo-Vibes SMS LaunchPoint集成
 
 直接在Marketo中轻松创建短信消息。 使用丰富的Marketo数据个性化和定向消息，并使用SMS消息仪表板轻松监控其性能。
 
 >[!NOTE]
 >
->此功能要求您拥有现有的Vibes SMS帐户。
+>此功能要求您拥有现有的[!DNL Vibes SMS]帐户。
 
 ![](assets/vibes-sms2.png)
 
@@ -60,7 +59,7 @@ ht-degree: 0%
 **语法更新**
 
 * 现在，您可以在Email 2.0模板中指定的模块上使用“mktoAddByDefault”，以指示默认情况下应在新电子邮件中显示哪些模块。 如果您要构建包含大量模块的电子邮件模板，这会方便得多。
-* 在图像元素上，您现在可以指定是应锁定基础`<img>`HTML元素的“高度”和“宽度”属性，还是应该对最终用户进行编辑。 mktoLockImgSize=&quot;true&quot;将导致高度/宽度被锁定（即使图像已更改）。 同样，mktoLockImgStyle=&quot;true&quot;将导致锁定&quot;style&quot;属性。
+* 在图像元素上，您现在可以指定是应锁定基础`<img>` HTML元素的“高度”和“宽度”属性，还是应该对最终用户进行编辑。 mktoLockImgSize=&quot;true&quot;将导致高度/宽度被锁定（即使图像已更改）。 同样，mktoLockImgStyle=&quot;true&quot;将导致锁定&quot;style&quot;属性。
 
 **代码搜索**
 
@@ -86,7 +85,7 @@ ht-degree: 0%
 
 ## [企业密钥](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-要求您的销售团队中的每个人安装我们的Sales Insight Plugin for Outlook可能会非常繁琐。 我们引入了一种使用企业密钥远程安装Outlook插件的新方法。 向IT团队发送您在“管理员”的“Marketo销售分析”部分找到的唯一密钥，然后让他们完成其余工作。
+要求您的销售团队中的每个人为[!DNL Outlook]安装我们的[!DNL Sales Insight]插件可能会很繁琐。 我们引入了一种使用企业密钥远程安装[!DNL Outlook]插件的新方法。 向IT团队发送您在[!UICONTROL Admin]的Marketo [!DNL Sales Insight]部分中找到的唯一密钥，然后让他们完成其余任务。
 
 ![](assets/enterprise-key.png)
 
@@ -96,20 +95,20 @@ ht-degree: 0%
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Content Analytics和Recommendations导出](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Content Analytics和推荐导出](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 脱机查看内容分析和推荐数据。
 
-## [电子邮件编辑器2.0的API支持](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## 电子邮件编辑器2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}的[API支持
 
 以前仅与v1.0电子邮件和模板兼容的预先存在的Asset API现在为v2.0电子邮件资产启用。
 
-## [Marketo开发人员网站](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo开发人员网站](https://developers.marketo.com/) {#marketo-developers-site}
 
 新增功能和改进功能！
 
 ## [隐私设置](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-营销人员可以使用隐私设置确定是否使用Munchkin和Web Personalization功能跟踪访客。 跟踪级别可通过使用浏览器的Do Not Track设置、选择退出Cookie或非特定IP来控制。 这些方法可能会影响Marketo在特定领域中的价值和功能，但是，如果营销人员不更改任何内容，则Marketo功能将保持不变。
+营销人员可以使用隐私设置决定是否使用[!DNL Munchkin]和Web Personalization功能跟踪访客。 跟踪级别可通过使用浏览器的Do Not Track设置、选择退出Cookie或非特定IP来控制。 这些方法可能会影响Marketo在特定领域中的价值和功能，但是，如果营销人员不更改任何内容，则Marketo功能将保持不变。
 
 该功能将在六周后逐步向客户发布。 如果您需要立即获取帮助，请联系Marketo支持部门。

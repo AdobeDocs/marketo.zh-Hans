@@ -3,10 +3,9 @@ unique-page-id: 17727823
 description: 发行说明 — 2019年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年冬
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -19,11 +18,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->facebook现在需要Business Manager帐户才能利用您的自定义受众集成。 您的Facebook LaunchPoint服务&#x200B;*必须*&#x200B;与Business Manager帐户关联，否则&#x200B;**您的集成在2019年1月14日之后将不再有效**。 若要设置Business Manager帐户，请参阅[Facebook帮助](https://www.facebook.com/business/help/1710077379203657)。
+>[!DNL Facebook]现在需要Business Manager帐户才能利用您的自定义受众集成。 您的[!DNL Facebook] LaunchPoint服务&#x200B;*必须*&#x200B;与Business Manager帐户关联，或者&#x200B;**您的集成在2019年1月14日之后将不再有效**。 若要设置Business Manager帐户，请参阅[[!DNL Facebook] 帮助](https://www.facebook.com/business/help/1710077379203657)。
 
 >[!NOTE]
 >
->Microsoft正在推动所有在线客户升级到Microsoft Dynamics的最新版本。 如果您正在将Marketo实例与Dynamics Online集成，则需要在&#x200B;**2019年1月31日**&#x200B;之前[升级到Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)的最新版本，以确保您的集成能够继续工作。
+>Microsoft正在推送所有在线客户升级到[!DNL Microsoft Dynamics]的最新版本。 如果您正在将Marketo实例与[!DNL Dynamics Online]集成，则需要在&#x200B;**2019年1月31日**&#x200B;之前[升级到Marketo解决方案的最新版本](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)，以确保您的集成能够继续工作。
 
 >[!NOTE]
 >
@@ -40,33 +39,33 @@ ht-degree: 0%
 * **资产API的多品牌域支持：**&#x200B;批准和克隆资产会在API和UI中产生相同的结果。
 * **资产API的电子邮件CC支持**：用户通过API克隆、批准和处理电子邮件将保持与UI设置的对等性。
 
-**[Munchkin v155 (Beta)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
+**[[!DNL Munchkin] v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **仅限API模式**：用户现在可以通过允许单页Web应用程序在要记录网页访问时显式调用，而不是依赖Marketo的自动跟踪来确定何时以及如何跟踪其数据库的成员。
-* **选择退出管理**：通过将选择退出Cookie域与Munchkin跟踪Cookie域进行匹配，轻松管理选择退出。
+* **选择退出管理**：通过将选择退出Cookie域与[!DNL Munchkin]跟踪Cookie域进行匹配，轻松管理选择退出。
 * **域级决策器参数**：双字母域（即&quot; [website.io](https://website.io)&quot;）将在Marketo中自动跟踪，无需额外的设置要求。
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Salesforce自定义配置文件**： Sales Engage现在支持无限自定义配置文件。
+* **[!DNL Salesforce]自定义配置文件**： Sales Engage现在支持无限自定义配置文件。
 
-* **Salesforce自定义**：通过删除非关键自定义活动字段，用户可以更高效地在CRM平台上设置Sales Engage。
-* **电子邮件服务**：通过连接到Microsoft Outlook（通过Office365或通过“电子邮件连接”选项卡内部部署），享受更好的可投放性，以及改进的回复跟踪、计划电子邮件功能和批量电子邮件功能。
+* **[!DNL Salesforce]自定义**：通过删除非关键自定义活动字段，用户可以更高效地在CRM平台上设置Sales Engage。
+* **电子邮件服务**：通过连接到[!DNL Microsoft Outlook]（通过Office365或通过“电子邮件连接”选项卡内部部署）享受更好的可投放性，以及改进的回复跟踪、计划的电子邮件功能和批量电子邮件功能。
 * **新管理员设置**：添加了两个管理员页面，以优化您的Sales Engage实例
 
    * 通过允许管理员编辑订阅和团队，_团队管理_&#x200B;支持无缝的帐户设置过程。
-   * _Salesforce管理设置_&#x200B;可帮助团队以前所未有的速度更轻松地设置其SFDC同步。
+   * _Salesforce管理设置_&#x200B;可帮助团队以前所未有的速度更轻松地设置SFDC同步。
 
-* **适用于Windows的OWA插件**：通过一个加载项，Sales Engage将支持所有Windows Office365客户端，从而能够在Outlook中使用Live Feed。 新的插件将显示在Microsoft Store中。
+* 适用于&#x200B;[!DNL Windows]**的** OWA插件：通过一个加载项，Sales Engage将支持所有[!DNL Windows Office365]客户端，从而能够在Outlook中使用Live Feed。 新的插件将显示在Microsoft Store中。
 * **活动推送器**：将Sales Engage同步到核心Marketo平台，以利用实时营销见解。
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
 >[!NOTE]
 >
->Marketo Sky的释放更加频繁。 以下功能和增强功能预计将在第四季度末/第一季度初发布。 有关更多详细信息和更新，请查看我们的[Sky文档](https://help.marketo.com/)。
+>[!DNL Marketo Sky]版本发布的频率更高。 以下功能和增强功能预计将在第四季度末/第一季度初发布。 有关更多详细信息和更新，请查看我们的[Sky文档](https://help.marketo.com/)。
 
-* **可选默认体验**：如果管理员已为Marketo用户提供访问权限，则他们可能会将Marketo Sky设置为默认体验。
+* **可选默认体验**：如果管理员向他们提供了访问权限，Marketo用户可以将[!DNL Marketo Sky]设置为其默认体验。
 
 * **重新想像我的Marketo**：通过添加小组件自定义您的体验，这些小组件提供关键信息、通知以及您最常访问区域的链接。
 
@@ -74,10 +73,10 @@ ht-degree: 0%
 
 * **全局搜索**：Marketo现在可以在整个平台上提供更快、更可靠的全局搜索功能。 现在，搜索查询可在所有可访问的工作区中运行，并且可以搜索资产（活动和已存档）、标签、营销活动和项目。 搜索结果通过叠加提供，每个结果都包括其文件位置跟踪，以指定资产所在的位置。
 
-* **改进的用户界面**：新增图标、模式和按钮，以及新的调色板，以反映我们的品牌更新，使Marketo Sky更令人惊叹且功能更强大。
+* **改进的用户界面**：新增图标、模式和按钮，以及新的调色板，以反映我们的品牌更新并使[!DNL Marketo Sky]更加令人惊叹和功能更强。
 
-* **电子邮件计划可用性增强功能**：我们将继续在经典的Marketo潜在客户管理平台和新的Marketo Sky体验之间实现电子邮件计划功能的对等性。
-* **网络研讨会计划**：网络研讨会计划现在提供Marketo Sky版（注意：此版本仅支持GoToWebinar，并且随着时间的推移将建立进一步的集成）。
+* **电子邮件计划可用性增强功能**：我们将继续在经典的Marketo潜在客户管理平台和新的[!DNL Marketo Sky]体验之间实现电子邮件计划功能的对等性。
+* **网络研讨会计划**： [!DNL Marketo Sky]中现在提供网络研讨会活动计划（注意：此版本仅支持GoToWebinar，并且会随着时间的推移建立进一步的集成）。
 
 ## Account-Based Marketing {#account-based-marketing}
 
@@ -87,13 +86,13 @@ ht-degree: 0%
 
 ## Analytics {#analytics}
 
-**Bizible**
+**[!DNL Bizible]**
 
-* **自定义计算字段**：使用任何Bizible属性生成可用于仪表板报告和分段的自定义字段。
+* **自定义计算字段**：使用任何[!DNL Bizible]属性构建可用于仪表板报告和分段的自定义字段。
 
 * **SOC II Type II认证**：新的安全和隐私认证以今年早些时候的Type I认证为基础。
 
-## Web Personalization {#web-personalization}
+## [!DNL Web Personalization] {#web-personalization}
 
 **[在帐户设置中添加子域](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -103,13 +102,14 @@ ht-degree: 0%
 
 **已更新Android的MME软件开发工具包(SDK)**
 
-我们更新了适用于Android的SDK，使其成为更现代、更稳定、更可扩展的框架，其中包含更多灵活性和新的工程功能。 Android应用程序开发人员现在可以直接将Google的[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM)与此新SDK一起使用。
+我们已将适用于Android的SDK更新为更现代、更稳定和可扩展的框架，其中包含了更多灵活性和新的工程功能。 Android应用程序开发人员现在可以直接将Google的[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM)与此新的SDK结合使用。
 
-* [开发人员说明]https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [开发人员说明](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [开发人员常见问题解答](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
->应用程序开发人员&#x200B;**必须**&#x200B;在2019年3月31日之前更新到新版本。 如果您在2019年3月31日之前未更新您的SDK，则在此日期之后下载您的应用程序的任何新用户都将无法接收推送通知，直到您更新到最新版本的SDK为止。 SDK更新将不需要您当前的移动应用程序用户重新下载应用程序的新版本。
+>应用程序开发人员&#x200B;**必须**&#x200B;在2019年3月31日之前更新到新版本。 如果您没有在2019年3月31日之前更新SDK，则在此日期之后下载您的应用程序的任何新用户都将无法接收推送通知，直到您更新到最新版本的SDK。 SDK更新将不需要您当前的移动应用程序用户重新下载应用程序的新版本。
 
 ## 其他更新 {#additional-updates}
 

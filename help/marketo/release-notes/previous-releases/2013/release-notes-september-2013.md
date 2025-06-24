@@ -4,9 +4,9 @@ description: 发行说明 — 2013年9月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年9月
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ ht-degree: 0%
 
 我们已将操作“发送测试”重命名为“发送示例”
 
-## 个性化发送示例电子邮件 {#personalized-send-sample-email}
+## 个性化[!UICONTROL Send Sample Email] {#personalized-send-sample-email}
 
 在发送电子邮件示例时，您可以选择潜在客户的名称来个性化示例电子邮件。
 
 ![](assets/image2014-9-22-17-3a11-3a22.png)
 
-## goToWebinar的其他字段同步 {#additional-field-sync-for-gotowebinar}
+## [!DNL GoToWebinar]的其他字段同步 {#additional-field-sync-for-gotowebinar}
 
-您可以将Marketo表单中的公司名称和职位同步到GoTo网络研讨会。 要启用这些附加字段，请转到Event Partners并选中“Enable Additional Fields”。
+您可以将公司名称和职称从Marketo表单同步到[!DNL GoToWebinar]。 要启用这些附加字段，请转到Event Partners并选中“Enable Additional Fields”。
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
@@ -53,13 +53,13 @@ ht-degree: 0%
 
 ## 导出机会影响分析器 {#export-opportunity-influence-analyzer}
 
-您现在可以将Opportunity Influence Analyzer中的数据导出到Excel。 每个导出的Excel文件都包含所有潜在客户（包括在商机中没有角色的潜在客户）的所有营销交互，以及分析器中选定帐户下的所有商机。 机会行以绿色突出显示。 如果您需要专注于特定的潜在客户或营销活动，则可以使用Excel的本机数据筛选功能。
+您现在可以将Opportunity Influence Analyzer中的数据导出到[!DNL Excel]。 每个导出的[!DNL Excel]文件都包含所有潜在客户（包括在商机中没有角色的那些潜在客户）的所有营销交互，以及分析器中选定帐户下的所有商机。 机会行以绿色突出显示。 如果您需要专注于特定潜在客户或营销活动，则可以使用[!DNL Excel]的本机数据筛选功能。
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
 ## 项目归因设置 {#program-attribution-settings}
 
-您可以更改Marketo在首次接触和多次接触归因量度中关联联系人和机会的方式，包括执行基于帐户的归因的功能。 这些设置将影响Program Opportunity Analysis区域和Opportunity Analysis区域下的Revenue Explorer报表中的归因指标。 这也会影响Program Analyzer中的归因指标。
+您可以更改Marketo在首次接触和多次接触归因量度中关联联系人和机会的方式，包括执行基于帐户的归因的功能。 这些设置将影响Program Opportunity Analysis区域和Opportunity Analysis区域下[!UICONTROL Revenue Explorer]报告中的归因指标。 这也会影响Program Analyzer中的归因指标。
 
 您可以将项目归因设置更改为三个选项之一。 更改此设置不会修改任何Marketo或CRM数据；它只会更改报表的运行方式，并且可以随时还原。
 
@@ -67,9 +67,9 @@ Explicit设置将只检查具有角色的联系人（当前行为）。 隐式�
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Sales Insight提供了法语和德语版本（仅限Salesforce） {#sales-insight-available-in-french-and-german-salesforce-only}
+## [!UICONTROL Sales Insight]可用法语和德语（仅[!DNL Salesforce]） {#sales-insight-available-in-french-and-german-salesforce-only}
 
-从AppExchange下载最新版本的Marketo销售线索管理和Marketo Sales Insight，以便您的法德销售人员能够以他们的首选语言查看Sales Insight内容。
+从[!DNL AppExchange]下载最新版本的Marketo潜在客户管理和Marketo [!UICONTROL Sales Insight]，以便您的法文和德文销售人员能够以他们的首选语言查看[!UICONTROL Sales Insight]内容。
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 

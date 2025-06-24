@@ -3,10 +3,9 @@ unique-page-id: 14745959
 description: 发行说明 — 2018年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2018年春季
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -17,37 +16,37 @@ ht-degree: 0%
 
 请单击标题链接以查看每个功能的详细文章。 注意：此版本中包含的某些功能没有关联的文章。 如果一个主题有多个子标题，则链接会放置在该处。
 
-## Marketo销售参与、启动和ToutApp更新 {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo [!DNL Sales Engage]、Launch和[!DNL ToutApp]更新 {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* [启动](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* ToutApp更新
+* [Marketo [!DNL Sales Engage]](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Launch](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [!DNL ToutApp]更新
 
 >[!AVAILABILITY]
 >
->Sales Engage是一个附加产品。 请联系您的Marketo客户经理或客户经理以获取报价。
+>[!DNL Sales Engage]是附加产品。 请联系您的Marketo客户成功经理或客户经理以获取报价。
 
-通过智能、内容、行动手册和分析增强销售能力，将更多商机转化为销售机会，从而推动更多渠道和收入。 Sales Engage为销售和营销提供了一个统一的平台，用于在客户历程中进行参与，并通过客户接触点的共享视图实现更好的协调。
+通过智能、内容、行动手册和分析增强销售能力，将更多商机转化为销售机会，从而推动更多渠道和收入。 [!DNL Sales Engage]为销售和营销提供了一个统一的平台，以便在客户历程中进行参与，并通过客户接触点的共享视图实现更好的协调。
 
-**ToutApp**
+**[!DNL ToutApp]**
 
 * **合规性信息卡**：通过捕获销售联系人的来源以及客户同意接收通信的详细信息来确保GDPR合规性。
 * **密码策略更新**：通过更严格的密码创建、重置和到期要求（符合Soc II — 类型1合规性要求），确保数据安全。
-* **简化帐户设置体验**：更快地设置帐户并连接到Gmail、Outlook和其他系统。
+* **简化帐户设置体验**：更快地设置帐户并连接到[!DNL Gmail]、[!DNL Outlook]和其他系统。
 
-## Marketo Sky打开Beta {#marketo-sky-open-beta}
+## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
 [Marketo Sky打开Beta](https://help.marketo.com/)
 
-选择加入Marketo Sky开放Beta版，即可访问超过100项新的提高生产力的功能，包括：
+选择加入Marketo Sky开放测试版，即可访问超过100项新的提高工作效率功能，包括：
 
 * 更新了左侧导航菜单、保存的智能列表规则和流操作、用于管理资产的批量操作以及计划的资产到期
 * 应用程序内指南和上下文帮助
 * 资产标签和更灵活的日历视图
 
-## 性能分析 {#performance-insights}
+## [!UICONTROL Performance Insights] {#performance-insights}
 
-[性能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[[!UICONTROL Performance Insights]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **年度同期比较**
 
@@ -63,7 +62,7 @@ ht-degree: 0%
 
 **共享的快速图表**
 
-轻松将您的快速图表与其他Performance Insights用户共享。
+轻松与其他[!UICONTROL Performance Insights]用户共享您的快速图表。
 
 **可用性增强**
 
@@ -77,12 +76,16 @@ ht-degree: 0%
 
 ## 集成和API {#integration-and-apis}
 
-[静态列表API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
+Facebook工作区集成
+
+向[!DNL Facebook Workplace]发送系统通知和有趣时刻。
+
+静态列表API
 
 使用新的双向API更轻松地管理Marketo和其他系统之间的列表，无需在Marketo UI中执行任何操作，即可远程创建、读取、更新和删除静态列表。
 
 ## 隐私增强功能 {#privacy-enhancements}
 
-[Web跟踪隐私](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
+Web跟踪隐私
 
-增强的Munchkin跟踪通过匿名处理Web访客的IP地址并允许他们永久选择退出Web跟踪，从而符合本地和国际隐私法规。
+增强的[!DNL Munchkin]跟踪通过匿名化Web访客的IP地址并允许他们永久选择退出Web跟踪，从而符合本地和国际隐私法规。

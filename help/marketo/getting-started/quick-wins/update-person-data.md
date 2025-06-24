@@ -4,9 +4,9 @@ description: 更新人员数据 — Marketo文档 — 产品文档
 title: 更新人员数据
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 查找需要更新的人员 {#find-the-person-you-need-to-update}
 
-1. 转到&#x200B;**[!UICONTROL 数据库]**。
+1. 转到您的[!UICONTROL Database]。
 
    ![](assets/update-person-data-1.png)
 

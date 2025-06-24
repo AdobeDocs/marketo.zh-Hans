@@ -4,9 +4,9 @@ description: 发行说明 — 2013年12月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年12月
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -35,14 +35,14 @@ ht-degree: 0%
 
 [冠军/挑战者测试](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)类似于A/B测试，但不同之处在于它用于触发的电子邮件，并且您不会自动发送入选者。 这个测试允许您挑战一种既定的做事方法，称为冠军，并且您通过引入挑战者来测试它是否仍然是最棒的。 此外，还可以在参与计划流中使用冠军/挑战者电子邮件测试。
 
-## 电子邮件分析中的潜在客户详细信息 {#lead-details-in-email-analysis}
+## [!UICONTROL Email Analysis]中的潜在客户详细信息 {#lead-details-in-email-analysis}
 
-我们在电子邮件分析中引入了其他潜在客户和公司属性。 您现在可以查看按新属性(如行业和潜在客户Source)分组的电子邮件统计信息。
+我们在[!UICONTROL Email Analysis]中引入了其他潜在客户属性和公司属性。 您现在可以查看按新属性（如[!UICONTROL Industry]和[!UICONTROL Lead Source]）分组的电子邮件统计信息。
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 
 ![](assets/image2014-9-22-17-3a21-3a18.png)
 
-## 增强的BrightTALK事件适配器 {#enhanced-brighttalk-event-adapter}
+## 增强的[!DNL BrightTALK]事件适配器 {#enhanced-brighttalk-event-adapter}
 
-现在，您可以从BrightTALK渠道和活动将注册者拉入Marketo。 您可以使用此信息为其他营销活动提供信息！
+现在，您可以从您的[!DNL BrightTALK]渠道和活动将注册者拉入Marketo。 您可以使用此信息为其他营销活动提供信息！

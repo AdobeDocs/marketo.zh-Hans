@@ -1,11 +1,11 @@
 ---
 description: 发行说明 — 2022年3月 — Marketo文档 — 产品文档
-title: 发行说明 — 2022年3月
+title: 发行说明 - 2022 年 3 月
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
-* **Dynamic Chat**：通过主动、主动和1:1的个性化对话，针对潜在客户和客户，最大限度地利用您网站上的每一个商机。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}允许Marketo Engage用户开始将聊天用作B2B营销和销售用例的集成式跨渠道体验的关键部分。 功能包括：直接在聊天中预约会议、潜在客户路由、入门模板、拖放式对话创建等。 Dynamic Chat包含在所有Marketo Engage包中，并将于今年向所有Marketo Engage用户推出。
+* **[!DNL Dynamic Chat]**：通过主动、主动和1:1的个性化对话，针对潜在客户和客户，最大限度地利用您网站上的每一个机会。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}允许Marketo Engage用户开始将聊天用作B2B营销和销售用例的集成式跨渠道体验的关键部分。 功能包括：直接在聊天中预约会议、潜在客户路由、入门模板、拖放式对话创建等。 Dynamic Chat包含在所有Marketo Engage包中，并将于今年向所有Marketo Engage用户推出。
 
 * **电子邮件机器人活动筛选增强功能**：作为以前发布的[电子邮件机器人活动筛选](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}功能的增强功能，您现在可以选择加入标识为机器人的日志记录活动。 然后，您可以根据被识别为机器人正在执行的活动过滤和触发操作。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 * **更新了新一代体验中的Screens**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
 
-   * Design Studio中的表单列表视图（包括新的批量操作）
+   * [!UICONTROL Design Studio]中的表单列表视图（包括新的批量操作）
 
 * **导入程序工作流更新**：导入程序工作流将在下一代体验中交付，并包含更新的设计和可用性增强功能。 这将是一个无需切换开关的自动更改。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 体验自动化 {#experience-automation}
 
-* **自助流程步骤(Beta)**：扩展Marketo Engage与栈栈其余部分之间的连接，能够创作自定义的流程步骤，以便在Smart Campaigns中使用。 Marketo用户和合作伙伴都可以利用此功能，允许以批量方式使用外部Web服务并执行营销活动，而不使用Webhook，后者只能用于触发营销活动。
+* **自助流程步骤(Beta)**：扩展Marketo Engage与栈栈其他部分之间的连接，能够创作自定义的流程步骤以用于Smart Campaigns。 Marketo用户和合作伙伴都可以利用此功能，允许以批量方式使用外部Web服务并执行营销活动，而不使用Webhook，后者只能用于触发营销活动。
 
 * **资产到期**：保持对时间敏感资产和营销活动的控制，并能够在经典用户体验中的指定日期和时间计划其自动停用。
 
@@ -60,21 +60,21 @@ ht-degree: 0%
 
 以下功能采用非季度周期，并将在未来几个月发布。
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![（星形）](assets/yellow-star.png)
 
-* **BI模板**： Bizible现在将为Tableau和Power BI提供可下载的基础报表构件和示例报表，以便快速开发针对您的特定业务需求定制的自定义报表。
+* **BI模板**： [!DNL Bizible]现在将为Tableau和Power BI提供可下载的基础报表工件和示例报表，以便快速开发针对您的特定业务需求定制的自定义报表。
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![（星形）](assets/yellow-star.png)
 
-* **电子邮件连接限制(GA)**：电子邮件连接限制允许Sales Connect管理员在使用Gmail或Exchange作为投放渠道时配置电子邮件的发送速率，以便将电子邮件传递给投放渠道提供商的速率不超过强制的限制。
+* **电子邮件连接限制(GA)**：电子邮件连接限制允许[!DNL Sales Connect]管理员在使用Gmail或[!DNL Exchange]作为投放渠道时配置电子邮件的发送速率，以便将电子邮件传递给投放渠道提供商的速率不超过强制的限制。
 
 ## 公告 {#announcements}
 
-* **弃用Marketo Sky**：在3月份，Marketo Sky将不再可用，因为我们将资源集中在提供新一代用户体验上。 为了保持对当前独有的Marketo Sky功能的访问权限，我们将资产到期和智能营销活动优先级覆盖引入Classic体验。 [单击此处](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)了解更多信息。
+* **弃用Marketo Sky**：在3月，Marketo Sky将不再可用，因为我们的资源侧重于提供新一代用户体验。 为了保持对Marketo Sky目前独有的功能的访问权限，我们在Classic体验中引入了资产到期和智能营销活动优先级覆盖。 [单击此处](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)了解更多信息。
 
 **_产品发布网络研讨会_**
 

@@ -4,9 +4,9 @@ description: 发行说明 — 2012年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2012年6月
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## 导入字段映射 {#import-field-mapping}
 
-我们简化了将列表导入Marketo的过程！ 在导入过程中，您可以将Marketo字段的名称映射到导入文件中的列标题名称。 此外，在Admin中，您可以设置映射到Marketo中的字段名称的别名，确保用户每次都选择正确的字段。
+我们简化了将列表导入Marketo的过程！ 在导入过程中，您可以将Marketo字段的名称映射到导入文件中的列标题名称。 此外，在[!UICONTROL Admin]中，您可以设置映射到Marketo中的字段名称的别名，确保用户每次都选择正确的字段。
 
 在继续导入和映射字段时，为方便使用，Marketo将在导入期间记住和显示映射。 为了使工作更轻松，您可以单击示例值标题以查看将填充该字段的不同值。 这有助于确保每次都映射正确的字段！
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## 智能列表和静态列表的摘要页面 {#summary-page-for-smart-lists-and-static-lists}
+## 智能列表和静态列表的[!UICONTROL Summary]页面 {#summary-page-for-smart-lists-and-static-lists}
 
 您是否曾想过您的列表在哪里被使用？ 或者是谁创建了列表，还是最后修改了列表？ 智能列表和静态列表中提供的新摘要页面将为您提供这些重要的详细信息。
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## 用于Assets {#used-by-for-assets}
+## Assets的[!UICONTROL Used By] {#used-by-for-assets}
 
-我们在资产摘要页面中新增了一个选项卡，名为“使用者！
+我们在资产[!UICONTROL Summary]页面中添加了一个名为[!UICONTROL Used By]的新选项卡！
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-示例：用于静态列表
+示例： [!UICONTROL Used By]表示静态列表
 
 ## 登陆页网格线 {#landing-page-gridlines}
 
@@ -63,13 +63,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## 等待步骤 — 潜在客户令牌和我的令牌 {#wait-step-lead-token-and-my-token}
+## [!UICONTROL Wait]步骤 — 潜在客户令牌和我的令牌 {#wait-step-lead-token-and-my-token}
 
-在5月版本中，我们在等待流步骤中添加了高级选项。 通过这些更改，您可以指定工作日、日期和时间。 在此版本中，我们增加了在等待步骤中使用令牌的功能。 例如，您可能希望使用`{{lead.Birthday}}`在他们的生日当天发送电子邮件，或使用`{{my.Event Date}}`发送最终的网络研讨会提醒。
+在5月版本中，我们向[!UICONTROL Wait]流程步骤添加了高级选项。 通过这些更改，您可以指定工作日、日期和时间。 在此版本中，我们增加了在等待步骤中使用令牌的功能。 例如，您可能希望使用`{{lead.Birthday}}`在他们的生日当天发送电子邮件，或使用`{{my.Event Date}}`发送最终的网络研讨会提醒。
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## 在Design Studio中查看缩略图 {#view-as-thumbnails-in-design-studio}
+## 在Design Studio中将[!UICONTROL View]作为[!UICONTROL Thumbnails] {#view-as-thumbnails-in-design-studio}
 
 将视图从图像列表切换到缩略图视图！
 

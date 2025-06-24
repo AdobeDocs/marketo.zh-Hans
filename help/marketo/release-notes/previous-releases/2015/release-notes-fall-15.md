@@ -4,9 +4,9 @@ description: 发行说明 — 2015年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年秋季
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -41,17 +41,17 @@ ht-degree: 0%
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
+## [!DNL Google Chrome]的Marketo分析 {#marketo-insights-for-google-chrome}
 
-[Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[ [!DNL Google Chrome]的Marketo分析](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-我们很高兴地宣布推出Google Mail Sales Insight扩展的更新版本！ 在[Chrome应用商店](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中查看它。
+我们很高兴地宣布发布[!DNL Google Mail] [!DNL Sales Insight]扩展的更新！ 在[[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中查看它。
 
 此更新包括许多新特性和功能：
 
-* 在参与之前，销售人员可以直接在Google Mail中查看其潜在客户的相关信息，包括职称、twitter资料、公司信息、照片等。
+* 在参与之前，销售人员可以直接在[!DNL Google Mail]中查看其潜在客户的相关信息，包括职称、Twitter个人资料、公司信息、照片等。
 * 销售人员可以实时查看跨渠道的潜在客户参与的内容，例如打开或单击电子邮件、参加在线或面对面活动、访问网页、下载电子书等等。
-* 通过Google Mail发送的电子邮件记录在Marketo中并实时跟踪。 这可以让销售人员查看潜在客户何时查看其电子邮件，以便他们在适当的时间进行跟踪。 通过Google Mail的Marketo销售分析，销售人员还可以轻松地利用营销人员创建的模板，发送精美的邀请、优惠和其他类型的内容。
+* 通过[!DNL Google Mail]发送的电子邮件记录在Marketo中并实时跟踪。 这可以让销售人员查看潜在客户何时查看其电子邮件，以便他们在适当的时间进行跟踪。 适用于[!DNL Google Mail]的Marketo [!DNL Sales Insight]还使销售人员能够轻松利用营销创建的模板来发送精美的邀请、优惠和其他类型的内容。
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -84,20 +84,20 @@ ht-degree: 0%
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP - Content Analytics和Recommendations {#rtp-content-analytics-and-recommendations}
+## RTP - Content Analytics和建议 {#rtp-content-analytics-and-recommendations}
 
-[内容分析](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)和Recommendations
+[Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)和建议
 
-RTP内容分析通过常规Web访问以及通过RTP内容推荐引擎生成的访问来显示Web内容资产的性能。
+RTP Content Analytics通过常规Web访问以及通过RTP内容推荐引擎生成的访问来显示Web内容资源的性能。
 
 * 查看哪些内容表现最佳并带来最多商机
 * 通过在RTP的预测内容引擎中启用内容来自动向合适的访客推荐最佳内容，增加内容使用量
 * 深入查看每个内容资产以了解更深入的量度、图形和性能
 
-RTP的Assets页面现在分为内容分析和内容Recommendations。
+RTP的Assets页面现在分为Content Analytics和内容推荐。
 
-* **内容分析：**&#x200B;显示所有已发现和定义的网页内容的视图和直接潜在客户，帮助您分析表现最佳的内容
-* **内容Recommendations**：显示RTP推荐内容中的展示次数和点击次数以及相关潜在客户归因。 您还可以编辑和启用此页面中的[栏](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)和[富媒体](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)推荐的内容推荐。
+* **Content Analytics：**&#x200B;显示所有已发现和定义的Web内容的视图和直接潜在客户，帮助您分析表现最佳的内容
+* **内容推荐**：显示RTP推荐内容中的展示次数和点击次数以及相关潜在客户归因。 您还可以编辑和启用此页面中的[栏](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)和[富媒体](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)推荐的内容推荐。
 
 * 自年初（2015年1月1日）以来，已追溯更新这两个页面中的所有直接销售线索数据。
 
@@ -121,7 +121,7 @@ RTP的Assets页面现在分为内容分析和内容Recommendations。
 </v:background>
 ```
 
-* 现在，任何内容都可以插入有效的HTML注释中（下面所示的某些语法之前已被去除）：
+* 现在，任何内容都可以插入有效的HTML注释中（下面所示的某些语法已被去除）：
 
 `<!--[if gte mso 9]> <![endif]-->`
 
@@ -141,9 +141,9 @@ RTP的Assets页面现在分为内容分析和内容Recommendations。
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics — 验证同步 {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] — 验证同步 {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics — 验证同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] — 验证同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 这个新的管理工具会运行一系列检查，以查看同步配置是否已正确设置。
 
@@ -151,7 +151,7 @@ RTP的Assets页面现在分为内容分析和内容Recommendations。
 
 ## 将字段添加到CRM自定义对象同步 {#add-fields-to-crm-custom-object-sync}
 
-轻松将新字段添加到从Salesforce和Dynamics同步的自定义对象。 您现在可以向自定义对象同步添加新字段，而无需禁用和启用整个自定义对象。
+轻松将新字段添加到从[!DNL Salesforce]和[!DNL Dynamics]同步的自定义对象。 您现在可以向自定义对象同步添加新字段，而无需禁用和启用整个自定义对象。
 
 ## 对安全功能的更改 {#changes-to-security-features}
 
@@ -162,13 +162,13 @@ RTP的Assets页面现在分为内容分析和内容Recommendations。
 
 ## IE 11支持（并弃用对IE 9的支持） {#ie-support-and-deprecating-support-for-ie}
 
-我们现在正式支持Microsoft Internet Explorer 11浏览器，并停止支持Microsoft Internet Explorer 9浏览器。
+我们现在正式支持[!DNL Microsoft Internet Explorer] 11浏览器，并正在删除对[!DNL Microsoft Internet Explorer] 9浏览器的支持。
 
 ## MSI的Lightning UI支持 {#lightning-ui-support-for-msi}
 
-应用程序交换上最新的MSI包可与闪电和旧版Salesforce UI配合使用。
+应用程序交换上的最新MSI包适用于[!DNL Salesforce] UI的闪电版和旧版。
 
-## 新建Dynamics插件 {#new-dynamics-plug-in}
+## 新建[!DNL Dynamics]插件 {#new-dynamics-plug-in}
 
 此新插件以异步模式运行各种操作，以帮助提高性能。
 

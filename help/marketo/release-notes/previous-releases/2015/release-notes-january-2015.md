@@ -4,9 +4,9 @@ description: 发行说明 — 2015年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年1月
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 [ — 登陆页面演练视频 — ](https://youtu.be/aPQHlG2X6c0)
 
-**个新的Rest API调用**
+**个新的REST API调用**
 
-Lead &amp; Activity ReST API的三个新调用：
+潜在客户与活动REST API的三个新调用：
 
 * 删除潜在客户
 * 按项目ID获取潜在客户
 * 获取已删除的潜在客户
 
-此外，还为Sync Lead提供了一个新选项，用于异步写入潜在客户更改以实现更快的API调用。 发布后，可在[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
+此外，还为Sync Lead提供了一个新选项，用于异步写入潜在客户更改以实现更快的API调用。 发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
 
 **电子邮件脚本自定义对象支持**
 
@@ -39,9 +39,9 @@ Lead &amp; Activity ReST API的三个新调用：
 
 ## 实时Personalization {#real-time-personalization}
 
-**Google和Facebook的个性化再营销**
+**Google和[!DNL Facebook]**&#x200B;的个性化再营销
 
-再营销可向访问过您网站的人显示广告。 您现在可以使用Real-Time Personalization中的数据在[Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)和[Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)上个性化再营销活动。 向来自不同行业的受众进行再营销，包括指定的帐户列表、公司规模或任何来自已知潜在客户的数据。
+再营销可向访问过您网站的人显示广告。 您现在可以使用Real-Time Personalization中的数据在[Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)和[[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)上个性化再营销活动。 向来自不同行业的受众进行再营销，包括指定的帐户列表、公司规模或任何来自已知潜在客户的数据。
 
 [指定帐户列表模块](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -62,6 +62,6 @@ Lead &amp; Activity ReST API的三个新调用：
 1. 不具有CDN的异步标记
 1. 不带CDN的同步标记
 
-为获得最佳性能，建议在`<head>`之后将标记放在网页标题的顶部。 所有标记都允许使用[RTP API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。 有关如何部署RTP标记的信息，请参阅[此处](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)。
+为获得最佳性能，建议在`<head>`之后将标记放在网页标题的顶部。 所有标记都允许使用[RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。 有关如何部署RTP标记的信息，请参阅[此处](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)。
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

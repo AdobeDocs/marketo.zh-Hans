@@ -4,9 +4,9 @@ description: 发行说明 — 2015年3月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年3月
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能不适用于Spark和Standard版本。
+>此功能不适用于Spark和[!DNL Standard]版本。
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)
 
-## Google Adwords集成 {#google-adwords-integration}
+## [!DNL Google Adwords]集成 {#google-adwords-integration}
 
-将您的[Google AdWords帐户关联到Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)，以便自动将离线转化数据从Marketo上传到Google AdWords。 然后，从AdWords UI中，您将能够轻松查看哪些点击产生了符合条件的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段）。
+将您的[[!DNL Google AdWords] 帐户关联到Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)，以自动将离线转化数据从Marketo上传到[!DNL Google AdWords]。 然后，从[!DNL AdWords] UI中，您将能够轻松查看哪些点击产生了符合条件的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段）。
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## 收入资源管理器重新设计 {#revenue-explorer-redesign}
+## [!UICONTROL Revenue Explorer]重新设计 {#revenue-explorer-redesign}
 
-Revenue Explorer具有全新的外观，以及新的环状层次图类型！ 我们将在4月的前两周推出此功能。
+[!UICONTROL Revenue Explorer]具有全新的外观，以及新的环状层次图类型！ 我们将在4月的前两周推出此功能。
 
 ## 新资产REST API {#new-asset-rest-apis}
 
-[新资产REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/assets)
+[新资产REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-我们现在支持通过API [&#128279;](https://developer.adobe.com/marketo-apis/api/asset/)创建和编辑电子邮件、模板、我的令牌、文件和代码片段！
+我们现在支持通过API ](https://developer.adobe.com/marketo-apis/api/asset/)创建和编辑电子邮件、模板、我的令牌、文件和代码片段[！
 
-## Microsoft Dynamics 2015内部部署 {#microsoft-dynamics-on-premise}
+## [!DNL Microsoft Dynamics] 2015年内部部署 {#microsoft-dynamics-on-premise}
 
 最新安装程序支持，现在[可通过应用程序](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)访问。
 

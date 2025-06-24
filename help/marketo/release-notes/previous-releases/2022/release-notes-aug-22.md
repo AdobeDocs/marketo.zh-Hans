@@ -1,11 +1,10 @@
 ---
 description: 发行说明 — 2022年8月 — Marketo文档 — 产品文档
-title: 发行说明 — 2022年8月
+title: 发行说明 - 2022 年 8 月
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-feature: Release Information
-source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
@@ -20,13 +19,13 @@ ht-degree: 0%
 
 以下功能已于&#x200B;**2022年8月26日**&#x200B;开始分阶段推出。
 
-## 跨渠道编排 {#cross-channel-orchestration}
+## 跨渠道编排 {#cross-channel-orchestration}
 
-* **[一次为Dynamic Chat启用/禁用所有已发布的对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**：一次从配置页面全局启用/禁用所有已发布的对话框，只需按一下按钮即可。
+* 一次启用/禁用[!DNL Dynamic Chat]的所有已发布对话框**：通过按按钮从“配置”页面一次全局启用/禁用所有已发布对话框。
 
-* **[Dynamic Chat的自定义头像](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#agent-settings){target="_blank"}**：上传自定义聊天机器人头像，以便根据您的品牌进行个性化。
+* **[!DNL Dynamic Chat]**&#x200B;的自定义头像：上传自定义聊天机器人头像，以便根据您的品牌对其进行个性化。
 
-* **Dynamic Chat的聊天记录**：查看每个对话的聊天记录，以更深入地了解每个Web访客感兴趣的内容。
+* **[!DNL Dynamic Chat]**&#x200B;的聊天记录：查看每个对话的聊天记录，以深入了解insight中每个Web访客感兴趣的内容。
 
 ## 下一代体验
 
@@ -47,29 +46,29 @@ ht-degree: 0%
 
 * **[自助服务流程步骤 — 程序导入增强功能](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target="_blank"}**：改进了对导入具有自定义流程步骤的程序的支持，在该程序中，您现在可以使用同一服务提供程序的多个实例，并导入具有与这些服务提供程序兼容的流程步骤的程序。
 
-* **Munchkin — 扩展的链接跟踪**：扩展对使用Munchkin跟踪`tel`和`mailto`链接的支持，以跟踪扩展的Web行为集。
+* **[!DNL Munchkin]— 扩展的链接跟踪**：通过Munchkin扩展对`tel`和`mailto`链接的跟踪支持，以跟踪扩展的Web行为集。
 
-* **Webhook自定义标头可见性**： Webhook自定义标头现在显示在“管理员”>“Webhooks”选项卡中，可见性更高。
+* **Webhook自定义标头可见性**： Webhook自定义标头现在显示在[!UICONTROL Admin] > [!UICONTROL Webhooks]选项卡中，可见性更高。
 
-* **CAPTCHA**：使用reCAPTCHA v3[&#128279;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}评估表单提交的有效性以对传入的表单流量进行评分。 构建营销工作流以自动排除、隔离或删除可疑的机器人流量。
+* **CAPTCHA**：使用reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}评估表单提交的有效性[以对传入的表单流量进行评分。 构建营销工作流以自动排除、隔离或删除可疑的机器人流量。
 
-* **批准表单的权限**：新权限用于控制哪些设计人员可以批准对表单的更改，这些更改与其他Design Studio资源一致。 这可以防止其他设计人员在没有获得批准权限的其他人审阅表单的情况下，将更改推送到表单中。
+* **批准表单的权限**：新权限可控制哪些设计人员可以批准对表单的更改，这些更改与其他[!UICONTROL Design Studio]资源一致。 这可以防止其他设计人员在没有获得批准权限的其他人审阅表单的情况下，将更改推送到表单中。
 
 * **在匿名合并后始终执行促销活动重播**：在促销活动重播之前进行匿名潜在客户合并，这样当匿名促销活动重播完成时，自定义字段筛选器可以可靠地工作。
 
 ## 营销数据环境 {#marketing-data-environment}
 
-* **修复“使用者”自定义对象字段的UI截断**：现在可以更轻松地识别“正在使用”的自定义对象字段，以便在必要时可以从自定义对象中删除字段。
+* **修复自定义对象“[!UICONTROL Used By]”字段的UI截断**：现在可以更轻松地识别“正在使用”的自定义对象字段，以便在必要时可以从自定义对象中删除字段。
 
 ## API增强功能 {#api-enhancements}
 
 * **批量程序成员提取API的新筛选功能**：按程序成员资格状态、updatedAt、cadence或用完的内容进行筛选，以优化提取的数据集。
 
-## 销售分析 {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![（星形）](assets/yellow-star.png)
 
-* **[Sales Insight与Dynamic Chat的集成](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**：在Sales Insight面板中查看Dynamic Chat的活动，并在您的潜在客户工作中利用这个新的数据点。
+* **[[!DNL Sales Insight] 与 [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**&#x200B;集成：在[!DNL Sales Insight]面板中查看来自[!DNL Dynamic Chat]的活动，并在您的潜在客户工作中利用此新数据点。
 
 ## 公告 {#announcements}
 

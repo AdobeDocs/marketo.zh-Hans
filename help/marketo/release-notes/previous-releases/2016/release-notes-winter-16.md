@@ -3,10 +3,9 @@ unique-page-id: 10097199
 description: 发行说明 — 2016年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年冬
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -19,23 +18,23 @@ ht-degree: 0%
 
 已为智能列表删除了Is匿名筛选器。 有关详细信息，请参阅[下一代Munchkin跟踪常见问题解答](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)文档。 此更改不会影响Web Personalization (RTP)，RTP会继续识别匿名和已知的Web访客，并实时为这些访客个性化内容。
 
-## [数据库仪表板](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
+## [数据库仪表板](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
-Lead Database更新了Summary Dashboard ，其中包括总人员数据库大小、可销售的潜在客户数以及按前五个来源划分的潜在客户细目。
+[!UICONTROL Lead Database]更新了“摘要仪表板”，其中包括总人员数据库大小、可销售商机数量以及按前五个来源列出的商机细分。
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
 ## [Microsoft Edge浏览器](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-我们已将Microsoft Edge添加到Marketo支持的[浏览器](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)列表。
+我们已将[!DNL Microsoft Edge]添加到Marketo支持的[浏览器](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)列表。
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-现在支持[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
+现在支持[[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
 
 ## [电子邮件计划头开始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
-使用“Head Start”指示应提前处理发送。 Head Start确保在计划时间之前完成这些任务，而不是在计划时间确认潜在客户并准备电子邮件。 这样，您的受众将在计划的时间开始接收电子邮件。
+使用[!UICONTROL Head Start]指示应提前处理您的发送。 [!UICONTROL Head Start]确保在计划的时间提前完成这些任务，而不是在计划的时间确认潜在客户并准备电子邮件。 这样，您的受众将在计划的时间开始接收电子邮件。
 
 ![](assets/image2016-1-11-15-3a38-3a3.png)
 
@@ -49,23 +48,23 @@ Lead Database更新了Summary Dashboard ，其中包括总人员数据库大小�
 
 ## [移动营销增强功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap支持：**&#x200B;我们现在为您的移动设备应用程序提供PhoneGap支持。 [了解更多](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/phonegap)。
+**[!DNL PhoneGap]支持：**&#x200B;我们现在为您的移动应用程序提供[!DNL PhoneGap]支持。 [了解详情](https://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
 
 **支持沙盒应用程序**：
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [程序API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [程序API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 通过REST API创建、更新和克隆程序。 这不包括创建或更新项目中的智能列表和智能营销策划。
 
 ## [Microsoft Dynamics增强功能](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[同步状态](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**：继续关注同步进程的当前吞吐量和积压工作。 按插入数和更新数按对象细分。
+**[[!UICONTROL Sync Status]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**：保持对同步进程的当前吞吐量和积压的关注。 按插入数和更新数按对象细分。
 
 ![](assets/pending-backog-cropped.png)
 
-**[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**：获取有关常见同步错误的通知，以及具有该错误的潜在客户列表。
+**[[!UICONTROL Notifications]](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**：获取有关常见同步错误的通知，以及具有该错误的潜在客户列表。
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
@@ -77,7 +76,7 @@ Lead Database更新了Summary Dashboard ，其中包括总人员数据库大小�
 
 ## [Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook潜在客户广告](https://www.facebook.com/business/a/lead-ads)是企业在Facebook上开展潜在客户挖掘活动的更直接方式。 人们填写表格来表达对产品或服务的兴趣，以便企业能够跟进他们。 Marketo与Facebook潜在客户广告的集成会自动捕获潜在客户在潜在客户广告表单中提供的信息。 然后，可以使用新的“填写Facebook潜在客户广告”触发器自动执行跟进操作和通知。
+[[!UICONTROL Facebook Lead ads]](https://www.facebook.com/business/a/lead-ads)是企业在[!DNL Facebook]上运行商机开发营销活动的更直接方式。 人们填写表格来表达对产品或服务的兴趣，以便企业能够跟进他们。 Marketo与[!UICONTROL Facebook Lead Ads]的集成会自动捕获潜在客户在潜在客户广告表单中提供的信息。 然后，可以使用新的[!UICONTROL Fills Out Facebook Lead Ads]触发器自动执行跟进操作和通知。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

@@ -4,9 +4,9 @@ description: 发行说明 — 2015年2月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年2月
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 欢呼！ 现在，您可以使用拖放或树中的移动功能将智能营销活动移入和移出项目。
 
-**[Dynamics 2015 （联机）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** — 支持！
+**[[!DNL Dynamics] 2015（联机）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** — 支持！
 
 **HTTPS证书更改**
 
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 和将会为以下域将当前使用的安全协议（SHA-1和SSL）替换为更安全的版本(SHA-2（也称为SHA-256）和TLS)：
 
-* marketo.net （加密的Munchkin流量）
+* marketo.net （已加密[!DNL Munchkin]流量）
 
 * [marketo.com](https://marketo.com)（主要SaaS应用程序）
 
 此版本发布后不久将进行此操作。 在2015年12月之前，[mktoapi.com](https://mktoapi.com)域将暂时支持SHA-1协议，以允许旧系统和应用程序的所有者更新其系统以使其与SHA-2兼容。
 
-**安全Munchkin**
+**安全[!DNL Munchkin]**
 
-我们将取消对SSL3的支持。 我们此前一直维护SSL3，以保持对旧版Web浏览器的支持，但在2015年，我们将不再看到来自这些浏览器的大量Web流量。 此问题仅会在安全页面上影响Munchkin，并且在2月版发布后会缓慢展开。
+我们将取消对SSL3的支持。 我们此前一直维护SSL3，以保持对旧版Web浏览器的支持，但在2015年，我们将不再看到来自这些浏览器的大量Web流量。 此问题仅会在安全页面上使用时影响[!DNL Munchkin]，并且在2月发布之后将缓慢展开。
 
 ## 实时Personalization增强功能 {#real-time-personalization-enhancements}
 

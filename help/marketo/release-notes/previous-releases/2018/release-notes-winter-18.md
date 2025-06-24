@@ -3,10 +3,9 @@ unique-page-id: 13795395
 description: 发行说明 — 2018年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2018年冬季
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -21,9 +20,9 @@ ht-degree: 0%
 
 Marketo正在利用我们的大数据架构提高触发活动吞吐量和改进Web活动处理，以使您可更快地响应受众的操作。
 
-## Marketo Salesforce CRM集成的增强功能 {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Marketo [!DNL Salesforce] CRM集成的增强功能 {#enhancements-to-marketo-s-salesforce-crm-integration}
 
-我们对Salesforce CRM集成进行了两项增强：
+我们对[!DNL Salesforce] CRM集成进行了两项增强：
 
 * 针对某些CRM同步失败（凭据已过期、达到API限制等），[Marketo管理员通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
 
@@ -35,7 +34,7 @@ Marketo正在利用我们的大数据架构提高触发活动吞吐量和改进W
 
 >[!AVAILABILITY]
 >
->性能分析是一个附加产品。 请联系您的Marketo客户经理或客户经理以获取报价。
+>[!UICONTROL Performance Insights]是附加产品。 请联系您的Marketo客户成功经理或客户经理以获取报价。
 
 利用归因分析、交互式可视化图表和详细的数据表，探索您的营销活动和渠道如何影响业务成果。
 
@@ -45,7 +44,7 @@ Marketo正在利用我们的大数据架构提高触发活动吞吐量和改进W
 
 **[ABM层次结构](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
-对于具有Salesforce或Microsoft Dynamics的ABM客户，ABM现在将自动继承（和显示）在CRM中建立的父子关系。 您将能够在汇总报告和活动执行中使用这些关系。
+对于具有[!DNL Salesforce]或[!DNL Microsoft Dynamics]的ABM客户，ABM现在将自动继承（和显示）在CRM中建立的父子关系。 您将能够在汇总报告和活动执行中使用这些关系。
 
 ## 电子邮件营销 {#email-marketing}
 
@@ -63,11 +62,11 @@ Marketo正在利用我们的大数据架构提高触发活动吞吐量和改进W
 
 **[Google客户匹配集成](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-利用此集成，您可以将Marketo受众发送到Google以使用Google AdWords进行定位，以及跨YouTube、Search和Gmail重新定位受众。
+利用此集成，您可以将Marketo受众发送到Google以使用[!DNL Google AdWords]进行定位，以及跨[!DNL YouTube]、Search和[!DNL Gmail]重新定位受众。
 
-**[LinkedIn Matched Audiences API增强功能](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[[!DNL LinkedIn] 匹配的受众API增强功能](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-现在，您可以使用我们新的LinkedIn API跨多个Marketo Campaign Manager帐户重新定位LinkedIn数据库中的人员。
+现在，我们新的[!DNL LinkedIn] API允许您跨多个[!DNL LinkedIn] Campaign Manager帐户重新定位Marketo数据库中的人员。
 
 ## Web Personalization {#web-personalization}
 
@@ -87,15 +86,15 @@ Web Personalization现在可以为已知的Web访客个性化内容，该访客�
 
 ## 集成 {#integration}
 
-**[激活/停用营销活动API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[激活/停用营销活动API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 此新API允许您远程激活和取消激活触发器营销活动，因此您现在可以创建完全自动化的项目模板。 只需创建一次项目模板，即可自动执行克隆、营销宣传材料更新，现在即可激活/计划智能营销活动。
 
-## ToutApp {#toutapp}
+## [!DNL ToutApp] {#toutapp}
 
 **取消订阅更新**
 
-从2018年3月1日开始，从[ToutApp.com](https://ToutApp.com)（并使用Salesforce中的“Email with Tout”按钮）发送的所有电子邮件都将有一个取消订阅链接附加到底部。
+从2018年3月1日开始，从[ToutApp.com](https://ToutApp.com)（并使用[!DNL Salesforce]中的“带有[!DNL Tout]的电子邮件”按钮）发送的所有电子邮件都将有一个取消订阅链接附加到底部。
 
 **实时信息源更新**
 
@@ -103,4 +102,4 @@ Web Personalization现在可以为已知的Web访客个性化内容，该访客�
 
 **人员详细信息视图更新**
 
-改进的People Detail View (PDV)通过将您的Tout和Salesforce CRM联系人详细信息汇集在一起，提供了您联系人的全面视图。
+改进的人员详细信息视图(PDV)通过汇总您的[!DNL Tout]和[!DNL Salesforce] CRM联系人详细信息提供了您联系人的全面视图。

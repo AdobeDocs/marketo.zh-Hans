@@ -4,9 +4,9 @@ description: 发行说明 — 2019年8月 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年8月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 **Account-Based Marketing** ![（星级）](assets/yellow-star.png)
 
-* **LinkedIn帐户匹配**（以前为测试版）现已正式推出。
+* **[!DNL LinkedIn]帐户匹配**（以前为测试版）现已正式可用。
 * **AccountAI**&#x200B;正在被正式重新命名为&#x200B;**帐户分析**。
 
 <br> 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 以下功能采用非季度周期，将在整个日历季度以及2019年第4季度初发布。
 
-**Marketo Sales Connect** ![（星级）](assets/yellow-star.png)
+**[!DNL Marketo Sales Connect]** ![（星形）](assets/yellow-star.png)
 
 * **人员页面布局增强：**&#x200B;通过列表导入和新人员页面布局中的批量操作来管理您的人员和组。
 

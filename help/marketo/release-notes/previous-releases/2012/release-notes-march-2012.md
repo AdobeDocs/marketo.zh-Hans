@@ -4,9 +4,9 @@ description: 发行说明 — 2012年3月 — Marketo文档 — 产品文档
 title: 发行说明 — 2012年3月
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 代码片段预览器 {#snippet-previewer}
 
-通过从菜单中选择“预览代码片段”，您可以查看代码片段，而不将其变为草稿。此外，如果您对共享代码片段具有只读访问权限（通过工作区），则可以通过此操作查看代码片段
+从菜单中选择“预览代码片段”可查看代码片段，而不会将其变为草稿。 此外，如果您对共享代码片段具有只读访问权限（通过工作区），则可以通过此操作查看代码片段。
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 

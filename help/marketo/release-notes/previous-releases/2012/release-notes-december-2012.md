@@ -4,9 +4,9 @@ description: 发行说明 — 2012年12月 — Marketo文档 — 产品文档
 title: 发行说明 — 2012年12月
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -29,31 +29,31 @@ ht-degree: 0%
 
 ## 粒度管理员权限 {#granular-admin-permissions}
 
-我们的最新版本通过控制每个角色对Marketo管理区域中不同功能的访问，为您提供了对管理员角色的更大访问和控制。 创建新角色时，您可以分配该角色可以访问的特定管理员功能。
+通过控制每个角色对Marketo [!UICONTROL Admin]区域中不同功能的访问，我们的最新版本为您提供了对[!UICONTROL Admin]角色的更大访问和控制。 创建新角色时，您可以分配该角色可以访问的特定[!UICONTROL Admin]功能。
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->默认情况下，具有“访问管理员”权限的现有角色有权访问所有管理员功能，直到被修改为止。
+>默认情况下，具有“[!UICONTROL Access Admin]”权限的现有角色在修改之前可以访问所有[!UICONTROL Admin]函数，除非对其进行修改。
 
-## BrightTALK适配器 {#brighttalk-adapter}
+## [!UICONTROL BrightTALK]适配器 {#brighttalk-adapter}
 
-Marketo BrightTALK适配器允许您从实时或按需网络广播中捕获出席信息，直接添加到Marketo活动中！
+Marketo [!UICONTROL BrightTALK]适配器允许您从实时或按需网络广播中直接将出席情况信息捕获到Marketo事件中！
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Marketo Sales Insight for Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
+## 用于[!DNL Microsoft Dynamics]的Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-microsoft-dynamics}
 
-Sales Insight现在可供Microsoft Dynamics客户使用！
+[!DNL Sales Insight]现在可供[!DNL Microsoft Dynamics]客户使用！
 
-## Dynamics机会同步 {#dynamics-opportunity-sync}
+## [!DNL Dynamics]机会同步 {#dynamics-opportunity-sync}
 
-在Marketo和Microsoft Dynamics之间同步机会数据。
+在Marketo和[!DNL Microsoft Dynamics]之间同步机会数据。
 
 ## 营销影响机会报告&#42; {#marketing-influenced-opportunities-report}
 
-查看您的营销计划对贵公司的管道和收入的影响百分比。 在&#x200B;**收入资源管理器**&#x200B;中，您现在可以创建在Opportunity Analysis中使用新“营销影响的Opportunity”黄点的自定义报表。 您还可以在Standard文件夹中使用以下两个报表：
+查看您的营销计划对贵公司的管道和收入的影响百分比。 在&#x200B;**[!UICONTROL Revenue Explorer]**&#x200B;中，您现在可以创建在Opportunity Analysis中使用新“营销影响的Opportunity”黄点的自定义报告。 您还可以在Standard文件夹中使用以下两个报表：
 
 * 营销对所创建机会的影响
 * 营销对成功的机会的影响
@@ -62,14 +62,14 @@ Sales Insight现在可供Microsoft Dynamics客户使用！
 
 ## Program Opportunity Analysis&#42;中的自定义Opportunity字段 {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-添加自定义机会字段以扩充收入资源管理器中的Program Opportunity分析报表。
+添加自定义机会字段以在[!UICONTROL Revenue Explorer]中扩充您的项目机会分析报告。
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## 活动检查器 {#campaign-inspector}
 
-您是否曾想过哪些营销活动正在使用特定的流量操作，例如更改得分或请求营销活动？ 或者在何处使用特定过滤器？ 新的营销活动检查器（可从宝藏箱中获取）使您能够识别这些营销活动，以及存在错误的活跃营销活动和营销活动。
+您是否曾想过哪些营销活动正在使用特定的流量操作，如[!UICONTROL Change Score]或[!UICONTROL Request Campaign]？ 或者在何处使用特定过滤器？ 新的[!UICONTROL Campaign Inspector]（可从宝藏箱中获取）使您能够识别这些营销活动，以及存在错误的活跃营销活动和营销活动。
 
-转到&#x200B;**管理员** > **Treasure Chest**&#x200B;以启用&#x200B;**促销活动检查器**。
+转到&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Treasure Chest]**&#x200B;以启用&#x200B;**[!UICONTROL Campaign Inspector]**。
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

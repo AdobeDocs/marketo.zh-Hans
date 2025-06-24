@@ -4,9 +4,9 @@ description: 发行说明 — 2014年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年7月
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 营销日历 {#marketing-calendar}
 
-跨程序查看您的所有活动、电子邮件等。 [此新产品](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)将免费提供给拥有10个或更少Marketo潜在客户管理或Dialogue用户的客户。
+跨程序查看您的所有活动、电子邮件等。 [此新产品](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)将免费提供给[!DNL Marketo Lead Management]或Dialog用户数量在10个或更少的客户。
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo销售线索管理将进行更新，采用新外观，既现代又时尚，并包括更新的导航功能。
+[!DNL Marketo Lead Management]将更新为时尚的新外观，并包括更新的导航。
 
 ## 日期运算符 {#date-operators}
 
-[高级筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)：“过去早于”、“将来”和“将来晚于”。 例如，查找出生日期在未来3个月内的潜在客户或出生日期在6个月后到期的合同。
+针对“[!UICONTROL in past before]”、“[!UICONTROL in future]”和“[!UICONTROL in future after]”的[高级筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)。 例如，查找出生日期在未来3个月内的潜在客户或出生日期在6个月后到期的合同。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -45,9 +45,9 @@ Marketo销售线索管理将进行更新，采用新外观，既现代又时尚�
 * 新的暂定日期 — 将其铅笔插入！
 * 自定义条目类型 — ToDo、Press Release、您想要的任何内容
 
-## ReST API中的列表操作 {#list-operations-in-the-rest-api}
+## REST API中的列表操作 {#list-operations-in-the-rest-api}
 
-我们添加了以下与ReST中的列表操作相关的调用。 请参阅完整文档[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)。
+我们添加了以下与ReST中的列表操作相关的调用。 请参阅完整文档[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)。
 
 * 按ID获取列表
 * 获取多个列表
@@ -64,7 +64,7 @@ Marketo销售线索管理将进行更新，采用新外观，既现代又时尚�
 
 推出将从7月中旬开始，并在未来几个月持续。
 
-* 删除依赖项jQuery以实现完全兼容和将来兼容
+* 删除依赖项[!DNL jQuery]以实现完全兼容和未来兼容
 * 与网站上的其他JavaScript更兼容
 * 过去一年已在许多网站上进行了全面测试！
 
@@ -78,10 +78,10 @@ RTP集营销活动页面现在[包含现成的模板](/help/marketo/product-docs
 
 ## RTP：JavaScript API增强功能 {#rtp-javascript-api-enhancements}
 
-用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 有关完整文档，请参阅我们的[开发人员网站](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 有关完整文档，请参阅我们的[开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP：Campaign内容编辑器支持HTML5 {#rtp-html-support-in-campaign-content-editor}
+## RTP：Campaign内容编辑器中的HTML5支持 {#rtp-html-support-in-campaign-content-editor}
 
-现在，“设置营销活动”页面中的HTMLWYSIWYG编辑器具有完全的ContentCampaigns兼容性。 单击编辑器中的“HTML”图标可插入任何HTML5代码。
+现在，“设置营销活动”页面中的内容WYSIWYG编辑器具有完全的HTML5兼容性。 单击编辑器中的“HTML”图标可插入任何HTML5代码。

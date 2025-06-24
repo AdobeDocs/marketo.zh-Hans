@@ -4,9 +4,9 @@ description: 发行说明 — 2014年5月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年5月
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 >
 >`[[https://www.marketo.com]]`
 
-默认情况下，电子邮件文本版本中不会跟踪任何链接。 添加此新语法以指示何时应将链接转换为跟踪链接。 HTML链接的行为保持不变。  要在电子邮件中添加跟踪链接，请执行以下操作：
+默认情况下，电子邮件文本版本中不会跟踪任何链接。 添加此新语法以指示何时应将链接转换为跟踪链接。 HTML链接的行为未更改。  要在电子邮件中添加跟踪链接，请执行以下操作：
 
 * **HTML版本：**&#x200B;只需插入您的链接即可。 默认情况下，将对其进行跟踪。
 * **文本版本：**&#x200B;输入由双方括号括起的URL。
@@ -57,23 +57,23 @@ ht-degree: 0%
 
 提前查看您的链接在电子邮件中的行为方式。 现在，示例电子邮件会显示这些链接在潜在客户面前的确切显示方式。 预览哪些链接已转换为跟踪链接，以便您更好地了解消息实际显示给收件人的方式。
 
-## 中止营销活动 {#abort-campaign}
+## [!UICONTROL Abort Campaign] {#abort-campaign}
 
 不要惊慌！ 如果发现错误，请使用新的[中止营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)按钮立即停止其跟踪的营销活动。 您将收到一条通知，其中概述了营销策划停止时每个流程步骤中待定的潜在客户数量。
 
-## 日语、葡萄牙语和西班牙语的Sales Insight {#sales-insight-in-japanese-portuguese-and-spanish}
+## [!UICONTROL Sales Insight]日语、葡萄牙语和西班牙语 {#sales-insight-in-japanese-portuguese-and-spanish}
 
-从AppExchange下载最新版本的Sales Insight，以便您的日语、葡萄牙语和西班牙语销售代理使用他们的首选语言查看Sales Insight内容。
+从AppExchange下载[!UICONTROL Sales Insight]的最新版本，以便您的日语、葡萄牙语和西班牙语销售代理使用其首选语言查看[!UICONTROL Sales Insight]内容。
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
 ## 计划会员资格分析中的计划状态和成功时间范围 {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-查看每个计划状态[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)中有多少成员，以及他们更改为每个状态的时间，包括他们获得计划成功的日期。
+查看每个计划状态](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)中有多少[成员，以及他们更改为每个状态的时间，包括他们获得计划成功的日期。
 
-## 电子邮件分析中的A/B测试电子邮件 {#a-b-test-emails-in-email-analysis}
+## [!UICONTROL Email Analysis]中的A/B测试电子邮件 {#a-b-test-emails-in-email-analysis}
 
-在电子邮件分析中报告每个[A/B测试电子邮件变体](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。
+在[!UICONTROL Email Analysis]中报告每个[A/B测试电子邮件变体](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。
 
 ## Analytics打包更改 {#analytics-packaging-changes}
 
