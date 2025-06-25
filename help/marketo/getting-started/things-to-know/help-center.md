@@ -3,7 +3,7 @@ description: 帮助中心 — Marketo Engage文档 — 产品文档
 title: 帮助中心
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 2%
@@ -16,13 +16,13 @@ Adobe Marketo Engage中的帮助中心是获取帮助的集中位置。 除了�
 
 ## 如何访问 {#how-to-access}
 
-有两种不同的体验，具体取决于您的订阅是否已迁移到AdobeIdentity Management System (IMS)。
+有两种不同的体验，具体取决于您的订阅是否已迁移到Adobe Identity Management System (IMS)。
 
 ### Adobe IMS前迁移 {#pre-adobe-ims-integration}
 
-这些步骤适用于&#x200B;_尚未_&#x200B;迁移到[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)的Marketo Engage用户。
+这些步骤适用于尚&#x200B;_未_&#x200B;迁移到[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo Engage用户。
 
-[登录](http://login.marketo.com/)Marketo Engage并单击“帮助”图标。
+[登录](https://login.marketo.com/){target="_blank"}Marketo Engage并单击“帮助”图标。
 
 ![](assets/help-center-1.png)
 
@@ -60,19 +60,19 @@ Adobe Marketo Engage中的帮助中心是获取帮助的集中位置。 除了�
 
 >[!TIP]
 >
->单击底部的箭头图标可按Experience League查看页面。
+>单击底部的箭头图标以在Experience League中查看页面。
 
 #### 资源 {#resources}
 
-通过“资源”选项卡，您可以快速而直接地访问各种方式，以获取有关Marketo Engage实例的其他帮助。
+通过“资源”选项卡，您可以快速直接访问各种方式，以获取有关Marketo Engage实例的其他帮助。
 
 ![](assets/help-center-8.png)
 
 ### Adobe IMS后迁移 {#post-adobe-ims-integration}
 
-这些步骤适用于已迁移到[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)的Marketo Engage用户。
+这些步骤适用于已迁移到[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo Engage用户。
 
-[登录](https://experience.adobe.com/)Marketo Engage并单击“帮助”图标。
+[登录](https://experience.adobe.com/){target="_blank"}Marketo Engage并单击“帮助”图标。
 
 ![](assets/help-center-9.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720433
-description: 配置Marketo Engage协议 — Marketo Engage文档 — 产品文档
-title: 配置用于Marketo Engage的协议
+description: 为Marketo Engage配置协议 — Marketo Engage文档 — 产品文档
+title: 为Marketo Engage配置协议
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
-source-wordcount: '2148'
-ht-degree: 0%
+source-wordcount: '2131'
+ht-degree: 8%
 
 ---
 
-# 配置用于Marketo Engage的协议{#configure-protocols-for-marketo-engage}
+# 为Marketo Engage配置协议{#configure-protocols-for-marketo-engage}
 
 如果您或您的组织使用限制性的防火墙或代理服务器设置，则您或您的网络管理员可能需要允许列表某些域和IP地址范围，以确保Adobe Marketo Engage按预期工作。
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 **跟踪链接CNAME**
 
-您的营销团队应向您发送两个请求以获取新CNAME记录。 第一个是针对登陆页面URL，这样登陆页面就会显示在反映您的域而非Marketo Engage（实际的主机）的URL中。 第二个用于跟踪从Marketo Engage发送的电子邮件中包含的链接。
+您的营销团队应向您发送两个请求以获取新CNAME记录。 第一个是用于登陆页面URL，这样登陆页面就会显示在反映您域的URL中，而不是显示在Marketo Engage（实际的主机）中。 第二个用于跟踪从Marketo Engage发送的电子邮件中包含的链接。
 
 `1` **为登陆页面添加CNAME**
 
-将他们发送给您的登陆页面CNAME添加到您的DNS记录，这样`[YourLandingPageCNAME]`就指向分配给您的Marketo Engage登陆页面的唯一帐户字符串。 登录到域注册器的网站，然后输入登陆页面CNAME和帐户字符串。 通常，这涉及三个字段：
+将他们发送给您的登陆页面CNAME添加到您的DNS记录，以便`[YourLandingPageCNAME]`指向分配给您的Marketo Engage登陆页面的唯一帐户字符串。 登录到域注册器的网站，然后输入登陆页面CNAME和帐户字符串。 通常，这涉及三个字段：
 
 * 别名：输入`[YourLandingPageCNAME]`（由营销人员提供）
 * 类型：CNAME
@@ -40,7 +40,7 @@ ht-degree: 0%
 `2` **为电子邮件跟踪链接添加CNAME**
 
 添加营销活动发送给您的电子邮件CNAME，以便`[YourEmailCNAME]`指向Marketo Engage分配的默认跟踪链接[MktoTrackingLink]，其格式为：\
-CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
+`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
 
 例如：
 
@@ -58,7 +58,7 @@ CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
 
 完成此过程最多可能需要3个工作日。
 
-## 步骤2：Marketo EngageIP允许列表 {#step-allowlist-marketo-ips}
+## 步骤2：允许列表Marketo Engage IP {#step-allowlist-marketo-ips}
 
 当您的营销团队使用Marketo Engage发送测试电子邮件（发送电子邮件冲击之前的最佳实践）时，测试电子邮件有时会被依赖发件人IP地址来验证电子邮件有效的反垃圾邮件系统阻止。 要确保这些测试电子邮件到达，请将Marketo Engage添加到您的允许列表。
 
@@ -98,13 +98,13 @@ CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
    如果我们的DNS条目中已存在现有的SPF记录，只需将以下内容添加到该记录中：\
    包括： mktomail.com
 
-   将CompanyDomain替换为网站的主域（例如：“`(company.com/)`”），将CorpIP替换为公司电子邮件服务器的IP地址(例如， “255.255.255.255.255”)。 如果您要通过Marketo Engage从多个域发送电子邮件，则应让IT员工为每个域添加此行（一行）。
+   将CompanyDomain替换为网站的主域（例如：“`(company.com/)`”），将CorpIP替换为公司电子邮件服务器的IP地址(例如， “255.255.255.255”)。 如果您要通过Marketo Engage从多个域发送电子邮件，则应让IT员工为每个域添加此行（在一行中）。
 
 1. 对于DKIM，请为要设置的每个域创建DNS资源记录。 以下是我们将签署的每个域的主机记录和TXT值：
 
-   `[DKIMDomain1]`：主机记录为`[HostRecord1]`，TXT值为`[TXTValue1]`。
+   `[DKIMDomain1]`：主机记录是 `[HostRecord1]`，TXT 值为 `[TXTValue1]`。
 
-   `[DKIMDomain2]`：主机记录为`[HostRecord2]`，TXT值为`[TXTValue2]`。
+   `[DKIMDomain2]`：主机记录是 `[HostRecord2]`，TXT 值为 `[TXTValue2]`。
 
    按照此处[的说明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}复制您设置的每个DKIMDomain的HostRecord和TXTValue。 在您的IT员工完成此步骤后，请不要忘记在“管理员”>“电子邮件”>“DKIM”中验证每个域。
 
@@ -112,10 +112,10 @@ CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
 
 DMARC（基于域的消息身份验证、报告和符合性）是一种身份验证协议，用于帮助组织保护其域免遭未经授权的使用。 DMARC扩展了现有的身份验证协议(如SPF和DKIM)，以通知收件人服务器如果在他们的域中发生身份验证失败，他们应该采取的操作。 尽管DMARC当前是可选的，但强烈建议使用，因为它可以更好地保护您组织的品牌和声誉。 从2024年2月开始，Google和Yahoo等主要提供商将要求对批量发件人使用DMARC。
 
-要使DMARC正常运行，您必须至少具有以下DNS TXT记录之一：
+为了使 DMARC 正常运行，您必须至少拥有以下 DNS TXT 记录之一：
 
-* 有效的SPF
-* 您的FROM：域的有效DKIM记录(建议进行Marketo Engage)
+* 有效的 SPF
+* 您的FROM：域的有效DKIM记录(建议用于Marketo Engage)
 
 此外，您的FROM：域必须具有特定于DMARC的DNS TXT记录。 （可选）您可以定义您选择的电子邮件地址，以指示DMARC报表在组织内的放置位置，从而监控报表。
 
@@ -129,7 +129,7 @@ DMARC（基于域的消息身份验证、报告和符合性）是一种身份验
 
    二、如果合法消息未通过身份验证，请查看并修复SPF/DKIM问题。
 
-   三、 确定SPF或DKIM是否一致，并通过所有合法电子邮件的身份验证。
+   三、 确定 SPF 或 DKIM 是否已对齐，并确保所有合法电子邮件均通过身份验证。
 
    四、 查看报告以确保根据SPF/DKIM策略得出的结果符合您的预期。
 
@@ -141,17 +141,17 @@ DMARC（基于域的消息身份验证、报告和符合性）是一种身份验
 
 >[!CAUTION]
 >
->请谨慎使用此策略，并确定它是否适合您的组织。
+>请谨慎使用此策略，并确定其是否适合您的组织。
 
 ### DMARC报表 {#dmarc-reporting}
 
-DMARC提供接收未通过SPF/DKIM的电子邮件报表的功能。 在身份验证过程中，ISP服务生成了两个不同的报告，发件人可以通过其DMARC策略中的RUA/RUF标记接收这些报告。
+DMARC 提供的功能可以接收关于 SPF/DKIM 验证失败电子邮件的报告。在身份验证过程中，ISP服务生成了两个不同的报告，发件人可以通过其DMARC策略中的RUA/RUF标记接收这些报告。
 
 * 汇总报表(RUA)：不包含任何对GDPR（《通用数据保护条例》）敏感的PII（个人身份信息）。
 
 * 取证报告(RUF)：包含对GDPR敏感的电子邮件地址。 在使用之前，最好在内部检查如何处理需要符合GDPR的信息。
 
-这些报告的主要用途是接收尝试欺骗的电子邮件概述。 这些是技术含量很高的报告，最好通过第三方工具消化。
+这些报告的主要用途是获得那些试图欺骗的电子邮件的概述情况。这些是技术含量很高的报告，最好通过第三方工具消化。
 
 ### DMARC记录示例 {#example-dmarc-records}
 
@@ -161,7 +161,7 @@ DMARC提供接收未通过SPF/DKIM的电子邮件报表的功能。 在身份验
 
 ### DMARC标签及其用途 {#dmarc-tags-and-what-they-do}
 
-DMARC记录具有多个名为DMARC标记的组件。 每个标记都有一个值，该值指定DMARC的某些方面。
+DMARC记录具有多个名为DMARC标记的组件。 每个标记都有一个值，用于指定 DMARC 的某个方面。
 
 <table>
 <thead>
@@ -251,11 +251,11 @@ DMARC有两种对齐方式 — DKIM对齐方式和SPF对齐方式。
 
 >[!NOTE]
 >
->建议在DKIM与SPF上对DMARC进行对齐以进行Marketo Engage。
+>建议在DKIM上与Marketo Engage的SPF上执行DMARC对齐操作。
 
 * 与DKIM关联的DMARC — 要设置DKIM关联的DMARC，您必须：
 
-   * 为消息的“发件人：域”设置DKIM。 使用本文[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的说明。
+   * 为消息的“发件人：域”设置DKIM。 使用本文](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的说明[。
    * 为之前配置的FROM：/DKIM域配置DMARC
 
 * DMARC对齐的SPF — 要通过品牌返回路径设置DMARC对齐的SPF，您必须：
@@ -266,40 +266,40 @@ DMARC有两种对齐方式 — DKIM对齐方式和SPF对齐方式。
 
    * 为标记返回路径域配置DMARC
 
-* 如果您通过专用IP从Marketo Engage发送邮件，但尚未实现标记的return-path，或者不确定您是否具有，请打开具有[Adobe支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的票证。
+* 如果您通过专用IP从Marketo Engage发送邮件，但尚未实现标记返回路径，或者不确定您是否实施了，请打开具有[Adobe支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的票证。
 
-* 如果您通过共享IP池从Marketo Engage发送邮件，则可以通过[在此应用](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}来查看您是否符合受信任IP的条件。 为那些从Marketo Engage受信任IP发送的用户免费提供标记返回路径。 如果批准此计划，请联系Adobe支持部门以设置标记的return-path。
+* 如果您通过共享IP池从Marketo Engage发送邮件，则可以通过[在此应用](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}来查看您是否符合受信任IP的条件。 为那些从Marketo Engage受信任的IP发送的用户免费提供标记返回路径。 如果批准此计划，请联系Adobe支持部门以设置标记的return-path。
 
    * 受信任的IP：为月发送数少于75K且不符合专用IP条件的低容量用户保留的共享IP池。 这些用户还必须满足最佳实践要求。
 
-* 如果您通过共享IP从Marketo Engage发送邮件，但没有资格使用受信任的IP，并且每月发送的邮件超过100,000封，则需要联系Adobe客户团队（您的客户经理）以购买专用IP。
+* 如果您通过共享IP从Marketo Engage发送邮件，但没有资格使用受信任IP，并且每月发送的邮件数超过100,000条，则需要联系Adobe客户团队（您的客户经理）以购买专用IP。
 
-* 在Marketo Engage中不支持或建议使用严格的SPF对齐方式。
+* 在Marketo Engage中，不支持也不建议使用严格的SPF对齐方式。
 
 ## 步骤5：为您的域设置MX记录 {#step-set-up-mx-records-for-your-domain}
 
-利用MX记录，可接收发往所发电子邮件之域的邮件，以处理回复和自动回复者。 如果您从公司域发送，则可能已配置此域。 如果没有，则通常可以将其设置为映射到企业域的MX记录。
+MX 记录允许您接收那些发送到您用于发出邮件的域的邮件，以处理回复和自动回复。如果您从公司域发送，则可能已配置此域。 如果没有，则通常可以将其设置为映射到企业域的MX记录。
 
 ## 出站IP地址 {#outbound-ip-addresses}
 
-出站连接是指Marketo Engage代表您连接到Internet上的服务器。 列入允许列表与您合作的一些合作伙伴/供应商或您自己的IT部门可能会使用限制对服务器的访问。 如果是，则必须向他们提供Marketo Engage列入允许列表出站IP地址块，以将其添加到其。
+出站连接是Marketo Engage代表您与Internet上的服务器建立的连接。 列入允许列表与您合作的一些合作伙伴/供应商或您自己的IT部门可能会使用限制对服务器的访问。 如果是这样，您必须向他们提供 Marketo Engage 出站 IP 地址块，以添加到他们的允许列表中。
 
 **Webhooks**
 
-Marketo Engage[Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}是出站集成机制。 在智能营销活动中执行[调用Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}流操作时，会向外部Web服务发出HTTP请求。 列入允许列表 列入允许列表如果Web服务发布者在外部Web服务所在网络的防火墙上使用，则发布者必须将下面列出的IP地址块添加到其中。
+Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}是出站集成机制。 在智能营销活动中执行[调用Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}流操作时，会向外部Web服务发出HTTP请求。 列入允许列表 列入允许列表如果Web服务发布者在外部Web服务所在网络的防火墙上使用，则发布者必须将下面列出的IP地址块添加到其中。
 
 **CRM同步**
 
-Marketo Engage[Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}和[Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}是向您的CRM供应商发布的API发出出站HTTP请求的集成机制。 您必须确保您的IT组织不会阻止下面的任何IP地址块访问您的CRM供应商API。
+Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}和[Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}是向您的CRM供应商发布的API发出出站HTTP请求的集成机制。 您必须确保您的IT组织不会阻止下面的任何IP地址块访问您的CRM供应商API。
 
-**Marketo Engage的出站IP地址块**
+**Marketo Engage出站IP地址块**
 
-下表列出了所有发出出站调用的Marketo Engage服务器。 列入允许列表如果您正在配置任何IP、服务器、防火墙、访问控制列表、安全组或第三方服务来接收来自Marketo Engage的传出连接，请使用下面的列表。
+下表列出了进行出站调用的所有Marketo Engage服务器。 列入允许列表如果您正在将任何IP、服务器、防火墙、访问控制列表、安全组或第三方服务配置为从Marketo Engage接收传出连接，请使用以下列表。
 
 <table>
  <tbody>
   <tr>
-   <th>IP块（CIDR表示法）</th>
+   <th>IP 块（CIDR 表示法）</th>
   </tr>
   <tr>
    <td>103.237.104.0/22</td>
@@ -331,7 +331,7 @@ Marketo Engage[Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesfor
 <table>
  <tbody>
   <tr>
-   <th>单个IP地址</th>
+   <th>个人 IP 地址</th>
   </tr>
   <tr>
    <td>13.237.155.207</td>
