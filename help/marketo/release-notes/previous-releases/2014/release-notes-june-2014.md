@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 潜在客户REST API {#lead-rest-api}
 
-通过我们的新ReST API以编程方式创建、读取和更新潜在客户。 要开始使用ReST，您需要在Marketo中[创建自定义服务](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 然后，转到[开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)，了解有关使用此API的详细信息。
+通过我们的新ReST API以编程方式创建、读取和更新潜在客户。 要开始使用ReST，您需要在Marketo中[创建自定义服务](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 然后，转到[开发人员网站](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)，了解有关使用此API的详细信息。
 
 ## Marketo Real-Time Personalization (RTP)促销活动页面更新 {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
