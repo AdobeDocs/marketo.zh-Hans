@@ -255,7 +255,7 @@ DMARC有两种对齐方式 — DKIM对齐方式和SPF对齐方式。
 
 * 与DKIM关联的DMARC — 要设置DKIM关联的DMARC，您必须：
 
-   * 为消息的“发件人：域”设置DKIM。 使用本文](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的说明[。
+   * 为消息的“发件人：域”设置DKIM。 使用本文[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的说明。
    * 为之前配置的FROM：/DKIM域配置DMARC
 
 * DMARC对齐的SPF — 要通过品牌返回路径设置DMARC对齐的SPF，您必须：
