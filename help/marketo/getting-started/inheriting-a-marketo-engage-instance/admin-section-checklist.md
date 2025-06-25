@@ -3,7 +3,7 @@ description: 继承实例管理员核对清单 — Marketo文档 — 产品文�
 title: 继承实例管理员核对清单
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 1%
@@ -16,31 +16,31 @@ ht-degree: 1%
 
 >[!TIP]
 >
->如果您是新Marketo Engage用户并且不熟悉许多术语，请查看[Marketo Engage术语表](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}。
+>如果您是Marketo Engage的新用户并且不熟悉其中的许多术语，请查看[Marketo Engage术语表](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}。
 
-## AdobeIdentity Management {#adobe-identity-management}
+## Adobe Identity Management {#adobe-identity-management}
 
 >[!NOTE]
 >
->这仅适用于登记到[AdobeIdentity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo Engage订阅。 如果您的订阅尚未载入Adobe IMS，请在“Marketo Engage”>“管理员”>“用户和角色”中继续[旧版用户角色和权限体验](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}。
+>这仅适用于登记到[Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo Engage订阅。 如果您的订阅尚未载入Adobe IMS，请在“Marketo Engage”>“管理员”>“用户和角色”中继续[旧版用户角色和权限体验](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}。
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th> 
+   <th style="width:20%">面积</th> 
    <th>审核焦点</th>
   </tr> 
   <tr> 
    <td>订阅和Marketo Engage产品管理员</td> 
    <td><li>您的Marketo Engage订阅是否已迁移到<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>？ 
-<br/>     如果是这样，您的“Adobe Admin Console系统管理员”是否已向您授予“Adobe Admin Console产品管理员”角色？ 如果您不确定组织中的哪些人具有控制台中的管理员权限，请联系<a href="https://helpx.adobe.com/cn/contact.html" target="_blank">Adobe客户关怀团队</a>。</li>
+<br/>     如果是这样，您的“Adobe Admin Console系统管理员”是否已向您授予“Adobe Admin Console产品管理员”角色？ 如果您不确定贵组织中的哪些人具有控制台中的管理员权限，请联系<a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客户关怀团队</a>。</li>
 <li>您是否接受了“Marketo Engage产品管理员”邀请？ 在Adobe Admin Console中分配角色后，将发送电子邮件。
 <br/>     如果没有，请在收件箱中查找<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">欢迎电子邮件</a>，并接受邀请以激活您的Adobe ID。</li></td>
   </tr>
   <tr> 
    <td>产品配置文件</td> 
    <td><li>是否已将所有适当的用户分配给Adobe Admin Console中的Marketo Engage产品配置文件？
-<br/>     如果不能，请确保在Adobe Admin Console中<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">添加和/或删除Marketo Engage产品配置文件中的用户</a>。 如果已将用户添加到产品配置文件，则无法在“Marketo Engage”&gt;“管理员”&gt;“用户和角色”中分配用户的角色。</li>
+<br/>     如果不能，请确保在Adobe Admin Console中<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">添加和/或删除Marketo Engage产品配置文件中的用户</a>。 如果已将用户添加到产品配置文件，则无法在Marketo Engage &gt;管理员&gt;用户和角色中分配用户角色。</li>
 <p><img src="assets/note-icon.png" alt="注释图标"> 注意：如果将不需要的用户添加到多个产品配置文件，则必须将该用户从所有产品配置文件中删除。 否则，他们仍可以访问Marketo Engage。</td>
   </tr>
   <tr> 
@@ -57,12 +57,12 @@ ht-degree: 1%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
    <td>用户</td> 
-   <td><img src="assets/note-icon.png" alt="注释图标"> 注意：如果您的订阅已经在Adobe IMS上，请继续在Adobe Admin Console中进行以下用户管理审查。 否则，请转到Marketo Engage中的管理员&gt;用户和角色&gt;用户。
+   <td><img src="assets/note-icon.png" alt="注释图标"> 注意：如果您的订阅已经在Adobe IMS上，请继续在Adobe Admin Console中进行以下用户管理审查。 否则，请在Marketo Engage中转到管理员&gt;用户和角色&gt;用户。
    <p>
    <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">有多少用户</a>？</li>
 <li>是否有任何应<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">移除</a>的用户？</li>
@@ -73,13 +73,13 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>角色</td> 
-   <td><img src="assets/note-icon.png" alt="注释图标"> 注意：无论您是否将Marketo与Adobe身份结合使用，请继续在“管理员”&gt;“用户和角色”&gt;“角色”下查看Marketo Engage中的角色权限。
+   <td><img src="assets/note-icon.png" alt="注释图标"> 注意：无论您是否将Marketo与Adobe身份一起使用，请继续在“管理员”&gt;“用户和角色”&gt;“角色”下查看Marketo Engage中的角色权限。
    <p><li>有多少角色？</li>  
 <li>每个角色具有哪些<a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">权限/访问权限</a>？ 是否应对任何内容进行调整？</li>
 <li>每个角色有多少用户？</li>
 <li>用户<a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">登录</a>的频率如何？</li>
 <li>每个API用户是否都有自己的<a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">用户角色</a>？ 如果不能，请考虑实施此操作以更轻松地排除故障。</li> 
-<li>您的用户角色和权限是否与公司数据隐私政策保持一致，以符合法规（例如，<a href="https://gdpr-info.eu/" target="_blank">GDPR</a>）？ 公司数据<a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">隐私政策</a>是否允许用户下载和共享Marketo Engage用户数据？ 需要许可业务吗？</li></td>
+<li>您的用户角色和权限是否与公司数据隐私政策保持一致，以符合法规（例如，<a href="https://gdpr-info.eu/" target="_blank">GDPR</a>）？ 公司数据<a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">隐私策略</a>是否允许用户下载和共享Marketo Engage用户数据？ 需要许可业务吗？</li></td>
   </tr>
   <tr> 
    <td>支持用户</td> 
@@ -104,7 +104,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -119,7 +119,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -143,7 +143,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -159,7 +159,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -175,7 +175,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -190,7 +190,7 @@ ht-degree: 1%
 <li>您的渠道是否与特定项目类型相关？</li>
 <li>哪些状态被视为每个渠道的成功？ 这些是否符合您的营销目标？</li>
 <li>是否正确使用了操作渠道？</li>
-<li>对于高级Report Builder(Revenue Cycle Explorer/RCE)，您的渠道分析行为是否设置为与纳入期间成本的计划实践保持一致？</li></td>
+<li>对于高级Report Builder (Revenue Cycle Explorer/RCE)，您的渠道分析行为是否设置为与纳入期间成本的计划实践保持一致？</li></td>
   </tr>
   <tr> 
    <td>营销日历（如果适用）</td> 
@@ -204,7 +204,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -240,7 +240,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -255,14 +255,14 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>您正在同步到哪个CRM？ Salesforce？ MS Dynamics？ 维耶娃？</li>
 <li>您是否正在使用<a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">自定义同步</a>？</li>
-<li>[仅限Salesforce]您的实例是否实施了自定义同步过滤器？ 
+<li>[仅限Salesforce]您的实例是否已实施自定义同步过滤器？ 
 <p><img src="assets/note-icon.png" alt="注释图标"> 注意：请联系Marketo支持以确定自定义同步筛选器或请求实施自定义同步规则。</li></td>
   </tr>
   <tr> 
@@ -278,10 +278,10 @@ ht-degree: 1%
 <br/>     确认登陆页面资产是否包含“http”URL。</li></td>
   </tr>
   <tr> 
-   <td>蒙奇金</td> 
-   <td><li>您的<a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin跟踪代码</a>是否在您的网站(不是Marketo Engage登录页)上？</li>
+   <td>Munchkin</td> 
+   <td><li>您的<a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin跟踪代码</a>是否在您的网站(不是Marketo Engage登录页面)上？</li>
 <li>是否启用<a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a>浏览器请求？</li>
-<li>您的<a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">Munchkin API</a>是否已配置？ 
+<li>您的<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a>是否已配置？ 
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：如果您缺少有关munchkin代码在您网站上的位置的文档，可以通过创建<a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">网页活动报告</a>来查看所有URL。</li></td>
   </tr>
   <tr> 
@@ -293,21 +293,21 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat（如果适用）</td> 
-<td>执行以下步骤需要访问<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未设置Adobe ID，请<a href="https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html" target="_blank">在此学习如何执行该操作</a>。
+<td>执行以下步骤需要访问<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未设置Adobe ID，请<a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">在此学习如何执行该操作</a>。
 <br/>
-<li>您是否接受了<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat产品管理员</a>邀请？ 当您的Marketo Engage实例中启用了Dynamic Chat，并且您被指定为系统管理员时，将发送电子邮件。
+<li>您是否接受了<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat产品管理员</a>邀请？ 当您在Marketo Engage实例中启用Dynamic Chat并且您被指定为系统管理员时，将发送电子邮件。
 <br/>     如果没有，请在收件箱中查找欢迎电子邮件，并接受邀请来设置您的Adobe ID。</li>   
 <li>您是否已将<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">所需用户</a>添加到Adobe Admin Console中的Dynamic Chat产品配置文件？
-<li>确保您的合格用户已将Dynamic Chat产品配置文件添加到其Adobe身份。 如果将“访问Dynamic Chat”角色添加到产品配置文件，则您无法在“Marketo Engage”&gt;“管理员”&gt;“用户和角色”中分配这些角色。</li>
+<li>确保已将符合条件的用户的Dynamic Chat产品配置文件添加到其Adobe身份中。 如果将“访问Dynamic Chat”角色添加到产品配置文件，则您无法在Marketo Engage &gt;管理员&gt;用户和角色中分配这些角色。</li>
 <li>在“产品配置文件”选项卡中，默认配置文件权限是否符合您组织的需求？<br/> 
 如果没有，请编辑特定配置文件的权限。 </li>
 <li>如果您有多个订阅，您的用户是否会添加到正确的订阅？</li>
 <br>
-完成对“用户和角色”设置的审核后，请登录Dynamic Chat以继续审核。  
+完成用户和角色设置的审核后，请登录Dynamic Chat以继续审核。  
 <li>您是否已<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">将您的Marketo Engage实例</a>连接到Dynamic Chat？</li>
 <li>具有预定义权限的五个默认配置文件是否适用于您的组织？<br/> 
-     如果不能，您可以<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">在Dynamic Chat</a>中编辑它们。 您还可以<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">创建具有自定义权限集的自定义配置文件</a>。</li>
-<li>要向用户提供对Dynamic Chat的访问权限，您是否在“管理员”&gt;“用户和角色”&gt;“Dynamic Chat”下选中了适用的Marketo Engage角色的“访问角色”？
+     如果不能，您可以<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">在Dynamic Chat中编辑它们</a>。 您还可以<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">创建具有自定义权限集的自定义配置文件</a>。</li>
+<li>要向用户提供对Dynamic Chat的访问权限，您是否在“管理员”&gt;“用户和角色”&gt;“角色”下选中了适用的Marketo Engage角色的“访问Dynamic Chat”？
 <br/><img src="assets/note-icon.png" alt="注释图标">注意：“管理员”和“营销用户”角色应具有对Dynamic Chat的访问权限。</li>
 </td>
   </tr>
@@ -342,7 +342,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
@@ -363,7 +363,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面积图</th>
+   <th style="width:20%">面积</th>
    <th>审核焦点</th>
   </tr> 
   <tr> 
