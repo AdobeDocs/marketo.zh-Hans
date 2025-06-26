@@ -99,7 +99,7 @@ ht-degree: 0%
 
 脱机查看内容分析和推荐数据。
 
-## 电子邮件编辑器2.0[&#128279;](https://developers.marketo.com/documentation/asset-api/)的API支持 {#api-support-for-email-editor}
+## [电子邮件编辑器2.0的API支持](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 以前仅与v1.0电子邮件和模板兼容的预先存在的Asset API现在为v2.0电子邮件资产启用。
 
