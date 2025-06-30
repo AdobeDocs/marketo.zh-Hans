@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: d646dbb2eeeb7ec6e1dbeb30d1fa02aa380a794c
+source-git-commit: 5dbc3add8acaae02f25c1f9b9ae39ecfc1aaf259
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 3%
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 Adobe Dynamic Chat版本在持续交付模型上运行，通过该模型可采用更具可扩展性的方法来部署功能。 有时，一个月内会发布多个版本，因此请定期查看以获取最新信息。
 
-可以在此处[&#128279;](/help/marketo/release-notes/current.md){target="_blank"}找到Marketo Engage 的标准发行说明页面。
+可以在此处](/help/marketo/release-notes/current.md){target="_blank"}找到Marketo Engage [的标准发行说明页面。
 
 ## 2025 年 6 月版 {#june-2025-release}
 
@@ -36,7 +36,7 @@ Adobe Dynamic Chat版本在持续交付模型上运行，通过该模型可采�
 
 * **路由规则特定行为**
 
-_&#x200B;**帐户路由**&#x200B;_
+_**帐户路由**_
 
 如果访客的电子邮件域映射到已知帐户，则始终优先考虑映射的代理。
 
@@ -54,7 +54,7 @@ _&#x200B;**帐户路由**&#x200B;_
 
 仅当“帐户路由”不符合条件（没有匹配的域或代理）时，才会考虑卡级别的路由规则（例如，团队、自定义）。
 
-_&#x200B;**自定义/团队路由**&#x200B;_
+_**自定义/团队路由**_
 
 这些规则可能会返回多个符合条件的代理。
 
@@ -68,7 +68,7 @@ _&#x200B;**自定义/团队路由**&#x200B;_
  — 或 — 
 * 显示默认回退消息。
 
-_&#x200B;**轮循路由**&#x200B;_
+_**轮循路由**_
 
 当用作主要路由规则时，系统：
 
@@ -78,7 +78,7 @@ _&#x200B;**轮循路由**&#x200B;_
 
 如果将“循环配置资源”用作备用，则仅当没有从主规则中解析任何座席时，它才会激活。
 
-_&#x200B;**访客体验流**&#x200B;_
+_**访客体验流**_
 
 系统会检查帐户路由是否适用。
 
@@ -102,7 +102,7 @@ _&#x200B;**访客体验流**&#x200B;_
 
 ##### 用例 {#use-cases}
 
-_&#x200B;**帐户路由**&#x200B;_
+_**帐户路由**_
 
 <table><thead>
   <tr>
@@ -128,7 +128,7 @@ _&#x200B;**帐户路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**自定义路由**&#x200B;_
+_**自定义路由**_
 
 <table><thead>
   <tr>
@@ -154,7 +154,7 @@ _&#x200B;**自定义路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**团队路由**&#x200B;_
+_**团队路由**_
 
 <table><thead>
   <tr>
@@ -180,7 +180,7 @@ _&#x200B;**团队路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**轮循路由**&#x200B;_
+_**轮循路由**_
 
 <table><thead>
   <tr>
