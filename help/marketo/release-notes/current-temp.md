@@ -4,10 +4,11 @@ title: 最新发行说明
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
+exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
+source-git-commit: 320be450e0dcf0d1bcbeeb590b1a3207b5e79955
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 2%
+source-wordcount: '562'
+ht-degree: 1%
 
 ---
 
@@ -113,7 +114,7 @@ ht-degree: 2%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>标题</strong>：描述。</td> 
+   <td><strong>电子邮件Designer - GenStudio集成</strong>：在电子邮件中集成GenStudio以进行性能营销，以提高营销效率并维护品牌一致性。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -123,7 +124,7 @@ ht-degree: 2%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>标题</strong>：描述。</td> 
+   <td><strong>REST API错误代码通知更新</strong>：在应用程序内通知中添加了另外两个REST API错误类： 606 — 超过最大速率限制，以及607 — 已达到每日配额。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -133,7 +134,7 @@ ht-degree: 2%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>标题</strong>：描述。</td> 
+   <td><strong>在字段管理中显示程序成员标准字段</strong>： <i>字段管理</i>中的标准和自定义程序成员字段现在均可见。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -143,7 +144,17 @@ ht-degree: 2%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>标题</strong>：描述。</td> 
+   <td><strong>字段管理中的REST API名称</strong>：此更新允许管理员查看REST API字段名称，而无需导出列表。</td> 
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>我的令牌由列表使用</strong>：查看正在使用我的令牌的资源列表（一次最多50个资源）。</td> 
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -153,6 +164,6 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2025年10月31日之后不可用。 所有新的和现有的集成都应使用“授权”标头[来验证REST API调用，如此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}所述。
+* **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2025年10月31日之后不可用。 所有新的和现有的集成都应使用“授权”标头[来验证REST API调用，如此处](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}所述。
 
-* **SOAP API弃用**：对Marketo SOAP API的支持将于2025年10月31日终止。 使用SOAP API功能的服务应迁移到[REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API弃用**：对Marketo SOAP API的支持将于2025年10月31日终止。 使用SOAP API功能的服务应迁移到[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
