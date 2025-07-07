@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1178'
 ht-degree: 9%
 
 ---
@@ -246,7 +246,7 @@ ht-degree: 9%
 
 个性化您的&#x200B;**[!UICONTROL Writing Style]**：
 
-1. 在&#x200B;**[!UICONTROL Writing Style]**&#x200B;选项卡中，单击![](assets/do-not-localize/Smock_Add_18_N.svg)以添加指南、例外或排除项。
+1. 在&#x200B;**[!UICONTROL Writing Style]**&#x200B;选项卡中，单击此图标以添加指南、例外或排除项。
 
 1. 输入指南、例外或排除项，然后单击&#x200B;**[!UICONTROL Add]**。
 
