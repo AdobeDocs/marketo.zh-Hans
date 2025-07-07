@@ -7,9 +7,9 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '634'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 要向电子邮件内容添加自定义CSS，请执行以下步骤。
 
-1. 通过添加至少一个[组件](content-components.md)，确保在电子邮件Designer中定义了一些内容。
+1. 通过添加至少一个组件，确保在Email Designer中定义了一些内容。 链接 — 是否保留此内容？
 
 1. 从左窗格的&#x200B;**[!UICONTROL Body]**&#x200B;或右窗格顶部选择&#x200B;**[!UICONTROL Navigation tree]**。 **[!UICONTROL CSS styles]**&#x200B;部分显示在右侧。
 
