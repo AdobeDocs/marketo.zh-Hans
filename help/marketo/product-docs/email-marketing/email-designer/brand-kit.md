@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
+source-git-commit: 25a218896c84a7145f05079fe8adcf3d657adcad
 workflow-type: tm+mt
 source-wordcount: '1178'
 ht-degree: 9%
@@ -107,7 +107,7 @@ ht-degree: 9%
 
 您可以在创建促销活动期间指定在生成内容并计算一致性分数时自动应用的默认品牌。
 
-要设置默认品牌，请转到您的&#x200B;**[!UICONTROL Brands]**&#x200B;仪表板。 单击![](assets/do-not-localize/Smock_More_18_N.svg)图标以打开高级菜单，然后选择&#x200B;**[!UICONTROL Mark as default brand]**。
+要设置默认品牌，请转到您的&#x200B;**[!UICONTROL Brands]**&#x200B;仪表板。 单击图标以打开高级菜单，然后选择&#x200B;**[!UICONTROL Mark as default brand]**。
 
 屏幕快照
 
