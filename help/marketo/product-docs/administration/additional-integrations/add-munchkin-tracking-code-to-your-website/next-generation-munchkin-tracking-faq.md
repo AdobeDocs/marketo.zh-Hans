@@ -4,7 +4,9 @@ description: 新一代 [!DNL Munchkin] 跟踪常见问题解答 — Marketo文�
 title: 下一代 [!DNL Munchkin] 跟踪常见问题解答
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+hide: true
+hidefromtoc: true
+source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -45,7 +47,7 @@ ht-degree: 0%
 >
 >**触发器**：访问网页，网页为定价页面\
 >**流量**：更改得分+10和有趣的时刻
->**Web**：已查看定价页
+>>**Web**：已查看定价页
 >
 >使用[!DNL Munchkin] V2时，如果匿名人员访问定价页面，则她不会立即进入营销活动。 当匿名者被发现时，我们将针对她展开这一行动。 她将：
 >
