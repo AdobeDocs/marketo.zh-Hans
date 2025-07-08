@@ -3,9 +3,9 @@ description: 高级BI Analytics概述 — Marketo文档 — 产品文档
 title: 高级BI Analytics概述
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: fbb323d2518bcc8278370a0e1c5ea87143f87a36
+source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1222'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,8 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 导出完整报表时，您的导出选项为PDF和PPT。 如果您需要.XLS或.CSV格式的数据，可以通过导出单个可视化图表来执行此操作（[请参阅下面的](#export-a-visualization)）。
 
 >[!BEGINTABS]
->[!TAB 从报告页面] 
+
+>从报告页面[!TAB ]
 
 1. 在“报告”页面上，单击所需报告的“更多”图标(...)，然后选择&#x200B;**导出**。
 
@@ -124,7 +125,7 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
 观看以下视频，了解多页面、穿透钻取报表体验的示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451692/?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 高级BI Analytics中的标准报表 {#standard-reports}
 
@@ -253,7 +254,17 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
 * 现有Revenue Explorer用户自动拥有对新的高级BI Analytics体验的访问权限。
 
-* 您最多可以在高级BI Analytics中创建700个报表。
+* 您可以在高级BI Analytics中创建&#x200B;**最多700个报表**。
+
+  >[!NOTE]
+  >
+  >如果您在Revenue Explorer中有700多个报表，则某些报表已与其他报表合并，并通过报表中的页面进行了合并。
+  >
+  >* 如果报表具有电子邮件订阅，则不会合并该报表。
+  >
+  >* _同一文件夹_&#x200B;中的其余报告按报告区域合并为一个或多个报告。 如果报告领域有五份以上的报告，则合并为一个以上的合并报告。
+  >
+  >* 每个合并报表不超过5页。
 
 * 对于任何给定的可视化图表，每个查询有100万行的限制。 如果查询超过此值，您将收到以下错误： `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`。 要解决此问题，请缩小日期范围，和/或调整报表中的过滤器以减少查询结果中的行数。
 
