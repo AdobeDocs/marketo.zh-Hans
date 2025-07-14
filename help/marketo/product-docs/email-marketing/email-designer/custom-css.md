@@ -1,23 +1,23 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 标题
+title: 为电子邮件内容添加自定义 CSS
 description: 了解如何直接在Marketo Engage的Email Designer中将自定义CSS添加到您的电子邮件内容中。
 level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
 workflow-type: tm+mt
 source-wordcount: '587'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# 为电子邮件内容添加自定义 CSS {#email-metadata}
+# 为电子邮件内容添加自定义 CSS {#custom-css}
 
-直接在Marketo Engage Email Designer中添加您自己的自定义CSS，以进行高级和特定的样式设置。
+直接在Marketo Engage Email Designer中添加您自己的自定义CSS，以进行高级特定样式。
 
 ## 定义自定义CSS {#define-custom-css}
 
@@ -25,7 +25,7 @@ ht-degree: 2%
 
 1. 从左侧的&#x200B;**[!UICONTROL Body]**&#x200B;或右侧窗格中选择&#x200B;**[!UICONTROL Navigation tree]**。 **[!UICONTROL CSS styles]**&#x200B;显示在右侧。
 
-   屏幕快照
+   ![](assets/custom-css-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -37,17 +37,17 @@ ht-degree: 2%
    >
    >**[!UICONTROL Add custom CSS]**&#x200B;按钮仅在选择&#x200B;**[!UICONTROL Body]**&#x200B;时可用。 但是，您可以将自定义CSS样式应用于内容中的所有组件。
 
-1. 在弹出的专用文本区域中输入CSS代码。 确保自定义CSS有效并遵循正确的语法。 [了解详情](#use-valid-css)
+1. 在弹出的专用文本区域中输入CSS代码。 确保自定义CSS [有效并且遵循正确的语法](#use-valid-css)。 完成后单击&#x200B;**保存**。
 
-   屏幕快照
+   ![](assets/custom-css-2.png)
 
    >[!NOTE]
    >
    >使用包含锁定内容[的](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)模板时，无法向内容添加自定义CSS。 按钮标签更改为&#x200B;**[!UICONTROL View custom CSS]**，并且显示的所有自定义CSS均为只读。
 
-1. 保存您的自定义CSS并确保它适用于您的内容。 如果不适用，请查看[疑难解答](#troubleshooting)部分。
+1. 确保CSS适用于您的内容。 如果不适用，请查看[疑难解答](#troubleshooting)部分。
 
-   屏幕快照
+   ![](assets/custom-css-3.png)
 
    >[!NOTE]
    >
