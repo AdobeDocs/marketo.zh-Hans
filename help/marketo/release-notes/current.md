@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
+source-git-commit: 974818d6f1c5ea2bfeab4f480608f6288e611041
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 1%
+source-wordcount: '680'
+ht-degree: 2%
 
 ---
 
@@ -113,8 +113,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td><strong>REST API错误代码通知更新</strong>：在应用程序内通知中添加了另外两个REST API错误类： 606 — 超过最大速率限制，以及607 — 已达到每日配额。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -123,8 +123,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td><strong>在字段管理中显示程序成员标准字段</strong>： <i>字段管理</i>中的标准和自定义程序成员字段现在均可见。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -133,8 +133,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td><strong>字段管理中的REST API名称</strong>：此更新允许管理员查看REST API字段名称，而无需导出列表。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -142,9 +142,9 @@ ht-degree: 1%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>我的令牌由列表使用</strong>：查看正在使用我的令牌的资源列表（一次最多50个资源）。</td> 
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td><strong>Munchkin Cookie和ECID可见</strong>：您现在可以在<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">人员详细信息页面</a>的_Info_选项卡中看到Munchkin Cookie和ECID (Experience Cloud标识)编号列表，从而减少依赖于API调用以获取该信息。</td>
+   <td>已发货</td>
+   <td>不适用</td>
   </tr>
  </tbody> 
 </table>
@@ -152,12 +152,12 @@ ht-degree: 1%
 
 ## 公告 {#announcements}
 
-* **Marketo Engage Identity生命周期结束**： 2025年8月，Adobe将开始逐步停止对Marketo Engage Identity的支持（通过`login.marketo.com`登录）。 要防止对Marketo Engage的访问中断，您必须不迟于2025年9月30日过渡到[Adobe身份](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
+* **Marketo Engage Identity生命周期结束**： 2025年8月，Adobe将开始逐步停止对Marketo Engage Identity的支持（通过`login.marketo.com`登录）。 要防止对Marketo Engage的访问中断，您必须不迟于2025年9月30日过渡到[Adobe身份](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 
-   * _IP限制弃用_：对[基于IP限制Marketo登录](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}的支持将于2025年7月30日结束。 该功能将保持可操作状态，直到完成到Adobe Identity的过渡。 Adobe Admin Console中新增的基于位置的Adobe Identity访问控制功能计划于2025年8月发布。
+   * _IP限制弃用_：对[基于IP限制Marketo登录](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}的支持将于2025年7月30日结束。 该功能将保持可操作状态，直到完成到Adobe Identity的过渡。 Adobe Admin Console中新增的基于位置的Adobe Identity访问控制功能计划于2025年8月发布。
 
-   * _单点登录(SSO)弃用_：对[Marketo标识SSO](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支持将于2025年7月30日终止。 该功能将保持可操作状态，直到完成到Adobe Identity的过渡。 Adobe Admin Console中Adobe Identity的单一登录必须单独配置。 有关设置步骤，请参阅[设置标识和单点登录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
+   * _单点登录(SSO)弃用_：对[Marketo标识SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支持将于2025年7月30日终止。 该功能将保持可操作状态，直到完成到Adobe Identity的过渡。 Adobe Admin Console中Adobe Identity的单一登录必须单独配置。 有关设置步骤，请参阅[设置标识和单点登录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
-* **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2025年10月31日之后不可用。 所有新的和现有的集成都应使用“授权”标头[来验证REST API调用，如此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}所述。
+* **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2025年10月31日之后不可用。 所有新的和现有的集成都应使用“授权”标头[来验证REST API调用，如此处](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}所述。
 
-* **SOAP API弃用**：对Marketo SOAP API的支持将于2025年10月31日终止。 使用SOAP API功能的服务应迁移到[REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API弃用**：对Marketo SOAP API的支持将于2025年10月31日终止。 使用SOAP API功能的服务应迁移到[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
