@@ -5,10 +5,8 @@ title: 为电子邮件内容添加自定义 CSS
 description: 了解如何直接在Marketo Engage的Email Designer中将自定义CSS添加到您的电子邮件内容中。
 level: Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
+source-git-commit: de3999dd6ede77c8fc591e24a69f062954b8c870
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 3%
