@@ -57,7 +57,7 @@ ht-degree: 0%
 
 Marketo REST API现在支持对Marketo登陆页面、登陆页面模板和表单的控制。 用户现在可以通过Marketo REST API直接创建、更新内容、批准和删除这些资源。
 
-## 列入允许列表 [用于API访问的IP](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## [列入允许列表用于API访问的IP](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
 与Marketo用户登录的IP列入允许列表功能类似，Marketo管理员现在可以设置IP地址允许列表，以访问Marketo SOAP和REST API，从而阻止来自未授权IP地址的访问。 这为Marketo实例增添了一个安全层，并确保只能从贵组织的网络内部进行API访问。 有关如何设置的详细信息，请访问[Marketo文档网站](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)。
 
