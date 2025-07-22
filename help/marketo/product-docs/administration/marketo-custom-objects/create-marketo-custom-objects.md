@@ -63,7 +63,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您只能通过列表导入或[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)填充Marketo自定义对象。
+   >您只能通过列表导入或[API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)填充Marketo自定义对象。
 
 ## 为多对多结构创建自定义对象 {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您只能通过列表导入或[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)填充Marketo自定义对象。
+   >您只能通过列表导入或[API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)填充Marketo自定义对象。
 
 下一步是创建中间对象（见下文）。 但在之前，您需要创建一个字段以链接到它。
 

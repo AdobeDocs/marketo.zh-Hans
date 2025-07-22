@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # 创建仅API用户 {#create-an-api-only-user}
 
-如果您要通过[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}与Marketo集成，则需要创建一个“仅限API用户”。 具体方法如下。
+如果您要通过[REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}与Marketo集成，则需要创建一个“仅限API用户”。 具体方法如下。
 
 >[!IMPORTANT]
 >

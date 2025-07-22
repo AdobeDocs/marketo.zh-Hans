@@ -27,7 +27,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->有关[REST API](https://developer.adobe.com/marketo-apis/)的详细信息，请查看我们的开发人员文档。 如果您需要，我们还有[SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)。
+>有关[REST API](https://developer.adobe.com/marketo-apis/)的详细信息，请查看我们的开发人员文档。 如果您需要，我们还有[SOAP API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/soap/soap-api)。
 
 ## 创建自定义服务 {#create-custom-service}
 

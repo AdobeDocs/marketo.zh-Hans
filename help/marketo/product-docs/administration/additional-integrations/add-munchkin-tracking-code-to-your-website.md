@@ -59,7 +59,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    >[!TIP]
    >
-   >对于访问量大的网站（即每月访问数十万次），我们建议您选择不跟踪匿名人员。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}。
+   >对于访问量大的网站（即每月访问数十万次），我们建议您选择不跟踪匿名人员。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}。
 
 ## 使用多个工作区时添加跟踪代码 {#add-tracking-code-when-using-multiple-workspaces}
 

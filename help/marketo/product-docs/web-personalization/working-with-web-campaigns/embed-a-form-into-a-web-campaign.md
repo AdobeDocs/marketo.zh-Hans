@@ -85,4 +85,4 @@ ht-degree: 1%
 >
 >* [编辑表单主题的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [显示没有后续登陆页面的感谢消息](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

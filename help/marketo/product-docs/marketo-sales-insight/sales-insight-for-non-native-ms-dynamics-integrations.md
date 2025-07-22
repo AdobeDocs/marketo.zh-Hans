@@ -19,7 +19,7 @@ ht-degree: 0%
 >* 在开始设置MSI之前，已为您的Marketo实例启用“MSI非本地”功能。 如果不是，并且您已经购买该功能，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 如果您尚未购买此功能，请联系Adobe客户团队（您的客户经理）。
 >* 下载自定义同步[的](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}MSI包。
 >* 具有MSI安装程序的MS Dynamics订阅（我们当前仅支持[Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"}）。
->* Marketo REST API [已成功设置](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。 公开的CRUD API将是执行非本机同步的基础。
+>* Marketo REST API [已成功设置](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。 公开的CRUD API将是执行非本机同步的基础。
 >* 阅读[这篇博客文章](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"}以了解对象和关系。
 
 ## 要成功实现MSI的非本机同步，需要满足以下条件 {#successful-non-native-sync-for-msi-requires-the-following}
@@ -48,7 +48,7 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 销售人员的[API文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * 销售人员的[API文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * 同步销售人员的[API文档](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. 将MS [!DNL Dynamics]帐户同步到Marketo。
@@ -80,7 +80,7 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 公司的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * 公司的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * 同步公司的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. 将MS [!DNL Dynamics]潜在客户/联系人同步到Marketo。
@@ -117,7 +117,7 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 潜在客户的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * 潜在客户的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * 用于同步潜在客户的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. 将MS [!DNL Dynamics]机会同步到Marketo。
@@ -154,7 +154,7 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 机会的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * 机会的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 同步机会的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 将MS [!DNL Dynamics]联系人角色同步到Marketo。
@@ -191,7 +191,7 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 机会的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * 机会的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 同步机会的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 将“上一个有趣的时刻”/“MSI评分”字段同步到MS [!DNL Dynamics]。

@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/initial-setup-1.png)
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
    ![](assets/initial-setup-2.png)
 

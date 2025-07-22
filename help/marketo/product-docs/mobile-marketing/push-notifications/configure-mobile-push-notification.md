@@ -81,7 +81,7 @@ ht-degree: 0%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-也就是说，您应用程序的深层链接结构可能与上述示例不同。 您的开发人员在定义深层链接URI时有很多选项，因此请让您的开发人员向您发送您有兴趣使用的页面的URI（链接）。 这将确保您在推送消息中输入的URI指向正确的位置。 您的开发人员可以[在此查找更多信息](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
+也就是说，您应用程序的深层链接结构可能与上述示例不同。 您的开发人员在定义深层链接URI时有很多选项，因此请让您的开发人员向您发送您有兴趣使用的页面的URI（链接）。 这将确保您在推送消息中输入的URI指向正确的位置。 您的开发人员可以[在此查找更多信息](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
 
 >[!MORELIKETHIS]
 >
