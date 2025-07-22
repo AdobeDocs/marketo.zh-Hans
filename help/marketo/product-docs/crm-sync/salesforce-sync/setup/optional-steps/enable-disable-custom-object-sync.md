@@ -4,9 +4,9 @@ description: 启用/禁用自定义对象同步 — Marketo文档 — 产品文�
 title: 启用/禁用自定义对象同步
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >同步Salesforce自定义对象架构可能需要几分钟时间。
+   >同步[!DNL Salesforce]自定义对象架构可能需要几分钟时间。
 
 1. 单击 **[!UICONTROL Refresh Schema]**。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketo只能同步自定义对象，前提是它与Salesforce中的潜在客户、联系人或帐户对象存在直接关系。
+   >如果Marketo与[!DNL Salesforce]中的潜在客户、联系人或帐户对象有直接关系，则只能同步自定义对象。
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 

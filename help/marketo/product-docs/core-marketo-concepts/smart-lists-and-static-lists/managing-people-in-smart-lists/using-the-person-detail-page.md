@@ -4,10 +4,10 @@ description: 使用人员详细信息页面 — Marketo文档 — 产品文档
 title: 使用人员详细信息页面
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 22%
+source-wordcount: '525'
+ht-degree: 23%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 22%
 |---|---|
 | 信息 | 联系信息和有关人员的自定义字段。 |
 | 公司信息 | 人员的公司信息和地址。 |
-| 机会信息 | Salesforce中同步的Opportunity信息。 |
+| 机会信息 | Opportunity信息已从Salesforce同步。 |
 | SFDC潜在客户字段 | 内置Salesforce字段。 |
 | SFDC自定义字段 | 自定义Salesforce字段。 |
 | 活动日志 | 所有与人员相关的活动。 |
@@ -60,7 +60,7 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->您还可以看到通过API[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities)插入的未与CRM同步的实例的Opportunity信息。
+>您还可以看到通过API[插入的未与CRM同步的实例的Opportunity信息](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)。
 
 ## 编辑字段 {#editing-a-field}
 
@@ -74,21 +74,21 @@ ht-degree: 22%
 |---|---|---|---|---|
 | 地址 | 年营业额 | 匿名IP | 帐单寄送地址 | 帐单寄送城市 |
 | 帐单寄送国家 | 帐单邮政编码 | 帐单寄送州 | 城市 | 公司名称 |
-| 国家 | 创建时间 | 出生日期 | 部门 | 请勿来电 |
+| 国家/地区 | 创建时间 | 出生日期 | 部门 | 请勿来电 |
 | 不要调用原因 | 请勿来电的理由 | 电子邮件地址 | 电子邮件无效 | 电子邮件无效原因 |
 | 外部公司 ID | 外部销售人员 ID | 传真号码 | 名 | 全名 |
 | 行业 | 推断的城市 | 推断公司 | 推断国家 | 推断的都市区 |
 | 推断的电话区号 | 推断的邮政编码 | 推断的状态区域 | 匿名 | 是客户 |
 | 是合作伙伴 | 职务 | 姓 | 评级 | 得分 |
-| Source人员 | 状态 | 主要电话 | Marketo Social Facebook显示名称 | Marketo Social Facebook Id |
-| Marketo Social Facebook照片URL | Marketo Social Facebook配置文件URL | Marketo Social Facebook范围 | Marketo Social Facebook引用的注册 | Marketo Social Facebook反向访问 |
-| Marketo社会性别 | Marketo Social上次引用的注册 | Marketo Social上次反向访问 | Marketo Social LinkedIn显示名称 | Marketo Social LinkedIn Id |
-| Marketo Social LinkedIn照片URL | Marketo Social LinkedIn配置文件URL | Marketo Social LinkedIn范围 | Marketo Social LinkedIn引用的注册 | Marketo Social LinkedIn反向访问 |
-| Marketo社交联合ID | Marketo Social 反向注册次数总计 | Marketo Social 反向访问次数总计 | Marketo社交Twitter显示名称 | Marketo社交TwitterID |
-| Marketo社交Twitter照片URL | Marketo社交Twitter配置文件URL | Marketo社交Twitter范围 | Marketo社交Twitter引用的注册 | Marketo社交Twitter反向访问 |
+| Source人员 | 状态 | 主要电话 | Marketo社交[!DNL Facebook]显示名称 | Marketo社交[!DNL Facebook] Id |
+| Marketo社交[!DNL Facebook]照片URL | Marketo社交[!DNL Facebook]配置文件URL | Marketo社交[!DNL Facebook]范围 | Marketo Social [!DNL Facebook]引用的注册 | Marketo Social [!DNL Facebook]反向访问 |
+| Marketo社会性别 | Marketo Social上次引用的注册 | Marketo Social上次反向访问 | Marketo社交[!DNL LinkedIn]显示名称 | Marketo社交[!DNL LinkedIn] Id |
+| Marketo社交[!DNL LinkedIn]照片URL | Marketo社交[!DNL LinkedIn]配置文件URL | Marketo社交[!DNL LinkedIn]范围 | Marketo Social [!DNL LinkedIn]引用的注册 | Marketo Social [!DNL LinkedIn]反向访问 |
+| Marketo社交联合ID | Marketo Social 反向注册次数总计 | Marketo Social 反向访问次数总计 | Marketo社交[!DNL Twitter]显示名称 | Marketo社交[!DNL Twitter] Id |
+| Marketo社交[!DNL Twitter]照片URL | Marketo社交[!DNL Twitter]配置文件URL | Marketo社交[!DNL Twitter]范围 | Marketo Social [!DNL Twitter]引用的注册 | Marketo Social [!DNL Twitter]反向访问 |
 | 中间名称 | 手机号码 | 员工数 | 电话号码 | 邮政编码 |
 | 优先级 | 相对分数 | 角色 | 称谓 | 标准产业分类(SIC)代码 |
-| 现场 | 州 | 退订 | 退订原因 | 更新时间 |
+| 现场 | State | 退订 | 退订原因 | 更新时间 |
 | 紧急 | 网站 |  |  |  |
 
 >[!NOTE]

@@ -4,9 +4,9 @@ description: 了解自由表单与引导式登陆页面 — Marketo文档 — �
 title: 了解自由表单与引导式登陆页面
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 ## 自由格式页面 {#free-form-pages}
 
 * 您可以随意拖放任何内容。
-* 该模板与PowerPoint中的SlideMaster类似，只是背景而已。
+* 该模板类似于[!DNL SlideMaster]中的[!DNL PowerPoint]，只是背景模板。
 * 单击按钮可创建页面的简单移动版本。
 * 如果您没有大量的时间或技术资源可供使用，则最好使用。
 

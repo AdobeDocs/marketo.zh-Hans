@@ -3,9 +3,9 @@ description: 国际呼叫 — Marketo文档 — 产品文档
 title: 国际电话
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 5%
 
 ---
@@ -23,7 +23,7 @@ Sales Dialer让您能够轻松进行国际交流。 对于从美国境内呼叫�
 <table> 
  <tbody> 
   <tr> 
-   <th>国家</th> 
+   <th>国家/地区</th> 
    <th>支持的国家/地区代码</th> 
   </tr> 
   <tr> 
@@ -143,7 +143,7 @@ Sales Dialer让您能够轻松进行国际交流。 对于从美国境内呼叫�
 
 ## 国际电话常见问题解答 {#international-calling-faq}
 
-**为什么Sales Insight Actions不支持针对所有国家/地区的国际呼叫？**
+**为什么[!DNL Sales Insight Actions]不支持针对所有国家/地区的国际呼叫？**
 
 现在，我们提供与Sales Dialer的国际电话服务，无需额外付费。 我们希望让您能够更轻松地与自己的潜在客户和客户通信，因此我们推出了对标准费率国际呼叫的支持。 我们面向美国和加拿大以外的34个国家/地区提供欧洲、亚洲和其他关键目的地服务。 我们将根据客户的反馈意见继续扩展。
 
@@ -153,8 +153,8 @@ Sales Dialer让您能够轻松进行国际交流。 对于从美国境内呼叫�
 
 **是否有不能用销售拨号器拨打的特定类型的号码？**
 
-是的。 不支持拨打特优服务电话号码（例如，美国为900号码，英国为+449号码）。 一般来说，我们不支持拨打共享成本电话号码以及少数其他高级路由。
+可以。不支持拨打特优服务电话号码（例如，美国为900号码，英国为+449号码）。 一般来说，我们不支持拨打共享成本电话号码以及少数其他高级路由。
 
 **我可以在拨打国际电话时使用本地联系吗？**
 
-不适用。 [本地存在](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md)仅对美国号码可用。
+不会。[本地存在](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md)仅对美国号码可用。

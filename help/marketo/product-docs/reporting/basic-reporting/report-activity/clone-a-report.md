@@ -4,9 +4,9 @@ description: 克隆报表 — Marketo文档 — 产品文档
 title: 克隆报告
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 创建报告的重复项以进一步对其进行自定义而不更改原始报告。
 
-1. 转到&#x200B;**营销活动** （或&#x200B;**Analytics**）区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]** （或&#x200B;**[!UICONTROL Analytics]**）区域。
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. 选择您的报表。 选择&#x200B;**报告操作** > **克隆报告**。
+1. 选择您的报表。 选择&#x200B;**[!UICONTROL Report Actions]** > **[!UICONTROL Clone a Report]**。
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 

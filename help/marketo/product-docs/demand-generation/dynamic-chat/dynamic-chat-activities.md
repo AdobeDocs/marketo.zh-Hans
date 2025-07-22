@@ -1,18 +1,17 @@
 ---
-description: Dynamic Chat活动 — Marketo文档 — 产品文档
-title: Dynamic Chat活动
-feature: Dynamic Chat
+description: '[!DNL Dynamic Chat]活动 — Marketo文档 — 产品文档'
+title: '[!DNL Dynamic Chat]活动'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-# Dynamic Chat活动 {#dynamic-chat-activities}
+# [!DNL Dynamic Chat]活动 {#dynamic-chat-activities}
 
-Dynamic Chat提供了多个过滤器和触发器以用于您的智能列表。
+[!DNL Dynamic Chat]提供了多个筛选器和触发器以用于您的智能列表。
 
 ![](assets/dynamic-chat-activities-1.png)
 
@@ -55,6 +54,6 @@ Dynamic Chat提供了多个过滤器和触发器以用于您的智能列表。
 
 ## 注意事项 {#things-to-note}
 
-* Dynamic Chat流步骤中支持条件
-* Dynamic Chat活动可以同步到[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
-* 您可以在人员记录的Dynamic Chat日志中查看单个活动活动
+* [!DNL Dynamic Chat]流程步骤中支持条件
+* [!DNL Dynamic Chat]活动可以同步到[[!DNL Marketo Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
+* 您可以在人员记录的活动日志中查看单个[!DNL Dynamic Chat]活动

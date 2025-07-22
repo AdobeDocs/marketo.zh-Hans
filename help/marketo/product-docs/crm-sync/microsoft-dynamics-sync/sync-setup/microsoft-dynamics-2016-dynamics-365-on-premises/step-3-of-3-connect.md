@@ -1,27 +1,27 @@
 ---
-description: 安装Marketo for Microsoft Dynamics 2016/Dynamics 365内部部署步骤3/3 - Marketo文档 — 产品文档
-title: 安装Marketo for Microsoft Dynamics 2016/Dynamics 365本地步骤3/3
+description: 安装Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365内部部署第3步（共3步） — Marketo文档 — 产品文档
+title: 安装Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365内部部署步骤3/3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '379'
 ht-degree: 1%
 
 ---
 
-# 第3步（共3步）：连接Marketo Dynamics（2016年，内部部署Prem/Dynamics 365） {#step-of-connect-marketo-dynamics-on-premises-2016}
+# 第3步（共3步）：连接Marketo [!DNL Dynamics]（2016年在本地/[!DNL Dynamics] 365） {#step-of-connect-marketo-dynamics-on-premises-2016}
 
 >[!PREREQUISITES]
 >
->* [安装Marketo for Microsoft Dynamics 2016/Dynamics 365本地步骤1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
->* [安装Marketo for Microsoft Dynamics 2016/Dynamics 365本地步骤2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md){target="_blank"}
+>* [安装Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365本地步骤1/ 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [安装Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365本地步骤2/ 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-## 输入Dynamics同步用户信息 {#enter-dynamics-sync-user-information}
+## 输入[!DNL Dynamics]同步用户信息 {#enter-dynamics-sync-user-information}
 
 1. 登录到Marketo并单击&#x200B;**[!UICONTROL Admin]**。
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. 在&#x200B;**[!UICONTROL Enter Credentials]**&#x200B;中单击&#x200B;**[!UICONTROL Edit]**。
+1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;步骤1：输入凭据&#x200B;**中单击**。
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -43,7 +43,7 @@ ht-degree: 1%
    >
    >请确保您的凭据正确，因为我们在提交后无法还原后续架构更改。 如果保存了不正确的凭据，您将必须获取新的Marketo订阅。
 
-1. 输入&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Password]** Microsoft Dynamics **[!UICONTROL URL]**&#x200B;和&#x200B;**客户端ID/密码**。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入&#x200B;**用户名**、**密码** [!DNL Microsoft Dynamics] **URL**&#x200B;和&#x200B;**客户端ID/密码**。 完成后单击&#x200B;**保存**。
 
    ![](assets/step-3-of-3-5.png)
 
@@ -55,11 +55,11 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >不知道URL？ 我们将在此处说明如何查找您的[Dynamics组织服务URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
+   >不知道URL？ 我们将在此处说明如何查找您的[[!DNL Dynamics] 组织服务URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 ## 选择要同步的字段 {#select-fields-to-sync}
 
-1. 在&#x200B;**[!UICONTROL Select Fields to Sync]**&#x200B;中单击&#x200B;**[!UICONTROL Edit]**。
+1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中单击&#x200B;**[!UICONTROL Step 2: Select Fields to Sync]**。
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -69,7 +69,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo存储对要同步的字段的引用。 如果删除Dynamics中的字段，我们建议在禁用[同步](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}的情况下执行此操作。 然后通过编辑并保存[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}来刷新Marketo中的架构。
+>Marketo存储对要同步的字段的引用。 如果删除[!DNL Dynamics]中的字段，我们建议在禁用[同步](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)的情况下执行此操作。 然后通过编辑并保存[选择要同步的字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)来刷新Marketo中的架构。
 
 ## 同步自定义筛选器的字段 {#sync-fields-for-a-custom-filter}
 
@@ -89,13 +89,13 @@ ht-degree: 1%
 
 ## 启用同步 {#enable-sync}
 
-1. 在&#x200B;**[!UICONTROL Enable Sync]**&#x200B;中单击&#x200B;**[!UICONTROL Edit]**。
+1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中单击&#x200B;**[!UICONTROL Step 3: Enable Sync]**。
 
    ![](assets/image2015-3-16-9-52-2.png)
 
    >[!CAUTION]
    >
-   >Marketo不会针对Microsoft Dynamics同步或手动输入人员自动执行重复数据删除。
+   >Marketo不会针对[!DNL Microsoft Dynamics]同步或手动输入人员自动执行重复数据删除。
 
 1. 阅读弹出窗口中的所有内容，输入您的电子邮件，然后单击&#x200B;**[!UICONTROL Start Sync]**。
 

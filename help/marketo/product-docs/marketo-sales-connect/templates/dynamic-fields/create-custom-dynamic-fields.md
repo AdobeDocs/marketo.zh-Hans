@@ -4,9 +4,9 @@ description: 创建自定义动态字段 — Marketo文档 — 产品文档
 title: 创建自定义动态字段
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## 保存一个或多个联系人的自定义字段 {#saving-custom-fields-for-one-or-a-few-contacts}
 
-1. 在人员页面中单击联系人的姓名。
+1. 单击[!UICONTROL People]页面中联系人的姓名。
 
-1. 选择“取消订阅”旁边的下拉菜单并选择&#x200B;**编辑**。
+1. 选择[!UICONTROL Unsubscribe]旁边的下拉菜单并选择&#x200B;**[!UICONTROL Edit]**。
 
 1. 向下滚动到编辑页面的底部。 然后，您可以为字段创建名称和值。
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
 ## 正在保存多个联系人的自定义字段 {#saving-custom-fields-for-many-contacts}
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 
 1. 遵循[常规CSV上传流程](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)，在字段映射屏幕上停止。
 
-1. 从下拉列表中选择&#x200B;**添加新的自定义字段**，而不是预设字段之一。
+1. 请从下拉列表中选择&#x200B;**[!UICONTROL Add a new Custom Field]**，而不是其中一个预设字段。
 
-1. 输入所需的字段名称，然后单击&#x200B;**确定**。
+1. 输入所需的字段名称，然后单击&#x200B;**[!UICONTROL OK]**。
 
 1. 完成CSV上传。 您的联系人将通过添加的自定义字段进行访问。
 
@@ -45,8 +45,8 @@ ht-degree: 0%
 
 使用上述方法存储自定义字段后，您就可以在模板中引用它们。
 
-1. [创建模板](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)，然后像往常一样单击&#x200B;**动态字段**&#x200B;按钮。
+1. [创建模板](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)，然后像往常一样单击&#x200B;**[!UICONTROL Dynamic Fields]**&#x200B;按钮。
 
-1. 从出现的下拉列表中选择&#x200B;**自定义字段**。
+1. 从出现的下拉列表中选择&#x200B;**[!UICONTROL Custom Fields]**。
 
 1. 您将看到预存储的自定义字段，并可以选择其中一个字段来填写模板。

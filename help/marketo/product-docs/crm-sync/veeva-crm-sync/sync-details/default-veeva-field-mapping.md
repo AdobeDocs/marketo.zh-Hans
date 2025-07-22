@@ -1,18 +1,18 @@
 ---
-description: 默认Veeva字段映射 — Marketo文档 — 产品文档
-title: 默认Veeva字段映射
+description: 默认 [!DNL Veeva] 字段映射 — Marketo文档 — 产品文档
+title: 默认 [!DNL Veeva] 字段映射
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 34%
+source-wordcount: '253'
+ht-degree: 36%
 
 ---
 
-# 默认Veeva字段映射 {#default-veeva-field-mapping}
+# 默认[!DNL Veeva]字段映射 {#default-veeva-field-mapping}
 
-当您最初将Marketo Engage帐户与Veeva同步时，Marketo会自动在内置Veeva和Marketo字段之间建立这些关联。 Marketo还将同步您的“帐户”和“联系人”中的自定义字段。
+当您最初将Marketo Engage帐户与[!DNL Veeva]同步时，Marketo会自动在内置[!DNL Veeva]和Marketo字段之间关联这些关联。 Marketo还将同步您的“帐户”和“联系人”中的自定义字段。
 
 ## 联系人字段 {#contact-fields}
 
@@ -66,7 +66,7 @@ ht-degree: 34%
     </tr>
     <tr>
       <td>潜在客户来源</td>
-      <td>源</td>
+      <td>来源</td>
     </tr>
     <tr>
       <td>潜在客户分数</td>
@@ -78,7 +78,7 @@ ht-degree: 34%
     </tr>
     <tr>
       <td>MailingCountry</td>
-      <td>国家</td>
+      <td>国家/地区</td>
     </tr>
     <tr>
       <td>MailingPostCode</td>
@@ -86,7 +86,7 @@ ht-degree: 34%
     </tr>
     <tr>
       <td>MailingState</td>
-      <td>州</td>
+      <td>State</td>
     </tr>
     <tr>
       <td>邮寄街</td>
@@ -192,7 +192,7 @@ ht-degree: 34%
   </tbody>
 </table>
 
-## Marketo中与Veeva相关的系统字段（只读） {#veeva-related-system-fields-in-marketo}
+## Marketo中与[!DNL Veeva]相关的系统字段（只读） {#veeva-related-system-fields-in-marketo}
 
 这些字段是在Marketo中创建的，但无法由客户调整。
 
@@ -209,20 +209,20 @@ ht-degree: 34%
   </thead>
   <tbody>
     <tr>
-      <td>Veeva Id</td>
-      <td>由18个字符组成的Salesforce Id</td>
+      <td>[!DNL Veeva] Id</td>
+      <td>由18个字符组成的[!DNL Salesforce] ID</td>
     </tr>
     <tr>
-      <td>Veeva类型</td>
+      <td>[!DNL Veeva] 类型</td>
       <td>联系。 如果为空，则商机在Marketo中仅作为人员存在</td>
     </tr>
     <tr>
-      <td>Veeva创建日期</td>
+      <td>[!DNL Veeva] 创建日期</td>
       <td>在SFDC中创建的日期(可以不同于在Marketo中创建的日期)</td>
     </tr>
     <tr>
-      <td>Veeva已删除</td>
-      <td>此人以前在SFDC工作，但已被删除，现在仅居住在Marketo</td>
+      <td>[!DNL Veeva] 已删除</td>
+      <td>此人以前在SFDC中，但现在已被删除，仅居住在Marketo中</td>
     </tr>
   </tbody>
 </table>

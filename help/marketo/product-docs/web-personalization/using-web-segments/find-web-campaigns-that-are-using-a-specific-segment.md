@@ -4,9 +4,9 @@ description: 查找使用特定区段的Web营销活动 — Marketo文档 — �
 title: 查找使用特定区段的Web营销活动
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 正在查找使用特定区段的Web营销活动？
 
-1. 转到&#x200B;**区段**。
+1. 转到&#x200B;**[!UICONTROL Segments]**。
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. 搜索&#x200B;**区段**。 选择&#x200B;**区段名称**。 在右侧面板中，单击&#x200B;**关联的促销活动**&#x200B;以查看与此特定区段关联的促销活动。
+1. 搜索&#x200B;**区段**。 选择&#x200B;**区段名称**。 在右侧面板中，单击&#x200B;**[!UICONTROL Associated Campaigns]**&#x200B;可查看与此特定区段关联的营销活动。
 
    ![](assets/image2014-11-26-14-21-59.png)
 

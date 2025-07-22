@@ -4,16 +4,16 @@ description: 批量发送选项 — Marketo文档 — 产品文档
 title: 批量发送选项
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
 # 批量发送选项 {#bulk-sending-options}
 
-批量发送电子邮件是加快潜在客户参与的有效方法。 Sales Connect提供两种批量发送电子邮件的方式：**组电子邮件**&#x200B;和&#x200B;**选择并发送**。 群组电子邮件是快速向目标群组发送数百封电子邮件的好方法。 使用选择并发送意味着降低了电子邮件限制，但为用户提供了更多的自定义机会。
+批量发送电子邮件是加快潜在客户参与的有效方法。 [!DNL Sales Connect]提供两种批量发送电子邮件的方式：**群电子邮件**&#x200B;和&#x200B;**选择并发送**。 群组电子邮件是快速向目标群组发送数百封电子邮件的好方法。 使用选择并发送意味着降低了电子邮件限制，但为用户提供了更多的自定义机会。
 
 **群电子邮件与选择并发送**
 

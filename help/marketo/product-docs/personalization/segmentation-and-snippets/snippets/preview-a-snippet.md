@@ -4,9 +4,9 @@ description: 预览代码片段 — Marketo文档 — 产品文档
 title: 预览代码片段
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 片段是动态内容的块，会根据分段规则进行更改。
 
-1. 转到&#x200B;**设计工作室**。
+1. 转到&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio-3.png)
 
-1. 单击您的代码片段，然后单击&#x200B;**预览代码片段**。
+1. 单击您的代码片段，然后单击&#x200B;**[!UICONTROL Preview Snippet]**。
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

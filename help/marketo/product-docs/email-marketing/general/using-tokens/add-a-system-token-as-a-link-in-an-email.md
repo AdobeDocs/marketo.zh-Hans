@@ -4,9 +4,9 @@ description: 添加系统令牌作为电子邮件中的链接 — Marketo文档 
 title: 添加系统令牌作为电子邮件中的链接
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 以下是如何将它们添加到电子邮件中的：
 
-1. 查找并选择您的电子邮件，然后单击&#x200B;**编辑草稿**。
+1. 查找并选择您的电子邮件，然后单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 突出显示要转换为具有令牌的链接的文本，然后单击&#x200B;**插入/编辑链接**&#x200B;按钮。
+1. 突出显示要转换为具有令牌的链接的文本，然后单击&#x200B;**[!UICONTROL Insert/Edit Link]**&#x200B;按钮。
 
    ![](assets/three-1.png)
 
-1. 在链接URL中输入令牌，然后单击&#x200B;**插入**。
+1. 在链接URL中输入令牌并单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/four-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >复制/粘贴所需的令牌： **`{{system.forwardToFriendLink}}`**、**`{{system.unsubscribeLink}}`**&#x200B;或&#x200B;**`{{system.viewAsWebpageLink}}`**
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 

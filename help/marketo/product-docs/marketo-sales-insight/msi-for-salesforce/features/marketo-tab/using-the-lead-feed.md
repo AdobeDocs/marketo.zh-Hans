@@ -4,16 +4,16 @@ description: 使用商机信息源 — Marketo文档 — 产品文档
 title: 使用潜在客户馈送
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 0%
+source-wordcount: '328'
+ht-degree: 1%
 
 ---
 
 # 使用潜在客户馈送 {#using-the-lead-feed}
 
-潜在客户信息源是潜在客户开展的重要活动的最新列表。 单击Marketo选项卡时，您会在右侧找到该页面。 它类似于RSS或Twitter信息源 — 最新的更新位于列表顶部。 当你还在他们脑海里时，用这个跳到潜在客户身上。
+潜在客户信息源是潜在客户开展的重要活动的最新列表。 单击Marketo选项卡时，您会在右侧找到该页面。 它类似于RSS或[!DNL Twitter]信息源 — 最近的更新位于列表顶部。 当你还在他们脑海里时，用这个跳到潜在客户身上。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 潜在客户信息源中的每个项目都是一个有趣的时刻 — 在该潜在客户的营销历史中，这是一个值得注意的活动或事件。
 
-在Salesforce中查看时，每个项目都具有：
+在[!DNL Salesforce]中查看时，每个项目都具有：
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
 ## 获取RSS更新 {#getting-rss-updates}
 
-您还可以通过RSS馈送获取潜在客户馈送更新。  RSS馈送允许您接收有关潜在客户的更新，即使您未连接到Salesforce。 馈送具有与Salesforce中的潜在客户馈送相同的信息，以及以下信息（如果可用）：
+您还可以通过RSS馈送获取潜在客户馈送更新。  RSS馈送允许您接收潜在客户的更新，即使您未连接到[!DNL Salesforce]。 信息源与[!DNL Salesforce]中的潜在客户信息源具有相同的信息，以及以下信息（如果可用）：
 
 * 电子邮件地址
 * 电话号码

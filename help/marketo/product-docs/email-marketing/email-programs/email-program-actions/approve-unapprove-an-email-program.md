@@ -4,9 +4,9 @@ description: 批准/取消批准电子邮件程序 — Marketo文档 — 产品�
 title: 批准/取消批准电子邮件项目
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 现在您的项目已准备就绪，最后一步是批准它。 方法如下：
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >如果不批准您的电子邮件程序，电子邮件将不会发出。
 
-1. 在&#x200B;**批准**&#x200B;图标下，单击&#x200B;**批准计划**。
+1. 在&#x200B;**[!UICONTROL Approval]**&#x200B;图标下，单击&#x200B;**[!UICONTROL Approve Program]**。
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 如果您改变主意并决定不希望它退出，则可以取消批准电子邮件程序。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. 在&#x200B;**批准**&#x200B;图块下，只需单击&#x200B;**取消批准程序**&#x200B;即可。
+1. 在&#x200B;**[!UICONTROL Approval]**&#x200B;图块下，只需单击&#x200B;**[!UICONTROL Unapprove Program]**&#x200B;即可。
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

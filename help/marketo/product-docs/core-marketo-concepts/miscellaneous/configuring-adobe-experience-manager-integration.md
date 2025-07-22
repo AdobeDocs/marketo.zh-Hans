@@ -6,16 +6,16 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # 配置Adobe Experience Manager集成 {#configuring-adobe-experience-manager-integration}
 
-配置Adobe Experience Manager (AEM)，以便您可以访问、选择AEM资源并将其导入Marketo Engage设计工作室。
+配置Adobe Experience Manager (AEM)，以便您可以访问、选择AEM资源，并将其导入Marketo Engage Design Studio。
 
 >[!NOTE]
 >
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 在&#x200B;**[!UICONTROL 工具]**&#x200B;中，单击&#x200B;**[!UICONTROL 操作]**&#x200B;并选择&#x200B;**[!UICONTROL Web控制台]**。
+1. 在&#x200B;**[!UICONTROL Tools]**&#x200B;中，单击&#x200B;**[!UICONTROL Operations]**&#x200B;并选择&#x200B;**[!UICONTROL Web Console]**。
 
    ![](assets/2a.png)
 
-1. 在浏览器中搜索(Windows上按ctrl+f，Mac上按cmd+f)“AdobeGranite跨源资源共享策略”。
+1. 在浏览器中，搜索“[!UICONTROL Adobe Granite Cross-Origin Resource Sharing Policy]”(在Windows上按ctrl+f，在Mac上按cmd+f)。
 
    ![](assets/three.png)
 
@@ -47,23 +47,23 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在&#x200B;**[!UICONTROL 允许的源(Regexp)]**&#x200B;文本框中，键入`https://.*\.marketo\.com`并单击&#x200B;**[!UICONTROL 保存]**。
+1. 在&#x200B;**[!UICONTROL Allowed Origins (Regexp)]**&#x200B;文本框中，键入`https://.*\.marketo\.com`并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/five-psd.png)
 
-1. 在页面顶部的标题中，单击&#x200B;**[!UICONTROL Web控制台]**&#x200B;并选择&#x200B;**[!UICONTROL 系统信息]**。
+1. 在页面顶部的标题中，单击&#x200B;**[!UICONTROL Web Console]**&#x200B;并选择&#x200B;**[!UICONTROL System Information]**。
 
    ![](assets/six.png)
 
-1. 在“服务器信息”下，单击&#x200B;**[!UICONTROL 重新启动]**&#x200B;按钮。
+1. 在“服务器信息”下，单击&#x200B;**[!UICONTROL Restart]**&#x200B;按钮。
 
    ![](assets/seven.png)
 
-1. 单击&#x200B;**[!UICONTROL 确定]**&#x200B;确认。
+1. 单击&#x200B;**[!UICONTROL OK]**&#x200B;确认。
 
    ![](assets/eight.png)
 
-1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL 管理员]**。
+1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/nine.png)
 
@@ -71,10 +71,10 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-1. 单击&#x200B;**[!UICONTROL 编辑]**。
+1. 单击 **[!UICONTROL Edit]**。
 
    ![](assets/eleven.png)
 
-1. 输入您的AEM URL并单击&#x200B;**[!UICONTROL 确定]**。
+1. 输入您的AEM URL并单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/twelve.png)

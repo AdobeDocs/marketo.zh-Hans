@@ -3,9 +3,9 @@ description: 内容锁定 — Marketo文档 — 产品文档
 title: 内容锁定
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -18,14 +18,14 @@ ht-degree: 0%
 >
 >用户在发送或启动营销活动时，仍能够编辑电子邮件的内容。
 
-1. 单击齿轮图标并选择&#x200B;**设置**。
+1. 单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/content-lockdown-1.png)
 
-1. 在“管理员设置”下，单击&#x200B;**常规**。
+1. 在[!UICONTROL Admin Settings]下，单击&#x200B;**[!UICONTROL General]**。
 
    ![](assets/content-lockdown-2.png)
 
-1. 向下滚动至“内容锁定”。 打开任一滑块将禁用团队成员创建/编辑模板和/或营销活动的能力。
+1. 向下滚动到[!UICONTROL Content Lockdown]。 打开任一滑块将禁用团队成员创建/编辑模板和/或营销活动的能力。
 
    ![](assets/content-lockdown-3.png)

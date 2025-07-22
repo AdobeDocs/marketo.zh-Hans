@@ -4,18 +4,18 @@ description: 覆盖项目级别的Analytics行为 — Marketo文档 — 产品�
 title: 覆盖项目级别的Analytics行为
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '184'
+ht-degree: 0%
 
 ---
 
 # 覆盖项目级别的Analytics行为 {#override-analytics-behavior-at-the-program-level}
 
-您可以在渠道[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)上的管理员级别设置分析行为，但也可以在项目级别覆盖它。 方法如下：
+您可以在渠道[上的管理员级别设置](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)分析行为，但也可以在项目级别覆盖它。 方法如下：
 
-1. 转到&#x200B;**营销活动**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,11 +23,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 在&#x200B;**设置**&#x200B;选项卡下，将Analytics行为拖到画布中。
+1. 在&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡下，将[!UICONTROL Analytics Behavior]拖到画布中。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. 选择所需的Analytics行为。
+1. 选择所需的[!UICONTROL Analytics Behavior]。
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

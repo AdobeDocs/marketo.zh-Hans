@@ -3,16 +3,16 @@ description: 了解团队选项卡 — Marketo文档 — 产品文档
 title: 了解“团队”选项卡
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# 了解“团队”选项卡 {#understanding-the-team-tab}
+# 了解[!UICONTROL Team]选项卡 {#understanding-the-team-tab}
 
-在“团队”选项卡中，我们将重点显示三个重要量度。
+在[!UICONTROL Team]选项卡中，我们将重点显示三个重要量度。
 
 ## 使用模板发送的电子邮件 {#emails-sent-with-template}
 

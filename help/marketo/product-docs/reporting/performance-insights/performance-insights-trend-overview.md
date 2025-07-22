@@ -4,26 +4,26 @@ description: 性能分析趋势概述 — Marketo文档 — 产品文档
 title: 性能分析趋势概述
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# 性能分析趋势概述 {#performance-insights-trend-overview}
+# [!UICONTROL Performance Insights]趋势概述 {#performance-insights-trend-overview}
 
-趋势显示在一段时间内的渠道性能。
+[!UICONTROL Trend]显示一段时间内的渠道性能。
 
-单击&#x200B;**趋势**&#x200B;选项卡访问此视图。
+单击&#x200B;**[!UICONTROL Trend]**&#x200B;选项卡以访问此视图。
 
 ![](assets/1.png)
 
-## 趋势 {#trend}
+## [!UICONTROL Trend] {#trend}
 
 ![](assets/2-1.png)
 
-选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过[首次联系](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)赢得的机会。
+选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过[[!UICONTROL First-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)赢得的机会。
 
 ![](assets/3-2.png)
 

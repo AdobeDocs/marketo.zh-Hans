@@ -4,9 +4,9 @@ description: 创建电子邮件程序 — Marketo文档 — 产品文档
 title: 创建电子邮件程序
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 使用电子邮件程序快速、轻松地向人群发送电子邮件。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/one.png)
 
-1. 选择要在其中创建程序的文件夹，单击&#x200B;**新建**&#x200B;下拉列表，然后选择&#x200B;**新建程序**。
+1. 选择要在其中创建程序的文件夹，单击&#x200B;**[!UICONTROL New]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL New Program]**。
 
    ![](assets/two.png)
 
-1. 输入名称，选择&#x200B;**电子邮件**&#x200B;作为程序类型，然后单击&#x200B;**创建**。
+1. 输入名称，选择&#x200B;**[!UICONTROL Email]**&#x200B;作为[!UICONTROL Program Type]，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >选择&#x200B;**电子邮件**&#x200B;作为节目类型时，该频道将自动设置为&#x200B;**电子邮件发送**。 如果你想要的话，你可以改变它。
+   >选择&#x200B;**[!UICONTROL Email]**&#x200B;作为节目类型时，频道将自动设置为&#x200B;**[!UICONTROL Email Send]**。 如果你想要的话，你可以改变它。
 
    ![](assets/four.png)
 

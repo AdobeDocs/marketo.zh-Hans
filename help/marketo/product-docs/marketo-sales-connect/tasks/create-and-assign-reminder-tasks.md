@@ -3,10 +3,10 @@ description: 创建和分配提醒任务 — Marketo文档 — 产品文档
 title: 创建和分配提醒任务
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 1%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 提醒任务是了解客户和潜在客户参与情况的好方法。 要创建任务，请执行以下步骤。
 
-1. 单击&#x200B;**命令中心**。
+1. 单击 **[!UICONTROL Command Center]**。
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. 默认情况下会打开任务。 单击&#x200B;**添加任务**。
+1. 默认情况下会打开任务。 单击 **[!UICONTROL Add Task]**。
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. 从Email、Call、InMail或Custom Task中选择任务类型。
+1. 从[!UICONTROL Email]、[!UICONTROL Call]、[!UICONTROL InMail]或[!UICONTROL Custom]任务中选择任务类型。
 
    ![](assets/create-and-assign-reminder-tasks-3.png)
 
@@ -46,6 +46,6 @@ ht-degree: 0%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 添加您希望在完成任务时可以使用的任务的任何详细信息，例如通话笔记、InMail消息模板甚至有关人员的笔记。 完成后单击&#x200B;**创建**。
+1. 添加您希望在完成任务时可以使用的任务的任何详细信息，例如通话笔记、InMail消息模板甚至有关人员的笔记。 完成后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

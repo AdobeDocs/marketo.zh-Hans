@@ -4,24 +4,24 @@ description: TAM主功能板 — Marketo文档 — 产品文档
 title: TAM主仪表板
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # TAM主仪表板 {#tam-main-dashboard}
 
-主仪表板提供您的Target客户管理工作的摘要。 您可以看到显示成功的目标帐户或帐户列表，以及需要更多关注的目标帐户或帐户列表。
+主仪表板提供您[!UICONTROL Target Account Management]工作的摘要。 您可以看到显示成功的目标帐户或帐户列表，以及需要更多关注的目标帐户或帐户列表。
 
 ![](assets/one.png)
 
-要按帐户列表进行筛选，请单击“视图”下拉列表……
+要按帐户列表进行筛选，请单击&#x200B;**[!UICONTROL View]**&#x200B;下拉列表……
 
 ![](assets/two.png)
 
-...并做出选择。 在本例中，我们将选择“高科技”帐户列表。
+...并做出选择。 在本例中，我们将选择&quot;**[!UICONTROL High Tech]**&quot;帐户列表。
 
 ![](assets/three.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/five.png)
 
-如果不想查看帐户列表仪表板，而想深入查看命名帐户，请单击其名称下的&#x200B;**更多详细信息**...
+如果不想查看帐户列表信息板，而想深入查看命名帐户，请单击其名称下的&#x200B;**[!UICONTROL More Details]**...
 
 ![](assets/six.png)
 

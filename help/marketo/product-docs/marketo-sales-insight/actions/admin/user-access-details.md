@@ -3,9 +3,9 @@ description: 用户访问详细信息 — Marketo文档 — 产品文档
 title: 用户访问详细信息
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ![](assets/user-access-details-4.png)
 
-管理员可以使用“查看方式”下拉菜单查看用户促销活动和促销活动类别。
+管理员可以使用[!UICONTROL View As]下拉菜单查看用户促销活动和促销活动类别。
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,18 @@ ht-degree: 0%
    * 用户可以只深入查看他们所属的团队
    * 用户可以查看自己的分析
 
-* 人员页面：
+* [!UICONTROL People]页：
 
    * 用户可以与所有人共享组
    * 用户可以仅与他们所属的团队共享组
    * 用户可以查看Actions数据库中的所有人员
    * 删除某个用户后，其共享联系人会将所有权转移给删除该用户的主管理员
 
-* “团队管理”页：
+* [!UICONTROL Team]管理页面：
 
    * 无法查看
 
-* “模板”页面：
+* [!UICONTROL Templates]页：
 
    * 用户可以与所有人共享模板
    * 用户可以在管理员允许的类别中共享模板

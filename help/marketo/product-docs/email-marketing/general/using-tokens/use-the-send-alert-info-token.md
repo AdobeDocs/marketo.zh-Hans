@@ -4,9 +4,9 @@ description: 使用发送警报信息令牌{{SP_Send_Alert_Info}} - Marketo文�
 title: 使用发送警报信息令牌
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 将SP_Send_Alert_Info令牌添加到电子邮件中 {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. 选择电子邮件并单击&#x200B;**编辑草稿**。
+1. 选择电子邮件并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/one-3.png)
 
@@ -48,15 +48,15 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 将光标放在您希望令牌的位置，然后单击&#x200B;**插入令牌**&#x200B;按钮。
+1. 将光标放在您希望令牌所在的位置，然后单击&#x200B;**[!UICONTROL Insert Token]**&#x200B;按钮。
 
    ![](assets/three-3.png)
 
-1. 查找并选择&#x200B;**`{{SP_Send_Alert_Info}}`**&#x200B;令牌并单击&#x200B;**插入**。
+1. 查找并选择&#x200B;**[!UICONTROL {{SP_Send_Alert_Info}}]**&#x200B;令牌并单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

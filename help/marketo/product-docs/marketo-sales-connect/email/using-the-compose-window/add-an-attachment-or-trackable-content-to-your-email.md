@@ -4,16 +4,16 @@ description: 将附件或可跟踪内容添加到电子邮件 — Marketo文档 
 title: 向电子邮件添加附件或可跟踪内容
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
 # 向电子邮件添加附件或可跟踪内容 {#add-an-attachment-or-trackable-content-to-your-email}
 
-通过Sales Connect发送电子邮件时，您可以选择将文件添加为附件，或者将文件设为可下载（且可跟踪）链接。
+通过[!DNL Sales Connect]发送电子邮件时，您可以选择将文件添加为附件，或使文件成为可下载（和可跟踪）链接。
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 添加附件 {#add-an-attachment}
 
-1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**撰写**）。
+1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**[!UICONTROL Compose]**）。
 
    ![](assets/one-4.png)
 
-1. 填充“收件人”字段并输入主题。
+1. 填充[!UICONTROL To]字段并输入[!UICONTROL Subject]。
 
    ![](assets/attach-two.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/attach-three.png)
 
-1. 选择要附加的文件，然后单击&#x200B;**插入**。
+1. 选择要附加的文件，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/attach-four.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
 ## 添加可跟踪内容 {#add-trackable-content}
 
-1. 创建电子邮件草稿（可通过多种方法执行此操作，在本例中，我们将选择“撰写”窗口）。
+1. 创建您的电子邮件草稿（可通过多种方法执行此操作，在本例中，我们选择[!UICONTROL Compose]窗口）。
 
    ![](assets/one-4.png)
 
-1. 填充“收件人”字段并输入主题。
+1. 填充[!UICONTROL To]字段并输入[!UICONTROL Subject]。
 
    ![](assets/two-4.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/three-4.png)
 
-1. 选择要添加的内容，单击&#x200B;**已跟踪的内容**&#x200B;滑块，然后单击&#x200B;**插入**。
+1. 选择要添加的内容，单击&#x200B;**[!UICONTROL Content is tracked]**&#x200B;滑块，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/four-4.png)
 

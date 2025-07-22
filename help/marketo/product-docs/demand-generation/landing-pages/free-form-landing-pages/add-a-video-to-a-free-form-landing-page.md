@@ -6,9 +6,9 @@ exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -21,29 +21,29 @@ ht-degree: 0%
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. 导航到您的自由格式登陆页面，然后单击&#x200B;**编辑草稿**。
+1. 导航到您的自由格式登陆页面并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
-1. 从右侧的元素拖动到&#x200B;**视频**&#x200B;上方。
+1. 从右侧的元素拖动&#x200B;**[!UICONTROL Video]**&#x200B;上方。
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
-1. 从下拉菜单中选择&#x200B;**新建**。
+1. 从下拉菜单中选择&#x200B;**[!UICONTROL Create New]**。
 
    ![](assets/image2014-9-17-11-3a29-3a8.png)
 
    >[!NOTE]
    >
-   >**新建**&#x200B;功能仅显示在营销活动中；在Design Studio中不可用。 Design Studio中只有已创建的视频可用。 但是，您可以通过选择&#x200B;**新建** > **新建本地资产**，在程序&#x200B;_中创建视频共享_。 然后，您可以从下拉列表中选择它，如下所示。
+   >**[!UICONTROL Create New]**&#x200B;功能仅在[!UICONTROL Marketing Activities]中显示；在[!UICONTROL Design Studio]中不可用。 Design Studio中只有已创建的视频可用。 但是，您可以通过选择&#x200B;_>_&#x200B;在程序&#x200B;**[!UICONTROL New]**&#x200B;中创建视频共享&#x200B;**[!UICONTROL New Local Asset]**。 然后，您可以从下拉列表中选择它，如下所示。
 
-1. 输入YouTube视频的URL，然后为您的视频命名。 在“克隆来源”下拉列表中选择&#x200B;**无**，然后单击&#x200B;**插入**。
+1. 输入YouTube视频的URL，然后为您的视频命名。 在&#x200B;**[!UICONTROL Clone From]**&#x200B;下拉列表中选择&#x200B;**[!UICONTROL None]**，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
 >[!TIP]
 >
->为了节省时间，您可以使用&#x200B;**从**&#x200B;克隆选项从现有视频共享复制所有设置。
+>为了节省时间，您可以使用&#x200B;**[!UICONTROL Clone From]**&#x200B;选项从现有视频共享复制所有设置。
 
 恭喜！您已将视频共享添加到自由格式登陆页面。 批准登陆页面，并且您的视频共享已上线。 您还可以[将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或&#x200B;_将视频共享放在您的网站上_。
 

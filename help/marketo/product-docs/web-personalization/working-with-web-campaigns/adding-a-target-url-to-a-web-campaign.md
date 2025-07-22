@@ -4,10 +4,10 @@ description: 向Web营销活动添加Target URL - Marketo文档 — 产品文档
 title: 向Web营销活动添加目标URL
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 0%
+source-wordcount: '221'
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ Target URL位于Set Campaign页面下方，用于定义将显示Web营销活动�
 
 ## 为对话框或构件Web营销活动添加Target URL {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. 转到&#x200B;**网络营销活动**。
+1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 选择&#x200B;**新建Web营销活动**。
+1. 选择 **[!UICONTROL Create New Web Campaign]**。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 添加&#x200B;**促销活动名称**。 选择&#x200B;**目标区段**。 添加&#x200B;**目标URL**。
+1. 添加&#x200B;**[!UICONTROL Campaign Name]**。 选择&#x200B;**[!UICONTROL Target Segment]**。 添加&#x200B;**[!UICONTROL Target URL]**。
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -38,11 +38,11 @@ Target URL位于Set Campaign页面下方，用于定义将显示Web营销活动�
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>任意页面</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td> 
    <td colspan="1" rowspan="1"><p>允许营销活动显示在任何页面上。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>匹配时包含URL参数</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td> 
    <td colspan="1" rowspan="1">添加URL参数以在包含此参数的URL上匹配和显示促销活动。 例如 campaign=cpc</td> 
   </tr> 
  </tbody> 
@@ -50,7 +50,7 @@ Target URL位于Set Campaign页面下方，用于定义将显示Web营销活动�
 
 ## 向目标URL添加多个URL {#adding-multiple-urls-to-target-url}
 
-单击加号图标(![—](assets/image2015-2-18-8-3a40-3a59.png))将打开多值条目对话框以添加多个URL。 每行添加一个URL。
+单击加号图标(![—](assets/image2015-2-18-8-3a40-3a59.png))将打开[!UICONTROL Multiple Value Entry]对话框以添加多个URL。 每行添加一个URL。
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
@@ -62,15 +62,15 @@ Target URL位于Set Campaign页面下方，用于定义将显示Web营销活动�
 
 ## 为区域Web营销活动添加目标URL {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. 转到&#x200B;**Web** **营销活动**。
+1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 选择&#x200B;**新建Web营销活动**。
+1. 选择 **[!UICONTROL Create New Web Campaign]**。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 添加&#x200B;**促销活动名称**。 选择&#x200B;**目标区段**。 添加&#x200B;**目标URL**。
+1. 添加&#x200B;**[!UICONTROL Campaign Name]**。 选择&#x200B;**[!UICONTROL Target Segment]**。 添加&#x200B;**[!UICONTROL Target URL]**。
 
    >[!NOTE]
    >

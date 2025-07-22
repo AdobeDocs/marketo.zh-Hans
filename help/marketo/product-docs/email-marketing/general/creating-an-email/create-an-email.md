@@ -4,9 +4,9 @@ description: 创建电子邮件 — Marketo文档 — 产品文档
 title: 创建电子邮件
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,31 +17,31 @@ ht-degree: 0%
 
 ## 在Design Studio中创建电子邮件 {#create-an-email-in-the-design-studio}
 
-1. 转到&#x200B;**设计工作室**。
+1. 转到&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/create-an-email-1.png)
 
-1. 单击&#x200B;**新建**&#x200B;下拉列表并选择&#x200B;**新建电子邮件**。
+1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL New Email]**。
 
    ![](assets/create-an-email-2.png)
 
    >[!NOTE]
    >
-   >在Design Studio中创建电子邮件时，可在树中的“电子邮件”下找到该电子邮件。
+   >在[!UICONTROL Design Studio]中创建电子邮件时，可在树中的“[!UICONTROL Emails]”下找到该电子邮件。
 
 简单！ 现在换个方式……
 
 ## 在营销活动中创建电子邮件 {#create-an-email-in-marketing-activities}
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-an-email-3.png)
 
-1. 选择要添加电子邮件的程序，单击&#x200B;**新建**&#x200B;下拉列表，然后选择&#x200B;**新建本地资产**。
+1. 选择要将电子邮件添加到的程序，单击&#x200B;**[!UICONTROL New]**&#x200B;下拉框并选择&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/create-an-email-4.png)
 
-1. 单击&#x200B;**电子邮件**。
+1. 单击 **[!UICONTROL Email]**。
 
    ![](assets/create-an-email-5.png)
 
@@ -49,13 +49,13 @@ ht-degree: 0%
 
 无论选择哪种方法，都会将您带到模板选取器。
 
-1. 为您的电子邮件提供一个名称，单击要使用的模板，然后单击&#x200B;**创建**。
+1. 为您的电子邮件提供一个名称，单击要使用的模板，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >您可以从现成的响应电子邮件模板集合中进行选择，也可以通过先选择&#x200B;**我的模板**&#x200B;并按照相同的步骤操作而保存的模板中进行选择。
+   >您可以从现成的响应式电子邮件模板集合中进行选择，也可以通过先选择&#x200B;**[!UICONTROL My Templates]**&#x200B;并按照相同的步骤操作而保存的模板中进行选择。
 
 1. 输入主题行。 建议的字符限制为50。
 

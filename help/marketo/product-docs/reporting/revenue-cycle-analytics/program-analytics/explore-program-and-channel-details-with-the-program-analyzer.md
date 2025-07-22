@@ -4,26 +4,26 @@ description: 使用项目分析器浏览项目和渠道详细信息 — Marketo�
 title: 使用计划分析器浏览计划和渠道详细信息
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-# 使用计划分析器浏览计划和渠道详细信息 {#explore-program-channel-details-with-the-program-analyzer}
+# 使用[!UICONTROL Program Analyzer]浏览项目和渠道详细信息 {#explore-program-channel-details-with-the-program-analyzer}
 
-您可以在项目分析器中查看详细的项目和渠道统计信息。 您还可以在Revenue Cycle Explorer中打开它们。
+您可以在[!UICONTROL Program Analyzer]中查看详细的项目和渠道统计信息。 您还可以在Revenue Cycle Explorer中打开它们。
 
 >[!PREREQUISITES]
 >
->[创建程序分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[创建[!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
 >并非所有Marketo版本都包含此功能。 有关更多详细信息，请联系您的客户经理。
 
-1. 单击&#x200B;**分析**。
+1. 单击 **[!UICONTROL Analytics]**。
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. 要查看某个渠道或项目群的特定统计信息（取决于您选择的&#x200B;**视图**），请单击相应的气泡。
+1. 要查看某个渠道或项目群的特定统计信息（取决于您选择的&#x200B;**[!UICONTROL View]**），请单击相应的气泡。
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解FT和MT归因[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之间的差异很重要。
+   >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解FT和MT归因[之间的](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)差异很重要。
 
 1. 要比较单个频道中的所有节目，请单击弹出对话框中的频道名称。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >单击单个渠道可将您的视图切换为“按项目群”，仅对该渠道进行过滤。 若要返回所有频道，请选择&#x200B;**查看** > **按频道**。
+   >单击单个渠道可将您的视图切换为“按项目群”，仅对该渠道进行过滤。 要返回所有渠道，请选择&#x200B;**[!UICONTROL View]** > **[!UICONTROL By Channel]**。
 
 1. 要打开Revenue Cycle Explorer以更深入地挖掘统计数据，请在弹出对话框中单击该数字。
 

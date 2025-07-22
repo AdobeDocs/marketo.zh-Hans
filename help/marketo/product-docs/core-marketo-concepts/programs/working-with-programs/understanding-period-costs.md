@@ -4,9 +4,9 @@ description: 了解期间成本 — Marketo文档 — 产品文档
 title: 了解期间成本
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >**示例**
 >
->如果你花1000美元聘请一位插图师，为今年7月推出的电子书做插图，那么今年7月电子书计划的期间成本将为1000美元。
+>如果您花1000美元为7月启动的[!DNL eBook]聘请插图师 — [!DNL eBook]项目在7月的时间成本为1000美元。
 >
->如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3&rbrace;。_
+>如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3}。_
 
 >[!NOTE]
 >

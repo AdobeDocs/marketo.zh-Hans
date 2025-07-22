@@ -4,9 +4,9 @@ description: 按收入阶段列出的人员报表 — Marketo文档 — 产品�
 title: 按收入阶段列出的人员报表
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -19,22 +19,22 @@ ht-degree: 0%
 >
 >并非所有Marketo版本都包含此功能。 有关更多详细信息，请联系您的客户经理。
 
-1. 转到&#x200B;**Analytics**。
+1. 转到&#x200B;**[!UICONTROL Analytics]**。
 
    ![](assets/image2017-3-27-15-3a43-3a55.png)
 
-1. 按收入阶段&#x200B;**单击**&#x200B;人员报表。
+1. 单击&#x200B;**[!UICONTROL People by Revenue Stage]**&#x200B;的报告。
 
    ![](assets/image2017-3-27-15-3a46-3a27.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡。 双击&#x200B;**创建于**&#x200B;的人员字段，以设置要报告的所需时间范围。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡。 双击&#x200B;**[!UICONTROL Person Created At]**&#x200B;字段以设置要报告的所需时间范围。
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 
-1. 编辑时间范围并单击&#x200B;**保存**。
+1. 编辑时间范围并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. 单击&#x200B;**报表**&#x200B;选项卡。 现在，您可以看到您的人员处于收入模型的哪个阶段，并专注于任何瓶颈。
+1. 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。 现在，您可以看到您的人员处于收入模型的哪个阶段，并专注于任何瓶颈。
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)

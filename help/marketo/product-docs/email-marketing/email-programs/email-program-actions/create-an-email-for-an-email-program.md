@@ -4,9 +4,9 @@ description: 为电子邮件程序创建电子邮件 — Marketo文档 — 产�
 title: 为电子邮件程序创建电子邮件
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 创建电子邮件程序并定义受众后，您将需要决定要发送的电子邮件。 您可以[选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)或从头开始创建电子邮件。 以下是如何创建新电子邮件。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/one.png)
 
-1. 选择您的电子邮件程序。 在&#x200B;**电子邮件**&#x200B;图块下，单击&#x200B;**新建电子邮件**。
+1. 选择您的电子邮件程序。 在&#x200B;**[!UICONTROL Email]**&#x200B;图块下，单击&#x200B;**[!UICONTROL New Email]**。
 
    ![](assets/newemaildashboard.png)
 
-1. 输入&#x200B;**名称**，选择您选择的模板并单击&#x200B;**创建**。
+1. 输入&#x200B;**[!UICONTROL Name]**，选择您选择的模板并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/three.png)
 

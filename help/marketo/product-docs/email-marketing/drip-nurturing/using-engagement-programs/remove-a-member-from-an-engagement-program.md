@@ -4,16 +4,16 @@ description: 从参与计划中删除成员 — Marketo文档 — 产品文档
 title: 从参与计划中删除成员
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # 从参与计划中删除成员 {#remove-a-member-from-an-engagement-program}
 
-糟糕！ 那些人怎么进去的？ 您可以使用&#x200B;**更改计划状态**&#x200B;流程步骤从参与计划中删除成员。
+糟糕！ 那些人怎么进去的？ 您可以使用&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步骤从参与计划中删除成员。
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 流程步骤 {#flow-step}
 
-1. 拖入&#x200B;**更改项目状态**&#x200B;流程步骤。
+1. 拖入&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步骤。
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   选择状态，**不在程序**&#x200B;中。
+   选择状态&#x200B;**[!UICONTROL Not in Program]**。
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 暂停人员  {#pause-people}
 
-有时，您只想暂停参与项目中的人而不想删除他们。 此操作通过&#x200B;**更改参与计划节奏**&#x200B;完成。
+有时，您只想暂停参与项目中的人而不想删除他们。 这用&#x200B;**[!UICONTROL Change Engagement Program Cadence]**&#x200B;完成。
 
 >[!MORELIKETHIS]
 >

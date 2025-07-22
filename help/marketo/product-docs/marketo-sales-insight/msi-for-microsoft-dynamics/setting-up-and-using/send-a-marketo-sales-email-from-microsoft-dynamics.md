@@ -4,22 +4,22 @@ description: 从Microsoft Dynamics发送Marketo销售电子邮件 — Marketo文
 title: 从Microsoft Dynamics发送Marketo销售电子邮件
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# 从Microsoft Dynamics发送Marketo销售电子邮件 {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# 发送来自[!DNL Marketo Sales]的[!DNL Microsoft Dynamics]电子邮件 {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-您的销售团队可以发送电子邮件，并直接从Microsoft Dynamics中跟踪打开数和点击数。 具体方法如下。
+您的销售团队可以发送电子邮件，并直接从[!DNL Microsoft Dynamics]中跟踪打开次数和点击次数。 具体方法如下。
 
-1. 在Dynamics中，转到&#x200B;**Sales**&#x200B;区域。
+1. 在[!DNL Dynamics]中，转到&#x200B;**[!UICONTROL Sales]**&#x200B;区域。
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. 选择&#x200B;**系统视图**。
+1. 选择&#x200B;**[!UICONTROL System View]**。
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. 单击&#x200B;**...**&#x200B;选项卡，然后单击&#x200B;**发送Marketo电子邮件**。
+1. 单击&#x200B;**...**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL Send Marketo Email]**。
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >您可以[将电子邮件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)发布为供销售团队使用的模板。
 
-1. 添加主题，撰写电子邮件，然后单击&#x200B;**发送电子邮件**。 （如果需要模板，请选择模板。）
+1. 添加主题，撰写电子邮件，然后单击&#x200B;**[!UICONTROL Send Email]**。 （如果需要模板，请选择模板。）
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
@@ -47,8 +47,8 @@ ht-degree: 0%
    >
    >您一次最多可以发送300封Marketo电子邮件。
 
-做得好！ 现在您知道如何直接从Microsoft Dynamics发送Marketo跟踪电子邮件了。
+做得好！ 现在您知道如何从[!DNL Microsoft Dynamics]中直接发送Marketo跟踪电子邮件。
 
 >[!MORELIKETHIS]
 >
->[从Microsoft Dynamics将潜在客户/联系人添加到Marketo营销活动](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[将潜在客户/联系人从 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)添加到Marketo营销活动

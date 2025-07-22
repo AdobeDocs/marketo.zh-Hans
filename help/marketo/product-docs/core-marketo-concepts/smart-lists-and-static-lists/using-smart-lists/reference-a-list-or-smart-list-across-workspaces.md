@@ -4,9 +4,9 @@ description: 跨工作区引用列表或智能列表 — Marketo文档 — 产�
 title: 跨工作区引用列表或智能列表
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 共享列表或智能列表 {#share-a-list-or-smart-list}
 
-1. 转到&#x200B;**[!UICONTROL 数据库]**。
+1. 转到&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. 右键单击活动文件夹。 选择&#x200B;**新文件夹**。
+1. 右键单击活动文件夹。 选择 **[!UICONTROL New Folder]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >如果Assets嵌套在文件夹中，则只能在工作区之间共享。
 
-1. 命名您的文件夹，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 命名您的文件夹并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. 右键单击新文件夹，然后选择&#x200B;**[!UICONTROL 共享文件夹]**。
+1. 右键单击新文件夹并选择&#x200B;**[!UICONTROL Share folder]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. 选择要共享的&#x200B;**[!UICONTROL Workspace]**，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 选择要共享的&#x200B;**[!UICONTROL Workspace]**，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 

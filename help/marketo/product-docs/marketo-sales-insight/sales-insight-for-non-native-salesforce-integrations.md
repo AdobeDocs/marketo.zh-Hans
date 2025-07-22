@@ -1,27 +1,27 @@
 ---
 unique-page-id: 45417125
-description: Sales Insight for Non-Native Salesforce集成 — Marketo文档 — 产品文档
-title: Sales Insight for Non-Native Salesforce集成
+description: '[!DNL Sales Insight]非本机集成 [!DNL Salesforce] Marketo文档 — 产品文档'
+title: '非本机[!DNL Sales Insight]集成的 [!DNL Salesforce] '
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1230'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
 
-# Sales Insight for Non-Native Salesforce集成 {#sales-insight-for-non-native-salesforce-integrations}
+# 非本机[!DNL Sales Insight]集成的[!DNL Salesforce] {#sales-insight-for-non-native-salesforce-integrations}
 
-如果您的Adobe Marketo Engage帐户是通过自定义或非本机集成连接到Salesforce，请使用本文配置Sales Insight。
+如果您的Adobe Marketo Engage帐户通过自定义或非本机集成连接到[!DNL Salesforce]，请使用本文配置[!DNL Sales Insight]。
 
 >[!PREREQUISITES]
 >
->* 在开始设置MSI之前，已为您的Marketo实例启用“MSI非本地”功能。 如果不是，并且您已购买该功能，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 如果您尚未购买此功能，请联系Adobe客户团队（您的客户经理）。
->* 设置[MSI包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}的Salesforce帐户。
->* Marketo REST API [已成功设置](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。 公开的CRUD API将是执行非本机同步的基础。
+>* 在开始设置MSI之前，已为您的Marketo实例启用“MSI非本地”功能。 如果不是，并且您已经购买该功能，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 如果您尚未购买此功能，请联系Adobe客户团队（您的客户经理）。
+>* 设置了[MSI包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}的Salesforce帐户。
+>* Marketo REST API [已成功设置](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。 公开的CRUD API将是执行非本机同步的基础。
 >* 阅读[这篇博客文章](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"}以了解对象和关系。
->* 设置Salesforce对象以显示18个字符不区分大小写的全局唯一标识符，而不是15个字符区分大小写的全局唯一标识符。
+>* 设置[!DNL Salesforce]对象以显示18个字符不区分大小写的全局唯一标识符，而不是15个字符区分大小写的全局唯一标识符。
 
 >[!NOTE]
 >
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 ## 要成功实现MSI的非本机同步，需要满足以下条件 {#successful-non-native-sync-for-msi-requires-the-following}
 
-1. 将Salesforce Sales用户同步到Marketo。
+1. 将[!DNL Salesforce]销售用户同步到Marketo。
 
-   Salesforce销售用户是拥有Salesforce中的潜在客户/联系人的外部用户。 需要为Salesforce Sales用户更新Marketo销售人员。 *externalSalesPersonId*&#x200B;字段必须用于更新销售人员。
+   [!DNL Salesforce]销售用户是拥有[!DNL Salesforce]中的潜在客户/联系人的外部用户。 需要为[!DNL Salesforce]销售用户更新Marketo销售人员。 *externalSalesPersonId*&#x200B;字段必须用于更新销售人员。
 
    <table> 
     <colgroup> 
@@ -42,23 +42,23 @@ ht-degree: 0%
     <tbody> 
      <tr> 
       <td><strong>Marketo销售人员字段</strong></td> 
-      <td><strong>Salesforce销售用户字段</strong></td> 
+        <td><strong><span class="dnl">Salesforce</span>销售用户字段</strong></td> 
       <td><strong>描述</strong></td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce销售用户不区分大小写的全局唯一标识符</td> 
-      <td><p>向外部Salesforce Sales User对象标识Marketo销售人员记录。</p><p>要求先同步销售人员，然后再同步其他对象，以便创建适当的关系。</p></td> 
+        <td><span class="dnl">Salesforce</span>销售用户不区分大小写的全局唯一标识符</td> 
+      <td><p>向外部<span class="dnl">Salesforce</span>销售用户对象标识Marketo销售人员记录。</p><p>要求先同步销售人员，然后再同步其他对象，以便创建适当的关系。</p></td> 
      </tr> 
     </tbody> 
    </table>
 
-   * 销售人员的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * 销售人员的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * 同步销售人员的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
-1. 将Salesforce帐户同步到Marketo。
+1. 将[!DNL Salesforce]帐户同步到Marketo。
 
-   需要为Salesforce帐户更新Marketo公司。 _externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;字段强制用于公司的更新插入。
+   需要为[!DNL Salesforce]帐户更新插入一个Marketo公司。 _externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;字段强制用于公司的更新插入。
 
    <table> 
     <colgroup> 
@@ -69,28 +69,28 @@ ht-degree: 0%
     <tbody> 
      <tr> 
       <td><strong>Marketo公司字段</strong></td> 
-      <td><strong>Salesforce帐户字段</strong></td> 
+        <td><strong><span class="dnl">Salesforce</span>帐户字段</strong></td> 
       <td><strong>描述</strong></td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
-      <td>Salesforce帐户不区分大小写的全局唯一标识符</td> 
-      <td>向外部Salesforce帐户对象标识Marketo公司记录。</td> 
+        <td><span class="dnl">Salesforce</span>帐户不区分大小写的全局唯一标识符</td> 
+        <td>向外部<span class="dnl">Salesforce</span>帐户对象标识Marketo公司记录。</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce销售用户不区分大小写的全局唯一标识符</td> 
-      <td>向作为帐户所有者的外部Salesforce Sales User对象标识Marketo公司记录。<br><br>在Marketo中还用于将公司关联到拥有公司记录的销售人员。 要求在设置此字段之前先同步销售人员。</td> 
+        <td><span class="dnl">Salesforce</span>销售用户不区分大小写的全局唯一标识符</td> 
+        <td>向作为帐户所有者的外部<span class="dnl">Salesforce</span>销售用户对象标识Marketo公司记录。<br><br>在Marketo中还用于将公司关联到拥有公司记录的销售人员。 要求在设置此字段之前先同步销售人员。</td> 
      </tr> 
     </tbody> 
    </table>
 
-   * 公司的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * 公司的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * 同步公司的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
-1. 将Salesforce潜在客户/联系人同步到Marketo。
+1. 将[!DNL Salesforce]潜在客户/联系人同步到Marketo。
 
-   您需要为Salesforce潜在客户/联系人更新插入一个Marketo潜在客户。 _externalPersonId_、_externalSalesPersonId_&#x200B;和&#x200B;_externalCompanyId_&#x200B;字段强制用于潜在客户的上行插入。
+   您需要为[!DNL Salesforce]潜在客户/联系人更新插入Marketo潜在客户。 _externalPersonId_、_externalSalesPersonId_&#x200B;和&#x200B;_externalCompanyId_&#x200B;字段强制用于潜在客户的上行插入。
 
    <table> 
     <colgroup> 
@@ -101,33 +101,33 @@ ht-degree: 0%
     <tbody> 
      <tr> 
       <td><strong>Marketo潜在客户字段</strong></td> 
-      <td><strong>Salesforce潜在客户/联系人字段</strong></td> 
+        <td><strong><span class="dnl">Salesforce</span>潜在客户/联系人字段</strong></td> 
       <td><strong>描述</strong></td> 
      </tr> 
      <tr> 
       <td>externalPersonId</td> 
-      <td>Salesforce潜在客户/联系人不区分大小写的全局唯一标识符</td> 
-      <td>将该Marketo Lead记录标识到外部Salesforce Lead/Contact对象。<br><br>这是为MSI非本机引入的新字段。</td> 
+        <td><span class="dnl">Salesforce</span>潜在客户/联系人不区分大小写的全局唯一标识符</td> 
+        <td>将Marketo潜在客户记录标识到外部<span class="dnl">Salesforce</span>潜在客户/联系人对象。<br><br>这是为MSI非本机引入的新字段。</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce销售用户不区分大小写的全局唯一标识符</td> 
-      <td>标识拥有此潜在客户/联系人的外部Salesforce Sales User对象。<br><br>还将潜在客户与Marketo中的销售人员关联起来。 要求首先正确同步销售人员。</td> 
+        <td><span class="dnl">Salesforce</span>销售用户不区分大小写的全局唯一标识符</td> 
+        <td>标识拥有此潜在客户/联系人的外部<span class="dnl">Salesforce</span>销售用户对象。<br><br>还将潜在客户与Marketo中的销售人员关联起来。 要求首先正确同步销售人员。</td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
-      <td>Salesforce帐户不区分大小写的全局唯一标识符</td> 
-      <td>标识潜在客户/联系人所属的外部Salesforce Account对象。<br><br>还将潜在客户记录关联到Marketo中的公司。 要求首先正确同步Salesforce帐户。</td> 
+        <td><span class="dnl">Salesforce</span>帐户不区分大小写的全局唯一标识符</td> 
+        <td>标识潜在客户/联系人所属的外部<span class="dnl">Salesforce</span>帐户对象。<br><br>还将潜在客户记录关联到Marketo中的公司。 要求首先正确同步Salesforce帐户。</td> 
      </tr> 
     </tbody> 
    </table>
 
-   * 潜在客户的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * 潜在客户的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
    * 用于同步潜在客户的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
-1. 将Salesforce Opportunities同步到Marketo。
+1. 将[!DNL Salesforce]机会同步到Marketo。
 
-   您需要为Salesforce Opportunity更新Marketo Opportunity 。 _externalOpportunityId_、_externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;字段必须用于更新该机会。
+   您需要为[!DNL Salesforce]机会更新插入Marketo Opportunity。 _externalOpportunityId_、_externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;字段必须用于更新该机会。
 
    <table> 
     <colgroup> 
@@ -138,33 +138,33 @@ ht-degree: 0%
     <tbody> 
      <tr> 
       <td><strong>Marketo机会对象字段</strong></td> 
-      <td><strong>Salesforce机会对象字段</strong></td> 
+        <td><strong><span class="dnl">Salesforce</span>机会对象字段</strong></td> 
       <td><strong>描述</strong></td> 
      </tr> 
      <tr> 
       <td>externalOpportunityId</td> 
       <td>Salesforce潜在客户/联系人不区分大小写的全局唯一标识符</td> 
-      <td>向外部Salesforce Opportunity对象标识Marketo Opportunity记录。</td> 
+      <td>向外部Marketo Opportunity对象标识Salesforce Opportunity记录。</td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
-      <td>Salesforce帐户不区分大小写的全局唯一标识符</td> 
-      <td>标识此机会所属的外部Salesforce Account对象。 <br><br>要求首先正确同步Salesforce帐户。</td> 
+        <td><span class="dnl">Salesforce</span>帐户不区分大小写的全局唯一标识符</td> 
+        <td>标识此机会所属的外部<span class="dnl">Salesforce</span>帐户对象。 <br><br>要求首先正确同步<span class="dnl">Salesforce</span>帐户。</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce销售用户不区分大小写的全局唯一标识符</td> 
-      <td>标识拥有此Opportunity的外部Salesforce销售用户对象。 </td> 
+        <td><span class="dnl">Salesforce</span>销售用户不区分大小写的全局唯一标识符</td> 
+        <td>标识拥有此Opportunity的外部<span class="dnl">Salesforce</span>销售用户对象。 </td> 
      </tr> 
     </tbody> 
    </table>
 
-   * 机会的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * 机会的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 同步机会的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
-1. 将Salesforce联系人角色同步到Marketo。
+1. 将[!DNL Salesforce]联系人角色同步到Marketo。
 
-   随后，可以通过Marketo Opportunity Role同步Salesforce Opportunity的Salesforce联系人角色。 机会角色记录授权&#x200B;_externalOpportunityId_、_role_&#x200B;和&#x200B;_leadId_&#x200B;字段。
+   随后，可以通过Marketo Opportunity Role同步[!DNL Salesforce]机会的[!DNL Salesforce]联系人角色。 机会角色记录授权&#x200B;_externalOpportunityId_、_role_&#x200B;和&#x200B;_leadId_&#x200B;字段。
 
    <table> 
     <colgroup> 
@@ -180,35 +180,35 @@ ht-degree: 0%
      </tr> 
      <tr> 
       <td>externalOpportunityId</td> 
-      <td>Salesforce机会不区分大小写的全局唯一标识符</td> 
-      <td>向外部Salesforce Opportunity对象标识Marketo Opportunity角色。<br><br>要求首先正确同步Salesforce Opportunity。</td> 
+        <td><span class="dnl">Salesforce</span>机会不区分大小写的全局唯一标识符</td> 
+        <td>向外部<span class="dnl">Salesforce</span>机会对象标识Marketo机会角色。<br><br>要求首先正确同步<span class="dnl">Salesforce</span>机会。</td> 
      </tr> 
      <tr> 
       <td>leadId</td> 
       <td>不适用，这将是Marketo潜在客户ID</td> 
-      <td>这将是同步的Salesforce联系人的Marketo潜在客户ID。<br><br>联系人在Marketo中同步后，您可以使用Salesforce联系人不区分大小写的全局唯一标识符作为externalPersonId，并使用Marketo REST API查询Marketo潜在客户。</td> 
+        <td>这将是同步的<span class="dnl">Salesforce</span>联系人的Marketo潜在客户ID。<br><br>联系人在Marketo中同步后，您可以使用不区分大小写的<span class="dnl">Salesforce</span>联系人全局唯一标识符作为externalPersonId，并使用Marketo REST API查询Marketo潜在客户。</td> 
      </tr> 
      <tr> 
       <td>角色</td> 
-      <td>Salesforce联系人的Role字段</td> 
+        <td><span class="dnl">Salesforce</span>联系人的“角色”字段</td> 
       <td>描述此机会的联系人的角色。</td> 
      </tr> 
     </tbody> 
    </table>
 
-   * 机会的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * 机会的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 同步机会的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 将上一个有趣时刻/MSI评分字段同步到SFDC。
 
-   将Salesforce对象正确同步到Marketo后，您就可以利用MSI功能。 MSI最后一个有趣时刻/评分字段将在潜在客户的REST API中公开。 这些字段由MSI计算并且是只读的。
+   将[!DNL Salesforce]对象正确同步到Marketo后，您就可以利用MSI功能。 MSI最后一个有趣时刻/评分字段将在潜在客户的REST API中公开。 这些字段由MSI计算并且是只读的。
 
-   Marketo潜在客户的“上一个有趣时刻”/评分字段需要使用REST API潜在客户端点定期同步到Salesforce。 使用&#x200B;_externalPersonId_&#x200B;作为filterType，并将Salesforce潜在客户GUID作为filterValue传递，查询此Marketo潜在客户的端点。
+   Marketo潜在客户的“上一个有趣时刻/得分”字段需要使用REST API潜在客户端点定期同步到[!DNL Salesforce]。 使用&#x200B;_externalPersonId_&#x200B;作为filterType，并将[!DNL Salesforce]潜在客户GUID作为filterValue传递，查询此Marketo潜在客户的端点。
 
-   | GET/rest/v1/leads.json？filterType=externalPersonId&amp;filterValues=salesforceLeadId1，salesforceLeadId2 |
+   | GET /rest/v1/leads.json？filterType=externalPersonId&amp;filterValues=salesforceLeadId1，salesforceLeadId2 |
    |---|
 
-   然后，您可以使用这些字段的值同步到Salesforce潜在客户/联系人对象。
+   然后，您可以使用这些字段的值同步到[!DNL Salesforce]潜在客户/联系人对象。
 
    <table> 
     <colgroup> 
@@ -219,7 +219,7 @@ ht-degree: 0%
     <tbody> 
      <tr> 
       <td><strong>Marketo潜在客户字段</strong></td> 
-      <td><strong>Salesforce潜在客户/联系人字段</strong></td> 
+        <td><strong><span class="dnl">Salesforce</span>潜在客户/联系人字段</strong></td> 
       <td><strong>描述</strong></td> 
      </tr> 
      <tr> 

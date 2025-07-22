@@ -4,9 +4,9 @@ description: 测试ON24事件集成 — Marketo文档 — 产品文档
 title: 测试ON24事件集成
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 以下是事件发生后数据更新的方式：
 
 * Marketo每晚从ON24检索与会者数据。
-* 在与会者数据在Marketo与ON24之间同步后，Marketo会将会员资格状态更新为“已参加”、“已参加”、“按需”或“无显示”。 在事件的&#x200B;**摘要**&#x200B;选项卡中，事件状态更新为&#x200B;**事件完成**。
+* 在与会者数据在Marketo和ON24之间同步后，Marketo将成员资格状态更新为[!UICONTROL Attended]、[!UICONTROL Attended On-demand]或[!UICONTROL No Show]。 在事件的&#x200B;**[!UICONTROL Summary]**&#x200B;选项卡中，事件状态更新为&#x200B;**[!UICONTROL Event Complete]**。
 
 >[!MORELIKETHIS]
 >

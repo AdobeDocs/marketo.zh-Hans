@@ -3,16 +3,16 @@ description: 了解内容选项卡 — Marketo文档 — 产品文档
 title: 了解“内容”选项卡
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# 了解“内容”选项卡 {#understanding-the-content-tab}
+# 了解[!UICONTROL Content]选项卡 {#understanding-the-content-tab}
 
-内容选项卡与使用模板时您团队的电子邮件参与度有关。 我们自动冒出三个我们认为重要的量度。
+[!UICONTROL Content]选项卡与使用模板时您团队的电子邮件参与度有关。 我们自动冒出三个我们认为重要的量度。
 
 ## 秘密武器 {#secret-weapon}
 

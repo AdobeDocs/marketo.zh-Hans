@@ -4,9 +4,9 @@ description: 向电子邮件添加代码片段 — Marketo文档 — 产品文�
 title: 向电子邮件添加代码片段
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您不能在代码片段中嵌入任何[Marketo电子邮件语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)；它在电子邮件中将&#x200B;**不可用**。 代码片段应当只是正文内容(HTML+文本)。
+>您不能在代码片段中嵌入任何[Marketo电子邮件语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)；它在电子邮件中将&#x200B;**不可用**。 代码片段应当只是正文内容(HTML + TEXT)。
 
-1. 找到您的电子邮件，选择它，然后单击&#x200B;**编辑草稿**。
+1. 查找您的电子邮件，选择它并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/one-2.png)
 
-1. 选择要转换为代码片段的可编辑区域，单击齿轮图标，然后选择&#x200B;**替换为代码片段**。
+1. 选择要转换为代码片段的可编辑区域，单击齿轮图标并选择&#x200B;**[!UICONTROL Replace with Snippet]**。
 
    ![](assets/two-2.png)
 
-1. 选择您选择的代码片段，然后单击&#x200B;**保存**。
+1. 选择您选择的代码片段，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three-1.png)
 

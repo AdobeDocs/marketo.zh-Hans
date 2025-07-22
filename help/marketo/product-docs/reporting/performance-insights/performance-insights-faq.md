@@ -4,16 +4,16 @@ description: 性能分析常见问题解答 — Marketo文档 — 产品文档
 title: 性能分析常见问题解答
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
 
-# 性能分析常见问题解答 {#performance-insights-faq}
+# [!UICONTROL Performance Insights] 常见问题解答 {#performance-insights-faq}
 
-## “参与”选项卡中“成功”的定义是什么？ {#what-is-the-definition-of-success-in-the-engagement-tab}
+## [!UICONTROL Engagement]选项卡中“success”的定义是什么？ {#what-is-the-definition-of-success-in-the-engagement-tab}
 
 成功是衡量Marketo中是否存在有意义的互动的一个指标。 项目的目的是创建与人员或潜在客户的有意义的交互。 当人员达到达到达到该目标的状态时，将标记成功。 它可以参加网络研讨会、单击电子邮件中的链接或填写Web表单。 成功情况因项目渠道而异。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## MPI是否可与任何CRM配合使用？ {#will-mpi-work-with-any-crm}
 
-是的。 从技术上讲，MPI不会直接与CRM交互以进行数据同步。 MPI利用存储在Marketo AnalyticsData Warehouse中的数据。 由于CRM同步发生在商机管理应用程序中，因此Marketo支持的与商机管理应用程序集成的CRM将正确显示数据。 但是，需要将CRM opportunity字段正确映射到Marketo opportunity字段。
+可以。从技术上讲，MPI不会直接与CRM交互以进行数据同步。 MPI利用存储在Marketo Analytics Data Warehouse中的数据。 由于CRM同步发生在商机管理应用程序中，因此Marketo支持的与商机管理应用程序集成的CRM将正确显示数据。 但是，需要将CRM opportunity字段正确映射到Marketo opportunity字段。
 
 ## 我没有任何其他Marketing Analytics产品（ARB、RCE、RCA、项目分析）。 MPI会为我工作吗？ {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -31,7 +31,7 @@ MPI是Lead Management应用程序的独立附加产品。 它不需要使用任�
 
 ## RCA也向我显示程序性能数据。 MPI和RCA中显示的数据是否存在差异？ {#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
 
-不适用。 MPI从与RCA相同的数据仓库中获取数据。 因此，您将不会看到两者之间的任何数据差异。 RCA允许您动态创建自己的报告。 MPI让您能够访问易于理解的可视化仪表板。
+不会。MPI从与RCA相同的数据仓库中获取数据。 因此，您将不会看到两者之间的任何数据差异。 RCA允许您动态创建自己的报告。 MPI让您能够访问易于理解的可视化仪表板。
 
 ## 我不想在MPI中显示我的某些程序（例如，Operational）。 如何控制特定程序的可见性？ {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
 
@@ -80,9 +80,9 @@ MPI会计算您的所有机会是否都包含在Analytics中。 否则，系统�
 
 自定义字段、业务机会类型和ABM筛选器都是与业务机会相关的属性。 Engagement仪表板允许您衡量参与和潜在客户获取，无论它们是否与opportunity关联。 由于Engagement仪表板未考虑opportunity ，因此Custom Fields 、 Opportunity Type和ABM筛选器不适用。
 
-## 我想使用自定义Salesforce Opportunity字段而不是标准Salesforce Opportunity Amount字段来报告收入。 MPI允许我执行此操作吗？ {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
+## 我想使用自定义Salesforce Opportunity字段而不是Salesforce Opportunity Amount标准字段来报告收入。 MPI允许我执行此操作吗？ {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-是的。 [Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)能够将Marketo的Opportunity Amount字段重新映射到自定义Salesforce Opportunity字段，只要该字段类型为货币。 由于MPI指向Marketo Opportunity amount字段，因此MPI可以使用重新映射的自定义Salesforce字段中的数据。
+可以。[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)能够将Marketo的Opportunity Amount字段重新映射到自定义Salesforce Opportunity字段，只要该字段类型为货币。 由于MPI指向Marketo Opportunity amount字段，因此MPI可以使用重新映射的自定义Salesforce字段中的数据。
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ MPI旨在让您从漏斗顶部开始衡量项目绩效，直至收入影响。 �
 
 ## 我能否衡量MPI中基于帐户的策略是否成功？ {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-是的。 MPI与[Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)集成，可将ABM帐户列表无缝提取到MPI中。 您可以使用“ABM帐户列表”筛选器来选择所需的ABM列表以过滤数据。
+可以。MPI与[Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)集成，可将ABM帐户列表无缝提取到MPI中。 您可以使用“ABM帐户列表”筛选器来选择所需的ABM列表以过滤数据。
 
 ## 购买MPI时是否可以立即使用归因？ {#is-attribution-instantly-available-when-i-purchase-mpi}
 

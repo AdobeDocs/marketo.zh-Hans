@@ -3,9 +3,9 @@ description: 阻止的域 — Marketo文档 — 产品文档
 title: 被阻止的域
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在Web应用程序中，单击齿轮图标并选择&#x200B;**设置**。
+1. 在Web应用程序中，单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/blocked-domains-1.png)
 
-1. 在“管理员设置”下，单击&#x200B;**常规**。
+1. 在[!UICONTROL Admin Settings]下，单击&#x200B;**[!UICONTROL General]**。
 
    ![](assets/blocked-domains-2.png)
 
-1. 输入要阻止的域，然后单击&#x200B;**阻止域**。
+1. 输入要阻止的域，然后单击&#x200B;**[!UICONTROL Block Domain]**。
 
    ![](assets/blocked-domains-3.png)
 

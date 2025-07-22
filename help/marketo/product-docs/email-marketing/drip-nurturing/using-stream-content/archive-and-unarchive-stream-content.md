@@ -4,10 +4,10 @@ description: 存档和取消存档流内容 — Marketo文档 — 产品文档
 title: 存档和取消存档流内容
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 1%
 
 ---
 
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 ## 将流内容存档 {#archive-stream-content}
 
-1. 选择您的参与计划，然后转到&#x200B;**流**&#x200B;选项卡。
+1. 选择您的参与计划，然后转到&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![](assets/cloneasteam-4.jpg)
 
-1. 将鼠标悬停在要存档的电子邮件上，然后在齿轮图标下单击&#x200B;**存档**。
+1. 将鼠标悬停在要存档的电子邮件上，然后在齿轮图标下单击&#x200B;**[!UICONTROL Archive]**。
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   就是这样！ 请记住，如果要保留历史记录，请存档。
+   操作完成！请记住，如果要保留历史记录，请存档。
 
 ## 取消存档流内容 {#unarchive-stream-content}
 
-1. 选择您的参与计划，然后转到&#x200B;**流**&#x200B;选项卡。
+1. 选择您的参与计划，然后转到&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. 单击流的齿轮图标，然后单击“**显示存档的内容**”。
+1. 单击流的齿轮图标，然后单击&#x200B;**[!UICONTROL Show archived content]**。
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. 现在您可以看到存档的内容，单击要取消存档的内容的齿轮图标，然后单击“**取消存档**”。
+1. 现在您可以看到存档的内容，单击要取消存档的内容的齿轮图标，然后单击&#x200B;**[!UICONTROL Unarchive]**。
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 

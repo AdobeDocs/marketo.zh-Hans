@@ -3,10 +3,10 @@ description: Sales Campaign设置 — Marketo文档 — 产品文档
 title: Sales Campaign设置
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 0%
+source-wordcount: '208'
+ht-degree: 1%
 
 ---
 
@@ -20,9 +20,9 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 
 >[!NOTE]
 >
->启用“跳过周末”后，将按5天一周安排电子邮件。 这意味着，在计划步骤时，周末将忽略为天。
+>启用[!UICONTROL Skip Weekends]后，将按5天一周安排电子邮件。 这意味着，在计划步骤时，周末将忽略为天。
 
-1. 单击&#x200B;**促销活动**。
+1. 单击 **[!UICONTROL Campaigns]**。
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Settings]**&#x200B;选项卡。
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. 选中&#x200B;**跳过周末**&#x200B;复选框。
+1. 选中&#x200B;**[!UICONTROL Skip Weekends]**&#x200B;复选框。
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 
 如果您使用的是电子邮件连接，我们将根据发送到用户收件箱的退回消息检测退回。 此外，我们可以在检测到退回时从销售活动中删除人员。
 
-1. 单击&#x200B;**促销活动**。
+1. 单击 **[!UICONTROL Campaigns]**。
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,19 +50,19 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Settings]**&#x200B;选项卡。
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. 选中&#x200B;**弹回时删除**&#x200B;复选框。
+1. 选中&#x200B;**[!UICONTROL Remove on Bounce]**&#x200B;复选框。
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## 如果回复 {#if-a-reply-occurs}
 
-如果您为Gmail或Exchange启用了回复跟踪，那么在收件人回复您的电子邮件时，我们可以自动结束您的促销活动。
+如果您为Gmail或[!DNL Exchange]启用了回复跟踪，那么在收件人回复您的电子邮件时，我们可以自动结束您的促销活动。
 
-1. 单击&#x200B;**促销活动**。
+1. 单击 **[!UICONTROL Campaigns]**。
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,11 +70,11 @@ Sales Campaign设置部分允许您配置特定的Sales Campaign，使其最适�
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Settings]**&#x200B;选项卡。
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. 在&#x200B;**下，如果发生回复**，则进行所需的选择。
+1. 在&#x200B;**[!UICONTROL If a Reply Occurs]**&#x200B;下，进行所需的选择。
 
    ![](assets/sales-campaign-settings-12.png)
 

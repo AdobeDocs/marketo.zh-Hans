@@ -4,9 +4,9 @@ description: 了解电子邮件程序 — Marketo文档 — 产品文档
 title: 了解电子邮件程序
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 控制面板 {#control-panel}
 
-四个盒子能让你保持专注。 **受众**&#x200B;定义“谁”，**电子邮件**&#x200B;提供“什么”，**计划**&#x200B;定义“何时”，**批准**&#x200B;使其准备就绪。
+四个盒子能让你保持专注。 **[!UICONTROL Audience]**&#x200B;定义“谁”，**[!UICONTROL Email]**&#x200B;提供“什么”，**[!UICONTROL Schedule]**&#x200B;定义“何时”，**[!UICONTROL Approval]**&#x200B;使其准备就绪。
 
 ![](assets/emailprogram.png)
 

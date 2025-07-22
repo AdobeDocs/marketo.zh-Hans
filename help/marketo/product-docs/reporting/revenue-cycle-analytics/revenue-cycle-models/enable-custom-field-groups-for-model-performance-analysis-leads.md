@@ -4,9 +4,9 @@ description: 为模型性能分析（潜在客户）启用自定义字段组 —
 title: 为模型性能分析（潜在客户）启用自定义字段组
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -24,44 +24,44 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>当……发生什么情况？</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>它如何影响模型性能分析（潜在客户）区域</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>它如何影响<span class="uicontrol">模型性能分析（潜在客户）</span>区域</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>它如何影响潜在客户分析、营销活动分析和机会分析领域</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>当您启用与标准潜在客户或公司字段关联的自定义字段组时，会发生什么情况？</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>自定义字段组已为“模型性能分析（潜在客户）”区域中的报表启用</p></td> 
+   <td colspan="1" rowspan="1"><p>自定义字段组已在<span class="uicontrol">模型性能分析（潜在客户）</span>区域启用报告</p></td> 
    <td colspan="1" rowspan="1"><p>无影响</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>当您启用与自定义人员或公司字段关联的自定义字段组时，会发生什么情况？</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>自定义字段组已为“模型性能分析（潜在客户）”区域中的报表启用</p></td> 
+   <td colspan="1" rowspan="1"><p>自定义字段组已在<span class="uicontrol">模型性能分析（潜在客户）</span>区域启用报告</p></td> 
    <td colspan="1" rowspan="1"><p>自定义字段本身可用于在Lead Analysis 、 Campaign Analysis和Opportunity Analysis区域报告。</p><p><strong>注意：</strong>这些分析区域不支持自定义字段组，因此组关联不会显示在收入周期资源管理器中 — <em>仅</em>自定义字段。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-按照以下步骤启用自定义字段组，以便在模型性能分析（潜在客户）区域进行报告。
+按照以下步骤在[!UICONTROL Model Performance Analysis (Leads)]区域中启用用于报告的自定义字段组。
 
-1. 单击&#x200B;**管理员**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/one-1.png)
 
-1. 单击&#x200B;**收入周期Analytics**。
+1. 单击 **[!UICONTROL Revenue Cycle Analytics]**。
 
    ![](assets/two-1.png)
 
-1. 单击空字段组旁边的&#x200B;**无**。 如果已启用三个字段组并想要进行编辑，请单击要修改的字段组的名称。
+1. 单击空字段组旁边的&#x200B;**[!UICONTROL None]**。 如果已启用三个字段组并想要进行编辑，请单击要修改的字段组的名称。
 
    ![](assets/three.png)
 
-1. 单击&#x200B;**字段**&#x200B;下拉列表并选择所需的字段。
+1. 单击&#x200B;**[!UICONTROL Field]**&#x200B;下拉列表并选择您想要的。
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >此示例为标准字段(State)启用了自定义字段组。 因此，仅模型性能分析(Leads)区域受到影响。 如果已为自定义人员或公司字段启用了自定义字段组，则已启用的组将显示在“同步摘要”选项卡的“模型性能分析（潜在客户）”部分中，并且潜在客户、促销活动和机会分析的自定义字段计数将增加1。
+   >此示例为标准字段(State)启用了自定义字段组。 因此，只有[!UICONTROL Model Performance Analysis (Leads)]区域受到影响。 如果已为自定义人员或公司字段启用自定义字段组，则启用的组将显示在“同步摘要”选项卡的[!UICONTROL Model Performance Analysis (Leads)]部分中，并且商机、营销活动和机会分析的自定义字段计数将增加1。
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/five-1.png)

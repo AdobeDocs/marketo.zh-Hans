@@ -4,9 +4,9 @@ description: 以其他用户身份查看营销活动列表 — Marketo文档 —
 title: 以其他用户身份查看营销活动列表
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 在Web应用程序中，单击&#x200B;**促销活动**。
+1. 在Web应用程序中，单击&#x200B;**[!UICONTROL Campaigns]**。
 
    ![](assets/one-5.png)
 
-1. 单击&#x200B;**查看方式**&#x200B;下拉列表并选择所需的用户。
+1. 单击&#x200B;**[!UICONTROL View As]**&#x200B;下拉列表并选择所需的用户。
 
    ![](assets/two-4.png)
 

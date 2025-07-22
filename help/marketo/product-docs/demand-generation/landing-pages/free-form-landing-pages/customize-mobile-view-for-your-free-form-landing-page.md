@@ -4,9 +4,9 @@ description: 自定义自由表单登陆页面的移动视图 — Marketo文档 
 title: 自定义自由表单登陆页面的移动设备视图
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/selectlandingapge.jpg)
 
-1. 单击&#x200B;**编辑草稿**。
+1. 单击 **[!UICONTROL Edit Draft]**。
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. 单击&#x200B;**移动设备**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Mobile]**&#x200B;选项卡。
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
@@ -83,15 +83,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->移动设备视图也可以具有不同的页面元素排列。 在自由格式登陆页面上四处移动，或者使用拖放功能对&#x200B;**页面元素**&#x200B;下列出的对象重新排序。
+>移动设备视图也可以具有不同的页面元素排列。 在自由格式登陆页面上四处移动，或者使用拖放功能对&#x200B;**[!UICONTROL Page Elements]**&#x200B;下列出的对象重新排序。
 
 ## 预览移动设备视图 {#preview-mobile-view}
 
-1. 单击&#x200B;**预览草稿**。
+1. 单击 **[!UICONTROL Preview Draft]**。
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. 想看点很酷的东西吗？ 选择&#x200B;**并排**。
+1. 想看点很酷的东西吗？ 选择 **[!UICONTROL Side By Side]**。
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. 如果您喜欢它，请单击&#x200B;**批准并关闭**。
+1. 如果您喜欢它，请单击&#x200B;**[!UICONTROL Approve and Close]**。
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 

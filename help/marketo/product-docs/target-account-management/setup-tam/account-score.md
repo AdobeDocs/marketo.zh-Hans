@@ -4,16 +4,16 @@ description: 帐户得分 — Marketo文档 — 产品文档
 title: 帐户得分
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-# 帐户得分 {#account-score}
+# [!UICONTROL Account Score] {#account-score}
 
-帐户评分是Target帐户管理的重要组成部分。 它可帮助您确定客户的参与级别。
+帐户评分是[!UICONTROL Target Account Management]的重要组成部分。 它可帮助您确定客户的参与级别。
 
 ## 什么是帐户评分？ {#what-is-account-scoring}
 
@@ -57,30 +57,30 @@ ht-degree: 0%
 
 配置商机得分后，请按照以下步骤继续。
 
-1. 单击&#x200B;**管理员**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/account-score-1.png)
 
-1. 单击&#x200B;**目标帐户管理**。
+1. 单击 **[!UICONTROL Target Account Management]**。
 
    ![](assets/account-score-2.png)
 
-1. 在评分字段中，单击&#x200B;**编辑**。
+1. 在[!UICONTROL Scoring Fields]中，单击&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >您最多可以选择&#x200B;**5个**&#x200B;字段来计算帐户得分。
+   >您最多可以选择&#x200B;**5个**&#x200B;字段来计算[!UICONTROL Account Score]。
 
-1. 输入帐户得分名称，单击&#x200B;**选择人员得分**&#x200B;下拉列表并选择相应的得分。
+1. 输入[!UICONTROL Account Score]名称，单击&#x200B;**[!UICONTROL Select Person Score]**&#x200B;下拉列表并选择相应的得分。
 
    ![](assets/account-score-4.png)
 
-1. 单击&#x200B;**+添加**&#x200B;以添加更多得分。
+1. 单击&#x200B;**[!UICONTROL +Add]**&#x200B;以添加更多得分。
 
    ![](assets/account-score-5.png)
 
-1. 添加所有所需分数。 完成后单击&#x200B;**保存**。
+1. 添加所有所需分数。 完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/account-score-6.png)

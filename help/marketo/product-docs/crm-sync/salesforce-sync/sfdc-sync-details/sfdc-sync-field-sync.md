@@ -4,61 +4,61 @@ description: SFDC同步 — 字段同步 — Marketo文档 — 产品文档
 title: SFDC同步 — 字段同步
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：字段同步 {#sfdc-sync-field-sync}
 
-Marketo Engage从Salesforce同步字段信息。 详情如下。
+Marketo从[!DNL Salesforce]同步字段信息。 详情如下。
 
 ## 哪些字段已同步？ {#which-fields-are-synced}
 
-我们同步SFDC中的大多数标准字段以及同步用户有权查看的任何自定义字段。
+我们会同步SFDC中的大多数标准字段以及同步用户有权查看的任何自定义字段。
 
-## 如何确定Marketo中的记录是Salesforce中的潜在客户还是联系人？ {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
+## 如何确定Marketo中的记录是[!DNL Salesforce]中的潜在客户还是联系人？ {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
 
-Marketo中有一个名为SFDC类型的字段。 它有三个可能的值：潜在客户、联系人或为空。 如果为空，则表示此Marketo潜在客户在SFDC中不存在。
+Marketo中有一个名为“SFDC类型”的字段。 它有三个可能的值：潜在客户、联系人或为空。 如果为空，则意味着此Marketo潜在客户在SFDC中不存在。
 
 ## 如何确定是否在SFDC中删除了潜在客户或联系人？ {#how-do-you-determine-if-a-lead-or-contact-is-deleted-in-sfdc}
 
-Marketo中有一个名为SFDC isDeleted的字段。 如果该值为true，则潜在客户已在SFDC中删除。
+Marketo中有一个名为“SFDC isDeleted”的字段。 如果该值为true，则商机已在SFDC中删除。
 
 ## 如何确保在SFDC中添加的新字段也被添加到Marketo？ {#how-do-i-make-sure-a-new-field-i-add-in-sfdc-also-gets-added-to-marketo}
 
 >[!TIP]
 >
->如果要在两个系统中都使用字段，请先在SFDC中创建该字段，它会自动同步到Marketo。
+>如果您想要在两个系统中都使用某个字段，请先在SFDC中创建该字段，它会自动同步到Marketo。
 
 如果您在SFDC中添加新字段，并且同步用户具有查看该字段的权限，则该字段会自动添加到Marketo。
 
-## 如果我更改SFDC中的字段标签，该怎么办？ {#what-if-i-change-a-field-label-in-sfdc}
+## 如果我在SFDC中更改字段标签，该怎么办？ {#what-if-i-change-a-field-label-in-sfdc}
 
 更改SFDC中的字段标签不会影响Marketo中的字段标签。
 
-## 如果我更改SFDC中的字段类型，该怎么办？ {#what-if-i-change-a-field-type-in-sfdc}
+## 如果我在SFDC中更改字段类型，该怎么办？ {#what-if-i-change-a-field-type-in-sfdc}
 
 在更改字段类型时，如果字段中的数据不匹配，Marketo会删除这些字段中的数据（但首先显示警告）。 要保留数据，请确保在更改字段类型后导出数据并重新导入数据。
 
 ## 如果我在SFDC中更改API名称，该怎么办？ {#what-if-i-change-an-api-name-in-sfdc}
 
-如果您更改SFDC中字段的API名称，则会在Marketo中创建一个新字段。
+如果您在SFDC中更改字段的API名称，则会在Marketo中创建一个新字段。
 
 ## 如果我在SFDC中添加新的选取列表值，会发生什么情况？ {#what-happens-if-i-add-a-new-picklist-value-in-sfdc}
 
-如果在SFDC中将新的选择列表值添加到字段，Marketo将向您发送通知。
+如果在SFDC中将新的选取列表值添加到字段中，Marketo将向您发送通知。
 
-## 自定义SFDC查找字段呢？ {#what-about-custom-sfdc-lookup-fields}
+## 那么自定义SFDC查找字段呢？ {#what-about-custom-sfdc-lookup-fields}
 
 SFDC中的查找字段会同步ID，但不会同步引用的名称。
 
 ## SFDC公式字段呢？ {#what-about-sfdc-formula-fields}
 
-公式字段已同步，但在更新[系统模块戳](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}之前，不会同步对公式中引用的更新。
+公式字段已同步，但在更新[系统修改戳](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=en_US){target="_blank"}之前，不会同步对公式中引用的更新。
 
-## 从Salesforce中删除之前与Marketo同步的字段时会发生什么情况？ {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
+## 当我从[!DNL Salesforce]中删除之前与Marketo同步的字段时会发生什么情况？ {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
-如果删除SFDC中的字段，它不会自动删除Marketo中的字段，而只是停止同步。
+如果删除SFDC中的某个字段，它不会自动删除Marketo中的该字段，而只是停止同步。

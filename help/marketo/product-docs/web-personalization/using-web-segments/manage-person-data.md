@@ -4,22 +4,22 @@ description: 管理人员数据 — Marketo文档 — 产品文档
 title: 管理人员数据
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '192'
 ht-degree: 7%
 
 ---
 
 # 管理人员数据 {#manage-person-data}
 
-通过选择要在分段中使用的人员字段，为Web Personalization利用人员数据。
+通过选择要在分段中使用的人员字段来利用[!DNL Web Personalization]的人员数据。
 
-1. 转到&#x200B;**帐户设置**。
+1. 转到&#x200B;**[!UICONTROL Account Settings]**。
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. 转到&#x200B;**数据库**。
+1. 转到&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/account-settings-dropdown-database.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 7%
 
 ## 删除人员字段 {#deleting-a-person-field}
 
-1. 单击删除图标(![—](assets/image2015-3-24-13-3a45-3a56.png))可从列表中删除字段。 单击&#x200B;**是**&#x200B;确认要删除该字段。
+1. 单击删除图标(![—](assets/image2015-3-24-13-3a45-3a56.png))可从列表中删除字段。 单击&#x200B;**[!UICONTROL Yes]**&#x200B;确认要删除该字段。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -99,7 +99,7 @@ ht-degree: 7%
  </tbody> 
 </table>
 
-为新的Web Personalization帐户现成提供了以下潜在客户字段：
+为新[!DNL Web Personalization]帐户现成提供了以下潜在客户字段：
 
 >[!MORELIKETHIS]
 >

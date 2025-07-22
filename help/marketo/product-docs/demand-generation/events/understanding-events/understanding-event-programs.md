@@ -4,10 +4,10 @@ description: 了解事件程序 — Marketo文档 — 产品文档
 title: 了解事件程序
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '97'
+ht-degree: 3%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 1%
 >
 >* [创建新的活动计划](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [LaunchPoint活动合作伙伴](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [[!DNL LaunchPoint] 活动合作伙伴](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

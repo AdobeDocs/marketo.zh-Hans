@@ -4,9 +4,9 @@ description: 了解所有内容 — Marketo文档 — 产品文档
 title: 了解所有内容
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 页面字段包括：
 
-* **标题**：内容的名称
-* **类别**：由您创建，用于对Web或电子邮件的预测结果进行分组
-* **查看次数**：搜索到的Web内容（包括所有源）的总点击次数
-* **转化**：在同一次访问中查看内容并完成表单的访客数量
-* **转化率**：由直接转化除以点击量计算的百分比
-* **Approve for Predictive**：如果内容已获批准，将显示图标
+* **[!UICONTROL Title]**：内容的名称
+* **[!UICONTROL Categories]**：由您创建，用于对Web或电子邮件的预测结果进行分组
+* **[!UICONTROL Views]**：对发现的Web内容（包括所有源）的总点击次数
+* **[!UICONTROL Conversions]**：在同一次访问中查看内容并完成表单的访客数
+* **[!UICONTROL Conversion Rate]**：由直接转化除以点击量计算的百分比
+* **[!UICONTROL Approve for Predictive]**：内容获得批准时显示图标
 
 您可以添加新内容并跟踪它，删除一段内容，或批准一段内容。 批准内容后，您可以在“预测内容”页面上编辑内容。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 通过选择一个或多个类别来筛选内容。 然后，使用标准或自定义设置来设置内容分析的日期或日期范围。
 
-1. 在&#x200B;**所有内容**&#x200B;页面上，单击过滤器图标，然后在&#x200B;**类别**&#x200B;下选择一个或多个内容类别。
+1. 在&#x200B;**[!UICONTROL All Content]**&#x200B;页面上，单击过滤器图标，然后在&#x200B;**[!UICONTROL Category]**&#x200B;下选择一个或多个内容类别。
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## 显示某个日期或日期范围的Analytics {#display-analytics-for-a-date-or-date-range}
 
-1. 要显示特定日期或日期范围的数据，请单击日历图标，然后从左侧面板中选择。 对于自定义日期范围，单击日历上日期范围的第一天和最后一天（如所示）。 单击&#x200B;**应用**。
+1. 要显示特定日期或日期范围的数据，请单击日历图标，然后从左侧面板中选择。 对于自定义日期范围，单击日历上日期范围的第一天和最后一天（如所示）。 单击 **[!UICONTROL Apply]**。
 
    ![](assets/all-content-calendar-filter-hands.png)
 

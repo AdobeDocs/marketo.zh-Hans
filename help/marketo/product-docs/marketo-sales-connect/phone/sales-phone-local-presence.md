@@ -4,16 +4,16 @@ description: 销售电话本地存在 — Marketo文档 — 产品文档
 title: 销售电话本地存在
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # 销售电话本地存在 {#sales-phone-local-presence}
 
-如果您希望看起来像是从某个人的相同区号进行呼叫，只需在发出呼叫之前选中&#x200B;**本地存在**&#x200B;框。
+如果您希望看起来像是从某个人的同一区号进行呼叫，只需在发出呼叫之前选中&#x200B;**[!UICONTROL Local Presence]**&#x200B;框即可。
 
 ## 本地存在常见问题解答 {#local-presence-faq}
 

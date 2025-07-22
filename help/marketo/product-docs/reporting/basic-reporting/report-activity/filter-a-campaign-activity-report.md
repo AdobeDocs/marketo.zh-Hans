@@ -4,9 +4,9 @@ description: 过滤促销活动报表 — Marketo文档 — 产品文档
 title: 过滤促销活动报表
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/filter-a-campaign-activity-report-1.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡，然后双击&#x200B;**营销活动**。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡并双击&#x200B;**[!UICONTROL Campaigns]**。
 
    ![](assets/filter-a-campaign-activity-report-2.png)
 
-1. 选择要包含在报表中的文件夹和特定的智能营销活动。 单击&#x200B;**应用**。
+1. 选择要包含在报表中的文件夹和特定的智能营销活动。 单击 **[!UICONTROL Apply]**。
 
    ![](assets/filter-a-campaign-activity-report-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >如果选择文件夹，则报表将包含该文件夹在报表运行时包含的所有内容。
 
-1. 你完了！ 单击“**报表**”选项卡，查看报表中&#x200B;_仅_&#x200B;选定的智能营销活动。
+1. 你完了！ 单击“**[!UICONTROL Report]**”选项卡，查看报表中&#x200B;_仅_&#x200B;选定的智能营销活动。
 
    ![](assets/filter-a-campaign-activity-report-4.png)
 

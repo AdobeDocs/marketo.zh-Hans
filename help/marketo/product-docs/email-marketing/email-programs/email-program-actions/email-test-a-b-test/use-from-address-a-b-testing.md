@@ -4,34 +4,34 @@ description: 使用“发件人地址”A/B测试 — Marketo文档 — 产品�
 title: 使用“发件人地址”A/B测试
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# 使用“发件人地址”A/B测试 {#use-from-address-a-b-testing}
+# 使用&quot;[!UICONTROL From Address]&quot; A/B测试 {#use-from-address-a-b-testing}
 
-您可以轻松对电子邮件进行A/B测试。 一个有趣的测试是&#x200B;**发件人地址**&#x200B;测试。 下面是设置方法。
+您可以轻松对电子邮件进行A/B测试。 一个有趣的测试是&#x200B;**[!UICONTROL From Address]**&#x200B;测试。 下面是设置方法。
 
 >[!PREREQUISITES]
 >
 >[添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. 在&#x200B;**电子邮件**&#x200B;图块下，选择您的电子邮件后，单击&#x200B;**添加A/B测试**。
+1. 在&#x200B;**[!UICONTROL Email]**&#x200B;图块下，选择您的电子邮件后，单击&#x200B;**[!UICONTROL Add A/B Test]**。
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. 将打开一个新窗口，为&#x200B;**测试类型**&#x200B;选择&#x200B;**来自地址**。
+1. 将打开一个新窗口，为&#x200B;**[!UICONTROL From Address]**&#x200B;选择&#x200B;**[!UICONTROL Test Type]**。
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
-1. 如果您具有以前的测试信息（如主题测试），则可以安全地单击&#x200B;**重置测试**。
+1. 如果您以前有测试信息（如主题测试），则可以安全地单击&#x200B;**[!UICONTROL Reset Test]**。
 
    ![](assets/image2014-9-12-15-3a32-3a28.png)
 
-1. 输入要测试的第二个&#x200B;**发件人地址**&#x200B;信息。
+1. 输入要测试的第二个&#x200B;**[!UICONTROL From Address]**&#x200B;信息。
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >您可以单击&#x200B;**+**&#x200B;以添加所需数量的发件人地址。
 
-1. 使用滑块选择A/B测试中所需的受众百分比，然后单击&#x200B;**下一步**。
+1. 使用滑块选择A/B测试中所需的受众百分比，然后单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/image2014-9-12-15-3a33-3a41.png)
 

@@ -4,18 +4,18 @@ description: 使用Web Personalization数据重新定位 — Marketo文档 — �
 title: 使用Web Personalization数据重新定位
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '381'
 ht-degree: 1%
 
 ---
 
-# 使用Web Personalization数据重新定位 {#retargeting-with-web-personalization-data}
+# 使用[!DNL Web Personalization]数据重新定位 {#retargeting-with-web-personalization-data}
 
 >[!AVAILABILITY]
 >
->网站重定位现在归入Web Personalization拼贴下。 如果您只购买了重定位，您将看到此图块并访问启用了&#x200B;**仅**&#x200B;重定位功能的Web Personalization产品。 这让您能够访问帐户设置、重定位页面、区段和其他跟踪页面。
+>网站重定位现在归入Web Personalization拼贴下。 如果您只购买了重定位，您将看到此磁贴并访问[!DNL Web Personalization]产品，其中启用了&#x200B;**仅**&#x200B;重定位功能。 这让您能够访问帐户设置、重定位页面、区段和其他跟踪页面。
 
 再营销活动根据访问者的身份和行为来定位以前访问过您的网站的潜在客户，并投放基于他们的展示广告。 个性化重定位通过基于行业、指定帐户和已知人员数据的相关广告定位特定受众。
 
@@ -24,12 +24,12 @@ Web Personalization当前会将数据附加到以下再营销平台：
 * [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 * [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
-Web Personalization将以下数据发送到再营销平台，以创建受众并运行再营销广告营销活动：
+[!DNL Web Personalization]将以下数据发送到再营销平台以创建受众并运行再营销广告活动：
 
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">Web Personalization数据</th> 
+   <th colspan="1">[!DNL Web Personalization] 数据</th> 
   </tr> 
   <tr> 
    <th><p>行业</p></th> 
@@ -54,7 +54,7 @@ Web Personalization将以下数据发送到再营销平台，以创建受众并�
 
 ## 再营销配置 {#remarketing-configuration}
 
-1. 转到&#x200B;**重新定位**。
+1. 转到&#x200B;**[!UICONTROL Retargeting]**。
 
    ![](assets/one.png)
 
@@ -62,7 +62,7 @@ Web Personalization将以下数据发送到再营销平台，以创建受众并�
    >
    >重定位配置是按域或子域进行的。 如果要将数据从其他域发送到重定位平台，请激活这些域。
 
-1. 激活每个域的Google Analytics或Google Universal Analytics设置。
+1. 激活Google Analytics的设置或每个域的[!DNL Google Universal Analytics]。
 
    >[!NOTE]
    >
@@ -72,11 +72,11 @@ Web Personalization将以下数据发送到再营销平台，以创建受众并�
 
    ![](assets/two.png)
 
-1. 激活Facebook的配置。 单击并展开Facebook折叠面板，单击&#x200B;**点击**&#x200B;以将相应的事件和数据发送到FacebookAudience Manager。 单击&#x200B;**保存**。
+1. 激活Facebook的配置。 单击并展开[!DNL Facebook]折叠面板，单击&#x200B;**[!UICONTROL On]**&#x200B;以将相应的事件和数据发送到Facebook Audience Manager。 单击 **[!UICONTROL Save]**。
 
    >[!NOTE]
    >
-   >您需要安装[Facebook自定义受众像素](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)网站才能使用此功能。
+   >您需要安装[[!DNL Facebook] Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)网站才能使用此功能。
 
    ![](assets/three.png)
 
@@ -88,7 +88,7 @@ Web Personalization将以下数据发送到再营销平台，以创建受众并�
 >
 >无需为已在域配置中通过发送的行业数据或其他数据创建分段受众。 最好对基于已知人员数据的区段使用分段受众。
 
-1. 单击&#x200B;**创建分段受众**。
+1. 单击 **[!UICONTROL Create Segmented Audience]**。
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -96,6 +96,6 @@ Web Personalization将以下数据发送到再营销平台，以创建受众并�
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
-   您现在已完成Web Personalization中的重定位设置，登录到重定位平台，根据这些数据创建受众并设置重定位广告营销活动。
+   您现在已在[!DNL Web Personalization]中完成重定位设置，登录到重定位平台并根据此数据创建受众，然后设置重定位广告营销活动。

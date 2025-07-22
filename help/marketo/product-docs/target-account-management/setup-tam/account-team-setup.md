@@ -4,10 +4,10 @@ description: 客户团队设置 — Marketo文档 — 产品文档
 title: 客户团队设置
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 1%
 
 ---
 
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 帐户团队是指在指定帐户中共同工作的一组利益相关者。 按照以下步骤选择应添加的CRM帐户角色。
 
-1. 单击&#x200B;**管理员**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/one-3.png)
 
-1. 单击&#x200B;**目标帐户管理**。
+1. 单击 **[!UICONTROL Target Account Management]**。
 
    ![](assets/account-team-setup-2.png)
 
-1. 在帐户团队成员下，单击&#x200B;**编辑**。
+1. 在帐户团队成员下，单击&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/3.png)
 
    >[!NOTE]
    >
-   >对于帐户角色，请为其提供一个名称，并将其与CRM中所需的用户查找字段匹配。
+   >为[!UICONTROL Account Role]提供一个名称，并将其与CRM中所需的用户查找字段匹配。
 
-1. 键入您的帐户角色名称并选择&#x200B;**CRM**&#x200B;字段。 最多加10。
+1. 键入您的[!UICONTROL Account Role]名称并选择&#x200B;**CRM**&#x200B;字段。 最多加10。
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >您无法选择帐户所有者。 默认情况下，这是从您的CRM中的帐户级别选择的。
+   >您无法选择[!UICONTROL Account Owner]。 默认情况下，这是从您的CRM中的帐户级别选择的。
 
-1. 完成后单击&#x200B;**保存**。
+1. 完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/five-2.png)
 

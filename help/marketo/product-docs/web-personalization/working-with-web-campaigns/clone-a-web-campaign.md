@@ -4,20 +4,20 @@ description: 克隆Web营销活动 — Marketo文档 — 产品文档
 title: 克隆Web营销活动
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # 克隆Web营销活动 {#clone-a-web-campaign}
 
-使用“Web营销活动”页面上的克隆功能可以复制营销活动设置并更改内容以进行剥离测试优化，也可以克隆具有相同内容的营销活动并将其定位到不同的区段。 在秒内创建Web营销活动！
+使用[!UICONTROL Web Campaigns]页面上的克隆功能可以复制营销活动设置并更改内容以进行剥离测试优化，也可以克隆具有相同内容的营销活动并将其定位到不同的区段。 在秒内创建Web营销活动！
 
 ## 创建克隆营销活动 {#create-a-clone-campaign}
 
-1. 转到&#x200B;**网络营销活动**。
+1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 

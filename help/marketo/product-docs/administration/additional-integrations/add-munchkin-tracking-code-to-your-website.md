@@ -4,9 +4,9 @@ description: 将 [!DNL Munchkin] 跟踪代码添加到您的网站 — Marketo�
 title: 将 [!DNL Munchkin] 跟踪代码添加到您的网站
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '633'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. 为&#x200B;**[!UICONTROL Tracking Code Type]**&#x200B;选择&#x200B;**[!UICONTROL Asynchronous]**。
+1. 为&#x200B;**[!UICONTROL Asynchronous]**&#x200B;选择&#x200B;**[!UICONTROL Tracking Code Type]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
@@ -59,7 +59,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    >[!TIP]
    >
-   >对于访问量大的网站（即每月访问数十万次），我们建议您选择不跟踪匿名人员。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}。
+   >对于访问量大的网站（即每月访问数十万次），我们建议您选择不跟踪匿名人员。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}。
 
 ## 使用多个工作区时添加跟踪代码 {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -81,7 +81,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
    >
    >如果不使用特殊工作区[!DNL Munchkin]代码，则将向帐户设置时创建的默认分区分配用户。 它最初名为“[!UICONTROL Default]”，但您可能已在自己的Marketo帐户中更改了名称。
 
-1. 为&#x200B;**[!UICONTROL Tracking Code Type]**&#x200B;选择&#x200B;**[!UICONTROL Asynchronous]**。
+1. 为&#x200B;**[!UICONTROL Asynchronous]**&#x200B;选择&#x200B;**[!UICONTROL Tracking Code Type]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
@@ -141,4 +141,4 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    >[!NOTE]
    >
-   >如果您没有看到任何数据，请等待几分钟，然后单击底部的刷新图标。
+   >如果您没有看到任何数据，请等待几分钟，然后单击底部的[!UICONTROL refresh]图标。

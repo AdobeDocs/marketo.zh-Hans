@@ -4,9 +4,9 @@ description: 预览推送通知 — Marketo文档 — 产品文档
 title: 预览推送通知
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 可以轻松预览推送通知的外观，无论是Android还是iOS。 有四种方法可以做到这一点。
 
-在导航树中，右键单击要预览的通知文件，然后单击&#x200B;**预览**。
+在导航树中，右键单击要预览的通知文件，然后单击&#x200B;**[!UICONTROL Preview]**。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-或者，在推送通知视图页面上，单击&#x200B;**推送通知操作**，然后单击&#x200B;**预览**。 或者，单击最右侧的&#x200B;**预览**。
+或者，在推送通知视图页面上，单击&#x200B;**[!UICONTROL Push Notifications Actions]**，然后单击&#x200B;**[!UICONTROL Preview]**。 或者，单击最右侧的&#x200B;**[!UICONTROL Preview]**。
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-最后，在编辑器中处理通知时，您可以单击右上角的&#x200B;**预览草稿**&#x200B;选项卡。
+最后，在编辑器中，您可以在处理通知时单击右上角的&#x200B;**[!UICONTROL Preview Draft]**&#x200B;选项卡。
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 

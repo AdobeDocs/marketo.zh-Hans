@@ -4,9 +4,9 @@ description: 订阅智能列表 — Marketo文档 — 产品文档
 title: 订阅智能列表
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 您可以在两个不同的位置创建智能列表订阅：
 
-* 营销活动
-* 数据库
+* [!UICONTROL Marketing Activities]
+* [!UICONTROL Database]
 
 订阅使用运行订阅时的完整人员列表。
 
-订阅位于智能列表所在的位置，即营销活动或数据库中。
+在[!UICONTROL Marketing Activities]或[!UICONTROL Database]中，您的智能列表所在的位置有订阅。
 
 您可以从同一智能列表创建多个订阅。
 
@@ -36,39 +36,39 @@ ht-degree: 0%
 
 ## 创建智能列表订阅 {#create-a-smart-list-subscription}
 
-1. 转到&#x200B;**数据库**&#x200B;或&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Database]**&#x200B;或&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/db.png)
 
-1. 选择要为其创建订阅的智能列表。 单击&#x200B;**列出操作**&#x200B;并选择&#x200B;**新建智能列表订阅**。
+1. 选择要为其创建订阅的智能列表。 单击&#x200B;**[!UICONTROL List Actions]**&#x200B;并选择&#x200B;**[!UICONTROL New Smart List Subscription]**。
 
    ![](assets/three.png)
 
-1. 为您的订阅提供&#x200B;**名称**，然后选择或输入&#x200B;**收件人**&#x200B;的电子邮件地址。
+1. 为您的订阅提供&#x200B;**[!UICONTROL Name]**，然后选择或输入&#x200B;**[!UICONTROL Recipients]**&#x200B;的电子邮件地址。
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. 单击&#x200B;**频率**&#x200B;列表并选择频率。
+1. 单击&#x200B;**[!UICONTROL Frequency]**&#x200B;列表并选择频率。
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. 设置&#x200B;**结束投放**&#x200B;日期。 您可以选择&#x200B;**从不**&#x200B;或日历日期。
+1. 设置&#x200B;**[!UICONTROL End Delivery]**&#x200B;日期。 您可以选择&#x200B;**[!UICONTROL Never]**&#x200B;或日历日期。
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. 单击&#x200B;**格式**&#x200B;并从列表中选择。
+1. 单击&#x200B;**[!UICONTROL Format]**&#x200B;并从列表中选择。
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. 单击&#x200B;**创建**。
+1. 单击 **[!UICONTROL Create]**。
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. 您的新智能列表订阅将显示在“订阅”选项卡的列表顶部。 如果要立即发送，而不是等到计划的电子邮件发送，请单击&#x200B;**发送**。
+1. 您的新智能列表订阅将显示在“订阅”选项卡的列表顶部。 如果要立即发送，而不是等到计划的电子邮件发送，请单击&#x200B;**[!UICONTROL Send]**。
 
    ![](assets/eight.png)
 
-1. 我们建议您清除“活动”复选框，以便在没有人订阅智能列表订阅时将其停用。
+1. 我们建议您清除&#x200B;**[!UICONTROL Active]**&#x200B;复选框，以便在无人订阅智能列表订阅时将其停用。
 
    ![](assets/nine.png)
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果[安全订阅管理员](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)设置设置为&#x200B;**是**，则只有有权访问Marketo实例的用户才能下载报表。
+>如果[安全订阅管理员](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)设置设置为&#x200B;**[!UICONTROL Yes]**，则只有有权访问Marketo实例的用户才能下载报表。
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 ## 删除订阅 {#delete-a-subscription}
 
-要删除预订，请在“预订”选项卡中选择它，然后单击“删除预订”。
+要删除订阅，请在“订阅”选项卡中选择该订阅，然后单击&#x200B;**[!UICONTROL Delete Subscription]**。
 
 ![](assets/twelve.png)
 

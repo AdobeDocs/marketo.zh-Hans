@@ -4,9 +4,9 @@ description: 发行说明 — 2016年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年春季
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -57,17 +57,17 @@ ht-degree: 0%
 
 Marketo REST API现在支持对Marketo登陆页面、登陆页面模板和表单的控制。 用户现在可以通过Marketo REST API直接创建、更新内容、批准和删除这些资源。
 
-## [列入允许列表 用于API访问的IP](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## 列入允许列表 [用于API访问的IP](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-与Marketo用户登录的IP 列入允许列表功能类似，Marketo管理员现在可以设置IP地址允许列表，以访问Marketo SOAP和REST API，从而阻止来自未授权IP地址的访问。 这为Marketo实例增添了一个安全层，并确保只能从贵组织的网络内部进行API访问。 有关如何设置的详细信息，请访问[Marketo文档网站](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)。
+与Marketo用户登录的IP列入允许列表功能类似，Marketo管理员现在可以设置IP地址允许列表，以访问Marketo SOAP和REST API，从而阻止来自未授权IP地址的访问。 这为Marketo实例增添了一个安全层，并确保只能从贵组织的网络内部进行API访问。 有关如何设置的详细信息，请访问[Marketo文档网站](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)。
 
 ## [新的高速Microsoft Dynamics同步连接器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 新的高速Dynamics连接器提供初始同步速度提高20倍，增量同步速度提高5倍。 所有新客户都将在发布日期加入此连接器，我们将在夏季发布时间范围内逐步向现有客户推出。
 
-**刷新新字段的数据**：现在，您可以随时启用新同步字段，该字段的所有数据值都将从Dynamics CRM刷新到Marketo中。 不必再担心在初始设置期间必须选择所有字段。 如果禁用现有的同步字段并稍后重新启用它，则该字段的所有数据值都将从Dynamics CRM刷新到Marketo中。
+**刷新新字段的数据**：现在您可以随时启用新同步字段，并且该字段的所有数据值将从[!DNL Dynamics] CRM刷新到Marketo中。 不必再担心在初始设置期间必须选择所有字段。 如果禁用现有同步字段并稍后重新启用它，则该字段的所有数据值将从[!DNL Dynamics] CRM刷新到Marketo中。
 
-**将潜在客户同步为联系人**：“将潜在客户同步到Microsoft”流程操作新增了一个选项，可将其同步为潜在客户或联系人。
+**将潜在客户同步为联系人**： [!UICONTROL Sync Lead to Microsoft]流程操作有一个新选项，可用于作为潜在客户或联系人进行同步。
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -75,7 +75,7 @@ Marketo REST API现在支持对Marketo登陆页面、登陆页面模板和表单
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**：连接器已针对Dynamics 2016 Online和内部部署版本进行完全认证。
+**[!DNL Microsoft Dynamics]2016**：连接器已针对[!DNL Dynamics] 2016 [!DNL Online]和[!DNL On-premise]版本进行完全认证。
 
 **现在记录了插件更新：**&#x200B;请参阅[插件更新文档文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
 

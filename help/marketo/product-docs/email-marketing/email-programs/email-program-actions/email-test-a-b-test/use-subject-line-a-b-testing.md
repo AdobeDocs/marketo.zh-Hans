@@ -4,22 +4,22 @@ description: 使用“主题行”A/B测试 — Marketo文档 — 产品文档
 title: 使用“主题行”A/B测试
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # 使用“主题行”A/B测试 {#use-subject-line-a-b-testing}
 
-您可以轻松对电子邮件进行A/B测试。 最常见的测试之一是&#x200B;**主题行**&#x200B;测试。
+您可以轻松对电子邮件进行A/B测试。 最常见的测试之一是&#x200B;**[!UICONTROL Subject Line]**&#x200B;测试。
 
 >[!PREREQUISITES]
 >
 >[添加A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. 在电子邮件图块下，选择您的电子邮件后，单击添加A/B测试。
+1. 在&#x200B;**[!UICONTROL Email tile]**&#x200B;下，选择您的电子邮件后，单击&#x200B;**[!UICONTROL Add A/B Test]**。
 
 ![](assets/image2014-9-12-15-3a6-3a2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >您可以单击&#x200B;**+**&#x200B;以添加更多主题行。
 
-1. 使用滑块选择要接收A/B测试的受众百分比，然后单击&#x200B;**下一步**。
+1. 使用滑块选择要接收A/B测试的受众百分比，然后单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 

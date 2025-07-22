@@ -4,9 +4,9 @@ description: 为您的Web营销活动添加标签 — Marketo文档 — 产品�
 title: 为您的Web营销活动添加标签
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 向Web营销活动添加标签 {#add-a-label-to-a-web-campaign}
 
-1. 登录到Web Personalization，然后转到Web营销活动区域。
+1. 登录到[!DNL Web Personalization]并转到[!UICONTROL Web Campaigns]区域。
 
    ![](assets/web-campaigns-hand.jpg)
 

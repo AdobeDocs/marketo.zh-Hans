@@ -4,10 +4,10 @@ description: 将富文本添加到表单 — Marketo文档 — 产品文档
 title: 向表单添加富文本
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 1%
+source-wordcount: '92'
+ht-degree: 4%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 在表单中使用富文本可在字段之间添加说明或其他信息。 看吧。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 选择您的表单并单击&#x200B;**编辑表单**。
+1. 选择您的表单并单击&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. 选择&#x200B;**富文本**。
+1. 选择 **[!UICONTROL Rich Text]**。
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ ht-degree: 1%
    >
    >如果表单中需要行分隔符，请使用“水平线”按钮。
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. 单击&#x200B;**完成**。
+1. 单击 **[!UICONTROL Finish]**。
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. 单击&#x200B;**批准并关闭**。
+1. 单击 **[!UICONTROL Approve and Close]**。
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 

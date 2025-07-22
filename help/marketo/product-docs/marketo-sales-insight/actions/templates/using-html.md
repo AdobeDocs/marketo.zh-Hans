@@ -1,24 +1,24 @@
 ---
-description: 使用HTML- Marketo文档 — 产品文档
+description: 使用HTML - Marketo文档 — 产品文档
 title: 使用HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # 使用HTML {#using-html}
 
-1. 在用于在HTML中创建电子邮件的工具中(例如，Marketo的电子邮件编辑器)复制电子邮件中的源代码。
+1. 使用在HTML中创建电子邮件的工具(例如，Marketo的电子邮件编辑器)，从电子邮件中复制源代码。
 
 1. 选择要将HTML添加到的模板。
 
    ![](assets/using-html-1.png)
 
-1. 在模板编辑器信息卡中，单击&#x200B;**编辑**。
+1. 在模板编辑器信息卡中，单击&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/using-html-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-html-3.png)
 
-1. 粘贴源代码并单击&#x200B;**保存**。
+1. 粘贴源代码并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/using-html-4.png)
 

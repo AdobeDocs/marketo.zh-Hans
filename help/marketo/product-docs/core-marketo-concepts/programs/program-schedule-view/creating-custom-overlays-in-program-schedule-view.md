@@ -4,10 +4,10 @@ description: 在项目计划视图中创建自定义叠加 — Marketo文档 —
 title: 在项目计划视图中创建自定义叠加
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可以创建自定义叠加以查看与您的需求相关的条目。
 
-1. 单击&#x200B;**[!UICONTROL 议程]**&#x200B;下拉列表。
+1. 单击&#x200B;**[!UICONTROL Agenda]**&#x200B;下拉列表。
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. 选择&#x200B;**[!UICONTROL 叠加]**。
+1. 选择 **[!UICONTROL Overlays]**。
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
-1. 选择要显示在叠加图中的条目类型。
+1. 选择要显示在叠加图中的[!UICONTROL Entry Types]。
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 

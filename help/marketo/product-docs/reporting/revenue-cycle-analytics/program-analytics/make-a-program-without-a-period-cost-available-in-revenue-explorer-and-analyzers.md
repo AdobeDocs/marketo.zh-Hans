@@ -4,9 +4,9 @@ description: 在Revenue Explorer和Analysers - Marketo文档 — 产品文档中
 title: 使无期间成本的程序在收入浏览器和分析器中可用
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >计划分析器按期间成本存储计划成功。 如果没有可用的期间成本，则无论项目的分析行为如何，都不会显示“项目成功”。 如果设置了Analytics行为，将显示机会量度（管道机会、获得的收入等）的数据。
 
-1. 在“管理员”部分下，单击&#x200B;**标记**。
+1. 在[!UICONTROL Admin]部分下，单击&#x200B;**[!UICONTROL Tags]**。
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. 将Analytics行为更改为“包含”，然后单击&#x200B;**保存**。
+1. 将[!UICONTROL Analytics Behavior]更改为&#x200B;**包含**，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

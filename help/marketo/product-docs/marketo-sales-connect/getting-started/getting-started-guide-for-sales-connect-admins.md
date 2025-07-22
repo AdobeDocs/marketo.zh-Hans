@@ -1,18 +1,18 @@
 ---
-description: Sales Connect管理员入门指南 — Marketo文档 — 产品文档
-title: Sales Connect管理员入门指南
+description: ' [!DNL Sales Connect] 管理员入门指南 — Marketo文档 — 产品文档'
+title: ' [!DNL Sales Connect] 管理员入门指南'
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
 
-# Sales Connect管理员入门指南 {#getting-started-guide-for-sales-connect-admins}
+# [!DNL Sales Connect]管理员入门指南 {#getting-started-guide-for-sales-connect-admins}
 
-本文档将引导您完成设置新的Sales Connect实例的初始步骤。 其中某些步骤需要以Marketo管理员、Salesforce管理员和Sales Connect管理员的身份进行访问。 请按照下面的指南完成实例设置。
+本文档将引导您完成设置新[!DNL Sales Connect]实例的初始步骤。 其中某些步骤需要作为Marketo管理员、[!DNL Salesforce]管理员和[!DNL Sales Connect]管理员进行访问。 请按照下面的指南完成实例设置。
 
 >[!NOTE]
 >
@@ -30,9 +30,9 @@ ht-degree: 0%
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## 正在连接到Salesforce {#connecting-to-salesforce}
+## 正在连接到[!DNL Salesforce] {#connecting-to-salesforce}
 
-所有用户都需要单独连接到Salesforce，以便能够将log sales activities记录到salesforce，如电子邮件、呼叫和任务。 但是，当您以管理员身份连接到Salesforce时，您将有机会为整个团队配置活动日志记录设置，以便全局日志记录设置将应用于所有Sales Connect用户。
+所有用户都需要单独连接到[!DNL Salesforce]，以便能够向Salesforce启用日志销售活动，如电子邮件、呼叫和任务。 但是，当您以管理员身份连接到Salesforce时，您将有机会为整个团队配置活动日志记录设置，以便全局日志记录设置将应用于所有[!DNL Sales Connect]用户。
 
 要以管理员或非管理员身份将Sales Connect实例连接到Salesforce实例，请按照[本文](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}中的步骤操作。
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 要详细了解如何连接到Marketo并授予Sales用户访问连接的权限，[单击此处](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}。
 
-## 安装Salesforce自定义包 {#installing-salesforce-customization-package}
+## 正在安装[!DNL Salesforce]自定义包 {#installing-salesforce-customization-package}
 
 确保销售成功的一部分意味着在主要工作区中拥有适当的功能。 Sales Connect定制软件包允许从Salesforce访问参与功能和关键销售活动属性。
 

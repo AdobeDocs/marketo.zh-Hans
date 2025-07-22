@@ -4,9 +4,9 @@ description: 将图像添加到引导式登陆页面 — Marketo文档 — 产�
 title: 将图像添加到引导式登陆页面
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 与自由格式登陆页面不同，引导式登陆页面在添加图像的位置具有预定义的锁定空间。
 
-1. 选择引导式登陆页面。 单击&#x200B;**编辑草稿**。
+1. 选择引导式登陆页面。 单击 **[!UICONTROL Edit Draft]**。
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. 选择所需的图像，然后单击&#x200B;**插入**。
+1. 选择所需的图像并单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 

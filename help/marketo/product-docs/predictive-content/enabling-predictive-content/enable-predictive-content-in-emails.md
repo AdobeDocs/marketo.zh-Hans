@@ -4,9 +4,9 @@ description: 在电子邮件中启用预测内容 — Marketo文档 — 产品�
 title: 在电子邮件中启用预测内容
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -33,19 +33,19 @@ ht-degree: 0%
 
 ## 使用Email 2.0编辑器添加预测内容 {#adding-predictive-content-using-the-email-editor}
 
-1. 单击&#x200B;**营销活动**。
+1. 单击 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/one.png)
 
-1. 选择您的电子邮件并单击&#x200B;**编辑草稿**。
+1. 选择您的电子邮件并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/two.png)
 
-1. 单击要预测的图像。 出现齿轮图标时，单击该图标并选择&#x200B;**启用ContentAI** （ContentAI是预测内容以前的名称）。
+1. 单击要预测的图像。 出现齿轮图标时，单击该图标并选择&#x200B;**[!UICONTROL Enable ContentAI]** （ContentAI是预测内容之前的名称）。
 
    ![](assets/three.png)
 
-1. 若要选择一个或多个类别，请单击&#x200B;**类别**&#x200B;下拉列表，进行选择，然后单击&#x200B;**应用**。
+1. 要选择一个或多个类别，请单击&#x200B;**[!UICONTROL Categories]**&#x200B;下拉列表，进行选择，然后单击&#x200B;**[!UICONTROL Apply]**。
 
    ![](assets/four.png)
 
@@ -57,19 +57,19 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 要预览电子邮件，请单击右上角的&#x200B;**预览**。
+1. 要预览电子邮件，请单击右上角的&#x200B;**[!UICONTROL Preview]**。
 
    ![](assets/six.png)
 
-1. 要查看其他可能的图像，请单击&#x200B;**刷新**。
+1. 要查看其他可能的图像，请单击&#x200B;**[!UICONTROL Refresh]**。
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >在收件人打开电子邮件&#x200B;_&#x200B;**之前，未选择**&#x200B;_&#x200B;图像。 因此，您在预览中看到的只是一个示例，不一定是收件人看到的图像。
+   >在收件人打开电子邮件&#x200B;**_之前，未选择_**&#x200B;图像。 因此，您在预览中看到的只是一个示例，不一定是收件人看到的图像。
 
-1. 预览完电子邮件后，单击&#x200B;**预览操作**&#x200B;下拉列表，然后选择&#x200B;**批准并关闭**。 或者，如果您仍然需要编辑，请单击右侧的&#x200B;**编辑草稿**。
+1. 预览完电子邮件后，单击&#x200B;**[!UICONTROL Preview Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Approve and Close]**。 或者，如果您仍然需要编辑，请单击右侧的&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/eight.png)
 

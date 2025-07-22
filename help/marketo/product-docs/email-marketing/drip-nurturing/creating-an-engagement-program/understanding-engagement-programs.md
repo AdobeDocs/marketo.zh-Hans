@@ -4,10 +4,10 @@ description: 了解参与计划 — Marketo文档 — 产品文档
 title: 了解参与计划
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 0%
+source-wordcount: '278'
+ht-degree: 1%
 
 ---
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## 人员节奏 {#person-cadence}
 
-**人员节奏**&#x200B;是一种状态，它定义了从参与计划接收内容的能力。 您可以使用&#x200B;**更改参与计划节奏**&#x200B;流程步骤将其更改为“已暂停”或“正常”。
+**人员节奏**&#x200B;是一种状态，它定义了从参与计划接收内容的能力。 您可以使用&#x200B;**[!UICONTROL Change Engagement Program Cadence]**&#x200B;流程步骤将其更改为[!UICONTROL Paused]或[!UICONTROL Normal]。
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 

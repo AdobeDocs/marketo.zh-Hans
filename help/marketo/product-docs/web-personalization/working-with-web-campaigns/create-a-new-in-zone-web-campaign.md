@@ -4,9 +4,9 @@ description: 在区域中创建新的Web促销活动 — Marketo文档 — 产�
 title: 在区域中创建新的Web营销活动
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
 
 ## 创建区域Web营销活动 {#create-an-in-zone-web-campaign}
 
-1. 转到&#x200B;**网络营销活动**。
+1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. 选择&#x200B;**新建Web营销活动。**
+1. 选择&#x200B;**[!UICONTROL Create New Web Campaign].**
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. 选择&#x200B;**In Zone**&#x200B;营销活动类型。 自定义并添加&#x200B;**区域ID。**&#x200B;将营销活动设置为&#x200B;**置顶**，并在编辑器中添加您的创意内容。 添加要预览的页面URL，然后单击&#x200B;**预览**&#x200B;以查看营销活动在您的网站上将如何反应。
+1. 选择&#x200B;**[!UICONTROL In Zone]**&#x200B;营销活动类型。 自定义并添加&#x200B;**[!UICONTROL Zone id]。**&#x200B;将营销活动设置为&#x200B;**[!UICONTROL Sticky]**&#x200B;并在编辑器中添加您的创意内容。 添加要预览的页面URL，然后单击&#x200B;**[!UICONTROL Preview]**&#x200B;以查看营销活动在您的网站上将如何反应。
 
    ![](assets/new-3-1.png)
 
@@ -33,7 +33,7 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
    >
    >**什么是区域ID？**
    >
-   >区域ID是您希望“所在区域”Web促销活动位于现场的位置。 要查找“区域ID”，只需转到您的网站，选择要替换为Web营销活动的区域，然后右键单击即可。 在Chrome中，选项为“Inspect元素”，而在其他浏览器中，该选项可能有所不同。
+   >区域ID是您希望“[!UICONTROL In Zone]”Web营销活动位于现场的位置。 要查找“[!UICONTROL Zone ID]”，只需转到您的网站，选择要替换为Web营销活动的区域，然后右键单击即可。 在Chrome中，选项为“检查元素”，而在其他浏览器中，该选项可能有所不同。
    >
    >然后，您要查找与网站此部分关联的“id”，由于您正在检查该元素，该“id”会突出显示。 例如，在Chrome中右键单击后，突出显示的文本显示`<div id="featured-slider">`，则“featured-slider”是您应在“区域ID”部分中键入的内容。 通常使用“div id”，但也可以使用任何ID，例如h1 id、p id等。
 
@@ -98,7 +98,7 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
 
 ## 预览Web活动 {#preview-a-web-campaign}
 
-1. 在Web营销活动页面中，单击要查看的Web营销活动上的&#x200B;**预览**。
+1. 从[!UICONTROL Web Campaigns]页面，单击要查看的Web营销活动上的&#x200B;**[!UICONTROL Preview]**。
 
    ![](assets/in-zone-web-campaign-preview.png)
 
@@ -108,7 +108,7 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
 
 ## 删除Web活动 {#delete-a-web-campaign}
 
-1. 在Web营销活动页面中，单击要删除的营销活动上的&#x200B;**删除**。
+1. 在Web营销活动页面中，单击要删除的营销活动上的&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/in-zone-web-campaign-delete.png)
 

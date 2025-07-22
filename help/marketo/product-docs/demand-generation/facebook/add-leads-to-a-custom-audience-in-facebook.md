@@ -1,46 +1,46 @@
 ---
 unique-page-id: 11376700
-description: 在Facebook中添加潜在客户至自定义受众 — Marketo文档 — 产品文档
+description: 在Facebook中将潜在客户添加到自定义受众 — Marketo文档 — 产品文档
 title: 在Facebook中将潜在客户添加到自定义受众
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-# 在Facebook中将潜在客户添加到自定义受众 {#add-leads-to-a-custom-audience-in-facebook}
+# 在[!DNL Facebook]中将潜在客户添加到自定义受众 {#add-leads-to-a-custom-audience-in-facebook}
 
-在Facebook中已有自定义受众，并且想要为此添加更多潜在客户？ 具体方法如下。
+[!DNL Facebook]中已有自定义受众，并且想要向其中添加更多潜在客户？ 具体方法如下。
 
 >[!PREREQUISITES]
 >
->* [在Facebook中创建自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* 在您的Facebook帐户中[接受Facebook的自定义受众条款](https://www.facebook.com/ads/manage/customaudiences/tos.php)。
+>* [在 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)中创建自定义受众
+>* 在您的[帐户中 [!DNL Facebook]接受](https://www.facebook.com/ads/manage/customaudiences/tos.php)的自定义受众条件[!DNL Facebook]。
 >
 
 1. 查找并选择包含要添加的潜在客户的智能或静态列表。
 
    ![](assets/one.png)
 
-1. 选择&#x200B;**潜在客户**&#x200B;选项卡，然后单击底部的&#x200B;**通过广告Bridge发送**&#x200B;图标。
+1. 选择&#x200B;**[!UICONTROL Leads]**&#x200B;选项卡，然后单击底部的&#x200B;**通过广告Bridge发送**&#x200B;图标。
 
    ![](assets/two-1.png)
 
-1. 选择&#x200B;**Facebook**&#x200B;并单击&#x200B;**下一步**。
+1. 选择&#x200B;**[!UICONTROL Facebook]**&#x200B;并单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/three.png)
 
-1. 单击&#x200B;**受众**&#x200B;下拉列表，选择要将潜在客户添加到的受众，然后单击&#x200B;**更新**。
+1. 单击&#x200B;**[!UICONTROL Audience]**&#x200B;下拉列表，选择要将潜在客户添加到的受众，然后单击&#x200B;**[!UICONTROL Update]**。
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**将潜在客户添加到受众**：将只有具有自定义子类型的Facebook受众可用。\
-   >**从受众中删除潜在客户**：从Facebook受众中删除静态或智能列表中的潜在客户。
+   >**[!UICONTROL Add leads to audience]**：只有具有自定义子类型的[!DNL Facebook]受众可用。\
+   >**[!UICONTROL Remove leads from audience]**：从[!DNL Facebook]受众中删除静态或智能列表中的潜在客户。
 
 1. 完成后，状态将更新。
 
@@ -50,4 +50,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[在Facebook中创建自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+   >[在 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)中创建自定义受众

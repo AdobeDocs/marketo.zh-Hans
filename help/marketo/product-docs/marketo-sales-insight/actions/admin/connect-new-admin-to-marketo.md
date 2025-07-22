@@ -3,9 +3,9 @@ description: 将新管理员连接到Marketo - Marketo文档 — 产品文档
 title: 将新管理员连接到Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 如果第二个管理员未作为管理员连接到Marketo...
 
-1. 主要管理员需要从“设置”>“Marketo”>“用户访问”断开第二个管理员与Marketo的连接。
+1. 主要管理员需要从[!UICONTROL Settings] > Marketo > [!UICONTROL User Access]断开第二个管理员与Marketo的连接。
 
-1. 辅助管理员登录到其MSC帐户，转到“设置”>“Marketo”，然后单击&#x200B;**连接**。
+1. 辅助管理员登录到其MSC帐户，转到[!UICONTROL Settings] > Marketo，然后单击&#x200B;**[!UICONTROL Connect]**。
 
 1. 现在，辅助用户以管理员身份连接到Marketo。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 如果您决定要删除设置Marketo集成的管理员，请参阅本文以了解如何操作。
 
-Marketo集成将绑定到Sales Connect/Actions管理员用户。 通常，这是首先单击Marketo连接页面上的“连接”按钮并建立连接的管理员。
+Marketo集成将绑定到[!DNL Sales Connect]/操作管理员用户。 通常，这是首先单击Marketo连接页面上的&#x200B;**[!UICONTROL Connect]**&#x200B;按钮并建立连接的管理员。
 
 要删除建立Marketo连接的管理员，必须首先由其他管理员用户建立新连接。 我们列出了完成此操作需要完成的以下任务。
 
@@ -52,11 +52,11 @@ Marketo集成将绑定到Sales Connect/Actions管理员用户。 通常，这是
 
 管理员A（最初负责连接的管理员）应遵循这些步骤。
 
-1. 在Web应用程序中，单击齿轮图标并选择&#x200B;**设置**。
+1. 在Web应用程序中，单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
 1. 单击&#x200B;**Marketo**。
 
-1. 单击&#x200B;**用户访问**。
+1. 单击 **[!UICONTROL User Access]**。
 
 1. 搜索要为其建立新Marketo连接的管理员。
 
@@ -66,20 +66,20 @@ Marketo集成将绑定到Sales Connect/Actions管理员用户。 通常，这是
 
 管理员B（新管理员）应遵循这些步骤
 
-1. 在Web应用程序中，单击齿轮图标并选择&#x200B;**设置**。
+1. 在Web应用程序中，单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
 1. 单击&#x200B;**Marketo**。
 
-1. 单击&#x200B;**断开连接**。
+1. 单击 **[!UICONTROL Disconnect]**。
 
 **断开与管理员A**&#x200B;的Marketo集成
 
 管理员A（最初连接的管理员）应执行这些步骤。
 
-1. 在Web应用程序中，单击齿轮图标并选择&#x200B;**设置**。
+1. 在Web应用程序中，单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
 1. 单击&#x200B;**Marketo**。
 
-1. 单击&#x200B;**断开连接**。
+1. 单击 **[!UICONTROL Disconnect]**。
 
-现在，新的管理员已建立了与Marketo的连接，并且原始管理员已断开，可以从Sales Connect/Actions实例中安全地删除最初连接的管理员。
+现在，新的管理员已建立了与Marketo的连接，并且原始管理员已断开连接，可以从[!DNL Sales Connect]/Actions实例中安全地删除最初连接的管理员。

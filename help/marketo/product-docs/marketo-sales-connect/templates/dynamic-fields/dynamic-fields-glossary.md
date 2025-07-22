@@ -4,18 +4,18 @@ description: 动态字段术语表 — Marketo文档 — 产品文档
 title: 动态字段术语表
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 0%
+source-wordcount: '242'
+ht-degree: 1%
 
 ---
 
 # 动态字段术语表 {#dynamic-fields-glossary}
 
-在Sales Connect中创建模板时，我们始终建议使用&#x200B;**MSE Dynamic Fields**&#x200B;按钮集成动态字段。
+在[!DNL Sales Connect]中创建模板时，我们始终建议使用&#x200B;**[!UICONTROL MSE Dynamic Fields]**&#x200B;按钮集成动态字段。
 
-此工具用于`auto-personalize your email`，并由`pulling information from the People page`为您节省大量时间。
+此工具用于`auto-personalize your email`，并由`pulling information from the [!UICONTROL People] page`为您节省大量时间。
 
 | 动态字段 | 电子邮件中显示内容示例 |
 |---|---|
@@ -25,10 +25,10 @@ ht-degree: 0%
 | `{{team_unsubscribe}}` | 如果您不想再收到我们的电子邮件，请单击此处 |
 | `{{friendly_unsubscribe}}` | 厌倦了所有的邮件？ 请让我在这里知道 |
 | `{{my_name}}` | 基思·弗林 |
-| `{{my_signature}}` | Keith Flynn，高级技术撰稿人 — Adobe |
+| `{{my_signature}}` | Keith Flynn，Adobe高级技术撰稿人 |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | 高级技术撰稿人 |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | https://www.adobe.com/cn |
 
 **注意事项**：
 

@@ -4,16 +4,16 @@ description: 第1步（共3步） — 在Dynamics中安装Marketo解决方案（
 title: 第1步（共3步） — 在Dynamics中安装Marketo解决方案（2013年内部部署）
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '250'
 ht-degree: 1%
 
 ---
 
-# 第1步（共3步）：在Dynamics中安装Marketo解决方案（2013年内部部署） {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# 第1步（共3步）：在[!DNL Dynamics]中安装Marketo解决方案（2013年内部部署） {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-在同步Microsoft Dynamics内部部署和Marketo Engage之前，您需要先在Dynamics中安装Marketo解决方案。
+在同步[!DNL Microsoft Dynamics]内部部署和Marketo之前，您需要先在[!DNL Dynamics]中安装Marketo解决方案。
 
 >[!NOTE]
 >
@@ -21,17 +21,17 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->必须配置了[Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0、2.1或3.0 (ADFS)的[面向Internet的部署](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD)。 注意：单击该链接时，会自动下载IFD文档。
+>必须配置了[Active Directory联合身份验证服务](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} 2.0、2.1或3.0 (ADFS)的[面向Internet的部署](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} (IFD)。 注意：单击该链接时，会自动下载IFD文档。
 >
 >[在开始之前，请下载Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。
 
 >[!NOTE]
 >
->**需要Dynamics管理员权限**。
+>需要&#x200B;**[!DNL Dynamics]管理员权限。**
 >
 >您需要CRM管理员权限才能执行此同步。
 
-1. 登录Dynamics。 单击&#x200B;**[!UICONTROL Microsoft Dynamics CRM]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Settings]**。
+1. 登录&#x200B;**[!DNL Dynamics]**。 单击&#x200B;**[!UICONTROL Microsoft Dynamics CRM]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
@@ -43,11 +43,11 @@ ht-degree: 1%
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. 单击&#x200B;**[!UICONTROL Browse]**&#x200B;并选择[下载的解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。 单击 **[!UICONTROL Next]**。
+1. 单击&#x200B;**[!UICONTROL Browse]**&#x200B;并选择[下载的解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. 查看解决方案信息并单击&#x200B;**[!UICONTROL View solution package details]**。
+1. 查看[!UICONTROL Solution Information]并单击&#x200B;**[!UICONTROL View solution package details]**。
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -55,7 +55,7 @@ ht-degree: 1%
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. 返回“解决方案信息”页面，单击&#x200B;**[!UICONTROL Next]**。
+1. 返回[!UICONTROL Solution Information]页面，单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 

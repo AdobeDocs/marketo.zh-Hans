@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378814
-description: 帐户列表 — Marketo文档 — 产品文档
-title: 帐户列表
+description: '[!UICONTROL Account Lists] - Marketo文档 — 产品文档'
+title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
-# 帐户列表 {#account-lists}
+# [!UICONTROL Account Lists] {#account-lists}
 
 帐户列表是可一起定位的指定帐户集合。 帐户列表允许您按行业、位置或公司规模定位指定帐户。
 
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中构建智能列表和Web营销活动时，在Marketo Target帐户管理中创建的帐户列表会自动可用。
+>在[!UICONTROL Target Account Management]Web Personalization[中构建智能列表和Web营销活动时，在Marketo ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中创建的帐户列表会自动可用。
 
 ## 创建新的帐户列表 {#create-a-new-account-list}
 
-1. 单击&#x200B;**新建**&#x200B;下拉列表，然后选择&#x200B;**新建帐户列表**。
+1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Create New Account List]**。
 
    ![](assets/1a.png)
 
-1. 为列表命名，然后单击&#x200B;**创建**。
+1. 为列表命名，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/three-0.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 创建新的动态帐户列表 {#create-a-new-dynamic-account-list}
 
-1. 单击&#x200B;**新建**&#x200B;下拉列表，然后选择&#x200B;**新建动态列表**。
+1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Create New Dynamic List]**。
 
    ![](assets/1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/image2017-7-18-9-48-23.png)
 
-1. 单击&#x200B;**创建**。
+1. 单击 **[!UICONTROL Create]**。
 
    ![](assets/step4.jpg)
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 >
 >这些步骤仅适用于帐户列表。 _动态_&#x200B;帐户列表使用其关联的CRM帐户视图的名称。
 
-1. 选择要重命名的帐户，单击&#x200B;**帐户列表操作**&#x200B;下拉列表，然后选择&#x200B;**重命名帐户列表**。
+1. 选择要重命名的帐户，单击&#x200B;**[!UICONTROL Account List Actions]**&#x200B;下拉框并选择&#x200B;**[!UICONTROL Rename Account List]**。
 
    ![](assets/three.png)
 
-1. 输入新名称，然后单击&#x200B;**重命名**。
+1. 输入新名称，然后单击&#x200B;**[!UICONTROL Rename]**。
 
    ![](assets/four.png)
 
@@ -81,15 +81,15 @@ ht-degree: 0%
 >
 >这些步骤对于帐户列表和动态帐户列表均相同。
 
-1. 选择要删除的帐户，单击&#x200B;**帐户列表操作**&#x200B;下拉列表，然后选择&#x200B;**删除帐户列表**。
+1. 选择要删除的帐户，单击&#x200B;**[!UICONTROL Account List Actions]**&#x200B;下拉框并选择&#x200B;**[!UICONTROL Delete Account List]**。
 
    ![](assets/five.png)
 
-1. 单击&#x200B;**删除**。
+1. 单击 **[!UICONTROL Delete]**。
 
    ![](assets/six.png)
 
 >[!MORELIKETHIS]
 >
->* [将现有的命名帐户添加到帐户列表](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [将现有[!UICONTROL Named Account]添加到帐户列表](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [帐户列表分析](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

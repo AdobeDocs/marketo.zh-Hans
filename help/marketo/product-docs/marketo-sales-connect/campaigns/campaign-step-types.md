@@ -4,10 +4,10 @@ description: Campaign步骤类型 — Marketo文档 — 产品文档
 title: 营销活动步骤类型
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >了解有关[发送选项](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)的详细信息。
 
-## 调用 {#call}
+## 号召 {#call}
 
 设置提醒，以通过电话跟进联系人。 您还可以保存笔记，以便在通话期间用作通话跟踪。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## InMail {#inmail}
 
-在多个渠道上跟进是联系潜在客户的好方法。 通过InMail任务，您可以设置提醒以通过LinkedIn联系。
+在多个渠道上跟进是联系潜在客户的好方法。 使用InMail任务，您可以设置提醒以通过[!DNL LinkedIn]联系。
 
 ![](assets/inmail.png)
 

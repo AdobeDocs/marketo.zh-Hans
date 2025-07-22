@@ -4,28 +4,28 @@ description: 取消批准预测内容的标题 — Marketo文档 — 产品文�
 title: 取消批准预测内容的标题
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# 取消批准预测内容的标题 {#unapprove-a-title-for-predictive-content}
+# 取消批准[!UICONTROL Predictive Content]的标题 {#unapprove-a-title-for-predictive-content}
 
-您可以在“所有内容”页面或“编辑内容”弹出窗口中取消批准预测内容的任何标题。
+您可以在[!UICONTROL All Content]页面或[!UICONTROL Edit Content]弹出窗口中取消批准预测内容的任何标题。
 
-## 所有内容页面 {#all-content-page}
+## [!UICONTROL All Content]页 {#all-content-page}
 
-1. 在“所有内容”页面上，选中内容块旁边的框以将其选中。
+1. 在[!UICONTROL All Content]页面上，选中内容旁边的框以将其选中。
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. 单击&#x200B;**内容操作**&#x200B;下拉列表，然后选择&#x200B;**取消批准预测内容**。
+1. 单击&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Unapprove for Predictive Content]**。
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## 编辑内容弹出窗口 {#edit-content-pop-up}
+## [!UICONTROL Edit Content]弹出窗口 {#edit-content-pop-up}
 
 编辑标题时，您可以取消批准标题。
 
@@ -33,10 +33,10 @@ ht-degree: 0%
 
    ![](assets/click-icon-hand.png)
 
-1. 取消选中&#x200B;**批准预测内容**&#x200B;框，然后单击&#x200B;**保存**。
+1. 取消选中&#x200B;**[!UICONTROL Approve for Predictive Content]**&#x200B;框并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
-无论您使用哪种方法，“所有内容”页面上的批准图标都会消失，并且标题会从“预测内容”页面中消失。
+无论您使用哪种方法，[!UICONTROL All Content]页面上的批准图标都会消失，并且标题会从[!UICONTROL Predictive Content]页面中消失。
 
 ![](assets/unapprove-content-no-icon.png)

@@ -1,45 +1,45 @@
 ---
-description: 断开Salesforce与Sales Insight Actions的连接 — Marketo文档 — 产品文档
-title: 从Sales Insight操作中断开Salesforce
+description: 从销售人员中断开Salesforce连接Insight操作 — Marketo文档 — 产品文档
+title: 断开Salesforce与Sales Insight操作的连接
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# 从Sales Insight操作中断开Salesforce {#disconnect-salesforce-from-sales-insight-actions}
+# 断开[!DNL Salesforce]与[!DNL Sales Insight Actions]的连接 {#disconnect-salesforce-from-sales-insight-actions}
 
-有时您可能需要将Salesforce帐户与Sales Insight Actions帐户断开连接。 具体方法如下。
+有时您可能需要断开[!DNL Salesforce]帐户与[!DNL Sales Insight Actions]帐户的连接。 具体方法如下。
 
-## 如何以管理员身份与Salesforce断开连接 {#how-to-disconnect-from-salesforce-as-an-admin}
+## 如何以管理员身份断开与[!UICONTROL Salesforce]的连接 {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. 在Sales Insight Actions中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
+1. 在[!DNL Sales Insight Actions]中，单击右上角的齿轮图标，然后选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
-1. 在“管理员设置”下，单击&#x200B;**Salesforce**。
+1. 在[!UICONTROL Admin Settings]下，单击&#x200B;**[!UICONTROL Salesforce]**。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. 在“连接和自定义项”选项卡中，单击&#x200B;**断开连接**。
+1. 在[!UICONTROL Connections & Customizations]选项卡中，单击&#x200B;**[!UICONTROL Disconnect]**。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
-## 如何以非管理员身份从Salesforce断开连接 {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## 如何以非管理员身份断开与[!DNL Salesforce]的连接 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. 在Sales Insight Actions中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
+1. 在[!DNL Sales Insight Actions]中，单击右上角的齿轮图标，然后选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
-1. 在我的帐户下，选择&#x200B;**Salesforce**。
+1. 在[!UICONTROL My Account]下，选择&#x200B;**[!UICONTROL Salesforce]**。
 
 PICC
 
-1. 在“连接和自定义项”选项卡中，单击&#x200B;**断开连接**。
+1. 在[!UICONTROL Connections & Customizations]选项卡中，单击&#x200B;**[!UICONTROL Disconnect]**。
 
 PICC

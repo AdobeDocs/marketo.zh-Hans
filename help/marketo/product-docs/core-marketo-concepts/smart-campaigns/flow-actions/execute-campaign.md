@@ -3,9 +3,9 @@ description: 执行Campaign - Marketo文档 — 产品文档
 title: 执行营销活动
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '692'
 ht-degree: 0%
 
 ---
@@ -32,17 +32,17 @@ ht-degree: 0%
 
 ## 如何创建可执行活动 {#how-to-create-an-executable-campaign}
 
-1. 右键单击所需的程序，然后选择&#x200B;**[!UICONTROL 新建Smart Campaign]**。
+1. 右键单击所需的程序并选择&#x200B;**[!UICONTROL New Smart Campaign]**。
 
    ![](assets/execute-campaign-1.png)
 
-1. 为其命名，选中“**[!UICONTROL 可执行文件]**”复选框，然后单击“**[!UICONTROL 创建]**”。
+1. 为其命名，选中&#x200B;**[!UICONTROL Executable]**&#x200B;复选框，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/execute-campaign-2.png)
 
 1. 与任何其他智能营销活动一样，定义智能列表和流量。
 
-您还可以克隆现有的Smart Campaign。 如果克隆现有的可执行文件营销活动，则仍必须在将其命名后选中&#x200B;**[!UICONTROL 可执行文件]**&#x200B;复选框。
+您还可以克隆现有的Smart Campaign。 如果克隆现有的可执行文件营销活动，则仍需在命名该营销活动后选中&#x200B;**[!UICONTROL Executable]**&#x200B;复选框。
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **API交互**
 
-在API[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)中使用计划或请求营销活动时，两者都允许您传递“我的令牌”的值，这会覆盖在调用营销活动中为这些令牌设置的值。 如果该营销活动随后执行另一个营销活动并设置“使用父上下文设置为True”，则它将使用通过API传递的值，而不是在应用程序中设置的值。
+在API[中使用计划或请求营销活动](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)时，两者都允许您传递“我的令牌”的值，这会覆盖在调用营销活动中为这些令牌设置的值。 如果该营销活动随后执行另一个营销活动并设置“使用父上下文设置为True”，则它将使用通过API传递的值，而不是在应用程序中设置的值。
 
 ## 注意事项 {#things-to-note}
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 ## 令牌继承示例 {#token-inheritance-example}
 
-下面是一个可执行营销活动和两个父营销活动中的令牌继承的可视示例：一个活动的令牌上下文设置为&#x200B;**[!UICONTROL True]**，另一个设置为&#x200B;**[!UICONTROL False]**。
+下面是一个可执行营销活动和两个父营销活动中的令牌继承的可视示例：一个将令牌上下文设置为&#x200B;**[!UICONTROL True]**，另一个设置为&#x200B;**[!UICONTROL False]**。
 
 具有标记化更改分数的子营销活动。
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 ### 示例1 - True {#example-one-true}
 
-在第一个父营销活动的执行营销活动流程步骤中，“使用父营销活动令牌上下文”设置为&#x200B;**True**。
+在第一个父营销活动的执行营销活动流程步骤中，“[!UICONTROL Use Parent Campaign Token Context]”设置为&#x200B;**[!UICONTROL True]**。
 
 ![](assets/execute-campaign-5.png)
 

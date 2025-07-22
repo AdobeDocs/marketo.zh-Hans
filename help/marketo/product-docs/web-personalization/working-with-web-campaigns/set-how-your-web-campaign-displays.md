@@ -4,9 +4,9 @@ description: 设置Web营销活动的显示方式 — Marketo文档 — 产品�
 title: 设置Web营销活动的显示方式
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -25,36 +25,36 @@ ht-degree: 0%
 
 为Web营销活动指定在您的网站上做出反应的时间延迟（以总秒为单位）。
 
-1. 单击&#x200B;**显示日期**&#x200B;下拉菜单并选择&#x200B;**延迟**。
+1. 单击&#x200B;**[!UICONTROL Display On]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Delay]**。
 
    ![](assets/d1.png)
 
-1. 单击&#x200B;**等待**&#x200B;下拉列表并选择所需的时间。
+1. 单击&#x200B;**[!UICONTROL Wait]**&#x200B;下拉列表并选择所需的时间。
 
    ![](assets/d2.png)
 
 ## 滚动 {#scroll}
 
-1. 单击&#x200B;**显示日期**&#x200B;下拉菜单并选择&#x200B;**滚动**。
+1. 单击&#x200B;**[!UICONTROL Display On]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Scroll]**。
 
    ![](assets/s1.png)
 
-1. 单击&#x200B;**时间**&#x200B;下拉列表，然后选择您希望显示网络营销活动的时间。
+1. 单击&#x200B;**[!UICONTROL When]**&#x200B;下拉列表，然后选择您希望何时显示Web营销活动。
 
    ![](assets/s2.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>下折</strong></td> 
+   <td><strong>[!UICONTROL Below fold]</strong></td> 
    <td>当访客在折页下方滚动时显示促销活动。 当访客回滚到折页上方时，营销活动消失。</td> 
   </tr> 
   <tr> 
-   <td><strong>百分比</strong></td> 
+   <td><strong>[!UICONTROL Percent]</strong></td> 
    <td>在访客滚动到页面的预定百分比时显示促销活动。</td> 
   </tr> 
   <tr> 
-   <td><strong>像素</strong></td> 
+   <td><strong>[!UICONTROL Pixel]</strong></td> 
    <td><p>当访客滚动到页面上预先指定的顶级像素时显示促销活动。</p></td> 
   </tr> 
  </tbody> 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
 退出意图将在鼠标光标退出浏览器时显示Web营销活动。
 
-1. 单击&#x200B;**显示于**&#x200B;下拉列表，然后选择&#x200B;**退出意图**。
+1. 单击&#x200B;**[!UICONTROL Display On]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Exit Intent]**。
 
    ![](assets/ei1.png)
 
-1. 此时将显示一条消息，提醒您退出意图与移动设备不兼容。
+1. 出现一则消息，提醒您[!UICONTROL Exit Intent]与移动设备不兼容。
 
    ![](assets/ei2.png)
 

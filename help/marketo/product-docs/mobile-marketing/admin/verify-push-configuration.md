@@ -4,10 +4,10 @@ description: 验证推送配置 — Marketo文档 — 产品文档
 title: 验证推送配置
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 验证推送配置，确保正确地同步所有内容。
 
-1. 单击&#x200B;**管理员**。
+1. 单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 选择&#x200B;**移动设备应用程序**。
+1. 选择 **[!UICONTROL Mobile Apps]**。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 单击&#x200B;**移动应用操作**&#x200B;并选择&#x200B;**验证推送配置**。
+1. 单击&#x200B;**[!UICONTROL Mobile App Actions]**&#x200B;并选择&#x200B;**[!UICONTROL Verify Push Configuration]**。
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. 确认所需的平台已读取验证，然后单击&#x200B;**关闭**。
+1. 确认所需的平台已读取验证，然后单击&#x200B;**[!UICONTROL Close]**。
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 

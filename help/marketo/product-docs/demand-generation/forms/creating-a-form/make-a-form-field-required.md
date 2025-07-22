@@ -4,10 +4,10 @@ description: 将表单字段设为必填 — Marketo文档 — 产品文档
 title: 将表单字段设为必填
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 2%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 向[表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)添加字段时，您可能希望填写这些字段的人员需要填写其中的一些字段。 具体方法如下。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 选择您的表单并单击&#x200B;**编辑表单**。
+1. 选择您的表单并单击&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/editform-2.png)
 
-1. 选择要使其成为必填的字段，并选中“必填”。
+1. 选择要使其成为必填的字段并选中&#x200B;**[!UICONTROL Is Required]**。
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. 做得好！ 单击&#x200B;**完成**。
+1. 做得好！ 单击 **[!UICONTROL Finish]**。
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. 单击&#x200B;**批准并关闭**。
+1. 单击 **[!UICONTROL Approve and Close]**。
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 

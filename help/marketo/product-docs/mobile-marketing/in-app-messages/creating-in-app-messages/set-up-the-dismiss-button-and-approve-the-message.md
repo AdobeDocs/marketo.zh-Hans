@@ -4,9 +4,9 @@ description: 设置取消按钮并批准消息 — Marketo文档 — 产品文�
 title: 设置解除按钮并批准消息
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-10-3a23-3a37.png)
 
-1. 如果要更改按钮颜色，请单击颜色选择方框。 通过单击颜色，或在拾色器上输入十六进制或RGB号来选择颜色。 黑色是默认选项。
+1. 如果要更改按钮颜色，请单击颜色选择方框。 通过单击颜色或在拾色器上输入十六进制或RGB数字来选择颜色。 黑色是默认选项。
 
    ![](assets/image2016-5-9-10-3a33-3a17.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 已自动保存图形、文本和按钮的所有选择。 现在，您已准备好完成此工作。
 
-1. 要预览应用程序内消息，请单击&#x200B;**消息操作**&#x200B;下拉列表，然后选择&#x200B;**预览**。
+1. 要预览应用程序内消息，请单击&#x200B;**[!UICONTROL Message Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Preview]**。
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. 如果您对应用程序内消息感到满意，请单击&#x200B;**批准并关闭**。
+1. 如果您对应用程序内消息感到满意，请单击&#x200B;**[!UICONTROL Approve & Close]**。
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >您也可以直接从“消息操作”下拉列表中选择&#x200B;**批准并关闭**（请参阅步骤1），但为安全起见，为什么不先预览消息？
+   >您也可以直接从&#x200B;**[!UICONTROL Approve & Close]**&#x200B;下拉列表中选择[!UICONTROL Message Actions]（请参阅步骤1），但为安全起见，为什么不先预览邮件？
 
 1. 要在不批准的情况下关闭编辑器，只需关闭选项卡。 它会自动保存，以便您稍后可以返回并批准。
 

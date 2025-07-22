@@ -4,9 +4,9 @@ description: 选择表单主题 — Marketo文档 — 产品文档
 title: 选择表单主题
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 我们为你的表格做了很多好主题。 你最喜欢哪个？
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择您的表单并单击&#x200B;**编辑表单**。
+1. 选择您的表单并单击&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/editform.png)
 
-1. 转到&#x200B;**表单设置**。
+1. 转到&#x200B;**[!UICONTROL Form Settings]**。
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. 来回切换以选择您喜欢的&#x200B;**表单主题**。
+1. 来回切换以选择您喜欢的&#x200B;**[!UICONTROL Form Theme]**。
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    * 简单
    * 内缩
    * 发光
-   * Round
+   * 轮次
    * 深色
    * 阴影
    * Plain
@@ -45,11 +45,11 @@ ht-degree: 0%
    >
    >您也可以[编辑表单主题的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)。
 
-1. 单击&#x200B;**下一步**&#x200B;以配置其他表单选项，或者如果只想更改表单主题，请单击&#x200B;**完成**。
+1. 单击&#x200B;**[!UICONTROL Next]**&#x200B;以配置其他表单选项，或者如果只想更改表单主题，请单击&#x200B;**[!UICONTROL Finish]**。
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
-这太简单了?!您可以让您的HTML/CSS书籍现在收集一些灰尘。
+这太简单了?!您可以让HTML/CSS书籍现在收集一些灰尘。
 
 >[!MORELIKETHIS]
 >

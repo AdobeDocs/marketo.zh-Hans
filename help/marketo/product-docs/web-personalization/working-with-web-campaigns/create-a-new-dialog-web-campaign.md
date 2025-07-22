@@ -4,9 +4,9 @@ description: 新建Dialog Web营销活动 — Marketo文档 — 产品文档
 title: 新建Dialog Web营销活动
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 创建Web营销活动以实时个性化您的Web内容，并在适当的时间向适当的用户提供适当的消息。
 
-Web营销活动是与特定区段关联的自定义反应。 响应可以是您网站上的对话框、区域替换[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、[构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或电子邮件警报。
+Web营销活动是与特定区段关联的自定义反应。 响应可以是您网站上的对话框、区域替换[中的](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、[构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或电子邮件警报。
 
-1. 转到&#x200B;**网络营销活动**。
+1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. 选择&#x200B;**新建Web营销活动**。
+1. 选择 **[!UICONTROL Create New Web Campaign]**。
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. 选择&#x200B;**Dialog** Web营销活动类型。 在编辑器中设计和添加您的创意。 单击&#x200B;**预览**&#x200B;查看Web营销活动在您的网站上将如何反应。
+1. 选择&#x200B;**[!UICONTROL Dialog]** Web营销活动类型。 在编辑器中设计和添加您的创意。 单击&#x200B;**[!UICONTROL Preview]**&#x200B;查看Web营销活动在您的网站上将如何反应。
 
    ![](assets/new-3.png)
 
@@ -132,7 +132,7 @@ Web营销活动是与特定区段关联的自定义反应。 响应可以是您�
 
 ## 编辑Web活动 {#edit-a-web-campaign}
 
-1. 从&#x200B;**Web营销活动**&#x200B;页面，单击Web营销活动上的&#x200B;**编辑**。
+1. 从&#x200B;**[!UICONTROL Web Campaigns]**&#x200B;页面，单击Web营销活动上的&#x200B;**[!UICONTROL Edit]**。
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -142,7 +142,7 @@ Web营销活动是与特定区段关联的自定义反应。 响应可以是您�
 
 ## 预览Web活动 {#preview-a-web-campaign}
 
-1. 从&#x200B;**Web营销活动**&#x200B;页面，单击要查看的Web营销活动上的&#x200B;**预览**。
+1. 从&#x200B;**[!UICONTROL Web Campaigns]**&#x200B;页面，单击要查看的Web营销活动上的&#x200B;**[!UICONTROL Preview]**。
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -152,7 +152,7 @@ Web营销活动是与特定区段关联的自定义反应。 响应可以是您�
 
 ## 删除Web活动 {#delete-a-web-campaign}
 
-1. 在&#x200B;**Web营销活动**&#x200B;页面中，单击要删除的Web营销活动上的&#x200B;**删除**。
+1. 在&#x200B;**[!UICONTROL Web Campaigns]**&#x200B;页面中，单击要删除的Web营销活动上的&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

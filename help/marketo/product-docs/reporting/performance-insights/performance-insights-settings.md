@@ -4,14 +4,14 @@ description: 性能分析设置 — Marketo文档 — 产品文档
 title: 性能分析设置
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-# 性能分析设置 {#performance-insights-settings}
+# [!UICONTROL Performance Insights]设置 {#performance-insights-settings}
 
 了解MPI中的不同设置选项。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 查看项目成功与否依据 {#view-program-success-by}
 
-**参与仪表板 — 贡献和趋势**
+**[!UICONTROL Engagement]仪表板 — 贡献和趋势**
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 上一时段配置 {#previous-period-configuration}
 
-**参与度、管道、收入仪表板 — 仅贡献**
+**[!UICONTROL Engagement]、[!UICONTROL Pipeline]、[!UICONTROL Revenue]仪表板 — 仅贡献**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 受营销影响的机会 {#marketing-influenced-opportunities}
 
-**管道仪表板 — 贡献和趋势**
+**[!UICONTROL Pipeline]仪表板 — 贡献和趋势**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-**收入信息板 — 贡献和趋势**
+**[!UICONTROL Revenue]仪表板 — 贡献和趋势**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 ## 成本计算 {#cost-calculation}
 
-**管道和收入仪表板 — 贡献和趋势**
+**[!UICONTROL Pipeline]和[!UICONTROL Revenue]仪表板 — 贡献和趋势**
 
 <table> 
  <tbody> 

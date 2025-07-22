@@ -4,9 +4,9 @@ description: 创建新的事件程序 — Marketo文档 — 产品文档
 title: 创建新的事件程序
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 事件允许您自动执行在线和离线事件！ 捕获您的人员在不同阶段进展时的状态，并准确衡量您的营销计划的ROI。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
-1. 为新项目选择文件夹。 选择&#x200B;**新建**，然后单击&#x200B;**新建程序**。
+1. 为新项目选择文件夹。 选择&#x200B;**[!UICONTROL New]**&#x200B;并单击&#x200B;**[!UICONTROL New Program]**。
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. 为您的事件选择一个名称。 然后，在&#x200B;**项目类型**&#x200B;下，选择&#x200B;**事件**。
+1. 为您的事件选择一个名称。 然后在&#x200B;**[!UICONTROL Program Type]**&#x200B;下，选择&#x200B;**[!UICONTROL Event]**。
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. 选择&#x200B;**渠道**。
+1. 选择&#x200B;**[!UICONTROL Channel]**。
 
    >[!NOTE]
    >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. 单击&#x200B;**创建**。
+1. 单击 **[!UICONTROL Create]**。
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. 要计划您的活动，请选择&#x200B;**计划视图**，然后在日历中单击它以打开弹出窗口。 输入日期和时间。
+1. 要计划您的活动，请选择&#x200B;**[!UICONTROL Schedule View]**&#x200B;并在日历中单击它以打开弹出窗口。 输入日期和时间。
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. 完成后，将栏滑动到&#x200B;**已确认**。
+1. 完成后，将栏滑动到&#x200B;**[!UICONTROL Confirmed]**。
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 

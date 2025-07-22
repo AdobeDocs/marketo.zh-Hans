@@ -4,10 +4,10 @@ description: 配置Opportunity Influence Analyzer - Marketo文档 — 产品文�
 title: 配置Opportunity Influence Analyzer
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 0%
+source-wordcount: '152'
+ht-degree: 1%
 
 ---
 
@@ -19,29 +19,29 @@ ht-degree: 0%
 >
 >[创建机会影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. 单击&#x200B;**分析**。
+1. 单击 **[!UICONTROL Analytics]**。
 
    ![](assets/login-to-analytics.png)
 
-1. 转到Analytics并选择您的Opportunity Influence Analyzer。
+1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;并选择您的Opportunity Influence Analyzer。
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   如果分析器图形中有太多有趣的时刻，您可以通过取消选择&#x200B;**设置**&#x200B;面板中的人员或减少有趣时刻的类型来减少它们。
+   如果分析器图形中有太多有趣的时刻，您可以通过取消选择&#x200B;**[!UICONTROL Settings]**&#x200B;面板中的人员或减少有趣时刻的类型来减少它们。
 
-1. 要配置要包含哪些类型的有趣时刻，请转到“设置”选项卡，然后拖入“有趣时刻”过滤器。
+1. 要配置要包含哪些类型的有趣时刻，请转到&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡并拖入&#x200B;**[!UICONTROL Interesting Moments]**&#x200B;筛选器。
 
    ![](assets/image2014-9-17-12-3a29-3a10.png)
 
-1. 选择是显示“全部”、“无”还是“部分”。
+1. 选择显示&#x200B;**[!UICONTROL All]**、**[!UICONTROL None]**&#x200B;还是&#x200B;**[!UICONTROL Some]**。
 
    ![](assets/image2014-9-17-12-3a29-3a18.png)
 
-1. 如果选择“部分”，则可以选择要包括的类型。
+1. 如果选择&#x200B;**[!UICONTROL Some]**，则可以选择要包含的类型。
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. 单击您想要的每种有趣时刻。 然后单击&#x200B;**保存**。
+1. 单击您想要的每种有趣时刻。 接着，单击 **[!UICONTROL Save]**。
 
 1. 单击主选项卡可查看仅包含所选兴趣时刻类型的商机的历史记录。
 

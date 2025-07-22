@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360020
-description: 将报表导出到Excel - Marketo文档 — 产品文档
-title: 将报表导出到Excel
+description: 将报表导出到 [!DNL Excel] - Marketo文档 — 产品文档
+title: 将报告导出到 [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# 将报表导出到Excel {#export-a-report-to-excel}
+# 将报告导出到[!DNL Excel] {#export-a-report-to-excel}
 
-您可以将任何报表导出到Excel文件，以便在其他软件中处理数据。
+您可以将任何报告导出到[!DNL Excel]文件，以在其他软件中处理数据。
 
-1. 转到&#x200B;**营销活动**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. 从导航树中选择您的报告，然后单击&#x200B;**报告**&#x200B;选项卡。
+1. 从导航树中选择您的报告，然后单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. 单击&#x200B;**导出**&#x200B;按钮。
+1. 单击&#x200B;**[!UICONTROL Export]**&#x200B;按钮。
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   仅此而已！ 浏览器会提示您将Excel文件保存到系统中。
+   仅此而已！ 您的浏览器提示您将[!DNL Excel]文件保存到您的系统。
 
    >[!MORELIKETHIS]
    >

@@ -4,20 +4,20 @@ description: 安装适用于Microsoft Dynamics 2015的Marketo本地步骤2/3 - M
 title: 安装适用于Microsoft Dynamics 2015的Marketo本地步骤2/3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '341'
 ht-degree: 1%
 
 ---
 
-# 步骤3之2：设置Marketo for Dynamics（2015内部部署）{#step-of-set-up-for-marketo-on-premises-2015}
+# 步骤3之2为[!DNL Dynamics]设置Marketo（2015年内部部署）{#step-of-set-up-for-marketo-on-premises-2015}
 
 出色完成了前面的步骤。 让我们继续讨论这个问题。
 
 >[!PREREQUISITES]
 >
->[安装适用于Microsoft Dynamics 2015的Marketo本地步骤1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
+>[安装Marketo for [!DNL Microsoft Dynamics] 2015本地步骤1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 
 ## 分配同步用户角色 {#assign-sync-user-role}
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->这适用于Marketo版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅[升级MarketoMicrosoft Dynamics解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}。
+>这适用于Marketo版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅[升级 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)的Marketo解决方案。
 
 >[!IMPORTANT]
 >
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    ![](assets/assign4.png)
 
-1. 检查Marketo同步用户并单击&#x200B;**[!UICONTROL OK]**。
+1. 检查[!UICONTROL Marketo Sync User]并单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/assign5.png)
 
@@ -57,7 +57,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >如果未看到该角色，请返回3[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}的步骤1并导入解决方案。
+   >如果未看到该角色，请返回3[的](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}步骤1并导入解决方案。
 
    >[!NOTE]
    >
@@ -97,10 +97,10 @@ ht-degree: 1%
 
 ## 在继续执行步骤3之前 {#before-proceeding-to-step}
 
-* 如果要限制同步记录数，请立即[设置自定义同步筛选器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}。
-* 运行[验证Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}进程。 它验证初始设置是否正确完成。
-* 登录到Microsoft Dynamics CRM中的Marketo同步用户。
+* 如果要限制同步记录数，请立即[设置自定义同步筛选器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
+* 运行[验证 [!DNL Microsoft Dynamics] 同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)进程。 它验证初始设置是否正确完成。
+* 登录到[!DNL Microsoft Dynamics] CRM中的Marketo同步用户。
 
 >[!MORELIKETHIS]
 >
->[安装适用于Microsoft Dynamics 2015的Marketo本地步骤3/ 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md){target="_blank"}
+>[安装Marketo for [!DNL Microsoft Dynamics] 2015本地步骤3/ 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)

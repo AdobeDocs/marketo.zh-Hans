@@ -4,9 +4,9 @@ description: 重命名字段 — Marketo文档 — 产品文档
 title: 重命名字段
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/rename-a-field-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/rename-a-field-2.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >单击&#x200B;**[!UICONTROL 使用者]**&#x200B;链接查找引用此字段的资源。
+   >单击&#x200B;**[!UICONTROL Used By]**&#x200B;链接可查找引用此字段的资源。
 
-1. 重命名该字段并单击&#x200B;**[!UICONTROL 保存]**。
+1. 重命名该字段并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/rename-a-field-4.png)
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果您在Salesforce中重命名API名称，Marketo将创建一个全新的字段并保留旧字段！
+>如果您在[!DNL Salesforce]中重命名API名称，Marketo将创建一个全新的字段并将旧字段留下！

@@ -4,10 +4,10 @@ description: 冠军/挑战者 — 定义冠军标准 — Marketo文档 — 产�
 title: 冠军/挑战者 — 定义冠军标准
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 ## 标准冠军标准 {#standard-champion-criteria}
 
-1. 选择一个可用的&#x200B;**冠军标准**。
+1. 选择一个可用的&#x200B;**[!UICONTROL Champion Criteria]**。
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 自定义冠军标准 {#custom-champion-criteria}
 
-1. 如果您想变得花哨，可以通过选择&#x200B;**自定义转化**&#x200B;并单击&#x200B;**编辑**&#x200B;进行自定义。
+1. 如果您想获得精彩，可以通过选择&#x200B;**[!UICONTROL Custom Conversion Ratio]**&#x200B;并单击&#x200B;**[!UICONTROL Edit]**&#x200B;进行自定义。
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -49,9 +49,9 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo仅允许已从此电子邮件程序发送电子邮件的用户使用触发器。 无需添加“已发送电子邮件”过滤器。
+   Marketo仅允许已从此电子邮件程序发送电子邮件的用户使用触发器。 无需添加“[!UICONTROL Was Sent Email]”筛选器。
 
-1. 单击&#x200B;**关闭**。
+1. 单击 **[!UICONTROL Close]**。
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

@@ -3,9 +3,9 @@ description: 创建团队 — Marketo文档 — 产品文档
 title: 创建团队
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ ht-degree: 0%
 
 ## 创建团队 {#create-a-team}
 
-1. 在[Web应用程序](https://toutapp.com/login)中，单击齿轮图标并选择&#x200B;**设置**。
+1. 在[Web应用程序](https://toutapp.com/login)中，单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/creating-a-team-1.png)
 
-1. 在“管理设置”下，选择&#x200B;**团队管理**。
+1. 在[!UICONTROL Admin Settings]下，选择&#x200B;**[!UICONTROL Team Management]**。
 
    ![](assets/creating-a-team-2.png)
 
-1. 单击“团队”旁边的&#x200B;**+**&#x200B;图标。
+1. 在[!UICONTROL Teams]旁边，单击&#x200B;**+**&#x200B;图标。
 
    ![](assets/creating-a-team-3.png)
 
-1. 输入团队名称，然后单击&#x200B;**创建**。
+1. 输入团队名称并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/creating-a-team-4.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 将人员添加到团队 {#add-people-to-a-team}
 
-1. 仍在团队管理中，选择&#x200B;**所有成员**。
+1. 仍在[!UICONTROL Team Management]中，选择&#x200B;**[!UICONTROL All Members]**。
 
    ![](assets/creating-a-team-5.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/creating-a-team-6.png)
 
-1. 单击&#x200B;**添加到团队**。
+1. 单击 **[!UICONTROL Add to Teams]**。
 
    ![](assets/creating-a-team-7.png)
 
@@ -54,6 +54,6 @@ ht-degree: 0%
 
    ![](assets/creating-a-team-8.png)
 
-1. 完成后单击&#x200B;**添加**。
+1. 完成后单击&#x200B;**[!UICONTROL Add]**。
 
    ![](assets/creating-a-team-9.png)

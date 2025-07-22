@@ -4,16 +4,16 @@ description: 分析功能板功能概述 — Marketo文档 — 产品文档
 title: 分析功能板功能概述
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1473'
 ht-degree: 0%
 
 ---
 
 # 分析功能板功能概述 {#insights-dashboard-feature-overview}
 
-详细了解Sales Insights仪表板中可用的功能。
+详细了解[!DNL Sales Insights]仪表板中可用的功能。
 
 >[!PREREQUISITES]
 >
@@ -26,7 +26,7 @@ ht-degree: 0%
 **参与Velocity网格**
 
 * 此智能网格包含过去90天中的“有趣时刻”、“电子邮件”和“Web活动”
-* 用户可以选择“显示帐户”活动，这将把所有帐户级别的“有趣时刻”、“电子邮件”和“Web活动”都叠加在联系人视图中
+* 用户可以选择“[!UICONTROL Show Account]”活动，这会将所有帐户级别的“有趣时刻”、电子邮件和Web活动分层到联系人视图中
 * 用户可以突出显示特定的一周，以查看该周内的活动
 * 默认视图：选择本周
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 * 不特定于联系人/潜在客户(即，营销活动列表是在Marketo实例中计划的所有电子邮件营销活动的通用列表)。 所有潜在客户、联系人、客户和机会面板中的促销活动列表将相同
 * 如果促销活动循环设置为在接下来的90天内运行超过三次，则只会在任何给定时间点显示接下来的三次运行(与Marketo中的行为类似)
 * 此部分中的活动详细信息卡将具有预览选项。 如果流程包含多个发送电子邮件步骤，则所有电子邮件都可供预览。 在发送电子邮件流程步骤中，如果有多个“电子邮件选择”，则默认选项将可供预览
-* 过滤器包括“搜索”和“日期范围”
+* 筛选器包括&quot;[!UICONTROL Search]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 ![](assets/insights-dashboard-feature-overview-2.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 * 选择受邀事件将显示邀请特定联系人的事件以及成员状态
 * 选择所有事件将显示未来90天内计划的事件列表
 * 此部分中的活动详细信息卡片具有预览选项
-* 过滤器包括“搜索”、“仅显示受邀事件”和“日期范围”
+* 筛选器包括“[!UICONTROL Search]”、“[!UICONTROL Show only invited events]”和“[!UICONTROL Date Range]”
 
 ![](assets/insights-dashboard-feature-overview-3.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 * 此智能网格包含过去90天中的“有趣时刻”、“电子邮件”和“Web活动”
 * 用户可以突出显示特定的一周，以查看该周内的活动
 * 默认视图：选择本周
-* “显示帐户活动”功能在潜在客户上不可用，因为该功能在转换为联系人之前不属于Salesforce中的任何帐户
+* “[!UICONTROL Show Account Activity]”功能在潜在客户上不可用，因为在它转换为联系人之前，它不是[!DNL Salesforce]中任何帐户的一部分
 
 **参与深入分析和摘要**
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 * 不特定于联系人/潜在客户(即，营销活动列表是在Marketo实例中计划的所有电子邮件营销活动的通用列表)。 所有潜在客户、联系人、客户和机会面板中的促销活动列表将相同
 * 如果促销活动循环设置为在接下来的90天内运行超过三次，则只会在任何给定时间点显示接下来的三次运行(与Marketo中的行为类似)
 * 此部分中的活动详细信息卡将具有预览选项。 如果流程包含多个发送电子邮件步骤，则所有电子邮件都可供预览。 在发送电子邮件流程步骤中，如果有多个“电子邮件选择”，则默认选项将可供预览
-* 过滤器包括“搜索”和“日期范围”
+* 筛选器包括&quot;[!UICONTROL Search]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 ![](assets/insights-dashboard-feature-overview-4.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 * 选择受邀事件将显示邀请特定联系人的事件以及成员状态
 * 选择所有事件将显示未来90天内计划的事件列表
 * 此部分中的活动详细信息卡片具有预览选项
-* 过滤器包括“搜索”、“仅显示受邀事件”和“日期范围”
+* 筛选器包括“[!UICONTROL Search]”、“[!UICONTROL Show only invited events]”和“[!UICONTROL Date Range]”
 
 ![](assets/insights-dashboard-feature-overview-5.png)
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 * 不特定于联系人/潜在客户(即，营销活动列表是在Marketo实例中计划的所有电子邮件营销活动的通用列表)。 所有潜在客户、联系人、客户和机会面板中的促销活动列表将相同
 * 如果促销活动循环设置为在接下来的90天内运行超过三次，则只会在任何给定时间点显示接下来的三次运行(与Marketo中的行为类似)
 * 此部分中的活动详细信息卡将具有预览选项。 如果流程包含多个发送电子邮件步骤，则所有电子邮件都可供预览。 在发送电子邮件流程步骤中，如果有多个“电子邮件选择”，则默认选项将可供预览
-* 过滤器包括“搜索”和“日期范围”
+* 筛选器包括&quot;[!UICONTROL Search]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 “事件”选项卡：
 
@@ -137,7 +137,7 @@ ht-degree: 0%
 * 选择受邀事件将显示邀请特定联系人的事件以及成员状态
 * 选择所有事件将显示未来90天内计划的事件列表
 * 此部分中的活动详细信息卡片具有预览选项
-* 过滤器包括“搜索”、“仅显示受邀事件”和“日期范围”
+* 筛选器包括“[!UICONTROL Search]”、“[!UICONTROL Show only invited events]”和“[!UICONTROL Date Range]”
 
 ## 机会布局 {#opportunity-layout}
 
@@ -162,7 +162,7 @@ ht-degree: 0%
 * 不特定于联系人/潜在客户(即，营销活动列表是在Marketo实例中计划的所有电子邮件营销活动的通用列表)。 所有潜在客户、联系人、客户和机会面板中的促销活动列表将相同
 * 如果促销活动循环设置为在接下来的90天内运行超过三次，则只会在任何给定时间点显示接下来的三次运行(与Marketo中的行为类似)
 * 此部分中的活动详细信息卡将具有预览选项。 如果流程包含多个发送电子邮件步骤，则所有电子邮件都可供预览。 在发送电子邮件流程步骤中，如果有多个“电子邮件选择”，则默认选项将可供预览
-* 过滤器包括“搜索”和“日期范围”
+* 筛选器包括&quot;[!UICONTROL Search]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 “事件”选项卡：
 
@@ -171,8 +171,8 @@ ht-degree: 0%
 * 选择受邀事件将显示邀请特定联系人的事件以及成员状态
 * 选择所有事件将显示未来90天内计划的事件列表
 * 此部分中的活动详细信息卡片具有预览选项
-* 过滤器包括“搜索”、“仅显示受邀事件”和“日期范围”
+* 筛选器包括“[!UICONTROL Search]”、“[!UICONTROL Show only invited events]”和“[!UICONTROL Date Range]”
 
 >[!NOTE]
 >
->如果您的客户或业务机会有800多名联系人，则仪表板不会显示任何数据。 但是，您可以转到各个联系人以查看他们的见解和参与度。 如果您的帐户有超过800名联系人，则将禁用“显示帐户级别活动”。
+>如果您的客户或业务机会有800多名联系人，则仪表板不会显示任何数据。 但是，您可以转到各个联系人以查看他们的见解和参与度。 如果您的帐户具有800个以上的联系人，则将禁用“[!UICONTROL Show Account Level Activity]”。

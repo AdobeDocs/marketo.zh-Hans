@@ -4,18 +4,18 @@ description: 使用Web Personalization富文本编辑器 — Marketo文档 — �
 title: 使用Web Personalization富文本编辑器
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# 使用Web Personalization富文本编辑器 {#using-the-web-personalization-rich-text-editor}
+# 使用[!DNL Web Personalization]富文本编辑器 {#using-the-web-personalization-rich-text-editor}
 
 ![](assets/one.png)
 
-在“设置促销活动”页面中找到的Web Personalization富文本编辑器允许设置文本格式、链接和插入图像。 它包含与标准文字处理器类似的格式化选项。
+在[!DNL Web Personalization]页面中找到的[!UICONTROL Set Campaigns]富文本编辑器允许文本格式、链接和图像插入。 它包含与标准文字处理器类似的格式化选项。
 
 富文本编辑器中的重要图标包括：
 
@@ -23,8 +23,8 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>编辑HTMLSource</strong></td> 
-   <td colspan="1">用于查看HTML源代码</td> 
+   <td colspan="1"><strong>编辑HTML Source</strong></td> 
+   <td colspan="1">允许您查看HTML源代码</td> 
   </tr> 
   <tr> 
    <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Web令牌使用Marketo数据库中的[人员数据](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)，该数据库在Web Personalization中的“帐户设置”>“数据库”下管理。 如果Web令牌是“帐户设置”>“数据库”中尚未包含的新数据库字段，则会自动添加该令牌，并且最多可能需要24小时才能激活。
+>Web令牌使用[中的](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)人员数据[!DNL Marketo Database]，该数据在[!DNL Web Personalization]中的[!UICONTROL Account Settings] > [!UICONTROL Database]下管理。 如果Web令牌是[!UICONTROL Account Settings] > [!UICONTROL Database]中尚未包含的新数据库字段，则将自动添加该令牌，并且最多可能需要24小时才能激活。
 
 >[!MORELIKETHIS]
 >

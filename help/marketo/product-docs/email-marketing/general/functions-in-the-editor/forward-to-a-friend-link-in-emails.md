@@ -4,9 +4,9 @@ description: 在电子邮件中转发到朋友链接 — Marketo文档 — 产�
 title: 在电子邮件中转发到朋友链接
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ## 添加指向电子邮件模板的链接 {#add-the-link-to-an-email-template}
 
-1. 转到&#x200B;**设计工作室**。
+1. 转到&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/one-8.png)
 
-1. 查找并选择要为其添加链接的电子邮件模板。 单击&#x200B;**编辑草稿**。
+1. 查找并选择要为其添加链接的电子邮件模板。 单击 **[!UICONTROL Edit Draft]**。
 
    ![](assets/two-7.png)
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >不建议在电子邮件模板中使用样式&#x200B;**position：relative**。 这可能会导致“转发给朋友”框的位置和显示出现问题。
+   >不建议在电子邮件模板中使用样式为&#x200B;**position:relative**。 这可能会导致“转发给朋友”框的位置和显示出现问题。
 
-1. 单击&#x200B;**预览草稿**，确保模板看起来与您要的一样。
+1. 单击&#x200B;**[!UICONTROL Preview Draft]**&#x200B;以确保模板看起来与您要的一样。
 
    ![](assets/four-5.png)
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
    ![](assets/eight-1.png)
 
-1. 使用Ctrl/Cmd+V将&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;令牌粘贴到&#x200B;**URL**&#x200B;框中，然后单击&#x200B;**插入**。
+1. 使用Ctrl/Cmd+V将&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;令牌粘贴到&#x200B;**URL**&#x200B;框中，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
 您可以在用户的活动日志中查看转发和接收电子邮件的用户。
 
-1. 转到&#x200B;**`Database`**。
+1. 转到&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. 转到&#x200B;**活动日志**&#x200B;选项卡。 双击&#x200B;**已接收转发给好友的电子邮件**&#x200B;或&#x200B;**已转发给好友的电子邮件**&#x200B;以查看详细信息。
+1. 转到&#x200B;**[!UICONTROL Activity Log]**&#x200B;选项卡。 双击&#x200B;**[!UICONTROL Received Forward to Friend Email]**&#x200B;或&#x200B;**[!UICONTROL Sent Forward to Friend Email]**&#x200B;以查看详细信息。
 
    ![](assets/fifteen.png)
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >我们将在即将到来的修补程序中使&#x200B;**人员ID**&#x200B;可点击并直接链接到该人员。
+   >我们将在即将到来的修补程序中将&#x200B;**[!UICONTROL Person ID]**&#x200B;设置为可单击状态并直接链接到用户。
 
    ![](assets/seventeen.png)
 

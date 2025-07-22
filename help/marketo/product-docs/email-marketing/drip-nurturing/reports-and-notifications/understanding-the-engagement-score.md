@@ -4,9 +4,9 @@ description: 了解参与度分数 — Marketo文档 — 产品文档
 title: 了解参与度分数
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![](assets/highestengagementwidget.jpg)
 
-得分基于专有算法，该算法考虑参与行为（打开、点击、程序成功）和脱离参与行为（取消订阅）。 它以滴水和培养风格的电子邮件为基准，平均为50封。 为了给用户一个与您的内容互动的机会，会在每次点播后72小时计算参与度分数。 此外，得分仅涵盖&#x200B;**您最近三次**&#x200B;投射的数据。
+得分基于专有算法，该算法考虑参与行为([!UICONTROL Open]、[!UICONTROL Click]、[!UICONTROL Program Success])和脱离参与行为([!UICONTROL Unsubscribe])。 它以滴水和培养风格的电子邮件为基准，平均为50封。 为了给用户一个与您的内容互动的机会，会在每次点播后72小时计算参与度分数。 此外，得分仅涵盖&#x200B;**您最近三次**&#x200B;投射的数据。
 
 >[!NOTE]
 >

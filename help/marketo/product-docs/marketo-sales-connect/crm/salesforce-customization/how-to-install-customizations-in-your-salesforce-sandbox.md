@@ -4,10 +4,10 @@ description: 如何在Salesforce沙盒中安装自定义项 — Marketo文档 �
 title: 如何在Salesforce沙盒中安装自定义项
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
@@ -21,16 +21,16 @@ ht-degree: 0%
 >
 >[将Sales Connect连接到您的Salesforce沙盒](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. 在Sales Connect中，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
+1. 在[!DNL Sales Connect]中，单击右上角的齿轮图标，然后选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one-3.png)
 
-1. 在“管理员设置”下，单击&#x200B;**Salesforce。**
+1. 在[!UICONTROL Admin Settings]下，单击&#x200B;**[!UICONTROL Salesforce]**。
 
    ![](assets/two-3.png)
 
-1. 单击&#x200B;**安装自定义项**。
+1. 单击 **[!UICONTROL Install Customizations]**。
 
    ![](assets/three-3.png)
 
-   接下来，只需按照在常规Salesforce帐户中安装自定义项的步骤进行操作即可。
+   接下来，只需按照您在常规[!DNL Salesforce]帐户上的操作方式完成安装自定义设置的步骤即可。

@@ -4,9 +4,9 @@ description: 我的动态字段未填写 — Marketo文档 — 产品文档
 title: 我的动态字段未填写
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## 检查内容 {#what-to-check}
 
-Sales Connect中有三种类型的动态字段： Basic 、 Custom和Salesforce。 “基本”和“自定义”都会从[Web应用程序](https://toutapp.com/login)中提取信息。 如果Web应用程序中不存在该信息，则字段将为空白。 Salesforce字段从[Salesforce.com](https://salesforce.com)提取信息。
+[!DNL Sales Connect]中有三种类型的动态字段： Basic、Custom和[!DNL Salesforce]。 “基本”和“自定义”都会从[Web应用程序](https://toutapp.com/login)中提取信息。 如果Web应用程序中不存在该信息，则字段将为空白。 [!DNL Salesforce]字段从[Salesforce.com](https://salesforce.com)提取信息。
 
-**Salesforce字段疑难解答**
+**对[!DNL Salesforce]字段进行故障排除**
 
-Salesforce字段：例如`{{sfdc_account_name}}`
+[!DNL Salesforce]字段：如`{{sfdc_account_name}}`
 
-* 确保正确地将其与Sales Connect连接起来。 转到[设置](https://toutapp.com/login)页面，然后单击CRM旁边的&#x200B;**管理**。
+* 确保正确地将其与[!DNL Sales Connect]挂接。 转到[设置](https://toutapp.com/login)页面，然后单击CRM旁边的&#x200B;**[!UICONTROL Manage]**。
 
 **基本和自定义字段疑难解答**
 
@@ -35,7 +35,7 @@ Tout自定义字段：例如`{{custom_field_favorite_movie}}`
 
 ## 为什么我的电子邮件没有填充所有动态字段就发送了？ {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-如果我们无法在电子邮件中填充您的所有动态字段，则Sales Connect将停止发送您的电子邮件。 **但是**，此规则有一些例外。 某些字段将发送空白，或者，如果我们可以找到某个值，则会自动填充该值。 下面列出了这些字段以及在无法填充该字段时它们将如何响应。
+如果我们无法填充电子邮件中的所有动态字段，[!DNL Sales Connect]将停止发送您的电子邮件。 **但是**，此规则有一些例外。 某些字段将发送空白，或者，如果我们可以找到某个值，则会自动填充该值。 下面列出了这些字段以及在无法填充该字段时它们将如何响应。
 
 `{{first_name}}` =空白
 
@@ -49,4 +49,4 @@ Tout自定义字段：例如`{{custom_field_favorite_movie}}`
 
 >[!NOTE]
 >
->`{{first_name}}`字段将在Sales Connect和Salesforce中查找以尝试提取信息。 此列表中的所有其他字段仅在Sales Connect中查找以填充该字段。
+>`{{first_name}}`字段将同时查看[!DNL Sales Connect]和[!DNL Salesforce]以尝试提取信息。 此列表中的所有其他字段仅在[!DNL Sales Connect]中查找以填充该字段。

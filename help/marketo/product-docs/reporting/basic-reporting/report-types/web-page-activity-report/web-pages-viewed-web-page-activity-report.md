@@ -4,20 +4,20 @@ description: 已查看的网页、网页活动报表 — Marketo文档 — 产�
 title: 已查看的网页、网页活动报表
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # 已查看的网页、网页活动报表 {#web-pages-viewed-web-page-activity-report}
 
-从[网页活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)中，您可以查看该报表中的人员查看的特定页面。
+从[[!UICONTROL Web Page Activity]报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)中，您可以看到人员在该报表中查看的特定页面。
 
 >[!PREREQUISITES]
 >
->若要在Marketo中从您的网站捕获活动，您首先需要在您的网站上[设置Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
+>若要在Marketo中从您的网站捕获活动，您首先需要在您的网站[上 [!DNL Munchkin] 设置](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
 1. 在您的[网页活动报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)中，单击人员的姓名。
 

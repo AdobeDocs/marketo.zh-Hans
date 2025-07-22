@@ -4,9 +4,9 @@ description: 为预测内容活动定义智能列表 — Marketo文档 — 产�
 title: 定义预测内容活动的智能列表
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 在智能营销活动中定义智能列表时，您可以在触发器和过滤器中使用预测内容活动。 您可以为通过[富媒体模板](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)、[内容推荐栏](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)或在[电子邮件](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)中单击预测内容的任何人触发操作。
 
-1. 在智能营销活动中，导航到&#x200B;**智能列表**&#x200B;选项卡。
+1. 在智能营销活动中，导航到&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡。
 
    ![](assets/smart-list-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >具有触发器的智能营销活动在触发器模式下运行。 它根据触发的事件和添加的过滤器，每次只针对一个人运行。
 
-1. 单击&#x200B;**名称**&#x200B;下拉列表并选择运算符。
+1. 单击&#x200B;**[!UICONTROL Name]**&#x200B;下拉列表并选择运算符。
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. 添加&#x200B;**Type**&#x200B;约束。
+1. 添加&#x200B;**[!UICONTROL Type]**&#x200B;约束。
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/pc-add-constraint.png)
 
-1. 如果您将电子邮件源用于预测内容，请在Email **触发器中添加**&#x200B;点击链接。 选择您的电子邮件并添加&#x200B;**Is Predictive**&#x200B;约束，定义为&#x200B;**true**。
+1. 如果您将电子邮件源用于预测内容，请添加&#x200B;**[!UICONTROL Clicks Link in Email]**&#x200B;触发器。 选择您的电子邮件并添加定义为&#x200B;**[!UICONTROL Is Predictive]**&#x200B;的&#x200B;**[!UICONTROL true]**&#x200B;约束。
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 

@@ -4,14 +4,14 @@ description: 将现有的指定帐户添加到帐户列表 — Marketo文档 —
 title: 将现有的指定帐户添加到帐户列表
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# 将现有的指定帐户添加到帐户列表 {#add-an-existing-named-account-to-an-account-list}
+# 将现有[!UICONTROL Named Account]添加到帐户列表 {#add-an-existing-named-account-to-an-account-list}
 
 将指定帐户添加到帐户列表非常简单。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 单击&#x200B;**命名帐户操作**&#x200B;下拉列表，然后选择&#x200B;**添加到帐户列表**。
+1. 单击&#x200B;**[!UICONTROL Named Account Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Add to Account List]**。
 
    ![](assets/five-1.png)
 
-1. 单击&#x200B;**帐户列表**&#x200B;下拉列表，选择所需的帐户列表，然后单击&#x200B;**添加**。
+1. 单击&#x200B;**[!UICONTROL Account List]**&#x200B;下拉列表，选择所需的帐户列表，然后单击&#x200B;**[!UICONTROL Add]**。
 
    ![](assets/six-1.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[创建命名帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[创建[!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

@@ -4,10 +4,10 @@ description: 创建子团队 — Marketo文档 — 产品文档
 title: 创建子团队
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ## 创建子团队 {#create-a-sub-team-1}
 
-1. 单击齿轮图标并选择&#x200B;**设置**。
+1. 单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one-1.png)
 
-1. 在“管理设置”下，选择&#x200B;**团队管理**。
+1. 在[!UICONTROL Admin Settings]下，选择&#x200B;**[!UICONTROL Team Management]**。
 
    ![](assets/two-1.png)
 
-1. 在所有团队旁边，单击&#x200B;**+**。
+1. 在[!UICONTROL All Teams]旁边，单击&#x200B;**+**。
 
    ![](assets/three-1.png)
 
-1. 输入团队名称（和可选描述），然后单击&#x200B;**创建**。
+1. 输入团队名称（和可选描述）并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 将人员添加到您的子团队 {#add-people-to-your-sub-team}
 
-1. 仍在“团队管理”中，选择&#x200B;**所有人**&#x200B;组。
+1. 仍在[!UICONTROL Team Management]中，选择&#x200B;**[!UICONTROL Everyone]**&#x200B;组。
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 单击&#x200B;**将选定项目添加到团队**。
+1. 单击 **[!UICONTROL Add Selected to Teams]**。
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 完成后，单击&#x200B;**添加到团队**。
+1. 完成后单击&#x200B;**[!UICONTROL Add To Teams]**。
 
    ![](assets/nine.png)

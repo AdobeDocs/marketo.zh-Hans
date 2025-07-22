@@ -3,10 +3,10 @@ unique-page-id: 4720779
 description: 了解文件夹 — Marketo文档 — 产品文档
 title: 了解文件夹
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 0%
+source-wordcount: '252'
+ht-degree: 1%
 
 ---
 
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ## 创建文件夹 {#create-a-folder}
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
 
    ![](assets/ma.png)
 
-1. 右键单击项目并选择&#x200B;**[!UICONTROL 新建文件夹]**。
+1. 右键单击项目并选择&#x200B;**[!UICONTROL New Folder]**。
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. 为新文件夹命名，然后按&#x200B;**[!UICONTROL Enter]**。
+1. 命名新文件夹并按&#x200B;**[!UICONTROL Enter]**。
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 你可以改变主意了。
 
-1. 右键单击文件夹，然后选择&#x200B;**[!UICONTROL 重命名文件夹]**。
+1. 右键单击该文件夹并选择&#x200B;**[!UICONTROL Rename Folder]**。
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -48,13 +48,13 @@ ht-degree: 0%
 >
 >在删除文件夹之前，请确保该文件夹为空。
 
-1. 右键单击文件夹，然后选择&#x200B;**[!UICONTROL 删除文件夹]**。
+1. 右键单击该文件夹并选择&#x200B;**[!UICONTROL Delete Folder]**。
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
 ## 存档文件夹 {#archive-a-folder}
 
-在Marketo中，您可以将现有文件夹转换为存档文件夹。 Marketing Activities、Database和Design Studio中存在存档文件夹。
+在Marketo中，您可以将现有文件夹转换为存档文件夹。 存档文件夹存在于[!UICONTROL Marketing Activities]、[!UICONTROL Database]和[!UICONTROL Design Studio]中。
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 

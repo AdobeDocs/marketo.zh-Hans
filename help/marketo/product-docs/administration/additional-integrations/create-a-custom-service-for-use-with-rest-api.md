@@ -4,10 +4,10 @@ description: 创建用于ReST API的自定义服务 — Marketo文档 — 产品
 title: 创建用于ReST API的自定义服务
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 2%
 
 ---
 
@@ -27,23 +27,23 @@ ht-degree: 0%
 
 >[!TIP]
 >
->有关[REST API](https://developer.adobe.com/marketo-apis/)的详细信息，请查看我们的开发人员文档。 如果您需要，我们还有[SOAP API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/soap/soap-api)。
+>有关[REST API](https://developer.adobe.com/marketo-apis/)的详细信息，请查看我们的开发人员文档。 如果您需要，我们还有[SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)。
 
 ## 创建自定义服务 {#create-custom-service}
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. 单击&#x200B;**启动点**。
+1. 单击 **[!UICONTROL LaunchPoint]**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. 选择&#x200B;**[!UICONTROL 新建]**，然后选择&#x200B;**[!UICONTROL 新建服务]**。
+1. 选择&#x200B;**[!UICONTROL New]**，然后选择&#x200B;**[!UICONTROL New Service]**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. 输入服务的&#x200B;**[!UICONTROL 显示名称]**。 选择&#x200B;**[!UICONTROL 仅API用户]** [之前创建的](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。
+1. 输入服务的&#x200B;**[!UICONTROL Display Name]**。 选择&#x200B;**[!UICONTROL API Only User]** [之前创建的](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >请注意，我们已经对常见网络研讨会服务进行了本机集成。
 
-1. 单击&#x200B;**[!UICONTROL 创建]**。
+1. 单击 **[!UICONTROL Create]**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
@@ -59,23 +59,23 @@ ht-degree: 0%
 
 ## 用于访问API的凭据 {#credentials-for-api-access}
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. 单击&#x200B;**[!UICONTROL 启动点]**。
+1. 单击 **[!UICONTROL LaunchPoint]**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. 单击上面创建的自定义[!UICONTROL LaunchPoint]服务的&#x200B;**[!UICONTROL 查看详细信息]**。
+1. 单击上面创建的自定义&#x200B;**[!UICONTROL View Details]**&#x200B;服务的[!UICONTROL LaunchPoint]。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. 单击&#x200B;**[!UICONTROL 获取令牌]**。
+1. 单击 **[!UICONTROL Get Token]**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
 
-1. 向负责建立连接的人提供&#x200B;**[!UICONTROL 客户端ID]**、**[!UICONTROL 客户端密钥]**、**[!UICONTROL 授权用户]**&#x200B;和&#x200B;**[!UICONTROL 令牌]**。
+1. 将&#x200B;**[!UICONTROL Client Id]**、**[!UICONTROL Client Secret]**、**[!UICONTROL Authorized User]**&#x200B;和&#x200B;**[!UICONTROL Token]**&#x200B;提供给负责建立连接的人员。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 

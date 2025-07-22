@@ -3,9 +3,9 @@ description: 本地存在 — Marketo文档 — 产品文档
 title: 本地存在
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![](assets/local-presence-1.png)
 
-1. 选中&#x200B;**使用本地存在**&#x200B;复选框。
+1. 选中&#x200B;**[!UICONTROL Use Local Presence]**&#x200B;复选框。
 
    ![](assets/local-presence-2.png)
 
-## 常见问题 {#faq}
+## 常见问题解答 {#faq}
 
 **我的联系人可以回电给我这个新号码吗？**
 

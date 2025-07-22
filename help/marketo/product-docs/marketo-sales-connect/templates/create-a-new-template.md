@@ -4,23 +4,23 @@ description: 创建新模板 — Marketo文档 — 产品文档
 title: 创建新模板
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # 创建新模板 {#create-a-new-template}
 
-1. 导航到&#x200B;**模板**&#x200B;选项卡，然后单击&#x200B;**创建模板**。
+1. 导航到&#x200B;**[!UICONTROL Templates]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL Create Template]**。
 
-1. 为您的电子邮件模板选择&#x200B;**类别**&#x200B;和&#x200B;**名称**，然后单击&#x200B;**创建**。
+1. 为您的电子邮件模板选择&#x200B;**[!UICONTROL Category]**&#x200B;和&#x200B;**[!UICONTROL Name]**，然后单击&#x200B;**[!UICONTROL Create]**。
 
-1. 在模板编辑器中，为电子邮件创建主题行并键入所需的消息。 使用编辑工具（字体、文本大小等） 定制外观。
+1. 在模板编辑器中，为电子邮件创建主题行并键入所需的消息。 使用编辑工具（字体、文本大小等）自定义外观。
 
-1. 单击&#x200B;**保存**&#x200B;以完成更改。
+1. 单击&#x200B;**[!UICONTROL Save]**&#x200B;以完成更改。
 
 >[!TIP]
 >
->始终在模板中直接键入文本，或从纯文本编辑器（即Notepad或TextEdit）中复制。 从富文本编辑器（即MS Word）复制和粘贴可能会导致格式不规则。
+>始终在模板中直接键入文本，或从纯文本编辑器复制文本（即[!DNL Notepad]或[!DNL TextEdit]）。 从富文本编辑器（即[!DNL MS Word]）复制和粘贴可能会导致格式不规则。

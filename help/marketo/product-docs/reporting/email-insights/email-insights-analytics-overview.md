@@ -4,16 +4,16 @@ description: 电子邮件分析Analytics概述 — Marketo文档 — 产品文�
 title: 电子邮件分析Analytics概述
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
 # 电子邮件分析Analytics概述 {#email-insights-analytics-overview}
 
-在Analytics中，探索用于电子邮件投放和参与度的聚合数据。 使用左侧的图表浏览数据，使用右侧的见解获得更多引导式体验。
+在[!UICONTROL Analytics]中，浏览电子邮件投放和参与活动的聚合数据。 使用左侧的图表浏览数据，使用右侧的见解获得更多引导式体验。
 
 ![](assets/emailanalytics-1.jpg)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->看到右上角的“刷新”了吗？ 如果您看到该窗口，则需要手动单击它以刷新分析模块。 我们仅在您对筛选条件进行了更改以使当前值失效时显示该变量。
+>看到右上角的[!UICONTROL Refresh]了吗？ 如果您看到该窗口，则需要手动单击它以刷新分析模块。 我们仅在您对筛选条件进行了更改以使当前值失效时显示该变量。
 
 您还可以指定您看到的内容（从左到右）：全部、受众、内容和平台。
 

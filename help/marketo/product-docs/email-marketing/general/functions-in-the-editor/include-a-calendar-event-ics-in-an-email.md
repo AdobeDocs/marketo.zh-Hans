@@ -4,10 +4,10 @@ description: 在电子邮件中包含日历事件(.ics)- Marketo文档 — 产�
 title: 在电子邮件中包含日历事件(.ics)
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 2%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 2%
 >
 >[创建日历事件(.ics)文件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. 编辑程序的电子邮件时，单击希望令牌放置的位置，然后单击插入令牌按钮。
+1. 编辑程序的电子邮件时，单击希望令牌指向的位置，然后单击&#x200B;**插入令牌**&#x200B;按钮。
 
 ![](assets/one-6.png)
 
-1. 选择日历文件令牌并单击&#x200B;**插入**。
+1. 选择日历文件令牌并单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/three-5.png)
 

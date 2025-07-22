@@ -3,16 +3,16 @@ description: 批量发送电子邮件选项 — Marketo文档 — 产品文档
 title: 批量发送电子邮件选项
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---
 
 # 批量发送电子邮件选项 {#bulk-emailing-options}
 
-批量发送电子邮件是加快潜在客户参与的有效方法。 Marketo Sales提供两种批量发送电子邮件的方式：**群电子邮件**&#x200B;和&#x200B;**选择并发送**。 群组电子邮件是快速向目标群组发送数百封电子邮件的好方法。 使用选择并发送意味着降低了电子邮件限制，但为用户提供了更多的自定义机会。
+批量发送电子邮件是加快潜在客户参与的有效方法。 [!DNL Marketo Sales]提供两种批量发送电子邮件的方式：**群电子邮件**&#x200B;和&#x200B;**选择并发送**。 群组电子邮件是快速向目标群组发送数百封电子邮件的好方法。 使用选择并发送意味着降低了电子邮件限制，但为用户提供了更多的自定义机会。
 
 **群电子邮件与选择并发送**
 
@@ -37,7 +37,7 @@ ht-degree: 3%
   <tr> 
    <td>群组电子邮件</td> 
    <td>1,000</td> 
-   <td>选择一个组，然后单击“组操作”按钮，或在“至”字段中键入组名。</td> 
+   <td>选择一个组并单击“[!UICONTROL Group Actions]”按钮，或在“收件人”字段中键入组名。</td> 
    <td>是</td> 
    <td>否</td> 
    <td>是</td> 
@@ -45,7 +45,7 @@ ht-degree: 3%
   <tr> 
    <td>选择并发送</td> 
    <td>200</td> 
-   <td>在网格中选择人员，然后单击操作栏中的“通过电子邮件选择”按钮，或在批量电子邮件侧边栏中键入收件人。</td> 
+   <td>选择网格中的人员，然后单击操作栏中的“[!UICONTROL Email Selected]”按钮，或在批量电子邮件侧边栏中键入收件人。</td> 
    <td>是</td> 
    <td>是</td> 
    <td>是</td> 

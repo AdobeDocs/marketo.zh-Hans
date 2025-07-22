@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10093159
 description: 了解Content Analytics - Marketo文档 — 产品文档
-title: 了解内容分析
+title: 了解Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 1%
+source-wordcount: '357'
+ht-degree: 0%
 
 ---
 
-# 了解内容分析 {#understanding-content-analytics}
+# 了解Content Analytics {#understanding-content-analytics}
 
-Content Analytics页面可显示您从网站搜索到的现有内容（案例研究、博客文章、视频、新闻稿等）。 它还会显示内容的性能以及访客参与这些内容时生成的用户。
+Content Analytics页面会显示您从网站搜索到的现有内容（案例研究、博客文章、视频、新闻稿等）。 它还会显示内容的性能以及访客参与这些内容时生成的用户。
 
-## 查看内容分析 {#view-content-analytics}
+## 查看Content Analytics {#view-content-analytics}
 
-转到&#x200B;**Content Analytics**。
+转到&#x200B;**[!UICONTROL Content Analytics]**。
 
 ![](assets/one.png)
 
-在内容分析页面上，您可以：
+在[!UICONTROL Content Analytics]页面上，您可以：
 
 * 按时间范围（日、周和月）过滤
 * 按内容标题和内容URL搜索
@@ -44,19 +44,19 @@ Analytics表提供了以下详细信息：
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>标题</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Title]</strong></td> 
    <td colspan="1" rowspan="1">数字内容资产的名称。 单击<strong>标题</strong>以在新选项卡中打开内容URL。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>推荐</strong><strong>图标</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">表示是否已为<a href="#">内容Recommendations</a>添加该内容块。</td> 
+   <td colspan="1">表示是否已为<a href="#">内容推荐</a>添加内容片段。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>视图</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Views]</strong></p></td> 
    <td colspan="1" rowspan="1"><p>来自Web访客对内容资产的查看次数。 查看、打开、观看或下载内容的次数。 单击视图列中的数字可向下展开并查看查看内容的用户</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>直接转化</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td> 
    <td colspan="1" rowspan="1">在同一次访问中查看了内容并填写了表单的Web访客</td> 
   </tr> 
   <tr> 
@@ -65,18 +65,18 @@ Analytics表提供了以下详细信息：
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>“删除”图标</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">从内容分析中删除内容</td> 
+   <td colspan="1">从Content Analytics中删除内容</td> 
   </tr> 
  </tbody> 
 </table>
 
-## 查看其他内容分析 {#view-additional-content-analytics}
+## 查看其他Content Analytics {#view-additional-content-analytics}
 
 单击内容片段的Analytics图标。
 
 ![](assets/four.png)
 
-将打开一个对话框，其中包含特定内容片段的其他内容分析。
+这将打开一个对话框，其中提供了适用于该特定内容块的其他Content Analytics。
 
 ![](assets/five.png)
 
@@ -84,19 +84,19 @@ Analytics表提供了以下详细信息：
 
 **Analytics**
 
-* **个视图**：所选时间范围中该内容段的视图
-* **直接转化**：在同一次访问中查看了内容并填写了表单的Web访客。
-* **转化率**&#x200B;**：**&#x200B;由直接转化除以点击量计算的百分比转化率
+* **[!UICONTROL Views]**：所选时间范围中该内容段的视图
+* **[!UICONTROL Direct Conversions]**：在同一次访问中查看了内容并填写了表单的Web访客。
+* **[!UICONTROL Conversion Rate]****：**&#x200B;直接转化除以点击量计算的百分比转化率
 
-**趋势**
+**[!UICONTROL Trends]**
 
-* 显示特定内容片段过去30天视图的&#x200B;**趋势**&#x200B;图。 将鼠标悬停在折线图上可查看特定日期的内容查看次数
+* 显示特定内容片段过去30天视图的&#x200B;**[!UICONTROL Trends]**&#x200B;图表。 将鼠标悬停在折线图上可查看特定日期的内容查看次数
 
 ## 删除内容 {#delete-content}
 
 ![](assets/six.png)
 
-在Content Analytics页面中，单击要删除的内容的删除图标。 此时将显示一条消息，确认您要删除内容。
+从[!UICONTROL Content Analytics]页面，单击要删除的内容的删除图标。 此时将显示一条消息，确认您要删除内容。
 
 >[!MORELIKETHIS]
 >

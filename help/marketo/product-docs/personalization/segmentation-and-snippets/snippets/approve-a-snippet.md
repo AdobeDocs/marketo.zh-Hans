@@ -4,10 +4,10 @@ description: 批准代码片段 — Marketo文档 — 产品文档
 title: 批准代码片段
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 4%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 代码片段在使用之前需要获得批准。
 
-1. 转到&#x200B;**设计工作室**。
+1. 转到&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. 单击您的&#x200B;**代码片段**。 在&#x200B;**代码片段操作**&#x200B;下，单击&#x200B;**批准**。
+1. 单击您的&#x200B;**代码片段**。 在&#x200B;**[!UICONTROL Snippet Actions]**&#x200B;下，单击&#x200B;**[!UICONTROL Approve]**。
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-就是这样！ 您代码片段的状态将从“草稿”更改为“已批准”。
+操作完成！您代码片段的状态将从“草稿”更改为“已批准”。
 
 >[!MORELIKETHIS]
 >

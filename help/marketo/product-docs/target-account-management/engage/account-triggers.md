@@ -4,10 +4,10 @@ description: 帐户触发器 — Marketo文档 — 产品文档
 title: 帐户触发器
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '88'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 使用帐户级别的触发器侦听跨不同渠道（例如，电子邮件、Web、广告）的重要帐户级别行为活动并对其执行操作。
 
-选择您的智能营销活动并单击&#x200B;**[!UICONTROL 智能列表]**。
+选择您的智能营销活动并单击&#x200B;**[!UICONTROL Smart List]**。
 
 ![](assets/one-1.png)
 
-在搜索框中输入“Named Account”以查找两个Named Account触发器。
+在搜索框中输入“[!UICONTROL Named Account]”以查找两个[!UICONTROL Named Account]触发器。
 
 ![](assets/two-1.png)
 
-将所需的触发器拖动到画布上。 在此示例中，我们使用&#x200B;_添加到指定帐户_。
+将所需的触发器拖动到画布上。 在此示例中，我们使用&#x200B;_[!UICONTROL Added to Named Account]_。
 
 ![](assets/three-1.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ![](assets/six-1.png)
 
-就是这样！ 完成其余的智能营销活动后，请记得激活它。
+操作完成！完成其余的智能营销活动后，请记得激活它。
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: 将电子邮件程序仪表板导出到Excel - Marketo文档 — �
 title: 将电子邮件程序仪表板导出到Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 运行电子邮件程序并在功能板中显示一些数据后，您可以将该原始数据导出到Excel以供进一步分析。 具体方法如下。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

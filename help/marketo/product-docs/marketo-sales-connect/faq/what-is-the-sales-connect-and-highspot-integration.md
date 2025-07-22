@@ -4,47 +4,47 @@ description: 什么是Sales Connect和Highspot集成？ - Marketo文档 — 产�
 title: 什么是Sales Connect和Highspot集成？
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
-# 什么是Sales Connect和Highspot集成？ {#what-is-the-sales-connect-and-highspot-integration}
+# 什么是[!DNL Sales Connect]和[!DNL Highspot]集成？ {#what-is-the-sales-connect-and-highspot-integration}
 
-Sales Connect支持与内容管理系统[Highspot](https://www.highspot.com/)集成。 同时身为Highspot客户的Sales Connect客户可以从Web应用程序中访问其Highspot内容。
+[!DNL Sales Connect]支持与内容管理系统[Highspot](https://www.highspot.com/)集成。 同时是[!DNL Sales Connect]客户的[!DNL Highspot]客户可以通过Web应用程序访问其[!DNL Highspot]内容。
 
 ## 要求 {#requirements}
 
-要使用Sales Connect与Highspot的集成，您需要以下各项：
+您需要以下各项才能使用[!DNL Sales Connect]与[!DNL Highspot]的集成：
 
-* **浏览器 — 最新版本的Chrome和Safari、Edge、IE或Firefox**
+* **浏览器 — [!DNL Chrome]和[!DNL Safari]、[!DNL Edge]、IE或Firefox的最新版本**
 
-除了在浏览器中使用Sales Connect之外，Highspot集成还可以在我们的Outlook .Net电子邮件客户端中使用。 要求如下：
+除了在浏览器中处理[!DNL Sales Connect]之外，[!DNL Highspot]集成还可在我们的[!DNL Outlook .Net]电子邮件客户端中使用。 要求如下：
 
-* **Outlook .Net和Exchange** - Sales Connect支持的Outlook .Net、Exchange Online、Exchange 2016版本
+* **[!DNL Outlook .Net]和[!DNL Exchange]** - [!DNL Sales Connect]支持的[!DNL Outlook .Net]、[!DNL Exchange Online]、[!DNL Exchange 2016]版本
 
 >[!NOTE]
 >
->Sales Connect Gmail扩展当前不支持Highspot集成
+>[!DNL Sales Connect] Gmail扩展当前不支持[!DNL Highspot]集成
 
-## 启用Sales Connect和Highspot集成 {#enabling-the-sales-connect-and-highspot-integration}
+## 正在启用[!DNL Sales Connect]和[!DNL Highspot]集成 {#enabling-the-sales-connect-and-highspot-integration}
 
-如果您有兴趣为团队启用Highspot集成，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support#)。
+如果您有兴趣为团队启用[!DNL Highspot]集成，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support#)。
 
 ## 如何使用集成 {#how-to-use-the-integration}
 
-启用后，下面是如何在Sales Connect中访问Highspot内容的。
+启用后，下面是如何在[!DNL Highspot]中访问您的[!DNL Sales Connect]内容。
 
-1. 在Sales Connect或Outlook中撰写电子邮件时，请选择&#x200B;**添加内容**。
+1. 在[!DNL Sales Connect]或[!DNL Outlook]中撰写电子邮件时，请选择&#x200B;**[!UICONTROL Add Content]**。
 
-1. 选择&#x200B;**Highspot**。
+1. 选择 **[!UICONTROL Highspot]**。
 
-1. 输入您的Highspot帐户电子邮件，然后单击&#x200B;**继续**。
+1. 输入您的[!DNL Highspot]帐户电子邮件并单击&#x200B;**[!UICONTROL Continue]**。
 
-1. 输入您的Highspot帐户密码，然后单击&#x200B;**登录**。
+1. 输入您的[!DNL Highspot]帐户密码并单击&#x200B;**[!UICONTROL Sign In]**。
 
-1. 从Highspot中选择要插入到电子邮件或模板中的内容，然后单击&#x200B;**添加内容**。
+1. 从[!DNL Highspot]中选择要插入到电子邮件或模板中的内容，然后单击&#x200B;**[!UICONTROL Add Content]**。
 
 1. 内容将插入到电子邮件或模板中。

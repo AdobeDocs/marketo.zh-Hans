@@ -3,16 +3,16 @@ description: 最佳匹配 — Marketo文档 — 产品文档
 title: 最佳匹配
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-# 最佳匹配 {#best-bets}
+# [!DNL Best Bets] {#best-bets}
 
-最佳匹配选项卡包括基于优先级的所有热门商机的列表，使用紧急程度和相对分数计算。
+[!DNL Best Bets]选项卡包括基于优先级的所有热门商机的列表，使用紧急程度和相对分数计算。
 
 >[!CAUTION]
 >
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 **筛选器选项**
 
-您可以单击以下每个按钮以查看最佳匹配：
+您可以单击以下每个按钮来查看[!DNL Best Bets]：
 
-* 潜在客户：您可以在CRM中查看分配给您的所有潜在客户的最佳匹配
-* 联系人：您可以在CRM中查看分配给您的所有联系人的最佳匹配
-* 帐户联系人：您可以在CRM中查看属于分配给您的帐户的所有联系人的最佳匹配，即使联系人本身未分配给您也是如此
-* 业务机会联系人：您可以在CRM中查看属于分配给您的业务机会的所有联系人的最佳匹配，即使联系人本身未分配给您也是如此
+* 潜在客户：您可以在CRM中看到分配给您的所有潜在客户的[!DNL Best Bets]
+* 联系人：您可以在CRM中看到分配给您的所有联系人的[!DNL Best Bets]
+* 帐户联系人：您可以在CRM中看到属于分配给您的帐户的所有联系人的[!DNL Best Bets]，即使联系人本身未分配给您也是如此
+* 业务机会联系人：您可以在CRM中查看属于分配给您的业务机会的所有联系人的[!DNL Best Bets]，即使联系人本身未分配给您也是如此
 
 **注意事项**
 
@@ -35,22 +35,22 @@ ht-degree: 0%
 
 **内联参与**
 
-通过单击“操作”列下的数据菜单，您可以使用以下参与选项联系特定的潜在客户或联系人：
+通过单击[!UICONTROL Actions]列下的dota菜单，您可以使用以下参与选项联系特定的潜在客户或联系人：
 
-* 发送Marketo电子邮件
-* 添加到Marketo Campaign
-* 在Marketo中查看
-* 添加到关注列表
+* [!UICONTROL Send Marketo Email]
+* [!UICONTROL Add to Marketo Campaign]
+* [!UICONTROL View in Marketo]
+* [!UICONTROL Add to Watchlist]
 
 ![](assets/best-bets-1.png)
 
 **批量操作**
 
-您可以使用复选框从“最佳匹配”页面中选择一个或多个潜在客户或联系人，并使用以下参与选项作为组联系他们：
+您可以使用复选框从[!DNL Best Bets]页面中选择一个或多个潜在客户或联系人，并使用以下参与选项作为组联系他们：
 
-* 发送Marketo电子邮件
-* 添加到Marketo Campaign
-* 添加到关注列表
+* [!UICONTROL Send Marketo Email]
+* [!UICONTROL Add to Marketo Campaign]
+* [!UICONTROL Add to Watchlist]
 
 ![](assets/best-bets-2.png)
 

@@ -4,9 +4,9 @@ description: 在程序中创建报表 — Marketo文档 — 产品文档
 title: 在项目群中创建报告
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 运行报表以分析人员、程序、登陆页面、电子邮件和社交资产。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您还可以从&#x200B;**Analytics**&#x200B;选项卡创建报告。
+   >您还可以从&#x200B;**[!UICONTROL Analytics]**&#x200B;选项卡创建报告。
 
-1. 右键单击项目并选择&#x200B;**新建本地资产**。
+1. 右键单击项目并选择&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/programrightclick-asset.png)
 
-1. 单击&#x200B;**报告**。
+1. 单击 **[!UICONTROL Report]**。
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. 选择报告&#x200B;**类型**。
+1. 选择报告&#x200B;**[!UICONTROL Type]**。
 
    ![](assets/choosereport.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 1. 设置报告的时间范围。 有关更多详细信息，请参阅[更改报表时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)。
 
-1. 单击&#x200B;**报告**&#x200B;选项卡查看您的统计数据。
+1. 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡查看统计数据。
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 

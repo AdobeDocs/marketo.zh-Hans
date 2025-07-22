@@ -4,18 +4,18 @@ description: 在电子邮件分析 — Marketo文档中过滤 — 产品文档
 title: 在电子邮件分析中进行筛选
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# 在电子邮件分析中进行筛选 {#filtering-in-email-insights}
+# 在[!UICONTROL Email Insights]中筛选 {#filtering-in-email-insights}
 
-在电子邮件分析中，可通过不同的方法来筛选数据。
+在[!UICONTROL Email Insights]中，有不同的方法来筛选您的数据。
 
-## 电子邮件分析 {#email-insights}
+## [!UICONTROL Email Insights] {#email-insights}
 
 单击+开始添加过滤器。 添加任意所需数量。
 
@@ -59,10 +59,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->日期范围同时适用于Analytics页面和“发送”页面。 但是，**比较**&#x200B;选项仅适用于Analytics页面。
+>日期范围同时适用于[!UICONTROL Analytics]页面和[!UICONTROL Sends]页面。 但是，**比较**&#x200B;选项仅适用于[!UICONTROL Analytics]页面。
 
 ## 基于帐户的营销 {#account-based-marketing}
 
-如果您使用[Target帐户管理](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，则有专门为您设置的过滤器。
+如果您使用[[!UICONTROL Target Account Management]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，则有专门为您设置的过滤器。
 
 ![](assets/abm.png)

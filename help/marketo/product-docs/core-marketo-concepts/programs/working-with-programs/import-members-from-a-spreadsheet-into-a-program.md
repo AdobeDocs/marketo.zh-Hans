@@ -4,10 +4,10 @@ description: 将成员从电子表格导入程序 — Marketo文档 — 产品�
 title: 将电子表格中的成员导入程序
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 准备CSV文件 {#prepare-your-csv-file}
 
-1. 在Excel中创建标准CSV文件，如下面的示例所示。
+1. 在[!DNL Excel]中创建标准CSV文件，如下面的示例所示。
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 
@@ -27,31 +27,31 @@ ht-degree: 0%
 
 ## 将CSV导入Marketo {#import-your-csv-into-marketo}
 
-1. 在您的项目中，转到&#x200B;**[!UICONTROL 成员]**&#x200B;部分。
+1. 在您的项目中，转到&#x200B;**[!UICONTROL Members]**&#x200B;部分。
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. 单击&#x200B;**[!UICONTROL 导入成员]**。
+1. 单击 **[!UICONTROL Import Members]**。
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. 选择CSV并单击&#x200B;**[!UICONTROL 下一步]**。
+1. 选择CSV并单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/importlist1.png)
 
-1. 将列表中的数据值映射到它们对应的Marketo字段，然后单击&#x200B;**[!UICONTROL 下一步]**。
+1. 将列表中的数据值映射到其对应的Marketo字段，然后单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >如果有任何您不想导入的字段，请在“Marketo字段”下拉菜单中选择&#x200B;**[!UICONTROL 忽略]**。
+   >如果有任何您不想导入的字段，请在Marketo字段下拉菜单中选择&#x200B;**[!UICONTROL IGNORE]**。
 
-1. 为您的列表选择&#x200B;**[!UICONTROL 成员状态]**。
+1. 为您的列表选择&#x200B;**[!UICONTROL Member Status]**。
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. 单击&#x200B;**[!UICONTROL 导入]**。
+1. 单击 **[!UICONTROL Import]**。
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 

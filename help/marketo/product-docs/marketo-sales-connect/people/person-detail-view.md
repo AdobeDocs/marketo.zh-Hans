@@ -4,9 +4,9 @@ description: 人员详细信息视图 — Marketo文档 — 产品文档
 title: 人员详细信息视图
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 如何访问 {#how-to-access}
 
-1. 要访问人员详细信息视图，请单击&#x200B;**人员**&#x200B;选项卡。
+1. 要访问人员详细信息视图，请单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡。
 
    ![](assets/person-detail-view-1.png)
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 
 **帐户信息**
 
-* 可以将人员添加到Salesforce
-* 从Salesforce提取帐户和潜在客户/联系信息
+* 可以将人员添加到[!DNL Salesforce]
+* 从[!DNL Salesforce]提取帐户和潜在客户/联系人信息
 
 **自定义字段**
 
 * 添加或删除可用作模板和营销策划中动态字段的自定义字段
 
-**备注**
+**注释**
 
 * 创建自定义注释
 
@@ -76,19 +76,19 @@ ht-degree: 0%
 
 ![](assets/person-detail-view-5.png)
 
-**促销活动**
+**[!UICONTROL Sales Campaigns]**
 
 * 查看此人所属的任何活动或完成的营销活动
 
-**营销活动**
+**[!UICONTROL Marketing Campaigns]**
 
 * 查看此人参与的任何营销活动
 
-**销售电子邮件**
+**[!UICONTROL Sales Emails]**
 
 * 查看您向此人发送的任何电子邮件和参与量度
 
-**销售电话**
+**[!UICONTROL Sales Calls]**
 
 * 查看您对此人的任何呼叫
 

@@ -1,33 +1,33 @@
 ---
 unique-page-id: 12979282
-description: 帐户分析插件概述 — Marketo文档 — 产品文档
-title: 帐户分析插件概述
+description: '[!DNL Account Insight]插件概述 — Marketo文档 — 产品文档'
+title: '[!DNL Account Insight]插件概述'
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
-# 帐户分析插件概述 {#account-insight-plug-in-overview}
+# [!DNL Account Insight]插件概述 {#account-insight-plug-in-overview}
 
-“帐户分析”是一个Chrome插件，可向您的销售团队展示切实可行的营销策划和帐户分析，从而让他们能够更有效地与帐户互动。
+[!DNL Account Insight]是一个[!DNL Chrome]插件，可为您的销售团队提供可操作的TAM和帐户分析，从而让他们能够更有效地与帐户接洽。
 
 >[!AVAILABILITY]
 >
->* 所有同时拥有TAM和Marketo Sales Insight的客户都可以使用Account Insight。 对于只拥有TAM的客户，客户分析可作为购买的加载项使用。 每个客户最多只能获得250个Account Insight名额。 有关详细信息，请与您的销售代表联系。 它不适用于没有TAM的客户。
+>* 拥有TAM和Marketo Sales Insight的所有客户都包括帐户Insight。 对于只有TAM的客户，帐户Insight可作为已购买的加载项使用。 每个客户最多只能拥有250个Insight客户名额。 有关详细信息，请与您的销售代表联系。 它不适用于没有TAM的客户。
 >
 >* 此插件目前与[Adobe身份验证](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}不兼容。
 
 >[!CAUTION]
 >
->帐户分析插件无法在启用了[仅限SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)（单点登录）的订阅中运行。
+>[!DNL Account Insight]插件无法在启用了[SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)（单点登录）的订阅中工作。
 
 >[!CAUTION]
 >
->从帐户、潜在客户或联系人启动插件时，CRM上下文适用于Salesforce。 从帐户、潜在客户或联系人启动插件时，CRM上下文将不适用于Dynamics。 对于Dynamics用户，我们建议使用帐户分析插件。
+>从帐户、潜在客户或联系人启动插件时，CRM上下文适用于Salesforce。 从帐户、潜在客户或联系人启动插件时，CRM上下文将不适用于Dynamics。 对于Dynamics用户，我们建议使用[!DNL Account Insight]插件。
 
 ## 指定帐户 {#named-accounts}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/na8.png)
 
-您还可以将视图从参与切换到管道。
+您还可以将视图从&#x200B;**[!UICONTROL Engagement]**&#x200B;切换到&#x200B;**[!UICONTROL Pipeline]**。
 
 ![](assets/na9.png)
 
@@ -67,17 +67,17 @@ ht-degree: 0%
 
 ![](assets/na10.png)
 
-## 活动信息源 {#activity-feed}
+## [!UICONTROL Activity Feed] {#activity-feed}
 
 活动信息源显示最近活动，可追溯到七天。
 
 ![](assets/af1.png)
 
-单击&#x200B;**筛选器**&#x200B;下拉列表以按不同的活动类型进行筛选。
+单击&#x200B;**[!UICONTROL Filter]**&#x200B;下拉列表以按不同的活动类型进行筛选。
 
 ![](assets/af2.png)
 
-有几个项目可单击。 单击指定帐户可查看其详细信息。 单击用户的名称可查看其活动。 单击更多活动可查看更多活动。
+有几个项目可单击。 单击指定帐户可查看其详细信息。 单击用户的名称可查看其活动。 单击&#x200B;**[!UICONTROL More Activities]**&#x200B;查看更多活动。
 
 ![](assets/af3.png)
 
@@ -85,4 +85,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[设置帐户分析](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+>[设置 [!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

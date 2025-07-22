@@ -1,27 +1,27 @@
 ---
 unique-page-id: 17728023
-description: 使用缩放创建事件 — Marketo文档 — 产品文档
-title: 使用缩放创建事件
+description: 使用 [!DNL Zoom] 创建事件 — Marketo文档 — 产品文档
+title: 创建具有 [!DNL Zoom]的事件
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '531'
 ht-degree: 0%
 
 ---
 
-# 使用缩放创建事件 {#create-an-event-with-zoom}
+# 创建具有[!DNL Zoom]的事件 {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
 >
->* [将缩放添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+>* [添加 [!DNL Zoom] 为 [!DNL LaunchPoint] 服务](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [创建新的活动计划](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 设置适当的[流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与
 
-首先在Zoom中创建网络研讨会。 创建缩放时，Marketo会使用某些设置，而某些设置仅供Zoom使用。
+首先在[!DNL Zoom]中创建网络研讨会。 创建您的[!DNL Zoom]中的某些设置已被Marketo使用，而某些设置仅被[!DNL Zoom]使用。
 
-在创建Marketo活动并为其关联Zoom网络研讨会后，系统将能够共享注册和出席信息。 有关创建网络研讨会的帮助，请参阅[缩放网络研讨会快速入门](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar)。
+在您创建Marketo活动并为其关联[!DNL Zoom]网络研讨会后，系统将能够共享注册和出席信息。 有关创建网络研讨会的帮助，请参阅[网络研讨会快速入门 [!DNL Zoom] ](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar)。
 
 为您的网络研讨会输入以下信息，这些信息将通过适配器拉入Marketo。 如果您对此信息进行了任何更改，则必须单击“事件操作”下的“从网络研讨会提供商刷新”链接，以便Marketo能够看到这些更改。
 
@@ -43,21 +43,21 @@ ht-degree: 0%
 
 * **定期网络研讨会** — 保持取消选中状态。
 
-* **注册** — 选中此框可要求注册。 您将使用Marketo表单/登陆页面捕获将推送到Zoom的注册信息。
+* **注册** — 选中此框可要求注册。 您将使用Marketo表单/登陆页面捕获将推送到[!DNL Zoom]的注册信息。
 
 >[!NOTE]
 >
->Marketo当前不支持定期网络研讨会。 在每个Marketo事件和Zoom网络研讨会之间，必须设置一个会话。
+>Marketo当前不支持定期网络研讨会。 在每个Marketo活动与[!DNL Zoom]网络研讨会之间，您必须设置一个会话。
 
 ![](assets/overview2.png)
 
 >[!TIP]
 >
->还有一些您将在缩放中配置的字段不会影响集成。 有关这些字段的更多信息，请参阅[缩放网络研讨会帮助中心](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)。
+>您将在[!DNL Zoom]中配置其他一些不会影响集成的字段。 有关这些字段的更多信息，请参阅[[!DNL Zoom] 网络研讨会帮助中心](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)。
 
 现在，让我们跳入Marketo！
 
-1. 选择一个事件。 单击&#x200B;**事件操作**&#x200B;并选择&#x200B;**事件设置**。
+1. 选择一个事件。 单击&#x200B;**[!UICONTROL Event Actions]**&#x200B;并选择&#x200B;**[!UICONTROL Event Settings]**。
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
@@ -65,11 +65,11 @@ ht-degree: 0%
    >
    >所选事件的渠道类型必须是&#x200B;**网络研讨会**。
 
-1. 从&#x200B;**活动** **合作伙伴**&#x200B;列表中选择&#x200B;**缩放**。
+1. 从&#x200B;**[!UICONTROL Zoom]**&#x200B;列表中选择&#x200B;**[!UICONTROL Event Partner]**。
 
    ![](assets/eventsettings1.png)
 
-1. 选择要与事件关联的缩放帐户。
+1. 选择要与事件关联的[!DNL Zoom]帐户。
 
    ![](assets/selectaccount.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
    ![](assets/selectevent.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/eventsettingssave.png)
 
-   太棒了！ 现在，该事件已由Zoom同步并计划。
+   太棒了！ 现在，该事件已由[!DNL Zoom]同步并计划。
 
    >[!NOTE]
    >
@@ -93,7 +93,7 @@ ht-degree: 0%
    >
    >将您的确认电子邮件设置为&#x200B;**操作**，以确保注册和可能取消订阅的用户仍会收到其确认信息。
 
-   当新状态设置为“已注册”时，注册网络研讨会的用户将通过&#x200B;**更改计划状态**&#x200B;流程步骤推送至您的网络研讨会提供商。 没有其他状态会将该人员推倒。 此外，请确保将&#x200B;**更改项目状态**&#x200B;流程步骤#1和&#x200B;**发送电子邮件**&#x200B;流程步骤#2更改为。
+   当&#x200B;**[!UICONTROL Change Program Status]**&#x200B;设置为“已注册”时，注册您的网络研讨会的用户将通过[!UICONTROL New Status]流程步骤推送至您的网络研讨会提供商。 没有其他状态会将该人员推倒。 此外，请确保将&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步骤#1和&#x200B;**[!UICONTROL Send Email]**&#x200B;流程步骤#2。
 
    ![](assets/goto-webinar-1.png)
 

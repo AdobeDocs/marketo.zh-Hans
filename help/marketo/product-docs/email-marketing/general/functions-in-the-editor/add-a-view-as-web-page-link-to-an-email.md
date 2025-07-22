@@ -4,30 +4,30 @@ description: 将视图作为网页链接添加到电子邮件 — Marketo文档 
 title: 将视图作为网页链接添加到电子邮件
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 # 将视图作为网页链接添加到电子邮件 {#add-a-view-as-web-page-link-to-an-email}
 
-电子邮件的功能有限(CSS有限，无JavaScript或表单)。 使用“以网页形式查看”来提供链接，以在浏览器中显示您的电子邮件。 这将使用Munchkin对收件人Cookie。
+电子邮件的功能有限(CSS有限，无JavaScript或表单)。 使用“以网页形式查看”来提供链接，以在浏览器中显示您的电子邮件。 这将使用[!DNL Munchkin]对收件人进行Cookie。
 
 >[!NOTE]
 >
 >创建新电子邮件时，未启用以网页形式查看。 如果启用它并克隆电子邮件，则会复制此设置。
 
-1. 选择您的电子邮件并单击&#x200B;**编辑草稿**。
+1. 选择您的电子邮件并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/one-5.png)
 
-1. 在电子邮件编辑器中，单击&#x200B;**电子邮件设置**。
+1. 在电子邮件编辑器中，单击&#x200B;**[!UICONTROL Email Settings]**。
 
    ![](assets/two-5.png)
 
-1. 选中“**以网页形式包含视图**”框，然后单击“**保存**”。
+1. 选中&#x200B;**[!UICONTROL Include View as Web Page Link]**&#x200B;框并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three-4.png)
 

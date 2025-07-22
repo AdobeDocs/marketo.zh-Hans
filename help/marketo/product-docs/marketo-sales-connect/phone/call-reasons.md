@@ -3,10 +3,10 @@ description: 致电原因 — Marketo文档 — 产品文档
 title: 致电原因
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 1%
 
 ---
 
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 启用致电原因 {#enable-call-reasons}
 
-1. 单击齿轮图标并选择&#x200B;**设置**。
+1. 单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/call-reasons-1.png)
 
-1. 在“管理员设置”下，选择&#x200B;**拨号器**。
+1. 在[!UICONTROL Admin Settings]下，选择&#x200B;**[!UICONTROL Dialer]**。
 
    ![](assets/call-reasons-2.png)
 
-1. 选择&#x200B;**启用致电原因**。
+1. 选择 **[!UICONTROL Enable call reasons]**。
 
    ![](assets/call-reasons-3.png)
 
@@ -42,19 +42,19 @@ ht-degree: 0%
 >
 >您最多可以创建15个致电原因。
 
-1. 单击齿轮图标并选择&#x200B;**设置**。
+1. 单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/call-reasons-5.png)
 
-1. 在“管理员设置”下，选择&#x200B;**拨号器**。
+1. 在[!UICONTROL Admin Settings]下，选择&#x200B;**[!UICONTROL Dialer]**。
 
    ![](assets/call-reasons-6.png)
 
-1. 单击&#x200B;**管理致电原因**。
+1. 单击 **[!UICONTROL Manage call reasons]**。
 
    ![](assets/call-reasons-7.png)
 
-1. 在文本字段中输入所需的致电原因名称，然后单击&#x200B;**添加**。
+1. 在文本字段中输入所需的致电原因名称，然后单击&#x200B;**[!UICONTROL Add]**。
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    ![](assets/call-reasons-9.png)
 
-1. 在拨号器中输入呼叫信息，然后单击&#x200B;**呼叫**。
+1. 在拨号器中输入呼叫信息，然后单击&#x200B;**[!UICONTROL Call]**。
 
    ![](assets/call-reasons-10.png)
 

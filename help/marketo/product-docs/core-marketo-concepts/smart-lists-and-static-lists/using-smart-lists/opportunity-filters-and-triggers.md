@@ -4,16 +4,16 @@ description: Opportunity Filters and Triggers - Marketo文档 — 产品文档
 title: 机会过滤器和触发器
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
 # 机会过滤器和触发器 {#opportunity-filters-and-triggers}
 
-Opportunity筛选器和触发器允许您跟踪Salesforce中的opportunity事件。 它们与其他过滤器和触发器有些不同。
+机会过滤器和触发器允许您跟踪来自[!DNL Salesforce]的机会事件。 它们与其他过滤器和触发器有些不同。
 
 ## 机会过滤器 {#opportunity-filters}
 

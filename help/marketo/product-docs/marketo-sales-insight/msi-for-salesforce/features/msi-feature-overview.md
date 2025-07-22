@@ -4,16 +4,16 @@ description: MSI功能概述 — Marketo文档 — 产品文档
 title: MSI功能概述
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
 
 # MSI功能概述 {#msi-feature-overview}
 
-MSI在Salesforce Lightning and Classic中提供了以下功能。
+MSI在[!DNL Salesforce] Lightning and Classic中提供了以下功能。
 
 >[!NOTE]
 >
@@ -68,7 +68,7 @@ Visualforce页面：
 
 Visualforce页面：
 
-* 联系人 — 包含单击hyper“转到完整列表”的选项，您将被发送到Salesforce的新选项卡中，MSI面板将以全页布局显示
+* 联系人 — 包含用于单击“转到完整列表”超链接的选项，您将被发送到Salesforce中的新选项卡，在该选项卡中，MSI面板将以全页布局显示
 * 联系人完整列表 — 不包括“转到完整列表”选项
 * 联系人移动设备 — 在Salesforce移动应用程序中可见
 * 添加到Marketo Campaign ContactPage — 此面板中提供了“添加到Marketo Campaign”功能
@@ -87,19 +87,19 @@ Visualforce页面：
 * 紧急值
 * 在Marketo中查看 — 单击此字段可打开Marketo中潜在客户的不可编辑视图。 包括：潜在客户信息、公司信息、SFDC潜在客户信息、SFDC自定义字段、活动日志
 * Mkto潜在客户得分
-* 销售分析 — 打开联系人完整列表页面
+* [!DNL Sales Insight] — 打开联系人完整列表页面
 
 ## 帐户布局 {#account-layout}
 
 Visualforce页面：
 
-* 帐户 — 包含用于单击“转到完整列表”的超选项，您将被发送到Salesforce中的新选项卡，其中MSI面板将以全页布局显示
+* 帐户 — 包含用于单击“转到完整列表”超链接的选项，您将被发送到Salesforce中的新选项卡，在该选项卡中，MSI面板将以全页布局显示
 * 帐户完整列表 — 不包含“转到完整列表”选项
 * 帐户移动设备 — 在Salesforce移动设备应用程序中可见
 
 字段：
 
-* 销售分析 — 打开联系人完整列表页面
+* [!DNL Sales Insight] — 打开联系人完整列表页面
 
 操作：
 
@@ -115,13 +115,13 @@ Visualforce页面：
 
 Visualforce页面：
 
-* 机会 — 包含单击“转到完整列表”的超按钮的选项，您将被发送到Salesforce中的新选项卡，在该选项卡中MSI面板将以全页布局显示
+* 机会 — 包含用于单击“转到完整列表”的超链接的选项，您将被发送到Salesforce中的新选项卡，在该选项卡中，MSI面板将以全页布局显示
 * Opportunity Full List — 不包括“Go to Full List”选项
 * Opportunity Mobile — 在Salesforce移动应用程序中可见
 
 字段：
 
-* 销售分析 — 打开联系人完整列表页面
+* [!DNL Sales Insight] — 打开联系人完整列表页面
 * Marketo Opportunity Analysis — 在Marketo中打开Opportunity Influence Analyzer
 
 操作：
@@ -136,13 +136,13 @@ Visualforce页面：
 
 ## 潜在客户和联系人列表视图（批量操作） {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce Lightning：在“潜在客户”和“联系人列表”视图中，添加到“关注列表”、“添加到Marketo Campaign”和“发送Marketo电子邮件”批量操作按钮。
+[!DNL Salesforce Lightning]：“潜在客户”和“联系人”列表视图中的“添加到关注列表”、“添加到Marketo Campaign”和“发送Marketo电子邮件”批量操作按钮。
 
-Salesforce Classic：在“潜在客户”和“联系人列表”视图中，添加到“关注列表”、“添加到Marketo Campaign”和“发送Marketo电子邮件”批量操作按钮。
+[!DNL Salesforce Classic]：“潜在客户”和“联系人”列表视图中的“添加到关注列表”、“添加到Marketo Campaign”和“发送Marketo电子邮件”批量操作按钮。
 
 ## Marketo选项卡 {#marketo-tab}
 
-* 最佳匹配
+* [!DNL Best Bets]
 
    * 包括创建和编辑视图的功能。 能够隐藏最佳匹配，具体取决于Marketo配置页面中“默认隐藏”选项的配置
    * 列 — 名称、帐户、上一个有趣的时刻、状态标题、参与度（星星和火焰）、隐藏
@@ -160,7 +160,7 @@ Salesforce Classic：在“潜在客户”和“联系人列表”视图中，�
 * 匿名Web活动
 
    * 包括创建和编辑视图的功能、时间范围筛选功能
-   * 列 — 页面查看、公司、上次访问、研究(打开公司的LinkedIn页面)
+   * 列 — 页面查看、公司、上次访问、研究（打开公司的LinkedIn页面）
 
 * 我的电子邮件
 
@@ -176,30 +176,30 @@ Salesforce Classic：在“潜在客户”和“联系人列表”视图中，�
    * 订阅选项以接收此类事件的电子邮件通知
    * “高优先级”图标显示此人员为最佳匹配
 
-## Marketo Sales Insight“配置”选项卡 {#marketo-sales-insight-configuration-tab}
+## [!DNL Marketo Sales Insight]配置选项卡 {#marketo-sales-insight-configuration-tab}
 
-* 操作设置：包括在SFDC中设置MSI所需的Soap和Rest API凭据
+* 操作设置：包含在SFDC中设置MSI所需的Soap和Rest API凭据
 * MSI配置：包括Marketo选项卡和MSI Visualforce面板的配置
-* 重置Marketo Sales Insight：包括清除所有配置的功能
+* 重置[!DNL Marketo Sales Insight]：包含清除所有配置的功能
 
 >[!MORELIKETHIS]
 >
->Salesforce中的[Marketo Sales Insight的“配置”选项卡](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[[!DNL Marketo Sales Insight] 中的 [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)配置选项卡
 
-## 销售分析绩效报表 {#sales-insight-performance-reports}
+## [!DNL Sales Insight]性能报告 {#sales-insight-performance-reports}
 
-查看通过Salesforce、Microsoft Dynamics或Gmail或Outlook插件发送的电子邮件性能
+查看通过[!DNL Salesforce]、[!DNL Microsoft Dynamics]或Gmail或[!DNL Outlook]插件发送的电子邮件性能
 
 ## 适用于移动设备的MSI {#msi-for-mobile}
 
-Salesforce移动应用程序支持MSI功能
+[!DNL Salesforce]移动应用程序支持MSI功能
 
 ## 语言支持 {#language-support}
 
-Marketo Sales Insight按语言存储。 因此，如果您希望它适用于多种语言，则必须分别输入每种语言的凭据。
+[!DNL Marketo Sales Insight]按语言存储。 因此，如果您希望它适用于多种语言，则必须分别输入每种语言的凭据。
 
 >[!NOTE]
 >
 >* 联系人/潜在客户需要位于Default分区中，才能添加到Watchlist。
 >
->* MSI Salesforce包不支持具有依赖字段的自定义视图。
+>* MSI [!DNL Salesforce]包不支持具有依赖字段的自定义视图。

@@ -4,9 +4,9 @@ description: 将成员添加到事件程序 — Marketo文档 — 产品文档
 title: 将成员添加到事件程序
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. [创建智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
 
-1. 在步骤2中创建的智能营销活动的智能列表中，查找并添加&#x200B;**列表**&#x200B;的成员。
+1. 在步骤2中创建的智能营销活动的智能列表中，查找并添加&#x200B;**[!UICONTROL Member of List]**&#x200B;筛选器。
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在流程中，查找并添加&#x200B;**更改项目状态**&#x200B;流程步骤。
+1. 在流程中，查找并添加&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步骤。
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 在“计划”选项卡中，单击&#x200B;**运行一次**。
+1. 在[!UICONTROL Schedule]选项卡中，单击&#x200B;**[!UICONTROL Run Once]**。
 
    ![](assets/eight.png)
 
-1. 选择&#x200B;**立即运行**，然后单击&#x200B;**运行**。
+1. 选择&#x200B;**[!UICONTROL Run Now]**&#x200B;并单击&#x200B;**[!UICONTROL Run]**。
 
    ![](assets/nine.png)
 

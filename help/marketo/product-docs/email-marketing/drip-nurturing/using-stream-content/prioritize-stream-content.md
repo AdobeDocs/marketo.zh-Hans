@@ -4,9 +4,9 @@ description: 优先处理流内容 — Marketo文档 — 产品文档
 title: 排定流内容的优先级
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 将内容添加到流后，您可能需要更改优先级。 内容始终在每次播放时自上而下交付，不会将任何内容发送给同一个人两次。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
-1. 选择您的参与计划，然后单击&#x200B;**流**&#x200B;选项卡。
+1. 选择您的参与计划并单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![](assets/cloneasteam-1.jpg)
 

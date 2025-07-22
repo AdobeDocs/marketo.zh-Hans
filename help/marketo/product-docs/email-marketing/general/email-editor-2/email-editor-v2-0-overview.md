@@ -4,16 +4,16 @@ description: 电子邮件编辑器v2.0概述 — Marketo文档 — 产品文档
 title: 电子邮件编辑器v2.0概述
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
 
 # 电子邮件编辑器v2.0概述 {#email-editor-v2-overview}
 
-当您决定激活电子邮件编辑器v2.0时，您会注意到几项新功能。
+当您决定激活[!DNL Email Editor v2.0]时，您会注意到几项新功能。
 
 **电子邮件模板选取器**
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-8.png)
 
-若要查看更大的预览，请单击电子邮件右上角的&#x200B;**预览**。
+要获得更大的预览，请单击电子邮件右上角的&#x200B;**[!UICONTROL Preview]**。
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...但是您还可以看到它在移动设备上的外观。 您还可以预览文本版本！ 只需单击右上角的&#x200B;**编辑草稿**&#x200B;即可继续编辑。
+...但是您还可以看到它在移动设备上的外观。 您还可以预览文本版本！ 只需单击右上角的&#x200B;**[!UICONTROL Edit Draft]**&#x200B;即可继续编辑。
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**电子邮件操作**
+**[!UICONTROL Email Actions]**
 
-在&#x200B;**电子邮件操作**&#x200B;下，您将注意到一些新功能。 **上载图像或文件**，并&#x200B;**从Web获取图像**。 您还可以将电子邮件本身另存为新电子邮件模板。 你只要给它一个名字和一个目的地。
+在&#x200B;**[!UICONTROL Email Actions]**&#x200B;下，您会注意到一些新功能。 **[!UICONTROL Upload an Image or File]**&#x200B;和&#x200B;**[!UICONTROL Grab Images from Web]**。 您还可以将电子邮件本身另存为新电子邮件模板。 你只要给它一个名字和一个目的地。
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,21 +83,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**[从Web获取图像](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**&#x200B;的工作方式与在Design Studio中一样。
+>**[[!UICONTROL Grab Images from Web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**&#x200B;的工作方式与它在[!UICONTROL Design Studio]中的工作方式相同。
 
-在&#x200B;**电子邮件设置**&#x200B;下&#x200B;**禁用打开跟踪**，您可以根据需要禁用打开跟踪。
+**[!UICONTROL Disable Open Tracking]**&#x200B;在&#x200B;**[!UICONTROL Edit Settings]**&#x200B;下，您可以根据需要禁用打开跟踪。
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**电子邮件设置**
+**[!UICONTROL Edit Settings]**
 
-您可以选择添加预编译标头。 “邮件引文”是在收件箱中查看电子邮件时主题行之后的简短摘要文本。
+您可以选择添加[!UICONTROL Preheader]。 在收件箱中查看电子邮件时，[!UICONTROL Preheader]是主题行之后的简短摘要文本。
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->使用电子邮件编辑器时，令牌在预览版中不起作用。 要在预标头中使用令牌，必须通过在电子邮件模板中通过您自己的HTML来使用。
+>使用电子邮件编辑器时，令牌在[!UICONTROL Preheader]中不起作用。 要在[!UICONTROL Preheader]中使用令牌，必须通过在电子邮件模板中通过您自己的HTML来使用。
 
 许多出色的新功能！ 玩得开心！
 

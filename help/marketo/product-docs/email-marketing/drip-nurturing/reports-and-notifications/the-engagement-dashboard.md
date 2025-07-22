@@ -4,9 +4,9 @@ description: 参与仪表板 — Marketo文档 — 产品文档
 title: 参与仪表板
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 查看参与仪表板 {#view-the-engagement-dashboard}
 
-选择您的参与计划，然后单击&#x200B;**查看** > **仪表板**。
+选择您的参与计划，然后单击&#x200B;**查看** > **[!UICONTROL Dashboard]**。
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您必须进入“设置”选项卡并确保已用完的内容通知为&#x200B;**开**，才能看到上图。 如果关闭，则图表看上去将不同。
+>您必须进入[!UICONTROL Setup]选项卡并确保[!UICONTROL Exhausted Content Notifications]为&#x200B;**[!UICONTROL On]**&#x200B;才能查看上面的图形。 如果关闭，则图表看上去将不同。
 
 >[!CAUTION]
 >
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能作为插件提供，适用于使用Marketo Revenue Cycle Explorer的客户。 有关其他详细信息，请联系Adobe客户团队（您的客户经理）。
+>此功能作为插件提供，适用于使用Marketo Revenue Cycle Explorer的客户。 有关更多详细信息，请联系Adobe客户团队（您的客户经理）。
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

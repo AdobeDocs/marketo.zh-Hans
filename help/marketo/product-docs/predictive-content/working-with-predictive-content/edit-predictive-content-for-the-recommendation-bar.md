@@ -4,9 +4,9 @@ description: 编辑推荐栏的预测内容 — Marketo文档 — 产品文档
 title: 编辑推荐栏的预测内容
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '72'
 ht-degree: 2%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->在“所有内容”页面上，预测内容[&#128279;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为批准。
+>在“所有内容”页面上，预测内容[的内容必须为](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)批准。
 
-1. 在&#x200B;**预测内容**&#x200B;页面上，单击标题以打开编辑器。
+1. 在&#x200B;**[!UICONTROL Predictive Content]**&#x200B;页面上，单击标题以打开编辑器。
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. 单击&#x200B;**栏**。
+1. 单击 **[!UICONTROL Bar]**。
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -31,6 +31,6 @@ ht-degree: 2%
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/save.png)

@@ -4,10 +4,10 @@ description: 添加/删除自定义对象字段作为智能列表/触发器约�
 title: 添加/删除自定义对象字段作为智能列表/触发器约束
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '173'
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Marketo Engage提供了对Salesforce自定义对象同步的细粒度控制。 �
 >
 >**需要管理员权限**
 
-1. 已转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 单击&#x200B;**[!UICONTROL Admin].**
 
    ![](assets/add-remove-custom-object-field-1.png)
 
-1. 单击 **[!UICONTROL Salesforce Objects Sync]**。
+1. 单击&#x200B;**[!UICONTROL Admin]**，然后单击&#x200B;**[!UICONTROL Salesforce Objects Sync].**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 

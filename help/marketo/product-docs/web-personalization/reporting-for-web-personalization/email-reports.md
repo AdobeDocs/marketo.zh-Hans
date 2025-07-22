@@ -4,16 +4,16 @@ description: 电子邮件报表 — Marketo文档 — 产品文档
 title: 电子邮件报告
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
 # 电子邮件报告 {#email-reports}
 
-若要自定义用户收到的自动电子邮件报表，请参阅[用户设置部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
+要自定义用户收到的自动电子邮件报告，请参阅[[!UICONTROL User Settings]部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
 
 ## Web Personalization电子邮件报表 {#web-personalization-email-reports}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 每日/每周人员报表会根据人员的电子邮件地址、组织名称、位置、州、人员捕获日期和该人员所属的区段，从网站向用户发送最近100人的电子邮件。
 
-## 表现最佳的实时活动 {#top-performing-real-time-campaigns}
+## [!UICONTROL Top Performing Real-time Campaigns] {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
@@ -55,18 +55,18 @@ ht-degree: 0%
 
 ![](assets/six.png)
 
-摘要报表会向用户发送一封电子邮件（每月或每季度），其中包含所有营销活动以及根据点击次数和参与个性化营销活动或推荐内容后成为已知人员的人员数量（直接或协助）推荐的内容效果。 该报表会将结果与上个月或上一季度进行比较。
+摘要报表会根据点击次数和参与个性化营销活动或推荐内容并随后成为已知人员的人员数量（直接或协助），向用户发送一封包含所有营销活动和推荐内容表现的电子邮件（每月或每季度）。 该报表会将结果与上个月或上一季度进行比较。
 
 >[!NOTE]
 >
 >**定义**
 >
->**直接转化**：点击个性化促销活动或推荐的内容资产并在同一访问会话中继续点击的Web访客将使用其电子邮件地址填写网站上的任何表单。
+>**[!UICONTROL Direct Conversions]**：Web访客如果在同一访问会话中点击个性化促销活动或推荐的内容资产，则会继续填写网站上的任何表单及其电子邮件地址。
 >
->**辅助转化**：填写网站上的任何表单并保留其电子邮件地址的Web访客，而在之前的访问（过去6个月内）中，单击了个性化促销活动或推荐的内容资产。
+>**[!UICONTROL Assisted Conversions]**：填写网站上的任何表单并保留其电子邮件地址的Web访客在上次访问（过去6个月内）时单击了个性化促销活动或推荐的内容资产。
 
 >[!NOTE]
 >
->Marketo Web Personalization可捕获Web访客在网站上完成的任何表单的电子邮件地址。 该报表可在Web Personalization的“人员”页面中查看，并且是在摘要报表中使用的人员。
+>Marketo Web Personalization可捕获Web访客在网站上完成的任何表单的电子邮件地址。 该报表在[!UICONTROL Web Personalization] [!UICONTROL People]页面中查看，并且是在摘要报表中使用的人员。
 
 若要自定义用户收到的自动电子邮件报表，请参阅[用户设置部分](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。

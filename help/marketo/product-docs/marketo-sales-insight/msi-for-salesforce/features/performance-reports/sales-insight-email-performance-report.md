@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4720314
-description: 销售分析电子邮件性能报表 — Marketo文档 — 产品文档
-title: 销售分析电子邮件绩效报表
+description: 销售Insight电子邮件性能报表 — Marketo文档 — 产品文档
+title: 销售Insight电子邮件性能报表
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 1%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
-# 销售分析电子邮件绩效报表 {#sales-insight-email-performance-report}
+# 销售Insight电子邮件性能报表 {#sales-insight-email-performance-report}
 
-查看通过Salesforce、Microsoft Dynamics或Gmail或Outlook插件发送的电子邮件性能。
+查看通过[!DNL Salesforce]、[!DNL Microsoft Dynamics]或Gmail或[!DNL Outlook]插件发送的电子邮件性能。
 
 ## 生成报表 {#generate-a-report}
 
-1. 单击&#x200B;**分析**。
+1. 单击 **[!UICONTROL Analytics]**。
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. 单击&#x200B;**Sales Insight Email Performance**。
+1. 单击 **[!UICONTROL Sales Insight Email Performance]**。
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡，然后选择所需的值。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡并选择所需的值。
 
    ![](assets/three.png)
 
-1. 单击&#x200B;**报表**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -37,29 +37,29 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >对于通过Sales Insight发送的电子邮件，不会捕获投放状态，也不会包含在此报表或活动日志中。
+   >对于通过Sales Insight发送的电子邮件，不会捕获其投放状态，并且不会包含在此报表或活动日志中。
 
 >[!TIP]
 >
 >单击电子邮件的名称，以在电子邮件预览器中将其打开。
 
-## 按销售代表分组 {#group-by-sales-rep}
+## 按[!UICONTROL Sales Rep]分组 {#group-by-sales-rep}
 
 您可以通过更改设置来查看按销售代表分组的此报告。
 
-1. 单击&#x200B;**设置**。 双击&#x200B;**电子邮件**。
+1. 单击&#x200B;**[!UICONTROL Setup]**。 双击&#x200B;**[!UICONTROL Email]**。
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. 选择&#x200B;**销售代表**&#x200B;的组电子邮件。
+1. 选择按&#x200B;**[!UICONTROL Sales Rep]**&#x200B;分组电子邮件。
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. 单击&#x200B;**报表**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

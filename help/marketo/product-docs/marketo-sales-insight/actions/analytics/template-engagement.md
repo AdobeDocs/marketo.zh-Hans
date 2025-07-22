@@ -3,9 +3,9 @@ description: 模板参与度 — Marketo文档 — 产品文档
 title: 模板参与
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. 导航到&#x200B;**Analytics**&#x200B;页面。
 
-1. 单击&#x200B;**Content**&#x200B;按钮并按所需的日期范围进行筛选。
+1. 单击&#x200B;**[!UICONTROL Content]**&#x200B;按钮并按所需的日期范围进行筛选。
 
 1. 根据选定的日期范围，您可以在页面顶部查看团队使用的电子邮件和模板总数。
 

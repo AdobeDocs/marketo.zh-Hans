@@ -4,19 +4,24 @@ description: 将Salesforce ID导入Sales Connect - Marketo文档 — 产品文�
 title: 将Salesforce ID导入Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 # 将Salesforce ID导入Sales Connect {#import-a-salesforce-id-into-sales-connect}
 
-Sales Connect使用Contact或Lead ID （也称为Salesforce ID ）帮助将信息正确记录到Salesforce。 您可以通过以下几种方式将Salesforce ID附加到Sales Connect中的联系人。
+[!DNL Sales Connect]使用联系人或潜在客户ID （也称为[!DNL Salesforce] ID）来帮助将信息正确记录到[!DNL Salesforce]。 有几种方法可以将您的[!DNL Salesforce] ID附加到[!DNL Sales Connect]中的联系人。
 
-[推送到Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)：使用“推送到Sales Connect”将在Sales Connect中创建包含所有关键联系人信息的联系人，包括潜在客户/联系人的Salesforce ID。
+[推送到Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)：使用“推送到Sales Connect”将创建联系人
+[!DNL Sales Connect]包含所有关键联系人信息，包括潜在客户/联系人的
+[!DNL Salesforce] ID。
 
-[在SFDC中发送Marketo Sales电子邮件、添加到Campaign并单击以呼叫按钮](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)：当您在Salesforce中使用这三个按钮中的任意按钮时，我们将使用Salesforce ID将联系人推送到Sales Connect。
+[在SFDC中发送Marketo销售电子邮件、添加到Campaign，然后单击以调用按钮](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)：当您在中使用这三个按钮之一时
+[!DNL Salesforce]，我们将联系人推送到
+[!DNL Sales Connect]使用
+[!DNL Salesforce] ID。
 
-[导入CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)：如果您从Salesforce导出潜在客户/联系人列表，并且包含具有Salesforce ID的列，则可以在导入时将该字段映射到Sales Connect。
+[导入CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)：如果您从Salesforce导出潜在客户/联系人列表，并包含具有[!DNL Salesforce] ID的列，则可以在导入时将该字段映射到[!DNL Sales Connect]。

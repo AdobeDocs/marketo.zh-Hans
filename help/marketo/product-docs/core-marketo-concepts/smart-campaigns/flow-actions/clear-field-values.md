@@ -4,9 +4,9 @@ description: 清除字段值 — Marketo文档 — 产品文档
 title: 清除字段值
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [更改数据值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)很好，但如何&#x200B;_完全删除_&#x200B;该值？ 问得好！
 
-1. 在流程步骤中，选择要清除的字段并键入&#x200B;**NULL** （全部大写）作为&#x200B;**新值**。
+1. 在流程步骤中，选择要清除的字段并键入&#x200B;**[!UICONTROL NULL]**（全部大写）作为&#x200B;**[!UICONTROL New Value]**。
 
    ![](assets/clear-field-values-1.png)
 

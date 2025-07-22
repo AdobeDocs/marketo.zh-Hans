@@ -4,20 +4,20 @@ description: 使用有趣的时刻 — Marketo文档 — 产品文档
 title: 使用有趣的时刻
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # 使用有趣的时刻 {#using-interesting-moments}
 
-有趣的时刻是通过Marketo Sales Insight应用程序与您的销售团队沟通的关键。
+有趣的时刻是通过[!DNL Marketo Sales Insight]应用程序与您的销售团队进行沟通的关键。
 
 >[!AVAILABILITY]
 >
->这些功能仅适用于Marketo Sales Insight和[Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)客户。
+>这些仅对[!DNL Marketo Sales Insight]和[[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)客户可用。
 
 ## 什么是一个有趣的时刻？ {#what-is-an-interesting-moment}
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/using-interesting-moments-1.png)
 
-1. 拖动到&#x200B;**有趣的时刻**&#x200B;流程步骤上。
+1. 拖动到&#x200B;**[!UICONTROL Interesting Moments]**&#x200B;流程步骤上。
 
    ![](assets/using-interesting-moments-2.png)
 
-1. 选择&#x200B;**类型**（电子邮件、里程碑或Web）。
+1. 选择&#x200B;**类型** （[!UICONTROL Email]、[!UICONTROL Milestone]或[!UICONTROL Web]）。
 
    ![](assets/using-interesting-moments-3.png)
 
-1. 在&#x200B;**Description**&#x200B;字段中向您的销售团队写入一条消息，说明此操作重要的原因。
+1. 在&#x200B;**[!UICONTROL Description]**&#x200B;字段中向您的销售团队写入一条消息，说明此操作重要的原因。
 
    ![](assets/using-interesting-moments-4.png)
 
@@ -63,29 +63,29 @@ ht-degree: 0%
 
 ![](assets/using-interesting-moments-5.png)
 
-## 在Salesforce中，一个有趣的时刻是什么样的？  {#what-does-an-interesting-moment-look-like-in-salesforce}
+## 在[!DNL Salesforce]中，有趣的时刻是什么样的？  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-在您[安装Marketo Sales Insight应用程序](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)后，潜在客户、联系人、客户或机会页面上将显示有趣的时刻。 它们还会显示在Lead Feed 、 Best Bets和Watch列表的Sales Insight仪表板中。
+在您[安装 [!DNL Marketo Sales Insight] 应用程序](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)后，潜在客户、联系人、客户或机会页面上将显示有趣的时刻。 它们还显示在潜在客户信息源[!DNL Sales Insight]和观察列表的[!DNL Best Bets]仪表板中。
 
 ![](assets/using-interesting-moments-6.png)
 
-## 在Salesforce1中，一个有趣的时刻是什么样的？ {#what-does-an-interesting-moment-look-like-in-salesforce-1}
+## 在[!DNL Salesforce1]中，有趣的时刻是什么样的？ {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-安装或更新Marketo Sales Insight for Salesforce1后，潜在客户的相关链接下将显示有趣的时刻。
+安装或更新[!DNL Marketo Sales Insight]的[!DNL Salesforce1]后，潜在客户的相关链接下将显示有趣的时刻。
 
 ![](assets/using-interesting-moments-7.png)
 
 ## 订阅有趣的时刻 {#subscribe-to-interesting-moments}
 
-您可以通过在“有趣的时刻”选项卡或“潜在客户”信息源中单击“订阅”按钮来订阅“有趣的时刻”。 以下步骤对两者相同。
+您可以通过单击“有趣的时刻”选项卡或“潜在客户”信息源中的[!UICONTROL Subscribe]按钮来订阅有趣的时刻。 以下步骤对两者相同。
 
 1. 单击订阅图标。 随后将导航到Email Subscribe选项卡。
 
-1. 您可以根据“名称”、“帐户”、“类型”或“说明”选择要接收的电子邮件警报类型。
+1. 您可以根据[!UICONTROL Name]、[!UICONTROL Account]、[!UICONTROL Type]或[!UICONTROL Description]选择要接收的电子邮件警报类型。
 
 1. 选择要将警报发送给（您自己/团队成员）的电子邮件地址
 
-1. 单击&#x200B;**订阅**。
+1. 单击 **[!UICONTROL Subscribe]**。
 
 >[!NOTE]
 >

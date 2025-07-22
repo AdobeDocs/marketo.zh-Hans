@@ -4,16 +4,16 @@ description: 将模块添加到电子邮件 — Marketo文档 — 产品文档
 title: 将模块添加到电子邮件
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
 # 将模块添加到电子邮件 {#add-modules-to-your-email}
 
-在电子邮件编辑器2.0中，模块是在模板中定义的电子邮件的一部分。 模块可以包含元素、变量和其他HTML内容的任意组合。 将此类受众添加到您的电子邮件中很容易。
+在[!DNL Email Editor 2.0]中，模块是在模板中定义的电子邮件部分。 模块可以包含元素、变量和其他HTML内容的任意组合。 将此类受众添加到您的电子邮件中很容易。
 
 1. 创建电子邮件。 请务必选择（或创建）包含模块的模板。
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >大多数Marketo入门模板都包含模块。 您也可以[创建您自己的](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)。
+   >大多数Marketo [!UICONTROL Starter Templates]包含[!UICONTROL Modules]。 您也可以[创建您自己的](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)。
 
-1. 单击电子邮件最右侧的&#x200B;**模块**。
+1. 单击电子邮件最右侧的&#x200B;**[!UICONTROL Modules]**。
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/nine-2.png)
 
-1. 单击齿轮图标，然后选择&#x200B;**上移**&#x200B;或&#x200B;**下移**，具体取决于您希望模块移动的位置。
+1. 单击齿轮图标，然后选择&#x200B;**[!UICONTROL Move Up]**&#x200B;或&#x200B;**[!UICONTROL Move Down]**，具体取决于您希望模块转到的位置。
 
    ![](assets/ten-2.png)
 

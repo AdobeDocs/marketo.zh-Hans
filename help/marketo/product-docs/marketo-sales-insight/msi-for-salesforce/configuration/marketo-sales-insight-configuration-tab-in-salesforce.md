@@ -1,26 +1,26 @@
 ---
 unique-page-id: 42762322
-description: Salesforce中的“Marketo Sales Insight配置”选项卡 — Marketo文档 — 产品文档
-title: Salesforce中的“Marketo Sales Insight配置”选项卡
+description: Salesforce中的Marketo Sales Insight Configuration选项卡 — Marketo文档 — 产品文档
+title: Salesforce中的Marketo Sales Insight Configuration选项卡
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
 
-# Salesforce中的“Marketo Sales Insight配置”选项卡 {#marketo-sales-insight-configuration-tab-in-salesforce}
+# [!DNL Marketo Sales Insight]中的[!DNL Salesforce]配置选项卡 {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## 操作设置 {#operational-settings}
 
-您需要设置此设置，才能开始在SFDC中使用Sales Insight。
+您需要设置此设置，才能开始在SFDC中使用[!DNL Sales Insight]。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
 * MSI同时使用Soap和Rest API
-* 您的Marketo帐户中的“销售分析”页面将有两个相应的面板，它们具有Soap和Rest API凭据，您可以在此处复制并粘贴
+* Marketo帐户中的Sales Insight页面将具有两个带Soap和Rest API凭据的相应面板，您可以在此处复制并粘贴这些面板
 * Soap和Rest API具有单独的超时，您可以根据组织的需求设置这些超时。 允许的最长时间为120秒
 * 禁用分析功能板：您可以删除Rest API凭据，而仅使用Soap API。 这样做将禁用所有MSI Visualforce面板中的分析功能板选项卡
 
@@ -36,13 +36,13 @@ ht-degree: 0%
 * 即将发生的事件：能够向用户显示受邀事件、所有事件或完全隐藏此选项卡
 * 即将推出的营销活动：可显示所有电子邮件营销活动或完全隐藏此选项卡
 * 加载即将开始的营销活动和事件：通过将事件和营销活动选项卡置于按需“加载即将发生的项目”按钮的后面，能够减少用户发出的Rest API调用数
-* 选项卡设置：默认情况下，所有五个选项卡均可用。 您可以在“销售分析”面板中选择选项卡的顺序。 相同的顺序将适用于所有布局(Lead、Contact、Account、Opportunity)
+* 选项卡设置：默认情况下，所有五个选项卡均可用。 您可以在Sales Insight面板中选择选项卡的顺序。 相同的顺序将适用于所有布局(Lead、Contact、Account、Opportunity)
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
 **Marketo全局选项卡**
 
-* 启用RSS馈送：启用后，MSI用户可以在RSS馈送中查看其潜在客户馈送（除Salesforce中的潜在客户馈送之外）。 仅当“令牌过期”功能被禁用时，RSS馈送才能正常工作。 此设置在您的Marketo Sales Insight“管理员”页面中进行控制。
+* 启用RSS信息源：启用后，MSI用户可以在RSS信息源中查看其潜在客户信息源(除Salesforce中的潜在客户信息源之外)。 仅当“令牌过期”功能被禁用时，RSS馈送才能正常工作。 此设置可在您的Marketo Sales Insight Admin页面中进行控制。
 * 最佳调试模式
 * 默认隐藏：您在此处选择的选项是单击“隐藏”图标时最佳匹配在Marketo的“最佳匹配”选项卡中隐藏的天数
 * 联系人状态字段：您在此处选择的选项将是在Marketo的“最佳匹配”选项卡的“状态标题”列中填充的值
@@ -58,20 +58,20 @@ ht-degree: 0%
 
 **操作设置**
 
-* 发送Marketo电子邮件：启用此项将为所有Sales Insight用户授予从Lead 、 Contact 、 Account 、 Opportunity面板和Best Bets选项卡（批量操作和内联参与）发送电子邮件的访问权限
-* 添加到Marketo Campaign：启用此项可为所有Sales Insight用户提供从Lead 、 Contact 、 Account 、 Opportunity面板和Best Bets选项卡（批量操作和内联参与）添加到营销活动的权限
+* 发送Marketo电子邮件：如果启用此选项，将允许所有Sales Insight用户从Lead 、 Contact 、 Account 、 Opportunity面板和Best Bets选项卡（批量操作和内联参与）发送电子邮件
+* 添加到Marketo Campaign：启用此项可为所有Sales Insight用户授予从Lead、Contact、Account、Opportunity面板和Best Bets选项卡（批量操作和内联参与）添加到营销活动的权限
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
 ## 支持设置 {#support-settings}
 
-选中此复选框将启用Salesforce实例中的调试日志记录。 它可以帮助您排除问题。
+选中此复选框将在您的Salesforce实例中启用Debug Logging 。 它可以帮助您排除问题。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
 
 ## 重置Marketo Sales Insight {#reset-marketo-sales-insight}
 
-选择此操作将擦除SFDC中的所有配置，并且无法恢复它们。 您将必须重新配置所有内容。
+选择这样做将擦除SFDC中的所有配置，并且无法恢复它们。 您将必须重新配置所有内容。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-6.png)
 
@@ -81,4 +81,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[添加销售分析访问用户档案](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[添加Sales Insight访问用户档案的权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

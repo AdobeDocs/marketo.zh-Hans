@@ -4,16 +4,16 @@ description: SFDC同步 — 潜在客户/帐户所有者同步 — Marketo文档
 title: SFDC同步 — 潜在客户/帐户所有者同步
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：潜在客户/帐户所有者同步 {#sfdc-sync-lead-account-owner-sync}
 
-这些字段在技术上同步了Salesforce中的“用户”表，但我们会将其称为“潜在客户/帐户所有者”字段。
+这些从技术上讲，它们同步了[!DNL Salesforce]中的“用户”表，但是我们将它称为“潜在客户/帐户所有者”字段。
 
 ## 哪些字段将同步到Marketo Engage？ {#which-fields-will-sync-to-marketo-engage}
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 * Marketo中的分配（和重新分配）规则
 * 在[更改所有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}、[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}和[创建任务](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}流程操作中使用它们
 
-Marketo拥有出色的Salesforce同步功能。 没有人能做得这么好！
+Marketo确实拥有出色的[!DNL Salesforce]同步。 没有人能做得这么好！

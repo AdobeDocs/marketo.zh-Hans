@@ -4,9 +4,9 @@ description: 选择应用程序内消息 — Marketo文档 — 产品文档
 title: 选择您的应用程序内消息
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要选择其他消息，请在应用程序内消息字段中删除该消息。 随后，新的应用程序内消息链接将返回过来。 单击该按钮并选择其他消息。
+   >若要选择其他消息，请在[!UICONTROL In-App Message]字段中将其删除。 然后，[!UICONTROL New In-App Message]链接返回。 单击该按钮并选择其他消息。
 
 你说的没错。 [计划发送](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)的时间。

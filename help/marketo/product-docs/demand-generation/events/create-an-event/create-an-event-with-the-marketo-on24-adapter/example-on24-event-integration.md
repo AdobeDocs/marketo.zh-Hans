@@ -4,9 +4,9 @@ description: ON24事件集成示例 — Marketo文档 — 产品文档
 title: ON24事件集成示例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ## 在营销活动中创建新事件 {#create-a-new-event-in-marketing-activities}
 
-1. 选择&#x200B;**新建** > **新建程序**。
+1. 选择&#x200B;**[!UICONTROL New]** > **[!UICONTROL New Program]**。
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. 选择活动将所在的&#x200B;**Campaign文件夹**。
+1. 选择活动将所在的&#x200B;**[!UICONTROL Campaign Folder]**。
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. 输入事件的&#x200B;**名称**。
+1. 输入事件的&#x200B;**[!UICONTROL Name]**。
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. 选择&#x200B;**Event**&#x200B;作为&#x200B;**程序类型**。
+1. 选择&#x200B;**[!UICONTROL Event]**&#x200B;作为&#x200B;**[!UICONTROL Program Type]**。
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. 选择&#x200B;**网络研讨会**&#x200B;作为事件的&#x200B;**渠道**。
+1. 选择&#x200B;**[!UICONTROL Webinar]**&#x200B;作为事件的&#x200B;**[!UICONTROL Channel]**。
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. 单击&#x200B;**创建**。
+1. 单击 **[!UICONTROL Create]**。
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
 * **智能列表**
 
-   * 根据&#x200B;**填写表单**&#x200B;触发营销活动。 确保使用&#x200B;**添加约束**&#x200B;来包含表单所在的登陆页面，尤其是表单用于多个登陆页面时。
+   * 根据&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;触发营销活动。 确保使用&#x200B;**[!UICONTROL Add Constraint]**&#x200B;包含表单所在的登陆页面，尤其是该表单用于多个登陆页面时。
 
 >[!CAUTION]
 >
->您必须使用Marketo表单注册事件用户，或使用具有正确API集成的非Marketo表单将注册数据推送到Marketo。 这对于成功集成Event Partner至关重要。 **注意**：如果您在非Marketo登录页面上使用Marketo表单，则触发器将为&#x200B;**使用表单名称**&#x200B;填写表单。
+>您必须使用Marketo表单注册事件用户，或使用具有正确API集成的非Marketo表单将注册数据推送到Marketo。 这对于[!UICONTROL Event Partner]集成的成功至关重要。 **注意**：如果您在非Marketo登录页面上使用Marketo表单，则您的触发器将为&#x200B;**[!UICONTROL Fills Out Form]**，带有[!UICONTROL Form Name]。
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 

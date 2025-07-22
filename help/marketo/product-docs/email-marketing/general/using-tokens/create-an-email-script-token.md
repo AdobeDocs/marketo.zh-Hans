@@ -4,9 +4,9 @@ description: 创建电子邮件脚本令牌 — Marketo文档 — 产品文档
 title: 创建电子邮件脚本令牌
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 对于高级开发人员，您可以在电子邮件中使用[Velocity脚本](https://velocity.apache.org/engine/1.7/user-guide.html)。 下面是操作方法。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. 在&#x200B;**我的令牌**&#x200B;选项卡下，拖入&#x200B;**电子邮件脚本**&#x200B;令牌。
+1. 在&#x200B;**[!UICONTROL My Tokens]**&#x200B;选项卡下，拖入&#x200B;**[!UICONTROL Email Script]**&#x200B;令牌。
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. 命名您的电子邮件脚本令牌，然后&#x200B;**单击以编辑**&#x200B;其内容。
+1. 命名您的电子邮件脚本令牌并&#x200B;**[!UICONTROL Click to Edit]**&#x200B;其内容。
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. 使用右侧的树拖入&#x200B;**人员、机会**&#x200B;或&#x200B;**自定义对象**&#x200B;令牌。
+1. 使用右侧的树拖入&#x200B;**[!UICONTROL Person]**、**[!UICONTROL Opportunity]**&#x200B;或&#x200B;**[!UICONTROL Custom Object]**&#x200B;令牌。
 
    ![](assets/five-2.png)
 
@@ -49,16 +49,16 @@ ht-degree: 0%
 
 1. 在Velocity中编写脚本。 以下是一些有用的资源：
 
-   * [Marketo开发人员电子邮件脚本文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo开发人员电子邮件脚本文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity用户指南](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity参考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity工具Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. 脚本完成后，单击&#x200B;**保存**。
+1. 脚本完成后，单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. 再次单击&#x200B;**保存**。
+1. 再次单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

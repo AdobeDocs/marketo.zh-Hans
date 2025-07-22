@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949283
-description: 使用Marketo模板从Outlook中发送和跟踪 — Marketo文档 — 产品文档
-title: 使用Marketo模板从Outlook发送和跟踪
+description: 使用Marketo模板从 [!DNL Outlook] 发送和跟踪 — Marketo文档 — 产品文档
+title: 使用Marketo模板从 [!DNL Outlook] 发送和跟踪
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-# 使用Marketo模板从Outlook发送和跟踪 {#send-and-track-from-outlook-using-a-marketo-template}
+# 使用Marketo模板从[!DNL Outlook]发送和跟踪 {#send-and-track-from-outlook-using-a-marketo-template}
 
 如果您的营销团队已经为您提供了模板，下面说明了如何在撰写电子邮件时使用这些模板来节省时间。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. 选择所需的模板并预览，然后单击&#x200B;**确定**。
+1. 选择所需的模板并预览，然后单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. 进行所有编辑，然后单击&#x200B;**发送并跟踪**。
+1. 进行所有编辑，然后单击&#x200B;**[!UICONTROL Send and Track]**。
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >该加载项不支持令牌。 删除模板中可能包含的任何内容。
 
-1. 查看预览，确保它看起来正常，然后单击&#x200B;**发送**。
+1. 查看预览，确保它看起来正常，然后单击&#x200B;**[!UICONTROL Send]**。
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 

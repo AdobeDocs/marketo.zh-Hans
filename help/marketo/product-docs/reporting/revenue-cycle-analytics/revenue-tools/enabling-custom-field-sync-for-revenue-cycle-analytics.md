@@ -4,30 +4,30 @@ description: 为收入周期Analytics启用自定义字段同步 — Marketo文�
 title: 启用收入周期Analytics的自定义字段同步
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 1%
 
 ---
 
-# 启用收入周期Analytics的自定义字段同步 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# 正在启用[!UICONTROL Revenue Cycle Analytics]的自定义字段同步 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 以下步骤将允许您利用RCA报告中的自定义字段。
 
-1. 单击&#x200B;**管理员**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/one.png)
 
-1. 单击&#x200B;**收入周期Analytics**，然后单击&#x200B;**自定义字段同步**。
+1. 单击&#x200B;**[!UICONTROL Revenue Cycle Analytics]**，然后单击&#x200B;**[!UICONTROL Custom Field Sync]**。
 
    ![](assets/two.png)
 
-1. 选择您的&#x200B;**字段名称**，然后单击&#x200B;**编辑同步选项**。
+1. 选择您的&#x200B;**[!UICONTROL Field Name]**，然后单击&#x200B;**[!UICONTROL Edit Sync Option]**。
 
    ![](assets/three.png)
 
-1. 在“同步状态”下，选择&#x200B;**已启用**，然后单击&#x200B;**保存**。
+1. 在&#x200B;**[!UICONTROL Sync Status]**&#x200B;下，选择&#x200B;**[!UICONTROL Enabled]**，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/four.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >启用该字段后，数据将在第二天的Revenue Cycle Analytics中可用。
+   >启用该字段后，数据将在第二天[!UICONTROL Revenue Cycle Analytics]中可用。

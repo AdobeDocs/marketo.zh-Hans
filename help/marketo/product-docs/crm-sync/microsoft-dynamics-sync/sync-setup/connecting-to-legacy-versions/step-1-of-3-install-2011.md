@@ -4,16 +4,16 @@ description: 第1步（共3步） — 安装Marketo解决方案（2011年内部�
 title: 步骤1/3 — 安装Marketo解决方案（2011年内部部署）
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '253'
 ht-degree: 1%
 
 ---
 
 # 第1步（共3步）：安装Marketo解决方案（2011年内部部署） {#step-of-install-the-marketo-solution-on-premises}
 
-在同步Microsoft Dynamics内部部署和Marketo Engage之前，您需要先在Dynamics中安装Marketo解决方案。
+在同步[!DNL Microsoft Dynamics]内部部署和Marketo之前，您需要先在[!DNL Dynamics]中安装Marketo解决方案。
 
 >[!NOTE]
 >
@@ -21,17 +21,17 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->必须配置了[Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0、2.1或3.0 (ADFS)的[面向Internet的部署](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD)。 **注意**：单击链接时，IFD文档会自动下载。
+>必须配置了[Active Directory联合身份验证服务](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} 2.0、2.1或3.0 (ADFS)的[面向Internet的部署](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} (IFD)。 **注意**：单击链接时，IFD文档会自动下载。
 >
 >在开始之前[下载Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。
 
 >[!NOTE]
 >
->**需要Dynamics管理员权限**。
+>需要&#x200B;**[!DNL Dynamics]管理员权限。**
 >
 >您需要CRM管理员权限才能执行此同步。
 
-1. 登录到Dynamics，然后在左下角菜单中选择&#x200B;**[!UICONTROL Settings]**。
+1. 登录到&#x200B;**[!DNL Dynamics]**，在左下角菜单中选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -43,7 +43,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 单击&#x200B;**[!UICONTROL Browse]**。 选择您[下载的Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。 单击 **[!UICONTROL Next]**。
+1. 单击&#x200B;**[!UICONTROL Browse]**。 选择您[下载的Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -79,11 +79,11 @@ ht-degree: 1%
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marketo潜在客户管理现在将显示在&#x200B;**所有解决方案**&#x200B;页面上。
+1. [!UICONTROL Marketo Lead Management]现在将显示在&#x200B;**[!UICONTROL All Solutions]**&#x200B;页面上。
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. 选择Marketo潜在客户管理，然后单击&#x200B;**[!UICONTROL Publish All Customizations]**。
+1. 选择[!UICONTROL Marketo Lead Management]并单击&#x200B;**[!UICONTROL Publish All Customizations]**。
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
@@ -93,4 +93,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[第2步（共3步）：在Dynamics（2011内部部署）中设置Marketo同步用户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}
+>[第2步（共3步）：在 [!DNL Dynamics] 中设置Marketo同步用户（2011年内部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

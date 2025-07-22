@@ -4,9 +4,9 @@ description: 激活和停用流内容 — Marketo文档 — 产品文档
 title: 激活和停用流内容
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '127'
 ht-degree: 1%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 ## 激活流内容 {#activate-stream-content}
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择您的参与计划，然后单击&#x200B;**流**&#x200B;选项卡。
+1. 选择您的参与计划并单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![](assets/cloneasteam.jpg)
 
-1. 将鼠标悬停在要激活的内容上，单击齿轮图标，然后单击&#x200B;**激活**。
+1. 将鼠标悬停在要激活的内容上，单击齿轮图标，然后单击&#x200B;**[!UICONTROL Activate]**。
 
    >[!NOTE]
    >
@@ -35,16 +35,16 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >您还可以通过单击顶级的齿轮图标，然后单击&#x200B;**激活所有内容**&#x200B;来激活流中的所有内容。
+   >您还可以通过单击顶级的齿轮图标，然后单击&#x200B;**[!UICONTROL Activate all content]**&#x200B;来激活流中的所有内容。
 
    做得不错！现在您知道如何激活流中的内容了。
 
 ## 取消激活流内容 {#deactivate-stream-content}
 
-1. 选择您的参与计划，然后单击&#x200B;**流**&#x200B;选项卡。
+1. 选择您的参与计划并单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![](assets/cloneasteam.jpg)
 
-1. 将鼠标悬停在要取消激活的内容上，单击齿轮图标，然后单击&#x200B;**取消激活**。
+1. 将鼠标悬停在要取消激活的内容上，单击齿轮图标，然后单击&#x200B;**[!UICONTROL Deactivate]**。
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)

@@ -4,9 +4,9 @@ description: 潜在客户帐户匹配 — Marketo文档 — 产品文档
 title: 商机帐户匹配
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**潜在客户与帐户匹配**&#x200B;是Marketo Target帐户管理的内置功能。 它使用模糊逻辑近乎实时地自动匹配通向正确指定帐户的线索。 这些指定帐户可以是CRM帐户或Marketo公司。
+>**商机帐户匹配**&#x200B;是Marketo [!UICONTROL Target Account Management]的内置功能。 它使用模糊逻辑近乎实时地自动匹配通向正确指定帐户的线索。 这些指定帐户可以是CRM帐户或Marketo公司。
 
 ## 概述 {#overview}
 
@@ -37,7 +37,7 @@ Marketo商机帐户匹配遵循以下4个步骤流程：
 
 **步骤4 -**&#x200B;我们提供一个建议的公司列表，这些公司具有强匹配和弱匹配。 当根据其中一家提议的公司创建指定帐户时，我们会创建匹配规则以自动将新的潜在客户（例如，填写表单的潜在客户）关联到正确的指定帐户。 这样，您就可以更少地担心匹配潜在客户，而更担心获得收入！
 
-由于Marketo商机与帐户匹配是Marketo Target帐户管理的内置功能，因此匹配商机会近乎实时地发生帐户(例如，当商机填写Marketo表单时，我们会将该商机与正确的指定帐户关联)。 此事件可用于触发警报，并向帐户所有者通知从其指定帐户传入的新潜在客户。
+由于Marketo商机与帐户匹配是Marketo [!UICONTROL Target Account Management]的一项内置功能，因此对商机与帐户的匹配几乎实时发生(例如，当商机填写Marketo表单时，我们会将该商机与正确的指定帐户相关联)。 此事件可用于触发警报，并向帐户所有者通知从其指定帐户传入的新潜在客户。
 
 >[!NOTE]
 >
@@ -47,25 +47,25 @@ Marketo商机帐户匹配遵循以下4个步骤流程：
 
 在[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)为您的帐户启用LeanData后，请按照以下步骤进行设置。
 
-1. 在Salesforce中，单击左侧导航栏中的&#x200B;**设置主页**。
+1. 在Salesforce中，单击左侧导航栏中的&#x200B;**[!UICONTROL Setup Home]**。
 
-1. 仍然在左侧导航中的“管理”下，单击&#x200B;**用户**，然后单击&#x200B;**配置文件**。
+1. 仍然在左侧导航中的“管理”下，单击&#x200B;**[!UICONTROL Users]**，然后单击&#x200B;**[!UICONTROL Profiles]**。
 
 1. 找到并选择&#x200B;**Marketo Sync**&#x200B;配置文件。
 
-1. 向下滚动到“字段级安全性”部分，并找到Lead对象。 选择&#x200B;**视图**。
+1. 向下滚动到“字段级安全性”部分，并找到Lead对象。 选择 **[!UICONTROL View]**。
 
-1. 对于字段名称“报表匹配的帐户”，请确保选中&#x200B;**读取权限**&#x200B;列中的复选框。
+1. 对于字段名称“报告匹配的帐户”，确保选中&#x200B;**[!UICONTROL Read Access]**&#x200B;列中的复选框。
 
-1. 在Marketo中，转到&#x200B;**管理员**&#x200B;部分。
+1. 在Marketo中，转到&#x200B;**[!UICONTROL Admin]**&#x200B;部分。
 
    ![](assets/lead-to-account-matching-1.png)
 
-1. 选择&#x200B;**字段管理**。
+1. 选择 **[!UICONTROL Field Management]**。
 
    ![](assets/lead-to-account-matching-2.png)
 
-1. 通过搜索“Reporting Matched Account”（报表匹配帐户），确认字段存在。
+1. 通过搜索&quot;[!UICONTROL Reporting Matched Account]&quot;确认字段存在。
 
    ![](assets/lead-to-account-matching-3.png)
 

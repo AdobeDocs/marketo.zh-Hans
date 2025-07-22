@@ -3,10 +3,10 @@ description: 高级搜索概述 — Marketo文档 — 产品文档
 title: 高级搜索概述
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 1%
+source-wordcount: '380'
+ht-degree: 2%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 1%
 
 ## 如何访问高级搜索 {#how-to-access-advanced-search}
 
-1. 在Web应用程序中，单击&#x200B;**命令中心**。
+1. 在Web应用程序中，单击&#x200B;**[!UICONTROL Command Center]**。
 
    ![](assets/advanced-search-overview-1.png)
 
-1. 单击&#x200B;**电子邮件**。
+1. 单击 **[!UICONTROL Emails]**。
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 1%
 
    ![](assets/advanced-search-overview-3.png)
 
-1. 单击“高级搜索”。
+1. 单击 [!UICONTROL Advanced Search]。
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -36,13 +36,13 @@ ht-degree: 1%
 
 **日期**
 
-选择搜索的日期范围。 预设日期会根据您选择的电子邮件状态（已发送、未送达、待定）而更新。
+选择搜索的日期范围。 预设日期会根据您选择的电子邮件状态([!UICONTROL Sent]、[!UICONTROL Undelivered]、[!UICONTROL Pending])而更新。
 
 ![](assets/advanced-search-overview-5.png)
 
 **谁**
 
-在Who部分中按电子邮件收件人/发件人筛选。
+在[!UICONTROL Who]部分中按电子邮件收件人/发件人筛选。
 
 ![](assets/advanced-search-overview-6.png)
 
@@ -52,22 +52,22 @@ ht-degree: 1%
   <td><strong>描述</strong></td>
  </tr>
  <tr>
-  <td><strong>查看方式</strong></td>
+  <td><strong>[!UICONTROL View As]</strong></td>
   <td>在Sales Connect实例中按特定发件人筛选（此选项仅对管理员可用）。</td>
  </tr>
  <tr>
-  <td><strong>按组</strong></td>
+  <td><strong>[!UICONTROL By Group]</strong></td>
   <td>按特定收件人组过滤电子邮件。</td>
  </tr>
  <tr>
-  <td><strong>按人员</strong></td>
+  <td><strong>[!UICONTROL By Person]</strong></td>
   <td>按特定收件人筛选。</td>
  </tr>
 </table>
 
 **时间**
 
-按创建日期、交付日期、失败日期或计划日期进行选择。 可用选项会根据您选择的电子邮件状态（“已发送”、“未送达”、“待定”）而发生更改。
+按创建日期、交付日期、失败日期或计划日期进行选择。 可用选项会根据您选择的电子邮件状态([!UICONTROL Sent]、[!UICONTROL Undelivered]、[!UICONTROL Pending])而发生更改。
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -83,13 +83,13 @@ ht-degree: 1%
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**状态：已发送**&#x200B;_
+_**状态：已发送**_
 
 ![](assets/advanced-search-overview-10.png)
 
-按已发送的电子邮件活动筛选。 您可以选择视图/无视图、点击/无点击和/或回复/无回复。
+按已发送的电子邮件活动筛选。 您可以选择[!UICONTROL views]/[!UICONTROL no views]、[!UICONTROL clicks]/[!UICONTROL no clicks]和/或[!UICONTROL replies]/[!UICONTROL no replies]。
 
-_&#x200B;**状态：待处理**&#x200B;_
+_**状态：待处理**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -101,20 +101,20 @@ _&#x200B;**状态：待处理**&#x200B;_
   <td><strong>描述</strong></td>
  </tr>
  <tr>
-  <td><strong>已安排</strong></td>
-  <td>从撰写窗口（Salesforce或Web应用程序）、电子邮件插件或营销活动计划的电子邮件。</td>
+  <td><strong>[!UICONTROL Scheduled]</strong></td>
+  <td>从撰写窗口(Salesforce或Web应用程序)、电子邮件插件或营销活动计划的电子邮件。</td>
  </tr>
  <tr>
-  <td><strong>草稿</strong></td>
+  <td><strong>[!UICONTROL Drafts]</strong></td>
   <td>当前处于草稿状态的电子邮件。 电子邮件需要主题行和收件人才能另存为草稿。</td>
  </tr>
  <tr>
-  <td><strong>进行中</strong></td>
+  <td><strong>[!UICONTROL In Progress]</strong></td>
   <td>正在发送的电子邮件。 电子邮件不应保持此状态超过几秒钟。</td>
  </tr>
 </table>
 
-_&#x200B;**状态：未传递**&#x200B;_
+_**状态：未传递**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -126,15 +126,15 @@ _&#x200B;**状态：未传递**&#x200B;_
   <td><strong>描述</strong></td>
  </tr>
  <tr>
-  <td><strong>已失败</strong></td>
+  <td><strong>[!UICONTROL Failed]</strong></td>
   <td>当电子邮件无法从Sales Connect发送时（常见原因包括：电子邮件正在发送给未订阅/阻止的联系人，或者填充动态字段时出现问题）。</td>
  </tr>
  <tr>
-  <td><strong>已退回</strong></td>
+  <td><strong>[!UICONTROL Bounced]</strong></td>
   <td>当电子邮件被收件人的服务器拒绝时，该电子邮件将标记为已退回。 此处仅显示通过Sales Connect服务器发送的电子邮件。</td>
  </tr>
  <tr>
-  <td><strong>垃圾邮件</strong></td>
+  <td><strong>[!UICONTROL Spam]</strong></td>
   <td>当电子邮件被收件人标记为垃圾邮件（未经请求的电子邮件的常用术语）时。 此处仅显示通过Sales Connect服务器发送的电子邮件。</td>
  </tr>
 </table>
@@ -143,11 +143,11 @@ _&#x200B;**状态：未传递**&#x200B;_
 
 以下是如何创建保存的搜索。
 
-1. 所有筛选器都就绪后，单击&#x200B;**筛选器另存为**。
+1. 所有筛选器都就绪后，单击&#x200B;**[!UICONTROL Save Filters As]**。
 
    ![](assets/advanced-search-overview-13.png)
 
-1. 为您的搜索提供一个名称，然后单击&#x200B;**保存**。
+1. 为您的搜索提供一个名称，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/advanced-search-overview-14.png)
 

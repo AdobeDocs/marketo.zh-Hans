@@ -4,32 +4,32 @@ description: SFDC同步 — 潜在客户同步 — Marketo文档 — 产品文�
 title: SFDC同步 — 潜在客户同步
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：潜在客户同步 {#sfdc-sync-lead-sync}
 
-您是否知道Salesforce数据库中的Marketo Engage同步？ 它会同步，等待5分钟，然后再次同步。 一整天，每天。 以下是Marketo如何特别对待Salesforce潜在客户的一些详细信息。
+您是否知道[!DNL Salesforce]数据库中的Marketo同步？ 它会同步，等待5分钟，然后再次同步。 一整天，每天。 以下是Marketo如何专门处理[!DNL Salesforce]潜在客户的一些详细信息。
 
 ## 同步方向 {#sync-direction}
 
-商机（人员）和联系人同步是双向的。 如果您在Salesforce或Marketo中对记录进行了更改，则您的更新将反映在这两个系统中。
+商机（人员）和联系人同步是双向的。 如果您对[!DNL Salesforce]或Marketo中的记录进行了更改，则您的更新将反映在这两个系统中。
 
 ## 如果两个系统同时进行更改，该怎么办？ {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
 Marketo胜出。 这种数据冲突很少发生。
 
-## 我可以使用Marketo在Salesforce中创建潜在客户吗？ {#can-i-create-a-lead-in-salesforce-using-marketo}
+## 我可以使用Marketo在[!DNL Salesforce]中创建潜在客户吗？ {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-是，使用[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}流程操作。 如果商机不存在，这将在Salesforce中创建商机。
+是，使用[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)流程操作。 如果潜在客户不存在，这将在[!DNL Salesforce]中创建潜在客户。
 
-## 我能否手动强制将Marketo中的人员同步到Salesforce中的潜在客户？ {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
+## 我能否手动强制将Marketo中的人员同步到[!DNL Salesforce]中的潜在客户？ {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-是，使用[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}流程操作，它将实时同步。
+是，使用[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}流程操作，该操作将实时同步。
 
 ## 每个标准字段是否都会同步到Marketo？ {#does-every-single-standard-field-sync-to-marketo}
 
@@ -37,8 +37,8 @@ Marketo胜出。 这种数据冲突很少发生。
 
 >[!NOTE]
 >
->Marketo将仅同步您的Salesforce同步用户有权访问的字段。
+>Marketo将仅同步[!DNL Salesforce]同步用户有权访问的字段。
 
-## Marketo是否会遵守Salesforce验证规则？ {#will-marketo-respect-the-salesforce-validation-rules}
+## Marketo是否会遵守[!DNL Salesforce]验证规则？ {#will-marketo-respect-the-salesforce-validation-rules}
 
-是的。 如果数据格式错误或缺少必填字段信息，同步将失败。 如果发生这种情况，Marketo将在潜在客户活动日志中记录结果。
+可以。如果数据格式错误或缺少必填字段信息，同步将失败。 如果发生这种情况，Marketo将在潜在客户活动日志中记录结果。

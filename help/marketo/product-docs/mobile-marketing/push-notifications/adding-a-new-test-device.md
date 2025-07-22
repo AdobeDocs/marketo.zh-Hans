@@ -4,9 +4,9 @@ description: 添加新测试设备 — Marketo文档 — 产品文档
 title: 添加新测试设备
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 单击&#x200B;**管理员**，然后单击&#x200B;**移动设备应用程序**&#x200B;链接。
+1. 单击&#x200B;**[!UICONTROL Admin]**，然后单击&#x200B;**[!UICONTROL Mobile Apps]**&#x200B;链接。
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. 单击&#x200B;**测试设备**&#x200B;选项卡和&#x200B;**新测试设备**。
+1. 单击&#x200B;**[!UICONTROL Test Devices]**&#x200B;选项卡和&#x200B;**[!UICONTROL New Test Device]**。
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. 应用程序将打开。 命名设备并点按&#x200B;**是**。
+1. 应用程序将打开。 命名设备并点按&#x200B;**[!UICONTROL Yes]**。
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 

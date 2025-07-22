@@ -4,9 +4,9 @@ description: 在表单中调整标签/字段宽度大小 — Marketo文档 — �
 title: 调整表单中的标签/字段宽度
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. 为“标签宽度”和/或“字段宽度”输入像素值。
+1. 输入[!UICONTROL Label Width]和/或[!UICONTROL Field Width]的像素值。
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 

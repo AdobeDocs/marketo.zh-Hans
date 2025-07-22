@@ -4,16 +4,16 @@ description: 了解暂定/确认日期 — Marketo文档 — 产品文档
 title: 了解暂定/确认日期
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
 # 了解暂定/确认日期 {#understanding-tentative-confirmed-dates}
 
-智能营销活动和电子邮件程序具有强大的功能，可标记为&#x200B;**[!UICONTROL 暂定]**&#x200B;或&#x200B;**[!UICONTROL 已确认]**。 以下是它们的工作方式。
+智能营销活动和电子邮件程序具有强大的功能，可标记为&#x200B;**[!UICONTROL Tentative]**&#x200B;或&#x200B;**[!UICONTROL Confirmed]**。 以下是它们的工作方式。
 
 ## 暂定 {#tentative}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 确认条目 {#confirming-entries}
 
-这就像批准资产一样，因此在确认条目之前，需要完全设置条目。 一旦所有的鸭子都排成一行后，您就可以向右滑动“暂定”标签来确认登入。
+这就像批准资产一样，因此在确认条目之前，需要完全设置条目。 一旦你所有的鸭子都排成一行，你可以通过向右滑动[!UICONTROL Tentative]标签来确认条目。
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 已完成  {#finished}
 
-已运行完成的条目。 它们只能是过去（显然）。 一旦某个条目运行并且为&#x200B;**[!UICONTROL 已完成]**，您就无法移动它或将其设为暂定。 （不会改变现实和破坏时间流连续体。 ）
+已运行完成的条目。 它们只能是过去（显然）。 一旦某个条目运行并且为&#x200B;**[!UICONTROL Finished]**，您就无法移动它或将其设为暂定。 （不会改变现实和破坏时间流连续体。 ）
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

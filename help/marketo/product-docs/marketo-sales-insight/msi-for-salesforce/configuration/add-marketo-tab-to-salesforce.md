@@ -3,24 +3,24 @@ description: 将Marketo选项卡添加到Salesforce - Marketo文档 — 产品�
 title: 将Marketo选项卡添加到Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# 将Marketo选项卡添加到Salesforce {#add-marketo-tab-to-salesforce}
+# 将Marketo选项卡添加到[!DNL Salesforce] {#add-marketo-tab-to-salesforce}
 
-1. 在Salesforce中，单击&#x200B;**+**，然后单击&#x200B;**自定义我的选项卡**。
+1. 在[!DNL Salesforce]中，单击&#x200B;**+**&#x200B;并单击&#x200B;**[!UICONTROL Customize My Tabs]**。
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. 在左侧列表中选择Marketo 。 然后单击&#x200B;**添加**&#x200B;以将其添加到&#x200B;**选定选项卡**。
+1. 在左侧列表中选择Marketo 。 然后单击&#x200B;**[!UICONTROL Add]**&#x200B;将其添加到&#x200B;**[!UICONTROL Selected]选项卡**。
 
    >[!TIP]
    >
-   >使用&#x200B;**向上**&#x200B;和&#x200B;**向下**&#x200B;箭头重新排序选项卡。
+   >使用&#x200B;**[!UICONTROL Up]**&#x200B;和&#x200B;**[!UICONTROL Down]**&#x200B;箭头重新排序选项卡。
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 

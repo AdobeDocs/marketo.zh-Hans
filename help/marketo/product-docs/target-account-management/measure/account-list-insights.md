@@ -4,9 +4,9 @@ description: 帐户列表洞察 — Marketo文档 — 产品文档
 title: 帐户列表分析
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -32,11 +32,11 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>管道</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">管道</span></strong></td> 
    <td colspan="1">查看随时间变化的管道。 要逐周确定管道时间，我们将在最后一天获取管道。</td> 
   </tr> 
   <tr> 
-   <td><strong>收入</strong></td> 
+   <td><strong><span class="uicontrol">收入</span></strong></td> 
    <td><p>查看一段时间内的收入。 要逐周确定一段时间内的收入，我们计算该周内获得的所有收入的总和。</p></td> 
   </tr> 
  </tbody> 
@@ -44,16 +44,16 @@ ht-degree: 0%
 
 ## “指定帐户”选项卡 {#named-accounts-tab}
 
-单击&#x200B;**命名帐户**&#x200B;选项卡以查看哪些命名帐户属于该帐户列表。
+单击&#x200B;**[!UICONTROL Named Accounts]**&#x200B;选项卡以查看哪些指定帐户属于该帐户列表。
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->您可以通过选择此选项卡中的命名帐户并单击&#x200B;**删除命名帐户**&#x200B;来删除该帐户。
+>您可以通过选择该选项卡并单击&#x200B;**[!UICONTROL Remove Named Accounts]**&#x200B;来删除该选项卡中的命名帐户。
 
-## “使用者”选项卡 {#used-by-tab}
+## [!UICONTROL Used By]选项卡 {#used-by-tab}
 
-单击&#x200B;**使用者**&#x200B;选项卡以查看哪些资产引用了该帐户列表。
+单击&#x200B;**[!UICONTROL Used By]**&#x200B;选项卡以查看哪些资产引用了该帐户列表。
 
 ![](assets/four-2.png)

@@ -4,9 +4,9 @@ description: 通过导入列表定义受众 — Marketo文档 — 产品文档
 title: 通过导入列表定义受众
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ ht-degree: 0%
 >
 >正在导入的任何日期/时间字段都将被视为中部时间。 如果您的日期/时间字段位于不同的时区，则可以使用Excel公式将其转换为中部时间（美洲/芝加哥）。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择您的电子邮件程序，然后单击“受众”拼贴下的“导入列表”。
+1. 选择您的电子邮件程序，然后单击&#x200B;**[!UICONTROL Import List]**&#x200B;图块下的&#x200B;**[!UICONTROL Audience]**。
 
    ![](assets/importlist.png)
 
-1. 列表导入窗口打开，单击&#x200B;**浏览**&#x200B;并选择要导入的文件。 选择人员列表后，单击&#x200B;**下一步**。
+1. 列表导入窗口打开，单击&#x200B;**[!UICONTROL Browse]**&#x200B;并选择要导入的文件。 选择人员列表后，单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/importlist1.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
    >
    >确保列表编码为UTF-8、UTF-16、Shift-JIS或EUC-JP，并且文件大小不超过50MB。
 
-1. 验证文件中的字段是否已正确映射，然后单击&#x200B;**下一步**。
+1. 验证文件中的字段是否已正确映射，然后单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
    >
    >Marketo将记住映射以供将来导入！
 
-1. 为您的列表输入&#x200B;**名称**，然后单击&#x200B;**导入**。
+1. 为您的列表输入&#x200B;**[!UICONTROL Name]**&#x200B;并单击&#x200B;**[!UICONTROL Import]**。
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 >
 >单击此号码可获取阻止发送邮件的人员的详细列表。
 >
->使用&#x200B;**受众**&#x200B;磁贴上的![—](assets/image2014-10-23-16-3a32-3a36-1.png)按钮，根据智能列表条件查看有多少人有资格接收电子邮件。 从人员编号中减去阻止的编号，即可获得接收电子邮件的总人数。
+>使用![磁贴上的](assets/image2014-10-23-16-3a32-3a36-1.png)—**[!UICONTROL Audience]**&#x200B;按钮查看有多少人有资格根据智能列表条件接收电子邮件。 从人员编号中减去阻止的编号，即可获得接收电子邮件的总人数。
 
 >[!TIP]
 >

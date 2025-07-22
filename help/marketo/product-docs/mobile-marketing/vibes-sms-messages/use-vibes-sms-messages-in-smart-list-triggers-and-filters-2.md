@@ -4,9 +4,9 @@ title: 在智能列表触发器和过滤器中使用Vibes SMS消息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 在您[创建Vibes SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}后，您将需要在智能营销活动中使用智能列表触发器和过滤器以获取好处。 具体方法如下。
 
-1. 在“我的Marketo”中，单击&#x200B;**营销活动**。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
@@ -46,17 +46,17 @@ ht-degree: 0%
 
 ![](assets/sms-message-bounces-real.jpg)
 
-**Subscripts to Vibes List**&#x200B;触发器会在人员订阅时启动流。
+当人员订阅时，**[!UICONTROL Subscribes to Vibes List]**&#x200B;触发器将启动流。
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-当某人单击短信消息中的链接时，**点击短信消息中的链接**&#x200B;触发器将启动流程。
+当人员单击短信消息中的链接时，**[!UICONTROL Clicks Link in SMS Message]**&#x200B;触发器将启动流程。
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## 短信过滤器 {#sms-filters}
 
-您还可以在智能列表中使用维贝过滤器。 **订阅的Vibes列表**&#x200B;筛选器查找&#x200B;*ever*&#x200B;订阅了Vibes的任何人。 这包括已取消订阅和已删除的人员，即使流程中会忽略已删除的人员。 此过滤器最适合报表。
+您还可以在智能列表中使用维贝过滤器。 **[!UICONTROL Subscribed to Vibes List]**&#x200B;筛选器可查找任何拥有&#x200B;*ever*&#x200B;订阅了Vibes的人。 这包括已取消订阅和已删除的人员，即使流程中会忽略已删除的人员。 此过滤器最适合报表。
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->默认情况下，所有SMS筛选器都包含&#x200B;**活动日期**&#x200B;约束。
+>默认情况下，所有SMS筛选器都包含&#x200B;**[!UICONTROL Date of Activity]**&#x200B;约束。
 
 在智能列表中设置Vibes触发器和筛选器后，您可以[定义流](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)。
 

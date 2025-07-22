@@ -3,9 +3,9 @@ description: 如何设置自定义域跟踪 — Marketo文档 — 产品文档
 title: 如何设置自定义域跟踪
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 您需要获得IT团队的帮助，才能为指向go.toutapp.com的域设置CNAME记录。 此CNAME将显示在所有跟踪链接上(例如go.yourcompany.com)。
 
-向IT团队确认已正确配置CNAME后，您可以将其添加到“操作”中的“自定义域跟踪”页面。
+向IT团队确认已正确配置CNAME后，您可以将其添加到“操作”中的[!UICONTROL Custom Domain Tracking]页面。
 
 >[!NOTE]
 >
@@ -28,14 +28,14 @@ ht-degree: 0%
 >
 >**需要管理员权限。**
 
-1. 单击齿轮图标并选择&#x200B;**设置**。
+1. 单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. 在“管理员设置”下，选择&#x200B;**跟踪**。
+1. 在[!UICONTROL Admin Settings]下，选择&#x200B;**[!UICONTROL Tracking]**。
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. 在自定义域跟踪选项卡中，输入您的CNAME并单击&#x200B;**连接**。
+1. 在[!UICONTROL Custom Domain Tracking]选项卡中，输入您的CNAME并单击&#x200B;**[!UICONTROL Connect]**。
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

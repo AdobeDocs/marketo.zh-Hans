@@ -4,9 +4,9 @@ description: 打开和关闭参与计划 — Marketo文档 — 产品文档
 title: 打开和关闭参与计划
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 只需轻轻一按开关，即可关闭参与计划。 这将阻止发送任何内容。 具体方法如下。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择参与计划，然后单击&#x200B;**设置**。
+1. 选择参与计划并单击&#x200B;**[!UICONTROL Setup]**。
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. 双击&#x200B;**项目状态**。
+1. 双击&#x200B;**[!UICONTROL Program Status]**。
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. 选择&#x200B;**关闭**&#x200B;并单击&#x200B;**保存**。
+1. 选择&#x200B;**[!UICONTROL Off]**&#x200B;并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 

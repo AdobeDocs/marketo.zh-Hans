@@ -4,18 +4,18 @@ description: 在Smart Campaign中查看被阻止的人员 — Marketo文档 — 
 title: 在Smart Campaign中查看阻止的人员
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
 # 在Smart Campaign中查看阻止的人员 {#view-blocked-people-in-a-smart-campaign}
 
-Marketo Engage列入阻止列表数据库中被阻止的人员会被标记为已订阅、已取消订阅、营销已暂停和/或电子邮件无效或为空。
+Marketo Engage列入阻止列表数据库中被阻止的用户会被标记为、已取消订阅、营销已暂停和/或电子邮件无效或为空。
 
-1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL 计划]**。 在&#x200B;**[!UICONTROL 智能列表状态]**&#x200B;下，单击第二个链接。
+1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL Schedule]**。 在&#x200B;**[!UICONTROL Smart List Status]**&#x200B;下，单击第二个链接。
 
    ![](assets/view-blocked-people-in-a-smart-campaign-1.png)
 
@@ -23,7 +23,7 @@ Marketo Engage列入阻止列表数据库中被阻止的人员会被标记为已
    >
    >已达到通信限制的用户也可能被阻止接收邮件。 了解如何在管理员部分中[编辑通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}。
 
-   “被阻止的人员”选项卡显示可能未收到邮件的人员。
+   **[!UICONTROL Blocked Leads]**&#x200B;选项卡显示可能未收到邮件的用户。
 
    ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 

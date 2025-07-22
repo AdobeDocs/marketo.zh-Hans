@@ -1,67 +1,67 @@
 ---
 unique-page-id: 4720917
-description: facebook中的个性化再营销 — Marketo文档 — 产品文档
-title: facebook中的个性化再营销
+description: Facebook中的个性化再营销 — Marketo文档 — 产品文档
+title: Facebook中的个性化再营销
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 1%
+source-wordcount: '254'
+ht-degree: 6%
 
 ---
 
-# facebook中的个性化再营销 {#personalized-remarketing-in-facebook}
+# [!DNL Facebook]中的个性化再营销 {#personalized-remarketing-in-facebook}
 
-通过个性化再营销，您可以使用RTP数据和Facebook再营销的强大功能，重新吸引用户。
+个性化再营销让您能够利用RTP数据和Facebook再营销的强大功能，重新吸引用户。
 
 >[!PREREQUISITES]
 >
 >* 使用Web Personalization数据完成[重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)设置
->* 查看有关自定义受众[&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)和再营销的[&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook文档。
+>* 查看有关自定义受众[和再营销的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook文档。
 
-## 在Facebook中创建受众 {#creating-an-audience-in-facebook}
+## 在[!DNL Facebook]中创建受众 {#creating-an-audience-in-facebook}
 
-1. 在Facebook中，转到广告管理器中的[受众选项卡](https://www.facebook.com/ads/audience_manager)。
+1. 在[!DNL Facebook]中，转到广告管理器中的[受众选项卡](https://www.facebook.com/ads/audience_manager)。
 
-1. 单击&#x200B;**工具**&#x200B;并选择&#x200B;**受众**。
+1. 单击&#x200B;**[!UICONTROL Tools]**&#x200B;并选择&#x200B;**[!UICONTROL Audiences]**。
 
    ![](assets/one-1.png)
 
-1. 单击&#x200B;**创建自定义受众**。
+1. 单击 **[!UICONTROL Create a Custom Audience]**。
 
    ![](assets/two-1.png)
 
-1. 选择&#x200B;**网站流量**。
+1. 选择 **[!UICONTROL Website Traffic]**。
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. 在网站流量列表中，选择&#x200B;**自定义组合**。
+1. 在[!UICONTROL Website traffic]列表中，选择&#x200B;**[!UICONTROL Custom Combination]**。
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. 在包含列表中，选择&#x200B;**事件**。
+1. 在包含列表中，选择&#x200B;**[!UICONTROL Event]**。
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. 在“事件”列表中，选择&#x200B;**RTP再营销**&#x200B;并选择参数。
+1. 在[!UICONTROL Event]列表中，选择&#x200B;**[!UICONTROL RTP Remarketing]**&#x200B;并选择参数。
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. 对于此示例，请选择“行业”以包含&#x200B;**教育**。 输入&#x200B;**教育**，并在最近&#x200B;**内将**&#x200B;编辑为180天。 输入受众名称： **教育行业**。 单击&#x200B;**创建受众**。
+1. 对于此示例，选择[!UICONTROL Industry]以包含&#x200B;**[!UICONTROL Education]**。 输入&#x200B;**[!UICONTROL Education]**，并将&#x200B;**[!UICONTROL In the Last]**&#x200B;编辑为180天。 输入受众名称： **教育行业**。 单击 **[!UICONTROL Create Audience]**。
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
-1. 现在，您已使用Facebook中的RTP数据创建新的自定义受众。
+1. 您现在已在[!DNL Facebook]中使用RTP数据创建新的自定义受众。
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## facebook中的RTP数据点 {#rtp-data-points-in-facebook}
+## [!DNL Facebook]中的RTP数据点 {#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
   <tr> 
-   <th>事件名称</th> 
+   <th>活动名称</th> 
    <th> </th> 
   </tr> 
   <tr> 
@@ -80,7 +80,7 @@ ht-degree: 1%
        </tr> 
        <tr> 
         <td colspan="1">类别</td> 
-        <td colspan="1"><p>财富500强</p><p>财富1000强</p><p>Global 2000</p></td> 
+        <td colspan="1"><p>财富 500 强</p><p>财富 1000 强</p><p>Global 2000</p></td> 
        </tr> 
        <tr> 
         <td colspan="1">组</td> 
@@ -103,13 +103,13 @@ ht-degree: 1%
 
 ## 使用广告定位受众 {#target-your-audience-with-an-ad}
 
-有关其他详细信息，请参阅[Facebook的文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)。
+有关其他详细信息，请参阅[Facebook文档](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)。
 
-1. 转到广告管理器，单击&#x200B;**创建广告**。
+1. 转到广告管理器，单击&#x200B;**[!UICONTROL Create Ad]**。
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. 选择&#x200B;**将联系人发送到您的网站**&#x200B;作为您的营销活动的目标。
+1. 选择&#x200B;**[!UICONTROL Send people to your website]**&#x200B;作为营销活动的目标。
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -125,7 +125,7 @@ ht-degree: 1%
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. 现在，您已在Facebook中设置了一个个性化的再营销活动。
+1. 现在，您已在[!DNL Facebook]中设置了一个个性化的再营销活动。
 
 >[!MORELIKETHIS]
 >

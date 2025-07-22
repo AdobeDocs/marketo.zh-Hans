@@ -4,9 +4,9 @@ description: 将代码片段添加到登陆页面 — Marketo文档 — 产品�
 title: 向登陆页面添加代码片段
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[创建代码片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-1. 选择您的登陆页面，然后单击&#x200B;**编辑草稿**。
+1. 选择您的登陆页面并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. 在登陆页编辑器中，将&#x200B;**代码片段**&#x200B;元素拖到上方。
+1. 在登陆页面编辑器中，将&#x200B;**[!UICONTROL Snippet]**&#x200B;元素拖到上方。
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. 找到您的代码片段，选择它，然后单击&#x200B;**保存**。
+1. 找到您的代码片段，选择它，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 

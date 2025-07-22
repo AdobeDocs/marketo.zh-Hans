@@ -1,65 +1,65 @@
 ---
 unique-page-id: 2949874
-description: 通过转至网络研讨会创建事件 — Marketo文档 — 产品文档
-title: 使用GotoWebinar创建事件
+description: 使用 [!DNL GotoWebinar] 创建事件 — Marketo文档 — 产品文档
+title: 创建具有 [!DNL GotoWebinar]的事件
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
 
-# 使用GotoWebinar创建事件 {#create-an-event-with-gotowebinar}
+# 创建具有[!DNL GotoWebinar]的事件 {#create-an-event-with-gotowebinar}
 
 >[!PREREQUISITES]
 >
->* [将GoToWebinar添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
+>* [添加 [!DNL GoToWebinar] 作为 [!DNL LaunchPoint] 服务](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [创建新的活动计划](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 设置相应的[流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与情况
+>* 设置适当的[流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以跟踪参与
 
-首先在GoToWebinar中创建网络研讨会。 GoTo网络研讨会创建过程中的某些设置由Marketo使用，而某些设置仅由GoTo网络研讨会使用。
+首先在[!DNL GoToWebinar]中创建网络研讨会。 创建您的[!DNL GoToWebinar]中的某些设置已被Marketo使用，而某些设置仅被[!DNL GoToWebinar]使用。
 
-在您创建Marketo活动并将GoToWebinar与其关联后，系统将能够共享注册和出席信息。
+在您创建Marketo事件并将[!DNL GoToWebinar]与其关联后，系统将能够共享注册和出席信息。
 
 以下是Marketo使用的设置列表。
 
 ## 标题和描述 {#title-and-description}
 
-**网络研讨会名称** — 输入网络研讨会的名称。 此名称将显示在Marketo中。
+**[!UICONTROL Title]** — 输入网络研讨会的名称。 此名称将显示在Marketo中。
 
-**描述**（可选） — 输入网络研讨会的描述。 该描述将显示在Marketo中。
+**[!UICONTROL Description]** （可选） — 输入网络研讨会的描述。 该描述将显示在Marketo中。
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 
 ## 日期和时间 {#date-time}
 
-为您的网络研讨会输入以下信息，这些信息将通过适配器拉入Marketo。 如果您对此信息进行了任何更改，则必须单击&#x200B;**事件操作**&#x200B;下的链接“**从网络研讨会提供程序刷新**”，以便Marketo能够看到这些更改。
+为您的网络研讨会输入以下信息，这些信息将通过适配器拉入Marketo。 如果您对此信息进行了任何更改，则必须单击&#x200B;**[!UICONTROL Refresh from Webinar Provider]**&#x200B;下的链接“**[!UICONTROL Event Actions]**”，以便Marketo能够查看这些更改。
 
-**开始日期** — 输入您的开始日期。 该屏幕将显示在Marketo中。
+**[!UICONTROL Start Date]** — 输入您的开始日期。 该屏幕将显示在Marketo中。
 
-**开始时间** — 输入您的开始时间。 该屏幕将显示在Marketo中。
+**[!UICONTROL Start Time]** — 输入您的开始时间。 该屏幕将显示在Marketo中。
 
-**结束时间** — 输入您的结束时间。 该屏幕将显示在Marketo中。
+**[!UICONTROL End Time]** — 输入您的结束时间。 该屏幕将显示在Marketo中。
 
-**时区** — 选择适用的时区。 该可视化图表将在Marketo中可见。
+**[!UICONTROL Webinar Time Zone]** — 选择适用的时区。 该可视化图表将在Marketo中可见。
 
-**类型 —**&#x200B;设置为&#x200B;**一个会话**。
+**[!UICONTROL Type]** — 设置为&#x200B;**[!UICONTROL One Session]**。
 
 ![](assets/image2015-5-28-15-3a7-3a1.png)
 
 >[!NOTE]
 >
->Marketo当前不支持定期网络研讨会。 在每个Marketo活动与GoToWebinar网络研讨会之间，必须设置一个会话。
+>Marketo当前不支持定期网络研讨会。 在每个Marketo活动与[!DNL GoToWebinar]网络研讨会之间，您必须设置一个会话。
 
 >[!TIP]
 >
->如果您需要其他GoTo网络研讨会帮助，请访问他们的[帮助站点](https://support.logmeininc.com/gotowebinar)。
+>如果您需要其他[!DNL GoToWebinar]帮助，请访问他们的[帮助站点](https://support.logmeininc.com/gotowebinar)。
 
 现在，让我们跳入Marketo！
 
-1. 选择一个事件。 单击&#x200B;**事件操作**&#x200B;并选择&#x200B;**事件设置**。
+1. 选择一个事件。 单击&#x200B;**[!UICONTROL Event Actions]**&#x200B;并选择&#x200B;**[!UICONTROL Event Settings]**。
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
    >
    >所选事件的渠道类型必须是&#x200B;**网络研讨会**。
 
-1. 从&#x200B;**事件合作伙伴**&#x200B;列表中选择&#x200B;**GoToWebinar**。
+1. 从&#x200B;**[!UICONTROL GoToWebinar]**&#x200B;列表中选择&#x200B;**[!UICONTROL Event Partner]**。
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -79,11 +79,11 @@ ht-degree: 0%
 
    ![](assets/image2015-5-14-14-3a57-3a31.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. 太棒了！ 现在，该事件已由&#x200B;**GoToWebinar**&#x200B;同步并计划。
+1. 太棒了！ 现在，该事件已由&#x200B;**[!DNL GoToWebinar]**&#x200B;同步并计划。
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -105,9 +105,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >数据可能需要48小时才能显示在Marketo中。 如果经过这么长时间后仍未看到任何内容，请从事件的&#x200B;**摘要**&#x200B;选项卡的“事件操作”菜单中选择&#x200B;**从网络研讨会提供程序刷新**。
+   >数据可能需要48小时才能显示在Marketo中。 如果经过这么长时间后仍未看到任何内容，请从事件的&#x200B;**[!UICONTROL Refresh from Webinar Provider]**&#x200B;选项卡的[!UICONTROL Event Actions]菜单中选择&#x200B;**[!UICONTROL Summary]**。
 
-当新状态设置为“已注册”时，注册您的网络研讨会的用户将通过“更改项目状态”流程步骤推送至您的网络研讨会提供商。 没有其他状态会将该人员推倒。 此外，请确保将“更改项目状态”流程步骤#1和“发送电子邮件”流程步骤#2设置为。
+当[!UICONTROL Change Program Status]设置为“已注册”时，注册您的网络研讨会的用户将通过[!UICONTROL New Status]流程步骤推送至您的网络研讨会提供商。 没有其他状态会将该人员推倒。 此外，请确保将[!UICONTROL Change Program Status]流程步骤#1和[!UICONTROL Send Email]流程步骤#2。
 
 ## 查看计划  {#viewing-the-schedule}
 
@@ -115,6 +115,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->若要更改您的活动计划，您需要在GoTo网络研讨会上编辑网络研讨会。
+>若要更改您的活动计划，您需要在[!DNL GoToWebinar]上编辑网络研讨会。
 
 ![](assets/image2015-5-14-15-3a3-3a13.png)

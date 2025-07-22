@@ -4,9 +4,9 @@ description: 添加Marketo自定义对象字段 — Marketo文档 — 产品文�
 title: 添加Marketo自定义对象字段
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 字段定义自定义对象使用的特定信息。 链接字段具有连接自定义对象的特殊作业，并在[单独的文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)中介绍。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
+1. 单击 **[!UICONTROL Marketo Custom Objects]**。
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 新建字段]**。
+1. 单击&#x200B;**[!UICONTROL Fields]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL New Field]**。
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -37,19 +37,19 @@ ht-degree: 0%
    >
    >在您创建自定义对象时，Marketo会自动创建以上显示的三个字段。 Marketo会自动管理这些字段，您无法编辑或删除它们。
 
-1. 输入[!UICONTROL 显示名称]和（可选）[!UICONTROL 描述]。
+1. 输入[!UICONTROL Display Name]和（可选） [!UICONTROL Description]。
 
    ![](assets/add-marketo-custom-object-fields-5.png)
 
    >[!NOTE]
    >
-   >API名称只有在获得批准后才能编辑。
+   >[!UICONTROL API Name]仅可在获得批准之前进行编辑。
 
-1. 现在，从列表中选择适当的[!UICONTROL 数据类型]。
+1. 现在，从列表中选择适当的[!UICONTROL Data Type]。
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. 如果要将新字段用作唯一标识符，请将[!UICONTROL 重复数据删除]滑块移过来。 单击&#x200B;**[!UICONTROL 保存]**&#x200B;以完成。
+1. 如果要使用新字段作为唯一标识符，请将[!UICONTROL Dedupe]滑块拖动过来。 单击&#x200B;**[!UICONTROL Save]**&#x200B;完成。
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 

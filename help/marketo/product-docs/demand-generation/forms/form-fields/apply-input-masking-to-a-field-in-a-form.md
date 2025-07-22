@@ -4,10 +4,10 @@ description: 将输入掩码应用于表单中的字段 — Marketo文档 — �
 title: 将输入掩码应用于表单中的字段
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 您可以使用输入掩码限制访客的输入。 例如，您可能希望访客仅以特定格式输入电话号码。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 选择您的表单并单击&#x200B;**编辑表单**。
+1. 选择您的表单并单击&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. 选择您的字段并确保将&#x200B;**字段类型**&#x200B;设置为&#x200B;**文本**。
+1. 选择您的字段并确保将&#x200B;**[!UICONTROL Field Type]***设置为&#x200B;**[!UICONTROL Text]**。
 
    >[!NOTE]
    >
-   >输入掩码仅适用于&#x200B;**文本字段类型**。
+   >输入掩码仅适用于&#x200B;**[!UICONTROL Text Field Types]**。
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. 单击&#x200B;**掩码输入**&#x200B;链接。
+1. 单击&#x200B;**[!UICONTROL Mask Input]**&#x200B;链接。
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. 输入输入掩码并单击&#x200B;**保存**。
+1. 输入输入掩码并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
    >
    >请注意掩码规则。 您可以将输入限制为数字、字母和/或甚至限制输入的字符数。
 
-1. 单击&#x200B;**完成**。
+1. 单击 **[!UICONTROL Finish]**。
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. 单击&#x200B;**批准并关闭**。
+1. 单击 **[!UICONTROL Approve and Close]**。
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

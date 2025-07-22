@@ -4,18 +4,18 @@ description: 添加新内容 — Marketo文档 — 产品文档
 title: 添加新内容
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 1%
 
 ---
 
 # 添加新内容 {#add-new-content}
 
-您可以轻松地手动将内容添加到“所有内容”页面。
+您可以轻松地将内容手动添加到[!UICONTROL All Content]页面。
 
-1. 单击&#x200B;**添加内容**&#x200B;下拉列表，然后选择&#x200B;**添加内容**。
+1. 单击&#x200B;**[!UICONTROL Add Content]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Add Content]**。
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. 单击&#x200B;**添加**。
+1. 单击 **[!UICONTROL Add]**。
 
    ![](assets/all-content-add-hand.png)
 
-1. 新标题现在显示在&#x200B;**所有内容**&#x200B;页面上。 请注意，它尚未被批准用于预测内容。
+1. 新标题现在显示在&#x200B;**[!UICONTROL All Content]**&#x200B;页面上。 请注意，它尚未被批准用于预测内容。
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

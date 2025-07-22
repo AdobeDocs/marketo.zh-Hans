@@ -6,9 +6,9 @@ exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
@@ -21,15 +21,15 @@ ht-degree: 1%
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择您的表单并单击&#x200B;**编辑表单**。
+1. 选择您的表单并单击&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. 在&#x200B;**表单** **设置**&#x200B;下，单击&#x200B;**设置**。
+1. 在&#x200B;**[!UICONTROL Form Settings]**&#x200B;下，单击&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -41,11 +41,11 @@ ht-degree: 1%
    >
    >如果人们使用社交按钮，请查看Marketo将捕获哪些&#x200B;_数据_。
 
-1. 单击&#x200B;**完成**。
+1. 单击 **[!UICONTROL Finish]**。
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. 单击&#x200B;**批准并关闭**。
+1. 单击 **[!UICONTROL Approve and Close]**。
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

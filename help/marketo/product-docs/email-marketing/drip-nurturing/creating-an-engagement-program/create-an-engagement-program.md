@@ -4,9 +4,9 @@ description: 创建参与计划 — Marketo文档 — 产品文档
 title: 创建参与计划
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可以使用Marketo中的参与计划轻松完成电子邮件培养。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择要在其中创建参与计划的文件夹，然后单击&#x200B;**新建**&#x200B;和&#x200B;**新建计划**。
+1. 选择要在其中创建参与计划的文件夹，然后单击&#x200B;**[!UICONTROL New]**&#x200B;和&#x200B;**[!UICONTROL New Program]**。
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. 输入&#x200B;**名称**，为&#x200B;**计划类型**&#x200B;选择&#x200B;**参与**，然后单击&#x200B;**创建**。
+1. 输入&#x200B;**[!UICONTROL Name]**，为&#x200B;**[!UICONTROL Engagement]**&#x200B;选择&#x200B;**[!UICONTROL Program Type]**&#x200B;并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 

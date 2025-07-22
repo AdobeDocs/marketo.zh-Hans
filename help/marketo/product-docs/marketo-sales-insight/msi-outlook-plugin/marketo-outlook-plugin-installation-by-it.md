@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382815
-description: 由IT人员安装的Marketo Outlook插件 — Marketo文档 — 产品文档
-title: 由IT人员安装的Marketo Outlook插件
+description: Marketo [!DNL Outlook] IT部门安装的插件 — Marketo文档 — 产品文档
+title: 由IT安装Marketo [!DNL Outlook] 插件
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
-# 由IT人员安装的Marketo Outlook插件 {#marketo-outlook-plugin-installation-by-it}
+# 由IT安装Marketo [!DNL Outlook]插件 {#marketo-outlook-plugin-installation-by-it}
 
 有时，公司政策要求其IT团队在员工计算机上安装所有软件。 在这些情况下， IT通常使用自己的部署软件远程执行这一操作。 本文档提供了在部署过程中用作输入以远程安装Outlook插件的命令行。
 
@@ -57,4 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[由IT卸载Marketo Outlook插件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[Marketo [!DNL Outlook] IT卸载插件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

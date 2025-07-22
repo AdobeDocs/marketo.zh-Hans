@@ -4,9 +4,9 @@ description: 发送示例电子邮件 — Marketo文档 — 产品文档
 title: 发送示例电子邮件
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,14 @@ ht-degree: 0%
 
 ## 发送示例电子邮件 {#send-a-sample-email-1}
 
-1. 查找并选择您的电子邮件。 单击&#x200B;**电子邮件操作**&#x200B;下拉列表，然后选择&#x200B;**发送样本**。\
+1. 查找并选择您的电子邮件。 单击&#x200B;**[!UICONTROL Email Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Send Sample]**。\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
    >我的令牌将解析为适用于电子邮件程序的值。
 
-1. 输入一个或多个电子邮件地址进行投放。 对于多个电子邮件地址，请使用逗号分隔。 完成后单击&#x200B;**发送**。
+1. 输入一个或多个电子邮件地址进行投放。 对于多个电子邮件地址，请使用逗号分隔。 完成后单击&#x200B;**[!UICONTROL Send]**。
 
    ![](assets/two.png)
 
@@ -42,21 +42,21 @@ ht-degree: 0%
 
 ## 编辑时发送示例电子邮件 {#send-a-sample-email-while-editing}
 
-1. 找到您的电子邮件，选择它并单击&#x200B;**编辑草稿**&#x200B;选项卡。
+1. 找到您的电子邮件，选择它并单击&#x200B;**[!UICONTROL Edit Draft]**&#x200B;选项卡。
 
    ![](assets/three-281-29.jpg)
 
-1. 单击&#x200B;**电子邮件操作**，选择&#x200B;**发送样本**。
+1. 单击&#x200B;**[!UICONTROL Email Actions]**，选择&#x200B;**[!UICONTROL Send Sample]**。
 
    ![](assets/four.png)
 
-1. 输入传递的电子邮件地址，然后单击&#x200B;**发送**。
+1. 输入传递的电子邮件地址，然后单击&#x200B;**[!UICONTROL Send]**。
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >触发器字段仅适用于使用[电子邮件脚本](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)的用户。
+   >触发器字段仅适用于使用[电子邮件脚本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)的用户。
 
 ## 发送基于区段的示例电子邮件 {#send-a-sample-email-based-on-a-segment}
 
@@ -64,15 +64,15 @@ ht-degree: 0%
 >
 >[将分段应用于您的电子邮件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)。
 
-1. 找到您的电子邮件，选择它并单击&#x200B;**编辑草稿**&#x200B;选项卡。
+1. 找到您的电子邮件，选择它并单击&#x200B;**[!UICONTROL Edit Draft]**&#x200B;选项卡。
 
    ![](assets/three-281-29.jpg)
 
-1. 单击&#x200B;**预览**。
+1. 单击 **[!UICONTROL Preview]**。
 
    ![](assets/1.png)
 
-1. 单击&#x200B;**查看依据**&#x200B;下拉列表，然后选择&#x200B;**分段**。
+1. 单击&#x200B;**[!UICONTROL View By]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Segmentation]**。
 
    ![](assets/2.png)
 
@@ -84,12 +84,12 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. 单击&#x200B;**发送样本**&#x200B;以接收正在运行的区段的测试电子邮件。
+1. 单击&#x200B;**[!UICONTROL Send Sample]**&#x200B;接收正在运行的区段的测试电子邮件。
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >您还可以在电子邮件的编辑模式下，根据区段发送示例电子邮件。 单击&#x200B;**电子邮件操作**&#x200B;下拉列表，选择&#x200B;**发送样本**，然后选择您的区段。
+   >您还可以在电子邮件的编辑模式下，根据区段发送示例电子邮件。 单击&#x200B;**[!UICONTROL Email Actions]**&#x200B;下拉列表，选择&#x200B;**[!UICONTROL Send Sample]**，然后选择您的区段。
 
 在启动营销活动之前对内容进行取样非常重要。 两次测量，一次切除！

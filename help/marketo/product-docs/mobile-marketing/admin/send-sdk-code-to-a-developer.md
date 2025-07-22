@@ -4,19 +4,19 @@ description: 将SDK代码发送给开发人员 — Marketo文档 — 产品文�
 title: 将SDK代码发送给开发人员
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 1%
 
 ---
 
 # 将SDK代码发送给开发人员 {#send-sdk-code-to-a-developer}
 
-在创建应用程序内消息或推送通知之前，必须让开发人员设置并初始化适用于Android和iOS平台的移动应用程序SDK。
+在创建应用程序内消息或推送通知之前，您必须先设置并初始化适用于Android和iOS平台的移动应用程序SDK 。
 
-* [Android说明](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [iOS说明](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [Android说明](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [iOS说明](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## 将SDK代码发送给开发人员 {#send-sdk-code-to-a-developer-1}
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 以下是你的做法。
 
-1. 单击&#x200B;**管理员**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 选择&#x200B;**移动设备应用程序**。
+1. 选择 **[!UICONTROL Mobile Apps]**。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -38,12 +38,12 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 单击&#x200B;**移动应用操作**&#x200B;并选择&#x200B;**发送给开发人员**。
+1. 单击&#x200B;**[!UICONTROL Mobile App Actions]**&#x200B;并选择&#x200B;**[!UICONTROL Send to Developer]**。
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. 输入电子邮件地址，然后单击&#x200B;**发送**。
+1. 输入电子邮件地址并单击&#x200B;**[!UICONTROL Send]**。
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
-   现在，将会将SDK代码发送给您的开发人员。
+   SDK代码现在将发送给您的开发人员。

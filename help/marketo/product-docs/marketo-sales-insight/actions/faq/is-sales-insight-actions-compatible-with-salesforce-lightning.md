@@ -5,19 +5,19 @@ hide: true
 hidefromtoc: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Sales Insight Actions是否与Salesforce Lightning兼容？ {#is-sales-insight-actions-compatible-with-salesforce-lightning}
+# [!DNL Sales Insight Actions]是否与[!DNL Salesforce Lightning]兼容？ {#is-sales-insight-actions-compatible-with-salesforce-lightning}
 
-是，Sales Insight Actions与Salesforce Lightning兼容。
+是，[!DNL Sales Insight Actions]与[!DNL Salesforce Lightning]兼容。
 
 请[单击此处](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)查看安装和成功指南。
 
 >[!NOTE]
 >
->在“销售线索”和“联系人”列表视图中，提供了用于批量操作的销售分析操作按钮。
+>潜在客户和联系人列表视图中提供了用于批量操作的[!DNL Sales Insight Actions]按钮。

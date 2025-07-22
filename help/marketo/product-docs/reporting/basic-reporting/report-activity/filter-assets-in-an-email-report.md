@@ -4,9 +4,9 @@ description: 在电子邮件报表中筛选Assets - Marketo文档 — 产品文�
 title: 在电子邮件报表中筛选Assets
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡并拖动到筛选器上。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡并拖动到筛选器上。
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Design Studio电子邮件**：全局资源，在Design Studio中管理。
-   * **营销活动电子邮件**：“营销活动”选项卡上项目中的本地资源。
+   * **[!UICONTROL Design Studio Emails]**：全局资源，在设计工作室中管理。
+   * **[!UICONTROL Marketing Activities Emails]**：“营销活动”选项卡上项目中的本地资源。
    * **存档的电子邮件**：不活动、已弃用的电子邮件。
 
 1. 选择要包含在报表中的文件夹和特定电子邮件。
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >如果选择文件夹，则报表将包含该文件夹在报表运行时包含的所有内容。
 
-1. 你完了！ 单击&#x200B;**报告**&#x200B;选项卡查看已过滤的报告。
+1. 你完了！ 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡以查看已过滤的报告。
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 

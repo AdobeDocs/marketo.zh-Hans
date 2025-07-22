@@ -3,9 +3,9 @@ description: 将任务分配给团队成员 — Marketo文档 — 产品文档
 title: 将任务分配给团队成员
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >您只能为共享联系人分配任务。
 
-1. 在Web应用程序中，单击&#x200B;**命令中心**。
+1. 在Web应用程序中，单击&#x200B;**[!UICONTROL Command Center]**。
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. 单击&#x200B;**添加任务**。
+1. 单击 **[!UICONTROL Add Task]**。
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. 添加与您的队友相关的任何重要详细信息（可选），然后单击&#x200B;**创建**。
+1. 添加与您的队友相关的任何重要详细信息（可选），然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/assigning-tasks-to-team-members-9.png)

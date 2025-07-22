@@ -4,10 +4,10 @@ description: 编辑事件渠道 — Marketo文档 — 产品文档
 title: 编辑事件渠道
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 2%
+source-wordcount: '175'
+ht-degree: 1%
 
 ---
 
@@ -25,43 +25,43 @@ ht-degree: 2%
 
 ## 从“摘要”选项卡 {#from-the-summary-tab}
 
-1. 从&#x200B;**营销活动**&#x200B;中，从树中选择您的事件。
+1. 从&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;中，从树中选择您的事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 导航到&#x200B;**摘要**&#x200B;视图。
+1. 导航到&#x200B;**[!UICONTROL Summary]**&#x200B;视图。
 
    ![](assets/eventprogramsummary.png)
 
-1. 在&#x200B;**设置**&#x200B;类别下，选择当前显示为超链接的&#x200B;**渠道**。
+1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;类别下，选择显示为超链接的当前&#x200B;**[!UICONTROL Channel]**。
 
    ![](assets/channeltypeevent.png)
 
-1. 从下拉列表中选择新渠道。
+1. 从下拉列表中选择一个新&#x200B;**[!UICONTROL Channel]**。
 
    ![](assets/tradeshowchange.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## 在“设置”选项卡中 {#from-the-setup-tab}
 
-也可以从事件的&#x200B;**设置**&#x200B;选项卡分配新的渠道类型。
+也可以从事件的&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡分配新的渠道类型。
 
 1. 从树中选择事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 导航到&#x200B;**设置**&#x200B;选项卡。 双击当前&#x200B;**渠道**。
+1. 导航到&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡。 双击当前&#x200B;**渠道**。
 
    ![](assets/setuptabchangechannel.png)
 
-1. 选择新的&#x200B;**渠道**。
+1. 选择新的&#x200B;**[!UICONTROL Channel]**。
 
    ![](assets/tradeshowchange.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/2017-06-13-09-35-53.png)
 

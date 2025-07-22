@@ -3,9 +3,9 @@ description: 销售活动触发器和过滤器 — Marketo文档 — 产品文�
 title: 销售活动触发器和过滤器
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 在&#x200B;**智能列表**&#x200B;选项卡中，搜索“销售应用”。
+1. 在&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡中，搜索“[!UICONTROL Sales Apps]”。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->有关活动、约束和定义的完整列表，请查看我们的[销售分析操作活动术语表](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)。
+>有关活动、约束和定义的完整列表，请查看我们的[[!DNL Sales Insight Actions] 活动术语表](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)。

@@ -4,9 +4,9 @@ description: 了解SEO功能板 — SEO快照 — Marketo文档 — 产品文档
 title: 了解SEO功能板 — SEO快照
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## [!UICONTROL 关键字排名摘要] {#keyword-rank-summary}
+## [!UICONTROL Keyword Rank Summary] {#keyword-rank-summary}
 
 此部分将向您展示网站针对您定位的[关键字的排名](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)。
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 >
 >仅显示排名第1-100的关键字的数据。
 
-## [!UICONTROL 平均页面优化得分] {#average-page-optimization-score}
+## [!UICONTROL Average Page Optimization Score] {#average-page-optimization-score}
 
-平均页面优化分数是专有的Marketo分数，用于衡量您网站上的所有页面，范围为1到100。
+[!UICONTROL Average Page Optimization Score]是专有的Marketo分数，以1到100的级数测量您网站上的所有页面。
 
 它基于数十种最佳实践的汇编。 如果得分不低于70，则表示站点已得到良好优化。
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 >
 >您还可以查看特定页面列表的优化分数。 使用下拉菜单并选择您感兴趣的。
 
-## [!UICONTROL 关键词排名趋势] {#keyword-rank-trends}
+## [!UICONTROL Keyword Rank Trends] {#keyword-rank-trends}
 
-[!UICONTROL 关键字排名趋势]图表从每个月搜索量最高的五个关键字中提取关键字，并绘制这些关键字随时间变化的排名图表。
+[!UICONTROL Keyword Rank Trends]图表从每个月搜索量最高的五个关键字中提取关键字，并绘制它们随时间变化的排名图表。
 
 >[!TIP]
 >
@@ -61,8 +61,8 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-现在，让我们查看一下此仪表板的[!UICONTROL Recommendations]部分。
+现在，让我们查看该仪表板的[!UICONTROL Recommendations]部分。
 
 >[!MORELIKETHIS]
 >
->[了解仪表板： SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[了解仪表板： SEO建议](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

@@ -6,16 +6,16 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
-# 编辑Facebook富帖子设置 {#edit-facebook-rich-post-settings}
+# 编辑[!DNL Facebook]富帖子设置 {#edit-facebook-rich-post-settings}
 
-当有人在Facebook上共享您时，自定义帖子。
+当有人在[!DNL Facebook]上共享您时自定义帖子。
 
 >[!AVAILABILITY]
 >
@@ -25,13 +25,13 @@ Marketo _社交应用程序_&#x200B;允许您的潜在客户与其在Facebook、
 
 ## 选择富发布选项 {#select-rich-post-options}
 
-您可以指定要在由登录页中的共享生成的Facebook富帖子中使用的页面信息类型。
+您可以指定要在由共享从登陆页面生成的[!DNL Facebook]个丰富帖子中使用的页面信息类型。
 
-1. 在编辑器中为&#x200B;**YouTube**&#x200B;视频或社交按钮选择&#x200B;**Facebook消息**。
+1. 在编辑器中为***[!UICONTROL Facebook Message]**&#x200B;视频或社交按钮选择&#x200B;*[!DNL YouTube*]*。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. 从以下Facebook消息选项中进行选择。
+1. 从[!DNL Facebook]消息的以下选项中进行选择。
 
    * 添加静态内容：选择此选项可手动输入标题、描述和描述。
 
@@ -43,27 +43,27 @@ Marketo _社交应用程序_&#x200B;允许您的潜在客户与其在Facebook、
 
    >[!NOTE]
    >
-   >这些标签应该已存在于页面源中，但为了更好地控制，您可以向登陆页面添加特定的Facebook OG标签。
+   >这些标记应已存在于页面源中，但为了更好地控制，您可以向登陆页面添加特定的[!DNL Facebook] OG标记。
 
-   * 请勿添加丰富的内容：将Facebook登陆页面中的帖子限制为仅添加主消息和链接。
+   * 不要添加丰富的内容：将登陆页面中的[!DNL Facebook]个帖子限制为仅添加主消息和链接。
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## 将Facebook OG标记添加到登陆页面 {#add-facebook-og-tags-to-a-landing-page}
+## 将[!DNL Facebook] OG标记添加到登陆页面 {#add-facebook-og-tags-to-a-landing-page}
 
-要控制将从登陆页面包含在Facebook共享中的页面元素，您可以向登陆页面添加用于标题、描述和描述的Facebook OG （开放图形）标记。
+要控制将从登陆页面包含在[!DNL Facebook]共享中的页面元素，您可以向登陆页面添加标题、描述和描述的[!DNL Facebook] OG （开放图形）标记。
 
-1. 打开包含您的&#x200B;**YouTube视频**&#x200B;或社交按钮的登陆页面。
+1. 打开包含您的&#x200B;**[!DNL YouTube]视频**&#x200B;或社交按钮的登陆页面。
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   将在新窗口中打开&#x200B;**登陆页面Designer**。
+   **[!UICONTROL Landing Page Designer]**&#x200B;将在新窗口中打开。
 
-1. 选择&#x200B;**登陆页面操作** > **编辑页面元标记**。
+1. 选择&#x200B;**[!UICONTROL Landing Page Actions]** > **[!UICONTROL Edit Page Meta Tags]**。
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. 添加定义og：title、og：caption和og：description的HTML。 复制并粘贴这些行并替换占位符文本：
+1. 添加定义og:title、og:caption和og:description的HTML。 复制并粘贴这些行并替换占位符文本：
 
    `<meta property="og:title" content="My Post Title"/>`
 

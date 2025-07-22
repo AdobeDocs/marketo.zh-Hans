@@ -4,9 +4,9 @@ description: 将表单添加到引导式登陆页面 — Marketo文档 — 产�
 title: 将表单添加到引导式登陆页面
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[创建引导式登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. 转到&#x200B;**营销活动**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
 
    ![](assets/one.png)
 
-1. 查找并选择您的登陆页面，然后单击&#x200B;**编辑草稿**。
+1. 查找并选择您的登陆页面，然后单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/two.png)
 
@@ -41,15 +41,15 @@ ht-degree: 0%
 
 1. 选择跟进页面时，有三个选项：
 
-   * 登陆页面 — 选择Marketo登陆页面
-   * 外部URL — 选择所需的任何URL
-   * 定义的表单 — 使用在表单级别定义的设置
+   * **[!UICONTROL Landing Page]** — 选择Marketo登陆页面
+   * **[!UICONTROL External URL]** — 选择您想要的URL
+   * **[!UICONTROL Form Defined]** — 使用在表单级别定义的设置
 
    >[!NOTE]
    >
    >跟进页面是用户提交表单后看到的页面。
 
-1. 在本例中，我们将使用“定义的表单”。 单击&#x200B;**插入**。
+1. 在此示例中，我们将使用[!UICONTROL Form Defined]。 单击 **[!UICONTROL Insert]**。
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

@@ -4,9 +4,9 @@ description: 计划您的电子邮件项目 — Marketo文档 — 产品文档
 title: 计划您的电子邮件计划
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 创建电子邮件程序、定义受众并选择电子邮件后，您需要通知程序&#x200B;*何时*&#x200B;发送电子邮件。 具体方法如下。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. 在&#x200B;**计划**&#x200B;拼贴下，设置日期。
+1. 在&#x200B;**[!UICONTROL Schedule]**&#x200B;图块下，设置日期。
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. 您还可以选择使用[收件人时区](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)和/或[Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)功能。
+1. 您还可以选择使用[[!UICONTROL Recipient Time Zone]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)和/或[[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)功能。
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 

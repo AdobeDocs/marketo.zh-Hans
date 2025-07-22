@@ -4,10 +4,10 @@ description: 命令中心概述 — Marketo文档 — 产品文档
 title: 命令中心概述
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 1%
+source-wordcount: '556'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## 管理电子邮件 {#manage-emails}
 
-在命令中心的电子邮件部分，您可以管理所有电子邮件活动。 将其视为用于查看从Sales Connect发送的电子邮件的电子邮件发件箱。 管理您的计划电子邮件，查看谁一直在处理您的电子邮件，检查您的电子邮件是否传送有任何问题等等。
+在[!UICONTROL Command Center]的电子邮件部分，您可以管理所有电子邮件活动。 将其视为您的电子邮件发件箱，以审阅从[!DNL Sales Connect]发送的电子邮件。 管理您的计划电子邮件，查看谁一直在处理您的电子邮件，检查您的电子邮件是否传送有任何问题等等。
 
 ![](assets/command-center-overview-1.png)
 
@@ -37,42 +37,42 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td title="背景颜色：蓝色"><strong title="">已发送</strong></td> 
-   <td title="背景颜色：蓝色">已送达</td> 
+   <td title="背景颜色：蓝色">[!UICONTROL Delivered]</td> 
    <td title="背景颜色：蓝色">已发送给收件人的电子邮件。</td> 
   </tr> 
   <tr> 
    <td title="背景颜色：蓝色"><br></td> 
-   <td title="背景颜色：蓝色">已存档</td> 
+   <td title="背景颜色：蓝色">[!UICONTROL Archived]</td> 
    <td title="背景颜色：蓝色">用户为了禁用电子邮件跟踪而存档的电子邮件。</td> 
   </tr> 
   <tr> 
-   <td title="背景颜色：灰色"><strong title="">待处理</strong></td> 
-   <td title="背景颜色：灰色">已安排</td> 
+   <td title="背景颜色：灰色"><strong title="">待定</strong></td> 
+   <td title="背景颜色：灰色">[!UICONTROL Scheduled]</td> 
    <td title="背景颜色：灰色">当前计划发出的电子邮件。 发送电子邮件后，该电子邮件将移至已投放文件夹。</td> 
   </tr> 
   <tr> 
    <td title="背景颜色：灰色"><br></td> 
-   <td title="背景颜色：灰色">草稿</td> 
+   <td title="背景颜色：灰色">[!UICONTROL Draft]</td> 
    <td title="背景颜色：灰色"><p>已另存为草稿的电子邮件。<br><strong>注意：</strong>只有一封电子邮件可以另存为草稿。 批量电子邮件（选择和发送电子邮件及群电子邮件）将不会另存为草稿。</p></td> 
   </tr> 
   <tr> 
    <td title="背景颜色：灰色"><br></td> 
-   <td title="背景颜色：灰色">进行中</td> 
+   <td title="背景颜色：灰色">[!UICONTROL In Progress]</td> 
    <td title="背景颜色：灰色">这是一种中间状态，当电子邮件处于发送动态时，便会进入该状态。 电子邮件只应正在进行一段时间。</td> 
   </tr> 
   <tr> 
    <td title="背景颜色：蓝色"><strong title="">未投放</strong></td> 
-   <td title="背景颜色：蓝色">已失败</td> 
+   <td title="背景颜色：蓝色">[!UICONTROL Failed]</td> 
    <td title="背景颜色：蓝色">无法投放的电子邮件。</td> 
   </tr> 
   <tr> 
    <td title="背景颜色：蓝色"><br></td> 
-   <td title="背景颜色：蓝色">已退回</td> 
+   <td title="背景颜色：蓝色">[!UICONTROL Bounced]</td> 
    <td title="背景颜色：蓝色"><p>已从收件人电子邮件服务器拒绝的电子邮件。 <br><strong>注意：</strong>只有当您是旧版ToutApp用户并且有权访问MSC服务器作为投放渠道时，才会检测到此情况。</p></td> 
   </tr> 
   <tr> 
    <td title="背景颜色：蓝色"><br></td> 
-   <td title="背景颜色：蓝色">垃圾邮件</td> 
+   <td title="背景颜色：蓝色">[!UICONTROL Spam]</td> 
    <td title="背景颜色：蓝色"><p>收件人手动标记为垃圾邮件的电子邮件。<br><strong>注意：</strong>只有当您是旧版ToutApp用户并且有权访问MSC服务器作为投放渠道时，才会检测到此情况。</p></td> 
   </tr> 
  </tbody> 
@@ -88,7 +88,7 @@ ht-degree: 1%
 
 一旦您开始通过撰写窗口或营销活动与潜在客户接洽，您就可以利用高级搜索功能开始重新定位参与度最高的潜在客户。
 
-例如，如果您在MSC中向某个营销活动添加100个人，则您可能需要重新定位那些查看了您的电子邮件并单击了它，但未回复该电子邮件的人。 为此，您可以利用Campaign过滤器以及View和Click status Activity过滤器，以标识要重新定位的人员列表。
+例如，如果您在MSC中向某个营销活动添加100个人，则您可能需要重新定位那些查看了您的电子邮件并单击了它，但未回复该电子邮件的人。 为此，您可以使用Campaign筛选器以及View and Click status [!UICONTROL Activity]筛选器来识别要重新定位的人员列表。
 
 奖励：如果保存高级搜索，它将作为动态列表使用，并在收件人查看或单击您的电子邮件后添加符合参与条件的电子邮件。
 

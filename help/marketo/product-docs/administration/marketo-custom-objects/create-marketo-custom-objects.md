@@ -4,10 +4,10 @@ description: 创建Marketo自定义对象 — Marketo文档 — 产品文档
 title: 创建Marketo自定义对象
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 0%
+source-wordcount: '616'
+ht-degree: 1%
 
 ---
 
@@ -27,35 +27,35 @@ ht-degree: 0%
 
 此示例显示了一个Car自定义对象，用于一对多结构。 之后，您将创建一个课程自定义对象和一个中间对象，以在多对多结构中使用。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
+1. 单击 **[!UICONTROL Marketo Custom Objects]**。
 
    ![](assets/create-marketo-custom-objects-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建自定义对象]**。
+1. 单击 **[!UICONTROL New Custom Object]**。
 
    ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL Marketo自定义对象]选项卡在右侧显示所有自定义对象，以及任何已批准对象的详细信息，包括最近更新的记录数和字段数。
+   >[!UICONTROL Marketo Custom Objects]选项卡在右侧显示所有自定义对象，以及任何已批准对象的详细信息，包括最新更新的记录数和字段数。
 
-1. 输入[!UICONTROL 显示名称]。 [!UICONTROL API名称]和[!UICONTROL Plural名称]会自动填充。 输入[!UICONTROL 描述]（可选）。
+1. 输入[!UICONTROL Display Name]。 [!UICONTROL API Name]和[!UICONTROL Plural Name]会自动填充。 输入[!UICONTROL Description]（可选）。
 
    ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
-   >您可以在创建这些字段时对其进行编辑，但在保存这些字段后，您只能编辑[!UICONTROL Plural Name]字段和&#x200B;**[!UICONTROL 在潜在客户详细信息中显示]**&#x200B;滑块。
+   >您可以在创建这些字段时对其进行编辑，但在保存这些字段后，您只能编辑[!UICONTROL Plural Name]字段和&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑块。
 
-1. 如果要查看“数据库”页面上的自定义对象数据，请将&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑块拖动到其上以显示&#x200B;**[!UICONTROL Show]**。 单击&#x200B;**[!UICONTROL 保存]**。
+1. 如果要查看“数据库”页面上的自定义对象数据，请将&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑块拉到上面以显示&#x200B;**[!UICONTROL Show]**。 单击 **[!UICONTROL Save]**。
 
    ![](assets/create-marketo-custom-objects-5.png)
 
-1. 自定义对象信息显示您输入的内容。 请注意，它处于“草稿”状态。
+1. 自定义对象信息显示您输入的内容。 请注意，它处于&#x200B;**[!UICONTROL Draft]**&#x200B;状态。
 
    ![](assets/create-marketo-custom-objects-6.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您只能通过列表导入或[API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)填充Marketo自定义对象。
+   >您只能通过列表导入或[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)填充Marketo自定义对象。
 
 ## 为多对多结构创建自定义对象 {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -73,37 +73,37 @@ ht-degree: 0%
 >
 >对于多对多关系，您不需要在自定义对象中创建链接。 您而是会为中间对象添加两个链接（见下文）。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
+1. 单击 **[!UICONTROL Marketo Custom Objects]**。
 
    ![](assets/create-marketo-custom-objects-8.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建自定义对象]**。
+1. 单击 **[!UICONTROL New Custom Object]**。
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. 输入[!UICONTROL 显示名称]。 [!UICONTROL API名称]和[!UICONTROL Plural名称]会自动填充。 输入[!UICONTROL 描述]（可选）。
+1. 输入[!UICONTROL Display Name]。 [!UICONTROL API Name]和[!UICONTROL Plural Name]会自动填充。 输入[!UICONTROL Description]（可选）。
 
    ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
-   >您可以在创建这些字段时对其进行编辑，但在保存这些字段后，您只能编辑[!UICONTROL Plural Name]字段和&#x200B;**[!UICONTROL 在潜在客户详细信息中显示]**&#x200B;滑块。
+   >您可以在创建这些字段时对其进行编辑，但在保存这些字段后，您只能编辑[!UICONTROL Plural Name]字段和&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑块。
 
-1. 如果要查看“数据库”页面上的自定义对象数据，请将&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑块拖动到其上以显示&#x200B;**[!UICONTROL Show]**。 单击&#x200B;**[!UICONTROL 保存]**。
+1. 如果要查看“数据库”页面上的自定义对象数据，请将&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑块拉到上面以显示&#x200B;**[!UICONTROL Show]**。 单击 **[!UICONTROL Save]**。
 
    ![](assets/create-marketo-custom-objects-11.png)
 
-1. 自定义对象信息显示您输入的内容。 请注意，它处于“草稿”状态。
+1. 自定义对象信息显示您输入的内容。 请注意，它处于&#x200B;**[!UICONTROL Draft]**&#x200B;状态。
 
    ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
-   >您只能通过列表导入或[API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)填充Marketo自定义对象。
+   >您只能通过列表导入或[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)填充Marketo自定义对象。
 
 下一步是创建中间对象（见下文）。 但在之前，您需要创建一个字段以链接到它。
 
@@ -115,31 +115,31 @@ ht-degree: 0%
 >
 >您不需要为一对多自定义对象结构创建中间对象。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
+1. 单击 **[!UICONTROL Marketo Custom Objects]**。
 
    ![](assets/create-marketo-custom-objects-14.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建自定义对象]**。
+1. 单击 **[!UICONTROL New Custom Object]**。
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. 输入[!UICONTROL 显示名称]。 [!UICONTROL API名称]和[!UICONTROL Plural名称]会自动填充。 输入[!UICONTROL 描述]（可选）。
+1. 输入[!UICONTROL Display Name]。 [!UICONTROL API Name]和[!UICONTROL Plural Name]会自动填充。 输入[!UICONTROL Description]（可选）。
 
    ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
-   >您可以在创建这些字段时对其进行编辑，但在保存这些字段后，您只能编辑[!UICONTROL Plural Name]字段和[!UICONTROL 在潜在客户详细信息中显示]滑块。
+   >您可以在创建这些字段时对其进行编辑，但在保存这些字段后，您只能编辑[!UICONTROL Plural Name]字段和[!UICONTROL Show in Lead Detail]滑块。
 
-1. 如果要查看“数据库”页面上的自定义对象数据，请将&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑块拖动到其上以显示&#x200B;**Show**。 单击&#x200B;**保存**。
+1. 如果要查看“数据库”页面上的自定义对象数据，请将&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑块拉到其上以显示&#x200B;**显示**。 单击&#x200B;**保存**。
 
    ![](assets/create-marketo-custom-objects-17.png)
 
-1. 自定义对象信息显示您输入的内容。 请注意，它处于“草稿”状态。
+1. 自定义对象信息显示您输入的内容。 请注意，它处于&#x200B;**[!UICONTROL Draft]**&#x200B;状态。
 
    下一步是您[添加链接字段](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)，以将中间对象连接到人员/公司和自定义对象。
 

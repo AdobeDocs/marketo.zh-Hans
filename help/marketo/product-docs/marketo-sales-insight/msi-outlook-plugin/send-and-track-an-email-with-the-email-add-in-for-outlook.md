@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949716
-description: 使用Outlook的电子邮件加载项发送和跟踪电子邮件 — Marketo文档 — 产品文档
-title: 使用Outlook的电子邮件加载项发送和跟踪电子邮件
+description: 使用 [!DNL Outlook] 的电子邮件加载项发送和跟踪电子邮件 — Marketo文档 — 产品文档
+title: 使用 [!DNL Outlook]的电子邮件加载项发送和跟踪电子邮件
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
-# 使用Outlook的电子邮件加载项发送和跟踪电子邮件 {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# 使用[!DNL Outlook]的电子邮件加载项发送和跟踪电子邮件 {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
-您可以使用Marketo直接从Outlook发送和跟踪电子邮件。
+您可以直接从[!DNL Outlook]使用Marketo发送和跟踪电子邮件。
 
 >[!PREREQUISITES]
 >
->如果尚未安装，请安装适用于Outlook的[Marketo电子邮件加载项](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
+>如果尚未安装，请为[安装 [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)Marketo电子邮件加载项。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >如果电子邮件中包含多个收件人，则所有活动都将在第一个收件人下被跟踪。
 
-1. 按常规方式撰写电子邮件，然后单击&#x200B;**发送并跟踪**。
+1. 按常规方式撰写电子邮件，然后单击&#x200B;**[!UICONTROL Send and Track]**。
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果要使用Marketo模板，请参阅[使用模板从Outlook中发送和跟踪](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)。
+   >如果要使用Marketo模板，请参阅[使用模板 [!DNL Outlook] 发送和跟踪](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)。
 
-1. 查看预览并单击&#x200B;**发送**。
+1. 查看预览并单击&#x200B;**[!UICONTROL Send]**。
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
    >
    >反垃圾邮件技术通常会拒绝在发送电子邮件后20秒内发生的打开和单击操作，因此在测试时，请至少等待这么长时间才能打开/单击。
 
-   要查看谁收到了通过Outlook发送的电子邮件，请使用“已发送销售电子邮件”过滤器创建智能列表。
+   要查看谁收到了通过[!DNL Outlook]发送的电子邮件，请使用&quot;[!UICONTROL Was Sent Sales Email]&quot;过滤器创建智能列表。
 
    ![](assets/was-sent-sales-email.png)
 
-这太简单了！ 即使此电子邮件是由销售人员的Outlook发送的，它仍将在Marketo中进行跟踪。
+这太简单了！ 即使此电子邮件是由销售人员的[!DNL Outlook]发送的，仍将在Marketo中对其进行跟踪。
 
 >[!MORELIKETHIS]
 >

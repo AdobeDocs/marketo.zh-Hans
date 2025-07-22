@@ -1,37 +1,37 @@
 ---
 unique-page-id: 11377005
-description: 启用RSS for Sales Insight - Marketo文档 — 产品文档
+description: 为销售人员启用RSS Insight - Marketo文档 — 产品文档
 title: 为Sales Insight启用RSS
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 2%
 
 ---
 
-# 为Sales Insight启用RSS {#enable-rss-for-sales-insight}
+# 为[!DNL Sales Insight]启用RSS {#enable-rss-for-sales-insight}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-如果Marketo用户不仅要在Salesforce中，而且要在RSS馈送中查看其潜在客户馈送，则必须先由Marketo管理员启用它。 这很容易。
+如果Marketo用户希望不仅在[!DNL Salesforce]中查看其潜在客户信息源，还希望在RSS信息源中查看其潜在客户信息源，则必须先由Marketo管理员启用它。 操作十分简单。
 
-1. 在“我的Marketo”中，单击&#x200B;**管理员**，然后单击&#x200B;**销售分析**。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**，然后单击&#x200B;**[!DNL Sales Insight]**。
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. 在“设置”上，单击&#x200B;**编辑**。 请注意，RSS馈送显示为&#x200B;**已禁用**。
+1. 在“设置”上，单击&#x200B;**[!UICONTROL Edit]**。 请注意，RSS源显示为&#x200B;**[!UICONTROL Disabled]**。
 
    ![](assets/rss-settings-tab.png)
 
-1. 在“编辑设置”对话框中，选中&#x200B;**RSS源**&#x200B;复选框，然后单击&#x200B;**保存**。
+1. 在[!UICONTROL Edit Settings]对话框中，选中&#x200B;**[!UICONTROL RSS feed]**&#x200B;复选框，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   RSS馈送现在显示为&#x200B;**已启用**。
+   RSS源现在显示为&#x200B;**[!UICONTROL Enabled]**。
 
    ![](assets/rss-final-box.png)
 

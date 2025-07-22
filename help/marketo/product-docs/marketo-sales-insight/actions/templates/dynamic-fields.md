@@ -3,9 +3,9 @@ description: 动态字段 — Marketo文档 — 产品文档
 title: 动态字段
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ ht-degree: 0%
 
 >[!TIP]
 >
->“first_name”和“company”字段是仅有的将同时查看Sales Insight Actions和Salesforce的字段。 这意味着，如果[Web应用程序](https://toutapp.com/login)中不存在联系人，我们会查看Salesforce以查看是否可以找到具有匹配电子邮件地址的联系人/潜在客户记录。 然后，使用该记录中的信息来填充该字段。
+>“first_name”和“company”字段是仅有的将同时查找[!DNL Sales Insight Actions]和[!DNL Salesforce]的字段。 这意味着，如果[Web应用程序](https://toutapp.com/login)中不存在联系人，我们会查看[!DNL Salesforce]，以查看是否可以找到具有匹配电子邮件地址的联系人/潜在客户记录。 然后，使用该记录中的信息来填充该字段。
 
 ## 将动态字段插入模板 {#insert-a-dynamic-field-into-a-template}
 
-1. 在&#x200B;**模板和营销活动**&#x200B;中，找到要编辑的模板并单击&#x200B;**编辑模板**。
+1. 在&#x200B;**[!UICONTROL Templates & Campaigns]**&#x200B;中，找到要编辑的模板并单击&#x200B;**[!UICONTROL Edit Template]**。
 
-1. 单击&#x200B;**插入动态字段**。
+1. 单击 **[!UICONTROL Insert Dynamic Field]**。
 
    >[!NOTE]
    >
-   >通过电子邮件发送存在于Sales Insight Actions中的联系人时，您可以使用基本的动态字段。 这些将直接从联系人中提取。
+   >通过电子邮件发送存在于[!DNL Sales Insight Actions]中的联系人时，您可以使用基本动态字段。 这些将直接从联系人中提取。
 
-如果您通过电子邮件发送存在于Salesforce中的联系人，则可以利用Salesforce动态字段。 所有这些都以“sfdc”开头。 只要您连接到Salesforce，这些字段就会直接调用Salesforce中的潜在客户/联系人来填充模板中的信息。
+如果您要通过电子邮件发送存在于[!DNL Salesforce]中的联系人，则可以利用[!DNL Salesforce]动态字段。 所有这些都以“sfdc”开头。 只要您连接到[!DNL Salesforce]，这些字段就会直接调用[!DNL Salesforce]中的潜在客户/联系人以填充模板中的信息。
 
 ## 在主题行中插入动态字段 {#insert-dynamic-fields-in-a-subject-line}
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 动态字段术语表 {#dynamic-fields-glossary}
 
-在Sales Insight Actions中创建模板时，我们始终建议使用&#x200B;**插入动态字段**&#x200B;按钮来集成动态字段。
+在[!DNL Sales Insight Actions]中创建模板时，我们始终建议使用&#x200B;**[!UICONTROL Insert Dynamic Field]**&#x200B;按钮集成动态字段。
 
 此工具用于`auto-personalize your email`，并由`pulling information from the People page`为您节省大量时间。
 
@@ -60,16 +60,16 @@ ht-degree: 0%
 | `{{team_unsubscribe}}` | 如果您不想再收到我们的电子邮件，请单击此处 |
 | `{{friendly_unsubscribe}}` | 厌倦了所有的邮件？ 请让我在这里知道 |
 | `{{my_name}}` | 基思·弗林 |
-| `{{my_signature}}` | Keith Flynn，高级技术撰稿人 — Adobe |
+| `{{my_signature}}` | Keith Flynn，Adobe高级技术撰稿人 |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | 高级技术撰稿人 |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | https://www.adobe.com/cn |
 
 **注意事项**：
 
 * 如果联系人信息输入错误或从“人员”页面中丢失，则无法将联系人信息正确提取到您的模板中。
 * `{{company}}`和`{{company_friendly}}`的区别在于`{{company_friendly}}`将从联系人的公司名称中删除任何正式标题，如Inc.、LLC.等。
-* 使用`{{company_friendly}}`时，请确保在联系人详细信息中用逗号分隔Inc.或Co.。 这就是Sales Insight Actions在提取值时知道要删除什么内容的方式。
+* 使用`{{company_friendly}}`时，请确保在联系人详细信息中用逗号分隔Inc.或Co.。 这就是[!DNL Sales Insight Actions]在提取值时知道要移除内容的方式。
 * 我们允许您使用预定义属性（如`{{my_name}}`或`{{my_title}}`）个性化电子邮件模板。 这些字段允许您在电子邮件模板中快速引用自己。
 * 系统会自动将用户的签名附加到发送的每封电子邮件中。 如果用户使用包含`{{my_signature}}`动态字段的模板，系统将填充放置`{{my_signature}}`动态字段的签名。 只是为了避免重复而添加它。 启用全局附加取消订阅设置时，系统将以相同的方式处理`{{team_unsubscribe}}`。
 

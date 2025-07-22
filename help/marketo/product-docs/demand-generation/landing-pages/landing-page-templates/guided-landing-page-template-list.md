@@ -4,9 +4,9 @@ description: 引导式登陆页面模板列表 — Marketo文档 — 产品文�
 title: 引导式登陆页面模板列表
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo支持未设置为协助对HTML进行故障诊断。 如果您在修改这些模板时需要帮助，请咨询Web开发人员。
+>未设置Marketo支持以帮助对HTML进行故障排除。 如果您在修改这些模板时需要帮助，请咨询Web开发人员。
 
 要将模板导入Marketo，请执行以下操作：
 
 1. 单击模板名称以查看大图。
 1. 下载所选模板。
-1. 在Marketo中，导航到&#x200B;**设计工作室。**
-1. 单击左侧树中的&#x200B;**登录页面**，然后选择&#x200B;**模板。**
+1. 在Marketo中，导航到&#x200B;**[!UICONTROL Design Studio].**
+1. 单击左侧树中的&#x200B;**[!UICONTROL Landing Pages]**，然后选择&#x200B;**[!UICONTROL Templates].**
 
-1. 在菜单栏中，单击&#x200B;**导入模板。**
-1. 选择下载的文件，输入模板名称，然后单击&#x200B;**导入**（确保选择描述性名称并指示编辑模式为&#x200B;**引导式**）。
+1. 在菜单栏中，单击&#x200B;**[!UICONTROL Import Template].**
+1. 选择下载的文件，输入模板名称，然后单击&#x200B;**[!UICONTROL Import]** （确保选择描述性名称并指示编辑模式为&#x200B;**[!UICONTROL Guided]**）。
 
 <table>
 <tr>

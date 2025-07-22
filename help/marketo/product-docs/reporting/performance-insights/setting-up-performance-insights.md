@@ -4,32 +4,32 @@ description: 设置性能分析 — Marketo文档 — 产品文档
 title: 设置性能分析
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 2%
 
 ---
 
-# 设置性能分析 {#setting-up-performance-insights}
+# 设置[!UICONTROL Performance Insights] {#setting-up-performance-insights}
 
 按照以下步骤设置MPI。
 
 ## 机会设置 {#opportunity-setup}
 
-1. 单击&#x200B;**管理员**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/admin.png)
 
-1. 单击&#x200B;**收入周期Analytics**。
+1. 单击 **[!UICONTROL Revenue Cycle Analytics]**。
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >如果您没有RCA，则需要为步骤2选择&#x200B;**项目分析**。
+   >如果您没有RCA，则需要为步骤2选择&#x200B;**[!UICONTROL Program Analysis]**。
 
-1. 在“归因”下，单击&#x200B;**编辑**。
+1. 在归因下，单击&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/three-1.png)
 
@@ -45,18 +45,18 @@ ht-degree: 0%
    >
    >确保所有机会均已填充相应的字段：
    >
-   >* 机会金额
-   >* 已关闭
-   >* 赢得了
-   >* 创建日期（在您的案例中可能未设置此日期）
-   >* 结束日期（在您的案例中可能未设置此日期）
-   >* 机会类型
+   >* [!UICONTROL Opportunity Amount]
+   >* [!UICONTROL Is Closed]
+   >* [!UICONTROL Is Won]
+   >* [!UICONTROL Creation Date] （在您的案例中可能未设置此项）
+   >* [!UICONTROL Closed Date] （在您的案例中可能未设置此项）
+   >* [!UICONTROL Opportunity Type]
 
 ## 项目设置 {#program-setup}
 
 更新计划成本至少12个月。 您可以手动或使用程序API执行此操作。 在本例中，我们手动执行此操作。
 
-1. 单击&#x200B;**营销活动**。
+1. 单击 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
@@ -64,29 +64,29 @@ ht-degree: 0%
 
    ![](assets/select-program.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡。
 
    ![](assets/setup-tab.png)
 
-1. 将&#x200B;**期间成本**&#x200B;拖到画布上。
+1. 将&#x200B;**[!UICONTROL Period Cost]**&#x200B;拖到画布上。
 
    ![](assets/period-cost.png)
 
-1. 将计划月份设置为至少12个月前，然后单击&#x200B;**确定**。
+1. 将计划月份设置为至少12个月前，然后单击&#x200B;**[!UICONTROL Ok]**。
 
    ![](assets/set-period.png)
 
-1. 设置期间成本，然后单击&#x200B;**保存**。
+1. 设置期间成本并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/set-cost.png)
 
 接下来，查看Analytics行为，以指示分析中是否应包含特定渠道。 设置Analytics行为（正常、包含、可操作）。
 
-1. 单击&#x200B;**管理员**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/admin.png)
 
-1. 单击&#x200B;**标记**。
+1. 单击 **[!UICONTROL Tags]**。
 
    ![](assets/tags.png)
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
    ![](assets/channel-click.png)
 
-1. 单击&#x200B;**Analytics行为**&#x200B;下拉列表并选择所需的行为。
+1. 单击&#x200B;**[!UICONTROL Analytics Behavior]**&#x200B;下拉列表并选择所需的行为。
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ ht-degree: 0%
 
    ![](assets/success.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/save.png)
 

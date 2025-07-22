@@ -4,9 +4,9 @@ description: 网页活动报表 — Marketo文档 — 产品文档
 title: 网页活动报表
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 >
 >* [将Munchkin跟踪代码添加到您的网站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
-1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**网页活动报告**&#x200B;[报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**网页活动报告**[报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
 1. 选择在报告中[显示已知或匿名人员](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}。
 
 1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"}并单击&#x200B;**报告**&#x200B;选项卡。
@@ -32,11 +32,11 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >要在网页活动报表中反映数据，最多可能需要24小时。
+   >数据可能需要24小时才能反映在[!UICONTROL Web Page Activity]报表中。
 
    >[!TIP]
    >
-   >要了解访问您网站次数最多的用户，请在&#x200B;_页面查看次数_&#x200B;列[对您的报表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}进行排序，然后选择“降序排序”。
+   >要了解访问您网站次数最多的用户，请在[页面查看次数](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}列&#x200B;_对您的报表_&#x200B;进行排序，然后选择“降序排序”。
 
    [Marketo将匿名](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}网站访客添加到您的数据库，您可以选择在此报告中显示这些访客。 它提供了大量的信息，即使它们是不记名的。\
    可为网页活动报告选择[列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}包括：

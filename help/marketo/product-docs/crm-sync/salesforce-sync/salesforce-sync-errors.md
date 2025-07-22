@@ -3,14 +3,14 @@ description: Salesforce同步错误 — Marketo文档 — 产品文档
 title: Salesforce同步错误
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
 
-# Salesforce同步错误 {#salesforce-sync-errors}
+# [!DNL Salesforce]同步错误 {#salesforce-sync-errors}
 
 查看同步过程中遇到的错误的摘要。 这包括因无法同步不兼容的数据而导致的错误。
 
@@ -20,11 +20,11 @@ ht-degree: 1%
 
 ## 查看同步错误 {#view-sync-errors}
 
-1. 单击&#x200B;**[!UICONTROL 管理员]**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. 在“集成”下，单击&#x200B;**Salesforce**，然后单击&#x200B;**[!UICONTROL 同步错误]**&#x200B;选项卡。
+1. 在“集成”下，单击&#x200B;**Salesforce**，然后单击“**[!UICONTROL Sync Errors]**”选项卡。
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -40,7 +40,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->单击记录级别记录会显示相关对象的Marketo和Salesforce ID。 在某些情况下，记录中的消息和职务级别错误直接来自Salesforce。 联机搜索可提供更多详细信息。
+>单击记录级别记录会显示相关对象的Marketo和[!DNL Salesforce] ID。 在某些情况下，记录中的消息和作业级别错误直接来自[!DNL Salesforce]。 联机搜索可提供更多详细信息。
 
 ## 筛选器同步错误 {#filter-sync-errors}
 
@@ -48,10 +48,10 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 选择日期和时间范围，然后按错误类型（作业层或记录层）筛选。 完成后单击&#x200B;**[!UICONTROL 应用]**。
+1. 选择日期和时间范围，然后按错误类型（作业层或记录层）筛选。 完成后单击&#x200B;**[!UICONTROL Apply]**。
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**可选步骤**：若要导出同步错误，请单击&#x200B;**[!UICONTROL 导出]**。 数据将导出为CSV。
+**可选步骤**：若要导出同步错误，请单击&#x200B;**[!UICONTROL Export]**。 数据将导出为CSV。
 
 ![](assets/salesforce-sync-errors-5.png)

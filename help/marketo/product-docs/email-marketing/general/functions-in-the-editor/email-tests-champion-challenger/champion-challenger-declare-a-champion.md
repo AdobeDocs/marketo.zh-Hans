@@ -4,9 +4,9 @@ description: 冠军/挑战者 — 宣布冠军 — Marketo文档 — 产品文�
 title: 冠军/挑战者 — 宣布冠军
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -19,32 +19,32 @@ ht-degree: 0%
 >
 >[冠军/挑战者：批准您的电子邮件测试](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 查找并右键单击您的电子邮件测试，然后单击&#x200B;**声明冠军**。
+1. 查找并右键单击您的电子邮件测试，然后单击&#x200B;**[!UICONTROL Declare Champion]**。
 
    ![](assets/champion4.jpg)
 
-1. 选择您选择的&#x200B;**入选者**。
+1. 选择您选择的&#x200B;**[!UICONTROL Winner]**。
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. 设置&#x200B;**声明日期**。
+1. 设置&#x200B;**[!UICONTROL Declare Date]**。
 
    >[!NOTE]
    >
-   >在&#x200B;**声明日期**&#x200B;之前，Marketo将继续发送旧冠军和挑战者。 一旦到达日期/时间，将仅发送新冠军。
+   >在&#x200B;**[!UICONTROL Declare Date]**&#x200B;之前，Marketo将继续发送旧冠军和挑战者。 一旦到达日期/时间，将仅发送新冠军。
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >请注意，默认&#x200B;**声明日期**&#x200B;为明天，而不是今天。
+   >请注意，默认&#x200B;**[!UICONTROL Declare Date]**&#x200B;为明天，而不是今天。
 
-1. 选择时间，然后单击&#x200B;**保存**。
+1. 选择时间，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
-   Rad！ 现在您知道如何轻松地运行电子邮件测试来改进内容，而不会中断您的营销活动。
+   拉德！ 现在您知道如何轻松地运行电子邮件测试来改进内容，而不会中断您的营销活动。

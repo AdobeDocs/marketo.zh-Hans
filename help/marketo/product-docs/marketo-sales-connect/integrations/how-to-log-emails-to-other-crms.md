@@ -4,9 +4,9 @@ description: 如何将电子邮件记录到其他CRM - Marketo文档 — 产品�
 title: 如何将电子邮件记录到其他CRM
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,18 @@ ht-degree: 0%
 
 **几乎每个CRM**：
 
-* 我们的自动密件抄送功能可与您通过Sales Connect发送给潜在客户的几乎所有客户关系管理记录电子邮件配合使用。 只需确保您选择的CRM为您提供密件抄送地址即可利用此地址。
+* 我们的自动密件抄送功能可与您通过[!DNL Sales Connect]发送给潜在客户的几乎所有的CRM记录电子邮件配合使用。 只需确保您选择的CRM为您提供密件抄送地址即可利用此地址。
 
-**Salesforce**：
+**[!DNL Salesforce]**：
 
 * 我们做了以上所有工作，等等！
 
 ## 如何连接到其他CRM {#how-to-connect-to-other-crms}
 
-1. 单击&#x200B;**设置**。
+1. 单击 **[!UICONTROL Settings]**。
 1. 单击&#x200B;**CRM**。
-1. 单击“其他CRM”下的&#x200B;**连接**。
-1. 单击&#x200B;**配置**，然后将密件抄送地址粘贴到密件抄送下。
-1. 单击&#x200B;**保存**，您的密件抄送地址将保存到Sales Connect。
+1. 单击“其他CRM”下的&#x200B;**[!UICONTROL Connect]**。
+1. 单击&#x200B;**[!UICONTROL Configure]**，然后将密件抄送地址粘贴到“电子邮件到密件抄送”下方。
+1. 单击&#x200B;**[!UICONTROL Save]**，您的密件抄送地址将保存到[!DNL Sales Connect]。
 
    电子邮件现在将通过密件抄送记录到您的CRM。

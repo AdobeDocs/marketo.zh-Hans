@@ -3,22 +3,22 @@ description: 添加/删除自定义对象字段作为智能列表/触发器约�
 title: 添加/删除自定义对象字段作为智能列表/触发器约束
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
 # 添加/删除自定义对象字段作为智能列表/触发器约束 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage提供对Veeva自定义对象同步的特定控制。 这允许您选择可用作自定义对象过滤器中的约束条件的字段，并在智能营销策划中将其用作触发器。
+Marketo Engage提供对[!DNL Veeva]自定义对象同步的特定控制。 这允许您选择可用作自定义对象过滤器中的约束条件的字段，并在智能营销策划中将其用作触发器。
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 单击&#x200B;**[!UICONTROL 管理员]**，然后单击&#x200B;**[!UICONTROL Veeva对象同步]**。
+1. 单击&#x200B;**[!UICONTROL Admin]**，然后单击&#x200B;**[!UICONTROL Veeva Objects Sync]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -26,19 +26,19 @@ Marketo Engage提供对Veeva自定义对象同步的特定控制。 这允许您
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 编辑可见字段]**。
+1. 单击 **[!UICONTROL Edit Visible Fields]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-3.png)
 
    >[!TIP]
    >
-   >如果编辑可见字段按钮呈灰显状态，则表示该对象当前正用于智能列表或智能营销活动中。 删除所有关联以继续。
+   >如果[!UICONTROL Edit Visible Fields]按钮呈灰显状态，则该对象当前正用于智能列表或智能营销活动中。 删除所有关联以继续。
 
-1. 如果已启用全局同步，请单击&#x200B;**[!UICONTROL 禁用全局同步]**。
+1. 如果已启用全局同步，请单击&#x200B;**[!UICONTROL Disable Global Sync]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. 选中所需的筛选器/触发器约束旁边的框，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 选中所需的筛选器/触发器约束旁边的框，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -46,7 +46,7 @@ Marketo Engage提供对Veeva自定义对象同步的特定控制。 这允许您
    >
    >默认情况下，选择所有字段作为筛选条件的限制。
 
-1. 单击&#x200B;**[!UICONTROL 字段]**&#x200B;选项卡以确认更改。
+1. 单击&#x200B;**[!UICONTROL Fields]**&#x200B;选项卡以确认更改。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 

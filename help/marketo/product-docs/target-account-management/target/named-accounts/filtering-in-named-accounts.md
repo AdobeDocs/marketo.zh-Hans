@@ -4,14 +4,14 @@ description: 在指定帐户中筛选 — Marketo文档 — 产品文档
 title: 在指定帐户中筛选
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# 在指定帐户中筛选 {#filtering-in-named-accounts}
+# 在[!UICONTROL Named Accounts]中筛选 {#filtering-in-named-accounts}
 
 筛选是快速缩小数据范围的好方法。
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >有多种搜索参数组合。 在此示例中，我们找到：_Industry = Banking， Country = United States， Max Employees = 10000_。
+   >有多种搜索参数组合。 在此示例中，我们找到：_[!UICONTROL Industry]=银行业务，[!UICONTROL Country] =美国，最大[!UICONTROL Employees] = 10000_。
 
-1. 单击&#x200B;**行业**&#x200B;下拉列表，然后选择&#x200B;**银行**。
+1. 单击&#x200B;**[!UICONTROL Industry]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Banking]**。
 
    ![](assets/filter-2.png)
 
-1. 单击&#x200B;**国家/地区**&#x200B;下拉列表，然后选择&#x200B;**美国**。
+1. 单击&#x200B;**[!UICONTROL Country]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL United States]**。
 
    ![](assets/filter-3.png)
 
-1. 在&#x200B;**员工**&#x200B;下，在&#x200B;**最小值**&#x200B;字段中键入“0”，在&#x200B;**最大值**&#x200B;字段中键入“10000”，然后单击&#x200B;**应用**。
+1. 在&#x200B;**[!UICONTROL Employees]**&#x200B;下，在&#x200B;**Min**&#x200B;字段中键入“0”，在&#x200B;**Max**&#x200B;字段中键入“10000”，然后单击&#x200B;**[!UICONTROL Apply]**。
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要添加更多筛选器以供选择，请单击表单左下角的&#x200B;**添加筛选器**。
+   >若要添加更多筛选器以供选择，请单击表单左下角的&#x200B;**[!UICONTROL Add Filter]**。

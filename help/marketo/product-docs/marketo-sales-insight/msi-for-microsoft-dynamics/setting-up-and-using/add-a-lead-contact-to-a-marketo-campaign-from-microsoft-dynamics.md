@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953342
-description: 从Microsoft Dynamics - Marketo文档 — 产品文档将潜在客户/联系人添加到Marketo营销活动
+description: 从Microsoft Dynamics将潜在客户/联系人添加到Marketo营销活动 — Marketo文档 — 产品文档
 title: 从Microsoft Dynamics将潜在客户/联系人添加到Marketo营销活动
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# 从Microsoft Dynamics将潜在客户/联系人添加到Marketo营销活动 {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
+# 将潜在客户/联系人从[!DNL Microsoft Dynamics]添加到Marketo营销活动 {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-您可以在Microsoft Dynamics中直接快速轻松地将潜在客户/联系人添加到Marketo智能营销活动。 具体方法如下。
+您可以在[!DNL Microsoft Dynamics]中直接将潜在客户/联系人快速轻松地添加到Marketo智能营销活动中。 具体方法如下。
 
-1. 在Dynamics中，转到&#x200B;**Sales**&#x200B;区域。
+1. 在[!DNL Dynamics]中，转到&#x200B;**[!UICONTROL Sales]**&#x200B;区域。
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,16 +27,16 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. 单击&#x200B;**...**，然后选择&#x200B;**添加到Marketo营销活动**。
+1. 单击&#x200B;**...**&#x200B;并选择&#x200B;**[!UICONTROL Add to Marketo Campaign]**。
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
-1. 选择要添加潜在客户或联系人的Marketo营销活动，然后单击&#x200B;**添加**。
+1. 选择要添加潜在客户或联系人的Marketo营销活动，然后单击&#x200B;**[!UICONTROL Add]**。
 
    ![](assets/image2014-10-20-12-3a10-3a42.png)
 
    >[!NOTE]
    >
-   >要使营销活动显示在下拉列表中，请在设置营销活动时，使用以销售分析为源的&#x200B;[**已请求营销活动**&#x200B;触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)。
+   >要使营销活动显示在下拉列表中，请在设置营销活动时，使用&#x200B;[**Campaign is Requested** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)，并将[!DNL Sales Insight]作为源。
 
-大家就这些！ 现在，您可以直接从Dynamics中掌握Marketo智能营销活动的强大功能。
+大家就这些！ 您现在可以直接从[!DNL Dynamics]手中获得Marketo智能营销活动的强大功能。

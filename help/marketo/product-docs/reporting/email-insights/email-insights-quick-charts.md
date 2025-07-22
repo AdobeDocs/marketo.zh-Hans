@@ -4,9 +4,9 @@ description: 电子邮件分析快速图表 — Marketo文档 — 产品文档
 title: 电子邮件分析快速图表
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 在此示例中，我们将选择2016年2月前三周的打开率，即加利福尼亚州和佛罗里达州的打开率。
 
-1. 单击Analytics屏幕右侧的日期过滤器。
+1. 单击[!UICONTROL Analytics]屏幕右侧的日期过滤器。
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. 选择日期范围后，单击&#x200B;**应用**。
+1. 选择日期范围后，单击&#x200B;**[!UICONTROL Apply]**。
 
    ![](assets/three-2.png)
 
@@ -39,11 +39,11 @@ ht-degree: 0%
 
    ![](assets/5.png)
 
-1. 在图表的右侧，单击导出图标，然后选择&#x200B;**另存为快速图表**。
+1. 在图表的右侧，单击导出图标并选择&#x200B;**[!UICONTROL Save as Quick Chart]**。
 
    ![](assets/six.png)
 
-1. 命名您的快速图表，然后单击&#x200B;**保存**。
+1. 命名您的快速图表，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 要删除您的某个快速图表吗？ 这很容易！
 
-1. 单击&#x200B;**快速图表**&#x200B;图标。
+1. 单击&#x200B;**[!UICONTROL Quick Charts]**&#x200B;图标。
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-1. 单击&#x200B;**确定**。
+1. 单击 **[!UICONTROL Ok]**。
 
    ![](assets/eleven.png)
 

@@ -4,22 +4,22 @@ description: 设置默认自定义字段前缀 — Marketo文档 — 产品文�
 title: 设置默认自定义字段前缀
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '88'
+ht-degree: 3%
 
 ---
 
 # 设置默认自定义字段前缀 {#set-a-default-custom-field-prefix}
 
-自定义字段的默认Microsoft Dynamics前缀必须为&#x200B;_new_，以便Marketo专有字段正确同步。 下面是如何更改默认前缀的。
+自定义字段的默认[!DNL Microsoft Dynamics]前缀必须为&#x200B;**new**，以便Marketo专有字段正确同步。 下面是如何更改默认前缀的。
 
-1. 转到“设置”并选择&#x200B;**自定义项**。
+1. 转到[!UICONTROL Settings]并选择&#x200B;**[!UICONTROL Customizations].**
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
-1. 单击&#x200B;**发布者**。
+1. 单击 **[!UICONTROL Publishers]**。
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. 将前缀更改为&#x200B;**new**。 单击&#x200B;**保存并关闭**。
+1. 将前缀更改为&#x200B;**new**。 单击 **[!UICONTROL Save and Close]**。
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
-1. 转到“设置”>“解决方案”以发布自定义项。
+1. 转到[!UICONTROL Settings] > [!UICONTROL Solutions]以发布自定义项。
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. 单击&#x200B;**Publish所有自定义项**。
+1. 单击 **[!UICONTROL Publish All Customizations]**。
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 

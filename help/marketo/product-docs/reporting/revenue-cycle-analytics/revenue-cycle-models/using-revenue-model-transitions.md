@@ -4,9 +4,9 @@ description: 使用收入模型过渡 — Marketo文档 — 产品文档
 title: 使用收入模型过渡
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ ht-degree: 0%
 
 ![](assets/one-2.png)
 
-1. 右键单击（也可以双击）其中一个箭头以开始，然后选择&#x200B;**编辑过渡**。
+1. 右键单击（也可以双击）其中一个箭头以开始，然后选择&#x200B;**[!UICONTROL Edit Transition]**。
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >无法编辑“匿名⇒已知”过渡规则。
+   >无法编辑“[!UICONTROL Anonymous] ⇒ [!UICONTROL Known]”过渡规则。
 
 1. 将为您选择的过渡打开一个新选项卡。
 
    ![](assets/three-1.png)
 
-1. 过渡控制潜在客户在阶段之间的移动方式。 从右侧拖动您选择的触发器（或过滤器），然后将任意位置发布到画布上。 在本例中，我们将选择“填写表单”触发器。
+1. 过渡控制潜在客户在阶段之间的移动方式。 从右侧拖动您选择的触发器（或过滤器），然后将任意位置发布到画布上。 在此示例中，我们将选择&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;触发器。
 
    >[!TIP]
    >
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-1. 要返回模型，请单击&#x200B;**Modeler**。
+1. 要返回模型，请单击&#x200B;**[!UICONTROL Modeler]**。
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 为所有过渡配置规则后，单击&#x200B;**验证**&#x200B;以进行验证。
+1. 配置所有过渡的规则后，单击&#x200B;**[!UICONTROL Validate]**&#x200B;进行验证。
 
    ![](assets/eight.png)
 

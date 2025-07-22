@@ -4,9 +4,9 @@ description: 中止电子邮件程序 — Marketo文档 — 产品文档
 title: 中止电子邮件程序
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >本文旨在帮助您防止电子邮件在发送前发出。 无法撤消已发送的电子邮件。
 
-1. 在电子邮件程序中，单击&#x200B;**中止程序**。
+1. 在电子邮件程序中，单击&#x200B;**[!UICONTROL Abort Program]**。
 
    ![](assets/dashboardleads.jpg)
 
-1. 单击&#x200B;**中止**&#x200B;以进行完全确认。
+1. 单击&#x200B;**[!UICONTROL Abort]**&#x200B;以进行完全确认。
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

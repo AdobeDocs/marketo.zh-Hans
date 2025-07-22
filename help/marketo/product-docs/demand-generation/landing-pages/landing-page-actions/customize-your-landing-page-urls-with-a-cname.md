@@ -4,9 +4,9 @@ description: 使用CNAME自定义登陆页面URL - Marketo文档 — 产品文�
 title: 使用CNAME自定义登陆页面URL
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 向IT发送请求 {#send-request-to-it}
 
-请您的IT员工设置以下CNAME： （将单词[CNAME]和[Munchkin ID]替换为上一步中的文本。）
+请让您的IT员工设置以下CNAME： (将单词[CNAME]和[Munchkin ID]替换为上一步中的文本。)
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. 在&#x200B;**登录页的域名**&#x200B;中输入您的CNAME，输入您的&#x200B;**回退页**，输入您的&#x200B;**主页**，然后单击&#x200B;**保存**。
+1. 在&#x200B;**[!UICONTROL Domain name for Landing Pages]**&#x200B;中输入您的CNAME，输入您的&#x200B;**[!UICONTROL Fallback page]**，输入您的&#x200B;**[!UICONTROL Homepage]**，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

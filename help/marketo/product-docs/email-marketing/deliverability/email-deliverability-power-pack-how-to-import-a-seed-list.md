@@ -4,9 +4,9 @@ description: 了解如何将种子列表导入Marketo Engage实例。
 title: 电子邮件可投放性功能包 — 如何导入种子列表
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,29 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->本文适用于目前拥有活跃珠穆朗玛峰订阅的用户。 如果您使用Inbox Tracker by Bird （以前称为MessageBird），则可以在此处[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}找到您的教程。
+>本文适用于目前拥有活跃珠穆朗玛峰订阅的用户。 如果您使用Inbox Tracker by Bird （以前称为MessageBird），则可以在此处[找到您的教程](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}。
 
 ## 导入种子列表 {#import-a-seed-list}
 
-1. 在“我的Marketo”中，选择&#x200B;**可投放性工具**。
+1. 在“我的Marketo”中，选择&#x200B;**[!UICONTROL Deliverability Tools]**。
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Everest应用程序将会打开。 在左侧导航中，单击&#x200B;**外部测试版**，然后选择&#x200B;**收件箱位置**。
+1. 将会打开[!DNL Everest]应用程序。 在左侧导航中，单击&#x200B;**[!UICONTROL In-Flight]**&#x200B;并选择&#x200B;**[!UICONTROL Inbox Placement]**。
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. 单击&#x200B;**管理种子列表**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Manage Seed List]**&#x200B;选项卡。
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. 单击“操作”下拉列表，然后选择&#x200B;**每行下载一个**。
+1. 单击&#x200B;**[!UICONTROL Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Download: One Per Line]**。
 
    ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >如果您希望Everest为您优化列表，请使用种子列表优化器（位于页面顶部）。
+   >如果您希望[!DNL Everest]为您优化列表，请使用种子列表优化器（位于页面顶部）。
 
 1. 导出后，该列表将在浏览器的下载文件夹中显示为.txt文件。 检索它，然后将其作为静态列表[导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)到您的Marketo实例中。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >您每月获得的这些收件箱投放活动数量有限。 要查看你获得的数量，请查看Everest中帐户设置>订阅下的订阅部分。 要获取更多信息，请联系您的Marketo销售代表。
+   >您每月获得的这些收件箱投放活动数量有限。 要查看你获得的数量，请查看[!UICONTROL Subscription]中[!UICONTROL Account Settings] > [!UICONTROL Subscription]下的[!DNL Everest]部分。 要获取更多信息，请联系您的Marketo销售代表。
 
 ## 获取新种子列表 {#acquiring-new-seedlists}
 

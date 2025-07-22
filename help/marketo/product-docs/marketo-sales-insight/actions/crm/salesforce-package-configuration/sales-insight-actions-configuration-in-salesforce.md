@@ -1,67 +1,67 @@
 ---
-description: Salesforce中的Sales Insight Actions配置 — Marketo文档 — 产品文档
-title: Salesforce中的Sales Insight操作配置
+description: Salesforce中的销售Insight操作配置 — Marketo文档 — 产品文档
+title: Salesforce中的Sales Insight Actions配置
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
-# Salesforce中的Sales Insight操作配置 {#sales-insight-actions-configuration-in-salesforce}
+# [!DNL Sales Insight Actions]中的[!DNL Salesforce]配置 {#sales-insight-actions-configuration-in-salesforce}
 
 >[!PREREQUISITES]
 >
->* 在您的Salesforce实例中[安装](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)或[升级](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Sales Insight包
->* [在Salesforce Enterprise/Unlimited中配置Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* 在您的[实例中](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)安装[或](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)升级[!DNL Salesforce]销售Insight包
+>* [在 [!DNL Salesforce] Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)中配置Marketo Sales Insight
 
-## 在Salesforce中添加新的远程站点 {#add-new-remote-site-in-salesforce}
+## 在[!DNL Salesforce]中添加新的远程站点 {#add-new-remote-site-in-salesforce}
 
-1. 在Salesforce中，单击&#x200B;**设置**。
+1. 在[!DNL Salesforce]中，单击&#x200B;**[!UICONTROL Setup]**。
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. 搜索“远程站点”并选择&#x200B;**远程站点设置**。
+1. 搜索“[!UICONTROL remote site]”并选择&#x200B;**[!UICONTROL Remote Site Settings]**。
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. 单击&#x200B;**新建远程站点**。
+1. 单击 **[!UICONTROL New Remote Site]**。
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. 输入远程站点名称（可以类似于“MarketoSalesInsight1”）。 输入远程站点URL `https://ims-na1.adobelogin.com`并单击&#x200B;**保存**。
+1. 输入远程站点名称（可以类似于“MarketoSalesInsight1”）。 输入远程站点URL `https://ims-na1.adobelogin.com`并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
-1. 再次单击&#x200B;**新建远程站点**。
+1. 再次单击&#x200B;**[!UICONTROL New Remote Site]**。
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. 输入远程站点名称（可以类似于“MarketoSalesInsight2”）。 输入远程站点URL `https://mkto-sales-connect.adobe.io`并单击&#x200B;**保存**。
+1. 输入远程站点名称（可以类似于“MarketoSalesInsight2”）。 输入远程站点URL `https://mkto-sales-connect.adobe.io`并单击&#x200B;**[!UICONTROL Save]**。
 
-## 在整个CRM中启用Sales Insight操作 {#enabling-sales-insight-actions-across-the-crm}
+## 在CRM中启用[!DNL Sales Insight Actions] {#enabling-sales-insight-actions-across-the-crm}
 
-1. 在Salesforce中，单击&#x200B;**Marketo Sales Insight Config**&#x200B;选项卡。
+1. 在[!DNL Salesforce]中，单击&#x200B;**[!UICONTROL Marketo Sales Insight Config]**&#x200B;选项卡。
 
    ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
-   >如果您在顶部栏中未看到“Marketo销售分析配置”，请单击&#x200B;**+**&#x200B;符号并在“所有选项卡”下找到它。
+   >如果您在顶部栏中未看到“[!UICONTROL Marketo Sales Insight Config]”，请单击&#x200B;**+**&#x200B;符号并在“所有选项卡”下找到它。
 
-1. 选中&#x200B;**启用MSI操作**&#x200B;复选框。
+1. 选中&#x200B;**[!UICONTROL Enable MSI Actions]**&#x200B;复选框。
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
-1. 输入API密钥。
+1. 输入[!UICONTROL API Secret Key]。
 
    ![](assets/msi-actions-configuration-in-salesforce-7.png)
 
    >[!NOTE]
    >
-   >如果您没有可用的API密钥，可以按照[本文](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)中的步骤找到它。
+   >如果您没有可用的[!UICONTROL API Secrey Key]，可以按照[本文](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)中的步骤找到它。
 
-1. 完成后单击&#x200B;**保存**。
+1. 完成后单击&#x200B;**[!UICONTROL Save]**。
 
 这将自动启用功能概述文章中概述的所有MSI操作功能。
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
-1. 通过取消选中“操作”设置下的相应功能，可以禁用MSI操作。
+1. 您可以通过取消选中[!UICONTROL Actions settings]下的相应功能来禁用MSI操作。
 
    ![](assets/msi-actions-configuration-in-salesforce-9.png)
 

@@ -4,9 +4,9 @@ description: 在动态字段中自我引用 — Marketo文档 — 产品文档
 title: 在动态字段中引用您自己
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 我们允许您使用预定义属性（如`{{my_name}}`或`{{my_title}}`）个性化电子邮件模板。 这些字段允许您在电子邮件模板中快速引用自己。
 
-要将自引用动态字段添加到模板，只需从模板编辑器的&#x200B;**MSE动态字段**&#x200B;按钮中选择要使用的动态字段。
+要将自引用动态字段添加到模板，只需从模板编辑器的&#x200B;**[!UICONTROL MSE Dynamic Fields]**&#x200B;按钮中选择要使用的字段。

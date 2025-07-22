@@ -4,10 +4,10 @@ description: 创建机会影响分析器 — Marketo文档 — 产品文档
 title: 创建Opportunity影响分析器
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 1%
 
 ---
 
@@ -19,38 +19,38 @@ ht-degree: 0%
 >
 >要通过Opportunity Influence Analyzer获得优秀的英特尔，请确保您的联系人已与CRM中的机会相关联。
 
-1. 单击&#x200B;**分析**。
+1. 单击 **[!UICONTROL Analytics]**。
 
    ![](assets/analytics.png)
 
-1. 单击&#x200B;**机会影响分析器**。
+1. 单击 **[!UICONTROL Opportunity Influence Analyzer]**。
 
    ![](assets/two.png)
 
-1. 从&#x200B;**设置**&#x200B;面板中选择帐户。
+1. 从&#x200B;**[!UICONTROL Settings]**&#x200B;面板中选择帐户。
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
    >[!NOTE]
    >
-   >如果收到在该时间范围内没有活动的警告，只需单击&#x200B;**关闭**。 我们会在下一步再讨论这个问题。
+   >如果收到在该时间范围内没有活动的警告，只需单击&#x200B;**[!UICONTROL Close]**。 我们会在下一步再讨论这个问题。
 
 1. 选择该帐户中的商机。
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. 设置时间段。 单击&#x200B;**设置**&#x200B;选项卡并双击&#x200B;**时间范围**。
+1. 设置时间段。 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡并双击&#x200B;**[!UICONTROL Time Frame]**。
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. 选择要分析的机会的时间段，然后单击&#x200B;**保存**。
+1. 选择要分析的机会的时间段，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
    >[!TIP]
    >
    >
-   >在大多数情况下，**所有时间**&#x200B;是最简单的选择。
+   >在大多数情况下，**[!UICONTROL All Time]**&#x200B;是最简单的选择。
 
 1. 你在那儿！ 单击主选项卡，以查看此机会中涉及的有趣时刻和成功案例。
 

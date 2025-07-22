@@ -4,9 +4,9 @@ description: 将自定义HTML添加到自由表单登陆页面 — Marketo文档
 title: 将自定义HTML添加到自由表单登陆页面
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >未设置Marketo Engage支持以帮助对自定义HTML进行故障诊断。 如需HTML帮助，请咨询Web开发人员。
 
-1. 选择您的登陆页面，然后单击&#x200B;**编辑草稿**。
+1. 选择您的登陆页面并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. 输入您的自定义HTML代码，然后单击&#x200B;**保存**。
+1. 输入您的自定义HTML代码并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 

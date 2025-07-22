@@ -4,9 +4,9 @@ description: 项目群成员自定义字段 — Marketo文档 — 产品文档
 title: 项目群成员自定义字段
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '403'
 ht-degree: 1%
 
 ---
@@ -17,33 +17,33 @@ ht-degree: 1%
 
 ## 创建项目群成员自定义字段 {#create-a-program-member-custom-field}
 
-1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**。
+1. 在Marketo中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/one.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建自定义字段]**。
+1. 单击 **[!UICONTROL New Custom Field]**。
 
    ![](assets/three.png)
 
-1. 单击对象下拉列表并选择所需的对象。
+1. 单击&#x200B;**[!UICONTROL Object]**&#x200B;下拉列表并选择所需的对象。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >人员和项目群成员自定义字段不能共享相同的名称。
+   >[!UICONTROL Person]和[!UICONTROL Program Member]自定义字段不能共享相同的名称。
 
-1. 填写其余字段，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 填写其余字段，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >程序成员自定义字段支持的类型包括：布尔值、日期、日期时间、浮点数、整数、字符串、URL。 [了解有关字段类型的更多信息](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}。
+   >[!UICONTROL Program Member]自定义字段支持的类型为：布尔值、日期、日期时间、浮点数、整数、字符串、URL。 [了解有关字段类型的更多信息](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}。
 
 ## 对象说明 {#object-descriptions}
 

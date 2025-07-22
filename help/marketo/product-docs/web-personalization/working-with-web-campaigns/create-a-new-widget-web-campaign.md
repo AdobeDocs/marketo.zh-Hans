@@ -4,28 +4,28 @@ description: 创建新的构件Web营销活动 — Marketo文档 — 产品文�
 title: 创建新的构件Web营销活动
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
 
 # 创建新的构件Web营销活动 {#create-a-new-widget-web-campaign}
 
-Web营销活动是与特定区段关联的自定义反应，可以是您网站上的[对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、区域替换[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、小组件功能或电子邮件警报。 Widget Web营销活动是出现在网页垂直侧的文本或横幅，能够展开和收缩，同时在整个访问期间都固定在网站页面上。
+Web营销活动是与特定区段关联的自定义反应，可以是您网站上的[对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、区域替换[中的](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、小组件功能或电子邮件警报。 Widget Web营销活动是出现在网页垂直侧的文本或横幅，能够展开和收缩，同时在整个访问期间都固定在网站页面上。
 
 ## 创建构件Web营销活动 {#create-a-widget-web-campaign}
 
-1. 转到&#x200B;**网络营销活动**。
+1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. 选择&#x200B;**新建Web营销活动**。
+1. 选择 **[!UICONTROL Create New Web Campaign]**。
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. 选择&#x200B;**小组件**&#x200B;营销活动类型。
+1. 选择&#x200B;**[!UICONTROL Widget]**&#x200B;营销活动类型。
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
 
    ![](assets/4.png)
 
-1. 单击&#x200B;**预览**&#x200B;查看Web营销活动在您的网站上将如何反应。
+1. 单击&#x200B;**[!UICONTROL Preview]**&#x200B;查看Web营销活动在您的网站上将如何反应。
 
    ![](assets/preview.png)
 
@@ -63,7 +63,7 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>构件颜色</strong></td> 
-   <td colspan="1" rowspan="1"><p>从颜色图中选择构件颜色，或将其输入为RGB代码。 也可以通过沿任一方向移动底部栏来选择构件背景的透明度级别。</p></td> 
+   <td colspan="1" rowspan="1"><p>从颜色图中选择构件颜色，或将其输入为RGB颜色代码。 也可以通过沿任一方向移动底部栏来选择构件背景的透明度级别。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>小组件按钮</strong><br></p></td> 
@@ -95,11 +95,11 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
 
 >[!NOTE]
 >
->**是否希望对您的Web营销活动进行A/B测试？**&#x200B;一个或多个网站营销活动可以[A/B测试以获得最佳结果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)。 借助自动调整功能，平台会自动识别表现较好的营销活动，继续提供转化率最高的营销活动，并暂停其他营销活动。
+>**是否希望对您的Web营销活动进行A/B测试？**&#x200B;一个或多个网站营销活动可以[A/B测试以获得最佳结果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)。 通过使用[!UICONTROL Auto Tune]功能，平台会自动识别表现较好的营销活动，继续使用转化率最高的营销活动，并暂停其他营销活动。
 
 ## 编辑Web活动 {#edit-a-web-campaign}
 
-在Web营销活动页面中，单击营销活动上的&#x200B;**编辑**。
+从[!UICONTROL Web Campaigns]页面，单击Campaign上的&#x200B;**[!UICONTROL Edit]**。
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -113,13 +113,13 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
 
 ## 预览Web活动 {#preview-a-web-campaign}
 
-在Web营销活动页面中，单击要预览的Web营销活动上的&#x200B;**预览**
+从[!UICONTROL Web Campaigns]页面，单击要预览的Web营销活动上的&#x200B;**[!UICONTROL Preview]**
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## 删除Web活动 {#delete-a-web-campaign}
 
-1. 在Web营销活动页面中，单击要删除的Web营销活动上的&#x200B;**删除**。
+1. 在[!UICONTROL Web Campaigns]页面中，单击要删除的Web营销活动上的&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/widget-campaign-delete-hand.png)
 

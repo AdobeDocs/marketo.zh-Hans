@@ -3,20 +3,20 @@ description: Dynamic Chat概述 — Marketo文档 — 产品文档
 title: Dynamic Chat概述
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 2%
+source-wordcount: '587'
+ht-degree: 4%
 
 ---
 
-# Dynamic Chat概述 {#dynamic-chat-overview}
+# [!DNL Dynamic Chat] 概述 {#dynamic-chat-overview}
 
-Dynamic Chat功能允许您利用简单易用的界面来定位访问您网站的用户和帐户。 收集相关内容，如姓名、联系信息和自由文本。 网站访客还可以与现场代理聊天，甚至与您的销售团队预约会议。 Dynamic Chat活动和参与数据可用于将成员添加到Marketo项目并触发跨渠道活动。
+Dynamic Chat允许您利用简单易用的界面来定位访问您网站的人和帐户。 收集相关内容，如姓名、联系信息和自由文本。 网站访客还可以与现场代理聊天，甚至与您的销售团队预约会议。 Dynamic Chat活动和参与数据可用于将成员添加到Marketo项目并触发跨渠道活动。
 
 >[!TIP]
 >
->请访问[此页面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=zh-Hans){target="_blank"}查看Dynamic Chat的教程视频。
+>请访问[此页面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}以查看Dynamic Chat的教程视频。
 
 ## 集成 {#integrations}
 
@@ -58,17 +58,17 @@ Dynamic Chat的一个关键组件是，它能够以本机方式与您的Marketo�
 
 ## 生成式 AI {#generative-ai}
 
-Adobe Dynamic Chat中的[生成人工智能](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"}实时处理意图信号、用户偏好和过去的行为，以便为聊天访客生成相关的个性化消息。
+Adobe Dynamic Chat中的[生成AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"}实时处理意图信号、用户偏好和过去的行为，以便为聊天访客生成相关的个性化消息。
 
 ## 更改语言 {#changing-the-language}
 
-请按照以下步骤更改Dynamic Chat语言。
+请按照以下步骤更改您的Dynamic Chat语言。
 
 >[!IMPORTANT]
 >
->更改配置文件级别的语言将更改&#x200B;_所有_ Experience Cloud应用程序的语言，而不仅仅是Dynamic Chat。
+>更改配置文件级别的语言将更改&#x200B;_所有_ Experience Cloud应用程序的语言，而不仅仅是[!DNL Dynamic Chat]语言。
 
-1. 在您的Experience Cloud帐户中，单击设置图标并选择&#x200B;**首选项**。
+1. 在您的Experience Cloud帐户中，单击设置图标并选择&#x200B;**[!UICONTROL Preferences]**。
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -76,45 +76,45 @@ Adobe Dynamic Chat中的[生成人工智能](/help/marketo/product-docs/demand-g
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. 选择您的新语言（第二种语言是可选的），然后单击&#x200B;**保存**。
+1. 选择您的新语言（第二种语言是可选的），然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >有几十种语言可供选择，但是Dynamic Chat语仅支持以下语言：英语、法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、朝鲜语、简体中文和繁体中文。
+   >有几十种语言可供选择，但是，[!DNL Dynamic Chat]仅支持以下语言：英语、法语、德语、日语、西班牙语、意大利语、巴西葡萄牙语、朝鲜语、简体中文和繁体中文。
 
 当您更新语言时，除了您亲自填充的单词（例如，流响应）之外，应用程序本身中的所有内容都会更改。
 
 ## Dynamic Chat数据保留限制 {#dynamic-chat-data-retention-limits}
 
-以下只是Dynamic Chat中的一些限制/参数。 有关完整列表，请参阅Marketo Engage[产品描述页](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
+以下只是Dynamic Chat中的一些限制/参数。 有关完整列表，请参阅Marketo Engage [产品描述页](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
 
 <table>
   <th>数据类型</th>
   <th>保留期</th>
  <tr>
   <td>无任何参与的匿名潜在客户</td>
-  <td>90天</td>
+  <td>90 天</td>
  </tr>
  <tr>
   <td>目标活动</td>
-  <td>24个月</td>
+  <td>24 个月</td>
  </tr>
  <tr>
   <td>文档活动</td>
-  <td>24个月</td>
+  <td>24 个月</td>
  </tr>
  <tr>
   <td>与对话活动交互</td>
-  <td>90天</td>
+  <td>90 天</td>
  </tr>
  <tr>
   <td>会议预订活动</td>
-  <td>24个月</td>
+  <td>24 个月</td>
  </tr>
 </table>
 
-## 常见问题 {#faq}
+## 常见问题解答 {#faq}
 
-请查看[Dynamic Chat常见问题解答](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}。
+请参阅[Dynamic Chat常见问题解答](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}。

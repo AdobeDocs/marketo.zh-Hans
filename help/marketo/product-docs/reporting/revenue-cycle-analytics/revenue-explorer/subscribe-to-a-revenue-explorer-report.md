@@ -4,18 +4,18 @@ description: 订阅收入资源管理器报表 — Marketo文档 — 产品文�
 title: 订阅收入浏览器报表
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 1%
 
 ---
 
-# 订阅收入浏览器报表 {#subscribe-to-a-revenue-explorer-report}
+# 订阅[!UICONTROL Revenue Explorer]报告 {#subscribe-to-a-revenue-explorer-report}
 
 要从收入周期资源管理器报表接收更新并共享这些更新，您可以订阅现有报表的任意电子邮件地址。
 
-1. 转到&#x200B;**Analytics**&#x200B;并选择&#x200B;**新建** > **新报表订阅**。
+1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;并选择&#x200B;**[!UICONTROL New]** > **[!UICONTROL New Report Subscription]**。
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >要订阅您在项目中创建的基本报表，请参阅[订阅基本报表。](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. 对于&#x200B;**报表Source**，请选择&#x200B;**收入资源管理器**。
+1. 对于 **[!UICONTROL Report Source]**，选择 **[!UICONTROL Revenue Explorer]**。
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 

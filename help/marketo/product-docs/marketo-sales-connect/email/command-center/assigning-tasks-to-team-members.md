@@ -4,10 +4,10 @@ description: 将任务分配给团队成员 — Marketo文档 — 产品文档
 title: 将任务分配给团队成员
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 2%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >您只能为共享联系人分配任务。
 
-1. 单击&#x200B;**命令中心**。
+1. 单击&#x200B;**[!UICONTROL Command Center]**。
 
    ![](assets/one-1.png)
 
-1. 单击&#x200B;**添加任务**。
+1. 单击 **[!UICONTROL Add Task]**。
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 在“分配任务”字段中选择要为其分配任务的团队成员。
+1. 在&#x200B;**[!UICONTROL Assign Task]**&#x200B;字段中选择您团队中要向其分配任务的人员。
 
    ![](assets/five.png)
 
@@ -43,14 +43,14 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 选择到期日期。
+1. 选择 **[!UICONTROL Due Date]**。
 
    ![](assets/seven.png)
 
-1. 设置优先级。
+1. 设置&#x200B;**[!UICONTROL Priority]**。
 
    ![](assets/eight.png)
 
-1. 添加与您的队友相关的任何重要详细信息（可选），然后单击&#x200B;**创建**。
+1. 添加与您的队友相关的任何重要详细信息（可选），然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/nine.png)

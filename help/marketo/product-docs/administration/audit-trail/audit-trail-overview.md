@@ -1,10 +1,10 @@
 ---
 unique-page-id: 11377945
-description: 审核记录概述 — Marketo文档 — 产品文档
+description: 审核记录]概述 — Marketo文档 — 产品文档
 title: 审核记录概述
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Marketo将审核以下对象的[创建、编辑和删除](/help/marketo/product-
 
 >[!NOTE]
 >
->目前，Marketo正在&#x200B;_而不是_&#x200B;审核在Web Personalization、Predictive Content或Sales Insight中所做的更改。
+>Marketo目前正在&#x200B;_不是_&#x200B;审核在Web Personalization、Predictive Content或Sales Insight中所做的更改。
 
 ## 审核记录组件 {#audit-trail-components}
 

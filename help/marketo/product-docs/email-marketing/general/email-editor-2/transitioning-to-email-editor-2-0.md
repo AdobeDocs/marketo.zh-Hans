@@ -6,16 +6,16 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
 
-# 过渡到电子邮件编辑器2.0 {#transitioning-to-email-editor}
+# 正在转换到[!DNL Email Editor 2.0] {#transitioning-to-email-editor}
 
-自2019年6月发行版本起，所有Marketo订阅都已过渡到Email Editor 2.0。[了解有关Email Editor 1.0弃用的更多信息](https://nation.marketo.com/docs/DOC-7038)。
+自2019年6月发行版本起，所有Marketo订阅都已过渡到[!DNL Email Editor 2.0]。 [了解有关](https://nation.marketo.com/docs/DOC-7038)弃用的更多信息[!DNL Email Editor 1.0]。
 
 您的订阅中的电子邮件和电子邮件模板应具有版本号。 可以在资产的摘要页面中找到该版本。
 
@@ -24,15 +24,15 @@ ht-degree: 0%
 默认情况下，如果您的所有现有电子邮件和电子邮件模板是在16年春季版之前创建，或者是在该版之后创建，但禁用了Email Editor 2.0，则它们都将标记为v1.0。 现在自动启用电子邮件编辑器2.0后，您将看到以下行为：
 
 * 创建新电子邮件时，将显示[电子邮件模板选取器](email-template-picker-overview.md)，您将能够选择v2.0电子邮件模板。
-* 每当您使用电子邮件编辑器2.0创建或编辑电子邮件时，生成的电子邮件将&#x200B;**始终**&#x200B;标记为v2.0（即使您使用的是v1.0电子邮件模板）。
+* 每当您创建或编辑带有[!DNL Email Editor 2.0]的电子邮件时，生成的电子邮件将&#x200B;**始终**&#x200B;标记为v2.0（即使您使用了v1.0电子邮件模板）。
 
-如果您的订阅在迁移到Email Editor 2.0之前具有v1.0电子邮件，则您将根据资产的当前状态遇到以下行为：
+如果您的订阅在迁移到[!DNL Email Editor 2.0]之前具有v1.0电子邮件，则您将会根据资产的当前状态遇到以下行为：
 
 **已批准** — 单击“编辑草稿”将创建已批准电子邮件的v2.0草稿。 如果您随后批准了v2.0草稿，则电子邮件的批准状态将变为v2.0，并且无法恢复到v1.0。\
 **草稿** — 单击“编辑草稿”会自动将该草稿标记为v2.0。此时，将无法放弃并还原到v1.0，因为没有资产的批准版本。
 **已通过草稿批准** — 单击“编辑草稿”会自动将该草稿标记为v2.0。因此，也无法将草稿恢复到v1.0。
 
-如果您的订阅在迁移到Email Editor 2.0之前具有v1.0电子邮件模板，则您将会遇到以下行为：
+如果您的订阅在迁移到[!DNL Email Editor 2.0]之前具有v1.0电子邮件模板，则您将会遇到以下行为：
 
 **已批准** — 单击“编辑草稿”将创建现有电子邮件模板的v2.0草稿。
 **草稿** — 单击“编辑草稿”会自动将该草稿标记为v2.0。此时，无法放弃并还原到v1.0，因为没有资产的批准版本。
@@ -60,9 +60,9 @@ ht-degree: 0%
 
 * 批准的电子邮件模板&#x200B;**从不**&#x200B;更改。
 
-* 在少数&#x200B;**罕见的**&#x200B;情况下，无法在电子邮件编辑器2.0中打开v1.0电子邮件。如果发生这种情况，请放弃草稿并联系Marketo支持部门。
+* 在少数&#x200B;**罕见的**&#x200B;情况下，无法在[!DNL Email Editor 2.0]中打开v1.0电子邮件。 如果发生这种情况，请放弃草稿并联系Marketo支持部门。
 
 >[!MORELIKETHIS]
 >
->* [电子邮件编辑器2.0概述](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [[!DNL Email Editor 2.0] 概述](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 >* [电子邮件模板语法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

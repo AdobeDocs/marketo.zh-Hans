@@ -4,9 +4,9 @@ description: 克隆Marketo示例收入模型 — Marketo文档 — 产品文档
 title: 克隆Marketo示例收入模型
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo提供了一些示例收入建模器，可帮助您获得启发。 克隆这些建模器，并将其作为您自己的建模器。 方法如下：
 
-1. 转到&#x200B;**Analytics**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;区域。
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. 选择&#x200B;**收入周期Modeler**&#x200B;文件夹，然后单击&#x200B;**Marketo示例**。
+1. 选择&#x200B;**[!UICONTROL Revenue Cycle Modeler]**&#x200B;文件夹，然后单击&#x200B;**[!UICONTROL Marketo Examples]**。
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,11 +27,11 @@ Marketo提供了一些示例收入建模器，可帮助您获得启发。 克隆
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. 在模型操作中，选择&#x200B;**克隆模型**。
+1. 从[!UICONTROL Model Actions]中选择&#x200B;**[!UICONTROL Clone Model]**。
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. 输入&#x200B;**名称**&#x200B;并单击&#x200B;**克隆**。
+1. 输入&#x200B;**[!UICONTROL Name]**&#x200B;并单击&#x200B;**[!UICONTROL Clone]**。
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 

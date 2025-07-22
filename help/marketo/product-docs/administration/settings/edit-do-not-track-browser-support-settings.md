@@ -4,10 +4,10 @@ description: 编辑“Do Not Track”浏览器支持设置 — Marketo文档 —
 title: 编辑“Do Not Track”浏览器支持设置
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 0%
+source-wordcount: '120'
+ht-degree: 1%
 
 ---
 
@@ -21,21 +21,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->默认情况下，“Do Not Track”将设置为“Ignore”，因此如果您希望这样做，则无需执行任何步骤。
+>默认情况下，“Do Not Track”将设置为&#x200B;**[!UICONTROL Ignore]**，因此，如果您希望这样做，则无需执行任何步骤。
 
-1. 单击&#x200B;**[!UICONTROL 管理员]**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Munchkin]**。
+1. 单击 **[!UICONTROL Munchkin]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. 在&#x200B;**[!UICONTROL 人员跟踪]**&#x200B;下，单击&#x200B;**[!UICONTROL 编辑]**。
+1. 在&#x200B;**[!UICONTROL Person Tracking]**&#x200B;下，单击&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. 选择&#x200B;**[!UICONTROL 支持]**&#x200B;并单击&#x200B;**[!UICONTROL 保存]**。
+1. 选择&#x200B;**[!UICONTROL Support]**&#x200B;并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 

@@ -4,9 +4,9 @@ description: 计划电子邮件 — Marketo文档 — 产品文档
 title: 计划电子邮件
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >要更新默认时区，请转到“设置”页面。
 
-1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**撰写**）。
+1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**[!UICONTROL Compose]**）。
 
    ![](assets/one-1.png)
 
-1. 撰写完电子邮件后，单击右下角的&#x200B;**计划**
+1. 撰写完电子邮件后，单击右下角的&#x200B;**[!UICONTROL Schedule]**
 
    ![](assets/two-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 输入您希望电子邮件发出的时间。 选择所需的时区，然后单击&#x200B;**保存**。 完成后关闭调度程序。
+1. 输入您希望电子邮件发出的时间。 选择所需的时区并单击&#x200B;**[!UICONTROL Save]**。 完成后关闭调度程序。
 
    ![](assets/four-1.png)
 
-1. 现在您计划的日期/时间已选定，请单击&#x200B;**发送**&#x200B;以计划电子邮件。
+1. 现在您计划的日期/时间已选定，请单击&#x200B;**[!UICONTROL Send]**&#x200B;以计划电子邮件。
 
    ![](assets/five-1.png)
 

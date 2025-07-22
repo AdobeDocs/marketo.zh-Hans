@@ -4,10 +4,10 @@ description: 将工具提示说明添加到表单字段 — Marketo文档 — �
 title: 向表单字段添加工具提示说明
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ ht-degree: 0%
 >
 >表单&#x200B;**说明**&#x200B;是当访客将鼠标悬停在该字段上时弹出的小工具提示。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-6.png)
 
-1. 选择您的&#x200B;**表单**&#x200B;并单击&#x200B;**编辑表单**。
+1. 选择您的&#x200B;**表单**&#x200B;并单击&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. 选择您的字段并输入&#x200B;**说明**。
+1. 选择您的字段并输入&#x200B;**[!UICONTROL Instructions]**。
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. 单击&#x200B;**完成**。
+1. 单击 **[!UICONTROL Finish]**。
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. 单击&#x200B;**批准并关闭**。
+1. 单击 **[!UICONTROL Approve and Close]**。
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 

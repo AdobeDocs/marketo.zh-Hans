@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
 # 人员详细信息视图 {#person-detail-view}
 
-“人员详细信息”视图提供您的Marketo Sales帐户中每个人的详细配置文件。
+人员详细信息视图提供您[!DNL Marketo Sales]帐户中每个人的详细个人资料。
 
 ## 如何访问 {#how-to-access}
 
-1. 要访问人员详细信息视图，请单击&#x200B;**人员**&#x200B;选项卡。
+1. 要访问人员详细信息视图，请单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡。
 
    ![](assets/person-detail-view-1.png)
 
@@ -46,8 +46,8 @@ ht-degree: 0%
 
 **帐户信息**
 
-* 可以将人员添加到Salesforce
-* 从Salesforce提取帐户和潜在客户/联系信息
+* 可以将人员添加到[!DNL Salesforce]
+* 从[!DNL Salesforce]提取帐户和潜在客户/联系人信息
 
 **自定义字段**
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 * 文本
 
-**备注**
+**注释**
 
 * 创建自定义注释
 

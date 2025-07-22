@@ -4,9 +4,9 @@ description: 在撰写窗口中使用模板 — Marketo文档 — 产品文档
 title: 在撰写窗口中使用模板
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## 查找和使用模板 {#finding-and-using-templates}
 
-1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**撰写**）。
+1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**[!UICONTROL Compose]**）。
 
    ![](assets/one-6.png)
 
-1. 填充“收件人”字段。
+1. 填充[!UICONTROL To]字段。
 
    ![](assets/searching-two.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
 
 收藏最多&#x200B;**个**&#x200B;特定模板类别，以便快速访问您最常用的模板。
 
-1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**撰写**）。
+1. 创建电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**[!UICONTROL Compose]**）。
 
    ![](assets/one-6.png)
 
-1. 单击收藏夹旁边的&#x200B;**+**&#x200B;图标。
+1. 单击&#x200B;**旁边的**+[!UICONTROL Favorites]图标。
 
    ![](assets/pinning-two.png)
 
-1. 单击&#x200B;**固定类别**&#x200B;下拉列表并选择所需的类别。
+1. 单击&#x200B;**[!UICONTROL Pin a Category]**&#x200B;下拉列表并选择所需的类别。
 
    ![](assets/pinning-three.png)
 
-1. 完成后单击&#x200B;**保存更改**（可选：重复步骤3以添加更多更改）。
+1. 完成后单击&#x200B;**[!UICONTROL Save Changes]**（可选：重复步骤3以添加更多内容）。
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >默认情况下，**收藏夹**&#x200B;存在。 它包含最喜爱的电子邮件模板，而不是类别。
+   >默认情况下，**[!UICONTROL Favorites]**&#x200B;存在。 它包含最喜爱的电子邮件模板，而不是类别。
 
    您选择的类别现已固定。

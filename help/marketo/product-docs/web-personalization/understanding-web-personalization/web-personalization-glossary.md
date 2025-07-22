@@ -4,18 +4,18 @@ description: Web Personalization术语表 — Marketo文档 — 产品文档
 title: Web Personalization术语表
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
-# Web Personalization术语表 {#web-personalization-glossary}
+# [!DNL Web Personalization]术语表 {#web-personalization-glossary}
 
-对Marketo Web Personalization的世界和语言的一些洞察。
+对[!DNL Marketo Web Personalization]的世界和语言的一些洞察。
 
-| 术语 | 定义 |
+| 搜索词 | 定义 |
 |---|---|
 | **匿名访客** | 从未填写表单或在网站上保留其详细信息的Web访客。 |
 | **Web营销活动** | 与特定区段关联的自定义反应。 利用Web Personalization，Web营销活动包括对话、位于区域和小组件中。 |
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 通配符示例 {#wildcard-examples}
 
-下面是在Web Personalization中使用通配符的三种方法。
+以下是在[!DNL Web Personalization]中使用通配符的三种方式。
 
 匹配页面URL上以定价结尾的所有访客(例如，`www.marketo.com/pricing`
 

@@ -4,26 +4,26 @@ description: 在我的令牌中使用URL - Marketo文档 — 产品文档
 title: 在我的令牌中使用URL
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # 在我的令牌中使用URL {#using-urls-in-my-tokens}
 
-请按照以下步骤使用“我的令牌”将URL插入到您的电子邮件中。
+按照以下步骤使用[!UICONTROL My Tokens]将URL插入到您的电子邮件中。
 
-1. 选择您的项目并单击&#x200B;**我的令牌**。
+1. 选择您的项目并单击&#x200B;**[!UICONTROL My Tokens]**。
 
    ![](assets/one-4.png)
 
-1. 选择&#x200B;**文本**&#x200B;我的令牌，并将其拖放到画布上。
+1. 选择&#x200B;**[!UICONTROL Text]**&#x200B;我的令牌，并将其拖放到画布上。
 
    ![](assets/two-4.png)
 
-1. 为令牌指定唯一的名称，输入URL(不带https://)并单击&#x200B;**保存**。
+1. 为令牌提供一个唯一的名称，输入URL(不带https://)并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. 单击&#x200B;**编辑草稿**。
+1. 单击 **[!UICONTROL Edit Draft]**。
 
    ![](assets/five-3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
    >
    >如果您的网站不使用https，您当然也可以选择输入`http://`。
 
-1. 找到您的“我的令牌”，选择它，然后单击&#x200B;**插入**。
+1. 找到您的“我的令牌”，选择它，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/eight.png)
 
@@ -63,15 +63,15 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 突出显示您希望链接显示的文本，然后单击插入/编辑链接图标。
+1. 突出显示您希望链接显示的文本，然后单击[!UICONTROL Insert/Edit Link]图标。
 
    ![](assets/ten.png)
 
-1. 按Ctrl/Cmd+V将内容粘贴到&#x200B;**URL**&#x200B;框中，然后单击&#x200B;**插入**。
+1. 按Ctrl/Cmd+V将内容粘贴到&#x200B;**[!UICONTROL URL]**&#x200B;框中，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/eleven.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/twelve.png)
 

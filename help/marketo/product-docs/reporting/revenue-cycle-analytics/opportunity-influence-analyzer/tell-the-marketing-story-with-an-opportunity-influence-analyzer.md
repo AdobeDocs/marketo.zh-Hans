@@ -4,26 +4,26 @@ description: 使用Opportunity Influence Analyzer讲述营销故事 — Marketo�
 title: 用Opportunity Influence Analyzer讲述营销故事
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
-# 用Opportunity Influence Analyzer讲述营销故事 {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# 使用[!UICONTROL Opportunity Influence Analyzer]讲述营销故事 {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-使用Opportunity Influence Analyzer说明营销在重要机会中的作用。 显示营销如何影响商机，从首次接触到商机创造和成功等等。
+使用[!UICONTROL Opportunity Influence Analyzer]说明营销在重要机会中的角色。 显示营销如何影响商机，从首次接触到商机创造和成功等等。
 
 >[!PREREQUISITES]
 >
->[创建机会影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[创建一个[!UICONTROL Opportunity Influence Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. 转到&#x200B;**Analytics**&#x200B;并选择&#x200B;**机会影响分析器**。
+1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;并选择&#x200B;**[!UICONTROL Opportunity Influence Analyzer]**。
 
    ![](assets/analytics-opportunityhand.png)
 
-   Opportunity Influence Analyzer直观地呈现了该机会中涉及的交互、项目和事件成功情况。 让我们浏览一下图表：
+   [!UICONTROL Opportunity Influence Analyzer]是此机会中涉及的交互以及项目和事件成功的可视表示形式。 让我们浏览一下图表：
 
    * ![—](assets/image2014-10-3-13-3a43-3a21.png) **橙色圆点**&#x200B;表示机会中的有趣时刻（已打开的电子邮件、展位访问、白皮书下载等）。 点越大，交互作用越强。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    * **机会生命周期**。 绿色商机期前后的灰色区域显示了导致和跟踪商机的交互。
 
-   **设置**&#x200B;面板列出了帐户中的人员：
+   **[!UICONTROL Settings]**&#x200B;面板列出了该帐户的人员：
 
    * 括号中的&#x200B;**number**&#x200B;是与该联系人的交互次数。
 
@@ -61,4 +61,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[配置机会影响分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[配置[!UICONTROL Opportunity Influence Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

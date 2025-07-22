@@ -4,9 +4,9 @@ description: 预测内容摘要 — Marketo文档 — 产品文档
 title: 预测内容摘要
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ ht-degree: 0%
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## 预测参与度 {#predictive-engagement}
+## [!UICONTROL Predictive Engagement] {#predictive-engagement}
 
 通过比较总点击量和直接商机以及比较不同来源的表现，了解您的转化率。
 
 ![](assets/predictive-engagement-actual.png)
 
-## 按查看次数显示的内容趋势  {#content-trend-by-views}
+## [!UICONTROL Content Trend by Views]  {#content-trend-by-views}
 
 比较所有内容的视图如何与预测内容相匹配。
 
 ![](assets/4.png)
 
-## 按参与度排名最前的类别 {#top-categories-by-engagement}
+## [!UICONTROL Top Categories by Engagement] {#top-categories-by-engagement}
 
 哪些类别的内容最吸引人？ 请参阅此图表中的内容。
 
@@ -47,4 +47,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您单击类别链接（上图中的示例：leadgen、email等） 该操作将打开“所有内容”页面，其中已单击的类别已添加到过滤器，并显示该类别中的内容分析。
+>如果单击某个类别链接（上图中的示例：leadgen、email等），则会打开“所有内容”页面，其中您单击的类别已添加到过滤器中，并显示该类别中的内容分析。

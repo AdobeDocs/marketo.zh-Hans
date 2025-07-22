@@ -4,9 +4,9 @@ description: 创建层级 — Marketo文档 — 产品文档
 title: 创建层次结构
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 层级旨在在CRM中创建。 但是，如果您没有CRM，请按照以下步骤手动创建层次结构。
 
-1. 在指定帐户中，单击&#x200B;**按层次结构分组**&#x200B;复选框。
+1. 在[!UICONTROL Named Accounts]中，单击&#x200B;**[!UICONTROL Group by Hierarchy]**&#x200B;复选框。
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. 单击&#x200B;**命名帐户操作**&#x200B;下拉列表，然后选择&#x200B;**链接到命名帐户**。
+1. 单击&#x200B;**[!UICONTROL Named Account Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Link to Named Account]**。
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >如果要取消帐户链接，请按照上述步骤操作，然后选择&#x200B;**从指定帐户取消链接**。
+   >如果要取消帐户链接，请按照上述步骤操作，然后选择&#x200B;**[!UICONTROL Unlink From Named Account]**。
 
-1. 从下拉列表中选择一个父命名帐户，然后单击&#x200B;**链接**。
+1. 从下拉列表中选择一个父命名帐户，然后单击&#x200B;**[!UICONTROL Link]**。
 
    ![](assets/create-a-hierarchy-4.png)
 

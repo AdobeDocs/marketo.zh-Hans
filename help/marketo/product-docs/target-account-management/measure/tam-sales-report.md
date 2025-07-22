@@ -4,10 +4,10 @@ description: TAM销售报表 — Marketo文档 — 产品文档
 title: TAM销售报表
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -33,28 +33,28 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>帐户得分</strong></td> 
+   <td><strong><span class="uicontrol">帐户得分</span></strong></td> 
    <td> 
     <div>
       按帐户得分显示的每周趋势（在设置中选择），然后是当前帐户得分 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>销售管道</strong></td> 
+   <td><strong><span class="uicontrol">销售管道</span></strong></td> 
    <td> 
     <div>
       按管道显示的每周趋势，然后是当前管道总数和打开的机会数 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>页面查看次数</strong></td> 
+   <td><strong><span class="uicontrol">Page Views</span></strong></td> 
    <td> 
     <div>
       页面查看次数的每周趋势，随后是页面查看总次数和独特访客数 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>有趣的时刻</strong></td> 
+   <td><strong><span class="uicontrol">有趣的时刻</span></strong></td> 
    <td> 
     <div>
       一周内发生的有趣时刻总数 

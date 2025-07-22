@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900554
-description: 编辑电子邮件的HTML- Marketo文档 — 产品文档
+description: 编辑电子邮件的HTML - Marketo文档 — 产品文档
 title: 编辑电子邮件的HTML
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 编辑HTML {#edit-html}
 
-1. 选择您的电子邮件并单击&#x200B;**编辑草稿**。
+1. 选择您的电子邮件并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/teamspidey.jpg)
 
-1. 单击&#x200B;**编辑代码**。
+1. 单击 **[!UICONTROL Edit Code]**。
 
    ![](assets/two-4.png)
 
-1. 进行任何更改。 完成后单击&#x200B;**保存**。
+1. 进行任何更改。 完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >随心所欲地改变。 您可以替换整个HTML或进行细微调整。
 
-1. 单击&#x200B;**代码操作**&#x200B;下拉菜单以将代码下载为.html文件、内联CSS或验证HTML。
+1. 单击&#x200B;**[!UICONTROL Code Actions]**&#x200B;下拉菜单以将代码下载为.html文件、内联CSS或验证HTML。
 
    ![](assets/four-2.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 * 从容器中删除模块
 
 * 更改模块外任何元素的mkto特定属性（例如，“mktoName”或“mktoImgUrl”）
-* 编辑任何元素的内容（富文本、图像、视频等） 模块外部
+* 在模块外部编辑任何元素（富文本、图像、视频等）的内容
 
 在代码编辑器&#x200B;**中可以执行的这些操作将**&#x200B;中断来自其模板的电子邮件：
 
@@ -60,17 +60,17 @@ ht-degree: 0%
 
 ## 搜索代码 {#search-code}
 
-使用搜索代码功能高效地查找和替换电子邮件HTML代码中的内容。
+使用搜索代码功能高效地查找和替换电子邮件中HTML代码的内容。
 
-1. 在您的电子邮件代码中，单击&#x200B;**搜索代码**。
+1. 在电子邮件的代码中，单击&#x200B;**[!UICONTROL Search Code]**。
 
    ![](assets/five-2.png)
 
-1. 输入要查找的内容，然后单击&#x200B;**查找下一个**&#x200B;进行正向搜索，或单击&#x200B;**查找上一个**&#x200B;进行反向搜索。 您还可以选择&#x200B;**替换**&#x200B;和&#x200B;**全部替换**。
+1. 输入要查找的内容，然后单击&#x200B;**[!UICONTROL Find Next]**&#x200B;进行正向搜索，或单击&#x200B;**[!UICONTROL Find Previous]**&#x200B;进行反向搜索。 您还可以选择&#x200B;**[!UICONTROL Replace]**&#x200B;和&#x200B;**[!UICONTROL Replace All]**。
 
    ![](assets/six-1.png)
 
-1. 完成后单击&#x200B;**关闭**。
+1. 完成后单击&#x200B;**[!UICONTROL Close]**。
 
    ![](assets/seven.png)
 

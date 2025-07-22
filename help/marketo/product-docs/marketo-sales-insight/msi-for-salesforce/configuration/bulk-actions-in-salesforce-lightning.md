@@ -4,42 +4,42 @@ description: Salesforce Lightning中的批量操作 — Marketo文档 — 产品
 title: Salesforce Lightning中的批量操作
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 1%
+source-wordcount: '93'
+ht-degree: 2%
 
 ---
 
-# Salesforce Lightning中的批量操作 {#bulk-actions-in-salesforce-lightning}
+# [!DNL Salesforce Lightning]中的批量操作 {#bulk-actions-in-salesforce-lightning}
 
-以下是如何在Salesforce Lightning中设置批量操作。
+以下是如何在[!DNL Salesforce Lightning]中设置批量操作。
 
-1. 在Salesforce中，单击“设置”图标并选择&#x200B;**设置**。
+1. 在[!DNL Salesforce]中，单击“设置”图标并选择&#x200B;**[!UICONTROL Setup]**。
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. 单击&#x200B;**对象管理器**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Object Manager]**&#x200B;选项卡。
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. 查找并选择&#x200B;**潜在客户**&#x200B;标签。
+1. 查找并选择&#x200B;**[!UICONTROL Lead]**&#x200B;标签。
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. 单击&#x200B;**Salesforce Classic的搜索布局**。
+1. 单击 **[!UICONTROL Search Layouts for Salesforce Classic]**。
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
-   查找列表视图布局。 单击右侧的下拉菜单并选择&#x200B;**编辑**。
+   查找列表视图布局。 单击右侧的下拉菜单并选择&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. 在“自定义按钮”下，查找并选择&#x200B;**添加到Marketo Campaign （闪电）**&#x200B;和&#x200B;**发送Marketo电子邮件（闪电）**。 单击&#x200B;**添加**&#x200B;按钮。
+1. 在自定义按钮下，查找并选择&#x200B;**[!UICONTROL Add to Marketo Campaign (lightning)]**&#x200B;和&#x200B;**[!UICONTROL Send Marketo Email (lightning)]**。 单击&#x200B;**[!UICONTROL Add]**&#x200B;按钮。
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 

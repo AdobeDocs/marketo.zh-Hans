@@ -4,9 +4,9 @@ description: 显示已知人员的自定义HTML表单 — Marketo文档 — 产�
 title: 为已知人员显示自定义HTML表单
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 55964499f5d49258539492f952513833af5692b5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '234'
 ht-degree: 1%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 1%
 
 如果访客以前提供过其全名和电子邮件地址，并且您不希望他们获得整个表单，请了解如何向他们显示一些自定义HTML（例如，只需下载按钮）。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 在&#x200B;**营销活动**&#x200B;下，选择您的表单并单击&#x200B;**编辑表单**。
+1. 在&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;下，选择您的表单并单击&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. 在&#x200B;**表单设置**&#x200B;下，单击&#x200B;**设置**。
+1. 在&#x200B;**[!UICONTROL Form Settings]**&#x200B;下，单击&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. 将If **已知访客Show**：设置为&#x200B;**自定义HTML**。
+1. 设置If **[!UICONTROL Known Visitor, Show]**：为&#x200B;**[!UICONTROL Custom HTML]**。
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. 单击![—](assets/image2014-9-25-14-3a1-3a26.png)以编辑将向已知人员显示的&#x200B;**自定义HTML**。
+1. 单击![—](assets/image2014-9-25-14-3a1-3a26.png)以编辑将向已知人员显示的&#x200B;**[!UICONTROL Custom HTML]**。
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -52,11 +52,11 @@ ht-degree: 1%
    >
    >只能使用以上四个令牌。 此处无法使用任何其他令牌。
 
-1. 单击&#x200B;**完成**。
+1. 单击 **[!UICONTROL Finish]**。
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. 单击&#x200B;**批准并关闭**。
+1. 单击 **[!UICONTROL Approve and Close]**。
 
    >[!NOTE]
    >

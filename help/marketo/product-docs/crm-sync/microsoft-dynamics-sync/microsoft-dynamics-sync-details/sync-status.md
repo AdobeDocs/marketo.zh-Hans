@@ -4,24 +4,24 @@ description: 同步状态 — Marketo文档 — 产品文档
 title: 同步状态
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
 # 同步状态 {#sync-status}
 
-您可以在“同步状态”和“同步错误”选项卡上保持对同步进程的当前吞吐量和积压的选项卡。
+您可以在[!UICONTROL Sync Status]和[!UICONTROL Sync Errors]选项卡上保留同步进程的当前吞吐量和积压。
 
-## “同步状态”选项卡 {#sync-status-tab}
+## [!UICONTROL Sync Status]选项卡 {#sync-status-tab}
 
-1. 单击&#x200B;**[!UICONTROL 管理员]**，然后单击&#x200B;**[!UICONTROL Microsoft Dynamics]**。
+1. 单击&#x200B;**[!UICONTROL Admin]**&#x200B;和&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. 单击&#x200B;**[!UICONTROL 同步状态]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Sync Status]**&#x200B;选项卡。
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 单击&#x200B;**[!UICONTROL 查看]**&#x200B;下拉列表并选择&#x200B;**[!UICONTROL 上一小时]**&#x200B;以查看吞吐量信息。
+1. 单击&#x200B;**[!UICONTROL View]**&#x200B;下拉框并选择&#x200B;**[!UICONTROL Last Hour]**&#x200B;以查看吞吐量信息。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -45,9 +45,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >当您查看“上一小时”视图时，“插入”和“更新”列显示为N/A。这是预期行为。
+   >查看[!UICONTROL Last Hour]视图时，[!UICONTROL Inserts]和[!UICONTROL Updates]列显示不适用。这是预期行为。
 
-## “同步错误”选项卡 {#sync-errors-tab}
+## [!UICONTROL Sync Errors]选项卡 {#sync-errors-tab}
 
 浏览、搜索或导出未能与操作、方向、错误代码和错误消息等详细信息同步的潜在客户（和其他对象）。
 

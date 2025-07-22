@@ -4,10 +4,10 @@ description: 动态切换表单字段的可见性 — Marketo文档 — 产品�
 title: 动态切换表单字段的可见性
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '233'
+ht-degree: 2%
 
 ---
 
@@ -25,15 +25,15 @@ Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单
 >
 >在本例中，除非选择&#x200B;**国家/地区**&#x200B;作为“美国”，否则我们将隐藏&#x200B;**国家/地区**&#x200B;字段。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-8.png)
 
-1. 选择您的表单并单击&#x200B;**编辑表单**。
+1. 选择您的表单并单击&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/editform-1.png)
 
-1. 选择要动态隐藏/显示的字段，然后单击&#x200B;**可见性规则**&#x200B;的链接。
+1. 选择要动态隐藏/显示的字段，然后单击&#x200B;**[!UICONTROL Visibility Rules]**&#x200B;的链接。
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -45,7 +45,7 @@ Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单
 
    >[!TIP]
    >
-   >这很酷，因为您可以选择模糊匹配，如“starts with”。
+   >这很酷，因为您可以选择模糊匹配，如&quot;[!UICONTROL starts with]&quot;。
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -61,7 +61,7 @@ Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单
    >
    >我们以前将“国家/地区”转换为选择列表字段类型，并且[已将所有国家/地区添加为值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)。
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单
 
 >[!IMPORTANT]
 >
->在Forms 2.0中使用[API函数](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}通过自定义脚本设置/更新字段值时，表单字段行为将无缝工作。
+>使用Forms 2.0中的[API函数](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}通过自定义脚本设置/更新字段值时，表单字段行为将无缝工作。
 >
 >如果字段值由Forms 2.0 JavaScript API以外的外部脚本修改，则条件字段可能无法按预期工作。

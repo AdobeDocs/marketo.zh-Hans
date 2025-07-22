@@ -4,20 +4,20 @@ description: 为Web Personalization活动定义智能列表 — Marketo文档 �
 title: 为Web Personalization活动定义智能列表
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# 为Web Personalization活动定义智能列表 {#define-a-smart-list-for-web-personalization-activities}
+# 为[!DNL Web Personalization]活动定义智能列表 {#define-a-smart-list-for-web-personalization-activities}
 
-在智能营销活动中定义智能列表时，您可以在过滤器和触发器中使用Web Personalization活动。 在这里，您要捕获单击Web Personalization行动号召（营销活动）的任何人。
+在智能营销活动中定义智能列表时，您可以在过滤器和触发器中使用[!DNL Web Personalization]活动。 在这里，您要捕获单击[!DNL Web Personalization] call to action （营销活动）的所有人员。
 
-使用触发器发送电子邮件或警报，或根据单击并参与Web Personalization行动号召的访客更改值或分数。 您还可以过滤和查看那些点击了Web Personalization行动号召的潜在客户。
+使用触发器发送电子邮件或警报，或根据点击并参与[!DNL Web Personalization] call to action的访客更改值或分数。 您还可以过滤和查看那些单击[!DNL Web Personalization] call to action的潜在客户。
 
-1. 在智能营销活动中，单击&#x200B;**智能列表**&#x200B;选项卡。
+1. 在智能营销活动中，单击&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡。
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 

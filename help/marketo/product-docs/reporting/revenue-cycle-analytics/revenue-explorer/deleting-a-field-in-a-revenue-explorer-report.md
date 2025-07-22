@@ -4,14 +4,14 @@ description: 在收入资源管理器报表中删除字段 — Marketo文档 —
 title: 在收入浏览器报表中删除字段
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# 在收入浏览器报表中删除字段 {#deleting-a-field-in-a-revenue-explorer-report}
+# 删除[!UICONTROL Revenue Explorer]报告中的字段 {#deleting-a-field-in-a-revenue-explorer-report}
 
 有时，您可能会将错误的字段拖入报表中。 下面是如何删除它：
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[保存收入资源管理器报告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[正在保存[!UICONTROL Revenue Explorer]报告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

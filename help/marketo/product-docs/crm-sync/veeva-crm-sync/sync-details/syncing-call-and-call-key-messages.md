@@ -3,16 +3,16 @@ description: 同步调用和调用关键消息 — Marketo文档 — 产品文�
 title: 同步呼叫和呼叫关键消息
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '478'
-ht-degree: 2%
+source-wordcount: '477'
+ht-degree: 3%
 
 ---
 
 # 同步呼叫和呼叫关键消息 {#syncing-call-and-call-key-messages}
 
-默认情况下，Veeva CRM中的Call和Call关键消息对象会同步到Marketo Engage中。 Marketo会根据呼叫创建日期同步长达6个月之前的数据。
+默认情况下，[!DNL Veeva] CRM中的Call和Call键消息对象同步到Marketo Engage。 Marketo会根据呼叫创建日期同步长达6个月之前的数据。
 
 >[!NOTE]
 >
@@ -65,49 +65,49 @@ ht-degree: 2%
   </thead>
   <tbody>
     <tr>
-      <td>调用</td>
+      <td>号召</td>
       <td>会计师</td>
       <td>查找与呼叫关联的帐户。</td>
       <td>Account_vod__c</td>
       <td>查找（帐户）</td>
     </tr>
     <tr>
-      <td>调用</td>
+      <td>号召</td>
       <td>呼叫类型</td>
       <td>系统根据调用的类型和内容维护的调用的类型。 此字段用于报告目的。 有效值为：仅限详细信息、包含示例的详细信息、组详细信息、包含示例的组详细信息、仅限示例的组详细信息。 不应更改这些值，但可以更改这些选取列表的翻译。 与会者的呼叫类型与标头呼叫相同。 对于由3名专业人员组成的组呼叫，所有4条记录的呼叫类型为“组详细信息”</td>
       <td>Call_Type_vod__c</td>
       <td>选取列表</td>
     </tr>
     <tr>
-     <td>调用</td>
+     <td>号召</td>
       <td>联系人</td>
       <td>查找与呼叫关联的联系人（如果有）。</td>
       <td>Contact_vod__c</td>
       <td>查找（联系人）</td>
     </tr>
     <tr>
-      <td>调用</td>
+      <td>号召</td>
       <td>日期</td>
       <td>首次保存或提交呼叫的日期。 如果日期或日期时间字段均未提供，则通过触发器将此字段设置为当前日期。</td>
       <td>Call_Date_vod__c</td>
       <td>日期</td>
     </tr>
     <tr>
-      <td>调用</td>
+      <td>号召</td>
       <td>是家长电话吗？</td>
       <td>用于确定呼叫记录是父呼叫还是与会者呼叫记录的公式字段。 1表示该记录为父呼叫。 0表示这是与会者呼叫。</td>
       <td>Is_Parent_Call_vod__c</td>
       <td>公式（数字）</td>
     </tr>
     <tr>
-      <td>调用</td>
+      <td>号召</td>
       <td>状态</td>
       <td>呼叫的状态 — “已计划”、“已保存”或“已提交”。 使用折算工作台更改显示值。 调用时触发器查看此字段，以查看调用是否已锁定（提交）。 此值在按下“保存”或“提交”按钮时为用户设置。</td>
       <td>Status_vod__c</td>
       <td>选取列表</td>
     </tr>
     <tr>
-      <td>调用</td>
+      <td>号召</td>
       <td>记录类型</td>
       <td> </td>
       <td>RecordTypeId</td>
@@ -115,7 +115,7 @@ ht-degree: 2%
     </tr>
     <tr>
       <td>呼叫关键消息</td>
-      <td>调用</td>
+      <td>号召</td>
       <td>查找呼叫。 每个关键消息都与呼叫相关联。</td>
       <td>Call2_vod__c</td>
       <td>Master-Detail（调用）</td>

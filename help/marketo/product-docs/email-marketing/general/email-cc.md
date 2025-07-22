@@ -4,9 +4,9 @@ description: 电子邮件抄送 — Marketo文档 — 产品文档
 title: 电子邮件抄送
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 电子邮件抄送允许通过Marketo发送的指定电子邮件包含抄送收件人。
 
-此功能在所有Marketo电子邮件资源中均可用，无论电子邮件的发送方式（批量或触发营销活动）如何。 抄送收件人将收到发送给所选Marketo人员的电子邮件的精确副本。 因此，任何参与活动（打开、点击等）都将记录到电子邮件的“收件人”行中Marketo人员的活动日志中。 但是，“软退回”_以外的投放活动（已发送、已投放、硬退回等）将&#x200B;**不会**&#x200B;注册，因为Marketo无法区分Marketo人员的投放事件和抄送收件人。_ Marketo一次最多只能抄送10万人。 如果您的智能列表超过100,000，并且其中的每个人都必须获得抄送，我们建议将您的列表分类。
+此功能在所有Marketo电子邮件资源中均可用，无论电子邮件的发送方式（批量或触发营销活动）如何。 抄送收件人将收到发送给所选Marketo人员的电子邮件的精确副本。 因此，任何参与活动（打开、点击等）都将记录到电子邮件的“收件人”行中Marketo人员的活动日志中。 但是，“软退回”_以外的投放活动（已发送、已投放、硬退回等）将_&#x200B;不会&#x200B;**注册，因为Marketo无法区分Marketo人员的投放事件和抄送收件人。** Marketo一次最多只能抄送10万人。 如果您的智能列表超过100,000，并且其中的每个人都必须获得抄送，我们建议将您的列表分类。
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 ## 设置电子邮件抄送 {#set-up-email-cc}
 
-1. 在“我的Marketo”中，单击&#x200B;**管理员**。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/one.png)
 
-1. 在树中选择&#x200B;**电子邮件**。
+1. 在树中选择&#x200B;**[!UICONTROL Email]**。
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**编辑电子邮件抄送设置**。
+1. 单击 **[!UICONTROL Edit Email CC Settings]**。
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 ## 使用电子邮件抄送 {#using-email-cc}
 
-1. 选择您的电子邮件并单击&#x200B;**编辑草稿**。
+1. 选择您的电子邮件并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/five.png)
 
-1. 单击&#x200B;**电子邮件设置**。
+1. 单击 **[!UICONTROL Email Settings]**。
 
    ![](assets/six.png)
 

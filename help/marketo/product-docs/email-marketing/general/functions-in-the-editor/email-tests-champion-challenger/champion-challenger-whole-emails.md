@@ -4,9 +4,9 @@ description: 冠军/挑战者 — 整封电子邮件 — Marketo文档 — 产�
 title: 冠军/挑战者 — 整个电子邮件
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[添加电子邮件冠军/挑战者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 在电子邮件测试编辑器中，从&#x200B;**测试类型**&#x200B;下拉列表中选择&#x200B;**整个电子邮件**。
+1. 在电子邮件测试编辑器中，从&#x200B;**[!UICONTROL Whole Emails]**&#x200B;下拉列表中选择&#x200B;**[!UICONTROL Test Type]**。
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >请记住：原始电子邮件是冠军。 挑战者与它竞争。
 
-1. 查找并选择&#x200B;**挑战者**&#x200B;电子邮件，然后单击&#x200B;**克隆**。
+1. 查找并选择&#x200B;**[!UICONTROL Challengers]**&#x200B;封电子邮件，然后单击&#x200B;**[!UICONTROL Clone]**。
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 

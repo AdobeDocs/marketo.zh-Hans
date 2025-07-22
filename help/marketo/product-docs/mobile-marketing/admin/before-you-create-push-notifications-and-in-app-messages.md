@@ -4,9 +4,9 @@ description: 在创建推送通知和应用程序内消息之前 — Marketo文�
 title: 在创建推送通知和应用程序内消息之前
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 1. 然后Marketo管理员[向开发人员](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)发送一个代码片段。
 
-1. 开发人员下载适用于[Android](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)的SDK，并包含代码片段和其他方法。
+1. 开发人员下载适用于[Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)的SDK，并包含代码片段和其他方法。
 
 1. 默认情况下，应用程序内消息会在应用程序打开时触发。 如果要触发其他事件的消息，例如查看特定页面或按下特定按钮时，开发人员需要向代码添加自定义事件（请参阅下面的[应用程序内消息的自定义事件](#CustomEvents)）。
 
-1. 开发人员[为Android](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)生成服务器API密钥和项目编号，并将其发送给Marketo管理员。
+1. 开发人员[为Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)生成服务器API密钥和项目编号，并将其发送给Marketo管理员。
 
-1. Marketo管理员使用服务器API密钥(Android) [&#128279;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)配置推送通知访问[，或使用证书(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)配置。
+1. Marketo管理员使用服务器API密钥(Android)[配置推送通知访问](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)，或使用证书(iOS)[配置](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)。
 
 >[!TIP]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 应用程序内消息的自定义事件 {#custom-events-for-in-app-messages}
 
-对于应用程序内消息传送，显示触发器默认设置为&#x200B;**应用程序打开**。 如果要使用任何自定义事件来触发应用内消息的显示（例如，**单击“添加到购物车”**、**查看设置页面**），请创建所需事件的列表，并将其提供给您的移动应用开发人员。 然后，开发人员会将自定义事件添加到代码中。 获得批准后，在设置受众时，它们将显示为显示触发器。 **注意**：自定义事件编码审批流程可能需要一些时间才能完成。
+对于应用程序内消息传送，显示触发器默认设置为&#x200B;**[!UICONTROL App Open]**。 如果要使用任何自定义事件来触发应用内消息的显示（例如，**单击“添加到购物车”**、**查看设置页面**），请创建所需事件的列表，并将其提供给您的移动应用开发人员。 然后，开发人员会将自定义事件添加到代码中。 获得批准后，在设置受众时，它们将显示为显示触发器。 **注意**：自定义事件编码审批流程可能需要一些时间才能完成。
 
 在您完成应用程序内消息和推送通知的所有准备工作后，便应该开始了！
 

@@ -4,9 +4,9 @@ description: 事件合作伙伴 — Marketo文档 — 产品文档
 title: 活动合作伙伴
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 请参阅有关将您的在线Marketo活动与活动合作伙伴集成的说明：
 
-* [Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [[!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-* [GoTo网络研讨会](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
+* [[!DNL GoToWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)

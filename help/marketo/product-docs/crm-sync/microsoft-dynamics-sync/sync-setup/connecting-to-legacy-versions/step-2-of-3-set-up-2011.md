@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571807
-description: 第2步（共3步） — 在Dynamics中设置Marketo同步用户（2011年内部部署） - Marketo文档 — 产品文档
-title: 第2步（共3步） — 在Dynamics中设置Marketo同步用户（2011年内部部署）
+description: 第2步（共3步） — 在 [!DNL Dynamics] 中设置Marketo同步用户（2011年内部部署） - Marketo文档 — 产品文档
+title: 第2步（共3步） — 在 [!DNL Dynamics] 中设置Marketo同步用户（2011年内部部署）
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '345'
 ht-degree: 1%
 
 ---
 
-# 步骤2（共3步）：在Dynamics中设置Marketo同步用户（2011内部部署） {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
+# 第2步（共3步）：在[!DNL Dynamics]中设置Marketo同步用户（2011年内部部署） {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 出色完成了前面的步骤，让我们继续介绍这些步骤。
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->这适用于Marketo插件版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅[升级MarketoMicrosoft Dynamics解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}。
+>这适用于Marketo插件版本4.0.0.14及更高版本。 对于早期版本，所有用户都必须具有同步用户角色。 要升级Marketo，请参阅[升级 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)的Marketo解决方案。
 
 >[!IMPORTANT]
 >
@@ -43,7 +43,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. 您将在此处看到用户列表。 选择您的专用Marketo同步用户或联系您的[Active Directory联合身份验证服务(AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"}管理员以创建专用于Marketo的新用户。 单击 **[!UICONTROL Manage Roles]**。
+1. 您将在此处看到用户列表。 选择您的专用Marketo同步用户或联系您的[Active Directory联合身份验证服务(AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx)管理员以创建专用于Marketo的新用户。 单击 **[!UICONTROL Manage Roles]**。
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >如果未看到该角色，请返回3[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}的步骤1并导入解决方案。
+   >如果未看到该角色，请返回3[的](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}步骤1并导入解决方案。
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >如果缺少Marketo配置，请尝试刷新页面。 如果问题仍然存在，请[再次发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}或注销并重新登录。
+   >如果[!UICONTROL Marketo Config]缺失，请尝试刷新页面。 如果问题仍然存在，请[再次发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)或注销并重新登录。
 
 1. 单击 **[!UICONTROL Default]**。
 
@@ -93,12 +93,12 @@ ht-degree: 1%
 
 ## 在继续执行步骤3之前 {#before-proceeding-to-step}
 
-* 如果要限制同步记录数，请立即[设置自定义同步筛选器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}。
-* 运行[验证Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}进程。 它验证初始设置是否正确完成。
-* 登录到Microsoft Dynamics CRM中的Marketo同步用户。
-
-  做得好！
+    *如果要限制同步的记录数，请立即[设置自定义同步过滤器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
+    *运行[Validate [!DNL Microsoft Dynamics] Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)进程。 它验证初始设置是否正确完成。
+    *在 [!DNL Microsoft Dynamics] CRM.
+中登录到Marketo同步用户。
+做得好！
 
 >[!MORELIKETHIS]
 >
->[第3步（共3步）：将Microsoft Dynamics与Marketo连接（2011年内部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md){target="_blank"}
+>[第3步（共3步）：连接 [!DNL Microsoft Dynamics] 与Marketo（2011年内部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)

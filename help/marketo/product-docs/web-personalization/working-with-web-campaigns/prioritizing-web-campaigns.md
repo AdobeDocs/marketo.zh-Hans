@@ -4,9 +4,9 @@ description: 优先处理Web营销活动 — Marketo文档 — 产品文档
 title: 优先处理Web营销活动
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 >
 >In Zone营销活动和（小组件或对话框）营销活动可以在同一页面上做出反应。
 
-1. 转到Web营销活动。
+1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-6.jpg)
 
@@ -34,16 +34,16 @@ ht-degree: 0%
    >
    >若要更轻松地查找所需的Web营销活动，请使用[筛选功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
-1. 在“编辑促销活动”页面中，设置优先级得分（9999 =最高优先级1 =最低优先级）。
+1. 在“编辑营销活动”页面中，设置[!UICONTROL Priority Score] （9999 =最高优先级1 =最低优先级）。
 
    ![](assets/image2015-7-9-20-3a20-3a58.png)
 
    >[!TIP]
    >
-   >我们建议您仅在可能存在营销活动重叠时才使用营销活动优先级得分，其中一个营销活动具有较高重要性。 您无需为每个营销活动设置优先级。
+   >我们建议您仅在可能存在营销活动重叠时才使用营销活动[!UICONTROL Priority Score]，其中一个营销活动具有较高重要性。 您无需为每个营销活动设置优先级。
 
 1. 保存或启动营销活动。
 
-1. 请参阅“网站营销活动”页面中显示的优先级得分。
+1. 查看[!UICONTROL Priority Score]页面中显示的[!UICONTROL Web Campaigns]。
 
 ![](assets/web-campaign-priority-score.jpg)

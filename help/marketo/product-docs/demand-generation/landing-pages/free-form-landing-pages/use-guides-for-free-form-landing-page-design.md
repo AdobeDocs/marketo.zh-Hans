@@ -4,9 +4,9 @@ description: 使用自由格式登陆页设计指南 — Marketo文档 — 产�
 title: 使用自由格式登陆页面设计指南
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->指南仅在&#x200B;**自由格式**&#x200B;登陆页面编辑器中可用。
+>指南仅在&#x200B;**[!UICONTROL Free-form]**&#x200B;登陆页面编辑器中可用。
 
-1. 选择&#x200B;**登陆页面**&#x200B;并单击&#x200B;**编辑草稿**。
+1. 选择&#x200B;**[!UICONTROL Landing Page]**&#x200B;并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. 单击&#x200B;**登陆页面操作**&#x200B;并选择&#x200B;**显示指南**。
+1. 单击&#x200B;**[!UICONTROL Landing Page Actions]**&#x200B;并选择&#x200B;**[!UICONTROL Show Guides]**。
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

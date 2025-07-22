@@ -1,18 +1,18 @@
 ---
-description: Sales Insight Actions中的有趣时刻 — Marketo文档 — 产品文档
-title: Sales Insight操作中的有趣时刻
+description: Sales Insight操作中的有趣时刻 — Marketo文档 — 产品文档
+title: Sales Insight Actions中的有趣时刻
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Sales Insight操作中的有趣时刻 {#interesting-moments-in-sales-insight-actions}
+# [!DNL Sales Insight Actions]中的有趣时刻 {#interesting-moments-in-sales-insight-actions}
 
-有趣的时刻是通过Marketo Sales Insight Actions与您的销售团队沟通的关键。
+有趣的时刻是通过[!DNL Marketo Sales Insight Actions]与您的销售团队进行沟通的关键。
 
 ## 什么是一个有趣的时刻？ {#what-is-an-interesting-moment}
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. 拖动到&#x200B;**有趣的时刻**&#x200B;流程步骤上。
+1. 拖动到&#x200B;**[!UICONTROL Interesting Moments]**&#x200B;流程步骤上。
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. 在&#x200B;**Description**&#x200B;字段中向您的销售团队写入一条消息，说明此操作重要的原因。
+1. 在&#x200B;**[!UICONTROL Description]**&#x200B;字段中向您的销售团队写入一条消息，说明此操作重要的原因。
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
@@ -50,8 +50,8 @@ ht-degree: 0%
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## 在Sales Insight Actions中，一个有趣的时刻是什么样的？ {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## 在[!DNL Sales Insight Actions]中，有趣的时刻是什么样的？ {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-有趣的时刻将实时显示在用户的实时信息源中。 我们利用Salesforce中的潜在客户所有者ID来显示用户对于其拥有的相关潜在客户所拥有的有趣时刻。 用户可以通过电子邮件/电话/销售活动快速跟踪潜在客户，方法是单击潜在客户名称旁边的下拉列表。
+有趣的时刻将实时显示在用户的实时信息源中。 我们利用[!DNL Salesforce]中的潜在客户所有者ID来显示用户对于其拥有的相关潜在客户所具有的有趣时刻。 用户可以通过电子邮件/电话/销售活动快速跟踪潜在客户，方法是单击潜在客户名称旁边的下拉列表。
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

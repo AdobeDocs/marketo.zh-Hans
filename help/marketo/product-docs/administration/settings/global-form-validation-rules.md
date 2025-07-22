@@ -3,10 +3,10 @@ description: 全局表单验证规则 — Marketo文档 — 产品文档
 title: 全局表单验证规则
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 1%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 在您可以使用此功能之前，必须为每个所需角色启用其权限。
 
-1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**。
+1. 在Marketo中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/global-form-validation-rules-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 单击 **[!UICONTROL Users & Roles]**。
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
 
    ![](assets/global-form-validation-rules-3.png)
 
@@ -34,11 +34,11 @@ ht-degree: 0%
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. 单击“访问管理员”旁边的&#x200B;**+**&#x200B;号。
+1. 单击&#x200B;**访问管理员**&#x200B;旁边的&#x200B;**+**&#x200B;号。
 
    ![](assets/global-form-validation-rules-5.png)
 
-1. 向下滚动并选择&#x200B;**[!UICONTROL 访问表单验证规则]**，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 向下滚动并选择&#x200B;**[!UICONTROL Access Form Validation Rules]**&#x200B;并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/global-form-validation-rules-6.png)
 
@@ -46,25 +46,25 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->这些规则将适用于您的Marketo Engage订阅中的所有表单。
+>这些规则将适用于Marketo Engage订阅中的所有表单。
 
-1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**。
+1. 在Marketo中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/global-form-validation-rules-7.png)
 
-1. 单击&#x200B;**[!UICONTROL 全局表单验证规则]**。
+1. 单击 **[!UICONTROL Global Form Validation Rule]**。
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建表单验证规则]**。
+1. 单击 **[!UICONTROL New Form Validation Rule]**。
 
    ![](assets/global-form-validation-rules-9.png)
 
    >[!NOTE]
    >
-   >表单验证规则操作下拉列表允许您删除或编辑现有规则。
+   >[!UICONTROL Form Validation Rule Actions]下拉列表允许您删除或编辑现有规则。
 
-1. 命名规则，为其提供可选描述，然后输入您希望表单访客看到的错误消息。 在规则框中输入要阻止的域，选择&#x200B;**[!UICONTROL 激活规则]**，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 命名规则，为其提供可选描述，然后输入您希望表单访客看到的错误消息。 在规则框中输入要阻止的域，选择&#x200B;**[!UICONTROL Activate Rule]**，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/global-form-validation-rules-10.png)
 
@@ -74,14 +74,14 @@ ht-degree: 0%
 
 ## 如何禁用每个表单的访问权限{#how-to-disable-access-per-form}
 
-启用后，规则将应用于所有表单。 但是，如果您有一个具有特定要求的表单，并且您不希望任何内容被拒绝，则可以在表单的设置中禁用[!UICONTROL 全局表单验证规则]。
+启用后，规则将应用于所有表单。 但是，如果您有一个具有特定要求的表单，并且您不希望任何内容被拒绝，则可以在表单的设置中禁用[!UICONTROL Global Form Validation Rules]。
 
-1. 在所需表单中，单击&#x200B;**[!UICONTROL 表单设置]**，然后单击&#x200B;**[!UICONTROL 设置]**。
+1. 在所需表单中，单击&#x200B;**[!UICONTROL Form Settings]**，然后单击&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/global-form-validation-rules-11.png)
 
-1. 单击&#x200B;**[!UICONTROL 全局表单验证规则]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 已禁用]**。
+1. 单击&#x200B;**[!UICONTROL Global Form Validation Rules]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Disabled]**。
 
    ![](assets/global-form-validation-rules-12.png)
 
-当您批准并发布表单时，它将忽略您的[!UICONTROL 全局表单验证规则]。
+当您批准并发布表单时，它将忽略您的[!UICONTROL Global Form Validation Rules]。

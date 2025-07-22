@@ -4,9 +4,9 @@ description: 发送来自潜在客户所有者的电子邮件 — Marketo文档 
 title: 从潜在客户所有者发送电子邮件
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 如果要代表Lead Owner向Lead发送电子邮件，该怎么办？  具体方法如下。
 
-1. 找到您的电子邮件，选择它，然后单击&#x200B;**编辑草稿**。
+1. 查找您的电子邮件，选择它并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/one.png)
 
-1. 单击&#x200B;**从**&#x200B;字段（删除任何现有名称），然后单击&#x200B;**插入令牌**&#x200B;按钮。
+1. 单击&#x200B;**[!UICONTROL From]**&#x200B;字段（删除任何现有名称），然后单击&#x200B;**插入令牌**&#x200B;按钮。
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. 输入默认值，以防潜在客户还没有潜在客户所有者，然后单击&#x200B;**插入**。
+1. 输入默认值，以防潜在客户还没有潜在客户所有者，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. 输入默认值，以防潜在客户还没有潜在客户所有者，然后单击&#x200B;**插入**。
+1. 输入默认值，以防潜在客户还没有潜在客户所有者，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >确保在名字和姓氏令牌之间添加了空格。
 
-1. 单击从电子邮件字段（删除任何现有的电子邮件地址），然后单击插入令牌按钮。
+1. 单击&#x200B;**[!UICONTROL From Address]**&#x200B;字段（删除任何现有的电子邮件地址），然后单击&#x200B;**插入令牌**&#x200B;按钮。
 
    ![](assets/eight.png)
 
@@ -55,10 +55,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. 输入默认值，以防潜在客户还没有潜在客户所有者，然后单击&#x200B;**插入**。
+1. 输入默认值，以防潜在客户还没有潜在客户所有者，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/ten.png)
 
-1. 确保已填充&#x200B;**回复**&#x200B;和&#x200B;**主题**&#x200B;字段，并且您已完成！
+1. 确保已填充&#x200B;**[!UICONTROL Reply-to]**&#x200B;和&#x200B;**[!UICONTROL Subject]**&#x200B;字段，并且您已完成！
 
    ![](assets/eleven.png)

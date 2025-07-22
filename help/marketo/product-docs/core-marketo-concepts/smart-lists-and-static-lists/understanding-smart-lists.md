@@ -4,9 +4,9 @@ description: 了解智能列表 — Marketo文档 — 产品文档
 title: 了解智能列表
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## “智能列表”选项卡 {#smart-list-tab}
 
-您可以添加和定义过滤器，以在“人员”选项卡中查看特定人员组。
+您添加并定义筛选器以在[!UICONTROL People]选项卡中查看特定用户组。
 
 ![](assets/understanding-smart-lists-3.png)
 

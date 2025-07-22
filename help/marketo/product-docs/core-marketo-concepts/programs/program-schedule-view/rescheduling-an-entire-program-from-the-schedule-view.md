@@ -4,9 +4,9 @@ description: 从计划视图重新计划整个项目 — Marketo文档 — 产�
 title: 从计划视图中重新计划整个项目
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. 选择事件操作下拉列表。 选择&#x200B;**[!UICONTROL 重新计划条目]**。
+1. 选择事件操作下拉列表。 选择&#x200B;**[!UICONTROL Reschedule Entries]**。
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. 选择一个锚点条目。 基于此移动，所有其他条目将随该移动一起移动。
+1. 选择[!UICONTROL Anchor Entry]。 基于此移动，所有其他条目将随该移动一起移动。
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. 选择新的开始日期。
+1. 选择[!UICONTROL New Start]日期。
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. 单击&#x200B;**[!UICONTROL 重新计划]**。
+1. 单击 **[!UICONTROL Reschedule]**。
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

@@ -4,9 +4,9 @@ description: 在Campaign电子邮件报表中筛选Assets - Marketo文档 — �
 title: 在营销活动电子邮件报告中筛选Assets
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡并拖动到筛选器上。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡并拖动到筛选器上。
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **营销活动**： Marketo帐户中的活动智能营销活动。
-   * **已存档的营销活动**：不活动、已弃用的智能营销活动。
+   * **[!UICONTROL Campaigns]**： Marketo帐户中的活动智能营销活动。
+   * **[!UICONTROL Archived Campaigns]**：非活动、已弃用的智能营销活动。
 
 1. 选择要包含在报表中的文件夹和特定的智能营销活动。
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >如果选择文件夹，则报表将包含该文件夹在报表运行时包含的所有内容。
 
-1. 你完了！ 单击&#x200B;**报告**&#x200B;选项卡查看已过滤的报告。
+1. 你完了！ 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡以查看已过滤的报告。
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 

@@ -4,9 +4,9 @@ description: 了解智能营销活动信息卡 — Marketo文档 — 产品文�
 title: 了解智能营销活动信息卡
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->2023年10月2日，Adobe从所有应用商店中删除了Marketo Ments应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 将您的Marketo Engage实例迁移到Adobe身份以进行Marketo身份验证后，您将无法再访问该应用程序。 [了解更多](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日，Adobe从所有应用商店中删除了Marketo Ments应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 在将Marketo Engage实例迁移到Adobe Identity以便对Marketo进行身份验证后，您将无法再访问该应用程序。 [了解详情](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 对于已计划但尚未运行的未来智能营销活动， Marketo时刻卡不会显示任何营销活动统计数据。 它们将显示在将来的版本中。
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. 详细信息卡可让您访问有关智能列表筛选器、流量和电子邮件摘要的信息。
+1. 详细信息卡允许您访问有关[!UICONTROL Smart List]筛选器、[!UICONTROL Flow]和[!UICONTROL Email Summary]的信息。
 
-1. 点按&#x200B;**智能列表**。
+1. 点按&#x200B;**[!UICONTROL Smart List]**。
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. 点按&#x200B;**流量**。
+1. 点按&#x200B;**[!UICONTROL Flow]**。
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. 单击&#x200B;**电子邮件摘要**。
+1. 单击 **[!UICONTROL Email Summary]**。
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. 点按[发送样本](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)或[预览电子邮件](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)（单击这些链接以了解详细信息）。
+1. 点按[[!UICONTROL Send Sample]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)或[[!UICONTROL Preview Email]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)（单击这些链接以了解详细信息）。
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ ht-degree: 0%
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. 点按&#x200B;**确认**。
+1. 点按&#x200B;**[!UICONTROL Confirm]**。
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. 点按&#x200B;**确认**&#x200B;以完成作业，或者，如果您有其他想法，请点按&#x200B;**无所谓了**。
+1. 点按&#x200B;**[!UICONTROL Confirm]**&#x200B;以完成作业；或者，如果您有其他想法，请点按&#x200B;**[!UICONTROL Never Mind]**。
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. 点按&#x200B;**取消运行**。
+1. 点按&#x200B;**[!UICONTROL Cancel Run]**。
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
@@ -119,11 +119,11 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. 点按&#x200B;**重新计划**。
+1. 点按&#x200B;**[!UICONTROL Reschedule]**。
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. 在日历上选择一个日期，然后点按&#x200B;**重新计划**。
+1. 在日历上选择一个日期并点按&#x200B;**[!UICONTROL Reschedule]**。
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您还可以点按Smart Campaign信息卡上的&#x200B;**共享**&#x200B;图标以进行共享，以及详细信息信息卡上的&#x200B;**完成**&#x200B;和&#x200B;**收藏**&#x200B;图标。
+>您还可以点按要共享的Smart Campaign卡上的&#x200B;**[!UICONTROL Share]**&#x200B;图标，以及详细信息卡上的&#x200B;**[!UICONTROL Done]**&#x200B;和&#x200B;**[!UICONTROL Favorite]**&#x200B;图标。
 
 ## 快速删除智能营销活动信息卡 {#quickly-delete-a-smart-campaign-card}
 

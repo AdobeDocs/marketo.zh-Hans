@@ -4,18 +4,18 @@ description: 存档模板 — Marketo文档 — 产品文档
 title: 存档模板
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # 存档模板 {#archive-templates}
 
-存档内容以清理您的Sales Content帐户，而不会丢失任何模板数据。
+存档内容以清理[!DNL Sales Content]帐户，而不会丢失任何模板数据。
 
-选中模板旁边的框并单击&#x200B;**存档**。
+选中模板旁边的框并单击&#x200B;**[!UICONTROL Archive]**。
 
 >[!NOTE]
 >

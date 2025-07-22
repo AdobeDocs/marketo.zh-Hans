@@ -4,9 +4,9 @@ description: 持久取消订阅 — Marketo文档 — 产品文档
 title: 持久取消订阅
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Marketo改进了取消订阅功能的行为，使其具有“持久性”。 我
 
 ## 更改电子邮件地址 {#changing-an-email-address}
 
-如果将人员的电子邮件地址更改为未订阅的电子邮件地址，则将取消订阅该人员。 可以在Marketo或Salesforce中进行此更改。
+如果将人员的电子邮件地址更改为未订阅的电子邮件地址，则将取消订阅该人员。 此更改可在Marketo或[!DNL Salesforce]中发生。
 
 ## 重新订阅 {#re-subscribing}
 

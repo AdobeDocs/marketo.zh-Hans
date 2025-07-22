@@ -4,9 +4,9 @@ description: 将自定义度量添加到收入资源管理器报表 — Marketo�
 title: 将自定义度量添加到收入资源管理器报表
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. 调出您报告所需的字段。 有关详细信息，请参阅[将字段添加到收入资源管理器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)。
 
-1. 右键单击现有度量（蓝色单元格），单击&#x200B;**用户定义的度量**，然后选择&#x200B;**计算的度量**。
+1. 右键单击现有指标（蓝色单元格），单击&#x200B;**[!UICONTROL User Defined Measure]**&#x200B;并选择&#x200B;**[!UICONTROL Calculated Measure]**。
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您可以自行键入数学符号，也可以使用选择框。
 
-1. 完成后，单击&#x200B;**确定**。
+1. 完成后，单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

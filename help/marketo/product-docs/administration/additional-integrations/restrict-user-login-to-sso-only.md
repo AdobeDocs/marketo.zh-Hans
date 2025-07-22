@@ -4,10 +4,10 @@ description: 限制用户仅登录SSO - Marketo文档 — 产品文档
 title: 限制用户仅登录SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 0%
+source-wordcount: '228'
+ht-degree: 1%
 
 ---
 
@@ -23,33 +23,33 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 登录设置]s**。
+1. 单击 **[!UICONTROL Login Settings]**。
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 编辑安全设置]**。
+1. 单击 **[!UICONTROL Edit Security Settings]**。
 
    ![](assets/restrict-user-login-to-sso-only-3.png)
 
-1. 展开&#x200B;**[!UICONTROL 高级]**&#x200B;设置，选中&#x200B;**[!UICONTROL 需要SSO]**，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 展开&#x200B;**[!UICONTROL Advanced]**&#x200B;设置，选中&#x200B;**[!UICONTROL Require SSO]**，然后单击&#x200B;**[!UICONTROL Save]**。
 
 ![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >
->最佳做法是邀请用户并接受邀请。 _在_&#x200B;邀请被接受后，管理员应将其设置为“[!UICONTROL 需要SSO]”。
+>最佳做法是邀请用户并接受邀请。 _在_&#x200B;邀请被接受后，管理员应将其设置为“[!UICONTROL Require SSO]”。
 
 >[!TIP]
 >
->如果选择&#x200B;**[!UICONTROL 要求SSO]**，则可以通过在设置角色时选中&#x200B;**[!UICONTROL 绕过单点登录]**&#x200B;选项来将[用户角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)从此限制中排除。 这将允许用户正常登录。 例如，管理员用户可能仍需要通过登录屏幕登录Marketo。 如果同时启用了SSO和通用ID，则必须设置“绕过单点登录”权限以在订阅之间切换。
+>如果选择&#x200B;**[!UICONTROL Require SSO]**，则可以通过在设置角色时选中[选项来从该限制中排除](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)用户角色&#x200B;**[!UICONTROL Bypass Single Sign-On]**。 这将允许用户正常登录。 例如，管理员用户可能仍需要通过登录屏幕登录Marketo。 如果同时启用了SSO和通用ID，则必须设置“绕过单点登录”权限以在订阅之间切换。
 
 >[!CAUTION]
 >
->邀请新用户时，他们将收到邀请电子邮件。 但是，如果选择&#x200B;**[!UICONTROL 要求SSO]**，他们将不会收到这些电子邮件，除非将其分配给设置为&#x200B;**[!UICONTROL 绕过单点登录]**&#x200B;的角色。
+>邀请新用户时，他们将收到邀请电子邮件。 但是，如果选择&#x200B;**[!UICONTROL Require SSO]**，他们将不会收到这些电子邮件，除非将其分配给设置为&#x200B;**[!UICONTROL Bypass Single Sign-On]**&#x200B;的角色。
 
 操作完成！现在，所有用户（有权绕过单点登录的用户除外）将被限制为仅使用SSO登录。
 

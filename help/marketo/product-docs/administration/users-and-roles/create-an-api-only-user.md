@@ -4,20 +4,20 @@ description: 创建仅API用户 — Marketo文档 — 产品文档
 title: 创建仅API用户
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
 # 创建仅API用户 {#create-an-api-only-user}
 
-如果您要通过[REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}与Marketo集成，则需要创建一个“仅限API用户”。 具体方法如下。
+如果您要通过[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}与Marketo集成，则需要创建一个“仅限API用户”。 具体方法如下。
 
 >[!IMPORTANT]
 >
->如果您在预订中创建API Only用户，而该预订已登记到Adobe标识，则您的步骤不尽相同，您可在此处[&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}找到。
+>如果您在已登记到Adobe Identity的订阅中创建“仅限API用户”，则您的步骤不同，可从此处[找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}。
 
 >[!PREREQUISITES]
 >
@@ -27,31 +27,31 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 单击 **[!UICONTROL Users & Roles]**。
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 邀请新用户]**。
+1. 单击 **[!UICONTROL Invite New User]**。
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. 为仅API用户输入电子邮件、名字和姓氏。 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 为仅API用户输入电子邮件、名字和姓氏。 单击 **[!UICONTROL Next]**。
 
    ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
-   >添加可选原因或访问到期日期。 访问过期日期对于短期员工来说是方便的。
+   >添加可选的[!UICONTROL Reason]或[!UICONTROL Access Expiration]日期。 访问过期日期对于短期员工来说是方便的。
 
-1. 选择&#x200B;**[!UICONTROL 仅API]**&#x200B;角色并选中&#x200B;**[!UICONTROL 仅API]**&#x200B;复选框。 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 选择&#x200B;**[!UICONTROL API Only]**&#x200B;角色并选中&#x200B;**[!UICONTROL API Only]**&#x200B;复选框。 单击 **[!UICONTROL Next]**。
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. 单击&#x200B;**[!UICONTROL 发送]**。
+1. 单击 **[!UICONTROL Send]**。
 
    ![](assets/create-an-api-only-user-6.png)
 

@@ -3,9 +3,9 @@ description: 通过群电子邮件发送电子邮件 — Marketo文档 — 产�
 title: 通过群电子邮件发送电子邮件
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 发送群电子邮件 {#sending-a-group-email}
 
-1. 单击&#x200B;**人员**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡。
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. 单击“组操作”按钮并选择&#x200B;**电子邮件组**。
+1. 单击[!UICONTROL Group Actions]按钮并选择&#x200B;**[!UICONTROL Email Group]**。
 
    ![](assets/sending-emails-via-group-email-3.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. 选择所需的收件人，然后单击&#x200B;**预览动态字段**。 在右侧查看预览。
+1. 选择所需的收件人并单击&#x200B;**[!UICONTROL Preview Dynamic Fields]**。 在右侧查看预览。
 
    ![](assets/sending-emails-via-group-email-7.png)
 

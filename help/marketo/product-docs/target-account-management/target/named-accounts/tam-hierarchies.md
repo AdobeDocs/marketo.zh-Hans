@@ -4,24 +4,24 @@ description: TAM层次结构 — Marketo文档 — 产品文档
 title: TAM层次结构
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # TAM层次结构 {#tam-hierarchies}
 
-层次结构使TAM用户能够继承其CRM中指定帐户之间的父/子关系。
+层次结构使TAM用户能够继承其CRM中[!UICONTROL Named Accounts]之间的父/子关系。
 
 ## 什么是TAM层次结构？ {#what-are-tam-hierarchies}
 
-公司可以有多个部门和子公司。 这些公司通常通过称为阶层的父子关系来组织自己。 TAM可以从您的SFDC或MSD集成继承这些层次结构，并允许您作为单个系列处理不同的部门。
+公司可以有多个部门和子公司。 这些公司通常通过称为阶层的父子关系来组织自己。 TAM可以从您的SFDC或MSD集成继承这些层级，并允许您作为单个系列与不同的部门合作。
 
 ## 使用TAM层次结构 {#working-with-tam-hierarchies}
 
-使用TAM层次结构，您可以在指定帐户控制面板中快速获取有关整个层次结构或单个帐户的信息。
+使用TAM层次结构，您可以在[!UICONTROL Named Account]仪表板中快速获取有关整个层次结构或单个帐户的信息。
 
 **不使用层次结构**
 

@@ -4,9 +4,9 @@ description: 了解广告网络集成 — Marketo文档 — 产品文档
 title: 了解Ad网络集成
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 广告网络集成的工作原理 {#how-ad-network-integrations-work}
 
-广告网络集成将Marketo独特的受众数据连接到您的付费媒体系统，以便您能够运行更具针对性的个性化数字广告营销活动。 这些集成当前适用于Facebook、LinkedIn和Google。
+广告网络集成将Marketo独特的受众数据连接到您的付费媒体系统，以便您能够运行更具针对性的个性化数字广告营销活动。 这些集成当前适用于[!DNL Facebook]、[!DNL LinkedIn]和Google。
 
 功能包括：
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * 将潜在客户或数据从付费媒体系统引入Marketo
 
-   * 例如，Facebook用户单击“订阅”按钮时，会提供姓名和电子邮件地址
+   * 例如，[!DNL Facebook]用户单击“订阅”按钮并提供姓名和电子邮件地址
 
 * 将离线转化数据上传到付费媒体系统，优化商机获取和培养工作
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 您可以使用集成执行以下操作：
 
-* [将Google AdWords添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
-* [在Facebook中将潜在客户添加到自定义受众](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
-* [在Facebook中创建自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
-* [设置Facebook脱机转换](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
-* [使用Marketo列表或智能列表作为LinkedIn受众区段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+* [将Google [!DNL AdWords] 添加为 [!DNL LaunchPoint] 服务](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [在 [!DNL Facebook]中将潜在客户添加到自定义受众](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [在 [!DNL Facebook]中创建自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [设置 [!DNL Facebook] 脱机转换](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [将Marketo列表或智能列表用作 [!DNL LinkedIn] 受众区段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   | 受众数据 | 商机引入 | 脱机转换 |
 |---|---|---|---|

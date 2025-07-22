@@ -4,18 +4,18 @@ description: 电子邮件分析概述 — Marketo文档 — 产品文档
 title: 电子邮件分析概述
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
 # 电子邮件分析概述 {#email-insights-overview}
 
-电子邮件分析根据历史数据为电子邮件营销人员提供强大的分析功能。 它包含两个独立但关联的部分：Analytics和Sends。
+**[!UICONTROL Email Insights]**&#x200B;根据历史数据为电子邮件营销人员提供了强大的分析功能。 它包含两个独立但关联的节：[!UICONTROL Analytics]和[!UICONTROL Sends]。
 
-要访问电子邮件分析，只需在“我的Marketo”（或Analytics主屏幕）中单击其图块。
+要访问&#x200B;**[!UICONTROL Email Insights]**，只需在“我的Marketo”（或Analytics主屏幕）中单击其磁贴。
 
 ![](assets/icon.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 >
 >默认情况下，您将看到您有权访问的每个工作区的数据。 您可以取消选择不想查看的工作区。 以后将记住您的选择。
 
-## Analytics {#analytics}
+## [!UICONTROL Analytics] {#analytics}
 
-使用[Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)浏览电子邮件投放和参与量度的聚合时间序列数据。
+使用[[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)浏览电子邮件投放和参与量度的聚合时间序列数据。
 
 ![](assets/emailanalytics.jpg)
 
-**筛选器**
+**过滤器**
 
-已使用高级[筛选器](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)按受众、内容或平台划分结果。 相同的筛选条件同时适用于Analytics和“发送”。
+已使用高级[筛选器](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)按受众、内容或平台划分结果。 相同的筛选器同时适用于[!UICONTROL Analytics]和[!UICONTROL Sends]。
 
 ![](assets/filter.png)
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-## 发送 {#sends}
+## [!UICONTROL Sends] {#sends}
 
-在[发送](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)页中，检查最近电子邮件通信的特征。
+在[[!UICONTROL Sends]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)页面中，检查最近电子邮件通信的特征。
 
 ![](assets/two.png)
 
@@ -55,9 +55,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->数据可能需要长达8小时才能反映在电子邮件分析中。
+>数据可能需要长达8小时才能反映在&#x200B;**[!UICONTROL Email Insights]**&#x200B;中。
 
-## 自定义Dimension {#custom-dimensions}
+## 自定义维度 {#custom-dimensions}
 
 虽然包括所有标准Marketo维度，但您可以选择最多添加10个自定义维度。 [自定义维度](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)包含分段和程序标记。
 

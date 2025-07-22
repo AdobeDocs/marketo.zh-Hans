@@ -4,9 +4,9 @@ description: 高级程序报告概述 — Marketo文档 — 产品文档
 title: 高级程序报告概述
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 什么是分析区域？ {#whats-an-analysis-area}
 
-分析区域在Revenue Explorer中各自包含不同的数据集和量度。 每个区域都与您选择查看的报告主题相关。
+每个分析区域在[!UICONTROL Revenue Explorer]中包含不同的数据集和量度。 每个区域都与您选择查看的报告主题相关。
 
 ## 项目分析领域 {#program-analysis-areas}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 * **机会影响分析器** — 通过衡量产生机会的计划和关键参与的影响来证明营销的贡献。
 
-## 报表选项 {#report-options}
+## [!UICONTROL Report Options] {#report-options}
 
 在每个报表中，都有多个选项可帮助您自定义体验。
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 >
 >Revenue Cycle Explorer中的数据每晚都会从您的Marketo实例中进行更新。 因此，您在Marketo中人员和帐户活动发生的任何更改都将反映在Revenue Cycle Explorer的下一个工作日中。
 
-熟悉Revenue Analytics将使您充分了解您的项目及其影响。
+熟悉Revenue Analytics将使您全面了解insight中的项目及其影响。

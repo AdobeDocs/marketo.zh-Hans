@@ -4,9 +4,9 @@ description: 令牌概述 — Marketo文档 — 产品文档
 title: 令牌概述
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->使用Marketo的电子邮件编辑器时，令牌在预标头中无法使用。 要在预标头中使用令牌，必须通过在电子邮件模板中使用您自己的HTML来使用此令牌。
+>使用Marketo的电子邮件编辑器时，令牌在预标头中无法使用。 要在预标头中使用令牌，必须通过在电子邮件模板中通过您自己的HTML来使用。
 
 >[!NOTE]
 >
@@ -157,9 +157,9 @@ ht-degree: 0%
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## 我的令牌 {#my-tokens}
+## [!UICONTROL My Tokens] {#my-tokens}
 
-我的令牌在程序中定义，以`{{my.`开头，后跟您为该令牌创建的名称。 了解有关程序中[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)的更多信息。
+[!UICONTROL My Tokens]在项目中定义，以`{{my.`开头，后跟您为令牌创建的名称。 了解有关程序中[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)的更多信息。
 
 ## 成员令牌 {#member-token}
 

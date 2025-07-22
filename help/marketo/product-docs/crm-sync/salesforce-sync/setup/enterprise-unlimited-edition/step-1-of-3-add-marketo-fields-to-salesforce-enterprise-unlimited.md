@@ -4,42 +4,42 @@ description: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enter
 title: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 7%
+source-wordcount: '719'
+ht-degree: 8%
 
 ---
 
-# 第1步（共3步）：将Marketo字段添加到Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# 第1步（共3步）：将Marketo字段添加到[!DNL Salesforce] (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
->您必须有权访问Salesforce API，才能在Marketo Engage和Salesforce之间同步。
+>您必须有权访问[!DNL Salesforce] API才能在Marketo和[!DNL Salesforce]之间同步。
 
-Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您希望在Salesforce中使用此数据，请按照以下说明操作。
+Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您希望在[!DNL Salesforce]中使用此数据，请按照下面的说明操作。
 
-1. 在Salesforce中针对潜在客户和联系人对象创建三个自定义字段：“得分”、“客户获取计划”和“客户获取日期”。
-1. 在潜在客户和联系人之间映射这些自定义字段，以便在Salesforce中进行转化时，值会延续。
+1. 在[!DNL Salesforce]中针对潜在客户和联系人对象创建三个自定义字段：“得分”、“客户获取计划”和“客户获取日期”。
+1. 在潜在客户和联系人之间映射这些自定义字段，以便在[!DNL Salesforce]中的转化时，值会延续。
 1. 如有必要，您可以创建其他附加字段（请参阅下表）。
 
-所有这些自定义字段都是可选的，并且不是同步Marketo和Salesforce的必需字段。 作为最佳实践，我们建议您为“得分”、“客户获取计划”和“客户获取日期”创建字段。
+所有这些自定义字段都是可选的，不需要这些字段来同步Marketo和[!DNL Salesforce]。 作为最佳实践，我们建议您为“得分”、“客户获取计划”和“客户获取日期”创建字段。
 
-## 将Marketo字段添加到Salesforce {#add-marketo-fields-to-salesforce}
+## 将Marketo字段添加到[!DNL Salesforce] {#add-marketo-fields-to-salesforce}
 
-在上面列出的Salesforce中的潜在客户和联系人对象中添加三个自定义字段。 如果要添加更多字段，请参阅本节末尾的可用字段表。
+在以上列出的[!DNL Salesforce]中的潜在客户和联系人对象中添加三个自定义字段。 如果要添加更多字段，请参阅本节末尾的可用字段表。
 
 对三个自定义字段中的每一个执行以下步骤以添加它们。 从得分开始。
 
-1. 登录到Salesforce，然后单击&#x200B;**[!UICONTROL 设置]**。
+1. 登录到[!DNL Salesforce]并单击&#x200B;**[!UICONTROL Setup]**。
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. 在左侧的[!UICONTROL 生成]菜单中，单击&#x200B;**[!UICONTROL 自定义]**&#x200B;并选择&#x200B;**[!UICONTROL 潜在客户]**。 单击&#x200B;**[!UICONTROL 字段]**。
+1. 在左侧的“生成”菜单中，单击&#x200B;**[!UICONTROL Customize]**&#x200B;并选择&#x200B;**[!UICONTROL Leads]**。 单击 **[!UICONTROL Fields]**。
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. 在页面底部的“自定义字段和关系”部分中单击&#x200B;**[!UICONTROL 新建]**。
+1. 单击页面底部“自定义字段和关系”部分中的&#x200B;**[!UICONTROL New]**。
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -47,11 +47,11 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. 为字段输入[!UICONTROL 字段标签]、[!UICONTROL 长度]和[!UICONTROL 字段名称]，如下表所示。
+1. 为字段输入[!UICONTROL Field Label]、[!UICONTROL Length]和[!UICONTROL Field Name]，如下表所示。
 
 <table> 
  <thead> 
@@ -98,7 +98,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 >[!NOTE]
 >
->当Salesforce使用字段名称创建API名称时，会将__c附加到字段名称。
+>[!DNL Salesforce]在创建API名称时将__c附加到字段名称。
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -106,18 +106,18 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 >
 >文本和数字字段需要长度，但日期/时间字段不需要。说明是可选的。
 
-1. 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. 指定访问设置并单击&#x200B;**[!UICONTROL 下一步]**：
+1. 指定访问设置并单击&#x200B;**[!UICONTROL Next]**：
 
-   * 将所有角色设置为&#x200B;**[!UICONTROL 可见]**&#x200B;和&#x200B;**[!UICONTROL 只读]**
+   * 将所有角色设置为&#x200B;**[!UICONTROL Visible]**&#x200B;和&#x200B;**[!UICONTROL Read-Only]**
 
-   * 清除同步用户配置文件的&#x200B;**[!UICONTROL 只读]**&#x200B;复选框：
+   * 清除同步用户配置文件的&#x200B;**[!UICONTROL Read-Only]**&#x200B;复选框：
 
-      * 如果您的用户具有&#x200B;_系统管理员_&#x200B;的配置文件作为同步用户，请清除系统管理员配置文件的&#x200B;**[!UICONTROL 只读]**&#x200B;复选框（如下所示）
-      * 如果您为同步用户创建了&#x200B;_自定义配置文件_，请清除该自定义配置文件的&#x200B;**[!UICONTROL 只读]**&#x200B;复选框
+      * 如果您的用户具有&#x200B;_系统管理员_&#x200B;的配置文件作为同步用户，请清除系统管理员配置文件的&#x200B;**[!UICONTROL Read-Only]**&#x200B;复选框（如下所示）
+      * 如果您为同步用户创建了&#x200B;_自定义配置文件_，请清除该自定义配置文件的&#x200B;**[!UICONTROL Read-Only]**&#x200B;复选框
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. 单击&#x200B;**[!UICONTROL 保存并新建]**&#x200B;以返回并创建其他两个自定义字段。 完成全部三个操作后，单击&#x200B;**[!UICONTROL 保存]**。
+1. 单击&#x200B;**[!UICONTROL Save & New]**&#x200B;返回并创建其他两个自定义字段。 完成全部三个操作后，单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. 在左侧的“生成”菜单中，单击&#x200B;**[!UICONTROL 自定义]**&#x200B;并选择“联系人”。 单击“Fields（字段）”。
+1. 在左侧的“生成”菜单中，单击&#x200B;**[!UICONTROL Customize]**&#x200B;并选择“联系人”。 单击 [!UICONTROL Fields]。
 1. 对联系对象的“得分”、“客户获取日期”和“客户获取计划”字段执行步骤3至10，就像对潜在客户对象执行操作一样。
 1. 或者，将上述过程用于此表的任何其他自定义字段。
 
@@ -238,21 +238,21 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 >[!NOTE]
 >
->创建新字段后，Marketo自动分配的字段中的值将无法立即在Salesforce中使用。 下次更新任一系统上的记录时(即，更新在Salesforce和Marketo之间同步的任何字段)，Marketo都会将数据同步到Salesforce。
+>创建新字段后，Marketo自动分配的字段中的值将不能立即在[!DNL Salesforce]中使用。 下次更新任一系统上的记录时(即更新Marketo与[!DNL Salesforce]之间同步的任何字段)，Marketo会将数据同步到[!DNL Salesforce]。
 
 ## 映射用于转换的自定义字段 {#map-custom-fields-for-conversions}
 
-Salesforce中商机对象上的自定义字段应映射到联系人对象上的联系人字段，以便在发生转化时保留数据。
+[!DNL Salesforce]中商机对象上的自定义字段应映射到联系人对象上的联系人字段，以便在发生转化时保留数据。
 
-1. 单击右上角的&#x200B;**[!UICONTROL 设置]**。
+1. 单击右上角的&#x200B;**[!UICONTROL Setup]**。
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. 在导航搜索中键入“Fields”，而不按Enter。 字段显示在不同的对象下；单击“潜在客户”下的&#x200B;**[!UICONTROL 字段]**。
+1. 在导航搜索中键入“Fields”，而不按Enter。 字段显示在不同的对象下；单击&#x200B;**[!UICONTROL Fields]**&#x200B;下的[!UICONTROL Leads]。
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. 转到“潜在客户自定义字段和关系”部分，然后单击&#x200B;**[!UICONTROL 映射潜在客户字段]**。
+1. 转到[!UICONTROL Lead Custom Fields & Relationships]部分并单击&#x200B;**[!UICONTROL Map Lead Fields]**。
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -266,8 +266,10 @@ Salesforce中商机对象上的自定义字段应映射到联系人对象上的�
 
 1. 对创建的任何其他字段重复上述步骤。
 
-1. 完成后单击&#x200B;**[!UICONTROL 保存]**。
+1. 完成后，单击&#x200B;**[!UICONTROL Save]**。
+
+   够简单了吧？
 
 >[!MORELIKETHIS]
 >
->[第2步（共3步）：为Marketo (Enterprise/Unlimited)创建Salesforce用户](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>[第2步（共3步）：为Marketo (Enterprise/Unlimited)创建 [!DNL Salesforce] 用户](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

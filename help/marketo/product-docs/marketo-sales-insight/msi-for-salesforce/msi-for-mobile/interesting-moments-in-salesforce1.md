@@ -4,28 +4,28 @@ description: Salesforce1中的有趣时刻 — Marketo文档 — 产品文档
 title: Salesforce1中的有趣时刻
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# Salesforce1中的有趣时刻 {#interesting-moments-in-salesforce}
+# [!DNL Salesforce1]中的有趣时刻 {#interesting-moments-in-salesforce}
 
-[使用有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)是通过Marketo Sales Insight应用程序与您的销售团队进行沟通的关键。 现在，借助Marketo Sales Insight for Salesforce1，您可以对智能手机执行相同的操作！
+[使用有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)是通过Marketo Sales Insight应用程序与您的销售团队通信的关键。 现在，使用[!DNL Marketo Sales Insight]的[!DNL Salesforce1]，您可以对智能手机执行相同的操作！
 
 >[!AVAILABILITY]
 >
->这些功能仅适用于Marketo Sales Insight客户。
+>这些仅对[!DNL Marketo Sales Insight]客户可用。
 
-1. 在智能手机上，打开Salesforce应用程序。
+1. 在智能手机上，打开[!DNL Salesforce]应用。
 
 1. 导航到潜在客户。
 
    ![](assets/one.png)
 
-1. 单击“**相关**”选项卡查看有趣的时刻、Web活动、电子邮件和得分。
+1. 单击&#x200B;**[!UICONTROL Related]**&#x200B;选项卡可查看有趣的时刻、Web活动、电子邮件和得分。
 
    ![](assets/two.png)
 

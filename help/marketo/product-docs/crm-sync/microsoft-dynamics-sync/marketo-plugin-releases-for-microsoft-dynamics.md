@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10099389
-description: 适用于Microsoft Dynamics的Marketo插件版本 — Marketo文档 — 产品文档
-title: 适用于Microsoft Dynamics的Marketo插件版本
+description: 适用于 [!DNL Microsoft Dynamics] 的Marketo插件版本 — Marketo文档 — 产品文档
+title: 适用于 [!DNL Microsoft Dynamics]的Marketo插件版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
 
-# 适用于Microsoft Dynamics的Marketo插件版本 {#marketo-plugin-releases-for-microsoft-dynamics}
+# 适用于[!DNL Microsoft Dynamics]的Marketo插件版本 {#marketo-plugin-releases-for-microsoft-dynamics}
 
-首次同步到Microsoft Dynamics时，您将下载Marketo的最新版本插件。 Marketo会定期更新这些插件，以便您能够返回到相同位置下载新版本。
+首次同步到[!DNL Microsoft Dynamics]时，您将下载Marketo插件的最新版本。 Marketo会定期更新这些插件，以便您能够返回到相同位置下载新版本。
 
-[下载与您的Dynamics版本对应的最新插件](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。
+[下载与您的](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)版本对应的最新插件[!DNL Dynamics]。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## 正在更新您的Dynamics解决方案 {#updating-your-dynamics-solution}
+## 正在更新您的[!DNL Dynamics]解决方案 {#updating-your-dynamics-solution}
 
-1. 在现有Dynamics CRM版本上导入最新版本的解决方案（例如：如果Dynamics CRM的版本为1.4，而最新版本为1.5，则您将导入&#x200B;_而不是_&#x200B;版本1.4）。
+1. 在您的[!DNL Dynamics] CRM的现有版本上导入最新版本的解决方案（例如：如果您的[!DNL Dynamics] CRM的版本是1.4，而最新版本是1.5，则您应该导入&#x200B;_的版本，而不是_&#x200B;的版本1.4）。
 
 1. 您将看到以下弹出窗口。 选择&#x200B;**更新**&#x200B;和&#x200B;**维护自定义项**，然后单击&#x200B;**导入**。
 
@@ -31,14 +31,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这些版本适用于Dynamics的内部部署和在线版本。
+>这些版本适用于[!DNL Dynamics]的内部部署和联机版本。
 
 <table> 
  <tbody> 
   <tr> 
    <th style="width:15%">版本</th> 
    <th style="width:20%">发行日期</th> 
-   <th style="width:65%">备注</th> 
+   <th style="width:65%">注释</th> 
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
@@ -51,31 +51,29 @@ ht-degree: 0%
    <td>错误修复：修复了阻止在MS Dynamics上合并联系人的错误。</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.8</td> 
-   <td>03/27/23</td> 
-   <td>错误修复：阻止插件覆盖MS Dynamics中UI元素上的其他自定义项。
-   <p>
-   错误修复：恢复了5.0.1.1中缺失的导航图块。</td> 
+   <td colspan="1">4.2.0.0</td> 
+   <td colspan="1">10/16/20</td> 
+   <td colspan="1">添加了对MS [!DNL Dynamics]的Campaign同步的支持。</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.1</td> 
-   <td>02/04/21</td> 
-   <td>支持多选选项集字段同步（此功能仅适用于V9.X及更高版本）。</td> 
+   <td colspan="1">4.0.0.24</td> 
+   <td colspan="1">8/22/18</td> 
+   <td colspan="1">添加了对开箱即用型的支持，使潜在客户有资格联系[!DNL Microsoft Dynamics]版本9.x的流程。</td> 
   </tr> 
   <tr> 
-   <td>4.2.0.0</td> 
-   <td>10/16/20</td> 
-   <td>添加了对Campaign与MS Dynamics同步的支持。</td> 
+   <td colspan="1">4.0.0.23</td> 
+   <td colspan="1">6/27/18</td> 
+   <td colspan="1">错误修复：尝试为[!DNL Dynamics] 2013安装Marketo解决方案时出现业务流程错误。</td> 
   </tr> 
   <tr> 
    <td>4.0.0.24</td> 
    <td>8/22/18</td> 
-   <td>为开箱即用型添加支持，使潜在客户能够联系Microsoft Dynamics版本9.x的流程。</td> 
+   <td>添加了对开箱即用型的支持，使潜在客户有资格联系Microsoft Dynamics版本9.x的流程。</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.23</td> 
-   <td>6/27/18</td> 
-   <td>错误修复：尝试安装适用于Dynamics 2013的Marketo解决方案时出现业务流程错误。</td> 
+   <td colspan="1"><p>4.0.0.21</p></td> 
+   <td colspan="1">11/9/16</td> 
+   <td colspan="1">错误修复：插件未订阅捕获自定义对象状态更改的事件。 此修复特定于[!DNL Dynamics] CRM On Premise 2011。 </td> 
   </tr> 
   <tr> 
    <td>4.0.0.22</td> 
@@ -118,14 +116,14 @@ ht-degree: 0%
    <td>错误修复：客户无法在CRM中创建潜在客户，因为登录用户没有Marketo配置权限。</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.14</td> 
-   <td>1/18/16</td> 
-   <td>错误修复：为普通Dynamics用户创建了访问限制以解决安全问题。</td> 
+   <td colspan="1">4.0.0.14</td> 
+   <td colspan="1">1/18/16</td> 
+   <td colspan="1">错误修复：为普通[!DNL Dynamics]用户创建了访问限制以解决安全问题。</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.13</td> 
-   <td>12/30/15</td> 
-   <td>错误修复： Dynamics中的更新未同步到Marketo以获取步骤和图像。</td> 
+   <td colspan="1">4.0.0.13</td> 
+   <td colspan="1">12/30/15</td> 
+   <td>错误修复： [!DNL Dynamics]中的更新未同步到Marketo以获取步骤和图像。</td> 
   </tr> 
   <tr> 
    <td>4.0.0.12</td> 

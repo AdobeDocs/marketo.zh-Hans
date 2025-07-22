@@ -4,9 +4,9 @@ description: 查看推送通知功能板 — Marketo文档 — 产品文档
 title: 查看推送通知仪表板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 很容易看到您的推送通知的执行情况。
 
-1. 转到&#x200B;**营销活动**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. 单击&#x200B;**查看：摘要**&#x200B;并选择&#x200B;**仪表板**。
+1. 单击&#x200B;**[!UICONTROL View: Summary]**&#x200B;并选择&#x200B;**[!UICONTROL Dashboard]**。
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. 您可以用圆圈图查看iOS和Android的“已发送总次数”和“总点击次数”。 向下滚动以查看条形图中的“衰减”图标。
+1. 您可以在圆形图中查看iOS和Android的[!UICONTROL Total Sent]和[!UICONTROL Total Taps]。 向下滚动以查看条形图中的[!UICONTROL Tap Decay]。
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

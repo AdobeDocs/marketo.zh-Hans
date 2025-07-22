@@ -4,9 +4,9 @@ description: 自定义取消订阅链接消息 — Marketo文档 — 产品文�
 title: 自定义取消订阅链接消息
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您不能在Sales Connect中使用第三方取消订阅链接，因为此信息不会被捕获回我们的数据库中。
+>您不能对[!DNL Sales Connect]使用第三方取消订阅链接，因为此信息不会被捕获回我们的数据库中。
 
 ## 为您自己自定义消息传送 {#customize-messaging-for-yourself}
 
-1. 登录到[Web应用程序](https://toutapp.com/login)，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
+1. 登录到[Web应用程序](https://toutapp.com/login)，单击右上角的齿轮图标，然后选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one.png)
 
-1. 在我的帐户下，选择&#x200B;**取消订阅**。
+1. 在[!UICONTROL My Account]下，选择&#x200B;**[!UICONTROL Unsubscribes]**。
 
    ![](assets/two-1.png)
 
@@ -41,24 +41,24 @@ ht-degree: 0%
    >
    >被超链接的URL是什么并不重要。 发送电子邮件后，该超链接将转换为我们的取消订阅链接。
 
-1. 单击&#x200B;**确定**。
+1. 单击 **[!UICONTROL OK]**。
 
    ![](assets/five.png)
 
 ## 为您的团队设置取消订阅消息 {#set-unsubscribe-messaging-for-your-team}
 
-1. 登录到[Web应用程序](https://toutapp.com/login)，单击右上角的齿轮图标，然后选择&#x200B;**设置**。
+1. 登录到[Web应用程序](https://toutapp.com/login)，单击右上角的齿轮图标，然后选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/six.png)
 
-1. 在“管理设置”下，选择&#x200B;**取消订阅**。
+1. 在[!UICONTROL Admin Settings]下，选择&#x200B;**[!UICONTROL Unsubscribes]**。
 
    ![](assets/eight.png)
 
-1. 自定义您的消息，完成后，单击&#x200B;**保存**。
+1. 自定义您的消息，完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/seven.png)
 
-1. 选择&#x200B;**我正在为我的团队**&#x200B;设置默认消息传送以将消息传送应用于所有用户。
+1. 选择&#x200B;**[!UICONTROL I am setting the default messaging for my team]**&#x200B;以将消息应用到所有用户。
 
    ![](assets/eleven.png)

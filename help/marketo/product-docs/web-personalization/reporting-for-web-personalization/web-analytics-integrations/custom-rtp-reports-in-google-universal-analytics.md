@@ -4,10 +4,10 @@ description: Google Universal Analytics中的自定义RTP报表 — Marketo文�
 title: Google Universal Analytics中的自定义RTP报表
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 2%
+source-wordcount: '362'
+ht-degree: 3%
 
 ---
 
@@ -22,13 +22,13 @@ ht-degree: 2%
 * RTP B2B
 * RTP参与
 
-## 设置自定义报表 {#setting-up-a-custom-report}
+## 设置[!UICONTROL Custom Report] {#setting-up-a-custom-report}
 
 1. 登录到Google Analytics。
 
-1. 单击顶部菜单中的&#x200B;**自定义**。
+1. 单击顶部菜单中的&#x200B;**[!UICONTROL Customization]**。
 
-1. 单击&#x200B;**+新建自定义报告**。
+1. 单击 **[!UICONTROL New Custom Report]**。
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -36,17 +36,17 @@ ht-degree: 2%
 
 1. 命名报告&#x200B;**RTP B2B报告**。
 
-1. 将第一个选项卡命名为&#x200B;**行业**。
+1. 命名第一个选项卡&#x200B;**[!UICONTROL Industry]**。
 
 >[!NOTE]
 >
 >您将&#x200B;**复制此选项卡**&#x200B;并创建其他类似选项卡 — 步骤5)
 
-1. 选择&#x200B;**资源管理器**&#x200B;报告类型。
+1. 选择&#x200B;**[!UICONTROL Explorer]**&#x200B;报表类型。
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. 在&#x200B;**指标组**&#x200B;部分中，选择与您的业务相关的指标。
+1. 在&#x200B;**[!UICONTROL Metric Groups]**&#x200B;部分中，选择与您的业务相关的量度。
 
    a.我们建议如下：
 
@@ -62,7 +62,7 @@ ht-degree: 2%
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. 在&#x200B;**Dimension细化**&#x200B;部分中，为每个选项卡设置相关维度，如下所示。
+1. 在&#x200B;**Dimension向下钻取**&#x200B;部分中，为每个选项卡设置相关维度，如下所示。
 
 <table> 
  <thead> 
@@ -101,9 +101,9 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-1. 请勿设置任何筛选器，并将此报表设置为可用于&#x200B;**所有网站数据**（或者在与特定Analytics帐户相关时进行更改）。
+1. 请勿设置任何过滤器，并将此报表设置为可供&#x200B;**[!UICONTROL All Web Site Data]**&#x200B;使用（或者在与特定Analytics帐户相关时进行更改）。
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
@@ -111,17 +111,17 @@ ht-degree: 2%
 
 1. 命名报告&#x200B;**RTP参与报告**。
 
-1. 将第一个选项卡名称设置为&#x200B;**所有参与**。
+1. 将第一个选项卡名称设置为&#x200B;**[!UICONTROL All Engagement]**。
 
 >[!NOTE]
 >
 >您将复制此选项卡并创建其他类似选项卡 — 步骤5)
 
-1. 选择&#x200B;**资源管理器**&#x200B;报告类型。
+1. 选择&#x200B;**[!UICONTROL Explorer]**&#x200B;报表类型。
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. 在指标组部分，选择与您的业务相关的指标。 以下是建议：
+1. 在[!UICONTROL Metric Groups]部分中，选择与您的业务相关的量度。 以下是建议：
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -135,7 +135,7 @@ ht-degree: 2%
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. 在&#x200B;**Dimension细化**&#x200B;部分中，为每个选项卡设置相关维度，如下所示：
+1. 在&#x200B;**Dimension向下钻取**&#x200B;部分中，为每个选项卡设置相关维度，如下所示：
 
 <table> 
  <thead> 
@@ -204,26 +204,26 @@ ht-degree: 2%
  <tbody> 
   <tr> 
    <td><p>包括</p></td> 
-   <td><p>事件类别</p></td> 
-   <td>正则表达式</td> 
+   <td><p><span class="uicontrol">事件类别</span></p></td> 
+   <td>Regex</td> 
    <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
    <td colspan="1">将筛选所有与RTP无关的其他自定义事件</td> 
   </tr> 
   <tr> 
    <td>排除</td> 
-   <td>事件标签</td> 
-   <td>正则表达式</td> 
+   <td><span class="uicontrol">事件标签</span></td> 
+   <td>Regex</td> 
    <td>#</td> 
    <td colspan="1">允许使用营销活动名称中的#从报表营销活动中进行筛选</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. 将此报告设置为可用于&#x200B;**所有网站数据**（或在必要时进行更改）。
+1. 将此报告设置为可用于&#x200B;**[!UICONTROL All Web Site Data]**（或在必要时更改）。
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

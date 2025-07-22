@@ -4,9 +4,9 @@ description: 设置Facebook潜在客户广告 — Marketo文档 — 产品文档
 title: 设置Facebook潜在客户广告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. 为您的服务输入&#x200B;**显示名称**，从下拉列表中选择&#x200B;**Facebook潜在客户广告**&#x200B;服务，然后单击&#x200B;**创建**。
+1. 为您的服务输入&#x200B;**[!UICONTROL Display Name]**，从下拉列表中选择&#x200B;**[!UICONTROL Facebook Lead Ads]**&#x200B;服务，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
@@ -39,31 +39,31 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Facebook帐户将需要访问您想要从中提取潜在客户广告的所有Facebook业务页面。
+   >[!DNL Facebook]帐户将需要访问您想要从中提取潜在客户广告的所有[!DNL Facebook]业务页面。
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. 登录Facebook后，返回Marketo并单击&#x200B;**授权**。
+1. 登录[!DNL Facebook]后，返回Marketo并单击&#x200B;**[!UICONTROL Authorize]**。
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. 如果出现提示，请单击&#x200B;**确定**&#x200B;接受Marketo应用程序安装到Facebook中。
+1. 如果出现提示，请单击&#x200B;**[!UICONTROL OK]**&#x200B;接受Marketo应用程序安装到[!DNL Facebook]中。
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. 您会发现您现在已获得授权。 单击&#x200B;**下一步**。
+1. 您会发现您现在已获得授权。 单击 **[!UICONTROL Next]**。
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. 选择您希望Marketo从中提取Facebook潜在客户广告的页面，然后单击&#x200B;**下一步**。
+1. 选择您希望Marketo从中提取[!UICONTROL Facebook Lead Ads]的页面，然后单击&#x200B;**[!UICONTROL Next]**。
 
    >[!TIP]
    >
-   >如果您没有看到预期的页面，请确保将用于身份验证的Facebook帐户已添加到Facebook的页面中，然后重试。
+   >如果您没有看到预期的页面，请确保用于身份验证的[!DNL Facebook]帐户已添加到[!DNL Facebook]上的页面，然后重试。
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. 要接受默认的Facebook到Marketo字段映射，只需单击&#x200B;**创建**。
+1. 要接受默认的[!DNL Facebook]到Marketo字段映射，只需单击&#x200B;**[!UICONTROL Create]**&#x200B;即可。
 
    >[!TIP]
    >
@@ -71,11 +71,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo不支持将两个Facebook字段映射到单个Marketo字段，仅支持从1到1。 如果将2映射到1，则潜在客户可能无法进入Marketo系统。
+   >Marketo不支持将两个[!DNL Facebook]字段映射到单个Marketo字段，仅支持从1到1。 如果将2映射到1，则潜在客户可能无法进入Marketo系统。
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   做得好！ 当您成功开展Facebook潜在客户广告营销活动时，潜在客户将开始流入Marketo。
+   做得好！ 当您成功运行[!DNL Facebook]个潜在客户广告营销活动时，潜在客户将开始流入Marketo。
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

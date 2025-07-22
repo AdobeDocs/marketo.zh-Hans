@@ -4,9 +4,9 @@ description: 在自由格式登陆页面中使用动态内容 — Marketo文档 
 title: 在自由格式登陆页面中使用动态内容
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -23,23 +23,23 @@ ht-degree: 0%
 
 ## 添加分段 {#add-segmentation}
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 选择您的登陆页面，然后单击&#x200B;**编辑草稿**。
+1. 选择您的登陆页面，然后单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-1. 单击&#x200B;**分段依据**。
+1. 单击 **[!UICONTROL Segment By]**。
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
-1. 输入分段名称，然后单击&#x200B;**保存**。
+1. 输入[!UICONTROL Segmentation]名称并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-1. 您的区段及其区段会显示在右侧的“动态”下方。
+1. 您的分段及其分段显示在右侧的[!UICONTROL Dynamic]下方。
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
 ## 使元素成为动态元素 {#make-element-dynamic}
 
-1. 将动态内容元素从&#x200B;**Static**&#x200B;下拖放到&#x200B;**Dynamic**。
+1. 将动态内容元素从&#x200B;**[!UICONTROL Static]**&#x200B;下拖放到&#x200B;**[!UICONTROL Dynamic]**。
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. 您还可以使元素&#x200B;**设置**&#x200B;中的元素&#x200B;**Static**&#x200B;或&#x200B;**Dynamic**。
+1. 您还可以从元素&#x200B;**[!UICONTROL Static]**&#x200B;生成元素&#x200B;**[!UICONTROL Dynamic]**&#x200B;或&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## 应用动态内容 {#apply-dynamic-content}
 
-1. 在区段下选择一个元素，单击“设置”图标，然后单击“**编辑**”。 对每个区段重复执行上述步骤。
+1. 选择区段下的元素，单击“设置”图标，然后单击&#x200B;**[!UICONTROL Edit]**。 对每个区段重复执行上述步骤。
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 

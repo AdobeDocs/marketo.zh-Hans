@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11382829
-description: Marketo Outlook插件由IT卸载 — Marketo文档 — 产品文档
-title: Marketo Outlook插件由IT卸载
+description: Marketo [!DNL Outlook] IT卸载插件 — Marketo文档 — 产品文档
+title: Marketo [!DNL Outlook] 插件由IT卸载
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 2%
 
 ---
 
-# Marketo Outlook插件由IT卸载 {#marketo-outlook-plugin-uninstall-by-it}
+# Marketo [!DNL Outlook]插件由IT卸载 {#marketo-outlook-plugin-uninstall-by-it}
 
-以下是IT如何远程卸载Marketo Outlook插件。
+以下是IT如何远程卸载Marketo [!DNL Outlook]插件。
 
 以“System”形式运行以下命令行，或者运行带有/x开关的管理用户帐户来卸载。
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->远程卸载插件将强制关闭用户计算机上的Outlook。
+>远程卸载插件将强制关闭用户计算机上的[!DNL Outlook]。
 
 如果要尝试不同的日志记录级别或用户界面级别，请参阅[Microsoft的完整交换机列表](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)。

@@ -4,9 +4,9 @@ description: 编辑电子邮件的预测内容 — Marketo文档 — 产品文�
 title: 编辑电子邮件的预测内容
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->在“所有内容”页面上，预测内容[&#128279;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为批准。
+>[页面上的预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为[!UICONTROL All Content]批准。
 
-1. 在“预测内容”页面上，单击标题以打开编辑器。
+1. 在[!UICONTROL Predictive Content]页面上，单击标题以打开编辑器。
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. 编辑页面将打开。 默认显示&#x200B;**电子邮件**。
+1. 编辑页面将打开。 默认显示&#x200B;**[!UICONTROL Email]**。
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >如果更改了按钮标签，则在保存更改或预览图像时，按钮标签将会更新。
 
-1. 要添加或编辑图像URL，请单击&#x200B;**编辑图像**。
+1. 要添加或编辑图像URL，请单击&#x200B;**[!UICONTROL Edit Image]**。
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >为确保最佳质量，图像必须等于或小于400x400像素。
 
-1. 插入图像URL并单击&#x200B;**添加**。
+1. 插入图像URL并单击&#x200B;**[!UICONTROL Add]**。
 
    ![](assets/five.png)
 
-1. 单击并拖动滑块可更改图像大小。 然后单击并拖动裁剪框以隔离要使用的所需图像区域。 完成后单击&#x200B;**预览**。
+1. 单击并拖动滑块可更改图像大小。 然后单击并拖动裁剪框以隔离要使用的所需图像区域。 完成后单击&#x200B;**[!UICONTROL Preview]**。
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. （可选）单击&#x200B;**类别**&#x200B;字段并将类别添加到内容中。 选项来自您已设置的[类别](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)。
+1. （可选）单击&#x200B;**[!UICONTROL Categories]**&#x200B;字段并将类别添加到内容中。 选项来自您已设置的[类别](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)。
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/save.png)
 

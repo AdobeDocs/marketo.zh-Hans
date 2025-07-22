@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12981204
-description: 预测内容分析概述 — Marketo文档 — 产品文档
+description: Predictive Content Analytics概述 — Marketo文档 — 产品文档
 title: Predictive Content Analytics概述
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Analytics选项卡和内容分析功能在Marketo Predictive Content中专门可用。
+>[!UICONTROL Analytics]选项卡和内容分析功能在Marketo Predictive Content中专门可用。
 
 ## 概述 {#overview}
 
-在“摘要”页面上，单击&#x200B;**Analytics**。
+在“摘要”页面上，单击&#x200B;**[!UICONTROL Analytics]**。
 
 ![](assets/one.png)
 
-Analytics包含多个部分：按查看次数排列的顶级内容、按转化率排列的顶级内容、趋势内容、建议内容和内容。
+[!UICONTROL Analytics]包含多个部分：[!UICONTROL Top Content by Views]、[!UICONTROL Top Content by Conversion Rate]、[!UICONTROL Trending Content]、[!UICONTROL Suggested Content]和[!UICONTROL Content]。
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ Analytics包含多个部分：按查看次数排列的顶级内容、按转化�
 
 ![](assets/new-3point5.png)
 
-您可以按各种属性/属性（例如ABM帐户列表、国家/地区等）筛选结果。
+您可以按各种属性/属性（如[!UICONTROL ABM Account List]、[!UICONTROL Country]等）筛选结果。
 
 ![](assets/pca.png)
 
@@ -45,13 +45,13 @@ Analytics包含多个部分：按查看次数排列的顶级内容、按转化�
 
 ![](assets/dates.png)
 
-## 按查看次数排名最前的内容 {#top-content-by-views}
+## [!UICONTROL Top Content by Views] {#top-content-by-views}
 
 按所选日期范围内的查看次数显示排名最前的内容片段。
 
 ![](assets/new-6.png)
 
-## 按转化率排在前面的内容 {#top-content-by-conversion-rate}
+## [!UICONTROL Top Content by Conversion Rate] {#top-content-by-conversion-rate}
 
 按转化率显示所选日期范围内的排名最前的转化内容。
 
@@ -63,13 +63,13 @@ Analytics包含多个部分：按查看次数排列的顶级内容、按转化�
 >
 >**转化率**：由直接转化除以点击量计算的百分比。
 
-## 趋势内容 {#trending-content}
+## [!UICONTROL Trending Content] {#trending-content}
 
 通过查看过去两周查看次数与去年同期相比的增加来显示内容片段人气激增。
 
 ![](assets/new-8.png)
 
-## 建议的内容 {#suggested-content}
+## [!UICONTROL Suggested Content] {#suggested-content}
 
 根据您定义的过滤器，显示我们建议您在营销活动中促销的内容。
 
@@ -81,9 +81,9 @@ Analytics包含多个部分：按查看次数排列的顶级内容、按转化�
 
 >[!NOTE]
 >
->看到底下的那些图标了吗？ 从左到右依次为：查看内容、导出到CSV、批准内容。
+>看到底下的那些图标了吗？ 从左到右分别是： [!UICONTROL View Content]、[!UICONTROL Export to CSV]、[!UICONTROL Approve Content]。
 
-## 内容 {#content}
+## [!UICONTROL Content] {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 

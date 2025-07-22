@@ -4,9 +4,9 @@ description: 保护订阅管理员设置 — Marketo文档 — 产品文档
 title: 保护订阅管理员设置
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 管理员可以选择要求登录才能查看报表。
 
-1. 单击&#x200B;**管理员**，然后单击&#x200B;**登录设置**。
+1. 单击&#x200B;**[!UICONTROL Admin]**，然后单击&#x200B;**[!UICONTROL Login Settings]**。
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. 单击&#x200B;**编辑**&#x200B;以获取智能列表报表设置。
+1. 单击&#x200B;**[!UICONTROL Edit]**&#x200B;以获取智能列表报表设置。
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. 选择&#x200B;**是**&#x200B;要求登录才能下载报表。
+1. 选择&#x200B;**[!UICONTROL Yes]**&#x200B;要求登录才能下载报告。
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

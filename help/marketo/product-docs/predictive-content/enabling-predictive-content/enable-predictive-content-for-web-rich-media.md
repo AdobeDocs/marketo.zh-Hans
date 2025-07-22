@@ -4,9 +4,9 @@ description: 为Web富媒体启用预测内容 — Marketo文档 — 产品文�
 title: 为Web富媒体启用预测内容
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -33,21 +33,21 @@ ht-degree: 0%
 
 准备好富媒体的内容标题、描述和图像后，您可以启用单个或多个内容片段。
 
-1. 要启用单个标题，请单击标题以打开编辑器。 单击富媒体，然后选中&#x200B;**启用富媒体中的预测内容**&#x200B;框并单击&#x200B;**保存**。
+1. 要启用单个标题，请单击标题以打开编辑器。 单击&#x200B;**[!UICONTROL Rich Media]**，然后选中&#x200B;**[!UICONTROL Enabled for Predictive Content in Rich Media]**&#x200B;框并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. 对于多个内容，在&#x200B;**预测内容**&#x200B;页面上，选中标题旁边的复选框。
+1. 对于多段内容，在&#x200B;**[!UICONTROL Predictive Content]**&#x200B;页面上，选中标题旁边的复选框。
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. 单击&#x200B;**内容操作**&#x200B;下拉列表，然后选择&#x200B;**为Web富媒体启用**。
+1. 单击&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Enable for Web Rich Media]**。
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## 自定义Javascript代码并将其嵌入您的网站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-请参阅Marketo开发人员网站[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上有关富媒体推荐模板的文档。 本部分说明如何自定义网站的模板。
+请参阅Marketo开发人员网站[上有关富媒体推荐模板](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}的文档。 本部分说明如何自定义网站的模板。
 
 将JavaScript代码粘贴到网站中您希望显示该模板的位置。
 

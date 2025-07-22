@@ -4,26 +4,26 @@ description: 在Salesforce中创建工作流规则 — Marketo文档 — 产品�
 title: 在Salesforce中创建工作流规则
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 0%
+source-wordcount: '393'
+ht-degree: 1%
 
 ---
 
 # 在Salesforce中创建工作流规则 {#creating-workflow-rules-in-salesforce}
 
-在并行使用Marketo Sales Insight (MSI)和Marketo Sales Connect (MSC)时，Salesforce中的MSI最佳匹配功能不会更新。 所有其他MSI功能均可正常使用（查看iFrame中的有趣时刻、发送电子邮件、添加到营销活动等）。 本文提供了使Best Bets再次正常工作的解决方法。
+并行使用Marketo Sales Insight (MSI)和Marketo Sales Connect (MSC)时，[!DNL Salesforce]中的MSI最佳匹配功能将不会更新。 所有其他MSI功能均可正常使用（查看iFrame中的有趣时刻、发送电子邮件、添加到营销活动等）。 本文提供了使Best Bets再次正常工作的解决方法。
 
 >[!NOTE]
 >
->这仅会影响同时使用&#x200B;**1&rbrace; MSI和MSE以及希望在MSI中使用最佳匹配功能的客户。**&#x200B;如果您不需要/使用“最佳匹配”，则可以忽略。
+>这仅会影响同时使用&#x200B;**1} MSI和MSE以及希望在MSI中使用最佳匹配功能的客户。**&#x200B;如果您不需要/使用“最佳匹配”，则可以忽略。
 
-## 快速入门 {#getting-started}
+## 开始使用 {#getting-started}
 
-解决方法包括创建新工作流规则，以将新MSE字段中的值复制到旧MSI字段中。 您需要为联系人对象创建四个工作流规则，并在自己的Salesforce实例中为潜在客户对象创建相同的四个工作流规则。 这可能会要求您拥有CRM管理员权限（具体取决于您在CRM中的角色和设置）。
+解决方法包括创建新工作流规则，以将新MSE字段中的值复制到旧MSI字段中。 您需要为联系人对象创建四个工作流规则，并为您自己的[!DNL Salesforce]实例中的潜在客户对象创建相同的四个工作流规则。 这可能会要求您拥有CRM管理员权限（具体取决于您在CRM中的角色和设置）。
 
-以下是工作流规则的建议名称和说明。 这些选项适用于Contact和Lead对象：
+以下是工作流规则的建议名称和说明。 这些参数适用于[!UICONTROL Contact]和[!UICONTROL Lead]对象：
 
 <table> 
  <colgroup> 
@@ -52,52 +52,52 @@ ht-degree: 0%
 
 ## 说明 {#instructions}
 
-1. 单击&#x200B;**设置**&#x200B;后，搜索&#x200B;**工作流**&#x200B;并选择&#x200B;**工作流规则**。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;后，搜索&#x200B;**工作流**&#x200B;并选择&#x200B;**[!UICONTROL Workflow Rules]**。
 
    ![](assets/one-1.png)
 
-1. 选择&#x200B;**新规则**。
+1. 选择 **[!UICONTROL New Rule]**。
 
    ![](assets/two-1.png)
 
-1. 单击“对象”下拉列表并选择&#x200B;**潜在客户**，然后单击&#x200B;**下一步**。
+1. 单击[!UICONTROL Object]下拉菜单并选择&#x200B;**[!UICONTROL Lead]**，然后单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/three-1.png)
 
-1. 输入“更新有趣的时间描述字段”作为规则名称。 选择单选按钮&#x200B;**已创建，并且每次都编辑**。 在“规则条件”下拉列表中选择&#x200B;**公式计算结果为true**。 搜索并选择ISCHANGED函数。 然后，突出显示默认字段值并单击&#x200B;**插入字段**。
+1. 输入“更新有趣的时刻描述字段”作为[!UICONTROL Rule Name]。 选择单选按钮&#x200B;**[!UICONTROL created, and every time it’s edited]**。 在[!UICONTROL Rule Criteria]下拉列表中选择&#x200B;**[!UICONTROL formula evaluates to true]**。 搜索并选择ISCHANGED函数。 然后，突出显示默认字段值并单击&#x200B;**[!UICONTROL Insert Field]**。
 
    ![](assets/four-1.png)
 
-1. 在“插入字段”弹出窗口中，选择&#x200B;**最后一个Marketo参与描述**，然后单击&#x200B;**插入**。
+1. 在[!UICONTROL Insert Field]弹出窗口中，选择&#x200B;**[!UICONTROL Last Marketo Engagement Desc]**&#x200B;并单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/five-1.png)
 
-1. 单击&#x200B;**保存和下一步**。
+1. 单击 **[!UICONTROL Save & Next]**。
 
    ![](assets/6.png)
 
-1. 在添加工作流操作下拉列表中，选择&#x200B;**新字段更新**。
+1. 在[!UICONTROL Add Workflow Action]下拉列表中，选择&#x200B;**[!UICONTROL New Field Update]**。
 
    ![](assets/seven.png)
 
-1. 在名称字段中，输入“更新有趣时刻描述字段”（唯一名称将自动生成）。 在“要更新的字段”下拉列表中，选择&#x200B;**上一个有趣时刻描述**。 选择&#x200B;**使用公式设置新值**&#x200B;单选按钮，然后单击&#x200B;**显示公式编辑器**。
+1. 在[!UICONTROL Name]字段中，输入“更新有趣时刻描述字段”（[!UICONTROL Unique Name]将自动生成）。 在[!UICONTROL Field to Update]下拉列表中，选择&#x200B;**[!UICONTROL Last Interesting Moment Desc]**。 选择&#x200B;**[!UICONTROL Use a formula to set new value]**&#x200B;单选按钮，然后单击&#x200B;**[!UICONTROL Show Formula Editor]**。
 
    ![](assets/eight.png)
 
-1. 单击&#x200B;**插入字段**&#x200B;按钮。
+1. 单击&#x200B;**[!UICONTROL Insert Field]**&#x200B;按钮。
 
    ![](assets/9a.png)
 
-1. 选择&#x200B;**最后一个Marketo参与描述**，然后单击&#x200B;**插入**。 在下一页，单击&#x200B;**保存**。
+1. 选择&#x200B;**[!UICONTROL Last Marketo Engagement Desc]**，然后单击&#x200B;**[!UICONTROL Insert]**。 在下一页，单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/nine.png)
 
-1. 单击&#x200B;**完成**。
+1. 单击 **[!UICONTROL Done]**。
 
    ![](assets/twelve.png)
 
-1. 单击&#x200B;**激活**&#x200B;以打开工作流规则。
+1. 单击&#x200B;**[!UICONTROL Activate]**&#x200B;以打开工作流规则。
 
    ![](assets/thirteen.png)
 
-   在上一步之后，您可以选择为快速入门部分列出的其他字段克隆工作流规则：说明、类型、Source、日期。 完成Contact对象中的四个工作流规则后，对Lead对象重复相同的操作。
+   在上一步之后，您可以选择克隆[!UICONTROL Getting Started]部分中列出的其他字段的工作流规则： Desc、Type、Source、Date。 在[!UICONTROL Contact]对象中完成四个工作流规则后，对[!UICONTROL Lead]对象重复相同的操作。

@@ -4,9 +4,9 @@ description: 使电子邮件可操作 — Marketo文档 — 产品文档
 title: 使电子邮件正常运行
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >运营电子邮件不计入通信限制。 例如，如果某人每周只能收到一封电子邮件，而您已经向他们发送了营销电子邮件，则您仍然可以在必要时向他们发送操作电子邮件。
 
-1. 找到您的电子邮件，选择它，然后单击&#x200B;**编辑草稿**。
+1. 查找您的电子邮件，选择它并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 >
 >您应仅将运营电子邮件用于关键电子邮件和自动响应者。 它们不适用于营销电子邮件。
 
-1. 编辑器打开后，单击&#x200B;**电子邮件设置**。
+1. 编辑器打开后，单击&#x200B;**[!UICONTROL Email Settings]**。
 
    ![](assets/two-1.png)
 
-1. 检查&#x200B;**操作电子邮件**&#x200B;并单击&#x200B;**保存**。
+1. 检查&#x200B;**[!UICONTROL Operational Email]**&#x200B;并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three.png)
 

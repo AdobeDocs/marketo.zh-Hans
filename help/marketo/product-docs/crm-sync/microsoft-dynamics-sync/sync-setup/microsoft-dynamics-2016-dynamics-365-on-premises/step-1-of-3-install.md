@@ -1,18 +1,18 @@
 ---
-description: 安装适用于Microsoft Dynamics 2016的Marketo/Dynamics 365内部部署1/3 - Marketo文档 — 产品文档
-title: 安装Marketo for Microsoft Dynamics 2016/Dynamics 365本地步骤1/3
+description: 安装Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365内部部署1/3 - Marketo文档 — 产品文档
+title: 安装Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365本地步骤1/3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 0%
+source-wordcount: '274'
+ht-degree: 1%
 
 ---
 
 # 步骤1（共3步）：为Marketo配置同步用户（2016内部部署/Dynamics 365内部部署） {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
-在将Microsoft Dynamics 2016内部部署/Dynamics 365与Marketo Engage同步之前，您需要先在Dynamics中安装Marketo解决方案。
+在将[!DNL Microsoft Dynamics] 2016内部部署/Dynamics 365与Marketo同步之前，需要先在Dynamics中安装Marketo解决方案。
 
 >[!NOTE]
 >
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->如果您正在使用Microsoft Dynamics内部部署，则必须配置[面向Internet的部署](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD)和[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS)。 注意：单击该链接时，会自动下载IFD文档。
+>如果您正在使用[!DNL Microsoft Dynamics]内部部署，则必须配置[面向Internet的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)和[Active Directory联合身份验证服务](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS)。 注意：单击该链接时，会自动下载IFD文档。
 >
 >在开始之前[下载Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。
 
 >[!NOTE]
 >
->**需要Dynamics管理员权限**。
+>需要&#x200B;**[!DNL Dynamics]管理员权限。**
 >
 >您需要CRM管理员权限才能执行此同步。
 
-1. 登录到Dynamics。 单击&#x200B;**[!UICONTROL Microsoft Dynamics CRM]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Settings]**。
+1. 登录到&#x200B;**[!DNL Dynamics]。**&#x200B;单击&#x200B;**[!DNL Microsoft Dynamics]CRM**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. 单击&#x200B;**[!UICONTROL Browse]**&#x200B;并选择您[下载的解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。 单击&#x200B;**下一步**。
+1. 单击&#x200B;**[!UICONTROL Browse]**&#x200B;并选择您[下载的解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -94,4 +94,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[安装Marketo for Dynamics 2015内部部署和2016 365内部部署步骤2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md){target="_blank"}
+   >[为 [!DNL Dynamics] 2015内部部署和2016 365内部部署安装Marketo第2步（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)

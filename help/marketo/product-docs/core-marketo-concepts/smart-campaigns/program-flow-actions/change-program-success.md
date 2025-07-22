@@ -4,9 +4,9 @@ description: 更改计划成功 — Marketo文档 — 产品文档
 title: 更改项目成功
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ ht-degree: 0%
 
    ![](assets/change-program-success-2.png)
 
-1. 选择&#x200B;**[!UICONTROL 成功]**&#x200B;或&#x200B;**[!UICONTROL 成功日期]**&#x200B;作为属性。
+1. 选择&#x200B;**[!UICONTROL Success]**&#x200B;或&#x200B;**[!UICONTROL Success Date]**&#x200B;作为属性。
 
    ![](assets/change-program-success-3.png)
 
    >[!NOTE]
    >
-   >将“成功日期”设置为任何值都会自动将“成功”设置为true。 将Success设置为true会自动将成功日期设置为当前日期。
+   >将[!UICONTROL Success Date]设置为任何内容都会自动将Success设置为true。 将[!UICONTROL Success]设置为true会自动将成功日期设置为当前日期。
 
-1. 将&#x200B;**[!UICONTROL 新值]**&#x200B;设置为&#x200B;**[!UICONTROL 真]**&#x200B;或&#x200B;**[!UICONTROL 假]**。
+1. 将&#x200B;**[!UICONTROL New Value]**&#x200B;设置为&#x200B;**[!UICONTROL True]**&#x200B;或&#x200B;**[!UICONTROL False]**。
 
    ![](assets/change-program-success-4.png)
 

@@ -4,10 +4,10 @@ description: 下载Marketo潜在客户管理解决方案 — Marketo文档 — �
 title: 下载Marketo商机管理解决方案
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-您需要下载一个Marketo Engage解决方案并将其安装到您的Microsoft Dynamics帐户中，才能开始同步。
+您需要下载Marketo解决方案并将其安装到您的[!DNL Microsoft Dynamics]帐户中才能开始同步。
 
 >[!CAUTION]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >Marketo目前仅支持与Java 7兼容的SSL证书。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
@@ -35,15 +35,15 @@ ht-degree: 0%
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. 选择&#x200B;**[!DNL Microsoft]**。
+1. 选择 **[!DNL Microsoft]**。
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. 选择&#x200B;**[!UICONTROL 下载Marketo解决方案]**。
+1. 选择 **[!UICONTROL Download Marketo Solution]**。
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. 为您的Microsoft Dynamics版本选择适当的解决方案。
+1. 为您的[!DNL Microsoft Dynamics]版本选择适当的解决方案。
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 

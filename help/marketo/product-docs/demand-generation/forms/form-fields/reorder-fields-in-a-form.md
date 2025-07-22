@@ -4,9 +4,9 @@ description: 在表单中对字段重新排序 — Marketo文档 — 产品文�
 title: 对表单中的字段重新排序
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '70'
 ht-degree: 2%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 2%
 
 在Marketo表单上重新排序字段很容易。 具体方法如下。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择您的表单并单击&#x200B;**编辑表单**。
+1. 选择您的表单并单击&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/editform.png)
 

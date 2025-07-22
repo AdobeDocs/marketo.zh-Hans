@@ -4,10 +4,10 @@ description: 使用字段管理器创建自定义字段组 — Marketo文档 —
 title: 使用字段管理器创建自定义字段组
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 2%
+source-wordcount: '951'
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 | 整数 | 整数 |
 | 文本 | 字符串 |
 | URL | 字符串 |
-| 引用 | 不支持 |
+| 参考 | 不支持 |
 | 货币 | 整数 |
 | 日期时间 | 日期 |
 | 布尔值 | 不支持 |
@@ -36,19 +36,19 @@ ht-degree: 2%
 
 ## 创建自定义字段组 — 字符串编辑器 {#create-custom-field-group-string-editor}
 
-1. 单击&#x200B;**潜在客户数据库**。
+1. 单击 **[!UICONTROL Lead Database]**。
 
    ![](assets/one.png)
 
-1. 单击&#x200B;**新建**，然后选择&#x200B;**新建字段管理器**。
+1. 单击&#x200B;**[!UICONTROL New]**，然后选择&#x200B;**[!UICONTROL New Field Organizer]**。
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**字段**&#x200B;并选择具有映射到字符串编辑器的数据类型的标准或自定义字段（请参阅上一节中的表）。 此处使用国家/地区。
+1. 单击&#x200B;**[!UICONTROL Field]**&#x200B;并选择具有映射到字符串编辑器的数据类型的标准或自定义字段（请参阅上一节中的表）。 此处使用了[!UICONTROL Country]。
 
    ![](assets/three.png)
 
-1. 单击&#x200B;**创建**。
+1. 单击 **[!UICONTROL Create]**。
 
    ![](assets/four.png)
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
    ![](assets/five.png)
 
-1. 默认情况下，所有数据值都放在“其他”子组中。 要对数据值进行分类，请单击&#x200B;**添加组**&#x200B;以创建子组并为其命名。
+1. 默认情况下，所有数据值都放在&quot;[!UICONTROL Other]&quot;子组中。 要对数据值进行分类，请单击&#x200B;**[!UICONTROL Add Group]**&#x200B;创建一个子组并为其命名。
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >要删除子组，只需单击子组名称旁边的红色X即可。 如果该组中有任何数据值，则数据值将被移动到默认的“其他”组。
+   >要删除子组，只需单击子组名称旁边的红色X即可。 如果该组中有任何数据值，则数据值将被移动到默认组[!UICONTROL Other]。
 
 1. 突出显示画布中的数据值，并将这些数据值拖放到相应的子组中。
 
@@ -92,19 +92,19 @@ ht-degree: 2%
 
 ## 创建自定义字段组 — 整数编辑器 {#create-custom-field-group-integer-editor}
 
-1. 单击&#x200B;**潜在客户数据库**。
+1. 单击 **[!UICONTROL Lead Database]**。
 
    ![](assets/one.png)
 
-1. 单击&#x200B;**新建**，然后选择&#x200B;**新建字段管理器**。
+1. 单击&#x200B;**[!UICONTROL New]**，然后选择&#x200B;**[!UICONTROL New Field Organizer]**。
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**字段**&#x200B;并选择具有映射到字符串编辑器的数据类型的标准或自定义字段（请参阅上一节中的表）。 年收入在此处使用。
+1. 单击&#x200B;**[!UICONTROL Field]**&#x200B;并选择具有映射到字符串编辑器的数据类型的标准或自定义字段（请参阅上一节中的表）。 此处使用了[!UICONTROL Annual Revenue]。
 
    ![](assets/nine.png)
 
-1. 单击&#x200B;**创建**。
+1. 单击 **[!UICONTROL Create]**。
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ ht-degree: 2%
 
    ![](assets/9.6.png)
 
-1. 单击整数编辑器上方的默认自定义群组名称可自定义名称。 例如，您可以将“年收入组”重命名为“按规模的年收入”。 单击&#x200B;**保存**。
+1. 单击整数编辑器上方的默认自定义群组名称可自定义名称。 例如，您可以将“年收入组”重命名为“按规模的年收入”。 单击 **[!UICONTROL Save]**。
 
    ![](assets/eleven.png)
 
    整数编辑器允许您创建多个子组以按大小定义每个子组。 在此示例中，将创建三个组以用于小型、Medium和企业企业。
 
-1. 若要添加您的第一个组，请在&#x200B;**组名称**&#x200B;字段中输入名称（例如：小），然后在&#x200B;**组范围**&#x200B;字段中输入最大值(例如：200000)。 单击&#x200B;**添加群组**。
+1. 要添加您的第一个组，请在&#x200B;**[!UICONTROL Group Name]**&#x200B;字段中输入名称（例如：小），并在&#x200B;**[!UICONTROL Group Range]**&#x200B;字段中输入最大值(例如：200000)。 单击 **[!UICONTROL Add Group]**。
 
    ![](assets/twelve.png)
 
@@ -146,19 +146,19 @@ ht-degree: 2%
 
 ## 创建自定义字段组 — 日期编辑器 {#create-custom-field-group-date-editor}
 
-1. 单击&#x200B;**潜在客户数据库**。
+1. 单击 **[!UICONTROL Lead Database]**。
 
    ![](assets/one.png)
 
-1. 单击&#x200B;**新建**，然后选择&#x200B;**新建字段管理器**。
+1. 单击&#x200B;**[!UICONTROL New]**，然后选择&#x200B;**[!UICONTROL New Field Organizer]**。
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**字段**&#x200B;并选择具有映射到字符串编辑器的数据类型的标准或自定义字段（请参阅上一节中的表）。 此处使用客户获取日期。
+1. 单击&#x200B;**[!UICONTROL Field]**&#x200B;并选择具有映射到字符串编辑器的数据类型的标准或自定义字段（请参阅上一节中的表）。 此处使用了[!UICONTROL Acquisition Date]。
 
    ![](assets/fourteen.png)
 
-1. 单击&#x200B;**创建**。
+1. 单击 **[!UICONTROL Create]**。
 
    ![](assets/14.5.png)
 
@@ -166,19 +166,19 @@ ht-degree: 2%
 
    ![](assets/14.6.png)
 
-1. 单击日期编辑器上方的默认自定义群组名称以自定义名称。 例如，您可以将“客户获取日期组”重命名为“客户获取日期类别”。 单击&#x200B;**保存**。
+1. 单击日期编辑器上方的默认自定义群组名称以自定义名称。 例如，您可以将“客户获取日期组”重命名为“客户获取日期类别”。 单击 **[!UICONTROL Save]**。
 
    ![](assets/fifteen.png)
 
    日期编辑器允许您创建多个子组并按日期定义每个子组。 在此示例中，将创建三个组：Q1-15潜在客户、Q2-15潜在客户和Q3-15潜在客户。
 
-1. 要添加您的第一个组，请在&#x200B;**组名称**&#x200B;字段中输入名称（例如：Q1-15潜在客户），并在日期字段中输入日期，该日期表示获得潜在客户的日期或之前的日期（例如：Q1-15最后一天的日期为2015/3/31）。 单击&#x200B;**添加群组**。
+1. 要添加您的第一个组，请在&#x200B;**[!UICONTROL Group Name]**&#x200B;字段中输入一个名称（例如：Q1-15潜在客户），然后在“日期”字段中输入一个日期，该日期表示获得该潜在客户的日期或之前的日期（例如：Q1-15最后一天的日期：3/31/2015）。 单击 **[!UICONTROL Add Group]**。
 
    ![](assets/sixteen.png)
 
    >[!NOTE]
    >
-   >您最多可以添加10个子组来对数据值进行分类。 每个“组范围”条目都基于前一个条目。 如果您将您创建的最后一个自定义子组的最后一个组范围条目留空，则不会设置结束日期值。
+   >您最多可以添加10个子组来对数据值进行分类。 每个[!UICONTROL Group Range]条目都基于上一个条目。 如果您将您创建的最后一个自定义子组的最后[!UICONTROL Group Range]条目留空，则不会设置结束日期值。
 
    以下示例显示了一个进入2015年第1季度后进入第3季度的潜在客户条目。
 

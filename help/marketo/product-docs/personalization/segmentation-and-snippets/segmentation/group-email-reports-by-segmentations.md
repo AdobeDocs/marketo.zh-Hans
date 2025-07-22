@@ -4,10 +4,10 @@ description: 按区段对电子邮件报表进行分组 — Marketo文档 — �
 title: 按区段对电子邮件报表进行分组
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 2%
 
 ---
 
@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >[批准分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. 转到&#x200B;**营销活动**（或&#x200B;**Analytics**）区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**（或&#x200B;**[!UICONTROL Analytics]**）区域。
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. 选择您的&#x200B;**电子邮件性能**&#x200B;报告。
+1. 选择您的&#x200B;**[!UICONTROL Email Performance]**&#x200B;报告。
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. 单击&#x200B;**设置**&#x200B;选项卡并拖到&#x200B;**按区段分组**&#x200B;上。
+1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡并拖到&#x200B;**[!UICONTROL Group by Segmentations]**&#x200B;上。
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. 选择一个或两个用于分组报表的区段。 单击&#x200B;**应用**。
+1. 选择一个或两个用于分组报表的区段。 单击 **[!UICONTROL Apply]**。
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. 就是这样！ 单击&#x200B;**报表**&#x200B;选项卡。 如果使用一种分段，则报表会为每个区段显示一行。
+1. 操作完成！单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。 如果使用一种分段，则报表会为每个区段显示一行。
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

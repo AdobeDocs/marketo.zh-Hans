@@ -4,10 +4,10 @@ description: 了解收入模型阶段 — Marketo文档 — 产品文档
 title: 了解收入模型阶段
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '59'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 定义模型的阶段 {#define-the-phases-of-the-model}
 
-1. 单击&#x200B;**阶段**。
+1. 单击 **[!UICONTROL Phases]**。
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 

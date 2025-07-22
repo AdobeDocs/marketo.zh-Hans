@@ -4,10 +4,10 @@ description: 现有客户的配置 — Marketo文档 — 产品文档
 title: 现有客户的配置
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 1%
+source-wordcount: '147'
+ht-degree: 2%
 
 ---
 
@@ -17,45 +17,45 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->请确保已将Salesforce包升级到最新版本
+>请确保已将[!DNL Salesforce]包升级到最新版本
 
-## 在Marketo中配置Sales Insight {#configure-sales-insight-in-marketo}
+## 在Marketo中配置[!DNL Sales Insight] {#configure-sales-insight-in-marketo}
 
-1. 在浏览器中打开新选项卡，以从您的Marketo帐户获取Marketo销售分析凭据。
+1. 在浏览器中打开新选项卡，以从您的Marketo帐户获取[!DNL Marketo Sales Insights]凭据。
 
-1. 转到&#x200B;**管理员**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. 单击&#x200B;**销售分析**。
+1. 单击 **[!UICONTROL Sales Insight]**。
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. 单击&#x200B;**视图**&#x200B;以填充Rest API凭据。
+1. 单击&#x200B;**[!UICONTROL View]**&#x200B;以填充Rest API凭据。
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. 您将会看到确认弹出窗口。 单击&#x200B;**确定**。
+1. 您将会看到确认弹出窗口。 单击 **[!UICONTROL OK]**。
 
-## 在Salesforce中配置Sales Insight {#configure-sales-insight-in-salesforce}
+## 在[!DNL Sales Insight]中配置[!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
-1. 在Salesforce中，单击&#x200B;**设置**。
+1. 在Salesforce中，单击&#x200B;**[!UICONTROL Setup]**。
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. 搜索并选择&#x200B;**远程站点设置**。
+1. 搜索并选择&#x200B;**[!UICONTROL Remote Site Settings]**。
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. 单击&#x200B;**新建远程站点**。
+1. 单击 **[!UICONTROL New Remote Site]**。
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. 输入远程站点名称（可以类似于“MarketoRestAPI”）和远程站点URL(您在Marketo的“Rest API配置”面板中的API URL)。
+1. 输入[!UICONTROL Remote Site Name]（可以是“MarketoRestAPI”之类的内容）和[!UICONTROL Remote Site URL]&#x200B;(Marketo中Rest API配置面板中的API URL)。
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/configuration-for-existing-customers-8.png)
 
@@ -63,8 +63,8 @@ ht-degree: 1%
 
 ## 访问Marketo Sales Insight {#access-marketo-sales-insight}
 
-1. 从Marketo的“Sales Insight管理”页面的“Rest API”面板中复制凭据。 将它们粘贴到Salesforce的Sales Insight配置页面的Rest API部分中。
+1. 从[!DNL Marketo’s Sales Insight]管理页面中的Rest API面板复制凭据。 将它们粘贴到Salesforce [!DNL Sales Insight]配置页面的Rest API部分中。
 
-1. 输入API密钥。
+1. 输入[!UICONTROL API Secret Key]。
 
    ![](assets/configuration-for-existing-customers-9.png)

@@ -4,9 +4,9 @@ description: 实时信息源概述 — Marketo文档 — 产品文档
 title: 实时信息源概述
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 >
 >您不能在实时馈送中使用自定义日期过滤器，但可以在Web应用程序中使用。
 
-使用快速操作按钮可快速发出呼叫、发送电子邮件或导航到人员的Linkedin个人资料。
+使用快速操作按钮快速进行呼叫、发送电子邮件或导航到人员的[!DNL Linkedin]配置文件。
 
 ## “目标”选项卡 {#target-tab}
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 * 当Marketo中的人员得分增加时，将生成潜在客户。
 * 我们显示前50个潜在客户。
-* 您只会在Salesforce中看到分配给您的人员。
+* 您只能在[!DNL Salesforce]中看到已分配给您的人员。
 
 ## 图标术语表 {#icon-glossary}
 

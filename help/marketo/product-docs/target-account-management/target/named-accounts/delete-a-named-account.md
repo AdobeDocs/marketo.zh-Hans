@@ -4,14 +4,14 @@ description: 删除指定帐户 — Marketo文档 — 产品文档
 title: 删除指定帐户
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
-# 删除指定帐户 {#delete-a-named-account}
+# 删除[!UICONTROL Named Account] {#delete-a-named-account}
 
 按照以下快速步骤删除指定帐户。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
    >
    >按住Ctrl并单击(Windows)或按住Cmd并单击(Mac)可选择多个命名帐户。
 
-1. 单击&#x200B;**命名帐户操作**&#x200B;下拉列表，然后选择&#x200B;**删除命名帐户**。
+1. 单击&#x200B;**[!UICONTROL Named Account Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Delete Named Account]**。
 
    ![](assets/eight-1.png)
 
-1. 单击&#x200B;**删除**。
+1. 单击 **[!UICONTROL Delete]**。
 
    ![](assets/nine-1.png)
 

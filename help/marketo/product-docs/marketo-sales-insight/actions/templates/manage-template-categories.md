@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 1%
 
 ---
 
@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ## 创建类别 {#create-a-category}
 
-1. 单击&#x200B;**模板**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Templates]**&#x200B;选项卡。
 
    ![](assets/manage-template-categories-1.png)
 
-1. 单击&#x200B;**类别**&#x200B;旁边的&#x200B;**+**&#x200B;图标。
+1. 单击&#x200B;**旁边的**+**[!UICONTROL Categories]**&#x200B;图标。
 
    ![](assets/manage-template-categories-2.png)
 
-1. 输入新类别的名称，然后单击&#x200B;**创建**。
+1. 输入新类别的名称，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/manage-template-categories-3.png)
 
 ## 重命名模板类别 {#rename-a-template-category}
 
-1. 单击&#x200B;**模板**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Templates]**&#x200B;选项卡。
 
    ![](assets/manage-template-categories-4.png)
 
-1. 将鼠标悬停在要重命名的模板上，然后单击圆点（三个圆点）。 选择&#x200B;**重命名**。
+1. 将鼠标悬停在要重命名的模板上，然后单击圆点（三个圆点）。 选择 **[!UICONTROL Rename]**。
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## 删除模板类别 {#delete-a-template-category}
 
-1. 单击&#x200B;**模板**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Templates]**&#x200B;选项卡。
 
    ![](assets/manage-template-categories-7.png)
 
-1. 将鼠标悬停在要重命名的模板上，然后单击圆点（三个圆点）。 选择&#x200B;**删除**。
+1. 将鼠标悬停在要重命名的模板上，然后单击圆点（三个圆点）。 选择 **[!UICONTROL Delete]**。
 
    ![](assets/manage-template-categories-8.png)
 
-1. 单击&#x200B;**删除**&#x200B;以确认。
+1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
 
    ![](assets/manage-template-categories-9.png)
 

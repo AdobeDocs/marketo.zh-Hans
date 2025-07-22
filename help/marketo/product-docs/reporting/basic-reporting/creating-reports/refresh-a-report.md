@@ -4,9 +4,9 @@ description: 刷新报表 — Marketo文档 — 产品文档
 title: 刷新报告
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 也可以通过单击&#x200B;**报告操作**&#x200B;菜单并选择&#x200B;**刷新报告**&#x200B;来刷新报告。
+1. 您还可以通过单击&#x200B;**[!UICONTROL Report Actions]**&#x200B;菜单并选择&#x200B;**[!UICONTROL Refresh Report]**&#x200B;刷新报告。
 
    ![](assets/three.png)
 

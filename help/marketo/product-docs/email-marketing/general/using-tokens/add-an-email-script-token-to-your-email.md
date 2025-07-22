@@ -4,9 +4,9 @@ description: 向您的电子邮件添加电子邮件脚本令牌 — Marketo文�
 title: 向电子邮件添加电子邮件脚本令牌
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '159'
 ht-degree: 2%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 2%
 >
 >插入到单个电子邮件中的所有脚本令牌的总大小不能超过100KB。
 
-1. 转到&#x200B;**营销活动**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
 
    ![](assets/one-2.png)
 
-1. 查找并选择您要添加令牌的电子邮件，然后单击&#x200B;**编辑草稿**。
+1. 查找并选择要添加令牌的电子邮件，然后单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/four-2.png)
 
-1. 查找并选择您之前创建的电子邮件脚本令牌，然后单击&#x200B;**插入**。
+1. 查找并选择您之前创建的电子邮件脚本令牌，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/five-1.png)
 

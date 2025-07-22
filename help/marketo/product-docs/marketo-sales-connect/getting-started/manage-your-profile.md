@@ -3,26 +3,26 @@ description: 管理配置文件 — Marketo文档 — 产品文档
 title: 管理您的配置文件
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # 管理您的配置文件 {#manage-your-profile}
 
-在“我的个人资料”页面中，您可以更新您的姓名、帐户的语言/区域设置/时区，还可以更改密码。
+在[!UICONTROL My Profile]页面中，您可以更新您的姓名、帐户的语言/区域设置/时区，还可以更改密码。
 
 ## 帐户详细信息 {#account-details}
 
 您可以在此处更新您的姓名和/或密码。
 
-1. 单击齿轮图标并选择&#x200B;**设置**。
+1. 单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/manage-your-profile-1.png)
 
-1. 默认情况下，将打开您的“我的配置文件”页面。 要更新您的姓名，只需键入更改并单击&#x200B;**保存**&#x200B;即可。
+1. 默认情况下，将打开您的“我的配置文件”页面。 要更新您的姓名，只需键入更改并单击&#x200B;**[!UICONTROL Save]**&#x200B;即可。
 
    ![](assets/manage-your-profile-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 您的集成 {#your-integrations}
 
-在页面的右侧，您的集成部分提供您帐户的所有连接的状态。
+在页面的右侧，[!UICONTROL Your Integrations]部分提供您帐户的所有连接的状态。
 
 ![](assets/manage-your-profile-3.png)
 
@@ -50,23 +50,23 @@ ht-degree: 0%
 >
 >支持的语言：英语、法语、德语、日语、葡萄牙语、西班牙语。
 
-1. 单击齿轮图标并选择&#x200B;**设置**。
+1. 单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/manage-your-profile-4.png)
 
-1. 若要更改语言，请单击&#x200B;**语言**&#x200B;下拉列表并进行选择。
+1. 要更改您的语言，请单击&#x200B;**[!UICONTROL Language]**&#x200B;下拉菜单并进行选择。
 
    ![](assets/manage-your-profile-5.png)
 
-1. 此处区域设置是指使用该语言的地区。 单击&#x200B;**区域设置**&#x200B;下拉列表并进行选择。
+1. 此处区域设置是指使用该语言的地区。 单击&#x200B;**[!UICONTROL Locale]**&#x200B;下拉菜单并进行选择。
 
    ![](assets/manage-your-profile-6.png)
 
-1. 单击&#x200B;**您的时区**&#x200B;下拉列表并进行选择。
+1. 单击&#x200B;**[!UICONTROL Your Timezone]**&#x200B;下拉菜单并进行选择。
 
    ![](assets/manage-your-profile-7.png)
 
-1. 完成后单击&#x200B;**保存**。
+1. 完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/manage-your-profile-8.png)
 

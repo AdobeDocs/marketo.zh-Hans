@@ -4,18 +4,18 @@ description: 导出收入资源管理器报表 — Marketo文档 — 产品文�
 title: 导出收入浏览器报表
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 1%
+source-wordcount: '75'
+ht-degree: 2%
 
 ---
 
-# 导出收入浏览器报表 {#exporting-a-revenue-explorer-report}
+# 导出[!UICONTROL Revenue Explorer]报告 {#exporting-a-revenue-explorer-report}
 
 您可以导出任何收入资源管理器报表并与任何人共享。
 
-1. 单击“齿轮”图标，选择&#x200B;**导出**&#x200B;并选择文件格式。
+1. 单击“齿轮”图标，选择&#x200B;**[!UICONTROL Export]**&#x200B;并选择文件格式。
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -24,10 +24,10 @@ ht-degree: 1%
    >可将报告导出为以下三种格式：
    >
    >* PDF
-   >* Excel
+   >* [!DNL Excel]
    >* CSV
 
-1. 选择所需的&#x200B;**页面格式**&#x200B;和&#x200B;**方向**，然后单击&#x200B;**导出**。
+1. 选择所需的&#x200B;**[!UICONTROL Page Format]**&#x200B;和&#x200B;**[!UICONTROL Orientation]**，然后单击&#x200B;**[!UICONTROL Export]**。
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[订阅Revenue Explorer报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[订阅[!UICONTROL Revenue Explorer]报告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

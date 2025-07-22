@@ -4,22 +4,22 @@ description: 创建内容模式 — Marketo文档 — 产品文档
 title: 创建内容模式
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
 # 创建内容模式 {#create-content-patterns}
 
-当您设置内容模式时，当Web访客单击与内容模式相关的HTML网页时，将自动发现内容。 它用于将HTML页面（博客文章、新闻稿、新闻文章）作为内容片段添加到“所有内容”页面。 当自动发现基于内容模式时，它会在WebHTML查看或单击指向页面的链接时发现并跟踪与定义的URL模式相关的访客页面。 此内容片段（URL、页面名称和元数据，包括图像URL和描述）将添加到所有内容页面中，以准备预测内容。 对于自动发现其他内容(如PDF和嵌入的视频)，您需要[启用内容发现](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)。
+当您设置内容模式时，当Web访客单击与内容模式相关的HTML网页时，将自动发现内容。 它用于将HTML页面（博客文章、新闻稿、新闻文章）作为内容片段添加到所有内容页面。 当自动发现基于内容模式时，它会在Web访客查看或单击指向HTML页面的链接时发现并跟踪与定义的URL模式相关的Web页面。 此内容片段（URL、页面名称和元数据，包括图像URL和描述）将添加到所有内容页面中，以准备预测内容。 要自动发现其他内容（如PDF和嵌入的视频），您需要[启用内容发现](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)。
 
-1. 转到&#x200B;**内容设置**。
+1. 转到&#x200B;**[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. 单击&#x200B;**URL模式**。
+1. 单击 **[!UICONTROL URL Patterns]**。
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. 添加网页所在域的URL扩展。 选择类别（例如，博客、文章、数据表、新闻稿）。
+1. 添加网页所在域的URL扩展。 选择类别（例如，[!UICONTROL Blog]、[!UICONTROL Article]、[!UICONTROL Data Sheet]、[!UICONTROL Press Release]）。
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/url-patterns-add2.png)
 
-1. 为其他路径添加扩展和类别，然后单击&#x200B;**保存**。
+1. 为其他路径添加扩展和类别，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/url-patterns-save.png)
 
@@ -76,7 +76,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>新闻发布</td> 
-   <td><p>仅发现一个完全匹配的HTML页：</p><p>domain.com/press-release</p></td> 
+   <td><p>仅发现一个完全匹配的HTML页面：</p><p>domain.com/press-release</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> </td> 

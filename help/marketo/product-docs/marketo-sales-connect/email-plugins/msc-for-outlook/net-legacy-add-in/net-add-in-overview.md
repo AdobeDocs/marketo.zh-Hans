@@ -4,9 +4,9 @@ description: .NET插件概述 — Marketo文档 — 产品文档
 title: .NET加载项概述
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -19,22 +19,22 @@ ht-degree: 0%
 
 ## 连接一段内容 {#attaching-a-piece-of-content}
 
-通过单击&#x200B;**Content**&#x200B;按钮并上传文件来添加可跟踪内容。
+单击&#x200B;**[!UICONTROL Content]**&#x200B;按钮并上传文件以添加可跟踪内容。
 
 之前上传的任何内容都将显示出来，以供您在弹出窗口中选择，而无需再次上传。
 
 ## 日历功能 {#calendar-functionality}
 
-按&#x200B;**日历**&#x200B;按钮通知收件人您何时有空。
+按&#x200B;**[!UICONTROL Calendar]**&#x200B;按钮告知收件人您何时有空。
 
-这将拉入您的Outlook日历，并允许您添加特定的空闲日期和时间，并将信息添加到您的电子邮件中。
+这会拉入您的[!DNL Outlook]日历，并允许您添加具体的空闲日期和时间，并将信息添加到您的电子邮件中。
 
 ## 拉入模板 {#pulling-in-a-template}
 
-按&#x200B;**模板**&#x200B;按钮，为Outlook消息提取预制作的图输出模板。
+通过按[!DNL Outlook]按钮，将预先制作的Tout模板拉入&#x200B;**[!UICONTROL Templates]**&#x200B;消息。
 
 我们会与您的所有个人模板以及团队之间的任何共享模板同步。 我们还自动拉入最后使用的模板和最常用的模板，以便轻松访问。
 
-## Tout It按钮 {#the-tout-it-button}
+## [!UICONTROL Tout It]按钮 {#the-tout-it-button}
 
-填写完个性化电子邮件并准备就绪后，请确保始终点击&#x200B;**Tout It**&#x200B;按钮以进行跟踪。 此时将出现一个方框，显示“Hang on， we&#39;s add tracking magic”。
+填写完个性化电子邮件并准备就绪后，确保始终单击&#x200B;**[!UICONTROL Tout It]**&#x200B;按钮进行跟踪。 此时将出现一个方框，显示“Hang on， we&#39;s add tracking magic”。

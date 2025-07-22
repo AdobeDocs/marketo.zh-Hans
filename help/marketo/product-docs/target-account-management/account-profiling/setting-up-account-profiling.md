@@ -4,10 +4,10 @@ description: 设置帐户分析 — Marketo文档 — 产品文档
 title: 设置帐户分析
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 2%
+source-wordcount: '157'
+ht-degree: 3%
 
 ---
 
@@ -30,19 +30,19 @@ ht-degree: 2%
 >
 >在此处了解如何[取消隐藏字段](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field)。
 
-1. 在“我的Marketo”中，打开&#x200B;**目标帐户管理**。
+1. 在“我的Marketo”中，打开&#x200B;**[!UICONTROL Target Account Management]**。
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. 单击“**帐户分析**”选项卡。
+1. 单击&#x200B;**[!UICONTROL Account Profiling]**&#x200B;选项卡。
 
    ![](assets/two-1.png)
 
-1. 默认情况下，“模型”选项卡处于打开状态。 单击&#x200B;**开始**。
+1. 默认情况下，“模型”选项卡处于打开状态。 单击 **[!UICONTROL Get Started]**。
 
    ![](assets/three.png)
 
-1. 为您的模型提供一个名称，然后选择将用作理想客户配置文件(ICP)基础的列表类型/人员列表。 完成后，单击&#x200B;**创建模型**。
+1. 为您的模型提供一个名称，然后选择将用作理想客户配置文件(ICP)基础的列表类型/人员列表。 完成后单击&#x200B;**[!UICONTROL Create Model]**。
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -50,7 +50,7 @@ ht-degree: 2%
 
    ![](assets/five.png)
 
-1. 要查看模型结果，请单击&#x200B;**查看模型结果**。
+1. 要查看模型结果，请单击&#x200B;**[!UICONTROL See Model Result]**。
 
    ![](assets/six.png)
 

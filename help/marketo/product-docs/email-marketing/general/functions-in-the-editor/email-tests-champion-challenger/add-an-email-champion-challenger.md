@@ -4,9 +4,9 @@ description: 添加电子邮件冠军/挑战者 — Marketo文档 — 产品文�
 title: 添加电子邮件冠军/挑战者
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 >
 >Champion/Challenger电子邮件仅适用于触发营销活动和参与计划流。 对于批量邮件，请使用电子邮件程序的[A/B测试功能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
    >
    >对于一次性邮件爆炸，了解有关[电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)的更多信息。
 
-1. 在&#x200B;**电子邮件操作**&#x200B;下，单击&#x200B;**新建测试**。
+1. 在&#x200B;**[!UICONTROL Email Actions]**&#x200B;下，单击&#x200B;**[!UICONTROL New Test]**。
 
    ![](assets/chmapion2.jpg)
 

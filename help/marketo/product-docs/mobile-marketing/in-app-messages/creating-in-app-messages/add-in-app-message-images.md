@@ -4,9 +4,9 @@ description: 添加应用程序内消息图像 — Marketo文档 — 产品文�
 title: 添加应用程序内消息图像
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以在此处选择和自定义应用程序内消息图像。
 
-1. 选择应用程序内消息并单击&#x200B;**编辑草稿**。
+1. 选择应用程序内消息并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. 单击&#x200B;**样式**&#x200B;选项卡，然后单击模板的图像区域。
+1. 单击&#x200B;**[!UICONTROL Style]**&#x200B;选项卡，然后单击模板的图像区域。
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. 单击&#x200B;**选择图像**。
+1. 单击 **[!UICONTROL Select Image]**。
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. 从Design Studio中选择您的图像，然后单击&#x200B;**选择**。
+1. 从Design Studio中选择您的图像并单击&#x200B;**[!UICONTROL Select]**。
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. 单击&#x200B;**删除**。 现在，你可以选另一个了。
+1. 单击&#x200B;**[!UICONTROL Remove]**。 现在，你可以选另一个了。
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. 在所需图像就位后，在“图像属性”中，选择一个按钮，以按“高度”、“宽度”或两者都调整图像大小。
+1. 在所需图像就位后，在[!UICONTROL Image Properties]中，选择一个按钮，以按“高度”、“宽度”或“两者”调整图像大小。
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. （可选）应用图像边框。 默认设置为&#x200B;**关闭**。 首先，通过单击颜色或在拾色器上输入十六进制或RGB号来选择颜色。
+1. （可选）应用图像边框。 默认设置为&#x200B;**关闭**。 首先，通过单击颜色或在拾色器上输入十六进制或RGB数字来选择颜色。
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >对于图像、按钮或背景的点按操作，您可以为Apple和Android平台设置其他操作。 例如，Apple和Android处理深层链接的方式有所不同。 如果您的消息只发送到一个平台或另一个平台，请将另一个平台保留为默认设置，或选择&#x200B;**无**。
+   >对于图像、按钮或背景的点按操作，您可以为Apple和Android平台设置其他操作。 例如，Apple和Android处理深层链接的方式有所不同。 如果您的消息只发送到一个平台或另一个平台，请将另一个平台保留为默认设置或选择&#x200B;**[!UICONTROL None]**。
 
 做得好！ 现在是[为您的应用程序内消息创建文本的时间](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)。
 

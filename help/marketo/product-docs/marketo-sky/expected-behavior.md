@@ -4,25 +4,25 @@ title: 预期行为
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: fb77478cdcd2b455e9f2359e16aca50143ce492c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
 # 预期行为 {#expected-behavior}
 
-在本文中，您将找到与Predictive Audiences (PA)相关的预期行为的信息。
+在本文中，您将找到与[!UICONTROL Predictive Audiences] (PA)相关的预期行为的信息。
 
 ## 数据和隐私注意事项
 
 * AI/ML模型所需的所有数据处理都在北美进行。
 * AI/ML模型不使用特定的潜在客户信息，例如名字或姓氏、性别、电子邮件、联系电话等。 模型仅利用从图片和活动日志派生的一般属性。
 
-**对于预测受众，您可以预期以下行为**
+**对于[!UICONTROL Predictive Audiences]，您可以预期以下行为**
 
-* PA可在Marketo Sky和Marketo Classic Experience中访问。 特定功能的可用性如下：
+* PA可在[!DNL Marketo Sky]和[!DNL Marketo Classic]体验中访问。 特定功能的可用性如下：
    * 预测筛选器 — [!DNL Sky/Classic]
    * 预计的注册 — [!DNL Sky/Classic]
    * 潜在客户级别可能性预测 — [!DNL Sky/Classic]

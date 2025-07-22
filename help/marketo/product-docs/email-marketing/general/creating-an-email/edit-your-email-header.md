@@ -4,9 +4,9 @@ description: 编辑电子邮件标题 — Marketo文档 — 产品文档
 title: 编辑电子邮件标题
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Marketo中的电子邮件标头是完全可自定义的。 它由四个字段组成：
 
-* **从** — 您希望显示的发件人名称
-* **发件人地址** — 您希望显示的发件人电子邮件地址
-* **回复** — 您希望接收人员回复的电子邮件地址（可能不同于发件人地址）
-* **主题** — 电子邮件的主题行
+* **[!UICONTROL From]** — 您希望显示的发件人名称
+* **[!UICONTROL From Address]** — 您希望显示的发件人电子邮件地址
+* **[!UICONTROL Reply-to]** — 您希望接收人员回复的电子邮件地址（可能不同于[!UICONTROL From Address]）
+* **[!UICONTROL Subject]** — 电子邮件的主题行
 
 要编辑这些值，请在每个字段中单击并输入您的信息。
 
@@ -36,11 +36,11 @@ Marketo中的电子邮件标头是完全可自定义的。 它由四个字段组
 
 ![](assets/three-2.png)
 
-“发件人地址”字段最右侧的键图标可让您知道您是否使用自定义DKIM签名。
+[!UICONTROL From Address]字段最右侧的键图标让您知道您是否使用自定义DKIM签名。
 
 ![](assets/four-2.png)
 
-“主题”字段中最右侧的计数器可帮助您将主题行保持在建议的50个字符限制以下。
+[!UICONTROL Subject]字段中最右侧的计数器可帮助您将主题行保持在建议的50个字符限制以下。
 
 ![](assets/five-1.png)
 

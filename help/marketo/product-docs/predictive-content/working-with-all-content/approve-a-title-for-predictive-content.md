@@ -4,43 +4,43 @@ description: 批准预测内容的标题 — Marketo文档 — 产品文档
 title: 批准预测内容的标题
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
 # 批准预测内容的标题 {#approve-a-title-for-predictive-content}
 
-您可以通过在“所有内容”页面或“编辑内容”弹出窗口中批准预测内容，来将“所有内容”页面上的任何标题添加到预测内容。
+您可以在[!UICONTROL All Content]页面或[!UICONTROL All Content]弹出窗口中批准[!UICONTROL Edit Content]页面上的任何标题，以将其添加到预测内容。
 
-## 所有内容页面 {#all-content-page}
+## [!UICONTROL All Content]页 {#all-content-page}
 
 1. 选中内容旁边的框。
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. 单击&#x200B;**内容操作**&#x200B;下拉列表，然后选择&#x200B;**批准预测内容**。
+1. 单击&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Approve for Predictive Content]**。
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
-## 编辑内容弹出窗口 {#edit-content-pop-up}
+## [!UICONTROL Edit Content]弹出窗口 {#edit-content-pop-up}
 
-您还可以直接在“编辑内容”弹出窗口中批准预测内容的标题。
+您还可以直接在[!UICONTROL Edit Content]弹出窗口中批准预测内容的标题。
 
 1. 将鼠标悬停在某个内容上，然后单击行末的编辑图标。
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. 选中“编辑内容”弹出窗口上的&#x200B;**批准预测内容**&#x200B;框，然后单击&#x200B;**保存**。
+1. 在&#x200B;**[!UICONTROL Approve for Predictive Content]**&#x200B;弹出窗口中选中[!UICONTROL Edit Content]框并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
-无论您使用哪种方法，批准预测内容图标现在都将显示在行中。
+无论您使用哪种方式，[!UICONTROL Approve for Predictive Content]图标现在都显示在行中。
 
 ![](assets/five.png)
 
-现在，您可以看到“预测内容”页面上显示的标题。
+您现在可以看到[!UICONTROL Predictive Content]页面上显示的标题。
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)

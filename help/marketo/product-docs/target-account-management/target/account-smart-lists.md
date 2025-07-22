@@ -4,9 +4,9 @@ description: 帐户智能列表 — Marketo文档 — 产品文档
 title: 帐户智能列表
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能仅适用于同时具有Target Account Management插件和已颁发的TAM许可的用户。
+>此功能仅适用于同时具有[!UICONTROL Target Account Management]加载项和已颁发的TAM许可的用户。
 
-## 创建帐户智能列表 {#create-an-account-smart-list}
+## 创建[!UICONTROL Account Smart List] {#create-an-account-smart-list}
 
-1. 在Marketo中，转到&#x200B;**营销活动**。
+1. 在Marketo中，转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/account-smart-lists-1.png)
 
@@ -29,29 +29,29 @@ ht-degree: 0%
 
    ![](assets/account-smart-lists-2.png)
 
-1. 单击&#x200B;**新建**&#x200B;下拉列表，然后选择&#x200B;**新建本地资产**。
+1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/account-smart-lists-3.png)
 
-1. 单击&#x200B;**帐户智能列表**。
+1. 单击 **[!UICONTROL Account Smart List]**。
 
    ![](assets/account-smart-lists-4.png)
 
-1. 输入名称，然后单击&#x200B;**创建** （说明和标签是可选的）。
+1. 输入名称，然后单击&#x200B;**[!UICONTROL Create]** （说明和标签是可选的）。
 
    ![](assets/account-smart-lists-5.png)
 
-您的帐户智能列表已创建！ 有关定义其规则的步骤，请参阅下文。
+您的[!UICONTROL Account Smart List]已创建！ 有关定义其规则的步骤，请参阅下文。
 
-## 帐户智能列表规则 {#account-smart-list-rules}
+## [!UICONTROL Account Smart List]规则 {#account-smart-list-rules}
 
-帐户智能列表的工作方式与标准智能列表类似，但有一个显着例外：容器。
+[!UICONTROL Account Smart Lists]的工作方式与标准智能列表类似，但存在一个显着异常：容器。
 
-1. 要定义帐户智能列表，请单击&#x200B;**帐户智能列表规则**&#x200B;选项卡。
+1. 要定义您的[!UICONTROL Account Smart List]，请单击&#x200B;**[!UICONTROL Account Smart List Rules]**&#x200B;选项卡。
 
    ![](assets/account-smart-lists-6.png)
 
-1. 选择所需的帐户过滤器。 在此示例中，我们选择了&#x200B;_行业是医疗保健_。
+1. 选择所需的帐户过滤器。 在此示例中，我们选择&#x200B;_[!UICONTROL Industry]为[!UICONTROL Healthcare]_。
 
    ![](assets/account-smart-lists-7.png)
 
@@ -77,32 +77,32 @@ ht-degree: 0%
 >
 >创建过滤器容器将创建一个“and”规则，这意味着该规则将仅返回所有合并的结果。 在本例中，客户属于医疗保健行业，并且位于加利福尼亚&#x200B;_和_，而某人被列为CFO。 如果您不想使用容器，只需将过滤器拖放到现有过滤器的下方/上方。
 
-就是这样！ 查看以下部分，了解如何利用您的帐户智能列表。
+就是这样！ 查看以下部分，了解如何利用[!UICONTROL Account Smart List]。
 
 >[!TIP]
 >
->与标准智能列表一样，您可以使用高级逻辑进一步优化结果。 要执行此操作，至少需要三个筛选器，并且在帐户智能列表中，一个容器（无论其本身包含多少筛选器）等于一个筛选器。
+>与标准智能列表一样，您可以使用高级逻辑进一步优化结果。 要执行此操作，至少需要三个筛选器，而在[!UICONTROL Account Smart Lists]中，一个容器（无论其本身包含多少筛选器）等于一个筛选器。
 
-## 帐户智能列表操作 {#account-smart-list-actions}
+## [!UICONTROL Account Smart List]操作 {#account-smart-list-actions}
 
-在帐户智能列表的概述选项卡中，您将注意到一些操作选项。
+在[!UICONTROL Account Smart List]的“概述”选项卡中，您会注意到一些操作选项。
 
-**导出**：此操作会将帐户智能列表的结果导出为CSV。
+**[!UICONTROL Export]**：这会将您的[!UICONTROL Account Smart List]的结果导出为CSV。
 
-**克隆**：制作帐户智能列表的副本。
+**[!UICONTROL Clone]**：复制您的[!UICONTROL Account Smart List]。
 
-**发送到广告网络**：将列表作为新匹配的受众发送到LinkedIn。
+**[!UICONTROL Send to Ad Network]**：将列表作为新匹配的受众发送到[!DNL LinkedIn]。
 
-您还可以使用&#x200B;_帐户智能列表的人员成员_&#x200B;筛选器，在标准智能营销活动/列表中引用帐户智能列表。
+您还可以使用[!UICONTROL Account Smart List]筛选器在标准智能营销活动/列表中引用&#x200B;_[!UICONTROL People Member of Account Smart List]_。
 
 ![](assets/account-smart-lists-12.png)
 
 >[!NOTE]
 >
->帐户智能列表中的人员成员结果将显示已识别帐户中的每个人，而不仅仅是通过帐户智能列表中的匹配人员筛选器找到的人员。
+>[!UICONTROL People Member of Account Smart List]的结果将显示已识别帐户中的每个人，而不仅仅是通过帐户智能列表中的匹配人员筛选器找到的人员。
 
 >[!NOTE]
 >
 >**定义**
 >
->**帐户智能列表的人员**：在这种情况下，“成员”一词是指帐户本身，因此“人员成员”是指这些帐户中的实际人员(Marketo记录)。
+>**[!UICONTROL People Member of Account Smart List]**：在此例中，“会员”一词是指帐户本身，因此“人员会员”是指这些帐户中的实际人员(Marketo记录)。

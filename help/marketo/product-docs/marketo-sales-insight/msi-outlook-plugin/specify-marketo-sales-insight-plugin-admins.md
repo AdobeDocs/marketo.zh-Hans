@@ -1,29 +1,29 @@
 ---
 unique-page-id: 11377552
-description: 指定Marketo Sales Insight插件管理员 — Marketo文档 — 产品文档
-title: 指定Marketo Sales Insight插件管理员
+description: 指定Marketo [!UICONTROL Sales Insight]插件管理员 — Marketo文档 — 产品文档
+title: 指定Marketo [!UICONTROL Sales Insight]插件管理员
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '76'
 ht-degree: 2%
 
 ---
 
-# 指定Marketo Sales Insight插件管理员 {#specify-marketo-sales-insight-plugin-admins}
+# 指定Marketo [!UICONTROL Sales Insight]插件管理员 {#specify-marketo-sales-insight-plugin-admins}
 
-您可以指定在邀请用户设置Outlook上的MSI时，要在发送给用户的电子邮件通知中显示的联系人。
+当邀请用户在[!DNL Outlook]上设置MSI时，您可以指定希望在发送给用户的电子邮件通知中显示的联系人。
 
-1. 在“我的Marketo”中，单击&#x200B;**管理员**，然后单击&#x200B;**销售分析**。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**，然后单击&#x200B;**[!UICONTROL Sales Insight]**。
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. 单击&#x200B;**电子邮件加载项**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Email Add-In]**&#x200B;选项卡。
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. 单击&#x200B;**指定插件联系人**。
+1. 单击 **[!UICONTROL Specify Plugin Contact]**。
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 2%
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 

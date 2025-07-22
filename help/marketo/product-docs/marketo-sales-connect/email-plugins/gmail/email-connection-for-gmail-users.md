@@ -4,10 +4,10 @@ description: Gmail用户的电子邮件连接 — Marketo文档 — 产品文档
 title: Gmail用户的电子邮件连接
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 1%
 
 ---
 
@@ -19,39 +19,39 @@ ht-degree: 0%
 >
 >如果您[在Gmail帐户中使用筛选器](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}或规则来自动将电子邮件标记为已读，这可能会导致回复跟踪问题。 我们建议禁用在通过Gmail使用回复跟踪时将电子邮件自动标记为已读的任何规则。
 
-1. 在Sales Connect中，单击齿轮图标并选择&#x200B;**设置**。
+1. 在[!DNL Sales Connect]中，单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one.png)
 
-1. 在“我的帐户”下，选择&#x200B;**电子邮件设置**。
+1. 在我的帐户下，选择&#x200B;**[!UICONTROL Email Settings]**。
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**电子邮件连接**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Email Connection]**&#x200B;选项卡。
 
    ![](assets/three.png)
 
-1. 单击&#x200B;**开始**。
+1. 单击 **[!UICONTROL Get Started]**。
 
    ![](assets/four.png)
 
-1. 选择&#x200B;**我使用Gmail发送电子邮件**，然后单击&#x200B;**下一步**。
+1. 选择&#x200B;**[!UICONTROL I use Gmail to send emails]**&#x200B;并单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/five.png)
 
-1. 单击&#x200B;**确定**。
+1. 单击 **[!UICONTROL OK]**。
 
    ![](assets/six.png)
 
-1. 如果您已经登录Gmail，请选择您要连接的帐户。 如果没有，请输入您的Gmail地址，然后单击&#x200B;**下一步**。 在本例中，我们尚未登录。
+1. 如果您已经登录Gmail，请选择您要连接的帐户。 如果未配置，请输入您的Gmail地址，然后单击&#x200B;**[!UICONTROL Next]**。 在本例中，我们尚未登录。
 
    ![](assets/seven.png)
 
-1. 输入密码，然后单击&#x200B;**下一步**。
+1. 输入密码并单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/eight.png)
 
-1. 单击&#x200B;**允许**。
+1. 单击 **[!UICONTROL Allow]**。
 
    ![](assets/nine.png)
 

@@ -4,9 +4,9 @@ description: 使用智能列表定义受众 — Marketo文档 — 产品文档
 title: 使用智能列表定义受众
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
@@ -23,17 +23,17 @@ ht-degree: 1%
 >
 >仅当电子邮件程序未获批准时，定义受众才能正常工作。
 
-1. 转到&#x200B;**营销活动**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择您的电子邮件程序，然后单击&#x200B;**受众**&#x200B;图块下的&#x200B;**编辑智能列表**。
+1. 选择您的电子邮件程序，然后单击&#x200B;**[!UICONTROL Edit Smart List]**&#x200B;图块下的&#x200B;**[!UICONTROL Audience]**。
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >确保视图设置为&#x200B;**控制面板**&#x200B;以查找此设置。
+   >确保视图设置为&#x200B;**[!UICONTROL Control Panel]**&#x200B;以查找此设置。
 
 1. 查找要使用的过滤器，并将其拖到画布中。
 
@@ -63,7 +63,7 @@ ht-degree: 1%
 >
 >单击此号码可获取阻止发送邮件的人员的详细列表。 **请注意：**&#x200B;操作电子邮件仍会发送给标记为已取消订阅和营销已暂停的人员。
 >
->使用“受众”拼贴上的![—](assets/image2014-10-23-16-3a32-3a36.png)按钮查看有多少人将会收到电子邮件。
+>使用![磁贴上的](assets/image2014-10-23-16-3a32-3a36.png)—**[!UICONTROL Audience]**&#x200B;按钮查看有多少人会收到电子邮件。
 
 >[!MORELIKETHIS]
 >

@@ -4,10 +4,10 @@ description: 订阅基本报表 — Marketo文档 — 产品文档
 title: 订阅基本报表
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 2%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >有关收入周期资源管理器报表订阅，请参阅[订阅收入资源管理器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)。
 
-1. 转到&#x200B;**营销活动**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. 从导航树中选择您的报告，然后单击&#x200B;**订阅**&#x200B;选项卡。
+1. 从导航树中选择您的报告，然后单击&#x200B;**[!UICONTROL Subscriptions]**&#x200B;选项卡。
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >您还可以从&#x200B;**Analytics**&#x200B;选项卡订阅报表。
+   >您还可以从&#x200B;**[!UICONTROL Analytics]**&#x200B;选项卡订阅报告。
 
-1. 单击&#x200B;**新建报表订阅**。
+1. 单击 **[!UICONTROL New Report Subscription]**。
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >任何人都可以在收到的电子邮件中取消订阅报表。
 
-   就是这样！ 检查您的收件箱！
+   操作完成！检查您的收件箱！
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 

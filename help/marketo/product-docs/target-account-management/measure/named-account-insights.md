@@ -4,9 +4,9 @@ description: 指定帐户洞察 — Marketo文档 — 产品文档
 title: 指定帐户分析
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/one-1.png)
 
-## 仪表板 {#dashboard}
+## 功能板 {#dashboard}
 
 功能板汇总指定帐户内所有人员的帐户级别关键见解，因此无需联系每个人来评估其进度。 您可以使用[电子邮件分析](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)更深入地了解电子邮件活动。
 
@@ -25,46 +25,46 @@ ht-degree: 0%
 >
 >图表显示过去90天的见解。
 
-**随时间变化的帐户参与度**&#x200B;单击右侧的&#x200B;**查看**&#x200B;下拉列表以更改查看内容。 除了帐户得分之外，您还可以按总收入查看……
+**[!UICONTROL Account Engagement Over Time]**&#x200B;单击右侧的&#x200B;**[!UICONTROL View]**&#x200B;下拉菜单以更改查看内容。 除了[!UICONTROL Account Score]之外，您还可以按[!UICONTROL Total Revenue]查看……
 
 ![](assets/two-new.png)
 
-...或管道。
+...或[!UICONTROL Pipeline]。
 
 ![](assets/three-new.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>帐户得分</strong></td> 
-   <td><p>根据您在Admin中创建的所有帐户得分，查看每周参与度。 您可以并排比较这些帐户分数。 要确定每周参与度，我们采用一周中任何一天的最大参与度。</p></td> 
+   <td><strong><span class="uicontrol">帐户得分</span></strong></td> 
+   <td><p>查看基于您在<span class="uicontrol">管理员</span>中创建的所有帐户分数的每周参与度。 您可以并排比较这些帐户分数。 要确定每周参与度，我们采用一周中任何一天的最大参与度。</p></td> 
   </tr> 
   <tr> 
-   <td><strong>管道</strong></td> 
+   <td><strong><span class="uicontrol">管道</span></strong></td> 
    <td>查看随时间变化的管道。 要逐周确定管道时间，我们将在最后一天获取管道。</td> 
   </tr> 
   <tr> 
-   <td><strong>收入</strong></td> 
+   <td><strong><span class="uicontrol">收入</span></strong></td> 
    <td>查看一段时间内的收入。 要逐周确定一段时间内的收入，我们计算该周内获得的所有收入的总和。</td> 
   </tr> 
  </tbody> 
 </table>
 
-**个有趣的时刻**
+**[!UICONTROL Interesting Moments]**
 
-Marketo Sales Insight用户可以查看在帐户级别汇总的有趣时刻。
+对[!DNL Marketo Sales Insight]的用户可用，请参阅在帐户级别汇总的有趣时刻。
 
 ![](assets/int-mom.png)
 
 **热门用户**
 
-这些用户是根据指定帐户的用户显示的回访间隔或紧急程度（与Sales Insight中的[最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)相同）或用户定义的分数来计算的。 **优先级**&#x200B;仅适用于Marketo Sales Insight的用户。
+这些用户是根据指定帐户的用户显示的回访间隔或紧急程度来计算的优先级(与Sales Insight中的[最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)相同)或用户定义的分数来计算的。 **[!UICONTROL Priority]**&#x200B;仅对[!DNL Marketo Sales Insight]的用户可用。
 
 ![](assets/top-ten.png)
 
 **包含子项**
 
-单击&#x200B;**包括子项**&#x200B;可查看和选择所选命名帐户的子帐户，并查看其聚合分析。
+单击&#x200B;**[!UICONTROL Includes Children]**&#x200B;可查看和选择所选命名帐户的子帐户，并查看其聚合分析。
 
 ![](assets/abm.png)
 
@@ -78,29 +78,29 @@ Marketo Sales Insight用户可以查看在帐户级别汇总的有趣时刻。
 
 ![](assets/hierarchy.png)
 
-## 机会 {#opportunities}
+## [!UICONTROL Opportunities] {#opportunities}
 
 在帐户层查看所有未结业务机会的汇总视图，帮助营销团队将重点放在关闭特定业务机会上。
 
 ![](assets/four-1.png)
 
-## 潜在人员 {#potential-people}
+## [!UICONTROL Potential People] {#potential-people}
 
-商机帐户匹配使用模糊逻辑来查找可以在“潜在人员”选项卡中解析的弱匹配。
+商机帐户匹配使用模糊逻辑查找可以在[!UICONTROL Potential People]选项卡中解析的弱匹配。
 
 ![](assets/five-1.png)
 
 >[!NOTE]
 >
->要添加列出的任何人员，请选择他们并单击&#x200B;**添加人员**。
+>要添加列出的任何人员，请选择他们并单击&#x200B;**[!UICONTROL Add People]**。
 
-## 使用者 {#used-by}
+## [!UICONTROL Used By] {#used-by}
 
 此选项卡显示当前引用特定指定帐户或帐户列表的智能营销活动、Web营销活动、智能列表或报表。
 
 ![](assets/six-1.png)
 
-## 客户团队 {#account-team}
+## [!UICONTROL Account Team] {#account-team}
 
 在此选项卡中查看帐户团队成员、添加/删除成员，甚至分配帐户所有者。
 
@@ -108,10 +108,10 @@ Marketo Sales Insight用户可以查看在帐户级别汇总的有趣时刻。
 
 >[!NOTE]
 >
->单击&#x200B;**帐户团队操作**&#x200B;下拉列表以添加/删除帐户成员，或分配帐户所有者。
+>单击&#x200B;**[!UICONTROL Account Team Actions]**&#x200B;下拉列表以添加/删除帐户成员，或分配帐户所有者。
 
-## ICP指示器 {#icp-indicators}
+## [!UICONTROL ICP Indicators] {#icp-indicators}
 
-查看您在[调整模型](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)时选择导出的ICP指示器。
+查看您在[!UICONTROL ICP Indicators]优化模型[时选择导出的](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)。
 
 ![](assets/eight.png)

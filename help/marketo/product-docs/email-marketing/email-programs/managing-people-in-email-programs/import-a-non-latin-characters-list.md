@@ -4,9 +4,9 @@ description: 导入非拉丁文字符列表 — Marketo文档 — 产品文档
 title: 导入非拉丁文字符列表
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 这是因为文件未正确保存，以便Marketo识别所有非拉丁字符。 好消息是，您可以按照一些简单的步骤来修复此问题。
 
-1. 从Excel的&#x200B;**文件**&#x200B;菜单中选择&#x200B;**另存为……**。
+1. 从Excel的&#x200B;**[!UICONTROL Save As]菜单中选择**...**[!UICONTROL File]**。
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. 选择&#x200B;**UTF-16 Unicode文本(.txt)**&#x200B;作为&#x200B;**格式**&#x200B;选项。 这将以Marketo显示文件的方式对文件进行编码。
+1. 选择&#x200B;**[!UICONTROL UTF-16 Unicode Text (.txt)]**&#x200B;作为&#x200B;**[!UICONTROL Format]**&#x200B;选项。 这将以Marketo显示文件的方式对文件进行编码。
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您使用Windows，可以使用&#x200B;**记事本**&#x200B;打开文本文件；如果您使用Mac，则可以使用&#x200B;**TextEdit**&#x200B;打开文本文件。
+   >如果您使用Windows，可以使用&#x200B;**[!DNL Notepad]**&#x200B;打开文本文件；如果您使用Mac，可以使用&#x200B;**[!DNL TextEdit]**&#x200B;打开文本文件。
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. 从&#x200B;**编辑**&#x200B;菜单中选择&#x200B;**查找和替换……**。
+1. 从&#x200B;**[!UICONTROL Find and Replace]菜单中选择**...**[!UICONTROL Edit]**。
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >Windows用户的等效操作为： **编辑>替换……**
+   >Windows用户的等效操作为： **[!UICONTROL Edit]> [!UICONTROL Replace]...**
 
-1. 将您在步骤4中复制的选项卡粘贴到第一个（要替换的）框中，并在第二个（替换为）框中键入逗号。 单击&#x200B;**全部**。
+1. 将您在步骤4中复制的选项卡粘贴到第一个（要替换的）框中，并在第二个（替换为）框中键入逗号。 然后单击&#x200B;**[!UICONTROL All]**。
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

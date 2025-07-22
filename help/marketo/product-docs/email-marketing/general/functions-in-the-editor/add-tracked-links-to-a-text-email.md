@@ -4,9 +4,9 @@ description: 将跟踪链接添加到文本电子邮件 — Marketo文档 — �
 title: 将跟踪链接添加到文本电子邮件
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,9 @@ ht-degree: 0%
 
 1. 选择您的电子邮件并单击&#x200B;**编辑草稿**。
 
-![](assets/one-9.png)
+1. 选择您的电子邮件并单击&#x200B;**[!UICONTROL Edit Draft]**。
+
+   ![](assets/one-9.png)
 
 1. 双击要向其添加链接的可编辑区域。
 

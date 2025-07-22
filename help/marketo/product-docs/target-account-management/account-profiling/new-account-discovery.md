@@ -4,10 +4,10 @@ description: 新帐户发现 — Marketo文档 — 产品文档
 title: 新帐户发现
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 1%
+source-wordcount: '284'
+ht-degree: 0%
 
 ---
 
@@ -27,27 +27,27 @@ ht-degree: 1%
 >
 >建议在执行新帐户搜索之前按&#x200B;**更新现有帐户**&#x200B;按钮，以确保您查看的是最新数据。 此更新最多可能需要24小时。
 
-1. 在“我的Marketo”中，单击&#x200B;**目标帐户管理**。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Target Account Management]**。
 
    ![](assets/new-account-discovery-1.png)
 
-1. 单击“**帐户分析**”选项卡。
+1. 单击&#x200B;**[!UICONTROL Account Profiling]**&#x200B;选项卡。
 
    ![](assets/two-2.png)
 
-1. 单击&#x200B;**新帐户**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL New Accounts]**&#x200B;选项卡。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >新帐户显示尚未在TAM中属于您的帐户的列表。 根据您选择的筛选器，这些帐户可能会成为您的新帐户。
+   >[!UICONTROL New Accounts]在TAM中显示了一个不是您的帐户的列表。 根据您选择的筛选器，这些帐户可能会成为您的新帐户。
 
 1. 选择所有适用的过滤器（此部分高度可自定义，以下只是演示过滤的一个示例）。
 
    ![](assets/four-1.png)
 
-1. 单击页面右下角的&#x200B;**全部保存并创建列表**。
+1. 单击页面右下角的&#x200B;**[!UICONTROL Save All & Create List]**。
 
    ![](assets/five-1.png)
 
@@ -61,9 +61,9 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >若要将其保存到现有的帐户列表，请选择该选项，单击下拉列表并选择所需的帐户列表，然后单击&#x200B;**下一步**。
+   >要将其保存到现有的帐户列表，请选择该选项，单击下拉列表并选择所需的帐户列表，然后单击&#x200B;**[!UICONTROL Next]**。
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/seven-1.png)
 
@@ -71,10 +71,10 @@ ht-degree: 1%
    >
    >一次最多只能保存5,000个帐户。 如果搜索产生10,000个结果，则必须保存第一个（前）5,000个结果，然后重置筛选器并保存下一个5,000个结果。 **总计**&#x200B;帐户限制为100万。
 
-1. 单击&#x200B;**确定**。
+1. 单击 **[!UICONTROL OK]**。
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >保存帐户后，您可以使用LinkedIn[&#128279;](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上的匹配受众来定位这些帐户。
+   >保存帐户后，您可以使用[上的 [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)匹配受众来定位这些帐户。

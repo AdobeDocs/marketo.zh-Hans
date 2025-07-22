@@ -4,9 +4,9 @@ description: 创建代码片段 — Marketo文档 — 产品文档
 title: 创建代码片段
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 代码片段可以用作&#x200B;**电子邮件**&#x200B;和&#x200B;**登陆页面**&#x200B;上的动态内容块。
 
-1. 转到&#x200B;**设计工作室。**
+1. 转到&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio.png)
 
-1. 单击&#x200B;**新建**，然后单击&#x200B;**新建代码片段**。
+1. 单击&#x200B;**[!UICONTROL New]**，然后单击&#x200B;**[!UICONTROL New Snippet]**。
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. 输入所需的详细信息，然后单击&#x200B;**创建**。
+1. 输入所需的详细信息，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 

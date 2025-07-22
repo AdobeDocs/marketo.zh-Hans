@@ -4,38 +4,38 @@ description: 使用工作区编辑默认品牌策略域 — Marketo文档 — �
 title: 使用工作区编辑默认品牌策略域
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '145'
 ht-degree: 1%
 
 ---
 
 # 使用工作区编辑默认品牌策略域 {#edit-your-default-branding-domain-with-workspaces}
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
+1. 单击 **[!UICONTROL Email]**。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. 在“品牌化域”表格中，选择当前的通用域，然后单击“编辑”将其更改为贵公司的品牌化域。
+1. 在[!UICONTROL Branding Domains]表中，选择当前的通用域，然后单击&#x200B;**[!UICONTROL Edit]**&#x200B;以将其更改为贵公司的品牌域。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 
    >[!NOTE]
    >
-   >在编辑通用域之前，**[!UICONTROL 添加]**&#x200B;不起作用。 在添加第二个域之前，**[!UICONTROL 删除]**&#x200B;不起作用。
+   >在您编辑通用域之前，**[!UICONTROL Add]**&#x200B;不起作用。 在添加第二个域之前，**[!UICONTROL Delete]**&#x200B;不起作用。
    >
    >在首次编辑通用域之前，您无法添加其他域。
 
-1. 输入默认域的名称，然后单击&#x200B;**[!UICONTROL 下一步]**。
+1. 输入默认域的名称，然后单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. 单击&#x200B;**[!UICONTROL 保存]**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

@@ -3,16 +3,16 @@ description: 管理组 — Marketo文档 — 产品文档
 title: 管理组
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
 # 管理组 {#manage-groups}
 
-了解如何在Sales Insight Actions中管理您的组。
+了解如何在[!DNL Sales Insight Actions]中管理您的组。
 
 ## 组类型 {#group-types}
 
@@ -27,19 +27,19 @@ ht-degree: 0%
    <th>描述</th> 
   </tr> 
   <tr> 
-   <td>所有人员</td> 
+   <td>[!UICONTROL All People]</td> 
    <td>所有用户对您可见的所有联系人。</td> 
   </tr> 
   <tr> 
-   <td>动态组</td> 
+   <td>[!UICONTROL Dynamic Groups]</td> 
    <td>我的联系人：您拥有的所有联系人。<br>取消订阅：已选择退出接收通信的联系人。</td> 
   </tr> 
   <tr> 
-   <td>我的组</td> 
+   <td>[!UICONTROL My Groups]</td> 
    <td>您已创建的组。 它们可以包含您的联系人或已与您共享的联系人。</td> 
   </tr> 
   <tr> 
-   <td>团队组</td> 
+   <td>[!UICONTROL Team Groups]</td> 
    <td>已与您和/或由您共享的组。 它们可以包含您的队友拥有的联系人或您与其共享的联系人。</td> 
   </tr> 
  </tbody> 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
 ## 创建组 {#create-a-group}
 
-1. 在“人员”页面中，单击“组”旁边的&#x200B;**+**。
+1. 在[!UICONTROL People]页面中，单击&#x200B;**旁边的**+[!UICONTROL Groups]。
 
    ![](assets/manage-groups-1.png)
 
-1. 命名您的群组，然后单击&#x200B;**创建**。
+1. 命名您的组，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/manage-groups-2.png)
 
@@ -59,11 +59,11 @@ ht-degree: 0%
 
 ## 将联系人添加到组 {#add-contacts-to-a-group}
 
-1. 在“人员”页面中，查找并选择要将人员添加到的组。
+1. 在[!UICONTROL People]页面中，查找并选择要添加人员的组。
 
    ![](assets/manage-groups-3.png)
 
-1. 单击&#x200B;**组操作**&#x200B;并选择&#x200B;**创建联系人并添加到组**。
+1. 单击&#x200B;**[!UICONTROL Group Actions]**&#x200B;并选择&#x200B;**[!UICONTROL Create Contact and add to Group]**。
 
    ![](assets/manage-groups-4.png)
 
@@ -79,15 +79,15 @@ ht-degree: 0%
 
 ## 共享组 {#share-a-group}
 
-1. 在“人员”页面中，查找并选择要共享的组。
+1. 在[!UICONTROL People]页面中，查找并选择要共享的组。
 
    ![](assets/manage-groups-6.png)
 
-1. 单击圆点（三个垂直点）并选择&#x200B;**共享**。
+1. 单击圆点（三个垂直的点）并选择&#x200B;**[!UICONTROL Share]**。
 
    ![](assets/manage-groups-7.png)
 
-1. 单击下拉列表，选择要与其共享组的团队，然后单击&#x200B;**共享**。
+1. 单击下拉列表，选择要与其共享组的团队，然后单击&#x200B;**[!UICONTROL Share]**。
 
    ![](assets/manage-groups-8.png)
 
@@ -95,11 +95,11 @@ ht-degree: 0%
 
 ## 取消共享组 {#unshare-a-group}
 
-1. 在“人员”页面中，查找并选择要取消共享的组。
+1. 在[!UICONTROL People]页面中，查找并选择要取消共享的组。
 
    ![](assets/manage-groups-9.png)
 
-1. 单击圆点（三个垂直点）并选择&#x200B;**共享**。
+1. 单击圆点（三个垂直的点）并选择&#x200B;**[!UICONTROL Share]**。
 
    ![](assets/manage-groups-10.png)
 
@@ -111,15 +111,15 @@ ht-degree: 0%
 
 ## 重命名组 {#rename-a-group}
 
-1. 在“人员”页面中，查找并选择要重命名的组。
+1. 在[!UICONTROL People]页面中，查找并选择要重命名的组。
 
    ![](assets/manage-groups-12.png)
 
-1. 单击圆点（三个垂直的点）并选择&#x200B;**编辑**。
+1. 单击圆点（三个垂直的点）并选择&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/manage-groups-13.png)
 
-1. 键入新名称，然后单击&#x200B;**保存**。
+1. 键入新名称并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/manage-groups-14.png)
 
@@ -129,10 +129,10 @@ ht-degree: 0%
 
    ![](assets/manage-groups-15.png)
 
-1. 单击圆点（三个垂直的点）并选择&#x200B;**删除**。
+1. 单击圆点（三个垂直的点）并选择&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/manage-groups-16.png)
 
-1. 单击&#x200B;**删除**&#x200B;以确认。
+1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
 
    ![](assets/manage-groups-17.png)

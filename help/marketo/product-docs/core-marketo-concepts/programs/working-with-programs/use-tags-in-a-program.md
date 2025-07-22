@@ -4,9 +4,9 @@ description: 在项目中使用标记 — Marketo文档 — 产品文档
 title: 在项目中使用标记
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '156'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 ## 在项目中使用标记 {#use-a-tag-in-a-program}
 
-1. 选择您的项目。 单击&#x200B;**设置**。
+1. 选择您的项目。 单击 **[!UICONTROL Setup]**。
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 3%
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 3%
 
 ## 编辑标记 {#edit-a-tag}
 
-1. 转到&#x200B;**设置**&#x200B;选项卡。 右键单击标记。 选择&#x200B;**编辑**。
+1. 转到&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡。 右键单击标记。 选择 **[!UICONTROL Edit]**。
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -51,7 +51,7 @@ ht-degree: 3%
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -61,11 +61,11 @@ ht-degree: 3%
 
 ## 删除标记  {#delete-a-tag}
 
-1. 转到&#x200B;**设置**&#x200B;选项卡。 右键单击标记并选择&#x200B;**删除**。
+1. 转到&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡。 右键单击标记并选择&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. 单击&#x200B;**删除**&#x200B;以确认。
+1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
 
    ![](assets/use-tags-in-a-program-11.png)
 

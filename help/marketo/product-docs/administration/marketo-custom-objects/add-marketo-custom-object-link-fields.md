@@ -4,9 +4,9 @@ description: 添加Marketo自定义对象链接字段 — Marketo文档 — 产�
 title: 添加Marketo自定义对象链接字段
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->在多对多关系中，Marketo Engage仅支持每个桥接对象的单个边缘对象。 在下面给出的示例中，每个注册只能链接到单门课程。 但是，每个Edge对象可以有许多桥接对象，就像每个课程都有许多学生注册一样（多对一关系）。 如果您的自定义对象数据结构化，以使每个Edge对象记录（一对多或多对多）都包含多个Bridge对象记录，则可以创建多个Bridge对象记录，每个记录引用单个Edge对象记录以在Marketo中表示该数据。
+>在多对多关系中，Marketo Engage仅支持每个桥接对象的一个edge对象。 在下面给出的示例中，每个注册只能链接到单门课程。 但是，每个Edge对象可以有许多桥接对象，就像每个课程都有许多学生注册一样（多对一关系）。 如果您的自定义对象数据结构化，以使每个Edge对象记录（一对多或多对多）都包含多个Bridge对象记录，则可以创建多个Bridge对象记录，每个记录引用单个Edge对象记录以在Marketo中表示该数据。
 
 ## 为一对多结构创建链接字段 {#create-a-link-field-for-a-one-to-many-structure}
 
 以下说明如何在自定义对象中为一对多结构创建链接字段。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
+1. 单击 **[!UICONTROL Marketo Custom Objects]**。
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -38,37 +38,37 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. 在&#x200B;**[!UICONTROL 字段]**&#x200B;选项卡中，单击&#x200B;**[!UICONTROL 新建字段]**。
+1. 在&#x200B;**[!UICONTROL Fields]**&#x200B;选项卡中，单击&#x200B;**[!UICONTROL New Field]**。
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. 命名链接字段并添加可选的[!UICONTROL 描述]。 请确保选择[!UICONTROL 链接]数据类型。
+1. 命名链接字段并添加可选[!UICONTROL Description]。 请确保选择[!UICONTROL Link]数据类型。
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >自定义对象获得批准后，您将无法返回创建、编辑或删除[!UICONTROL 链接]或[!UICONTROL 重复数据删除字段]。
+   >自定义对象获得批准后，您将无法返回创建、编辑或删除[!UICONTROL Link]或[!UICONTROL Dedupe Field]。
 
-1. 选择[!UICONTROL 链接对象]是针对[!UICONTROL 潜在客户] （人员）还是[!UICONTROL 公司]。
+1. 选择[!UICONTROL Link Object]是用于[!UICONTROL lead]（人员）还是[!UICONTROL company]。
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
-   >如果选择[!UICONTROL 潜在客户]，您将在列表中看到ID、电子邮件地址和任何自定义字段。
+   >如果选择[!UICONTROL lead]，您将在列表中看到ID、电子邮件地址和任何自定义字段。
    >
-   >如果选择[!UICONTROL 公司]，您将在列表中看到ID和任何自定义字段。
+   >如果选择[!UICONTROL company]，您将在列表中看到ID和任何自定义字段。
 
-1. 选择要作为新字段的父级连接的[!UICONTROL 链接字段]。
+1. 选择要作为新字段的父级连接的[!UICONTROL Link Field]。
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
    >[!NOTE]
    >
-   >链接字段仅支持字符串字段类型。
+   >[!UICONTROL Link Field]中仅支持字符串字段类型。
 
-1. 单击&#x200B;**[!UICONTROL 保存]**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -80,11 +80,11 @@ ht-degree: 0%
 >
 >您必须已创建中间对象以及要将其链接到的任何自定义对象。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
+1. 单击 **[!UICONTROL Marketo Custom Objects]**。
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
@@ -92,35 +92,35 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. 在&#x200B;**[!UICONTROL 字段]**&#x200B;选项卡中，单击&#x200B;**[!UICONTROL 新建字段]**。
+1. 在&#x200B;**[!UICONTROL Fields]**&#x200B;选项卡中，单击&#x200B;**[!UICONTROL New Field]**。
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. 您需要创建两个链接字段。 逐个创建它们。 首先，将数据库列表成员的字段命名为（例如，leadID）。 添加可选的[!UICONTROL 描述]。 请确保选择[!UICONTROL 链接] [!UICONTROL 数据类型]。
+1. 您需要创建两个链接字段。 逐个创建它们。 首先，将数据库列表成员的字段命名为（例如，leadID）。 添加可选[!UICONTROL Description]。 确保选择[!UICONTROL link] [!UICONTROL Data Type]。
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >自定义对象获得批准后，您将无法返回创建、编辑或删除[!UICONTROL 链接]或[!UICONTROL 重复数据删除字段]。
+   >自定义对象获得批准后，您将无法返回创建、编辑或删除[!UICONTROL Link]或[!UICONTROL Dedupe Field]。
 
-1. 从数据库中选择[!UICONTROL 链接对象]；在本例中为[!UICONTROL 潜在客户]。
+1. 从数据库中选择[!UICONTROL Link Object]；在本例中为[!UICONTROL Lead]。
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. 选择要连接的[!UICONTROL 链接字段]，在本例中为[!UICONTROL Id]。
+1. 选择要连接的[!UICONTROL Link Field]，在本例中为[!UICONTROL Id]。
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL 链接字段]仅支持字符串字段类型。
+   >[!UICONTROL Link Field]中仅支持字符串字段类型。
 
-1. 单击&#x200B;**[!UICONTROL 保存]**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. 对指向自定义对象的第二个链接（在本例中为courseID）重复此过程。 [!UICONTROL 链接对象]名称将为课程，[!UICONTROL 链接字段]将为课程ID。 由于您已经创建和批准课程自定义对象，因此可在下拉菜单中进行这些选择。
+1. 对指向自定义对象的第二个链接（在本例中为courseID）重复此过程。 [!UICONTROL Link Object]名称将为course，[!UICONTROL Link Field]将为courseID。 由于您已经创建和批准课程自定义对象，因此可在下拉菜单中进行这些选择。
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 

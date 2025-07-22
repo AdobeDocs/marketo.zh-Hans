@@ -4,22 +4,22 @@ description: 性能分析快速图表 — Marketo文档 — 产品文档
 title: 性能分析快速图表
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# 性能分析快速图表 {#performance-insights-quick-charts}
+# [!UICONTROL Performance Insights] [!UICONTROL Quick Charts] {#performance-insights-quick-charts}
 
-快速图表是您自定义和保存的缩略图，可以快速查看您使用最多的图表。
+[!UICONTROL Quick Charts]是您自定义和保存的缩略图，可快速查看您使用最多的图表。
 
 ## 新建快速图表 {#create-a-new-quick-chart}
 
-快速图表从指定的数据派生。 在本例中，我们将选择：**新机会（首次联系），机会类型=新业务，本年初至今**。
+[!UICONTROL Quick Charts]派生自您指定的数据。 在本例中，我们将选择：**新机会（首次联系），机会类型=新业务，本年初至今**。
 
-1. 单击日期筛选器并选择&#x200B;**当前年份(YTD)**。
+1. 单击日期筛选器并选择&#x200B;**[!UICONTROL Current Year (YTD)]**。
 
    ![](assets/1-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/3-3.png)
 
-1. 单击“导出”图标并选择&#x200B;**另存为快速图表**。
+1. 单击导出图标并选择&#x200B;**[!UICONTROL Save as Quick Chart]**。
 
    ![](assets/4-2.png)
 
-1. 命名您的快速图表，然后单击&#x200B;**保存**。
+1. 命名您的快速图表，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/5-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 查看现有快速图表 {#view-existing-quick-charts}
 
-1. 要查看您现有的快速图表，只需单击&#x200B;**快速图表**&#x200B;图标即可。
+1. 要查看现有快速图表，只需单击&#x200B;**[!UICONTROL Quick Charts]**&#x200B;图标。
 
    ![](assets/7-1.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 如果需要删除快速图表，请按照以下简单步骤操作。
 
-1. 单击&#x200B;**快速图表**&#x200B;图标。
+1. 单击&#x200B;**[!UICONTROL Quick Charts]**&#x200B;图标。
 
    ![](assets/8-1.png)
 
@@ -65,6 +65,6 @@ ht-degree: 0%
 
    ![](assets/9-2.png)
 
-1. 单击&#x200B;**删除**。
+1. 单击 **[!UICONTROL Delete]**。
 
    ![](assets/10-1.png)

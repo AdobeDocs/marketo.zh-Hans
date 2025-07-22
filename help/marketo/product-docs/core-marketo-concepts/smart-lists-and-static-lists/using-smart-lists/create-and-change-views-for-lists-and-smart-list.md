@@ -4,9 +4,9 @@ description: 创建和更改列表和智能列表的视图 — Marketo文档 —
 title: 创建和更改列表和智能列表的视图
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 创建视图 {#create-a-view}
 
-1. 转到列表或智能列表，单击&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 视图]**&#x200B;下拉列表下的&#x200B;**[!UICONTROL 创建视图]**。
+1. 转到列表或智能列表，单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL Create View]**&#x200B;下拉列表下的&#x200B;**[!UICONTROL View]**。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-2.png)
 
-1. 添加/删除所需的列，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 添加/删除所需的列，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-3.png)
 
 >[!TIP]
 >
->若要快速搜索，请使用&#x200B;**查找**&#x200B;框。
+>要快速搜索，请使用&#x200B;**[!UICONTROL Find]**&#x200B;框。
 
 ## 切换视图 {#switch-views}
 
-1. 单击&#x200B;**[!UICONTROL 视图]**&#x200B;下拉列表，然后选择所需的视图。 根据需要在不同视图之间来回切换。
+1. 单击&#x200B;**[!UICONTROL View]**&#x200B;下拉列表，然后选择所需的视图。 根据需要在不同视图之间来回切换。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-4.png)
 
@@ -45,25 +45,25 @@ ht-degree: 0%
 
 ## 编辑视图 {#edit-a-view}
 
-1. 确保在&#x200B;**[!UICONTROL 视图]**&#x200B;下拉菜单中选择要编辑的视图。
+1. 确保在&#x200B;**[!UICONTROL View]**&#x200B;下拉菜单中选择要编辑的视图。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
-1. 单击&#x200B;**[!UICONTROL 编辑]**&#x200B;选项。
+1. 单击&#x200B;**[!UICONTROL Edit]**&#x200B;选项。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-6.png)
 
-1. 进行所需的更改，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 进行所需的更改，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-7.png)
 
 ## 删除视图 {#delete-a-view}
 
-1. 从&#x200B;**[!UICONTROL 视图]**&#x200B;下拉列表中选择要删除的视图的&#x200B;**[!UICONTROL 编辑]**&#x200B;选项。
+1. 从&#x200B;**[!UICONTROL Edit]**&#x200B;下拉列表中选择要删除的视图的&#x200B;**[!UICONTROL View]**&#x200B;选项。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 
-1. 单击&#x200B;**[!UICONTROL 删除]**。
+1. 单击 **[!UICONTROL Delete]**。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-9.png)
 

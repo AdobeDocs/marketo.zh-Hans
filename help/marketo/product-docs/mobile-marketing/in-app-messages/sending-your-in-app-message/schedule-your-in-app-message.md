@@ -4,9 +4,9 @@ description: 计划应用程序内消息 — Marketo文档 — 产品文档
 title: 计划应用程序内消息
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 立即发送消息或安排稍后发送。
 
-1. 要计划应用程序内消息，请选择&#x200B;**设置将来日期**，然后从下拉日历中选择开始日期。
+1. 要计划应用程序内消息，请选择&#x200B;**[!UICONTROL Set future date]**&#x200B;并从下拉日历中选择开始日期。
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. 或者，若要立即运行程序，请选择&#x200B;**立即运行**。 “开始日期”字段消失。
+1. 或者，要立即运行程序，请选择&#x200B;**[!UICONTROL Run Immediately]**。 “开始日期”字段消失。
 
    ![](assets/schedule-your-in-app-message-4.png)
 

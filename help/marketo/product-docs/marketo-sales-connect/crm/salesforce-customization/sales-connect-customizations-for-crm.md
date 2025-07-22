@@ -1,63 +1,63 @@
 ---
 unique-page-id: 14745793
-description: CRM的Sales Connect自定义项 — Marketo文档 — 产品文档
-title: CRM的Sales Connect自定义项
+description: CRM的[!DNL Sales Connect]自定义项 — Marketo文档 — 产品文档
+title: CRM的[!DNL Sales Connect]自定义项
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 1%
+source-wordcount: '658'
+ht-degree: 2%
 
 ---
 
-# CRM的Sales Connect自定义项 {#sales-connect-customizations-for-crm}
+# CRM的[!DNL Sales Connect]自定义项 {#sales-connect-customizations-for-crm}
 
 下面的字段和按钮由Salesforce CRM中的元数据API创建。 创建字段后，管理员必须在其CRM中配置页面布局以公开它们。 可以在此找到[说明](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)。
 
-## 如何在Salesforce中安装自定义项 {#how-to-install-customizations-in-salesforce}
+## 如何在[!DNL Salesforce]中安装自定义项 {#how-to-install-customizations-in-salesforce}
 
-1. 在Sales Connect中，单击齿轮图标并选择&#x200B;**设置**。
+1. 在[!DNL Sales Connect]中，单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one.png)
 
-1. 在“管理设置”下，选择&#x200B;**Salesforce**。
+1. 在[!UICONTROL Admin Settings]下，选择&#x200B;**[!UICONTROL Salesforce]**。
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**Marketo Sales Connect自定义项**。
+1. 单击 **[!UICONTROL Marketo Sales Engage Customizations]**。
 
    ![](assets/three.png)
 
-1. 单击&#x200B;**连接到Salesforce**。
+1. 单击 **[!UICONTROL Connect to Salesforce]**。
 
    ![](assets/four.png)
 
-1. 登录到Salesforce。
+1. 登录到[!DNL Salesforce]。
 
    ![](assets/five.png)
 
-## 更新Salesforce自定义 {#update-salesforce-customization}
+## 更新[!DNL Salesforce]自定义 {#update-salesforce-customization}
 
-Salesforce自定义包的更新将包括增强功能和错误修复。 要检查是否有可用更新或执行更新，请执行以下步骤。
+对[!DNL Salesforce]自定义包的更新将包括增强功能和错误修复。 要检查是否有可用更新或执行更新，请执行以下步骤。
 
 >[!NOTE]
 >
 >**需要管理员权限。**
 
-1. 在[Web应用程序](https://www.toutapp.com)中，单击齿轮图标并选择&#x200B;**设置**。
+1. 在[Web应用程序](https://www.toutapp.com)中，单击齿轮图标并选择&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. 在“管理员设置”下，单击&#x200B;**Salesforce**。
+1. 在[!UICONTROL Admin Settings]下，单击&#x200B;**[!UICONTROL Salesforce]**。
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Sales Connect Customization卡将显示是否有可用更新。 单击&#x200B;**更新自定义项**。
+1. 如果有可用更新，将显示[!DNL Sales Connect]自定义信息卡。 单击 **[!UICONTROL Update Customizations]**。
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. 单击&#x200B;**升级**。
+1. 单击 **[!UICONTROL Upgrade]**。
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 

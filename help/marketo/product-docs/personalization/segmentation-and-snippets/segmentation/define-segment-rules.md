@@ -4,9 +4,9 @@ description: 定义区段规则 — Marketo文档 — 产品文档
 title: 定义区段规则
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[创建分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. 转到&#x200B;**数据库。**
+1. 转到&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. 从树中选择&#x200B;**分段**，然后单击特定的&#x200B;**分段**。
+1. 从树中选择&#x200B;**[!UICONTROL Segmentations]**，然后单击特定的&#x200B;**区段**。
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. 单击&#x200B;**智能列表**&#x200B;并添加筛选器。
+1. 单击&#x200B;**[!UICONTROL Smart List]**&#x200B;并添加筛选器。
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >分段智能列表中当前不支持“SFDC类型”和“Microsoft类型”筛选器。
+   >分段智能列表当前不支持“SFDC类型”和“Microsoft类型”过滤器。
 
 1. 为筛选器填充相应的值。
 
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >“帐户”字段的活动日志记录行为可能会影响资格。 因此，我们建议不要在定义区段规则时使用帐户字段。
 
-1. 单击&#x200B;**人员（草稿）**&#x200B;选项卡以查看可能符合此区段成员资格的人员。
+1. 单击&#x200B;**[!UICONTROL People (Draft)]**&#x200B;选项卡以查看可能符合此区段成员资格的人员。
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. 转到&#x200B;**分段操作**。 单击&#x200B;**批准**。
+1. 转到&#x200B;**[!UICONTROL Segmentation Actions]**。 单击 **[!UICONTROL Approve]**。
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->人员可能有资格使用不同的区段，但最终仅属于一个区段，这取决于区段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)的优先级顺序。
+>人员可能有资格使用不同的区段，但最终仅属于一个区段，这取决于区段[的](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)优先级顺序。
 
 >[!NOTE]
 >
->“人员（草稿）”屏幕显示所有符合成员资格的人员，并不总是最终的人员列表。 批准您的区段以查看最终列表。
+>[!UICONTROL People (Draft)]屏幕显示所有符合成员资格的人员，并不总是最终人员列表。 批准您的区段以查看最终列表。
 
 >[!MORELIKETHIS]
 >

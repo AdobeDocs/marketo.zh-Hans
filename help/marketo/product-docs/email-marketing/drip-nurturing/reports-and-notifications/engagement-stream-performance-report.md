@@ -4,10 +4,10 @@ description: 参与流性能报表 — Marketo文档 — 产品文档
 title: 参与流性能报表
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '144'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 1%
 
 ## 创建报告 {#create-the-report}
 
-1. 查找并选择您的参与计划，然后在&#x200B;**新建**&#x200B;下单击&#x200B;**新建本地资产**。
+1. 查找并选择您的参与计划，然后在&#x200B;**[!UICONTROL New]**&#x200B;下单击&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/localassetnutring.jpg)
 
-1. 选择&#x200B;**报告**。
+1. 选择 **[!UICONTROL Report]**。
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -29,10 +29,10 @@ ht-degree: 1%
    >
    >在项目群下创建报告会自动将其限制在项目群内容内。
 
-   选择Engagement Stream Performance作为报表类型。
+   选择&#x200B;**[!UICONTROL Engagement Stream Performance]**&#x200B;作为报告&#x200B;**[!UICONTROL Type]**。
    ![](assets/engagementreportchoose.png)
 
-1. 命名报告并单击&#x200B;**创建**。
+1. 命名报告并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,17 +44,17 @@ ht-degree: 1%
 
    ![](assets/engagementperformancereport.jpg)
 
-1. 在&#x200B;**设置**&#x200B;选项卡下，双击&#x200B;**参与计划电子邮件**&#x200B;筛选器。
+1. 在&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡下，双击&#x200B;**[!UICONTROL Engagement Program Emails]**&#x200B;筛选器。
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. 选择要报告的电子邮件，然后单击&#x200B;**应用**。
+1. 选择要报告的电子邮件，然后单击&#x200B;**[!UICONTROL Apply]**。
 
    ![](assets/engagementfilter.jpg)
 
 ## 运行报告 {#run-report}
 
-1. 要运行报告，只需单击&#x200B;**报告**&#x200B;选项卡。
+1. 要运行报告，只需单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 

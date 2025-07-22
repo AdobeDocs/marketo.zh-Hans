@@ -3,24 +3,24 @@ description: 设置MSI视图 — Marketo文档 — 产品文档
 title: 设置MSI视图
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
 # 设置MSI视图 {#setting-up-msi-views}
 
-在Dynamics中安装Sales Insight插件会自动在站点地图上添加最佳匹配和相关功能板。 如果由于某种原因未添加仪表板，请参阅以下说明如何手动添加仪表板。
+在Dynamics中安装[!DNL Sales Insight]插件会自动在站点地图上添加[!DNL Best Bets]和相关仪表板。 如果由于某种原因未添加仪表板，请参阅以下说明如何手动添加仪表板。
 
-1. 在Dynamics中，单击齿轮图标，然后从下拉列表中选择&#x200B;**高级设置**。
+1. 在Dynamics中，单击齿轮图标，然后从下拉列表中选择&#x200B;**[!UICONTROL Advanced Settings]**。
 
-1. 单击屏幕左上角的&#x200B;**设置**。 在“自定义”下，选择&#x200B;**自定义**。
+1. 在屏幕左上角，单击&#x200B;**[!UICONTROL Settings]**。 在“自定义”下，选择&#x200B;**[!UICONTROL Customizations]**。
 
-1. 单击&#x200B;**自定义系统**。
+1. 单击 **[!UICONTROL Customize the System]**。
 
-1. 在左侧的树中，单击&#x200B;**客户端扩展**&#x200B;并双击&#x200B;**站点地图**。
+1. 在左侧的树中，单击&#x200B;**[!UICONTROL Client Extensions]**&#x200B;并双击&#x200B;**[!UICONTROL Site Map]**。
 
 1. 单击向右箭头转到下一页。 在Sales下，您应该会看到Marketo。 如果不能，请确保正确导入了包。
 
@@ -54,4 +54,4 @@ URL： mkt_/MainViewWebActivity.html</br>
 ID： marketo_anonymous_webactivity</br>
 Title：匿名Web活动
 
-1. 完成后单击&#x200B;**保存**。
+1. 完成后单击&#x200B;**[!UICONTROL Save]**。

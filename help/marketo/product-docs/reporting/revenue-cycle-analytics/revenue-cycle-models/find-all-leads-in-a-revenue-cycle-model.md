@@ -4,9 +4,9 @@ description: 在收入周期模型中查找所有潜在客户 — Marketo文档 
 title: 在收入周期模型中查找所有潜在客户
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -19,29 +19,29 @@ ht-degree: 0%
 >
 >[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 选择智能列表后，单击&#x200B;**智能列表**&#x200B;选项卡。
+1. 选定智能列表后，单击&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡。
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. 找到&#x200B;**收入模型的成员**&#x200B;筛选器并将其拖到画布中。
+1. 找到&#x200B;**[!UICONTROL Member of Revenue Model]**&#x200B;筛选器并将其拖到画布中。
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. 选择&#x200B;**模型**。
+1. 选择&#x200B;**[!UICONTROL Model]**。
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    这将获得该模型中的所有商机，无论处于哪个阶段。 通常您需要一个特定的阶段。 请改用以下过滤器。
 
-1. 找到&#x200B;**收入阶段**&#x200B;筛选器并将其拖到画布中。
+1. 找到&#x200B;**[!UICONTROL Revenue Stage]**&#x200B;筛选器并将其拖到画布中。
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. 选择&#x200B;**阶段**。
+1. 选择&#x200B;**[!UICONTROL Stage]**。
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. 转到&#x200B;**潜在客户**&#x200B;选项卡以查看结果。
+1. 转到&#x200B;**[!UICONTROL Leads]**&#x200B;选项卡以查看结果。
 
    ![](assets/2.png)
 

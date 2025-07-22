@@ -4,16 +4,16 @@ description: 了解摘要报表 — Marketo文档 — 产品文档
 title: 了解摘要报告
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
 
-# 了解摘要报告 {#understanding-the-summary-report}
+# 了解[!UICONTROL Summary Report] {#understanding-the-summary-report}
 
-摘要报表每月查看一次所有营销活动以及建议的内容效果。 它基于点击次数和参与个性化活动或推荐内容并随后成为已知商机的潜在客户数量（直接或辅助）。 报告会将结果与上个月进行比较。
+[!UICONTROL Summary report]是所有营销活动和建议内容表现的每月视图。 它基于点击次数和参与个性化活动或推荐内容并随后成为已知商机的潜在客户数量（直接或辅助）。 报告会将结果与上个月进行比较。
 
 >[!NOTE]
 >
@@ -23,33 +23,33 @@ ht-degree: 0%
 >
 >辅助转化：填写网站上的任何表单并保留其电子邮件地址的Web访客，在上次访问（过去6个月内）中单击了个性化促销活动或推荐的内容资产。
 
-在Web Personalization中，转到&#x200B;**Analytics**&#x200B;和&#x200B;**摘要报告**。
+在[!UICONTROL Web Personalization]中，转到&#x200B;**[!UICONTROL Analytics]**&#x200B;和&#x200B;**[!UICONTROL Summary Report]**。
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-选择&#x200B;**月**&#x200B;并单击&#x200B;**显示报表**。
+选择&#x200B;**月**&#x200B;并单击&#x200B;**[!UICONTROL Show Report]**。
 
 ![](assets/2.png)
 
 报表的第一部分与个性化Web Personalization促销活动相关并显示：
 
-* **点击次数** - Web Personalization促销活动的所有点击次数
-* **直接转化** — 访问期间点击了Web Personalization营销活动并填写表单的所有访客
-* **直接转化率** — 在单击Web Personalization营销活动后成为直接商机的访客百分比。 直接商机除以点击量
-* **辅助转化** — 在上次访问（过去6个月）中填写表单并单击了Web Personalization营销活动的所有访客
-* **提示** — 优化Web Personalization促销活动性能的提示
-* **热门营销活动** — 在选定时间段内表现最佳的营销活动，按点击数排序
+* **[!UICONTROL Clicks]** - Web Personalization营销活动的所有点击次数
+* **[!UICONTROL Direct Conversions]** — 访问期间点击了Web Personalization营销活动并填写表单的所有访客
+* **[!UICONTROL Direct Conversion Rate]** — 在单击Web Personalization营销活动后成为直接商机的访客百分比。 直接商机除以点击量
+* **[!UICONTROL Assisted Conversions]** — 填写表单并在上次访问（过去6个月）中单击了Web Personalization营销活动的所有访客
+* **[!UICONTROL Tip]** — 优化Web Personalization促销活动性能的提示
+* **[!UICONTROL Top Campaigns]** — 在选定的时间段内表现最佳的营销活动，按点击数排序
 
 ![](assets/3.png)
 
 报表的第二部分与Web Personalization的内容推荐引擎中的推荐内容有关。 它显示：
 
-* **点击次数** - Web Personalization上的所有点击次数推荐内容
-* **直接转化** — 访问期间点击推荐内容并填写表单的所有访客
-* **直接转化率** — 点击推荐内容后成为直接商机的访客百分比。 直接商机除以点击量
-* **辅助转化** — 在上次访问（过去6个月）中填写表单并单击了推荐内容的所有访客
-* **提示** — 使用内容推荐引擎优化的提示
-* **排名最前的Recommendations** — 在选定时间段内表现最佳的推荐内容，按点击次数排序
+* **[!UICONTROL Clicks]** - Web Personalization上的所有点击推荐内容
+* **[!UICONTROL Direct Conversions]** — 访问期间点击推荐内容并填写表单的所有访客
+* **[!UICONTROL Direct Conversion Rate]** — 在单击推荐内容后成为直接商机的访客百分比。 直接商机除以点击量
+* **[!UICONTROL Assisted Conversions]** — 填写表单并在上次访问（过去6个月）中单击了推荐内容的所有访客
+* **[!UICONTROL Tip]** — 使用内容推荐引擎优化的提示
+* **[!UICONTROL Top Recommendations]** — 在选定的时间段内表现最佳的推荐内容，按点击次数排序
 
 >[!NOTE]
 >

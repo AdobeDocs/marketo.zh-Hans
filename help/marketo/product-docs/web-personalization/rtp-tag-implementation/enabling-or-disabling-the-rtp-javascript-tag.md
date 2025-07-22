@@ -4,9 +4,9 @@ description: 启用或禁用RTP JavaScript标记 — Marketo文档 — 产品文
 title: 启用或禁用RTP JavaScript标记
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -17,20 +17,20 @@ RTP JavaScript标记可控制Web Personalization是否跟踪Web活动，或在�
 
 >[!NOTE]
 >
->**无需从您网站上的HTML代码中删除标记。**&#x200B;通过帐户设置对其进行控制。
+>**无需从您网站上的HTML代码中删除标记。**&#x200B;通过[!UICONTROL Account Settings]控制它。
 
 ## 启用或禁用标记 {#enable-or-disable-the-tag}
 
-1. 转到&#x200B;**帐户设置**。
+1. 转到&#x200B;**[!UICONTROL Account Settings]**。
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. 在“域和域配置”中的“标记”下，选择&#x200B;**禁用**&#x200B;以禁用JavaScript标记。
+1. 在[!UICONTROL Domain]和[!UICONTROL Domain Configuration]中的[!UICONTROL Tag]下，选择&#x200B;**[!UICONTROL Off]**&#x200B;以禁用JavaScript标记。
 
    ![](assets/account-settings-domain-tag.jpg)
 
-   当标记设置为关闭时，Javascript代码将被禁用，并且Web Personalization将不会跟踪任何网站活动，也不会在您的网站上运行任何促销活动或内容推荐。
+   当[!UICONTROL Tag]设置为[!UICONTROL Off]时，JavaScript代码被禁用，[!UICONTROL Web Personalization]将不会跟踪任何网站活动或在您的网站上运行任何营销活动或内容推荐。
 
-1. 要启用RTP标记，请在“域和域配置”中的“标记”下，选择&#x200B;**开启**&#x200B;切换开关。
+1. 要启用RTP标记，请在[!UICONTROL Domain]和[!UICONTROL Domain Configuration]中的[!UICONTROL Tag]下选择&#x200B;**[!UICONTROL On]**&#x200B;切换开关。
 
    放轻松。

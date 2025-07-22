@@ -3,16 +3,16 @@ description: 流程步骤服务 — Marketo文档 — 产品文档
 title: 流程步骤服务
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: e511d2fda60eabd406bee5ee7441652a546fb35e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
 
 # 流程步骤服务 {#flow-step-service}
 
-自助服务流程步骤是用于创作、发布和将Web服务集成到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南面向希望安装和使用已创建和发布的服务的最终Marketo Engage。 有关创作和发布您自己的服务的信息，请参阅服务提供商界面的[GitHub存储库](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}。 在[此处](https://github.com/adobe/mkto-flow-lookup){target="_blank"}可以找到概念验证查找表实施。
+自助服务流程步骤是用于创作、发布和将Web服务集成到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南面向希望安装和使用已创建和发布的服务的Marketo Engage最终用户。 有关创作和发布您自己的服务的信息，请参阅服务提供商界面[[!DNL GitHub] 的](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}存储库。 可在[此处](https://github.com/adobe/mkto-flow-lookup){target="_blank"}找到概念验证查找表实施。
 
 ## 入门和管理服务 {#onboarding-and-managing-services}
 
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 安装URL {#installation-url}
 
-要开始安装，您需要首先获取定义服务的OpenAPI文档的URL。 您的服务提供商应能够为您提供此内容，并且通常具有以`/openapi.json`结尾的URL。 完整的URL类似于`https://www.example.com/OpenAPI.json`。 获得此URL后，转到管理员部分中的服务提供商菜单。
+要开始安装，您需要首先获取定义服务的OpenAPI文档的URL。 您的服务提供商应能够为您提供此内容，并且通常具有以`/openapi.json`结尾的URL。 完整的URL类似于`https://www.example.com/OpenAPI.json`。 拥有此URL后，转到[!UICONTROL Service Providers]部分中的[!UICONTROL Admin]菜单。
 
-单击&#x200B;**[!UICONTROL 下一步]**&#x200B;以转到“输入服务凭据”部分。
+单击&#x200B;**[!UICONTROL Next]**&#x200B;以转到“输入服务凭据”部分。
 
 ![](assets/flow-step-service-1.png)
 
 ## 输入服务凭据 {#enter-service-credentials}
 
-要访问正在安装的服务，Marketo必须具有有效的API凭据。 您的服务提供商应向您提供这些凭据。 服务具有三个不同的身份验证选项，因此您可能会看到以下三种不同的凭据提示之一：**API密钥**，它只有一个输入字段；**基本身份验证**，它需要用户名和密码，可能还需要一个名为“领域”的字段；使用&#x200B;_客户端凭据_&#x200B;授权的&#x200B;**OAuth2**，它需要&#x200B;_客户端ID_&#x200B;和&#x200B;_客户端密钥_。
+要访问正在安装的服务，Marketo必须具有有效的API凭据。 您的服务提供商应向您提供这些凭据。 服务具有三个不同的身份验证选项，因此您可能会看到以下三种不同的凭据提示之一：**API密钥**，它只有一个输入字段；**基本身份验证**，它需要用户名和密码，可能还需要一个名为“领域”的字段；使用&#x200B;**客户端凭据**&#x200B;授权的&#x200B;_OAuth2_，它需要&#x200B;_客户端ID_&#x200B;和&#x200B;_客户端密钥_。
 
 在保存凭据时，Marketo将尝试调用服务的状态端点以验证它们是否有效。 如果提供的凭据无效，您将看到指示此内容的错误。
 
@@ -90,7 +90,7 @@ ht-degree: 0%
 
 ## 刷新选取列表 {#refreshing-picklists}
 
-Marketo将每晚刷新服务的选择列表，但有时您需要新的可用选择，例如营销活动创建。 您可以使用刷新按钮从流程步骤的任何实例中轻松刷新这些内容，或者在选择服务后，转到管理员>服务提供程序菜单并单击刷新选择列表。
+Marketo将每晚刷新服务的选择列表，但有时您需要新的可用选择，例如营销活动创建。 可以使用“刷新”按钮从流程步骤的任何实例中轻松刷新这些内容，或者转到[!UICONTROL Admin] > [!UICONTROL Service Providers]菜单，然后在选择服务后单击[!UICONTROL Refresh Picklist]。
 
 ## 检查传入字段 {#checking-incoming-fields}
 

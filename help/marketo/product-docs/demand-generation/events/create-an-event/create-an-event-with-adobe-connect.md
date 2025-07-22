@@ -4,9 +4,9 @@ description: 使用Adobe Connect创建事件 — Marketo文档 — 产品文档
 title: 使用Adobe Connect创建活动
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -32,23 +32,23 @@ ht-degree: 0%
 >
 >我们目前不支持现场Adobe Connect。
 
-1. 在新事件的主页上，选择&#x200B;**事件操作**，然后选择&#x200B;**事件设置**。
+1. 在新事件的主页上，选择&#x200B;**[!UICONTROL Event Actions]**，然后选择&#x200B;**[!UICONTROL Event Settings]**。
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >如果您在下拉列表中未看到&#x200B;**事件设置**，请确保该事件的渠道在“应用于”下已选中&#x200B;**网络研讨会事件**。
+   >如果您在下拉列表中未看到&#x200B;**[!UICONTROL Event Settings]**，请确保该事件的渠道已在“**[!UICONTROL Event with Webinar]**”下选择[!UICONTROL Applies to]。
 
-1. 在&#x200B;**活动合作伙伴**&#x200B;下，选择&#x200B;**Adobe Connect**。
+1. 在&#x200B;**[!UICONTROL Event Partner]**&#x200B;下，选择&#x200B;**[!UICONTROL Adobe Connect]**。
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. 选择您的&#x200B;**登录** ID并选择您的&#x200B;**事件**。
+1. 选择您的&#x200B;**[!UICONTROL Login]** ID，然后选择您的&#x200B;**[!UICONTROL Event]**。
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. 单击&#x200B;**保存**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/event-settings-overview.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
    >
    >将您的确认电子邮件设置为&#x200B;**操作**，以确保注册和可能取消订阅的用户仍会收到其确认信息。
 
-   当新状态设置为“已注册”时，注册您的网络研讨会的用户将通过“更改项目状态”流程步骤推送至您的网络研讨会提供商。 没有其他状态会将该人员推倒。 此外，请确保将“更改项目状态”流程步骤#1和“发送电子邮件”流程步骤#2设置为。
+   当[!UICONTROL Change Program Status]设置为“已注册”时，注册您的网络研讨会的用户将通过[!UICONTROL New Status]流程步骤推送至您的网络研讨会提供商。 没有其他状态会将该人员推倒。 此外，请确保将[!UICONTROL Change Program Status]流程步骤#1和[!UICONTROL Send Email]流程步骤#2。
 
    ![](assets/adobe.png)
 
@@ -74,9 +74,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >数据可能需要48小时才能显示在Marketo中。 如果经过这么长时间后仍未看到任何内容，请从事件的“摘要”选项卡的“事件操作”菜单中选择&#x200B;**从网络研讨会提供程序刷新**。
+   >数据可能需要48小时才能显示在Marketo中。 如果在等待了这么长时间后仍未看到任何内容，请从事件的“摘要”选项卡的“事件操作”菜单中选择&#x200B;**[!UICONTROL Refresh from Webinar Provider]**。
 
    >[!MORELIKETHIS]
    >
-   >* [将Adobe Connect添加为LaunchPoint服务](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [将Adobe Connect添加为 [!DNL LaunchPoint] 服务](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [编辑事件频道](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)

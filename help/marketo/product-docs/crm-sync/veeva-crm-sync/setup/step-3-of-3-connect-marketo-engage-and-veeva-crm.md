@@ -1,31 +1,31 @@
 ---
-description: 第3步（共3步） — ConnectMarketo Engage和Veeva CRM - Marketo文档 — 产品文档
-title: 第3步（共3步） — 连接Marketo Engage和Veeva CRM
+description: 第3步（共3步） — 连接Marketo Engage和 [!DNL Veeva] CRM - Marketo文档 — 产品文档
+title: 第3步（共3步） — 连接Marketo Engage和 [!DNL Veeva] CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 0%
+source-wordcount: '305'
+ht-degree: 1%
 
 ---
 
-# 第3步（共3步）：连接Marketo Engage和Veeva CRM {#step-3-of-3-connect-marketo-engage-and-veeva-crm}
+# 第3步（共3步）：连接Marketo Engage和[!DNL Veeva] CRM {#step-3-of-3-connect-marketo-engage-and-veeva-crm}
 
-在本文中，您将配置Marketo Engage以与配置的Veeva CRM实例同步。 **您将在一些弹出窗口中看到Salesforce**，因为Veeva CRM是在Salesforce平台上构建的。
+在本文中，您将配置Marketo Engage以与配置的[!DNL Veeva] CRM实例同步。 **您将在某些弹出窗口中看到[!DNL Salesforce]**，因为[!DNL Veeva] CRM是基于[!DNL Salesforce]平台构建的。
 
 >[!PREREQUISITES]
 >
->* [第1步（共3步）：将Marketo字段添加到Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
->* [第2步（共3步）：为Marketo创建Veeva用户](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
+>* [第1步（共3步）：将Marketo字段添加到 [!DNL Veeva]](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>* [第2步（共3步）：为Marketo创建 [!DNL Veeva] 用户](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
 
 >[!IMPORTANT]
 >
->一次只能将一个Marketo实例连接到Veeva CRM实例。
+>一次只能将一个Marketo实例连接到[!DNL Veeva] CRM实例。
 
-## 使用OAuth连接到Veeva CRM {#connect-to-veeva-crm-using-oauth}
+## 使用OAuth连接到[!DNL Veeva] CRM {#connect-to-veeva-crm-using-oauth}
 
-1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**。 选择&#x200B;**[!UICONTROL CRM]**&#x200B;并单击&#x200B;**[!UICONTROL 与Veeva同步]**。
+1. 在Marketo中，单击&#x200B;**[!UICONTROL Admin]**。 选择&#x200B;**[!UICONTROL CRM]**&#x200B;并单击&#x200B;**[!UICONTROL Sync with Veeva]**。
 
    ![](assets/step-3-of-3-connect-marketo-engage-1.png)
 
@@ -33,45 +33,45 @@ ht-degree: 0%
    >
    >在单击“同步字段”之前，请确保向同步用户[隐藏Marketo中所有不需要的字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}。 单击“同步字段”后，该用户可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
 
-1. 单击&#x200B;**[!UICONTROL 使用Veeva登录]**。
+1. 单击 **[!UICONTROL Login with Veeva]**。
 
    ![](assets/step-3-of-3-connect-marketo-engage-2.png)
 
    >[!NOTE]
    >
-   >如果您正在将Marketo沙盒同步到Veeva CRM沙盒，请选中沙盒。
+   >如果您正在将Marketo沙盒同步到[!UICONTROL Sandbox] CRM沙盒，请选中[!DNL Veeva]。
 
-1. 单击&#x200B;**[!UICONTROL 确认凭据]**。
+1. 单击 **[!UICONTROL Confirm Credentials]**。
 
    ![](assets/step-3-of-3-connect-marketo-engage-3.png)
 
-1. 此时将出现一个显示Salesforce登录页面的弹出窗口。 输入您的“Marketo同步用户”凭据，然后单击&#x200B;**[!UICONTROL 登录]**。
+1. 此时将显示一个包含[!DNL Salesforce]登录页面的弹出窗口。 输入您的“Marketo同步用户”凭据，然后单击&#x200B;**[!UICONTROL Log In]**。
 
    ![](assets/step-3-of-3-connect-marketo-engage-4.png)
 
-1. 输入您通过电子邮件收到的验证码（由Salesforce发送），然后单击&#x200B;**[!UICONTROL 验证]**。
+1. 输入您通过电子邮件收到的验证码（由[!DNL Salesforce]发送），然后单击&#x200B;**[!UICONTROL Verify]**。
 
    ![](assets/step-3-of-3-connect-marketo-engage-5.png)
 
-1. 成功验证后，访问页面将显示请求访问。 单击&#x200B;**[!UICONTROL 允许]**。
+1. 成功验证后，访问页面将显示请求访问。 单击 **[!UICONTROL Allow]**。
 
    ![](assets/step-3-of-3-connect-marketo-engage-6.png)
 
-1. 几分钟后，Marketo Engae中将出现弹出窗口。 单击&#x200B;**[!UICONTROL 确认凭据]**。
+1. 几分钟后，Marketo Engae中将出现弹出窗口。 单击 **[!UICONTROL Confirm Credentials]**。
 
    ![](assets/step-3-of-3-connect-marketo-engage-7.png)
 
-## 启动Veeva同步 {#start-veeva-sync}
+## 启动[!DNL Veeva]同步 {#start-veeva-sync}
 
-1. 单击&#x200B;**[!UICONTROL 启动Veeva同步]**&#x200B;以开始永久性Marketo-Veeva CRM同步。
+1. 单击&#x200B;**[!UICONTROL Start Veeva Sync]**&#x200B;开始永久性[!DNL Marketo-Veeva] CRM同步。
 
    ![](assets/step-3-of-3-connect-marketo-engage-8.png)
 
    >[!CAUTION]
    >
-   >Marketo不会针对Veeva CRM同步或手动输入潜在客户时自动执行重复数据删除。
+   >Marketo不会针对[!DNL Veeva] CRM同步或当您手动输入潜在客户时，自动进行重复数据删除。
 
-1. 单击&#x200B;**[!UICONTROL 开始同步]**。
+1. 单击 **[!UICONTROL Start Sync]**。
 
    ![](assets/step-3-of-3-connect-marketo-engage-9.png)
 
@@ -81,9 +81,9 @@ ht-degree: 0%
 
 ## 验证同步 {#verify-sync}
 
-Marketo在管理区域为Veeva CRM同步提供状态消息。 您可以按照以下步骤验证同步是否正常工作。
+Marketo在管理区域为[!DNL Veeva] CRM同步提供状态消息。 您可以按照以下步骤验证同步是否正常工作。
 
-1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**，然后单击&#x200B;**[!UICONTROL Veeva]**。
+1. 在Marketo中，单击&#x200B;**[!UICONTROL Admin]**，然后单击&#x200B;**[!UICONTROL Veeva]**。
 
    ![](assets/step-3-of-3-connect-marketo-engage-10.png)
 

@@ -3,9 +3,9 @@ description: 触发器活动的优先级覆盖 — Marketo文档 — 产品文�
 title: 触发器活动的优先级覆盖
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -28,34 +28,34 @@ ht-degree: 0%
 >
 >只有管理员或具有管理员责任的用户才应具有营销活动优先级覆盖访问权限。
 
-1. 在[!UICONTROL 管理员]区域中，单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 在&#x200B;**[!UICONTROL Admin]**&#x200B;区域中，单击&#x200B;**[!UICONTROL Users & Roles]**。
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡，选择要授予其访问权限的用户，然后单击&#x200B;**[!UICONTROL 编辑角色]**。
+1. 单击“**[!UICONTROL Roles]**”选项卡，选择要向其授予访问权限的用户，然后单击“**[!UICONTROL Edit Role]**”。
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. 在[!UICONTROL 访问营销活动]下，选择&#x200B;**[!UICONTROL 编辑触发器促销活动优先级]**。 单击&#x200B;**[!UICONTROL 保存]**。
+1. 在&#x200B;**[!UICONTROL Access Marketing Activities]**&#x200B;下，选择&#x200B;**[!UICONTROL Edit Trigger Campaign Priority]**。 单击 **[!UICONTROL Save]**。
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
 ## 覆盖优先级 {#override-priority}
 
-1. 找到您的触发器促销活动。 右键单击并选择&#x200B;**[!UICONTROL 覆盖营销活动优先级]**。
+1. 找到您的触发器促销活动。 右键单击并选择&#x200B;**[!UICONTROL Override Campaign Priority]**。
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. 单击要启用的&#x200B;**[!UICONTROL 覆盖促销活动优先级]**&#x200B;滑块。 选择新的优先级并单击&#x200B;**[!UICONTROL 确认]**。
+1. 单击要启用的&#x200B;**[!UICONTROL Override Campaign Priority]**&#x200B;滑块。 选择新的优先级并单击&#x200B;**[!UICONTROL Confirm]**。
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
-   新的优先级将显示在“计划”选项卡中。
+   新的优先级将显示在&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡中。
 
    ![](assets/priority-override-for-trigger-campaigns-6.png)
 
 >[!NOTE]
 >
->* 您可以在[!UICONTROL 营销活动]下的[!UICONTROL 营销活动队列]中查看营销活动的默认优先级。 为了提高执行率，我们建议将营销活动优先级设置为比默认优先级高一个级别。
+>* 您可以在[!UICONTROL Campaign Queue]中的[!UICONTROL Marketing Activities]下查看营销活动的默认优先级。 为了提高执行率，我们建议将营销活动优先级设置为比默认优先级高一个级别。
 >* 用户集优先级仅适用于符合营销活动条件的新用户；已排队的用户不会受到影响。
 >* 已在[审核记录](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}中捕获优先级覆盖。

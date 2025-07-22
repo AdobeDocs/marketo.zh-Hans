@@ -4,9 +4,9 @@ description: 克隆流 — Marketo文档 — 产品文档
 title: 克隆流
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 出于各种原因克隆流，包括测试不同的顺序和不同的节奏。
 
-1. 选择您的参与计划，然后转到&#x200B;**流**&#x200B;选项卡。
+1. 选择您的参与计划，然后转到&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
    ![](assets/cloneasteam.jpg)
 
-1. 单击流齿轮图标，然后单击&#x200B;**克隆**。
+1. 单击流齿轮图标，然后单击&#x200B;**[!UICONTROL Clone]**。
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 

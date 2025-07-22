@@ -4,22 +4,22 @@ description: 按状态列出的人员报表 — Marketo文档 — 产品文档
 title: 按状态人员报表
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # 按状态人员报表 {#people-by-status-report}
 
-通过检查每个月在每个&#x200B;_人员状态_&#x200B;值中出现的人员数量，查看您在流程中移动人员的效果。
+通过检查每月每个&#x200B;_[!UICONTROL Person Status]_值中显示的人员数量，查看您在流程中转移人员的效果。
 
-1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**按状态列出的人员**&#x200B;[报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**[!UICONTROL People by Status]** [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
-1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)并单击&#x200B;**报告**&#x200B;选项卡。
+1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)并单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
 
-1. 太棒了！ 现在，您可以按月查看每个人员状态中的人员数量。
+1. 太棒了！ 现在，您可以看到每个&#x200B;_[!UICONTROL Person Status]_中每月有多少人。
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 

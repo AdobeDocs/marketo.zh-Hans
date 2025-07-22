@@ -3,10 +3,10 @@ description: 添加标识 — Marketo文档 — 产品文档
 title: 添加身份
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 0%
+source-wordcount: '174'
+ht-degree: 1%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 0%
 
    ![](assets/add-identity-1.png)
 
-1. 单击&#x200B;**电子邮件设置**。
+1. 单击 **[!UICONTROL Email Settings]**。
 
    ![](assets/add-identity-2.png)
 
-1. 单击&#x200B;**添加标识**。
+1. 单击 **[!UICONTROL Add Identity]**。
 
    ![](assets/add-identity-3.png)
 
-1. 输入信息（电子邮件和名称是必填字段），然后单击&#x200B;**创建**。
+1. 输入信息（电子邮件和名称是必填字段），然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/add-identity-4.png)
 
-1. 然后，您将收到“请验证电子邮件地址”电子邮件。 若要验证，请单击&#x200B;**验证电子邮件地址**。
+1. 然后，您将收到“请验证电子邮件地址”电子邮件。 要验证，请单击&#x200B;**[!UICONTROL Verify Email Address]**。
 
    ![](assets/add-identity-5.png)
 

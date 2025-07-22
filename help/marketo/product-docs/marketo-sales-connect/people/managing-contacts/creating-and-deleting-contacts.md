@@ -4,9 +4,9 @@ description: 创建和删除联系人 — Marketo文档 — 产品文档
 title: 创建和删除联系人
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## 创建联系人 {#creating-contacts}
 
-1. 在“人员”页面中，单击&#x200B;**组操作**&#x200B;按钮，然后选择&#x200B;**创建联系人**。
+1. 在[!UICONTROL People]页面中，单击&#x200B;**[!UICONTROL Group Actions]**&#x200B;按钮并选择&#x200B;**[!UICONTROL Create Contact]**。
 
    ![](assets/one-2.png)
 
-1. 输入名字/姓氏和电子邮件地址，以及您需要的任何其他信息。 完成时单击&#x200B;**创建**，或单击&#x200B;**新建并添加**&#x200B;以添加更多联系人。
+1. 输入名字/姓氏和电子邮件地址，以及您需要的任何其他信息。 完成时单击&#x200B;**[!UICONTROL Create]**，或单击&#x200B;**[!UICONTROL Create and Add New]**&#x200B;添加更多联系人。
 
    ![](assets/two-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 删除联系人 {#deleting-contacts}
 
-1. 在“人员”页面中，选中要删除的联系人对应的框。
+1. 在[!UICONTROL People]页面中，选中要删除的联系人的复选框。
 
    ![](assets/three-2.png)
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >要删除多个联系人，只需选择多个联系人即可。 其余步骤将相同。
 
-1. 单击圆点（三个垂直的点）并选择&#x200B;**删除**。
+1. 单击圆点（三个垂直的点）并选择&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/four-2.png)
 
-1. 单击&#x200B;**删除联系人**&#x200B;以进行确认。
+1. 单击&#x200B;**[!UICONTROL Delete Contact]**&#x200B;确认。
 
    ![](assets/five-2.png)

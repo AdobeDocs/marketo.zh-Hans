@@ -4,10 +4,10 @@ description: 在流程步骤中使用令牌 — Marketo文档 — 产品文档
 title: 在流程步骤中使用令牌
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 0%
+source-wordcount: '193'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 * 更改数据值
 * 更改项目群成员数据
 * 有趣的时刻
-* Salesforce Campaign步骤（添加、删除、更改状态）
+* [!DNL Salesforce]营销活动步骤（添加、删除、更改状态）
 * 创建任务
 * 发送警报（仅在“触发营销活动”中）
 
