@@ -33,7 +33,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNLB最佳匹配]、潜在客户提要、有趣的时刻以及添加到Marketo营销活动。
+>[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNL B最佳匹配]、潜在客户提要、有趣的时刻以及添加到Marketo营销活动。
 
 ## 启用[!DNL Salesforce1]移动应用 {#enable-the-salesforce1-mobile-app}
 

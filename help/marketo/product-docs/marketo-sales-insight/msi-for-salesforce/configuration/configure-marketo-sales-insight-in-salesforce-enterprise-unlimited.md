@@ -67,7 +67,7 @@ ht-degree: 1%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. 输入远程站点名称（它可以类似于`MarketoSoapAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Soap API Configuration]_面板的Marketo主机URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Soap API创建了远程站点设置。
+1. 输入远程站点名称（它可以类似于`MarketoSoapAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Soap API Configuration]_&#x200B;面板的Marketo主机URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Soap API创建了远程站点设置。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. 输入远程站点名称（它可以类似于`MarketoAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Rest API Configuration]_面板的API URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
+1. 输入远程站点名称（它可以类似于`MarketoAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Rest API Configuration]_&#x200B;面板的API URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
 
    >[!NOTE]
    >
@@ -91,7 +91,7 @@ ht-degree: 1%
 
 1. 单击Salesforce用户正在使用的配置文件旁边的&#x200B;**[!UICONTROL Edit]**。
 
-1. 在&#x200B;_[!UICONTROL Standard Object Permission]_部分下，启用以下对象的&#x200B;**[!UICONTROL Read]**访问权限： [!UICONTROL Lead]、[!UICONTROL Contact]、[!UICONTROL Account]和[!UICONTROL Opportunity]。
+1. 在&#x200B;_[!UICONTROL Standard Object Permission]_&#x200B;部分下，启用以下对象的&#x200B;**[!UICONTROL Read]**&#x200B;访问权限： [!UICONTROL Lead]、[!UICONTROL Contact]、[!UICONTROL Account]和[!UICONTROL Opportunity]。
 
 1. 单击 **[!UICONTROL Save]**。
 
@@ -105,7 +105,7 @@ ht-degree: 1%
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 单击左侧的&#x200B;**[!UICONTROL Visualforce Pages]**。 将&#x200B;**[!UICONTROL Section]**&#x200B;拖到&#x200B;_[!UICONTROL Custom Links]_分区下的布局。
+1. 单击左侧的&#x200B;**[!UICONTROL Visualforce Pages]**。 将&#x200B;**[!UICONTROL Section]**&#x200B;拖到&#x200B;_[!UICONTROL Custom Links]_&#x200B;分区下的布局。
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 

@@ -25,7 +25,7 @@ ht-degree: 0%
    >
    >[!DNL Salesforce]不允许将联系人分配给潜在客户队列。 对于SFDC联系人记录：
    >
-   >* 当联系人同步到Salesforce时，Marketo将仅创建重复的潜在客户&#x200B;**1}。**&#x200B;换句话说，如果您将&#x200B;**[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;流程步骤与`AssignTo=<a lead queue>`一起使用，Marketo将在Salesforce中创建重复的潜在客户并将其分配给潜在客户队列。
+   >* 当联系人同步到Salesforce时，Marketo将仅创建重复的潜在客户&#x200B;**1&rbrace;。**&#x200B;换句话说，如果您将&#x200B;**[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;流程步骤与`AssignTo=<a lead queue>`一起使用，Marketo将在Salesforce中创建重复的潜在客户并将其分配给潜在客户队列。
    >
    >* 如果您对联系人使用&#x200B;**[!UICONTROL Change Owner]**&#x200B;流程步骤，Marketo会在Salesforce中创建重复的潜在客户。 要避免此情况，请在“SFDC类型”字段上使用过滤器，该过滤器将操作限制为仅潜在客户。
 

@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/one.png)
 
-1. 在[!UICONTROL  Admin Settings]下，单击&#x200B;**[!UICONTROL Salesforce]**。
+1. 在[!UICONTROL &#x200B; Admin Settings]下，单击&#x200B;**[!UICONTROL Salesforce]**。
 
    ![](assets/six.png)
 

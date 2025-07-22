@@ -30,6 +30,6 @@ ht-degree: 0%
 
 ## 添加用户 {#add-users}
 
-1. 登录到Admin Console后，下一步要做的就是添加用户。 我们在此记录了该流程[](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}。
+1. 登录到Admin Console后，下一步要做的就是添加用户。 我们在此记录了该流程[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}。
 
 接下来，是时候[将Dynamic Chat连接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}。

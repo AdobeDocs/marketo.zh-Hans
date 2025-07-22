@@ -86,7 +86,7 @@ Analytics表提供了以下详细信息：
 
 * **[!UICONTROL Views]**：所选时间范围中该内容段的视图
 * **[!UICONTROL Direct Conversions]**：在同一次访问中查看了内容并填写了表单的Web访客。
-* **[!UICONTROL Conversion Rate]****：**&#x200B;直接转化除以点击量计算的百分比转化率
+* **[!UICONTROL Conversion Rate]**&#x200B;**：**&#x200B;直接转化除以点击量计算的百分比转化率
 
 **[!UICONTROL Trends]**
 

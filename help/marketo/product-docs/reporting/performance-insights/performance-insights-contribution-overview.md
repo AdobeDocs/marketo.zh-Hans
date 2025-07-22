@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/one-1.png)
 
-选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;仪表板中的&#x200B;_[!UICONTROL Revenue]_赢得的机会。
+选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;仪表板中的&#x200B;_[!UICONTROL Revenue]_&#x200B;赢得的机会。
 
 ![](assets/2.png)
 

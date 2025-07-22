@@ -707,7 +707,7 @@ ht-degree: 2%
     </tr>
     <tr>
       <td>[!UICONTROL Microsoft Created Date]</td>
-      <td>日期创建于[!DNL MS Dynamics](可能不同于在Marketo中创建)</td>
+      <td>日期创建于[!DNL MS Dynamics] (可能不同于在Marketo中创建)</td>
     </tr>
     <tr>
       <td>[!UICONTROL Microsoft is Deleted]</td>

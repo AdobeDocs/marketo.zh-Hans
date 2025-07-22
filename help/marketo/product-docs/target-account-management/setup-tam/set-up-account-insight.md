@@ -17,7 +17,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->必须先配置TAM帐户得分[](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
+>必须先配置TAM帐户得分[&#128279;](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
 
 1. 单击 **[!UICONTROL Admin]**。
 

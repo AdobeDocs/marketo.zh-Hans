@@ -34,4 +34,4 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您还可以使用筛选器或搜索功能以及&#x200B;_[!UICONTROL View As]_查看与您最相关的内容。
+   >您还可以使用筛选器或搜索功能以及&#x200B;_[!UICONTROL View As]_&#x200B;查看与您最相关的内容。
