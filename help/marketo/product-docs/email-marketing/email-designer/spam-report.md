@@ -2,14 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: 垃圾邮件杀手
-description: 此处显示文本
+description: 了解如何使用SpamAssassin测试您的电子邮件内容并查看将其标记为垃圾邮件的可能性。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
+source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '200'
 ht-degree: 3%
 
 ---
@@ -42,4 +43,4 @@ SpamAssassin会分析您的内容并根据各种标准分配分数。 得分越�
 
 >[!NOTE]
 >
->垃圾邮件分数通过SpamAssassin获得，而规则不归Adobe所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank)。 可以在此处[&#128279;](https://spamassassin.apache.org/old/tests_3_0_x.html?utm_source=chatgpt.com)查看错误的完整列表。
+>垃圾邮件分数通过SpamAssassin获得，而规则不归Adobe所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank)。 可以在此处[查看错误](https://spamassassin.apache.org/old/tests_3_0_x.html?utm_source=chatgpt.com)的完整列表。
