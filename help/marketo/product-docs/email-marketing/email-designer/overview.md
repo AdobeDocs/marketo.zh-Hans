@@ -5,9 +5,9 @@ description: 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 title: 概述
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++了解如何访问电子邮件设计器
 
-要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 添加用户 {#add-users}
 
@@ -53,8 +53,6 @@ ht-degree: 0%
 * [片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：了解如何创建和使用可视化内容片段，作为电子邮件和电子邮件模板的可重用组件。
 
 * [可自定义的片段](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：了解如何通过使其某些字段可编辑来自定义片段。
-
-* [Personalization令牌](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}：了解新电子邮件设计器中个性化令牌的新格式。
 
 * [使用AEM资源](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：了解如何轻松访问AEM数字资源，以便在Marketo Engage中使用。
 
