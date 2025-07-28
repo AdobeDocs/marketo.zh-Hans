@@ -3,10 +3,10 @@ description: 代理设置 — Marketo文档 — 产品文档
 title: 代理设置
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 2%
+source-wordcount: '605'
+ht-degree: 1%
 
 ---
 
@@ -78,7 +78,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->通过单击右侧的&#x200B;**+**&#x200B;符号，可选择同一天的多个时间块（例如，8a-12p _和_ 1p-5p之间的星期五）。
+>通过单击右侧的&#x200B;_+_&#x200B;符号，可选择同一天的多个时间块（例如，8a-12p **和** 1p-5p之间的星期五）。
 
 ## 实时聊天可用性 {#live-chat-availability}
 
@@ -90,11 +90,13 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->代理收件箱&#x200B;**中的[可用性切换](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}将覆盖您在“实时聊天可用性”选项卡中输入的内容**。 因此，如果您被安排在1p到5p之间可用，但需要在3p快速休息，则无需更改代理设置。 可用性切换状态将一直保留，直到您手动更改它或到达您的可用性中的下一个时间块为止。
+>* 代理收件箱[中的](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}可用性切换&#x200B;**将覆盖**&#x200B;在&#x200B;_实时聊天可用性_&#x200B;选项卡中输入的内容。 因此，如果座席从1p安排为5p可用，但需要在3p进行快速中断，则无需更改其座席设置。 可用性切换状态将一直保持到手动更改，直到到达代理可用性的下一个时间块，或者直到代理指定时区的午夜（有关更多信息，请参阅下一个项目符号）。
+>
+>* 当代理使用可用性切换将其状态更改为“可用”时，其状态会在可用性计划中指定的时区的午夜自动重置（切换为不可用）。 如果未指定时区，则默认为UTC（协调世界时）。
 
 >[!TIP]
 >
->通过单击右侧的&#x200B;**+**&#x200B;符号，可选择同一天的多个时间块（例如，8a-12p _和_ 1p-5p之间的星期五）。
+>通过单击右侧的&#x200B;_+_&#x200B;符号，可选择同一天的多个时间块（例如，8a-12p **和** 1p-5p之间的星期五）。
 
 ## 代理配置文件照片
 

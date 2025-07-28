@@ -5,9 +5,9 @@ description: 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 title: 概述
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++了解如何访问电子邮件设计器
 
-要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 添加用户 {#add-users}
 
@@ -114,4 +114,4 @@ ht-degree: 0%
 
 **哪些浏览器可以与新电子邮件Designer一起使用？**
 
-建议使用Google Chrome、Apple Safari或Microsoft Edge。 即将提供对Mozilla Firefox的完全支持。
+目前建议使用Google Chrome、Apple Safari、Microsoft Edge或Mozilla Firefox。
