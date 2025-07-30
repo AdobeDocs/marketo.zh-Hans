@@ -6,9 +6,9 @@ description: 了解如何使用SpamAssassin测试您的电子邮件内容并查�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: aba42b7480c6e042c462c423615ad35a5f66212f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '228'
 ht-degree: 5%
 
 ---
@@ -41,7 +41,7 @@ SpamAssassin会分析您的内容并根据各种标准分配分数。 得分越�
 
    >[!IMPORTANT]
    >
-   >如果总体分数高于5，则您的电子邮件可能会在投放时被阻止或标记为垃圾邮件。
+   >如果总体分数高于5，则收件人可能会阻止您的电子邮件，或者在投放时将其标记为垃圾邮件。
 
 1. 如果您认为分数过高，请根据报告调查结果在电子邮件Designer中编辑您的内容，然后重新运行&#x200B;**垃圾邮件报告**。
 
@@ -53,4 +53,4 @@ SpamAssassin会分析您的内容并根据各种标准分配分数。 得分越�
 
 >[!NOTE]
 >
->垃圾邮件分数通过SpamAssassin获得，而规则不归Adobe所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank){target="_blank"}。 可以在此处[查看错误](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}的完整列表。
+>垃圾邮件分数是通过SpamAssassin派生的，并且&#x200B;**规则不归Adobe**&#x200B;所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank){target="_blank"}。 可以在此处[查看错误](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}的完整列表。
