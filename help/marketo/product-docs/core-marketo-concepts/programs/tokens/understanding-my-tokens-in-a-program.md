@@ -4,9 +4,9 @@ description: 了解项目中的我的令牌 — Marketo文档 — 产品文档
 title: 了解项目中的我的令牌
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>电子邮件脚本 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此令牌可在您的电子邮件中执行Velocity脚本。 在<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting" title="关注链接" rel="nofollow">此处</a>了解详情。 </td> 
+   <td>使用此令牌可在您的电子邮件中执行Velocity脚本。 在<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="关注链接" rel="nofollow">此处</a>了解详情。 </td> 
   </tr> 
   <tr> 
    <td>数字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,6 +86,10 @@ ht-degree: 1%
 您可以生成全局变量，然后在树中的较低级别覆盖它们。
 
 移动程序和文件夹也会影响令牌。 请务必检查以确保在移动过程中参照不会断开。
+
+>[!IMPORTANT]
+>
+>[批次营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}不支持嵌套令牌。
 
 >[!NOTE]
 >
