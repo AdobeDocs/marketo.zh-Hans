@@ -3,9 +3,9 @@ description: 响应库 — Marketo文档 — 产品文档
 title: 响应库
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -16,23 +16,23 @@ ht-degree: 0%
 
 ## 手动添加问题 {#manually-add-a-question}
 
-1. 在“生成AI”下，单击&#x200B;**[!UICONTROL 辅助响应]**。
+1. 在“生成AI”下，单击&#x200B;**[!UICONTROL Assisted responses]**。
 
    ![](assets/response-library-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 响应库]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Response library]**&#x200B;选项卡。
 
    ![](assets/response-library-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 添加问题]**。
+1. 单击 **[!UICONTROL Add question]**。
 
    ![](assets/response-library-3.png)
 
-1. 输入您的问题和回答。 分配主题并添加用户可与访客共享的可选URL。 完成后单击&#x200B;**[!UICONTROL 保存]**。
+1. 输入您的问题和回答。 分配主题并添加用户可与访客共享的可选URL。 完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/response-library-4.png)
 
-1. 单击刷新，您的新问题将显示在顶部，状态为“[!UICONTROL 正在处理]”。
+1. 单击刷新，您的新问题将以“[!UICONTROL Processing]”状态显示在顶部。
 
    ![](assets/response-library-5.png)
 
@@ -44,19 +44,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->默认情况下，所有生成的问题和响应都分配有&quot;[!UICONTROL 需要审阅]&quot;状态。 仅向聊天访客提供“[!UICONTROL 已批准]”的问题和回复。
+>默认情况下，所有生成的问题和响应都分配有&quot;[!UICONTROL need review]&quot;状态。 仅向聊天访客提供&quot;[!UICONTROL approved]&quot;问题和响应。
 
-1. 在&#x200B;**[!UICONTROL 响应库]**&#x200B;中，单击所需的问题。
+1. 在&#x200B;**[!UICONTROL Response library]**&#x200B;中，单击所需的问题。
 
    ![](assets/response-library-7.png)
 
-1. 进行编辑并单击&#x200B;**[!UICONTROL 保存]**。
+1. 进行编辑并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/response-library-8.png)
 
 ## 批量编辑和上传问题/响应 {#bulk-edit-and-upload-questions-responses}
 
-下面是如何在下载的Excel文件中进行批量编辑的说明。 它们还可以在文件的Task details选项卡中查看。
+以下说明如何在[下载的Excel文件](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"}中进行批量编辑。 它们还可以在文件的Task details选项卡中查看。
 
 <table>
 <thead>
@@ -85,11 +85,11 @@ ht-degree: 0%
 </tbody>
 </table>
 
-1. 在文件中完成编辑后，返回&#x200B;**[!UICONTROL 响应库]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 上载响应]**。
+1. 在文件中完成编辑后，返回到&#x200B;**[!UICONTROL Response library]**&#x200B;选项卡并单击&#x200B;**[!UICONTROL Upload responses]**。
 
    ![](assets/response-library-9.png)
 
-1. 输入适用的任务名称。 拖放文件，或浏览到设备上并选择该文件。 完成后单击&#x200B;**[!UICONTROL 保存]**。
+1. 输入适用的任务名称。 拖放文件，或浏览到设备上并选择该文件。 完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/response-library-10.png)
 
