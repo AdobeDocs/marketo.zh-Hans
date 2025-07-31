@@ -4,9 +4,9 @@ description: 发行计划 - Marketo 文档 - 产品文档
 title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: c06b4b0c648d1f464994926dd17cbc412823a37c
+source-git-commit: 4a575c96100921c69c09996c649db979ac22cd4d
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 8%
 
 ---
@@ -48,14 +48,14 @@ _发行日期/功能可能会发生更改_
    <td>已发货</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">’25年5月</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">’25年5月</a></td>
    <td>2025年5月23日</td>
-   <td>进行中</td>
+   <td>已发货</td>
   </tr>
   <tr> 
-   <td>’25年7月</td>
+   <td><a href="/help/marketo/release-notes/current.md">’25年7月</a></td>
    <td>2025年7月11日</td>
-   <td>按计划</td>
+   <td>进行中</td>
   </tr>
   <tr> 
    <td>’25年8月</td>
