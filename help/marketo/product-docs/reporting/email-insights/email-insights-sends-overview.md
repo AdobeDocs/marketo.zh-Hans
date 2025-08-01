@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-**[!UICONTROL Type]**指示使用的资源类型。
-**[!UICONTROL Recipient]**数字是已发送电子邮件的人员数。
-**[!UICONTROL Delivery Metrics]**可让您快速查看已投放、待处理或已退回的电子邮件数量。
-**[!UICONTROL Engagement Metrics]**让您快速了解已打开、单击和取消订阅电子邮件的收件人数量。
+**[!UICONTROL Type]**&#x200B;指示使用的资源类型。
+**[!UICONTROL Recipient]**&#x200B;数字是已发送电子邮件的人员数。
+**[!UICONTROL Delivery Metrics]**&#x200B;可让您快速查看已投放、待处理或已退回的电子邮件数量。
+**[!UICONTROL Engagement Metrics]**&#x200B;让您快速了解已打开、单击和取消订阅电子邮件的收件人数量。
 **[!UICONTROL Score]**&#x200B;是您电子邮件的[参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 默认情况下，您的电子邮件按最新电子邮件排序，但您可以按任何可用量度对这些电子邮件排序。
