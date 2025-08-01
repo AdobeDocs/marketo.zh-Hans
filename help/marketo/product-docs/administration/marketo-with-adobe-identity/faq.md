@@ -40,7 +40,7 @@ Adobe Identity Management System包含三个组件。
 
 **此项是否适用于SSO？**
 
-可以。与Adobe IMS的集成支持通用ID用户和SSO。 SSO现在由Adobe IMS驱动，在Adobe Admin Console的组织级别设置。 但是，与Marketo Engage SP启动的支持相比，Adobe IdP启动的支持存在差异（[在此了解更多](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}）。 如果您在迁移到Admin Console后需要有关SSO差异的帮助，请联系[Adobe客户关怀](https://helpx.adobe.com/contact.html){target="_blank"}。
+可以。与Adobe IMS的集成支持通用ID用户和SSO。 SSO现在由Adobe IMS驱动，在Adobe Admin Console的组织级别设置。 但是，与Marketo Engage SP启动的支持相比，Adobe IdP启动的支持存在差异（[在此了解更多](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}）。 如果您在迁移到Admin Console后需要有关SSO差异的帮助，请联系[Adobe客户关怀](https://helpx.adobe.com/cn/contact.html){target="_blank"}。
 
 **Adobe产品管理员与Marketo Engage管理员有何区别？**
 
@@ -75,7 +75,7 @@ Adobe Identity Management System包含三个组件。
 
 **我是IMS集成订阅中的Marketo管理员，无权访问Admin Console。 如何获取访问权限？**
 
-任何有权访问贵组织Admin Console的Adobe系统或产品管理员都可以为您提供访问权限。 如果您不确定贵组织中的哪些人具有控制台中的管理员权限，请联系[Adobe客户关怀团队](https://helpx.adobe.com/contact.html){target="_blank"}。
+任何有权访问贵组织Admin Console的Adobe系统或产品管理员都可以为您提供访问权限。 如果您不确定贵组织中的哪些人具有控制台中的管理员权限，请联系[Adobe客户关怀团队](https://helpx.adobe.com/cn/contact.html){target="_blank"}。
 
 **管理员如何将用户添加到Marketo [!DNL Sales Connect]？**
 
@@ -83,7 +83,7 @@ Adobe Identity Management System包含三个组件。
 
 **在哪里可以了解有关Adobe Admin Console的更多信息？**
 
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/cn/enterprise/admin-guide.html){target="_blank"}。
+[https://helpx.adobe.com/cn/enterprise/admin-guide.html](https://helpx.adobe.com/cn/enterprise/admin-guide.html){target="_blank"}。
 
 **我是否仍要转到Marketo中的“管理员”部分以更改我的帐户？**
 
@@ -143,7 +143,7 @@ Adobe Admin Console附带默认的Business ID目录。 在Adobe组织的Federate
 
 **如何防止会话超时？**
 
-在[高级设置](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}中，您可以自定义所需的最长会话寿命（需要系统管理员权限）。 建议在产品迁移之后、用户迁移之前建立此设置。
+在[高级设置](https://helpx.adobe.com/cn/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}中，您可以自定义所需的最长会话寿命（需要系统管理员权限）。 建议在产品迁移之后、用户迁移之前建立此设置。
 
 **我现在必须导航到Experience Cloud才能访问Marketo Engage。 是否有办法简化此流程？**
 

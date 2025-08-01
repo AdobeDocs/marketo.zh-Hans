@@ -25,7 +25,7 @@ ht-degree: 2%
   <tr>
    <td>全局登陆页面</td>
    <td><li>有多少个全局<a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">登陆页面</a>？ 它们是否被程序使用？</li>
-   <li>是否已设置<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">订阅中心</a>？
+   <li>是否已设置<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=zh-Hans" target="_blank">订阅中心</a>？
    <br/>     如果不能，请考虑创建一个。</li></td>
   </tr>
   <tr>

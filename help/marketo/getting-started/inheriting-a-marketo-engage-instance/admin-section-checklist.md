@@ -33,7 +33,7 @@ ht-degree: 1%
   <tr>
    <td>订阅和Marketo Engage产品管理员</td>
    <td><li>您的Marketo Engage订阅是否已迁移到<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>？
-<br/>     如果是这样，您的“Adobe Admin Console系统管理员”是否已向您授予“Adobe Admin Console产品管理员”角色？ 如果您不确定贵组织中的哪些人具有控制台中的管理员权限，请联系<a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客户关怀团队</a>。</li>
+<br/>     如果是这样，您的“Adobe Admin Console系统管理员”是否已向您授予“Adobe Admin Console产品管理员”角色？ 如果您不确定贵组织中的哪些人具有控制台中的管理员权限，请联系<a href="https://helpx.adobe.com/cn/contact.html" target="_blank">Adobe客户关怀团队</a>。</li>
 <li>您是否接受了“Marketo Engage产品管理员”邀请？ 在Adobe Admin Console中分配角色后，将发送电子邮件。
 <br/>     如果没有，请在收件箱中查找<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">欢迎电子邮件</a>，并接受邀请以激活您的Adobe ID。</li></td>
   </tr>
@@ -281,7 +281,7 @@ ht-degree: 1%
    <td>Munchkin</td>
    <td><li>您的<a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin跟踪代码</a>是否在您的网站(不是Marketo Engage登录页面)上？</li>
 <li>是否启用<a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a>浏览器请求？</li>
-<li>您的<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a>是否已配置？
+<li>您的<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a>是否已配置？
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：如果您缺少有关munchkin代码在您网站上的位置的文档，可以通过创建<a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">网页活动报告</a>来查看所有URL。</li></td>
   </tr>
   <tr>
@@ -293,7 +293,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>Adobe Dynamic Chat（如果适用）</td>
-<td>执行以下步骤需要访问<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未设置Adobe ID，请<a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">在此学习如何执行该操作</a>。
+<td>执行以下步骤需要访问<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未设置Adobe ID，请<a href="https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html" target="_blank">在此学习如何执行该操作</a>。
 <br/>
 <li>您是否接受了<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat产品管理员</a>邀请？ 当您在Marketo Engage实例中启用Dynamic Chat并且您被指定为系统管理员时，将发送电子邮件。
 <br/>     如果没有，请在收件箱中查找欢迎电子邮件，并接受邀请来设置您的Adobe ID。</li>

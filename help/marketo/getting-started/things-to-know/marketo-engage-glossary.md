@@ -444,7 +444,7 @@ ht-degree: 2%
  <tbody>
   <tr>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>已知人员</strong></a></td>
-   <td><p>Marketo <strong>数据库</strong>中的任何人员数据都被视为已知人员数据。 用户可以通过多种方式输入数据库，包括：CRM同步、填写表单、列表导入/手动输入、程序化（rest API/合作伙伴集成）等。 Web访客最初通过Marketo的<strong>Munchkin</strong> Web跟踪进行<strong>编码</strong>（且匿名），随后在可识别操作发生时映射到相应的已知人员记录(例如，单击Marketo电子邮件中的跟踪链接、使用电子邮件地址填写表单，或通过<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a>和<a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a>中的Marketo关联潜在客户API手动映射)</p></td>
+   <td><p>Marketo <strong>数据库</strong>中的任何人员数据都被视为已知人员数据。 用户可以通过多种方式输入数据库，包括：CRM同步、填写表单、列表导入/手动输入、程序化（rest API/合作伙伴集成）等。 Web访客最初通过Marketo的<strong>Munchkin</strong> Web跟踪进行<strong>编码</strong>（且匿名），随后在可识别操作发生时映射到相应的已知人员记录(例如，单击Marketo电子邮件中的跟踪链接、使用电子邮件地址填写表单，或通过<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a>和<a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a>中的Marketo关联潜在客户API手动映射)</p></td>
   </tr>
  </tbody>
 </table>
@@ -535,7 +535,7 @@ ht-degree: 2%
    <td>也称为MSD。 Marketo与这两个CRM之一具有本机集成（请参阅<a href="#c"><strong>CRM</strong></a>）。</td>
   </tr>
   <tr>
-   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td>
+   <td><strong><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td>
    <td>Marketo的自定义JavaScript跟踪代码。 它跟踪访问您网站的所有个人。 这包括匿名访客（以及其IP地址和其他信息）。 </td>
   </tr>
   <tr>

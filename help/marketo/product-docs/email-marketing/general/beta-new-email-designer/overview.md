@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+>要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 新的电子邮件Designer是Marketo Engage中的一项最新创新，旨在提供经过改进的电子邮件和电子邮件模板创建体验，通过提供可视化的拖放编辑器和标准的开箱即用模板来提高生产力和效率。 轻松创建自定义的电子邮件模板，无需花钱购买供应商。
 

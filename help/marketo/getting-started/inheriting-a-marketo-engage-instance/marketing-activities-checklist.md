@@ -157,7 +157,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>订阅/偏好设置中心</td>
-   <td><li>是否已设置<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">订阅/首选项中心</a>？ 它是否按预期运行？</li></td>
+   <td><li>是否已设置<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=zh-Hans" target="_blank">订阅/首选项中心</a>？ 它是否按预期运行？</li></td>
   </tr>
   <tr>
    <td>有趣的时刻（如果适用）</td>
