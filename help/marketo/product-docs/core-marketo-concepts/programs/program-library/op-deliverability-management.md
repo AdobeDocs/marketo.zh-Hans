@@ -3,10 +3,10 @@ description: 操作可投放性管理 — Marketo文档 — 产品文档
 title: 操作可投放性管理
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 4%
+ht-degree: 8%
 
 ---
 
@@ -16,86 +16,86 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->需要自定义字符串字段“营销暂停原因”才能导入。 [了解更多](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}。
+>需要自定义字符串字段“营销暂停原因”才能导入。 [了解详情](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}。
 
-有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>渠道</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>渠道</th>
    <th>成员资格状态</th>
    <th>Analytics行为</th>
    <th>项目类型</th>
-  </tr> 
-  <tr> 
-   <td>可操作</td> 
+  </tr>
+  <tr>
+   <td>可操作</td>
    <td>01个成员</td>
    <td>可操作</td>
    <td>默认</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 先决条件字段 {#prerequisite-fields}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>类型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>类型</th>
    <th>友好名称</th>
    <th>API名称</th>
   </tr>
-  <tr> 
-   <td>字符串</td> 
+  <tr>
+   <td>字符串</td>
    <td>营销暂停原因</td>
    <td>MarketingSuspendedReason</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 程序包含以下Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>类型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>类型</th>
    <th>模板名称</th>
    <th>资源名称</th>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智能营销活动</td>
    <td> </td>
    <td>营销暂停长期无响应者</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智能营销活动</td>
    <td> </td>
    <td>营销暂停将长期退回电子邮件</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智能营销活动</td>
    <td> </td>
    <td>更新电子邮件后重置“电子邮件无效”</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智能营销活动</td>
    <td> </td>
    <td>电子邮件更新后重置“营销已暂停”</td>
   </tr>
-  <tr> 
-   <td>文件夹</td> 
+  <tr>
+   <td>文件夹</td>
    <td> </td>
    <td>管理</td>
   </tr>
-  <tr> 
-   <td>文件夹</td> 
+  <tr>
+   <td>文件夹</td>
    <td> </td>
    <td>审查</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-deliverability-management-1.png)

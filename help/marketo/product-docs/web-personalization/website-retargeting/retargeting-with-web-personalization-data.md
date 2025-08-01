@@ -4,7 +4,7 @@ description: 使用Web Personalization数据重新定位 — Marketo文档 — �
 title: 使用Web Personalization数据重新定位
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 1%
@@ -26,30 +26,30 @@ Web Personalization当前会将数据附加到以下再营销平台：
 
 [!DNL Web Personalization]将以下数据发送到再营销平台以创建受众并运行再营销广告活动：
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1">[!DNL Web Personalization] 数据</th> 
-  </tr> 
-  <tr> 
-   <th><p>行业</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>组（企业、SMB）</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>类别(Fortune 500/1000， Global 2000)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>ABM列表（指定帐户列表）</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>分段受众（基于区段）</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>已单击Web营销活动</p></th> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th colspan="1">[!DNL Web Personalization] 数据</th>
+  </tr>
+  <tr>
+   <th><p>行业</p></th>
+  </tr>
+  <tr>
+   <th><p>组（企业、SMB）</p></th>
+  </tr>
+  <tr>
+   <th><p>类别(Fortune 500/1000， Global 2000)</p></th>
+  </tr>
+  <tr>
+   <th><p>ABM列表（指定帐户列表）</p></th>
+  </tr>
+  <tr>
+   <th><p>分段受众（基于区段）</p></th>
+  </tr>
+  <tr>
+   <th><p>已单击Web营销活动</p></th>
+  </tr>
+ </tbody>
 </table>
 
 ## 再营销配置 {#remarketing-configuration}

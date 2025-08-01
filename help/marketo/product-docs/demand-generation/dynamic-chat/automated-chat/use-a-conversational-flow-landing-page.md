@@ -4,7 +4,7 @@ title: 使用对话式流量登陆页面
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 使用对话式流量登陆页面{#use-a-conversational-flow-landing-page}
 
-将Dynamic Chat对话流直接嵌入到Marketo Engage登录页面，使访客无需填写表单或与聊天机器人交互，即可通过Dynamic Chat安排会议。
+将Dynamic Chat对话流直接嵌入到Marketo Engage登录页面，让访客无需填写表单或与聊天机器人交互，即可通过Dynamic Chat安排会议。
 
 >[!PREREQUISITES]
 >
->创建仅包含&#x200B;**会议预订**&#x200B;卡片的简单[对话流](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)。
+>创建仅包含[会议预订](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)卡片的简单&#x200B;**对话流**。
 
 ## 引导式登陆页面 {#guided-landing-pages}
 
@@ -47,4 +47,3 @@ ht-degree: 0%
 引导式lp，模板的新增div id，选择conv flow
 
 自由格式lp，带入图标 — 警告：添加注释 — 当您将cf放在编辑器上时，它不会显示预览（没有占位符） — “您将看不到预览” — 在侧边栏上，他们将看到cf位于页面上 — 引导式lp将其列为元素 — 在说明时使用“此时” — 功能可能会在22日这一周正式启用
-

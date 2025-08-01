@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: Marketo沙盒 — Marketo文档 — 产品文档
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Marketo Engage沙盒是在生产环境中实施之前用于测试目的的附加
 
 >[!CAUTION]
 >
->我们当前不支持Marketo Dynamics同步的沙盒刷新。 如果您需要刷新Dynamics CRM沙盒，则需要新的Marketo沙盒。 有关其他详细信息，请联系您的Adobe客户团队（您的客户经理）。
+>我们当前不支持Marketo Dynamics同步的沙盒刷新。 如果您需要刷新Dynamics CRM沙盒，则需要新的Marketo沙盒。 有关更多详细信息，请联系您的Adobe客户团队（您的客户经理）。
 
 ## 实例复制 {#instance-copy}
 

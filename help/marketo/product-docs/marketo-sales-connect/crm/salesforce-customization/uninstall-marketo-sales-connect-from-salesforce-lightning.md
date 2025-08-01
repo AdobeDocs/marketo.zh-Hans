@@ -2,16 +2,16 @@
 description: 从Salesforce Lightning卸载Marketo Sales Connect - Marketo文档 — 产品文档
 title: 从Salesforce Lightning卸载Marketo Sales Connect
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 067525fec8a761f111433dca61278bed0b58cc2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
 # 从Salesforce Lightning卸载Marketo Sales Connect {#uninstall-marketo-sales-connect-from-salesforce-lightning}
 
-下面说明了如何在开始使用Sales Insight Actions后，从Salesforce帐户中卸载Marketo Sales Connect软件包。
+下面说明了如何在开始使用Sales Insight Actions后，从Salesforce帐户卸载Marketo Sales Connect软件包。
 
 ## 从页面布局中删除Sales Connect字段 {#remove-sales-connect-fields-from-page-layout}
 
@@ -37,7 +37,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >Salesforce Lightning中的编辑页面布局视图尚未更新。
+   >在Salesforce Lightning中，尚未更新编辑页面布局视图。
 
 1. 在控制台中，选择&#x200B;**字段**。 在“快速查找”中，搜索“MSC”。 所有灰显的字段均已添加到您的页面布局中。 你必须删除它们。
 
@@ -297,9 +297,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 上次营销参与日期</td>
   <td>营销活动的参与时间戳</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>数据和时间</td>
  </tr>
@@ -307,9 +307,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 上次营销活动说明</td>
   <td>预订的描述</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>文本</td>
  </tr>
@@ -317,9 +317,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 上次营销参与Source</td>
   <td>Source营销参与度</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>文本</td>
  </tr>
@@ -327,9 +327,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 上次营销参与类型</td>
   <td>参与类型（例如：Web活动）</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>文本</td>
  </tr>
@@ -337,9 +337,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 按销售列出的最近活动</td>
   <td>销售团队执行的最后一次传出活动</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>数据和时间</td>
  </tr>
@@ -347,9 +347,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 上次回复</td>
   <td>销售电子邮件的最后一次电子邮件回复</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>数据和时间</td>
  </tr>
@@ -357,9 +357,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 当前销售活动</td>
   <td>联系人/潜在客户所在的MSC营销活动的日志名称</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>文本</td>
  </tr>
@@ -377,9 +377,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 选择退出</td>
   <td>选择禁用字段</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>复选框</td>
  </tr>
@@ -395,9 +395,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>发送MSC电子邮件</td>
   <td>从Salesforce发送销售电子邮件</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
  </tr>
  <tr>
@@ -416,7 +416,7 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
  </tr>
  <tr>
   <td>通过MSC呼叫</td>
-  <td>从Salesforce发出销售调用</td>
+  <td>从Salesforce发出销售呼叫</td>
   <td>
   <p>联系人
   <p>潜在客户</td>
@@ -445,7 +445,7 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
  </tr>
  <tr>
   <td>通过MSC发送电子邮件</td>
-  <td>从Salesforce向MSC发送电子邮件</td>
+  <td>通过Salesforce的MSC发送电子邮件</td>
   <td>
   <p>联系人
   <p>潜在客户</td>

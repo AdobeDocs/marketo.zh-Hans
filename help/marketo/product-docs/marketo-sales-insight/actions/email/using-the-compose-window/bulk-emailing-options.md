@@ -3,7 +3,7 @@ description: 批量发送电子邮件选项 — Marketo文档 — 产品文档
 title: 批量发送电子邮件选项
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 3%
@@ -16,41 +16,41 @@ ht-degree: 3%
 
 **群电子邮件与选择并发送**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>发送类型</th> 
-   <th>电子邮件最大数量</th> 
-   <th>发起发送者</th> 
-   <th>批量编辑电子邮件</th> 
-   <th>唯一编辑每封电子邮件</th> 
-   <th>模板和动态字段支持</th> 
-  </tr> 
-  <tr> 
-   <td>群组电子邮件</td> 
-   <td>1,000</td> 
-   <td>选择一个组并单击“[!UICONTROL Group Actions]”按钮，或在“收件人”字段中键入组名。</td> 
-   <td>是</td> 
-   <td>否</td> 
-   <td>是</td> 
-  </tr> 
-  <tr> 
-   <td>选择并发送</td> 
-   <td>200</td> 
-   <td>选择网格中的人员，然后单击操作栏中的“[!UICONTROL Email Selected]”按钮，或在批量电子邮件侧边栏中键入收件人。</td> 
-   <td>是</td> 
-   <td>是</td> 
-   <td>是</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>发送类型</th>
+   <th>电子邮件最大数量</th>
+   <th>发起发送者</th>
+   <th>批量编辑电子邮件</th>
+   <th>唯一编辑每封电子邮件</th>
+   <th>模板和动态字段支持</th>
+  </tr>
+  <tr>
+   <td>群组电子邮件</td>
+   <td>1,000</td>
+   <td>选择一个组并单击“[!UICONTROL Group Actions]”按钮，或在“收件人”字段中键入组名。</td>
+   <td>是</td>
+   <td>否</td>
+   <td>是</td>
+  </tr>
+  <tr>
+   <td>选择并发送</td>
+   <td>200</td>
+   <td>选择网格中的人员，然后单击操作栏中的“[!UICONTROL Email Selected]”按钮，或在批量电子邮件侧边栏中键入收件人。</td>
+   <td>是</td>
+   <td>是</td>
+   <td>是</td>
+  </tr>
+ </tbody>
 </table>
 
 **使用群电子邮件**

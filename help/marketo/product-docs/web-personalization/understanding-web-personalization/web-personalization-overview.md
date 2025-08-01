@@ -4,7 +4,7 @@ description: Web Personalization概述 — Marketo文档 — 产品文档
 title: Web Personalization概述
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '775'
 ht-degree: 1%
@@ -66,13 +66,13 @@ ht-degree: 1%
 
 “组织”页面的右侧面板提供了以下功能和见解：
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>电子表格图标</strong>：图标位于面板的右上角，该图标以CSV格式下载组织表以供脱机使用</p><p><strong>[!UICONTROL Set Email Alert]</strong>：每次在选定的组织访问网站时，向登录用户发送一封电子邮件</p><p><strong>[!UICONTROL Leads]</strong>：打开所选组织的潜在客户表</p><p><strong>[!UICONTROL Share]</strong>：打开一个弹出窗口以发送电子邮件并共享访问网页的组织的详细信息</p><p><strong>位置图标</strong>：显示所选组织的国家/地区和城市</p><p><strong>链接</strong>： Jigsaw、Whois、Linkedin、Google、Twitter会打开一个新窗口，其中包含相应网页中的附加信息，这些网页向所选组织提供额外的insight</p><p><strong>[!UICONTROL Search]</strong>：显示访客通过搜索引擎到达时使用的关键词</p><p><strong>[!UICONTROL Referrers]</strong>：显示将流量引向网站的页面的URL链接</p><p><strong>[!UICONTROL Visitors]</strong>：显示访问次数、所选组织查看的页面数及其电子邮件地址（如果他们已完成提交表单）以及上次访问的时间和日期</p><p><strong>[!UICONTROL Clickstream]</strong>：显示一个表格，其中包含用户活动以及网站上的URL路径以及他们访问每个页面的时间</p></td> 
-   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>电子表格图标</strong>：图标位于面板的右上角，该图标以CSV格式下载组织表以供脱机使用</p><p><strong>[!UICONTROL Set Email Alert]</strong>：每次在选定的组织访问网站时，向登录用户发送一封电子邮件</p><p><strong>[!UICONTROL Leads]</strong>：打开所选组织的潜在客户表</p><p><strong>[!UICONTROL Share]</strong>：打开一个弹出窗口以发送电子邮件并共享访问网页的组织的详细信息</p><p><strong>位置图标</strong>：显示所选组织的国家/地区和城市</p><p><strong>链接</strong>： Jigsaw、Whois、Linkedin、Google、Twitter会打开一个新窗口，其中包含相应网页中的附加信息，这些网页向所选组织提供额外的insight</p><p><strong>[!UICONTROL Search]</strong>：显示访客通过搜索引擎到达时使用的关键词</p><p><strong>[!UICONTROL Referrers]</strong>：显示将流量引向网站的页面的URL链接</p><p><strong>[!UICONTROL Visitors]</strong>：显示访问次数、所选组织查看的页面数及其电子邮件地址（如果他们已完成提交表单）以及上次访问的时间和日期</p><p><strong>[!UICONTROL Clickstream]</strong>：显示一个表格，其中包含用户活动以及网站上的URL路径以及他们访问每个页面的时间</p></td>
+   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td>
+  </tr>
+ </tbody>
 </table>
 
 **共享组织**
@@ -93,35 +93,35 @@ ht-degree: 1%
 
 [!UICONTROL Visitors]页面的右侧面板提供了以下分析：
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名称</th> 
-   <th colspan="1" rowspan="1">描述</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>电子表格图标</strong></td> 
-   <td colspan="1" rowspan="1">图标位于面板的右上角，可下载CSV格式的访客表以供脱机使用</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>组织名称</strong></p></td> 
-   <td colspan="1" rowspan="1"> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>设置营销活动</strong></td> 
-   <td colspan="1" rowspan="1">用于设置与选定访客关联的促销活动CTA</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>位置</strong></td> 
-   <td colspan="1">显示访客的国家/地区、州和城市</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>点击流</strong></td> 
-   <td colspan="1" rowspan="1">显示一个表，其中包含访客在网站上的活动和URL路径以及他们访问每个页面的时间</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名称</th>
+   <th colspan="1" rowspan="1">描述</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>电子表格图标</strong></td>
+   <td colspan="1" rowspan="1">图标位于面板的右上角，可下载CSV格式的访客表以供脱机使用</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>组织名称</strong></p></td>
+   <td colspan="1" rowspan="1"> </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>设置营销活动</strong></td>
+   <td colspan="1" rowspan="1">用于设置与选定访客关联的促销活动CTA</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>位置</strong></td>
+   <td colspan="1">显示访客的国家/地区、州和城市</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>点击流</strong></td>
+   <td colspan="1" rowspan="1">显示一个表，其中包含访客在网站上的活动和URL路径以及他们访问每个页面的时间</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 实时 {#real-time}
@@ -134,37 +134,37 @@ ht-degree: 1%
 
 实时页面分为现场访客详细信息的6个信息表：
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名称</th> 
-   <th colspan="1" rowspan="1">描述</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td> 
-   <td colspan="1" rowspan="1"> 表示您的网站上当前访客的数量</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td> 
-   <td colspan="1" rowspan="1"> 显示每分钟网站点击量的实时折线图</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td> 
-   <td colspan="1" rowspan="1">Organizations表的简短版本</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td> 
-   <td colspan="1">当前现场与指定区段匹配的访客数</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td> 
-   <td colspan="1">现场访客当前正在查看的页面的URL</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td> 
-   <td colspan="1" rowspan="1">将访客引至您的网站的引荐URL</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名称</th>
+   <th colspan="1" rowspan="1">描述</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td>
+   <td colspan="1" rowspan="1"> 表示您的网站上当前访客的数量</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td>
+   <td colspan="1" rowspan="1"> 显示每分钟网站点击量的实时折线图</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td>
+   <td colspan="1" rowspan="1">Organizations表的简短版本</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td>
+   <td colspan="1">当前现场与指定区段匹配的访客数</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td>
+   <td colspan="1">现场访客当前正在查看的页面的URL</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td>
+   <td colspan="1" rowspan="1">将访客引至您的网站的引荐URL</td>
+  </tr>
+ </tbody>
 </table>

@@ -3,7 +3,7 @@ description: 用户和许可证管理 — Marketo文档 — 产品文档
 title: 用户和许可证管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -66,34 +66,34 @@ ht-degree: 0%
 
    ![](assets/user-and-license-management-11.png)
 
-<table> 
+<table>
   <tr>
    <td width="20%"><b>开始日期</b></td>
    <td width="80%">许可证开始日期。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>到期日期</b></td>
    <td width="80%">许可证到期日期。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>类型</b></td>
    <td width="80%">购买的许可证类型。 有三种可用类型：共享事件许可证、共享房间许可证、附加存储许可证。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>事件容量</b></td>
    <td width="80%">事件中可容纳的最大参与者数。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>事件总数</b></td>
    <td width="80%">已使用此许可证配置的事件总数。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>使用的事件</b></td>
    <td width="80%">已完成事件的总数。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>存储容量</b></td>
-   <td width="80%">可用于存储记录、抵押品、hero images、文档和其他资源的存储量。</td>
+   <td width="80%">可用于存储录制、抵押品、主页图像、文档和其他资源的存储量。</td>
   </tr>
   </tbody>
 </table>
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ## 用户访问 {#user-access}
 
-交互式网络研讨会具有管理使用情况的功能，它向Marketo Engage授予创建和提供交互式网络研讨会的权限。 但是，交互式网络研讨会用户（或非用户）仍然可以读取/编辑其他用户创建的交互式网络研讨会事件程序。
+交互式网络研讨会具有管理使用情况的功能，其方法是向Marketo Engage用户授予创建和提供交互式网络研讨会的权限。 但是，交互式网络研讨会用户（或非用户）仍然可以读取/编辑其他用户创建的交互式网络研讨会事件程序。
 
 具有交互式网络研讨会权限并且拥有特定交互式网络研讨会活动计划的Marketo用户将能够执行与该计划相关的所有交互式网络研讨会功能。 这包括：创建、访问、修改、克隆、移动和删除该程序。 但是，一旦该用户不再是交互式网络研讨会用户，项目的所有者将能够访问和移动项目，但不能执行任何其他功能。
 

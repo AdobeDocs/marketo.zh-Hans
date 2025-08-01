@@ -4,7 +4,7 @@ description: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterpris
 title: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 2%
@@ -121,25 +121,25 @@ ht-degree: 2%
 
 1. 在禁用完所有不需要的字段后，必须检查&#x200B;**[!UICONTROL Read Access and Edit Access]**&#x200B;中的以下对象字段。 完成后，单击&#x200B;**[!UICONTROL Save]**。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>对象</th> 
-   <th>字段</th> 
-  </tr> 
-  <tr> 
-   <td>帐户</td> 
-   <td>类型字段</td> 
-  </tr> 
-  <tr> 
-   <td>活动</td> 
-   <td>所有字段</td> 
-  </tr> 
-  <tr> 
-   <td>任务</td> 
-   <td>所有字段</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>对象</th>
+   <th>字段</th>
+  </tr>
+  <tr>
+   <td>帐户</td>
+   <td>类型字段</td>
+  </tr>
+  <tr>
+   <td>活动</td>
+   <td>所有字段</td>
+  </tr>
+  <tr>
+   <td>任务</td>
+   <td>所有字段</td>
+  </tr>
+ </tbody>
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)

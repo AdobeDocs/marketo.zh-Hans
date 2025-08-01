@@ -1,12 +1,12 @@
 ---
 description: 发行说明 — 2024年4月 — Marketo文档 — 产品文档
-title: 发行说明 — 2024年4月
+title: 发行说明 - 2024 年 4 月
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 在下方，您会找到2024年4月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
 
-可以在此处[&#128279;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到专门用于Adobe Dynamic Chat的发行说明。
+可以在此处[找到特定于Adobe Dynamic Chat ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}的发行说明。
 
 >[!AVAILABILITY]
 >
@@ -24,37 +24,37 @@ ht-degree: 0%
 
 以下功能属于标准发行周期，将于&#x200B;**2024年4月26日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">功能</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">功能</th>
    <th style="width:10%">状态</th>
    <th style="width:25%">文档</th>
   </tr>
-     <tr> 
-   <td><strong>交互式网络研讨会增强功能</strong>：您现在可以为主持人和演示者提供以下功能：添加网络研讨会标题、重命名聊天室，以及在事件交付后手动同步参与数据。</td> 
+     <tr>
+   <td><strong>交互式网络研讨会增强功能</strong>：您现在可以为主持人和演示者提供以下功能：添加网络研讨会标题、重命名聊天室，以及在事件交付后手动同步参与数据。</td>
    <td>已发货</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">创建交互式网络研讨会</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手动同步</a></li></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>审核记录增强功能</strong>： 
-   现在，可以在审计跟踪中捕获新类型的操作，这些操作涉及在字段管理中所做的更改、对用户和角色所做的更改以及从列表和智能列表导出的人员计数。</td> 
+    <tr>
+   <td><strong>审核记录增强功能</strong>：
+   现在，可以在审计跟踪中捕获新类型的操作，这些操作涉及在字段管理中所做的更改、对用户和角色所做的更改以及从列表和智能列表导出的人员计数。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>新用户和角色权限</strong>：新权限可用，为用户提供了对Marketo Engage的更细粒度访问权限。 控制以前未控制的管理员部分（如新体验和预测受众），拆分权限以分别授予对资产审核记录和管理审核记录的访问权限，并利用资产和文件夹的新创建和移动权限来防止只读用户进行更改。 
+    <tr>
+   <td><strong>新用户和角色权限</strong>：有新权限可用，为用户提供了对Marketo Engage的更细粒度访问权限。 控制以前未控制的管理员部分（如新体验和预测受众），拆分权限以分别授予对资产审核记录和管理审核记录的访问权限，并利用资产和文件夹的新创建和移动权限来防止只读用户进行更改。
    <p>虽然新权限将从4月26日起显示在您的Marketo Engage实例中，但目前它们处于被动状态，本季度晚些时候将可供访问。
    <li>访问Adobe Experience Manager</li>
    <li>访问Adobe组织映射</li>
@@ -65,11 +65,11 @@ ht-degree: 0%
    <li>创建报告</li>
    <li>创建列表</li>
    <li>导出营销活动活动</li>
-   </td> 
+   </td>
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">角色权限描述</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -79,63 +79,63 @@ ht-degree: 0%
 
 **基于Web的活动**
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">活动</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:30%">活动</th>
    <th style="width:70%">新添加的属性</th>
    </tr>
-  <tr> 
-   <td>访问网页</td> 
+  <tr>
+   <td>访问网页</td>
    <td>浏览器、平台、设备</td>
   </tr>
-   <tr> 
-   <td>填写表单</td> 
+   <tr>
+   <td>填写表单</td>
    <td>浏览器、平台、设备</td>
   </tr>
-  <tr> 
-   <td>单击链接</td> 
+  <tr>
+   <td>单击链接</td>
    <td>浏览器、平台、设备</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 **基于电子邮件的活动**
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">活动</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:30%">活动</th>
    <th style="width:70%">新添加的属性</th>
   </tr>
-   <tr> 
-   <td>发送电子邮件</td> 
+   <tr>
+   <td>发送电子邮件</td>
    <td>浏览器、平台、设备、用户代理</td>
   </tr>
    </tr>
-  <tr> 
-   <td>电子邮件已送达</td> 
+  <tr>
+   <td>电子邮件已送达</td>
    <td>浏览器、平台、设备、用户代理</td>
   </tr>
-   <tr> 
-   <td>电子邮件已退回</td> 
+   <tr>
+   <td>电子邮件已退回</td>
    <td>浏览器、平台、设备、用户代理</td>
   </tr>
-  <tr> 
-   <td>取消订阅电子邮件</td> 
+  <tr>
+   <td>取消订阅电子邮件</td>
    <td>浏览器、平台、设备</td>
   </tr>
-  <tr> 
-   <td>打开电子邮件</td> 
+  <tr>
+   <td>打开电子邮件</td>
    <td>浏览器</td>
   </tr>
-   <tr> 
-   <td>单击电子邮件</td> 
+   <tr>
+   <td>点击电子邮件</td>
    <td>浏览器</td>
   </tr>
-  <tr> 
-   <td>电子邮件软退回</td> 
+  <tr>
+   <td>电子邮件软退回</td>
    <td>浏览器、平台、设备、用户代理</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>

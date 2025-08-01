@@ -3,9 +3,9 @@ description: 交互式网络研讨会自定义 — Marketo文档 — 产品文�
 title: 交互式网络研讨会自定义
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 在您组织中的任何用户能够自定义交互式网络研讨会之前，Marketo Engage管理员必须先添加对所需角色的访问权限。
 
-1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL 管理员]**。
+1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/interactive-webinars-customization-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**，然后单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Users & Roles]**，然后单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
 
    ![](assets/interactive-webinars-customization-2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/interactive-webinars-customization-4.png)
 
-1. 选中&#x200B;**[!UICONTROL 访问交互式网络研讨会自定义]**&#x200B;复选框。
+1. 选中&#x200B;**[!UICONTROL Access Interactive Webinars Customization]**&#x200B;复选框。
 
    ![](assets/interactive-webinars-customization-5.png)
 
@@ -81,11 +81,11 @@ ht-degree: 0%
 
    您还可以使用“十六进制”选项输入十六进制颜色代码。
 
-   选择&#x200B;**[!UICONTROL 查看模板]**&#x200B;以更改聊天室的主题。
+   选择&#x200B;**[!UICONTROL View templates]**&#x200B;以更改文件室的主题。
 
    进行更改后，您可以在“预览”中检查徽标和颜色。
 
-1. 选择&#x200B;**[!UICONTROL 应用]**&#x200B;以保存更改。 要重置为默认设置，请单击“重置为默认设置”**&#x200B;**。
+1. 选择&#x200B;**[!UICONTROL Apply]**&#x200B;以保存更改。 要重置为默认设置，请单击&#x200B;**[!UICONTROL Reset to default]**。
 
    ![](assets/interactive-webinars-customization-10.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
    >
    >上传的图像会应用于“登入”、“退出”和“等待”屏幕。
 
-1. 选择&#x200B;**[!UICONTROL 应用]**&#x200B;以保存更改。 要重置为默认设置，请单击“重置为默认设置”**&#x200B;**。
+1. 选择&#x200B;**[!UICONTROL Apply]**&#x200B;以保存更改。 要重置为默认设置，请单击&#x200B;**[!UICONTROL Reset to default]**。
 
 ### 自定义虚拟视频背景 {#Customize-virtual-video-backgrounds}
 
@@ -123,7 +123,7 @@ ht-degree: 0%
 
 您可以使用预览屏幕中的滑块放大或缩小虚拟背景，以测试用户是否靠近或远离摄像头。 如果背景中有任何文本，这将有助于确保文本保持可见。
 
-1. 选择&#x200B;**[!UICONTROL 应用]**&#x200B;以保存更改。 要重置为默认设置，请单击“重置为默认设置”**&#x200B;**。
+1. 选择&#x200B;**[!UICONTROL Apply]**&#x200B;以保存更改。 要重置为默认设置，请单击&#x200B;**[!UICONTROL Reset to default]**。
 
 **Adobe Connect背景**
 

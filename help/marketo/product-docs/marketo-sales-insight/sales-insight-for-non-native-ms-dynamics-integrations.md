@@ -3,7 +3,7 @@ description: '[!DNL Sales Insight]非本地MS [!DNL Dynamics] 集成 — Marketo
 title: '非本地MS[!DNL Sales Insight]集成的 [!DNL Dynamics] '
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1228'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >* 在开始设置MSI之前，已为您的Marketo实例启用“MSI非本地”功能。 如果不是，并且您已经购买该功能，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 如果您尚未购买此功能，请联系Adobe客户团队（您的客户经理）。
 >* 下载自定义同步[的](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}MSI包。
 >* 具有MSI安装程序的MS Dynamics订阅（我们当前仅支持[Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"}）。
->* Marketo REST API [已成功设置](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。 公开的CRUD API将是执行非本机同步的基础。
+>* Marketo REST API [已成功设置](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。 公开的CRUD API将是执行非本机同步的基础。
 >* 阅读[这篇博客文章](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"}以了解对象和关系。
 
 ## 要成功实现MSI的非本机同步，需要满足以下条件 {#successful-non-native-sync-for-msi-requires-the-following}
@@ -28,170 +28,170 @@ ht-degree: 0%
 
    MS [!DNL Dynamics]销售用户是拥有MS [!DNL Dynamics]中的潜在客户/联系人的外部用户。 需要为MS [!DNL Dynamics]销售用户更新Marketo销售人员。 externalSalesPersonId字段强制用于更新销售人员。
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>Marketo销售人员字段</strong></td> 
-        <td><strong>MS <span class="dnl">Dynamics</span>用户字段</strong></td> 
-      <td><strong>描述</strong></td> 
-     </tr> 
-     <tr> 
-      <td>externalSalesPersonId</td> 
-        <td>MS <span class="dnl">Dynamics</span>用户不区分大小写的全局唯一标识符</td> 
-      <td><p>将Marketo销售人员记录标识到外部MS <span class="dnl">Dynamics</span>用户对象。</p><p>要求先同步销售人员，然后再同步其他对象，以便创建适当的关系。</p></td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>Marketo销售人员字段</strong></td>
+        <td><strong>MS <span class="dnl">Dynamics</span>用户字段</strong></td>
+      <td><strong>描述</strong></td>
+     </tr>
+     <tr>
+      <td>externalSalesPersonId</td>
+        <td>MS <span class="dnl">Dynamics</span>用户不区分大小写的全局唯一标识符</td>
+      <td><p>将Marketo销售人员记录标识到外部MS <span class="dnl">Dynamics</span>用户对象。</p><p>要求先同步销售人员，然后再同步其他对象，以便创建适当的关系。</p></td>
+     </tr>
+    </tbody>
    </table>
 
-   * 销售人员的[API文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * 销售人员的[API文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * 同步销售人员的[API文档](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. 将MS [!DNL Dynamics]帐户同步到Marketo。
 
    需要为MS [!DNL Dynamics]帐户更新Marketo公司。 _externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;字段强制用于公司的更新插入。
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>Marketo公司字段</strong></td> 
-        <td><strong>MS <span class="dnl">Dynamics</span>帐户字段</strong></td> 
-      <td><strong>描述</strong></td> 
-     </tr> 
-     <tr> 
-      <td>externalCompanyId</td> 
-        <td>MS <span class="dnl">Dynamics</span>帐户不区分大小写的全局唯一标识符</td> 
-        <td>向外部MS <span class="dnl">Dynamics</span>帐户对象标识Marketo公司记录。</td> 
-     </tr> 
-     <tr> 
-      <td>externalSalesPersonId</td> 
-        <td>MS <span class="dnl">Dynamics</span>销售用户不区分大小写的全局唯一标识符</td> 
-        <td>向帐户所有者的外部MS <span class="dnl">Dynamics</span>销售用户对象标识Marketo公司记录。<br><br>在Marketo中还用于将公司关联到拥有公司记录的销售人员。 要求在设置此字段之前先同步销售人员。</td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>Marketo公司字段</strong></td>
+        <td><strong>MS <span class="dnl">Dynamics</span>帐户字段</strong></td>
+      <td><strong>描述</strong></td>
+     </tr>
+     <tr>
+      <td>externalCompanyId</td>
+        <td>MS <span class="dnl">Dynamics</span>帐户不区分大小写的全局唯一标识符</td>
+        <td>向外部MS <span class="dnl">Dynamics</span>帐户对象标识Marketo公司记录。</td>
+     </tr>
+     <tr>
+      <td>externalSalesPersonId</td>
+        <td>MS <span class="dnl">Dynamics</span>销售用户不区分大小写的全局唯一标识符</td>
+        <td>向帐户所有者的外部MS <span class="dnl">Dynamics</span>销售用户对象标识Marketo公司记录。<br><br>在Marketo中还用于将公司关联到拥有公司记录的销售人员。 要求在设置此字段之前先同步销售人员。</td>
+     </tr>
+    </tbody>
    </table>
 
-   * 公司的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * 公司的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * 同步公司的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. 将MS [!DNL Dynamics]潜在客户/联系人同步到Marketo。
 
    您需要为MS [!DNL Dynamics]潜在客户/联系人更新插入Marketo潜在客户。 _externalPersonId_、_externalSalesPersonId_&#x200B;和&#x200B;_externalCompanyId_&#x200B;字段强制用于潜在客户的上行插入。
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>Marketo潜在客户字段</strong></td> 
-        <td><strong>MS <span class="dnl">Dynamics</span>潜在客户/联系人字段</strong></td> 
-      <td><strong>描述</strong></td> 
-     </tr> 
-     <tr> 
-      <td>externalPersonId</td> 
-        <td>MS <span class="dnl">Dynamics</span>潜在客户/联系人不区分大小写的全局唯一标识符</td> 
-        <td>将Marketo潜在客户记录标识到外部MS <span class="dnl">Dynamics</span>潜在客户/联系人对象。<br><br>这是为MSI非本机引入的新字段。</td> 
-     </tr> 
-     <tr> 
-      <td>externalSalesPersonId</td> 
-        <td>MS <span class="dnl">Dynamics</span>销售用户不区分大小写的全局唯一标识符</td> 
-        <td>标识拥有此潜在客户/联系人的外部MS <span class="dnl">Dynamics</span>销售用户对象。<br><br>还将潜在客户与Marketo中的销售人员关联起来。 要求首先正确同步销售人员。</td> 
-     </tr> 
-     <tr> 
-      <td>externalCompanyId</td> 
-        <td>MS <span class="dnl">Dynamics</span>帐户不区分大小写的全局唯一标识符</td> 
-        <td>标识潜在客户/联系人所属的外部MS <span class="dnl">Dynamics</span>帐户对象。<br><br>还将潜在客户记录关联到Marketo中的公司。 强制首先正确同步MS <span class="dnl">Dynamics</span>帐户。</td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>Marketo潜在客户字段</strong></td>
+        <td><strong>MS <span class="dnl">Dynamics</span>潜在客户/联系人字段</strong></td>
+      <td><strong>描述</strong></td>
+     </tr>
+     <tr>
+      <td>externalPersonId</td>
+        <td>MS <span class="dnl">Dynamics</span>潜在客户/联系人不区分大小写的全局唯一标识符</td>
+        <td>将Marketo潜在客户记录标识到外部MS <span class="dnl">Dynamics</span>潜在客户/联系人对象。<br><br>这是为MSI非本机引入的新字段。</td>
+     </tr>
+     <tr>
+      <td>externalSalesPersonId</td>
+        <td>MS <span class="dnl">Dynamics</span>销售用户不区分大小写的全局唯一标识符</td>
+        <td>标识拥有此潜在客户/联系人的外部MS <span class="dnl">Dynamics</span>销售用户对象。<br><br>还将潜在客户与Marketo中的销售人员关联起来。 要求首先正确同步销售人员。</td>
+     </tr>
+     <tr>
+      <td>externalCompanyId</td>
+        <td>MS <span class="dnl">Dynamics</span>帐户不区分大小写的全局唯一标识符</td>
+        <td>标识潜在客户/联系人所属的外部MS <span class="dnl">Dynamics</span>帐户对象。<br><br>还将潜在客户记录关联到Marketo中的公司。 强制首先正确同步MS <span class="dnl">Dynamics</span>帐户。</td>
+     </tr>
+    </tbody>
    </table>
 
-   * 潜在客户的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * 潜在客户的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * 用于同步潜在客户的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. 将MS [!DNL Dynamics]机会同步到Marketo。
 
    您需要为MS [!DNL Dynamics]机会更新插入Marketo Opportunity。 _externalOpportunityId_、_externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;字段必须用于更新该机会。
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>Marketo机会对象字段</strong></td> 
-        <td><strong>MS <span class="dnl">Dynamics</span>机会对象字段</strong></td> 
-      <td><strong>描述</strong></td> 
-     </tr> 
-     <tr> 
-      <td>externalOpportunityId</td> 
-        <td>MS <span class="dnl">Dynamics</span>潜在客户/联系人不区分大小写的全局唯一标识符</td> 
-      <td>将Marketo Opportunity记录标识到外部MS <span class="dnl">Dynamics</span> Opportunity对象。</td> 
-     </tr> 
-     <tr> 
-      <td>externalCompanyId</td> 
-        <td>MS <span class="dnl">Dynamics</span>帐户不区分大小写的全局唯一标识符</td> 
-        <td>标识此机会所属的外部MS <span class="dnl">Dynamics</span>帐户对象。 <br><br>强制首先正确同步MS <span class="dnl">Dynamics</span>帐户。</td> 
-     </tr> 
-     <tr> 
-      <td>externalSalesPersonId</td> 
-        <td>MS <span class="dnl">Dynamics</span>销售用户不区分大小写的全局唯一标识符</td> 
-        <td>标识拥有此Opportunity的外部MS <span class="dnl">Dynamics</span>销售用户对象。 </td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>Marketo机会对象字段</strong></td>
+        <td><strong>MS <span class="dnl">Dynamics</span>机会对象字段</strong></td>
+      <td><strong>描述</strong></td>
+     </tr>
+     <tr>
+      <td>externalOpportunityId</td>
+        <td>MS <span class="dnl">Dynamics</span>潜在客户/联系人不区分大小写的全局唯一标识符</td>
+      <td>将Marketo Opportunity记录标识到外部MS <span class="dnl">Dynamics</span> Opportunity对象。</td>
+     </tr>
+     <tr>
+      <td>externalCompanyId</td>
+        <td>MS <span class="dnl">Dynamics</span>帐户不区分大小写的全局唯一标识符</td>
+        <td>标识此机会所属的外部MS <span class="dnl">Dynamics</span>帐户对象。 <br><br>强制首先正确同步MS <span class="dnl">Dynamics</span>帐户。</td>
+     </tr>
+     <tr>
+      <td>externalSalesPersonId</td>
+        <td>MS <span class="dnl">Dynamics</span>销售用户不区分大小写的全局唯一标识符</td>
+        <td>标识拥有此Opportunity的外部MS <span class="dnl">Dynamics</span>销售用户对象。 </td>
+     </tr>
+    </tbody>
    </table>
 
-   * 机会的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * 机会的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 同步机会的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 将MS [!DNL Dynamics]联系人角色同步到Marketo。
 
    随后，可以通过Marketo Opportunity Role同步MS [!DNL Dynamics]机会的MS [!DNL Dynamics]联系人角色。 机会角色记录授权&#x200B;_externalOpportunityId_、_role_&#x200B;和&#x200B;_leadId_&#x200B;字段。
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>Marketo机会角色字段</strong></td> 
-        <td><strong>MS <span class="dnl">Dynamics</span>联系人角色字段</strong></td> 
-      <td><strong>描述</strong></td> 
-     </tr> 
-     <tr> 
-      <td>externalOpportunityId</td> 
-        <td>MS <span class="dnl">Dynamics</span>机会不区分大小写的全局唯一标识符</td> 
-      <td>向外部MS <span class="dnl">Dynamics</span>机会对象标识Marketo机会角色。<br><br>强制首先正确同步MS <span class="dnl">Dynamics</span>机会。</td> 
-     </tr> 
-     <tr> 
-      <td>leadId</td> 
-      <td>不适用，这将是Marketo潜在客户ID</td> 
-        <td>这将是同步的MS <span class="dnl">Dynamics</span>联系人的Marketo潜在客户ID。<br><br>联系人在Marketo中同步后，您可以使用MS <span class="dnl">Dynamics</span>不区分大小写的全局唯一标识符作为externalPersonId，并使用Marketo REST API查询Marketo潜在客户。</td> 
-     </tr> 
-     <tr> 
-      <td>角色</td> 
-        <td>MS <span class="dnl">Dynamics</span>联系人的“角色”字段</td> 
-      <td>描述此机会的联系人的角色。</td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>Marketo机会角色字段</strong></td>
+        <td><strong>MS <span class="dnl">Dynamics</span>联系人角色字段</strong></td>
+      <td><strong>描述</strong></td>
+     </tr>
+     <tr>
+      <td>externalOpportunityId</td>
+        <td>MS <span class="dnl">Dynamics</span>机会不区分大小写的全局唯一标识符</td>
+      <td>向外部MS <span class="dnl">Dynamics</span>机会对象标识Marketo机会角色。<br><br>强制首先正确同步MS <span class="dnl">Dynamics</span>机会。</td>
+     </tr>
+     <tr>
+      <td>leadId</td>
+      <td>不适用，这将是Marketo潜在客户ID</td>
+        <td>这将是同步的MS <span class="dnl">Dynamics</span>联系人的Marketo潜在客户ID。<br><br>联系人在Marketo中同步后，您可以使用MS <span class="dnl">Dynamics</span>不区分大小写的全局唯一标识符作为externalPersonId，并使用Marketo REST API查询Marketo潜在客户。</td>
+     </tr>
+     <tr>
+      <td>角色</td>
+        <td>MS <span class="dnl">Dynamics</span>联系人的“角色”字段</td>
+      <td>描述此机会的联系人的角色。</td>
+     </tr>
+    </tbody>
    </table>
 
-   * 机会的API文档： [https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * 机会的API文档： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 同步机会的API文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 将“上一个有趣的时刻”/“MSI评分”字段同步到MS [!DNL Dynamics]。
@@ -205,54 +205,54 @@ ht-degree: 0%
 
    然后，您可以使用这些字段的值同步到MS [!DNL Dynamics]潜在客户/联系人对象。
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>Marketo潜在客户字段</strong></td> 
-        <td><strong>MS <span class="dnl">Dynamics</span>潜在客户/联系人字段</strong></td> 
-      <td><strong>描述</strong></td> 
-     </tr> 
-     <tr> 
-      <td>msiLastInterestedMomentType</td> 
-      <td>标签：上一个有趣的时刻类型<br>名称：Last_Interested_Moment_Type__c</td> 
-      <td>潜在客户最后一个有趣时刻的类型</td> 
-     </tr> 
-     <tr> 
-      <td>msiLastInterestedMomentDate</td> 
-      <td><p>标签：上一个有趣的时刻日期</p><p>名称：Last_Interested_Moment_Date__c</p></td> 
-      <td>潜在客户最后一个有趣时刻的日期</td> 
-     </tr> 
-     <tr> 
-      <td>msiLastInterestedMomentDesc</td> 
-      <td><p>标签：上一个有趣时刻描述</p><p>名称：Last_Interested_Moment_Desc__c</p></td> 
-      <td>商机最后有趣时刻的描述</td> 
-     </tr> 
-     <tr> 
-      <td>msiLastInterestedMomentSource</td> 
-      <td><p>标签：Source上一个有趣的时刻</p><p>名称：Last_Interested_Moment_Source__c</p></td> 
-      <td>Lead最后一个有趣时刻的Source</td> 
-     </tr> 
-     <tr> 
-      <td>优先级</td> 
-      <td><p>标签：参与度</p><p>名称： Priority__c</p></td> 
-      <td>商机的优先级</td> 
-     </tr> 
-     <tr> 
-      <td>相对紧迫性</td> 
-      <td><p>标签：相对紧急值</p><p>名称：Urgency_Value__c</p></td> 
-      <td>潜在客户的相对紧迫性</td> 
-     </tr> 
-     <tr> 
-      <td>相对评分</td> 
-      <td><p>标签：相对评分值</p><p>名称：Relative_Score_Value__c</p></td> 
-      <td>商机的相对评分</td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>Marketo潜在客户字段</strong></td>
+        <td><strong>MS <span class="dnl">Dynamics</span>潜在客户/联系人字段</strong></td>
+      <td><strong>描述</strong></td>
+     </tr>
+     <tr>
+      <td>msiLastInterestedMomentType</td>
+      <td>标签：上一个有趣的时刻类型<br>名称：Last_Interested_Moment_Type__c</td>
+      <td>潜在客户最后一个有趣时刻的类型</td>
+     </tr>
+     <tr>
+      <td>msiLastInterestedMomentDate</td>
+      <td><p>标签：上一个有趣的时刻日期</p><p>名称：Last_Interested_Moment_Date__c</p></td>
+      <td>潜在客户最后一个有趣时刻的日期</td>
+     </tr>
+     <tr>
+      <td>msiLastInterestedMomentDesc</td>
+      <td><p>标签：上一个有趣时刻描述</p><p>名称：Last_Interested_Moment_Desc__c</p></td>
+      <td>商机最后有趣时刻的描述</td>
+     </tr>
+     <tr>
+      <td>msiLastInterestedMomentSource</td>
+      <td><p>标签：Source上一个有趣的时刻</p><p>名称：Last_Interested_Moment_Source__c</p></td>
+      <td>Lead最后一个有趣时刻的Source</td>
+     </tr>
+     <tr>
+      <td>优先级</td>
+      <td><p>标签：参与度</p><p>名称： Priority__c</p></td>
+      <td>商机的优先级</td>
+     </tr>
+     <tr>
+      <td>相对紧迫性</td>
+      <td><p>标签：相对紧急值</p><p>名称：Urgency_Value__c</p></td>
+      <td>潜在客户的相对紧迫性</td>
+     </tr>
+     <tr>
+      <td>相对评分</td>
+      <td><p>标签：相对评分值</p><p>名称：Relative_Score_Value__c</p></td>
+      <td>商机的相对评分</td>
+     </tr>
+    </tbody>
    </table>
 
    * 潜在客户REST API的文档： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}。

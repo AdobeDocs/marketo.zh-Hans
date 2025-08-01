@@ -4,22 +4,22 @@ description: 电子邮件模板语法 — Marketo文档 — 产品文档
 title: 电子邮件模板语法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2449'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # 电子邮件模板语法 {#email-template-syntax}
 
-在Marketo的新Email 2.0 Experience中，电子邮件模板由元素、变量、模块或容器的任意组合组成。 每个规则都是通过向HTML添加特定于Marketo的语法来定义的。 电子邮件编辑器2.0支持旧的(v1.0)电子邮件模板；但是，这些模板不会包含新编辑器的所有功能。
+在Marketo的新Email 2.0 Experience中，电子邮件模板由元素、变量、模块或容器的任意组合组成。 每个规则都是通过将特定于Marketo的语法添加到HTML来定义的。 电子邮件编辑器2.0支持旧的(v1.0)电子邮件模板；但是，这些模板不会包含新编辑器的所有功能。
 
 Marketo电子邮件语法仅适用于模板和单个电子邮件；如果嵌入到代码片段或富文本令牌中，则&#x200B;**无效**。
 
 >[!NOTE]
 >
->Marketo支持未设置为协助进行CSS/HTML。 如果您不熟悉CSS/HTML，请咨询您的开发人员。
+>Marketo支持未设置为协助处理CSS/HTML。 如果您不熟悉CSS/HTML，请咨询您的开发人员。
 
 >[!CAUTION]
 >
@@ -36,13 +36,13 @@ Marketo电子邮件语法仅适用于模板和单个电子邮件；如果嵌入�
 
 ## 富文本 {#rich-text}
 
-如果将区域定义为富文本，用户将可以使用Marketo的富文本编辑器[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)编辑其内容。 可通过两种方式在电子邮件模板中定义富文本元素：mktEditable和mktoText。 请记住，富文本元素始终可以在电子邮件编辑器中转换为代码片段。
+如果将区域定义为富文本，用户将可以使用Marketo的富文本编辑器[编辑其内容](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。 可通过两种方式在电子邮件模板中定义富文本元素：mktEditable和mktoText。 请记住，富文本元素始终可以在电子邮件编辑器中转换为代码片段。
 
 ### 选项1 - mktEditable {#option-mkteditable}
 
 由于电子邮件编辑器2.0向后兼容，因此某些旧电子邮件模板可以通过在任何HTML元素上添加class=&quot;mktEditable&quot;来指定富文本元素。 这仍受支持，并且元素的ID将成为电子邮件编辑器中的显示名称。
 
-必需属性
+所需属性
 
 * **类**：“mktEditable”。
 * **id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
@@ -63,7 +63,7 @@ HTML元素（如果提供）中具有class=&quot;mktEditable&quot;的内容将�
 
 建议使用class=&quot;mktoText&quot;语法指定富文本元素。 这可确保元素始终具有正确的显示名称。
 
-必需属性
+所需属性
 
 * **类**： &quot;mktoText&quot;
 * **id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
@@ -79,11 +79,11 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 ## 图像 {#images}
 
-有两个选项可用于定义可编辑的图像元素。 您可以使用`<div>`或`<img>`标记，前者用于指定将`<img>`插入其中的容器。 如果您打算让最终用户只选取将返回图像URL（而不是DOM）的图像，请参阅以下部分中的“图像变量”。 以下两个选项将插入HTML`<img>`元素。
+有两个选项可用于定义可编辑的图像元素。 您可以使用`<div>`或`<img>`标记，前者用于指定将`<img>`插入其中的容器。 如果您打算让最终用户只选取将返回图像URL（而不是DOM）的图像，请参阅以下部分中的“图像变量”。 以下两个选项将插入HTML `<img>`元素。
 
 ### 选项1 — 使用`<div>` {#option-use-a-div}
 
-必需属性
+所需属性
 
 * **类：**“mktoImg”。
 * **ID：** ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
@@ -114,7 +114,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 >
 >此选项不允许最终用户向其图像添加链接。 如果对模板很重要，请使用选项1。
 
-必需属性
+所需属性
 
 * **类：**“mktoImg”。
 * **ID：** ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
@@ -130,7 +130,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 如果您将区域定义为代码片段，最终用户将能够选择要插入此区域的已批准[代码片段](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 尽管富文本元素可以在电子邮件编辑器中转换为代码片段，但如果您将某个区域专门定义为代码片段，则无法将该区域转换为富文本。 您可以使用带有class=&quot;mktoSnippet&quot;的`<div>`指定代码片段区域
 
-必需属性
+所需属性
 
 * **ID：** ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 * **mktoName：**&#x200B;字符串。 这是将显示在电子邮件编辑器2.0中的显示名称。最佳实践是使用描述性名称。
@@ -147,7 +147,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 如果将区域定义为视频，则最终用户能够插入将作为缩略图图像（带有“播放”按钮）显示在电子邮件中的YouTube或Vimeo URL。 您可以使用带有class=&quot;mktoVideo&quot;的`<div>`指定视频区域
 
-必需属性
+所需属性
 
 * **ID：** ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 * **mktoName：**&#x200B;字符串。 这是将显示在电子邮件编辑器2.0中的显示名称。最佳实践是使用描述性名称。
@@ -162,20 +162,20 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 ## 变量 {#variables}
 
-变量就像令牌一样。 您首先使用`<meta>`标记在电子邮件模板的`<head>`部分中定义它们，然后在整个模板中根据需要多次使用它们。 由于在模板中定义了这些值，因此最终用户能够根据其规则修改其值。 请注意，您可以在范围内将变量定义为局部或全局变量。 如果在“模块”中使用变量（见下文），并且最终用户复制了该模块，则局部变量将具有独立的值，而全局变量将应用于这两个模块。
+变量就像令牌一样。 您首先使用`<head>`标记在电子邮件模板的`<meta>`部分中定义它们，然后在整个模板中根据需要多次使用它们。 由于在模板中定义了这些值，因此最终用户能够根据其规则修改其值。 请注意，您可以在范围内将变量定义为局部或全局变量。 如果在“模块”中使用变量（见下文），并且最终用户复制了该模块，则局部变量将具有独立的值，而全局变量将应用于这两个模块。
 
 ## 字符串 {#string}
 
 如果将变量指定为字符串，最终用户将能够在电子邮件编辑器的文本框中输入文本。 您使用`<meta>`和class=&quot;mktoString&quot;指定字符串变量
 
-必需属性
+所需属性
 
 * **id：**&#x200B;如何在电子邮件模板中引用变量。
 * **mktoName：**&#x200B;字符串。 这是将显示在电子邮件编辑器2.0中的显示名称。最佳实践是使用描述性名称。
 
 可选属性
 
-* **allowHTML：**&#x200B;布尔值。 控制变量的值是否进行HTML转义。 如果忽略，则默认为False。
+* **allowHTML：**&#x200B;布尔值。 控制变量的值是否通过HTML转义。 如果忽略，则默认为False。
 * **默认值**：字符串的默认值。 如果省略，则留空。
 * **mktoModuleScope**：布尔值。 控制变量在模块中使用时是局部(true)还是全局(false)。 如果忽略，则默认为False。
 
@@ -191,7 +191,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 如果将变量指定为List ，最终用户将能够从您在电子邮件编辑器中定义的一组值中进行选择。 您使用`<meta>`和class=&quot;mktoList&quot;指定列表变量
 
-必需属性
+所需属性
 
 * **id**：如何在电子邮件模板中引用变量。
 * **mktoName：**&#x200B;字符串。 这是将显示在电子邮件编辑器2.0中的显示名称。最佳实践是使用描述性名称。
@@ -214,7 +214,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 如果指定一个变量作为数字，最终用户将能够在电子邮件编辑器中输入数字。 您使用`<meta>`和class=&quot;mktoNumber&quot;指定一个Number变量
 
-必需属性
+所需属性
 
 * **id**：如何在电子邮件模板中引用变量。
 * **mktoName**：字符串。 这是将显示在电子邮件编辑器2.0中的显示名称。最佳实践是使用描述性名称。
@@ -240,7 +240,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 如果将变量指定为“颜色”，最终用户将能够输入十六进制颜色值，或从电子邮件编辑器中的拾色器中选择颜色。 您使用`<meta>`和class=&quot;mktoColor&quot;指定颜色变量
 
-必需属性
+所需属性
 
 * **id**：如何在电子邮件模板中引用变量。
 * **mktoName**：字符串。 这是将显示在电子邮件编辑器2.0中的显示名称。最佳实践是使用描述性名称。
@@ -262,7 +262,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 如果指定变量作为布尔值，最终用户将能够在电子邮件编辑器中打开/关闭该选项。 使用`<meta>`和class=&quot;mktoBoolean&quot;指定布尔值变量
 
-必需属性
+所需属性
 
 * **id**：如何在电子邮件模板中引用变量。
 * **mktoName**：字符串。 这是将显示在电子邮件编辑器2.0中的显示名称。最佳实践是使用描述性名称。
@@ -286,9 +286,9 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 ## HTML块 {#html-block}
 
-如果指定变量作为HTML块，最终用户将能够在电子邮件编辑器中输入逐字HTML。 您使用`<meta>`和class=&quot;mktoHTML&quot;来指定HTML块变量
+如果将变量指定为HTML Block，最终用户将能够在电子邮件编辑器中输入逐字HTML。 您使用class=&quot;mktoHTML&quot;的`<meta>`指定一个HTML Block变量
 
-必需属性
+所需属性
 
 * **id**：如何在电子邮件模板中引用变量。
 * **mktoName**：字符串。 这是将显示在电子邮件编辑器2.0中的显示名称。最佳实践是使用描述性名称。
@@ -310,7 +310,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 如果指定变量作为图像，最终用户将能够从电子邮件编辑器中的图像选择器中选择图像。 选定的图像URL将是变量的值。 您使用`<meta>`和class=&quot;mktoImg&quot;指定图像变量
 
-必需属性
+所需属性
 
 * **id**：如何在电子邮件模板中引用变量。
 * **mktoName**：字符串。 这是将显示在电子邮件编辑器2.0中的显示名称。最佳实践是使用描述性名称。
@@ -344,7 +344,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 使用`<table>`指定，class=&quot;mktoModule&quot;
 
-必需属性
+所需属性
 
 * **id**：如何在电子邮件模板中引用模块。
 * **mktoName**：字符串。 这是将显示在电子邮件编辑器2.0中的显示名称。最佳实践是使用描述性名称。
@@ -364,7 +364,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 **使用`<table>`、`<tbody>`、`<thead>`、`<tfoot>`或`<td>`指定，class=&quot;mktoContainer&quot;**
 
-必需属性
+所需属性
 
 **id**：如何在电子邮件模板中引用模块。
 

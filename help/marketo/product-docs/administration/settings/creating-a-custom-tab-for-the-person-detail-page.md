@@ -4,9 +4,9 @@ description: 创建人员详细信息页面的自定义选项卡 — Marketo文�
 title: 创建人员详细信息页面的自定义选项卡
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 如果您发现自己需要在人员详细信息中反复查找一组特定的字段，请考虑创建自定义布局以简化操作。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 自定义布局Designer]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Custom Layout Designer]**&#x200B;选项卡。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您有两列要处理。
 
-   如果决定要删除字段，请右键单击要删除的字段，然后单击&#x200B;**[!UICONTROL 删除]**。
+   如果决定要删除字段，请右键单击要删除的字段，然后单击&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

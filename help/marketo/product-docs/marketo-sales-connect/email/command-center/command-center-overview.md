@@ -4,7 +4,7 @@ description: 命令中心概述 — Marketo文档 — 产品文档
 title: 命令中心概述
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '556'
 ht-degree: 0%
@@ -23,59 +23,59 @@ ht-degree: 0%
 
 电子邮件部分为您提供所有电子邮件的概览，并通过主选项卡和子选项卡简化其组织，这些选项卡和子选项卡用作文件夹，其中电子邮件会根据其状态自动存储。
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="背景颜色：灰色"><p title=""><strong><span>主要</span> </strong></p></td> 
-   <td title="背景颜色：灰色"><p title=""><strong><span>辅助</span> </strong></p></td> 
-   <td title="背景颜色：灰色"><p title=""><strong><span>描述</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="背景颜色：蓝色"><strong title="">已发送</strong></td> 
-   <td title="背景颜色：蓝色">[!UICONTROL Delivered]</td> 
-   <td title="背景颜色：蓝色">已发送给收件人的电子邮件。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景颜色：蓝色"><br></td> 
-   <td title="背景颜色：蓝色">[!UICONTROL Archived]</td> 
-   <td title="背景颜色：蓝色">用户为了禁用电子邮件跟踪而存档的电子邮件。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景颜色：灰色"><strong title="">待定</strong></td> 
-   <td title="背景颜色：灰色">[!UICONTROL Scheduled]</td> 
-   <td title="背景颜色：灰色">当前计划发出的电子邮件。 发送电子邮件后，该电子邮件将移至已投放文件夹。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景颜色：灰色"><br></td> 
-   <td title="背景颜色：灰色">[!UICONTROL Draft]</td> 
-   <td title="背景颜色：灰色"><p>已另存为草稿的电子邮件。<br><strong>注意：</strong>只有一封电子邮件可以另存为草稿。 批量电子邮件（选择和发送电子邮件及群电子邮件）将不会另存为草稿。</p></td> 
-  </tr> 
-  <tr> 
-   <td title="背景颜色：灰色"><br></td> 
-   <td title="背景颜色：灰色">[!UICONTROL In Progress]</td> 
-   <td title="背景颜色：灰色">这是一种中间状态，当电子邮件处于发送动态时，便会进入该状态。 电子邮件只应正在进行一段时间。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景颜色：蓝色"><strong title="">未投放</strong></td> 
-   <td title="背景颜色：蓝色">[!UICONTROL Failed]</td> 
-   <td title="背景颜色：蓝色">无法投放的电子邮件。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景颜色：蓝色"><br></td> 
-   <td title="背景颜色：蓝色">[!UICONTROL Bounced]</td> 
-   <td title="背景颜色：蓝色"><p>已从收件人电子邮件服务器拒绝的电子邮件。 <br><strong>注意：</strong>只有当您是旧版ToutApp用户并且有权访问MSC服务器作为投放渠道时，才会检测到此情况。</p></td> 
-  </tr> 
-  <tr> 
-   <td title="背景颜色：蓝色"><br></td> 
-   <td title="背景颜色：蓝色">[!UICONTROL Spam]</td> 
-   <td title="背景颜色：蓝色"><p>收件人手动标记为垃圾邮件的电子邮件。<br><strong>注意：</strong>只有当您是旧版ToutApp用户并且有权访问MSC服务器作为投放渠道时，才会检测到此情况。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="背景颜色：灰色"><p title=""><strong><span>主要</span> </strong></p></td>
+   <td title="背景颜色：灰色"><p title=""><strong><span>辅助</span> </strong></p></td>
+   <td title="背景颜色：灰色"><p title=""><strong><span>描述</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="背景颜色：蓝色"><strong title="">已发送</strong></td>
+   <td title="背景颜色：蓝色">[!UICONTROL Delivered]</td>
+   <td title="背景颜色：蓝色">已发送给收件人的电子邮件。</td>
+  </tr>
+  <tr>
+   <td title="背景颜色：蓝色"><br></td>
+   <td title="背景颜色：蓝色">[!UICONTROL Archived]</td>
+   <td title="背景颜色：蓝色">用户为了禁用电子邮件跟踪而存档的电子邮件。</td>
+  </tr>
+  <tr>
+   <td title="背景颜色：灰色"><strong title="">待定</strong></td>
+   <td title="背景颜色：灰色">[!UICONTROL Scheduled]</td>
+   <td title="背景颜色：灰色">当前计划发出的电子邮件。 发送电子邮件后，该电子邮件将移至已投放文件夹。</td>
+  </tr>
+  <tr>
+   <td title="背景颜色：灰色"><br></td>
+   <td title="背景颜色：灰色">[!UICONTROL Draft]</td>
+   <td title="背景颜色：灰色"><p>已另存为草稿的电子邮件。<br><strong>注意：</strong>只有一封电子邮件可以另存为草稿。 批量电子邮件（选择和发送电子邮件及群电子邮件）将不会另存为草稿。</p></td>
+  </tr>
+  <tr>
+   <td title="背景颜色：灰色"><br></td>
+   <td title="背景颜色：灰色">[!UICONTROL In Progress]</td>
+   <td title="背景颜色：灰色">这是一种中间状态，当电子邮件处于发送动态时，便会进入该状态。 电子邮件只应正在进行一段时间。</td>
+  </tr>
+  <tr>
+   <td title="背景颜色：蓝色"><strong title="">未投放</strong></td>
+   <td title="背景颜色：蓝色">[!UICONTROL Failed]</td>
+   <td title="背景颜色：蓝色">无法投放的电子邮件。</td>
+  </tr>
+  <tr>
+   <td title="背景颜色：蓝色"><br></td>
+   <td title="背景颜色：蓝色">[!UICONTROL Bounced]</td>
+   <td title="背景颜色：蓝色"><p>已从收件人电子邮件服务器拒绝的电子邮件。 <br><strong>注意：</strong>只有当您是旧版ToutApp用户并且有权访问MSC服务器作为投放渠道时，才会检测到此情况。</p></td>
+  </tr>
+  <tr>
+   <td title="背景颜色：蓝色"><br></td>
+   <td title="背景颜色：蓝色">[!UICONTROL Spam]</td>
+   <td title="背景颜色：蓝色"><p>收件人手动标记为垃圾邮件的电子邮件。<br><strong>注意：</strong>只有当您是旧版ToutApp用户并且有权访问MSC服务器作为投放渠道时，才会检测到此情况。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 管理任务 {#manage-tasks}

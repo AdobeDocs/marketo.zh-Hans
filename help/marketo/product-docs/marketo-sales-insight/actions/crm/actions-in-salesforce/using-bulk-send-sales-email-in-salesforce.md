@@ -2,7 +2,7 @@
 description: 在Salesforce中使用批量发送销售电子邮件 — Marketo文档 — 产品文档
 title: 在Salesforce中使用批量发送销售电子邮件
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '596'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 在Salesforce中使用批量发送销售电子邮件 {#using-bulk-send-sales-email-in-salesforce}
 
-了解如何在Salesforce中发送批量电子邮件，以帮助使用Sales Actions扩展出站通信。
+了解如何在Salesforce中发送批量电子邮件，以帮助使用销售操作扩展出站通信。
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->请确保您已将[最新的Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}安装到您的Salesforce实例，并在Salesforce中的联系人和潜在客户列表视图中配置了[操作按钮](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}。
+>请确保您已将[最新Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}安装到您的Salesforce实例，并在Salesforce中的联系人和潜在客户列表视图中配置了[操作按钮](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}。
 
-## 使用Salesforce Lightning发送批量电子邮件 {#sending-bulk-email-in-salesforce-lightning}
+## 在Salesforce Lightning中发送批量电子邮件 {#sending-bulk-email-in-salesforce-lightning}
 
-1. 在Salesforce中，通过单击&#x200B;**潜在客户/联系人**&#x200B;选项卡，导航到Leads/Contacts主页。
+1. 在Salesforce中，通过单击&#x200B;**潜在客户/联系人**&#x200B;选项卡，导航到“潜在客户/联系人”主页。
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-1.png)
 

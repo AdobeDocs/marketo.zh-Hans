@@ -4,7 +4,7 @@ description: 更改表单的语言 — Marketo文档 — 产品文档
 title: 更改表单的语言
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 1%
@@ -58,4 +58,3 @@ ht-degree: 1%
 您的表单现在将反映您选择的语言。
 
 ![](assets/change-the-language-of-a-form-8.png)
-

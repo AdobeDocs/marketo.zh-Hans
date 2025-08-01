@@ -4,7 +4,7 @@ description: ' [!DNL Microsoft Dynamics] MSI插件版本 — Marketo文档 — �
 title: ' [!DNL Microsoft Dynamics] MSI的插件版本'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 1%
@@ -51,84 +51,84 @@ ht-degree: 1%
 
 ## 版本更新 {#version-updates}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>发行日期</th> 
-   <th>版本</th> 
-   <th>注释</th> 
+<table>
+ <tbody>
+  <tr>
+   <th>发行日期</th>
+   <th>版本</th>
+   <th>注释</th>
   </tr>
-  <tr> 
-   <td>02/14/24</td> 
-   <td>2.00.31</td> 
+  <tr>
+   <td>02/14/24</td>
+   <td>2.00.31</td>
    <td>更改了匿名Web活动上的分页。
    <p>
-   从用户视图中加密密钥信息。 导入新包后需要更改密码才能进行加密。</td> 
+   从用户视图中加密密钥信息。 导入新包后需要更改密码才能进行加密。</td>
   </tr>
-  <tr> 
-   <td>10/18/23</td> 
-   <td>2.00.30</td> 
-   <td>合并MSI错误日志，并删除Marketo错误实体上显示的信息通知。</td> 
+  <tr>
+   <td>10/18/23</td>
+   <td>2.00.30</td>
+   <td>合并MSI错误日志，并删除Marketo错误实体上显示的信息通知。</td>
   </tr>
-  <tr> 
-   <td>05/19/23</td> 
-   <td>2.00.29</td> 
-   <td>修复了全局功能板上的Web活动和兴趣时刻分页问题。</td> 
+  <tr>
+   <td>05/19/23</td>
+   <td>2.00.29</td>
+   <td>修复了全局功能板上的Web活动和兴趣时刻分页问题。</td>
   </tr>
-  <tr> 
-   <td>03/23/23</td> 
-   <td>2.00.28</td> 
-   <td>已为CRM的非本机连接创建MSI的<a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">新包</a>。</td> 
+  <tr>
+   <td>03/23/23</td>
+   <td>2.00.28</td>
+   <td>已为CRM的非本机连接创建MSI的<a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">新包</a>。</td>
   </tr>
-  <tr> 
-   <td>02/03/22</td> 
-   <td>2.0.0.27</td> 
-   <td>Insights的帐户布局：有趣的时刻、得分更改、Web活动、电子邮件活动。</td> 
+  <tr>
+   <td>02/03/22</td>
+   <td>2.0.0.27</td>
+   <td>Insights的帐户布局：有趣的时刻、得分更改、Web活动、电子邮件活动。</td>
   </tr>
-  <tr> 
-   <td>01/05/22</td> 
-   <td>2.0.0.26</td> 
-   <td>发送电子邮件的项目采用分数。</td> 
+  <tr>
+   <td>01/05/22</td>
+   <td>2.0.0.26</td>
+   <td>发送电子邮件的项目采用分数。</td>
   </tr>
-  <tr> 
-   <td>10/28/21</td> 
-   <td>2.0.0.25</td> 
-   <td>产品采用率得分指标、新的全局功能板（Web活动、电子邮件、最佳匹配）。</td> 
+  <tr>
+   <td>10/28/21</td>
+   <td>2.0.0.25</td>
+   <td>产品采用率得分指标、新的全局功能板（Web活动、电子邮件、最佳匹配）。</td>
   </tr>
-  <tr> 
-   <td>02/10/21</td> 
-   <td>2.0.0.22</td> 
-   <td>删除对MSI解决方案启用的自动审核和文档更改。</td> 
+  <tr>
+   <td>02/10/21</td>
+   <td>2.0.0.22</td>
+   <td>删除对MSI解决方案启用的自动审核和文档更改。</td>
   </tr>
-  <tr> 
-   <td>10/01/20</td> 
-   <td>2.0.0.21</td> 
-   <td>错误修复：为具有Sales Insight角色的用户分配对MSI API配置字段的访问权限。</td> 
-  </tr> 
-  <tr> 
-   <td>07/20/20</td> 
-   <td>2.0.0.20</td> 
-   <td>错误修复：为非同步记录添加验证消息。</td> 
-  </tr> 
-  <tr> 
-   <td>06/12/20</td> 
-   <td>2.0.0.19</td> 
-   <td>错误修复：在MSD API配置上隐藏MSI密码密码。</td> 
-  </tr> 
-  <tr> 
-   <td>05/26/20</td> 
-   <td>2.0.0.18</td> 
-   <td>错误修复：更改用于显示MSI按钮的MSI角色ID验证。</td> 
-  </tr> 
-  <tr> 
-   <td>05/21/20</td> 
-   <td>2.0.0.17</td> 
-   <td>错误修复：取消隐藏所有者字段，并将字段设为非必填字段。</td> 
-  </tr> 
-  <tr> 
-   <td>04/28/20</td> 
-   <td>2.0.0.16</td> 
-   <td>错误修复：正在删除MSD CRM Sitemap设置链接依赖关系。</td> 
-  </tr> 
- </tbody> 
+  <tr>
+   <td>10/01/20</td>
+   <td>2.0.0.21</td>
+   <td>错误修复：为具有Sales Insight角色的用户分配对MSI API配置字段的访问权限。</td>
+  </tr>
+  <tr>
+   <td>07/20/20</td>
+   <td>2.0.0.20</td>
+   <td>错误修复：为非同步记录添加验证消息。</td>
+  </tr>
+  <tr>
+   <td>06/12/20</td>
+   <td>2.0.0.19</td>
+   <td>错误修复：在MSD API配置上隐藏MSI密码密码。</td>
+  </tr>
+  <tr>
+   <td>05/26/20</td>
+   <td>2.0.0.18</td>
+   <td>错误修复：更改用于显示MSI按钮的MSI角色ID验证。</td>
+  </tr>
+  <tr>
+   <td>05/21/20</td>
+   <td>2.0.0.17</td>
+   <td>错误修复：取消隐藏所有者字段，并将字段设为非必填字段。</td>
+  </tr>
+  <tr>
+   <td>04/28/20</td>
+   <td>2.0.0.16</td>
+   <td>错误修复：正在删除MSD CRM Sitemap设置链接依赖关系。</td>
+  </tr>
+ </tbody>
 </table>

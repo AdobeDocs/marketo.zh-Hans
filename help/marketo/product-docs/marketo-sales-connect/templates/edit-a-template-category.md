@@ -4,7 +4,7 @@ description: 编辑模板类别 — Marketo文档 — 产品文档
 title: 编辑模板类别
 exl-id: ae7c9db2-78d3-497c-9752-77304b9ab3d8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%

@@ -2,7 +2,8 @@
 description: Salesforce同步积压量度 — Marketo文档 — 产品文档
 title: Salesforce同步积压量度
 feature: Reporting
-source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
+exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1048'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Salesforce同步积压量度  {#salesforce-sync-backlog-metrics}
 
-同步积压是用于挂起同步的记录的名称。 它考虑从Salesforce到Marketo Engage的待同步记录，反之亦然。 确保积压事项得到控制将实现平稳的时间同步。 积压事项包括两侧的待处理同步发布更新的数量，而不是同步流程步骤(如Sync Lead to SFDC流程步骤)处理的数量。
+同步积压是用于挂起同步的记录的名称。 它负责处理从Salesforce到Marketo Engage的待同步记录，反之亦然。 确保积压事项得到控制将实现平稳的时间同步。 积压事项包括两侧的待处理同步发布更新的数量，而不是同步流程步骤(如Sync Lead to SFDC流程步骤)处理的数量。
 
 ## 如何访问 {#how-to-access}
 
@@ -61,7 +62,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>同步积压</td>
-    <td>对象类型的待同步记录的积压。 它是两个方向(从Salesforce到Marketo Engage，反之亦然)的待同步积压的总和。 来自Salesforce的积压事项是通过Salesforce的API调用获得的，来自Marketo Engage的积压事项是使用从变更数据日志获得的统计数据计算的。 每小时计算一次。 此表中的下两个字段分别通知上次计算积压的时间，以及下一个计算计划。</td>
+    <td>对象类型的待同步记录的积压。 它是两个方向(从Salesforce到Marketo Engage，反之亦然)的待处理同步总数。 来自Salesforce的积压事项是通过Salesforce的API调用获得的，来自Marketo Engage的积压事项是使用从更改数据日志获得的统计信息计算的。 每小时计算一次。 此表中的下两个字段分别通知上次计算积压的时间，以及下一个计算计划。</td>
   </tr>
   <tr>
     <td>估计积压（时间）</td>
@@ -83,13 +84,13 @@ ht-degree: 0%
 
 ## 导致同步积压的原因 {#what-causes-sync-backlogs}
 
-无论是在Marketo Engage端还是CRM端进行更新，都会触发要重新同步的记录，通过向CRM的常规Marketo Engage周期更新另一端的信息。 每当对Salesforce上的记录进行更新时，都会生成一个系统修改时间戳，称为“SysModStamp”。 此队列将更改排入同步队列。
+无论是在Marketo Engage端还是CRM端进行更新，都会触发要重新同步的记录，以通过常规的Marketo Engage到CRM同步周期更新另一端的信息。 每当对Salesforce上的记录进行更新时，都会生成一个系统修改时间戳，称为“SysModStamp”。 此队列将更改排入同步队列。
 
-当进行大量更新（例如更改字段值）时，许多记录会更改，从而导致出现新的SysModStamps。 然后，大量人员记录更新需要在Marketo Engage和您的CRM之间重新同步，有时会创建临时积压。
+当进行大量更新（例如更改字段值）时，许多记录会更改，从而导致出现新的SysModStamps。 随后，大量人员记录更新需要在Marketo Engage与您的CRM之间重新同步，有时会创建临时积压。
 
 ## 管理同步积压的最佳实践 {#best-practices}
 
-对同步用户可见的&#x200B;**字段**：确保对同步可见的字段仅为需要同步且对营销工作有价值的字段。 如果对Salesforce中的记录所做的任何更新更新更新了上次修改的时间戳，则会将记录排队到同步积压中，并且不必要的字段同步可能会减慢同步下更重要的字段的速度。 如果对同步用户隐藏不必要的字段，则对这些字段的更新将导致跳过，其速度比更新快得多。 与您的Salesforce管理员合作查看[此处](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}的最佳实践，并更新Marketo同步用户可见的字段。
+对同步用户可见的&#x200B;**字段**：确保对同步可见的字段仅为需要同步且对营销工作有价值的字段。 如果对Salesforce中的记录所做的任何更新更新更新了上次修改的时间戳，则会将记录排队到同步积压中，并且不必要的字段同步可能会减慢同步下更重要的字段的速度。 如果对同步用户隐藏不必要的字段，则对这些字段的更新将导致跳过，其速度比更新快得多。 与您的Salesforce管理员合作，在[此处](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}查看最佳实践，并更新Marketo同步用户可见的字段。
 
 **隐藏或筛选不必要的记录**：如果记录不可销售，则可能会浪费同步资源。 如果同步用户看不到它，则不会浪费尝试同步它的资源。 [Marketo Engage支持](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}可以协助设置同步筛选器，以根据其他条件禁止同步记录。 有关设置自定义同步筛选器[的详细信息，请参阅此处](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 强烈建议在Salesforce中使用索引字段（请联系Salesforce以了解更多信息）。
 
@@ -97,9 +98,9 @@ ht-degree: 0%
 
 **频繁更新的字段**：某些字段容易频繁更新。 例如，货币字段可能会发生货币更改。 检查这些字段是否需要同步，或者字段的设计是否应不同。 如果您有其他频繁更新且不需要的字段，请向同步用户隐藏它们。 请务必与您的SFDC管理员集成讨论可能会更新字段的问题。
 
-**自定义对象**：定期查看[自定义对象](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，这些自定义对象已启用同步功能，并禁用不再需要同步的自定义对象。
+**自定义对象**：定期查看[自定义对象](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，这些自定义对象已启用同步并禁用不再需要同步的自定义对象。
 
-**活动**： [检查是否有任何活动](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}启用了可从同步中删除的同步。  每个潜在客户每天只能同步一次这些活动。
+**活动**： [检查是否有任何活动](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}启用了可从同步中删除的同步。  每个潜在客户每天只能同步一次这些活动。
 
 **查看同步错误**：异常处理可能会减慢同步速度。 查看用户通知并解决错误可以改善同步运行状况。
 

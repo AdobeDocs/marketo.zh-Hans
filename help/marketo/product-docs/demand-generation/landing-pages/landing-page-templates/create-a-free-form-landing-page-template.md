@@ -4,7 +4,7 @@ description: 创建自由表单登陆页面模板 — Marketo文档 — 产品�
 title: 创建自由表单登陆页面模板
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果要阻止表单预填充，或者只是不想跟踪特定页面上的Web行为，请选择&#x200B;**[!UICONTROL Disable Munchkin Tracking]**。\
+   >如果要阻止表单预填充，或者只是不想跟踪特定页面上的Web行为，请选择&#x200B;**[!UICONTROL Disable Munchkin Tracking]**。
    >选择&#x200B;**[!UICONTROL Validate Mobile Compatibility]**&#x200B;以确保您的代码与移动设备兼容。
 
    >[!MORELIKETHIS]

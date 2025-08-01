@@ -2,7 +2,7 @@
 description: 连接到Outlook - Marketo文档 — 产品文档
 title: 连接到Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -45,15 +45,15 @@ ht-degree: 0%
 
    ![](assets/connect-to-outlook-6.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook联机</strong></td> 
-      <td>也称为Exchange Online</td> 
+      <td><strong>Outlook联机</strong></td>
+      <td>也称为Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange内部部署</strong></td> 
-      <td>包括Exchange 2013和2016</td> 
+      <td><strong>Exchange内部部署</strong></td>
+      <td>包括Exchange 2013和2016</td>
      </tr>
     </tbody>
    </table>
@@ -108,15 +108,15 @@ ht-degree: 0%
 
    ![](assets/connect-to-outlook-15.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook联机</strong></td> 
-      <td>也称为Exchange Online</td> 
+      <td><strong>Outlook联机</strong></td>
+      <td>也称为Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange内部部署</strong></td> 
-      <td>包括Exchange 2013和2016</td> 
+      <td><strong>Exchange内部部署</strong></td>
+      <td>包括Exchange 2013和2016</td>
      </tr>
     </tbody>
    </table>
@@ -145,8 +145,8 @@ ht-degree: 0%
 
 根据您的IT团队的偏好和当前配置，最好向他们咨询如何授予访问权限。 下面是一些有助于指导对话的文章。
 
-* 全局同意：适用于Microsoft 365管理员的[集成应用和Azure AD](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* 用户同意： [配置用户如何同意应用程序](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* 管理员同意： [配置管理员同意工作流](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* 打开或关闭用户同意： [在Microsoft 365中管理用户对应用的同意](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* 全局同意： [适用于Microsoft 365管理员的集成应用和Azure AD](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
+* 用户同意： [配置用户如何同意应用程序](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* 管理员同意： [配置管理员同意工作流](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* 打开或关闭用户同意： [在Microsoft 365中管理用户对应用的同意](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * 使用Microsoft Defender进行管理： [管理OAuth应用程序](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

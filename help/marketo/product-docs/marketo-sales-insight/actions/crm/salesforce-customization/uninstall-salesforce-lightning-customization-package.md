@@ -3,7 +3,7 @@ description: 卸载Salesforce Lightning Customization Package - Marketo文档 �
 title: 卸载Salesforce Lightning自定义包
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '993'
 ht-degree: 11%
@@ -298,9 +298,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 上次营销参与日期</td>
   <td>营销活动的参与时间戳</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>数据和时间</td>
  </tr>
@@ -308,9 +308,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 上次营销活动说明</td>
   <td>预订的描述</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>文本</td>
  </tr>
@@ -318,9 +318,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 上次营销参与Source</td>
   <td>Source营销参与度</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>文本</td>
  </tr>
@@ -328,9 +328,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 上次营销参与类型</td>
   <td>参与类型（例如：Web活动）</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>文本</td>
  </tr>
@@ -338,9 +338,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 按销售列出的最近活动</td>
   <td>销售团队执行的最后一次传出活动</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>数据和时间</td>
  </tr>
@@ -348,9 +348,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 上次回复</td>
   <td>销售电子邮件的最后一次电子邮件回复</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>数据和时间</td>
  </tr>
@@ -358,9 +358,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 当前销售活动</td>
   <td>联系人/潜在客户所在的MSC营销活动的日志名称</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>文本</td>
  </tr>
@@ -378,9 +378,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>MSC — 选择退出</td>
   <td>选择禁用字段</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
   <td>复选框</td>
  </tr>
@@ -396,9 +396,9 @@ Opportunity视图只有一个按钮 — “发送MSE电子邮件”和以下字�
   <td>[!UICONTROL Send MSC Email]</td>
   <td>发送销售电子邮件 [!DNL Salesforce]</td>
   <td>
-  <p>帐户 
-  <p>联系人 
-  <p>潜在客户 
+  <p>帐户
+  <p>联系人
+  <p>潜在客户
   <p>机会</td>
  </tr>
  <tr>

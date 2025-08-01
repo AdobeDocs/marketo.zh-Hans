@@ -3,7 +3,7 @@ description: 报表概述 — Marketo文档 — 产品文档
 title: 报表概述
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Marketo提供了多种报表模块来满足不同需求。
 
 ## 高级BI Analytics报告 {#advanced-bi-analytics-reporting}
 
-_(以前称为Revenue Cycle Explorer/高级Report Builder)_
+_(以前称为Revenue Cycle Explorer/Advanced Report Builder)_
 
 >[!AVAILABILITY]
 >

@@ -4,7 +4,7 @@ description: Facebook中的个性化再营销 — Marketo文档 — 产品文档
 title: Facebook中的个性化再营销
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 6%
@@ -18,7 +18,7 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* 使用Web Personalization数据完成[重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)设置
->* 查看有关自定义受众[和再营销的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook文档。
+>* 查看有关自定义受众[和再营销的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook文档。
 
 ## 在[!DNL Facebook]中创建受众 {#creating-an-audience-in-facebook}
 
@@ -58,47 +58,47 @@ ht-degree: 6%
 
 ## [!DNL Facebook]中的RTP数据点 {#rtp-data-points-in-facebook}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>活动名称</th> 
-   <th> </th> 
-  </tr> 
-  <tr> 
-   <td>RTP再营销</td> 
-   <td> 
-    <div> 
-     <table> 
-      <tbody> 
-       <tr> 
-        <th>参数</th> 
-        <th>值</th> 
-       </tr> 
-       <tr> 
-        <td>ABM列表</td> 
-        <td>（基于帐户的列表的名称）</td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">类别</td> 
-        <td colspan="1"><p>财富 500 强</p><p>财富 1000 强</p><p>Global 2000</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">组</td> 
-        <td colspan="1"><p>企业</p><p>SMB</p></td> 
-       </tr> 
-       <tr> 
-        <td>行业</td> 
-        <td><p>防御</p><p>教育</p><p>金融服务</p><p>政府</p><p>医疗保健、医药、生物技术</p><p>软件和Internet</p><p>等等…… （根据RTP Industry选项）</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">分段受众</td> 
-        <td colspan="1">（在RTP中创建的分段受众的名称）</td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>活动名称</th>
+   <th> </th>
+  </tr>
+  <tr>
+   <td>RTP再营销</td>
+   <td>
+    <div>
+     <table>
+      <tbody>
+       <tr>
+        <th>参数</th>
+        <th>值</th>
+       </tr>
+       <tr>
+        <td>ABM列表</td>
+        <td>（基于帐户的列表的名称）</td>
+       </tr>
+       <tr>
+        <td colspan="1">类别</td>
+        <td colspan="1"><p>财富 500 强</p><p>财富 1000 强</p><p>Global 2000</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">组</td>
+        <td colspan="1"><p>企业</p><p>SMB</p></td>
+       </tr>
+       <tr>
+        <td>行业</td>
+        <td><p>防御</p><p>教育</p><p>金融服务</p><p>政府</p><p>医疗保健、医药、生物技术</p><p>软件和Internet</p><p>等等…… （根据RTP Industry选项）</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">分段受众</td>
+        <td colspan="1">（在RTP中创建的分段受众的名称）</td>
+       </tr>
+      </tbody>
+     </table>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 使用广告定位受众 {#target-your-audience-with-an-ad}

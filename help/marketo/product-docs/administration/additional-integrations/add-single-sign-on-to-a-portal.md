@@ -4,7 +4,7 @@ description: 将单点登录添加到门户 — Marketo文档 — 产品文档
 title: 将单点登录添加到门户
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '571'
 ht-degree: 0%
@@ -69,7 +69,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
    >[!NOTE]
    >
-   >如果在&#x200B;**[!UICONTROL Admin]**&#x200B;下未看到&#x200B;**[!UICONTROL Single Sign-On]**，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
+   >如果在&#x200B;**[!UICONTROL Single Sign-On]**&#x200B;下未看到&#x200B;**[!UICONTROL Admin]**，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
 
 1. 在&#x200B;**[!UICONTROL SAML Settings]**&#x200B;部分下，单击&#x200B;**[!UICONTROL Edit]**。
 

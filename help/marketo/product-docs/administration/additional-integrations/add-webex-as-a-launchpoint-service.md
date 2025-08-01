@@ -4,10 +4,10 @@ description: 添加 [!DNL Webex] 作为 [!DNL LaunchPoint] 服务 — Marketo文
 title: 将 [!DNL Webex] 添加为 [!DNL LaunchPoint] 服务
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: d8ee31db267a6e24ed4c764b6feae882e3dc6266
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 1%
+source-wordcount: '96'
+ht-degree: 3%
 
 ---
 
@@ -19,23 +19,23 @@ Marketo Engage管理您的[!DNL Webex]网络研讨会注册和出席情况。 �
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/add-webex-as-a-launchpoint-service-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 启动点]**。
+1. 单击 **[!UICONTROL LaunchPoint]**。
 
    ![](assets/add-webex-as-a-launchpoint-service-2.png)
 
-1. 选择&#x200B;**[!UICONTROL 新建]**，然后选择&#x200B;**[!UICONTROL 新建服务]**。
+1. 选择&#x200B;**[!UICONTROL New]**，然后选择&#x200B;**[!UICONTROL New Service]**。
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. 输入&#x200B;**[!UICONTROL 显示名称]**。 在&#x200B;**[!UICONTROL 服务]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL Webex网络研讨会]**。
+1. 输入&#x200B;**[!UICONTROL Display Name]**。 在&#x200B;**[!UICONTROL Service]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL Webex Webinars]**。
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
-1. 单击&#x200B;**[!UICONTROL 登录Webex网络研讨会]**。
+1. 单击 **[!UICONTROL Log Into Webex Webinars]**。
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
@@ -43,7 +43,7 @@ Marketo Engage管理您的[!DNL Webex]网络研讨会注册和出席情况。 �
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. 成功登录后，选项卡将关闭，Marketo Engage中的&#x200B;_新服务_&#x200B;模式将显示为“已设置Webex网络研讨会帐户”。 单击&#x200B;**[!UICONTROL 创建]**。
+1. 成功登录后，选项卡将关闭，Marketo Engage中的&#x200B;_新服务_&#x200B;模式将显示为“已设置Webex网络研讨会帐户”。 单击 **[!UICONTROL Create]**。
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 

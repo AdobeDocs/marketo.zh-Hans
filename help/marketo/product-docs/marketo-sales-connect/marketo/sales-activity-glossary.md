@@ -3,7 +3,7 @@ description: 销售活动术语表 — Marketo文档 — 产品文档
 title: 销售活动术语表
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 6%
@@ -216,96 +216,96 @@ ht-degree: 6%
 
 ## 描述 {#descriptions}
 
-<table> 
+<table>
  <tr>
   <th>属性</th>
   <th>描述</th>
  </tr>
- <tbody> 
- <tr> 
-   <td><strong>[!UICONTROL Details]</strong></td> 
-   <td>退回错误消息详细信息。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Email]</strong></td> 
-   <td>退回的电子邮件地址。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Link]</strong></td> 
-   <td>已单击的URL。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Marketo Sales Person ID]</strong></td> 
-   <td>[!DNL Sales Connect]中人员记录的唯一ID。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Received By]</strong></td> 
-   <td>发送电子邮件的人员的电子邮件地址。</td> 
+ <tbody>
+ <tr>
+   <td><strong>[!UICONTROL Details]</strong></td>
+   <td>退回错误消息详细信息。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Answered By]</strong></td> 
-   <td>接听电话的人员姓名。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Email]</strong></td>
+   <td>退回的电子邮件地址。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Duration]</strong></td> 
-   <td>呼叫的长度（以秒为单位）。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Link]</strong></td>
+   <td>已单击的URL。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Made By]</strong></td> 
-   <td>进行呼叫的销售人员的电子邮件地址。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Marketo Sales Person ID]</strong></td>
+   <td>[!DNL Sales Connect]中人员记录的唯一ID。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Recording URL]</strong></td> 
-   <td>通话录制的URL。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Received By]</strong></td>
+   <td>发送电子邮件的人员的电子邮件地址。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Status]</strong></td> 
-   <td>将保存呼叫的最终呼叫状态，包括：已完成、无应答、已取消、失败。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Answered By]</strong></td>
+   <td>接听电话的人员姓名。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Subject]</strong></td> 
-   <td>拨号器中的销售用户选择的呼叫结果。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Duration]</strong></td>
+   <td>呼叫的长度（以秒为单位）。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Campaign ID]</strong></td> 
-   <td>[!DNL Sales Connect]中促销活动资产的唯一ID。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Made By]</strong></td>
+   <td>进行呼叫的销售人员的电子邮件地址。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Campaign Name]</strong></td> 
-   <td>促销活动的名称。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Recording URL]</strong></td>
+   <td>通话录制的URL。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Campaign URL]</strong></td> 
-   <td>[!DNL Sales Connect] 销售促销活动的URL。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Status]</strong></td>
+   <td>将保存呼叫的最终呼叫状态，包括：已完成、无应答、已取消、失败。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Email Subject]</strong></td> 
-   <td>电子邮件的主题行后跟一个唯一ID(例如：我的主题行(MSC-12345678)</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Subject]</strong></td>
+   <td>拨号器中的销售用户选择的呼叫结果。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Phone Number Called]</strong></td> 
-   <td>销售人员呼叫的电话号码。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Campaign ID]</strong></td>
+   <td>[!DNL Sales Connect]中促销活动资产的唯一ID。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Template Name]</strong></td> 
-   <td>[!DNL Sales Connect]中电子邮件模板的名称。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Campaign Name]</strong></td>
+   <td>促销活动的名称。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Template URL]</strong></td> 
-   <td>[!DNL Sales Connect] 电子邮件模板的URL。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Campaign URL]</strong></td>
+   <td>[!DNL Sales Connect] 销售促销活动的URL。</td>
   </tr>
-  <tr> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Email Subject]</strong></td>
+   <td>电子邮件的主题行后跟一个唯一ID(例如：我的主题行(MSC-12345678)</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Sales Phone Number Called]</strong></td>
+   <td>销售人员呼叫的电话号码。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Sales Template Name]</strong></td>
+   <td>[!DNL Sales Connect]中电子邮件模板的名称。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Sales Template URL]</strong></td>
+   <td>[!DNL Sales Connect] 电子邮件模板的URL。</td>
+  </tr>
+  <tr>
    <td><strong>[!UICONTROL Sent By]</strong></td>
-   <td>发送电子邮件的人员的电子邮件地址。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Source]</strong></td> 
+   <td>发送电子邮件的人员的电子邮件地址。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Source]</strong></td>
    <td>活动的Source。 在2021年10月版发布之前，将针对[!DNL Sales Connect]活动设置为“Tout”。 在2021年10月版发布后，将成为[!DNL Sales Connect]活动的“销售应用程序”。</td>
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Template ID]</strong></td> 
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Template ID]</strong></td>
    <td>当源为Tout时，模板ID将为[!DNL Marketo Sales Connect]模板ID。 使用此项来定位特定模板，而不是可能存在于多个模板中的主题行。
-</td> 
-  </tr> 
- </tbody> 
+</td>
+  </tr>
+ </tbody>
 </table>

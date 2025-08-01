@@ -4,9 +4,9 @@ description: 跨工作区和分区共享分段 — Marketo文档 — 产品文�
 title: 跨工作区和分区共享分段
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ Marketo非常善于为项目或明智的营销活动挑选合适的人员。 但
 
 ## 共享分段 {#share-a-segmentation}
 
-1. 转到&#x200B;**[!UICONTROL 数据库]**。
+1. 转到&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. 右键单击&#x200B;**[!UICONTROL 分段]**&#x200B;并选择&#x200B;**[!UICONTROL 新建文件夹]**。
+1. 右键单击&#x200B;**[!UICONTROL Segmentations]**&#x200B;并选择&#x200B;**[!UICONTROL New Folder]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. 命名要跨工作区共享的文件夹（例如：共享分段），然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 命名要在工作区之间共享的文件夹（例如：共享分段），然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -72,11 +72,11 @@ Marketo非常善于为项目或明智的营销活动挑选合适的人员。 但
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. 右键单击文件夹，然后选择&#x200B;**[!UICONTROL 共享文件夹]**。
+1. 右键单击该文件夹并选择&#x200B;**[!UICONTROL Share Folder]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. 选择要与其共享文件夹的工作区。 单击&#x200B;**[!UICONTROL 保存]**。
+1. 选择要与其共享文件夹的工作区。 单击 **[!UICONTROL Save]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

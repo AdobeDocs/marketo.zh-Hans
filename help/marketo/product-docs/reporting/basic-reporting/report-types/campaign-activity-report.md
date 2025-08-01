@@ -4,7 +4,7 @@ description: 营销活动报表 — Marketo文档 — 产品文档
 title: 营销活动报表
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 0fded7d82543f221c96ad08f1486728a39f495e7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 2%
@@ -29,7 +29,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->要查找处理最多人员的营销活动，例如，按&#x200B;_处理人员总数_&#x200B;对报表[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}进行排序，然后选择&#x200B;**降序排序**。
+>要查找处理最多人员的营销活动，例如，按[处理人员总数](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}对报表&#x200B;_进行排序，然后选择_&#x200B;降序排序&#x200B;**。**
 
 **[您可以为促销活动报告包括选择](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)的列**：
 

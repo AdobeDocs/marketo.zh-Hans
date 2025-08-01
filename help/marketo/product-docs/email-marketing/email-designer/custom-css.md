@@ -6,7 +6,7 @@ description: 了解如何直接在Marketo Engage的Email Designer中将自定义
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: de3999dd6ede77c8fc591e24a69f062954b8c870
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 3%

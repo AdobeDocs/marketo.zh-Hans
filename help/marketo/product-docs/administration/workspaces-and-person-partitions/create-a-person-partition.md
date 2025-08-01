@@ -4,10 +4,10 @@ description: 创建人员分区 — Marketo文档 — 产品文档
 title: 创建人员分区
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 1%
 
 ---
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 >
 >首先了解[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/create-a-person-partition-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 工作区和分区]**。
+1. 单击 **[!UICONTROL Workspaces & Partitions]**。
 
    ![](assets/create-a-person-partition-2.png)
 
-1. 转到&#x200B;**[!UICONTROL 人员分区]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 新建人员分区]**。
+1. 转到&#x200B;**[!UICONTROL Person Partitions]**&#x200B;选项卡并单击&#x200B;**[!UICONTROL New Person Partition]**。
 
    ![](assets/create-a-person-partition-3.png)
 
-1. 命名分区，选择将显示它的&#x200B;**[!UICONTROL 工作区]**，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 命名分区，选择要显示分区的&#x200B;**[!UICONTROL Workspaces]**，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-a-person-partition-4.png)
 

@@ -4,10 +4,10 @@ description: 管理用户角色和权限 — Marketo文档 — 产品文档
 title: 管理用户角色和权限
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 0%
+source-wordcount: '455'
+ht-degree: 1%
 
 ---
 
@@ -33,25 +33,25 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 ## 具有Adobe身份的Marketo {#marketo-with-adobe-identity}
 
-如果您正在将Marketo与Adobe标识一起使用，则可以在此处[&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels)找到配置文件描述列表。
+如果您正在将Marketo与Adobe标识一起使用，则可以在此处[找到配置文件描述](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels)的列表。
 
 ## 将角色分配给用户 {#assign-roles-to-a-user}
 
 在[首次创建用户](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)或通过[编辑现有用户](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)时，可以为用户分配角色。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 单击 **[!UICONTROL Users & Roles]**。
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
-1. 从列表中选择要编辑的用户，然后单击&#x200B;**[!UICONTROL 编辑用户]**。
+1. 从列表中选择要编辑的用户，然后单击&#x200B;**[!UICONTROL Edit User]**。
 
    ![](assets/managing-user-roles-and-permissions-3.png)
 
-1. 在&#x200B;**[!UICONTROL 角色]**&#x200B;下，根据所需权限选择要分配给用户的角色，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 在&#x200B;**[!UICONTROL Roles]**&#x200B;下，根据所需权限选择要分配给用户的角色，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/managing-user-roles-and-permissions-4.png)
 
@@ -63,23 +63,23 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 有时，贵组织有员工担任非常特定的角色，这些角色需要自定义权限组合。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 单击 **[!UICONTROL Users & Roles]**。
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. 单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建角色]**。
+1. 单击 **[!UICONTROL New Role]**。
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
-1. 输入&#x200B;**[!UICONTROL 角色名称]**、**[!UICONTROL 描述]**（可选），然后选择此角色中的用户所需的权限。
+1. 输入&#x200B;**[!UICONTROL Role Name]**&#x200B;和&#x200B;**[!UICONTROL Description]**（可选），然后选择此角色中的用户所需的权限。
 
    ![](assets/managing-user-roles-and-permissions-9.png)
 
@@ -87,23 +87,23 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 如果需要更改与现有角色关联的权限，可以编辑该角色。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 单击 **[!UICONTROL Users & Roles]**。
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. 单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
-1. 从列表中选择要修改的角色，然后单击&#x200B;**[!UICONTROL 编辑角色]**。
+1. 从列表中选择要修改的角色，然后单击&#x200B;**[!UICONTROL Edit Role]**。
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. 更改&#x200B;**[!UICONTROL 角色名称]**&#x200B;和&#x200B;**[!UICONTROL 描述]**（如有必要），更改相关&#x200B;**[!UICONTROL 权限]**&#x200B;的选择，并在完成后单击&#x200B;**[!UICONTROL 保存]**。
+1. 如有必要，请更改&#x200B;**[!UICONTROL Role Name]**&#x200B;和&#x200B;**[!UICONTROL Description]**，更改相关&#x200B;**[!UICONTROL Permissions]**&#x200B;的选择，并在完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
@@ -115,22 +115,22 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 如果某个角色变得不必要，您可以将其删除。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 单击 **[!UICONTROL Users & Roles]**。
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. 单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 
-1. 从列表中选择要删除的角色，然后单击&#x200B;**[!UICONTROL 删除角色]**。
+1. 从列表中选择要删除的角色，然后单击&#x200B;**[!UICONTROL Delete Role]**。
 
    ![](assets/managing-user-roles-and-permissions-18.png)
 
-1. 单击&#x200B;**[!UICONTROL 删除]**&#x200B;以确认。
+1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
 
    ![](assets/managing-user-roles-and-permissions-19.png)

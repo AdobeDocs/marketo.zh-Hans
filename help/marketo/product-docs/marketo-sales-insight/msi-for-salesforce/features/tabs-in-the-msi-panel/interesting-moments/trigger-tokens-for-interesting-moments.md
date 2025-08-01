@@ -4,10 +4,10 @@ description: 触发有趣时刻的令牌 — Marketo文档 — 产品文档
 title: 触发有趣时刻的令牌
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 0%
+ht-degree: 38%
 
 ---
 
@@ -32,686 +32,686 @@ ht-degree: 0%
 ### 电子邮件触发器 {#email-triggers}
 
 <table style="table-layout:auto">
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>单击电子邮件中的链接</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>电子邮件硬退回</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>电子邮件软退回</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>电子邮件已投放</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>打开电子邮件</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-    <tr> 
-   <td>已接收转发给朋友的电子邮件</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-    <tr> 
-   <td>转发给朋友的电子邮件</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>单击电子邮件中的链接</td>
    <td><img src="assets/check.png" alt="check"></td>
-  </tr> 
-  <tr> 
-   <td>取消订阅电子邮件</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>电子邮件硬退回</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>电子邮件软退回</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>电子邮件已投放</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>打开电子邮件</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>已接收转发给朋友的电子邮件</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>转发给朋友的电子邮件</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+  </tr>
+  <tr>
+   <td>取消订阅电子邮件</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 ### Salesforce触发器 {#salesforce-triggers}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+<table style="table-layout:auto">
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>点击销售电子邮件中的链接</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+  </tr>
+  <tr>
+   <td>点击销售电子邮件中的链接</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已发送销售电子邮件</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>打开销售电子邮件</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>销售电子邮件退回</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已收到销售电子邮件</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>已发送销售电子邮件</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-    <tr> 
-   <td>机会已更新</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-    <tr> 
-   <td>所有者更改</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>人员已转化</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>人员已从SFDC中删除</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>人员已同步到SFDC</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已从机会中移除</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已从SFDC Campaign中删除</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>活动已记录</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>打开销售电子邮件</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>活动已更新</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已添加到机会</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已添加到SFDC Campaign</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>SFDC Campaign中的状态已更改</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>销售电子邮件退回</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>已收到销售电子邮件</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>机会已更新</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>所有者更改</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>人员已转化</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>从SFDC中删除人员</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>人员已同步到SFDC</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>已从机会中移除</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>从SFDC Campaign中移除</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>活动已记录</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>活动已更新</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>已添加到机会</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>已添加到SFDC Campaign</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>SFDC Campaign中的状态已更改</td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 ### Sales Connect触发器 {#sales-connect-triggers}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+<table style="table-layout:auto">
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>点击销售电子邮件中的链接</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已发送销售电子邮件</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>打开销售电子邮件</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>销售电子邮件退回</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已收到销售电子邮件</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已添加到销售活动</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
+  </tr>
   <tr>
-   <td>所有者更改</td> 
-   <td>已从销售活动中移除</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td>点击销售电子邮件中的链接</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>已收到的销售电话</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>已发送销售电子邮件</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>打开销售电子邮件</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>销售电子邮件退回</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>已收到销售电子邮件</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>已添加到销售活动</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>所有者更改</td>
+   <td>已从销售活动中移除</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>已收到的销售电话</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
-### Dynamic Chat触发令牌 {#dynamic-chat-trigger-tokens}
+### Dynamic Chat Trigger令牌 {#dynamic-chat-trigger-tokens}
 
 <table>
 <thead>
@@ -740,7 +740,7 @@ ht-degree: 0%
 </thead>
 <tbody>
   <tr>
-    <td>参与对话</td>
+    <td>参与了对话</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -784,7 +784,7 @@ ht-degree: 0%
     <td><img src="assets/check.png" alt="check"></td>
   </tr>
   <tr>
-    <td>与座席对话方块</td>
+    <td>在对话中与代理进行了互动</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -828,7 +828,7 @@ ht-degree: 0%
     <td></td>
   </tr>
   <tr>
-    <td>对话框中的已计划会议</td>
+    <td>在对话中安排了会议</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -872,7 +872,7 @@ ht-degree: 0%
     <td></td>
   </tr>
   <tr>
-    <td>已实现的对话框目标</td>
+    <td>达成了对话目标</td>
     <td></td>
     <td></td>
     <td></td>
@@ -916,7 +916,7 @@ ht-degree: 0%
     <td></td>
   </tr>
   <tr>
-    <td>在对话框中与文档交互</td>
+    <td>在对话中与文档交互</td>
     <td></td>
     <td></td>
     <td></td>
@@ -964,93 +964,93 @@ ht-degree: 0%
 
 ### 其他 {#miscellaneous}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+<table style="table-layout:auto">
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>填写表单</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>填写表单</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>访问网页</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>点击网页上的链接</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>访问网页</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>点击网页上的链接</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

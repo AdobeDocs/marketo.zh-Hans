@@ -3,7 +3,7 @@ description: 实时聊天概述 — Marketo文档 — 产品文档
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -49,25 +49,25 @@ ht-degree: 0%
 
 ![](assets/live-chat-overview-2.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>循环</b></td>
    <td>聊天按顺序分配给座席。</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>代理</b></td>
    <td>选择要接收聊天的特定座席。</td>
   </tr>
-    <tr> 
+    <tr>
    <td><b>自定义规则</b></td>
    <td>在考虑将访客路由到何处时，所有自定义规则都将循环使用。 如果访客不符合任何自定义规则的条件，他们将获得<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">实时聊天后备消息</a>。</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>团队</b></td>
    <td>选择要接收聊天的特定团队。 如果选择该选项，将在该组内为其分配循环调度法。</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 实时聊天通知 {#live-chat-notifications}
@@ -102,7 +102,7 @@ Mac的[步骤](https://support.apple.com/guide/mac-help/change-notifications-set
 >
 >您还可以选择设置浏览器通知，以在您未登录Dynamic Chat时提醒您。
 >
->* 在[Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}中启用浏览器通知
+>* 在[Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}中启用浏览器通知
 >* 在[Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}中启用浏览器通知
 
 ### 失败的操作通知 {#failed-action-notifications}

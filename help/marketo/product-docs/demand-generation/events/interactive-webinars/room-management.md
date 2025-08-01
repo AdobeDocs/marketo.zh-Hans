@@ -3,9 +3,9 @@ description: 房间管理 — Marketo文档 — 产品文档
 title: 房间管理
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 ## 管理和访问会议室和录制 {#manage-and-access-rooms-and-recordings}
 
-1. 转到&#x200B;**[!UICONTROL 设计工作室]**。
+1. 转到&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/room-management-1.png)
 
-1. 选择&#x200B;**[!UICONTROL 交互式网络研讨会]**，然后选择&#x200B;**[!UICONTROL 管理会议室]**。
+1. 选择&#x200B;**[!UICONTROL Interactive Webinars]**，然后选择&#x200B;**[!UICONTROL Manage Rooms]**。
 
    ![](assets/room-management-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 交互式网络研讨会室是一个虚拟空间，旨在举办实时、引人入胜的在线活动，参与者可以在此与演示者和其他参与者进行交互。 在这些聊天室中，您可以找到网络研讨会中的上传内容和录像。
 
-要查看所有工作室的列表，请从顶部菜单栏中选择&#x200B;**[!UICONTROL 工作室]**。 您可以在这些聊天室中找到您创建的所有聊天室以及上传的内容和录制。 您还可以查看各个工作室的录制数量、室内文件大小和上次访问日期。
+要查看所有工作室的列表，请从顶部菜单栏中选择&#x200B;**[!UICONTROL Rooms]**。 您可以在这些聊天室中找到您创建的所有聊天室以及上传的内容和录制。 您还可以查看各个工作室的录制数量、室内文件大小和上次访问日期。
 
 <table><tbody>
   <tr>
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 您可以在“内容”选项卡中执行以下操作：
 
-* 单击&#x200B;**[!UICONTROL 启动工作室]**&#x200B;按钮启动并进入工作室。
+* 单击&#x200B;**[!UICONTROL Launch room]**&#x200B;按钮启动并进入文件室。
 * 使用搜索栏查找您要查找的文件。
 * 单击“下载文件”图标可在设备上下载文件。 选择要批量下载的两个或多个文件。
 * 单击“删除文件室”图标可移除文件室。 删除文件时，无法检索该文件。
@@ -102,7 +102,7 @@ ht-degree: 0%
 
 您可以从此集中式中心执行以下操作：
 
-* 单击&#x200B;**[!UICONTROL 启动工作室]**&#x200B;按钮启动并进入工作室。
+* 单击&#x200B;**[!UICONTROL Launch room]**&#x200B;按钮启动并进入文件室。
 * 使用搜索栏查找您要查找的录制。
 * 单击“下载文件”图标可在设备上下载文件。 选择要批量下载的两个或多个文件。
 * 单击复制录制链接图标以复制录制URL。
@@ -114,9 +114,9 @@ ht-degree: 0%
 
 录像是宝贵的资源，抓住了现场讨论、演示和问答会议的实质。 它们允许参与者按照自己的步调重新访问关键见解、缺失的详细信息或复杂概念。
 
-单击&#x200B;**[!UICONTROL 录制]**&#x200B;选项卡可查看您已上传的所有录制的列表。
+单击&#x200B;**[!UICONTROL Recordings]**&#x200B;选项卡可查看您已上传的所有录制的列表。
 
-在&#x200B;**[!UICONTROL 我的录制]**&#x200B;下，您可以找到在您创建的房间中可用的所有录制。 您还可以查看其各自的大小、日期和时间以及录制的持续时间。
+在&#x200B;**[!UICONTROL My recordings]**&#x200B;下，您可以找到在您创建的聊天室中可用的所有录制。 您还可以查看其各自的大小、日期和时间以及录制的持续时间。
 
 ![](assets/room-management-6.png)
 

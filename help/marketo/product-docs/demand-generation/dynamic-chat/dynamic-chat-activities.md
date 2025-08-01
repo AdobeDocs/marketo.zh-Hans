@@ -2,7 +2,7 @@
 description: '[!DNL Dynamic Chat]活动 — Marketo文档 — 产品文档'
 title: '[!DNL Dynamic Chat]活动'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td style="width:25%"><b>已参与会话流/对话</b></td>
-    <td>Web访客首次单击对话框或对话流中的提示时（单击多选选项、提交信息、预订会议、打开文档等），就会发生参与。 如果访客打开了对话框或对话流，但未单击提示，则将<b>未记录参与情况</b>。 
+    <td>Web访客首次单击对话框或对话流中的提示时（单击多选选项、提交信息、预订会议、打开文档等），就会发生参与。 如果访客打开了对话框或对话流，但未单击提示，则将<b>未记录参与情况</b>。
     <br>每个访客、每个会话一个参与事件。</td>
   </tr>
    <tr>

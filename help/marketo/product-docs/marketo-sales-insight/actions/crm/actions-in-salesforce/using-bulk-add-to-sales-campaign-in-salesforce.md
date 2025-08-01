@@ -1,8 +1,8 @@
 ---
-description: 在Salesforce中使用批量添加到Sales Campaign - Marketo文档 — 产品文档
+description: 在Salesforce中使用批量添加到促销活动 — Marketo文档 — 产品文档
 title: 在Salesforce中使用批量添加到Sales Campaign
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->请确保您已将[最新的Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}安装到您的Salesforce实例，并在Salesforce中的联系人和潜在客户列表视图中配置了[操作按钮](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}。
+>请确保您已将[最新Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}安装到您的Salesforce实例，并在Salesforce中的联系人和潜在客户列表视图中配置了[操作按钮](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}。
 
 ## 在Salesforce Lightning中批量添加到Sales Campaign {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
-1. 在Salesforce中，通过单击&#x200B;**潜在客户/联系人**&#x200B;选项卡，导航到潜在客户/联系人主页。
+1. 在Salesforce中，通过单击&#x200B;**潜在客户/联系人**&#x200B;选项卡，导航到“潜在客户/联系人”主页。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-1.png)
 

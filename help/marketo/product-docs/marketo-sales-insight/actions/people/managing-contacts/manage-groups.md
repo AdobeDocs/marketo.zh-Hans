@@ -3,7 +3,7 @@ description: 管理组 — Marketo文档 — 产品文档
 title: 管理组
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -16,33 +16,33 @@ ht-degree: 0%
 
 ## 组类型 {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>组</th> 
-   <th>描述</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL All People]</td> 
-   <td>所有用户对您可见的所有联系人。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Dynamic Groups]</td> 
-   <td>我的联系人：您拥有的所有联系人。<br>取消订阅：已选择退出接收通信的联系人。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL My Groups]</td> 
-   <td>您已创建的组。 它们可以包含您的联系人或已与您共享的联系人。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Team Groups]</td> 
-   <td>已与您和/或由您共享的组。 它们可以包含您的队友拥有的联系人或您与其共享的联系人。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>组</th>
+   <th>描述</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL All People]</td>
+   <td>所有用户对您可见的所有联系人。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Dynamic Groups]</td>
+   <td>我的联系人：您拥有的所有联系人。<br>取消订阅：已选择退出接收通信的联系人。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL My Groups]</td>
+   <td>您已创建的组。 它们可以包含您的联系人或已与您共享的联系人。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Team Groups]</td>
+   <td>已与您和/或由您共享的组。 它们可以包含您的队友拥有的联系人或您与其共享的联系人。</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 创建组 {#create-a-group}

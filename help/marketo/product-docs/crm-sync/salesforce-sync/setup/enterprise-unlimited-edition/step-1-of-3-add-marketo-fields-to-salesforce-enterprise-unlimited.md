@@ -4,7 +4,7 @@ description: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enter
 title: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '719'
 ht-degree: 8%
@@ -53,47 +53,47 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 1. 为字段输入[!UICONTROL Field Label]、[!UICONTROL Length]和[!UICONTROL Field Name]，如下表所示。
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      字段标签 
-    </div></th> 
-   <th> 
+      字段标签
+    </div></th>
+   <th>
     <div>
-      字段名称 
-    </div></th> 
-   <th> 
+      字段名称
+    </div></th>
+   <th>
     <div>
-      数据类型 
-    </div></th> 
-   <th> 
+      数据类型
+    </div></th>
+   <th>
     <div>
-      字段属性 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>得分</td> 
-   <td>mkto71_Lead_Score</td> 
-   <td>数值</td> 
-   <td>长度10<br>小数位0 </td> 
-  </tr> 
-  <tr> 
-   <td>获取日期</td> 
-   <td>mkto71_Acquisition_Date</td> 
-   <td>日期/时间</td> 
-   <td> </td> 
-  </tr> 
-  <tr> 
-   <td>客户获取计划</td> 
-   <td>mkto71_Acquisition_Program</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
- </tbody> 
+      字段属性
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>得分</td>
+   <td>mkto71_Lead_Score</td>
+   <td>数值</td>
+   <td>长度10<br>小数位0 </td>
+  </tr>
+  <tr>
+   <td>获取日期</td>
+   <td>mkto71_Acquisition_Date</td>
+   <td>日期/时间</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>客户获取计划</td>
+   <td>mkto71_Acquisition_Program</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -133,107 +133,107 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 1. 对联系对象的“得分”、“客户获取日期”和“客户获取计划”字段执行步骤3至10，就像对潜在客户对象执行操作一样。
 1. 或者，将上述过程用于此表的任何其他自定义字段。
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      字段标签 
-    </div></th> 
-   <th> 
+      字段标签
+    </div></th>
+   <th>
     <div>
-      字段名称 
-    </div></th> 
-   <th> 
+      字段名称
+    </div></th>
+   <th>
     <div>
-      数据类型 
-    </div></th> 
-   <th> 
+      数据类型
+    </div></th>
+   <th>
     <div>
-      字段属性 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>客户获取计划ID</td> 
-   <td>mkto71_Acquisition_Program_Id</td> 
-   <td>数值</td> 
-   <td>长度18<br>小数位0 </td> 
-  </tr> 
-  <tr> 
-   <td>原始反向链接</td> 
-   <td>mkto71_Original_Referrer</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>原始搜索引擎</td> 
-   <td>mkto71_Original_Search_Engine</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>原始搜索短语</td> 
-   <td>mkto71_Original_Search_Phrase</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>原始来源信息</td> 
-   <td>mkto71_Original_Source_Info</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>原始来源类型</td> 
-   <td>mkto71_Original_Source_Type</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>推断的城市</td> 
-   <td>mkto71_Inferred_City</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>推断公司</td> 
-   <td>mkto71_Inferred_Company</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>推断的国家</td> 
-   <td>mkto71_Inferred_Country</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>推断的都市区</td> 
-   <td>mkto71_Inferred_Metropolitan_Area</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>推断的电话区号</td> 
-   <td>mkto71_Inferred_Phone_Area_Code</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>推断的邮政编码</td> 
-   <td>mkto71_Inferred_Postal_Code</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
-  <tr> 
-   <td>推断的状态区域</td> 
-   <td>mkto71_Inferred_State_Region</td> 
-   <td>文本</td> 
-   <td>长255</td> 
-  </tr> 
- </tbody> 
+      字段属性
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>客户获取计划ID</td>
+   <td>mkto71_Acquisition_Program_Id</td>
+   <td>数值</td>
+   <td>长度18<br>小数位0 </td>
+  </tr>
+  <tr>
+   <td>原始反向链接</td>
+   <td>mkto71_Original_Referrer</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>原始搜索引擎</td>
+   <td>mkto71_Original_Search_Engine</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>原始搜索短语</td>
+   <td>mkto71_Original_Search_Phrase</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>原始来源信息</td>
+   <td>mkto71_Original_Source_Info</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>原始来源类型</td>
+   <td>mkto71_Original_Source_Type</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>推断的城市</td>
+   <td>mkto71_Inferred_City</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>推断公司</td>
+   <td>mkto71_Inferred_Company</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>推断的国家</td>
+   <td>mkto71_Inferred_Country</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>推断的都市区</td>
+   <td>mkto71_Inferred_Metropolitan_Area</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>推断的电话区号</td>
+   <td>mkto71_Inferred_Phone_Area_Code</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>推断的邮政编码</td>
+   <td>mkto71_Inferred_Postal_Code</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+  <tr>
+   <td>推断的状态区域</td>
+   <td>mkto71_Inferred_State_Region</td>
+   <td>文本</td>
+   <td>长255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

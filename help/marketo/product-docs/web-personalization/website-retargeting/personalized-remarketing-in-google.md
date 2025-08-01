@@ -4,7 +4,7 @@ description: Google中的个性化再营销 — Marketo文档 — 产品文档
 title: Google中的个性化再营销
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 2%
@@ -34,7 +34,7 @@ ht-degree: 2%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 在受众生成器中，单击&#x200B;**[!UICONTROL Sequences]**、**[!UICONTROL Find the RTP Data]**、[!UICONTROL Custom Dimensions]下的[!UICONTROL UICONTROL [ !] Custom Variables]和[!UICONTROL Events]。
+1. 在受众生成器中，单击&#x200B;**[!UICONTROL Sequences]**、**[!UICONTROL Find the RTP Data]**、[!UICONTROL Custom Dimensions]下的[!UICONTROL [!]UICONTROL Custom Variables]和[!UICONTROL Events]。
 
 >[!TIP]
 >

@@ -3,9 +3,9 @@ description: 对话框概述 — Marketo文档 — 产品文档
 title: 对话框概述
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '251'
 ht-degree: 5%
 
 ---
@@ -64,10 +64,10 @@ ht-degree: 5%
 
 您可以同时禁用（和重新启用）所有已发布的对话框。
 
-1. 在Dynamic Chat中，单击&#x200B;**[!UICONTROL 配置]**&#x200B;选项卡。
+1. 在Dynamic Chat中，单击&#x200B;**[!UICONTROL Configuration]**&#x200B;选项卡。
 
    ![](assets/dialogue-overview-4.png)
 
-1. 将&#x200B;**[!UICONTROL Chat Enabled]**&#x200B;开关切换为off以禁用（重新启用）所有对话框。
+1. 将&#x200B;**[!UICONTROL Chat Enabled]**&#x200B;开关切换为关闭以禁用（再切换为打开以重新启用）所有对话框。
 
    ![](assets/dialogue-overview-5.png)

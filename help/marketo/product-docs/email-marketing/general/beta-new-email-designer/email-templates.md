@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1714'
 ht-degree: 1%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->本文仅适用新Marketo Engage电子邮件Designer测试版的成员。 请不要传播。
+>本文仅适用新的Marketo Engage Email Designer测试版成员。 请不要传播。
 
 >[!PREREQUISITES]
 >
->要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[AdobeIdentity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的请求，而您希望请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+>要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 >[!NOTE]
 >
@@ -64,9 +64,9 @@ ht-degree: 1%
 
 ### 导入您的HTML {#import-your-html}
 
-您可以导入现有HTML内容来设计电子邮件模板。 内容可以是：
+您可以导入现有HTML内容以设计电子邮件模板。 内容可以是：
 
-* 具有合并样式表的HTML文件
+* 包含合并样式表的HTML文件
 
 * 包含HTML文件、样式表(.css)和图像的.zip文件
 
@@ -74,7 +74,7 @@ ht-degree: 1%
 >
 >.zip文件结构没有限制。 但是，引用必须是相对的，并且适合.zip文件夹的树结构。
 
-1. 在&#x200B;_设计模板_&#x200B;页中，选择&#x200B;**导入HTML**。
+1. 在&#x200B;_设计您的模板_&#x200B;页面中，选择&#x200B;**导入HTML**。
 
 1. 拖放所需的HTML或.zip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
 
@@ -84,7 +84,7 @@ ht-degree: 1%
    >
    >上传HTML内容后，您的内容将处于兼容模式。 在此模式下，您只能个性化文本、添加链接或向内容添加资产。
 
-1. 若要利用Email Designer内容组件，请单击&#x200B;**HTML转换器**&#x200B;选项卡，然后单击&#x200B;**转换**。
+1. 若要利用Email Designer内容组件，请单击&#x200B;**HTML converter**&#x200B;选项卡，然后单击&#x200B;**转换**。
 
    >[!CAUTION]
    >
@@ -96,7 +96,7 @@ ht-degree: 1%
 
 有两种类型的模板可供选择。
 
-* **示例模板**：Marketo Engage提供了四个现成的电子邮件模板。
+* **示例模板**： Marketo Engage提供了四个现成的电子邮件模板。
 
 * **保存的模板**：这些模板是您使用“模板”菜单从头创建的模板，或者您创建并选择另存为模板的电子邮件。
 
@@ -138,7 +138,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >选择n：n列组件以定义所选列数（3到10之间）。 您还可以通过移动列下方的箭头来定义每列的宽度。
+   >选择n:n列组件以定义您选择的列数（3到10之间）。 您还可以通过移动列下方的箭头来定义每列的宽度。
 
    ![](assets/add-structure-and-content-1.png)
 
@@ -182,24 +182,24 @@ ht-degree: 1%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 在列工具栏中，单击&#x200B;_[!UICONTROL 选择列]_&#x200B;工具，然后选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL 设置]_&#x200B;和&#x200B;_[!UICONTROL 样式]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL 样式]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
-   * 对于&#x200B;**[!UICONTROL 背景]**，根据需要更改背景颜色。
+   * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 
-     清除透明背景的复选框。 启用&#x200B;**[!UICONTROL 背景图像]**&#x200B;设置以使用图像作为背景，而不是纯色。
+     清除透明背景的复选框。 启用&#x200B;**[!UICONTROL Background image]**&#x200B;设置以使用图像作为背景而不是纯色。
 
-   * 对于&#x200B;**[!UICONTROL 对齐方式]**，请选择&#x200B;_Top_、_Middle_&#x200B;或&#x200B;_Bottom_&#x200B;图标。
-   * 对于&#x200B;**[!UICONTROL 内边距]**，定义所有边的内边距。
+   * 对于&#x200B;**[!UICONTROL Alignment]**，选择&#x200B;_Top_、_Middle_&#x200B;或&#x200B;_Bottom_&#x200B;图标。
+   * 对于&#x200B;**[!UICONTROL Padding]**，定义所有边的填充。
 
-     如果要调整边距，请选择&#x200B;**[!UICONTROL 每边不同的边距]**。 单击&#x200B;_锁定_&#x200B;图标中断同步。
+     如果要调整填充，请选择&#x200B;**[!UICONTROL Different padding for each side]**。 单击&#x200B;_锁定_&#x200B;图标中断同步。
 
-   * 展开&#x200B;**[!UICONTROL 高级]**&#x200B;部分以定义列的内联样式。
+   * 展开&#x200B;**[!UICONTROL Advanced]**&#x200B;部分以定义列的内联样式。
 
    ![](assets/layers-settings-styles-3.png)
 
@@ -207,7 +207,7 @@ ht-degree: 1%
 
 1. 保存更改。
 
-### 使内容个性化 {#personalize-content}
+### 个性化内容 {#personalize-content}
 
 令牌在新编辑器中的工作方式与在旧编辑器中的工作方式相同，但图标的外观不同。 以下示例概述了如何使用回退文本添加名字令牌。
 
@@ -289,7 +289,7 @@ ht-degree: 1%
 
 * **更改您的设计**：返回到&#x200B;_设计您的模板_&#x200B;页面。 从此处，您可以按照[设计模板](#design-your-template)部分中概述的步骤执行任何操作。
 
-* **导出HTML**：将可视画布中的内容以HTML格式下载到本地系统，并打包为zip文件。
+* **导出HTML**：将可视画布中的内容以HTML格式下载到您的本地系统，并打包为zip文件。
 
 ## 查看模板详细信息 {#view-template-details}
 
@@ -309,7 +309,7 @@ ht-degree: 1%
 
 ## 查看引用使用的电子邮件模板 {#email-template-used-by-references}
 
-在电子邮件模板摘要中，单击&#x200B;**使用者**&#x200B;选项卡查看在Marketo Engage中使用此电子邮件模板位置的详细信息。
+在电子邮件模板摘要中，单击&#x200B;**使用者**&#x200B;选项卡以查看有关在Marketo Engage中使用此电子邮件模板位置的详细信息。
 
 ![](assets/email-template-used-by-references-1.png)
 

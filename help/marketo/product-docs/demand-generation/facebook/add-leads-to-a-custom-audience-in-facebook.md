@@ -4,7 +4,7 @@ description: 在Facebook中将潜在客户添加到自定义受众 — Marketo�
 title: 在Facebook中将潜在客户添加到自定义受众
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**[!UICONTROL Add leads to audience]**：只有具有自定义子类型的[!DNL Facebook]受众可用。\
+   >**[!UICONTROL Add leads to audience]**：只有具有自定义子类型的[!DNL Facebook]受众可用。
    >**[!UICONTROL Remove leads from audience]**：从[!DNL Facebook]受众中删除静态或智能列表中的潜在客户。
 
 1. 完成后，状态将更新。

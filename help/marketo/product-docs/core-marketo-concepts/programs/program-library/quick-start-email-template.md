@@ -3,7 +3,7 @@ description: 快速入门电子邮件模板 — Marketo文档 — 产品文档
 title: 快速入门电子邮件模板
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '565'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Marketo Engage电子邮件编辑器提供了一些功能，可帮助您更改布
 
 * **变量**：选择模块时，变量会显示在编辑器的右侧。 它们可用于调整模块的属性，这些属性不易于通过图像或文本元素进行编辑。
 
-有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 模块摘要 {#modules-summary}
 

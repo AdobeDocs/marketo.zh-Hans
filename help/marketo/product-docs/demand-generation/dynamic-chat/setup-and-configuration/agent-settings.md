@@ -3,7 +3,7 @@ description: 代理设置 — Marketo文档 — 产品文档
 title: 代理设置
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -63,17 +63,17 @@ ht-degree: 1%
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>会议时长</b></td>
    <td>确定访客在可用会议槽中看到的时间长度。</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>会议之间的缓冲时间</b></td>
    <td>会议后设置为缓冲的时间。 如果您设置30分钟，则没有人能够在您的日历中预定会议结束30分钟之后与您预约会议。</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]

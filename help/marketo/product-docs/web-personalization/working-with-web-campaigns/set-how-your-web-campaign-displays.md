@@ -4,7 +4,7 @@ description: 设置Web营销活动的显示方式 — Marketo文档 — 产品�
 title: 设置Web营销活动的显示方式
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -43,21 +43,21 @@ ht-degree: 0%
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Below fold]</strong></td> 
-   <td>当访客在折页下方滚动时显示促销活动。 当访客回滚到折页上方时，营销活动消失。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Percent]</strong></td> 
-   <td>在访客滚动到页面的预定百分比时显示促销活动。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Pixel]</strong></td> 
-   <td><p>当访客滚动到页面上预先指定的顶级像素时显示促销活动。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Below fold]</strong></td>
+   <td>当访客在折页下方滚动时显示促销活动。 当访客回滚到折页上方时，营销活动消失。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Percent]</strong></td>
+   <td>在访客滚动到页面的预定百分比时显示促销活动。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Pixel]</strong></td>
+   <td><p>当访客滚动到页面上预先指定的顶级像素时显示促销活动。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 退出意图 {#exit-intent}

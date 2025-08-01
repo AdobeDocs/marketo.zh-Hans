@@ -4,9 +4,9 @@ description: 删除流程步骤 — Marketo文档 — 产品文档
 title: 删除流程步骤
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 首先，我们来介绍基础知识。 以下是如何从Smart Campaign中删除不需要的流步骤。
 
-1. 在Smart Campaign **[!UICONTROL 流程]**&#x200B;中，单击&#x200B;**X**&#x200B;图标以删除任何流程步骤。
+1. 在Smart Campaign **[!UICONTROL Flow]**&#x200B;中，单击&#x200B;**X**&#x200B;图标以删除任何流量步骤。
 
    ![](assets/delete-a-flow-step-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 删除]**。
+1. 单击 **[!UICONTROL Delete]**。
 
    ![](assets/delete-a-flow-step-2.png)
 
@@ -42,8 +42,8 @@ ht-degree: 0%
    1. **已在没有等待步骤的情况下运行**。由于活动在运行之后处于休眠状态，因此不会有任何人员受到影响。
    1. **当前正在运行**。 根据删除的时间和详细信息，更改可能会导致意外行为。 我们强烈建议不要编辑正在运行的批处理营销活动。 对于紧急情况，了解如何[中止正在运行的Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}。
 
-   1. **已运行，等待步骤。**&#x200B;有关此页面的多个详细信息。\
-      当人员进入等待步骤时，人员会记下持续时间以及要返回的NUMBER STEP。 请参阅以下示例。
+   1. **已运行，等待步骤。**有关此页面的多个详细信息。
+当人员进入等待步骤时，人员会记下持续时间以及要返回的NUMBER STEP。 请参阅以下示例。
 
    **触发智能营销活动**
 

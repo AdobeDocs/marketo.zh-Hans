@@ -3,7 +3,7 @@ description: 使用全局搜索 — Marketo文档 — 产品文档
 title: 使用全局搜索
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -40,27 +40,27 @@ ht-degree: 3%
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>项目/目标的名称</td> 
+   <td>1</td>
+   <td>项目/目标的名称</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>指向相应项目/目标的路径（痕迹导航）</td> 
+   <td>2</td>
+   <td>指向相应项目/目标的路径（痕迹导航）</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>上次修改项目/目标的日期和时间</td> 
+   <td>3</td>
+   <td>上次修改项目/目标的日期和时间</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>创建项目/目标的日期和时间</td> 
+   <td>4</td>
+   <td>创建项目/目标的日期和时间</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>实施重点筛选条件以缩小搜索结果</td> 
+   <td>5</td>
+   <td>实施重点筛选条件以缩小搜索结果</td>
   </tr>
  </tbody>
 </table>

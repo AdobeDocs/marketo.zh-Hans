@@ -4,7 +4,7 @@ description: 在Salesforce中创建工作流规则 — Marketo文档 — 产品�
 title: 在Salesforce中创建工作流规则
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->这仅会影响同时使用&#x200B;**1&rbrace; MSI和MSE以及希望在MSI中使用最佳匹配功能的客户。**&#x200B;如果您不需要/使用“最佳匹配”，则可以忽略。
+>这仅会影响同时使用&#x200B;**1} MSI和MSE以及希望在MSI中使用最佳匹配功能的客户。**&#x200B;如果您不需要/使用“最佳匹配”，则可以忽略。
 
 ## 开始使用 {#getting-started}
 
@@ -25,29 +25,29 @@ ht-degree: 1%
 
 以下是工作流规则的建议名称和说明。 这些参数适用于[!UICONTROL Contact]和[!UICONTROL Lead]对象：
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>更新有趣时刻描述字段</td> 
-   <td><p>复制自：上次Marketo参与度描述<br>复制至：上次有趣时刻描述</p></td> 
-  </tr> 
-  <tr> 
-   <td>更新有趣时刻类型字段</td> 
-   <td><p>复制自：上次Marketo参与类型<br>复制至：上一个有趣的时刻类型</p></td> 
-  </tr> 
-  <tr> 
-   <td>更新“有趣的时刻”Source字段</td> 
-   <td><p>复制自：上次Marketo参与Source<br>复制至：上一个有趣的时刻Source</p></td> 
-  </tr> 
-  <tr> 
-   <td>更新有趣时刻日期字段</td> 
-   <td><p>复制自：上次Marketo参与日期<br>复制至：上一个有趣的时刻日期</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>更新有趣时刻描述字段</td>
+   <td><p>复制自：上次Marketo参与度描述<br>复制至：上次有趣时刻描述</p></td>
+  </tr>
+  <tr>
+   <td>更新有趣时刻类型字段</td>
+   <td><p>复制自：上次Marketo参与类型<br>复制至：上一个有趣的时刻类型</p></td>
+  </tr>
+  <tr>
+   <td>更新“有趣的时刻”Source字段</td>
+   <td><p>复制自：上次Marketo参与Source<br>复制至：上一个有趣的时刻Source</p></td>
+  </tr>
+  <tr>
+   <td>更新有趣时刻日期字段</td>
+   <td><p>复制自：上次Marketo参与日期<br>复制至：上一个有趣的时刻日期</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 说明 {#instructions}

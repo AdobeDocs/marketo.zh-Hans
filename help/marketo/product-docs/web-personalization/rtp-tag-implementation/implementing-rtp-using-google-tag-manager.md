@@ -4,7 +4,7 @@ description: 使用Google Tag Manager实施RTP - Marketo文档 — 产品文档
 title: 使用Google Tag Manager实施RTP
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

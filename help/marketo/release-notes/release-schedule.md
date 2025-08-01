@@ -4,7 +4,7 @@ description: 发行计划 - Marketo 文档 - 产品文档
 title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 4a575c96100921c69c09996c649db979ac22cd4d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 8%
@@ -26,48 +26,48 @@ ht-degree: 8%
 _发行日期/功能可能会发生更改_
 
 <table>
- <tbody> 
-  <tr> 
+ <tbody>
+  <tr>
    <th width="250px">版本</th>
    <th width="250px">发行日期</th>
    <th width="250px">状态</th>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">’25年1月</a></td>
    <td>2025年1月17日</td>
    <td>已发货</td>
   </tr>
-   <tr> 
+   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">’25年3月</a></td>
    <td>2025年3月28日</td>
    <td>已发货</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">’25年4月</a></td>
    <td>’25年4月</td>
    <td>已发货</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">’25年5月</a></td>
    <td>2025年5月23日</td>
    <td>已发货</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/current.md">’25年7月</a></td>
    <td>2025年7月11日</td>
    <td>进行中</td>
   </tr>
-  <tr> 
+  <tr>
    <td>’25年8月</td>
    <td>2025年8月22日</td>
    <td>按计划</td>
   </tr>
-  <tr> 
+  <tr>
    <td>’25年9月</td>
    <td>2025年9月19日</td>
    <td>按计划</td>
   </tr>
-  <tr> 
+  <tr>
    <td>’25年10月</td>
    <td>2025年10月17日</td>
    <td>按计划</td>

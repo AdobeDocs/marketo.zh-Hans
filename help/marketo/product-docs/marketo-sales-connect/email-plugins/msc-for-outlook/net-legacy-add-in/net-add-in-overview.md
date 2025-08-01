@@ -4,7 +4,7 @@ description: .NET插件概述 — Marketo文档 — 产品文档
 title: .NET加载项概述
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%

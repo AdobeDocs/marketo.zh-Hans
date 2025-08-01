@@ -4,7 +4,7 @@ description: 批量发送选项 — Marketo文档 — 产品文档
 title: 批量发送选项
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -17,41 +17,41 @@ ht-degree: 0%
 
 **群电子邮件与选择并发送**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><p><span>发送</span><span>类型</span> </p></th> 
-   <th><p><span>最大数量</span><span>电子邮件</span><span>邮件</span> </p></th> 
-   <th><p><span>已启动</span><span>发送者</span></p></th> 
-   <th><p><span>批量</span><span>编辑电子邮件</span> </p></th> 
-   <th><p><span>编辑</span><span>每个电子邮件</span><span>唯一</span> </p></th> 
-   <th><p><span>模板和</span><span>动态字段支持</span> </p></th> 
-  </tr> 
-  <tr> 
-   <td><p><span>组电子邮件</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>选择一个组并单击</span><span> </span><span>“组操作”按钮</span><span>，或在“收件人”字段中键入组名。</span> </p></td> 
-   <td><p><span>是</span> </p></td> 
-   <td><p><span>否</span> </p></td> 
-   <td><p><span>是</span> </p></td> 
-  </tr> 
-  <tr> 
-   <td><p><span>选择</span><span>和</span><span>发送</span> </p></td> 
-   <td><p><span>200</span> </p></td> 
-   <td><p><span>选择网格中的人员并单击操作栏中的“已选择电子邮件”按钮</span><span>，o</span><span>r，将收件人键入批量电子邮件</span><span>侧栏</span><span>。</span></p></td> 
-   <td><p><span>是</span> </p></td> 
-   <td><p><span>是</span> </p></td> 
-   <td><p><span>是</span> </p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><p><span>发送</span><span>类型</span> </p></th>
+   <th><p><span>最大数量</span><span>电子邮件</span><span>邮件</span> </p></th>
+   <th><p><span>已启动</span><span>发送者</span></p></th>
+   <th><p><span>批量</span><span>编辑电子邮件</span> </p></th>
+   <th><p><span>编辑</span><span>每个电子邮件</span><span>唯一</span> </p></th>
+   <th><p><span>模板和</span><span>动态字段支持</span> </p></th>
+  </tr>
+  <tr>
+   <td><p><span>组电子邮件</span> </p></td>
+   <td><p><span>1,000</span> </p></td>
+   <td><p><span>选择一个组并单击</span><span> </span><span>“组操作”按钮</span><span>，或在“收件人”字段中键入组名。</span> </p></td>
+   <td><p><span>是</span> </p></td>
+   <td><p><span>否</span> </p></td>
+   <td><p><span>是</span> </p></td>
+  </tr>
+  <tr>
+   <td><p><span>选择</span><span>和</span><span>发送</span> </p></td>
+   <td><p><span>200</span> </p></td>
+   <td><p><span>选择网格中的人员并单击操作栏中的“已选择电子邮件”按钮</span><span>，o</span><span>r，将收件人键入批量电子邮件</span><span>侧栏</span><span>。</span></p></td>
+   <td><p><span>是</span> </p></td>
+   <td><p><span>是</span> </p></td>
+   <td><p><span>是</span> </p></td>
+  </tr>
+ </tbody>
 </table>
 
 **使用群电子邮件**

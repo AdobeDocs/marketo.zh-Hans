@@ -3,7 +3,7 @@ unique-page-id: 14352613
 description: 将人员添加到您的活动 — Marketo文档 — 产品文档
 title: 将人员添加到您的营销活动
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 可通过多种方式将某人添加到营销策划。
 
-如果您开始与潜在客户或客户通信，则可以从Web应用程序的任何页面或Salesforce中使用“添加到Campaign” 。
+如果您开始与潜在客户或客户通信，则可以从我们的Web应用程序的任何页面或Salesforce中使用“添加到Campaign” 。
 
-利用此流程，您可以预览、编辑和计划活动中的第一封电子邮件；如果您的活动以任务开始，则这些任务将在Web应用程序的“任务”列表和Salesforce中排队等候。
+此流程允许您预览、编辑和计划活动中的第一封电子邮件；如果您的活动以任务开始，这些任务将在Web应用程序和Salesforce的“任务”列表中排队等候。
 
 您可以在Web应用程序的“营销活动”选项卡中执行此操作。
 

@@ -4,7 +4,7 @@ description: 管理人员数据 — Marketo文档 — 产品文档
 title: 管理人员数据
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 7%
@@ -49,54 +49,54 @@ ht-degree: 7%
    >* 字符串类型的最大长度为255个字符
    >* 隐藏字段将自动删除
 
-<table> 
- <tbody> 
-  <tr> 
-   <th><p>REST API名称</p></th> 
-   <th><p>SOAP API名称</p></th> 
-   <th><p>友好名称</p></th> 
-  </tr> 
-  <tr> 
-   <td><p>部门</p></td> 
-   <td><p>部门</p></td> 
-   <td><p>部门</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>标题</p></td> 
-   <td><p>标题</p></td> 
-   <td><p>职务</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>评级</p></td> 
-   <td><p>评级</p></td> 
-   <td><p>评级</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>商机得分</p></td> 
-   <td><p>商机得分</p></td> 
-   <td><p>得分</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>商机状态</p></td> 
-   <td><p>潜在客户状态</p></td> 
-   <td><p>状态</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>优先级</p></td> 
-   <td><p>优先级</p></td> 
-   <td><p>优先级</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadRole</p></td> 
-   <td><p>潜在客户角色</p></td> 
-   <td><p>角色</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>已取消订阅</p></td> 
-   <td><p>退订</p></td> 
-   <td><p>退订</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th><p>REST API名称</p></th>
+   <th><p>SOAP API名称</p></th>
+   <th><p>友好名称</p></th>
+  </tr>
+  <tr>
+   <td><p>部门</p></td>
+   <td><p>部门</p></td>
+   <td><p>部门</p></td>
+  </tr>
+  <tr>
+   <td><p>标题</p></td>
+   <td><p>标题</p></td>
+   <td><p>职务</p></td>
+  </tr>
+  <tr>
+   <td><p>评级</p></td>
+   <td><p>评级</p></td>
+   <td><p>评级</p></td>
+  </tr>
+  <tr>
+   <td><p>商机得分</p></td>
+   <td><p>商机得分</p></td>
+   <td><p>得分</p></td>
+  </tr>
+  <tr>
+   <td><p>商机状态</p></td>
+   <td><p>潜在客户状态</p></td>
+   <td><p>状态</p></td>
+  </tr>
+  <tr>
+   <td><p>优先级</p></td>
+   <td><p>优先级</p></td>
+   <td><p>优先级</p></td>
+  </tr>
+  <tr>
+   <td><p>leadRole</p></td>
+   <td><p>潜在客户角色</p></td>
+   <td><p>角色</p></td>
+  </tr>
+  <tr>
+   <td><p>已取消订阅</p></td>
+   <td><p>退订</p></td>
+   <td><p>退订</p></td>
+  </tr>
+ </tbody>
 </table>
 
 为新[!DNL Web Personalization]帐户现成提供了以下潜在客户字段：

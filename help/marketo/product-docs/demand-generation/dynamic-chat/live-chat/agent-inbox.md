@@ -3,7 +3,7 @@ description: 代理收件箱 — Marketo文档 — 产品文档
 title: 代理收件箱
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能属于创作AI，可通过Dynamic ChatPrime订阅获取。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+>此功能属于创作AI，可通过Dynamic Chat Prime订阅获取。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 由创作AI [响应库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)提供的快捷方式是在与访客聊天时快速获取帮助的好方法。 只需在文本框中键入正斜杠(`/`)并选择`ask`或`search`即可。
 
@@ -120,7 +120,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能属于创作AI，可通过Dynamic ChatPrime订阅获取。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+>此功能属于创作AI，可通过Dynamic Chat Prime订阅获取。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 对话摘要会实时为您生成快速摘要，包括访客表示感兴趣的主题。 它位于每个聊天屏幕的右下角。
 
@@ -128,4 +128,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您还可以在活动数据库中访客个人记录的Marketo Engage日志中找到已完成的对话摘要。
+>在Marketo Engage数据库中访客个人记录的活动日志中，也可以找到已完成的对话摘要。

@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 2%
@@ -977,7 +977,7 @@ ht-degree: 2%
          + 社交功能 {#social-functions}
             + [设置LinkedIn潜在客户Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [使用Marketo列表或智能列表作为LinkedIn受众区段](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-            + [在Smart Campaign中使用LinkedIn Lead Gen表单过滤器和触发器](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [在Smart Campaign中使用LinkedIn潜在客户群表单过滤器和触发器](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + 电子邮件营销 {#email-marketing}
       + 可投放性 {#deliverability}
          + [持久取消订阅](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
@@ -1029,7 +1029,7 @@ ht-degree: 2%
          + [功能比较](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
-         + [自定义CSS](product-docs/email-marketing/email-designer/custom-css.md)
+         + [自定义 CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [品牌套件](product-docs/email-marketing/email-designer/brand-kit.md)
          + [使用Litmus测试电子邮件渲染](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization令牌](product-docs/email-marketing/email-designer/personalization-tokens.md)

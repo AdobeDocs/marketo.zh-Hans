@@ -4,7 +4,7 @@ description: 为Marketo Engage配置协议 — Marketo Engage文档 — 产品�
 title: 为Marketo Engage配置协议
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 8%
@@ -39,8 +39,8 @@ ht-degree: 8%
 
 `2` **为电子邮件跟踪链接添加CNAME**
 
-添加营销活动发送给您的电子邮件CNAME，以便`[YourEmailCNAME]`指向Marketo Engage分配的默认跟踪链接[MktoTrackingLink]，其格式为：\
-`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
+添加营销活动发送给您的电子邮件CNAME，以便`[YourEmailCNAME]`指向Marketo Engage分配的默认跟踪链接[MktoTrackingLink]，其格式为：
+CNAME `[YourEmailCNAME].[YourDomain].com`中的`[MktoTrackingLink]`
 
 例如：
 
@@ -92,11 +92,11 @@ ht-degree: 8%
 
 1. 要设置SPF，请将以下行添加到我们的DNS条目中：
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4：`[CorpIP]`\
-   include： mktomail.com ~all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4：`[CorpIP]`
+include： mktomail.com ~all
 
-   如果我们的DNS条目中已存在现有的SPF记录，只需将以下内容添加到该记录中：\
-   包括： mktomail.com
+   如果我们的DNS条目中已存在现有的SPF记录，只需将以下内容添加到该记录中：
+包括： mktomail.com
 
    将CompanyDomain替换为网站的主域（例如：“`(company.com/)`”），将CorpIP替换为公司电子邮件服务器的IP地址(例如， “255.255.255.255”)。 如果您要通过Marketo Engage从多个域发送电子邮件，则应让IT员工为每个域添加此行（在一行中）。
 
@@ -192,9 +192,9 @@ DMARC记录具有多个名为DMARC标记的组件。 每个标记都有一个值
     <td>fo</td>
     <td>可选</td>
     <td>允许域所有者指定报告选项。</td>
-    <td>0：如果一切失败，则生成报告 
-    <br>1：如果有任何失败，则生成报告 
-    <br>d：如果DKIM失败，则生成报告 
+    <td>0：如果一切失败，则生成报告
+    <br>1：如果有任何失败，则生成报告
+    <br>d：如果DKIM失败，则生成报告
     <br>s：如果SPF失败，则生成报告</td>
     <td>1(建议用于DMARC报表)</td>
   </tr>
@@ -255,7 +255,7 @@ DMARC有两种对齐方式 — DKIM对齐方式和SPF对齐方式。
 
 * 与DKIM关联的DMARC — 要设置DKIM关联的DMARC，您必须：
 
-   * 为消息的“发件人：域”设置DKIM。 使用本文[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的说明。
+   * 为消息的“发件人：域”设置DKIM。 使用本文[中的说明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}。
    * 为之前配置的FROM：/DKIM域配置DMARC
 
 * DMARC对齐的SPF — 要通过品牌返回路径设置DMARC对齐的SPF，您必须：

@@ -3,9 +3,9 @@ description: 过滤电子邮件机器人活动 — Marketo文档 — 产品文�
 title: 筛选电子邮件机器人活动
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -31,23 +31,23 @@ ht-degree: 0%
 
 ## 选择筛选器类型 {#select-filter-type}
 
-1. 单击&#x200B;**[!UICONTROL 管理员]**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
+1. 单击 **[!UICONTROL Email]**。
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 机器人活动]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Bot Activity]**&#x200B;选项卡。
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 有两个滑块可供选择。 您可以只启用一个或同时启用两者。 如果启用了&#x200B;**[!UICONTROL 与IAB列表]**&#x200B;匹配，请选择是[!UICONTROL 记录机器人活动] _还是_ [!UICONTROL 筛选机器人活动]。
+1. 有两个滑块可供选择。 您可以只启用一个或同时启用两者。 如果启用&#x200B;**[!UICONTROL Match with IAB List]**，请选择是[!UICONTROL log bot activity] _还是_ [!UICONTROL filter bot activity]。
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. 如果启用了&#x200B;**[!UICONTROL 与邻近关系模式匹配]**，请选择是[!UICONTROL 记录机器人活动] _还是_ [!UICONTROL 筛选机器人活动]。 您还可以设置&#x200B;**活动之间的持续时间**&#x200B;的秒数（默认值为0，最大值为3）。
+1. 如果启用&#x200B;**[!UICONTROL Match with Proximity Pattern]**，请选择是[!UICONTROL log bot activity] _还是_ [!UICONTROL filter bot activity]。 您还可以设置&#x200B;**活动之间的持续时间**&#x200B;的秒数（默认值为0，最大值为3）。
 
    ![](assets/filtering-email-bot-activity-5.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->* 如果选择[!UICONTROL 过滤机器人活动]，您可能会看到电子邮件打开次数和点击次数出现下降，因为虚假活动被淘汰。
+>* 如果选择[!UICONTROL Filter Bot Activity]，您可能会看到电子邮件打开次数和点击次数出现下降，因为false活动被淘汰。
 
 **可选步骤**：要禁用任一功能，只需取消选择相应的滑块即可。 如果这样做，数据将不会重置。
 

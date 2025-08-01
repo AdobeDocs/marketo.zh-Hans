@@ -3,7 +3,7 @@ description: 了解如何优化和扩展您继承的现有Marketo Engage实例�
 title: 从何处开始
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
@@ -28,9 +28,9 @@ ht-degree: 0%
 
 如果您已在以前的公司中拥有营销国家配置文件，请按照以下步骤将该历史记录转到您的新配置文件中。
 
-1. 使用您的电子邮件地址创建用户名/社区配置文件，该配置文件有权访问您当前的Marketo Engage订阅。
+1. 使用您的电子邮件地址创建一个用户名/社区配置文件，以访问您当前的Marketo Engage订阅。
 
-1. [在您使用新公司信息创建个人资料后](https://nation.marketo.com/){target="_blank"}，向`ccare@marketo.com`提交请求，将旧社区个人资料中的数据与新社区个人资料中的数据合并。
+1. [在您使用新公司信息创建个人资料后](https://nation.marketo.com/){target="_blank"}，请向`ccare@marketo.com`提交请求，以将旧社区个人资料中的数据与新社区个人资料中的数据合并。
 
 1. 在您的请求中，请指定以下详细信息：
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## 快速启动您继承的Marketo Engage实例  {#jumpstart-your-inherited-marketo-engage-instance}
 
-Adobe通过Marketo Champions的输入汇总了多个Marketo Engage继承实例审核核对清单，帮助您全力以赴。 了解如何导航不同的Marketo Engage区域并执行执行审核所需的各种任务，其中还包含推荐帮助文档的链接。
+Adobe与Marketo Champions共同整合了多个Marketo Engage继承实例审核核对清单，以帮助您全力以赴。 了解如何在Marketo Engage的各个区域中进行导航，并执行执行审核所需的各种任务，其中还包含推荐帮助文档的链接。
 
 您还可以[下载电子表格形式的核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)。
 
@@ -58,12 +58,12 @@ Adobe通过Marketo Champions的输入汇总了多个Marketo Engage继承实例�
 
 ## 获取帮助的方法 {#ways-to-get-help}
 
-需要更多帮助？ 通过以下链接与我们或Marketo Engage同仁用户联系。
+需要更多帮助？ 通过以下链接与我们或Marketo Engage其他用户联系。
 
 * 有关某些无法正常工作的技术协助，请联系&#x200B;**[Marketo Engage客户支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**。
 
-* 与&#x200B;**[Adobe Marketo Engage社区](https://nation.marketo.com/){target="_blank"}**&#x200B;中的Marketo Engage同事联系并向他们学习。
+* 与&#x200B;**[Adobe Marketo Engage社区](https://nation.marketo.com/){target="_blank"}**&#x200B;中的Marketo Engage同事用户联系并向其学习。
 
 * 如需充分利用Marketo Engage实例的实践帮助，请联系&#x200B;**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**。
 
-* 观看&#x200B;**[精选的Marketo Engage视频](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}**。
+* 观看有关Marketo Engage各个方面的&#x200B;**[策划的教程视频](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}**。

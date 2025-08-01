@@ -4,7 +4,7 @@ description: 在Salesforce Lightning - Marketo文档中使用批量操作 — �
 title: 在Salesforce Lightning中使用批量操作
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 0%
@@ -39,10 +39,10 @@ ht-degree: 0%
 
 1. 此时会弹出一个MSC电子邮件。 它包括以下功能：
 
-   a. “[!UICONTROL To]”字段显示“所有回执” — 这与您在“潜在客户列表”视图中选择的潜在客户列表相对应\
-   b.此列表在名为“批量撰写”的左侧面板中可见 — 您可以在此处添加/删除收件人\
-   c.您可以选择模板或创建自己的电子邮件\
-   d.您可以立即发送电子邮件，也可以按照计划在以后发送
+   a. “[!UICONTROL To]”字段显示“所有回执” — 这与您在“潜在客户列表”视图中选择的潜在客户列表相对应
+b.此列表在名为“批量撰写”的左侧面板中可见 — 您可以在此处添加/删除收件人
+c.您可以选择模板或创建自己的电子邮件
+d.您可以立即发送电子邮件，也可以按照计划在以后发送
 
    ![](assets/three-5.png)
 

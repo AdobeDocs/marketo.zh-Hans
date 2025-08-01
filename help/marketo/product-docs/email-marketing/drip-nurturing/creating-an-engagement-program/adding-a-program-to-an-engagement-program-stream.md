@@ -4,7 +4,7 @@ description: 将项目添加到参与项目项目流 — Marketo文档 — 产�
 title: 将计划添加到参与计划流
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%

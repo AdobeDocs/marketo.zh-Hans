@@ -3,10 +3,10 @@ description: 问题生成 — Marketo文档 — 产品文档
 title: 问题生成
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 2%
 
 ---
 
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ## 生成问题 {#generate-questions}
 
-1. 在“生成AI”下，单击&#x200B;**[!UICONTROL 辅助响应]**。
+1. 在“生成AI”下，单击&#x200B;**[!UICONTROL Assisted responses]**。
 
    ![](assets/question-generation-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 生成问题]**。
+1. 单击 **[!UICONTROL Generate questions]**。
 
    ![](assets/question-generation-2.png)
 
-1. 为您的任务提供一个名称并输入源URL（最多10个），将从其中提取所有内容。 输入所需的主题/关键字，然后在键盘上按Enter键。 完成后，单击&#x200B;**[!UICONTROL 生成]**。
+1. 为您的任务提供一个名称并输入源URL（最多10个），将从其中提取所有内容。 输入所需的主题/关键字，然后在键盘上按Enter键。 完成后，单击&#x200B;**[!UICONTROL Generate]**。
 
    ![](assets/question-generation-3.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >
    >站点/页面必须是公共的（即，不隐藏在登录名后面），以便刮取其信息。
 
-1. 根据您的内容，生成问题和响应最多可能需要30分钟。 单击&#x200B;**[!UICONTROL 确定]**。
+1. 根据您的内容，生成问题和响应最多可能需要30分钟。 单击 **[!UICONTROL OK]**。
 
    ![](assets/question-generation-4.png)
 
@@ -79,9 +79,9 @@ ht-degree: 0%
 <table width="450">
 <thead>
   <tr>
-    <th>北美</th>
+    <th>北美洲</th>
     <th>欧洲</th>
-    <th>亚太地区</th>
+    <th>APAC</th>
   </tr>
 </thead>
 <tbody>

@@ -4,7 +4,7 @@ description: 使用商机信息源 — Marketo文档 — 产品文档
 title: 使用潜在客户馈送
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 1%
@@ -29,45 +29,45 @@ ht-degree: 1%
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>项目</p></td> 
-   <td><p>描述</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A.潜在客户/联系人</p></td> 
-   <td><p>有这个有趣时刻的人</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B.事件类型</p></td> 
-   <td><p>当前类别 — Web、电子邮件或里程碑</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C.帐户名称</p></td> 
-   <td><p>公司名称</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D.时间</p></td> 
-   <td><p>当这个有趣的时刻发生</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E.事件描述</p></td> 
-   <td><p>这个有趣时刻的原因</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F.订阅</p></td> 
-   <td><p>接收此类事件的电子邮件通知</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G.星形</p></td> 
-   <td><p>此人是最佳匹配（高优先级）</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>项目</p></td>
+   <td><p>描述</p></td>
+  </tr>
+  <tr>
+   <td><p>A.潜在客户/联系人</p></td>
+   <td><p>有这个有趣时刻的人</p></td>
+  </tr>
+  <tr>
+   <td><p>B.事件类型</p></td>
+   <td><p>当前类别 — Web、电子邮件或里程碑</p></td>
+  </tr>
+  <tr>
+   <td><p>C.帐户名称</p></td>
+   <td><p>公司名称</p></td>
+  </tr>
+  <tr>
+   <td><p>D.时间</p></td>
+   <td><p>当这个有趣的时刻发生</p></td>
+  </tr>
+  <tr>
+   <td><p>E.事件描述</p></td>
+   <td><p>这个有趣时刻的原因</p></td>
+  </tr>
+  <tr>
+   <td><p>F.订阅</p></td>
+   <td><p>接收此类事件的电子邮件通知</p></td>
+  </tr>
+  <tr>
+   <td><p>G.星形</p></td>
+   <td><p>此人是最佳匹配（高优先级）</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 获取RSS更新 {#getting-rss-updates}

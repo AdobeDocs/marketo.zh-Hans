@@ -4,7 +4,7 @@ description: 了解项目机会分析区域 — Marketo文档 — 产品文档
 title: 了解计划机会分析领域
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 计划机会分析归因措施（蓝点） {#program-opportunity-analysis-attribution-measures-blue-dots}
 
-可用于分析的度量通常为数字，由蓝点表示。 Dimension是给出度量不同视图的属性，由黄点表示。
+可用于分析的度量通常为数字，由蓝点表示。 尺寸是给出测量不同视图的属性，用黄色圆点表示。
 
 所有指标（蓝点）均与归因相关，即商机收购或与商机相关的销售成功的“点数”。
 
@@ -59,45 +59,45 @@ ht-degree: 0%
 
 与收购一样，对销售线索的贡献值会随着时间的推移而改变，直到销售线索进行某些购买时该值才会为零。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Attribution Measure — 与机会相关（FT或MT）*</th> 
-   <th>描述</th> 
-  </tr> 
-  <tr> 
-   <td>机会成本</td> 
-   <td>项目成本中影响机会的部分。 如果涉及多个潜在客户，则成本可以分摊。</td> 
-  </tr> 
-  <tr> 
-   <td>已创建的机会</td> 
-   <td>项目因影响机会的创造而获得的点数部分。 如果涉及多个线索，则可能只是一小部分。</td> 
-  </tr> 
-  <tr> 
-   <td>赢得的机会</td> 
-   <td>项目因影响成功的机会而获得的积分部分。 如果涉及多个线索，则可能只是一小部分。</td> 
-  </tr> 
-  <tr> 
-   <td>管道已创建</td> 
-   <td>计划因影响机会的创造而收到的信用部分（以货币价值表示）。 如果涉及多个线索，则可能只是一小部分。</td> 
-  </tr> 
-  <tr> 
-   <td>管道已创建 — 仍然打开</td> 
-   <td>计划收到的用于影响当前开放机会创建的信用部分（以货币价值表示）。 如果涉及多个线索，则可能只是一小部分。</td> 
-  </tr> 
-  <tr> 
-   <td>预计收入</td> 
-   <td>计划因影响机会的创造而收到的信用部分（以货币价值表示）。 预期收入是机会概率乘以机会值。 如果涉及多个线索，则可能只是一小部分。</td> 
-  </tr> 
-  <tr> 
-   <td>投资收入</td> 
-   <td>这是计划收到的用于影响成功的机会和计划成本的信贷部分（以货币价值表示）的比率。</td> 
-  </tr> 
-  <tr> 
-   <td>赢得的收入</td> 
-   <td>项目因影响成功的机会而获得的信用部分（以货币价值表示）。 如果涉及多个线索，则可能只是一小部分。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Attribution Measure — 与机会相关（FT或MT）*</th>
+   <th>描述</th>
+  </tr>
+  <tr>
+   <td>机会成本</td>
+   <td>项目成本中影响机会的部分。 如果涉及多个潜在客户，则成本可以分摊。</td>
+  </tr>
+  <tr>
+   <td>已创建的机会</td>
+   <td>项目因影响机会的创造而获得的点数部分。 如果涉及多个线索，则可能只是一小部分。</td>
+  </tr>
+  <tr>
+   <td>赢得的机会</td>
+   <td>项目因影响成功的机会而获得的积分部分。 如果涉及多个线索，则可能只是一小部分。</td>
+  </tr>
+  <tr>
+   <td>管道已创建</td>
+   <td>计划因影响机会的创造而收到的信用部分（以货币价值表示）。 如果涉及多个线索，则可能只是一小部分。</td>
+  </tr>
+  <tr>
+   <td>管道已创建 — 仍然打开</td>
+   <td>计划收到的用于影响当前开放机会创建的信用部分（以货币价值表示）。 如果涉及多个线索，则可能只是一小部分。</td>
+  </tr>
+  <tr>
+   <td>预计收入</td>
+   <td>计划因影响机会的创造而收到的信用部分（以货币价值表示）。 预期收入是机会概率乘以机会值。 如果涉及多个线索，则可能只是一小部分。</td>
+  </tr>
+  <tr>
+   <td>投资收入</td>
+   <td>这是计划收到的用于影响成功的机会和计划成本的信贷部分（以货币价值表示）的比率。</td>
+  </tr>
+  <tr>
+   <td>赢得的收入</td>
+   <td>项目因影响成功的机会而获得的信用部分（以货币价值表示）。 如果涉及多个线索，则可能只是一小部分。</td>
+  </tr>
+ </tbody>
 </table>
 
 _&#42;(FT) =首次接触归因，用于潜在客户获取衡量；(MT) =多点接触归因，用于潜在客户成功衡量_
@@ -124,66 +124,66 @@ Marketo会适当地提供点数，而不会在项目间重复计算机会。 因
 
 现有的其他措施反映了方案的总体执行情况。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>归因衡量 — 项目相关</th> 
-   <th>描述</th> 
-  </tr> 
-  <tr> 
-   <td>与项目群相关的机会数</td> 
-   <td><p>向项目群提供任何类型的归因点数的机会总数。 机会可能受一个或多个潜在客户以及一个或多个项目的影响。</p></td> 
-  </tr> 
-  <tr> 
-   <td>每个已结束机会的平均成功数</td> 
-   <td>Opportunity关闭前项目成功的平均数。 <br></td> 
-  </tr> 
-  <tr> 
-   <td>每个创建的机会的平均成功数</td> 
-   <td>创建Opportunity之前项目成功的平均数。</td> 
-  </tr> 
-  <tr> 
-   <td>新名称</td> 
-   <td>计划获得的新名称（即新商机）总数。</td> 
-  </tr> 
-  <tr> 
-   <td>计划成本</td> 
-   <td>计划的总成本。</td> 
-  </tr> 
-  <tr> 
-   <td>成功（总计）</td> 
-   <td>取得成功的计划成员总数。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>归因衡量 — 项目相关</th>
+   <th>描述</th>
+  </tr>
+  <tr>
+   <td>与项目群相关的机会数</td>
+   <td><p>向项目群提供任何类型的归因点数的机会总数。 机会可能受一个或多个潜在客户以及一个或多个项目的影响。</p></td>
+  </tr>
+  <tr>
+   <td>每个已结束机会的平均成功数</td>
+   <td>Opportunity关闭前项目成功的平均数。 <br></td>
+  </tr>
+  <tr>
+   <td>每个创建的机会的平均成功数</td>
+   <td>创建Opportunity之前项目成功的平均数。</td>
+  </tr>
+  <tr>
+   <td>新名称</td>
+   <td>计划获得的新名称（即新商机）总数。</td>
+  </tr>
+  <tr>
+   <td>计划成本</td>
+   <td>计划的总成本。</td>
+  </tr>
+  <tr>
+   <td>成功（总计）</td>
+   <td>取得成功的计划成员总数。</td>
+  </tr>
+ </tbody>
 </table>
 
-## Program Opportunity AnalysisDimension（黄点） {#program-opportunity-analysis-dimensions-yellow-dots}
+## 计划机会分析维度（黄色圆点） {#program-opportunity-analysis-dimensions-yellow-dots}
 
 虽然计算量度（蓝点）会计算并且需要一些思维和说明才能使用，但维度（黄点）是描述性的。 以下是可用的维度。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>类别</th> 
-   <th>显示标签</th> 
-  </tr> 
-  <tr> 
-   <td>机会属性</td> 
-   <td>商机已结束<br>商机名称*<br>商机所有者名称<br>商机阶段<br>商机类型</td> 
-  </tr> 
-  <tr> 
-   <td>机会时间范围</td> 
-   <td>Opportunity Closed Year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</td> 
-  </tr> 
-  <tr> 
-   <td>项目群属性</td> 
-   <td>节目频道<br>节目名称</td> 
-  </tr> 
-  <tr> 
-   <td>项目成本时间范围</td> 
-   <td>成本年度/季度/月</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>类别</th>
+   <th>显示标签</th>
+  </tr>
+  <tr>
+   <td>机会属性</td>
+   <td>商机已结束<br>商机名称*<br>商机所有者名称<br>商机阶段<br>商机类型</td>
+  </tr>
+  <tr>
+   <td>机会时间范围</td>
+   <td>Opportunity Closed Year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</td>
+  </tr>
+  <tr>
+   <td>项目群属性</td>
+   <td>节目频道<br>节目名称</td>
+  </tr>
+  <tr>
+   <td>项目成本时间范围</td>
+   <td>成本年度/季度/月</td>
+  </tr>
+ </tbody>
 </table>
 
 *&#42;所有将任何类型的归因点数提供给项目的机会。 机会可能受一个或多个潜在客户以及一个或多个项目的影响。*

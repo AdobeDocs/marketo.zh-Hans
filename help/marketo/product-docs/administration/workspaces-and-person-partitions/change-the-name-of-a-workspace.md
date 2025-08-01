@@ -4,10 +4,10 @@ description: 更改Workspace的名称 — Marketo文档 — 产品文档
 title: 更改Workspace的名称
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 1%
 
 ---
 
@@ -27,19 +27,19 @@ ht-degree: 0%
 >
 >首先了解[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/change-the-name-of-a-workspace-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 工作区和分区]**。
+1. 单击 **[!UICONTROL Workspaces & Partitions]**。
 
    ![](assets/change-the-name-of-a-workspace-2.png)
 
-1. 选择Workspace并单击&#x200B;**[!UICONTROL 编辑Workspace]**。
+1. 选择Workspace并单击&#x200B;**[!UICONTROL Edit Workspace]**。
 
    ![](assets/change-the-name-of-a-workspace-3.png)
 
-1. 为您的Workspace输入新的&#x200B;**[!UICONTROL 名称]**，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 为您的Workspace输入新的&#x200B;**[!UICONTROL Name]**&#x200B;并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/change-the-name-of-a-workspace-4.png)
 

@@ -3,7 +3,7 @@ description: 路径 — Marketo文档 — 产品文档
 title: 路由
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
@@ -86,11 +86,11 @@ ht-degree: 0%
 
    ![](assets/routing-12.png)
 
-1. 单击&#x200B;_配置_&#x200B;旁边的编辑图标（![编辑图标](assets/icon-routing-edit.png)）。
+1. 单击![配置](assets/icon-routing-edit.png)旁边的编辑图标（_编辑图标_）。
 
    ![](assets/routing-13.png)
 
-1. 单击&#x200B;_查看帐户路由_&#x200B;旁边的&#x200B;**+**&#x200B;号。
+1. 单击&#x200B;**查看帐户路由**&#x200B;旁边的&#x200B;_+_&#x200B;号。
 
    ![](assets/routing-14.png){width="600" zoomable="yes"}
 

@@ -4,10 +4,10 @@ description: 了解项目收入阶段分析区域 — Marketo文档 — 产品�
 title: 了解项目收入阶段分析区域
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 2%
 
 ![](assets/three-3.png)
 
-**计划收入阶段分析Dimension和衡量标准**
+**计划收入阶段分析维度和度量**
 
-Dimension和测量按功能分类，并以系统中的黄色或蓝色圆点表示：尺寸为黄色，测量为蓝色。 使用项目收入阶段分析维度和衡量标准来回答报告中的特定问题。
+维度和度量按功能分类，在系统中用黄色或蓝色圆点表示：维度为黄色，度量为蓝色。 使用项目收入阶段分析维度和衡量标准来回答报告中的特定问题。
 
 要查看某个类别中的可用维或度量，请单击类别名称旁边的右箭头以展开该类别列表。 单击向下箭头以折叠类别列表。
 
@@ -41,114 +41,114 @@ Dimension和测量按功能分类，并以系统中的黄色或蓝色圆点表�
 
 **模型属性**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>维度</strong></td> 
-   <td colspan="1" rowspan="1"><p><strong>描述</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>模型是否有效</p></td> 
-   <td colspan="1" rowspan="1"><p>描述模型当前是否获得批准并处于活动状态</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>处于活动状态</p></td> 
-   <td colspan="1" rowspan="1"><p>描述舞台是否处于活动状态</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>成功路径</p></td> 
-   <td colspan="1" rowspan="1"><p>描述阶段是否位于成功路径上</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>模型</p></td> 
-   <td colspan="1" rowspan="1"><p>模型名称</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>阶段</p></td> 
-   <td colspan="1" rowspan="1"><p>您的收入周期模型中存在的阶段。 在分析两个阶段之间的度量时用作“从”阶段</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>阶段类型</p></td> 
-   <td colspan="1" rowspan="1"><p>描述每个阶段的类型；库存、SLA或入口</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>维度</strong></td>
+   <td colspan="1" rowspan="1"><p><strong>描述</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>模型是否有效</p></td>
+   <td colspan="1" rowspan="1"><p>描述模型当前是否获得批准并处于活动状态</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>处于活动状态</p></td>
+   <td colspan="1" rowspan="1"><p>描述舞台是否处于活动状态</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>成功路径</p></td>
+   <td colspan="1" rowspan="1"><p>描述阶段是否位于成功路径上</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>模型</p></td>
+   <td colspan="1" rowspan="1"><p>模型名称</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>阶段</p></td>
+   <td colspan="1" rowspan="1"><p>您的收入周期模型中存在的阶段。 在分析两个阶段之间的度量时用作“从”阶段</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>阶段类型</p></td>
+   <td colspan="1" rowspan="1"><p>描述每个阶段的类型；库存、SLA或门</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **项目属性**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>维度</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>描述</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>项目频道</p></td> 
-   <td colspan="1" rowspan="1"><p>项目频道</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>项目名称</p></td> 
-   <td colspan="1" rowspan="1"><p>项目名称</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>维度</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>描述</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>项目频道</p></td>
+   <td colspan="1" rowspan="1"><p>项目频道</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>项目名称</p></td>
+   <td colspan="1" rowspan="1"><p>项目名称</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **计划成本时间范围**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>维度</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>描述</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>成本年度</p></td> 
-   <td colspan="1" rowspan="1"><p>项目成本时间范围</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>成本季度</p></td> 
-   <td colspan="1" rowspan="1"><p>项目成本时间范围</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>成本月份</p></td> 
-   <td colspan="1" rowspan="1"><p>项目成本时间范围</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>维度</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>描述</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>成本年度</p></td>
+   <td colspan="1" rowspan="1"><p>项目成本时间范围</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>成本季度</p></td>
+   <td colspan="1" rowspan="1"><p>项目成本时间范围</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>成本月份</p></td>
+   <td colspan="1" rowspan="1"><p>项目成本时间范围</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **阶段成员资格**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>衡量</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>描述</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>模型是否有效</p></td> 
-   <td colspan="1" rowspan="1"><p>描述模型当前是否获得批准并处于活动状态</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>处于活动状态</p></td> 
-   <td colspan="1" rowspan="1"><p>描述舞台是否处于活动状态</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>成功路径</p></td> 
-   <td colspan="1" rowspan="1"><p>描述阶段是否位于成功路径上</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>每个新名称的成本</p></td> 
-   <td colspan="1" rowspan="1"><p>曾到过此阶段的新名称的平均成本</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>新名称（当前）</p></td> 
-   <td colspan="1" rowspan="1"><p>当前处于阶段且被计划收购的潜在客户总数</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>新名称（从未）</p></td> 
-   <td colspan="1" rowspan="1"><p>描述每个阶段的类型；库存、SLA或入口</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>衡量</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>描述</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>模型是否有效</p></td>
+   <td colspan="1" rowspan="1"><p>描述模型当前是否获得批准并处于活动状态</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>处于活动状态</p></td>
+   <td colspan="1" rowspan="1"><p>描述舞台是否处于活动状态</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>成功路径</p></td>
+   <td colspan="1" rowspan="1"><p>描述阶段是否位于成功路径上</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>每个新名称的成本</p></td>
+   <td colspan="1" rowspan="1"><p>曾到过此阶段的新名称的平均成本</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>新名称（当前）</p></td>
+   <td colspan="1" rowspan="1"><p>当前处于阶段且被计划收购的潜在客户总数</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>新名称（从未）</p></td>
+   <td colspan="1" rowspan="1"><p>描述每个阶段的类型；库存、SLA或门</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

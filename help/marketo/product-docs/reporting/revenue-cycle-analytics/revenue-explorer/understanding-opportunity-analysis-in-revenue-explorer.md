@@ -4,7 +4,7 @@ description: 了解Revenue Explorer中的Opportunity Analysis - Marketo文档 �
 title: 了解Revenue Explorer中的Opportunity分析
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 5%
@@ -55,7 +55,7 @@ Revenue Explorer中的Opportunity Analysis允许您更深入地检查您的机�
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Opportunity AnalysisDimension和衡量标准 {#opportunity-analysis-dimensions-and-measures}
+## 机会分析维度和衡量标准 {#opportunity-analysis-dimensions-and-measures}
 
 Opportunity Analysis使您能够访问所有与销售线索、公司和销售机会相关的维度和与销售机会相关的衡量标准。 使用这些机会分析维度和指标回答报告中的具体问题。
 
@@ -65,13 +65,13 @@ Opportunity Analysis使您能够访问所有与销售线索、公司和销售机
    |---|---|
    | 年收入 | 公司年收入 |
    | 城市 | 公司所在的城市 |
-   | 国家 | 公司所在的县 |
+   | 国家/地区 | 公司所在的县 |
    | 行业 | 该公司所处的行业 |
    | 公司名称 | 公司名称 |
    | 员工数 | 公司员工人数 |
    | 邮政编码 | 公司的邮政编码 |
    | SIC 代码 | 公司的SIC代码 |
-   | 州 | 公司所在的州 |
+   | State | 公司所在的州 |
 
 1. 商机属性
 

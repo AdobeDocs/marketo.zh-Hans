@@ -4,10 +4,10 @@ description: 隐藏和取消隐藏字段 — Marketo文档 — 产品文档
 title: 隐藏和取消隐藏字段
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 1%
+source-wordcount: '162'
+ht-degree: 2%
 
 ---
 
@@ -21,15 +21,15 @@ ht-degree: 1%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. 找到该字段并选择它，然后在&#x200B;**[!UICONTROL 字段操作]**&#x200B;下单击&#x200B;**[!UICONTROL 隐藏字段]**。
+1. 找到该字段并选择它，然后在&#x200B;**[!UICONTROL Field Actions]**&#x200B;下单击&#x200B;**[!UICONTROL Hide Field]**。
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 1%
    >* 您不能隐藏标准（系统）字段。
    >* 无法隐藏机会信息字段。
 
-1. 单击&#x200B;**[!UICONTROL 隐藏]**&#x200B;以确认。
+1. 单击&#x200B;**[!UICONTROL Hide]**&#x200B;确认。
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -49,17 +49,16 @@ ht-degree: 1%
 
 ## 取消隐藏字段 {#unhide-a-field}
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. 查找并选择字段。 在[!UICONTROL 字段操作]下拉列表中，单击&#x200B;**[!UICONTROL 取消隐藏字段]**。
+1. 查找并选择字段。 在[!UICONTROL Field Actions]下拉列表中，单击&#x200B;**[!UICONTROL Unhide Field]**。
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
    做得好！ 现在您知道如何取消隐藏字段并使它们再次可见。
-

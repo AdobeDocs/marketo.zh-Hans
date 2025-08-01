@@ -3,7 +3,7 @@ description: 命令中心中的快速操作 — Marketo文档 — 产品文档
 title: 命令中心的快速操作
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 1%
@@ -27,59 +27,59 @@ ht-degree: 1%
 
 **[!UICONTROL Archived]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Unarchive]</td> 
-   <td>会将电子邮件移回已投放文件夹，并重新激活查看/点击跟踪。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Unarchive]</td>
+   <td>会将电子邮件移回已投放文件夹，并重新激活查看/点击跟踪。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Draft]和[!UICONTROL Scheduled]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Edit]</td> 
-   <td>将在要编辑的撰写窗口中打开电子邮件。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Edit]</td>
+   <td>将在要编辑的撰写窗口中打开电子邮件。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Failed]、[!UICONTROL Bounced]和[!UICONTROL Spam]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Retry Send]</td> 
-   <td>将立即尝试重新发送电子邮件。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Retry Send]</td>
+   <td>将立即尝试重新发送电子邮件。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Follow-up Actions]**

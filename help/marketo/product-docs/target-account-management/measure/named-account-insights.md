@@ -4,7 +4,7 @@ description: 指定帐户洞察 — Marketo文档 — 产品文档
 title: 指定帐户分析
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -33,21 +33,21 @@ ht-degree: 0%
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">帐户得分</span></strong></td> 
-   <td><p>查看基于您在<span class="uicontrol">管理员</span>中创建的所有帐户分数的每周参与度。 您可以并排比较这些帐户分数。 要确定每周参与度，我们采用一周中任何一天的最大参与度。</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">管道</span></strong></td> 
-   <td>查看随时间变化的管道。 要逐周确定管道时间，我们将在最后一天获取管道。</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">收入</span></strong></td> 
-   <td>查看一段时间内的收入。 要逐周确定一段时间内的收入，我们计算该周内获得的所有收入的总和。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">帐户得分</span></strong></td>
+   <td><p>查看基于您在<span class="uicontrol">管理员</span>中创建的所有帐户分数的每周参与度。 您可以并排比较这些帐户分数。 要确定每周参与度，我们采用一周中任何一天的最大参与度。</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">管道</span></strong></td>
+   <td>查看随时间变化的管道。 要逐周确定管道时间，我们将在最后一天获取管道。</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">收入</span></strong></td>
+   <td>查看一段时间内的收入。 要逐周确定一段时间内的收入，我们计算该周内获得的所有收入的总和。</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Interesting Moments]**

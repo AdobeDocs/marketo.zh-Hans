@@ -4,10 +4,10 @@ description: 最佳实践 — 如何整理程序 — Marketo文档 — 产品文
 title: 最佳实践 — 如何组织程序
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >* 有效的营销计划
 >   * 电子邮件
->   * 事件
+>   * 活动
 >      * 现场活动/路演
 >      * 贸易展
 >      * 网络研讨会
@@ -42,7 +42,7 @@ ht-degree: 0%
 >   * 生命周期
 >   * 评分
 >   * 数据管理
->* 销售分析
+>* 销售Insight
 >   * 有趣的时刻
 >   * 销售电子邮件
 >   * 销售请求的营销活动
@@ -89,7 +89,7 @@ ht-degree: 0%
 >
 >**您的公司地址**。 使用令牌，而不是每次都写入令牌。 这样，您就可以在一个位置更新它，而无需创建大量草稿。 然后根据需要覆盖较低级别文件夹中的令牌。
 
-## 事件 {#events}
+## 活动 {#events}
 
 事件通常包含许多移动部分，包括：邀请、登陆页面、表单、社交小部件和智能营销活动。 为了便于使用，最佳实践是按照事件的阶段来整理它们。 以下是您的文件夹树应如何查找事件的示例。
 
@@ -121,4 +121,4 @@ Marketo中最酷的功能之一是克隆程序。 这意味着您可以设置项
 
 ## 摘要 {#summary}
 
-如你所见，Marketo权力很大。 我们在此介绍了基本知识，但请考虑由[Marketo Engage专家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}提供的其他服务以进行微调并为获得成功做好准备。
+如你所见，Marketo权力很大。 我们在此介绍了基础知识，但请考虑由[Marketo Engage专家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}提供的其他服务以进行微调并为获得成功做好准备。

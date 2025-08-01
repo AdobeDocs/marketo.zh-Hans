@@ -4,7 +4,7 @@ description: 公司Web活动报表 — Marketo文档 — 产品文档
 title: 公司Web活动报表
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 2%
@@ -37,39 +37,39 @@ ht-degree: 2%
 
    可为公司网站活动报告选择[列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)包括：
 
-<table> 
- <thead> 
-  <tr> 
-   <th>列</th> 
-   <th>描述</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>公司</td> 
-   <td>访客的公司。<br> <strong>以粗体显示的名称</strong>已至少被一个人员确认为公司名称。</td> 
-  </tr> 
-  <tr> 
-   <td>推断的公司或ISP</td> 
-   <td>根据访客的IP地址推断的公司。 <br> <strong>粗体显示名称</strong>表示这是公司，而不是ISP。 </td> 
-  </tr> 
-  <tr> 
-   <td>Page Views</td> 
-   <td>访客加载的页面数。</td> 
-  </tr> 
-  <tr> 
-   <td>人员</td> 
-   <td>该公司访问您网站的人数。</td> 
-  </tr> 
-  <tr> 
-   <td>国家/地区、省/市/自治区</td> 
-   <td>公司的地理位置。</td> 
-  </tr> 
-  <tr> 
-   <td>首次/上次访问（时区）</td> 
-   <td>此公司中任何人的首次/上次访问的日期和时间。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>列</th>
+   <th>描述</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>公司</td>
+   <td>访客的公司。<br> <strong>以粗体显示的名称</strong>已至少被一个人员确认为公司名称。</td>
+  </tr>
+  <tr>
+   <td>推断的公司或ISP</td>
+   <td>根据访客的IP地址推断的公司。 <br> <strong>粗体显示名称</strong>表示这是公司，而不是ISP。 </td>
+  </tr>
+  <tr>
+   <td>Page Views</td>
+   <td>访客加载的页面数。</td>
+  </tr>
+  <tr>
+   <td>人员</td>
+   <td>该公司访问您网站的人数。</td>
+  </tr>
+  <tr>
+   <td>国家/地区、省/市/自治区</td>
+   <td>公司的地理位置。</td>
+  </tr>
+  <tr>
+   <td>首次/上次访问（时区）</td>
+   <td>此公司中任何人的首次/上次访问的日期和时间。</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

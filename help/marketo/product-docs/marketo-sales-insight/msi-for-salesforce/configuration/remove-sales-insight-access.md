@@ -3,7 +3,7 @@ description: 删除销售Insight访问权限 — Marketo文档 — 产品文档
 title: 删除Sales Insight访问权限
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 3%
@@ -20,53 +20,53 @@ ht-degree: 3%
 
 **对象设置**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] 查看详细信息</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] 视图</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>InterestedMentsCache</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Marketo Sales Insight] 配置</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>评分缓存</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>值</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>读取、创建、编辑、删除、查看全部、修改全部</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] 查看详细信息</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] 视图</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>InterestedMentsCache</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>[!DNL Marketo Sales Insight] 配置</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>评分缓存</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>值</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>读取、创建、编辑、删除、查看全部、修改全部</td>
+  </tr>
+ </tbody>
 </table>
 
 * Apex类访问：以“mkto_si”开头的159个Apex类

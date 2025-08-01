@@ -1,12 +1,12 @@
 ---
 description: 发行说明 — 2022年10月 — Marketo文档 — 产品文档
-title: 发行说明 — 2022年10月
+title: 发行说明 - 2022 年 10 月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
@@ -26,30 +26,30 @@ ht-degree: 2%
 
 </br>
 
-* **项目群成员自定义字段同步**：能够双向同步为项目群成员捕获的可扩展字段（例如，在活动注册期间与会者首选项，如食物、会话、曲目等） 在Salesforce中使用Campaign成员字段。
+* **项目群成员自定义字段同步**：能够在Salesforce中将为项目群成员（例如，在事件注册期间与会者首选项，如食物、会话、曲目等）捕获的可扩展字段与促销活动成员字段进行双向同步。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">程序成员自定义字段同步</a></td>
   </tr>
   </tbody>
 </table>
 
-* **AdobePrivacy Service集成**：与Privacy Service协调以自动实现跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入AdobeIdentity Management System的Marketo Engage客户。
+* **Adobe Privacy Service集成**：与Privacy Service协调，自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入Adobe Identity Management System的Marketo Engage客户。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
@@ -63,12 +63,12 @@ ht-degree: 2%
    * 登陆页面模板详细信息
    * 电子邮件模板列表
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切换开关</a></td>
   </tr>
@@ -77,12 +77,12 @@ ht-degree: 2%
 
 * **电子邮件模板详细信息中的用于选项卡的增强功能**：在新Experience中，您将看到与使用电子邮件模板的资源相关的其他信息，包括资源状态、上次修改时间和上次修改者。 您还可以搜索、排序和筛选资源使用的列表。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已发货</td>
    <td>不适用</td>
   </tr>
@@ -91,12 +91,12 @@ ht-degree: 2%
 
 * **报表资产筛选器模型**：报表配置模型的新设计在配置菜单中显示新的资产树以及创建和修改日期的筛选器。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已发货</td>
    <td>不适用</td>
   </tr>
@@ -109,32 +109,32 @@ ht-degree: 2%
 
 * **批量潜在客户导入：销售人员关联**：与潜在客户REST API存在对等关系，以便在批量潜在客户导入过程中将潜在客户与销售人员关联，从而减少所需的复杂性和调用API的次数。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已发货</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">批量商机导入</a></td>
   </tr>
   </tbody>
 </table>
 
-### 销售分析 {#sales-insight}
+### 销售Insight {#sales-insight}
 
 </br>
 
 ![（星形）](assets/yellow-star.png)
 
-* **与Dynamic Chat的Sales Insight集成**： Insights仪表板现在包括智能网格中的Dynamic Chat活动，以及每周摘要和详细信息卡。
+* **Sales Insight与Dynamic Chat的集成**： Insights Dashboard现在包括智能网格中的Dynamic Chat活动以及每周摘要和详细信息卡。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat集成</a></td>
   </tr>
@@ -145,14 +145,14 @@ ht-degree: 2%
 
 以下功能遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请检查每个功能下方的状态。
 
-* **自动排列Dynamic Chat的对话框流**：通过按“自动排列”按钮将画布上的所有内容整理成干净和易于阅读的格式，从而改善您拥挤的对话框画布。
+* **自动排列Dynamic Chat的对话框流**：通过按按钮通过“自动排列”，将画布上的所有内容整理为简洁易读的格式，从而改善您拥挤的对话框画布。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">流式传输Designer图标</a></td>
   </tr>
@@ -161,26 +161,26 @@ ht-degree: 2%
 
 * **Dynamic Chat的会议链接**：在发送给访客的每个日历邀请中自动包含Google和Outlook的“团队”或“会议”链接的选项。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已发货</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">日程表</a></td>
   </tr>
   </tbody>
 </table>
 
-* **支持Dynamic Chat的其他数据类型**：三种新数据类型（布尔值、整数、浮点数）允许您利用Dynamic Chat中更多现有的Marketo Engage字段来查找诸如根据得分定位或询问访客是/否问题。
+* **支持Dynamic Chat的其他数据类型**：三种新数据类型（布尔值、整数、浮点数）允许您在Dynamic Chat中利用更多现有的Marketo Engage字段来诸如根据得分定位或询问访客是/否问题。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>状态</b></td>
    <td><b>文档更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已发货</td>
    <td>不适用</td>
   </tr>

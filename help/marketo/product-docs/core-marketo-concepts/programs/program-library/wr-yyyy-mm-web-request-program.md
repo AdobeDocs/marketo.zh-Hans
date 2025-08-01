@@ -3,138 +3,138 @@ description: WR-YYYY-MM-Web请求程序 — Marketo文档 — 产品文档
 title: WR-YYYY-MM-Web请求程序
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
 # WR-YYYY-MM-Web请求程序 {#wr-yyyy-mm-web-request-program}
 
-这是一个示例计划，非常适合于使用Marketo Engage默认计划的联系人申请、报价申请、演示申请或试用申请表。 可与Marketo登陆页面一起使用，或作为非Marketo登陆页面上的嵌入式表单。 在提交表单时，会向指定的个人发送警报电子邮件。
+这是一个示例计划，非常适合于使用Marketo Engage默认计划的联系人请求、报价请求、演示请求或试用请求表单。 可与Marketo登陆页面一起使用，或作为非Marketo登陆页面上的嵌入式表单。 在提交表单时，会向指定的个人发送警报电子邮件。
 
-有关进一步的策略帮助或自定义计划的帮助，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>渠道</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>渠道</th>
    <th>成员资格状态</th>
    <th>Analytics行为</th>
    <th>项目类型</th>
-  </tr> 
-  <tr> 
-   <td>Web请求</td> 
+  </tr>
+  <tr>
+   <td>Web请求</td>
    <td>01 — 参与 — 成功</td>
    <td>包含</td>
    <td>默认</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 程序包含以下Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>类型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>类型</th>
    <th>模板名称</th>
    <th>资源名称</th>
   </tr>
-  <tr> 
-   <td>表单</td> 
+  <tr>
+   <td>表单</td>
    <td> </td>
    <td>FM-WebRequestForm</td>
   </tr>
-  <tr> 
-   <td>电子邮件</td> 
+  <tr>
+   <td>电子邮件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>警报 — Web请求</td>
   </tr>
-  <tr> 
-   <td>登陆页面</td> 
+  <tr>
+   <td>登陆页面</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入门LP模板</a></td>
    <td>01 - LP — 请求</td>
   </tr>
-  <tr> 
-   <td>登陆页面</td> 
+  <tr>
+   <td>登陆页面</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入门LP模板</a></td>
    <td>02 - LP — 谢谢</td>
   </tr>
-  <tr> 
-   <td>本地报告</td> 
+  <tr>
+   <td>本地报告</td>
    <td> </td>
    <td>登陆页面性能</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>智能营销活动</td>
    <td> </td>
    <td>来自Web请求的新人员</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>智能营销活动</td>
    <td> </td>
    <td>网络研讨会的新用户</td>
   </tr>
-  <tr> 
-   <td>文件夹</td> 
+  <tr>
+   <td>文件夹</td>
    <td> </td>
-   <td>Assets — 容纳所有创意资源 
+   <td>Assets — 容纳所有创意资源
 <br/>（警报和登陆页面的子文件夹）</td>
   </tr>
-  <tr> 
-   <td>文件夹</td> 
+  <tr>
+   <td>文件夹</td>
    <td> </td>
    <td>营销活动 — 包含所有智能营销活动</td>
   </tr>
-  <tr> 
-   <td>文件夹</td> 
+  <tr>
+   <td>文件夹</td>
    <td> </td>
    <td>报告</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/wr-yyyy-mm-web-request-program-1.png)
 
 ## 我的令牌已包含 {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>令牌类型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>令牌类型</th>
    <th>令牌名称</th>
    <th>值</th>
   </tr>
-  <tr> 
-   <td>文本</td> 
+  <tr>
+   <td>文本</td>
    <td><code>{{my.Request-Type}}</code></td>
    <td>联系我们</td>
   </tr>
-  <tr> 
-   <td>文本</td> 
+  <tr>
+   <td>文本</td>
    <td><code>{{my.ALERT-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>文本</td> 
+  <tr>
+   <td>文本</td>
    <td><code>{{my.ALERT-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>文本</td> 
+  <tr>
+   <td>文本</td>
    <td><code>{{my.ALERT-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>文本</td> 
+  <tr>
+   <td>文本</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.ThankYouPageURL？不带http://</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 冲突规则 {#conflict-rules}

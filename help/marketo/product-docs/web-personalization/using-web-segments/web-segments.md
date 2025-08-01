@@ -4,7 +4,7 @@ description: Web区段 — Marketo文档 — 产品文档
 title: Web区段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -23,35 +23,35 @@ ht-degree: 0%
 
 **图形：**&#x200B;区段页面根据区段的访客数（y轴）和区段名称（x轴）显示选定区段的条形图。
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名称</th> 
-   <th colspan="1" rowspan="1">描述</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>名称</strong></td> 
-   <td colspan="1" rowspan="1">区段的标题</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>匹配</strong></p></td> 
-   <td colspan="1" rowspan="1">符合区段的自定义已定义标准的访客数</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>设置营销活动</strong></td> 
-   <td colspan="1" rowspan="1">用于设置与选定搜索词关联的促销活动CTA</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>访客</strong></td> 
-   <td colspan="1">与所选搜索词关联的访客表预览</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>点击流</strong></td> 
-   <td colspan="1" rowspan="1">显示一个表，其中包含访客在网站上的活动和URL路径以及他们访问每个页面的时间 </td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名称</th>
+   <th colspan="1" rowspan="1">描述</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>名称</strong></td>
+   <td colspan="1" rowspan="1">区段的标题</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>匹配</strong></p></td>
+   <td colspan="1" rowspan="1">符合区段的自定义已定义标准的访客数</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>设置营销活动</strong></td>
+   <td colspan="1" rowspan="1">用于设置与选定搜索词关联的促销活动CTA</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>访客</strong></td>
+   <td colspan="1">与所选搜索词关联的访客表预览</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>点击流</strong></td>
+   <td colspan="1" rowspan="1">显示一个表，其中包含访客在网站上的活动和URL路径以及他们访问每个页面的时间 </td>
+  </tr>
+ </tbody>
 </table>
 
 请参阅[如何创建和查看区段标签](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->命名帐户列表名称旁边方括号中的数字被用作Web Personalization [读取API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/web-personalization)列表的索引引用。
+>命名帐户列表名称旁边方括号中的数字被用作Web Personalization [读取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)列表的索引引用。
 
 **排除ISP**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **用户上下文API**
 
-Web Personalization API调用[在此处阅读更多相关信息。](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Web Personalization API调用[在此处阅读更多相关信息。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

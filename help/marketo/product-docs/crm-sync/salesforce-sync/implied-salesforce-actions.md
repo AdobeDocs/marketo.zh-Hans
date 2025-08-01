@@ -4,7 +4,7 @@ description: 隐含的Salesforce操作 — Marketo文档 — 产品文档
 title: 隐含的Salesforce操作
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -17,35 +17,35 @@ ht-degree: 0%
 
 当此人当前不是在[Salesforce.com](https://Salesforce.com){target="_blank"}中作为联系人或潜在客户时，将应用这些规则。
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Marketo流程步骤</th> 
-   <th>自动操作</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>添加到SFDC Campaign</td> 
-   <td>将人员同步到SFDC</td> 
-  </tr> 
-  <tr> 
-   <td>在SFDC Campaign中更改状态</td> 
-   <td>将人员同步到SFDC<br>添加至SFDC Campaign</td> 
-  </tr> 
-  <tr> 
-   <td>更改所有者</td> 
-   <td><p>将人员同步到SFDC</p></td> 
-  </tr> 
-  <tr> 
-   <td>转换人员</td> 
-   <td><p>将人员同步到SFDC</p></td> 
-  </tr> 
-  <tr> 
-   <td>创建任务</td> 
-   <td>将人员同步到SFDC</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Marketo流程步骤</th>
+   <th>自动操作</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>添加到SFDC Campaign</td>
+   <td>将人员同步到SFDC</td>
+  </tr>
+  <tr>
+   <td>在SFDC Campaign中更改状态</td>
+   <td>将人员同步到SFDC<br>添加至SFDC Campaign</td>
+  </tr>
+  <tr>
+   <td>更改所有者</td>
+   <td><p>将人员同步到SFDC</p></td>
+  </tr>
+  <tr>
+   <td>转换人员</td>
+   <td><p>将人员同步到SFDC</p></td>
+  </tr>
+  <tr>
+   <td>创建任务</td>
+   <td>将人员同步到SFDC</td>
+  </tr>
+ </tbody>
 </table>
 
 您可以使用运算符设置为“**[!UICONTROL SFDC Type]**”的[!UICONTROL is not empty]过滤器过滤掉智能列表中的SFDC记录。 所有SFDC记录在此字段中都有一个值。

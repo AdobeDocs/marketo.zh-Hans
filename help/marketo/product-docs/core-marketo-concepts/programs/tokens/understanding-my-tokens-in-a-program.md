@@ -4,7 +4,7 @@ description: 了解项目中的我的令牌 — Marketo文档 — 产品文档
 title: 了解项目中的我的令牌
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 1%
@@ -28,47 +28,47 @@ ht-degree: 1%
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-<table> 
- <thead> 
-  <tr> 
-   <th>令牌类型</th> 
-   <th>描述</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>日历文件 <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此令牌将<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">日历事件文件(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>添加到您的电子邮件和登陆页。</td> 
-  </tr> 
-  <tr> 
-   <td><p>日期 <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
-   <td>此令牌包含日期值。 日期显示为年月日（例如，2016-05-23）。</td> 
-  </tr> 
-  <tr> 
-   <td>电子邮件脚本 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此令牌可在您的电子邮件中执行Velocity脚本。 在<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting" title="关注链接" rel="nofollow">此处</a>了解详情。 </td> 
-  </tr> 
-  <tr> 
-   <td>数字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
-   <td>任意整数。 甚至可能是负数。</td> 
-  </tr> 
-  <tr> 
-   <td>富文本 <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>这是HTML。 在电子邮件和登陆页中使用它。</td> 
-  </tr> 
-  <tr> 
-   <td>得分 <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>在<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">更改得分流步骤</a>中使用此令牌。 </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">SFDC Campaign <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
-   <td colspan="1">使用此令牌可允许将成为Marketo项目一部分的潜在客户也添加到任何已添加的SFDC Campaign中。</td> 
-  </tr> 
-  <tr> 
-   <td>文本 <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>只是一些文字。 在HTML处理过度时使用。 文本令牌的大小限制为524,288个字符(UTF-8)或2 MB。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>令牌类型</th>
+   <th>描述</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>日历文件 <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>使用此令牌将<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">日历事件文件(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>添加到您的电子邮件和登陆页。</td>
+  </tr>
+  <tr>
+   <td><p>日期 <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td>
+   <td>此令牌包含日期值。 日期显示为年月日（例如，2016-05-23）。</td>
+  </tr>
+  <tr>
+   <td>电子邮件脚本 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>使用此令牌可在您的电子邮件中执行Velocity脚本。 在<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="关注链接" rel="nofollow">此处</a>了解详情。 </td>
+  </tr>
+  <tr>
+   <td>数字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>
+   <td>任意整数。 甚至可能是负数。</td>
+  </tr>
+  <tr>
+   <td>富文本 <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>这是HTML。 在电子邮件和登陆页中使用它。</td>
+  </tr>
+  <tr>
+   <td>得分 <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>在<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">更改得分流步骤</a>中使用此令牌。 </td>
+  </tr>
+  <tr>
+   <td colspan="1">SFDC Campaign <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td>
+   <td colspan="1">使用此令牌可允许将成为Marketo项目一部分的潜在客户也添加到任何已添加的SFDC Campaign中。</td>
+  </tr>
+  <tr>
+   <td>文本 <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>只是一些文字。 在HTML处理过度时使用。 文本令牌的大小限制为524,288个字符(UTF-8)或2 MB。</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!CAUTION]

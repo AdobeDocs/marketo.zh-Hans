@@ -4,7 +4,7 @@ description: 性能分析功能板 — Marketo文档 — 产品文档
 title: 性能分析功能板
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -51,33 +51,33 @@ ht-degree: 0%
 
 ![](assets/five-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">新机会</span></strong></p></td> 
-   <td><p>项目因影响新机会的创造而获得的学分部分。 如果涉及多个线索，则可能只是一小部分。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">管道已创建</span></strong></p></td> 
-   <td><p>计划因影响机会的创造而获得的信贷部分（以货币价值表示）。 如果涉及多个线索，则其可能只是总数的一小部分。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">管道打开</span></strong></p></td> 
-   <td><p>为影响仍然开放的机会的创造而获得的计划信贷部分（以货币价值表示）。 如果涉及多个线索，则其可能只是总数的一小部分。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">预期收入</span></strong></p></td> 
-   <td><p>计划因影响机会的创造而获得的信贷部分（以货币价值表示）。 预期收入是机会概率乘以机会值。 如果涉及多个线索，则可能只是一小部分。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">每个创建的机会的成本</span></strong></p></td> 
-   <td><p>影响新机会的项目成本部分除以创造的新机会总数。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">管道创建成本比率</span></strong></p></td> 
-   <td><p>项目因影响新机会的创造而获得的积分部分除以项目成本中影响机会创造的部分。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">新机会</span></strong></p></td>
+   <td><p>项目因影响新机会的创造而获得的学分部分。 如果涉及多个线索，则可能只是一小部分。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">管道已创建</span></strong></p></td>
+   <td><p>计划因影响机会的创造而获得的信贷部分（以货币价值表示）。 如果涉及多个线索，则其可能只是总数的一小部分。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">管道打开</span></strong></p></td>
+   <td><p>为影响仍然开放的机会的创造而获得的计划信贷部分（以货币价值表示）。 如果涉及多个线索，则其可能只是总数的一小部分。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">预期收入</span></strong></p></td>
+   <td><p>计划因影响机会的创造而获得的信贷部分（以货币价值表示）。 预期收入是机会概率乘以机会值。 如果涉及多个线索，则可能只是一小部分。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">每个创建的机会的成本</span></strong></p></td>
+   <td><p>影响新机会的项目成本部分除以创造的新机会总数。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">管道创建成本比率</span></strong></p></td>
+   <td><p>项目因影响新机会的创造而获得的积分部分除以项目成本中影响机会创造的部分。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## [!UICONTROL Revenue] {#revenue}
@@ -86,23 +86,23 @@ ht-degree: 0%
 
 ![](assets/six-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">赢得的机会</span></strong></p></td> 
-   <td><p>项目因影响成功的机会而获得的积分部分。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">赢得的收入</span></strong></p></td> 
-   <td><p>因影响成功的机会而获得的信用部分（以货币价值表示）。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">每个已赢得机会的成本</span></strong></p></td> 
-   <td><p>影响新机会的项目成本部分除以创造的新机会总数。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">收入成本比率</span></strong></p></td> 
-   <td><p>为影响赢得的机会而获得的信贷部分（以货币价值表示）除以影响新机会的计划成本部分。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">赢得的机会</span></strong></p></td>
+   <td><p>项目因影响成功的机会而获得的积分部分。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">赢得的收入</span></strong></p></td>
+   <td><p>因影响成功的机会而获得的信用部分（以货币价值表示）。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">每个已赢得机会的成本</span></strong></p></td>
+   <td><p>影响新机会的项目成本部分除以创造的新机会总数。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">收入成本比率</span></strong></p></td>
+   <td><p>为影响赢得的机会而获得的信贷部分（以货币价值表示）除以影响新机会的计划成本部分。</p></td>
+  </tr>
+ </tbody>
 </table>

@@ -3,7 +3,7 @@ description: 创建和分配提醒任务 — Marketo文档 — 产品文档
 title: 创建和分配提醒任务
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 1%

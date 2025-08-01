@@ -4,7 +4,7 @@ description: 了解Content Analytics - Marketo文档 — 产品文档
 title: 了解Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 0%
@@ -35,39 +35,39 @@ Content Analytics页面会显示您从网站搜索到的现有内容（案例研
 
 Analytics表提供了以下详细信息：
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名称</th> 
-   <th colspan="1" rowspan="1">描述</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Title]</strong></td> 
-   <td colspan="1" rowspan="1">数字内容资产的名称。 单击<strong>标题</strong>以在新选项卡中打开内容URL。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>推荐</strong><strong>图标</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">表示是否已为<a href="#">内容推荐</a>添加内容片段。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Views]</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>来自Web访客对内容资产的查看次数。 查看、打开、观看或下载内容的次数。 单击视图列中的数字可向下展开并查看查看内容的用户</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td> 
-   <td colspan="1" rowspan="1">在同一次访问中查看了内容并填写了表单的Web访客</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>Analytics图标</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">在内容片段上查看更多分析</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>“删除”图标</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">从Content Analytics中删除内容</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名称</th>
+   <th colspan="1" rowspan="1">描述</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Title]</strong></td>
+   <td colspan="1" rowspan="1">数字内容资产的名称。 单击<strong>标题</strong>以在新选项卡中打开内容URL。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>推荐</strong><strong>图标</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">表示是否已为<a href="#">内容推荐</a>添加内容片段。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Views]</strong></p></td>
+   <td colspan="1" rowspan="1"><p>来自Web访客对内容资产的查看次数。 查看、打开、观看或下载内容的次数。 单击视图列中的数字可向下展开并查看查看内容的用户</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td>
+   <td colspan="1" rowspan="1">在同一次访问中查看了内容并填写了表单的Web访客</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>Analytics图标</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">在内容片段上查看更多分析</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>“删除”图标</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">从Content Analytics中删除内容</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 查看其他Content Analytics {#view-additional-content-analytics}
@@ -86,7 +86,7 @@ Analytics表提供了以下详细信息：
 
 * **[!UICONTROL Views]**：所选时间范围中该内容段的视图
 * **[!UICONTROL Direct Conversions]**：在同一次访问中查看了内容并填写了表单的Web访客。
-* **[!UICONTROL Conversion Rate]**&#x200B;**：**&#x200B;直接转化除以点击量计算的百分比转化率
+* **[!UICONTROL Conversion Rate]****：**&#x200B;直接转化除以点击量计算的百分比转化率
 
 **[!UICONTROL Trends]**
 

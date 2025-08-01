@@ -3,7 +3,7 @@ description: 发行说明 — 2021年5月 — Marketo文档 — 产品文档
 title: 发行说明 - 2021 年 5 月
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1436'
 ht-degree: 0%
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 * **批量潜在客户导入API**：控制批量潜在客户导入及其使用的资源。 此增强功能在批量商机导入过程中在商机与公司之间创建了关联。 如果API调用，则提高处理数据的效率和效率，并减少用量。
 
-* 针对[!DNL Microsoft Dynamics Online]客户的&#x200B;**基于Web API的集成**： [!DNL MS Dynamics] Web API是通过8.0 REST协议引入的，并且实现了OData（开放数据协议）v4。 OData是OASIS （结构化信息标准促进组织）标准，用于在富数据上构建和使用RESTful服务。 需要使用此方法与[!DNL Microsoft Dynamics]集成的Adobe Marketo Engage客户当前正在从SOAP (Simple Object Access Protocol)迁移到基于Web API的连接。
+* 针对&#x200B;**客户的[!DNL Microsoft Dynamics Online]基于Web API的集成**： [!DNL MS Dynamics] Web API是通过8.0 REST协议引入的，并且实现了OData（开放数据协议）v4。 OData是OASIS （结构化信息标准促进组织）标准，用于在富数据上构建和使用RESTful服务。 需要使用此方法与[!DNL Microsoft Dynamics]集成的Adobe Marketo Engage客户当前正在从SOAP (Simple Object Access Protocol)迁移到基于Web API的连接。
 
 ## 营销数据环境 {#marketing-data-environment}
 

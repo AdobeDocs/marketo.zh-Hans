@@ -4,7 +4,7 @@ description: 将跟踪链接添加到文本电子邮件 — Marketo文档 — �
 title: 将跟踪链接添加到文本电子邮件
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

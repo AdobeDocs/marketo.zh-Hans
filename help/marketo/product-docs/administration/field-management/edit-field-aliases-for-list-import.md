@@ -4,9 +4,9 @@ description: 编辑列表导入的字段别名 — Marketo文档 — 产品文�
 title: 编辑列表导入的字段别名
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/edit-field-aliases-for-list-import-2.png)
 
@@ -31,17 +31,17 @@ ht-degree: 0%
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. 在&#x200B;**[!UICONTROL 字段操作]**&#x200B;下拉列表中，单击&#x200B;**[!UICONTROL 编辑导入别名]**。
+1. 在&#x200B;**[!UICONTROL Field Actions]**&#x200B;下拉列表中，单击&#x200B;**[!UICONTROL Edit Import Aliases]**。
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
-1. 输入别名，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 输入别名并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/edit-field-aliases-for-list-import-5.png)
 
 >[!TIP]
 >
->单击&#x200B;**[!UICONTROL 添加其他]**，然后根据需要输入更多别名。
+>单击&#x200B;**[!UICONTROL Add Another]**，然后根据需要输入更多别名。
 
 看那个！ 现在，如果您导入的电子表格具有名为“DOB”的列，Marketo会自动将其识别为“出生日期”，并将数据导入到正确的字段中。
 

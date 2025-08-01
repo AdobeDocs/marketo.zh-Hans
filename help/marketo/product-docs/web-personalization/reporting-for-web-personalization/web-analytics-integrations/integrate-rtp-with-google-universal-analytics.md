@@ -4,7 +4,7 @@ description: 将RTP与Google Universal Analytics集成 — Marketo文档 — 产
 title: 将RTP与Google Universal Analytics集成
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%
@@ -43,7 +43,6 @@ ht-degree: 2%
    1. 选择&#x200B;**[!UICONTROL Account].**
    1. 选择&#x200B;**[!UICONTROL Property].**
    1. 选择&#x200B;**[!UICONTROL Custom Definitions]**&#x200B;和&#x200B;**[!UICONTROL Custom Dimensions]**。
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 添加新的自定义维度。 单击 **[!UICONTROL +New Custom Dimension]**
@@ -52,34 +51,34 @@ ht-degree: 2%
 
 1. 添加以下&#x200B;**[!UICONTROL Custom Dimensions]：**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>自定义Dimension名称</strong></p></td> 
-   <td><p><strong>范围</strong></p></td> 
-   <td><p><strong>活动</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP组织</strong></p></td> 
-   <td><p>会话</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP行业</strong></p></td> 
-   <td><p>会话</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP类别</strong></p></td> 
-   <td><p>会话</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP组</strong></p></td> 
-   <td><p>会话</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>自定义Dimension名称</strong></p></td>
+   <td><p><strong>范围</strong></p></td>
+   <td><p><strong>活动</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP组织</strong></p></td>
+   <td><p>会话</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP行业</strong></p></td>
+   <td><p>会话</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP类别</strong></p></td>
+   <td><p>会话</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP组</strong></p></td>
+   <td><p>会话</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

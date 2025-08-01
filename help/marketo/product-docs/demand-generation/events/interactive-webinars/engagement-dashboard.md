@@ -3,9 +3,9 @@ description: 参与仪表板 — Marketo文档 — 产品文档
 title: 参与仪表板
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1743'
+source-wordcount: '1700'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 查看仪表板 {#view-the-dashboard}
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/engagement-dashboard-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/engagement-dashboard-2.png)
 
-1. 在概述中，单击&#x200B;**[!UICONTROL 查看参与仪表板]**。
+1. 在概述中，单击&#x200B;**[!UICONTROL View Engagement Dashboard]**。
 
    ![](assets/engagement-dashboard-3.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 提供活动实时会话性能的概述。 该概述包括关键量度、一段时间内的参与度和参与者交互。 它有助于组织者评估活动是否成功并确定需要改进的方面。
 
-从左侧面板中，选择&#x200B;**[!UICONTROL 参与]**&#x200B;以查看实时会话的性能。 **[!UICONTROL 单击参与摘要(PDF)]**&#x200B;以下载实时会话的性能摘要。 概述以不同的部分提供数据。
+从左侧面板中，选择&#x200B;**[!UICONTROL Engagement]**&#x200B;以查看实时会话的性能。 **[!UICONTROL Click Engagement summary (PDF)]**&#x200B;以下载实时会话的性能摘要。 概述以不同的部分提供数据。
 
 ![](assets/engagement-dashboard-5.png)
 
@@ -150,7 +150,7 @@ ht-degree: 0%
 * 当时的平均参与度分数。
 * 当时参与的与会者数量。
 * 当时的预订布局。
-* 选择&#x200B;**[!UICONTROL 在录制中查看即时]**&#x200B;以查看参与度高或低的录制中的即时。
+* 选择&#x200B;**[!UICONTROL View instant in recording]**&#x200B;以查看录制中参与度高或低的瞬间。
 * 会话中一段时间的平均参与度分数(%)
 * 会话期间一段时间内的出席情况
 * 当活动期间在会议室中使用不同的版面时，会显示不同网络研讨会版面的参与情况。 它有助于关联不同布局中参与度的上升和下降。
@@ -161,28 +161,28 @@ ht-degree: 0%
 
 ![](assets/engagement-dashboard-8.png)
 
-选择&#x200B;**[!UICONTROL 转到交互]**&#x200B;以查看会话期间来自轮询、QnA量度和与会者反应的响应。 从交互中查看与会者在Pod中的参与情况，并从以下部分下载交互报表。
+选择&#x200B;**[!UICONTROL Go to interactions]**&#x200B;以查看会话期间来自轮询、QnA量度和与会者反应的响应。 从交互中查看与会者在Pod中的参与情况，并从以下部分下载交互报表。
 
 ### 交互 {#interactions}
 
 通过交互查看与会者如何交互并参与会话。 跟踪对轮询、QnA量度、与会者的反应以及相应Pod中删除的链接和文件的响应。 主机还可以下载这些Pod的交互报表，以便更好地进行分析。 通过分析这些交互，您可以确定趋势并调整其策略，以鼓励营造更具交互性和更引人入胜的环境。
 
-从左侧面板中选择&#x200B;**[!UICONTROL 交互]**&#x200B;以查看与会者如何跨Pod参与。
+从左侧面板中选择&#x200B;**[!UICONTROL Interactions]**&#x200B;以查看与会者如何跨Pod参与。
 
 ![](assets/engagement-dashboard-9.png)
 
-从菜单栏选择&#x200B;**[!UICONTROL 轮询]**&#x200B;选项卡以查看添加到轮询的问题和响应。 此选项卡显示以下信息：
+从菜单栏选择&#x200B;**[!UICONTROL Polls]**&#x200B;选项卡以查看添加到投票的问题和响应。 此选项卡显示以下信息：
 
-* 选择&#x200B;**[!UICONTROL 轮询报告(CSV)]**&#x200B;以下载轮询面板中交互的报告。
+* 选择&#x200B;**[!UICONTROL Poll report (CSV)]**&#x200B;以下载轮询面板中交互的报告。
 * 轮询问题及其类型。
 * 响应数量和轮询面板打开和参与的时段。
 * 选择&#x200B;**查看所有`<number>`响应**&#x200B;以在对话框窗口中查看它们。
 
-从菜单栏中选择&#x200B;**[!UICONTROL 其他交互]**&#x200B;选项卡以查看其他Pod中的参与并下载其报告。
+从菜单栏中选择&#x200B;**[!UICONTROL Other interactions]**&#x200B;选项卡以查看其他Pod中的参与并下载其报告。
 
 ![](assets/engagement-dashboard-10.png)
 
-从下拉列表中选择&#x200B;**[!UICONTROL 下载交互报表]**&#x200B;以下载不同pod的报表。 从此处下载问题与解答报表、链接和文件报表以及反应报表，以便更好地跟踪。
+从下拉列表中选择&#x200B;**[!UICONTROL Download interaction reports]**&#x200B;以下载不同pod的报告。 从此处下载问题与解答报表、链接和文件报表以及反应报表，以便更好地跟踪。
 
 不同部分提供了跨Pod的参与信息。
 
@@ -239,13 +239,13 @@ ht-degree: 0%
 
 ### 按需活动 {#on-demand-activity}
 
-从左侧面板中选择&#x200B;**[!UICONTROL 按需活动]**&#x200B;以查看录制摘要。 您还可以下载按需活动报表。
+从左侧面板中，选择&#x200B;**[!UICONTROL On-demand activity]**&#x200B;以查看录制摘要。 您还可以下载按需活动报表。
 
 ![](assets/engagement-dashboard-15.png)
 
 在按需活动中，查看以下量度：
 
-* 单击&#x200B;**[!UICONTROL 按需报表(CSV)]**&#x200B;以下载按需量度。
+* 单击&#x200B;**[!UICONTROL On-demand report (CSV)]**&#x200B;下载按需量度。
 * 上次刷新仪表板之前的独特查看者数量。
 * 观看了录像但未能参加网络研讨会的观看者数量。
 * 参加网络研讨会并观看录像的观看者数量。 他们很可能成为头号潜在客户。
@@ -254,7 +254,7 @@ ht-degree: 0%
 
 ### 参与者活动 {#participant-activity}
 
-从左侧面板中选择&#x200B;**[!UICONTROL 参与者活动]**&#x200B;以查看有关每个参与者的参与级别的合并信息。 查看如何从参与者参与级别将此参与分类。 单击&#x200B;**[!UICONTROL 用户活动报告(CSV)]**&#x200B;可下载报告以进行更好的跟踪。
+从左侧面板中，选择&#x200B;**[!UICONTROL Participant activity]**&#x200B;以查看有关每个与会者的参与级别的合并信息。 查看如何从参与者参与级别将此参与分类。 单击&#x200B;**[!UICONTROL User activity report (CSV)]**&#x200B;可下载报告以进行更好的跟踪。
 
 ![](assets/engagement-dashboard-16.png)
 
@@ -271,9 +271,9 @@ ht-degree: 0%
 
 从集中式中心作为主机下载不同活动和Pod的报告。
 
-1. 从左侧面板中选择&#x200B;**[!UICONTROL 下载报表]**。
+1. 从左侧面板中选择&#x200B;**[!UICONTROL Download reports]**。
 
-1. 选择&#x200B;**[!UICONTROL 全部下载(.zip)]**&#x200B;可一次性下载所有活动和pod的报表。
+1. 选择&#x200B;**[!UICONTROL Download all (.zip)]**&#x200B;可一次下载所有活动和pod的报告。
 
    ![](assets/engagement-dashboard-17.png)
 
@@ -289,7 +289,7 @@ ht-degree: 0%
 
 <table><thead>
   <tr>
-    <th>参与级别</th>
+    <th>参与度</th>
     <th>分类标准</th>
   </tr></thead>
 <tbody>

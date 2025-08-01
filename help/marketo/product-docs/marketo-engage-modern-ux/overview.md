@@ -1,18 +1,18 @@
 ---
 description: Marketo Engage现代UX概述 — Marketo文档 — 产品文档
-title: Marketo Engage现代UX概述
+title: Marketo Engage Modern UX概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 1%
 
 ---
 
-# Marketo Engage现代UX概述 {#overview}
+# Marketo Engage Modern UX概述 {#overview}
 
-欢迎使用Adobe Marketo Engage Modern UX（用户体验），这是一个更新的界面，在提供整个Marketo Engage平台的增强可用性以及新外观。
+欢迎使用Adobe Marketo Engage Modern UX（用户体验），这是一个更新的界面，在Marketo Engage平台上提供了增强的可用性以及新的外观。
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ ht-degree: 1%
 
 **全局导航**
 
-再见超级球。 您现在可以快速访问所有主要Marketo Engage部分。
+再见超级球。 您现在可以快速访问所有主要的Marketo Engage部分。
 
 ![](assets/overview-5.png)
 
@@ -54,112 +54,112 @@ ht-degree: 1%
 
 **Marketo Classic与新Marketo**
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <th>功能</th> 
-   <th>Classic</th> 
-   <th>新一代</th> 
+   <th>功能</th>
+   <th>Classic</th>
+   <th>新一代</th>
   </tr>
   <tr>
-   <td>同时应用多个过滤器</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>同时应用多个过滤器</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>合并的草稿和审批树节点</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>合并的草稿和审批树节点</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>在程序文件夹中创建本地资源</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>在程序文件夹中创建本地资源</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>双击可展开/折叠树节点</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>双击可展开/折叠树节点</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>从树拖放到参与流</td> 
-   <td><strong>X</strong></td> 
-   <td></td> 
+   <td>从树拖放到参与流</td>
+   <td><strong>X</strong></td>
+   <td></td>
   </tr>
   <tr>
-   <td>在树中拖放</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>在树中拖放</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>按资源类型和状态筛选</td> 
-   <td><i>部分</i></td> 
-   <td><strong>X</strong></td>  
+   <td>按资源类型和状态筛选</td>
+   <td><i>部分</i></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>突出显示背景以显示处于焦点状态的层次结构</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>突出显示背景以显示处于焦点状态的层次结构</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>搜索期间突出显示关键词</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>搜索期间突出显示关键词</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>水平滚动</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>水平滚动</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>树节点的悬停状态</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>树节点的悬停状态</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>快速折叠整个树</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>快速折叠整个树</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>快速折叠到根节点</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>快速折叠到根节点</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>实时更新</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>实时更新</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>可调整大小的树</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>可调整大小的树</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>在已存档的文件夹中搜索</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>在已存档的文件夹中搜索</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>从树搜索输入全局搜索时保存的搜索字符串</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>从树搜索输入全局搜索时保存的搜索字符串</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>在单个树中显示所有工作区</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>在单个树中显示所有工作区</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>状态徽章和工具提示</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>状态徽章和工具提示</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>“Word starts with”搜索逻辑</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>“Word starts with”搜索逻辑</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
@@ -170,24 +170,24 @@ ht-degree: 1%
 
 ![](assets/overview-7.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>没有更多超级球下拉列表</td> 
+   <td>1</td>
+   <td>没有更多超级球下拉列表</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>所有先前的超级球项目都已列出</td> 
+   <td>2</td>
+   <td>所有先前的超级球项目都已列出</td>
   </tr>
   <tr>
   <tr>
-   <td>3</td> 
-   <td>如果您有多个订阅，请单击您的子名称以轻松切换到另一个订阅</td> 
+   <td>3</td>
+   <td>如果您有多个订阅，请单击您的子名称以轻松切换到另一个订阅</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>全局搜索 — 您现在可以从此处搜索您的整个实例</td> 
+   <td>4</td>
+   <td>全局搜索 — 您现在可以从此处搜索您的整个实例</td>
   </tr>
  </tbody>
 </table>

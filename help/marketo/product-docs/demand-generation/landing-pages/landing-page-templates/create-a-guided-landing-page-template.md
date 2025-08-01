@@ -4,10 +4,10 @@ description: 创建引导式登陆页面模板 — Marketo文档 — 产品文�
 title: 创建引导式登陆页面模板
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1265'
-ht-degree: 0%
+source-wordcount: '1263'
+ht-degree: 1%
 
 ---
 
@@ -30,14 +30,14 @@ ht-degree: 0%
 
 ## 文本 {#text}
 
-如果将区域定义为富文本，用户将可以使用Marketo的富文本编辑器[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)编辑其内容。
+如果将区域定义为富文本，用户将可以使用Marketo的富文本编辑器[编辑其内容](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
 
-必需属性：\
-**类**： &quot;mktoText&quot;\
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+必需属性：
+**类**： &quot;mktoText&quot;
+**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 **mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
-可选：\
+可选：
 具有类mktoText的元素的内容（如果提供）将用作可编辑区域的默认值。
 
 示例：
@@ -52,11 +52,11 @@ ht-degree: 0%
 
 必需属性：
 
-类： &quot;mktoImg&quot;\
-id： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+类： &quot;mktoImg&quot;
+id： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 mktoName ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
-可选：\
+可选：
 mktoImgClass：字符串。 此处的值将添加到div内`<img>`元素的类属性中。
 
 示例：
@@ -65,12 +65,12 @@ mktoImgClass：字符串。 此处的值将添加到div内`<img>`元素的类属
 
 ## 选项2 — 使用`<img>` {#option-use-a-img}
 
-必需属性：\
-类： &quot;mktoImg&quot;\
-id： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+必需属性：
+类： &quot;mktoImg&quot;
+id： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 mktoName ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
-可选：\
+可选：
 src：字符串URL。 这将用作图像的默认值。
 
 示例：
@@ -79,22 +79,22 @@ src：字符串URL。 这将用作图像的默认值。
 
 >[!NOTE]
 >
->使用`<img>`版本时，渲染的HTML将在`<img>`标记周围包含生成的div包装器。 它将设置为类。”mktoImg.mktoGen”，并且将为display：inline-block。
+>使用`<img>`版本时，渲染的HTML将在`<img>`标记周围包含生成的div包装器。 它将设置为类。”mktoImg.mktoGen”和“，将显示为:inline-block。
 
 ## 表单 {#form}
 
-示例：必需属性：\
-**类**： &quot;mktoForm&quot;\
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+示例:Required属性：
+**类**： &quot;mktoForm&quot;
+**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 **mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## 代码片段 {#snippet}
 
-必需属性：\
-**类**： &quot;mktoSnippet&quot;\
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+必需属性：
+**类**： &quot;mktoSnippet&quot;
+**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 **mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
 示例：
@@ -103,9 +103,9 @@ src：字符串URL。 这将用作图像的默认值。
 
 ## “共享”按钮 {#share-button}
 
-必需属性：\
-**类**： &quot;mktoShareButton&quot;\
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+必需属性：
+**类**： &quot;mktoShareButton&quot;
+**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 **mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
 示例：
@@ -129,9 +129,9 @@ src：字符串URL。 这将用作图像的默认值。
 
 ## 投票 {#poll}
 
-必需属性：\
-**类**： &quot;mktoPoll&quot;\
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+必需属性：
+**类**： &quot;mktoPoll&quot;
+**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 **mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
 示例：
@@ -140,9 +140,9 @@ src：字符串URL。 这将用作图像的默认值。
 
 ## 反向链接 {#referral}
 
-必需属性：\
-**类**： &quot;mktoReferral&quot;\
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+必需属性：
+**类**： &quot;mktoReferral&quot;
+**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 **mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
 示例：
@@ -151,9 +151,9 @@ src：字符串URL。 这将用作图像的默认值。
 
 ## 抽奖活动 {#sweepstakes}
 
-必需属性：\
-**类**： &quot;mktoSweepstakes&quot;\
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+必需属性：
+**类**： &quot;mktoSweepstakes&quot;
+**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 **mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
 示例：
@@ -174,14 +174,14 @@ src：字符串URL。 这将用作图像的默认值。
 
 ## 字符串 {#string}
 
-必需属性：\
-**类** ： &quot;mktoString&quot;，\
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+必需属性：
+**类** ： &quot;mktoString&quot;，
+**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 **mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
-可选：\
-**默认值**：属性的字符串值。 如果未提供，则为空。\
-**allowHtml**：“true”或“false”。 控制是否打印值而不进行HTML转义。 如果未设置，则默认为“false”。
+可选：
+**默认值**：属性的字符串值。 如果未提供，则为空。
+**allowHtml**：“true”或“false”。 控制是否打印值而不对HTML进行转义。 如果未设置，则默认为“false”。
 
 基本示例：
 
@@ -193,12 +193,12 @@ src：字符串URL。 这将用作图像的默认值。
 
 ## 颜色 {#color}
 
-必需属性：\
-**类** ： &quot;mktoColor&quot;，\
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+必需属性：
+**类** ： &quot;mktoColor&quot;，
+**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 **mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
-可选：\
+可选：
 **默认值**：7位十六进制字符颜色代码。 例如：“#336699”
 
 基本示例：
@@ -211,16 +211,16 @@ src：字符串URL。 这将用作图像的默认值。
 
 ## 布尔值 {#boolean}
 
-必需属性：\
-**类** ： &quot;mktoBoolean&quot;，\
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。\
+必需属性：
+**类** ： &quot;mktoBoolean&quot;，
+**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
 **mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
 
-可选：\
-**默认值**：布尔字符串。 “true”或“false”控制值是从ON还是OFF位置开始。 &quot;false&quot;（如果未提供）。\
-**false_value**：字符串。 变量处于OFF位置时要插入的值。 &quot;false&quot;（如果未提供）。\
-**true_value**：字符串。 当变量处于ON位置时要插入的值。 如果未提供，则为“true”。\
-**false_value_name**：字符串。 当值处于OFF位置时将在登陆页面编辑器中显示的显示名称。 如果未提供，则为“关”。\
+可选：
+**默认值**：布尔字符串。 “true”或“false”控制值是从ON还是OFF位置开始。 &quot;false&quot;（如果未提供）。
+**false_value**：字符串。 变量处于OFF位置时要插入的值。 &quot;false&quot;（如果未提供）。
+**true_value**：字符串。 当变量处于ON位置时要插入的值。 如果未提供，则为“true”。
+**false_value_name**：字符串。 当值处于OFF位置时将在登陆页面编辑器中显示的显示名称。 如果未提供，则为“关”。
 **true_value_name**：字符串。 当值处于“开”位置时将在登陆页面编辑器中显示的显示名称。 如果未提供，则为“开”。
 
 基本示例：

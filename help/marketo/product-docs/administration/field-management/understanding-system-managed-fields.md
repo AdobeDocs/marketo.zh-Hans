@@ -4,7 +4,7 @@ description: 了解系统管理的字段 — Marketo文档 — 产品文档
 title: 了解系统管理的字段
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 8%
@@ -132,8 +132,8 @@ ht-degree: 8%
     <td>人员已作为联系人从Webhook同步</td>
   </tr>
   <tr>
-    <td>Munchkin API</td>
-    <td>人员被Marketo EngageMunchkin API发现</td>
+    <td>MUNCHKIN API</td>
+    <td>通过Marketo Engage Munchkin API发现人员</td>
   </tr>
   <tr>
     <td>社交应用程序</td>
@@ -165,7 +165,7 @@ ht-degree: 8%
   </tr>
   <tr>
     <td>Salesforce.com</td>
-    <td>通过Salesforce同步成为用户</td>
+    <td>通过Salesforce sync成为人员</td>
   </tr>
   <tr>
     <td>Web窗体填充</td>
@@ -184,7 +184,7 @@ ht-degree: 8%
     <td>已将人员手动输入数据库</td>
   </tr>
   <tr>
-    <td>Munchkin API</td>
+    <td>MUNCHKIN API</td>
     <td>通过Marketo的Munchkin API成为用户</td>
   </tr>
   <tr>

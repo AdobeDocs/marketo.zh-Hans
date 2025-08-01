@@ -4,9 +4,9 @@ description: 将通信限制应用于Smart Campaign - Marketo文档 — 产品�
 title: 将通信限制应用于Smart Campaign
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >当任何人超过设置的通信限制时，Marketo会阻止非操作电子邮件（始终发送操作电子邮件）。
 
-1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 编辑设置]**。
+1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL Edit Settings]**。
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. 选中&#x200B;**[!UICONTROL 阻止非操作电子邮件]**&#x200B;复选框，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 选中&#x200B;**[!UICONTROL Block non-operational emails]**&#x200B;复选框，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 

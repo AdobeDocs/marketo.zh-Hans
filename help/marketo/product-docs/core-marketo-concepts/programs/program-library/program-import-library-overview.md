@@ -3,7 +3,7 @@ description: 程序导入库概述 — Marketo文档 — 产品文档
 title: 程序导入库概述
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # 程序导入库概述 {#program-import-library-overview}
 
-Marketo Engage参考库包括多个入门程序，您可以直接导入到Marketo实例中，以快速开始构建将帮助支持您团队的程序。
+Marketo Engage参考库包括多个入门程序，您可以直接导入到Marketo实例中，以开始构建将帮助支持您团队的程序。
 
-该库包括以下项目：电子邮件、参与、事件、评分、可投放性和可操作性。 所有计划均由Adobe产品团队开发，并由[全球专业服务](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}团队审核，以最大限度地提高质量和效率。
+该库包括以下项目：电子邮件、参与、事件、评分、可投放性和可操作性。 所有计划均由Adobe产品团队开发，并经过我们[全球专业服务](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}团队的审核，以最大限度地提高质量和效率。
 
 ## 可用程序示例 {#available-program-examples}
 

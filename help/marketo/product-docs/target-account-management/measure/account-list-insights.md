@@ -4,7 +4,7 @@ description: 帐户列表洞察 — Marketo文档 — 产品文档
 title: 帐户列表分析
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -29,17 +29,17 @@ ht-degree: 0%
 
 ![](assets/two-new-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">管道</span></strong></td> 
-   <td colspan="1">查看随时间变化的管道。 要逐周确定管道时间，我们将在最后一天获取管道。</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">收入</span></strong></td> 
-   <td><p>查看一段时间内的收入。 要逐周确定一段时间内的收入，我们计算该周内获得的所有收入的总和。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">管道</span></strong></td>
+   <td colspan="1">查看随时间变化的管道。 要逐周确定管道时间，我们将在最后一天获取管道。</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">收入</span></strong></td>
+   <td><p>查看一段时间内的收入。 要逐周确定一段时间内的收入，我们计算该周内获得的所有收入的总和。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## “指定帐户”选项卡 {#named-accounts-tab}

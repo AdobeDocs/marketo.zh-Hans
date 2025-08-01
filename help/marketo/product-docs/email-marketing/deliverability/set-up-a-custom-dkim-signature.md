@@ -4,7 +4,7 @@ description: 设置自定义DKIM签名 — Marketo文档 — 产品文档
 title: 设置自定义DKIM签名
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -41,12 +41,12 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   <table> 
+   <table>
    <tr>
    <td width="20%"><b>选择器</b></td>
    <td>用于定位DKIM记录的公钥部分的唯一字符串/标识符。 它可以是任意字符串，也可以是用于区分开和标识该DKIM密钥/记录的用途的唯一标识符。</td>
    </tr>
-   <tr> 
+   <tr>
    <td width="20%"><b>密钥大小</b></td>
    <td>您希望对DKIM签名进行加密的安全级别。</td>
    </tr>

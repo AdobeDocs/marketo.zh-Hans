@@ -8,7 +8,7 @@ feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
 hidefromtoc: true
-source-git-commit: 0297260b69c8573445c1f727a94f308138ee2895
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 主要用例 {#primary-use-case}
 
-此增强功能主要使那些从[Velocity脚本](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting){target="_blank"}转换到Handlebar脚本的用户受益。 新的电子邮件设计工具仅支持新的令牌格式。 更新的格式消除了空格并引入了修订的默认文本结构，从而确保更顺畅、更有效的脚本编写体验。
+此增强功能主要使那些从[Velocity脚本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}转换到Handlebar脚本的用户受益。 新的电子邮件设计工具仅支持新的令牌格式。 更新的格式消除了空格并引入了修订的默认文本结构，从而确保更顺畅、更有效的脚本编写体验。
 
 ## 令牌体验 {#token-experience}
 

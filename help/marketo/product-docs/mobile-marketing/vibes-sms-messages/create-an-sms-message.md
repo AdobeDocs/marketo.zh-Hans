@@ -3,9 +3,9 @@ description: 创建短信消息 — Marketo文档 — 产品文档
 title: 创建短信消息
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能可用作您的Adobe Marketo Engage帐户的加载项。 为了进行正确配置，必须通过Adobe购买它。 有关详细信息，请联系Adobe客户团队（您的客户经理）。 Marketo Vibes SMS原生集成在美国和加拿大提供。 对于其他国家/地区，可以通过[直接联系Vibes](https://www.vibes.com/talk-to-sales)来利用通过Marketo Webhook的连接。
+>此功能可用作您的Adobe Marketo Engage帐户的加载项。 要正确配置资产，必须通过Adobe购买资产。 有关详细信息，请联系Adobe客户团队（您的客户经理）。 Marketo Vibes SMS原生集成在美国和加拿大提供。 对于其他国家/地区，可以通过[直接联系Vibes](https://www.vibes.com/talk-to-sales)来利用通过Marketo Webhook的连接。
 
 >[!PREREQUISITES]
 >
 >[将Vibes添加为LaunchPoint服务](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-an-sms-message-1.png)
 
-1. 右键单击所需的项目并选择&#x200B;**[!UICONTROL 新建本地资产]**。
+1. 右键单击所需的项目并选择&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/create-an-sms-message-2.png)
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >默认情况下，将选择两个跟踪链接。 取消选中仅包含mkt_tok仍允许跟踪链接，但在重定向后，目标URL将不包含mkt_tok查询字符串参数。 此参数由Marketo登录页面和Munchkin使用，以确保正确跟踪人员活动（如人员选择退出时）。
+   >默认情况下，将选择两个跟踪链接。 取消选中仅包含mkt_tok仍允许跟踪链接，但在重定向后，目标URL将不包含mkt_tok查询字符串参数。 此参数供Marketo登陆页面和Munchkin使用，以确保正确跟踪人员活动（如人员选择退出时）。
 
 1. 如果要改用外部URL，请选择&#x200B;**外部URL**，输入/粘贴该URL，然后单击&#x200B;**插入**。
 

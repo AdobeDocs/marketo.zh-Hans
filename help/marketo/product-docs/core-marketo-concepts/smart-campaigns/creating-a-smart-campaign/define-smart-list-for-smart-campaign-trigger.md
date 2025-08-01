@@ -4,9 +4,9 @@ description: 为Smart Campaign定义智能列表 | 触发器 — Marketo文档 �
 title: 为Smart Campaign定义智能列表 | 触发器
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >对活动营销活动进行智能列表或流程步骤编辑可能会破坏其功能。 如果您选择这么做，请谨慎操作。
 
-1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL 智能列表]**&#x200B;选项卡。
+1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡。
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 

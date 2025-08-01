@@ -4,7 +4,7 @@ description: 发送示例电子邮件 — Marketo文档 — 产品文档
 title: 发送示例电子邮件
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 发送示例电子邮件 {#send-a-sample-email-1}
 
-1. 查找并选择您的电子邮件。 单击&#x200B;**[!UICONTROL Email Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Send Sample]**。\
+1. 查找并选择您的电子邮件。 单击&#x200B;**[!UICONTROL Email Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Send Sample]**。
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >触发器字段仅适用于使用[电子邮件脚本](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)的用户。
+   >触发器字段仅适用于使用[电子邮件脚本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)的用户。
 
 ## 发送基于区段的示例电子邮件 {#send-a-sample-email-based-on-a-segment}
 

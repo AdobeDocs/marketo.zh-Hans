@@ -4,9 +4,9 @@ description: 发行说明 — 2015年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年秋季
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 [Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-从管理员UI轻松创建自定义对象。 我们当前支持在Marketo中创建1：N自定义对象并将其连接到潜在客户或公司的功能。
+从管理员UI轻松创建自定义对象。 我们当前支持在Marketo中创建1:N自定义对象并将其连接到潜在客户或公司的功能。
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 * 在参与之前，销售人员可以直接在[!DNL Google Mail]中查看其潜在客户的相关信息，包括职称、Twitter个人资料、公司信息、照片等。
 * 销售人员可以实时查看跨渠道的潜在客户参与的内容，例如打开或单击电子邮件、参加在线或面对面活动、访问网页、下载电子书等等。
-* 通过[!DNL Google Mail]发送的电子邮件记录在Marketo中并实时跟踪。 这可以让销售人员查看潜在客户何时查看其电子邮件，以便他们在适当的时间进行跟踪。 适用于[!DNL Google Mail]的Marketo [!DNL Sales Insight]还使销售人员能够轻松利用营销创建的模板来发送精美的邀请、优惠和其他类型的内容。
+* 通过[!DNL Google Mail]发送的电子邮件记录在Marketo中并实时跟踪。 这可以让销售人员查看潜在客户何时查看其电子邮件，以便他们在适当的时间进行跟踪。 适用于[!DNL Sales Insight]的Marketo [!DNL Google Mail]还使销售人员能够轻松利用营销创建的模板来发送精美的邀请、优惠和其他类型的内容。
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -138,7 +138,7 @@ RTP的Assets页面现在分为Content Analytics和内容推荐。
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] — 验证同步 {#microsoft-dynamics-validate-sync}

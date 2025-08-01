@@ -3,7 +3,7 @@ description: 如何修复在连接到Salesforce时“我们无法验证您的请
 title: 如何修复连接到Salesforce时“我们无法验证您的请求”的问题
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: 帐户得分 — Marketo文档 — 产品文档
 title: 帐户得分
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 ## 常见示例 {#common-examples}
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td><strong>帐户参与度分数</strong></td> 
+   <td><strong>帐户参与度分数</strong></td>
    <td>根据特定目标帐户中人员的各种渠道（如电子邮件、Web和广告）跟踪的行为活动而确定的参与深度。</td>
   </tr>
   <tr>
    <td><strong>帐户产品兴趣分数</strong></td>
-   <td>目标帐户中的人员对特定产品的内容感兴趣（例如，下载白皮书）。</td> 
+   <td>目标帐户中的人员对特定产品的内容感兴趣（例如，下载白皮书）。</td>
   </tr>
   <tr>
    <td><strong>帐户Web参与度分数</strong></td>
-   <td>目标帐户的用户访问Web渠道。 可以创建相同的分数来测量电子邮件、广告或其他渠道的渠道参与度。</td> 
+   <td>目标帐户的用户访问Web渠道。 可以创建相同的分数来测量电子邮件、广告或其他渠道的渠道参与度。</td>
   </tr>
  </tbody>
 </table>
@@ -46,10 +46,10 @@ ht-degree: 0%
 >
 >要计算帐户得分，您首先需要创建潜在客户得分。 Marketo TAM会自动将潜在客户得分汇总到客户得分。 例如，我们将以上述两个示例为例（_帐户产品兴趣分数_&#x200B;和&#x200B;_帐户Web参与度分数_）。
 >
->首先，创建商机得分字段，以捕获目标帐户每个商机的相关详细信息。\
->然后，将这些潜在客户得分分配给他们各自的帐户得分：\
->帐户产品利息分数= SUM（商机产品利息分数）\
->帐户Web参与度得分= SUM（潜在客户Web参与度得分）
+>首先，创建商机得分字段，以捕获目标帐户每个商机的相关详细信息。
+>>然后，将这些潜在客户得分分配给他们各自的帐户得分：
+>>帐户产品利息分数= SUM（商机产品利息分数）
+>>帐户Web参与度得分= SUM（潜在客户Web参与度得分）
 
 >[!NOTE]
 >

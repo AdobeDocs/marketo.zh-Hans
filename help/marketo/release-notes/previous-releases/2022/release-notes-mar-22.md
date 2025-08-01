@@ -3,9 +3,9 @@ description: 发行说明 — 2022年3月 — Marketo文档 — 产品文档
 title: 发行说明 - 2022 年 3 月
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 跨渠道编排 {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]**：通过主动、主动和1:1的个性化对话，针对潜在客户和客户，最大限度地利用您网站上的每一个机会。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}允许Marketo Engage用户开始将聊天用作B2B营销和销售用例的集成式跨渠道体验的关键部分。 功能包括：直接在聊天中预约会议、潜在客户路由、入门模板、拖放式对话创建等。 Dynamic Chat包含在所有Marketo Engage包中，并将于今年向所有Marketo Engage用户推出。
+* **[!DNL Dynamic Chat]**：通过主动、主动和1:1次个性化对话，将潜在客户和客户都定位到一起，从而最大限度地利用您网站上的每一个机会。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}允许Marketo Engage用户开始将聊天用作B2B营销和销售用例的集成式跨渠道体验的关键部分。 功能包括：直接在聊天中预约会议、潜在客户路由、入门模板、拖放式对话创建等。 Dynamic Chat包含在所有Marketo Engage包中，并将于今年向所有Marketo Engage用户推出。
 
 * **电子邮件机器人活动筛选增强功能**：作为以前发布的[电子邮件机器人活动筛选](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}功能的增强功能，您现在可以选择加入标识为机器人的日志记录活动。 然后，您可以根据被识别为机器人正在执行的活动过滤和触发操作。
 

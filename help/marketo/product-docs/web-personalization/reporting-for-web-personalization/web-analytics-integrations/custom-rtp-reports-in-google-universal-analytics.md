@@ -4,7 +4,7 @@ description: Google Universal Analytics中的自定义RTP报表 — Marketo文�
 title: Google Universal Analytics中的自定义RTP报表
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 3%
@@ -64,41 +64,41 @@ ht-degree: 3%
 
 1. 在&#x200B;**Dimension向下钻取**&#x200B;部分中，为每个选项卡设置相关维度，如下所示。
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      选项卡名称 
-    </div></th> 
-   <th> 
+      选项卡名称
+    </div></th>
+   <th>
     <div>
       Dimension深入分析
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>行业</td> 
-   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>组</td> 
-   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>类别</td> 
-   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>组织</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>行业</td>
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>组</td>
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>类别</td>
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>组织</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. 请勿设置任何过滤器，并将此报表设置为可供&#x200B;**[!UICONTROL All Web Site Data]**&#x200B;使用（或者在与特定Analytics帐户相关时进行更改）。
@@ -137,86 +137,86 @@ ht-degree: 3%
 
 1. 在&#x200B;**Dimension向下钻取**&#x200B;部分中，为每个选项卡设置相关维度，如下所示：
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      选项卡名称 
-    </div></th> 
-   <th> 
+      选项卡名称
+    </div></th>
+   <th>
     <div>
-      Dimension深入分析 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>所有参与度</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>按ABM列出的参与情况</td> 
-   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>按类别显示的参与情况</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>按组显示的参与情况</td> 
-   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>按行业列出的参与情况</td> 
-   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+      Dimension深入分析
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>所有参与度</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>按ABM列出的参与情况</td>
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>按类别显示的参与情况</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>按组显示的参与情况</td>
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>按行业列出的参与情况</td>
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. 设置以下过滤器：
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Inc/Exc 
-    </div></th> 
-   <th> 
+      Inc/Exc
+    </div></th>
+   <th>
     <div>
-      字段 
-    </div></th> 
-   <th> 
+      字段
+    </div></th>
+   <th>
     <div>
-      匹配类型 
-    </div></th> 
-   <th> 
+      匹配类型
+    </div></th>
+   <th>
     <div>
-      值 
-    </div></th> 
-   <th colspan="1"> 
+      值
+    </div></th>
+   <th colspan="1">
     <div>
-      评论 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td><p>包括</p></td> 
-   <td><p><span class="uicontrol">事件类别</span></p></td> 
-   <td>Regex</td> 
-   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
-   <td colspan="1">将筛选所有与RTP无关的其他自定义事件</td> 
-  </tr> 
-  <tr> 
-   <td>排除</td> 
-   <td><span class="uicontrol">事件标签</span></td> 
-   <td>Regex</td> 
-   <td>#</td> 
-   <td colspan="1">允许使用营销活动名称中的#从报表营销活动中进行筛选</td> 
-  </tr> 
- </tbody> 
+      评论
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><p>包括</p></td>
+   <td><p><span class="uicontrol">事件类别</span></p></td>
+   <td>Regex</td>
+   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td>
+   <td colspan="1">将筛选所有与RTP无关的其他自定义事件</td>
+  </tr>
+  <tr>
+   <td>排除</td>
+   <td><span class="uicontrol">事件标签</span></td>
+   <td>Regex</td>
+   <td>#</td>
+   <td colspan="1">允许使用营销活动名称中的#从报表营销活动中进行筛选</td>
+  </tr>
+ </tbody>
 </table>
 
 1. 将此报告设置为可用于&#x200B;**[!UICONTROL All Web Site Data]**（或在必要时更改）。

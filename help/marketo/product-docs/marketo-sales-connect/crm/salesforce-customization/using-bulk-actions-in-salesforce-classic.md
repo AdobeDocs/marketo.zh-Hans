@@ -4,7 +4,7 @@ description: 在 [!DNL Salesforce] Classic - Marketo文档 — 产品文档中�
 title: 在 [!DNL Salesforce] Classic中使用批量操作
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 1. 此时会弹出一个MSC电子邮件。 它包括以下功能：
 
-   a. “[!UICONTROL To]”字段显示“[!UICONTROL All Recipients]” — 这与您在“潜在客户列表”视图中选择的潜在客户列表相对应\
-   b.此列表在名为“[!UICONTROL Bulk Compose]”的左侧面板中可见 — 您可以在此处添加/删除收件人\
-   c.您可以选择模板或创建自己的电子邮件\
-   d.您可以预览将在电子邮件中填充的动态字段\
-   e.您可以立即发送电子邮件，也可以按照计划在以后发送
+   a. “[!UICONTROL To]”字段显示“[!UICONTROL All Recipients]” — 这与您在“潜在客户列表”视图中选择的潜在客户列表相对应
+b.此列表在名为“[!UICONTROL Bulk Compose]”的左侧面板中可见 — 您可以在此处添加/删除收件人
+c.您可以选择模板或创建自己的电子邮件
+d.您可以预览将在电子邮件中填充的动态字段
+e.您可以立即发送电子邮件，也可以按照计划在以后发送
 
    ![](assets/three-4.png)
 

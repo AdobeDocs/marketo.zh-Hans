@@ -4,9 +4,9 @@ description: 设置并添加人员 — Marketo文档 — 产品文档
 title: 设置并添加人员
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ ht-degree: 0%
 
 让我们创建一个文件夹，其中包含您将在任务中进行的所有操作。
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 新建Campaign文件夹]**。
+1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL New Campaign Folder]**。
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. 将文件夹命名为“学习”并单击&#x200B;**[!UICONTROL 创建]**。
+1. 将文件夹命名为“学习”并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
@@ -45,15 +45,15 @@ ht-degree: 0%
 
 将您自己添加为Marketo中的人员，以便稍后可以向您自己发送测试电子邮件。
 
-1. 转到&#x200B;**[!UICONTROL 数据库]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Database]**&#x200B;区域。
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 新建人员]**。
+1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL New Person]**。
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. 键入您的名字和姓氏、电子邮件地址和公司名称，然后单击&#x200B;**[!UICONTROL 创建]**&#x200B;以将您自己添加为个人。
+1. 键入您的名字和姓氏、电子邮件地址和公司名称，然后单击&#x200B;**[!UICONTROL Create]**&#x200B;以将您自己添加为人员。
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 
@@ -63,11 +63,11 @@ ht-degree: 0%
    >
    >* Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
 
-1. 要查看您的联系人，请在左侧菜单中打开[!UICONTROL 系统智能列表]，然后单击&#x200B;**[!UICONTROL 所有联系人]**。
+1. 要查看您的联系人，请在左侧菜单中打开您的[!UICONTROL System Smart Lists]，然后单击&#x200B;**[!UICONTROL All People]**。
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. 单击&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡。 您应该可以在数据库中看到自己。
+1. 单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡。 您应该可以在数据库中看到自己。
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 
@@ -77,4 +77,4 @@ ht-degree: 0%
 
 <br> 
 
-[任务1：发送电子邮件爆炸►](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[任务1：发送电子邮件爆料►](/help/marketo/getting-started/quick-wins/send-an-email.md)

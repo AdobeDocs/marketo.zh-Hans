@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
 
 # Adobe Marketo Engage社区 {#marketo-engage-community}
 
-[Adobe Marketo Engage社区](https://nation.marketo.com/)（也称为Marketing Nation）是您向同事和Marketo员工了解有关Marketo Engage实例的更多信息的场所。 在开始之前，请花些时间熟悉[社区指南](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines)。
+[Adobe Marketo Engage社区](https://nation.marketo.com/)（也称为营销国家/地区）是您向同事和Marketo员工了解有关Marketo Engage实例的更多信息的场所。 在开始之前，请花些时间熟悉[社区指南](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines)。
 
 ## 注册您的用户名 {#register-your-username}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 设置配置文件 {#set-up-your-profile}
 
-登录Marketing Nation后，单击您的默认头像图标并选择&#x200B;**[!UICONTROL 我的设置]**&#x200B;以更新您的首选项、更改头像照片和控制标记等。
+登录Marketing Nation后，单击您的默认头像图标并选择&#x200B;**[!UICONTROL My settings]**&#x200B;以更新您的偏好设置、更改头像照片、控制标记等。
 
 屏幕快照
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->为了获得更宽泛的结果，请使用重点关键词搜索而不是长尾(例如，搜索“Dynamic Chat”而不是“如何在Dynamic Chat中添加代理”)
+>要获得更宽泛的结果，请使用重点关键词搜索而不是长尾(例如，搜索“Dynamic Chat”而不是“如何在Dynamic Chat中添加代理”)
 
 ## 提交问题 {#submit-a-question}
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 提交想法 {#submit-an-idea}
 
-如果您想出了一个可以改进Marketo Engage的想法，请在本节中提交。 你也可以就现有的想法进行投票。
+如果您想出了一个可以改进Marketo Engage的想法，请在此部分提交。 你也可以就现有的想法进行投票。
 
 屏幕快照
 
@@ -78,11 +78,11 @@ Marketo用户组(MUG)是在全球不同地区召开的聚会。 它们为您提�
 
 屏幕快照
 
-## 合并Marketo Engage预订 {#merging-marketo-engage-subscriptions}
+## 合并Marketo Engage订阅 {#merging-marketo-engage-subscriptions}
 
 >[!NOTE]
 >
->这仅适用于那些拥有多个Marketo Engage订阅并在登录到Marketing Nation社区时意外创建了多个用户档案的用户。
+>这仅适用于那些拥有多个Marketo Engage订阅并在登录到营销国家社区时意外创建了多个用户档案的用户。
 
 请按照以下步骤合并多个社区用户档案的历史记录。 建议您覆盖社区配置文件中社区活动较少的配置文件，因为无法检索被覆盖的配置文件数据。
 

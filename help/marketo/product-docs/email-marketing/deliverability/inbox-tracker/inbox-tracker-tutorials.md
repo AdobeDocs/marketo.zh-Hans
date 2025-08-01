@@ -1,16 +1,16 @@
 ---
 description: 测试、监控和了解收件箱跟踪器的可投放性问题。
-title: 收件箱跟踪器Tutorials
+title: 收件箱跟踪器教程
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# 收件箱跟踪器Tutorials {#inbox-tracker-tutorials}
+# 收件箱跟踪器教程 {#inbox-tracker-tutorials}
 
 测试、监控和了解由Bird的（以前称为MessageBird）收件箱跟踪器平台提供支持的电子邮件投放工具的可投放性问题。 收件箱跟踪器是一个应用程序，它将项目的智能与电子邮件渲染/收件箱测试的预见性相结合，以最大限度地提高电子邮件的性能。
 
@@ -28,7 +28,7 @@ Bird已创建多个培训视频来帮助您充分利用这个强大的工具。
 
 * [用户和帐户设置](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
 
-* [Intelliseed（配置和下载）](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
+* [已智能（配置和下载）](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## “收件箱跟踪器可投放性”部分 {#inbox-tracker-deliverability-section}
 

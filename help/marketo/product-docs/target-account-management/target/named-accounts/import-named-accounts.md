@@ -4,7 +4,7 @@ description: 导入[!UICONTROL Named Accounts] - Marketo文档 — 产品文档
 title: 导入[!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -65,40 +65,40 @@ CSV中已经满是潜在的目标帐户吗？ 将它们直接导入TAM！
 
 删除重复数据[!UICONTROL by Account Name]时的方案：
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>正在导入具有现有<span class="uicontrol">命名帐户</span>名称的记录</strong></td> 
-   <td><p>我们将更新现有记录</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>正在导入具有新<span class="uicontrol">命名帐户</span>名称的记录</strong></td> 
-   <td>我们将创建一个新记录</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>正在导入具有现有<span class="uicontrol">命名帐户</span>名称的记录</strong></td>
+   <td><p>我们将更新现有记录</p></td>
+  </tr>
+  <tr>
+   <td><strong>正在导入具有新<span class="uicontrol">命名帐户</span>名称的记录</strong></td>
+   <td>我们将创建一个新记录</td>
+  </tr>
+ </tbody>
 </table>
 
 删除重复数据[!UICONTROL by Domain Name]时的方案：
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>正在导入具有新帐户名和新域名的记录</strong></td> 
-   <td>我们将使用提供的信息创建一个新的<span class="uicontrol">命名帐户</span></td> 
-  </tr> 
-  <tr> 
-   <td><strong>正在导入具有现有帐户名称和现有域名的记录</strong></td> 
-   <td>我们将更新现有的<span class="uicontrol">命名帐户</span></td> 
-  </tr> 
-   <tr> 
-   <td><strong>使用新帐户名称和现有域名导入记录</strong></td> 
-   <td>我们将向与域名匹配的现有<span class="uicontrol">命名帐户</span>附加新帐户名并更新其他信息（即行业、州等）</td> 
-  </tr> 
-  <tr> 
-   <td><strong>正在导入具有现有<span class="uicontrol">命名帐户</span>名称和新域名的记录</strong></td> 
-   <td>我们将向与帐户名称匹配的现有<span class="uicontrol">命名帐户</span>附加新域名并更新其他信息（即行业、州等）</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>正在导入具有新帐户名和新域名的记录</strong></td>
+   <td>我们将使用提供的信息创建一个新的<span class="uicontrol">命名帐户</span></td>
+  </tr>
+  <tr>
+   <td><strong>正在导入具有现有帐户名称和现有域名的记录</strong></td>
+   <td>我们将更新现有的<span class="uicontrol">命名帐户</span></td>
+  </tr>
+   <tr>
+   <td><strong>使用新帐户名称和现有域名导入记录</strong></td>
+   <td>我们将向与域名匹配的现有<span class="uicontrol">命名帐户</span>附加新帐户名并更新其他信息（即行业、州等）</td>
+  </tr>
+  <tr>
+   <td><strong>正在导入具有现有<span class="uicontrol">命名帐户</span>名称和新域名的记录</strong></td>
+   <td>我们将向与帐户名称匹配的现有<span class="uicontrol">命名帐户</span>附加新域名并更新其他信息（即行业、州等）</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

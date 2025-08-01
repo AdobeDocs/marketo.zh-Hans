@@ -2,7 +2,7 @@
 description: 发行说明 — 2021年8月 — Marketo文档 — 产品文档
 title: 发行说明 - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 0%
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn]潜在客户Forms集成**：营销人员现在可以对在[!DNL LinkedIn]通过他们的潜在客户Forms广告单元捕获表单填写时发生的转化执行收入归因。 这些见解随后可用于优化表单性能和付费媒体投资。 [!DNL LinkedIn]潜在客户Gen Forms是[!DNL LinkedIn]增长最快的付费媒体产品之一，这项新功能包含在我们与[!DNL Bizible]的现有[!DNL LinkedIn]广告集成中。 
+* **[!DNL Bizible][!DNL LinkedIn]潜在客户Forms集成**：营销人员现在可以对在[!DNL LinkedIn]通过他们的潜在客户Forms广告单元捕获表单填写时发生的转化执行收入归因。 这些见解随后可用于优化表单性能和付费媒体投资。 [!DNL LinkedIn]潜在客户Gen Forms是[!DNL LinkedIn]增长最快的付费媒体产品之一，这项新功能包含在我们与[!DNL LinkedIn]的现有[!DNL Bizible]广告集成中。 
  
 * **改进了Velocity功能板**：我们新增了一个新的Velocity量度和功能板筛选器，以便获得更深入的见解。 营销人员使用此仪表板来了解分阶段潜在客户和商机周转率以及不同营销和销售参与形式的效率。
 
@@ -75,13 +75,13 @@ ht-degree: 0%
 
 * **[!DNL Bizible]与Adobe Privacy Service**&#x200B;的集成（2021年9月推出）： [!DNL Bizible]与Adobe Privacy Service的集成可跨Adobe Experience Cloud应用程序集中管理对关键数据隐私法规（如GDPR）的合规性。 现在，您可以利用此服务并集中管理所有隐私请求，以便跨应用程序反映传入[!DNL Bizible]和其他Adobe产品的更改请求。
 
-* Adobe Unified Shell **上的**&#x200B;[!DNL Bizible]： [!DNL Bizible]采用Adobe Unified Shell为用户提供了新的功能，这些功能将显示在[!DNL Bizible]应用程序标题栏中，并包括更好地访问支持资源和应用程序切换。 Adobe Unified Shell有助于在[!DNL Bizible]和其他Adobe Experience Cloud应用程序之间创建一致的体验。
+* Adobe Unified Shell **[!DNL Bizible]上的**： [!DNL Bizible]采用Adobe Unified Shell为用户提供了新的功能，这些功能将显示在[!DNL Bizible]应用程序标题栏中，并包括更好地访问支持资源和应用程序切换。 Adobe Unified Shell有助于在[!DNL Bizible]和其他Adobe Experience Cloud应用程序之间创建一致的体验。
 
 * **[!DNL Bizible]域所有权和自我管理**： [!DNL Bizible]用户可以利用Adobe Admin Console管理他们希望[!DNL Bizible]跟踪的域。 这可以为之前手动执行的流程引入自助服务，并提供有关如何跨Adobe Experience Cloud应用程序管理域所有权和跟踪的一致体验。
 
 ## 公告 {#announcements}
 
-* **更新到订阅通用ID设置**：为了支持现有用户即将集成的Marketo Engage和Adobe标识，所有Marketo Engage订阅将在启用通用ID支持时统一起来。 可在此处[&#128279;](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)找到更多信息。
+* **更新到订阅通用ID设置**：为了支持现有用户即将集成的Marketo Engage和Adobe标识，所有Marketo Engage订阅将在启用通用ID支持时统一起来。 可在此处[找到更多信息](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)。
 
 **_产品发布网络研讨会_**
 

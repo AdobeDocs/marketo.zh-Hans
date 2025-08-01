@@ -3,7 +3,7 @@ description: Dynamic Chat 发行说明 - Marketo Docs - 产品文档
 title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 5dbc3add8acaae02f25c1f9b9ae39ecfc1aaf259
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '3408'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Adobe Dynamic Chat版本在持续交付模型上运行，通过该模型可采用更具可扩展性的方法来部署功能。 有时，一个月内会发布多个版本，因此请定期查看以获取最新信息。
 
-可以在此处[&#128279;](/help/marketo/release-notes/current.md){target="_blank"}找到Marketo Engage 的标准发行说明页面。
+可以在此处[找到Marketo Engage ](/help/marketo/release-notes/current.md){target="_blank"}的标准发行说明页面。
 
 ## 2025 年 6 月版 {#june-2025-release}
 
@@ -36,7 +36,7 @@ Adobe Dynamic Chat版本在持续交付模型上运行，通过该模型可采�
 
 * **路由规则特定行为**
 
-##### — 帐户路由 — 
+#####  — 帐户路由 — 
 
 如果访客的电子邮件域映射到已知帐户，则始终优先考虑映射的代理。
 
@@ -54,7 +54,7 @@ Adobe Dynamic Chat版本在持续交付模型上运行，通过该模型可采�
 
 仅当“帐户路由”不符合条件（没有匹配的域或代理）时，才会考虑卡级别的路由规则（例如，团队、自定义）。
 
-##### — 自定义/团队路由 — 
+#####  — 自定义/团队路由 — 
 
 这些规则可能会返回多个符合条件的代理。
 
@@ -68,7 +68,7 @@ Adobe Dynamic Chat版本在持续交付模型上运行，通过该模型可采�
  — 或 — 
 * 显示默认回退消息。
 
-##### — 轮循路由 — 
+#####  — 轮循路由 — 
 
 当用作主要路由规则时，系统：
 
@@ -104,7 +104,7 @@ Adobe Dynamic Chat版本在持续交付模型上运行，通过该模型可采�
 
 <p>
 
-_&#x200B;**帐户路由**&#x200B;_
+_**帐户路由**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**帐户路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**自定义路由**&#x200B;_
+_**自定义路由**_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _&#x200B;**自定义路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**团队路由**&#x200B;_
+_**团队路由**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**团队路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**轮循路由**&#x200B;_
+_**轮循路由**_
 
 <table><thead>
   <tr>

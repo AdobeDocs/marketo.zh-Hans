@@ -4,7 +4,7 @@ description: 帐户分析排名和调整 — Marketo文档 — 产品文档
 title: 帐户分析排名和调整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 1%
@@ -27,37 +27,37 @@ ht-degree: 1%
 
 虽然可选，但我们仍建议您选中自动提升复选框，因为这将为您节省大量时间。 但是，如果您想查看每个帐户并[手动添加它们](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)，只需取消选中该框即可。
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">排名</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">排名</span></strong></td>
+   <td>
     <div>
-      基于理想客户配置文件的客户排名。 A代表最佳匹配，D代表最小匹配。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">倾向</span></strong></td> 
-   <td> 
+      基于理想客户配置文件的客户排名。 A代表最佳匹配，D代表最小匹配。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">倾向</span></strong></td>
+   <td>
     <div>
-      与非比较方案为基础的账户选择相比，转换率的估计增加。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">帐户(%)</span></strong></td> 
-   <td> 
+      与非比较方案为基础的账户选择相比，转换率的估计增加。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">帐户(%)</span></strong></td>
+   <td>
     <div>
-      模型输入中具有此排名的帐户的百分比。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">模型基准百分比</span></strong></td> 
-   <td> 
+      模型输入中具有此排名的帐户的百分比。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">模型基准百分比</span></strong></td>
+   <td>
     <div>
-      具有此级别的模型基础中的帐户百分比。 
-    </div></td> 
-  </tr> 
- </tbody> 
+      具有此级别的模型基础中的帐户百分比。
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 模型调整 {#model-tuning}
@@ -72,86 +72,86 @@ ht-degree: 1%
 
 **指标类别**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">合规性</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">合规性</span></strong></td>
+   <td>
     <div>
-      认证、合规性相关职位/聘用。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">操作</span></strong></td> 
-   <td> 
+      认证、合规性相关职位/聘用。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">操作</span></strong></td>
+   <td>
     <div>
-      业务相关职位/聘用。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">小时</span></strong></td> 
-   <td> 
+      业务相关职位/聘用。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">小时</span></strong></td>
+   <td>
     <div>
       HR或工资单软件、与HR相关的职位/聘用。
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">工程</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">工程</span></strong></td>
+   <td>
     <div>
-      技术、框架、与工程有关的职位/聘用。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">销售</span></strong></td> 
-   <td> 
+      技术、框架、与工程有关的职位/聘用。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">销售</span></strong></td>
+   <td>
     <div>
-      针对销售、销售相关职位/招聘的解决方案和软件。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">意图</span></strong></td> 
-   <td> 
+      针对销售、销售相关职位/招聘的解决方案和软件。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">意图</span></strong></td>
+   <td>
     <div>
-      意图指示器。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">IT</span></strong></td> 
-   <td> 
+      意图指示器。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">IT</span></strong></td>
+   <td>
     <div>
       硬件和软件解决方案、技术、与IT相关的职位/聘用。
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">财务</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">财务</span></strong></td>
+   <td>
     <div>
-      财务软件、财务相关职位/聘用。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">营销</span></strong></td> 
-   <td> 
+      财务软件、财务相关职位/聘用。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">营销</span></strong></td>
+   <td>
     <div>
-      营销技术和软件、与营销相关的职位/聘用。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">商业</span></strong></td> 
-   <td> 
+      营销技术和软件、与营销相关的职位/聘用。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">商业</span></strong></td>
+   <td>
     <div>
-      福布斯或公司上市或商业合作。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">客户体验与关系</span></strong></td> 
-   <td> 
+      福布斯或公司上市或商业合作。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">客户体验与关系</span></strong></td>
+   <td>
     <div>
       客户成功和客户关系职位/聘用。
-    </div></td> 
-  </tr> 
- </tbody> 
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 将鼠标悬停在工具提示上可查看每列的说明。

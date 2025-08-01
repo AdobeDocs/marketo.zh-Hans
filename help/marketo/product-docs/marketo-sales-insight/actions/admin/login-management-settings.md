@@ -3,7 +3,7 @@ description: 登录管理设置 — Marketo文档 — 产品文档
 title: 登录管理设置
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '434'
 ht-degree: 0%

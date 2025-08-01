@@ -3,10 +3,10 @@ description: 操作线索管理 — Marketo文档 — 产品文档
 title: 业务线索管理
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -18,62 +18,62 @@ ht-degree: 2%
 >
 >在Marketo Engage中，数据库中的记录称为人员/人员。 此示例中的商机管理是引用CRM中的记录。
 
-要获得进一步的策略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html)页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html)页面。
 
 ## 渠道摘要 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>渠道</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>渠道</th>
    <th>成员资格状态</th>
    <th>Analytics行为</th>
    <th>项目类型</th>
-  </tr> 
-  <tr> 
-   <td>可操作</td> 
+  </tr>
+  <tr>
+   <td>可操作</td>
    <td>01个成员</td>
    <td>可操作</td>
    <td>默认</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 程序包含以下Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>类型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>类型</th>
    <th>模板名称</th>
    <th>资源名称</th>
-  </tr> 
-  <tr> 
-   <td>Smart Campaign</td> 
+  </tr>
+  <tr>
+   <td>智能营销活动</td>
    <td> </td>
    <td>01 — 将新人员同步到CRM</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智能营销活动</td>
    <td> </td>
    <td>02 — 符合营销条件</td>
   </tr>
-  <tr> 
-   <td>电子邮件</td> 
+  <tr>
+   <td>电子邮件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
    <td>01 — 电子邮件 — 警报 — MQL</td>
   </tr>
-  <tr> 
-   <td>文件夹</td> 
+  <tr>
+   <td>文件夹</td>
    <td> </td>
    <td>营销活动</td>
   </tr>
-  <tr> 
-   <td>文件夹</td> 
+  <tr>
+   <td>文件夹</td>
    <td> </td>
    <td>电子邮件警报</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-lead-management-1.png)

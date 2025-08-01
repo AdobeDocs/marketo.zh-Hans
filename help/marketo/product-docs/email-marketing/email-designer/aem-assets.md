@@ -4,7 +4,7 @@ description: 了解如何在Adobe Marketo Engage中创作内容时使用连接�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: f2f9a3aeae8bd4857675df46ad5522c37154431c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '795'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->目前，Marketo Engage仅支持&#x200B;_Adobe Experience Manager Assets_&#x200B;中的图像资源。 必须在Adobe Experience Manager Assets中央存储库中更改资源。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>目前，Marketo Engage仅支持&#x200B;_Adobe Experience Manager Assets_&#x200B;中的图像资源。 必须在Adobe Experience Manager Assets中央存储库中更改资源。 [了解详情](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## 链接到您的AEM云服务 {#link-to-your-aem-cloud-services}
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
    ![在管理员部分中选择Adobe Experience Manager](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}
 
-1. 单击&#x200B;_Adobe Experience Manager云服务_&#x200B;旁边的&#x200B;**编辑**。
+1. 单击&#x200B;**Adobe Experience Manager云服务**&#x200B;旁边的&#x200B;_编辑_。
 
    ![单击编辑](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
 
@@ -45,7 +45,7 @@ ht-degree: 1%
    >
    >* 仅列出在与Marketo Engage订阅相同的IMS组织中关联的存储库。
    >
-   >* Marketo Engage仅支持来自投放层的存储库。 如果您使用创作层并且想要转换它，请联系[Adobe Experience Manager支持](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-manager/content/overview/help-resources)。
+   >* Marketo Engage仅支持来自投放层的存储库。 如果您使用创作层并且想要转换它，请联系[Adobe Experience Manager支持](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources)。
 
 1. 必须添加[服务凭据证书](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)才能配置存储库。 单击&#x200B;**+添加证书**&#x200B;按钮。
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 
 ![在“创建”对话框中选择AEM Assets作为图像源](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* 打开现有内容资源时，请在右侧的&#x200B;_[!UICONTROL Body]_&#x200B;部分中选择`AEM Assets`。
+* 打开现有内容资源时，请在右侧的`AEM Assets`部分中选择&#x200B;_[!UICONTROL Body]_。
 
 ![在属性中选择AEM Assets作为图像源](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
@@ -83,7 +83,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->管理员必须将需要访问资源的用户添加到Assets Consumer Users和/或Assets Users产品配置文件。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>管理员必须将需要访问资源的用户添加到Assets Consumer Users和/或Assets Users产品配置文件。 [了解详情](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 在可视内容编辑器中，单击左侧边栏中的&#x200B;_Experience Manager资源选择器_&#x200B;图标。 这会将“工具”面板更改为选定存储库中可用资源的列表。
 
@@ -103,7 +103,7 @@ ht-degree: 1%
 
 ![选择AEM Assets存储库以访问图像资源](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
-* 将图像组件添加到画布并单击&#x200B;**[!UICONTROL Browse]**&#x200B;以打开&#x200B;_[!UICONTROL Select Assets]_&#x200B;对话框。
+* 将图像组件添加到画布并单击&#x200B;**[!UICONTROL Browse]**&#x200B;以打开&#x200B;_[!UICONTROL Select Assets]_对话框。
 
   从该对话框中，可以从所选存储库中选择图像。
 

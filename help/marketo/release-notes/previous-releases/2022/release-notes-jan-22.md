@@ -2,7 +2,7 @@
 description: 发行说明 — 2022年1月 — Marketo文档 — 产品文档
 title: 发行说明 - 2022 年 1 月
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '884'
 ht-degree: 0%
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-[!DNL Salesforce] CRM **的**&#x200B;[!DNL Sales Insight]
+**[!DNL Sales Insight]CRM[!DNL Salesforce]的**
 
 * **适用于[!UICONTROL Best Bets]**&#x200B;的新类型列：销售商将通过标记为“类型”的新列快速获得见解，以区分[!UICONTROL Best Bets]页面上的潜在客户和联系人。
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 * **已更新品牌**：正在更新所有[!DNL Sales Insight]页面，以与Adobe品牌保持一致。
 
-[!DNL Microsoft Dynamics]&#x200B;**的**&#x200B;[!DNL Sales Insight]
+**[!DNL Sales Insight]的[!DNL Microsoft Dynamics]**
 
 * **更新了帐户布局**：销售人员可以获取热门活动的集体视图，例如：电子邮件活动、Web活动、有趣的时刻以及帐户中所有联系人的得分更改。
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 * **致电结果和原因**：通过新的、完全自定义的致电结果和致电原因选项，更详细地了解和跟踪您的销售团队的出站努力。 除了这些新字段外，我们还将引入新的治理功能以强制在销售者进行呼叫时选择呼叫原因和结果，引入新的治理功能以启用或禁用呼叫原因和结果，并引入新的呼叫原因和呼叫结果[!DNL Salesforce]活动自定义字段以将数据记录到[!DNL Salesforce]。 [单击此处](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812)了解更多信息。
 
-* **[!DNL Salesforce]活动详细信息自定义**：当销售活动从[!DNL Sales Connect]登录到[!DNL Salesforce]时，通过自定义添加到[!DNL Salesforce]任务主题字段中的信息，在[!DNL Salesforce]中捕获更多销售活动和任务数据。 [单击此处](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819)了解更多信息。
+* **[!DNL Salesforce]活动详细信息自定义**：当销售活动从[!DNL Salesforce]登录到[!DNL Salesforce]时，通过自定义添加到[!DNL Salesforce]任务主题字段中的信息，在[!DNL Sales Connect]中捕获更多销售活动和任务数据。 [单击此处](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819)了解更多信息。
 
 ## 公告 {#announcements}
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 * **在“邀请用户”对话框中登录**：在3月份，将弃用现有的可选“在“邀请用户”对话框中登录”功能。 功能“[!UICONTROL Login in Invite User Dialog]”被通用ID功能覆盖，即将推出的Adobe Identity Management系统集成需要该功能，并且已于2021年8月在所有订阅中启用。 作为弃用的结果，Marketo Engage将强制在订阅中每个电子邮件地址仅关联一个用户。
 
-**Marketo Engage域 — [!DNL Sales Insight]配置**：对于未配置SSL证书和https://的Marketo Engage域，调用将失败，并出现SSL握手错误。 因此，这些领域将会被淘汰。 因此，使用指向这些域中任何域的旧配置的[!DNL Sales Insight]用户可能在其Lead、Contact、Account、Opportunity Panels或Marketo Global页面上遇到系统标注错误。 如果您遇到此错误，我们建议您在[!DNL Salesforce]中更新[Marketo Engage配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)。 您只需要更新文档中突出显示“[!DNL Marketo Sales Insight]配置”部分的Marketo Engage凭据。
+**Marketo Engage域 — [!DNL Sales Insight]配置**：对于未配置SSL证书和https://的Marketo Engage域，调用将失败，并出现SSL握手错误。 因此，这些领域将会被淘汰。 因此，使用指向这些域中任何域的旧配置的[!DNL Sales Insight]用户可能在其Lead、Contact、Account、Opportunity Panels或Marketo Global页面上遇到系统标注错误。 如果您遇到此错误，我们建议您在[中更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)Marketo Engage配置[!DNL Salesforce]。 您只需要更新文档中突出显示“[!DNL Marketo Sales Insight]配置”部分的Marketo Engage凭据。
 
 **_产品发布网络研讨会_**
 

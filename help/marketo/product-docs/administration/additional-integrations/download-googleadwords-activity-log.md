@@ -4,10 +4,10 @@ description: 下载 [!DNL GoogleAdwords Activity Log] - Marketo文档 — 产品
 title: 下载 [!DNL GoogleAdwords Activity Log]
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '41'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 事情会发生。 有时您需要下载活动日志来解决问题。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/download-googleadwords-activity-log-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 启动点]**。
+1. 单击 **[!UICONTROL LaunchPoint]**。
 
    ![](assets/download-googleadwords-activity-log-2.png)
 
-1. 找到您的[!DNL Google AdWords]服务，然后单击&#x200B;**[!UICONTROL 下载活动日志]**。
+1. 找到您的[!DNL Google AdWords]服务并单击&#x200B;**[!UICONTROL Download Activity Log]**。
 
    ![](assets/download-googleadwords-activity-log-3.png)
 

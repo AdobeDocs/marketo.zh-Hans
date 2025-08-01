@@ -3,7 +3,7 @@ description: Dynamic Chat集成 — Marketo文档 — 产品文档
 title: Dynamic Chat集成
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 4%
@@ -103,4 +103,3 @@ Lead和Contact面板中提供了“聊天”选项卡。 它包括[!UICONTROL Ac
 >* “全局Marketo”选项卡中的“聊天”选项卡
 >
 >不能只禁用其中一项功能。
-

@@ -4,10 +4,10 @@ description: 了解项目成本分析区域 — Marketo文档 — 产品文档
 title: 了解计划成本分析领域
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 5%
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## 方案成本分析Dimension和措施 {#program-cost-analysis-dimensions-and-measures}
+## 项目成本分析维度和衡量标准 {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -51,25 +51,25 @@ ht-degree: 5%
 
 ## 会员资格 {#membership}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>衡量</th> 
-   <th>描述</th> 
-  </tr> 
-  <tr> 
-   <td>%个新名称</td> 
-   <td>项目群获得的潜在客户百分比</td> 
-  </tr> 
-  <tr> 
-   <td>成员</td> 
-   <td>项目群中的潜在客户总数</td> 
-  </tr> 
-  <tr> 
-   <td>新名称</td> 
-   <td>程序获得的新名称总数</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>衡量</th>
+   <th>描述</th>
+  </tr>
+  <tr>
+   <td>%个新名称</td>
+   <td>项目群获得的潜在客户百分比</td>
+  </tr>
+  <tr>
+   <td>成员</td>
+   <td>项目群中的潜在客户总数</td>
+  </tr>
+  <tr>
+   <td>新名称</td>
+   <td>程序获得的新名称总数</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 项目群属性 {#program-attributes}
@@ -83,9 +83,9 @@ ht-degree: 5%
 
 | 维度 | 描述 |
 |---|---|
-| 年 | 项目成本时间范围 |
+| Year | 项目成本时间范围 |
 | 季度 | 项目成本时间范围 |
-| 月 | 项目成本时间范围 |
+| Month | 项目成本时间范围 |
 
 ## 项目标记 {#program-tags}
 

@@ -4,9 +4,9 @@ description: SEO — 添加关键字 — Marketo文档 — 产品文档
 title: SEO — 添加关键字
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >如果您有许多关键字，则可以使用CSV文件[导入它们](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)。
 
-1. 转到&#x200B;**[!UICONTROL 关键字]**&#x200B;部分。
+1. 转到&#x200B;**[!UICONTROL Keywords]**&#x200B;部分。
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. 输入要定位的关键字，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 输入要定位的关键字，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 

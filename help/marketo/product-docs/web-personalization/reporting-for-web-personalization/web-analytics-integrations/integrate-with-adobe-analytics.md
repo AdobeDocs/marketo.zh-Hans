@@ -4,7 +4,7 @@ description: 与Adobe Analytics集成 — Marketo文档 — 产品文档
 title: 与Adobe Analytics集成
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. 出站渠道
 1. 内容
-1. 重新定位
+1. 重定向
 
 ## 渠道报表 {#channel-report}
 
@@ -64,8 +64,8 @@ RTP功能板可帮助您了解访客如何根据纵向和RTP区段进行细分�
 
 1. 转到AA帐户中的&#x200B;**[!UICONTROL Admin Tools]**。
 1. 选择要与集成一起使用的&#x200B;**[!UICONTROL Report Suite]**。
-1. 在&#x200B;**[!UICONTROL Edit Settings]**&#x200B;下，转到&#x200B;**[!UICONTROL Conversion]**&#x200B;并选择&#x200B;**[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。\
-   选择[转化变量](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)编号（我们推荐）：
+1. 在&#x200B;**[!UICONTROL Edit Settings]**&#x200B;下，转到&#x200B;**[!UICONTROL Conversion]**&#x200B;并选择&#x200B;**[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。
+选择[转化变量](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)编号（我们推荐）：
 
    1. 适用于行业自定义转化的Evar # 20
    1. 适用于组织自定义转化的Evar # 21
@@ -220,7 +220,7 @@ AA中的自定义报告和功能板示例包括：
 
    ![](assets/sitecatalyst1-1.png)
 
-1. 搜索展示次数以查看表示营销活动展示次数的区段和营销活动名称。\
+1. 搜索展示次数以查看表示营销活动展示次数的区段和营销活动名称。
    ![](assets/sitecatalyst1.png)
 
 1. 搜索转化以查看表示促销活动点击数的区段和促销活动名称。

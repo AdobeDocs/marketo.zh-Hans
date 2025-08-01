@@ -4,7 +4,7 @@ description: 新建帐户列表 — Marketo文档 — 产品文档
 title: 创建新的帐户列表
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%

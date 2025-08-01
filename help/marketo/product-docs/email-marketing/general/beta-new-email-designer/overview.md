@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 86475b8b-4dd2-4c73-9586-889f6a3c01e8
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 1%
@@ -18,13 +18,13 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->本文仅适用新Marketo Engage电子邮件Designer测试版的成员。 请不要传播。
+>本文仅适用新的Marketo Engage Email Designer测试版成员。 请不要传播。
 
 >[!PREREQUISITES]
 >
->要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[AdobeIdentity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的请求，而您希望请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+>要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
-新的电子邮件Designer是Marketo Engage领域的最新创新，旨在提供经过改进的电子邮件和电子邮件模板创建体验，通过提供可视化的拖放编辑器和标准的现成模板来提高工作效率和效率。 轻松创建自定义的电子邮件模板，无需花钱购买供应商。
+新的电子邮件Designer是Marketo Engage中的一项最新创新，旨在提供经过改进的电子邮件和电子邮件模板创建体验，通过提供可视化的拖放编辑器和标准的开箱即用模板来提高生产力和效率。 轻松创建自定义的电子邮件模板，无需花钱购买供应商。
 
 在新设计器中创建的电子邮件可用于智能列表和智能营销活动。 未来计划推出更多增强功能，使新设计者更加出色。
 

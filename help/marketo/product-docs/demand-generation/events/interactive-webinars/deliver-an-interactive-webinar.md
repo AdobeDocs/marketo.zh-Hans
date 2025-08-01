@@ -2,7 +2,8 @@
 description: 交付交互式网络研讨会 — Marketo文档 — 产品文档
 title: 举办交互式网络研讨会
 feature: Interactive Webinars
-source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
+exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -83,7 +84,7 @@ ht-degree: 0%
 
 “主持人和演示者区域”（也称为“后台”）是位于会议室右侧的专用区域，只有主持人和演示者才能看到。 它可用于在事件之前、期间和之后进行协作。 在主机和演示者区域内，使用聊天、备注和其他Pod作为后渠道。
 
-若要访问，请从会议室下拉菜单中选择&#x200B;**主机和演示者区域**。 观看以下视频[&#128279;](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}，了解有关此区域的更多信息。
+若要访问，请从会议室下拉菜单中选择&#x200B;**主机和演示者区域**。 观看以下视频[以了解有关此区域的更多信息](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}。
 
 ### 广播控制 {#broadcast-controls}
 
@@ -91,7 +92,7 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 可以将“广播控制”设置为在您离开绿色房间后自动开始录制。 这可确保主机不必记得手动启动和停止录制。 暂停或停止广播也会暂停或停止录制。 一切都是自动的。
 
-在此视频[&#128279;](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中了解有关广播控制的更多信息。
+在此视频[中了解有关广播控制](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}的更多信息。
 
 ### 录制中的聊天 {#chats-in-recordings}
 
@@ -103,7 +104,7 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-了解有关[聊天面板](https://helpx.adobe.com/cn/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}的更多信息。
+了解有关[聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}的更多信息。
 
 ### 准备模式 {#prepare-mode}
 
@@ -121,21 +122,21 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 这将关闭准备模式并返回到活动布局。
 
-在此视频[&#128279;](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中了解有关准备模式的更多信息。
+在此视频[中了解有关准备模式](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}的更多信息。
 
 >[!NOTE]
 >
 >* 对实时pod所做的任何更改都会立即反映给参与者。
->* [聊天面板](https://helpx.adobe.com/cn/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是准备模式的一部分，对其所做的任何更改都将立即反映给参与者。
+>* [聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是准备模式的一部分，对其所做的任何更改都将立即反映给参与者。
 
 ### 辅助功能 {#accessibility}
 
-Adobe努力通过提高交互式网络研讨会的无障碍性来吸引残疾演示者和参与者。 该软件不断得到增强，以满足所有类型的用户的需求，并遵守包括视觉、听觉、移动或其他残疾人士在内的全球标准。
+Adobe通过改进交互式网络研讨会的无障碍性，努力让残障人士和参与者参与其中。 该软件不断得到增强，以满足所有类型的用户的需求，并遵守包括视觉、听觉、移动或其他残疾人士在内的全球标准。
 
-了解Adobe Connect如何针对[视觉、听觉和移动需求](https://helpx.adobe.com/cn/adobe-connect/using/accessibility-features.html){target="_blank"}提供帮助。
+了解Adobe Connect如何针对[视觉、听觉和移动需求](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}提供帮助。
 
 ### 隐藏式字幕 {#closed-captions}
 
 隐藏式字幕是Adobe Connect房间内音频的文本表示形式，可帮助耳聋或听力缺佳的参与者参与活动。 您可以将音频内容的实时字幕集成到事件中，并在隐藏式字幕显示中呈现这些字幕。
 
-了解如何[启用隐藏式字幕](https://helpx.adobe.com/cn/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+了解如何[启用隐藏式字幕](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。

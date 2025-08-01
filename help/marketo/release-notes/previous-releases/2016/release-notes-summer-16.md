@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: 发行说明 — 2016年夏天 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年夏天
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 0%
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 ## [企业密钥](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-要求您的销售团队中的每个人为[!DNL Outlook]安装我们的[!DNL Sales Insight]插件可能会很繁琐。 我们引入了一种使用企业密钥远程安装[!DNL Outlook]插件的新方法。 向IT团队发送您在[!UICONTROL Admin]的Marketo [!DNL Sales Insight]部分中找到的唯一密钥，然后让他们完成其余任务。
+要求您的销售团队中的每个人为[!DNL Sales Insight]安装我们的[!DNL Outlook]插件可能会很繁琐。 我们引入了一种使用企业密钥远程安装[!DNL Outlook]插件的新方法。 向IT团队发送您在[!DNL Sales Insight]的Marketo [!UICONTROL Admin]部分中找到的唯一密钥，然后让他们完成其余任务。
 
 ![](assets/enterprise-key.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
 脱机查看内容分析和推荐数据。
 
-## [电子邮件编辑器2.0的API支持](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## 电子邮件编辑器2.0[的](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}API支持
 
 以前仅与v1.0电子邮件和模板兼容的预先存在的Asset API现在为v2.0电子邮件资产启用。
 
