@@ -4,9 +4,9 @@ title: 交互式网络研讨会中的参与工具
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1270'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ Web链接面板用于共享Web URL。 这可用于与参与者共享指向社交
 
 ### 自定义pod {#custom-pods}
 
-自定义pod可扩展Adobe Connect提供的功能。 一些常见的免费自定义pod包括Countdown Timer、Clock、House Keeper、Titler和Word Cloud。 可以从https://apps.adobeconnect.com/以.pod或.zip文件的形式下载自定义Pod。
+自定义pod可扩展Adobe Connect提供的功能。 一些常见的免费自定义pod包括Countdown Timer、Clock、House Keeper、Titler和Word Cloud。 可以从<https://apps.adobeconnect.com/>以.pod或.zip文件的形式下载自定义Pod。
 
 要使用自定义面板，请执行以下操作：
 

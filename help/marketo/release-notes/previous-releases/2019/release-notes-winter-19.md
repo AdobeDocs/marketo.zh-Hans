@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 发行说明 — 2019年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年冬
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -53,8 +53,8 @@ ht-degree: 0%
 * **电子邮件服务**：通过连接到[!DNL Microsoft Outlook]（通过Office365或通过“电子邮件连接”选项卡内部部署）享受更好的可投放性，以及改进的回复跟踪、计划的电子邮件功能和批量电子邮件功能。
 * **新管理员设置**：添加了两个管理员页面，以优化您的Sales Engage实例
 
-   * 通过允许管理员编辑订阅和团队，_团队管理_&#x200B;支持无缝的帐户设置过程。
-   * _Salesforce管理设置_&#x200B;可帮助团队以前所未有的速度更轻松地设置SFDC同步。
+   * 通过允许管理员编辑订阅和团队，*团队管理*&#x200B;支持无缝的帐户设置过程。
+   * *Salesforce管理设置*&#x200B;可帮助团队以前所未有的速度更轻松地设置SFDC同步。
 
 * 适用于&#x200B;**的[!DNL Windows]** OWA插件：通过一个加载项，Sales Engage将支持所有[!DNL Windows Office365]客户端，从而能够在Outlook中使用Live Feed。 新的插件将显示在Microsoft Store中。
 * **活动推送器**：将Sales Engage同步到核心Marketo平台，以利用实时营销见解。

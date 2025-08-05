@@ -4,7 +4,7 @@ description: Facebook中的个性化再营销 — Marketo文档 — 产品文档
 title: Facebook中的个性化再营销
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 6%
@@ -18,7 +18,7 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* 使用Web Personalization数据完成[重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)设置
->* 查看有关自定义受众[和再营销的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook文档。
+>* 查看有关自定义受众[和再营销的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook文档。
 
 ## 在[!DNL Facebook]中创建受众 {#creating-an-audience-in-facebook}
 
@@ -26,35 +26,35 @@ ht-degree: 6%
 
 1. 单击&#x200B;**[!UICONTROL Tools]**&#x200B;并选择&#x200B;**[!UICONTROL Audiences]**。
 
-   ![](assets/one-1.png)
+![](assets/one-1.png)
 
 1. 单击 **[!UICONTROL Create a Custom Audience]**。
 
-   ![](assets/two-1.png)
+![](assets/two-1.png)
 
 1. 选择 **[!UICONTROL Website Traffic]**。
 
-   ![](assets/image2015-1-19-16-3a32-3a2.png)
+![](assets/image2015-1-19-16-3a32-3a2.png)
 
 1. 在[!UICONTROL Website traffic]列表中，选择&#x200B;**[!UICONTROL Custom Combination]**。
 
-   ![](assets/image2015-1-19-16-3a33-3a21.png)
+![](assets/image2015-1-19-16-3a33-3a21.png)
 
 1. 在包含列表中，选择&#x200B;**[!UICONTROL Event]**。
 
-   ![](assets/image2015-1-19-16-3a34-3a9.png)
+![](assets/image2015-1-19-16-3a34-3a9.png)
 
 1. 在[!UICONTROL Event]列表中，选择&#x200B;**[!UICONTROL RTP Remarketing]**&#x200B;并选择参数。
 
-   ![](assets/image2015-1-19-16-3a52-3a29.png)
+![](assets/image2015-1-19-16-3a52-3a29.png)
 
 1. 对于此示例，选择[!UICONTROL Industry]以包含&#x200B;**[!UICONTROL Education]**。 输入&#x200B;**[!UICONTROL Education]**，并将&#x200B;**[!UICONTROL In the Last]**&#x200B;编辑为180天。 输入受众名称： **教育行业**。 单击 **[!UICONTROL Create Audience]**。
 
-   ![](assets/image2015-1-19-16-3a56-3a15.png)
+![](assets/image2015-1-19-16-3a56-3a15.png)
 
 1. 您现在已在[!DNL Facebook]中使用RTP数据创建新的自定义受众。
 
-   ![](assets/image2015-1-19-16-3a59-3a2.png)
+![](assets/image2015-1-19-16-3a59-3a2.png)
 
 ## [!DNL Facebook]中的RTP数据点 {#rtp-data-points-in-facebook}
 

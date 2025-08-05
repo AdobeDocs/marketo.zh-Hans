@@ -4,9 +4,9 @@ description: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterpris
 title: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '351'
 ht-degree: 2%
 
 ---
@@ -148,7 +148,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->创建专用的[!DNL Salesforce]帐户(例如，marketo@yourcompany.com)，以区分Marketo所做的更改与其他[!DNL Salesforce]用户所做的更改。
+>创建专用的[!DNL Salesforce]帐户（例如<marketo@yourcompany.com>），以区分Marketo所做的更改与其他[!DNL Salesforce]用户所做的更改。
 
 1. 在导航搜索栏中键入“管理用户”，然后单击&#x200B;**[!UICONTROL Users]**。 单击&#x200B;**[!UICONTROL New User]**。
 

@@ -4,7 +4,7 @@ description: 查看推送通知功能板 — Marketo文档 — 产品文档
 title: 查看推送通知仪表板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >_Sent_&#x200B;量度反映的发送数量可能超过推送通知发送对象的确切人数。 这是因为它是根据符合接收推送条件的设备&#x200B;*数量*&#x200B;计算得出的。 例如，如果一个人拥有三台设备，则仪表板会记录三次发送，而不是一次。
+   >_Sent_&#x200B;量度反映的发送数量可能超过推送通知发送对象的确切人数。 这是因为它是根据符合接收推送条件的设备&#x200B;_数量_&#x200B;计算得出的。 例如，如果一个人拥有三台设备，则仪表板会记录三次发送，而不是一次。
 
    >[!MORELIKETHIS]
    >

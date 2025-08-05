@@ -4,7 +4,7 @@ description: 模板7F - Marketo文档 — 产品文档
 title: 模板7F
 exl-id: 3fe4fb0b-7118-4b88-b2ca-f9ad04bf4129
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板7F {#template-7f}
 
-右键单击以[下载模板7F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html?lang=zh-Hans)
+右键单击以[下载模板7F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
 
 ![](assets/image2015-7-29-14-3a52-3a10.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板7F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html?lang=zh-Hans)
+[模板7F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)

@@ -3,7 +3,7 @@ description: 发行说明 — 2023年1月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 1 月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 8%
@@ -41,6 +41,7 @@ ht-degree: 8%
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切换开关</a></td>
   </tr>
   </tbody>
+
 </table>
 
 * **组件用于电子邮件模板详细信息和代码片段详细信息的增强功能**：“新用于UI”选项卡提供有关每个用于资源的附加信息，例如上次修改时间和修改者。 您可以通过搜索、排序和筛选功能轻松执行分析。 将从电子邮件模板和代码片段资产开始合并此新UI组件。
@@ -88,7 +89,7 @@ ht-degree: 8%
   </tr>
   <tr>
    <td>已发货</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=zh-Hans">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

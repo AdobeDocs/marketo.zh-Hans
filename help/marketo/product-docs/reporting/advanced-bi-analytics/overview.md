@@ -3,7 +3,7 @@ description: 高级BI Analytics概述 — Marketo文档 — 产品文档
 title: 高级BI Analytics概述
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1222'
 ht-degree: 0%
@@ -63,7 +63,8 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 导出完整报表时，您的导出选项为PDF和PPT。 如果您需要.XLS或.CSV格式的数据，可以通过导出单个可视化图表来执行此操作（[请参阅下面的](#export-a-visualization)）。
 
 >[!BEGINTABS]
->[!TAB 从报告页面] 
+
+>从报告页面[!TAB ]
 
 1. 在“报告”页面上，单击所需报告的“更多”图标(...)，然后选择&#x200B;**导出**。
 
@@ -124,7 +125,7 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
 观看以下视频，了解多页面、穿透钻取报表体验的示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451692/?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 高级BI Analytics中的标准报表 {#standard-reports}
 

@@ -4,7 +4,7 @@ title: 在智能列表触发器和过滤器中使用Vibes SMS消息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-相反，**Vibes列表的成员**&#x200B;筛选器将查找当前订阅了Vibes的&#x200B;_任何人_，该筛选器最适合于在智能营销活动或列表中使用。
+相反，**Vibes列表的成员**&#x200B;筛选器将查找当前订阅了Vibes的&#x200B;*任何人*，该筛选器最适合于在智能营销活动或列表中使用。
 
 ![](assets/image001.png)
 

@@ -4,7 +4,7 @@ description: 模板20B - Marketo文档 — 产品文档
 title: 模板20B
 exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板20B {#template-20b}
 
-右键单击以[下载模板20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html?lang=zh-Hans)
+右键单击以[下载模板20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
 
 ![](assets/template-20b.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html?lang=zh-Hans)
+[模板20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)

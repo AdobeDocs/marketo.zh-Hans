@@ -4,7 +4,7 @@ description: 模板17A - Marketo文档 — 产品文档
 title: 模板17A
 exl-id: 279fcad2-7c91-4898-9d5d-e83fcb8492af
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板17A {#template-17a}
 
-右键单击以[下载模板17A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html?lang=zh-Hans)
+右键单击以[下载模板17A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
 
 ![](assets/image2015-8-17-15-3a13-3a9.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板17A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html?lang=zh-Hans)
+[模板17A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)

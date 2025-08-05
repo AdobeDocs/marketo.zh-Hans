@@ -4,9 +4,9 @@ description: 发行说明 — 2015年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年7月
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## [!DNL Marketo Moments] {#marketo-moments}
 
-午餐时间外出，但需要重新安排电子邮件发送时间？ 通过App Store或[!DNL Google Play]提供的[!DNL Marketo Moments]应用程序，您能够实时查看电子邮件和活动营销活动的执行情况，以及未来从您的iPhone、iPad或Android手机上显示的内容。
+午餐时间外出，但需要重新安排电子邮件发送时间？ 通过App Store或[!DNL Marketo Moments]提供的[!DNL Google Play]应用程序，您能够实时查看电子邮件和活动营销活动的执行情况，以及未来从您的iPhone、iPad或Android手机上显示的内容。
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **通过REST API访问Company对象**： REST API现在提供对Marketo Company (a.k.a. Account)对象的访问权限。 这意味着您可以读取、更新和删除在Marketo中创建的公司对象，并使用更新的[!DNL Lead] API将潜在客户与此类公司关联。
 
-在我们的公司API参考指南中了解[更多]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies)。
+在我们的公司API参考指南中了解[更多]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>)。
 
 ## 访问电子邮件可投放性 {#access-email-deliverability}
 

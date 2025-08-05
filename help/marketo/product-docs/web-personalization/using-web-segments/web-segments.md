@@ -4,7 +4,7 @@ description: Web区段 — Marketo文档 — 产品文档
 title: Web区段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -177,7 +177,7 @@ ht-degree: 0%
 * **来自这些公司（特定名称）**
 
    * 从“选择要添加的公司”下拉列表中选择要定位的公司。
-   * 您可以键入要定位的确切组织名称。 *建议&#x200B;_始终_&#x200B;使用指定帐户列表，而不是手动键入名称以获得更好的匹配（请参阅下文）。
+   * 您可以键入要定位的确切组织名称。 *建议&#x200B;*始终*&#x200B;使用指定帐户列表，而不是手动键入名称以获得更好的匹配（请参阅下文）。
 
 **命名帐户列表**
 
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->命名帐户列表名称旁边方括号中的数字被用作Web Personalization [读取API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/web-personalization)列表的索引引用。
+>命名帐户列表名称旁边方括号中的数字被用作Web Personalization [读取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)列表的索引引用。
 
 **排除ISP**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **用户上下文API**
 
-Web Personalization API调用[在此处阅读更多相关信息。](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Web Personalization API调用[在此处阅读更多相关信息。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

@@ -4,7 +4,7 @@ description: 模板19C - Marketo文档 — 产品文档
 title: 模板19C
 exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板19C {#template-19c}
 
-右键单击以[下载模板19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=zh-Hans)
+右键单击以[下载模板19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=zh-Hans)
+[模板19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)

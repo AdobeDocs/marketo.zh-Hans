@@ -4,7 +4,7 @@ description: 模板12E - Marketo文档 — 产品文档
 title: 模板12E
 exl-id: fc330e23-9247-4565-a607-0c10d3ef89c6
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板12E {#template-12e}
 
-右键单击以[下载模板12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=zh-Hans)
+右键单击以[下载模板12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=zh-Hans)
+[模板12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)

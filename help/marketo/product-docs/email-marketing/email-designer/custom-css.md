@@ -6,7 +6,7 @@ description: 了解如何直接在Marketo Engage的Email Designer中将自定义
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 3%
@@ -132,7 +132,6 @@ ht-degree: 3%
 
 +++
 
-
 +++ 无效CSS的示例
 
 如果输入的CSS无效，则会显示错误消息，指示CSS无法保存。 以下是无效CSS的示例。
@@ -200,7 +199,6 @@ body {
 ```
 
 +++
-
 
 电子邮件Designer的&#x200B;**[!UICONTROL Settings]**&#x200B;窗格不会解释或验证自定义CSS。 它是完全独立的，只能通过&#x200B;**[!UICONTROL Add Custom CSS]**&#x200B;选项进行修改。
 

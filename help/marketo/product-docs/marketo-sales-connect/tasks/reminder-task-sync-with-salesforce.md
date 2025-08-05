@@ -3,7 +3,7 @@ description: 与Salesforce同步提醒任务 — Marketo文档 — 产品文档
 title: 提醒任务与Salesforce同步
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
@@ -81,4 +81,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->任务的主题字段可以在[!DNL Sales Connect]中更新，并且如果正在使用[!DNL Salesforce]活动详细信息自定义`{{activity_subject}}`设置中的[动态字段，则该更新将在相应同步任务的](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)主题字段中同步。 相反，对[!DNL Salesforce]中的主题字段所做的任何更新将&#x200B;_不会_&#x200B;同步到[!DNL Sales Connect]提醒任务主题字段。
+>任务的主题字段可以在[!DNL Sales Connect]中更新，并且如果正在使用[!DNL Salesforce]活动详细信息自定义`{{activity_subject}}`设置中的[动态字段，则该更新将在相应同步任务的](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)主题字段中同步。 相反，对[!DNL Salesforce]中的主题字段所做的任何更新将&#x200B;*不会*&#x200B;同步到[!DNL Sales Connect]提醒任务主题字段。

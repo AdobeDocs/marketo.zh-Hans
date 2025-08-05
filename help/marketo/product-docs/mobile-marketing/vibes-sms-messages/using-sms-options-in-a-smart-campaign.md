@@ -3,7 +3,7 @@ description: 在智能营销活动中使用短信选项 — Marketo文档 — �
 title: 在智能营销活动中使用短信选项
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **订阅的Vibes列表**&#x200B;筛选器查找&#x200B;*ever*&#x200B;订阅了Vibes的任何人。 这包括已取消订阅和已删除的人员，即使流程中会忽略已删除的人员。 此过滤器最适合报表。
 
-相反，**Vibes列表的成员**&#x200B;筛选器将查找当前订阅了Vibes的&#x200B;_任何人_，该筛选器最适合于在智能营销活动或列表中使用。
+相反，**Vibes列表的成员**&#x200B;筛选器将查找当前订阅了Vibes的&#x200B;*任何人*，该筛选器最适合于在智能营销活动或列表中使用。
 
 >[!NOTE]
 >
@@ -66,7 +66,7 @@ ht-degree: 0%
 <tbody>
   <tr>
     <td style="width:20%"><b>发送短信消息</b></td>
-    <td>此流操作会将消息从Marketo智能列表中发送给订阅了用户选择加入的Vibes订阅列表的用户。 它不会启动订阅流程。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">了解更多</a>。</td>
+    <td>此流操作会将消息从Marketo智能列表中发送给订阅了用户选择加入的Vibes订阅列表的用户。 它不会启动订阅流程。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">了解详情</a>。</td>
   </tr>
 
 <tr>

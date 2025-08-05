@@ -4,7 +4,7 @@ description: 电子邮件性能报表 — Marketo文档 — 产品文档
 title: 电子邮件性能报表
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%
@@ -36,6 +36,7 @@ ht-degree: 1%
    [选择报告列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)以发送电子邮件性能报告，包括：
 
    <table><thead>
+
 <tr>
     <th>列</th>
     <th>描述</th>
@@ -75,9 +76,9 @@ ht-degree: 1%
 
 * **规则1**：每个电子邮件活动记录均设置为以下项之一（且仅设置一个）： _已投放_、_硬退回_、_软退回_&#x200B;或&#x200B;_待处理_。
 
-* **规则2**：如果电子邮件记录显示&#x200B;*[!UICONTROL Opened]*，则计为&#x200B;*已传递*。
+* **规则2**：如果电子邮件记录显示&#x200B;_[!UICONTROL Opened]_，则计为_&#x200B;已传递&#x200B;_。
 
-* **规则3**：如果电子邮件记录显示&#x200B;_[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，则计为&#x200B;_已传递_&#x200B;和&#x200B;_已打开_。
+* **规则3**：如果电子邮件记录显示&#x200B;_[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，则计为&#x200B;_已传递_&#x200B;和&#x200B;_已打开_。
 
 * **规则4**：如果电子邮件为&#x200B;_[!UICONTROL Opened]_，则将忽略退件。 如果电子邮件尚未打开，则_&#x200B;硬退回&#x200B;_优先于_&#x200B;软退回&#x200B;_和_&#x200B;已投放&#x200B;_。
 

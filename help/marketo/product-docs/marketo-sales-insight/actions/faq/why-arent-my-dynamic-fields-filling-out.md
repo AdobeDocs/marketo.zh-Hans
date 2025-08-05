@@ -3,9 +3,9 @@ description: 为什么我的动态字段没有填写？ - Marketo文档 — 产�
 title: 为什么我的动态字段没有填写？
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Sales Insight Actions中有三种类型的动态字段： Basic 、 Custom和Sal
 
 [!DNL Salesforce]字段：如`{{sfdc_account_name}}`
 
-* 确保正确地将其与Sales Insight Actions挂接。 转到[设置]&#x200B;(https://toutapp.com/login{target="_blank"}页面，然后单击CRM旁边的&#x200B;**管理**。
+* 确保正确地将其与Sales Insight Actions挂接。 转到[设置]&#x200B;(<https://toutapp.com/login{target="_blank"}>页面，然后单击CRM旁边的&#x200B;**管理**。
 
 **基本和自定义字段疑难解答**
 

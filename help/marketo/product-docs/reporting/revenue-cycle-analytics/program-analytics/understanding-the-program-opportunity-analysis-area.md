@@ -4,7 +4,7 @@ description: 了解项目机会分析区域 — Marketo文档 — 产品文档
 title: 了解计划机会分析领域
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -186,7 +186,7 @@ Marketo会适当地提供点数，而不会在项目间重复计算机会。 因
  </tbody>
 </table>
 
-*&#42;所有将任何类型的归因点数提供给项目的机会。 机会可能受一个或多个潜在客户以及一个或多个项目的影响。*
+_&#42;所有将任何类型的归因点数提供给项目的机会。 机会可能受一个或多个潜在客户以及一个或多个项目的影响。_
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: 自定义字段类型术语表 — Marketo文档 — 产品文档
 title: 自定义字段类型术语表
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '594'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 2%
 
 **示例名称：**&#x200B;备用电子邮件 — 为您的联系人保留备用电子邮件地址(实际上无法向此字段（如默认电子邮件地址字段，该字段是特殊字段）发送电子邮件)
 
-**示例值：** name@company.com
+**示例值：** <name@company.com>
 
 **运算符**： is、is、not、starts with、not starts with、contains、not contains、is empty，不为空
 
@@ -133,6 +133,6 @@ ht-degree: 2%
 
 **示例名称：**&#x200B;博客 — 创建字段以存储个人博客URL
 
-**示例值：** www.myblog.com
+**示例值：** &lt;www.myblog.com>
 
 **运算符**： is、is、not、starts with、not starts with、contains、not contains、is empty，不为空

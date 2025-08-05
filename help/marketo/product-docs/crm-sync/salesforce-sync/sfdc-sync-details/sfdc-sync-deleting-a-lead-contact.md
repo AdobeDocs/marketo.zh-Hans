@@ -4,7 +4,7 @@ description: SFDC同步 — 删除潜在客户/联系人 — Marketo文档 — �
 title: SFDC同步 — 删除潜在客户/联系人
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

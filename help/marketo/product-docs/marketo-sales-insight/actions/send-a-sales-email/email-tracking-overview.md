@@ -3,9 +3,9 @@ description: 电子邮件跟踪概述 — Marketo文档 — 产品文档
 title: 电子邮件跟踪概述
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 如果[!DNL Sales Connect]无法跟踪您的潜在客户对电子邮件的回复，它将无法基于回复检测停止营销活动或将该回复记录到Salesforce。 什么意思是任何电子邮件地址都可以回复？
 
-这意味着，如果您向flynn@flynnsarcade.com发送电子邮件，而他使用kevinf@flynnsarcade.com做出响应，则我们可以跟踪该响应。 此外，如果您发送电子邮件至flynn@flynnsarcade.com和CC alan@encom.com ，而Alan写回了您，它还将检测该回复并结束营销活动。
+这意味着，如果您向<flynn@flynnsarcade.com>发送电子邮件，而他通过<kevinf@flynnsarcade.com>进行回复，则我们可以跟踪该回复。 此外，如果您发送电子邮件<flynn@flynnsarcade.com>和抄送<alan@encom.com>，而Alan将您写回，则它还会检测回复并结束营销活动。
 
 ## 如何跟踪您的电子邮件附件 {#how-to-track-your-email-attachments}
 

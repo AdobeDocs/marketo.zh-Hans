@@ -4,9 +4,9 @@ short-description: 刚刚开始使用 Adobe Marketo Engage？了解深入之前�
 title: 设置步骤
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1664'
+source-wordcount: '1663'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 2%
 * **为您的域设置MX记录。** MX记录允许您接收发往您发送电子邮件的域的邮件，以处理回复和自动回复。 如果您从公司域发送，则可能已配置此域。 如果没有，您通常可以设置映射到企业域的MX记录。
 * **发件人地址的建议设置。**&#x200B;您必须在所有电子邮件营销活动的“发件人地址”中使用有效的、现有的和工作电子邮件域。 配置公司域的子域而不是从公司域发送可能很有用。 这将确保公司邮件流中的问题不会影响您的Marketo邮件流，反之亦然。 此外，发送来自`something@nonexistentdomain.com`的邮件将导致过滤或阻止电子邮件。 发件人的“发件人地址”中使用的任何域都必须具有有效且有效的邮递员@和滥用@帐户。
 
-如果您使用Google Apps托管公司电子邮件，则无法在您的域下创建滥用@或邮递员@电子邮件。 要解决此问题，您需要创建名为“虐待”和“邮递员”的组。 属于这些组成员的用户将收到发送到这些地址的电子邮件(例如，postmaster@domain.com)。 有关创建组的详细说明可在[此处](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}找到。
+如果您使用Google Apps托管公司电子邮件，则无法在您的域下创建滥用@或邮递员@电子邮件。 要解决此问题，您需要创建名为“虐待”和“邮递员”的组。 属于这些组成员的用户将收到发送到这些地址的电子邮件（例如，<postmaster@domain.com>）。 有关创建组的详细说明可在[此处](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}找到。
 
 为电子邮件跟踪链接选择一个CNAME（从您在步骤3中选择的登陆页面CNAME中选择一个&#x200B;_不同的_ CNAME）。 一些示例：
 
@@ -270,7 +270,7 @@ Marketo Engage具有自定义跟踪JavaScript（称为[!DNL Munchkin]），可�
 
 ## 性能期望 {#performance-expectations}
 
-从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，在[Marketo Engage产品描述](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中的多个表中，您可以期望的性能级别与“标准”列中列出的性能水平相当。 “性能”和“性能提升”列是指提供[更高性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的性能层包。
+从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，在[Marketo Engage产品描述](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中的多个表中，您可以期望的性能级别与“标准”列中列出的性能水平相当。 “性能”和“性能提升”列是指提供[更高性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的性能层包。
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: 模板14B - Marketo文档 — 产品文档
 title: 模板14B
 exl-id: 04ec95f6-a657-4cb4-96dd-a65ad3720441
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板14B {#template-14b}
 
-右键单击以[下载模板14B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html?lang=zh-Hans)
+右键单击以[下载模板14B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)
 
 ![](assets/image2015-8-11-15-3a42-3a35.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板14B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html?lang=zh-Hans)
+[模板14B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)

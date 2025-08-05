@@ -4,7 +4,7 @@ description: 了解期间成本 — Marketo文档 — 产品文档
 title: 了解期间成本
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >如果您花1000美元为7月启动的[!DNL eBook]聘请插图师 — [!DNL eBook]项目在7月的时间成本为1000美元。
 >
->如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3&rbrace;。_
+>如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3}。_
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/graph1.png)
 
-   ...之前和之后几个月添加的联系人将&#x200B;*仅*&#x200B;计为3月份。
+   ...之前和之后几个月添加的联系人将&#x200B;_仅_&#x200B;计为3月份。
 
    ![](assets/graph2.png)
 

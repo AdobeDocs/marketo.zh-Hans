@@ -4,7 +4,7 @@ description: 发行说明 — 2019年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年6月
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -55,8 +55,8 @@ ht-degree: 0%
 
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
-* 在[!DNL Salesforce]自定义项中执行&#x200B;**批量操作**：通过发送电子邮件和通过[!DNL Salesforce]自定义项将联系人批量添加到营销活动，最大限度地提高工作效率。
-* **设置 — “管理员和非管理员”的[!DNL Salesforce]页面**：通过与[!DNL Sales Connect]连接的[!DNL Salesforce]实例的清晰视图以及“我的电子邮件至[!DNL Salesforce]更新”来管理您的[!DNL Sales Connect]实例。 未来几个月将发布针对管理员、非管理员和团队范围同步的增强同步设置。
+* 在&#x200B;**自定义项中执行[!DNL Salesforce]批量操作**：通过发送电子邮件和通过[!DNL Salesforce]自定义项将联系人批量添加到营销活动，最大限度地提高工作效率。
+* **设置 — “管理员和非管理员”的[!DNL Salesforce]页面**：通过与[!DNL Sales Connect]连接的[!DNL Salesforce]实例的清晰视图以及“我的电子邮件至[!DNL Sales Connect]更新”来管理您的[!DNL Salesforce]实例。 未来几个月将发布针对管理员、非管理员和团队范围同步的增强同步设置。
 * **设置 — 集成页面**：针对您的所有集成提供一站式服务，以便您能够充分利用我们开放的生态系统。
 * **设置 — 配置文件页面**：查看并更新帐户详细信息，更改密码，并在此新的配置文件页面上检查实例的实施状态。
 
@@ -68,4 +68,4 @@ ht-degree: 0%
 * **漂移集成**：了解漂移对话如何影响客户的历程。 [!DNL Bizible]还将从对话中提取电子邮件地址，以创建新潜在客户或将接触点连接到现有潜在客户。
 * **本地化**： [!DNL Bizible]现在提供所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）版本。
 
-***产品发布网络研讨会***&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。
+_**产品发布网络研讨会**_&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。

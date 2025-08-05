@@ -4,7 +4,7 @@ description: 电子邮件模板语法 — Marketo文档 — 产品文档
 title: 电子邮件模板语法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 2%
@@ -230,7 +230,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 
 声明示例：
 
-`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1">`
 
 用法示例：
 

@@ -4,7 +4,7 @@ description: 最佳实践 — 如何整理程序 — Marketo文档 — 产品文
 title: 最佳实践 — 如何组织程序
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 2%
@@ -30,9 +30,9 @@ ht-degree: 2%
 >* 有效的营销计划
 >   * 电子邮件
 >   * 活动
->      * 现场活动/路演
->      * 贸易展
->      * 网络研讨会
+>     * 现场活动/路演
+>     * 贸易展
+>     * 网络研讨会
 >   * 快讯
 >   * 客户培养
 >   * Web内容
@@ -48,8 +48,8 @@ ht-degree: 2%
 >   * 销售请求的营销活动
 >* **存档**
 >   * 存档事件
->      * 存档2012
->      * 存档2013
+>     * 存档2012
+>     * 存档2013
 
 本示例中提到的每个内容都是一个文件夹。 请注意它们是如何唯一命名的。 可以在INSIDE程序中有重复（更简单的）文件夹名称，但不能在树的根目录下使用。
 

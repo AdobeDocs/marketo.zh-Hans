@@ -4,9 +4,9 @@ description: 将RTP与Google Analytics集成 — Marketo文档 — 产品文档
 title: 将RTP与Google Analytics集成
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ RTP B2B仪表板可帮助您根据垂直和RTP分段了解访客的细分情况�
 
 ## 使用Google Analytics设置RTP {#setting-up-rtp-with-google-analytics}
 
-1. 将电子邮件rtp.ga2@gmail.com作为读取和分析用户添加到您的GA帐户。 有关详细信息，请参阅[此处](https://support.google.com/analytics/answer/2884495?hl=en)。
+1. 将电子邮件<rtp.ga2@gmail.com>作为读取和分析用户添加到您的GA帐户。 有关详细信息，请参阅[此处](https://support.google.com/analytics/answer/2884495?hl=en)。
 
 1. 在您的RTP帐户中。 转到&#x200B;**[!UICONTROL Account Settings]**。
 

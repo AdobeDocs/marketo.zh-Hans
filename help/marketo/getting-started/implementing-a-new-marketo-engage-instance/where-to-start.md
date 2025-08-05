@@ -3,7 +3,7 @@ description: 了解实施新的Marketo Engage实例时的最佳实践。 跟踪�
 title: 从何处开始
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,4 +51,3 @@ ht-degree: 0%
 1. 单击&#x200B;**继续使用Adobe ID**，然后在登录页上选择您的主订阅。
 1. 登录后，填写您的社区个人资料。
 1. 提交信息后，即可进入社区主页，一切准备就绪！
-

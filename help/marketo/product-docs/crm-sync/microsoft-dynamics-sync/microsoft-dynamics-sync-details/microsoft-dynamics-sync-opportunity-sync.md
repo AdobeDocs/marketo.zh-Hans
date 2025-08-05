@@ -4,7 +4,7 @@ description: Microsoft Dynamics同步 — Opportunity同步 — Marketo文档 �
 title: Microsoft Dynamics同步 — 机会同步
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -36,6 +36,5 @@ Marketo到[!DNL Dynamics]的同步处理功能非常强大。 下面是机会同
    * 如果设置了联系人值并且帐户为空，则Marketo将创建一个`opportunitycontactrole`并将商机上的帐户设置为联系人的帐户。 如果联系人没有帐户，此字段将留空。
    * 如果设置了account值并且contact留空，则Marketo将只为该帐户设置商机上的帐户。
    * 如果同时设置了这两个值，则Dynamics会选择帐户作为customerid的值，因此其行为将与上面相同。
-
 
 * 通过利益干系人： Dynamics使用连接从机会创建页面将机会连接到利益干系人。 为此，我们将为每个新利益相关者创建一个`opportunitycontactrole`记录。

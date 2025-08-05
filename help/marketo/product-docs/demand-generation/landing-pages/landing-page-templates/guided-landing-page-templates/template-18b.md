@@ -4,7 +4,7 @@ description: 模板18B - Marketo文档 — 产品文档
 title: 模板18B
 exl-id: a0bb1104-a905-4285-895b-df515449db89
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板18B {#template-18b}
 
-右键单击以[下载模板18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html?lang=zh-Hans)
+右键单击以[下载模板18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
 
 ![](assets/image2015-8-17-18-3a6-3a30.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html?lang=zh-Hans)
+[模板18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)

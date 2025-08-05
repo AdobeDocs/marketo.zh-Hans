@@ -4,7 +4,7 @@ description: 添加 [!DNL Facebook] 自定义受众作为 [!DNL LaunchPoint] 服
 title: 将 [!DNL Facebook] 自定义受众添加为 [!DNL LaunchPoint] 服务
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 1%
@@ -45,7 +45,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您&#x200B;_必须_&#x200B;使用[!DNL Facebook] Business Manager帐户才能使您的自定义受众集成正常工作。 要了解如何设置Business Manager帐户，请参阅[[!DNL Facebook] 帮助](https://www.facebook.com/business/help/1710077379203657)。
+   >您&#x200B;*必须*&#x200B;使用[!DNL Facebook] Business Manager帐户才能使您的自定义受众集成正常工作。 要了解如何设置Business Manager帐户，请参阅[[!DNL Facebook] 帮助](https://www.facebook.com/business/help/1710077379203657)。
 
 1. 如果出现提示，请单击&#x200B;**[!UICONTROL OK]**&#x200B;接受Marketo应用程序安装到[!DNL Facebook]中。
 
