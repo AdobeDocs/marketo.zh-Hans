@@ -15,7 +15,7 @@ ht-degree: 0%
 
 在启用“收件人时区”的情况下计划电子邮件程序时，可能会出现以下两种情况：
 
-1. 正在安排程序在接下来的25小时内运行&#x200B;****
+1. 正在安排程序在接下来的25小时内运行&#x200B;**&#x200B;**
 1. 计划程序在未来25小时（即下周）内运行&#x200B;**个以上**
 
 ## 场景1:25小时内 {#scenario-within-hours}
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 **头开始**
 
-现在，让我们讨论[[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何与&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;一起使用。 我们现有的先发制人功能要求项目至少提前12小时计划。 那么这对收件人时区意味着什么？ 请记住，启用收件人时区后，我们将在最早时区(UTC +14:00)的计划时间开始运行电子邮件程序。 因此，要同时启用&#x200B;****&#x200B;开头和收件人时区，电子邮件程序需要在UTC +14 **的预定时间之前:00至少提前12小时计划。**
+现在，让我们讨论[[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何与&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;一起使用。 我们现有的先发制人功能要求项目至少提前12小时计划。 那么这对收件人时区意味着什么？ 请记住，启用收件人时区后，我们将在最早时区(UTC +14:00)的计划时间开始运行电子邮件程序。 因此，要同时启用&#x200B;**&#x200B;**&#x200B;开头和收件人时区，电子邮件程序需要在UTC +14 **的预定时间之前:00至少提前12小时计划。**
 
 这意味着如果您在美国/洛杉矶并且想要同时启用开头和收件人时区，则需要提前&#x200B;**34小时**&#x200B;计划该计划。 我们怎么找到这个号码的？
 
