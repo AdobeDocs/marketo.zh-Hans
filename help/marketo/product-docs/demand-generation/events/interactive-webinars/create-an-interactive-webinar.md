@@ -3,9 +3,9 @@ description: 创建交互式网络研讨会 — Marketo文档 — 产品文档
 title: 创建交互式网络研讨会
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -65,11 +65,3 @@ ht-degree: 0%
 >建议将两个连续事件相隔30分钟（除非许可证支持并行网络研讨会）作为缓冲，以防上次网络研讨会超出其计划时间。
 
 现在，是时候[设计您的网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}了。
-
->[!IMPORTANT]
->
->强烈建议您先设计网络研讨会&#x200B;_，然后再添加演示者或联合主机_。
-
->[!MORELIKETHIS]
->
->[了解如何添加演示者和/或共同主机](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

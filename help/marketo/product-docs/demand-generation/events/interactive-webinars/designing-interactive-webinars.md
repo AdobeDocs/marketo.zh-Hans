@@ -3,9 +3,9 @@ description: 设计交互式网络研讨会 — Marketo文档 — 产品文档
 title: 设计交互式网络研讨会
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -75,3 +75,7 @@ ht-degree: 0%
 **布局**：指为确保网络研讨会成功而需要的多个组件在特定模板中进行安排的各种方式。 单个模板可以有多个布局供您选择。 网络研讨会的主要内容在各模板上保持不变。 您选择的安排最适合您或网络研讨会演示者的风格/需求。
 
 **Pod**：在网络研讨会期间执行特定活动的模板中的组件。 例如，设置和投放投票，以在一个可由投票面板完成的活动中捕获参与者的响应。 同样，与参与者聊天以传达消息或者与其随意互动也可以是通过聊天面板传递的活动。 提供了多个其他Pod，例如“共享”、“注释”、“视频”、“聊天”、“与会者列表”、“文件”、“Web链接”、“投票”以及“问答”。
+
+>[!MORELIKETHIS]
+>
+>[了解如何添加演示者和/或共同主机](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
