@@ -3,9 +3,9 @@ description: 添加网络研讨会团队 — Marketo文档 — 产品文档
 title: 添加网络研讨会团队
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # 添加网络研讨会团队 {#add-a-webinar-team}
 
 交互式网络研讨会中的网络研讨会团队包含所有有助于在Adobe Connect中成功举办网络研讨会的角色。 这包括演示者和联合主机。
-
->[!IMPORTANT]
->
->强烈建议您[设计网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} __&#x200B;之前，添加演示者或联合主持人。
 
 >[!NOTE]
 >
@@ -52,6 +48,10 @@ ht-degree: 0%
 
    ![](assets/add-a-webinar-team-4.png)
 
+>[!NOTE]
+>
+> ![复制共同主持人URL图标](assets/icon-copy-join-url.png)复制共同主持人加入URL，而![发送共同主持人邀请电子邮件](assets/icon-send-invitation-email.png)图标发送共同主持人邀请电子邮件。
+
 ## 添加演示者 {#add-a-presenter}
 
 1. 在交互式网络研讨会的“概述”页面中，单击&#x200B;**添加演示者**。
@@ -70,9 +70,9 @@ ht-degree: 0%
 
    ![](assets/add-a-webinar-team-7.png)
 
->[!TIP]
+>[!NOTE]
 >
->添加网络研讨会团队后，您可以单击每个用户旁边的复制图标以复制（然后共享）其加入URL。
+> ![复制演示者URL图标](assets/icon-copy-join-url.png)复制演示者加入URL，而![向演示者发送邀请电子邮件](assets/icon-send-invitation-email.png)图标向演示者发送邀请电子邮件。
 
 >[!MORELIKETHIS]
 >
