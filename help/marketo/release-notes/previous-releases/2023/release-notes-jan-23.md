@@ -89,7 +89,7 @@ ht-degree: 8%
   </tr>
   <tr>
    <td>已发货</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=zh-Hans">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

@@ -99,7 +99,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可以将属性从Experience Platform映射到您的组织在Marketo Engage中有权访问的任何属性。 使用[Describe API请求](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}检索您的组织有权访问的属性字段。
+   >您可以将属性从Experience Platform映射到您的组织在Marketo Engage中有权访问的任何属性。 使用[Describe API请求](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}检索您的组织有权访问的属性字段。
 
 1. 通过再次单击&#x200B;**[!UICONTROL Add New Mapping]**&#x200B;并重复步骤15两次，依次选择&#x200B;**[!UICONTROL lastName]**&#x200B;和&#x200B;**[!UICONTROL companyName]**&#x200B;来映射姓氏和公司名称。
 

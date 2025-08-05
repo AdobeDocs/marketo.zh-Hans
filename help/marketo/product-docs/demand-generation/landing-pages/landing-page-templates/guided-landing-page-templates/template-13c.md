@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板13C {#template-13c}
 
-右键单击以[下载模板13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+右键单击以[下载模板13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=zh-Hans)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=zh-Hans)

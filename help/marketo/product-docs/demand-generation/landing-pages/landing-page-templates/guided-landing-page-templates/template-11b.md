@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板11B {#template-11b}
 
-右键单击以[下载模板11B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
+右键单击以[下载模板11B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html?lang=zh-Hans)
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板11B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
+[模板11B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html?lang=zh-Hans)

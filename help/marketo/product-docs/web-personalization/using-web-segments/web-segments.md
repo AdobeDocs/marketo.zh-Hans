@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->命名帐户列表名称旁边方括号中的数字被用作Web Personalization [读取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)列表的索引引用。
+>命名帐户列表名称旁边方括号中的数字被用作Web Personalization [读取API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/web-personalization)列表的索引引用。
 
 **排除ISP**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **用户上下文API**
 
-Web Personalization API调用[在此处阅读更多相关信息。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Web Personalization API调用[在此处阅读更多相关信息。](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

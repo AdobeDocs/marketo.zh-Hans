@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板6D {#template-6d}
 
-右键单击以[下载模板6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+右键单击以[下载模板6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html?lang=zh-Hans)
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+[模板6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html?lang=zh-Hans)
