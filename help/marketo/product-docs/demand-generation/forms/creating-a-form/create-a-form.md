@@ -4,20 +4,20 @@ description: 创建表单 — Marketo文档 — 产品文档
 title: 创建表单
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 1%
 
 ---
 
 # 创建表单 {#create-a-form}
 
-在登陆页面上创建并使用表单来生成新名称。 这非常简单 — 下面是开始操作的方法。
+在登陆页面上创建并使用表单来生成新名称或捕获所需数据。
 
 >[!NOTE]
 >
->了解Marketo为[保护表单安全](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)所做的工作。
+>了解Marketo Engage为[保护表单安全](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)所做的工作。
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->大多数客户会为每个登陆页面创建一个新表单，但您也可以创建一个表单以用于多个登陆页面。 完全由您决定！
-
-真贴心！ 现在，表单已创建完毕，让我们将其整理一下。
+>大多数用户会为每个登陆页面创建一个新表单，但您也可以创建一个表单以用于多个登陆页面。 完全由您决定！
 
 >[!MORELIKETHIS]
 >
