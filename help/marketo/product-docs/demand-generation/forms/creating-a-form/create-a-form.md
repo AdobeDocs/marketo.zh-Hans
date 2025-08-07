@@ -4,9 +4,9 @@ description: 创建表单 — Marketo文档 — 产品文档
 title: 创建表单
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
+source-git-commit: f27b520544583b9511428b0bc3a41cc1527cc332
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '98'
 ht-degree: 1%
 
 ---
@@ -21,23 +21,19 @@ ht-degree: 1%
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-form-1.png)
 
-1. 查找并选择您的&#x200B;**程序**。
+1. 找到所需的程序。 右键单击并选择&#x200B;**[!UICONTROL New Local Asset]**。
 
-   ![](assets/programseelct.png)
-
-1. 在&#x200B;**[!UICONTROL New]**&#x200B;下，单击&#x200B;**[!UICONTROL New Local Asset]**。
-
-   ![](assets/newlocalasset.png)
+   ![](assets/create-a-form-2.png)
 
 1. 选择 **[!UICONTROL Form]**。
 
-   ![](assets/image2014-9-15-17-3a1-3a20.png)
+   ![](assets/create-a-form-3.png)
 
 1. 输入表单&#x200B;**[!UICONTROL Name]**&#x200B;并单击&#x200B;**[!UICONTROL Create]**。
 
-   ![](assets/newformwithhands.png)
+   ![](assets/create-a-form-4.png)
 
 >[!TIP]
 >
