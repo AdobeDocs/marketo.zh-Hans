@@ -18,8 +18,8 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >请更新到[!DNL Sales Connect]包的最新版本，并在潜在客户/联系人视图上安装批量操作按钮。
->* [英文说明](assets/SF+Guide+for+Lightning-EN)
->* [日语说明](assets/SF+Guide+for+Lightning-JA)
+>* [英文说明] (assets/SF+Guide+for+Lightning-EN)
+>* [日语说明] (assets/SF+Guide+for+Lightning-JA)
 
 >[!NOTE]
 >
