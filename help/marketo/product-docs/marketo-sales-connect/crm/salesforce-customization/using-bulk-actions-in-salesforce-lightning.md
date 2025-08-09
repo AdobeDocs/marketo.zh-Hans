@@ -18,9 +18,9 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >请更新到[!DNL Sales Connect]包的最新版本，并在潜在客户/联系人视图上安装批量操作按钮。
->* [英文说明](assets/SF+Guide+for+Lightning-EN)
->* [日语、韩语、中文说明](assets/SF+Guide+for+Lightning-JA-KO-ZH)
->* [西班牙语、法语、德语、意大利语、瑞典语说明](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
+>* [英文说明] (assets/SF+Guide+for+Lightning-EN)
+>* [日语、韩语、中文说明] (assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [西班牙语、法语、德语、意大利语、瑞典语说明] (assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
