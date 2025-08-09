@@ -4,9 +4,9 @@ description: 在Salesforce Lightning - Marketo文档中使用批量操作 — �
 title: 在Salesforce Lightning中使用批量操作
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fad80e8dccbad19b76570ee49fd8e7def0103fb1
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->请更新到[!DNL Sales Connect]包的最新版本，并在潜在客户/联系人视图上安装批量操作按钮。 [单击此处获取说明](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)。
+>请更新到[!DNL Sales Connect]包的最新版本，并在潜在客户/联系人视图上安装批量操作按钮。
+>* [英文说明](assets/SF+Guide+for+Lightning-EN)
+>* [日语、韩语、中文说明](assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [西班牙语、法语、德语、意大利语、瑞典语说明](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
