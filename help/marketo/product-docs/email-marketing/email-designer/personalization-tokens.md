@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 主要用例 {#primary-use-case}
 
-此增强功能主要使那些从[Velocity脚本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}转换到Handlebar脚本的用户受益。 新的电子邮件设计工具仅支持新的令牌格式。 更新的格式消除了空格并引入了修订的默认文本结构，从而确保更顺畅、更有效的脚本编写体验。
+此增强功能主要使那些从[Velocity脚本](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting){target="_blank"}转换到Handlebar脚本的用户受益。 新的电子邮件设计工具仅支持新的令牌格式。 更新的格式消除了空格并引入了修订的默认文本结构，从而确保更顺畅、更有效的脚本编写体验。
 
 ## 令牌体验 {#token-experience}
 
