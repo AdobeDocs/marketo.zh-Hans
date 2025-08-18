@@ -1,26 +1,26 @@
 ---
-description: 图标术语表 — Marketo Engage文档 — 产品文档
+description: 图标术语表 – Marketo Engage 文档 – 产品文档
 title: 图标术语表
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '242'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-# Marketo Engage图标术语表 {#icon-glossary}
+# Marketo Engage 图标术语表 {#icon-glossary}
 
-以下是当前Adobe Marketo Engage界面的图标。 如果您需要引用Marketo Classic图标，可以[在此找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)。
+以下为当前 Adobe Marketo Engage 界面所使用的图标。如需参考 Marketo 经典版本的图标，可在[此处查看](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)。
 
-## 常规图标 {#general-icons}
+## 通用图标 {#general-icons}
 
 <table>
  <tbody>
   <tr>
-   <th style="width:25%">旧图标</th>
-   <th style="width:25%">新建图标</th>
+   <th style="width:25%">旧版图标</th>
+   <th style="width:25%">新版图标</th>
    <th style="width:50%">描述</th>
   </tr>
   <tr>
@@ -31,17 +31,17 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
    <td><img src="assets/batch-active.png"></td>
-   <td>批次营销活动 — 活动</td>
+   <td>批量活动 – 启用</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td>
    <td><img src="assets/batch-inactive.png"></td>
-   <td>批次营销活动 — 不活动</td>
+   <td>批量活动 – 停用</td>
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td>
    <td><img src="assets/default-program.png"></td>
-   <td>默认程序</td>
+   <td>默认项目</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email.png"></td>
@@ -51,7 +51,7 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
    <td><img src="assets/email-program.png"></td>
-   <td>电子邮件程序</td>
+   <td>电子邮件项目</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-template.png"></td>
@@ -61,17 +61,17 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-engagement-program.png"></td>
    <td><img src="assets/engagement-program.png"></td>
-   <td>参与计划</td>
+   <td>互动项目</td>
   </tr>
   <tr>
    <td><img src="assets/classic-event-program.png"></td>
    <td><img src="assets/event-program.png"></td>
-   <td>活动计划</td>
+   <td>活动项目</td>
   </tr>
   <tr>
    <td><img src="assets/classic-executable-campaign.png"></td>
    <td><img src="assets/executable-campaign.png"></td>
-   <td>可执行的营销活动</td>
+   <td>可执行活动</td>
   </tr>
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td>
@@ -81,12 +81,12 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-filter.png"></td>
    <td><img src="assets/filter.png"></td>
-   <td>筛选条件</td>
+   <td>过滤器</td>
   </tr>
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/filter-active.png"></td>
-   <td>筛选器 — 活动</td>
+   <td>过滤器 – 启用</td>
   </tr>
   <tr>
    <td><img src="assets/classic-folder.png"></td>
@@ -96,17 +96,17 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-archive-folder.png"></td>
    <td><img src="assets/folder-archive.png"></td>
-   <td>文件夹 — 已存档</td>
+   <td>文件夹 - 已归档</td>
   </tr>
   <tr>
    <td><img src="assets/classic-shared-folder.png"></td>
    <td><img src="assets/folder-shared.png"></td>
-   <td>文件夹 — 已共享</td>
+   <td>文件夹 - 已共享</td>
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td>
    <td><img src="assets/folder-locked.png"></td>
-   <td>文件夹 — 已锁定</td>
+   <td>文件夹 - 已锁定</td>
   </tr>
   <tr>
    <td><img src="assets/classic-form.png"></td>
@@ -116,7 +116,7 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-images-and-files.png"></td>
    <td><img src="assets/images.png"></td>
-   <td>图像（和文件）</td>
+   <td>图像（与文件）</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-messages.png"></td>
@@ -126,7 +126,7 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-in-app-program.png"></td>
    <td><img src="assets/in-app-program.png"></td>
-   <td>应用程序内程序</td>
+   <td>应用程序内项目</td>
   </tr>
   <tr>
    <td><img src="assets/classic-landing-page.png"></td>
@@ -176,22 +176,22 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-smart-list.png"></td>
    <td><img src="assets/smart-list.png"></td>
-   <td>Smart List</td>
+   <td>智能列表</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td>
    <td><img src="assets/smart-list-cached.png"></td>
-   <td>智能列表 — 已缓存</td>
+   <td>智能列表 – 已缓存</td>
   </tr>
   <tr>
    <td><img src="assets/classic-sms-message.png"></td>
    <td><img src="assets/sms-message.png"></td>
-   <td>SMS消息</td>
+   <td>短信消息</td>
   </tr>
   <tr>
    <td><img src="assets/classic-snippet.png"></td>
    <td><img src="assets/snippets.png"></td>
-   <td>片段</td>
+   <td>代码段</td>
   </tr>
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
@@ -216,12 +216,12 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/trigger-active.png"></td>
-   <td>触发器 — 活动</td>
+   <td>触发器 – 启用</td>
   </tr>
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
-   <td>触发器 — 不活动</td>
+   <td>触发器 – 停用</td>
   </tr>
   <tr>
    <td><img src="assets/classic-workspace.png"></td>
@@ -231,24 +231,24 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-youtube.png"></td>
    <td><img src="assets/youtube.png"></td>
-   <td>YouTube视频</td>
+   <td>YouTube 视频</td>
   </tr>
  </tbody>
 </table>
 
-## 批量营销活动 {#batch-campaigns}
+## 批量活动 {#batch-campaigns}
 
 <table>
  <tbody>
   <tr>
-   <th style="width:25%">旧图标</th>
-   <th style="width:25%"> 新建图标</th>
+   <th style="width:25%">旧版图标</th>
+   <th style="width:25%"> 新版图标</th>
    <th style="width:50%">描述</th>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/has-run-no-upcoming.png"></td>
-   <td>已运行，没有即将运行</td>
+   <td>已运行，无后续任务</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
@@ -258,12 +258,12 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>从不运行</td>
+   <td>从未运行</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/running-in-wait-step.png"></td>
-   <td>正在运行，在等待步骤中</td>
+   <td>运行中，处于等待步骤</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled.png"></td>
@@ -278,34 +278,34 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td>
    <td><img src="assets/used-by-nurture.png"></td>
-   <td>由Nurture使用</td>
+   <td>由培养计划使用</td>
   </tr>
  </tbody>
 </table>
 
-## 触发营销活动 {#trigger-campaigns}
+## 触发型活动 {#trigger-campaigns}
 
 <table>
  <tbody>
   <tr>
-   <th style="width:25%">旧图标</th>
-   <th style="width:25%"> 新建图标</th>
+   <th style="width:25%">旧版图标</th>
+   <th style="width:25%"> 新版图标</th>
    <th style="width:50%">描述</th>
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/active.png"></td>
-   <td>活动</td>
+   <td>启用</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-is-requested.png"></td>
    <td><img src="assets/is-requested.png"></td>
-   <td>已请求</td>
+   <td>已被请求</td>
   </tr>
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/inactive.png"></td>
-   <td>不活跃</td>
+   <td>停用</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
@@ -315,13 +315,13 @@ ht-degree: 33%
  </tbody>
 </table>
 
-## 电子邮件程序 {#email-programs}
+## 电子邮件项目 {#email-programs}
 
 <table>
  <tbody>
   <tr>
-   <th style="width:25%">旧图标</th>
-   <th style="width:25%"> 新建图标</th>
+   <th style="width:25%">旧版图标</th>
+   <th style="width:25%"> 新版图标</th>
    <th style="width:50%">描述</th>
   </tr>
   <tr>
@@ -342,18 +342,18 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-email-program-scheduled.png"></td>
    <td><img src="assets/scheduled.png"></td>
-   <td>已安排</td>
+   <td>已计划</td>
   </tr>
  </tbody>
 </table>
 
-## 参与计划 {#engagement-programs}
+## 互动项目 {#engagement-programs}
 
 <table>
  <tbody>
   <tr>
-   <th style="width:25%">旧图标</th>
-   <th style="width:25%"> 新建图标</th>
+   <th style="width:25%">旧版图标</th>
+   <th style="width:25%"> 新版图标</th>
    <th style="width:50%">描述</th>
   </tr>
   <tr>
@@ -364,18 +364,18 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-engagement-program-on.png"></td>
    <td><img src="assets/on.png"></td>
-   <td>已开启</td>
+   <td>开启</td>
   </tr>
  </tbody>
 </table>
 
-## 应用内程序 {#in-app-programs}
+## 应用内项目 {#in-app-programs}
 
 <table>
  <tbody>
   <tr>
-   <th style="width:25%">旧图标</th>
-   <th style="width:25%"> 新建图标</th>
+   <th style="width:25%">旧版图标</th>
+   <th style="width:25%"> 新版图标</th>
    <th style="width:50%">描述</th>
   </tr>
   <tr>
@@ -396,7 +396,7 @@ ht-degree: 33%
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
-   <td>已安排</td>
+   <td>已计划</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-stopped.png"></td>
@@ -411,8 +411,8 @@ ht-degree: 33%
 <table>
  <tbody>
   <tr>
-   <th style="width:25%">旧图标</th>
-   <th style="width:25%"> 新建图标</th>
+   <th style="width:25%">旧版图标</th>
+   <th style="width:25%"> 新版图标</th>
    <th style="width:50%">描述</th>
   </tr>
   <tr>
@@ -428,7 +428,7 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-email-approved-with-draft.png"></td>
    <td><img src="assets/approved-with-draft.png"></td>
-   <td>已与草稿批准</td>
+   <td>已批准并附草稿</td>
   </tr>
  </tbody>
 </table>
@@ -438,24 +438,24 @@ ht-degree: 33%
 <table>
  <tbody>
   <tr>
-   <th style="width:25%">旧图标</th>
-   <th style="width:25%"> 新建图标</th>
+   <th style="width:25%">旧版图标</th>
+   <th style="width:25%"> 新版图标</th>
    <th style="width:50%">描述</th>
   </tr>
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
-   <td>已批准 — 正在计算中</td>
+   <td>已批准 – 计算中</td>
   </tr>
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
-   <td>已批准 — 正在重新计算</td>
+   <td>已批准 – 重新计算中</td>
   </tr>
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
-   <td>草稿 — 正在计算中</td>
+   <td>草稿 – 计算中</td>
   </tr>
  </tbody>
 </table>

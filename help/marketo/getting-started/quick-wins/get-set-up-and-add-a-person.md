@@ -1,73 +1,73 @@
 ---
 unique-page-id: 2359351
-description: 设置并添加人员 — Marketo文档 — 产品文档
-title: 设置并添加人员
+description: 完成设置并添加人员 – Marketo 文档 – 产品文档
+title: 完成设置并添加人员
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 设置并添加人员 {#get-set-up-and-add-a-person}
+# 完成设置并添加人员 {#get-set-up-and-add-a-person}
 
-在开始执行任务之前，有几件事要做。
+在开始任务之前，您需要先完成以下几步操作。
 
-## 步骤1：登录Marketo Engage {#step-log-in-to-marketo}
+## 步骤 1：登录 Marketo Engage {#step-log-in-to-marketo}
 
-1. [使用通过电子邮件收到的凭据登录Marketo Engage](https://app.marketo.com){target="_blank"}。
+1. 使用您通过电子邮件收到的凭据[登录 Marketo Engage](https://app.marketo.com){target="_blank"}。
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
-## 第2步：创建学习文件夹 {#step-create-a-learning-folder}
+## 步骤 2：创建学习文件夹 {#step-create-a-learning-folder}
 
-让我们创建一个文件夹，其中包含您将在任务中进行的所有操作。
+让我们创建一个文件夹，用于存放您在任务中创建的所有内容。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL New Campaign Folder]**。
+1. 点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL New Campaign Folder]**。
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. 将文件夹命名为“学习”并单击&#x200B;**[!UICONTROL Create]**。
+1. 将文件夹命名为“学习”，然后单击 **[!UICONTROL Create]**。
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
-1. 您将在左侧菜单中看到新的学习文件夹。
+1. 您将在左侧菜单中看到新建的“学习”文件夹。
 
    ![](assets/get-set-up-and-add-a-person-5.png)
 
-## 步骤3：将您自己添加为人员 {#step-add-yourself-as-a-person}
+## 步骤 3：将自己添加为人员 {#step-add-yourself-as-a-person}
 
-将您自己添加为Marketo中的人员，以便稍后可以向您自己发送测试电子邮件。
+在 Marketo 中将自己添加为人员，以便后续可以向自己发送测试电子邮件。
 
-1. 转到&#x200B;**[!UICONTROL Database]**&#x200B;区域。
+1. 进入 **[!UICONTROL Database]** 区域。
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL New Person]**。
+1. 点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL New Person]**。
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. 键入您的名字和姓氏、电子邮件地址和公司名称，然后单击&#x200B;**[!UICONTROL Create]**&#x200B;以将您自己添加为人员。
+1. 输入您的名字和姓氏、电子邮件地址以及公司名称，然后单击 **[!UICONTROL Create]** 将自己添加为人员。
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 
    >[!CAUTION]
    >
-   >* 确保电子邮件地址仅包含ASCII字符。
+   >* 请确保电子邮件地址仅包含 ASCII 字符。
    >
    >* Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
 
-1. 要查看您的联系人，请在左侧菜单中打开您的[!UICONTROL System Smart Lists]，然后单击&#x200B;**[!UICONTROL All People]**。
+1. 要查看您的人员，请在左侧菜单中打开 [!UICONTROL System Smart Lists] ，然后点击 **[!UICONTROL All People]**。
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. 单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡。 您应该可以在数据库中看到自己。
+1. 单击 **[!UICONTROL People]** 选项卡。您应能在数据库中看到自己。
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 
@@ -77,4 +77,4 @@ ht-degree: 0%
 
 <br> 
 
-[任务1：发送电子邮件爆料►](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[任务 1：群发电子邮件 ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
