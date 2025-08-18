@@ -1,16 +1,16 @@
 ---
 unique-page-id: 557078
-description: Demand Generation - Marketo文档 — 产品文档
-title: 需求生成
+description: 需求开发 - Marketo 文档 - 产品文档
+title: 需求开发
 source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 35%
 
 ---
 
 
-# 需求生成 {#demand-generation}
+# 需求开发 {#demand-generation}
 
-收集新名称对于构建营销漏斗至关重要。 使用自定义表单和社交构件创建特定事件的登陆页面。 这很容易。
-**![Forms](assets/documents-bookmarks-16.png)Forms** [适用于您的登陆页面或公共网站的Forms自定义表单。](https://docs.marketo.com/display/DOCS/Forms)     **![图像和文件](assets/graphic-design-tools-06.png)图像和文件** [图像和文件在Marketo中托管您的图像，并将它们拖放到电子邮件和登陆页中。](https://docs.marketo.com/display/DOCS/Images+and+Files)     **![登陆页面](assets/office-artboard-80.png)登陆页面** [登陆页面使用我们的WYSIWYG编辑器，为各种目的制作大量的登陆页面。](https://docs.marketo.com/pages/viewpage.action?pageId=2359689)     **![Social](assets/chat-messages-18.png)Social** [Social超过共享按钮！ 尝试抽奖或推荐计划。](https://docs.marketo.com/display/DOCS/Social)     **![活动](assets/party-10.png)活动** [活动网络研讨会、研讨会、派对。 全都受支持。](https://docs.marketo.com/pages/viewpage.action?pageId=2949755)     **![Facebook](assets/facebook-icon.png)Facebook** [Facebook与Marketo是强大的组合。](https://docs.marketo.com/display/DOCS/Facebook)     **![广告网络集成](assets/facebook-icon.png)广告网络集成** [广告网络集成广告网络集成建立连接！](https://docs.marketo.com/display/DOCS/Ad+Network+Integrations)
+获取新的潜在客户名称是构建营销漏斗的关键。可为特定活动创建包含自定义表单和社交小组件的登录页面。一切都很简单。
+**![Forms](assets/documents-bookmarks-16.png)Forms** [适用于您的登陆页面或公共网站的Forms自定义表单。](https://docs.marketo.com/display/DOCS/Forms)     **![图像和文件](assets/graphic-design-tools-06.png)图像和文件** [图像和文件在Marketo中托管您的图像，并将它们拖放到电子邮件和登陆页中。](https://docs.marketo.com/display/DOCS/Images+and+Files)     **![登陆页面](assets/office-artboard-80.png)登陆页面** [登陆页面使用我们的WYSIWYG编辑器，为各种目的制作大量的登陆页面。](https://docs.marketo.com/pages/viewpage.action?pageId=2359689)     **![Social](assets/chat-messages-18.png)Social** [Social超过共享按钮！ 还可尝试抽奖或推荐计划。](https://docs.marketo.com/display/DOCS/Social)     **![活动](assets/party-10.png)活动** [活动网络研讨会、研讨会、派对。 均可支持。](https://docs.marketo.com/pages/viewpage.action?pageId=2949755)     **![Facebook](assets/facebook-icon.png)Facebook** [Facebook与Marketo是强大的组合。](https://docs.marketo.com/display/DOCS/Facebook)     **![广告网络集成](assets/facebook-icon.png)广告网络集成** [广告网络集成广告网络集成建立连接！](https://docs.marketo.com/display/DOCS/Ad+Network+Integrations)
