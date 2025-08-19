@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
+source-git-commit: c4fe9a5048c8c0a750d186edde1557cd082e73e4
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 46%
+source-wordcount: '575'
+ht-degree: 41%
 
 ---
 
@@ -87,6 +87,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    * _IP限制弃用_：对[基于IP限制Marketo登录的支持](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}已于2025年7月30日结束。 该功能将在过渡到 Adobe Identity 完成前保持可用。Adobe Admin Console中针对Adobe Identity的基于位置的新访问控制功能即将推出。
 
    * _单点登录(SSO)弃用_：对[Marketo标识SSO](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支持已于2025年7月30日结束。 该功能将在过渡到 Adobe Identity 完成前保持可用。在 Adobe Admin Console 中为 Adobe Identity 配置单点登录需单独进行。有关设置步骤，请参阅[设置身份标识和单点登录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
+
+* **弃用&#x200B;_转发给Friend_功能**：2025年9月29日，Marketo Engage 2.0电子邮件（旧版电子邮件编辑器）中的&#x200B;_转发给Friend_&#x200B;功能将完全对所有订阅弃用。 这会影响已发送或将使用该令牌发送的电子邮件中的“转发给朋友”令牌和“转发给朋友”链接。 [了解详情](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
 * **REST API ‘access_token’ 参数弃用**：用于验证 Marketo REST API 调用的 `access_token` 查询参数将被弃用，并将在 2025 年 10 月 31 日之后不可用。所有新建及现有集成都应使用 &#39;Authorization&#39; 标头验证 REST API 调用，[详细说明请参阅此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
