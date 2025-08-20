@@ -3,16 +3,16 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c4fe9a5048c8c0a750d186edde1557cd082e73e4
+source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
 workflow-type: tm+mt
 source-wordcount: '575'
-ht-degree: 41%
+ht-degree: 89%
 
 ---
 
 # 发行说明：2025 年 8 月 {#release-notes-aug-25}
 
-在下方，您会找到2025年8月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
+以下是 2025 年 8 月版本中包含的所有功能。请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
@@ -22,7 +22,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2025年8月22日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
+以下功能属于标准发布周期，将于 **2025 年 8 月 22 日**&#x200B;开始发布，并在接下来的数周内分阶段推出其余功能。功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,7 +32,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer — 报表</strong>：电子邮件性能和电子邮件链接性能报表现在显示使用新电子邮件Designer创建的电子邮件中的数据。</td>
+   <td><strong>电子邮件设计器 - 报告</strong>：电子邮件性能和电子邮件链接性能报告现在显示使用新的电子邮件设计器创建的电子邮件的数据。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -42,51 +42,51 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer — 电子邮件预览优化</strong>：某些用户尝试在电子邮件/电子邮件模板/片段详细信息页面中预览其电子邮件时，加载时间较慢。 此体验已经过优化，加载时间最多可缩短60%。</td>
-   <td><i>即将推出</i></td>
-   <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件Designer — 模板修复</strong>：一些现成的模板存在渲染问题(例如，在某些浏览器/深色模式下无法正确渲染、图像未对齐、CTA按钮放置错误等)。 这些功能在此版本中均已修复。</td>
-   <td><i>即将推出</i></td>
-   <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件Designer — 内容锁定修复</strong>：以前，如果创建了包含内容锁定的电子邮件模板，并且该模板用于创建电子邮件，则即使重置了电子邮件或选择了“更改设计”，内容锁定也会持续存在。 此版本中已修复此问题。</td>
-   <td><i>即将推出</i></td>
-   <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件Designer — 自动完成删除</strong>：令牌个性化编辑器中的自动完成选项指向错误对象，已被删除。 目前没有计划重新实施它。</td>
+   <td><strong>电子邮件设计器 - 移除自动完成功能</strong>：令牌个性化编辑器中的自动完成选项指向错误的对象，已被移除。目前没有重新实施此功能的计划。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
- </tbody>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件设计器 - 电子邮件预览优化</strong>：有些用户在尝试在电子邮件/电子邮件模板/片段详细信息页面中预览电子邮件时遇到加载缓慢的问题。优化了此体验，加载速度可提高 60%。</td>
+   <td><i>即将推出</i></td>
+   <td>不适用</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件设计器 - 模板修复</strong>：一些开箱即用的模板存在渲染问题（例如，在特定的浏览器/深色模式下无法正确渲染、图像未对齐、CTA 按钮位置错误及其他一些问题）。此版本已修复所有这些问题。</td>
+   <td><i>即将推出</i></td>
+   <td>不适用</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件设计器 - 内容锁定修复</strong>：以前，如果在内容锁定的情况下创建电子邮件模板，并将该模板用于创建电子邮件，则即使重置电子邮件或选择“更改设计”，内容仍会一直锁定。此问题已在此版本中修复。</td>
+   <td><i>即将推出</i></td>
+   <td>不适用</td>
+  </tr>
+  </tbody>
 </table>
 <br/>
 
 ## 公告 {#announcements}
 
-* **Marketo Engage标识生命周期结束**： 2025年8月，Adobe开始逐步停止对Marketo Engage标识的支持（通过`login.marketo.com`登录）。 为避免对 Marketo Engage 的访问中断，您必须在 2025 年 9 月 30 日前切换至 [Adobe Identity](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
+* **Marketo Engage Identity 结束**：自 2025 年 8 月起，Adobe 开始逐步停止对 Marketo Engage Identity（通过 `login.marketo.com` 登录）的支持。为避免对 Marketo Engage 的访问中断，您必须在 2025 年 9 月 30 日前切换至 [Adobe Identity](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 
-   * _IP限制弃用_：对[基于IP限制Marketo登录的支持](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}已于2025年7月30日结束。 该功能将在过渡到 Adobe Identity 完成前保持可用。Adobe Admin Console中针对Adobe Identity的基于位置的新访问控制功能即将推出。
+   * _弃用 IP 限制功能_：对[基于 IP 限制 Marketo 登录](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}的支持已于 2025 年 7 月 30 日结束。该功能将在过渡到 Adobe Identity 完成前保持可用。Adobe Admin Console 中 Adobe Identity 的基于位置的全新访问控制功能即将推出。
 
-   * _单点登录(SSO)弃用_：对[Marketo标识SSO](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支持已于2025年7月30日结束。 该功能将在过渡到 Adobe Identity 完成前保持可用。在 Adobe Admin Console 中为 Adobe Identity 配置单点登录需单独进行。有关设置步骤，请参阅[设置身份标识和单点登录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
+   * _弃用单点登录（SSO）_：对 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} 的支持已于 2025 年 7 月 30 日结束。该功能将在过渡到 Adobe Identity 完成前保持可用。在 Adobe Admin Console 中为 Adobe Identity 配置单点登录需单独进行。有关设置步骤，请参阅[设置身份标识和单点登录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
 * **弃用&#x200B;_转发给Friend_功能**：2025年9月29日，Marketo Engage 2.0电子邮件（旧版电子邮件编辑器）中的&#x200B;_转发给Friend_&#x200B;功能将完全对所有订阅弃用。 这会影响已发送或将使用该令牌发送的电子邮件中的“转发给朋友”令牌和“转发给朋友”链接。 [了解详情](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 

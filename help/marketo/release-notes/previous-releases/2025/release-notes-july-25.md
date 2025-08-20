@@ -2,9 +2,10 @@
 description: 发行说明 — 2025年7月 — Marketo文档 — 产品文档
 title: 发行说明 - 2025 年 7 月
 feature: Release Information
-source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
+exl-id: 86776722-c640-4e55-9551-38ff34de566b
+source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '691'
 ht-degree: 98%
 
 ---
@@ -104,16 +105,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><strong>电子邮件设计器 – 选择品牌域与域 IP 配置</strong>：现在可为每个电子邮件资产选择“品牌域”和“域 IP 配置”。</td>
    <td>已发布</td>
    <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件设计器 – GenStudio 集成</strong>：在电子邮件中集成 GenStudio for Performance Marketing，以提升效果营销效率并保持品牌一致性。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
   </tr>
   <tr>
    <td> </td>
