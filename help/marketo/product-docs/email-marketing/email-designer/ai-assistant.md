@@ -1,27 +1,27 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 使用AI助手
+title: 使用 AI 助手
 description: 利用Adobe的创作AI技术，向电子邮件中添加有用的文本和/或图像。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
-ht-degree: 0%
+source-wordcount: '726'
+ht-degree: 1%
 
 ---
 
-# 使用AI助手 {#use-the-ai-assistant}
+# 使用 AI 助手 {#use-ai-assistant}
 
-Marketo Engage Email Designer中的AI助手可帮助您创建即时、高性能、直观的电子邮件。 这是通过Adobe的创作AI技术和提示库以及图像生成Firefly来实现的，该图像生成可帮助为特定角色/购买群体、营销历程阶段、沟通策略、语调等创建合适的内容。 还可以使用特定的品牌资产来创建内容。
+Marketo Engage Email Designer中的AI Assistant可帮助您创建即时、高性能、直观的电子邮件。 这是通过Adobe的创作AI技术和提示库以及图像生成Firefly来实现的，该图像生成可帮助为特定角色/购买群体、营销历程阶段、沟通策略、语调等创建合适的内容。 还可以使用特定的品牌资产来创建内容。
 
 >[!PREREQUISITES]
 >
 >默认情况下，未启用AI助手。 您必须首先同意核心Gen-AI条款和在Email Designer中使用Gen-AI功能的补充条款。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-AI助手的主要用例有三个：
+AI Assistant有三个主要用例：
 
 * [为您的电子邮件创建主题行](#create-a-subject-line)
 * [为电子邮件的特定部分](#create-content-for-a-specific-section)创建内容
