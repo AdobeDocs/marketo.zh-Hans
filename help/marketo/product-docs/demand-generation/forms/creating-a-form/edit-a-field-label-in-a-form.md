@@ -4,10 +4,10 @@ description: 编辑表单中的字段标签 — Marketo文档 — 产品文档
 title: 编辑表单中的字段标签
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 1%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 
@@ -17,30 +17,32 @@ ht-degree: 1%
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
-   ![](assets/login-marketing-activities-3.png)
+   ![](assets/edit-a-field-label-in-a-form-1.png)
 
-1. 选择您的表单并单击&#x200B;**[!UICONTROL Edit Form]**。
+1. 选择您的表单并单击&#x200B;**[!UICONTROL Create draft]**。
 
-   ![](assets/image2014-9-15-17-3a26-3a27.png)
+   ![](assets/edit-a-field-label-in-a-form-2.png)
+
+   >[!NOTE]
+   >
+   >如果您的表单尚未获得批准，请单击&#x200B;**编辑草稿**。
 
 1. 选择您的字段，然后编辑&#x200B;**[!UICONTROL Label]**。 表单设置中的字段将反映您输入的标签。
 
-   ![](assets/image2014-9-15-17-3a26-3a42.png)
+   ![](assets/edit-a-field-label-in-a-form-3.png)
 
    >[!TIP]
    >
-   >如果您想获得美感，可以单击![铅笔](assets/image2014-9-15-17-3a27-3a7.png)。 这将打开一个富文本编辑器，允许您转到包含图像、链接等的城镇！
+   >单击![铅笔](assets/icon-pencil.png)图标以访问富文本编辑器。
 
 1. 单击 **[!UICONTROL Finish]**。
 
-   ![](assets/image2014-9-15-17-3a27-3a26.png)
+   ![](assets/edit-a-field-label-in-a-form-4.png)
 
 1. 单击 **[!UICONTROL Approve and Close]**。
 
-   ![](assets/image2014-9-15-17-3a27-3a44.png)
+   ![](assets/edit-a-field-label-in-a-form-5.png)
 
 >[!NOTE]
 >
->不要忘记[批准由表单更改创建的登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
-
-拿着！ 一点一点地成为造型设计冠军。
+>不要忘记[批准由表单更改创建的登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}。
