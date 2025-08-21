@@ -4,9 +4,9 @@ description: 编辑表单中的字段标签 — Marketo文档 — 产品文档
 title: 编辑表单中的字段标签
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
+source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '110'
 ht-degree: 14%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 14%
 
    >[!NOTE]
    >
-   >如果您的表单尚未获得批准，请单击&#x200B;**编辑草稿**。
+   >如果您的表单未获得批准，请单击&#x200B;**编辑草稿**。
 
 1. 选择您的字段，然后编辑&#x200B;**[!UICONTROL Label]**。 表单设置中的字段将反映您输入的标签。
 
