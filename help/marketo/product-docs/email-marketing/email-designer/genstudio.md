@@ -1,23 +1,28 @@
 ---
-title: 适用于Marketo Engage的GenStudio集成
+title: GenStudio 与 Marketo Engage 的集成
 description: 了解如何在Marketo Engage中使用GenStudio。
-hide: true
-hidefromtoc: true
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 0%
+source-wordcount: '395'
+ht-degree: 3%
 
 ---
 
-# 适用于Marketo Engage的GenStudio集成 {#genstudio-integration-for-marketo-engage}
+# GenStudio 与 Marketo Engage 的集成 {#genstudio-integration-for-marketo-engage}
 
 Adobe GenStudio for Performance Marketing是一个创作、人工智能优先的应用程序，可让您创建自己的广告和电子邮件，以推动有影响力的个性化营销活动，从而满足您的品牌标准并遵守您的企业策略。 它提供了一系列工具，简化了内容创建的复杂性。
+
+>[!AVAILABILITY]
+>
+>要利用此功能，请执行以下操作：
+>
+>* 您的IMS组织必须与Marketo Engage在相同的IMS组织中配置GenStudio for Performance Marketing（有关更多信息，请与您的客户经理联系）
+>* 您必须拥有GenStudio for Performance Marketing（系统管理员、编辑者或协作者产品配置文件）的用户权限
 
 >[!INFO]
 >
@@ -37,9 +42,9 @@ Adobe GenStudio for Performance Marketing是一个创作、人工智能优先的
 
    ![导出您的HTML](assets/genstudio-integration-1.png)
 
-1. [将HTML](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}导出的模板上载到GenStudio for Performance Marketing。
+1. [将HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}导出的模板上载到GenStudio for Performance Marketing。
 
-1. 在GenStudio中，使用此模板可[创建多个带有AI提示的电子邮件变体](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}并保存它们。
+1. 在GenStudio中，使用此模板可[创建多个带有AI提示的电子邮件变体](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}并保存它们。
 
 ## 在Marketo Engage中利用GenStudio体验 {#leverage-genstudio-experiences}
 

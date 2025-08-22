@@ -3,9 +3,9 @@ description: 发行说明 — 2025年7月 — Marketo文档 — 产品文档
 title: 发行说明 - 2025 年 7 月
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
+source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '714'
 ht-degree: 98%
 
 ---
@@ -32,6 +32,16 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
+   <td><strong>电子邮件设计器 – GenStudio 集成</strong>：在电子邮件中集成 GenStudio for Performance Marketing，以提升效果营销效率并保持品牌一致性。</td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">GenStudio 与 Marketo Engage 的集成</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>电子邮件设计器 – 自定义 CSS</strong>：在设计电子邮件时，您现在可以直接在电子邮件设计器中添加自定义 CSS。</td>
    <td>已发布</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">为电子邮件内容添加自定义 CSS</a></td>
@@ -44,7 +54,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>电子邮件设计器 – 使用 SpamAssassin 检测垃圾邮件</strong>：在 Marketo Engage 中使用 SpamAssassin，您可以测试电子邮件内容并查看其被 ISP/邮箱服务提供商标记为垃圾邮件的可能性。</td>
    <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">为电子邮件内容添加自定义 CSS</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">垃圾邮件报告</a></td>
   </tr>
   <tr>
    <td> </td>
