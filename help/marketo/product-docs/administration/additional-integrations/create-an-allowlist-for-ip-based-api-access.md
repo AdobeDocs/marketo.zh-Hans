@@ -22,8 +22,8 @@ ht-degree: 12%
 >[!NOTE]
 >
 >此功能独立于Marketo Engage基于IP的登录限制运行(将由Admin Console的IP访问列表*取代)，并且在[Adobe IMS迁移](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)后将继续运行。
->> 
->>&#42;IP访问列表计划于2025年第4季度正式发布。
+>&#x200B;> 
+>&#x200B;>&#42;IP访问列表计划于2025年第4季度正式发布。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 
