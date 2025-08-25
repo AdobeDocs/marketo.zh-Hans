@@ -3,9 +3,9 @@ description: Adobe IMS用户迁移疑难解答指南 — Marketo文档 — 产�
 title: Adobe IMS用户迁移疑难解答指南
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '1017'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 _如果用户需要迁移_ — 电子邮件地址必须在Marketo Engage中更新，以符合Adobe安全策略并进行还原。 Marketo管理员，然后从迁移控制台为此用户重新运行用户迁移。
 
-_如果用户&#x200B;**不**&#x200B;需要迁移_ - Marketo Engage管理员在迁移控制台中跳过该用户。 如果通过迁移或跳过来考虑所有用户，则会显示“迁移完成”按钮。 单击按钮以结束用户迁移过程。
+_如果用户&#x200B;**不**需要迁移_ - Marketo Engage管理员在迁移控制台中跳过该用户。 如果通过迁移或跳过来考虑所有用户，则会显示“迁移完成”按钮。 单击按钮以结束用户迁移过程。
 
 ### 用户不在目录中 {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _如果用户&#x200B;**不**&#x200B;需要迁移_ - Marketo Engage管理员在�
 
 _如果需要迁移用户_ — 系统管理员必须以适当的权限将该用户添加到Active Directory。 Marketo Engage管理员，然后从迁移控制台为此用户重新运行用户迁移。
 
-_如果用户&#x200B;**不**&#x200B;需要迁移_ - Marketo Engage管理员在迁移控制台中跳过该用户。 如果通过迁移或跳过来考虑所有用户，则会显示“迁移完成”按钮。 单击按钮以结束用户迁移过程。
+_如果用户&#x200B;**不**需要迁移_ - Marketo Engage管理员在迁移控制台中跳过该用户。 如果通过迁移或跳过来考虑所有用户，则会显示“迁移完成”按钮。 单击按钮以结束用户迁移过程。
 
 ### 非活动用户 {#inactive-user}
 
@@ -54,7 +54,7 @@ _如果用户&#x200B;**不**&#x200B;需要迁移_ - Marketo Engage管理员在�
 
 _如果需要迁移用户_ — 系统管理员必须还原用户的状态和适当的权限。 Marketo Engage管理员，然后从迁移控制台为此用户重新运行用户迁移。
 
-_如果用户&#x200B;**不**&#x200B;需要迁移_ - Marketo Engage管理员在迁移控制台中跳过该用户。 如果通过迁移或跳过来考虑所有用户，则会显示“迁移完成”按钮。 单击按钮以结束用户迁移过程。
+_如果用户&#x200B;**不**需要迁移_ - Marketo Engage管理员在迁移控制台中跳过该用户。 如果通过迁移或跳过来考虑所有用户，则会显示“迁移完成”按钮。 单击按钮以结束用户迁移过程。
 
 ### 无效域 {#invalid-domain}
 
@@ -62,11 +62,11 @@ _如果用户&#x200B;**不**&#x200B;需要迁移_ - Marketo Engage管理员在�
 
 **分辨率**：
 
-_如果用户需要迁移_（并且在迁移组织中启用了域实施） — 必须在Marketo Engage中更新电子邮件地址以符合域实施(DE)策略。 或者，系统管理员可以[将域](https://helpx.adobe.com/cn/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}移动到另一个域实施(DE)禁用的目录，或者[创建一个不在DE策略下的新目录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。 Marketo Engage管理员，然后从迁移控制台为此用户重新运行用户迁移。
+_如果用户需要迁移_（并且在迁移组织中启用了域实施） — 必须在Marketo Engage中更新电子邮件地址以符合域实施(DE)策略。 或者，系统管理员可以[将域](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}移动到另一个域实施(DE)禁用的目录，或者[创建一个不在DE策略下的新目录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。 Marketo Engage管理员，然后从迁移控制台为此用户重新运行用户迁移。
 
 _如果用户需要迁移_（并且已在其他组织中启用域实施） — 已声明域的组织的系统管理员需要将用户的电子邮件地址添加到异常列表。 Marketo Engage管理员，然后从迁移控制台为此用户重新运行用户迁移。
 
-_如果用户&#x200B;**不**&#x200B;需要迁移_ - Marketo Engage管理员在迁移控制台中跳过该用户。 如果通过迁移或跳过来考虑所有用户，则会显示“迁移完成”按钮。 单击按钮以结束用户迁移过程。
+_如果用户&#x200B;**不**需要迁移_ - Marketo Engage管理员在迁移控制台中跳过该用户。 如果通过迁移或跳过来考虑所有用户，则会显示“迁移完成”按钮。 单击按钮以结束用户迁移过程。
 
 ### Type2E失败 {#type2e-failure}
 
@@ -78,15 +78,42 @@ _如果用户&#x200B;**不**&#x200B;需要迁移_ - Marketo Engage管理员在�
 1. 重新运行用户迁移，以便为此用户创建联合用户帐户。
 1. 将用户添加回他们之前有权访问的产品。
 
+### Pendo迁移失败 {#pendo-migration-failed}
+
+**根本原因**：用户的联合帐户处于非活动状态/已禁用，或者在Active Directory (AD)中缺失。
+
+**分辨率**：
+
+_如果需要迁移用户_
+
+1. 系统管理员必须恢复用户的帐户状态和权限。
+
+1. 对于具有AD同步的SSO组织：
+
+   * 通过身份提供程序(IdP)创建用户。
+   * 同步用户数据与AD。
+
+1. 对于没有SSO/AD同步的组织：
+
+   * 重新创建托管帐户以恢复状态。
+   * 组织管理员必须重新分配角色和权限。
+
+1. Marketo Engage管理员会在迁移控制台中重新运行迁移。
+
+1. 如果控制台无法访问，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)以重新运行迁移。
+
+_如果用户&#x200B;**不**需要迁移_
+
+* Marketo Engage管理员应在迁移控制台中跳过用户。
+* 迁移或跳过所有用户后，单击&#x200B;**[!UICONTROL Migration Complete]**&#x200B;以完成。
+* 如果错误仍然存在，请将包含相关详细信息的支持案例提交给[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+
+
 ### 用户创建失败 {#user-creation-failed}
 
 [请参阅下文](#failed)
 
 ### Marketo授权失败 {#marketo-entitlement-failed}
-
-[请参阅下文](#failed)
-
-### Pendo迁移失败 {#pendo-migration-failed}
 
 [请参阅下文](#failed)
 
