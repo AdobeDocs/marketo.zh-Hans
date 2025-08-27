@@ -3,7 +3,7 @@ description: 第1步（共3步） — 将Marketo字段添加到 [!DNL Veeva] CRM
 title: 第1步（共3步） — 将Marketo字段添加到 [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 8%
@@ -18,9 +18,8 @@ ht-degree: 8%
 
 Marketo Engage使用一组字段来捕获某些类型的营销相关信息。 如果您希望在[!DNL Veeva] CRM中使用此数据，请按照下面的说明操作。
 
-`1.`在[!DNL Veeva] CRM中针对联系人对象创建一个自定义字段：分数
-
-`2.`如果需要，您可以创建其他字段（请参阅下表）。
+1. 在[!DNL Veeva] CRM中针对联系人对象创建一个自定义字段：分数
+1. 如果需要，您可以创建其他字段（请参阅下表）。
 
 所有这些自定义字段都是可选的，并且不是同步Marketo Engage和[!DNL Veeva] CRM的必需字段。
 

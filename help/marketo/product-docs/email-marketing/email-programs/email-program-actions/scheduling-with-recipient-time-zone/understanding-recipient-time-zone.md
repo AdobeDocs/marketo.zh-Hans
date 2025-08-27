@@ -4,10 +4,10 @@ description: 了解收件人时区 — Marketo文档 — 产品文档
 title: 了解收件人时区
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '381'
+ht-degree: 3%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[!UICONTROL Recipient Time Zone]当前仅对电子邮件内容使用&#x200B;**2&rbrace;。**&#x200B;它不适用于默认参与计划。
+>[!UICONTROL Recipient Time Zone]当前仅对电子邮件内容使用&#x200B;**2}。**&#x200B;它不适用于默认参与计划。
 
-## 电子邮件程序 {#email-programs}
+## 电子邮件项目 {#email-programs}
 
 在[计划电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)时，有两种主要情况：
 
@@ -28,9 +28,9 @@ ht-degree: 1%
 
 为了适应每个时区，使用[!UICONTROL Recipient Time Zone]计划的电子邮件程序在世界上&#x200B;**第一个/最早的**&#x200B;时区的午夜开始运行(UTC +14:00)。
 
-## 参与计划 {#engagement-programs}
+## 互动项目 {#engagement-programs}
 
-当您[计划一个参与项目程序流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)并且[!UICONTROL Recipient Time Zone]处于活动状态时，程序转换将在UTC +14:00的午夜开始运行。 我们要求您安排未来至少25小时（24小时+开始营销活动的时间）的首次点播，因为全球各地每个时区都有资格参加点播。 此时以UTC +14:00开始处理，这可保证我们将在计划的日期和时间向符合此转换条件的每个人发送电子邮件。
+当您[计划一个参与项目程序流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)并且[!UICONTROL Recipient Time Zone]处于活动状态时，程序转换将在UTC时间+14:00的午夜开始运行。 我们要求您安排未来至少25小时（24小时+开始营销活动的时间）的首次点播，因为全球各地每个时区都有资格参加点播。 此时以UTC +14:00开始处理，这可保证在计划的日期和时间，为每个符合此转换条件的人发送电子邮件。
 
 ## 计算时区 {#calculating-time-zone}
 

@@ -1,23 +1,19 @@
 ---
 unique-page-id: 10098625
 description: 了解 [!DNL Microsoft Dynamics] 同步 — Marketo文档 — 产品文档
-title: 了解Microsoft Dynamics同步
+title: 了解 Microsoft Dynamics 同步
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 3%
 
 ---
 
 # 了解[!DNL Microsoft Dynamics]同步 {#understanding-the-microsoft-dynamics-sync}
 
 Marketo和[!DNL Microsoft Dynamics]一起运行。 我们将保持您的销售和营销数据同步。
-
->[!NOTE]
->
->Marketo目前仅支持与Java 7兼容的SSL证书。
 
 >[!CAUTION]
 >
@@ -40,7 +36,7 @@ Marketo每天、全天持续与[!DNL Microsoft Dynamics]同步数据。 它使�
 * [帐户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
 * [用户](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * 团队（系统用户组）
-* [机会](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+* [商机](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [自定义实体](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
 您在Marketo中为[输入的 [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)凭据用于同步数据。

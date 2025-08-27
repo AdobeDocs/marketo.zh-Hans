@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949226
 description: SEO — 了解入站链接 — Marketo文档 — 产品文档
-title: SEO — 了解入站链接
+title: SEO - 了解入站链接
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 5%
 
 ---
 
-# SEO — 了解[!UICONTROL 入站链接] {#seo-understanding-inbound-links}
+# SEO — 了解[!UICONTROL Inbound Links] {#seo-understanding-inbound-links}
 
-[!UICONTROL 入站链接]向搜索引擎指示您的网站值得引用。 太好了！
+[!UICONTROL Inbound links]向搜索引擎指示您的网站值得引用。
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
@@ -21,14 +21,14 @@ ht-degree: 0%
 
 | 列标题 | 描述 |
 |---|---|
-| 入站链接的[!UICONTROL URL] | 有问题的网页。 |
-| [!UICONTROL 优先级] | 此机会对您的页面排名有多大价值。 |
-| [!UICONTROL 指向竞争对手的链接] | 竞争对手是否在该URL中链接到。 |
-| [!UICONTROL 指向我的网站的链接] | 您的网站是否已在该URL中链接到。 |
-| [!UICONTROL 来自我的网站的链接] | 指示您的网站是否链接到该URL。 |
+| [!UICONTROL URL of Inbound Link] | 有问题的网页。 |
+| [!UICONTROL Priority] | 此机会对您的页面排名有多大价值。 |
+| [!UICONTROL Links to competitor] | 竞争对手是否在该URL中链接到。 |
+| [!UICONTROL Links to my site] | 您的网站是否已在该URL中链接到。 |
+| [!UICONTROL Links from my site] | 指示您的网站是否链接到该URL。 |
 | [!UICONTROL PageRank] | 标识URL在搜索中的页面排名(1 - 10) |
 
-真贴心！ 现在，您已了解入站链接，我们可以为您的网站建议更多入站链接机会。
+现在，您已了解入站链接，我们可以为您的网站建议更多入站链接机会。
 
 >[!MORELIKETHIS]
 >

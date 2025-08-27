@@ -3,10 +3,10 @@ description: Dynamic Chat 发行说明 - Marketo 文档 - 产品文档
 title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
-workflow-type: ht
-source-wordcount: '3408'
-ht-degree: 100%
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+workflow-type: tm+mt
+source-wordcount: '3414'
+ht-degree: 97%
 
 ---
 
@@ -44,7 +44,7 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 如果代理不可用，系统将：
 
-* 不会尝试其他代理，即使启用了轮询作为回退。
+* 即使启用了轮循作为回退功能，也不会尝试其他代理。
 
 * 而是会：
 
@@ -140,7 +140,7 @@ _**自定义路由**_
 <tbody>
   <tr>
     <td>理想情况</td>
-    <td>自定义逻辑解析出代理列表；首位代理可用并接受聊天。</td>
+    <td>自定义逻辑解析座席列表；第一个座席可用并接受聊天。</td>
     <td>聊天会连接到第一位代理。</td>
   </tr>
   <tr>
@@ -151,7 +151,7 @@ _**自定义路由**_
   <tr>
     <td>无回退代理</td>
     <td>解析到两名代理，但均未接受聊天，回退设置为会议日程表。</td>
-    <td>显示首位尝试代理的日程表或默认回退消息。</td>
+    <td>将显示首次尝试的座席日历或默认回退消息。</td>
   </tr>
 </tbody></table>
 
@@ -192,13 +192,13 @@ _**轮询路由**_
 <tbody>
   <tr>
     <td>理想情况</td>
-    <td>轮询池中有多名代理；首位代理未响应后，第二位代理接受聊天。</td>
+    <td>Round Robin池具有多个代理；第二个代理接受第一个代理之后的聊天，但第一个代理不接受聊天。</td>
     <td>聊天会连接到第二位代理。</td>
   </tr>
   <tr>
     <td>回退（轮询）</td>
     <td>轮询池中无可用代理；已启用会议日程表。</td>
-    <td>显示列表中首位代理的日程表（若已配置），或显示回退消息。</td>
+    <td>对于列表中的第一个代理（如果已配置）或显示的回退消息，将显示日历。</td>
   </tr>
   <tr>
     <td>无回退代理</td>
@@ -343,7 +343,7 @@ Analytics 功能板进行了多项增强，包括：
     <td>已知人员</td>
     <td>xyz</td>
     <td>与现有人员不同</td>
-    <td>此场景不可行，因为如果是新的 Cookie，则默认会被视为新的匿名轮廓</td>
+    <td>这种情况不可能发生，就好像它是新Cookie，创建者：   默认视为新的匿名配置文件</td>
   </tr>
 </tbody></table>
 

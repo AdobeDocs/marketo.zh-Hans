@@ -1,16 +1,16 @@
 ---
 description: 了解实施新的Marketo Engage实例时的最佳实践。 跟踪已执行的操作将帮助您充分利用Marketo Engage，并设置实例以实现长期卫生和效率。 作为新管理员，请导航新实例，使用这些指南保持集中和有条不紊。
-title: 从何处开始
+title: 从何入手
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
-# 从何处开始 {#Where-to-start}
+# 从何入手 {#Where-to-start}
 
 欢迎使用新的Adobe Marketo Engage实例！ 借助强大的营销自动化功能，准备好简化、自动化和衡量营销任务和工作流。
 
@@ -48,6 +48,6 @@ ht-degree: 0%
 
 社区入门：
 
-1. 单击&#x200B;**继续使用Adobe ID**，然后在登录页上选择您的主订阅。
+1. 单击&#x200B;**[!UICONTROL Continue with AdobeID]**&#x200B;并在登录页上选择您的主订阅。
 1. 登录后，填写您的社区个人资料。
 1. 提交信息后，即可进入社区主页，一切准备就绪！

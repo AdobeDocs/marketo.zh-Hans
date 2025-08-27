@@ -1,15 +1,15 @@
 ---
 description: 参与度图概述 — Marketo文档 — 产品文档
-title: 参与度图概述
+title: 互动地图概述
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '750'
-ht-degree: 0%
+source-wordcount: '742'
+ht-degree: 1%
 
 ---
 
-# 参与度图概述 {#engagement-map-overview}
+# 互动地图概述 {#engagement-map-overview}
 
 通过参与度图，您可以直观地可视化您的Smart Campaigns。 它提供了与所有现有Marketo Engage Smart Campaigns的完全向后兼容性，并且不会丢失任何当前功能。
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
 ![](assets/engagement-map-overview-2.png)
 
-在参与映射中，您将看到两个选项卡：[参与映射](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}和[设置](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}。
+在参与映射中，有两个选项卡：[参与映射](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}和[设置](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}。
 
 ![](assets/engagement-map-overview-3.png)
 
 ## 信息卡描述 {#card-descriptions}
 
-**触发器**：在包含触发器的营销活动中，映射将具有“触发器概述”信息卡。 单击此选项将显示每个触发器的卡片，以及包含其他信息的滑出面板。
+**触发器**：在包含触发器的营销活动中，映射具有“触发器概述”信息卡。 单击此选项将显示每个触发器的卡片，以及包含其他信息的滑出面板。
 
-**过滤器**：在包含过滤器的营销活动中，映射将包含过滤器概述信息卡。 单击它将显示一个滑出面板，其中包含有关每个过滤器的其他信息。
+**过滤器**：在包含过滤器的营销活动中，映射包含过滤器概述信息卡。 单击它将显示一个滑出面板，其中包含有关每个过滤器的其他信息。
 
-**流程步骤**：每个营销活动将包含每个流程步骤的信息卡。 单击它们将显示一个包含其他信息的滑出面板。
+**流程步骤**：每个营销活动都包含每个流程步骤的信息卡。 单击它们将显示一个包含其他信息的滑出面板。
 
 **选项**：如果流程步骤包含一个或多个选项，则单击流程卡将显示每个选项的卡片，以及包含其他信息的滑出面板。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 * 如果营销活动包括“请求”或“执行营销活动”流程步骤，则单击流程卡将显示所调用营销活动的详细信息，以及包含其他信息的滑出面板。
 
-* 如果营销活动包含包含包含选项的“请求”或“执行营销活动”流程步骤，则单击流程卡将显示每个选项的卡片，以及弹出面板，其中提供有关选项的更多信息。 单击每个选择卡片将显示所调用营销活动的详细信息，以及包含更多信息的滑出面板。
+* 如果营销活动包含包含包含选项的“请求”或“执行营销活动”流程步骤，则单击流程卡将显示每个选项的卡片，以及弹出面板，其中提供有关选项的更多信息。 单击每个选择卡片会显示所调用营销活动的详细信息，以及包含更多信息的滑出面板。
 
 * 此外，如果任何嵌套营销活动具有“请求”或“执行营销活动”流量步骤，则单击流量卡将显示营销活动的详细信息。 当流程步骤包含选项时，同样适用。
 
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 * 用于触发营销活动的“激活”/“停用”按钮
 
-* 编辑智能列表 — 您将在新选项卡中导航到智能列表界面，您可以在其中添加或编辑筛选器和/或触发器
+* 编辑智能列表 — 您将在新选项卡中被导航到智能列表界面，您可以在其中添加或编辑筛选器和/或触发器
 
 * 编辑流 — 您将在新选项卡中被导航到流界面，您可以在其中添加或编辑流步骤
 
-* 导出 — 这将下载营销活动可视化图表的图像。 下载的版本将反映您扩展的任何分支
+* 导出 — 这将下载营销活动可视化图表的图像。 下载的版本反映了您扩展的任何分支
 
 * 查看营销活动成员 — 这将打开一个包含营销活动成员详细信息的新选项卡。
 

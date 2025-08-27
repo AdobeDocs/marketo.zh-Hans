@@ -4,14 +4,14 @@ description: 了解SEO功能板 — SEO快照 — Marketo文档 — 产品文档
 title: 了解SEO功能板 — SEO快照
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 0%
+source-wordcount: '237'
+ht-degree: 3%
 
 ---
 
-# 了解SEO功能板：SEO快照 {#understanding-the-seo-dashboard-seo-snapshot}
+# 了解 SEO 仪表板：SEO 快照 {#understanding-the-seo-dashboard-seo-snapshot}
 
 使用功能板全面了解关键词排名的趋势以及您的网站针对SEO优化的程度。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-现在，让我们查看该仪表板的[!UICONTROL Recommendations]部分。
+查看该仪表板的[!UICONTROL Recommendations]部分。
 
 >[!MORELIKETHIS]
 >

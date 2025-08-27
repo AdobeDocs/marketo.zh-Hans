@@ -4,22 +4,22 @@ description: 创建自定义 [!DNL Dynamics] 同步筛选器 — Marketo文档 �
 title: 创建自定义 [!DNL Dynamics] 同步筛选器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '746'
 ht-degree: 1%
 
 ---
 
 # 创建自定义[!DNL Dynamics]同步筛选器 {#create-a-custom-dynamics-sync-filter}
 
-不想将Dynamics CRM中的所有内容同步到Marketo Engage中？ 别担心！ Marketo允许您设置同步过滤器，并仅同步部分记录。
+Marketo允许您设置同步过滤器，并仅同步部分记录。
 
 ## 概述 {#overview}
 
 要设置[!DNL Dynamics]同步筛选器：
 
-1. 在Dynamics CRM中为任何对象（潜在客户、联系人、帐户、机会和其他自定义实体）创建一个名为new_synctomkto的自定义两个选项（布尔值）字段。
+1. 在Dynamics CRM中为任何对象（潜在客户、联系人、帐户、机会和其他自定义实体）创建名为`new_synctomkto`的自定义两个选项（布尔值）字段。
 1. 为此字段分配一个“是”/“否”值。
 
 您必须在Dynamics CRM(而非您的数据库或Marketo)中进行这些更改。
@@ -140,10 +140,6 @@ Marketo在自动后台同步期间查找此字段，并根据此逻辑确定要�
 * 启动同步操作
 
   当&#x200B;**SyncToMkto**&#x200B;值从&#x200B;**No**&#x200B;更改为&#x200B;**Yes**&#x200B;时，[!DNL Dynamics]会立即通知Marketo开始同步此记录。 如果记录已存在，则Marketo会更新它。 否则，Marketo将创建记录。
-
-  >[!TIP]
-  >
-  >发生这种情况时，会向Marketo日志添加`Create [StartSync]`操作。
 
 * 停止同步操作
 
