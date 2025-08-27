@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '907'
 ht-degree: 10%
 
 ---
@@ -259,11 +259,11 @@ ht-degree: 10%
     <td>Velocity脚本</td>
     <td>能够在电子邮件中使用Velocity脚本。</td>
     <td>可用</td>
-    <td>即将推出</td>
+    <td>不需要</td>
   </tr>
   <tr>
-    <td>品牌工具包</td>
-    <td>能够改进反映品牌准则的电子邮件。</td>
+    <td>手柄栏脚本</td>
+    <td>能够在电子邮件中使用Velocity脚本。</td>
     <td>不可用</td>
     <td>计划于2025年第3季度推出</td>
   </tr>
@@ -272,6 +272,12 @@ ht-degree: 10%
     <td>能够在Marketo Engage中为电子邮件引入批准工作流。</td>
     <td>不可用</td>
     <td>计划于2025年第4季度推出</td>
+  </tr>
+  <tr>
+    <td>品牌工具包</td>
+    <td>能够改进反映品牌准则的电子邮件。</td>
+    <td>不可用</td>
+    <td>计划于2026年第1季度推出</td>
   </tr>
   <tr>
     <td>试验（A/B测试）</td>
