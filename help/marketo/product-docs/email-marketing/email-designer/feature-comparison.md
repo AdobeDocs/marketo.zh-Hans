@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 9%
+source-wordcount: '892'
+ht-degree: 10%
 
 ---
 
@@ -177,6 +177,17 @@ ht-degree: 9%
     <td>能够<a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">与Litmus</a>集成，以查看您的电子邮件在不同电子邮件客户端中的呈现方式。</td>
     <td>不可用</td>
     <td>可用</td>
+    <tr>
+    <td>与GenStudio集成</td>
+    <td>能够<a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">与GenStudio</a>集成。</td>
+    <td>不可用</td>
+    <td>可用</td>
+  </tr>
+  <tr>
+    <td>Spam Assassin集成</td>
+    <td>能够在投放前<a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">检测标记为垃圾邮件的潜在电子邮件</a>。</td>
+    <td>不可用</td>
+    <td>可用</td>
   </tr>
   <tr>
     <td>Personalization编辑器</td>
@@ -227,12 +238,6 @@ ht-degree: 9%
     <td>即将推出</td>
   </tr>
   <tr>
-    <td>与Gen Studio集成</td>
-    <td>能够与Gen Studio集成。</td>
-    <td>不可用</td>
-    <td>即将推出</td>
-  </tr>
-  <tr>
     <td>支持移动、删除和导入包含电子邮件资产的程序</td>
     <td>能够移动、删除和导入电子邮件程序以及电子邮件资产。</td>
     <td>可用</td>
@@ -254,23 +259,11 @@ ht-degree: 9%
     <td>Velocity脚本</td>
     <td>能够在电子邮件中使用Velocity脚本。</td>
     <td>可用</td>
-    <td>不需要</td>
-  </tr>
-   <tr>
-    <td>手柄栏脚本</td>
-    <td>能够在电子邮件中使用Handlebar脚本。</td>
-    <td>不可用</td>
-    <td>计划于2025年第3季度推出</td>
+    <td>即将推出</td>
   </tr>
   <tr>
-    <td>品牌套件</td>
+    <td>品牌工具包</td>
     <td>能够改进反映品牌准则的电子邮件。</td>
-    <td>不可用</td>
-    <td>计划于2025年第3季度推出</td>
-  </tr>
-  <tr>
-    <td>Spam Assassin集成</td>
-    <td>能够在投放之前检测标记为垃圾邮件的电子邮件的可能性。</td>
     <td>不可用</td>
     <td>计划于2025年第3季度推出</td>
   </tr>
@@ -299,7 +292,7 @@ ht-degree: 9%
     <td>待定</td>
   </tr>
   <tr>
-    <td>预测内容</td>
+    <td>预测性内容</td>
     <td>能够根据目标受众从电子邮件中的知识库预测内容。</td>
     <td>可用</td>
     <td>不可用</td>
