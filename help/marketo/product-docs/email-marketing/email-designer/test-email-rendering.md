@@ -1,27 +1,29 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 使用Litmus测试电子邮件渲染
+title: 使用 Litmus 测试电子邮件渲染效果
 description: Marketo Engage用户可以将他们的Litmus帐户集成在一起，无缝地测试各种电子邮件客户端中的内容呈现。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 919406f948456bc265a73841c87a6d74605f045e
+source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 0%
+source-wordcount: '370'
+ht-degree: 2%
 
 ---
 
-# 使用Litmus测试电子邮件渲染 {#test-email-rendering-with-litmus}
+# 使用 Litmus 测试电子邮件渲染效果 {#test-email-rendering-with-litmus}
 
 利用您在Marketo Engage中的[Litmus](https://www.litmus.com/email-testing)帐户，即时查看您的电子邮件在常用电子邮件客户端中的呈现方式。
 
 >[!AVAILABILITY]
 >
->此功能适用于在[企业计划](https://www.litmus.com/pricing/enterprise){target="_blank"}帐户上拥有活动Litmus帐户的所有Marketo Engage用户。
+>此功能适用于拥有活动Litmus帐户的所有Marketo Engage用户。
 
-## 使用方法 {#how-to-use}
+## Litmus Enterprise用户 {#litmus-enterprise}
+
+以下步骤适用于[Litmus企业计划](https://www.litmus.com/pricing/enterprise){target="_blank"}中的用户。
 
 1. 在&#x200B;_编辑电子邮件内容_&#x200B;屏幕上，单击&#x200B;**模拟内容**&#x200B;按钮。
 
@@ -62,3 +64,27 @@ ht-degree: 0%
 **可选步骤**：如果您决定更改电子邮件，在单击&#x200B;**渲染电子邮件**&#x200B;查看更改后，请务必也单击Litmus **电子邮件预览**&#x200B;屏幕右上角的&#x200B;_重新测试_&#x200B;按钮。
 
 ![](assets/test-email-rendering-with-litmus-7.png)
+
+## Litmus核心用户 {#litmus-core}
+
+以下步骤适用于[Litmus核心计划](https://www.litmus.com/pricing/){target="_blank"}中的用户。
+
+1. 在您的Litmus帐户中，单击&#x200B;**测试**&#x200B;屏幕中的&#x200B;_复制测试地址_&#x200B;按钮以检索测试电子邮件地址。
+
+   ![](assets/test-email-rendering-with-litmus-8.png){width="800" zoomable="yes"}
+
+1. 在Marketo Engage中，导航到所需电子邮件的&#x200B;_编辑电子邮件内容_&#x200B;屏幕，然后单击&#x200B;**模拟内容**&#x200B;按钮。
+
+   ![](assets/test-email-rendering-with-litmus-9.png){width="600" zoomable="yes"}
+
+1. 选择测试收件人并单击&#x200B;**发送校样**&#x200B;按钮。
+
+   ![](assets/test-email-rendering-with-litmus-10.png){width="800" zoomable="yes"}
+
+1. 输入您在步骤1中复制的Litmus电子邮件地址，然后再次单击&#x200B;**发送验证**。
+
+   ![](assets/test-email-rendering-with-litmus-11.png)
+
+1. 查看Litmus帐户内的电子邮件（位于与您从Litmus复制的电子邮件地址对应的文件夹中）。
+
+   ![](assets/test-email-rendering-with-litmus-12.png){width="800" zoomable="yes"}
