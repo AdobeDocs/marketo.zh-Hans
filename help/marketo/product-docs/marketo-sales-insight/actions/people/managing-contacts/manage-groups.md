@@ -3,9 +3,9 @@ description: 管理组 — Marketo文档 — 产品文档
 title: 管理群组
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
+source-git-commit: a88e7978a74d6aaaaad882a83cdfa3e80a4c50cb
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '310'
 ht-degree: 2%
 
 ---
@@ -57,26 +57,6 @@ ht-degree: 2%
 
    就是这样！
 
-## 将联系人添加到 {#add-contacts-to-a-}
-
-1. 在[!UICONTROL People]页面中，查找并选择要添加人员的组。
-
-
-
-1. 单击&#x200B;**[!UICONTROL Group Actions]**&#x200B;并选择&#x200B;**[!UICONTROL Create Contact and add to Group]**。
-
-   ![](assets/manage-groups-4.png)
-
-1. 填写联系人信息，然后单击&#x200B;**创建**（或单击&#x200B;**创建并添加新项**&#x200B;以添加其他项）。
-
-   ![](assets/manage-groups-5.png)
-
-   你完蛋了！
-
-   >[!NOTE]
-   >
-   >您可能必须点击“刷新”才能看到添加的任何新联系人。
-
 ## 将联系人添加到组 {#add-contacts-to-a-group}
 
 1. 在&#x200B;_组_&#x200B;下，选择&#x200B;**所有人员**。
@@ -98,7 +78,6 @@ ht-degree: 2%
 1. 选择要添加它们的组，然后单击&#x200B;**添加**。
 
    ![](assets/manage-groups-7.png)
-
 
 ## 共享组 {#share-a-group}
 
