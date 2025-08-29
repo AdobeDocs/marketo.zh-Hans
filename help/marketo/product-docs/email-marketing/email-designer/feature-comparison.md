@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
+source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '892'
 ht-degree: 10%
 
 ---
@@ -259,13 +259,7 @@ ht-degree: 10%
     <td>Velocity脚本</td>
     <td>能够在电子邮件中使用Velocity脚本。</td>
     <td>可用</td>
-    <td>不需要</td>
-  </tr>
-  <tr>
-    <td>手柄栏脚本</td>
-    <td>能够在电子邮件中使用Velocity脚本。</td>
-    <td>不可用</td>
-    <td>计划于2025年第3季度推出</td>
+    <td>即将推出</td>
   </tr>
   <tr>
     <td>内容审批工作流</td>
