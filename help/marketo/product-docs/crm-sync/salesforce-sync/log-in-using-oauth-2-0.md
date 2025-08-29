@@ -1,16 +1,16 @@
 ---
 description: 使用OAuth 2.0登录 — Marketo文档 — 产品文档
-title: 使用OAuth 2.0登录
+title: 使用 OAuth 2.0 登录
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 3e007c6ddc150227310f2d38a7f77ad86ca15ffa
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 1%
+source-wordcount: '491'
+ht-degree: 3%
 
 ---
 
-# 使用OAuth 2.0登录 {#log-in-using-oauth-2-0}
+# 使用 OAuth 2.0 登录 {#log-in-using-oauth-2-0}
 
 Salesforce使用OAuth协议，允许应用程序用户安全地访问（使用OAuth 2.0对应用程序进行身份验证）数据，而无需透露登录凭据。 以下是将Marketo Engage安全地连接并与Salesforce同步要执行的步骤。
 
@@ -76,7 +76,7 @@ Salesforce使用OAuth协议，允许应用程序用户安全地访问（使用OA
 
    >[!CAUTION]
    >
-   >如果您看到“用户名/密码/令牌”字段而不是“使用Salesforce登录”按钮，则会启用Marketo订阅以进行基本身份验证。 请参阅[使用基本身份验证设置Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}。 使用一组凭据开始同步后，不会切换Salesforce凭据或订阅。 如果要使用Oauth 2.0，请联系Adobe客户团队（您的客户经理）。
+   >如果您看到“用户名/密码/令牌”字段而不是“使用Salesforce登录”按钮，则会启用Marketo订阅以进行基本身份验证。 请参阅[使用基本身份验证设置Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}。 使用一组凭据开始同步后，不会切换Salesforce凭据或订阅。 要为Salesforce身份验证设置Oauth 2.0，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 1. 此时将显示一个包含salesforce登录页面的弹出窗口。 键入“Marketo同步用户”凭据并登录。
 
