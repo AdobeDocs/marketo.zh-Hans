@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359828
 description: 将SSL添加到登陆页面 — Marketo文档 — 产品文档
-title: 将SSL添加到登陆页面
+title: 为登录页面添加 SSL
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 0%
+source-wordcount: '778'
+ht-degree: 2%
 
 ---
 
-# 将SSL添加到登陆页面 {#add-ssl-to-your-landing-pages}
+# 为登录页面添加 SSL {#add-ssl-to-your-landing-pages}
 
 SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登陆页面安全。
 
@@ -73,31 +73,35 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
     <th>详细信息</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td><i>创建域时遇到意外错误。 请联系支持人员以获取帮助。</i></td>
-    <td>发生意外错误。 请收集日志和错误详细信息，并将问题升级至<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo支持</a>。</td>
-  </tr>
-  <tr>
-    <td><i>未找到默认域。 请联系支持人员以获取帮助。</i></td>
-    <td>尝试查找默认域时出现问题。 请联系支持部门以便他们进行调查。</td>
-  </tr>
-  <tr>
-    <td><i>已颁发SSL证书。</i></td>
-    <td>此自定义域已存在SSL证书。 除非证书已过期或需要重新颁发，否则无需执行进一步操作。</td>
+<tr>
+    <td><i>域已存在。</i></td>
+    <td>具有相同名称的域已存在。</td>
   </tr>
   <tr>
     <td><i>域未映射到默认域。</i></td>
     <td>自定义域未正确映射到默认域。 请验证域映射设置并确保DNS配置指向正确的默认域。</td>
   </tr>
   <tr>
-    <td><i>域已存在。</i></td>
-    <td>具有相同名称的域已存在。</td>
+    <td><i>由于不支持的CAA记录，无法颁发SSL证书。 请求您的IT更新CAA记录。</i></td>
+    <td>CAA记录不是最新的。 对于使用Marketo Engage托管的SSL证书的使用者，CAA记录需要更新为我们的供应商推荐的证书。 请联系您的IT部门以更新CAA记录。 有关其他详细信息，请参阅<a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">此页面</a>。</td>
+  </tr>
+  <tr>
+    <td><i>已颁发SSL证书。</i></td>
+    <td>此自定义域已存在SSL证书。 除非证书已过期或需要重新颁发，否则无需执行进一步操作。</td>
+  </tr>
+  <tr>
+    <td><i>未找到默认域。 请联系支持人员以获取帮助。</i></td>
+    <td>尝试查找默认域时出现问题。 请联系支持部门以便他们进行调查。</td>
+  </tr>
+  <tr>
+    <td><i>创建域时遇到意外错误。 请联系支持人员以获取帮助。</i></td>
+    <td>发生意外错误。 请收集日志和错误详细信息，并将问题升级至<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo支持</a>。</td>
   </tr>
 </tbody></table>
 
 ## 注意事项 {#things-to-note}
 
-* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自定义SSL**：如果您需要自定义SSL，请提交[支持票证](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 请勿使用自助复选框来创建SSL。
 
