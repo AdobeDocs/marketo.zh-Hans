@@ -4,26 +4,32 @@ description: 了解如何在Adobe Marketo Engage中创作内容时使用连接�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 1%
+source-wordcount: '887'
+ht-degree: 2%
 
 ---
 
 # 使用Experience Manager资源 {#work-with-experience-manager-assets}
 
-将您的&#x200B;_Adobe Experience Manager Assets as a Cloud Service_&#x200B;帐户连接到Adobe Marketo Engage实例，以便您可以在Marketo Engage Email Designer中利用AEM资源存储库。
+使用 Adobe Experience Manager Assets 将营销和创意工作流结合在一起。它与Marketo Engage本机集成，因此您可以轻松访问&#x200B;_Assets as a Cloud Service_&#x200B;以发现和使用数字资源来填充消息。
+
+Adobe Experience Manager _Assets as a Cloud Service_&#x200B;提供易于使用的云解决方案，可实现高效的数字资产管理和Dynamic Media操作。 请参阅[Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/overview)文档以了解详情。
+
+>[!PREREQUISITES]
+>
+>* 集成需要&#x200B;_Assets as a Cloud Service_&#x200B;和Dynamic Media的许可证。 确保启用了[Dynamic Media with Open API](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis)。 根据您的合同和配置，在设计可视化内容时，可以直接从Adobe Experience Manager访问Assets _Marketo Engage as a Cloud Service_。
 
 >[!NOTE]
 >
->目前，Marketo Engage仅支持&#x200B;_Adobe Experience Manager Assets_&#x200B;中的图像资源。 必须在Adobe Experience Manager Assets中央存储库中更改资源。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>目前，Marketo Engage仅支持&#x200B;_Adobe Experience Manager Assets_&#x200B;中的图像资源。 必须在Adobe Experience Manager Assets中央存储库中更改资源。 [了解详情](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## 链接到您的AEM云服务 {#link-to-your-aem-cloud-services}
 
 在可以使用此功能之前，必须首先将AEM云服务与Adobe Marketo Engage关联。
 
-+++链接AEM云服务和Marketo Engage
++++链接AEM Cloud Services和Marketo Engage
 
 >[!NOTE]
 >
@@ -45,7 +51,7 @@ ht-degree: 1%
    >
    >* 仅列出在与Marketo Engage订阅相同的IMS组织中关联的存储库。
    >
-   >* Marketo Engage仅支持来自投放层的存储库。 如果您使用创作层并且想要转换它，请联系[Adobe Experience Manager支持](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-manager/content/overview/help-resources)。
+   >* Marketo Engage仅支持来自投放层的存储库。 如果您使用创作层并且想要转换它，请联系[Adobe Experience Manager支持](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources)。
 
 1. 必须添加[服务凭据证书](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)才能配置存储库。 单击&#x200B;**+添加证书**&#x200B;按钮。
 
@@ -83,7 +89,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->管理员必须将需要访问资源的用户添加到Assets Consumer Users和/或Assets Users产品配置文件。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>管理员必须将需要访问资源的用户添加到Assets Consumer Users和/或Assets Users产品配置文件。 [了解详情](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 在可视内容编辑器中，单击左侧边栏中的&#x200B;_Experience Manager资源选择器_&#x200B;图标。 这会将“工具”面板更改为选定存储库中可用资源的列表。
 
@@ -103,7 +109,7 @@ ht-degree: 1%
 
 ![选择AEM Assets存储库以访问图像资源](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
-* 将图像组件添加到画布并单击&#x200B;**[!UICONTROL Browse]**&#x200B;以打开&#x200B;_[!UICONTROL Select Assets]_&#x200B;对话框。
+* 将图像组件添加到画布并单击&#x200B;**[!UICONTROL Browse]**&#x200B;以打开&#x200B;_[!UICONTROL Select Assets]_对话框。
 
   从该对话框中，可以从所选存储库中选择图像。
 

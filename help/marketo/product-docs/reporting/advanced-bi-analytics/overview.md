@@ -1,16 +1,16 @@
 ---
 description: 高级BI Analytics概述 — Marketo文档 — 产品文档
-title: 高级BI Analytics概述
+title: 高级 BI 分析概述
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '1222'
-ht-degree: 0%
+source-wordcount: '1038'
+ht-degree: 1%
 
 ---
 
-# 高级BI Analytics概述 {#advanced-bi-analytics-overview}
+# 高级 BI 分析概述 {#advanced-bi-analytics-overview}
 
 Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提供了有关Marketo Engage数据的灵活报表和可视化界面，提供了有关进度、性能等内容的精细详细信息。 它具有更丰富的交互性和可视化功能、更快的性能以及更顺畅和直观的用户体验。
 
@@ -63,7 +63,8 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 导出完整报表时，您的导出选项为PDF和PPT。 如果您需要.XLS或.CSV格式的数据，可以通过导出单个可视化图表来执行此操作（[请参阅下面的](#export-a-visualization)）。
 
 >[!BEGINTABS]
->[!TAB 从报告页面] 
+
+>从报告页面[!TAB ]
 
 1. 在“报告”页面上，单击所需报告的“更多”图标(...)，然后选择&#x200B;**导出**。
 
@@ -124,7 +125,7 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
 观看以下视频，了解多页面、穿透钻取报表体验的示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451692/?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 高级BI Analytics中的标准报表 {#standard-reports}
 
@@ -235,23 +236,13 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
 ## 注意事项 {#note}
 
-* 经典“Revenue Explorer”体验将于2025年6月10日永久弃用。 同时，您可以访问、创建、更新和删除两个体验中的报告。
+* 您的自定义报告已通过以下[学习新体验](#learning-the-new-experience)部分中提到的显着行为更改，从经典体验复制到新体验。
 
-* 您的自定义报告将通过以下[学习新体验](#learning-the-new-experience)部分中提到的显着行为更改，从经典体验复制到新体验。
+* 经典体验中的仪表板不可传输，因此需要在新体验中进行重新创建。 它们可以重新创建为新体验中的报告，新体验中的过滤器会自动提取可能的值。
 
-  >[!IMPORTANT]
+  >[!NOTE]
   >
-  >自定义报表的复制将以组形式执行。 将自定义报表复制到新Experience中后，为确保两个体验之间的一致性，经典体验中所做的任何更改还需要手动应用到新Experience中的相应报表。 在复制客户报告后，上述信息备注将在经典Experience中显示。
-
-   * 经典体验中的仪表板不可传输，并且需要在新体验中进行重新创建。 它们应该重新创建，因为新体验中的报告和新体验中的过滤器会自动提取可能的值，而不是要求您在传统体验中单独手动输入所有可能的值。
-
-     >[!NOTE]
-     >
-     >新版Experience中的功能板只是单个页面上的报表集合。 新版Experience中仪表板的主要价值在于，允许您跨不同的报告区域提供分析见解。
-
-* 您在经典Experience中的电子邮件订阅将被复制到新Experience。 经典体验中的电子邮件订阅将继续正常运行，直到经典体验在2025年6月10日弃用。
-
-* 现有Revenue Explorer用户自动拥有对新的高级BI Analytics体验的访问权限。
+  >新版Experience中的功能板只是单个页面上的报表集合。 新版Experience中仪表板的主要价值在于，允许您跨不同的报告区域提供分析见解。
 
 * 您可以在高级BI Analytics中创建&#x200B;**最多700个报表**。
 
@@ -281,13 +272,9 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
 * 字符串类型过滤器现在区分大小写。
 
-* 经典Experience中的运行时公式字段不再受支持。
-
-* 电子邮件订阅包括PDF导出，而不是报表的HTML。 新的电子邮件订阅将不包含报告定义。
+* 电子邮件订阅包括PDF导出，而不是报表的HTML。 新的电子邮件订阅不包括报表定义。
 
 * 目前不支持报告的深层链接。
-
-* 与在classic experience中异步导出相比，在new experience中，PDF导出是同步的。
 
 >[!NOTE]
 >
