@@ -5,9 +5,9 @@ title: 导入人员列表
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '541'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 92%
 >
 >[完成设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-在本教程中，您将了解如何将人员从电子表格文件导入Marketo。
+在本教程中，您将学习如何将电子表格文件中的人员导入 Marketo。
 
 ## 步骤 1：下载并编辑电子表格 {#step-download-and-edit-a-spreadsheet}
 
@@ -113,7 +113,7 @@ ht-degree: 92%
 
    >[!TIP]
    >
-   >列标题应始终与字段完全匹配（区分大小写），以获得最佳自动映射结果。 如果您使用的是自定义字段且未在下拉列表中看到它们，请返回并[创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}，这样它们才会显示为可选项。
+   >列标题应与字段完全匹配（区分大小写），以获得最佳自动映射结果。如果您使用的是自定义字段且未在下拉列表中看到它们，请返回并[创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}，这样它们才会显示为可选项。
 
    >[!NOTE]
    >
@@ -127,7 +127,7 @@ ht-degree: 92%
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. 返回&#x200B;**我的展会项目**，点击 **[!UICONTROL Members]** 选项卡。您会看到您刚刚导入的所有人员。
+1. 返回&#x200B;**我的展会项目**，点击 **[!UICONTROL Members]** 选项卡。您将看到刚导入的所有人员。
 
    ![](assets/import-a-list-of-people-15.png)
 

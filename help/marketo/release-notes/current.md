@@ -4,9 +4,9 @@ title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '596'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -82,7 +82,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>编辑Smart Campaign限制的权限</strong>：管理员现在可以将修改Smart Campaign限制的功能限制为仅允许的用户。</td>
+   <td><strong>编辑智能营销活动限制的权限</strong>：管理员现在可以将更改智能营销活动限制的能力限制为仅赋予有权限的用户。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
