@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360368
 description: 了解如何在Marketo Enterprise/Unlimited版本中配置Salesforce Sales Insight。
-title: 在Marketo Enterprise/Unlimited中配置Salesforce Sales Insight
+title: 在 Salesforce 企业版/无限制版中配置 Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 07b2e888c31c6e98a3207fad5d277261f7f193af
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 1%
+source-wordcount: '801'
+ht-degree: 2%
 
 ---
 
@@ -53,6 +53,20 @@ ht-degree: 1%
    >
    >保持这个窗口打开。 您稍后需要此信息才能进行Salesforce配置。
 
+## 填充新的Rest API凭据 {#populate-new-rest-api-credentials}
+
+1. 首次填充Rest API凭据时，_查看_&#x200B;按钮将更改为&#x200B;_编辑_。 单击&#x200B;**编辑**&#x200B;按钮。
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5a.png)
+
+1. 此时将显示一条消息，确认您要重新生成API凭据。 单击&#x200B;**保存**。
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5b.png){width="800" zoomable="yes"}
+
+1. 填充新凭据后，在Salesforce实例的&#x200B;_Marketo配置_&#x200B;选项卡中更新它们。
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5c.png)
+
 ## 在[!DNL Sales Insight]中配置[!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
 1. 在Salesforce中，单击&#x200B;**[!UICONTROL Setup]**。
@@ -67,7 +81,7 @@ ht-degree: 1%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. 输入远程站点名称（它可以类似于`MarketoSoapAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Soap API Configuration]_&#x200B;面板的Marketo主机URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Soap API创建了远程站点设置。
+1. 输入远程站点名称（它可以类似于`MarketoSoapAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Soap API Configuration]_面板的Marketo主机URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Soap API创建了远程站点设置。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -75,7 +89,7 @@ ht-degree: 1%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. 输入远程站点名称（它可以类似于`MarketoAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Rest API Configuration]_&#x200B;面板的API URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
+1. 输入远程站点名称（它可以类似于`MarketoAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Rest API Configuration]_面板的API URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
 
    >[!NOTE]
    >
@@ -91,7 +105,7 @@ ht-degree: 1%
 
 1. 单击Salesforce用户正在使用的配置文件旁边的&#x200B;**[!UICONTROL Edit]**。
 
-1. 在&#x200B;_[!UICONTROL Standard Object Permission]_&#x200B;部分下，启用以下对象的&#x200B;**[!UICONTROL Read]**&#x200B;访问权限： [!UICONTROL Lead]、[!UICONTROL Contact]、[!UICONTROL Account]和[!UICONTROL Opportunity]。
+1. 在&#x200B;_[!UICONTROL Standard Object Permission]_部分下，启用以下对象的&#x200B;**[!UICONTROL Read]**访问权限： [!UICONTROL Lead]、[!UICONTROL Contact]、[!UICONTROL Account]和[!UICONTROL Opportunity]。
 
 1. 单击 **[!UICONTROL Save]**。
 
@@ -105,7 +119,7 @@ ht-degree: 1%
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 单击左侧的&#x200B;**[!UICONTROL Visualforce Pages]**。 将&#x200B;**[!UICONTROL Section]**&#x200B;拖到&#x200B;_[!UICONTROL Custom Links]_&#x200B;分区下的布局。
+1. 单击左侧的&#x200B;**[!UICONTROL Visualforce Pages]**。 将&#x200B;**[!UICONTROL Section]**&#x200B;拖到&#x200B;_[!UICONTROL Custom Links]_分区下的布局。
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
