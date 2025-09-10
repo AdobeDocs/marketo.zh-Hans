@@ -3,16 +3,16 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
-workflow-type: ht
-source-wordcount: '596'
-ht-degree: 100%
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+workflow-type: tm+mt
+source-wordcount: '494'
+ht-degree: 70%
 
 ---
 
-# 发行说明：2025 年 8 月 {#release-notes-aug-25}
+# 发行说明：2025 年 9 月 {#release-notes-sep-25}
 
-以下是 2025 年 8 月版本中包含的所有功能。请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
+在下方，您会找到2025年9月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
@@ -22,7 +22,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发布周期，将于 **2025 年 8 月 22 日**&#x200B;开始发布，并在接下来的数周内分阶段推出其余功能。功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2025年9月19日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,57 +32,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>电子邮件设计器 - 报告</strong>：电子邮件性能和电子邮件链接性能报告现在显示使用新的电子邮件设计器创建的电子邮件的数据。</td>
-   <td>已发布</td>
-   <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件设计器 - 移除自动完成功能</strong>：令牌个性化编辑器中的自动完成选项指向错误的对象，已被移除。目前没有重新实施此功能的计划。</td>
-   <td>已发布</td>
-   <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件设计器 - 电子邮件预览优化</strong>：以前，有些用户在尝试在电子邮件/电子邮件模板/片段详细信息页面中预览电子邮件时遇到加载缓慢的问题。现在优化了此体验，加载速度可提高 60%。</td>
-   <td>已发布</td>
-   <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件设计器 - 模板修复</strong>：以前，一些开箱即用的模板存在渲染问题（例如，在特定的浏览器/深色模式下无法正确渲染、图像未对齐、CTA 按钮位置错误及其他一些问题）。此版本已修复所有这些问题。</td>
-   <td>已发布</td>
-   <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件设计器 - 内容锁定修复</strong>：以前，如果在内容锁定的情况下创建电子邮件模板，然后将该模板用于创建电子邮件，则即使重置电子邮件或选择“更改设计”，内容仍会一直锁定。此问题已在此版本中修复。</td>
-   <td>已发布</td>
-   <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>编辑智能营销活动限制的权限</strong>：管理员现在可以将更改智能营销活动限制的能力限制为仅赋予有权限的用户。</td>
+   <td><strong>按需网络研讨会活动保留</strong>：交互式网络研讨会用户现在拥有超过30天的按需网络研讨会仪表板数据（以前，从网络研讨会开始算起最多只能使用30天）。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -91,6 +41,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 <br/>
 
 ## 公告 {#announcements}
+
+* **在新电子邮件Designer中切换回Velocity脚本**： Adobe Marketo Engage在过去的6月为新电子邮件Designer发布了一项名为&#x200B;_条件内容_&#x200B;的功能。 该功能由Handlebar脚本而不是Velocity脚本提供支持，旨在为您的动态内容提供更大的灵活性。 但是，当我们发现它导致某些令牌无法正确解析时，我们决定暂时禁用它。 [了解详情](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage Identity 结束**：自 2025 年 8 月起，Adobe 开始逐步停止对 Marketo Engage Identity（通过 `login.marketo.com` 登录）的支持。为避免对 Marketo Engage 的访问中断，您必须在 2025 年 9 月 30 日前切换至 [Adobe Identity](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 

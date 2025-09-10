@@ -4,9 +4,9 @@ description: 了解如何在Marketo Enterprise/Unlimited版本中配置Salesforc
 title: 在 Salesforce 企业版/无限制版中配置 Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 07b2e888c31c6e98a3207fad5d277261f7f193af
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '803'
 ht-degree: 2%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 2%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. 输入远程站点名称（它可以类似于`MarketoSoapAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Soap API Configuration]_&#x200B;面板的Marketo主机URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Soap API创建了远程站点设置。
+1. 输入远程站点名称（它可以类似于`MarketoSoapAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Soap API Configuration]_面板的Marketo主机URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Soap API创建了远程站点设置。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -89,7 +89,7 @@ ht-degree: 2%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. 输入远程站点名称（它可以类似于`MarketoAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Rest API Configuration]_&#x200B;面板的API URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
+1. 输入远程站点名称（它可以类似于`MarketoAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Rest API Configuration]_面板的API URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ ht-degree: 2%
 
 1. 单击Salesforce用户正在使用的配置文件旁边的&#x200B;**[!UICONTROL Edit]**。
 
-1. 在&#x200B;_[!UICONTROL Standard Object Permission]_&#x200B;部分下，启用以下对象的&#x200B;**[!UICONTROL Read]**&#x200B;访问权限： [!UICONTROL Lead]、[!UICONTROL Contact]、[!UICONTROL Account]和[!UICONTROL Opportunity]。
+1. 在&#x200B;_[!UICONTROL Standard Object Permission]_部分下，启用以下对象的&#x200B;**[!UICONTROL Read]**访问权限： [!UICONTROL Lead]、[!UICONTROL Contact]、[!UICONTROL Account]和[!UICONTROL Opportunity]。
 
 1. 单击 **[!UICONTROL Save]**。
 
@@ -119,7 +119,7 @@ ht-degree: 2%
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 单击左侧的&#x200B;**[!UICONTROL Visualforce Pages]**。 将&#x200B;**[!UICONTROL Section]**&#x200B;拖到&#x200B;_[!UICONTROL Custom Links]_&#x200B;分区下的布局。
+1. 单击左侧的&#x200B;**[!UICONTROL Visualforce Pages]**。 将&#x200B;**[!UICONTROL Section]**&#x200B;拖到&#x200B;_[!UICONTROL Custom Links]_分区下的布局。
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -235,9 +235,9 @@ Marketo人员字段必须映射到Salesforce联系人字段，以确保转换正
 
 1. 在Salesforce中，单击选项卡栏末尾的&#x200B;**+**，然后单击&#x200B;**[!UICONTROL Marketo Sales Insight Config]**。
 
-1. 从[Marketo的Sales Insight Admin页](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}中的Soap API面板复制凭据，并将其粘贴到[!DNL Salesforce] [!DNL Sales Insight]配置页的Soap API部分中。
+1. 从[Marketo Sales Insight Admin页](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}中的Soap API面板复制凭据，并将其粘贴到[!DNL Salesforce] [!DNL Sales Insight]配置页的Soap API部分。
 
-1. 从[Marketo的Sales Insight管理页面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}中的Rest API面板复制凭据，并将其粘贴到[!DNL Salesforce] [!DNL Sales Insight]配置页面的Rest API部分。
+1. 从[Marketo Sales Insight管理页面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}中的Rest API面板复制凭据，并将其粘贴到[!DNL Salesforce] [!DNL Sales Insight]配置页面的Rest API部分。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
