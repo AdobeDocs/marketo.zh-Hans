@@ -4,9 +4,9 @@ description: 将SSL添加到登陆页面 — Marketo文档 — 产品文档
 title: 为登录页面添加 SSL
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
+source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '702'
 ht-degree: 2%
 
 ---
@@ -59,9 +59,7 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 
 >[!NOTE]
 >
->* 列表中的“SSL证书”列显示在发布此功能后创建的所有域别名的证书状态（2025年4月25日）。 如果您通过Marketo支持为域启用了SSL，则该证书将继续存在，但不会显示在表中。 此表仅反映使用本文中的步骤添加的域的SSL证书。
->
->* SSL可能最多需要3分钟才能处于“就绪”状态。 必须刷新页面才能显示更改。
+>SSL可能最多需要3分钟才能处于“就绪”状态。 必须刷新页面才能显示更改。
 
 ## 错误消息 {#error-messages}
 
@@ -101,12 +99,10 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 
 ## 注意事项 {#things-to-note}
 
-* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自定义SSL**：如果您需要自定义SSL，请提交[支持票证](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 请勿使用自助复选框来创建SSL。
 
 * **预先存在的SSL**：在添加域时，系统会检查预先存在的SSL，这些SSL可能在之前已手动创建。 如果您遇到此验证，请在不选择SSL创建的情况下创建您的域，我们将为您连接它们。 [联系支持人员](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}其他详细信息/选项。
 
-* **向现有域添加证书**：目前不支持向现有域添加证书。 对于预先存在的域，或者如果您未选中SSL证书框，则必须联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以添加证书。
-
-* **删除域**：删除域会自动删除SSL证书。
+* **删除域**：自动删除域&#x200B;**不会**&#x200B;删除SSL证书。 此护栏可防止导致网站没有SSL证书的用户错误。 如果您确实要删除SSL证书，请[联系支持人员](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
