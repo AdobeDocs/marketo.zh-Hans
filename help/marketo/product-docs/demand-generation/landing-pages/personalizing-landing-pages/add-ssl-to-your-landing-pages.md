@@ -4,9 +4,9 @@ description: 将SSL添加到登陆页面 — Marketo文档 — 产品文档
 title: 为登录页面添加 SSL
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
+source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '793'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,27 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 
 >[!NOTE]
 >
->SSL可能最多需要3分钟才能处于“就绪”状态。 必须刷新页面才能显示更改。
+>SSL可能最多需要3分钟才能处于READY状态。 刷新页面以显示更改。
+
+## 编辑现有域别名的SSL
+
+按照以下步骤为现有域别名启用SSL。
+
+1. 从&#x200B;_[!UICONTROL Admin]_区域，展开左侧导航中的&#x200B;**[!UICONTROL Integration]**并选择&#x200B;**[!UICONTROL Landing Pages]**。
+
+1. 在页面上，选择顶部的&#x200B;**[!UICONTROL Rules]**&#x200B;选项卡。
+
+1. 选择要编辑的域别名行，然后单击顶部的&#x200B;**[!UICONTROL Add SSL]**。
+
+   ![管理区域 — 集成>登陆页面 — “规则”选项卡 — 选择域别名](./assets/admin-landing-pages-rules-add-ssl.png){width="800" zoomable="yes"}
+
+1. 在对话框中，单击&#x200B;**[!UICONTROL Confirm]**。
+
+   ![添加SSL — 确认](./assets/generate-ssl-cert-confirm.png){width="400"}
+
+>[!NOTE]
+>
+>SSL可能最多需要3分钟才能处于READY状态。 刷新页面以显示更改。
 
 ## 错误消息 {#error-messages}
 
@@ -99,7 +119,7 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 
 ## 注意事项 {#things-to-note}
 
-* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自定义SSL**：如果您需要自定义SSL，请提交[支持票证](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 请勿使用自助复选框来创建SSL。
 
