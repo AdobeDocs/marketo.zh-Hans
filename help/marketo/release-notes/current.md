@@ -4,15 +4,15 @@ title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '494'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 # 发行说明：2025 年 9 月 {#release-notes-sep-25}
 
-在下方，您会找到2025年9月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
+以下是 2025 年 9 月版本中包含的所有功能。请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
@@ -22,7 +22,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2025年9月19日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
+以下功能属于标准发布周期，将于 **2025 年 9 月 19 日**&#x200B;开始发布，并在接下来的数周内分阶段推出其余功能。功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,7 +32,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>按需网络研讨会活动保留</strong>：交互式网络研讨会用户现在拥有超过30天的按需网络研讨会仪表板数据（以前，从网络研讨会开始算起最多只能使用30天）。</td>
+   <td><strong>按需网络研讨会活动保留</strong>：交互式网络研讨会用户现在可以获得按需网络研讨会仪表板数据超过 30 天（以前，从网络研讨会之日起最多只能获得 30 天）。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -42,7 +42,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **在新电子邮件Designer中切换回Velocity脚本**： Adobe Marketo Engage在过去的6月为新电子邮件Designer发布了一项名为&#x200B;_条件内容_&#x200B;的功能。 该功能由Handlebar脚本而不是Velocity脚本提供支持，旨在为您的动态内容提供更大的灵活性。 但是，当我们发现它导致某些令牌无法正确解析时，我们决定暂时禁用它。 [了解详情](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
+* **在新的电子邮件设计器中切换回 Velocity 脚本**：Adobe Marketo Engage 于今年 6 月为新的电子邮件设计器发布了一项名为&#x200B;_条件内容_&#x200B;的功能。该功能由 Handlebar 脚本而不是 Velocity 脚本提供支持，旨在为您的动态内容提供更多的灵活性。但当我们发现它导致一些令牌被错误解析时，我们决定暂时禁用它。[了解详情](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage Identity 结束**：自 2025 年 8 月起，Adobe 开始逐步停止对 Marketo Engage Identity（通过 `login.marketo.com` 登录）的支持。为避免对 Marketo Engage 的访问中断，您必须在 2025 年 9 月 30 日前切换至 [Adobe Identity](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 
