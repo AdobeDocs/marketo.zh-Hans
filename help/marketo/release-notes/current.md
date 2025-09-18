@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
-workflow-type: ht
-source-wordcount: '494'
-ht-degree: 100%
+source-git-commit: 9189d45829a23a3b9eb75fc4125db92c3508773d
+workflow-type: tm+mt
+source-wordcount: '653'
+ht-degree: 78%
 
 ---
 
@@ -33,6 +33,46 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>按需网络研讨会活动保留</strong>：交互式网络研讨会用户现在可以获得按需网络研讨会仪表板数据超过 30 天（以前，从网络研讨会之日起最多只能获得 30 天）。</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件Designer - Content Collaboration工作流程</strong>：您现在可以在电子邮件资源中评论并与Marketo同事协作。 标记团队成员(具有相应资源权限的Marketo用户)，他们将会收到电子邮件或脉冲通知。</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件Designer - AI助手权限</strong>： Marketo管理员可以为特定用户提供对GenAI功能的访问权限。</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>深色模式</strong>：您现在可以使用深色模式，该模式允许支持电子邮件客户端和应用显示具有更暗背景和更浅颜色的电子邮件，用于文本、按钮和其他UI元素。</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件Designer — 重定向修复</strong>：某些用户在使用新Designer创建的电子邮件的URL时遇到重定向问题（例如，直接粘贴URL或为电子邮件资源添加书签并不总是有效）。 此问题已得到解决。 此外，从<b>电子邮件模板</b> &gt; <b>详细信息</b> &gt; <b>用于</b>的电子邮件资源链接将重定向到相应的电子邮件资源。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
