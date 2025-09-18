@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '655'
 ht-degree: 72%
 
 ---
@@ -62,7 +62,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>深色模式</strong>：您现在可以使用深色模式，该模式允许支持电子邮件客户端和应用显示具有更暗背景和更浅颜色的电子邮件，用于文本、按钮和其他UI元素。</td>
+   <td><strong>电子邮件Designer — 深色模式</strong>：您现在可以使用深色模式，该模式允许支持电子邮件客户端和应用程序显示具有更暗背景和更浅颜色的电子邮件，以用于文本、按钮和其他UI元素。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
