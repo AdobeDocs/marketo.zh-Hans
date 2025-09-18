@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: 使用 AI 助手
-description: 利用Adobe的创作AI技术，向电子邮件中添加有用的文本和/或图像。
+description: 利用 Adobe 的生成式 AI 技术，为您的电子邮件添加有用的文本和/或图像。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
 source-wordcount: '726'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
