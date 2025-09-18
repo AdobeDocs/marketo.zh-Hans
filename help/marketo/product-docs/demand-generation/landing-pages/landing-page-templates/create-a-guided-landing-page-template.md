@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515401
 description: 创建引导式登陆页面模板 — Marketo文档 — 产品文档
-title: 创建引导式登陆页面模板
+title: 创建引导式登录页面模板
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 1%
+source-wordcount: '1122'
+ht-degree: 2%
 
 ---
 
-# 创建引导式登陆页面模板 {#create-a-guided-landing-page-template}
+# 创建引导式登录页面模板 {#create-a-guided-landing-page-template}
 
 引导式登陆页面模板具有特殊的语法。 使用此语法可指定可自定义的内容以及内容在从模板构建的每个登陆页面上的结束位置。 只有指定为可编辑的区域或变量才可以在“引导式”登陆页面编辑器中自定义。
 
@@ -90,7 +90,7 @@ src：字符串URL。 这将用作图像的默认值。
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
-## 代码片段 {#snippet}
+## 代码段 {#snippet}
 
 必需属性：
 **类**： &quot;mktoSnippet&quot;
@@ -126,39 +126,6 @@ src：字符串URL。 这将用作图像的默认值。
 示例：
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## 投票 {#poll}
-
-必需属性：
-**类**： &quot;mktoPoll&quot;
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
-**mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
-
-示例：
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## 反向链接 {#referral}
-
-必需属性：
-**类**： &quot;mktoReferral&quot;
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
-**mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
-
-示例：
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## 抽奖活动 {#sweepstakes}
-
-必需属性：
-**类**： &quot;mktoSweepstakes&quot;
-**id**： ID字符串。 仅包含字母、数字、短划线“ — ”和下划线“_”。 不允许使用空格。 必须是唯一的。
-**mktoName** ：字符串。 这是将显示在登陆页面编辑器中的显示名称。 最佳实践是使用描述性名称。
-
-示例：
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## 可编辑的变量 {#editable-variables}
 
