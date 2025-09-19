@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
+source-git-commit: c83145ca5e723f19e5bc89279ccd40cf4cf68ee3
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '654'
 ht-degree: 72%
 
 ---
@@ -42,7 +42,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer - Content Collaboration工作流程</strong>：您现在可以在电子邮件资源中评论并与Marketo同事协作。 标记团队成员(具有相应资源权限的Marketo用户)，他们将会收到电子邮件或脉冲通知。</td>
+   <td><strong>向Designer发送电子邮件 — Content Collaboration工作流程</strong>：您现在可以在电子邮件资源中评论并与Marketo同事协作。 标记团队成员(具有相应资源权限的Marketo用户)，他们将会收到电子邮件或脉冲通知。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
