@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: 审核记录]概述 — Marketo文档 — 产品文档
+description: 审核记录&rbrack;概述 — Marketo文档 — 产品文档
 title: 审核记录概述
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail

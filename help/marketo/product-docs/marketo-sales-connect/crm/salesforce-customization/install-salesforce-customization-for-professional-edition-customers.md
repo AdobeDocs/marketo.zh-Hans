@@ -56,6 +56,6 @@ ht-degree: 0%
 
 ## 指南 {#guides}
 
-《Salesforce Classic安装指南》[](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+《Salesforce Classic安装指南》[&#128279;](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
 Salesforce Lightning的[安装指南](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

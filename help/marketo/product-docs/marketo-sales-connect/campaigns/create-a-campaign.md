@@ -36,7 +36,7 @@ ht-degree: 2%
    >
    >通过单击&#x200B;**旁边的**+**[!UICONTROL Categories]**&#x200B;创建新类别。
 
-1. 将选择您选择的类别。 如果您改变了主意，请单击下拉菜单并选择另一个下拉菜单。 完成后，单击&#x200B;**[!UICONTROL  Continue]**。
+1. 将选择您选择的类别。 如果您改变了主意，请单击下拉菜单并选择另一个下拉菜单。 完成后，单击&#x200B;**[!UICONTROL &#x200B; Continue]**。
 
    ![](assets/three-1.png)
 

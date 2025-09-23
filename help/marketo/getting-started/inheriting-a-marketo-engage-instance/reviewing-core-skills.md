@@ -17,7 +17,7 @@ ht-degree: 6%
 
 如果您没有足够的时间来复习核心技能，我们建议您执行以下操作：
 
-![创建电子邮件程序](assets/reviewing-core-skills-1.png)[**创建电子邮件程序**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
+![创建电子邮件程序](assets/reviewing-core-skills-1.png) [**创建电子邮件程序**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
 
 <p>
 
@@ -25,7 +25,7 @@ ht-degree: 6%
 
 <p>
 
-![编辑电子邮件中的文本](assets/reviewing-core-skills-3.png)[**编辑电子邮件中的文本**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
+![编辑电子邮件中的文本](assets/reviewing-core-skills-3.png) [**编辑电子邮件中的文本**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
 
 <p>
 
@@ -33,8 +33,8 @@ ht-degree: 6%
 
 <p>
 
-![报表类型](assets/reviewing-core-skills-5.png)[**报表类型**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+![报表类型](assets/reviewing-core-skills-5.png) [**报表类型**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
 
 <p>
 
-![如何组织程序](assets/reviewing-core-skills-6.png)[**如何组织程序**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}
+![如何组织程序](assets/reviewing-core-skills-6.png) [**如何组织程序**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}

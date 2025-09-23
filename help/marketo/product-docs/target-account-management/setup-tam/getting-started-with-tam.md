@@ -23,7 +23,7 @@ ht-degree: 2%
 
 **步骤四：[创建CRM发现自定义字段](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md){target="_blank"}** — 将现有CRM帐户字段映射到新的命名帐户自定义字段（如果您未使用CRM，请跳过此步骤）。
 
-**第五步：****_创建指定帐户_** — 指定帐户包含您定位的公司的人员。 创建指定帐户的方法有四种：
+**第五步：**&#x200B;**_创建指定帐户_** — 指定帐户包含您定位的公司的人员。 创建指定帐户的方法有四种：
 
 * [导入指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md){target="_blank"} — 将潜在目标帐户的列表直接上传到TAM（这可以是您从CRM导出的列表）
 * [发现CRM帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts){target="_blank"} — 查看同步到Marketo的所有CRM帐户的列表，并使用关键属性（即行业）进行筛选以创建指定帐户

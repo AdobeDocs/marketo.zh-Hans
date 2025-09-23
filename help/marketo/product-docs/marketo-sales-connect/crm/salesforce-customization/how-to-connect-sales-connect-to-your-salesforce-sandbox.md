@@ -15,7 +15,7 @@ ht-degree: 13%
 
 >[!PREREQUISITES]
 >
->建立与沙盒的连接时，您的[!DNL  Sales Connect]帐户不能已连接到[!DNL Salesforce]。 如果是，[请确保断开连接](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)，然后再执行本文中的步骤。
+>建立与沙盒的连接时，您的[!DNL &#x200B; Sales Connect]帐户不能已连接到[!DNL Salesforce]。 如果是，[请确保断开连接](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)，然后再执行本文中的步骤。
 
 1. 在[!DNL Sales Connect]中，单击右上角的齿轮图标，然后选择&#x200B;**[!UICONTROL Settings]**。
 

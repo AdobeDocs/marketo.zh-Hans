@@ -15,7 +15,7 @@ ht-degree: 7%
 
 在自动执行营销活动时，您可能不希望自己的电子邮件在星期六或星期日发出。 否则，您可以跳过周末。
 
-1. 在[!DNL Sales Connect]中，单击&#x200B;**[!UICONTROL  Campaigns]**&#x200B;选项卡。
+1. 在[!DNL Sales Connect]中，单击&#x200B;**[!UICONTROL &#x200B; Campaigns]**&#x200B;选项卡。
 
    ![](assets/one-2.png)
 

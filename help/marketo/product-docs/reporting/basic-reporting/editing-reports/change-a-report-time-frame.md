@@ -43,7 +43,7 @@ ht-degree: 7%
    >
    >要设置特定日期，请从下拉菜单中选择&#x200B;**[!UICONTROL Custom]**，然后在&#x200B;**[!UICONTROL From]**&#x200B;和&#x200B;**[!UICONTROL To]**&#x200B;日历字段中输入日期。
 
-   单击&#x200B;**[!UICONTROL Report]**选项卡可查看选定时间范围的报告。
+   单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡可查看选定时间范围的报告。
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

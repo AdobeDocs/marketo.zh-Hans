@@ -17,7 +17,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!UICONTROL Recipient Time Zone]当前仅对电子邮件内容使用&#x200B;**2}。**&#x200B;它不适用于默认参与计划。
+>[!UICONTROL Recipient Time Zone]当前仅对电子邮件内容使用&#x200B;**2&rbrace;。**&#x200B;它不适用于默认参与计划。
 
 ## 电子邮件项目 {#email-programs}
 
