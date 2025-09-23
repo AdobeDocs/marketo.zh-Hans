@@ -56,7 +56,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >触发器字段仅适用于使用[电子邮件脚本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)的用户。
+   >触发器字段仅适用于使用[电子邮件脚本](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)的用户。
 
 ## 发送基于区段的示例电子邮件 {#send-a-sample-email-based-on-a-segment}
 

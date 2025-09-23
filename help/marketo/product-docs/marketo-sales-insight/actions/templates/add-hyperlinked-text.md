@@ -26,7 +26,7 @@ ht-degree: 5%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 输入您希望它链接的URL（即`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。 选择您想在同一窗口还是新窗口中打开URL，然后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入您希望它链接的URL（即`https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans`）。 选择您想在同一窗口还是新窗口中打开URL，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-hyperlinked-text-4.png)
 

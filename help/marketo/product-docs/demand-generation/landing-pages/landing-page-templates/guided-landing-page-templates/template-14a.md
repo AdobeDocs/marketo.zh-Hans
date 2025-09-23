@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # 模板 14A {#template-14a}
 
-右键单击以[下载模板14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
+右键单击以[下载模板14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html?lang=zh-Hans)
 
 ![](assets/image2015-8-11-15-3a9-3a52.png)
 
@@ -29,4 +29,4 @@ ht-degree: 8%
 
 **右键单击以下内容以下载此模板：**
 
-[模板14A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
+[模板14A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html?lang=zh-Hans)

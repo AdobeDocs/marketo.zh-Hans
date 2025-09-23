@@ -62,7 +62,7 @@ _如果用户&#x200B;**不**&#x200B;需要迁移_ - Marketo Engage管理员在�
 
 **分辨率**：
 
-_如果用户需要迁移_（并且在迁移组织中启用了域实施） — 必须在Marketo Engage中更新电子邮件地址以符合域实施(DE)策略。 或者，系统管理员可以[将域](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}移动到另一个域实施(DE)禁用的目录，或者[创建一个不在DE策略下的新目录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。 Marketo Engage管理员，然后从迁移控制台为此用户重新运行用户迁移。
+_如果用户需要迁移_（并且在迁移组织中启用了域实施） — 必须在Marketo Engage中更新电子邮件地址以符合域实施(DE)策略。 或者，系统管理员可以[将域](https://helpx.adobe.com/cn/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}移动到另一个域实施(DE)禁用的目录，或者[创建一个不在DE策略下的新目录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。 Marketo Engage管理员，然后从迁移控制台为此用户重新运行用户迁移。
 
 _如果用户需要迁移_（并且已在其他组织中启用域实施） — 已声明域的组织的系统管理员需要将用户的电子邮件地址添加到异常列表。 Marketo Engage管理员，然后从迁移控制台为此用户重新运行用户迁移。
 
@@ -79,8 +79,8 @@ _如果用户&#x200B;**不**&#x200B;需要迁移_ - Marketo Engage管理员在�
 1. 将创建仅授权帐户（如果适用）并将其链接到联合帐户作为其身份验证帐户。
 
 **了解详情**
-* [设置标识而不使用单点登录](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
-* [使用单点登录设置身份](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
+* [设置标识而不使用单点登录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
+* [使用单点登录设置身份](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
 
 ### Pendo迁移失败 {#pendo-migration-failed}
 

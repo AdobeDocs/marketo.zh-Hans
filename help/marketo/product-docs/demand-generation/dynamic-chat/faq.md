@@ -24,7 +24,7 @@ Dynamic Chat JavaScript代码片段可以安装在任何网站以及Marketo登�
 
 **数据存储用于报告的时间有多长？**
 
-90天。 有关限制/参数的完整列表，请访问Marketo Engage [产品描述页](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
+90天。 有关限制/参数的完整列表，请访问Marketo Engage [产品描述页](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
 
 **Dynamic Chat是否支持英语以外的任何语言？**
 

@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # 模板 4B {#template-4b}
 
-右键单击以[下载模板4B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
+右键单击以[下载模板4B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=zh-Hans)
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 
@@ -29,4 +29,4 @@ ht-degree: 7%
 
 **右键单击以下内容以下载此模板：**
 
-[模板4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
+[模板4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=zh-Hans)

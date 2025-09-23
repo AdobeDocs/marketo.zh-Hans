@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # 模板 3C {#template-3c}
 
-右键单击以[下载模板3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+右键单击以[下载模板3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html?lang=zh-Hans)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 
@@ -29,4 +29,4 @@ ht-degree: 7%
 
 **右键单击以下内容以下载此模板：**
 
-[模板3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+[模板3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html?lang=zh-Hans)

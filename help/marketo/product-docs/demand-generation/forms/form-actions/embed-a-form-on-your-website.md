@@ -47,6 +47,6 @@ Marketo允许您将我们的表单嵌入到您自己的网站上。 以下是如
 
 >[!NOTE]
 >
->如果您的开发人员想要自定义外观或访问高级API功能，请向他们显示[Forms 2.0开发人员页面](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。
+>如果您的开发人员想要自定义外观或访问高级API功能，请向他们显示[Forms 2.0开发人员页面](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。
 
 做得好！是否希望[嵌入代码包含Lightbox代码](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)？ 这也很容易！

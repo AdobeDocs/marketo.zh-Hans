@@ -94,9 +94,9 @@ ht-degree: 3%
 
 ### 共享到Adobe Analytics {#sharing-to-adobe-analytics}
 
-* 对于同时拥有Adobe Audience Manager和Adobe Analytics的用户，通过此集成，可以将受众从Marketo共享到Adobe Analytics报表包，但是，还需要在Adobe Audience Manager中执行一些其他配置步骤才能启用此功能。 请查阅[Adobe Audience Manager的文档](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}以了解有关如何设置此功能的更多信息。
+* 对于同时拥有Adobe Audience Manager和Adobe Analytics的用户，通过此集成，可以将受众从Marketo共享到Adobe Analytics报表包，但是，还需要在Adobe Audience Manager中执行一些其他配置步骤才能启用此功能。 请查阅[Adobe Audience Manager的文档](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hans){target="_blank"}以了解有关如何设置此功能的更多信息。
 
-* 将列表从Marketo上传到Adobe Audience Manager后，Adobe Target也可以访问该列表。 必须在Adobe Target[中启用该配置](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
+* 将列表从Marketo上传到Adobe Audience Manager后，Adobe Target也可以访问该列表。 必须在Adobe Target[中启用该配置](https://experienceleague.adobe.com/zh-hans/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
 
 * 如果列表为空，或没有具有ECID值的用户，则列表名称不会推送到Marketo外部进行引用。
 

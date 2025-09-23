@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Dynamic Chat支持同步[Marketo native](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}以及自定义人员字段和公司字段。
+>Dynamic Chat支持同步[Marketo native](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}以及自定义人员字段和公司字段。
 
 1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Dynamic Chat]**&#x200B;磁贴。
 
@@ -28,7 +28,7 @@ ht-degree: 2%
    >
    >如果您看不到图块，请联系您的Marketo管理员。
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Dynamic Chat。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Dynamic Chat。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
 1. 要连接您的Marketo实例，请选择&#x200B;**[!UICONTROL Integrations]**。
 

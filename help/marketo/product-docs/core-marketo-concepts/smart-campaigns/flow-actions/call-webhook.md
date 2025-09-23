@@ -23,7 +23,7 @@ Webhook允许您与第三方服务进行交互。 通过在智能营销活动流
 
 >[!NOTE]
 >
->了解[Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以为您做许多有趣的事情。
+>了解[Webhooks](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以为您做许多有趣的事情。
 
 1. 从下拉列表中选择Webhook。
 

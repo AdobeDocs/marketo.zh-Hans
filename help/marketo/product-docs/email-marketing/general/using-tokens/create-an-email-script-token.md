@@ -49,7 +49,7 @@ ht-degree: 4%
 
 1. 在Velocity中编写脚本。 以下是一些有用的资源：
 
-   * [Marketo开发人员电子邮件脚本文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo开发人员电子邮件脚本文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)
    * [Velocity用户指南](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity参考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity工具Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
