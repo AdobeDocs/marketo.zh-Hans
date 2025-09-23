@@ -4,16 +4,16 @@ description: 冠军/挑战者 — 放弃电子邮件测试 — Marketo文档 —
 title: 冠军/挑战者 — 放弃电子邮件测试
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 冠军/挑战者：放弃电子邮件测试 {#champion-challenger-discard-an-email-test}
+# 挑战者对比：放弃电子邮件测试 {#champion-challenger-discard-an-email-test}
 
-如果在任何时候决定不要继续运行电子邮件测试，则可以将其放弃。 具体方法如下。
+如果在任何时候决定不要继续运行电子邮件测试，则可以将其放弃。 操作方法如下：
 
 >[!PREREQUISITES]
 >

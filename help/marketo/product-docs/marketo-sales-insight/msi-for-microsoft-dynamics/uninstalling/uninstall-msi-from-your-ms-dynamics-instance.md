@@ -4,7 +4,7 @@ description: 从MS [!DNL Dynamics] 实例中卸载MSI - Marketo文档 — 产品
 title: 从MS [!DNL Dynamics] 实例卸载MSI
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 3%

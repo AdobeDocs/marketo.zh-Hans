@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384433
 description: 客户团队设置 — Marketo文档 — 产品文档
-title: 客户团队设置
+title: 帐户团队设置
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 客户团队设置 {#account-team-setup}
+# 帐户团队设置 {#account-team-setup}
 
 帐户团队是指在指定帐户中共同工作的一组利益相关者。 按照以下步骤选择应添加的CRM帐户角色。
 

@@ -1,16 +1,16 @@
 ---
 description: 操作线索管理 — Marketo文档 — 产品文档
-title: 业务线索管理
+title: OP-潜在客户管理
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# 业务线索管理 {#op-lead-management}
+# OP-潜在客户管理 {#op-lead-management}
 
 这是商机管理最佳实践工作流的示例，该工作流利用Marketo Engage默认程序协助您管理Marketo Engage数据库中对CRM的记录。
 
@@ -49,18 +49,18 @@ ht-degree: 4%
    <th>资源名称</th>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>01 — 将新人员同步到CRM</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>02 — 符合营销条件</td>
   </tr>
   <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>01 — 电子邮件 — 警报 — MQL</td>
   </tr>
   <tr>

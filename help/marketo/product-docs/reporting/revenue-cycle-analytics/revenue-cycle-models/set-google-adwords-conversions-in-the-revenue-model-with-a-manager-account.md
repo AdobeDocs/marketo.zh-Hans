@@ -4,7 +4,7 @@ description: 使用经理帐户在收入模型中设置 [!DNL Google AdWords] �
 title: 使用经理帐户在收入模型中设置 [!DNL Google AdWords] 转化
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 1%

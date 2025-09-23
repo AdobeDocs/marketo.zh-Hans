@@ -3,14 +3,14 @@ description: 继承实例数据库核对清单 — Marketo文档 — 产品文�
 title: 继承实例数据库核对清单
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# 继承的实例：数据库核对清单 {#inherited-instance-database-checklist}
+# 继承实例：数据库检查表 {#inherited-instance-database-checklist}
 
 了解您的订阅中的总人数、可营销人员和主要人员获取来源。 请记住[下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)并跟踪您的进度。
 

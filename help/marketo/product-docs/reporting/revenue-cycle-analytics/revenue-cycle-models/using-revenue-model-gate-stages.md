@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718670
 description: 使用收入模型审核阶段 — Marketo文档 — 产品文档
-title: 使用收入模型审核阶段
+title: 使用收入模型关卡阶段
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 使用收入模型审核阶段 {#using-revenue-model-gate-stages}
+# 使用收入模型关卡阶段 {#using-revenue-model-gate-stages}
 
 审核阶段用作资格检查。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 添加关口阶段 {#add-a-gate-stage}
 
-1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;区域。
+1. 进入 **[!UICONTROL Analytics]** 区域。
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 

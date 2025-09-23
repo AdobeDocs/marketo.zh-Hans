@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951884
 description: 了解Revenue Explorer中的Opportunity Analysis - Marketo文档 — 产品文档
-title: 了解Revenue Explorer中的Opportunity分析
+title: 了解收入探索器中的商机分析
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# 了解Revenue Explorer中的Opportunity分析 {#understanding-opportunity-analysis-in-revenue-explorer}
+# 了解收入探索器中的商机分析 {#understanding-opportunity-analysis-in-revenue-explorer}
 
 Revenue Explorer中的Opportunity Analysis允许您更深入地检查您的机会。 根据任何潜在客户/公司属性（如潜在客户来源、行业或地理位置）对数据进行切片和切块。 根据名称、阶段或概率分析机会的创建和关闭。 了解营销对管道的贡献。
 

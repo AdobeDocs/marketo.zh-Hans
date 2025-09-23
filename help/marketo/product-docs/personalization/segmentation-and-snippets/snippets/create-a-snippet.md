@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359459
 description: 创建代码片段 — Marketo文档 — 产品文档
-title: 创建代码片段
+title: 创建代码段
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 创建代码片段 {#create-a-snippet}
+# 创建代码段 {#create-a-snippet}
 
 代码片段可以用作&#x200B;**电子邮件**&#x200B;和&#x200B;**登陆页面**&#x200B;上的动态内容块。
 

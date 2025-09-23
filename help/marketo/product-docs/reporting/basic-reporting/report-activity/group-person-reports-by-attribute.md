@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360199
 description: 按属性分组人员报表 — Marketo文档 — 产品文档
-title: 按属性分组人员报表
+title: 按属性对人员报告进行分组
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 按属性分组人员报表 {#group-person-reports-by-attribute}
+# 按属性对人员报告进行分组 {#group-person-reports-by-attribute}
 
 您可以按任何人员或公司属性对人员报表进行分组。
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >如果选择具有数字值的属性，如&#x200B;_[!UICONTROL Created At]_&#x200B;或_[!UICONTROL Annual Revenue]_，请从右侧的&#x200B;**[!UICONTROL Units]**&#x200B;下拉列表中选择量度。
+   >如果选择具有数字值的属性，如&#x200B;_[!UICONTROL Created At]_或_[!UICONTROL Annual Revenue]_，请从右侧的&#x200B;**[!UICONTROL Units]**&#x200B;下拉列表中选择量度。
 
    操作完成！单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡以查看您的报告已进行相应分组。
 

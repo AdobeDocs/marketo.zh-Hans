@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098379
 description: 将与Microsoft Dynamics快速同步用于新自定义字段 — Marketo文档 — 产品文档
-title: 将与Microsoft Dynamics快速同步用于新自定义字段
+title: 使用 Microsoft Dynamics 快速同步新的自定义字段
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '336'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
 ## 高级同步选项 {#advanced-sync-options}
 
-如果要同步现有字段，但只针对有限的数据集执行同步操作，该怎么办？ 具体方法如下。
+如果要同步现有字段，但只针对有限的数据集执行同步操作，该怎么办？ 操作方法如下：
 
 1. 清除现有字段的复选框。 单击 **[!UICONTROL Save]**。
 

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360287
 description: 在Marketo中创建自定义字段 — Marketo文档 — 产品文档
-title: 在Marketo中创建自定义字段
+title: 在 Marketo 中创建自定义字段
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: dcc2af51726db6f503486fb0553fb32fc65495ce
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 在Marketo中创建自定义字段 {#create-a-custom-field-in-marketo}
+# 在 Marketo 中创建自定义字段 {#create-a-custom-field-in-marketo}
 
 如果您在Marketo Engage中需要新的自定义字段来存储/捕获数据，以下提供了如何创建字段。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. 输入您希望它在Marketo中显示的&#x200B;_[!UICONTROL Name]_（自动生成&#x200B;_[!UICONTROL API Name]_）。 请仔细选择，因为保存后无法重命名它。 完成后单击&#x200B;**[!UICONTROL Create]**。
+1. 输入您希望它在Marketo中显示的&#x200B;_[!UICONTROL Name]_（自动生成_[!UICONTROL API Name]_）。 请仔细选择，因为保存后无法重命名它。 完成后单击&#x200B;**[!UICONTROL Create]**。
 
 >[!CAUTION]
 >

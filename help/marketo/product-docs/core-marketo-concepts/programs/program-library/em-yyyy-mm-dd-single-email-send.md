@@ -1,16 +1,16 @@
 ---
 description: EM-YYYY-MM-DD-Single Email Send - Marketo文档 — 产品文档
-title: EM-YYYY-MM-DD-Single电子邮件发送
+title: EM-YYYY-MM-DD-单次邮件发送
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# EM-YYYY-MM-DD-Single电子邮件发送 {#em-yyyy-mm-dd-single-email-send}
+# EM-YYYY-MM-DD-单次邮件发送 {#em-yyyy-mm-dd-single-email-send}
 
 此示例利用Marketo Engage电子邮件程序发送一封电子邮件。 电子邮件可以包含或不包含A/B测试。
 
@@ -47,7 +47,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>01-Email — 谢谢</td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ ht-degree: 6%
   </tr>
   <tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>01参与（计划成功）</td>
   </tr>

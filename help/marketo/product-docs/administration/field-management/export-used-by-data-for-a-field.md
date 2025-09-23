@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45417092
 description: 导出用于字段的数据 — Marketo文档 — 产品文档
-title: 字段数据使用的导出
+title: 导出字段的“被使用”数据
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 25%
 
 ---
 
-# 字段数据使用的导出 {#export-used-by-data-for-a-field}
+# 导出字段的“被使用”数据 {#export-used-by-data-for-a-field}
 
 作为管理员，您可以导出字段的相关资产，以便将其取消链接委派给团队。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 导出所用者]**。
+1. 点击 **[!UICONTROL Field Actions]** 下拉菜单，并选择 **[!UICONTROL Export Used By]**。
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 

@@ -4,10 +4,10 @@ description: 更新针对 [!DNL Microsoft Dynamics] 的Marketo解决方案 — M
 title: 更新 [!DNL Microsoft Dynamics]的Marketo解决方案
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 >
 >在执行任何更新之前，您必须先下载最新的Marketo解决方案&#x200B;__。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/admin.png)
 

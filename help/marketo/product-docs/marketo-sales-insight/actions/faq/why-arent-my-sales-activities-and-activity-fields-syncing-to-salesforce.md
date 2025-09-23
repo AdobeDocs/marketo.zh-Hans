@@ -1,15 +1,15 @@
 ---
-description: 为什么我的销售活动和活动字段没有同步到Salesforce？ - Marketo文档 — 产品文档
-title: 为什么我的销售活动和活动字段没有同步到Salesforce？
+description: 为什么我的销售活动和活动字段没有同步到Salesforce？ - Marketo 文档 - 产品文档
+title: 为什么我的销售活动和活动字段没有同步到 Salesforce？
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 为什么我的销售活动和活动字段没有同步到Salesforce？ {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
+# 为什么我的销售活动和活动字段没有同步到 Salesforce？ {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
 
 **我看不到同步到Salesforce的电子邮件或呼叫活动。**
 

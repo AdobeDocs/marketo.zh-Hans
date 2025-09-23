@@ -1,16 +1,16 @@
 ---
 description: nur-YYYY-MM-Simple Nurture - Marketo文档 — 产品文档
-title: NUR-YYYY-MM-Simple Nurture
+title: NUR-YYYY-MM-简单培养
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
-# NUR-YYYY-MM-Simple Nurture {#nur-yyyy-mm-simple-nurture}
+# NUR-YYYY-MM-简单培养 {#nur-yyyy-mm-simple-nurture}
 
 这是一个简单的培养计划示例，该计划利用Marketo Engage参与计划，有节奏的内容会随着时间的推移而滴到数据库中，同时利用流根据行为引导记录完成历程。
 
@@ -47,17 +47,17 @@ ht-degree: 7%
   </tr>
   <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>01 — 电子邮件</td>
   </tr>
    <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>02 — 电子邮件</td>
   </tr>
    <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>03 — 电子邮件</td>
   </tr>
   <tr>
@@ -72,22 +72,22 @@ ht-degree: 7%
   </tr>
   <tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>01 — 添加到培养</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>02 — 暂停培养</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>03 — 继续培养</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>04 — 参与（计划成功）</td>
   </tr>

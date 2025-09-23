@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147051
 description: 智能营销活动核对清单 — Marketo文档 — 产品文档
-title: 智能营销活动核对清单
+title: 智能营销活动检查表
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 0%
+source-wordcount: '234'
+ht-degree: 3%
 
 ---
 
-# 智能营销活动核对清单 {#smart-campaign-checklist}
+# 智能营销活动检查表 {#smart-campaign-checklist}
 
 请按照以下步骤操作，以确保顺利运行Smart Campaign，并尽可能防止出现错误。
 
 ## 删除智能列表错误 {#get-rid-of-smart-list-errors}
 
-在Smart Campaign中，单击&#x200B;**[!UICONTROL 智能列表]**。 通过修复错误来消除您看到的任何红色弯曲线。
+在Smart Campaign中，单击&#x200B;**[!UICONTROL Smart List]**。 通过修复错误来消除您看到的任何红色弯曲线。
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->使用&#x200B;**[!UICONTROL 智能列表的成员]**&#x200B;可能会在其他列表中出现错误。 也请检查。
+>使用&#x200B;**[!UICONTROL Member of Smart List]**&#x200B;时该其他列表中可能有错误。 也请检查。
 
 ## 删除流错误 {#get-rid-of-flow-errors}
 
-在Smart Campaign中，单击&#x200B;**[!UICONTROL 流量]**。 通过修复错误来消除您看到的任何红色弯曲线。
+在Smart Campaign中，单击&#x200B;**[!UICONTROL Flow]**。 通过修复错误来消除您看到的任何红色弯曲线。
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
 ## 查看“计划”选项卡 {#review-the-schedule-tab}
 
-在&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡中，检查&#x200B;**[!UICONTROL 智能列表状态]**&#x200B;以了解智能营销活动中需要修复的任何错误。
+在&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡中，检查&#x200B;**[!UICONTROL Smart List Status]** Smart Campaign中需要修复的任何错误。
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## 检查人员限制限制 {#check-person-restrictions-limit}
 
-在&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡中，确保合格人员的数量不超过人员限制限制。
+在&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡中，确保合格人员的数量不超过人员限制限制。
 
 ![](assets/smart-campaign-checklist-4.png)
 

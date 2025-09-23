@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514898
 description: 使用“已请求营销活动”设置触发器智能营销活动 — Marketo文档 — 产品文档
-title: 使用“Campaign is Requested”设置触发器智能促销活动
+title: 使用“请求营销活动”设置销售触发型智能营销活动
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 0%
+source-wordcount: '283'
+ht-degree: 11%
 
 ---
 
-# 使用“Campaign is Requested”设置触发器智能促销活动 {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
+# 使用“请求营销活动”设置销售触发型智能营销活动 {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Marketo最酷的功能之一是允许销售人员参与营销工作。 他们站在前线，与人互动。 销售代表应能够向正确的方向引导营销。
 
@@ -28,7 +28,7 @@ Marketo最酷的功能之一是允许销售人员参与营销工作。 他们站
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. 查找&#x200B;**[!UICONTROL Campaign is Requested]**&#x200B;触发器并将其拖到画布上。
+1. 找到并将 **[!UICONTROL Campaign is Requested]** 触发器拖动到画布上。
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
@@ -38,7 +38,7 @@ Marketo最酷的功能之一是允许销售人员参与营销工作。 他们站
    >
    >源操作符用于安全目的。 您可以将营销活动限制为仅由特定来源（如其他智能营销活动或开发人员）发出的请求。 如果要允许来自所有源的请求，请在第一个框中选择&#x200B;**[!UICONTROL Is Any]**。
    >
-   >_记住_，通过选择Sales Insight，它将会神奇地显示在销售盒中。 不要做得过火。 太多的人会被他们忽视。
+   >_请记住_，选择Sales Insight后，它将会神奇地显示在销售盒中。 不要做得过火。 太多的人会被他们忽视。
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
@@ -46,4 +46,4 @@ Marketo最酷的功能之一是允许销售人员参与营销工作。 他们站
 
 >[!TIP]
 >
->不要忘记为您的智能营销活动指明清楚的名称。 它们将会在Sales Insight中完全按照您的命名方式显示。
+>不要忘记为您的智能营销活动指明清楚的名称。 它们将在Sales Insight中完全按照您的命名方式显示。

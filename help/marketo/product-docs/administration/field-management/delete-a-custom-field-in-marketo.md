@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360339
 description: 删除Marketo中的自定义字段 — Marketo文档 — 产品文档
-title: 删除Marketo中的自定义字段
+title: 在 Marketo 中删除自定义字段
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 26%
 
 ---
 
-# 删除Marketo中的自定义字段 {#delete-a-custom-field-in-marketo}
+# 在 Marketo 中删除自定义字段 {#delete-a-custom-field-in-marketo}
 
 >[!NOTE]
 >
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 如果您不再需要使用某个字段，则可能需要删除以前创建的该字段。 很遗憾，您不能删除Marketo中的字段，但您可以&#x200B;_在用户界面中_&#x200B;隐藏它们。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 隐藏字段]**。
+1. 点击 **[!UICONTROL Field Actions]** 下拉菜单，并选择 **[!UICONTROL Hide Field]**。
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 

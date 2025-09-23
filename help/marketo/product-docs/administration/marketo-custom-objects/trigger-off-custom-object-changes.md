@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378713
 description: 触发自定义对象更改 — Marketo文档 — 产品文档
-title: 触发自定义对象更改
+title: 基于自定义对象更改触发
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 6%
 
 ---
 
-# 触发自定义对象更改 {#trigger-off-custom-object-changes}
+# 基于自定义对象更改触发 {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 0%
 >
 >更改自定义对象记录时，不会创建活动日志条目。
 
-1. 在Marketo Engage中，转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 在Marketo Engage中，转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. 选择[!UICONTROL 触发器属性]。
+1. 选择 [!UICONTROL trigger attribute]。
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

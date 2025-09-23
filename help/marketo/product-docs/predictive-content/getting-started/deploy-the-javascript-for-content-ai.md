@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385053
 description: 部署JavaScript for Content-AI - Marketo文档 — 产品文档
-title: 部署适用于Content-AI的JavaScript
+title: 部署 Content-AI 的 JavaScript
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 部署适用于Content-AI的JavaScript {#deploy-the-javascript-for-content-ai}
+# 部署 Content-AI 的 JavaScript {#deploy-the-javascript-for-content-ai}
 
 要使用预测内容，您需要生成和设置RTP (Web Personalization)标记。
 

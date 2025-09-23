@@ -4,10 +4,10 @@ description: 编辑订阅设置 — Marketo文档 — 产品文档
 title: 编辑订阅设置
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 10%
 
 ---
 
@@ -17,18 +17,18 @@ ht-degree: 0%
 
 例如，如果您同时在生产和沙盒实例中工作，则可以命名一个订阅&#x200B;**Marketo生产**&#x200B;和另一个&#x200B;**Marketo沙盒**。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**。
+1. 转到&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 我的帐户]**。
+1. 单击 **[!UICONTROL My Account]**。
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 编辑订阅信息]**。
+1. 单击 **[!UICONTROL Edit Subscription Information]**。
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. 进行编辑并单击&#x200B;**[!UICONTROL 保存]**。
+1. 进行编辑并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/edit-subscription-settings-4.png)

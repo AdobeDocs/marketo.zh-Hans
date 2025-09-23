@@ -1,16 +1,16 @@
 ---
 description: 了解电子邮件步骤的Sales Campaign发送选项 — Marketo文档 — 产品文档
-title: 了解电子邮件步骤的Sales Campaign发送选项
+title: 了解销售营销活动电子邮件步骤的发送选项
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '740'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 了解电子邮件步骤的Sales Campaign发送选项 {#understanding-sales-campaign-send-options-for-email-steps}
+# 了解销售营销活动电子邮件步骤的发送选项 {#understanding-sales-campaign-send-options-for-email-steps}
 
 在创建促销活动时，对于如何在[!DNL Sales Insight Actions]中创建电子邮件步骤，您有多个选项。 而且，根据电子邮件在促销活动中的位置，您的选项也会有所不同。
 
@@ -75,5 +75,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >[创建促销活动](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[销售活动步骤类型和提醒任务](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[Sales Campaign设置](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>>[销售活动步骤类型和提醒任务](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[Sales Campaign设置](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

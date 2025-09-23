@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719344
 description: 创建基本Web区段 — Marketo文档 — 产品文档
-title: 创建基本Web区段
+title: 创建基础 Web 区段
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 创建基本Web区段 {#create-a-basic-web-segment}
+# 创建基础 Web 区段 {#create-a-basic-web-segment}
 
 让我们创建一个以来自美国和金融服务业的所有Web访客为目标的基本区段。
 

@@ -3,20 +3,20 @@ description: 发行说明 — 2022年3月 — Marketo文档 — 产品文档
 title: 发行说明 - 2022 年 3 月
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '747'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 发行说明： 2022年3月 {#release-notes-mar-22}
+# 发行说明：2022 年 3 月 {#release-notes-mar-22}
 
-2022年3月版中包含以下功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+2022年3月版中包含以下功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 >[!AVAILABILITY]
 >
->以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
 
 **_季度发布_**
 

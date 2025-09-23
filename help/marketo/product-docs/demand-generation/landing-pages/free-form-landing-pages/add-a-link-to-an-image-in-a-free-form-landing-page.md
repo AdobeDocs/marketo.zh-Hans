@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472314
 description: 在自由格式登陆页面中添加指向图像的链接 — Marketo文档 — 产品文档
-title: 在自由格式登陆页面中添加指向图像的链接
+title: 在自由格式登录页面中为图像添加链接
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 22%
 
 ---
 
-# 在自由格式登陆页面中添加指向图像的链接 {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# 在自由格式登录页面中为图像添加链接 {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-希望将登陆页面上的图像作为指向其他页面/网站的链接吗？ 具体方法如下。
+希望将登陆页面上的图像作为指向其他页面/网站的链接吗？ 操作方法如下：
 
 >[!PREREQUISITES]
 >

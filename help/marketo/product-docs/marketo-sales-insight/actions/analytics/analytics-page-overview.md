@@ -1,16 +1,16 @@
 ---
 description: Analytics页面概述 — Marketo文档 — 产品文档
-title: Analytics页面概述
+title: Analytics 页面概述
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Analytics页面概述 {#analytics-page-overview}
+# Analytics 页面概述 {#analytics-page-overview}
 
 在Analytics选项卡中，您可以看到有关电子邮件参与的数据。 个人和团队数据都会显示。 管理员还可以在[!UICONTROL Me]选项卡上按用户筛选。
 

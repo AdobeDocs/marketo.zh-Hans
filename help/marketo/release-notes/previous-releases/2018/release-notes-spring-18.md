@@ -3,14 +3,14 @@ unique-page-id: 14745959
 description: 发行说明 — 2018年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2018年春季
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2018年春季 {#release-notes-spring}
+# 发行说明：2018 年春季 {#release-notes-spring}
 
 2018年春季发行版中包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 通过优化的导航和改进的工作流，您可以查看项目成功标准并访问项目详细信息。
 
-## 内容人工智能 {#contentai}
+## ContentAI {#contentai}
 
 [目标设置](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 

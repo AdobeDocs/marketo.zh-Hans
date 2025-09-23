@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504749
 description: 导出收入资源管理器报表 — Marketo文档 — 产品文档
-title: 导出收入浏览器报表
+title: 导出收入探索器报告
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 

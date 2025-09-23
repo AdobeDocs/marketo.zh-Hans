@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900587
 description: 使用专用IP地址发送电子邮件 — Marketo文档 — 产品文档
-title: 使用您的专用IP地址发送电子邮件
+title: 使用专用 IP 地址发送电子邮件
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 1ba9524b4136f50e5b4fc17e87466d6452913df6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 使用您的专用IP地址发送电子邮件 {#use-your-dedicated-ip-addresses-to-send-emails}
+# 使用专用 IP 地址发送电子邮件 {#use-your-dedicated-ip-addresses-to-send-emails}
 
 通过从一个或多个专用IP发送，您可以完全控制发送信誉。
 

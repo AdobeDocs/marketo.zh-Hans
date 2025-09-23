@@ -1,16 +1,16 @@
 ---
 description: 项目群成员自定义字段同步 — Marketo文档 — 产品文档
-title: 程序成员自定义字段同步
+title: 项目成员自定义字段同步
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# 程序成员自定义字段同步 {#program-member-custom-field-sync}
+# 项目成员自定义字段同步 {#program-member-custom-field-sync}
 
 >[!PREREQUISITES]
 >
@@ -63,7 +63,7 @@ ht-degree: 6%
 
 ## 从项目群成员自定义字段中取消映射Salesforce字段 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
-如果您希望释放字段以替换它，或只是进行常规更改，则必须先执行取消映射。 具体方法如下。
+如果您希望释放字段以替换它，或只是进行常规更改，则必须先执行取消映射。 操作方法如下：
 
 1. 在Marketo中，单击&#x200B;**[!UICONTROL Admin]**。
 

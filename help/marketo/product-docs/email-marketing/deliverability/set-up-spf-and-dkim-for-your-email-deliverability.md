@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720710
 description: 为您的电子邮件可投放性设置SPF和DKIM - Marketo文档 — 产品文档
-title: 为电子邮件可投放性设置SPF和DKIM
+title: 为电子邮件供应能力设置 SPF 和 DKIM
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '421'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 为电子邮件可投放性设置SPF和DKIM {#set-up-spf-and-dkim-for-your-email-deliverability}
+# 为电子邮件供应能力设置 SPF 和 DKIM {#set-up-spf-and-dkim-for-your-email-deliverability}
 
 提高电子邮件投放率的一种快速方法是将&#x200B;**SPF** （发件人策略框架）和&#x200B;**DKIM** (Domain Keys Identified Mail)合并到您的DNS设置中。 除了DNS条目之外，您还可以告诉收件人，您已授权Marketo代表您发送电子邮件。 如果没有此更改，则电子邮件被标记为垃圾邮件的可能性会更高，因为电子邮件是从您的域发送的，但却是从具有Marketo域的IP地址发送的。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 如果您的DNS条目中已有SPF记录，请添加以下内容：
 
-include：mktomail.com
+包括:mktomail.com
 
 ## 设置DKIM {#set-up-dkim}
 

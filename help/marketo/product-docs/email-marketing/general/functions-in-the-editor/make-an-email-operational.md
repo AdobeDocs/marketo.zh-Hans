@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147354
 description: 使电子邮件可操作 — Marketo文档 — 产品文档
-title: 使电子邮件正常运行
+title: 将电子邮件设为运营类
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 使电子邮件正常运行 {#make-an-email-operational}
+# 将电子邮件设为运营类 {#make-an-email-operational}
 
 运营电子邮件忽略取消订阅和营销暂停状态。 他们也不受通信限制的约束。 无论如何他们都会发送。
 

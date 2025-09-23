@@ -1,16 +1,16 @@
 ---
 description: Salesforce同步状态 — Marketo文档 — 产品文档
-title: Salesforce同步状态
+title: Salesforce 同步状态
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Salesforce同步状态 {#salesforce-sync-status}
+# Salesforce 同步状态 {#salesforce-sync-status}
 
 使用同步状态功能板可以查看同步步骤中的同步状态及其成功状态。
 
@@ -92,7 +92,7 @@ ht-degree: 5%
    <td colspan="1">成功、失败、不完整、处理中、已清理*</td>
   </tr>
   <tr>
-   <td colspan="1">新增</td>
+   <td colspan="1">新的名称</td>
    <td colspan="1">新记录计数</td>
    <td colspan="1"></td>
   </tr>
@@ -138,7 +138,7 @@ ht-degree: 5%
    <td colspan="1">自定义对象</td>
   </tr>
   <tr>
-   <td colspan="1">Campaign</td>
+   <td colspan="1">活动</td>
   </tr>
   <tr>
    <td colspan="1">营销活动成员状态</td>
@@ -188,7 +188,7 @@ ht-degree: 5%
   </tr>
   <tr>
    <td colspan="1">与项目群的初始链接</td>
-   <td colspan="1">Campaign</td>
+   <td colspan="1">活动</td>
    <td colspan="1">将营销活动链接到项目</td>
    <td colspan="1">更新</td>
   </tr>

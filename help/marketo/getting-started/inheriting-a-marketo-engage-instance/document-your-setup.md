@@ -3,14 +3,14 @@ description: 继承实例文档您的设置 — Marketo文档 — 产品文档
 title: 继承的实例文档您的设置
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 继承的实例：记录您的设置 {#inherited-instance-document-your-setup}
+# 继承实例：记录您的设置 {#inherited-instance-document-your-setup}
 
 现在您已了解在继承已建立的实例时要审核的关键产品领域，下一步是创建/更新有关实例配置和技术栈栈的文档。 无论是通过电子表格还是项目管理应用程序创建实例，您的文档都将是跟踪进展和记录详细信息以及保持实例结构化和可持续性的有用资源。
 
@@ -59,7 +59,7 @@ ht-degree: 1%
     <p><img src="assets/action-item-icon.png" alt="措施项图标">措施项：创建更改日志，并记录对实例配置所做的更改。</td>
   </tr>
   <tr>
-   <td>行动手册</td>
+   <td>战术手册</td>
     <td><li>您的组织具有用户还是管理员剧本？
     <br/>     如果是这样，请相应地更新这些参数。</li></td>
   </tr>

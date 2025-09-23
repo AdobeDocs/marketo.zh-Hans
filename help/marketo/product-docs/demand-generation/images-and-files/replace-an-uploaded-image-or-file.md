@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359876
 description: 替换上传的图像或文件 — Marketo文档 — 产品文档
-title: 替换上传的图像或文件
+title: 替换已上传的图像或文件
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 17%
 
 ---
 
-# 替换上传的图像或文件 {#replace-an-uploaded-image-or-file}
+# 替换已上传的图像或文件 {#replace-an-uploaded-image-or-file}
 
-1. 转到&#x200B;**[!UICONTROL 设计工作室]**。
+1. 转到&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 图像和文件]**。
+1. 单击 **[!UICONTROL Images and Files]**。
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. 选择要替换的资产。 单击&#x200B;**[!UICONTROL 图像和文件操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 替换图像或文件]**。
+1. 选择要替换的资产。 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Replace image or file]**。
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >替换文件类型必须与原始文件类型相同（例如，.jpg）
 
-1. 选择替换图像/文件后，单击&#x200B;**[!UICONTROL 替换]**。
+1. 选择替换图像/文件后，单击&#x200B;**[!UICONTROL Replace]**。
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 

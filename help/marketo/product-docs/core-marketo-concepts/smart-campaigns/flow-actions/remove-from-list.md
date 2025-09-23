@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146954
 description: 从列表中删除 — Marketo文档 — 产品文档
-title: 从列表中删除
+title: 从列表中移除
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 从列表中删除 {#remove-from-list}
+# 从列表中移除 {#remove-from-list}
 
 由于您能够[添加到列表](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}，因此还需要一种从列表中删除人员的方法。
 

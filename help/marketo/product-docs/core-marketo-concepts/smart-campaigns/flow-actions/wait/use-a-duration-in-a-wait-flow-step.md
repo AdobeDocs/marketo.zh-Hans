@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146978
 description: 在等待流步骤中使用持续时间 — Marketo文档 — 产品文档
-title: 在等待流步骤中使用持续时间
+title: 在等待流程步骤中使用时长
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 0%
+source-wordcount: '202'
+ht-degree: 9%
 
 ---
 
-# 在等待流步骤中使用持续时间 {#use-a-duration-in-a-wait-flow-step}
+# 在等待流程步骤中使用时长 {#use-a-duration-in-a-wait-flow-step}
 
 您可以使用等待流步骤暂停人员通过智能营销活动进行一段特定时间的旅程。 您还可以指定星期几和结束时间的标准。
 
-1. 在Smart Campaign **[!UICONTROL 流量]**&#x200B;选项卡中，拖动到&#x200B;**[!UICONTROL 等待]**&#x200B;流量步骤。
+1. 在Smart Campaign **[!UICONTROL Flow]**&#x200B;选项卡中，拖动&#x200B;**[!UICONTROL Wait]**&#x200B;流程步骤。
 
    ![](assets/use-a-duration-in-a-wait-flow-step-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
-1. 就是这样！ 流将暂停指定的持续时间。 对于高级选项，单击右侧的齿轮图标。
+1. 操作完成！流将暂停指定的持续时间。 对于高级选项，单击右侧的齿轮图标。
 
    ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/use-a-duration-in-a-wait-flow-step-4.png)
 
-1. （可选）指定时间。 单击&#x200B;**[!UICONTROL 保存]**。
+1. （可选）指定时间。 单击 **[!UICONTROL Save]**。
 
    ![](assets/use-a-duration-in-a-wait-flow-step-5.png)
 

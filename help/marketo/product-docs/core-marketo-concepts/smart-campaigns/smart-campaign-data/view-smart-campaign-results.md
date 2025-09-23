@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146968
 description: 查看Smart Campaign结果 — Marketo文档 — 产品文档
-title: 查看Smart Campaign结果
+title: 查看智能营销活动结果
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
-# 查看Smart Campaign结果 {#view-smart-campaign-results}
+# 查看智能营销活动结果 {#view-smart-campaign-results}
 
-希望查看智能营销活动中发生的所有事情的划分吗？ 具体方法如下。
+希望查看智能营销活动中发生的所有事情的划分吗？ 操作方法如下：
 
 >[!TIP]
 >
 >通过单击[查看营销活动成员](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}，您可以查看Smart Campaign处理的人员列表。
 
-1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL 结果]**。
+1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL Results]**。
 
    ![](assets/view-smart-campaign-results-1.png)
 

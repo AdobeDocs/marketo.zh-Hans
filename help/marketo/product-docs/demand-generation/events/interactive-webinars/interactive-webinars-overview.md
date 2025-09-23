@@ -3,16 +3,16 @@ description: 交互式网络研讨会概述 — Marketo文档 — 产品文档
 title: 交互式网络研讨会概述
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # 交互式网络研讨会概述 {#interactive-webinars-overview}
 
-交互式网络研讨会功能是我们在Marketo Engage中内置的网络研讨会平台。 无需其他工具或集成。
+交互式网络研讨会功能是Marketo Engage中的内置网络研讨会平台。 无需其他工具或集成。
 
 >[!IMPORTANT]
 >
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 网络研讨会之后，通过包含潜在客户及聚合参与数据的报告和仪表板访问[事件性能分析](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}。 交互式网络研讨会特定的过滤器和触发器允许您查找执行特定操作（例如，单击链接、下载资产等）的特定人员组。
 
-## 常见问题 {#faq}
+## 常见问题解答 {#faq}
 
 **我需要单独的订阅才能使用交互式网络研讨会吗？**
 
-不适用。 使用交互式网络研讨会只需要有效的Marketo Engage订阅。
+不会。只需有效的Marketo Engage订阅即可使用交互式网络研讨会。
 
 **交互式网络研讨会有哪些语言可用？**
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 **我已用完所包含的交互式网络研讨会。 如何获得更多会话或更大的容量？**
 
-您需要联系Adobe客户团队（您的客户经理）以获取帮助。
+您需要联系Adobe客户团队（您的客户经理）寻求帮助。
 
 **作为Marketo管理员，我是否可以控制哪些Marketo用户可以创建交互式网络研讨会？**
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 **我在访问组织的VPN时演示网络研讨会时遇到音频/视频问题。 我该怎么办？**
 
-Adobe Connect是交互式网络研讨会的交付平台，使用WebRTC进行音频/视频/屏幕共享。 贵组织的网络防火墙可能会阻止我们用于基于WebRTC的通信的IP地址/端口。 您的IT团队需要允许这些端口使WebRTC正常工作。 [了解更多](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}。
+Adobe Connect是交互式网络研讨会的交付平台，使用WebRTC进行音频/视频/屏幕共享。 贵组织的网络防火墙可能会阻止我们用于基于WebRTC的通信的IP地址/端口。 您的IT团队需要允许这些端口使WebRTC正常工作。 [了解详情](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}。
 
 **我的交互式网络研讨会是否自动录制？**
 

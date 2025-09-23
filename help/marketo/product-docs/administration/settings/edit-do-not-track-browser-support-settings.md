@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6095047
 description: 编辑“Do Not Track”浏览器支持设置 — Marketo文档 — 产品文档
-title: 编辑“Do Not Track”浏览器支持设置
+title: 编辑“请勿跟踪”浏览器支持设置
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 编辑“Do Not Track”浏览器支持设置 {#edit-do-not-track-browser-support-settings}
+# 编辑“请勿跟踪”浏览器支持设置 {#edit-do-not-track-browser-support-settings}
 
 “Do Not Track”是一种浏览器请求，不会在Marketo等系统中进行跟踪。 您可以通过以下步骤满足该请求。
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. 选择&#x200B;**[!UICONTROL Support]**&#x200B;并单击&#x200B;**[!UICONTROL Save]**。
+1. 选择 **[!UICONTROL Support]** 并点击 **[!UICONTROL Save]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 

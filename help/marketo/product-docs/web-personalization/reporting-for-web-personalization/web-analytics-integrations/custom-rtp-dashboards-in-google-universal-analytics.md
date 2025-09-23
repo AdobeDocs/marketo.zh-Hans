@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504238
 description: Google Universal Analytics中的自定义RTP功能板 — Marketo文档 — 产品文档
-title: Google Universal Analytics中的自定义RTP功能板
+title: 在 Google Universal Analytics 中自定义 RTP 仪表板
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '750'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Google Universal Analytics中的自定义RTP功能板 {#custom-rtp-dashboards-in-google-universal-analytics}
+# 在 Google Universal Analytics 中自定义 RTP 仪表板 {#custom-rtp-dashboards-in-google-universal-analytics}
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ ht-degree: 0%
 仪表板由3列组成
 
 * 流量源
-* 区段
+* 分段
 * 第一层向下扩展
 
 1. 创建一个名为&#x200B;**RTP B2B仪表板**&#x200B;的新仪表板，并定义以下小组件：

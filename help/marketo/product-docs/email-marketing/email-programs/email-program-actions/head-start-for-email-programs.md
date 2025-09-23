@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097202
 description: 电子邮件程序快速入门 — Marketo文档 — 产品文档
-title: 电子邮件程序快速入门
+title: 电子邮件项目的提前启动功能
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 电子邮件程序快速入门 {#head-start-for-email-programs}
+# 电子邮件项目的提前启动功能 {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 ## 以收件人时区开头的标题 {#head-start-with-recipient-time-zone}
 
-我们现有的先发制人功能要求项目至少提前12小时计划。 这对收件人时区意味着什么？ 请记住，当收件人时区处于活动状态时，我们会在最早时区的午夜开始运行电子邮件程序(UTC +14:00)。 因此，要同时启用&#x200B;**&#x200B;**&#x200B;开头和收件人时区，计划的时间必须至少比最早时区(UTC +14 **)提前:00** 12小时。
+我们现有的先发制人功能要求项目至少提前12小时计划。 这对收件人时区意味着什么？ 请记住，当收件人时区处于活动状态时，我们会在最早时区的午夜开始运行电子邮件程序(UTC +14:00)。 因此，要同时启用&#x200B;****&#x200B;开头和收件人时区，计划的时间必须至少比最早时区(UTC +14 **)提前:00** 12小时。
 
 这意味着如果您在美国/洛杉矶并且想要同时启用开头和收件人时区，则需要提前&#x200B;**34小时**&#x200B;计划该计划。 我们怎么找到这个号码的？
 

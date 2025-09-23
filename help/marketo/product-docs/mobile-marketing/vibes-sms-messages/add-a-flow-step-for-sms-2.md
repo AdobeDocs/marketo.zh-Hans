@@ -4,7 +4,7 @@ title: 为短信添加流程步骤
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 为短信添加流程步骤 {#add-a-flow-step-for-sms}
 
-Marketo Engage包含三个流程步骤，您可以在短信智能促销活动中使用：
+Marketo Engage有三个流程步骤可用于短信智能营销活动：
 
 <table>
 <tbody>
   <tr>
     <td style="width:25%">发送短信消息</td>
-    <td>此流操作会将消息从Marketo智能列表中发送给订阅了用户选择加入的Vibes订阅列表的用户。 它不会启动订阅流程。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">了解更多</a>。</td>
+    <td>此流操作会将消息从Marketo智能列表中发送给订阅了用户选择加入的Vibes订阅列表的用户。 它不会启动订阅流程。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">了解详情</a>。</td>
   </tr>
 
 <tr>

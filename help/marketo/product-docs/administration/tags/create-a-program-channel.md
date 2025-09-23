@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2950682
 description: 创建项目渠道 — Marketo文档 — 产品文档
-title: 创建项目频道
+title: 创建项目渠道
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 创建项目频道 {#create-a-program-channel}
+# 创建项目渠道 {#create-a-program-channel}
 
 项目是一项特定的营销计划。 渠道旨在作为投放机制，例如网络研讨会、赞助或在线广告。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >了解有关Marketo中最重要的元素[程序](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)的更多信息。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-a-program-channel-1.png)
 

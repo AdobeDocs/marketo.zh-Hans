@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783975
 description: 模板8F - Marketo文档 — 产品文档
-title: 模板8F
+title: 模板 8F
 exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 模板8F {#template-8f}
+# 模板 8F {#template-8f}
 
-右键单击以[下载模板8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html?lang=zh-Hans)
+右键单击以[下载模板8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html?lang=zh-Hans)
+[模板8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)

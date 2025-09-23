@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352423
 description: 将您的Sales Connect帐户连接到Salesforce - Marketo文档 — 产品文档
-title: 将您的Sales Connect帐户连接到Salesforce
+title: 将您的 Sales Connect 帐户连接到 Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
-# 将您的Sales Connect帐户连接到Salesforce {#connect-your-sales-connect-account-to-salesforce}
+# 将您的 Sales Connect 帐户连接到 Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
 按照以下简单步骤将[!DNL Sales Connect]连接到[!DNL Salesforce]。
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/one.png)
 
-1. 在[!UICONTROL &#x200B; Admin Settings]下，单击&#x200B;**[!UICONTROL Salesforce]**。
+1. 在[!UICONTROL  Admin Settings]下，单击&#x200B;**[!UICONTROL Salesforce]**。
 
    ![](assets/six.png)
 

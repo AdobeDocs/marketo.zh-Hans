@@ -4,14 +4,14 @@ description: 发行说明 — 2014年8月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年8月
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 0%
+source-wordcount: '398'
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2014年8月 {#release-notes-august}
+# 发行说明：2014 年 8 月 {#release-notes-august}
 
 2014年8月版本中包含以下功能。 检查您的Marketo版本以了解功能可用性。 请在发布后返回以获取指向详细功能文档的链接。
 

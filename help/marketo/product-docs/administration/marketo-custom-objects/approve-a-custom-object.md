@@ -4,10 +4,10 @@ description: 批准自定义对象 — Marketo文档 — 产品文档
 title: 批准自定义对象
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 0%
+source-wordcount: '259'
+ht-degree: 8%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 您已创建一个全新的自定义对象。 下面是如何批准它的。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Marketo自定义对象]**。
+1. 单击 **[!UICONTROL Marketo Custom Objects]**。
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. 单击&#x200B;**[!UICONTROL 自定义对象操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 批准对象]**。
+1. 点击 **[!UICONTROL Custom Object Actions]** 下拉菜单，并选择 **[!UICONTROL Approve Object]**。
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. 状态更改为[!UICONTROL 已批准]。
+1. 状态更改为[!UICONTROL Approved]。
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -49,20 +49,20 @@ ht-degree: 0%
    >
    >有关详细信息，请参阅[了解Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
-就是这样！ 现在，您可以在筛选器和触发器的限制中选择自定义对象以在营销活动中使用。
+操作完成！现在，您可以在筛选器和触发器的限制中选择自定义对象以在营销活动中使用。
 
 ## 批准已编辑的自定义对象 {#approve-an-edited-custom-object}
 
 编辑已批准的自定义对象后，必须批准草稿才能将自定义对象恢复到“已批准”状态。
 
-1. 编辑已批准的自定义对象时，它将收到[!UICONTROL 已批准草稿]状态。
+1. 编辑已批准的自定义对象时，它将接收[!UICONTROL Approved with Draft]状态。
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. 准备好批准草稿后，单击&#x200B;**[!UICONTROL 自定义对象操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 批准对象]**。
+1. 准备好批准草稿后，单击&#x200B;**[!UICONTROL Custom Object Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Approve Object]**。
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. 预览显示草稿中更改的项目。 单击&#x200B;**[!UICONTROL 批准]**。
+1. 预览显示草稿中更改的项目。 单击 **[!UICONTROL Approve]**。
 
    ![](assets/approve-a-custom-object-8.png)

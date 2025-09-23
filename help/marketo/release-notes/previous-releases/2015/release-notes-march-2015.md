@@ -4,18 +4,18 @@ description: 发行说明 — 2015年3月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年3月
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 发行说明：2015年3月 {#release-notes-march}
+# 发行说明：2015 年 3 月 {#release-notes-march}
 
 2015年3月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细文章的链接。
 
-## 日历HD {#calendar-hd}
+## 日程表 HD {#calendar-hd}
 
 使用日历的新演示模式显示团队的营销活动。 这些很适合电视或办公室周围的大型显示器！ 根据智能列表或自定义量度设置和显示目标。
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
 ## 新资产REST API {#new-asset-rest-apis}
 
-[新资产REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/assets)
+[新资产REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-我们现在支持通过API [&#128279;](https://developer.adobe.com/marketo-apis/api/asset/)创建和编辑电子邮件、模板、我的令牌、文件和代码片段！
+我们现在支持通过API [创建和编辑电子邮件、模板、我的令牌、文件和代码片段](https://developer.adobe.com/marketo-apis/api/asset/)！
 
 ## [!DNL Microsoft Dynamics] 2015年内部部署 {#microsoft-dynamics-on-premise}
 

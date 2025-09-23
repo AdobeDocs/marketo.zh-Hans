@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2949678
 description: SEO — 在列表中添加/删除关键字 — Marketo文档 — 产品文档
-title: SEO — 在列表中添加/删除关键字
+title: SEO - 从列表中添加/移除关键词
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 8%
 
 ---
 
-# SEO — 在列表中添加/删除关键字 {#seo-add-remove-keywords-from-a-list}
+# SEO - 从列表中添加/移除关键词 {#seo-add-remove-keywords-from-a-list}
 
 您可以使用列表来保持所有关键字的整齐有序。 这将使查找特定关键字上的数据变得像饼图一样容易。
 
 ## 添加到列表 {#add-to-a-list}
 
-1. 转到&#x200B;**[!UICONTROL 关键字]**&#x200B;部分。
+1. 转到&#x200B;**[!UICONTROL Keywords]**&#x200B;部分。
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. 将鼠标悬停在要添加到列表中的关键字上。 单击&#x200B;**[!UICONTROL 添加/删除列表]**。
+1. 将鼠标悬停在要添加到列表中的关键字上。 单击 **[!UICONTROL Add/Remove from list]**。
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您还可以为关键字创建新的列表。 只需在&#x200B;**[!UICONTROL 创建新列表]**&#x200B;中键入名称。
+   >您还可以为关键字创建新的列表。 只需在&#x200B;**[!UICONTROL Create a new list]**&#x200B;中键入名称。
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 您还可以从列表中删除关键字。
 
-1. 转到&#x200B;**[!UICONTROL 关键字]**&#x200B;部分。
+1. 转到&#x200B;**[!UICONTROL Keywords]**&#x200B;部分。
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. 将鼠标悬停在要从列表中删除的关键字上。 单击&#x200B;**[!UICONTROL 添加/删除列表]**。
+1. 将鼠标悬停在要从列表中删除的关键字上。 单击 **[!UICONTROL Add/Remove from list]**。
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

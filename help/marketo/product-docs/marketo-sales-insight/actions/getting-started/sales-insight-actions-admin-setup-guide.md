@@ -1,16 +1,16 @@
 ---
 description: 销售Insight操作管理员设置指南 — Marketo文档 — 产品文档
-title: 《 Sales Insight Actions管理员设置指南》
+title: Sales Insight Actions 管理员设置指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 《 Sales Insight Actions管理员设置指南》 {#sales-insight-actions-admin-setup-guide}
+# Sales Insight Actions 管理员设置指南 {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <table>
  <tr>
-  <th>角色</th>
+  <th>用户画像</th>
   <th>步骤</th>
  </tr>
  <tr>
@@ -130,7 +130,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. 单击&#x200B;**[!UICONTROL Actions Config]**&#x200B;选项卡。 在操作字段同步卡中，单击&#x200B;**[!UICONTROL Sync]**。
+1. 单击 **[!UICONTROL Actions Config]** 选项卡。在操作字段同步卡中，单击&#x200B;**[!UICONTROL Sync]**。
 
    ![](assets/msi-actions-admin-guide-12.png)
 

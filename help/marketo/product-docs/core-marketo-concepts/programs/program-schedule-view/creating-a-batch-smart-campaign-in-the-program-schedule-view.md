@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147142
 description: 在项目计划视图中创建批量Smart Campaign - Marketo文档 — 产品文档
-title: 在项目计划视图中创建批智能营销活动
+title: 在项目计划视图中创建批处理智能营销活动
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 0%
+source-wordcount: '151'
+ht-degree: 13%
 
 ---
 
-# 在项目计划视图中创建批智能营销活动 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
+# 在项目计划视图中创建批处理智能营销活动 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
 您可以从项目计划视图创建新的Smart Campaigns并在项目内[重新运行现有项目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"}。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. 单击&#x200B;**[!UICONTROL 类型]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL 智能营销活动]**。
+1. 单击&#x200B;**[!UICONTROL Type]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Smart Campaign]**。
 
    ![](assets/typechoose.png)
 

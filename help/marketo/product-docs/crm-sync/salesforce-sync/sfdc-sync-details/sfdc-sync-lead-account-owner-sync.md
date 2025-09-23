@@ -4,14 +4,14 @@ description: SFDC同步 — 潜在客户/帐户所有者同步 — Marketo文档
 title: SFDC同步 — 潜在客户/帐户所有者同步
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# SFDC同步：潜在客户/帐户所有者同步 {#sfdc-sync-lead-account-owner-sync}
+# SFDC 同步：潜在客户/帐户所有者同步 {#sfdc-sync-lead-account-owner-sync}
 
 这些从技术上讲，它们同步了[!DNL Salesforce]中的“用户”表，但是我们将它称为“潜在客户/帐户所有者”字段。
 

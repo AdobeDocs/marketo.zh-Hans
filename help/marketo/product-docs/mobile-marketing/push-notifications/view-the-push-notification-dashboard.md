@@ -4,10 +4,10 @@ description: 查看推送通知功能板 — Marketo文档 — 产品文档
 title: 查看推送通知仪表板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 很容易看到您的推送通知的执行情况。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 

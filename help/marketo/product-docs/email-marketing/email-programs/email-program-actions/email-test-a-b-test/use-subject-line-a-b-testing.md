@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359494
 description: 使用“主题行”A/B测试 — Marketo文档 — 产品文档
-title: 使用“主题行”A/B测试
+title: 使用“主题行”A/B 测试
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 使用“主题行”A/B测试 {#use-subject-line-a-b-testing}
+# 使用“主题行”A/B 测试 {#use-subject-line-a-b-testing}
 
 您可以轻松对电子邮件进行A/B测试。 最常见的测试之一是&#x200B;**[!UICONTROL Subject Line]**&#x200B;测试。
 

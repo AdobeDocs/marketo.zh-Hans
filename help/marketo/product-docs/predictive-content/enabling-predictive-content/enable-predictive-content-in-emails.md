@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385020
 description: 在电子邮件中启用预测内容 — Marketo文档 — 产品文档
-title: 在电子邮件中启用预测内容
+title: 在电子邮件中启用预测性内容
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '375'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 在电子邮件中启用预测内容 {#enable-predictive-content-in-emails}
+# 在电子邮件中启用预测性内容 {#enable-predictive-content-in-emails}
 
 使您的电子邮件中的一个或多个图像成为预测性图像，为每个收件人定制体验。
 

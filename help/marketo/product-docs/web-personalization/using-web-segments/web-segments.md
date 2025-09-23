@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719093
 description: Web区段 — Marketo文档 — 产品文档
-title: Web区段
+title: Web 区段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
 
 ---
 
-# Web区段 {#web-segments}
+# Web 区段 {#web-segments}
 
 ## 查看区段 {#view-segment}
 
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->命名帐户列表名称旁边方括号中的数字被用作Web Personalization [读取API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/web-personalization)列表的索引引用。
+>命名帐户列表名称旁边方括号中的数字被用作Web Personalization [读取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)列表的索引引用。
 
 **排除ISP**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **用户上下文API**
 
-Web Personalization API调用[在此处阅读更多相关信息。](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Web Personalization API调用[在此处阅读更多相关信息。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147257
 description: 导航营销日历 — Marketo文档 — 产品文档
-title: 导航营销日历
+title: 浏览营销日程表
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 6%
 
 ---
 
-# 导航营销日历 {#navigating-the-marketing-calendar}
+# 浏览营销日程表 {#navigating-the-marketing-calendar}
 
-在营销日历中导航很容易。 具体方法如下。
+在营销日历中导航很容易。 操作方法如下：
 
 >[!PREREQUISITES]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 在模式之间更改 {#change-between-modes}
 
-1. 单击&#x200B;**[!UICONTROL 3周]**&#x200B;或&#x200B;**[!UICONTROL 月]**&#x200B;选项卡以在不同模式之间切换。
+1. 单击&#x200B;**[!UICONTROL 3 weeks]**&#x200B;或&#x200B;**[!UICONTROL Month]**&#x200B;选项卡以在模式之间切换。
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 日程视图以列表形式显示所有条目。
 
-1. 单击&#x200B;**[!UICONTROL 筛选器]**&#x200B;下拉列表。
+1. 单击&#x200B;**[!UICONTROL Filter]**&#x200B;下拉列表。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. 选择&#x200B;**[!UICONTROL 议程]**&#x200B;视图。
+1. 选择&#x200B;**[!UICONTROL Agenda]**&#x200B;视图。
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 

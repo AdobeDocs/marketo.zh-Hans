@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571892
 description: 使用字段组织者 — Marketo文档 — 产品文档
-title: 使用字段组织者
+title: 使用字段组织器
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 使用字段组织者 {#using-field-organizers}
+# 使用字段组织器 {#using-field-organizers}
 
 字段组织者可帮助您指定所有可能值中的某些字段。 例如，您可以为“地区”字段创建有意义的分组，如“西海岸”和“东海岸”。 这有助于报表更快地运行。
 

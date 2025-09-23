@@ -1,12 +1,12 @@
 ---
 description: Sales Insight操作中的有趣时刻 — Marketo文档 — 产品文档
-title: Sales Insight Actions中的有趣时刻
+title: Sales Insight Actions 中的关键时刻
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

@@ -4,7 +4,7 @@ description: 添加其他品牌推广域 — Marketo文档 — 产品文档
 title: 添加附加品牌域名
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '578'
 ht-degree: 3%
@@ -45,9 +45,9 @@ ht-degree: 3%
 
 按照以下步骤为现有域启用SSL。
 
-1. 从&#x200B;_[!UICONTROL Admin]_&#x200B;区域，选择&#x200B;**[!UICONTROL Email]**。
+1. 从&#x200B;_[!UICONTROL Admin]_区域，选择&#x200B;**[!UICONTROL Email]**。
 
-1. 在&#x200B;_[!UICONTROL Domain]_&#x200B;选项卡上，选择域行并单击&#x200B;**[!UICONTROL Add SSL]**。
+1. 在&#x200B;_[!UICONTROL Domain]_选项卡上，选择域行并单击&#x200B;**[!UICONTROL Add SSL]**。
 
    ![管理员 — 电子邮件 — 域 — 添加SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
@@ -91,7 +91,7 @@ ht-degree: 3%
 
 ## 注意事项 {#things-to-note}
 
-* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自定义SSL**：如果您需要自定义SSL，请提交[支持票证](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 请勿使用自助复选框来创建SSL。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360276
 description: 隐藏/取消隐藏项目渠道 — Marketo文档 — 产品文档
-title: 隐藏/取消隐藏项目频道
+title: 隐藏/取消隐藏项目渠道
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 隐藏/取消隐藏项目频道 {#hide-unhide-a-program-channel}
+# 隐藏/取消隐藏项目渠道 {#hide-unhide-a-program-channel}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 ## 隐藏项目频道 {#hide-a-program-channel}
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 

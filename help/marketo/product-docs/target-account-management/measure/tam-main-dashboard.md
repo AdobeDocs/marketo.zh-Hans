@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380783
 description: TAM主功能板 — Marketo文档 — 产品文档
-title: TAM主仪表板
+title: TAM 主仪表板
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# TAM主仪表板 {#tam-main-dashboard}
+# TAM 主仪表板 {#tam-main-dashboard}
 
 主仪表板提供您[!UICONTROL Target Account Management]工作的摘要。 您可以看到显示成功的目标帐户或帐户列表，以及需要更多关注的目标帐户或帐户列表。
 

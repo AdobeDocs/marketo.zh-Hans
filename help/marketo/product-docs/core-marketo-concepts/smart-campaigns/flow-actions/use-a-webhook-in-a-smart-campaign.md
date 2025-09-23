@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147025
 description: 在Smart Campaign中使用Webhook - Marketo文档 — 产品文档
-title: 在Smart Campaign中使用Webhook
+title: 在智能营销活动中使用 Webhook
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 在Smart Campaign中使用Webhook {#use-a-webhook-in-a-smart-campaign}
+# 在智能营销活动中使用 Webhook {#use-a-webhook-in-a-smart-campaign}
 
-要使用[webhook](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}，请将其作为流量操作添加到[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}。
+要使用[webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}，请将其作为流量操作添加到[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}。
 
 >[!AVAILABILITY]
 >

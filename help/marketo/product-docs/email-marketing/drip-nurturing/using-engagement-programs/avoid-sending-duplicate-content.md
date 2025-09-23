@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10096409
 description: 避免发送重复的内容 — Marketo文档 — 产品文档
-title: 避免发送重复的内容
+title: 避免发送重复内容
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# 避免发送重复的内容 {#avoid-sending-duplicate-content}
+# 避免发送重复内容 {#avoid-sending-duplicate-content}
 
 你曾经收到过两次相同的电子邮件吗？ 真烦人，不是吗？
 
 要防止通过参与计划两次向某人发送相同的消息，需要注意以下七个可能的情景和结果。
 
-## 场景 {#scenarios}
+## 方案 {#scenarios}
 
 | 电子邮件发件人 | 此人员为 | 人员收到电子邮件 |
 |---|---|---|

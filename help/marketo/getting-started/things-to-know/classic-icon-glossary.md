@@ -1,16 +1,16 @@
 ---
 description: Classic图标术语表 — Marketo文档 — 产品文档
-title: Classic图标术语表
+title: 经典图标术语表
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 8%
+ht-degree: 13%
 
 ---
 
-# Classic图标术语表 {#classic-icon-glossary}
+# 经典图标术语表 {#classic-icon-glossary}
 
 以下是Marketo Classic界面中的旧图标。 当前图标术语表可在[此处](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}找到。
 
@@ -145,7 +145,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-8-16-3a36-3a19.png">
     </td>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-16-3a38-3a39.png">
@@ -195,7 +195,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-8-18-3a28-3a16.png">
     </td>
-   <td>启动点</td>
+   <td>LaunchPoint</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-18-3a44-3a51.png">
@@ -241,7 +241,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2014-12-18-16-3a45-3a45.png">
     </td>
-   <td>活动计划</td>
+   <td>活动项目</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-11-3a9-3a4.png">
@@ -261,7 +261,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2014-12-23-11-3a38-3a16.png">
     </td>
-   <td>添加到参与计划</td>
+   <td>添加到参与项目</td>
   </tr>
   <tr>
    <td><img src="assets/image2014-12-23-11-3a40-3a19.png">
@@ -507,7 +507,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png">
     </td>
-   <td>登陆页面。 登陆页面操作</td>
+   <td>登陆页面。 登录页面操作</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-10-3a55-3a52.png">
@@ -617,7 +617,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png">
     </td>
-   <td>新增</td>
+   <td>新的名称</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png">
@@ -688,7 +688,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-9-15-3a46-3a10.png">
     </td>
-   <td>有趣的时刻概述</td>
+   <td>关键时刻概述</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-13-3a35-3a23.png">
@@ -831,7 +831,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png">
     </td>
-   <td>Smart List</td>
+   <td>智能列表</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-16-3a27-3a35.png">
@@ -871,7 +871,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png">
     </td>
-   <td>新增</td>
+   <td>新的名称</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png">

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900573
 description: 添加系统令牌作为电子邮件中的链接 — Marketo文档 — 产品文档
-title: 添加系统令牌作为电子邮件中的链接
+title: 在电子邮件中添加系统令牌作为链接
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 添加系统令牌作为电子邮件中的链接 {#add-a-system-token-as-a-link-in-an-email}
+# 在电子邮件中添加系统令牌作为链接 {#add-a-system-token-as-a-link-in-an-email}
 
 您可以使用这些系统令牌来自定义特殊链接在电子邮件中的位置。
 

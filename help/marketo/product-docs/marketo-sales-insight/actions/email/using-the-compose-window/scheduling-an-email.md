@@ -1,14 +1,14 @@
 ---
 description: 计划电子邮件 — Marketo文档 — 产品文档
-title: 计划电子邮件
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+title: 安排电子邮件发送
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 计划电子邮件 {#scheduling-an-email}
+# 安排电子邮件发送 {#scheduling-an-email}
 
 按照这些简单的步骤计划电子邮件。
 

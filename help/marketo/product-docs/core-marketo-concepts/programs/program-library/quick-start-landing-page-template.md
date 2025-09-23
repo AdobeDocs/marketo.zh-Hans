@@ -1,16 +1,16 @@
 ---
 description: 快速入门登陆页面模板 — Marketo文档 — 产品文档
-title: 快速入门登陆页面模板
+title: 快速启动登陆页面模板
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '462'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 快速入门登陆页面模板 {#quick-start-landing-page-template}
+# 快速启动登陆页面模板 {#quick-start-landing-page-template}
 
 Marketo Engage参考库中的某些入门计划包含一个简单、易于使用且可自定义的登陆页面模板，通过该模板，您可以跨多个营销用例快速创建登陆页面。
 

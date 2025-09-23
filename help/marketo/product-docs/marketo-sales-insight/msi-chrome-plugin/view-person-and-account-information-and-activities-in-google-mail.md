@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095358
 description: 在Google邮件中查看人员和帐户信息和活动 — Marketo文档 — 产品文档
-title: 在Google Mail中查看人员和帐户信息和活动
+title: 在 Google Mail 中查看人员和帐户信息及活动
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 在Google Mail中查看人员和帐户信息和活动 {#view-person-and-account-information-and-activities-in-google-mail}
+# 在 Google Mail 中查看人员和帐户信息及活动 {#view-person-and-account-information-and-activities-in-google-mail}
 
 ## 在Google Mail中查看活动 {#view-activities-in-google-mail}
 

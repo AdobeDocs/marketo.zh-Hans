@@ -4,16 +4,16 @@ description: 编辑移动推送通知 — Marketo文档 — 产品文档
 title: 编辑移动推送通知
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '33'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 
 # 编辑移动推送通知 {#edit-mobile-push-notification}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 

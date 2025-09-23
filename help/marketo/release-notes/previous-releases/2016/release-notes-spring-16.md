@@ -4,14 +4,14 @@ description: 发行说明 — 2016年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年春季
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
-# 发行说明： 2016年春季 {#release-notes-spring}
+# 发行说明：2016 年春季 {#release-notes-spring}
 
 2016年春季版中包括以下功能。 请单击标题链接以查看每个功能的详细文章。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 Marketo REST API现在支持对Marketo登陆页面、登陆页面模板和表单的控制。 用户现在可以通过Marketo REST API直接创建、更新内容、批准和删除这些资源。
 
-## [列入允许列表用于API访问的IP](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## 列入允许列表 [用于API访问的IP](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
 与Marketo用户登录的IP列入允许列表功能类似，Marketo管理员现在可以设置IP地址允许列表，以访问Marketo SOAP和REST API，从而阻止来自未授权IP地址的访问。 这为Marketo实例增添了一个安全层，并确保只能从贵组织的网络内部进行API访问。 有关如何设置的详细信息，请访问[Marketo文档网站](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)。
 

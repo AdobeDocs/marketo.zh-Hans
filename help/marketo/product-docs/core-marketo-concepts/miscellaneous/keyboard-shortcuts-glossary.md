@@ -3,10 +3,10 @@ unique-page-id: 1147318
 description: 键盘快捷键术语表 — Marketo文档 — 产品文档
 title: 键盘快捷键术语表
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
@@ -16,16 +16,16 @@ ht-degree: 5%
 
 ## 区域导航 {#area-navigation}
 
-| 键盘快捷键 | 面积图 |
+| 键盘快捷键 | 面积 |
 |---|---|
 | Alt/Opt + A | Analytics |
 | Alt/Opt + C | 日程表 |
-| Alt/Opt + D | Design Studio |
+| Alt/Opt + D | 设计工作室 |
 | Alt/Opt + F | 全局搜索 |
 | Alt/Opt + L | 数据库 |
 | Alt/Opt + M | 营销活动 |
 | Opt + N | 管理员 |
-| Opt + O | 我的Marketo |
+| Opt + O | 我的 Marketo |
 
 ## 日历/计划视图导航  {#calendar-schedule-view-navigation}
 

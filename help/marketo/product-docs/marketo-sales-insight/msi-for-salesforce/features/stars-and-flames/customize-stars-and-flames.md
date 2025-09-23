@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360303
 description: 自定义星星和火焰 — Marketo文档 — 产品文档
-title: 自定义星星和火焰
+title: 自定义星级和火焰标识
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 自定义星星和火焰 {#customize-stars-and-flames}
+# 自定义星级和火焰标识 {#customize-stars-and-flames}
 
 [!DNL Marketo Sales Insight]使用星星和火焰来优先处理潜在客户。 Marketo会自动决定谁获得1-2-3颗星/火焰。 但是，您可以修改公式。 方法如下：
 

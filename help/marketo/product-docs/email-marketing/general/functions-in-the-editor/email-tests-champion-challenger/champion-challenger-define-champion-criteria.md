@@ -4,16 +4,16 @@ description: 冠军/挑战者 — 定义冠军标准 — Marketo文档 — 产�
 title: 冠军/挑战者 — 定义冠军标准
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 冠军/挑战者：定义冠军标准 {#champion-challenger-define-champion-criteria}
+# 挑战者对比：定义优胜标准 {#champion-challenger-define-champion-criteria}
 
-设置测试类型后，您需要定义冠军标准。 具体方法如下。
+设置测试类型后，您需要定义冠军标准。 操作方法如下：
 
 >[!PREREQUISITES]
 >

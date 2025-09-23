@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359424
 description: 提醒销售代表 — Marketo文档 — 产品文档
-title: 提醒销售代表
+title: 通知销售代表
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 提醒销售代表 {#alert-the-sales-rep}
+# 通知销售代表 {#alert-the-sales-rep}
 
 ## 任务：当某人填写您网站上的表单时提醒销售代表 {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->带有表单的[登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>[带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## 步骤1：创建警报电子邮件 {#step-create-an-alert-email}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/alert-the-sales-rep-1.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. 单击&#x200B;**[!UICONTROL Email Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Approve and Close]**。
+1. 点击 **[!UICONTROL Email Actions]** 下拉菜单，并选择 **[!UICONTROL Approve and Close]**。
 
    ![](assets/alert-the-sales-rep-11.png)
 
@@ -109,7 +109,7 @@ ht-degree: 0%
    >
    >将&#x200B;**[!UICONTROL Qualification Rules]**&#x200B;设置为&#x200B;**[!UICONTROL every time]**（通过编辑Smart Campaign）以允许同一人员多次触发警报。
 
-1. 在确认屏幕上单击&#x200B;**[!UICONTROL Activate]**。
+1. 在确认屏幕中点击 **[!UICONTROL Activate]**。
 
    ![](assets/alert-the-sales-rep-20.png)
 

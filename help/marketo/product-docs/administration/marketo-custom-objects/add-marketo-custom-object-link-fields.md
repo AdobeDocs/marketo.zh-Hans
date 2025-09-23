@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097613
 description: 添加Marketo自定义对象链接字段 — Marketo文档 — 产品文档
-title: 添加Marketo自定义对象链接字段
+title: 添加 Marketo 自定义对象链接字段
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '652'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 添加Marketo自定义对象链接字段 {#add-marketo-custom-object-link-fields}
+# 添加 Marketo 自定义对象链接字段 {#add-marketo-custom-object-link-fields}
 
 创建自定义对象时，必须提供链接字段以将自定义对象记录连接到正确的父记录。
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 以下说明如何在自定义对象中为一对多结构创建链接字段。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 >
 >您必须已创建中间对象以及要将其链接到的任何自定义对象。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 

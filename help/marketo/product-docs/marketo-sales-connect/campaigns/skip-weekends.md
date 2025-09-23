@@ -4,10 +4,10 @@ description: 跳过周末 — Marketo文档 — 产品文档
 title: 跳过周末
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 在自动执行营销活动时，您可能不希望自己的电子邮件在星期六或星期日发出。 否则，您可以跳过周末。
 
-1. 在[!DNL Sales Connect]中，单击&#x200B;**[!UICONTROL &#x200B; Campaigns]**&#x200B;选项卡。
+1. 在[!DNL Sales Connect]中，单击&#x200B;**[!UICONTROL  Campaigns]**&#x200B;选项卡。
 
    ![](assets/one-2.png)
 

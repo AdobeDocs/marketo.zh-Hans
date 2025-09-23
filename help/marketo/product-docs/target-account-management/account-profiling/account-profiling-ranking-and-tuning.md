@@ -1,17 +1,17 @@
 ---
 unique-page-id: 15695924
 description: 帐户分析排名和调整 — Marketo文档 — 产品文档
-title: 帐户分析排名和调整
+title: 帐户侧写排名与调优
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 帐户分析排名和调整 {#account-profiling-ranking-and-tuning}
+# 帐户侧写排名与调优 {#account-profiling-ranking-and-tuning}
 
 帐户分析标识您的理想客户配置文件(ICP)，根据ICP对数据库中的公司进行排名，并将ICP指示符数据添加到提升为[!UICONTROL Named Accounts]的帐户。
 

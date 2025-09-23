@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11371065
 description: 将模块添加到电子邮件 — Marketo文档 — 产品文档
-title: 将模块添加到电子邮件
+title: 向电子邮件添加模块
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 将模块添加到电子邮件 {#add-modules-to-your-email}
+# 向电子邮件添加模块 {#add-modules-to-your-email}
 
 在[!DNL Email Editor 2.0]中，模块是在模板中定义的电子邮件部分。 模块可以包含元素、变量和其他HTML内容的任意组合。 将此类受众添加到您的电子邮件中很容易。
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8159325
 description: 模板3B - Marketo文档 — 产品文档
-title: 模板3B
+title: 模板 3B
 exl-id: 28cd87fa-8ded-449a-8a5d-0e7c7241b49e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 模板3B {#template-3b}
+# 模板 3B {#template-3b}
 
-右键单击以[下载模板3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=zh-Hans)
+右键单击以[下载模板3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
 
 ![](assets/image2015-6-15-11-3a11-3a30.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=zh-Hans)
+[模板3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)

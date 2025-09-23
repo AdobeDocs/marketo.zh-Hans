@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384438
 description: TAM报表设置 — Marketo文档 — 产品文档
-title: TAM报表设置
+title: TAM 报告设置
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# TAM报表设置 {#tam-report-setup}
+# TAM 报告设置 {#tam-report-setup}
 
 TAM销售报告是一封每周发送给客户团队的个性化电子邮件。
 

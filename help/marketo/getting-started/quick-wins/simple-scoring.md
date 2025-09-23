@@ -4,10 +4,10 @@ description: 简单评分 — Marketo文档 — 产品文档
 title: 简单评分
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* 带有表单的[登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [完成设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## 步骤1：创建评分营销活动 {#step-create-a-scoring-campaign}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/simple-scoring-1.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您使用表单[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入选完成了登陆页面，则您应该拥有表单。 如果表单使用了其他名称，请选择该名称。
+   >如果您使用表单[快速入选完成了](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}登陆页面，则您应该拥有表单。 如果表单使用了其他名称，请选择该名称。
 
 1. 单击&#x200B;**[!UICONTROL Flow]**&#x200B;选项卡。
 
@@ -82,15 +82,15 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-12.png)
 
-1. 在确认屏幕上单击&#x200B;**[!UICONTROL Activate]**。
+1. 在确认屏幕中点击 **[!UICONTROL Activate]**。
 
    ![](assets/simple-scoring-13.png)
 
 >[!NOTE]
 >
->一旦激活，此营销活动将在每次用户填写表单时运行。 该营销活动将继续运行，直到被停用。
+>一旦激活，此营销活动将在每次用户填写表单时运行。 该营销活动将持续运行，直到被停用。
 
-## 第2步：填写表单 {#step-fill-out-the-form}
+## 步骤 2：填写表单 {#step-fill-out-the-form}
 
 1. 选择您在[登录页面中创建的带有表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}的登录页面。
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-15.png)
 
-1. 用您的名字、姓氏和电子邮件地址填写表单，然后单击&#x200B;**[!UICONTROL Submit]**。
+1. 填写表单中的名字、姓氏和电子邮件地址，然后点击 **[!UICONTROL Submit]**。
 
    ![](assets/simple-scoring-16.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ## 步骤3：查看人员信息 {#step-view-the-person-info}
 
-1. 转到&#x200B;**[!UICONTROL Database]**&#x200B;区域。
+1. 进入 **[!UICONTROL Database]** 区域。
 
    ![](assets/simple-scoring-17.png)
 

@@ -3,7 +3,7 @@ description: 创作AI概述 — Marketo文档 — 产品文档
 title: Dynamic Chat中的创新型人工智能
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 2%
@@ -40,7 +40,7 @@ ht-degree: 2%
 
 ## 问题生成 {#question-generation}
 
-使用经过销售、营销和产品知识培训的界面，通过人工智能辅助对话提升访客的入站体验[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)。
+使用经过销售、营销和产品知识培训的界面，通过人工智能辅助对话提升访客的入站体验[。](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
 
 ![](assets/generative-ai-overview-5.png)
 
@@ -56,7 +56,7 @@ ht-degree: 2%
 
 ![](assets/generative-ai-overview-7.png)
 
-## 未解答的问题 {#unanswered-questions}
+## 未回答的问题 {#unanswered-questions}
 
 [使用基于先前对话未回答问题库的人工智能，为您的响应库创建其他预批准的响应](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)。
 

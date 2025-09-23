@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384661
 description: 批准预测内容的标题 — Marketo文档 — 产品文档
-title: 批准预测内容的标题
+title: 批准预测性内容标题
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 批准预测内容的标题 {#approve-a-title-for-predictive-content}
+# 批准预测性内容标题 {#approve-a-title-for-predictive-content}
 
 您可以在[!UICONTROL All Content]页面或[!UICONTROL All Content]弹出窗口中批准[!UICONTROL Edit Content]页面上的任何标题，以将其添加到预测内容。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. 单击&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Approve for Predictive Content]**。
+1. 点击 **[!UICONTROL Content Actions]** 下拉菜单，并选择 **[!UICONTROL Approve for Predictive Content]**。
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 

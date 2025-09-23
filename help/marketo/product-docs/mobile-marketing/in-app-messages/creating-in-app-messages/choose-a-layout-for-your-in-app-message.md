@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100434
 description: 选择应用程序内消息的布局 — Marketo文档 — 产品文档
-title: 选择应用程序内消息的布局
+title: 为您的应用程序内消息选择布局
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '479'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 选择应用程序内消息的布局 {#choose-a-layout-for-your-in-app-message}
+# 为您的应用程序内消息选择布局 {#choose-a-layout-for-your-in-app-message}
 
 Marketo提供六种布局用于构建应用程序内消息。
 

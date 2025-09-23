@@ -4,10 +4,10 @@ description: 在流程步骤中使用令牌 — Marketo文档 — 产品文档
 title: 在流程步骤中使用令牌
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 2%
 令牌是一个变量。 您可以将其用于电子邮件、登陆页面和智能营销活动，以便简化您的工作。 您可以在流程步骤、Webhook、电子邮件和登陆页面中使用[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}（自定义令牌）。 您可以使用令牌在以下流程步骤中包含变量内容：
 
 * 更改数据值
-* 更改项目群成员数据
-* 有趣的时刻
+* 更改项目成员数据
+* 重要时刻
 * [!DNL Salesforce]营销活动步骤（添加、删除、更改状态）
 * 创建任务
 * 发送警报（仅在“触发营销活动”中）

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979008
 description: 性能分析贡献概述 — Marketo文档 — 产品文档
-title: 性能分析贡献概述
+title: 绩效洞察贡献概述
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/one-1.png)
 
-选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;仪表板中的&#x200B;_[!UICONTROL Revenue]_&#x200B;赢得的机会。
+选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;仪表板中的&#x200B;_[!UICONTROL Revenue]_赢得的机会。
 
 ![](assets/2.png)
 

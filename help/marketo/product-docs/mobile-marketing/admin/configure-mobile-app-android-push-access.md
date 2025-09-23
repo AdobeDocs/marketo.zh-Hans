@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512432
 description: 配置移动应用程序Android推送访问 — Marketo文档 — 产品文档
-title: 配置移动应用程序Android推送访问
+title: 配置移动应用程序 Android 推送访问
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 3%
+ht-degree: 24%
 
 ---
 
-# 配置移动应用程序Android推送访问 {#configure-mobile-app-android-push-access}
+# 配置移动应用程序 Android 推送访问 {#configure-mobile-app-android-push-access}
 
 1. 单击 **[!UICONTROL Admin]**。
 
@@ -25,7 +25,7 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 在&#x200B;**[!UICONTROL Push Access Type]**&#x200B;下，选择&#x200B;**[!UICONTROL Android]**&#x200B;并单击&#x200B;**[!UICONTROL Configure]**。
+1. 在 **[!UICONTROL Push Access Type]** 下，选择 **[!UICONTROL Android]** 并点击 **[!UICONTROL Configure]**。
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 

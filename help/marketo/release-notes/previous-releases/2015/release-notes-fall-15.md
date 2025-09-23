@@ -4,10 +4,10 @@ description: 发行说明 — 2015年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年秋季
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '966'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Marketo自定义对象 {#marketo-custom-objects}
+## Marketo 自定义对象 {#marketo-custom-objects}
 
-[Marketo自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+[Marketo 自定义对象](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 从管理员UI轻松创建自定义对象。 我们当前支持在Marketo中创建1:N自定义对象并将其连接到潜在客户或公司的功能。
 

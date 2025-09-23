@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147114
 description: 项目群成员自定义字段令牌 — Marketo文档 — 产品文档
-title: 项目群成员自定义字段令牌
+title: 项目成员自定义字段令牌
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '413'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 项目群成员自定义字段令牌 {#program-member-custom-field-tokens}
+# 项目成员自定义字段令牌 {#program-member-custom-field-tokens}
 
 ## 程序成员自定义字段的令牌支持 {#token-support-for-program-member-custom-fields}
 
@@ -132,7 +132,7 @@ PMCF令牌将在令牌家族的成员域下受支持。
 项目群成员自定义字段令牌可用于以下位置：
 
 * 创建任务
-* 在Microsoft中创建任务
-* 有趣的时刻
+* 在 Microsoft 中创建任务
+* 关键时刻
 * 更改数据值流操作
 * Webhooks

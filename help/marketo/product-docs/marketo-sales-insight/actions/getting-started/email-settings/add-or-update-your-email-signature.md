@@ -3,10 +3,10 @@ description: 添加或更新电子邮件签名 — Marketo文档 — 产品文�
 title: 添加或更新您的电子邮件签名
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

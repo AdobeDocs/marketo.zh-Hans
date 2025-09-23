@@ -4,10 +4,10 @@ description: 批准/取消批准电子邮件程序 — Marketo文档 — 产品�
 title: 批准/取消批准电子邮件项目
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

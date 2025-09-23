@@ -2,20 +2,20 @@
 description: 发行说明 — 2022年8月 — Marketo文档 — 产品文档
 title: 发行说明 - 2022 年 8 月
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '506'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 发行说明： 2022年8月 {#release-notes-aug-22}
+# 发行说明：2022 年 8 月 {#release-notes-aug-22}
 
-在下方，您会找到2022年8月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2022年8月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 >[!AVAILABILITY]
 >
->以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
 
 以下功能已于&#x200B;**2022年8月26日**&#x200B;开始分阶段推出。
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 * **Webhook自定义标头可见性**： Webhook自定义标头现在显示在[!UICONTROL Admin] > [!UICONTROL Webhooks]选项卡中，可见性更高。
 
-* **CAPTCHA**：使用reCAPTCHA v3[&#128279;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}评估表单提交的有效性以对传入的表单流量进行评分。 构建营销工作流以自动排除、隔离或删除可疑的机器人流量。
+* **CAPTCHA**：使用reCAPTCHA v3[评估表单提交的有效性](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}以对传入的表单流量进行评分。 构建营销工作流以自动排除、隔离或删除可疑的机器人流量。
 
 * **批准表单的权限**：新权限可控制哪些设计人员可以批准对表单的更改，这些更改与其他[!UICONTROL Design Studio]资源一致。 这可以防止其他设计人员在没有获得批准权限的其他人审阅表单的情况下，将更改推送到表单中。
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-* **[[!DNL Sales Insight] 与 [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**&#x200B;集成：在[!DNL Sales Insight]面板中查看来自[!DNL Dynamic Chat]的活动，并在您的潜在客户工作中利用此新数据点。
+* **[[!DNL Sales Insight] 与 [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**&#x200B;集成：在[!DNL Dynamic Chat]面板中查看来自[!DNL Sales Insight]的活动，并在您的潜在客户工作中利用此新数据点。
 
 ## 公告 {#announcements}
 

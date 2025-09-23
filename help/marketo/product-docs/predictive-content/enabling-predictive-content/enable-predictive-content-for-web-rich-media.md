@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514956
 description: 为Web富媒体启用预测内容 — Marketo文档 — 产品文档
-title: 为Web富媒体启用预测内容
+title: 为 Web 富媒体启用预测性内容
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 为Web富媒体启用预测内容 {#enable-predictive-content-for-web-rich-media}
+# 为 Web 富媒体启用预测性内容 {#enable-predictive-content-for-web-rich-media}
 
 预测内容通过机器学习和预测分析为您的Web访客提供最相关的内容。 借助Web富媒体，您可以使用文本描述和图像来增强内容，并在网站上嵌入多个预测内容推荐。
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. 单击&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Enable for Web Rich Media]**。
+1. 点击 **[!UICONTROL Content Actions]** 下拉菜单，并选择 **[!UICONTROL Enable for Web Rich Media]**。
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## 自定义Javascript代码并将其嵌入您的网站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-请参阅Marketo开发人员网站[上有关富媒体推荐模板](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}的文档。 本部分说明如何自定义网站的模板。
+请参阅Marketo开发人员网站[上有关富媒体推荐模板](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}的文档。 本部分说明如何自定义网站的模板。
 
 将JavaScript代码粘贴到网站中您希望显示该模板的位置。
 

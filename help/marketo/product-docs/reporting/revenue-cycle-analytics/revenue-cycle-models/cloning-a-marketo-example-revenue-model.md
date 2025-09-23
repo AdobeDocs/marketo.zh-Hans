@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4718677
 description: 克隆Marketo示例收入模型 — Marketo文档 — 产品文档
-title: 克隆Marketo示例收入模型
+title: 克隆 Marketo 示例收入模型
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
-# 克隆Marketo示例收入模型 {#cloning-a-marketo-example-revenue-model}
+# 克隆 Marketo 示例收入模型 {#cloning-a-marketo-example-revenue-model}
 
 Marketo提供了一些示例收入建模器，可帮助您获得启发。 克隆这些建模器，并将其作为您自己的建模器。 方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;区域。
+1. 进入 **[!UICONTROL Analytics]** 区域。
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360356
 description: 将单点登录添加到门户 — Marketo文档 — 产品文档
-title: 将单点登录添加到门户
+title: 为门户添加单点登录
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '571'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 将单点登录添加到门户 {#add-single-sign-on-to-a-portal}
+# 为门户添加单点登录 {#add-single-sign-on-to-a-portal}
 
 如果您的目录服务对用户进行身份验证，则可以允许单点登录(SSO)进入Marketo。 我们使用[!DNL Security Assertion Markup Language] (SAML)版本2.0及更高版本支持此功能。
 
@@ -59,7 +59,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
 默认情况下，禁用SSO。 按照以下步骤启用SAML并对其进行配置。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 

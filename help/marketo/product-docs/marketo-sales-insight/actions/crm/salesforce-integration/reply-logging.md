@@ -1,18 +1,18 @@
 ---
 description: 回复日志记录 — Marketo文档 — 产品文档
-title: 回复日志记录
+title: 回复记录
 hide: true
 hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 回复日志记录 {#reply-logging}
+# 回复记录 {#reply-logging}
 
 Sales Insight Actions允许您自动将潜在客户的回复记录到[!DNL Salesforce]。 允许您执行此操作的结构基于我们的电子邮件回复跟踪。 如果我们可以跟踪潜在客户的回复，则可以将该回复记录到[!DNL Salesforce]。
 

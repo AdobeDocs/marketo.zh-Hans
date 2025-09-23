@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147129
 description: 创建项目性能报表 — Marketo文档 — 产品文档
-title: 创建计划绩效报表
+title: 创建项目绩效报告
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 3%
+ht-degree: 11%
 
 ---
 
-# 创建计划绩效报表 {#create-a-program-performance-report}
+# 创建项目绩效报告 {#create-a-program-performance-report}
 
 通过此报表查看有关您的程序的良好统计信息。
 
@@ -36,7 +36,7 @@ ht-degree: 3%
  </thead>
  <tbody>
   <tr>
-   <td>Channel</td>
+   <td>渠道</td>
    <td>节目的渠道类型。</td>
   </tr>
   <tr>

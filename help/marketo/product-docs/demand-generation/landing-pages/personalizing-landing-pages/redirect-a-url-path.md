@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359826
 description: 重定向URL路径 — Marketo文档 — 产品文档
-title: 重定向URL路径
+title: 重定向 URL 路径
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 重定向URL路径 {#redirect-a-url-path}
+# 重定向 URL 路径 {#redirect-a-url-path}
 
-通过Marketo，可以轻松将URL路径重定向到您选择的任意页面。 具体方法如下。
+通过Marketo，可以轻松将URL路径重定向到您选择的任意页面。 操作方法如下：
 
 >[!NOTE]
 >

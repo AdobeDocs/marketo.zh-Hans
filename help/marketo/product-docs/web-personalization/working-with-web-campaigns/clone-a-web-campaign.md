@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093157
 description: 克隆Web营销活动 — Marketo文档 — 产品文档
-title: 克隆Web营销活动
+title: 克隆 Web 营销活动
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 克隆Web营销活动 {#clone-a-web-campaign}
+# 克隆 Web 营销活动 {#clone-a-web-campaign}
 
 使用[!UICONTROL Web Campaigns]页面上的克隆功能可以复制营销活动设置并更改内容以进行剥离测试优化，也可以克隆具有相同内容的营销活动并将其定位到不同的区段。 在秒内创建Web营销活动！
 

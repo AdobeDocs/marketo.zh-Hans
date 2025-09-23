@@ -4,10 +4,10 @@ description: 将报表导出到 [!DNL Excel] - Marketo文档 — 产品文档
 title: 将报告导出到 [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以将任何报告导出到[!DNL Excel]文件，以在其他软件中处理数据。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 

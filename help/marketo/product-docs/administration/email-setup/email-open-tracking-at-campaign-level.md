@@ -1,16 +1,16 @@
 ---
 description: 营销活动级别的电子邮件打开跟踪 — Marketo文档 — 产品文档
-title: 营销活动级别的电子邮件打开跟踪
+title: 在营销活动级别启用电子邮件打开跟踪
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: f0f95604ba3b033fbbf0e4fcd3b502142ef16134
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# 营销活动级别的电子邮件打开跟踪 {#email-open-tracking-at-campaign-level}
+# 在营销活动级别启用电子邮件打开跟踪 {#email-open-tracking-at-campaign-level}
 
 此功能允许您控制跟踪电子邮件打开次数，可以是针对营销活动中的每次打开控制一次，也可以只针对每封电子邮件控制一次，而不管它在不同营销活动中使用了多少次。
 

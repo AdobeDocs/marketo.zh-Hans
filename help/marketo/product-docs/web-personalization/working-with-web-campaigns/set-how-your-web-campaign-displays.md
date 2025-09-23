@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12978906
 description: 设置Web营销活动的显示方式 — Marketo文档 — 产品文档
-title: 设置Web营销活动的显示方式
+title: 设置 Web 营销活动的显示方式
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 设置Web营销活动的显示方式 {#set-how-your-web-campaign-displays}
+# 设置 Web 营销活动的显示方式 {#set-how-your-web-campaign-displays}
 
 在确定Web营销活动的显示时间/方式时，有多种方法可使用。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 为Web营销活动指定在您的网站上做出反应的时间延迟（以总秒为单位）。
 
-1. 单击&#x200B;**[!UICONTROL Display On]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Delay]**。
+1. 点击 **[!UICONTROL Display On]** 下拉菜单，并选择 **[!UICONTROL Delay]**。
 
    ![](assets/d1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 滚动 {#scroll}
 
-1. 单击&#x200B;**[!UICONTROL Display On]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Scroll]**。
+1. 点击 **[!UICONTROL Display On]** 下拉菜单，并选择 **[!UICONTROL Scroll]**。
 
    ![](assets/s1.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 退出意图将在鼠标光标退出浏览器时显示Web营销活动。
 
-1. 单击&#x200B;**[!UICONTROL Display On]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Exit Intent]**。
+1. 点击 **[!UICONTROL Display On]** 下拉菜单，并选择 **[!UICONTROL Exit Intent]**。
 
    ![](assets/ei1.png)
 

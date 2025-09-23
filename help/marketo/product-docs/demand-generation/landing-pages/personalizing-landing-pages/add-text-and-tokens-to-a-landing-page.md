@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359530
 description: 将文本和令牌添加到登陆页面 — Marketo文档 — 产品文档
-title: 将文本和令牌添加到登陆页面
+title: 向登录页面添加文本和令牌
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 将文本和令牌添加到登陆页面 {#add-text-and-tokens-to-a-landing-page}
+# 向登录页面添加文本和令牌 {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]
 >

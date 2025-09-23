@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359920
 description: 设置后备页面 — Marketo文档 — 产品文档
-title: 设置回退页
+title: 设置回退页面
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 1%
+ht-degree: 22%
 
 ---
 
-# 设置回退页 {#set-a-fallback-page}
+# 设置回退页面 {#set-a-fallback-page}
 
 回退页面是登陆页面处于脱机状态或未找到的最后一道防线。 确保您有一个。
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/set-a-fallback-page-1.png)
 

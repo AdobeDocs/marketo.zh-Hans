@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359547
 description: 计划A/B测试 — Marketo文档 — 产品文档
-title: 安排A/B测试
+title: 安排 A/B 测试
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 安排A/B测试 {#schedule-the-a-b-test}
+# 安排 A/B 测试 {#schedule-the-a-b-test}
 
-将A/B测试添加到电子邮件计划并定义入选标准后，需要计划在测试开始时进行测试。 具体方法如下。
+将A/B测试添加到电子邮件计划并定义入选标准后，需要计划在测试开始时进行测试。 操作方法如下：
 
 >[!PREREQUISITES]
 >

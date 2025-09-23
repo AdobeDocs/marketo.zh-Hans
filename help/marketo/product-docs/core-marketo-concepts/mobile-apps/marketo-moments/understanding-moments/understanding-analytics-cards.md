@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8781988
 description: 了解Analytics信息卡 — Marketo文档 — 产品文档
-title: 了解Analytics信息卡
+title: 了解分析卡片
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 了解Analytics信息卡 {#understanding-analytics-cards}
+# 了解分析卡片 {#understanding-analytics-cards}
 
 每月初，Marketo Miments提供三种不同的报表卡：[!UICONTROL Acquired Leads]、[!UICONTROL New Leads]和[!UICONTROL Unsubscribes]。 每个报表均显示六个月的每月绩效和趋势。
 

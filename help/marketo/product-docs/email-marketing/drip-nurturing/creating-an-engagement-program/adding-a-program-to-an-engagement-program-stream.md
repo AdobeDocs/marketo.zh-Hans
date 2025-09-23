@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098134
 description: 将项目添加到参与项目项目流 — Marketo文档 — 产品文档
-title: 将计划添加到参与计划流
+title: 将计划添加到参与计划流中
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 将计划添加到参与计划流 {#adding-a-program-to-an-engagement-program-stream}
+# 将计划添加到参与计划流中 {#adding-a-program-to-an-engagement-program-stream}
 
 ## 为什么在参与计划流中使用嵌套计划？ {#why-use-a-nested-program-in-an-engagement-program-stream}
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719398
 description: 新建Dialog Web营销活动 — Marketo文档 — 产品文档
-title: 新建Dialog Web营销活动
+title: 创建新对话 Web 营销活动
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '732'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 新建Dialog Web营销活动 {#create-a-new-dialog-web-campaign}
+# 创建新对话 Web 营销活动 {#create-a-new-dialog-web-campaign}
 
 ## 创建Dialog Web营销活动 {#create-a-dialog-web-campaign}
 
@@ -146,11 +146,11 @@ Web营销活动是与特定区段关联的自定义反应。 响应可以是您�
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
-## 克隆Web营销活动 {#clone-a-web-campaign}
+## 克隆 Web 营销活动 {#clone-a-web-campaign}
 
 请参阅[克隆Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
-## 删除Web活动 {#delete-a-web-campaign}
+## 删除 Web 营销活动 {#delete-a-web-campaign}
 
 1. 在&#x200B;**[!UICONTROL Web Campaigns]**&#x200B;页面中，单击要删除的Web营销活动上的&#x200B;**[!UICONTROL Delete]**。
 

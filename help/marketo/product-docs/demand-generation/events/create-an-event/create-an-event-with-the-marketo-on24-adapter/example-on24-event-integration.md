@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096679
 description: ON24事件集成示例 — Marketo文档 — 产品文档
-title: ON24事件集成示例
+title: ON24 事件集成示例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# ON24事件集成示例 {#example-on-event-integration}
+# ON24 事件集成示例 {#example-on-event-integration}
 
 以下是ON24网络研讨会的示例事件（包括促销活动）。 在构建活动时，请确保在运行活动之前对其进行测试。
 

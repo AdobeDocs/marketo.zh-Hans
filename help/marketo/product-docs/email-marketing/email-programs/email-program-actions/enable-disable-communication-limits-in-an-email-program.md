@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359596
 description: 在电子邮件程序中启用/禁用通信限制 — Marketo文档 — 产品文档
-title: 启用/禁用电子邮件程序中的通信限制
+title: 在电子邮件项目中启用/禁用通信限制
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 启用/禁用电子邮件程序中的通信限制 {#enable-disable-communication-limits-in-an-email-program}
+# 在电子邮件项目中启用/禁用通信限制 {#enable-disable-communication-limits-in-an-email-program}
 
 运行电子邮件程序时，您可以选择忽略或遵守[管理员级别的通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)。 下面是操作方法。
 

@@ -1,36 +1,36 @@
 ---
 unique-page-id: 2953207
 description: 新建Campaign文件夹 — Marketo文档 — 产品文档
-title: 新建Campaign文件夹
+title: 创建新营销活动文件夹
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 9%
 
 ---
 
-# 新建Campaign文件夹 {#create-new-campaign-folder}
+# 创建新营销活动文件夹 {#create-new-campaign-folder}
 
 Campaign文件夹可帮助您保持工作区的整洁。 按照这些简单的步骤操作，您就会走向自动化魔术。
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择&#x200B;**[!UICONTROL 新建]**。
+1. 选择 **[!UICONTROL New]**。
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. 选择&#x200B;**[!UICONTROL 新建Campaign文件夹]**。
+1. 选择 **[!UICONTROL New Campaign Folder]**。
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. 输入营销活动文件夹的&#x200B;**[!UICONTROL Name]**。
+1. 为营销活动文件夹输入&#x200B;**[!UICONTROL Name]**。
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. 可选：输入&#x200B;**[!UICONTROL 描述]**&#x200B;并单击&#x200B;**[!UICONTROL 创建]**。
+1. 可选：输入&#x200B;**[!UICONTROL Description]**&#x200B;并单击&#x200B;**[!UICONTROL Create]**。
 
    >[!TIP]
    >

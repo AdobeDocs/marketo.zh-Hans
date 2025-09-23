@@ -1,16 +1,16 @@
 ---
 description: 用户和许可证管理 — Marketo文档 — 产品文档
-title: 用户和许可证管理
+title: 用户与许可证管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '717'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 用户和许可证管理 {#user-and-license-management}
+# 用户与许可证管理 {#user-and-license-management}
 
 了解如何添加和删除用户以及查看当前许可证。
 

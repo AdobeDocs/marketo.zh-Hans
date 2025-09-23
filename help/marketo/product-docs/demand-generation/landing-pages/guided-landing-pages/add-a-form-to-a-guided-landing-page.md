@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515107
 description: 将表单添加到引导式登陆页面 — Marketo文档 — 产品文档
-title: 将表单添加到引导式登陆页面
+title: 向引导式登录页面添加表单
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 将表单添加到引导式登陆页面 {#add-a-form-to-a-guided-landing-page}
+# 向引导式登录页面添加表单 {#add-a-form-to-a-guided-landing-page}
 
 表单，满足登陆页面要求。 登陆页面，满足表单要求。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[创建引导式登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/one.png)
 

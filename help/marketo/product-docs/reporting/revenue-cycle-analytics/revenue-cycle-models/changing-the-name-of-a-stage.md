@@ -4,10 +4,10 @@ description: 更改阶段名称 — Marketo文档 — 产品文档
 title: 更改阶段名称
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 2%
+ht-degree: 26%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 改变主意？ 没问题。 重命名收入周期Modeler中的阶段很容易。
 
-1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;区域。
+1. 进入 **[!UICONTROL Analytics]** 区域。
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 

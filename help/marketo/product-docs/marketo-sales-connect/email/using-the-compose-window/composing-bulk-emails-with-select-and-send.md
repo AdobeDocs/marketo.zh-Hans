@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356578
 description: 使用选择并发送撰写批量电子邮件 — Marketo文档 — 产品文档
-title: 使用“选择并发送”撰写批量电子邮件
+title: 使用选择并发送功能撰写批量电子邮件
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '391'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 使用“选择并发送”撰写批量电子邮件 {#composing-bulk-emails-with-select-and-send}
+# 使用选择并发送功能撰写批量电子邮件 {#composing-bulk-emails-with-select-and-send}
 
 以下是如何使用“选择并发送”选项发送/编辑电子邮件。
 

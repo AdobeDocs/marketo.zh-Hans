@@ -2,8 +2,8 @@
 unique-page-id: 1147279
 description: 产品文档 – Marketo 文档 – 产品文档
 title: 产品文档
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%
 

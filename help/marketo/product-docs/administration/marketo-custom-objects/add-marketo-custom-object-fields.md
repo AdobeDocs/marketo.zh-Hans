@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10093688
 description: 添加Marketo自定义对象字段 — Marketo文档 — 产品文档
-title: 添加Marketo自定义对象字段
+title: 添加 Marketo 自定义对象字段
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 添加Marketo自定义对象字段 {#add-marketo-custom-object-fields}
+# 添加 Marketo 自定义对象字段 {#add-marketo-custom-object-fields}
 
 创建自定义对象后，您需要向其添加字段以满足业务需求。
 
 字段定义自定义对象使用的特定信息。 链接字段具有连接自定义对象的特殊作业，并在[单独的文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)中介绍。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 

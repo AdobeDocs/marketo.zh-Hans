@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359890
 description: 了解参与度分数 — Marketo文档 — 产品文档
-title: 了解参与度分数
+title: 了解参与度评分
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 了解参与度分数 {#understanding-the-engagement-score}
+# 了解参与度评分 {#understanding-the-engagement-score}
 
 通过参与度分数，可以轻松了解参与计划中的内容的效果。 得分从0到100不等。 查看[参与仪表板](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md)，了解如何跟踪内容的性能。
 

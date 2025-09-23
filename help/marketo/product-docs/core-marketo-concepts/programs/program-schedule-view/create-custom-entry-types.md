@@ -4,10 +4,10 @@ description: 创建自定义条目类型 — Marketo文档 — 产品文档
 title: 创建自定义条目类型
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 1%
+source-wordcount: '95'
+ht-degree: 15%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 您可以创建自定义条目类型以在程序计划视图中使用。 这样，您就可以跟踪影响项目的所有非Marketo议程项目。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;部分，然后单击&#x200B;**[!UICONTROL 标记]**。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;部分并单击&#x200B;**[!UICONTROL Tags]**。
 
    ![](assets/admintags.png)
 
-1. 单击&#x200B;**[!UICONTROL 日历条目类型]**。
+1. 单击 **[!UICONTROL Calendar Entry Type]**。
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表并选择&#x200B;**[!UICONTROL 条目类型]**。
+1. 点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL Entry Type]**。
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,11 +31,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. 选择&#x200B;**[!UICONTROL 条目颜色]**。
+1. 选择&#x200B;**[!UICONTROL Entry Color]**。
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 
-1. 单击&#x200B;**[!UICONTROL 保存]**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-16-3a4-3a14.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783972
 description: 模板8E - Marketo文档 — 产品文档
-title: 模板8E
+title: 模板 8E
 exl-id: 4e3c3b18-0a4f-4d5c-8535-77ca063b98b9
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 模板8E {#template-8e}
+# 模板 8E {#template-8e}
 
-右键单击以[下载模板8E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html?lang=zh-Hans)
+右键单击以[下载模板8E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html)
 
 ![](assets/image2015-7-29-14-3a39-3a0.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板8E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html?lang=zh-Hans)
+[模板8E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html)

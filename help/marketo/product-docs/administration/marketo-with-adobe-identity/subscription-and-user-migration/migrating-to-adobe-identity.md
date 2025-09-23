@@ -1,16 +1,16 @@
 ---
 description: 迁移到Adobe Identity - Marketo文档 — 产品文档
-title: 迁移到Adobe Identity
+title: 迁移至 Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2319'
 ht-degree: 0%
 
 ---
 
-# 迁移到Adobe Identity {#migrating-to-adobe-identity}
+# 迁移至 Adobe Identity {#migrating-to-adobe-identity}
 
 当Adobe计划订阅的用户迁移时，Marketo Engage产品管理员将获得对迁移控制台的访问权限，该权限可在集成下管理区域的导航菜单中找到。
 
@@ -227,6 +227,6 @@ Marketo产品管理员将能够选择要批量迁移的用户，或者一次性�
 
 ![](assets/migrating-to-adobe-identity-24.png)
 
-单击“迁移所有用户”**&#x200B;**&#x200B;按钮后，将提示管理员&#x200B;**确认所有符合条件的用户的**&#x200B;迁移。 管理员确认后，将尽快开始处理用户迁移。
+单击“迁移所有用户”****&#x200B;按钮后，将提示管理员&#x200B;**确认所有符合条件的用户的**&#x200B;迁移。 管理员确认后，将尽快开始处理用户迁移。
 
 ![](assets/migrating-to-adobe-identity-25.png)

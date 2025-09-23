@@ -4,14 +4,14 @@ description: 发行说明 — 2013年8月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年8月
 exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 发行说明： 2013年8月 {#release-notes-august}
+# 发行说明：2013 年 8 月 {#release-notes-august}
 
 2013年8月版本中包含以下功能。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## 自动触发营销活动清理 {#automatic-trigger-campaign-cleanup}
+## 自动清理触发型营销活动 {#automatic-trigger-campaign-cleanup}
 
 Marketo现在将定期通知您，并[自动停用过去六个月未运行的触发营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 

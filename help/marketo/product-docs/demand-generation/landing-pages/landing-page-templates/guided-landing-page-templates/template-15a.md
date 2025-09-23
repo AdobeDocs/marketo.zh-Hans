@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437816
 description: 模板15A - Marketo文档 — 产品文档
-title: 模板15A
+title: 模板 15A
 exl-id: 64aeaa61-cd39-487c-9ca5-9b2185dc04a3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 模板15A {#template-15a}
+# 模板 15A {#template-15a}
 
-右键单击以[下载模板15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=zh-Hans)
+右键单击以[下载模板15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=zh-Hans)
+[模板15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)

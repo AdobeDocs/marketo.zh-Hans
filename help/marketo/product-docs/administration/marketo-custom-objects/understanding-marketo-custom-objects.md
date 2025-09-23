@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093188
 description: 了解Marketo自定义对象 — Marketo文档 — 产品文档
-title: 了解Marketo自定义对象
+title: 了解 Marketo 自定义对象
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '689'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 了解Marketo自定义对象 {#understanding-marketo-custom-objects}
+# 了解 Marketo 自定义对象 {#understanding-marketo-custom-objects}
 
 使用自定义对象跟踪特定于您的业务的量度。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 访问Marketo自定义对象 {#accessing-marketo-custom-objects}
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 

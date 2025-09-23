@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982909
 description: 按收件人时区安排参与计划 — Marketo文档 — 产品文档
-title: 按照收件人时区安排参与计划
+title: 按收件人时区安排参与计划
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 按照收件人时区安排参与计划 {#schedule-engagement-programs-with-recipient-time-zone}
+# 按收件人时区安排参与计划 {#schedule-engagement-programs-with-recipient-time-zone}
 
 当您计划参与项目程序流并且收件人时区处于活动状态时，程序转换将在第一个时区的午夜开始运行(UTC +14:00)。 我们要求您将第一个演员安排在未来&#x200B;**至少25小时**，因为全球每个时区可能有符合演员资格的人。 在第一个时区中的此时开始处理，可以保证我们将在计划的日期和时间为每个收件人发送电子邮件。
 

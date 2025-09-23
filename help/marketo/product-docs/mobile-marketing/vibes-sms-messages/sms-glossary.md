@@ -1,18 +1,18 @@
 ---
 description: 短信术语表 — Marketo文档 — 产品文档
-title: SMS术语表
+title: 短信术语表
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '734'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# SMS术语表 {#sms-glossary}
+# 短信术语表 {#sms-glossary}
 
-以下是您在将Vibes SMS消息与Marketo Engage结合使用时将遇到的一些常用术语。
+以下是将Vibes SMS消息与Marketo Engage一起使用时将遇到的一些常用术语。
 
 <table>
 <thead>
@@ -32,10 +32,10 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>公司密钥</td>
-    <td>company_key是您的平台帐户的唯一字母数字标识符。 如果在Vibes平台中有多个公司帐户（如子帐户），则可能会有多个company_keys。 每个Marketo Engage实例只能映射到一个Vibes company_key。</td>
+    <td>company_key是您的平台帐户的唯一字母数字标识符。 如果在Vibes平台中有多个公司帐户（如子帐户），则可能会有多个company_keys。 Marketo Engage的每个实例只能映射到一个Vibes company_key。</td>
   </tr>
   <tr>
-    <td>CTA（行动号召）</td>
+    <td>CTA (call to action)</td>
     <td>用于获取定期文本消息程序或订阅列表中的订阅者的数字或物理标牌或口头脚本。 可以置于在线、社交媒体、电子邮件、印刷品等中。</td>
   </tr>
   <tr>

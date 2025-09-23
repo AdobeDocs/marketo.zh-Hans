@@ -4,10 +4,10 @@ description: 动态切换表单字段的可见性 — Marketo文档 — 产品�
 title: 动态切换表单字段的可见性
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
@@ -69,6 +69,6 @@ Marketo表单的一个真正酷的功能是，您可以动态隐藏/显示表单
 
 >[!IMPORTANT]
 >
->使用Forms 2.0中的[API函数](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}通过自定义脚本设置/更新字段值时，表单字段行为将无缝工作。
+>使用Forms 2.0中的[API函数](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}通过自定义脚本设置/更新字段值时，表单字段行为将无缝工作。
 >
 >如果字段值由Forms 2.0 JavaScript API以外的外部脚本修改，则条件字段可能无法按预期工作。

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360225
 description: 在电子邮件报表中筛选Assets - Marketo文档 — 产品文档
-title: 在电子邮件报表中筛选Assets
+title: 筛选电子邮件报告中的资产
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 在电子邮件报表中筛选Assets {#filter-assets-in-an-email-report}
+# 筛选电子邮件报告中的资产 {#filter-assets-in-an-email-report}
 
 将您的[电子邮件性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)或[电子邮件链接性能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)报表集中在程序（“本地资产”）中的电子邮件、Design Studio中的电子邮件（“全局资产”）或已存档的电子邮件上。
 

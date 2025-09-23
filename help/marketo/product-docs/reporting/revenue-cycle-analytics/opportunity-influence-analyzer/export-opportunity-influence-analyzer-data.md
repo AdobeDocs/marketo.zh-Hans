@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360394
 description: 导出Opportunity Influence Analyzer数据 — Marketo文档 — 产品文档
-title: 导出Opportunity Impact Analyzer数据
+title: 导出商机影响分析器数据
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# 导出Opportunity Impact Analyzer数据 {#export-opportunity-influence-analyzer-data}
+# 导出商机影响分析器数据 {#export-opportunity-influence-analyzer-data}
 
 要从收入周期资源管理器报表接收更新并共享这些更新，您可以订阅现有报表的任意电子邮件地址。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359810
 description: 为您的帐户启用个性化URL - Marketo文档 — 产品文档
-title: 为您的帐户启用个性化URL
+title: 为您的帐户启用个性化 URL
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 4%
+ht-degree: 17%
 
 ---
 
-# 为您的帐户启用个性化URL {#enable-personalized-urls-for-your-account}
+# 为您的帐户启用个性化 URL {#enable-personalized-urls-for-your-account}
 
 个性化URL非常适合打印邮件营销活动。
 

@@ -4,14 +4,14 @@ description: SFDC同步 — 合并潜在客户/联系人/人员 — Marketo文�
 title: SFDC同步 — 合并潜在客户/联系人/人员
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# SFDC同步：合并潜在客户/联系人/人员 {#sfdc-sync-merging-a-lead-contact-person}
+# SFDC 同步：合并潜在客户/联系人/人员 {#sfdc-sync-merging-a-lead-contact-person}
 
 有时最好只是列出规则。 接下来是：
 

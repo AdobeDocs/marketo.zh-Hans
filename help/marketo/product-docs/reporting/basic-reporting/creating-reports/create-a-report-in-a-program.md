@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359963
 description: 在程序中创建报表 — Marketo文档 — 产品文档
-title: 在项目群中创建报告
+title: 在项目中创建报告
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 在项目群中创建报告 {#create-a-report-in-a-program}
+# 在项目中创建报告 {#create-a-report-in-a-program}
 
 运行报表以分析人员、程序、登陆页面、电子邮件和社交资产。
 

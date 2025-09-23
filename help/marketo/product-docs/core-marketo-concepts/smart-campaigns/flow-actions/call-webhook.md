@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147023
 description: 调用Webhook - Marketo文档 — 产品文档
-title: 调用Webhook
+title: 调用 Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 调用Webhook {#call-webhook}
+# 调用 Webhook {#call-webhook}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Webhook允许您与第三方服务进行交互。 通过在智能营销活动流
 
 >[!NOTE]
 >
->了解[Webhooks](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以为您完成的许多有趣内容。
+>了解[Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以为您做许多有趣的事情。
 
 1. 从下拉列表中选择Webhook。
 

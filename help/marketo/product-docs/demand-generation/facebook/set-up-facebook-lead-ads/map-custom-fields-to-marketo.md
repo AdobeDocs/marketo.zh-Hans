@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12983101
 description: 将自定义字段映射到Marketo - Marketo文档 — 产品文档
-title: 将自定义字段映射到Marketo
+title: 将自定义字段映射到 Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 将自定义字段映射到Marketo {#map-custom-fields-to-marketo}
+# 将自定义字段映射到 Marketo {#map-custom-fields-to-marketo}
 
 默认情况下，您可能希望收集到的信息比[!DNL Facebook]存储的标准信息多，例如某人使用您的在线交付服务的频率。 您可以通过在[潜在客户广告中](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)创建自定义问题[!DNL Facebook]来完成此操作。
 

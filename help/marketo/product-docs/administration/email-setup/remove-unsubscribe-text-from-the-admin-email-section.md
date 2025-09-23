@@ -4,22 +4,22 @@ description: 从管理员电子邮件部分删除取消订阅文本 — Marketo�
 title: 从管理员电子邮件部分删除取消订阅文本
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 3%
 
 ---
 
 # 从“管理员”>“电子邮件”部分删除取消订阅文本 {#remove-unsubscribe-text-from-the-admin-email-section}
 
-之所以应从&#x200B;**[!UICONTROL 管理员]** > **[!UICONTROL 电子邮件]**&#x200B;区域完全删除取消订阅内容，唯一的原因是您选择在电子邮件模板中构建取消订阅链接。 该文本框具有验证，不允许您保存而不保存任何内容。 您可以通过添加小的HTML评论来解决此问题。 HTML注释将不会显示在电子邮件客户端中，因为它以HTML呈现电子邮件，并且会忽略这些注释。 下面是操作方法。
+您应从&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Email]**&#x200B;区域完全删除取消订阅内容的唯一原因是，如果您选择在电子邮件模板中构建取消订阅链接。 该文本框具有验证，不允许您保存而不保存任何内容。 您可以通过添加小的HTML评论来解决此问题。 HTML注释将不会显示在电子邮件客户端中，因为它在HTML中呈现电子邮件，并且会忽略这些注释。 下面是操作方法。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
+1. 单击 **[!UICONTROL Email]**。
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
-1. 单击&#x200B;**[!UICONTROL 保存更改]**。
+1. 单击 **[!UICONTROL Save Changes]**。
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-4.png)
 

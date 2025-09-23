@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360188
 description: 营销活动电子邮件性能报表 — Marketo文档 — 产品文档
-title: 营销活动电子邮件性能报表
+title: 营销活动电子邮件绩效报告
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 营销活动电子邮件性能报表 {#campaign-email-performance-report}
+# 营销活动电子邮件绩效报告 {#campaign-email-performance-report}
 
 要查看按[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)分组的电子邮件性能统计数据，请运行营销活动电子邮件性能报表。
 

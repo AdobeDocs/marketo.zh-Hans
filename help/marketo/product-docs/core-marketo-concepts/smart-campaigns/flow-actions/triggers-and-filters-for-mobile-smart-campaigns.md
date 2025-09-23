@@ -1,17 +1,17 @@
 ---
 unique-page-id: 9437991
 description: 移动智能营销活动的触发器和过滤器 — Marketo文档 — 产品文档
-title: 移动智能营销活动的触发器和过滤器
+title: 移动端智能营销活动的触发器与过滤器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '814'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 移动智能营销活动的触发器和过滤器 {#triggers-and-filters-for-mobile-smart-campaigns}
+# 移动端智能营销活动的触发器与过滤器 {#triggers-and-filters-for-mobile-smart-campaigns}
 
 您可以为移动设备应用程序Smart Campaign设置触发器和过滤器。
 
@@ -103,7 +103,7 @@ ht-degree: 1%
 
 具有/曾经具有移动设备应用程序活动
 
-这提供了一种强大的方法来跟踪自定义移动活动。 您需要与开发人员合作，为Android[设置跟踪](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}，为iOS[设置跟踪](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}。
+这提供了一种强大的方法来跟踪自定义移动活动。 您需要与开发人员合作，为Android[设置跟踪](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}，为iOS[设置跟踪](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}。
 
 * 具有移动设备应用程序活动 — 触发器
 

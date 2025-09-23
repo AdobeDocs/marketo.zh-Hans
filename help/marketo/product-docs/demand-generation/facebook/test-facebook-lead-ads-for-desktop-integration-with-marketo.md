@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11370892
 description: 测试Facebook潜在客户广告以了解桌面与Marketo的集成 — Marketo文档 — 产品文档
-title: 测试桌面与Marketo集成的Facebook潜在客户广告
+title: 测试 Facebook 潜在客户广告与 Marketo 的桌面端集成
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

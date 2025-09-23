@@ -4,10 +4,10 @@ description: 管理和查看成员 — Marketo文档 — 产品文档
 title: 管理和查看成员
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 选择在网格中可见的列 {#choose-which-columns-are-visible-in-the-grid}
 
-1. 单击&#x200B;**[!UICONTROL View]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Create View]**。
+1. 点击 **[!UICONTROL View]** 下拉菜单，并选择 **[!UICONTROL Create View]**。
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 

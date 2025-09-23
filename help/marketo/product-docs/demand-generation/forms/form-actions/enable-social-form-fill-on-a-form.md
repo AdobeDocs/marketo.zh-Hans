@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359616
 description: 启用社交表单填写表单 — Marketo文档 — 产品文档
-title: 启用社交表单填写表单
+title: 在表单中启用社交表单自动填充
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
-# 启用社交表单填写表单 {#enable-social-form-fill-on-a-form}
+# 在表单中启用社交表单自动填充 {#enable-social-form-fill-on-a-form}
 
 允许访客使用其社交网络填写表单。 您将自动获得额外数据，从而更快地获得体验。
 

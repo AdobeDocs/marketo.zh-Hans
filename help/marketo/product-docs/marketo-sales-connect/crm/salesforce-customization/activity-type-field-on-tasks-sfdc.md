@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352476
 description: 任务的活动类型字段(SFDC) - Marketo文档 — 产品文档
-title: 任务的活动类型字段(SFDC)
+title: 任务中的活动类型字段（SFDC）
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# 任务的活动类型字段(SFDC) {#activity-type-field-on-tasks-sfdc}
+# 任务中的活动类型字段（SFDC） {#activity-type-field-on-tasks-sfdc}
 
 借助[!DNL Sales Connect]，您可以在[!DNL Salesforce]中将您的电子邮件和呼叫记录为活动。 在[!DNL Salesforce]中具有宝贵数据的关键部分是，让[!UICONTROL Type]字段填充正确的值。
 

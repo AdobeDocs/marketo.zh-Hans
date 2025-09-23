@@ -3,10 +3,10 @@ description: 量度和维度 — Marketo文档 — 产品文档
 title: 量度和维度
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1040'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -18,14 +18,14 @@ ht-degree: 5%
 >
 >如果有任何表格显得太窄，您可以展开视图，方法是单击指向此页面顶部的左(![](assets/icon-left-arrow.png))和右(![](assets/icon-right-arrow.png))箭头，折叠左右边栏。
 
-## Dimension和度量 {#dimensions-and-measures}
+## 维度和测量 {#dimensions-and-measures}
 
 <table>
  <tbody>
     <tr>
       <th>分析报告</th>
       <th colspan="3" scope="colgroup">维度</th>
-      <th>措施(M)</th>
+      <th>衡量标准(M)</th>
     </tr>
     <tr>
       <th> </th>
@@ -51,9 +51,9 @@ ht-degree: 5%
           <li>电子邮件属性</li>
           <li>商机属性</li>
           <li>公司属性</li>
-          <li>计划属性</li>
+          <li>项目群属性</li>
           <li>ABM帐户属性</li>
-          <li>计划标签</li>
+          <li>项目标记</li>
         </ul>
       </td>
       <td>
@@ -91,7 +91,7 @@ ht-degree: 5%
       </td>
       <td>
         <ul>
-          <li>措施(M)</li>
+          <li>衡量标准(M)</li>
           <li>自定义测量(M)</li>
         </ul>
       </td>
@@ -175,13 +175,13 @@ ht-degree: 5%
       <td>项目成本分析</td>
       <td>
         <ul>
-          <li>计划成本时间范围</li>
+          <li>项目成本时间范围</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>计划标签</li>
-          <li>计划属性</li>
+          <li>项目标记</li>
+          <li>项目群属性</li>
         </ul>
       </td>
       <td> </td>
@@ -239,25 +239,25 @@ ht-degree: 5%
         <ul>
           <li>项目群属性</li>
           <li>机会属性</li>
-          <li>计划标签</li>
+          <li>项目标记</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>自定义业务机会属性</li>
+          <li>自定义机会属性</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>属性(M)</li>
+          <li>归因(M)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>方案收入阶段分析</td>
+      <td>项目收入阶段分析</td>
       <td>
         <ul>
-          <li>计划成本时间范围</li>
+          <li>项目成本时间范围</li>
         </ul>
       </td>
       <td>
@@ -317,7 +317,7 @@ ht-degree: 5%
             <li>原始来源类型</li>
             <li>潜在客户分区</li>
             <li>注册Source类型</li>
-            <li>退订</li>
+            <li>已取消订阅</li>
             <li>电子邮件地址</li>
             <li>电子邮件无效</li>
             <li>潜在客户所有者电子邮件地址</li>
@@ -343,12 +343,12 @@ ht-degree: 5%
       </td>
       <td>
           <ul>
-            <li>(FT)在机会结束之前</li>
+            <li>(FT)商机结束前</li>
             <li>(FT)在机会创建之前</li>
             <li>影响营销</li>
             <li>(MT)商机结束前</li>
             <li>(MT)机会创建前</li>
-            <li>商机已结束</li>
+            <li>机会已关闭</li>
             <li>机会预测类别</li>
             <li>机会名称</li>
             <li>机会阶段</li>
@@ -375,7 +375,7 @@ ht-degree: 5%
           <ul>
             <li>ABM国家/地区</li>
             <li>ABM CRM ID</li>
-            <li>指定帐户</li>
+            <li>命名帐户</li>
           </ul>
       </td>
       <td>MPA_C
@@ -414,11 +414,11 @@ ht-degree: 5%
 <table>
   <tbody>
     <tr>
-      <th>四分之一时间范围</th>
+      <th>季度时间范围</th>
       <th>月份时间范围</th>
       <th>周时间范围</th>
       <th>日期时间范围</th>
-      <th>星期几</th>
+      <th>每周时间</th>
       <th>小时</th>
     </tr>
     <tr>
@@ -458,9 +458,9 @@ ht-degree: 5%
       <td>
           <ul>
             <li>发送（日期）</li>
-            <li>Delivered（日期）</li>
+            <li>已投放（日期）</li>
             <li>硬退回（日期）</li>
-            <li>打开时间（日期）</li>
+            <li>已打开（日期）</li>
             <li>已单击（日期）</li>
             <li>已取消订阅（日期）</li>
             <li>投诉（日期）</li>
@@ -510,9 +510,9 @@ ht-degree: 5%
     <tr>
       <td>
           <ul>
-            <li>年</li>
+            <li>Year</li>
             <li>季度</li>
-            <li>月</li>
+            <li>Month</li>
             <li>周</li>
             <li>日期</li>
           </ul>
@@ -523,7 +523,7 @@ ht-degree: 5%
             <li>潜在客户创建的季度</li>
             <li>商机创建月份</li>
             <li>商机创建周</li>
-            <li>潜在客户创建日期</li>
+            <li>商机创建日期</li>
           </ul>
       </td>
       <td>
@@ -555,7 +555,7 @@ ht-degree: 5%
           <ul>
             <li>会员资格年份</li>
             <li>会员资格季度</li>
-            <li>会员资格月份</li>
+            <li>会员月份</li>
             <li>会员资格周</li>
             <li>成员资格日期</li>
           </ul>
@@ -572,8 +572,8 @@ ht-degree: 5%
       <td>
         <ul>
             <li>收购年份</li>
-            <li>购置季度</li>
-            <li>购置月份</li>
+            <li>客户获取季度</li>
+            <li>客户获取月份</li>
             <li>客户获取周</li>
             <li>获取日期</li>
         </ul>
@@ -614,7 +614,7 @@ ht-degree: 5%
             <li>%投诉</li>
             <li>%已投放</li>
             <li>%已打开</li>
-            <li>%未订阅</li>
+            <li>%已取消订阅</li>
             <li>已单击</li>
             <li>投诉</li>
             <li>已送达</li>
@@ -622,7 +622,7 @@ ht-degree: 5%
             <li>已打开</li>
             <li>已发送</li>
             <li>独特点击</li>
-            <li>退订</li>
+            <li>已取消订阅</li>
           </ul>
       </td>
       <td>
@@ -631,10 +631,10 @@ ht-degree: 5%
             <li>将潜在客户转化为商机的平均天数</li>
             <li>平均得分</li>
             <li>商机转化率</li>
-            <li>公司对业务机会的转化率</li>
+            <li>公司到业务机会的转化率</li>
             <li>公司数量</li>
-            <li>公司数量（转换为业务机会）</li>
-            <li>公司数（未转换为业务机会）</li>
+            <li>公司数量（转换为商机）</li>
+            <li>公司数（未转换为商机）</li>
             <li>潜在客户数</li>
             <li>Lead数（转化为Opportunity）</li>
             <li>Lead数（未转化为Opportunity）</li>
@@ -654,7 +654,7 @@ ht-degree: 5%
             <li>平均 年龄</li>
             <li>已合并/删除</li>
             <li>SLA到期时间</li>
-            <li>SLA逾期</li>
+            <li>SLA已过期</li>
         </ul>
       </td>
       <td>
@@ -663,14 +663,14 @@ ht-degree: 5%
             <li>会话比率（所有类型）</li>
             <li>对话配额（现有）</li>
             <li>会话比率（新）</li>
-            <li>流量</li>
-            <li>流（现有）</li>
-            <li>流量（仅新增）</li>
+            <li>流程</li>
+            <li>流量（现有）</li>
+            <li>流量（仅限新增）</li>
         </ul>
       </td>
       <td>
           <ul>
-            <li>每个会员的费用</li>
+            <li>每个成员的成本</li>
             <li>每个新名称的成本</li>
             <li>每次成功的成本</li>
             <li>每次成功的成本（新名称）</li>
@@ -734,9 +734,9 @@ ht-degree: 5%
             <li>(MT)管道已创建 — 仍然开放</li>
             <li>(MT)预期收入</li>
             <li>(MT)投资收入</li>
-            <li>(MT)韩元收入</li>
-            <li>每个已结束销售机会的平均成功数</li>
-            <li>每个创建的销售机会的平均成功数</li>
+            <li>(MT)已获得的收入</li>
+            <li>每个已结束机会的平均成功数</li>
+            <li>每个创建的机会的平均成功数</li>
             <li>新名称</li>
             <li>计划成本</li>
             <li>成功（总计）</li>

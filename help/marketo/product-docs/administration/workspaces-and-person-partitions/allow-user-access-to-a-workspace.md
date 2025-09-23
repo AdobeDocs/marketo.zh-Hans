@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360325
 description: 允许用户访问Workspace - Marketo文档 — 产品文档
-title: 允许用户访问Workspace
+title: 允许用户访问工作区
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 允许用户访问Workspace {#allow-user-access-to-a-workspace}
+# 允许用户访问工作区 {#allow-user-access-to-a-workspace}
 
 工作区可以出于任何原因（如业务单位或地理位置分离）。 它们分隔了每个团队的资产（智能列表、程序等）。 以下是如何授予用户访问一个或多个工作区的权限。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >了解有关[工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)的更多信息。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 

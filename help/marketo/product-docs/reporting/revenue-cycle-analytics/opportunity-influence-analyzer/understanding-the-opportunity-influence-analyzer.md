@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718648
 description: 了解Opportunity Influence Analyzer — Marketo文档 — 产品文档
-title: 了解Opportunity Influence Analyzer
+title: 了解商机影响分析器
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 了解Opportunity Influence Analyzer {#understanding-the-opportunity-influence-analyzer}
+# 了解商机影响分析器 {#understanding-the-opportunity-influence-analyzer}
 
 每个机会都是一个故事。 你在哪里遇见领头人？ 在营销/销售过程中，哪些营销机会对他们产生了影响？
 

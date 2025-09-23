@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557339
 description: 查找并合并重复人员 — Marketo文档 — 产品文档
-title: 查找并合并重复的人员
+title: 查找并合并重复人员
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 查找并合并重复的人员 {#find-and-merge-duplicate-people}
+# 查找并合并重复人员 {#find-and-merge-duplicate-people}
 
 当新用户进入系统时，Marketo Engage会自动删除重复项。 但是，您的CRM最初可能通过重复项发送。 下面是如何将它们合并的。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 查找重复项 {#find-duplicates}
 
-1. 转到&#x200B;**[!UICONTROL Database]**&#x200B;区域。
+1. 进入 **[!UICONTROL Database]** 区域。
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 

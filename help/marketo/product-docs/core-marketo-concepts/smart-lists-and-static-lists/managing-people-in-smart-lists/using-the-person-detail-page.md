@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953415
 description: 使用人员详细信息页面 — Marketo文档 — 产品文档
-title: 使用人员详细信息页面
+title: 使用人员详情页
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 23%
+ht-degree: 26%
 
 ---
 
-# 使用人员详细信息页面 {#using-the-person-detail-page}
+# 使用人员详情页 {#using-the-person-detail-page}
 
 人员详细信息页面包含Marketo知道的有关人员的所有信息。 您可以直接从此页面编辑数据。
 
@@ -60,7 +60,7 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->您还可以看到通过API[插入的未与CRM同步的实例的Opportunity信息](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities)。
+>您还可以看到通过API[插入的未与CRM同步的实例的Opportunity信息](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)。
 
 ## 编辑字段 {#editing-a-field}
 
@@ -88,7 +88,7 @@ ht-degree: 23%
 | Marketo社交[!DNL Twitter]照片URL | Marketo社交[!DNL Twitter]配置文件URL | Marketo社交[!DNL Twitter]范围 | Marketo Social [!DNL Twitter]引用的注册 | Marketo Social [!DNL Twitter]反向访问 |
 | 中间名称 | 手机号码 | 员工数 | 电话号码 | 邮政编码 |
 | 优先级 | 相对分数 | 角色 | 称谓 | 标准产业分类(SIC)代码 |
-| 现场 | State | 退订 | 退订原因 | 更新时间 |
+| 现场 | State | 已取消订阅 | 退订原因 | 更新时间 |
 | 紧急 | 网站 |  |  |  |
 
 >[!NOTE]

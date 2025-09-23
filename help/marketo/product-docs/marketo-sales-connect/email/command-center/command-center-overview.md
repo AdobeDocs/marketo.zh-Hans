@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352530
 description: 命令中心概述 — Marketo文档 — 产品文档
-title: 命令中心概述
+title: 指挥中心概述
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '556'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 命令中心概述 {#command-center-overview}
+# 指挥中心概述 {#command-center-overview}
 
 “推荐中心”是一个单一、统一的视图，可帮助您确定下一步骤，同时确保没有任何内容能够被漏掉。
 

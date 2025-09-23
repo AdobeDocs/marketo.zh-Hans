@@ -1,33 +1,33 @@
 ---
 unique-page-id: 5472404
 description: 找到人员的活动日志 — Marketo文档 — 产品文档
-title: 查找人员的活动日志
+title: 定位人员的活动日志
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 15%
 
 ---
 
-# 查找人员的活动日志 {#locate-the-activity-log-for-a-person}
+# 定位人员的活动日志 {#locate-the-activity-log-for-a-person}
 
-活动日志是最终的真实来源。 这是一个人在Marketo Engage中的旅程的完整故事。
+活动日志是最终的真实来源。 这是一个人在Marketo Engage历程的完整故事。
 
-1. 转到&#x200B;**[!UICONTROL 数据库]**。
+1. 转到&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. 选择&#x200B;**[!UICONTROL 所有人员]**。
+1. 选择 **[!UICONTROL All People]**。
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡。 选择人员&#x200B;**[!UICONTROL Id]**&#x200B;编号。
+1. 单击 **[!UICONTROL People]** 选项卡。选择人员&#x200B;**[!UICONTROL Id]**&#x200B;编号。
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. 单击&#x200B;**[!UICONTROL 活动日志]**。
+1. 单击 **[!UICONTROL Activity Log]**。
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 

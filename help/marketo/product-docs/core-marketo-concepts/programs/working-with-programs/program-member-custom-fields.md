@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355569
 description: 项目群成员自定义字段 — Marketo文档 — 产品文档
-title: 项目群成员自定义字段
+title: 项目成员自定义字段
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 项目群成员自定义字段 {#program-member-custom-fields}
+# 项目成员自定义字段 {#program-member-custom-fields}
 
 程序成员自定义字段允许您收集每个成员的特定于程序的数据。 它们可用于：Marketo表单、智能列表过滤器和触发器，以及智能营销活动流操作。 可在项目群的“成员”选项卡中查看数据。
 
@@ -60,7 +60,7 @@ ht-degree: 1%
 
 ![](assets/six.png)
 
-## 注意事项 {#things-to-know}
+## 须知事项 {#things-to-know}
 
 * 项目群成员自定义字段仅在本地资产中可用。 Design Studio不支持这些功能，因为无法将它绑定到特定程序。
 * 不能将包含程序成员自定义字段的表单（或带有表单的登陆页面）克隆/移动到Design Studio。

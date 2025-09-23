@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951252
 description: 按最新或最佳性能对Web营销活动排序 — Marketo文档 — 产品文档
-title: 按Web营销活动最新或表现最佳进行排序
+title: 按最新或最佳表现排序 Web 营销活动
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-# 按Web营销活动最新或表现最佳进行排序 {#sort-web-campaigns-by-latest-or-top-performing}
+# 按最新或最佳表现排序 Web 营销活动 {#sort-web-campaigns-by-latest-or-top-performing}
 
 您可以通过几种不同的方式对Web营销活动进行排序。
 

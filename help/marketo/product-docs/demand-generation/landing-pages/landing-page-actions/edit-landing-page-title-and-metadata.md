@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359726
 description: 编辑登陆页面标题和元数据 — Marketo文档 — 产品文档
-title: 编辑登陆页面标题和元数据
+title: 编辑登录页面标题和元数据
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 编辑登陆页面标题和元数据 {#edit-landing-page-title-and-metadata}
+# 编辑登录页面标题和元数据 {#edit-landing-page-title-and-metadata}
 
 Marketo允许您编辑登陆页面[meta标签以进行SEO](https://www.w3schools.com/tags/tag_meta.asp)，以及自定义HTML的`<head>`部分。
 

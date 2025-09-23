@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147040
 description: 将点数提供给反向链接 — Marketo文档 — 产品文档
-title: 将点数提供给反向链接
+title: 将推荐信用归于推荐人
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 将点数提供给反向链接 {#give-credit-to-referrer}
+# 将推荐信用归于推荐人 {#give-credit-to-referrer}
 
 运行&#x200B;_反向链接选件_&#x200B;或&#x200B;_抽奖_&#x200B;时，您可以使用不同的方法将点数提供给反向链接：
 

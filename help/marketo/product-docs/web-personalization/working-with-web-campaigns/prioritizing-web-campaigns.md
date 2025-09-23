@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782266
 description: 优先处理Web营销活动 — Marketo文档 — 产品文档
-title: 优先处理Web营销活动
+title: 为 Web 营销活动设定优先级
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 优先处理Web营销活动 {#prioritizing-web-campaigns}
+# 为 Web 营销活动设定优先级 {#prioritizing-web-campaigns}
 
 当两个或更多Web营销活动重叠时，通过设置优先级得分来优先处理Web营销活动。
 

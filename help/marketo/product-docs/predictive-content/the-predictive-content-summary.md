@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384634
 description: 预测内容摘要 — Marketo文档 — 产品文档
-title: 预测内容摘要
+title: 预测性内容摘要
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 预测内容摘要 {#the-predictive-content-summary}
+# 预测性内容摘要 {#the-predictive-content-summary}
 
 “预测内容概要”以表格、图形和当前数字的形式显示您需要的有关预测内容的信息。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11370503
 description: 计划应用程序内消息 — Marketo文档 — 产品文档
-title: 计划应用程序内消息
+title: 计划您的应用程序内消息
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 计划应用程序内消息 {#schedule-your-in-app-message}
+# 计划您的应用程序内消息 {#schedule-your-in-app-message}
 
 立即发送消息或安排稍后发送。
 

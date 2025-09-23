@@ -1,16 +1,16 @@
 ---
 description: 电子邮件连接限制 — Marketo文档 — 产品文档
-title: 电子邮件连接限制
+title: 电子邮件连接节流
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 电子邮件连接限制 {#email-connection-throttling}
+# 电子邮件连接节流 {#email-connection-throttling}
 
 集成要通过[!DNL Sales Connect]或Gmail电子邮件提供商发送的[!DNL Exchange]帐户，可简化设置并优化1:1销售通信的电子邮件可投放性。 但是，为了保持系统健康和帐户安全，Gmail和Exchange会强制实施电子邮件发送限制。 这些限制可由提供商自行决定增加或减少。
 

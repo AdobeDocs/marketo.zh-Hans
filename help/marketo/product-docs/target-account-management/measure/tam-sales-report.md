@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385183
 description: TAM销售报表 — Marketo文档 — 产品文档
-title: TAM销售报表
+title: TAM 销售报告
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# TAM销售报表 {#tam-sales-report}
+# TAM 销售报告 {#tam-sales-report}
 
 每周收到一封电子邮件，其中包含您的热门帐户及其每周趋势。
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 <table>
  <tbody>
   <tr>
-   <td><strong><span class="uicontrol">帐户得分</span></strong></td>
+   <td><strong><span class="uicontrol">帐户评分</span></strong></td>
    <td>
     <div>
       按帐户得分显示的每周趋势（在设置中选择），然后是当前帐户得分
@@ -54,7 +54,7 @@ ht-degree: 1%
     </div></td>
   </tr>
   <tr>
-   <td><strong><span class="uicontrol">有趣的时刻</span></strong></td>
+   <td><strong><span class="uicontrol">关键时刻</span></strong></td>
    <td>
     <div>
       一周内发生的有趣时刻总数

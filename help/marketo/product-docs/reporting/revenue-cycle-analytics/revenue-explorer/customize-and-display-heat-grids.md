@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514224
 description: 自定义和显示热网格 — Marketo文档 — 产品文档
-title: 自定义和显示热网格
+title: 自定义并显示热力网格
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 自定义和显示热网格 {#customize-and-display-heat-grids}
+# 自定义并显示热力网格 {#customize-and-display-heat-grids}
 
 热网格以彩色网格直观地表示您的数据，以便您可以更轻松快速地识别好模式和坏模式。
 

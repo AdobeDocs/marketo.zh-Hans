@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719308
 description: 将现有Salesforce字段添加到Marketo同步 — Marketo文档 — 产品文档
-title: 将现有Salesforce字段添加到Marketo同步
+title: 将现有 Salesforce 字段添加到 Marketo 同步
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

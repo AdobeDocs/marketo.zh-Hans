@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385940
 description: 编辑富媒体的预测内容 — Marketo文档 — 产品文档
-title: 编辑富媒体的预测内容
+title: 编辑富媒体的预测性内容
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 编辑富媒体的预测内容 {#edit-predictive-content-for-rich-media}
+# 编辑富媒体的预测性内容 {#edit-predictive-content-for-rich-media}
 
 下面是如何为富媒体设置预测内容。
 

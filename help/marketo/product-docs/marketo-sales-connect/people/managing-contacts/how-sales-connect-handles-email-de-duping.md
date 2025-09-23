@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352514
 description: Sales Connect如何处理电子邮件重复数据消除 — Marketo文档 — 产品文档
-title: Sales Connect如何处理电子邮件重复数据消除
+title: Sales Connect 如何处理电子邮件重复数据删除
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

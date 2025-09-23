@@ -4,16 +4,16 @@ description: 删除表单 — Marketo文档 — 产品文档
 title: 删除表单
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # 删除表单 {#delete-a-form}
 
-如果您的表单不需要并且未被使用，则可以将其删除。 具体方法如下。
+如果您的表单不需要并且未被使用，则可以将其删除。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 

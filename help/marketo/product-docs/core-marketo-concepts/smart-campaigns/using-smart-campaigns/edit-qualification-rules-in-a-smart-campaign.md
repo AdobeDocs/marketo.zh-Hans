@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1146974
 description: 在Smart Campaign中编辑资格规则 — Marketo文档 — 产品文档
-title: 在智能营销活动中编辑资格规则
+title: 编辑智能营销活动中的资格规则
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 6%
 
 ---
 
-# 在智能营销活动中编辑资格规则 {#edit-qualification-rules-in-a-smart-campaign}
+# 编辑智能营销活动中的资格规则 {#edit-qualification-rules-in-a-smart-campaign}
 
 资格规则可控制某个人可在智能营销活动中流过的次数。 默认情况下，即使有人多次触发Smart Campaign，也只能通过流发送一次。 下面是如何修改这些设置的。
 
-1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 编辑设置]**。
+1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL Edit Settings]**。
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >您还可以单击“Smart Campaign设置”右侧的&#x200B;**[!UICONTROL 编辑]**。
+   >您还可以单击“Smart Campaign设置”右侧的&#x200B;**[!UICONTROL Edit]**。
 
-1. 选择通过Smart Campaign流程运行人员的频率：**[!UICONTROL 只运行一次]**、**[!UICONTROL 每次]**&#x200B;或&#x200B;**每隔#天**/**周**/**个月**。
+1. 选择通过Smart Campaign流程运行人员的频率： **[!UICONTROL only once]**、**[!UICONTROL every time]**&#x200B;或&#x200B;**每隔#天**/**周**/**个月**&#x200B;运行一次。
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 

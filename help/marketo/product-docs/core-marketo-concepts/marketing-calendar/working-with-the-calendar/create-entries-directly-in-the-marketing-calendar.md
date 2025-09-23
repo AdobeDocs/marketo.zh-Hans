@@ -1,30 +1,30 @@
 ---
 unique-page-id: 2953348
 description: 直接在营销日历中创建条目 — Marketo文档 — 产品文档
-title: 直接在营销日历中创建条目
+title: 在营销日程表中直接创建条目
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '118'
+ht-degree: 15%
 
 ---
 
-# 直接在营销日历中创建条目 {#create-entries-directly-in-the-marketing-calendar}
+# 在营销日程表中直接创建条目 {#create-entries-directly-in-the-marketing-calendar}
 
 Marketo允许您使用项目焦点模式，直接在营销日历中创建条目。 可以创建以下条目类型：
 
 * 基本条目
 * 自定义条目
-* 电子邮件程序
+* 电子邮件项目
 * 智能营销活动
 
-1. 单击&#x200B;**[!UICONTROL 日历]**&#x200B;拼贴。
+1. 单击&#x200B;**[!UICONTROL Calendar]**&#x200B;磁贴。
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. 选择上一个项目，然后单击&#x200B;**[!UICONTROL 显示项目焦点]**。
+1. 选择上一个条目并单击&#x200B;**[!UICONTROL Show Program Focus]**。
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 

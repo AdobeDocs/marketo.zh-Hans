@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950555
 description: 编辑Facebook富帖子设置 — Marketo文档 — 产品文档
-title: 编辑Facebook富帖子设置
+title: 编辑 Facebook 富文本帖设置
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo _社交应用程序_&#x200B;允许您的潜在客户与其在Facebook、
 
 您可以指定要在由共享从登陆页面生成的[!DNL Facebook]个丰富帖子中使用的页面信息类型。
 
-1. 在编辑器中为_&#x200B;**[!UICONTROL Facebook Message]**&#x200B;视频或社交按钮选择&#x200B;_[!DNL YouTube_]_。
+1. 在编辑器中为_**[!UICONTROL Facebook Message]**&#x200B;视频或社交按钮选择&#x200B;_[!DNL YouTube_]_。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

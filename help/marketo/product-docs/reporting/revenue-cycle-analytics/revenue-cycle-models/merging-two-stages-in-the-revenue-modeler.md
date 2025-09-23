@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718685
 description: 在“收入Modeler - Marketo文档 — 产品文档”中合并两个阶段
-title: 在收入Modeler中合并两个阶段
+title: 在收入建模器中合并两个阶段
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 在收入Modeler中合并两个阶段 {#merging-two-stages-in-the-revenue-modeler}
+# 在收入建模器中合并两个阶段 {#merging-two-stages-in-the-revenue-modeler}
 
 批准模型后，在编辑草稿时无法删除阶段。 相反，您可以将该阶段与另一个阶段合并。
 

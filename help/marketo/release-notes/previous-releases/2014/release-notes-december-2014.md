@@ -4,14 +4,14 @@ description: 发行说明 — 2014年12月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年12月
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2014年12月 {#release-notes-december}
+# 发行说明：2014 年 12 月 {#release-notes-december}
 
 2014年12月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细文章链接！
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## [!DNL Facebook]自定义受众 {#facebook-custom-audiences}
 
-一旦您的Marketo管理员通过[!UICONTROL Admin] > [!UICONTROL LaunchPoint][&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)添加了[!DNL Facebook] ，您就可以轻松地创建、更新或[使用Marketo静态或智能列表中的潜在客户替换 [!DNL Facebook] 自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任意静态或智能列表的商机网格底部查找新的[!DNL Facebook]图标。
+一旦您的Marketo管理员通过[[!DNL Facebook]  > [!UICONTROL Admin]添加了[!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)，您就可以轻松地创建、更新或[使用Marketo静态或智能列表中的潜在客户替换 [!DNL Facebook] 自定义受众](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任意静态或智能列表的商机网格底部查找新的[!DNL Facebook]图标。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ·合并潜在客户
 
-发布后，可在[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
+发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
 
 ## [!DNL Munchkin Javascript]兼容性增强 {#munchkin-javascript-compatibility-enhancements}
 

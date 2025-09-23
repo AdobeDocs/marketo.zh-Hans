@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146991
 description: 取消激活“触发器智能营销活动” | “计划”选项卡 — Marketo文档 — 产品文档
-title: 取消激活“触发器智能营销活动” | “计划”选项卡
+title: 停用触发型智能营销活动 | 计划选项卡
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 
-# 取消激活“触发器智能营销活动” | “计划”选项卡 {#deactivate-a-trigger-smart-campaign-schedule-tab}
+# 停用触发型智能营销活动 | 计划选项卡 {#deactivate-a-trigger-smart-campaign-schedule-tab}
 
 如果您有需要取消激活的旧触发器促销活动，请执行以下步骤：
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. 在“计划”选项卡下，单击&#x200B;**[!UICONTROL 停用]**。
+1. 在“计划”选项卡下，单击&#x200B;**[!UICONTROL Deactivate]**。
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 停用]**&#x200B;确认。
+1. 单击&#x200B;**[!UICONTROL Deactivate]**&#x200B;确认。
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 

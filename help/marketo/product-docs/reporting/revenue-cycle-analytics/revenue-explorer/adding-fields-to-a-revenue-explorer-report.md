@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504383
 description: 将字段添加到收入资源管理器报表 — Marketo文档 — 产品文档
-title: 将字段添加到收入资源管理器报表
+title: 向收入探索器报告添加字段
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 将字段添加到收入资源管理器报表 {#adding-fields-to-a-revenue-explorer-report}
+# 向收入探索器报告添加字段 {#adding-fields-to-a-revenue-explorer-report}
 
 通过将维度和量度字段拖放到画布中来自定义收入资源管理器报表。
 

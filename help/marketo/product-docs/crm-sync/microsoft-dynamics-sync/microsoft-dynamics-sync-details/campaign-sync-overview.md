@@ -1,16 +1,16 @@
 ---
 description: Campaign同步概述 — Marketo文档 — 产品文档
-title: Campaign同步概述
+title: Campaign Sync 概述
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Campaign同步概述 {#campaign-sync-overview}
+# Campaign Sync 概述 {#campaign-sync-overview}
 
 作为Campaign同步的一部分，用户可以设置自动化以对[!DNL Dynamics]营销活动的成员身份进行操作。 符合特定行为或人口统计条件的潜在客户可以成为Microsoft营销活动的一部分。
 

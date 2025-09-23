@@ -4,14 +4,14 @@ description: 冠军/挑战者 — 配置报表警报 — Marketo文档 — 产�
 title: 冠军/挑战者 — 配置报表警报
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 冠军/挑战者：Analytics {#champion-challenger-analytics}
+# 挑战者对比：分析 {#champion-challenger-analytics}
 
 接收报告警报和/或查看冠军/挑战者信息板，以获取有用的分析。
 

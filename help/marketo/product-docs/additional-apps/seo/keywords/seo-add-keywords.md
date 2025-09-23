@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949204
 description: SEO — 添加关键字 — Marketo文档 — 产品文档
-title: SEO — 添加关键字
+title: SEO - 添加关键词
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# SEO — 添加关键字 {#seo-add-keywords}
+# SEO - 添加关键词 {#seo-add-keywords}
 
 关键字是人员键入搜索引擎的短语。 添加与您的业务最相关的关键词。
 

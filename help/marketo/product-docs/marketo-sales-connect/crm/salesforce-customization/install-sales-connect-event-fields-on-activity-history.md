@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352475
 description: 在活动历史记录中安装Sales Connect事件字段 — Marketo文档 — 产品文档
-title: 在活动历史记录中安装Sales Connect事件字段
+title: 在活动历史记录中安装 Sales Connect 事件字段
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# 在活动历史记录中安装Sales Connect事件字段 {#install-sales-connect-event-fields-on-activity-history}
+# 在活动历史记录中安装 Sales Connect 事件字段 {#install-sales-connect-event-fields-on-activity-history}
 
 将Enterprise包安装到[!DNL Salesforce]中后，就可以将[!UICONTROL Sales Connect]事件字段安装到活动历史记录部分。 [!UICONTROL Sales Connect]事件字段包括查看次数、点击次数和促销活动数等信息。 这样，您就可以将电子邮件相关信息直接导入到[!DNL Salesforce]中。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949966
 description: 在表单中添加国家/地区选择列表 — Marketo文档 — 产品文档
-title: 在表单中添加国家/地区选择列表
+title: 向您的表单添加国家/地区选择列表
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 在表单中添加国家/地区选择列表 {#add-a-country-picklist-to-your-form}
+# 向您的表单添加国家/地区选择列表 {#add-a-country-picklist-to-your-form}
 
 按照这些说明将国家/地区字段转换为包含所有国家/地区列表的下拉列表。
 

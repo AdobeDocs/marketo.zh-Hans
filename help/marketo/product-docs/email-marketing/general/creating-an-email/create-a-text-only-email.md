@@ -4,10 +4,10 @@ description: 创建纯文本电子邮件 — Marketo文档 — 产品文档
 title: 创建纯文本电子邮件
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >由于打开次数由下载电子邮件图像（包括不可见的跟踪像素）的收件人跟踪，因此打开次数&#x200B;**无法**&#x200B;为纯文本电子邮件跟踪。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/one-1.png)
 
-1. 选择您的项目，单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL New Local Asset]**。
+1. 选择您的项目，点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL New Local Asset]**。
 
    ![](assets/two-1.png)
 

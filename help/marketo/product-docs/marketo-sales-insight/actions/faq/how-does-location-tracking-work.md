@@ -3,14 +3,14 @@ description: 位置跟踪如何工作 — Marketo文档 — 产品文档
 title: 位置跟踪的工作原理
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 位置跟踪的工作原理是什么？ {#how-does-location-tracking-work}
+# 位置跟踪是如何工作的？ {#how-does-location-tracking-work}
 
 如果我们误解了收件人的位置，下面提供了三种可能出现的情况：
 

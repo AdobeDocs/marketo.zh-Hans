@@ -1,16 +1,16 @@
 ---
 description: NL-YYYY-MM-Newsletter - Marketo文档 — 产品文档
-title: NL-YYYY-MM-Newsletter
+title: NL-YYYY-MM-新闻稿
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
-# NL-YYYY-MM-Newsletter {#nl-yyyy-mm-newsletter}
+# NL-YYYY-MM-新闻稿 {#nl-yyyy-mm-newsletter}
 
 此示例利用Marketo Engage电子邮件计划发送一封新闻稿电子邮件。 电子邮件可以包含或不包含A/B测试。
 
@@ -47,7 +47,7 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>01 — 电子邮件</td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ ht-degree: 5%
   </tr>
   <tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>01 — 参与（计划成功）</td>
   </tr>

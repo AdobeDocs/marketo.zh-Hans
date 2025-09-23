@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352602
 description: 我的动态字段未填写 — Marketo文档 — 产品文档
-title: 我的动态字段未填写
+title: 我的动态字段未填充
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 我的动态字段未填写 {#my-dynamic-fields-arent-filling-out}
+# 我的动态字段未填充 {#my-dynamic-fields-arent-filling-out}
 
 仅当使用模板时，动态字段才有效。 您编写的单次性电子邮件不会填写这些内容。
 

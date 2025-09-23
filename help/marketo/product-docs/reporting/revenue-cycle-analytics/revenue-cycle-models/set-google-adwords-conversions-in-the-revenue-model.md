@@ -4,10 +4,10 @@ description: 在收入模型中设置 [!DNL Google AdWords] 转化 — Marketo�
 title: 在收入模型中设置 [!DNL Google AdWords] 转化
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '409'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 使用[!DNL AdWords]转换 {#use-adwords-conversion}
 
-1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;区域。
+1. 进入 **[!UICONTROL Analytics]** 区域。
 
    ![](assets/image2015-2-23-18-3a9-3a34.png)
 

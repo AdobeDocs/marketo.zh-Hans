@@ -4,16 +4,16 @@ description: 删除表单中的字段 — Marketo文档 — 产品文档
 title: 删除表单中的字段
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 2%
+ht-degree: 23%
 
 ---
 
 # 删除表单中的字段 {#delete-a-field-in-a-form}
 
-如果表单上存在您不再需要的字段，则可以轻松删除该字段。 具体方法如下。
+如果表单上存在您不再需要的字段，则可以轻松删除该字段。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 

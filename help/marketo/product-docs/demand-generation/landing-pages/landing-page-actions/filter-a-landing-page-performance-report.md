@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359742
 description: 筛选登陆页面性能报表 — Marketo文档 — 产品文档
-title: 筛选登陆页面性能报表
+title: 筛选登录页面性能报告
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 筛选登陆页面性能报表 {#filter-a-landing-page-performance-report}
+# 筛选登录页面性能报告 {#filter-a-landing-page-performance-report}
 
 将[登陆页面性能报表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)集中到项目（本地资产）中的登陆页面、[!UICONTROL Design Studio]（全局资产）中的登陆页面或已存档的登陆页面。
 

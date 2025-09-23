@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949844
 description: 创建新的事件程序 — Marketo文档 — 产品文档
-title: 创建新的事件程序
+title: 创建新事件项目
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 创建新的事件程序 {#create-a-new-event-program}
+# 创建新事件项目 {#create-a-new-event-program}
 
 事件允许您自动执行在线和离线事件！ 捕获您的人员在不同阶段进展时的状态，并准确衡量您的营销计划的ROI。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. 为新项目选择文件夹。 选择&#x200B;**[!UICONTROL New]**&#x200B;并单击&#x200B;**[!UICONTROL New Program]**。
+1. 为新项目选择文件夹。 选择 **[!UICONTROL New]** 并点击 **[!UICONTROL New Program]**。
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 

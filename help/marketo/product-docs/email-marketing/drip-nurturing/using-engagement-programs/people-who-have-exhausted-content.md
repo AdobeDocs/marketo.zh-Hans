@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359953
 description: 内容已耗竭的人员 — Marketo文档 — 产品文档
-title: 已耗尽内容的人
+title: 已耗尽内容的人员
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 已耗尽内容的人 {#people-who-have-exhausted-content}
+# 已耗尽内容的人员 {#people-who-have-exhausted-content}
 
 当个人收到流中的每段内容时，它就会耗尽所有可能性，并等待空闲直到添加更多内容。 你可以在几个方面找到“精疲力竭”的人。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    这会向您显示已用完所有内容的人和未用完内容的人。
 
-## 串流 {#stream}
+## 流 {#stream}
 
 1. 您还可以在流本身的[!UICONTROL Streams]选项卡下看到已用完内容的总人数。
 

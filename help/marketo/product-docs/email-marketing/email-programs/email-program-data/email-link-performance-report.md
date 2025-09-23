@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359478
 description: 电子邮件链接性能报表 — Marketo文档 — 产品文档
-title: 电子邮件链接性能报表
+title: 电子邮件链接性能报告
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '217'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 电子邮件链接性能报表 {#email-link-performance-report}
+# 电子邮件链接性能报告 {#email-link-performance-report}
 
 创建电子邮件链接性能报表，以查看电子邮件中链接的表现如何。
 

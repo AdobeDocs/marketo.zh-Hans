@@ -4,7 +4,7 @@ description: 了解收件人时区 — Marketo文档 — 产品文档
 title: 了解收件人时区
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 3%
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!UICONTROL Recipient Time Zone]当前仅对电子邮件内容使用&#x200B;**2&rbrace;。**&#x200B;它不适用于默认参与计划。
+>[!UICONTROL Recipient Time Zone]当前仅对电子邮件内容使用&#x200B;**2}。**&#x200B;它不适用于默认参与计划。
 
 ## 电子邮件项目 {#email-programs}
 

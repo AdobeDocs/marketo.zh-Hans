@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147294
 description: 筛选营销日历 — Marketo文档 — 产品文档
-title: 筛选营销日历
+title: 筛选营销日程表
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
 
-# 筛选营销日历 {#filtering-the-marketing-calendar}
+# 筛选营销日程表 {#filtering-the-marketing-calendar}
 
 使用条目类型、程序标记或工作区过滤日历上显示的信息。
 
-1. 单击&#x200B;**[!UICONTROL 日历]**&#x200B;拼贴。
+1. 单击&#x200B;**[!UICONTROL Calendar]**&#x200B;磁贴。
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. 单击&#x200B;**[!UICONTROL 条目类型]**&#x200B;下拉列表。
+1. 单击&#x200B;**[!UICONTROL Entry Type]**&#x200B;下拉列表。
 
    >[!NOTE]
    >
-   >默认条目类型是&#x200B;**[!UICONTROL 电子邮件]** **[!UICONTROL 程序]**&#x200B;和带有电子邮件的智能营销活动&#x200B;**。**
+   >默认条目类型将为&#x200B;**[!UICONTROL Email]** **[!UICONTROL Programs]**&#x200B;和&#x200B;**[!UICONTROL Smart Campaigns with Email]**。
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 

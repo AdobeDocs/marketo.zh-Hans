@@ -4,14 +4,14 @@ description: 发行说明 — 2014年2月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年2月
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '336'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2014年2月 {#release-notes-february}
+# 发行说明：2014 年 2 月 {#release-notes-february}
 
 2014年2月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细知识库文章的链接！
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 [将电子邮件量度导出到 [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)，包括AB测试变体数据。
 
-## [!UICONTROL Engagement Stream Performance]报告中的[!UICONTROL Engagement Score] {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Score]报告中的[!UICONTROL Engagement Stream Performance] {#engagement-score-in-engagement-stream-performance-report}
 
 我们已将参与度分数添加到[[!UICONTROL Engagement Stream Performance]报表](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)中，以帮助您了解参与计划中的内容的效果。
 

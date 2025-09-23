@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953331
 description: 在项目计划视图中重新运行Smart Campaign - Marketo文档 — 产品文档
-title: 在项目计划视图中重新运行Smart Campaign
+title: 在项目计划视图中重新运行智能营销活动
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 13%
 
 ---
 
-# 在项目计划视图中重新运行Smart Campaign {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# 在项目计划视图中重新运行智能营销活动 {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 您可以直接从项目计划视图轻松创建现有Smart Campaign的新运行。
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 

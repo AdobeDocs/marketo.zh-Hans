@@ -1,12 +1,12 @@
 ---
 description: 与Salesforce同步取消订阅 — Marketo文档 — 产品文档
-title: 正在与Salesforce同步取消订阅
+title: 将取消订阅与 Salesforce 同步
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 1%
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Integrations]**&#x200B;选项卡。 在[!UICONTROL Sync to Salesforce]下，启用夜间同步。
+1. 单击 **[!UICONTROL Integrations]** 选项卡。在[!UICONTROL Sync to Salesforce]下，启用夜间同步。
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 

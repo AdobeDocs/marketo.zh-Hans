@@ -3,24 +3,24 @@ description: 发行说明 — 2024年1月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 1 月
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 2%
+ht-degree: 15%
 
 ---
 
-# 发行说明： 2024年1月 {#release-notes-jan-24}
+# 发行说明：2024 年 1 月 {#release-notes-jan-24}
 
-在下方，您会找到2024年1月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2024年1月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 >[!AVAILABILITY]
 >
->以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
 
-## 标准发行周期功能 {#standard-release-cycle-features}
+## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2024年1月12日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
+以下功能属于标准发行周期，将于&#x200B;**2024年1月12日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,7 +31,7 @@ ht-degree: 2%
   </tr>
     <tr>
    <td><strong>交互式网络研讨会的点播网络研讨会</strong>：点播网络研讨会允许您发布网络研讨会录制并跟踪其访问/观看次数。 这有助于您通过未参加网络研讨会（不作秀）但仍想了解更多详情和观看录制的注册者获得更多机会。</td>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">按需网络研讨会</a></td>
   </tr>
    <tr>
@@ -51,8 +51,8 @@ ht-degree: 2%
   </tr>
     <tr>
    <td><strong>筛选电子邮件机器人活动</strong>：通过允许您选择希望机器人活动识别筛选的积极程度，改进捕获电子邮件参与度的机器人活动。</td>
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">筛选电子邮件机器人活动</a></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">过滤电子邮件机器人活动</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -61,7 +61,7 @@ ht-degree: 2%
    </tr>
     <tr>
    <td><strong>批量潜在客户导入API更新</strong>：在创建作业期间将<b>id</b>指定为<b>lookupField</b>时，已对批量潜在客户导入API的行为进行了细微调整。 如果在Marketo Engage数据库中未找到链接到所提供的<b>id</b>的人员记录，则不会进行记录更新，因为无法找到该记录。 更新后的行为现在包括增加响应中<b>numOfRowsFailed</b>属性的计数，表示在此类情况下操作失败。</td>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ ht-degree: 2%
    </tr>
   <tr>
    <td><strong>交互式网络研讨会的联合主持人</strong>：交互式网络研讨会的“网络研讨会团队”部分中的联合主持人允许事件创建者向交互式网络研讨会程序添加内部或外部用户，以共享管理和交付责任。</td>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">添加网络研讨会团队</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ ht-degree: 2%
   </tr>
     <tr>
    <td><strong>在交互式网络研讨会中删除用户</strong>：Marketo Engage管理员现在可以在交互式网络研讨会中删除特定用户。</td>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
  </tbody>
@@ -90,7 +90,7 @@ ht-degree: 2%
 
 ## Agile版本功能 {#agile-release-features}
 
-以下所有功能都遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请检查每个功能旁边的状态信息。
+以下所有功能都遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请查看每个功能旁的状态标记。
 
 ### 销售Insight操作 {#sales-insight-actions}
 
@@ -160,7 +160,7 @@ ht-degree: 2%
     </tr>
     <tr>
    <td><strong>手动实时聊天终止</strong>：访客和座席现在都可以手动终止实时聊天会话。</td>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">代理收件箱</a></td>
   </tr>
   <tr>

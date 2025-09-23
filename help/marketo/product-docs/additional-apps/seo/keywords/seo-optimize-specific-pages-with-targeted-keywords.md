@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949212
 description: SEO — 使用目标关键词优化特定页面 — Marketo文档 — 产品文档
-title: SEO — 使用目标关键词优化特定页面
+title: SEO - 使用目标关键词优化特定页面
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 13%
 
 ---
 
-# SEO — 使用目标关键词优化特定页面 {#seo-optimize-specific-pages-with-targeted-keywords}
+# SEO - 使用目标关键词优化特定页面 {#seo-optimize-specific-pages-with-targeted-keywords}
 
 某些关键字非常适用于某些页面。 这就是如何将perfect关键字与其完美页面进行匹配的方法。 这将提供最准确的数据和最佳的改进建议。
 
-1. 转到&#x200B;**[!UICONTROL 页面]**&#x200B;部分。
+1. 转到&#x200B;**[!UICONTROL Pages]**&#x200B;部分。
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. 选择您尝试优化页面的关键词。 单击&#x200B;**[!UICONTROL 更新]**。
+1. 选择您尝试优化页面的关键词。 单击 **[!UICONTROL Update]**。
 
    >[!TIP]
    >

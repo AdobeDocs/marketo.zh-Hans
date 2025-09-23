@@ -4,10 +4,10 @@ description: 了解项目中的我的令牌 — Marketo文档 — 产品文档
 title: 了解项目中的我的令牌
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -46,7 +46,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>电子邮件脚本 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>使用此令牌可在您的电子邮件中执行Velocity脚本。 在<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting" title="关注链接" rel="nofollow">此处</a>了解详情。 </td>
+   <td>使用此令牌可在您的电子邮件中执行Velocity脚本。 在<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="关注链接" rel="nofollow">此处</a>了解详情。 </td>
   </tr>
   <tr>
    <td>数字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352484
 description: 如何修复连接到Salesforce时“我们无法验证您的请求” — Marketo文档 — 产品文档
-title: 如何修复连接到Salesforce时“我们无法验证您的请求”的问题
+title: 如何修复连接到 Salesforce 时出现的“无法验证您的请求”错误
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 3%
+ht-degree: 12%
 
 ---
 

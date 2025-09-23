@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360389
 description: 在Revenue Explorer和Analysers - Marketo文档 — 产品文档中提供无期间成本的计划
-title: 使无期间成本的程序在收入浏览器和分析器中可用
+title: 在收入探索器和分析器中启用无周期成本的项目
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 使无期间成本的程序在收入浏览器和分析器中可用 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# 在收入探索器和分析器中启用无周期成本的项目 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
 计划期间成本允许您为计划定义“多少钱”和“何时”。 这显示在收入周期资源管理器和[分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)中。
 

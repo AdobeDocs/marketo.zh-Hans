@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900563
 description: 创建日历事件(.ics)文件 — Marketo文档 — 产品文档
-title: 创建日历事件(.ics)文件
+title: 创建日程表事件（.ics）文件
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 创建日历事件(.ics)文件 {#create-a-calendar-event-ics-file}
+# 创建日程表事件（.ics）文件 {#create-a-calendar-event-ics-file}
 
 日历文件令牌允许您向Marketo电子邮件和登陆页添加日历事件(.ics)链接。
 

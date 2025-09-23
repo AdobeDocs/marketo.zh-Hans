@@ -3,10 +3,10 @@ unique-page-id: 14352613
 description: 将人员添加到您的活动 — Marketo文档 — 产品文档
 title: 将人员添加到您的营销活动
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 只需回复他们的电子邮件，然后从我们的插件中选择一个Campaign。
 
-## 从营销活动中删除人员 {#remove-people-from-a-campaign}
+## 从营销活动中移除人员 {#remove-people-from-a-campaign}
 
 您可以在收件人回复时自动结束营销活动。 此外，您可以选择将该促销活动标记为“成功”。
 

@@ -4,10 +4,10 @@ description: 人员页面列 — Marketo文档 — 产品文档
 title: 人员页面列
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 

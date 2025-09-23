@@ -1,16 +1,16 @@
 ---
 description: 事务性销售电子邮件模板 — Marketo文档 — 产品文档
-title: 事务性销售电子邮件模板
+title: 交易型销售电子邮件模板
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 事务性销售电子邮件模板 {#transactional-sales-email-templates}
+# 交易型销售电子邮件模板 {#transactional-sales-email-templates}
 
 如果您的团队发送事务性或非商业性电子邮件，您可以将电子邮件模板标记为非商业性，这样它就可以绕过取消订阅。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360407
 description: 构建电子邮件分析报告，其中列出潜在客户 — Marketo文档 — 产品文档
-title: 构建列出潜在客户的电子邮件分析报告
+title: 生成列出潜在客户的电子邮件分析报告
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 构建列出潜在客户的电子邮件分析报告 {#build-an-email-analysis-report-that-lists-leads}
+# 生成列出潜在客户的电子邮件分析报告 {#build-an-email-analysis-report-that-lists-leads}
 
 按照以下步骤创建电子邮件分析报告，该报告将显示已发送特定电子邮件的每个潜在客户，此报表还将包括“单击”和“打开”统计信息。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. 选择&#x200B;**[!UICONTROL Email Analysis]**&#x200B;并单击&#x200B;**[!UICONTROL OK]**。
+1. 选择 **[!UICONTROL Email Analysis]** 并点击 **[!UICONTROL OK]**。
 
    ![](assets/report-that-lists-leads-3.png)
 

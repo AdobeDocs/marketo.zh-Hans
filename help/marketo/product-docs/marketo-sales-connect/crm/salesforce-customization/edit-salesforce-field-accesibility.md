@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352472
 description: 编辑Salesforce字段辅助功能 — Marketo文档 — 产品文档
-title: 编辑Salesforce字段辅助功能
+title: 编辑 Salesforce 字段可访问性
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 编辑Salesforce字段辅助功能 {#edit-salesforce-field-accesibility}
+# 编辑 Salesforce 字段可访问性 {#edit-salesforce-field-accesibility}
 
 如果您未看到发往[!DNL Salesforce]的电子邮件活动日志，可能是由于您团队的字段可访问性受到限制所致。
 

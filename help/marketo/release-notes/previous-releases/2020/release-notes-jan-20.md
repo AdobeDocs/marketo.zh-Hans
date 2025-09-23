@@ -4,10 +4,10 @@ description: 发行说明 — 2020年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2020年1月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 0%
+source-wordcount: '792'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->以星号(![（星号）](assets/yellow-star.png))表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>以星号(![（星号）](assets/yellow-star.png))表示的功能是付费加载项。 请联系您的 Marketo Engage 代表了解更多信息。
 
 **_季度发布_**
 
@@ -57,12 +57,12 @@ ht-degree: 0%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [图像编辑](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=zh-Hans#design-studio)：无需离开Adobe即可访问Marketo Engage的编辑功能。 这项新功能允许您轻松地直接在[!UICONTROL Design Studio]中增强、裁切文本并将其添加到图像。
+* [图像编辑](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：无需离开Adobe即可访问Marketo Engage的编辑功能。 这项新功能允许您轻松地直接在[!UICONTROL Design Studio]中增强、裁切文本并将其添加到图像。
 
 ## [!DNL Sales Insight] {#sales-insight}
 
 * **[!DNL Salesforce Lightning]批量操作**：提高销售效率并使购买者能够持续参与，从而向营销活动添加最多200个联系人/潜在客户，并批量向他们发送带有[!DNL Salesforce Lightning]的Marketo Engage电子邮件。
-* **针对[!DNL Salesforce1]**&#x200B;的移动支持：您现在可以在[!DNL Salesforce1]应用程序中移动访问所有[!DNL Sales Insight]功能，如“有趣的时刻”和“Web活动和电子邮件”。
+* **针对[!DNL Salesforce1]**&#x200B;的移动支持：您现在可以在[!DNL Sales Insight]应用程序中移动访问所有[!DNL Salesforce1]功能，如“有趣的时刻”和“Web活动和电子邮件”。
 * **UI增强**：更新了界面，增强了可读性，并提供了与我们[!DNL Marketo Sky]体验一致的设计。
 
 ## [!DNL Sales Connect] {#sales-connect}
@@ -76,4 +76,4 @@ ht-degree: 0%
 >
 >* **ITP 2.1+ [!DNL Munchkin]更新**：由于对[!DNL Safari]的Cookie策略进行了更改，[!DNL Munchkin]在同一域上跨会话跟踪用户的能力将被ITP限制为1天或7天，具体取决于访客使用的浏览器和浏览器版本。 为此，我们正在实施一项新的Web服务，以允许通过HTTP响应使用Set-Cookie标头设置Munchkin Cookie。 有关如何实施此新服务的详细信息，可在[此处](https://nation.marketo.com/docs/DOC-7351)找到。
 
-**_产品发布网络研讨会_** [与我们](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)一起参加我们于3月3日太平洋时间上午11:00/下午2:00举行的实时网络研讨会，该研讨会由我们的产品团队主持，详细了解此版本中包含的功能。
+**_产品发布网络研讨会_** [于3月3日（太平洋时间11](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) / 2:00AM ET）加入我们:00PM，参加我们产品团队举办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。

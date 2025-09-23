@@ -3,24 +3,24 @@ description: 发行说明 — 2022年10月 — Marketo文档 — 产品文档
 title: 发行说明 - 2022 年 10 月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 6%
+ht-degree: 18%
 
 ---
 
-# 发行说明： 2022年10月 {#release-notes-oct-22}
+# 发行说明：2022 年 10 月 {#release-notes-oct-22}
 
-在下方，您会找到2022年10月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2022年10月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 >[!AVAILABILITY]
 >
->以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
 
-## 标准发行周期功能 {#standard-release-cycle-features}
+## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2022年10月14日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能下方的状态。
+以下功能属于标准发行周期，将于&#x200B;**2022年10月14日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请检查每个功能下方的状态。
 
 ### 营销数据环境 {#marketing-data-environment}
 
@@ -34,8 +34,8 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">程序成员自定义字段同步</a></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">项目成员自定义字段同步</a></td>
   </tr>
   </tbody>
 </table>
@@ -48,7 +48,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -60,7 +60,7 @@ ht-degree: 6%
 
 * **更新了新一代体验中的Screens**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
 
-   * 登陆页面模板详细信息
+   * 登录页面模板详情
    * 电子邮件模板列表
 
 <table>
@@ -69,7 +69,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切换开关</a></td>
   </tr>
   </tbody>
@@ -83,7 +83,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
   </tbody>
@@ -97,7 +97,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
   </tbody>
@@ -115,7 +115,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">批量商机导入</a></td>
   </tr>
   </tbody>
@@ -135,8 +135,8 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat集成</a></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat 集成</a></td>
   </tr>
   </tbody>
 </table>
@@ -153,7 +153,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">流式传输Designer图标</a></td>
   </tr>
   </tbody>
@@ -167,7 +167,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">日程表</a></td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
   </tbody>

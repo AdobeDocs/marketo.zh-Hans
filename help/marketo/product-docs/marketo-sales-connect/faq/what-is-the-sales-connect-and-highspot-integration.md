@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352553
-description: 什么是Sales Connect和Highspot集成？ - Marketo文档 — 产品文档
-title: 什么是Sales Connect和Highspot集成？
+description: 什么是Sales Connect和Highspot集成？ - Marketo 文档 - 产品文档
+title: Sales Connect 与 Highspot 的集成是什么？
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 

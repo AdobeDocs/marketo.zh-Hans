@@ -1,36 +1,36 @@
 ---
 unique-page-id: 557316
 description: 定义智能列表过滤器 — Marketo文档 — 产品文档
-title: 定义智能列表筛选器
+title: 定义智能列表过滤器
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '178'
+ht-degree: 5%
 
 ---
 
-# 定义智能列表筛选器 {#define-smart-list-filters}
+# 定义智能列表过滤器 {#define-smart-list-filters}
 
 >[!PREREQUISITES]
 >
 >* [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [查找筛选器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-现在您已[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}并在其中添加了[筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}，接下来让我们定义筛选器。 具体方法如下。
+现在您已[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}并在其中添加了[筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}，接下来让我们定义筛选器。 操作方法如下：
 
 继续我们的示例，让我们定义这些过滤器以查找得分超过50分的加利福尼亚州所有人员。
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/define-smart-list-filters-1.png)
 
-1. 选择所需的智能列表，然后单击&#x200B;**[!UICONTROL 智能列表]**&#x200B;选项卡。
+1. 选择所需的智能列表，然后单击&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡。
 
    ![](assets/define-smart-list-filters-2.png)
 
-1. 为&#x200B;**[!UICONTROL 状态]**&#x200B;筛选器查找并选择“CA”。
+1. 为&#x200B;**[!UICONTROL State]**&#x200B;筛选器查找并选择“CA”。
 
    ![](assets/define-smart-list-filters-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
    >
    >您可能同时存储了“加利福尼亚”和“CA”。 为了筛选这两个值并包括加利福尼亚的&#x200B;_所有_&#x200B;人员，了解如何[将多个值添加到智能列表筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"}。
 
-1. 选择&#x200B;**[!UICONTROL 大于]**&#x200B;运算符并输入“50”。
+1. 选择&#x200B;**[!UICONTROL greater than]**&#x200B;运算符并输入“50”。
 
    ![](assets/define-smart-list-filters-4.png)
 

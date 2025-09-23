@@ -4,10 +4,10 @@ title: 使用对话式流量登陆页面
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '226'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >创建仅包含[会议预订](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)卡片的简单&#x200B;**对话流**。
 
-## 引导式登陆页面 {#guided-landing-pages}
+## 引导式登录页面 {#guided-landing-pages}
 
 在引导式登陆页面模板中嵌入以下代码： `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 单击对话流量下拉列表，然后选择在步骤1中创建的CF。
 
-始终将投放类型保持为&#x200B;**In-line**。 单击&#x200B;**插入**。
+始终将投放类型保持为&#x200B;**In-line**。 点击&#x200B;**插入**。
 
 您刚刚输入的对话流将在右侧显示为元素。
 

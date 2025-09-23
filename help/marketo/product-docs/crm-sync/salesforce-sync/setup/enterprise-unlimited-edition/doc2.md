@@ -4,14 +4,14 @@ title: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterprise/Unli
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 1%
+source-wordcount: '421'
+ht-degree: 4%
 
 ---
 
-# 第2步（共3步）：为Marketo创建Salesforce用户(Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# 第 2 步（共 3 步）：为 Marketo 创建 Salesforce 用户（企业版/无限制版） {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 ## 创建配置文件 {#create-a-profile}
 
-1. 单击&#x200B;**[!UICONTROL 设置]**。
+1. 单击 **[!UICONTROL Setup]**。
 
    屏幕快照
 
@@ -70,7 +70,7 @@ ht-degree: 1%
    * 营销活动
    * 联系人
    * 潜在客户
-   * 机会
+   * 商机
 
    >[!NOTE]
    >

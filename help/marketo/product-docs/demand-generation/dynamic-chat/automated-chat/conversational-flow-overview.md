@@ -1,16 +1,16 @@
 ---
 description: 对话流概述 — Marketo文档 — 产品文档
-title: 对话流概述
+title: 会话流概述
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 对话流概述 {#conversational-flow-overview}
+# 会话流概述 {#conversational-flow-overview}
 
 设计对话流，并根据特定操作(例如，单击call-to-action按钮、页面加载时、页面逗留时间等)将其触发给任何访客。
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ![](assets/conversational-flow-overview-4.png)
 
-## “设置”选项卡 {#settings-tab}
+## 设置选项卡 {#settings-tab}
 
 ![](assets/conversational-flow-overview-5.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->查看[对话SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=zh-Hans){target="_blank"}正在执行中！
+>查看[对话SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}正在执行中！
 
 >[!MORELIKETHIS]
 >

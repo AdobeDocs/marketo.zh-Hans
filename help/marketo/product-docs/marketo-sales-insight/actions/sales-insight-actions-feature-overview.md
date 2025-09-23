@@ -1,16 +1,16 @@
 ---
 description: 销售Insight操作功能概述 — Marketo文档 — 产品文档
-title: Sales Insight Actions功能概述
+title: Sales Insight Actions 功能概述
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1305'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Sales Insight Actions功能概述 {#msi-actions-feature-overview}
+# Sales Insight Actions 功能概述 {#msi-actions-feature-overview}
 
 使用Sales Insight Actions在单个工作流程中，通过营销支持的智能和参与工具加快发现潜在客户的工作。
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >Marketo Sales Insight Actions是一个基于Web的应用程序，它通过[Salesforce Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}专门与Marketo CRM集成。 它有时称为“Marketo Sales”，或简称为“Actions”。
 
-有关销售Insight操作的视频概述，[单击此处](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=zh-Hans){target="_blank"}。
+有关销售Insight操作的视频概述，[单击此处](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

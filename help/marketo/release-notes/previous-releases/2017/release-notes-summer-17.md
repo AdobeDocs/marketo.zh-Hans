@@ -4,14 +4,14 @@ description: 发行说明 — 2017年夏天 — Marketo文档 — 产品文档
 title: 发行说明 — 2017年夏天
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2017年夏天 {#release-notes-summer}
+# 发行说明：2017 年夏季 {#release-notes-summer}
 
 2017年夏季版本中包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 * 显示营销活动（屏幕周围的任意位置）
 * 将展开/最小化箭头更改为任何CTA文本
 
-## 内容人工智能 {#contentai}
+## ContentAI {#contentai}
 
 **[ContentAI分析和建议](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 

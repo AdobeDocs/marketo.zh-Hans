@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360317
 description: 将人员分区分配给工作区 — Marketo文档 — 产品文档
-title: 将人员分区分配给工作区
+title: 将人员分区分配到工作区
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
-# 将人员分区分配给工作区 {#assign-person-partitions-to-workspaces}
+# 将人员分区分配到工作区 {#assign-person-partitions-to-workspaces}
 
 以下是如何编辑人员分区/工作区分配：
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 >
 >工作区和人员分区可能比较复杂。 请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}以获取设置帮助。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 

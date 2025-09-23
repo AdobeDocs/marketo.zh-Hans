@@ -3,14 +3,14 @@ unique-page-id: 13795395
 description: 发行说明 — 2018年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2018年冬季
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 发行说明： 2018年冬季 {#release-notes-winter}
+# 发行说明：2018 年冬季 {#release-notes-winter}
 
 ’18年冬季版本包括以下功能。 检查您的Marketo版本以了解功能可用性。
 
@@ -68,7 +68,7 @@ Marketo正在利用我们的大数据架构提高触发活动吞吐量和改进W
 
 现在，我们新的[!DNL LinkedIn] API允许您跨多个[!DNL LinkedIn] Campaign Manager帐户重新定位Marketo数据库中的人员。
 
-## Web Personalization {#web-personalization}
+## Web 个性化 {#web-personalization}
 
 适用于Web Personalization的&#x200B;**日语数据Source**
 
@@ -78,7 +78,7 @@ Marketo正在为Web Personalization添加另一个日本数据源，以改进来
 
 Web Personalization现在可以为已知的Web访客个性化内容，该访客属于营销活动(MLM)中定义的静态列表。 借助此增强功能，您现在可以跨渠道向静态列表进行营销，并通过网站上的个性化内容定位这些列表上的人员。
 
-## 内容人工智能 {#contentai}
+## ContentAI {#contentai}
 
 **预测算法改进**
 
@@ -94,7 +94,7 @@ Web Personalization现在可以为已知的Web访客个性化内容，该访客�
 
 **取消订阅更新**
 
-从2018年3月1日开始，从[ToutApp.com](https://ToutApp.com)（并使用[!DNL Salesforce]中的“带有[!DNL Tout]的电子邮件”按钮）发送的所有电子邮件都将有一个取消订阅链接附加到底部。
+从2018年3月1日开始，从[ToutApp.com](https://ToutApp.com)（并使用[!DNL Tout]中的“带有[!DNL Salesforce]的电子邮件”按钮）发送的所有电子邮件都将有一个取消订阅链接附加到底部。
 
 **实时信息源更新**
 

@@ -4,10 +4,10 @@ description: 删除流程步骤 — Marketo文档 — 产品文档
 title: 删除流程步骤
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '367'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    1. **已在没有等待步骤的情况下运行**。由于活动在运行之后处于休眠状态，因此不会有任何人员受到影响。
    1. **当前正在运行**。 根据删除的时间和详细信息，更改可能会导致意外行为。 我们强烈建议不要编辑正在运行的批处理营销活动。 对于紧急情况，了解如何[中止正在运行的Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}。
 
-   1. **已运行，等待步骤。**&#x200B;有关此页面的多个详细信息。
+   1. **已运行，等待步骤。**有关此页面的多个详细信息。
 当人员进入等待步骤时，人员会记下持续时间以及要返回的NUMBER STEP。 请参阅以下示例。
 
    **触发智能营销活动**

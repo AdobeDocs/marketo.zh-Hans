@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147328
 description: 电子邮件中的硬退信和软退信 — Marketo文档 — 产品文档
-title: 电子邮件中的硬退信和软退信
+title: 电子邮件中的硬退回和软退回
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 电子邮件中的硬退信和软退信 {#hard-and-soft-bounces-in-email}
+# 电子邮件中的硬退回和软退回 {#hard-and-soft-bounces-in-email}
 
-当邮件服务器通知Marketo无法传递某人的电子邮件时，硬退回可能会导致该人的电子邮件地址无效。 软退回意味着将电子邮件交付给人员时出现问题；此问题会自动解决，有时可能需要几天。 硬退信和软退信都由[多个类别](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)组成。
+硬退回是在邮件服务器告知 Marketo 无法投递电子邮件时，将人员电子邮件地址视为无效。软退回意味着将电子邮件交付给人员时出现问题；此问题会自动解决，有时可能需要几天。 硬退回和软退回都包含[多个类别](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)。
 
 ## 退回分类 {#bounce-classification}
 

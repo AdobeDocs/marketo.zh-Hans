@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949228
 description: SEO — 获取入站链接建议 — Marketo文档 — 产品文档
-title: SEO — 获取入站链接建议
+title: SEO - 获取入站链接建议
 exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 4%
+ht-degree: 18%
 
 ---
 
-# SEO — 获取入站链接建议 {#seo-get-inbound-link-suggestions}
+# SEO - 获取入站链接建议 {#seo-get-inbound-link-suggestions}
 
 Marketo可以建议哪些入站链接对您的[分页优化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)很有价值。
 

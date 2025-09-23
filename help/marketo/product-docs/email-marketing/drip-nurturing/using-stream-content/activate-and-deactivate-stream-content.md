@@ -4,10 +4,10 @@ description: 激活和停用流内容 — Marketo文档 — 产品文档
 title: 激活和停用流内容
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 

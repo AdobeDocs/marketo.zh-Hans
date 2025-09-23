@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13795734
 description: 创建层级 — Marketo文档 — 产品文档
-title: 创建层次结构
+title: 创建层级
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 创建层次结构 {#create-a-hierarchy}
+# 创建层级 {#create-a-hierarchy}
 
 层级旨在在CRM中创建。 但是，如果您没有CRM，请按照以下步骤手动创建层次结构。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Named Account Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Link to Named Account]**。
+1. 点击 **[!UICONTROL Named Account Actions]** 下拉菜单，并选择 **[!UICONTROL Link to Named Account]**。
 
    ![](assets/create-a-hierarchy-3.png)
 

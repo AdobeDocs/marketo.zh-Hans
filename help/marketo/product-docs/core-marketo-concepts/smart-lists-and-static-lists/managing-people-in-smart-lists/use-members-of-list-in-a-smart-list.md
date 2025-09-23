@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2953173
 description: 在智能列表中使用列表的成员 — Marketo文档 — 产品文档
-title: 在智能列表中使用列表的成员
+title: 在智能列表中使用列表成员
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 13%
 
 ---
 
-# 在智能列表中使用列表的成员 {#use-members-of-list-in-a-smart-list}
+# 在智能列表中使用列表成员 {#use-members-of-list-in-a-smart-list}
 
 >[!TIP]
 >
 >您可以使用[导入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)或[添加到列表流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}将人员添加到列表。
 
-使用此筛选器，您可以通过在“智能列表”规则中引用该筛选器，从其他列表中提取成员。 具体方法如下。
+使用此筛选器，您可以通过在“智能列表”规则中引用该筛选器，从其他列表中提取成员。 操作方法如下：
 
-1. 选择一个智能列表，然后单击&#x200B;**[!UICONTROL 智能列表]**&#x200B;选项卡。
+1. 选择一个智能列表，然后单击&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡。
 
    ![](assets/smartlist-sltab.png)
 
-1. 在右侧筛选器面板上，搜索并将&#x200B;**[!UICONTROL Member of List]**&#x200B;筛选器拖到画布上。
+1. 在右侧筛选器面板上，搜索&#x200B;**[!UICONTROL Member of List]**&#x200B;筛选器并将其拖动到画布上。
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352510
 description: 推荐模板 — Marketo文档 — 产品文档
-title: 推荐的模板
+title: 推荐模板
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 推荐的模板 {#recommended-templates}
+# 推荐模板 {#recommended-templates}
 
 [!DNL Sales Connect]的推荐模板可帮助您获得正确的消息传递，同时节省您的时间。 这样可在发送电子邮件时为您提供更大的流量，并减少在尝试为合适的人员查找合适的电子邮件时出现的不确定性。
 

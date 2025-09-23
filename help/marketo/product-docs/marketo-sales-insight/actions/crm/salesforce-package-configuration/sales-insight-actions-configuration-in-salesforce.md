@@ -1,11 +1,11 @@
 ---
 description: Salesforce中的销售Insight操作配置 — Marketo文档 — 产品文档
-title: Salesforce中的Sales Insight Actions配置
+title: 在 Salesforce 中配置 Sales Insight Actions
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

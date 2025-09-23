@@ -4,14 +4,14 @@ description: 发行说明 — 2013年3月 — Marketo文档 — 产品文档
 title: 发行说明 - 2013 年 3 月
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 发行说明： 2013年3月 {#release-notes-march}
+# 发行说明：2013 年 3 月 {#release-notes-march}
 
 3月版本中包含以下功能。
 

@@ -4,14 +4,14 @@ description: 发行说明 — 2012年5月 — Marketo文档 — 产品文档
 title: 发行说明 — 2012年5月
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '638'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# 发行说明： 2012年5月 {#release-notes-may}
+# 发行说明：2012 年 5 月 {#release-notes-may}
 
 ## 电子邮件性能报表重新设计 {#email-performance-report-redesign}
 

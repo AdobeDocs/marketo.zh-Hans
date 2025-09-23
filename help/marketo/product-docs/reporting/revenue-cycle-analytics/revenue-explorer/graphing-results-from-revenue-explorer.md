@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095084
 description: 从Revenue Explorer绘制结果 — Marketo文档 — 产品文档
-title: 从收入资源管理器绘制结果图表
+title: 将收入探索器的结果生成图表
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

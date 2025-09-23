@@ -3,7 +3,7 @@ description: 发行说明 — 2025年3月 — Marketo文档 — 产品文档
 title: 发行说明 - 2025 年 3 月
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 25%
@@ -44,7 +44,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>交互式网络研讨会中的GenAI功能</strong>：您现在可以为按需网络研讨会生成章节和摘要。 编辑并导出数据的HTML文件。</td>
    <td>已发布</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI功能</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI功能</a></td>
   </tr>
   <tr>
    <td> </td>

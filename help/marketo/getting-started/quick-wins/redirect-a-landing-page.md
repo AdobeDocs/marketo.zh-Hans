@@ -4,10 +4,10 @@ description: 重定向登陆页面 — Marketo文档 — 产品文档
 title: 重定向登陆页面
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 带有表单的[登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 >* [使用CNAME自定义您的登陆页面URL](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
 
 ## 步骤1：启动新的重定向规则 {#step-start-a-new-redirect-rule}
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/redirect-a-landing-page-1.png)
 

@@ -3,7 +3,7 @@ description: 发行说明 — 2025年5月 — Marketo文档 — 产品文档
 title: 发行说明 - 2025 年 5 月
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 25%
@@ -62,7 +62,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **Facebook离线转化集成更新**：在2025年5月29日，Marketo Engage的[Facebook离线转化](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}集成将迁移到新的元[转化API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}，因为元的[离线转化API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}与图形API版本控制一起弃用。 有关详细信息，请查看Meta的[通过转化API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} （CAPI用于离线）发送离线事件的指南。
+* **Facebook离线转化集成更新**：在2025年5月29日，Marketo Engage的[Facebook离线转化](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}集成将迁移到新的元[转化API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}，因为元的[离线转化API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}与图形API版本控制一起弃用。 有关详细信息，请查看Meta的[通过转化API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} （CAPI用于离线）发送离线事件的指南。
 
 * **新Analytics功能 — 公共Beta**：[高级BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}(以前称为Revenue Explorer和Advanced Report Builder)在4月中旬开始向所有当前Revenue Cycle Explorer用户推出。 此新工具提供了有关Marketo Engage数据的灵活报表和可视化界面，提供了有关进度、性能等内容的精细详细信息。 它具有更丰富的交互性和可视化功能、更快的性能以及更顺畅和直观的用户体验。
 

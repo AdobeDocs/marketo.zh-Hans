@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360301
 description: 在Sales Insight - Marketo文档 — 产品文档中设置要用于星和火焰的分数字段
-title: 在Sales Insight中设置用于星和火焰的分数字段
+title: 在 Sales Insight 中设置用于星级和火焰标识的评分字段
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

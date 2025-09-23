@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359516
 description: 取消批准代码片段 — Marketo文档 — 产品文档
-title: 取消批准代码片段
+title: 取消批准代码段
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 取消批准代码片段 {#unapprove-a-snippet}
+# 取消批准代码段 {#unapprove-a-snippet}
 
 未批准的代码片段无法在电子邮件或登陆页面中使用。
 

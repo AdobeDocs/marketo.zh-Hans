@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9438197
 description: 模板17C - Marketo文档 — 产品文档
-title: 模板17C
+title: 模板 17C
 exl-id: d9d1079d-2adf-4b6e-befc-42e913ce8b2c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 模板17C {#template-17c}
+# 模板 17C {#template-17c}
 
-右键单击以[下载模板17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html?lang=zh-Hans)
+右键单击以[下载模板17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html?lang=zh-Hans)
+[模板17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)

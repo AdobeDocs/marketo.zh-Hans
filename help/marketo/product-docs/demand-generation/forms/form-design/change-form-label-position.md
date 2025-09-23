@@ -4,16 +4,16 @@ description: 更改表单标签位置 — Marketo文档 — 产品文档
 title: 更改表单标签位置
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
 # 更改表单标签位置 {#change-form-label-position}
 
-在[创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)时，您可以非常轻松地更改表单字段标签的位置。 具体方法如下。
+在[创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)时，您可以非常轻松地更改表单字段标签的位置。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 

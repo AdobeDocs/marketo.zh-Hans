@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359679
 description: 编辑表单主题的CSS - Marketo文档 — 产品文档
-title: 编辑表单主题的CSS
+title: 编辑表单主题的 CSS
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 编辑表单主题的CSS {#edit-the-css-of-a-form-theme}
+# 编辑表单主题的 CSS {#edit-the-css-of-a-form-theme}
 
-您有几个预先构建的[主题，您可以从](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)中进行选择。 但是，如果您喜欢编辑CSS，则可以进行任何所需的更改。 具体方法如下。
+您有几个预先构建的[主题，您可以从](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)中进行选择。 但是，如果您喜欢编辑CSS，则可以进行任何所需的更改。 操作方法如下：
 
 >[!NOTE]
 >

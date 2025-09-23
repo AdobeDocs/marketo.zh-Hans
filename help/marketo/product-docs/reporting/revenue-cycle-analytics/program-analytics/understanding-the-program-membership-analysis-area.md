@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718640
 description: 了解计划会员资格分析区域 — Marketo文档 — 产品文档
-title: 了解计划会员资格分析区
+title: 了解项目成员分析区域
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 5%
+ht-degree: 13%
 
 ---
 
-# 了解计划会员资格分析区 {#understanding-the-program-membership-analysis-area}
+# 了解项目成员分析区域 {#understanding-the-program-membership-analysis-area}
 
 计划会员资格分析区域允许您分析单个计划的有效性，或查看给定时间段内按渠道汇总的结果。
 
@@ -29,7 +29,7 @@ ht-degree: 5%
 
 ![](assets/three-2.png)
 
-## 方案会员资格分析Dimension和措施 {#program-membership-analysis-dimensions-and-measures}
+## 计划会员资格分析维度和衡量标准 {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -54,9 +54,9 @@ ht-degree: 5%
 
 | 维度 | 描述 |
 |---|---|
-| 年 | 计划会员资格时间范围 |
+| Year | 计划会员资格时间范围 |
 | 季度 | 计划会员资格时间范围 |
-| 月 | 计划会员资格时间范围 |
+| Month | 计划会员资格时间范围 |
 | 周 | 计划会员资格时间范围 |
 | 日期 | 计划会员资格时间范围 |
 

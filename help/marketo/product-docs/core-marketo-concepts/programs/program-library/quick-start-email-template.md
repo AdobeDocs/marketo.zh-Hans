@@ -1,16 +1,16 @@
 ---
 description: 快速入门电子邮件模板 — Marketo文档 — 产品文档
-title: 快速入门电子邮件模板
+title: 快速启动电子邮件模板
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '565'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 快速入门电子邮件模板 {#quick-start-email-template}
+# 快速启动电子邮件模板 {#quick-start-email-template}
 
 Marketo Engage参考库中的一些入门计划包含一个简单、易于使用且可自定义的电子邮件模板，借助该模板，您可以快速创建多个营销用例中的电子邮件。
 

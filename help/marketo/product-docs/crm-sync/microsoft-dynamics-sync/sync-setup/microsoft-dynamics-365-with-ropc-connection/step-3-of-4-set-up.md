@@ -3,7 +3,7 @@ description: 第3步（共4步） — 在MS [!DNL Dynamics] 上设置客户端�
 title: 第3步（共4步） — 在MS [!DNL Dynamics]上设置客户端应用程序
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%

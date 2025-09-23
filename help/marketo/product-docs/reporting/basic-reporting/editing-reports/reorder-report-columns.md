@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359999
 description: 对报表列重新排序 — Marketo文档 — 产品文档
-title: 对报表列重新排序
+title: 重新排序报告列
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# 对报表列重新排序 {#reorder-report-columns}
+# 重新排序报告列 {#reorder-report-columns}
 
 您可以更改报表中列的顺序。
 

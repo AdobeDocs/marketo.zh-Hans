@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384665
 description: 了解预测内容 — Marketo文档 — 产品文档
-title: 了解预测内容
+title: 了解预测性内容
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 了解预测内容 {#understanding-predictive-content}
+# 了解预测性内容 {#understanding-predictive-content}
 
 在您[批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)后，可在此处处理该标题。 [!UICONTROL Predictive Content]页显示您已批准用于预测内容的所有标题。
 

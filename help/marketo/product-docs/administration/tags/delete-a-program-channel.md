@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2360281
 description: 删除项目渠道 — Marketo文档 — 产品文档
-title: 删除项目频道
+title: 删除项目渠道
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 15%
 
 ---
 
-# 删除项目频道 {#delete-a-program-channel}
+# 删除项目渠道 {#delete-a-program-channel}
 
 项目群渠道是项目群中潜在客户应通过的状态或检查点的集合。
 
 如果意外制作或不再需要某个，可以将其删除。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/delete-a-program-channel-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 标记]**。
+1. 单击 **[!UICONTROL Tags]**。
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. 选择要删除的渠道。 在&#x200B;**[!UICONTROL 标记操作]**&#x200B;下拉列表中，单击&#x200B;**[!UICONTROL 删除]**。
+1. 选择要删除的渠道。 在&#x200B;**[!UICONTROL Tag Actions]**&#x200B;下拉列表中，单击&#x200B;**[!UICONTROL Delete]**。
 
    >[!TIP]
    >

@@ -3,14 +3,14 @@ description: 继承实例管理员核对清单 — Marketo文档 — 产品文�
 title: 继承实例管理员核对清单
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1858'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 继承实例：管理员部分核对清单 {#inherited-instance-admin-section-checklist}
+# 继承实例：管理部分检查表 {#inherited-instance-admin-section-checklist}
 
 以下核对清单（链接到每篇文章底部的后续核对清单）由Adobe Professional Services与Marketo Champions的输入汇总在一起，可帮助您快速上手。 您也可以[下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)并跟踪您的进度。
 
@@ -33,7 +33,7 @@ ht-degree: 1%
   <tr>
    <td>订阅和Marketo Engage产品管理员</td>
    <td><li>您的Marketo Engage订阅是否已迁移到<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>？
-<br/>     如果是这样，您的“Adobe Admin Console系统管理员”是否已向您授予“Adobe Admin Console产品管理员”角色？ 如果您不确定贵组织中的哪些人具有控制台中的管理员权限，请联系<a href="https://helpx.adobe.com/cn/contact.html" target="_blank">Adobe客户关怀团队</a>。</li>
+<br/>     如果是这样，您的“Adobe Admin Console系统管理员”是否已向您授予“Adobe Admin Console产品管理员”角色？ 如果您不确定贵组织中的哪些人具有控制台中的管理员权限，请联系<a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客户关怀团队</a>。</li>
 <li>您是否接受了“Marketo Engage产品管理员”邀请？ 在Adobe Admin Console中分配角色后，将发送电子邮件。
 <br/>     如果没有，请在收件箱中查找<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">欢迎电子邮件</a>，并接受邀请以激活您的Adobe ID。</li></td>
   </tr>
@@ -293,7 +293,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>Adobe Dynamic Chat（如果适用）</td>
-<td>执行以下步骤需要访问<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未设置Adobe ID，请<a href="https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html" target="_blank">在此学习如何执行该操作</a>。
+<td>执行以下步骤需要访问<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未设置Adobe ID，请<a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">在此学习如何执行该操作</a>。
 <br/>
 <li>您是否接受了<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat产品管理员</a>邀请？ 当您在Marketo Engage实例中启用Dynamic Chat并且您被指定为系统管理员时，将发送电子邮件。
 <br/>     如果没有，请在收件箱中查找欢迎电子邮件，并接受邀请来设置您的Adobe ID。</li>
@@ -351,7 +351,7 @@ ht-degree: 1%
 <li>是否应该打开或关闭某些功能？</li></td>
   </tr>
   <tr>
-   <td>活动检查器</td>
+   <td>营销活动检查器</td>
    <td><li><a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">营销活动检查器</a>是否已打开？
 <br/>如果没有，请考虑启用它以轻松识别哪些营销活动处于活动状态：活动、与您的CRM同步，以及/或删除记录。</li></td>
   </tr>

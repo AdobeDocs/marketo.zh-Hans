@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512979
 description: 使用商机信息源 — Marketo文档 — 产品文档
-title: 使用潜在客户馈送
+title: 使用潜在客户信息流
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 使用潜在客户馈送 {#using-the-lead-feed}
+# 使用潜在客户信息流 {#using-the-lead-feed}
 
 潜在客户信息源是潜在客户开展的重要活动的最新列表。 单击Marketo选项卡时，您会在右侧找到该页面。 它类似于RSS或[!DNL Twitter]信息源 — 最近的更新位于列表顶部。 当你还在他们脑海里时，用这个跳到潜在客户身上。
 

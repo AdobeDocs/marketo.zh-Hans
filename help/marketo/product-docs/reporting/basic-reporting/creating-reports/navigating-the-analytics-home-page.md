@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7513141
 description: 浏览Analytics主页 — Marketo文档 — 产品文档
-title: 浏览Analytics主页
+title: 浏览 Analytics 主页
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
-# 浏览Analytics主页 {#navigating-the-analytics-home-page}
+# 浏览 Analytics 主页 {#navigating-the-analytics-home-page}
 
-1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;区域。
+1. 进入 **[!UICONTROL Analytics]** 区域。
 
    ![](assets/image2015-4-27-8-3a38-3a10.png)
 

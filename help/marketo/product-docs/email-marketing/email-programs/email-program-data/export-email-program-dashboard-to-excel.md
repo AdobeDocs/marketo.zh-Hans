@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359598
 description: 将电子邮件程序仪表板导出到Excel - Marketo文档 — 产品文档
-title: 将电子邮件程序仪表板导出到Excel
+title: 将电子邮件项目仪表板导出到 Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 将电子邮件程序仪表板导出到Excel {#export-email-program-dashboard-to-excel}
+# 将电子邮件项目仪表板导出到 Excel {#export-email-program-dashboard-to-excel}
 
-运行电子邮件程序并在功能板中显示一些数据后，您可以将该原始数据导出到Excel以供进一步分析。 具体方法如下。
+运行电子邮件程序并在功能板中显示一些数据后，您可以将该原始数据导出到Excel以供进一步分析。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 

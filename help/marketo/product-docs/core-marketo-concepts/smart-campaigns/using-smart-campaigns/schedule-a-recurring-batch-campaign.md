@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146972
 description: 计划循环批次活动 — Marketo文档 — 产品文档
-title: 计划循环批次活动
+title: 计划定期批处理营销活动
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 11%
 
 ---
 
-# 计划循环批次活动 {#schedule-a-recurring-batch-campaign}
+# 计划定期批处理营销活动 {#schedule-a-recurring-batch-campaign}
 
 循环允许您按定期计划运行批次营销活动。 例如 — 每周一次，星期二上午10:00。
 
-1. 选择Smart Campaign，转到&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 计划周期]**。
+1. 选择Smart Campaign，转到&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡并单击&#x200B;**[!UICONTROL Schedule Recurrence]**。
 
    ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 计划]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 每周]**。
+1. 点击 **[!UICONTROL Schedule]** 下拉菜单，并选择 **[!UICONTROL Weekly]**。
 
    ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. 将“[!UICONTROL 重复间隔]”保留为1，选择星期二并单击&#x200B;**[!UICONTROL 保存]**。
+1. 将“[!UICONTROL Repeat every]”保留为1，选择星期二并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
    >[!NOTE]
    >
-   >对于特定的运行长度，您可以单击&#x200B;**[!UICONTROL 结束日期]**&#x200B;旁边的日历图标并选择结束日期。
+   >对于特定的运行长度，您可以单击&#x200B;**[!UICONTROL End on]**&#x200B;旁边的日历图标并选择结束日期。
 
 计划的重复事件显示在“计划”选项卡的底部。
 

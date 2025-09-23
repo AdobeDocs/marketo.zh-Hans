@@ -4,20 +4,20 @@ title: 流设计器
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1128'
-ht-degree: 1%
+source-wordcount: '1103'
+ht-degree: 2%
 
 ---
 
 # 流设计器 {#stream-designer}
 
-可能有&#x200B;_多个_&#x200B;流组合。 本文包含一个示例，其中营销人员询问网站访客是否对产品有任何疑问。 如果是，访客可以安排约会。 如果没有，访客可以选择加入邮件列表以备将来通信。 酒店还提供免费PDF。 最终目标是安排约会或收集访客的电子邮件。
+可能有&#x200B;_多个_&#x200B;流组合。 本文包含一个示例，其中营销人员询问网站访客是否对产品有任何疑问。 如果是，访客可以安排约会。 如果没有，访客可以选择加入邮件列表以备将来通信。 酒店还提供免费的PDF。 最终目标是安排约会或收集访客的电子邮件。
 
 >[!PREREQUISITES]
 >
->必须先在你的Adobe帐户中[设置](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}，然后才能使用文档卡。
+>必须先在您的Adobe帐户中[设置文档卡](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}，然后才能使用文档卡。
 
 ## Designer卡片流 {#stream-designer-cards}
 
@@ -35,7 +35,7 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
  </tr>
  <tr>
   <td style="width:25%"><strong>文档</strong></td>
-  <td>允许将PDF文档嵌入对话框并跟踪访客的文档参与活动（查看了多少页、是否下载了文档以及/或者使用了任何搜索词）。</td>
+  <td>允许您将PDF文档嵌入对话框并跟踪访客的文档参与活动（查看了多少页面、是否下载了文档以及/或者使用了任何搜索词）。</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>信息捕获</strong></td>
@@ -52,7 +52,7 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
  <tr>
   <td style="width:25%"><strong>操作*</strong></td>
   <td>与表单中的隐藏字段类似，使用操作卡，您可以用要针对潜在客户记录捕获的隐式值填充任何潜在客户或公司属性（具有<a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">字符串数据类型</a>）。 您可以在对话的任何位置添加操作卡，并使用自动填充相应值的值或本机令牌更新相应的属性。
-  <p><i>* “操作”卡需要Dynamic ChatPrime。 有关详细信息，请联系Adobe客户团队（您的客户经理）。</i></td>
+  <p><i>* “操作”卡需要使用Dynamic Chat Prime。 有关详细信息，请联系Adobe客户团队（您的客户经理）。</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>实时聊天</strong></td>
@@ -93,15 +93,15 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
 
 您可以为对话框或[对话Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}创建流。 在本例中，我们将为对话框创建一个。
 
-1. 在[创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}后，单击&#x200B;**[!UICONTROL 流Designer]**&#x200B;选项卡。
+1. 在[创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}后，单击&#x200B;**[!UICONTROL Stream Designer]**&#x200B;选项卡。
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放[!UICONTROL 问题]信息卡。
+1. 拖放[!UICONTROL Question]信息卡。
 
    ![](assets/stream-designer-7.png)
 
-1. 在[!UICONTROL 聊天机器人响应]下，说出你希望如何回答的问题。
+1. 在[!UICONTROL Chatbot Response]下，说出您想怎么回答的问题。
 
    ![](assets/stream-designer-8.png)
 
@@ -113,51 +113,51 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
    >
    >默认情况下，Poke设置为on，它会在聊天图标旁边显示开始的问题，访客无需单击该图标即可查看。 Poke仅在对话的第一张卡片中可用。
 
-1. 输入您的用户响应，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 输入您的用户响应并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 编辑存储的值]**&#x200B;是一个可选步骤，适用于那些希望在数据库中存储与聊天机器人中显示的值不同的值（例如，访客看到“搜索引擎优化”，您将该值存储为“SEO”）的用户。
+   >**[!UICONTROL Edit Stored Values]**&#x200B;是可选步骤，适用于那些想要在数据库中存储与聊天机器人针对问题卡中的映射属性显示的值不同的值（例如：访客看到“搜索引擎优化”，您将该值存储为“SEO”。）
 
 1. 对于“是”，我们需要安排约会，因此在该选项的下方将拖到Appointment Scheduler卡。
 
    ![](assets/stream-designer-10.png)
 
-1. 在右侧的列中，单击&#x200B;**[!UICONTROL 保存]**。
+1. 在右侧的列中，单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-11.png)
 
-1. 由于这是目标，请将[!UICONTROL 目标]卡拖动到约会计划程序下。
+1. 由于这是目标，请将[!UICONTROL Goal]卡拖动到约会计划程序下。
 
    ![](assets/stream-designer-12.png)
 
-1. 命名您的目标（或选择现有目标），然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 命名您的目标（或选择现有目标），然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-13.png)
 
-1. 对于“否”，我们希望查看他们是否将加入邮件列表，因此在该选项下拖动到另一个[!UICONTROL 问题]卡片。
+1. 对于“否”，我们希望查看他们是否会加入邮件列表，因此在该选项下拖动到另一个[!UICONTROL Question]卡片上。
 
    ![](assets/stream-designer-14.png)
 
-1. 输入您的响应，并为访客添加响应选项。 完成后单击&#x200B;**[!UICONTROL 保存]**。
+1. 输入您的响应，并为访客添加响应选项。 完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >单击&#x200B;**[!UICONTROL 添加响应]**&#x200B;可添加更多响应。
+   >您可以通过单击&#x200B;**[!UICONTROL Add Response]**&#x200B;添加更多响应。
 
 1. 在“是”响应下方，将拖到“信息捕获”卡上，以便收集访客的电子邮件。
 
    ![](assets/stream-designer-16.png)
 
-1. 单击&#x200B;**[!UICONTROL 类型]**&#x200B;下拉列表并选择&#x200B;**[!UICONTROL 电子邮件]**。
+1. 点击 **[!UICONTROL Type]** 下拉菜单，并选择 **[!UICONTROL Email]**。
 
    ![](assets/stream-designer-17.png)
 
-1. 输入聊天机器人消息和占位符。 确保该属性映射到Marketo Engage中的相应字段，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 输入聊天机器人消息和占位符。 确保该属性映射到Marketo Engage中的相应字段，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-18.png)
 
@@ -176,27 +176,27 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
     </tr>
     <tr>
      <td style="width:30%"><strong>将响应映射到属性</strong></td>
-     <td>允许您将访客的响应同步到您Marketo Engage订阅中其人员记录中的相应字段。</td>
+     <td>允许您将访客的响应同步到Marketo Engage订阅中其人员记录中的相应字段。</td>
     </tr>
    </table>
 
-1. 由于收集其电子邮件是一个目标，因此请将[!UICONTROL 目标]卡片拖动到“信息捕获”下。
+1. 由于收集其电子邮件是一个目标，因此请将[!UICONTROL Goal]信息卡拖动到“信息捕获”下方。
 
    ![](assets/stream-designer-19.png)
 
-1. 命名您的目标（或选择现有目标），然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 命名您的目标（或选择现有目标），然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-20.png)
 
-1. 如果回答“否”，请记得添加响应。 一种选择是将信息卡拖到下面并说“谢谢”。 但在本例中，我们将改为向他们提供免费PDF文档。
+1. 如果回答“否”，请记得添加响应。 一种选择是将信息卡拖到下面并说“谢谢”。 但在本例中，我们将向他们提供免费的PDF文档。
 
    ![](assets/stream-designer-21.png)
 
-1. 在本例中，我们将创建一个新文档。 为其命名，输入已托管PDF的URL，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 在本例中，我们将创建一个新文档。 为其命名，输入已托管的PDF的URL，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-22.png)
 
-1. 选择&#x200B;**[!UICONTROL 预览]**&#x200B;切换开关以预览您的对话框。
+1. 选择&#x200B;**[!UICONTROL Preview]**&#x200B;切换可预览您的对话框。
 
    ![](assets/stream-designer-23.png)
 
@@ -206,7 +206,7 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
 
 >[!NOTE]
 >
->在单击[!UICONTROL Publish]之前，请记住确保已[输入目标URL](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}。
+>在单击[!UICONTROL Publish]之前，请记住确保已[输入您的目标URL](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

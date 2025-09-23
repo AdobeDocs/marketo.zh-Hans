@@ -1,16 +1,16 @@
 ---
 description: 添加或删除聊天用户 — Marketo文档 — 产品文档
-title: 添加或删除聊天用户
+title: 添加或移除聊天用户
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
-# 添加或删除聊天用户 {#add-or-remove-chat-users}
+# 添加或移除聊天用户 {#add-or-remove-chat-users}
 
 按照以下步骤添加或删除聊天用户。
 
@@ -72,7 +72,7 @@ ht-degree: 3%
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. 选择&#x200B;**[!UICONTROL Access Dynamic Chat]**&#x200B;并单击&#x200B;**[!UICONTROL Save]**。
+1. 选择 **[!UICONTROL Access Dynamic Chat]** 并点击 **[!UICONTROL Save]**。
 
    ![](assets/add-or-remove-chat-users-11.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719332
 description: 部署RTP JavaScript - Marketo文档 — 产品文档
-title: 部署RTP JavaScript
+title: 部署 RTP JavaScript
 exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 部署RTP JavaScript {#deploy-the-rtp-javascript}
+# 部署 RTP JavaScript {#deploy-the-rtp-javascript}
 
 要生成和设置您的RTP标记，请按照下面的安装说明操作
 

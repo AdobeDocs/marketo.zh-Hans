@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359467
 description: 电子邮件性能报表 — Marketo文档 — 产品文档
-title: 电子邮件性能报表
+title: 电子邮件性能报告
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '489'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 电子邮件性能报表 {#email-performance-report}
+# 电子邮件性能报告 {#email-performance-report}
 
 要查看电子邮件使用已投放、已打开、已单击等统计信息时的性能，请创建电子邮件性能报表。
 
@@ -59,7 +59,7 @@ ht-degree: 1%
     <td>单击电子邮件中链接的电子邮件收件人数量。</td>
   </tr>
   <tr>
-    <td>退订</td>
+    <td>已取消订阅</td>
     <td>单击电子邮件中的“取消订阅”链接并填写表单的电子邮件收件人数量。</td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ ht-degree: 1%
 
 * **规则2**：如果电子邮件记录显示&#x200B;_[!UICONTROL Opened]_，则计为_&#x200B;已传递&#x200B;_。
 
-* **规则3**：如果电子邮件记录显示&#x200B;_[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，则计为&#x200B;_已传递_&#x200B;和&#x200B;_已打开_。
+* **规则3**：如果电子邮件记录显示&#x200B;_[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，则计为&#x200B;_已传递_&#x200B;和&#x200B;_已打开_。
 
 * **规则4**：如果电子邮件为&#x200B;_[!UICONTROL Opened]_，则将忽略退件。 如果电子邮件尚未打开，则_&#x200B;硬退回&#x200B;_优先于_&#x200B;软退回&#x200B;_和_&#x200B;已投放&#x200B;_。
 

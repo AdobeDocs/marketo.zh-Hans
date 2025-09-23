@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2051'
 ht-degree: 1%
@@ -48,7 +48,7 @@ ht-degree: 1%
 
 恭喜！您现在位于Marketo中，可以开始探索。 您可能需要邀请营销团队中的同事加入您。 您可以通过添加新用户来完成此操作。
 
-转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+进入 **[!UICONTROL Admin]** 区域。
 
 >[!TIP]
 >
@@ -110,7 +110,7 @@ ht-degree: 1%
 >
 >只有登录到Marketo社区的用户才会出现在列表中。 如果找不到用户，请确保他们先登录到社区。
 
-## 使用CNAME自定义登陆页面URL {#customize-your-landing-page-urls-with-a-cname}
+## 使用 CNAME 自定义登录页面 URL {#customize-your-landing-page-urls-with-a-cname}
 
 >[!NOTE]
 >
@@ -350,6 +350,6 @@ Marketo具有自定义跟踪JavaScript（称为[!DNL Munchkin]），可用于跟
 
 ## 性能期望 {#performance-expectations}
 
-从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，在[Marketo Engage产品描述](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中的多个表中，您可以期望的性能级别与“标准”列中列出的性能水平相当。 “性能”和“性能提升”列是指提供[更高性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的性能层包。
+从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，在[Marketo Engage产品描述](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中的多个表中，您可以期望的性能级别与“标准”列中列出的性能水平相当。 “性能”和“性能提升”列是指提供[更高性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的性能层包。
 
 您的所有设置步骤都已结束。 只剩下深入了解并使用Marketo了！

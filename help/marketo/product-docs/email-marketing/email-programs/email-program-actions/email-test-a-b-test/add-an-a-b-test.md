@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359491
 description: 添加A/B测试 — Marketo文档 — 产品文档
-title: 添加A/B测试
+title: 添加 A/B 测试
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 添加A/B测试 {#add-an-a-b-test}
+# 添加 A/B 测试 {#add-an-a-b-test}
 
 >[!PREREQUISITES]
 >

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377406
 description: 使用工作区编辑默认品牌策略域 — Marketo文档 — 产品文档
-title: 使用工作区编辑默认品牌策略域
+title: 使用工作区编辑默认品牌域名
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# 使用工作区编辑默认品牌策略域 {#edit-your-default-branding-domain-with-workspaces}
+# 使用工作区编辑默认品牌域名 {#edit-your-default-branding-domain-with-workspaces}
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 

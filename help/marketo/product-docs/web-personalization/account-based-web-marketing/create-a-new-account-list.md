@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720232
 description: 新建帐户列表 — Marketo文档 — 产品文档
-title: 创建新的帐户列表
+title: 创建新帐户列表
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '392'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 创建新的帐户列表 {#create-a-new-account-list}
+# 创建新帐户列表 {#create-a-new-account-list}
 
 创建并上传组织和域名列表，以通过个性化的促销活动定位这些关键帐户。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >本文仅适用于旧版Web ABM客户。 如果您是在2016年9月之后获得Web ABM，请按照[本文](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)中的步骤进行操作。
 
-## 创建新的帐户列表 {#create-a-new-account-list-1}
+## 创建新帐户列表 {#create-a-new-account-list-1}
 
 1. 转到&#x200B;**[!UICONTROL Account Lists]**。
 

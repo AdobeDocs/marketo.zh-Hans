@@ -1,29 +1,29 @@
 ---
 unique-page-id: 14352457
 description: .NET插件概述 — Marketo文档 — 产品文档
-title: .NET加载项概述
+title: .NET 加载项概述
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# .NET加载项概述 {#net-add-in-overview}
+# .NET 加载项概述 {#net-add-in-overview}
 
 >[!NOTE]
 >
 >这是我们的旧插件。 如果已安装，它将在2020年前继续工作。 如果您是新用户，请安装我们的新[Office 365加载项](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
 
-## 连接一段内容 {#attaching-a-piece-of-content}
+## 附加内容 {#attaching-a-piece-of-content}
 
 单击&#x200B;**[!UICONTROL Content]**&#x200B;按钮并上传文件以添加可跟踪内容。
 
 之前上传的任何内容都将显示出来，以供您在弹出窗口中选择，而无需再次上传。
 
-## 日历功能 {#calendar-functionality}
+## 日程表功能 {#calendar-functionality}
 
 按&#x200B;**[!UICONTROL Calendar]**&#x200B;按钮告知收件人您何时有空。
 

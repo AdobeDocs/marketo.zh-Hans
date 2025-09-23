@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2953120
 description: 了解智能营销活动 — Marketo文档 — 产品文档
-title: 了解智能营销活动
+title: 了解智能活动
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 14%
+ht-degree: 17%
 
 ---
 
-# 了解智能营销活动 {#understanding-smart-campaigns}
+# 了解智能活动 {#understanding-smart-campaigns}
 
 如果说 Marketo Engage 是一辆汽车，那么 Smart Campaign 就是它的引擎。智能活动的功能超乎您的想象，并且可以轻松开始使用它们。
 
 智能营销活动有3个主要区域：[智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}、[流量](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}和[计划](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}选项卡。
 
-## Smart List {#smart-list}
+## 智能列表 {#smart-list}
 
 智能列表是您定义&#x200B;_要用Smart Campaign定位的_&#x200B;的方式。 它具有过滤器和触发器。
 
@@ -29,7 +29,7 @@ ht-degree: 14%
    <th>说明</th>
   </tr>
   <tr>
-   <td>筛选条件</td>
+   <td>过滤器</td>
    <td>已单击的链接</td>
    <td><p>收集批次中当前符合条件的所有人员。</p></td>
   </tr>
@@ -43,7 +43,7 @@ ht-degree: 14%
 
 您可以通过多种方式组合过滤器，并将它们与触发器结合使用。 这是一个功能强大的工具 — 尝试一下它。
 
-## 流量 {#flow}
+## 流程 {#flow}
 
 流程包括您希望智能营销策划执行的步骤，包括等待步骤和拆分选择。
 

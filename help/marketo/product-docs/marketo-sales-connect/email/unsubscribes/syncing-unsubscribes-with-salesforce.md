@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746188
 description: 与Salesforce同步取消订阅 — Marketo文档 — 产品文档
-title: 正在与Salesforce同步取消订阅
+title: 将取消订阅与 Salesforce 同步
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146942
 description: 为Smart Campaign定义智能列表 | 触发器 — Marketo文档 — 产品文档
-title: 为Smart Campaign定义智能列表 | 触发器
+title: 为智能营销活动定义智能列表 | 触发器
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 为Smart Campaign定义智能列表 | 触发器 {#define-smart-list-for-smart-campaign-trigger}
+# 为智能营销活动定义智能列表 | 触发器 {#define-smart-list-for-smart-campaign-trigger}
 
 通过添加触发器，根据实时事件逐人运行Smart Campaign。
 

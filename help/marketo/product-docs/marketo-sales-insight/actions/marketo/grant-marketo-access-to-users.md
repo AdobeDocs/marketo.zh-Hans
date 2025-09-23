@@ -1,16 +1,16 @@
 ---
 description: 向用户授予Marketo访问权限 — Marketo文档 — 产品文档
-title: 向用户授予Marketo访问权限
+title: 授予用户 Marketo 访问权限
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 向用户授予Marketo访问权限 {#grant-marketo-access-to-users}
+# 授予用户 Marketo 访问权限 {#grant-marketo-access-to-users}
 
 按照本文中的步骤向[!DNL Sales Insight Actions]用户授予对Marketo连接的访问权限。 这将解锁实时信息源中令人感兴趣的时刻等功能以及营销活动的访问权限。
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. 单击&#x200B;**[!UICONTROL User Access]**&#x200B;选项卡。 选择一个或多个用户，然后单击&#x200B;**[!UICONTROL Connect]**。
+1. 单击 **[!UICONTROL User Access]** 选项卡。选择一个或多个用户，然后单击&#x200B;**[!UICONTROL Connect]**。
 
    ![](assets/grant-marketo-access-to-users-3.png)
 

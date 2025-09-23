@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352637
 description: 将自动取消订阅添加到模板 — Marketo文档 — 产品文档
-title: 向模板添加自动取消订阅
+title: 为模板添加自动取消订阅功能
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 向模板添加自动取消订阅 {#add-auto-unsubscribes-to-a-template}
+# 为模板添加自动取消订阅功能 {#add-auto-unsubscribes-to-a-template}
 
 1. 选择您的模板并单击&#x200B;**[!UICONTROL Edit]**&#x200B;部分中的[!UICONTROL Unsubscribe]。
 

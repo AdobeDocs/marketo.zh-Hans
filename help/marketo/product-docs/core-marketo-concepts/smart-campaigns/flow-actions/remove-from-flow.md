@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147084
 description: 从流中删除 — Marketo文档 — 产品文档
-title: 从流中删除
+title: 从流程中移除
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 4%
 
 ---
 
-# 从流中删除 {#remove-from-flow}
+# 从流程中移除 {#remove-from-flow}
 
 假设您有一个Smart Campaign流程，该流程使用“发送警报”来提醒销售代表呼叫热门潜在客户。 它每天发送一条消息，直到销售代表致电。 在联系潜在客户以停止进一步警报后，您可以在触发营销活动中使用“从流量中删除”。 它就像一个人的Smart Campaign弹射座。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您可以选择特定的智能营销活动，或在&#x200B;**[!UICONTROL 营销活动]**&#x200B;下拉列表中选择“此营销活动”以选择您当时实际参与的营销活动。
+>您可以选择特定的智能营销活动，或在&#x200B;**[!UICONTROL Campaign]**&#x200B;下拉列表中选择“此营销活动”以选择您当时实际参与的营销活动。
 
 >[!NOTE]
 >

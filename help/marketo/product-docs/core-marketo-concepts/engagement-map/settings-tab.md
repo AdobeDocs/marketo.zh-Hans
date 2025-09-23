@@ -1,15 +1,15 @@
 ---
 description: 设置选项卡 — Marketo文档 — 产品文档
-title: “设置”选项卡
+title: 设置选项卡
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# “设置”选项卡 {#settings-tab}
+# 设置选项卡 {#settings-tab}
 
 “设置”选项卡是所有营销活动设置的主页，其中包括与“智能营销活动”中的“计划”选项卡相同的权限集和访问权限。
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513865
 description: 在Marketo 2015中安装和配置Microsoft Dynamics Sales Insight - Marketo文档 — 产品文档
-title: 在Microsoft Dynamics 2015中安装和配置Marketo Sales Insight
+title: 在 Microsoft Dynamics 2015 中安装和配置 Marketo Sales Insight
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '370'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 

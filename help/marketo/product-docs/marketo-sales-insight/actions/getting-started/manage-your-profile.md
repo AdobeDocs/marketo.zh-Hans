@@ -1,14 +1,14 @@
 ---
 description: 管理配置文件 — Marketo文档 — 产品文档
-title: 管理您的配置文件
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+title: 管理您的轮廓
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 管理您的配置文件 {#manage-your-profile}
+# 管理您的轮廓 {#manage-your-profile}
 
 在“我的个人资料”页面中，您可以更新您的姓名、帐户的语言/区域设置/时区，以及更改密码。
 

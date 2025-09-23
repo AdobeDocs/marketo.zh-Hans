@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147042
 description: 将数据附加到字段 — Marketo文档 — 产品文档
-title: 将数据附加到字段
+title: 向字段追加数据
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 13%
 
 ---
 
-# 将数据附加到字段 {#append-data-to-a-field}
+# 向字段追加数据 {#append-data-to-a-field}
 
-将数据附加到字段有一种简单的方法。 具体方法如下。
+将数据附加到字段有一种简单的方法。 操作方法如下：
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >以下步骤也适用于[更改计划成员数据](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}。
 
-1. 在&#x200B;**[!UICONTROL 流]**&#x200B;选项卡下，拖入&#x200B;**[!UICONTROL 更改数据值]**&#x200B;流步骤。
+1. 在&#x200B;**[!UICONTROL Flow]**&#x200B;选项卡下，拖入&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流程步骤。
 
    ![](assets/append-data-to-a-field-1.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/append-data-to-a-field-4.png)
 
-就是这样！ 您可以进行创作并在其中添加多个令牌。
+操作完成！您可以进行创作并在其中添加多个令牌。

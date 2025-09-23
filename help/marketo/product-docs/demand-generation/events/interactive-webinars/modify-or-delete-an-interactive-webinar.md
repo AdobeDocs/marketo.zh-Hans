@@ -3,10 +3,10 @@ description: 修改或删除交互式网络研讨会 — Marketo文档 — 产�
 title: 修改或删除交互式网络研讨会
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >目前，您只能将克隆的交互式网络研讨会另存为交互式网络研讨会。 将克隆的网络研讨会另存为合作伙伴网络研讨会（如Zoom、ON24等） 即将推出。
+   >目前，您只能将克隆的交互式网络研讨会另存为交互式网络研讨会。 将克隆的网络研讨会另存为合作伙伴网络研讨会（例如Zoom、ON24等）将很快可用。
 
 1. 选择克隆网络研讨会的设置，然后单击&#x200B;**克隆**。
 

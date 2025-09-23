@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720314
 description: 销售Insight电子邮件性能报表 — Marketo文档 — 产品文档
-title: 销售Insight电子邮件性能报表
+title: Sales Insight 电子邮件绩效报告
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# 销售Insight电子邮件性能报表 {#sales-insight-email-performance-report}
+# Sales Insight 电子邮件绩效报告 {#sales-insight-email-performance-report}
 
 查看通过[!DNL Salesforce]、[!DNL Microsoft Dynamics]或Gmail或[!DNL Outlook]插件发送的电子邮件性能。
 

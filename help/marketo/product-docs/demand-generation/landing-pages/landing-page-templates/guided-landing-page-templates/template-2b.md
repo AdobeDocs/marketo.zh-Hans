@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516470
 description: 模板2B - Marketo文档 — 产品文档
-title: 模板2B
+title: 模板 2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 模板2B {#template-2b}
+# 模板 2B {#template-2b}
 
-右键单击以[下载模板2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=zh-Hans)
+右键单击以[下载模板2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=zh-Hans)
+[模板2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949222
 description: SEO — 将问题导出到CSV - Marketo文档 — 产品文档
-title: SEO — 将问题导出到CSV
+title: SEO - 将问题导出为 CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 14%
 
 ---
 
-# SEO — 将问题导出到CSV {#seo-export-issues-to-csv}
+# SEO - 将问题导出为 CSV {#seo-export-issues-to-csv}
 
-如果要与Marketo外部的人员共享该信息，您可以将[页面问题](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)数据导出到CSV文件。 具体方法如下。
+如果要与Marketo外部的人员共享该信息，您可以将[页面问题](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)数据导出到CSV文件。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL 页面]**&#x200B;部分。
+1. 转到&#x200B;**[!UICONTROL Pages]**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   这是[页面详细信息深入分析](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)。 **[!UICONTROL 页面优化结果]**&#x200B;是该特定页面所有问题的列表。
+   这是[页面详细信息深入分析](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)。 **[!UICONTROL Page Optimization Results]**&#x200B;是该特定页面所有问题的列表。
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
-1. 单击&#x200B;**[!UICONTROL 导出]**。
+1. 单击 **[!UICONTROL Export]**。
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 

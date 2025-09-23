@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8783559
 description: 分享瞬间 — Marketo文档 — 产品文档
-title: 分享时刻
+title: 共享 Moment
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 分享时刻 {#sharing-a-moment}
+# 共享 Moment {#sharing-a-moment}
 
 想要向您的团队提供更新？ 您可以选择两个共享选项。
 

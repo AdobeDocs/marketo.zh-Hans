@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359716
 description: 预览登陆页面 — Marketo文档 — 产品文档
-title: 预览登陆页面
+title: 预览登录页面
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 预览登陆页面 {#preview-a-landing-page}
+# 预览登录页面 {#preview-a-landing-page}
 
 您可能希望在登陆页面上线之前查看其外观。
 
-## 预览登陆页面 {#preview-a-landing-page-1}
+## 预览登录页面 {#preview-a-landing-page-1}
 
 1. 选择登陆页面并单击&#x200B;**[!UICONTROL Preview Page]**。
 

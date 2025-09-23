@@ -1,12 +1,12 @@
 ---
-description: 为什么我的任何联系人都没有推送到Sales Insight操作中？ - Marketo文档 — 产品文档
-title: 为什么我的任何联系人都没有推送到Sales Insight操作中？
+description: 为什么我的任何联系人都没有推送到Sales Insight操作中？ - Marketo 文档 - 产品文档
+title: 为什么我的联系人没有被推送到 Sales Insight Actions？
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 

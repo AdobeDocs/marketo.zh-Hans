@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952636
 description: 使用自定义逻辑查找重复的人员 — Marketo文档 — 产品文档
-title: 使用自定义逻辑查找重复的人员
+title: 使用自定义逻辑查找重复人员
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-# 使用自定义逻辑查找重复的人员 {#find-duplicate-people-with-custom-logic}
+# 使用自定义逻辑查找重复人员 {#find-duplicate-people-with-custom-logic}
 
 Marketo Engage具有系统智能列表，可通过匹配重复人员的电子邮件地址来查找重复人员。 如果要使用其他字段查找重复项，请按照以下步骤操作。
 
@@ -19,7 +19,7 @@ Marketo Engage具有系统智能列表，可通过匹配重复人员的电子邮
 >
 >[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
 ![](assets/ma-2.png)
 
@@ -27,7 +27,7 @@ Marketo Engage具有系统智能列表，可通过匹配重复人员的电子邮
 
    ![](assets/two-4.png)
 
-1. 查找&#x200B;**[!UICONTROL Duplicate Fields]**&#x200B;筛选器并将其拖动到画布上。
+1. 找到并将 **[!UICONTROL Duplicate Fields]** 过滤器拖到画布上。
 
    ![](assets/three-4.png)
 

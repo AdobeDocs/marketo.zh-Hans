@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359514
 description: 克隆代码片段 — Marketo文档 — 产品文档
-title: 克隆代码片段
+title: 克隆代码段
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 克隆代码片段 {#clone-a-snippet}
+# 克隆代码段 {#clone-a-snippet}
 
 克隆代码片段，以创建可根据需要修改的代码片段副本。
 

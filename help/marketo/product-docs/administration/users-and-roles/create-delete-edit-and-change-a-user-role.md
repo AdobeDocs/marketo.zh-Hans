@@ -4,10 +4,10 @@ description: 创建、删除、编辑和更改用户角色 — Marketo文档 —
 title: 创建、删除、编辑和更改用户角色
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 0%
+source-wordcount: '268'
+ht-degree: 13%
 
 ---
 
@@ -31,37 +31,37 @@ ht-degree: 0%
 
 ## 创建角色 {#create-a-role}
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 单击 **[!UICONTROL Users & Roles]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
-1. 转到&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 新建角色]**。
+1. 转到&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡并单击&#x200B;**[!UICONTROL New Role]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
-1. 命名新角色，检查要授予与该角色相关联的用户的所有权限，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 命名新角色，选中要授予与该角色关联的用户的所有权限，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## 删除角色 {#delete-a-role}
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 单击 **[!UICONTROL Users & Roles]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
-1. 在&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡下，选择一个角色，然后单击&#x200B;**[!UICONTROL 删除角色]**。
+1. 在&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡下，选择一个角色并单击&#x200B;**[!UICONTROL Delete Role]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
-1. 单击&#x200B;**[!UICONTROL 删除]**&#x200B;以确认删除。
+1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认删除。
 
    ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
@@ -75,23 +75,23 @@ ht-degree: 0%
 >
 >要编辑您自己的用户角色，您必须以具有管理员权限的其他用户身份登录。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 单击 **[!UICONTROL Users & Roles]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. 单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
-1. 选择要编辑的角色，然后单击&#x200B;**[!UICONTROL 编辑角色]**。
+1. 选择要编辑的角色并单击&#x200B;**[!UICONTROL Edit Role]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
-1. 进行所需的所有更改，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 进行所需的所有更改，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
@@ -105,19 +105,19 @@ ht-degree: 0%
 
 ## 更改用户的角色 {#change-a-users-role}
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**。
+1. 单击 **[!UICONTROL Users & Roles]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
-1. 选择要为其分配其他角色的用户，然后单击&#x200B;**[!UICONTROL 编辑用户]**。
+1. 选择要为其分配其他角色的用户，然后单击&#x200B;**[!UICONTROL Edit User]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
-1. 取消选中上一个角色，选择新角色，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 取消选中上一个角色，选择新角色，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 

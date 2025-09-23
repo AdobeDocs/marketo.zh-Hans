@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359996
 description: 列排序报表 — Marketo文档 — 产品文档
-title: 按列排序报告
+title: 按列对报告进行排序
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 按列排序报告 {#sort-report-on-columns}
+# 按列对报告进行排序 {#sort-report-on-columns}
 
 使用列对报表中的数据排序，并轻松地查找最重要的数字。
 

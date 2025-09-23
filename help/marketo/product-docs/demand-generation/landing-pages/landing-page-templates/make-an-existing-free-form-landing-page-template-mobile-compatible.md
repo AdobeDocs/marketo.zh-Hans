@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472348
 description: 使现有的自由表单登陆页面模板与移动设备兼容 — Marketo文档 — 产品文档
-title: 使现有的自由表单登陆页面模板与移动设备兼容
+title: 使现有自由格式登录页面模板兼容移动端
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

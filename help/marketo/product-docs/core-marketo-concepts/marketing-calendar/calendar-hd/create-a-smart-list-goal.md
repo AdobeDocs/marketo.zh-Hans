@@ -4,10 +4,10 @@ description: 创建智能列表目标 — Marketo文档 — 产品文档
 title: 创建智能列表目标
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 与演示文稿一样，目标特定于[工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
-1. 转到&#x200B;**[!UICONTROL 日历]**。
+1. 转到&#x200B;**[!UICONTROL Calendar]**。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. 选择&#x200B;**[!UICONTROL 目标]**&#x200B;选项卡。
+1. 选择&#x200B;**[!UICONTROL Goals]**&#x200B;选项卡。
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. 将&#x200B;**[!UICONTROL 智能列表目标]**&#x200B;拖放到画布上。
+1. 将&#x200B;**[!UICONTROL Smart List Goal]**&#x200B;拖放到画布上。
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. 输入目标的名称并输入&#x200B;**[!UICONTROL 目标目标]**。 然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 输入目标的名称并输入&#x200B;**[!UICONTROL Goal Target]**。 接着，单击 **[!UICONTROL Create]**。
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/mql.png)
 
-1. 设置完智能列表后，单击&#x200B;**[!UICONTROL 关闭]**&#x200B;按钮并返回上一个选项卡。
+1. 设置完智能列表后，单击&#x200B;**[!UICONTROL Close]**&#x200B;按钮并返回上一选项卡。
 
    ![](assets/mql2.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17432598
 description: 设置帐户分析 — Marketo文档 — 产品文档
-title: 设置帐户分析
+title: 设置帐户侧写
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
-# 设置帐户分析 {#setting-up-account-profiling}
+# 设置帐户侧写 {#setting-up-account-profiling}
 
 按照以下步骤开始使用“帐户分析”。
 

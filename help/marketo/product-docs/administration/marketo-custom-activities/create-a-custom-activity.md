@@ -4,10 +4,10 @@ description: 创建自定义活动 — Marketo文档 — 产品文档
 title: 创建自定义活动
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >大多数订阅都分配了10种自定义活动类型的限制。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-a-custom-activity-1.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472678
 description: 导入非拉丁文字符列表 — Marketo文档 — 产品文档
-title: 导入非拉丁文字符列表
+title: 导入非拉丁字符列表
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 导入非拉丁文字符列表 {#import-a-non-latin-characters-list}
+# 导入非拉丁字符列表 {#import-a-non-latin-characters-list}
 
 正在尝试导入非英文的文件？ 当您用Excel打开列表时，它看起来完美无缺。
 
@@ -69,6 +69,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >正在导入的任何日期/时间字段都将被视为中部时间。 如果您的日期/时间字段位于不同的时区，则可以使用Excel公式将其转换为中部时间（美洲/芝加哥）。
+   >导入的所有日期/时间字段将视为中部时间（Central Time）。如果您的日期/时间字段为其他时区，可以使用 Excel 公式将其转换为中部时间（美国/芝加哥）。
 
 我们知道这很奇怪，但它管用。 祝您进口顺利！

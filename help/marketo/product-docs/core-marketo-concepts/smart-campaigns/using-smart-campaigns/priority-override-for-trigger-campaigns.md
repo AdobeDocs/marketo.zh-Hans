@@ -1,16 +1,16 @@
 ---
 description: 触发器活动的优先级覆盖 — Marketo文档 — 产品文档
-title: 触发器活动的优先级覆盖
+title: 触发型活动的优先级覆盖
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 触发器活动的优先级覆盖 {#priority-override-for-trigger-campaigns}
+# 触发型活动的优先级覆盖 {#priority-override-for-trigger-campaigns}
 
 管理员可以覆盖Marketo Engage为触发营销活动确定的优先级，以设置更好地与业务目标一致的优先级。
 

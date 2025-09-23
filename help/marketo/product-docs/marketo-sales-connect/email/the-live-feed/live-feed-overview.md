@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13796471
 description: 实时信息源概述 — Marketo文档 — 产品文档
-title: 实时信息源概述
+title: 实时信息流概述
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 实时信息源概述 {#live-feed-overview}
+# 实时信息流概述 {#live-feed-overview}
 
 实时信息源是一个浮动窗口，可从Web应用程序或Gmail插件启动，可实时查看潜在客户参与情况。
 

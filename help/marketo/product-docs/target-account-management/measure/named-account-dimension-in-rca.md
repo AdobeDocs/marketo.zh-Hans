@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11380789
-description: RCA中的指定帐户Dimension- Marketo文档 — 产品文档
-title: RCA中的指定帐户Dimension
+description: RCA中的指定帐户Dimension - Marketo文档 — 产品文档
+title: RCA 中的命名帐户维度
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# RCA中的指定帐户Dimension {#named-account-dimension-in-rca}
+# RCA 中的命名帐户维度 {#named-account-dimension-in-rca}
 
 使用收入周期Analytics中特定于TAM的指定帐户维度构建基于收入的报表。
 
 >[!NOTE]
 >
->**Dimension** — 为度量提供不同视图的属性（由黄点表示）。
+>**维度** — 为度量提供不同视图的属性（由黄点表示）。
 
 ![](assets/one-2.png)
 

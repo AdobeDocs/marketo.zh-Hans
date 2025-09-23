@@ -4,10 +4,10 @@ description: 了解项目收入阶段分析区域 — Marketo文档 — 产品�
 title: 了解项目收入阶段分析区域
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 

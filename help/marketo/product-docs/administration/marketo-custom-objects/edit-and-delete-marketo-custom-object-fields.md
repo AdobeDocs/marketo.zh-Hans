@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095453
 description: 编辑和删除Marketo自定义对象字段 — Marketo文档 — 产品文档
-title: 编辑和删除Marketo自定义对象字段
+title: 编辑和删除 Marketo 自定义对象字段
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 编辑和删除Marketo自定义对象字段 {#edit-and-delete-marketo-custom-object-fields}
+# 编辑和删除 Marketo 自定义对象字段 {#edit-and-delete-marketo-custom-object-fields}
 
 ## 编辑字段 {#edit-a-field}
 

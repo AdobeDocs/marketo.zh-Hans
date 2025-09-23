@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719400
 description: 在区域中创建新的Web促销活动 — Marketo文档 — 产品文档
-title: 在区域中创建新的Web营销活动
+title: 创建新区块 Web 营销活动
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '673'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 在区域中创建新的Web营销活动 {#create-a-new-in-zone-web-campaign}
+# 创建新区块 Web 营销活动 {#create-a-new-in-zone-web-campaign}
 
 Web营销活动是与特定区段关联的自定义反应，可以是您网站上的[对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、区域内替换、[构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或电子邮件警报。 区域Web促销活动将基于区域ID的网站元素替换为内容或图形横幅。
 
@@ -102,11 +102,11 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
 
    ![](assets/in-zone-web-campaign-preview.png)
 
-## 克隆Web营销活动 {#clone-a-web-campaign}
+## 克隆 Web 营销活动 {#clone-a-web-campaign}
 
 请参阅[克隆Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
-## 删除Web活动 {#delete-a-web-campaign}
+## 删除 Web 营销活动 {#delete-a-web-campaign}
 
 1. 在Web营销活动页面中，单击要删除的营销活动上的&#x200B;**[!UICONTROL Delete]**。
 

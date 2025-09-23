@@ -4,14 +4,14 @@ description: 发行说明 — 2014年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年1月
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2014年1月 {#release-notes-january}
+# 发行说明：2014 年 1 月 {#release-notes-january}
 
 2014年1月版本中包含以下功能。 请检查您的[Marketo版](https://www.marketo.com/pricing/)是否提供相关功能。
 

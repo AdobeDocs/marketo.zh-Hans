@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359455
 description: 计划您的电子邮件项目 — Marketo文档 — 产品文档
-title: 计划您的电子邮件计划
+title: 安排电子邮件项目
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 计划您的电子邮件计划 {#schedule-your-email-program}
+# 安排电子邮件项目 {#schedule-your-email-program}
 
 >[!PREREQUISITES]
 >
@@ -20,7 +20,7 @@ ht-degree: 0%
 >
 >* [选择现有电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)或[为电子邮件计划创建电子邮件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-创建电子邮件程序、定义受众并选择电子邮件后，您需要通知程序&#x200B;*何时*&#x200B;发送电子邮件。 具体方法如下。
+创建电子邮件程序、定义受众并选择电子邮件后，您需要通知程序&#x200B;*何时*&#x200B;发送电子邮件。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 

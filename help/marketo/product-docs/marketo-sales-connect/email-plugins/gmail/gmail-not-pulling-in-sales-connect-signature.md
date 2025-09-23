@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352549
 description: Gmail未提取Sales Connect签名 — Marketo文档 — 产品文档
-title: Gmail未提取Sales Connect签名
+title: Gmail 未导入 Sales Connect 签名
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 28%
 
 ---
 
-# Gmail未提取Sales Connect签名 {#gmail-not-pulling-in-sales-connect-signature}
+# Gmail 未导入 Sales Connect 签名 {#gmail-not-pulling-in-sales-connect-signature}
 
 我们实际上在Gmail中使用您的Gmail签名，而不是插入您的[[!DNL Sales Connect] 签名](https://toutapp.com/next#settings)。
 

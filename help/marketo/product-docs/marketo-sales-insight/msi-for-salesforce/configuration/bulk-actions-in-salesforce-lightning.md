@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356282
 description: Salesforce Lightning中的批量操作 — Marketo文档 — 产品文档
-title: Salesforce Lightning中的批量操作
+title: Salesforce Lightning 中的批量操作
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 

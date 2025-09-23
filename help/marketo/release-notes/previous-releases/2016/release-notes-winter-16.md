@@ -3,14 +3,14 @@ unique-page-id: 10097199
 description: 发行说明 — 2016年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年冬
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '470'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2016年冬季 {#release-notes-winter}
+# 发行说明：2016 年冬季 {#release-notes-winter}
 
 ’16年冬季版本包括以下功能。 请单击标题链接以查看每个功能的详细文章。
 

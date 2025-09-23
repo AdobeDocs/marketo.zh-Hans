@@ -4,7 +4,7 @@ description: 为基于IP的API访问创建允许列表- Marketo文档 — 产品
 title: 为基于 IP 的 API 访问创建允许列表
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 12%
@@ -22,8 +22,8 @@ ht-degree: 12%
 >[!NOTE]
 >
 >此功能独立于Marketo Engage基于IP的登录限制运行(将由Admin Console的IP访问列表*取代)，并且在[Adobe IMS迁移](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)后将继续运行。
->&#x200B;> 
->&#x200B;>&#42;IP访问列表计划于2025年第4季度正式发布。
+>> 
+>>&#42;IP访问列表计划于2025年第4季度正式发布。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 

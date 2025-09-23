@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359545
 description: 定义A/B测试入选者标准 — Marketo文档 — 产品文档
-title: 定义A/B测试入选者标准
+title: 定义 A/B 测试获胜标准
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-# 定义A/B测试入选者标准 {#define-the-a-b-test-winner-criteria}
+# 定义 A/B 测试获胜标准 {#define-the-a-b-test-winner-criteria}
 
 当[将A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}添加到您的电子邮件计划时，您需要选择一个测试类型，[计划A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}，然后定义入选者条件。 下面是如何确定哪封电子邮件入选。
 
@@ -32,15 +32,15 @@ ht-degree: 0%
    </tr>
    <tr>
    <td><b>[!UICONTROL Clicks]</b></td>
-   <td>默认情况下，电子邮件中的链接嵌入了跟踪，使您能够查看点击哪个链接的人员、点击的链接总数等。</td>
+   <td>默认情况下，电子邮件中的链接会嵌入跟踪信息，便于您查看是谁点击了哪个链接、总共点击了多少个链接等。</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Click to Open] %</b></td>
-   <td>已打开并在电子邮件中单击链接的电子邮件的百分比。 此方法测量电子邮件的相关性和上下文，方法是用唯一点击数除以唯一打开数，然后乘以100以百分比显示电子邮件。</td>
+   <td>被打开且点击了电子邮件中链接的邮件所占百分比。通过唯一点击次数除以唯一打开次数再乘以 100 计算百分比，以衡量电子邮件的相关性和内容契合度。</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=zh-Hans" target="_blank">参与度分数</a>可帮助您确定内容的有效性。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">参与度分数</a>可帮助您确定内容的有效性。</td>
    </tr>
    </table>
 

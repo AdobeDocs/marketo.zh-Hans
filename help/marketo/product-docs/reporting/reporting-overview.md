@@ -1,28 +1,28 @@
 ---
 description: 报表概述 — Marketo文档 — 产品文档
-title: 报表概述
+title: 报告概述
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 报表概述 {#reporting-overview}
+# 报告概述 {#reporting-overview}
 
 Marketo提供了多种报表模块来满足不同需求。
 
-## 基本报告 {#basic-reporting}
+## 基础报告  {#basic-reporting}
 
 您可以在程序或Analytics区域中设置[基本报表](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}。 基本报表由不同类型的现成报表组成，可以灵活地筛选、排序和调整时间跨度。
 
-## 电子邮件分析 {#email-insights}
+## 电子邮件洞察 {#email-insights}
 
 使用Analytics和Sends从历史数据中获取有关电子邮件的[强大洞察](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"}。
 
-## 性能分析 {#performance-insights}
+## 绩效洞察 {#performance-insights}
 
 [绩效分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"}涵盖了参与、管道和收入生成的渠道绩效和项目绩效。
 

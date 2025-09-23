@@ -3,26 +3,26 @@ description: 发行说明 — 2024年7月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 7 月
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 3%
+ht-degree: 17%
 
 ---
 
-# 发行说明： 2024年7月 {#release-notes-july-24}
+# 发行说明：2024 年 7 月 {#release-notes-july-24}
 
-在下方，您会找到2024年7月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2024年7月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
-可以在此处[找到特定于Adobe Dynamic Chat ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}的发行说明。
+Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 >[!AVAILABILITY]
 >
->以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
 
-## 标准发行周期功能 {#standard-release-cycle-features}
+## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2024年7月26日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
+以下功能属于标准发行周期，将于&#x200B;**2024年7月26日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,8 +33,8 @@ ht-degree: 3%
   </tr>
      <tr>
    <td><strong>交互式网络研讨会的参与仪表板</strong>：获取网络研讨会性能汇总视图以及网络研讨会期间每位与会者的参与情况综合视图，以便您可以通过Marketo Engage编排工具决定要定位哪些潜在客户。</td>
-    <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">参与仪表板</a></td>
+    <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">互动仪表板</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -44,8 +44,8 @@ ht-degree: 3%
   </tr>
      <tr>
    <td><strong>交互式网络研讨会的文件室管理</strong>：访问已创建的各个文件室（并根据需要进行修改），以及访问内容和录制（如果需要，请清除这些文件室以优化存储）。</td>
-    <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">房间管理</a></td>
+    <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">会议室管理</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -55,7 +55,7 @@ ht-degree: 3%
   </tr>
      <tr>
    <td><strong>交互式网络研讨会的网络研讨会自定义</strong>：通过使用公共会议室界面、中间屏幕（如与会者入门屏幕背景）以及自定义视频背景，提供组织批准的统一品牌体验，以便网络研讨会策略可以更轻松地与品牌策略保持一致。</td>
-    <td>已发货</td>
+    <td>已发布</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">交互式网络研讨会自定义</a></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ ht-degree: 3%
   </tr>
      <tr>
    <td><strong>Marketo REST API更改</strong>：我们即将对<a href="https://developers.marketo.com/rest-api/user-management/">用户管理API</a>进行细微更改。 <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">浏览用户</a>和<a href="https://developers.marketo.com/rest-api/user-management/#delete_user">删除用户</a>端点现在都支持<a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">目标帐户管理</a>用户。</td>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
  </tbody>

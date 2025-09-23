@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504047
 description: 创建收入资源管理器报表 — Marketo文档 — 产品文档
-title: 创建收入浏览器报表
+title: 创建收入探索器报告
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >由于技术问题，收入循环资源管理器中的垃圾桶文件夹已暂时隐藏。 我们目前正在修复此问题，您的文件是安全的。 如果您需要还原任何文件，请联系[Adobe支持](https://nation.marketo.com/t5/support/ct-p/Support)。
 
-1. 转到&#x200B;**[!UICONTROL Revenue Explorer]**&#x200B;区域。
+1. 进入 **[!UICONTROL Revenue Explorer]** 区域。
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745655
 description: 使营销活动对Sales Connect用户可见 — Marketo文档 — 产品文档
-title: 使营销活动对Sales Connect用户可见
+title: 使营销活动对 Sales Connect 用户可见
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 

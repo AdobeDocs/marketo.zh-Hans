@@ -3,10 +3,10 @@ description: 高级搜索概述 — Marketo文档 — 产品文档
 title: 高级搜索概述
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -83,13 +83,13 @@ ht-degree: 2%
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**状态：已发送**&#x200B;_
+_**状态：已发送**_
 
 ![](assets/advanced-search-overview-10.png)
 
 按已发送的电子邮件活动筛选。 您可以选择[!UICONTROL views]/[!UICONTROL no views]、[!UICONTROL clicks]/[!UICONTROL no clicks]和/或[!UICONTROL replies]/[!UICONTROL no replies]。
 
-_&#x200B;**状态：待处理**&#x200B;_
+_**状态：待处理**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ _&#x200B;**状态：待处理**&#x200B;_
  </tr>
 </table>
 
-_&#x200B;**状态：未传递**&#x200B;_
+_**状态：未传递**_
 
 ![](assets/advanced-search-overview-12.png)
 

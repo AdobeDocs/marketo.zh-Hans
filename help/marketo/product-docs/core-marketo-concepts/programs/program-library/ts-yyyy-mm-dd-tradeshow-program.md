@@ -1,16 +1,16 @@
 ---
 description: TS-YYYY-MM-DD-Tradeshow计划 — Marketo文档 — 产品文档
-title: TS-YYYY-MM-DD-Tradeshow计划
+title: TS-YYYY-MM-DD-展会项目
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
-# TS-YYYY-MM-DD-Tradeshow计划 {#ts-yyyy-mm-dd-tradeshow-program}
+# TS-YYYY-MM-DD-展会项目 {#ts-yyyy-mm-dd-tradeshow-program}
 
 这是一个贸易展项目示例，其中的邀请和跟进电子邮件利用Marketo Engage活动项目。
 
@@ -51,12 +51,12 @@ ht-degree: 7%
   </tr>
   <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>01-Email — 谢谢</td>
   </tr>
    <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>02a — 电子邮件 — 邀请</td>
   </tr>
   <tr>
@@ -71,22 +71,22 @@ ht-degree: 7%
    <td>项目绩效</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>00 — 捕获客户获取计划</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>01 — 发送邀请</td>
   </tr>
    <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>02 — 发送跟进电子邮件</td>
   </tr>
    <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>03 — 通过跟进电子邮件参与（成功）</td>
   </tr>

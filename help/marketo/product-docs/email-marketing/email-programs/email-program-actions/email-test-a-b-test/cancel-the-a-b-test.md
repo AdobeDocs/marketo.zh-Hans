@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359600
 description: 取消A/B测试 — Marketo文档 — 产品文档
-title: 取消A/B测试
+title: 取消 A/B 测试
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 取消A/B测试 {#cancel-the-a-b-test}
+# 取消 A/B 测试 {#cancel-the-a-b-test}
 
-如果您[已将A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)添加到电子邮件计划中，并已决定不再需要它，则很容易撤消该测试。 具体方法如下。
+如果您[已将A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)添加到电子邮件计划中，并已决定不再需要它，则很容易撤消该测试。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 

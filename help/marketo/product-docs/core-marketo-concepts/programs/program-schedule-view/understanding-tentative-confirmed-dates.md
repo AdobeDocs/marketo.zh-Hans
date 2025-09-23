@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147140
 description: 了解暂定/确认日期 — Marketo文档 — 产品文档
-title: 了解暂定/确认日期
+title: 了解暂定/已确认日期
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 了解暂定/确认日期 {#understanding-tentative-confirmed-dates}
+# 了解暂定/已确认日期 {#understanding-tentative-confirmed-dates}
 
 智能营销活动和电子邮件程序具有强大的功能，可标记为&#x200B;**[!UICONTROL Tentative]**&#x200B;或&#x200B;**[!UICONTROL Confirmed]**。 以下是它们的工作方式。
 

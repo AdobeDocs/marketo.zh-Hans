@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727591
 description: Outlook用户的电子邮件连接 — Marketo文档 — 产品文档
-title: Outlook用户的电子邮件连接
+title: 为 Outlook 用户设置电子邮件连接
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -35,11 +35,11 @@ ht-degree: 1%
 
    ![](assets/three.png)
 
-1. 单击 **[!UICONTROL Get Started]**。
+1. 点击 **[!UICONTROL Get Started]**。
 
    ![](assets/four.png)
 
-1. 选择&#x200B;**[!UICONTROL I use Outlook to send emails]**&#x200B;并单击&#x200B;**[!UICONTROL Next]**。
+1. 选择 **[!UICONTROL I use Outlook to send emails]** 并点击 **[!UICONTROL Next]**。
 
    ![](assets/five-a.png)
 
@@ -98,11 +98,11 @@ ht-degree: 1%
 
    ![](assets/three.png)
 
-1. 单击 **[!UICONTROL Get Started]**。
+1. 点击 **[!UICONTROL Get Started]**。
 
    ![](assets/four.png)
 
-1. 选择&#x200B;**[!UICONTROL I use Outlook to send emails]**&#x200B;并单击&#x200B;**[!UICONTROL Next]**。
+1. 选择 **[!UICONTROL I use Outlook to send emails]** 并点击 **[!UICONTROL Next]**。
 
    ![](assets/five-a.png)
 

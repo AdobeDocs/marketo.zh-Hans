@@ -4,10 +4,10 @@ description: 管理人员数据 — Marketo文档 — 产品文档
 title: 管理人员数据
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
@@ -93,8 +93,8 @@ ht-degree: 7%
   </tr>
   <tr>
    <td><p>已取消订阅</p></td>
-   <td><p>退订</p></td>
-   <td><p>退订</p></td>
+   <td><p>已取消订阅</p></td>
+   <td><p>已取消订阅</p></td>
   </tr>
  </tbody>
 </table>

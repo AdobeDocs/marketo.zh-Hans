@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720275
 description: 在Facebook中创建自定义受众 — Marketo文档 — 产品文档
-title: 在Facebook中创建自定义受众
+title: 在 Facebook 中创建自定义受众
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. 选择&#x200B;**[!UICONTROL Facebook]**&#x200B;并单击&#x200B;**[!UICONTROL Next]**。
+1. 选择 **[!UICONTROL Facebook]** 并点击 **[!UICONTROL Next]**。
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. 单击&#x200B;**[!UICONTROL Audience]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL + New Audience]**。
+1. 点击 **[!UICONTROL Audience]** 下拉菜单，并选择 **[!UICONTROL + New Audience]**。
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359873
 description: 删除上传的图像或文件 — Marketo文档 — 产品文档
-title: 删除上传的图像或文件
+title: 删除已上传的图像或文件
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# 删除上传的图像或文件 {#delete-an-uploaded-image-or-file}
+# 删除已上传的图像或文件 {#delete-an-uploaded-image-or-file}
 
 删除图像或文件既快速又简单。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. 查找并选择所需的图像/文件。 单击&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Delete]**。
+1. 查找并选择所需的图像/文件。 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Delete]**。
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 

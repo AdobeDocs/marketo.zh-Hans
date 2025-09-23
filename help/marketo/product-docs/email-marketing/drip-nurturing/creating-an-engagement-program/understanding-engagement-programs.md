@@ -4,10 +4,10 @@ description: 了解参与计划 — Marketo文档 — 产品文档
 title: 了解参与计划
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 >
 >每个订阅有100个&#x200B;**活动**&#x200B;参与计划的限制。
 
-## 参与计划 {#engagement-program}
+## 互动项目 {#engagement-program}
 
 **参与计划**&#x200B;是一种可以轻松完成复杂培养的程序。
 
@@ -29,7 +29,7 @@ ht-degree: 1%
 >
 >[创建参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
-## 串流 {#stream}
+## 流 {#stream}
 
 **流**&#x200B;是参与计划将用于培养人员的优先级内容池。
 
@@ -54,7 +54,7 @@ ht-degree: 1%
 >* [删除流内容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [存档和取消存档流内容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## 演员阵容 {#cast}
+## 投放 {#cast}
 
 **cast**&#x200B;是从参与计划发送电子邮件的事件。
 
@@ -78,7 +78,7 @@ ht-degree: 1%
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
-## 已耗尽 {#exhausted}
+## 内容耗尽 {#exhausted}
 
 一旦用户收到流中的每一条内容，我们就会将用户称为&#x200B;**已耗尽**。
 
@@ -88,7 +88,7 @@ ht-degree: 1%
 >
 >[已用完内容的人员](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
-## 内容参与度级别 {#content-engagement-level}
+## 内容参与度水平 {#content-engagement-level}
 
 内容参与度级别为0到100分，Marketo将为您的内容提供该分数。 此数字由使用打开、点击、取消订阅、程序成功和其他因素的复杂公式确定。
 

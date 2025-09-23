@@ -1,9 +1,9 @@
 ---
 description: Dynamic Chat概述 — Marketo文档 — 产品文档
-title: Dynamic Chat概述
+title: Dynamic Chat 概述
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 4%
@@ -16,7 +16,7 @@ Dynamic Chat允许您利用简单易用的界面来定位访问您网站的人�
 
 >[!TIP]
 >
->请访问[此页面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=zh-Hans){target="_blank"}以查看Dynamic Chat的教程视频。
+>请访问[此页面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}以查看Dynamic Chat的教程视频。
 
 ## 集成 {#integrations}
 
@@ -88,7 +88,7 @@ Adobe Dynamic Chat中的[生成AI](/help/marketo/product-docs/demand-generation/
 
 ## Dynamic Chat数据保留限制 {#dynamic-chat-data-retention-limits}
 
-以下只是Dynamic Chat中的一些限制/参数。 有关完整列表，请参阅Marketo Engage [产品描述页](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
+以下只是Dynamic Chat中的一些限制/参数。 有关完整列表，请参阅Marketo Engage [产品描述页](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
 
 <table>
   <th>数据类型</th>

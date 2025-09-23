@@ -2,14 +2,15 @@
 description: 过滤电子邮件报表中的合并/删除记录 — Marketo文档 — 产品文档
 title: 过滤电子邮件报表中的合并/删除记录
 feature: Reporting
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 在电子邮件性能报表中过滤删除/合并的记录 {#filter-deleted-merged-records-in-an-email-performance-report}
+# 筛选电子邮件绩效报告中的已删除/已合并记录 {#filter-deleted-merged-records-in-an-email-performance-report}
 
 将电子邮件性能报表的重点放在程序（“本地资产”）中的电子邮件、Design Studio中的电子邮件（“全局资产”）或已存档的电子邮件上。
 

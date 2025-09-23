@@ -4,7 +4,7 @@ title: 在智能列表触发器和过滤器中使用Vibes SMS消息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在智能列表触发器和过滤器中使用Vibes SMS消息 {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-在您[创建Vibes SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}后，您将需要在智能营销活动中使用智能列表触发器和过滤器以获取好处。 具体方法如下。
+在您[创建Vibes SMS消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}后，您将需要在智能营销活动中使用智能列表触发器和过滤器以获取好处。 操作方法如下：
 
 1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Marketing Activities]**。
 

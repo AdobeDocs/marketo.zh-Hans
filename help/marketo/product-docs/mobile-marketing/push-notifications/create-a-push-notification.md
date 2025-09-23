@@ -4,10 +4,10 @@ description: 创建推送通知 — Marketo文档 — 产品文档
 title: 创建推送通知
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 创建推送通知很容易。 但是，在开始之前，您必须让Marketo管理员和移动设备应用程序开发人员设置一些您在执行此操作时所需的项目。 有关详细信息，请参阅[了解推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 

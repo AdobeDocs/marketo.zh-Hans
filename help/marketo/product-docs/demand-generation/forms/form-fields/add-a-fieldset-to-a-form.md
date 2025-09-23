@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359594
 description: 将字段集添加到表单 — Marketo文档 — 产品文档
-title: 将字段集添加到表单
+title: 向表单添加字段集
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 将字段集添加到表单 {#add-a-fieldset-to-a-form}
+# 向表单添加字段集 {#add-a-fieldset-to-a-form}
 
 字段集很酷。 他们把一栈田地组合在一起。 你也可以同时控制整个街区！
 

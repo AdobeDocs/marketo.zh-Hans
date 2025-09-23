@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557312
 description: 智能列表筛选器运算符术语表 — Marketo文档 — 产品文档
-title: 智能列表筛选器运算符术语表
+title: 智能列表过滤器运算符术语表
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 11%
+source-wordcount: '603'
+ht-degree: 15%
 
 ---
 
-# 智能列表筛选器运算符术语表 {#smart-list-filter-operators-glossary}
+# 智能列表过滤器运算符术语表 {#smart-list-filter-operators-glossary}
 
 运算符是智能列表的一部分，可帮助您获取特定内容。 它可让您以直截了当的语言描述过滤器或触发器。 每种类型的字段的可用运算符各不相同。
 
@@ -92,23 +92,23 @@ ht-degree: 11%
   </tr>
   <tr>
     <td>为空</td>
-    <td>无</td>
+    <td>None</td>
     <td>所有没有日期的记录</td>
   </tr>
   <tr>
     <td>不为空</td>
-    <td>无</td>
+    <td>None</td>
     <td>包含任何日期的所有记录</td>
   </tr>
 </tbody></table>
 
 **&#42;**&#x200B;自然语言输入很酷。 以下是您可以输入的一些模式：
 
-* 1小时
-* 82天
-* 3周
-* 14个月
-* 1年
+* 1 小时
+* 82 天
+* 3 周
+* 14 个月
+* 1 年
 
 只要输入数字和单位就行了！
 
@@ -118,7 +118,7 @@ ht-degree: 11%
 
 >[!CAUTION]
 >
->当您使用日期字段过滤器（例如，出生日期、SFDC创建日期）创建智能列表并使用约束&#x200B;**[!UICONTROL 在]**&#x200B;之前、**[!UICONTROL 在]**&#x200B;之前或之前，或者&#x200B;**[!UICONTROL 在]**&#x200B;之前时，智能列表还将包含该日期字段中无值的人员。
+>当您使用日期字段过滤器(例如，出生日期、SFDC创建日期)创建智能列表并使用约束&#x200B;**[!UICONTROL before]**、**[!UICONTROL on or before]**&#x200B;或&#x200B;**[!UICONTROL in past before]**&#x200B;时，智能列表还将包含该日期字段中无值的用户。
 
 请使用下图了解日期运算符之间的差异。
 
@@ -130,11 +130,11 @@ ht-degree: 11%
 >
 >当您处理过去和未来的事件时，日期字段可能会比较棘手。 下面是一些示例。
 >
->**[!UICONTROL 过去早于]**
+>**[!UICONTROL In past before]**
 >
 >对于新的促销活动，使用此运算符仅向一年内未订阅或续订您的服务或者从未订阅过的人发送电子邮件。
 >
->**[!UICONTROL 未来在]**&#x200B;之后
+>**[!UICONTROL In future after]**
 >
 >假设您希望查看在90天内需要续订的客户。 您将使用两个单独的过滤器。 首先使用“未来90天之后”，然后使用“未来91天”。 这样可以捕获从现在起还有90天时间的任何人。
 

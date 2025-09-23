@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359746
 description: 使用CNAME自定义登陆页面URL - Marketo文档 — 产品文档
-title: 使用CNAME自定义登陆页面URL
+title: 使用 CNAME 自定义登录页面 URL
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 使用CNAME自定义登陆页面URL {#customize-your-landing-page-urls-with-a-cname}
+# 使用 CNAME 自定义登录页面 URL {#customize-your-landing-page-urls-with-a-cname}
 
 即使Marketo托管您的登陆页面，也可以完全自定义URL。 在没有CNAME时的外观：
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359537
 description: 将代码片段添加到登陆页面 — Marketo文档 — 产品文档
-title: 向登陆页面添加代码片段
+title: 向登录页面添加代码段
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 向登陆页面添加代码片段 {#add-a-snippet-to-a-landing-page}
+# 向登录页面添加代码段 {#add-a-snippet-to-a-landing-page}
 
 代码片段是HTML中的小部分，可以遵循规则并包含个性化内容。
 

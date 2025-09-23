@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360235
 description: 创建机会影响分析器 — Marketo文档 — 产品文档
-title: 创建Opportunity影响分析器
+title: 创建商机影响分析器
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# 创建Opportunity影响分析器 {#create-an-opportunity-influence-analyzer}
+# 创建商机影响分析器 {#create-an-opportunity-influence-analyzer}
 
 使用Opportunity Influence Analyzer显示营销对重要交易的贡献。 查看您的项目和活动成功以及机会生活中的有趣时刻。
 

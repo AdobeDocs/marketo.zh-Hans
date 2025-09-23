@@ -3,20 +3,20 @@ description: 发行说明 — 2021年10月 — Marketo文档 — 产品文档
 title: 发行说明 - 2021 年 10 月
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1084'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 发行说明： 2021年10月 {#release-notes-oct-21}
+# 发行说明：2021 年 10 月 {#release-notes-oct-21}
 
-2021年10月版本中包含以下功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+2021年10月版本中包含以下功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 >[!AVAILABILITY]
 >
->以星号(![](assets/yellow-star.png))表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>以星号(![](assets/yellow-star.png))表示的功能是付费加载项。 请联系您的 Marketo Engage 代表了解更多信息。
 
 **_季度发布_**
 

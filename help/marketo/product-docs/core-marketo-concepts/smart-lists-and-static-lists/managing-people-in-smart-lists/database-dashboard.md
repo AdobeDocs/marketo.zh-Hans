@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097447
 description: 数据库功能板 — Marketo文档 — 产品文档
-title: 数据库功能板
+title: 数据库仪表板
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: a3a75e5eaebc081a96ff9a9e1490d520b40ae4ec
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 2%
 
 ---
 
-# 数据库功能板 {#database-dashboard}
+# 数据库仪表板 {#database-dashboard}
 
 数据库仪表板用作快照，帮助您快速确定有关工作区中人员的关键属性。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >* 每个工作区都有自己的数据库功能板。
 
-要到达该位置，请从“我的Marketo”中选择&#x200B;**[!UICONTROL 数据库]**。
+要到达该位置，请从“我的Marketo”中选择&#x200B;**[!UICONTROL Database]**。
 
 ![](assets/database-dashboard-1.png)
 

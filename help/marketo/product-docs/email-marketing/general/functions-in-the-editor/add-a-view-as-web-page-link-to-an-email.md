@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900560
 description: 将视图作为网页链接添加到电子邮件 — Marketo文档 — 产品文档
-title: 将视图作为网页链接添加到电子邮件
+title: 向电子邮件添加“以网页形式查看”链接
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 将视图作为网页链接添加到电子邮件 {#add-a-view-as-web-page-link-to-an-email}
+# 向电子邮件添加“以网页形式查看”链接 {#add-a-view-as-web-page-link-to-an-email}
 
 电子邮件的功能有限(CSS有限，无JavaScript或表单)。 使用“以网页形式查看”来提供链接，以在浏览器中显示您的电子邮件。 这将使用[!DNL Munchkin]对收件人进行Cookie。
 

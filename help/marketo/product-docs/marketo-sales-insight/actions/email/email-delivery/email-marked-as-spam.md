@@ -1,14 +1,14 @@
 ---
 description: 电子邮件标记为垃圾邮件 — Marketo文档 — 产品文档
-title: 电子邮件标记为垃圾邮件
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+title: 电子邮件被标记为垃圾邮件
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 电子邮件标记为垃圾邮件 {#email-marked-as-spam}
+# 电子邮件被标记为垃圾邮件 {#email-marked-as-spam}
 
 作为一家公司，我们努力确保我们的可投放性保持高水平。 但是，某些用户行为和设置可能会触发将已发送的电子邮件路由到垃圾邮件文件夹。
 

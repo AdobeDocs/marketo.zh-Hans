@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953338
 description: 从Microsoft Dynamics发送Marketo销售电子邮件 — Marketo文档 — 产品文档
-title: 从Microsoft Dynamics发送Marketo销售电子邮件
+title: 从 Microsoft Dynamics 发送 Marketo 销售电子邮件
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # 发送来自[!DNL Marketo Sales]的[!DNL Microsoft Dynamics]电子邮件 {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-您的销售团队可以发送电子邮件，并直接从[!DNL Microsoft Dynamics]中跟踪打开次数和点击次数。 具体方法如下。
+您的销售团队可以发送电子邮件，并直接从[!DNL Microsoft Dynamics]中跟踪打开次数和点击次数。 操作方法如下：
 
 1. 在[!DNL Dynamics]中，转到&#x200B;**[!UICONTROL Sales]**&#x200B;区域。
 

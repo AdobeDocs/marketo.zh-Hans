@@ -1,16 +1,16 @@
 ---
 description: 响应库 — Marketo文档 — 产品文档
-title: 响应库
+title: 回复库
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 响应库 {#response-library}
+# 回复库 {#response-library}
 
 在一个位置查看所有问题、它们的批准状态以及分配给它们的任务名称/主题。
 

@@ -1,16 +1,16 @@
 ---
 description: 预测过滤器 — Marketo文档 — 产品文档
-title: 预测过滤器
+title: 预测型过滤器
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
-# 预测过滤器 {#predictive-filters}
+# 预测型过滤器 {#predictive-filters}
 
 作为预测受众的一部分，Marketo在智能营销活动的智能列表中提供一组基于AI/ML的过滤器。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 这两个筛选器可帮助您通过定位与其他项目或智能列表成员相似的其他潜在客户来扩展当前受众。 相似人群拓展过滤器考虑了50多种因素，包括商机属性、电子邮件活动、Web活动和参与。
 
-单击&#x200B;**[!UICONTROL 添加约束]**&#x200B;为所选计划的成员选择成功标准。
+单击&#x200B;**[!UICONTROL Add Constraint]**&#x200B;为所选计划的成员选择成功标准。
 
 单击&#x200B;**+**&#x200B;图标可轻松将多个程序/智能列表添加到一个筛选器中。
 

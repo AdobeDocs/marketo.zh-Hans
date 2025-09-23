@@ -3,24 +3,24 @@ description: 发行说明 — 2024年3月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 3 月
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 3%
+ht-degree: 22%
 
 ---
 
-# 发行说明： 2024年3月 {#release-notes-mar-24}
+# 发行说明：2024 年 3 月 {#release-notes-mar-24}
 
-在下方，您会找到2024年3月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2024年3月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 >[!AVAILABILITY]
 >
->以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
 
-## 标准发行周期功能 {#standard-release-cycle-features}
+## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2024年3月8日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
+以下功能属于标准发行周期，将于&#x200B;**2024年3月8日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,8 +31,8 @@ ht-degree: 3%
   </tr>
   <tr>
    <td><strong>高级会话流逻辑</strong>：为会话流跟进添加用于评估的附加字段。</td>
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage Forms的对话流设置</a></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage 表单的会话流设置</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -42,8 +42,8 @@ ht-degree: 3%
    </tr>
     <tr>
    <td><strong>重新排序对话流逻辑</strong>：在Marketo Engage Forms中，您现在可以重新排序对话流选择，而不必删除并重新添加。</td>
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage Forms的对话流设置</a></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage 表单的会话流设置</a></td>
    </tr>
   <tr>
    <td> </td>
@@ -53,7 +53,7 @@ ht-degree: 3%
     <tr>
    <td><strong>API活动元数据</strong>：
    Web活动和电子邮件活动现在包含用户代理、平台和设备等元数据，这有助于通过Marketo REST API提供对这些活动的一致见解。</td>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
  </tbody>

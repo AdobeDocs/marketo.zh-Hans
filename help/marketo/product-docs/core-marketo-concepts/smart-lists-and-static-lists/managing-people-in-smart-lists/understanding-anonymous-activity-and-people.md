@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147322
 description: 了解匿名活动和人员 — Marketo文档 — 产品文档
-title: 了解匿名活动和人员
+title: 了解匿名活动与人员
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 了解匿名活动和人员 {#understanding-anonymous-activity-and-people}
+# 了解匿名活动与人员 {#understanding-anonymous-activity-and-people}
 
 首次访问Marketo登陆页面(或网站上具有[Munchkin跟踪代码](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}的页面)时，Marketo会创建一个&#x200B;*匿名活动*&#x200B;并使用浏览器Cookie对其进行跟踪。 标识后，它就会成为人员，并且与其浏览器Cookie关联的历史记录将合并到中。
 

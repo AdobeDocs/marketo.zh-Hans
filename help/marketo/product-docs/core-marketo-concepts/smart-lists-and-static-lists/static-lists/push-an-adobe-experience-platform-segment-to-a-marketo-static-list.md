@@ -1,16 +1,16 @@
 ---
 description: 将Adobe Experience Platform区段推送到Marketo静态列表 — Marketo文档 — 产品文档
-title: 将Adobe Experience Platform区段推送到Marketo静态列表
+title: 将 Adobe Experience Platform 区段推送到 Marketo 静态列表
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '601'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 将Adobe Experience Platform区段推送到Marketo静态列表 {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
+# 将 Adobe Experience Platform 区段推送到 Marketo 静态列表 {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
 此功能允许您以静态列表的形式将Adobe Experience Platform中的区段推送到Marketo Engage。
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可以将属性从Experience Platform映射到您的组织在Marketo Engage中有权访问的任何属性。 使用[Describe API请求](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}检索您的组织有权访问的属性字段。
+   >您可以将属性从Experience Platform映射到您的组织在Marketo Engage中有权访问的任何属性。 使用[Describe API请求](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}检索您的组织有权访问的属性字段。
 
 1. 通过再次单击&#x200B;**[!UICONTROL Add New Mapping]**&#x200B;并重复步骤15两次，依次选择&#x200B;**[!UICONTROL lastName]**&#x200B;和&#x200B;**[!UICONTROL companyName]**&#x200B;来映射姓氏和公司名称。
 

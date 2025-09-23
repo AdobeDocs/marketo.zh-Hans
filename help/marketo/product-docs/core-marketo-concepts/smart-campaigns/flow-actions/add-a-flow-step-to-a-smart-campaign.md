@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146944
 description: 向Smart Campaign添加流程步骤 — Marketo文档 — 产品文档
-title: 向智能营销活动添加流量步骤
+title: 向智能营销活动添加流程步骤
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: e7211ff1336e0b7dc730ed113ce8b7cbfe986c70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
-# 向智能营销活动添加流量步骤 {#add-a-flow-step-to-a-smart-campaign}
+# 向智能营销活动添加流程步骤 {#add-a-flow-step-to-a-smart-campaign}
 
-流程步骤告知Marketo Engage您希望对符合条件的一组人发生的情况。
+流程步骤告知Marketo Engage您希望对符合条件的一组人员发生的情况。
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. 选择您的Smart Campaign并单击&#x200B;**[!UICONTROL 流量]**。
+1. 选择您的Smart Campaign并单击&#x200B;**[!UICONTROL Flow]**。
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 

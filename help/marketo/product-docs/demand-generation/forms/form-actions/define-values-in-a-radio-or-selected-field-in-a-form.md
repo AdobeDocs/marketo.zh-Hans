@@ -4,16 +4,16 @@ description: 在表单的单选字段或选定字段中定义值 — Marketo文�
 title: 定义表单中单选或选定字段的值
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
 # 定义表单中单选或选定字段的值 {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-一旦您[将字段类型](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)设置为单选按钮或选择类型，您将需要定义用户可选择的值。 具体方法如下。
+一旦您[将字段类型](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)设置为单选按钮或选择类型，您将需要定义用户可选择的值。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 

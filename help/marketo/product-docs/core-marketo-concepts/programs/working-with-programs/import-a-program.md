@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147108
 description: 导入程序 — Marketo文档 — 产品文档
-title: 导入项目群
+title: 导入项目
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 0%
+source-wordcount: '536'
+ht-degree: 2%
 
 ---
 
-# 导入项目群 {#import-a-program}
+# 导入项目 {#import-a-program}
 
 程序可以从一个Marketo Engage订阅导入到另一个订阅。 例如，您可以在沙盒中创建程序，然后将其导入您的实时订阅。 此外，您还可以从[Marketo程序库](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}导入预建程序。
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 导入项目群 {#importing-a-program}
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/import-a-program-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表并选择&#x200B;**[!UICONTROL 导入程序]**。
+1. 点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL Import Program]**。
 
    ![](assets/import-a-program-2.png)
 
@@ -35,19 +35,19 @@ ht-degree: 0%
    >
    >* 要将沙盒帐户连接到您的实时订阅，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
 
-1. 选择要导入的Marketo **[!UICONTROL 订阅]**&#x200B;和程序。 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 选择要导入的Marketo **[!UICONTROL Subscription]**&#x200B;和程序。 单击 **[!UICONTROL Next]**。
 
    ![](assets/import-a-program-3.png)
 
-1. 为导入的程序指定&#x200B;**[!UICONTROL Campaign文件夹]**。 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 为导入的程序指定&#x200B;**[!UICONTROL Campaign Folder]**。 单击 **[!UICONTROL Next]**。
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >确保选择&#x200B;**[!UICONTROL 使用默认冲突]**&#x200B;规则。 将项目导入具有相同名称的实例时，需要冲突规则。
+   >确保选择&#x200B;**[!UICONTROL Use default conflict]**&#x200B;规则。 将项目导入具有相同名称的实例时，需要冲突规则。
 
-1. 选择所需的冲突详细信息，然后单击&#x200B;**[!UICONTROL 下一步]**。
+1. 选择所需的冲突详细信息，然后单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/import-a-program-5.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
    >
    >将使用自定义流程步骤或从“流程步骤服务”派生的智能列表规则的程序导入到目标实例中，其中存在多个兼容服务提供程序，将提示导入用户将步骤或规则分配给目标实例中的正确服务提供程序。
 
-1. 预览详细信息并&#x200B;**[!UICONTROL 导入]**&#x200B;程序。
+1. 预览详细信息并&#x200B;**[!UICONTROL Import]**&#x200B;计划。
 
    ![](assets/import-a-program-6.png)
 

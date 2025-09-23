@@ -1,15 +1,15 @@
 ---
 description: 在Salesforce中使用批量发送销售电子邮件 — Marketo文档 — 产品文档
-title: 在Salesforce中使用批量发送销售电子邮件
+title: 在 Salesforce 中批量发送销售电子邮件
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '596'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 在Salesforce中使用批量发送销售电子邮件 {#using-bulk-send-sales-email-in-salesforce}
+# 在 Salesforce 中批量发送销售电子邮件 {#using-bulk-send-sales-email-in-salesforce}
 
 了解如何在Salesforce中发送批量电子邮件，以帮助使用销售操作扩展出站通信。
 

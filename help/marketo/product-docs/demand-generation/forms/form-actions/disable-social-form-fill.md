@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098242
 description: 禁用社交表单填充 — Marketo文档 — 产品文档
-title: 禁用社交表单填充
+title: 禁用社交表单自动填充
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# 禁用社交表单填充 {#disable-social-form-fill}
+# 禁用社交表单自动填充 {#disable-social-form-fill}
 
 有时，您不再希望网站访客使用社交个人资料提交表单。 以下是禁用方法。
 

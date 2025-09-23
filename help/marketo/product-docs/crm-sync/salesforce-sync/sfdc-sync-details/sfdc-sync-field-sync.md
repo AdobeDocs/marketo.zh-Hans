@@ -4,14 +4,14 @@ description: SFDC同步 — 字段同步 — Marketo文档 — 产品文档
 title: SFDC同步 — 字段同步
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
-# SFDC同步：字段同步 {#sfdc-sync-field-sync}
+# SFDC 同步：字段同步 {#sfdc-sync-field-sync}
 
 Marketo从[!DNL Salesforce]同步字段信息。 详情如下。
 

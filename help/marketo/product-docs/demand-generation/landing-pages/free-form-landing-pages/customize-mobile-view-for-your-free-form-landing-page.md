@@ -1,23 +1,23 @@
 ---
 unique-page-id: 5472283
 description: 自定义自由表单登陆页面的移动视图 — Marketo文档 — 产品文档
-title: 自定义自由表单登陆页面的移动设备视图
+title: 为您的自由格式登录页面自定义移动端视图
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '355'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 自定义自由表单登陆页面的移动设备视图 {#customize-mobile-view-for-your-free-form-landing-page}
+# 为您的自由格式登录页面自定义移动端视图 {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
 >[为您的自由格式登陆页面添加移动视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-自由格式登陆页面的移动设备视图大多是自动的，但您可以对其进行自定义。 具体方法如下。
+自由格式登陆页面的移动设备视图大多是自动的，但您可以对其进行自定义。 操作方法如下：
 
 1. 选择您的自由格式登陆页面。
 

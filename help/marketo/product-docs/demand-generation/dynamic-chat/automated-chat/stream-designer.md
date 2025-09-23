@@ -3,7 +3,7 @@ description: Designer流 — Marketo文档 — 产品文档
 title: 流设计器
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1175'
 ht-degree: 1%
@@ -109,7 +109,7 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放&#x200B;_[!UICONTROL Question]_&#x200B;信息卡。
+1. 拖放&#x200B;_[!UICONTROL Question]_信息卡。
 
    ![](assets/stream-designer-7.png)
 
@@ -145,7 +145,7 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
 
    ![](assets/stream-designer-11.png)
 
-1. 由于这是目标，请将&#x200B;_[!UICONTROL Goal]_&#x200B;卡拖动到会议预订下。
+1. 由于这是目标，请将&#x200B;_[!UICONTROL Goal]_卡拖动到会议预订下。
 
    ![](assets/stream-designer-12.png)
 
@@ -177,7 +177,7 @@ Stream Designer包含多个卡，您可以添加这些卡来塑造聊天对话�
 
    ![](assets/stream-designer-18.png)
 
-1. 由于收集其电子邮件是一个目标，因此请将&#x200B;_[!UICONTROL Goal]_&#x200B;信息卡拖动到“信息捕获”下方。
+1. 由于收集其电子邮件是一个目标，因此请将&#x200B;_[!UICONTROL Goal]_信息卡拖动到“信息捕获”下方。
 
    ![](assets/stream-designer-19.png)
 

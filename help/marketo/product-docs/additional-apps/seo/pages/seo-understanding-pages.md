@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949184
 description: SEO — 了解页面 — Marketo文档 — 产品文档
-title: SEO — 了解页面
+title: SEO - 了解页面
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '267'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# SEO — 了解页面 {#seo-understanding-pages}
+# SEO - 了解页面 {#seo-understanding-pages}
 
 ## 页面优化得分/待办事项小组件 {#page-optimization-score-to-do-widget}
 

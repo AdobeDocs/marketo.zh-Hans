@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504218
 description: Google Universal Analytics中的自定义RTP报表 — Marketo文档 — 产品文档
-title: Google Universal Analytics中的自定义RTP报表
+title: 在 Google Universal Analytics 中自定义 RTP 报告
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# Google Universal Analytics中的自定义RTP报表 {#custom-rtp-reports-in-google-universal-analytics}
+# 在 Google Universal Analytics 中自定义 RTP 报告 {#custom-rtp-reports-in-google-universal-analytics}
 
 >[!PREREQUISITES]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472615
 description: 了解系统管理的字段 — Marketo文档 — 产品文档
-title: 了解系统管理的字段
+title: 了解系统管理字段
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '523'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
-# 了解系统管理的字段 {#understanding-system-managed-fields}
+# 了解系统管理字段 {#understanding-system-managed-fields}
 
 您可能已经注意到[人员详细信息页面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}包含由Marketo创建的一系列不可编辑的字段。 这些数据来自不同的来源，而且有无数值可以显示。
 

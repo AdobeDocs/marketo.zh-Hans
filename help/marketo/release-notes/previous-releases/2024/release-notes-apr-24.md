@@ -3,26 +3,26 @@ description: 发行说明 — 2024年4月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 4 月
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 3%
+ht-degree: 21%
 
 ---
 
-# 发行说明： 2024年4月 {#release-notes-apr-24}
+# 发行说明：2024 年 4 月 {#release-notes-apr-24}
 
-在下方，您会找到2024年4月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2024年4月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
-可以在此处[找到特定于Adobe Dynamic Chat ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}的发行说明。
+Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 >[!AVAILABILITY]
 >
->以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
 
-## 标准发行周期功能 {#standard-release-cycle-features}
+## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2024年4月26日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
+以下功能属于标准发行周期，将于&#x200B;**2024年4月26日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ ht-degree: 3%
   </tr>
      <tr>
    <td><strong>交互式网络研讨会增强功能</strong>：您现在可以为主持人和演示者提供以下功能：添加网络研讨会标题、重命名聊天室，以及在事件交付后手动同步参与数据。</td>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">创建交互式网络研讨会</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手动同步</a></li></td>
   </tr>
@@ -66,8 +66,8 @@ ht-degree: 3%
    <li>创建列表</li>
    <li>导出营销活动活动</li>
    </td>
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">角色权限描述</a></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">角色权限说明</a></td>
   </tr>
  </tbody>
 </table>

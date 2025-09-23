@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146940
 description: 为Smart Campaign定义智能列表 | 批次 — Marketo文档 — 产品文档
-title: 为Smart Campaign定义智能列表 | 批次
+title: 为智能营销活动定义智能列表 | 批处理
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 为Smart Campaign定义智能列表 | 批次 {#define-smart-list-for-smart-campaign-batch}
+# 为智能营销活动定义智能列表 | 批处理 {#define-smart-list-for-smart-campaign-batch}
 
 智能列表是整个Marketo Engage中用于定义要包括的“人员”（哪些人员）的机制，无论是报表、列表还是智能营销活动。 以下是如何为批处理营销活动定义智能列表。
 

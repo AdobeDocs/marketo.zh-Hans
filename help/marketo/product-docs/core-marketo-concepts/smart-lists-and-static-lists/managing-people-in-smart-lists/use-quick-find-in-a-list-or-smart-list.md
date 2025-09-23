@@ -4,10 +4,10 @@ description: 在列表或智能列表中使用快速查找 — Marketo文档 —
 title: 在列表或智能列表中使用快速查找
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 13%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 使用快速查找从列表或智能列表的结果中查找人员。
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择要搜索的智能列表，然后单击&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡。
+1. 选择要搜索的智能列表，然后单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡。
 
    ![](assets/smartlistpeople.png)
 
 ## 使用个人信息查找人员 {#find-people-using-personal-info}
 
-1. 在屏幕底部的&#x200B;**[!UICONTROL 快速查找]**&#x200B;框中，键入关键字（**个人姓名**、**电子邮件地址**&#x200B;或&#x200B;**职务**）。
+1. 在屏幕底部的&#x200B;**[!UICONTROL Quick Find]**&#x200B;框中，键入关键字（**个人姓名**、**电子邮件地址**&#x200B;或&#x200B;**工作标题**）。
 
    ![](assets/searchpeople.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13795510
 description: TAM层次结构 — Marketo文档 — 产品文档
-title: TAM层次结构
+title: TAM 层级
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# TAM层次结构 {#tam-hierarchies}
+# TAM 层级 {#tam-hierarchies}
 
 层次结构使TAM用户能够继承其CRM中[!UICONTROL Named Accounts]之间的父/子关系。
 

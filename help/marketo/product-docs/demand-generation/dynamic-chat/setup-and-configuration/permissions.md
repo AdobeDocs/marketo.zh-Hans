@@ -3,7 +3,7 @@ description: 权限 — Marketo文档 — 产品文档
 title: 权限
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 4%
@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # 权限 {#permissions}
 
-有五个默认配置文件具有预定义权限，您可以在Dynamic Chat中编辑。 您还可以创建具有自定义权限集的自定义用户档案。 我们来看看这两个。
+在Dynamic Chat中有五个默认配置文件具有预定义权限，您可以编辑它们。 您还可以创建具有自定义权限集的自定义用户档案。 我们来看看这两个。
 
 ## 编辑现有权限 {#edit-existing-permissions}
 
@@ -84,10 +84,10 @@ ht-degree: 4%
     <td>对话管理</td>
     <td><li>查看对话框</li>
     <li>管理对话框（创建、删除）</li>
-    <li>Publish对话框</li>
+    <li>发布对话框</li>
     <li>查看对话流</li>
     <li>管理对话流（创建、删除）</li>
-    <li>Publish对话流</li></td>
+    <li>发布对话流</li></td>
   </tr>
   <tr>
     <td>实时聊天</td>
@@ -140,7 +140,7 @@ ht-degree: 4%
 <table>
 <thead>
   <tr>
-    <th style="width:25%">配置文件</th>
+    <th style="width:25%">轮廓</th>
     <th>默认权限</th>
   </tr>
 </thead>
@@ -150,10 +150,10 @@ ht-degree: 4%
     <td><i>对话管理</i>
     <li>查看对话框</li>
     <li>管理对话框（创建、删除）</li>
-    <li>Publish对话框</li>
+    <li>发布对话框</li>
     <li>查看对话流</li>
     <li>管理对话流（创建、删除）</li>
-    <li>Publish对话流</li>
+    <li>发布对话流</li>
     <br>
     <i>实时聊天</i>
     <li>不适用</li>
@@ -238,10 +238,10 @@ ht-degree: 4%
     <td><i>对话管理</i>
     <li>查看对话框</li>
     <li>管理对话框（创建、删除）</li>
-    <li>Publish对话框</li>
+    <li>发布对话框</li>
     <li>查看对话流</li>
     <li>管理对话流（创建、删除）</li>
-    <li>Publish对话流</li>
+    <li>发布对话流</li>
     <br>
     <i>实时聊天</i>
     <li>不适用</li>

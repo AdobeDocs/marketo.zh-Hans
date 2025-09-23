@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356429
 description: 在Microsoft中创建任务 — Marketo文档 — 产品文档
-title: 在Microsoft中创建任务
+title: 在 Microsoft 中创建任务
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '164'
+ht-degree: 4%
 
 ---
 
-# 在Microsoft中创建任务 {#create-task-in-microsoft}
+# 在 Microsoft 中创建任务 {#create-task-in-microsoft}
 
 作为营销人员，您掌握的信息可帮助销售人员完成交易。 您可以创建任务，以告知他们应该做什么以及何时应该做什么。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->当Marketo同步用户创建任务时，**[!UICONTROL 在]**&#x200B;中到期是将在[!DNL Microsoft]中创建的任务的必填字段。 如果未输入值，Marketo将默认输入5天。
+>当Marketo同步用户创建任务时，**[!UICONTROL Due In]**&#x200B;是将在[!DNL Microsoft]中创建的任务的必填字段。 如果未输入值，Marketo将默认输入5天。
 
 自定义所有字段以您希望的方式创建任务。
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以在&#x200B;**[!UICONTROL 主题]**&#x200B;和&#x200B;**[!UICONTROL 描述]**&#x200B;中使用`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`和`{{system.tokens}}`。 有关更多详细信息，请参阅流程步骤[令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}。
+>您可以在`{{lead.tokens}}`和`{{company.tokens}}`中使用`{{campaign.tokens}}`、`{{system.tokens}}`、**[!UICONTROL Subject]**&#x200B;和&#x200B;**[!UICONTROL Description]**。 有关更多详细信息，请参阅流程步骤[令牌](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}。

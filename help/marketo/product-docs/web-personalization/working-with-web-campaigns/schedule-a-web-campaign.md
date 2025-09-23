@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097100
 description: 计划Web营销活动 — Marketo文档 — 产品文档
-title: 计划Web营销活动
+title: 计划 Web 营销活动
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 计划Web营销活动 {#schedule-a-web-campaign}
+# 计划 Web 营销活动 {#schedule-a-web-campaign}
 
 如果您知道希望何时运行Web营销活动，则可以提前对其进行计划。 可以轻松设置开始和停止日期、重复日期和多天。
 

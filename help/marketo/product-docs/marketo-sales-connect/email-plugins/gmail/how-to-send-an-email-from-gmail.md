@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352440
 description: 如何从Gmail发送电子邮件 — Marketo文档 — 产品文档
-title: 如何从Gmail发送电子邮件
+title: 如何通过 Gmail 发送电子邮件
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 如何从Gmail发送电子邮件 {#how-to-send-an-email-from-gmail}
+# 如何通过 Gmail 发送电子邮件 {#how-to-send-an-email-from-gmail}
 
 >[!CAUTION]
 >

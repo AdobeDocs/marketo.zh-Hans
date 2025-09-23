@@ -4,16 +4,16 @@ description: 请参阅参与计划的成员 — Marketo文档 — 产品文档
 title: 查看参与计划的成员
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
 # 查看参与计划的成员 {#see-members-of-an-engagement-program}
 
-您可以快速查看参与计划的成员。 具体方法如下。
+您可以快速查看参与计划的成员。 操作方法如下：
 
 1. 从参与计划中，右键单击并选择&#x200B;**[!UICONTROL View Members]**。
 

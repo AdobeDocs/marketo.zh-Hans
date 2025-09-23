@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097747
 description: 将自定义度量添加到收入资源管理器报表 — Marketo文档 — 产品文档
-title: 将自定义度量添加到收入资源管理器报表
+title: 向收入探索器报告添加自定义度量
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 将自定义度量添加到收入资源管理器报表 {#adding-custom-measures-to-a-revenue-explorer-report}
+# 向收入探索器报告添加自定义度量 {#adding-custom-measures-to-a-revenue-explorer-report}
 
 有时，您需要在报表中进行自定义测量。 创建您自己的报表很容易。
 

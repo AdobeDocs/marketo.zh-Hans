@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147112
 description: 了解标记 — Marketo文档 — 产品文档
-title: 了解标记
+title: 了解标签
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# 了解标记 {#understanding-tags}
+# 了解标签 {#understanding-tags}
 
 您现在可能知道，程序就像Marketo Engage中的构建基块。 利用标记和渠道将帮助您过滤用于报告的数据。
 

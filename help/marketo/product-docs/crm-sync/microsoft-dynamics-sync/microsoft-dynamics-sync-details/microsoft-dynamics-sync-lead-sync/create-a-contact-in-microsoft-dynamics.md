@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095389
 description: 在Microsoft Dynamics中创建联系人 — Marketo文档 — 产品文档
-title: 在Microsoft Dynamics中创建联系人
+title: 在 Microsoft Dynamics 中创建联系人
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 

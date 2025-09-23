@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147150
 description: 在项目中使用标记 — Marketo文档 — 产品文档
-title: 在项目中使用标记
+title: 在项目中使用标签
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
-# 在项目中使用标记 {#use-tags-in-a-program}
+# 在项目中使用标签 {#use-tags-in-a-program}
 
 标记是描述程序的属性，用于在报表中对程序类型进行分组。
 

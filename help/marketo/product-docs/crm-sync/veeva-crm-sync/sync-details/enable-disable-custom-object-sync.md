@@ -3,10 +3,10 @@ description: 启用/禁用自定义对象同步 — Marketo文档 — 产品文�
 title: 启用/禁用自定义对象同步
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

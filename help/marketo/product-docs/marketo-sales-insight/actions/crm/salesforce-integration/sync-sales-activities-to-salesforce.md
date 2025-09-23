@@ -1,25 +1,25 @@
 ---
-description: 将Sales Activities同步到Salesforce - Marketo文档 — 产品文档
-title: 将Sales Activities同步到Salesforce
+description: 将销售活动同步到Salesforce - Marketo文档 — 产品文档
+title: 将销售活动同步到 Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '761'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 将Sales Activities同步到Salesforce {#sync-sales-activities-to-salesforce}
+# 将销售活动同步到 Salesforce {#sync-sales-activities-to-salesforce}
 
-您可以配置Actions Salesforce Sync Settings以将电子邮件和调用活动记录到Salesforce。 这样可以让处理CRM的团队更清晰地了解情况，并且允许经理使用这些活动构建自定义Salesforce报表来跟踪团队表现。
+您可以配置“Salesforce同步设置”操作，以将电子邮件和调用活动记录到Salesforce。 这样可以让处理CRM的团队更清晰地了解情况，并且允许经理使用这些活动构建自定义Salesforce报表来跟踪团队表现。
 
 ## 通过API将电子邮件活动记录到Salesforce {#logging-email-activity-to-salesforce-via-api}
 
-此功能要求您使用Enterprise/Unlimited版的Salesforce，或者是Professional版（如果您通过Web Services API购买了集成）。
+此功能要求您使用Salesforce的Enterprise/Unlimited版本或Professional版本（如果您已通过Web服务API购买集成）。
 
 >[!PREREQUISITES]
 >
->必须连接Salesforce和Sales Insight Actions。
+>Salesforce和Sales Insight Actions必须相连。
 
 1. 在Sales Insight操作中，单击齿轮图标并选择&#x200B;**设置**。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/sync-sales-activities-to-salesforce-3.png)
 
-1. 单击“将电子邮件活动记录到Salesforce”旁边的箭头。
+1. 单击“Log Email Activity to Salesforce（将电子邮件活动记录到）”旁边的箭头。
 
    ![](assets/sync-sales-activities-to-salesforce-4.png)
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
    ![](assets/sync-sales-activities-to-salesforce-5.png)
 
-## 通过电子邮件将Email Activity记录到Salesforce (BCC) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
+## 通过电子邮件将电子邮件活动记录到Salesforce到Salesforce （密送） {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
-激活“发送电子邮件至Salesforce （密件抄送）”后，您将收到销售电子邮件的密件抄送，并且您的电子邮件将记录为有关机会、潜在客户和联系人的活动。
+激活“发送电子邮件至Salesforce （密送）”后，您将收到销售电子邮件的密送，并且您的电子邮件将记录为有关机会、潜在客户和联系人的活动。
 
 >[!PREREQUISITES]
 >
->必须连接Salesforce和Sales Insight Actions。
+>Salesforce和Sales Insight Actions必须相连。
 
 **通过电子邮件在Salesforce中记录电子邮件（密件抄送）**
 
@@ -63,24 +63,24 @@ ht-degree: 0%
 
    ![](assets/sync-sales-activities-to-salesforce-8.png)
 
-1. 单击&#x200B;**Email to Salesforce （密件抄送）**&#x200B;选项卡，然后单击&#x200B;**激活**。
+1. 单击&#x200B;**发送到Salesforce （密件抄送）的电子邮件**&#x200B;选项卡，然后单击&#x200B;**激活**。
 
    ![](assets/sync-sales-activities-to-salesforce-9.png)
 
-如果由于某种原因导致您发送到Salesforce的电子邮件地址无法提取，请按照以下步骤在Salesforce帐户中激活密件抄送功能：
+如果由于某种原因导致您发送到Salesforce的电子邮件地址无法提取，请按照以下步骤在您的Salesforce帐户中激活密件抄送功能：
 
-1. 登录到Salesforce实例。
+1. 登录到您的Salesforce实例。
 1. 在右上角找到您的用户名，然后选择下拉栏。
 1. 选择&#x200B;**我的设置**。
 1. 选择&#x200B;**电子邮件**。
 1. 选择&#x200B;**我的电子邮件至Salesforce**。
-1. 在此页面上，您将看到一个标记为“Email to Salesforce Address”的字段。 如果旁边未填充任何内容，请向下滚动到“我的可接受电子邮件地址”。
+1. 在此页面上，您将看到一个标记为“发送到Salesforce地址的电子邮件”的字段。 如果旁边未填充任何内容，请向下滚动到“我的可接受电子邮件地址”。
 1. 输入您希望密件抄送的电子邮件地址。
 1. 单击&#x200B;**保存更改**。
 
-**在“我的设置”中找不到我发送给Salesforce的电子邮件**
+**在“我的设置”中找不到我发送到Salesforce的电子邮件**
 
-如果在您的“设置”下未看到“我发送到Salesforce的电子邮件”，则可能是管理员未启用它。 如果您的团队不熟悉Salesforce，或者您的团队从未使用Salesforce提供的密件抄送地址，则可能会发生这种情况。
+如果在“设置”下未看到“我发送到Salesforce的电子邮件”，则可能是因为管理员未启用它。 如果您的团队不熟悉Salesforce，或者您的团队从未使用Salesforce提供的密件抄送地址，则可能会发生这种情况。
 
 >[!NOTE]
 >
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 1. 单击&#x200B;**设置**。
 1. 单击&#x200B;**电子邮件管理**。
-1. 单击&#x200B;**发送电子邮件至Salesforce**。
+1. 单击&#x200B;**通过电子邮件发送到Salesforce**。
 1. 单击&#x200B;**编辑**。
 1. 选中“活动”旁边的框。
 1. 单击&#x200B;**保存**。
@@ -107,19 +107,19 @@ ht-degree: 0%
 
    ![](assets/sync-sales-activities-to-salesforce-12.png)
 
-1. 单击“将Marketo Sales Tasks/提醒同步到Salesforce Tasks”旁边的箭头。
+1. 单击“将Marketo销售任务/提醒同步到Salesforce任务”旁边的箭头。
 
    ![](assets/sync-sales-activities-to-salesforce-13.png)
 
-1. 选择所需的选项（默认情况下选中“不同步到Salesforce任务”）。
+1. 选择所需的选项(默认情况下选中“不同步到Salesforce任务”)。
 
    ![](assets/sync-sales-activities-to-salesforce-14.png)
 
-## 首次将Sales Insight Actions任务与Salesforce同步 {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+## 首次将Sales Insight操作任务与Salesforce同步 {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
 
-当您首次打开Sales Insight Actions与Salesforce任务之间的同步时，我们会导入您的Salesforce任务。 我们不会将您在Sales Insight Actions中拥有的任何当前任务推送到Salesforce。 为了减少混乱和重复情况，从Sales Insight Actions同步到Salesforce中的唯一任务是在您将Sales Insight Actions与SFDC同步之后创建的任务。
+当您首次打开Sales Insight Actions与Salesforce任务之间的同步时，我们会导入您的Salesforce任务。 我们不会将您在Sales Insight Actions中拥有的任何当前任务转移到Salesforce。 为了减少杂乱和重复情况，从Sales Insight操作同步到Salesforce中的唯一任务是在您将Sales Insight操作与SFDC同步之后创建的任务。
 
-以下是同步Sales Insight Actions和SFDC任务时会出现的情况：
+以下是同步Sales Insight Actions和SFDC任务时所发生的情况：
 
 * 在同步的任务上单击“保存”后，它们就会开始进行同步。 这最初将需要一些时间。
 
@@ -127,8 +127,8 @@ ht-degree: 0%
 
 * 如果以前启用了同步，并且您删除了SFDC中的任何任务，则过去15天内删除的任何任务都将从命令中心删除。
 
-* 只要启用了同步，我们就会一直在Sales Insight Actions和SFDC之间同步任务。
+* 我们将不断在Sales Insight Actions与SFDC之间同步任务，只要同步已启用即可。
 
-* 在初始同步后，您在Sales Insight Actions中创建、编辑、完成或删除的任何任务都将同步到Salesforce中的任务列表。 在Salesforce中创建、编辑、完成或删除的任何内容，都将在Sales Insight Actions中更新您的任务列表。
+* 初次同步后，您在Sales Insight Actions中创建、编辑、完成或删除的任何任务都将同步到Salesforce中的任务列表。 在Salesforce中创建、编辑、完成或删除的任何内容，都会在Sales Insight Actions中更新您的任务列表。
 
 * 要打开此同步，只需选中Web应用程序中“设置”页面中的同步框。

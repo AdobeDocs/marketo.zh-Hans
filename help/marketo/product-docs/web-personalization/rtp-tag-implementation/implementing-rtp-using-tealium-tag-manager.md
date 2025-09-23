@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9437340
 description: 使用Tealium Tag Manager实施RTP - Marketo文档 — 产品文档
-title: 使用Tealium标签管理器实施RTP
+title: 使用 Tealium 标记管理器实施 RTP
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 

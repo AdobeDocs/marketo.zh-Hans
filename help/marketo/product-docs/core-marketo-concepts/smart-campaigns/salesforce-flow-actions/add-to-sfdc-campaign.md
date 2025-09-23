@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147034
 description: 添加到SFDC Campaign - Marketo文档 — 产品文档
-title: 添加到SFDC Campaign
+title: 添加到 SFDC 营销活动
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 添加到SFDC Campaign {#add-to-sfdc-campaign}
+# 添加到 SFDC 营销活动 {#add-to-sfdc-campaign}
 
 此流程步骤可以在Marketo Engage营销活动中使用，也可以作为单个流程步骤在Salesforce营销活动中添加人员作为潜在客户。 如果Salesforce中尚不存在该商机，则它会自动同步到并添加到具有指定状态的营销活动中。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360005
 description: 公司Web活动报表 — Marketo文档 — 产品文档
-title: 公司Web活动报表
+title: 公司 Web 活动报告
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# 公司Web活动报表 {#company-web-activity-report}
+# 公司 Web 活动报告 {#company-web-activity-report}
 
 查看哪些公司正在访问您的网站。 您可以选择在同一报表中显示已知访客或匿名访客，但不能同时显示两者。
 

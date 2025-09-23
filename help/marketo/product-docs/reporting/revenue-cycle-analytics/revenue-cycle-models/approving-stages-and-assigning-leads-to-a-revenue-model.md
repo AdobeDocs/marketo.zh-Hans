@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718683
 description: 批准阶段并将潜在客户分配给收入模型 — Marketo文档 — 产品文档
-title: 审批阶段并将销售线索分配给收入模型
+title: 批准阶段并将潜在客户分配到收入模型
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 审批阶段并将销售线索分配给收入模型 {#approving-stages-and-assigning-leads-to-a-revenue-model}
+# 批准阶段并将潜在客户分配到收入模型 {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
 通过添加现有潜在客户、为任何新潜在客户创建分配规则，启动并运行您的&#x200B;**收入模型**。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 让我们在添加任何潜在客户之前批准模型的各个阶段。
 
-1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;区域。
+1. 进入 **[!UICONTROL Analytics]** 区域。
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 

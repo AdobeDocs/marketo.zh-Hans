@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951877
 description: 了解项目机会分析区域 — Marketo文档 — 产品文档
-title: 了解计划机会分析领域
+title: 了解项目商机分析区域
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '907'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 了解计划机会分析领域 {#understanding-the-program-opportunity-analysis-area}
+# 了解项目商机分析区域 {#understanding-the-program-opportunity-analysis-area}
 
 ## 概述 {#overview}
 

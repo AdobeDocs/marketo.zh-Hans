@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359734
 description: 预览包含动态内容的登陆页面 — Marketo文档 — 产品文档
-title: 预览包含动态内容的登陆页面
+title: 预览包含动态内容的登录页面
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# 预览包含动态内容的登陆页面 {#preview-a-landing-page-with-dynamic-content}
+# 预览包含动态内容的登录页面 {#preview-a-landing-page-with-dynamic-content}
 
 添加动态内容后预览登陆页面，确保一切看起来与预期的一样。
 

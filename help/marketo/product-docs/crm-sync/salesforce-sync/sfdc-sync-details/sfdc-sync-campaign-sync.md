@@ -4,14 +4,14 @@ description: SFDC同步 — Campaign同步 — Marketo文档 — 产品文档
 title: SFDC同步 — Campaign同步
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '360'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# SFDC同步： Campaign同步 {#sfdc-sync-campaign-sync}
+# SFDC 同步：营销活动同步 {#sfdc-sync-campaign-sync}
 
 Marketo项目可以与[!DNL Salesforce]营销活动同步。 下面是其工作原理的概述。
 

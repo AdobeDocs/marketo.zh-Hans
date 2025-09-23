@@ -4,10 +4,10 @@ description: 导入[!UICONTROL Named Accounts] - Marketo文档 — 产品文档
 title: 导入[!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '440'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 CSV中已经满是潜在的目标帐户吗？ 将它们直接导入TAM！
 
-1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Import Named Accounts]**。
+1. 点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL Import Named Accounts]**。
 
    ![](assets/inaone.png)
 
@@ -27,7 +27,7 @@ CSV中已经满是潜在的目标帐户吗？ 将它们直接导入TAM！
    >
    >在您的文件中，提供[尽可能多的信息](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes)。 您只能添加固件信息；Marketo不计算任何内容（如Pipeline）。 要基于CRM帐户创建命名帐户，只需将帐户名和CRM ID从CRM导出到CSV文件中，使用帐户名选项，并在导入过程中映射CRM ID即可。 要将CRM帐户正确链接到指定帐户，您必须提供CRM帐户的准确名称。
 
-1. 从两种重复数据消除模式中选择：帐户名或域名。 在本例中，我们将选择“帐户”。 单击&#x200B;**[!UICONTROL Modes]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL By Account Name]**。
+1. 从两种重复数据消除模式中选择：帐户名或域名。 在本例中，我们将选择“帐户”。 点击 **[!UICONTROL Modes]** 下拉菜单，并选择 **[!UICONTROL By Account Name]**。
 
    ![](assets/inathree.png)
 

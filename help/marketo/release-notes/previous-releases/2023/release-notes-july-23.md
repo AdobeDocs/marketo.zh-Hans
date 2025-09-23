@@ -3,24 +3,24 @@ description: 发行说明 — 2023年7月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 7 月
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 6%
+ht-degree: 17%
 
 ---
 
-# 发行说明： 2023年7月 {#release-notes-july-23}
+# 发行说明：2023 年 7 月 {#release-notes-july-23}
 
-在下方，您会找到2023年7月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2023年7月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 >[!AVAILABILITY]
 >
->以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
 
-## 标准发行周期功能 {#standard-release-cycle-features}
+## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2023年7月21日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能下方的状态。
+以下功能属于标准发行周期，将于&#x200B;**2023年7月21日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请检查每个功能下方的状态。
 
 </br>
 
@@ -32,8 +32,8 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">参与度图概述</a></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">互动地图概述</a></td>
   </tr>
   </tbody>
 </table>
@@ -46,7 +46,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
   </tbody>
@@ -68,7 +68,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
   </tbody>
@@ -82,13 +82,13 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
   </tbody>
 </table>
 
-### Marketo Sales Insight {#marketo-sales-insight}
+### Marketo 销售洞察 {#marketo-sales-insight}
 
 </br>
 
@@ -100,8 +100,8 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">自动附加取消订阅消息设置</a></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">自动附加取消订阅信息设置</a></td>
   </tr>
   </tbody>
 </table>
@@ -114,7 +114,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">字段提示</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">动态字段</a></td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ ht-degree: 6%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat Trigger令牌</a></td>
   </tr>
   </tbody>

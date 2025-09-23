@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095554
 description: 将表单嵌入到Web营销活动 — Marketo文档 — 产品文档
-title: 将表单嵌入到Web营销活动
+title: 将表单嵌入 Web 营销活动
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '313'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 将表单嵌入到Web营销活动 {#embed-a-form-into-a-web-campaign}
+# 将表单嵌入 Web 营销活动 {#embed-a-form-into-a-web-campaign}
 
 了解如何将Marketo表单嵌入到Web营销活动中（对话框、区域或小部件）。
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
 要将背景图像添加到表单，您可以：
 
-* 编辑表单主题的CSS
+* 编辑表单主题的 CSS
 * 在Set Campaign中更改对话框或构件颜色
 * 将CSS代码添加到脚本中
 
@@ -85,4 +85,4 @@ ht-degree: 1%
 >
 >* [编辑表单主题的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [显示没有后续登陆页面的感谢消息](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

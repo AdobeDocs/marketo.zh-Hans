@@ -4,16 +4,16 @@ description: 更改表单提交按钮文本 — Marketo文档 — 产品文档
 title: 更改表单提交按钮文本
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 
 # 更改表单提交按钮文本 {#change-form-submit-button-text}
 
-您可以快速轻松地将“表单”按钮从“提交”更改为任何其他词。 具体方法如下。
+您可以快速轻松地将“表单”按钮从“提交”更改为任何其他词。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 

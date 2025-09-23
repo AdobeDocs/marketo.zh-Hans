@@ -4,7 +4,7 @@ description: 安装适用于Microsoft Dynamics 2015的Marketo本地步骤2/3 - M
 title: 安装适用于Microsoft Dynamics 2015的Marketo本地步骤2/3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 1%

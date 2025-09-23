@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515266
 description: 创建引导式登陆页面 — Marketo文档 — 产品文档
-title: 创建引导式登陆页面
+title: 创建引导式登录页面
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
-# 创建引导式登陆页面 {#create-a-guided-landing-page}
+# 创建引导式登录页面 {#create-a-guided-landing-page}
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 2%
 
    ![](assets/four.png)
 
-1. 命名您的登陆页面。 单击&#x200B;**[!UICONTROL Template]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Guided Template]**。
+1. 命名您的登陆页面。 点击 **[!UICONTROL Template]** 下拉菜单，并选择 **[!UICONTROL Guided Template]**。
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ ht-degree: 2%
 
    ![](assets/seven.png)
 
-1. 命名您的登陆页面。 单击&#x200B;**[!UICONTROL Template]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Guided Template]**。
+1. 命名您的登陆页面。 点击 **[!UICONTROL Template]** 下拉菜单，并选择 **[!UICONTROL Guided Template]**。
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 

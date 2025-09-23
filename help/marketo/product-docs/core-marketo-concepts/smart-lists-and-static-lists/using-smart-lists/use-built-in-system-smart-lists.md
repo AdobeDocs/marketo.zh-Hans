@@ -4,10 +4,10 @@ description: 使用内置/系统智能列表 — Marketo文档 — 产品文档
 title: 使用内置/系统智能列表
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '188'
+ht-degree: 7%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 Marketo Engage有一些非常有用的内置智能列表。 我们来看看吧！
 
-1. 转到&#x200B;**[!UICONTROL 数据库]**。
+1. 转到&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/use-built-in-system-smart-lists-1.png)
 
-1. 打开&#x200B;**[!UICONTROL 系统智能列表]**&#x200B;文件夹以显示集合。
+1. 打开&#x200B;**[!UICONTROL System Smart Lists]**&#x200B;文件夹以显示收藏集。
 
    ![](assets/use-built-in-system-smart-lists-2.png)
 
-1. 要查看示例：选择&#x200B;**[!UICONTROL 所有人员]**，然后单击&#x200B;**[!UICONTROL 人员]**&#x200B;选项卡。
+1. 要查看示例：选择&#x200B;**[!UICONTROL All People]**，然后单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡。
 
    ![](assets/use-built-in-system-smart-lists-3.png)
 

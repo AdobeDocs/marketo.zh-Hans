@@ -1,16 +1,16 @@
 ---
 description: 人员批量操作 — Marketo文档 — 产品文档
-title: 对人员执行批量操作
+title: 批量操作人员
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# 对人员执行批量操作 {#bulk-actions-on-people}
+# 批量操作人员 {#bulk-actions-on-people}
 
 您可以对联系人批量执行一些操作以节省时间。
 

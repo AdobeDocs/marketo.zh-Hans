@@ -1,16 +1,16 @@
 ---
 description: 操作评分人口统计 — Marketo文档 — 产品文档
-title: OP — 评分 — 人口统计
+title: OP-评分-人口统计
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 24%
+ht-degree: 25%
 
 ---
 
-# OP — 评分 — 人口统计 {#op-scoring-demographic}
+# OP-评分-人口统计 {#op-scoring-demographic}
 
 这是一个高级（标记化）操作程序的示例，该程序利用Marketo Engage默认程序进行人口统计评分。 在项目的“我的令牌”选项卡下查看和编辑评分值。 需要名为“人口统计分数”的自定义分数字段。
 
@@ -46,7 +46,7 @@ ht-degree: 24%
   </tr>
   <tr>
    <td>得分</td>
-   <td>人口统计分数</td>
+   <td>人口统计评分</td>
    <td>人口统计分数</td>
   </tr>
  </tbody>
@@ -62,52 +62,52 @@ ht-degree: 24%
    <th>资源名称</th>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>通用电子邮件域</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>名字无效</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>无效的名字已更新</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>姓氏无效</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>无效的姓氏已更新</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>年收入</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>行业</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>职务</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>员工数</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>来源</td>
   </tr>

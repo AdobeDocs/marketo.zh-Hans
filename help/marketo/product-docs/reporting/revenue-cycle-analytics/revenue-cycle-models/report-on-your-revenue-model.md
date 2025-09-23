@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360429
 description: 收入模型报表 — Marketo文档 — 产品文档
-title: 收入模型报表
+title: 生成收入模型报告
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 收入模型报表 {#report-on-your-revenue-model}
+# 生成收入模型报告 {#report-on-your-revenue-model}
 
 对于每个收入周期模型，您可以生成有关每个阶段有多少潜在客户的报告。
 

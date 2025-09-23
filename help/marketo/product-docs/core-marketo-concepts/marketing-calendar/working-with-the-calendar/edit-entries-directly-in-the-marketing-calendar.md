@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2953352
 description: 直接在营销日历中编辑条目 — Marketo文档 — 产品文档
-title: 直接在营销日历中编辑条目
+title: 在营销日程表中直接编辑条目
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 9%
 
 ---
 
-# 直接在营销日历中编辑条目 {#edit-entries-directly-in-the-marketing-calendar}
+# 在营销日程表中直接编辑条目 {#edit-entries-directly-in-the-marketing-calendar}
 
-进入程序焦点模式后，您可以快速更改日历条目。 具体方法如下。
+进入程序焦点模式后，您可以快速更改日历条目。 操作方法如下：
 
 ## 启用项目群 {#enable-program-focus}
 
-1. 单击&#x200B;**[!UICONTROL 日历]**&#x200B;拼贴。
+1. 单击&#x200B;**[!UICONTROL Calendar]**&#x200B;磁贴。
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. 选择属于要关注的项目的条目，然后单击&#x200B;**[!UICONTROL 显示项目焦点]**。
+1. 选择属于要关注的项目的条目，然后单击&#x200B;**[!UICONTROL Show Program Focus]**。
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-就是这样！ 如您所见，您可以直接从营销日历中执行许多操作。
+操作完成！如您所见，您可以直接从营销日历中执行许多操作。
 
 >[!MORELIKETHIS]
 >

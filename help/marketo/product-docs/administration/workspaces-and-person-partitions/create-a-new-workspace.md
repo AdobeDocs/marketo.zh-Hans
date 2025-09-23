@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360311
 description: 创建新的Workspace - Marketo文档 — 产品文档
-title: 创建新的Workspace
+title: 创建新工作区
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 创建新的Workspace {#create-a-new-workspace}
+# 创建新工作区 {#create-a-new-workspace}
 
 工作区可用于细分您的公司。 设置工作区的原因包括：
 
@@ -32,7 +32,7 @@ ht-degree: 1%
 >
 >要了解有关Workspace最佳实践的更多信息，请联系[Marketo专业服务](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-a-new-workspace-1.png)
 

@@ -4,14 +4,14 @@ description: 发行说明 — 2014年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年6月
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 发行说明： 2014年6月 {#release-notes-june}
+# 发行说明：2014 年 6 月 {#release-notes-june}
 
 2014年6月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 新外观，包括[!DNL Marketo Lead Management]的导航，将在以后的版本中推出！
 
-## [!DNL Outlook]的[!DNL Sales Insight]插件2013 {#sales-insight-plugin-for-outlook}
+## [!DNL Sales Insight]的[!DNL Outlook]插件2013 {#sales-insight-plugin-for-outlook}
 
 这将需要下载新的插件。 您可以从[此处](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)下载它。
 
@@ -43,7 +43,7 @@ RTP营销活动现在包含具有缩略图视图和营销活动效果的新设�
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
-## 网站分析集成 {#web-analytics-integrations}
+## 网站分析 {#web-analytics-integrations}
 
 在网站分析平台中附加所有RTP数据。
 

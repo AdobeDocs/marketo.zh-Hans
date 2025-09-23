@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147249
 description: 使用全局叠加 — Marketo文档 — 产品文档
-title: 使用全局叠加
+title: 使用全局覆盖层
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 5%
 
 ---
 
-# 使用全局叠加 {#using-a-global-overlay}
+# 使用全局覆盖层 {#using-a-global-overlay}
 
 通过项目计划视图中的全局覆盖，您可以查看与其他计划资产相关的项目。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. 选择右下角的&#x200B;**[!UICONTROL 叠加]**。
+1. 选择右下角的&#x200B;**[!UICONTROL Overlay]**。
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 如果您[在营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}中保存了筛选器，则可以将其用作项目计划视图中的叠加图。
 
-1. 单击&#x200B;**[!UICONTROL 叠加]**&#x200B;下拉列表并选择您的筛选器定义。
+1. 单击&#x200B;**[!UICONTROL Overlay]**&#x200B;下拉列表并选择您的筛选器定义。
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 

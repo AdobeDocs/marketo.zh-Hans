@@ -4,10 +4,10 @@ description: 了解智能营销活动信息卡 — Marketo文档 — 产品文�
 title: 了解智能营销活动信息卡
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '549'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

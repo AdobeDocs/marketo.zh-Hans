@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949839
 description: 通过平板电脑将人员登记到您的活动中 — Marketo文档 — 产品文档
-title: 通过平板电脑将访客登记到您的活动中
+title: 通过平板电脑为活动签到
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 通过平板电脑将访客登记到您的活动中 {#check-people-into-your-event-from-your-tablet}
+# 通过平板电脑为活动签到 {#check-people-into-your-event-from-your-tablet}
 
 当人们出现在您的活动上时，您可在应用程序中查找他们的信息。 签入后，当您同步到Marketo时，这些受众将提升为已参与状态。
 

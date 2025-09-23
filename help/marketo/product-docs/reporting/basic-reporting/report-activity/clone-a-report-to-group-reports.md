@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512105
 description: 将报表克隆到组报表 — Marketo文档 — 产品文档
-title: 将报表克隆到组报表
+title: 将报告克隆到组报告
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# 将报表克隆到组报表 {#clone-a-report-to-group-reports}
+# 将报告克隆到组报告 {#clone-a-report-to-group-reports}
 
 **[!UICONTROL My Reports]**&#x200B;中的任何报告仅对您可见。 如果您希望让所有其他用户均可访问报表，该怎么办？ 以下是具体操作方法：
 

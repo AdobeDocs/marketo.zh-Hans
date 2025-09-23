@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953188
 description: 推断的过滤器 — Marketo文档 — 产品文档
-title: 推断的筛选器
+title: 推断过滤器
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 推断的筛选器 {#inferred-filters}
+# 推断过滤器 {#inferred-filters}
 
 当有人访问您的网站时，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}会对其进行Cookie并将其放入系统中。 我们在一个特殊的数据库中查找他们的IP并推断出各种信息。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >为确保推断的字段值保持最新，我们会定期更新用于IP地址查找的数据库。 数据库更新可能会引入新的推断字段值，您可能需要将这些值添加到智能列表筛选器定义中。
 >
->在[Marketo Engage的产品版本](/help/marketo/release-notes/release-schedule.md){target="_blank"}期间可能会进行数据库更新。 当更新发生时，[Marketo Engage发行说明](/help/marketo/release-notes/current.md){target="_blank"}将包含对推断字段值所做任何更改的解释。
+>数据库更新可以在[Marketo Engage产品版本](/help/marketo/release-notes/release-schedule.md){target="_blank"}期间进行。 当更新发生时，[Marketo Engage发行说明](/help/marketo/release-notes/current.md){target="_blank"}将包含推断字段值任何更改的解释。
 
 ![](assets/inferred-filters-1.png)
 

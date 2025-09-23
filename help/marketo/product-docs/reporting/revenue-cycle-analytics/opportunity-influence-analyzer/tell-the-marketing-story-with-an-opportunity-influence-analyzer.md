@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360237
 description: 使用Opportunity Influence Analyzer讲述营销故事 — Marketo文档 — 产品文档
-title: 用Opportunity Influence Analyzer讲述营销故事
+title: 使用商机影响分析器讲述营销故事
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '323'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

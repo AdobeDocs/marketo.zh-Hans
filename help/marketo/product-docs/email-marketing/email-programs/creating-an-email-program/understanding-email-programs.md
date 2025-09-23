@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953572
 description: 了解电子邮件程序 — Marketo文档 — 产品文档
-title: 了解电子邮件程序
+title: 了解电子邮件项目
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 了解电子邮件程序 {#understanding-email-programs}
+# 了解电子邮件项目 {#understanding-email-programs}
 
 在一个地方发送电子邮件、创建A/B测试并跟踪您的结果。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/emailprogram.png)
 
-## A/B测试 {#a-b-testing}
+## A/B 测试 {#a-b-testing}
 
 通过A/B测试，可证明哪种电子邮件效果最佳。
 

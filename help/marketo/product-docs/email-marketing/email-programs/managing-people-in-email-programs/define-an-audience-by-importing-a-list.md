@@ -4,10 +4,10 @@ description: 通过导入列表定义受众 — Marketo文档 — 产品文档
 title: 通过导入列表定义受众
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >仅当电子邮件程序未获批准时，定义受众才能正常工作。
 >
->正在导入的任何日期/时间字段都将被视为中部时间。 如果您的日期/时间字段位于不同的时区，则可以使用Excel公式将其转换为中部时间（美洲/芝加哥）。
+>导入的所有日期/时间字段将视为中部时间（Central Time）。如果您的日期/时间字段为其他时区，可以使用 Excel 公式将其转换为中部时间（美国/芝加哥）。
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 >
 >你注意到被阻止的号码了吗？ 此数字是合格人员的子集，表示由于以下原因无法发送此电子邮件的人员：
 >
->* 退订
+>* 已取消订阅
 >* 营销暂停
 >* 已列入阻止列表
 >* 电子邮件无效

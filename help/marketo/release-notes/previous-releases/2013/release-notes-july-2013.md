@@ -4,14 +4,14 @@ description: 发行说明 — 2013年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年7月
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2013年7月 {#release-notes-july}
+# 发行说明：2013 年 7 月 {#release-notes-july}
 
 7月版本中计划于7月26日星期五推出以下功能。
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-16-3a32-3a1.png)
 
-## 对WYSIWYG编辑器中拼写检查的更改 {#changes-to-spell-check-in-wysiwyg-editor}
+## 对WYSIWYG编辑器中的拼写检查的更改 {#changes-to-spell-check-in-wysiwyg-editor}
 
 WYSIWYG编辑器用于拼写检查的服务已停止。 我们从编辑器中删除了“拼写检查”按钮，直到找到替代项为止。

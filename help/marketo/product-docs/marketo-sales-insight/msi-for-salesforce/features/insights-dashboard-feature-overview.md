@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762514
 description: 分析功能板功能概述 — Marketo文档 — 产品文档
-title: 分析功能板功能概述
+title: 洞察仪表板功能概述
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1473'
 ht-degree: 0%
 
 ---
 
-# 分析功能板功能概述 {#insights-dashboard-feature-overview}
+# 洞察仪表板功能概述 {#insights-dashboard-feature-overview}
 
 详细了解[!DNL Sales Insights]仪表板中可用的功能。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359665
 description: 设置流节奏 — Marketo文档 — 产品文档
-title: 设置流节奏
+title: 设置流发送节奏
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 设置流节奏 {#set-stream-cadence}
+# 设置流发送节奏 {#set-stream-cadence}
 
 您可以按所需的任何间隔发送参与内容。 例如：每周一次，或每月每三个星期二。
 

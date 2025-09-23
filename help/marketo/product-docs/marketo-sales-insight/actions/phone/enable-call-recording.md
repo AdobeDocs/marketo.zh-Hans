@@ -1,16 +1,16 @@
 ---
 description: 启用呼叫记录 — Marketo文档 — 产品文档
-title: 启用通话录制
+title: 启用通话录音
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 启用通话录制 {#enable-call-recording}
+# 启用通话录音 {#enable-call-recording}
 
 作为管理员，您可以为[!DNL Sales Insight Actions]呼叫启用呼叫录制。 记录团队的呼叫可能是指导销售代表了解最佳呼叫实践的好方法。
 

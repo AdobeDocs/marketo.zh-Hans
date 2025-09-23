@@ -4,20 +4,20 @@ description: 发行说明 — 2020年2月 — Marketo文档 — 产品文档
 title: 发行说明 — 2020年2月
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 0%
+source-wordcount: '637'
+ht-degree: 2%
 
 ---
 
-# 发行说明： 2020年2月 {#release-notes-feb}
+# 发行说明：2020 年 2 月 {#release-notes-feb}
 
 2020年2月版本中包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
->以星号(![（星号）](assets/yellow-star.png))表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>以星号(![（星号）](assets/yellow-star.png))表示的功能是付费加载项。 请联系您的 Marketo Engage 代表了解更多信息。
 
 **_季度发布_**&#x200B;以下功能发布于&#x200B;**2020年2月21日**。
 
@@ -59,4 +59,4 @@ ht-degree: 0%
 * **Asset API“_method”参数**： 2020年9月之后，Asset API端点将不再接受在POST正文中传递“_method”以绕过URI长度限制。 为了适应需要此参数的请求，资产API的URI限制将从6KiB增加到65KiB，以便可以提交较长的请求URI。
 * **弃用Internet Explorer支持**：从2020年7月31日发行的7月版本开始，Internet Explorer将不再支持Marketo Engage用户界面。
 
-**_产品发布网络研讨会_** [与我们](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)一起参加我们于3月3日太平洋时间上午11:00/下午2:00举行的实时网络研讨会，该研讨会由我们的产品团队主持，详细了解此版本中包含的功能。
+**_产品发布网络研讨会_** [于3月3日（太平洋时间11](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) / 2:00AM ET）加入我们:00PM，参加我们产品团队举办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。

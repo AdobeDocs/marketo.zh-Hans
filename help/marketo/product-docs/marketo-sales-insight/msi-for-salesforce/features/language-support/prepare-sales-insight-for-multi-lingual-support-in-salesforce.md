@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516460
 description: 在Salesforce中为Insight销售人员准备多语言支持 — Marketo文档 — 产品文档
-title: 为Salesforce中的多语言支持准备Sales Insight
+title: 在 Salesforce 中为 Sales Insight 启用多语言支持
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 为Salesforce中的多语言支持准备Sales Insight {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# 在 Salesforce 中为 Sales Insight 启用多语言支持 {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ Marketo Sales Insight按语言进行存储。 因此，如果您希望它适用�
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. 转到Marketo。 找到您的&#x200B;[[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**&#x200B;详细信息](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)。
+1. 转到Marketo。 找到您的&#x200B;[[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**详细信息](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)。
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

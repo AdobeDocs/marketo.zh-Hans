@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949232
 description: SEO — 管理列表 — Marketo文档 — 产品文档
-title: SEO — 管理列表
+title: SEO - 管理列表
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 2%
+source-wordcount: '96'
+ht-degree: 8%
 
 ---
 
-# SEO — 管理列表 {#seo-managing-lists}
+# SEO - 管理列表 {#seo-managing-lists}
 
 添加关键字、页面、页面问题或入站链接时，可以将内容添加到列表中。 列表可帮助您保持井然有序，并允许您过滤报表以仅查看该列表上的数据。 这是如何制作它们。
 
-1. 单击&#x200B;**[!UICONTROL 添加关键字]**。
+1. 单击 **[!UICONTROL Add Keywords]**。
 
    >[!NOTE]
    >
@@ -31,6 +31,6 @@ ht-degree: 2%
    >
    >您可以在下拉菜单中创建新列表。 输入标题，点击返回键。
 
-1. 单击&#x200B;**[!UICONTROL 保存]**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)

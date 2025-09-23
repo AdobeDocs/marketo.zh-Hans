@@ -4,7 +4,7 @@ description: ' [!DNL Microsoft Dynamics] MSI插件版本 — Marketo文档 — �
 title: ' [!DNL Microsoft Dynamics] MSI的插件版本'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 1%
@@ -54,7 +54,7 @@ ht-degree: 1%
 <table>
  <tbody>
   <tr>
-   <th>发行日期</th>
+   <th>发布日期</th>
    <th>版本</th>
    <th>注释</th>
   </tr>

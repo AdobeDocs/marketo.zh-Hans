@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718681
 description: 在收入Modeler中按帐户开始跟踪 — Marketo文档 — 产品文档
-title: 在收入Modeler中按帐户开始跟踪
+title: 在收入建模器中按帐户开始跟踪
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 在收入Modeler中按帐户开始跟踪 {#start-tracking-by-account-in-the-revenue-modeler}
+# 在收入建模器中按帐户开始跟踪 {#start-tracking-by-account-in-the-revenue-modeler}
 
 利用Revenue Stage Modeler和[!UICONTROL Revenue Explorer]，可在商机和客户在模型中进行处理时，将insight引入到他们的绩效中。
 

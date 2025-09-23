@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360405
 description: 构建项目会员资格分析报告，其中列出潜在客户 — Marketo文档 — 产品文档
-title: 构建列出潜在客户的计划会员资格分析报告
+title: 生成列出潜在客户的项目成员分析报告
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 构建列出潜在客户的计划会员资格分析报告 {#build-a-program-membership-analysis-report-that-lists-leads}
+# 生成列出潜在客户的项目成员分析报告 {#build-a-program-membership-analysis-report-that-lists-leads}
 
 按照以下步骤创建项目群成员资格分析报告，该报告将显示所有项目群成员名称。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 选择&#x200B;**[!UICONTROL Program Membership Analysis]**&#x200B;并单击&#x200B;**[!UICONTROL OK]**。
+1. 选择 **[!UICONTROL Program Membership Analysis]** 并点击 **[!UICONTROL OK]**。
 
    ![](assets/three.png)
 

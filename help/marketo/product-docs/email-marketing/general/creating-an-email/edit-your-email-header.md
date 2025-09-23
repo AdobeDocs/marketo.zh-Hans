@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359453
 description: 编辑电子邮件标题 — Marketo文档 — 产品文档
-title: 编辑电子邮件标题
+title: 编辑电子邮件页眉
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 编辑电子邮件标题 {#edit-your-email-header}
+# 编辑电子邮件页眉 {#edit-your-email-header}
 
 Marketo中的电子邮件标头是完全可自定义的。 它由四个字段组成：
 

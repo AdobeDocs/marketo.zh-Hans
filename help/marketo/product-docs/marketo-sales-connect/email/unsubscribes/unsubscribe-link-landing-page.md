@@ -4,10 +4,10 @@ description: 取消订阅链接登陆页面 — Marketo文档 — 产品文档
 title: 取消订阅链接登陆页面
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 

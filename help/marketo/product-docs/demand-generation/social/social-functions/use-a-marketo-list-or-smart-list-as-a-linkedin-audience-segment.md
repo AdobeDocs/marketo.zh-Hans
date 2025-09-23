@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504180
 description: 使用Marketo列表或智能列表作为LinkedIn受众区段 — Marketo文档 — 产品文档
-title: 使用Marketo列表或智能列表作为LinkedIn受众区段
+title: 将 Marketo 列表或智能列表用作 LinkedIn 受众区段
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: f205014ef4b1446c1c532e28910fab0c5fdaabcb
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 使用Marketo列表或智能列表作为LinkedIn受众区段 {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# 将 Marketo 列表或智能列表用作 LinkedIn 受众区段 {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 将Marketo Engage人员与LinkedIn受众集成。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >使用广告网络集成将受众发送到LinkedIn时，Marketo仅发送电子邮件地址通过。
 
-1. 选择&#x200B;**[!UICONTROL LinkedIn]**&#x200B;并单击&#x200B;**[!UICONTROL Next]**。
+1. 选择 **[!UICONTROL LinkedIn]** 并点击 **[!UICONTROL Next]**。
 
    ![](assets/list-as-a-linkedin-audience-segment-5.png)
 

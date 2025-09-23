@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504676
 description: 了解期间成本 — Marketo文档 — 产品文档
-title: 了解期间成本
+title: 了解周期成本
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 了解期间成本 {#understanding-period-costs}
+# 了解周期成本 {#understanding-period-costs}
 
 ## 概述 {#overview}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >如果您花1000美元为7月启动的[!DNL eBook]聘请插图师 — [!DNL eBook]项目在7月的时间成本为1000美元。
 >
->如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3&rbrace;。_
+>如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3}。_
 
 >[!NOTE]
 >

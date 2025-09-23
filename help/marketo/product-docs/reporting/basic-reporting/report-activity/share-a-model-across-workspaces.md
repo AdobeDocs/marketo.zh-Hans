@@ -4,16 +4,16 @@ description: 在工作区之间共享模型 — Marketo文档 — 产品文档
 title: 跨工作区共享模型
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
 # 跨工作区共享模型 {#share-a-model-across-workspaces}
 
-Marketo使您能够跨工作区共享模型。 具体方法如下。
+Marketo使您能够跨工作区共享模型。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Analytics]**&#x200B;部分。
 

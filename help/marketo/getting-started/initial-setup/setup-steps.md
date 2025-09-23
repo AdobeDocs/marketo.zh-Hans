@@ -4,10 +4,10 @@ short-description: 刚刚开始使用 Adobe Marketo Engage？了解深入之前�
 title: 设置步骤
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1663'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 2%
 
 您现在掌握了向IT发送请求所需的所有信息！
 
-## 使用CNAME自定义登陆页面URL {#customize-your-landing-page-urls-with-a-cname}
+## 使用 CNAME 自定义登录页面 URL {#customize-your-landing-page-urls-with-a-cname}
 
 >[!NOTE]
 >
@@ -270,7 +270,7 @@ Marketo Engage具有自定义跟踪JavaScript（称为[!DNL Munchkin]），可�
 
 ## 性能期望 {#performance-expectations}
 
-从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，在[Marketo Engage产品描述](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中的多个表中，您可以期望的性能级别与“标准”列中列出的性能水平相当。 “性能”和“性能提升”列是指提供[更高性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的性能层包。
+从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，在[Marketo Engage产品描述](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中的多个表中，您可以期望的性能级别与“标准”列中列出的性能水平相当。 “性能”和“性能提升”列是指提供[更高性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的性能层包。
 
 >[!MORELIKETHIS]
 >

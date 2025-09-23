@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718656
 description: 创建新的收入模型 — Marketo文档 — 产品文档
-title: 创建新的收入模型
+title: 创建新的收入模式
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 创建新的收入模型 {#create-a-new-revenue-model}
+# 创建新的收入模式 {#create-a-new-revenue-model}
 
 1. 要创建新的收入周期模型，请单击&#x200B;**[!UICONTROL Analytics]**&#x200B;主屏幕中的[!UICONTROL My Marketo]按钮。
 

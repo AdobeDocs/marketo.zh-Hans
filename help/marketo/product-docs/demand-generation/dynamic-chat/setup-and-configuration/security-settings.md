@@ -1,16 +1,16 @@
 ---
 description: 安全设置 — Marketo文档 — 产品文档
-title: 安全设置
+title: 安全性设置
 feature: Dynamic Chat
 exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 安全设置 {#security-settings}
+# 安全性设置 {#security-settings}
 
 在“安全”设置中，您可以向被阻止或允许列表添加域。
 

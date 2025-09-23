@@ -3,10 +3,10 @@ description: 了解“我”选项卡 — Marketo文档 — 产品文档
 title: 了解“我”选项卡
 exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

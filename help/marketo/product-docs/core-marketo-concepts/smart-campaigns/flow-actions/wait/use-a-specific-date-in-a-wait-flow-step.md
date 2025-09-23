@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146976
 description: 在等待流步骤中使用特定日期 — Marketo文档 — 产品文档
-title: 在等待流步骤中使用特定日期
+title: 在等待流程步骤中使用特定日期
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 18%
 
 ---
 
-# 在等待流步骤中使用特定日期 {#use-a-specific-date-in-a-wait-flow-step}
+# 在等待流程步骤中使用特定日期 {#use-a-specific-date-in-a-wait-flow-step}
 
-您可以使用“[!UICONTROL 等待]”流程步骤暂停人员通过Smart Campaign的历程，直到特定日期为止。
+您可以使用“[!UICONTROL Wait]”流量步骤暂停人员通过智能营销活动的历程，直到特定日期为止。
 
-1. 在Smart Campaign **[!UICONTROL 流量]**&#x200B;选项卡中，拖动到&#x200B;**[!UICONTROL 等待]**&#x200B;流量步骤。
+1. 在Smart Campaign **[!UICONTROL Flow]**&#x200B;选项卡中，拖动&#x200B;**[!UICONTROL Wait]**&#x200B;流程步骤。
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
-1. 从&#x200B;**[!UICONTROL 类型]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL 日期]**。
+1. 从&#x200B;**[!UICONTROL Type]**&#x200B;下拉列表中选择&#x200B;**[!UICONTROL Date]**。
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-4.png)
 
-1. 指定时间（可选），然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 指定时间（可选）并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-5.png)
 

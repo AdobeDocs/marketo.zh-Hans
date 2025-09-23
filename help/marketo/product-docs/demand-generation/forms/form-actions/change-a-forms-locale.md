@@ -4,10 +4,10 @@ description: 更改表单的区域设置 — Marketo文档 — 产品文档
 title: 更改表单的区域设置
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359930
 description: 存档和取消存档流内容 — Marketo文档 — 产品文档
-title: 存档和取消存档流内容
+title: 归档和取消归档流内容
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 存档和取消存档流内容 {#archive-and-unarchive-stream-content}
+# 归档和取消归档流内容 {#archive-and-unarchive-stream-content}
 
 如果您不再希望在流中使用某段内容，可以[将其删除](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)或将其存档。 以下是存档内容的方法。
 

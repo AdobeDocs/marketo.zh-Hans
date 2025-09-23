@@ -4,14 +4,14 @@ description: 发行说明 — 2012年9月 — Marketo文档 — 产品文档
 title: 发行说明 — 2012年9月
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2012年9月 {#release-notes-september}
+# 发行说明：2012 年 9 月 {#release-notes-september}
 
 此版本包括备受期待的集成式社交功能和商机管理实用组件！ 注意：社交功能作为加载项或选定捆绑的一部分提供。
 

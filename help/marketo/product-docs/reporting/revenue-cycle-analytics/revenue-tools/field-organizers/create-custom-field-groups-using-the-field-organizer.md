@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10094404
 description: 使用字段管理器创建自定义字段组 — Marketo文档 — 产品文档
-title: 使用字段管理器创建自定义字段组
+title: 使用字段组织器创建自定义字段组
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '951'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
-# 使用字段管理器创建自定义字段组 {#create-custom-field-groups-using-the-field-organizer}
+# 使用字段组织器创建自定义字段组 {#create-custom-field-groups-using-the-field-organizer}
 
 在Revenue Cycle Explorer的Model Performance Analysis （潜在客户）区域中启用报表的自定义字段组之前，您必须通过Marketo Lead Management中的Field Organizer将标准或自定义字段分类为报表的组。 这仅适用于潜在客户和公司属性。
 当您从“新建字段管理器”对话框的“字段”下拉列表中选择标准或自定义字段时，系统会映射与您要分组的“字段管理器”中三个可用编辑器中之一相关联的Marketo销售线索管理数据类型：字符串、整数或日期。

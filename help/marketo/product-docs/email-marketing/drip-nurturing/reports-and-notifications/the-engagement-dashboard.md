@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359685
 description: 参与仪表板 — Marketo文档 — 产品文档
-title: 参与仪表板
+title: 参与度仪表板
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 参与仪表板 {#the-engagement-dashboard}
+# 参与度仪表板 {#the-engagement-dashboard}
 
 参与仪表板是查看参与计划中的内容表现的最简单方法。
 

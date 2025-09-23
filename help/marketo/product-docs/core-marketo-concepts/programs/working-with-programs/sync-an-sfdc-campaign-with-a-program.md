@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147154
 description: 将SFDC促销活动与项目同步 — Marketo文档 — 产品文档
-title: 将SFDC促销活动与项目同步
+title: 将 SFDC 营销活动与项目同步
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 将SFDC促销活动与项目同步 {#sync-an-sfdc-campaign-with-a-program}
+# 将 SFDC 营销活动与项目同步 {#sync-an-sfdc-campaign-with-a-program}
 
 Marketo Engage允许您将项目与[!DNL Salesforce]营销活动同步，以维护两个系统中的相同人员列表，包括其状态。 让我们开始吧！
 

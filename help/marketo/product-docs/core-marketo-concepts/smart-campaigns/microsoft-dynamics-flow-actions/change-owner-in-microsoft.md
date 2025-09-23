@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356426
 description: 在Microsoft中更改所有者 — Marketo文档 — 产品文档
-title: 在Microsoft中更改所有者
+title: 更改 Microsoft 中的所有者
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 在Microsoft中更改所有者 {#change-owner-in-microsoft}
+# 更改 Microsoft 中的所有者 {#change-owner-in-microsoft}
 
 如果您现有的人员已分配给所有者，则可以使用此流程步骤将它们重新分配给其他所有者。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/change-owner-in-microsoft-1.png)
 
-**使用情况**
+**用法**
 
 1. 只需选择要更改为的所有者即可转到！
 

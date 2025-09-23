@@ -4,10 +4,10 @@ description: 创建电子邮件脚本令牌 — Marketo文档 — 产品文档
 title: 创建电子邮件脚本令牌
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 1. 在Velocity中编写脚本。 以下是一些有用的资源：
 
-   * [Marketo开发人员电子邮件脚本文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo开发人员电子邮件脚本文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity用户指南](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity参考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity工具Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

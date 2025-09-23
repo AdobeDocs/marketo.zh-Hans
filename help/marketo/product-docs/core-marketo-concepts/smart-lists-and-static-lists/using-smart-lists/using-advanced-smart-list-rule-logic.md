@@ -4,16 +4,16 @@ description: 使用高级智能列表规则逻辑 — Marketo文档 — 产品�
 title: 使用高级智能列表规则逻辑
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 0%
+source-wordcount: '294'
+ht-degree: 4%
 
 ---
 
 # 使用高级智能列表规则逻辑 {#using-advanced-smart-list-rule-logic}
 
-通过将智能列表规则逻辑应用于智能列表中的多个筛选器，您可以找到所需的确切人员。 具体方法如下。
+通过将智能列表规则逻辑应用于智能列表中的多个筛选器，您可以找到所需的确切人员。 操作方法如下：
 
 >[!PREREQUISITES]
 >
@@ -26,19 +26,19 @@ ht-degree: 0%
 
 ## 将逻辑添加到智能列表 {#add-logic-to-a-smart-list}
 
-默认情况下，您的智能列表将查找匹配&#x200B;**[!UICONTROL ALL]**&#x200B;筛选器（筛选器1 _和_ 2 _和_ 3）的人员。 您可以更改规则逻辑以查找与所定义筛选器（筛选器1 _或_ 2 _或_ 3）中的&#x200B;**[!UICONTROL ANY]**&#x200B;匹配的人员，或者使用高级筛选器（筛选器1 _和_ 2 _或_ 3）。
+默认情况下，您的智能列表将查找与&#x200B;**[!UICONTROL ALL]**&#x200B;筛选器（筛选器1 _和_ 2 _和_ 3）匹配的人员。 您可以更改规则逻辑以查找与所定义筛选器&#x200B;**[!UICONTROL ANY]**&#x200B;匹配的人员（筛选器1 _或_ 2 _或_ 3），或者使用高级筛选器（筛选器1 _和_ 2 _或_ 3）。
 
 在此示例中，假设您希望查找加利福尼亚州&#x200B;_和_&#x200B;得分至少为50分&#x200B;_或_&#x200B;且状态为“符合销售条件”的人员。
 
-1. 从下拉列表中选择&#x200B;**[!UICONTROL 使用高级筛选器]**。
+1. 从下拉列表中选择&#x200B;**[!UICONTROL Use Advanced filters]**。
 
    ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
-   >使用&#x200B;**[!UICONTROL 高级]**&#x200B;筛选器可减少使用智能列表筛选器的成员创建智能列表的需求。 这有助于优化性能。
+   >使用&#x200B;**[!UICONTROL Advanced]**&#x200B;筛选器可减少使用智能列表筛选器的成员创建智能列表的需求。 这有助于优化性能。
 
-1. **[!UICONTROL 高级筛选器]**&#x200B;文本框将显示“和”作为所有筛选器之间的默认值。
+1. **[!UICONTROL Advanced filters]**&#x200B;文本框将显示“和”作为所有筛选器之间的默认值。
 
    ![](assets/using-advanced-smart-list-rule-logic-2.png)
 

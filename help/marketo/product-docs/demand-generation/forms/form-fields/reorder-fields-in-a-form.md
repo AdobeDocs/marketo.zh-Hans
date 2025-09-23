@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359592
 description: 在表单中对字段重新排序 — Marketo文档 — 产品文档
-title: 对表单中的字段重新排序
+title: 重新排序表单中的字段
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 2%
+ht-degree: 20%
 
 ---
 
-# 对表单中的字段重新排序 {#reorder-fields-in-a-form}
+# 重新排序表单中的字段 {#reorder-fields-in-a-form}
 
-在Marketo表单上重新排序字段很容易。 具体方法如下。
+在Marketo表单上重新排序字段很容易。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359476
 description: 使用电子邮件计划仪表板 — Marketo文档 — 产品文档
-title: 使用电子邮件程序仪表板
+title: 使用电子邮件项目仪表板
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 使用电子邮件程序仪表板 {#use-the-email-program-dashboard}
+# 使用电子邮件项目仪表板 {#use-the-email-program-dashboard}
 
 查看您的电子邮件程序在此仪表板视图中的执行情况。
 

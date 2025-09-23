@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12615749
 description: 导出Web营销活动数据 — Marketo文档 — 产品文档
-title: 导出Web营销活动数据
+title: 导出 Web 营销活动数据
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 导出Web营销活动数据 {#export-web-campaign-data}
+# 导出 Web 营销活动数据 {#export-web-campaign-data}
 
 按照以下简单步骤导出Web促销活动数据。
 

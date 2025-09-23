@@ -1,16 +1,16 @@
 ---
 description: NUR-YYYY-MM-Advanced Nurture - Marketo文档 — 产品文档
-title: NUR-YYYY-MM-Advanced Nurture
+title: NUR-YYYY-MM-高级培养
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
-# NUR-YYYY-MM-Advanced Nurture {#nur-yyyy-mm-advanced-nurture}
+# NUR-YYYY-MM-高级培养 {#nur-yyyy-mm-advanced-nurture}
 
 这是利用Marketo Engage参与计划的高级培养计划示例。 嵌套电子邮件程序阻止用户接收他们已使用的内容，或控制他们应在每个流中使用的内容类型。 可以为每个嵌套电子邮件程序运行归因报表。 渠道：“Nurture”以及嵌套电子邮件程序的专用“Nurture电子邮件”渠道使用Marketo Engage电子邮件程序发送一封新闻稿电子邮件。 电子邮件可以包含或不包含A/B测试。
 
@@ -70,17 +70,17 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>01 — 电子邮件（位于嵌套程序中）</td>
   </tr>
    <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>02 — 电子邮件（位于嵌套程序中）</td>
   </tr>
    <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>03 — 电子邮件（位于嵌套程序中）</td>
   </tr>
   <tr>
@@ -95,37 +95,37 @@ ht-degree: 6%
   </tr>
   <tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>01 — 添加到培养</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>02 — 暂停培养</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>03 — 继续培养</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>04 — 参与（计划成功）</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>00 — 跳过电子邮件（位于每个嵌套程序中）</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>01 — 发送电子邮件（位于每个嵌套程序中）</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>02 — 参与成功（位于每个嵌套程序中）</td>
   </tr>

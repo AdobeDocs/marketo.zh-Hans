@@ -3,7 +3,7 @@ description: 回调函数 — Marketo文档 — 产品文档
 title: 回调函数
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 3%
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 您可以使用Dynamic Chat构件回调函数将对话事件发送到任何第三方平台。
 
-## 开始使用 {#getting-started}
+## 快速入门 {#getting-started}
 
 此事件表示Dynamic Chat构件已可供使用，当与Dynamic Chat相关的所有脚本都已加载到网页中时触发。
 

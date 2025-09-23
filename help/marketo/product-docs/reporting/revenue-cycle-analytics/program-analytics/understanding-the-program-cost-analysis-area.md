@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718636
 description: 了解项目成本分析区域 — Marketo文档 — 产品文档
-title: 了解计划成本分析领域
+title: 了解项目成本分析区域
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
-# 了解计划成本分析领域 {#understanding-the-program-cost-analysis-area}
+# 了解项目成本分析区域 {#understanding-the-program-cost-analysis-area}
 
 计划成本分析区域允许您分析单个计划的有效性，或查看给定时间段内按渠道汇总的结果。
 

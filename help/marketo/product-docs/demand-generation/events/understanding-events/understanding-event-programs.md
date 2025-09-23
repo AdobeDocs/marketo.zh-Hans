@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949841
 description: 了解事件程序 — Marketo文档 — 产品文档
-title: 了解事件程序
+title: 了解事件项目
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 
-# 了解事件程序 {#understanding-event-programs}
+# 了解事件项目 {#understanding-event-programs}
 
 >[!AVAILABILITY]
 >

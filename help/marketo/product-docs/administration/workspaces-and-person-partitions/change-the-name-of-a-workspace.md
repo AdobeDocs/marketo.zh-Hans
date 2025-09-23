@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360321
 description: 更改Workspace的名称 — Marketo文档 — 产品文档
-title: 更改Workspace的名称
+title: 更改工作区名称
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 1%
+ht-degree: 23%
 
 ---
 
-# 更改Workspace的名称 {#change-the-name-of-a-workspace}
+# 更改工作区名称 {#change-the-name-of-a-workspace}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 1%
 >
 >首先了解[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/change-the-name-of-a-workspace-1.png)
 

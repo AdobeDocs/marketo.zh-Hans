@@ -4,14 +4,14 @@ description: 安装适用于Outlook的Sales Connect电子邮件插件 — Market
 title: 安装适用于Outlook的Sales Connect电子邮件插件
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 安装Sales Connect Email Plugin for Outlook(Online、Mac和Windows) {#install-the-sales-connect-email-plugin-for-outlook}
+# 为 Outlook（在线版、Mac 和 Windows）安装 Sales Connect 电子邮件插件 {#install-the-sales-connect-email-plugin-for-outlook}
 
 我们已创建与[!DNL Outlook Web Apps]的集成。 [!DNL Outlook Web Apps]是随[!DNL Outlook]订阅提供的[!DNL Office 365]版本。 由于该集成基于浏览器，因此它将在Mac和[!DNL Windows]上均可运行。 [单击此处获取完整的安装指南](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
 

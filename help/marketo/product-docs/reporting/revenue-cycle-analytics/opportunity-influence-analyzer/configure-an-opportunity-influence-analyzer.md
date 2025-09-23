@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360240
 description: 配置Opportunity Influence Analyzer - Marketo文档 — 产品文档
-title: 配置Opportunity Influence Analyzer
+title: 配置商机影响分析器
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 配置Opportunity Influence Analyzer {#configure-an-opportunity-influence-analyzer}
+# 配置商机影响分析器 {#configure-an-opportunity-influence-analyzer}
 
 在您[创建Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)后，您可以配置包含的[兴趣时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)的类型。
 

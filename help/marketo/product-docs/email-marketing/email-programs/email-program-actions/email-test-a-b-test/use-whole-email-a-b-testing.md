@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359502
 description: 使用“整个电子邮件”A/B测试 — Marketo文档 — 产品文档
-title: 使用“整个电子邮件”A/B测试
+title: 使用“整个电子邮件”A/B 测试
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 使用“整个电子邮件”A/B测试 {#use-whole-email-a-b-testing}
+# 使用“整个电子邮件”A/B 测试 {#use-whole-email-a-b-testing}
 
 您可以轻松对电子邮件进行A/B测试。 一个很好的测试是&#x200B;**整个电子邮件**&#x200B;测试。 下面是设置方法。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-12-15-3a22-3a12.png)
 
-1. 此时将打开一个新窗口。 单击&#x200B;**[!UICONTROL Test Type]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Whole Emails]**。
+1. 此时将打开一个新窗口。 点击 **[!UICONTROL Test Type]** 下拉菜单，并选择 **[!UICONTROL Whole Emails]**。
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 1. 选择您的第二封电子邮件。
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. 单击&#x200B;**[!UICONTROL Add]**&#x200B;以应用第二封电子邮件。 拖动滑块以选择要接收A/B测试的受众百分比，然后单击&#x200B;**[!UICONTROL Next]**。
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

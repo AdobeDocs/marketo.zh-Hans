@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146997
 description: 在等待流步骤中使用日期令牌 — Marketo文档 — 产品文档
-title: 在等待流步骤中使用日期令牌
+title: 在等待流程步骤中使用日期令牌
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 在等待流步骤中使用日期令牌 {#use-a-date-token-in-a-wait-flow-step}
+# 在等待流程步骤中使用日期令牌 {#use-a-date-token-in-a-wait-flow-step}
 
 您可以使用等待流步骤暂停人员通过智能营销活动的历程，直到使用日期令牌的特定日期为止。 您还可以将结束日期修改若干天。
 

@@ -1,16 +1,16 @@
 ---
 description: WR-YYYY-MM-Web请求程序 — Marketo文档 — 产品文档
-title: WR-YYYY-MM-Web请求程序
+title: WR-YYYY-MM-Web 请求项目
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
-# WR-YYYY-MM-Web请求程序 {#wr-yyyy-mm-web-request-program}
+# WR-YYYY-MM-Web 请求项目 {#wr-yyyy-mm-web-request-program}
 
 这是一个示例计划，非常适合于使用Marketo Engage默认计划的联系人请求、报价请求、演示请求或试用请求表单。 可与Marketo登陆页面一起使用，或作为非Marketo登陆页面上的嵌入式表单。 在提交表单时，会向指定的个人发送警报电子邮件。
 
@@ -51,7 +51,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>警报 — Web请求</td>
   </tr>
   <tr>
@@ -70,12 +70,12 @@ ht-degree: 6%
    <td>登陆页面性能</td>
   </tr>
    <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>来自Web请求的新人员</td>
   </tr>
    <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>网络研讨会的新用户</td>
   </tr>

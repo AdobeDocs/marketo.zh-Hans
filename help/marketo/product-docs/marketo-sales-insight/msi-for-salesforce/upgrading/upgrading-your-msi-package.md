@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357050
 description: 升级MSI包 — Marketo文档 — 产品文档
-title: 升级MSI包
+title: 升级 MSI 包
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 升级MSI包 {#upgrading-your-msi-package}
+# 升级 MSI 包 {#upgrading-your-msi-package}
 
 >[!IMPORTANT]
 >

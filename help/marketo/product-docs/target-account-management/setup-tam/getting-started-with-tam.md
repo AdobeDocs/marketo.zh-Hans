@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12255457
 description: TAM快速入门 — Marketo文档 — 产品文档
-title: TAM快速入门
+title: TAM 快速入门
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-source-git-commit: f8b48bca528946095edbe0a1f724fcc0763aa4dd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# TAM快速入门 {#getting-started-with-tam}
+# TAM 快速入门 {#getting-started-with-tam}
 
-是否将Marketo EngageTAM添加到您的实例？ 太棒了！ 让我们看看您下一步需要做什么。
+是否将Marketo Engage TAM添加到您的实例？ 太棒了！ 让我们看看您下一步需要做什么。
 
 **第一步：[颁发许可证](/help/marketo/product-docs/target-account-management/setup-tam/issue-a-license.md){target="_blank"}** — 决定团队中要使用TAM的人员。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 **步骤四：[创建CRM发现自定义字段](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md){target="_blank"}** — 将现有CRM帐户字段映射到新的命名帐户自定义字段（如果您未使用CRM，请跳过此步骤）。
 
-**第五步：**&#x200B;**_创建指定帐户_** — 指定帐户包含您定位的公司的人员。 创建指定帐户的方法有四种：
+**第五步：****_创建指定帐户_** — 指定帐户包含您定位的公司的人员。 创建指定帐户的方法有四种：
 
 * [导入指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md){target="_blank"} — 将潜在目标帐户的列表直接上传到TAM（这可以是您从CRM导出的列表）
 * [发现CRM帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts){target="_blank"} — 查看同步到Marketo的所有CRM帐户的列表，并使用关键属性（即行业）进行筛选以创建指定帐户

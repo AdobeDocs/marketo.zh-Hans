@@ -2,14 +2,14 @@
 description: 发行说明 — 2021年8月 — Marketo文档 — 产品文档
 title: 发行说明 - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '903'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2021年8月 {#release-notes-aug-21}
+# 发行说明：2021 年 8 月 {#release-notes-aug-21}
 
 2021年8月版本中包含以下功能。 检查您的Marketo Engage版本以了解功能可用性。
 

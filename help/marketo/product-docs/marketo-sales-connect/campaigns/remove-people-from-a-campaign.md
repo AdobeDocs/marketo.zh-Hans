@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352608
 description: 从营销活动中删除人员 — Marketo文档 — 产品文档
-title: 从营销活动中删除人员
+title: 从营销活动中移除人员
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 从营销活动中删除人员 {#remove-people-from-a-campaign}
+# 从营销活动中移除人员 {#remove-people-from-a-campaign}
 
 您可以在收件人回复时自动结束营销活动。 此外，您可以选择将该促销活动标记为“成功”。
 

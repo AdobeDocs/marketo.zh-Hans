@@ -4,16 +4,16 @@ description: 更改数据值 — Marketo文档 — 产品文档
 title: 更改数据值
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 5%
 
 ---
 
 # 更改数据值 {#change-data-value}
 
-您可以使用Marketo更新字段的值。 为此，您将使用&#x200B;**[!UICONTROL 更改数据值]**&#x200B;流程操作。
+您可以使用Marketo更新字段的值。 为此，您将使用&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流程操作。
 
 ![](assets/change-data-value-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您还可以在&#x200B;**[!UICONTROL 新值]**&#x200B;中使用令牌。
+   >您还可以在&#x200B;**[!UICONTROL New Value]**&#x200B;中使用令牌。
 
    >[!TIP]
    >
-   >您可以在&#x200B;**[!UICONTROL 新值]**&#x200B;中输入“NULL”（无引号，全部大写）以清除该字段。 有关详细信息，请参阅[清除字段值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"}。
+   >您可以在&#x200B;**[!UICONTROL New Value]**&#x200B;中输入“NULL”（无引号，全部大写）以清除该字段。 有关详细信息，请参阅[清除字段值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"}。
 
    >[!NOTE]
    >

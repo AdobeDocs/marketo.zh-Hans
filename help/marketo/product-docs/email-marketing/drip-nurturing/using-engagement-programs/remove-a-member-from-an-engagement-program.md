@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359951
 description: 从参与计划中删除成员 — Marketo文档 — 产品文档
-title: 从参与计划中删除成员
+title: 从参与计划中移除成员
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 从参与计划中删除成员 {#remove-a-member-from-an-engagement-program}
+# 从参与计划中移除成员 {#remove-a-member-from-an-engagement-program}
 
 糟糕！ 那些人怎么进去的？ 您可以使用&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步骤从参与计划中删除成员。
 

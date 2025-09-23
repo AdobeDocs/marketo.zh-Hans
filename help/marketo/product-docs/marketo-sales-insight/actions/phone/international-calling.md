@@ -1,16 +1,16 @@
 ---
 description: 国际呼叫 — Marketo文档 — 产品文档
-title: 国际电话
+title: 国际呼叫
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '392'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
-# 国际电话 {#international-calling}
+# 国际呼叫 {#international-calling}
 
 Sales Dialer让您能够轻松进行国际交流。 对于从美国境内呼叫的客户，Sales Dialer可用于到国际国家/地区的出站呼叫。 对于美国以外的客户，我们支持来自国际国家的电话。
 

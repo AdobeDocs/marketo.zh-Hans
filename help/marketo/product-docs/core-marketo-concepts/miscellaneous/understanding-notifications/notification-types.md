@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: 通知类型 — Marketo文档 — 产品文档
 title: 通知类型
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 营销活动失败会通知您智能营销活动中的错误。
 
-## CRM同步 {#crm-sync}
+## CRM 同步 {#crm-sync}
 
 CRM同步通知会提醒您发现CRM同步存在的严重问题，例如权限不正确或同步已关闭。
 
@@ -60,4 +60,4 @@ CRM同步通知会提醒您发现CRM同步存在的严重问题，例如权限�
 
 >[!NOTE]
 >
->我们在[开发人员文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/error-codes)中列出了您可能会收到的某些错误代码。
+>我们在[开发人员文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes)中列出了您可能会收到的某些错误代码。

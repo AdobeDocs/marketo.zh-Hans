@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719312
 description: 添加/删除选取列表值 — Marketo文档 — 产品文档
-title: 添加/删除选取列表值
+title: 添加/移除选择列表值
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 添加/删除选取列表值 {#add-remove-picklist-values}
+# 添加/移除选择列表值 {#add-remove-picklist-values}
 
 以下是有关在[!DNL Salesforce]中添加和删除选取列表值的几点须知。
 

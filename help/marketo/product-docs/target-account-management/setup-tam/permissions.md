@@ -4,16 +4,16 @@ description: 权限 — Marketo文档 — 产品文档
 title: 权限
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
 # 权限 {#permissions}
 
-您需要为用户设置权限才能使用TAM。 具体方法如下。
+您需要为用户设置权限才能使用TAM。 操作方法如下：
 
 1. 单击 **[!UICONTROL Admin]**。
 

@@ -4,10 +4,10 @@ description: 更新人员数据 — Marketo文档 — 产品文档
 title: 更新人员数据
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [完成设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [导入人员列表](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 想象一下，在您最近的贸易展上，有人给你提供了一些额外的联系信息。 以下是如何更新人员数据。
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->* 确保电子邮件地址仅包含ASCII字符。
+>* 请确保电子邮件地址仅包含 ASCII 字符。
 >
 >* Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
 

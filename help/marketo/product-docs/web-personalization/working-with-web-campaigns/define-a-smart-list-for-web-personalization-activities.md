@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097867
 description: 为Web Personalization活动定义智能列表 — Marketo文档 — 产品文档
-title: 为Web Personalization活动定义智能列表
+title: 为 Web 个性化活动定义智能列表
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

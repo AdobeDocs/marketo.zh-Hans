@@ -4,14 +4,14 @@ description: 发行说明 — 2013年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年1月
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2013年1月 {#release-notes-january}
+# 发行说明：2013 年 1 月 {#release-notes-january}
 
 1月版本通过&#x200B;**推荐选件**&#x200B;扩展了我们的社交选件。 此外，[!DNL Marketo Lead Management]用户可以设置其时区、语言和区域设置首选项。 请注意，标有&#42;的功能仅在Select版本中可用。
 

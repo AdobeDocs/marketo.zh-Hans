@@ -1,16 +1,16 @@
 ---
 description: 命令中心概述 — Marketo文档 — 产品文档
-title: 命令中心概述
+title: 指挥中心概述
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 命令中心概述 {#command-center-overview}
+# 指挥中心概述 {#command-center-overview}
 
 [!UICONTROL Command Center]是一个单一、统一的视图，可帮助您确定下一步骤，同时确保不会有任何内容漏掉。
 
@@ -87,4 +87,4 @@ ht-degree: 0%
 >
 >* 任务
 >* 高级搜索概述
->* 使用“选择并发送”撰写批量电子邮件
+>* 使用选择并发送功能撰写批量电子邮件

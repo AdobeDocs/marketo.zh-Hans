@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359918
 description: 编辑登陆页面设置 — Marketo文档 — 产品文档
-title: 编辑登陆页面设置
+title: 编辑登录页面设置
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# 编辑登陆页面设置 {#edit-landing-page-settings}
+# 编辑登录页面设置 {#edit-landing-page-settings}
 
-您可以编辑域名和备用页面，启用或禁用表单预填充，防止滥用登陆页面等。 具体方法如下。
+您可以编辑域名和备用页面，启用或禁用表单预填充，防止滥用登陆页面等。 操作方法如下：
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/edit-landing-page-settings-1.png)
 

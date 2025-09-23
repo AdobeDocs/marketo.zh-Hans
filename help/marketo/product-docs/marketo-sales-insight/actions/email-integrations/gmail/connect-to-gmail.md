@@ -1,15 +1,15 @@
 ---
 description: 连接到Gmail - Marketo文档 — 产品文档
-title: 连接到Gmail
+title: 连接到 Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 连接到Gmail {#connect-to-gmail}
+# 连接到 Gmail {#connect-to-gmail}
 
 连接到Gmail意味着您将获得回复跟踪、访问Gmail投放渠道、在Gmail中计划电子邮件以及发送合规性的功能。
 

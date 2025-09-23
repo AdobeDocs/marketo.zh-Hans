@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512524
 description: 智能列表最佳实践 — Marketo文档 — 产品文档
-title: 智能列表的最佳实践
+title: 智能列表最佳实践
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '566'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 智能列表的最佳实践 {#best-practices-for-smart-lists}
+# 智能列表最佳实践 {#best-practices-for-smart-lists}
 
 智能列表是营销领域功能最强大的查询工具。 他们以神奇的速度轻松找到您要找的人。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**每个Marketo Engage用户都不相同。**&#x200B;数据库越大，处理过程就越多。 存储的活动越多，搜索这些活动所需的时间就越长。
+>**每个Marketo Engage用户都不一样。**&#x200B;数据库越大，处理过程就越多。 存储的活动越多，搜索这些活动所需的时间就越长。
 >
 >如果您遇到速度变慢的问题，请尝试下面的提示。 如果问题仍然存在，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
 
-1. **限制历史记录 —**&#x200B;历史记录筛选器（也称为活动筛选器）是资源最密集、最耗时的操作之一。 如果必须使用它们，请尝试将日期范围限制在尽可能短的时间，这会减少可搜索的数据集。 此外，日期范围不会取代保留期。 例如：如果您查询的活动具有90天的保留期，并且您选择“过去100天”，则仅返回过去90天的结果。 活动保留期[可在此找到](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}。
+1. **限制历史记录 —**&#x200B;历史记录筛选器（也称为活动筛选器）是资源最密集、最耗时的操作之一。 如果必须使用它们，请尝试将日期范围限制在尽可能短的时间，这会减少可搜索的数据集。 此外，日期范围不会取代保留期。 例如：如果您查询的活动具有90天的保留期，并且您选择“过去100天”，则仅返回过去90天的结果。 可以在此处[找到活动保留期](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}。
 1. **限制嵌套智能列表 —**&#x200B;创建新智能列表时，请限制使用的“智能列表成员”过滤器的数量。 这称为嵌套智能列表，引用的每个智能列表都将增加处理时间。 请改为引用静态列表或利用[分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}。
 1. **使用正运算符而非负运算符 —**&#x200B;虽然“不”筛选器可用，但它们必须搜索实例中的整个数据集，这可能非常耗时。 积极的“is”过滤器能够利用更有效的搜索算法。
 1. **避免“包含” —**&#x200B;如果您只有部分数据，则“开头为”限定符产生的结果将比“包含”快得多。 “是”的运行速度会更快。 请避免将“包含”与多值一起使用；这两种情况结合使用可能会进一步降低营销活动的速度。
@@ -31,9 +31,9 @@ ht-degree: 0%
 1. **使用非活动筛选器要节俭 —**&#x200B;诸如“未填写表单”之类的筛选器可能非常有用，但需要更大的处理能力。
 1. **粘贴多个值时请节俭 —**&#x200B;多选可粘贴数十个或数百个值。 然而，如果放太多了，就会慢慢放慢速度。
 1. **添加约束时请节俭 —**&#x200B;这些是规则和相关值的一些细微细节。 添加的约束越多，处理时间越慢。
-1. **简化您的营销活动 —** 100多条独立的规则（我们已经看过了！） 显然需要一些时间来处理。 保持简单，您会注意到速度的提高 — 而且它更易于您理解。
+1. **简化您的营销活动 —** 100多个独立规则（我们已经看过！）显然需要一些时间才能处理。 保持简单，您会注意到速度的提高 — 而且它更易于您理解。
 1. **使用电子邮件地址筛选器时，在域名前包含@符号** **-**&#x200B;这使其使用更快的查询。 示例：使用&#x200B;_email contains &#39;somedomain.com_，而不使用&#x200B;_email contains &#39;@somedomain.com&#39;_。 如果您使用带有“包含”的多个电子邮件地址，则所有电子邮件地址都必须以“@”开头。
 
 >[!TIP]
 >
->Marketo Engage可以用多种方式使用，某些技术更适合您和您的业务。 如果您希望获得帮助，以充分利用您的投资，请联系您的Adobe Professional Services销售代表。
+>Marketo Engage可以通过多种方式使用，某些技术更适合您和您的业务。 如果您希望获得帮助，以充分利用您的投资，请联系您的Adobe Professional Services销售代表。

@@ -1,25 +1,25 @@
 ---
 unique-page-id: 14745823
 description: 在Salesforce中创建工作流规则 — Marketo文档 — 产品文档
-title: 在Salesforce中创建工作流规则
+title: 在 Salesforce 中创建工作流规则
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 在Salesforce中创建工作流规则 {#creating-workflow-rules-in-salesforce}
+# 在 Salesforce 中创建工作流规则 {#creating-workflow-rules-in-salesforce}
 
 并行使用Marketo Sales Insight (MSI)和Marketo Sales Connect (MSC)时，[!DNL Salesforce]中的MSI最佳匹配功能将不会更新。 所有其他MSI功能均可正常使用（查看iFrame中的有趣时刻、发送电子邮件、添加到营销活动等）。 本文提供了使Best Bets再次正常工作的解决方法。
 
 >[!NOTE]
 >
->这仅会影响同时使用&#x200B;**1&rbrace; MSI和MSE以及希望在MSI中使用最佳匹配功能的客户。**&#x200B;如果您不需要/使用“最佳匹配”，则可以忽略。
+>这仅会影响同时使用&#x200B;**1} MSI和MSE以及希望在MSI中使用最佳匹配功能的客户。**&#x200B;如果您不需要/使用“最佳匹配”，则可以忽略。
 
-## 开始使用 {#getting-started}
+## 快速入门 {#getting-started}
 
 解决方法包括创建新工作流规则，以将新MSE字段中的值复制到旧MSI字段中。 您需要为联系人对象创建四个工作流规则，并为您自己的[!DNL Salesforce]实例中的潜在客户对象创建相同的四个工作流规则。 这可能会要求您拥有CRM管理员权限（具体取决于您在CRM中的角色和设置）。
 

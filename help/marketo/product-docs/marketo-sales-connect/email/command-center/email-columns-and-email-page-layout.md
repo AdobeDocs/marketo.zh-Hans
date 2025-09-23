@@ -4,10 +4,10 @@ description: 电子邮件列和电子邮件页面布局 — Marketo文档 — �
 title: 电子邮件列和电子邮件页面布局
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '457'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

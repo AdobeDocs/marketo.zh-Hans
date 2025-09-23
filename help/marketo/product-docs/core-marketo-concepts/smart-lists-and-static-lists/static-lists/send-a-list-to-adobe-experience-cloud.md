@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356194
 description: 将列表发送到Adobe Experience Cloud - Marketo文档 — 产品文档
-title: 向Adobe Experience Cloud发送列表
+title: 将列表发送到 Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 781f1350b4eae731bd77013ed9f238d77a6fcd32
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 向Adobe Experience Cloud发送列表 {#send-a-list-to-adobe-experience-cloud}
+# 将列表发送到 Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
@@ -94,9 +94,9 @@ ht-degree: 1%
 
 ### 共享到Adobe Analytics {#sharing-to-adobe-analytics}
 
-* 对于同时拥有Adobe Audience Manager和Adobe Analytics的用户，通过此集成，可以将受众从Marketo共享到Adobe Analytics报表包，但是，还需要在Adobe Audience Manager中执行一些其他配置步骤才能启用此功能。 请查阅[Adobe Audience Manager的文档](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hans){target="_blank"}以了解有关如何设置此功能的更多信息。
+* 对于同时拥有Adobe Audience Manager和Adobe Analytics的用户，通过此集成，可以将受众从Marketo共享到Adobe Analytics报表包，但是，还需要在Adobe Audience Manager中执行一些其他配置步骤才能启用此功能。 请查阅[Adobe Audience Manager的文档](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}以了解有关如何设置此功能的更多信息。
 
-* 将列表从Marketo上传到Adobe Audience Manager后，Adobe Target也可以访问该列表。 必须在Adobe Target[中启用该配置](https://experienceleague.adobe.com/zh-hans/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
+* 将列表从Marketo上传到Adobe Audience Manager后，Adobe Target也可以访问该列表。 必须在Adobe Target[中启用该配置](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
 
 * 如果列表为空，或没有具有ECID值的用户，则列表名称不会推送到Marketo外部进行引用。
 

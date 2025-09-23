@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382535
 description: 在我的令牌中使用URL - Marketo文档 — 产品文档
-title: 在我的令牌中使用URL
+title: 在我的令牌中使用 URL
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 在我的令牌中使用URL {#using-urls-in-my-tokens}
+# 在我的令牌中使用 URL {#using-urls-in-my-tokens}
 
 按照以下步骤使用[!UICONTROL My Tokens]将URL插入到您的电子邮件中。
 

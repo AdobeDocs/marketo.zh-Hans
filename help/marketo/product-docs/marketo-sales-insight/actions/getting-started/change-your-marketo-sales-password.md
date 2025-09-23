@@ -1,18 +1,18 @@
 ---
 description: 更改您的Marketo销售密码 — Marketo文档 — 产品文档
-title: 更改您的Marketo销售密码
+title: 更改您的 Marketo Sales 密码
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 更改您的Marketo销售密码 {#change-your-marketo-sales-password}
+# 更改您的 Marketo Sales 密码 {#change-your-marketo-sales-password}
 
-需要更改密码吗？ 具体方法如下。
+需要更改密码吗？ 操作方法如下：
 
 ## 登录时更改密码 {#change-your-password-while-signed-in}
 

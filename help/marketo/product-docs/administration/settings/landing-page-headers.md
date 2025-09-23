@@ -1,38 +1,38 @@
 ---
 description: 登陆页标题 — Marketo文档 — 产品文档
-title: 登陆页标题
+title: 登陆页面标头
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 5%
 
 ---
 
-# 登陆页标题 {#landing-page-headers}
+# 登陆页面标头 {#landing-page-headers}
 
 请按照以下步骤自定义登陆页面域上的某些HTTP标头。
 
-1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**。
+1. 在Marketo中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/landing-page-headers-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 登陆页面]**。
+1. 单击 **[!UICONTROL Landing Pages]**。
 
    ![](assets/landing-page-headers-2.png)
 
-1. 单击登陆页面HTTP标题旁边的&#x200B;**[!UICONTROL 编辑]**。
+1. 单击登陆页面HTTP标头旁边的&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/landing-page-headers-3.png)
 
-1. 选择所需的设置，完成后，单击&#x200B;**[!UICONTROL 保存]**。
+1. 选择所需的设置，完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/landing-page-headers-4.png)
 
 <table>
  <tr>
-  <td><strong>[!UICONTROL 严格传输安全]</strong></td>
+  <td><strong>[!UICONTROL Strict-Transport-Security]</strong></td>
   <td>使用此项可保证始终通过HTTPS提供到登陆页面的连接（应仅针对登陆页面受SSL保护的订阅进行设置）</td>
  </tr>
  <tr>

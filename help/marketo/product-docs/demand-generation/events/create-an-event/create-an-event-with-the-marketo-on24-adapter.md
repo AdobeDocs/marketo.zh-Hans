@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096656
 description: 使用Marketo ON24适配器创建事件 — Marketo文档 — 产品文档
-title: 使用Marketo ON24适配器创建事件
+title: 使用 Marketo ON24 适配器创建事件
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 使用Marketo ON24适配器创建事件 {#create-an-event-with-the-marketo-on-adapter}
+# 使用 Marketo ON24 适配器创建事件 {#create-an-event-with-the-marketo-on-adapter}
 
 您应该熟悉构建基块以及在Marketo中创建事件的推荐顺序。 您还应具有以下Marketo概念的工作知识：
 

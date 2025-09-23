@@ -1,15 +1,15 @@
 ---
 description: 将操作按钮添加到Salesforce列表视图 — Marketo文档 — 产品文档
-title: 将操作按钮添加到Salesforce列表视图
+title: 在 Salesforce 列表视图中添加操作按钮
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# 将操作按钮添加到Salesforce列表视图 {#add-action-buttons-to-salesforce-list-view}
+# 在 Salesforce 列表视图中添加操作按钮 {#add-action-buttons-to-salesforce-list-view}
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 1%
 * 发送销售电子邮件
 * 添加到销售活动
 
-## 在Salesforce Lightning中 {#salesforce-lightning}
+## Salesforce闪电 {#salesforce-lightning}
 
 1. 导航到[Salesforce.com](https://salesforce.com){target="_blank"}。
 1. 单击&#x200B;**设置**。
@@ -49,5 +49,5 @@ ht-degree: 1%
 >[!MORELIKETHIS]
 >
 >* [在Salesforce中使用批量发送销售电子邮件](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
->* [在Salesforce中使用批量添加到Sales Campaign](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
->* [在SalesforceAppExchange中安装Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [在Salesforce中使用批量添加到促销活动](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
+>* [在Salesforce AppExchange中安装Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

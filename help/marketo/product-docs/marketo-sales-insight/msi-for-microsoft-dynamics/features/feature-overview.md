@@ -4,10 +4,10 @@ description: 功能概述 — Marketo文档 — 产品文档
 title: 功能概述
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 11%
+ht-degree: 13%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 11%
 ## 潜在客户布局中的[!DNL Marketo Sales Insight]面板  {#marketo-sales-insight-panel-in-lead-layout}
 
 * 星与火
-* 有趣的时刻
+* 重要时刻
 * Web活动
 * 得分
 * 电子邮件（打开并单击）
@@ -43,7 +43,7 @@ ht-degree: 11%
 ## 联系人布局中的[!DNL Marketo Sales Insight]面板  {#marketo-sales-insight-panel-in-contact-layout}
 
 * 星与火
-* 有趣的时刻
+* 重要时刻
 * Web活动
 * 得分
 * 电子邮件（打开并单击）
@@ -68,7 +68,7 @@ ht-degree: 11%
 ## 帐户布局中的[!DNL Marketo Sales Insight]面板 {#marketo-sales-insight-panel-in-account-layout}
 
 * 星与火
-* 有趣的时刻
+* 重要时刻
 * Web活动
 * 得分
 * 电子邮件（打开并单击）
@@ -78,6 +78,6 @@ ht-degree: 11%
 * 优先级（星星和火焰）
 * 名称（超链接到潜在客户/联系人页面）
 * 帐户
-* 有趣的时刻
+* 重要时刻
 * 状态
 * 潜在客户馈送 — 包括订购IM的功能

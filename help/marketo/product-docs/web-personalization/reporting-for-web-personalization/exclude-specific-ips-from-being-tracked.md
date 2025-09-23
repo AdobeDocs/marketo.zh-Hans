@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719340
 description: 排除要跟踪的特定IP - Marketo文档 — 产品文档
-title: 排除要跟踪的特定IP
+title: 排除特定 IP 不被跟踪
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 排除要跟踪的特定IP {#exclude-specific-ips-from-being-tracked}
+# 排除特定 IP 不被跟踪 {#exclude-specific-ips-from-being-tracked}
 
 是否想要从[!UICONTROL Web Personalization]中的跟踪和报告中排除您自己的员工和组织名称？
 

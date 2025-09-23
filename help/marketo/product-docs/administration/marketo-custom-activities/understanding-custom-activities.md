@@ -4,10 +4,10 @@ description: 了解自定义活动 — Marketo文档 — 产品文档
 title: 了解自定义活动
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 **字段**&#x200B;您可以添加要与活动关联的[其他字段](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)。 与主字段一样，它们也可用作智能列表中的筛选条件。
 
-**快速入门**
+**入门指南**
 
 自定义活动的功能与标准活动类似。 但是，设置过程分为两个部分。
 

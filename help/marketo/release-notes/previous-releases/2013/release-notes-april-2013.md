@@ -4,14 +4,14 @@ description: 发行说明 — 2013年4月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年4月
 exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 发行说明： 2013年4月 {#release-notes-april}
+# 发行说明：2013 年 4 月 {#release-notes-april}
 
 4月版本中包含以下功能。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## [!DNL Gmail]插件 {#gmail-plugin}
 
-如果您同时使用Marketo [!DNL Sales Insight]和[!DNL Gmail]，则可以通过[!DNL Chrome]应用商店安装我们的新[!DNL Gmail]插件。 插件允许您使用Marketo记录消息、加载Marketo电子邮件模板，以及使用Marketo跟踪功能发送消息。
+如果您同时使用Marketo [!DNL Sales Insight]和[!DNL Gmail]，则可以通过[!DNL Gmail]应用商店安装我们的新[!DNL Chrome]插件。 插件允许您使用Marketo记录消息、加载Marketo电子邮件模板，以及使用Marketo跟踪功能发送消息。
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 

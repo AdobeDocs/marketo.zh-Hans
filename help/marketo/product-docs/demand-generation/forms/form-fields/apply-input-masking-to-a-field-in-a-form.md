@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359667
 description: 将输入掩码应用于表单中的字段 — Marketo文档 — 产品文档
-title: 将输入掩码应用于表单中的字段
+title: 对表单字段应用输入遮罩
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# 将输入掩码应用于表单中的字段 {#apply-input-masking-to-a-field-in-a-form}
+# 对表单字段应用输入遮罩 {#apply-input-masking-to-a-field-in-a-form}
 
 您可以使用输入掩码限制访客的输入。 例如，您可能希望访客仅以特定格式输入电话号码。
 

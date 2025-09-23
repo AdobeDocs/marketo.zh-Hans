@@ -4,14 +4,14 @@ description: 发行说明 — 2014年3月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年3月
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2014年3月 {#release-notes-march}
+# 发行说明：2014 年 3 月 {#release-notes-march}
 
 2014年3月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以获取每个功能的知识库文章链接。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 适用于Analytics的包容性和可操作性计划 {#inclusive-and-operational-programs-for-analytics}
 
-现在，通过编辑项目渠道时将Analytics Behavior选项设置为“Inclusive”，您可以[在[!UICONTROL Revenue Explorer]和分析程序中包含没有期间成本的项目](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)。 您还可以通过选择“操作”将操作程序排除在报告之外。
+现在，通过编辑项目渠道时将Analytics Behavior选项设置为“Inclusive”，您可以[在](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)和分析程序中包含没有期间成本的项目[!UICONTROL Revenue Explorer]。 您还可以通过选择“操作”将操作程序排除在报告之外。
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

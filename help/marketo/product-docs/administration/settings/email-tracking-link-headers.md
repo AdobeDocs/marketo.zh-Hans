@@ -1,28 +1,28 @@
 ---
 description: 电子邮件跟踪链接标头 — Marketo文档 — 产品文档
-title: 电子邮件跟踪链接标题
+title: 电子邮件跟踪链接标头
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 9%
 
 ---
 
-# 电子邮件跟踪链接标题 {#email-tracking-link-headers}
+# 电子邮件跟踪链接标头 {#email-tracking-link-headers}
 
 请按照以下步骤自定义您的电子邮件跟踪链接标头。
 
-1. 在Marketo中，单击&#x200B;**[!UICONTROL 管理员]**。
+1. 在Marketo中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 电子邮件]**。
+1. 单击 **[!UICONTROL Email]**。
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. 向下滚动到“自定义标题选项”。 选择所需的设置，然后单击&#x200B;**[!UICONTROL 保存更改]**。
+1. 向下滚动到“自定义标题选项”。 选择所需的设置，然后单击&#x200B;**[!UICONTROL Save Changes]**。
 
    ![](assets/email-tracking-link-headers-3.png)
 

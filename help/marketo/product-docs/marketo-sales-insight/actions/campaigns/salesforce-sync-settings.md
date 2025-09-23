@@ -1,12 +1,12 @@
 ---
 description: Salesforce同步设置 — Marketo文档 — 产品文档
-title: Salesforce同步设置
+title: Salesforce 同步设置
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '574'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-settings-4.png)
 
-1. 单击&#x200B;**[!UICONTROL Salesforce API]**&#x200B;选项卡。 在此信息卡中，您可以设置用于将信息记录到[!DNL Salesforce]的首选项。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 单击 **[!UICONTROL Salesforce API]** 选项卡。在此信息卡中，您可以设置用于将信息记录到[!DNL Salesforce]的首选项。 完成后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/salesforce-sync-settings-5.png)
 

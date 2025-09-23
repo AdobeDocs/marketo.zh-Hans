@@ -4,10 +4,10 @@ description: 了解隐私设置 — Marketo文档 — 产品文档
 title: 了解隐私设置
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '500'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -60,7 +60,7 @@ Web访客可以通过选择“不跟踪”(DNT)来设置浏览器，以防止任
 >
 >这当前仅适用于[!DNL Munchkin]版本152及更高版本。
 
-## 选择启用 {#opt-in}
+## Opt In {#opt-in}
 
 营销人员可以通过在电子邮件、表单、登陆页面和其他方法中使用Marketo的功能，让用户选择加入。
 

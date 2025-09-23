@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17727818
 description: 使用角色 — Marketo文档 — 产品文档
-title: 使用角色
+title: 使用用户画像
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 使用角色 {#using-personas}
+# 使用用户画像 {#using-personas}
 
 角色是一种将ABM受众和市场细分到特定人员子集的好方法。
 

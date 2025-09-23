@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720125
 description: 将RTP与Google Universal Analytics集成 — Marketo文档 — 产品文档
-title: 将RTP与Google Universal Analytics集成
+title: 将 RTP 与 Google Universal Analytics 集成
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -43,7 +43,6 @@ ht-degree: 2%
    1. 选择&#x200B;**[!UICONTROL Account].**
    1. 选择&#x200B;**[!UICONTROL Property].**
    1. 选择&#x200B;**[!UICONTROL Custom Definitions]**&#x200B;和&#x200B;**[!UICONTROL Custom Dimensions]**。
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 添加新的自定义维度。 单击 **[!UICONTROL +New Custom Dimension]**
@@ -57,7 +56,7 @@ ht-degree: 2%
   <tr>
    <td><p><strong>自定义Dimension名称</strong></p></td>
    <td><p><strong>范围</strong></p></td>
-   <td><p><strong>活动</strong></p></td>
+   <td><p><strong>启用</strong></p></td>
   </tr>
   <tr>
    <td><p><strong>RTP组织</strong></p></td>

@@ -4,14 +4,14 @@ title: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 第1步（共3步）：将Marketo字段添加到Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# 第 1 步（共 3 步）：将 Marketo 字段添加到 Salesforce（企业版/无限制版） {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >

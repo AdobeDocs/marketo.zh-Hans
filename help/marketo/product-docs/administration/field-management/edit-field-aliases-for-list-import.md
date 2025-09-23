@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360346
 description: 编辑列表导入的字段别名 — Marketo文档 — 产品文档
-title: 编辑列表导入的字段别名
+title: 为列表导入编辑字段别名
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 编辑列表导入的字段别名 {#edit-field-aliases-for-list-import}
+# 为列表导入编辑字段别名 {#edit-field-aliases-for-list-import}
 
 导入带有未知标题的列表时，可以创建字段别名以简化操作。 您还可以在字段管理中编辑这些别名。 看吧。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 

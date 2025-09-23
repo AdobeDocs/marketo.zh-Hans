@@ -1,16 +1,16 @@
 ---
 description: CT-YYYY-MM-Content非Marketo登录页面 — Marketo文档 — 产品文档
-title: CT-YYYY-MM-Content非Marketo登录页面
+title: CT-YYYY-MM-非 Marketo 登陆页面内容
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# CT-YYYY-MM-Content非Marketo登录页面 {#ct-yyyy-mm-content-non-marketo-landing-page}
+# CT-YYYY-MM-非 Marketo 登陆页面内容 {#ct-yyyy-mm-content-non-marketo-landing-page}
 
 这是一个带有Marketo Engage表单的内容程序示例，该表单用于在非Marketo Engage登陆页面上使用Marketo Engage默认程序下载内容。 此程序适用于嵌入到您网站上的Marketo Engage表单。 优惠/内容的链接可以通过感谢电子邮件发送。
 
@@ -47,7 +47,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>01-Email — 谢谢</td>
   </tr>
   <tr>
@@ -61,17 +61,17 @@ ht-degree: 6%
    <td>电子邮件性能</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>00 — 捕获客户获取计划</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>01填写表单</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>02参与（计划成功）</td>
   </tr>

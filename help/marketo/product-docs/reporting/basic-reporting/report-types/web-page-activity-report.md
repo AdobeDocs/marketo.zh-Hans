@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359971
 description: 网页活动报表 — Marketo文档 — 产品文档
-title: 网页活动报表
+title: Web 页面活动报告
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '319'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 网页活动报表 {#web-page-activity-report}
+# Web 页面活动报告 {#web-page-activity-report}
 
 在此报表中，您可以查看谁正在访问您的网站，甚至可以订阅该报表的电子邮件版本。
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 >
 >* [将Munchkin跟踪代码添加到您的网站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
-1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**网页活动报告**&#x200B;[报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**网页活动报告**[报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
 1. 选择在报告中[显示已知或匿名人员](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}。
 
 1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"}并单击&#x200B;**报告**&#x200B;选项卡。

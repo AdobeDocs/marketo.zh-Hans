@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949154
 description: 为您的Web营销活动添加标签 — Marketo文档 — 产品文档
-title: 为您的Web营销活动添加标签
+title: 为 Web 营销活动添加标签
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 为您的Web营销活动添加标签 {#label-your-web-campaigns}
+# 为 Web 营销活动添加标签 {#label-your-web-campaigns}
 
 您有这么多营销活动吗？滚动会变得繁琐吗？ 可使用标签为营销策划添加标签，以便您可以对营销策划进行排序，并快速找到它们。
 

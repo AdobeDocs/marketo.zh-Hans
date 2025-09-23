@@ -4,22 +4,22 @@ description: 更改密码安全设置 — Marketo文档 — 产品文档
 title: 更改密码安全设置
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
 # 更改密码安全设置 {#change-your-password-security-settings}
 
-控制订阅的密码策略。 具体方法如下。
+控制订阅的密码策略。 操作方法如下：
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/change-your-password-security-settings-1.png)
 

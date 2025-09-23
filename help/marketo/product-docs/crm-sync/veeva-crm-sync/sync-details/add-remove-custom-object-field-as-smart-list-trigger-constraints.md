@@ -1,16 +1,16 @@
 ---
 description: 添加/删除自定义对象字段作为智能列表/触发器约束 — Marketo文档 — 产品文档
-title: 添加/删除自定义对象字段作为智能列表/触发器约束
+title: 添加/移除自定义对象字段作为智能列表/触发约束
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 添加/删除自定义对象字段作为智能列表/触发器约束 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# 添加/移除自定义对象字段作为智能列表/触发约束 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo Engage提供对[!DNL Veeva]自定义对象同步的特定控制。 这允许您选择可用作自定义对象过滤器中的约束条件的字段，并在智能营销策划中将其用作触发器。
 

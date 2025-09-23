@@ -4,16 +4,16 @@ description: 发送电子邮件 — Marketo文档 — 产品文档
 title: 发送电子邮件
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 4%
 
 ---
 
 # 发送电子邮件 {#send-email}
 
-“[!UICONTROL 发送电子邮件]”流程步骤可以用作营销活动的一部分，也可以用作向您的联系人发送电子邮件的单一流程步骤。
+“[!UICONTROL Send Email]”流程步骤可用作营销活动的一部分，或用作向您的人员发送电子邮件的单个流程步骤。
 
 ![](assets/send-email-1.png)
 

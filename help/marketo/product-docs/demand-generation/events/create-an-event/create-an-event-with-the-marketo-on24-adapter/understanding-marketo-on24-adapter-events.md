@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096658
 description: 了解Marketo On24适配器事件 — Marketo文档 — 产品文档
-title: 了解Marketo On24适配器事件
+title: 了解 Marketo On24 适配器事件
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 了解Marketo On24适配器事件 {#understanding-marketo-on-adapter-events}
+# 了解 Marketo On24 适配器事件 {#understanding-marketo-on-adapter-events}
 
 如果您的ON24网络研讨会未连接到Marketo，则必须获取Marketo中已存在的与会者信息并将其输入到ON24中。 网络研讨会后，您必须获取ON24中已存在的出席信息，然后将其输入回Marketo。
 

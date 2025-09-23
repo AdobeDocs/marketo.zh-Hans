@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099360
 description: 准备活动 — Marketo文档 — 产品文档
-title: 准备您的活动
+title: 为活动做准备
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 准备您的活动 {#prepare-for-your-event}
+# 为活动做准备 {#prepare-for-your-event}
 
 要准备此次活动，您必须完成几项操作。
 

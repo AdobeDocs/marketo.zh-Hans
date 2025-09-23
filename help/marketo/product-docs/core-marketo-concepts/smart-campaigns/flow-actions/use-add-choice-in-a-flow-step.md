@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146980
 description: 在流程步骤中使用添加选项 — Marketo文档 — 产品文档
-title: 在流程步骤中使用添加选项
+title: 在流程步骤中使用“添加选择”
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 0%
+source-wordcount: '192'
+ht-degree: 7%
 
 ---
 
-# 在流程步骤中使用添加选项 {#use-add-choice-in-a-flow-step}
+# 在流程步骤中使用“添加选择” {#use-add-choice-in-a-flow-step}
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 通过“添加选项”，您可以使用流程步骤并在选择详细信息时说“这取决于”。
 
-1. 在Smart Campaign的&#x200B;**[!UICONTROL 流量]**&#x200B;选项卡下，添加任何流量步骤，然后单击&#x200B;**[!UICONTROL 添加选项]**。
+1. 在Smart Campaign的&#x200B;**[!UICONTROL Flow]**&#x200B;选项卡下，添加任何流量步骤，然后单击&#x200B;**[!UICONTROL Add Choice]**。
 
    ![](assets/use-add-choice-in-a-flow-step-1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >仅第一个匹配选择应用于流程步骤。 了解如何在流程操作[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}中重新排序“添加选择”。
+   >仅第一个匹配选择应用于流程步骤。 了解如何在流程操作[中](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}重新排序“添加选择”。
 
    太棒了！ 您现在可以创建具有流程步骤选择的单个智能营销活动，而不是为每个选择创建多个智能营销活动。
 

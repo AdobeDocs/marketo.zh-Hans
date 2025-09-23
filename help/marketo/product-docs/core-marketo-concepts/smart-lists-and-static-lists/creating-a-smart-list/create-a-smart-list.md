@@ -4,10 +4,10 @@ description: 创建智能列表 — Marketo文档 — 产品文档
 title: 创建智能列表
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 智能列表允许您使用简单过滤器查找特定人员组。 以下是如何创建一个。
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-a-smart-list-1.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/create-a-smart-list-2.png)
 
-1. 在&#x200B;**[!UICONTROL 新建]**&#x200B;下，单击&#x200B;**[!UICONTROL 新建本地资产]**。
+1. 在&#x200B;**[!UICONTROL New]**&#x200B;下，单击&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/create-a-smart-list-3.png)
 
-1. 选择&#x200B;**[!UICONTROL 智能列表]**。
+1. 选择 **[!UICONTROL Smart List]**。
 
    ![](assets/create-a-smart-list-4.png)
 
-1. 输入&#x200B;**[!UICONTROL 名称]**&#x200B;并单击&#x200B;**[!UICONTROL 创建]**。
+1. 输入&#x200B;**[!UICONTROL Name]**&#x200B;并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-a-smart-list-5.png)
 

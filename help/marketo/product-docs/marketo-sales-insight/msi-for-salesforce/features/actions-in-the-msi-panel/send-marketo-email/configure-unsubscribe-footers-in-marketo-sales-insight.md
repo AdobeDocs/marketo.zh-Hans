@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953373
 description: 在Marketo Sales Insight - Marketo文档中配置取消订阅页脚 — 产品文档
-title: 在Marketo Sales Insight中配置取消订阅页脚
+title: 在 Marketo Sales Insight 中配置取消订阅页脚
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >**销售电子邮件**&#x200B;是从[!DNL Sales Insight]发送的电子邮件(不包括从Marketo Outlook插件发送的电子邮件)。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/one-1.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718672
 description: 使用收入模型过渡 — Marketo文档 — 产品文档
-title: 使用收入模型过渡
+title: 使用收入模型转换
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 使用收入模型过渡 {#using-revenue-model-transitions}
+# 使用收入模型转换 {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10912085
 description: 共享和专用IP地址 — Marketo文档 — 产品文档
-title: 共享和专用IP地址
+title: 共享和专用的 IP 地址
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '433'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 共享和专用IP地址 {#shared-and-dedicated-ip-addresses}
+# 共享和专用的 IP 地址 {#shared-and-dedicated-ip-addresses}
 
 ## 什么是IP地址？ {#what-is-an-ip-address}
 

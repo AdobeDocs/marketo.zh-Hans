@@ -1,16 +1,16 @@
 ---
 description: 创建促销活动 — Marketo文档 — 产品文档
-title: 创建销售活动
+title: 创建销售营销活动
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 创建销售活动 {#create-a-sales-campaign}
+# 创建销售营销活动 {#create-a-sales-campaign}
 
 销售促销活动包含一系列多渠道步骤，包括：电子邮件、电话、InMail和自定义任务。 它们允许您简化与潜在客户和现有客户的通信。
 

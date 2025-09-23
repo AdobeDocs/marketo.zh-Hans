@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359868
 description: 上传来自盒子的图像和文件 — Marketo文档 — 产品文档
-title: 从盒子上载图像和文件
+title: 从 Box 上传图像和文件
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 3%
+ht-degree: 16%
 
 ---
 
-# 从盒子上载图像和文件 {#upload-images-and-files-from-box}
+# 从 Box 上传图像和文件 {#upload-images-and-files-from-box}
 
 您可以从Box上传文件以在登陆页面和电子邮件上使用。
 

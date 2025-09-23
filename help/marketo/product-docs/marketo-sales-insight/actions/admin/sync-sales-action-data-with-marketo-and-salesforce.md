@@ -1,15 +1,15 @@
 ---
 description: 将销售活动数据与Marketo和Salesforce同步 — Marketo文档 — 产品文档
-title: 将销售活动数据与Marketo和Salesforce同步
+title: 将销售操作数据与 Marketo 和 Salesforce 同步
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1068'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 将销售活动数据与Marketo和Salesforce同步 {#sync-sales-action-data-with-marketo-and-salesforce}
+# 将销售操作数据与 Marketo 和 Salesforce 同步 {#sync-sales-action-data-with-marketo-and-salesforce}
 
 通过Sales Insight Actions的数据统一字段同步，系统可以将人员信息从Marketo Engage数据库提取到Sales Insight Actions数据库中。
 

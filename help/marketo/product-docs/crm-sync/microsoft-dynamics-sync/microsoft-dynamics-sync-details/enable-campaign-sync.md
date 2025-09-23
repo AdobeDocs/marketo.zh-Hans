@@ -1,16 +1,16 @@
 ---
 description: 启用Campaign同步 — Marketo文档 — 产品文档
-title: 启用Campaign同步
+title: 启用营销活动同步
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 启用Campaign同步 {#enable-campaign-sync}
+# 启用营销活动同步 {#enable-campaign-sync}
 
 此选项允许Marketo在[!DNL MS Dynamics]营销活动中添加和删除成员。
 

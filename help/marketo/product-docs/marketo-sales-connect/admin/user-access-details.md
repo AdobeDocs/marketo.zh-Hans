@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352623
 description: 用户访问详细信息 — Marketo文档 — 产品文档
-title: 用户访问详细信息
+title: 用户访问详情
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 用户访问详细信息 {#user-access-details}
+# 用户访问详情 {#user-access-details}
 
 管理员和非管理员可以访问什么？
 

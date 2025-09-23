@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380771
 description: 颁发许可证 — Marketo文档 — 产品文档
-title: 颁发许可证
+title: 发放许可证
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 颁发许可证 {#issue-a-license}
+# 发放许可证 {#issue-a-license}
 
 您需要为用户设置许可证才能使用TAM。 以下是具体操作方法。
 

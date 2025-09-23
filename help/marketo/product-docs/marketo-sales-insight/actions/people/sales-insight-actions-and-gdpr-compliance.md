@@ -1,16 +1,16 @@
 ---
 description: 销售Insight行动和GDPR合规性 — Marketo文档 — 产品文档
-title: 销售Insight行动和GDPR合规性
+title: Sales Insight Actions 与 GDPR 合规性
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 销售Insight行动和GDPR合规性 {#sales-insight-actions-and-gdpr-compliance}
+# Sales Insight Actions 与 GDPR 合规性 {#sales-insight-actions-and-gdpr-compliance}
 
 《通用数据保护条例》(GDPR)是一项欧盟法律，已于2018年5月25日生效。
 
@@ -179,9 +179,9 @@ GDPR适用于欧盟内外向欧盟和EEA内的数据主体营销商品或服务�
 
 GDPR的一个常见误解领域涉及从组织数据库取消订阅的联系人。 为了遵守关于保护选择取消订阅的用户的数据的新规则，[!DNL Sales Insight Actions]中包含了以下功能：
 
-**取消订阅链接：**&#x200B;取消订阅链接将自动附加到从Sales Connect Web应用程序发送的所有电子邮件中，以确保为联系人提供可访问的选择退出的方式。
-**取消订阅同步：**&#x200B;用户可以将取消订阅同步到其CRM (Salesforce)，也可以从其CRM同步取消订阅，以确保选择退订是最新的。
-**取消订阅历史记录：**&#x200B;用户可以在人员详细信息视图中查看历史选择退出和选择加入。
+**取消订阅链接：**取消订阅链接将自动附加到从Sales Connect Web应用程序发送的所有电子邮件中，以确保为联系人提供可访问的选择退出的方式。
+**取消订阅同步：**用户可以将取消订阅同步到其CRM (Salesforce)，也可以从其CRM同步取消订阅，以确保选择退订是最新的。
+**取消订阅历史记录：**用户可以在人员详细信息视图中查看历史选择退出和选择加入。
 **取消订阅删除：**&#x200B;选择重新加入取消订阅的联系人需要用户具有管理员权限，并证明该联系人已同意重新与他们联系。
 
 ## 将来的更新 {#future-updates}

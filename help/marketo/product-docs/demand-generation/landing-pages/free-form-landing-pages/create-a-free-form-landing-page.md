@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359701
 description: 创建自由格式登陆页面 — Marketo文档 — 产品文档
-title: 创建自由表单登陆页面
+title: 创建自由格式登录页面
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 创建自由表单登陆页面 {#create-a-free-form-landing-page}
+# 创建自由格式登录页面 {#create-a-free-form-landing-page}
 
 可以将自由格式登陆页面创建为项目的本地资产，或创建在[!UICONTROL Design Studio]中以全局使用。
 

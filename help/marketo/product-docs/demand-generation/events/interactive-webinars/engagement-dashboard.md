@@ -1,16 +1,16 @@
 ---
 description: 参与仪表板 — Marketo文档 — 产品文档
-title: 参与仪表板
+title: 互动仪表板
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1700'
 ht-degree: 0%
 
 ---
 
-# 参与仪表板 {#engagement-dashboard}
+# 互动仪表板 {#engagement-dashboard}
 
 由Adobe Connect提供支持的交互式网络研讨会使用各种pod让参与者参与聊天、问答、测验和投票。 通过参与度仪表板，可跟踪关键量度和数据可视化。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953325
 description: 查看条目详细信息 — Marketo文档 — 产品文档
-title: 查看条目详细信息
+title: 查看条目详情
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 查看条目详细信息 {#view-entry-details}
+# 查看条目详情 {#view-entry-details}
 
 在营销日历中查看条目详细信息时，您可以看到有关条目的各种有趣内容。
 

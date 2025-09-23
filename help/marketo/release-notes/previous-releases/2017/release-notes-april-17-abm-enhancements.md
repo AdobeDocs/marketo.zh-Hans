@@ -4,14 +4,14 @@ description: 发行说明 — 2017年4月ABM增强 — Marketo文档 — 产品�
 title: 发行说明 — 2017年4月ABM增强功能
 exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 发行说明： 2017年4月ABM增强功能 {#release-notes-april-abm-enhancements}
+# 发行说明：2017 年 4 月 ABM 增强功能 {#release-notes-april-abm-enhancements}
 
 2017年4月的ABM增强版本中包含以下功能。 检查您的Marketo版本以了解功能可用性。
 

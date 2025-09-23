@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762322
 description: Salesforce中的Marketo Sales Insight Configuration选项卡 — Marketo文档 — 产品文档
-title: Salesforce中的Marketo Sales Insight Configuration选项卡
+title: Salesforce 中的 Marketo Sales Insight 配置选项卡
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '615'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

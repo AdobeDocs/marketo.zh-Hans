@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352412
 description: 添加标识 — Marketo文档 — 产品文档
-title: 添加身份
+title: 添加身份标识
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 添加身份 {#add-identity}
+# 添加身份标识 {#add-identity}
 
 当您有多个要发送的电子邮件地址时，请添加身份。
 

@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2360337
 description: 创建并使用连接字符串（公式）字段 — Marketo文档 — 产品文档
-title: 创建并使用串联字符串（公式）字段
+title: 创建并使用连接字符串（公式）字段
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 13%
 
 ---
 
-# 创建并使用串联字符串（公式）字段 {#create-and-use-a-concatenated-string-formula-field}
+# 创建并使用连接字符串（公式）字段 {#create-and-use-a-concatenated-string-formula-field}
 
-您可以组合多个字段中的值或使用Marketo Engage公式字段构建条件值。
+您可以组合多个字段中的值，或使用Marketo Engage公式字段构建条件值。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建自定义字段]**。
+1. 单击 **[!UICONTROL New Custom Field]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. 为&#x200B;**[!UICONTROL Type]**&#x200B;选择&#x200B;**[!UICONTROL 公式]**。
+1. 为&#x200B;**[!UICONTROL Formula]**&#x200B;选择&#x200B;**[!UICONTROL Type]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. 为您的字段输入&#x200B;**[!UICONTROL 名称]**，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 为您的字段输入&#x200B;**[!UICONTROL Name]**，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. 查找并选择公式字段，然后单击&#x200B;**[!UICONTROL 编辑规则]**。
+1. 查找并选择公式字段，然后单击&#x200B;**[!UICONTROL Edit Rules]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >了解有关流程步骤[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的令牌的更多信息。
+   >了解有关流程步骤[的](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)令牌的更多信息。
 
 1. 现在，您可以在电子邮件中添加公式字段作为令牌。
 

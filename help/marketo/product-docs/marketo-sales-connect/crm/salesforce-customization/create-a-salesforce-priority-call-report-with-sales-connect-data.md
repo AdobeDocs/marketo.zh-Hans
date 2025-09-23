@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352470
 description: 使用Sales Connect数据创建Salesforce优先呼叫报告 — Marketo文档 — 产品文档
-title: 使用Sales Connect数据创建Salesforce优先呼叫报告
+title: 使用 Sales Connect 数据创建 Salesforce 优先呼叫报告
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 使用Sales Connect数据创建Salesforce优先呼叫报告 {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# 使用 Sales Connect 数据创建 Salesforce 优先呼叫报告 {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 了解如何使用[!DNL Salesforce]电子邮件参与数据创建[!DNL Sales Connect]报告/通话列表，以重点关注具有发展动力的人员或机会。
 

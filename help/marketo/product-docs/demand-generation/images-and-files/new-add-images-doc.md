@@ -1,18 +1,18 @@
 ---
 description: 新增添加图像文档 — Marketo文档 — 产品文档
-title: 新建添加图像文档
+title: 新增添加图像文档
 hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
-# 新建添加图像文档 {#new-add-images-doc}
+# 新增添加图像文档 {#new-add-images-doc}
 
 您有多个选项可以将新文件/图像添加到您的“图像和文件”存储库。
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Upload image or file]**。
+1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Upload image or file]**。
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -48,7 +48,7 @@ ht-degree: 2%
 
 1. 按照以上[中的步骤1和2 ](#upload-image-or-file)操作。
 
-1. 单击&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Import image or file]**。
+1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
@@ -70,7 +70,7 @@ PICC
 
 1. 按照以上[中的步骤1和2 ](#upload-image-or-file)操作。
 
-1. 单击&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Import image or file]**。
+1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
@@ -100,7 +100,7 @@ PICC
 
 1. 按照以上[中的步骤1和2 ](#upload-image-or-file)操作。
 
-1. 单击&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Import image or file]**。
+1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 

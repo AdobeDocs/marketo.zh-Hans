@@ -3,10 +3,10 @@ description: 添加超链接文本 — Marketo文档 — 产品文档
 title: 添加超链接文本
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 输入您希望它链接的URL（即`https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans`）。 选择您想在同一窗口还是新窗口中打开URL，然后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入您希望它链接的URL（即`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。 选择您想在同一窗口还是新窗口中打开URL，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-hyperlinked-text-4.png)
 

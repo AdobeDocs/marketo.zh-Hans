@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1146931
 description: 新建Smart Campaign - Marketo文档 — 产品文档
-title: 创建新的Smart Campaign
+title: 创建新的智能营销活动
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
-# 创建新的Smart Campaign {#create-a-new-smart-campaign}
+# 创建新的智能营销活动 {#create-a-new-smart-campaign}
 
-智能营销活动是Marketo Engage最重要的工具。 它们可以触发一个人，并执行操作，也可以汇总数百万人并执行一系列流程步骤。
+智能营销活动是Marketo Engage中最重要的工具。 它们可以触发一个人，并执行操作，也可以汇总数百万人并执行一系列流程步骤。
 
 >[!TIP]
 >
 >了解有关[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}的更多信息。
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. 右键单击所需的项目并选择&#x200B;**[!UICONTROL 新建Smart Campaign]**。
+1. 右键单击所需的项目并选择&#x200B;**[!UICONTROL New Smart Campaign]**。
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >您可以将Smart Campaigns创建为任何项目的本地资产。
 
-1. 输入Smart Campaign名称，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 输入Smart Campaign名称并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-a-new-smart-campaign-3.png)
 

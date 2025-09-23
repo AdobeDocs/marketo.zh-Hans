@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13796464
 description: Sales Connect概述 — Marketo文档 — 产品文档
-title: Sales Connect概述
+title: Sales Connect 概述
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 4%
+ht-degree: 9%
 
 ---
 
-# Sales Connect概述 {#sales-connect-overview}
+# Sales Connect 概述 {#sales-connect-overview}
 
 Marketo Sales Connect是一个多方面的销售支持解决方案，具有多种功能，可帮助您在整个销售周期中提高参与度。
 
@@ -19,13 +19,13 @@ Marketo Sales Connect是一个多方面的销售支持解决方案，具有多�
 >
 >并非每个人都购买了此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-## 实时信息源 {#the-live-feed}
+## 实时信息流 {#the-live-feed}
 
 销售代表可以查看营销和销售内容的[实时参与](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)。
 
 ![](assets/engagement.jpg)
 
-## 人员详细信息视图 {#person-detail-view}
+## 人员详情视图 {#person-detail-view}
 
 访问[详细的人员统计信息](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)。
 

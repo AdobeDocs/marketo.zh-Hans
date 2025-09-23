@@ -1,18 +1,18 @@
 ---
 description: 将致电原因和致电结果记录到Salesforce - Marketo文档 — 产品文档
-title: 将呼叫原因和呼叫结果记录到Salesforce
+title: 将通话原因和通话结果记录到 Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 将呼叫原因和呼叫结果记录到Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
+# 将通话原因和通话结果记录到 Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-如果您出于报告或可见性的目的，希望将致电结果记录并致电原因至Salesforce，则可以为每个创建自定义活动字段。 每个字段必须使用特定的API名称（在Salesforce中称为“字段名称”）。
+如果您出于报告或可见性的目的，希望将致电结果记录并致电原因至Salesforce，则可以为每个创建自定义活动字段。 每个字段必须使用特定的API名称(在Salesforce中称为“字段名称”)。
 
 * 呼叫结果字段名称：mktosales_call_output
 * 致电原因字段名称：mktosales_call_reason
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >确保您的Sales Insight Actions用户使用的用户档案能够看到自定义字段，并且您还可以在其他位置看到该字段。
+   >确保您的Sales Insight Actions用户使用的配置文件能够看到自定义字段，并且您还可以在其他位置看到该字段。
 
 1. 选择要将该字段添加到哪些页面布局，然后单击&#x200B;**保存** （或者，您可以单击&#x200B;**保存并新建**，然后对“致电原因”字段重复该过程）。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
-### 在Salesforce Classic中向“任务页面布局”添加自定义活动字段 {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
+### 在Salesforce Classic中向任务页面布局添加自定义活动字段 {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
 >[!NOTE]
 >

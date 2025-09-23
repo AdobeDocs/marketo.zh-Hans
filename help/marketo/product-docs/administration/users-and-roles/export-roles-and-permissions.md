@@ -3,10 +3,10 @@ description: 导出角色和权限 — Marketo文档 — 产品文档
 title: 导出角色和权限
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 16%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 0%
 >
 >需要管理员权限
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. 选择&#x200B;**[!UICONTROL 用户和角色]**。
+1. 选择 **[!UICONTROL Users & Roles]**。
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
 
    ![](assets/export-roles-and-permissions-3.png)
 

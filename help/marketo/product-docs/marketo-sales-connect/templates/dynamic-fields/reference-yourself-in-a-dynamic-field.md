@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352601
 description: 在动态字段中自我引用 — Marketo文档 — 产品文档
-title: 在动态字段中引用您自己
+title: 在动态字段中引用自己
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 在动态字段中引用您自己 {#reference-yourself-in-a-dynamic-field}
+# 在动态字段中引用自己 {#reference-yourself-in-a-dynamic-field}
 
 动态字段是我们合并邮件的形式。
 

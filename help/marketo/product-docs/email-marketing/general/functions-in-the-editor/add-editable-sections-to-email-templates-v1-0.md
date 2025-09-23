@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900585
 description: 将可编辑部分添加到电子邮件模板v1.0 - Marketo文档 — 产品文档
-title: 将可编辑部分添加到电子邮件模板v1.0
+title: 向电子邮件模板 v1.0 添加可编辑部分
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 将可编辑部分添加到电子邮件模板v1.0 {#add-editable-sections-to-email-templates-v1.0}
+# 向电子邮件模板 v1.0 添加可编辑部分 {#add-editable-sections-to-email-templates-v1.0}
 
 如果您在电子邮件模板编辑器v1.0中创建模板，则可以通过在任意部分周围放置特殊`<div>`来使其可编辑。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096675
 description: 创建子营销活动和本地Assets - Marketo文档 — 产品文档
-title: 创建子营销活动和本地Assets
+title: 创建子营销活动和本地资产
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '650'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 创建子营销活动和本地Assets {#create-child-campaigns-and-local-assets}
+# 创建子营销活动和本地资产 {#create-child-campaigns-and-local-assets}
 
 使用Design Studio创建子营销活动和本地资源。
 
@@ -64,7 +64,7 @@ ht-degree: 1%
 
 **注册/确认（触发营销活动）**
 
-* Smart List
+* 智能列表
 * 触发器基于&#x200B;**填写表单**。 确保使用&#x200B;**添加约束**&#x200B;来包含表单所在的登陆页面，尤其是在多个登陆页面上使用相同表单的情况下。
 
 >[!CAUTION]

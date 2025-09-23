@@ -4,10 +4,10 @@ description: 管理用户角色和权限 — Marketo文档 — 产品文档
 title: 管理用户角色和权限
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -31,7 +31,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 您无法编辑管理员和标准用户角色，但可以编辑其他角色。 您还可以创建新的自定义角色，以匹配公司中的特定组织结构。
 
-## 具有Adobe身份的Marketo {#marketo-with-adobe-identity}
+## 将 Marketo 与 Adobe Identity 集成 {#marketo-with-adobe-identity}
 
 如果您正在将Marketo与Adobe标识一起使用，则可以在此处[找到配置文件描述](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels)的列表。
 
@@ -39,7 +39,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 在[首次创建用户](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)或通过[编辑现有用户](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)时，可以为用户分配角色。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -63,7 +63,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 有时，贵组织有员工担任非常特定的角色，这些角色需要自定义权限组合。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -87,7 +87,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 如果需要更改与现有角色关联的权限，可以编辑该角色。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -115,7 +115,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 如果某个角色变得不必要，您可以将其删除。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 

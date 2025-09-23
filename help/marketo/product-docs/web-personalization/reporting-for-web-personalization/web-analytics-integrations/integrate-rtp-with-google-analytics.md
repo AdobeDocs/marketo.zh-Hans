@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949158
 description: 将RTP与Google Analytics集成 — Marketo文档 — 产品文档
-title: 将RTP与Google Analytics集成
+title: 将 RTP 与 Google Analytics 集成
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '559'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 将RTP与Google Analytics集成 {#integrate-rtp-with-google-analytics}
+# 将 RTP 与 Google Analytics 集成 {#integrate-rtp-with-google-analytics}
 
 >[!NOTE]
 >

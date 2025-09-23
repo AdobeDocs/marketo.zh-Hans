@@ -2,26 +2,26 @@
 description: 发行说明 — 2023年5月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 5 月
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 4%
+ht-degree: 19%
 
 ---
 
-# 发行说明： 2023年5月 {#release-notes-may-23}
+# 发行说明：2023 年 5 月 {#release-notes-may-23}
 
-在下方，您会找到2023年5月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2023年5月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 >[!AVAILABILITY]
 >
->以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
 
-## 标准发行周期功能 {#standard-release-cycle-features}
+## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2023年5月12日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能下方的状态。
+以下功能属于标准发行周期，将于&#x200B;**2023年5月12日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请检查每个功能下方的状态。
 
-### Marketo Engage Modern UX {#modern-ux}
+### Marketo Engage 现代用户体验 {#modern-ux}
 
 </br>
 
@@ -33,7 +33,7 @@ ht-degree: 4%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud界面概述</a></td>
   </tr>
   </tbody>
@@ -47,7 +47,7 @@ ht-degree: 4%
    <td><b>文档更新</b></td>
   </tr>
   <tr>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">帮助中心</a></td>
   </tr>
   </tbody>
@@ -74,7 +74,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>已开始推出</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=zh-Hans">交互式网络研讨会概述</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">交互式网络研讨会概述</a></td>
   </tr>
   </tbody>
 </table>

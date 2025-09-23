@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356565
 description: 发送跟踪电子邮件 — Marketo文档 — 产品文档
-title: 发送跟踪的电子邮件
+title: 发送可跟踪电子邮件
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 发送跟踪的电子邮件 {#sending-a-tracked-email}
+# 发送可跟踪电子邮件 {#sending-a-tracked-email}
 
 在发送包含[!DNL Marketo Sales Connect]的电子邮件时，将跟踪查看次数（电子邮件打开次数）和点击次数（点击链接）。
 

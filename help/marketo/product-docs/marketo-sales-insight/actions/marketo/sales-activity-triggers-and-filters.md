@@ -3,10 +3,10 @@ description: 销售活动触发器和过滤器 — Marketo文档 — 产品文�
 title: 销售活动触发器和过滤器
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

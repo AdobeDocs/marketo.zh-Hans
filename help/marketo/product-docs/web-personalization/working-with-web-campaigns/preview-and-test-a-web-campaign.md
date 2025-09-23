@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10092925
 description: 预览和测试Web营销活动 — Marketo文档 — 产品文档
-title: 预览和测试Web活动
+title: 预览并测试 Web 营销活动
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '369'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 预览和测试Web活动 {#preview-and-test-a-web-campaign}
+# 预览并测试 Web 营销活动 {#preview-and-test-a-web-campaign}
 
 本文向您说明预览Web营销活动的不同方式，以及如何使用网站上实时显示的沙盒区段测试营销活动。
 

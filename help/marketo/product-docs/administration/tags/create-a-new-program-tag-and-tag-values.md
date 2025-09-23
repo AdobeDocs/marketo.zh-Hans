@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360272
 description: 创建新的项目标记和标记值 — Marketo文档 — 产品文档
-title: 创建新的程序标记和标记值
+title: 创建新项目标签及标签值
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '150'
+ht-degree: 16%
 
 ---
 
-# 创建新的程序标记和标记值 {#create-a-new-program-tag-and-tag-values}
+# 创建新项目标签及标签值 {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ ht-degree: 0%
 >
 >计划标记值：中小型企业、企业、中端市场
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 标记]**。
+1. 单击 **[!UICONTROL Tags]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建]**&#x200B;并选择&#x200B;**[!UICONTROL 新建标记类型]**。
+1. 单击&#x200B;**[!UICONTROL New]**&#x200B;并选择&#x200B;**[!UICONTROL New Tag Type]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. 输入&#x200B;**[!UICONTROL 标记类型]**&#x200B;和标记&#x200B;**[!UICONTROL 值]**。 然后单击&#x200B;**[!UICONTROL 添加其他]**。
+1. 输入&#x200B;**[!UICONTROL Tag Type]**&#x200B;和标记&#x200B;**[!UICONTROL Value]**。 接着，单击 **[!UICONTROL Add Another]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -51,13 +51,13 @@ ht-degree: 0%
    >
    >您可以选择多种程序类型。 生成新程序时，此标记类型将可用。
 
-1. 选中&#x200B;**[!UICONTROL 必需]**&#x200B;并单击&#x200B;**[!UICONTROL 创建]**。
+1. 检查&#x200B;**[!UICONTROL Required]**&#x200B;并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >如果标记类型为&#x200B;**[!UICONTROL 必需]**，则在创建新程序时，用户需要输入标记的值。
+   >如果标记类型为&#x200B;**[!UICONTROL Required]**，则在创建新程序时，用户需要输入标记的值。
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

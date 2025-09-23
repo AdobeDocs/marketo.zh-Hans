@@ -4,14 +4,14 @@ description: 冠军/挑战者 — 整封电子邮件 — Marketo文档 — 产�
 title: 冠军/挑战者 — 整个电子邮件
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '241'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 冠军/挑战者：整个电子邮件 {#champion-challenger-whole-emails}
+# 挑战者对比：完整电子邮件 {#champion-challenger-whole-emails}
 
 相互测试整个电子邮件。 测试结束后，发送最佳执行者。
 

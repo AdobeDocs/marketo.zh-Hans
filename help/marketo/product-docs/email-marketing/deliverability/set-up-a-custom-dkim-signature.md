@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360219
 description: 设置自定义DKIM签名 — Marketo文档 — 产品文档
-title: 设置自定义DKIM签名
+title: 设置自定义 DKIM 签名
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 设置自定义DKIM签名 {#set-up-a-custom-dkim-signature}
+# 设置自定义 DKIM 签名 {#set-up-a-custom-dkim-signature}
 
 为确保顶级可投放性，我们使用共享的Marketo DKIM签名自动对所有出站邮件进行签名。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >您可能需要您的IT团队的帮助来完成本文中的某些步骤。
 
-您可以个性化DKIM签名以反映所选的域。 具体方法如下。
+您可以个性化DKIM签名以反映所选的域。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;部分。
 

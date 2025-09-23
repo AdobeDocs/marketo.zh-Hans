@@ -4,20 +4,20 @@ description: 发行说明 — 2020年10月 — Marketo文档 — 产品文档
 title: 发行说明 — 2020年10月
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '936'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 发行说明： 2020年10月 {#release-notes-oct}
+# 发行说明：2020 年 10 月 {#release-notes-oct}
 
 2020年10月版本中包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
->以星号(![](assets/yellow-star.png))表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>以星号(![](assets/yellow-star.png))表示的功能是付费加载项。 请联系您的 Marketo Engage 代表了解更多信息。
 
 **_季度发布_**&#x200B;以下功能将于2020年10月16日&#x200B;**发布**。
 

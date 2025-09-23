@@ -4,14 +4,14 @@ description: 发行说明 — 2012年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2012年6月
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '657'
 ht-degree: 0%
 
 ---
 
-# 发行说明： 2012年6月 {#release-notes-june}
+# 发行说明：2012 年 6 月 {#release-notes-june}
 
 ## Marketo商机管理增强功能 {#marketo-lead-management-enhancements}
 

@@ -1,16 +1,16 @@
 ---
 description: 交互式网络研讨会入门 — Marketo文档 — 产品文档
-title: 交互式网络研讨会入门
+title: 开始使用交互式网络研讨会
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 交互式网络研讨会入门 {#get-started-with-interactive-webinars}
+# 开始使用交互式网络研讨会 {#get-started-with-interactive-webinars}
 
 您已阅读[交互式网络研讨会概述](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"}，可随时开始深入了解。 请按照以下步骤开始。
 

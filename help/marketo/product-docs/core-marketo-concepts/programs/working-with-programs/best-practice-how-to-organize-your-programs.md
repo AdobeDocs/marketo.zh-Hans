@@ -4,14 +4,14 @@ description: 最佳实践 — 如何整理程序 — Marketo文档 — 产品文
 title: 最佳实践 — 如何组织程序
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# 最佳实践：如何组织项目 {#best-practice-how-to-organize-your-programs}
+# 最佳实践：如何组织您的项目 {#best-practice-how-to-organize-your-programs}
 
 可通过多种方式在营销活动中组织树以及单个项目的内容。 但是，某些方法更好，并且将有助于营销部门的人员。
 
@@ -29,7 +29,7 @@ ht-degree: 2%
 >
 >* 有效的营销计划
 >   * 电子邮件
->   * 活动
+>   * 事件
 >     * 现场活动/路演
 >     * 贸易展
 >     * 网络研讨会
@@ -43,7 +43,7 @@ ht-degree: 2%
 >   * 评分
 >   * 数据管理
 >* 销售Insight
->   * 有趣的时刻
+>   * 关键时刻
 >   * 销售电子邮件
 >   * 销售请求的营销活动
 >* **存档**
@@ -89,13 +89,13 @@ ht-degree: 2%
 >
 >**您的公司地址**。 使用令牌，而不是每次都写入令牌。 这样，您就可以在一个位置更新它，而无需创建大量草稿。 然后根据需要覆盖较低级别文件夹中的令牌。
 
-## 活动 {#events}
+## 事件 {#events}
 
 事件通常包含许多移动部分，包括：邀请、登陆页面、表单、社交小部件和智能营销活动。 为了便于使用，最佳实践是按照事件的阶段来整理它们。 以下是您的文件夹树应如何查找事件的示例。
 
 ![](assets/capture.png)
 
-## 参与计划 {#engagement-programs}
+## 互动项目 {#engagement-programs}
 
 了解[所有参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}。 组织参与计划的最佳方法是使用文件夹。 为每个流创建一个文件夹，然后将电子邮件或程序放入该文件夹。 当内容过期并且您想要删除它时，请在每个流中包含一个存档文件夹。
 

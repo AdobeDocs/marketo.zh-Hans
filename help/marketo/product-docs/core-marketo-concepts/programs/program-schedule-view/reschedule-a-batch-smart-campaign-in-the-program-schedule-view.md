@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514985
 description: 在项目计划视图中重新计划批量智能营销活动 — Marketo文档 — 产品文档
-title: 在项目计划视图中重新计划批量智能营销活动
+title: 在项目计划视图中重新安排批处理智能营销活动
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 19%
 
 ---
 
-# 在项目计划视图中重新计划批量智能营销活动 {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# 在项目计划视图中重新安排批处理智能营销活动 {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
 要重新计划批处理市场活动运行吗？ 将它们拖放到项目计划视图中的未来部分。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. 太棒了！ Smart Campaign已重新计划。 时间也可以从条目详细信息中的&#x200B;**[!UICONTROL 日期]**&#x200B;下拉列表中进行更改。
+1. 太棒了！ Smart Campaign已重新计划。 也可以从条目详细信息中的&#x200B;**[!UICONTROL Date]**&#x200B;下拉菜单更改时间。
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 

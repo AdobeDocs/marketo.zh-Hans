@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11379928
 description: 有关更改详细信息，请参阅审核记录 — Marketo文档 — 产品文档
-title: 审核记录中的更改详细信息
+title: 更改审核记录中的详情
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1902'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
-# 审核记录中的更改详细信息 {#change-details-in-audit-trail}
+# 更改审核记录中的详情 {#change-details-in-audit-trail}
 
 审核记录提供了大量的insight信息，用于了解谁在您的Marketo订阅中执行了哪些操作。 详情如下。
 
@@ -30,7 +30,7 @@ ht-degree: 11%
    <th colspan="1">更改详细信息</th>
   </tr>
   <tr>
-   <td rowspan="15"><strong>默认程序</strong><br><br><br><br><br><br><br><br><br><br><br></td>
+   <td rowspan="15"><strong>默认项目</strong><br><br><br><br><br><br><br><br><br><br><br></td>
    <td>创建</td>
    <td>渠道类型“渠道类型”<br>或<br>克隆自“项目名称”</td>
   </tr>
@@ -167,7 +167,7 @@ ht-degree: 11%
    <td>草稿</td>
    <td>起草电子邮件是因为批准了代码片段“代码片段名称”<br>或者<br>起草电子邮件是因为批准了模板“模板名称”</td>
   </tr>
-   <td rowspan="17">电子邮件程序</td>
+   <td rowspan="17">电子邮件项目</td>
    <td>创建</td>
    <td>渠道类型“渠道类型”<br>或<br>克隆自“项目名称”</td>
   </tr>
@@ -269,7 +269,7 @@ ht-degree: 11%
    <td>不适用</td>
   </tr>
   <tr>
-   <td rowspan="23">参与计划</td>
+   <td rowspan="23">互动项目</td>
    <td>创建</td>
    <td>渠道类型“渠道类型”<br>或<br>从“项目名称”克隆</td>
   </tr>
@@ -362,7 +362,7 @@ ht-degree: 11%
    <td>不适用</td>
   </tr>
   <tr>
-   <td rowspan="18">活动计划</td>
+   <td rowspan="18">活动项目</td>
    <td>创建</td>
    <td>渠道类型“渠道类型”<br>或<br>克隆自“项目名称”</td>
   </tr>
@@ -593,7 +593,7 @@ ht-degree: 11%
    <td>新名称“新名称”，以前名称“以前名称”</td>
   </tr>
   <tr>
-   <td rowspan="12">智能营销活动</td>
+   <td rowspan="12">智能活动</td>
    <td>创建</td>
    <td>不适用</td>
   </tr>
@@ -642,7 +642,7 @@ ht-degree: 11%
    <td>显示当前状态的快照，包括每个流程步骤的名称和值</td>
   </tr>
   <tr>
-   <td rowspan="7">Smart List</td>
+   <td rowspan="7">智能列表</td>
    <td>创建</td>
    <td>从“智能列表名称”克隆</td>
   </tr>
@@ -671,7 +671,7 @@ ht-degree: 11%
    <td>显示当前状态的快照，包括筛选器和触发器的名称和值 </td>
   </tr>
   <tr>
-   <td rowspan="11">代码片段</td>
+   <td rowspan="11">代码段</td>
    <td>创建</td>
    <td><p>从“代码片段名称”克隆的Blank<br>或<br></p></td>
   </tr>

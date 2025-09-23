@@ -1,18 +1,18 @@
 ---
 description: 产品使用情况功能板 — Marketo文档 — 产品文档
-title: 产品使用情况功能板
+title: 产品使用情况仪表板
 hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 产品使用情况功能板 {#product-usage-dashboards}
+# 产品使用情况仪表板 {#product-usage-dashboards}
 
 Marketo Engage产品使用情况功能板能够根据某些限制或积压的数据吞吐量、每日配额的使用情况以及订阅中的关键量度查看产品和平台使用情况。 分配基础结构是为了提供为特定属性的产品级别定义的性能限制。 其中一些限制（如API使用）是作为包或产品层的一部分购买的合同限制。
 

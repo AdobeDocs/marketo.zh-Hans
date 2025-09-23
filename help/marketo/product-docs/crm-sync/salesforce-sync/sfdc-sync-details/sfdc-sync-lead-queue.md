@@ -4,14 +4,14 @@ description: SFDC同步 — 潜在客户队列 — Marketo文档 — 产品文�
 title: SFDC同步 — 潜在客户队列
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# SFDC同步：潜在客户队列 {#sfdc-sync-lead-queue}
+# SFDC 同步：潜在客户队列 {#sfdc-sync-lead-queue}
 
 Marketo允许您将人员添加到[[!DNL Salesforce] 潜在客户队列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)以帮助进行潜在客户分发。 详情如下。
 

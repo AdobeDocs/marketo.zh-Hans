@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360184
 description: 过滤促销活动报表 — Marketo文档 — 产品文档
-title: 过滤促销活动报表
+title: 筛选营销活动报告
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 过滤促销活动报表 {#filter-a-campaign-activity-report}
+# 筛选营销活动报告 {#filter-a-campaign-activity-report}
 
 将[促销活动报告](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)的重点放在特定的[智能促销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)上。
 

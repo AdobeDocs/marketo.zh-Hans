@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720075
 description: 从特定标签查看Web营销活动 — Marketo文档 — 产品文档
-title: 从特定标签查看Web营销活动
+title: 查看来自特定标签的 Web 营销活动
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# 从特定标签查看Web营销活动 {#view-web-campaigns-from-a-specific-label}
+# 查看来自特定标签的 Web 营销活动 {#view-web-campaigns-from-a-specific-label}
 
 是否想要根据特定标签查看和筛选营销活动？
 

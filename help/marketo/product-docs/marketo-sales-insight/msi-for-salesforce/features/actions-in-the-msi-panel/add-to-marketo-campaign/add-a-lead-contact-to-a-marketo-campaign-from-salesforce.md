@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10099167
 description: 在Sales Insight - Marketo文档 — 产品文档中选择操作
-title: 在Sales Insight中选择活动
+title: 在 Sales Insight 中选择一项操作
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 在Sales Insight中选择活动 {#choose-an-action-in-sales-insight}
+# 在 Sales Insight 中选择一项操作 {#choose-an-action-in-sales-insight}
 
-以下操作可从Salesforce Classic和Lightning中的Sales Insight下拉菜单中执行：
+以下操作可从Salesforce Classic和Lightning的Sales Insight下拉菜单中执行：
 
 * 发送Marketo电子邮件
 * 添加到Marketo Campaign

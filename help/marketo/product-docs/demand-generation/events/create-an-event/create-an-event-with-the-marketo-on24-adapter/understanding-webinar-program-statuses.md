@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096681
 description: 了解网络研讨会计划状态 — Marketo文档 — 产品文档
-title: 了解网络研讨会计划状态
+title: 了解网络研讨会项目状态
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 了解网络研讨会计划状态 {#understanding-webinar-program-statuses}
+# 了解网络研讨会项目状态 {#understanding-webinar-program-statuses}
 
 项目群状态表示人员作为事件成员所处理的不同事件状态。 它们与渠道类型相关联。 Marketo具有名为&#x200B;**网络研讨会**&#x200B;的内置渠道类型。 状态既可用于批处理，也可用于触发营销活动。
 

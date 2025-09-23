@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147062
 description: 在Smart Campaign中查看被阻止的人员 — Marketo文档 — 产品文档
-title: 在Smart Campaign中查看阻止的人员
+title: 查看智能营销活动中的被阻止人员
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 在Smart Campaign中查看阻止的人员 {#view-blocked-people-in-a-smart-campaign}
+# 查看智能营销活动中的被阻止人员 {#view-blocked-people-in-a-smart-campaign}
 
 Marketo Engage列入阻止列表数据库中被阻止的用户会被标记为、已取消订阅、营销已暂停和/或电子邮件无效或为空。
 

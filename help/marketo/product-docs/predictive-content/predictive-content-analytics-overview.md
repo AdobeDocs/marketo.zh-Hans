@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12981204
 description: Predictive Content Analytics概述 — Marketo文档 — 产品文档
-title: Predictive Content Analytics概述
+title: 预测性内容分析概述
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '316'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Predictive Content Analytics概述 {#predictive-content-analytics-overview}
+# 预测性内容分析概述 {#predictive-content-analytics-overview}
 
 使用内容分析进一步了解您的现有内容，（基于AI和预测算法）了解哪些内容适合您的受众，并从营销工作中提高ROI。
 

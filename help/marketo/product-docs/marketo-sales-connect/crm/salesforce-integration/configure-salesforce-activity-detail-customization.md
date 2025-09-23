@@ -1,12 +1,12 @@
 ---
 description: 配置Salesforce活动详细信息自定义 — Marketo文档 — 产品文档
-title: 配置Salesforce活动详细信息自定义
+title: 配置 Salesforce 活动详情自定义
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '667'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

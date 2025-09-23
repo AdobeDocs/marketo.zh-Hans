@@ -3,9 +3,9 @@ description: 发行说明 — 2021年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2021年1月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1235'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->以星号(![（星号）](assets/yellow-star.png))表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>以星号(![（星号）](assets/yellow-star.png))表示的功能是付费加载项。 请联系您的 Marketo Engage 代表了解更多信息。
 
 **_季度发布_**
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-* **电子邮件连接限制(BETA)**：通过针对[!DNL Sales Connect]的电子邮件连接限制，提高电子邮件可投放性并扩展1:1销售通信。 我们的新限制技术可自动管理电子邮件发送时间，为[!DNL Exchange]和Gmail用户创造无缝体验。 减少或消除使用第三方批量电子邮件发送应用程序。
+* **电子邮件连接限制(BETA)**：通过:1的电子邮件连接限制，提高电子邮件可投放性并扩展1[!DNL Sales Connect]销售通信。 我们的新限制技术可自动管理电子邮件发送时间，为[!DNL Exchange]和Gmail用户创造无缝体验。 减少或消除使用第三方批量电子邮件发送应用程序。
 * **电子邮件连接退回跟踪**：通过新的电子邮件退回报告，让insight了解潜在客户质量和电子邮件模板性能。 [!DNL Exchange]和Gmail用户可以选择接收将汇总到实时信息源、电子邮件文件夹、模板分析和营销活动分析的退回通知。
 * **配置文件页面配置**：在新的配置文件页面中轻松管理用户首选项。 在一个位置更改密码、编辑地理位置和语言设置以及查看集成状态。
 * **模板管理**：使用新的拖放功能将销售电子邮件模板组织为不同类别，以确保快速访问相关模板并减少搜索时间。
@@ -77,10 +77,10 @@ ht-degree: 0%
 
 **_公告和弃用_**
 
-* 所有用户都必须在2021年1月15日&#x200B;**之前升级到Sales Insight**&#x200B;的最新版本。 如果您尚未完成升级，则在登录应用程序时会提示您完成升级。 按照本指南[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的说明操作。 更新版本包括一个针对已识别安全漏洞的修补程序。 该修补程序最初于2016年4月6日发布。 注意：**版本1.4363或更高版本**&#x200B;不需要执行升级。
+* 所有用户都必须在2021年1月15日&#x200B;**之前升级到Sales Insight**&#x200B;的最新版本。 如果您尚未完成升级，则在登录应用程序时会提示您完成升级。 按照本指南[中的说明](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)操作。 更新版本包括一个针对已识别安全漏洞的修补程序。 该修补程序最初于2016年4月6日发布。 注意：**版本1.4363或更高版本**&#x200B;不需要执行升级。
 * Form 1.0服务的弃用将在&#x200B;**2021年5月**&#x200B;版本中生效。 Forms 1.0服务将被完全弃用，从而导致仍在使用的所有其余Forms 1.0资源失去功能。 此外，通过不受支持的方法（如向leadCapture/save和leadCapture/save2端点提供的程序化表单POST ）提交的表单将被拒绝。 有关更多信息和修正，请参阅[我们在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)的帖子。
 * 2021年，Marketo Engage将更改登陆页面、表单以及图像和文件资源的URL结构。 对于现有Marketo Engage订购，我们将从2021年4月1日开始逐步推出。 有关推出时间表的更多详细信息将于2021年3月发布。 有关每个受影响的资产类型将如何更改的详细信息，请参阅[我们在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)中的帖子。
 
 **_产品发布网络研讨会_**
 
-想要详细了解这些功能和增强功能？ 请务必[立即注册](https://engage.marketo.com/January_21_Release_Webinar_Registration.html)，在1月21日下午1:00（太平洋时间） / 4:00（东部时间）加入我们，参加我们的产品团队举办的实时网络研讨会，以深入了解这些创新。
+想要详细了解这些功能和增强功能？ 请务必[立即注册](https://engage.marketo.com/January_21_Release_Webinar_Registration.html)，在1月21日下午1:00 PT / 4:00 PM ET加入我们，与我们的产品团队一起参加实时网络研讨会，以更深入地了解这些创新。

@@ -4,10 +4,10 @@ description: 在“项目计划”视图中创建条目 — Marketo文档 — �
 title: 在项目计划视图中创建条目
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 创建基本条目 {#create-a-basic-entry}
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择您的项目。 单击&#x200B;**[!UICONTROL 视图]**&#x200B;下拉列表。 选择&#x200B;**[!UICONTROL 计划]**。
+1. 选择您的项目。 单击&#x200B;**[!UICONTROL View]**&#x200B;下拉列表。 选择 **[!UICONTROL Schedule]**。
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. 输入您的描述，然后单击&#x200B;**[!UICONTROL 保存]**。
+1. 输入您的说明并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 ## 更改条目类型 {#change-entry-type}
 
-1. 从&#x200B;**[!UICONTROL 议程]**&#x200B;视图中选择一个基本条目。
+1. 从&#x200B;**[!UICONTROL Agenda]**&#x200B;视图中选择一个基本条目。
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. 选择&#x200B;**[!UICONTROL 类型]**&#x200B;下拉列表。 选择新的条目类型。
+1. 选择&#x200B;**[!UICONTROL Type]**&#x200B;下拉列表。 选择新的条目类型。
 
    >[!NOTE]
    >

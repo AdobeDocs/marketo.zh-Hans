@@ -3,7 +3,7 @@ description: 受众标准 — Marketo文档 — 产品文档
 title: 受众标准
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ![](assets/audience-criteria-1.png)
 
-## 活动 {#events}
+## 事件 {#events}
 
 事件允许您根据访客滚动多少或他们在您的页面/网站上的时间长短来定位访客。 在以下示例中，我们的定位是在特定页面上停留超过20秒的访客。
 
@@ -116,7 +116,7 @@ ht-degree: 1%
 
 ![](assets/audience-criteria-17.png)
 
-## 目标 {#target}
+## Target {#target}
 
 您可以在此处输入希望特定对话框显示的URL。 您还可以选择添加排除项。
 

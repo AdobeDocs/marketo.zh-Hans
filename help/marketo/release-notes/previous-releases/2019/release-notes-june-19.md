@@ -4,14 +4,14 @@ description: 发行说明 — 2019年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年6月
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
 
 ---
 
-# 发行说明： 2019年6月 {#release-notes-june}
+# 发行说明：2019 年 6 月 {#release-notes-june}
 
 2019年6月版本中包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
@@ -68,4 +68,4 @@ ht-degree: 0%
 * **漂移集成**：了解漂移对话如何影响客户的历程。 [!DNL Bizible]还将从对话中提取电子邮件地址，以创建新潜在客户或将接触点连接到现有潜在客户。
 * **本地化**： [!DNL Bizible]现在提供所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）版本。
 
-_&#x200B;**产品发布网络研讨会**&#x200B;_&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。
+_**产品发布网络研讨会**_&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。

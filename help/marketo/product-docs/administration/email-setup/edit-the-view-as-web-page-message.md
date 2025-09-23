@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360253
 description: 编辑“以网页形式查看”消息 — Marketo文档 — 产品文档
-title: 编辑“以网页形式查看”消息
+title: 编辑“以 网页形式查看”消息
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# 编辑“以网页形式查看”消息 {#edit-the-view-as-web-page-message}
+# 编辑“以 网页形式查看”消息 {#edit-the-view-as-web-page-message}
 
 如果需要编辑&quot;[以网页形式查看](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;文本，请按以下步骤操作。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-## 编辑“以网页形式查看”消息 {#edit-the-view-as-web-page-message-1}
+## 编辑“以 网页形式查看”消息 {#edit-the-view-as-web-page-message-1}
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 

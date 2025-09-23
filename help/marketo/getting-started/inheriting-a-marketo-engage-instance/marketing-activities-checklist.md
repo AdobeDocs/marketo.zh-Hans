@@ -3,14 +3,14 @@ description: 继承实例营销活动核对清单 — Marketo文档 — 产品�
 title: 继承实例营销活动核对清单
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 继承实例：营销活动核对清单 {#inherited-instance-marketing-activities-checklist}
+# 继承实例：营销活动检查表 {#inherited-instance-marketing-activities-checklist}
 
 正确组织您的“营销活动”部分，以帮助其他人在Marketo Engage实例中查找和管理各种项目，并确保处理好人员以便将其从营销人员转到销售人员。 请记住[下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)并跟踪您的进度。
 
@@ -31,7 +31,7 @@ ht-degree: 1%
    <td><li>您是否拥有一致且易于导航的<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">文件夹结构</a>？</li></td>
   </tr>
   <tr>
-   <td>程序</td>
+   <td>项目</td>
    <td><li>类似的程序类型<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">是否具有一致的结构性</a>？</li>
 <li>是否已实施<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期间成本</a>？</li>
 <li>是否所有项目群<a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">都已同步到SFDC Campaigns</a>（如果适用）？</li>
@@ -74,7 +74,7 @@ ht-degree: 1%
 <li>如果实施了令牌，那么是否有全局文件夹令牌？ 它们是如何被使用的？</li></td>
   </tr>
   <tr>
-   <td>参与计划</td>
+   <td>互动项目</td>
    <td><li>是否正在运行实时<a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">参与计划</a>？</li>
 <li>有多少<a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">人精疲力竭</a>？
 <br/>     如果有很多人精疲力尽，请考虑添加<a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">内容</a>。</li>
@@ -83,12 +83,12 @@ ht-degree: 1%
 <li>您在多个参与项目中是否遇到过人员？ 它们是否应该位于多个内部？</li></td>
   </tr>
   <tr>
-   <td>批量营销活动</td>
+   <td>批量活动</td>
    <td><li>有多少周期性<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign" target="_blank">批次营销活动</a>？</li>
 <li>是否应该停用/存档其中任何一个？</li></td>
   </tr>
    <tr>
-   <td>触发营销活动</td>
+   <td>触发型活动</td>
    <td><li>有多少个<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-campaign" target="_blank">触发器营销活动</a>？</li>
 <li>是否应该停用/存档其中任何一个？</li>
 <li>是否应将任何“触发器活动”更改为“批量活动”以提高处理效率？</li></td>
@@ -121,7 +121,7 @@ ht-degree: 1%
    <th style="width:70%">审核焦点</th>
   </tr>
   <tr>
-   <td>人员得分</td>
+   <td>人员评分</td>
    <td><li>您是否已设置集中式<a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">人员评分</a>计划？</li>
 <li>您的人员得分会增加还是减少得分？</li></td>
   </tr>
@@ -157,7 +157,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>订阅/偏好设置中心</td>
-   <td><li>是否已设置<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=zh-Hans" target="_blank">订阅/首选项中心</a>？ 它是否按预期运行？</li></td>
+   <td><li>是否已设置<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">订阅/首选项中心</a>？ 它是否按预期运行？</li></td>
   </tr>
   <tr>
    <td>有趣的时刻（如果适用）</td>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951167
 description: 查看电子邮件计划结果 — Marketo文档 — 产品文档
-title: 查看电子邮件程序结果
+title: 查看电子邮件项目结果
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 查看电子邮件程序结果 {#view-email-program-results}
+# 查看电子邮件项目结果 {#view-email-program-results}
 
 就像智能营销活动中的[!UICONTROL Results]选项卡一样，您可以在电子邮件项目中看到相同的信息。
 

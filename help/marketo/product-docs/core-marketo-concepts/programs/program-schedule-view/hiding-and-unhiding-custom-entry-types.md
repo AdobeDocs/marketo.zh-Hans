@@ -4,10 +4,10 @@ description: 隐藏和取消隐藏自定义条目类型 — Marketo文档 — �
 title: 隐藏和取消隐藏自定义条目类型
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 11%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 隐藏自定义条目类型 {#hide-a-custom-entry-type}
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;部分，然后单击&#x200B;**[!UICONTROL 日历条目类型]**。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;部分并单击&#x200B;**[!UICONTROL Calendar Entry Types]**。
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. 右键单击您的自定义条目，然后单击&#x200B;**[!UICONTROL 隐藏]**。
+1. 右键单击您的自定义条目，然后单击&#x200B;**[!UICONTROL Hide]**。
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 如果要取消隐藏自定义条目类型，这也很容易。
 
-1. 右键单击您的条目并选择&#x200B;**[!UICONTROL 取消隐藏]**。
+1. 右键单击您的条目并选择&#x200B;**[!UICONTROL Unhide]**。
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

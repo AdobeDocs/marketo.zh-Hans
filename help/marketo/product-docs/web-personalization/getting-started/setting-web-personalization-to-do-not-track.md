@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382593
 description: 将Web Personalization设置为不跟踪 — Marketo文档 — 产品文档
-title: 将Web Personalization设置为“不跟踪”
+title: 将 Web 个性化设置为不跟踪
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

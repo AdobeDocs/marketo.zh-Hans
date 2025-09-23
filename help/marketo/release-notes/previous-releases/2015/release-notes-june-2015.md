@@ -4,14 +4,14 @@ description: 发行说明 — 2015年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年6月
 exl-id: 5a26121f-a168-4bb6-b471-aca1f343e4c2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 发行说明：2015年6月 {#release-notes-june}
+# 发行说明：2015 年 6 月 {#release-notes-june}
 
 2015年6月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细文章链接！
 

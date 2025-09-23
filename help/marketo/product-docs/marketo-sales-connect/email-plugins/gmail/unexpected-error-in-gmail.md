@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352545
 description: Gmail中出现意外错误 — Marketo文档 — 产品文档
-title: Gmail中出现意外错误
+title: Gmail 中的意外错误
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Gmail中出现意外错误 {#unexpected-error-in-gmail}
+# Gmail 中的意外错误 {#unexpected-error-in-gmail}
 
 如果您在尝试发送电子邮件时在Gmail中收到“意外错误”，则可能需要对Gmail连接执行重置。
 

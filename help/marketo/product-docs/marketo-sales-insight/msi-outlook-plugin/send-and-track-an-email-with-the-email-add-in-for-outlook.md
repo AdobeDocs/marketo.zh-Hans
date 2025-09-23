@@ -4,7 +4,7 @@ description: 使用 [!DNL Outlook] 的电子邮件加载项发送和跟踪电子
 title: 使用 [!DNL Outlook]的电子邮件加载项发送和跟踪电子邮件
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%

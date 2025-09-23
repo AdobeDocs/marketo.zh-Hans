@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10100275
 description: 添加/编辑/删除Marketo自定义活动字段 — Marketo文档 — 产品文档
-title: 添加/编辑/删除Marketo自定义活动字段
+title: 添加/编辑/删除 Marketo 自定义活动字段
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 3%
+ht-degree: 14%
 
 ---
 
-# 添加/编辑/删除Marketo自定义活动字段 {#add-edit-delete-marketo-custom-activity-fields}
+# 添加/编辑/删除 Marketo 自定义活动字段 {#add-edit-delete-marketo-custom-activity-fields}
 
-您可能需要添加、更改甚至删除自定义活动字段。 具体方法如下。
+您可能需要添加、更改甚至删除自定义活动字段。 操作方法如下：
 
 ## 添加自定义活动字段 {#add-a-custom-activity-field}
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
@@ -53,7 +53,7 @@ ht-degree: 3%
 
 ## 编辑自定义活动字段 {#edit-a-custom-activity-field}
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 ## 删除自定义活动字段 {#delete-a-custom-activity-field}
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 

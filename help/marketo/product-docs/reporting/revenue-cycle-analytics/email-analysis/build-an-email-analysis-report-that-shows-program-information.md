@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360409
 description: 构建一个电子邮件分析报告，其中显示项目信息 — Marketo文档 — 产品文档
-title: 构建显示计划信息的电子邮件分析报告
+title: 生成显示项目信息的电子邮件分析报告
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# 构建显示计划信息的电子邮件分析报告 {#build-an-email-analysis-report-that-shows-program-information}
+# 生成显示项目信息的电子邮件分析报告 {#build-an-email-analysis-report-that-shows-program-information}
 
 按照以下步骤创建电子邮件分析报告，该报告将显示按项目群渠道分组的电子邮件信息。
 

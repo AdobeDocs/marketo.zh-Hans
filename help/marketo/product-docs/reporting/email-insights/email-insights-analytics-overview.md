@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099411
 description: 电子邮件分析Analytics概述 — Marketo文档 — 产品文档
-title: 电子邮件分析Analytics概述
+title: 电子邮件洞察分析概述
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 电子邮件分析Analytics概述 {#email-insights-analytics-overview}
+# 电子邮件洞察分析概述 {#email-insights-analytics-overview}
 
 在[!UICONTROL Analytics]中，浏览电子邮件投放和参与活动的聚合数据。 使用左侧的图表浏览数据，使用右侧的见解获得更多引导式体验。
 

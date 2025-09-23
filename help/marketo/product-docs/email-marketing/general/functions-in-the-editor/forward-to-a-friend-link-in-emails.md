@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900581
 description: 在电子邮件中转发到朋友链接 — Marketo文档 — 产品文档
-title: 在电子邮件中转发到朋友链接
+title: 电子邮件中的“转发给朋友”链接
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '681'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 在电子邮件中转发到朋友链接 {#forward-to-a-friend-link-in-emails}
+# 电子邮件中的“转发给朋友”链接 {#forward-to-a-friend-link-in-emails}
 
 通过将“转发给朋友”链接添加到电子邮件，您可以跟踪通过此链接收到转发电子邮件的用户，如果数据库中尚不存在这些用户，则自动将其添加为新用户。
 

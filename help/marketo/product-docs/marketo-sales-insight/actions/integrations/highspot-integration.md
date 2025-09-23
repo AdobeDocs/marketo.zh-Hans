@@ -1,18 +1,18 @@
 ---
 description: Highspot集成 — Marketo文档 — 产品文档
-title: Highspot集成
+title: Highspot 集成
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Highspot集成 {#highspot-integration}
+# Highspot 集成 {#highspot-integration}
 
-销售人员可以从Sales Insight Actions中访问“亮点”功能，并在整个销售周期中实现更高的可视性、效率和性能。 Sales Insight Action用户可以选择存储在Highspot的销售支持平台上的销售内容，并将其直接插入电子邮件、电子邮件模板和销售促销活动中，同时在Highspot和Sales Insight Actions中捕获内容跟踪和分析。
+Sales可以利用Sales Insight Actions提供的突出功能并在整个销售周期中实现更高的可见性、效率和性能。 Sales Insight Action用户可以选择存储在Highspot的销售支持平台上的销售内容，并将其直接插入电子邮件、电子邮件模板和销售促销活动中，同时在Highspot和Sales Insight Actions中捕获内容跟踪和分析。
 
 ## 启用Highspot集成 {#enabling-highspot-integration}
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 通过电子邮件访问重点内容和共享内容 {#accessing-highspot-content}
 
-从Sales Insight Actions撰写窗口、模板编辑器和销售活动电子邮件编辑器访问Highspot并将内容添加到电子邮件中。 以下是如何从撰写窗口访问内容的步骤。
+从Sales Insight活动撰写窗口、模板编辑器和销售活动电子邮件编辑器访问Highspot并将内容添加到电子邮件中。 以下是如何从撰写窗口访问内容的步骤。
 
 1. 创建您的电子邮件草稿（可通过多种方法执行此操作，在此示例中，我们在标题中选择&#x200B;**撰写**）。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360313
 description: 删除Workspace - Marketo文档 — 产品文档
-title: 删除Workspace
+title: 删除工作区
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 1%
+ht-degree: 19%
 
 ---
 
-# 删除Workspace {#delete-a-workspace}
+# 删除工作区 {#delete-a-workspace}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 1%
 >
 >您无法删除Marketo中的默认工作区。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/delete-a-workspace-1.png)
 

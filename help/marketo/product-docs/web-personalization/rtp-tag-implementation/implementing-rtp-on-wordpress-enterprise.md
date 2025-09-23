@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720215
 description: 在Wordpress Enterprise上实施RTP - Marketo文档 — 产品文档
-title: 在Wordpress Enterprise上实施RTP
+title: 在 WordPress Enterprise 上实施 RTP
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# 在Wordpress Enterprise上实施RTP {#implementing-rtp-on-wordpress-enterprise}
+# 在 WordPress Enterprise 上实施 RTP {#implementing-rtp-on-wordpress-enterprise}
 
 要实施[!UICONTROL RTP tag]，请按照以下安装说明操作：
 

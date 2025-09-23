@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097969
 description: 创建自由表单登陆页面模板 — Marketo文档 — 产品文档
-title: 创建自由表单登陆页面模板
+title: 创建自由格式登录页面模板
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 创建自由表单登陆页面模板 {#create-a-free-form-landing-page-template}
+# 创建自由格式登录页面模板 {#create-a-free-form-landing-page-template}
 
 与引导式登陆页面相比，自由格式登陆页面所需的技术知识更少。 要为将来的登陆页面创建模板，请执行以下步骤。
 

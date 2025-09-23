@@ -1,16 +1,16 @@
 ---
 description: CT-YYYY-MM-Content，位于Marketo登录页面 — Marketo文档 — 产品文档
-title: Marketo登录页面上的CT-YYYY-MM-Content
+title: CT-YYYY-MM-Marketo 登陆页面内容
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '474'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# Marketo登录页面上的CT-YYYY-MM-Content {#ct-yyyy-mm-content-on-marketo-landing-page}
+# CT-YYYY-MM-Marketo 登陆页面内容 {#ct-yyyy-mm-content-on-marketo-landing-page}
 
 此示例设计为一个内容程序，它利用Marketo Engage登录页面和Marketo Engage表单，以及Marketo Engage默认程序。 表单用于访问内容/选件。 选件的链接可显示在感谢页面上、以感谢电子邮件发送或同时显示两者。
 
@@ -47,7 +47,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>电子邮件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入门电子邮件模板</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速启动电子邮件模板</a></td>
    <td>01-Email — 谢谢</td>
   </tr>
   <tr>
@@ -76,17 +76,17 @@ ht-degree: 6%
    <td>登陆页面性能</td>
   </tr>
    <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>00 — 捕获客户获取计划</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>01 — 填写表单</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>02 — 参与（计划成功）</td>
   </tr>

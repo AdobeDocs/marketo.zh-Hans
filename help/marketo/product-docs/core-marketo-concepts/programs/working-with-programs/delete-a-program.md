@@ -1,33 +1,33 @@
 ---
 unique-page-id: 1147148
 description: 删除项目 — Marketo文档 — 产品文档
-title: 删除项目群
+title: 删除项目
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 0%
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 
-# 删除项目群 {#delete-a-program}
+# 删除项目 {#delete-a-program}
 
-您可以存档程序，但有时您只想永久删除它。 具体方法如下。
+您可以存档程序，但有时您只想永久删除它。 操作方法如下：
 
 1. 选择要删除的程序。
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. 单击&#x200B;**[!UICONTROL 项目操作]**&#x200B;下拉列表，然后选择&#x200B;**[!UICONTROL 删除]**。
+1. 点击 **[!UICONTROL Program Actions]** 下拉菜单，并选择 **[!UICONTROL Delete]**。
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. 选择“全部删除……”单选按钮。 查看程序删除的效果，然后单击&#x200B;**[!UICONTROL 删除]**&#x200B;进行确认。
+1. 选择“全部删除……”单选按钮。 查看删除程序的影响，然后单击&#x200B;**[!UICONTROL Delete]**&#x200B;进行确认。
 
 >[!TIP]
 >
->存档程序会保留程序数据，但会阻止程序的运行。 选择该选项，然后单击&#x200B;**[!UICONTROL 下一步]**&#x200B;查看有关存档的更多详细信息。
+>存档程序会保留程序数据，但会阻止程序的运行。 选择该选项，然后单击&#x200B;**[!UICONTROL Next]**&#x200B;查看有关存档的更多详细信息。
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. 单击&#x200B;**[!UICONTROL 使用者]**&#x200B;查看资产的使用位置。
+1. 单击&#x200B;**[!UICONTROL Used By]**&#x200B;可查看资产的使用位置。
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

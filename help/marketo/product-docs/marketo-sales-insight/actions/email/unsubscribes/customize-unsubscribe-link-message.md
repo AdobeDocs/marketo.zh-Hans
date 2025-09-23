@@ -1,16 +1,16 @@
 ---
 description: 自定义取消订阅链接消息 — Marketo文档 — 产品文档
-title: 自定义取消订阅链接消息
+title: 自定义取消订阅链接信息
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 自定义取消订阅链接消息 {#customize-unsubscribe-link-message}
+# 自定义取消订阅链接信息 {#customize-unsubscribe-link-message}
 
 我们始终允许团队自定义其取消订阅链接消息传递，但管理员可以选择为其整个团队设置取消订阅链接消息传递，以确保消息传递的一致性。
 

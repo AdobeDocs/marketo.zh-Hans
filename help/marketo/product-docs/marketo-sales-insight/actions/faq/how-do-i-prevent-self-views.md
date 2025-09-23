@@ -3,14 +3,14 @@ description: 如何防止自行查看 — Marketo文档 — 产品文档
 title: 如何防止出现自我观点
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 如何防止自我观点？ {#how-do-i-prevent-self-views}
+# 如何防止自我查看？ {#how-do-i-prevent-self-views}
 
 获取视图跟踪的误报可能会导致报表不一致。 当[!DNL Marketo Sales]的用户意外从其电子邮件客户端调用跟踪像素时，经常会发生这种情况（我们称之为自查看）。 下面是有关大幅减少甚至消除自我看法的一些提示。
 

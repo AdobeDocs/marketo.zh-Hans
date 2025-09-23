@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12976798
 description: 设置LinkedIn潜在客户Gen Forms - Marketo文档 — 产品文档
-title: 设置LinkedIn潜在客户Forms
+title: 设置 LinkedIn 潜在客户收集表单
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 设置LinkedIn潜在客户Forms {#set-up-linkedin-lead-gen-forms}
+# 设置 LinkedIn 潜在客户收集表单 {#set-up-linkedin-lead-gen-forms}
 
 使用LinkedIn潜在客户Gen Forms在LinkedIn中运行广告营销活动并为Marketo生成潜在客户。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >如果LinkedIn潜在客户与Marketo中的现有人员记录匹配，并且该人员记录与使用公司API创建的公司记录相关联，并且Marketo订阅未连接到CRM，则该潜在客户将不会进入Marketo Engage。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 

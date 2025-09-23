@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953132
 description: 了解批量处理和触发智能营销活动 — Marketo文档 — 产品文档
-title: 了解批量处理和触发智能营销活动
+title: 了解批处理和触发型智能营销活动
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 0%
+source-wordcount: '264'
+ht-degree: 6%
 
 ---
 
-# 了解批量处理和触发智能营销活动 {#understanding-batch-and-trigger-smart-campaigns}
+# 了解批处理和触发型智能营销活动 {#understanding-batch-and-trigger-smart-campaigns}
 
 智能营销活动有两种类型：批次和触发器。
 
-## 批量营销活动 {#batch-campaign}
+## 批处理营销活动 {#batch-campaign}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-单击&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡将确认Smart Campaign设置为“批处理”。
+单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡将确认Smart Campaign设置为“批处理”。
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 <br> 
 
-## 触发营销活动 {#trigger-campaign}
+## 触发式活动 {#trigger-campaign}
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-单击&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡将确认Smart Campaign设置为“已触发”。
+单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡将确认Smart Campaign设置为“已触发”。
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 

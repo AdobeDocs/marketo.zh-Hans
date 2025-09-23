@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900565
 description: 在电子邮件中包含日历事件(.ics)- Marketo文档 — 产品文档
-title: 在电子邮件中包含日历事件(.ics)
+title: 在电子邮件中包含日程表事件 (.ics)
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
-# 在电子邮件中包含日历事件(.ics) {#include-a-calendar-event-ics-in-an-email}
+# 在电子邮件中包含日程表事件 (.ics) {#include-a-calendar-event-ics-in-an-email}
 
 日历文件令牌允许您向Marketo电子邮件添加日历事件(.ics)链接。
 

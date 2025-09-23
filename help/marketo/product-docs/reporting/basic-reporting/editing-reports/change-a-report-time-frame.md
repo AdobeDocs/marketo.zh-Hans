@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359968
 description: 更改报表时间范围 — Marketo文档 — 产品文档
-title: 更改报表时间范围
+title: 更改报告时间范围
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 更改报表时间范围 {#change-a-report-time-frame}
+# 更改报告时间范围 {#change-a-report-time-frame}
 
 更改报表所涵盖的时段，以专注于活动的特定时间。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >要设置特定日期，请从下拉菜单中选择&#x200B;**[!UICONTROL Custom]**，然后在&#x200B;**[!UICONTROL From]**&#x200B;和&#x200B;**[!UICONTROL To]**&#x200B;日历字段中输入日期。
 
-   单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡可查看选定时间范围的报告。
+   单击&#x200B;**[!UICONTROL Report]**选项卡可查看选定时间范围的报告。
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

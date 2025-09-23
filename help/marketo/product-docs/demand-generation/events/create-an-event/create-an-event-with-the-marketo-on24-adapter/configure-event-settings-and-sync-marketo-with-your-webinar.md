@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096673
 description: 配置事件设置并将Marketo与您的网络研讨会同步 — Marketo文档 — 产品文档
-title: 配置事件设置并将Marketo与您的网络研讨会同步
+title: 配置事件设置并将 Marketo 与您的网络研讨会同步
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 配置事件设置并将Marketo与您的网络研讨会同步 {#configure-event-settings-and-sync-marketo-with-your-webinar}
+# 配置事件设置并将 Marketo 与您的网络研讨会同步 {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
 按照以下步骤配置Marketo事件设置并连接Marketo和ON24。
 

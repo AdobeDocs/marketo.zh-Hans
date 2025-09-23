@@ -3,14 +3,14 @@ description: 继承实例Design Studio核对清单 — Marketo文档 — 产品�
 title: 继承实例Design Studio核对清单
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# 继承实例：Design Studio核对清单 {#inherited-instance-design-studio-checklist}
+# 继承实例：设计工作室检查表 {#inherited-instance-design-studio-checklist}
 
 结构化模板和创建全局表单、代码片段以及图像和文件将有助于最大限度地减少数据错误并简化程序构建的工作流。 请记住[下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)并跟踪您的进度。
 
@@ -25,7 +25,7 @@ ht-degree: 2%
   <tr>
    <td>全局登陆页面</td>
    <td><li>有多少个全局<a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">登陆页面</a>？ 它们是否被程序使用？</li>
-   <li>是否已设置<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=zh-Hans" target="_blank">订阅中心</a>？
+   <li>是否已设置<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">订阅中心</a>？
    <br/>     如果不能，请考虑创建一个。</li></td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@ ht-degree: 2%
  </tbody>
 </table>
 
-## 片段 {#snippets}
+## 代码段 {#snippets}
 
 <table style="table-layout:auto">
  <tbody>
@@ -139,7 +139,7 @@ ht-degree: 2%
    <th>审核焦点</th>
   </tr>
   <tr>
-   <td>片段</td>
+   <td>代码段</td>
    <td><li>有多少个<a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">代码片段</a>？ 它们是否正在被使用？
    <br/>     如果没有，请考虑将它们用于<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">电子邮件</a>和<a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">登陆页面</a>页脚内容、徽标等。</li></td>
   </tr>

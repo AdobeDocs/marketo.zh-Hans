@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355758
 description: 将成员添加到事件程序 — Marketo文档 — 产品文档
-title: 将成员添加到事件程序
+title: 向事件项目中添加成员
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 将成员添加到事件程序 {#adding-members-to-an-event-program}
+# 向事件项目中添加成员 {#adding-members-to-an-event-program}
 
 本文仅适用于使用事件上限或事件目标的用户。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 选择&#x200B;**[!UICONTROL Run Now]**&#x200B;并单击&#x200B;**[!UICONTROL Run]**。
+1. 选择 **[!UICONTROL Run Now]** 并点击 **[!UICONTROL Run]**。
 
    ![](assets/nine.png)
 

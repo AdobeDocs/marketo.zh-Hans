@@ -1,17 +1,17 @@
 ---
 unique-page-id: 30081230
 description: 人员批量操作 — Marketo文档 — 产品文档
-title: 对人员执行批量操作
+title: 批量操作人员
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# 对人员执行批量操作 {#bulk-actions-on-people}
+# 批量操作人员 {#bulk-actions-on-people}
 
 您可以对联系人批量执行一些操作以节省时间。
 
@@ -25,7 +25,7 @@ ht-degree: 2%
 
 ![](assets/add-to-group.png)
 
-## 源 {#source}
+## 来源 {#source}
 
 我们自动为进入数据库的每个联系人分配一个源。 使用此步骤更新该源。
 
@@ -35,7 +35,7 @@ ht-degree: 2%
 >
 >源不可自定义。
 
-## 授权 {#authorization}
+## Authorization {#authorization}
 
 为符合[GDPR](https://eugdpr.org/)，请使用授权来指示您是如何获得与这些联系人接触的权限的。
 

@@ -4,20 +4,20 @@ description: 发行说明 — 2013年12月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年12月
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2013年12月 {#release-notes-december}
+# 发行说明：2013 年 12 月 {#release-notes-december}
 
 12月版本中包含以下功能。
 
 发布后，请务必查看社区中的新版本选项卡，以了解有关每个功能的详细知识库文章！
 
-## 电子邮件程序 {#email-program}
+## 电子邮件项目 {#email-program}
 
 发送电子邮件从未像现在这样简单。 使用新的[电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)发送批次电子邮件，而不是使用默认程序。 定义智能列表、发送电子邮件、对其进行计划，然后您就关闭了！
 

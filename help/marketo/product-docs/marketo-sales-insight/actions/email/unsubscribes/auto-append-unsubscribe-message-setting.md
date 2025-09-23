@@ -1,16 +1,16 @@
 ---
 description: 自动附加取消订阅消息设置 — Marketo文档 — 产品文档
-title: 自动附加取消订阅消息设置
+title: 自动附加取消订阅信息设置
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 自动附加取消订阅消息设置 {#auto-append-unsubscribe-message-setting}
+# 自动附加取消订阅信息设置 {#auto-append-unsubscribe-message-setting}
 
 确保发送的每个Sales Insight Actions电子邮件都包含取消订阅消息，以便收件人可以轻松选择退出通信。 在启用附加取消订阅消息后，您的团队从Marketo Sales发送的所有通信都将包含取消订阅消息，包括从Web应用程序和Salesforce发送的电子邮件。
 

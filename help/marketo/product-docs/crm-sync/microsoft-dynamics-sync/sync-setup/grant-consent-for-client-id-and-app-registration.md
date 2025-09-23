@@ -1,16 +1,16 @@
 ---
 description: 同意客户端Id和应用程序注册 — Marketo文档 — 产品文档
-title: 同意客户端ID和应用程序注册
+title: 授予客户端 ID 和应用程序注册的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 同意客户端ID和应用程序注册 {#grant-consent-for-client-id-and-app-registration}
+# 授予客户端 ID 和应用程序注册的同意 {#grant-consent-for-client-id-and-app-registration}
 
 请按照以下步骤了解如何授予必要的同意/权限。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359469
 description: 查看电子邮件计划仪表板 — Marketo文档 — 产品文档
-title: 查看电子邮件计划仪表板
+title: 查看电子邮件项目仪表板
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 查看电子邮件计划仪表板 {#view-the-email-program-dashboard}
+# 查看电子邮件项目仪表板 {#view-the-email-program-dashboard}
 
 在此仪表板中查看您的电子邮件计划（无论是否有A/B测试）的执行情况。
 

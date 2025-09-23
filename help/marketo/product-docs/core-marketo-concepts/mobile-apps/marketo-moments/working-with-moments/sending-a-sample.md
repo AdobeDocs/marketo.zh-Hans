@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8783561
 description: 发送示例 — Marketo文档 — 产品文档
-title: 发送示例
+title: 发送样本
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# 发送示例 {#sending-a-sample}
+# 发送样本 {#sending-a-sample}
 
 您可以直接与他人共享电子邮件时刻示例。 有两种方法可以做到这一点。
 

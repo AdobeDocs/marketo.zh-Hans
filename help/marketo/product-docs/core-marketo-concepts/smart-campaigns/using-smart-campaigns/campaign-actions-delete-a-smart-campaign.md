@@ -4,26 +4,26 @@ description: 营销活动操作 — 删除智能营销活动 — Marketo文档 �
 title: 营销活动操作 — 删除智能营销活动
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 10%
 
 ---
 
 # 营销活动操作：删除智能营销活动 {#campaign-actions-delete-a-smart-campaign}
 
-如果您有一个不再需要的旧Smart Campaign，则可以将其删除。 具体方法如下。
+如果您有一个不再需要的旧Smart Campaign，则可以将其删除。 操作方法如下：
 
 >[!CAUTION]
 >
 >删除之前请务必确认。 删除Smart Campaign后，无法恢复它。
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. 导航到不活动的Smart Campaign。 在&#x200B;**[!UICONTROL 促销活动操作]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL 删除]**。
+1. 导航到不活动的Smart Campaign。 在&#x200B;**[!UICONTROL Campaign Actions]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >要取消处理活动的智能营销活动而不将其完全删除，了解如何[中止智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)。
 
-1. 单击&#x200B;**[!UICONTROL 删除]**&#x200B;以确认。
+1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
 
    ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 

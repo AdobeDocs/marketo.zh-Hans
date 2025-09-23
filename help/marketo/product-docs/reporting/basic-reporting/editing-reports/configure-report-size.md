@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360002
 description: 配置报表大小 — Marketo文档 — 产品文档
-title: 配置报表大小
+title: 配置报告大小
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 配置报表大小 {#configure-report-size}
+# 配置报告大小 {#configure-report-size}
 
 默认情况下，Marketo报表的最大行数限制为5,000，但您可以更改此限制。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 

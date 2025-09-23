@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147340
 description: 发送来自潜在客户所有者的电子邮件 — Marketo文档 — 产品文档
-title: 从潜在客户所有者发送电子邮件
+title: 以潜在客户所有者身份发送电子邮件
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 从潜在客户所有者发送电子邮件 {#send-emails-from-the-lead-owner}
+# 以潜在客户所有者身份发送电子邮件 {#send-emails-from-the-lead-owner}
 
-如果要代表Lead Owner向Lead发送电子邮件，该怎么办？  具体方法如下。
+如果要代表Lead Owner向Lead发送电子邮件，该怎么办？  操作方法如下：
 
 1. 查找您的电子邮件，选择它并单击&#x200B;**[!UICONTROL Edit Draft]**。
 

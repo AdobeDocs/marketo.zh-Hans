@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380785
 description: 指定帐户洞察 — Marketo文档 — 产品文档
-title: 指定帐户分析
+title: 命名帐户洞察
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 指定帐户分析 {#named-account-insights}
+# 命名帐户洞察 {#named-account-insights}
 
 指定帐户仪表板提供目标帐户的360度视图。
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 <table>
  <tbody>
   <tr>
-   <td><strong><span class="uicontrol">帐户得分</span></strong></td>
+   <td><strong><span class="uicontrol">帐户评分</span></strong></td>
    <td><p>查看基于您在<span class="uicontrol">管理员</span>中创建的所有帐户分数的每周参与度。 您可以并排比较这些帐户分数。 要确定每周参与度，我们采用一周中任何一天的最大参与度。</p></td>
   </tr>
   <tr>

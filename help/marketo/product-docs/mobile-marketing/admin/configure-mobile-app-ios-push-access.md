@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512434
 description: 配置移动应用程序iOS推送访问 — Marketo文档 — 产品文档
-title: 配置移动应用程序iOS推送访问
+title: 配置移动应用程序 iOS 推送访问
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 配置移动应用程序iOS推送访问 {#configure-mobile-app-ios-push-access}
+# 配置移动应用程序 iOS 推送访问 {#configure-mobile-app-ios-push-access}
 
 1. 单击 **[!UICONTROL Admin]**。
 

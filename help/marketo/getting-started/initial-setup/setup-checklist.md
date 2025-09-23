@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 1. 为品牌跟踪链接选择电子邮件CNAME
 1. 请求IT为您的电子邮件CNAME设置DNS记录
 1. 要求IT允许列表Marketo
-1. 在[!UICONTROL 管理员]区域设置DKIM和SPF
+1. 在[!UICONTROL Admin]区域中设置DKIM和SPF
 1. 为`[FromDomain1]`设置MX
 1. 使用电子邮件CNAME完成后，在Marketo中设置您的电子邮件CNAME
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 1. 填写表单以提交新模板的URL
 
-## CRM同步 {#crm-sync}
+## CRM 同步 {#crm-sync}
 
 1. 与您的CRM管理员合作，将所有CRM联系人同步到Marketo
 

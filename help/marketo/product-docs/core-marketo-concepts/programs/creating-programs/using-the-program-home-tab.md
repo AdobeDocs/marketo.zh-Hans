@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147126
 description: 使用项目主页选项卡 — Marketo文档 — 产品文档
-title: 使用程序主页选项卡
+title: 使用项目主页选项卡
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 0%
+source-wordcount: '144'
+ht-degree: 8%
 
 ---
 
-# 使用程序主页选项卡 {#using-the-program-home-tab}
+# 使用项目主页选项卡 {#using-the-program-home-tab}
 
 项目主页选项卡为您提供项目中所发生情况的高级视图。
 
 ## 摘要视图 {#summary-view}
 
-1. 转到&#x200B;**[!UICONTROL 营销活动]**。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. 单击摘要底部的&#x200B;**[!UICONTROL 导出]**&#x200B;以下载报告。
+1. 单击摘要底部的&#x200B;**[!UICONTROL Export]**&#x200B;以下载报告。
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## 由视图使用 {#used-by-view}
 
-1. 在&#x200B;**[!UICONTROL 营销活动]**&#x200B;中，选择一个计划。
+1. 在&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;中，选择一个项目。
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. 单击&#x200B;**[!UICONTROL 视图]**&#x200B;下拉列表。 选择&#x200B;**[!UICONTROL 由]**&#x200B;使用。
+1. 单击&#x200B;**[!UICONTROL View]**&#x200B;下拉列表。 选择 **[!UICONTROL Used By]**。
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 ## 成员资格视图 {#membership-view}
 
-1. 在&#x200B;**[!UICONTROL 营销活动]**&#x200B;中，选择一个计划。
+1. 在&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;中，选择一个项目。
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. 单击&#x200B;**[!UICONTROL 视图]**&#x200B;下拉列表。 选择&#x200B;**[!UICONTROL 成员资格]**。
+1. 单击&#x200B;**[!UICONTROL View]**&#x200B;下拉列表。 选择 **[!UICONTROL Membership]**。
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**[!UICONTROL 历史]**&#x200B;表示曾参加过该计划的任何人，而&#x200B;**[!UICONTROL 当前]**&#x200B;仅包含当前参加该计划的人员。
+   >**[!UICONTROL Historical]**&#x200B;表示曾参加过该计划的任何人，而&#x200B;**[!UICONTROL Current]**&#x200B;仅包含当前该计划中的人员。
 
    >[!MORELIKETHIS]
    >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352612
 description: 计划活动 — Marketo文档 — 产品文档
-title: 计划活动
+title: 计划营销活动
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 计划活动 {#schedule-a-campaign}
+# 计划营销活动 {#schedule-a-campaign}
 
 您可以安排Campaign的每个电子邮件步骤在特定时间发出，也可以选择每个后续电子邮件步骤与Campaign中的第一封电子邮件同时发出。
 

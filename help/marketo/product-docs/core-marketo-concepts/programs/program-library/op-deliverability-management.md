@@ -1,16 +1,16 @@
 ---
 description: 操作可投放性管理 — Marketo文档 — 产品文档
-title: 操作可投放性管理
+title: OP-供应能力管理
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
-# 操作可投放性管理 {#op-deliverability-management}
+# OP-供应能力管理 {#op-deliverability-management}
 
 这是一个利用Marketo Engage默认程序进行可投放性管理最佳实践工作流的示例，该工作流用于审查您当前的电子邮件可投放性状态并管理长期退回和未响应者。
 
@@ -66,22 +66,22 @@ ht-degree: 8%
    <th>资源名称</th>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>营销暂停长期无响应者</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>营销暂停将长期退回电子邮件</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>更新电子邮件后重置“电子邮件无效”</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>电子邮件更新后重置“营销已暂停”</td>
   </tr>

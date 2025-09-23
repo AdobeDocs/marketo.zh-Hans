@@ -4,14 +4,14 @@ description: 发行说明 — 2015年5月 — Marketo文档 — 产品文档
 title: 发行说明 - 2015 年 5 月
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 发行说明：2015年5月 {#release-notes-may}
+# 发行说明：2015 年 5 月 {#release-notes-may}
 
 2015年5月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细文章链接！
 
@@ -23,9 +23,9 @@ ht-degree: 1%
 
 ![](assets/image2015-5-15-13-3a33-3a11.png)
 
-## 中止电子邮件程序
+## 中止电子邮件项目
 
-[中止电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[中止电子邮件项目](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 是否在电子邮件程序准备就绪前点击了发送？ 使用新的abort电子邮件程序按钮踩刹车。 这将直接停止正在运行的电子邮件程序。
 

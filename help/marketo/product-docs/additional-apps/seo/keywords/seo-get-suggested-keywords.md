@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2949202
 description: SEO — 获取建议的关键字 — Marketo文档 — 产品文档
-title: SEO — 获取建议的关键字
+title: SEO - 获取建议关键词
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 8%
 
 ---
 
-# SEO — 获取建议的关键字 {#seo-get-suggested-keywords}
+# SEO - 获取建议关键词 {#seo-get-suggested-keywords}
 
 Marketo SEO可建议您应跟踪的关键字。 我们可以根据关键字或网站的URL提供建议。 试试看！
 
 ## 使用关键词获取关键词建议 {#get-keyword-suggestions-using-a-keyword}
 
-1. 转到&#x200B;**[!UICONTROL 关键字]**&#x200B;部分。
+1. 转到&#x200B;**[!UICONTROL Keywords]**&#x200B;部分。
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. 单击&#x200B;**[!UICONTROL 获取建议]**。
+1. 单击 **[!UICONTROL Get Suggestions]**。
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. 输入&#x200B;**[!UICONTROL 关键字]**。 单击&#x200B;**[!UICONTROL 建议关键字]**。
+1. 输入&#x200B;**[!UICONTROL Keyword]**。 单击 **[!UICONTROL Suggest Keywords]**。
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
@@ -33,7 +33,7 @@ Marketo SEO可建议您应跟踪的关键字。 我们可以根据关键字或�
    >
    >您是否知道可以[在此处将您的关键字添加到新的或现有的列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)？
 
-1. 选择建议的关键字。 单击&#x200B;**[!UICONTROL 添加选定项]**。
+1. 选择建议的关键字。 单击 **[!UICONTROL Add Selected]**。
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -45,11 +45,11 @@ Marketo SEO可建议您应跟踪的关键字。 我们可以根据关键字或�
 
 ## 从URL获取关键词建议  {#get-keyword-suggestions-from-a-url}
 
-1. 转到&#x200B;**[!UICONTROL 关键字]**&#x200B;部分。
+1. 转到&#x200B;**[!UICONTROL Keywords]**&#x200B;部分。
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. 单击&#x200B;**[!UICONTROL 获取建议]**。
+1. 单击 **[!UICONTROL Get Suggestions]**。
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
@@ -57,7 +57,7 @@ Marketo SEO可建议您应跟踪的关键字。 我们可以根据关键字或�
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. 输入&#x200B;**[!UICONTROL URL]**&#x200B;并单击&#x200B;**[!UICONTROL 建议关键字]**。
+1. 输入&#x200B;**[!UICONTROL URL]**&#x200B;并单击&#x200B;**[!UICONTROL Suggest Keywords]**。
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
@@ -65,7 +65,7 @@ Marketo SEO可建议您应跟踪的关键字。 我们可以根据关键字或�
    >
    >您是否知道可以[在此处将您的关键字添加到新的或现有的列表](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)？
 
-1. 选择建议的关键字。 单击&#x200B;**[!UICONTROL 添加选定项]**。
+1. 选择建议的关键字。 单击 **[!UICONTROL Add Selected]**。
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 

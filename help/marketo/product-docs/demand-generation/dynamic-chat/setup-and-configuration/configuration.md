@@ -3,10 +3,10 @@ description: 配置 — Marketo文档 — 产品文档
 title: 配置
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 **新消息通知声音**
 
-单击下拉菜单以在每次在会话中触发聊天机器人时为访客选择提示音。 有多种声音可供选择。
+单击下拉菜单以在每次在会话中触发聊天机器人时为访客选择提示音。 并可从多种声音中进行选择。
 
 **在移动设备上启用Poke消息**
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147120
 description: 将成员从电子表格导入程序 — Marketo文档 — 产品文档
-title: 将电子表格中的成员导入程序
+title: 从电子表格导入成员到项目
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# 将电子表格中的成员导入程序 {#import-members-from-a-spreadsheet-into-a-program}
+# 从电子表格导入成员到项目 {#import-members-from-a-spreadsheet-into-a-program}
 
 您可以导入自动成为项目群成员的人员列表。 该怎么做呢。
 

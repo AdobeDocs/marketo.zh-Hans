@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
 description: 取消批准预测内容的标题 — Marketo文档 — 产品文档
-title: 取消批准预测内容的标题
+title: 取消批准预测性内容标题
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. 单击&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Unapprove for Predictive Content]**。
+1. 点击 **[!UICONTROL Content Actions]** 下拉菜单，并选择 **[!UICONTROL Unapprove for Predictive Content]**。
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 

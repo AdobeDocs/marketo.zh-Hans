@@ -1,16 +1,16 @@
 ---
 description: 致电原因 — Marketo文档 — 产品文档
-title: 致电原因
+title: 通话原因
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 致电原因 {#call-reasons}
+# 通话原因 {#call-reasons}
 
 允许您的销售团队在致电时选择致电原因，以便您的团队能够了解致电的原因。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12978647
 description: 为CRM发现创建自定义字段 — Marketo文档 — 产品文档
-title: 为CRM发现创建自定义字段
+title: 为 CRM 发现创建自定义字段
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-# 为CRM发现创建自定义字段 {#create-a-custom-field-for-crm-discovery}
+# 为 CRM 发现创建自定义字段 {#create-a-custom-field-for-crm-discovery}
 
 将自定义字段添加到帐户，将它们映射到您的CRM，并将它们用于Marketo中的CRM帐户发现。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. 单击&#x200B;**[!UICONTROL Object]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Named Account]**。
+1. 点击 **[!UICONTROL Object]** 下拉菜单，并选择 **[!UICONTROL Named Account]**。
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-1. 创建字段后，从右侧的树中选择该字段。 单击&#x200B;**[!UICONTROL Field Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Map to CRM Field]**。
+1. 创建字段后，从右侧的树中选择该字段。 点击 **[!UICONTROL Field Actions]** 下拉菜单，并选择 **[!UICONTROL Map to CRM Field]**。
 
    ![](assets/six-2.png)
 

@@ -4,10 +4,10 @@ description: 了解工作区和人员分区 — Marketo文档 — 产品文档
 title: 了解工作区和人员分区
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 0%
+source-wordcount: '528'
+ht-degree: 4%
 
 ---
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 >
 >包含您的资产的父文件夹是唯一可共享的文件夹，而不是子文件夹。
 
-1. 单击&#x200B;**[!UICONTROL 数据库]**。
+1. 单击 **[!UICONTROL Database]**。
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. 右键单击Segmentation文件夹，然后单击&#x200B;**[!UICONTROL 新建文件夹]**。
+1. 右键单击Segmentation文件夹，然后单击&#x200B;**[!UICONTROL New Folder]**。
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. 命名您的文件夹，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 命名您的文件夹并单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. 右键单击文件夹，然后选择&#x200B;**[!UICONTROL 共享文件夹]**。
+1. 右键单击该文件夹并选择&#x200B;**[!UICONTROL Share Folder]**。
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. 选择要与其共享文件夹的工作区，然后单击&#x200B;**[!UICONTROL 保存]**。 “共享文件夹”对话框将仅显示您具有查看权限的工作区。
+1. 选择要与共享文件夹的工作区，然后单击&#x200B;**[!UICONTROL Save]**。 “共享文件夹”对话框将仅显示您具有查看权限的工作区。
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -80,16 +80,16 @@ ht-degree: 0%
 * 智能营销活动
 * [智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
 * [分段](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-* 代码片段
+* 代码段
 
 ## 跨工作区克隆 {#cloning-across-workspaces}
 
 对于不是模板的资源，最好在项目内将它们克隆为本地资源。 通过适当的访问级别，您可以将这些资产拖放到另一个工作区中：
 
-* 程序
+* 项目
 * 电子邮件
 * 登陆页面
-* Forms
+* 表单
 
 >[!IMPORTANT]
 >
@@ -113,9 +113,9 @@ ht-degree: 0%
 
 您可以在以下配置中向[工作区](create-a-new-workspace.md)分配人员分区：
 
-* 一个工作区对一个人分区(1:1)
-* 一个工作区对多个人员分区(1：x)
-* 多个工作区到一人分区(x：1)
+* 一个工作区到一个人员分区(1:1)
+* 一个工作区到多个人员分区(1:x)
+* 多个工作区到同一个人员分区(x:1)
 
 >[!NOTE]
 >

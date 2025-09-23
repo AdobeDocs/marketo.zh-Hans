@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359540
 description: 在登陆页面中包含日历事件ICS文件 — Marketo文档 — 产品文档
-title: 在登陆页面中包含日历事件ICS文件
+title: 在登录页面中包含日程表事件 ICS 文件
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# 在登陆页面中包含日历事件ICS文件 {#include-a-calendar-event-ics-file-in-a-landing-page}
+# 在登录页面中包含日程表事件 ICS 文件 {#include-a-calendar-event-ics-file-in-a-landing-page}
 
 **[!UICONTROL Calendar File]**&#x200B;令牌允许您向Marketo登陆页面添加日历事件(.ics)链接。
 

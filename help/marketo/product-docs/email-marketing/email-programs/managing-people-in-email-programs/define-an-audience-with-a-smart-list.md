@@ -4,10 +4,10 @@ description: 使用智能列表定义受众 — Marketo文档 — 产品文档
 title: 使用智能列表定义受众
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 1%
 >
 >你注意到被阻止的号码了吗？ 此数字是限定的人员的子集，表示无法发送此电子邮件的人员，因为他们是：
 >
->* 退订
+>* 已取消订阅
 >* 营销暂停
 >* 已列入阻止列表
 >* 电子邮件无效

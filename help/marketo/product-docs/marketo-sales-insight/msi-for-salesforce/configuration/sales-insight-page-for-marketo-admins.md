@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762409
 description: 面向Marketo管理员的Insight销售页面 — Marketo文档 — 产品文档
-title: 面向Marketo管理员的Sales Insight页面
+title: 面向 Marketo 管理员的 Sales Insight 页面
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

@@ -4,7 +4,7 @@ description: 适用于 [!DNL Microsoft Dynamics] 的Marketo插件版本 — Mark
 title: 适用于 [!DNL Microsoft Dynamics]的Marketo插件版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
  <tbody>
   <tr>
    <th style="width:15%">版本</th>
-   <th style="width:20%">发行日期</th>
+   <th style="width:20%">发布日期</th>
    <th style="width:65%">注释</th>
   </tr>
   <tr>

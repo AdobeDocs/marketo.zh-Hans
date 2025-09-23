@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352536
 description: 视图跟踪的工作方式 — Marketo文档 — 产品文档
-title: 视图跟踪的工作方式
+title: 视图跟踪的工作原理
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 视图跟踪的工作方式 {#how-view-tracking-works}
+# 视图跟踪的工作原理 {#how-view-tracking-works}
 
 我们通过在您发送的电子邮件中放置不可见的图像来跟踪电子邮件打开情况。
 

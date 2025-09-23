@@ -1,16 +1,16 @@
 ---
 description: 操作评分行为 — Marketo文档 — 产品文档
-title: 操作评分行为
+title: OP-评分-行为
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 21%
+ht-degree: 22%
 
 ---
 
-# 操作评分行为 {#op-scoring-behavior}
+# OP-评分-行为 {#op-scoring-behavior}
 
 此示例是一个使用Marketo Engage默认程序的行为评分高级（标记化）操作程序。 在项目的“我的令牌”选项卡下查看和编辑评分值。 需要名为“行为得分”的自定义得分字段。
 
@@ -46,7 +46,7 @@ ht-degree: 21%
   </tr>
   <tr>
    <td>得分</td>
-   <td>行为得分</td>
+   <td>行为评分</td>
    <td>行为得分</td>
   </tr>
  </tbody>
@@ -62,77 +62,77 @@ ht-degree: 21%
    <th>资源名称</th>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>电子邮件 — 单击电子邮件中的链接</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>表单 — 填写联系人表单</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>表单 — 填写内容表单</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>表单 — 填写默认表单</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>表单 — 填写事件表单</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>Web — 下载任意PDF</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>Web - PPC评分</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>Web — 访问关键网页</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>Web — 在1天内访问多个网页</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>现场活动 — 已参加</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>贸易展 — 受影响</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>贸易展 — 参观展位</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>网络研讨会 — 已参加</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>降低得分 — 无活动</td>
   </tr>
   <tr>
-   <td>智能营销活动</td>
+   <td>智能活动</td>
    <td> </td>
    <td>降低得分 — 访问不受欢迎的网页</td>
   </tr>

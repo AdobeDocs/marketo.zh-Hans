@@ -4,14 +4,14 @@ description: 发行说明 — 2015年4月 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年4月
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明：2015年4月 {#release-notes-april}
+# 发行说明：2015 年 4 月 {#release-notes-april}
 
 2015年4月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细文章链接！
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## 用于[!DNL Salesforce1]的Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-salesforce}
+## 用于[!DNL Sales Insight]的Marketo [!DNL Salesforce1] {#marketo-sales-insight-for-salesforce}
 
 您最喜爱的[!DNL Sales Insight]功能 — 潜在客户源、最佳答案、有趣的时刻，以及添加到Marketo Campaign — 所有这些功能在[!DNL Salesforce1]应用程序上可用。
 

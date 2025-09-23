@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359801
 description: 使用URL生成器 — Marketo文档 — 产品文档
-title: 使用URL生成器
+title: 使用 URL 构建器
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 使用URL生成器 {#using-the-url-builder}
+# 使用 URL 构建器 {#using-the-url-builder}
 
 URL生成器可帮助您构建可填充Marketo隐藏表单字段的URL。
 
@@ -29,6 +29,6 @@ URL生成器可帮助您构建可填充Marketo隐藏表单字段的URL。
 
    >[!NOTE]
    >
-   >如果在生成器中看不到任何可用字段，请确保您的表单具有隐藏字段，并且这些字段已设置为接受URL参数[&#128279;](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter)。
+   >如果在生成器中看不到任何可用字段，请确保您的表单具有隐藏字段，并且这些字段已设置为接受URL参数[ ](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter)。
 
 做得好！ 您现在可以复制并粘贴该URL并将其用于Web。

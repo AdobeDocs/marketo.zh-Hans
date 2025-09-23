@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17728401
 description: Gmail用户的电子邮件连接 — Marketo文档 — 产品文档
-title: Gmail用户的电子邮件连接
+title: 为 Gmail 用户设置电子邮件连接
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Gmail用户的电子邮件连接 {#email-connection-for-gmail-users}
+# 为 Gmail 用户设置电子邮件连接 {#email-connection-for-gmail-users}
 
 连接到Gmail意味着您将获得回复跟踪、访问Gmail投放渠道、在Gmail中计划电子邮件以及发送合规性的功能。
 
@@ -31,15 +31,15 @@ ht-degree: 1%
 
    ![](assets/three.png)
 
-1. 单击 **[!UICONTROL Get Started]**。
+1. 点击 **[!UICONTROL Get Started]**。
 
    ![](assets/four.png)
 
-1. 选择&#x200B;**[!UICONTROL I use Gmail to send emails]**&#x200B;并单击&#x200B;**[!UICONTROL Next]**。
+1. 选择 **[!UICONTROL I use Gmail to send emails]** 并点击 **[!UICONTROL Next]**。
 
    ![](assets/five.png)
 
-1. 单击 **[!UICONTROL OK]**。
+1. 点击 **[!UICONTROL OK]**。
 
    ![](assets/six.png)
 

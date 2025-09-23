@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7516607
 description: 审核核心技能 — Marketo文档 — 产品文档
-title: 审核核心技能
+title: 回顾核心技能
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 审核核心技能 {#reviewing-core-skills}
+# 回顾核心技能 {#reviewing-core-skills}
 
 需要填补营销自动化专业知识中的一些空白吗？
 
 如果您没有足够的时间来复习核心技能，我们建议您执行以下操作：
 
-![创建电子邮件程序](assets/reviewing-core-skills-1.png) [**创建电子邮件程序**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
+![创建电子邮件程序](assets/reviewing-core-skills-1.png)[**创建电子邮件程序**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
 
 <p>
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 <p>
 
-![编辑电子邮件中的文本](assets/reviewing-core-skills-3.png) [**编辑电子邮件中的文本**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
+![编辑电子邮件中的文本](assets/reviewing-core-skills-3.png)[**编辑电子邮件中的文本**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
 
 <p>
 
@@ -33,8 +33,8 @@ ht-degree: 0%
 
 <p>
 
-![报表类型](assets/reviewing-core-skills-5.png) [**报表类型**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+![报表类型](assets/reviewing-core-skills-5.png)[**报表类型**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
 
 <p>
 
-![如何组织程序](assets/reviewing-core-skills-6.png) [**如何组织程序**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}
+![如何组织程序](assets/reviewing-core-skills-6.png)[**如何组织程序**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}

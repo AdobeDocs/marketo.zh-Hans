@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360217
 description: 更改Analytics的归因设置 — Marketo文档 — 产品文档
-title: 更改Analytics的归因设置
+title: 更改分析的归因设置
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 更改Analytics的归因设置 {#change-attribution-settings-for-analytics}
+# 更改分析的归因设置 {#change-attribution-settings-for-analytics}
 
 您可以更改Marketo将联系人与首次联系和多次联系归因机会、商机转化量度以及受营销影响的商机标志关联的方式。
 
 这些设置将影响[!UICONTROL Revenue Explorer]计划机会分析[、](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)机会分析[和潜在客户分析区域下的](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)报告。 这也会影响[!UICONTROL Program Analyzer]报表。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 

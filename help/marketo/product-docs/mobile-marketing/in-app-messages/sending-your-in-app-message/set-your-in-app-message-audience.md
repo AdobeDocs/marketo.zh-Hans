@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10617431
 description: 设置应用程序内消息受众 — Marketo文档 — 产品文档
-title: 设置应用程序内消息受众
+title: 设置您的应用程序内消息受众
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 设置应用程序内消息受众 {#set-your-in-app-message-audience}
+# 设置您的应用程序内消息受众 {#set-your-in-app-message-audience}
 
 第一步是决定应该接收应用程序内消息的人员。 您需要设置智能列表。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719402
 description: 创建新的构件Web营销活动 — Marketo文档 — 产品文档
-title: 创建新的构件Web营销活动
+title: 创建新小组件 Web 营销活动
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 创建新的构件Web营销活动 {#create-a-new-widget-web-campaign}
+# 创建新小组件 Web 营销活动 {#create-a-new-widget-web-campaign}
 
 Web营销活动是与特定区段关联的自定义反应，可以是您网站上的[对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、区域替换[中的](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、小组件功能或电子邮件警报。 Widget Web营销活动是出现在网页垂直侧的文本或横幅，能够展开和收缩，同时在整个访问期间都固定在网站页面上。
 
@@ -107,7 +107,7 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
 >
 >若要更轻松地找到所需的营销活动，请使用[筛选器功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
-## 克隆Web营销活动 {#clone-a-web-campaign}
+## 克隆 Web 营销活动 {#clone-a-web-campaign}
 
 请参阅[克隆Web营销活动](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
@@ -117,7 +117,7 @@ Web营销活动是与特定区段关联的自定义反应，可以是您网站�
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## 删除Web活动 {#delete-a-web-campaign}
+## 删除 Web 营销活动 {#delete-a-web-campaign}
 
 1. 在[!UICONTROL Web Campaigns]页面中，单击要删除的Web营销活动上的&#x200B;**[!UICONTROL Delete]**。
 

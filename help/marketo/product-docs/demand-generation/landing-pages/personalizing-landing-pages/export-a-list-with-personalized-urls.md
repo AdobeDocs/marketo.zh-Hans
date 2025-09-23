@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359815
 description: 导出包含个性化URL的列表 — Marketo文档 — 产品文档
-title: 导出具有个性化URL的列表
+title: 导出包含个性化 URL 的列表
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 导出具有个性化URL的列表 {#export-a-list-with-personalized-urls}
+# 导出包含个性化 URL 的列表 {#export-a-list-with-personalized-urls}
 
 >[!PREREQUISITES]
 >

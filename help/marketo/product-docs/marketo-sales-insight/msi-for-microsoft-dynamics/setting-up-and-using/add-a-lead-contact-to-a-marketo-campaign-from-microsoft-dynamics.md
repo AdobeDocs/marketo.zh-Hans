@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953342
 description: 从Microsoft Dynamics将潜在客户/联系人添加到Marketo营销活动 — Marketo文档 — 产品文档
-title: 从Microsoft Dynamics将潜在客户/联系人添加到Marketo营销活动
+title: 从 Microsoft Dynamics 将潜在客户/联系人添加到 Marketo 营销活动
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
 # 将潜在客户/联系人从[!DNL Microsoft Dynamics]添加到Marketo营销活动 {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-您可以在[!DNL Microsoft Dynamics]中直接将潜在客户/联系人快速轻松地添加到Marketo智能营销活动中。 具体方法如下。
+您可以在[!DNL Microsoft Dynamics]中直接将潜在客户/联系人快速轻松地添加到Marketo智能营销活动中。 操作方法如下：
 
 1. 在[!DNL Dynamics]中，转到&#x200B;**[!UICONTROL Sales]**&#x200B;区域。
 

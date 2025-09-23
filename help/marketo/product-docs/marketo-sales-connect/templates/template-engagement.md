@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352504
 description: 模板参与度 — Marketo文档 — 产品文档
-title: 模板参与
+title: 模板互动情况
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 模板参与 {#template-engagement}
+# 模板互动情况 {#template-engagement}
 
 请按照以下步骤查看您的模板参与情况。
 

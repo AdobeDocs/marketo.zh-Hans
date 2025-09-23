@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360305
 description: 创建人员详细信息页面的自定义选项卡 — Marketo文档 — 产品文档
-title: 创建人员详细信息页面的自定义选项卡
+title: 为人员详情页创建自定义选项卡
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# 创建人员详细信息页面的自定义选项卡 {#creating-a-custom-tab-for-the-person-detail-page}
+# 为人员详情页创建自定义选项卡 {#creating-a-custom-tab-for-the-person-detail-page}
 
 如果您发现自己需要在人员详细信息中反复查找一组特定的字段，请考虑创建自定义布局以简化操作。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

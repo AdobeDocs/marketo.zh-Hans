@@ -3,16 +3,16 @@ description: 电子邮件跟踪概述 — Marketo文档 — 产品文档
 title: 电子邮件跟踪概述
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # 电子邮件跟踪概述 {#email-tracking-overview}
 
-## 回复跟踪的工作方式 {#how-reply-tracking-works}
+## 回复跟踪的工作原理 {#how-reply-tracking-works}
 
 回复跟踪是通过查看您发送的每封电子邮件中的邮件ID完成的。 每个电子邮件都包含一个唯一的消息ID，使我们能够有一些最佳的回复跟踪。
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 这意味着，如果您向<flynn@flynnsarcade.com>发送电子邮件，而他通过<kevinf@flynnsarcade.com>进行回复，则我们可以跟踪该回复。 此外，如果您发送电子邮件<flynn@flynnsarcade.com>和抄送<alan@encom.com>，而Alan将您写回，则它还会检测回复并结束营销活动。
 
-## 如何跟踪您的电子邮件附件 {#how-to-track-your-email-attachments}
+## 如何追踪您的电子邮件附件 {#how-to-track-your-email-attachments}
 
 [!DNL Sales Connect]提供对附件(.doc、.ppt、.pdf)的跟踪，以便您查看附件打开/下载的时间，以及收件人浏览的页面。 我们将允许您同时使用[Web应用程序](https://toutapp.com/login)和Gmail(或Google应用程序)中的可跟踪附件功能。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 >
 >如果您不想跟踪附件，只需单击“附加文件”，就不会跟踪此附件。
 
-## 视图跟踪的工作方式 {#how-view-tracking-works}
+## 视图跟踪的工作原理 {#how-view-tracking-works}
 
 我们通过在您发送的电子邮件中放置不可见的图像来跟踪电子邮件打开情况。
 

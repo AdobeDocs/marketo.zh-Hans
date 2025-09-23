@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360421
 description: 覆盖项目级别的Analytics行为 — Marketo文档 — 产品文档
-title: 覆盖项目级别的Analytics行为
+title: 在项目层级覆盖分析行为
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 覆盖项目级别的Analytics行为 {#override-analytics-behavior-at-the-program-level}
+# 在项目层级覆盖分析行为 {#override-analytics-behavior-at-the-program-level}
 
 您可以在渠道[上的管理员级别设置](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)分析行为，但也可以在项目级别覆盖它。 方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 

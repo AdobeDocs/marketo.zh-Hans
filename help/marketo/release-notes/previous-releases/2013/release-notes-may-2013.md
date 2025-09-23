@@ -4,14 +4,14 @@ description: 发行说明 — 2013年5月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年5月
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 发行说明： 2013年5月 {#release-notes-may}
+# 发行说明：2013 年 5 月 {#release-notes-may}
 
 5月版本中包含以下功能。
 

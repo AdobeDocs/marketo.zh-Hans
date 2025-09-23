@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147360
 description: 将令牌添加到电子邮件链接 — Marketo文档 — 产品文档
-title: 将令牌添加到电子邮件链接
+title: 向电子邮件链接添加令牌
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
-# 将令牌添加到电子邮件链接 {#add-tokens-to-an-email-link}
+# 向电子邮件链接添加令牌 {#add-tokens-to-an-email-link}
 
-要将其他参数和特定于人员的参数插入链接，您可以使用令牌。 具体方法如下。
+要将其他参数和特定于人员的参数插入链接，您可以使用令牌。 操作方法如下：
 
 1. 选择您的电子邮件并单击&#x200B;**[!UICONTROL Edit Draft]**&#x200B;选项卡。
 

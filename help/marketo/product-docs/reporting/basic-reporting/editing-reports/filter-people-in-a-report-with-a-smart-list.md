@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360016
 description: 使用智能列表筛选报表中的人员 — Marketo文档 — 产品文档
-title: 使用智能列表筛选报表中的人员
+title: 使用智能列表筛选报告中的人员
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# 使用智能列表筛选报表中的人员 {#filter-people-in-a-report-with-a-smart-list}
+# 使用智能列表筛选报告中的人员 {#filter-people-in-a-report-with-a-smart-list}
 
 使用智能列表按特定人员属性过滤报表。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 * [公司Web活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [网页活动](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356568
 description: 计划电子邮件 — Marketo文档 — 产品文档
-title: 计划电子邮件
+title: 安排电子邮件发送
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 计划电子邮件 {#scheduling-an-email}
+# 安排电子邮件发送 {#scheduling-an-email}
 
 按照这些简单的步骤计划电子邮件。
 

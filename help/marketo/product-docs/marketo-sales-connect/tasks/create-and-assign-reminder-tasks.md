@@ -1,16 +1,16 @@
 ---
 description: 创建和分配提醒任务 — Marketo文档 — 产品文档
-title: 创建和分配提醒任务
+title: 创建并分配提醒任务
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 创建和分配提醒任务 {#create-and-assign-reminder-tasks}
+# 创建并分配提醒任务 {#create-and-assign-reminder-tasks}
 
 提醒任务是了解客户和潜在客户参与情况的好方法。 要创建任务，请执行以下步骤。
 

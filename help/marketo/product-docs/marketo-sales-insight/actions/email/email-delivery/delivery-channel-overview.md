@@ -1,16 +1,16 @@
 ---
 description: 投放渠道概述 — Marketo文档 — 产品文档
-title: 投放渠道概述
+title: 发送渠道概述
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '660'
 ht-degree: 0%
 
 ---
 
-# 投放渠道概述 {#delivery-channel-overview}
+# 发送渠道概述 {#delivery-channel-overview}
 
 Marketo Sales为您提供多种电子邮件发送选项。 本文将介绍您可以利用的投放渠道、如何选择渠道以及何时选择渠道。
 

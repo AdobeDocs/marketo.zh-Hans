@@ -1,16 +1,16 @@
 ---
 description: 交付交互式网络研讨会 — Marketo文档 — 产品文档
-title: 举办交互式网络研讨会
+title: 举办互动网络研讨会
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
 
 ---
 
-# 举办交互式网络研讨会 {#deliver-an-interactive-webinar}
+# 举办互动网络研讨会 {#deliver-an-interactive-webinar}
 
 您的交互式网络研讨会已准备就绪。 了解关于演示需要了解的一切信息。
 
@@ -104,7 +104,7 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-了解有关[聊天面板](https://helpx.adobe.com/cn/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}的更多信息。
+了解有关[聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}的更多信息。
 
 ### 准备模式 {#prepare-mode}
 
@@ -127,16 +127,16 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 >[!NOTE]
 >
 >* 对实时pod所做的任何更改都会立即反映给参与者。
->* [聊天面板](https://helpx.adobe.com/cn/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是准备模式的一部分，对其所做的任何更改都将立即反映给参与者。
+>* [聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是准备模式的一部分，对其所做的任何更改都将立即反映给参与者。
 
 ### 辅助功能 {#accessibility}
 
 Adobe通过改进交互式网络研讨会的无障碍性，努力让残障人士和参与者参与其中。 该软件不断得到增强，以满足所有类型的用户的需求，并遵守包括视觉、听觉、移动或其他残疾人士在内的全球标准。
 
-了解Adobe Connect如何针对[视觉、听觉和移动需求](https://helpx.adobe.com/cn/adobe-connect/using/accessibility-features.html){target="_blank"}提供帮助。
+了解Adobe Connect如何针对[视觉、听觉和移动需求](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}提供帮助。
 
 ### 隐藏式字幕 {#closed-captions}
 
 隐藏式字幕是Adobe Connect房间内音频的文本表示形式，可帮助耳聋或听力缺佳的参与者参与活动。 您可以将音频内容的实时字幕集成到事件中，并在隐藏式字幕显示中呈现这些字幕。
 
-了解如何[启用隐藏式字幕](https://helpx.adobe.com/cn/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+了解如何[启用隐藏式字幕](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。

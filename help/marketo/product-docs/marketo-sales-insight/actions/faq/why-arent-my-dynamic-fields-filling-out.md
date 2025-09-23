@@ -1,16 +1,16 @@
 ---
-description: 为什么我的动态字段没有填写？ - Marketo文档 — 产品文档
-title: 为什么我的动态字段没有填写？
+description: 为什么我的动态字段没有填写？ - Marketo 文档 - 产品文档
+title: 为什么我的动态字段未填充？
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 为什么我的动态字段没有填写？ {#why-arent-my-dynamic-fields-filling-out}
+# 为什么我的动态字段未填充？ {#why-arent-my-dynamic-fields-filling-out}
 
 仅当使用模板时，动态字段才有效。 您编写的单次性电子邮件不会填写这些内容。
 

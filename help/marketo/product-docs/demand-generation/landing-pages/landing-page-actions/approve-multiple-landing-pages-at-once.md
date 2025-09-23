@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359724
 description: 同时批准多个登陆页面 — Marketo文档 — 产品文档
-title: 一次批准多个登陆页面
+title: 一次批准多个登录页面
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 1%
+ht-degree: 16%
 
 ---
 
-# 一次批准多个登陆页面 {#approve-multiple-landing-pages-at-once}
+# 一次批准多个登录页面 {#approve-multiple-landing-pages-at-once}
 
 1. 转到&#x200B;**[!UICONTROL Design Studio]**。
 

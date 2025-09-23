@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8781911
 description: 了解电子邮件程序信息卡 — Marketo文档 — 产品文档
-title: 了解电子邮件程序信息卡
+title: 了解电子邮件项目卡片
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 0%
+source-wordcount: '342'
+ht-degree: 4%
 
 ---
 
-# 了解电子邮件程序信息卡 {#understanding-email-program-cards}
+# 了解电子邮件项目卡片 {#understanding-email-program-cards}
 
 使用Marketo时刻从您的手机或iPad查看您的电子邮件程序。
 
 >[!IMPORTANT]
 >
->2023年10月2日，Adobe从所有应用商店中删除了Marketo Ments应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 将您的Marketo Engage实例迁移到Adobe身份以进行Marketo身份验证后，您将无法再访问该应用程序。 [了解更多](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日，Adobe从所有应用商店中删除了Marketo Ments应用程序。 如果您的平板电脑/移动设备上已安装该应用程序，则可以暂时继续使用该应用程序。 在将Marketo Engage实例迁移到Adobe Identity以便对Marketo进行身份验证后，您将无法再访问该应用程序。 [了解详情](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## 以电子邮件发送程序卡 {#email-program-cards}
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. 点按&#x200B;**[!UICONTROL 确认]**。
+1. 点按&#x200B;**[!UICONTROL Confirm]**。
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. 点按&#x200B;**[!UICONTROL 确认]**&#x200B;完成作业，或者&#x200B;**[!UICONTROL 别介意]**（如果您有其他想法）。
+1. 点按&#x200B;**[!UICONTROL Confirm]**&#x200B;以完成作业；或者，如果您有其他想法，请点按&#x200B;**[!UICONTROL Never Mind]**。
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. 点按&#x200B;**[!UICONTROL 取消发送]**。
+1. 点按&#x200B;**[!UICONTROL Cancel Send]**。
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,17 +75,17 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. 点按&#x200B;**[!UICONTROL 重新计划]**。
+1. 点按&#x200B;**[!UICONTROL Reschedule]**。
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. 在日历上选择一个日期，然后点按&#x200B;**[!UICONTROL 重新计划]**。
+1. 在日历上选择一个日期并点按&#x200B;**[!UICONTROL Reschedule]**。
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
    只要您有无线服务，就可以在任何地方重新安排！
 
-## 发送示例 {#sending-a-sample}
+## 发送样本 {#sending-a-sample}
 
 您可以直接与他人共享电子邮件时刻示例。
 
@@ -93,11 +93,11 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. 点按&#x200B;**[!UICONTROL 发送样本]**。
+1. 点按&#x200B;**[!UICONTROL Send Sample]**。
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. 输入电子邮件地址，然后单击&#x200B;**[!UICONTROL 发送样本]**。
+1. 输入电子邮件地址并单击&#x200B;**[!UICONTROL Send Sample]**。
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 右键单击电子邮件卡以进行预览。
 
-1. 点按&#x200B;**[!UICONTROL 预览电子邮件]**。
+1. 点按&#x200B;**[!UICONTROL Preview Email]**。
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 

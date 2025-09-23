@@ -1,18 +1,18 @@
 ---
-description: Marketo销售分析中的交互式网络研讨会 — Marketo文档 — 产品文档
-title: Marketo Sales Insight中的交互式网络研讨会
+description: Marketo销售人员Insight中的交互式网络研讨会 — Marketo文档 — 产品文档
+title: Marketo 销售洞察中的交互式网络研讨会
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-source-git-commit: 19ccac27255d4dd9803400894bd025926b4331b2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Marketo Sales Insight中的交互式网络研讨会 {#interactive-webinars-in-marketo-sales-insight}
+# Marketo 销售洞察中的交互式网络研讨会 {#interactive-webinars-in-marketo-sales-insight}
 
-Marketo Sales Insight中的交互式网络研讨会让您在Salesforce的Marketo Sales Insight (MSI)插件中可以使用网络研讨会的活动。
+Marketo销售部Insight中的交互式网络研讨会让您的网络研讨会活动可在Salesforce的Marketo销售部Insight (MSI)插件中找到。
 
 >[!PREREQUISITES]
 >

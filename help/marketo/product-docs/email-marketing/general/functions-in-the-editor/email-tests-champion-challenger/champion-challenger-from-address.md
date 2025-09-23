@@ -4,16 +4,16 @@ description: 冠军/挑战者 — 发件人地址 — Marketo文档 — 产品�
 title: 冠军/挑战者 — 发件人地址
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 冠军/挑战者：发自地址 {#champion-challenger-from-address}
+# 挑战者对比：发件人地址 {#champion-challenger-from-address}
 
-希望尝试其他发件人地址而不引起任何骚动？ 具体方法如下。
+希望尝试其他发件人地址而不引起任何骚动？ 操作方法如下：
 
 >[!PREREQUISITES]
 >

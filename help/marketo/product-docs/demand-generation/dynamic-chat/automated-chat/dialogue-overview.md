@@ -1,16 +1,16 @@
 ---
 description: 对话框概述 — Marketo文档 — 产品文档
-title: 对话框概述
+title: 对话概述
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# 对话框概述 {#dialogue-overview}
+# 对话概述 {#dialogue-overview}
 
 对话是单独的聊天对话。 在每个对话框中，您可以决定特定聊天对话的显示位置、显示对象以及对话的内容。 每个对话框都有自己的报告页面，您可以在其中监控有效性。
 

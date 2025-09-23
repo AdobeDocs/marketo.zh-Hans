@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360032
 description: 更改报告电子邮件中URL的过期时间 — Marketo文档 — 产品文档
-title: 更改报告电子邮件中URL的过期时间
+title: 更改报告电子邮件中 URL 的过期时间
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 1%
+ht-degree: 19%
 
 ---
 
-# 更改报告电子邮件中URL的过期时间 {#change-the-expiration-time-for-urls-in-report-emails}
+# 更改报告电子邮件中 URL 的过期时间 {#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >

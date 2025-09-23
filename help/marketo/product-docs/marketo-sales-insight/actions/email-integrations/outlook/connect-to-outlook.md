@@ -1,15 +1,15 @@
 ---
 description: 连接到Outlook - Marketo文档 — 产品文档
-title: 连接到Outlook
+title: 连接到 Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 连接到Outlook {#connect-to-outlook}
+# 连接到 Outlook {#connect-to-outlook}
 
 了解如何将Sales Insight Actions帐户与Outlook连接。
 

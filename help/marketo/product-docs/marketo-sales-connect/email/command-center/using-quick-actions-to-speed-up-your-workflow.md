@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357306
 description: 使用快速操作加快您的工作流 — Marketo文档 — 产品文档
-title: 使用快速操作加快工作流
+title: 使用快速操作加快工作流程
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '315'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# 使用快速操作加快工作流 {#using-quick-actions-to-speed-up-your-workflow}
+# 使用快速操作加快工作流程 {#using-quick-actions-to-speed-up-your-workflow}
 
 电子邮件网格中存在两种类型的快速操作列。 “电子邮件操作”允许您对电子邮件执行操作，“跟进操作”允许您通过快速单击执行参与操作。
 

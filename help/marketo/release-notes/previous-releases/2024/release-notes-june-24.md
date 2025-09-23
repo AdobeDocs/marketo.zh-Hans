@@ -3,26 +3,26 @@ description: 发行说明 — 2024年6月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 6 月
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 3%
+ht-degree: 27%
 
 ---
 
-# 发行说明： 2024年6月 {#release-notes-june-24}
+# 发行说明：2024 年 6 月 {#release-notes-june-24}
 
-在下方，您会找到2024年6月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
+在下方，您会找到2024年6月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
-可以在此处[找到特定于Adobe Dynamic Chat ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}的发行说明。
+Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 >[!AVAILABILITY]
 >
->以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
 
-## 标准发行周期功能 {#standard-release-cycle-features}
+## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发布周期，将于&#x200B;**2024年6月7日**&#x200B;开始发布，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
+以下功能属于标准发布周期，将于&#x200B;**2024年6月7日**&#x200B;开始发布，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ ht-degree: 3%
   </tr>
      <tr>
    <td><strong>交互式网络研讨会模板</strong>：营销人员现在可以在交互式网络研讨会中创建房间布局的自定义模板。</td>
-   <td>已发货</td>
+   <td>已发布</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">模板</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ ht-degree: 3%
   </tr>
      <tr>
    <td><strong>Forms中的推断字段</strong>：在通过表单填写创建人员（之前没有Web活动）时，用于填充推断字段的数据源已更新，以使用与其他人员收集方法相同的数据源。 推断的字段数据现在在所有收集点上是一致的。</td>
-   <td>已发货</td>
+   <td>已发布</td>
    <td>不适用</td>
   </tr>
  </tbody>

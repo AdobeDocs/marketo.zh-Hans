@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359987
 description: 订阅基本报表 — Marketo文档 — 产品文档
-title: 订阅基本报表
+title: 订阅基础报告
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# 订阅基本报表 {#subscribe-to-a-basic-report}
+# 订阅基础报告 {#subscribe-to-a-basic-report}
 
 要接收或共享基本报表的自动更新，您可以订阅现有报表的任意电子邮件地址。
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >有关收入周期资源管理器报表订阅，请参阅[订阅收入资源管理器报表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 

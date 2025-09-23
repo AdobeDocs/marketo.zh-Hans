@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10092922
 description: 模板20E - Marketo文档 — 产品文档
-title: 模板20E
+title: 模板 20E
 exl-id: 37da2ba9-446b-4dee-8b15-a55b2636dd63
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 模板20E {#template-20e}
+# 模板 20E {#template-20e}
 
-右键单击以[下载模板20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html?lang=zh-Hans)
+右键单击以[下载模板20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
 
 ![](assets/template-20e.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **右键单击以下内容以下载此模板：**
 
-[模板20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html?lang=zh-Hans)
+[模板20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)

@@ -4,14 +4,14 @@ description: 冠军/挑战者 — 宣布冠军 — Marketo文档 — 产品文�
 title: 冠军/挑战者 — 宣布冠军
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 冠军/挑战者：宣布冠军 {#champion-challenger-declare-a-champion}
+# 挑战者对比：宣布优胜者 {#champion-challenger-declare-a-champion}
 
 准备就绪后，您可以宣布电子邮件测试的支持者。
 

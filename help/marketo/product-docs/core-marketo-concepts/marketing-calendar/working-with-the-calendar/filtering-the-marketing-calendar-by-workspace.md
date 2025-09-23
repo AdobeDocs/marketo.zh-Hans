@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147306
 description: 按Workspace筛选营销日历 — Marketo文档 — 产品文档
-title: 按Workspace过滤营销日历
+title: 按工作区筛选营销日程表
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '67'
+ht-degree: 17%
 
 ---
 
-# 按Workspace过滤营销日历 {#filtering-the-marketing-calendar-by-workspace}
+# 按工作区筛选营销日程表 {#filtering-the-marketing-calendar-by-workspace}
 
 营销日历可以按特定工作区中的对象进行过滤。
 
-1. 单击&#x200B;**[!UICONTROL 日历]**&#x200B;拼贴。
+1. 单击&#x200B;**[!UICONTROL Calendar]**&#x200B;磁贴。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 

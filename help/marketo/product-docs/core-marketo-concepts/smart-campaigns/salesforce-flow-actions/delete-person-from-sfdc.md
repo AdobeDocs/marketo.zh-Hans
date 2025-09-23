@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147031
 description: 从SFDC中删除人员 — Marketo文档 — 产品文档
-title: 从SFDC删除人员
+title: 从 SFDC 中删除人员
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 从SFDC删除人员 {#delete-person-from-sfdc}
+# 从 SFDC 中删除人员 {#delete-person-from-sfdc}
 
 如果您需要从Salesforce中删除一组特定的潜在客户，但将这些潜在客户保留为Marketo Engage中的人员，则可以使用“从SFDC中删除人员”流程操作。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147124
 description: 使用“Assets”选项卡 — Marketo文档 — 产品文档
-title: 使用“Assets”选项卡
+title: 使用资产选项卡
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '136'
+ht-degree: 8%
 
 ---
 
-# 使用“Assets”选项卡 {#using-the-assets-tab}
+# 使用资产选项卡 {#using-the-assets-tab}
 
 资产画布是默认或事件程序的可视表示形式。 您可以使用该功能添加本地资源以及与现有资源交互。
 
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 当项目中有资源时，您会在此处看到这些资源。
 
-| 橙色 | 触发营销活动 |
+| 橙色 | 触发式活动 |
 |---|---|
-| 绿色 | 批量营销活动 |
+| 绿色 | 批处理营销活动 |
 
 如果要与资源交互，可以右键单击标题。
 

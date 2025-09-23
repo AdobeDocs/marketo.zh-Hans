@@ -4,10 +4,10 @@ description: 隐藏和取消隐藏字段 — Marketo文档 — 产品文档
 title: 隐藏和取消隐藏字段
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 2%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 2%
 
 ## 取消隐藏字段 {#unhide-a-field}
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/hide-and-unhide-a-field-6.png)
 

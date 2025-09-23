@@ -4,7 +4,7 @@ description: 电子邮件模板语法 — Marketo文档 — 产品文档
 title: 电子邮件模板语法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 2%
@@ -31,7 +31,7 @@ Marketo电子邮件语法仅适用于模板和单个电子邮件；如果嵌入�
 
 * 富文本
 * 图像
-* 片段
+* 代码段
 * 视频
 
 ## 富文本 {#rich-text}
@@ -126,7 +126,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的内容将用�
 示例：
 `<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
-## 片段 {#snippets}
+## 代码段 {#snippets}
 
 如果您将区域定义为代码片段，最终用户将能够选择要插入此区域的已批准[代码片段](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 尽管富文本元素可以在电子邮件编辑器中转换为代码片段，但如果您将某个区域专门定义为代码片段，则无法将该区域转换为富文本。 您可以使用带有class=&quot;mktoSnippet&quot;的`<div>`指定代码片段区域
 

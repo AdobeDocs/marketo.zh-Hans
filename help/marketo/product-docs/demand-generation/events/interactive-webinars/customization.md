@@ -3,7 +3,7 @@ description: 交互式网络研讨会自定义 — Marketo文档 — 产品文�
 title: 交互式网络研讨会自定义
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '715'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 在您组织中的任何用户能够自定义交互式网络研讨会之前，Marketo Engage管理员必须先添加对所需角色的访问权限。
 
-1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL Admin]**。
+1. 在 Marketo Engage 中，单击 **[!UICONTROL Admin]**。
 
    ![](assets/interactive-webinars-customization-1.png)
 

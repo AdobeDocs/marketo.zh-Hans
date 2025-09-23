@@ -3,14 +3,14 @@ unique-page-id: 12255606
 description: 发行说明 — 2017年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2017年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2017年冬季 {#release-notes-winter}
+# 发行说明：2017 年冬季 {#release-notes-winter}
 
 ’17年冬季版本包括以下功能。 检查您的Marketo版本以了解功能可用性。
 
@@ -60,13 +60,13 @@ Web Personalization、[!UICONTROL Predictive Content]和电子邮件分析应用
 
 **[按[!UICONTROL Enabled Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**&#x200B;筛选
 
-筛选为[!UICONTROL Email]、[!UICONTROL Rich Media]或[!UICONTROL Recommendation Bar]启用的[!UICONTROL Predictive Content]部分。
+筛选为[!UICONTROL Predictive Content]、[!UICONTROL Email]或[!UICONTROL Rich Media]启用的[!UICONTROL Recommendation Bar]部分。
 
 ![](assets/predictive-content-enabled-source.png)
 
 **[筛选器[!UICONTROL Analytics by Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-为特定源（[!UICONTROL Email]、[!UICONTROL Rich Media]或[!UICONTROL Recommendation Bar]）筛选[!UICONTROL Predictive Content]分析。
+为特定源（[!UICONTROL Predictive Content]、[!UICONTROL Email]或[!UICONTROL Rich Media]）筛选[!UICONTROL Recommendation Bar]分析。
 
 ![](assets/predictive-content-analytics-by-source.png)
 

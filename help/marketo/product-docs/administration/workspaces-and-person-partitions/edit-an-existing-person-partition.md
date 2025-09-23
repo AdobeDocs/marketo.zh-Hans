@@ -4,10 +4,10 @@ description: 编辑现有人员分区 — Marketo文档 — 产品文档
 title: 编辑现有人员分区
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 1%
+ht-degree: 16%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 >
 >[创建人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/edit-an-existing-person-partition-1.png)
 

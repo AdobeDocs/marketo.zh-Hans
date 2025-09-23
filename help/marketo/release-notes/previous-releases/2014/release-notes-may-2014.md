@@ -4,14 +4,14 @@ description: 发行说明 — 2014年5月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年5月
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2014年5月 {#release-notes-may}
+# 发行说明：2014 年 5 月 {#release-notes-may}
 
 2014年5月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细知识库文章的链接！
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 ## 计划会员资格分析中的计划状态和成功时间范围 {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-查看每个计划状态[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)中有多少成员，以及他们更改为每个状态的时间，包括他们获得计划成功的日期。
+查看每个计划状态[中有多少](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)成员，以及他们更改为每个状态的时间，包括他们获得计划成功的日期。
 
 ## [!UICONTROL Email Analysis]中的A/B测试电子邮件 {#a-b-test-emails-in-email-analysis}
 
-在[!UICONTROL Email Analysis]中报告每个[A/B测试电子邮件变体](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。
+在[中报告每个](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)A/B测试电子邮件变体[!UICONTROL Email Analysis]。
 
 ## Analytics打包更改 {#analytics-packaging-changes}
 

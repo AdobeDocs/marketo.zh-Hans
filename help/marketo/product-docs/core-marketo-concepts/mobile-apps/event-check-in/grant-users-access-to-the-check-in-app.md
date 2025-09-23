@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516639
 description: 授予用户对登记应用程序的访问权限 — Marketo文档 — 产品文档
-title: 授予用户对签入应用程序的访问权限
+title: 授予用户访问签到应用程序的权限
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# 授予用户对签入应用程序的访问权限 {#grant-users-access-to-the-check-in-app}
+# 授予用户访问签到应用程序的权限 {#grant-users-access-to-the-check-in-app}
 
 Marketo Engage具有事件签入应用程序的特殊用户角色。 下面是如何创建具有应用程序使用权限的新角色。
 

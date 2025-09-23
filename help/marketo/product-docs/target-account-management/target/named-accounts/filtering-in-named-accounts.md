@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615804
 description: 在指定帐户中筛选 — Marketo文档 — 产品文档
-title: 在指定帐户中筛选
+title: 在命名帐户中进行筛选
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >有多种搜索参数组合。 在此示例中，我们找到：_[!UICONTROL Industry]=银行业务，[!UICONTROL Country] =美国，最大[!UICONTROL Employees] = 10000_。
 
-1. 单击&#x200B;**[!UICONTROL Industry]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Banking]**。
+1. 点击 **[!UICONTROL Industry]** 下拉菜单，并选择 **[!UICONTROL Banking]**。
 
    ![](assets/filter-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Country]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL United States]**。
+1. 点击 **[!UICONTROL Country]** 下拉菜单，并选择 **[!UICONTROL United States]**。
 
    ![](assets/filter-3.png)
 

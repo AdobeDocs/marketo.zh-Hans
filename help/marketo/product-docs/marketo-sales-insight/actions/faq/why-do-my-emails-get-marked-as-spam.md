@@ -1,11 +1,11 @@
 ---
-description: 为什么我的电子邮件会被标记为垃圾邮件？ - Marketo文档 — 产品文档
+description: 为什么我的电子邮件会被标记为垃圾邮件？ - Marketo 文档 - 产品文档
 title: 为什么我的电子邮件会被标记为垃圾邮件？
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

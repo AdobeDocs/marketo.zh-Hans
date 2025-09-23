@@ -4,14 +4,14 @@ description: 发行说明 — 2012年1月/2月 — Marketo文档 — 产品文�
 title: 发行说明 — 2012年1月/2月
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 发行说明： 2012年1月/2月 {#release-notes-jan-feb}
+# 发行说明：2012 年 1 月/2 月 {#release-notes-jan-feb}
 
 1月/2月版本中包含以下功能。 检查您的Marketo版本以了解功能可用性。 请在发布后返回以获取指向详细功能文档的链接。
 
@@ -23,7 +23,7 @@ _适用于Pro和Enterprise版本_
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## 区段  {#segmentation}
+## 分段  {#segmentation}
 
 _适用于Pro和Enterprise版本_
 
@@ -31,7 +31,7 @@ _适用于Pro和Enterprise版本_
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## 片段 {#snippets}
+## 代码段 {#snippets}
 
 _适用于Pro和Enterprise版本_
 

@@ -3,10 +3,10 @@ description: 导出所有对象元数据 — Marketo文档 — 产品文档
 title: 导出所有对象元数据
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 2%
+source-wordcount: '69'
+ht-degree: 28%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 2%
 ## 对象 {#objects}
 
 * 潜在客户字段（人员/公司）
-* Marketo自定义对象
+* Marketo 自定义对象
 * 标准活动
 * 自定义活动
 * 渠道
@@ -29,15 +29,15 @@ ht-degree: 2%
 
 ## 导出对象元数据 {#export-object-metadata}
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 导出所有对象]**。
+1. 单击 **[!UICONTROL Export All Objects]**。
 
    ![](assets/export-all-object-metadata-3.png)
 

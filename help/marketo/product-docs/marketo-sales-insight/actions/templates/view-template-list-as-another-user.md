@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
@@ -34,4 +34,4 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您还可以使用筛选器或搜索功能以及&#x200B;_[!UICONTROL View As]_&#x200B;查看与您最相关的内容。
+   >您还可以使用筛选器或搜索功能以及&#x200B;_[!UICONTROL View As]_查看与您最相关的内容。

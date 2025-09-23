@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1900575
 description: 向您的电子邮件添加电子邮件脚本令牌 — Marketo文档 — 产品文档
-title: 向电子邮件添加电子邮件脚本令牌
+title: 向电子邮件添加脚本令牌
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# 向电子邮件添加电子邮件脚本令牌 {#add-an-email-script-token-to-your-email}
+# 向电子邮件添加脚本令牌 {#add-an-email-script-token-to-your-email}
 
-在您[创建您的电子邮件脚本](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)后，您需要将其添加到电子邮件中以查看其运行情况。 具体方法如下。
+在您[创建您的电子邮件脚本](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)后，您需要将其添加到电子邮件中以查看其运行情况。 操作方法如下：
 
 >[!NOTE]
 >
 >插入到单个电子邮件中的所有脚本令牌的总大小不能超过100KB。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
+1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
    ![](assets/one-2.png)
 

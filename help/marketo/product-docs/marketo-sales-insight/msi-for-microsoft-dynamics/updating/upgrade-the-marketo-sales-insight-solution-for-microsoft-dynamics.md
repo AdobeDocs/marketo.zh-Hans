@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849099
 description: 升级适用于Microsoft Dynamics的Marketo销售Insight解决方案 — Marketo文档 — 产品文档
-title: 升级适用于Microsoft Dynamics的Marketo Sales Insight解决方案
+title: 升级适用于 Microsoft Dynamics 的 Marketo Sales Insight 解决方案
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 

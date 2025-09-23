@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10912237
 description: 电子邮件模板选取器概述 — Marketo文档 — 产品文档
-title: 电子邮件模板选取器概述
+title: 电子邮件模板选择器概述
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 电子邮件模板选取器概述 {#email-template-picker-overview}
+# 电子邮件模板选择器概述 {#email-template-picker-overview}
 
 当您[创建电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)时，您有多个可供选择的免费模板。 您还可以创建自己的模板并将其保存以供将来使用。
 

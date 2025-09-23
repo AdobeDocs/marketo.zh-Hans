@@ -4,10 +4,10 @@ description: 了解电子邮件测试选项 — Marketo文档 — 产品文档
 title: 了解电子邮件测试选项
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 测试您的电子邮件以提高其参与度分数。 Marketo中有两种电子邮件测试。
 
-## A/B测试 {#a-b-testing}
+## A/B 测试 {#a-b-testing}
 
 这适用于使用电子邮件程序的一次性电子邮件。 添加[A/B测试](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)，一小部分人将获得该测试，其余人将获得入选者。
 

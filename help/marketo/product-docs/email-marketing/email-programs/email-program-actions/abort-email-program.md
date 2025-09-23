@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504840
 description: 中止电子邮件程序 — Marketo文档 — 产品文档
-title: 中止电子邮件程序
+title: 中止电子邮件项目
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 中止电子邮件程序 {#abort-email-program}
+# 中止电子邮件项目 {#abort-email-program}
 
 糟糕！ 踩刹车！ 此电子邮件程序不应退出。
 

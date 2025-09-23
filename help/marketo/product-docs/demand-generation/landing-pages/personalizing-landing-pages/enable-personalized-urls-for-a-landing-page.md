@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359803
 description: 为登陆页面启用个性化URL - Marketo文档 — 产品文档
-title: 为登陆页面启用个性化URL
+title: 为登录页面启用个性化 URL
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# 为登陆页面启用个性化URL {#enable-personalized-urls-for-a-landing-page}
+# 为登录页面启用个性化 URL {#enable-personalized-urls-for-a-landing-page}
 
 个性化URL非常适合打印邮件营销活动。
 

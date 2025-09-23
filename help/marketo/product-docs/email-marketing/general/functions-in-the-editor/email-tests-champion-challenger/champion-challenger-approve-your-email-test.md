@@ -4,16 +4,16 @@ description: 冠军/挑战者 — 批准您的电子邮件测试 — Marketo文�
 title: 冠军/挑战者 — 批准您的电子邮件测试
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 冠军/挑战者：批准您的电子邮件测试 {#champion-challenger-approve-your-email-test}
+# 挑战者对比：批准您的电子邮件测试 {#champion-challenger-approve-your-email-test}
 
-设置电子邮件测试以批准它的最后一步。 具体方法如下。
+设置电子邮件测试以批准它的最后一步。 操作方法如下：
 
 >[!PREREQUISITES]
 >

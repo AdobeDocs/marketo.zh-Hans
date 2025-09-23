@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45416564
 description: 启用呼叫记录 — Marketo文档 — 产品文档
-title: 启用通话录制
+title: 启用通话录音
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 启用通话录制 {#enable-call-recording}
+# 启用通话录音 {#enable-call-recording}
 
 作为管理员，您可以为[!DNL Sales Connect]呼叫启用呼叫录制。 记录团队的呼叫可能是指导销售代表了解最佳呼叫实践的好方法。
 

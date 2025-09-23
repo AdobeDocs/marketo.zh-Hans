@@ -4,16 +4,16 @@ description: 更改表单字体大小 — Marketo文档 — 产品文档
 title: 更改表单字体大小
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
 # 更改表单字体大小 {#change-the-form-font-size}
 
-通过Marketo，您可以轻松自定义表单的外观。 您可能要做的一件事是更改字体大小。 具体方法如下。
+通过Marketo，您可以轻松自定义表单的外观。 您可能要做的一件事是更改字体大小。 操作方法如下：
 
 >[!TIP]
 >

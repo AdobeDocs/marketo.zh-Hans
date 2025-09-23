@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359677
 description: 在Lightbox中使用表单 — Marketo文档 — 产品文档
-title: 在Lightbox中使用表单
+title: 在 Lightbox 中使用表单
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 在Lightbox中使用表单 {#use-a-form-in-a-lightbox}
+# 在 Lightbox 中使用表单 {#use-a-form-in-a-lightbox}
 
-Lightbox是一种技术，可在您想要显示内容时在其前面打开表单。 具体方法如下。
+Lightbox是一种技术，可在您想要显示内容时在其前面打开表单。 操作方法如下：
 
 1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
 

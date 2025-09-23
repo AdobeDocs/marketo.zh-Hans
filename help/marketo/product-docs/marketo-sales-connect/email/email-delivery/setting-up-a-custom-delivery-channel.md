@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746470
 description: 设置自定义投放渠道 — Marketo文档 — 产品文档
-title: 设置自定义投放渠道
+title: 设置自定义发送渠道
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '353'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 设置自定义投放渠道 {#setting-up-a-custom-delivery-channel}
+# 设置自定义发送渠道 {#setting-up-a-custom-delivery-channel}
 
 [!DNL Marketo Sales Connect]允许您与自定义SMTP服务器集成，以传递电子邮件。 对于不希望从Gmail或[!DNL Exchange]投放渠道发送批量电子邮件的用户，这是一个很好的选项。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147304
 description: 在营销日历中共享过滤器定义 — Marketo文档 — 产品文档
-title: 在营销日历中共享过滤器定义
+title: 在营销日程表中共享过滤器定义
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 在营销日历中共享过滤器定义 {#sharing-a-filter-definition-in-the-marketing-calendar}
+# 在营销日程表中共享过滤器定义 {#sharing-a-filter-definition-in-the-marketing-calendar}
 
 过滤器可以在不同用户之间共享。
 

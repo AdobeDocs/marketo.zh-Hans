@@ -4,10 +4,10 @@ description: 系统令牌术语表 — Marketo文档 — 产品文档
 title: 系统令牌术语表
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 

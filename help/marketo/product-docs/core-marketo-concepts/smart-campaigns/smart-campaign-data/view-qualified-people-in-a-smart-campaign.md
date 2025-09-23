@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146966
 description: 在Smart Campaign中查看符合条件的人员 — Marketo文档 — 产品文档
-title: 在Smart Campaign中查看符合条件的用户
+title: 查看智能营销活动中的符合条件人员
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 8%
 
 ---
 
-# 在Smart Campaign中查看符合条件的用户 {#view-qualified-people-in-a-smart-campaign}
+# 查看智能营销活动中的符合条件人员 {#view-qualified-people-in-a-smart-campaign}
 
 在运行Smart Campaign时，查看有资格通过流的人员。
 
-1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL 计划]**&#x200B;选项卡。 在智能列表状态中，单击第一个链接。
+1. 在Smart Campaign中，单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡。 在智能列表状态中，单击第一个链接。
 
 ![](assets/view-qualified-people-in-a-smart-campaign-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >触发营销活动不显示符合条件的人员，因为它们基于实时活动运行。
 
-1. **[!UICONTROL 合格人员]**&#x200B;选项卡列出了在营销活动运行时有资格通过流程的人员。
+1. **[!UICONTROL Qualified People]**&#x200B;选项卡列出了营销活动运行时有资格通过流程的人员。
 
    ![](assets/view-qualified-people-in-a-smart-campaign-2.png)
 
