@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 72%
+ht-degree: 86%
 
 ---
 
@@ -42,7 +42,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>向Designer发送电子邮件 — Content Collaboration工作流程</strong>：您现在可以在电子邮件资源中评论并与Marketo同事协作。 标记团队成员(具有相应资源权限的Marketo用户)，他们将会收到电子邮件或脉冲通知。</td>
+   <td><strong>向Designer发送电子邮件 — Content Collaboration工作流程</strong>：您现在可以在电子邮件资源中评论并与Marketo同事协作。 标记团队成员（具有相应资产权限的 Marketo 用户），他们就会收到电子邮件或推送通知。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -52,7 +52,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer - AI助手权限</strong>： Marketo管理员可以为特定用户提供对GenAI功能的访问权限。</td>
+   <td><strong>电子邮件设计器 - AI 助手权限</strong>：Marketo 管理员可以为特定用户提供生成式 AI 功能的访问权限。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -72,7 +72,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer — 重定向修复</strong>：某些用户在使用新Designer创建的电子邮件的URL时遇到重定向问题（例如，直接粘贴URL或为电子邮件资源添加书签并不总是有效）。 此问题已得到解决。 此外，从<b>电子邮件模板</b> &gt; <b>详细信息</b> &gt; <b>用于</b>的电子邮件资源链接将重定向到相应的电子邮件资源。</td>
+   <td><strong>电子邮件设计器 - 重定向问题修复</strong>：某些用户在使用新设计器创建的电子邮件的 URL 时遇到重定向问题（例如，直接粘贴 URL 或者将电子邮件资产设为书签有时候不起作用）。 已解决此问题。此外，来自<b>电子邮件模板</b> &gt; <b>详细信息</b> &gt; <b>使用者</b>的电子邮件资产的链接会重定向到相应的电子邮件资产。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
