@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 86%
+ht-degree: 99%
 
 ---
 
@@ -42,7 +42,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>向Designer发送电子邮件 — Content Collaboration工作流程</strong>：您现在可以在电子邮件资源中评论并与Marketo同事协作。 标记团队成员（具有相应资产权限的 Marketo 用户），他们就会收到电子邮件或推送通知。</td>
+   <td><strong>电子邮件设计器 - 内容协作工作流</strong>：您现在可以在一个电子邮件资产中与 Marketo 同事用户协作并对其做出评论。标记团队成员（具有相应资产权限的 Marketo 用户），他们就会收到电子邮件或推送通知。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -53,8 +53,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>电子邮件设计器 - AI 助手权限</strong>：Marketo 管理员可以为特定用户提供生成式 AI 功能的访问权限。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td><a href="/help\marketo\product-docs\email-marketing\email-designer\ai-assistant.md#set-up-permissions">设置权限</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -62,7 +62,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer — 深色模式</strong>：您现在可以使用深色模式，该模式允许支持电子邮件客户端和应用程序显示具有更暗背景和更浅颜色的电子邮件，以用于文本、按钮和其他UI元素。</td>
+   <td><strong>电子邮件设计器 - 深色模式</strong>：您现在可以使用深色模式，该模式允许支持电子邮件客户端和应用程序显示带深色背景和浅色字体的文本、按钮和其他 UI 元素的电子邮件。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -92,6 +92,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **弃用&#x200B;_转发给好友_功能**：自 2025 年 9 月 29 日起，Marketo Engage 2.0 电子邮件（旧版电子邮件编辑器）中的&#x200B;_转发给好友_&#x200B;功能将在所有订阅中完全弃用。这会影响已经或将要使用相应令牌发送的电子邮件中的“转发给好友”令牌和“转发给好友”链接。[了解详情](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年1月31日之后不可用。 所有新建及现有集成都应使用 &#39;Authorization&#39; 标头验证 REST API 调用，[详细说明请参阅此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **弃用 Rest API ‘access_token’ 参数**：用于 Marketo REST API 调用的身份验证的 `access_token` 查询参数将被弃用，在 2026 年 1 月 31 日之后不可用。所有新集成和现有集成都应使用 &#39;Authorization&#39; 头部进行 REST API 调用的身份验证，详细说明[请参阅此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API弃用**：对Marketo SOAP API的支持将于2026年1月31日终止。 使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **弃用 SOAP API**：对 Marketo SOAP API 的支持将于 2026 年 1 月 31 日结束。使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
