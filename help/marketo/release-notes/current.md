@@ -3,7 +3,7 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
+source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 99%
@@ -54,7 +54,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>电子邮件设计器 - AI 助手权限</strong>：Marketo 管理员可以为特定用户提供生成式 AI 功能的访问权限。</td>
    <td>已发布</td>
-   <td><a href="/help\marketo\product-docs\email-marketing\email-designer\ai-assistant.md#set-up-permissions">设置权限</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">设置权限</a></td>
   </tr>
   <tr>
    <td> </td>
