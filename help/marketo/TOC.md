@@ -1041,7 +1041,7 @@ ht-degree: 99%
          + [可自定义的片段](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [GenStudio 与 Marketo Engage 的集成](product-docs/email-marketing/email-designer/genstudio.md)
          + [内容锁定](product-docs/email-marketing/email-designer/content-locking.md)
-         + [向Collaboration发送电子邮件](product-docs/email-marketing/email-designer/email-collaboration.md)
+         + [电子邮件协作](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [AI 助手](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [使用 SpamAssassin 生成电子邮件垃圾报告](product-docs/email-marketing/email-designer/spam-report.md)
       + 电子邮件项目 {#email-programs}
@@ -1671,7 +1671,7 @@ ht-degree: 99%
    + 预测性内容 {#predictive-content}
       + [预测性内容摘要](product-docs/predictive-content/the-predictive-content-summary.md)
       + [为预测性内容活动定义智能列表](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
-      + [预测性内容分析概述](product-docs/predictive-content/predictive-content-analytics-overview.md)
+      + [预测性 Content Analytics 概述](product-docs/predictive-content/predictive-content-analytics-overview.md)
       + 快速入门 {#getting-started}
          + [算法目标设置](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [创建内容模式](product-docs/predictive-content/getting-started/create-content-patterns.md)
@@ -1917,7 +1917,7 @@ ht-degree: 99%
             + [将 RTP 与 Google Universal Analytics 集成](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [与 Adobe Analytics 集成](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + 了解 Web 个性化 {#understanding-web-personalization}
-         + [了解内容分析](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
+         + [了解 Content Analytics](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Web 个性化术语表](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [Web 个性化概述](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + 使用模板 {#using-templates}

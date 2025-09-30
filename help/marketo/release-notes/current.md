@@ -42,7 +42,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件设计器 - 内容协作工作流</strong>：您现在可以在一个电子邮件资产中与 Marketo 同事用户协作并对其做出评论。标记团队成员（具有相应资产权限的 Marketo 用户），他们就会收到电子邮件或推送通知。</td>
+   <td><strong>电子邮件设计器 - 内容协作工作流</strong>：您现在可以在电子邮件资产中做出评论并与 Marketo 用户协作。 标记团队成员（具有相应资产权限的 Marketo 用户），他们就会收到电子邮件或推送通知。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
