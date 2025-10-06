@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cc6c04ca8a72f6efb0bec93cba084fe2993f53f0
 workflow-type: tm+mt
-source-wordcount: '622'
-ht-degree: 0%
+source-wordcount: '409'
+ht-degree: 1%
 
 ---
 
@@ -51,29 +51,29 @@ ht-degree: 0%
 1. 完成时保存更改。
 
 将片段添加到电子邮件后，用户将能够自定义片段中配置的所有可编辑字段。
+<!--
+## Add editable fields in HTML components and expression fragments {#expression}
 
-## 在HTML组件和表达式片段中添加可编辑字段 {#expression}
+To make portions of an HTML component or an expression fragment editable, you must use a specific syntax in the expression editor. This involves declaring a _variable_ with a default value that users can override after adding the fragment to their content.
 
-要使HTML组件或表达式片段的某些部分可编辑，必须在表达式编辑器中使用特定语法。 这涉及声明一个具有默认值的&#x200B;_变量_，用户在将片段添加到其内容后可以覆盖该变量。
+For example, suppose you want to create a fragment to add to your emails, and allow users to customize a specific color used in different locations, such as frames or buttons' background colors. When creating your fragment, you need to declare a variable with a _unique ID_ (e.g., "color"), and call it at the desired locations in the fragment content where you want to apply this color. When adding the fragment to their content, users will be able to customize the color used wherever the variable is referenced.
 
-例如，假设您要创建一个片段以添加到您的电子邮件中，并允许用户自定义在不同位置使用的特定颜色，如框架或按钮的背景颜色。 创建片段时，您需要使用&#x200B;_唯一ID_（例如，“color”）声明变量，并在片段内容中要应用此颜色的所需位置调用它。 将片段添加到其内容时，用户将能够自定义在任何引用变量的位置使用的颜色。
+For HTML components, only specific elements can become editable fields. Expand the section below for more information.
 
-对于HTML组件，只有特定元素才能变为可编辑字段。 展开以下部分以获取更多信息。
++++Editable elements in HTML components:
 
-+++HTML组件中的可编辑元素：
+The elements below can become editable fields in an HTML component:
 
-以下元素可以成为HTML组件中的可编辑字段：
+* A portion of text
+* A full URL for link or image (doesn't work with portion of a URL)
+* Entire CSS property (doesn't work with partial property)
 
-* 文本的一部分
-* 链接或图像的完整URL（不适用于URL的一部分）
-* 整个CSS属性（不适用于部分属性）
-
-例如，在下面的代码中，每个以红色高亮显示的元素都可以成为属性：
+For example, in the code below, each element highlighted in red can become a property:
 
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
-
+-->
 >[!MORELIKETHIS]
 >
 >[片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
