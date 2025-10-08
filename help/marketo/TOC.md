@@ -1026,7 +1026,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [设计无障碍内容](product-docs/email-marketing/email-designer/accessible-content.md)
