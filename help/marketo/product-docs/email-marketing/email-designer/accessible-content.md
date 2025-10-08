@@ -1,13 +1,13 @@
 ---
 title: 设计可访问的内容
-description: 了解如何在Marketo Engage中为您的电子邮件设计无障碍内容。
+description: 了解如何在Adobe Marketo Engage中为您的电子邮件设计无障碍内容。
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: 电子邮件、设计、辅助功能
-source-git-commit: 753455b40ead039a56c595fa61ab9a95b7936382
+source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1359'
 ht-degree: 0%
 
 ---
