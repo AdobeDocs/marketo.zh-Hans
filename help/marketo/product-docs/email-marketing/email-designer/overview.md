@@ -5,9 +5,9 @@ description: 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 title: 概述
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 6389e9549ec8caf9d96e6524e46b61e801fc7806
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '871'
 ht-degree: 1%
 
 ---
@@ -72,7 +72,7 @@ Email Designer是Marketo Engage中的一项最新创新，旨在提供经过改�
 
 **旧电子邮件编辑器是否会继续工作？ 如果是，持续多长时间？**
 
-是，旧（经典）电子邮件编辑器将与新电子邮件Designer共存。 在经典编辑器中创建的电子邮件将保留。 目前暂无传统编辑器何时被弃用的日期，但其在整个2025年将继续运行。
+是，旧（经典）电子邮件编辑器将与新电子邮件Designer共存。 在经典编辑器中创建的电子邮件将保留。 虽然目前还不知道经典编辑器何时被弃用，但直到2026年它才会继续正常运行。 我们会在弃用旧编辑之前提前几个月通知。
 
 **我可以在哪些程序中使用新的电子邮件Designer电子邮件？**
 
