@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[!UICONTROL Target Account Management]Web Personalization[中构建智能列表和Web营销活动时，在Marketo ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中创建的帐户列表会自动可用。
+>在[!UICONTROL Target Account Management]Web Personalization[中构建智能列表和Web营销活动时，在Marketo &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中创建的帐户列表会自动可用。
 
 ## 创建新的帐户列表 {#create-a-new-account-list}
 

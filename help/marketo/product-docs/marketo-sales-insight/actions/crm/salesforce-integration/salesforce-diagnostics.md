@@ -66,7 +66,7 @@ ht-degree: 0%
 **错误：** EXPIRED_ACCESS
 **类别：**&#x200B;身份验证
 **消息：** invalid_grant：访问/刷新令牌已过期
-**发生的情况：**&#x200B;访问或刷新令牌已过期。 令牌将根据[ [!DNL Salesforce]中的](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)会话设置过期。
+**发生的情况：**&#x200B;访问或刷新令牌已过期。 令牌将根据[&#x200B; [!DNL Salesforce]中的](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)会话设置过期。
 **疑难解答步骤：**&#x200B;您需要重新进行身份验证。 断开[!DNL Salesforce]连接并重新连接。
 
 **错误：** FAILED_WRITE

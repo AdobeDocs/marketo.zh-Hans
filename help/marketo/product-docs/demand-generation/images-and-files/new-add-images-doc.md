@@ -46,7 +46,7 @@ ht-degree: 13%
 
 文本
 
-1. 按照以上[中的步骤1和2 ](#upload-image-or-file)操作。
+1. 按照以上[中的步骤1和2 &#x200B;](#upload-image-or-file)操作。
 
 1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 
@@ -68,7 +68,7 @@ PICC
 
 文本
 
-1. 按照以上[中的步骤1和2 ](#upload-image-or-file)操作。
+1. 按照以上[中的步骤1和2 &#x200B;](#upload-image-or-file)操作。
 
 1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 
@@ -98,7 +98,7 @@ PICC
 
 文本
 
-1. 按照以上[中的步骤1和2 ](#upload-image-or-file)操作。
+1. 按照以上[中的步骤1和2 &#x200B;](#upload-image-or-file)操作。
 
 1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 

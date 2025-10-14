@@ -81,7 +81,7 @@ ht-degree: 0%
 
 ## [与Salesforce Encryption兼容的Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-市场[!DNL Sales Insight]现在与[!DNL Salesforce] Shield Encryption兼容。 所有[!DNL Sales Insight]客户都应升级到此最新的托管包（版本1.4359.2），该包在[ [!DNL Appexchange]上有](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)可用。
+市场[!DNL Sales Insight]现在与[!DNL Salesforce] Shield Encryption兼容。 所有[!DNL Sales Insight]客户都应升级到此最新的托管包（版本1.4359.2），该包在[&#x200B; [!DNL Appexchange]上有](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)可用。
 
 ## [命名帐户API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 

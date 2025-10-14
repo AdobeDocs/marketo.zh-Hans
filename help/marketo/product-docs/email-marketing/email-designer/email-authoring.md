@@ -229,7 +229,7 @@ ht-degree: 1%
 
 1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_&#x200B;工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 

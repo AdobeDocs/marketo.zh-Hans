@@ -21,7 +21,7 @@ ht-degree: 1%
 
 您现在可以从登陆页面编辑器中[构建登陆页面的移动视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)。 无论使用什么设备，您都可以有效地传递您的消息，并通过定制内容以方便移动使用，从而增加参与度。 此功能将在版本发布后的一周内逐步推出。
 
-[ — 登陆页面演练视频 — ](https://youtu.be/aPQHlG2X6c0)
+[&#x200B; — 登陆页面演练视频 — &#x200B;](https://youtu.be/aPQHlG2X6c0)
 
 **个新的REST API调用**
 

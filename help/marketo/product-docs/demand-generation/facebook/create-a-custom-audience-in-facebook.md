@@ -20,7 +20,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->详细了解[ [!DNL Facebook]中的](https://www.facebook.com/help/341425252616329){target="_blank"}自定义受众。
+>详细了解[&#x200B; [!DNL Facebook]中的](https://www.facebook.com/help/341425252616329){target="_blank"}自定义受众。
 
 1. 查找并选择智能或静态列表，其中包含要从中创建受众的潜在客户。
 

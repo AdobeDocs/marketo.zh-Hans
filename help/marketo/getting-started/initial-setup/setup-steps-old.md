@@ -271,7 +271,7 @@ ht-degree: 1%
 
 **`[DKIMDomain2]`**：主机记录是 **`[HostRecord2]`**，TXT 值为 **`[TXTValue2]`**。
 
-在遵循此处`[`的说明后&#x200B;**，为已设置的每个** DKIMDomain **复制** HostRecord **和** TXTValue[。 ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)在您的IT员工完成此步骤后，请不要忘记在&#x200B;**管理员>电子邮件> DKIM**&#x200B;中验证每个域。`]`
+在遵循此处`[`的说明后&#x200B;**，为已设置的每个** DKIMDomain **复制** HostRecord **和** TXTValue[。 &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)在您的IT员工完成此步骤后，请不要忘记在&#x200B;**管理员>电子邮件> DKIM**&#x200B;中验证每个域。`]`
 
 `5)`我们需要确保FROM域&#x200B;**[FromDomain1]**、**[FromDomain2]**&#x200B;等存在有效的MX记录。 你能确认一下吗？ 如果不能，请配置以映射到我们的公司域MX记录。 这将确保我们能够处理对Marketo邮件的回复/自动响应者。
 
