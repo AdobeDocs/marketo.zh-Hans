@@ -16,7 +16,7 @@ Marketo销售部Insight中的交互式网络研讨会让您的网络研讨会活
 
 >[!PREREQUISITES]
 >
->仅已购买[Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html)加载项的人员支持此功能。
+>仅已购买[Marketo Sales Insight](https://business.adobe.com/cn/products/marketo/sales-intelligence-engagement.html)加载项的人员支持此功能。
 
 在Marketo Engage中注册活动后(在Adobe Connect中完成网络研讨会后)，通过MSI插件将它们实时同步到Salesforce。
 

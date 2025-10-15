@@ -14,7 +14,7 @@ ht-degree: 11%
 
 这是一个简单的培养计划示例，该计划利用Marketo Engage参与计划，有节奏的内容会随着时间的推移而滴到数据库中，同时利用流根据行为引导记录完成历程。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

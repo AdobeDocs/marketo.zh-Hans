@@ -14,7 +14,7 @@ ht-degree: 8%
 
 这是一个示例计划，非常适合于使用Marketo Engage默认计划的联系人请求、报价请求、演示请求或试用请求表单。 可与Marketo登陆页面一起使用，或作为非Marketo登陆页面上的嵌入式表单。 在提交表单时，会向指定的个人发送警报电子邮件。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

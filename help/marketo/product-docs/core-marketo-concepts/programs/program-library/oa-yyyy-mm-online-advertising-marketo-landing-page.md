@@ -14,7 +14,7 @@ ht-degree: 8%
 
 这是一个在线广告跟踪程序的示例，跟踪程序包括具有注册表单的Marketo登录页面和使用Marketo默认程序。 选件的链接可显示在感谢页面上、以感谢电子邮件发送或同时显示两者。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

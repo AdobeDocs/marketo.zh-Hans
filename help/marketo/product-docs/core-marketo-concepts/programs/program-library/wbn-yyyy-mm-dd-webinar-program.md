@@ -14,7 +14,7 @@ ht-degree: 15%
 
 这是一个网络研讨会计划示例，其中具有注册管理、三封邀请电子邮件、提醒参加以及利用Marketo Engage活动计划的后续电子邮件。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

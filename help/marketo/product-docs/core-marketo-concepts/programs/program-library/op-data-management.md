@@ -14,7 +14,7 @@ ht-degree: 15%
 
 这是一个使用默认程序的简单操作数据管理最佳实践工作流的示例，可帮助您管理Marketo Engage数据库中记录的数据一致性。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

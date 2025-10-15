@@ -14,7 +14,7 @@ ht-degree: 9%
 
 此示例设计为一个内容程序，它利用Marketo Engage登录页面和Marketo Engage表单，以及Marketo Engage默认程序。 表单用于访问内容/选件。 选件的链接可显示在感谢页面上、以感谢电子邮件发送或同时显示两者。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

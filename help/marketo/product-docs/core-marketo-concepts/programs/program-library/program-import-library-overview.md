@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Marketo Engage参考库包括多个入门程序，您可以直接导入到Marketo实例中，以开始构建将帮助支持您团队的程序。
 
-该库包括以下项目：电子邮件、参与、事件、评分、可投放性和可操作性。 所有计划均由Adobe产品团队开发，并经过我们[全球专业服务](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}团队的审核，以最大限度地提高质量和效率。
+该库包括以下项目：电子邮件、参与、事件、评分、可投放性和可操作性。 所有计划均由Adobe产品团队开发，并经过我们[全球专业服务](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}团队的审核，以最大限度地提高质量和效率。
 
 ## 可用程序示例 {#available-program-examples}
 
