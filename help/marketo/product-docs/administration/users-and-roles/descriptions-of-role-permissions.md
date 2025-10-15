@@ -4,9 +4,9 @@ description: 角色权限描述 — Marketo文档 — 产品文档
 title: 角色权限说明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1451'
 ht-degree: 1%
 
 ---
@@ -120,7 +120,7 @@ _&#42;为避免现有用户中断，此权限将在被动模式下引入，此�
 
 * 访问电子邮件
    * 编辑电子邮件 — 授予用户编辑、创建和克隆电子邮件的权限
-      * 使电子邮件可操作 — 授予用户使电子邮件可操作的权限。 请参阅：[使电子邮件正常运行](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * 生成和编辑运营电子邮件 — 授予用户创建和/或编辑运营电子邮件的权限。 请参阅：[使电子邮件正常运行](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * 批准电子邮件 — 允许用户批准电子邮件。
       * 删除电子邮件 — 允许用户删除电子邮件。
