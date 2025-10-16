@@ -3,10 +3,10 @@ description: 使用OAuth 2.0登录 — Marketo文档 — 产品文档
 title: 使用 OAuth 2.0 登录
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 3%
+source-wordcount: '610'
+ht-degree: 2%
 
 ---
 
@@ -18,35 +18,51 @@ Salesforce使用OAuth协议，允许应用程序用户安全地访问（使用OA
 >
 >要使用OAuth连接Marketo和[!DNL Salesforce]，请通过私人（无痕化）浏览器登录Marketo以避免使用错误的用户名连接到[!DNL Salesforce]。
 
-## 设置连接的应用程序 {#set-up-connected-app}
+## 设置外部客户端应用程序 {#set-up-external-client-app}
 
-1. 在Salesforce中的“设置”下，在“平台工具”中导航到“应用程序”、“应用程序管理器”，然后单击&#x200B;**[!UICONTROL New Connected App]**。
-
-   ![](assets/setting-up-oauth-2-1.png)
-
-1. 填写详细信息并单击&#x200B;**[!UICONTROL Save]**。
-
-   ![](assets/setting-up-oauth-2-2.png)
-
-1. 单击&#x200B;**[!UICONTROL Enable OAuth Settings]**&#x200B;复选框。 对于回调URL，输入`https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`。 选择所有可用的OAuth范围，然后单击&#x200B;**[!UICONTROL Add]**。
-
-   ![](assets/setting-up-oauth-2-3.png)
-
-1. 单击 **[!UICONTROL Save]**。
-
-   ![](assets/setting-up-oauth-2-4.png)
-
-1. 单击 **[!UICONTROL Continue]**。
-
-   ![](assets/setting-up-oauth-2-5.png)
-
-1. 复制使用者密钥和使用者密钥(稍后您将需要它们以在Marketo Engage中使用)。
-
-   ![](assets/setting-up-oauth-2-6.png)
-
->[!CAUTION]
+>[!NOTE]
 >
->当仍在“新连接的应用程序”页面时，向下滚动，并确保“Require Proof Key for Code Exchange (PKCE)”复选框已选中&#x200B;_NOT_，因为这将影响设置。
+>自2025年9月起，Salesforce开始限制[连接的应用程序](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"}的使用。 对于根据我们的文档设置了“连接的应用程序”的现有用户，您可以向Marketo同步用户的配置文件中添加“批准未安装的连接的应用程序”权限，或者按照以下说明创建新的外部客户端应用程序。
+
+1. 在Salesforce中，单击齿轮图标并选择&#x200B;**设置**。
+
+   ![](assets/log-in-using-oauth-1.png)
+
+1. 在“快速查找”框中，键入`App Manager`，然后选择&#x200B;**应用程序管理器**。
+
+   ![](assets/log-in-using-oauth-2.png)
+
+1. 单击&#x200B;**新建外部客户端应用程序**。
+
+   ![](assets/log-in-using-oauth-3.png)
+
+1. 在&#x200B;_基本信息_&#x200B;下填写详细信息。 将&#x200B;_分发状态_&#x200B;设置为&#x200B;**本地**。
+
+   ![](assets/log-in-using-oauth-4.png)
+
+1. 展开&#x200B;**API（启用OAuth设置）**&#x200B;部分并选择&#x200B;**[!UICONTROL Enable OAuth]**&#x200B;复选框。 对于&#x200B;_回调URL_，请输入`https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`。 选择所有可用的OAuth范围，然后单击向右箭头添加它们。
+
+   ![](assets/log-in-using-oauth-5.png)
+
+1. 在&#x200B;_流量启用_&#x200B;下，确保未选中任何框。
+
+   ![](assets/log-in-using-oauth-6.png)
+
+1. 在&#x200B;_安全性_&#x200B;下，确保只选择&#x200B;**Web服务器流需要密码**&#x200B;和&#x200B;**刷新令牌流需要密码**。
+
+   ![](assets/log-in-using-oauth-7.png)
+
+1. 跳过最后四个部分，然后单击&#x200B;**创建**。
+
+   ![](assets/log-in-using-oauth-8.png)
+
+1. 创建新的外部客户端应用程序后，单击&#x200B;**设置**&#x200B;选项卡并展开&#x200B;**OAuth设置**&#x200B;部分。
+
+   ![](assets/log-in-using-oauth-9.png)
+
+1. 单击&#x200B;**使用者密钥和使用者密钥**&#x200B;按钮，提示打开一个新选项卡。 复制并保存这两个数字(稍后您将需要它们以在Marketo Engage中使用)。
+
+   ![](assets/log-in-using-oauth-10.png)
 
 ## 设置Marketo {#set-up-marketo}
 
@@ -64,47 +80,47 @@ Salesforce使用OAuth协议，允许应用程序用户安全地访问（使用OA
 
 1. 在“Marketo管理员”部分中，单击&#x200B;**[!UICONTROL CRM]**，然后单击&#x200B;**[!UICONTROL Sync with Salesforce]**。
 
-   ![](assets/setting-up-oauth-2-7.png)
+   ![](assets/log-in-using-oauth-11.png)
 
 1. 添加您之前记录的使用者密钥和使用者密钥信息，然后单击&#x200B;**[!UICONTROL Save]**。
 
-   ![](assets/setting-up-oauth-2-8.png)
+   ![](assets/log-in-using-oauth-12.png)
 
 1. 在Marketo Salesforce同步页面上，单击&#x200B;**[!UICONTROL Login with Salesforce]**&#x200B;按钮。
 
-   ![](assets/setting-up-oauth-2-9.png)
+   ![](assets/log-in-using-oauth-13.png)
 
    >[!CAUTION]
    >
-   >如果您看到“用户名/密码/令牌”字段而不是“使用Salesforce登录”按钮，则会启用Marketo订阅以进行基本身份验证。 请参阅[使用基本身份验证设置Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}。 使用一组凭据开始同步后，不会切换Salesforce凭据或订阅。 要为Salesforce身份验证设置Oauth 2.0，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+   >如果您看到“用户名/密码/令牌”字段而不是“使用Salesforce登录”按钮，则会启用Marketo订阅以进行基本身份验证。 请参阅[使用基本身份验证设置Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}。 使用一组凭据开始同步后，不会切换Salesforce凭据或订阅。 要为Salesforce身份验证设置Oauth 2.0，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
 1. 此时将显示一个包含salesforce登录页面的弹出窗口。 键入“Marketo同步用户”凭据并登录。
 
-   ![](assets/setting-up-oauth-2-10.png)
+   ![](assets/log-in-using-oauth-14.png)
 
 1. 输入您通过电子邮件收到的验证码(由Salesforce发送)，然后单击&#x200B;**[!UICONTROL Verify]**。
 
-   ![](assets/setting-up-oauth-2-11.png)
+   ![](assets/log-in-using-oauth-15.png)
 
 1. 成功验证后，访问页面将显示请求访问。 单击 **[!UICONTROL Allow]**。
 
-   ![](assets/setting-up-oauth-2-12.png)
+   ![](assets/log-in-using-oauth-16.png)
 
 1. 几分钟后，Marketo中将出现弹出窗口。 单击 **[!UICONTROL Confirm Credentials]**。
 
-   ![](assets/setting-up-oauth-2-13.png)
+   ![](assets/log-in-using-oauth-17.png)
 
 1. 字段同步完成后，单击&#x200B;**[!UICONTROL Start Salesforce Sync]**。
 
-   ![](assets/setting-up-oauth-2-14.png)
+   ![](assets/log-in-using-oauth-18.png)
 
 1. 单击 **[!UICONTROL Start Sync]**。
 
-   ![](assets/setting-up-oauth-2-15.png)
+   ![](assets/log-in-using-oauth-19.png)
 
 您在Marketo和[!DNL Salesforce]之间的同步正在进行中。
 
-![](assets/setting-up-oauth-2-16.png)
+![](assets/log-in-using-oauth-20.png)
 
 >[!MORELIKETHIS]
 >
