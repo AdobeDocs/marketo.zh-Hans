@@ -18,7 +18,7 @@ ht-degree: 10%
 1. [创建新的智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。 定义以下智能列表：
 
 * 触发器： **[!UICONTROL Person is Created]**
-* 筛选器： **[!UICONTROL Duplicate Fields]**。 字段名称&#x200B;**[!UICONTROL is][!UICONTROL Full Name]**
+* 筛选器： **[!UICONTROL Duplicate Fields]**。 字段名称&#x200B;**[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 
