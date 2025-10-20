@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+workflow-type: tm+mt
+source-wordcount: '704'
+ht-degree: 92%
 
 ---
 
@@ -81,6 +81,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 <br/>
 
 ## 公告 {#announcements}
+
+* **弃用REST API双斜杠**： 2025年9月16日，Adobe为利用新技术的REST API URL过渡到了更现代的托管基础架构，从而增加了安全性和可扩展性。 如果您的订阅在URL中使用了带有双正斜杠(//)的API，请阅读[此国家/地区帖子](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}以了解后续步骤。
 
 * **在新的电子邮件设计器中切换回 Velocity 脚本**：Adobe Marketo Engage 于今年 6 月为新的电子邮件设计器发布了一项名为&#x200B;_条件内容_&#x200B;的功能。该功能由 Handlebar 脚本而不是 Velocity 脚本提供支持，旨在为您的动态内容提供更多的灵活性。但当我们发现它导致一些令牌被错误解析时，我们决定暂时禁用它。[了解详情](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 

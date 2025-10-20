@@ -3,9 +3,9 @@ description: 使用OAuth 2.0登录 — Marketo文档 — 产品文档
 title: 使用 OAuth 2.0 登录
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '609'
 ht-degree: 2%
 
 ---
@@ -56,11 +56,11 @@ Salesforce使用OAuth协议，允许应用程序用户安全地访问（使用OA
 
    ![](assets/log-in-using-oauth-8.png)
 
-1. 创建新的外部客户端应用程序后，单击&#x200B;**设置**&#x200B;选项卡并展开&#x200B;**OAuth设置**&#x200B;部分。
+1. 创建新的外部客户端应用程序后，选择&#x200B;**设置**&#x200B;选项卡并展开&#x200B;**OAuth设置**&#x200B;部分。
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. 单击&#x200B;**使用者密钥和使用者密钥**&#x200B;按钮，提示打开一个新选项卡。 复制并保存这两个数字(稍后您将需要它们以在Marketo Engage中使用)。
+1. 单击&#x200B;**使用者密钥和密码**&#x200B;按钮，提示打开一个新选项卡。 复制并保存这两个数字(稍后您将需要它们以在Marketo Engage中使用)。
 
    ![](assets/log-in-using-oauth-10.png)
 
