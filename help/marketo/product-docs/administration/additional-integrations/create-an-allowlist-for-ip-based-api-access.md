@@ -21,7 +21,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->此功能独立于Marketo Engage [基于IP的登录限制](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}运行，Admin Console将替换这些限制为[基于IP的访问控制](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}。 在Adobe IMS迁移后，它将继续按原样运行。
+>此功能独立于Marketo Engage [基于IP的登录限制](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}运行，Admin Console将替换这些限制为[基于IP的访问控制](https://helpx.adobe.com/cn/enterprise/using/ip-based-access.html){target="_blank"}。 在Adobe IMS迁移后，它将继续按原样运行。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 
