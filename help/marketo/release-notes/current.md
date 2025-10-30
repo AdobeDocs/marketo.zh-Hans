@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: dda635ffac84c76eb60ecac395707914c4902c9d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '730'
-ht-degree: 91%
+source-wordcount: '731'
+ht-degree: 90%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer — 模板导入程序</strong>：从经典电子邮件编辑器导入电子邮件模板，以在Design Studio中创建与新电子邮件Designer兼容的模板。</td>
+   <td><strong>电子邮件Designer — 模板导入器(Beta)</strong>：从经典电子邮件编辑器导入电子邮件模板，以在Design Studio中创建与新电子邮件Designer兼容的模板。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>

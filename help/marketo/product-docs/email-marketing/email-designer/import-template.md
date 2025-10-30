@@ -5,18 +5,19 @@ title: 模板导入
 description: 了解如何将现有电子邮件模板从经典编辑器导入新的电子邮件Designer。
 level: Beginner, Intermediate
 feature: Email Designer
+badge: Beta 版
 hide: true
 hidefromtoc: true
-source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 0%
+source-wordcount: '723'
+ht-degree: 1%
 
 ---
 
 # 模板导入 {#template-import}
 
-将现有电子邮件模板从经典编辑器无缝导入新的电子邮件Designer，从而保留您的设计，并通过熟悉且可重复使用的结构加快模板创建。
+将现有电子邮件模板从经典编辑器无缝导入新的电子邮件Designer，从而保留您的设计，并通过熟悉且可重复使用的结构加快模板创建。 查看[最佳实践](#best-practices)并了解[限制和补救措施](#limitations-and-remedies)。
 
 1. 转到&#x200B;**设计工作室**。
 
@@ -77,6 +78,8 @@ ht-degree: 0%
 * 导入后，您可以将可重用的部分另存为片段，并批准它们以供电子邮件作者使用。 应用品牌主题以保持一致性和合规性。
 
 * 您可以继续使用Velocity脚本，并考虑使用片段和条件内容的组合重新实施较旧的片段，以提高灵活性和控制力。
+
+## 限制和补救措施 {#limitations-and-remedies}
 
 <table><thead>
   <tr>
