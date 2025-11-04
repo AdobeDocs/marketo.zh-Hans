@@ -8,48 +8,50 @@ feature: Email Designer
 badge: Beta 版
 hide: true
 hidefromtoc: true
-source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
+source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
 
 # 模板导入 {#template-import}
 
-将现有电子邮件模板从经典编辑器无缝导入新的电子邮件Designer，从而保留您的设计，并通过熟悉且可重复使用的结构加快模板创建。 查看[最佳实践](#best-practices)并了解[限制和补救措施](#limitations-and-remedies)。
+轻松地将现有电子邮件模板从经典编辑器导入到新的电子邮件Designer中，保留您的设计，并使用熟悉的可重用结构加快模板创建。 查看[最佳实践](#best-practices)并了解[限制和补救措施](#limitations-and-remedies)。
+
+>[!NOTE]
+>
+>经典电子邮件模板是使用自由格式的HTML开发的，因此此导入程序可能并不总是完美导入每个组件。 请检查导入的模板，确保所有部分均可编辑并正确映射。 如果某个区域不可选，请重新创建它以获得最佳结果。
+
+## 导入模板 {#import-a-template}
 
 1. 转到&#x200B;**设计工作室**。
 
-   屏幕快照
+   ![](assets/import-template-1.png)
 
 1. 单击&#x200B;**电子邮件模板**&#x200B;并选择&#x200B;**电子邮件模板（新）**。
 
-   屏幕快照
+   ![](assets/import-template-2.png)
 
 1. 单击&#x200B;**创建模板**。
 
-   屏幕快照
+   ![](assets/import-template-3.png)
 
 1. 输入&#x200B;_名称_&#x200B;和（可选）_描述_。
 
-   屏幕快照
+   ![](assets/import-template-4.png)
 
-1. 单击&#x200B;**Marketo模板**，然后选择在经典电子邮件编辑器中创建的现有模板。
+1. 单击&#x200B;**Marketo模板**&#x200B;选项卡，然后从在经典电子邮件编辑器中创建的现有模板中进行选择。
 
-   屏幕快照
+   ![](assets/import-template-5.png)
 
    >[!NOTE]
    >
    >只能导入与当前工作区共享的已批准模板和模板。
 
-1. 选择所需的模板。
+1. 单击&#x200B;**使用此模板**。
 
-   屏幕快照
-
-1. 单击使用此模板。
-
-   屏幕快照
+   ![](assets/import-template-6.png)
 
 1. 导入的模板将在Email Designer中打开。
 
@@ -61,19 +63,19 @@ ht-degree: 1%
 
 1. 单击顶部的&#x200B;**...更多**&#x200B;按钮，然后选择&#x200B;**另存为片段**。
 
-   屏幕快照
+   ![](assets/import-template-7.png)
 
 1. 选择组件或结构，然后单击&#x200B;**创建**。
 
-   屏幕快照
+   ![](assets/import-template-8.png)
 
 1. 输入名称（和可选描述）并单击&#x200B;**保存**。
 
-   屏幕快照
+   ![](assets/import-template-9.png)
 
 ## 最佳实践 {#best-practices}
 
-* 由于自由式的HTML可能存在显着差异，导入程序可能并不总是能够完美地解释每个组件。 查看导入的模板，确保所有部分均可编辑和正确映射。 如果某个部件不可选，则只需重新创建该部分即可获得最佳结果。
+* 经典电子邮件模板是使用自由格式的HTML开发的，因此此导入程序可能并不总是完美导入每个组件。 请检查导入的模板，确保所有部分均可编辑并正确映射。 如果某个区域不可选，请重新创建它以获得最佳结果。
 
 * 导入后，您可以将可重用的部分另存为片段，并批准它们以供电子邮件作者使用。 应用品牌主题以保持一致性和合规性。
 
@@ -113,7 +115,7 @@ ht-degree: 1%
   <tr>
     <td>项目符号本身不受支持。</td>
     <td>电子邮件Designer目前不提供项目符号。</td>
-    <td>考虑使用替代技术重新实施项目符号。</td>
+    <td>考虑使用替代技术重新创建项目符号。</td>
   </tr>
   <tr>
     <td>如果容器的内容与值属性值不一致，则垂直对齐会扭曲。</td>
@@ -143,6 +145,6 @@ ht-degree: 1%
   <tr>
     <td>旧模板中的代码片段在Email Designer中将不起作用。</td>
     <td>电子邮件Designer不支持代码片段。</td>
-    <td>将片段重新实施为片段与条件内容结合使用。</td>
+    <td>将片段重新创建为与条件内容结合的片段。</td>
   </tr>
 </tbody></table>
