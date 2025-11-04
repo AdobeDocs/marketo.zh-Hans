@@ -2,9 +2,9 @@
 description: 发行说明 — 2025年9月 — Marketo文档 — 产品文档
 title: 发行说明 - 2025 年 9 月
 feature: Release Information
-source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
+source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '704'
 ht-degree: 98%
 
 ---
@@ -33,17 +33,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>按需网络研讨会活动保留</strong>：交互式网络研讨会用户现在可以获得按需网络研讨会仪表板数据超过 30 天（以前，从网络研讨会之日起最多只能获得 30 天）。</td>
    <td>已发布</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手动同步</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件设计器 - 内容协作工作流</strong>：您现在可以在电子邮件资产中做出评论并与 Marketo 用户协作。 标记团队成员（具有相应资产权限的 Marketo 用户），他们就会收到电子邮件或推送通知。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手动同步</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -71,9 +61,19 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
+   <td><strong>电子邮件设计器 - 内容协作工作流</strong>：您现在可以在电子邮件资产中做出评论并与 Marketo 用户协作。 标记团队成员（具有相应资产权限的 Marketo 用户），他们就会收到电子邮件或推送通知。</td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration">电子邮件协作</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>电子邮件设计器 - 重定向问题修复</strong>：某些用户在使用新设计器创建的电子邮件的 URL 时遇到重定向问题（例如，直接粘贴 URL 或者将电子邮件资产设为书签有时候不起作用）。 已解决此问题。此外，来自<b>电子邮件模板</b> &gt; <b>详细信息</b> &gt; <b>使用者</b>的电子邮件资产的链接会重定向到相应的电子邮件资产。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td>不适用</td>
   </tr>
   </tbody>
 </table>
