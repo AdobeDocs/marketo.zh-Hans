@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
+source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '885'
 ht-degree: 11%
 
 ---
@@ -208,6 +208,12 @@ ht-degree: 11%
     <td>可参阅Assets</td>
   </tr>
   <tr>
+    <td>电子邮件模板转换器</td>
+    <td>能够<a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">将现有Marketo模板</a>导入新的电子邮件Designer。</td>
+    <td>不需要</td>
+    <td>可用</td>
+  </tr>
+  <tr>
     <td>拖放到画布上</td>
     <td>能够将结构和内容拖放到画布上。</td>
     <td>仅限模块</td>
@@ -241,12 +247,6 @@ ht-degree: 11%
     <td>支持移动、删除和导入包含电子邮件资产的程序</td>
     <td>能够移动、删除和导入电子邮件程序以及电子邮件资产。</td>
     <td>可用</td>
-    <td>即将推出</td>
-  </tr>
-  <tr>
-    <td>Marketo模板转换器/导入</td>
-    <td>能够转换现有Marketo模板以适合新的电子邮件Designer。</td>
-    <td>不需要</td>
     <td>即将推出</td>
   </tr>
   <tr>
