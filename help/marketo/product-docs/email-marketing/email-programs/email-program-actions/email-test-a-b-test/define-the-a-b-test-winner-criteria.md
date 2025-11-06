@@ -40,7 +40,7 @@ ht-degree: 21%
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">参与度分数</a>可帮助您确定内容的有效性。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=zh-Hans" target="_blank">参与度分数</a>可帮助您确定内容的有效性。</td>
    </tr>
    </table>
 
