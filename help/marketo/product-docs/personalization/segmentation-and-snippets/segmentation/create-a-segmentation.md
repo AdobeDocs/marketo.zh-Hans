@@ -4,9 +4,9 @@ description: 创建分段 — Marketo文档 — 产品文档
 title: 创建分段
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '215'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 3%
 
 分段允许您将人员分组到不同的配置文件中，以便生成报告和动态内容。 下面是创建这些规则的方法。
 
-1. 转到&#x200B;**[!UICONTROL Database]**。
+1. 转到您的&#x200B;**[!UICONTROL Database]**。
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. 单击&#x200B;**[!UICONTROL New]**，然后单击&#x200B;**[!UICONTROL New Segmentation]**。
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ ht-degree: 3%
 
 1. 输入&#x200B;**[!UICONTROL Name]**，单击&#x200B;**[!UICONTROL Add Segment]**&#x200B;并命名它。
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ ht-degree: 3%
 
 1. 添加所需数量的区段（最多100个）。
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ ht-degree: 3%
 
 1. 将区段拖放至周围以更改其顺序。 完成后，单击&#x200B;**[!UICONTROL Create]**。
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >

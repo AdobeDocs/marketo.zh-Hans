@@ -4,9 +4,9 @@ description: 批准分段 — Marketo文档 — 产品文档
 title: 批准分段
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 2%
 
 ---
@@ -26,22 +26,23 @@ ht-degree: 2%
 
 1. 转到&#x200B;**[!UICONTROL Database]**。
 
-   ![](assets/image2017-3-28-14-3a25-3a49.png)
+   ![](assets/approve-a-segmentation-1.png)
 
 1. 在分段中，单击&#x200B;**[!UICONTROL Segmentation Actions]**，然后单击&#x200B;**[!UICONTROL Approve]**。
 
-   ![](assets/image2017-3-28-14-3a46-3a22.png)
+   ![](assets/approve-a-segmentation-2.png)
 
    >[!NOTE]
    >
-   >审批过程中，状态更改为带有旋转滚轮( [!UICONTROL Approving])的![](assets/image2014-9-15-15-3a31-3a43.png)。
+   >审批正在进行时，状态更改为&#x200B;_审批_。
 
    >[!CAUTION]
    >
-   >批准可能需要几分钟甚至一天以上的时间才能完成，具体取决于数据库的大小。
+   >完成批准可能需要几分钟到一两天的时间，具体取决于数据库的大小。
 
-   批准后，[!UICONTROL Status]将从[!UICONTROL Approving]更改为[!UICONTROL Approved]。
-   ![](assets/image2017-3-28-14-3a46-3a44.png)
+1. 批准后，[!UICONTROL Status]将从[!UICONTROL Approving]更改为[!UICONTROL Approved]。
+
+   ![](assets/approve-a-segmentation-3.png)
 
    >[!TIP]
    >
@@ -49,7 +50,7 @@ ht-degree: 2%
 
 1. **[!UICONTROL People]**&#x200B;中的&#x200B;**[!UICONTROL Segment]**&#x200B;选项卡现在显示该区段的最终人员列表。
 
-   ![](assets/image2017-3-28-14-3a47-3a10.png)
+   ![](assets/approve-a-segmentation-4.png)
 
 >[!CAUTION]
 >
