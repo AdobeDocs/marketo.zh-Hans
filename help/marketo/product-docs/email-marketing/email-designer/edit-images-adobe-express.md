@@ -6,7 +6,7 @@ description: 了解如何使用Adobe Express在Adobe Marketo Engage电子邮件�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
 workflow-type: tm+mt
 source-wordcount: '807'
 ht-degree: 1%
