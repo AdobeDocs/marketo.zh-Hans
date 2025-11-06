@@ -4,9 +4,9 @@ description: 计划A/B测试 — Marketo文档 — 产品文档
 title: 安排 A/B 测试
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 5%
 
 ---
@@ -25,35 +25,35 @@ ht-degree: 5%
 
 1. 选择&#x200B;**[!UICONTROL Send Test]**&#x200B;日期。
 
-![](assets/image2014-9-12-15-3a59-3a54.png)
+![](assets/schedule-the-a-b-test-1.png)
 
 1. 选择&#x200B;**[!UICONTROL Send Test]**&#x200B;时间。
 
-   ![](assets/image2014-9-12-16-3a0-3a2.png)
+   ![](assets/schedule-the-a-b-test-2.png)
 
    >[!NOTE]
    >
    >“发送测试并发送入选者”必须至少相隔4小时。 但是，对于较大的发送，您可能需要等待24小时，以便有足够的时间获得良好的结果。
 
-1. 对&#x200B;**[!UICONTROL Send Winner]**&#x200B;执行相同的操作。 输入通知收件人（可选）并单击&#x200B;**[!UICONTROL Next]**。
+1. 对&#x200B;_发送入选者_&#x200B;重复步骤1和2。 输入通知收件人（可选）并单击&#x200B;**[!UICONTROL Next]**。
 
    >[!NOTE]
    >
    >只有测试组将接收测试变体。
 
-   ![](assets/image2014-9-12-16-3a0-3a12.png)
+   ![](assets/schedule-the-a-b-test-3.png)
 
    >[!NOTE]
    >
    >如果您选择手动声明入选者，您将定义&#x200B;**报告发送**&#x200B;日期/时间而不是&#x200B;**完成邮件**&#x200B;日期/时间。
 
-   太棒了！ 操作已完成，只需查看摘要并单击&#x200B;**[!UICONTROL Close]**。
+1. 查看摘要并单击&#x200B;**[!UICONTROL Close]**。
 
-   ![](assets/image2014-9-12-16-3a1-3a23.png)
+   ![](assets/schedule-the-a-b-test-4.png)
 
    您会注意到&#x200B;**[!UICONTROL Schedule]**&#x200B;磁贴现已更新。
 
-   ![](assets/image2014-9-12-16-3a1-3a33.png)
+   ![](assets/schedule-the-a-b-test-5.png)
 
    >[!NOTE]
    >

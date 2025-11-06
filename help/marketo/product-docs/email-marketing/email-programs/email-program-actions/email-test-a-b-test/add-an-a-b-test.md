@@ -4,7 +4,7 @@ description: 添加A/B测试 — Marketo文档 — 产品文档
 title: 添加 A/B 测试
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: de037f08506f51ecf4a98a0806a8b2a430f6bc81
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 5%
@@ -28,7 +28,7 @@ ht-degree: 5%
 
 1. 选择您的电子邮件程序。
 
-   ![](assets/add-an-a-b-test-2.jpg)
+   ![](assets/add-an-a-b-test-2.png)
 
 1. 在&#x200B;**[!UICONTROL Email]**&#x200B;图块下，单击&#x200B;**[!UICONTROL Add A/B Test]**。
 
