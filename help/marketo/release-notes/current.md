@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
 workflow-type: tm+mt
-source-wordcount: '730'
-ht-degree: 90%
+source-wordcount: '729'
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer — 模板导入器(Beta)</strong>：从经典电子邮件编辑器导入电子邮件模板，以在Design Studio中创建与新电子邮件Designer兼容的模板。</td>
+   <td><strong>电子邮件设计器 – 模板导入器（Beta）</strong>：可从经典电子邮件编辑器导入模板，以在 Design Studio 中创建与新版电子邮件设计器兼容的模板。</td>
    <td>已发布</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">模板导入</a></td>
   </tr>
@@ -86,8 +86,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>电子邮件设计器 - 克隆电子邮件操作</strong>：您现在可以将电子邮件克隆到营销活动中的另一个项目文件夹中，以快速重复使用现有的电子邮件。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td>不适用</td>
   </tr>
   </tbody>
 </table>
@@ -95,7 +95,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **Salesforce CRM集成升级**：将从2025年11月13日起，在七天内将新版本的本机CRM集成部署到启用了本机连接器的活动沙盒中。 在[此国家/地区帖子](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}中获取完整的详细信息
+* **Salesforce CRM 集成升级**：新版原生 CRM 集成将于 2025 年 11 月 13 日起，在启用了原生连接器的活动 Sandbox 环境中，于 7 天内陆续部署。详细信息请参阅[此 Nation 帖子](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
 
 * **REST API 双斜杠弃用**: 2025年9月16日，Adobe为 REST API URL 迁移至更现代化的托管基础设施，该基础设施采用新技术，增强了安全性与可扩展性. 若您的订阅在 URL 中使用了双正斜杠（//）的 API，请阅读以下 [Nation 帖子](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}以了解后续操作步骤。
 
