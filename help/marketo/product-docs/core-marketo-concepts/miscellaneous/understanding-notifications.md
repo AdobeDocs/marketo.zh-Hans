@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: 了解通知 — Marketo文档 — 产品文档
 title: 了解通知
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
@@ -38,7 +38,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**[!UICONTROL Send to]**&#x200B;框仅供您输入电子邮件地址；它不会显示现有订阅者的列表。
+>_[!UICONTROL Send to]_框仅供您输入电子邮件地址；它不会显示现有订阅者的列表。
 
 在某些情况下，通知会提供“查看完整列表”链接以下载逗号分隔值(CSV)文件，例如Microsoft Dynamics同步错误文件。 Marketo Engage会将这些CSV文件保留30天。 如果您在30天后尝试下载文件，则会出现404错误。
 
