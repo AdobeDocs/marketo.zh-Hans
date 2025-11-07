@@ -5,9 +5,7 @@ title: 条件内容
 description: 在电子邮件中使用条件内容以根据收件人动态显示内容。
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 3%
@@ -20,7 +18,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->已创建至少一个分段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
+>已创建至少一个分段[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
 
 ## 添加条件内容 {#add-conditional-content}
 

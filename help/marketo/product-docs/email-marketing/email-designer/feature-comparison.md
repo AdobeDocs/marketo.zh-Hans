@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '884'
 ht-degree: 11%
 
 ---
@@ -233,9 +233,9 @@ ht-degree: 11%
   </tr>
   <tr>
     <td>动态内容/条件内容</td>
-    <td>能够根据目标受众创建电子邮件的变体。</td>
+    <td>能够根据目标受众在电子邮件中<a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">创建变体</a>。</td>
     <td>可用</td>
-    <td>即将推出</td>
+    <td>可用</td>
   </tr>
   <tr>
     <td>图像到HTML</td>
