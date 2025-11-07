@@ -5,10 +5,10 @@ title: 条件内容
 description: 在电子邮件中使用条件内容以根据收件人动态显示内容。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 3%
+source-wordcount: '304'
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->已创建至少一个分段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
+>已创建至少一个分段[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
 
 ## 添加条件内容 {#add-conditional-content}
 
@@ -30,7 +30,7 @@ ht-degree: 3%
 
    ![](assets/conditional-content-2.png)
 
-1. 盒子会变成橙色。 在左侧，单击&#x200B;_选择条件_&#x200B;图标以定义变体。
+1. 高亮框变为橙色。 在左侧，单击&#x200B;_选择条件_&#x200B;图标(![](assets/icon-select-condition.png))以定义变体。
 
    ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
@@ -46,7 +46,11 @@ ht-degree: 3%
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. 此时会出现新图像。 最好重命名您的变体，使其更易于识别。
+1. 此时会出现新图像。 最好重命名您的变体，使其更易于识别。 只需单击省略号并选择&#x200B;**重命名**。
+
+   >[!NOTE]
+   >
+   >单击省略号还可让您查看变体的定义条件并复制它。 如果有多个变体，则可以使用删除选项。 如果您只有一个变体，则删除该变体的方法只是重新单击&#x200B;_启用条件内容_&#x200B;图标（将鼠标悬停在该变体上时，它现在会显示&#x200B;_禁用条件内容_）。
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 

@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '883'
 ht-degree: 11%
 
 ---
@@ -226,12 +226,6 @@ ht-degree: 11%
     <td>拖放片段</td>
   </tr>
   <tr>
-    <td>全局主题</td>
-    <td>能够在整个组织内应用已批准的主题，以确保样式、颜色、字体大小等元素的一致性。</td>
-    <td>不可用</td>
-    <td>即将推出</td>
-  </tr>
-  <tr>
     <td>动态内容/条件内容</td>
     <td>能够根据目标受众在电子邮件中<a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">创建变体</a>。</td>
     <td>可用</td>
@@ -239,9 +233,9 @@ ht-degree: 11%
   </tr>
   <tr>
     <td>图像到HTML</td>
-    <td>能够将图像转换为HTML，然后使用创建电子邮件。</td>
+    <td>能够<a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">将图像转换为HTML</a>，然后使用创建电子邮件。</td>
     <td>不可用</td>
-    <td>即将推出</td>
+    <td>可用</td>
   </tr>
   <tr>
     <td>支持移动、删除和导入包含电子邮件资产的程序</td>
@@ -264,6 +258,12 @@ ht-degree: 11%
   <tr>
     <td>品牌工具包</td>
     <td>能够改进反映品牌准则的电子邮件。</td>
+    <td>不可用</td>
+    <td>即将推出</td>
+  </tr>
+  <tr>
+    <td>全局主题</td>
+    <td>能够在整个组织内应用已批准的主题，以确保样式、颜色、字体大小等元素的一致性。</td>
     <td>不可用</td>
     <td>即将推出</td>
   </tr>

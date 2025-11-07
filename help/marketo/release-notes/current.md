@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '730'
 ht-degree: 99%
 
 ---
@@ -47,6 +47,25 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">条件内容</a></td>
   </tr>
   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>电子邮件设计器 - 图像到 HTML 转换器</strong>：上传电子邮件的合规 PNG/JPEG 图像文件后，该文件会自动转换为 HTML 以供在新的电子邮件设计器中使用。</td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">将图像转换为HTML模板</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件设计器 - 克隆电子邮件操作</strong>：您现在可以将电子邮件克隆到营销活动中的另一个项目文件夹中，以快速重复使用现有的电子邮件。</td>
+   <td>已发布</td>
+   <td>不适用</td>
+  </tr>
   <tr>
    <td> </td>
    <td> </td>
@@ -58,7 +77,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><i>即将推出</i></td>
   </tr>
   <tr>
-  <tr>
    <td> </td>
    <td> </td>
    <td> </td>
@@ -67,27 +85,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><strong>电子邮件设计器 - 品牌主题</strong>：您现在可以在 Marketo Engage 中定义品牌主题。样式配置可以在各种不同的电子邮件模板和其他电子邮件资产中重复使用和应用，以确保品牌一致性。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>电子邮件设计器 - 图像到 HTML 转换器</strong>：上传电子邮件的合规 PNG/JPEG 图像文件后，该文件会自动转换为 HTML 以供在新的电子邮件设计器中使用。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件设计器 - 克隆电子邮件操作</strong>：您现在可以将电子邮件克隆到营销活动中的另一个项目文件夹中，以快速重复使用现有的电子邮件。</td>
-   <td>已发布</td>
-   <td>不适用</td>
   </tr>
   </tbody>
 </table>
