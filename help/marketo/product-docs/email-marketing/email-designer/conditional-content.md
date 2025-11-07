@@ -5,9 +5,9 @@ title: 条件内容
 description: 在电子邮件中使用条件内容以根据收件人动态显示内容。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->已创建至少一个分段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
+>已创建至少一个分段[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
 
 ## 添加条件内容 {#add-conditional-content}
 
@@ -46,7 +46,7 @@ ht-degree: 2%
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. 此时会出现新图像。 最好重命名您的变体，使其更易于识别。 只需单击省略号并选择&#x200B;**重命名**。
+1. 此时会出现新图像。 最好重命名您的变体，使其更易于识别。 单击省略号并选择&#x200B;**重命名**。
 
    >[!NOTE]
    >
