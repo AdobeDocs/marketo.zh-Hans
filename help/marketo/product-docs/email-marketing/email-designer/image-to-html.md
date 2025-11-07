@@ -25,7 +25,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 您必须首先同意[核心Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在Email Designer中使用Gen-AI功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
->* 您必须拥有&#x200B;_访问电子邮件模板_&#x200B;以及&#x200B;_编辑/生成电子邮件模板_&#x200B;权限，这些权限已在您的Marketo角色中启用[](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
+>* 您必须拥有&#x200B;_访问电子邮件模板_&#x200B;以及&#x200B;_编辑/生成电子邮件模板_&#x200B;权限，这些权限已在您的Marketo角色中启用[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
 
 ## 转换图像 {#convert-an-image}
 
@@ -107,7 +107,7 @@ ht-degree: 1%
 * **Web安全字体**：使用常见Web安全字体设计将具有更好的保真度。
 * **避免元素重叠**：将设计元素明确分开，以便更好地识别结构。
 
-转换后&#x200B;****
+转换后&#x200B;**&#x200B;**
 
 * **查看草稿**：转换完成后，模板将自动另存为草稿。 请花些时间仔细审查生成的HTML的准确性。
 * **彻底测试**：跨不同的电子邮件客户端和设备测试电子邮件。 为了获得更快的结果，请利用[Litmus集成](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)。
