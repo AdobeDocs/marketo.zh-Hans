@@ -23,7 +23,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 您必须首先同意[核心Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在Email Designer中使用Gen-AI功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
->* 您必须拥有&#x200B;_访问电子邮件模板_&#x200B;以及&#x200B;_编辑/生成电子邮件模板_&#x200B;权限，这些权限已在您的Marketo角色中启用[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
+>* 您必须拥有&#x200B;_访问电子邮件模板_&#x200B;以及&#x200B;_编辑/生成电子邮件模板_&#x200B;权限，这些权限已在您的Marketo角色中启用[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
 
 ## 转换图像 {#convert-an-image}
 
