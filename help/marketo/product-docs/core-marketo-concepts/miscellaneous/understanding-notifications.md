@@ -38,7 +38,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->_[!UICONTROL Send to]_框仅供您输入电子邮件地址；它不会显示现有订阅者的列表。
+>_[!UICONTROL Send to]_&#x200B;框仅供您输入电子邮件地址；它不会显示现有订阅者的列表。
 
 在某些情况下，通知会提供“查看完整列表”链接以下载逗号分隔值(CSV)文件，例如Microsoft Dynamics同步错误文件。 Marketo Engage会将这些CSV文件保留30天。 如果您在30天后尝试下载文件，则会出现404错误。
 
