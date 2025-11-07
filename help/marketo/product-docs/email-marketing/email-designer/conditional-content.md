@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
+source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 3%
@@ -20,21 +20,21 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->已创建至少一个分段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
+>已创建至少一个分段[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
 
 ## 添加条件内容 {#add-conditional-content}
 
 1. 打开所需的电子邮件，然后单击&#x200B;**编辑电子邮件内容**。
 
-   ![](assets/conditional-content-1.png){width="800" zoomable="yes"}
+   ![](assets/conditional-content-1.png)
 
 1. 选择要作为条件内容的内容（在本例中，我们将选择页眉图像）。 单击&#x200B;_启用条件内容_&#x200B;图标。
 
    ![](assets/conditional-content-2.png)
 
-1. 盒子会变成橙色。 在左侧，单击&#x200B;_选择条件图标_ ()以定义变体。
+1. 盒子会变成橙色。 在左侧，单击&#x200B;_选择条件_&#x200B;图标以定义变体。
 
-   ![](assets/conditional-content-3.png)
+   ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
 1. 选择所需的区段，然后单击&#x200B;**选择**。
 
@@ -46,11 +46,11 @@ ht-degree: 3%
 
 1. 选择适用的图像并单击&#x200B;**选择**。
 
-   ![](assets/conditional-content-6.png)
+   ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
 1. 此时会出现新图像。 最好重命名您的变体，使其更易于识别。
 
-   ![](assets/conditional-content-7.png)
+   ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
 1. 要添加其他变体（可选），请单击&#x200B;**添加变体**&#x200B;并按照相同的步骤操作。
 
