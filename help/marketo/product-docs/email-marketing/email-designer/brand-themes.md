@@ -1,16 +1,16 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 标题
-description: 描述。
+title: 品牌主题
+description: 了解如何创建和管理品牌指南。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -81,17 +81,13 @@ ht-degree: 0%
 
 要编辑变体，请单击其铅笔图标。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >您最多可以创建六个变体。
 
-有多个元素可供自定义。
-
-![](assets/brand-themes-.png)
-
-变体设置分为以下类别：
+有多个元素可供自定义。 变体设置分为以下类别：
 
 * 常规
 * 标题
@@ -102,55 +98,49 @@ ht-degree: 0%
 
 这些设置允许您设置主体、结构、背景、容器、图像等的颜色。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **标题**
 
 设置每种标题类型的文本和边框颜色，从标题1到标题6。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **段落**
 
 设置最多三种段落类型的文本和边框颜色。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **按钮**
 
 为三种不同的按钮类型设置填充、边框和文本颜色：“主要”、“次要”和“第三”。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### 文本设置 {#text-settings}
 
 设置全局、标题和段落的字体类型和大小。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **全局**
 
-在“全局文本设置”下，在Standard和Google字体库之间选择“表单库”。
+在Standard或Google字体库及其各自的字体系列之间进行选择。
 
-![](assets/brand-themes-.png)
-
-在“标准”下，从不同的字体系列中进行选择。
-
-![](assets/brand-themes-.png)
-
-同样，在“Google Fonts”下，将显示从分别支持的字体中进行选择的选项。
+![](assets/brand-themes-15.png)
 
 **标题**
 
-您可以在此为不同的标题类型设置字体库、系列、大小、文本样式和文本对齐。
+为不同的标题类型设置字体库、系列、大小、文本样式和文本对齐。
 
-屏幕快照
+![](assets/brand-themes-16.png)
 
 **段落**
 
-您可以在此为不同的段落预设设置字体库、系列、大小、文本样式和文本对齐。
+为不同的段落预设设置字体库、系列、大小、文本样式和文本对齐。
 
-屏幕快照
+![](assets/brand-themes-17.png)
 
 ### 间距和边框 {#spacing-and-border}
 
