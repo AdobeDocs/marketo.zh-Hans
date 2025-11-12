@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '868'
 ht-degree: 11%
 
 ---
@@ -232,6 +232,12 @@ ht-degree: 11%
     <td>可用</td>
   </tr>
   <tr>
+    <td>品牌主题</td>
+    <td>能够在组织内<a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">应用批准的主题</a>，以确保样式、颜色、字体大小等元素的一致性。</td>
+    <td>不可用</td>
+    <td>可用</td>
+  </tr>
+  <tr>
     <td>图像到HTML</td>
     <td>能够<a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">将图像转换为HTML</a>，然后使用创建电子邮件。</td>
     <td>不可用</td>
@@ -253,18 +259,6 @@ ht-degree: 11%
     <td>Velocity脚本</td>
     <td>能够在电子邮件中使用Velocity脚本。</td>
     <td>可用</td>
-    <td>即将推出</td>
-  </tr>
-  <tr>
-    <td>品牌工具包</td>
-    <td>能够改进反映品牌准则的电子邮件。</td>
-    <td>不可用</td>
-    <td>即将推出</td>
-  </tr>
-  <tr>
-    <td>全局主题</td>
-    <td>能够在整个组织内应用已批准的主题，以确保样式、颜色、字体大小等元素的一致性。</td>
-    <td>不可用</td>
     <td>即将推出</td>
   </tr>
   <tr>

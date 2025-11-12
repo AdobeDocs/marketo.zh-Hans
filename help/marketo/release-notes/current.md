@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -35,6 +35,16 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><strong>电子邮件设计器 – 模板导入器（Beta）</strong>：可从经典电子邮件编辑器导入模板，以在 Design Studio 中创建与新版电子邮件设计器兼容的模板。</td>
    <td>已发布</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">模板导入</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件设计器 - 品牌主题</strong>：您现在可以在 Marketo Engage 中定义品牌主题。样式配置可以在各种不同的电子邮件模板和其他电子邮件资产中重复使用和应用，以确保品牌一致性。</td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">品牌主题</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -73,16 +83,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>电子邮件设计器 - A/B 测试</strong>：新的电子邮件设计器具有功能对等性，您可以执行 A/B 测试，查看哪些类型的内容会获得最佳响应。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件设计器 - 品牌主题</strong>：您现在可以在 Marketo Engage 中定义品牌主题。样式配置可以在各种不同的电子邮件模板和其他电子邮件资产中重复使用和应用，以确保品牌一致性。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
