@@ -5,10 +5,10 @@ description: 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 title: 概述
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 6389e9549ec8caf9d96e6524e46b61e801fc7806
+source-git-commit: 4c0c880202ea4785b157366d8d8712c830921d69
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 1%
+source-wordcount: '680'
+ht-degree: 4%
 
 ---
 
@@ -44,7 +44,9 @@ Email Designer是Marketo Engage中的一项最新创新，旨在提供经过改�
 
 +++
 
-## 可用文章 {#available-articles}
+## 受欢迎的文章 {#popular-articles}
+
+### 快速入门 {#getting-started}
 
 * [电子邮件创作](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：了解如何在新的编辑器中创建、设计和引用电子邮件。
 
@@ -52,21 +54,15 @@ Email Designer是Marketo Engage中的一项最新创新，旨在提供经过改�
 
 * [片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：了解如何创建和使用可视化内容片段，作为电子邮件和电子邮件模板的可重用组件。
 
-* [可自定义的片段](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：了解如何通过使其某些字段可编辑来自定义片段。
+### 新增功能 {#new-features}
 
-* [使用AEM资源](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：了解如何轻松访问AEM数字资源，以便在Marketo Engage中使用。
+* [图像到HTML转换器](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：上载电子邮件的PNG/JPEG兼容图像文件，该文件将自动转换为HTML以供在新的电子邮件Designer中使用。
 
-* [使用Adobe Express编辑图像](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}：了解如何使用Adobe Express在Adobe Marketo Engage电子邮件编辑器中编辑图像。
+* [品牌主题](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}：在Marketo Engage中定义品牌主题。 样式配置可以在各种不同的电子邮件模板和其他电子邮件资产中重复使用和应用，以确保品牌一致性。
 
-* [使用AI助手](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}：利用Adobe的创作AI技术，向电子邮件中添加有用的文本和/或图像。
+* [模板导入器](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}：从传统电子邮件编辑器导入电子邮件模板，以创建与Design Studio中的“新建电子邮件Designer”兼容的模板。
 
-* [在电子邮件模板中锁定内容](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：了解如何在电子邮件模板中锁定内容，从而帮助防止无意编辑或删除。
-
-* [使用Litmus测试电子邮件呈现](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}：利用您在Marketo Engage中的Litmus帐户，即时查看您的电子邮件在常用电子邮件客户端中的呈现方式。
-
-* [使用SpamAssassin检测垃圾邮件](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}：在Marketo Engage中使用SpamAssassin，您可以测试电子邮件内容并查看ISP/邮箱提供商将其标记为垃圾邮件的可能性。
-
-* [功能比较](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：比较以前的电子邮件编辑器(Email Editor 2.0)和新电子邮件编辑器Designer中各项功能的可用性。
+* [条件内容](/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md){target="_blank"}：新电子邮件Designer的奇偶校验功能，允许您实现令牌以外的电子邮件个性化。
 
 ## 常见问题解答 {#faq}
 
@@ -78,9 +74,9 @@ Email Designer是Marketo Engage中的一项最新创新，旨在提供经过改�
 
 所有程序均可访问新的电子邮件Designer电子邮件（交互式网络研讨会程序除外）。 克隆功能也可用。
 
-**我们现有的电子邮件模板是否可以在新设计器中工作？ 如果没有，我们是否需要使用新的设计器创建模板，以便所有节/模块对应于我们希望内容的外观？**
+**我们现有的电子邮件模板是否可以在新的设计器中工作？**
 
-新设计器中无法引用经典编辑器中的电子邮件模板。 您需要在新设计器中创建新模板。 但是，您&#x200B;_可以_&#x200B;将模板HTML导入新设计器中，然后进行必要的调整。 **注意**：即将推出与新设计器兼容的经典编辑器模板。
+是，但需要导入它们[](/help/marketo/product-docs/email-marketing/email-designer/import-template.md)。
 
 **我能否轻松地将新的设计器资源移动到其他程序？**
 
@@ -92,7 +88,7 @@ Email Designer是Marketo Engage中的一项最新创新，旨在提供经过改�
 
 **是否有办法强制执行品牌策略（字体、徽标和颜色）？**
 
-锁定内容节是新设计器的一部分，并且锁定样式、颜色等即将推出。
+是！使用[品牌主题](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md)创建和管理您的品牌指南。
 
 **是否使模板的模块更可自定义和可扩展？**
 
@@ -100,15 +96,11 @@ Email Designer是Marketo Engage中的一项最新创新，旨在提供经过改�
 
 **电子邮件模板创建过程在新设计器中如何工作？ 是WYSIWYG还是需要HTML知识？**
 
-它是WYSIWYG；不需要HTML知识。 您可以轻松地在设计器中创建模板，从而减少外部Web开发人员的需求。 但是，您仍然可以选择通过HTML更新CSS和编辑各个部分。 我们还正在努力研究一种将模板从经典编辑器轻松迁移到新设计器的方法。
+它是WYSIWYG；不需要HTML知识。 您可以轻松地在设计器中创建模板，从而减少外部Web开发人员的需求。 但是，您仍然可以选择通过HTML更新CSS和编辑各个部分。
 
 **新的电子邮件Designer是否支持AMP语言？**
 
 目前不支持AMP。
-
-**按属性分类的动态内容很好，但按区段分类的动态内容是否仍然有效？**
-
-目前，新设计器仅支持属性，但我们正在努力在将来的版本中添加区段。
 
 **如何判断我们的Marketo Engage订阅是否已迁移到IMS (Adobe Admin Console)？**
 
