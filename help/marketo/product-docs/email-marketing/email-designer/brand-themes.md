@@ -8,10 +8,10 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1201'
-ht-degree: 0%
+source-wordcount: '1097'
+ht-degree: 1%
 
 ---
 
@@ -21,17 +21,7 @@ ht-degree: 0%
 
 此功能使营销人员能够更快更轻松地利用具有视觉吸引力的品牌一致性电子邮件，同时提供高级自定义选项以满足独特的设计需求。
 
-## 注意事项 {#things-to-note}
-
-* 从头开始创建电子邮件时，您可以选择使用主题开始构建内容，以快速应用符合您的品牌和设计的特定样式。 如果选择“经典”模式，除非重置电子邮件，否则无法应用任何主题。
-
-* 片段在主题模式和经典模式之间不交叉兼容。 要在应用主题的内容中使用片段，必须在主题模式下创建片段。
-
-* 更新主题不会自动层叠到使用它们的所有资源。 您需要编辑单个对象以刷新主题。
-
-* 删除主题时，不会影响使用它们的资源。
-
-## 创建品牌主题 {#create-a-brand-theme}
+## 创建主题 {#create-a-theme}
 
 1. 按照步骤[创建电子邮件模板](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)。
 
@@ -47,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/brand-themes-3.png)
 
-## 设置
+## 设置 {#settings}
 
 可以通过右侧的图标访问所有设置选项。 让我们逐一回顾一下。
 
@@ -144,214 +134,263 @@ ht-degree: 0%
 
 ### 间距和边框 {#spacing-and-border}
 
-在此下，您可以为不同类型的结构或按钮设置填充和边距。  在第一个下拉菜单中选择类型，然后继续为该元素设置“填充”和/或“边距”。 如果适用，请逐一重复此操作。
+从多个不同的结构中进行选择，并自定义其边距、填充或边框。
 
-屏幕快照
+![](assets/brand-themes-18.png)
 
-结构类型如下：
+在以下示例中，我们正在自定义容器。
 
-屏幕快照
+**边距**
 
-示例元素的设置，如Container。
+![](assets/brand-themes-19.png)
 
-边距
+**内边距**
 
-屏幕快照
+![](assets/brand-themes-20.png)
 
-填充
+**角**
 
-屏幕快照
+![](assets/brand-themes-21.png)
 
-角
-
-屏幕快照
-
-边框
+**边框**
 
 将边框切换为打开以显示用于设置大小、样式和位置的选项。
 
-屏幕快照
+![](assets/brand-themes-22.png)
 
-样式的选项
+以下是更改边框样式的一些可视化示例。
 
-屏幕快照
+<table><thead>
+  <tr>
+    <th>类型</th>
+    <th>大小和样式设置</th>
+    <th>效果</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>虚线</td>
+    <td><img src="assets/brand-themes-23a.png"></td>
+    <td><img src="assets/brand-themes-23b.png"></td>
+  </tr>
+  <tr>
+    <td>虚线</td>
+    <td><img src="assets/brand-themes-24a.png"></td>
+    <td><img src="assets/brand-themes-24b.png"></td>
+  </tr>
+  <tr>
+    <td>实线</td>
+    <td><img src="assets/brand-themes-25a.png"></td>
+    <td><img src="assets/brand-themes-25b.png"></td>
+  </tr>
+</tbody></table>
 
-关于样式对框的影响的一些示例
+调整要显示或隐藏的边框边。 在以下示例中，隐藏了顶部边框。
 
-```
-TABLE
-
-Type
-
-Size and Style setting
-
-Effect
-
-Dashed
-
-Dotted
-
-Solid
-```
-
-调整边框是使用边框位置显示还是隐藏
-
-示例：下面的示例中隐藏了Top。
-
-```
-TABLE
-
-Position setting
-
-Effect
-```
-
-为不同类型的结构重复设置边距、内边距、边角和边框类型的设置。
+<table><thead>
+  <tr>
+    <th>位置设置</th>
+    <th>效果</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><img src="assets/brand-themes-26a.png"></td>
+    <td><img src="assets/brand-themes-26b.png"></td>
+  </tr>
+</tbody></table>
 
 ### 按钮设置 {#button-settings}
 
-在此下，您可以设置有关按钮的不同元素（颜色除外），如按钮形状、按钮半径、按钮文本和按钮大小。 您可以为3个预设设置这些值 — “主”、“次”和“第三”。
+为按钮设置非颜色元素，如形状、半径、文本和大小。 三个预设为：Primary、Secondary和Tertiary。
 
-屏幕快照
+![](assets/brand-themes-27.png)
 
-```
-TABLE
+<table><thead>
+  <tr>
+    <th>设置</th>
+    <th>描述</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>边框&gt;边框半径</td>
+    <td>按钮边框拐角曲率</td>
+  </tr>
+  <tr>
+    <td>边框&gt;边框大小 </td>
+    <td>按钮边框粗细</td>
+  </tr>
+  <tr>
+    <td>边框&gt;边框样式</td>
+    <td>按钮边框样式（虚线、实线、点状等）</td>
+  </tr>
+  <tr>
+    <td>主/次/第三</td>
+    <td>允许设置三个按钮配置预设</td>
+  </tr>
+  <tr>
+    <td>“大小”&gt;“高度”</td>
+    <td>按钮的高度设置</td>
+  </tr>
+  <tr>
+    <td>“大小”&gt;“宽度”</td>
+    <td>按钮的宽度设置</td>
+  </tr>
+  <tr>
+    <td>文本&gt;字体系列</td>
+    <td>按钮文本的字体系选择</td>
+  </tr>
+  <tr>
+    <td>文本&gt;字体库</td>
+    <td>按钮文本的字体库选择</td>
+  </tr>
+  <tr>
+    <td>文本&gt;字体大小</td>
+    <td>按钮文本的字体大小</td>
+  </tr>
+  <tr>
+    <td>文本&gt;文本对齐方式</td>
+    <td>按钮文本的对齐方式</td>
+  </tr>
+  <tr>
+    <td>“文本”&gt;“文本样式”</td>
+    <td>按钮文本的文本样式（粗体、斜体、下划线、删除线）</td>
+  </tr>
+</tbody></table>
 
-Primary/Secondary/Tertiary    Allows settings for 3 presets of button configurations
-Text > Font Library    Font library choice for button text
-Text > Font family    Font family choice for button text
-Text > Font size    Font size for button text
-Text > Text styles    Text style (bold, italicized, underlined, strikethrough) for button text
-Text > Text alignment    Alignment for button text
-Border> Border size     Button border thickness
-Border> Border style    Button border style (dashed, solid, dotted, etc.)
-Border> Border radius    Button border corner curvature
-SIZE > Height    Height setting for the button
-SIZE > Width    Width setting for the button
-```
+### 分隔条 {#divider}
 
-### 分隔线设置 {#divider-settings}
+设置分隔线的行类型和容器设置。
 
-在此下，您可以设置分隔线的行类型和容器设置。
-
-屏幕快照
+![](assets/brand-themes-28.png)
 
 ### 网格设置 {#grid-settings}
 
-使用“列”间隙控制网格中的间距。
+使用&#x200B;_列间距_&#x200B;控制网格中的间距。
 
-```
-TABLE
-```
+![](assets/brand-themes-29.png)
 
-完成后单击保存。
+<table><tbody>
+  <tr>
+    <td><img src="assets/brand-themes-30a.png"></td>
+    <td><img src="assets/brand-themes-30b.png"></td>
+  </tr>
+ <tr>
+    <td><img src="assets/brand-themes-31a.png"></td>
+    <td><img src="assets/brand-themes-31b.png"></td>
+  </tr>
+</tbody></table>
 
-屏幕快照
+完成后单击&#x200B;**保存**。
 
-## 编辑品牌主题 {#editing-brand-themes}
+![](assets/brand-themes-32.png)
 
-可在编辑器的模板选择面板中创建品牌主题。 您可以在创建新模板时访问此面板，或从编辑器中的Change Design访问此面板。
+## 编辑现有主题 {#edit-a-brand-theme}
 
-屏幕快照
+1. 按照步骤[创建电子邮件模板](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)。
 
-单击“更改设计”。
+1. 在&#x200B;_设计模板_&#x200B;屏幕中，选择&#x200B;**创建或编辑主题**。
 
-屏幕快照
+   ![](assets/brand-themes-33.png)
 
-单击创建或编辑主题
+1. 单击&#x200B;**我的主题**&#x200B;选项卡。
 
-屏幕快照
+   ![](assets/brand-themes-34.png)
 
-选择自定义主题以显示您的组织中创建的自定义主题列表。 选择一个主题，然后单击编辑。
+1. 选择所需的主题。 _创建_&#x200B;按钮将变为&#x200B;_编辑_&#x200B;按钮。 单击&#x200B;**编辑**。
 
-屏幕快照
+   ![](assets/brand-themes-35.png)
 
-现在，画布已打开以进行编辑。
+1. 将打开画布进行编辑。 在&#x200B;**[设置](#settings)**&#x200B;中的任何选项中进行所需的更改。
 
-屏幕快照
-
-修改右窗格中部分下的任何设置。
-
-屏幕快照
-
-完成后，单击保存。
-
-屏幕快照
+>[!TIP]
+>
+>请记住保存您的工作！
 
 ## 使用品牌主题 {#using-brand-themes}
 
-由此创建/编辑的品牌主题已准备好在电子邮件、电子邮件模板和片段资产中使用。
+在电子邮件、电子邮件模板和片段中利用主题。
 
-Adobe Marketo Engage：已准备好在使用新电子邮件编辑器创建的电子邮件、电子邮件模板和片段资产中利用由此创建/编辑的品牌主题。
-
-您可以在编辑器中创建结构和组件，并应用任何品牌主题及其任何变体。
+您可以在编辑器中创建结构和组件，并应用任何品牌主题及其变体。
 
 ### 在您的电子邮件中 {#in-your-emails}
 
-从头开始创建电子邮件/电子邮件模板
+1. 按照步骤[创建电子邮件](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email)。
 
-* 从“创建电子邮件”/“创建电子邮件模板”开始，选择“从头开始设计”选项
+1. 创建后，单击&#x200B;**编辑电子邮件内容**。
 
-* 在显示的模式中，选择“使用主题”
+   ![](assets/brand-themes-36.png)
 
-屏幕快照
+1. 从头开始选择&#x200B;**设计**。
 
-注意：只有使用此选项创建的电子邮件才能利用上一部分中定义的品牌主题
+   ![](assets/brand-themes-37.png)
 
-* 此新选项显示在右侧栏中，允许您在电子邮件中使用品牌主题
+1. 选择&#x200B;**使用主题**（默认情况下应该选择该主题），然后单击&#x200B;**确认**。
 
-屏幕快照
+   ![](assets/brand-themes-38.png)
 
-* 您可以从Adobe主题或为您的品牌创建的自定义主题中进行选择
+>[!NOTE]
+>
+>只有使用此选项创建的电子邮件才能利用您定义的品牌主题。
 
-屏幕快照
+1. 单击右侧栏中的&#x200B;_主题_&#x200B;图标。
 
-* 在画布中设计电子邮件内容并选择要应用于该内容的主题
+   ![](assets/brand-themes-39.png)
 
-* 一个电子邮件应仅包含一个品牌主题
+1. 从已创建的Adobe主题或主题中进行选择。
 
-* 对于在此资源中创建的任何组件，您可以从右侧窗格的“样式”选项卡中应用主题中可用的任何样式选项
+   ![](assets/brand-themes-40.png)
 
-* 例如，CTA可以配置为primary/secondary/tertiary
+   >[!NOTE]
+   >
+   >* 在画布中设计电子邮件内容，并选择要应用于该内容的主题。
+   >* 电子邮件只能包含一个品牌主题。
+   >* 对于在此资源中创建的任何组件，您可以从右侧窗格的“样式”选项卡中应用主题中可用的任何样式选项(例如，call-to-action可以配置为主/次/第三)。
 
-屏幕快照
+1. 实施所需的设计。 例如，可以选择文本组件以应用主题中定义的任何标题/段落样式。
 
-* 例如，可选择文本组件以应用主题中定义的任何标题/段落样式
+   ![](assets/brand-themes-41.png)
 
-屏幕快照
+   >[!NOTE]
+   >
+   >“样式”选项卡的外观不同于传统的手动样式设置电子邮件，在手动样式设置电子邮件中，组件样式更具创意性。
 
-* 请注意，现在“样式”选项卡的外观不同于传统的手动样式设置电子邮件，在手动样式设置电子邮件中，组件样式更具创意性
+### 使模板与主题兼容 {#make-a-template-compatible}
 
-### 从模板创建电子邮件/电子邮件模板
+1. 查找并选择所需的模板。
 
-* 在从预先存在的电子邮件模板创建电子邮件或电子邮件模板时，您可以利用主题，这些模板也是使用主题创建的
+1. 单击&#x200B;**编辑电子邮件模板**。
 
-* 从“创建电子邮件”/“创建电子邮件模板”开始，从“保存的模板”部分选择使用主题创建的电子邮件模板之一
+   ![](assets/brand-themes-42.png)
 
-* 现在，已自动应用保存的电子邮件模板中使用的主题
+1. 单击&#x200B;_主题_&#x200B;图标，然后单击&#x200B;**从内容生成主题**。
 
-屏幕快照
+   ![](assets/brand-themes-43.png)
 
-* 您还可以通过右侧栏中的“主题”选项更改此电子邮件/电子邮件模板中的主题
+1. 将打开&#x200B;_创建主题_&#x200B;窗口。 Marketo Engage会自动检测样式元素并将它们合并到新主题中。
 
-屏幕快照
+   ![](assets/brand-themes-44.png)
 
-* 您还可以将主题的任何变体应用于内容
+1. 命名您的主题。
 
-屏幕快照
+1. 进行所需的更改（就像从头开始创建主题时所做的那样）。 完成后单击&#x200B;**保存**。
 
-屏幕快照
+   ![](assets/brand-themes-45.png)
 
 ### 在您的片段中 {#in-your-fragments}
 
-从“创建新片段”开始
+1. 按照步骤[创建片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment)。
 
-从右侧栏中的“主题”选项中，选择所需的主题并应用相同的主题
+1. 使用&#x200B;**[设置](#settings)**&#x200B;中的选项设计内容主题。
 
-屏幕快照
+此后在画布中创建的所有片段内容将采用所选主题。 您还可以将主题的任何变体应用于内容。
 
-此后在画布中创建的所有片段内容将采用所选主题
+片段发布后，可用于使用主题创建的任何电子邮件/电子邮件模板。
 
-您还可以将主题的任何变体应用于内容
+## 注意事项 {#things-to-note}
 
-发布此片段后，此片段可用于使用主题创建的任何电子邮件/电子邮件模板
+* 从头开始创建电子邮件时，您可以选择使用主题开始构建内容，以快速应用符合您的品牌和设计的特定样式。 如果选择“经典”模式，除非重置电子邮件，否则无法应用任何主题。
+
+* 片段在主题模式和经典模式之间不交叉兼容。 要在应用主题的内容中使用片段，必须在主题模式下创建片段。
+
+* 更新主题不会自动层叠到使用它们的所有资源。 您需要编辑单个对象以刷新主题。
+
+* 删除主题时，不会影响使用它们的资源。
