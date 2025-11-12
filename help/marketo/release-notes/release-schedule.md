@@ -5,9 +5,9 @@ title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 71%
 
 **状态**：
 
-* **按计划** — 我们计划在指定日期发布这些功能和增强功能
-* **正在进行中** — 我们正在推出此版本的功能
-* **已发货** — 发行已完成
+* **按计划进行** – 我们计划在所示日期发布这些功能与改进
+* **进行中** – 我们正在逐步推出本次版本中的功能
+* **已发布** – 版本发布已完成
 
 _发布日期/功能可能会有所变更_
 
@@ -58,9 +58,9 @@ _发布日期/功能可能会有所变更_
    <td>2025 年 10 月 31 日</td>
    <td>进行中</td>
   </tr>
-  <td>1 月 26 日</td>
-   <td>2026年1月30日</td>
-   <td>按计划</td>
+  <td>2026 年 1 月</td>
+   <td>2026 年 1 月 30 日</td>
+   <td>按计划进行</td>
   </tr>
  </tbody>
 </table>
