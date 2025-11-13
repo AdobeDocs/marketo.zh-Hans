@@ -4,9 +4,9 @@ description: ' [!DNL Microsoft Dynamics] MSI插件版本 — Marketo文档 — �
 title: ' [!DNL Microsoft Dynamics] MSI的插件版本'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '433'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,9 @@ ht-degree: 1%
    <td>2.00.31</td>
    <td>更改了匿名Web活动上的分页。
    <p>
-   从用户视图中加密密钥信息。 导入新包后需要更改密码才能进行加密。</td>
+   从用户视图中加密密钥信息。 导入新包后需要更改密码才能进行加密。
+   <p>
+   更新MSI for Dynamics插件时，建议以刷新形式更新SOAP API密钥和MSI凭据，以确保在安装新包时不会发生任何访问权限。</td>
   </tr>
   <tr>
    <td>10/18/23</td>
