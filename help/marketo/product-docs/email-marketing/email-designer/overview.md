@@ -5,9 +5,9 @@ description: 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 title: 概述
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 4c0c880202ea4785b157366d8d8712c830921d69
+source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '659'
 ht-degree: 4%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 4%
 欢迎使用新的Adobe Marketo Engage电子邮件Designer。
 
 Email Designer是Marketo Engage中的一项最新创新，旨在提供经过改进的电子邮件和电子邮件模板创建体验，通过提供可视化的拖放编辑器和标准的现成模板来提高工作效率和效率。 轻松创建自定义的电子邮件模板，无需花钱购买供应商。
-
->[!NOTE]
->
->虽然可以在所有主要浏览器中访问电子邮件Designer，但当前不支持Firefox中的完整功能。
 
 ## 如何访问 {#how-to-access}
 
@@ -76,7 +72,7 @@ Email Designer是Marketo Engage中的一项最新创新，旨在提供经过改�
 
 **我们现有的电子邮件模板是否可以在新的设计器中工作？**
 
-是，但需要导入它们[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/import-template.md)。
+是，但需要导入它们[](/help/marketo/product-docs/email-marketing/email-designer/import-template.md)。
 
 **我能否轻松地将新的设计器资源移动到其他程序？**
 
