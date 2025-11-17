@@ -72,7 +72,7 @@ Email Designer是Marketo Engage中的一项最新创新，旨在提供经过改�
 
 **我们现有的电子邮件模板是否可以在新的设计器中工作？**
 
-是，但需要导入它们[](/help/marketo/product-docs/email-marketing/email-designer/import-template.md)。
+是，但需要导入它们[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/import-template.md)。
 
 **我能否轻松地将新的设计器资源移动到其他程序？**
 
