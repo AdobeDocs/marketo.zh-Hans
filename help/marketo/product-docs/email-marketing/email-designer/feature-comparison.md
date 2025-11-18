@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
-ht-degree: 11%
+source-wordcount: '865'
+ht-degree: 10%
 
 ---
 
@@ -244,22 +244,22 @@ ht-degree: 11%
     <td>可用</td>
   </tr>
   <tr>
+    <td>Velocity脚本</td>
+    <td>能够在电子邮件中使用Velocity脚本。</td>
+    <td>可用</td>
+    <td>可用</td>
+  </tr>
+  <tr>
     <td>支持移动、删除和导入包含电子邮件资产的程序</td>
     <td>能够移动、删除和导入电子邮件程序以及电子邮件资产。</td>
     <td>可用</td>
-    <td>即将推出</td>
+    <td>可用</td>
   </tr>
   <tr>
     <td>角色和权限</td>
     <td>能够添加电子邮件、电子邮件模板和片段的角色和权限。</td>
     <td>可用</td>
-    <td>即将推出</td>
-  </tr>
-  <tr>
-    <td>Velocity脚本</td>
-    <td>能够在电子邮件中使用Velocity脚本。</td>
     <td>可用</td>
-    <td>即将推出</td>
   </tr>
   <tr>
     <td>试验（A/B测试）</td>
