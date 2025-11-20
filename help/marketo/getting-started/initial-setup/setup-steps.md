@@ -191,7 +191,7 @@ ht-degree: 3%
 
 **`[DKIMDomain2]`**：主机记录是 **`[HostRecord2]`**，TXT 值为 **`[TXTValue2]`**。
 
-在遵循此处`[`的说明后&#x200B;**，为已设置的每个** DKIMDomain **复制** HostRecord **和** TXTValue[。 &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)在您的IT员工完成此步骤后，请不要忘记在&#x200B;**管理员>电子邮件> DKIM**&#x200B;中验证每个域。`]`
+在遵循此处`[`的说明后&#x200B;**，为已设置的每个** DKIMDomain **复制** HostRecord **和** TXTValue[。 ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)在您的IT员工完成此步骤后，请不要忘记在&#x200B;**管理员>电子邮件> DKIM**&#x200B;中验证每个域。`]`
 
 `5)`我们需要确保FROM域&#x200B;**`[FromDomain1]`**、**`[FromDomain2]`**&#x200B;等存在有效的MX记录。 你能确认一下吗？ 如果不能，请配置以映射到我们的公司域MX记录。 这将确保我们能够处理对Marketo邮件的回复/自动响应者。
 
@@ -270,7 +270,7 @@ Marketo Engage具有自定义跟踪JavaScript（称为[!DNL Munchkin]），可�
 
 ## 性能期望 {#performance-expectations}
 
-从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，在[Marketo Engage产品描述](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中的多个表中，您可以期望的性能级别与“标准”列中列出的性能水平相当。 “性能”和“性能提升”列是指提供[更高性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的性能层包。
+从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，在[Marketo Engage产品描述](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中的多个表中，您可以期望的性能级别与“标准”列中列出的性能水平相当。 “性能”和“性能提升”列是指提供[更高性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的性能层包。
 
 >[!MORELIKETHIS]
 >

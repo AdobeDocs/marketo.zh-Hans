@@ -5,7 +5,7 @@ title: Marketo Engage 术语表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 100%
 
@@ -184,7 +184,7 @@ ht-degree: 100%
    <td colspan="1">（参见<strong><a href="#predictivecontent">预测性内容</a></strong>）</td>
   </tr>
   <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>内容分析</strong></a></td>
+   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Content Analytics</strong></a></td>
    <td colspan="1"><strong>Web 个性化</strong>中的一个区域，用于显示从您网站发现的现有内容及其性能。</td>
   </tr>
   <tr>
@@ -285,7 +285,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">动态内容</a></strong></td>
-   <td colspan="1">根据您指定的条件在<strong>电子邮件</strong>或<strong>登陆页面</strong>中填充的内容（例如图片、代码段、文本等），可让您为读者提供个性化体验。 </td>
+   <td colspan="1">根据您指定的条件在<strong>电子邮件</strong>或<strong>登陆页面</strong>中填充的内容（例如图像、代码段、文本等），可让您为读者提供个性化体验。 </td>
   </tr>
  </tbody>
 </table>
@@ -744,7 +744,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" rel="nofollow">代码段</a></strong></td>
-   <td colspan="1">可预先创建的<strong>内容</strong>块（文本、图片），可快速插入到后续的<strong>登陆页面</strong>或<strong>电子邮件</strong>中。</td>
+   <td colspan="1">可预先创建的<strong>内容</strong>块（文本、图像），可快速插入到后续的<strong>登陆页面</strong>或<strong>电子邮件</strong>中。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>软退回</strong></td>
