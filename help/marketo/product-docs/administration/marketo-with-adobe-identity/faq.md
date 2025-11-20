@@ -3,10 +3,10 @@ description: Adobe Identity Management常见问题解答 — Marketo文档 — �
 title: Adobe Identity Management常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95ed91736b7276dd7a5b9e09958c1f09832ae719
 workflow-type: tm+mt
-source-wordcount: '1645'
-ht-degree: 0%
+source-wordcount: '1579'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe Identity Management System包含三个组件。
 
 **迁移后，Marketo Engage URL是否将保持不变？**
 
-不会。迁移后，URL将以下列格式显示： `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (XXX表示Munchkin ID，@tenantID来自您的Adobe组织)。
+不是。迁移后，URL将以下列格式显示： `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (XXX表示Munchkin ID，@tenantID来自您的Adobe组织)。
 
 **需要执行任何操作以准备进行URL更改吗？**
 
@@ -40,7 +40,7 @@ Adobe Identity Management System包含三个组件。
 
 **此项是否适用于SSO？**
 
-可以。与Adobe IMS的集成支持通用ID用户和SSO。 SSO现在由Adobe IMS驱动，在Adobe Admin Console的组织级别设置。 但是，与Marketo Engage SP启动的支持相比，Adobe IdP启动的支持存在差异（[在此了解更多](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}）。 如果您在迁移到Admin Console后需要有关SSO差异的帮助，请联系[Adobe客户关怀](https://helpx.adobe.com/cn/contact.html){target="_blank"}。
+可以。与Adobe IMS的集成支持通用ID用户和SSO。 SSO现在由Adobe IMS驱动，在Adobe Admin Console的组织级别设置。 但是，与Marketo Engage SP启动的支持相比，Adobe IdP启动的支持存在差异（[在此了解更多](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}）。 如果您在迁移到Admin Console后需要有关SSO差异的帮助，请联系[Adobe客户关怀](https://helpx.adobe.com/contact.html){target="_blank"}。
 
 **Adobe产品管理员与Marketo Engage管理员有何区别？**
 
@@ -71,11 +71,11 @@ Adobe Identity Management System包含三个组件。
 
 **Marketo用户角色（位于工作区中）是否在Adobe Admin Console中进行管理？**
 
-不会。用户角色管理（在工作区中）在Marketo Engage中完成。
+不是。用户角色管理（在工作区中）在Marketo Engage中完成。
 
 **我是IMS集成订阅中的Marketo管理员，无权访问Admin Console。 如何获取访问权限？**
 
-任何有权访问贵组织Admin Console的Adobe系统或产品管理员都可以为您提供访问权限。 如果您不确定贵组织中的哪些人具有控制台中的管理员权限，请联系[Adobe客户关怀团队](https://helpx.adobe.com/cn/contact.html){target="_blank"}。
+任何有权访问贵组织Admin Console的Adobe系统或产品管理员都可以为您提供访问权限。 如果您不确定贵组织中的哪些人具有控制台中的管理员权限，请联系[Adobe客户关怀团队](https://helpx.adobe.com/contact.html){target="_blank"}。
 
 **管理员如何将用户添加到Marketo [!DNL Sales Connect]？**
 
@@ -83,7 +83,7 @@ Adobe Identity Management System包含三个组件。
 
 **在哪里可以了解有关Adobe Admin Console的更多信息？**
 
-[https://helpx.adobe.com/cn/enterprise/admin-guide.html](https://helpx.adobe.com/cn/enterprise/admin-guide.html){target="_blank"}。
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/cn/enterprise/admin-guide.html){target="_blank"}。
 
 **我是否仍要转到Marketo中的“管理员”部分以更改我的帐户？**
 
@@ -107,7 +107,7 @@ Adobe IMS当前不支持Marketo的设备授权功能等任何功能。
 
 **仍然可以使用“在邀请用户对话框中登录”功能来使用户的登录在其电子邮件中是唯一的？**
 
-不会。订阅启用了IMS时，用户邀请工作流不再有效，因此功能不再有效。 Adobe身份要求用户的身份由其电子邮件驱动。
+不是。订阅启用了IMS时，用户邀请工作流不再有效，因此功能不再有效。 Adobe身份要求用户的身份由其电子邮件驱动。
 
 **对于Adobe IMS，我们是否可以选择使用Adobe ID、Enterprise ID或Federated ID？**
 
@@ -123,11 +123,9 @@ Adobe IMS当前不支持Marketo的设备授权功能等任何功能。
 
 **如果我的订阅使用IP限制设置，则在迁移Adobe身份后会发生什么情况？**
 
-将订阅登记到Adobe Identity后，IP限制设置不会迁移到Adobe Admin Console。 Marketo的IP限制设置包括仅允许从特定IP地址访问，以及阻止特定IP地址访问。 目前，Adobe Identity Management System不支持IP限制功能。
+您当前的IP限制将在2026年第1季度保持有效（这适用于在迁移前启用这些限制的订阅）。 这些限制也适用于Adobe ID用户，因此您的访问控制将继续按预期工作。
 
-Adobe Identity Management System将于2025年年中发布一项功能，该功能仅允许特定IP地址，支持当前使用此功能的Marketo用户的过渡。 在功能发布之前，当前使用此功能的用户将不会进行用户迁移。 交付功能后，用户将收到其迁移已安排的通知。 有关该功能的更多信息，将在可用时提供。
-
-当前使用IP限制（阻止访问特定地址）的用户在迁移到Adobe Identity后将无法再使用此功能，因为Adobe Identity Management System不支持此功能。
+从2026年第1季度开始，将取消旧版IP限制。 从那时起，基于IP的访问将在Adobe Admin Console (AAC)中专门进行管理。 要维护安全访问，您需要在AAC中配置IP限制。 有关详细信息，请参阅此[营销国家博客文章](https://nation.marketo.com/t5/product-blogs/updated-important-update-ip-restrictions-feature-transition/ba-p/358420){target="_blank"}。
 
 **如果我的用户具有“绕过单点登录”的选项，则在迁移Adobe Identity后会发生什么情况？**
 
@@ -143,7 +141,7 @@ Adobe Admin Console附带默认的Business ID目录。 在Adobe组织的Federate
 
 **如何防止会话超时？**
 
-在[高级设置](https://helpx.adobe.com/cn/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}中，您可以自定义所需的最长会话寿命（需要系统管理员权限）。 建议在产品迁移之后、用户迁移之前建立此设置。
+在[高级设置](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}中，您可以自定义所需的最长会话寿命（需要系统管理员权限）。 建议在产品迁移之后、用户迁移之前建立此设置。
 
 **我现在必须导航到Experience Cloud才能访问Marketo Engage。 是否有办法简化此流程？**
 
