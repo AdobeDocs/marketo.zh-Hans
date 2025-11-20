@@ -68,7 +68,7 @@ Web访客可以通过选择“不跟踪”(DNT)来设置浏览器，以防止任
 
 营销人员可以通过使用匿名处理的IP地址跟踪用户来维护隐私。 为此，请将此代码添加到嵌入到网站中的RTP或[!DNL Munchkin] Javascript中。
 
-* 对于[!DNL Munchkin]，只需将`{"anonymizeIP",true}`添加到[init函数](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}中。
+* 对于[!DNL Munchkin]，只需将`{"anonymizeIP",true}`添加到[init函数](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}中。
 
 * 对于Web Personalization (RTP)，请将其添加到Javascript：
 
