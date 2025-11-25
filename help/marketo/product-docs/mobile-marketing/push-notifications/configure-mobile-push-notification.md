@@ -1,12 +1,11 @@
 ---
-unique-page-id: 7512454
 description: 配置移动推送通知 — Marketo文档 — 产品文档
 title: 配置移动推送通知
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -27,7 +26,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >如果您的推送消息仅应用于一个平台(例如iOS)，则可以通过手动将其选择器滑动到&#x200B;**已禁用**&#x200B;来排除另一个平台。
+   >如果您的推送消息仅应用于一个平台(例如，iOS)，则可以通过手动将其选择器滑动到&#x200B;**已禁用**&#x200B;来排除另一个平台。
 
 1. 单击 **[!UICONTROL Next]**。
 
@@ -55,11 +54,7 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-6.png)
 
-   >[!NOTE]
-   >
-   >消息和点按操作在这两个平台上的外观都相同。
-
-1. 仅对于iOS，选中此复选框可告知应用程序在消息到达时播放提示音。 Android会自动播放声音。
+1. 对于iOS，请选中此复选框，以告知应用程序在消息到达时播放提示音。 Android会自动播放声音。
 
    ![](assets/configure-mobile-push-notification-7.png)
 
@@ -71,7 +66,13 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-9.png)
 
-恭喜！现在，推送通知已准备好发送。
+推送通知已准备好发送。
+
+如果收到错误： `Limited Access: You do not have sufficient privileges to perform this action`，请确保已为该用户设置了&#x200B;**Access Design Studio** > `Access Landing Page`权限，并至少设置下列权限之一：
+
+* 批准推送通知
+* 删除推送通知
+* 编辑推送通知
 
 ## 深层链接URI {#deep-link-uris}
 
@@ -81,7 +82,7 @@ ht-degree: 3%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-也就是说，您应用程序的深层链接结构可能与上述示例不同。 您的开发人员在定义深层链接URI时有很多选项，因此请让您的开发人员向您发送您有兴趣使用的页面的URI（链接）。 这将确保您在推送消息中输入的URI指向正确的位置。 您的开发人员可以[在此查找更多信息](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
+也就是说，您应用程序的深层链接结构可能与上述示例不同。 您的开发人员在定义深层链接URI时有很多选项，因此请要求您的开发人员向您发送您有兴趣使用的页面的URI（链接）。 这可确保您在推送消息中输入的URI指向正确的位置。 您的开发人员可以[在此查找更多信息](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
 
 >[!MORELIKETHIS]
 >
