@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
+source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '866'
 ht-degree: 10%
 
 ---
@@ -253,7 +253,7 @@ ht-degree: 10%
     <td>支持移动、删除和导入包含电子邮件资产的程序</td>
     <td>能够移动、删除和导入电子邮件程序以及电子邮件资产。</td>
     <td>可用</td>
-    <td>可用</td>
+    <td>不可用</td>
   </tr>
   <tr>
     <td>角色和权限</td>
