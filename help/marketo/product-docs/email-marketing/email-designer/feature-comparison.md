@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
 source-wordcount: '866'
 ht-degree: 10%
@@ -250,12 +250,6 @@ ht-degree: 10%
     <td>可用</td>
   </tr>
   <tr>
-    <td>支持移动、删除和导入包含电子邮件资产的程序</td>
-    <td>能够移动、删除和导入电子邮件程序以及电子邮件资产。</td>
-    <td>可用</td>
-    <td>不可用</td>
-  </tr>
-  <tr>
     <td>角色和权限</td>
     <td>能够添加电子邮件、电子邮件模板和片段的角色和权限。</td>
     <td>可用</td>
@@ -284,6 +278,12 @@ ht-degree: 10%
     <td>能够修改电子邮件、电子邮件模板和片段的HTML内容。</td>
     <td>可用</td>
     <td>待定</td>
+  </tr>
+  <tr>
+    <td>支持移动、删除和导入包含电子邮件资产的程序</td>
+    <td>能够移动、删除和导入电子邮件程序以及电子邮件资产。</td>
+    <td>可用</td>
+    <td>不可用</td>
   </tr>
   <tr>
     <td>预测性内容</td>
