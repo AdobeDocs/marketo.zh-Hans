@@ -4,16 +4,20 @@ description: 电子邮件编辑器v2.0概述 — Marketo文档 — 产品文档
 title: 电子邮件编辑器 v2.0 概述
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 2%
+source-wordcount: '436'
+ht-degree: 1%
 
 ---
 
 # 电子邮件编辑器 v2.0 概述 {#email-editor-v2-overview}
 
-当您决定激活[!DNL Email Editor v2.0]时，您会注意到几项新功能。
+经典电子邮件编辑器的概述。
+
+>[!IMPORTANT]
+>
+>虽然没有确切的日期设置，但经典电子邮件编辑器可能会在2026年的某个时间被弃用（我们将宣布拥有此编辑器的确切日期）。 强烈建议开始采用高级[Email Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}，因为它具有许多经典编辑器中不可用的功能。
 
 **电子邮件模板选取器**
 
