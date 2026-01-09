@@ -3,9 +3,9 @@ description: GenAI功能 — Marketo文档 — 产品文档
 title: GenAI功能
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 * **自动生成章节**： AI支持的技术为您的网络研讨会内容创建章节。
 
 * **AI生成的摘要**：获取网络研讨会的自动文本摘要。
+
+* **基于人工智能的博客生成**：允许您从网络研讨会自动生成品牌博客内容。
 
 * **可编辑内容**：如果需要，可使用手动和AI支持的编辑功能修改生成的章节和摘要。
 
@@ -109,6 +111,8 @@ ht-degree: 0%
 * 删除或合并章节仅影响章节栈栈，不影响视频内容本身。 这些操作是永久性的。
 
 * GenAI功能非常灵活，可与各种网页编辑器一起使用，而不仅仅是Marketo Engage中的编辑器。
+
+* 只有研讨厅的会议才可供产生博客。 只有拥有“活动模块”或“研讨会（共享房间/活动）”许可证的客户才能使用研讨会房间。
 
 * 始终预览您的更改以确保所需的功能和外观。
 

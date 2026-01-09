@@ -3,9 +3,9 @@ description: 交互式网络研讨会自定义 — Marketo文档 — 产品文�
 title: 交互式网络研讨会自定义
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### 自定义文件室界面 {#customize-the-room-interface}
+## 自定义文件室界面 {#customize-the-room-interface}
 
 您可以通过更改徽标、可单击的重定向链接和颜色来自定义会话室的外观。 您的更改将反映在您组织的所有活动和工作室中。
 
@@ -134,3 +134,11 @@ Adobe Connect提供了9个随时可用的默认背景。 可以在“预览”�
 ![](assets/interactive-webinars-customization-13.png)
 
 选择&#x200B;**应用**&#x200B;以保存更改，或选择&#x200B;**重置为默认值**&#x200B;以重置为默认设置。
+
+### 创建可自定义的主题 {#create-customizable-themes}
+
+* 管理员可以使用自定义徽标、颜色和视频背景来创建/管理主题。
+
+* 房东可以在创建房间时选择主题，或稍后从房间信息页面更新主题（**房间顶部栏** > **更多菜单** > **查看房间信息**）。
+
+了解有关[主题](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}的更多信息。
