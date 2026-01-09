@@ -4,9 +4,9 @@ description: 了解SEO功能板 — SEO快照 — Marketo文档 — 产品文档
 title: 了解SEO功能板 — SEO快照
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '277'
 ht-degree: 3%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 3%
 # 了解 SEO 仪表板：SEO 快照 {#understanding-the-seo-dashboard-seo-snapshot}
 
 使用功能板全面了解关键词排名的趋势以及您的网站针对SEO优化的程度。
+
+>[!IMPORTANT]
+>
+>2026年3月31日，Marketo Engage将弃用搜索引擎优化功能。 请在3月30日或之前导出任何相关数据。 [了解详情](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [导出问题](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [导出关键字结果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [导出关键词趋势](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [导出竞争者关键词趋势](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 要了解要重点改进您的SEO工作，请使用此仪表板的[[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)部分。
 

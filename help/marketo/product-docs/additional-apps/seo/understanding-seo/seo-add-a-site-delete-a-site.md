@@ -4,9 +4,9 @@ description: SEO — 添加站点/删除站点 — Marketo文档 — 产品文�
 title: SEO - 添加站点/删除站点
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '201'
 ht-degree: 8%
 
 ---
@@ -15,9 +15,14 @@ ht-degree: 8%
 
 要让Marketo拉取与网站页面相关的数据（入站链接和推荐），您必须在此处定义网站的URL。
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+>2026年3月31日，Marketo Engage将弃用搜索引擎优化功能。 请在3月30日或之前导出任何相关数据。 [了解详情](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [导出问题](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [导出关键字结果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [导出关键词趋势](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [导出竞争者关键词趋势](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## [!UICONTROL Add a Site] {#add-a-site}
 

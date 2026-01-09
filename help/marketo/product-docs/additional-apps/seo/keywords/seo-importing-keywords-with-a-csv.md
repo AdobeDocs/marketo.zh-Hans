@@ -4,16 +4,25 @@ description: SEO — 使用CSV导入关键字 — Marketo文档 — 产品文档
 title: SEO - 使用 CSV 导入关键词
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 13%
+source-wordcount: '151'
+ht-degree: 11%
 
 ---
 
 # SEO - 使用 CSV 导入关键词 {#seo-importing-keywords-with-a-csv}
 
-1. 您可以[手动添加关键字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)、[获取关键字建议](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)，甚至可以从CSV文件导入关键字。 下面是如何导入的。
+您可以[手动添加关键字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)、[获取关键字建议](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)，甚至可以从CSV文件导入关键字。 下面是如何导入的。
+
+>[!IMPORTANT]
+>
+>2026年3月31日，Marketo Engage将弃用搜索引擎优化功能。 请在3月30日或之前导出任何相关数据。 [了解详情](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [导出问题](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [导出关键字结果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [导出关键词趋势](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [导出竞争者关键词趋势](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. 转到&#x200B;**[!UICONTROL Keywords]**&#x200B;部分。
 

@@ -4,16 +4,25 @@ description: SEO — 使用竞争对手KW趋势报表 — Marketo文档 — 产�
 title: SEO - 使用竞争对手关键词趋势报告
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 12%
+source-wordcount: '198'
+ht-degree: 10%
 
 ---
 
 # SEO - 使用竞争对手关键词趋势报告 {#seo-use-the-competitor-kw-trends-report}
 
 在此报表中，您可以看到您和您的竞争对手在一段时间内按关键字排名的方式。
+
+>[!IMPORTANT]
+>
+>2026年3月31日，Marketo Engage将弃用搜索引擎优化功能。 请在3月30日或之前导出任何相关数据。 [了解详情](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [导出问题](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [导出关键字结果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [导出关键词趋势](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [导出竞争者关键词趋势](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## 查找报表 {#find-reports}
 
