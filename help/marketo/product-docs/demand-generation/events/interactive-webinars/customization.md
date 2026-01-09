@@ -141,4 +141,4 @@ Adobe Connect提供了9个随时可用的默认背景。 可以在“预览”�
 
 * 房东可以在创建房间时选择主题，或稍后从房间信息页面更新主题（**房间顶部栏** > **更多菜单** > **查看房间信息**）。
 
-了解有关[主题](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}的更多信息。
+了解有关[主题](https://helpx.adobe.com/cn/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}的更多信息。
