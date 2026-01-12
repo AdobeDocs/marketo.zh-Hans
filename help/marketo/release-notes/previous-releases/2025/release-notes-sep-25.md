@@ -33,7 +33,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>按需网络研讨会活动保留</strong>：交互式网络研讨会用户现在可以获得按需网络研讨会仪表板数据超过 30 天（以前，从网络研讨会之日起最多只能获得 30 天）。</td>
    <td>已发布</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手动同步</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手动同步</a></td>
   </tr>
   <tr>
    <td> </td>
