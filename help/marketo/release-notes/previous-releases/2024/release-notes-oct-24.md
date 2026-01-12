@@ -3,7 +3,7 @@ description: 发行说明 — 2024年10月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 10 月
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 16%
@@ -92,7 +92,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **批量提取API更新**：我们修复了批量提取API中涉及columnHeaderNames选项的问题，该选项允许您在导出的文件中指定自定义列标题名称。 以前，包含非ASCII字符的列标题名称可能会损坏。
 
-* **Rest API access_token参数弃用**：用于验证Marketo REST API调用的“access_token”查询参数已被弃用，并将在2026年1月31日之后不可用。 所有新集成和现有集成都应使用“授权”标头[对REST API调用进行身份验证，如此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)所述。
+* **Rest API access_token参数弃用**：用于验证Marketo REST API调用的“access_token”查询参数已被弃用，并将在2026年3月31日之后不可用。 所有新集成和现有集成都应使用“授权”标头[对REST API调用进行身份验证，如此处](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)所述。
 
 * **QR代码弃用**： 2024年10月4日，将弃用推送通知和应用程序内消息传送资产中使用的该QR代码功能。 这包括为新的测试设备使用二维码，以及创建具有二维码的新资产。 弃用使用率较低的功能后，我们可以重新分配其资源用于Marketo Engage的整体维护。
 
