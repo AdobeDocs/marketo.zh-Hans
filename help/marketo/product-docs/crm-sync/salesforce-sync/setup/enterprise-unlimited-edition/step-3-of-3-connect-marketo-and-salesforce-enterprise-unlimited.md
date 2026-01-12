@@ -4,9 +4,9 @@ description: 第3步（共3步） — 连接Marketo和Salesforce (Enterprise/Unl
 title: 第3步（共3步） — 连接Marketo和Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f27e0d42161161347cc4c774853fb04e7ccecb5c
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您看到“登录到[!DNL Salesforce]”按钮而不是用户名/密码/令牌字段，则会为OAuth启用您的Marketo订阅。 请[参阅此文章](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)。 使用一组凭据开始同步后，**不会切换[!DNL Salesforce]凭据或订阅**。 如果您希望使用基本身份验证，请联系您的客户成功经理。
+   >如果您看到“登录到[!DNL Salesforce]”按钮而不是用户名/密码/令牌字段，则会为OAuth启用您的Marketo订阅。 请[参阅此文章](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)。 使用一组凭据开始同步后，**不会切换[!DNL Salesforce]凭据或订阅**。 如果要使用基本身份验证，请联系您的客户经理。
 
 1. 阅读警告，然后单击&#x200B;**[!UICONTROL Confirm Credentials]**。
 
