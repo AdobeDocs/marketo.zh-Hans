@@ -104,7 +104,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## Adobe Connect功能 {#adobe-connect-features}
 
-Adobe Connect团队已发布这些功能。 Marketo Engage [交互式网络研讨会](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"}由Adobe Connect提供支持。 因此，以下功能仅适用于交互式网络研讨会用户。
+Adobe Connect团队已发布这些功能。 Marketo Engage [交互式网络研讨会](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"}由Adobe Connect提供支持。 因此，以下功能仅适用于交互式网络研讨会用户。
 
 * **调查Pod**： Adobe Connect 12.11引入了一个新的Survey Pod，允许主机直接在实时会话中设计和提交结构化反馈表单。
 
@@ -112,7 +112,7 @@ Adobe Connect团队已发布这些功能。 Marketo Engage [交互式网络研�
 
 * **增强的房间界面体验**： Adobe Connect 12.11引入了一个刷新和更现代的房间界面，该界面构建于Adobe最新的Spectrum 2设计框架之上，与跨其他Adobe产品(如Creative Cloud和Experience Cloud)使用的视觉语言一致。
 
-有关完整的详细信息，请参阅[Adobe Connect 12.11发行说明](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
+有关完整的详细信息，请参阅[Adobe Connect 12.11发行说明](https://helpx.adobe.com/cn/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
 
 ## 公告 {#announcements}
 
