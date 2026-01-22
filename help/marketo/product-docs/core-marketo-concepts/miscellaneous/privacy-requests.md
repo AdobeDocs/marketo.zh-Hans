@@ -2,7 +2,7 @@
 description: 隐私请求 — Marketo文档 — 产品文档
 title: 隐私请求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 0105c6480f75f8daf3db61cd400a4956698839d9
+source-git-commit: 245e8b2b25a7c51e8e46ace31e189a6132a9ada7
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 16%
@@ -25,7 +25,7 @@ ht-degree: 16%
 
 您可以通过两种方式提交单个请求以从Marketo Engage访问和删除消费者数据：
 
-* 通过Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 请参阅[此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hans#){target="_blank"}的文档。
+* 通过Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 请参阅[此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html#){target="_blank"}的文档。
 * 通过Privacy Service API。 请参阅[此处](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}的文档和[此处](https://developer.adobe.com/experience-platform-apis/){target="_blank"}的 API 信息。
 
 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hans){target="_blank"}支持两种类型的请求：数据访问和数据删除。
@@ -196,4 +196,4 @@ JSON响应
 
 >[!MORELIKETHIS]
 >
->[隐私管理](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+>[隐私管理](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md){target="_blank"}
