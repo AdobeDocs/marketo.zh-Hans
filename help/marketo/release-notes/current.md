@@ -103,11 +103,11 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **增强的房间界面体验**：体验刷新后更现代的房间界面，该界面构建于Adobe最新的Spectrum 2设计框架之上，与跨其他Adobe产品(如Creative Cloud和Experience Cloud)使用的视觉语言一致。
 
-访问[此页面](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}了解全部详细信息。
+访问[此页面](https://helpx.adobe.com/cn/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}了解全部详细信息。
 
 ## 公告 {#announcements}
 
-* **Marketo社区迁移完成**：新的Adobe Experience League社区现已上线！ [已进行几项增强](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"}，以使您的Marketo社区体验更好。 [签出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}。
+* **Marketo社区迁移完成**：新的Adobe Experience League社区现已上线！ [已进行几项增强](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=zh-Hans){target="_blank"}，以使您的Marketo社区体验更好。 [签出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hans){target="_blank"}。
 
 * **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年3月31日之后不可用。 所有新集成和现有集成都应使用 &#39;Authorization&#39; 头部进行 REST API 调用的身份验证，详细说明[请参阅此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
