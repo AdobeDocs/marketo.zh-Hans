@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '9325'
+source-wordcount: '9329'
 ht-degree: 99%
 
 ---
@@ -661,7 +661,7 @@ ht-degree: 99%
          + [聊天机器人行为](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [会议列表](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat 活动](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [分析](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [常见问题解答](product-docs/demand-generation/dynamic-chat/faq.md)
          + 设置和配置 {#setup-and-configuration}
             + [初始设置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1026,7 +1026,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
@@ -1172,7 +1172,7 @@ ht-degree: 99%
          + [在 Sales Connect 中通过 SAML 2.0 设置单点登录 (SSO)](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [共享设置](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [用户访问详情](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analytics {#analytics}
+      + 分析 {#analytics}
          + [Analytics 页面概述](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [了解“内容”选项卡](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [了解“我”选项卡](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1385,7 +1385,7 @@ ht-degree: 99%
             + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [将销售操作数据与 Marketo 和 Salesforce 同步](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [用户访问详情](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analytics {#analytics}
+         + 分析 {#analytics}
             + [Analytics 页面概述](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [了解“内容”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [了解“我”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1620,7 +1620,7 @@ ht-degree: 99%
          + [了解应用程序内消息](product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
          + 创建应用程序内消息 {#creating-in-app-messages}
             + [创建应用程序内消息](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
-            + [添加应用程序内消息图片](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)
+            + [添加应用程序内消息图像](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)
             + [为您的应用程序内消息选择布局](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
             + [创建应用程序内消息文本](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)
             + [设置关闭按钮并批准消息](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)
@@ -1978,6 +1978,7 @@ ht-degree: 99%
          + [发行说明：2025 年 7 月](release-notes/previous-releases/2025/release-notes-july-25.md)
          + [发行说明：2025 年 8 月](release-notes/previous-releases/2025/release-notes-aug-25.md)
          + [发行说明：2025 年 9 月](release-notes/previous-releases/2025/release-notes-sep-25.md)
+         + [发行说明： 2025年10月](release-notes/previous-releases/2025/release-notes-oct-25.md)
       + 2024 {#2024}
          + [发行说明：2024 年 1 月](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [发行说明：2024 年 3 月](release-notes/previous-releases/2024/release-notes-mar-24.md)

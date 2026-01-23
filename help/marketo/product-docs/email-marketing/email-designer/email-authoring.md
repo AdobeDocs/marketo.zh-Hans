@@ -4,9 +4,9 @@ title: 电子邮件创作
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '1721'
+source-wordcount: '1749'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 1%
 
    ![](assets/create-an-email-1.png)
 
-1. 在树中选择&#x200B;**电子邮件（新编辑器）**。
+1. 在树中选择&#x200B;**电子邮件（新）**。
 
    ![](assets/create-an-email-2.png)
 
@@ -71,7 +71,7 @@ ht-degree: 1%
 
 ## 选择您的内容类型 {#choose-your-content-type}
 
-1. 在刚刚创建的电子邮件中，单击&#x200B;**添加电子邮件内容**。
+1. 在刚刚创建的电子邮件中，单击&#x200B;**编辑电子邮件内容**。
 
    ![](assets/choose-your-content-type-1.png)
 
@@ -88,6 +88,12 @@ ht-degree: 1%
 在电子邮件编辑器中从头开始时，请使用以下选项来定义您的内容。
 
 1. 在&#x200B;_创建电子邮件_&#x200B;页面中，选择&#x200B;**从头开始设计**。
+
+1. 从主题（推荐）开始或从头开始构建和手动样式选择。
+
+   >[!NOTE]
+   >
+   >使用手动样式创建的电子邮件无法使用使用主题创建的片段
 
 1. 将[结构和内容](#add-structure-and-content)添加到您的电子邮件中。
 
@@ -195,7 +201,7 @@ ht-degree: 1%
 >
 >如果希望片段占据电子邮件中的整个水平布局，请添加1:1列结构，然后将片段拖放到其中。
 
-保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_&#x200B;选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
+保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
 
 ### 添加Assets {#add-assets}
 
@@ -227,13 +233,13 @@ ht-degree: 1%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_&#x200B;工具并选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
    * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 
