@@ -22,12 +22,12 @@ ht-degree: 99%
       + [用户设置](getting-started/initial-setup/user-setup.md)
    + 实施新的 Marketo Engage 实例 {#implementing-a-new-marketo-engage-instance}
       + [从何入手](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [新实例最佳实践：管理部分检查表](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [新实例最佳实践：数据库检查表](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新实例最佳实践：设计工作室检查表](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [新实例最佳实践：营销活动检查表](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [新实例最佳实践：分析检查表](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
-      + [新实例最佳实践：记录您的设置](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [新实例最佳做法：管理部分检查表](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新实例最佳做法：数据库检查表](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新实例最佳做法：设计工作室检查表](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新实例最佳做法：营销活动检查表](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [新实例最佳做法：分析检查表](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
+      + [新实例最佳做法：记录您的设置](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 须知事项 {#things-to-know}
       + [Marketo Engage 术语表](getting-started/things-to-know/marketo-engage-glossary.md)
       + [图标术语表](getting-started/things-to-know/icon-glossary.md)
@@ -138,10 +138,10 @@ ht-degree: 99%
             + [编辑默认品牌域名](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
             + [覆盖电子邮件的主域名](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
          + [更改 Velocity 脚本中的自定义对象检索限制](product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)
-         + [更改默认发件人邮箱和发件人标签](product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)
+         + [更改默认发件人邮件和发件人标签](product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)
          + [编辑取消订阅消息](product-docs/administration/email-setup/edit-the-unsubscribe-message.md)
          + [为不同语言动态设置取消订阅消息](product-docs/administration/email-setup/edit-the-unsubscribe-message/make-your-unsubscribe-message-dynamic-for-languages.md)
-         + [编辑“以 网页形式查看”消息](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
+         + [编辑“以网页形式查看”消息](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [启用通信限制](product-docs/administration/email-setup/enable-communication-limits.md)
          + [为智能营销活动启用人员限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [在营销活动级别启用电子邮件打开跟踪](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
@@ -185,7 +185,7 @@ ht-degree: 99%
          + [导出自定义对象元数据](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + 将 Marketo 与 Adobe Identity 集成 {#marketo-with-adobe-identity}
          + [快速指南](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [Adobe 身份管理概述](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
+         + [Adobe Identity 管理概述](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [管理员设置](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [产品管理员设置](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [为启用 Adobe IMS 的订阅添加仅限 API 用户](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -257,7 +257,7 @@ ht-degree: 99%
       + [Adobe Experience Cloud 集成概述](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
       + [设置 Adobe 组织映射](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [从 Adobe Experience Cloud 同步受众](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
-      + [使用 Adobe Experience Manager 导入资产](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [使用 Adobe Experience Manager 导入资源](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
       + [Adobe Experience Cloud 界面概述](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Marketo 核心概念 {#core-marketo-concepts}
       + 智能营销活动 {#smart-campaigns}
@@ -318,7 +318,7 @@ ht-degree: 99%
             + [在流程步骤中使用“添加选择”](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
             + [在流程步骤中使用令牌](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
             + 等待 {#wait}
-               + [等待概览](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview.md)
+               + [等待概述](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview.md)
                + [在等待流程步骤中使用日期令牌](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
                + [在等待流程步骤中使用时长](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
                + [在等待流程步骤中使用特定日期](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
@@ -352,7 +352,7 @@ ht-degree: 99%
       + 智能列表和静态列表 {#smart-lists-and-static-lists}
          + [了解智能列表](product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)
          + 创建智能列表 {#creating-a-smart-list}
-            + [智能列表最佳实践](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.md)
+            + [智能列表最佳做法](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.md)
             + [创建智能列表](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
             + [定义智能列表过滤器](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
             + [查找并向智能列表添加过滤器](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
@@ -395,19 +395,19 @@ ht-degree: 99%
          + 创建项目 {#creating-programs}
             + [了解项目](product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
             + [创建项目](product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
-            + [了解项目中的本地资产](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
+            + [了解项目中的本地资源](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
             + [了解项目成员资格](product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
-            + [使用资产选项卡](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
+            + [使用资源选项卡](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
             + [使用项目主页选项卡](product-docs/core-marketo-concepts/programs/creating-programs/using-the-program-home-tab.md)
          + 使用项目 {#working-with-programs}
-            + [最佳实践：如何组织您的项目](product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
+            + [最佳做法：如何组织您的项目](product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
             + [克隆项目](product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
-            + [克隆项目中的资产](product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md)
+            + [克隆项目中的资源](product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md)
             + [删除项目](product-docs/core-marketo-concepts/programs/working-with-programs/delete-a-program.md)
             + [编辑分析行为设置](product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)
             + [导入项目](product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)
             + [从电子表格导入成员到项目](product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)
-            + [本地资产过期](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
+            + [本地资源过期](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [管理和查看成员](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [项目成员自定义字段](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [项目成员自定义字段同步](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
@@ -418,7 +418,7 @@ ht-degree: 99%
             + [在项目中使用周期成本](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + 项目库 {#program-library}
             + [项目导入库概述](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [EM-YYYY-MM-DD-单次邮件发送](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
+            + [EM-YYYY-MM-DD-单次电子邮件发送](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
             + [NL-YYYY-MM-新闻稿](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md)
             + [WBN-YYYY-MM-DD-网络研讨会项目](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md)
             + [EV-YYYY-MM-DD-活动项目](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md)
@@ -437,8 +437,8 @@ ht-degree: 99%
             + [OP-供应能力管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
             + [快速启动电子邮件模板](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md)
             + [快速启动登陆页面模板](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md)
-         + 项目绩效报告 {#program-performance-report}
-            + [创建项目绩效报告](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+         + 项目性能报告 {#program-performance-report}
+            + [创建项目性能报告](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [向项目报告添加项目状态列](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
             + [按周期成本筛选项目报告](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
             + [按项目筛选项目报告](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
@@ -515,7 +515,7 @@ ht-degree: 99%
          + [Marketo 沙盒](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [隐私管理](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [隐私请求](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
-         + [重命名 Marketo 资产](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
+         + [重命名 Marketo 资源](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
          + [了解文件夹](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [了解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [通知类型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
@@ -555,12 +555,12 @@ ht-degree: 99%
                + [步骤 3（共 3 步）：连接带有 S2S 连接的 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
             + 连接到旧版本 {#connecting-to-legacy-versions}
                + [第 1 步（共 3 步）：安装 Marketo 解决方案（2011 本地部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
-               + [步骤 2（共 3 步）：在 Dynamics（2011 本地部署）中设置 Marketo 同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+               + [第 2 步（共 3 步）：在 Dynamics（2011 本地部署）中设置 Marketo 同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
                + [第 3 步（共 3 步）：将 Microsoft Dynamics 与 Marketo（2011 本地部署）连接](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
-               + [步骤 1（共 3 步）：在 Dynamics（2013 本地部署）中安装 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+               + [第 1 步（共 3 步）：在 Dynamics（2013 本地部署）中安装 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
                + [第 2 步（共 3 步）：为 Marketo（2013 本地部署）配置同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
                + [第 3 步（共 3 步）：连接 Marketo 和 Dynamics（2013 本地部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
-               + [步骤 1（共 3 步）：在 Dynamics（2015 本地部署）中安装 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
+               + [第 1 步（共 3 步）：在 Dynamics（2015 本地部署）中安装 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
                + [第 2 步（共 3 步）：为 Marketo（2015 本地部署）设置同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
                + [第 3 步（共 3 步）：连接 Marketo 和 Dynamics（2015 本地部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)
          + Microsoft Dynamics Sync 详情 {#microsoft-dynamics-sync-details}
@@ -636,8 +636,8 @@ ht-degree: 99%
       + Veeva CRM 同步 {#veeva-crm-sync}
          + [了解 Veeva CRM 同步](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
          + 设置 {#setup}
-            + [步骤 1（共 3 步）：将 Marketo 字段添加到 Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
-            + [步骤 2（共 3 步）：为 Marketo Engage 创建 Veeva CRM 用户](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+            + [第 1 步（共 3 步）：将 Marketo 字段添加到 Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
+            + [第 2 步（共 3 步）：为 Marketo Engage 创建 Veeva CRM 用户](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
             + [第 3 步（共 3 步）：连接 Marketo Engage 和 Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + 同步详情 {#sync-details}
             + [添加/移除自定义对象字段作为智能列表/触发约束](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
@@ -661,7 +661,7 @@ ht-degree: 99%
          + [聊天机器人行为](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [会议列表](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat 活动](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [分析](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [常见问题解答](product-docs/demand-generation/dynamic-chat/faq.md)
          + 设置和配置 {#setup-and-configuration}
             + [初始设置](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -716,7 +716,7 @@ ht-degree: 99%
                + [使用 Marketo ON24 适配器创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [配置事件设置并将 Marketo 与您的网络研讨会同步](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [在 Marketo 中创建事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
-               + [创建子营销活动和本地资产](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
+               + [创建子营销活动和本地资源](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
                + [在 ON24 中创建网络研讨会事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
                + [ON24 事件集成示例](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
                + [ON24 事件注册更新](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
@@ -726,7 +726,7 @@ ht-degree: 99%
          + 交互式网络研讨会 {#interactive-webinars}
             + [交互式网络研讨会概述](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
             + [开始使用交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/get-started-with-interactive-webinars.md)
-            + [交互式网络研讨会最佳实践](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
+            + [交互式网络研讨会最佳做法](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [用户与许可证管理](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [创建交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [设计交互式网络研讨会](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
@@ -805,7 +805,7 @@ ht-degree: 99%
       + 图像和文件 {#images-and-files}
          + [新增添加图像文档](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [向 Marketo 添加图像和文件](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-         + [使用 Adobe Express 编辑资产](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
+         + [使用 Adobe Express 编辑资源](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [删除已上传的图像或文件](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [查找已上传图像或文件的 URL](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [从网页抓取图像](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
@@ -1015,7 +1015,7 @@ ht-degree: 99%
             + [查看参与计划的成员](product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md)
             + [启用或关闭参与计划](product-docs/email-marketing/drip-nurturing/using-engagement-programs/turn-an-engagement-program-on-and-off.md)
          + 报告与通知 {#reports-and-notifications}
-            + [参与流绩效报告](product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+            + [参与流性能报告](product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
             + [参与度仪表板](product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md)
             + [了解参与度评分](product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
          + 使用流内容 {#using-stream-content}
@@ -1026,7 +1026,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
@@ -1173,7 +1173,7 @@ ht-degree: 99%
          + [在 Sales Connect 中通过 SAML 2.0 设置单点登录 (SSO)](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [共享设置](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [用户访问详情](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + 分析 {#analytics}
+      + Analytics {#analytics}
          + [Analytics 页面概述](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [了解“内容”选项卡](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [了解“我”选项卡](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1265,7 +1265,7 @@ ht-degree: 99%
          + 发送销售电子邮件 {#send-a-sales-email}
             + [活动已结束](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [电子邮件中的抄送或密送](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
-            + [电子邮件被标记为垃圾邮件](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
+            + [电子邮件被标记为垃圾电子邮件](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
          + 实时信息流 {#the-live-feed}
             + [收件人位置不正确](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [实时信息流概述](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
@@ -1286,7 +1286,7 @@ ht-degree: 99%
             + [使用选择并发送功能撰写批量电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [安排电子邮件发送](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
             + [发送可跟踪电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
-            + [通过群组电子邮件发送邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+            + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [在撰写窗口中使用模板](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + 常见问题解答 {#faq}
          + [我可以恢复已删除的联系人或群组吗？](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
@@ -1386,7 +1386,7 @@ ht-degree: 99%
             + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [将销售操作数据与 Marketo 和 Salesforce 同步](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [用户访问详情](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + 分析 {#analytics}
+         + Analytics {#analytics}
             + [Analytics 页面概述](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [了解“内容”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [了解“我”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1441,7 +1441,7 @@ ht-degree: 99%
                + [向电子邮件添加附件或可跟踪内容](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [批量发送电子邮件选项](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [使用选择并发送功能撰写批量电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
-               + [通过群组电子邮件发送邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+               + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [在撰写窗口中使用模板](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + 电子邮件集成 {#email-integrations}
             + Gmail {#gmail}
@@ -1467,7 +1467,7 @@ ht-degree: 99%
             + [为什么我的销售活动和活动字段没有同步到 Salesforce？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [为什么我无法删除联系人？](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [为什么我的联系人没有全部被推送至 Sales Insight Actions？](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
-            + [为什么我的电子邮件会被标记为垃圾邮件？](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [为什么我的电子邮件会被标记为垃圾电子邮件？](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
             + [为什么我的活动已结束？](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [为什么跟踪活动未显示在 Salesforce 活动中？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 集成 {#integrations}
@@ -1508,7 +1508,7 @@ ht-degree: 99%
             + [使用 HTML](product-docs/marketo-sales-insight/actions/templates/using-html.md)
             + [以其他用户身份查看模板列表](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + 使用 MSI {#using-msi}
-         + [在 Marketo 中记录来自潜在客户的入站邮件](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+         + [在 Marketo 中记录来自潜在客户的入站电子邮件](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome 插件 {#msi-chrome-plugin}
          + [为 Google Chrome 安装 Marketo Insights](product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
          + [使用 Google Chrome 版 Marketo Insights](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
@@ -1571,8 +1571,8 @@ ht-degree: 99%
                + [使用潜在客户信息流](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI 配置选项卡 {#msi-configuration-tab}
                + [为 Sales Insight 启用 RSS](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
-            + 绩效报告 {#performance-reports}
-               + [Sales Insight 电子邮件绩效报告](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
+            + 性能报告 {#performance-reports}
+               + [Sales Insight 电子邮件性能报告](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
             + 星级和火焰标识 {#stars-and-flames}
                + [自定义星级和火焰标识](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
                + [优先级、紧急性、相对评分和最佳推荐](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
@@ -1598,8 +1598,8 @@ ht-degree: 99%
          + [发放 Marketo 电子邮件加载项许可证](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [由 IT 部门安装 Marketo Outlook 插件](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
          + [由 IT 部门卸载 Marketo Outlook 插件](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
-         + [使用 Outlook 版电子邮件加载项发送并跟踪邮件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
-         + [在 Outlook 中使用 Marketo 模板发送并跟踪邮件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+         + [使用 Outlook 版电子邮件加载项发送并跟踪电子邮件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+         + [在 Outlook 中使用 Marketo 模板发送并跟踪电子邮件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定 Marketo Sales Insight 插件管理员](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [升级您的 Outlook 版 Marketo 电子邮件加载项](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
       + [适用于非原生 MS Dynamics 集成的 Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
@@ -1718,20 +1718,20 @@ ht-degree: 99%
             + [选择报告列](product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
             + [按列对报告进行排序](product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
          + 报告活动 {#report-activity}
-            + [使用移动平台列生成人员绩效报告](product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
+            + [使用移动平台列生成人员性能报告](product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
             + [更改报告电子邮件中 URL 的过期时间](product-docs/reporting/basic-reporting/report-activity/change-the-expiration-time-for-urls-in-report-emails.md)
             + [将报告克隆到组报告](product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
             + [克隆报告](product-docs/reporting/basic-reporting/report-activity/clone-a-report.md)
             + [删除报告](product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)
             + [在 Web 报告中显示人员或匿名访客](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-            + [深入分析人员绩效报告](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
+            + [深入分析人员性能报告](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [将报告导出到 Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
             + [筛选营销活动报告](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
-            + [筛选营销活动电子邮件报告中的资产](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-            + [筛选电子邮件报告中的资产](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-            + [筛选电子邮件绩效报告中的已删除/已合并记录](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
+            + [筛选营销活动电子邮件报告中的资源](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+            + [筛选电子邮件报告中的资源](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [筛选电子邮件性能报告中的已删除/已合并记录](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
             + [按属性对人员报告进行分组](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
-            + [跨工作区报告电子邮件和营销活动绩效](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
+            + [跨工作区报告电子邮件和营销活动性能](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [跨工作区共享模型](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
             + [跟踪匿名活动和人员](product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
          + 报告订阅 {#report-subscriptions}
@@ -1742,10 +1742,10 @@ ht-degree: 99%
             + [订阅智能列表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + 报告类型 {#report-types}
             + [营销活动报告](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-            + [营销活动电子邮件绩效报告](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+            + [营销活动电子邮件性能报告](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [公司 Web 活动报告](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [按状态分类的人员报告](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-            + [人员绩效报告](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+            + [人员性能报告](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [报告类型概述](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
             + [Web 页面活动报告](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Web 页面浏览量、Web 页面活动报告](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
@@ -1757,16 +1757,16 @@ ht-degree: 99%
          + [电子邮件洞察快速图表](product-docs/reporting/email-insights/email-insights-quick-charts.md)
          + [电子邮件洞察发送概述](product-docs/reporting/email-insights/email-insights-sends-overview.md)
          + [电子邮件洞察中的筛选](product-docs/reporting/email-insights/filtering-in-email-insights.md)
-      + 绩效洞察 {#performance-insights}
+      + 性能洞察 {#performance-insights}
          + [性能洞察概述](product-docs/reporting/performance-insights/performance-insights-overview.md)
-         + [绩效洞察中的筛选](product-docs/reporting/performance-insights/filtering-in-performance-insights.md)
-         + [绩效洞察贡献概述](product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
-         + [绩效洞察仪表板](product-docs/reporting/performance-insights/performance-insights-dashboards.md)
-         + [绩效洞察常见问题](product-docs/reporting/performance-insights/performance-insights-faq.md)
-         + [绩效洞察快速图表](product-docs/reporting/performance-insights/performance-insights-quick-charts.md)
-         + [绩效洞察设置](product-docs/reporting/performance-insights/performance-insights-settings.md)
-         + [绩效洞察趋势概述](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
-         + [设置绩效洞察](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
+         + [性能洞察中的筛选](product-docs/reporting/performance-insights/filtering-in-performance-insights.md)
+         + [性能洞察贡献概述](product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
+         + [性能洞察仪表板](product-docs/reporting/performance-insights/performance-insights-dashboards.md)
+         + [性能洞察常见问题](product-docs/reporting/performance-insights/performance-insights-faq.md)
+         + [性能洞察快速图表](product-docs/reporting/performance-insights/performance-insights-quick-charts.md)
+         + [性能洞察设置](product-docs/reporting/performance-insights/performance-insights-settings.md)
+         + [性能洞察趋势概述](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
+         + [设置性能洞察](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
       + 收入周期分析 {#revenue-cycle-analytics}
          + 电子邮件分析 {#email-analysis}
             + [生成列出潜在客户的电子邮件分析报告](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
@@ -1800,7 +1800,7 @@ ht-degree: 99%
             + [克隆 Marketo 示例收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
             + [创建新的收入模式](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
             + [创建成功路径分析器](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
-            + [为模型绩效分析（潜在客户）启用自定义字段组](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
+            + [为模型性能分析（潜在客户）启用自定义字段组](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
             + [查找收入周期模型中的所有潜在客户](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
             + [在收入建模器中合并两个阶段](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
             + [生成收入模型报告](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
@@ -2067,7 +2067,7 @@ ht-degree: 99%
       + 2012 {#2012}
          + [发行说明：2012 年 4 月](release-notes/previous-releases/2012/release-notes-april-2012.md)
          + [发行说明：2012 年 12 月](release-notes/previous-releases/2012/release-notes-december-2012.md)
-         + [发行说明：2012 年 1 月/2 月](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
+         + [发行说明：2012 年 1 月及 2 月](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
          + [发行说明：2012 年 6 月](release-notes/previous-releases/2012/release-notes-june-2012.md)
          + [发行说明：2012 年 3 月](release-notes/previous-releases/2012/release-notes-march-2012.md)
          + [发行说明：2012 年 5 月](release-notes/previous-releases/2012/release-notes-may-2012.md)
