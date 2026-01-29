@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2950799
-description: 令牌概述 — Marketo文档 — 产品文档
+description: 令牌概述 — Marketo 文档 — 产品文档
 title: 令牌概述
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # 令牌概述 {#tokens-overview}
 
-令牌是一个变量，可在Marketo智能营销活动流程步骤、电子邮件、登陆页面、代码片段和Web营销活动中使用。
+令牌是一种变量，可用于 Marketo 的智能营销活动流程步骤、电子邮件、登陆页面、片段以及 Web 营销活动中。
 
 ## 了解默认值 {#understanding-default-values}
 
-当您使用令牌时，您还需要提供默认值。 这是显示某人是否不具有您正在引用的字段值的文本。
+在使用令牌时，您还应提供一个默认值。当某位人员在您所引用的字段中没有对应值时，将显示该默认文本。
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-在此示例中，电子邮件会显示“Greetings， (first name)”或“Greetings， earthling”（默认值）。
+在此示例中，电子邮件将显示为 “Greetings, (first name)” 或 “Greetings, earthling”（默认值）。
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->使用Marketo的电子邮件编辑器时，令牌在预标头中无法使用。 要在预标头中使用令牌，必须通过在电子邮件模板中通过您自己的HTML来使用。
+>在使用 Marketo 的电子邮件编辑器时，令牌无法在预览文本中生效。如需在预览文本中使用令牌，必须通过电子邮件模板中的自定义 HTML 来实现。
 
 >[!NOTE]
 >
->这份清单并非详尽无遗。 令牌也是为您在Marketo中拥有的每个自定义字段创建的。
+>此列表并非完整清单。Marketo 中的每一个自定义字段都会自动生成对应的令牌。
 
 ## 人员令牌 {#person-tokens}
 
@@ -87,7 +87,7 @@ ht-degree: 1%
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* 如果您使用其显示名称（例如，`{{lead.Custom Field Name}}`），自定义人员字段也可正常工作
+* 如果使用自定义人员字段的显示名称，自定义人员字段同样可以作为令牌使用，例如：`{{lead.Custom Field Name}}`
 
 ## 公司令牌 {#company-tokens}
 
@@ -110,7 +110,7 @@ ht-degree: 1%
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* 如果您使用自定义公司字段的显示名称，例如`{{Company.Custom Field Name}}`
+* 如果使用自定义公司字段的显示名称，自定义公司字段同样可以作为令牌使用，例如：`{{Company.Custom Field Name}}`
 
 ## 营销活动令牌 {#campaign-tokens}
 
@@ -122,7 +122,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->在[系统令牌术语表](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)中了解有关这些令牌的更多信息。
+>请参阅[系统令牌词汇表](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)，了解有关这些令牌的更多信息。
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->根据智能营销活动中使用的触发器，查找有关有趣时刻的[令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)的更多详细信息。
+>了解有关基于智能营销活动中所用触发器的[重要时刻令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)的更多详情。
 
 ## 项目令牌 {#program-tokens}
 
@@ -159,14 +159,14 @@ ht-degree: 1%
 
 ## [!UICONTROL My Tokens] {#my-tokens}
 
-[!UICONTROL My Tokens]在项目中定义，以`{{my.`开头，后跟您为令牌创建的名称。 了解有关程序中[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)的更多信息。
+[!UICONTROL My Tokens] 在项目中定义，并以 `{{my.` 开头，后接您为该令牌创建的名称。了解有关项目中[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)的更多信息。
 
 ## 成员令牌 {#member-token}
 
-成员令牌用于插入来自集成服务合作伙伴的唯一值。 成员令牌的常见用途是用于网络研讨会参与者的唯一URL。 每个人员都有一个访问网络研讨会的唯一URL，可使用`{{member.webinar url}}`令牌插入该URL。 `{{member.webinar url}}`令牌自动解析服务提供商生成的人员的唯一确认URL。
+成员令牌用于插入来自集成服务合作伙伴的唯一值。成员令牌的常见用途之一是为网络研讨会参会者生成唯一 URL。每位人员都有一个用于访问网络研讨会的唯一 URL，可通过 `{{member.webinar url}}` 令牌插入。`{{member.webinar url}}` 令牌会自动解析为服务提供方生成的该人员唯一确认 URL。
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->仅当发送电子邮件的智能营销活动是事件程序的子资产时，`{{member.webinar url}}`令牌才会填充。
+>只有当发送该电子邮件的智能营销活动是活动项目的子资源时，`{{member.webinar url}}` 令牌才会生效并填充。

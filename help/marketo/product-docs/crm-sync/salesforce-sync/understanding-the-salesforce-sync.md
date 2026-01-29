@@ -1,45 +1,45 @@
 ---
 unique-page-id: 4719283
-description: 了解Salesforce同步 — Marketo文档 — 产品文档
+description: 了解 Salesforce 同步 — Marketo 文档 — 产品文档
 title: 了解 Salesforce 同步
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# 了解[!DNL Salesforce]同步 {#understanding-the-salesforce-sync}
+# 了解 [!DNL Salesforce] 同步 {#understanding-the-salesforce-sync}
 
-Marketo Engage和Salesforce就像豌豆和胡萝卜一样走到一起。 我们将保持您的销售和营销数据同步。
+Marketo Engage 与 Salesforce 密不可分、相辅相成。我们会保持您的销售数据与营销数据始终同步。
 
-## 同步的工作方式 {#how-sync-works}
+## 同步机制如何运作 {#how-sync-works}
 
-Marketo每天与[!DNL Salesforce]同步。 每次同步需要花费一些时间，然后暂停5分钟，然后重新开始。
+Marketo 全天候与 [!DNL Salesforce] 进行同步。每次同步都会运行一段时间，然后暂停 5 分钟，再重新开始。
 
 >[!NOTE]
 >
->由于Marketo正在从[!DNL Salesforce]复制整个数据库，因此您的订阅中的首次同步可能需要数小时甚至数天时间。 之后，每次同步通常需要几秒钟或几分钟，并且只同步已更改的数据。
+>您订阅中的首次同步可能需要数小时，甚至数天时间，因为 Marketo 需要从 [!DNL Salesforce] 复制整个数据库。此后，每次同步通常只需几秒到几分钟，并且只会同步发生变化的数据。
 
 ![](assets/sync-illustration.png)
 
-[!DNL Salesforce]与Marketo之间的同步仅对潜在客户、联系人和[!DNL Salesforce]营销活动是双向的。 在这些情况下，只要您在[!DNL Salesforce]或Marketo中进行更改，您的更新就会反映在这两个系统中。 所有其他同步仅从[!DNL Salesforce]到Marketo。 单击下面的链接以了解每个报表的详细信息。
+在潜在客户、联系人以及 [!DNL Salesforce] 营销活动方面，[!DNL Salesforce] 与 Marketo 之间的同步是双向的。在这些情况下，无论您是在 [!DNL Salesforce] 还是 Marketo 中进行更改，更新都会同步反映到两个系统中。其余同步均仅从 [!DNL Salesforce] 单向同步到 Marketo。请点击下方链接，查看各项同步的详细信息。
 
-## Marketo和[!DNL Salesforce]之间同步了哪些内容？ {#what-is-synced-between-marketo-and-salesforce}
+## Marketo 与 [!DNL Salesforce] 之间会同步哪些内容？ {#what-is-synced-between-marketo-and-salesforce}
 
 * [潜在客户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md){target="_blank"}
 * [联系人](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}
 * [帐户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}
 * [用户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md){target="_blank"}
-* [个机会](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md){target="_blank"}
-* [Salesforce营销活动](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+* [商机](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md){target="_blank"}
+* [Salesforce 营销活动](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
 * [自定义对象](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md){target="_blank"}
 * [活动](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md){target="_blank"}
 
 >[!NOTE]
 >
->您在Marketo中为Salesforce[输入的](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}凭据用于同步数据。 仅包含这些凭据有权访问的数据。
+>您[在 Marketo 中为 Salesforce 输入的凭据](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}将用于执行数据同步。只有这些凭据有权限访问的数据才会得到同步。
 
-Marketo与[!DNL Salesforce]的同步是世界上同类产品中最强大的。 这感觉像魔术；进行了更改，另一个系统很快就更新了。
+Marketo 与 [!DNL Salesforce] 之间的同步是同类解决方案中功能最强大的之一。这种体验就像魔法一样：在一个系统中完成更改，另一个系统很快就会同步更新。

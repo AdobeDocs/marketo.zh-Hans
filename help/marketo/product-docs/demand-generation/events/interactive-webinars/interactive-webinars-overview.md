@@ -1,61 +1,61 @@
 ---
-description: 交互式网络研讨会概述 — Marketo文档 — 产品文档
+description: 交互式网络研讨会概述 — Marketo 文档 — 产品文档
 title: 交互式网络研讨会概述
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '517'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 # 交互式网络研讨会概述 {#interactive-webinars-overview}
 
-交互式网络研讨会功能是Marketo Engage中的内置网络研讨会平台。 无需其他工具或集成。
+交互式网络研讨会是 Marketo Engage 内置的网络研讨会平台功能。无需额外工具或集成。
 
 >[!IMPORTANT]
 >
->由Adobe Connect提供支持的交互式网络研讨会是一项与Adobe Connect的内置集成功能。 您对交互式网络研讨会的使用将受其他条款和条件的约束。 请查看您的合同或[联系Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以查询其他条款和条件。
+>由 Adobe Connect 提供支持的交互式网络研讨会，内置了与 Adobe Connect 的集成。您对交互式网络研讨会的使用将受附加条款与条件的约束。请查阅您的合同，或[联系 Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 了解相关附加条款与条件。
 
 ## 什么是交互式网络研讨会？ {#what-is-interactive-webinars}
 
-交互式网络研讨会通过提供原生且无缝的体验，让您可以在Marketo Engage中创建、管理和交付活动，从而增强现有的活动和网络研讨会体验。 当您[创建交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}时，有多个预建的会议模板可供选择，所有这些模板都是可自定义的（您也可以创建和使用自定义模板）。 与会者可以共享计算机屏幕/文件、相互聊天、广播音频和视频，以及参与交互式在线活动。
+交互式网络研讨会通过提供原生且无缝的体验，增强了现有的活动与网络研讨会功能，使您能够直接在 Marketo Engage 中创建、管理和举办活动。当您[创建交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}时，可以选择多种预构建的会议模板，且这些模板均可自定义（您也可以创建并使用自定义模板）。参会者可以共享屏幕/文件、彼此聊天、进行音视频广播，并参与各种在线互动活动。
 
-交互式网络研讨会提供[三个不同的许可证](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}，每个许可证都具有各种功能和功能。
+交互式网络研讨会提供[三种不同的许可证](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}类型，每种均具有不同的功能和容量。
 
-网络研讨会之后，通过包含潜在客户及聚合参与数据的报告和仪表板访问[事件性能分析](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}。 交互式网络研讨会特定的过滤器和触发器允许您查找执行特定操作（例如，单击链接、下载资产等）的特定人员组。
+网络研讨会结束后，您可以通过包含潜在客户和汇总参与数据的报告与仪表板查看[活动效果分析](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}。交互式网络研讨会专用的筛选条件和触发器可帮助您定位执行了特定操作的人员群体（例如点击链接、下载资源等）。
 
 ## 常见问题解答 {#faq}
 
-**我需要单独的订阅才能使用交互式网络研讨会吗？**
+**是否需要单独订阅才能使用交互式网络研讨会？**
 
-不会。只需有效的Marketo Engage订阅即可使用交互式网络研讨会。
+不是。只需拥有有效的 Marketo Engage 订阅即可使用交互式网络研讨会。
 
-**交互式网络研讨会有哪些语言可用？**
+**交互式网络研讨会支持哪些语言？**
 
-互动式网络研讨会以Marketo支持的所有六种语言提供：英语、法语、德语、日语、葡萄牙语和西班牙语。 Adobe Connect以及在网络研讨会通过交互式网络研讨会交付内容期间，也支持相同的语言。
+交互式网络研讨会支持 Marketo 提供的全部六种语言：英语、法语、德语、日语、葡萄牙语和西班牙语。在通过交互式网络研讨会举办网络研讨会时，Adobe Connect 同样支持上述语言。
 
-**我已用完所包含的交互式网络研讨会。 如何获得更多会话或更大的容量？**
+**我已用完包含的交互式网络研讨会次数。如何获得更多场次或更高容量？**
 
-您需要联系Adobe客户团队（您的客户经理）寻求帮助。
+您需要联系 Adobe 客户团队（您的客户经理）以获取帮助。
 
-**作为Marketo管理员，我是否可以控制哪些Marketo用户可以创建交互式网络研讨会？**
+**作为 Marketo 管理员，我是否可以控制哪些 Marketo 用户能够创建交互式网络研讨会？**
 
-能，您可以控制哪些Marketo用户有权创建和提供交互式网络研讨会。 可以通过Adobe Marketo Engage实例管理区域中的交互式网络研讨会部分访问此模板。
+可以，您可以控制哪些 Marketo 用户具备创建和举办交互式网络研讨会的权限。您可以在 Adobe Marketo Engage 实例的“管理员”区域中的“交互式网络研讨会”部分进行相关设置。
 
-**是否需要将Adobe Connect提供的网络研讨会关联回交互式网络研讨会活动计划，如与Launchpoint活动计划关联起来？**
+**是否需要像 LaunchPoint 活动项目那样，将由 Adobe Connect 支持的网络研讨会关联回交互式网络研讨会活动项目？**
 
-否，交互式网络研讨会活动程序可为您建立关联。
+不需要，交互式网络研讨会活动项目会自动完成关联。
 
-**为什么我的某些潜在客户具有“注册错误”状态而不是“已注册”状态？**
+**为什么有些潜在客户的状态显示为“注册错误”，而不是“已注册”？**
 
-如果商机的“名字”字段为空，则他们无法注册网络研讨会。 您可以通过输入有效的名字来解决此问题。
+如果潜在客户的“名字”字段为空，则无法注册网络研讨会。输入有效的名字即可解决该问题。
 
-**我在访问组织的VPN时演示网络研讨会时遇到音频/视频问题。 我该怎么办？**
+**我在通过公司 VPN 访问时主持网络研讨会，出现音频/视频问题。我该怎么办？**
 
-Adobe Connect是交互式网络研讨会的交付平台，使用WebRTC进行音频/视频/屏幕共享。 贵组织的网络防火墙可能会阻止我们用于基于WebRTC的通信的IP地址/端口。 您的IT团队需要允许这些端口使WebRTC正常工作。 [了解详情](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}。
+交互式网络研讨会的交付平台 Adobe Connect 使用 WebRTC 来实现音频、视频和屏幕共享。很可能是您组织的网络防火墙阻止了用于 WebRTC 通信的 IP 地址或端口。您的 IT 团队需要放行这些端口，才能确保 WebRTC 正常运行。[了解详情](https://helpx.adobe.com/cn/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}。
 
-**我的交互式网络研讨会是否自动录制？**
+**交互式网络研讨会会自动录制吗？**
 
-但事实并非如此。 网络研讨会开始后，单击网络研讨会名称旁边的下拉菜单并选择&#x200B;**录制会话**。
+不会自动录制。网络研讨会开始后，点击研讨会名称旁的下拉菜单，并选择&#x200B;**录制会话**。
