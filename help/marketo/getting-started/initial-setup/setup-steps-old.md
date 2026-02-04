@@ -6,16 +6,16 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
 source-wordcount: '2051'
-ht-degree: 1%
+ht-degree: 69%
 
 ---
 
 # 设置步骤 {#setup-steps}
 
-**欢迎使用Adobe Marketo Engage！**
+**欢迎使用 Adobe Marketo Engage！**
 
 在开始使用Marketo之前，您需要完成以下几个步骤。
 
@@ -23,14 +23,14 @@ ht-degree: 1%
 
 * 一些基本帐户设置
 * 将您的登陆页面URL和电子邮件链接品牌化，以提高信任度和可投放性
-* 正在同步您的CRM
+* 同步您的 CRM 系统
 * 将跟踪代码添加到您的公司网站
 
 >[!NOTE]
 >
->如果您的公司&#x200B;**是Marketo的新用户**，则您只需执行这些步骤。 如果没有，则可能已完成设置。
+>只有在您的公司&#x200B;**首次使用 Marketo** 时，才需要完成这些步骤。如果不是首次使用，这些设置可能已经完成。
 
-某些步骤需要您的IT团队提供帮助。
+部分步骤需要 IT 团队的协助完成。
 
 >[!TIP]
 >
@@ -114,69 +114,69 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您是Launch Pack客户吗？ 您可以跳过此步骤。 您的顾问将在您的启动电话中为您提供IT设置说明文档。
+>您是 Launch Pack 客户吗？如果是，您可以跳过此步骤。您的顾问将在启动会议中向您提供 IT 设置说明文档。
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-为您的登陆页面选择一个CNAME。 一些示例：
+为您的登陆页面选择一个 CNAME。示例如下：
 
-    * **开始**。[CompanyDomain].com
-    * **www2**。[CompanyDomain].com
-    * **lp**。[CompanyDomain].com
+    * **go**.[CompanyDomain].com
+    * **www2**.[CompanyDomain].com
+    * **lp**.[CompanyDomain].com
 
 >[!TIP]
 >
->保持简短！ 较短的URL更容易记忆。 我们建议“开始”作为域。
+>请保持简短！较短的 URL 更容易记忆。我们建议使用 “go” 作为域名前缀。
 
-第一部分（粗体部分）是`[LandingPageCNAME]`。 在步骤5中需要它。
+加粗显示的前半部分即为 `[LandingPageCNAME]`。您将在第 5 步中用到该值。
 
 要检索要用登陆页面CNAME替换的Munchkin ID，请转到管理区域。
 
 ![](assets/setup-steps-9.png)
 
-单击&#x200B;**我的帐户**。
+点击&#x200B;**我的帐户**。
 
 ![](assets/setup-steps-10.png)
 
-从登陆页面设置复制[!UICONTROL Account String]。
+从登陆页面设置中复制 [!UICONTROL Account String]。
 
 ![](assets/setup-steps-11.png)
 
-这是`[Munchkin ID]`。 保存它。 在步骤5中，您需要将它提供给IT。
+这就是 `[Munchkin ID]`。请将其保存。您需要在第 5 步中将其提供给 IT 团队。
 
-配置您的域设置，以便登陆页面使用您公司的域，而不是Marketo的域（这些网页的托管位置）。
+配置域名设置，使登陆页使用您公司的域名，而不是 Marketo 托管时使用的默认域名。
 
-## 确保电子邮件可投放性 {#ensure-email-deliverability}
+## 确保电子邮件投递成功率 {#ensure-email-deliverability}
 
 >[!NOTE]
 >
->您是Launch Pack客户吗？ 您可以跳过此步骤。 您的顾问将在您的启动电话中为您提供IT设置说明文档。
+>您是 Launch Pack 客户吗？如果是，您可以跳过此步骤。您的顾问将在启动会议中向您提供 IT 设置说明文档。
 
-可以采取多种措施确保电子邮件可送达尽可能多的用户。
+您可以采取多项措施，确保电子邮件尽可能成功送达收件人。
 
-* **标记您的跟踪链接**。 您可以在来自Marketo的电子邮件中包含的链接中，选择使用您自己的域(而不是Marketo)的CNAME。 这加强了您的域品牌化，并增加了与收件人的信任和可投放性。
-* **将Marketo添加到您的公司电子邮件允许列表。**&#x200B;向测试帐户发送测试电子邮件之前，向实际用户发送电子邮件是一种常见的最佳做法。 通过列入允许列表Marketo，您可以防止这些测试电子邮件被阻止或标记为垃圾邮件。
-* **设置SPF和DKIM。**&#x200B;这些技术可确保收件人您的Marketo电子邮件不是垃圾邮件。 为了帮助防止收件人的垃圾邮件过滤器拒绝您Marketo电子邮件，请按照以下步骤[为电子邮件可投放性设置SPF和DKIM](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)。
-* **为您的域设置MX记录。** MX记录允许您接收发往您发送电子邮件的域的邮件，以处理回复和自动回复。 如果您从公司域发送，则可能已配置此域。 如果没有，您通常可以设置映射到企业域的MX记录。
-* **发件人地址的建议设置。**&#x200B;您必须在所有电子邮件营销活动的“发件人地址”中使用有效的、现有的和工作电子邮件域。 配置公司域的子域而不是从公司域发送可能很有用。 这将确保公司邮件流中的问题不会影响您的Marketo邮件流，反之亦然。 此外，发送来自`something@nonexistentdomain.com`的邮件将导致过滤或阻止电子邮件。 发件人的“发件人地址”中使用的任何域都必须具有有效且有效的邮递员@和滥用@帐户。
+* **为跟踪链接设置品牌化域名**。您可以选择一个 CNAME，在 Marketo 发送的电子邮件链接中使用您自己的域名（而非 Marketo 的域名）。这有助于强化您的域名品牌形象，并提升收件人对电子邮件的信任度和投递成功率。
+* **将Marketo添加到您的公司电子邮件允许列表。**&#x200B;向测试帐户发送测试电子邮件之前，向实际用户发送电子邮件是一种常见的最佳做法。 通过将 Marketo 加入允许列表，可以防止这些测试电子邮件被拦截或标记为垃圾电子邮件。
+* **设置SPF和DKIM。**&#x200B;这些技术可确保收件人您的Marketo电子邮件不是垃圾邮件。 为避免收件人的垃圾电子邮件过滤器拒收您的 Marketo 电子邮件，请按照以下步骤操作：[设置 SPF 和 DKIM 以提升电子邮件的投递成功率](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)。
+* **为您的域名设置 MX 记录。** MX 记录可让您接收发送电子邮件所使用域名的来信，以便处理回复和自动回复。如果您使用公司域名发送电子邮件，通常已经配置了该项。如果尚未配置，通常可以将其映射到公司域名的 MX 记录。
+* **From 地址的推荐设置。** 在所有电子邮件营销活动中，From 地址必须使用有效、存在且可正常工作的电子邮件域名。相比直接使用公司主域名，从公司域名的子域发送电子邮件通常更有利。这样可以避免公司电子邮件流的问题影响 Marketo 电子邮件流，反之亦然。此外，从 `something@nonexistentdomain.com` 之类不存在的域名发送电子邮件，会导致电子邮件被过滤或拦截。用于发送方 From 地址的任何域名，都必须具备有效且可用的 postmaster@ 和 abuse@ 邮件。
 
-如果您使用Google Apps托管公司电子邮件，则无法在您的域下创建滥用@或邮递员@电子邮件。 要解决此问题，您需要创建名为“虐待”和“邮递员”的组。 属于这些组成员的用户将收到发送到这些地址的电子邮件（例如，<postmaster@domain.com>）。 有关创建组的详细说明可在[此处](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}找到。
+如果您使用 Google Apps 托管公司电子邮件，将无法在域名下直接创建 abuse@ 或 postmaster@ 邮件。为解决这一限制，您需要创建名为“abuse”和“postmaster”的群组。属于这些群组的用户将会收到发送至对应地址（例如 <postmaster@domain.com>）的电子邮件。有关创建群组的详细说明，请参阅[此处](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}。
 
-为电子邮件跟踪链接选择一个CNAME（从您在步骤3中选择的登陆页面CNAME中选择一个&#x200B;_不同的_ CNAME）。 一些示例：
+为电子邮件跟踪链接选择一个 CNAME（务必与第 3 步中为登陆页面选择的 CNAME _不同_）。示例如下：
 
-* go2。[公司域].com
-* em.[公司域].com
-* 哇！[公司域].com
+* go2.[CompanyDomain].com
+* em.[CompanyDomain].com
+* wow.[CompanyDomain].com
 
-第一部分是电子邮件跟踪CNAME `[EmailTrackingCNAME]`。 在步骤5中，您需要将它提供给IT。
+前半部分即为电子邮件跟踪 CNAME，即 `[EmailTrackingCNAME]`。在步骤5中，您需要将它提供给IT。
 
 >[!CAUTION]
 >
->电子邮件和登陆页面CNAME必须不同。 此外，请避免使用“跟踪”或“链接”等CNAME。 它通常被标记为垃圾邮件
+>电子邮件 CNAME 与登陆页面 CNAME 必须不同。此外，应避免使用诸如 “track” 或 “link” 之类的 CNAME。此类名称通常会被标记为垃圾电子邮件
 
-要查找您的Marketo跟踪链接，请转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+要查找您的 Marketo 跟踪链接，请前往 **[!UICONTROL Admin]** 区域。
 
 ![](assets/setup-steps-12.png)
 
@@ -184,49 +184,49 @@ ht-degree: 1%
 
 ![](assets/setup-steps-13.png)
 
-从电子邮件设置中复制[!UICONTROL Tracking Link]。
+从电子邮件设置中复制 [!UICONTROL Tracking Link]。
 
-[!UICONTROL Tracking Link]的格式为： `mkto-[a-z][4 digits].com`。
+[!UICONTROL Tracking Link] 的格式为：`mkto-[a-z][4 digits].com`。
 
 ![](assets/setup-steps-14.png)
 
-这是您的`[MktoTrackingLink]`。 保存它。 在步骤5中，您需要将它提供给IT。
+这是您的 `[MktoTrackingLink]`。请将其保存。您需要在第 5 步中将其提供给 IT 团队。
 
-收集“发件人”域。 列出您计划从Marketo发送电子邮件的所有“发件人”域（如`[Sender]@[FromDomain].com`）。 对大多数人来说，只有一个。
+收集 “From” 域名。列出您计划在 Marketo 中用于发送电子邮件的所有 “From” 域名（即 `[Sender]@[FromDomain].com`）。对于大多数组织而言，通常只有一个。
 
-例如，“marketo.com，”“info.marketo.com，”。 这些是`[FromDomain1]`、`[FromDomain2]`等。 保存它们。 在步骤5中，您需要将它们提供给IT。
+例如，“marketo.com,”“info.marketo.com,”。这些即为 `[FromDomain1]`、`[FromDomain2]` 等。请将这些信息保存下来。您需要在第 5 步中将它们提供给 IT 团队。
 
-您现在掌握了向IT发送请求所需的所有信息！
+至此，您已经具备向 IT 团队提交请求所需的全部信息！
 
-## 要求IT配置协议 {#ask-it-to-configure-protocols}
-
->[!NOTE]
->
->您是Launch Pack客户吗？ 您可以跳过此步骤。 您的顾问将在您的启动电话中为您提供IT设置说明文档。
-
-收集完所有必要信息后，即可向IT部门发送请求。 您可以使用下面的文本作为模板，将粗体文本替换为您自己的信息。
-
-[包含指向此文章的链接](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)。
-
-将此文本粘贴到电子邮件中，并替换粗体占位符：
+## 请求 IT 配置协议 {#ask-it-to-configure-protocols}
 
 >[!NOTE]
 >
->请参阅上面的步骤3和4 ，确定替换占位符的文本。 请记住，`[LandingPageCNAME]`和`[EmailTrackingCNAME]`必须不同。
+>您是 Launch Pack 客户吗？如果是，您可以跳过此步骤。您的顾问将在启动会议中向您提供 IT 设置说明文档。
+
+在收集完所有必要信息后，您就可以向 IT 团队发送请求了。您可以使用下面的文本作为模板，将其中加粗的内容替换为您自己的信息。
+
+[在电子邮件中包含此文章的链接](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)。
+
+将以下文本粘贴到电子邮件中，并替换其中加粗显示的占位符：
+
+>[!NOTE]
+>
+>请参考上文第 3 步和第 4 步，以确定需要替换占位符的具体内容。请务必注意，`[LandingPageCNAME]` 和 `[EmailTrackingCNAME]` 必须不同。
 
 `----------------------------------------------`
 
 尊敬的IT管理员：
 
-我们的营销团队现在使用Marketo平台与我们的人员沟通。 为确保出色的电子邮件可投放性，我们需要进行以下更改：
+我们的营销团队目前正在使用 Marketo 平台与客户和受众进行沟通。为确保电子邮件具备良好的投递成功率，我们需要进行以下更改：
 
-`1)`对于我们的登陆页面，为&#x200B;**[LandingPageCNAME]**&#x200B;添加DNS条目(CNAME)。**[CompanyDomain]**.com，指向&#x200B;**[Munchkin ID]**.mktoweb.com。
+`1)`针对我们的登陆页面，请为 **[LandingPageCNAME]** 添加一条 DNS 记录（CNAME）。**[CompanyDomain]**.com，指向 **[Munchkin ID]**.mktoweb.com。
 
-`2)`对于电子邮件中的跟踪链接，请为&#x200B;**[EmailTrackingCNAME]**&#x200B;添加DNS条目(CNAME)。**[CompanyDomain]**.com，指向&#x200B;**[MktoTrackingLink]**。
+`2)`针对电子邮件中的跟踪链接，请为 **[EmailTrackingCNAME]** 添加一条 DNS 记录（CNAME）。**[CompanyDomain]**.com，指向 **[MktoTrackingLink]**。
 
-`3)`允许列表Marketo。
+`3)` 将 Marketo 加入允许列表。
 
-列入允许列表     *如果我们在电子邮件中使用IP地址，请添加下面列出的IP：
+    * 如果我们的电子邮件允许列表基于 IP 地址，请将以下 IP 添加到允许列表中：
     199.15.212.0/22
     
     192.28.144.0/20
@@ -239,45 +239,43 @@ ht-degree: 1%
     
     130.248.173.0/24
     
-    103.237.104.0/22
-    
     94.236.119.0/26
 
 >[!NOTE]
 >
->如果您希望获得简略的IP列表，以便Marketo特定于您的环境的IP，请联系列入允许列表支持。
+>如需获取适用于我们环境的精简 IP 允许列表，请联系 Marketo 支持团队。
 
-    *如果我们的反垃圾邮件系统使用From域，请添加这些域：
+    * 如果我们的反垃圾电子邮件系统基于 From 域名进行过滤，请添加以下域名：
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
 
-`4)`我们需要设置SPF和DKIM，因此Marketo有权代表我们发送签名电子邮件。
+`4)` 我们需要配置 SPF 和 DKIM，以授权 Marketo 代表我们发送带有签名的电子邮件。
 
-`a.`要设置SPF，请将以下行添加到我们的DNS条目中：
+`a.` 要设置 SPF，请在我们的 DNS 记录中添加以下内容：
 
-在TXT中&#x200B;**[来自域]**： v=spf1 mx ip4：**[公司IP]**
-<br/>include： mktomail.com ~all
+IN  TXT **[From Domain]**:  v=spf1 mx ip4:**[Corporate IP(s)]**
+<br/>include: mktomail.com ~all
 
-如果我们的DNS条目中已存在现有的SPF记录，只需将以下内容添加到该记录中：
+如果 DNS 中已存在 SPF 记录，请仅将以下内容追加到现有记录中：
 
-包括:mktomail.com
+include:mktomail.com
 
-`[`将&#x200B;**From Domain**&#x200B;替换为您的Email From Domain (例如： company.com)，将&#x200B;**CorpIP**&#x200B;替换为您的公司电子邮件服务器的IP地址（例如： 255.255.255.255）。  如果您要通过Marketo从多个域发送电子邮件，则应让IT员工为每个域添加此行（一行）。`]`
+`[`请将 **From Domain** 替换为您的电子邮件发送域名（例如 company.com），并将 **CorpIP** 替换为公司电子邮件服务器的 IP 地址（例如 255.255.255.255）。如果您将通过 Marketo 使用多个域名发送电子邮件，请让 IT 人员为每个域名分别添加这一行（每个域名一行）。`]`
 
-`b.`对于DKIM，请为我们要设置的每个域创建DNS资源记录。 以下是我们将签署的每个域的主机记录和TXT值：
+`b.` 对于 DKIM，请为我们希望配置的每个域名创建相应的 DNS 资源记录。以下是将用于签名的各个域的主机记录和 TXT 值：
 
 **`[DKIMDomain1]`**：主机记录为&#x200B;**`[HostRecord1]`**，TXT值为&#x200B;**[TXTValue1]**。
 
 **`[DKIMDomain2]`**：主机记录是 **`[HostRecord2]`**，TXT 值为 **`[TXTValue2]`**。
 
-在遵循此处`[`的说明后&#x200B;**，为已设置的每个** DKIMDomain **复制** HostRecord **和** TXTValue[。 &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)在您的IT员工完成此步骤后，请不要忘记在&#x200B;**管理员>电子邮件> DKIM**&#x200B;中验证每个域。`]`
+`[`在按照[此处说明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)完成设置后，请复制每个 **DKIMDomain** 对应的 **HostRecord** 和 **TXTValue**。在 IT 人员完成此步骤后，请务必在&#x200B;**“管理员”>“电子邮件”>“DKIM”**&#x200B;中验证每个域。`]`
 
-`5)`我们需要确保FROM域&#x200B;**[FromDomain1]**、**[FromDomain2]**&#x200B;等存在有效的MX记录。 你能确认一下吗？ 如果不能，请配置以映射到我们的公司域MX记录。 这将确保我们能够处理对Marketo邮件的回复/自动响应者。
+`5)`我们需要确保FROM域&#x200B;**[FromDomain1]**、**[FromDomain2]**&#x200B;等存在有效的MX记录。 请协助确认。如果不存在，请配置其映射至公司主域名的 MX 记录。这样可以确保我们能够正常处理 Marketo 电子邮件的回复和自动回复。
 
-完成这些步骤后，请通知我，以便我可以使用Marketo完成设置过程。
+请在完成上述步骤后通知我，以便我继续完成 Marketo 的后续设置。
 
-谢谢！你是最好的！
+谢谢！非常感谢您的支持！
 
 爱，
 
@@ -285,71 +283,71 @@ ht-degree: 1%
 
 `----------------------------------------------`
 
-向IT发送电子邮件。 我们理解，IT可能需要一些时间才能完成这些任务。 您可以继续执行步骤7，但请记住，您必须返回步骤6以完成Marketo设置。
+将该电子邮件发送给 IT 团队。我们理解 IT 团队完成这些任务可能需要一些时间。您可以继续执行步骤7，但请记住，您必须返回步骤6以完成Marketo设置。
 
-## 在IT完成后完成您的Marketo设置 {#complete-your-marketo-setup-after-it-finishes}
+## 在 IT 完成配置后完成 Marketo 设置 {#complete-your-marketo-setup-after-it-finishes}
 
-在IT人员完成其任务后，请按照以下步骤添加登陆页面和电子邮件CNAME，并激活DKIM签名。
+在 IT 完成相关配置后，请按照以下步骤添加登陆页面和电子邮件的 CNAME，并启用 DKIM 签名。
 
-转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域以添加您的登陆页面CNAME
+前往 **[!UICONTROL Admin]** 区域以添加登陆页面 CNAME。
 
 ![](assets/setup-steps-15.png)
 
-选择登陆页面，然后单击&#x200B;**[!UICONTROL Edit]**&#x200B;区域中的[!UICONTROL Settings]。
+选择“登陆页面”，并在 [!UICONTROL Settings] 区域中点击 **[!UICONTROL Edit]**。
 
 ![](assets/setup-steps-16.png)
 
-在字段&#x200B;**[!UICONTROL Domain Name for Landing Pages]**&#x200B;中输入您的新域名。 其形式应为：
+在 **[!UICONTROL Domain Name for Landing Pages]** 字段中输入您的新域名。其格式应为：
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-17.png)
 
-在&#x200B;**[!UICONTROL Fallback]**&#x200B;页面字段中，输入在登陆页面不可用时您希望用户前往的URL。 如果您没有回退页，则可以使用公司主页。 在&#x200B;**[!UICONTROL Homepage]**&#x200B;字段中，输入公司网站。
+在 **[!UICONTROL Fallback]** 页面字段中，输入当登陆页面不可用时希望用户跳转到的 URL。如果您没有备用页面，可以使用公司官网首页。在 **[!UICONTROL Homepage]** 字段中输入您的公司网站地址。
 
 ![](assets/setup-steps-18.png)
 
-在[!UICONTROL Admin]区域，选择&#x200B;**[!UICONTROL Email]**&#x200B;以添加您的电子邮件CNAME
+在 [!UICONTROL Admin] 区域中，选择 **[!UICONTROL Email]** 以添加电子邮件 CNAME。
 
 ![](assets/setup-steps-19.png)
 
-向下滚动到[!UICONTROL Branding Domains]。 选择您的域并单击&#x200B;**[!UICONTROL Edit]**。
+向下滚动至 [!UICONTROL Branding Domains]。选择您的域名，然后点击 **[!UICONTROL Edit]**。
 
 ![](assets/setup-steps-20.png)
 
-在域字段中，输入电子邮件跟踪域。 其形式应为：
+在“域名”字段中输入您的电子邮件跟踪域名。其格式应为：
 
-`[EmailTrackingCNAME].[CompanyDomain].com`的问题。单击 **[!UICONTROL Save]**。
+`[EmailTrackingCNAME].[CompanyDomain].com`. Click **[!UICONTROL Save]**.
 
 ![](assets/setup-steps-21.png)
 
-## 集成您的CRM {#integrate-your-crm}
+## 集成您的 CRM {#integrate-your-crm}
 
 这可能是设置过程中最令人兴奋的步骤 — 现在该使用Marketo中存储的所有潜在客户和联系人来充实您的了！
 
-根据贵公司使用的CRM，从以下内容中进行选择。
+根据您公司使用的 CRM，从以下选项中进行选择。
 
     * [将Marketo与 [!DNL Salesforce.com]集成](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
     * [将Marketo与 [!DNL Microsoft Dynamics]集成](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
->要完成这些步骤，您需要公司的CRM管理员的帮助。
+>完成这些步骤需要您公司 CRM 管理员的协助。
 
 ## 将跟踪代码添加到您的网站 {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->您是[!DNL Launch Pack]客户吗？ 您可以跳过此步骤。 您的顾问将在您的IT设置说明文档中为您提供[!DNL Munchkin]代码说明。
+>您是 [!DNL Launch Pack] 客户吗？如果是，您可以跳过此步骤。您的顾问将在 IT 设置说明文档中向您提供 [!DNL Munchkin] 代码的相关指引。
 
-Marketo具有自定义跟踪JavaScript（称为[!DNL Munchkin]），可用于跟踪任何网页上的人员活动。 需要[!DNL Munchkin]才能将您的网站集成到Marketo中。 按照以下步骤[将 [!DNL Munchkin] 跟踪代码添加到您的网站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}。
+Marketo具有自定义跟踪JavaScript（称为[!DNL Munchkin]），可用于跟踪任何网页上的人员活动。 要将您的网站集成到 Marketo 中，必须使用 [!DNL Munchkin]。请按照以下步骤操作：[将 [!DNL Munchkin] 跟踪代码添加到您的网站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}。
 
 >[!NOTE]
 >
 >需要具有HTML的体验才能添加跟踪代码。
 
-## 性能期望 {#performance-expectations}
+## 性能预期 {#performance-expectations}
 
-从Marketo的性能来看，您可以期待什么？ 具体情况会因营销活动的规模和复杂性而异。 但是，在[Marketo Engage产品描述](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中的多个表中，您可以期望的性能级别与“标准”列中列出的性能水平相当。 “性能”和“性能提升”列是指提供[更高性能级别](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的性能层包。
+在性能方面，您可以对 Marketo 有哪些预期？这会因营销活动的规模和复杂程度而有所不同。但整体性能可与 [Marketo Engage 产品说明](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中多张表格里“标准”列所描述的性能水平相当。“性能”和“性能提升”列对应的是提供[更高性能水平](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的性能等级套餐。
 
 您的所有设置步骤都已结束。 只剩下深入了解并使用Marketo了！

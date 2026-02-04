@@ -7,9 +7,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 2f3cea36349de368e706da59f944a92708d976d2
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1319'
 ht-degree: 8%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 品牌指南是一组详细的规则和标准，用于建立品牌的视觉和语言标识。 它们用作参考，以在所有营销和通信平台上保持一致的品牌代表性。
 
-在[!DNL Marketo Engage]中，您现在可以选择手动输入和组织品牌详细信息或上传品牌准则文档以进行自动信息提取。
+手动输入并组织您的品牌详细信息或上传品牌准则文档以进行自动信息提取。
 
 >[!AVAILABILITY]
 >

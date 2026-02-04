@@ -4,9 +4,9 @@ description: 为 Marketo Engage 配置协议 — Marketo Engage 文档 — 产�
 title: 为 Marketo Engage 配置协议
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '2131'
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+workflow-type: tm+mt
+source-wordcount: '2129'
 ht-degree: 100%
 
 ---
@@ -63,8 +63,6 @@ ht-degree: 100%
 当您的营销团队使用 Marketo Engage 发送测试电子邮件（这是在大规模群发电子邮件前的最佳做法）时，这些测试电子邮件有时会遭到依赖发件人 IP 地址进行验证的反垃圾系统拦截。为确保测试电子邮件能够成功送达，请将 Marketo Engage 加入允许列表。
 
 请将以下 IP 地址添加到您公司的允许列表中：
-
-103.237.104.0/22
 
 130.248.172.0/24
 
@@ -300,9 +298,6 @@ Marketo Engage 的 [Salesforce CRM 同步](/help/marketo/product-docs/crm-sync/s
  <tbody>
   <tr>
    <th>IP 块（CIDR 表示法）</th>
-  </tr>
-  <tr>
-   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>
