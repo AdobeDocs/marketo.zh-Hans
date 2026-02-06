@@ -91,7 +91,7 @@ ht-degree: 11%
   <tr>
    <td><strong>Marketo + Workfront集成</strong>：对于拥有Marketo和Workfront的用户，现在可以使用Workfront Fusion Templates集成这两个产品并解锁新的自动化工作流以简化活动执行。</td>
    <td>已发布</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">审阅和批准Blueprint</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=zh-Hans" target="_blank">审阅和批准Blueprint</a></td>
   </tr>
  </tbody>
 </table>
