@@ -3,7 +3,7 @@ description: 发行说明 — 2024年1月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 1 月
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 15%
@@ -92,7 +92,7 @@ ht-degree: 15%
 
 以下所有功能都遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请查看每个功能旁的状态标记。
 
-### 销售Insight操作 {#sales-insight-actions}
+### Sales Insight Actions {#sales-insight-actions}
 
 ![（星形）](assets/yellow-star.png)
 
@@ -194,7 +194,7 @@ ht-degree: 15%
 
 * **同步潜在客户API更新**： [同步潜在客户API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}的行为已稍作调整，涉及`unsubscribed`字段的更新。 现在，当您传递`null`作为值时，它等于传递值`false`。
 
-* **Marketo Engage Forms jQuery 1.x**：在2024年1月版本中，我们将将Marketo Engage Forms的jQuery更新为jQuery 3.x。这可能会影响依赖旧版jQuery的自定义Form实施。 [在此了解详情](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}。
+* **Marketo Engage Forms jQuery 1.x**：在2024年1月版本中，我们将将Marketo Engage Forms的jQuery更新为jQuery 3.x。这可能会影响依赖旧版jQuery的自定义Form实施。 [在此处了解详情](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}。
 
 * **仅用于SSO用户的电子邮件验证**：仅用于SSO的用户以前是自动验证的，允许他们使用无法访问的email帐户。 从1月中旬开始，所有现有的“仅SSO”用户将被要求通过我们发送到电子邮件帐户的链接重新验证其电子邮件，并且不会被验证。 所有新的SSO Only用户以后都需要验证其电子邮件地址。
 

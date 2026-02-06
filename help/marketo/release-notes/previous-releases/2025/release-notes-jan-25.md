@@ -3,10 +3,10 @@ description: 发行说明 — 2025年1月 — Marketo文档 — 产品文档
 title: 发行说明 - 2025 年 1 月
 feature: Release Information
 exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '551'
-ht-degree: 23%
+ht-degree: 29%
 
 ---
 
@@ -73,8 +73,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 截至那时，用户无法在Marketo Engage中创建、克隆或嵌入任何这些Social功能。 现有社会资产继续运作至2025年1月31日。 2025年2月1日，Social资产将停止运行。 需要删除嵌入到登陆页面中的社交功能。 [了解详情](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **获取计划成员API更新**：我们已增强[获取计划成员](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API以支持检索计划成员标识符的功能。 这是通过向在API请求的字段参数中指定的字段列表添加ID来完成的。
+* **获取计划成员API更新**：我们已增强[获取计划成员](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API以支持检索计划成员标识符的功能。 这是通过向在API请求的字段参数中指定的字段列表添加ID来完成的。
 
-* **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年3月31日之后不可用。 所有新集成和现有集成都应使用 &#39;Authorization&#39; 头部进行 REST API 调用的身份验证，详细说明[请参阅此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API ‘access_token’ 参数弃用**：用于对 Marketo REST API 调用进行身份验证的 `access_token` 查询参数即将弃用，并将在 2026 年 3 月 31 日之后不再可用。所有新的和现有的集成都应使用 &#39;Authorization&#39; 请求头对 REST API 调用进行身份验证，[具体说明请参见此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API弃用**：对Marketo SOAP API的支持将于2026年3月31日终止。 使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API 弃用**：对 Marketo SOAP API 的支持将于 2026 年 3 月 31 日结束。使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

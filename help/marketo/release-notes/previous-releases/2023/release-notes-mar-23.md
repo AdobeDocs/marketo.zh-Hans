@@ -3,10 +3,10 @@ description: 发行说明 — 2023年3月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 3 月
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 19%
+ht-degree: 17%
 
 ---
 

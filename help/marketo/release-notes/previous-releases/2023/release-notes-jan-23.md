@@ -3,10 +3,10 @@ description: 发行说明 — 2023年1月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 1 月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 19%
+ht-degree: 17%
 
 ---
 
@@ -89,7 +89,7 @@ ht-degree: 19%
   </tr>
   <tr>
    <td>已发布</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=zh-Hans">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

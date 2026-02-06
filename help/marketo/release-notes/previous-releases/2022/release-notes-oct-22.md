@@ -3,10 +3,10 @@ description: 发行说明 — 2022年10月 — Marketo文档 — 产品文档
 title: 发行说明 - 2022 年 10 月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 18%
+ht-degree: 16%
 
 ---
 

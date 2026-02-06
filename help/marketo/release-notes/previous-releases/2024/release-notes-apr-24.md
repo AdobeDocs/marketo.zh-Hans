@@ -3,10 +3,10 @@ description: 发行说明 — 2024年4月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 4 月
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 21%
+ht-degree: 20%
 
 ---
 

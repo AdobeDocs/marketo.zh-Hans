@@ -3,10 +3,10 @@ description: 发行说明 — 2023年9月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 9 月
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '922'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
@@ -91,7 +91,7 @@ ht-degree: 12%
   <tr>
    <td><strong>Marketo + Workfront集成</strong>：对于拥有Marketo和Workfront的用户，现在可以使用Workfront Fusion Templates集成这两个产品并解锁新的自动化工作流以简化活动执行。</td>
    <td>已发布</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=zh-Hans" target="_blank">审阅和批准Blueprint</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">审阅和批准Blueprint</a></td>
   </tr>
  </tbody>
 </table>
@@ -119,7 +119,7 @@ ht-degree: 12%
    <tr>
    <td><strong>使用Marketo Engage Forms进行对话的Forms</strong>：通过将Marketo Engage Forms与Dynamic Chat对话流集成，使它们能够进行对话。 使用表单数据或智能列表成员资格即时确定满足预订、白皮书链接或自定义目标的潜在客户。</td>
    <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">会话表单</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">对话式表单</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -129,7 +129,7 @@ ht-degree: 12%
     <tr>
    <td><strong>对话SDK</strong>：将任何表单、登陆页面或几乎任何网页转换为会议预约体验。</td>
    <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">对话SDK</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">Conversations SDK</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -269,6 +269,6 @@ ht-degree: 12%
 
 * **弃用Marketo事件和Marketo时刻**： Adobe将从2023年10月2日起从所有应用商店中删除Marketo事件和Marketo时刻。 现有用户 — 您可以继续使用这些应用程序，直到您将您的Marketo Engage实例迁移到Adobe Identity为止。 这些应用程序不支持使用Adobe ID登录。
 
-* **切换Design Studio Assets的切换弃用**：将弃用允许用户在经典界面和Design Studio的现代UX体验之间进行切换的切换开关，以及旧版本的Design Studio体验，以便允许用户完全迁移到现代UX体验。 [在此了解详情](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}。
+* **切换Design Studio Assets的切换弃用**：将弃用允许用户在经典界面和Design Studio的现代UX体验之间进行切换的切换开关，以及旧版本的Design Studio体验，以便允许用户完全迁移到现代UX体验。 [在此处了解详情](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}。
 
 * **_产品发布网络研讨会_**：[2023年7月和9月Marketo Engage发布网络研讨会](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

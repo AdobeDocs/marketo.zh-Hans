@@ -3,9 +3,9 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d46ce01ca654ce17c1909d9e458cab1a8cb520f9
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '478'
 ht-degree: 32%
 
 ---
@@ -59,8 +59,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>向Designer发送电子邮件 — 项目符号</strong>：现在，在Email Designer中创作电子邮件时，可以创建多级别项目符号。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td>不适用</td>
   </tr>
   <tr>
    <td> </td>
@@ -103,11 +103,11 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **增强的房间界面体验**：体验刷新后更现代的房间界面，该界面构建于Adobe最新的Spectrum 2设计框架之上，与跨其他Adobe产品(如Creative Cloud和Experience Cloud)使用的视觉语言一致。
 
-访问[此页面](https://helpx.adobe.com/cn/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}了解全部详细信息。
+访问[此页面](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}了解全部详细信息。
 
 ## 公告 {#announcements}
 
-* **Marketo社区迁移完成**：新的Adobe Experience League社区现已上线！ [已进行几项增强](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=zh-Hans){target="_blank"}，以使您的Marketo社区体验更好。 [签出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hans){target="_blank"}。
+* **Marketo社区迁移完成**：新的Adobe Experience League社区现已上线！ [已进行几项增强](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"}，以使您的Marketo社区体验更好。 [签出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}。
 
 * **Rest API ‘access_token’ 参数弃用**：用于对 Marketo REST API 调用进行身份验证的 `access_token` 查询参数即将弃用，并将在 2026 年 3 月 31 日之后不再可用。所有新的和现有的集成都应使用 &#39;Authorization&#39; 请求头对 REST API 调用进行身份验证，[具体说明请参见此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
