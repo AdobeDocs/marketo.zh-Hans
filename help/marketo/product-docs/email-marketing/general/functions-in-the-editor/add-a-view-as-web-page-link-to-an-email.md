@@ -4,10 +4,10 @@ description: 将视图作为网页链接添加到电子邮件 — Marketo文档 
 title: 向电子邮件添加“以网页形式查看”链接
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 13%
+source-wordcount: '159'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,9 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->创建新电子邮件时，未启用以网页形式查看。 如果启用它并克隆电子邮件，则会复制此设置。
+>* 创建新电子邮件时，未启用以网页形式查看。 如果启用它并克隆电子邮件，则会复制此设置。
+>
+>* “以网页形式查看”链接在六个月后过期。
 
 1. 选择您的电子邮件并单击&#x200B;**[!UICONTROL Edit Draft]**。
 
