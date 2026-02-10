@@ -4,10 +4,10 @@ description: 设置Facebook潜在客户广告 — Marketo文档 — 产品文档
 title: 设置 Facebook 潜在客户广告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 3%
+source-wordcount: '324'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,9 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->**需要管理员权限**
+>* **需要管理员权限**
+>
+>* 创建Facebook潜在客户广告表单时，请确保表单名称不包含数字字符。 表单名称必须为字母或字母数字。
 
 >[!AVAILABILITY]
 >
