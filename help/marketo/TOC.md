@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
+source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
 workflow-type: tm+mt
-source-wordcount: '9331'
+source-wordcount: '9336'
 ht-degree: 99%
 
 ---
@@ -1026,7 +1026,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
@@ -1971,6 +1971,8 @@ ht-degree: 99%
    + [Dynamic Chat 版本](release-notes/dynamic-chat.md)
    + [Dynamic Chat 版本 TEMP](release-notes/dynamic-chat-temp.md)
    + 以前的版本 {#previous-releases}
+      + 2026 {#2026}
+         + [发行说明： 2026年1月](release-notes/previous-releases/2025/release-notes-jan-26.md)
       + 2025 {#2025}
          + [发行说明：2025 年 1 月](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [发行说明：2025 年 3 月](release-notes/previous-releases/2025/release-notes-mar-25.md)
