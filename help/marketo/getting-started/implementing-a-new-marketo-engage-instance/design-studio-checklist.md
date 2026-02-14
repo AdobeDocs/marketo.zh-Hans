@@ -58,7 +58,7 @@ Design Studio部分是可重复使用的“全局资产”应驻留的位置。 
   </tr>
   <tr>
     <td>隐私和合规性</td>
-    <td><li>使您的表单符合<a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">通用数据保护条例(GDPR)</a>。</li></td>
+    <td><li>使您的表单符合<a href="https://business.adobe.com/cn/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">通用数据保护条例(GDPR)</a>。</li></td>
   </tr>
   <tr>
     <td>数据标准化</td>

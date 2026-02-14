@@ -139,7 +139,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>隐私和合规性</td>
-    <td><li>创建程序以确保遵守数据隐私和垃圾邮件法律，例如<a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR、CASL、CAN-SPAM、CCPA等</a></li>
+    <td><li>创建程序以确保遵守数据隐私和垃圾邮件法律，例如<a href="https://business.adobe.com/cn/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR、CASL、CAN-SPAM、CCPA等</a></li>
     <p><img src="assets/note-icon.png" alt="注释图标"> 注意：请始终记住就这些问题咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
   </tr>
   <tr>

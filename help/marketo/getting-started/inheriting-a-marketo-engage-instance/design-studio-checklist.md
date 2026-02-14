@@ -95,7 +95,7 @@ ht-degree: 3%
   <tr>
    <td>隐私和合规性</td>
    <td><li>您的表单策略是否与企业数据隐私和选择加入要求保持一致？
-   <br/>     请考虑一下<a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">通用数据保护条例(GDPR)</a>、加拿大的反垃圾邮件法(CASL)、2003年控制非请求性色情制品攻击和营销法案(CAN-SPAM)、加州消费者隐私法案(CCPA)等，以遵守相关法规。</li>
+   <br/>     请考虑一下<a href="https://business.adobe.com/cn/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">通用数据保护条例(GDPR)</a>、加拿大的反垃圾邮件法(CASL)、2003年控制非请求性色情制品攻击和营销法案(CAN-SPAM)、加州消费者隐私法案(CCPA)等，以遵守相关法规。</li>
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：请记住在这些问题上始终咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
   </tr>
  </tbody>
