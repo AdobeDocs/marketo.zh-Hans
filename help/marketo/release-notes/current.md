@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 49%
+source-wordcount: '286'
+ht-degree: 51%
 
 ---
 
@@ -64,16 +64,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>向Designer发送电子邮件 — API</strong>：您现在可以使用Designer电子邮件的API调用。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Picklist管理</strong>：指定可在Marketo界面中的字段中使用的值。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
