@@ -40,4 +40,4 @@ ht-degree: 0%
 
 ## 快速入门：60秒视频概述 {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480125?captions=chi_hans&learn=on){transcript=true}
