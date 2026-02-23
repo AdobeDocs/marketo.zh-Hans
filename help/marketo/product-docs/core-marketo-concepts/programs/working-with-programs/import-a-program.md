@@ -4,9 +4,9 @@ description: 导入程序 — Marketo文档 — 产品文档
 title: 导入项目
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '538'
 ht-degree: 2%
 
 ---
@@ -17,11 +17,14 @@ ht-degree: 2%
 
 >[!CAUTION]
 >
->如果程序具有包含“自定义对象已更新”触发器的智能列表，将导致导入失败。 在执行以下列出的步骤之前，请从所有智能列表中删除此触发器。
+>
+>* 导入程序时，将跳过包含代码片段或[动态内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}的电子邮件/登陆页面。
+>
+>* 如果程序具有包含“自定义对象已更新”触发器的智能列表，将导致导入失败。 在执行以下列出的步骤之前，请从所有智能列表中删除此触发器。
 
 ## 导入项目群 {#importing-a-program}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/import-a-program-1.png)
 
@@ -82,7 +85,3 @@ ht-degree: 2%
 >程序导入不支持图像类型我的令牌。 如果导入了图像类型为我的令牌的程序，则将通过&#x200B;_no_&#x200B;令牌。
 
 **程序标记：**&#x200B;您可以使用冲突规则来控制如何处理目标帐户中不存在的程序标记。 使用默认规则将创建程序标记，或者您可以选择忽略标记。
-
->[!CAUTION]
->
->导入项目时，将跳过包含[动态内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}的电子邮件/登陆页面。
