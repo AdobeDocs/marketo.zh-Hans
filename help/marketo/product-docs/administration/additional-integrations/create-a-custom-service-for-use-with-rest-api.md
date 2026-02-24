@@ -4,10 +4,10 @@ description: 创建用于ReST API的自定义服务 — Marketo文档 — 产品
 title: 创建用于 ReST API 的自定义服务
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 18%
 >[!PREREQUISITES]
 >
 >* [创建仅API用户角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [创建仅API用户](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [创建仅API用户](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
 >
 
 >[!NOTE]
@@ -27,7 +27,7 @@ ht-degree: 18%
 
 >[!TIP]
 >
->有关[REST API](https://developer.adobe.com/marketo-apis/)的详细信息，请查看我们的开发人员文档。 如果您需要，我们还有[SOAP API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/soap/soap-api)。
+>有关[REST API](https://developer.adobe.com/marketo-apis/)的详细信息，请查看我们的开发人员文档。 如果您需要，我们还有[SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)。
 
 ## 创建自定义服务 {#create-custom-service}
 
@@ -43,7 +43,7 @@ ht-degree: 18%
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. 输入服务的&#x200B;**[!UICONTROL Display Name]**。 选择&#x200B;**[!UICONTROL API Only User]** [之前创建的](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。
+1. 输入服务的&#x200B;**[!UICONTROL Display Name]**。 选择&#x200B;**[!UICONTROL API Only User]** [之前创建的](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
