@@ -5,10 +5,10 @@ description: 欢迎使用全新的 Adobe Marketo Engage 电子邮件设计器。
 title: 概述
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
-workflow-type: ht
+source-git-commit: 735721e66b1cd2e21df5c2b85051d4bfee44d2e0
+workflow-type: tm+mt
 source-wordcount: '659'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -88,7 +88,7 @@ ht-degree: 100%
 
 **模板模块的创建是否更具可定制性和可扩展性？**
 
-是的，完全可以。借助我们的 WYSIWYG（所见即所得）编辑器，模板模块将更具可定制性。
+是的，使用我们的WYSIWYG（所见即所得）编辑器，可完全进行自定义。
 
 **新设计器中的电子邮件模板创建流程是怎样的？是所见即所得，还是需要 HTML 知识？**
 
