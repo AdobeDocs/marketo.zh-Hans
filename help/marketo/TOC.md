@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
+source-git-commit: bf420edcc79aa551e286302fa002df9162371873
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9329'
 ht-degree: 99%
 
 ---
@@ -1026,7 +1026,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
@@ -1113,7 +1113,6 @@ ht-degree: 99%
             + [电子邮件模板语法](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
             + [迁移到电子邮件编辑器 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
          + 编辑器中的功能 {#functions-in-the-editor}
-            + [电子邮件中的“转发给朋友”链接](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
             + [在电子邮件中包含日程表事件 (.ics)](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
             + [将电子邮件设为运营类](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
             + [预览包含动态内容的电子邮件](product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
