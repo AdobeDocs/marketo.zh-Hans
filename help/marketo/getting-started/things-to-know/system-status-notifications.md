@@ -4,7 +4,7 @@ title: 订阅系统状态通知
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 1%
@@ -85,7 +85,7 @@ ht-degree: 1%
 
 1. 单击![Experience Cloud](assets/icon-plus-sign.png)旁边的&#x200B;_加号图标_&#x200B;图标展开菜单。 对&#x200B;_Adobe Marketo Engage_&#x200B;执行相同操作。
 
-   ![](assets/subscribe-to-system-status-notifications-6.png)
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
 
 1. 选择要接收有关通知的所需产品/服务，然后单击&#x200B;**继续**。
 
@@ -93,7 +93,7 @@ ht-degree: 1%
    >
    >选中&#x200B;_Adobe Marketo Engage_&#x200B;以选择全部。
 
-   ![](assets/subscribe-to-system-status-notifications-7.png)
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
 
 1. 选择所需的事件类型。
 
@@ -120,7 +120,7 @@ ht-degree: 1%
 
 1. 选择所需的区域位置和环境。 单击&#x200B;**继续**。
 
-   ![](assets/subscribe-to-system-status-notifications-9.png)
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
 
 1. 选择您的订阅首选项&#x200B;**电子邮件**&#x200B;或&#x200B;**Slack**，然后单击&#x200B;**继续**。
 
