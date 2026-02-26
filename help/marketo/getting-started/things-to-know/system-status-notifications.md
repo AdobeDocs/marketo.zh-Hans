@@ -4,7 +4,8 @@ title: 订阅系统状态通知
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
+exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
+source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 1%
@@ -35,7 +36,7 @@ ht-degree: 1%
 
 在[创建订阅](#create-a-subscription)的步骤7中，此用户将选择区域位置&#x200B;**Marketo Ashburn**&#x200B;和面板&#x200B;**ab49**。
 
-<table style="width:225px;">
+<table style="width:300px;">
   <tr>
     <th colspan="2">数据中心缩写</th>
   </tr>
@@ -85,7 +86,7 @@ ht-degree: 1%
 
 1. 单击![Experience Cloud](assets/icon-plus-sign.png)旁边的&#x200B;_加号图标_&#x200B;图标展开菜单。 对&#x200B;_Adobe Marketo Engage_&#x200B;执行相同操作。
 
-   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
 1. 选择要接收有关通知的所需产品/服务，然后单击&#x200B;**继续**。
 
@@ -93,7 +94,7 @@ ht-degree: 1%
    >
    >选中&#x200B;_Adobe Marketo Engage_&#x200B;以选择全部。
 
-   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800"}
 
 1. 选择所需的事件类型。
 
@@ -101,26 +102,26 @@ ht-degree: 1%
 
    <table style="width:600px;">
    <tr>
-   <td style="width:30%;"><b>重大服务问题</b></td>
+   <td style="width:40%;"><b>重大服务问题</b></td>
    <td>生产系统上多个用户的服务不可用或性能严重下降。</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>轻微服务问题</b></td>
+   <td style="width:40%;"><b>轻微服务问题</b></td>
    <td>生产系统上的多个用户出现部分服务不可用或性能适度下降。</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>服务维护</b></td>
+   <td style="width:40%;"><b>服务维护</b></td>
    <td>文本</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>公告</b></td>
+   <td style="width:40%;"><b>公告</b></td>
    <td>与……相关的公告</td>
    </tr>
    </table>
 
 1. 选择所需的区域位置和环境。 单击&#x200B;**继续**。
 
-   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
 
 1. 选择您的订阅首选项&#x200B;**电子邮件**&#x200B;或&#x200B;**Slack**，然后单击&#x200B;**继续**。
 
