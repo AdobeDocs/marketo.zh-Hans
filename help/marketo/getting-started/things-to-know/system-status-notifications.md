@@ -5,16 +5,16 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
+source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
 
 # 订阅系统状态通知 {#subscribe-to-system-status-notifications}
 
-介绍文本
+了解如何订阅不同的状态通知以随时了解当前问题。
 
 >[!PREREQUISITES]
 >
@@ -88,7 +88,7 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. 选择要接收有关通知的所需产品/服务，然后单击&#x200B;**继续**。
+1. 选择要接收有关通知的产品产品/服务，然后单击&#x200B;**继续**。
 
    >[!TIP]
    >
@@ -100,28 +100,32 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-8.png)
 
-   <table style="width:600px;">
+   <table style="width:500px;">
    <tr>
-   <td style="width:40%;"><b>重大服务问题</b></td>
+   <td style="width:35%;"><b>重大服务问题</b></td>
    <td>生产系统上多个用户的服务不可用或性能严重下降。</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>轻微服务问题</b></td>
+   <td style="width:35%;"><b>轻微服务问题</b></td>
    <td>生产系统上的多个用户出现部分服务不可用或性能适度下降。</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>服务维护</b></td>
-   <td>文本</td>
+   <td style="width:35%;"><b>服务维护</b></td>
+   <td>计划窗口，用于执行可能影响产品可用性或性能的产品维护。</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>公告</b></td>
-   <td>与……相关的公告</td>
+   <td style="width:35%;"><b>公告</b></td>
+   <td>具有广泛影响的全球、产品系列或产品相关消息。</td>
    </tr>
    </table>
 
-1. 选择所需的区域位置和环境。 单击&#x200B;**继续**。
+1. 选择区域位置和环境。 单击&#x200B;**继续**。
 
    ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
+
+   >[!NOTE]
+   >
+   >如果您错过了在何处查找此内容，请参阅[识别您的数据中心](#identify)。
 
 1. 选择您的订阅首选项&#x200B;**电子邮件**&#x200B;或&#x200B;**Slack**，然后单击&#x200B;**继续**。
 
