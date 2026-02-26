@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9334'
 ht-degree: 99%
 
 ---
@@ -29,12 +29,13 @@ ht-degree: 99%
       + [新实例最佳做法：分析检查表](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [新实例最佳做法：记录您的设置](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 须知事项 {#things-to-know}
-      + [Marketo Engage 术语表](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage术语表](getting-started/things-to-know/marketo-engage-glossary.md)
       + [图标术语表](getting-started/things-to-know/icon-glossary.md)
-      + [经典图标术语表](getting-started/things-to-know/classic-icon-glossary.md)
+      + [Classic图标术语表](getting-started/things-to-know/classic-icon-glossary.md)
       + [帮助中心](getting-started/things-to-know/help-center.md)
+      + [订阅系统状态通知](getting-started/things-to-know/subscribe-to-system-status-notifications.md)
       + [产品知识AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + [Marketing Nation 社区](getting-started/things-to-know/community.md)
+      + [营销国家社区](getting-started/things-to-know/community.md)
    + 快速上手 {#quick-wins}
       + [完成设置并添加人员](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [发送电子邮件](getting-started/quick-wins/send-an-email.md)
@@ -1026,7 +1027,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
