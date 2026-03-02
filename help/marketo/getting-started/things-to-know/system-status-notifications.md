@@ -2,12 +2,10 @@
 description: 订阅系统状态通知 — Marketo Engage文档 — 产品文档
 title: 订阅系统状态通知
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 1%
 
 ---
@@ -22,8 +20,6 @@ ht-degree: 1%
 
 ## 识别您的数据中心 {#identify}
 
-+++识别您的数据中心和面板/服务器
-
 1. 在Marketo Engage的&#x200B;**管理员**&#x200B;部分中，单击&#x200B;**我的帐户**。
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -34,39 +30,19 @@ ht-degree: 1%
 
 在&#x200B;_数据中心_&#x200B;字段中，字母是数据中心，数字是面板。 在上面的示例中，用户位于位于舱49上的Ashburn数据中心。
 
-在[创建订阅](#create-a-subscription)的步骤7中，此用户将选择区域位置&#x200B;**Marketo Ashburn**&#x200B;和面板&#x200B;**ab49**。
+在[步骤7（共](#create-a-subscription)部分）中，此用户将选择区域位置&#x200B;**Marketo Ashburn**&#x200B;和面板&#x200B;**ab49**。
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">数据中心缩写</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">ab</td>
-    <td>Ashburn</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sj</td>
-    <td>圣何塞</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sn</td>
-    <td>悉尼</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">lon</td>
-    <td>伦敦</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">nld</td>
-    <td>阿姆斯特丹</td>
-  </tr>
-</table>
+**数据中心缩写**
+
+ab：Ashburn
+sj：圣何塞
+sn：悉尼
+lon：伦敦
+nld：阿姆斯特丹
 
 >[!TIP]
 >
 >此方法还可用于识别您的订阅使用的实时Personalization (RTP)面板/服务器。
-
-+++
 
 ## 创建订阅 {#create-a-subscription}
 

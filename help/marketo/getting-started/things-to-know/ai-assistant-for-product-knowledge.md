@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ ht-degree: 0%
    >
    >使用此图标![](assets/icon-arrows.png)展开屏幕，使用此图标![](assets/icon-conversation-history.png)查看历史记录或开始新对话。
 
-## 快速入门：60秒视频概述 {#video}
+## 快速入门：视频概述 {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480125?captions=chi_hans&learn=on){transcript=true}
+在大约一分钟内，了解用于产品知识的AI助手的工作原理。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
