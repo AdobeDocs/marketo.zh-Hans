@@ -42,4 +42,4 @@ ht-degree: 0%
 
 在大约一分钟内，了解用于产品知识的AI助手的工作原理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480125?captions=chi_hans&learn=on){transcript=true}
