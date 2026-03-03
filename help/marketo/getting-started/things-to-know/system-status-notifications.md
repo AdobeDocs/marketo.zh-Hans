@@ -3,7 +3,7 @@ description: 订阅系统状态通知 — Marketo Engage文档 — 产品文档
 title: 订阅系统状态通知
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 1%
@@ -30,15 +30,15 @@ ht-degree: 1%
 
 在&#x200B;_数据中心_&#x200B;字段中，字母是数据中心，数字是面板。 在上面的示例中，用户位于位于舱49上的Ashburn数据中心。
 
-在[步骤7（共](#create-a-subscription)部分）中，此用户将选择区域位置&#x200B;**Marketo Ashburn**&#x200B;和面板&#x200B;**ab49**。
+在[步骤7（共](#create-a-subscription)部分）中，用户将选择区域位置&#x200B;**Marketo Ashburn**&#x200B;和面板&#x200B;**ab49**。
 
 **数据中心缩写**
 
-ab：Ashburn
-sj：圣何塞
-sn：悉尼
-lon：伦敦
-nld：阿姆斯特丹
+* ab：Ashburn
+* sj：圣何塞
+* sn：悉尼
+* lon：伦敦
+* nld：阿姆斯特丹
 
 >[!TIP]
 >
