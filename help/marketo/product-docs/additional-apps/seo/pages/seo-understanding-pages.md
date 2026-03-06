@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949184
-description: SEO — 了解页面 — Marketo文档 — 产品文档
+description: 了解页面和问题选项卡、页面优化得分范围，以及如何提高网站的搜索排名。
 title: SEO - 了解页面
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '297'
 ht-degree: 3%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 3%
 >
 >2026年3月31日，Marketo Engage将弃用搜索引擎优化功能。 请在3月30日或之前导出任何相关数据。 [了解详情](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
 >
->* [导出问题](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [导出关键字结果](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [导出关键词趋势](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [导出竞争者关键词趋势](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [导出问题](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [导出关键字结果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [导出关键词趋势](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [导出竞争者关键词趋势](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## [!UICONTROL Pages]选项卡 {#pages-tab}
 
