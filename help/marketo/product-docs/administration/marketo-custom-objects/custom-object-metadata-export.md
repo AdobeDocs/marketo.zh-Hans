@@ -1,12 +1,12 @@
 ---
-description: 自定义对象元数据导出 — Marketo文档 — 产品文档
+description: 如何导出自定义对象元数据架构以供SOAP或Munchkin API使用。
 title: 导出自定义对象元数据
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 18%
+source-wordcount: '105'
+ht-degree: 17%
 
 ---
 

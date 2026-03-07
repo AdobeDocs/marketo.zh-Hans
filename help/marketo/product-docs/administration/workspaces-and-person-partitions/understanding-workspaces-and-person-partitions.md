@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360309
-description: 了解工作区与人员分区 — Marketo 文档 — 产品文档
+description: 了解工作区如何组织营销资产以及人员分区如何充当单独的数据库。
 title: 了解工作区和人员分区
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '528'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '533'
+ht-degree: 97%
 
 ---
 

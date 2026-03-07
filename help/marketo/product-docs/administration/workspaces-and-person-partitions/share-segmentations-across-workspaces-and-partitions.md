@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515767
-description: 跨工作区和分区共享分段 — Marketo文档 — 产品文档
+description: 用于跨工作区和分区共享分段的规则和步骤，包括在默认工作区中创建分段的限制和提示。
 title: 跨工作区和分区共享分段
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 2%
+source-wordcount: '477'
+ht-degree: 3%
 
 ---
 
@@ -72,7 +72,7 @@ Marketo非常善于为项目或明智的营销活动挑选合适的人员。 但
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. 右键单击该文件夹并选择&#x200B;**[!UICONTROL Share Folder]**。
+1. 右键点击该文件夹，并选择 **[!UICONTROL Share Folder]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15695874
-description: 将 [!DNL BrightTALK] 连接到Marketo - Marketo文档 — 产品文档
+description: 使用仅限API的用户凭据通过LaunchPoint将您的 [!DNL BrightTALK] 渠道连接到Marketo。
 title: 连接 [!DNL BrightTALK] 到Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '289'
 ht-degree: 3%
 
 ---

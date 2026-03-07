@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617187
-description: 了解隐私设置 — Marketo文档 — 产品文档
+description: 隐私和跟踪选项概述，包括“不跟踪浏览器”支持、选择退出Cookie以及面向Web访客的匿名化IP跟踪。
 title: 了解隐私设置
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '493'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Web访客可以通过选择“不跟踪”(DNT)来设置浏览器，以防止任
 
 营销人员可以通过使用匿名处理的IP地址跟踪用户来维护隐私。 为此，请将此代码添加到嵌入到网站中的RTP或[!DNL Munchkin] Javascript中。
 
-* 对于[!DNL Munchkin]，只需将`{"anonymizeIP",true}`添加到[init函数](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}中。
+* 对于[!DNL Munchkin]，只需将`{"anonymizeIP",true}`添加到[init函数](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}中。
 
 * 对于Web Personalization (RTP)，请将其添加到Javascript：
 

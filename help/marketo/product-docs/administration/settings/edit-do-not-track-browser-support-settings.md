@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095047
-description: 编辑“Do Not Track”浏览器支持设置 — Marketo文档 — 产品文档
+description: 如何通过编辑人员跟踪来遵循或忽略浏览器不跟踪请求。
 title: 编辑“请勿跟踪”浏览器支持设置
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 15%
+source-wordcount: '124'
+ht-degree: 17%
 
 ---
 

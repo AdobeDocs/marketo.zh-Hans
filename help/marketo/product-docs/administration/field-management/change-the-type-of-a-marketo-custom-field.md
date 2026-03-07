@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360331
-description: 更改Marketo自定义字段的类型 — Marketo文档 — 产品文档
+description: 如何在字段管理中更改自定义字段的数据类型（无法更改得分和公式字段）。
 title: 更改 Marketo 自定义字段的类型
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 22%
+source-wordcount: '102'
+ht-degree: 20%
 
 ---
 

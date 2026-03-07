@@ -1,11 +1,11 @@
 ---
-description: 登陆页标题 — Marketo文档 — 产品文档
+description: 如何自定义登陆页面域的HTTP标头，包括严格传输安全和X-Frame-Options。
 title: 登陆页面标头
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '128'
 ht-degree: 5%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360272
-description: 创建新的项目标记和标记值 — Marketo文档 — 产品文档
+description: 如何创建自定义程序标记并分配值，选择程序类型，以及使标记在创建新程序时成为必需标记。
 title: 创建新项目标签及标签值
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '160'
 ht-degree: 16%
 
 ---

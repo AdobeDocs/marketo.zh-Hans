@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100266
-description: 了解自定义活动 — Marketo文档 — 产品文档
+description: 概述用于跟踪特定于业务的人员操作的自定义活动、它们与自定义对象的不同之处，以及创建活动和API实施的两步设置。
 title: 了解自定义活动
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '278'
 ht-degree: 3%
 
 ---
@@ -37,4 +37,4 @@ ht-degree: 3%
 
 步骤2：接下来，贵组织中使用我们API的员工可以开始实施。 可在此处找到更多信息： [自定义活动API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
-玩得开心！
+尽情体验吧！

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095636
-description: 为代码片段启用无草稿 — Marketo文档 — 产品文档
+description: 了解如何为代码片段启用无草稿，以便代码片段更改适用于已批准的资产，而无需新的草稿。
 title: 为代码段启用无草稿模式
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 12%
 
 ---
 

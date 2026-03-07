@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950660
-description: 创建自定义标记 — Marketo文档 — 产品文档
+description: 如何使用值创建新标记类型，选择它适用的程序类型，并将标记设置为必需或可选。
 title: 创建自定义标签
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 3%
+source-wordcount: '222'
+ht-degree: 4%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360307
-description: 启用或禁用“金箱功能” — Marketo文档 — 产品文档
+description: 如何打开或关闭“宝藏箱”实验特征。
 title: 启用或禁用藏宝箱功能
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 21%
+ht-degree: 25%
 
 ---
 

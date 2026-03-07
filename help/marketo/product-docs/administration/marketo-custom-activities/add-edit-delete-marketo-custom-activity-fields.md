@@ -1,10 +1,10 @@
 ---
 unique-page-id: 10100275
-description: 添加/编辑/删除Marketo自定义活动字段 — Marketo文档 — 产品文档
+description: 如何在自定义活动上添加、编辑或删除字段。
 title: 添加/编辑/删除 Marketo 自定义活动字段
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 14%

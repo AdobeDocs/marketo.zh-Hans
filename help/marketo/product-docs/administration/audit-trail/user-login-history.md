@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377958
-description: 用户登录历史记录 — Marketo文档 — 产品文档
+description: 通过管理员用户和角色查看登录了您的订阅的人员以及登录时间，包括尝试失败的次数。
 title: 用户登录历史记录
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 9%
+source-wordcount: '179'
+ht-degree: 8%
 
 ---
 

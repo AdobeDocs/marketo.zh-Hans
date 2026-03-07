@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093192
-description: 创建Marketo自定义对象 — Marketo文档 — 产品文档
+description: 为一对多或多对多结构创建Marketo自定义对象的步骤，包括显示名称、API名称和显示在潜在客户详细信息中。
 title: 创建 Marketo 自定义对象
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '629'
 ht-degree: 5%
 
 ---

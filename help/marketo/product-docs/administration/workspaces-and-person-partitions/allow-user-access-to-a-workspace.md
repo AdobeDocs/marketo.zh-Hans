@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360325
-description: 允许用户访问Workspace - Marketo文档 — 产品文档
+description: 授予用户访问一个或多个工作区的权限的步骤。
 title: 允许用户访问工作区
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 15%
+source-wordcount: '111'
+ht-degree: 18%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360253
-description: 编辑“以网页形式查看”消息 — Marketo文档 — 产品文档
-title: 编辑“以 网页形式查看”消息
+description: 自定义管理员电子邮件中的以网页形式查看链接文本和HTML ，同时保持所需变量不变。
+title: 编辑“以网页形式查看”消息
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 16%
+source-wordcount: '162'
+ht-degree: 17%
 
 ---
 
-# 编辑“以 网页形式查看”消息 {#edit-the-view-as-web-page-message}
+# 编辑“以网页形式查看”消息 {#edit-the-view-as-web-page-message}
 
 如果需要编辑&quot;[以网页形式查看](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;文本，请按以下步骤操作。
 
@@ -19,7 +19,7 @@ ht-degree: 16%
 >
 >**需要管理员权限**
 
-## 编辑“以 网页形式查看”消息 {#edit-the-view-as-web-page-message-1}
+## 编辑“以网页形式查看”消息 {#edit-the-view-as-web-page-message-1}
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 

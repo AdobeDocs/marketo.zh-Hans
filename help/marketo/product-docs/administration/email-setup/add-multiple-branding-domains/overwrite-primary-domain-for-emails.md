@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378051
-description: 覆盖电子邮件的主域 — Marketo文档 — 产品文档
+description: 覆盖单个电子邮件的主品牌化域，以更改链接在发送时的品牌化方式。
 title: 覆盖电子邮件的主域名
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 您可以根据每封电子邮件覆盖主品牌域。 这将更改发送电子邮件时链接的品牌方式。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 

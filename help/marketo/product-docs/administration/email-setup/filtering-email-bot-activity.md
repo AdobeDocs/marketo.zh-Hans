@@ -1,11 +1,11 @@
 ---
-description: 过滤电子邮件机器人活动 — Marketo文档 — 产品文档
+description: 使用IAB列表匹配和邻近模式过滤或记录电子邮件机器人活动，以防止打开次数和点击次数夸大。
 title: 过滤电子邮件机器人活动
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '467'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Bot Activity]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Bot Activity]** 选项卡。
 
    ![](assets/filtering-email-bot-activity-3.png)
 

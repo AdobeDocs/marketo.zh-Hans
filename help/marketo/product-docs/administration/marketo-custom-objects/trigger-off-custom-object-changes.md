@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378713
-description: 触发自定义对象更改 — Marketo文档 — 产品文档
+description: 如何在智能营销活动智能列表中为Marketo自定义对象使用自定义对象添加或更改触发器，以及添加触发器和设置约束的步骤。
 title: 基于自定义对象更改触发
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---

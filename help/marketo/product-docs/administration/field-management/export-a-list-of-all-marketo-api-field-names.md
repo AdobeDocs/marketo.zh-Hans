@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360295
-description: 导出所有Marketo API字段名称的列表 — Marketo文档 — 产品文档
+description: 下载所有Marketo字段及其API名称的电子表格，以供SOAP API或Munchkin API使用。
 title: 导出所有 Marketo API 字段名称的列表
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 24%
+source-wordcount: '98'
+ht-degree: 26%
 
 ---
 

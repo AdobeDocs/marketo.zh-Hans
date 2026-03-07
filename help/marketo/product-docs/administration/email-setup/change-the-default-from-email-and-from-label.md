@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360247
-description: 更改电子邮件和标签中的默认设置 — Marketo文档 — 产品文档
-title: 更改默认发件人邮箱和发件人标签
+description: 将新电子邮件的“发件人电子邮件”和“发件人标签”值设置为管理员用户。
+title: 更改默认发件人邮件和发件人标签
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 17%
+source-wordcount: '103'
+ht-degree: 19%
 
 ---
 
-# 更改默认发件人邮箱和发件人标签 {#change-the-default-from-email-and-from-label}
+# 更改默认发件人邮件和发件人标签 {#change-the-default-from-email-and-from-label}
 
 每个管理员用户都可以更改&#x200B;**[!UICONTROL From Email]**&#x200B;和&#x200B;**[!UICONTROL From Label]**&#x200B;的默认值，以便在他们创建新电子邮件时，会使用这些默认值。
 

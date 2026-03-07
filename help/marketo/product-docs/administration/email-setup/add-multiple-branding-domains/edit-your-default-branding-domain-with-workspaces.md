@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377406
-description: 使用工作区编辑默认品牌策略域 — Marketo文档 — 产品文档
+description: 在Marketo中使用工作区时，将通用品牌策略域更改为公司域。
 title: 使用工作区编辑默认品牌域名
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '148'
 ht-degree: 13%
 
 ---

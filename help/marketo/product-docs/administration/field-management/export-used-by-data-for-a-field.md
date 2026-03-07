@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417092
-description: 导出用于字段的数据 — Marketo文档 — 产品文档
+description: 导出使用字段的资源列表，以便将取消链接委派给团队。
 title: 导出字段的“被使用”数据
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 25%
+source-wordcount: '100'
+ht-degree: 27%
 
 ---
 

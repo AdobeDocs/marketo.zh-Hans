@@ -1,11 +1,11 @@
 ---
-description: 电子邮件验证 — Marketo文档 — 产品文档
+description: Marketo Engage用户电子邮件验证概述，包括为什么需要验证、邀请流程、验证电子邮件和解析多个登录ID。
 title: 电子邮件验证
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '478'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 导出所有对象元数据 — Marketo文档 — 产品文档
+description: 将所有对象及其元数据（包括潜在客户字段、自定义对象、活动、渠道和标记）导出为CSV。
 title: 导出所有对象元数据
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 28%
+source-wordcount: '78'
+ht-degree: 29%
 
 ---
 

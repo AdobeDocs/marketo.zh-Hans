@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359920
-description: 设置后备页面 — Marketo文档 — 产品文档
+description: 设置回退页面的步骤，以便在登陆页面脱机或未找到该页面时，访客能够看到指定的页面。
 title: 设置回退页面
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '71'
 ht-degree: 22%
 
 ---

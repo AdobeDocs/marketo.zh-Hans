@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359893
-description: 支持的浏览器 — Marketo文档 — 产品文档
+description: Marketo Engage支持的浏览器和版本的列表，包括Chrome、Firefox、Safari和Edge，以及适用于Adobe Identity用户的说明。
 title: 支持的浏览器
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 7%
+source-wordcount: '80'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359918
-description: 编辑登陆页面设置 — Marketo文档 — 产品文档
+description: 如何编辑域名、回退页、表单预填充和其他登陆页选项。
 title: 编辑登录页面设置
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 9%
+source-wordcount: '209'
+ht-degree: 10%
 
 ---
 

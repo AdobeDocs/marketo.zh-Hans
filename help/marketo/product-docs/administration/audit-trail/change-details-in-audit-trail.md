@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11379928
-description: 有关更改详细信息，请参阅审核记录 — Marketo文档 — 产品文档
+description: 有关更改的参考，详细说明了资产和管理操作的审核记录记录。
 title: 更改审核记录中的详情
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1902'
+source-wordcount: '1906'
 ht-degree: 12%
 
 ---
@@ -269,7 +269,7 @@ ht-degree: 12%
    <td>不适用</td>
   </tr>
   <tr>
-   <td rowspan="23">互动项目</td>
+   <td rowspan="23">参与项目</td>
    <td>创建</td>
    <td>渠道类型“渠道类型”<br>或<br>从“项目名称”克隆</td>
   </tr>

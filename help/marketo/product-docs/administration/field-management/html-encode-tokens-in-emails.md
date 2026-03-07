@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720461
-description: 电子邮件中的HTML编码令牌 — Marketo文档 — 产品文档
+description: 启用或禁用电子邮件中使用的人员和公司令牌的HTML编码，以确保正确传输。
 title: 在电子邮件中对令牌进行 HTML 编码
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 16%
+source-wordcount: '99'
+ht-degree: 18%
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10096583
-description: 新一代 [!DNL Munchkin] 跟踪常见问题解答 — Marketo文档 — 产品文档
+description: 有关新一代 [!DNL Munchkin] 跟踪转出和Is Anonymous筛选器更改的常见问题解答。
 title: 下一代 [!DNL Munchkin] 跟踪常见问题解答
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**触发器**：访问网页，网页为定价页面
->&#x200B;>**流量**：更改得分+10和有趣的时刻
->&#x200B;>**Web**：已查看定价页
+>**流量**：更改得分+10和有趣的时刻
+>**Web**：已查看定价页
 >
 >使用[!DNL Munchkin] V2时，如果匿名人员访问定价页面，则她不会立即进入营销活动。 当匿名者被发现时，我们将针对她展开这一行动。 她将：
 >

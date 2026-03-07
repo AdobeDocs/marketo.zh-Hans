@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378468
-description: 在审核记录中筛选 — Marketo文档 — 产品文档
+description: 按时间范围、资源类型、用户和操作过滤审核跟踪，以查找特定更改。
 title: 在审核记录中筛选
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 15%
+source-wordcount: '136'
+ht-degree: 14%
 
 ---
 

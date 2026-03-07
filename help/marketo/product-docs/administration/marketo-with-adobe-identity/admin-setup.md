@@ -1,12 +1,12 @@
 ---
-description: 管理员设置 — Marketo文档 — 产品文档
+description: 添加到Marketo Engage后，Adobe系统管理员的初始设置步骤，包括在Adobe Admin Console中创建产品配置文件。
 title: 管理员设置
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 5%
+source-wordcount: '229'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
    ![](assets/admin-setup-1.png)
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
    ![](assets/admin-setup-2.png)
 

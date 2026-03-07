@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951259
-description: 自定义字段类型术语表 — Marketo文档 — 产品文档
+description: 对Marketo中的自定义字段类型的引用，包括布尔值、货币、日期、电子邮件、公式等。
 title: 自定义字段类型术语表
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '601'
 ht-degree: 3%
 
 ---

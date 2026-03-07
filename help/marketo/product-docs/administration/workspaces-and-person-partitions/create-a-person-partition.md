@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360315
-description: 创建人员分区 — Marketo文档 — 产品文档
+description: 创建新人员分区、命名该分区并将其分配给工作区的步骤。
 title: 创建人员分区
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 19%
+source-wordcount: '72'
+ht-degree: 22%
 
 ---
 

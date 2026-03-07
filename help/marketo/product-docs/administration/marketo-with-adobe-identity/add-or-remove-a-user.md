@@ -1,12 +1,12 @@
 ---
-description: 添加或删除用户 — Marketo文档 — 产品文档
+description: 如何通过选择产品配置文件并管理“用户”选项卡，在Adobe Admin Console中添加或删除Marketo Engage用户。
 title: 添加或移除用户
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 6%
+source-wordcount: '246'
+ht-degree: 9%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. 单击&#x200B;**[!UICONTROL Users]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Users]** 选项卡。
 
    ![](assets/add-or-remove-a-user-4.png)
 
@@ -74,7 +74,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. 单击&#x200B;**[!UICONTROL Users]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Users]** 选项卡。
 
    ![](assets/add-or-remove-a-user-12.png)
 
@@ -82,7 +82,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. 单击&#x200B;**[!UICONTROL Remove User]**&#x200B;确认。
+1. 单击 **[!UICONTROL Remove User]** 确认。
 
    ![](assets/add-or-remove-a-user-14.png)
 

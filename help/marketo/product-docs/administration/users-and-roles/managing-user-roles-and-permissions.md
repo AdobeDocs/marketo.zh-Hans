@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359909
-description: 管理用户角色和权限 — Marketo文档 — 产品文档
+description: 如何设置、创建和编辑用户角色，将角色分配给用户，以及控制每个Marketo用户可以访问的区域和功能。
 title: 管理用户角色和权限
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 7%
+source-wordcount: '469'
+ht-degree: 10%
 
 ---
 
@@ -71,7 +71,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Roles]** 选项卡。
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
@@ -95,7 +95,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Roles]** 选项卡。
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
@@ -123,7 +123,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Roles]** 选项卡。
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 
@@ -131,6 +131,6 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
    ![](assets/managing-user-roles-and-permissions-18.png)
 
-1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
+1. 单击 **[!UICONTROL Delete]** 确认。
 
    ![](assets/managing-user-roles-and-permissions-19.png)

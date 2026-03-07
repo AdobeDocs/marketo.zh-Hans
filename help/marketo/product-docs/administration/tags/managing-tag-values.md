@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360274
-description: 管理标记值 — Marketo文档 — 产品文档
+description: 如何添加、隐藏和显示程序标记的标记值，包括选择标记类型和使用显示隐藏选项。
 title: 管理标签值
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 8%
+source-wordcount: '172'
+ht-degree: 9%
 
 ---
 

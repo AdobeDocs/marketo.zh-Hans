@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360352
-description: 配置SOAP API设置 — Marketo文档 — 产品文档
+description: 在Admin Web Services中为开发人员设置SOAP API加密密钥并获取端点详细信息。
 title: 配置 SOAP API 设置
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 22%
+source-wordcount: '79'
+ht-degree: 24%
 
 ---
 
@@ -39,4 +39,4 @@ ht-degree: 22%
 
 >[!MORELIKETHIS]
 >
->[SOAP API文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/soap/soap-api)
+>[SOAP API文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360360
-description: 创建 [!DNL Webhook] - Marketo文档 — 产品文档
+description: 在管理员中创建webhook，以调用短信、人员数据等第三方Web服务。
 title: 创建 [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '191'
 ht-degree: 3%
 
 ---
@@ -51,4 +51,4 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->在[[!DNL Webhooks]](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}深入了解中了解详情。
+>在[[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}深入了解中了解详情。

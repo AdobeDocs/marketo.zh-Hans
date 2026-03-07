@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099785
-description: 编辑订阅设置 — Marketo文档 — 产品文档
+description: 如何为您的Marketo订阅提供一个唯一的显示名称，以便您能够区分多个订阅。
 title: 编辑订阅设置
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 10%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 例如，如果您同时在生产和沙盒实例中工作，则可以命名一个订阅&#x200B;**Marketo生产**&#x200B;和另一个&#x200B;**Marketo沙盒**。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**。
+1. 前往 **[!UICONTROL Admin]**。
 
    ![](assets/edit-subscription-settings-1.png)
 

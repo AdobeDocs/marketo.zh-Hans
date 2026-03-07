@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360278
-description: 从项目渠道中删除项目状态 — Marketo文档 — 产品文档
+description: 如何从“管理员”中“标记”下的渠道中删除项目状态，包括何时必须隐藏状态而不是删除状态。
 title: 从项目渠道中删除项目状态
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 18%
+source-wordcount: '128'
+ht-degree: 16%
 
 ---
 

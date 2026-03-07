@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360335
-description: 在从不受信任的来源导入列表期间阻止字段更新 — Marketo文档 — 产品文档
+description: 在从不受信任的源导入列表期间，阻止覆盖密钥字段以保护现有数据。
 title: 在从不受信任来源导入列表时阻止字段更新
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 13%
+source-wordcount: '191'
+ht-degree: 14%
 
 ---
 

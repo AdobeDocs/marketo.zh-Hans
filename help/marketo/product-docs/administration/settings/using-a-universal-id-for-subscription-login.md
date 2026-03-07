@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100311
-description: 使用通用ID进行订阅登录 — Marketo文档 — 产品文档
+description: 通用ID如何让您只需登录一次即可访问多个Marketo订阅，并在这些订阅之间进行切换，以及密码策略和配置文件数据如何在订阅之间工作。
 title: 使用通用 ID 登录订阅
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '583'
 ht-degree: 2%
 
 ---

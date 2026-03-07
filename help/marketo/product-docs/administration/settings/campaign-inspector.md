@@ -1,12 +1,12 @@
 ---
-description: 营销活动检查器 — Marketo文档 — 产品文档
+description: 如何在中启用和使用营销活动检查器，以便在一个位置查看和搜索所有Smart Campaigns。
 title: 营销活动检查器
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 8%
+source-wordcount: '123'
+ht-degree: 7%
 
 ---
 

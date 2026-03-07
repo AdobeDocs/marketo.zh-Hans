@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098479
-description: 创建自定义活动 — Marketo文档 — 产品文档
+description: 创建新自定义活动的步骤，包括名称、API名称、筛选器和触发器定义以及主字段。
 title: 创建自定义活动
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '107'
+ht-degree: 13%
 
 ---
 

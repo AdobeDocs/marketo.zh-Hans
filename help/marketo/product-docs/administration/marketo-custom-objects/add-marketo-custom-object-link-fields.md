@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097613
-description: 添加Marketo自定义对象链接字段 — Marketo文档 — 产品文档
+description: 如何添加链接字段以将自定义对象连接到人员或公司，以实现一对多和多对多结构，包括中间对象使用。
 title: 添加 Marketo 自定义对象链接字段
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '664'
 ht-degree: 3%
 
 ---

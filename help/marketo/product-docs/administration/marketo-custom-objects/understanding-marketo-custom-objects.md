@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093188
-description: 了解Marketo自定义对象 — Marketo文档 — 产品文档
+description: 概述用于跟踪特定于业务的量度的自定义对象，包括一对多和多对多关系、过滤器、触发器，以及在Admin中访问这些对象的位置。
 title: 了解 Marketo 自定义对象
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '703'
 ht-degree: 2%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 2%
 
 创建自定义对象结构后，当您上载特定的自定义对象数据时，自定义对象会自动使用自定义对象中的链接字段与数据库中的人员关联。 您可以在人员详细信息页面的[!UICONTROL Custom Objects]选项卡中查看信息。
 
-1. 转到&#x200B;**[!UICONTROL Database]**。
+1. 前往 **[!UICONTROL Database]**。
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 

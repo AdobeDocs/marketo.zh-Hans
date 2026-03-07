@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095008
-description: 添加 [!DNL Google AdWords] 作为 [!DNL LaunchPoint] 服务 — Marketo文档 — 产品文档
+description: 通过LaunchPoint将 [!DNL Google AdWords] 链接到Marketo以上传离线转化数据以便在AdWords中报告。
 title: 将 [!DNL Google AdWords] 添加为 [!DNL LaunchPoint] 服务
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 1%
+source-wordcount: '258'
+ht-degree: 5%
 
 ---
 
@@ -29,23 +29,23 @@ ht-degree: 1%
 >
 >您还可以将[[!DNL Google AdWords] 作为 [!DNL Launchpoint] 服务与经理帐户](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}集成。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 
-1. 选择&#x200B;**[!UICONTROL 启动点]**。
+1. 选择 **[!UICONTROL LaunchPoint]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-2.png)
 
-1. 选择&#x200B;**[!UICONTROL 新建]**&#x200B;和&#x200B;**[!UICONTROL 新服务]**。
+1. 选择&#x200B;**[!UICONTROL New]**&#x200B;和&#x200B;**[!UICONTROL New Service]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
-1. 输入[!UICONTROL 显示名称]并选择&#x200B;**[!UICONTROL Google AdWords]**。
+1. 输入[!UICONTROL display name]并选择&#x200B;**[!UICONTROL Google AdWords]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
-1. 选择&#x200B;**[!UICONTROL 授权Marketo]**。
+1. 选择 **[!UICONTROL Authorize Marketo]**。
 
    >[!NOTE]
    >
@@ -57,32 +57,32 @@ ht-degree: 1%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-6.png)
 
-1. 选择&#x200B;**[!UICONTROL 接受]**。
+1. 选择 **[!UICONTROL Accept]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. 状态将显示为&#x200B;**[!UICONTROL 成功]**。 选择&#x200B;**[!UICONTROL 下一步]**。
+1. 状态将显示为&#x200B;**[!UICONTROL Success]**。 选择 **[!UICONTROL Next]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
-1. 将离线转化从Marketo上载到[!DNL Google AdWords] **[!UICONTROL 每周]**&#x200B;或&#x200B;**[!UICONTROL 每日]**。
+1. 将离线转化从Marketo上载到[!DNL Google AdWords] **[!UICONTROL Weekly]**&#x200B;或&#x200B;**[!UICONTROL Daily]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-9.png)
 
-1. 属性转换为&#x200B;**[!UICONTROL 首次点击]**&#x200B;或&#x200B;**[!UICONTROL 上次点击]**。
+1. 属性转换为&#x200B;**[!UICONTROL First Click]**&#x200B;或&#x200B;**[!UICONTROL Last Click]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-10.png)
 
    | 类型 | 定义 |
    |---|---|
-   | [!UICONTROL 首次点击] | 离线转化将归因于某人在过去90天内点击的第一个[!DNL AdWords]广告 |
-   | [!UICONTROL 最后点击] | 离线转化将归因于某人点击的最后一个[!DNL AdWords]广告 |
+   | [!UICONTROL First Click] | 离线转化将归因于某人在过去90天内点击的第一个[!DNL AdWords]广告 |
+   | [!UICONTROL Last Click] | 离线转化将归因于某人点击的最后一个[!DNL AdWords]广告 |
 
    >[!NOTE]
    >
    >在Marketo和[!DNL AdWords]中使用一致的归因模型可提供最准确的数据。
 
-1. 单击&#x200B;**[!UICONTROL 创建]**。
+1. 单击 **[!UICONTROL Create]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-11.png)
 
@@ -94,4 +94,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->在收入模型中设置[转化 [!DNL Google AdWords] &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
+>在收入模型中设置[转化 [!DNL Google AdWords] ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

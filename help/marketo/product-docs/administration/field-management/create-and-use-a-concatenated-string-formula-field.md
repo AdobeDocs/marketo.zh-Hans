@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360337
-description: 创建并使用连接字符串（公式）字段 — Marketo文档 — 产品文档
+description: 组合多个字段中的值或使用Marketo Engage中的公式字段构建条件值。
 title: 创建并使用连接字符串（公式）字段
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 13%
 
 ---

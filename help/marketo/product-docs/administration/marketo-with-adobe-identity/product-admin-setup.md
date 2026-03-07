@@ -1,12 +1,12 @@
 ---
-description: 产品管理员设置 — Marketo文档 — 产品文档
+description: 产品管理员在收到系统管理员邀请后完成设置的步骤，包括开始使用链接和添加用户。
 title: 产品管理员设置
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 8%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 8%
 
    ![](assets/admin-setup-7.png)
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
    ![](assets/admin-setup-8.png)
 

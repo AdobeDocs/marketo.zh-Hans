@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360344
-description: 查看Marketo与 [!DNL Salesforce] - Marketo文档之间的字段映射 — 产品文档
+description: 了解如何在管理字段管理中查看哪些 [!DNL Salesforce] 字段映射到Marketo字段。
 title: 查看Marketo和 [!DNL Salesforce]之间的字段映射
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 8%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理员权限**
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 字段管理]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 

@@ -1,12 +1,12 @@
 ---
-description: Adobe Identity Management 常见问题解答 — Marketo 文档 — 产品文档
+description: 有关Adobe Identity for Marketo Engage的常见问题解答，包括迁移、URL、SSO、产品管理员与Marketo管理员的对比，以及列入允许列表管理。
 title: Adobe Identity Management 常见问题解答
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 95ed91736b7276dd7a5b9e09958c1f09832ae719
-workflow-type: ht
-source-wordcount: '1579'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '1591'
+ht-degree: 98%
 
 ---
 

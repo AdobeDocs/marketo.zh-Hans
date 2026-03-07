@@ -1,16 +1,16 @@
 ---
-description: Adobe Identity Management概述 — Marketo文档 — 产品文档
-title: Adobe 身份管理概述
+description: 适用于Marketo Engage的Adobe Identity Management概述，包括迁移时间、Admin Console用户管理和配置文件级别，例如系统管理员和产品管理员。
+title: Adobe Identity 管理概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 2%
+source-wordcount: '462'
+ht-degree: 11%
 
 ---
 
-# Adobe 身份管理概述 {#adobe-identity-management-overview}
+# Adobe Identity 管理概述 {#adobe-identity-management-overview}
 
 所有新的Adobe Marketo Engage订阅（2023年7月31日或更高版本）都与Adobe Identity Management System集成。 现有Marketo Engage订阅将在发生任何销售活动时迁移到Adobe Identity Management System，这些活动包括续订、重新签约活动和/或附录。 从2024年10月起，支持在销售活动之外进行迁移。 如果计划在销售活动之外迁移订阅，Marketo管理员将提前2-4周收到通知。
 
@@ -25,7 +25,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->如果要实施单点登录，并且您的订阅已登记到Adobe Identity，而没有Adobe组织中实施的SSO，请向[Marketo支持](https://nation.marketo.com/){target="_blank"}提交票证，并将主题指定为“Admin Console上的Marketo，实施SSO”。
+>如果您希望实施单点登录（SSO），且您的订阅已接入 Adobe Identity 但尚未在 Adobe 组织中实施 SSO，请向 [Marketo 支持](https://nation.marketo.com/){target="_blank"}提交工单，并将主题注明为“在 Admin Console 中管理 Marketo，并实施单点登录（SSO）”。
 
 ## 配置文件级别 {#profile-levels}
 

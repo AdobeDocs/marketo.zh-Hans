@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098433
-description: 为基于IP的API访问创建允许列表- Marketo文档 — 产品文档
+description: 通过管理员Web服务IP限制将API访问限制为特定的IP地址或范围。
 title: 为基于 IP 的 API 访问创建允许列表
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 13%
+source-wordcount: '156'
+ht-degree: 15%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->此功能独立于Marketo Engage [基于IP的登录限制](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}运行，Admin Console将替换这些限制为[基于IP的访问控制](https://helpx.adobe.com/cn/enterprise/using/ip-based-access.html){target="_blank"}。 在Adobe IMS迁移后，它将继续按原样运行。
+>此功能独立于Marketo Engage [基于IP的登录限制](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}运行，Admin Console将替换这些限制为[基于IP的访问控制](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}。 在Adobe IMS迁移后，它将继续按原样运行。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 

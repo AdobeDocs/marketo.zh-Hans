@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512270
-description: 添加Adobe Connect即 [!DNL LaunchPoint] 服务 — Marketo文档 — 产品文档
+description: 将Adobe Connect添加为LaunchPoint服务，以便Marketo管理网络研讨会的注册和出席情况。
 title: 将Adobe Connect添加为 [!DNL LaunchPoint] 服务
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 7%
 
 ---
 
@@ -27,27 +27,27 @@ Marketo管理您的Adobe Connect网络研讨会注册和出席情况。
 >
 >当前不支持Adobe Connect On Site。
 
-1. 转到&#x200B;**[!UICONTROL 管理员]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 启动点]**。
+1. 单击 **[!UICONTROL LaunchPoint]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
 
-1. 单击&#x200B;**[!UICONTROL 新建]**&#x200B;下拉列表并选择&#x200B;**[!UICONTROL 新建服务]**。
+1. 点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL New Service]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
-1. 输入&#x200B;**[!UICONTROL 显示名称]**。 在&#x200B;**[!UICONTROL 服务]**&#x200B;下，选择Adobe Connect。
+1. 输入&#x200B;**[!UICONTROL Display Name]**。 在&#x200B;**[!UICONTROL Service]**&#x200B;下，选择Adobe Connect。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
 
-1. 输入您的&#x200B;**[!UICONTROL 用户名]**&#x200B;和&#x200B;**[!UICONTROL 访问代码]**。
+1. 输入您的&#x200B;**[!UICONTROL Username]**&#x200B;和&#x200B;**[!UICONTROL Access Code]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
 
-1. 通过输入&#x200B;**[!UICONTROL 会议文件夹URL]**&#x200B;和&#x200B;**[!UICONTROL 参与者密码]**&#x200B;完成此过程，然后单击&#x200B;**[!UICONTROL 创建]**。
+1. 通过输入您的&#x200B;**[!UICONTROL Meeting Folder URL]**&#x200B;和&#x200B;**[!UICONTROL Participant Password]**&#x200B;完成此过程，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-6.png)
 
@@ -57,7 +57,7 @@ Marketo管理您的Adobe Connect网络研讨会注册和出席情况。
 
    >[!NOTE]
    >
-   >登录Adobe Connect帐户后，选择&#x200B;**[!UICONTROL 研讨会]**&#x200B;选项卡。 无需深入到任何特定研讨会，即可将浏览器栏中的URL复制到&#x200B;**[!UICONTROL 会议文件夹URL]**&#x200B;设置中。
+   >登录Adobe Connect帐户后，选择&#x200B;**[!UICONTROL Seminars]**&#x200B;选项卡。 无需深入了解任何特定研讨会，即可将URL从浏览器栏复制到&#x200B;**[!UICONTROL Meeting Folder URL]**&#x200B;设置。
 
 您的Adobe Connect服务现已与Marketo同步！
 

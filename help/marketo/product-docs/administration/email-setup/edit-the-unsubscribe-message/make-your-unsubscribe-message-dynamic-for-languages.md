@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6848782
-description: 使您的取消订阅消息成为语言的动态消息 — Marketo文档 — 产品文档
+description: 使用动态内容和分段以不同语言显示取消订阅消息和链接。
 title: 为不同语言动态设置取消订阅消息
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 6%
+source-wordcount: '438'
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 6%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. 命名分段&#x200B;**[!UICONTROL Preferred Language]**。 单击&#x200B;**[!UICONTROL Add Segment]**。 键入语言。
+1. 命名分段&#x200B;**[!UICONTROL Preferred Language]**。 单击 **[!UICONTROL Add Segment]**。 键入语言。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
@@ -53,7 +53,7 @@ ht-degree: 6%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. 转到&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡。 在搜索字段中输入&#x200B;**[!UICONTROL Preferred Language]**。 将过滤器拖放到画布上。
+1. 转到 **[!UICONTROL Smart List]** 选项卡。 在搜索字段中输入&#x200B;**[!UICONTROL Preferred Language]**。 将过滤器拖放到画布上。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 

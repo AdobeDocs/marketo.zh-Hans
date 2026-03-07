@@ -1,12 +1,12 @@
 ---
-description: 迁移到 Adobe Identity — Marketo 文档 — 产品文档
+description: 当您的订阅迁移到Adobe Identity（包括SSO和非SSO流）时，如何使用迁移控制台进行迁移前日期选择和自助用户迁移。
 title: 迁移至 Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '2319'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '2337'
+ht-degree: 98%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377945
-description: 审核记录&rbrack;概述 — Marketo文档 — 产品文档
+description: 审核记录概述，以及它如何捕获您的Marketo实例中六个月的更改和登录活动历史记录。
 title: 审核记录概述
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 1%
+source-wordcount: '345'
+ht-degree: 2%
 
 ---
 

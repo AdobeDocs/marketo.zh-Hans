@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099680
-description: 导入自定义对象数据 — Marketo文档 — 产品文档
+description: 使用CSV文件导入自定义对象数据的步骤，包括选择自定义对象、重复数据删除模式和字段映射。
 title: 导入自定义对象数据
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 5%
+source-wordcount: '224'
+ht-degree: 4%
 
 ---
 

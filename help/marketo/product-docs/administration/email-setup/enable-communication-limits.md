@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360222
-description: 启用通信限制 — Marketo文档 — 产品文档
+description: 设置每天和每7天的电子邮件限制以防止与您的人员过度通信。
 title: 启用通信限制
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 10%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 

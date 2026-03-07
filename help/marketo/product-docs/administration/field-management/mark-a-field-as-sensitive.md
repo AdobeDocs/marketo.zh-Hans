@@ -1,12 +1,12 @@
 ---
-description: 将字段标记为敏感 — Marketo文档 — 产品文档
+description: 将字段标记为敏感字段，这样永远不会在表单中预填这些字段的值以保护用户数据。
 title: 将字段标记为敏感
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 13%
+source-wordcount: '97'
+ht-degree: 12%
 
 ---
 

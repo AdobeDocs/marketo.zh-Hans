@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360327
-description: 使用分配规则分配人员分区 — Marketo文档 — 产品文档
+description: 如何设置分配规则，将人员从CRM路由到正确的人员分区。
 title: 使用分配规则分配人员分区
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 11%
+source-wordcount: '166'
+ht-degree: 12%
 
 ---
 

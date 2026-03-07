@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360354
-description: 将 [!DNL Munchkin] 跟踪代码添加到您的网站 — Marketo文档 — 产品文档
+description: 将Marketo [!DNL Munchkin] JavaScript添加到您的网站以跟踪访问并启用基于Web的营销活动。
 title: 将 [!DNL Munchkin] 跟踪代码添加到您的网站
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 1%
+source-wordcount: '636'
+ht-degree: 3%
 
 ---
 
@@ -25,7 +25,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 >
 >Adobe Experience Cloud用户还可以使用Adobe Launch中的[Marketo集成](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}以在其网页上包含[!DNL Munchkin]脚本。 如果您使用Adobe Launch，_将自动添加[!DNL Munchkin]脚本_，因此您无需自行添加。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
@@ -65,7 +65,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
 如果您在Marketo帐户中使用工作区，则可能还会有与您的工作区对应的单独Web存在。 在这种情况下，您可以使用[!DNL Munchkin]跟踪Javascript将匿名用户分配到正确的工作区和分区。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
@@ -135,7 +135,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Report]** 选项卡。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 

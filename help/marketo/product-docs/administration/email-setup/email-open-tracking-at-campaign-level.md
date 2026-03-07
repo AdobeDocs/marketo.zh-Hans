@@ -1,12 +1,12 @@
 ---
-description: 营销活动级别的电子邮件打开跟踪 — Marketo文档 — 产品文档
+description: 控制是按营销活动跟踪电子邮件打开次数，还是按营销活动为每个人跟踪一次电子邮件打开次数。
 title: 在营销活动级别启用电子邮件打开跟踪
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 13%
+source-wordcount: '108'
+ht-degree: 15%
 
 ---
 

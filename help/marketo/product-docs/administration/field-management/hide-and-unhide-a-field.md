@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360333
-description: 隐藏和取消隐藏字段 — Marketo文档 — 产品文档
+description: 不再需要时从Marketo UI中隐藏字段，或取消隐藏以再次显示。
 title: 隐藏和取消隐藏字段
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 13%
+source-wordcount: '169'
+ht-degree: 16%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 13%
    >* 您不能隐藏标准（系统）字段。
    >* 无法隐藏机会信息字段。
 
-1. 单击&#x200B;**[!UICONTROL Hide]**&#x200B;确认。
+1. 单击 **[!UICONTROL Hide]** 确认。
 
    ![](assets/hide-and-unhide-a-field-4.png)
 

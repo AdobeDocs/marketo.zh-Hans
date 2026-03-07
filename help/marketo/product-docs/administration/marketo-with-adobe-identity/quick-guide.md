@@ -1,12 +1,12 @@
 ---
-description: 快速指南 - Marketo 文档 - 产品文档
+description: 快速参考，其中包含使用Adobe标识设置Marketo Engage的链接，包括系统管理员设置、用户管理、仅API用户和登录。
 title: 快速指南
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 82%
 
 ---
 

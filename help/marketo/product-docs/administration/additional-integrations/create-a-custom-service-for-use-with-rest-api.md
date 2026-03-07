@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360350
-description: 创建用于ReST API的自定义服务 — Marketo文档 — 产品文档
+description: 为ReST API集成创建链接到仅API用户的自定义LaunchPoint服务。
 title: 创建用于 ReST API 的自定义服务
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '183'
 ht-degree: 19%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 19%
 
 >[!TIP]
 >
->有关[REST API](https://developer.adobe.com/marketo-apis/)的详细信息，请查看我们的开发人员文档。 如果您需要，我们还有[SOAP API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/soap/soap-api)。
+>有关[REST API](https://developer.adobe.com/marketo-apis/)的详细信息，请查看我们的开发人员文档。 如果您需要，我们还有[SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)。
 
 ## 创建自定义服务 {#create-custom-service}
 

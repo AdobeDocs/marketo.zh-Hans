@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360217
-description: 更改Analytics的归因设置 — Marketo文档 — 产品文档
+description: 如何在Revenue Cycle Analytics中设置首次联系和多联系归因、商机转化和受营销影响的机会选项。
 title: 更改分析的归因设置
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 8%
 
 ---

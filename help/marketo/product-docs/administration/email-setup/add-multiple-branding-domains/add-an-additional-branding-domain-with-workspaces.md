@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377408
-description: 使用工作区添加其他品牌化域 — Marketo文档 — 产品文档
+description: 使用工作区时，添加其他品牌化域并为每个工作区分配主域。
 title: 使用工作区添加附加品牌域名
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '129'
 ht-degree: 15%
 
 ---

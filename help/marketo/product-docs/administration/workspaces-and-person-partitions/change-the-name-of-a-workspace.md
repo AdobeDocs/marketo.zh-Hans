@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360321
-description: 更改Workspace的名称 — Marketo文档 — 产品文档
+description: 了解如何重命名工作区。
 title: 更改工作区名称
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 23%
+source-wordcount: '69'
+ht-degree: 28%
 
 ---
 

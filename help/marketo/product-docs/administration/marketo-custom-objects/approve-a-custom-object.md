@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094188
-description: 批准自定义对象 — Marketo文档 — 产品文档
+description: 如何在Admin中批准新的或编辑的自定义对象，包括对一对多、多对多和中介对象的要求。
 title: 批准自定义对象
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 8%
+source-wordcount: '269'
+ht-degree: 7%
 
 ---
 

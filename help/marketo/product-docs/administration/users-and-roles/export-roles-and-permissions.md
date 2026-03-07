@@ -1,12 +1,12 @@
 ---
-description: 导出角色和权限 — Marketo文档 — 产品文档
+description: 了解如何导出所有角色及其权限。
 title: 导出角色和权限
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 16%
+source-wordcount: '81'
+ht-degree: 19%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 16%
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Roles]** 选项卡。
 
    ![](assets/export-roles-and-permissions-3.png)
 

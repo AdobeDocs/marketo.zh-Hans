@@ -1,12 +1,12 @@
 ---
-description: 全局表单验证规则 — Marketo文档 — 产品文档
+description: 如何启用“访问表单验证规则”权限并创建全局规则以阻止特定域提交到Marketo Engage表单。
 title: 全局表单验证规则
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 4%
+source-wordcount: '255'
+ht-degree: 5%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 4%
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Roles]** 选项卡。
 
    ![](assets/global-form-validation-rules-3.png)
 

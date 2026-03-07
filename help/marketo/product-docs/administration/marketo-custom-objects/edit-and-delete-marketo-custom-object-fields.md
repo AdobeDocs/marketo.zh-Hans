@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095453
-description: 编辑和删除Marketo自定义对象字段 — Marketo文档 — 产品文档
+description: 如何使用字段操作编辑或删除未批准的自定义对象上的字段。
 title: 编辑和删除 Marketo 自定义对象字段
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '121'
 ht-degree: 12%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359912
-description: 导出用户和角色列表 — Marketo文档 — 产品文档
+description: 了解如何导出用户和角色列表。
 title: 导出用户和角色列表
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 21%
+source-wordcount: '79'
+ht-degree: 27%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 21%
 
 导出用户和用户角色的完整列表相当容易。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Admin]**。
+1. 前往 **[!UICONTROL Admin]**。
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 

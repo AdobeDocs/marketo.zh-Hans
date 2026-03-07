@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950682
-description: 创建项目渠道 — Marketo文档 — 产品文档
+description: 创建项目渠道的步骤，其中包含状态和进展步骤，包括项目类型、成功状态和事件的移动设备签入选项。
 title: 创建项目渠道
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 3%
+source-wordcount: '401'
+ht-degree: 4%
 
 ---
 

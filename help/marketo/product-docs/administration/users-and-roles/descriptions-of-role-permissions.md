@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848747
-description: 角色权限描述 — Marketo文档 — 产品文档
+description: 参考Marketo中所有角色权限的列表，包括访问管理员、访问API以及创建或编辑角色时可分配的其他权限组。
 title: 角色权限说明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1451'
+source-wordcount: '1468'
 ht-degree: 1%
 
 ---

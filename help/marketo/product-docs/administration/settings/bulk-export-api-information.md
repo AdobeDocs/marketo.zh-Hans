@@ -1,18 +1,18 @@
 ---
-description: 批量导出API信息 — Marketo文档 — 产品文档
+description: 如何检查过去七天以及重设分配时的“批量提取API”容量使用情况。
 title: 批量导出 API 信息
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 13%
+source-wordcount: '103'
+ht-degree: 12%
 
 ---
 
 # 批量导出 API 信息 {#bulk-export-api-information}
 
-了解如何检查您的Marketo Engage实例在过去七天内占用了多少[批量提取API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}容量。
+了解如何检查您的Marketo Engage实例在过去七天内占用了多少[批量提取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}容量。
 
 >[!NOTE]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359898
-description: 了解您拥有的权限 — Marketo文档 — 产品文档
+description: 了解如何查看您当前的Marketo权限。
 title: 了解您拥有的权限
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 16%
+source-wordcount: '71'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 16%
 
 如果您想知道Marketo中是否具有权限，可以轻松找到答案。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/find-out-what-permissions-you-have-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382122
-description: 启用审核跟踪 — Marketo文档 — 产品文档
+description: 为角色启用审核记录和登录历史记录，并通过管理员权限将角色分配给用户。
 title: 启用审核记录
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '223'
 ht-degree: 5%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 5%
 
 ## 为角色启用审核跟踪 {#enable-audit-trail-for-a-role}
 
-1. 点击 **[!UICONTROL Admin]**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/enable-audit-trail-1.png)
 
