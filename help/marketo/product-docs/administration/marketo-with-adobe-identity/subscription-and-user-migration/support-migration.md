@@ -40,11 +40,11 @@ ht-degree: 2%
 
 ## 其他资源 {#additional-resources}
 
-* 了解如何使用[Adobe Admin Console来管理您整个组织的Adobe授权](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"}。
+* 了解如何使用[Adobe Admin Console来管理您整个组织的Adobe授权](https://helpx.adobe.com/cn/enterprise/using/admin-roles.html){target="_blank"}。
 
 * 有关如何使用Adobe ID [登录Marketo Engage的更多信息，请参阅此处](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}。
 
-* 了解有关[Adobe Experience League](https://experienceleague.adobe.com/){target="_blank"}的更多信息。
+* 了解有关[Adobe Experience League](https://experienceleague.adobe.com/zh-hans){target="_blank"}的更多信息。
 
 ## 还有问题吗？ {#still-have-questions}
 
