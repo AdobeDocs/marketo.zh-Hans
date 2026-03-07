@@ -45,9 +45,9 @@ ht-degree: 3%
 
 按照以下步骤为现有域启用SSL。
 
-1. 从&#x200B;_[!UICONTROL Admin]_区域，选择&#x200B;**[!UICONTROL Email]**。
+1. 从&#x200B;_[!UICONTROL Admin]_&#x200B;区域，选择&#x200B;**[!UICONTROL Email]**。
 
-1. 在&#x200B;_[!UICONTROL Domain]_选项卡上，选择域行并单击&#x200B;**[!UICONTROL Add SSL]**。
+1. 在&#x200B;_[!UICONTROL Domain]_&#x200B;选项卡上，选择域行并单击&#x200B;**[!UICONTROL Add SSL]**。
 
    ![管理员 — 电子邮件 — 域 — 添加SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 

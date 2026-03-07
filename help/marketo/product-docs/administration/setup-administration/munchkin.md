@@ -15,4 +15,4 @@ ht-degree: 1%
 
 [!DNL Munchkin]是您放置在网站上的JavaScript代码片段。 它跟踪访问次数、点击次数和表单填写次数。 它还有丰富的API可以做各种各样酷的事情。
 
-查看[ [!DNL Munchkin]上的](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}开发人员页面以了解更多信息。
+查看[&#x200B; [!DNL Munchkin]上的](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}开发人员页面以了解更多信息。
