@@ -3,10 +3,10 @@ description: 代理收件箱 — Marketo文档 — 产品文档
 title: 代理收件箱
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 0%
+source-wordcount: '581'
+ht-degree: 1%
 
 ---
 
@@ -90,7 +90,7 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-12.png)
 
-## 活动历史记录 {#activity-history}
+## 活动记录 {#activity-history}
 
 访客信息下面是活动历史记录。 查看活动类型和日期，甚至查看聊天记录。
 
@@ -116,6 +116,12 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-16.png)
 
+## 下载文字记录 {#download-transcript}
+
+实时聊天结束后，单击聊天窗口底部的&#x200B;**下载成绩单**&#x200B;按钮，对话的.txt文件将自动下载到您的“下载”文件夹。
+
+![](assets/agent-inbox-17.png)
+
 ## 对话摘要 {#conversation-summary}
 
 >[!NOTE]
@@ -124,7 +130,7 @@ ht-degree: 0%
 
 对话摘要会实时为您生成快速摘要，包括访客表示感兴趣的主题。 它位于每个聊天屏幕的右下角。
 
-![](assets/agent-inbox-17.png)
+![](assets/agent-inbox-18.png)
 
 >[!NOTE]
 >
