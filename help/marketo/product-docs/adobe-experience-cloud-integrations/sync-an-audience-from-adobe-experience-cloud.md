@@ -1,11 +1,11 @@
 ---
-description: 从Adobe Experience Cloud同步受众 — Marketo文档 — 产品文档
+description: 了解如何将受众从Adobe Experience Cloud同步到Marketo Engage。 将受众从受众库提取到Marketo数据库，以便用于营销活动和项目。
 title: 从 Adobe Experience Cloud 同步受众
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '277'
 ht-degree: 8%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 8%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. 对于目标，您可以选择现有列表，也可以键入新列表的名称。 在本例中，我们将创建一个新版本。 完成后单击&#x200B;**[!UICONTROL Sync]**。
+1. 对于目标，您可以选择现有列表，也可以键入新列表的名称。 在本例中，我们将创建一个新版本。 完成后，单击 **[!UICONTROL Sync]**。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762511
-description: 设置Adobe组织映射 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中设置Adobe组织映射，以便与Audience Manager和其他Adobe应用程序同步。
 title: 设置 Adobe 组织映射
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '233'
 ht-degree: 5%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 5%
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. 输入您的Adobe IMS组织ID（在[此处](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hans){target="_blank"}了解如何查找该ID），然后单击&#x200B;**[!UICONTROL OK]**。
+1. 输入您的Adobe IMS组织ID（在[此处](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}了解如何查找该ID），然后单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
