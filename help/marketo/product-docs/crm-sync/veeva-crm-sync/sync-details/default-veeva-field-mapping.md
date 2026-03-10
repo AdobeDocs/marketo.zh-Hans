@@ -1,11 +1,11 @@
 ---
-description: 默认 [!DNL Veeva] 字段映射 — Marketo文档 — 产品文档
+description: 了解Veeva CRM和Marketo Engage之间的默认Veeva字段映射。 了解联系人和帐户字段如何映射以及哪些自定义字段同步。
 title: 默认 [!DNL Veeva] 字段映射
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '270'
 ht-degree: 36%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 36%
     </tr>
     <tr>
       <td>电子邮件选择退出</td>
-      <td>退订</td>
+      <td>取消订阅</td>
     </tr>
     <tr>
       <td>已删除</td>
@@ -65,11 +65,11 @@ ht-degree: 36%
       <td>姓氏</td>
     </tr>
     <tr>
-      <td>潜在客户来源</td>
+      <td>销售线索来源</td>
       <td>来源</td>
     </tr>
     <tr>
-      <td>潜在客户分数</td>
+      <td>销售线索分数</td>
       <td>得分</td>
     </tr>
     <tr>

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095429
-description: 修复Dynamics验证同步问题 — Marketo文档 — 产品文档
+description: 了解如何在验证同步工具报告错误时修复Dynamics验证同步问题。 对URL、凭据、同步用户角色和其他设置步骤进行故障诊断。
 title: 修复 Dynamics 验证同步问题
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 1%
 
 ---
 

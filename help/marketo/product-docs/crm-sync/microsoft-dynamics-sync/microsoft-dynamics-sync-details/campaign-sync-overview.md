@@ -1,12 +1,12 @@
 ---
-description: Campaign同步概述 — Marketo文档 — 产品文档
+description: 了解Microsoft Dynamics和Marketo之间的Campaign同步。 使用添加到Microsoft Campaign和从Microsoft Campaign删除流操作和触发器。
 title: Campaign Sync 概述
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 4%
 
 ---
 

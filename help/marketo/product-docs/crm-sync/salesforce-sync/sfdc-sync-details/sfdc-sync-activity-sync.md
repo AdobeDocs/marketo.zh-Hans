@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953473
-description: SFDC同步 — Activity Sync - Marketo文档 — 产品文档
+description: 了解Salesforce活动和任务如何同步到Marketo。 从Marketo创建任务，并在Smart Campaigns中使用活动触发器和过滤器。
 title: SFDC同步 — 活动同步
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '175'
 ht-degree: 3%
 
 ---

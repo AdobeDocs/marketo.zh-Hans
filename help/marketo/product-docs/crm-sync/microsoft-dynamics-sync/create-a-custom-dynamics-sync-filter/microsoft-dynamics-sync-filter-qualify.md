@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092977
-description: Microsoft Dynamics同步过滤器 — 符合条件 — Marketo文档 — 产品文档
+description: 了解将潜在客户转化为联系人时的Dynamics同步过滤器资格流程。 了解潜在客户和联系人同步筛选器值如何影响Marketo同步。
 title: Microsoft Dynamics同步筛选器 — 限定
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 启用Campaign同步 — Marketo文档 — 产品文档
+description: 了解如何在Microsoft Dynamics和Marketo之间启用Campaign同步。 在管理员中打开该选项，以便Marketo程序与Dynamics营销活动同步。
 title: 启用营销活动同步
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 7%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 

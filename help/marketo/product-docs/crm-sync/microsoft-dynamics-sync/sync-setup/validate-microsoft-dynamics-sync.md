@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783322
-description: 验证 [!DNL Microsoft Dynamics] 同步 — Marketo文档 — 产品文档
+description: 了解如何运行验证同步工具以验证您的Microsoft Dynamics和Marketo设置。 在建立最终连接之前，请查看管理员中的七步清单。
 title: 验证 [!DNL Microsoft Dynamics] 同步
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 0%
+source-wordcount: '257'
+ht-degree: 3%
 
 ---
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-9-28-16-3a10-3a47.png)
 
-1. 单击&#x200B;**[!UICONTROL Validate Sync Setup]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Validate Sync Setup]** 选项卡。
 
    ![](assets/image2015-9-28-16-3a11-3a45.png)
 
-1. 输入用户名、密码和URL（客户端ID和客户端密钥是可选的）。 完成后单击&#x200B;**[!UICONTROL Next]**。
+1. 输入用户名、密码和URL（客户端ID和客户端密钥是可选的）。 完成后，单击 **[!UICONTROL Next]**。
 
    ![](assets/four-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571797
-description: 第2步（共3步） — 创建Salesforce用户以使用Marketo（专业） - Marketo文档 — 产品文档
+description: 了解如何使用专业版为Marketo创建Salesforce用户。 设置页面布局并创建具有潜在客户和联系人的字段权限的同步用户。
 title: 第2步（共3步） — 创建Marketo的Salesforce用户（专业）
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---

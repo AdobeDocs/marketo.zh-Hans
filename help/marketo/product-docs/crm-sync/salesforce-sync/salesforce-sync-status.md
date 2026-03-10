@@ -1,11 +1,11 @@
 ---
-description: Salesforce同步状态 — Marketo文档 — 产品文档
+description: 了解Salesforce同步状态功能板以及如何查看同步状态。 按日期、操作类型或对象类型筛选，并将同步错误导出为CSV。
 title: Salesforce 同步状态
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '562'
 ht-degree: 7%
 
 ---
@@ -92,7 +92,7 @@ ht-degree: 7%
    <td colspan="1">成功、失败、不完整、处理中、已清理*</td>
   </tr>
   <tr>
-   <td colspan="1">新的名称</td>
+   <td colspan="1">新</td>
    <td colspan="1">新记录计数</td>
    <td colspan="1"></td>
   </tr>

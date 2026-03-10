@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953469
-description: SFDC同步 — Campaign同步 — Marketo文档 — 产品文档
+description: 了解如何将Marketo项目与Salesforce营销活动同步。 将项目映射到营销策划，并使成员和状态在两个系统之间保持同步。
 title: SFDC同步 — Campaign同步
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -73,6 +73,6 @@ Marketo **计划成员**&#x200B;及其&#x200B;**[进度状态](/help/marketo/pro
 >[!MORELIKETHIS]
 >
 >* [将SFDC促销活动与项目同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
->* [了解计划成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+>* [了解项目成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
 >* [启用/禁用Campaign同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}
 >* [将Marketo同步用户设为营销用户](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"}

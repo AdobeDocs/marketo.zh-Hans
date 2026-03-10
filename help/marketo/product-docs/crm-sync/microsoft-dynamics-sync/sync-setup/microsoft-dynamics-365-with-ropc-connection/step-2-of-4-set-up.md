@@ -1,11 +1,11 @@
 ---
-description: 第2步（共4步） — 使用资源所有者密码控制连接设置Marketo解决方案 — Marketo文档 — 产品文档
+description: 了解如何使用ROPC连接设置Marketo解决方案。 在Dynamics中创建同步用户并分配Marketo同步用户角色以进行身份验证。
 title: 第2步（共4步） — 使用资源所有者密码控制连接设置Marketo解决方案
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '404'
 ht-degree: 1%
 
 ---

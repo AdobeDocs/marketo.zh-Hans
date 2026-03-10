@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504744
-description: 安装适用于Microsoft Dynamics 2015的Marketo本地步骤3/3 - Marketo文档 — 产品文档
+description: 了解如何在最后一步中将Marketo连接到内部部署的Dynamics 2015。 在Marketo管理员中输入同步用户凭据并启用同步。
 title: 安装适用于Microsoft Dynamics 2015的Marketo本地步骤3（共3步）
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 1%
+source-wordcount: '368'
+ht-degree: 2%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 1%
    >
    >请确保您的凭据正确，因为我们在提交后无法还原后续架构更改。 如果保存了不正确的凭据，您将必须获取新的Marketo订阅。
 
-1. 输入&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Password]** [!DNL Microsoft Dynamics] **URL**&#x200B;和&#x200B;**[!UICONTROL Client Id]/[!UICONTROL Client Secret]**。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Password]** [!DNL Microsoft Dynamics] **URL**&#x200B;和&#x200B;**[!UICONTROL Client Id]/[!UICONTROL Client Secret]**。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/step-3-of-3-5.png)
 

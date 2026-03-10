@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953467
-description: SFDC同步 — Opportunity同步 — Marketo文档 — 产品文档
+description: 了解机会同步如何从Salesforce工作到Marketo。 了解商机如何同步、与联系人关联以及使用商机触发器和过滤器。
 title: SFDC同步 — 机会同步
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 1%
+source-wordcount: '293'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您在Marketo中为[输入的 [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)凭据用于同步数据。 仅包含这些凭据有权访问的数据。
+>您在Marketo中为[输入的 [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)凭据用于同步数据。 只有这些凭据有权限访问的数据才会得到同步。
 
 ## 我可以启动Opportunity同步吗？ {#can-i-initiate-an-opportunity-sync}
 

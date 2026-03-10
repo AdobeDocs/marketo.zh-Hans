@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571827
-description: 第2步（共3步） — 使用服务器到服务器连接设置Marketo解决方案 — Marketo文档 — 产品文档
+description: 了解如何为Dynamics 365设置具有服务器到服务器连接的Marketo解决方案。 在Azure AD中创建客户端应用程序并授予同步用户同意。
 title: 第2步（共3步） — 设置具有服务器到服务器连接的Marketo解决方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---

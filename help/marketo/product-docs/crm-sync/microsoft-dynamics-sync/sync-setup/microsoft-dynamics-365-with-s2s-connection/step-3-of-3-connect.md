@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571830
-description: 第3步（共3步） — 将Marketo解决方案与服务器连接连接 — Marketo文档 — 产品文档
+description: 了解如何通过服务器到服务器连接将Marketo解决方案连接到Dynamics 365。 在Marketo Admin中输入同步用户信息并在启用同步之前进行验证。
 title: 第3步（共3步） — 将Marketo解决方案与服务器到服务器连接连接
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 0%
+source-wordcount: '430'
+ht-degree: 1%
 
 ---
 

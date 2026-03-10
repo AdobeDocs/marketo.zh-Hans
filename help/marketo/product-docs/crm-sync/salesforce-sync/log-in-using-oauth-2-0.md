@@ -1,11 +1,11 @@
 ---
-description: 使用OAuth 2.0登录 — Marketo文档 — 产品文档
+description: 了解如何使用OAuth 2.0连接Marketo和Salesforce。在Salesforce中设置外部客户端应用程序，并授权Marketo在不共享凭据的情况下安全同步。
 title: 使用 OAuth 2.0 登录
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '627'
 ht-degree: 2%
 
 ---

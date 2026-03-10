@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360370
-description: 如何在同步之前匹配项目状态和Salesforce Campaign状态 — Marketo文档 — 产品文档
+description: 了解如何在同步之前将Marketo项目状态与Salesforce营销活动成员状态相匹配。 修复错误并映射状态，以便程序与营销活动同步。
 title: 如何在同步之前匹配项目状态和 Salesforce 营销活动状态
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 5%
 
 ---

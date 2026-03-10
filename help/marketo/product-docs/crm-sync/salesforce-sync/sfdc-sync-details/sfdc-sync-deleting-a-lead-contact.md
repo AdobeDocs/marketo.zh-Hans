@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515131
-description: SFDC同步 — 删除潜在客户/联系人 — Marketo文档 — 产品文档
+description: 了解在Salesforce和Marketo之间如何删除商机和联系人。 了解SFDC删除人员和从SFDC删除流程操作。
 title: SFDC同步 — 删除潜在客户/联系人
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571819
-description: 第3步（共3步） — 连接Marketo和Dynamics（2013年内部部署） — Marketo文档 — 产品文档
+description: 了解如何在最后一步中连接Marketo和Dynamics 2013内部部署。 在Marketo管理员中输入同步用户信息并启用同步。
 title: 第3步（共3步） — 连接Marketo和Dynamics（2013内部部署）
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 0%
+source-wordcount: '384'
+ht-degree: 1%
 
 ---
 

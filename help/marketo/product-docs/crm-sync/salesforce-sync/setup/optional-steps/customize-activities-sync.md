@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719294
-description: 自定义活动同步 — Marketo文档 — 产品文档
+description: 了解如何自定义Marketo推送到Salesforce的活动。 在“管理员”和“同步选项”中启用活动类型，以从事件创建Salesforce活动历史记录。
 title: 自定义活动同步
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 3%
+source-wordcount: '271'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 >
 >Salesforce/Marketo Engage同步不会将用户推送到Salesforce之前发生的任何活动推送到Salesforce。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**。
+1. 前往 **[!UICONTROL Admin]**。
 
    ![](assets/customize-activities-sync-1.png)
 

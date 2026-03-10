@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953455
-description: SFDC同步 — 潜在客户同步 — Marketo文档 — 产品文档
+description: 了解Salesforce和Marketo之间如何进行商机同步。 了解双向同步，从Marketo创建潜在客户并遵守验证规则。
 title: SFDC同步 — 潜在客户同步
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---

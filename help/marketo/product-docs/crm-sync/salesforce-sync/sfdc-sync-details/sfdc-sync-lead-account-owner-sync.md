@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953463
-description: SFDC同步 — 潜在客户/帐户所有者同步 — Marketo文档 — 产品文档
+description: 了解商机和帐户所有者字段如何从Salesforce同步到Marketo。 在Marketo中更改潜在客户所有者，并在流操作和智能列表中使用所有者数据。
 title: SFDC同步 — 潜在客户/帐户所有者同步
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '230'
 ht-degree: 2%
 
 ---

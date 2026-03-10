@@ -1,11 +1,11 @@
 ---
-description: 第1步（共3步） — 将Marketo字段添加到 [!DNL Veeva] CRM - Marketo文档 — 产品文档
+description: 了解如何在连接之前将Marketo字段添加到Veeva CRM。 在Veeva中创建联系对象的“得分”字段和可选营销字段。
 title: 第1步（共3步） — 将Marketo字段添加到 [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '496'
 ht-degree: 8%
 
 ---

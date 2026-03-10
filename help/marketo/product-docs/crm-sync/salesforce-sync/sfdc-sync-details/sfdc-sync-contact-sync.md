@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953457
-description: SFDC同步 — 联系人同步 — Marketo文档 — 产品文档
+description: 了解Salesforce和Marketo之间联系同步的工作方式。 了解双向同步、将人员转换为联系人以及与流程操作强制同步。
 title: SFDC同步 — 联系人同步
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '244'
 ht-degree: 1%
 
 ---

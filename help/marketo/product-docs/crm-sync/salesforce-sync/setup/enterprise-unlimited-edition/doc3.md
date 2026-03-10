@@ -1,13 +1,13 @@
 ---
-description: 第3步（共3步） — 连接Marketo和Salesforce (Enterprise/Unlimited) - Marketo文档 — 产品文档
+description: 了解如何在最终的Enterprise或Unlimited步骤中连接Marketo和Salesforce。 在Marketo管理中检索同步用户安全令牌并设置凭据。
 title: 第3步（共3步） — 连接Marketo和Salesforce (Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 9%
+source-wordcount: '121'
+ht-degree: 8%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095307
-description: 电子邮件地址的自定义同步筛选规则 — Marketo文档 — 产品文档
+description: 了解如何在Dynamics中为电子邮件地址设置自定义同步筛选规则。 根据潜在客户或联系人是否有电子邮件，使用工作流将同步设置为Mkto。
 title: 电子邮件地址的自定义同步过滤规则
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 8%
+source-wordcount: '213'
+ht-degree: 7%
 
 ---
 

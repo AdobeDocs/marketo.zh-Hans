@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571813
-description: 第1步（共3步） — 在Dynamics中安装Marketo解决方案（2013年内部部署） — Marketo文档 — 产品文档
+description: 了解如何在Dynamics 2013内部部署中安装Marketo解决方案。 在Dynamics中导入解决方案并完成安装步骤。
 title: 第1步（共3步） — 在Dynamics中安装Marketo解决方案（2013年内部部署）
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '255'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571838
-description: Microsoft Dynamics同步 — 字段同步 — Marketo文档 — 产品文档
+description: 了解字段同步在Microsoft Dynamics和Marketo之间的工作方式。 了解潜在客户和联系人的双向同步以及其他实体的单向同步。
 title: Microsoft Dynamics同步 — 字段同步
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---

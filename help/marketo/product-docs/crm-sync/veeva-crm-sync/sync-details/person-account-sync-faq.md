@@ -1,11 +1,11 @@
 ---
-description: 人员帐户同步常见问题解答 — Marketo文档 — 产品文档
+description: 获取有关Marketo Engage和Veeva CRM之间人员帐户同步的帮助。 了解人员帐户如何作为公司和人员同步，并使用Is Person Account过滤器。
 title: 人员帐户同步常见问题解答
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---

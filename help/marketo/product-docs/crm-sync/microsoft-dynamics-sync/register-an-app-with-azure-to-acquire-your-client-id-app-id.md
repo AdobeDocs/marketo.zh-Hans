@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12983390
-description: 在Azure中注册应用程序以获取客户端ID/应用程序ID - Marketo文档 — 产品文档
+description: 了解如何在Azure中注册应用程序，以获取用于Dynamics同步的客户端ID和应用程序ID。 使用Azure Active Directory和应用程序注册进行身份验证。
 title: 在 Azure 上注册应用程序以获取客户端 ID/应用程序 ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '306'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ Azure Active Directory将您的本地目录扩展到云中，为具有本地ADFS
 
 ## 注册新应用程序 {#registering-a-new-app}
 
-1. [使用具有管理员权限的帐户登录](https://login.microsoftonline.com/){target="_blank"}到Microsoft Azure管理门户。 您还可以通过展开左侧导航窗格中的&#x200B;**[!UICONTROL Admin]**&#x200B;项并选择&#x200B;**[!UICONTROL Azure AD]**，通过Office 365管理中心访问Microsoft Azure门户。
+1. [使用具有管理员权限的帐户登录](https://login.microsoftonline.com/){target="_blank"} Microsoft Azure管理门户。 您还可以通过展开左侧导航窗格中的&#x200B;**[!UICONTROL Admin]**&#x200B;项并选择&#x200B;**[!UICONTROL Azure AD]**，通过Office 365管理中心访问Microsoft Azure门户。
 
    >[!CAUTION]
    >
@@ -25,10 +25,10 @@ Azure Active Directory将您的本地目录扩展到云中，为具有本地ADFS
 
    >[!NOTE]
    >
-   >如果你没有Azure帐户，你可以[注册](https://azure.microsoft.com/en-us/free/){target="_blank"}一个。 请参阅Microsoft文档或联系Microsoft代表以获取更多信息。 创建Azure帐户后，可以使用下面列出的过程注册一个或多个应用程序。
+   >如果您没有Azure帐户，则可以[注册](https://azure.microsoft.com/en-us/free/){target="_blank"}帐户。 请参阅Microsoft文档或联系Microsoft代表以获取更多信息。 创建Azure帐户后，可以使用下面列出的过程注册一个或多个应用程序。
    >
    >
-   >如果您有Azure帐户，但您的[!DNL Office 365]与[!DNL Microsoft Dynamics 365]的订阅在您的Azure订阅中不可用，请按照[这些说明](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"}关联这两个帐户。
+   >如果您拥有Azure帐户，但您的[!DNL Office 365]与[!DNL Microsoft Dynamics 365]的订阅在您的Azure订阅中不可用，请按照[这些说明](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"}关联这两个帐户。
 
 1. 在左侧导航窗格中查找并单击&#x200B;**[!UICONTROL Azure Active Directory]**。
 
@@ -80,7 +80,7 @@ Azure Active Directory将您的本地目录扩展到云中，为具有本地ADFS
 
    ![](assets/thirteen.png)
 
-1. 单击&#x200B;**[!UICONTROL Yes]**&#x200B;确认。
+1. 单击 **[!UICONTROL Yes]** 确认。
 
    ![](assets/fourteen.png)
 

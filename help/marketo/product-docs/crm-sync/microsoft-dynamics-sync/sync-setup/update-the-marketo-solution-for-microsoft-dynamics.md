@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849029
-description: 更新针对 [!DNL Microsoft Dynamics] 的Marketo解决方案 — Marketo文档 — 产品文档
+description: 了解如何更新适用于Microsoft Dynamics的Marketo解决方案。 从“管理员”下载最新的解决方案，并将其导入到Dynamics中的现有版本中。
 title: 更新 [!DNL Microsoft Dynamics]的Marketo解决方案
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 3%
+source-wordcount: '172'
+ht-degree: 5%
 
 ---
 

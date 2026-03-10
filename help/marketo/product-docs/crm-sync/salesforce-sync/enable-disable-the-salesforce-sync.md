@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719310
-description: 启用/禁用Salesforce同步 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中启用或禁用Salesforce同步。 在进行主要字段或同步更改时关闭管理员中的同步，然后在准备就绪后重新启用。
 title: 启用/禁用 Salesforce 同步
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 5%
 
 ---
 

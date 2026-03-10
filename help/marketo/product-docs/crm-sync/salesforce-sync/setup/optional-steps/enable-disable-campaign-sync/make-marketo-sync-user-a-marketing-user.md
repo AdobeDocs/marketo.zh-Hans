@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782944
-description: 将Marketo同步用户设为营销用户 — Marketo文档 — 产品文档
+description: 了解如何在Salesforce中将Marketo同步用户设为营销用户。 启用“营销用户”复选框，以便Salesforce促销活动同步正常工作。
 title: 将 Marketo 同步用户设为营销用户
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 15%
+source-wordcount: '111'
+ht-degree: 16%
 
 ---
 

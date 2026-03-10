@@ -1,12 +1,12 @@
 ---
-description: Salesforce同步错误 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中查看和筛选Salesforce同步错误。 请参阅记录级和作业级故障，并使用错误详细信息对同步问题进行故障诊断。
 title: Salesforce 同步错误
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 3%
+source-wordcount: '190'
+ht-degree: 6%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 3%
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 选择日期和时间范围，然后按错误类型（作业层或记录层）筛选。 完成后单击&#x200B;**[!UICONTROL Apply]**。
+1. 选择日期和时间范围，然后按错误类型（作业层或记录层）筛选。 完成后，单击 **[!UICONTROL Apply]**。
 
    ![](assets/salesforce-sync-errors-4.png)
 

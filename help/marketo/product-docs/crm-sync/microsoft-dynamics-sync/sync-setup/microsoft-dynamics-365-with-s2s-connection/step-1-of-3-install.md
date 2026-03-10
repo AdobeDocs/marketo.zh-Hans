@@ -1,12 +1,12 @@
 ---
-description: 第1步（共3步） — 安装具有服务器到服务器连接的Marketo解决方案 — Marketo文档 — 产品文档
+description: 了解如何在Dynamics 365中安装具有服务器到服务器连接的Marketo解决方案。 从管理员导入解决方案并完成安装步骤。
 title: 第1步（共3步） — 安装具有服务器到服务器连接的Marketo解决方案
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 2%
+source-wordcount: '242'
+ht-degree: 3%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 2%
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 单击&#x200B;**[!UICONTROL Choose File]**。 选择您[下载的Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
+1. 单击 **[!UICONTROL Choose File]**。 选择您[下载的Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 

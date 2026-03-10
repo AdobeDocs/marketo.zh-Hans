@@ -1,11 +1,11 @@
 ---
-description: 第1步（共4步） — 安装具有资源所有者密码控制连接的Marketo解决方案 — Marketo文档 — 产品文档
+description: 了解如何在Dynamics 365中通过ROPC连接安装Marketo解决方案。 从Office 365导入解决方案并完成安装步骤。
 title: 步骤4之1 — 安装具有资源所有者密码控制连接的Marketo解决方案
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '288'
 ht-degree: 3%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 3%
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 单击&#x200B;**[!UICONTROL Choose File]**。 选择您[下载的Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
+1. 单击 **[!UICONTROL Choose File]**。 选择您[下载的Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 

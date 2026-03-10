@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953461
-description: SFDC同步 — 字段同步 — Marketo文档 — 产品文档
+description: 了解哪些Salesforce字段同步到Marketo，以及SFDC Type和isDeleted如何工作。 首先在Salesforce中添加新字段，以便它们自动同步到Marketo。
 title: SFDC同步 — 字段同步
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---

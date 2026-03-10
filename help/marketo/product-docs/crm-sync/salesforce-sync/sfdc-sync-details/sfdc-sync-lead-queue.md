@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516241
-description: SFDC同步 — 潜在客户队列 — Marketo文档 — 产品文档
+description: 了解如何从Marketo将人员分配给Salesforce潜在客户队列。 使用将人员同步到SFDC或更改责任人流程操作进行商机分配。
 title: SFDC同步 — 潜在客户队列
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '145'
+ht-degree: 2%
 
 ---
 

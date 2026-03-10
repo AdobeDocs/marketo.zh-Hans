@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099389
-description: 适用于 [!DNL Microsoft Dynamics] 的Marketo插件版本 — Marketo文档 — 产品文档
+description: 了解适用于Microsoft Dynamics的Marketo插件版本。 查找版本历史记录并下载适用于您的Dynamics实例的最新Marketo解决方案。
 title: 适用于 [!DNL Microsoft Dynamics]的Marketo插件版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719291
-description: 设置默认人员姓名和公司名称 — Marketo文档 — 产品文档
+description: 了解如何为Salesforce同步设置默认人员姓氏和公司名称。 使用管理和同步选项，以便部分记录与默认值同步。
 title: 设置默认人员姓氏和公司名称
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 12%
 
 ---
 

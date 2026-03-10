@@ -1,11 +1,11 @@
 ---
-description: 同步调用和调用关键消息 — Marketo文档 — 产品文档
+description: 了解如何调用和调用关键消息对象从Veeva CRM同步到Marketo Engage。 在智能列表和营销策划中使用与调用相关的触发器和过滤器。
 title: 同步呼叫与呼叫关键消息
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '493'
 ht-degree: 6%
 
 ---

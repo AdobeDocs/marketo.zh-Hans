@@ -1,12 +1,12 @@
 ---
-description: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterprise/Unlimited) - Marketo文档 — 产品文档
+description: 了解如何为Marketo创建具有Enterprise或Unlimited版本的Salesforce用户。 创建配置文件、设置权限并创建Marketo-Salesforce同步用户。
 title: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '430'
 ht-degree: 4%
 
 ---

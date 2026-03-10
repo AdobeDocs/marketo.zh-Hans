@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094647
-description: 设置默认自定义字段前缀 — Marketo文档 — 产品文档
+description: 了解如何在Microsoft Dynamics中将默认自定义字段前缀设置为new。 使用设置和自定义项，以便Marketo专有字段正确同步。
 title: 设置默认自定义字段前缀
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 17%
+source-wordcount: '102'
+ht-degree: 14%
 
 ---
 

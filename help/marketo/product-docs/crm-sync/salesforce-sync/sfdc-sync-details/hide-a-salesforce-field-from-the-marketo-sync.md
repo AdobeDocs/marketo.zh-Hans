@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719306
-description: 从Salesforce同步中隐藏Marketo字段 — Marketo文档 — 产品文档
+description: 了解如何从Salesforce同步中隐藏Marketo字段以优化性能。 在同步用户配置文件上使用字段级安全性可排除不需要的字段。
 title: 从 Marketo 同步中隐藏 Salesforce 字段
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 7%
+source-wordcount: '169'
+ht-degree: 11%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719300
-description: 添加/删除自定义对象字段作为智能列表/触发器约束 — Marketo文档 — 产品文档
+description: 了解如何添加或删除Salesforce自定义对象字段作为智能列表筛选器并触发约束。 使用管理员和Salesforce对象同步功能编辑可见字段。
 title: 添加/移除自定义对象字段作为智能列表/触发约束
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '186'
 ht-degree: 12%
 
 ---

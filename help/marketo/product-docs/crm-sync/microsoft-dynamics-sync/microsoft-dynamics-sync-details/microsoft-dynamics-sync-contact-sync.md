@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571833
-description: Microsoft Dynamics同步 — 联系人同步 — Marketo文档 — 产品文档
+description: 了解Microsoft Dynamics和Marketo之间联系同步的工作方式。 了解双向同步、从Marketo创建联系人以及数据冲突规则。
 title: Microsoft Dynamics同步 — 联系人同步
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---

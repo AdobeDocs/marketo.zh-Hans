@@ -1,12 +1,12 @@
 ---
-description: 第2步（共3步） — 创建Marketo Engage的 [!DNL Veeva] CRM用户 — Marketo文档 — 产品文档
+description: 了解如何为Marketo Engage同步创建Veeva CRM用户。 设置页面布局、创建同步用户并为字段更新分配权限。
 title: 第2步（共3步） — 创建Marketo Engage CRM用户
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 6%
+source-wordcount: '555'
+ht-degree: 7%
 
 ---
 
@@ -142,7 +142,7 @@ ht-degree: 6%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-找到不必要的字段，确保[!UICONTROL Read Access]和[!UICONTROL Edit Access]已&#x200B;**取消**&#x200B;选中。 完成后单击&#x200B;**[!UICONTROL Save]**。
+找到不必要的字段，确保[!UICONTROL Read Access]和[!UICONTROL Edit Access]已&#x200B;**取消**&#x200B;选中。 完成后，单击 **[!UICONTROL Save]**。
 
 ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
@@ -150,7 +150,7 @@ ht-degree: 6%
 >
 >仅编辑自定义字段的辅助功能。
 
-1. 完成禁用所有不必要的字段后，请检查[!UICONTROL Read Access]和[!UICONTROL Edit Access]中的以下对象字段。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成禁用所有不必要的字段后，请检查[!UICONTROL Read Access]和[!UICONTROL Edit Access]中的以下对象字段。 完成后，单击 **[!UICONTROL Save]**。
 
 <table>
  <tbody>

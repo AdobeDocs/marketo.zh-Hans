@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571805
-description: 第1步（共3步） — 安装Marketo解决方案（2011年内部部署） — Marketo文档 — 产品文档
+description: 了解如何在本地安装适用于Dynamics 2011的Marketo解决方案。 在Dynamics中导入解决方案并完成安装步骤。
 title: 步骤1/3 — 安装Marketo解决方案（2011年内部部署）
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '260'
 ht-degree: 6%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 6%
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 单击&#x200B;**[!UICONTROL Browse]**。 选择您[下载的Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
+1. 单击 **[!UICONTROL Browse]**。 选择您[下载的Marketo潜在客户管理解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 

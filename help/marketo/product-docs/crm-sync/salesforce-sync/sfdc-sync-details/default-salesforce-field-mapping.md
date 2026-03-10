@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719314
-description: 默认Salesforce字段映射 — Marketo文档 — 产品文档
+description: 了解Salesforce和Salesforce之间的默认Marketo Engage字段映射。 查看商机、联系人、客户和机会字段如何自动映射。
 title: 默认 Salesforce 字段映射
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '151'
 ht-degree: 5%
 
 ---

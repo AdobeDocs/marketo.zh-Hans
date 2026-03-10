@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795802
-description: 关闭发送给潜在客户所有者的电子邮件通知 — Marketo文档 — 产品文档
+description: 了解如何在分配潜在客户时在Salesforce中关闭发送给潜在客户所有者的电子邮件通知。
 title: 关闭发送给潜在客户所有者的电子邮件通知
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '59'
 ht-degree: 33%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 33%
 
 您可以禁用在潜在客户分配时在[!DNL Salesforce]中发送给潜在客户所有者的自动电子邮件通知。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Admin]**。
+1. 前往 **[!UICONTROL Admin]**。
 
    ![](assets/admin-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953471
-description: SFDC同步 — 自定义对象同步 — Marketo文档 — 产品文档
+description: 了解如何设置从Salesforce到Marketo的自定义对象同步。 启用自定义对象并在智能列表、触发器和营销活动中使用它们。
 title: SFDC同步 — 自定义对象同步
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 2%
+source-wordcount: '292'
+ht-degree: 3%
 
 ---
 

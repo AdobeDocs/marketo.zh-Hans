@@ -1,12 +1,12 @@
 ---
-description: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/Unlimited) - Marketo文档 — 产品文档
+description: 了解如何将Marketo字段添加到Salesforce Enterprise或Unlimited版本。 创建商机和联系对象的分数、客户获取计划和客户获取日期。
 title: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '664'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 添加/删除自定义对象字段作为智能列表/触发器约束 — Marketo文档 — 产品文档
+description: 了解如何添加或删除Veeva自定义对象字段作为智能列表筛选器和触发约束。 使用管理员和Veeva对象同步编辑可见字段。
 title: 添加/移除自定义对象字段作为智能列表/触发约束
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 12%
+source-wordcount: '178'
+ht-degree: 13%
 
 ---
 

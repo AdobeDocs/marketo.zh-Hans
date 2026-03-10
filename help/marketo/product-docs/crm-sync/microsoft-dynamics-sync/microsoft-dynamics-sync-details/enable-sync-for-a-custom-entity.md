@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953384
-description: 为自定义实体启用同步 — Marketo文档 — 产品文档
+description: 了解如何在Microsoft Dynamics和Marketo中为自定义实体启用同步。 使用管理员和Microsoft Dynamics选择和启用自定义实体以进行同步。
 title: 为自定义实体启用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 5%
+source-wordcount: '316'
+ht-degree: 4%
 
 ---
 

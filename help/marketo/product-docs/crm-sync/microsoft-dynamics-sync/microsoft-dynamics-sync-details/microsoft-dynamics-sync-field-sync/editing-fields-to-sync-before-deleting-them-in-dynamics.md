@@ -1,11 +1,11 @@
 ---
-description: 在Dynamics中编辑要在删除字段之前进行同步的字段 — Marketo文档 — 产品文档
+description: 了解如何先在Marketo中编辑要同步的字段，然后再在Dynamics中删除它们。 禁用同步，刷新架构，并从同步选择中删除该字段。
 title: 在 Dynamics 中删除字段之前先编辑要同步的字段
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '194'
 ht-degree: 5%
 
 ---

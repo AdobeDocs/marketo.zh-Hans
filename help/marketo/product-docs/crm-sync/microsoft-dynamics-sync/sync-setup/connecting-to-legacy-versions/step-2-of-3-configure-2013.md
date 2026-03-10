@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571816
-description: 第2步（共3步） — 为Marketo配置同步用户（2013年内部部署） — Marketo文档 — 产品文档
+description: 了解如何使用内部部署Dynamics 2013为Marketo配置同步用户。 在Dynamics中设置用户并分配Marketo同步用户角色。
 title: 第2步（共3步） — 为Marketo配置同步用户（2013年内部部署）
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '339'
 ht-degree: 4%
 
 ---

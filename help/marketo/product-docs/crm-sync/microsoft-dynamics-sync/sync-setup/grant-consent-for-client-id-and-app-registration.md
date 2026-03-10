@@ -1,12 +1,12 @@
 ---
-description: 同意客户端Id和应用程序注册 — Marketo文档 — 产品文档
+description: 了解如何为用于Dynamics同步的客户端ID和应用程序注册授予同意。 生成授权URI并授予同步用户的委派用户权限。
 title: 授予客户端 ID 和应用程序注册的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 6%
+source-wordcount: '272'
+ht-degree: 7%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >如果您已在其他选项卡中作为管理员登录Azure，则需要使用其他浏览器或无痕模式以同步用户的身份登录。
+   >如果您已在其他选项卡中以管理员身份登录Azure，则需要使用其他浏览器或无痕模式以同步用户的身份登录。
 
 1. 单击 **[!UICONTROL Accept]**。
 
@@ -83,6 +83,6 @@ ht-degree: 6%
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. 单击&#x200B;**[!UICONTROL Yes]**&#x200B;确认。
+1. 单击 **[!UICONTROL Yes]** 确认。
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

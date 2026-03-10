@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953465
-description: SFDC同步 — 在Salesforce中将潜在客户转化为联系人 — Marketo文档 — 产品文档
+description: 了解当您在Salesforce中将潜在客户转化为联系人时会发生什么情况。 了解Marketo如何反映此更改并使用“将潜在客户转化为”触发器和过滤器。
 title: SFDC同步 — 在Salesforce中将潜在客户转化为联系人
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

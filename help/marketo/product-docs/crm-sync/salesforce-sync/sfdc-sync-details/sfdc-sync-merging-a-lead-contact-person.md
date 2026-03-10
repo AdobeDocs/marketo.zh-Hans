@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515133
-description: SFDC同步 — 合并潜在客户/联系人/人员 — Marketo文档 — 产品文档
+description: 了解Salesforce和Marketo中合并潜在客户、联系人和人员的工作方式。 了解分数、字段值和活动日志的合并规则。
 title: SFDC同步 — 合并潜在客户/联系人/人员
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '203'
 ht-degree: 3%
 
 ---

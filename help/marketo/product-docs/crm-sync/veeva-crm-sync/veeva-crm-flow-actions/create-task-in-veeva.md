@@ -1,11 +1,11 @@
 ---
-description: 在 [!DNL Veeva] - Marketo文档 — 产品文档中创建任务
+description: 了解如何从Marketo在Veeva中创建任务，以告知销售人员何时该做什么。 使用“创建任务”流程步骤并自定义主题、说明和截止日期。
 title: 在 [!DNL Veeva]中创建任务
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---

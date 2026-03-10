@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719304
-description: 隐含的Salesforce操作 — Marketo文档 — 产品文档
+description: 了解哪些Salesforce流程步骤会触发将人员自动同步到SFDC或其他操作。 了解添加到营销活动、更改所有者、创建任务和转化人员的规则。
 title: 隐含的 Salesforce 操作
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 27%
+source-wordcount: '157'
+ht-degree: 23%
 
 ---
 

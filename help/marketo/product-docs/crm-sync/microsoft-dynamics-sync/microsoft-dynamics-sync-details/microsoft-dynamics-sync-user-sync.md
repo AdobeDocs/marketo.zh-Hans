@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571840
-description: Microsoft [!DNL Dynamics] Sync -User Sync - Marketo文档 — 产品文档
+description: 了解用户数据如何从Microsoft Dynamics同步到Marketo。 了解哪些所有者字段同步以及如何在智能列表和流操作中使用它们。
 title: Microsoft [!DNL Dynamics] 同步 — 用户同步
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

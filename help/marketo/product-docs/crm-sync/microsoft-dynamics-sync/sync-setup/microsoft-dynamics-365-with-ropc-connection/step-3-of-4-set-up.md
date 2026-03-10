@@ -1,11 +1,11 @@
 ---
-description: 第3步（共4步） — 在MS [!DNL Dynamics] 上设置客户端应用程序 — Marketo文档 — 产品文档
+description: 了解如何在Microsoft Dynamics上设置客户端应用程序以进行ROPC连接。 在Azure AD中注册应用程序并生成Marketo同步的客户端密钥。
 title: 第3步（共4步） — 在MS [!DNL Dynamics]上设置客户端应用程序
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
