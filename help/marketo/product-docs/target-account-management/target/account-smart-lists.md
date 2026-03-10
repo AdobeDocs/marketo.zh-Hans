@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378814
-description: 帐户智能列表 — Marketo文档 — 产品文档
+description: 了解如何创建帐户智能列表以识别高价值帐户。 定义帐户和匹配的人员过滤器，并在营销活动或导出中使用结果。
 title: 帐户智能列表
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '445'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615804
-description: 在指定帐户中筛选 — Marketo文档 — 产品文档
+description: 了解如何过滤指定帐户以快速缩小数据范围。 在筛选器中使用行业、国家/地区、员工和其他CRM同步字段。
 title: 在命名帐户中进行筛选
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 

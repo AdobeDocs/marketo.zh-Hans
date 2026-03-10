@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727818
-description: 使用角色 — Marketo文档 — 产品文档
+description: 了解如何使用角色对ABM受众进行细分，并针对特定子集进行营销。 在“管理员”中添加角色，并在智能列表筛选器中使用它们。
 title: 使用用户画像
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 2%
+source-wordcount: '196'
+ht-degree: 5%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 2%
 
    ![](assets/four.png)
 
-1. 为您的角色提供一个名称，然后在下拉列表中选择相应的字段。 您最多可以添加两个其他角色。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 为您的角色提供一个名称，然后在下拉列表中选择相应的字段。 您最多可以添加两个其他角色。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ ht-degree: 2%
 
    ![](assets/one-a.png)
 
-1. 单击&#x200B;**[!UICONTROL Personas]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Personas]** 选项卡。
 
    ![](assets/two-a.png)
 

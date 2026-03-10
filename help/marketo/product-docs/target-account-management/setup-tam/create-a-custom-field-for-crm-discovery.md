@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12978647
-description: 为CRM发现创建自定义字段 — Marketo文档 — 产品文档
+description: 了解如何创建自定义指定帐户字段，将其映射到您的CRM，并在CRM帐户发现中使用它。 请参阅发现CRM网格中的映射数据。
 title: 为 CRM 发现创建自定义字段
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 21%
+source-wordcount: '133'
+ht-degree: 18%
 
 ---
 

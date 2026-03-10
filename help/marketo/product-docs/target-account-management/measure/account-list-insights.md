@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380787
-description: 帐户列表洞察 — Marketo文档 — 产品文档
+description: 了解帐户列表功能板和指定帐户的汇总分析。 查看管道、收入、热门帐户以及使用每个列表的资产。
 title: 帐户列表洞察
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '174'
 ht-degree: 4%
 
 ---

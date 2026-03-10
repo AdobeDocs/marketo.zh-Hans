@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979223
-description: 设置帐户Insight - Marketo文档 — 产品文档
+description: 了解如何为销售团队设置帐户Insight 。 在Sales选项卡中配置指定帐户和参与人员的优先顺序。
 title: 设置帐户洞察
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 11%
+source-wordcount: '114'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 11%
 
 >[!PREREQUISITES]
 >
->必须先配置TAM帐户得分[&#128279;](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
+>必须先配置TAM帐户得分[](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
 
 1. 单击 **[!UICONTROL Admin]**。
 

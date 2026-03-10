@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381917
-description: '[!UICONTROL Target Account Management] - Marketo文档 — 产品文档'
+description: 了解Marketo Target帐户管理，以及它如何统一销售和营销以定位关键帐户。 开始使用许可和设置步骤。
 title: '[!UICONTROL Target Account Management]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Marketo TAM包含三个组件：
 基于Marketo帐户的营销还提供各种工具，以跨渠道个性化指定帐户体验。
 
 * 电子邮件和登录页面Personalization
-* Web Personalization
+* Web 个性化
 * URL [Personalization](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 * 广告[Personalization](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 * [个性化](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)再营销

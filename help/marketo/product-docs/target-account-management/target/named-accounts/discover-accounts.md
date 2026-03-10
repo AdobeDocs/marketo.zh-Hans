@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378812
-description: 发现帐户 — Marketo文档 — 产品文档
+description: 了解如何从您的CRM或Marketo公司发现潜在的目标帐户。 将所选帐户添加为指定帐户并自动关联人员。
 title: 发现帐户
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---

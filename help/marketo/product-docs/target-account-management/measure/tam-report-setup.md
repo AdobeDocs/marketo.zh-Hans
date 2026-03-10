@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384438
-description: TAM报表设置 — Marketo文档 — 产品文档
+description: 了解如何为帐户团队设置每周TAM销售报告电子邮件。 选择交货日期、排序顺序以及接收该日期的帐户所有者或团队成员。
 title: TAM 报告设置
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 7%
+source-wordcount: '166'
+ht-degree: 6%
 
 ---
 

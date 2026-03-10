@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17432598
-description: 设置帐户分析 — Marketo文档 — 产品文档
+description: 了解如何在TAM中设置帐户配置文件和创建理想的客户配置文件模型。 开始使用模型选项卡并构建您的第一个模型。
 title: 设置帐户侧写
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 10%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 8%
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Account Profiling]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Account Profiling]** 选项卡。
 
    ![](assets/two-1.png)
 
@@ -42,7 +42,7 @@ ht-degree: 8%
 
    ![](assets/three.png)
 
-1. 为您的模型提供一个名称，然后选择将用作理想客户配置文件(ICP)基础的列表类型/人员列表。 完成后单击&#x200B;**[!UICONTROL Create Model]**。
+1. 为您的模型提供一个名称，然后选择将用作理想客户配置文件(ICP)基础的列表类型/人员列表。 完成后，单击 **[!UICONTROL Create Model]**。
 
    ![](assets/setting-up-account-profiling-4.png)
 

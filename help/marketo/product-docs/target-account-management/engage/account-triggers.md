@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380734
-description: 帐户触发器 — Marketo文档 — 产品文档
+description: 了解如何使用帐户触发器侦听帐户级别的行为活动并对其执行操作。 在智能营销活动中使用指定帐户触发器来吸引关键帐户。
 title: 帐户触发器
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 6%
+source-wordcount: '106'
+ht-degree: 5%
 
 ---
 

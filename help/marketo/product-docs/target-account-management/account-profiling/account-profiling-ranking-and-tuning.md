@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15695924
-description: 帐户分析排名和调整 — Marketo文档 — 产品文档
+description: 了解“帐户分析”如何按ICP对公司进行排名，以及如何将指标数据添加到指定帐户。 优化模型和提升帐户。
 title: 帐户侧写排名与调优
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 3%
+source-wordcount: '393'
+ht-degree: 4%
 
 ---
 

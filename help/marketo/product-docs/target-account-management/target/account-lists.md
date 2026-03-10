@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378814
-description: '[!UICONTROL Account Lists] - Marketo文档 — 产品文档'
+description: 了解帐户列表以及它们如何对指定帐户进行分组以进行定位。 从CRM帐户视图创建静态列表或动态列表。
 title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 0%
+source-wordcount: '324'
+ht-degree: 5%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[!UICONTROL Target Account Management]Web Personalization[中构建智能列表和Web营销活动时，在Marketo &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中创建的帐户列表会自动可用。
+>在[!UICONTROL Target Account Management]Web Personalization[中构建智能列表和Web营销活动时，在Marketo ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中创建的帐户列表会自动可用。
 
-## 创建新的帐户列表 {#create-a-new-account-list}
+## 创建新帐户列表 {#create-a-new-account-list}
 
-1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Create New Account List]**。
+1. 点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL Create New Account List]**。
 
    ![](assets/1a.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 创建新的动态帐户列表 {#create-a-new-dynamic-account-list}
 
-1. 单击&#x200B;**[!UICONTROL New]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Create New Dynamic List]**。
+1. 点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL Create New Dynamic List]**。
 
    ![](assets/1.png)
 

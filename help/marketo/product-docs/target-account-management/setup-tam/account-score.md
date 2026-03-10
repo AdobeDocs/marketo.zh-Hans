@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380774
-description: 帐户得分 — Marketo文档 — 产品文档
+description: 了解帐户评分以及它如何帮助优先处理参与的目标帐户。 通过在TAM管理中分配商机得分来配置帐户得分。
 title: 帐户评分
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 1%
+source-wordcount: '350'
+ht-degree: 2%
 
 ---
 
@@ -47,9 +47,9 @@ ht-degree: 1%
 >要计算帐户得分，您首先需要创建潜在客户得分。 Marketo TAM会自动将潜在客户得分汇总到客户得分。 例如，我们将以上述两个示例为例（_帐户产品兴趣分数_&#x200B;和&#x200B;_帐户Web参与度分数_）。
 >
 >首先，创建商机得分字段，以捕获目标帐户每个商机的相关详细信息。
->&#x200B;>然后，将这些潜在客户得分分配给他们各自的帐户得分：
->&#x200B;>帐户产品利息分数= SUM（商机产品利息分数）
->&#x200B;>帐户Web参与度得分= SUM（潜在客户Web参与度得分）
+>然后，将这些潜在客户得分分配给他们各自的帐户得分：
+>帐户产品利息分数= SUM（商机产品利息分数）
+>帐户Web参与度得分= SUM（潜在客户Web参与度得分）
 
 >[!NOTE]
 >
@@ -81,6 +81,6 @@ ht-degree: 1%
 
    ![](assets/account-score-5.png)
 
-1. 添加所有所需分数。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 添加所有所需分数。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/account-score-6.png)

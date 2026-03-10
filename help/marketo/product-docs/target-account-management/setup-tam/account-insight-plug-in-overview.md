@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979282
-description: '[!DNL Account Insight]插件概述 — Marketo文档 — 产品文档'
+description: 了解将TAM见解呈现给销售团队的Account Insight Chrome插件。 查看指定帐户、活动信息源并有效地吸引帐户。
 title: '[!DNL Account Insight]插件概述'
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >从帐户、潜在客户或联系人启动插件时，CRM上下文适用于Salesforce。 从帐户、潜在客户或联系人启动插件时，CRM上下文将不适用于Dynamics。 对于Dynamics用户，我们建议使用[!DNL Account Insight]插件。
 
-## 指定帐户 {#named-accounts}
+## 命名帐户 {#named-accounts}
 
 按帐户之间的级别查看指定帐户。 此列表仅对帐户所有者可用。 即将提供客户团队支持。
 

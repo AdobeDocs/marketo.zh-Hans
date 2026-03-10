@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381156
-description: 潜在客户帐户匹配 — Marketo文档 — 产品文档
+description: 了解商机与帐户匹配以及Marketo如何近乎实时地将商机与指定帐户匹配。 解决弱匹配并触发新的潜在客户。
 title: 潜在客户到帐户匹配
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '466'
 ht-degree: 2%
 
 ---

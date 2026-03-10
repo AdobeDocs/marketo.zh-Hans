@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384433
-description: 客户团队设置 — Marketo文档 — 产品文档
+description: 了解如何设置帐户团队并将CRM帐户角色映射到TAM。 选择哪些用户查找字段成为帐户团队成员。
 title: 帐户团队设置
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 4%
+source-wordcount: '185'
+ht-degree: 5%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 4%
    >
    >您无法选择[!UICONTROL Account Owner]。 默认情况下，这是从您的CRM中的帐户级别选择的。
 
-1. 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/five-2.png)
 

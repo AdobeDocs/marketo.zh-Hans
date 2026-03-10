@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378816
-description: 将人员添加到指定帐户 — Marketo文档 — 产品文档
+description: 了解如何使用流量操作、智能营销活动流量步骤或列表导入，将人员添加到指定帐户。
 title: 向命名帐户添加人员
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 5%
 
 ---

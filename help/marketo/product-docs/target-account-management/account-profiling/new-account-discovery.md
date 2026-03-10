@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355609
-description: 新帐户发现 — Marketo文档 — 产品文档
+description: 了解如何使用理想客户配置文件中的AI支持的推荐来查找要定位的新客户。 发现新的目标帐户并将其保存到帐户列表。
 title: 新帐户发现
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 2%
+source-wordcount: '302'
+ht-degree: 4%
 
 ---
 
@@ -31,11 +31,11 @@ ht-degree: 2%
 
    ![](assets/new-account-discovery-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Account Profiling]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Account Profiling]** 选项卡。
 
    ![](assets/two-2.png)
 
-1. 单击&#x200B;**[!UICONTROL New Accounts]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL New Accounts]** 选项卡。
 
    ![](assets/three-1.png)
 

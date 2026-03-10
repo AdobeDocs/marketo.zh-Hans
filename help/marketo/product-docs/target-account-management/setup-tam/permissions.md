@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380778
-description: 权限 — Marketo文档 — 产品文档
+description: 了解如何为用户和角色设置TAM权限。 授予访问权限Target帐户管理和访问权限ABM管理员以控制可以使用TAM的人员。
 title: 权限
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '137'
+ht-degree: 4%
 
 ---
 

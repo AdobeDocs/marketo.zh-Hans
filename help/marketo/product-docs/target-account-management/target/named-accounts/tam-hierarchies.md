@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795510
-description: TAM层次结构 — Marketo文档 — 产品文档
+description: 了解TAM层次结构以及它们如何从您的CRM继承父子关系。 只需单击一下即可定位并报告整个帐户系列。
 title: TAM 层级
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '157'
 ht-degree: 2%
 
 ---

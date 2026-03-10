@@ -1,13 +1,13 @@
 ---
 unique-page-id: 26837421
-description: 在 [!DNL LinkedIn] - Marketo文档 — 产品文档上创建与帐户匹配的受众
+description: 了解如何从您的TAM帐户列表创建与LinkedIn帐户匹配的受众。 跨LinkedIn渠道激活受众以进行广告定位。
 title: 在 [!DNL LinkedIn]上创建与帐户匹配的受众
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 3%
+source-wordcount: '176'
+ht-degree: 2%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380785
-description: 指定帐户洞察 — Marketo文档 — 产品文档
+description: 了解指定帐户仪表板及其目标帐户的360度视图。 查看参与、机会、客户团队和ICP指标。
 title: 命名帐户洞察
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '399'
 ht-degree: 2%
 
 ---

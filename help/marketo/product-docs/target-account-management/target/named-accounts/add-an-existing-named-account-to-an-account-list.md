@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615798
-description: 将现有的指定帐户添加到帐户列表 — Marketo文档 — 产品文档
+description: 了解如何将现有的指定帐户添加到帐户列表。 使用指定帐户操作，然后选择添加到帐户列表和所需的列表。
 title: 将现有命名帐户添加到帐户列表
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 

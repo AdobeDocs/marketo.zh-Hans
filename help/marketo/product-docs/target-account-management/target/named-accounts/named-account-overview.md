@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378809
-description: '[!UICONTROL Named Account]概述 — Marketo文档 — 产品文档'
+description: 了解指定帐户以及它们如何托管目标公司的人员。 查看仪表板中所有指定帐户的当前属性数据。
 title: '[!UICONTROL Named Account] 概述'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 5%
+source-wordcount: '245'
+ht-degree: 6%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 5%
    <td>指定帐户的标识号</td>
   </tr>
   <tr>
-   <td><strong><span class="uicontrol">指定帐户</span></strong></td>
+   <td><strong><span class="uicontrol">命名帐户</span></strong></td>
    <td>指定帐户的名称</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ ht-degree: 5%
    <td>归属于指定帐户的员工数</td>
   </tr>
   <tr>
-   <td colspan="1"><strong><span class="uicontrol">帐户得分</span></strong></td>
+   <td colspan="1"><strong><span class="uicontrol">帐户评分</span></strong></td>
    <td colspan="1">来自多个商机的商机得分的汇总，以在帐户级别提供得分</td>
   </tr>
   <tr>

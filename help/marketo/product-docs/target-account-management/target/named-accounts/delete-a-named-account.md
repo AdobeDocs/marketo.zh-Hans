@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615802
-description: 删除指定帐户 — Marketo文档 — 产品文档
+description: 了解如何删除TAM中的指定帐户。 选择帐户并使用指定帐户操作进行删除。
 title: 删除命名帐户
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+source-wordcount: '109'
+ht-degree: 9%
 
 ---
 

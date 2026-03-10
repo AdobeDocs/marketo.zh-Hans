@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615800
-description: 导入[!UICONTROL Named Accounts] - Marketo文档 — 产品文档
+description: 了解如何将指定帐户从CSV文件导入TAM。 上载列表，按帐户名称或域选择重复数据消除模式，并映射字段。
 title: 导入[!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 2%
+source-wordcount: '461'
+ht-degree: 3%
 
 ---
 
@@ -51,7 +51,7 @@ CSV中已经满是潜在的目标帐户吗？ 将它们直接导入TAM！
 
    ![](assets/inasix-2.png)
 
-1. 通过双击&#x200B;**[!UICONTROL Marketo Field]**&#x200B;下拉列表并选择相应的字段来映射每个字段。 完成后单击&#x200B;**[!UICONTROL Next]**。
+1. 通过双击&#x200B;**[!UICONTROL Marketo Field]**&#x200B;下拉列表并选择相应的字段来映射每个字段。 完成后，单击 **[!UICONTROL Next]**。
 
    ![](assets/inaseven.png)
 

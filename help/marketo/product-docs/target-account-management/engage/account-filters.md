@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380732
-description: 帐户过滤器 — Marketo文档 — 产品文档
+description: 了解如何使用以帐户为中心的过滤器识别并吸引指定帐户和角色。 在智能营销活动中使用TAM过滤器来定位正确的帐户。
 title: 帐户过滤器
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
