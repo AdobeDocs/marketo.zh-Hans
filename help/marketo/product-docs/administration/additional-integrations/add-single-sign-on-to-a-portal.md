@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360356
-description: 启用SAML 2.0单点登录，以便您的身份提供程序为Marketo验证用户（不适用于Adobe IMS）。
+description: 启用SAML 2.0单点登录，以便您的身份提供程序为Marketo验证用户。
 title: 为门户添加单点登录
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: bba45ef3db9cf8f1a7a9f9c818a5890ca63d6ec7
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 5%
@@ -25,7 +25,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
 >[!IMPORTANT]
 >
->这不适用于登记到Adobe Identity的订阅。 对于登记到Adobe Identity的订阅，将在Adobe Admin Console中的Adobe组织级别设置单点登录。 Adobe Admin Console目前仅支持SP启动。 [在此处了解详情](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
+>这&#x200B;**不**&#x200B;适用于登记到Adobe Identity的订阅。 以前设置可能会显示（在IMS迁移之前显示的），但不再适用。 对于登记到Adobe Identity的订阅，将在Adobe Admin Console中的Adobe组织级别设置单点登录。 [在此处了解详情](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
 >[!NOTE]
 >
