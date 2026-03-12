@@ -36,7 +36,7 @@ ht-degree: 1%
 
 ![访问片段](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
-默认情况下，该表按&#x200B;_[!UICONTROL Modified]_列排序。 单击其他列标题以更改表的排序依据。 再次单击同一标题可在升序和降序之间切换。
+默认情况下，该表按&#x200B;_[!UICONTROL Modified]_&#x200B;列排序。 单击其他列标题以更改表的排序依据。 再次单击同一标题可在升序和降序之间切换。
 
 ### 查找和筛选
 
@@ -172,7 +172,7 @@ ht-degree: 1%
 您可以使用以下任一方法删除片段：
 
 * 从右侧的片段详细信息中，单击&#x200B;**[!UICONTROL Delete]**。
-* 从&#x200B;_[!UICONTROL Fragments]_列表页面，单击片段旁边的省略号并选择&#x200B;**[!UICONTROL Delete]**。
+* 从&#x200B;_[!UICONTROL Fragments]_&#x200B;列表页面，单击片段旁边的省略号并选择&#x200B;**[!UICONTROL Delete]**。
 
 此操作将打开确认对话框。 您可以通过单击&#x200B;**[!UICONTROL Cancel]**&#x200B;或单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认删除来中止该进程。
 
@@ -190,7 +190,7 @@ ht-degree: 1%
 
 >[!TAB 草稿]
 
-1. 从&#x200B;_[!UICONTROL Fragments]_列表页面中，单击片段名称以将其打开。
+1. 从&#x200B;_[!UICONTROL Fragments]_&#x200B;列表页面中，单击片段名称以将其打开。
 
    随后将显示可视内容的预览，其中片段详细信息位于右侧。
 
@@ -206,7 +206,7 @@ ht-degree: 1%
 
 >[!TAB 已发布]
 
-1. 从&#x200B;_[!UICONTROL Fragments]_列表页面中，单击片段名称以将其打开。
+1. 从&#x200B;_[!UICONTROL Fragments]_&#x200B;列表页面中，单击片段名称以将其打开。
 
    随后将显示可视内容的预览，其中片段详细信息位于右侧。
 
@@ -230,7 +230,7 @@ ht-degree: 1%
 
 >[!TAB 已发布草稿]
 
-有两种方法可以打开草稿版本以便从&#x200B;_[!UICONTROL Fragments]_列表页面进行编辑：
+有两种方法可以打开草稿版本以便从&#x200B;_[!UICONTROL Fragments]_&#x200B;列表页面进行编辑：
 
 * 单击片段名称旁边的&#x200B;_更多_&#x200B;图标(**...**)，然后选择&#x200B;**[!UICONTROL Open draft version]**。
 
@@ -258,7 +258,7 @@ ht-degree: 1%
 
 您可以使用以下任一方法复制片段：
 
-* 从&#x200B;_[!UICONTROL Fragments]_列表页面，单击片段名称旁边的_&#x200B;更多&#x200B;_图标(**...**)，然后选择&#x200B;**[!UICONTROL Duplicate]**。
+* 从&#x200B;_[!UICONTROL Fragments]_&#x200B;列表页面，单击片段名称旁边的_&#x200B;更多&#x200B;_图标(**...**)，然后选择&#x200B;**[!UICONTROL Duplicate]**。
 * 在片段详细信息页面的右上方，单击&#x200B;**[!UICONTROL ... More]**&#x200B;并选择&#x200B;**[!UICONTROL Duplicate]**。
 
 ![复制片段](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
@@ -301,7 +301,7 @@ ht-degree: 1%
 >
 >如果希望片段占据电子邮件中的整个水平布局，请添加[!UICONTROL 1:1列]结构，然后将片段拖放到其中。
 
-保存电子邮件/电子邮件模板后，在选择&#x200B;_[!UICONTROL Used By]_选项卡时，该模板会显示在片段详细信息页面中。 添加的片段在电子邮件或模板中不可编辑 — 发布的源片段定义内容。
+保存电子邮件/电子邮件模板后，在选择&#x200B;_[!UICONTROL Used By]_&#x200B;选项卡时，该模板会显示在片段详细信息页面中。 添加的片段在电子邮件或模板中不可编辑 — 发布的源片段定义内容。
 
 ## 电子邮件和模板创作期间的片段操作 {#fragment-actions-during-email-and-template-authoring}
 
