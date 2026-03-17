@@ -16,7 +16,7 @@ Dynamic Chat 可让您通过一个易于使用的界面，针对访问您网站�
 
 >[!TIP]
 >
->访问[此页面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}可查看 Dynamic Chat 的教程视频。
+>访问[此页面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=zh-Hans){target="_blank"}可查看 Dynamic Chat 的教程视频。
 
 ## 集成 {#integrations}
 
