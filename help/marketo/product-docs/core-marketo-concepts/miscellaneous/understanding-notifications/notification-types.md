@@ -60,4 +60,4 @@ CRM同步通知会提醒您发现CRM同步存在的严重问题，例如权限�
 
 >[!NOTE]
 >
->我们在[开发人员文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes)中列出了您可能会收到的某些错误代码。
+>我们在[开发人员文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/error-codes)中列出了您可能会收到的某些错误代码。

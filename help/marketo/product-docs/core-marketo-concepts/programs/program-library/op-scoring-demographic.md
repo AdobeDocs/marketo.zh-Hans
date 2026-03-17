@@ -14,7 +14,7 @@ ht-degree: 25%
 
 这是一个高级（标记化）操作程序的示例，该程序利用Marketo Engage默认程序进行人口统计评分。 在项目的“我的令牌”选项卡下查看和编辑评分值。 需要名为“人口统计分数”的自定义分数字段。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

@@ -14,7 +14,7 @@ ht-degree: 16%
 
 这是一个活动计划的示例，其中包含注册页面、三封邀请电子邮件和利用Marketo Engage活动计划的后续电子邮件。 适合您需要注册的所有活动，包括路演、午餐、晚宴或贸易展活动演示。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

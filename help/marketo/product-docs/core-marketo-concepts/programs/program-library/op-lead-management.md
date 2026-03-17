@@ -18,7 +18,7 @@ ht-degree: 7%
 >
 >在Marketo Engage中，数据库中的记录称为人员/人员。 此示例中的商机管理是引用CRM中的记录。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html)页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html)页面。
 
 ## 渠道摘要 {#channel-summary}
 
